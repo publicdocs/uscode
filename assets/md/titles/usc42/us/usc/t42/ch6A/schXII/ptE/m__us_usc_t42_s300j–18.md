@@ -79,11 +79,11 @@
 
             There are authorized to be appropriated for each of the fiscal years 1997 through 2001, $3,000,000 to carry out this subsection. To the extent funds under this subsection are not fully appropriated, the Administrator may use not more than $2,000,000 of the funds from amounts reserved under [section 300j–12(n) of this title][/us/usc/t42/s300j–12/n] for health effects studies for purposes of this subsection. The Administrator may transfer a portion of such funds to the Centers for Disease Control and Prevention for such purposes.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1458, as added [Pub. L. 104–182, title I, § 137][/us/pl/104/182/s137], Aug. 6, 1996, [110 Stat. 1680][/us/stat/110/1680].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1458, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 137, Aug. 6, 1996, [110 Stat. 1680][/us/stat/110/1680].)
 
  __Public Health Assessment of Exposure to Perchlorate__ 
 
-[Pub. L. 108–136, div. A, title III, § 323][/us/pl/108/136/s323], Nov. 24, 2003, [117 Stat. 1440][/us/stat/117/1440], provided that:
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 323, Nov. 24, 2003, [117 Stat. 1440][/us/stat/117/1440], provided that:
 
 >     “(a)  __Epidemiological Study of Exposure to Perchlorate__  __.—__ 
 
@@ -122,9 +122,9 @@
 
 [/us/usc/t42/s300j–12/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312%2Fn
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs137
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1680
-[/us/pl/108/136/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs323
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1440
 
 

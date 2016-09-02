@@ -49,7 +49,7 @@
 
             The Secretary may not construe the provisions of this subsection to take precedence over a limitation on joint funding contained in an applicable statute.
 
-([Pub. L. 106–402, title I, § 162][/us/pl/106/402/s162], Oct. 30, 2000, [114 Stat. 1727][/us/stat/114/1727].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 162, Oct. 30, 2000, [114 Stat. 1727][/us/stat/114/1727].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t42/s15081/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15081%2F2
 [/us/usc/t42/s15081/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15081%2F2
-[/us/pl/106/402/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs162
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1727
 
 

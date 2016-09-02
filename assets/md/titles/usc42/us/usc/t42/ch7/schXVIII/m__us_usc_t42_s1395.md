@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to authorize any Federal officer or employee to exercise any supervision or control over the practice of medicine or the manner in which medical services are provided, or over the selection, tenure, or compensation of any officer or employee of any institution, agency, or person providing health services; or to exercise any supervision or control over the administration or operation of any such institution, agency, or person.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1801, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 291][/us/stat/79/291].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1801, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 102(a), July 30, 1965, [79 Stat. 291][/us/stat/79/291].)
 
  __Short Title__ 
 
@@ -25,7 +25,7 @@
 
  __Protecting and Improving Guaranteed Medicare Benefits__ 
 
-[Pub. L. 111–148, title III, § 3601][/us/pl/111/148/s3601], Mar. 23, 2010, [124 Stat. 538][/us/stat/124/538], provided that:
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3601, Mar. 23, 2010, [124 Stat. 538][/us/stat/124/538], provided that:
 
 >     “(a)  __Protecting Guaranteed Medicare Benefits__  __.—__ 
 
@@ -43,12 +43,12 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F291
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/89/97/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs100
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/148/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3601
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F538
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395

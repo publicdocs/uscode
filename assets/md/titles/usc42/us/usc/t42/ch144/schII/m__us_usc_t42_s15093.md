@@ -61,7 +61,7 @@
 
         (3) distributes the grants among States that attempt to meet the needs of unserved and underserved populations, such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, and individuals from underserved geographic areas (rural or urban).
 
-([Pub. L. 106–402, title II, § 204][/us/pl/106/402/s204], Oct. 30, 2000, [114 Stat. 1730][/us/stat/114/1730].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 204, Oct. 30, 2000, [114 Stat. 1730][/us/stat/114/1730].)
 
 ----------
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t42/s15101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15101%2Fa
 [/us/usc/t42/s15094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15094
-[/us/pl/106/402/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs204
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1730
 
 

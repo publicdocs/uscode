@@ -119,7 +119,7 @@
 
         (3) from providing such services to individuals in addition to those individuals to whom such services are required to be provided by this section.
 
-([Pub. L. 101–336, title II, § 223][/us/pl/101/336/s223], July 26, 1990, [104 Stat. 340][/us/stat/104/340].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 223, July 26, 1990, [104 Stat. 340][/us/stat/104/340].)
 
  __Effective Date__ 
 
@@ -127,7 +127,7 @@
 
  __Paratransit System Under FTA Approved Coordinated Plan__ 
 
-[Pub. L. 114–94, div. A, title III, § 3023][/us/pl/114/94/s3023], Dec. 4, 2015, [129 Stat. 1494][/us/stat/129/1494], provided that: 
+[Pub. L. 114–94, div. A, title III][/us/pl/114/94/dA/tIII], § 3023, Dec. 4, 2015, [129 Stat. 1494][/us/stat/129/1494], provided that: 
 
 > “Notwithstanding the provisions of section 37.131(c) of title 49, Code of Federal Regulations, any paratransit system currently coordinating complementary paratransit service for more than 40 fixed route agencies shall be permitted to continue using an existing tiered, distance-based coordinated paratransit fare system, if the fare for the existing tiered, distance-based coordinated paratransit fare system is not increased by a greater percentage than any increase to the fixed route fare for the largest transit agency in the complementary paratransit service area.”
 
@@ -140,11 +140,11 @@
 
 [/us/usc/t42/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12132
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/101/336/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs223
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F340
 [/us/pl/101/336/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231
 [/us/usc/t42/s12141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12141
-[/us/pl/114/94/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3023
+[/us/pl/114/94/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtIII
 [/us/stat/129/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1494
 
 

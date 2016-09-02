@@ -27,7 +27,7 @@
 
         The Secretary shall integrate the performance standards into the processes of the Department of Health and Human Services for grantmaking, monitoring, and evaluation for programs under sections 5711, 5714–1, and 5714–41 of this title.
 
-([Pub. L. 93–415, title III, § 386A][/us/pl/93/415/s386A], as added [Pub. L. 110–378, § 8][/us/pl/110/378/s8], Oct. 8, 2008, [122 Stat. 4071][/us/stat/122/4071].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 386A, as added [Pub. L. 110–378][/us/pl/110/378], § 8, Oct. 8, 2008, [122 Stat. 4071][/us/stat/122/4071].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/93/415/s386A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs386A
-[/us/pl/110/378/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs8
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
 [/us/stat/122/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4071
 
 

@@ -159,7 +159,7 @@
 
         A State may use amounts received under a grant under [section 18202 of this title][/us/usc/t42/s18202] to make funding available to increase public awareness and education concerning any services available to pregnant and parenting teens and women under this chapter, or any other resources available to pregnant and parenting women in keeping with the intent and purposes of this chapter. The State shall be responsible for setting guidelines or limits as to how much of funding may be utilized for public awareness and education in any funding award.
 
-([Pub. L. 111–148, title X, § 10213][/us/pl/111/148/s10213], Mar. 23, 2010, [124 Stat. 932][/us/stat/124/932].)
+([Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10213, Mar. 23, 2010, [124 Stat. 932][/us/stat/124/932].)
 
 ----------
 
@@ -173,7 +173,7 @@
 [/us/usc/t42/s18202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18202
 [/us/usc/t42/s18202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18202
 [/us/usc/t42/s18202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18202
-[/us/pl/111/148/s10213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10213
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F932
 
 

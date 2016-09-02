@@ -59,7 +59,7 @@
 
             Neither [section 1367 of title 28][/us/usc/t28/s1367] nor subsection (c) of this section shall be construed, by reason of a claim arising under such subsection, to confer on the courts of the United States jurisdiction over any State law claim seeking the establishment of a divorce, alimony, equitable distribution of marital property, or child custody decree.
 
-([Pub. L. 103–322, title IV, § 40302][/us/pl/103/322/s40302], Sept. 13, 1994, [108 Stat. 1941][/us/stat/108/1941].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40302, Sept. 13, 1994, [108 Stat. 1941][/us/stat/108/1941].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@ For constitutionality of [section 40302 of Pub. L. 103–322][/us/pl/103/322/s40
 
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/usc/t28/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1367
-[/us/pl/103/322/s40302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40302
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1941
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1941

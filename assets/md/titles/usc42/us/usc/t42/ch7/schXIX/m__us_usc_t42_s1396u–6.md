@@ -143,11 +143,11 @@
 
             (B) the effectiveness of the use of such funds.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1936, as added [Pub. L. 109–171, title VI, § 6034(a)(2)][/us/pl/109/171/s6034/a/2], Feb. 8, 2006, [120 Stat. 74][/us/stat/120/74]; amended [Pub. L. 110–379, § 5(a)(1)][/us/pl/110/379/s5/a/1], (b)(1), Oct. 8, 2008, [122 Stat. 4078][/us/stat/122/4078]; [Pub. L. 111–148, title VI, § 6402(j)(2)][/us/pl/111/148/s6402/j/2], Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762]; [Pub. L. 111–152, title I, § 1303(b)][/us/pl/111/152/s1303/b], Mar. 30, 2010, [124 Stat. 1058][/us/stat/124/1058]; [Pub. L. 114–115, § 6][/us/pl/114/115/s6], Dec. 28, 2015, [129 Stat. 3133][/us/stat/129/3133].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1936, as added [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6034(a)(2), Feb. 8, 2006, [120 Stat. 74][/us/stat/120/74]; amended [Pub. L. 110–379][/us/pl/110/379], § 5(a)(1), (b)(1), Oct. 8, 2008, [122 Stat. 4078][/us/stat/122/4078]; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6402(j)(2), Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762]; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1303(b), Mar. 30, 2010, [124 Stat. 1058][/us/stat/124/1058]; [Pub. L. 114–115][/us/pl/114/115], § 6, Dec. 28, 2015, [129 Stat. 3133][/us/stat/129/3133].)
 
  __References in Text__ 
 
-    Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(B)(ii), is [section 202(b) of title II of Pub. L. 104–191][/us/pl/104/191/s202/b], Aug. 21, 1996, [110 Stat. 1998][/us/stat/110/1998], which amended sections 1395h and 1395u of this title.
+    Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(B)(ii), is [section 202(b) of title II of Pub. L. 104–191][/us/pl/104/191/tII/s202/b], Aug. 21, 1996, [110 Stat. 1998][/us/stat/110/1998], which amended sections 1395h and 1395u of this title.
 
  __Prior Provisions__ 
 
@@ -155,33 +155,33 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–115, § 6(1)][/us/pl/114/115/s6/1], inserted “, or otherwise,” after “entities”.
+    2015—Subsec. (a). [Pub. L. 114–115][/us/pl/114/115], § 6(1), inserted “, or otherwise,” after “entities”.
 
-    Subsec. (e)(1). [Pub. L. 114–115, § 6(2)(A)][/us/pl/114/115/s6/2/A], inserted “(including the costs of equipment, salaries and benefits, and travel and training)” after “Program under this section” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 114–115][/us/pl/114/115], § 6(2)(A), inserted “(including the costs of equipment, salaries and benefits, and travel and training)” after “Program under this section” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 114–115, § 6(2)(B)][/us/pl/114/115/s6/2/B], substituted “by 100, or such number as determined necessary by the Secretary to carry out the Program,” for “by 100”.
+    Subsec. (e)(3). [Pub. L. 114–115][/us/pl/114/115], § 6(2)(B), substituted “by 100, or such number as determined necessary by the Secretary to carry out the Program,” for “by 100”.
 
-    2010—Subsec. (c)(2)(D), (E). [Pub. L. 111–148, § 6402(j)(2)(A)][/us/pl/111/148/s6402/j/2/A], added subpar. (D) and redesignated former subpar. (D) as (E).
+    2010—Subsec. (c)(2)(D), (E). [Pub. L. 111–148][/us/pl/111/148], § 6402(j)(2)(A), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (e)(1)(C). [Pub. L. 111–152, § 1303(b)(2)(A)][/us/pl/111/152/s1303/b/2/A], substituted “for each of fiscal years 2009 and 2010” for “for each fiscal year thereafter”.
+    Subsec. (e)(1)(C). [Pub. L. 111–152][/us/pl/111/152], § 1303(b)(2)(A), substituted “for each of fiscal years 2009 and 2010” for “for each fiscal year thereafter”.
 
-    Subsec. (e)(1)(D). [Pub. L. 111–152, § 1303(b)(1)][/us/pl/111/152/s1303/b/1], (2)(B), (3), added subpar. (D).
+    Subsec. (e)(1)(D). [Pub. L. 111–152][/us/pl/111/152], § 1303(b)(1), (2)(B), (3), added subpar. (D).
 
-    Subsec. (e)(4), (5). [Pub. L. 111–148, § 6402(j)(2)(B)][/us/pl/111/148/s6402/j/2/B], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (e)(4), (5). [Pub. L. 111–148][/us/pl/111/148], § 6402(j)(2)(B), added par. (4) and redesignated former par. (4) as (5).
 
-    2008—Subsec. (b)(4). [Pub. L. 110–379, § 5(a)(1)(A)][/us/pl/110/379/s5/a/1/A], substituted “Education or training, including at such national, State, or regional conferences as the Secretary may establish, of State or local officers, employees, or independent contractors responsible for the administration or the supervision of the administration of the State plan under this subchapter,” for “Education of”.
+    2008—Subsec. (b)(4). [Pub. L. 110–379][/us/pl/110/379], § 5(a)(1)(A), substituted “Education or training, including at such national, State, or regional conferences as the Secretary may establish, of State or local officers, employees, or independent contractors responsible for the administration or the supervision of the administration of the State plan under this subchapter,” for “Education of”.
 
-    Subsec. (e)(2). [Pub. L. 110–379, § 5(a)(1)(B)][/us/pl/110/379/s5/a/1/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Amounts appropriated pursuant to paragraph (1) shall remain available until expended.”
+    Subsec. (e)(2). [Pub. L. 110–379][/us/pl/110/379], § 5(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Amounts appropriated pursuant to paragraph (1) shall remain available until expended.”
 
-    Subsec. (e)(2)(B)(ii). [Pub. L. 110–379, § 5(b)(1)][/us/pl/110/379/s5/b/1], added cl. (ii).
+    Subsec. (e)(2)(B)(ii). [Pub. L. 110–379][/us/pl/110/379], § 5(b)(1), added cl. (ii).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–379, § 5(a)(2)][/us/pl/110/379/s5/a/2], Oct. 8, 2008, [122 Stat. 4078][/us/stat/122/4078], provided that: 
+[Pub. L. 110–379][/us/pl/110/379], § 5(a)(2), Oct. 8, 2008, [122 Stat. 4078][/us/stat/122/4078], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 1936 of the Social Security Act \[[42 U.S.C. 1396u–6][/us/usc/t42/s1396u–6]\], as added by section 6034(a) of the Deficit Reduction Act of 2005 ([Public Law 109–171][/us/pl/109/171]).”
 
-[Pub. L. 110–379, § 5(b)(2)][/us/pl/110/379/s5/b/2], Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079], provided that: 
+[Pub. L. 110–379][/us/pl/110/379], § 5(b)(2), Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to conferences conducted under the authority of section 1936(b)(4) of the Social Security Act ([42 U.S.C. 1396u–6(b)(4)][/us/usc/t42/s1396u–6/b/4]) after the date of enactment of this Act \[Oct. 8, 2008\].”
 
@@ -196,34 +196,34 @@
 [/us/usc/t42/s1396b/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fm
 [/us/usc/t42/s1320c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%936
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/109/171/s6034/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6034%2Fa%2F2
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F74
-[/us/pl/110/379/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs5%2Fa%2F1
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
 [/us/stat/122/4078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4078
-[/us/pl/111/148/s6402/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fj%2F2
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F762
-[/us/pl/111/152/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1303%2Fb
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1058
-[/us/pl/114/115/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
 [/us/stat/129/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3133
-[/us/pl/104/191/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs202%2Fb
+[/us/pl/104/191/tII/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII%2Fs202%2Fb
 [/us/stat/110/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1998
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
-[/us/pl/114/115/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6%2F1
-[/us/pl/114/115/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6%2F2%2FA
-[/us/pl/114/115/s6/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6%2F2%2FB
-[/us/pl/111/148/s6402/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fj%2F2%2FA
-[/us/pl/111/152/s1303/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1303%2Fb%2F2%2FA
-[/us/pl/111/152/s1303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1303%2Fb%2F1
-[/us/pl/111/148/s6402/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fj%2F2%2FB
-[/us/pl/110/379/s5/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs5%2Fa%2F1%2FA
-[/us/pl/110/379/s5/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs5%2Fa%2F1%2FB
-[/us/pl/110/379/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs5%2Fb%2F1
-[/us/pl/110/379/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs5%2Fa%2F2
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
 [/us/stat/122/4078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4078
 [/us/usc/t42/s1396u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%936
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/110/379/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs5%2Fb%2F2
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
 [/us/stat/122/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4079
 [/us/usc/t42/s1396u–6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%936%2Fb%2F4
 

@@ -17,7 +17,7 @@
 
     Pursuant to its authority under [section 994 of title 28][/us/usc/t28/s994], the United States Sentencing Commission shall amend its sentencing guidelines to provide an appropriate enhancement for a defendant convicted of violating [section 860 of title 21][/us/usc/t21/s860].
 
-([Pub. L. 103–322, title IX, § 90102][/us/pl/103/322/s90102], Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].)
+([Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90102, Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t21/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs860
-[/us/pl/103/322/s90102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90102
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1987
 [/us/pl/103/322/s90102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90102
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994

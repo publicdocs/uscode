@@ -31,11 +31,11 @@
 
         The Council is authorized to appoint such special advisory or technical committees as may be useful in carrying out its functions.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 641, formerly § 621, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 458][/us/stat/78/458], renumbered § 641, [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 344][/us/stat/84/344]; amended [Pub. L. 91–515, title VI, § 601(b)(2)][/us/pl/91/515/s601/b/2], Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 111–256, § 2(f)(4)][/us/pl/111/256/s2/f/4], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 641, formerly § 621, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 458][/us/stat/78/458], renumbered § 641, [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 344][/us/stat/84/344]; amended [Pub. L. 91–515, title VI][/us/pl/91/515/tVI], § 601(b)(2), Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 111–256][/us/pl/111/256], § 2(f)(4), Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those comprising this section were contained in subsec. (b) of a prior section 291k, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 633, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [June 24, 1948, ch. 621, § 6(b)][/us/act/1948-06-24/ch621/s6/b], [62 Stat. 602][/us/stat/62/602]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising this section were contained in subsec. (b) of a prior section 291k, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 633, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [June 24, 1948, ch. 621][/us/act/1948-06-24/ch621], § 6(b), [62 Stat. 602][/us/stat/62/602]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 
  __Terms of Federal Hospital Council Members__ 
 
-    [Pub. L. 88–443, § 3(b)(3)][/us/pl/88/443/s3/b/3], Aug. 18, 1964, [78 Stat. 462][/us/stat/78/462], providing that the terms of members serving on the Council prior to Aug. 18, 1964, shall expire on the date they would have expired had [Pub. L. 88–443][/us/pl/88/443] not been enacted, is set out as an Effective Date note under [section 291 of this title][/us/usc/t42/s291].
+    [Pub. L. 88–443][/us/pl/88/443], § 3(b)(3), Aug. 18, 1964, [78 Stat. 462][/us/stat/78/462], providing that the terms of members serving on the Council prior to Aug. 18, 1964, shall expire on the date they would have expired had [Pub. L. 88–443][/us/pl/88/443] not been enacted, is set out as an Effective Date note under [section 291 of this title][/us/usc/t42/s291].
 
  __Termination of Advisory Committees__ 
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __Definitions__ 
 
@@ -69,20 +69,20 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F458
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F344
-[/us/pl/91/515/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fb%2F2
+[/us/pl/91/515/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtVI
 [/us/stat/84/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1311
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/111/256/s2/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Ff%2F4
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1948-06-24/ch621/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch621%2Fs6%2Fb
+[/us/act/1948-06-24/ch621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch621
 [/us/stat/62/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F602
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
@@ -94,11 +94,11 @@
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/88/443/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fb%2F3
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F462
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/111/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2

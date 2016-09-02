@@ -23,11 +23,11 @@
 
     the amount paid to any such State for any quarter under section 303(a), 1203(a), 1353(a), or 1383(a) of this title shall be increased by 50 per centum of such expenditures, except that the excess above $500 expended with respect to any one home shall not be included in determining such expenditures.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1119, as added [Pub. L. 90–248, title II, § 209(a)][/us/pl/90/248/s209/a], Jan. 2, 1968, [81 Stat. 894][/us/stat/81/894]; amended [Pub. L. 104–193, title I, § 108(g)(5)][/us/pl/104/193/s108/g/5], Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1119, as added [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 209(a), Jan. 2, 1968, [81 Stat. 894][/us/stat/81/894]; amended [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(g)(5), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].)
 
  __References in Text__ 
 
-    [Section 1383(a) of this title][/us/usc/t42/s1383/a], referred to in text, is a reference to [section 1383(a) of this title][/us/usc/t42/s1383/a] as it existed prior to the general revision of this subchapter by [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], eff. Jan. 1, 1974. The prior section (which is set out as a note under [section 1383 of this title][/us/usc/t42/s1383]) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
+    [Section 1383(a) of this title][/us/usc/t42/s1383/a], referred to in text, is a reference to [section 1383(a) of this title][/us/usc/t42/s1383/a] as it existed prior to the general revision of this subchapter by [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 301, Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], eff. Jan. 1, 1974. The prior section (which is set out as a note under [section 1383 of this title][/us/usc/t42/s1383]) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–248, title II, § 209(b)][/us/pl/90/248/s209/b], Jan. 2, 1968, [81 Stat. 895][/us/stat/81/895], provided that: 
+[Pub. L. 90–248, title II][/us/pl/90/248/tII], § 209(b), Jan. 2, 1968, [81 Stat. 895][/us/stat/81/895], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply with respect to expenditures made after December 31, 1967.”
 
@@ -51,20 +51,20 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs209%2Fa
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F894
-[/us/pl/104/193/s108/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fg%2F5
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2168
 [/us/usc/t42/s1383/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa
 [/us/usc/t42/s1383/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa
-[/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/90/248/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs209%2Fb
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F895
 
 

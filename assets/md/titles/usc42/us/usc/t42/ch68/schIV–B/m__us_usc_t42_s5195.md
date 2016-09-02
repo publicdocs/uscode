@@ -17,11 +17,11 @@
 
     The purpose of this subchapter is to provide a system of emergency preparedness for the protection of life and property in the United States from hazards and to vest responsibility for emergency preparedness jointly in the Federal Government and the States and their political subdivisions. The Congress recognizes that the organizational structure established jointly by the Federal Government and the States and their political subdivisions for emergency preparedness purposes can be effectively utilized to provide relief and assistance to people in areas of the United States struck by a hazard. The Federal Government shall provide necessary direction, coordination, and guidance, and shall provide necessary assistance, as authorized in this subchapter so that a comprehensive emergency preparedness system exists for all hazards.
 
-([Pub. L. 93–288, title VI, § 601][/us/pl/93/288/s601], as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)][/us/pl/103/337/s3411/a/3], Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100].)
+([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 601, as added [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(3), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 2251 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2251 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 3412(a).
 
  __Transfer of Functions__ 
 
@@ -31,13 +31,13 @@
 
  __Multihazard Preparedness and Mitigation__ 
 
-[Pub. L. 106–74, title III][/us/pl/106/74], Oct. 20, 1999, [113 Stat. 1086][/us/stat/113/1086], as amended by [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided in part: 
+[Pub. L. 106–74, title III][/us/pl/106/74/tIII], Oct. 20, 1999, [113 Stat. 1086][/us/stat/113/1086], as amended by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided in part: 
 
 > “That beginning in fiscal year 2000 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator of FEMA is authorized to provide assistance from funds appropriated under this heading \[EMERGENCY MANAGEMENT PLANNING AND ASSISTANCE\], subject to terms and conditions as the Administrator of FEMA shall establish, to any State for multi-hazard preparedness and mitigation through consolidated emergency management performance grants”.
 
  __Multihazard Research, Planning, and Mitigation; Functions, Etc., of Federal Emergency Management Agency__ 
 
-[Pub. L. 96–472, title III][/us/pl/96/472], §§ 301, 302, Oct. 19, 1980, [94 Stat. 2260][/us/stat/94/2260], as amended by [Pub. L. 97–80, title III, § 301][/us/pl/97/80/s301], Nov. 20, 1981, [95 Stat. 1083][/us/stat/95/1083]; [Pub. L. 97–464, title II, § 201][/us/pl/97/464/s201], Jan. 12, 1983, [96 Stat. 2533][/us/stat/96/2533]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that:
+[Pub. L. 96–472, title III][/us/pl/96/472/tIII], §§ 301, 302, Oct. 19, 1980, [94 Stat. 2260][/us/stat/94/2260], as amended by [Pub. L. 97–80, title III][/us/pl/97/80/tIII], § 301, Nov. 20, 1981, [95 Stat. 1083][/us/stat/95/1083]; [Pub. L. 97–464, title II][/us/pl/97/464/tII], § 201, Jan. 12, 1983, [96 Stat. 2533][/us/stat/96/2533]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that:
 
 > “Sec. 301.
 
@@ -105,7 +105,7 @@
 
  __REORGANIZATION PLAN NO. 1 OF 1958__ 
 
-    Eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799], as amended [Pub. L. 85–763][/us/pl/85/763], Aug. 26, 1958, [72 Stat. 861][/us/stat/72/861]; [Pub. L. 87–296, § 1][/us/pl/87/296/s1], Sept. 22, 1961, [75 Stat. 630][/us/stat/75/630]; [Pub. L. 87–367, title I, § 103(10)][/us/pl/87/367/s103/10], Oct. 4, 1961, [75 Stat. 788][/us/stat/75/788]; [Pub. L. 88–426, title III, § 305(11)][/us/pl/88/426/s305/11], Aug. 14, 1964, [78 Stat. 423][/us/stat/78/423]; [Pub. L. 90–608][/us/pl/90/608], ch. IV, § 402, Oct. 21, 1968, [82 Stat. 1194][/us/stat/82/1194]; Reorg. Plan No. 1 of 1973, § 3(a), eff. July 1, 1973, 38 F.R. 9579, [87 Stat. 1089][/us/stat/87/1089]
+    Eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799], as amended [Pub. L. 85–763][/us/pl/85/763], Aug. 26, 1958, [72 Stat. 861][/us/stat/72/861]; [Pub. L. 87–296][/us/pl/87/296], § 1, Sept. 22, 1961, [75 Stat. 630][/us/stat/75/630]; [Pub. L. 87–367, title I][/us/pl/87/367/tI], § 103(10), Oct. 4, 1961, [75 Stat. 788][/us/stat/75/788]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(11), Aug. 14, 1964, [78 Stat. 423][/us/stat/78/423]; [Pub. L. 90–608][/us/pl/90/608], ch. IV, § 402, Oct. 21, 1968, [82 Stat. 1194][/us/stat/82/1194]; Reorg. Plan No. 1 of 1973, § 3(a), eff. July 1, 1973, 38 F.R. 9579, [87 Stat. 1089][/us/stat/87/1089]
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 24, 1958, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see [5 U.S.C. 901][/us/usc/t5/s901] et seq.\].
 
@@ -187,7 +187,7 @@
 
  __REORGANIZATION PLAN NO. 1 OF 1973__ 
 
-    Eff. July 1, 1973, 38 F.R. 9579, [87 Stat. 1089][/us/stat/87/1089], as amended May 11, 1976, [Pub. L. 94–282, title V, § 502][/us/pl/94/282/s502], [90 Stat. 472][/us/stat/90/472]
+    Eff. July 1, 1973, 38 F.R. 9579, [87 Stat. 1089][/us/stat/87/1089], as amended May 11, 1976, [Pub. L. 94–282, title V][/us/pl/94/282/tV], § 502, [90 Stat. 472][/us/stat/90/472]
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, January 26, 1973, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -197,7 +197,7 @@
 
     Except as provided in section 3(a)(2) of this reorganization plan, there are hereby transferred to the President of the United States all functions vested by law in the Office of Emergency Preparedness or the Director of the Office of Emergency Preparedness after the effective date of Reorganization Plan No. 1 of 1958.
 
-    Sec. 2. \[Repealed. [Pub. L. 94–282, title V, § 502][/us/pl/94/282/s502], May 11, 1976, [90 Stat. 472][/us/stat/90/472]. Section transferred to the Director of the National Science Foundation all functions vested by law in the Office of Science and Technology or the Director or Deputy Director of the Office of Science and Technology.\]
+    Sec. 2. \[Repealed. [Pub. L. 94–282, title V][/us/pl/94/282/tV], § 502, May 11, 1976, [90 Stat. 472][/us/stat/90/472]. Section transferred to the Director of the National Science Foundation all functions vested by law in the Office of Science and Technology or the Director or Deputy Director of the Office of Science and Technology.\]
 
  __Sec. 3. Abolitions__ 
 
@@ -615,7 +615,7 @@
 
     This Order is effective July 15, 1979.
 
-    \[Section 1–106 of Ex. Ord. No. 12155, which enacted sections 4–205 and 4–206 of Ex. Ord. No. 12148, was revoked by [Pub. L. 100–180, div. C, title II, § 3203(b)][/us/pl/100/180/s3203/b], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247].\]
+    \[Section 1–106 of Ex. Ord. No. 12155, which enacted sections 4–205 and 4–206 of Ex. Ord. No. 12148, was revoked by [Pub. L. 100–180, div. C, title II][/us/pl/100/180/dC/tII], § 3203(b), Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247].\]
 
     \[Ex. Ord. No. 13286, § 52, which directed amendment of Ex. Ord. No. 12148, set out above, by substituting “the Secretary of Homeland Security” for “the Director of the Federal Emergency Management Agency” wherever appearing, was executed by substituting “Secretary of Homeland Security” for “Director of the Federal Emergency Management Agency” wherever appearing, including after “The” in section 2–101, and for “Director” in sections 2–102 to 2–105, 2–201, 2–206, and 2–302.\]
 
@@ -1888,32 +1888,32 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/93/288/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs601
-[/us/pl/103/337/s3411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F3
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3100
-[/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtIII
 [/us/stat/113/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1086
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/96/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472
+[/us/pl/96/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2FtIII
 [/us/stat/94/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2260
-[/us/pl/97/80/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F80%2Fs301
+[/us/pl/97/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F80%2FtIII
 [/us/stat/95/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1083
-[/us/pl/97/464/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F464%2Fs201
+[/us/pl/97/464/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F464%2FtII
 [/us/stat/96/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2533
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/stat/72/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1799
 [/us/pl/85/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F763
 [/us/stat/72/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F861
-[/us/pl/87/296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F296%2Fs1
+[/us/pl/87/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F296
 [/us/stat/75/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F630
-[/us/pl/87/367/s103/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F367%2Fs103%2F10
+[/us/pl/87/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F367%2FtI
 [/us/stat/75/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F788
-[/us/pl/88/426/s305/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F11
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F423
 [/us/pl/90/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608
 [/us/stat/82/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1194
@@ -1929,9 +1929,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/90/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608
 [/us/stat/82/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1194
 [/us/stat/87/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1089
-[/us/pl/94/282/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs502
+[/us/pl/94/282/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtV
 [/us/stat/90/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F472
-[/us/pl/94/282/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs502
+[/us/pl/94/282/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtV
 [/us/stat/90/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F472
 [/us/usc/t42/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2471
 [/us/usc/t5/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs906%2Fa
@@ -1997,7 +1997,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t42/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1450
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
-[/us/pl/100/180/s3203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3203%2Fb
+[/us/pl/100/180/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtII
 [/us/stat/101/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1247
 [/us/stat/72/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1799
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

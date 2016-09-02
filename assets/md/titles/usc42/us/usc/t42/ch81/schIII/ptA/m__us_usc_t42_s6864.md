@@ -43,29 +43,29 @@
 
         Effective with fiscal year 1991, and annually thereafter, the Secretary shall update the population, eligible households, climatic, residential energy use, and all other data used in allocating the funds under this part among the States pursuant to subsection (a) of this section.
 
-([Pub. L. 94–385, title IV, § 414][/us/pl/94/385/s414], Aug. 14, 1976, [90 Stat. 1154][/us/stat/90/1154]; [Pub. L. 96–294, title V][/us/pl/96/294], §§ 573(c), 577(2), June 30, 1980, [94 Stat. 759][/us/stat/94/759], 760; [Pub. L. 101–440, § 7(c)][/us/pl/101/440/s7/c], (g), Oct. 18, 1990, [104 Stat. 1012][/us/stat/104/1012], 1014; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(38), (f)(29)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 113–128, title V, § 512(k)][/us/pl/113/128/s512/k], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 414, Aug. 14, 1976, [90 Stat. 1154][/us/stat/90/1154]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], §§ 573(c), 577(2), June 30, 1980, [94 Stat. 759][/us/stat/94/759], 760; [Pub. L. 101–440][/us/pl/101/440], § 7(c), (g), Oct. 18, 1990, [104 Stat. 1012][/us/stat/104/1012], 1014; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(38), (f)(29)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(k), July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
 
  __References in Text__ 
 
     The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
     2014—Subsec. (b)(3). [Pub. L. 113–128][/us/pl/113/128] substituted “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Innovation and Opportunity Act” for “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Investment Act of 1998”.
 
-    1998—Subsec. (b)(3). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(29)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
+    1998—Subsec. (b)(3). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(29)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(38)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(38)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973”.
 
-    1990—Subsec. (a)(D). [Pub. L. 101–440, § 7(c)(1)][/us/pl/101/440/s7/c/1], inserted “, such as the cost of heating and cooling,” after “necessary”.
+    1990—Subsec. (a)(D). [Pub. L. 101–440][/us/pl/101/440], § 7(c)(1), inserted “, such as the cost of heating and cooling,” after “necessary”.
 
-    Subsec. (b)(3). [Pub. L. 101–440, § 7(g)][/us/pl/101/440/s7/g], added cl. (B) and redesignated former cl. (B) as (C).
+    Subsec. (b)(3). [Pub. L. 101–440][/us/pl/101/440], § 7(g), added cl. (B) and redesignated former cl. (B) as (C).
 
-    Subsec. (c). [Pub. L. 101–440, § 7(c)(2)][/us/pl/101/440/s7/c/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–440][/us/pl/101/440], § 7(c)(2), added subsec. (c).
 
-    1980—Subsec. (a). [Pub. L. 96–294, § 577(2)][/us/pl/96/294/s577/2], substituted “Secretary” for “Administrator” wherever appearing.
+    1980—Subsec. (a). [Pub. L. 96–294][/us/pl/96/294], § 577(2), substituted “Secretary” for “Administrator” wherever appearing.
 
     Subsec. (b). [Pub. L. 96–294][/us/pl/96/294], §§ 573(c), 577(2), substituted “Secretary” for “Administrator” and added par. (4).
 
@@ -89,30 +89,30 @@
 [/us/usc/t42/s6865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6865
 [/us/usc/t42/s6865/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6865%2Fb%2F1
 [/us/usc/t42/s2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2781
-[/us/pl/94/385/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs414
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1154
-[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F759
-[/us/pl/101/440/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fc
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1012
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s512/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fk
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/101/440/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fc%2F1
-[/us/pl/101/440/s7/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fg
-[/us/pl/101/440/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fc%2F2
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506

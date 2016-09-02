@@ -47,7 +47,7 @@
 
         Nothing in paragraph (1) or any provision of the Patient Protection and Affordable Care Act ([Public Law 111–148][/us/pl/111/148]), title I or subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 ([Public Law 111–152][/us/pl/111/152]), or title XVIII or XIX of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq., [42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) shall be construed to preempt any State or common law governing medical professional or medical product liability actions or claims.
 
-([Pub. L. 114–10, title I, § 106(d)][/us/pl/114/10/s106/d], Apr. 16, 2015, [129 Stat. 142][/us/stat/129/142].)
+([Pub. L. 114–10, title I][/us/pl/114/10/tI], § 106(d), Apr. 16, 2015, [129 Stat. 142][/us/stat/129/142].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/114/10/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fd
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F142
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

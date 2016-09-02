@@ -25,7 +25,7 @@
 
     (4) education, training, and retraining of undergraduate and graduate students and professional chemists and chemical engineers, including through partnerships with industry, in green chemistry science and engineering.
 
-([Pub. L. 111–358, title V, § 509][/us/pl/111/358/s509], Jan. 4, 2011, [124 Stat. 4009][/us/stat/124/4009].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 509, Jan. 4, 2011, [124 Stat. 4009][/us/stat/124/4009].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs509
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4009
 [/us/pl/111/358/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs502
 [/us/usc/t42/s1862p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p

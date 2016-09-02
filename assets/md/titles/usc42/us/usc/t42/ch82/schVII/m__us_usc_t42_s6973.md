@@ -31,21 +31,21 @@
 
         Whenever the United States or the Administrator proposes to covenant not to sue or to forbear from suit or to settle any claim arising under this section, notice, and opportunity for a public meeting in the affected area, and a reasonable opportunity to comment on the proposed settlement prior to its final entry shall be afforded to the public. The decision of the United States or the Administrator to enter into or not to enter into such Consent Decree, covenant or agreement shall not constitute a final agency action subject to judicial review under this chapter or chapter 7 of title 5.
 
-([Pub. L. 89–272, title II, § 7003][/us/pl/89/272/s7003], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2826][/us/stat/90/2826]; amended [Pub. L. 95–609, § 7(q)][/us/pl/95/609/s7/q], Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; [Pub. L. 96–482, § 25][/us/pl/96/482/s25], Oct. 21, 1980, [94 Stat. 2348][/us/stat/94/2348]; [Pub. L. 98–616, title IV][/us/pl/98/616], §§ 402, 403(a), 404, Nov. 8, 1984, [98 Stat. 3271][/us/stat/98/3271], 3273.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7003, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2826][/us/stat/90/2826]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(q), Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; [Pub. L. 96–482][/us/pl/96/482], § 25, Oct. 21, 1980, [94 Stat. 2348][/us/stat/94/2348]; [Pub. L. 98–616, title IV][/us/pl/98/616/tIV], §§ 402, 403(a), 404, Nov. 8, 1984, [98 Stat. 3271][/us/stat/98/3271], 3273.)
 
  __Codification__ 
 
-    In subsec. (d), “chapter 7 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (d), “chapter 7 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 402][/us/pl/98/616/s402], inserted “past or present” after “evidence that the”, substituted “against any person (including any past or present generator, past or present transporter, or past or present owner or operator of a treatment, storage, or disposal facility) who has contributed or, who is” for “to immediately restrain any person”, substituted “to restrain such person from” for “to stop”, substituted “, to order such person to take such other action as may be necessary, or both” for “or to take such other action as may be necessary”, and inserted “A transporter shall not be deemed to have contributed or to be contributing to such handling, storage, treatment, or disposal, taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractural \[sic\] arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.”
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 402, inserted “past or present” after “evidence that the”, substituted “against any person (including any past or present generator, past or present transporter, or past or present owner or operator of a treatment, storage, or disposal facility) who has contributed or, who is” for “to immediately restrain any person”, substituted “to restrain such person from” for “to stop”, substituted “, to order such person to take such other action as may be necessary, or both” for “or to take such other action as may be necessary”, and inserted “A transporter shall not be deemed to have contributed or to be contributing to such handling, storage, treatment, or disposal, taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractural \[sic\] arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.”
 
-    Subsec. (c). [Pub. L. 98–616, § 403(a)][/us/pl/98/616/s403/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–616][/us/pl/98/616], § 403(a), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 98–616, § 404][/us/pl/98/616/s404], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–616][/us/pl/98/616], § 404, added subsec. (d).
 
-    1980—[Pub. L. 96–482, § 25][/us/pl/96/482/s25], designated existing provisions as subsec. (a), substituted “may present” for “is presenting” and “such handling, storage, treatment, transportation or disposal” for “the alleged disposal” and authorized other action to be taken by the Administrator after notice including issuance of protective orders relating to public health and the environment, and added subsec. (b).
+    1980—[Pub. L. 96–482][/us/pl/96/482], § 25, designated existing provisions as subsec. (a), substituted “may present” for “is presenting” and “such handling, storage, treatment, transportation or disposal” for “the alleged disposal” and authorized other action to be taken by the Administrator after notice including issuance of protective orders relating to public health and the environment, and added subsec. (b).
 
     1978—[Pub. L. 95–609][/us/pl/95/609] struck out “for” after “restrain any person”.
 
@@ -60,21 +60,21 @@
 ----------
 ----------
 
-[/us/pl/89/272/s7003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7003
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2826
-[/us/pl/95/609/s7/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fq
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3083
-[/us/pl/96/482/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs25
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2348
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIV
 [/us/stat/98/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3271
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/98/616/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs402
-[/us/pl/98/616/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs403%2Fa
-[/us/pl/98/616/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs404
-[/us/pl/96/482/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs25
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

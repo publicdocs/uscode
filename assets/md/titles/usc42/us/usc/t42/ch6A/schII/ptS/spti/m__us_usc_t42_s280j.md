@@ -121,11 +121,11 @@
 
         (3) other information, as the Secretary determines to be appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399HH, as added and amended [Pub. L. 111–148, title III, § 3011][/us/pl/111/148/s3011], title X, § 10302, Mar. 23, 2010, [124 Stat. 378][/us/stat/124/378], 937.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399HH, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3011, title X, § 10302, Mar. 23, 2010, [124 Stat. 378][/us/stat/124/378], 937.)
 
  __References in Text__ 
 
-    [Section 285t of this title][/us/usc/t42/s285t], referred to in subsec. (a)(2)(B)(viii), was in the original “section 485E”, meaning section 485E of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [section 101(a) of Pub. L. 106–525][/us/pl/106/525/s101/a], which was classified to [section 287c–31 of this title][/us/usc/t42/s287c–31]. Section 485E of act July 1, 1944, was renumbered section 464z–3 by [Pub. L. 111–148, title X, § 10334(c)(1)(D)(i)][/us/pl/111/148/s10334/c/1/D/i], Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], and transferred to [section 285t of this title][/us/usc/t42/s285t]. The act July 1, 1944, no longer contains a section 485E.
+    [Section 285t of this title][/us/usc/t42/s285t], referred to in subsec. (a)(2)(B)(viii), was in the original “section 485E”, meaning section 485E of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [section 101(a) of Pub. L. 106–525][/us/pl/106/525/s101/a], which was classified to [section 287c–31 of this title][/us/usc/t42/s287c–31]. Section 485E of act July 1, 1944, was renumbered section 464z–3 by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(D)(i), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], and transferred to [section 285t of this title][/us/usc/t42/s285t]. The act July 1, 1944, no longer contains a section 485E.
 
     The Social Security Act, referred to in subsec. (a)(2)(D), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -133,11 +133,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2)(B)(iii). [Pub. L. 111–148, § 10302][/us/pl/111/148/s10302], inserted “(taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act)” after “information”.
+    2010—Subsec. (a)(2)(B)(iii). [Pub. L. 111–148][/us/pl/111/148], § 10302, inserted “(taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act)” after “information”.
 
  __Interagency Working Group on Health Care Quality__ 
 
-[Pub. L. 111–148, title III, § 3012][/us/pl/111/148/s3012], Mar. 23, 2010, [124 Stat. 380][/us/stat/124/380], provided that:
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3012, Mar. 23, 2010, [124 Stat. 380][/us/stat/124/380], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -239,13 +239,13 @@
 [/us/usc/t42/s1320b–9b/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939b%2Fb%2F4
 [/us/usc/t42/s1320b–9a/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fa%2F6
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3011
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F378
 [/us/usc/t42/s285t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/106/525/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs101%2Fa
 [/us/usc/t42/s287c–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%9331
-[/us/pl/111/148/s10334/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fi
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 [/us/usc/t42/s285t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -254,8 +254,8 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F115
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/111/148/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10302
-[/us/pl/111/148/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3012
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F380
 [/us/usc/t42/s280j/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280j%2Fa%2F2
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

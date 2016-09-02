@@ -37,7 +37,7 @@
 
         (3) The National Academy of Sciences or other group or association conducting the study required by subsection (a) of this section shall conduct such study in consultation with the Director of NIH.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 489, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 872][/us/stat/99/872]; amended [Pub. L. 102–321, title I, § 163(b)(5)][/us/pl/102/321/s163/b/5], July 10, 1992, [106 Stat. 376][/us/stat/106/376].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 489, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 872][/us/stat/99/872]; amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(b)(5), July 10, 1992, [106 Stat. 376][/us/stat/106/376].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F872
-[/us/pl/102/321/s163/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F5
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F376
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

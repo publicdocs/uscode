@@ -31,11 +31,11 @@
 
         The Administrator shall notify the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a reasonable time before publishing any suggested guidelines or proposed regulations under this chapter of the content of such proposed suggested guidelines or proposed regulations under this chapter.
 
-([Pub. L. 89–272, title II, § 1008][/us/pl/89/272/s1008], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2803][/us/stat/90/2803]; amended [Pub. L. 95–609, § 7(c)][/us/pl/95/609/s7/c], (d), Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 103–437, § 15(r)][/us/pl/103/437/s15/r], Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1008, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2803][/us/stat/90/2803]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(c), (d), Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 103–437][/us/pl/103/437], § 15(r), Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594].)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, referred to in subsec. (a)(2), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (a)(2), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
     The Clean Air Act, as amended, referred to in subsec. (a)(2), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
@@ -47,9 +47,9 @@
 
     1994—Subsec. (b). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House” for “Committee on Public Works of the Senate and the Committee on Interstate and Foreign Commerce of the House”.
 
-    1978—Subsec. (a)(3). [Pub. L. 95–609, § 7(c)][/us/pl/95/609/s7/c], substituted “subchapter IV of this chapter” for “title IV of this Act”.
+    1978—Subsec. (a)(3). [Pub. L. 95–609][/us/pl/95/609], § 7(c), substituted “subchapter IV of this chapter” for “title IV of this Act”.
 
-    Subsec. (b). [Pub. L. 95–609, § 7(d)][/us/pl/95/609/s7/d], struck out “pursuant to this section” after “any suggested guidelines” and inserted “or proposed regulations under this chapter” after “suggested guidelines” in two places.
+    Subsec. (b). [Pub. L. 95–609][/us/pl/95/609], § 7(d), struck out “pursuant to this section” after “any suggested guidelines” and inserted “or proposed regulations under this chapter” after “suggested guidelines” in two places.
 
  __Change of Name__ 
 
@@ -68,15 +68,15 @@
 
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/89/272/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1008
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2803
-[/us/pl/95/609/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fc
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3081
-[/us/pl/103/437/s15/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fr
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4594
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
@@ -85,8 +85,8 @@
 [/us/usc/t42/s3254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3254c
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/95/609/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fc
-[/us/pl/95/609/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fd
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

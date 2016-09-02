@@ -39,7 +39,7 @@
 
             Whenever the limitation described in paragraph (1) is exceeded, the President shall report to the Congress on the nature and extent of emergency assistance requirements and shall propose additional legislation if necessary.
 
-([Pub. L. 93–288, title V, § 503][/us/pl/93/288/s503], as added [Pub. L. 100–707, title I, § 107(a)][/us/pl/100/707/s107/a], Nov. 23, 1988, [102 Stat. 4707][/us/stat/102/4707].)
+([Pub. L. 93–288, title V][/us/pl/93/288/tV], § 503, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 107(a), Nov. 23, 1988, [102 Stat. 4707][/us/stat/102/4707].)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs503
-[/us/pl/100/707/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs107%2Fa
+[/us/pl/93/288/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4707
 
 

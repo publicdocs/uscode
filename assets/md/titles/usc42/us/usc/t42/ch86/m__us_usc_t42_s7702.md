@@ -31,7 +31,7 @@
 
     (7) the development of ways to assure the availability of affordable earthquake insurance.
 
-([Pub. L. 95–124, § 3][/us/pl/95/124/s3], Oct. 7, 1977, [91 Stat. 1099][/us/stat/91/1099]; [Pub. L. 101–614, § 3][/us/pl/101/614/s3], Nov. 16, 1990, [104 Stat. 3231][/us/stat/104/3231].)
+([Pub. L. 95–124][/us/pl/95/124], § 3, Oct. 7, 1977, [91 Stat. 1099][/us/stat/91/1099]; [Pub. L. 101–614][/us/pl/101/614], § 3, Nov. 16, 1990, [104 Stat. 3231][/us/stat/104/3231].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/95/124/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs3
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
 [/us/stat/91/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1099
-[/us/pl/101/614/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs3
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3231
 [/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 

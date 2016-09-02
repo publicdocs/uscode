@@ -39,7 +39,7 @@
 
         The term “person,” as used in this section, does not include a department, agency, or instrumentality of the United States.
 
-([Pub. L. 92–574, § 11][/us/pl/92/574/s11], Oct. 27, 1972, [86 Stat. 1242][/us/stat/86/1242]; [Pub. L. 95–609, § 4][/us/pl/95/609/s4], Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081].)
+([Pub. L. 92–574][/us/pl/92/574], § 11, Oct. 27, 1972, [86 Stat. 1242][/us/stat/86/1242]; [Pub. L. 95–609][/us/pl/95/609], § 4, Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 [/us/usc/t42/s4909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4909%2Fa
 [/us/usc/t42/s4909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4909%2Fa
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/92/574/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs11
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1242
-[/us/pl/95/609/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs4
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3081
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 

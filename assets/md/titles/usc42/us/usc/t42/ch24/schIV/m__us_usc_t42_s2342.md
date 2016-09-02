@@ -33,7 +33,7 @@
 
         Such property shall be disposed of on such terms and conditions, consistent with this subchapter, as the Commission shall prescribe in the national interest, and without regard to any preferences or priorities whatever except those provided for pursuant to this chapter. Transfers by the Commission of such property shall not impair rights under existing leases and covenants, including any purchase rights therein conferred.
 
-([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 5, § 52, [69 Stat. 476][/us/stat/69/476]; [Pub. L. 87–719, § 9][/us/pl/87/719/s9], Sept. 28, 1962, [76 Stat. 665][/us/stat/76/665].)
+([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 5, § 52, [69 Stat. 476][/us/stat/69/476]; [Pub. L. 87–719][/us/pl/87/719], § 9, Sept. 28, 1962, [76 Stat. 665][/us/stat/76/665].)
 
  __Amendments__ 
 
@@ -52,7 +52,7 @@
 
 [/us/act/1955-08-04/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch543
 [/us/stat/69/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F476
-[/us/pl/87/719/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs9
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F665
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 

@@ -17,11 +17,11 @@
 
     The Secretary of Health and Human Services, in connection with existing authority (except section 254b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) for the provisions of health services to domestic agricultural migratory workers, to persons who perform seasonal agricultural services similar to the services performed by such workers, and to the families of such workers and persons, is authorized to arrange for the provision of health services to such workers and persons and their families through health maintenance organizations. In carrying out this section the Secretary may only use sums appropriated after December 29, 1973.
 
-([Pub. L. 93–222, § 6(b)][/us/pl/93/222/s6/b], Dec. 29, 1973, [87 Stat. 936][/us/stat/87/936]; [Pub. L. 95–626, title I, § 102(b)(2)][/us/pl/95/626/s102/b/2], Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 93–222][/us/pl/93/222], § 6(b), Dec. 29, 1973, [87 Stat. 936][/us/stat/87/936]; [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 102(b)(2), Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
-    [Section 254b of this title][/us/usc/t42/s254b], referred to in text, was in the original a reference to section 329 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. [Section 2 of Pub. L. 104–299][/us/pl/104/299/s2] enacted a new section 330 of act July 1, 1944, which is classified to [section 254b of this title][/us/usc/t42/s254b].
+    [Section 254b of this title][/us/usc/t42/s254b], referred to in text, was in the original a reference to section 329 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. [Section 2 of Pub. L. 104–299][/us/pl/104/299/s2] enacted a new section 330 of act July 1, 1944, which is classified to [section 254b of this title][/us/usc/t42/s254b].
 
  __Codification__ 
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/93/222/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs6%2Fb
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F936
-[/us/pl/95/626/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs102%2Fb%2F2
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3551
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b

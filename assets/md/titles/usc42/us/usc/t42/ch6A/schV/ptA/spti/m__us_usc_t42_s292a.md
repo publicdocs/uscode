@@ -43,7 +43,7 @@
 
             With respect to Federal regulations for lenders, this subpart may not be construed to preclude the applicability of such regulations to the Student Loan Marketing Association or to any other entity in the business of purchasing student loans, including such regulations with respect to applications, contracts, and due diligence.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 702, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 702, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 292a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 701, formerly § 724, as added Sept. 24, 1963, [Pub. L. 88–129, § 2(b)][/us/pl/88/129/s2/b], [77 Stat. 169][/us/stat/77/169]; amended Oct. 22, 1965, [Pub. L. 89–290, § 2(b)][/us/pl/89/290/s2/b], [79 Stat. 1056][/us/stat/79/1056]; Nov. 2, 1966, [Pub. L. 89–709, § 2(c)][/us/pl/89/709/s2/c], [80 Stat. 1103][/us/stat/80/1103]; Aug. 16, 1968, [Pub. L. 90–490, title I, § 105(c)][/us/pl/90/490/s105/c], [82 Stat. 774][/us/stat/82/774]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 102(c)(1)][/us/pl/92/157/s102/c/1]–(4), (f)(2)(B), [85 Stat. 431][/us/stat/85/431], 432, 435; renumbered § 701 and amended Oct. 12, 1976, [Pub. L. 94–484, title II, § 201(c)][/us/pl/94/484/s201/c], (e), [90 Stat. 2247][/us/stat/90/2247]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2716][/us/pl/97/35/s2716], [95 Stat. 913][/us/stat/95/913]; Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129], §§ 201(a), (b), 202, 203, 204(a), (b), [99 Stat. 525–527][/us/stat/99/525-527]; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607], §§ 620(a), 623, 628(1), 629(b)(1), (2), [102 Stat. 3141][/us/stat/102/3141], 3142, 3145, 3146; Aug. 16, 1989, [Pub. L. 101–93, § 5][/us/pl/101/93/s5](l), [103 Stat. 613][/us/stat/103/613], defined terms for purposes of this subchapter, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See sections 292o and 295p of this title.
+    A prior section 292a, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 701, formerly § 724, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(b), [77 Stat. 169][/us/stat/77/169]; amended Oct. 22, 1965, [Pub. L. 89–290][/us/pl/89/290], § 2(b), [79 Stat. 1056][/us/stat/79/1056]; Nov. 2, 1966, [Pub. L. 89–709][/us/pl/89/709], § 2(c), [80 Stat. 1103][/us/stat/80/1103]; Aug. 16, 1968, [Pub. L. 90–490, title I][/us/pl/90/490/tI], § 105(c), [82 Stat. 774][/us/stat/82/774]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 102(c)(1)–(4), (f)(2)(B), [85 Stat. 431][/us/stat/85/431], 432, 435; renumbered § 701 and amended Oct. 12, 1976, [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(c), (e), [90 Stat. 2247][/us/stat/90/2247]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2716, [95 Stat. 913][/us/stat/95/913]; Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129/tII], §§ 201(a), (b), 202, 203, 204(a), (b), [99 Stat. 525–527][/us/stat/99/525-527]; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], §§ 620(a), 623, 628(1), 629(b)(1), (2), [102 Stat. 3141][/us/stat/102/3141], 3142, 3145, 3146; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 5(l), [103 Stat. 613][/us/stat/103/613], defined terms for purposes of this subchapter, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See sections 292o and 295p of this title.
 
-    Another prior section 292a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 702, as added [July 30, 1956, ch. 779, § 2][/us/act/1956-07-30/ch779/s2], [70 Stat. 717][/us/stat/70/717]; amended Sept. 24, 1963, [Pub. L. 88–129, § 2(a)][/us/pl/88/129/s2/a], [77 Stat. 164][/us/stat/77/164], defined “Council”, “construction”, “cost of construction”, “nonprofit institution”, and “sciences related to health” as applicable to grants for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II, § 201(a)][/us/pl/94/484/s201/a], Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
+    Another prior section 292a, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 702, as added [July 30, 1956, ch. 779][/us/act/1956-07-30/ch779], § 2, [70 Stat. 717][/us/stat/70/717]; amended Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(a), [77 Stat. 164][/us/stat/77/164], defined “Council”, “construction”, “cost of construction”, “nonprofit institution”, and “sciences related to health” as applicable to grants for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(a), Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
 
     A prior section 702 of act July 1, 1944, was classified to [section 292b of this title][/us/usc/t42/s292b] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
@@ -70,39 +70,39 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F169
-[/us/pl/89/290/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290%2Fs2%2Fb
+[/us/pl/89/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290
 [/us/stat/79/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1056
-[/us/pl/89/709/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F709%2Fs2%2Fc
+[/us/pl/89/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F709
 [/us/stat/80/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1103
-[/us/pl/90/490/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs105%2Fc
+[/us/pl/90/490/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtI
 [/us/stat/82/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F774
-[/us/pl/92/157/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs102%2Fc%2F1
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F431
-[/us/pl/94/484/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fc
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2247
-[/us/pl/97/35/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2716
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F913
-[/us/pl/99/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/525-527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F525-527
-[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3141
-[/us/pl/101/93/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F613
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1956-07-30/ch779/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs2
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/act/1956-07-30/ch779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779
 [/us/stat/70/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F717
-[/us/pl/88/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fa
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F164
-[/us/pl/94/484/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fa
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2246
 [/us/usc/t42/s292b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292b
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408

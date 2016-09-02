@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 93–409, § 7][/us/pl/93/409/s7], Sept. 3, 1974, [88 Stat. 1073][/us/stat/88/1073], authorized and directed Administrator and Secretary to prepare a comprehensive plan for conduct of development and demonstration activities under section 5503 and 5504, such plan to be transmitted to President and Congress within 120 days after Sept. 3, 1974.
+    Section, [Pub. L. 93–409][/us/pl/93/409], § 7, Sept. 3, 1974, [88 Stat. 1073][/us/stat/88/1073], authorized and directed Administrator and Secretary to prepare a comprehensive plan for conduct of development and demonstration activities under section 5503 and 5504, such plan to be transmitted to President and Congress within 120 days after Sept. 3, 1974.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/409/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs7
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1073
 
 

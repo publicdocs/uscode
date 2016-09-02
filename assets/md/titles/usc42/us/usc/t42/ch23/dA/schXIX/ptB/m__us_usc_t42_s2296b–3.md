@@ -23,7 +23,7 @@
 
         The Department, with the cooperation of the Department of Commerce, the United States Trade Representative and other governmental organizations, shall encourage the export of domestic uranium. Within 180 days after October 24, 1992, the Secretary shall develop recommendations and implement government programs to promote the export of domestic uranium.
 
-([Pub. L. 102–486, title X, § 1014][/us/pl/102/486/s1014], Oct. 24, 1992, [106 Stat. 2949][/us/stat/106/2949].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1014, Oct. 24, 1992, [106 Stat. 2949][/us/stat/106/2949].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1014
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2949
 
 

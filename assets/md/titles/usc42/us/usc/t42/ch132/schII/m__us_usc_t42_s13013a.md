@@ -37,7 +37,7 @@
 
             (D) achievement of the permanent plan for reunification or adoption.
 
-([Pub. L. 101–647, title II, § 218][/us/pl/101/647/s218], as added [Pub. L. 109–162, title I, § 112(d)(2)][/us/pl/109/162/s112/d/2], Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 218, as added [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 112(d)(2), Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986].)
 
  __Prior Provisions__ 
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/101/647/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs218
-[/us/pl/109/162/s112/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fd%2F2
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2986
 [/us/pl/101/647/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs218
 [/us/usc/t42/s13014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13014

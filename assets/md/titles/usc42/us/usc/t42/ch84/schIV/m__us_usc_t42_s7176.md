@@ -17,7 +17,7 @@
 
     For the purposes of chapter 9 of title 5 the Commission shall be deemed to be an independent regulatory agency.
 
-([Pub. L. 95–91, title IV, § 406][/us/pl/95/91/s406], Aug. 4, 1977, [91 Stat. 586][/us/stat/91/586].)
+([Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 406, Aug. 4, 1977, [91 Stat. 586][/us/stat/91/586].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs406
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F586
 
 

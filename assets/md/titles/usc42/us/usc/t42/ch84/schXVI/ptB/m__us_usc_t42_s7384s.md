@@ -83,7 +83,7 @@
 
         This section shall take effect on July 31, 2001, unless Congress otherwise provides in an Act enacted before that date.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3628\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–506; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(4)(A)][/us/pl/107/107/s3151/a/4/A], Dec. 28, 2001, [115 Stat. 1372][/us/stat/115/1372].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3628\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–506; [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3151(a)(4)(A), Dec. 28, 2001, [115 Stat. 1372][/us/stat/115/1372].)
 
  __Amendments__ 
 
@@ -106,9 +106,9 @@
 
 [/us/usc/t42/s7384t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384t
 [/us/usc/t42/s7384e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384e
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s3151/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fa%2F4%2FA
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1372
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t5/s8109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8109

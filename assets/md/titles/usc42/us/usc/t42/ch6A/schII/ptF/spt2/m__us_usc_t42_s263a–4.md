@@ -29,7 +29,7 @@
 
         If the certification of an embryo laboratory is revoked or suspended, the certification of the laboratory shall continue in effect for 60 days after the laboratory receives notice of the revocation or suspension. If the certification of an embryo laboratory is revoked or suspended, the laboratory may apply for recertification after one year after the date of the revocation or suspension.
 
-([Pub. L. 102–493, § 5][/us/pl/102/493/s5], Oct. 24, 1992, [106 Stat. 3150][/us/stat/106/3150].)
+([Pub. L. 102–493][/us/pl/102/493], § 5, Oct. 24, 1992, [106 Stat. 3150][/us/stat/106/3150].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t42/s263a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%932
-[/us/pl/102/493/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs5
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3150
 [/us/pl/102/493/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs9
 [/us/usc/t42/s263a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%931

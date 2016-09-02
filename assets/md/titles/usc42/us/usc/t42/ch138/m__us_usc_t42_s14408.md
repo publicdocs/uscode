@@ -17,7 +17,7 @@
 
     The provisions of this chapter supersede other Federal laws (including laws enacted after April 30, 1997) except to the extent such laws specifically supersede the provisions of this chapter.
 
-([Pub. L. 105–12, § 10][/us/pl/105/12/s10], Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29].)
+([Pub. L. 105–12][/us/pl/105/12], § 10, Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/12/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs10
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F29
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23

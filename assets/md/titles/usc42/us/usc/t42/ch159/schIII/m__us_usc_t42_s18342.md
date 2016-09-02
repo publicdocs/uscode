@@ -57,7 +57,7 @@
 
             The provision of a commercial capability to provide ISS crew services shall include crew rescue requirements, and shall be undertaken through the procurement process initiated in conformance with this section. In the event such development is initiated, the Administrator shall make available any relevant government-owned intellectual property deriving from the development of a multi-purpose crew vehicle authorized by this chapter to commercial entities involved with such crew rescue capability development which shall be relevant to the design of a crew rescue capability. In addition, the Administrator shall seek to ensure that contracts for development of the multi-purpose crew vehicle contain provisions for the licensing of relevant intellectual property to participating commercial providers of any crew rescue capability development undertaken pursuant to this section. If one or more contractors involved with development of the multi-purpose crew vehicle seek to compete in development of a commercial crew service with crew rescue capability, separate legislative authority must be enacted to enable the Administrator to provide funding for any modifications of the multi-purpose crew vehicle necessary to fulfill the ISS crew rescue function.
 
-([Pub. L. 111–267, title IV, § 403][/us/pl/111/267/s403], Oct. 11, 2010, [124 Stat. 2820][/us/stat/124/2820].)
+([Pub. L. 111–267, title IV][/us/pl/111/267/tIV], § 403, Oct. 11, 2010, [124 Stat. 2820][/us/stat/124/2820].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs403
+[/us/pl/111/267/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIV
 [/us/stat/124/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2820
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568
 [/us/stat/72/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F426

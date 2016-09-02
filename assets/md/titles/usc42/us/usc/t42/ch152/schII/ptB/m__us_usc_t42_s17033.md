@@ -59,7 +59,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 110–140, title II, § 229][/us/pl/110/140/s229], Dec. 19, 2007, [121 Stat. 1535][/us/stat/121/1535].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 229, Dec. 19, 2007, [121 Stat. 1535][/us/stat/121/1535].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs229
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1535
 
 

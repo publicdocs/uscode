@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of any such provision to any person or circumstances is held to be invalid, the remainder of this chapter, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 100–579, § 16][/us/pl/100/579/s16], as added [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
+([Pub. L. 100–579][/us/pl/100/579], § 16, as added [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
 
  __Codification__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/100/579/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs16
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
 [/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
 

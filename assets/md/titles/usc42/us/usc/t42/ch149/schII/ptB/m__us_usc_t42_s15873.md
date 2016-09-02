@@ -27,7 +27,7 @@
 
         For the purposes of coordination and processing of geothermal leases and geothermal use authorizations on Federal land the Secretary of the Interior may authorize the expenditure or transfer of such funds as are necessary to the Forest Service.
 
-([Pub. L. 109–58, title II, § 234][/us/pl/109/58/s234], Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 234, Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/109/58/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs234
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F671
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566

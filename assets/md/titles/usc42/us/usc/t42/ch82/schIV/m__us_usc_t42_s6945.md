@@ -39,7 +39,7 @@
 
             (B) For purposes of this paragraph, the term “requirement of this subchapter” in [section 6928 of this title][/us/usc/t42/s6928] shall be deemed to include criteria promulgated by the Administrator under sections 6907(a)(3) and 6944(a) of this title, and the term “hazardous wastes” in [section 6927 of this title][/us/usc/t42/s6927] shall be deemed to include solid waste at facilities that may handle hazardous household wastes or hazardous wastes from small quantity generators.
 
-([Pub. L. 89–272, title II, § 4005][/us/pl/89/272/s4005], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2815][/us/stat/90/2815]; amended [Pub. L. 96–482, § 19(a)][/us/pl/96/482/s19/a], (b), Oct. 21, 1980, [94 Stat. 2345][/us/stat/94/2345]; [Pub. L. 98–616, title III, § 302(c)][/us/pl/98/616/s302/c], title IV, § 403(c), title V, § 502(c), Nov. 8, 1984, [98 Stat. 3268][/us/stat/98/3268], 3272, 3276.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4005, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2815][/us/stat/90/2815]; amended [Pub. L. 96–482][/us/pl/96/482], § 19(a), (b), Oct. 21, 1980, [94 Stat. 2345][/us/stat/94/2345]; [Pub. L. 98–616, title III][/us/pl/98/616/tIII], § 302(c), title IV, § 403(c), title V, § 502(c), Nov. 8, 1984, [98 Stat. 3268][/us/stat/98/3268], 3272, 3276.)
 
  __Codification__ 
 
@@ -47,19 +47,19 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 403(c)][/us/pl/98/616/s403/c], inserted after first sentence “The prohibition contained in the preceding sentence shall be enforceable under [section 6972 of this title][/us/usc/t42/s6972] against persons engaged in the act of open dumping.”
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 403(c), inserted after first sentence “The prohibition contained in the preceding sentence shall be enforceable under [section 6972 of this title][/us/usc/t42/s6972] against persons engaged in the act of open dumping.”
 
-    [Pub. L. 98–616, § 502(c)][/us/pl/98/616/s502/c], inserted a closing parenthesis before the period at end.
+    [Pub. L. 98–616][/us/pl/98/616], § 502(c), inserted a closing parenthesis before the period at end.
 
-    Subsec. (c). [Pub. L. 98–616, § 302(c)][/us/pl/98/616/s302/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–616][/us/pl/98/616], § 302(c), added subsec. (c).
 
-    1980—Subsec. (a). [Pub. L. 96–482, § 19(a)][/us/pl/96/482/s19/a], (b)(1), struck out subsec. (a) which defined “open dump”, which is covered in [section 6903(14) of this title][/us/usc/t42/s6903/14], redesignated subsec. (c) as (a) and substituted “Upon promulgation of criteria under [section 6907(a)(3) of this title][/us/usc/t42/s6907/a/3], any” for “Any”, “section 6943(a)(2) and 6943(a)(3) of this title” for “[section 6943(2) of this title][/us/usc/t42/s6943/2]”, and “criteria under [section 6907(a)(3) of this title][/us/usc/t42/s6907/a/3]” for “the inventory under subsection (b) of this section”.
+    1980—Subsec. (a). [Pub. L. 96–482][/us/pl/96/482], § 19(a), (b)(1), struck out subsec. (a) which defined “open dump”, which is covered in [section 6903(14) of this title][/us/usc/t42/s6903/14], redesignated subsec. (c) as (a) and substituted “Upon promulgation of criteria under [section 6907(a)(3) of this title][/us/usc/t42/s6907/a/3], any” for “Any”, “section 6943(a)(2) and 6943(a)(3) of this title” for “[section 6943(2) of this title][/us/usc/t42/s6943/2]”, and “criteria under [section 6907(a)(3) of this title][/us/usc/t42/s6907/a/3]” for “the inventory under subsection (b) of this section”.
 
     Amendment by [section 19(b)(1) of Pub. L. 96–482][/us/pl/96/482/s19/b/1], directing that following reference to “4003(2)”, which had been editorially translated as [section 6943(2) of this title][/us/usc/t42/s6943/2], the phrase “and 4003(3)” be inserted, was executed by translating “4003(2) and 4003(3)” as section 6943(a)(2) and 6943(a)(3) of this title, in view of the designation of the existing provisions of [section 6943 of this title][/us/usc/t42/s6943] as subsec. (a) of [section 6943 of this title][/us/usc/t42/s6943] by [section 5(b) of Pub. L. 96–463][/us/pl/96/463/s5/b] and also by [section 32(d)(2) of Pub. L. 96–482][/us/pl/96/482/s32/d/2].
 
-    Subsec. (b). [Pub. L. 96–482, § 19(b)(2)][/us/pl/96/482/s19/b/2], inserted introductory phrase “To assist the States in complying with [section 6943(a)(3) of this title][/us/usc/t42/s6943/a/3]”. Amendment referring to section “4003(3)” was executed by translating “4003(3)” as [section 6943(a)(3) of this title][/us/usc/t42/s6943/a/3], in view of the designation of the existing provisions of [section 6943 of this title][/us/usc/t42/s6943] as subsec. (a) of [section 6943 of this title][/us/usc/t42/s6943] by [section 5(b) of Pub. L. 96–463][/us/pl/96/463/s5/b] and also by [section 32(d)(2) of Pub. L. 96–482][/us/pl/96/482/s32/d/2].
+    Subsec. (b). [Pub. L. 96–482][/us/pl/96/482], § 19(b)(2), inserted introductory phrase “To assist the States in complying with [section 6943(a)(3) of this title][/us/usc/t42/s6943/a/3]”. Amendment referring to section “4003(3)” was executed by translating “4003(3)” as [section 6943(a)(3) of this title][/us/usc/t42/s6943/a/3], in view of the designation of the existing provisions of [section 6943 of this title][/us/usc/t42/s6943] as subsec. (a) of [section 6943 of this title][/us/usc/t42/s6943] by [section 5(b) of Pub. L. 96–463][/us/pl/96/463/s5/b] and also by [section 32(d)(2) of Pub. L. 96–482][/us/pl/96/482/s32/d/2].
 
-    Subsec. (c). [Pub. L. 96–482, § 19(a)][/us/pl/96/482/s19/a], redesignated subsec. (c) as (a).
+    Subsec. (c). [Pub. L. 96–482][/us/pl/96/482], § 19(a), redesignated subsec. (c) as (a).
 
  __Transfer of Functions__ 
 
@@ -86,20 +86,20 @@
 [/us/usc/t42/s6947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6947
 [/us/usc/t42/s6928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6928
 [/us/usc/t42/s6927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6927
-[/us/pl/89/272/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4005
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2815
-[/us/pl/96/482/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs19%2Fa
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2345
-[/us/pl/98/616/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs302%2Fc
+[/us/pl/98/616/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIII
 [/us/stat/98/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3268
 [/us/pl/96/482/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs19%2Fb
 [/us/usc/t42/s6946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6946
-[/us/pl/98/616/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs403%2Fc
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/usc/t42/s6972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6972
-[/us/pl/98/616/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs502%2Fc
-[/us/pl/98/616/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs302%2Fc
-[/us/pl/96/482/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs19%2Fa
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F14
 [/us/usc/t42/s6907/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6907%2Fa%2F3
 [/us/usc/t42/s6943/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943%2F2
@@ -110,14 +110,14 @@
 [/us/usc/t42/s6943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943
 [/us/pl/96/463/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs5%2Fb
 [/us/pl/96/482/s32/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fd%2F2
-[/us/pl/96/482/s19/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs19%2Fb%2F2
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6943/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943%2Fa%2F3
 [/us/usc/t42/s6943/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943%2Fa%2F3
 [/us/usc/t42/s6943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943
 [/us/usc/t42/s6943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943
 [/us/pl/96/463/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs5%2Fb
 [/us/pl/96/482/s32/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fd%2F2
-[/us/pl/96/482/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs19%2Fa
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 
 

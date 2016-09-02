@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, an owner of a covered section 8 housing project (as such term is defined in [section 13619 of this title][/us/usc/t42/s13619]) designed primarily for occupancy by elderly families may, in selecting tenants for units in the project that become available for occupancy, give preference to elderly families who have applied for occupancy in the housing, subject to the requirements of this subchapter.
 
-([Pub. L. 102–550, title VI, § 651][/us/pl/102/550/s651], Oct. 28, 1992, [106 Stat. 3823][/us/stat/106/3823].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 651, Oct. 28, 1992, [106 Stat. 3823][/us/stat/106/3823].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s13619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13619
-[/us/pl/102/550/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs651
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3823
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3823

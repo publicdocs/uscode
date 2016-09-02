@@ -57,7 +57,7 @@
 
         (5) Members of the Board shall be appointed for terms of 4 years, each such term to commence 120 days after December 22, 1987, except that of the 11 members first appointed to the Board, 5 shall serve for 2 years and 6 shall serve for 4 years, to be designated by the President at the time of appointment.
 
-([Pub. L. 97–425, title V, § 502][/us/pl/97/425/s502], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5051][/us/pl/100/203/s5051], Dec. 22, 1987, [101 Stat. 1330–248][/us/stat/101/1330-248].)
+([Pub. L. 97–425, title V][/us/pl/97/425/tV], § 502, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5051, Dec. 22, 1987, [101 Stat. 1330–248][/us/stat/101/1330-248].)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 
  __Continued Board Service After Expiration of Term__ 
 
-[Pub. L. 104–46, title V, § 503][/us/pl/104/46/s503], Nov. 13, 1995, [109 Stat. 419][/us/stat/109/419], provided that: 
+[Pub. L. 104–46, title V][/us/pl/104/46/tV], § 503, Nov. 13, 1995, [109 Stat. 419][/us/stat/109/419], provided that: 
 
 > “Without fiscal year limitation and notwithstanding section 502(b)(5) of the Nuclear Waste Policy Act, as amended \[[42 U.S.C. 10262(b)(5)][/us/usc/t42/s10262/b/5]\], or any other provision of law, a member of the Nuclear Waste Technical Review Board whose term has expired may continue to serve as a member of the Board until such member’s successor has taken office.”
 
@@ -76,14 +76,14 @@
 ----------
 ----------
 
-[/us/pl/97/425/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs502
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtV
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5051
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-248
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/104/46/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F46%2Fs503
+[/us/pl/104/46/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F46%2FtV
 [/us/stat/109/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F419
 [/us/usc/t42/s10262/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10262%2Fb%2F5
 

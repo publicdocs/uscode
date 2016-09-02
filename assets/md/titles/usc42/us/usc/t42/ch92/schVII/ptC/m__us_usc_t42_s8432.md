@@ -17,7 +17,7 @@
 
     Any person who willfully violates any provision of this chapter, or any rule or order thereunder, shall be subject to a fine of not more than $50,000, or to imprisonment for not more than one year, or both, for each violation.
 
-([Pub. L. 95–620, title VII, § 722][/us/pl/95/620/s722], Nov. 9, 1978, [92 Stat. 3333][/us/stat/92/3333]; [Pub. L. 100–42, § 1(c)(19)][/us/pl/100/42/s1/c/19], May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 722, Nov. 9, 1978, [92 Stat. 3333][/us/stat/92/3333]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(19), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/620/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs722
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3333
-[/us/pl/100/42/s1/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F19
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

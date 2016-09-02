@@ -53,7 +53,7 @@
 
         There are authorized to be appropriated $5,000,000 for each of the fiscal years 1994, 1995 and 1996 to carry out the purposes of this section.
 
-([Pub. L. 102–486, title I, § 112][/us/pl/102/486/s112], Oct. 24, 1992, [106 Stat. 2797][/us/stat/106/2797].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 112, Oct. 24, 1992, [106 Stat. 2797][/us/stat/106/2797].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 [/us/usc/t15/s3203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3203%2Fb
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
 [/us/usc/t15/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3202
-[/us/pl/102/486/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs112
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2797
 
 

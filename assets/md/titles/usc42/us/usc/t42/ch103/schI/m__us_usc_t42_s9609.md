@@ -91,7 +91,7 @@
 
         Action taken by the President pursuant to this section shall not affect or limit the President’s authority to enforce any provisions of this chapter.
 
-([Pub. L. 96–510, title I, § 109][/us/pl/96/510/s109], Dec. 11, 1980, [94 Stat. 2787][/us/stat/94/2787]; [Pub. L. 99–499, title I, § 109(c)][/us/pl/99/499/s109/c], Oct. 17, 1986, [100 Stat. 1633][/us/stat/100/1633].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 109, Dec. 11, 1980, [94 Stat. 2787][/us/stat/94/2787]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 109(c), Oct. 17, 1986, [100 Stat. 1633][/us/stat/100/1633].)
 
  __References in Text__ 
 
@@ -138,9 +138,9 @@
 [/us/usc/t42/s9604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fe
 [/us/usc/t42/s9603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9603
 [/us/usc/t42/s9611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9611
-[/us/pl/96/510/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs109
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2787
-[/us/pl/99/499/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs109%2Fc
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1633
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

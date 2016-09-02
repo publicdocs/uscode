@@ -17,9 +17,9 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter VII, related to the Agency for Health Care Policy and Research and consisted of sections 299 to 299c–6, prior to the general amendment of this subchapter by [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1653][/us/stat/113/1653].
+    A prior subchapter VII, related to the Agency for Health Care Policy and Research and consisted of sections 299 to 299c–6, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1653][/us/stat/113/1653].
 
-    Another prior subchapter VII, related to education, research, training, and demonstrations in heart disease, cancer, stroke, and related diseases and consisted of sections 299 to 299j, prior to repeal by [Pub. L. 99–117, § 12(d)][/us/pl/99/117/s12/d], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    Another prior subchapter VII, related to education, research, training, and demonstrations in heart disease, cancer, stroke, and related diseases and consisted of sections 299 to 299j, prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(d), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1653
-[/us/pl/99/117/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fd
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 
 

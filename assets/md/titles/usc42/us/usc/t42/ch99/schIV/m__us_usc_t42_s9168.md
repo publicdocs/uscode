@@ -25,7 +25,7 @@
 
     (4) such recommendations as the Administrator deems appropriate for amending this chapter or other relevant Acts to better promote and enhance the export potential of ocean thermal energy conversion components, facilities and plantships manufactured by United States industry.
 
-([Pub. L. 96–320, title IV, § 408][/us/pl/96/320/s408], as added [Pub. L. 98–623, title VI, § 602(d)][/us/pl/98/623/s602/d], Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
+([Pub. L. 96–320, title IV][/us/pl/96/320/tIV], § 408, as added [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(d), Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/96/320/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs408
-[/us/pl/98/623/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fd
+[/us/pl/96/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIV
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3411
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320

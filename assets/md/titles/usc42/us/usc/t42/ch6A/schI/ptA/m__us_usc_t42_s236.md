@@ -63,29 +63,29 @@
 
         The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under [section 360ee of title 21][/us/usc/t21/s360ee] for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 227, as added [Pub. L. 97–414, § 3][/us/pl/97/414/s3], Jan. 4, 1983, [96 Stat. 2051][/us/stat/96/2051]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–321, title I, § 163(b)(1)][/us/pl/102/321/s163/b/1], July 10, 1992, [106 Stat. 375][/us/stat/106/375]; [Pub. L. 102–531, title III, § 312(d)(1)][/us/pl/102/531/s312/d/1], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 227, as added [Pub. L. 97–414][/us/pl/97/414], § 3, Jan. 4, 1983, [96 Stat. 2051][/us/stat/96/2051]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(b)(1), July 10, 1992, [106 Stat. 375][/us/stat/106/375]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(1), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].)
 
  __References in Text__ 
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    [Section 44H of title 26][/us/usc/t26/s44H], referred to in subsec. (e), was renumbered [section 28 of title 26][/us/usc/t26/s28], by [Pub. L. 98–369, div. A, title IV, § 471(c)(1)][/us/pl/98/369/s471/c/1], July 18, 1984, [98 Stat. 826][/us/stat/98/826], and subsequently renumbered [section 45C of title 26][/us/usc/t26/s45C] by [Pub. L. 104–188, title I, § 1205(a)(1)][/us/pl/104/188/s1205/a/1], Aug. 20, 1996, [110 Stat. 1775][/us/stat/110/1775].
+    [Section 44H of title 26][/us/usc/t26/s44H], referred to in subsec. (e), was renumbered [section 28 of title 26][/us/usc/t26/s28], by [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 471(c)(1), July 18, 1984, [98 Stat. 826][/us/stat/98/826], and subsequently renumbered [section 45C of title 26][/us/usc/t26/s45C] by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1205(a)(1), Aug. 20, 1996, [110 Stat. 1775][/us/stat/110/1775].
 
  __Prior Provisions__ 
 
-    A prior section 236, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 227, formerly title III, § 310B, as added Oct. 30, 1970, [Pub. L. 91–515, title II, § 280][/us/pl/91/515/s280], [84 Stat. 1307][/us/stat/84/1307]; renumbered § 227 and amended July 23, 1974, [Pub. L. 93–353, title I, § 102(f)][/us/pl/93/353/s102/f], [88 Stat. 362][/us/stat/88/362], related to an annual report by Secretary on activities related to health facilities and services and expenditure of funds, prior to repeal by [Pub. L. 97–35, title XXI, § 2193(b)(4)][/us/pl/97/35/s2193/b/4], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].
+    A prior section 236, [act July 1, 1944, ch. 373, title II][/us/act/1944-07-01/ch373/tII], § 227, formerly title III, § 310B, as added Oct. 30, 1970, [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 280, [84 Stat. 1307][/us/stat/84/1307]; renumbered § 227 and amended July 23, 1974, [Pub. L. 93–353, title I][/us/pl/93/353/tI], § 102(f), [88 Stat. 362][/us/stat/88/362], related to an annual report by Secretary on activities related to health facilities and services and expenditure of funds, prior to repeal by [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(b)(4), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].
 
  __Amendments__ 
 
     1992—Subsec. (a). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-    Subsec. (c)(2). [Pub. L. 102–321, § 163(b)(1)(A)][/us/pl/102/321/s163/b/1/A], which directed the striking out of “, and the Alcohol, Drug Abuse, and Mental Health Administration”, was executed by striking “and the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” to reflect the probable intent of Congress.
+    Subsec. (c)(2). [Pub. L. 102–321][/us/pl/102/321], § 163(b)(1)(A), which directed the striking out of “, and the Alcohol, Drug Abuse, and Mental Health Administration”, was executed by striking “and the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” to reflect the probable intent of Congress.
 
     Subsec. (c)(3). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-    [Pub. L. 102–321, § 163(b)(1)(B)][/us/pl/102/321/s163/b/1/B], struck out “, the Alcohol, Drug Abuse, and Mental Health Administration,” after “National Institutes of Health”.
+    [Pub. L. 102–321][/us/pl/102/321], § 163(b)(1)(B), struck out “, the Alcohol, Drug Abuse, and Mental Health Administration,” after “National Institutes of Health”.
 
-    Subsec. (e). [Pub. L. 102–321, § 163(b)(1)(C)][/us/pl/102/321/s163/b/1/C], (D), in concluding provisions, struck out “and the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” the first place appearing and “and the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” the second place appearing.
+    Subsec. (e). [Pub. L. 102–321][/us/pl/102/321], § 163(b)(1)(C), (D), in concluding provisions, struck out “and the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” the first place appearing and “and the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” the second place appearing.
 
     1986—Subsec. (e). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–321, title VIII, § 801][/us/pl/102/321/s801], July 10, 1992, [106 Stat. 441][/us/stat/106/441], provided that:
+[Pub. L. 102–321, title VIII][/us/pl/102/321/tVIII], § 801, July 10, 1992, [106 Stat. 441][/us/stat/106/441], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -129,13 +129,13 @@
 
  __Use of “CDC” as Acronym for Centers for Disease Control and Prevention__ 
 
-[Pub. L. 102–531, title III, § 312(i)][/us/pl/102/531/s312/i], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506], provided that: 
+[Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(i), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 247d, 280b to 280b–2, 285c–4, 285d–7, 285m–4, 289c, 290aa–9, 290bb–1, 300u–5, 300aa–2, 300aa–19, 300aa–26, 300cc, 300cc–2, 300cc–15, 300cc–17, 300cc–20, 300cc–31, 300ee–1, 300ee–2, 300ee–31, 300ee–32, 300ee–34, 300ff–11 to 300ff–13, 300ff–17, 300ff–27, 300ff–28, 300ff–41, 300ff–43, 300ff–49, 300ff–75, 4841, and 9604 of this title, [section 1341 of Title 15][/us/usc/t15/s1341], Commerce and Trade, [section 2001 of Title 25][/us/usc/t25/s2001], Indians, and provisions set out as notes under sections 241 and 281 of this title and [section 303 of Title 38][/us/usc/t38/s303], Veterans’ Benefits\] may not be construed as prohibiting the Director of the Centers for Disease Control and Prevention from utilizing for official purposes the term ‘CDC’ as an acronym for such Centers.”
 
  __National Commission on Orphan Diseases__ 
 
-[Pub. L. 99–91, § 4][/us/pl/99/91/s4], Aug. 15, 1985, [99 Stat. 388][/us/stat/99/388], as amended by [Pub. L. 100–290, § 4][/us/pl/100/290/s4], Apr. 18, 1988, [102 Stat. 92][/us/stat/102/92]; [Pub. L. 102–321, title I, § 163(c)(1)][/us/pl/102/321/s163/c/1], July 10, 1992, [106 Stat. 376][/us/stat/106/376], provided that:
+[Pub. L. 99–91][/us/pl/99/91], § 4, Aug. 15, 1985, [99 Stat. 388][/us/stat/99/388], as amended by [Pub. L. 100–290][/us/pl/100/290], § 4, Apr. 18, 1988, [102 Stat. 92][/us/stat/102/92]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(c)(1), July 10, 1992, [106 Stat. 376][/us/stat/106/376], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -255,55 +255,55 @@
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
 [/us/usc/t21/s360ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ee
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/414/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs3
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2051
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/321/s163/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F1
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F375
-[/us/pl/102/531/s312/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F1
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t26/s44H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs44H
 [/us/usc/t26/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs28
-[/us/pl/98/369/s471/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs471%2Fc%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F826
 [/us/usc/t26/s45C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45C
-[/us/pl/104/188/s1205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1205%2Fa%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1775
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/515/s280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs280
+[/us/act/1944-07-01/ch373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtII
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1307
-[/us/pl/93/353/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Ff
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F362
-[/us/pl/97/35/s2193/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F4
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/102/321/s163/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F1%2FA
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/102/321/s163/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F1%2FB
-[/us/pl/102/321/s163/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F1%2FC
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/102/321/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs801
+[/us/pl/102/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtVIII
 [/us/stat/106/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F441
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/102/531/s312/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fi
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
 [/us/usc/t15/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1341
 [/us/usc/t25/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2001
 [/us/usc/t38/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs303
-[/us/pl/99/91/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91%2Fs4
+[/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
 [/us/stat/99/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F388
-[/us/pl/100/290/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs4
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
 [/us/stat/102/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F92
-[/us/pl/102/321/s163/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fc%2F1
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F376
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 

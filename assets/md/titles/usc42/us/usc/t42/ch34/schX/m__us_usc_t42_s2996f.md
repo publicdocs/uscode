@@ -139,7 +139,7 @@
 
         have special difficulties of access to legal services or special legal problems which are not being met. The Corporation shall report to Congress not later than January 1, 1979, on the extent and nature of any such problems and difficulties and shall include in the report and implement appropriate recommendations.
 
-([Pub. L. 88–452, title X, § 1007][/us/pl/88/452/s1007], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 383][/us/stat/88/383]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, [91 Stat. 1620–1623][/us/stat/91/1620-1623]; [Pub. L. 105–12, § 9][/us/pl/105/12/s9](o), Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28]; [Pub. L. 106–185, § 2(d)][/us/pl/106/185/s2/d], Apr. 25, 2000, [114 Stat. 211][/us/stat/114/211]; [Pub. L. 111–211, title II, § 234(d)][/us/pl/111/211/s234/d], July 29, 2010, [124 Stat. 2282][/us/stat/124/2282].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1007, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 383][/us/stat/88/383]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, [91 Stat. 1620–1623][/us/stat/91/1620-1623]; [Pub. L. 105–12][/us/pl/105/12], § 9(o), Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28]; [Pub. L. 106–185][/us/pl/106/185], § 2(d), Apr. 25, 2000, [114 Stat. 211][/us/stat/114/211]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 234(d), July 29, 2010, [124 Stat. 2282][/us/stat/124/2282].)
 
  __References in Text__ 
 
@@ -147,7 +147,7 @@
 
     The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (b)(11), is [Pub. L. 105–12][/us/pl/105/12], Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23], which is classified principally to chapter 138 (§ 14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 14401 of this title][/us/usc/t42/s14401] and Tables.
 
-    [Section 2809 of this title][/us/usc/t42/s2809], referred to in subsec. (c), was repealed by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    [Section 2809 of this title][/us/usc/t42/s2809], referred to in subsec. (c), was repealed by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
  __Amendments__ 
 
@@ -157,21 +157,21 @@
 
     1997—Subsec. (b)(11). [Pub. L. 105–12][/us/pl/105/12] added par. (11).
 
-    1977—Subsec. (a)(2)(B)(iv). [Pub. L. 95–222, § 9(a)][/us/pl/95/222/s9/a], substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
+    1977—Subsec. (a)(2)(B)(iv). [Pub. L. 95–222][/us/pl/95/222], § 9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
 
-    Subsec. (a)(2)(C). [Pub. L. 95–222, § 9(b)(1)][/us/pl/95/222/s9/b/1], expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
+    Subsec. (a)(2)(C). [Pub. L. 95–222][/us/pl/95/222], § 9(b)(1), expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
 
-    Subsec. (a)(5). [Pub. L. 95–222, § 9(c)][/us/pl/95/222/s9/c], in introductory text inserted prohibition relating to influencing the passage or defeat of State proposals by initiative referendum, in subpar. (A) substituted provisions relating to representation by an employee of a recipient for any eligible client, for provisions relating to representation by an attorney as attorney for any eligible client, and in subpar. (B) designated existing provision as cl. (i), inserted exception for testifying, drafting, or reviewing measures, and added cl. (ii).
+    Subsec. (a)(5). [Pub. L. 95–222][/us/pl/95/222], § 9(c), in introductory text inserted prohibition relating to influencing the passage or defeat of State proposals by initiative referendum, in subpar. (A) substituted provisions relating to representation by an employee of a recipient for any eligible client, for provisions relating to representation by an attorney as attorney for any eligible client, and in subpar. (B) designated existing provision as cl. (i), inserted exception for testifying, drafting, or reviewing measures, and added cl. (ii).
 
-    Subsec. (a)(6). [Pub. L. 95–222, § 7(b)][/us/pl/95/222/s7/b], struck out provisions relating to prohibitions against political activities by staff attorneys of the types described under cls. (B) and (C) of this par. and [section 1502(a) of title 5][/us/usc/t5/s1502/a].
+    Subsec. (a)(6). [Pub. L. 95–222][/us/pl/95/222], § 7(b), struck out provisions relating to prohibitions against political activities by staff attorneys of the types described under cls. (B) and (C) of this par. and [section 1502(a) of title 5][/us/usc/t5/s1502/a].
 
-    Subsec. (b). [Pub. L. 95–222, § 10][/us/pl/95/222/s10], redesignated and reorganized provisions of former par. (1) as pars. (1) to (3) and, as so redesignated, enumerated criteria for assistance under such pars., redesignated former pars. (2) and (3) as (4) and (5), respectively, struck out former par. (4) relating to assistance to any unemancipated person of less than eighteen years of age, redesignated former par. (5) as (6), redesignated former par. (6) as (7) and, as so redesignated, inserted provision relating to initiation and provision relating to acting as an organizer, and struck out provisions relating to organization, assistance or encouragement to organize, or to plan for the creation, formation or structuring of entities, and provision respecting guidelines for assistance to clients, redesignated former par. (7) as (9) and, as so redesignated, inserted exception for legal advice to clients, reenacted par. (8) without change, and redesignated former par. (9) as (10) and, as so redesignated, inserted exception for actions concerning classifications prior to July 1, 1973.
+    Subsec. (b). [Pub. L. 95–222][/us/pl/95/222], § 10, redesignated and reorganized provisions of former par. (1) as pars. (1) to (3) and, as so redesignated, enumerated criteria for assistance under such pars., redesignated former pars. (2) and (3) as (4) and (5), respectively, struck out former par. (4) relating to assistance to any unemancipated person of less than eighteen years of age, redesignated former par. (5) as (6), redesignated former par. (6) as (7) and, as so redesignated, inserted provision relating to initiation and provision relating to acting as an organizer, and struck out provisions relating to organization, assistance or encouragement to organize, or to plan for the creation, formation or structuring of entities, and provision respecting guidelines for assistance to clients, redesignated former par. (7) as (9) and, as so redesignated, inserted exception for legal advice to clients, reenacted par. (8) without change, and redesignated former par. (9) as (10) and, as so redesignated, inserted exception for actions concerning classifications prior to July 1, 1973.
 
-    Subsec. (c). [Pub. L. 95–222, § 11][/us/pl/95/222/s11], substituted provisions requiring recipients to include at least one-third membership of eligible clients or eligible clients who may also be representatives of associations or organizations of eligible clients, for provisions requiring recipients to include at least one individual eligible to receive legal assistance.
+    Subsec. (c). [Pub. L. 95–222][/us/pl/95/222], § 11, substituted provisions requiring recipients to include at least one-third membership of eligible clients or eligible clients who may also be representatives of associations or organizations of eligible clients, for provisions requiring recipients to include at least one individual eligible to receive legal assistance.
 
-    Subsec. (f). [Pub. L. 95–222, § 12][/us/pl/95/222/s12], inserted provision requiring notice to principal local bar association, if any, of community.
+    Subsec. (f). [Pub. L. 95–222][/us/pl/95/222], § 12, inserted provision requiring notice to principal local bar association, if any, of community.
 
-    Subsec. (h). [Pub. L. 95–222, § 13][/us/pl/95/222/s13], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–222][/us/pl/95/222], § 13, added subsec. (h).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -185,21 +185,21 @@
 
     Amendment by sections 7(b), 9(a), (b)(1), (c), 10, 12, and 13 of [Pub. L. 95–222][/us/pl/95/222] effective Dec. 28, 1977, see [section 17(b) of Pub. L. 95–222][/us/pl/95/222/s17/b], set out as a note under [section 2996 of this title][/us/usc/t42/s2996].
 
-[Pub. L. 95–222, § 17(a)(1)][/us/pl/95/222/s17/a/1], Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624], provided that: 
+[Pub. L. 95–222][/us/pl/95/222], § 17(a)(1), Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624], provided that: 
 
 > “The amendment made by section 11 of this Act \[amending this section\] shall be effective six months after the first day of the first calendar month following the date of enactment of this Act \[Dec. 28, 1977\].”
 
  __Implementation of System for Competitive Award of Grants and Contracts__ 
 
-[Pub. L. 101–515, title VI, § 607][/us/pl/101/515/s607] (part), Nov. 5, 1991, [104 Stat. 2153][/us/stat/104/2153], provided: 
+[Pub. L. 101–515, title VI][/us/pl/101/515/tVI], § 607 (part), Nov. 5, 1991, [104 Stat. 2153][/us/stat/104/2153], provided: 
 
 > “That after October 1, 1991, (but not before) the Board of Directors of the Legal Services Corporation shall develop and implement a system for the competitive award of all grants and contracts, including support centers, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence”.
 
-[Pub. L. 101–162, title VI, § 608][/us/pl/101/162/s608] (part), Nov. 21, 1989, [103 Stat. 1036][/us/stat/103/1036], provided: 
+[Pub. L. 101–162, title VI][/us/pl/101/162/tVI], § 608 (part), Nov. 21, 1989, [103 Stat. 1036][/us/stat/103/1036], provided: 
 
 > “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
 
-[Pub. L. 100–459, title VI, § 605][/us/pl/100/459/s605], Oct. 1, 1988, [102 Stat. 2227][/us/stat/102/2227], provided: 
+[Pub. L. 100–459, title VI][/us/pl/100/459/tVI], § 605, Oct. 1, 1988, [102 Stat. 2227][/us/stat/102/2227], provided: 
 
 > “That a Board of Directors of the Legal Services Corporation, composed of individuals nominated by the President after January 20, 1989 and subsequently confirmed by the United States Senate, shall develop and implement a system for the competitive award of all grants and contracts, including support centers, to take effect after September 30, 1989.”
 
@@ -213,16 +213,16 @@
 [/us/usc/t42/s2996j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996j
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
-[/us/pl/88/452/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1007
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F383
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1620-1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1620-1623
-[/us/pl/105/12/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F28
-[/us/pl/106/185/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs2%2Fd
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F211
-[/us/pl/111/211/s234/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs234%2Fd
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2282
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
@@ -230,20 +230,20 @@
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
 [/us/usc/t42/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
-[/us/pl/95/222/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs9%2Fa
-[/us/pl/95/222/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs9%2Fb%2F1
-[/us/pl/95/222/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs9%2Fc
-[/us/pl/95/222/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs7%2Fb
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/usc/t5/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1502%2Fa
-[/us/pl/95/222/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs10
-[/us/pl/95/222/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs11
-[/us/pl/95/222/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs12
-[/us/pl/95/222/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs13
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
@@ -253,13 +253,13 @@
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/95/222/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs17%2Fb
 [/us/usc/t42/s2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996
-[/us/pl/95/222/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs17%2Fa%2F1
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1624
-[/us/pl/101/515/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs607
+[/us/pl/101/515/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtVI
 [/us/stat/104/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2153
-[/us/pl/101/162/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2Fs608
+[/us/pl/101/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtVI
 [/us/stat/103/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1036
-[/us/pl/100/459/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs605
+[/us/pl/100/459/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtVI
 [/us/stat/102/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2227
 
 

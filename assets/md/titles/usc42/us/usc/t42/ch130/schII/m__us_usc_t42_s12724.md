@@ -21,7 +21,7 @@
 
     (2) not more than $11,000,000 for fiscal year 1993, and $22,000,000 for fiscal year 1994, shall be for activities in support of State and local housing strategies authorized under part C of this subchapter.
 
-([Pub. L. 101–625, title II, § 205][/us/pl/101/625/s205], Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096]; [Pub. L. 102–550, title II, § 201][/us/pl/102/550/s201], Oct. 28, 1992, [106 Stat. 3751][/us/stat/106/3751]; [Pub. L. 103–120, § 5][/us/pl/103/120/s5], Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 205, Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 201, Oct. 28, 1992, [106 Stat. 3751][/us/stat/106/3751]; [Pub. L. 103–120][/us/pl/103/120], § 5, Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148].)
 
  __Amendments__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t42/s12773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12773
-[/us/pl/101/625/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs205
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4096
-[/us/pl/102/550/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs201
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3751
-[/us/pl/103/120/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs5
+[/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/stat/107/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1148
 [/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

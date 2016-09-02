@@ -23,7 +23,7 @@
 
     (3) the creation of supportive networks to enhance the childrearing capacity of parents and assist in compensating for the increased social isolation and vulnerability of families.
 
-([Pub. L. 101–501, title IX, § 957][/us/pl/101/501/s957], Nov. 3, 1990, [104 Stat. 1278][/us/stat/104/1278].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 957, Nov. 3, 1990, [104 Stat. 1278][/us/stat/104/1278].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs957
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1278
 
 

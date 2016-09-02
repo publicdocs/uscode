@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch75/schV/m__us_usc_t42_ch75_schV.md) | [Next](./../../../..//us/usc/t42/ch76/m__us_usc_t42_s6101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch76)
+[Previous](./../../../..//us/usc/t42/ch75/schV/m__us_usc_t42_s6081...6083.md) | [Next](./../../../..//us/usc/t42/ch76/m__us_usc_t42_s6101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch76)
 
 ## CHAPTER 76—AGE DISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch75/schV/m__us_usc_t42_ch75_schV.md) | [Next](./../../../..//us/usc/t42/ch76/m__us_usc_t42_s6101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch76)
+[Previous](./../../../..//us/usc/t42/ch75/schV/m__us_usc_t42_s6081...6083.md) | [Next](./../../../..//us/usc/t42/ch76/m__us_usc_t42_s6101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch76)
 
 ----------
 ----------

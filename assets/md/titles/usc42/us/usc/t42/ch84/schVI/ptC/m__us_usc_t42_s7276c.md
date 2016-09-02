@@ -31,7 +31,7 @@
 
         Nothing in sections 7275 to 7276c of this title shall require a customer to take any action inconsistent with a requirement imposed by the Rural Electrification Administration  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
-([Pub. L. 98–381, title II, § 205][/us/pl/98/381/s205], as added [Pub. L. 102–486, title I, § 114][/us/pl/102/486/s114], Oct. 24, 1992, [106 Stat. 2803][/us/stat/106/2803].)
+([Pub. L. 98–381, title II][/us/pl/98/381/tII], § 205, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 114, Oct. 24, 1992, [106 Stat. 2803][/us/stat/106/2803].)
 
  __References in Text__ 
 
@@ -50,8 +50,8 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s2602/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602%2F18
-[/us/pl/98/381/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2Fs205
-[/us/pl/102/486/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs114
+[/us/pl/98/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2FtII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2803
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

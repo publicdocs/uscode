@@ -79,7 +79,7 @@
 
                 (ii) recommendations for administrative and legislative action that could optimize the effectiveness of the pilot programs, as the Director determines to be appropriate.
 
-([Pub. L. 110–69, title VII, § 7034][/us/pl/110/69/s7034], Aug. 9, 2007, [121 Stat. 712][/us/stat/121/712].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7034, Aug. 9, 2007, [121 Stat. 712][/us/stat/121/712].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/110/69/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7034
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F712
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

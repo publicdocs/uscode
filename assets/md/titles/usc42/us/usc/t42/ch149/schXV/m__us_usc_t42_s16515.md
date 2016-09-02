@@ -33,13 +33,13 @@
 
     (e) Not later than 120 days after February 15, 2007, and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 \[[42 U.S.C. 16501][/us/usc/t42/s16501] et seq.\], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under this subchapter, describing the technologies, amount of loan guarantee sought, and the applicants’ assessment of risk.
 
-([Pub. L. 109–289, div. B, title II, § 20320][/us/pl/109/289/s20320], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 21][/us/stat/121/21]; amended [Pub. L. 113–76, div. D, title III, § 307][/us/pl/113/76/s307], Jan. 17, 2014, [128 Stat. 175][/us/stat/128/175].)
+([Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 20320, as added [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 21][/us/stat/121/21]; amended [Pub. L. 113–76, div. D, title III][/us/pl/113/76/dD/tIII], § 307, Jan. 17, 2014, [128 Stat. 175][/us/stat/128/175].)
 
  __References in Text__ 
 
-    Section 101, referred to in subsec. (a), is [section 101 of title I of div. B of Pub. L. 109–289][/us/pl/109/289/s101], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 8][/us/stat/121/8]. Subsec. (b) of section 101 is classified as a note under [section 12651i of this title][/us/usc/t42/s12651i]. Subsecs. (a) and (c) of section 101 are not classified to the Code.
+    Section 101, referred to in subsec. (a), is [section 101 of title I of div. B of Pub. L. 109–289][/us/pl/109/289/dB/tI/s101], as added by [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 8][/us/stat/121/8]. Subsec. (b) of section 101 is classified as a note under [section 12651i of this title][/us/usc/t42/s12651i]. Subsecs. (a) and (c) of section 101 are not classified to the Code.
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     The Energy Policy Act of 2005, referred to in text, is [Pub. L. 109–58][/us/pl/109/58], Aug. 8, 2005, [119 Stat. 594][/us/stat/119/594]. Title XVII of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title][/us/usc/t42/s15801] and Tables.
 
@@ -67,17 +67,17 @@
 [/us/usc/t42/s16501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16501
 [/us/usc/t42/s16501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16501
 [/us/usc/t42/s16501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16501
-[/us/pl/109/289/s20320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20320
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F21
-[/us/pl/113/76/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307
+[/us/pl/113/76/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtIII
 [/us/stat/128/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F175
-[/us/pl/109/289/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs101
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tI/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtI%2Fs101
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F8
 [/us/usc/t42/s12651i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651i
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

@@ -17,7 +17,7 @@
 
     In addition to the substances referred to in [section 346a(p)(3)(B) of title 21][/us/usc/t21/s346a/p/3/B] the Administrator may provide for testing under the screening program authorized by [section 346a(p) of title 21][/us/usc/t21/s346a/p], in accordance with the provisions of [section 346a(p) of title 21][/us/usc/t21/s346a/p], of any other substance that may be found in sources of drinking water if the Administrator determines that a substantial population may be exposed to such substance.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1457, as added [Pub. L. 104–182, title I, § 136][/us/pl/104/182/s136], Aug. 6, 1996, [110 Stat. 1680][/us/stat/110/1680].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1457, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 136, Aug. 6, 1996, [110 Stat. 1680][/us/stat/110/1680].)
 
 ----------
 
@@ -30,7 +30,7 @@
 [/us/usc/t21/s346a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a%2Fp
 [/us/usc/t21/s346a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a%2Fp
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs136
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1680
 
 

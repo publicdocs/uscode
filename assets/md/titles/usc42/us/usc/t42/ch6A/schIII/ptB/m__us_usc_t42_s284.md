@@ -97,7 +97,7 @@
 
         The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (3).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 405, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 826][/us/stat/99/826]; amended [Pub. L. 100–607, title I, § 116][/us/pl/100/607/s116], Nov. 4, 1988, [102 Stat. 3053][/us/stat/102/3053]; [Pub. L. 100–690, title II, § 2613(c)][/us/pl/100/690/s2613/c], Nov. 18, 1988, [102 Stat. 4239][/us/stat/102/4239]; [Pub. L. 103–43, title III, § 301(a)(1)][/us/pl/103/43/s301/a/1], (b), June 10, 1993, [107 Stat. 150][/us/stat/107/150]; [Pub. L. 109–482, title I, § 102(f)(1)(B)][/us/pl/109/482/s102/f/1/B], Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 405, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 826][/us/stat/99/826]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 116, Nov. 4, 1988, [102 Stat. 3053][/us/stat/102/3053]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(c), Nov. 18, 1988, [102 Stat. 4239][/us/stat/102/4239]; [Pub. L. 103–43, title III][/us/pl/103/43/tIII], § 301(a)(1), (b), June 10, 1993, [107 Stat. 150][/us/stat/107/150]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 102(f)(1)(B), Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685].)
 
  __References in Text__ 
 
@@ -107,19 +107,19 @@
 
     2007—Subsec. (c)(3)(A). [Pub. L. 109–482][/us/pl/109/482] substituted “section 282(b)(16)” for “section 282(b)(6)”.
 
-    1993—Subsec. (b)(2)(C). [Pub. L. 103–43, § 301(a)(1)][/us/pl/103/43/s301/a/1], added subpar. (C).
+    1993—Subsec. (b)(2)(C). [Pub. L. 103–43][/us/pl/103/43], § 301(a)(1), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 103–43, § 301(b)(2)][/us/pl/103/43/s301/b/2], inserted concluding provisions relating to Federal Advisory Committee Act.
+    Subsec. (c). [Pub. L. 103–43][/us/pl/103/43], § 301(b)(2), inserted concluding provisions relating to Federal Advisory Committee Act.
 
-    Subsec. (c)(3). [Pub. L. 103–43, § 301(b)(1)][/us/pl/103/43/s301/b/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “may, in consultation with the advisory council for the Institute and the approval of the Director of NIH, establish and appoint technical and scientific peer review groups in addition to those established and appointed under [section 282(b)(6) of this title][/us/usc/t42/s282/b/6]; and”.
+    Subsec. (c)(3). [Pub. L. 103–43][/us/pl/103/43], § 301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “may, in consultation with the advisory council for the Institute and the approval of the Director of NIH, establish and appoint technical and scientific peer review groups in addition to those established and appointed under [section 282(b)(6) of this title][/us/usc/t42/s282/b/6]; and”.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–607, § 116(1)][/us/pl/100/607/s116/1], struck out “the” after “with respect to” in introductory provisions.
+    1988—Subsec. (b)(1). [Pub. L. 100–607][/us/pl/100/607], § 116(1), struck out “the” after “with respect to” in introductory provisions.
 
     Subsec. (c)(3). [Pub. L. 100–690][/us/pl/100/690] substituted “establish and appoint” and “established and appointed” for “establish” and “established”, respectively.
 
-    [Pub. L. 100–607, § 116(2)(A)][/us/pl/100/607/s116/2/A], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “may, with the approval of the advisory council for the institute and the Director of NIH, appoint technical and scientific peer review groups in addition to those appointed under [section 282(b)(6) of this title][/us/usc/t42/s282/b/6].”
+    [Pub. L. 100–607][/us/pl/100/607], § 116(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “may, with the approval of the advisory council for the institute and the Director of NIH, appoint technical and scientific peer review groups in addition to those appointed under [section 282(b)(6) of this title][/us/usc/t42/s282/b/6].”
 
-    Subsec. (c)(4). [Pub. L. 100–607, § 116(2)(C)][/us/pl/100/607/s116/2/C], added par. (4).
+    Subsec. (c)(4). [Pub. L. 100–607][/us/pl/100/607], § 116(2)(C), added par. (4).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -131,7 +131,7 @@
 
  __Enhancing the Clinical and Translational Science Award__ 
 
-[Pub. L. 109–482, title I, § 106][/us/pl/109/482/s106], Jan. 15, 2007, [120 Stat. 3696][/us/stat/120/3696], provided that:
+[Pub. L. 109–482, title I][/us/pl/109/482/tI], § 106, Jan. 15, 2007, [120 Stat. 3696][/us/stat/120/3696], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -170,28 +170,28 @@
 [/us/usc/t42/s282/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F16
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F826
-[/us/pl/100/607/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs116
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3053
-[/us/pl/100/690/s2613/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fc
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4239
-[/us/pl/103/43/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs301%2Fa%2F1
+[/us/pl/103/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIII
 [/us/stat/107/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F150
-[/us/pl/109/482/s102/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Ff%2F1%2FB
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3685
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
-[/us/pl/103/43/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs301%2Fa%2F1
-[/us/pl/103/43/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs301%2Fb%2F2
-[/us/pl/103/43/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs301%2Fb%2F1
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/usc/t42/s282/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F6
-[/us/pl/100/607/s116/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs116%2F1
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/607/s116/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs116%2F2%2FA
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s282/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F6
-[/us/pl/100/607/s116/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs116%2F2%2FC
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
@@ -199,7 +199,7 @@
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/100/690/s2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2600
 [/us/usc/t42/s242m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242m
-[/us/pl/109/482/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs106
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3696
 [/us/usc/t42/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281

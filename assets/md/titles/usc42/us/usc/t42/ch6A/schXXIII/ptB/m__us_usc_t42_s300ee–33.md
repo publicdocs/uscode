@@ -23,11 +23,11 @@
 
         In making grants under subsection (a) of this section, the Secretary shall give preference to any applicant for such a grant that has the ability to disseminate rapidly the information described in subsection (a) of this section (including any national organization with such ability).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2523, as added [Pub. L. 100–607, title II, § 221][/us/pl/100/607/s221], Nov. 4, 1988, [102 Stat. 3103][/us/stat/102/3103]; renumbered title XXV, [Pub. L. 101–93, § 5(e)(1)][/us/pl/101/93/s5/e/1], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2523, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 221, Nov. 4, 1988, [102 Stat. 3103][/us/stat/102/3103]; renumbered title XXV, [Pub. L. 101–93][/us/pl/101/93], § 5(e)(1), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
 
  __References in Text__ 
 
-    Sections 254b and 254c of this title, referred to in subsec. (a), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+    Sections 254b and 254c of this title, referred to in subsec. (a), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
  __Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs221
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3103
-[/us/pl/101/93/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc

@@ -53,7 +53,7 @@
 
         (2) such sums as are necessary for each fiscal year thereafter.
 
-([Pub. L. 94–163, title II, § 273][/us/pl/94/163/s273], as added [Pub. L. 106–469, title VI, § 602(a)][/us/pl/106/469/s602/a], Nov. 9, 2000, [114 Stat. 2040][/us/stat/114/2040]; amended [Pub. L. 109–58, title III, § 301(b)(2)][/us/pl/109/58/s301/b/2], Aug. 8, 2005, [119 Stat. 683][/us/stat/119/683].)
+([Pub. L. 94–163, title II][/us/pl/94/163/tII], § 273, as added [Pub. L. 106–469, title VI][/us/pl/106/469/tVI], § 602(a), Nov. 9, 2000, [114 Stat. 2040][/us/stat/114/2040]; amended [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 301(b)(2), Aug. 8, 2005, [119 Stat. 683][/us/stat/119/683].)
 
  __Amendments__ 
 
@@ -66,10 +66,10 @@
 ----------
 ----------
 
-[/us/pl/94/163/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs273
-[/us/pl/106/469/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs602%2Fa
+[/us/pl/94/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtII
+[/us/pl/106/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtVI
 [/us/stat/114/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2040
-[/us/pl/109/58/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs301%2Fb%2F2
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F683
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s6285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6285

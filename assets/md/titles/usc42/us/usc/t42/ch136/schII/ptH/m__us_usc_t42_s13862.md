@@ -27,7 +27,7 @@
 
     (5) by a State, unit of local government, or Indian tribe to create and expand witness and victim protection programs to prevent threats, intimidation, and retaliation against victims of, and witnesses to, violent crimes.
 
-([Pub. L. 103–322, title III, § 31702][/us/pl/103/322/s31702], Sept. 13, 1994, [108 Stat. 1890][/us/stat/108/1890]; [Pub. L. 110–177, title III, § 301(a)][/us/pl/110/177/s301/a], Jan. 7, 2008, [121 Stat. 2538][/us/stat/121/2538].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31702, Sept. 13, 1994, [108 Stat. 1890][/us/stat/108/1890]; [Pub. L. 110–177, title III][/us/pl/110/177/tIII], § 301(a), Jan. 7, 2008, [121 Stat. 2538][/us/stat/121/2538].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t42/s3796bb/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796bb%2Fb
-[/us/pl/103/322/s31702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31702
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1890
-[/us/pl/110/177/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs301%2Fa
+[/us/pl/110/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtIII
 [/us/stat/121/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2538
 [/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
 

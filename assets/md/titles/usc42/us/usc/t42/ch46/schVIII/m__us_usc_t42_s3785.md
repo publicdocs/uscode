@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3784.md) | [Next](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3786.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3785)
 
-## § 3785. Repealed. [Pub. L. 109–162, title XI, § 1155(3)][/us/pl/109/162/s1155/3], Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114]
+## § 3785. Repealed. [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1155(3), Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114]
 
-    Section, [Pub. L. 90–351, title I, § 804][/us/pl/90/351/s804], formerly § 805, as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1203][/us/stat/93/1203]; renumbered § 804 and amended [Pub. L. 98–473, title II, § 609B(d)][/us/pl/98/473/s609B/d], (f), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093]; [Pub. L. 103–322, title XXXIII, § 330001(h)(9)][/us/pl/103/322/s330001/h/9], Sept. 13, 1994, [108 Stat. 2139][/us/stat/108/2139], related to appellate court review.
+    Section, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 804, formerly § 805, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1203][/us/stat/93/1203]; renumbered § 804 and amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609B(d), (f), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330001(h)(9), Sept. 13, 1994, [108 Stat. 2139][/us/stat/108/2139], related to appellate court review.
 
     Another [section 804 of Pub. L. 90–351][/us/pl/90/351/s804], title III, June 19, 1968, [82 Stat. 223][/us/stat/82/223], is set out as a note under [section 2510 of Title 18][/us/usc/t18/s2510], Crimes and Criminal Procedure.
 
@@ -28,14 +28,14 @@
 ----------
 ----------
 
-[/us/pl/109/162/s1155/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1155%2F3
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3114
-[/us/pl/90/351/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs804
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1203
-[/us/pl/98/473/s609B/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fd
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2093
-[/us/pl/103/322/s330001/h/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330001%2Fh%2F9
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2139
 [/us/pl/90/351/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs804
 [/us/stat/82/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F223

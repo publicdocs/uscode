@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be deemed to repeal, modify, or amend the provisions of [section 1491 of title 48][/us/usc/t48/s1491].
 
-([Pub. L. 97–425, § 4][/us/pl/97/425/s4], Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
+([Pub. L. 97–425][/us/pl/97/425], § 4, Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t48/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1491
-[/us/pl/97/425/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs4
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2205
 
 

@@ -79,13 +79,13 @@
 
         As used in this section, the term “State” means each of the 50 States and the District of Columbia.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 418, as added [Pub. L. 104–193, title VI, § 603(b)][/us/pl/104/193/s603/b], Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279]; amended [Pub. L. 105–33, title V, § 5601][/us/pl/105/33/s5601], Aug. 5, 1997, [111 Stat. 644][/us/stat/111/644]; [Pub. L. 108–40, § 4][/us/pl/108/40/s4], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 109–171, title VII, § 7201][/us/pl/109/171/s7201], Feb. 8, 2006, [120 Stat. 141][/us/stat/120/141]; [Pub. L. 112–96, title IV, § 4002(g)][/us/pl/112/96/s4002/g], Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 418, as added [Pub. L. 104–193, title VI][/us/pl/104/193/tVI], § 603(b), Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279]; amended [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5601, Aug. 5, 1997, [111 Stat. 644][/us/stat/111/644]; [Pub. L. 108–40][/us/pl/108/40], § 4, June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 109–171, title VII][/us/pl/109/171/tVII], § 7201, Feb. 8, 2006, [120 Stat. 141][/us/stat/120/141]; [Pub. L. 112–96, title IV][/us/pl/112/96/tIV], § 4002(g), Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195].)
 
  __References in Text__ 
 
-    [Section 603(a)(1)(D) of this title][/us/usc/t42/s603/a/1/D], referred to in subsec. (a)(5), was repealed by [Pub. L. 108–40, § 3(a)(2)][/us/pl/108/40/s3/a/2], June 30, 2003, [117 Stat. 836][/us/stat/117/836].
+    [Section 603(a)(1)(D) of this title][/us/usc/t42/s603/a/1/D], referred to in subsec. (a)(5), was repealed by [Pub. L. 108–40][/us/pl/108/40], § 3(a)(2), June 30, 2003, [117 Stat. 836][/us/stat/117/836].
 
-    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
+    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
 
  __Amendments__ 
 
@@ -95,25 +95,25 @@
 
     2003—Subsec. (a)(3)(F). [Pub. L. 108–40][/us/pl/108/40] substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–33, § 5601(a)(1)(A)][/us/pl/105/33/s5601/a/1/A], (D), inserted “the greater of” after “equal to” in introductory provisions and struck out concluding provisions which read “whichever is greater.”
+    1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 5601(a)(1)(A), (D), inserted “the greater of” after “equal to” in introductory provisions and struck out concluding provisions which read “whichever is greater.”
 
-    Subsec. (a)(1)(A). [Pub. L. 105–33, § 5601(a)(1)(B)][/us/pl/105/33/s5601/a/1/B], struck out “the sum of” before “the total amount”, substituted “expenditures” for “amounts expended” and “subsections (g) and (i) of [section 602 of this title][/us/usc/t42/s602] (as in effect before October 1, 1995); or” for “section—”, and struck out cls. (i) and (ii) which read as follows:
+    Subsec. (a)(1)(A). [Pub. L. 105–33][/us/pl/105/33], § 5601(a)(1)(B), struck out “the sum of” before “the total amount”, substituted “expenditures” for “amounts expended” and “subsections (g) and (i) of [section 602 of this title][/us/usc/t42/s602] (as in effect before October 1, 1995); or” for “section—”, and struck out cls. (i) and (ii) which read as follows:
 
     “(i) 602(g) of this title (as such section was in effect before October 1, 1995); and
 
     “(ii) 602(i) of this title (as so in effect); or”.
 
-    Subsec. (a)(1)(B). [Pub. L. 105–33, § 5601(a)(1)(C)][/us/pl/105/33/s5601/a/1/C], substituted “subsections” for “sections” and a period for the semicolon at end.
+    Subsec. (a)(1)(B). [Pub. L. 105–33][/us/pl/105/33], § 5601(a)(1)(C), substituted “subsections” for “sections” and a period for the semicolon at end.
 
-    Subsec. (a)(2)(B). [Pub. L. 105–33, § 5601(a)(2)(A)][/us/pl/105/33/s5601/a/2/A], added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Subject to subparagraph (C), the amount of a grant awarded to a State for a fiscal year under this paragraph shall be based on the formula used for determining the amount of Federal payments to the State under [section 603(n) of this title][/us/usc/t42/s603/n] (as such section was in effect before October 1, 1995).”
+    Subsec. (a)(2)(B). [Pub. L. 105–33][/us/pl/105/33], § 5601(a)(2)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Subject to subparagraph (C), the amount of a grant awarded to a State for a fiscal year under this paragraph shall be based on the formula used for determining the amount of Federal payments to the State under [section 603(n) of this title][/us/usc/t42/s603/n] (as such section was in effect before October 1, 1995).”
 
-    Subsec. (a)(2)(C). [Pub. L. 105–33, § 5601(a)(2)(B)][/us/pl/105/33/s5601/a/2/B], added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “The Secretary shall pay to each eligible State in a fiscal year an amount, under a grant under subparagraph (A), equal to the Federal medical assistance percentage for such State for fiscal year 1995 (as defined in [section 1396d(b) of this title][/us/usc/t42/s1396d/b]) of so much of the expenditures by the State for child care in such year as exceed the State set-aside for such State under paragraph (1)(A) for such year and the amount of State expenditures in fiscal year 1994 or 1995 (whichever is greater) that equal the non-Federal share for the programs described in subparagraph (A) of paragraph (1).”
+    Subsec. (a)(2)(C). [Pub. L. 105–33][/us/pl/105/33], § 5601(a)(2)(B), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “The Secretary shall pay to each eligible State in a fiscal year an amount, under a grant under subparagraph (A), equal to the Federal medical assistance percentage for such State for fiscal year 1995 (as defined in [section 1396d(b) of this title][/us/usc/t42/s1396d/b]) of so much of the expenditures by the State for child care in such year as exceed the State set-aside for such State under paragraph (1)(A) for such year and the amount of State expenditures in fiscal year 1994 or 1995 (whichever is greater) that equal the non-Federal share for the programs described in subparagraph (A) of paragraph (1).”
 
-    Subsec. (a)(2)(D)(i). [Pub. L. 105–33, § 5601(a)(2)(C)][/us/pl/105/33/s5601/a/2/C], substituted “any amounts allotted” for “amounts under any grant awarded” and “such amounts are allotted” for “the grant is made”.
+    Subsec. (a)(2)(D)(i). [Pub. L. 105–33][/us/pl/105/33], § 5601(a)(2)(C), substituted “any amounts allotted” for “amounts under any grant awarded” and “such amounts are allotted” for “the grant is made”.
 
-    Subsec. (a)(5). [Pub. L. 105–33, § 5601(b)][/us/pl/105/33/s5601/b], added par. (5).
+    Subsec. (a)(5). [Pub. L. 105–33][/us/pl/105/33], § 5601(b), added par. (5).
 
-    Subsec. (d). [Pub. L. 105–33, § 5601(c)][/us/pl/105/33/s5601/c], substituted “and” for “or” before “the District”.
+    Subsec. (d). [Pub. L. 105–33][/us/pl/105/33], § 5601(c), substituted “and” for “or” before “the District”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -125,7 +125,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5603][/us/pl/105/33/s5603], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646], provided that:
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5603, Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -153,44 +153,44 @@
 [/us/usc/t42/s603/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fn
 [/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs603%2Fb
+[/us/pl/104/193/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVI
 [/us/stat/110/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2279
-[/us/pl/105/33/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F644
-[/us/pl/108/40/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs4
+[/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/stat/117/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F837
-[/us/pl/109/171/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7201
+[/us/pl/109/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVII
 [/us/stat/120/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F141
-[/us/pl/112/96/s4002/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs4002%2Fg
+[/us/pl/112/96/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtIV
 [/us/stat/126/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F195
 [/us/usc/t42/s603/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fa%2F1%2FD
-[/us/pl/108/40/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs3%2Fa%2F2
+[/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/stat/117/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F836
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
 [/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
-[/us/pl/105/33/s5601/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fa%2F1%2FA
-[/us/pl/105/33/s5601/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fa%2F1%2FB
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
-[/us/pl/105/33/s5601/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fa%2F1%2FC
-[/us/pl/105/33/s5601/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fa%2F2%2FA
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s603/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fn
-[/us/pl/105/33/s5601/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fa%2F2%2FB
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
-[/us/pl/105/33/s5601/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fa%2F2%2FC
-[/us/pl/105/33/s5601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fb
-[/us/pl/105/33/s5601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5601%2Fc
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7701
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/pl/108/40/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs8
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
-[/us/pl/105/33/s5603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5603
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F646
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193

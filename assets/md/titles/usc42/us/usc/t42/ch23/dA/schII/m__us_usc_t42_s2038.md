@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of any other law, the officer of the Army, Navy, or Air Force serving as Assistant General Manager for Military Application shall serve without prejudice to his commissioned status as such officer. Any such officer serving as Assistant General Manager for Military Application shall receive in addition to his pay and allowances, including special and incentive pays, for which pay and allowances the Commission shall reimburse his service, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation established for this position. Notwithstanding the provisions of any other law, any active or retired officer of the Army, Navy, or Air Force may serve as Chairman of the Military Liaison Committee without prejudice to his active or retired status as such officer. Any such active officer serving as Chairman of the Military Liaison Committee shall receive, in addition to his pay and allowances, including special and incentive pays, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation fixed for such Chairman. Any such retired officer serving as Chairman of the Military Liaison Committee shall receive the compensation fixed for such Chairman and his retired pay.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 28, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 926][/us/stat/68/926]; amended [Pub. L. 88–426, title III, § 306(f)(8)][/us/pl/88/426/s306/f/8], Aug. 14, 1964, [78 Stat. 430][/us/stat/78/430]; [Pub. L. 88–448, title IV, § 401(f)][/us/pl/88/448/s401/f], Aug. 19, 1964, [78 Stat. 490][/us/stat/78/490]; [Pub. L. 90–190, § 6][/us/pl/90/190/s6], Dec. 14, 1967, [81 Stat. 577][/us/stat/81/577]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 107–107, div. A, title X, § 1048(i)(11)][/us/pl/107/107/s1048/i/11], Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 28, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 926][/us/stat/68/926]; amended [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 306(f)(8), Aug. 14, 1964, [78 Stat. 430][/us/stat/78/430]; [Pub. L. 88–448, title IV][/us/pl/88/448/tIV], § 401(f), Aug. 19, 1964, [78 Stat. 490][/us/stat/78/490]; [Pub. L. 90–190][/us/pl/90/190], § 6, Dec. 14, 1967, [81 Stat. 577][/us/stat/81/577]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(i)(11), Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230].)
 
  __Prior Provisions__ 
 
@@ -47,17 +47,17 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F926
-[/us/pl/88/426/s306/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs306%2Ff%2F8
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F430
-[/us/pl/88/448/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs401%2Ff
+[/us/pl/88/448/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2FtIV
 [/us/stat/78/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F490
-[/us/pl/90/190/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190%2Fs6
+[/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/stat/81/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F577
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/107/107/s1048/i/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fi%2F11
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1230
 [/us/usc/t42/s1802/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1802%2Fd
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

@@ -161,19 +161,19 @@
 
             An Indian tribe described in paragraph (1) may apply to the appropriate State authority to receive a waiver of the requirement of paragraph (1).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 412, as added [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2150][/us/stat/110/2150]; amended [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5001(c), 5508, 5514(c), Aug. 5, 1997, [111 Stat. 589][/us/stat/111/589], 617, 620; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title VIII, § 801(b)(2)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–283; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title I, § 107(b)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–12; [Pub. L. 108–40, § 3(h)][/us/pl/108/40/s3/h], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 112–96, title IV, § 4002(d)][/us/pl/112/96/s4002/d], Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 412, as added [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 103(a)(1), Aug. 22, 1996, [110 Stat. 2150][/us/stat/110/2150]; amended [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5001(c), 5508, 5514(c), Aug. 5, 1997, [111 Stat. 589][/us/stat/111/589], 617, 620; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title VIII, § 801(b)(2)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–283; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title I, § 107(b)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–12; [Pub. L. 108–40][/us/pl/108/40], § 3(h), June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 112–96, title IV][/us/pl/112/96/tIV], § 4002(d), Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195].)
 
  __References in Text__ 
 
-    Part F of this subchapter, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by [Pub. L. 104–193, title I, § 108(e)][/us/pl/104/193/s108/e], Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167].
+    Part F of this subchapter, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(e), Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167].
 
-    [Section 682 of this title][/us/usc/t42/s682], referred to in subsec. (a)(2)(A), (B), was repealed by [Pub. L. 104–193, title I, § 108(e)][/us/pl/104/193/s108/e], Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167].
+    [Section 682 of this title][/us/usc/t42/s682], referred to in subsec. (a)(2)(A), (B), was repealed by [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(e), Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167].
 
     The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2), is [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25][/us/usc/t25/s450] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 612, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 412, as added June 17, 1980, [Pub. L. 96–272, title III, § 303][/us/pl/96/272/s303], [94 Stat. 528][/us/stat/94/528]; amended Aug. 13, 1981, [Pub. L. 97–35, title XXIII, § 2306(b)][/us/pl/97/35/s2306/b], [95 Stat. 846][/us/stat/95/846]; Sept. 3, 1982, [Pub. L. 97–248, title I, § 155(a)][/us/pl/97/248/s155/a], [96 Stat. 397][/us/stat/96/397], related to prorating shelter allowance for AFDC family living with another household, prior to repeal by [Pub. L. 104–193, § 103(a)(1)][/us/pl/104/193/s103/a/1], as amended by [Pub. L. 105–33, title V, § 5514(c)][/us/pl/105/33/s5514/c], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].
+    A prior section 612, [act Aug. 14, 1935, ch. 531, title IV][/us/act/1935-08-14/ch531/tIV], § 412, as added June 17, 1980, [Pub. L. 96–272, title III][/us/pl/96/272/tIII], § 303, [94 Stat. 528][/us/stat/94/528]; amended Aug. 13, 1981, [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2306(b), [95 Stat. 846][/us/stat/95/846]; Sept. 3, 1982, [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 155(a), [96 Stat. 397][/us/stat/96/397], related to prorating shelter allowance for AFDC family living with another household, prior to repeal by [Pub. L. 104–193][/us/pl/104/193], § 103(a)(1), as amended by [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5514(c), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].
 
  __Amendments__ 
 
@@ -185,23 +185,23 @@
 
     1999—Subsec. (a)(3)(C)(ii). [Pub. L. 106–113][/us/pl/106/113] substituted “clause (viii)” for “clause (vii)”.
 
-    1997—[Pub. L. 105–33, § 5514(c)][/us/pl/105/33/s5514/c], made technical amendment to directory language of [Pub. L. 104–193, § 103(a)(1)][/us/pl/104/193/s103/a/1], which enacted this section.
+    1997—[Pub. L. 105–33][/us/pl/105/33], § 5514(c), made technical amendment to directory language of [Pub. L. 104–193][/us/pl/104/193], § 103(a)(1), which enacted this section.
 
-    Subsec. (a)(1)(A). [Pub. L. 105–33, § 5508(a)][/us/pl/105/33/s5508/a], inserted “which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect,” before “and shall”.
+    Subsec. (a)(1)(A). [Pub. L. 105–33][/us/pl/105/33], § 5508(a), inserted “which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect,” before “and shall”.
 
-    Subsec. (a)(2)(A). [Pub. L. 105–33, § 5508(b)][/us/pl/105/33/s5508/b], substituted “For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each eligible Indian tribe that proposes to operate a program described in subparagraph (C)” for “The Secretary shall pay to each eligible Indian tribe for each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002”.
+    Subsec. (a)(2)(A). [Pub. L. 105–33][/us/pl/105/33], § 5508(b), substituted “For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each eligible Indian tribe that proposes to operate a program described in subparagraph (C)” for “The Secretary shall pay to each eligible Indian tribe for each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002”.
 
-    Subsec. (a)(2)(C). [Pub. L. 105–33, § 5508(c)][/us/pl/105/33/s5508/c], substituted “such population and such service area or areas as the tribe specifies” for “members of the Indian tribe”.
+    Subsec. (a)(2)(C). [Pub. L. 105–33][/us/pl/105/33], § 5508(c), substituted “such population and such service area or areas as the tribe specifies” for “members of the Indian tribe”.
 
-    Subsec. (a)(2)(D). [Pub. L. 105–33, § 5508(d)][/us/pl/105/33/s5508/d], substituted “$7,633,287” for “$7,638,474”.
+    Subsec. (a)(2)(D). [Pub. L. 105–33][/us/pl/105/33], § 5508(d), substituted “$7,633,287” for “$7,638,474”.
 
-    Subsec. (a)(3). [Pub. L. 105–33, § 5001(c)][/us/pl/105/33/s5001/c], added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–33][/us/pl/105/33], § 5001(c), added par. (3).
 
-    Subsec. (f). [Pub. L. 105–33, § 5508(f)][/us/pl/105/33/s5508/f], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 105–33][/us/pl/105/33], § 5508(f), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(1). [Pub. L. 105–33, § 5508(e)][/us/pl/105/33/s5508/e], substituted “(b), and (c)” for “and (b)”.
+    Subsec. (f)(1). [Pub. L. 105–33][/us/pl/105/33], § 5508(e), substituted “(b), and (c)” for “and (b)”.
 
-    Subsecs. (g) to (i). [Pub. L. 105–33, § 5508(f)][/us/pl/105/33/s5508/f], redesignated subsecs. (f) to (h) as (g) to (i), respectively.
+    Subsecs. (g) to (i). [Pub. L. 105–33][/us/pl/105/33], § 5508(f), redesignated subsecs. (f) to (h) as (g) to (i), respectively.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -252,50 +252,50 @@
 [/us/usc/t42/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs607%2Fa
 [/us/usc/t42/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs611
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2150
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F589
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/40/s3/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs3%2Fh
+[/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/stat/117/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F837
-[/us/pl/112/96/s4002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs4002%2Fd
+[/us/pl/112/96/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtIV
 [/us/stat/126/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F195
-[/us/pl/104/193/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fe
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2167
 [/us/usc/t42/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs682
-[/us/pl/104/193/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fe
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2167
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/272/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs303
+[/us/act/1935-08-14/ch531/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIV
+[/us/pl/96/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtIII
 [/us/stat/94/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F528
-[/us/pl/97/35/s2306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2306%2Fb
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F846
-[/us/pl/97/248/s155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs155%2Fa
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F397
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
-[/us/pl/105/33/s5514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fc
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/33/s5514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fc
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
-[/us/pl/105/33/s5508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5508%2Fa
-[/us/pl/105/33/s5508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5508%2Fb
-[/us/pl/105/33/s5508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5508%2Fc
-[/us/pl/105/33/s5508/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5508%2Fd
-[/us/pl/105/33/s5001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5001%2Fc
-[/us/pl/105/33/s5508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5508%2Ff
-[/us/pl/105/33/s5508/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5508%2Fe
-[/us/pl/105/33/s5508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5508%2Ff
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/pl/108/40/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs8
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603

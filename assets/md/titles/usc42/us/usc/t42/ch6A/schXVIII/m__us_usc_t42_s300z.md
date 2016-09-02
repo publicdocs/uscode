@@ -83,13 +83,13 @@
 
         (6) to encourage and provide for the dissemination of results, findings, and information from programs and research projects relating to adolescent premarital sexual relations, pregnancy, and parenthood.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2001, as added [Pub. L. 97–35, title IX, § 955(a)][/us/pl/97/35/s955/a], Aug. 13, 1981, [95 Stat. 578][/us/stat/95/578]; amended [Pub. L. 98–512, § 2(b)][/us/pl/98/512/s2/b], (c), Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2001, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(a), Aug. 13, 1981, [95 Stat. 578][/us/stat/95/578]; amended [Pub. L. 98–512][/us/pl/98/512], § 2(b), (c), Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
 
  __Amendments__ 
 
-    1984—Subsec. (a)(5). [Pub. L. 98–512, § 2(b)][/us/pl/98/512/s2/b], struck out reference relating to developmental disabilities and inserted provision relating to importance of education, training, and job research services for adolescent parents.
+    1984—Subsec. (a)(5). [Pub. L. 98–512][/us/pl/98/512], § 2(b), struck out reference relating to developmental disabilities and inserted provision relating to importance of education, training, and job research services for adolescent parents.
 
-    Subsec. (b)(3). [Pub. L. 98–512, § 2(c)][/us/pl/98/512/s2/c], inserted “both” before “for pregnant adolescents”.
+    Subsec. (b)(3). [Pub. L. 98–512][/us/pl/98/512], § 2(c), inserted “both” before “for pregnant adolescents”.
 
 ----------
 
@@ -99,11 +99,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F578
-[/us/pl/98/512/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512%2Fs2%2Fb
+[/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512
 [/us/stat/98/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2409
-[/us/pl/98/512/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512%2Fs2%2Fb
-[/us/pl/98/512/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512%2Fs2%2Fc
+[/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512
+[/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512
 
 

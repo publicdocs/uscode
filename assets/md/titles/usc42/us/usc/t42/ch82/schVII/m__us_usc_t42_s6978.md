@@ -23,7 +23,7 @@
 
         No grant may be made under this chapter to any private profitmaking organization.
 
-([Pub. L. 89–272, title II, § 7008][/us/pl/89/272/s7008], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2828][/us/stat/90/2828].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7008, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2828][/us/stat/90/2828].)
 
  __Prior Provisions__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s7008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7008
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2828
 [/us/usc/t42/s3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3258
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580

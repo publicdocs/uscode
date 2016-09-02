@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated for the WERC program under [section 7382e of this title][/us/usc/t42/s7382e] such sums as may be necessary for fiscal year 1995 and each of the four succeeding fiscal years.
 
-([Pub. L. 103–382, title V, § 518][/us/pl/103/382/s518], Oct. 20, 1994, [108 Stat. 4044][/us/stat/108/4044].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 518, Oct. 20, 1994, [108 Stat. 4044][/us/stat/108/4044].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s7382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7382e
-[/us/pl/103/382/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs518
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4044
 
 

@@ -133,7 +133,7 @@
 
         Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-([Pub. L. 105–251, title I, § 102][/us/pl/105/251/s102], Oct. 9, 1998, [112 Stat. 1871][/us/stat/112/1871]; [Pub. L. 106–177, title I, § 102][/us/pl/106/177/s102], Mar. 10, 2000, [114 Stat. 35][/us/stat/114/35]; [Pub. L. 106–561, § 2(c)(4)][/us/pl/106/561/s2/c/4], Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791]; [Pub. L. 107–56, title X, § 1015][/us/pl/107/56/s1015], Oct. 26, 2001, [115 Stat. 400][/us/stat/115/400]; [Pub. L. 109–162, title XI, § 1111(c)(1)][/us/pl/109/162/s1111/c/1], Jan. 5, 2006, [119 Stat. 3101][/us/stat/119/3101].)
+([Pub. L. 105–251, title I][/us/pl/105/251/tI], § 102, Oct. 9, 1998, [112 Stat. 1871][/us/stat/112/1871]; [Pub. L. 106–177, title I][/us/pl/106/177/tI], § 102, Mar. 10, 2000, [114 Stat. 35][/us/stat/114/35]; [Pub. L. 106–561][/us/pl/106/561], § 2(c)(4), Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791]; [Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1015, Oct. 26, 2001, [115 Stat. 400][/us/stat/115/400]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(c)(1), Jan. 5, 2006, [119 Stat. 3101][/us/stat/119/3101].)
 
  __References in Text__ 
 
@@ -145,9 +145,9 @@
 
     2006—Subsec. (c)(2)(G). [Pub. L. 109–162][/us/pl/109/162] substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 ([Public Law 105–119][/us/pl/105/119])) and the M.O.R.E. program”.
 
-    2001—Subsec. (b)(18). [Pub. L. 107–56, § 1015(1)][/us/pl/107/56/s1015/1], added par. (18).
+    2001—Subsec. (b)(18). [Pub. L. 107–56][/us/pl/107/56], § 1015(1), added par. (18).
 
-    Subsec. (e)(1). [Pub. L. 107–56, § 1015(2)][/us/pl/107/56/s1015/2], substituted “this section $250,000,000 for each of fiscal years 2002 through 2007” for “this section $250,000,000 for each of fiscal years 1999 through 2003”.
+    Subsec. (e)(1). [Pub. L. 107–56][/us/pl/107/56], § 1015(2), substituted “this section $250,000,000 for each of fiscal years 2002 through 2007” for “this section $250,000,000 for each of fiscal years 1999 through 2003”.
 
     2000—Subsec. (b)(17). [Pub. L. 106–177][/us/pl/106/177] added par. (17).
 
@@ -159,15 +159,15 @@
 
  __Short Title__ 
 
-[Pub. L. 105–251, title I, § 101][/us/pl/105/251/s101], Oct. 9, 1998, [112 Stat. 1871][/us/stat/112/1871], provided that: 
+[Pub. L. 105–251, title I][/us/pl/105/251/tI], § 101, Oct. 9, 1998, [112 Stat. 1871][/us/stat/112/1871], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Crime Identification Technology Act of 1998’.”
 
-[Pub. L. 105–251, title II, § 201][/us/pl/105/251/s201], Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874], provided that: 
+[Pub. L. 105–251, title II][/us/pl/105/251/tII], § 201, Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874], provided that: 
 
 > “This title \[enacting subchapter II of this chapter, amending sections 5119a and 5119b of this title, and enacting provisions set out as a note under [section 5101 of this title][/us/usc/t42/s5101]\] may be cited as the ‘National Criminal History Access and Child Protection Act’.”
 
-[Pub. L. 105–251, title II, § 211][/us/pl/105/251/s211], Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874], provided that: 
+[Pub. L. 105–251, title II][/us/pl/105/251/tII], § 211, Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874], provided that: 
 
 > “This subtitle \[subtitle A (§§ 211–217) of title II of [Pub. L. 105–251][/us/pl/105/251], enacting subchapter II of this chapter\] may be cited as the ‘National Crime Prevention and Privacy Compact Act of 1998’.”
 
@@ -182,15 +182,15 @@
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/usc/t42/s3796dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd
-[/us/pl/105/251/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs102
+[/us/pl/105/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtI
 [/us/stat/112/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1871
-[/us/pl/106/177/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2Fs102
+[/us/pl/106/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2FtI
 [/us/stat/114/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F35
-[/us/pl/106/561/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs2%2Fc%2F4
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2791
-[/us/pl/107/56/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1015
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F400
-[/us/pl/109/162/s1111/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F1
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3101
 [/us/pl/103/159/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs103%2Fb
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
@@ -199,19 +199,19 @@
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
-[/us/pl/107/56/s1015/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1015%2F1
-[/us/pl/107/56/s1015/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1015%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/106/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177
 [/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fd
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
-[/us/pl/105/251/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs101
+[/us/pl/105/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtI
 [/us/stat/112/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1871
-[/us/pl/105/251/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs201
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1874
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
-[/us/pl/105/251/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs211
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1874
 [/us/pl/105/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251
 

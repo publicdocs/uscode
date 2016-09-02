@@ -23,11 +23,11 @@
 
         (2) The Secretary shall establish a process for the prompt and appropriate response to information provided to the Director of NIH respecting incidences of violations of the rights of human subjects of research for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such violations.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 491, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 873][/us/stat/99/873].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 491, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 873][/us/stat/99/873].)
 
  __Informed Consent for Newborn Screening Research__ 
 
-[Pub. L. 113–240, § 12][/us/pl/113/240/s12], Dec. 18, 2014, [128 Stat. 2857][/us/stat/128/2857], provided that:
+[Pub. L. 113–240][/us/pl/113/240], § 12, Dec. 18, 2014, [128 Stat. 2857][/us/stat/128/2857], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -43,7 +43,7 @@
 
  __Study Concerning Research Involving Children__ 
 
-[Pub. L. 107–109, § 12][/us/pl/107/109/s12], Jan. 4, 2002, [115 Stat. 1416][/us/stat/115/1416], provided that:
+[Pub. L. 107–109][/us/pl/107/109], § 12, Jan. 4, 2002, [115 Stat. 1416][/us/stat/115/1416], provided that:
 
 >     “(a)  __Contract With Institute of Medicine__  __.—__ 
 
@@ -85,11 +85,11 @@
 
  __Requirement for Additional Protections for Children Involved in Research__ 
 
-[Pub. L. 106–310, div. A, title XXVII, § 2701][/us/pl/106/310/s2701], Oct. 17, 2000, [114 Stat. 1167][/us/stat/114/1167], as amended by [Pub. L. 106–505, title X, § 1001(a)][/us/pl/106/505/s1001/a], Nov. 13, 2000, [114 Stat. 2350][/us/stat/114/2350], provided that: 
+[Pub. L. 106–310, div. A, title XXVII][/us/pl/106/310/dA/tXXVII], § 2701, Oct. 17, 2000, [114 Stat. 1167][/us/stat/114/1167], as amended by [Pub. L. 106–505, title X][/us/pl/106/505/tX], § 1001(a), Nov. 13, 2000, [114 Stat. 2350][/us/stat/114/2350], provided that: 
 
 > “Notwithstanding any other provision of law, not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Secretary of Health and Human Services shall require that all research involving children that is conducted, supported, or regulated by the Department of Health and Human Services be in compliance with subpart D of part 46 of title 45, Code of Federal Regulations.”
 
-\[[Pub. L. 106–505, title X, § 1001(b)][/us/pl/106/505/s1001/b], Nov. 13, 2000, [114 Stat. 2350][/us/stat/114/2350], provided that: 
+\[[Pub. L. 106–505, title X][/us/pl/106/505/tX], § 1001(b), Nov. 13, 2000, [114 Stat. 2350][/us/stat/114/2350], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 2701 of Pub. L. 106–310][/us/pl/106/310/s2701], set out above\] takes effect on the date of the enactment of the Children’s Health Act of 2000 \[Oct. 17, 2000\].”
 
@@ -103,18 +103,18 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F873
-[/us/pl/113/240/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs12
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
 [/us/stat/128/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2857
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/107/109/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs12
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1416
-[/us/pl/106/310/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2701
+[/us/pl/106/310/dA/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXVII
 [/us/stat/114/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1167
-[/us/pl/106/505/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs1001%2Fa
+[/us/pl/106/505/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtX
 [/us/stat/114/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2350
-[/us/pl/106/505/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs1001%2Fb
+[/us/pl/106/505/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtX
 [/us/stat/114/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2350
 [/us/pl/106/310/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2701
 

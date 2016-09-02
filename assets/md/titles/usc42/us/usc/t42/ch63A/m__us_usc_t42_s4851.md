@@ -33,11 +33,11 @@
 
     (8) the Federal Government must take a leadership role in building the infrastructure—including an informed public, State and local delivery systems, certified inspectors, contractors, and laboratories, trained workers, and available financing and insurance—necessary to ensure that the national goal of eliminating lead-based paint hazards in housing can be achieved as expeditiously as possible.
 
-([Pub. L. 102–550, title X, § 1002][/us/pl/102/550/s1002], Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1002, Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897].)
 
  __Short Title__ 
 
-[Pub. L. 102–550, title X, § 1001][/us/pl/102/550/s1001], Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897], provided that: 
+[Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1001, Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897], provided that: 
 
 > “This title \[enacting this chapter and sections 2681 to 2692 of Title 15, Commerce and Trade, amending sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title, sections 1703, 1709, and 1715l of Title 12, Banks and Banking, sections 2606, 2610, 2612, 2615, 2616, 2618, and 2619 of Title 15, and [section 671 of Title 29][/us/usc/t29/s671], Labor, and enacting provisions set out as a note under [section 2601 of Title 15][/us/usc/t15/s2601]\] may be cited as the ‘Residential Lead-Based Paint Hazard Reduction Act of 1992’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1002
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897
-[/us/pl/102/550/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1001
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897
 [/us/usc/t29/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs671
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601

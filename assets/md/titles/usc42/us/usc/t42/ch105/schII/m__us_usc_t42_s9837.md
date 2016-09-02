@@ -37,7 +37,7 @@
 
         (4)
 
-         Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381][/us/usc/t20/s6381] et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+         Offer (directly or through referral to local entities, public and school libraries, and entities carrying out family support programs) to such parents—
 
             (A) family literacy services; and
 
@@ -329,7 +329,7 @@
 
                 (iii) ensure a smooth transition to school for such children.
 
-        (3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 \[[42 U.S.C. 9857][/us/usc/t42/s9857] et seq.\], the agencies responsible for administering [section 5106a of this title][/us/usc/t42/s5106a] and parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431][/us/usc/t42/s11431] et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381][/us/usc/t20/s6381] et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419][/us/usc/t20/s1419], 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
+        (3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 \[[42 U.S.C. 9857][/us/usc/t42/s9857] et seq.\], the agencies responsible for administering [section 5106a of this title][/us/usc/t42/s5106a] and parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431][/us/usc/t42/s11431] et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419][/us/usc/t20/s1419], 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
 
         (4)
 
@@ -431,15 +431,13 @@
 
         In order to receive funds under this subchapter, a Head Start agency shall document strong fiscal controls, including the employment of well-qualified fiscal staff with a history of successful management of a public or private organization.
 
-([Pub. L. 97–35, title VI, § 642][/us/pl/97/35/s642], Aug. 13, 1981, [95 Stat. 502][/us/stat/95/502]; [Pub. L. 99–425, title I, § 103][/us/pl/99/425/s103], Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–501, title I, § 109][/us/pl/101/501/s109], Nov. 3, 1990, [104 Stat. 1231][/us/stat/104/1231]; [Pub. L. 102–401, § 2(i)][/us/pl/102/401/s2/i], (k)(3), Oct. 7, 1992, [106 Stat. 1957][/us/stat/106/1957], 1959; [Pub. L. 103–252, title I, § 109][/us/pl/103/252/s109], May 18, 1994, [108 Stat. 634][/us/stat/108/634]; [Pub. L. 105–285, title I, § 109][/us/pl/105/285/s109], Oct. 27, 1998, [112 Stat. 2716][/us/stat/112/2716]; [Pub. L. 108–446, title III, § 305][/us/pl/108/446/s305](l)(4), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 110–134, § 9][/us/pl/110/134/s9], Dec. 12, 2007, [121 Stat. 1397][/us/stat/121/1397].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 642, Aug. 13, 1981, [95 Stat. 502][/us/stat/95/502]; [Pub. L. 99–425, title I][/us/pl/99/425/tI], § 103, Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–501, title I][/us/pl/101/501/tI], § 109, Nov. 3, 1990, [104 Stat. 1231][/us/stat/104/1231]; [Pub. L. 102–401][/us/pl/102/401], § 2(i), (k)(3), Oct. 7, 1992, [106 Stat. 1957][/us/stat/106/1957], 1959; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 109, May 18, 1994, [108 Stat. 634][/us/stat/108/634]; [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 109, Oct. 27, 1998, [112 Stat. 2716][/us/stat/112/2716]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(l)(4), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 110–134][/us/pl/110/134], § 9, Dec. 12, 2007, [121 Stat. 1397][/us/stat/121/1397]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(nn)(3), Dec. 10, 2015, [129 Stat. 2177][/us/stat/129/2177].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(4) and (e)(3), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Subpart 3 of part B of title I of the Act is classified generally to subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
-
     The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20][/us/usc/t20/s1419]. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
-    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
+    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
 
     The Social Security Act, referred to in subsec. (e)(3), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Parts B and E of title IV of the Social Security Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -447,59 +445,67 @@
 
  __Amendments__ 
 
+    2015—Subsec. (b)(4). [Pub. L. 114–95][/us/pl/114/95], § 9215(nn)(3)(A), struck out “, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381][/us/usc/t20/s6381] et seq.)” after “local entities” in introductory provisions.
+
+    Subsec. (e)(3). [Pub. L. 114–95][/us/pl/114/95], § 9215(nn)(3)(B), struck out “Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381][/us/usc/t20/s6381] et seq.),” before “programs under section 619”.
+
     2007—[Pub. L. 110–134][/us/pl/110/134] amended section generally. Prior to amendment, section related to, in subsec. (a), receipt, administration, and transfer of funds, sponsorship of projects, and delegation of authority, in subsec. (b), participation of parents in decisionmaking and implementation of programs, in subsec. (c), coordination with other agencies, in subsec. (d), transition coordination with schools, and, in subsec. (e), assessment when hiring or evaluating classroom teachers.
 
     2004—Subsec. (c). [Pub. L. 108–446][/us/pl/108/446] substituted “1431–1444” for “1431–1445”.
 
-    1998—Subsec. (a). [Pub. L. 105–285, § 109(1)][/us/pl/105/285/s109/1], inserted “or for-profit” after “nonprofit”.
+    1998—Subsec. (a). [Pub. L. 105–285][/us/pl/105/285], § 109(1), inserted “or for-profit” after “nonprofit”.
 
-    Subsec. (b)(6). [Pub. L. 105–285, § 109(2)(E)][/us/pl/105/285/s109/2/E], added par. (6). Former par. (6) redesignated (7).
+    Subsec. (b)(6). [Pub. L. 105–285][/us/pl/105/285], § 109(2)(E), added par. (6). Former par. (6) redesignated (7).
 
-    Subsec. (b)(6)(D) to (F). [Pub. L. 105–285, § 109(2)(A)][/us/pl/105/285/s109/2/A], struck out subpar. (D) which read as follows: “substance abuse counseling;” and further directed the amendment of par. (6) “by redesignating subparagraphs (E) and (F) and subparagraphs (D) and (E), respectively”, which was executed by redesignating subpars. (E) and (F) as (D) and (E), respectively, to reflect the probable intent of Congress.
+    Subsec. (b)(6)(D) to (F). [Pub. L. 105–285][/us/pl/105/285], § 109(2)(A), struck out subpar. (D) which read as follows: “substance abuse counseling;” and further directed the amendment of par. (6) “by redesignating subparagraphs (E) and (F) and subparagraphs (D) and (E), respectively”, which was executed by redesignating subpars. (E) and (F) as (D) and (E), respectively, to reflect the probable intent of Congress.
 
-    Subsec. (b)(7). [Pub. L. 105–285, § 109(2)(D)][/us/pl/105/285/s109/2/D], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    Subsec. (b)(7). [Pub. L. 105–285][/us/pl/105/285], § 109(2)(D), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    Subsec. (b)(8). [Pub. L. 105–285, § 109(2)(D)][/us/pl/105/285/s109/2/D], (F), redesignated par. (7) as (8) and substituted “paragraphs (4) through (7)” for “paragraphs (4) through (6)”. Former par. (8) redesignated (9).
+    Subsec. (b)(8). [Pub. L. 105–285][/us/pl/105/285], § 109(2)(D), (F), redesignated par. (7) as (8) and substituted “paragraphs (4) through (7)” for “paragraphs (4) through (6)”. Former par. (8) redesignated (9).
 
-    [Pub. L. 105–285, § 109(2)(B)][/us/pl/105/285/s109/2/B], struck out “and” at end.
+    [Pub. L. 105–285][/us/pl/105/285], § 109(2)(B), struck out “and” at end.
 
-    Subsec. (b)(9). [Pub. L. 105–285, § 109(2)(D)][/us/pl/105/285/s109/2/D], redesignated par. (8) as (9). Former par. (9) redesignated (10).
+    Subsec. (b)(9). [Pub. L. 105–285][/us/pl/105/285], § 109(2)(D), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-    [Pub. L. 105–285, § 109(2)(C)][/us/pl/105/285/s109/2/C], substituted “; and” for period at end.
+    [Pub. L. 105–285][/us/pl/105/285], § 109(2)(C), substituted “; and” for period at end.
 
-    Subsec. (b)(10). [Pub. L. 105–285, § 109(2)(D)][/us/pl/105/285/s109/2/D], redesignated par. (9) as (10).
+    Subsec. (b)(10). [Pub. L. 105–285][/us/pl/105/285], § 109(2)(D), redesignated par. (9) as (10).
 
-    Subsec. (b)(11). [Pub. L. 105–285, § 109(2)(G)][/us/pl/105/285/s109/2/G], added par. (11).
+    Subsec. (b)(11). [Pub. L. 105–285][/us/pl/105/285], § 109(2)(G), added par. (11).
 
-    Subsec. (c). [Pub. L. 105–285, § 109(3)][/us/pl/105/285/s109/3], inserted “and collaborate” after “shall coordinate” and “and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)” after “([20 U.S.C. 2741][/us/usc/t20/s2741] et seq.)” and substituted “the State program carried out under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858] et seq.), and other early childhood education and development” for “[section 602(g) of this title][/us/usc/t42/s602/g], and other”.
+    Subsec. (c). [Pub. L. 105–285][/us/pl/105/285], § 109(3), inserted “and collaborate” after “shall coordinate” and “and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)” after “([20 U.S.C. 2741][/us/usc/t20/s2741] et seq.)” and substituted “the State program carried out under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858] et seq.), and other early childhood education and development” for “[section 602(g) of this title][/us/usc/t42/s602/g], and other”.
 
-    Subsec. (d)(1). [Pub. L. 105–285, § 109(4)(A)][/us/pl/105/285/s109/4/A], substituted “take steps to ensure, to the maximum extent possible, that children maintain” for “carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain” and “build” for “to build” and inserted “and educational” after “developmental”.
+    Subsec. (d)(1). [Pub. L. 105–285][/us/pl/105/285], § 109(4)(A), substituted “take steps to ensure, to the maximum extent possible, that children maintain” for “carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain” and “build” for “to build” and inserted “and educational” after “developmental”.
 
-    Subsec. (d)(2), (3). [Pub. L. 105–285, § 109(4)(B)][/us/pl/105/285/s109/4/B], (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to coordination between Head Start agency and local education agency and schools.
+    Subsec. (d)(2), (3). [Pub. L. 105–285][/us/pl/105/285], § 109(4)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to coordination between Head Start agency and local education agency and schools.
 
-    Subsec. (d)(4). [Pub. L. 105–285, § 109(4)(C)][/us/pl/105/285/s109/4/C], redesignated par. (5) as (4). Former par. (4) redesignated (3).
+    Subsec. (d)(4). [Pub. L. 105–285][/us/pl/105/285], § 109(4)(C), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-    Subsec. (d)(4)(A). [Pub. L. 105–285, § 109(4)(D)][/us/pl/105/285/s109/4/D], substituted “[section 9837a of this title][/us/usc/t42/s9837a]” for “the Head Start Transition Project Act ([42 U.S.C. 9855][/us/usc/t42/s9855] et seq.)”.
+    Subsec. (d)(4)(A). [Pub. L. 105–285][/us/pl/105/285], § 109(4)(D), substituted “[section 9837a of this title][/us/usc/t42/s9837a]” for “the Head Start Transition Project Act ([42 U.S.C. 9855][/us/usc/t42/s9855] et seq.)”.
 
-    Subsec. (d)(5). [Pub. L. 105–285, § 109(4)(C)][/us/pl/105/285/s109/4/C], redesignated par. (5) as (4).
+    Subsec. (d)(5). [Pub. L. 105–285][/us/pl/105/285], § 109(4)(C), redesignated par. (5) as (4).
 
-    Subsec. (e). [Pub. L. 105–285, § 109(5)][/us/pl/105/285/s109/5], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–285][/us/pl/105/285], § 109(5), added subsec. (e).
 
-    1994—Subsec. (b). [Pub. L. 103–252, § 109(1)][/us/pl/103/252/s109/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In order to be so designated, a Head Start agency must also (1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests; (2) provide for their regular participation in the implementation of such programs; (3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources; (4) involve parents of children participating in its Head Start program in appropriate educational services (in accordance with the performance standards in effect upon [section 9846(b) of this title][/us/usc/t42/s9846/b] or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential; (5) establish procedures to seek reimbursement, to the extent feasible, from other agencies for services for which any such other agency is responsible, which are provided to a Head Start participant by the Head Start agency; (6) provide (directly or through referral to educational services available in the community) parents of children participating in its Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and (7) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.”
+    1994—Subsec. (b). [Pub. L. 103–252][/us/pl/103/252], § 109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In order to be so designated, a Head Start agency must also (1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests; (2) provide for their regular participation in the implementation of such programs; (3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources; (4) involve parents of children participating in its Head Start program in appropriate educational services (in accordance with the performance standards in effect upon [section 9846(b) of this title][/us/usc/t42/s9846/b] or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential; (5) establish procedures to seek reimbursement, to the extent feasible, from other agencies for services for which any such other agency is responsible, which are provided to a Head Start participant by the Head Start agency; (6) provide (directly or through referral to educational services available in the community) parents of children participating in its Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and (7) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.”
 
-    Subsec. (c). [Pub. L. 103–252, § 109(2)][/us/pl/103/252/s109/2], struck out “schools that will subsequently serve children in Head Start programs,” after “coordinate with” and inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 2741][/us/usc/t20/s2741] et seq.),” after “other programs”.
+    Subsec. (c). [Pub. L. 103–252][/us/pl/103/252], § 109(2), struck out “schools that will subsequently serve children in Head Start programs,” after “coordinate with” and inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 2741][/us/usc/t20/s2741] et seq.),” after “other programs”.
 
-    Subsec. (d). [Pub. L. 103–252, § 109(3)][/us/pl/103/252/s109/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–252][/us/pl/103/252], § 109(3), added subsec. (d).
 
-    1992—Subsec. (b)(6), (7). [Pub. L. 102–401, § 2(i)][/us/pl/102/401/s2/i], added cls. (6) and (7).
+    1992—Subsec. (b)(6), (7). [Pub. L. 102–401][/us/pl/102/401], § 2(i), added cls. (6) and (7).
 
-    Subsec. (c). [Pub. L. 102–401, § 2(k)(3)][/us/pl/102/401/s2/k/3], substituted “subchapter” for “subtitle”.
+    Subsec. (c). [Pub. L. 102–401][/us/pl/102/401], § 2(k)(3), substituted “subchapter” for “subtitle”.
 
-    1990—Subsec. (b)(4), (5). [Pub. L. 101–501, § 109(1)][/us/pl/101/501/s109/1], added cl. (4) and redesignated former cl. (4) as (5).
+    1990—Subsec. (b)(4), (5). [Pub. L. 101–501][/us/pl/101/501], § 109(1), added cl. (4) and redesignated former cl. (4) as (5).
 
-    Subsec. (c). [Pub. L. 101–501, § 109(2)][/us/pl/101/501/s109/2], substituted “with schools that will subsequently serve children in Head Start programs, the State agency responsible for administering [section 602(g) of this title][/us/usc/t42/s602/g], and other programs serving the children and families served by the Head Start agency to carry out the provisions of this subtitle” for “with other State and local programs serving the children in the Head Start agency to carry out the provisions of this subsection”.
+    Subsec. (c). [Pub. L. 101–501][/us/pl/101/501], § 109(2), substituted “with schools that will subsequently serve children in Head Start programs, the State agency responsible for administering [section 602(g) of this title][/us/usc/t42/s602/g], and other programs serving the children and families served by the Head Start agency to carry out the provisions of this subtitle” for “with other State and local programs serving the children in the Head Start agency to carry out the provisions of this subsection”.
 
     1986—Subsec. (c). [Pub. L. 99–425][/us/pl/99/425] inserted “State and local” before “programs”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -524,7 +530,6 @@
 ----------
 ----------
 
-[/us/usc/t20/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6381
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t42/s9835/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fd%2F3
 [/us/usc/t42/s9835/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fd%2F2
@@ -533,7 +538,6 @@
 [/us/usc/t42/s5106a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a
 [/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/usc/t42/s11431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11431
-[/us/usc/t20/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6381
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t42/s9837a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9837a%2Fa
 [/us/usc/t42/s9836a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa%2F1
@@ -543,31 +547,30 @@
 [/us/usc/t42/s9836a/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc%2F2%2FF
 [/us/usc/t42/s9836a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa%2F1%2FB
 [/us/usc/t42/s9836a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc
-[/us/pl/97/35/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs642
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F502
-[/us/pl/99/425/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs103
+[/us/pl/99/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtI
 [/us/stat/100/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F966
-[/us/pl/101/501/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs109
+[/us/pl/101/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtI
 [/us/stat/104/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1231
-[/us/pl/102/401/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fi
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1957
-[/us/pl/103/252/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs109
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F634
-[/us/pl/105/285/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2716
-[/us/pl/108/446/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
-[/us/pl/110/134/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs9
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1397
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
-[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2177
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
 [/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -576,41 +579,48 @@
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6381
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6381
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/105/285/s109/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F1
-[/us/pl/105/285/s109/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FE
-[/us/pl/105/285/s109/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FA
-[/us/pl/105/285/s109/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FD
-[/us/pl/105/285/s109/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FD
-[/us/pl/105/285/s109/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FB
-[/us/pl/105/285/s109/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FD
-[/us/pl/105/285/s109/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FC
-[/us/pl/105/285/s109/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FD
-[/us/pl/105/285/s109/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F2%2FG
-[/us/pl/105/285/s109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F3
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t20/s2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2741
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 [/us/usc/t42/s602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fg
-[/us/pl/105/285/s109/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F4%2FA
-[/us/pl/105/285/s109/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F4%2FB
-[/us/pl/105/285/s109/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F4%2FC
-[/us/pl/105/285/s109/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F4%2FD
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9837a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9837a
 [/us/usc/t42/s9855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9855
-[/us/pl/105/285/s109/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F4%2FC
-[/us/pl/105/285/s109/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs109%2F5
-[/us/pl/103/252/s109/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs109%2F1
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9846/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9846%2Fb
-[/us/pl/103/252/s109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs109%2F2
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t20/s2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2741
-[/us/pl/103/252/s109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs109%2F3
-[/us/pl/102/401/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fi
-[/us/pl/102/401/s2/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F3
-[/us/pl/101/501/s109/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs109%2F1
-[/us/pl/101/501/s109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs109%2F2
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/usc/t42/s602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fg
 [/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127

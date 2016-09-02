@@ -31,11 +31,11 @@
 
         If any Regional Advisory Board makes specific recommendations pursuant to subsection (c) of this section, the Secretary shall, if such recommendations are not adopted in the implementation of the program, notify the Board in writing of his reasons for not adopting such recommendations.
 
-([Pub. L. 95–91, title VI, § 655][/us/pl/95/91/s655], Aug. 4, 1977, [91 Stat. 602][/us/stat/91/602].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 655, Aug. 4, 1977, [91 Stat. 602][/us/stat/91/602].)
 
  __References in Text__ 
 
-    The Public Works and Economic Development Act, referred to in subsec. (b), is [Pub. L. 89–136][/us/pl/89/136], Aug. 26, 1965, [79 Stat. 552][/us/stat/79/552], as amended. Title V of the Public Works and Economic Development Act was classified generally to subchapter V (§ 3181 et seq.) of chapter 38 of this title prior to repeal by [Pub. L. 97–35, title XVIII, § 1821(a)(8)][/us/pl/97/35/s1821/a/8], Aug. 13, 1981, [95 Stat. 766][/us/stat/95/766]. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title][/us/usc/t42/s3121] and Tables.
+    The Public Works and Economic Development Act, referred to in subsec. (b), is [Pub. L. 89–136][/us/pl/89/136], Aug. 26, 1965, [79 Stat. 552][/us/stat/79/552], as amended. Title V of the Public Works and Economic Development Act was classified generally to subchapter V (§ 3181 et seq.) of chapter 38 of this title prior to repeal by [Pub. L. 97–35, title XVIII][/us/pl/97/35/tXVIII], § 1821(a)(8), Aug. 13, 1981, [95 Stat. 766][/us/stat/95/766]. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title][/us/usc/t42/s3121] and Tables.
 
  __Transfer of Functions__ 
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t42/s3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3181
-[/us/pl/95/91/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs655
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F602
 [/us/pl/89/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136
 [/us/stat/79/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F552
-[/us/pl/97/35/s1821/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1821%2Fa%2F8
+[/us/pl/97/35/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVIII
 [/us/stat/95/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F766
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

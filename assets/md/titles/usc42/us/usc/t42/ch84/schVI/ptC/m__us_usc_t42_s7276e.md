@@ -17,7 +17,7 @@
 
     In carrying out a program under this section and [section 7276d of this title][/us/usc/t42/s7276d], each Administrator referred to in [section 7276d of this title][/us/usc/t42/s7276d] is authorized to provide rewards (including cash rewards) to individuals who provide information or evidence leading to the arrest and prosecution of individuals causing damage to, or loss of, Federal property under their jurisdiction. The amount of any one such reward paid to any individual may not exceed a value of $1,000.
 
-([Pub. L. 107–78, § 2][/us/pl/107/78/s2], Nov. 28, 2001, [115 Stat. 808][/us/stat/115/808].)
+([Pub. L. 107–78][/us/pl/107/78], § 2, Nov. 28, 2001, [115 Stat. 808][/us/stat/115/808].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t42/s7276d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7276d
 [/us/usc/t42/s7276d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7276d
-[/us/pl/107/78/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F78%2Fs2
+[/us/pl/107/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F78
 [/us/stat/115/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F808
 
 

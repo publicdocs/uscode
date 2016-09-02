@@ -31,7 +31,7 @@
 
         The Secretary and the Energy Information Administration shall consult with the Chairmen of the Federal Energy Regulatory Commission and the Surface Transportation Board in implementing this section.
 
-([Pub. L. 102–486, title XIII, § 1340][/us/pl/102/486/s1340], Oct. 24, 1992, [106 Stat. 2992][/us/stat/106/2992]; [Pub. L. 104–88, title III, § 320][/us/pl/104/88/s320], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1340, Oct. 24, 1992, [106 Stat. 2992][/us/stat/106/2992]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 320, Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/102/486/s1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1340
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2992
-[/us/pl/104/88/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs320
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F949
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

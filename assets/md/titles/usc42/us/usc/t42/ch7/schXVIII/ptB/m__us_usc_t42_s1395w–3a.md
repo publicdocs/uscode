@@ -337,35 +337,35 @@
 
         (5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e) of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1847A, as added [Pub. L. 108–173, title III, § 303(c)(1)][/us/pl/108/173/s303/c/1], Dec. 8, 2003, [117 Stat. 2239][/us/stat/117/2239]; amended [Pub. L. 110–173, title I, § 112][/us/pl/110/173/s112], Dec. 29, 2007, [121 Stat. 2500][/us/stat/121/2500]; [Pub. L. 111–148, title III, § 3139(a)][/us/pl/111/148/s3139/a], Mar. 23, 2010, [124 Stat. 439][/us/stat/124/439].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1847A, as added [Pub. L. 108–173, title III][/us/pl/108/173/tIII], § 303(c)(1), Dec. 8, 2003, [117 Stat. 2239][/us/stat/117/2239]; amended [Pub. L. 110–173, title I][/us/pl/110/173/tI], § 112, Dec. 29, 2007, [121 Stat. 2500][/us/stat/121/2500]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3139(a), Mar. 23, 2010, [124 Stat. 439][/us/stat/124/439].)
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1)(C). [Pub. L. 111–148, § 3139(a)(1)(A)][/us/pl/111/148/s3139/a/1/A], added subpar. (C).
+    2010—Subsec. (b)(1)(C). [Pub. L. 111–148][/us/pl/111/148], § 3139(a)(1)(A), added subpar. (C).
 
-    Subsec. (b)(8). [Pub. L. 111–148, § 3139(a)(1)(B)][/us/pl/111/148/s3139/a/1/B], added par. (8).
+    Subsec. (b)(8). [Pub. L. 111–148][/us/pl/111/148], § 3139(a)(1)(B), added par. (8).
 
-    Subsec. (c)(6)(H), (I). [Pub. L. 111–148, § 3139(a)(2)][/us/pl/111/148/s3139/a/2], added subpars. (H) and (I).
+    Subsec. (c)(6)(H), (I). [Pub. L. 111–148][/us/pl/111/148], § 3139(a)(2), added subpars. (H) and (I).
 
-    2007—Subsec. (b)(1). [Pub. L. 110–173, § 112(b)(1)][/us/pl/110/173/s112/b/1], inserted “paragraph (7) and” after “Subject to” in introductory provisions.
+    2007—Subsec. (b)(1). [Pub. L. 110–173][/us/pl/110/173], § 112(b)(1), inserted “paragraph (7) and” after “Subject to” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 110–173, § 112(a)(1)][/us/pl/110/173/s112/a/1], inserted “for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008” after “paragraph (3)”.
+    Subsec. (b)(1)(A). [Pub. L. 110–173][/us/pl/110/173], § 112(a)(1), inserted “for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008” after “paragraph (3)”.
 
-    Subsec. (b)(4)(A), (B). [Pub. L. 110–173, § 112(a)(2)][/us/pl/110/173/s112/a/2], inserted “for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008,” after “paragraph (3)”.
+    Subsec. (b)(4)(A), (B). [Pub. L. 110–173][/us/pl/110/173], § 112(a)(2), inserted “for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008,” after “paragraph (3)”.
 
-    Subsec. (b)(6). [Pub. L. 110–173, § 112(a)(3)][/us/pl/110/173/s112/a/3], added par. (6).
+    Subsec. (b)(6). [Pub. L. 110–173][/us/pl/110/173], § 112(a)(3), added par. (6).
 
-    Subsec. (b)(7). [Pub. L. 110–173, § 112(b)(2)][/us/pl/110/173/s112/b/2], added par. (7).
+    Subsec. (b)(7). [Pub. L. 110–173][/us/pl/110/173], § 112(b)(2), added par. (7).
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title III, § 3139(b)][/us/pl/111/148/s3139/b], Mar. 23, 2010, [124 Stat. 440][/us/stat/124/440], provided that: 
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3139(b), Mar. 23, 2010, [124 Stat. 440][/us/stat/124/440], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\]).”
 
  __Report on Sales to Pharmacy Benefit Managers__ 
 
-[Pub. L. 108–173, title III, § 303(c)(2)][/us/pl/108/173/s303/c/2], Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245], provided that:
+[Pub. L. 108–173, title III][/us/pl/108/173/tIII], § 303(c)(2), Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245], provided that:
 
 >     “(A)  __Study__  __.—__ 
 
@@ -377,7 +377,7 @@
 
  __Inspector General Report on Adequacy of Reimbursement Rate Under Average Sales Price Methodology__ 
 
-[Pub. L. 108–173, title III, § 303(c)(3)][/us/pl/108/173/s303/c/3], Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245], provided that:
+[Pub. L. 108–173, title III][/us/pl/108/173/tIII], § 303(c)(3), Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245], provided that:
 
 >     “(A)  __Study__  __.—__ 
 
@@ -420,26 +420,26 @@
 [/us/usc/t42/s1396r–8/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938%2Fb%2F3
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fc%2F1
+[/us/pl/108/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIII
 [/us/stat/117/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2239
-[/us/pl/110/173/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs112
+[/us/pl/110/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2FtI
 [/us/stat/121/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2500
-[/us/pl/111/148/s3139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3139%2Fa
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F439
-[/us/pl/111/148/s3139/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3139%2Fa%2F1%2FA
-[/us/pl/111/148/s3139/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3139%2Fa%2F1%2FB
-[/us/pl/111/148/s3139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3139%2Fa%2F2
-[/us/pl/110/173/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs112%2Fb%2F1
-[/us/pl/110/173/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs112%2Fa%2F1
-[/us/pl/110/173/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs112%2Fa%2F2
-[/us/pl/110/173/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs112%2Fa%2F3
-[/us/pl/110/173/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs112%2Fb%2F2
-[/us/pl/111/148/s3139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3139%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
+[/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
+[/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
+[/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
+[/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F440
-[/us/pl/108/173/s303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fc%2F2
+[/us/pl/108/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIII
 [/us/stat/117/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2245
 [/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
-[/us/pl/108/173/s303/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fc%2F3
+[/us/pl/108/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIII
 [/us/stat/117/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2245
 [/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
 [/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a

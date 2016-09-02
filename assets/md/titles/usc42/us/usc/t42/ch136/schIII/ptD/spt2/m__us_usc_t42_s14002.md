@@ -23,7 +23,7 @@
 
     (3) to the Administrative Office of the United States Courts to carry out [section 14001(c) of this title][/us/usc/t42/s14001/c] $100,000 for fiscal year 1996.
 
-([Pub. L. 103–322, title IV, § 40422][/us/pl/103/322/s40422], Sept. 13, 1994, [108 Stat. 1945][/us/stat/108/1945]; [Pub. L. 106–386, div. B, title IV, § 1406(b)(2)][/us/pl/106/386/s1406/b/2], Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40422, Sept. 13, 1994, [108 Stat. 1945][/us/stat/108/1945]; [Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1406(b)(2), Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 [/us/usc/t42/s14001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14001%2Fa
 [/us/usc/t42/s14001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14001%2Fd
 [/us/usc/t42/s14001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14001%2Fc
-[/us/pl/103/322/s40422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40422
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1945
-[/us/pl/106/386/s1406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fb%2F2
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1516
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 

@@ -23,7 +23,7 @@
 
     the Secretary shall notify such Council and agency that the Secretary will not make further payments to the State under [section 15022 of this title][/us/usc/t42/s15022] (or, in the discretion of the Secretary, that further payments to the State under [section 15022 of this title][/us/usc/t42/s15022] for activities for which there is such failure), until the Secretary is satisfied that there will no longer be such failure. Until the Secretary is so satisfied, the Secretary shall make no further payments to the State under [section 15022 of this title][/us/usc/t42/s15022], or shall limit further payments under [section 15022 of this title][/us/usc/t42/s15022] to such State to activities for which there is no such failure.
 
-([Pub. L. 106–402, title I, § 127][/us/pl/106/402/s127], Oct. 30, 2000, [114 Stat. 1711][/us/stat/114/1711].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 127, Oct. 30, 2000, [114 Stat. 1711][/us/stat/114/1711].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s15022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15022
 [/us/usc/t42/s15022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15022
 [/us/usc/t42/s15022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15022
-[/us/pl/106/402/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs127
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1711
 
 

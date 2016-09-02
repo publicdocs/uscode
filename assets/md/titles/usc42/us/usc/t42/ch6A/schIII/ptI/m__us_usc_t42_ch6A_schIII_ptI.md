@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–392, title IV, § 418(1)][/us/pl/105/392/s418/1], Nov. 13, 1998, [112 Stat. 3591][/us/stat/112/3591], substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research” in part heading.
+    1998—[Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 418(1), Nov. 13, 1998, [112 Stat. 3591][/us/stat/112/3591], substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research” in part heading.
 
-    1993—[Pub. L. 103–43, title I, § 141(a)(2)][/us/pl/103/43/s141/a/2], June 10, 1993, [107 Stat. 136][/us/stat/107/136], redesignated part H “National Foundation for Biomedical Research” as I.
+    1993—[Pub. L. 103–43, title I][/us/pl/103/43/tI], § 141(a)(2), June 10, 1993, [107 Stat. 136][/us/stat/107/136], redesignated part H “National Foundation for Biomedical Research” as I.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/105/392/s418/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs418%2F1
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3591
-[/us/pl/103/43/s141/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs141%2Fa%2F2
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F136
 
 

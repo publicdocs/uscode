@@ -27,7 +27,7 @@
 
         There are to be authorized to be appropriated $10,000,000 to carry out this section.
 
-([Pub. L. 110–140, title VII, § 708][/us/pl/110/140/s708], Dec. 19, 2007, [121 Stat. 1710][/us/stat/121/1710].)
+([Pub. L. 110–140, title VII][/us/pl/110/140/tVII], § 708, Dec. 19, 2007, [121 Stat. 1710][/us/stat/121/1710].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs708
+[/us/pl/110/140/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVII
 [/us/stat/121/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1710
 
 

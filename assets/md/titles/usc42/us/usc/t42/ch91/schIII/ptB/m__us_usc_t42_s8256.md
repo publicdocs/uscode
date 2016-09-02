@@ -81,7 +81,7 @@
 
         An agency may retain any funds appropriated to that agency for energy expenditures, water expenditures, or wastewater treatment expenditures, at buildings subject to the requirements of section 8253(a) and (b) of this title, that are not made because of energy savings or water savings. Except as otherwise provided by law, such funds may be used only for energy efficiency, water conservation, or unconventional and renewable energy resources projects. Such projects shall be subject to the requirements of [section 3307 of title 40][/us/usc/t40/s3307].
 
-([Pub. L. 95–619, title V, § 546][/us/pl/95/619/s546], Nov. 9, 1978, [92 Stat. 3278][/us/stat/92/3278]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3187][/us/stat/102/3187]; [Pub. L. 102–486, title I, § 152(f)][/us/pl/102/486/s152/f], Oct. 24, 1992, [106 Stat. 2846][/us/stat/106/2846]; [Pub. L. 109–58, title I, § 102(f)][/us/pl/109/58/s102/f], Aug. 8, 2005, [119 Stat. 607][/us/stat/119/607]; [Pub. L. 110–140, title V, § 516][/us/pl/110/140/s516], Dec. 19, 2007, [121 Stat. 1659][/us/stat/121/1659].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 546, Nov. 9, 1978, [92 Stat. 3278][/us/stat/92/3278]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3187][/us/stat/102/3187]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(f), Oct. 24, 1992, [106 Stat. 2846][/us/stat/106/2846]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 102(f), Aug. 8, 2005, [119 Stat. 607][/us/stat/119/607]; [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 516, Dec. 19, 2007, [121 Stat. 1659][/us/stat/121/1659].)
 
  __References in Text__ 
 
@@ -97,11 +97,11 @@
 
     2005—Subsec. (e). [Pub. L. 109–58][/us/pl/109/58] added subsec. (e).
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 152(f)(1)][/us/pl/102/486/s152/f/1], (2), substituted “Contracts” for “In general” in heading, designated existing provisions as par. (1), and redesignated former subsec. (b) as subsec. (a)(2) and amended it generally. Prior to amendment, par. (2) read as follows: “The head of each agency shall, no later than 120 days after November 5, 1988, implement procedures for entering into such contracts and for identifying, verifying, and utilizing, on a fiscal year basis, the cost savings resulting from such contracts.”
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 152(f)(1), (2), substituted “Contracts” for “In general” in heading, designated existing provisions as par. (1), and redesignated former subsec. (b) as subsec. (a)(2) and amended it generally. Prior to amendment, par. (2) read as follows: “The head of each agency shall, no later than 120 days after November 5, 1988, implement procedures for entering into such contracts and for identifying, verifying, and utilizing, on a fiscal year basis, the cost savings resulting from such contracts.”
 
-    Subsec. (b). [Pub. L. 102–486, § 152(f)(4)][/us/pl/102/486/s152/f/4], added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
+    Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 152(f)(4), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
 
-    Subsecs. (c), (d). [Pub. L. 102–486, § 152(f)(3)][/us/pl/102/486/s152/f/3], (4), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The portion of the funds appropriated to an agency for energy expenses for a fiscal year that is equal to the amount of cost savings realized by such agency for such year from contracts entered into under subchapter VII of this chapter shall remain available for obligation, without further appropriation, to undertake additional energy conservation measures.”
+    Subsecs. (c), (d). [Pub. L. 102–486][/us/pl/102/486], § 152(f)(3), (4), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The portion of the funds appropriated to an agency for energy expenses for a fiscal year that is equal to the amount of cost savings realized by such agency for such year from contracts entered into under subchapter VII of this chapter shall remain available for obligation, without further appropriation, to undertake additional energy conservation measures.”
 
     1988—[Pub. L. 100–615][/us/pl/100/615] amended section generally, substituting statement of incentives for agencies for provisions relating to energy performance targets for Federal buildings.
 
@@ -111,11 +111,11 @@
 
  __Energy Efficiency and Water Conservation Measures; Use of Rebates and Savings__ 
 
-[Pub. L. 104–52, title VI, § 625][/us/pl/104/52/s625], Nov. 19, 1995, [109 Stat. 502][/us/stat/109/502], provided that:
+[Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 625, Nov. 19, 1995, [109 Stat. 502][/us/stat/109/502], provided that:
 
 >     “(a)
 
->      Beginning in fiscal year 1996 and thereafter, for each Federal agency, except the Department of Defense (which has separate authority), and except as provided in [Public Law 102–393, title IV][/us/pl/102/393], section 13 ([40 U.S.C. 490g][/us/usc/t40/s490g]) \[now [40 U.S.C. 592(f)][/us/usc/t40/s592/f]\] with respect to the Fund established pursuant to [40 U.S.C. 490(f)][/us/usc/t40/s490/f] \[now [40 U.S.C. 592(a)][/us/usc/t40/s592/a]–(c)(1), (d), (e)\], an amount equal to 50 percent of—
+>      Beginning in fiscal year 1996 and thereafter, for each Federal agency, except the Department of Defense (which has separate authority), and except as provided in [Public Law 102–393, title IV][/us/pl/102/393/tIV], section 13 ([40 U.S.C. 490g][/us/usc/t40/s490g]) \[now [40 U.S.C. 592(f)][/us/usc/t40/s592/f]\] with respect to the Fund established pursuant to [40 U.S.C. 490(f)][/us/usc/t40/s490/f] \[now [40 U.S.C. 592(a)][/us/usc/t40/s592/a]–(c)(1), (d), (e)\], an amount equal to 50 percent of—
 
 >         “(1) the amount of each utility rebate received by the agency for energy efficiency and water conservation measures, which the agency has implemented; and
 
@@ -136,15 +136,15 @@
 [/us/usc/t42/s8257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8257
 [/us/usc/t42/s8253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253
 [/us/usc/t40/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3307
-[/us/pl/95/619/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs546
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3278
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3187
-[/us/pl/102/486/s152/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Ff
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2846
-[/us/pl/109/58/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Ff
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F607
-[/us/pl/110/140/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs516
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1659
 [/us/usc/t42/s8262e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262e
 [/us/pl/102/486/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs159
@@ -152,16 +152,16 @@
 [/us/usc/t42/s8262e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262e
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/102/486/s152/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Ff%2F1
-[/us/pl/102/486/s152/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Ff%2F4
-[/us/pl/102/486/s152/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Ff%2F3
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/104/52/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs625
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F502
-[/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
+[/us/pl/102/393/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtIV
 [/us/usc/t40/s490g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs490g
 [/us/usc/t40/s592/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs592%2Ff
 [/us/usc/t40/s490/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs490%2Ff

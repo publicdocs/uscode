@@ -61,11 +61,11 @@
 
         Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection (a) or (b) of this section which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under [section 3613 of this title][/us/usc/t42/s3613].
 
-([Pub. L. 90–284, title VIII, § 814][/us/pl/90/284/s814], as added [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2], Sept. 13, 1988, [102 Stat. 1634][/us/stat/102/1634].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 814, as added [Pub. L. 100–430][/us/pl/100/430], § 8(2), Sept. 13, 1988, [102 Stat. 1634][/us/stat/102/1634].)
 
  __Prior Provisions__ 
 
-    A prior section 3614, [Pub. L. 90–284, title VIII, § 814][/us/pl/90/284/s814], Apr. 11, 1968, [82 Stat. 88][/us/stat/82/88], related to expedition of court proceedings under section 3612 or 3613 of this title, prior to repeal by [Pub. L. 98–620, title IV, § 402(40)][/us/pl/98/620/s402/40], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].
+    A prior section 3614, [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 814, Apr. 11, 1968, [82 Stat. 88][/us/stat/82/88], related to expedition of court proceedings under section 3612 or 3613 of this title, prior to repeal by [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(40), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].
 
  __Effective Date__ 
 
@@ -83,12 +83,12 @@
 [/us/usc/t42/s3610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3610%2Fc
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
 [/us/usc/t42/s3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3613
-[/us/pl/90/284/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs814
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1634
-[/us/pl/90/284/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs814
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F88
-[/us/pl/98/620/s402/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F40
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601

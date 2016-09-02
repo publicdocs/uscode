@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subpart 3 of part E of title IV of act July 1, 1944, comprising this subpart, was renumbered subpart 19 of part C of title IV by [Pub. L. 109–482, title I, § 101(c)(1)][/us/pl/109/482/s101/c/1]–(3), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], and is classified to subpart 19 (§ 285s) of part C of this subchapter.
+    Subpart 3 of part E of title IV of act July 1, 1944, comprising this subpart, was renumbered subpart 19 of part C of title IV by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 101(c)(1)–(3), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], and is classified to subpart 19 (§ 285s) of part C of this subchapter.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/482/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs101%2Fc%2F1
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3681
 
 

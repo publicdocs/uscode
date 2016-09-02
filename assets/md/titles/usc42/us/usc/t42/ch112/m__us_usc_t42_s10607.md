@@ -115,11 +115,11 @@
 
                 (vii) another person designated by the court.
 
-([Pub. L. 101–647, title V, § 503][/us/pl/101/647/s503], Nov. 29, 1990, [104 Stat. 4820][/us/stat/104/4820]; [Pub. L. 103–322, title IV, § 40503(a)][/us/pl/103/322/s40503/a], Sept. 13, 1994, [108 Stat. 1946][/us/stat/108/1946].)
+([Pub. L. 101–647, title V][/us/pl/101/647/tV], § 503, Nov. 29, 1990, [104 Stat. 4820][/us/stat/104/4820]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40503(a), Sept. 13, 1994, [108 Stat. 1946][/us/stat/108/1946].)
 
  __References in Text__ 
 
-    [Section 10606(b)(4) of this title][/us/usc/t42/s10606/b/4], referred to in subsec. (c)(3)(D), was in the original “section 1102(b)(4)”, meaning [section 1102(b)(4) of Pub. L. 101–647][/us/pl/101/647/s1102/b/4], which has been translated as reading [section 502(b)(4) of Pub. L. 101–647][/us/pl/101/647/s502/b/4] to reflect the probable intent of Congress because [Pub. L. 101–647][/us/pl/101/647] does not contain a section 1102 and section 502(b)(4) relates to the right of crime victims to be present at public court proceedings. [Section 10606 of this title][/us/usc/t42/s10606] was subsequently repealed by [Pub. L. 108–405, title I, § 102(c)][/us/pl/108/405/s102/c], Oct. 30, 2004, [118 Stat. 2264][/us/stat/118/2264].
+    [Section 10606(b)(4) of this title][/us/usc/t42/s10606/b/4], referred to in subsec. (c)(3)(D), was in the original “section 1102(b)(4)”, meaning [section 1102(b)(4) of Pub. L. 101–647][/us/pl/101/647/s1102/b/4], which has been translated as reading [section 502(b)(4) of Pub. L. 101–647][/us/pl/101/647/s502/b/4] to reflect the probable intent of Congress because [Pub. L. 101–647][/us/pl/101/647] does not contain a section 1102 and section 502(b)(4) relates to the right of crime victims to be present at public court proceedings. [Section 10606 of this title][/us/usc/t42/s10606] was subsequently repealed by [Pub. L. 108–405, title I][/us/pl/108/405/tI], § 102(c), Oct. 30, 2004, [118 Stat. 2264][/us/stat/118/2264].
 
  __Codification__ 
 
@@ -136,16 +136,16 @@
 ----------
 ----------
 
-[/us/pl/101/647/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs503
+[/us/pl/101/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtV
 [/us/stat/104/4820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4820
-[/us/pl/103/322/s40503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40503%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1946
 [/us/usc/t42/s10606/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10606%2Fb%2F4
 [/us/pl/101/647/s1102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1102%2Fb%2F4
 [/us/pl/101/647/s502/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs502%2Fb%2F4
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t42/s10606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10606
-[/us/pl/108/405/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs102%2Fc
+[/us/pl/108/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtI
 [/us/stat/118/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2264
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

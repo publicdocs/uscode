@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this chapter, shall not be affected thereby.
 
-([Pub. L. 89–272, title II, § 7005][/us/pl/89/272/s7005], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2827][/us/stat/90/2827].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7005, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2827][/us/stat/90/2827].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s7005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7005
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2827
 
 

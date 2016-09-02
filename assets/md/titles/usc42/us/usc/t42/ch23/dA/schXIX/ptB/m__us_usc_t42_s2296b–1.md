@@ -17,7 +17,7 @@
 
     There is hereby established the National Strategic Uranium Reserve under the direction and control of the Secretary. The Reserve shall consist of natural uranium and uranium equivalents contained in stockpiles or inventories currently held by the United States for defense purposes. Effective on October 24, 1992, and for 6 years thereafter, use of the Reserve shall be restricted to military purposes and government research. Use of the Department of Energy’s stockpile of enrichment tails existing on October 24, 1992, shall be restricted to military purposes for 6 years thereafter.
 
-([Pub. L. 102–486, title X, § 1012][/us/pl/102/486/s1012], Oct. 24, 1992, [106 Stat. 2948][/us/stat/106/2948].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1012, Oct. 24, 1992, [106 Stat. 2948][/us/stat/106/2948].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1012
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2948
 
 

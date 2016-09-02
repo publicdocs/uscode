@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for fiscal years beginning after September 30, 1986, such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 99–499, title III, § 330][/us/pl/99/499/s330], Oct. 17, 1986, [100 Stat. 1758][/us/stat/100/1758].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 330, Oct. 17, 1986, [100 Stat. 1758][/us/stat/100/1758].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/499/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs330
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1758
 
 

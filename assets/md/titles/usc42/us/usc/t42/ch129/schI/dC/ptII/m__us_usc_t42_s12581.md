@@ -175,7 +175,7 @@
 
             Nothing in this subsection shall relieve a grant recipient of the responsibility to comply with the requirements of chapter 75 of title 31 or other requirements of Office of Management and Budget Circular A–133.
 
-([Pub. L. 101–610, title I, § 129][/us/pl/101/610/s129], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 796][/us/stat/107/796]; amended [Pub. L. 111–13, title I, § 1306][/us/pl/111/13/s1306], Apr. 21, 2009, [123 Stat. 1501][/us/stat/123/1501].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 129, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 796][/us/stat/107/796]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1306, Apr. 21, 2009, [123 Stat. 1501][/us/stat/123/1501].)
 
  __References in Text__ 
 
@@ -222,10 +222,10 @@
 [/us/usc/t42/s12681/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12681%2Fa%2F2
 [/us/usc/t42/s12581a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12581a
 [/us/usc/t42/s12585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12585
-[/us/pl/101/610/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs129
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F796
-[/us/pl/111/13/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1306
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1501
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

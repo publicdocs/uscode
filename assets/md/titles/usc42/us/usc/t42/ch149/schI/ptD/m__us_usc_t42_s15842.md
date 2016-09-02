@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development shall develop and implement an integrated strategy to reduce utility expenses through cost-effective energy conservation and efficiency measures and energy efficient design and construction of public and assisted housing. The energy strategy shall include the development of energy reduction goals and incentives for public housing agencies. The Secretary shall submit a report to Congress, not later than 1 year after August 8, 2005, on the energy strategy and the actions taken by the Department of Housing and Urban Development to monitor the energy usage of public housing agencies and shall submit an update every 2 years thereafter on progress in implementing the strategy.
 
-([Pub. L. 109–58, title I, § 154][/us/pl/109/58/s154], Aug. 8, 2005, [119 Stat. 650][/us/stat/119/650].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 154, Aug. 8, 2005, [119 Stat. 650][/us/stat/119/650].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs154
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F650
 
 

@@ -35,15 +35,15 @@
 
         Any loan under this part shall be made out of the allotment from which a grant for the project concerned would be made. Payments of interest and repayments of principal on loans under this part shall be deposited in the Treasury as miscellaneous receipts.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 610, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 457][/us/stat/78/457].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 610, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 457][/us/stat/78/457].)
 
  __References in Text__ 
 
-    [Section 291i of this title][/us/usc/t42/s291i], referred to in subsec. (c)(3), was amended generally by [Pub. L. 98–369, div. B, title III, § 2381(a)][/us/pl/98/369/s2381/a], July 18, 1984, [98 Stat. 1112][/us/stat/98/1112], and, as so amended, the provisions contained in former cls. (a) and (b) of section 291i are covered by section 291i(a)(1) and (2).
+    [Section 291i of this title][/us/usc/t42/s291i], referred to in subsec. (c)(3), was amended generally by [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2381(a), July 18, 1984, [98 Stat. 1112][/us/stat/98/1112], and, as so amended, the provisions contained in former cls. (a) and (b) of section 291i are covered by section 291i(a)(1) and (2).
 
  __Prior Provisions__ 
 
-    A prior section 291j, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 632, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Oct. 25, 1949, ch. 722, § 4][/us/act/1949-10-25/ch722/s4], [63 Stat. 900][/us/stat/63/900]; [July 12, 1954, ch. 471, § 4(g)][/us/act/1954-07-12/ch471/s4/g], [68 Stat. 466][/us/stat/68/466]; Aug. 28, 1958, [Pub. L. 85–791, § 27][/us/pl/85/791/s27], [72 Stat. 950][/us/stat/72/950], related to withholding of certification for noncompliance with requirements, appeal, conclusiveness of findings, the jurisdiction of the courts of appeals and to review by the Supreme Court, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See sections 291g and 291h of this title.
+    A prior section 291j, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 632, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], § 4, [63 Stat. 900][/us/stat/63/900]; [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 4(g), [68 Stat. 466][/us/stat/68/466]; Aug. 28, 1958, [Pub. L. 85–791][/us/pl/85/791], § 27, [72 Stat. 950][/us/stat/72/950], related to withholding of certification for noncompliance with requirements, appeal, conclusiveness of findings, the jurisdiction of the courts of appeals and to review by the Supreme Court, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See sections 291g and 291h of this title.
 
     Provisions similar to those comprising this section were contained in sections 291w to 291z of this title, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
@@ -59,23 +59,23 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F457
 [/us/usc/t42/s291i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291i
-[/us/pl/98/369/s2381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2381%2Fa
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1112
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/act/1949-10-25/ch722/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722%2Fs4
+[/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F900
-[/us/act/1954-07-12/ch471/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs4%2Fg
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F466
-[/us/pl/85/791/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs27
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F950
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443

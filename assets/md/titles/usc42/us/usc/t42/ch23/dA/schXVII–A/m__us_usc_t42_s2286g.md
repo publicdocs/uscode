@@ -31,7 +31,7 @@
 
     (2) A nuclear waste storage facility under the control or jurisdiction of the Secretary of Energy, but the term does not include a facility developed pursuant to the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101][/us/usc/t42/s10101] et seq.) and licensed by the Nuclear Regulatory Commission.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 318, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)][/us/pl/100/456/s1441/a/1], Sept. 29, 1988, [102 Stat. 2083][/us/stat/102/2083]; amended [Pub. L. 102–190, div. C, title XXXII, § 3202(b)(1)][/us/pl/102/190/s3202/b/1], Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(7)][/us/pl/102/486/s902/a/7], (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 318, as added [Pub. L. 100–456, div. A, title XIV][/us/pl/100/456/dA/tXIV], § 1441(a)(1), Sept. 29, 1988, [102 Stat. 2083][/us/stat/102/2083]; amended [Pub. L. 102–190, div. C, title XXXII][/us/pl/102/190/dC/tXXXII], § 3202(b)(1), Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I and amended [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(7), (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    1992—Par. (1)(D). [Pub. L. 102–486, § 902(a)(7)][/us/pl/102/486/s902/a/7], added subpar. (D).
+    1992—Par. (1)(D). [Pub. L. 102–486][/us/pl/102/486], § 902(a)(7), added subpar. (D).
 
     1991—Par. (1)(B). [Pub. L. 102–190][/us/pl/102/190] struck out “with the assembly or testing of nuclear explosives or” after “involved”.
 
@@ -59,17 +59,17 @@
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
 [/us/usc/t42/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/100/456/s1441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1441%2Fa%2F1
+[/us/pl/100/456/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXIV
 [/us/stat/102/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2083
-[/us/pl/102/190/s3202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3202%2Fb%2F1
+[/us/pl/102/190/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXII
 [/us/stat/105/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1582
-[/us/pl/102/486/s902/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F7
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2201
 [/us/usc/t42/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101
-[/us/pl/102/486/s902/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F7
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/104/134/s3116/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fe
 [/us/usc/t42/s2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297

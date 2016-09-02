@@ -35,7 +35,7 @@
 
     For purposes of paragraph (4), any notification shall be made within 14 days of the date on which the plan administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2206, as added [Pub. L. 99–272, title X, § 10003(a)][/us/pl/99/272/s10003/a], Apr. 7, 1986, [100 Stat. 235][/us/stat/100/235]; amended [Pub. L. 99–514, title XVIII, § 1895(d)(6)(C)][/us/pl/99/514/s1895/d/6/C], Oct. 22, 1986, [100 Stat. 2939][/us/stat/100/2939]; [Pub. L. 100–203, title IV, § 4009(j)(8)][/us/pl/100/203/s4009/j/8], Dec. 22, 1987, [101 Stat. 1330–59][/us/stat/101/1330-59]; [Pub. L. 101–239, title VI, § 6702(c)][/us/pl/101/239/s6702/c], Dec. 19, 1989, [103 Stat. 2295][/us/stat/103/2295]; [Pub. L. 104–191, title IV, § 421(a)(2)][/us/pl/104/191/s421/a/2], Aug. 21, 1996, [110 Stat. 2088][/us/stat/110/2088].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2206, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10003(a), Apr. 7, 1986, [100 Stat. 235][/us/stat/100/235]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1895(d)(6)(C), Oct. 22, 1986, [100 Stat. 2939][/us/stat/100/2939]; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4009(j)(8), Dec. 22, 1987, [101 Stat. 1330–59][/us/stat/101/1330-59]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6702(c), Dec. 19, 1989, [103 Stat. 2295][/us/stat/103/2295]; [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 421(a)(2), Aug. 21, 1996, [110 Stat. 2088][/us/stat/110/2088].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-    [Pub. L. 100–203, title IV, § 4009(j)(8)][/us/pl/100/203/s4009/j/8], Dec. 22, 1987, [101 Stat. 1330–59][/us/stat/101/1330-59], provided that the amendment made by that section is effective as if included in [Pub. L. 99–514][/us/pl/99/514].
+    [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4009(j)(8), Dec. 22, 1987, [101 Stat. 1330–59][/us/stat/101/1330-59], provided that the amendment made by that section is effective as if included in [Pub. L. 99–514][/us/pl/99/514].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -69,7 +69,7 @@
 
  __Notification to Covered Employees__ 
 
-[Pub. L. 99–272, title X, § 10003(c)][/us/pl/99/272/s10003/c], Apr. 7, 1986, [100 Stat. 236][/us/stat/100/236], provided that: 
+[Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10003(c), Apr. 7, 1986, [100 Stat. 236][/us/stat/100/236], provided that: 
 
 > “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[[42 U.S.C. 300bb–1][/us/usc/t42/s300bb–1]\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[[42 U.S.C. 300bb–1][/us/usc/t42/s300bb–1] et seq.\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[[42 U.S.C. 300bb–6(1)][/us/usc/t42/s300bb–6/1]\] with respect to such individuals.”
 
@@ -86,15 +86,15 @@
 [/us/usc/t42/s300bb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%933
 [/us/usc/t42/s300bb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/272/s10003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10003%2Fa
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F235
-[/us/pl/99/514/s1895/d/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1895%2Fd%2F6%2FC
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2939
-[/us/pl/100/203/s4009/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fj%2F8
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-59
-[/us/pl/101/239/s6702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6702%2Fc
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2295
-[/us/pl/104/191/s421/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs421%2Fa%2F2
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2088
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -113,13 +113,13 @@
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s6702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6702%2Fd
 [/us/usc/t42/s300bb–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%932
-[/us/pl/100/203/s4009/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4009%2Fj%2F8
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-59
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1895/d/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1895%2Fd%2F6%2FD
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
-[/us/pl/99/272/s10003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10003%2Fc
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F236
 [/us/usc/t42/s300bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%931
 [/us/usc/t42/s300bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%931

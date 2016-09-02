@@ -17,7 +17,7 @@
 
     If the collection of a DNA sample from an individual on probation, parole, or supervised release is authorized pursuant to section 14135a or 14135b of this title or [section 1565 of title 10][/us/usc/t10/s1565], the individual shall cooperate in the collection of a DNA sample as a condition of that probation, parole, or supervised release.
 
-([Pub. L. 106–546, § 7(d)][/us/pl/106/546/s7/d], Dec. 19, 2000, [114 Stat. 2734][/us/stat/114/2734].)
+([Pub. L. 106–546][/us/pl/106/546], § 7(d), Dec. 19, 2000, [114 Stat. 2734][/us/stat/114/2734].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t10/s1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565
-[/us/pl/106/546/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs7%2Fd
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2734
 
 

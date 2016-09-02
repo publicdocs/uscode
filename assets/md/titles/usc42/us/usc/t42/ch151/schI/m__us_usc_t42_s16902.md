@@ -17,7 +17,7 @@
 
     This chapter establishes the Jacob Wetterling, Megan Nicole Kanka, and Pam Lychner Sex Offender Registration and Notification Program.
 
-([Pub. L. 109–248, title I, § 103][/us/pl/109/248/s103], July 27, 2006, [120 Stat. 591][/us/stat/120/591].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 103, July 27, 2006, [120 Stat. 591][/us/stat/120/591].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs103
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F591
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587

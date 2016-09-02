@@ -37,7 +37,7 @@
 
         Amounts received as repayments under this section shall be subject to [section 3712g of this title][/us/usc/t42/s3712g] as if such amounts had not been granted and repaid. Such amounts shall be deposited in the Treasury in a dedicated fund for use by the Attorney General to carry out this part. Such funds are hereby made available to carry out this part.
 
-([Pub. L. 90–351, title I, § 507][/us/pl/90/351/s507], as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)][/us/pl/109/162/s1111/a/2/C], Jan. 5, 2006, [119 Stat. 3100][/us/stat/119/3100].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 507, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(a)(2)(C), Jan. 5, 2006, [119 Stat. 3100][/us/stat/119/3100].)
 
  __Prior Provisions__ 
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t42/s3712g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712g
-[/us/pl/90/351/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs507
-[/us/pl/109/162/s1111/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fa%2F2%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3100
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

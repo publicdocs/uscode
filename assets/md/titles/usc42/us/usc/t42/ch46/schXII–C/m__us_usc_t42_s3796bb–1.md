@@ -21,7 +21,7 @@
 
     (2) in addition to satisfying the requirements of [section 3752 of this title][/us/usc/t42/s3752], each application for a grant under this subchapter shall include in its application a statement specifying how such grant will be coordinated with a grant received under [section 3755 of this title][/us/usc/t42/s3755] for the same fiscal year.
 
-([Pub. L. 90–351, title I, § 1502][/us/pl/90/351/s1502], as added [Pub. L. 101–647, title VIII, § 801(a)(3)][/us/pl/101/647/s801/a/3], Nov. 29, 1990, [104 Stat. 4825][/us/stat/104/4825]; amended [Pub. L. 109–162, title XI, § 1111(c)(2)(G)][/us/pl/109/162/s1111/c/2/G], Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1502, as added [Pub. L. 101–647, title VIII][/us/pl/101/647/tVIII], § 801(a)(3), Nov. 29, 1990, [104 Stat. 4825][/us/stat/104/4825]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(c)(2)(G), Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102].)
 
  __Codification__ 
 
@@ -29,9 +29,9 @@
 
  __Amendments__ 
 
-    2006—Par. (1). [Pub. L. 109–162, § 1111(c)(2)(G)(i)][/us/pl/109/162/s1111/c/2/G/i], substituted “section 3755(a)” for “section 3756(a)”.
+    2006—Par. (1). [Pub. L. 109–162][/us/pl/109/162], § 1111(c)(2)(G)(i), substituted “section 3755(a)” for “section 3756(a)”.
 
-    Par. (2). [Pub. L. 109–162, § 1111(c)(2)(G)(ii)][/us/pl/109/162/s1111/c/2/G/ii], substituted “section 3752” for “section 3753(a)” and “section 3755” for “section 3756”.
+    Par. (2). [Pub. L. 109–162][/us/pl/109/162], § 1111(c)(2)(G)(ii), substituted “section 3752” for “section 3753(a)” and “section 3755” for “section 3756”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -47,15 +47,15 @@
 [/us/usc/t42/s3755/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3755%2Fa
 [/us/usc/t42/s3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3752
 [/us/usc/t42/s3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3755
-[/us/pl/90/351/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1502
-[/us/pl/101/647/s801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs801%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtVIII
 [/us/stat/104/4825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4825
-[/us/pl/109/162/s1111/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FG
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3102
 [/us/pl/90/351/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1502
 [/us/stat/82/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F238
-[/us/pl/109/162/s1111/c/2/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FG%2Fi
-[/us/pl/109/162/s1111/c/2/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FG%2Fii
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fd
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

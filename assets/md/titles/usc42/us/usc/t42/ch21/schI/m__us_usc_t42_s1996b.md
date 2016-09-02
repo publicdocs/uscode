@@ -31,7 +31,7 @@
 
         This subsection shall not be construed to affect the application of the Indian Child Welfare Act of 1978 \[[25 U.S.C. 1901][/us/usc/t25/s1901] et seq.\].
 
-([Pub. L. 104–188, title I, § 1808(c)][/us/pl/104/188/s1808/c], Aug. 20, 1996, [110 Stat. 1904][/us/stat/110/1904].)
+([Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1808(c), Aug. 20, 1996, [110 Stat. 1904][/us/stat/110/1904].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t25/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1901
-[/us/pl/104/188/s1808/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1808%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1904
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

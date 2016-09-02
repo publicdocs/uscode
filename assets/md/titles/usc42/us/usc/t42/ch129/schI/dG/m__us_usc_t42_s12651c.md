@@ -27,13 +27,13 @@
 
         The Chief Executive Officer shall prescribe such rules and regulations as are necessary or appropriate to carry out the national service laws.
 
-([Pub. L. 101–610, title I, § 193][/us/pl/101/610/s193], as added and amended [Pub. L. 103–82, title II][/us/pl/103/82], §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 877][/us/stat/107/877], 891; [Pub. L. 111–13, title I, § 1703][/us/pl/111/13/s1703], Apr. 21, 2009, [123 Stat. 1545][/us/stat/123/1545].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 193, as added and amended [Pub. L. 103–82, title II][/us/pl/103/82/tII], §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 877][/us/stat/107/877], 891; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1703, Apr. 21, 2009, [123 Stat. 1545][/us/stat/123/1545].)
 
  __Amendments__ 
 
     2009—Subsec. (b). [Pub. L. 111–13][/us/pl/111/13] inserted “, plus 3 percent” before period at end.
 
-    1993—Subsec. (c). [Pub. L. 103–82, § 203(a)(1)(B)][/us/pl/103/82/s203/a/1/B], which directed amendment of section 193(c) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsec. (c) of this section, which is section 193 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+    1993—Subsec. (c). [Pub. L. 103–82][/us/pl/103/82], § 203(a)(1)(B), which directed amendment of section 193(c) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsec. (c) of this section, which is section 193 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -49,7 +49,7 @@
 
  __Regulations__ 
 
-[Pub. L. 111–13, title VI, § 6101(b)][/us/pl/111/13/s6101/b], Apr. 21, 2009, [123 Stat. 1600][/us/stat/123/1600], provided that: 
+[Pub. L. 111–13, title VI][/us/pl/111/13/tVI], § 6101(b), Apr. 21, 2009, [123 Stat. 1600][/us/stat/123/1600], provided that: 
 
 > “Effective on the date of enactment of this Act \[Apr. 21, 2009\], the Chief Executive Officer of the Corporation for National and Community Service may issue such regulations as may be necessary to carry out this Act \[see Short Title of 2009 Amendment note set out under [section 12501 of this title][/us/usc/t42/s12501]\] and the amendments made by this Act.”
 
@@ -61,13 +61,13 @@
 ----------
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/101/610/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs193
-[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F877
-[/us/pl/111/13/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1703
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1545
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
-[/us/pl/103/82/s203/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fa%2F1%2FB
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
@@ -76,7 +76,7 @@
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
 [/us/pl/103/82/s202/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fi%2F2
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
-[/us/pl/111/13/s6101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fb
+[/us/pl/111/13/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtVI
 [/us/stat/123/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1600
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 

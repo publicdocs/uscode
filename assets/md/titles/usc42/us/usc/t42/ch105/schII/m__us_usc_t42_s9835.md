@@ -421,7 +421,7 @@
 
         All curricula funded under this subchapter shall be based on scientifically valid research, and be age and developmentally appropriate. The curricula shall reflect all areas of child development and learning and be aligned with the Head Start Child Outcomes Framework. Parents shall have the opportunity to examine any such curricula or instructional materials funded under this subchapter.
 
-([Pub. L. 97–35, title VI, § 640][/us/pl/97/35/s640], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499]; [Pub. L. 98–558, title I, § 103][/us/pl/98/558/s103], Oct. 30, 1984, [98 Stat. 2878][/us/stat/98/2878]; [Pub. L. 99–425, title I, § 102][/us/pl/99/425/s102], Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–476, title IX, § 901(d)][/us/pl/101/476/s901/d], Oct. 30, 1990, [104 Stat. 1151][/us/stat/104/1151]; [Pub. L. 101–501, title I][/us/pl/101/501], §§ 104(a), 105, 123(b), Nov. 3, 1990, [104 Stat. 1224][/us/stat/104/1224], 1228, 1237; [Pub. L. 102–119, § 26(g)][/us/pl/102/119/s26/g], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–401, § 2(a)][/us/pl/102/401/s2/a]–(d), (k)(1), Oct. 7, 1992, [106 Stat. 1956][/us/stat/106/1956], 1958; [Pub. L. 103–252, title I, § 105][/us/pl/103/252/s105], May 18, 1994, [108 Stat. 626][/us/stat/108/626]; [Pub. L. 104–193, title I, § 110(t)][/us/pl/104/193/s110/t], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 105–285, title I, § 106(a)][/us/pl/105/285/s106/a]–(d), Oct. 27, 1998, [112 Stat. 2705–2711][/us/stat/112/2705-2711]; [Pub. L. 108–446, title III, § 305][/us/pl/108/446/s305](l)(1), (2), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 110–134, § 6][/us/pl/110/134/s6], Dec. 12, 2007, [121 Stat. 1367][/us/stat/121/1367].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 640, Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499]; [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 103, Oct. 30, 1984, [98 Stat. 2878][/us/stat/98/2878]; [Pub. L. 99–425, title I][/us/pl/99/425/tI], § 102, Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(d), Oct. 30, 1990, [104 Stat. 1151][/us/stat/104/1151]; [Pub. L. 101–501, title I][/us/pl/101/501/tI], §§ 104(a), 105, 123(b), Nov. 3, 1990, [104 Stat. 1224][/us/stat/104/1224], 1228, 1237; [Pub. L. 102–119][/us/pl/102/119], § 26(g), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–401][/us/pl/102/401], § 2(a)–(d), (k)(1), Oct. 7, 1992, [106 Stat. 1956][/us/stat/106/1956], 1958; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 105, May 18, 1994, [108 Stat. 626][/us/stat/108/626]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(t), Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 106(a)–(d), Oct. 27, 1998, [112 Stat. 2705–2711][/us/stat/112/2705-2711]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(l)(1), (2), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 110–134][/us/pl/110/134], § 6, Dec. 12, 2007, [121 Stat. 1367][/us/stat/121/1367].)
 
  __References in Text__ 
 
@@ -433,225 +433,225 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–134, § 6(a)][/us/pl/110/134/s6/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to distribution of appropriations, allotment requirements, and priorities for Head Start funds.
+    2007—Subsec. (a). [Pub. L. 110–134][/us/pl/110/134], § 6(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to distribution of appropriations, allotment requirements, and priorities for Head Start funds.
 
-    Subsec. (d). [Pub. L. 110–134, § 6(b)][/us/pl/110/134/s6/b], amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall establish policies and procedures designed to assure that for fiscal year 1999 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities and that services shall be provided to meet their special needs. Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act ([20 U.S.C. 1431–144][/us/usc/t20/s1431–144]4, 1419).”
+    Subsec. (d). [Pub. L. 110–134][/us/pl/110/134], § 6(b), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall establish policies and procedures designed to assure that for fiscal year 1999 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities and that services shall be provided to meet their special needs. Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act ([20 U.S.C. 1431–144][/us/usc/t20/s1431–144]4, 1419).”
 
-    Subsec. (f). [Pub. L. 110–134, § 6(c)][/us/pl/110/134/s6/c], designated existing provisions as par. (1), substituted “Not later than 1 year after December 12, 2007, the” for “The” and “needs, including models that leverage the capacity and capabilities of the delivery system of early childhood education and development services or programs.” for “needs.”, and added par (2).
+    Subsec. (f). [Pub. L. 110–134][/us/pl/110/134], § 6(c), designated existing provisions as par. (1), substituted “Not later than 1 year after December 12, 2007, the” for “The” and “needs, including models that leverage the capacity and capabilities of the delivery system of early childhood education and development services or programs.” for “needs.”, and added par (2).
 
-    Subsec. (g)(1). [Pub. L. 110–134, § 6(d)(1)][/us/pl/110/134/s6/d/1], (3), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “If in any fiscal year, the amounts appropriated to carry out the program under this subchapter exceed the amount appropriated in the prior fiscal year, the Secretary shall, prior to using such additional funds to serve an increased number of children, allocate such funds in a manner that makes available the funds necessary to maintain the level of services provided during the prior year, taking into consideration the percentage change in the Consumer Price Index For All Urban Consumers, as published by the Bureau of Labor Statistics.”
+    Subsec. (g)(1). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(1), (3), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “If in any fiscal year, the amounts appropriated to carry out the program under this subchapter exceed the amount appropriated in the prior fiscal year, the Secretary shall, prior to using such additional funds to serve an increased number of children, allocate such funds in a manner that makes available the funds necessary to maintain the level of services provided during the prior year, taking into consideration the percentage change in the Consumer Price Index For All Urban Consumers, as published by the Bureau of Labor Statistics.”
 
-    Subsec. (g)(2). [Pub. L. 110–134, § 6(d)(3)][/us/pl/110/134/s6/d/3], (4), added par. (2) and redesignated former par. (2) as (1).
+    Subsec. (g)(2). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(3), (4), added par. (2) and redesignated former par. (2) as (1).
 
-    [Pub. L. 110–134, § 6(d)(2)(A)][/us/pl/110/134/s6/d/2/A], struck out “, in allocating funds to an applicant within a State, from amounts allotted to a State pursuant to subsection (a)(4) of this section,” after “Head Start programs” in introductory provisions.
+    [Pub. L. 110–134][/us/pl/110/134], § 6(d)(2)(A), struck out “, in allocating funds to an applicant within a State, from amounts allotted to a State pursuant to subsection (a)(4) of this section,” after “Head Start programs” in introductory provisions.
 
-    Subsec. (g)(2)(A). [Pub. L. 110–134, § 6(d)(2)(B)][/us/pl/110/134/s6/d/2/B], substituted “standards described in [section 9836a(a)(1) of this title][/us/usc/t42/s9836a/a/1]” for “performance standards”.
+    Subsec. (g)(2)(A). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(2)(B), substituted “standards described in [section 9836a(a)(1) of this title][/us/usc/t42/s9836a/a/1]” for “performance standards”.
 
-    Subsec. (g)(2)(C). [Pub. L. 110–134, § 6(d)(2)(C)][/us/pl/110/134/s6/d/2/C], added subpar. (C) and struck out former subpar. (C) which read as follows: “the extent to which the applicant has undertaken community-wide strategic planning and needs assessments involving other community organizations and public agencies serving children and families (including organizations serving families in whose homes English is not the language customarily spoken), and organizations and public entities serving children with disabilities;”.
+    Subsec. (g)(2)(C). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(2)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “the extent to which the applicant has undertaken community-wide strategic planning and needs assessments involving other community organizations and public agencies serving children and families (including organizations serving families in whose homes English is not the language customarily spoken), and organizations and public entities serving children with disabilities;”.
 
-    Subsec. (g)(2)(D). [Pub. L. 110–134, § 6(d)(2)(D)][/us/pl/110/134/s6/d/2/D], substituted “family needs assessment and communitywide strategic planning and needs assessment” for “family and community needs assessment”, “reflect” for “reflects”, and “the State and local” for “other local”.
+    Subsec. (g)(2)(D). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(2)(D), substituted “family needs assessment and communitywide strategic planning and needs assessment” for “family and community needs assessment”, “reflect” for “reflects”, and “the State and local” for “other local”.
 
-    Subsec. (g)(2)(E). [Pub. L. 110–134, § 6(d)(2)(E)][/us/pl/110/134/s6/d/2/E], added subpar. (E) and struck out former subpar. (E) which read as follows: “the numbers of eligible children in each community who are not participating in a Head Start program or any other early childhood program;”.
+    Subsec. (g)(2)(E). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(2)(E), added subpar. (E) and struck out former subpar. (E) which read as follows: “the numbers of eligible children in each community who are not participating in a Head Start program or any other early childhood program;”.
 
-    Subsec. (g)(2)(G), (H). [Pub. L. 110–134, § 6(d)(2)(F)][/us/pl/110/134/s6/d/2/F], added subpars. (G) and (H) and struck out former subpars. (G) and (H) which read as follows:
+    Subsec. (g)(2)(G), (H). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(2)(F), added subpars. (G) and (H) and struck out former subpars. (G) and (H) which read as follows:
 
     “(G) the extent to which the applicant proposes to foster partnerships with other service providers in a manner that will enhance the resource capacity of the applicant; and
 
     “(H) the extent to which the applicant, in providing services, plans to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency.”
 
-    Subsec. (g)(3), (4). [Pub. L. 110–134, § 6(d)(1)][/us/pl/110/134/s6/d/1], (4), added par. (3) and struck out former pars. (3) and (4) which read as follows:
+    Subsec. (g)(3), (4). [Pub. L. 110–134][/us/pl/110/134], § 6(d)(1), (4), added par. (3) and struck out former pars. (3) and (4) which read as follows:
 
     “(3) In determining the amount of funds reserved pursuant to subparagraph (A) or (B) of subsection (a)(2) of this section to be used for expanding Head Start programs under this subchapter, the Secretary shall take into consideration, to the extent appropriate, the factors specified in paragraph (2).
 
     “(4) Notwithstanding subsection (a)(2) of this section, after taking into account paragraph (1), the Secretary may allocate a portion of the remaining additional funds under subsection (a)(2)(A) of this section for the purpose of increasing funds available for activities described in such subsection.”
 
-    Subsec. (i). [Pub. L. 110–134, § 6(e)][/us/pl/110/134/s6/e], inserted at end “The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.”
+    Subsec. (i). [Pub. L. 110–134][/us/pl/110/134], § 6(e), inserted at end “The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.”
 
-    Subsec. (l)(1). [Pub. L. 110–134, § 6(f)(1)][/us/pl/110/134/s6/f/1], substituted “With funds made available under this subchapter to expand migrant and seasonal Head Start programs,” for “With funds made available under subsection (a)(2) of this section to migrant and seasonal Head Start programs,” and “children of migrant or seasonal farmworker families” for “children of migrant and seasonal farmworker families”.
+    Subsec. (l)(1). [Pub. L. 110–134][/us/pl/110/134], § 6(f)(1), substituted “With funds made available under this subchapter to expand migrant and seasonal Head Start programs,” for “With funds made available under subsection (a)(2) of this section to migrant and seasonal Head Start programs,” and “children of migrant or seasonal farmworker families” for “children of migrant and seasonal farmworker families”.
 
-    Subsec. (l)(2). [Pub. L. 110–134, § 6(f)(2)][/us/pl/110/134/s6/f/2], substituted “In determining” for “For purposes of subsection (a)(2)(A) of this section, in determining”, “children of migrant farmworker families” for “children of migrant farmworkers”, “under this subchapter” for “under such subsection”, “children of seasonal farmworker families” for “children of seasonal farmworkers” in two places, and “children of such farmworker families” for “children of such farmworkers”.
+    Subsec. (l)(2). [Pub. L. 110–134][/us/pl/110/134], § 6(f)(2), substituted “In determining” for “For purposes of subsection (a)(2)(A) of this section, in determining”, “children of migrant farmworker families” for “children of migrant farmworkers”, “under this subchapter” for “under such subsection”, “children of seasonal farmworker families” for “children of seasonal farmworkers” in two places, and “children of such farmworker families” for “children of such farmworkers”.
 
-    Subsec. (l)(3), (4). [Pub. L. 110–134, § 6(f)(3)][/us/pl/110/134/s6/f/3], added pars. (3) and (4) and struck out former par. (3) which read as follows: “In carrying out this subchapter, the Secretary shall continue the administrative arrangement responsible for meeting the needs of children of migrant and seasonal farmworkers and Indian children and shall ensure that appropriate funding is provided to meet such needs.”
+    Subsec. (l)(3), (4). [Pub. L. 110–134][/us/pl/110/134], § 6(f)(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: “In carrying out this subchapter, the Secretary shall continue the administrative arrangement responsible for meeting the needs of children of migrant and seasonal farmworkers and Indian children and shall ensure that appropriate funding is provided to meet such needs.”
 
-    Subsecs. (m) to (o). [Pub. L. 110–134, § 6(g)][/us/pl/110/134/s6/g], added subsecs. (m) to (o).
+    Subsecs. (m) to (o). [Pub. L. 110–134][/us/pl/110/134], § 6(g), added subsecs. (m) to (o).
 
-    2004—Subsec. (a)(5)(C)(iv). [Pub. L. 108–446, § 305][/us/pl/108/446/s305](l)(1), substituted “1431–1444” for “1431–1445”.
+    2004—Subsec. (a)(5)(C)(iv). [Pub. L. 108–446][/us/pl/108/446], § 305(l)(1), substituted “1431–1444” for “1431–1445”.
 
-    Subsec. (d). [Pub. L. 108–446, § 305][/us/pl/108/446/s305](l)(2), substituted “U.S.C.” for “U.S.C” and “1431–1444” for “1431–1445”.
+    Subsec. (d). [Pub. L. 108–446][/us/pl/108/446], § 305(l)(2), substituted “U.S.C.” for “U.S.C” and “1431–1444” for “1431–1445”.
 
-    1998—Subsec. (a)(2). [Pub. L. 105–285, § 106(a)(1)(F)][/us/pl/105/285/s106/a/1/F], inserted at end of concluding provisions “No Freely Associated State may receive financial assistance under this subchapter after fiscal year 2002.”
+    1998—Subsec. (a)(2). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(1)(F), inserted at end of concluding provisions “No Freely Associated State may receive financial assistance under this subchapter after fiscal year 2002.”
 
-    Subsec. (a)(2)(A). [Pub. L. 105–285, § 106(a)(1)(A)][/us/pl/105/285/s106/a/1/A], substituted “Head Start programs, services for children with disabilities, and migrant and seasonal Head Start programs” for “and migrant Head Start programs and services for handicapped children”, “Head Start programs and by migrant and seasonal” for “and migrant” before “Head Start programs” in two places, and “1998” for “1994”.
+    Subsec. (a)(2)(A). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(1)(A), substituted “Head Start programs, services for children with disabilities, and migrant and seasonal Head Start programs” for “and migrant Head Start programs and services for handicapped children”, “Head Start programs and by migrant and seasonal” for “and migrant” before “Head Start programs” in two places, and “1998” for “1994”.
 
-    Subsec. (a)(2)(B). [Pub. L. 105–285, § 106(a)(1)(B)][/us/pl/105/285/s106/a/1/B], substituted “(B) payments, subject to paragraph (7)—”, cls. (i) to (iii), and “according” for “(B) payments to Guam, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands according”.
+    Subsec. (a)(2)(B). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(1)(B), substituted “(B) payments, subject to paragraph (7)—”, cls. (i) to (iii), and “according” for “(B) payments to Guam, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands according”.
 
-    Subsec. (a)(2)(C). [Pub. L. 105–285, § 106(a)(1)(C)][/us/pl/105/285/s106/a/1/C], substituted “, of which not less than $3,000,000 of the amount appropriated for such fiscal year shall be made available to carry out activities described in [section 9843(c)(4) of this title][/us/usc/t42/s9843/c/4];” for “; and”.
+    Subsec. (a)(2)(C). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(1)(C), substituted “, of which not less than $3,000,000 of the amount appropriated for such fiscal year shall be made available to carry out activities described in [section 9843(c)(4) of this title][/us/usc/t42/s9843/c/4];” for “; and”.
 
-    Subsec. (a)(2)(D). [Pub. L. 105–285, § 106(a)(1)(D)][/us/pl/105/285/s106/a/1/D], which directed substitution of “carried out under paragraph (1), (2), or (3) of [section 9836a(d) of this title][/us/usc/t42/s9836a/d] related to correcting deficiencies and conducting proceedings to terminate the designation of Head Start agencies; and” for “related to the development and implementation of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2].”, was executed by making the substitution for “related to the development and implementation of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2]).”
+    Subsec. (a)(2)(D). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(1)(D), which directed substitution of “carried out under paragraph (1), (2), or (3) of [section 9836a(d) of this title][/us/usc/t42/s9836a/d] related to correcting deficiencies and conducting proceedings to terminate the designation of Head Start agencies; and” for “related to the development and implementation of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2].”, was executed by making the substitution for “related to the development and implementation of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2]).”
 
-    Subsec. (a)(2)(E). [Pub. L. 105–285, § 106(a)(1)(E)][/us/pl/105/285/s106/a/1/E], added subpar. (E).
+    Subsec. (a)(2)(E). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(1)(E), added subpar. (E).
 
-    Subsec. (a)(3)(A)(i)(I). [Pub. L. 105–285, § 106(a)(2)(A)][/us/pl/105/285/s106/a/2/A], substituted “60 percent of such excess amount for fiscal year 1999, 50 percent of such excess amount for fiscal year 2000, 47.5 percent of such excess amount for fiscal year 2001, 35 percent of such excess amount for fiscal year 2002, and 25 percent of such excess amount for fiscal year 2003;” for “25 percent of such excess amount;”.
+    Subsec. (a)(3)(A)(i)(I). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(A), substituted “60 percent of such excess amount for fiscal year 1999, 50 percent of such excess amount for fiscal year 2000, 47.5 percent of such excess amount for fiscal year 2001, 35 percent of such excess amount for fiscal year 2002, and 25 percent of such excess amount for fiscal year 2003;” for “25 percent of such excess amount;”.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 105–285, § 106(a)(2)(B)(i)][/us/pl/105/285/s106/a/2/B/i], substituted “adequate numbers of qualified staff” for “adequate qualified staff” and inserted “and children with disabilities” before “, when appropriate”.
+    Subsec. (a)(3)(B)(ii). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(B)(i), substituted “adequate numbers of qualified staff” for “adequate qualified staff” and inserted “and children with disabilities” before “, when appropriate”.
 
-    Subsec. (a)(3)(B)(iv). [Pub. L. 105–285, § 106(a)(2)(B)(ii)][/us/pl/105/285/s106/a/2/B/ii], inserted before period at end “, and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development”.
+    Subsec. (a)(3)(B)(iv). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(B)(ii), inserted before period at end “, and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development”.
 
-    Subsec. (a)(3)(B)(v). [Pub. L. 105–285, § 106(a)(2)(B)(iii)][/us/pl/105/285/s106/a/2/B/iii], inserted “and collaboration efforts for such programs” before period at end.
+    Subsec. (a)(3)(B)(v). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(B)(iii), inserted “and collaboration efforts for such programs” before period at end.
 
-    Subsec. (a)(3)(B)(vi). [Pub. L. 105–285, § 106(a)(2)(B)(iv)][/us/pl/105/285/s106/a/2/B/iv], inserted before period at end “, and are accessible to children with disabilities and their parents”.
+    Subsec. (a)(3)(B)(vi). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(B)(iv), inserted before period at end “, and are accessible to children with disabilities and their parents”.
 
-    Subsec. (a)(3)(B)(vii), (viii). [Pub. L. 105–285, § 106(a)(2)(B)(v)][/us/pl/105/285/s106/a/2/B/v], (vi), added cl. (vii) and redesignated former cl. (vii) as (viii).
+    Subsec. (a)(3)(B)(vii), (viii). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(B)(v), (vi), added cl. (vii) and redesignated former cl. (vii) as (viii).
 
-    Subsec. (a)(3)(C)(i)(I). [Pub. L. 105–285, § 106(a)(2)(C)(i)(I)][/us/pl/105/285/s106/a/2/C/i/I], substituted “this paragraph” for “this subparagraph”, “of classroom teachers and other staff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in [section 9843a(a) of this title][/us/usc/t42/s9843a/a]” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
+    Subsec. (a)(3)(C)(i)(I). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and other staff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in [section 9843a(a) of this title][/us/usc/t42/s9843a/a]” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
 
-    Subsec. (a)(3)(C)(i)(II). [Pub. L. 105–285, § 106(a)(2)(C)(i)(II)][/us/pl/105/285/s106/a/2/C/i/II], substituted “this subparagraph” for “the subparagraph”.
+    Subsec. (a)(3)(C)(i)(II). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(C)(i)(II), substituted “this subparagraph” for “the subparagraph”.
 
-    Subsec. (a)(3)(C)(i)(III). [Pub. L. 105–285, § 106(a)(2)(C)(i)(III)][/us/pl/105/285/s106/a/2/C/i/III], added subcl. (III).
+    Subsec. (a)(3)(C)(i)(III). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(C)(i)(III), added subcl. (III).
 
-    Subsec. (a)(3)(C)(ii). [Pub. L. 105–285, § 106(a)(2)(C)(ii)][/us/pl/105/285/s106/a/2/C/ii], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “To pay transportation costs incurred by Head Start agencies to enable eligible children to participate in a Head Start program.”
+    Subsec. (a)(3)(C)(ii). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(C)(ii), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “To pay transportation costs incurred by Head Start agencies to enable eligible children to participate in a Head Start program.”
 
-    Subsec. (a)(3)(C)(v) to (vii). [Pub. L. 105–285, § 106(a)(2)(C)(iii)][/us/pl/105/285/s106/a/2/C/iii], (iv), redesignated cls. (vi) and (vii) as (v) and (vi), respectively, and struck out former cl. (v) which read as follows: “To make nonstructural and minor structural changes, and to acquire and install equipment, for the purpose of improving facilities necessary to expand the availability, or enhance the quality, of Head Start programs.”
+    Subsec. (a)(3)(C)(v) to (vii). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(C)(iii), (iv), redesignated cls. (vi) and (vii) as (v) and (vi), respectively, and struck out former cl. (v) which read as follows: “To make nonstructural and minor structural changes, and to acquire and install equipment, for the purpose of improving facilities necessary to expand the availability, or enhance the quality, of Head Start programs.”
 
-    Subsec. (a)(3)(D)(i)(II). [Pub. L. 105–285, § 106(a)(2)(D)][/us/pl/105/285/s106/a/2/D], substituted “Head Start programs and migrant and seasonal” for “and migrant”.
+    Subsec. (a)(3)(D)(i)(II). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(2)(D), substituted “Head Start programs and migrant and seasonal” for “and migrant”.
 
-    Subsec. (a)(4). [Pub. L. 105–285, § 106(a)(3)(C)][/us/pl/105/285/s106/a/3/C], inserted concluding provisions.
+    Subsec. (a)(4). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(3)(C), inserted concluding provisions.
 
-    Subsec. (a)(4)(A). [Pub. L. 105–285, § 106(a)(3)(A)][/us/pl/105/285/s106/a/3/A], substituted “1998” for “1981”.
+    Subsec. (a)(4)(A). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(3)(A), substituted “1998” for “1981”.
 
-    Subsec. (a)(4)(B). [Pub. L. 105–285, § 106(a)(3)(B)][/us/pl/105/285/s106/a/3/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+    Subsec. (a)(4)(B). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(3)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
     “(B)(i) 33⅓ percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
 
     “(ii) 66⅔ percent of such amount shall be distributed on the basis of the relative number of children from birth through 5 years of age living with families with incomes below the poverty line in each State as compared to all States.”
 
-    Subsec. (a)(5)(A). [Pub. L. 105–285, § 106(a)(4)(A)][/us/pl/105/285/s106/a/4/A], substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
+    Subsec. (a)(5)(A). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(4)(A), substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
 
-    Subsec. (a)(5)(B). [Pub. L. 105–285, § 106(a)(4)(B)][/us/pl/105/285/s106/a/4/B], inserted before period at end “and to encourage Head Start agencies to collaborate with entities involved in State and local planning processes (including the State lead agency administering the financial assistance received under subchapter II–B of this chapter and the entities providing resource and referral services in the State) in order to better meet the needs of low-income children and families”.
+    Subsec. (a)(5)(B). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(4)(B), inserted before period at end “and to encourage Head Start agencies to collaborate with entities involved in State and local planning processes (including the State lead agency administering the financial assistance received under subchapter II–B of this chapter and the entities providing resource and referral services in the State) in order to better meet the needs of low-income children and families”.
 
-    Subsec. (a)(5)(C)(i)(I). [Pub. L. 105–285, § 106(a)(4)(C)(i)][/us/pl/105/285/s106/a/4/C/i], inserted “the appropriate regional office of the Administration for Children and Families and” before “agencies”.
+    Subsec. (a)(5)(C)(i)(I). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(4)(C)(i), inserted “the appropriate regional office of the Administration for Children and Families and” before “agencies”.
 
-    Subsec. (a)(5)(C)(iii). [Pub. L. 105–285, § 106(a)(4)(C)(ii)][/us/pl/105/285/s106/a/4/C/ii], struck out “and” at end.
+    Subsec. (a)(5)(C)(iii). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(4)(C)(ii), struck out “and” at end.
 
-    Subsec. (a)(5)(C)(iv). [Pub. L. 105–285, § 106(a)(4)(C)(iii)][/us/pl/105/285/s106/a/4/C/iii], substituted “education, and community service activities,” for “education, and national service activities,”, “activities” for “and activities” before “relating to children with disabilities”, and “(including coordination of services with those State officials who are responsible for administering part C and section 619 of the Individuals with Disabilities Education Act ([20 U.S.C. 1431–144][/us/usc/t20/s1431–144]5, 1419)), and services for homeless children;” for period at end.
+    Subsec. (a)(5)(C)(iv). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(4)(C)(iii), substituted “education, and community service activities,” for “education, and national service activities,”, “activities” for “and activities” before “relating to children with disabilities”, and “(including coordination of services with those State officials who are responsible for administering part C and section 619 of the Individuals with Disabilities Education Act ([20 U.S.C. 1431–144][/us/usc/t20/s1431–144]5, 1419)), and services for homeless children;” for period at end.
 
-    Subsec. (a)(5)(C)(v), (vi). [Pub. L. 105–285, § 106(a)(4)(C)(iv)][/us/pl/105/285/s106/a/4/C/iv], added cls. (v) and (vi).
+    Subsec. (a)(5)(C)(v), (vi). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(4)(C)(iv), added cls. (v) and (vi).
 
-    Subsec. (a)(5)(D) to (F). [Pub. L. 105–285, § 106(a)(4)(D)][/us/pl/105/285/s106/a/4/D], (E), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+    Subsec. (a)(5)(D) to (F). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(4)(D), (E), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
-    Subsec. (a)(6). [Pub. L. 105–285, § 106(a)(5)][/us/pl/105/285/s106/a/5], designated existing provisions as subpar. (A), substituted “7.5 percent for fiscal year 1999, 8 percent for fiscal year 2000, 9 percent for fiscal year 2001, 10 percent for fiscal year 2002, and 10 percent for fiscal year 2003, of the amount appropriated pursuant to [section 9834(a) of this title][/us/usc/t42/s9834/a], except as provided in subparagraph (B).” for “3 percent for fiscal year 1995, 4 percent for each of fiscal years 1996 and 1997, and 5 percent for fiscal year 1998, of the amount appropriated pursuant to [section 9834(a) of this title][/us/usc/t42/s9834/a].”, and added subpars. (B) and (C).
+    Subsec. (a)(6). [Pub. L. 105–285][/us/pl/105/285], § 106(a)(5), designated existing provisions as subpar. (A), substituted “7.5 percent for fiscal year 1999, 8 percent for fiscal year 2000, 9 percent for fiscal year 2001, 10 percent for fiscal year 2002, and 10 percent for fiscal year 2003, of the amount appropriated pursuant to [section 9834(a) of this title][/us/usc/t42/s9834/a], except as provided in subparagraph (B).” for “3 percent for fiscal year 1995, 4 percent for each of fiscal years 1996 and 1997, and 5 percent for fiscal year 1998, of the amount appropriated pursuant to [section 9834(a) of this title][/us/usc/t42/s9834/a].”, and added subpars. (B) and (C).
 
-    Subsec. (d). [Pub. L. 105–285, § 106(b)(2)][/us/pl/105/285/s106/b/2], which directed striking out “(as defined in [section 1401(a) of title 20][/us/usc/t20/s1401/a])”, was executed by striking out “(as defined in [section 1401(a)(1) of title 20][/us/usc/t20/s1401/a/1])” after “children with disabilities” to reflect the probable intent of Congress.
+    Subsec. (d). [Pub. L. 105–285][/us/pl/105/285], § 106(b)(2), which directed striking out “(as defined in [section 1401(a) of title 20][/us/usc/t20/s1401/a])”, was executed by striking out “(as defined in [section 1401(a)(1) of title 20][/us/usc/t20/s1401/a/1])” after “children with disabilities” to reflect the probable intent of Congress.
 
-    [Pub. L. 105–285, § 106(b)(1)][/us/pl/105/285/s106/b/1], (3), substituted “1999” for “1982” and inserted at end “Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419).”.
+    [Pub. L. 105–285][/us/pl/105/285], § 106(b)(1), (3), substituted “1999” for “1982” and inserted at end “Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419).”.
 
-    Subsec. (g)(2)(A). [Pub. L. 105–285, § 106(c)(1)(A)][/us/pl/105/285/s106/c/1/A], inserted before semicolon at end “, and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter)”.
+    Subsec. (g)(2)(A). [Pub. L. 105–285][/us/pl/105/285], § 106(c)(1)(A), inserted before semicolon at end “, and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter)”.
 
-    Subsec. (g)(2)(C). [Pub. L. 105–285, § 106(c)(1)(B)][/us/pl/105/285/s106/c/1/B], inserted “, and organizations and public entities serving children with disabilities” before semicolon at end.
+    Subsec. (g)(2)(C). [Pub. L. 105–285][/us/pl/105/285], § 106(c)(1)(B), inserted “, and organizations and public entities serving children with disabilities” before semicolon at end.
 
-    Subsec. (g)(2)(D). [Pub. L. 105–285, § 106(c)(1)(C)][/us/pl/105/285/s106/c/1/C], inserted before semicolon at end “and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services”.
+    Subsec. (g)(2)(D). [Pub. L. 105–285][/us/pl/105/285], § 106(c)(1)(C), inserted before semicolon at end “and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services”.
 
-    Subsec. (g)(2)(E). [Pub. L. 105–285, § 106(c)(1)(D)][/us/pl/105/285/s106/c/1/D], substituted “program or any other early childhood program;” for “program; and”.
+    Subsec. (g)(2)(E). [Pub. L. 105–285][/us/pl/105/285], § 106(c)(1)(D), substituted “program or any other early childhood program;” for “program; and”.
 
-    Subsec. (g)(2)(G), (H). [Pub. L. 105–285, § 106(c)(1)(E)][/us/pl/105/285/s106/c/1/E], (F), added subpars. (G) and (H).
+    Subsec. (g)(2)(G), (H). [Pub. L. 105–285][/us/pl/105/285], § 106(c)(1)(E), (F), added subpars. (G) and (H).
 
-    Subsec. (g)(4). [Pub. L. 105–285, § 106(c)(2)][/us/pl/105/285/s106/c/2], added par. (4).
+    Subsec. (g)(4). [Pub. L. 105–285][/us/pl/105/285], § 106(c)(2), added par. (4).
 
-    Subsec. (l). [Pub. L. 105–285, § 106(d)][/us/pl/105/285/s106/d], designated existing provisions as par. (1), substituted “migrant and seasonal Head Start programs” for “migrant Head Start programs” in two places and “migrant and seasonal farmworker families” for “migrant families”, and added pars. (2) and (3).
+    Subsec. (l). [Pub. L. 105–285][/us/pl/105/285], § 106(d), designated existing provisions as par. (1), substituted “migrant and seasonal Head Start programs” for “migrant Head Start programs” in two places and “migrant and seasonal farmworker families” for “migrant families”, and added pars. (2) and (3).
 
     1996—Subsec. (a)(4)(B)(i). [Pub. L. 104–193][/us/pl/104/193] substituted “State program of assistance funded” for “program of aid to families with dependent children under a State plan approved”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–252, § 105(b)(1)][/us/pl/103/252/s105/b/1], substituted “through (4), and subject to paragraphs (5) and (6)” for “through (5)”.
+    1994—Subsec. (a)(1). [Pub. L. 103–252][/us/pl/103/252], § 105(b)(1), substituted “through (4), and subject to paragraphs (5) and (6)” for “through (5)”.
 
-    Subsec. (a)(2)(A). [Pub. L. 103–252, § 105(b)(2)(A)][/us/pl/103/252/s105/b/2/A], substituted “1994” for “1990”.
+    Subsec. (a)(2)(A). [Pub. L. 103–252][/us/pl/103/252], § 105(b)(2)(A), substituted “1994” for “1990”.
 
-    Subsec. (a)(2)(D). [Pub. L. 103–252, § 105(b)(2)(B)][/us/pl/103/252/s105/b/2/B], inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under [section 9836a(c) of this title][/us/usc/t42/s9836a/c], and of activities related to the development and implementation of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2])” after “Secretary”.
+    Subsec. (a)(2)(D). [Pub. L. 103–252][/us/pl/103/252], § 105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under [section 9836a(c) of this title][/us/usc/t42/s9836a/c], and of activities related to the development and implementation of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2])” after “Secretary”.
 
-    Subsec. (a)(3)(A), (B). [Pub. L. 103–252, § 105(a)(2)][/us/pl/103/252/s105/a/2], added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
+    Subsec. (a)(3)(A), (B). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
-    Subsec. (a)(3)(C). [Pub. L. 103–252, § 105(a)(1)][/us/pl/103/252/s105/a/1]–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under [section 9834(a) of this title][/us/usc/t42/s9834/a] exceeds the adjusted appropriation, the Secretary shall reserve the quality improvement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
+    Subsec. (a)(3)(C). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under [section 9834(a) of this title][/us/usc/t42/s9834/a] exceeds the adjusted appropriation, the Secretary shall reserve the quality improvement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
 
-    Subsec. (a)(3)(D). [Pub. L. 103–252, § 105(a)(1)][/us/pl/103/252/s105/a/1], redesignated subpar. (B) as (D).
+    Subsec. (a)(3)(D). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(1), redesignated subpar. (B) as (D).
 
-    Subsec. (a)(3)(D)(i). [Pub. L. 103–252, § 105(a)(4)(A)][/us/pl/103/252/s105/a/4/A], (b)(3), struck out “for the first, second, and third fiscal years for which funds are so reserved” after “subparagraph (A)” in introductory provisions, substituted “paragraph (4)” for “paragraph (5)” in subcl. (I), and inserted “geographical areas specified in subsection (a)(2)(B) of this section and Indian and migrant Head Start programs,” after “States,” in subcl. (II).
+    Subsec. (a)(3)(D)(i). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(A), (b)(3), struck out “for the first, second, and third fiscal years for which funds are so reserved” after “subparagraph (A)” in introductory provisions, substituted “paragraph (4)” for “paragraph (5)” in subcl. (I), and inserted “geographical areas specified in subsection (a)(2)(B) of this section and Indian and migrant Head Start programs,” after “States,” in subcl. (II).
 
-    Subsec. (a)(3)(D)(ii). [Pub. L. 103–252, § 105(b)(3)][/us/pl/103/252/s105/b/3], substituted “paragraph (4)” for “paragraph (5)”.
+    Subsec. (a)(3)(D)(ii). [Pub. L. 103–252][/us/pl/103/252], § 105(b)(3), substituted “paragraph (4)” for “paragraph (5)”.
 
-    [Pub. L. 103–252, § 105(a)(4)(B)][/us/pl/103/252/s105/a/4/B], (E), redesignated cl. (iv) as (ii) and struck out former cl. (ii) which read as follows: “Funds reserved under subparagraph (A) for any fiscal year subsequent to the third fiscal year for which funds are so reserved shall be allotted by the Secretary among the States in the same proportion as the Secretary allots funds among the States under paragraph (5) for the respective subsequent fiscal year.”
+    [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(B), (E), redesignated cl. (iv) as (ii) and struck out former cl. (ii) which read as follows: “Funds reserved under subparagraph (A) for any fiscal year subsequent to the third fiscal year for which funds are so reserved shall be allotted by the Secretary among the States in the same proportion as the Secretary allots funds among the States under paragraph (5) for the respective subsequent fiscal year.”
 
-    Subsec. (a)(3)(D)(iii). [Pub. L. 103–252, § 105(a)(4)(B)][/us/pl/103/252/s105/a/4/B], (E), redesignated cl. (vi) as (iii) and struck out former cl. (iii) which read as follows: “To be expended for the activities specified in subparagraph (A) in the first fiscal, second, and third fiscal years for which funds are required by such subparagraph to be reserved, funds allotted under clause (i)(I) shall be used by the Secretary to make a grant to each Head Start agency that receives a grant from funds allotted under paragraph (5) for such fiscal year, in the amount that bears the same ratio to the amount allotted under clause (i)(I) for such fiscal year for the State in which such agency is located as the number of children participating in the Head Start program of such agency in such fiscal year bears to the number of children participating in all Head Start programs in such State in such fiscal year.”
+    Subsec. (a)(3)(D)(iii). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(B), (E), redesignated cl. (vi) as (iii) and struck out former cl. (iii) which read as follows: “To be expended for the activities specified in subparagraph (A) in the first fiscal, second, and third fiscal years for which funds are required by such subparagraph to be reserved, funds allotted under clause (i)(I) shall be used by the Secretary to make a grant to each Head Start agency that receives a grant from funds allotted under paragraph (5) for such fiscal year, in the amount that bears the same ratio to the amount allotted under clause (i)(I) for such fiscal year for the State in which such agency is located as the number of children participating in the Head Start program of such agency in such fiscal year bears to the number of children participating in all Head Start programs in such State in such fiscal year.”
 
-    Subsec. (a)(3)(D)(iv). [Pub. L. 103–252, § 105(a)(4)(E)][/us/pl/103/252/s105/a/4/E], redesignated cl. (iv) as (ii).
+    Subsec. (a)(3)(D)(iv). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(E), redesignated cl. (iv) as (ii).
 
-    [Pub. L. 103–252, § 105(a)(4)(C)][/us/pl/103/252/s105/a/4/C], substituted “Funds” for “To be expended for the activities specified in subparagraph (A) in each subsequent fiscal year for which funds are required by such subparagraph to be reserved, funds” and “clause (i)” for “clause (ii)”, inserted “, for expenditure for activities specified in subparagraph (C)”, and struck out at end “The aggregate amount of grants made under this clause to Head Start agencies in a State for a fiscal year may not exceed the amount allotted under clause (ii) for such State for such fiscal year.”
+    [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(C), substituted “Funds” for “To be expended for the activities specified in subparagraph (A) in each subsequent fiscal year for which funds are required by such subparagraph to be reserved, funds” and “clause (i)” for “clause (ii)”, inserted “, for expenditure for activities specified in subparagraph (C)”, and struck out at end “The aggregate amount of grants made under this clause to Head Start agencies in a State for a fiscal year may not exceed the amount allotted under clause (ii) for such State for such fiscal year.”
 
-    Subsec. (a)(3)(D)(v). [Pub. L. 103–252, § 105(a)(4)(E)][/us/pl/103/252/s105/a/4/E], struck out cl. (v) which read as follows: “If a Head Start agency certifies for such fiscal year to the Secretary that it does not need any funds under subparagraph (A), or does not need part of such funds it would otherwise receive under clause (iii) or (iv), then unneeded funds shall be used by the Secretary to make grants under this subparagraph without regard to such agency.”
+    Subsec. (a)(3)(D)(v). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(E), struck out cl. (v) which read as follows: “If a Head Start agency certifies for such fiscal year to the Secretary that it does not need any funds under subparagraph (A), or does not need part of such funds it would otherwise receive under clause (iii) or (iv), then unneeded funds shall be used by the Secretary to make grants under this subparagraph without regard to such agency.”
 
-    Subsec. (a)(3)(D)(vi). [Pub. L. 103–252, § 105(a)(4)(E)][/us/pl/103/252/s105/a/4/E], redesignated cl. (vi) as (iii).
+    Subsec. (a)(3)(D)(vi). [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(E), redesignated cl. (vi) as (iii).
 
-    [Pub. L. 103–252, § 105(a)(4)(D)][/us/pl/103/252/s105/a/4/D], substituted “paragraph (2) or (4)” for “paragraphs (2), (4), and (5)”.
+    [Pub. L. 103–252][/us/pl/103/252], § 105(a)(4)(D), substituted “paragraph (2) or (4)” for “paragraphs (2), (4), and (5)”.
 
-    Subsec. (a)(4). [Pub. L. 103–252, § 105(b)(4)][/us/pl/103/252/s105/b/4], (5), redesignated par. (5) as (4), substituted “Subject to [section 9834(b) of this title][/us/usc/t42/s9834/b], the Secretary” for “The Secretary”, and struck out former par. (4), which related to Secretary reserving sums for grants to carry out early childhood intervention programs, known as “Parent-Child Centers”.
+    Subsec. (a)(4). [Pub. L. 103–252][/us/pl/103/252], § 105(b)(4), (5), redesignated par. (5) as (4), substituted “Subject to [section 9834(b) of this title][/us/usc/t42/s9834/b], the Secretary” for “The Secretary”, and struck out former par. (4), which related to Secretary reserving sums for grants to carry out early childhood intervention programs, known as “Parent-Child Centers”.
 
-    Subsec. (a)(5), (6). [Pub. L. 103–252, § 105(b)(6)][/us/pl/103/252/s105/b/6], added pars. (5) and (6). Former pars. (5) and (6) redesignated (4) and (7), respectively.
+    Subsec. (a)(5), (6). [Pub. L. 103–252][/us/pl/103/252], § 105(b)(6), added pars. (5) and (6). Former pars. (5) and (6) redesignated (4) and (7), respectively.
 
-    Subsec. (a)(7). [Pub. L. 103–252, § 105(b)(4)][/us/pl/103/252/s105/b/4], redesignated par. (6) as (7).
+    Subsec. (a)(7). [Pub. L. 103–252][/us/pl/103/252], § 105(b)(4), redesignated par. (6) as (7).
 
-    Subsec. (g). [Pub. L. 103–252, § 105(c)][/us/pl/103/252/s105/c], designated existing provisions as par. (1) and added pars. (2) and (3).
+    Subsec. (g). [Pub. L. 103–252][/us/pl/103/252], § 105(c), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (h). [Pub. L. 103–252, § 105(d)][/us/pl/103/252/s105/d], substituted “Financial assistance provided under this subchapter may be used by each Head Start program to” for “Each Head Start program may”.
+    Subsec. (h). [Pub. L. 103–252][/us/pl/103/252], § 105(d), substituted “Financial assistance provided under this subchapter may be used by each Head Start program to” for “Each Head Start program may”.
 
-    Subsecs. (j) to (l). [Pub. L. 103–252, § 105(e)][/us/pl/103/252/s105/e], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 103–252][/us/pl/103/252], § 105(e), added subsecs. (j) to (l).
 
-    1992—Subsec. (a)(2)(A). [Pub. L. 102–401, § 2(k)(1)(A)(i)(I)][/us/pl/102/401/s2/k/1/A/i/I], inserted “children” after “handicapped”.
+    1992—Subsec. (a)(2)(A). [Pub. L. 102–401][/us/pl/102/401], § 2(k)(1)(A)(i)(I), inserted “children” after “handicapped”.
 
-    Subsec. (a)(2)(B). [Pub. L. 102–401, § 2(k)(1)(A)(i)(II)][/us/pl/102/401/s2/k/1/A/i/II], substituted “Commonwealth of” for “Commonwealth of,”.
+    Subsec. (a)(2)(B). [Pub. L. 102–401][/us/pl/102/401], § 2(k)(1)(A)(i)(II), substituted “Commonwealth of” for “Commonwealth of,”.
 
-    Subsec. (a)(2)(C). [Pub. L. 102–401, § 2(k)(1)(A)(i)(III)][/us/pl/102/401/s2/k/1/A/i/III], substituted “such fiscal year” for “any such fiscal year”.
+    Subsec. (a)(2)(C). [Pub. L. 102–401][/us/pl/102/401], § 2(k)(1)(A)(i)(III), substituted “such fiscal year” for “any such fiscal year”.
 
-    Subsec. (a)(3)(A)(vi). [Pub. L. 102–401, § 2(k)(1)(A)(ii)][/us/pl/102/401/s2/k/1/A/ii], substituted “paragraph (2)(C)” for “subsection (a)(2)(C) of this section”.
+    Subsec. (a)(3)(A)(vi). [Pub. L. 102–401][/us/pl/102/401], § 2(k)(1)(A)(ii), substituted “paragraph (2)(C)” for “subsection (a)(2)(C) of this section”.
 
-    Subsec. (a)(3)(B)(i). [Pub. L. 102–401, § 2(a)(1)][/us/pl/102/401/s2/a/1], substituted “, second, and third” for “and second”.
+    Subsec. (a)(3)(B)(i). [Pub. L. 102–401][/us/pl/102/401], § 2(a)(1), substituted “, second, and third” for “and second”.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 102–401, § 2(a)(2)][/us/pl/102/401/s2/a/2], substituted “third” for “second”.
+    Subsec. (a)(3)(B)(ii). [Pub. L. 102–401][/us/pl/102/401], § 2(a)(2), substituted “third” for “second”.
 
-    Subsec. (a)(3)(B)(iii). [Pub. L. 102–401, § 2(a)(1)][/us/pl/102/401/s2/a/1], substituted “, second, and third” for “and second”.
+    Subsec. (a)(3)(B)(iii). [Pub. L. 102–401][/us/pl/102/401], § 2(a)(1), substituted “, second, and third” for “and second”.
 
-    Subsec. (a)(4)(B)(i)(II). [Pub. L. 102–401, § 2(b)][/us/pl/102/401/s2/b], inserted “, literacy,” after “skills”.
+    Subsec. (a)(4)(B)(i)(II). [Pub. L. 102–401][/us/pl/102/401], § 2(b), inserted “, literacy,” after “skills”.
 
-    Subsec. (a)(5)(B)(i). [Pub. L. 102–401, § 2(k)(1)(A)(iii)][/us/pl/102/401/s2/k/1/A/iii], substituted “subparagraph (A)” for “clause (A)”.
+    Subsec. (a)(5)(B)(i). [Pub. L. 102–401][/us/pl/102/401], § 2(k)(1)(A)(iii), substituted “subparagraph (A)” for “clause (A)”.
 
-    Subsec. (b). [Pub. L. 102–401, § 2(c)][/us/pl/102/401/s2/c], struck out “, in accordance with regulations establishing objective criteria,” after “if the Secretary determines” and inserted after first sentence “For the purpose of making such determination, the Secretary shall take into consideration with respect to the Head Start program involved—” and cls. (1) to (5).
+    Subsec. (b). [Pub. L. 102–401][/us/pl/102/401], § 2(c), struck out “, in accordance with regulations establishing objective criteria,” after “if the Secretary determines” and inserted after first sentence “For the purpose of making such determination, the Secretary shall take into consideration with respect to the Head Start program involved—” and cls. (1) to (5).
 
-    Subsec. (g). [Pub. L. 102–401, § 2(k)(1)(B)][/us/pl/102/401/s2/k/1/B], substituted “Price Index For All” for “Price Index for all”.
+    Subsec. (g). [Pub. L. 102–401][/us/pl/102/401], § 2(k)(1)(B), substituted “Price Index For All” for “Price Index for all”.
 
-    Subsec. (i). [Pub. L. 102–401, § 2(d)][/us/pl/102/401/s2/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–401][/us/pl/102/401], § 2(d), added subsec. (i).
 
     1991—Subsec. (d). [Pub. L. 102–119][/us/pl/102/119] substituted “[section 1401(a)(1) of title 20][/us/usc/t20/s1401/a/1]” for “paragraph (1) of [section 1401 of title 20][/us/usc/t20/s1401]”. The references to [section 1401 of title 20][/us/usc/t20/s1401] include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–501, § 104(a)(1)][/us/pl/101/501/s104/a/1], substituted “through (5)” for “and (3)”.
+    1990—Subsec. (a)(1). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(1), substituted “through (5)” for “and (3)”.
 
-    Subsec. (a)(2). [Pub. L. 101–501, § 104(a)(2)(D)][/us/pl/101/501/s104/a/2/D], (E), struck out before last sentence “The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984.” and inserted “or paragraph (3)” after “under this paragraph” in last sentence.
+    Subsec. (a)(2). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(2)(D), (E), struck out before last sentence “The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984.” and inserted “or paragraph (3)” after “under this paragraph” in last sentence.
 
-    Subsec. (a)(2)(A). [Pub. L. 101–501, § 104(a)(2)(A)][/us/pl/101/501/s104/a/2/A], substituted “, except that there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1990” for “children, except that there shall be made available for use by Indian and migrant Head Start programs, on a nationwide basis, no less funds for fiscal year 1987 and each subsequent fiscal year than were obligated for use by Indian and migrant Head Start programs for fiscal year 1985”.
+    Subsec. (a)(2)(A). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(2)(A), substituted “, except that there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1990” for “children, except that there shall be made available for use by Indian and migrant Head Start programs, on a nationwide basis, no less funds for fiscal year 1987 and each subsequent fiscal year than were obligated for use by Indian and migrant Head Start programs for fiscal year 1985”.
 
-    Subsec. (a)(2)(B). [Pub. L. 101–501, § 104(a)(2)(B)][/us/pl/101/501/s104/a/2/B], substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of” for “the Trust Territory of the Pacific Islands”.
+    Subsec. (a)(2)(B). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(2)(B), substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of” for “the Trust Territory of the Pacific Islands”.
 
-    Subsec. (a)(2)(C). [Pub. L. 101–501, § 104(a)(2)(C)][/us/pl/101/501/s104/a/2/C], substituted “2 percent of the amount appropriated for any such fiscal year” for “the amount expended for training and technical assistance activities under this clause for fiscal year 1982”.
+    Subsec. (a)(2)(C). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(2)(C), substituted “2 percent of the amount appropriated for any such fiscal year” for “the amount expended for training and technical assistance activities under this clause for fiscal year 1982”.
 
-    Subsec. (a)(3), (4). [Pub. L. 101–501, § 104(a)(5)][/us/pl/101/501/s104/a/5], added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
+    Subsec. (a)(3), (4). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(5), added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
 
-    Subsec. (a)(5). [Pub. L. 101–501, § 104(a)(3)][/us/pl/101/501/s104/a/3], (4), redesignated par. (3) as (5) and struck out “87 percent of the” after “allot the remaining”.
+    Subsec. (a)(5). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(3), (4), redesignated par. (3) as (5) and struck out “87 percent of the” after “allot the remaining”.
 
-    Subsec. (a)(6). [Pub. L. 101–501, § 104(a)(4)][/us/pl/101/501/s104/a/4], (6), redesignated par. (4) as (6), inserted “the Commonwealth of” before “the Northern Mariana”, and substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, and Palau” for “or the Trust Territory of the Pacific Islands”.
+    Subsec. (a)(6). [Pub. L. 101–501][/us/pl/101/501], § 104(a)(4), (6), redesignated par. (4) as (6), inserted “the Commonwealth of” before “the Northern Mariana”, and substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, and Palau” for “or the Trust Territory of the Pacific Islands”.
 
-    Subsec. (d). [Pub. L. 101–501, § 105(1)][/us/pl/101/501/s105/1], struck out sentence at end requiring Secretary to report to Congress at least annually on status of children with disabilities in Head Start programs.
+    Subsec. (d). [Pub. L. 101–501][/us/pl/101/501], § 105(1), struck out sentence at end requiring Secretary to report to Congress at least annually on status of children with disabilities in Head Start programs.
 
-    [Pub. L. 101–476, § 901(d)][/us/pl/101/476/s901/d], substituted “children with disabilities” for “handicapped children” in two places and substituted “disabling” for “handicapping”.
+    [Pub. L. 101–476][/us/pl/101/476], § 901(d), substituted “children with disabilities” for “handicapped children” in two places and substituted “disabling” for “handicapping”.
 
-    Subsecs. (f), (g). [Pub. L. 101–501, § 105(2)][/us/pl/101/501/s105/2], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 101–501][/us/pl/101/501], § 105(2), added subsecs. (f) and (g).
 
-    Subsec. (h). [Pub. L. 101–501, § 123(b)][/us/pl/101/501/s123/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–501][/us/pl/101/501], § 123(b), added subsec. (h).
 
     1986—Subsec. (a)(2)(A). [Pub. L. 99–425][/us/pl/99/425], in amending cl. (A) generally, designated existing subcl. (i) as all of cl. (A), substituted “1987” for “1982” and “1985” for “1981”, and struck out subcl. (ii) relating to cost-of-living adjustments.
 
@@ -671,7 +671,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–401, § 4][/us/pl/102/401/s4], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959], provided that:
+[Pub. L. 102–401][/us/pl/102/401], § 4, Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959], provided that:
 
 >     “(a)  __Effective Dates__  __.—__ 
 
@@ -729,29 +729,29 @@
 [/us/usc/t42/s9840/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1
 [/us/usc/t42/s11431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11431
 [/us/usc/t20/s1412/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F3
-[/us/pl/97/35/s640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs640
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
-[/us/pl/98/558/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs103
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2878
-[/us/pl/99/425/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs102
+[/us/pl/99/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtI
 [/us/stat/100/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F966
-[/us/pl/101/476/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fd
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1151
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtI
 [/us/stat/104/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1224
-[/us/pl/102/119/s26/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs26%2Fg
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/102/401/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fa
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1956
-[/us/pl/103/252/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F626
-[/us/pl/104/193/s110/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Ft
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2175
-[/us/pl/105/285/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2705-2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2705-2711
-[/us/pl/108/446/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
-[/us/pl/110/134/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1367
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
@@ -762,129 +762,129 @@
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
-[/us/pl/110/134/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fa
-[/us/pl/110/134/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fb
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t20/s1431–144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431%E2%80%93144
-[/us/pl/110/134/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fc
-[/us/pl/110/134/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F1
-[/us/pl/110/134/s6/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F3
-[/us/pl/110/134/s6/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F2%2FA
-[/us/pl/110/134/s6/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F2%2FB
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t42/s9836a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa%2F1
-[/us/pl/110/134/s6/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F2%2FC
-[/us/pl/110/134/s6/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F2%2FD
-[/us/pl/110/134/s6/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F2%2FE
-[/us/pl/110/134/s6/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F2%2FF
-[/us/pl/110/134/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fd%2F1
-[/us/pl/110/134/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fe
-[/us/pl/110/134/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Ff%2F1
-[/us/pl/110/134/s6/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Ff%2F2
-[/us/pl/110/134/s6/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Ff%2F3
-[/us/pl/110/134/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs6%2Fg
-[/us/pl/108/446/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305
-[/us/pl/108/446/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305
-[/us/pl/105/285/s106/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F1%2FF
-[/us/pl/105/285/s106/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F1%2FA
-[/us/pl/105/285/s106/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F1%2FB
-[/us/pl/105/285/s106/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F1%2FC
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9843/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9843%2Fc%2F4
-[/us/pl/105/285/s106/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F1%2FD
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9836a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fd
 [/us/usc/t42/s9836a/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fd%2F2
 [/us/usc/t42/s9836a/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fd%2F2
-[/us/pl/105/285/s106/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F1%2FE
-[/us/pl/105/285/s106/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FA
-[/us/pl/105/285/s106/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FB%2Fi
-[/us/pl/105/285/s106/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FB%2Fii
-[/us/pl/105/285/s106/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FB%2Fiii
-[/us/pl/105/285/s106/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FB%2Fiv
-[/us/pl/105/285/s106/a/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FB%2Fv
-[/us/pl/105/285/s106/a/2/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FC%2Fi%2FI
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9843a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9843a%2Fa
-[/us/pl/105/285/s106/a/2/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FC%2Fi%2FII
-[/us/pl/105/285/s106/a/2/C/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FC%2Fi%2FIII
-[/us/pl/105/285/s106/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FC%2Fii
-[/us/pl/105/285/s106/a/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FC%2Fiii
-[/us/pl/105/285/s106/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F2%2FD
-[/us/pl/105/285/s106/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F3%2FC
-[/us/pl/105/285/s106/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F3%2FA
-[/us/pl/105/285/s106/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F3%2FB
-[/us/pl/105/285/s106/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F4%2FA
-[/us/pl/105/285/s106/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F4%2FB
-[/us/pl/105/285/s106/a/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F4%2FC%2Fi
-[/us/pl/105/285/s106/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F4%2FC%2Fii
-[/us/pl/105/285/s106/a/4/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F4%2FC%2Fiii
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t20/s1431–144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431%E2%80%93144
-[/us/pl/105/285/s106/a/4/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F4%2FC%2Fiv
-[/us/pl/105/285/s106/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F4%2FD
-[/us/pl/105/285/s106/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fa%2F5
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9834%2Fa
 [/us/usc/t42/s9834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9834%2Fa
-[/us/pl/105/285/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fb%2F2
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t20/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401%2Fa
 [/us/usc/t20/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401%2Fa%2F1
-[/us/pl/105/285/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fb%2F1
-[/us/pl/105/285/s106/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fc%2F1%2FA
-[/us/pl/105/285/s106/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fc%2F1%2FB
-[/us/pl/105/285/s106/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fc%2F1%2FC
-[/us/pl/105/285/s106/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fc%2F1%2FD
-[/us/pl/105/285/s106/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fc%2F1%2FE
-[/us/pl/105/285/s106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fc%2F2
-[/us/pl/105/285/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fd
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/103/252/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fb%2F1
-[/us/pl/103/252/s105/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fb%2F2%2FA
-[/us/pl/103/252/s105/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fb%2F2%2FB
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9836a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc
 [/us/usc/t42/s9836a/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fd%2F2
-[/us/pl/103/252/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F2
-[/us/pl/103/252/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F1
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9834%2Fa
-[/us/pl/103/252/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F1
-[/us/pl/103/252/s105/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FA
-[/us/pl/103/252/s105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fb%2F3
-[/us/pl/103/252/s105/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FB
-[/us/pl/103/252/s105/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FB
-[/us/pl/103/252/s105/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FE
-[/us/pl/103/252/s105/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FC
-[/us/pl/103/252/s105/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FE
-[/us/pl/103/252/s105/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FE
-[/us/pl/103/252/s105/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fa%2F4%2FD
-[/us/pl/103/252/s105/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fb%2F4
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9834%2Fb
-[/us/pl/103/252/s105/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fb%2F6
-[/us/pl/103/252/s105/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fb%2F4
-[/us/pl/103/252/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fc
-[/us/pl/103/252/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fd
-[/us/pl/103/252/s105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs105%2Fe
-[/us/pl/102/401/s2/k/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F1%2FA%2Fi%2FI
-[/us/pl/102/401/s2/k/1/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F1%2FA%2Fi%2FII
-[/us/pl/102/401/s2/k/1/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F1%2FA%2Fi%2FIII
-[/us/pl/102/401/s2/k/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F1%2FA%2Fii
-[/us/pl/102/401/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fa%2F1
-[/us/pl/102/401/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fa%2F2
-[/us/pl/102/401/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fa%2F1
-[/us/pl/102/401/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fb
-[/us/pl/102/401/s2/k/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F1%2FA%2Fiii
-[/us/pl/102/401/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fc
-[/us/pl/102/401/s2/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F1%2FB
-[/us/pl/102/401/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fd
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/usc/t20/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401%2Fa%2F1
 [/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
 [/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
-[/us/pl/101/501/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F1
-[/us/pl/101/501/s104/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F2%2FD
-[/us/pl/101/501/s104/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F2%2FA
-[/us/pl/101/501/s104/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F2%2FB
-[/us/pl/101/501/s104/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F2%2FC
-[/us/pl/101/501/s104/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F5
-[/us/pl/101/501/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F3
-[/us/pl/101/501/s104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fa%2F4
-[/us/pl/101/501/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs105%2F1
-[/us/pl/101/476/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fd
-[/us/pl/101/501/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs105%2F2
-[/us/pl/101/501/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs123%2Fb
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
 [/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/usc/t42/s9843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9843
@@ -895,7 +895,7 @@
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
 [/us/usc/t42/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9832
-[/us/pl/102/401/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs4
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
 [/us/usc/t42/s9836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836
 [/us/usc/t42/s9836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836

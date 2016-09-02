@@ -17,7 +17,7 @@
 
     Documents originating in any other Convention country and related to a Convention adoption case shall require no authentication in order to be admissible in any Federal, State, or local court in the United States, unless a specific and supported claim is made that the documents are false, have been altered, or are otherwise unreliable.
 
-([Pub. L. 106–279, title IV, § 402][/us/pl/106/279/s402], Oct. 6, 2000, [114 Stat. 841][/us/stat/114/841].)
+([Pub. L. 106–279, title IV][/us/pl/106/279/tIV], § 402, Oct. 6, 2000, [114 Stat. 841][/us/stat/114/841].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/279/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs402
+[/us/pl/106/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtIV
 [/us/stat/114/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F841
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901

@@ -35,21 +35,21 @@
 
         The Assistant Attorney General shall submit an annual report to the President and to the Congress not later than March 31 of each year.
 
-([Pub. L. 90–351, title I, § 102][/us/pl/90/351/s102], as added [Pub. L. 98–473, title II, § 603(a)][/us/pl/98/473/s603/a], Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078]; amended [Pub. L. 107–296, title II, § 236][/us/pl/107/296/s236], Nov. 25, 2002, [116 Stat. 2162][/us/stat/116/2162]; [Pub. L. 109–162, title XI, § 1152][/us/pl/109/162/s1152], Jan. 5, 2006, [119 Stat. 3113][/us/stat/119/3113].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 102, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 603(a), Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078]; amended [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 236, Nov. 25, 2002, [116 Stat. 2162][/us/stat/116/2162]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1152, Jan. 5, 2006, [119 Stat. 3113][/us/stat/119/3113].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a)(6), was in the original “this title”, meaning title I of [Pub. L. 90–351][/us/pl/90/351], as added by [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1167][/us/stat/93/1167], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+    This chapter, referred to in subsec. (a)(6), was in the original “this title”, meaning title I of [Pub. L. 90–351][/us/pl/90/351], as added by [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1167][/us/stat/93/1167], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
  __Prior Provisions__ 
 
-    A prior section 3712, [Pub. L. 90–351, title I, § 102][/us/pl/90/351/s102], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1170][/us/stat/93/1170], described duties and functions of Administrator of Law Enforcement Assistance Administration, prior to the general amendment of this subchapter by [Pub. L. 98–473][/us/pl/98/473].
+    A prior section 3712, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 102, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1170][/us/stat/93/1170], described duties and functions of Administrator of Law Enforcement Assistance Administration, prior to the general amendment of this subchapter by [Pub. L. 98–473][/us/pl/98/473].
 
  __Amendments__ 
 
-    2006—Subsec. (a)(5). [Pub. L. 109–162, § 1152(a)][/us/pl/109/162/s1152/a], inserted “the Office for Victims of Crime,” after “the Bureau of Justice Statistics,”.
+    2006—Subsec. (a)(5). [Pub. L. 109–162][/us/pl/109/162], § 1152(a), inserted “the Office for Victims of Crime,” after “the Bureau of Justice Statistics,”.
 
-    Subsec. (a)(6). [Pub. L. 109–162, § 1152(b)][/us/pl/109/162/s1152/b], inserted “, including placing special conditions on all grants, and determining priority purposes for formula grants” before period at end.
+    Subsec. (a)(6). [Pub. L. 109–162][/us/pl/109/162], § 1152(b), inserted “, including placing special conditions on all grants, and determining priority purposes for formula grants” before period at end.
 
     2002—Subsec. (a)(5). [Pub. L. 107–296][/us/pl/107/296] inserted “coordinate and” before “provide”.
 
@@ -68,22 +68,22 @@
 ----------
 ----------
 
-[/us/pl/90/351/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs102
-[/us/pl/98/473/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs603%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2078
-[/us/pl/107/296/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs236
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2162
-[/us/pl/109/162/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1152
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3113
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1167
-[/us/pl/90/351/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs102
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1170
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/109/162/s1152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1152%2Fa
-[/us/pl/109/162/s1152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1152%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4

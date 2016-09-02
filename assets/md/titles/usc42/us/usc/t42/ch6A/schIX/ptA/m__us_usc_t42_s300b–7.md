@@ -33,7 +33,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1108, as added [Pub. L. 106–310, div. A, title XXIII, § 2301][/us/pl/106/310/s2301], Oct. 17, 2000, [114 Stat. 1157][/us/stat/114/1157].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1108, as added [Pub. L. 106–310, div. A, title XXIII][/us/pl/106/310/dA/tXXIII], § 2301, Oct. 17, 2000, [114 Stat. 1157][/us/stat/114/1157].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2301
+[/us/pl/106/310/dA/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXIII
 [/us/stat/114/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1157
 
 

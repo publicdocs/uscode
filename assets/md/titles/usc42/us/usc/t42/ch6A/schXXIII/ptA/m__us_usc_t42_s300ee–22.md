@@ -17,11 +17,11 @@
 
     The Secretary shall annually prepare a report on the activities of the States carried out pursuant to this part. Such report may include any recommendations of the Secretary for appropriate administrative and legislative initiatives. The report shall be submitted to the Congress through inclusion in the comprehensive report required in section 300cc(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2512, as added [Pub. L. 100–607, title II, § 221][/us/pl/100/607/s221], Nov. 4, 1988, [102 Stat. 3101][/us/stat/102/3101]; amended [Pub. L. 100–690, title II, § 2619(h)][/us/pl/100/690/s2619/h] \[(i)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93, § 5(e)(1)][/us/pl/101/93/s5/e/1], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2512, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 221, Nov. 4, 1988, [102 Stat. 3101][/us/stat/102/3101]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2619(h) \[(i)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93][/us/pl/101/93], § 5(e)(1), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
 
  __References in Text__ 
 
-    [Section 300cc of this title][/us/usc/t42/s300cc], referred to in text, was repealed by [Pub. L. 109–482, title I, § 104(b)(2)(C)][/us/pl/109/482/s104/b/2/C], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
+    [Section 300cc of this title][/us/usc/t42/s300cc], referred to in text, was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(2)(C), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
 
  __Prior Provisions__ 
 
@@ -43,14 +43,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs221
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3101
-[/us/pl/100/690/s2619/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fh
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4243
-[/us/pl/101/93/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
 [/us/usc/t42/s300cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc
-[/us/pl/109/482/s104/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F2%2FC
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/usc/t42/s238k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238k
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

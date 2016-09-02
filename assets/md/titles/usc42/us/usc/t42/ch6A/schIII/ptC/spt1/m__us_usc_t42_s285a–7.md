@@ -55,7 +55,7 @@
 
             (D) The Secretary shall provide a copy of the plan submitted under subparagraph (A), and any revisions submitted under subparagraph (C), to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417A, as added [Pub. L. 103–43, title IV, § 402][/us/pl/103/43/s402], June 10, 1993, [107 Stat. 155][/us/stat/107/155].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417A, as added [Pub. L. 103–43, title IV][/us/pl/103/43/tIV], § 402, June 10, 1993, [107 Stat. 155][/us/stat/107/155].)
 
  __Change of Name__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t42/s285a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285a%E2%80%932
 [/us/usc/t42/s285a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285a%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs402
+[/us/pl/103/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIV
 [/us/stat/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F155
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

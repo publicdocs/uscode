@@ -43,7 +43,7 @@
 
         The Chief Executive Officer shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
 
-([Pub. L. 101–610, title I, § 175][/us/pl/101/610/s175], Nov. 16, 1990, [104 Stat. 3161][/us/stat/104/3161]; [Pub. L. 103–82, title I, § 115][/us/pl/103/82/s115], Sept. 21, 1993, [107 Stat. 862][/us/stat/107/862].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 175, Nov. 16, 1990, [104 Stat. 3161][/us/stat/104/3161]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 115, Sept. 21, 1993, [107 Stat. 862][/us/stat/107/862].)
 
  __References in Text__ 
 
@@ -74,9 +74,9 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
-[/us/pl/101/610/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs175
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3161
-[/us/pl/103/82/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs115
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F862
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

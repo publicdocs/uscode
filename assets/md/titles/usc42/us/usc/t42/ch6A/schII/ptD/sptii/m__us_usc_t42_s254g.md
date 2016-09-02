@@ -67,7 +67,7 @@
 
             The entity shall take reasonable and appropriate steps to collect all payments due for health care services provided by the entity, including payments from any third party (including a Federal, State, or local government agency and any other third party) that is responsible for part or all of the charge for such services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 334, as added [Pub. L. 107–251, title III, § 305][/us/pl/107/251/s305], Oct. 26, 2002, [116 Stat. 1647][/us/stat/116/1647]; amended [Pub. L. 108–163, § 2(i)][/us/pl/108/163/s2/i], Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 334, as added [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 305, Oct. 26, 2002, [116 Stat. 1647][/us/stat/116/1647]; amended [Pub. L. 108–163][/us/pl/108/163], § 2(i), Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 254g, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 334, as added [Pub. L. 94–484, title IV, § 407(b)(3)][/us/pl/94/484/s407/b/3], Oct. 12, 1976, [90 Stat. 2274][/us/stat/90/2274]; amended [Pub. L. 97–35, title XXVII, § 2704][/us/pl/97/35/s2704], Aug. 13, 1981, [95 Stat. 906][/us/stat/95/906]; [Pub. L. 98–194, § 3][/us/pl/98/194/s3], Dec. 1, 1983, [97 Stat. 1345][/us/stat/97/1345]; [Pub. L. 100–177, title II, § 202(c)][/us/pl/100/177/s202/c], Dec. 1, 1987, [101 Stat. 996][/us/stat/101/996]; [Pub. L. 101–597, title I, § 105][/us/pl/101/597/s105], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3018][/us/stat/104/3018], 3035, related to shared responsibility for costs of Corps personnel providing health services in or to a health professional shortage area during the assignment period, prior to repeal by [Pub. L. 107–251, title III, § 305][/us/pl/107/251/s305], Oct. 26, 2002, [116 Stat. 1647][/us/stat/116/1647].
+    A prior section 254g, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 334, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(3), Oct. 12, 1976, [90 Stat. 2274][/us/stat/90/2274]; amended [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2704, Aug. 13, 1981, [95 Stat. 906][/us/stat/95/906]; [Pub. L. 98–194][/us/pl/98/194], § 3, Dec. 1, 1983, [97 Stat. 1345][/us/stat/97/1345]; [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 202(c), Dec. 1, 1987, [101 Stat. 996][/us/stat/101/996]; [Pub. L. 101–597, title I][/us/pl/101/597/tI], § 105, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3018][/us/stat/104/3018], 3035, related to shared responsibility for costs of Corps personnel providing health services in or to a health professional shortage area during the assignment period, prior to repeal by [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 305, Oct. 26, 2002, [116 Stat. 1647][/us/stat/116/1647].
 
  __Amendments__ 
 
@@ -99,25 +99,25 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/251/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs305
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1647
-[/us/pl/108/163/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fi
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2022
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F3
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2274
-[/us/pl/97/35/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2704
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F906
-[/us/pl/98/194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F194%2Fs3
+[/us/pl/98/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F194
 [/us/stat/97/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1345
-[/us/pl/100/177/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fc
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F996
-[/us/pl/101/597/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs105
+[/us/pl/101/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtI
 [/us/stat/104/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3018
-[/us/pl/107/251/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs305
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1647
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163

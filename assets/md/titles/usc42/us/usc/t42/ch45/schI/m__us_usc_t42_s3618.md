@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this subchapter.
 
-([Pub. L. 90–284, title VIII, § 819][/us/pl/90/284/s819], formerly § 818, Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; renumbered § 819, [Pub. L. 100–430, § 8(1)][/us/pl/100/430/s8/1], Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 819, formerly § 818, Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; renumbered § 819, [Pub. L. 100–430][/us/pl/100/430], § 8(1), Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/90/284/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs819
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F89
-[/us/pl/100/430/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F1
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1625
 [/us/pl/90/284/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs819
 [/us/usc/t42/s3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3619

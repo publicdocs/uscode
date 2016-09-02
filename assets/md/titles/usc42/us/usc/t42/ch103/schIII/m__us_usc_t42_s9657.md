@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances and the remainder of this chapter shall not be affected thereby. If an administrative settlement under [section 9622 of this title][/us/usc/t42/s9622] has the effect of limiting any person’s right to obtain contribution from any party to such settlement, and if the effect of such limitation would constitute a taking without just compensation in violation of the fifth amendment of the Constitution of the United States, such person shall not be entitled, under other laws of the United States, to recover compensation from the United States for such taking, but in any such case, such limitation on the right to obtain contribution shall be treated as having no force and effect.
 
-([Pub. L. 96–510, title III, § 308][/us/pl/96/510/s308], Dec. 11, 1980, [94 Stat. 2811][/us/stat/94/2811]; [Pub. L. 99–499, title I, § 122(b)][/us/pl/99/499/s122/b], Oct. 17, 1986, [100 Stat. 1688][/us/stat/100/1688].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 308, Dec. 11, 1980, [94 Stat. 2811][/us/stat/94/2811]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 122(b), Oct. 17, 1986, [100 Stat. 1688][/us/stat/100/1688].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t42/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9622
-[/us/pl/96/510/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs308
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2811
-[/us/pl/99/499/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs122%2Fb
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1688
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

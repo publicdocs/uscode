@@ -39,7 +39,7 @@
 
         Where the area affected by a major disaster or emergency includes parts of more than 1 State, the President, at the discretion of the President, may appoint a single Federal coordinating officer for the entire affected area, and may appoint such deputy Federal coordinating officers to assist the Federal coordinating officer as the President determines appropriate.
 
-([Pub. L. 93–288, title III, § 302][/us/pl/93/288/s302], formerly § 303, May 22, 1974, [88 Stat. 147][/us/stat/88/147]; renumbered § 302 and amended [Pub. L. 100–707, title I, § 105(b)][/us/pl/100/707/s105/b], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; [Pub. L. 109–295, title VI, § 687][/us/pl/109/295/s687], Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 302, formerly § 303, May 22, 1974, [88 Stat. 147][/us/stat/88/147]; renumbered § 302 and amended [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(b), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 687, Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(3), “chapter 3001 of title 36” substituted for “the Act of January 5, 1905, as amended ([33 Stat. 599][/us/stat/33/599])” on authority of [Pub. L. 105–225, § 5(b)][/us/pl/105/225/s5/b], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+    In subsec. (b)(3), “chapter 3001 of title 36” substituted for “the Act of January 5, 1905, as amended ([33 Stat. 599][/us/stat/33/599])” on authority of [Pub. L. 105–225][/us/pl/105/225], § 5(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
  __Prior Provisions__ 
 
@@ -66,17 +66,17 @@
 ----------
 ----------
 
-[/us/pl/93/288/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs302
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F147
-[/us/pl/100/707/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fb
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
-[/us/pl/109/295/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs687
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1448
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/stat/33/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F599
-[/us/pl/105/225/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs5%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
 [/us/pl/93/288/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs302
 [/us/usc/t42/s5142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5142

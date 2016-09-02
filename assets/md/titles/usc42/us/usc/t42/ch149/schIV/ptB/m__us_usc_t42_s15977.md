@@ -69,7 +69,7 @@
 
         There is authorized to be appropriated to carry out this section $85,000,000 for the period of fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title IV, § 417][/us/pl/109/58/s417], Aug. 8, 2005, [119 Stat. 756][/us/stat/119/756].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 417, Aug. 8, 2005, [119 Stat. 756][/us/stat/119/756].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/109/58/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs417
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F756
 
 

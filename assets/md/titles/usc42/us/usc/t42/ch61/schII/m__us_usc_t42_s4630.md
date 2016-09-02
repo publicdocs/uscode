@@ -23,7 +23,7 @@
 
     (3) within a reasonable period of time prior to displacement, comparable replacement dwellings will be available to displaced persons in accordance with [section 4625(c)(3) of this title][/us/usc/t42/s4625/c/3].
 
-([Pub. L. 91–646, title II, § 210][/us/pl/91/646/s210], Jan. 2, 1971, [84 Stat. 1899][/us/stat/84/1899]; [Pub. L. 100–17, title IV, § 410][/us/pl/100/17/s410], Apr. 2, 1987, [101 Stat. 254][/us/stat/101/254].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 210, Jan. 2, 1971, [84 Stat. 1899][/us/stat/84/1899]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 410, Apr. 2, 1987, [101 Stat. 254][/us/stat/101/254].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t42/s4625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4625
 [/us/usc/t42/s4625/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4625%2Fc%2F3
-[/us/pl/91/646/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs210
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1899
-[/us/pl/100/17/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs410
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F254
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17

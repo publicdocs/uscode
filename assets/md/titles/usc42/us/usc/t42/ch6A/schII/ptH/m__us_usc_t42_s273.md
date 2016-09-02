@@ -119,7 +119,7 @@
 
         Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 371, as added [Pub. L. 98–507, title II, § 201][/us/pl/98/507/s201], Oct. 19, 1984, [98 Stat. 2342][/us/stat/98/2342]; amended [Pub. L. 100–607, title IV, § 402(a)][/us/pl/100/607/s402/a], (c)(1), (2), (d), Nov. 4, 1988, [102 Stat. 3114][/us/stat/102/3114], 3115; [Pub. L. 101–616, title II][/us/pl/101/616], §§ 201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283], 3285; [Pub. L. 106–505, title VII, § 701(c)][/us/pl/106/505/s701/c], Nov. 13, 2000, [114 Stat. 2347][/us/stat/114/2347]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 219(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–29; [Pub. L. 108–216, § 9][/us/pl/108/216/s9], Apr. 5, 2004, [118 Stat. 590][/us/stat/118/590]; [Pub. L. 108–362, § 2][/us/pl/108/362/s2], Oct. 25, 2004, [118 Stat. 1703][/us/stat/118/1703]; [Pub. L. 113–51, § 2(a)(2)][/us/pl/113/51/s2/a/2], (3), Nov. 21, 2013, [127 Stat. 579][/us/stat/127/579], 580.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 371, as added [Pub. L. 98–507, title II][/us/pl/98/507/tII], § 201, Oct. 19, 1984, [98 Stat. 2342][/us/stat/98/2342]; amended [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 402(a), (c)(1), (2), (d), Nov. 4, 1988, [102 Stat. 3114][/us/stat/102/3114], 3115; [Pub. L. 101–616, title II][/us/pl/101/616/tII], §§ 201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283], 3285; [Pub. L. 106–505, title VII][/us/pl/106/505/tVII], § 701(c), Nov. 13, 2000, [114 Stat. 2347][/us/stat/114/2347]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title II, § 219(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–29; [Pub. L. 108–216][/us/pl/108/216], § 9, Apr. 5, 2004, [118 Stat. 590][/us/stat/118/590]; [Pub. L. 108–362][/us/pl/108/362], § 2, Oct. 25, 2004, [118 Stat. 1703][/us/stat/118/1703]; [Pub. L. 113–51][/us/pl/113/51], § 2(a)(2), (3), Nov. 21, 2013, [127 Stat. 579][/us/stat/127/579], 580.)
 
  __References in Text__ 
 
@@ -131,19 +131,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 273, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 371, as added [July 28, 1956, ch. 772][/us/act/1956-07-28/ch772], title II, § 201, [70 Stat. 709][/us/stat/70/709], authorized grants to the Territory of Alaska for an integrated mental health program, prior to repeal by [Pub. L. 86–70, § 31(b)(1)][/us/pl/86/70/s31/b/1], June 25, 1959, [73 Stat. 148][/us/stat/73/148], effective July 1, 1959.
+    A prior section 273, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 371, as added [July 28, 1956, ch. 772][/us/act/1956-07-28/ch772], title II, § 201, [70 Stat. 709][/us/stat/70/709], authorized grants to the Territory of Alaska for an integrated mental health program, prior to repeal by [Pub. L. 86–70][/us/pl/86/70], § 31(b)(1), June 25, 1959, [73 Stat. 148][/us/stat/73/148], effective July 1, 1959.
 
-    A prior section 371 of act July 1, 1944, added by [act Aug. 3, 1956, ch. 907, § 1][/us/act/1956-08-03/ch907/s1], [70 Stat. 960][/us/stat/70/960], was renumbered section 381 and classified to [section 275 of this title][/us/usc/t42/s275], prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
+    A prior section 371 of act July 1, 1944, added by [act Aug. 3, 1956, ch. 907][/us/act/1956-08-03/ch907], § 1, [70 Stat. 960][/us/stat/70/960], was renumbered section 381 and classified to [section 275 of this title][/us/usc/t42/s275], prior to repeal by [Pub. L. 99–158][/us/pl/99/158], § 3(b), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1)(E), (F). [Pub. L. 113–51, § 2(a)(3)(A)][/us/pl/113/51/s2/a/3/A], (B), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “has procedures to obtain payment for non-renal organs provided to transplant centers,”.
+    2013—Subsec. (b)(1)(E), (F). [Pub. L. 113–51][/us/pl/113/51], § 2(a)(3)(A), (B), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “has procedures to obtain payment for non-renal organs provided to transplant centers,”.
 
-    Subsec. (b)(1)(G). [Pub. L. 113–51, § 2(a)(3)(C)][/us/pl/113/51/s2/a/3/C], which directed the substitution of “(G) has a director” for “(H) has a director”, was executed by substituting “(G) has a board of directors” for “(H) has a board of directors” to reflect the probable intent of Congress. Former subpar. (G) redesignated (F).
+    Subsec. (b)(1)(G). [Pub. L. 113–51][/us/pl/113/51], § 2(a)(3)(C), which directed the substitution of “(G) has a director” for “(H) has a director”, was executed by substituting “(G) has a board of directors” for “(H) has a board of directors” to reflect the probable intent of Congress. Former subpar. (G) redesignated (F).
 
-    Subsec. (b)(1)(G)(i)(V), (ii). [Pub. L. 113–51, § 2(a)(3)(D)][/us/pl/113/51/s2/a/3/D], which directed the amendment of subpar. (H) by substituting “paragraph (3)(G)” for “paragraph (2)(G)” in cl. (i)(V) and “paragraph (3)” for “paragraph (2)” in cl. (ii), was executed by making the substitutions in subpars. (G)(i)(V) and (G)(ii), respectively, to reflect the probable intent of Congress and the redesignation of subpar. (H) as (G) by [Pub. L. 113–51, § 2(a)(3)(C)][/us/pl/113/51/s2/a/3/C]. See above.
+    Subsec. (b)(1)(G)(i)(V), (ii). [Pub. L. 113–51][/us/pl/113/51], § 2(a)(3)(D), which directed the amendment of subpar. (H) by substituting “paragraph (3)(G)” for “paragraph (2)(G)” in cl. (i)(V) and “paragraph (3)” for “paragraph (2)” in cl. (ii), was executed by making the substitutions in subpars. (G)(i)(V) and (G)(ii), respectively, to reflect the probable intent of Congress and the redesignation of subpar. (H) as (G) by [Pub. L. 113–51][/us/pl/113/51], § 2(a)(3)(C). See above.
 
-    Subsec. (b)(3)(C). [Pub. L. 113–51, § 2(a)(2)][/us/pl/113/51/s2/a/2], substituted “including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV)” for “including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome”.
+    Subsec. (b)(3)(C). [Pub. L. 113–51][/us/pl/113/51], § 2(a)(2), substituted “including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV)” for “including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome”.
 
     2004—Subsec. (a)(3). [Pub. L. 108–216][/us/pl/108/216] struck out par. (3) which read as follows: “The Secretary may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects designed to increase the number of organ donors.”
 
@@ -151,49 +151,49 @@
 
     2000—Subsec. (b)(1)(D) to (H). [Pub. L. 106–505][/us/pl/106/505] and [Pub. L. 106–554][/us/pl/106/554] amended par. (1) identically, adding subpar. (D), redesignating former subpars. (D) to (G) as (E) to (H), respectively, and realigning margins of subpar. (F).
 
-    1990—[Pub. L. 101–616, § 201(a)][/us/pl/101/616/s201/a], substituted “Organ procurement organizations” for “Assistance for organ procurement organizations” in section catchline.
+    1990—[Pub. L. 101–616][/us/pl/101/616], § 201(a), substituted “Organ procurement organizations” for “Assistance for organ procurement organizations” in section catchline.
 
-    Subsec. (a)(3). [Pub. L. 101–616, § 201(b)(1)][/us/pl/101/616/s201/b/1], substituted “may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects” for “may make grants for special projects”.
+    Subsec. (a)(3). [Pub. L. 101–616][/us/pl/101/616], § 201(b)(1), substituted “may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects” for “may make grants for special projects”.
 
-    Subsec. (a)(4). [Pub. L. 101–616, § 201(b)(2)][/us/pl/101/616/s201/b/2], struck out par. (4) which set forth factors to consider in making grants.
+    Subsec. (a)(4). [Pub. L. 101–616][/us/pl/101/616], § 201(b)(2), struck out par. (4) which set forth factors to consider in making grants.
 
-    Subsec. (b)(1)(E). [Pub. L. 101–616, § 201(c)(1)][/us/pl/101/616/s201/c/1], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “has a defined service area which is a geographical area of sufficient size such that (unless the service area comprises an entire State) the organization can reasonably expect to procure organs from not less than 50 donors each year and which either includes an entire standard metropolitan statistical area (as specified by the Office of Management and Budget) or does not include any part of such an area,”.
+    Subsec. (b)(1)(E). [Pub. L. 101–616][/us/pl/101/616], § 201(c)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “has a defined service area which is a geographical area of sufficient size such that (unless the service area comprises an entire State) the organization can reasonably expect to procure organs from not less than 50 donors each year and which either includes an entire standard metropolitan statistical area (as specified by the Office of Management and Budget) or does not include any part of such an area,”.
 
-    Subsec. (b)(1)(G)(i)(III). [Pub. L. 101–616, § 201(e)][/us/pl/101/616/s201/e], made technical correction to [Pub. L. 100–607, § 402(c)(2)][/us/pl/100/607/s402/c/2]. See 1988 Amendment note below.
+    Subsec. (b)(1)(G)(i)(III). [Pub. L. 101–616][/us/pl/101/616], § 201(e), made technical correction to [Pub. L. 100–607][/us/pl/100/607], § 402(c)(2). See 1988 Amendment note below.
 
-    Subsec. (b)(2), (3). [Pub. L. 101–616, § 201(d)][/us/pl/101/616/s201/d], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (b)(2), (3). [Pub. L. 101–616][/us/pl/101/616], § 201(d), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (c). [Pub. L. 101–616, § 206(b)][/us/pl/101/616/s206/b], struck out subsec. (c) which authorized appropriations for subsec. (a) grants for fiscal years 1988 through 1990.
+    Subsec. (c). [Pub. L. 101–616][/us/pl/101/616], § 206(b), struck out subsec. (c) which authorized appropriations for subsec. (a) grants for fiscal years 1988 through 1990.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–607, § 402(a)(1)][/us/pl/100/607/s402/a/1], inserted “consolidation,” after “initial operation,”.
+    1988—Subsec. (a)(2). [Pub. L. 100–607][/us/pl/100/607], § 402(a)(1), inserted “consolidation,” after “initial operation,”.
 
-    Subsec. (a)(3). [Pub. L. 100–607, § 402(a)(2)][/us/pl/100/607/s402/a/2], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 100–607][/us/pl/100/607], § 402(a)(2), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 100–607, § 402(a)(2)][/us/pl/100/607/s402/a/2], redesignated former par. (3) as (4).
+    Subsec. (a)(4). [Pub. L. 100–607][/us/pl/100/607], § 402(a)(2), redesignated former par. (3) as (4).
 
-    Subsec. (a)(4)(C). [Pub. L. 100–607, § 402(a)(3)][/us/pl/100/607/s402/a/3], added subpar. (C).
+    Subsec. (a)(4)(C). [Pub. L. 100–607][/us/pl/100/607], § 402(a)(3), added subpar. (C).
 
-    Subsec. (b)(1)(E). [Pub. L. 100–607, § 402(c)(1)(A)][/us/pl/100/607/s402/c/1/A], substituted “size such that” for “size which”, and “the organization can reasonably expect to procure organs from not less than 50 donors each year” for “will include at least fifty potential organ donors each year”.
+    Subsec. (b)(1)(E). [Pub. L. 100–607][/us/pl/100/607], § 402(c)(1)(A), substituted “size such that” for “size which”, and “the organization can reasonably expect to procure organs from not less than 50 donors each year” for “will include at least fifty potential organ donors each year”.
 
-    Subsec. (b)(1)(G)(i)(III). [Pub. L. 100–607, § 402(c)(2)][/us/pl/100/607/s402/c/2], as amended by [Pub. L. 101–616, § 201(e)][/us/pl/101/616/s201/e], inserted “or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility” before comma at end.
+    Subsec. (b)(1)(G)(i)(III). [Pub. L. 100–607][/us/pl/100/607], § 402(c)(2), as amended by [Pub. L. 101–616][/us/pl/101/616], § 201(e), inserted “or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility” before comma at end.
 
-    Subsec. (b)(2)(C). [Pub. L. 100–607, § 402(c)(1)(B)][/us/pl/100/607/s402/c/1/B], substituted “274(b)(2)(E) of this title, including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,” for “274(b)(2)(D) of this title,”.
+    Subsec. (b)(2)(C). [Pub. L. 100–607][/us/pl/100/607], § 402(c)(1)(B), substituted “274(b)(2)(E) of this title, including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,” for “274(b)(2)(D) of this title,”.
 
-    Subsec. (b)(2)(E). [Pub. L. 100–607, § 402(c)(1)(C)][/us/pl/100/607/s402/c/1/C], substituted “organs equitably among transplant patients” for “organs among transplant centers and patients”.
+    Subsec. (b)(2)(E). [Pub. L. 100–607][/us/pl/100/607], § 402(c)(1)(C), substituted “organs equitably among transplant patients” for “organs among transplant centers and patients”.
 
-    Subsec. (b)(2)(K). [Pub. L. 100–607, § 402(c)(1)(D)][/us/pl/100/607/s402/c/1/D], added subpar. (K).
+    Subsec. (b)(2)(K). [Pub. L. 100–607][/us/pl/100/607], § 402(c)(1)(D), added subpar. (K).
 
-    Subsec. (c). [Pub. L. 100–607, § 402(d)][/us/pl/100/607/s402/d], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
+    Subsec. (c). [Pub. L. 100–607][/us/pl/100/607], § 402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–616, title II, § 207][/us/pl/101/616/s207], Nov. 16, 1990, [104 Stat. 3286][/us/stat/104/3286], provided that: 
+[Pub. L. 101–616, title II][/us/pl/101/616/tII], § 207, Nov. 16, 1990, [104 Stat. 3286][/us/stat/104/3286], provided that: 
 
 > “Except as otherwise provided in this title, the amendments made by this title \[enacting sections 274f and 274g of this title, amending this section and sections 274 and 274b to 274d of this title, and repealing provisions set out as a note below\] shall become effective on October 1, 1990, or on the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–607, title IV, § 402(c)(3)][/us/pl/100/607/s402/c/3], Nov. 4, 1988, [102 Stat. 3115][/us/stat/102/3115], as amended by [Pub. L. 101–274][/us/pl/101/274], Apr. 23, 1990, [104 Stat. 139][/us/stat/104/139], which provided that the amendment made by [section 402(c)(1)(A) of Pub. L. 100–607][/us/pl/100/607/s402/c/1/A], amending this section, was not to apply to an organ procurement organization designated under [section 1320b–8(b) of this title][/us/usc/t42/s1320b–8/b] until Jan. 1, 1992, was repealed by [Pub. L. 101–616, title II, § 201(c)(2)][/us/pl/101/616/s201/c/2], Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283].
+    [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 402(c)(3), Nov. 4, 1988, [102 Stat. 3115][/us/stat/102/3115], as amended by [Pub. L. 101–274][/us/pl/101/274], Apr. 23, 1990, [104 Stat. 139][/us/stat/104/139], which provided that the amendment made by [section 402(c)(1)(A) of Pub. L. 100–607][/us/pl/100/607/s402/c/1/A], amending this section, was not to apply to an organ procurement organization designated under [section 1320b–8(b) of this title][/us/usc/t42/s1320b–8/b] until Jan. 1, 1992, was repealed by [Pub. L. 101–616, title II][/us/pl/101/616/tII], § 201(c)(2), Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283].
 
  __Short Title__ 
 
@@ -201,13 +201,13 @@
 
  __Severability__ 
 
-[Pub. L. 101–616, title III, § 301][/us/pl/101/616/s301], Nov. 16, 1990, [104 Stat. 3286][/us/stat/104/3286], provided that: 
+[Pub. L. 101–616, title III][/us/pl/101/616/tIII], § 301, Nov. 16, 1990, [104 Stat. 3286][/us/stat/104/3286], provided that: 
 
 > “If any provision of this Act \[enacting sections 274f, 274g, 274k, and 274l of this title, amending this section and sections 274 to 274d of this title, enacting provisions set out as notes under this section and sections 274 and 274k of this title, and repealing provisions set out as a note above\], amendment made by this Act, or application of the provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions or amendments to any person or circumstance shall not be affected.”
 
  __Certification of Organ Procurement Organizations__ 
 
-[Pub. L. 106–505, title VII, § 701(b)][/us/pl/106/505/s701/b], Nov. 13, 2000, [114 Stat. 2346][/us/stat/114/2346], and [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 219(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–28, provided that: 
+[Pub. L. 106–505, title VII][/us/pl/106/505/tVII], § 701(b), Nov. 13, 2000, [114 Stat. 2346][/us/stat/114/2346], and [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title II, § 219(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–28, provided that: 
 
 > “Congress makes the following findings:
 
@@ -237,7 +237,7 @@
 
  __Study Regarding Immunosuppressive Drugs__ 
 
-[Pub. L. 106–310, div. A, title XXI, § 2101(b)][/us/pl/106/310/s2101/b], Oct. 17, 2000, [114 Stat. 1156][/us/stat/114/1156], provided that:
+[Pub. L. 106–310, div. A, title XXI][/us/pl/106/310/dA/tXXI], § 2101(b), Oct. 17, 2000, [114 Stat. 1156][/us/stat/114/1156], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -261,15 +261,15 @@
 
  __Study on Hospital Agreements With Organ Procurement Agencies__ 
 
-    [Pub. L. 103–432, title I, § 155(b)][/us/pl/103/432/s155/b], Oct. 31, 1994, [108 Stat. 4439][/us/stat/108/4439], directed Office of Technology Assessment to conduct study to determine efficacy and fairness of requiring a hospital to enter into agreement under subsec. (b)(3)(A) of this section with organ procurement agency for service area in which such hospital is located and impact of such requirement on efficacy and fairness of organ procurement and distribution, and to submit to Congress, not later than 2 years after Oct. 31, 1994, report containing findings of such study and implications of such findings with respect to policies affecting organ procurement and distribution.
+    [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 155(b), Oct. 31, 1994, [108 Stat. 4439][/us/stat/108/4439], directed Office of Technology Assessment to conduct study to determine efficacy and fairness of requiring a hospital to enter into agreement under subsec. (b)(3)(A) of this section with organ procurement agency for service area in which such hospital is located and impact of such requirement on efficacy and fairness of organ procurement and distribution, and to submit to Congress, not later than 2 years after Oct. 31, 1994, report containing findings of such study and implications of such findings with respect to policies affecting organ procurement and distribution.
 
  __Task Force on Organ Procurement and Transplantation__ 
 
-    [Pub. L. 98–507, title I][/us/pl/98/507], §§ 101–105, Oct. 19, 1984, [98 Stat. 2339–2342][/us/stat/98/2339-2342], directed Secretary of Health and Human Services, not later than 90 days after Oct. 19, 1984, to establish a Task Force on Organ Transplantation to conduct comprehensive examinations, prepare an assessment and report, and submit advice as to regulation of the medical, legal, ethical, economic, and social issues presented by human organ procurement and transplantation, with the final report due not later than 12 months after the Task Force is established and the Task Force to terminate 3 months thereafter.
+    [Pub. L. 98–507, title I][/us/pl/98/507/tI], §§ 101–105, Oct. 19, 1984, [98 Stat. 2339–2342][/us/stat/98/2339-2342], directed Secretary of Health and Human Services, not later than 90 days after Oct. 19, 1984, to establish a Task Force on Organ Transplantation to conduct comprehensive examinations, prepare an assessment and report, and submit advice as to regulation of the medical, legal, ethical, economic, and social issues presented by human organ procurement and transplantation, with the final report due not later than 12 months after the Task Force is established and the Task Force to terminate 3 months thereafter.
 
  __Bone Marrow Registry Demonstration and Study__ 
 
-    [Pub. L. 98–507, title IV, § 401][/us/pl/98/507/s401], Oct. 19, 1984, [98 Stat. 3268][/us/stat/98/3268], directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
+    [Pub. L. 98–507, title IV][/us/pl/98/507/tIV], § 401, Oct. 19, 1984, [98 Stat. 3268][/us/stat/98/3268], directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
 
 ----------
 
@@ -282,21 +282,21 @@
 [/us/usc/t42/s274/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274%2Fb%2F2%2FE
 [/us/usc/t42/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/507/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2Fs201
+[/us/pl/98/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2FtII
 [/us/stat/98/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2342
-[/us/pl/100/607/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fa
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3114
-[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtII
 [/us/stat/104/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3283
-[/us/pl/106/505/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs701%2Fc
+[/us/pl/106/505/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtVII
 [/us/stat/114/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2347
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/216/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216%2Fs9
+[/us/pl/108/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216
 [/us/stat/118/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F590
-[/us/pl/108/362/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362%2Fs2
+[/us/pl/108/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362
 [/us/stat/118/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1703
-[/us/pl/113/51/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F2
+[/us/pl/113/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51
 [/us/stat/127/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F579
 [/us/pl/101/616/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fd%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -304,71 +304,71 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/106/505/s701/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs701%2Fc%2F1
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/act/1956-07-28/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-28%2Fch772
 [/us/stat/70/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F709
-[/us/pl/86/70/s31/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs31%2Fb%2F1
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F148
-[/us/act/1956-08-03/ch907/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch907%2Fs1
+[/us/act/1956-08-03/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch907
 [/us/stat/70/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F960
 [/us/usc/t42/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs275
-[/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
-[/us/pl/113/51/s2/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FA
-[/us/pl/113/51/s2/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FC
-[/us/pl/113/51/s2/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FD
-[/us/pl/113/51/s2/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FC
-[/us/pl/113/51/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F2
+[/us/pl/113/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51
+[/us/pl/113/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51
+[/us/pl/113/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51
+[/us/pl/113/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51
+[/us/pl/113/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51
 [/us/pl/108/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216
 [/us/pl/108/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362
 [/us/pl/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/101/616/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fa
-[/us/pl/101/616/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fb%2F1
-[/us/pl/101/616/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fb%2F2
-[/us/pl/101/616/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fc%2F1
-[/us/pl/101/616/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fe
-[/us/pl/100/607/s402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F2
-[/us/pl/101/616/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fd
-[/us/pl/101/616/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs206%2Fb
-[/us/pl/100/607/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fa%2F1
-[/us/pl/100/607/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fa%2F2
-[/us/pl/100/607/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fa%2F2
-[/us/pl/100/607/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fa%2F3
-[/us/pl/100/607/s402/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F1%2FA
-[/us/pl/100/607/s402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F2
-[/us/pl/101/616/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fe
-[/us/pl/100/607/s402/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F1%2FB
-[/us/pl/100/607/s402/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F1%2FC
-[/us/pl/100/607/s402/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F1%2FD
-[/us/pl/100/607/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fd
-[/us/pl/101/616/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs207
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/101/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtII
 [/us/stat/104/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3286
-[/us/pl/100/607/s402/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F3
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3115
 [/us/pl/101/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F274
 [/us/stat/104/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F139
 [/us/pl/100/607/s402/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fc%2F1%2FA
 [/us/usc/t42/s1320b–8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%938%2Fb
-[/us/pl/101/616/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fc%2F2
+[/us/pl/101/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtII
 [/us/stat/104/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3283
 [/us/pl/98/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507
 [/us/pl/98/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2Fs1
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/101/616/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs301
+[/us/pl/101/616/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtIII
 [/us/stat/104/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3286
-[/us/pl/106/505/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs701%2Fb
+[/us/pl/106/505/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtVII
 [/us/stat/114/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2346
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1320b–8/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%938%2Fb%2F1%2FA%2Fi
-[/us/pl/106/310/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2101%2Fb
+[/us/pl/106/310/dA/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXI
 [/us/stat/114/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1156
-[/us/pl/103/432/s155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs155%2Fb
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4439
-[/us/pl/98/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507
+[/us/pl/98/507/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2FtI
 [/us/stat/98/2339-2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2339-2342
-[/us/pl/98/507/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2Fs401
+[/us/pl/98/507/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2FtIV
 [/us/stat/98/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3268
 
 

@@ -481,7 +481,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs238" data-uslm-ref="/us/usc/t42/s238">238</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs238l" data-uslm-ref="/us/usc/t42/s238l">238l.</a>  </td>
 
     <td> Recovery.  </td>
 
@@ -505,7 +505,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs238" data-uslm-ref="/us/usc/t42/s238">238</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs238o" data-uslm-ref="/us/usc/t42/s238o">238o.</a>  </td>
 
     <td> Restriction on use of funds for assisted suicide, euthanasia, and mercy killing.  </td>
 
@@ -617,7 +617,7 @@ Part D—United States Public Health Sciences Track  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239" data-uslm-ref="/us/usc/t42/s239">239</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239l" data-uslm-ref="/us/usc/t42/s239l">239l.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -625,7 +625,7 @@ Part D—United States Public Health Sciences Track  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239" data-uslm-ref="/us/usc/t42/s239">239</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239l" data-uslm-ref="/us/usc/t42/s239l">239l</a>–1.  </td>
 
     <td> Administration.  </td>
 
@@ -633,7 +633,7 @@ Part D—United States Public Health Sciences Track  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239" data-uslm-ref="/us/usc/t42/s239">239</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239l" data-uslm-ref="/us/usc/t42/s239l">239l</a>–2.  </td>
 
     <td> Students; selection; obligation.  </td>
 
@@ -641,7 +641,7 @@ Part D—United States Public Health Sciences Track  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239" data-uslm-ref="/us/usc/t42/s239">239</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs239l" data-uslm-ref="/us/usc/t42/s239l">239l</a>–3.  </td>
 
     <td> Funding.  </td>
 
@@ -713,7 +713,7 @@ Part A—Research and Investigations  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs242" data-uslm-ref="/us/usc/t42/s242">242</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs242l" data-uslm-ref="/us/usc/t42/s242l">242l.</a>  </td>
 
     <td> International cooperation.  </td>
 
@@ -737,7 +737,7 @@ Part A—Research and Investigations  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs242" data-uslm-ref="/us/usc/t42/s242">242</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs242o" data-uslm-ref="/us/usc/t42/s242o">242o.</a>  </td>
 
     <td> Health conferences; publication of health educational information.  </td>
 
@@ -1769,7 +1769,7 @@ subpart iii—scholarship program and loan repayment program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254" data-uslm-ref="/us/usc/t42/s254">254</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254l" data-uslm-ref="/us/usc/t42/s254l">254l.</a>  </td>
 
     <td> National Health Service Corps Scholarship Program.  </td>
 
@@ -1777,7 +1777,7 @@ subpart iii—scholarship program and loan repayment program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254" data-uslm-ref="/us/usc/t42/s254">254</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254l" data-uslm-ref="/us/usc/t42/s254l">254l</a>–1.  </td>
 
     <td> National Health Service Corps Loan Repayment Program.  </td>
 
@@ -1801,7 +1801,7 @@ subpart iii—scholarship program and loan repayment program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254" data-uslm-ref="/us/usc/t42/s254">254</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254o" data-uslm-ref="/us/usc/t42/s254o">254o.</a>  </td>
 
     <td> Breach of scholarship contract or loan repayment contract.  </td>
 
@@ -1809,7 +1809,7 @@ subpart iii—scholarship program and loan repayment program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254" data-uslm-ref="/us/usc/t42/s254">254</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs254o" data-uslm-ref="/us/usc/t42/s254o">254o</a>–1.  </td>
 
     <td> Fund regarding use of amounts recovered for contract breach to replace services lost as result of breach.  </td>
 
@@ -2465,7 +2465,7 @@ Part I—C.W. Bill Young Cell Transplantation Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs274" data-uslm-ref="/us/usc/t42/s274">274</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs274l" data-uslm-ref="/us/usc/t42/s274l">274l</a>.  </td>
 
     <td> Stem cell therapeutic outcomes database.  </td>
 
@@ -2473,7 +2473,7 @@ Part I—C.W. Bill Young Cell Transplantation Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs274" data-uslm-ref="/us/usc/t42/s274">274</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs274l" data-uslm-ref="/us/usc/t42/s274l">274l</a>–1.  </td>
 
     <td> Definitions.  </td>
 
@@ -3137,7 +3137,7 @@ Part U—Employer-Based Wellness Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280" data-uslm-ref="/us/usc/t42/s280">280</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280l" data-uslm-ref="/us/usc/t42/s280l">280l.</a>  </td>
 
     <td> Technical assistance for employer-based wellness programs.  </td>
 
@@ -3145,7 +3145,7 @@ Part U—Employer-Based Wellness Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280" data-uslm-ref="/us/usc/t42/s280">280</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280l" data-uslm-ref="/us/usc/t42/s280l">280l</a>–1.  </td>
 
     <td> National worksite health policies and programs study.  </td>
 
@@ -3153,7 +3153,7 @@ Part U—Employer-Based Wellness Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280" data-uslm-ref="/us/usc/t42/s280">280</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280l" data-uslm-ref="/us/usc/t42/s280l">280l</a>–2.  </td>
 
     <td> Prioritization of evaluation by Secretary.  </td>
 
@@ -3161,7 +3161,7 @@ Part U—Employer-Based Wellness Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280" data-uslm-ref="/us/usc/t42/s280">280</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280l" data-uslm-ref="/us/usc/t42/s280l">280l</a>–3.  </td>
 
     <td> Prohibition of Federal workplace wellness requirements.  </td>
 
@@ -3361,7 +3361,7 @@ Part A—National Institutes of Health  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs283" data-uslm-ref="/us/usc/t42/s283">283</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs283l" data-uslm-ref="/us/usc/t42/s283l">283l</a>.  </td>
 
     <td> Construction of regional centers for research on primates.  </td>
 
@@ -3489,7 +3489,7 @@ Part B—General Provisions Respecting National Research Institutes  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs284" data-uslm-ref="/us/usc/t42/s284">284</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs284l" data-uslm-ref="/us/usc/t42/s284l">284l</a>.  </td>
 
     <td> Enhancement awards.  </td>
 
@@ -3521,7 +3521,7 @@ Part B—General Provisions Respecting National Research Institutes  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs284" data-uslm-ref="/us/usc/t42/s284">284</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs284o" data-uslm-ref="/us/usc/t42/s284o">284o.</a>  </td>
 
     <td> Activities of the National Institutes of Health with respect to research on paralysis.  </td>
 
@@ -4321,7 +4321,7 @@ subpart 12—national institute of environmental health sciences  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285l" data-uslm-ref="/us/usc/t42/s285l">285l</a>.  </td>
 
     <td> Purpose of Institute.  </td>
 
@@ -4329,7 +4329,7 @@ subpart 12—national institute of environmental health sciences  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285l" data-uslm-ref="/us/usc/t42/s285l">285l</a>–1.  </td>
 
     <td> Applied Toxicological Research and Testing Program.  </td>
 
@@ -4337,7 +4337,7 @@ subpart 12—national institute of environmental health sciences  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285l" data-uslm-ref="/us/usc/t42/s285l">285l</a>–2.  </td>
 
     <td> Definitions.  </td>
 
@@ -4345,7 +4345,7 @@ subpart 12—national institute of environmental health sciences  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285l" data-uslm-ref="/us/usc/t42/s285l">285l</a>–3.  </td>
 
     <td> Interagency Coordinating Committee on the Validation of Alternative Methods.  </td>
 
@@ -4353,7 +4353,7 @@ subpart 12—national institute of environmental health sciences  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>l–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285l" data-uslm-ref="/us/usc/t42/s285l">285l</a>–4.  </td>
 
     <td> Federal agency action.  </td>
 
@@ -4361,7 +4361,7 @@ subpart 12—national institute of environmental health sciences  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>l–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285l" data-uslm-ref="/us/usc/t42/s285l">285l</a>–5.  </td>
 
     <td> Application.  </td>
 
@@ -4369,7 +4369,7 @@ subpart 12—national institute of environmental health sciences  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>l–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285l" data-uslm-ref="/us/usc/t42/s285l">285l</a>–6.  </td>
 
     <td> Methods of controlling certain insect and vermin populations.  </td>
 
@@ -4481,7 +4481,7 @@ subpart 15—national institute on drug abuse  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285o" data-uslm-ref="/us/usc/t42/s285o">285o.</a>  </td>
 
     <td> Purpose of Institute.  </td>
 
@@ -4489,7 +4489,7 @@ subpart 15—national institute on drug abuse  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285o" data-uslm-ref="/us/usc/t42/s285o">285o</a>–1.  </td>
 
     <td> Associate Director for Prevention.  </td>
 
@@ -4497,7 +4497,7 @@ subpart 15—national institute on drug abuse  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285o" data-uslm-ref="/us/usc/t42/s285o">285o</a>–2.  </td>
 
     <td> Drug Abuse Research Centers.  </td>
 
@@ -4505,7 +4505,7 @@ subpart 15—national institute on drug abuse  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>o–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285o" data-uslm-ref="/us/usc/t42/s285o">285o</a>–3.  </td>
 
     <td> Office on AIDS.  </td>
 
@@ -4513,7 +4513,7 @@ subpart 15—national institute on drug abuse  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285" data-uslm-ref="/us/usc/t42/s285">285</a>o–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs285o" data-uslm-ref="/us/usc/t42/s285o">285o</a>–4.  </td>
 
     <td> Medication Development Program.  </td>
 
@@ -6273,7 +6273,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs291" data-uslm-ref="/us/usc/t42/s291">291</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs291l" data-uslm-ref="/us/usc/t42/s291l">291l.</a>  </td>
 
     <td> Conference of State agencies.  </td>
 
@@ -6305,7 +6305,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs291" data-uslm-ref="/us/usc/t42/s291">291</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs291o" data-uslm-ref="/us/usc/t42/s291o">291o.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -6313,7 +6313,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs291" data-uslm-ref="/us/usc/t42/s291">291</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs291o" data-uslm-ref="/us/usc/t42/s291o">291o</a>–1.  </td>
 
     <td> Financial statements.  </td>
 
@@ -6441,7 +6441,7 @@ subpart i–insured health education assistance loans to graduate students  </td
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs292" data-uslm-ref="/us/usc/t42/s292">292</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs292l" data-uslm-ref="/us/usc/t42/s292l">292l.</a>  </td>
 
     <td> Determination of eligible students.  </td>
 
@@ -6465,7 +6465,7 @@ subpart i–insured health education assistance loans to graduate students  </td
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs292" data-uslm-ref="/us/usc/t42/s292">292</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs292o" data-uslm-ref="/us/usc/t42/s292o">292o.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -6665,7 +6665,7 @@ subpart 1—medical training generally  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs293" data-uslm-ref="/us/usc/t42/s293">293</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs293l" data-uslm-ref="/us/usc/t42/s293l">293l</a>.  </td>
 
     <td> Advisory Committee on Training in Primary Care Medicine and Dentistry.  </td>
 
@@ -6673,7 +6673,7 @@ subpart 1—medical training generally  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs293" data-uslm-ref="/us/usc/t42/s293">293</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs293l" data-uslm-ref="/us/usc/t42/s293l">293l</a>–1.  </td>
 
     <td> Teaching health centers development grants.  </td>
 
@@ -6825,7 +6825,7 @@ subpart 1—health professions workforce information and analysis  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs294" data-uslm-ref="/us/usc/t42/s294">294</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs294o" data-uslm-ref="/us/usc/t42/s294o">294o</a>.  </td>
 
     <td> Advisory Council on Graduate Medical Education.  </td>
 
@@ -6977,7 +6977,7 @@ Part F—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295" data-uslm-ref="/us/usc/t42/s295">295</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295l" data-uslm-ref="/us/usc/t42/s295l">295l.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -7017,7 +7017,7 @@ Part F—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295" data-uslm-ref="/us/usc/t42/s295">295</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295o" data-uslm-ref="/us/usc/t42/s295o">295o</a>.  </td>
 
     <td> Matching requirement.  </td>
 
@@ -7025,7 +7025,7 @@ Part F—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295" data-uslm-ref="/us/usc/t42/s295">295</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295o" data-uslm-ref="/us/usc/t42/s295o">295o</a>–1.  </td>
 
     <td> Generally applicable provisions.  </td>
 
@@ -7033,7 +7033,7 @@ Part F—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295" data-uslm-ref="/us/usc/t42/s295">295</a>o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs295o" data-uslm-ref="/us/usc/t42/s295o">295o</a>–2.  </td>
 
     <td> Technical assistance.  </td>
 
@@ -7297,7 +7297,7 @@ Part E—Student Loans  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs297" data-uslm-ref="/us/usc/t42/s297">297</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs297o" data-uslm-ref="/us/usc/t42/s297o">297o.</a>  </td>
 
     <td> Eligible individual student loan repayment.  </td>
 
@@ -9097,7 +9097,7 @@ SUBCHAPTER XIII—PREVENTIVE HEALTH MEASURES WITH RESPECT TO BREAST AND CERVICAL
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300" data-uslm-ref="/us/usc/t42/s300">300</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300l" data-uslm-ref="/us/usc/t42/s300l">300l.</a>  </td>
 
     <td> Requirement of matching funds.  </td>
 
@@ -9105,7 +9105,7 @@ SUBCHAPTER XIII—PREVENTIVE HEALTH MEASURES WITH RESPECT TO BREAST AND CERVICAL
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300" data-uslm-ref="/us/usc/t42/s300">300</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300l" data-uslm-ref="/us/usc/t42/s300l">300l</a>–1.  </td>
 
     <td> Requirement regarding medicaid.  </td>
 
@@ -9185,7 +9185,7 @@ SUBCHAPTER XIV—HEALTH RESOURCES DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300" data-uslm-ref="/us/usc/t42/s300">300</a>o to 300p–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300o" data-uslm-ref="/us/usc/t42/s300o">300o</a> to 300p–3.  </td>
 
     <td> Repealed.  </td>
 
@@ -12601,7 +12601,7 @@ SUBCHAPTER XXX—COMMUNITY LIVING ASSISTANCE SERVICES AND SUPPORTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300" data-uslm-ref="/us/usc/t42/s300">300</a>ll to 300ll–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300ll" data-uslm-ref="/us/usc/t42/s300ll">300ll</a> to 300ll–9.  </td>
 
     <td> Repealed.  </td>
 

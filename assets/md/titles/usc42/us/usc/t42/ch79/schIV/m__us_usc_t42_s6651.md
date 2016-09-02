@@ -59,7 +59,7 @@
 
         For the purpose of conducting studies and making reports as directed by the Chairman, standing subcommittees and panels of the Council may be established.
 
-([Pub. L. 94–282, title IV, § 401][/us/pl/94/282/s401], May 11, 1976, [90 Stat. 471][/us/stat/90/471]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–113, title XIV, § 1406][/us/pl/95/113/s1406], Sept. 29, 1977, [91 Stat. 986][/us/stat/91/986]; [Pub. L. 97–98, title XIV, § 1406(a)][/us/pl/97/98/s1406/a], (b), Dec. 22, 1981, [95 Stat. 1298][/us/stat/95/1298]; [Pub. L. 102–54, § 13(q)(11)][/us/pl/102/54/s13/q/11], June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 104–127, title VIII, § 851][/us/pl/104/127/s851], Apr. 4, 1996, [110 Stat. 1171][/us/stat/110/1171].)
+([Pub. L. 94–282, title IV][/us/pl/94/282/tIV], § 401, May 11, 1976, [90 Stat. 471][/us/stat/90/471]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–113, title XIV][/us/pl/95/113/tXIV], § 1406, Sept. 29, 1977, [91 Stat. 986][/us/stat/91/986]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1406(a), (b), Dec. 22, 1981, [95 Stat. 1298][/us/stat/95/1298]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(11), June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 851, Apr. 4, 1996, [110 Stat. 1171][/us/stat/110/1171].)
 
  __Amendments__ 
 
@@ -94,17 +94,17 @@
 ----------
 ----------
 
-[/us/pl/94/282/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs401
+[/us/pl/94/282/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIV
 [/us/stat/90/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F471
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/113/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1406
+[/us/pl/95/113/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXIV
 [/us/stat/91/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F986
-[/us/pl/97/98/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1406%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1298
-[/us/pl/102/54/s13/q/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F11
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
-[/us/pl/104/127/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs851
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54

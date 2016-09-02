@@ -155,11 +155,11 @@
 
         (3) No compliance date extension granted under section 7413(d)(5)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (relating to coal conversion) shall cease to be effective by reason of the regional limitation provided in section 7413(d)(5)  <sup>\[1\]</sup>  of this title if the violation of such limitation is due solely to a redesignation of a region under this subsection.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 107, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678]; amended [Pub. L. 95–95, title I, § 103][/us/pl/95/95/s103], Aug. 7, 1977, [91 Stat. 687][/us/stat/91/687]; [Pub. L. 101–549, title I, § 101(a)][/us/pl/101/549/s101/a], Nov. 15, 1990, [104 Stat. 2399][/us/stat/104/2399]; [Pub. L. 108–199, div. G, title IV, § 425(a)][/us/pl/108/199/s425/a], Jan. 23, 2004, [118 Stat. 417][/us/stat/118/417].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 107, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678]; amended [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 103, Aug. 7, 1977, [91 Stat. 687][/us/stat/91/687]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(a), Nov. 15, 1990, [104 Stat. 2399][/us/stat/104/2399]; [Pub. L. 108–199, div. G, title IV][/us/pl/108/199/dG/tIV], § 425(a), Jan. 23, 2004, [118 Stat. 417][/us/stat/118/417].)
 
  __References in Text__ 
 
-    [Section 7413 of this title][/us/usc/t42/s7413], referred to in subsec. (e)(3), was amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
+    [Section 7413 of this title][/us/usc/t42/s7413], referred to in subsec. (e)(3), was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
 
  __Codification__ 
 
@@ -167,9 +167,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 107 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148, § 2][/us/pl/90/148/s2], [81 Stat. 490][/us/stat/81/490], related to air quality control regions and was classified to [section 1857c–2 of this title][/us/usc/t42/s1857c–2], prior to repeal by [Pub. L. 91–604][/us/pl/91/604].
+    A prior section 107 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148][/us/pl/90/148], § 2, [81 Stat. 490][/us/stat/81/490], related to air quality control regions and was classified to [section 1857c–2 of this title][/us/usc/t42/s1857c–2], prior to repeal by [Pub. L. 91–604][/us/pl/91/604].
 
-    Another prior section 107 of act July 14, 1955, as added Dec. 17, 1963, [Pub. L. 88–206, § 1][/us/pl/88/206/s1], [77 Stat. 399][/us/stat/77/399], was renumbered section 111 by [Pub. L. 90–148][/us/pl/90/148] and is classified to [section 7411 of this title][/us/usc/t42/s7411].
+    Another prior section 107 of act July 14, 1955, as added Dec. 17, 1963, [Pub. L. 88–206][/us/pl/88/206], § 1, [77 Stat. 399][/us/stat/77/399], was renumbered section 111 by [Pub. L. 90–148][/us/pl/90/148] and is classified to [section 7411 of this title][/us/usc/t42/s7411].
 
  __Amendments__ 
 
@@ -185,11 +185,11 @@
 
  __Ozone and Particulate Matter Standards__ 
 
-[Pub. L. 108–199, div. G, title IV, § 425(b)][/us/pl/108/199/s425/b], Jan. 23, 2004, [118 Stat. 417][/us/stat/118/417], provided that: 
+[Pub. L. 108–199, div. G, title IV][/us/pl/108/199/dG/tIV], § 425(b), Jan. 23, 2004, [118 Stat. 417][/us/stat/118/417], provided that: 
 
 > “Except as provided in paragraphs (6) and (7) of section 107(d) of the Clean Air Act \[subsec. (d)(6), (7) of this section\] (as added by subsection (a)), section 6101, subsections (a) and (b) of section 6102, and section 6103 of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\] ([42 U.S.C. 7407][/us/usc/t42/s7407] note; [112 Stat. 463][/us/stat/112/463]), as in effect on the day before the date of enactment of this Act \[Jan. 23, 2004\], shall remain in effect.”
 
-[Pub. L. 105–178, title VI][/us/pl/105/178], June 9, 1998, [112 Stat. 463][/us/stat/112/463], as amended by [Pub. L. 109–59, title VI, § 6012(a)][/us/pl/109/59/s6012/a], Aug. 10, 2005, [119 Stat. 1882][/us/stat/119/1882], provided that:
+[Pub. L. 105–178, title VI][/us/pl/105/178/tVI], June 9, 1998, [112 Stat. 463][/us/stat/112/463], as amended by [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6012(a), Aug. 10, 2005, [119 Stat. 1882][/us/stat/119/1882], provided that:
 
 > “SEC. 6101. __FINDINGS AND PURPOSE.__ 
 
@@ -282,23 +282,23 @@
 [/us/usc/t42/s7473/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7473%2Fb
 [/us/usc/t42/s7492/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7492%2Fe%2F1
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1678
-[/us/pl/95/95/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs103
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F687
-[/us/pl/101/549/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fa
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2399
-[/us/pl/108/199/s425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs425%2Fa
+[/us/pl/108/199/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIV
 [/us/stat/118/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F417
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/usc/t42/s1857c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%932
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F490
 [/us/usc/t42/s1857c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%932
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F399
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
@@ -308,14 +308,14 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/108/199/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs425%2Fb
+[/us/pl/108/199/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIV
 [/us/stat/118/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F417
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t42/s7407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407
 [/us/stat/112/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F463
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVI
 [/us/stat/112/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F463
-[/us/pl/109/59/s6012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6012%2Fa
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1882
 [/us/usc/t42/s7403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7403
 [/us/usc/t42/s7409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7409

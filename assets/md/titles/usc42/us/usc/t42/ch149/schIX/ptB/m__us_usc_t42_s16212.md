@@ -23,7 +23,7 @@
 
         The program shall consider technologies that provide significant improvement in thermal controls, metering, load management, peak load reduction, or the efficient cooling of electronics.
 
-([Pub. L. 109–58, title IX, § 922][/us/pl/109/58/s922], Aug. 8, 2005, [119 Stat. 864][/us/stat/119/864].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 922, Aug. 8, 2005, [119 Stat. 864][/us/stat/119/864].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs922
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F864
 
 

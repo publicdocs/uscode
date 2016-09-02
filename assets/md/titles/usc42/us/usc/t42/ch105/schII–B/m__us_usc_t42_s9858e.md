@@ -133,7 +133,7 @@
 
         Nothing in this section shall be construed as providing the Secretary the authority to regulate, direct, dictate, or place conditions (outside of what is required by this subchapter) on a State adopting specific State child care quality activities or progress in implementing those activities.
 
-([Pub. L. 97–35, title VI, § 658G][/us/pl/97/35/s658G], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–241][/us/stat/104/1388-241]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 607][/us/pl/104/193/s607], Aug. 22, 1996, [110 Stat. 2283][/us/stat/110/2283]; [Pub. L. 113–186, § 6][/us/pl/113/186/s6], Nov. 19, 2014, [128 Stat. 1987][/us/stat/128/1987].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 658G, as added [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–241][/us/stat/104/1388-241]; amended [Pub. L. 102–401][/us/pl/102/401], § 3(a), Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586][/us/pl/102/586], § 8(c)(1), Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI][/us/pl/104/193/tVI], § 607, Aug. 22, 1996, [110 Stat. 2283][/us/stat/110/2283]; [Pub. L. 113–186][/us/pl/113/186], § 6, Nov. 19, 2014, [128 Stat. 1987][/us/stat/128/1987].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 
     1996—[Pub. L. 104–193][/us/pl/104/193] reenacted section catchline without change and amended text generally, substituting current provisions for provisions requiring State receiving financial assistance under this subchapter to utilize not less than 20 percent of such assistance for one or more of following: resource and referral programs, grants or loans to assist in meeting State and local standards, monitoring of compliance with licensing and regulatory requirements, training, or improving salaries or other compensation to staff.
 
-    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508, § 5082(2)][/us/pl/101/508/s5082/2], which added this section.
+    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508][/us/pl/101/508], § 5082(2), which added this section.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -163,16 +163,16 @@
 [/us/usc/t42/s9858c/c/2/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F2%2FT
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
 [/us/usc/t42/s9858g/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858g%2Fa%2F3
-[/us/pl/97/35/s658G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658G
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-241
-[/us/pl/102/401/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs3%2Fa
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
-[/us/pl/102/586/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fc%2F1
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
-[/us/pl/104/193/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs607
+[/us/pl/104/193/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVI
 [/us/stat/110/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2283
-[/us/pl/113/186/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs6
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/stat/128/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1987
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
@@ -181,7 +181,7 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs615
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858

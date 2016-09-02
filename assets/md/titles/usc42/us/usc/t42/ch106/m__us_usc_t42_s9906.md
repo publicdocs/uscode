@@ -45,15 +45,15 @@
 
         In this section, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 97–35, title VI, § 675B][/us/pl/97/35/s675B], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2730][/us/stat/112/2730].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 675B, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2730][/us/stat/112/2730].)
 
  __References in Text__ 
 
-    [Section 2808 of this title][/us/usc/t42/s2808], referred to in subsec. (a), was repealed by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    [Section 2808 of this title][/us/usc/t42/s2808], referred to in subsec. (a), was repealed by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
  __Prior Provisions__ 
 
-    A prior section 9906, [Pub. L. 97–35, title VI, § 677][/us/pl/97/35/s677], Aug. 13, 1981, [95 Stat. 516][/us/stat/95/516], contained nondiscrimination provisions, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9906, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 677, Aug. 13, 1981, [95 Stat. 516][/us/stat/95/516], contained nondiscrimination provisions, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
 ----------
 
@@ -71,13 +71,13 @@
 [/us/usc/t42/s9903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9903%2Fa
 [/us/usc/t42/s9903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9903%2Fa%2F1
 [/us/usc/t31/s6503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503%2Fa
-[/us/pl/97/35/s675B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs675B
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2730
 [/us/usc/t42/s2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2808
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
-[/us/pl/97/35/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs677
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F516
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 

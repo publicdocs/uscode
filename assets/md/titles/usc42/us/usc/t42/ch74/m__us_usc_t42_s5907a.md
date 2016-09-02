@@ -65,7 +65,7 @@
 
         (2) include as a part of the annual report required by section 15(a)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Federal Nonnuclear Energy Research and Development Act of 1974 beginning in 1977, a full and complete report on the program under this section.
 
-([Pub. L. 95–39, title I, § 112][/us/pl/95/39/s112], June 3, 1977, [91 Stat. 186][/us/stat/91/186]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
+([Pub. L. 95–39, title I][/us/pl/95/39/tI], § 112, June 3, 1977, [91 Stat. 186][/us/stat/91/186]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
 
  __References in Text__ 
 
@@ -96,9 +96,9 @@
 
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
-[/us/pl/95/39/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs112
+[/us/pl/95/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtI
 [/us/stat/91/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F186
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/95/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39
 [/us/stat/91/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F180

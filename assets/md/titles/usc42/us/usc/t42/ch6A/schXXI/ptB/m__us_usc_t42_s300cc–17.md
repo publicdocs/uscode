@@ -51,7 +51,7 @@
 
         (2) Information pertaining to experimental treatments for acquired immune deficiency syndrome that may be available under a treatment investigational new drug application that has been submitted to the Food and Drug Administration pursuant to part 312 of title 21, Code of Federal Regulations. The Data Bank shall also include information pertaining to the results of clinical trials of such treatments, with the consent of the sponsor, of such experimental treatments, including information concerning potential toxicities or adverse effects associated with the use or administration of such experimental treatment.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2317, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3071][/us/stat/102/3071]; amended [Pub. L. 100–690, title II, § 2617(c)][/us/pl/100/690/s2617/c], Nov. 18, 1988, [102 Stat. 4240][/us/stat/102/4240]; [Pub. L. 102–531, title III, § 312(d)(19)][/us/pl/102/531/s312/d/19], Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 103–43, title XX, § 2008(d)(4)][/us/pl/103/43/s2008/d/4], June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2317, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3071][/us/stat/102/3071]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2617(c), Nov. 18, 1988, [102 Stat. 4240][/us/stat/102/4240]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(19), Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(d)(4), June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
 
  __Amendments__ 
 
@@ -75,13 +75,13 @@
 [/us/usc/t42/s300cc–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%933
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3071
-[/us/pl/100/690/s2617/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2617%2Fc
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4240
-[/us/pl/102/531/s312/d/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F19
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
-[/us/pl/103/43/s2008/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fd%2F4
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F212
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/usc/t42/s300cc–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%933

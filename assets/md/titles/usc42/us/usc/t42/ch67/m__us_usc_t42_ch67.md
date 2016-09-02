@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch66/schVI/m__us_usc_t42_ch66_schVI.md) | [Next](./../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_ch67_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67)
+[Previous](./../../../..//us/usc/t42/ch66/schVI/m__us_usc_t42_s5091...5091n.md) | [Next](./../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_ch67_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67)
 
 ## CHAPTER 67—CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM
 
@@ -451,7 +451,7 @@ SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch66/schVI/m__us_usc_t42_ch66_schVI.md) | [Next](./../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_ch67_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67)
+[Previous](./../../../..//us/usc/t42/ch66/schVI/m__us_usc_t42_s5091...5091n.md) | [Next](./../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_ch67_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67)
 
 ----------
 ----------

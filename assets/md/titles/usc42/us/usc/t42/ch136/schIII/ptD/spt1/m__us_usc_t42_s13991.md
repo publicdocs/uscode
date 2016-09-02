@@ -17,7 +17,7 @@
 
     The State Justice Institute may award grants for the purpose of developing, testing, presenting, and disseminating model programs to be used by States (as defined in [section 10701 of this title][/us/usc/t42/s10701]) in training judges and court personnel in the laws of the States and by Indian tribes in training tribal judges and court personnel in the laws of the tribes on rape, sexual assault, domestic violence, dating violence, and other crimes of violence motivated by the victim’s gender. Nothing shall preclude the attendance of tribal judges and court personnel at programs funded under this section for States to train judges and court personnel on the laws of the States.
 
-([Pub. L. 103–322, title IV, § 40411][/us/pl/103/322/s40411], Sept. 13, 1994, [108 Stat. 1942][/us/stat/108/1942]; [Pub. L. 106–386, div. B, title IV, § 1406(c)(2)][/us/pl/106/386/s1406/c/2], (d)(1), Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40411, Sept. 13, 1994, [108 Stat. 1942][/us/stat/108/1942]; [Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1406(c)(2), (d)(1), Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t42/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10701
-[/us/pl/103/322/s40411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40411
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1942
-[/us/pl/106/386/s1406/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fc%2F2
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1516
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/103/322/s40401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40401

@@ -41,7 +41,7 @@
 
         (4) the quantity of spent nuclear fuel or high-level radioactive waste at the site of such facility at any one time may not exceed 15,000 metric tons of heavy metal.
 
-([Pub. L. 97–425, title I, § 148][/us/pl/97/425/s148], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5021][/us/pl/100/203/s5021], Dec. 22, 1987, [101 Stat. 1330–235][/us/stat/101/1330-235].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 148, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5021, Dec. 22, 1987, [101 Stat. 1330–235][/us/stat/101/1330-235].)
 
  __References in Text__ 
 
@@ -68,10 +68,10 @@
 [/us/usc/t42/s5842/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842%2F3
 [/us/usc/t42/s10161/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10161%2Fb%2F1
 [/us/usc/t42/s10135/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10135%2Fd
-[/us/pl/97/425/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs148
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5021
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-235
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

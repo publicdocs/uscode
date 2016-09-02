@@ -41,7 +41,7 @@
 
         (3) advising the governing body, private investors, and businesses of ways in which they might engage in mutually beneficial efforts.
 
-([Pub. L. 97–35, title VI, § 615][/us/pl/97/35/s615], Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489]; [Pub. L. 105–285, title II, § 202(b)(2)][/us/pl/105/285/s202/b/2], Oct. 27, 1998, [112 Stat. 2755][/us/stat/112/2755].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 615, Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489]; [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 202(b)(2), Oct. 27, 1998, [112 Stat. 2755][/us/stat/112/2755].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs615
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F489
-[/us/pl/105/285/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs202%2Fb%2F2
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2755
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9905%2Fa

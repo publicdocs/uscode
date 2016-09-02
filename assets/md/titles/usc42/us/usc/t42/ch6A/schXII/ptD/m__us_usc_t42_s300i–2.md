@@ -111,11 +111,11 @@
 
         (4) The Administrator may use not more than $5,000,000 from the funds made available under paragraph (1) to make grants to community water systems serving a population of less than 3,300 persons for activities and projects undertaken in accordance with the guidance provided to such systems under subsection (d) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1433, as added [Pub. L. 107–188, title IV, § 401][/us/pl/107/188/s401], June 12, 2002, [116 Stat. 682][/us/stat/116/682].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1433, as added [Pub. L. 107–188, title IV][/us/pl/107/188/tIV], § 401, June 12, 2002, [116 Stat. 682][/us/stat/116/682].)
 
  __References in Text__ 
 
-    The Emergency Planning and Community Right-to-Know Act, referred to in subsec. (b), probably means the Emergency Planning and Community Right-to-Know Act of 1986, [Pub. L. 99–499, title III][/us/pl/99/499], Oct. 17, 1986, [100 Stat. 1728][/us/stat/100/1728], which is classified generally to chapter 116 (§ 11001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11001 of this title][/us/usc/t42/s11001] and Tables.
+    The Emergency Planning and Community Right-to-Know Act, referred to in subsec. (b), probably means the Emergency Planning and Community Right-to-Know Act of 1986, [Pub. L. 99–499, title III][/us/pl/99/499/tIII], Oct. 17, 1986, [100 Stat. 1728][/us/stat/100/1728], which is classified generally to chapter 116 (§ 11001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11001 of this title][/us/usc/t42/s11001] and Tables.
 
 ----------
 
@@ -129,9 +129,9 @@
 [/us/usc/t42/s300i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300i
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs401
+[/us/pl/107/188/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIV
 [/us/stat/116/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F682
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1728
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
 

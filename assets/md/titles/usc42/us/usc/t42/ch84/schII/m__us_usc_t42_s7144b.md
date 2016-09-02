@@ -75,7 +75,7 @@
 
         (4) Each report under this subsection as submitted to the committees referred to in subparagraphs (D) and (E) of paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
-([Pub. L. 95–91, title II, § 215][/us/pl/95/91/s215], as added [Pub. L. 106–65, div. C, title XXXII, § 3204(a)][/us/pl/106/65/s3204/a], Oct. 5, 1999, [113 Stat. 955][/us/stat/113/955]; amended [Pub. L. 109–364, div. C, title XXXI, § 3117(f)][/us/pl/109/364/s3117/f], Oct. 17, 2006, [120 Stat. 2508][/us/stat/120/2508].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 215, as added [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3204(a), Oct. 5, 1999, [113 Stat. 955][/us/stat/113/955]; amended [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3117(f), Oct. 17, 2006, [120 Stat. 2508][/us/stat/120/2508].)
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Transfer of Functions__ 
 
-[Pub. L. 109–364, div. C, title XXXI, § 3117(a)][/us/pl/109/364/s3117/a], Oct. 17, 2006, [120 Stat. 2507][/us/stat/120/2507], as amended by [Pub. L. 111–84, div. C, title XXXI, § 3121][/us/pl/111/84/s3121], Oct. 28, 2009, [123 Stat. 2710][/us/stat/123/2710], provided that: 
+[Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3117(a), Oct. 17, 2006, [120 Stat. 2507][/us/stat/120/2507], as amended by [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3121, Oct. 28, 2009, [123 Stat. 2710][/us/stat/123/2710], provided that: 
 
 > “The functions, personnel, funds, assets, and other resources of the Office of Defense Nuclear Counterintelligence of the National Nuclear Security Administration are transferred to the Secretary of Energy, to be administered (except to any extent otherwise directed by the Secretary) by the Director of the Office of Counterintelligence of the Department of Energy.”
 
@@ -102,19 +102,19 @@
 ----------
 ----------
 
-[/us/pl/95/91/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs215
-[/us/pl/106/65/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3204%2Fa
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F955
-[/us/pl/109/364/s3117/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3117%2Ff
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2508
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
-[/us/pl/109/364/s3117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3117%2Fa
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2507
-[/us/pl/111/84/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3121
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2710
 
 

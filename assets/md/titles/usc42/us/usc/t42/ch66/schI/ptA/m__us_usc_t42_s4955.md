@@ -53,7 +53,7 @@
 
         (2) The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any child care allowance to be provided.
 
-([Pub. L. 93–113, title I, § 105][/us/pl/93/113/s105], Oct. 1, 1973, [87 Stat. 398][/us/stat/87/398]; [Pub. L. 94–130, § 5(a)][/us/pl/94/130/s5/a], Nov. 14, 1975, [89 Stat. 684][/us/stat/89/684]; [Pub. L. 96–143, § 3][/us/pl/96/143/s3], Dec. 13, 1979, [93 Stat. 1074][/us/stat/93/1074]; [Pub. L. 98–288, § 6][/us/pl/98/288/s6], May 21, 1984, [98 Stat. 191][/us/stat/98/191]; [Pub. L. 99–551, § 10(i)(1)][/us/pl/99/551/s10/i/1], Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 101–204, title I, § 102][/us/pl/101/204/s102], Dec. 7, 1989, [103 Stat. 1811][/us/stat/103/1811]; [Pub. L. 103–82, title III, § 325][/us/pl/103/82/s325], Sept. 21, 1993, [107 Stat. 901][/us/stat/107/901]; [Pub. L. 111–13, title II, § 2103][/us/pl/111/13/s2103], Apr. 21, 2009, [123 Stat. 1583][/us/stat/123/1583].)
+([Pub. L. 93–113, title I][/us/pl/93/113/tI], § 105, Oct. 1, 1973, [87 Stat. 398][/us/stat/87/398]; [Pub. L. 94–130][/us/pl/94/130], § 5(a), Nov. 14, 1975, [89 Stat. 684][/us/stat/89/684]; [Pub. L. 96–143][/us/pl/96/143], § 3, Dec. 13, 1979, [93 Stat. 1074][/us/stat/93/1074]; [Pub. L. 98–288][/us/pl/98/288], § 6, May 21, 1984, [98 Stat. 191][/us/stat/98/191]; [Pub. L. 99–551][/us/pl/99/551], § 10(i)(1), Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 101–204, title I][/us/pl/101/204/tI], § 102, Dec. 7, 1989, [103 Stat. 1811][/us/stat/103/1811]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 325, Sept. 21, 1993, [107 Stat. 901][/us/stat/107/901]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2103, Apr. 21, 2009, [123 Stat. 1583][/us/stat/123/1583].)
 
  __References in Text__ 
 
@@ -63,17 +63,17 @@
 
     2009—Subsec. (a)(1)(B). [Pub. L. 111–13][/us/pl/111/13] substituted “Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate.” for “Such stipend shall not exceed $95 per month in fiscal year 1994, but shall be set at a minimum of $100 per month, and a maximum of $125 per month assuming the availability of funds to accomplish such maximum, during the service of the volunteer after October 1, 1994.” and “stipend set at a rate that is not more than a maximum of $250 per month” for “stipend of a maximum of $200 per month”.
 
-    1993—Subsec. (a)(1). [Pub. L. 103–82, § 325(a)][/us/pl/103/82/s325/a], designated first sentence as subpar. (A), added subpars. (B) and (C), and struck out former second sentence which read as follows: “Such stipend shall not exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years during the volunteer’s service, except that the Director may provide a stipend not to exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years in the case of persons who have served for at least one year and who, in accordance with standards established in regulations which the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.”
+    1993—Subsec. (a)(1). [Pub. L. 103–82][/us/pl/103/82], § 325(a), designated first sentence as subpar. (A), added subpars. (B) and (C), and struck out former second sentence which read as follows: “Such stipend shall not exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years during the volunteer’s service, except that the Director may provide a stipend not to exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years in the case of persons who have served for at least one year and who, in accordance with standards established in regulations which the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.”
 
-    Subsec. (b)(3). [Pub. L. 103–82, § 325(b)(1)][/us/pl/103/82/s325/b/1], struck out subpar. (A), struck out subpar. (B) designation before “The Director shall adjust”, and inserted at end: “The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.”. Prior to amendment, subpar. (A) read as follows: “The Director shall consult with regional and State offices of the ACTION Agency to make a determination of the cost of living within each State and whether there are significant local price differentials within the State.”
+    Subsec. (b)(3). [Pub. L. 103–82][/us/pl/103/82], § 325(b)(1), struck out subpar. (A), struck out subpar. (B) designation before “The Director shall adjust”, and inserted at end: “The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.”. Prior to amendment, subpar. (A) read as follows: “The Director shall consult with regional and State offices of the ACTION Agency to make a determination of the cost of living within each State and whether there are significant local price differentials within the State.”
 
-    Subsec. (b)(4). [Pub. L. 103–82, § 325(b)(2)][/us/pl/103/82/s325/b/2], struck out par. (4) which read as follows: “The Director, in coordination with regional and State offices of the ACTION Agency and taking into account paragraphs (2) and (3), shall establish a method for setting subsistence allowances. The Director shall submit a report on such methods to the appropriate authorizing committees of Congress not later than 90 days after the date of enactment of the fiscal year 1990 appropriation.”
+    Subsec. (b)(4). [Pub. L. 103–82][/us/pl/103/82], § 325(b)(2), struck out par. (4) which read as follows: “The Director, in coordination with regional and State offices of the ACTION Agency and taking into account paragraphs (2) and (3), shall establish a method for setting subsistence allowances. The Director shall submit a report on such methods to the appropriate authorizing committees of Congress not later than 90 days after the date of enactment of the fiscal year 1990 appropriation.”
 
-    Subsec. (c). [Pub. L. 103–82, § 325(c)][/us/pl/103/82/s325/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–82][/us/pl/103/82], § 325(c), added subsec. (c).
 
-    1989—Subsec. (a)(1). [Pub. L. 101–204, § 102(1)][/us/pl/101/204/s102/1], substituted “$75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years” for “$75 per month” in two places.
+    1989—Subsec. (a)(1). [Pub. L. 101–204][/us/pl/101/204], § 102(1), substituted “$75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years” for “$75 per month” in two places.
 
-    Subsec. (b). [Pub. L. 101–204, § 102(2)][/us/pl/101/204/s102/2], designated existing provisions as par. (1), substituted “places of training and to and from locations to which volunteers are assigned during periods of service)” for “places of training),”, and added pars. (2) to (4).
+    Subsec. (b). [Pub. L. 101–204][/us/pl/101/204], § 102(2), designated existing provisions as par. (1), substituted “places of training and to and from locations to which volunteers are assigned during periods of service)” for “places of training),”, and added pars. (2) to (4).
 
     1986—Subsec. (b). [Pub. L. 99–551][/us/pl/99/551] substituted “the Director” for “he” before “deems”.
 
@@ -97,7 +97,7 @@
 
  __Additional Appropriations Authorization__ 
 
-[Pub. L. 94–130, § 5(b)][/us/pl/94/130/s5/b], Nov. 14, 1975, [89 Stat. 684][/us/stat/89/684], as amended by [Pub. L. 96–143, § 17][/us/pl/96/143/s17], Dec. 13, 1979, [93 Stat. 1082][/us/stat/93/1082], provided that: 
+[Pub. L. 94–130][/us/pl/94/130], § 5(b), Nov. 14, 1975, [89 Stat. 684][/us/stat/89/684], as amended by [Pub. L. 96–143][/us/pl/96/143], § 17, Dec. 13, 1979, [93 Stat. 1082][/us/stat/93/1082], provided that: 
 
 > “There are authorized to be appropriated, in addition to the sums authorized to be appropriated pursuant to section 501 of such Act \[[section 5081 of this title][/us/usc/t42/s5081]\], such additional sums as may be necessary to carry out the amendments made by subsection (a) of this section \[amending this section\].”
 
@@ -111,32 +111,32 @@
 [/us/usc/t42/s12601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12601
 [/us/usc/t5/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5582
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/93/113/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs105
+[/us/pl/93/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtI
 [/us/stat/87/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F398
-[/us/pl/94/130/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130%2Fs5%2Fa
+[/us/pl/94/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130
 [/us/stat/89/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F684
-[/us/pl/96/143/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs3
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1074
-[/us/pl/98/288/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs6
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F191
-[/us/pl/99/551/s10/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs10%2Fi%2F1
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3078
-[/us/pl/101/204/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs102
+[/us/pl/101/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtI
 [/us/stat/103/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1811
-[/us/pl/103/82/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs325
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F901
-[/us/pl/111/13/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2103
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1583
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
-[/us/pl/103/82/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs325%2Fa
-[/us/pl/103/82/s325/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs325%2Fb%2F1
-[/us/pl/103/82/s325/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs325%2Fb%2F2
-[/us/pl/103/82/s325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs325%2Fc
-[/us/pl/101/204/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs102%2F1
-[/us/pl/101/204/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs102%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
@@ -150,9 +150,9 @@
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/pl/99/551/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs11
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/94/130/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130%2Fs5%2Fb
+[/us/pl/94/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130
 [/us/stat/89/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F684
-[/us/pl/96/143/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs17
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1082
 [/us/usc/t42/s5081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5081
 

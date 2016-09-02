@@ -41,7 +41,7 @@
 
         Revolving loan funds established with lines of credit provided under this subpart may be used to provide technical assistance to private business enterprises and to provide financial assistance in the form of loans, loan guarantees, interest reduction assistance, equity shares, and other such forms of assistance to business enterprises in target areas and who are in compliance with [section 13823(a)(4) of this title][/us/usc/t42/s13823/a/4].
 
-([Pub. L. 103–322, title III, § 31114][/us/pl/103/322/s31114], Sept. 13, 1994, [108 Stat. 1884][/us/stat/108/1884].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31114, Sept. 13, 1994, [108 Stat. 1884][/us/stat/108/1884].)
 
 ----------
 
@@ -54,7 +54,7 @@
 [/us/usc/t42/s13822/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13822%2Fb%2F2
 [/us/usc/t42/s13821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13821
 [/us/usc/t42/s13823/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13823%2Fa%2F4
-[/us/pl/103/322/s31114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31114
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1884
 
 

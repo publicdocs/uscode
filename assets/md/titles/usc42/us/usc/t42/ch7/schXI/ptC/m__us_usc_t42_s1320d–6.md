@@ -37,7 +37,7 @@
 
         (3) if the offense is committed with intent to sell, transfer, or use individually identifiable health information for commercial advantage, personal gain, or malicious harm, be fined not more than $250,000, imprisoned not more than 10 years, or both.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1177, as added [Pub. L. 104–191, title II, § 262(a)][/us/pl/104/191/s262/a], Aug. 21, 1996, [110 Stat. 2029][/us/stat/110/2029]; amended [Pub. L. 111–5, div. A, title XIII, § 13409][/us/pl/111/5/s13409], Feb. 17, 2009, [123 Stat. 271][/us/stat/123/271].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1177, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 262(a), Aug. 21, 1996, [110 Stat. 2029][/us/stat/110/2029]; amended [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13409, Feb. 17, 2009, [123 Stat. 271][/us/stat/123/271].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t42/s1320d–9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%939%2Fb%2F3
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2029
-[/us/pl/111/5/s13409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13409
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F271
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t42/s1320d–9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%939%2Fb%2F3

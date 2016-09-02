@@ -33,7 +33,7 @@
 
         (3) the American Red Cross.
 
-([Pub. L. 93–288, title II, § 204][/us/pl/93/288/s204], as added [Pub. L. 106–390, title I, § 103][/us/pl/106/390/s103], Oct. 30, 2000, [114 Stat. 1557][/us/stat/114/1557]; amended [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title II][/us/pl/93/288/tII], § 204, as added [Pub. L. 106–390, title I][/us/pl/106/390/tI], § 103, Oct. 30, 2000, [114 Stat. 1557][/us/stat/114/1557]; amended [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __Amendments__ 
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/93/288/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs204
-[/us/pl/106/390/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs103
+[/us/pl/93/288/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtII
+[/us/pl/106/390/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtI
 [/us/stat/114/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1557
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1

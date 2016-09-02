@@ -55,15 +55,15 @@
 
         (10) Non-Federal entities authorized under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340D, as added [Pub. L. 103–183, title I, § 104][/us/pl/103/183/s104], Dec. 14, 1993, [107 Stat. 2230][/us/stat/107/2230]; amended [Pub. L. 106–310, div. A, title XXV, § 2502(b)][/us/pl/106/310/s2502/b], Oct. 17, 2000, [114 Stat. 1163][/us/stat/114/1163]; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340D, as added [Pub. L. 103–183, title I][/us/pl/103/183/tI], § 104, Dec. 14, 1993, [107 Stat. 2230][/us/stat/107/2230]; amended [Pub. L. 106–310, div. A, title XXV][/us/pl/106/310/dA/tXXV], § 2502(b), Oct. 17, 2000, [114 Stat. 1163][/us/stat/114/1163]; [Pub. L. 107–251, title VI][/us/pl/107/251/tVI], § 601(a), Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664].)
 
  __References in Text__ 
 
     [Section 247b–7 of this title][/us/usc/t42/s247b–7], referred to in subsec. (c)(1), relates to loan repayment program and not to assistance relating to tuberculosis.
 
-    Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of this part by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+    Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of this part by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
-    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (c)(6), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (c)(6), was repealed by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
     The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25][/us/usc/t25/s450] and Tables.
 
@@ -89,18 +89,18 @@
 [/us/usc/t42/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/183/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs104
+[/us/pl/103/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtI
 [/us/stat/107/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2230
-[/us/pl/106/310/s2502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2502%2Fb
+[/us/pl/106/310/dA/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXV
 [/us/stat/114/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1163
-[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
+[/us/pl/107/251/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtVI
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
 [/us/usc/t42/s247b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%937
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206

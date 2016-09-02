@@ -77,23 +77,23 @@
 
                 located on property which is owned by a State or local government or over which a State or local government has an easement or right-of-way. A utility facility may be publicly, privately, or cooperatively owned.
 
-([Pub. L. 91–646, title II, § 202][/us/pl/91/646/s202], Jan. 2, 1971, [84 Stat. 1895][/us/stat/84/1895]; [Pub. L. 100–17, title IV, § 405][/us/pl/100/17/s405], Apr. 2, 1987, [101 Stat. 249][/us/stat/101/249]; [Pub. L. 112–141, div. A, title I, § 1521(a)][/us/pl/112/141/s1521/a], July 6, 2012, [126 Stat. 577][/us/stat/126/577].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 202, Jan. 2, 1971, [84 Stat. 1895][/us/stat/84/1895]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 405, Apr. 2, 1987, [101 Stat. 249][/us/stat/101/249]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1521(a), July 6, 2012, [126 Stat. 577][/us/stat/126/577].)
 
  __Amendments__ 
 
-    2012—Subsec. (a)(4). [Pub. L. 112–141, § 1521(a)(1)][/us/pl/112/141/s1521/a/1], substituted “$25,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]” for “$10,000”.
+    2012—Subsec. (a)(4). [Pub. L. 112–141][/us/pl/112/141], § 1521(a)(1), substituted “$25,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]” for “$10,000”.
 
-    Subsec. (c). [Pub. L. 112–141, § 1521(a)(2)][/us/pl/112/141/s1521/a/2], substituted “$40,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]” for “$20,000” in second sentence.
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 1521(a)(2), substituted “$40,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]” for “$20,000” in second sentence.
 
-    1987—Subsec. (a). [Pub. L. 100–17, § 405(a)(1)][/us/pl/100/17/s405/a/1], inserted introductory provisions and struck out former introductory provisions which read as follows: “Whenever the acquisition of real property for a program or project undertaken by a Federal agency in any State will result in the displacement of any person on or after January 2, 1971, the head of such agency shall make a payment to any displaced person, upon proper application as approved by such agency head, for—”.
+    1987—Subsec. (a). [Pub. L. 100–17][/us/pl/100/17], § 405(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “Whenever the acquisition of real property for a program or project undertaken by a Federal agency in any State will result in the displacement of any person on or after January 2, 1971, the head of such agency shall make a payment to any displaced person, upon proper application as approved by such agency head, for—”.
 
-    Subsec. (a)(4). [Pub. L. 100–17, § 405(a)(2)][/us/pl/100/17/s405/a/2]–(4), added par. (4).
+    Subsec. (a)(4). [Pub. L. 100–17][/us/pl/100/17], § 405(a)(2)–(4), added par. (4).
 
-    Subsec. (b). [Pub. L. 100–17, § 405(b)][/us/pl/100/17/s405/b], substituted “an expense and dislocation allowance, which shall be determined according to a schedule established by the head of the lead agency” for “a moving expense allowance, determined according to a schedule established by the head of the Federal agency, not to exceed $300; and a dislocation allowance of $200”.
+    Subsec. (b). [Pub. L. 100–17][/us/pl/100/17], § 405(b), substituted “an expense and dislocation allowance, which shall be determined according to a schedule established by the head of the lead agency” for “a moving expense allowance, determined according to a schedule established by the head of the Federal agency, not to exceed $300; and a dislocation allowance of $200”.
 
-    Subsec. (c). [Pub. L. 100–17, § 405(c)][/us/pl/100/17/s405/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any displaced person eligible for payments under subsection (a) of this section who is displaced from his place of business or from his farm operation and who elects to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section, may receive a fixed payment in an amount equal to the average annual net earnings of the business or farm operation, except that such payment shall be not less than $2,500 nor more than $10,000. In the case of a business no payment shall be made under this subsection unless the head of the Federal agency is satisfied that the business (1) cannot be relocated without a substantial loss of its existing patronage, and (2) is not a part of a commercial enterprise having at least one other establishment not being acquired by the United States, which is engaged in the same or similar business. For purposes of this subsection, the term ‘average annual net earnings’ means one-half of any net earnings of the business or farm operation, before Federal, State, and local income taxes, during the two taxable years immediately preceding the taxable year in which such business or farm operation moves from the real property acquired for such project, or during such other period as the head of such agency determines to be more equitable for establishing such earnings, and includes any compensation paid by the business or farm operation to the owner, his spouse, or his dependents during such period.”
+    Subsec. (c). [Pub. L. 100–17][/us/pl/100/17], § 405(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any displaced person eligible for payments under subsection (a) of this section who is displaced from his place of business or from his farm operation and who elects to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section, may receive a fixed payment in an amount equal to the average annual net earnings of the business or farm operation, except that such payment shall be not less than $2,500 nor more than $10,000. In the case of a business no payment shall be made under this subsection unless the head of the Federal agency is satisfied that the business (1) cannot be relocated without a substantial loss of its existing patronage, and (2) is not a part of a commercial enterprise having at least one other establishment not being acquired by the United States, which is engaged in the same or similar business. For purposes of this subsection, the term ‘average annual net earnings’ means one-half of any net earnings of the business or farm operation, before Federal, State, and local income taxes, during the two taxable years immediately preceding the taxable year in which such business or farm operation moves from the real property acquired for such project, or during such other period as the head of such agency determines to be more equitable for establishing such earnings, and includes any compensation paid by the business or farm operation to the owner, his spouse, or his dependents during such period.”
 
-    Subsec. (d). [Pub. L. 100–17, § 405(d)][/us/pl/100/17/s405/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–17][/us/pl/100/17], § 405(d), added subsec. (d).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -112,21 +112,21 @@
 
 [/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
 [/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
-[/us/pl/91/646/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs202
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1895
-[/us/pl/100/17/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs405
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F249
-[/us/pl/112/141/s1521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F577
-[/us/pl/112/141/s1521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fa%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
-[/us/pl/112/141/s1521/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fa%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
-[/us/pl/100/17/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs405%2Fa%2F1
-[/us/pl/100/17/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs405%2Fa%2F2
-[/us/pl/100/17/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs405%2Fb
-[/us/pl/100/17/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs405%2Fc
-[/us/pl/100/17/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs405%2Fd
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s1521/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fg

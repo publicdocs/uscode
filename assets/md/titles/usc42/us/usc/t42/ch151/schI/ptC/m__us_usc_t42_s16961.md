@@ -31,7 +31,7 @@
 
         (2) limited to personnel of the Center or such agencies that have met all requirements set by the Attorney General, including training, certification, and background screening.
 
-([Pub. L. 109–248, title I, § 151][/us/pl/109/248/s151], July 27, 2006, [120 Stat. 608][/us/stat/120/608].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 151, July 27, 2006, [120 Stat. 608][/us/stat/120/608].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/109/248/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs151
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F608
 
 

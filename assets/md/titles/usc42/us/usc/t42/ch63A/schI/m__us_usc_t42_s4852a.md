@@ -47,7 +47,7 @@
 
         The members of the task force shall not receive Federal compensation for their participation.
 
-([Pub. L. 102–550, title X, § 1015][/us/pl/102/550/s1015], Oct. 28, 1992, [106 Stat. 3908][/us/stat/106/3908].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1015, Oct. 28, 1992, [106 Stat. 3908][/us/stat/106/3908].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1015
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3908
 
 

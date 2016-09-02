@@ -17,7 +17,7 @@
 
     Not later than 1 year after May 21, 2008, the Commission shall issue final regulations to carry out this chapter.
 
-([Pub. L. 110–233, title II, § 211][/us/pl/110/233/s211], May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 211, May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/233/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs211
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F920
 
 

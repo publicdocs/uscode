@@ -17,7 +17,7 @@
 
     The WTC Program Administrator may enter into arrangements with other government agencies, insurance companies, or other third-party administrators to provide for timely and accurate processing of claims under sections 300mm–22, 300mm–23, 300mm–32, and 300mm–33 of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3332, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3656][/us/stat/124/3656].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3332, as added [Pub. L. 111–347, title I][/us/pl/111/347/tI], § 101, Jan. 2, 2011, [124 Stat. 3656][/us/stat/124/3656].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
+[/us/pl/111/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtI
 [/us/stat/124/3656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3656
 
 

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 106–65, div. C, title XXXI, § 3164][/us/pl/106/65/s3164], Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946], which related to the whistleblower protection program, was renumbered [section 4602 of Pub. L. 107–314][/us/pl/107/314/s4602], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(3)(A)][/us/pl/108/136/s3141/i/3/A]–(C), Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776], and is classified to [section 2702 of Title 50][/us/usc/t50/s2702], War and National Defense.
+    Section, [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3164, Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946], which related to the whistleblower protection program, was renumbered [section 4602 of Pub. L. 107–314][/us/pl/107/314/s4602], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(3)(A)–(C), Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776], and is classified to [section 2702 of Title 50][/us/usc/t50/s2702], War and National Defense.
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3164
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F946
 [/us/pl/107/314/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4602
-[/us/pl/108/136/s3141/i/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F3%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1776
 [/us/usc/t50/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2702
 

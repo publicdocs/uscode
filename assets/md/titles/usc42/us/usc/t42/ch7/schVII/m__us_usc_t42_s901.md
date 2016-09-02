@@ -19,7 +19,7 @@
 
     (b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 701, [49 Stat. 635][/us/stat/49/635]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 401(a), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 103–296, title I, § 101][/us/pl/103/296/s101], Aug. 15, 1994, [108 Stat. 1465][/us/stat/108/1465].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 701, [49 Stat. 635][/us/stat/49/635]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 401(a), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 101, Aug. 15, 1994, [108 Stat. 1465][/us/stat/108/1465].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Transfers to New Social Security Administration__ 
 
-[Pub. L. 103–296, title I, § 105][/us/pl/103/296/s105], Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that:
+[Pub. L. 103–296, title I][/us/pl/103/296/tI], § 105, Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that:
 
 >     “(a) __Functions.—__ 
 
@@ -101,7 +101,7 @@
 
  __Transition Rules__ 
 
-[Pub. L. 103–296, title I, § 106][/us/pl/103/296/s106], Aug. 15, 1994, [108 Stat. 1474][/us/stat/108/1474], provided that:
+[Pub. L. 103–296, title I][/us/pl/103/296/tI], § 106, Aug. 15, 1994, [108 Stat. 1474][/us/stat/108/1474], provided that:
 
 >     “(a) __Transition Rules Relating to Officers of the Social Security Administration.—__ 
 
@@ -175,7 +175,7 @@
 
  __Rules of Construction__ 
 
-[Pub. L. 103–296, title I, § 109][/us/pl/103/296/s109], Aug. 15, 1994, [108 Stat. 1489][/us/stat/108/1489], provided that:
+[Pub. L. 103–296, title I][/us/pl/103/296/tI], § 109, Aug. 15, 1994, [108 Stat. 1489][/us/stat/108/1489], provided that:
 
 >     “(a)  __References to the Department of Health and Human Services__  __.—__ 
 
@@ -200,13 +200,13 @@
 [/us/stat/49/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F635
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/103/296/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs101
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1465
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/103/296/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs105
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1472
 [/us/usc/t42/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs901
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
@@ -216,7 +216,7 @@
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/103/296/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs106
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1474
 [/us/usc/t42/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs901
 [/us/usc/t42/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs902
@@ -224,7 +224,7 @@
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/103/296/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs109
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1489
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381

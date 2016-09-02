@@ -21,7 +21,7 @@
 
     (2) restrict the application of the amendments made by this subtitle.
 
-([Pub. L. 111–148, title I, § 1563(d)][/us/pl/111/148/s1563/d], formerly § 1562(d), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 269][/us/stat/124/269], 911.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563(d), formerly § 1562(d), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 269][/us/stat/124/269], 911.)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1563/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fd
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F269
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

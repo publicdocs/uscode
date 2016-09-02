@@ -35,7 +35,7 @@
 
         In conducting the studies and preparing the reports required under this subsection, the Corporation shall consult with veterans’ service organizations, the Secretary of Veterans Affairs, State veterans agencies, the Secretary of Defense, as appropriate, and other individuals and entities the Corporation considers appropriate.
 
-([Pub. L. 101–610, title I, § 196C][/us/pl/101/610/s196C], as added [Pub. L. 111–13, title I, § 1709][/us/pl/111/13/s1709], Apr. 21, 2009, [123 Stat. 1549][/us/stat/123/1549].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 196C, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1709, Apr. 21, 2009, [123 Stat. 1549][/us/stat/123/1549].)
 
  __References in Text__ 
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/101/610/s196C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs196C
-[/us/pl/111/13/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1709
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1549
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

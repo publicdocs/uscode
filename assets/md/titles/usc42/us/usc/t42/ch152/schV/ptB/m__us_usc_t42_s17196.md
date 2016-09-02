@@ -31,7 +31,7 @@
 
         (4) Nothing in this part shall be construed to alter or affect any law relating to the management or protection of Federal lands.
 
-([Pub. L. 110–140, title VI, § 617][/us/pl/110/140/s617], Dec. 19, 2007, [121 Stat. 1682][/us/stat/121/1682].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 617, Dec. 19, 2007, [121 Stat. 1682][/us/stat/121/1682].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/110/140/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs617
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1682
 
 

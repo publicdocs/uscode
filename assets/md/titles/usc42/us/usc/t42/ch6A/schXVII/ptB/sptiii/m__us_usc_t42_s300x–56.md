@@ -29,7 +29,7 @@
 
         Any person who violates any prohibition established in subsection (a) of this section shall for each violation be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1946, as added [Pub. L. 102–321, title II, § 203(a)][/us/pl/102/321/s203/a], July 10, 1992, [106 Stat. 406][/us/stat/106/406].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1946, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 203(a), July 10, 1992, [106 Stat. 406][/us/stat/106/406].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fa
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F406
 
 

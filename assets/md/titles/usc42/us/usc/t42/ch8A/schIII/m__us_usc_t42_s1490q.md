@@ -45,7 +45,7 @@
 
         The Secretary is authorized to advance from the Rural Housing Insurance Fund such sums as may be necessary to meet the requirements of subsection (a)(1) of this section, subject to limits previously approved in appropriations Acts.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 541, as added [Pub. L. 101–625, title IX, § 934][/us/pl/101/625/s934], Nov. 28, 1990, [104 Stat. 4404][/us/stat/104/4404]; amended [Pub. L. 102–550, title VII, § 713][/us/pl/102/550/s713], Oct. 28, 1992, [106 Stat. 3842][/us/stat/106/3842].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 541, as added [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 934, Nov. 28, 1990, [104 Stat. 4404][/us/stat/104/4404]; amended [Pub. L. 102–550, title VII][/us/pl/102/550/tVII], § 713, Oct. 28, 1992, [106 Stat. 3842][/us/stat/106/3842].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t42/s1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/101/625/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs934
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4404
-[/us/pl/102/550/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs713
+[/us/pl/102/550/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVII
 [/us/stat/106/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3842
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

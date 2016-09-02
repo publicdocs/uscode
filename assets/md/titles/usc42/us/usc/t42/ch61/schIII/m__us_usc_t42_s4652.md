@@ -23,7 +23,7 @@
 
         (2) Payment under this subsection shall not result in duplication of any payments otherwise authorized by law. No such payment shall be made unless the owner of the land involved disclaims all interest in the improvements of the tenant. In consideration for any such payment, the tenant shall assign, transfer, and release to the United States all his right, title, and interest in and to such improvements. Nothing in this subsection shall be construed to deprive the tenant of any rights to reject payment under this subsection and to obtain payment for such property interests in accordance with applicable law, other than this subsection.
 
-([Pub. L. 91–646, title III, § 302][/us/pl/91/646/s302], Jan. 2, 1971, [84 Stat. 1905][/us/stat/84/1905].)
+([Pub. L. 91–646, title III][/us/pl/91/646/tIII], § 302, Jan. 2, 1971, [84 Stat. 1905][/us/stat/84/1905].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/646/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs302
+[/us/pl/91/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtIII
 [/us/stat/84/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1905
 
 

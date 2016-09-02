@@ -57,7 +57,7 @@
 
         The Secretary shall provide resources necessary in the judgment of the Secretary for the Technical Advisory Committee to carry out its responsibilities under this subchapter.
 
-([Pub. L. 109–58, title VIII, § 807][/us/pl/109/58/s807], Aug. 8, 2005, [119 Stat. 849][/us/stat/119/849].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 807, Aug. 8, 2005, [119 Stat. 849][/us/stat/119/849].)
 
 ----------
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t42/s16153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16153
-[/us/pl/109/58/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs807
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F849
 
 

@@ -21,7 +21,7 @@
 
     (2) implementation grants to enable applicants to carry out homeownership programs in accordance with this part.
 
-([Pub. L. 101–625, title IV, § 441][/us/pl/101/625/s441], Nov. 28, 1990, [104 Stat. 4172][/us/stat/104/4172]; [Pub. L. 102–550, title I, § 181(a)(2)(B)(ii)][/us/pl/102/550/s181/a/2/B/ii], Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 441, Nov. 28, 1990, [104 Stat. 4172][/us/stat/104/4172]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 181(a)(2)(B)(ii), Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs441
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4172
-[/us/pl/102/550/s181/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fa%2F2%2FB%2Fii
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3735
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

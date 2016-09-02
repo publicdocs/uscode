@@ -45,7 +45,7 @@
 
             If the appropriation made pursuant to paragraph (3) for any fiscal year is not sufficient to satisfy the requirements of paragraph (1), the Administrator shall, prior to any other allocation or reservation, reserve such sums as necessary from the funds appropriated pursuant to [section 300j–12(m) of this title][/us/usc/t42/s300j–12/m] to provide reimbursement for the training and certification costs mandated by this subsection.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1419, as added [Pub. L. 104–182, title I, § 123][/us/pl/104/182/s123], Aug. 6, 1996, [110 Stat. 1652][/us/stat/110/1652].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1419, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 123, Aug. 6, 1996, [110 Stat. 1652][/us/stat/110/1652].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t42/s300j–12/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312%2Fm
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs123
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1652
 
 

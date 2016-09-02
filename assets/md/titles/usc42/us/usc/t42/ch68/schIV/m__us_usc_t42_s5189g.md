@@ -23,7 +23,7 @@
 
         The review process established under this section shall include mechanisms to expeditiously address delays that may occur during the recovery from a major disaster and be updated, as appropriate, consistent with applicable law.
 
-([Pub. L. 93–288, title IV, § 429][/us/pl/93/288/s429], as added [Pub. L. 113–2, div. B, § 1106][/us/pl/113/2/s1106], Jan. 29, 2013, [127 Stat. 45][/us/stat/127/45].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 429, as added [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1106, Jan. 29, 2013, [127 Stat. 45][/us/stat/127/45].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs429
-[/us/pl/113/2/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1106
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F45
 
 

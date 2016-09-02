@@ -63,7 +63,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330E, as added [Pub. L. 106–310, div. A, title VIII, § 801][/us/pl/106/310/s801], Oct. 17, 2000, [114 Stat. 1124][/us/stat/114/1124].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330E, as added [Pub. L. 106–310, div. A, title VIII][/us/pl/106/310/dA/tVIII], § 801, Oct. 17, 2000, [114 Stat. 1124][/us/stat/114/1124].)
 
 ----------
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t42/s295p/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295p%2F6
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs801
+[/us/pl/106/310/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtVIII
 [/us/stat/114/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1124
 
 

@@ -43,7 +43,7 @@
 
         (2) provides independent verification of a sample of the energy savings estimates provided by participating firms.
 
-([Pub. L. 109–58, title I, § 106][/us/pl/109/58/s106], Aug. 8, 2005, [119 Stat. 611][/us/stat/119/611].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 106, Aug. 8, 2005, [119 Stat. 611][/us/stat/119/611].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs106
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F611
 
 

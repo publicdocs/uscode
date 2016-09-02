@@ -19,7 +19,7 @@
 
     (b) If the President determines that it is advantageous for the Committee to continue in being, (1) the Committee shall exercise such functions as are prescribed by the President; and (2) the members of the Committee shall serve at the pleasure of the President.
 
-([Pub. L. 94–282, title III, § 304][/us/pl/94/282/s304], May 11, 1976, [90 Stat. 470][/us/stat/90/470].)
+([Pub. L. 94–282, title III][/us/pl/94/282/tIII], § 304, May 11, 1976, [90 Stat. 470][/us/stat/90/470].)
 
  __Abolition of President’s Committee on Science and Technology; Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s6633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6633
-[/us/pl/94/282/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs304
+[/us/pl/94/282/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIII
 [/us/stat/90/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F470
 [/us/usc/t42/s6631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6631
 

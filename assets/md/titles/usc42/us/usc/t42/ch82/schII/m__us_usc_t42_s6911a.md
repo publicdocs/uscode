@@ -17,7 +17,7 @@
 
     The Assistant Administrator of the Environmental Protection Agency appointed to head the Office of Solid Waste shall be in addition to the five Assistant Administrators of the Environmental Protection Agency provided for in section 1(d) of Reorganization Plan Numbered 3 of 1970 and the additional Assistant Administrator provided by the Toxic Substances Control Act \[[15 U.S.C. 2601][/us/usc/t15/s2601] et seq.\], shall be appointed by the President by and with the advice and consent of the Senate.
 
-([Pub. L. 96–510, title III, § 307(b)][/us/pl/96/510/s307/b], Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810]; [Pub. L. 98–80, § 2(c)(2)(B)][/us/pl/98/80/s2/c/2/B], Aug. 23, 1983, [97 Stat. 485][/us/stat/97/485].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 307(b), Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810]; [Pub. L. 98–80][/us/pl/98/80], § 2(c)(2)(B), Aug. 23, 1983, [97 Stat. 485][/us/stat/97/485].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
-[/us/pl/96/510/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs307%2Fb
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2810
-[/us/pl/98/80/s2/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80%2Fs2%2Fc%2F2%2FB
+[/us/pl/98/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80
 [/us/stat/97/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F485
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003

@@ -11,49 +11,25 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_ch9_schVI.md) | [Next](./../../../../..//us/usc/t42/ch9/schVII/m__us_usc_t42_ch9_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1574)
+[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1571...1573.md) | [Next](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1575 _us_usc_t42_s1576.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1574)
 
-## § 1574. Repealed. [Oct. 31, 1951, ch. 654, § 1(113)][/us/act/1951-10-31/ch654/s1/113], [65 Stat. 706][/us/stat/65/706]
+## § 1574. Repealed. [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 1(113), [65 Stat. 706][/us/stat/65/706]
 
-    Section, [act Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title V, § 504, as added [Aug. 8, 1946, ch. 912, § 2][/us/act/1946-08-08/ch912/s2], [60 Stat. 958][/us/stat/60/958], related to the use or reuse of structures or facilities of Federal agencies as educational facilities for persons receiving training courses or education under title II of the Servicemen’s Readjustment Act of 1944, as amended ([act June 22, 1944, ch. 268][/us/act/1944-06-22/ch268], title II, [58 Stat. 284][/us/stat/58/284]).
-
-§§ 1575, 1576. __Omitted__ 
-
- __Codification__ 
-
-    Section 1575, acts [Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title V, § 505, as added [June 28, 1948, ch. 688, § 1][/us/act/1948-06-28/ch688/s1], [62 Stat. 1062][/us/stat/62/1062]; amended [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73]; [Oct. 26, 1951, ch. 577, § 2][/us/act/1951-10-26/ch577/s2], [65 Stat. 648][/us/stat/65/648], related to relinquishment of Government’s rights in temporary housing on campuses or other educational lands.
-
-    Section 1576, acts [Aug. 24, 1949, ch. 506][/us/act/1949-08-24/ch506], title II, § 201, [63 Stat. 659][/us/stat/63/659]; [Sept. 6, 1950, ch. 896][/us/act/1950-09-06/ch896], ch. VIII, title II, § 201, [64 Stat. 723][/us/stat/64/723], which was not repeated in the Independent Offices Appropriation Act, 1952, [act Aug. 31, 1951, ch. 376][/us/act/1951-08-31/ch376], [65 Stat. 268][/us/stat/65/268], provided that application for relinquishment had to be filed by Dec. 30, 1950. Section was enacted as a part of act Aug. 24, 1949, popularly known as the Independent Offices Appropriation Act, 1951, and not as a part of title V of the Lanham Public War Housing Act, [act Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], as added [June 23, 1945, ch. 192][/us/act/1945-06-23/ch192], [59 Stat. 260][/us/stat/59/260], which comprises this subchapter.
+    Section, [act Oct. 14, 1940, ch. 862, title V][/us/act/1940-10-14/ch862/tV], § 504, as added [Aug. 8, 1946, ch. 912][/us/act/1946-08-08/ch912], § 2, [60 Stat. 958][/us/stat/60/958], related to the use or reuse of structures or facilities of Federal agencies as educational facilities for persons receiving training courses or education under title II of the Servicemen’s Readjustment Act of 1944, as amended ([act June 22, 1944, ch. 268, title II][/us/act/1944-06-22/ch268/tII], [58 Stat. 284][/us/stat/58/284]).
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_ch9_schVI.md) | [Next](./../../../../..//us/usc/t42/ch9/schVII/m__us_usc_t42_ch9_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1574)
+[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1571...1573.md) | [Next](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1575 _us_usc_t42_s1576.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1574)
 
 ----------
 ----------
 
-[/us/act/1951-10-31/ch654/s1/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F113
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F706
-[/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1946-08-08/ch912/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch912%2Fs2
+[/us/act/1940-10-14/ch862/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862%2FtV
+[/us/act/1946-08-08/ch912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch912
 [/us/stat/60/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F958
-[/us/act/1944-06-22/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-22%2Fch268
+[/us/act/1944-06-22/ch268/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-22%2Fch268%2FtII
 [/us/stat/58/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F284
-[/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1948-06-28/ch688/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs1
-[/us/stat/62/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1062
-[/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
-[/us/stat/64/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F73
-[/us/act/1951-10-26/ch577/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch577%2Fs2
-[/us/stat/65/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F648
-[/us/act/1949-08-24/ch506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch506
-[/us/stat/63/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F659
-[/us/act/1950-09-06/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch896
-[/us/stat/64/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F723
-[/us/act/1951-08-31/ch376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-31%2Fch376
-[/us/stat/65/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F268
-[/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1945-06-23/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-23%2Fch192
-[/us/stat/59/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F260
 
 

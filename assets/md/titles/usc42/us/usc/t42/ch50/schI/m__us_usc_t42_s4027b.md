@@ -43,7 +43,7 @@
 
         (B) not later than 30 days after the date on which the Administrator completes an assessment required under paragraph (1), make the results of the assessment available to the public.
 
-([Pub. L. 112–141, div. F, title II, § 100232(e)][/us/pl/112/141/s100232/e], July 6, 2012, [126 Stat. 955][/us/stat/126/955].)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100232(e), July 6, 2012, [126 Stat. 955][/us/stat/126/955].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t42/s4055/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4055%2Fa%2F2
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
 [/us/usc/t42/s4027a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4027a
-[/us/pl/112/141/s100232/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100232%2Fe
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F955
 [/us/pl/112/141/s100232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100232
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004

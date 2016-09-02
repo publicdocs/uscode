@@ -35,7 +35,7 @@
 
     (9) the term “regional children’s advocacy program” means the children’s advocacy program established under [section 13001b(a) of this title][/us/usc/t42/s13001b/a].
 
-([Pub. L. 101–647, title II, § 212][/us/pl/101/647/s212], as added [Pub. L. 102–586, § 6(b)(2)][/us/pl/102/586/s6/b/2], Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029]; amended [Pub. L. 114–22, title I, § 104(1)][/us/pl/114/22/s104/1], May 29, 2015, [129 Stat. 236][/us/stat/129/236].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 212, as added [Pub. L. 102–586][/us/pl/102/586], § 6(b)(2), Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029]; amended [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 104(1), May 29, 2015, [129 Stat. 236][/us/stat/129/236].)
 
  __Prior Provisions__ 
 
@@ -55,10 +55,10 @@
 [/us/usc/t42/s5611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5611%2Fb
 [/us/usc/t42/s13001b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13001b%2Fe
 [/us/usc/t42/s13001b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13001b%2Fa
-[/us/pl/101/647/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs212
-[/us/pl/102/586/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fb%2F2
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5029
-[/us/pl/114/22/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs104%2F1
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F236
 [/us/pl/101/647/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs212
 [/us/usc/t42/s13002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13002

@@ -27,7 +27,7 @@
 
     (5) the encouragement of businesses and professional firms to include community service among the factors considered in making hiring, compensation, and promotion decisions.
 
-([Pub. L. 101–610, title I, § 182][/us/pl/101/610/s182], Nov. 16, 1990, [104 Stat. 3167][/us/stat/104/3167]; [Pub. L. 103–82, title I, § 111(b)(1)][/us/pl/103/82/s111/b/1], (2), Sept. 21, 1993, [107 Stat. 860][/us/stat/107/860]; [Pub. L. 111–13, title I, § 1610][/us/pl/111/13/s1610], Apr. 21, 2009, [123 Stat. 1537][/us/stat/123/1537]; [Pub. L. 113–188, title III, § 301(b)][/us/pl/113/188/s301/b], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 182, Nov. 16, 1990, [104 Stat. 3167][/us/stat/104/3167]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 111(b)(1), (2), Sept. 21, 1993, [107 Stat. 860][/us/stat/107/860]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1610, Apr. 21, 2009, [123 Stat. 1537][/us/stat/123/1537]; [Pub. L. 113–188, title III][/us/pl/113/188/tIII], § 301(b), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __Amendments__ 
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/101/610/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs182
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3167
-[/us/pl/103/82/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs111%2Fb%2F1
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F860
-[/us/pl/111/13/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1610
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1537
-[/us/pl/113/188/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs301%2Fb
+[/us/pl/113/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtIII
 [/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13

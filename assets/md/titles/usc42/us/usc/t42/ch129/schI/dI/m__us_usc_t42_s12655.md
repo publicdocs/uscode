@@ -17,15 +17,15 @@
 
     The Corporation may make grants to States or local applicants and may transfer funds to the Secretary of Agriculture or to the Secretary of the Interior for the creation or expansion of full-time, part-time, year-round, or summer, youth corps programs  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  To the extent practicable, the Corporation shall apply the provisions of division C of this subchapter in making grants under this section.
 
-([Pub. L. 101–610, title I, § 199A][/us/pl/101/610/s199A], formerly § 121, Nov. 16, 1990, [104 Stat. 3140][/us/stat/104/3140]; [Pub. L. 102–384, § 5][/us/pl/102/384/s5], Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455]; renumbered § 199A and amended [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], (e)(1), (2), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 815.)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199A, formerly § 121, Nov. 16, 1990, [104 Stat. 3140][/us/stat/104/3140]; [Pub. L. 102–384][/us/pl/102/384], § 5, Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455]; renumbered § 199A and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), (e)(1), (2), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 815.)
 
  __Codification__ 
 
-    Section was formerly classified to [section 12541 of this title][/us/usc/t42/s12541] prior to renumbering by [Pub. L. 103–82, § 101(a)][/us/pl/103/82/s101/a].
+    Section was formerly classified to [section 12541 of this title][/us/usc/t42/s12541] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 101(a).
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–82, § 101(e)(1)][/us/pl/103/82/s101/e/1], (2), substituted “Corporation” for “Commission”, substituted “or to the Secretary of the Interior” for “, to the Secretary of the Interior, or to the Director of ACTION”, struck out “under [section 12512 of this title][/us/usc/t42/s12512]” after “may make grants”, and inserted at end “To the extent practicable, the Corporation shall apply the provisions of division C of this subchapter in making grants under this section.”
+    1993—[Pub. L. 103–82][/us/pl/103/82], § 101(e)(1), (2), substituted “Corporation” for “Commission”, substituted “or to the Secretary of the Interior” for “, to the Secretary of the Interior, or to the Director of ACTION”, struck out “under [section 12512 of this title][/us/usc/t42/s12512]” after “may make grants”, and inserted at end “To the extent practicable, the Corporation shall apply the provisions of division C of this subchapter in making grants under this section.”
 
     1992—[Pub. L. 102–384][/us/pl/102/384] amended section generally. Prior to amendment, section read as follows: “The Commission may make grants under [section 12512 of this title][/us/usc/t42/s12512] to States or local applicants, to the Secretary of Agriculture, to the Secretary of the Interior, or to the Director of ACTION for the creation or expansion of full-time or summer youth corps programs.”
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/pl/101/610/s199A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199A
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3140
-[/us/pl/102/384/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs5
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1455
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
 [/us/usc/t42/s12541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12541
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
-[/us/pl/103/82/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fe%2F1
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s12512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12512
 [/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/usc/t42/s12512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12512

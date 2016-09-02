@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch103/schII/ptB/m__us_usc_t42_ch103_schII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch103/schIII/m__us_usc_t42_ch103_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9641)
 
-## § 9641. Repealed. [Pub. L. 99–499, title V, § 514(b)][/us/pl/99/499/s514/b], Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767]
+## § 9641. Repealed. [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 514(b), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767]
 
-    Section, [Pub. L. 96–510, title II, § 232][/us/pl/96/510/s232], Dec. 11, 1980, [94 Stat. 2804][/us/stat/94/2804], provided for establishment of the Post-closure Liability Trust Fund in the Treasury of the United States.
+    Section, [Pub. L. 96–510, title II][/us/pl/96/510/tII], § 232, Dec. 11, 1980, [94 Stat. 2804][/us/stat/94/2804], provided for establishment of the Post-closure Liability Trust Fund in the Treasury of the United States.
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 99–499, title V, § 514(c)][/us/pl/99/499/s514/c], Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], provided that:
+[Pub. L. 99–499, title V][/us/pl/99/499/tV], § 514(c), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/99/499/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs514%2Fb
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
-[/us/pl/96/510/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs232
+[/us/pl/96/510/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtII
 [/us/stat/94/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2804
-[/us/pl/99/499/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs514%2Fc
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
 
 

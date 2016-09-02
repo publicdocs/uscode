@@ -57,23 +57,23 @@
 
     (b) The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee. For purposes of paragraph (18) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 221, as added [Aug. 10, 1956, ch. 1041, § 4][/us/act/1956-08-10/ch1041/s4], [70A Stat. 619][/us/stat/70A/619]; amended [Pub. L. 85–861, § 4][/us/pl/85/861/s4], Sept. 2, 1958, [72 Stat. 1547][/us/stat/72/1547]; [Pub. L. 86–160, § 3][/us/pl/86/160/s3], Aug. 14, 1959, [73 Stat. 359][/us/stat/73/359]; [Pub. L. 87–555, § 2][/us/pl/87/555/s2], July 27, 1962, [76 Stat. 244][/us/stat/76/244]; [Pub. L. 88–132, § 5(k)][/us/pl/88/132/s5/k], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 88–431, § 1(d)][/us/pl/88/431/s1/d], Aug. 14, 1964, [78 Stat. 440][/us/stat/78/440]; [Pub. L. 89–538, § 3(b)][/us/pl/89/538/s3/b], Aug. 14, 1966, [80 Stat. 348][/us/stat/80/348]; [Pub. L. 92–425, § 5][/us/pl/92/425/s5], Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713]; [Pub. L. 96–76, title III, § 312][/us/pl/96/76/s312], Sept. 29, 1979, [93 Stat. 586][/us/stat/93/586]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–513, title V, § 507(f)(2)][/us/pl/96/513/s507/f/2], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 99–117, § 4][/us/pl/99/117/s4], Oct. 7, 1985, [99 Stat. 492][/us/stat/99/492]; [Pub. L. 105–85, div. A, title VI, § 653(a)][/us/pl/105/85/s653/a], Nov. 18, 1997, [111 Stat. 1804][/us/stat/111/1804]; [Pub. L. 107–107, div. A, title VI, § 653(a)][/us/pl/107/107/s653/a], Dec. 28, 2001, [115 Stat. 1153][/us/stat/115/1153]; [Pub. L. 112–144, title XI, § 1129][/us/pl/112/144/s1129], July 9, 2012, [126 Stat. 1118][/us/stat/126/1118].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 221, as added [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 4, [70A Stat. 619][/us/stat/70A/619]; amended [Pub. L. 85–861][/us/pl/85/861], § 4, Sept. 2, 1958, [72 Stat. 1547][/us/stat/72/1547]; [Pub. L. 86–160][/us/pl/86/160], § 3, Aug. 14, 1959, [73 Stat. 359][/us/stat/73/359]; [Pub. L. 87–555][/us/pl/87/555], § 2, July 27, 1962, [76 Stat. 244][/us/stat/76/244]; [Pub. L. 88–132][/us/pl/88/132], § 5(k), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 88–431][/us/pl/88/431], § 1(d), Aug. 14, 1964, [78 Stat. 440][/us/stat/78/440]; [Pub. L. 89–538][/us/pl/89/538], § 3(b), Aug. 14, 1966, [80 Stat. 348][/us/stat/80/348]; [Pub. L. 92–425][/us/pl/92/425], § 5, Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 312, Sept. 29, 1979, [93 Stat. 586][/us/stat/93/586]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 507(f)(2), Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 99–117][/us/pl/99/117], § 4, Oct. 7, 1985, [99 Stat. 492][/us/stat/99/492]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 653(a), Nov. 18, 1997, [111 Stat. 1804][/us/stat/111/1804]; [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 653(a), Dec. 28, 2001, [115 Stat. 1153][/us/stat/115/1153]; [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1129, July 9, 2012, [126 Stat. 1118][/us/stat/126/1118].)
 
  __References in Text__ 
 
-    Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by [Pub. L. 103–337, div. A, title XVI, § 1662(k)(2)][/us/pl/103/337/s1662/k/2], (3)(A)(i), Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006]. See sections 12771 to 12774 of Title 10, Armed Forces.
+    Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(k)(2), (3)(A)(i), Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006]. See sections 12771 to 12774 of Title 10, Armed Forces.
 
-    Formula No. 3 of [section 1401 of title 10][/us/usc/t10/s1401], referred to in subsec. (a)(4), was struck from the table set forth in [section 1401(a) of title 10][/us/usc/t10/s1401/a] by [Pub. L. 103–337, div. A, title XVI, § 1662(j)(2)][/us/pl/103/337/s1662/j/2], Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004].
+    Formula No. 3 of [section 1401 of title 10][/us/usc/t10/s1401], referred to in subsec. (a)(4), was struck from the table set forth in [section 1401(a) of title 10][/us/usc/t10/s1401/a] by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(2), Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004].
 
  __Codification__ 
 
-    Section was formerly classified to [section 316 of title 37][/us/usc/t37/s316] prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by [Pub. L. 87–649, § 1][/us/pl/87/649/s1], Sept. 7, 1962, [76 Stat. 451][/us/stat/76/451].
+    Section was formerly classified to [section 316 of title 37][/us/usc/t37/s316] prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by [Pub. L. 87–649][/us/pl/87/649], § 1, Sept. 7, 1962, [76 Stat. 451][/us/stat/76/451].
 
  __Amendments__ 
 
-    2012—Subsec. (a)(18). [Pub. L. 112–144, § 1129(a)][/us/pl/112/144/s1129/a], added par. (18).
+    2012—Subsec. (a)(18). [Pub. L. 112–144][/us/pl/112/144], § 1129(a), added par. (18).
 
-    Subsec. (b). [Pub. L. 112–144, § 1129(b)][/us/pl/112/144/s1129/b], inserted at end “For purposes of paragraph (18) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.”
+    Subsec. (b). [Pub. L. 112–144][/us/pl/112/144], § 1129(b), inserted at end “For purposes of paragraph (18) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.”
 
     2001—Subsec. (a)(17). [Pub. L. 107–107][/us/pl/107/107] added cl. (17).
 
@@ -101,7 +101,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title VI, § 653(c)][/us/pl/105/85/s653/c], Nov. 18, 1997, [111 Stat. 1804][/us/stat/111/1804], provided that: 
+[Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 653(c), Nov. 18, 1997, [111 Stat. 1804][/us/stat/111/1804], provided that: 
 
 > “The amendments made by this section \[amending this section and former [section 857a of Title 33][/us/usc/t33/s857a], Navigation and Navigable Waters\] shall apply only to adoptions that are completed on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
@@ -134,47 +134,47 @@
 
 [/us/usc/t42/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1956-08-10/ch1041/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs4
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F619
-[/us/pl/85/861/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs4
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1547
-[/us/pl/86/160/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160%2Fs3
+[/us/pl/86/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160
 [/us/stat/73/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F359
-[/us/pl/87/555/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F555%2Fs2
+[/us/pl/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F555
 [/us/stat/76/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F244
-[/us/pl/88/132/s5/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fk
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F214
-[/us/pl/88/431/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F431%2Fs1%2Fd
+[/us/pl/88/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F431
 [/us/stat/78/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F440
-[/us/pl/89/538/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538%2Fs3%2Fb
+[/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
 [/us/stat/80/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F348
-[/us/pl/92/425/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs5
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F713
-[/us/pl/96/76/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs312
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F586
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/96/513/s507/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs507%2Ff%2F2
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2920
-[/us/pl/99/117/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs4
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F492
-[/us/pl/105/85/s653/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs653%2Fa
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1804
-[/us/pl/107/107/s653/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs653%2Fa
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1153
-[/us/pl/112/144/s1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1129
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1118
-[/us/pl/103/337/s1662/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fk%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3006
 [/us/usc/t10/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401
 [/us/usc/t10/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401%2Fa
-[/us/pl/103/337/s1662/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3004
 [/us/usc/t37/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs316
-[/us/pl/87/649/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F451
-[/us/pl/112/144/s1129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1129%2Fa
-[/us/pl/112/144/s1129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1129%2Fb
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
@@ -189,7 +189,7 @@
 [/us/pl/86/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1374
-[/us/pl/105/85/s653/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs653%2Fc
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1804
 [/us/usc/t33/s857a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857a
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

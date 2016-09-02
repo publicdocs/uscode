@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated for the purpose of carrying out this section not more than $35,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
-([Pub. L. 102–486, title III, § 307][/us/pl/102/486/s307], Oct. 24, 1992, [106 Stat. 2873][/us/stat/106/2873].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 307, Oct. 24, 1992, [106 Stat. 2873][/us/stat/106/2873].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs307
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2873
 
 

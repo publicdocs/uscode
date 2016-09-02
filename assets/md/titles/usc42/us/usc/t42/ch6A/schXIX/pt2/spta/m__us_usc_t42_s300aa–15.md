@@ -133,7 +133,7 @@
 
         For the payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, there are authorized to be appropriated to the Department of Health and Human Services $80,000,000 for fiscal year 1989, $80,000,000 for fiscal year 1990, $80,000,000 for fiscal year 1991, $80,000,000 for fiscal year 1992, $110,000,000 for fiscal year 1993, and $110,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B) of this section. Amounts appropriated under this subsection shall remain available until expended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2115, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3767][/us/stat/100/3767]; amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4302(b), 4303(a)–(d)(1), (e), (g), 4307(5), (6), Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221] to 1330–223, 1330–225; [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](o)(1), July 1, 1988, [102 Stat. 808][/us/stat/102/808]; [Pub. L. 101–239, title VI, § 6601(c)(8)][/us/pl/101/239/s6601/c/8], (l), Dec. 19, 1989, [103 Stat. 2286][/us/stat/103/2286], 2290; [Pub. L. 101–502, § 5(d)][/us/pl/101/502/s5/d], Nov. 3, 1990, [104 Stat. 1287][/us/stat/104/1287]; [Pub. L. 102–168, title II, § 201(e)][/us/pl/102/168/s201/e], (f), Nov. 26, 1991, [105 Stat. 1103][/us/stat/105/1103]; [Pub. L. 102–531, title III, § 314][/us/pl/102/531/s314], Oct. 27, 1992, [106 Stat. 3508][/us/stat/106/3508]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–66, title XIII, § 13632(b)][/us/pl/103/66/s13632/b], Aug. 10, 1993, [107 Stat. 646][/us/stat/107/646].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2115, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3767][/us/stat/100/3767]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], §§ 4302(b), 4303(a)–(d)(1), (e), (g), 4307(5), (6), Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221] to 1330–223, 1330–225; [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(o)(1), July 1, 1988, [102 Stat. 808][/us/stat/102/808]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6601(c)(8), (l), Dec. 19, 1989, [103 Stat. 2286][/us/stat/103/2286], 2290; [Pub. L. 101–502][/us/pl/101/502], § 5(d), Nov. 3, 1990, [104 Stat. 1287][/us/stat/104/1287]; [Pub. L. 102–168, title II][/us/pl/102/168/tII], § 201(e), (f), Nov. 26, 1991, [105 Stat. 1103][/us/stat/105/1103]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 314, Oct. 27, 1992, [106 Stat. 3508][/us/stat/106/3508]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13632(b), Aug. 10, 1993, [107 Stat. 646][/us/stat/107/646].)
 
  __References in Text__ 
 
@@ -159,71 +159,71 @@
 
     Subsec. (j). [Pub. L. 102–531][/us/pl/102/531] increased authorization for fiscal year 1993 from $80,000,000 to $110,000,000.
 
-    1991—Subsec. (f)(4)(A). [Pub. L. 102–168, § 201(e)(1)(A)][/us/pl/102/168/s201/e/1/A], (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fund established under [section 9510 of title 26][/us/usc/t26/s9510]” for “trust fund”.
+    1991—Subsec. (f)(4)(A). [Pub. L. 102–168][/us/pl/102/168], § 201(e)(1)(A), (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fund established under [section 9510 of title 26][/us/usc/t26/s9510]” for “trust fund”.
 
-    Subsec. (f)(4)(B). [Pub. L. 102–168, § 201(e)(1)(B)][/us/pl/102/168/s201/e/1/B], which directed substitution of “shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion” for “paid in 4 equal installments of which all or portion of the proceeds” was executed by making the substitution for “paid in 4 equal annual installments of which all or a portion of the proceeds” to reflect the probable intent of Congress.
+    Subsec. (f)(4)(B). [Pub. L. 102–168][/us/pl/102/168], § 201(e)(1)(B), which directed substitution of “shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion” for “paid in 4 equal installments of which all or portion of the proceeds” was executed by making the substitution for “paid in 4 equal annual installments of which all or a portion of the proceeds” to reflect the probable intent of Congress.
 
-    Subsec. (f)(4)(C). [Pub. L. 102–168, § 201(f)][/us/pl/102/168/s201/f], added subpar. (C).
+    Subsec. (f)(4)(C). [Pub. L. 102–168][/us/pl/102/168], § 201(f), added subpar. (C).
 
-    1990—Subsec. (e)(2). [Pub. L. 101–502, § 5(d)(1)][/us/pl/101/502/s5/d/1], inserted “of compensation” before “limited to the costs”.
+    1990—Subsec. (e)(2). [Pub. L. 101–502][/us/pl/101/502], § 5(d)(1), inserted “of compensation” before “limited to the costs”.
 
-    Subsec. (f)(2). [Pub. L. 101–502, § 5(d)(2)(A)][/us/pl/101/502/s5/d/2/A], substituted “section 300aa–21(a)” for “section 300aa–21(b)”.
+    Subsec. (f)(2). [Pub. L. 101–502][/us/pl/101/502], § 5(d)(2)(A), substituted “section 300aa–21(a)” for “section 300aa–21(b)”.
 
-    Subsec. (f)(4)(B). [Pub. L. 101–502, § 5(d)(2)(B)][/us/pl/101/502/s5/d/2/B], substituted “subsection (j)” for “subsection (i)” and “the limitation on civil actions prescribed by [section 300aa–21(a) of this title][/us/usc/t42/s300aa–21/a]” for “[section 300aa–11(a) of this title][/us/usc/t42/s300aa–11/a]”.
+    Subsec. (f)(4)(B). [Pub. L. 101–502][/us/pl/101/502], § 5(d)(2)(B), substituted “subsection (j)” for “subsection (i)” and “the limitation on civil actions prescribed by [section 300aa–21(a) of this title][/us/usc/t42/s300aa–21/a]” for “[section 300aa–11(a) of this title][/us/usc/t42/s300aa–11/a]”.
 
-    Subsec. (j). [Pub. L. 101–502, § 5(d)(3)][/us/pl/101/502/s5/d/3], inserted before period at end of first sentence “, and $80,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B) of this section”.
+    Subsec. (j). [Pub. L. 101–502][/us/pl/101/502], § 5(d)(3), inserted before period at end of first sentence “, and $80,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B) of this section”.
 
-    1989—Subsec. (b). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(1), substituted “may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section and may also include an amount, not to exceed a combined total of $30,000, for—” and cls. (1) to (3) for “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000.”
+    1989—Subsec. (b). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(1), substituted “may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section and may also include an amount, not to exceed a combined total of $30,000, for—” and cls. (1) to (3) for “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000.”
 
-    Subsec. (e)(1). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(2)(A), substituted “In awarding compensation on a petition filed under [section 300aa–11 of this title][/us/usc/t42/s300aa–11] the special master or court shall also award as part of such compensation an amount to cover” for “The judgment of the United States Claims Court on a petition filed under [section 300aa–11 of this title][/us/usc/t42/s300aa–11] awarding compensation shall include an amount to cover”.
+    Subsec. (e)(1). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(2)(A), substituted “In awarding compensation on a petition filed under [section 300aa–11 of this title][/us/usc/t42/s300aa–11] the special master or court shall also award as part of such compensation an amount to cover” for “The judgment of the United States Claims Court on a petition filed under [section 300aa–11 of this title][/us/usc/t42/s300aa–11] awarding compensation shall include an amount to cover”.
 
-    [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(2)(B), (C), substituted “the special master or court may award an amount of compensation to cover” for “the court may include in the judgment an amount to cover” and “the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition” for “the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action”.
+    [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(2)(B), (C), substituted “the special master or court may award an amount of compensation to cover” for “the court may include in the judgment an amount to cover” and “the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition” for “the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action”.
 
-    Subsec. (e)(2). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executed because of the prior amendment by [Pub. L. 101–239, § 6601(c)(8)(B)][/us/pl/101/239/s6601/c/8/B], see Amendment note below.
+    Subsec. (e)(2). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executed because of the prior amendment by [Pub. L. 101–239][/us/pl/101/239], § 6601(c)(8)(B), see Amendment note below.
 
-    [Pub. L. 101–239, § 6601(c)(8)][/us/pl/101/239/s6601/c/8], substituted “and petitioned under [section 300aa–11(a)(5) of this title][/us/usc/t42/s300aa–11/a/5] to have such action dismissed” for “and elected under [section 300aa–11(a)(4) of this title][/us/usc/t42/s300aa–11/a/4] to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
+    [Pub. L. 101–239][/us/pl/101/239], § 6601(c)(8), substituted “and petitioned under [section 300aa–11(a)(5) of this title][/us/usc/t42/s300aa–11/a/5] to have such action dismissed” for “and elected under [section 300aa–11(a)(4) of this title][/us/usc/t42/s300aa–11/a/4] to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
 
-    Subsec. (e)(3). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(2)(E), substituted “awarded as compensation by the special master or court under paragraph (1)” for “included under paragraph (1) in a judgment on such petition”.
+    Subsec. (e)(3). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(2)(E), substituted “awarded as compensation by the special master or court under paragraph (1)” for “included under paragraph (1) in a judgment on such petition”.
 
-    Subsec. (f)(3). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(3)(A), inserted “under the Program and the costs of carrying out the Program” after “Payments of compensation”.
+    Subsec. (f)(3). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(3)(A), inserted “under the Program and the costs of carrying out the Program” after “Payments of compensation”.
 
-    Subsec. (f)(4)(A). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(3)(B), struck out “made in a lump sum” after “the Program shall be” and inserted “and shall be paid from the trust fund in a lump sum of which all or a portion of the proceeds may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner” after “elements of the compensation”.
+    Subsec. (f)(4)(A). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(3)(B), struck out “made in a lump sum” after “the Program shall be” and inserted “and shall be paid from the trust fund in a lump sum of which all or a portion of the proceeds may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner” after “elements of the compensation”.
 
-    Subsec. (f)(4)(B). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(3)(C), substituted “determined on the basis of the net present value of the elements of compensation and paid in 4 equal annual installments of which all or a portion of the proceeds may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner. Any reasonable attorneys’ fees and costs shall be paid in a lump sum” for “paid in 4 equal annual installments”.
+    Subsec. (f)(4)(B). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(3)(C), substituted “determined on the basis of the net present value of the elements of compensation and paid in 4 equal annual installments of which all or a portion of the proceeds may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner. Any reasonable attorneys’ fees and costs shall be paid in a lump sum” for “paid in 4 equal annual installments”.
 
-    Subsec. (g). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(4)(A), inserted “(other than under title XIX of the Social Security Act)” after “State health benefits program”.
+    Subsec. (g). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(4)(A), inserted “(other than under title XIX of the Social Security Act)” after “State health benefits program”.
 
-    Subsec. (h). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(4)(B), inserted before period at end “, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act”.
+    Subsec. (h). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(4)(B), inserted before period at end “, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act”.
 
-    Subsec. (i)(1). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(5), which directed amendment of par. (1) by substituting “(j)” for “(i)”, could not be executed because “(i)” did not appear.
+    Subsec. (i)(1). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(5), which directed amendment of par. (1) by substituting “(j)” for “(i)”, could not be executed because “(i)” did not appear.
 
-    Subsec. (j). [Pub. L. 101–239, § 6601][/us/pl/101/239/s6601](l)(6), struck out “and” after “fiscal year 1991,” and inserted “, $80,000,000 for fiscal year 1993” after “fiscal year 1992”.
+    Subsec. (j). [Pub. L. 101–239][/us/pl/101/239], § 6601(l)(6), struck out “and” after “fiscal year 1991,” and inserted “, $80,000,000 for fiscal year 1993” after “fiscal year 1992”.
 
-    1988—Subsec. (i)(1). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](o)(1)(A), substituted “by the Secretary from appropriations under subsection (j)” for “from appropriations under subsection (i)”.
+    1988—Subsec. (i)(1). [Pub. L. 100–360][/us/pl/100/360], § 411(o)(1)(A), substituted “by the Secretary from appropriations under subsection (j)” for “from appropriations under subsection (i)”.
 
-    Subsec. (j). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](o)(1)(B), inserted “to the Department of Health and Human Services”.
+    Subsec. (j). [Pub. L. 100–360][/us/pl/100/360], § 411(o)(1)(B), inserted “to the Department of Health and Human Services”.
 
-    1987—Subsec. (a). [Pub. L. 100–203, § 4302(b)(1)][/us/pl/100/203/s4302/b/1], substituted “effective date of this subpart” for “effective date of this part”.
+    1987—Subsec. (a). [Pub. L. 100–203][/us/pl/100/203], § 4302(b)(1), substituted “effective date of this subpart” for “effective date of this part”.
 
-    [Pub. L. 100–203, § 4303(d)(1)(A)][/us/pl/100/203/s4303/d/1/A], struck out last two sentences which read as follows: “Payments for projected expenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum.”
+    [Pub. L. 100–203][/us/pl/100/203], § 4303(d)(1)(A), struck out last two sentences which read as follows: “Payments for projected expenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum.”
 
-    Subsec. (a)(1). [Pub. L. 100–203, § 4303(c)][/us/pl/100/203/s4303/c], struck out last sentence of subpars. (A) and (B) each of which read as follows: “The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in [section 300aa–11(c)(1)(D)(ii) of this title][/us/usc/t42/s300aa–11/c/1/D/ii].”
+    Subsec. (a)(1). [Pub. L. 100–203][/us/pl/100/203], § 4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: “The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in [section 300aa–11(c)(1)(D)(ii) of this title][/us/usc/t42/s300aa–11/c/1/D/ii].”
 
-    Subsec. (b). [Pub. L. 100–203, § 4303(e)][/us/pl/100/203/s4303/e], substituted “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000” for “shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section”.
+    Subsec. (b). [Pub. L. 100–203][/us/pl/100/203], § 4303(e), substituted “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000” for “shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section”.
 
-    [Pub. L. 100–203, § 4302(b)(1)][/us/pl/100/203/s4302/b/1], substituted “effective date of this subpart” for “effective date of this part”.
+    [Pub. L. 100–203][/us/pl/100/203], § 4302(b)(1), substituted “effective date of this subpart” for “effective date of this part”.
 
-    Subsec. (e)(1). [Pub. L. 100–203, § 4307(5)][/us/pl/100/203/s4307/5], substituted “of the United States Claims Court” for “of a court” in two places.
+    Subsec. (e)(1). [Pub. L. 100–203][/us/pl/100/203], § 4307(5), substituted “of the United States Claims Court” for “of a court” in two places.
 
-    Subsec. (e)(2). [Pub. L. 100–203, § 4302(b)][/us/pl/100/203/s4302/b], substituted “effective date of this subpart, filed a” for “effective date of this subchapter, filed a” and “effective date of this subpart in preparing” for “effective date of this part in preparing”.
+    Subsec. (e)(2). [Pub. L. 100–203][/us/pl/100/203], § 4302(b), substituted “effective date of this subpart, filed a” for “effective date of this subchapter, filed a” and “effective date of this subpart in preparing” for “effective date of this part in preparing”.
 
-    Subsec. (f). [Pub. L. 100–203, § 4303(d)(1)(B)][/us/pl/100/203/s4303/d/1/B], (g), added par. (4) and redesignated a second subsec. (f), relating to the Program not being primarily liable, as subsec. (g).
+    Subsec. (f). [Pub. L. 100–203][/us/pl/100/203], § 4303(d)(1)(B), (g), added par. (4) and redesignated a second subsec. (f), relating to the Program not being primarily liable, as subsec. (g).
 
-    Subsec. (f)(2). [Pub. L. 100–203, § 4307(6)][/us/pl/100/203/s4307/6], substituted “United States Claims Court” for “district court of the United States”.
+    Subsec. (f)(2). [Pub. L. 100–203][/us/pl/100/203], § 4307(6), substituted “United States Claims Court” for “district court of the United States”.
 
-    Subsecs. (g), (h). [Pub. L. 100–203, § 4303(g)][/us/pl/100/203/s4303/g], redesignated a second subsec. (f), relating to the Program not being liable, as (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 100–203][/us/pl/100/203], § 4303(g), redesignated a second subsec. (f), relating to the Program not being liable, as (g) and redesignated former subsec. (g) as (h).
 
-    Subsecs. (i), (j). [Pub. L. 100–203, § 4303(a)][/us/pl/100/203/s4303/a], (b), added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 100–203][/us/pl/100/203], § 4303(a), (b), added subsecs. (i) and (j).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -269,23 +269,23 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t26/s9510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9510
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3767
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-221
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F808
-[/us/pl/101/239/s6601/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fc%2F8
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2286
-[/us/pl/101/502/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fd
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1287
-[/us/pl/102/168/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2Fs201%2Fe
+[/us/pl/102/168/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2FtII
 [/us/stat/105/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1103
-[/us/pl/102/531/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs314
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3508
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/66/s13632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13632%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F646
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
@@ -299,48 +299,48 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/102/168/s201/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2Fs201%2Fe%2F1%2FA
+[/us/pl/102/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168
 [/us/usc/t26/s9510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9510
-[/us/pl/102/168/s201/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2Fs201%2Fe%2F1%2FB
-[/us/pl/102/168/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2Fs201%2Ff
-[/us/pl/101/502/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fd%2F1
-[/us/pl/101/502/s5/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fd%2F2%2FA
-[/us/pl/101/502/s5/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fd%2F2%2FB
+[/us/pl/102/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168
+[/us/pl/102/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/usc/t42/s300aa–21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9321%2Fa
 [/us/usc/t42/s300aa–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311%2Fa
-[/us/pl/101/502/s5/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fd%2F3
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s300aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311
 [/us/usc/t42/s300aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fc%2F8%2FB
-[/us/pl/101/239/s6601/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fc%2F8
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s300aa–11/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311%2Fa%2F5
 [/us/usc/t42/s300aa–11/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311%2Fa%2F4
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/101/239/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/203/s4302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fb%2F1
-[/us/pl/100/203/s4303/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4303%2Fd%2F1%2FA
-[/us/pl/100/203/s4303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4303%2Fc
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t42/s300aa–11/c/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311%2Fc%2F1%2FD%2Fii
-[/us/pl/100/203/s4303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4303%2Fe
-[/us/pl/100/203/s4302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fb%2F1
-[/us/pl/100/203/s4307/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4307%2F5
-[/us/pl/100/203/s4302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fb
-[/us/pl/100/203/s4303/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4303%2Fd%2F1%2FB
-[/us/pl/100/203/s4307/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4307%2F6
-[/us/pl/100/203/s4303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4303%2Fg
-[/us/pl/100/203/s4303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4303%2Fa
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171

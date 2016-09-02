@@ -53,7 +53,7 @@
 
         (8) Any other information required by the Attorney General.
 
-([Pub. L. 109–248, title I, § 114][/us/pl/109/248/s114], July 27, 2006, [120 Stat. 594][/us/stat/120/594].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 114, July 27, 2006, [120 Stat. 594][/us/stat/120/594].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs114
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F594
 
 

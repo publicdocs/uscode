@@ -25,7 +25,7 @@
 
     (4) identify the issues that would need to be addressed before NASA could properly assess the merits and feasibility of the program described in paragraph (2).
 
-([Pub. L. 111–267, title X, § 1003][/us/pl/111/267/s1003], Oct. 11, 2010, [124 Stat. 2838][/us/stat/124/2838]; [Pub. L. 111–358, title II, § 205(a)][/us/pl/111/358/s205/a], Jan. 4, 2011, [124 Stat. 3995][/us/stat/124/3995].)
+([Pub. L. 111–267, title X][/us/pl/111/267/tX], § 1003, Oct. 11, 2010, [124 Stat. 2838][/us/stat/124/2838]; [Pub. L. 111–358, title II][/us/pl/111/358/tII], § 205(a), Jan. 4, 2011, [124 Stat. 3995][/us/stat/124/3995].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–358, title II, § 205(c)][/us/pl/111/358/s205/c], Jan. 4, 2011, [124 Stat. 3996][/us/stat/124/3996], provided that: 
+[Pub. L. 111–358, title II][/us/pl/111/358/tII], § 205(c), Jan. 4, 2011, [124 Stat. 3996][/us/stat/124/3996], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 12, 2010.”
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/111/267/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs1003
+[/us/pl/111/267/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtX
 [/us/stat/124/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2838
-[/us/pl/111/358/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs205%2Fa
+[/us/pl/111/358/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtII
 [/us/stat/124/3995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3995
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
-[/us/pl/111/358/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs205%2Fc
+[/us/pl/111/358/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtII
 [/us/stat/124/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3996
 
 

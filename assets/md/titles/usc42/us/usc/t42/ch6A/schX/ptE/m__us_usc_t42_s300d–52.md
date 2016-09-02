@@ -137,7 +137,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated $5,500,000 for each of the fiscal years 2015 through 2019.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1252, as added [Pub. L. 104–166, § 3][/us/pl/104/166/s3], July 29, 1996, [110 Stat. 1446][/us/stat/110/1446]; amended [Pub. L. 106–310, div. A, title XIII, § 1304][/us/pl/106/310/s1304], Oct. 17, 2000, [114 Stat. 1139][/us/stat/114/1139]; [Pub. L. 110–23, § 14][/us/pl/110/23/s14], May 3, 2007, [121 Stat. 99][/us/stat/121/99]; [Pub. L. 110–206, § 6(a)][/us/pl/110/206/s6/a], Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716]; [Pub. L. 111–256, § 2(f)(6)][/us/pl/111/256/s2/f/6], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644]; [Pub. L. 113–196, § 3][/us/pl/113/196/s3], Nov. 26, 2014, [128 Stat. 2052][/us/stat/128/2052].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1252, as added [Pub. L. 104–166][/us/pl/104/166], § 3, July 29, 1996, [110 Stat. 1446][/us/stat/110/1446]; amended [Pub. L. 106–310, div. A, title XIII][/us/pl/106/310/dA/tXIII], § 1304, Oct. 17, 2000, [114 Stat. 1139][/us/stat/114/1139]; [Pub. L. 110–23][/us/pl/110/23], § 14, May 3, 2007, [121 Stat. 99][/us/stat/121/99]; [Pub. L. 110–206][/us/pl/110/206], § 6(a), Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716]; [Pub. L. 111–256][/us/pl/111/256], § 2(f)(6), Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644]; [Pub. L. 113–196][/us/pl/113/196], § 3, Nov. 26, 2014, [128 Stat. 2052][/us/stat/128/2052].)
 
  __References in Text__ 
 
@@ -145,63 +145,63 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–196, § 3(1)][/us/pl/113/196/s3/1], struck out “, acting through the Administrator of the Health Resources and Services Administration,” after “The Secretary”.
+    2014—Subsec. (a). [Pub. L. 113–196][/us/pl/113/196], § 3(1), struck out “, acting through the Administrator of the Health Resources and Services Administration,” after “The Secretary”.
 
-    Subsec. (f)(1)(A)(i), (3)(E). [Pub. L. 113–196, § 3(2)][/us/pl/113/196/s3/2], substituted “traumatic brain injury” for “brain injury”.
+    Subsec. (f)(1)(A)(i), (3)(E). [Pub. L. 113–196][/us/pl/113/196], § 3(2), substituted “traumatic brain injury” for “brain injury”.
 
-    Subsec. (h). [Pub. L. 113–196, § 3(3)][/us/pl/113/196/s3/3], substituted “under this section and [section 300d–53 of this title][/us/usc/t42/s300d–53], including” for “under this section, and [section 300d–53 of this title][/us/usc/t42/s300d–53] including”.
+    Subsec. (h). [Pub. L. 113–196][/us/pl/113/196], § 3(3), substituted “under this section and [section 300d–53 of this title][/us/usc/t42/s300d–53], including” for “under this section, and [section 300d–53 of this title][/us/usc/t42/s300d–53] including”.
 
-    Subsec. (j). [Pub. L. 113–196, § 3(4)][/us/pl/113/196/s3/4], substituted “$5,500,000 for each of the fiscal years 2015 through 2019” for “such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012”.
+    Subsec. (j). [Pub. L. 113–196][/us/pl/113/196], § 3(4), substituted “$5,500,000 for each of the fiscal years 2015 through 2019” for “such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012”.
 
     2010—Subsec. (f)(3)(E). [Pub. L. 111–256][/us/pl/111/256] substituted “intellectual disabilities or developmental disorders,” for “mental retardation/developmental disorders,”.
 
-    2008—Subsec. (a). [Pub. L. 110–206, § 6(a)(1)][/us/pl/110/206/s6/a/1], substituted “may make grants to States and American Indian consortia” for “may make grants to States” and “rehabilitation and other services” for “health and other services”.
+    2008—Subsec. (a). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(1), substituted “may make grants to States and American Indian consortia” for “may make grants to States” and “rehabilitation and other services” for “health and other services”.
 
-    Subsec. (b)(1). [Pub. L. 110–206, § 6(a)(2)(A)][/us/pl/110/206/s6/a/2/A], substituted “State or American Indian consortium” for “State” wherever appearing.
+    Subsec. (b)(1). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(2)(A), substituted “State or American Indian consortium” for “State” wherever appearing.
 
-    Subsec. (b)(2). [Pub. L. 110–206, § 6(a)(2)(B)][/us/pl/110/206/s6/a/2/B], substituted “recommendations to the State or American Indian consortium” for “recommendations to the State”.
+    Subsec. (b)(2). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(2)(B), substituted “recommendations to the State or American Indian consortium” for “recommendations to the State”.
 
-    Subsec. (b)(3)(A)(i), (iii), (iv). [Pub. L. 110–206, § 6(a)(2)(A)][/us/pl/110/206/s6/a/2/A], substituted “State or American Indian consortium” for “State”.
+    Subsec. (b)(3)(A)(i), (iii), (iv). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(2)(A), substituted “State or American Indian consortium” for “State”.
 
-    Subsec. (c)(1). [Pub. L. 110–206, § 6(a)(3)][/us/pl/110/206/s6/a/3], substituted “State or American Indian consortium” for “State” in two places.
+    Subsec. (c)(1). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(3), substituted “State or American Indian consortium” for “State” in two places.
 
-    Subsec. (e). [Pub. L. 110–206, § 6(a)(4)][/us/pl/110/206/s6/a/4], added text of subsec. (e) and struck out former text of subsec. (e) which read as follows: “A State that received a grant under this section prior to October 17, 2000, may compete for new project grants under this section after October 17, 2000.”
+    Subsec. (e). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(4), added text of subsec. (e) and struck out former text of subsec. (e) which read as follows: “A State that received a grant under this section prior to October 17, 2000, may compete for new project grants under this section after October 17, 2000.”
 
-    Subsec. (f). [Pub. L. 110–206, § 6(a)(5)(A)][/us/pl/110/206/s6/a/5/A], (B), inserted “and American Indian consortium” after “State” in heading and substituted in text “State or American Indian consortium” for “State” wherever appearing, except in par. (3)(B).
+    Subsec. (f). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(5)(A), (B), inserted “and American Indian consortium” after “State” in heading and substituted in text “State or American Indian consortium” for “State” wherever appearing, except in par. (3)(B).
 
-    Subsec. (f)(1)(A)(ii). [Pub. L. 110–206, § 6(a)(5)(C)][/us/pl/110/206/s6/a/5/C], substituted “children, youth, and adults” for “children and other individuals”.
+    Subsec. (f)(1)(A)(ii). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(5)(C), substituted “children, youth, and adults” for “children and other individuals”.
 
-    Subsec. (h). [Pub. L. 110–206, § 6(a)(6)][/us/pl/110/206/s6/a/6], substituted “Not less than biennially, the Secretary” for “Not later than 2 years after July 29, 1996, the Secretary” and “Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions” for “Commerce of the House of Representatives, and to the Committee on Labor and Human Resources” and inserted “and [section 300d–53 of this title][/us/usc/t42/s300d–53]” after “programs established under this section,”.
+    Subsec. (h). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(6), substituted “Not less than biennially, the Secretary” for “Not later than 2 years after July 29, 1996, the Secretary” and “Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions” for “Commerce of the House of Representatives, and to the Committee on Labor and Human Resources” and inserted “and [section 300d–53 of this title][/us/usc/t42/s300d–53]” after “programs established under this section,”.
 
-    Subsec. (i). [Pub. L. 110–206, § 6(a)(7)][/us/pl/110/206/s6/a/7], amended subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘traumatic brain injury’ means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.”
+    Subsec. (i). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(7), amended subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘traumatic brain injury’ means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.”
 
-    Subsec. (j). [Pub. L. 110–206, § 6(a)(8)][/us/pl/110/206/s6/a/8], inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
+    Subsec. (j). [Pub. L. 110–206][/us/pl/110/206], § 6(a)(8), inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
 
-    2007—[Pub. L. 110–23][/us/pl/110/23], which directed amendment of section by striking “demonstration” in section catchline, could not be executed because the word “demonstration” did not appear after amendment by [Pub. L. 106–310, § 1304(1)][/us/pl/106/310/s1304/1]. See 2000 Amendment note below.
+    2007—[Pub. L. 110–23][/us/pl/110/23], which directed amendment of section by striking “demonstration” in section catchline, could not be executed because the word “demonstration” did not appear after amendment by [Pub. L. 106–310][/us/pl/106/310], § 1304(1). See 2000 Amendment note below.
 
-    2000—[Pub. L. 106–310, § 1304(1)][/us/pl/106/310/s1304/1], struck out “demonstration” before “projects” in section catchline.
+    2000—[Pub. L. 106–310][/us/pl/106/310], § 1304(1), struck out “demonstration” before “projects” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–310, § 1304(2)][/us/pl/106/310/s1304/2], struck out “demonstration” before “projects”.
+    Subsec. (a). [Pub. L. 106–310][/us/pl/106/310], § 1304(2), struck out “demonstration” before “projects”.
 
-    Subsec. (b)(3)(A)(iv). [Pub. L. 106–310, § 1304(3)(A)][/us/pl/106/310/s1304/3/A], substituted “representing individuals with traumatic brain injury” for “representing traumatic brain injury survivors”.
+    Subsec. (b)(3)(A)(iv). [Pub. L. 106–310][/us/pl/106/310], § 1304(3)(A), substituted “representing individuals with traumatic brain injury” for “representing traumatic brain injury survivors”.
 
-    Subsec. (b)(3)(B). [Pub. L. 106–310, § 1304(3)(B)][/us/pl/106/310/s1304/3/B], substituted “with traumatic brain injury” for “who are survivors of traumatic brain injury”.
+    Subsec. (b)(3)(B). [Pub. L. 106–310][/us/pl/106/310], § 1304(3)(B), substituted “with traumatic brain injury” for “who are survivors of traumatic brain injury”.
 
-    Subsec. (c)(1). [Pub. L. 106–310, § 1304(4)(A)][/us/pl/106/310/s1304/4/A], struck out “, in cash,” before “non-Federal contributions”.
+    Subsec. (c)(1). [Pub. L. 106–310][/us/pl/106/310], § 1304(4)(A), struck out “, in cash,” before “non-Federal contributions”.
 
-    Subsec. (c)(2). [Pub. L. 106–310, § 1304(4)(B)][/us/pl/106/310/s1304/4/B], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining the amount of non-Federal contributions in cash that a State has provided pursuant to paragraph (1), the Secretary may not include any amounts provided to the State by the Federal Government.”
+    Subsec. (c)(2). [Pub. L. 106–310][/us/pl/106/310], § 1304(4)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining the amount of non-Federal contributions in cash that a State has provided pursuant to paragraph (1), the Secretary may not include any amounts provided to the State by the Federal Government.”
 
-    Subsecs. (e), (f). [Pub. L. 106–310, § 1304(6)][/us/pl/106/310/s1304/6], added subsecs. (e) and (f). Former subsecs. (e) and (f) redesignated (g) and (h), respectively.
+    Subsecs. (e), (f). [Pub. L. 106–310][/us/pl/106/310], § 1304(6), added subsecs. (e) and (f). Former subsecs. (e) and (f) redesignated (g) and (h), respectively.
 
-    Subsec. (g). [Pub. L. 106–310, § 1304(5)][/us/pl/106/310/s1304/5], (7), redesignated subsec. (e) as (g) and substituted “Federal agencies” for “agencies of the Public Health Service”. Former subsec. (g) redesignated (i).
+    Subsec. (g). [Pub. L. 106–310][/us/pl/106/310], § 1304(5), (7), redesignated subsec. (e) as (g) and substituted “Federal agencies” for “agencies of the Public Health Service”. Former subsec. (g) redesignated (i).
 
-    Subsec. (h). [Pub. L. 106–310, § 1304(5)][/us/pl/106/310/s1304/5], redesignated subsec. (f) as (h). Former subsec. (h) redesignated (j).
+    Subsec. (h). [Pub. L. 106–310][/us/pl/106/310], § 1304(5), redesignated subsec. (f) as (h). Former subsec. (h) redesignated (j).
 
-    Subsec. (i). [Pub. L. 106–310, § 1304(5)][/us/pl/106/310/s1304/5], (8), redesignated subsec. (g) as (i), substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence, and inserted before period at end “, after consultation with States and other appropriate public or nonprofit private entities”.
+    Subsec. (i). [Pub. L. 106–310][/us/pl/106/310], § 1304(5), (8), redesignated subsec. (g) as (i), substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence, and inserted before period at end “, after consultation with States and other appropriate public or nonprofit private entities”.
 
-    Subsec. (j). [Pub. L. 106–310, § 1304(9)][/us/pl/106/310/s1304/9], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1997 through 1999.”
+    Subsec. (j). [Pub. L. 106–310][/us/pl/106/310], § 1304(9), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1997 through 1999.”
 
-    [Pub. L. 106–310, § 1304(5)][/us/pl/106/310/s1304/5], redesignated subsec. (h) as (j).
+    [Pub. L. 106–310][/us/pl/106/310], § 1304(5), redesignated subsec. (h) as (j).
 
  __Definitions__ 
 
@@ -218,54 +218,54 @@
 [/us/usc/t42/s300d–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9353
 [/us/usc/t42/s300d–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9353
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/166/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166%2Fs3
+[/us/pl/104/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166
 [/us/stat/110/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1446
-[/us/pl/106/310/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304
+[/us/pl/106/310/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIII
 [/us/stat/114/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1139
-[/us/pl/110/23/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23%2Fs14
+[/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F99
-[/us/pl/110/206/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/stat/122/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F716
-[/us/pl/111/256/s2/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Ff%2F6
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
-[/us/pl/113/196/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
 [/us/stat/128/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2052
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/113/196/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F1
-[/us/pl/113/196/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F2
-[/us/pl/113/196/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F3
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
 [/us/usc/t42/s300d–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9353
 [/us/usc/t42/s300d–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9353
-[/us/pl/113/196/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F4
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
-[/us/pl/110/206/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F1
-[/us/pl/110/206/s6/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F2%2FA
-[/us/pl/110/206/s6/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F2%2FB
-[/us/pl/110/206/s6/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F2%2FA
-[/us/pl/110/206/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F3
-[/us/pl/110/206/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F4
-[/us/pl/110/206/s6/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F5%2FA
-[/us/pl/110/206/s6/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F5%2FC
-[/us/pl/110/206/s6/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F6
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/usc/t42/s300d–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9353
-[/us/pl/110/206/s6/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F7
-[/us/pl/110/206/s6/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F8
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
-[/us/pl/106/310/s1304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F1
-[/us/pl/106/310/s1304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F1
-[/us/pl/106/310/s1304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F2
-[/us/pl/106/310/s1304/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F3%2FA
-[/us/pl/106/310/s1304/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F3%2FB
-[/us/pl/106/310/s1304/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F4%2FA
-[/us/pl/106/310/s1304/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F4%2FB
-[/us/pl/106/310/s1304/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F6
-[/us/pl/106/310/s1304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F5
-[/us/pl/106/310/s1304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F5
-[/us/pl/106/310/s1304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F5
-[/us/pl/106/310/s1304/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F9
-[/us/pl/106/310/s1304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1304%2F5
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/111/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2
 [/us/pl/111/256/s2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fk
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400

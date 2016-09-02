@@ -17,7 +17,7 @@
 
     The research program established under [section 10342 of this title][/us/usc/t42/s10342] shall be carried out in coordination with any other related Federal research efforts.
 
-([Pub. L. 102–490, § 5][/us/pl/102/490/s5], Oct. 24, 1992, [106 Stat. 3143][/us/stat/106/3143].)
+([Pub. L. 102–490][/us/pl/102/490], § 5, Oct. 24, 1992, [106 Stat. 3143][/us/stat/106/3143].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s10342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10342
-[/us/pl/102/490/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490%2Fs5
+[/us/pl/102/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490
 [/us/stat/106/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3143
 
 

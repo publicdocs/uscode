@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a...5712c.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
 
-## § 5712d. Repealed. [Pub. L. 109–162, title XI, § 1172(b)][/us/pl/109/162/s1172/b], Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123]
+## § 5712d. Repealed. [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1172(b), Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123]
 
-    Section, [Pub. L. 93–415, title III, § 316][/us/pl/93/415/s316], as added [Pub. L. 103–322, title IV, § 40155][/us/pl/103/322/s40155], Sept. 13, 1994, [108 Stat. 1922][/us/stat/108/1922], related to grants for prevention of sexual abuse and exploitation.
+    Section, [Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 316, as added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40155, Sept. 13, 1994, [108 Stat. 1922][/us/stat/108/1922], related to grants for prevention of sexual abuse and exploitation.
 
     A prior [section 316 of Pub. L. 93–415][/us/pl/93/415/s316] was renumbered [section 313 of Pub. L. 93–415][/us/pl/93/415/s313] and is classified to [section 5713 of this title][/us/usc/t42/s5713].
 
@@ -25,15 +25,15 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a...5712c.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
 
 ----------
 ----------
 
-[/us/pl/109/162/s1172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1172%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3123
-[/us/pl/93/415/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs316
-[/us/pl/103/322/s40155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40155
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1922
 [/us/pl/93/415/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs316
 [/us/pl/93/415/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs313

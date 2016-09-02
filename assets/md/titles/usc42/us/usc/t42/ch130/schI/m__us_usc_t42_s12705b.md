@@ -17,7 +17,7 @@
 
     For purposes of sections 12705a to 12705d of this title, the terms “regulatory barriers to affordable housing” and “regulatory barriers” mean any public policies (including policies embodied in statutes, ordinances, regulations, or administrative procedures or processes) required to be identified by a jurisdiction in connection with its comprehensive housing affordability strategy under [section 12705(b)(4) of this title][/us/usc/t42/s12705/b/4]. Such terms do not include policies relating to rents imposed on a structure by a jurisdiction or policies that have served to create or preserve, or can be shown to create or preserve, housing for low- and very low-income families, including displacement protections, demolition controls, replacement housing requirements, relocation benefits, housing trust funds, dedicated funding sources, waiver of local property taxes and builder fees, inclusionary zoning, rental zoning overlays, long-term use restrictions, and rights of first refusal.
 
-([Pub. L. 102–550, title XII, § 1203][/us/pl/102/550/s1203], Oct. 28, 1992, [106 Stat. 3938][/us/stat/106/3938].)
+([Pub. L. 102–550, title XII][/us/pl/102/550/tXII], § 1203, Oct. 28, 1992, [106 Stat. 3938][/us/stat/106/3938].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s12705/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F4
-[/us/pl/102/550/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1203
+[/us/pl/102/550/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXII
 [/us/stat/106/3938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3938
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3938

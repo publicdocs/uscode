@@ -59,7 +59,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out this section $750,000 for each of fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title V, § 517][/us/pl/110/140/s517], Dec. 19, 2007, [121 Stat. 1659][/us/stat/121/1659].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 517, Dec. 19, 2007, [121 Stat. 1659][/us/stat/121/1659].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs517
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1659
 
 

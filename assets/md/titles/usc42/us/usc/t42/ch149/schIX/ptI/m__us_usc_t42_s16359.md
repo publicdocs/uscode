@@ -17,7 +17,7 @@
 
     None of the funds authorized to be appropriated to the Secretary by this subchapter may be used to award a management and operating contract for a National Laboratory (excluding those named in subparagraphs (G), (H), (N), and (O) of [section 15801(3) of this title][/us/usc/t42/s15801/3]), unless such contract is competitively awarded, or the Secretary grants, on a case-by-case basis, a waiver. The Secretary may not delegate the authority to grant such a waiver and shall submit to Congress a report notifying it of the waiver, and setting forth the reasons for the waiver, at least 60 days prior to the date of the award of such contract.
 
-([Pub. L. 109–58, title IX, § 995][/us/pl/109/58/s995], Aug. 8, 2005, [119 Stat. 914][/us/stat/119/914].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 995, Aug. 8, 2005, [119 Stat. 914][/us/stat/119/914].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s15801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801%2F3
-[/us/pl/109/58/s995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs995
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F914
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F856

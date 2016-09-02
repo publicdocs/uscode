@@ -17,7 +17,7 @@
 
     It is the intent of Congress that deplorable conditions in institutions covered by this subchapter amounting to deprivations of rights protected by the Constitution or laws of the United States be corrected, not only by litigation as contemplated in this subchapter, but also by the voluntary good faith efforts of agencies of Federal, State, and local governments. It is the further intention of Congress that where Federal funds are available for use in improving such institutions, priority should be given to the correction or elimination of such unconstitutional or illegal conditions which may exist. It is not the intent of this provision to require the redirection of funds from one program to another or from one State to another.
 
-([Pub. L. 96–247, § 9][/us/pl/96/247/s9], May 23, 1980, [94 Stat. 354][/us/stat/94/354].)
+([Pub. L. 96–247][/us/pl/96/247], § 9, May 23, 1980, [94 Stat. 354][/us/stat/94/354].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/247/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs9
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F354
 
 

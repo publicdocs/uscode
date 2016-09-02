@@ -61,23 +61,23 @@
 
             Nothing in this section shall be construed to diminish the Administrator’s or a State’s authorities under subsection (a) of this section.
 
-([Pub. L. 89–272, title II, § 9005][/us/pl/89/272/s9005], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3284][/us/stat/98/3284]; amended [Pub. L. 99–499, title II, § 205(f)][/us/pl/99/499/s205/f], Oct. 17, 1986, [100 Stat. 1702][/us/stat/100/1702]; [Pub. L. 109–58, title XV][/us/pl/109/58], §§ 1523(a), 1533(4), Aug. 8, 2005, [119 Stat. 1094][/us/stat/119/1094], 1105.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9005, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3284][/us/stat/98/3284]; amended [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 205(f), Oct. 17, 1986, [100 Stat. 1702][/us/stat/100/1702]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], §§ 1523(a), 1533(4), Aug. 8, 2005, [119 Stat. 1094][/us/stat/119/1094], 1105.)
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 1533(4)(A)][/us/pl/109/58/s1533/4/A], substituted “study, taking” for “study taking” in introductory provisions.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1533(4)(A), substituted “study, taking” for “study taking” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 109–58, § 1533(4)(B)][/us/pl/109/58/s1533/4/B], substituted “relevant” for “relevent”.
+    Subsec. (b)(1). [Pub. L. 109–58][/us/pl/109/58], § 1533(4)(B), substituted “relevant” for “relevent”.
 
-    Subsec. (b)(4). [Pub. L. 109–58, § 1533(4)(C)][/us/pl/109/58/s1533/4/C], substituted “Environmental” for “Evironmental”.
+    Subsec. (b)(4). [Pub. L. 109–58][/us/pl/109/58], § 1533(4)(C), substituted “Environmental” for “Evironmental”.
 
-    Subsec. (c). [Pub. L. 109–58, § 1523(a)][/us/pl/109/58/s1523/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 1523(a), added subsec. (c).
 
-    1986—[Pub. L. 99–499, § 205(f)(3)][/us/pl/99/499/s205/f/3], inserted reference to corrective action in section catchline.
+    1986—[Pub. L. 99–499][/us/pl/99/499], § 205(f)(3), inserted reference to corrective action in section catchline.
 
-    Subsec. (a). [Pub. L. 99–499, § 205(f)(1)][/us/pl/99/499/s205/f/1], in first sentence, inserted “taking any corrective action” after “conducting any study”, inserted “acting pursuant to subsection (h)(7) of [section 6991b of this title][/us/usc/t42/s6991b] or”, struck out “and” before “permit such officer”, and inserted “and permit such officer to have access for corrective action”, and in second sentence, inserted “taking corrective action,” after “study,”. The amendment directing insertion of “taking any corrective action” after “study” in first sentence was executed by inserting that language after “conducting any study” rather than after “subject to study”, as the probable intent of Congress.
+    Subsec. (a). [Pub. L. 99–499][/us/pl/99/499], § 205(f)(1), in first sentence, inserted “taking any corrective action” after “conducting any study”, inserted “acting pursuant to subsection (h)(7) of [section 6991b of this title][/us/usc/t42/s6991b] or”, struck out “and” before “permit such officer”, and inserted “and permit such officer to have access for corrective action”, and in second sentence, inserted “taking corrective action,” after “study,”. The amendment directing insertion of “taking any corrective action” after “study” in first sentence was executed by inserting that language after “conducting any study” rather than after “subject to study”, as the probable intent of Congress.
 
-    Subsec. (a)(4). [Pub. L. 99–499, § 205(f)(2)][/us/pl/99/499/s205/f/2], added par. (4).
+    Subsec. (a)(4). [Pub. L. 99–499][/us/pl/99/499], § 205(f)(2), added par. (4).
 
 ----------
 
@@ -92,20 +92,20 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s6991c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991c
 [/us/usc/t42/s6991c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991c
-[/us/pl/89/272/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9005
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3284
-[/us/pl/99/499/s205/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Ff
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1702
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1094
-[/us/pl/109/58/s1533/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1533%2F4%2FA
-[/us/pl/109/58/s1533/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1533%2F4%2FB
-[/us/pl/109/58/s1533/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1533%2F4%2FC
-[/us/pl/109/58/s1523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1523%2Fa
-[/us/pl/99/499/s205/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Ff%2F3
-[/us/pl/99/499/s205/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Ff%2F1
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b
-[/us/pl/99/499/s205/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Ff%2F2
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 
 

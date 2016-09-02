@@ -31,7 +31,7 @@
 
         The rural State shall form a State crime free communities commission that includes representatives of State and local government, and community leaders who will provide advice and recommendations on relevant community goals and objectives, and performance targets and measures.
 
-([Pub. L. 90–351, title I, § 2987][/us/pl/90/351/s2987], as added [Pub. L. 107–273, div. C, title I, § 11027(b)][/us/pl/107/273/s11027/b], Nov. 2, 2002, [116 Stat. 1834][/us/stat/116/1834].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2987, as added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11027(b), Nov. 2, 2002, [116 Stat. 1834][/us/stat/116/1834].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2987
-[/us/pl/107/273/s11027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11027%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1834
 
 

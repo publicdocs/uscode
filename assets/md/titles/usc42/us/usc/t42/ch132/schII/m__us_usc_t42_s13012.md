@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to ensure that by January 1, 2015, a court-appointed special advocate shall be available to every victim of child abuse or neglect in the United States that needs such an advocate.
 
-([Pub. L. 101–647, title II, § 216][/us/pl/101/647/s216], Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 103–322, title IV, § 40156(a)(2)][/us/pl/103/322/s40156/a/2], Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923]; [Pub. L. 109–162, title I, § 112(b)][/us/pl/109/162/s112/b], Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I, § 106(1)][/us/pl/113/4/s106/1], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 216, Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(a)(2), Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 112(b), Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 106(1), Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
  __Amendments__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/pl/101/647/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs216
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4794
-[/us/pl/103/322/s40156/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fa%2F2
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1923
-[/us/pl/109/162/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fb
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2986
-[/us/pl/113/4/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F1
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

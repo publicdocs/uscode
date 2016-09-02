@@ -99,37 +99,37 @@
 
             (B) promoting familiarity with local medical and public health systems.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2802, as added [Pub. L. 109–417, title I, § 103][/us/pl/109/417/s103], Dec. 19, 2006, [120 Stat. 2835][/us/stat/120/2835]; amended [Pub. L. 113–5, title I, § 101(a)][/us/pl/113/5/s101/a], Mar. 13, 2013, [127 Stat. 162][/us/stat/127/162].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2802, as added [Pub. L. 109–417, title I][/us/pl/109/417/tI], § 103, Dec. 19, 2006, [120 Stat. 2835][/us/stat/120/2835]; amended [Pub. L. 113–5, title I][/us/pl/113/5/tI], § 101(a), Mar. 13, 2013, [127 Stat. 162][/us/stat/127/162].)
 
  __References in Text__ 
 
-    [Section 314(6) of title 6][/us/usc/t6/s314/6], referred to in subsec. (a)(1), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning [section 504(6) of Pub. L. 107–296][/us/pl/107/296/s504/6], to reflect the probable intent of Congress and the renumbering of section 502 as 504 by [Pub. L. 109–295, title VI, § 611(8)][/us/pl/109/295/s611/8], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
+    [Section 314(6) of title 6][/us/usc/t6/s314/6], referred to in subsec. (a)(1), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning [section 504(6) of Pub. L. 107–296][/us/pl/107/296/s504/6], to reflect the probable intent of Congress and the renumbering of section 502 as 504 by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(8), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–5, § 101(a)(1)][/us/pl/113/5/s101/a/1], substituted “2014” for “2009”.
+    2013—Subsec. (a)(1). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(1), substituted “2014” for “2009”.
 
-    Subsec. (b)(1)(A). [Pub. L. 113–5, § 101(a)(2)(A)][/us/pl/113/5/s101/a/2/A], inserted “, including drills and exercises to ensure medical surge capacity for events without notice” after “through drills and exercises”.
+    Subsec. (b)(1)(A). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(A), inserted “, including drills and exercises to ensure medical surge capacity for events without notice” after “through drills and exercises”.
 
-    Subsec. (b)(3). [Pub. L. 113–5, § 101(a)(2)(B)(i)][/us/pl/113/5/s101/a/2/B/i], in introductory provisions, substituted “and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care,” for “facilities), and trauma care” and inserted “(including related availability, accessibility, and coordination)” after “public health emergencies”.
+    Subsec. (b)(3). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(B)(i), in introductory provisions, substituted “and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care,” for “facilities), and trauma care” and inserted “(including related availability, accessibility, and coordination)” after “public health emergencies”.
 
-    Subsec. (b)(3)(A). [Pub. L. 113–5, § 101(a)(2)(B)(ii)][/us/pl/113/5/s101/a/2/B/ii], inserted “and trauma” after “medical”.
+    Subsec. (b)(3)(A). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(B)(ii), inserted “and trauma” after “medical”.
 
-    Subsec. (b)(3)(B). [Pub. L. 113–5, § 101(a)(2)(B)(iii)][/us/pl/113/5/s101/a/2/B/iii], substituted “Fatality management” for “Medical evacuation and fatality management”.
+    Subsec. (b)(3)(B). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(B)(iii), substituted “Fatality management” for “Medical evacuation and fatality management”.
 
-    Subsec. (b)(3)(C), (D). [Pub. L. 113–5, § 101(a)(2)(B)(iv)][/us/pl/113/5/s101/a/2/B/iv], (v), added subpar. (C) and redesignated former subpar. (C) as (D). Former subpar. (D) redesignated (E).
+    Subsec. (b)(3)(C), (D). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(B)(iv), (v), added subpar. (C) and redesignated former subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-    Subsec. (b)(3)(E). [Pub. L. 113–5, § 101(a)(2)(B)(iv)][/us/pl/113/5/s101/a/2/B/iv], (vi), redesignated subpar. (D) as (E) and inserted “(which may include such dental health assets)” after “medical assets”. Former subpar. (E) redesignated (F).
+    Subsec. (b)(3)(E). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(B)(iv), (vi), redesignated subpar. (D) as (E) and inserted “(which may include such dental health assets)” after “medical assets”. Former subpar. (E) redesignated (F).
 
-    Subsec. (b)(3)(F). [Pub. L. 113–5, § 101(a)(2)(B)(iv)][/us/pl/113/5/s101/a/2/B/iv], redesignated subpar. (E) as (F).
+    Subsec. (b)(3)(F). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(B)(iv), redesignated subpar. (E) as (F).
 
-    Subsec. (b)(3)(G). [Pub. L. 113–5, § 101(a)(2)(B)(vii)][/us/pl/113/5/s101/a/2/B/vii], added subpar. (G).
+    Subsec. (b)(3)(G). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(B)(vii), added subpar. (G).
 
-    Subsec. (b)(4)(A). [Pub. L. 113–5, § 101(a)(2)(C)(i)][/us/pl/113/5/s101/a/2/C/i], inserted “, including the unique needs and considerations of individuals with disabilities,” after “needs of at-risk individuals”.
+    Subsec. (b)(4)(A). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(C)(i), inserted “, including the unique needs and considerations of individuals with disabilities,” after “needs of at-risk individuals”.
 
-    Subsec. (b)(4)(B). [Pub. L. 113–5, § 101(a)(2)(C)(ii)][/us/pl/113/5/s101/a/2/C/ii], inserted “the” before “purpose of this section”.
+    Subsec. (b)(4)(B). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(C)(ii), inserted “the” before “purpose of this section”.
 
-    Subsec. (b)(7), (8). [Pub. L. 113–5, § 101(a)(2)(D)][/us/pl/113/5/s101/a/2/D], added pars. (7) and (8).
+    Subsec. (b)(7), (8). [Pub. L. 113–5][/us/pl/113/5], § 101(a)(2)(D), added pars. (7) and (8).
 
  __Ex. Ord. No. 13527. Establishing Federal Capability for the Timely Provision of Medical Countermeasures Following a Biological Attack__ 
 
@@ -181,25 +181,25 @@
 [/us/usc/t42/s247d–6d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936d
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs103
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2835
-[/us/pl/113/5/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa
+[/us/pl/113/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtI
 [/us/stat/127/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F162
 [/us/usc/t6/s314/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314%2F6
 [/us/pl/107/296/s504/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs504%2F6
-[/us/pl/109/295/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F8
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
-[/us/pl/113/5/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F1
-[/us/pl/113/5/s101/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FA
-[/us/pl/113/5/s101/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FB%2Fi
-[/us/pl/113/5/s101/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FB%2Fii
-[/us/pl/113/5/s101/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FB%2Fiii
-[/us/pl/113/5/s101/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FB%2Fiv
-[/us/pl/113/5/s101/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FB%2Fiv
-[/us/pl/113/5/s101/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FB%2Fiv
-[/us/pl/113/5/s101/a/2/B/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FB%2Fvii
-[/us/pl/113/5/s101/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FC%2Fi
-[/us/pl/113/5/s101/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FC%2Fii
-[/us/pl/113/5/s101/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fa%2F2%2FD
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 
 

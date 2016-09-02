@@ -19,7 +19,7 @@
 
     (b) The Commissioner of Social Security shall ensure that information received under subsection (a) of this section is provided to personnel of the Social Security Administration, particularly personnel involved in the process of determining, for purposes of titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\], whether an individual is under a disability.
 
-([Pub. L. 99–660, title IX, § 961][/us/pl/99/660/s961], Nov. 14, 1986, [100 Stat. 3814][/us/stat/100/3814].)
+([Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 961, Nov. 14, 1986, [100 Stat. 3814][/us/stat/100/3814].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/99/660/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs961
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3814
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

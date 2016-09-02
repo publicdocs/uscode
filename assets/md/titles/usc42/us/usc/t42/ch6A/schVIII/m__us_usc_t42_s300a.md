@@ -31,7 +31,7 @@
 
         For the purpose of making grants under this section, there are authorized to be appropriated $10,000,000 for the fiscal year ending June 30, 1971; $15,000,000 for the fiscal year ending June 30, 1972; and $20,000,000 for the fiscal year ending June 30, 1973.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title X, § 1002, as added [Pub. L. 91–572, § 6(c)][/us/pl/91/572/s6/c], Dec. 24, 1970, [84 Stat. 1506][/us/stat/84/1506]; amended [Pub. L. 94–484, title IX, § 905(b)(1)][/us/pl/94/484/s905/b/1], Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title X, § 1002, as added [Pub. L. 91–572][/us/pl/91/572], § 6(c), Dec. 24, 1970, [84 Stat. 1506][/us/stat/84/1506]; amended [Pub. L. 94–484, title IX][/us/pl/94/484/tIX], § 905(b)(1), Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Study of State Delivery of Services; Report to Congress__ 
 
-    [Pub. L. 97–35, title IX, § 931(c)][/us/pl/97/35/s931/c], Aug. 13, 1981, [95 Stat. 570][/us/stat/95/570], directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[[42 U.S.C. 300][/us/usc/t42/s300] et seq.\] and to report to Congress on results of such study 18 months after Aug. 13, 1981.
+    [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 931(c), Aug. 13, 1981, [95 Stat. 570][/us/stat/95/570], directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[[42 U.S.C. 300][/us/usc/t42/s300] et seq.\] and to report to Congress on results of such study 18 months after Aug. 13, 1981.
 
 ----------
 
@@ -53,13 +53,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/572/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F572%2Fs6%2Fc
+[/us/pl/91/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F572
 [/us/stat/84/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1506
-[/us/pl/94/484/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs905%2Fb%2F1
+[/us/pl/94/484/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIX
 [/us/stat/90/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2325
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/97/35/s931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs931%2Fc
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F570
 [/us/usc/t42/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300
 

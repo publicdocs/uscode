@@ -39,7 +39,7 @@
 
         The period of any absence of a participant from a service position pursuant to title I of the Family and Medical Leave Act of 1993 \[[29 U.S.C. 2611][/us/usc/t29/s2611] et seq.\] or subchapter V of chapter 63 of title 5 shall not be counted toward the completion of the term of service of the participant under [section 12593 of this title][/us/usc/t42/s12593].
 
-([Pub. L. 101–610, title I, § 171][/us/pl/101/610/s171], Nov. 16, 1990, [104 Stat. 3159][/us/stat/104/3159]; [Pub. L. 103–82, title I, § 113(a)][/us/pl/103/82/s113/a], Sept. 21, 1993, [107 Stat. 861][/us/stat/107/861]; [Pub. L. 111–13, title I, § 1601][/us/pl/111/13/s1601], Apr. 21, 2009, [123 Stat. 1529][/us/stat/123/1529].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 171, Nov. 16, 1990, [104 Stat. 3159][/us/stat/104/3159]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 113(a), Sept. 21, 1993, [107 Stat. 861][/us/stat/107/861]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1601, Apr. 21, 2009, [123 Stat. 1529][/us/stat/123/1529].)
 
  __References in Text__ 
 
@@ -70,11 +70,11 @@
 [/us/usc/t29/s2611/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2611%2F2%2FA%2Fi
 [/us/usc/t29/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2611
 [/us/usc/t42/s12593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12593
-[/us/pl/101/610/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs171
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3159
-[/us/pl/103/82/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs113%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F861
-[/us/pl/111/13/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1601
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1529
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6

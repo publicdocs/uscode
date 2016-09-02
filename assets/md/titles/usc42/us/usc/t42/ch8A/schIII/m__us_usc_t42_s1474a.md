@@ -17,7 +17,7 @@
 
     On and after August 8, 1968, farmer applicants for direct or insured rural housing loans shall be required to provide only such collateral security as is required of owners of nonfarm tracts.
 
-([Pub. L. 90–463, title II, § 201][/us/pl/90/463/s201], Aug. 8, 1968, [82 Stat. 651][/us/stat/82/651].)
+([Pub. L. 90–463, title II][/us/pl/90/463/tII], § 201, Aug. 8, 1968, [82 Stat. 651][/us/stat/82/651].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/463/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F463%2Fs201
+[/us/pl/90/463/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F463%2FtII
 [/us/stat/82/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F651
 
 

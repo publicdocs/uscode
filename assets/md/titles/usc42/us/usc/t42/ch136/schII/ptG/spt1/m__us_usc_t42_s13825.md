@@ -31,7 +31,7 @@
 
         Proceeds derived from investments made using funds made available under this subpart may be used only for the purposes described in [section 13821 of this title][/us/usc/t42/s13821] and shall be reinvested in the community in which they were generated.
 
-([Pub. L. 103–322, title III, § 31115][/us/pl/103/322/s31115], Sept. 13, 1994, [108 Stat. 1884][/us/stat/108/1884].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31115, Sept. 13, 1994, [108 Stat. 1884][/us/stat/108/1884].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s13822/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13822%2Fb%2F2%2FD
 [/us/usc/t42/s13821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13821
-[/us/pl/103/322/s31115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31115
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1884
 
 

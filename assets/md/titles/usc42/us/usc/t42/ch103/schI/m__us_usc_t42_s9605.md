@@ -145,13 +145,13 @@
 
             (C) the conditions in paragraphs (1) through (3), as applicable, are no longer being met.
 
-([Pub. L. 96–510, title I, § 105][/us/pl/96/510/s105], Dec. 11, 1980, [94 Stat. 2779][/us/stat/94/2779]; [Pub. L. 99–499, title I, § 105][/us/pl/99/499/s105], Oct. 17, 1986, [100 Stat. 1625][/us/stat/100/1625]; [Pub. L. 107–118, title II, § 232][/us/pl/107/118/s232], Jan. 11, 2002, [115 Stat. 2379][/us/stat/115/2379].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 105, Dec. 11, 1980, [94 Stat. 2779][/us/stat/94/2779]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 105, Oct. 17, 1986, [100 Stat. 1625][/us/stat/100/1625]; [Pub. L. 107–118, title II][/us/pl/107/118/tII], § 232, Jan. 11, 2002, [115 Stat. 2379][/us/stat/115/2379].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (b), (c)(4), (f), and (g)(4), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
-    [Section 1321(c)(2) of title 33][/us/usc/t33/s1321/c/2], referred to in subsec. (a), was amended generally by [Pub. L. 101–380, title IV, § 4201(a)][/us/pl/101/380/s4201/a], Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523]. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in [section 1321(d) of Title 33][/us/usc/t33/s1321/d], Navigation and Navigable Waters.
+    [Section 1321(c)(2) of title 33][/us/usc/t33/s1321/c/2], referred to in subsec. (a), was amended generally by [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4201(a), Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523]. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in [section 1321(d) of Title 33][/us/usc/t33/s1321/d], Navigation and Navigable Waters.
 
     Such amendments and the amendments made by the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (b), are the amendments made by [Pub. L. 99–499][/us/pl/99/499], Oct. 17, 1986, [100 Stat. 1613][/us/stat/100/1613]. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
@@ -159,17 +159,17 @@
 
     2002—Subsec. (h). [Pub. L. 107–118][/us/pl/107/118] added subsec. (h).
 
-    1986—Subsec. (a). [Pub. L. 99–499, § 105(a)(1)][/us/pl/99/499/s105/a/1], designated existing provisions as subsec. (a) and added heading.
+    1986—Subsec. (a). [Pub. L. 99–499][/us/pl/99/499], § 105(a)(1), designated existing provisions as subsec. (a) and added heading.
 
-    Subsec. (a)(8)(A). [Pub. L. 99–499, § 105(a)(2)][/us/pl/99/499/s105/a/2], inserted “the damage to natural resources which may affect the human food chain and which is associated with any release or threatened release, the contamination or potential contamination of the ambient air which is associated with the release or threatened release,” after “ecosystems,”.
+    Subsec. (a)(8)(A). [Pub. L. 99–499][/us/pl/99/499], § 105(a)(2), inserted “the damage to natural resources which may affect the human food chain and which is associated with any release or threatened release, the contamination or potential contamination of the ambient air which is associated with the release or threatened release,” after “ecosystems,”.
 
-    Subsec. (a)(8)(B). [Pub. L. 99–499, § 105(a)(3)][/us/pl/99/499/s105/a/3], struck out “at least four hundred of” after “To the extent practicable,”, substituted “one hundred highest priority facilities” for “one hundred highest priority facilities at least”, and inserted “A State shall be allowed to designate its highest priority facility only once.”
+    Subsec. (a)(8)(B). [Pub. L. 99–499][/us/pl/99/499], § 105(a)(3), struck out “at least four hundred of” after “To the extent practicable,”, substituted “one hundred highest priority facilities” for “one hundred highest priority facilities at least”, and inserted “A State shall be allowed to designate its highest priority facility only once.”
 
-    Subsec. (a)(9). [Pub. L. 99–499, § 105(a)(4)][/us/pl/99/499/s105/a/4], inserted “and including consideration of minority firms in accordance with subsection (f) of this section”.
+    Subsec. (a)(9). [Pub. L. 99–499][/us/pl/99/499], § 105(a)(4), inserted “and including consideration of minority firms in accordance with subsection (f) of this section”.
 
-    Subsec. (a)(10). [Pub. L. 99–499, § 105(a)(5)][/us/pl/99/499/s105/a/5], added par. (10).
+    Subsec. (a)(10). [Pub. L. 99–499][/us/pl/99/499], § 105(a)(5), added par. (10).
 
-    Subsecs. (b) to (g). [Pub. L. 99–499, § 105(b)][/us/pl/99/499/s105/b], added subsecs. (b) to (g).
+    Subsecs. (b) to (g). [Pub. L. 99–499][/us/pl/99/499], § 105(b), added subsecs. (b) to (g).
 
 ----------
 
@@ -181,28 +181,28 @@
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s6921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921%2Fb
-[/us/pl/96/510/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs105
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2779
-[/us/pl/99/499/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs105
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1625
-[/us/pl/107/118/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs232
+[/us/pl/107/118/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtII
 [/us/stat/115/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2379
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t33/s1321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fc%2F2
-[/us/pl/101/380/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F523
 [/us/usc/t33/s1321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fd
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
-[/us/pl/99/499/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs105%2Fa%2F1
-[/us/pl/99/499/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs105%2Fa%2F2
-[/us/pl/99/499/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs105%2Fa%2F3
-[/us/pl/99/499/s105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs105%2Fa%2F4
-[/us/pl/99/499/s105/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs105%2Fa%2F5
-[/us/pl/99/499/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs105%2Fb
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 
 

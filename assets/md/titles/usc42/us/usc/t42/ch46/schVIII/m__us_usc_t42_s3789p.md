@@ -23,7 +23,7 @@
 
         The Attorney General or Secretary of Health and Human Services, as applicable, shall report biennially to the Committees on the Judiciary of the House of Representatives and the Senate on the grant programs described in subsection (a) of this section, including the information contained in any report under that subsection.
 
-([Pub. L. 106–386, div. B, § 1003][/us/pl/106/386/s1003], Oct. 28, 2000, [114 Stat. 1491][/us/stat/114/1491].)
+([Pub. L. 106–386, div. B][/us/pl/106/386/dB], § 1003, Oct. 28, 2000, [114 Stat. 1491][/us/stat/114/1491].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/386/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1003
+[/us/pl/106/386/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB
 [/us/stat/114/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1491
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1491

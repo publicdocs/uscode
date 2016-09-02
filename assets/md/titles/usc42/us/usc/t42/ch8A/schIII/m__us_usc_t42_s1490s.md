@@ -91,7 +91,7 @@
 
                 In an action under this paragraph, the validity and appropriateness of a determination by the Secretary imposing the penalty shall not be subject to review.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 543, as added [Pub. L. 106–569, title VII, § 708(a)][/us/pl/106/569/s708/a], Dec. 27, 2000, [114 Stat. 3016][/us/stat/114/3016].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 543, as added [Pub. L. 106–569, title VII][/us/pl/106/569/tVII], § 708(a), Dec. 27, 2000, [114 Stat. 3016][/us/stat/114/3016].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/106/569/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs708%2Fa
+[/us/pl/106/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVII
 [/us/stat/114/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3016
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 

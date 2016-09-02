@@ -35,7 +35,7 @@
 
     (6) The term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 95–619, title V, § 521][/us/pl/95/619/s521], Nov. 9, 1978, [92 Stat. 3275][/us/stat/92/3275]; [Pub. L. 110–161, div. H, title I, § 1303(b)][/us/pl/110/161/s1303/b], Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 521, Nov. 9, 1978, [92 Stat. 3275][/us/stat/92/3275]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1303(b), Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s5721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721
-[/us/pl/95/619/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs521
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3275
-[/us/pl/110/161/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1303%2Fb
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2242
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 

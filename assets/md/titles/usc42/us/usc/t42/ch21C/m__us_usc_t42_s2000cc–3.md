@@ -55,7 +55,7 @@
 
         If any provision of this chapter or of an amendment made by this chapter, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, the amendments made by this chapter, and the application of the provision to any other person or circumstance shall not be affected.
 
-([Pub. L. 106–274, § 5][/us/pl/106/274/s5], Sept. 22, 2000, [114 Stat. 805][/us/stat/114/805].)
+([Pub. L. 106–274][/us/pl/106/274], § 5, Sept. 22, 2000, [114 Stat. 805][/us/stat/114/805].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/106/274/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs5
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F805
 [/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F803

@@ -225,41 +225,41 @@
 
             The authorization of appropriations established in paragraph (1) for a fiscal year is effective only if the amount appropriated under such paragraph for such year equals or exceeds the amount appropriated to carry out this section for fiscal year 2009.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317E, as added [Pub. L. 103–183, title III, § 301(a)][/us/pl/103/183/s301/a], Dec. 14, 1993, [107 Stat. 2233][/us/stat/107/2233]; amended [Pub. L. 105–392, title IV][/us/pl/105/392], §§ 401(b)(1), 405, Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587], 3588; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 108–163, § 2(m)(1)][/us/pl/108/163/s2/m/1], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023]; [Pub. L. 110–392, title I][/us/pl/110/392], §§ 101, 111(a), (c), 131, Oct. 13, 2008, [122 Stat. 4196][/us/stat/122/4196], 4197, 4199, 4200.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317E, as added [Pub. L. 103–183, title III][/us/pl/103/183/tIII], § 301(a), Dec. 14, 1993, [107 Stat. 2233][/us/stat/107/2233]; amended [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], §§ 401(b)(1), 405, Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587], 3588; [Pub. L. 107–251, title VI][/us/pl/107/251/tVI], § 601(a), Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 108–163][/us/pl/108/163], § 2(m)(1), Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023]; [Pub. L. 110–392, title I][/us/pl/110/392/tI], §§ 101, 111(a), (c), 131, Oct. 13, 2008, [122 Stat. 4196][/us/stat/122/4196], 4197, 4199, 4200.)
 
  __References in Text__ 
 
-    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing, referred to in subsec. (c), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
+    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing, referred to in subsec. (c), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
 
-    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (c), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (c), was repealed by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–392, § 101(1)][/us/pl/110/392/s101/1], substituted “National strategy for combating and eliminating tuberculosis” for “Preventive health services regarding tuberculosis” in section catchline.
+    2008—[Pub. L. 110–392][/us/pl/110/392], § 101(1), substituted “National strategy for combating and eliminating tuberculosis” for “Preventive health services regarding tuberculosis” in section catchline.
 
-    Subsec. (b). [Pub. L. 110–392, § 101(2)][/us/pl/110/392/s101/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to research, demonstration projects, education, and training for the purpose of prevention, control, and elimination of tuberculosis.
+    Subsec. (b). [Pub. L. 110–392][/us/pl/110/392], § 101(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to research, demonstration projects, education, and training for the purpose of prevention, control, and elimination of tuberculosis.
 
-    Subsec. (d)(3). [Pub. L. 110–392, § 101(3)][/us/pl/110/392/s101/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 110–392][/us/pl/110/392], § 101(3), added par. (3).
 
-    Subsec. (f)(2) to (6). [Pub. L. 110–392, § 111(a)][/us/pl/110/392/s111/a], added pars. (2) to (5), redesignated former par. (5) as (6), and struck out former pars. (2) to (4) which related to general duties, certain activities, and composition of the Council, respectively.
+    Subsec. (f)(2) to (6). [Pub. L. 110–392][/us/pl/110/392], § 111(a), added pars. (2) to (5), redesignated former par. (5) as (6), and struck out former pars. (2) to (4) which related to general duties, certain activities, and composition of the Council, respectively.
 
-    Subsec. (g). [Pub. L. 110–392, § 111(c)(2)][/us/pl/110/392/s111/c/2], added subsec. (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 110–392][/us/pl/110/392], § 111(c)(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 110–392, § 131][/us/pl/110/392/s131], added subsec. (h) and struck out former subsec. (h) which authorized appropriations for grants, research, demonstration projects, education, and training for fiscal years 1994 to 2002.
+    Subsec. (h). [Pub. L. 110–392][/us/pl/110/392], § 131, added subsec. (h) and struck out former subsec. (h) which authorized appropriations for grants, research, demonstration projects, education, and training for fiscal years 1994 to 2002.
 
-    [Pub. L. 110–392, § 111(c)(1)][/us/pl/110/392/s111/c/1], redesignated subsec. (g) as (h).
+    [Pub. L. 110–392][/us/pl/110/392], § 111(c)(1), redesignated subsec. (g) as (h).
 
     2003—Subsec. (c). [Pub. L. 108–163][/us/pl/108/163] substituted “254b” for “254c, 254b(h)” before “, or”.
 
     2002—Subsec. (c). [Pub. L. 107–251][/us/pl/107/251] substituted “254b(h)” for “256”.
 
-    1998—Subsec. (g)(1)(A). [Pub. L. 105–392, § 405(1)(A)][/us/pl/105/392/s405/1/A], substituted “2002” for “1998”.
+    1998—Subsec. (g)(1)(A). [Pub. L. 105–392][/us/pl/105/392], § 405(1)(A), substituted “2002” for “1998”.
 
-    Subsec. (g)(1)(B). [Pub. L. 105–392, § 405(1)(B)][/us/pl/105/392/s405/1/B], substituted “25 percent” for “$50,000,000”.
+    Subsec. (g)(1)(B). [Pub. L. 105–392][/us/pl/105/392], § 405(1)(B), substituted “25 percent” for “$50,000,000”.
 
-    Subsec. (g)(2). [Pub. L. 105–392, § 405(2)][/us/pl/105/392/s405/2], substituted “2002” for “1998”.
+    Subsec. (g)(2). [Pub. L. 105–392][/us/pl/105/392], § 405(2), substituted “2002” for “1998”.
 
-    [Pub. L. 105–392, § 401(b)(1)][/us/pl/105/392/s401/b/1], substituted “carrying out subsection (b)” for “making grants under subsection (b)”.
+    [Pub. L. 105–392][/us/pl/105/392], § 401(b)(1), substituted “carrying out subsection (b)” for “making grants under subsection (b)”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -271,7 +271,7 @@
 
  __Construction of 2008 Amendment__ 
 
-[Pub. L. 110–392, title I, § 111(b)][/us/pl/110/392/s111/b], Oct. 13, 2008, [122 Stat. 4199][/us/stat/122/4199], provided that: 
+[Pub. L. 110–392, title I][/us/pl/110/392/tI], § 111(b), Oct. 13, 2008, [122 Stat. 4199][/us/stat/122/4199], provided that: 
 
 > “With respect to the advisory council under section 317E(f) of the Public Health Service Act \[[42 U.S.C. 247b–6(f)][/us/usc/t42/s247b–6/f]\], the amendments made by subsection (a) \[amending this section\] may not be construed as terminating the membership on such council of any individual serving as such a member as of the day before the date of the enactment of this Act \[Oct. 13, 2008\].”
 
@@ -279,7 +279,7 @@
 
     Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ----------
 
@@ -289,35 +289,35 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/183/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs301%2Fa
+[/us/pl/103/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtIII
 [/us/stat/107/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2233
-[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3587
-[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
+[/us/pl/107/251/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtVI
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
-[/us/pl/108/163/s2/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fm%2F1
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
-[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
+[/us/pl/110/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2FtI
 [/us/stat/122/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4196
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
-[/us/pl/110/392/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs101%2F1
-[/us/pl/110/392/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs101%2F2
-[/us/pl/110/392/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs101%2F3
-[/us/pl/110/392/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs111%2Fa
-[/us/pl/110/392/s111/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs111%2Fc%2F2
-[/us/pl/110/392/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs131
-[/us/pl/110/392/s111/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs111%2Fc%2F1
+[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
+[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
+[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
+[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
+[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
+[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
+[/us/pl/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
-[/us/pl/105/392/s405/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs405%2F1%2FA
-[/us/pl/105/392/s405/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs405%2F1%2FB
-[/us/pl/105/392/s405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs405%2F2
-[/us/pl/105/392/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fb%2F1
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3
@@ -326,12 +326,12 @@
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/105/392/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fe
 [/us/usc/t42/s242m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242m
-[/us/pl/110/392/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs111%2Fb
+[/us/pl/110/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2FtI
 [/us/stat/122/4199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4199
 [/us/usc/t42/s247b–6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%936%2Ff
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

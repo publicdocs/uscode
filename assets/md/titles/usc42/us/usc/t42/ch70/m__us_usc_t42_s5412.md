@@ -27,7 +27,7 @@
 
     (b) If any manufacturer fails to comply with the requirements of subsection (a) of this section, then the distributor or retailer, as the case may be, to whom such manufactured home has been sold may bring an action seeking a court injunction compelling compliance with such requirements on the part of such manufacturer. Such action may be brought in any district court in the United States in the district in which such manufacturer resides, or is found, or has an agent, without regard to the amount in controversy, and the person bringing the action shall also be entitled to recover any damage sustained by him, as well as all court costs plus reasonable attorneys’ fees. Any action brought pursuant to this section shall be forever barred unless commenced within three years after the cause of action shall have accrued.
 
-([Pub. L. 93–383, title VI, § 613][/us/pl/93/383/s613], Aug. 22, 1974, [88 Stat. 706][/us/stat/88/706]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI, § 603(b)(1)][/us/pl/106/569/s603/b/1], Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 613, Aug. 22, 1974, [88 Stat. 706][/us/stat/88/706]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 603(b)(1), Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/93/383/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs613
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F706
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/106/569/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fb%2F1
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2999
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399

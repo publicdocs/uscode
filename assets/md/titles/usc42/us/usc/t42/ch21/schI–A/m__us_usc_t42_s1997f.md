@@ -27,7 +27,7 @@
 
     (5) the progress made in each Federal institution toward meeting existing promulgated standards for such institutions or constitutionally guaranteed minima.
 
-([Pub. L. 96–247, § 8][/us/pl/96/247/s8], May 23, 1980, [94 Stat. 353][/us/stat/94/353]; [Pub. L. 97–256, title II, § 201(b)][/us/pl/97/256/s201/b], Sept. 8, 1982, [96 Stat. 817][/us/stat/96/817]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(e)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–73; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 96–247][/us/pl/96/247], § 8, May 23, 1980, [94 Stat. 353][/us/stat/94/353]; [Pub. L. 97–256, title II][/us/pl/97/256/tII], § 201(b), Sept. 8, 1982, [96 Stat. 817][/us/stat/96/817]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 803(e)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–73; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 ----------
 
 [/us/usc/t28/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs522
-[/us/pl/96/247/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs8
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F353
-[/us/pl/97/256/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs201%2Fb
+[/us/pl/97/256/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2FtII
 [/us/stat/96/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F817
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/97/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256

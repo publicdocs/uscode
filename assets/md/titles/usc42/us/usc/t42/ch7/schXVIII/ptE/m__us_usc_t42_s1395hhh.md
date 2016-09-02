@@ -97,7 +97,7 @@
 
         There shall be no administrative or judicial review of any determination made by the Secretary under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1897, as added [Pub. L. 108–173, title X, § 1016][/us/pl/108/173/s1016], Dec. 8, 2003, [117 Stat. 2447][/us/stat/117/2447]; amended [Pub. L. 109–13, div. A, title VI, § 6045(a)][/us/pl/109/13/s6045/a], (b), May 11, 2005, [119 Stat. 294][/us/stat/119/294].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1897, as added [Pub. L. 108–173, title X][/us/pl/108/173/tX], § 1016, Dec. 8, 2003, [117 Stat. 2447][/us/stat/117/2447]; amended [Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6045(a), (b), May 11, 2005, [119 Stat. 294][/us/stat/119/294].)
 
  __References in Text__ 
 
@@ -107,17 +107,17 @@
 
  __Amendments__ 
 
-    2005—Subsec. (c)(2). [Pub. L. 109–13, § 6045(a)(1)(A)][/us/pl/109/13/s6045/a/1/A], inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions.
+    2005—Subsec. (c)(2). [Pub. L. 109–13][/us/pl/109/13], § 6045(a)(1)(A), inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions.
 
-    Subsec. (c)(2)(B). [Pub. L. 109–13, § 6045(a)(1)(B)][/us/pl/109/13/s6045/a/1/B], inserted “legislature” after “designated by the State” and “and such designation by the State legislature occurred prior to December 8, 2003” before period at end.
+    Subsec. (c)(2)(B). [Pub. L. 109–13][/us/pl/109/13], § 6045(a)(1)(B), inserted “legislature” after “designated by the State” and “and such designation by the State legislature occurred prior to December 8, 2003” before period at end.
 
-    Subsec. (c)(3). [Pub. L. 109–13, § 6045(a)(2)][/us/pl/109/13/s6045/a/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 109–13][/us/pl/109/13], § 6045(a)(2), added par. (3).
 
-    Subsec. (i). [Pub. L. 109–13, § 6045(b)][/us/pl/109/13/s6045/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 109–13][/us/pl/109/13], § 6045(b), added subsec. (i).
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–13, div. A, title VI, § 6045(c)][/us/pl/109/13/s6045/c], May 11, 2005, [119 Stat. 295][/us/stat/119/295], provided that: 
+[Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6045(c), May 11, 2005, [119 Stat. 295][/us/stat/119/295], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 ([Public Law 108–173][/us/pl/108/173]; [117 Stat. 2447][/us/stat/117/2447]).”
 
@@ -130,18 +130,18 @@
 
 [/us/usc/t20/s1087a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087a
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1016
+[/us/pl/108/173/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtX
 [/us/stat/117/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2447
-[/us/pl/109/13/s6045/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6045%2Fa
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F294
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/109/13/s6045/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6045%2Fa%2F1%2FA
-[/us/pl/109/13/s6045/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6045%2Fa%2F1%2FB
-[/us/pl/109/13/s6045/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6045%2Fa%2F2
-[/us/pl/109/13/s6045/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6045%2Fb
-[/us/pl/109/13/s6045/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6045%2Fc
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F295
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/stat/117/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2447

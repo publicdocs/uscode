@@ -27,7 +27,7 @@
 
         The President shall make a full and complete investigation and study of principles and standards for planning and evaluating water and related resources projects. Such investigation and study shall include, but not be limited to, consideration of enhancing regional economic development, the quality of the total environment including its protection and improvement, the well-being of the people of the United States, and the national economic development, as objectives to be included in federally-financed water and related resources projects and in the evaluation of costs and benefits attributable to such projects, as intended in [section 1962–2 of this title][/us/usc/t42/s1962–2], the interest rate formula to be used in evaluating and discounting future benefits for such projects, and appropriate Federal and non-Federal cost sharing for such projects. He shall report the results of such investigation and study, together with his recommendations, to Congress not later than one year after funds are first appropriated to carry out this subsection.
 
-([Pub. L. 93–251, title I, § 80][/us/pl/93/251/s80], Mar. 7, 1974, [88 Stat. 34][/us/stat/88/34].)
+([Pub. L. 93–251, title I][/us/pl/93/251/tI], § 80, Mar. 7, 1974, [88 Stat. 34][/us/stat/88/34].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Rates Used To Assess Return on Federal Government’s Investment in Projects of Army Corps of Engineers and Bureau of Reclamation__ 
 
-[Pub. L. 95–28, title II, § 204][/us/pl/95/28/s204], May 13, 1977, [91 Stat. 121][/us/stat/91/121], provided that: 
+[Pub. L. 95–28, title II][/us/pl/95/28/tII], § 204, May 13, 1977, [91 Stat. 121][/us/stat/91/121], provided that: 
 
 > “It is hereby reiterated that the interest rates or rates of discount to be used to assess the return on the Federal Government’s investment in projects of the United States Army Corps of Engineers or the Department of the Interior Bureau of Reclamation, shall be those interest rates or rates of discount established by [Public Law 93–251][/us/pl/93/251], the Water Resources Development Act of 1974 \[see Short Title of 1974 Amendment note set out under [section 1962 of this title][/us/usc/t42/s1962]\] or by any prior law authorizing projects of the United States Army Corps of Engineers or the Department of the Interior Bureau of Reclamation.”
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t42/s1962–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%E2%80%932
-[/us/pl/93/251/s80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs80
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F34
-[/us/pl/95/28/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs204
+[/us/pl/95/28/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2FtII
 [/us/stat/91/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F121
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
 [/us/usc/t42/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962

@@ -457,7 +457,7 @@
 
         An Exchange may not establish rules that conflict with or prevent the application of regulations promulgated by the Secretary under this subchapter.
 
-([Pub. L. 111–148, title I, § 1311][/us/pl/111/148/s1311], title X, §§ 10104(e)–(h), 10203(a), Mar. 23, 2010, [124 Stat. 173][/us/stat/124/173], 900, 901, 927.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1311, title X, §§ 10104(e)–(h), 10203(a), Mar. 23, 2010, [124 Stat. 173][/us/stat/124/173], 900, 901, 927.)
 
  __References in Text__ 
 
@@ -477,19 +477,19 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1)(I). [Pub. L. 111–148, § 10203(a)][/us/pl/111/148/s10203/a], added subpar. (I).
+    2010—Subsec. (c)(1)(I). [Pub. L. 111–148][/us/pl/111/148], § 10203(a), added subpar. (I).
 
-    Subsec. (d)(3)(B)(ii). [Pub. L. 111–148, § 10104(e)(1)][/us/pl/111/148/s10104/e/1], added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “A State shall make payments to or on behalf of an individual eligible for the premium tax credit under [section 36B of title 26][/us/usc/t26/s36B] and any cost-sharing reduction under [section 18071 of this title][/us/usc/t42/s18071] to defray the cost to the individual of any additional benefits described in clause (i) which are not eligible for such credit or reduction under [section 36B(b)(3)(D) of title 26][/us/usc/t26/s36B/b/3/D] and [section 18071(c)(4) of this title][/us/usc/t42/s18071/c/4].”
+    Subsec. (d)(3)(B)(ii). [Pub. L. 111–148][/us/pl/111/148], § 10104(e)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “A State shall make payments to or on behalf of an individual eligible for the premium tax credit under [section 36B of title 26][/us/usc/t26/s36B] and any cost-sharing reduction under [section 18071 of this title][/us/usc/t42/s18071] to defray the cost to the individual of any additional benefits described in clause (i) which are not eligible for such credit or reduction under [section 36B(b)(3)(D) of title 26][/us/usc/t26/s36B/b/3/D] and [section 18071(c)(4) of this title][/us/usc/t42/s18071/c/4].”
 
-    Subsec. (d)(6)(A). [Pub. L. 111–148, § 10104(e)(2)][/us/pl/111/148/s10104/e/2], inserted “educated” before “health care”.
+    Subsec. (d)(6)(A). [Pub. L. 111–148][/us/pl/111/148], § 10104(e)(2), inserted “educated” before “health care”.
 
-    Subsec. (e)(2). [Pub. L. 111–148, § 10104(f)(1)][/us/pl/111/148/s10104/f/1], which directed substitution of “shall” for “may” in second sentence, was executed by making the substitution in third sentence before “take” to reflect the probable intent of Congress because the word “shall” already appeared in second sentence.
+    Subsec. (e)(2). [Pub. L. 111–148][/us/pl/111/148], § 10104(f)(1), which directed substitution of “shall” for “may” in second sentence, was executed by making the substitution in third sentence before “take” to reflect the probable intent of Congress because the word “shall” already appeared in second sentence.
 
-    Subsec. (e)(3). [Pub. L. 111–148, § 10104(f)(2)][/us/pl/111/148/s10104/f/2], added par. (3).
+    Subsec. (e)(3). [Pub. L. 111–148][/us/pl/111/148], § 10104(f)(2), added par. (3).
 
-    Subsec. (g)(1)(E). [Pub. L. 111–148, § 10104(g)][/us/pl/111/148/s10104/g], added subpar. (E).
+    Subsec. (g)(1)(E). [Pub. L. 111–148][/us/pl/111/148], § 10104(g), added subpar. (E).
 
-    Subsec. (i)(2)(B). [Pub. L. 111–148, § 10104(h)][/us/pl/111/148/s10104/h], substituted “resource partners of the Small Business Administration” for “small business development centers”.
+    Subsec. (i)(2)(B). [Pub. L. 111–148][/us/pl/111/148], § 10104(h), substituted “resource partners of the Small Business Administration” for “small business development centers”.
 
 ----------
 
@@ -531,7 +531,7 @@
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
 [/us/usc/t42/s300gg–93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9393
 [/us/usc/t42/s300gg–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9326
-[/us/pl/111/148/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1311
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F173
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
@@ -554,16 +554,16 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F162
-[/us/pl/111/148/s10203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10203%2Fa
-[/us/pl/111/148/s10104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fe%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
 [/us/usc/t26/s36B/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B%2Fb%2F3%2FD
 [/us/usc/t42/s18071/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071%2Fc%2F4
-[/us/pl/111/148/s10104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fe%2F2
-[/us/pl/111/148/s10104/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Ff%2F1
-[/us/pl/111/148/s10104/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Ff%2F2
-[/us/pl/111/148/s10104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fg
-[/us/pl/111/148/s10104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fh
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

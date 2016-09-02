@@ -47,7 +47,7 @@
 
     (b) The Secretary may waive the limitation contained in subsection (a)(1) and (4) of this section upon the State’s request for such a waiver if he finds that the request describes extraordinary circumstances to justify the waiver and that permitting the waiver will contribute to the State’s ability to carry out the purposes of this division.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2005, as added [Pub. L. 97–35, title XXIII, § 2352(a)][/us/pl/97/35/s2352/a], Aug. 13, 1981, [95 Stat. 869][/us/stat/95/869]; amended [Pub. L. 100–93, § 8(i)][/us/pl/100/93/s8/i], Aug. 18, 1987, [101 Stat. 695][/us/stat/101/695]; [Pub. L. 100–203, title IV, § 4118(e)(13)][/us/pl/100/203/s4118/e/13], Dec. 22, 1987, as added [Pub. L. 100–360, title IV, § 411(k)(10)(D)][/us/pl/100/360/s411/k/10/D], July 1, 1988, [102 Stat. 796][/us/stat/102/796]; [Pub. L. 100–485, title VI, § 608(d)(26)(K)(ii)][/us/pl/100/485/s608/d/26/K/ii], Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422]; [Pub. L. 105–12, § 9(c)][/us/pl/105/12/s9/c], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 111–148, title VI, § 6703(d)(1)(B)][/us/pl/111/148/s6703/d/1/B], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2005, as added [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2352(a), Aug. 13, 1981, [95 Stat. 869][/us/stat/95/869]; amended [Pub. L. 100–93][/us/pl/100/93], § 8(i), Aug. 18, 1987, [101 Stat. 695][/us/stat/101/695]; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4118(e)(13), Dec. 22, 1987, as added [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(k)(10)(D), July 1, 1988, [102 Stat. 796][/us/stat/102/796]; [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(26)(K)(ii), Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422]; [Pub. L. 105–12][/us/pl/105/12], § 9(c), Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1397d, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2005, as added Jan. 4, 1975, [Pub. L. 93–647, § 2][/us/pl/93/647/s2], [88 Stat. 2347][/us/stat/88/2347]; amended June 17, 1980, [Pub. L. 96–272, title II, § 206(d)][/us/pl/96/272/s206/d], [94 Stat. 525][/us/stat/94/525], related to effective date of implementing regulations, prior to the general revision of this subchapter by [section 2352(a) of Pub. L. 97–35][/us/pl/97/35/s2352/a].
+    A prior section 1397d, [act Aug. 14, 1935, ch. 531, title XX][/us/act/1935-08-14/ch531/tXX], § 2005, as added Jan. 4, 1975, [Pub. L. 93–647][/us/pl/93/647], § 2, [88 Stat. 2347][/us/stat/88/2347]; amended June 17, 1980, [Pub. L. 96–272, title II][/us/pl/96/272/tII], § 206(d), [94 Stat. 525][/us/stat/94/525], related to effective date of implementing regulations, prior to the general revision of this subchapter by [section 2352(a) of Pub. L. 97–35][/us/pl/97/35/s2352/a].
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 
     1997—Subsec. (a)(10). [Pub. L. 105–12][/us/pl/105/12] added par. (10).
 
-    1988—Subsec. (a)(9)(A), (B). [Pub. L. 100–360, § 411(k)(10)(D)][/us/pl/100/360/s411/k/10/D], as amended by [Pub. L. 100–485, § 608(d)(26)(K)(ii)][/us/pl/100/485/s608/d/26/K/ii], added [Pub. L. 100–203, § 4118(e)(13)][/us/pl/100/203/s4118/e/13], see 1987 Amendment note below.
+    1988—Subsec. (a)(9)(A), (B). [Pub. L. 100–360][/us/pl/100/360], § 411(k)(10)(D), as amended by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(26)(K)(ii), added [Pub. L. 100–203][/us/pl/100/203], § 4118(e)(13), see 1987 Amendment note below.
 
     1987—Subsec. (a)(9). [Pub. L. 100–93][/us/pl/100/93] added par. (9).
 
-    Subsec. (a)(9)(A), (B). [Pub. L. 100–203, § 4118(e)(13)][/us/pl/100/203/s4118/e/13], as added by [Pub. L. 100–360, § 411(k)(10)(D)][/us/pl/100/360/s411/k/10/D], as amended by [Pub. L. 100–485, § 608(d)(26)(K)(ii)][/us/pl/100/485/s608/d/26/K/ii], substituted “under this subchapter or subchapter V, XVIII, or XIX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title” for “pursuant to [section 1320a–7 of this title][/us/usc/t42/s1320a–7] or [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] from participation in the program under this subchapter”.
+    Subsec. (a)(9)(A), (B). [Pub. L. 100–203][/us/pl/100/203], § 4118(e)(13), as added by [Pub. L. 100–360][/us/pl/100/360], § 411(k)(10)(D), as amended by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(26)(K)(ii), substituted “under this subchapter or subchapter V, XVIII, or XIX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title” for “pursuant to [section 1320a–7 of this title][/us/usc/t42/s1320a–7] or [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] from participation in the program under this subchapter”.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -92,37 +92,37 @@
 
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2352%2Fa
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F869
-[/us/pl/100/93/s8/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs8%2Fi
+[/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/stat/101/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F695
-[/us/pl/100/203/s4118/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4118%2Fe%2F13
-[/us/pl/100/360/s411/k/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fk%2F10%2FD
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F796
-[/us/pl/100/485/s608/d/26/K/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F26%2FK%2Fii
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2422
-[/us/pl/105/12/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9%2Fc
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F27
-[/us/pl/111/148/s6703/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fd%2F1%2FB
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F803
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/647/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs2
+[/us/act/1935-08-14/ch531/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXX
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2347
-[/us/pl/96/272/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs206%2Fd
+[/us/pl/96/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtII
 [/us/stat/94/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F525
 [/us/pl/97/35/s2352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2352%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
-[/us/pl/100/360/s411/k/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fk%2F10%2FD
-[/us/pl/100/485/s608/d/26/K/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F26%2FK%2Fii
-[/us/pl/100/203/s4118/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4118%2Fe%2F13
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
-[/us/pl/100/203/s4118/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4118%2Fe%2F13
-[/us/pl/100/360/s411/k/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fk%2F10%2FD
-[/us/pl/100/485/s608/d/26/K/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F26%2FK%2Fii
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12

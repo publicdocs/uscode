@@ -17,7 +17,7 @@
 
     The President may prescribe such rules and regulations as may be necessary and proper to carry out the provisions of this chapter, and may exercise, either directly or through such Federal agency as the President may designate, any power or authority conferred to the President by this chapter.
 
-([Pub. L. 93–288, title III, § 321][/us/pl/93/288/s321], as added [Pub. L. 100–707, title I, § 105(m)(1)][/us/pl/100/707/s105/m/1], Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 321, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(m)(1), Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs321
-[/us/pl/100/707/s105/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fm%2F1
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4696
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

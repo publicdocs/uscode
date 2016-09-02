@@ -61,7 +61,7 @@
 
         In carrying out the Federal Power Act ([16 U.S.C. 791a][/us/usc/t16/s791a] et seq.) and the Public Utility Regulatory Policies Act of 1978 ([16 U.S.C. 2601][/us/usc/t16/s2601] et seq.), the Commission shall encourage, as appropriate, the deployment of advanced transmission technologies.
 
-([Pub. L. 109–58, title XII, § 1223][/us/pl/109/58/s1223], Aug. 8, 2005, [119 Stat. 953][/us/stat/119/953].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1223, Aug. 8, 2005, [119 Stat. 953][/us/stat/119/953].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2601
-[/us/pl/109/58/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1223
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F953
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

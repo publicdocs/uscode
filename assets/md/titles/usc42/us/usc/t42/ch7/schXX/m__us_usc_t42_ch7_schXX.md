@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title VI, § 6703(a)(1)(A)][/us/pl/111/148/s6703/a/1/A], Mar. 23, 2010, [124 Stat. 782][/us/stat/124/782], inserted “AND ELDER JUSTICE” after “SOCIAL SERVICES” in subchapter heading.
+    2010—[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(a)(1)(A), Mar. 23, 2010, [124 Stat. 782][/us/stat/124/782], inserted “AND ELDER JUSTICE” after “SOCIAL SERVICES” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s6703/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fa%2F1%2FA
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F782
 
 

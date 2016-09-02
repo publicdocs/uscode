@@ -15,7 +15,7 @@
 
 ## § 7506. Limitations on certain Federal assistance
 
-    (a) __, (b) Repealed.__  __[__  __Pub. L. 101–549, title I, § 110(4)__  __][/us/pl/101/549/s110/4]__  __,__  __Nov. 15, 1990__  __,__  __[__  __104 Stat. 2470__  __][/us/stat/104/2470]__ 
+    (a) __, (b) Repealed.__  __[__  __Pub. L. 101–549, title I__  __][/us/pl/101/549/tI]__  __, § 110(4),__  __Nov. 15, 1990__  __,__  __[__  __104 Stat. 2470__  __][/us/stat/104/2470]__ 
 
     (c) __Activities not conforming to approved or promulgated plans__ 
 
@@ -235,11 +235,11 @@
 
         Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 176, as added [Pub. L. 95–95, title I, § 129(b)][/us/pl/95/95/s129/b], Aug. 7, 1977, [91 Stat. 749][/us/stat/91/749]; amended [Pub. L. 95–190, § 14(a)(59)][/us/pl/95/190/s14/a/59], Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title I][/us/pl/101/549], §§ 101(f), 110(4), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409], 2470; [Pub. L. 104–59, title III, § 305(b)][/us/pl/104/59/s305/b], Nov. 28, 1995, [109 Stat. 580][/us/stat/109/580]; [Pub. L. 104–260, § 1][/us/pl/104/260/s1], Oct. 9, 1996, [110 Stat. 3175][/us/stat/110/3175]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–44; [Pub. L. 109–59, title VI, § 6011(a)][/us/pl/109/59/s6011/a]–(f), Aug. 10, 2005, [119 Stat. 1878–1881][/us/stat/119/1878-1881].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 176, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(b), Aug. 7, 1977, [91 Stat. 749][/us/stat/91/749]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(59), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], §§ 101(f), 110(4), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409], 2470; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 305(b), Nov. 28, 1995, [109 Stat. 580][/us/stat/109/580]; [Pub. L. 104–260][/us/pl/104/260], § 1, Oct. 9, 1996, [110 Stat. 3175][/us/stat/110/3175]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–44; [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6011(a)–(f), Aug. 10, 2005, [119 Stat. 1878–1881][/us/stat/119/1878-1881].)
 
  __References in Text__ 
 
-    Paragraph (4) of subsec. (c), referred to in subsec. (c)(3), was amended by [Pub. L. 109–59, title VI, § 6011(f)][/us/pl/109/59/s6011/f], Aug. 10, 2005, [119 Stat. 1881][/us/stat/119/1881], to redesignate subpar. (C) as (E), strike it out, and add new subpars. (C) and (E). See 2005 Amendment notes below.
+    Paragraph (4) of subsec. (c), referred to in subsec. (c)(3), was amended by [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6011(f), Aug. 10, 2005, [119 Stat. 1881][/us/stat/119/1881], to redesignate subpar. (C) as (E), strike it out, and add new subpars. (C) and (E). See 2005 Amendment notes below.
 
     [Section 7505a of this title][/us/usc/t42/s7505a], referred to in subsec. (c)(6), was in the original “section 175(A)” and was translated as reading “section 175A”, meaning section 175A of act July 14, 1955, which is classified to [section 7505a of this title][/us/usc/t42/s7505a], to reflect the probable intent of Congress.
 
@@ -247,19 +247,19 @@
 
  __Codification__ 
 
-    In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(F) substituted for “Federal Transit Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378] (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of [Pub. L. 102–240, title III, § 3003(b)][/us/pl/102/240/s3003/b], Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088], which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
+    In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(F) substituted for “Federal Transit Act” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378] (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of [Pub. L. 102–240, title III][/us/pl/102/240/tIII], § 3003(b), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088], which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
 
  __Amendments__ 
 
-    2005—Subsec. (c)(2)(E). [Pub. L. 109–59, § 6011(a)][/us/pl/109/59/s6011/a], added subpar. (E).
+    2005—Subsec. (c)(2)(E). [Pub. L. 109–59][/us/pl/109/59], § 6011(a), added subpar. (E).
 
-    Subsec. (c)(4). [Pub. L. 109–59, § 6011(f)(1)][/us/pl/109/59/s6011/f/1]–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted “The Administrator shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator shall promulgate”, designated second sentence as subpar. (B), inserted heading, substituted “The Administrator, with the concurrence of the Secretary of Transportation, shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate”, designated third sentence as subpar. (C), inserted heading, substituted “A civil action” for “A suit”, and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
+    Subsec. (c)(4). [Pub. L. 109–59][/us/pl/109/59], § 6011(f)(1)–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted “The Administrator shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator shall promulgate”, designated second sentence as subpar. (B), inserted heading, substituted “The Administrator, with the concurrence of the Secretary of Transportation, shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate”, designated third sentence as subpar. (C), inserted heading, substituted “A civil action” for “A suit”, and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
 
-    Subsec. (c)(4)(B)(ii). [Pub. L. 109–59, § 6011(b)][/us/pl/109/59/s6011/b], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “address the appropriate frequency for making conformity determinations, but in no case shall such determinations for transportation plans and programs be less frequent than every three years; and”.
+    Subsec. (c)(4)(B)(ii). [Pub. L. 109–59][/us/pl/109/59], § 6011(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “address the appropriate frequency for making conformity determinations, but in no case shall such determinations for transportation plans and programs be less frequent than every three years; and”.
 
-    Subsec. (c)(4)(E). [Pub. L. 109–59, § 6011(f)(4)][/us/pl/109/59/s6011/f/4], added subpar. (E) and struck out former subpar. (E) which read as follows: “Such procedures shall also include a requirement that each State shall submit to the Administrator and the Secretary of Transportation within 24 months of November 15, 1990, a revision to its implementation plan that includes criteria and procedures for assessing the conformity of any plan, program, or project subject to the conformity requirements of this subsection.”
+    Subsec. (c)(4)(E). [Pub. L. 109–59][/us/pl/109/59], § 6011(f)(4), added subpar. (E) and struck out former subpar. (E) which read as follows: “Such procedures shall also include a requirement that each State shall submit to the Administrator and the Secretary of Transportation within 24 months of November 15, 1990, a revision to its implementation plan that includes criteria and procedures for assessing the conformity of any plan, program, or project subject to the conformity requirements of this subsection.”
 
-    Subsec. (c)(7) to (10). [Pub. L. 109–59, § 6011(c)][/us/pl/109/59/s6011/c]–(e), added pars. (7) to (10).
+    Subsec. (c)(7) to (10). [Pub. L. 109–59][/us/pl/109/59], § 6011(c)–(e), added pars. (7) to (10).
 
     2000—Subsec. (c)(6). [Pub. L. 106–377][/us/pl/106/377] added par. (6).
 
@@ -267,15 +267,15 @@
 
     1995—Subsec. (c)(5). [Pub. L. 104–59][/us/pl/104/59] added par. (5).
 
-    1990—Subsecs. (a), (b). [Pub. L. 101–549, § 110(4)][/us/pl/101/549/s110/4], struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
+    1990—Subsecs. (a), (b). [Pub. L. 101–549][/us/pl/101/549], § 110(4), struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
 
-    Subsec. (c). [Pub. L. 101–549, § 101(f)][/us/pl/101/549/s101/f], designated existing provisions as par. (1), struck out “(1)”, “(2)”, “(3)”, and “(4)” before “engage in”, “support in”, “license or”, and “approve, any”, respectively, substituted “conform to an implementation plan after it” for “conform to a plan after it”, “conform to an implementation plan approved” for “conform to a plan approved”, and “conformity to such an implementation plan shall” for “conformity to such a plan shall”, inserted “Conformity to an implementation plan means—” followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
+    Subsec. (c). [Pub. L. 101–549][/us/pl/101/549], § 101(f), designated existing provisions as par. (1), struck out “(1)”, “(2)”, “(3)”, and “(4)” before “engage in”, “support in”, “license or”, and “approve, any”, respectively, substituted “conform to an implementation plan after it” for “conform to a plan after it”, “conform to an implementation plan approved” for “conform to a plan approved”, and “conformity to such an implementation plan shall” for “conformity to such a plan shall”, inserted “Conformity to an implementation plan means—” followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
 
     1977—Subsec. (a)(1). [Pub. L. 95–190][/us/pl/95/190] inserted “national” before “primary”.
 
  __Regulations__ 
 
-[Pub. L. 109–59, title VI, § 6011(g)][/us/pl/109/59/s6011/g], Aug. 10, 2005, [119 Stat. 1882][/us/stat/119/1882], provided that: 
+[Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6011(g), Aug. 10, 2005, [119 Stat. 1882][/us/stat/119/1882], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Administrator of the Environmental Protection Agency shall promulgate revised regulations to implement the changes made by this section \[amending this section\].”
 
@@ -286,7 +286,7 @@
 ----------
 ----------
 
-[/us/pl/101/549/s110/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs110%2F4
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2470
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/usc/t23/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134
@@ -302,21 +302,21 @@
 [/us/usc/t23/s134/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134%2Fi
 [/us/usc/t49/s5303/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303%2Fi
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F749
-[/us/pl/95/190/s14/a/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F59
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1403
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
-[/us/pl/104/59/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs305%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F580
-[/us/pl/104/260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F260%2Fs1
+[/us/pl/104/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F260
 [/us/stat/110/3175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3175
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/109/59/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Fa
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1878-1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1878-1881
-[/us/pl/109/59/s6011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Ff
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1881
 [/us/usc/t42/s7505a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7505a
 [/us/usc/t42/s7505a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7505a
@@ -329,22 +329,22 @@
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 [/us/stat/84/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1770
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/102/240/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3003%2Fb
+[/us/pl/102/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtIII
 [/us/stat/105/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2088
-[/us/pl/109/59/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Fa
-[/us/pl/109/59/s6011/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Ff%2F1
-[/us/pl/109/59/s6011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Fb
-[/us/pl/109/59/s6011/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Ff%2F4
-[/us/pl/109/59/s6011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Fc
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/pl/104/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F260
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
-[/us/pl/101/549/s110/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs110%2F4
-[/us/pl/101/549/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Ff
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
-[/us/pl/109/59/s6011/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6011%2Fg
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1882
 
 

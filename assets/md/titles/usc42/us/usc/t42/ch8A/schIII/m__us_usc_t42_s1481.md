@@ -17,7 +17,7 @@
 
     The Secretary may issue notes and other obligations for purchase by the Secretary of the Treasury for the purpose of making direct loans under this subchapter. The notes and obligations issued by the Secretary shall be secured by the obligations of borrowers and the Secretary’s commitments to make contributions under this subchapter and shall be repaid from the payment of principal and interest on the obligations of the borrowers and from funds appropriated hereunder. The notes and other obligations issued by the Secretary shall be in such forms and denominations, shall have such maturities, and shall be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Each such note or other obligation shall bear interest at the average rate, as determined by the Secretary of the Treasury, payable by the Treasury upon its marketable public obligations outstanding at the beginning of the fiscal year in which such note or other obligation is issued, which are neither due nor callable for redemption for 15 years from their date of issue. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations of the Secretary issued hereunder and for such purpose is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include any purchases of such obligations. The Secretary of the Treasury may at any time sell any of the notes or obligations acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or obligations shall be treated as public debt transactions of the United States.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 511, [63 Stat. 438][/us/stat/63/438]; [July 14, 1952, ch. 723, § 11(a)][/us/act/1952-07-14/ch723/s11/a], [66 Stat. 604][/us/stat/66/604]; [June 29, 1954, ch. 410, § 5(a)][/us/act/1954-06-29/ch410/s5/a], [68 Stat. 320][/us/stat/68/320]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 812(a), [68 Stat. 647][/us/stat/68/647]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title V, § 501(1), [69 Stat. 654][/us/stat/69/654]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title VI, § 606(a), [70 Stat. 1114][/us/stat/70/1114]; [Pub. L. 87–70, title VIII][/us/pl/87/70], §§ 801(c), 802, June 30, 1961, [75 Stat. 186][/us/stat/75/186]; [Pub. L. 87–723, § 4(c)(1)][/us/pl/87/723/s4/c/1], Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 88–560, title V, § 501(a)][/us/pl/88/560/s501/a], Sept. 2, 1964, [78 Stat. 796][/us/stat/78/796]; [Pub. L. 89–117, title X, § 1003(b)][/us/pl/89/117/s1003/b], Aug. 10, 1965, [79 Stat. 500][/us/stat/79/500]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 508\], Nov. 30, 1983, [97 Stat. 1243][/us/stat/97/1243]; [Pub. L. 98–479, title II, § 203(d)(4)][/us/pl/98/479/s203/d/4], Oct. 17, 1984, [98 Stat. 2229][/us/stat/98/2229].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 511, [63 Stat. 438][/us/stat/63/438]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 11(a), [66 Stat. 604][/us/stat/66/604]; [June 29, 1954, ch. 410][/us/act/1954-06-29/ch410], § 5(a), [68 Stat. 320][/us/stat/68/320]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 812(a), [68 Stat. 647][/us/stat/68/647]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title V, § 501(1), [69 Stat. 654][/us/stat/69/654]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title VI, § 606(a), [70 Stat. 1114][/us/stat/70/1114]; [Pub. L. 87–70, title VIII][/us/pl/87/70/tVIII], §§ 801(c), 802, June 30, 1961, [75 Stat. 186][/us/stat/75/186]; [Pub. L. 87–723][/us/pl/87/723], § 4(c)(1), Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 88–560, title V][/us/pl/88/560/tV], § 501(a), Sept. 2, 1964, [78 Stat. 796][/us/stat/78/796]; [Pub. L. 89–117, title X][/us/pl/89/117/tX], § 1003(b), Aug. 10, 1965, [79 Stat. 500][/us/stat/79/500]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 508\], Nov. 30, 1983, [97 Stat. 1243][/us/stat/97/1243]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(d)(4), Oct. 17, 1984, [98 Stat. 2229][/us/stat/98/2229].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 1956 Amendment__ 
 
-[Act Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title VI, § 606(d), [70 Stat. 1115][/us/stat/70/1115], provided that: 
+[Act Aug. 7, 1956, ch. 1029, title VI][/us/act/1956-08-07/ch1029/tVI], § 606(d), [70 Stat. 1115][/us/stat/70/1115], provided that: 
 
 > “This section \[amending this section and sections 1482 and 1483 of this title\] shall take effect as of July 1, 1956.”
 
@@ -58,9 +58,9 @@
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F438
-[/us/act/1952-07-14/ch723/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs11%2Fa
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F604
-[/us/act/1954-06-29/ch410/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch410%2Fs5%2Fa
+[/us/act/1954-06-29/ch410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch410
 [/us/stat/68/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F320
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F647
@@ -68,17 +68,17 @@
 [/us/stat/69/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F654
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1114
-[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVIII
 [/us/stat/75/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F186
-[/us/pl/87/723/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723%2Fs4%2Fc%2F1
+[/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
 [/us/stat/76/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F672
-[/us/pl/88/560/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs501%2Fa
+[/us/pl/88/560/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtV
 [/us/stat/78/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F796
-[/us/pl/89/117/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1003%2Fb
+[/us/pl/89/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtX
 [/us/stat/79/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F500
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1243
-[/us/pl/98/479/s203/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203%2Fd%2F4
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2229
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
@@ -88,7 +88,7 @@
 [/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
 [/us/usc/t42/s1471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471%2Fa
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
-[/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
+[/us/act/1956-08-07/ch1029/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029%2FtVI
 [/us/stat/70/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1115
 
 

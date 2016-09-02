@@ -21,7 +21,7 @@
 
     (2) the term “sciences related to health” includes medicine, osteopathy, dentistry, and public health, and fundamental and applied sciences when related thereto.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 470, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 860][/us/stat/99/860].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 470, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 860][/us/stat/99/860].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F860
 
 

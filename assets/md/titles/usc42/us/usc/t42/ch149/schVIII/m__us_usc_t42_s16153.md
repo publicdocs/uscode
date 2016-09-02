@@ -27,7 +27,7 @@
 
     (5) the policy assumptions that are implicit in the plan, including any assumptions that would affect the sources of hydrogen or the marketability of hydrogen-related products.
 
-([Pub. L. 109–58, title VIII, § 804][/us/pl/109/58/s804], Aug. 8, 2005, [119 Stat. 845][/us/stat/119/845].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 804, Aug. 8, 2005, [119 Stat. 845][/us/stat/119/845].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t42/s16154/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16154%2Fe
 [/us/usc/t42/s16154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16154
-[/us/pl/109/58/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs804
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F845
 
 

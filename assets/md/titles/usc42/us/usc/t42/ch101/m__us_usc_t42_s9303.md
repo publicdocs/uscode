@@ -51,7 +51,7 @@
 
         (5) limitations on the availability of strategic elements, such as helium, lithium, and special metals.
 
-([Pub. L. 96–386, § 4][/us/pl/96/386/s4], Oct. 7, 1980, [94 Stat. 1540][/us/stat/94/1540].)
+([Pub. L. 96–386][/us/pl/96/386], § 4, Oct. 7, 1980, [94 Stat. 1540][/us/stat/94/1540].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/96/386/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs4
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1540
 
 

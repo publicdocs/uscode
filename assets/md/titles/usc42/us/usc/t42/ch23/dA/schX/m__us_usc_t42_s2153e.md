@@ -17,7 +17,7 @@
 
     The President shall endeavor to provide in any agreement entered into pursuant to [section 2153 of this title][/us/usc/t42/s2153] for cooperation between the parties in protecting the international environment from radioactive, chemical or thermal contamination arising from peaceful nuclear activities.
 
-([Pub. L. 95–242, title IV, § 407][/us/pl/95/242/s407], Mar. 10, 1978, [92 Stat. 148][/us/stat/92/148].)
+([Pub. L. 95–242, title IV][/us/pl/95/242/tIV], § 407, Mar. 10, 1978, [92 Stat. 148][/us/stat/92/148].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
-[/us/pl/95/242/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs407
+[/us/pl/95/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIV
 [/us/stat/92/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F148
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201

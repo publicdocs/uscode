@@ -199,13 +199,13 @@
 
             There are authorized to be appropriated to the Administrator to carry out this subsection for each of fiscal years 2003 through 2010, $15,000,000 for the purpose of providing assistance to the State of New York to carry out paragraph (1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1443, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1684][/us/stat/88/1684]; amended [Pub. L. 95–190][/us/pl/95/190], §§ 2(b), (c), 5(a), Nov. 16, 1977, [91 Stat. 1393][/us/stat/91/1393], 1395; [Pub. L. 96–63, § 2][/us/pl/96/63/s2], Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 96–502][/us/pl/96/502], §§ 2(c), 4(d), Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title III][/us/pl/99/339], §§ 301(b), (c), 302(d), June 19, 1986, [100 Stat. 664][/us/stat/100/664], 666; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 120(c), 124, 128, Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651], 1653, 1659; [Pub. L. 108–328, § 1][/us/pl/108/328/s1], Oct. 16, 2004, [118 Stat. 1273][/us/stat/118/1273].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1443, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1684][/us/stat/88/1684]; amended [Pub. L. 95–190][/us/pl/95/190], §§ 2(b), (c), 5(a), Nov. 16, 1977, [91 Stat. 1393][/us/stat/91/1393], 1395; [Pub. L. 96–63][/us/pl/96/63], § 2, Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 96–502][/us/pl/96/502], §§ 2(c), 4(d), Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title III][/us/pl/99/339/tIII], §§ 301(b), (c), 302(d), June 19, 1986, [100 Stat. 664][/us/stat/100/664], 666; [Pub. L. 104–182, title I][/us/pl/104/182/tI], §§ 120(c), 124, 128, Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651], 1653, 1659; [Pub. L. 108–328][/us/pl/108/328], § 1, Oct. 16, 2004, [118 Stat. 1273][/us/stat/118/1273].)
 
  __Amendments__ 
 
     2004—Subsec. (d)(4). [Pub. L. 108–328][/us/pl/108/328] substituted “2003 through 2010” for “1997 through 2003”.
 
-    1996—Subsec. (a)(7). [Pub. L. 104–182, § 124(1)][/us/pl/104/182/s124/1], inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
+    1996—Subsec. (a)(7). [Pub. L. 104–182][/us/pl/104/182], § 124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
 
 <table>
 
@@ -283,33 +283,33 @@ $37,200,000    </td>
 
 </table>
 
-    Subsec. (a)(8), (9). [Pub. L. 104–182, § 124(2)][/us/pl/104/182/s124/2], added pars. (8) and (9).
+    Subsec. (a)(8), (9). [Pub. L. 104–182][/us/pl/104/182], § 124(2), added pars. (8) and (9).
 
-    Subsec. (b)(5). [Pub. L. 104–182, § 120(c)][/us/pl/104/182/s120/c], inserted table item relating to fiscal years 1992 through 2003.
+    Subsec. (b)(5). [Pub. L. 104–182][/us/pl/104/182], § 120(c), inserted table item relating to fiscal years 1992 through 2003.
 
-    Subsec. (d). [Pub. L. 104–182, § 128][/us/pl/104/182/s128], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–182][/us/pl/104/182], § 128, added subsec. (d).
 
-    1986—Subsec. (a)(2). [Pub. L. 99–339, § 302(d)(1)][/us/pl/99/339/s302/d/1], inserted provision that prohibitions contained in preceding two sentences not apply to such grants when made to Indian Tribes.
+    1986—Subsec. (a)(2). [Pub. L. 99–339][/us/pl/99/339], § 302(d)(1), inserted provision that prohibitions contained in preceding two sentences not apply to such grants when made to Indian Tribes.
 
-    Subsec. (a)(7). [Pub. L. 99–339, § 301(b)][/us/pl/99/339/s301/b], authorized appropriations for grants under par. (1) of not more than $37,200,000 for fiscal years 1987 and 1988 and of not more than $40,150,000 for fiscal years 1989 to 1991.
+    Subsec. (a)(7). [Pub. L. 99–339][/us/pl/99/339], § 301(b), authorized appropriations for grants under par. (1) of not more than $37,200,000 for fiscal years 1987 and 1988 and of not more than $40,150,000 for fiscal years 1989 to 1991.
 
-    Subsec. (b)(2). [Pub. L. 99–339, § 302(d)(2)][/us/pl/99/339/s302/d/2], inserted provision that prohibition contained in preceding sentence not apply to such grants when made to Indian Tribes.
+    Subsec. (b)(2). [Pub. L. 99–339][/us/pl/99/339], § 302(d)(2), inserted provision that prohibition contained in preceding sentence not apply to such grants when made to Indian Tribes.
 
-    Subsec. (b)(5). [Pub. L. 99–339, § 301(c)][/us/pl/99/339/s301/c], authorized appropriations for grants under par. (1) of not more than $19,700,000 for fiscal years 1987 and 1988 and of not more than $20,850,000 for fiscal years 1989 to 1991.
+    Subsec. (b)(5). [Pub. L. 99–339][/us/pl/99/339], § 301(c), authorized appropriations for grants under par. (1) of not more than $19,700,000 for fiscal years 1987 and 1988 and of not more than $20,850,000 for fiscal years 1989 to 1991.
 
-    1980—Subsec. (b)(2). [Pub. L. 96–502, § 4(d)][/us/pl/96/502/s4/d], substituted provisions that no grant may be made to any State under par. (1) unless the State has assumed primary enforcement responsibility within two years after the date the Administrator promulgates regulations for State underground injection control programs under [section 300h of this title][/us/usc/t42/s300h] for provisions that the Administrator may not approve an application of a State for its first grant under par. (1) unless he determines that the State has established or will establish within two years from the date of such grant an underground water source protection, and will, within such two years, assume primary enforcement responsibility for underground water sources within the State and that no grant may be made to a State under par. (1) for any period beginning more than two years after the date of the State’s first grant unless the State has assumed and maintains primary enforcement responsibility for underground water sources within the State.
+    1980—Subsec. (b)(2). [Pub. L. 96–502][/us/pl/96/502], § 4(d), substituted provisions that no grant may be made to any State under par. (1) unless the State has assumed primary enforcement responsibility within two years after the date the Administrator promulgates regulations for State underground injection control programs under [section 300h of this title][/us/usc/t42/s300h] for provisions that the Administrator may not approve an application of a State for its first grant under par. (1) unless he determines that the State has established or will establish within two years from the date of such grant an underground water source protection, and will, within such two years, assume primary enforcement responsibility for underground water sources within the State and that no grant may be made to a State under par. (1) for any period beginning more than two years after the date of the State’s first grant unless the State has assumed and maintains primary enforcement responsibility for underground water sources within the State.
 
-    Subsec. (c)(2). [Pub. L. 96–502, § 2(c)][/us/pl/96/502/s2/c], inserted provision that such term includes, where applicable, a program which meets requirements of [section 300h–4 of this title][/us/usc/t42/s300h–4].
+    Subsec. (c)(2). [Pub. L. 96–502][/us/pl/96/502], § 2(c), inserted provision that such term includes, where applicable, a program which meets requirements of [section 300h–4 of this title][/us/usc/t42/s300h–4].
 
-    1979—Subsec. (a)(7). [Pub. L. 96–63, § 2(a)][/us/pl/96/63/s2/a], authorized appropriation of $29,450,000, $32,000,000, and $34,000,000 for fiscal years ending Sept. 30, 1980, through 1982, respectively.
+    1979—Subsec. (a)(7). [Pub. L. 96–63][/us/pl/96/63], § 2(a), authorized appropriation of $29,450,000, $32,000,000, and $34,000,000 for fiscal years ending Sept. 30, 1980, through 1982, respectively.
 
-    Subsec. (b)(5). [Pub. L. 96–63, § 2(b)][/us/pl/96/63/s2/b], authorized appropriation of $7,795,000, $18,000,000, and $21,000,000 for fiscal years ending Sept. 30, 1980, through 1982, respectively.
+    Subsec. (b)(5). [Pub. L. 96–63][/us/pl/96/63], § 2(b), authorized appropriation of $7,795,000, $18,000,000, and $21,000,000 for fiscal years ending Sept. 30, 1980, through 1982, respectively.
 
-    1977—Subsec. (a)(5), (6). [Pub. L. 95–190, § 5(a)][/us/pl/95/190/s5/a], added pars. (5) and (6). Former par. (5) redesignated (7).
+    1977—Subsec. (a)(5), (6). [Pub. L. 95–190][/us/pl/95/190], § 5(a), added pars. (5) and (6). Former par. (5) redesignated (7).
 
     Subsec. (a)(7). [Pub. L. 95–190][/us/pl/95/190], §§ 2(b), 5(a), redesignated former par. (5) as (7) and authorized appropriations for fiscal years 1978 and 1979.
 
-    Subsec. (b)(5). [Pub. L. 95–190, § 2(c)][/us/pl/95/190/s2/c], inserted provisions authorizing appropriations for fiscal years 1978 and 1979.
+    Subsec. (b)(5). [Pub. L. 95–190][/us/pl/95/190], § 2(c), inserted provisions authorizing appropriations for fiscal years 1978 and 1979.
 
 ----------
 
@@ -327,37 +327,37 @@ $37,200,000    </td>
 [/us/usc/t42/s300h–1/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%931%2Fb%2F1%2FA%2Fii
 [/us/usc/t42/s300h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%934
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1684
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1393
-[/us/pl/96/63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63%2Fs2
+[/us/pl/96/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63
 [/us/stat/93/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F411
 [/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/stat/94/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2738
-[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtIII
 [/us/stat/100/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F664
-[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1651
-[/us/pl/108/328/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F328%2Fs1
+[/us/pl/108/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F328
 [/us/stat/118/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1273
 [/us/pl/108/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F328
-[/us/pl/104/182/s124/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs124%2F1
-[/us/pl/104/182/s124/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs124%2F2
-[/us/pl/104/182/s120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs120%2Fc
-[/us/pl/104/182/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs128
-[/us/pl/99/339/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs302%2Fd%2F1
-[/us/pl/99/339/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs301%2Fb
-[/us/pl/99/339/s302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs302%2Fd%2F2
-[/us/pl/99/339/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs301%2Fc
-[/us/pl/96/502/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs4%2Fd
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/usc/t42/s300h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h
-[/us/pl/96/502/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs2%2Fc
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/usc/t42/s300h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%934
-[/us/pl/96/63/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63%2Fs2%2Fa
-[/us/pl/96/63/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63%2Fs2%2Fb
-[/us/pl/95/190/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs5%2Fa
+[/us/pl/96/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63
+[/us/pl/96/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
-[/us/pl/95/190/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs2%2Fc
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

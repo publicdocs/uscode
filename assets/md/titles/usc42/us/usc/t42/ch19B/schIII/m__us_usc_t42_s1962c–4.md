@@ -21,7 +21,7 @@
 
     (2) The Council shall pay to the State, from the allotment available therefor, the amount so estimated by it for any period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which it finds that its estimate of the amount to be paid such State for any prior period under this subchapter was greater or less than the amount which should have been paid to such State for such prior period under this subchapter. Such payments shall be made through the disbursing facilities of the Treasury Department, at such times and in such installments as the Council may determine.
 
-([Pub. L. 89–80, title III, § 305][/us/pl/89/80/s305], July 22, 1965, [79 Stat. 253][/us/stat/79/253].)
+([Pub. L. 89–80, title III][/us/pl/89/80/tIII], § 305, July 22, 1965, [79 Stat. 253][/us/stat/79/253].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs305
+[/us/pl/89/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIII
 [/us/stat/79/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F253
 
 

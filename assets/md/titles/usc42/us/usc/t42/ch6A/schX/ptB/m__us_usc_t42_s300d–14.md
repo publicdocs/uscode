@@ -43,7 +43,7 @@
 
         (2) the State submits to the Secretary a list of rural areas identified pursuant to paragraph (1) or, if there are no such areas, a statement that there are no such areas.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1214, as added [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2922][/us/stat/104/2922]; amended [Pub. L. 110–23, § 8][/us/pl/110/23/s8], May 3, 2007, [121 Stat. 96][/us/stat/121/96].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1214, as added [Pub. L. 101–590][/us/pl/101/590], § 3, Nov. 16, 1990, [104 Stat. 2922][/us/stat/104/2922]; amended [Pub. L. 110–23][/us/pl/110/23], § 8, May 3, 2007, [121 Stat. 96][/us/stat/121/96].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 [/us/usc/t42/s300d–13/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9313%2Fa%2F7
 [/us/usc/t42/s300d–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9311%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs3
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2922
-[/us/pl/110/23/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23%2Fs8
+[/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F96
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 

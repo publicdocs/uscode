@@ -17,7 +17,7 @@
 
     No Federal agency shall enter into a contract for procurement of an alternative or synthetic fuel, including a fuel produced from nonconventional petroleum sources, for any mobility-related use, other than for research or testing, unless the contract specifies that the lifecycle greenhouse gas emissions associated with the production and combustion of the fuel supplied under the contract must, on an ongoing basis, be less than or equal to such emissions from the equivalent conventional fuel produced from conventional petroleum sources.
 
-([Pub. L. 110–140, title V, § 526][/us/pl/110/140/s526], Dec. 19, 2007, [121 Stat. 1663][/us/stat/121/1663].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 526, Dec. 19, 2007, [121 Stat. 1663][/us/stat/121/1663].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs526
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1663
 
 

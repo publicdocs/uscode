@@ -185,7 +185,7 @@
 
         (6) The term “coal seam” means any stratum of coal 20 inches or more in thickness, unless a stratum of less thickness is being commercially worked, or can in the judgment of the Secretary of the Interior forseeably  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “foreseeably”. </sup></sup>  be commercially worked and will require protection if wells are being drilled through it.
 
-([Pub. L. 102–486, title XIII, § 1339][/us/pl/102/486/s1339], Oct. 24, 1992, [106 Stat. 2986][/us/stat/106/2986].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1339, Oct. 24, 1992, [106 Stat. 2986][/us/stat/106/2986].)
 
  __Codification__ 
 
@@ -193,7 +193,7 @@
 
  __Federal Coalbed Methane Regulation__ 
 
-[Pub. L. 109–58, title III, § 387][/us/pl/109/58/s387], Aug. 8, 2005, [119 Stat. 744][/us/stat/119/744], provided that: 
+[Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 387, Aug. 8, 2005, [119 Stat. 744][/us/stat/119/744], provided that: 
 
 > “Any State currently on the list of Affected States established under section 1339(b) of the Energy Policy Act of 1992 ([42 U.S.C. 13368(b)][/us/usc/t42/s13368/b]) shall be removed from the list if, not later than 3 years after the date of enactment of this Act \[Aug. 8, 2005\], the State takes, or prior to the date of enactment has taken, any of the actions required for removal from the list under such section 1339(b).”
 
@@ -204,10 +204,10 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1339
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2986
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/109/58/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs387
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F744
 [/us/usc/t42/s13368/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13368%2Fb
 

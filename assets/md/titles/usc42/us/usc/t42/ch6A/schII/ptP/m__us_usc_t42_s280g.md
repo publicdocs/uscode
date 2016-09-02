@@ -179,7 +179,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399L, as added [Pub. L. 106–310, div. A, title V, § 501][/us/pl/106/310/s501], Oct. 17, 2000, [114 Stat. 1113][/us/stat/114/1113]; amended [Pub. L. 108–377, § 3(a)][/us/pl/108/377/s3/a], Oct. 30, 2004, [118 Stat. 2203][/us/stat/118/2203]; [Pub. L. 113–48, § 2][/us/pl/113/48/s2], Nov. 13, 2013, [127 Stat. 575][/us/stat/127/575].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399L, as added [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 501, Oct. 17, 2000, [114 Stat. 1113][/us/stat/114/1113]; amended [Pub. L. 108–377][/us/pl/108/377], § 3(a), Oct. 30, 2004, [118 Stat. 2203][/us/stat/118/2203]; [Pub. L. 113–48][/us/pl/113/48], § 2, Nov. 13, 2013, [127 Stat. 575][/us/stat/127/575]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(kkk)(2), Dec. 10, 2015, [129 Stat. 2187][/us/stat/129/2187].)
 
  __References in Text__ 
 
@@ -193,21 +193,27 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d)(1)(F), (G). [Pub. L. 113–48, § 2(1)][/us/pl/113/48/s2/1], added subpars. (F) and (G).
+    2015—Subsec. (d)(3)(A). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
 
-    Subsec. (d)(3)(E). [Pub. L. 113–48, § 2(2)][/us/pl/113/48/s2/2], added subpar. (E).
+    2013—Subsec. (d)(1)(F), (G). [Pub. L. 113–48][/us/pl/113/48], § 2(1), added subpars. (F) and (G).
+
+    Subsec. (d)(3)(E). [Pub. L. 113–48][/us/pl/113/48], § 2(2), added subpar. (E).
 
     2004—Subsecs. (d), (e). [Pub. L. 108–377][/us/pl/108/377] added subsec. (d) and redesignated former subsec. (d) as (e).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–377, § 3(b)][/us/pl/108/377/s3/b], Oct. 30, 2004, [118 Stat. 2204][/us/stat/118/2204], provided that: 
+[Pub. L. 108–377][/us/pl/108/377], § 3(b), Oct. 30, 2004, [118 Stat. 2204][/us/stat/118/2204], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act \[Oct. 30, 2004\].”
 
  __Findings of 2004 Amendment__ 
 
-[Pub. L. 108–377, § 2][/us/pl/108/377/s2], Oct. 30, 2004, [118 Stat. 2202][/us/stat/118/2202], provided that: 
+[Pub. L. 108–377][/us/pl/108/377], § 2, Oct. 30, 2004, [118 Stat. 2202][/us/stat/118/2202], provided that: 
 
 > “The Congress finds the following:
 
@@ -259,12 +265,14 @@
 [/us/usc/t21/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs501
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1113
-[/us/pl/108/377/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F377%2Fs3%2Fa
+[/us/pl/108/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F377
 [/us/stat/118/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2203
-[/us/pl/113/48/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48%2Fs2
+[/us/pl/113/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48
 [/us/stat/127/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F575
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2187
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -272,12 +280,17 @@
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
 [/us/usc/t42/s280e–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e%E2%80%934
-[/us/pl/113/48/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48%2Fs2%2F1
-[/us/pl/113/48/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48%2Fs2%2F2
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/113/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48
+[/us/pl/113/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48
 [/us/pl/108/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F377
-[/us/pl/108/377/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F377%2Fs3%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/108/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F377
 [/us/stat/118/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2204
-[/us/pl/108/377/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F377%2Fs2
+[/us/pl/108/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F377
 [/us/stat/118/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2202
 
 

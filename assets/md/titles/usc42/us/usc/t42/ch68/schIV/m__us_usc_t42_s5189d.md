@@ -17,7 +17,7 @@
 
     The President may provide case management services, including financial assistance, to State or local government agencies or qualified private organizations to provide such services, to victims of major disasters to identify and address unmet needs.
 
-([Pub. L. 93–288, title IV, § 426][/us/pl/93/288/s426], as added [Pub. L. 109–295, title VI, § 689f][/us/pl/109/295/s689f], Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 426, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689f, Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs426
-[/us/pl/109/295/s689f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689f
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1453
 
 

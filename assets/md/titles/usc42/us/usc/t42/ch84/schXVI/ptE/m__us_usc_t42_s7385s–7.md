@@ -27,7 +27,7 @@
 
         The Secretary may secure the services of physicians utilized under subsection (a) of this section through the appointment of physicians or by contract.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3678\], as added [Pub. L. 108–375, div. C, title XXXI, § 3161][/us/pl/108/375/s3161], Oct. 28, 2004, [118 Stat. 2182][/us/stat/118/2182].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3678\], as added [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3161, Oct. 28, 2004, [118 Stat. 2182][/us/stat/118/2182].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/375/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3161
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2182
 
 

@@ -17,7 +17,7 @@
 
     The food and milk service programs in schools and nonprofit institutions receiving assistance under this chapter shall be conducted on a nonprofit basis.
 
-([Pub. L. 89–642, § 9][/us/pl/89/642/s9], Oct. 11, 1966, [80 Stat. 888][/us/stat/80/888].)
+([Pub. L. 89–642][/us/pl/89/642], § 9, Oct. 11, 1966, [80 Stat. 888][/us/stat/80/888].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/642/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs9
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F888
 
 

@@ -1017,7 +1017,7 @@ Part IV—National Service Programs Clearinghouses; Volunteer Generation Fund  <
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12653" data-uslm-ref="/us/usc/t42/s12653">12653</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12653o" data-uslm-ref="/us/usc/t42/s12653o">12653o.</a>  </td>
 
     <td> National service programs clearinghouses.  </td>
 
@@ -1153,7 +1153,7 @@ Division I—American Conservation and Youth Service Corps  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12655" data-uslm-ref="/us/usc/t42/s12655">12655</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12655l" data-uslm-ref="/us/usc/t42/s12655l">12655l.</a>  </td>
 
     <td> Living allowance.  </td>
 

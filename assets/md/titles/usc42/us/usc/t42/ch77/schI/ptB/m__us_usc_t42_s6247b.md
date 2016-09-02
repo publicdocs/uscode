@@ -23,7 +23,7 @@
 
         The term “marginal well” has the same meaning as the definition of “stripper well property” in [section 613A(c)(6)(E) of title 26][/us/usc/t26/s613A/c/6/E].
 
-([Pub. L. 94–163, title I, § 169][/us/pl/94/163/s169], as added [Pub. L. 106–469, title III, § 301(a)][/us/pl/106/469/s301/a], Nov. 9, 2000, [114 Stat. 2037][/us/stat/114/2037].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 169, as added [Pub. L. 106–469, title III][/us/pl/106/469/tIII], § 301(a), Nov. 9, 2000, [114 Stat. 2037][/us/stat/114/2037].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t42/s6246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6246
 [/us/usc/t26/s613A/c/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs613A%2Fc%2F6%2FE
-[/us/pl/94/163/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs169
-[/us/pl/106/469/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs301%2Fa
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/106/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtIII
 [/us/stat/114/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2037
 
 

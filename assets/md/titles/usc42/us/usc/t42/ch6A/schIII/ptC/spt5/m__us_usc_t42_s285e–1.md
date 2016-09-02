@@ -31,7 +31,7 @@
 
         The Director of the Institute shall make grants to public and private nonprofit institutions to conduct research relating to Alzheimer’s Disease.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 444, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 854][/us/stat/99/854].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 444, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 854][/us/stat/99/854].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F854
 
 

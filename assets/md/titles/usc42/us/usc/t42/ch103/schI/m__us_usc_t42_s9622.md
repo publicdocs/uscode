@@ -349,7 +349,7 @@
 
         In the case of consent decrees and other settlements under this section (including covenants not to sue), no provision of this chapter shall be construed to preclude or otherwise affect the applicability of general principles of law regarding the setting aside or modification of consent decrees or other settlements.
 
-([Pub. L. 96–510, title I, § 122][/us/pl/96/510/s122], as added [Pub. L. 99–499, title I, § 122(a)][/us/pl/99/499/s122/a], Oct. 17, 1986, [100 Stat. 1678][/us/stat/100/1678]; amended [Pub. L. 107–118, title I, § 102(b)][/us/pl/107/118/s102/b], Jan. 11, 2002, [115 Stat. 2359][/us/stat/115/2359].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 122, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 122(a), Oct. 17, 1986, [100 Stat. 1678][/us/stat/100/1678]; amended [Pub. L. 107–118, title I][/us/pl/107/118/tI], § 102(b), Jan. 11, 2002, [115 Stat. 2359][/us/stat/115/2359].)
 
  __References in Text__ 
 
@@ -405,10 +405,10 @@
 [/us/usc/t42/s9620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620
 [/us/usc/t42/s9620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620
 [/us/usc/t42/s9609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9609
-[/us/pl/96/510/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs122
-[/us/pl/99/499/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs122%2Fa
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1678
-[/us/pl/107/118/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs102%2Fb
+[/us/pl/107/118/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtI
 [/us/stat/115/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2359
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

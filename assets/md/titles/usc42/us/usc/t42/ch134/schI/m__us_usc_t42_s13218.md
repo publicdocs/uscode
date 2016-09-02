@@ -55,7 +55,7 @@
 
             (B) publishing the availability of the report, including such website address, in the Federal Register.
 
-([Pub. L. 102–486, title III, § 310][/us/pl/102/486/s310], Oct. 24, 1992, [106 Stat. 2874][/us/stat/106/2874]; [Pub. L. 105–388, § 8(a)][/us/pl/105/388/s8/a], Nov. 13, 1998, [112 Stat. 3481][/us/stat/112/3481]; [Pub. L. 109–58, title VII, § 705][/us/pl/109/58/s705], Aug. 8, 2005, [119 Stat. 817][/us/stat/119/817].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 310, Oct. 24, 1992, [106 Stat. 2874][/us/stat/106/2874]; [Pub. L. 105–388][/us/pl/105/388], § 8(a), Nov. 13, 1998, [112 Stat. 3481][/us/stat/112/3481]; [Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 705, Aug. 8, 2005, [119 Stat. 817][/us/stat/119/817].)
 
  __References in Text__ 
 
@@ -80,11 +80,11 @@
 ----------
 ----------
 
-[/us/pl/102/486/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs310
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2874
-[/us/pl/105/388/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs8%2Fa
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3481
-[/us/pl/109/58/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs705
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F817
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/102/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2776

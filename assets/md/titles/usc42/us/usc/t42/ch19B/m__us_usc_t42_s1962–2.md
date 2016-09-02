@@ -17,7 +17,7 @@
 
     It is the intent of Congress that the objectives of enhancing regional economic development, the quality of the total environment, including its protection and improvement, the well-being of the people of the United States, and the national economic development are the objectives to be included in federally financed water resource projects (including shore protection projects such as projects for beach nourishment, including the replacement of sand), and in the evaluation of benefits and cost attributable thereto, giving due consideration to the most feasible alternative means of accomplishing these objectives.
 
-([Pub. L. 91–611, title II, § 209][/us/pl/91/611/s209], Dec. 31, 1970, [84 Stat. 1829][/us/stat/84/1829]; [Pub. L. 104–303, title II, § 227(f)][/us/pl/104/303/s227/f], Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703].)
+([Pub. L. 91–611, title II][/us/pl/91/611/tII], § 209, Dec. 31, 1970, [84 Stat. 1829][/us/stat/84/1829]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 227(f), Oct. 12, 1996, [110 Stat. 3703][/us/stat/110/3703].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/611/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs209
+[/us/pl/91/611/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtII
 [/us/stat/84/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1829
-[/us/pl/104/303/s227/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs227%2Ff
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3703
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 

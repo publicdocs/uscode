@@ -197,7 +197,7 @@
 
         For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 97–35, title VI, § 658O][/us/pl/97/35/s658O], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–246][/us/stat/104/1388-246]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 613][/us/pl/104/193/s613], Aug. 22, 1996, [110 Stat. 2286][/us/stat/110/2286]; [Pub. L. 105–33, title V, § 5602(4)][/us/pl/105/33/s5602/4], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 106–78, title VII, § 752(b)(17)][/us/pl/106/78/s752/b/17], Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170]; [Pub. L. 113–186, § 9][/us/pl/113/186/s9], Nov. 19, 2014, [128 Stat. 1998][/us/stat/128/1998].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 658O, as added [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–246][/us/stat/104/1388-246]; amended [Pub. L. 102–401][/us/pl/102/401], § 3(a), Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586][/us/pl/102/586], § 8(c)(1), Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI][/us/pl/104/193/tVI], § 613, Aug. 22, 1996, [110 Stat. 2286][/us/stat/110/2286]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5602(4), Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(17), Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170]; [Pub. L. 113–186][/us/pl/113/186], § 9, Nov. 19, 2014, [128 Stat. 1998][/us/stat/128/1998].)
 
  __References in Text__ 
 
@@ -205,29 +205,29 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–186, § 9(1)(A)][/us/pl/113/186/s9/1/A], designated existing provisions as subpar. (A), inserted heading, substituted “2 percent” for “1 percent, and not more than 2 percent,”, and added subpar. (B).
+    2014—Subsec. (a)(2). [Pub. L. 113–186][/us/pl/113/186], § 9(1)(A), designated existing provisions as subpar. (A), inserted heading, substituted “2 percent” for “1 percent, and not more than 2 percent,”, and added subpar. (B).
 
-    Subsec. (a)(3) to (5). [Pub. L. 113–186, § 9(1)(B)][/us/pl/113/186/s9/1/B], added pars. (3) to (5).
+    Subsec. (a)(3) to (5). [Pub. L. 113–186][/us/pl/113/186], § 9(1)(B), added pars. (3) to (5).
 
-    Subsec. (c)(2)(D). [Pub. L. 113–186, § 9(2)(A)][/us/pl/113/186/s9/2/A], added subpar. (D).
+    Subsec. (c)(2)(D). [Pub. L. 113–186][/us/pl/113/186], § 9(2)(A), added subpar. (D).
 
-    Subsec. (c)(6)(C). [Pub. L. 113–186, § 9(2)(B)][/us/pl/113/186/s9/2/B], added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.”
+    Subsec. (c)(6)(C). [Pub. L. 113–186][/us/pl/113/186], § 9(2)(B), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.”
 
     1999—Subsec. (b)(3). [Pub. L. 106–78][/us/pl/106/78] substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
     1997—Subsec. (c)(6)(C). [Pub. L. 105–33][/us/pl/105/33] substituted “subparagraph (B)” for “subparagraph (A)”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–193, § 613(1)(A)][/us/pl/104/193/s613/1/A], made technical amendment to heading, inserted “and” before “the Commonwealth of the Northern Marianna Islands”, and struck out “, and the Trust Territory of the Pacific Islands” before “to be allotted in accordance”.
+    1996—Subsec. (a)(1). [Pub. L. 104–193][/us/pl/104/193], § 613(1)(A), made technical amendment to heading, inserted “and” before “the Commonwealth of the Northern Marianna Islands”, and struck out “, and the Trust Territory of the Pacific Islands” before “to be allotted in accordance”.
 
-    Subsec. (a)(2). [Pub. L. 104–193, § 613(1)(B)][/us/pl/104/193/s613/1/B], substituted “less than 1 percent, and not more than 2 percent,” for “more than 3 percent”.
+    Subsec. (a)(2). [Pub. L. 104–193][/us/pl/104/193], § 613(1)(B), substituted “less than 1 percent, and not more than 2 percent,” for “more than 3 percent”.
 
-    Subsec. (c)(5). [Pub. L. 104–193, § 613(2)(A)][/us/pl/104/193/s613/2/A], substituted “activities carried out” for “activities carried our”.
+    Subsec. (c)(5). [Pub. L. 104–193][/us/pl/104/193], § 613(2)(A), substituted “activities carried out” for “activities carried our”.
 
-    Subsec. (c)(6). [Pub. L. 104–193, § 613(2)(B)][/us/pl/104/193/s613/2/B], added par. (6).
+    Subsec. (c)(6). [Pub. L. 104–193][/us/pl/104/193], § 613(2)(B), added par. (6).
 
-    Subsec. (e)(4). [Pub. L. 104–193, § 613(3)][/us/pl/104/193/s613/3], added par. (4).
+    Subsec. (e)(4). [Pub. L. 104–193][/us/pl/104/193], § 613(3), added par. (4).
 
-    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508, § 5082(2)][/us/pl/101/508/s5082/2], which added this section.
+    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508][/us/pl/101/508], § 5082(2), which added this section.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -254,38 +254,38 @@
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s9858c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fd
 [/us/usc/t42/s9858c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fd
-[/us/pl/97/35/s658O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658O
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-246
-[/us/pl/102/401/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs3%2Fa
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
-[/us/pl/102/586/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fc%2F1
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
-[/us/pl/104/193/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs613
+[/us/pl/104/193/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVI
 [/us/stat/110/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2286
-[/us/pl/105/33/s5602/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F4
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F646
-[/us/pl/106/78/s752/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F17
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1170
-[/us/pl/113/186/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/stat/128/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1998
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/113/186/s9/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F1%2FA
-[/us/pl/113/186/s9/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F1%2FB
-[/us/pl/113/186/s9/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F2%2FA
-[/us/pl/113/186/s9/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F2%2FB
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/104/193/s613/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs613%2F1%2FA
-[/us/pl/104/193/s613/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs613%2F1%2FB
-[/us/pl/104/193/s613/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs613%2F2%2FA
-[/us/pl/104/193/s613/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs613%2F2%2FB
-[/us/pl/104/193/s613/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs613%2F3
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5603

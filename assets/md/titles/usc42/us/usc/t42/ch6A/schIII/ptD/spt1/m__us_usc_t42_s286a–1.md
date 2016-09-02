@@ -17,7 +17,7 @@
 
     The Administrator of General Services may acquire, by purchase, condemnation, donation, or otherwise, a suitable site or sites, selected by the Secretary in accordance with the direction of the Board, for suitable and adequate buildings and facilities for use of the Library and to erect thereon, furnish, and equip such buildings and facilities. Amounts appropriated to carry out this section may be used for the cost of preparation of drawings and specifications, supervision of construction, and other administrative expenses incident to the work. The Administrator of General Services shall prepare the plans and specifications, make all necessary contracts, and supervise construction.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 467, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 859][/us/stat/99/859]; amended [Pub. L. 109–482, title I, § 103(b)(38)][/us/pl/109/482/s103/b/38], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 467, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 859][/us/stat/99/859]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(38), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F859
-[/us/pl/109/482/s103/b/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F38
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

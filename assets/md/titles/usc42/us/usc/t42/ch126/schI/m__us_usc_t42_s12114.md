@@ -71,7 +71,7 @@
 
         (2) remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c) of this section.
 
-([Pub. L. 101–336, title I, § 104][/us/pl/101/336/s104], July 26, 1990, [104 Stat. 334][/us/stat/104/334]; [Pub. L. 110–325, § 5(c)(2)][/us/pl/110/325/s5/c/2], Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
+([Pub. L. 101–336, title I][/us/pl/101/336/tI], § 104, July 26, 1990, [104 Stat. 334][/us/stat/104/334]; [Pub. L. 110–325][/us/pl/110/325], § 5(c)(2), Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Codification__ 
 
-    In subsec. (c)(3), “chapter 81 of title 41” substituted for “the Drug-Free Workplace Act of 1988 ([41 U.S.C. 701][/us/usc/t41/s701] et seq.)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(3), “chapter 81 of title 41” substituted for “the Drug-Free Workplace Act of 1988 ([41 U.S.C. 701][/us/usc/t41/s701] et seq.)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -96,15 +96,15 @@
 ----------
 ----------
 
-[/us/pl/101/336/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs104
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F334
-[/us/pl/110/325/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs5%2Fc%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3557
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t41/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs701
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325

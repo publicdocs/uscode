@@ -41,7 +41,7 @@
 
             (B) details the space- and ground-based systems that will be required to gather data necessary for space weather forecasting for the next 10 years.
 
-([Pub. L. 111–267, title VIII, § 809][/us/pl/111/267/s809], Oct. 11, 2010, [124 Stat. 2834][/us/stat/124/2834].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 809, Oct. 11, 2010, [124 Stat. 2834][/us/stat/124/2834].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs809
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2834
 
 

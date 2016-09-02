@@ -19,7 +19,7 @@
 
     (b) Whenever an owner of property elects to retain a right of use and occupancy pursuant to any statute authorizing the acquisition of property for purposes of a unit of the National Park System, such owner shall be deemed to have waived any benefits under sections 4623, 4624, 4625, and 4626 of this title, and for the purposes of those sections such owner shall not be considered a displaced person as defined in [section 4601(6) of this title][/us/usc/t42/s4601/6].
 
-([Pub. L. 93–477, title IV, § 405][/us/pl/93/477/s405], Oct. 26, 1974, [88 Stat. 1448][/us/stat/88/1448].)
+([Pub. L. 93–477, title IV][/us/pl/93/477/tIV], § 405, Oct. 26, 1974, [88 Stat. 1448][/us/stat/88/1448].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 [/us/stat/86/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F120
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 [/us/usc/t42/s4601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F6
-[/us/pl/93/477/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs405
+[/us/pl/93/477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtIV
 [/us/stat/88/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1448
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

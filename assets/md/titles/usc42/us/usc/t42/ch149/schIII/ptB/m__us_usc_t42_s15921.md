@@ -87,7 +87,7 @@
 
         (3) to the Secretary of Agriculture, acting through the Chief of the Forest Service, $5,000,000 to carry out subsections (a)(2) and (c).
 
-([Pub. L. 109–58, title III, § 362][/us/pl/109/58/s362], Aug. 8, 2005, [119 Stat. 721][/us/stat/119/721].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 362, Aug. 8, 2005, [119 Stat. 721][/us/stat/119/721].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/109/58/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs362
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F721
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

@@ -67,7 +67,7 @@
 
         During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
-    (d) __Repealed.__  __[__  __Pub. L. 104–65, § 11(b)(2)__  __][/us/pl/104/65/s11/b/2]__  __,__  __Dec. 19, 1995__  __,__  __[__  __109 Stat. 701__  __][/us/stat/109/701]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 104–65__  __][/us/pl/104/65]__  __, § 11(b)(2),__  __Dec. 19, 1995__  __,__  __[__  __109 Stat. 701__  __][/us/stat/109/701]__ 
 
     (e) __Remedies and penalties__ 
 
@@ -125,7 +125,7 @@
 
         The Secretary shall submit to the Congress, not later than 180 days following December 15, 1989, a report describing actions taken to carry out this section, including actions to inform and educate officers and employees of the Department of Agriculture regarding the provisions of this section.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 536, as added [Pub. L. 101–235, title IV, § 401(a)][/us/pl/101/235/s401/a], Dec. 15, 1989, [103 Stat. 2045][/us/stat/103/2045]; amended [Pub. L. 101–625, title VII, § 719(a)][/us/pl/101/625/s719/a], Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297]; [Pub. L. 104–65, § 11(b)(2)][/us/pl/104/65/s11/b/2], Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 536, as added [Pub. L. 101–235, title IV][/us/pl/101/235/tIV], § 401(a), Dec. 15, 1989, [103 Stat. 2045][/us/stat/103/2045]; amended [Pub. L. 101–625, title VII][/us/pl/101/625/tVII], § 719(a), Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297]; [Pub. L. 104–65][/us/pl/104/65], § 11(b)(2), Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
 
  __Codification__ 
 
@@ -143,7 +143,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–235, title IV, § 401(b)][/us/pl/101/235/s401/b], Dec. 15, 1989, [103 Stat. 2048][/us/stat/103/2048], provided that: 
+[Pub. L. 101–235, title IV][/us/pl/101/235/tIV], § 401(b), Dec. 15, 1989, [103 Stat. 2048][/us/stat/103/2048], provided that: 
 
 > “Section 536 of the Housing Act of 1949 \[this section\], as added by subsection (a), shall take effect on the effective date of regulations implementing such section.”
 
@@ -154,14 +154,14 @@
 ----------
 ----------
 
-[/us/pl/104/65/s11/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs11%2Fb%2F2
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/101/235/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs401%2Fa
+[/us/pl/101/235/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtIV
 [/us/stat/103/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2045
-[/us/pl/101/625/s719/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs719%2Fa
+[/us/pl/101/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVII
 [/us/stat/104/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4297
-[/us/pl/104/65/s11/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs11%2Fb%2F2
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
@@ -169,7 +169,7 @@
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/104/65/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs24
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/pl/101/235/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs401%2Fb
+[/us/pl/101/235/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtIV
 [/us/stat/103/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2048
 
 

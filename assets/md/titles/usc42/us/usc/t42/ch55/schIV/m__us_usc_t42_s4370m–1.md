@@ -203,7 +203,7 @@
 
         The Director of the Office of Management and Budget shall designate a Federal agency, other than an agency that carries out or provides support only for projects that are not covered projects, to provide administrative support for the Executive Director, and the designated agency shall, as reasonably necessary, provide support and staff to enable the Executive Director to fulfill the duties of the Executive Director under this subchapter.
 
-([Pub. L. 114–94, div. D, title XLI, § 41002][/us/pl/114/94/s41002], Dec. 4, 2015, [129 Stat. 1743][/us/stat/129/1743].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41002, Dec. 4, 2015, [129 Stat. 1743][/us/stat/129/1743].)
 
  __Codification__ 
 
@@ -218,7 +218,7 @@
 
 [/us/usc/t42/s4370m–2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932%2Fa%2F1
 [/us/usc/t42/s4370m–2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932%2Fb%2F2
-[/us/pl/114/94/s41002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41002
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1743
 
 

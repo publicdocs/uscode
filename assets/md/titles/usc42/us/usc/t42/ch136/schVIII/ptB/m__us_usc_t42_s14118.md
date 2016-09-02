@@ -47,7 +47,7 @@
 
             For purposes of satisfying the requirement of paragraph (1), a scholarship recipient shall work in a law enforcement position in the State that awarded the scholarship for not less than 6 months but shall not be required to work in such a position for more than 2 years.
 
-([Pub. L. 103–322, title XX, § 200209][/us/pl/103/322/s200209], Sept. 13, 1994, [108 Stat. 2060][/us/stat/108/2060].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200209, Sept. 13, 1994, [108 Stat. 2060][/us/stat/108/2060].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s200209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200209
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2060
 
 

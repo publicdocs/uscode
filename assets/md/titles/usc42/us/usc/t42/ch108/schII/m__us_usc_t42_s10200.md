@@ -17,7 +17,7 @@
 
     Not later than 6 months after January 7, 1983, the Secretary shall submit to the Congress a report describing the research and development activities the Secretary considers necessary to develop the proposal required in [section 10161(b) of this title][/us/usc/t42/s10161/b] with respect to a monitored retrievable storage facility.
 
-([Pub. L. 97–425, title II, § 220][/us/pl/97/425/s220], Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 220, Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s10161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10161%2Fb
-[/us/pl/97/425/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs220
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2254
 
 

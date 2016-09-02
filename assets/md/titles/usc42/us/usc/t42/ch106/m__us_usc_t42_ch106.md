@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch105/schV/m__us_usc_t42_ch105_schV.md) | [Next](./../../../..//us/usc/t42/ch106/m__us_usc_t42_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch106)
+[Previous](./../../../..//us/usc/t42/ch105/schV/m__us_usc_t42_s9881...9887.md) | [Next](./../../../..//us/usc/t42/ch106/m__us_usc_t42_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch106)
 
 ## CHAPTER 106—COMMUNITY SERVICES BLOCK GRANT PROGRAM
 
@@ -235,16 +235,16 @@
 
  __Codification__ 
 
-    The Community Services Block Grant Act, comprising this chapter, was originally enacted by subtitle B of [Pub. L. 97–35, title VI][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], and amended by [Pub. L. 97–115][/us/pl/97/115], Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 98–288][/us/pl/98/288], May 21, 1984, [98 Stat. 189][/us/stat/98/189]; [Pub. L. 98–558][/us/pl/98/558], Oct. 30, 1984, [98 Stat. 2878][/us/stat/98/2878]; [Pub. L. 99–425][/us/pl/99/425], Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–501][/us/pl/101/501], Nov. 3, 1990, [104 Stat. 1222][/us/stat/104/1222]; [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359]; [Pub. L. 103–94][/us/pl/103/94], Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001]; [Pub. L. 103–171][/us/pl/103/171], Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988]; [Pub. L. 103–252][/us/pl/103/252], May 18, 1994, [108 Stat. 623][/us/stat/108/623]. The Community Services Block Grant Act is shown herein, however, as having been added by [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728], without reference to those intervening amendments because of the extensive revision of that Act by [Pub. L. 105–285][/us/pl/105/285].
+    The Community Services Block Grant Act, comprising this chapter, was originally enacted by subtitle B of [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], and amended by [Pub. L. 97–115][/us/pl/97/115], Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 98–288][/us/pl/98/288], May 21, 1984, [98 Stat. 189][/us/stat/98/189]; [Pub. L. 98–558][/us/pl/98/558], Oct. 30, 1984, [98 Stat. 2878][/us/stat/98/2878]; [Pub. L. 99–425][/us/pl/99/425], Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–501][/us/pl/101/501], Nov. 3, 1990, [104 Stat. 1222][/us/stat/104/1222]; [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359]; [Pub. L. 103–94][/us/pl/103/94], Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001]; [Pub. L. 103–171][/us/pl/103/171], Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988]; [Pub. L. 103–252][/us/pl/103/252], May 18, 1994, [108 Stat. 623][/us/stat/108/623]. The Community Services Block Grant Act is shown herein, however, as having been added by [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728], without reference to those intervening amendments because of the extensive revision of that Act by [Pub. L. 105–285][/us/pl/105/285].
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch105/schV/m__us_usc_t42_ch105_schV.md) | [Next](./../../../..//us/usc/t42/ch106/m__us_usc_t42_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch106)
+[Previous](./../../../..//us/usc/t42/ch105/schV/m__us_usc_t42_s9881...9887.md) | [Next](./../../../..//us/usc/t42/ch106/m__us_usc_t42_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch106)
 
 ----------
 ----------
 
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1595
@@ -264,7 +264,7 @@
 [/us/stat/107/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1988
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/stat/108/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F623
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2728
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 

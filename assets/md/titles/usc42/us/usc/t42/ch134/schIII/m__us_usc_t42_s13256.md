@@ -33,7 +33,7 @@
 
         The Secretary shall publish a proposed version of each analysis under this section in the Federal Register for public comment before transmittal to the President and the Congress. Public comment received in response to such publication shall be preserved for use in rulemaking proceedings under [section 13257 of this title][/us/usc/t42/s13257].
 
-([Pub. L. 102–486, title V, § 506][/us/pl/102/486/s506], Oct. 24, 1992, [106 Stat. 2891][/us/stat/106/2891].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 506, Oct. 24, 1992, [106 Stat. 2891][/us/stat/106/2891].)
 
 ----------
 
@@ -46,7 +46,7 @@
 [/us/usc/t42/s13252/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13252%2Fb%2F2
 [/us/usc/t42/s13254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13254
 [/us/usc/t42/s13257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13257
-[/us/pl/102/486/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs506
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2891
 
 

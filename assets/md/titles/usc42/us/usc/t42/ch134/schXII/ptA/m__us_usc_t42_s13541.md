@@ -45,7 +45,7 @@
 
         This section shall not apply to any contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 \[[15 U.S.C. 3701][/us/usc/t15/s3701] et seq.\], grant, joint venture, or any other form of agreement available to the Secretary that is in effect as of October 24, 1992.
 
-([Pub. L. 102–486, title XXX, § 3001][/us/pl/102/486/s3001], Oct. 24, 1992, [106 Stat. 3126][/us/stat/106/3126].)
+([Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3001, Oct. 24, 1992, [106 Stat. 3126][/us/stat/106/3126].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
     The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a)(1), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, [Pub. L. 93–577][/us/pl/93/577], Dec. 31, 1974, [88 Stat. 1878][/us/stat/88/1878], as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title][/us/usc/t42/s5901] and Tables.
 
-    The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (a)(2), (b), (e)(1), (2), and (f), is [Pub. L. 96–480][/us/pl/96/480], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15][/us/usc/t15/s3701] and Tables.
 
@@ -71,7 +71,7 @@
 [/us/usc/t15/s3710a/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fc%2F7
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/102/486/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3001
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3126
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
@@ -80,7 +80,7 @@
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480

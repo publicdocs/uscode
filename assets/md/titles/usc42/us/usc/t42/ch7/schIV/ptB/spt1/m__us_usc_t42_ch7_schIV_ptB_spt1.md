@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–351, title I, § 102(c)][/us/pl/110/351/s102/c], Oct. 7, 2008, [122 Stat. 3956][/us/stat/122/3956], substituted “Stephanie Tubbs Jones Child Welfare Services Program” for “Child Welfare Services” in subpart heading.
+    2008—[Pub. L. 110–351, title I][/us/pl/110/351/tI], § 102(c), Oct. 7, 2008, [122 Stat. 3956][/us/stat/122/3956], substituted “Stephanie Tubbs Jones Child Welfare Services Program” for “Child Welfare Services” in subpart heading.
 
-    1993—[Pub. L. 103–66, title XIII, § 13711(a)(1)][/us/pl/103/66/s13711/a/1], Aug. 10, 1993, [107 Stat. 649][/us/stat/107/649], added subpart 1 heading.
+    1993—[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(a)(1), Aug. 10, 1993, [107 Stat. 649][/us/stat/107/649], added subpart 1 heading.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/110/351/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs102%2Fc
+[/us/pl/110/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2FtI
 [/us/stat/122/3956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3956
-[/us/pl/103/66/s13711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fa%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F649
 
 

@@ -23,7 +23,7 @@
 
         This section shall cease to be effective 3 years after October 24, 1992.
 
-([Pub. L. 102–486, title III, § 306][/us/pl/102/486/s306], Oct. 24, 1992, [106 Stat. 2873][/us/stat/106/2873].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 306, Oct. 24, 1992, [106 Stat. 2873][/us/stat/106/2873].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs306
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2873
 
 

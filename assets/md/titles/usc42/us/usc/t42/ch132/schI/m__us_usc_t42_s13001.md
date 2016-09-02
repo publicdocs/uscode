@@ -31,7 +31,7 @@
 
     (7) such programs have proven effective, and with targeted Federal assistance, could be duplicated in many jurisdictions throughout the country.
 
-([Pub. L. 101–647, title II, § 211][/us/pl/101/647/s211], Nov. 29, 1990, [104 Stat. 4792][/us/stat/104/4792]; [Pub. L. 102–586, § 6(a)][/us/pl/102/586/s6/a], Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 211, Nov. 29, 1990, [104 Stat. 4792][/us/stat/104/4792]; [Pub. L. 102–586][/us/pl/102/586], § 6(a), Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029].)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–163, § 1][/us/pl/113/163/s1], Aug. 8, 2014, [128 Stat. 1864][/us/stat/128/1864], provided that: 
+[Pub. L. 113–163][/us/pl/113/163], § 1, Aug. 8, 2014, [128 Stat. 1864][/us/stat/128/1864], provided that: 
 
 > “This Act \[enacting [section 13005 of this title][/us/usc/t42/s13005] and amending sections 10601 and 13004 of this title\] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2013’.”
 
  __Short Title__ 
 
-[Pub. L. 101–647, title II, § 201][/us/pl/101/647/s201], Nov. 29, 1990, [104 Stat. 4792][/us/stat/104/4792], provided that: 
+[Pub. L. 101–647, title II][/us/pl/101/647/tII], § 201, Nov. 29, 1990, [104 Stat. 4792][/us/stat/104/4792], provided that: 
 
 > “This title \[enacting this chapter, sections 3796aa to 3796aa–8 of this title, and sections 403, 2258, and 3509 of Title 18, Crimes and Criminal Procedure, and amending sections 3742, 3782, 3783, 3789, 3793, and 3797 of this title\] may be cited as the ‘Victims of Child Abuse Act of 1990’.”
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/101/647/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs211
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4792
-[/us/pl/102/586/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5029
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
-[/us/pl/113/163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F163%2Fs1
+[/us/pl/113/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F163
 [/us/stat/128/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1864
 [/us/usc/t42/s13005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13005
-[/us/pl/101/647/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs201
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4792
 
 

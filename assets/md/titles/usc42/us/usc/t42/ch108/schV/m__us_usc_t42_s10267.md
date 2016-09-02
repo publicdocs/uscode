@@ -35,7 +35,7 @@
 
         Subject to such rules as may be prescribed by the Board, the Chairman may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
 
-([Pub. L. 97–425, title V, § 507][/us/pl/97/425/s507], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5051][/us/pl/100/203/s5051], Dec. 22, 1987, [101 Stat. 1330–250][/us/stat/101/1330-250].)
+([Pub. L. 97–425, title V][/us/pl/97/425/tV], § 507, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5051, Dec. 22, 1987, [101 Stat. 1330–250][/us/stat/101/1330-250].)
 
  __Codification__ 
 
@@ -53,10 +53,10 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/97/425/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs507
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtV
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5051
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-250
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

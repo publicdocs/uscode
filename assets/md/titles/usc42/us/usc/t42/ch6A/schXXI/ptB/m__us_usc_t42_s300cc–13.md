@@ -65,7 +65,7 @@
 
         (2) For the purpose of carrying out subsection (b)(2) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1996.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2313, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3068][/us/stat/102/3068]; amended [Pub. L. 100–690, title II, § 2617(b)][/us/pl/100/690/s2617/b], Nov. 18, 1988, [102 Stat. 4240][/us/stat/102/4240]; [Pub. L. 101–93, § 6][/us/pl/101/93/s6], Aug. 16, 1989, [103 Stat. 615][/us/stat/103/615]; [Pub. L. 102–96, § 3][/us/pl/102/96/s3], Aug. 14, 1991, [105 Stat. 481][/us/stat/105/481].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2313, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3068][/us/stat/102/3068]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2617(b), Nov. 18, 1988, [102 Stat. 4240][/us/stat/102/4240]; [Pub. L. 101–93][/us/pl/101/93], § 6, Aug. 16, 1989, [103 Stat. 615][/us/stat/103/615]; [Pub. L. 102–96][/us/pl/102/96], § 3, Aug. 14, 1991, [105 Stat. 481][/us/stat/105/481].)
 
  __Prior Provisions__ 
 
@@ -73,17 +73,17 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–96, § 3(1)][/us/pl/102/96/s3/1], substituted “Terry Beirn Community-Based AIDS Research Initiative” for “Community-based evaluations of experimental therapies” in section catchline.
+    1991—[Pub. L. 102–96][/us/pl/102/96], § 3(1), substituted “Terry Beirn Community-Based AIDS Research Initiative” for “Community-based evaluations of experimental therapies” in section catchline.
 
-    Subsec. (c). [Pub. L. 102–96, § 3(2)][/us/pl/102/96/s3/2], substituted “, schools of medicine and primary providers” for “and schools of medicine” in heading and substituted “schools of medicine, osteopathic medicine, and existing consortia of primary care providers organized to conduct clinical research concerning acquired immune deficiency syndrome” for “schools of medicine and osteopathic medicine”.
+    Subsec. (c). [Pub. L. 102–96][/us/pl/102/96], § 3(2), substituted “, schools of medicine and primary providers” for “and schools of medicine” in heading and substituted “schools of medicine, osteopathic medicine, and existing consortia of primary care providers organized to conduct clinical research concerning acquired immune deficiency syndrome” for “schools of medicine and osteopathic medicine”.
 
-    Subsec. (e). [Pub. L. 102–96, § 3(3)][/us/pl/102/96/s3/3], substituted “1996” for “1991” in pars. (1) and (2).
+    Subsec. (e). [Pub. L. 102–96][/us/pl/102/96], § 3(3), substituted “1996” for “1991” in pars. (1) and (2).
 
     1989—Subsec. (c). [Pub. L. 101–93][/us/pl/101/93] inserted “and osteopathic medicine” after “schools of medicine”.
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 2617(b)(1)][/us/pl/100/690/s2617/b/1], which directed substitution of “through the Director of the National Institute of Allergy” for “through the National Institutes of Allergy”, was executed by making substitution for “through the National Institute of Allergy” as the probable intent of Congress.
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 2617(b)(1), which directed substitution of “through the Director of the National Institute of Allergy” for “through the National Institutes of Allergy”, was executed by making substitution for “through the National Institute of Allergy” as the probable intent of Congress.
 
-    Subsec. (b)(2)(B)(iii). [Pub. L. 100–690, § 2617(b)(2)][/us/pl/100/690/s2617/b/2], which directed substitution of “Institute” for “Institutes”, could not be executed because “Institute” was singular in original.
+    Subsec. (b)(2)(B)(iii). [Pub. L. 100–690][/us/pl/100/690], § 2617(b)(2), which directed substitution of “Institute” for “Institutes”, could not be executed because “Institute” was singular in original.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -95,7 +95,7 @@
 
  __Findings and Sense of Congress__ 
 
-[Pub. L. 102–96, § 2][/us/pl/102/96/s2], Aug. 14, 1991, [105 Stat. 481][/us/stat/105/481], provided that:
+[Pub. L. 102–96][/us/pl/102/96], § 2, Aug. 14, 1991, [105 Stat. 481][/us/stat/105/481], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -120,28 +120,28 @@
 
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3068
-[/us/pl/100/690/s2617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2617%2Fb
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4240
-[/us/pl/101/93/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs6
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F615
-[/us/pl/102/96/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96%2Fs3
+[/us/pl/102/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96
 [/us/stat/105/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F481
 [/us/usc/t42/s238k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238k
-[/us/pl/102/96/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96%2Fs3%2F1
-[/us/pl/102/96/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96%2Fs3%2F2
-[/us/pl/102/96/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96%2Fs3%2F3
+[/us/pl/102/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96
+[/us/pl/102/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96
+[/us/pl/102/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
-[/us/pl/100/690/s2617/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2617%2Fb%2F1
-[/us/pl/100/690/s2617/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2617%2Fb%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/100/690/s2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2600
 [/us/usc/t42/s242m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242m
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/102/96/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96%2Fs2
+[/us/pl/102/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F96
 [/us/stat/105/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F481
 
 

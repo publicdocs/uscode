@@ -241,11 +241,11 @@
 
         No grant funds under this section may be awarded or transferred to any entity unless such entity has demonstrated substantial experience providing services to victims of human trafficking or related populations (such as runaway and homeless youth), or employs staff specialized in the treatment of human trafficking victims.
 
-([Pub. L. 109–164, title II, § 203][/us/pl/109/164/s203], Jan. 10, 2006, [119 Stat. 3570][/us/stat/119/3570]; [Pub. L. 110–457, title III, § 302(4)][/us/pl/110/457/s302/4], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 114–22, title I, § 103(a)][/us/pl/114/22/s103/a], May 29, 2015, [129 Stat. 231][/us/stat/129/231].)
+([Pub. L. 109–164, title II][/us/pl/109/164/tII], § 203, Jan. 10, 2006, [119 Stat. 3570][/us/stat/119/3570]; [Pub. L. 110–457, title III][/us/pl/110/457/tIII], § 302(4), Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 103(a), May 29, 2015, [129 Stat. 231][/us/stat/129/231].)
 
  __References in Text__ 
 
-    The Victims of Child Abuse Act of 1990, referred to in subsec. (k)(2), is [Pub. L. 101–647, title II][/us/pl/101/647], Nov. 29, 1990, [104 Stat. 4792][/us/stat/104/4792]. Subtitle A of the Act is classified generally to subchapter I (§ 13001 et seq.) of chapter 132 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 13001 of this title][/us/usc/t42/s13001] and Tables.
+    The Victims of Child Abuse Act of 1990, referred to in subsec. (k)(2), is [Pub. L. 101–647, title II][/us/pl/101/647/tII], Nov. 29, 1990, [104 Stat. 4792][/us/stat/104/4792]. Subtitle A of the Act is classified generally to subchapter I (§ 13001 et seq.) of chapter 132 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 13001 of this title][/us/usc/t42/s13001] and Tables.
 
  __Codification__ 
 
@@ -267,13 +267,13 @@
 [/us/usc/t18/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3014
 [/us/usc/t42/s13001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13001
 [/us/usc/t42/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7102
-[/us/pl/109/164/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs203
+[/us/pl/109/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtII
 [/us/stat/119/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3570
-[/us/pl/110/457/s302/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs302%2F4
+[/us/pl/110/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIII
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
-[/us/pl/114/22/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs103%2Fa
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F231
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4792
 [/us/usc/t42/s13001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13001
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22

@@ -81,7 +81,7 @@
 
             Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992, byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
 
-([Pub. L. 102–486, title X, § 1001][/us/pl/102/486/s1001], Oct. 24, 1992, [106 Stat. 2946][/us/stat/106/2946]; [Pub. L. 104–259, § 3(a)][/us/pl/104/259/s3/a], Oct. 9, 1996, [110 Stat. 3173][/us/stat/110/3173]; [Pub. L. 105–388, § 11(a)][/us/pl/105/388/s11/a], Nov. 13, 1998, [112 Stat. 3484][/us/stat/112/3484]; [Pub. L. 106–317, § 1][/us/pl/106/317/s1], Oct. 19, 2000, [114 Stat. 1277][/us/stat/114/1277]; [Pub. L. 107–222, § 1(a)][/us/pl/107/222/s1/a], Aug. 21, 2002, [116 Stat. 1336][/us/stat/116/1336].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1001, Oct. 24, 1992, [106 Stat. 2946][/us/stat/106/2946]; [Pub. L. 104–259][/us/pl/104/259], § 3(a), Oct. 9, 1996, [110 Stat. 3173][/us/stat/110/3173]; [Pub. L. 105–388][/us/pl/105/388], § 11(a), Nov. 13, 1998, [112 Stat. 3484][/us/stat/112/3484]; [Pub. L. 106–317][/us/pl/106/317], § 1, Oct. 19, 2000, [114 Stat. 1277][/us/stat/114/1277]; [Pub. L. 107–222][/us/pl/107/222], § 1(a), Aug. 21, 2002, [116 Stat. 1336][/us/stat/116/1336].)
 
  __Codification__ 
 
@@ -105,21 +105,21 @@
 
     Any amounts authorized to be paid in a fiscal year under this subparagraph that are not paid in that fiscal year may be paid in subsequent fiscal years.”
 
-    2000—Subsec. (b)(1)(B)(i). [Pub. L. 106–317, § 1(1)][/us/pl/106/317/s1/1], substituted “2007” for “2002”.
+    2000—Subsec. (b)(1)(B)(i). [Pub. L. 106–317][/us/pl/106/317], § 1(1), substituted “2007” for “2002”.
 
-    Subsec. (b)(1)(B)(ii). [Pub. L. 106–317, § 1(2)][/us/pl/106/317/s1/2], substituted “incurred by a licensee after December 31, 2007,” for “placed in escrow not later than December 31, 2002,”.
+    Subsec. (b)(1)(B)(ii). [Pub. L. 106–317][/us/pl/106/317], § 1(2), substituted “incurred by a licensee after December 31, 2007,” for “placed in escrow not later than December 31, 2002,”.
 
-    Subsec. (b)(2)(E)(i). [Pub. L. 106–317, § 1(3)][/us/pl/106/317/s1/3], substituted “December 31, 2008” for “July 31, 2005”.
+    Subsec. (b)(2)(E)(i). [Pub. L. 106–317][/us/pl/106/317], § 1(3), substituted “December 31, 2008” for “July 31, 2005”.
 
     1998—Subsec. (b)(2)(C). [Pub. L. 105–388][/us/pl/105/388] substituted “$140,000,000” for “$65,000,000”.
 
-    1996—Subsec. (b)(2)(A). [Pub. L. 104–259, § 3(a)(1)][/us/pl/104/259/s3/a/1], substituted “$6.25” for “$5.50”.
+    1996—Subsec. (b)(2)(A). [Pub. L. 104–259][/us/pl/104/259], § 3(a)(1), substituted “$6.25” for “$5.50”.
 
-    Subsec. (b)(2)(B). [Pub. L. 104–259, § 3(a)(2)][/us/pl/104/259/s3/a/2], substituted “$350,000,000” for “$270,000,000”.
+    Subsec. (b)(2)(B). [Pub. L. 104–259][/us/pl/104/259], § 3(a)(2), substituted “$350,000,000” for “$270,000,000”.
 
-    Subsec. (b)(2)(C). [Pub. L. 104–259, § 3(a)(3)][/us/pl/104/259/s3/a/3], substituted “$65,000,000” for “$40,000,000”.
+    Subsec. (b)(2)(C). [Pub. L. 104–259][/us/pl/104/259], § 3(a)(3), substituted “$65,000,000” for “$40,000,000”.
 
-    Subsec. (b)(2)(E). [Pub. L. 104–259, § 3(a)(4)][/us/pl/104/259/s3/a/4], (5), substituted “$6.25” for “$5.50” wherever appearing.
+    Subsec. (b)(2)(E). [Pub. L. 104–259][/us/pl/104/259], § 3(a)(4), (5), substituted “$6.25” for “$5.50” wherever appearing.
 
 ----------
 
@@ -130,24 +130,24 @@
 
 [/us/usc/t42/s2296a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2296a%E2%80%931
 [/us/usc/t42/s2296a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2296a%E2%80%932
-[/us/pl/102/486/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1001
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2946
-[/us/pl/104/259/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs3%2Fa
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
 [/us/stat/110/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3173
-[/us/pl/105/388/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs11%2Fa
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3484
-[/us/pl/106/317/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317%2Fs1
+[/us/pl/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317
 [/us/stat/114/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1277
-[/us/pl/107/222/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222%2Fs1%2Fa
+[/us/pl/107/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222
 [/us/stat/116/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1336
 [/us/pl/107/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222
-[/us/pl/106/317/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317%2Fs1%2F1
-[/us/pl/106/317/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317%2Fs1%2F2
-[/us/pl/106/317/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317%2Fs1%2F3
+[/us/pl/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317
+[/us/pl/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317
+[/us/pl/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F317
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
-[/us/pl/104/259/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs3%2Fa%2F1
-[/us/pl/104/259/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs3%2Fa%2F2
-[/us/pl/104/259/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs3%2Fa%2F3
-[/us/pl/104/259/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs3%2Fa%2F4
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
 
 

@@ -55,7 +55,7 @@
 
         A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under [section 8374 of this title][/us/usc/t42/s8374]), or a petition for an exemption (or permit) under this chapter (other than under [section 8374 of this title][/us/usc/t42/s8374]), shall be transmitted by the Secretary to the Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.
 
-    (g) __Repealed.__  __[__  __Pub. L. 100–42, § 1(c)(16)(E)__  __][/us/pl/100/42/s1/c/16/E]__  __,__  __May 21, 1987__  __,__  __[__  __101 Stat. 313__  __][/us/stat/101/313]__ 
+    (g) __Repealed.__  __[__  __Pub. L. 100–42__  __][/us/pl/100/42]__  __, § 1(c)(16)(E),__  __May 21, 1987__  __,__  __[__  __101 Stat. 313__  __][/us/stat/101/313]__ 
 
     (h) __Coordination with other provisions of law__ 
 
@@ -71,7 +71,7 @@
 
             (B) be considered to be superseded by any other provision of law unless such other provision does so in specific terms, referring to this chapter, and declaring that such provision supersedes, in whole or in part, the procedures of this chapter.
 
-([Pub. L. 95–620, title VII, § 701][/us/pl/95/620/s701], Nov. 9, 1978, [92 Stat. 3329][/us/stat/92/3329]; [Pub. L. 100–42, § 1(c)(16)][/us/pl/100/42/s1/c/16], May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 701, Nov. 9, 1978, [92 Stat. 3329][/us/stat/92/3329]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
 
  __References in Text__ 
 
@@ -83,21 +83,21 @@
 
  __Amendments__ 
 
-    1987—Subsec. (b). [Pub. L. 100–42, § 1(c)(16)(A)][/us/pl/100/42/s1/c/16/A], struck out “(other than under [section 8372 of this title][/us/usc/t42/s8372])” after “this chapter” and “or installation” after “powerplant”.
+    1987—Subsec. (b). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(A), struck out “(other than under [section 8372 of this title][/us/usc/t42/s8372])” after “this chapter” and “or installation” after “powerplant”.
 
-    Subsec. (c)(1). [Pub. L. 100–42, § 1(c)(16)(B)(i)][/us/pl/100/42/s1/c/16/B/i], (ii), struck out “or for any permit under [section 8375 of this title][/us/usc/t42/s8375]” after “this chapter” and “or permit” after “such exemption”.
+    Subsec. (c)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(B)(i), (ii), struck out “or for any permit under [section 8375 of this title][/us/usc/t42/s8375]” after “this chapter” and “or permit” after “such exemption”.
 
-    Subsec. (c)(2). [Pub. L. 100–42, § 1(c)(16)(B)(iii)][/us/pl/100/42/s1/c/16/B/iii], struck out “or, where appropriate, major fuel-burning installation” after “powerplant”.
+    Subsec. (c)(2). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(B)(iii), struck out “or, where appropriate, major fuel-burning installation” after “powerplant”.
 
-    Subsec. (c)(3). [Pub. L. 100–42, § 1(c)(16)(B)(i)][/us/pl/100/42/s1/c/16/B/i], struck out “or permit” after “exemption” in two places.
+    Subsec. (c)(3). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(B)(i), struck out “or permit” after “exemption” in two places.
 
-    Subsec. (c)(4). [Pub. L. 100–42, § 1(c)(16)(B)(iv)][/us/pl/100/42/s1/c/16/B/iv], struck out par. (4) which read as follows: “Any order for the approval of a system compliance plan under [section 8391 of this title][/us/usc/t42/s8391], and any petition for such an order, shall be treated for purposes of this subchapter the same as an order (or petition) for an exemption.”
+    Subsec. (c)(4). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(B)(iv), struck out par. (4) which read as follows: “Any order for the approval of a system compliance plan under [section 8391 of this title][/us/usc/t42/s8391], and any petition for such an order, shall be treated for purposes of this subchapter the same as an order (or petition) for an exemption.”
 
-    Subsec. (d)(1). [Pub. L. 100–42, § 1(c)(16)(C)][/us/pl/100/42/s1/c/16/C], struck out “(or permit)” after “an exemption” and “(other than under [section 8372 of this title][/us/usc/t42/s8372])” after “under this chapter”.
+    Subsec. (d)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(C), struck out “(or permit)” after “an exemption” and “(other than under [section 8372 of this title][/us/usc/t42/s8372])” after “under this chapter”.
 
-    Subsec. (f). [Pub. L. 100–42, § 1(c)(16)(D)][/us/pl/100/42/s1/c/16/D], struck out “8372 or” after “(other than under section” in two places.
+    Subsec. (f). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(D), struck out “8372 or” after “(other than under section” in two places.
 
-    Subsec. (g). [Pub. L. 100–42, § 1(c)(16)(E)][/us/pl/100/42/s1/c/16/E], struck out subsec. (g) which read as follows: “A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8372 or 8374 of this title) with respect to a major fuel-burning installation or a boiler subject to [section 8371 of this title][/us/usc/t42/s8371] or a petition by such installation or boiler for an exemption (or permit) under this chapter (other than under section 8372 or 8374 of this title), shall be transmitted by the Secretary to the Federal Trade Commission and the Secretary shall request such Commission to comment thereon within the period provided to the public. In any such case, the Federal Trade Commission shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.”
+    Subsec. (g). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(16)(E), struck out subsec. (g) which read as follows: “A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8372 or 8374 of this title) with respect to a major fuel-burning installation or a boiler subject to [section 8371 of this title][/us/usc/t42/s8371] or a petition by such installation or boiler for an exemption (or permit) under this chapter (other than under section 8372 or 8374 of this title), shall be transmitted by the Secretary to the Federal Trade Commission and the Secretary shall request such Commission to comment thereon within the period provided to the public. In any such case, the Federal Trade Commission shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.”
 
 ----------
 
@@ -110,13 +110,13 @@
 [/us/usc/t42/s8374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8374
 [/us/usc/t42/s8374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8374
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/100/42/s1/c/16/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FE
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/usc/t42/s7191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191
 [/us/usc/t42/s8374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8374
-[/us/pl/95/620/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs701
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3329
-[/us/pl/100/42/s1/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289
@@ -127,18 +127,18 @@
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F567
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
-[/us/pl/100/42/s1/c/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FA
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8372
-[/us/pl/100/42/s1/c/16/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FB%2Fi
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8375
-[/us/pl/100/42/s1/c/16/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FB%2Fiii
-[/us/pl/100/42/s1/c/16/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FB%2Fi
-[/us/pl/100/42/s1/c/16/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FB%2Fiv
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8391
-[/us/pl/100/42/s1/c/16/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FC
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8372
-[/us/pl/100/42/s1/c/16/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FD
-[/us/pl/100/42/s1/c/16/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F16%2FE
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8371
 
 

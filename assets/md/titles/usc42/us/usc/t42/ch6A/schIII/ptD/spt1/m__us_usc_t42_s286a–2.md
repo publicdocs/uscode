@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t42/ch6A/schIII/ptD/spt1/m__us_usc_t42_s286a–1.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII/ptD/spt2/m__us_usc_t42_ch6A_schIII_ptD_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs286a%E2%80%932)
 
-## § 286a–2. Repealed. [Pub. L. 109–482, title I, § 103(b)(39)][/us/pl/109/482/s103/b/39], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]
+## § 286a–2. Repealed. [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(39), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]
 
-    Section, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 468, as added [Pub. L. 103–43, title XIV, § 1402(a)][/us/pl/103/43/s1402/a], June 10, 1993, [107 Stat. 170][/us/stat/107/170], authorized appropriations for this part.
+    Section, [act July 1, 1944, ch. 373, title IV][/us/act/1944-07-01/ch373/tIV], § 468, as added [Pub. L. 103–43, title XIV][/us/pl/103/43/tXIV], § 1402(a), June 10, 1993, [107 Stat. 170][/us/stat/107/170], authorized appropriations for this part.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/109/482/s103/b/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F39
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1402%2Fa
+[/us/act/1944-07-01/ch373/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIV
+[/us/pl/103/43/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIV
 [/us/stat/107/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F170
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281

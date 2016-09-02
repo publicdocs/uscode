@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall, in consultation with the Administrator, issue regulations to carry out the provisions of this chapter with respect to new products imported or offered for importation.
 
-([Pub. L. 92–574, § 9][/us/pl/92/574/s9], Oct. 27, 1972, [86 Stat. 1242][/us/stat/86/1242].)
+([Pub. L. 92–574][/us/pl/92/574], § 9, Oct. 27, 1972, [86 Stat. 1242][/us/stat/86/1242].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/574/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs9
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1242
 
 

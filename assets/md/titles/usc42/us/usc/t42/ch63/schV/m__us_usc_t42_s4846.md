@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4843.md) | [Next](./../../../../..//us/usc/t42/ch63A/m__us_usc_t42_ch63A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4846)
+[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4844 _us_usc_t42_s4845.md) | [Next](./../../../../..//us/usc/t42/ch63A/m__us_usc_t42_ch63A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4846)
 
 ## § 4846. State laws superseded, and null and void
 
     It is hereby expressly declared that it is the intent of the Congress to supersede any and all laws of the States and units of local government insofar as they may now or hereafter provide for a requirement, prohibition, or standard relating to the lead content in paints or other similar surface-coating materials which differs from the provisions of this chapter or regulations issued pursuant to this chapter. Any law, regulation, or ordinance purporting to establish such different requirement, prohibition, or standard shall be null and void.
 
-([Pub. L. 91–695, title V, § 504][/us/pl/91/695/s504], formerly § 506, as added [Pub. L. 93–151, § 7(e)][/us/pl/93/151/s7/e], Nov. 9, 1973, [87 Stat. 568][/us/stat/87/568]; renumbered § 504, [Pub. L. 95–626, title II, § 208(b)][/us/pl/95/626/s208/b], Nov. 10, 1978, [92 Stat. 3588][/us/stat/92/3588].)
+([Pub. L. 91–695, title V][/us/pl/91/695/tV], § 504, formerly § 506, as added [Pub. L. 93–151][/us/pl/93/151], § 7(e), Nov. 9, 1973, [87 Stat. 568][/us/stat/87/568]; renumbered § 504, [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 208(b), Nov. 10, 1978, [92 Stat. 3588][/us/stat/92/3588].)
 
  __Prior Provisions__ 
 
@@ -25,15 +25,15 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4843.md) | [Next](./../../../../..//us/usc/t42/ch63A/m__us_usc_t42_ch63A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4846)
+[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4844 _us_usc_t42_s4845.md) | [Next](./../../../../..//us/usc/t42/ch63A/m__us_usc_t42_ch63A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4846)
 
 ----------
 ----------
 
-[/us/pl/91/695/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs504
-[/us/pl/93/151/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs7%2Fe
+[/us/pl/91/695/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2FtV
+[/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/stat/87/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F568
-[/us/pl/95/626/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs208%2Fb
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3588
 [/us/pl/91/695/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs504
 [/us/usc/t42/s4844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4844

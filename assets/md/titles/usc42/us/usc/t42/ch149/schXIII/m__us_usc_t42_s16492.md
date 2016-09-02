@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, or rule promulgated by the Environmental Protection Agency, vegetable oil made from soybeans and used in electric transformers as thermal insulation shall not be regulated as an oil identified under [section 2720(a)(1)(B) of title 33][/us/usc/t33/s2720/a/1/B].
 
-([Pub. L. 109–58, title XIV, § 1403][/us/pl/109/58/s1403], Aug. 8, 2005, [119 Stat. 1061][/us/stat/119/1061].)
+([Pub. L. 109–58, title XIV][/us/pl/109/58/tXIV], § 1403, Aug. 8, 2005, [119 Stat. 1061][/us/stat/119/1061].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s2720/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2720%2Fa%2F1%2FB
-[/us/pl/109/58/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1403
+[/us/pl/109/58/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIV
 [/us/stat/119/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1061
 
 

@@ -49,7 +49,7 @@
 
         The Secretary shall make honorary awards under this section if sufficient funds are not available for financial awards in any fiscal year.
 
-([Pub. L. 102–486, title XII, § 1204][/us/pl/102/486/s1204], Oct. 24, 1992, [106 Stat. 2961][/us/stat/106/2961].)
+([Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1204, Oct. 24, 1992, [106 Stat. 2961][/us/stat/106/2961].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s12005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12005
-[/us/pl/102/486/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1204
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2961
 
 

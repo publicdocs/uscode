@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall require the release or disclosure to any person or to the Commission of any classified national security information.
 
-([Pub. L. 97–425, § 7][/us/pl/97/425/s7], Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
+([Pub. L. 97–425][/us/pl/97/425], § 7, Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs7
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2205
 
 

@@ -33,7 +33,7 @@
 
             (C) any subsequent agreements between these agencies or other Federal agencies which address Federal resource recovery or conservation activities.
 
-([Pub. L. 89–272, title II, § 2001][/us/pl/89/272/s2001], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2804][/us/stat/90/2804]; amended [Pub. L. 96–482, § 4(c)][/us/pl/96/482/s4/c], Oct. 21, 1980, [94 Stat. 2335][/us/stat/94/2335]; [Pub. L. 96–510, title III, § 307(a)][/us/pl/96/510/s307/a], Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2001, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2804][/us/stat/90/2804]; amended [Pub. L. 96–482][/us/pl/96/482], § 4(c), Oct. 21, 1980, [94 Stat. 2335][/us/stat/94/2335]; [Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 307(a), Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–510, title III, § 307(c)][/us/pl/96/510/s307/c], Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810], provided that: 
+[Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 307(c), Dec. 11, 1980, [94 Stat. 2810][/us/stat/94/2810], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall become effective ninety days after the date of the enactment of this Act \[Dec. 11, 1980\].”
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/89/272/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2001
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2804
-[/us/pl/96/482/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs4%2Fc
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2335
-[/us/pl/96/510/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs307%2Fa
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2810
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2796
@@ -81,7 +81,7 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
-[/us/pl/96/510/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs307%2Fc
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2810
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

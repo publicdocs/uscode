@@ -29,7 +29,7 @@
 
         (3) recommend measures for increasing the availability of liability insurance to owners and contractors engaged in federally supported work.
 
-([Pub. L. 102–550, title X, § 1056][/us/pl/102/550/s1056], Oct. 28, 1992, [106 Stat. 3926][/us/stat/106/3926].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1056, Oct. 28, 1992, [106 Stat. 3926][/us/stat/106/3926].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/102/550/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1056
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3926
 
 

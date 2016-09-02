@@ -15,7 +15,7 @@
 
 ## § 8818. Reports
 
-    (a) __Repealed.__  __[__  __Pub. L. 99–386, title I, § 101(a)__  __][/us/pl/99/386/s101/a]__  __,__  __Aug. 22, 1986__  __,__  __[__  __100 Stat. 821__  __][/us/stat/100/821]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 99–386, title I__  __][/us/pl/99/386/tI]__  __, § 101(a),__  __Aug. 22, 1986__  __,__  __[__  __100 Stat. 821__  __][/us/stat/100/821]__ 
 
     (b) __Comprehensive list of loans, grants, etc.__ 
 
@@ -33,7 +33,7 @@
 
         (2) On or before September 30, 1990, the Office shall submit to the Congress and the President a report evaluating the overall impact made by the Office and describing the status of each biomass energy project which has received financial assistance under this subchapter from the Office. Such report shall contain a plan for the termination of the work of the Office.
 
-([Pub. L. 96–294, title II, § 218][/us/pl/96/294/s218], June 30, 1980, [94 Stat. 695][/us/stat/94/695]; [Pub. L. 99–386, title I, § 101(a)][/us/pl/99/386/s101/a], Aug. 22, 1986, [100 Stat. 821][/us/stat/100/821].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 218, June 30, 1980, [94 Stat. 695][/us/stat/94/695]; [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 101(a), Aug. 22, 1986, [100 Stat. 821][/us/stat/100/821].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/99/386/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs101%2Fa
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F821
-[/us/pl/96/294/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs218
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F695
-[/us/pl/99/386/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs101%2Fa
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F821
 [/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

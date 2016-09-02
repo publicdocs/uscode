@@ -41,11 +41,11 @@
 
         In any case where any Federal department or agency is carrying out or sponsoring any activity resulting in noise which the Administrator determines amounts to a public nuisance or is otherwise objectionable, such department or agency shall consult with the Administrator to determine possible means of abating such noise.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 402, as added [Pub. L. 91–604, § 14][/us/pl/91/604/s14], Dec. 31, 1970, [84 Stat. 1709][/us/stat/84/1709].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 402, as added [Pub. L. 91–604][/us/pl/91/604], § 14, Dec. 31, 1970, [84 Stat. 1709][/us/stat/84/1709].)
 
  __Codification__ 
 
-    Another section 402 of act July 14, 1955, as added by [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2585][/us/stat/104/2585], is classified to [section 7651a of this title][/us/usc/t42/s7651a].
+    Another section 402 of act July 14, 1955, as added by [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2585][/us/stat/104/2585], is classified to [section 7651a of this title][/us/usc/t42/s7651a].
 
     Section was formerly classified to [section 1858 of this title][/us/usc/t42/s1858].
 
@@ -57,9 +57,9 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs14
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1709
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2585
 [/us/usc/t42/s7651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651a
 [/us/usc/t42/s1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1858

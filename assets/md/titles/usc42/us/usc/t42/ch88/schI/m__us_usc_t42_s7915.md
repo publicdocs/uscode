@@ -31,7 +31,7 @@
 
         When the Secretary with the concurrence of the Commission determines removal of residual radioactive materials from a processing site on lands described in subsection (a) of this section to be appropriate, he shall provide, consistent with other applicable provisions of law, a site or sites for the permanent disposition and stabilization in a safe and environmentally sound manner of such residual radioactive materials. Such materials shall be transferred to the Secretary (without payment therefor by the Secretary) and permanently retained and maintained by the Secretary under the conditions established in a license issued by the Commission, subject to section 7914(f)(2) and (h) of this title.
 
-([Pub. L. 95–604, title I, § 105][/us/pl/95/604/s105], Nov. 8, 1978, [92 Stat. 3028][/us/stat/92/3028].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 105, Nov. 8, 1978, [92 Stat. 3028][/us/stat/92/3028].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t42/s7923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7923
 [/us/usc/t42/s7912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7912
 [/us/usc/t42/s7918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7918
-[/us/pl/95/604/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs105
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3028
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021

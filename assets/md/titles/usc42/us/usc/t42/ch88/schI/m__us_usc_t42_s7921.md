@@ -17,7 +17,7 @@
 
     In carrying out the provisions of this subchapter, including the designation of processing sites, establishing priorities for such sites, the selection of remedial actions, and the execution of cooperative agreements, the Secretary, the Administrator, and the Commission shall encourage public participation and, where appropriate, the Secretary shall hold public hearings relative to such matters in the States where processing sites and disposal sites are located.
 
-([Pub. L. 95–604, title I, § 111][/us/pl/95/604/s111], Nov. 8, 1978, [92 Stat. 3031][/us/stat/92/3031].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 111, Nov. 8, 1978, [92 Stat. 3031][/us/stat/92/3031].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/604/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs111
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3031
 
 

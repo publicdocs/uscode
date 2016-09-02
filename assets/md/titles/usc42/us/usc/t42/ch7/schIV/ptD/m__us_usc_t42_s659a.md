@@ -91,17 +91,17 @@
 
             The term “2007 Family Maintenance Convention” means the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 459A, as added [Pub. L. 104–193, title III, § 371(a)][/us/pl/104/193/s371/a], Aug. 22, 1996, [110 Stat. 2252][/us/stat/110/2252]; amended [Pub. L. 113–183, title III, § 301(d)][/us/pl/113/183/s301/d], Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 459A, as added [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 371(a), Aug. 22, 1996, [110 Stat. 2252][/us/stat/110/2252]; amended [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(d), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–183, § 301(d)(2)(A)][/us/pl/113/183/s301/d/2/A], substituted “foreign reciprocating countries or foreign treaty countries” for “foreign countries that are the subject of a declaration under this section” in introductory provisions.
+    2014—Subsec. (c). [Pub. L. 113–183][/us/pl/113/183], § 301(d)(2)(A), substituted “foreign reciprocating countries or foreign treaty countries” for “foreign countries that are the subject of a declaration under this section” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 113–183, § 301(d)(2)(B)][/us/pl/113/183/s301/d/2/B], inserted “and foreign treaty countries” after “foreign reciprocating countries”.
+    Subsec. (c)(2). [Pub. L. 113–183][/us/pl/113/183], § 301(d)(2)(B), inserted “and foreign treaty countries” after “foreign reciprocating countries”.
 
-    Subsec. (d). [Pub. L. 113–183, § 301(d)(3)][/us/pl/113/183/s301/d/3], substituted “foreign reciprocating countries or foreign treaty countries” for “the subject of a declaration pursuant to subsection (a)”.
+    Subsec. (d). [Pub. L. 113–183][/us/pl/113/183], § 301(d)(3), substituted “foreign reciprocating countries or foreign treaty countries” for “the subject of a declaration pursuant to subsection (a)”.
 
-    Subsec. (e). [Pub. L. 113–183, § 301(d)(1)][/us/pl/113/183/s301/d/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–183][/us/pl/113/183], § 301(d)(1), added subsec. (e).
 
  __Effective Date__ 
 
@@ -115,14 +115,14 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs371%2Fa
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2252
-[/us/pl/113/183/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fd
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
-[/us/pl/113/183/s301/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fd%2F2%2FA
-[/us/pl/113/183/s301/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fd%2F2%2FB
-[/us/pl/113/183/s301/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fd%2F3
-[/us/pl/113/183/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fd%2F1
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 

@@ -29,7 +29,7 @@
 
             The Attorney General and the Comptroller General of the United States, or a designee thereof, shall have access, for the purpose of audit and examination, to any book, document, or record of a State, or unit of local government within the State, that receives a grant under this subchapter, if, in the determination of the Attorney General, Comptroller General, or designee thereof, the book, document, or record is related to the receipt of the grant, or the use of the grant amount.
 
-([Pub. L. 90–351, title I, § 2805][/us/pl/90/351/s2805], as added [Pub. L. 106–561, § 2(c)(1)][/us/pl/106/561/s2/c/1], Dec. 21, 2000, [114 Stat. 2790][/us/stat/114/2790].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2805, as added [Pub. L. 106–561][/us/pl/106/561], § 2(c)(1), Dec. 21, 2000, [114 Stat. 2790][/us/stat/114/2790].)
 
 ----------
 
@@ -39,8 +39,8 @@
 ----------
 
 [/us/usc/t42/s3797k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797k
-[/us/pl/90/351/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2805
-[/us/pl/106/561/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs2%2Fc%2F1
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2790
 
 

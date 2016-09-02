@@ -309,7 +309,7 @@
 
             The term “physician” has the meaning given that term in [section 1395x(r) of this title][/us/usc/t42/s1395x/r].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128G, as added [Pub. L. 111–148, title VI, § 6002][/us/pl/111/148/s6002], Mar. 23, 2010, [124 Stat. 689][/us/stat/124/689].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128G, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6002, Mar. 23, 2010, [124 Stat. 689][/us/stat/124/689].)
 
 ----------
 
@@ -328,7 +328,7 @@
 [/us/usc/t42/s1395nn/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fc
 [/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6002
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F689
 
 

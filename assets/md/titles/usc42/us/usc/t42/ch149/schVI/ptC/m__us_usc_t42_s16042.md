@@ -17,7 +17,7 @@
 
     Before issuing a license for a utilization facility, the Nuclear Regulatory Commission shall consult with the Department of Homeland Security concerning the potential vulnerabilities of the location of the proposed facility to terrorist attack.
 
-([Pub. L. 109–58, title VI, § 657][/us/pl/109/58/s657], Aug. 8, 2005, [119 Stat. 814][/us/stat/119/814].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 657, Aug. 8, 2005, [119 Stat. 814][/us/stat/119/814].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs657
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F814
 
 

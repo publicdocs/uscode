@@ -17,7 +17,7 @@
 
     This part shall not apply in a State if the chief executive officer of the State certifies to the Secretary that the law of the State is substantially consistent with this part.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695I, as added [Pub. L. 111–87, § 13][/us/pl/111/87/s13], Oct. 30, 2009, [123 Stat. 2903][/us/stat/123/2903].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695I, as added [Pub. L. 111–87][/us/pl/111/87], § 13, Oct. 30, 2009, [123 Stat. 2903][/us/stat/123/2903].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/87/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs13
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2903
 
 

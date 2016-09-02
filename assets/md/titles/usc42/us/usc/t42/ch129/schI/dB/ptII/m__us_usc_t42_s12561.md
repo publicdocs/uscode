@@ -171,7 +171,7 @@
 
         A participant in a program funded under this part shall be eligible for the national service educational award described in division D of this subchapter, if the participant served in an approved national service position.
 
-([Pub. L. 101–610, title I, § 118][/us/pl/101/610/s118], formerly § 119, as added [Pub. L. 103–82, title I, § 103(b)][/us/pl/103/82/s103/b], Sept. 21, 1993, [107 Stat. 837][/us/stat/107/837]; renumbered § 118 and amended [Pub. L. 111–13, title I, § 1202][/us/pl/111/13/s1202], Apr. 21, 2009, [123 Stat. 1474][/us/stat/123/1474].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 118, formerly § 119, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(b), Sept. 21, 1993, [107 Stat. 837][/us/stat/107/837]; renumbered § 118 and amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1202, Apr. 21, 2009, [123 Stat. 1474][/us/stat/123/1474].)
 
  __References in Text__ 
 
@@ -185,19 +185,19 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1202(b)(1)][/us/pl/111/13/s1202/b/1], inserted “through service-learning” after “community service programs”.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1202(b)(1), inserted “through service-learning” after “community service programs”.
 
-    Subsec. (b). [Pub. L. 111–13, § 1202(b)(2)(A)][/us/pl/111/13/s1202/b/2/A], substituted “consortium” for “combination” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1202(b)(2)(A), substituted “consortium” for “combination” in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–13, § 1202(b)(2)(B)][/us/pl/111/13/s1202/b/2/B], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 111–13][/us/pl/111/13], § 1202(b)(2)(B), added subpar. (C).
 
-    Subsec. (b)(3). [Pub. L. 111–13, § 1202(b)(2)(C)(i)][/us/pl/111/13/s1202/b/2/C/i], substituted “institutions of higher education and their faculty” for “teachers at the elementary, secondary, and postsecondary levels” in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 111–13][/us/pl/111/13], § 1202(b)(2)(C)(i), substituted “institutions of higher education and their faculty” for “teachers at the elementary, secondary, and postsecondary levels” in introductory provisions.
 
-    Subsec. (b)(3)(A). [Pub. L. 111–13, § 1202(b)(2)(C)(ii)][/us/pl/111/13/s1202/b/2/C/ii], substituted “curricula of the institution to strengthen the instructional capacity of teachers to provide service-learning at the elementary and secondary levels;” for “education of the institution; and”.
+    Subsec. (b)(3)(A). [Pub. L. 111–13][/us/pl/111/13], § 1202(b)(2)(C)(ii), substituted “curricula of the institution to strengthen the instructional capacity of teachers to provide service-learning at the elementary and secondary levels;” for “education of the institution; and”.
 
-    Subsec. (b)(3)(B), (C). [Pub. L. 111–13, § 1202(b)(2)(C)(iii)][/us/pl/111/13/s1202/b/2/C/iii], (iv), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (b)(3)(B), (C). [Pub. L. 111–13][/us/pl/111/13], § 1202(b)(2)(C)(iii), (iv), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsecs. (c) to (i). [Pub. L. 111–13, § 1202(b)(3)][/us/pl/111/13/s1202/b/3]–(5), added subsecs. (c) to (h), redesignated former subsec. (f) as (i), and struck out former subsecs. (c), (d), (e), and (g) which related to Federal share of the cost, grant application, applicant priority, and definition of “student”, respectively.
+    Subsecs. (c) to (i). [Pub. L. 111–13][/us/pl/111/13], § 1202(b)(3)–(5), added subsecs. (c) to (h), redesignated former subsec. (f) as (i), and struck out former subsecs. (c), (d), (e), and (g) which related to Federal share of the cost, grant application, applicant priority, and definition of “student”, respectively.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -220,10 +220,10 @@
 [/us/usc/t42/s2753/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2753%2Fb%2F2%2FA
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t42/s12511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12511
-[/us/pl/101/610/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs118
-[/us/pl/103/82/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F837
-[/us/pl/111/13/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1474
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -234,13 +234,13 @@
 [/us/pl/101/610/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs118
 [/us/usc/t42/s12531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12531
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/111/13/s1202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202%2Fb%2F1
-[/us/pl/111/13/s1202/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202%2Fb%2F2%2FA
-[/us/pl/111/13/s1202/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202%2Fb%2F2%2FB
-[/us/pl/111/13/s1202/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202%2Fb%2F2%2FC%2Fi
-[/us/pl/111/13/s1202/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202%2Fb%2F2%2FC%2Fii
-[/us/pl/111/13/s1202/b/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202%2Fb%2F2%2FC%2Fiii
-[/us/pl/111/13/s1202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1202%2Fb%2F3
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -83,23 +83,23 @@
 
         In carrying out a program under subsection (a) of this section, the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3164][/us/pl/101/510/s3164], Nov. 5, 1990, [104 Stat. 1841][/us/stat/104/1841]; [Pub. L. 109–58, title XI][/us/pl/109/58], §§ 1102(a), 1105(a), Aug. 8, 2005, [119 Stat. 938][/us/stat/119/938], 939; [Pub. L. 110–69, title V, § 5003(a)][/us/pl/110/69/s5003/a], Aug. 9, 2007, [121 Stat. 601][/us/stat/121/601].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3164, Nov. 5, 1990, [104 Stat. 1841][/us/stat/104/1841]; [Pub. L. 109–58, title XI][/us/pl/109/58/tXI], §§ 1102(a), 1105(a), Aug. 8, 2005, [119 Stat. 938][/us/stat/119/938], 939; [Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5003(a), Aug. 9, 2007, [121 Stat. 601][/us/stat/121/601].)
 
  __Amendments__ 
 
-    2007—Subsecs. (b), (c). [Pub. L. 110–69, § 5003(a)(1)][/us/pl/110/69/s5003/a/1], (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    2007—Subsecs. (b), (c). [Pub. L. 110–69][/us/pl/110/69], § 5003(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 110–69, § 5003(a)(3)][/us/pl/110/69/s5003/a/3], added subsec. (d) and struck out former subsec. (d). Former text read as follows: “The Secretary shall use not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for fiscal year 2006 and each fiscal year thereafter to carry out activities authorized by this subchapter.”
+    Subsec. (d). [Pub. L. 110–69][/us/pl/110/69], § 5003(a)(3), added subsec. (d) and struck out former subsec. (d). Former text read as follows: “The Secretary shall use not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for fiscal year 2006 and each fiscal year thereafter to carry out activities authorized by this subchapter.”
 
-    [Pub. L. 110–69, § 5003(a)(1)][/us/pl/110/69/s5003/a/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
+    [Pub. L. 110–69][/us/pl/110/69], § 5003(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (e). [Pub. L. 110–69, § 5003(a)(3)][/us/pl/110/69/s5003/a/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–69][/us/pl/110/69], § 5003(a)(3), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 110–69, § 5003(a)(1)][/us/pl/110/69/s5003/a/1], redesignated subsec. (d) as (f).
+    Subsec. (f). [Pub. L. 110–69][/us/pl/110/69], § 5003(a)(1), redesignated subsec. (d) as (f).
 
-    2005—Subsec. (c). [Pub. L. 109–58, § 1102(a)][/us/pl/109/58/s1102/a], added subsec. (c).
+    2005—Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 1102(a), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 109–58, § 1105(a)][/us/pl/109/58/s1105/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 1105(a), added subsec. (d).
 
 ----------
 
@@ -108,18 +108,18 @@
 ----------
 ----------
 
-[/us/pl/101/510/s3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3164
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1841
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXI
 [/us/stat/119/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F938
-[/us/pl/110/69/s5003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fa
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F601
-[/us/pl/110/69/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fa%2F1
-[/us/pl/110/69/s5003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fa%2F3
-[/us/pl/110/69/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fa%2F1
-[/us/pl/110/69/s5003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fa%2F3
-[/us/pl/110/69/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fa%2F1
-[/us/pl/109/58/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1102%2Fa
-[/us/pl/109/58/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1105%2Fa
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

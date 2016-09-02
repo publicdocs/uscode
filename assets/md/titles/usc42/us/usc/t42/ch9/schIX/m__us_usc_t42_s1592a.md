@@ -27,11 +27,11 @@
 
         When the Secretary of Housing and Urban Development determines that any housing provided under this subchapter is no longer required for persons engaged in national defense activities, preference in admission to occupancy thereof shall be given to veterans pending its ultimate sale or disposition in accordance with the provisions of this subchapter. As among veterans, preference in admission to occupancy shall be given to disabled veterans whose disability has been determined by the Secretary of Veterans Affairs to be service-connected.
 
-([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 302, [65 Stat. 303][/us/stat/65/303]; [July 14, 1952, ch. 723, § 5][/us/act/1952-07-14/ch723/s5], [66 Stat. 602][/us/stat/66/602]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 806, [68 Stat. 645][/us/stat/68/645]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 102–54, § 13(q)(7)(A)][/us/pl/102/54/s13/q/7/A], June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
+([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 302, [65 Stat. 303][/us/stat/65/303]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 5, [66 Stat. 602][/us/stat/66/602]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 806, [68 Stat. 645][/us/stat/68/645]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(7)(A), June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
 
  __Codification__ 
 
-    In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -56,17 +56,17 @@
 [/us/usc/t42/s1592e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1592e
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F303
-[/us/act/1952-07-14/ch723/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs5
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F602
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F645
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
-[/us/pl/102/54/s13/q/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F7%2FA
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581

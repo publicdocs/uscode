@@ -17,7 +17,7 @@
 
     For the purpose of placing Federal participants in a family unity demonstration project under [section 13901 of this title][/us/usc/t42/s13901], the Attorney General shall consult with the Secretary of Health and Human Services regarding the development and operation of the project.
 
-([Pub. L. 103–322, title III, § 31922][/us/pl/103/322/s31922], Sept. 13, 1994, [108 Stat. 1896][/us/stat/108/1896].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31922, Sept. 13, 1994, [108 Stat. 1896][/us/stat/108/1896].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s13901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13901
-[/us/pl/103/322/s31922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31922
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1896
 
 

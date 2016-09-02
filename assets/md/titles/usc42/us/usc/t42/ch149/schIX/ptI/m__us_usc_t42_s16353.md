@@ -37,7 +37,7 @@
 
         It is the sense of Congress that research, development, demonstration, and commercial application activities carried out by the Department should be awarded using competitive procedures, to the maximum extent practicable.
 
-([Pub. L. 109–58, title IX, § 989][/us/pl/109/58/s989], Aug. 8, 2005, [119 Stat. 911][/us/stat/119/911].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 989, Aug. 8, 2005, [119 Stat. 911][/us/stat/119/911].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs989
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F911
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594

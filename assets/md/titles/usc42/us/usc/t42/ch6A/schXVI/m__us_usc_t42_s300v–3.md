@@ -19,7 +19,7 @@
 
     (b) The Commission shall be subject to the Federal Advisory Committee Act, except that, under section 14(a)(1)(B) of such Act, the Commission shall terminate on December 31, 1982.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVIII, § 1804, as added [Pub. L. 95–622, title III, § 301][/us/pl/95/622/s301], Nov. 9, 1978, [92 Stat. 3441][/us/stat/92/3441].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVIII, § 1804, as added [Pub. L. 95–622, title III][/us/pl/95/622/tIII], § 301, Nov. 9, 1978, [92 Stat. 3441][/us/stat/92/3441].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/622/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs301
+[/us/pl/95/622/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtIII
 [/us/stat/92/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3441
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

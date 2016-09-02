@@ -17,7 +17,7 @@
 
     The Board of Directors shall issue any regulations necessary to carry out this subchapter.
 
-([Pub. L. 101–625, title III, § 306][/us/pl/101/625/s306], Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 306, Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs306
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4133
 
 

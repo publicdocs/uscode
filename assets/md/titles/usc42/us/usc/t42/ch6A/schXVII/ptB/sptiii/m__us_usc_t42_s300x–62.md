@@ -17,7 +17,7 @@
 
     Any amounts paid to a State for a fiscal year under section 300x or 300x–21 of this title shall be available for obligation and expenditure until the end of the fiscal year following the fiscal year for which the amounts were paid.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1952, as added [Pub. L. 102–321, title II, § 203(a)][/us/pl/102/321/s203/a], July 10, 1992, [106 Stat. 409][/us/stat/106/409]; amended [Pub. L. 106–310, div. B, title XXXIV, § 3403(b)][/us/pl/106/310/s3403/b], Oct. 17, 2000, [114 Stat. 1220][/us/stat/114/1220].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1952, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 203(a), July 10, 1992, [106 Stat. 409][/us/stat/106/409]; amended [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3403(b), Oct. 17, 2000, [114 Stat. 1220][/us/stat/114/1220].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fa
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F409
-[/us/pl/106/310/s3403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3403%2Fb
+[/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1220
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 

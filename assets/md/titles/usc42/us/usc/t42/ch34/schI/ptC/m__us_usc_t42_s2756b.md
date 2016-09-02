@@ -91,7 +91,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title IV, § 448][/us/pl/89/329/s448], as added [Pub. L. 102–325, title IV, § 447][/us/pl/102/325/s447], July 23, 1992, [106 Stat. 567][/us/stat/106/567]; amended [Pub. L. 105–244, title IV, § 445][/us/pl/105/244/s445], Oct. 7, 1998, [112 Stat. 1714][/us/stat/112/1714]; [Pub. L. 110–315, title IV, § 447][/us/pl/110/315/s447], Aug. 14, 2008, [122 Stat. 3260][/us/stat/122/3260].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 448, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 447, July 23, 1992, [106 Stat. 567][/us/stat/106/567]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 445, Oct. 7, 1998, [112 Stat. 1714][/us/stat/112/1714]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 447, Aug. 14, 2008, [122 Stat. 3260][/us/stat/122/3260].)
 
  __References in Text__ 
 
@@ -99,19 +99,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 2756b, [Pub. L. 89–329, title IV, § 448][/us/pl/89/329/s448], as added [Pub. L. 96–374, title IV, § 437][/us/pl/96/374/s437], Oct. 3, 1980, [94 Stat. 1436][/us/stat/94/1436], related to work study programs for community service-learning, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498]. See [section 2756a of this title][/us/usc/t42/s2756a].
+    A prior section 2756b, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 448, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 437, Oct. 3, 1980, [94 Stat. 1436][/us/stat/94/1436], related to work study programs for community service-learning, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498]. See [section 2756a of this title][/us/usc/t42/s2756a].
 
  __Amendments__ 
 
-    2008—Subsecs. (a), (b)(2)(A), (D). [Pub. L. 110–315, § 447(1)][/us/pl/110/315/s447/1], substituted “work-learning-service” for “work-learning” wherever appearing.
+    2008—Subsecs. (a), (b)(2)(A), (D). [Pub. L. 110–315][/us/pl/110/315], § 447(1), substituted “work-learning-service” for “work-learning” wherever appearing.
 
-    Subsec. (e). [Pub. L. 110–315, § 447(2)][/us/pl/110/315/s447/2], added subsec. (e) and struck out former subsec. (e) which defined “work-college” and “comprehensive student work-learning program”.
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 447(2), added subsec. (e) and struck out former subsec. (e) which defined “work-college” and “comprehensive student work-learning program”.
 
-    Subsec. (f). [Pub. L. 110–315, § 447(3)][/us/pl/110/315/s447/3], substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+    Subsec. (f). [Pub. L. 110–315][/us/pl/110/315], § 447(3), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
-    1998—Subsec. (b)(2)(E), (F). [Pub. L. 105–244, § 445(1)][/us/pl/105/244/s445/1], added subpars. (E) and (F).
+    1998—Subsec. (b)(2)(E), (F). [Pub. L. 105–244][/us/pl/105/244], § 445(1), added subpars. (E) and (F).
 
-    Subsec. (f). [Pub. L. 105–244, § 445(2)][/us/pl/105/244/s445/2], substituted “1999” for “1993”.
+    Subsec. (f). [Pub. L. 105–244][/us/pl/105/244], § 445(2), substituted “1999” for “1993”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -130,26 +130,26 @@
 
 [/us/usc/t20/s1087aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa
 [/us/usc/t20/s1087kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087kk
-[/us/pl/89/329/s448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs448
-[/us/pl/102/325/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs447
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F567
-[/us/pl/105/244/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs445
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1714
-[/us/pl/110/315/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs447
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3260
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/89/329/s448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs448
-[/us/pl/96/374/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs437
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1436
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/usc/t42/s2756a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756a
-[/us/pl/110/315/s447/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs447%2F1
-[/us/pl/110/315/s447/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs447%2F2
-[/us/pl/110/315/s447/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs447%2F3
-[/us/pl/105/244/s445/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs445%2F1
-[/us/pl/105/244/s445/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs445%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

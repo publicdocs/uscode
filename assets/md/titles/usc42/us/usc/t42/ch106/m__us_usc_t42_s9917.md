@@ -61,7 +61,7 @@
 
             Of the funds reserved under [section 9903(b)(3) of this title][/us/usc/t42/s9903/b/3], not more than $350,000 shall be available to carry out the reporting requirements contained in paragraph (2).
 
-([Pub. L. 97–35, title VI, § 678E][/us/pl/97/35/s678E], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2746][/us/stat/112/2746].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 678E, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2746][/us/stat/112/2746].)
 
  __Change of Name__ 
 
@@ -77,8 +77,8 @@
 [/us/usc/t42/s9915/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9915%2Fa%2F3
 [/us/usc/t42/s9908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9908
 [/us/usc/t42/s9903/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9903%2Fb%2F3
-[/us/pl/97/35/s678E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs678E
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2746
 
 

@@ -33,7 +33,7 @@
 
         (2) if the Corporation did not carry out any activities to implement this section, an explanation of the reasons therefor.
 
-([Pub. L. 110–140, title IX, § 914][/us/pl/110/140/s914], Dec. 19, 2007, [121 Stat. 1727][/us/stat/121/1727].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 914, Dec. 19, 2007, [121 Stat. 1727][/us/stat/121/1727].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t22/s2200a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200a
-[/us/pl/110/140/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs914
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1727
 
 

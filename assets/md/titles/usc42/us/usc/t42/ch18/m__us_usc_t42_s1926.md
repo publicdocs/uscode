@@ -17,7 +17,7 @@
 
     It shall also be the duty of the Department of Justice to list in its annual budget request the sum of money necessary to carry out the provisions of this chapter, which sum is authorized in a sum not to exceed $5,000 per annum.
 
-([Aug. 3, 1950, ch. 520, § 6][/us/act/1950-08-03/ch520/s6], [64 Stat. 398][/us/stat/64/398].)
+([Aug. 3, 1950, ch. 520][/us/act/1950-08-03/ch520], § 6, [64 Stat. 398][/us/stat/64/398].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-03/ch520/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520%2Fs6
+[/us/act/1950-08-03/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520
 [/us/stat/64/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F398
 
 

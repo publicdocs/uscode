@@ -23,7 +23,7 @@
 
         For purposes of this section the term “odd-even fuel purchase plan” means any motor fuel sales restriction under which a person may purchase motor fuel for use in any vehicle only on days (or other periods of time) determined on the basis of a number or letter appearing on the license plate of that vehicle (or on any similar basis).
 
-([Pub. L. 96–102, title II, § 222][/us/pl/96/102/s222], Nov. 5, 1979, [93 Stat. 767][/us/stat/93/767].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 222, Nov. 5, 1979, [93 Stat. 767][/us/stat/93/767].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/102/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs222
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F767
 
 

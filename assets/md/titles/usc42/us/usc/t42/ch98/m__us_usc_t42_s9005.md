@@ -35,7 +35,7 @@
 
         As part of the competitive procurement initiative for design and construction of the pilot and demonstration projects authorized in [section 9009(c) of this title][/us/usc/t42/s9009/c], each respondent shall include in its proposal (1) a plan leading to a full-scale, first-of-a-kind facility based on a proposed demonstration system; and (2) the financial and other contributions the respondent will make toward meeting the national goals.
 
-([Pub. L. 96–310, § 6][/us/pl/96/310/s6], July 17, 1980, [94 Stat. 944][/us/stat/94/944].)
+([Pub. L. 96–310][/us/pl/96/310], § 6, July 17, 1980, [94 Stat. 944][/us/stat/94/944].)
 
 ----------
 
@@ -48,7 +48,7 @@
 [/us/usc/t42/s9001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9001%2Fb%2F2
 [/us/usc/t42/s9001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9001%2Fb%2F3
 [/us/usc/t42/s9009/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9009%2Fc
-[/us/pl/96/310/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs6
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F944
 
 

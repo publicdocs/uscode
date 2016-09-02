@@ -457,7 +457,7 @@
 
             (C) necessitates medical or surgical intervention to preclude permanent impairment of a body function or permanent damage to a body structure.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–3, as added [Pub. L. 109–148, div. C, § 2][/us/pl/109/148/s2], Dec. 30, 2005, [119 Stat. 2818][/us/stat/119/2818]; amended [Pub. L. 113–5, title IV, § 402(g)(2)][/us/pl/113/5/s402/g/2], (3), Mar. 13, 2013, [127 Stat. 196][/us/stat/127/196].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–3, as added [Pub. L. 109–148, div. C][/us/pl/109/148/dC], § 2, Dec. 30, 2005, [119 Stat. 2818][/us/stat/119/2818]; amended [Pub. L. 113–5, title IV][/us/pl/113/5/tIV], § 402(g)(2), (3), Mar. 13, 2013, [127 Stat. 196][/us/stat/127/196].)
 
  __References in Text__ 
 
@@ -469,11 +469,11 @@
 
  __Amendments__ 
 
-    2013—Subsec. (i)(1)(C). [Pub. L. 113–5, § 402(g)(3)(A)][/us/pl/113/5/s402/g/3/A], inserted “, 564A, or 564B” after “564”.
+    2013—Subsec. (i)(1)(C). [Pub. L. 113–5][/us/pl/113/5], § 402(g)(3)(A), inserted “, 564A, or 564B” after “564”.
 
-    Subsec. (i)(7)(A)(iii). [Pub. L. 113–5, § 402(g)(2)][/us/pl/113/5/s402/g/2], added cl. (iii).
+    Subsec. (i)(7)(A)(iii). [Pub. L. 113–5][/us/pl/113/5], § 402(g)(2), added cl. (iii).
 
-    Subsec. (i)(7)(B)(iii). [Pub. L. 113–5, § 402(g)(3)(B)][/us/pl/113/5/s402/g/3/B], inserted “, 564A, or 564B” after “564”.
+    Subsec. (i)(7)(B)(iii). [Pub. L. 113–5][/us/pl/113/5], § 402(g)(3)(B), inserted “, 564A, or 564B” after “564”.
 
 ----------
 
@@ -512,9 +512,9 @@
 [/us/usc/t21/s360bbb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933
 [/us/usc/t42/s247d–6b/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b%2Fc%2F1%2FB
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs2
+[/us/pl/109/148/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdC
 [/us/stat/119/2818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2818
-[/us/pl/113/5/s402/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fg%2F2
+[/us/pl/113/5/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIV
 [/us/stat/127/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F196
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -524,8 +524,8 @@
 [/us/usc/t42/s247d–6e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936e
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/113/5/s402/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fg%2F3%2FA
-[/us/pl/113/5/s402/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fg%2F2
-[/us/pl/113/5/s402/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fg%2F3%2FB
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 
 

@@ -31,7 +31,7 @@
 
         (4) a detailed description of how the program will avoid problems enumerated in Government Accountability Office reports on the Clean Coal Technology Program, including problems that have resulted in unspent funds and projects that failed either financially or scientifically.
 
-([Pub. L. 109–58, title IV, § 401][/us/pl/109/58/s401], Aug. 8, 2005, [119 Stat. 749][/us/stat/119/749].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 401, Aug. 8, 2005, [119 Stat. 749][/us/stat/119/749].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs401
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F749
 
 

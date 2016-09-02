@@ -31,7 +31,7 @@
 
         Any individual who knowingly violates any order or regulation issued under this chapter shall be subject to a civil penalty of not more than $5,000 for each violation.
 
-([Pub. L. 93–288, title III, § 314][/us/pl/93/288/s314], as added [Pub. L. 100–707, title I, § 105(k)][/us/pl/100/707/s105/k], Nov. 23, 1988, [102 Stat. 4694][/us/stat/102/4694].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 314, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(k), Nov. 23, 1988, [102 Stat. 4694][/us/stat/102/4694].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5157, [Pub. L. 93–288, title III, § 317][/us/pl/93/288/s317], May 22, 1974, [88 Stat. 152][/us/stat/88/152], related to criminal and civil penalties, prior to repeal by [Pub. L. 100–707, § 105(k)][/us/pl/100/707/s105/k].
+    A prior section 5157, [Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 317, May 22, 1974, [88 Stat. 152][/us/stat/88/152], related to criminal and civil penalties, prior to repeal by [Pub. L. 100–707][/us/pl/100/707], § 105(k).
 
     A prior [section 314 of Pub. L. 93–288][/us/pl/93/288/s314] was classified to [section 5154 of this title][/us/usc/t42/s5154] prior to repeal by [Pub. L. 100–707][/us/pl/100/707].
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/93/288/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs314
-[/us/pl/100/707/s105/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fk
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4694
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/93/288/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs317
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F152
-[/us/pl/100/707/s105/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fk
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/93/288/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs314
 [/us/usc/t42/s5154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5154
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707

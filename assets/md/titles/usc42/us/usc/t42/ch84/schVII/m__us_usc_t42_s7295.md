@@ -47,7 +47,7 @@
 
         If, before October 1, 1977, any department or agency, or officer thereof in his official capacity, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official, then such suit shall be continued with the Secretary or other official, as the case may be, substituted.
 
-([Pub. L. 95–91, title VIII, § 705][/us/pl/95/91/s705], Aug. 4, 1977, [91 Stat. 606][/us/stat/91/606].)
+([Pub. L. 95–91, title VIII][/us/pl/95/91/tVIII], § 705, Aug. 4, 1977, [91 Stat. 606][/us/stat/91/606].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs705
+[/us/pl/95/91/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVIII
 [/us/stat/91/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F606
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

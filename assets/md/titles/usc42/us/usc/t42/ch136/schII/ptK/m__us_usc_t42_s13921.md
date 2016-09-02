@@ -47,15 +47,15 @@
 
         (5) $20,000,000 for fiscal year 2010.
 
-([Pub. L. 103–322, title III, § 32401][/us/pl/103/322/s32401], Sept. 13, 1994, [108 Stat. 1902][/us/stat/108/1902]; [Pub. L. 107–296, title XI, § 1112(p)][/us/pl/107/296/s1112/p], Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278]; [Pub. L. 109–162, title XI, § 1188][/us/pl/109/162/s1188], Jan. 5, 2006, [119 Stat. 3128][/us/stat/119/3128].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 32401, Sept. 13, 1994, [108 Stat. 1902][/us/stat/108/1902]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(p), Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1188, Jan. 5, 2006, [119 Stat. 3128][/us/stat/119/3128].)
 
  __Amendments__ 
 
     2006—Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], which directed the amendment of section 32401(b) of the Violent Crime Control Act of 1994 by adding pars. (1) to (5) and striking out former pars. (1) to (6), was executed by making the amendments to this section, which is section 32401(b) of the Violent Crime Control and Law Enforcement Act of 1994, to reflect the probable intent of Congress. Former pars. (1) to (6) authorized appropriations for fiscal years 1995 through 2000.
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1112(p)(1)][/us/pl/107/296/s1112/p/1], substituted “Attorney General” for “Secretary of the Treasury” wherever appearing.
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1112(p)(1), substituted “Attorney General” for “Secretary of the Treasury” wherever appearing.
 
-    Subsec. (a)(3)(B). [Pub. L. 107–296, § 1112(p)(2)][/us/pl/107/296/s1112/p/2], substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco and Firearms”.
+    Subsec. (a)(3)(B). [Pub. L. 107–296][/us/pl/107/296], § 1112(p)(2), substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco and Firearms”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -68,15 +68,15 @@
 ----------
 ----------
 
-[/us/pl/103/322/s32401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32401
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1902
-[/us/pl/107/296/s1112/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fp
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2278
-[/us/pl/109/162/s1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1188
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3128
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/107/296/s1112/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fp%2F1
-[/us/pl/107/296/s1112/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fp%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

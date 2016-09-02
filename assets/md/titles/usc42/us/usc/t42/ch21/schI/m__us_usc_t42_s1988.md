@@ -27,7 +27,7 @@
 
         In awarding an attorney’s fee under subsection (b) of this section in any action or proceeding to enforce a provision of section 1981 or 1981a of this title, the court, in its discretion, may include expert fees as part of the attorney’s fee.
 
-(R.S. § 722; [Pub. L. 94–559, § 2][/us/pl/94/559/s2], Oct. 19, 1976, [90 Stat. 2641][/us/stat/90/2641]; [Pub. L. 96–481, title II, § 205(c)][/us/pl/96/481/s205/c], Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330]; [Pub. L. 102–166, title I][/us/pl/102/166], §§ 103, 113(a), Nov. 21, 1991, [105 Stat. 1074][/us/stat/105/1074], 1079; [Pub. L. 103–141, § 4(a)][/us/pl/103/141/s4/a], Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489]; [Pub. L. 103–322, title IV, § 40303][/us/pl/103/322/s40303], Sept. 13, 1994, [108 Stat. 1942][/us/stat/108/1942]; [Pub. L. 104–317, title III, § 309(b)][/us/pl/104/317/s309/b], Oct. 19, 1996, [110 Stat. 3853][/us/stat/110/3853]; [Pub. L. 106–274, § 4(d)][/us/pl/106/274/s4/d], Sept. 22, 2000, [114 Stat. 804][/us/stat/114/804].)
+(R.S. § 722; [Pub. L. 94–559][/us/pl/94/559], § 2, Oct. 19, 1976, [90 Stat. 2641][/us/stat/90/2641]; [Pub. L. 96–481, title II][/us/pl/96/481/tII], § 205(c), Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], §§ 103, 113(a), Nov. 21, 1991, [105 Stat. 1074][/us/stat/105/1074], 1079; [Pub. L. 103–141][/us/pl/103/141], § 4(a), Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40303, Sept. 13, 1994, [108 Stat. 1942][/us/stat/108/1942]; [Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 309(b), Oct. 19, 1996, [110 Stat. 3853][/us/stat/110/3853]; [Pub. L. 106–274][/us/pl/106/274], § 4(d), Sept. 22, 2000, [114 Stat. 804][/us/stat/114/804].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Codification__ 
 
-    R.S. § 722 derived from acts [Apr. 9, 1866, ch. 31, § 3][/us/act/1866-04-09/ch31/s3], [14 Stat. 27][/us/stat/14/27]; [May 31, 1870, ch. 114, § 18][/us/act/1870-05-31/ch114/s18], [16 Stat. 144][/us/stat/16/144].
+    R.S. § 722 derived from acts [Apr. 9, 1866, ch. 31][/us/act/1866-04-09/ch31], § 3, [14 Stat. 27][/us/stat/14/27]; [May 31, 1870, ch. 114][/us/act/1870-05-31/ch114], § 18, [16 Stat. 144][/us/stat/16/144].
 
-    Section was formerly classified to [section 729 of Title 28][/us/usc/t28/s729] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 869][/us/stat/62/869].
+    Section was formerly classified to [section 729 of Title 28][/us/usc/t28/s729] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 869][/us/stat/62/869].
 
  __Amendments__ 
 
@@ -61,11 +61,11 @@
 
     1993—Subsec. (b). [Pub. L. 103–141][/us/pl/103/141] inserted “the Religious Freedom Restoration Act of 1993,” before “or title VI”.
 
-    1991—Subsec. (a). [Pub. L. 102–166, § 113(a)(1)][/us/pl/102/166/s113/a/1], designated first sentence of existing provisions as subsec. (a).
+    1991—Subsec. (a). [Pub. L. 102–166][/us/pl/102/166], § 113(a)(1), designated first sentence of existing provisions as subsec. (a).
 
     Subsec. (b). [Pub. L. 102–166][/us/pl/102/166], §§ 103, 113(a)(1), designated second sentence of existing provisions as subsec. (b) and inserted “1981a,” after “1981,”.
 
-    Subsec. (c). [Pub. L. 102–166, § 113(a)(2)][/us/pl/102/166/s113/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–166][/us/pl/102/166], § 113(a)(2), added subsec. (c).
 
     1980—[Pub. L. 96–481][/us/pl/96/481] struck out “or in any civil action or proceeding, by or on behalf of the United States of America, to enforce, or charging a violation of, a provision of the United States Internal Revenue Code,”.
 
@@ -81,7 +81,7 @@
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–559, § 1][/us/pl/94/559/s1], Oct. 19, 1976, [90 Stat. 2641][/us/stat/90/2641], provided: 
+[Pub. L. 94–559][/us/pl/94/559], § 1, Oct. 19, 1976, [90 Stat. 2641][/us/stat/90/2641], provided: 
 
 > “That this Act \[amending this section\] may be cited as ‘The Civil Rights Attorney’s Fees Awards Act of 1976’.”
 
@@ -98,19 +98,19 @@
 [/us/usc/t42/s2000cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000cc
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s13981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13981
-[/us/pl/94/559/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F559%2Fs2
+[/us/pl/94/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F559
 [/us/stat/90/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2641
-[/us/pl/96/481/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs205%2Fc
+[/us/pl/96/481/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtII
 [/us/stat/94/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2330
-[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1074
-[/us/pl/103/141/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs4%2Fa
+[/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1489
-[/us/pl/103/322/s40303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40303
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1942
-[/us/pl/104/317/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs309%2Fb
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3853
-[/us/pl/106/274/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs4%2Fd
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F804
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
@@ -125,12 +125,12 @@
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/act/1866-04-09/ch31/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-09%2Fch31%2Fs3
+[/us/act/1866-04-09/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-09%2Fch31
 [/us/stat/14/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F27
-[/us/act/1870-05-31/ch114/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114%2Fs18
+[/us/act/1870-05-31/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114
 [/us/stat/16/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F144
 [/us/usc/t28/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs729
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 [/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/usc/t42/s13981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13981
@@ -141,9 +141,9 @@
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
-[/us/pl/102/166/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs113%2Fa%2F1
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
-[/us/pl/102/166/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs113%2Fa%2F2
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/pl/94/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F559
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
@@ -154,7 +154,7 @@
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
 [/us/pl/96/481/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs208
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
-[/us/pl/94/559/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F559%2Fs1
+[/us/pl/94/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F559
 [/us/stat/90/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2641
 
 

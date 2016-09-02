@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch150/schIII/ptA/m__us_usc_t42_s16657.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIII/ptB/m__us_usc_t42_ch150_schIII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16658)
 
-## § 16658. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
+## § 16658. Repealed. [Pub. L. 111–314][/us/pl/111/314], § 6, Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
-    Section, [Pub. L. 110–69, title II, § 2003][/us/pl/110/69/s2003], Aug. 9, 2007, [121 Stat. 583][/us/stat/121/583], related to basic research enhancement. See [section 20304 of Title 51][/us/usc/t51/s20304], National and Commercial Space Programs.
+    Section, [Pub. L. 110–69, title II][/us/pl/110/69/tII], § 2003, Aug. 9, 2007, [121 Stat. 583][/us/stat/121/583], related to basic research enhancement. See [section 20304 of Title 51][/us/usc/t51/s20304], National and Commercial Space Programs.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/110/69/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs2003
+[/us/pl/110/69/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtII
 [/us/stat/121/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F583
 [/us/usc/t51/s20304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20304
 

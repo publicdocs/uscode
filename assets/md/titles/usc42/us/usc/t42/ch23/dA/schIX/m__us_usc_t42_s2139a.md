@@ -21,7 +21,7 @@
 
     (c) The President, within not more than one hundred and twenty days after March 10, 1978, shall publish procedures regarding the control by the Department of Commerce over all export items, other than those licensed by the Commission, which could be, if used for purposes other than those for which the export is intended, of significance for nuclear explosive purposes. Among other things, these procedures shall provide for prior consultations by the Department of Commerce with the Department of State, the Commission, the Department of Energy, and the Department of Defense.
 
-([Pub. L. 95–242, title III, § 309(b)][/us/pl/95/242/s309/b], (c), Mar. 10, 1978, [92 Stat. 141][/us/stat/92/141]; [Pub. L. 103–236, title VII, § 714(b)][/us/pl/103/236/s714/b], Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498]; [Pub. L. 105–277, div. G, title XII, § 1225(e)(4)][/us/pl/105/277/s1225/e/4], Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
+([Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 309(b), (c), Mar. 10, 1978, [92 Stat. 141][/us/stat/92/141]; [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 714(b), Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498]; [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(e)(4), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b). [Pub. L. 105–277, § 1225(e)(4)(A)][/us/pl/105/277/s1225/e/4/A], substituted “and the Department of Commerce” for “the Department of Commerce, and the Arms Control and Disarmament Agency”.
+    1998—Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1225(e)(4)(A), substituted “and the Department of Commerce” for “the Department of Commerce, and the Arms Control and Disarmament Agency”.
 
-    Subsec. (c). [Pub. L. 105–277, § 1225(e)(4)(B)][/us/pl/105/277/s1225/e/4/B], struck out “the Arms Control and Disarmament Agency,” after “Department of State,”.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1225(e)(4)(B), struck out “the Arms Control and Disarmament Agency,” after “Department of State,”.
 
     1994—Subsec. (c). [Pub. L. 103–236][/us/pl/103/236] struck out “, as required,” after “prior consultations” in last sentence.
 
@@ -65,11 +65,11 @@
 ----------
 
 [/us/usc/t42/s2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139
-[/us/pl/95/242/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs309%2Fb
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F141
-[/us/pl/103/236/s714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs714%2Fb
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F498
-[/us/pl/105/277/s1225/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fe%2F4
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-775
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/usc/t22/s3203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3203%2Fa%2F1
@@ -77,8 +77,8 @@
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/usc/t42/s2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139
 [/us/usc/t42/s2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139
-[/us/pl/105/277/s1225/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fe%2F4%2FA
-[/us/pl/105/277/s1225/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fe%2F4%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601

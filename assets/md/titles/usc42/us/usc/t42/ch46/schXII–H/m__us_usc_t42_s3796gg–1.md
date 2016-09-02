@@ -197,7 +197,7 @@
 
         (2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be followed by a period. </sup></sup> 
 
-([Pub. L. 90–351, title I, § 2007][/us/pl/90/351/s2007], formerly § 2002, as added [Pub. L. 103–322, title IV, § 40121(a)(3)][/us/pl/103/322/s40121/a/3], Sept. 13, 1994, [108 Stat. 1911][/us/stat/108/1911]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386], §§ 1102(a)(2), 1103(b)(2), Oct. 28, 2000, [114 Stat. 1494][/us/stat/114/1494], 1496; renumbered § 2007 and amended [Pub. L. 107–273, div. A, title IV, § 402(1)][/us/pl/107/273/s402/1], (2), Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; [Pub. L. 108–405, title III, § 310(b)][/us/pl/108/405/s310/b], (c), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162, title I, § 101(c)][/us/pl/109/162/s101/c]–(e), title IX, § 906(b), title XI, § 1134(a), Jan. 5, 2006, [119 Stat. 2973][/us/stat/119/2973], 2974, 3081, 3108; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 754, 763, 766; [Pub. L. 113–4, title I, § 101(3)][/us/pl/113/4/s101/3], Mar. 7, 2013, [127 Stat. 66][/us/stat/127/66].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2007, formerly § 2002, as added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40121(a)(3), Sept. 13, 1994, [108 Stat. 1911][/us/stat/108/1911]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], §§ 1102(a)(2), 1103(b)(2), Oct. 28, 2000, [114 Stat. 1494][/us/stat/114/1494], 1496; renumbered § 2007 and amended [Pub. L. 107–273, div. A, title IV][/us/pl/107/273/dA/tIV], § 402(1), (2), Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; [Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 310(b), (c), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 101(c)–(e), title IX, § 906(b), title XI, § 1134(a), Jan. 5, 2006, [119 Stat. 2973][/us/stat/119/2973], 2974, 3081, 3108; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 754, 763, 766; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 101(3), Mar. 7, 2013, [127 Stat. 66][/us/stat/127/66].)
 
  __References in Text__ 
 
@@ -207,7 +207,7 @@
 
     This subchapter, referred to in subsec. (c)(5), was in the original “this subchapter”, and was translated as reading “this part”, meaning part T of title I of [Pub. L. 90–351][/us/pl/90/351], to reflect the probable intent of Congress.
 
-    [Section 3763 of this title][/us/usc/t42/s3763], referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning [section 517 of title I of Pub. L. 90–351][/us/pl/90/351/s517], to reflect the probable intent of Congress. [Pub. L. 90–351][/us/pl/90/351] does not contain a section 513, but [section 3763 of this title][/us/usc/t42/s3763] was [section 513 of Pub. L. 90–351][/us/pl/90/351/s513] prior to renumbering as section 517 by [Pub. L. 101–647, title XVIII, § 1801(a)(6)][/us/pl/101/647/s1801/a/6], Nov. 29, 1990, [104 Stat. 4847][/us/stat/104/4847].
+    [Section 3763 of this title][/us/usc/t42/s3763], referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning [section 517 of title I of Pub. L. 90–351][/us/pl/90/351/tI/s517], to reflect the probable intent of Congress. [Pub. L. 90–351][/us/pl/90/351] does not contain a section 513, but [section 3763 of this title][/us/usc/t42/s3763] was [section 513 of Pub. L. 90–351][/us/pl/90/351/s513] prior to renumbering as section 517 by [Pub. L. 101–647, title XVIII][/us/pl/101/647/tXVIII], § 1801(a)(6), Nov. 29, 1990, [104 Stat. 4847][/us/stat/104/4847].
 
  __Codification__ 
 
@@ -215,91 +215,91 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–4, § 101(3)(A)][/us/pl/113/4/s101/3/A], which directed substitution of “victim service providers” for “nonprofit nongovernmental victim service programs”, was executed by making the substitution for “nonprofit nongovernmental victim services programs” to reflect the probable intent of Congress.
+    2013—Subsec. (a). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(A), which directed substitution of “victim service providers” for “nonprofit nongovernmental victim service programs”, was executed by making the substitution for “nonprofit nongovernmental victim services programs” to reflect the probable intent of Congress.
 
-    Subsec. (b)(6). [Pub. L. 113–4, § 101(3)(B)][/us/pl/113/4/s101/3/B], struck out “(not including populations of Indian tribes)” before period at end.
+    Subsec. (b)(6). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(B), struck out “(not including populations of Indian tribes)” before period at end.
 
-    Subsec. (c)(2). [Pub. L. 113–4, § 101(3)(C)(i)][/us/pl/113/4/s101/3/C/i], added par. (2) and struck out former par. (2) which read as follows: “grantees and subgrantees shall develop a plan for implementation and shall consult and coordinate with nonprofit, nongovernmental victim services programs, including sexual assault and domestic violence victim services programs and describe how the State will address the needs of underserved populations;”.
+    Subsec. (c)(2). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(C)(i), added par. (2) and struck out former par. (2) which read as follows: “grantees and subgrantees shall develop a plan for implementation and shall consult and coordinate with nonprofit, nongovernmental victim services programs, including sexual assault and domestic violence victim services programs and describe how the State will address the needs of underserved populations;”.
 
-    Subsec. (c)(3), (4). [Pub. L. 113–4, § 101(3)(C)(ii)][/us/pl/113/4/s101/3/C/ii], (iii), added par. (3) and redesignated former par. (3), relating to State allocation of funds granted, as (4).
+    Subsec. (c)(3), (4). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(C)(ii), (iii), added par. (3) and redesignated former par. (3), relating to State allocation of funds granted, as (4).
 
-    Subsec. (c)(4)(A). [Pub. L. 113–4, § 101(3)(C)(iv)(I)][/us/pl/113/4/s101/3/C/iv/I], struck out “and not less than 25 percent shall be allocated for prosecutors” before semicolon at end.
+    Subsec. (c)(4)(A). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(C)(iv)(I), struck out “and not less than 25 percent shall be allocated for prosecutors” before semicolon at end.
 
-    Subsec. (c)(4)(B), (C). [Pub. L. 113–4, § 101(3)(C)(iv)(II)][/us/pl/113/4/s101/3/C/iv/II], (III), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
+    Subsec. (c)(4)(B), (C). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(C)(iv)(II), (III), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (c)(4)(D). [Pub. L. 113–4, § 101(3)(C)(iv)(IV)][/us/pl/113/4/s101/3/C/iv/IV], substituted “to” for “for”.
+    Subsec. (c)(4)(D). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(C)(iv)(IV), substituted “to” for “for”.
 
-    [Pub. L. 113–4, § 101(3)(C)(iv)(II)][/us/pl/113/4/s101/3/C/iv/II], redesignated subpar. (C) as (D).
+    [Pub. L. 113–4][/us/pl/113/4], § 101(3)(C)(iv)(II), redesignated subpar. (C) as (D).
 
-    Subsec. (c)(5). [Pub. L. 113–4, § 101(3)(C)(v)][/us/pl/113/4/s101/3/C/v], added par. (5).
+    Subsec. (c)(5). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(C)(v), added par. (5).
 
-    Subsec. (d). [Pub. L. 113–4, § 101(3)(D)][/us/pl/113/4/s101/3/D], added subsec. (d) and struck out former subsec. (d) which related to application requirements.
+    Subsec. (d). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(D), added subsec. (d) and struck out former subsec. (d) which related to application requirements.
 
-    Subsec. (e)(2)(A). [Pub. L. 113–4, § 101(3)(E)(i)(I)][/us/pl/113/4/s101/3/E/i/I], substituted “domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and sexual assault”.
+    Subsec. (e)(2)(A). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(E)(i)(I), substituted “domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and sexual assault”.
 
-    Subsec. (e)(2)(D). [Pub. L. 113–4, § 101(3)(E)(i)(II)][/us/pl/113/4/s101/3/E/i/II], struck out “linguistically and” before “culturally”.
+    Subsec. (e)(2)(D). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(E)(i)(II), struck out “linguistically and” before “culturally”.
 
-    Subsec. (e)(3). [Pub. L. 113–4, § 101(3)(E)(ii)][/us/pl/113/4/s101/3/E/ii], added par. (3).
+    Subsec. (e)(3). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(E)(ii), added par. (3).
 
-    Subsec. (f). [Pub. L. 113–4, § 101(3)(F)][/us/pl/113/4/s101/3/F], substituted “, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under [section 13925(b)(1) of this title][/us/usc/t42/s13925/b/1] shall not count toward the total costs of the projects.” for period at end.
+    Subsec. (f). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(F), substituted “, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under [section 13925(b)(1) of this title][/us/usc/t42/s13925/b/1] shall not count toward the total costs of the projects.” for period at end.
 
-    Subsecs. (i), (j). [Pub. L. 113–4, § 101(3)(G)][/us/pl/113/4/s101/3/G], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 113–4][/us/pl/113/4], § 101(3)(G), added subsecs. (i) and (j).
 
-    2006—Subsec. (b)(1). [Pub. L. 109–271, § 7(a)(2)][/us/pl/109/271/s7/a/2], added par. (1) and struck out former par. (1) which read as follows: “Ten percent shall be available for grants under the program authorized in [section 3796gg–10 of this title][/us/usc/t42/s3796gg–10]. The requirements of this subchapter shall not apply to funds allocated for such program.”
+    2006—Subsec. (b)(1). [Pub. L. 109–271][/us/pl/109/271], § 7(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Ten percent shall be available for grants under the program authorized in [section 3796gg–10 of this title][/us/usc/t42/s3796gg–10]. The requirements of this subchapter shall not apply to funds allocated for such program.”
 
-    [Pub. L. 109–162, § 906(b)][/us/pl/109/162/s906/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “10 percent shall be available for grants to Indian tribal governments;”.
+    [Pub. L. 109–162][/us/pl/109/162], § 906(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “10 percent shall be available for grants to Indian tribal governments;”.
 
-    [Pub. L. 109–162, § 101(d)(1)(A)][/us/pl/109/162/s101/d/1/A], substituted “10 percent” for “5 percent”.
+    [Pub. L. 109–162][/us/pl/109/162], § 101(d)(1)(A), substituted “10 percent” for “5 percent”.
 
-    Subsec. (b)(2). [Pub. L. 109–271, § 2(g)][/us/pl/109/271/s2/g], which directed the substitution of “the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.” for “and the coalitions for combined Territories of the United States”, was executed by making the substitution for “and the coalition for the combined Territories of the United States”, to reflect the probable intent of Congress.
+    Subsec. (b)(2). [Pub. L. 109–271][/us/pl/109/271], § 2(g), which directed the substitution of “the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.” for “and the coalitions for combined Territories of the United States”, was executed by making the substitution for “and the coalition for the combined Territories of the United States”, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–162, § 101(d)(1)(B)][/us/pl/109/162/s101/d/1/B], substituted “1⁄56” for “1⁄54”.
+    [Pub. L. 109–162][/us/pl/109/162], § 101(d)(1)(B), substituted “1⁄56” for “1⁄54”.
 
-    Subsec. (b)(3). [Pub. L. 109–162, § 101(d)(1)(C)][/us/pl/109/162/s101/d/1/C], substituted “coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1⁄56” for “and the coalition for the combined Territories of the United States, each receiving an amount equal to 1⁄54”.
+    Subsec. (b)(3). [Pub. L. 109–162][/us/pl/109/162], § 101(d)(1)(C), substituted “coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1⁄56” for “and the coalition for the combined Territories of the United States, each receiving an amount equal to 1⁄54”.
 
-    Subsec. (b)(4). [Pub. L. 109–162, § 101(d)(1)(D)][/us/pl/109/162/s101/d/1/D], substituted “1⁄56” for “1⁄54”.
+    Subsec. (b)(4). [Pub. L. 109–162][/us/pl/109/162], § 101(d)(1)(D), substituted “1⁄56” for “1⁄54”.
 
-    Subsec. (c)(2). [Pub. L. 109–162, § 101(c)(1)][/us/pl/109/162/s101/c/1], inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
+    Subsec. (c)(2). [Pub. L. 109–162][/us/pl/109/162], § 101(c)(1), inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
 
-    Subsec. (c)(3)(A). [Pub. L. 109–271, § 2][/us/pl/109/271/s2](l), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
+    Subsec. (c)(3)(A). [Pub. L. 109–271][/us/pl/109/271], § 2(l), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
 
-    [Pub. L. 109–162, § 1134(a)(1)][/us/pl/109/162/s1134/a/1], which directed substitution of “law enforcement” for “police”, was repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
+    [Pub. L. 109–162][/us/pl/109/162], § 1134(a)(1), which directed substitution of “law enforcement” for “police”, was repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
 
-    Subsec. (c)(3)(B). [Pub. L. 109–271, § 2][/us/pl/109/271/s2](l), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not less than 30 percent shall be allocated to victim services, of which at least 10 percent shall be distributed to culturally specific community-based organization; and”.
+    Subsec. (c)(3)(B). [Pub. L. 109–271][/us/pl/109/271], § 2(l), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not less than 30 percent shall be allocated to victim services, of which at least 10 percent shall be distributed to culturally specific community-based organization; and”.
 
-    [Pub. L. 109–162, § 101(d)(2)][/us/pl/109/162/s101/d/2], inserted “, of which at least 10 percent shall be distributed to culturally specific community-based organization” after “victim services”.
+    [Pub. L. 109–162][/us/pl/109/162], § 101(d)(2), inserted “, of which at least 10 percent shall be distributed to culturally specific community-based organization” after “victim services”.
 
-    Subsec. (d). [Pub. L. 109–162, § 1134(a)(2)][/us/pl/109/162/s1134/a/2], which directed insertion of “submitted by a State” after “each application” in second sentence and substitution of “In addition, each application submitted by a State or tribal government” for “An application” in third sentence, was repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
+    Subsec. (d). [Pub. L. 109–162][/us/pl/109/162], § 1134(a)(2), which directed insertion of “submitted by a State” after “each application” in second sentence and substitution of “In addition, each application submitted by a State or tribal government” for “An application” in third sentence, was repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
 
-    Subsec. (d)(4). [Pub. L. 109–162, § 101(d)(3)][/us/pl/109/162/s101/d/3], added par. (4).
+    Subsec. (d)(4). [Pub. L. 109–162][/us/pl/109/162], § 101(d)(3), added par. (4).
 
-    Subsec. (e)(2)(D). [Pub. L. 109–162, § 101(c)(2)][/us/pl/109/162/s101/c/2], added subpar. (D) and struck out former subpar. (D) which read as follows: “recognize and address the needs of underserved populations.”
+    Subsec. (e)(2)(D). [Pub. L. 109–162][/us/pl/109/162], § 101(c)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “recognize and address the needs of underserved populations.”
 
-    Subsec. (i). [Pub. L. 109–271, § 2(f)(1)][/us/pl/109/271/s2/f/1], struck out subsec. (i) which related to training, technical assistance, and data collection.
+    Subsec. (i). [Pub. L. 109–271][/us/pl/109/271], § 2(f)(1), struck out subsec. (i) which related to training, technical assistance, and data collection.
 
-    [Pub. L. 109–162, § 101(e)][/us/pl/109/162/s101/e], added subsec. (i).
+    [Pub. L. 109–162][/us/pl/109/162], § 101(e), added subsec. (i).
 
-    2004—[Pub. L. 108–405, § 310(b)][/us/pl/108/405/s310/b], made technical amendment to directory language of [Pub. L. 107–273, § 402(2)][/us/pl/107/273/s402/2], which renumbered this section as [section 2007 of Pub. L. 90–351][/us/pl/90/351/s2007].
+    2004—[Pub. L. 108–405][/us/pl/108/405], § 310(b), made technical amendment to directory language of [Pub. L. 107–273][/us/pl/107/273], § 402(2), which renumbered this section as [section 2007 of Pub. L. 90–351][/us/pl/90/351/s2007].
 
-    Subsec. (b)(4). [Pub. L. 108–405, § 310(c)][/us/pl/108/405/s310/c], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “1⁄54 shall be available for the development and operation of nonprofit tribal domestic violence and sexual assault coalitions in Indian country;”.
+    Subsec. (b)(4). [Pub. L. 108–405][/us/pl/108/405], § 310(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “1⁄54 shall be available for the development and operation of nonprofit tribal domestic violence and sexual assault coalitions in Indian country;”.
 
-    2002—Subsec. (d)(2). [Pub. L. 107–273, § 402(1)(A)][/us/pl/107/273/s402/1/A], made technical amendment to reference in original act which appears in text as reference to [section 3796gg–4 of this title][/us/usc/t42/s3796gg–4].
+    2002—Subsec. (d)(2). [Pub. L. 107–273][/us/pl/107/273], § 402(1)(A), made technical amendment to reference in original act which appears in text as reference to [section 3796gg–4 of this title][/us/usc/t42/s3796gg–4].
 
-    Subsec. (d)(3). [Pub. L. 107–273, § 402(1)(B)][/us/pl/107/273/s402/1/B], made technical amendment to reference in original act which appears in text as reference to [section 3796gg–5 of this title][/us/usc/t42/s3796gg–5].
+    Subsec. (d)(3). [Pub. L. 107–273][/us/pl/107/273], § 402(1)(B), made technical amendment to reference in original act which appears in text as reference to [section 3796gg–5 of this title][/us/usc/t42/s3796gg–5].
 
-    2000—Subsec. (a). [Pub. L. 106–386, § 1102(a)(2)(A)][/us/pl/106/386/s1102/a/2/A], inserted “State and local courts (including juvenile courts),” after “for use by States,”.
+    2000—Subsec. (a). [Pub. L. 106–386][/us/pl/106/386], § 1102(a)(2)(A), inserted “State and local courts (including juvenile courts),” after “for use by States,”.
 
-    Subsec. (b)(1). [Pub. L. 106–386, § 1103(b)(2)(B)][/us/pl/106/386/s1103/b/2/B], substituted “5 percent” for “4 percent”.
+    Subsec. (b)(1). [Pub. L. 106–386][/us/pl/106/386], § 1103(b)(2)(B), substituted “5 percent” for “4 percent”.
 
-    Subsec. (b)(2) to (4). [Pub. L. 106–386, § 1103(b)(2)(D)][/us/pl/106/386/s1103/b/2/D], added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
+    Subsec. (b)(2) to (4). [Pub. L. 106–386][/us/pl/106/386], § 1103(b)(2)(D), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
 
-    Subsec. (b)(5). [Pub. L. 106–386, § 1103(b)(2)(A)][/us/pl/106/386/s1103/b/2/A], (C), redesignated par. (2) as (5) and substituted “$600,000” for “$500,000”.
+    Subsec. (b)(5). [Pub. L. 106–386][/us/pl/106/386], § 1103(b)(2)(A), (C), redesignated par. (2) as (5) and substituted “$600,000” for “$500,000”.
 
-    Subsec. (b)(6). [Pub. L. 106–386, § 1103(b)(2)(A)][/us/pl/106/386/s1103/b/2/A], redesignated par. (3) as (6).
+    Subsec. (b)(6). [Pub. L. 106–386][/us/pl/106/386], § 1103(b)(2)(A), redesignated par. (3) as (6).
 
-    Subsec. (c)(3). [Pub. L. 106–386, § 1102(a)(2)(B)][/us/pl/106/386/s1102/a/2/B], added par. (3) and struck out former par. (3) which read as follows: “at least 25 percent of the amount granted shall be allocated, without duplication, to each of the following 3 areas: prosecution, law enforcement, and victim services; and”.
+    Subsec. (c)(3). [Pub. L. 106–386][/us/pl/106/386], § 1102(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “at least 25 percent of the amount granted shall be allocated, without duplication, to each of the following 3 areas: prosecution, law enforcement, and victim services; and”.
 
-    Subsec. (d)(1). [Pub. L. 106–386, § 1102(a)(2)(C)][/us/pl/106/386/s1102/a/2/C], inserted “court,” after “law enforcement,” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 106–386][/us/pl/106/386], § 1102(a)(2)(C), inserted “court,” after “law enforcement,” in introductory provisions.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -311,7 +311,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-    [Pub. L. 108–405, title III, § 310(b)][/us/pl/108/405/s310/b], Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276], provided that amendment by section 310(b) (amending this section and sections 3796gg–2 to 3796gg–5 of this title) is effective as of Nov. 2, 2002, and as if included in [Pub. L. 107–273][/us/pl/107/273], as enacted.
+    [Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 310(b), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276], provided that amendment by section 310(b) (amending this section and sections 3796gg–2 to 3796gg–5 of this title) is effective as of Nov. 2, 2002, and as if included in [Pub. L. 107–273][/us/pl/107/273], as enacted.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -336,92 +336,92 @@
 [/us/usc/t42/s3796gg–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%935
 [/us/usc/t42/s3796gg–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%938
 [/us/usc/t42/s13925/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925%2Fb%2F1
-[/us/pl/90/351/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2007
-[/us/pl/103/322/s40121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40121%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1911
-[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1494
-[/us/pl/107/273/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F1
+[/us/pl/107/273/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIV
 [/us/stat/116/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1789
-[/us/pl/108/405/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs310%2Fb
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2276
-[/us/pl/109/162/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fc
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2973
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F752
-[/us/pl/113/4/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F66
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3763
-[/us/pl/90/351/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs517
+[/us/pl/90/351/tI/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI%2Fs517
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3763
 [/us/pl/90/351/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs513
-[/us/pl/101/647/s1801/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1801%2Fa%2F6
+[/us/pl/101/647/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXVIII
 [/us/stat/104/4847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4847
 [/us/pl/90/351/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2007
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/113/4/s101/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FA
-[/us/pl/113/4/s101/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FB
-[/us/pl/113/4/s101/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FC%2Fi
-[/us/pl/113/4/s101/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FC%2Fii
-[/us/pl/113/4/s101/3/C/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FC%2Fiv%2FI
-[/us/pl/113/4/s101/3/C/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FC%2Fiv%2FII
-[/us/pl/113/4/s101/3/C/iv/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FC%2Fiv%2FIV
-[/us/pl/113/4/s101/3/C/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FC%2Fiv%2FII
-[/us/pl/113/4/s101/3/C/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FC%2Fv
-[/us/pl/113/4/s101/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FD
-[/us/pl/113/4/s101/3/E/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FE%2Fi%2FI
-[/us/pl/113/4/s101/3/E/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FE%2Fi%2FII
-[/us/pl/113/4/s101/3/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FE%2Fii
-[/us/pl/113/4/s101/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FF
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t42/s13925/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925%2Fb%2F1
-[/us/pl/113/4/s101/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F3%2FG
-[/us/pl/109/271/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fa%2F2
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/109/162/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs906%2Fb
-[/us/pl/109/162/s101/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fd%2F1%2FA
-[/us/pl/109/271/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fg
-[/us/pl/109/162/s101/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fd%2F1%2FB
-[/us/pl/109/162/s101/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fd%2F1%2FC
-[/us/pl/109/162/s101/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fd%2F1%2FD
-[/us/pl/109/162/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fc%2F1
-[/us/pl/109/271/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2
-[/us/pl/109/162/s1134/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1134%2Fa%2F1
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/271/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2
-[/us/pl/109/162/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fd%2F2
-[/us/pl/109/162/s1134/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1134%2Fa%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s101/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fd%2F3
-[/us/pl/109/162/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fc%2F2
-[/us/pl/109/271/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Ff%2F1
-[/us/pl/109/162/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Fe
-[/us/pl/108/405/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs310%2Fb
-[/us/pl/107/273/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/90/351/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2007
-[/us/pl/108/405/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs310%2Fc
-[/us/pl/107/273/s402/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F1%2FA
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t42/s3796gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%934
-[/us/pl/107/273/s402/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F1%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t42/s3796gg–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%935
-[/us/pl/106/386/s1102/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1102%2Fa%2F2%2FA
-[/us/pl/106/386/s1103/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1103%2Fb%2F2%2FB
-[/us/pl/106/386/s1103/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1103%2Fb%2F2%2FD
-[/us/pl/106/386/s1103/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1103%2Fb%2F2%2FA
-[/us/pl/106/386/s1103/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1103%2Fb%2F2%2FA
-[/us/pl/106/386/s1102/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1102%2Fa%2F2%2FB
-[/us/pl/106/386/s1102/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1102%2Fa%2F2%2FC
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs4
 [/us/usc/t42/s3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793
-[/us/pl/108/405/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs310%2Fb
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2276
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

@@ -31,7 +31,7 @@
 
         Nothing in this section shall be construed to require or authorize the Administrator, the States, or political subdivisions thereof, to modify or withdraw any requirement imposed or proposed to be imposed under this chapter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 321, as added [Pub. L. 95–95, title III, § 311][/us/pl/95/95/s311], Aug. 7, 1977, [91 Stat. 782][/us/stat/91/782].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 321, as added [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 311, Aug. 7, 1977, [91 Stat. 782][/us/stat/91/782].)
 
  __Effective Date__ 
 
@@ -39,7 +39,7 @@
 
  __Study of Potential Dislocation of Employees__ 
 
-    [Pub. L. 95–95, title IV, § 403(e)][/us/pl/95/95/s403/e], Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], provided that the Secretary of Labor, in consultation with the Administrator, conduct a study of potential dislocation of employees due to implementation of laws administered by the Administrator and that the Secretary submit to Congress the results of the study not more than one year after Aug. 7, 1977.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 403(e), Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], provided that the Secretary of Labor, in consultation with the Administrator, conduct a study of potential dislocation of employees due to implementation of laws administered by the Administrator and that the Secretary submit to Congress the results of the study not more than one year after Aug. 7, 1977.
 
 ----------
 
@@ -51,11 +51,11 @@
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs311
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F782
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/95/95/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Fe
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F793
 
 

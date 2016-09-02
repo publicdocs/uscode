@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274a...7274d.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
 
 ## § 7274e. Scholarship and fellowship program for environmental restoration and waste management
 
@@ -85,7 +85,7 @@
 
         Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,000,000 may be used for the purpose of carrying out this section.
 
-([Pub. L. 102–190, div. C, title XXXI, § 3132][/us/pl/102/190/s3132], Dec. 5, 1991, [105 Stat. 1572][/us/stat/105/1572]; [Pub. L. 103–337, div. C, title XXXI, § 3156(b)(1)][/us/pl/103/337/s3156/b/1], Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092]; [Pub. L. 105–244, title I, § 102(a)(13)(F)][/us/pl/105/244/s102/a/13/F], Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620].)
+([Pub. L. 102–190, div. C, title XXXI][/us/pl/102/190/dC/tXXXI], § 3132, Dec. 5, 1991, [105 Stat. 1572][/us/stat/105/1572]; [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3156(b)(1), Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(F), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620].)
 
  __References in Text__ 
 
@@ -109,13 +109,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–337, div. C, title XXXI, § 3156(b)(2)][/us/pl/103/337/s3156/b/2], Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092], provided that: 
+[Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3156(b)(2), Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 3, 1995.”
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274a...7274d.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
 
 ----------
 ----------
@@ -124,11 +124,11 @@
 [/us/usc/t20/s1077a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1077a%2Fc
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/102/190/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3132
+[/us/pl/102/190/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXI
 [/us/stat/105/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1572
-[/us/pl/103/337/s3156/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3156%2Fb%2F1
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3092
-[/us/pl/105/244/s102/a/13/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FF
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1620
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -142,7 +142,7 @@
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/103/337/s3156/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3156%2Fb%2F2
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3092
 
 

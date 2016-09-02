@@ -151,17 +151,17 @@
 
         (5) $240,000,000 for fiscal year 2012.
 
-([Pub. L. 109–58, title IX, § 963][/us/pl/109/58/s963], Aug. 8, 2005, [119 Stat. 891][/us/stat/119/891]; [Pub. L. 110–140, title VII, § 702(a)][/us/pl/110/140/s702/a], Dec. 19, 2007, [121 Stat. 1704][/us/stat/121/1704].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 963, Aug. 8, 2005, [119 Stat. 891][/us/stat/119/891]; [Pub. L. 110–140, title VII][/us/pl/110/140/tVII], § 702(a), Dec. 19, 2007, [121 Stat. 1704][/us/stat/121/1704].)
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–140, § 702(a)(1)][/us/pl/110/140/s702/a/1], substituted “and sequestration research, development, and demonstration” for “research and development” in section catchline.
+    2007—[Pub. L. 110–140][/us/pl/110/140], § 702(a)(1), substituted “and sequestration research, development, and demonstration” for “research and development” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–140, § 702(a)(2)][/us/pl/110/140/s702/a/2], in introductory provisions, substituted “and sequestration research, development, and demonstration” for “research and development” and “capture and sequestration technologies related to industrial sources of carbon dioxide” for “capture technologies on combustion-based systems”.
+    Subsec. (a). [Pub. L. 110–140][/us/pl/110/140], § 702(a)(2), in introductory provisions, substituted “and sequestration research, development, and demonstration” for “research and development” and “capture and sequestration technologies related to industrial sources of carbon dioxide” for “capture technologies on combustion-based systems”.
 
-    Subsec. (b)(5). [Pub. L. 110–140, § 702(a)(3)][/us/pl/110/140/s702/a/3], added par. (5).
+    Subsec. (b)(5). [Pub. L. 110–140][/us/pl/110/140], § 702(a)(3), added par. (5).
 
-    Subsecs. (c), (d). [Pub. L. 110–140, § 702(a)(4)][/us/pl/110/140/s702/a/4], added subsecs. (c) and (d) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “From amounts authorized under [section 16291(b) of this title][/us/usc/t42/s16291/b], the following sums are authorized for activities described in subsection (a)(2):
+    Subsecs. (c), (d). [Pub. L. 110–140][/us/pl/110/140], § 702(a)(4), added subsecs. (c) and (d) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “From amounts authorized under [section 16291(b) of this title][/us/usc/t42/s16291/b], the following sums are authorized for activities described in subsection (a)(2):
 
     “(1) $25,000,000 for fiscal year 2006;
 
@@ -183,14 +183,14 @@
 [/us/usc/t42/s16353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16353
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t42/s16352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352%2Fb
-[/us/pl/109/58/s963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs963
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F891
-[/us/pl/110/140/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs702%2Fa
+[/us/pl/110/140/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVII
 [/us/stat/121/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1704
-[/us/pl/110/140/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs702%2Fa%2F1
-[/us/pl/110/140/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs702%2Fa%2F2
-[/us/pl/110/140/s702/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs702%2Fa%2F3
-[/us/pl/110/140/s702/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs702%2Fa%2F4
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t42/s16291/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16291%2Fb
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

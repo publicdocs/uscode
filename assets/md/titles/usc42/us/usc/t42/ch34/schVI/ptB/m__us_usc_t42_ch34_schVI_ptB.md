@@ -11,71 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schVI/ptA/m__us_usc_t42_s2971.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVI/ptB/m__us_usc_t42_s2979.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVI%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch34/schVI/ptA/m__us_usc_t42_s2971a...2971g.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVI/ptB/m__us_usc_t42_s2972...2978.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVI%2FptB)
 
 #### Part B—Coordination
 
-§§ 2972 to 2978. __Repealed.__  __[__  __Pub. L. 97–35, title VI, § 683(a)__  __][/us/pl/97/35/s683/a]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 519__  __][/us/stat/95/519]__ 
-
-    Section 2972, [Pub. L. 88–452, title VI, § 630][/us/pl/88/452/s630], as added [Pub. L. 90–222, title I, § 108(m)(3)][/us/pl/90/222/s108/m/3], Dec. 23, 1967, [81 Stat. 717][/us/stat/81/717], related to coordination of activities and policy statement attendant thereto.
-
-    Section 2973, [Pub. L. 88–452, title VI, § 631][/us/pl/88/452/s631], as added [Pub. L. 90–222, title I, § 108(m)(3)][/us/pl/90/222/s108/m/3], Dec. 23, 1967, [81 Stat. 718][/us/stat/81/718]; amended [Pub. L. 95–568, § 17(a)(33)][/us/pl/95/568/s17/a/33], Nov. 2, 1978, [92 Stat. 2442][/us/stat/92/2442], related to establishment, etc., of Economic Opportunity Council.
-
-    Section 2974, [Pub. L. 88–452, title VI, § 632][/us/pl/88/452/s632], as added [Pub. L. 90–222, title I, § 108(m)(3)][/us/pl/90/222/s108/m/3], Dec. 23, 1967, [81 Stat. 718][/us/stat/81/718]; amended [Pub. L. 92–424, § 27(b)(2)][/us/pl/92/424/s27/b/2], Sept. 19, 1972, [86 Stat. 705][/us/stat/86/705]; [Pub. L. 93–644, § 9(c)(4)][/us/pl/93/644/s9/c/4], Jan. 4, 1975, [88 Stat. 2314][/us/stat/88/2314]; [Pub. L. 95–568][/us/pl/95/568], §§ 13(j), 17(a)(34), Nov. 2, 1978, [92 Stat. 2436][/us/stat/92/2436], 2442, set forth responsibilities of the Director.
-
-    Section 2975, [Pub. L. 88–452, title VI, § 633][/us/pl/88/452/s633], as added [Pub. L. 90–222, title I, § 108(m)(3)][/us/pl/90/222/s108/m/3], Dec. 23, 1967, [81 Stat. 719][/us/stat/81/719], related to cooperation of other Federal agencies.
-
-    Section 2976, [Pub. L. 88–452, title VI, § 634][/us/pl/88/452/s634], as added [Pub. L. 90–222, title I, § 108(m)(3)][/us/pl/90/222/s108/m/3], Dec. 23, 1967, [81 Stat. 719][/us/stat/81/719], related to combinations among projects and programs.
-
-    Section 2977, [Pub. L. 88–452, title VI, § 635][/us/pl/88/452/s635], as added [Pub. L. 90–222, title I, § 108(m)(3)][/us/pl/90/222/s108/m/3], Dec. 23, 1967, [81 Stat. 719][/us/stat/81/719]; amended [Pub. L. 95–568, § 17(a)(35)][/us/pl/95/568/s17/a/35], Nov. 2, 1978, [92 Stat. 2443][/us/stat/92/2443], related to establishment, etc., of information center.
-
-    Section 2978, [Pub. L. 88–452, title VI, § 636][/us/pl/88/452/s636], as added [Pub. L. 90–222, title I, § 108(m)(3)][/us/pl/90/222/s108/m/3], Dec. 23, 1967, [81 Stat. 720][/us/stat/81/720], prohibited duplication of existing functions by new departments or agencies.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1981, see [section 9912(a) of this title][/us/usc/t42/s9912/a], prior to the general amendment of chapter 106 (§ 9901 et seq.) of this title by [Pub. L. 105–285][/us/pl/105/285].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schVI/ptA/m__us_usc_t42_s2971.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVI/ptB/m__us_usc_t42_s2979.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVI%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch34/schVI/ptA/m__us_usc_t42_s2971a...2971g.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVI/ptB/m__us_usc_t42_s2972...2978.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVI%2FptB)
 
 ----------
 ----------
 
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
-[/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
-[/us/pl/88/452/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs630
-[/us/pl/90/222/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs108%2Fm%2F3
-[/us/stat/81/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F717
-[/us/pl/88/452/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs631
-[/us/pl/90/222/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs108%2Fm%2F3
-[/us/stat/81/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F718
-[/us/pl/95/568/s17/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs17%2Fa%2F33
-[/us/stat/92/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2442
-[/us/pl/88/452/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs632
-[/us/pl/90/222/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs108%2Fm%2F3
-[/us/stat/81/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F718
-[/us/pl/92/424/s27/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs27%2Fb%2F2
-[/us/stat/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F705
-[/us/pl/93/644/s9/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs9%2Fc%2F4
-[/us/stat/88/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2314
-[/us/pl/95/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568
-[/us/stat/92/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2436
-[/us/pl/88/452/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs633
-[/us/pl/90/222/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs108%2Fm%2F3
-[/us/stat/81/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F719
-[/us/pl/88/452/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs634
-[/us/pl/90/222/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs108%2Fm%2F3
-[/us/stat/81/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F719
-[/us/pl/88/452/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs635
-[/us/pl/90/222/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs108%2Fm%2F3
-[/us/stat/81/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F719
-[/us/pl/95/568/s17/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs17%2Fa%2F35
-[/us/stat/92/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2443
-[/us/pl/88/452/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs636
-[/us/pl/90/222/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs108%2Fm%2F3
-[/us/stat/81/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F720
-[/us/usc/t42/s9912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9912%2Fa
-[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 
 

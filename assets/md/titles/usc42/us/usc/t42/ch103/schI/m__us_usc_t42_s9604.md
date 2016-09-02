@@ -691,13 +691,13 @@
 
                 Of the amount made available under subparagraph (A), $50,000,000, or, if the amount made available is less than $200,000,000, 25 percent of the amount made available, shall be used for site characterization, assessment, and remediation of facilities described in [section 9601(39)(D)(ii)(II) of this title][/us/usc/t42/s9601/39/D/ii/II].
 
-([Pub. L. 96–510, title I, § 104][/us/pl/96/510/s104], Dec. 11, 1980, [94 Stat. 2774][/us/stat/94/2774]; [Pub. L. 99–499, title I][/us/pl/99/499], §§ 104, 110, title II, § 207(b), Oct. 17, 1986, [100 Stat. 1617][/us/stat/100/1617], 1636, 1705; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–531, title III, § 312(h)][/us/pl/102/531/s312/h], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506]; [Pub. L. 107–118, title II, § 211(b)][/us/pl/107/118/s211/b], Jan. 11, 2002, [115 Stat. 2362][/us/stat/115/2362]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–59, title I, § 1956][/us/pl/109/59/s1956], Aug. 10, 2005, [119 Stat. 1515][/us/stat/119/1515].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 104, Dec. 11, 1980, [94 Stat. 2774][/us/stat/94/2774]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], §§ 104, 110, title II, § 207(b), Oct. 17, 1986, [100 Stat. 1617][/us/stat/100/1617], 1636, 1705; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(h), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506]; [Pub. L. 107–118, title II][/us/pl/107/118/tII], § 211(b), Jan. 11, 2002, [115 Stat. 2362][/us/stat/115/2362]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–59, title I][/us/pl/109/59/tI], § 1956, Aug. 10, 2005, [119 Stat. 1515][/us/stat/119/1515].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(11)(B), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(11)(B), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     Title III of the Amendments and Reauthorization Act of 1986, referred to in subsec. (e)(7)(E)(i), probably means title III of the Superfund Amendments and Reauthorization Act of 1986, [Pub. L. 99–499][/us/pl/99/499], Oct. 17, 1986, [100 Stat. 1728][/us/stat/100/1728], known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§ 11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under [section 11001 of this title][/us/usc/t42/s11001] and Tables.
 
@@ -709,13 +709,13 @@
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (k)(1)(H), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (k)(11)(C), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (k)(11)(C), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (k)(11)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (k)(11)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Codification__ 
 
-    In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 276c of title 40][/us/usc/t40/s276c] of the United States Code”, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 276c of title 40][/us/usc/t40/s276c] of the United States Code”, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -727,45 +727,45 @@
 
     1992—Subsec. (i)(1). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–499, § 104(a)][/us/pl/99/499/s104/a], substituted provisions authorizing the President to allow owner or operator of facility or vessel or any other responsible party to carry out action, conduct the remedial investigation, or conduct feasibility study under [section 9622 of this title][/us/usc/t42/s9622], specifying conditions under which a remedial investigation or feasibility study would be authorized, providing for treatment of potentially responsible parties, and requiring President to give primary attention to those releases which the President deems may present a public health threat, for “, unless the President determines that such removal and remedial action will be done properly by the owner or operator of the vessel or facility from which the release or threat of release emanates, or by any other responsible party.”
+    1986—Subsec. (a)(1). [Pub. L. 99–499][/us/pl/99/499], § 104(a), substituted provisions authorizing the President to allow owner or operator of facility or vessel or any other responsible party to carry out action, conduct the remedial investigation, or conduct feasibility study under [section 9622 of this title][/us/usc/t42/s9622], specifying conditions under which a remedial investigation or feasibility study would be authorized, providing for treatment of potentially responsible parties, and requiring President to give primary attention to those releases which the President deems may present a public health threat, for “, unless the President determines that such removal and remedial action will be done properly by the owner or operator of the vessel or facility from which the release or threat of release emanates, or by any other responsible party.”
 
-    Subsec. (a)(2). [Pub. L. 99–499, § 104(b)][/us/pl/99/499/s104/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of this section, ‘pollutant or contaminant’ shall include, but not be limited to, any element, substance, compound, or mixture, including disease-causing agents, which after release into the environment and upon exposure, ingestion, inhalation, or assimilation into any organism, either directly from the environment or indirectly by ingestion through food chains, will or may reasonably be anticipated to cause death, disease, behavioral abnormalities, cancer, genetic mutation, physiological malfunctions (including malfunctions in reproduction) or physical deformations, in such organisms or their offspring. The term does not include petroleum, including crude oil and any fraction thereof which is not otherwise specifically listed or designated as hazardous substances under section 9601(14)(A) through (F) of this title, nor does it include natural gas, liquefied natural gas, or synthetic gas of pipeline quality (or mixtures of natural gas and such synthetic gas).”
+    Subsec. (a)(2). [Pub. L. 99–499][/us/pl/99/499], § 104(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of this section, ‘pollutant or contaminant’ shall include, but not be limited to, any element, substance, compound, or mixture, including disease-causing agents, which after release into the environment and upon exposure, ingestion, inhalation, or assimilation into any organism, either directly from the environment or indirectly by ingestion through food chains, will or may reasonably be anticipated to cause death, disease, behavioral abnormalities, cancer, genetic mutation, physiological malfunctions (including malfunctions in reproduction) or physical deformations, in such organisms or their offspring. The term does not include petroleum, including crude oil and any fraction thereof which is not otherwise specifically listed or designated as hazardous substances under section 9601(14)(A) through (F) of this title, nor does it include natural gas, liquefied natural gas, or synthetic gas of pipeline quality (or mixtures of natural gas and such synthetic gas).”
 
-    Subsec. (a)(3), (4). [Pub. L. 99–499, § 104(c)][/us/pl/99/499/s104/c], added pars. (3) and (4).
+    Subsec. (a)(3), (4). [Pub. L. 99–499][/us/pl/99/499], § 104(c), added pars. (3) and (4).
 
-    Subsec. (b). [Pub. L. 99–499, § 104(d)][/us/pl/99/499/s104/d], designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+    Subsec. (b). [Pub. L. 99–499][/us/pl/99/499], § 104(d), designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 99–499, § 104(e)(1)][/us/pl/99/499/s104/e/1], substituted “$2,000,000” for “$1,000,000” and “12 months” for “six months”.
+    Subsec. (c)(1). [Pub. L. 99–499][/us/pl/99/499], § 104(e)(1), substituted “$2,000,000” for “$1,000,000” and “12 months” for “six months”.
 
-    Subsec. (c)(1)(C). [Pub. L. 99–499, § 104(e)(2)][/us/pl/99/499/s104/e/2], added cl. (C).
+    Subsec. (c)(1)(C). [Pub. L. 99–499][/us/pl/99/499], § 104(e)(2), added cl. (C).
 
     Subsec. (c)(3). [Pub. L. 99–499][/us/pl/99/499], §§ 104(f), 207(b), substituted text of cl. (C)(ii) and sentence providing that “facility” does not include navigable waters or beds underlying those waters for “(ii) at least 50 per centum or such greater amount as the President may determine appropriate, taking into account the degree of responsibility of the State or political subdivision, of any sums expended in response to a release at a facility that was owned at the time of any disposal of hazardous substances therein by the State or a political subdivision thereof. The President shall grant the State a credit against the share of the costs for which it is responsible under this paragraph for any documented direct out-of-pocket non-Federal funds expended or obligated by the State or a political subdivision thereof after January 1, 1978, and before December 11, 1980, for cost-eligible response actions and claims for damages compensable under [section 9611 of this title][/us/usc/t42/s9611] relating to the specific release in question: Provided, however, That in no event shall the amount of the credit granted exceed the total response costs relating to the release.” and inserted provisions relating to remedial action to be taken on land or water held by an Indian tribe, held by the United States in trust for Indians, held by a member of an Indian Tribe (if such land or water is subject to a trust restriction on alienation), or otherwise within the borders of an Indian reservation.
 
-    Subsec. (c)(4). [Pub. L. 99–499, § 104(g)][/us/pl/99/499/s104/g], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public health and welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action.”
+    Subsec. (c)(4). [Pub. L. 99–499][/us/pl/99/499], § 104(g), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public health and welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action.”
 
-    Subsec. (c)(5). [Pub. L. 99–499, § 104(h)][/us/pl/99/499/s104/h], added par. (5).
+    Subsec. (c)(5). [Pub. L. 99–499][/us/pl/99/499], § 104(h), added par. (5).
 
-    Subsec. (c)(6). [Pub. L. 99–499, § 104(i)][/us/pl/99/499/s104/i], added par. (6).
+    Subsec. (c)(6). [Pub. L. 99–499][/us/pl/99/499], § 104(i), added par. (6).
 
     Subsec. (c)(7). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    [Pub. L. 99–499, § 104(i)][/us/pl/99/499/s104/i], added par. (7).
+    [Pub. L. 99–499][/us/pl/99/499], § 104(i), added par. (7).
 
-    Subsec. (c)(8). [Pub. L. 99–499, § 104(j)][/us/pl/99/499/s104/j], added par. (8).
+    Subsec. (c)(8). [Pub. L. 99–499][/us/pl/99/499], § 104(j), added par. (8).
 
-    Subsec. (c)(9). [Pub. L. 99–499, § 104(k)][/us/pl/99/499/s104/k], added par. (9).
+    Subsec. (c)(9). [Pub. L. 99–499][/us/pl/99/499], § 104(k), added par. (9).
 
-    Subsec. (d)(1). [Pub. L. 99–499, § 104][/us/pl/99/499/s104](l), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Where the President determines that a State or political subdivision thereof has the capability to carry out any or all of the actions authorized in this section, the President may, in his discretion, enter into a contract or cooperative agreement with such State or political subdivision to take such actions in accordance with criteria and priorities established pursuant to [section 9605(8) of this title][/us/usc/t42/s9605/8] and to be reimbursed for the reasonable response costs thereof from the Fund. Any contract made hereunder shall be subject to the cost-sharing provisions of subsection (c) of this section.”
+    Subsec. (d)(1). [Pub. L. 99–499][/us/pl/99/499], § 104(l), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Where the President determines that a State or political subdivision thereof has the capability to carry out any or all of the actions authorized in this section, the President may, in his discretion, enter into a contract or cooperative agreement with such State or political subdivision to take such actions in accordance with criteria and priorities established pursuant to [section 9605(8) of this title][/us/usc/t42/s9605/8] and to be reimbursed for the reasonable response costs thereof from the Fund. Any contract made hereunder shall be subject to the cost-sharing provisions of subsection (c) of this section.”
 
-    Subsec. (e)(1). [Pub. L. 99–499, § 104(m)][/us/pl/99/499/s104/m], added par. (1), and struck out former par. (1) which provided for access to, and copying of, records relating to covered substances, and entry by officers, employees or representatives of the President or a State into places where hazardous substances were or had been generated, stored, treated or disposed of, or transported from, and inspection and obtaining of samples of such substances and samples of containers or labeling for such substances.
+    Subsec. (e)(1). [Pub. L. 99–499][/us/pl/99/499], § 104(m), added par. (1), and struck out former par. (1) which provided for access to, and copying of, records relating to covered substances, and entry by officers, employees or representatives of the President or a State into places where hazardous substances were or had been generated, stored, treated or disposed of, or transported from, and inspection and obtaining of samples of such substances and samples of containers or labeling for such substances.
 
-    Subsec. (e)(2) to (6). [Pub. L. 99–499, § 104(m)][/us/pl/99/499/s104/m], added pars. (2) to (6). Former par. (2) redesignated (7).
+    Subsec. (e)(2) to (6). [Pub. L. 99–499][/us/pl/99/499], § 104(m), added pars. (2) to (6). Former par. (2) redesignated (7).
 
-    Subsec. (e)(7). [Pub. L. 99–499, § 104(m)][/us/pl/99/499/s104/m], (n), redesignated par. (2) as (7), aligned margin of par. (7) with pars. (1) through (6), and added par. heading and subpars. (E) and (F).
+    Subsec. (e)(7). [Pub. L. 99–499][/us/pl/99/499], § 104(m), (n), redesignated par. (2) as (7), aligned margin of par. (7) with pars. (1) through (6), and added par. heading and subpars. (E) and (F).
 
-    Subsec. (i). [Pub. L. 99–499, § 110][/us/pl/99/499/s110], designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in introductory provisions of par. (1), struck out “and” after “Health Administration,” and inserted “the Secretary of Transportation, and appropriate State and local health officials,” in par. (1)(D), inserted “where appropriate”, and added pars. (2) to (18).
+    Subsec. (i). [Pub. L. 99–499][/us/pl/99/499], § 110, designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in introductory provisions of par. (1), struck out “and” after “Health Administration,” and inserted “the Secretary of Transportation, and appropriate State and local health officials,” in par. (1)(D), inserted “where appropriate”, and added pars. (2) to (18).
 
-    Subsec. (j). [Pub. L. 99–499, § 104][/us/pl/99/499/s104](o)(1), added subsec. (j).
+    Subsec. (j). [Pub. L. 99–499][/us/pl/99/499], § 104(o)(1), added subsec. (j).
 
  __Termination of Reporting Requirements__ 
 
@@ -821,26 +821,26 @@
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t42/s9601/39/D/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F39%2FD%2Fii%2FII
-[/us/pl/96/510/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs104
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2774
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1617
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/531/s312/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fh
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
-[/us/pl/107/118/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs211%2Fb
+[/us/pl/107/118/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtII
 [/us/stat/115/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2362
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/59/s1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1956
+[/us/pl/109/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtI
 [/us/stat/119/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1515
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
@@ -857,43 +857,43 @@
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/99/499/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fa
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9622
-[/us/pl/99/499/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fb
-[/us/pl/99/499/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fc
-[/us/pl/99/499/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fd
-[/us/pl/99/499/s104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fe%2F1
-[/us/pl/99/499/s104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fe%2F2
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9611
-[/us/pl/99/499/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fg
-[/us/pl/99/499/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fh
-[/us/pl/99/499/s104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fi
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/499/s104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fi
-[/us/pl/99/499/s104/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fj
-[/us/pl/99/499/s104/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fk
-[/us/pl/99/499/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9605/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605%2F8
-[/us/pl/99/499/s104/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fm
-[/us/pl/99/499/s104/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fm
-[/us/pl/99/499/s104/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104%2Fm
-[/us/pl/99/499/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs110
-[/us/pl/99/499/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs104
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499

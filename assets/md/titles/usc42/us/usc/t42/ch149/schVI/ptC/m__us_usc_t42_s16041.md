@@ -133,7 +133,7 @@
 
                 The Commission shall publish in the Federal Register a notice of any waiver granted under this subsection.
 
-([Pub. L. 109–58, title VI, § 651][/us/pl/109/58/s651], Aug. 8, 2005, [119 Stat. 799][/us/stat/119/799].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 651, Aug. 8, 2005, [119 Stat. 799][/us/stat/119/799].)
 
  __References in Text__ 
 
@@ -160,7 +160,7 @@
 [/us/usc/t42/s2014/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe
 [/us/usc/t42/s2021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021%2Fb
 [/us/usc/t42/s2014/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe
-[/us/pl/109/58/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F799
 [/us/pl/109/58/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651
 [/us/pl/109/58/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651

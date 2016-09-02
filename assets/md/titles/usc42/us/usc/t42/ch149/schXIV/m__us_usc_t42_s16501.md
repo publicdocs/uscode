@@ -83,7 +83,7 @@
 
         The authority of the Secretary to issue a loan guarantee under subsection (b) terminates on the date that is 10 years after August 8, 2005.
 
-([Pub. L. 109–58, title XV, § 1510][/us/pl/109/58/s1510], Aug. 8, 2005, [119 Stat. 1085][/us/stat/119/1085].)
+([Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1510, Aug. 8, 2005, [119 Stat. 1085][/us/stat/119/1085].)
 
 ----------
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
-[/us/pl/109/58/s1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1510
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1085
 
 

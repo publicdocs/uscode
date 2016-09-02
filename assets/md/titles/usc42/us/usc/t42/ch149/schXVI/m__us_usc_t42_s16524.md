@@ -33,7 +33,7 @@
 
         Not later than 90 days after August 8, 2005, and on a yearly basis following, the Secretary shall submit a report to Congress and the States on the results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.
 
-([Pub. L. 109–58, title XVIII, § 1832][/us/pl/109/58/s1832], Aug. 8, 2005, [119 Stat. 1138][/us/stat/119/1138].)
+([Pub. L. 109–58, title XVIII][/us/pl/109/58/tXVIII], § 1832, Aug. 8, 2005, [119 Stat. 1138][/us/stat/119/1138].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1832
+[/us/pl/109/58/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVIII
 [/us/stat/119/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1138
 
 

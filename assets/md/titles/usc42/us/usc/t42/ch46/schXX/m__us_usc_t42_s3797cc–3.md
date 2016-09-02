@@ -95,7 +95,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-([Pub. L. 109–177, title VII, § 756][/us/pl/109/177/s756], Mar. 9, 2006, [120 Stat. 275][/us/stat/120/275]; [Pub. L. 110–161, div. B, title II, § 220(c)][/us/pl/110/161/s220/c], Dec. 26, 2007, [121 Stat. 1916][/us/stat/121/1916].)
+([Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 756, Mar. 9, 2006, [120 Stat. 275][/us/stat/120/275]; [Pub. L. 110–161, div. B, title II][/us/pl/110/161/dB/tII], § 220(c), Dec. 26, 2007, [121 Stat. 1916][/us/stat/121/1916].)
 
  __Codification__ 
 
@@ -103,23 +103,23 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(2). [Pub. L. 110–161, § 220(c)(1)][/us/pl/110/161/s220/c/1], inserted “, territorial, or Tribal” after “State”.
+    2007—Subsec. (a)(2). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(1), inserted “, territorial, or Tribal” after “State”.
 
-    Subsec. (b)(1). [Pub. L. 110–161, § 220(c)(2)(A)][/us/pl/110/161/s220/c/2/A], inserted “, territorial, or Tribal” after “State” and substituted “or” for “and/or”.
+    Subsec. (b)(1). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(2)(A), inserted “, territorial, or Tribal” after “State” and substituted “or” for “and/or”.
 
-    Subsec. (b)(2). [Pub. L. 110–161, § 220(c)(2)(B)][/us/pl/110/161/s220/c/2/B], inserted “, territory, Indian tribe,” after “agency of the State” and after “criminal laws of that State”.
+    Subsec. (b)(2). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(2)(B), inserted “, territory, Indian tribe,” after “agency of the State” and after “criminal laws of that State”.
 
-    Subsec. (b)(C). [Pub. L. 110–161, § 220(c)(2)(C)][/us/pl/110/161/s220/c/2/C], added par. (C).
+    Subsec. (b)(C). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(2)(C), added par. (C).
 
-    Subsec. (c)(3). [Pub. L. 110–161, § 220(c)(3)(A)][/us/pl/110/161/s220/c/3/A], substituted “Indian tribes” for “Indian Tribes”.
+    Subsec. (c)(3). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(3)(A), substituted “Indian tribes” for “Indian Tribes”.
 
-    Subsec. (c)(4). [Pub. L. 110–161, § 220(c)(3)(B)(i)][/us/pl/110/161/s220/c/3/B/i], struck out “State’s” after “expand the” and substituted “women or” for “women and/or” in introductory provisions.
+    Subsec. (c)(4). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(3)(B)(i), struck out “State’s” after “expand the” and substituted “women or” for “women and/or” in introductory provisions.
 
-    Subsec. (c)(4)(A). [Pub. L. 110–161, § 220(c)(3)(B)(ii)][/us/pl/110/161/s220/c/3/B/ii], struck out “State” after “with the”.
+    Subsec. (c)(4)(A). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(3)(B)(ii), struck out “State” after “with the”.
 
-    Subsec. (c)(4)(C). [Pub. L. 110–161, § 220(c)(3)(B)(iii)][/us/pl/110/161/s220/c/3/B/iii], inserted “, Indian tribes,” after “involved counties”.
+    Subsec. (c)(4)(C). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(3)(B)(iii), inserted “, Indian tribes,” after “involved counties”.
 
-    Subsec. (c)(4)(D). [Pub. L. 110–161, § 220(c)(3)(B)(iv)][/us/pl/110/161/s220/c/3/B/iv], inserted “, Tribal” after “Federal, State”.
+    Subsec. (c)(4)(D). [Pub. L. 110–161][/us/pl/110/161], § 220(c)(3)(B)(iv), inserted “, Tribal” after “Federal, State”.
 
 ----------
 
@@ -129,18 +129,18 @@
 ----------
 
 [/us/usc/t42/s3797d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797d
-[/us/pl/109/177/s756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs756
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F275
-[/us/pl/110/161/s220/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc
+[/us/pl/110/161/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtII
 [/us/stat/121/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1916
-[/us/pl/110/161/s220/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F1
-[/us/pl/110/161/s220/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F2%2FA
-[/us/pl/110/161/s220/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F2%2FB
-[/us/pl/110/161/s220/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F2%2FC
-[/us/pl/110/161/s220/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F3%2FA
-[/us/pl/110/161/s220/c/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F3%2FB%2Fi
-[/us/pl/110/161/s220/c/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F3%2FB%2Fii
-[/us/pl/110/161/s220/c/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F3%2FB%2Fiii
-[/us/pl/110/161/s220/c/3/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fc%2F3%2FB%2Fiv
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 
 

@@ -277,11 +277,11 @@
 
         The Chief Executive Officer may conduct a campaign to solicit funds to conduct outreach and recruitment campaigns to recruit a diverse population of service sponsors of, and participants in, programs and projects receiving assistance under the national service laws.
 
-([Pub. L. 101–610, title I, § 193A][/us/pl/101/610/s193A], as added and amended [Pub. L. 103–82, title II][/us/pl/103/82], §§ 202(a), 203(a)(1)(B), (3), Sept. 21, 1993, [107 Stat. 877][/us/stat/107/877], 891; [Pub. L. 103–304, § 3(b)(2)][/us/pl/103/304/s3/b/2], Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 111–13, title I, § 1704][/us/pl/111/13/s1704], Apr. 21, 2009, [123 Stat. 1545][/us/stat/123/1545].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 193A, as added and amended [Pub. L. 103–82, title II][/us/pl/103/82/tII], §§ 202(a), 203(a)(1)(B), (3), Sept. 21, 1993, [107 Stat. 877][/us/stat/107/877], 891; [Pub. L. 103–304][/us/pl/103/304], § 3(b)(2), Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1704, Apr. 21, 2009, [123 Stat. 1545][/us/stat/123/1545].)
 
  __References in Text__ 
 
-    Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is [section 8E of Pub. L. 95–452][/us/pl/95/452/s8E], as added by [Pub. L. 103–82, title II, § 202(g)(1)][/us/pl/103/82/s202/g/1], Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], which was renumbered section 8F of the Act by [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], and is set out in the Appendix to Title 5, Government Organization and Employees.
+    Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is [section 8E of Pub. L. 95–452][/us/pl/95/452/s8E], as added by [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(1), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], which was renumbered section 8F of the Act by [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], and is set out in the Appendix to Title 5, Government Organization and Employees.
 
     [Public Law 91–378][/us/pl/91/378], referred to in subsec. (b)(11)(A), is [Pub. L. 91–378][/us/pl/91/378], Aug. 13, 1970, [84 Stat. 794][/us/stat/84/794], popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§ 1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 16][/us/usc/t16/s1701] and Tables.
 
@@ -301,35 +301,35 @@
 
  __Amendments__ 
 
-    2009—Subsec. (b). [Pub. L. 111–13, § 1704(1)(A)][/us/pl/111/13/s1704/1/A], substituted “, in collaboration with the State Commissions, shall” for “shall” in introductory provisions.
+    2009—Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(A), substituted “, in collaboration with the State Commissions, shall” for “shall” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 1704(1)(B)][/us/pl/111/13/s1704/1/B], inserted “, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012,” after “a strategic plan”.
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(B), inserted “, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012,” after “a strategic plan”.
 
-    Subsec. (b)(2)(B). [Pub. L. 111–13, § 1704(1)(C)][/us/pl/111/13/s1704/1/C], inserted “, approved summer of service positions, and approved silver scholar positions” after “approved national service positions”.
+    Subsec. (b)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(C), inserted “, approved summer of service positions, and approved silver scholar positions” after “approved national service positions”.
 
-    Subsec. (b)(7) to (9). [Pub. L. 111–13, § 1704(1)(D)][/us/pl/111/13/s1704/1/D], (E), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
+    Subsec. (b)(7) to (9). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(D), (E), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
 
-    Subsec. (b)(10). [Pub. L. 111–13, § 1704(1)(D)][/us/pl/111/13/s1704/1/D], (F), redesignated par. (9) as (10) and substituted “authorizing committees” for “appropriate committees of Congress” in introductory provisions. Former par. (10) redesignated (11).
+    Subsec. (b)(10). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(D), (F), redesignated par. (9) as (10) and substituted “authorizing committees” for “appropriate committees of Congress” in introductory provisions. Former par. (10) redesignated (11).
 
-    Subsec. (b)(11). [Pub. L. 111–13, § 1704(1)(D)][/us/pl/111/13/s1704/1/D], (G)(i), redesignated par. (10) as (11) and substituted “periodically,” for “by June 30, 1995,” in introductory provisions. Former par. (11) redesignated (12).
+    Subsec. (b)(11). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(D), (G)(i), redesignated par. (10) as (11) and substituted “periodically,” for “by June 30, 1995,” in introductory provisions. Former par. (11) redesignated (12).
 
-    Subsec. (b)(11)(A)(i). [Pub. L. 111–13, § 1704(1)(G)(ii)][/us/pl/111/13/s1704/1/G/ii], substituted “national priorities, as described in [section 12572(f)(1) of this title][/us/usc/t42/s12572/f/1], designed to meet” for “national priorities designed to meet the” and struck out “described in [section 12572(c)(1) of this title][/us/usc/t42/s12572/c/1]” after “public safety needs”.
+    Subsec. (b)(11)(A)(i). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(G)(ii), substituted “national priorities, as described in [section 12572(f)(1) of this title][/us/usc/t42/s12572/f/1], designed to meet” for “national priorities designed to meet the” and struck out “described in [section 12572(c)(1) of this title][/us/usc/t42/s12572/c/1]” after “public safety needs”.
 
-    Subsec. (b)(12) to (25). [Pub. L. 111–13, § 1704(1)(D)][/us/pl/111/13/s1704/1/D], (G)(iii)–(I), redesignated par. (11) as (12) and added pars. (13) to (25).
+    Subsec. (b)(12) to (25). [Pub. L. 111–13][/us/pl/111/13], § 1704(1)(D), (G)(iii)–(I), redesignated par. (11) as (12) and added pars. (13) to (25).
 
-    Subsec. (c)(9). [Pub. L. 111–13, § 1704(2)(A)(i)][/us/pl/111/13/s1704/2/A/i], substituted “the authorizing committees” for “Congress” in two places.
+    Subsec. (c)(9). [Pub. L. 111–13][/us/pl/111/13], § 1704(2)(A)(i), substituted “the authorizing committees” for “Congress” in two places.
 
-    Subsec. (c)(10), (11). [Pub. L. 111–13, § 1704(2)(A)(ii)][/us/pl/111/13/s1704/2/A/ii]–(C), added par. (10) and redesignated former par. (10) as (11).
+    Subsec. (c)(10), (11). [Pub. L. 111–13][/us/pl/111/13], § 1704(2)(A)(ii)–(C), added par. (10) and redesignated former par. (10) as (11).
 
-    Subsec. (f)(2)(B). [Pub. L. 111–13, § 1704(3)][/us/pl/111/13/s1704/3], substituted “the first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act” for “date specified in subsection (b)(10) of this section”.
+    Subsec. (f)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1704(3), substituted “the first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act” for “date specified in subsection (b)(10) of this section”.
 
-    Subsecs. (h), (i). [Pub. L. 111–13, § 1704(4)][/us/pl/111/13/s1704/4], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 111–13][/us/pl/111/13], § 1704(4), added subsecs. (h) and (i).
 
-    1994—Subsec. (g). [Pub. L. 103–304][/us/pl/103/304] made technical amendment to directory language of [Pub. L. 103–82, § 203(a)(3)][/us/pl/103/82/s203/a/3]. See 1993 Amendment note below.
+    1994—Subsec. (g). [Pub. L. 103–304][/us/pl/103/304] made technical amendment to directory language of [Pub. L. 103–82][/us/pl/103/82], § 203(a)(3). See 1993 Amendment note below.
 
-    1993—Subsecs. (b) to (d). [Pub. L. 103–82, § 203(a)(1)(B)][/us/pl/103/82/s203/a/1/B], which directed amendment of section 193A of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter” was executed wherever appearing in the following provisions of this section, which is section 193A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress: introductory provisions and pars. (2) to (4)(A), (8), and (9)(C) of subsec. (b), introductory provisions and pars. (2), (4), (9), and (10) of subsec. (c), and subsec. (d)(2).
+    1993—Subsecs. (b) to (d). [Pub. L. 103–82][/us/pl/103/82], § 203(a)(1)(B), which directed amendment of section 193A of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter” was executed wherever appearing in the following provisions of this section, which is section 193A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress: introductory provisions and pars. (2) to (4)(A), (8), and (9)(C) of subsec. (b), introductory provisions and pars. (2), (4), (9), and (10) of subsec. (c), and subsec. (d)(2).
 
-    Subsec. (g). [Pub. L. 103–82, § 203(a)(3)][/us/pl/103/82/s203/a/3], as amended by [Pub. L. 103–304][/us/pl/103/304], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–82][/us/pl/103/82], § 203(a)(3), as amended by [Pub. L. 103–304][/us/pl/103/304], added subsec. (g).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -391,17 +391,17 @@
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/usc/t42/s5081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5081%2Fa
-[/us/pl/101/610/s193A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs193A
-[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F877
-[/us/pl/103/304/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F2
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1567
-[/us/pl/111/13/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1545
 [/us/pl/95/452/s8E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8E
-[/us/pl/103/82/s202/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F1
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F889
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
 [/us/pl/91/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378
 [/us/pl/91/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378
@@ -422,24 +422,24 @@
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/111/13/s1704/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FA
-[/us/pl/111/13/s1704/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FB
-[/us/pl/111/13/s1704/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FC
-[/us/pl/111/13/s1704/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FD
-[/us/pl/111/13/s1704/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FD
-[/us/pl/111/13/s1704/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FD
-[/us/pl/111/13/s1704/1/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FG%2Fii
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12572/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Ff%2F1
 [/us/usc/t42/s12572/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Fc%2F1
-[/us/pl/111/13/s1704/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F1%2FD
-[/us/pl/111/13/s1704/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F2%2FA%2Fi
-[/us/pl/111/13/s1704/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F2%2FA%2Fii
-[/us/pl/111/13/s1704/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F3
-[/us/pl/111/13/s1704/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1704%2F4
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
-[/us/pl/103/82/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fa%2F3
-[/us/pl/103/82/s203/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fa%2F1%2FB
-[/us/pl/103/82/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fa%2F3
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa

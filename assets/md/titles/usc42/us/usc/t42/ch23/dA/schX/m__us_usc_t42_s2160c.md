@@ -27,11 +27,11 @@
 
     (b) Subsection (a) of this section applies to the export or transfer of more than 2 kilograms of plutonium or more than 5 kilograms of uranium enriched to more than 20 percent in the isotope 233 or the isotope 235.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 133, as added [Pub. L. 99–399, title VI, § 603][/us/pl/99/399/s603], Aug. 27, 1986, [100 Stat. 875][/us/stat/100/875]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–236, title VIII, § 829][/us/pl/103/236/s829], Apr. 30, 1994, [108 Stat. 521][/us/stat/108/521].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 133, as added [Pub. L. 99–399, title VI][/us/pl/99/399/tVI], § 603, Aug. 27, 1986, [100 Stat. 875][/us/stat/100/875]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 829, Apr. 30, 1994, [108 Stat. 521][/us/stat/108/521].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
@@ -50,14 +50,14 @@
 
 [/us/usc/t42/s2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/99/399/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs603
+[/us/pl/99/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVI
 [/us/stat/100/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F875
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/236/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs829
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F521
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

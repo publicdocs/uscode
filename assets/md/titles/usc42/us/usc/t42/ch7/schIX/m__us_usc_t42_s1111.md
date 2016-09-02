@@ -47,11 +47,11 @@
 
         (3) In designating reporting standards under this subsection, the Secretary of Labor shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 911, as added [Pub. L. 112–96, title II, § 2104(a)][/us/pl/112/96/s2104/a], Feb. 22, 2012, [126 Stat. 161][/us/stat/126/161].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 911, as added [Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2104(a), Feb. 22, 2012, [126 Stat. 161][/us/stat/126/161].)
 
  __Effective Date; Regulations__ 
 
-[Pub. L. 112–96, title II, § 2104(b)][/us/pl/112/96/s2104/b], Feb. 22, 2012, [126 Stat. 162][/us/stat/126/162], provided that:
+[Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2104(b), Feb. 22, 2012, [126 Stat. 162][/us/stat/126/162], provided that:
 
 >     “(1)  __Data exchange standards__  __.—__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/112/96/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2104%2Fa
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F161
-[/us/pl/112/96/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2104%2Fb
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F162
 [/us/usc/t42/s1111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1111%2Fa%2F1
 [/us/usc/t42/s1111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1111%2Fb%2F1

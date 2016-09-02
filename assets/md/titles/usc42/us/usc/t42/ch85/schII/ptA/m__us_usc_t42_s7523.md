@@ -23,7 +23,7 @@
 
         Actions to restrain such violations shall be brought by and in the name of the United States. In any such action, subpenas for witnesses who are required to attend a district court in any district may run into any other district.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 204, as added [Pub. L. 89–272, title I, § 101(8)][/us/pl/89/272/s101/8], Oct. 20, 1965, [79 Stat. 994][/us/stat/79/994]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 500][/us/stat/81/500]; [Pub. L. 91–604, § 7(b)][/us/pl/91/604/s7/b], Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694]; [Pub. L. 95–95, title II, § 218(b)][/us/pl/95/95/s218/b], Aug. 7, 1977, [91 Stat. 761][/us/stat/91/761].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 204, as added [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(8), Oct. 20, 1965, [79 Stat. 994][/us/stat/79/994]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 500][/us/stat/81/500]; [Pub. L. 91–604][/us/pl/91/604], § 7(b), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694]; [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 218(b), Aug. 7, 1977, [91 Stat. 761][/us/stat/91/761].)
 
  __Codification__ 
 
@@ -54,13 +54,13 @@
 
 [/us/usc/t42/s7522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7522%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/89/272/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F8
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F994
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F500
-[/us/pl/91/604/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs7%2Fb
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1694
-[/us/pl/95/95/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs218%2Fb
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F761
 [/us/usc/t42/s1857f–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%933
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95

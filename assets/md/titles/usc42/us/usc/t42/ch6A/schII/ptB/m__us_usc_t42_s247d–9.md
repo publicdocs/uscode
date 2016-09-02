@@ -17,7 +17,7 @@
 
     The Secretary shall develop and implement, through entities that fund or provide perinatal care services to targeted low-income children under a State child health plan under title XXI of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\], a program to deliver oral health educational materials that inform new parents about risks for, and prevention of, early childhood caries and the need for a dental visit within their newborn’s first year of life.
 
-([Pub. L. 111–3, title V, § 501(c)][/us/pl/111/3/s501/c], Feb. 4, 2009, [123 Stat. 87][/us/stat/123/87].)
+([Pub. L. 111–3, title V][/us/pl/111/3/tV], § 501(c), Feb. 4, 2009, [123 Stat. 87][/us/stat/123/87].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
-[/us/pl/111/3/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fc
+[/us/pl/111/3/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtV
 [/us/stat/123/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F87
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

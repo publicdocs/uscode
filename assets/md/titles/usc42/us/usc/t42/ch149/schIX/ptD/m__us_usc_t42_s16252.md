@@ -27,7 +27,7 @@
 
         (B) to provide access to further information on biobased products to occupants and visitors.
 
-([Pub. L. 109–58, title IX, § 943(c)][/us/pl/109/58/s943/c], Aug. 8, 2005, [119 Stat. 881][/us/stat/119/881].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 943(c), Aug. 8, 2005, [119 Stat. 881][/us/stat/119/881].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s943/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs943%2Fc
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F881
 
 

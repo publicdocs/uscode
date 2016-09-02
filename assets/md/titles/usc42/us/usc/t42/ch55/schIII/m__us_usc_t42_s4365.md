@@ -91,13 +91,13 @@
 
         The Administrator shall annually report to the Committees on Environment and Public Works and Agriculture of the Senate and the Committees on Transportation and Infrastructure, Energy and Commerce, and Agriculture of the House of Representatives regarding the membership and activities of the standing agriculture-related committee established pursuant to subsection (e)(2)(A)(i).
 
-([Pub. L. 95–155, § 8][/us/pl/95/155/s8], Nov. 8, 1977, [91 Stat. 1260][/us/stat/91/1260]; [Pub. L. 96–569, § 3][/us/pl/96/569/s3], Dec. 22, 1980, [94 Stat. 3337][/us/stat/94/3337]; [Pub. L. 103–437, § 15][/us/pl/103/437/s15](o), Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593]; [Pub. L. 104–66, title II, § 2021(k)(3)][/us/pl/104/66/s2021/k/3], Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728]; [Pub. L. 113–79, title XII, § 12307][/us/pl/113/79/s12307], Feb. 7, 2014, [128 Stat. 989][/us/stat/128/989].)
+([Pub. L. 95–155][/us/pl/95/155], § 8, Nov. 8, 1977, [91 Stat. 1260][/us/stat/91/1260]; [Pub. L. 96–569][/us/pl/96/569], § 3, Dec. 22, 1980, [94 Stat. 3337][/us/stat/94/3337]; [Pub. L. 103–437][/us/pl/103/437], § 15(o), Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(k)(3), Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728]; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12307, Feb. 7, 2014, [128 Stat. 989][/us/stat/128/989].)
 
  __References in Text__ 
 
     The Clean Air Act, referred to in subsec. (c)(1), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
     The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is [Pub. L. 94–580][/us/pl/94/580], Oct. 21, 1976, [90 Stat. 2796][/us/stat/90/2796], as amended, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
@@ -105,7 +105,7 @@
 
     The Toxic Substances Control Act, referred to in subsec. (c)(1), is [Pub. L. 94–469][/us/pl/94/469], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003], as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15][/us/usc/t15/s2601] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (c)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (c)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Codification__ 
 
@@ -113,15 +113,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e). [Pub. L. 113–79, § 12307(1)][/us/pl/113/79/s12307/1], added subsec. (e) and struck out former subsec. (e). Text read as follows: “The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.”
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], § 12307(1), added subsec. (e) and struck out former subsec. (e). Text read as follows: “The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.”
 
-    Subsecs. (h), (i). [Pub. L. 113–79, § 12307(2)][/us/pl/113/79/s12307/2], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 113–79][/us/pl/113/79], § 12307(2), added subsecs. (h) and (i).
 
     1995—Subsecs. (c) to (i). [Pub. L. 104–66][/us/pl/104/66] redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: “In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration’s five-year plan for environmental research, development, and demonstration provided for by [section 4361 of this title][/us/usc/t42/s4361] and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved.”
 
-    1994—Subsec. (a). [Pub. L. 103–437, § 15][/us/pl/103/437/s15](o)(1), substituted “Committee on Science, Space, and Technology, on Energy and Commerce, or on” for “Committees on Science and Technology, Interstate and Foreign Commerce, or”.
+    1994—Subsec. (a). [Pub. L. 103–437][/us/pl/103/437], § 15(o)(1), substituted “Committee on Science, Space, and Technology, on Energy and Commerce, or on” for “Committees on Science and Technology, Interstate and Foreign Commerce, or”.
 
-    Subsec. (d). [Pub. L. 103–437, § 15][/us/pl/103/437/s15](o)(2), struck out subsec. (d) which related to review and report to Administrator, President, and Congress on health effects research.
+    Subsec. (d). [Pub. L. 103–437][/us/pl/103/437], § 15(o)(2), struck out subsec. (d) which related to review and report to Administrator, President, and Congress on health effects research.
 
     1980—Subsec. (a). [Pub. L. 96–569][/us/pl/96/569] inserted provisions relating to requests by the enumerated Congressional committees.
 
@@ -156,21 +156,21 @@
 [/us/usc/t7/s136w/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%2Fd
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/95/155/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155%2Fs8
+[/us/pl/95/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155
 [/us/stat/91/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1260
-[/us/pl/96/569/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F569%2Fs3
+[/us/pl/96/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F569
 [/us/stat/94/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3337
-[/us/pl/103/437/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4593
-[/us/pl/104/66/s2021/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fk%2F3
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F728
-[/us/pl/113/79/s12307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12307
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F989
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
@@ -182,15 +182,15 @@
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/113/79/s12307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12307%2F1
-[/us/pl/113/79/s12307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12307%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t42/s4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4361
-[/us/pl/103/437/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15
-[/us/pl/103/437/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/96/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F569
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

@@ -21,7 +21,7 @@
 
     (2) any cost-sharing reduction payment or advance payment of the credit allowed under such section 36B that is made under section 18071 or 18082 of this title shall be treated as made to the qualified health plan in which an individual is enrolled and not to that individual.
 
-([Pub. L. 111–148, title I, § 1415][/us/pl/111/148/s1415], Mar. 23, 2010, [124 Stat. 237][/us/stat/124/237].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1415, Mar. 23, 2010, [124 Stat. 237][/us/stat/124/237].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
-[/us/pl/111/148/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1415
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F237
 [/us/pl/111/148/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1401
 

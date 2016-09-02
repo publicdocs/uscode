@@ -27,7 +27,7 @@
 
         Any license for a utilization or production facility for industrial or commercial purposes constructed or operated under an arrangement with the Commission entered into under the Cooperative Power Reactor Demonstration Program shall, except as otherwise specifically required by applicable law, be issued under [section 2134(b) of this title][/us/usc/t42/s2134/b].
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 102, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 936][/us/stat/68/936]; amended [Pub. L. 91–560, § 3][/us/pl/91/560/s3], Dec. 19, 1970, [84 Stat. 1472][/us/stat/84/1472]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 102, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 936][/us/stat/68/936]; amended [Pub. L. 91–560][/us/pl/91/560], § 3, Dec. 19, 1970, [84 Stat. 1472][/us/stat/84/1472]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 [/us/usc/t42/s2134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2134%2Fb
 [/us/usc/t42/s2134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2134%2Fb
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F936
-[/us/pl/91/560/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560%2Fs3
+[/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/stat/84/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1472
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/usc/t42/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2133

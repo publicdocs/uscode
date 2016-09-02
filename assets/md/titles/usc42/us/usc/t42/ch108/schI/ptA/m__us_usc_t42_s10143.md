@@ -17,7 +17,7 @@
 
     Delivery, and acceptance by the Secretary, of any high-level radioactive waste or spent nuclear fuel for a repository constructed under this part shall constitute a transfer to the Secretary of title to such waste or spent fuel.
 
-([Pub. L. 97–425, title I, § 123][/us/pl/97/425/s123], Jan. 7, 1983, [96 Stat. 2229][/us/stat/96/2229].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 123, Jan. 7, 1983, [96 Stat. 2229][/us/stat/96/2229].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs123
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2229
 
 

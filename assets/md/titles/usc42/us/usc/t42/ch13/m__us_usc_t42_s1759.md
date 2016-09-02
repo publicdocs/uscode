@@ -19,7 +19,7 @@
 
     (b) If a State educational agency is not permitted by law to disburse the funds paid to it under this chapter to any of the nonpublic schools in the State, the Secretary shall disburse the funds directly to such schools within the State for the same purposes and subject to the same conditions as are authorized or required with respect to the disbursements to public schools within the State by the State educational agency.
 
-([June 4, 1946, ch. 281, § 10][/us/act/1946-06-04/ch281/s10], [60 Stat. 233][/us/stat/60/233]; [Pub. L. 87–823, § 4][/us/pl/87/823/s4], Oct. 15, 1962, [76 Stat. 945][/us/stat/76/945]; [Pub. L. 91–248, § 1(b)][/us/pl/91/248/s1/b], May 14, 1970, [84 Stat. 208][/us/stat/84/208]; [Pub. L. 93–433, § 4(d)][/us/pl/93/433/s4/d], Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726]; [Pub. L. 93–150, § 3(b)][/us/pl/93/150/s3/b], Nov. 7, 1973, [87 Stat. 562][/us/stat/87/562]; [Pub. L. 94–105, § 7][/us/pl/94/105/s7], Oct. 7, 1975, [89 Stat. 514][/us/stat/89/514]; [Pub. L. 97–35, title VIII, § 817(a)][/us/pl/97/35/s817/a], Aug. 13, 1981, [95 Stat. 531][/us/stat/95/531].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 10, [60 Stat. 233][/us/stat/60/233]; [Pub. L. 87–823][/us/pl/87/823], § 4, Oct. 15, 1962, [76 Stat. 945][/us/stat/76/945]; [Pub. L. 91–248][/us/pl/91/248], § 1(b), May 14, 1970, [84 Stat. 208][/us/stat/84/208]; [Pub. L. 93–433][/us/pl/93/433], § 4(d), Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726]; [Pub. L. 93–150][/us/pl/93/150], § 3(b), Nov. 7, 1973, [87 Stat. 562][/us/stat/87/562]; [Pub. L. 94–105][/us/pl/94/105], § 7, Oct. 7, 1975, [89 Stat. 514][/us/stat/89/514]; [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 817(a), Aug. 13, 1981, [95 Stat. 531][/us/stat/95/531].)
 
  __Amendments__ 
 
@@ -46,19 +46,19 @@
 ----------
 ----------
 
-[/us/act/1946-06-04/ch281/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs10
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F233
-[/us/pl/87/823/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823%2Fs4
+[/us/pl/87/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823
 [/us/stat/76/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F945
-[/us/pl/91/248/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248%2Fs1%2Fb
+[/us/pl/91/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248
 [/us/stat/84/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F208
-[/us/pl/93/433/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F433%2Fs4%2Fd
+[/us/pl/93/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F433
 [/us/stat/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F726
-[/us/pl/93/150/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150%2Fs3%2Fb
+[/us/pl/93/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150
 [/us/stat/87/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F562
-[/us/pl/94/105/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs7
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
 [/us/stat/89/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F514
-[/us/pl/97/35/s817/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs817%2Fa
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F531
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105

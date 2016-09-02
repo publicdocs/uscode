@@ -33,7 +33,7 @@
 
         (3) The living allowance and other benefits under sections 12583(e) and 12594 of this title (other than individualized support services for participants with disabilities under [section 12594(f) of this title][/us/usc/t42/s12594/f]).
 
-([Pub. L. 101–610, title I, § 129A][/us/pl/101/610/s129A], as added [Pub. L. 111–13, title I, § 1307][/us/pl/111/13/s1307], Apr. 21, 2009, [123 Stat. 1505][/us/stat/123/1505].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 129A, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1307, Apr. 21, 2009, [123 Stat. 1505][/us/stat/123/1505].)
 
  __Effective Date__ 
 
@@ -50,8 +50,8 @@
 [/us/usc/t42/s12571/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fd
 [/us/usc/t42/s12571/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fe
 [/us/usc/t42/s12594/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12594%2Ff
-[/us/pl/101/610/s129A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs129A
-[/us/pl/111/13/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1307
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1505
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

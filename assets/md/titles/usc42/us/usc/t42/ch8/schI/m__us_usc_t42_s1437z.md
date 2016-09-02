@@ -37,7 +37,7 @@
 
         (C) the request is made in the proper exercise of the officer’s official duties.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 28, formerly § 27, as added [Pub. L. 104–193, title IX, § 903(b)][/us/pl/104/193/s903/b], Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; renumbered § 28, [Pub. L. 105–65, title V, § 562(a)(1)][/us/pl/105/65/s562/a/1], Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 28, formerly § 27, as added [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 903(b), Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; renumbered § 28, [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 562(a)(1), Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416].)
 
 ----------
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/104/193/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs903%2Fb
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2348
-[/us/pl/105/65/s562/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs562%2Fa%2F1
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1416
 
 

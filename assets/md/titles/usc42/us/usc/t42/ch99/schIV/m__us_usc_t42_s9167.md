@@ -17,7 +17,7 @@
 
     If any provision of this chapter or any application thereof is held invalid, the validity of the remainder of the chapter, or any other application, shall not be affected thereby.
 
-([Pub. L. 96–320, title IV, § 407][/us/pl/96/320/s407], Aug. 3, 1980, [94 Stat. 1000][/us/stat/94/1000].)
+([Pub. L. 96–320, title IV][/us/pl/96/320/tIV], § 407, Aug. 3, 1980, [94 Stat. 1000][/us/stat/94/1000].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs407
+[/us/pl/96/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIV
 [/us/stat/94/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1000
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

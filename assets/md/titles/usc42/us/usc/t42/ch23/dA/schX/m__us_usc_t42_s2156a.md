@@ -17,7 +17,7 @@
 
     Within sixty days of March 10, 1978, the Commission shall, in consultation with the Secretary of State, the Secretary of Energy, and the Secretary of Defense, promulgate (and may from time to time amend) regulations establishing the levels of physical security which in its judgement are no less strict than those established by any international guidelines to which the United States subscribes and which in its judgment will provide adequate protection for facilities and material referred to in paragraph (3) of [section 2156 of this title][/us/usc/t42/s2156] taking into consideration variations in risks to security as appropriate.
 
-([Pub. L. 95–242, title III, § 304(d)][/us/pl/95/242/s304/d], Mar. 10, 1978, [92 Stat. 135][/us/stat/92/135]; [Pub. L. 105–277, div. G, title XII, § 1225(e)(3)][/us/pl/105/277/s1225/e/3], Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
+([Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 304(d), Mar. 10, 1978, [92 Stat. 135][/us/stat/92/135]; [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(e)(3), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t42/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2156
-[/us/pl/95/242/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs304%2Fd
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F135
-[/us/pl/105/277/s1225/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fe%2F3
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-775
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/usc/t22/s3203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3203%2Fa%2F1

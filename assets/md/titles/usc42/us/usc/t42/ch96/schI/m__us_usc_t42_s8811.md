@@ -29,7 +29,7 @@
 
         The plans prepared under subsections (a) and (b) of this section shall each include guidelines for use in awarding financial assistance under this subchapter which are designed to increase, during the period covered by the plan, the amount of motor fuel displaced by biomass energy.
 
-([Pub. L. 96–294, title II, § 211][/us/pl/96/294/s211], June 30, 1980, [94 Stat. 686][/us/stat/94/686].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 211, June 30, 1980, [94 Stat. 686][/us/stat/94/686].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs211
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F686
 
 

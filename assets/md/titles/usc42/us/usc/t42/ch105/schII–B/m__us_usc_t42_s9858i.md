@@ -123,7 +123,7 @@
 
             Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
 
-([Pub. L. 97–35, title VI, § 658K][/us/pl/97/35/s658K], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–243][/us/stat/104/1388-243]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 611][/us/pl/104/193/s611], Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284]; [Pub. L. 105–33, title V, § 5602(2)][/us/pl/105/33/s5602/2], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(FF), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(FF), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 113–186, § 8(c)][/us/pl/113/186/s8/c], (e), Nov. 19, 2014, [128 Stat. 1996][/us/stat/128/1996], 1998.)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 658K, as added [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–243][/us/stat/104/1388-243]; amended [Pub. L. 102–401][/us/pl/102/401], § 3(a), Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586][/us/pl/102/586], § 8(c)(1), Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI][/us/pl/104/193/tVI], § 611, Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5602(2), Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(FF), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(FF), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 113–186][/us/pl/113/186], § 8(c), (e), Nov. 19, 2014, [128 Stat. 1996][/us/stat/128/1996], 1998.)
 
  __References in Text__ 
 
@@ -137,43 +137,43 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(B)(xi). [Pub. L. 113–186, § 8(c)(1)][/us/pl/113/186/s8/c/1], which directed amendment of par. (1)(B) by adding cl. (xi) “at the end”, was executed by adding cl. (xi) after cl. (x), to reflect the probable intent of Congress and the presence of concluding provisions in par. (1)(B).
+    2014—Subsec. (a)(1)(B)(xi). [Pub. L. 113–186][/us/pl/113/186], § 8(c)(1), which directed amendment of par. (1)(B) by adding cl. (xi) “at the end”, was executed by adding cl. (xi) after cl. (x), to reflect the probable intent of Congress and the presence of concluding provisions in par. (1)(B).
 
-    Subsec. (a)(1)(E). [Pub. L. 113–186, § 8(e)][/us/pl/113/186/s8/e], added subpar. (E).
+    Subsec. (a)(1)(E). [Pub. L. 113–186][/us/pl/113/186], § 8(e), added subpar. (E).
 
-    Subsec. (a)(2). [Pub. L. 113–186, § 8(c)(2)(A)][/us/pl/113/186/s8/c/2/A], substituted “1 year after November 19, 2014, and annually thereafter,” for “December 31, 1997, and every 12 months thereafter” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 113–186][/us/pl/113/186], § 8(c)(2)(A), substituted “1 year after November 19, 2014, and annually thereafter,” for “December 31, 1997, and every 12 months thereafter” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–186, § 8(c)(2)(B)][/us/pl/113/186/s8/c/2/B], substituted “section 9858n(6)” for “section 9858n(5)”.
+    Subsec. (a)(2)(A). [Pub. L. 113–186][/us/pl/113/186], § 8(c)(2)(B), substituted “section 9858n(6)” for “section 9858n(5)”.
 
-    Subsec. (a)(2)(E). [Pub. L. 113–186, § 8(c)(2)(C)][/us/pl/113/186/s8/c/2/C], which directed substitution of “; and” for period at end, was executed by making the substitution for semicolon at end, to reflect the probable intent of Congress.
+    Subsec. (a)(2)(E). [Pub. L. 113–186][/us/pl/113/186], § 8(c)(2)(C), which directed substitution of “; and” for period at end, was executed by making the substitution for semicolon at end, to reflect the probable intent of Congress.
 
-    Subsec. (a)(2)(F). [Pub. L. 113–186, § 8(c)(2)(D)][/us/pl/113/186/s8/c/2/D], which directed amendment of par. (2) by adding subpar. (F) “at the end”, was executed by adding subpar. (F) after subpar. (E), to reflect the probable intent of Congress and the presence of concluding provisions in par. (2).
+    Subsec. (a)(2)(F). [Pub. L. 113–186][/us/pl/113/186], § 8(c)(2)(D), which directed amendment of par. (2) by adding subpar. (F) “at the end”, was executed by adding subpar. (F) after subpar. (E), to reflect the probable intent of Congress and the presence of concluding provisions in par. (2).
 
-    2008—Subsec. (a)(1)(B)(v)(IV). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(FF), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    2008—Subsec. (a)(1)(B)(v)(IV). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(FF), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    1997—Subsec. (a)(1)(B)(iv). [Pub. L. 105–33, § 5602(2)(A)(i)(I)][/us/pl/105/33/s5602/2/A/i/I], added cl. (iv) and struck out former cl. (iv) which read as follows: “whether the family includes only one parent;”.
+    1997—Subsec. (a)(1)(B)(iv). [Pub. L. 105–33][/us/pl/105/33], § 5602(2)(A)(i)(I), added cl. (iv) and struck out former cl. (iv) which read as follows: “whether the family includes only one parent;”.
 
-    Subsec. (a)(1)(B)(v). [Pub. L. 105–33, § 5602(2)(A)(i)(II)(aa)][/us/pl/105/33/s5602/2/A/i/II/aa], substituted “including—” for “including the amount obtained from (and separately identified)—” in introductory provisions.
+    Subsec. (a)(1)(B)(v). [Pub. L. 105–33][/us/pl/105/33], § 5602(2)(A)(i)(II)(aa), substituted “including—” for “including the amount obtained from (and separately identified)—” in introductory provisions.
 
-    Subsec. (a)(1)(B)(v)(II). [Pub. L. 105–33, § 5602(2)(A)(i)(II)(bb)][/us/pl/105/33/s5602/2/A/i/II/bb], added subcl. (II) and struck out former subcl. (II) which read as follows: “cash or other assistance under part A of title IV of the Social Security Act;”.
+    Subsec. (a)(1)(B)(v)(II). [Pub. L. 105–33][/us/pl/105/33], § 5602(2)(A)(i)(II)(bb), added subcl. (II) and struck out former subcl. (II) which read as follows: “cash or other assistance under part A of title IV of the Social Security Act;”.
 
-    Subsec. (a)(1)(B)(x). [Pub. L. 105–33, § 5602(2)(A)(i)(III)][/us/pl/105/33/s5602/2/A/i/III], substituted “month” for “week”.
+    Subsec. (a)(1)(B)(x). [Pub. L. 105–33][/us/pl/105/33], § 5602(2)(A)(i)(III), substituted “month” for “week”.
 
-    Subsec. (a)(1)(D). [Pub. L. 105–33, § 5602(2)(A)(ii)][/us/pl/105/33/s5602/2/A/ii], added subpar. (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Secretary may disapprove the information collected by a State under this paragraph if the State uses sampling methods to collect such information.”
+    Subsec. (a)(1)(D). [Pub. L. 105–33][/us/pl/105/33], § 5602(2)(A)(ii), added subpar. (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Secretary may disapprove the information collected by a State under this paragraph if the State uses sampling methods to collect such information.”
 
-    Subsec. (a)(2). [Pub. L. 105–33, § 5602(2)(B)][/us/pl/105/33/s5602/2/B], substituted “Annual” for “Biannual” in heading and “12” for “6” in introductory provisions of text.
+    Subsec. (a)(2). [Pub. L. 105–33][/us/pl/105/33], § 5602(2)(B), substituted “Annual” for “Biannual” in heading and “12” for “6” in introductory provisions of text.
 
-    1996—[Pub. L. 104–193, § 611(1)][/us/pl/104/193/s611/1], substituted “Reports” for “Annual report” in section catchline.
+    1996—[Pub. L. 104–193][/us/pl/104/193], § 611(1), substituted “Reports” for “Annual report” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–193, § 611(2)][/us/pl/104/193/s611/2], amended heading and text of subsec. (a) generally. Prior to amendment, text related to requirement of reports by Dec. 31, 1992, and annually thereafter, which include specification of expenditures under [section 9858c(c)(3) of this title][/us/usc/t42/s9858c/c/3], data on fulfillment of child care needs, description of improvements in affordability and availability, description of review of State licensing and regulatory requirements and policies and results of review, explanation of any reductions in child care standards, and description of standards and health and safety requirements applicable to providers.
+    Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], § 611(2), amended heading and text of subsec. (a) generally. Prior to amendment, text related to requirement of reports by Dec. 31, 1992, and annually thereafter, which include specification of expenditures under [section 9858c(c)(3) of this title][/us/usc/t42/s9858c/c/3], data on fulfillment of child care needs, description of improvements in affordability and availability, description of review of State licensing and regulatory requirements and policies and results of review, explanation of any reductions in child care standards, and description of standards and health and safety requirements applicable to providers.
 
-    Subsec. (b)(1). [Pub. L. 104–193, § 611(2)][/us/pl/104/193/s611/2]\[(3)\](A), substituted “an application approved” for “a application approved”.
+    Subsec. (b)(1). [Pub. L. 104–193][/us/pl/104/193], § 611(2)\[(3)\](A), substituted “an application approved” for “a application approved”.
 
-    Subsec. (b)(2). [Pub. L. 104–193, § 611(2)][/us/pl/104/193/s611/2]\[(3)\](B), substituted “the State that receives” for “any agency administering activities that receive”.
+    Subsec. (b)(2). [Pub. L. 104–193][/us/pl/104/193], § 611(2)\[(3)\](B), substituted “the State that receives” for “any agency administering activities that receive”.
 
-    Subsec. (b)(4). [Pub. L. 104–193, § 611(2)][/us/pl/104/193/s611/2]\[(3)\](C), substituted “entitled under this subchapter” for “entitles under this subchapter”.
+    Subsec. (b)(4). [Pub. L. 104–193][/us/pl/104/193], § 611(2)\[(3)\](C), substituted “entitled under this subchapter” for “entitles under this subchapter”.
 
-    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508, § 5082(2)][/us/pl/101/508/s5082/2], which added this section.
+    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508][/us/pl/101/508], § 5082(2), which added this section.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -202,22 +202,22 @@
 [/us/usc/t42/s9858n/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n%2F6
 [/us/usc/t42/s9858n/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n%2F6%2FB
 [/us/usc/t42/s9858c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fd
-[/us/pl/97/35/s658K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658K
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-243
-[/us/pl/102/401/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs3%2Fa
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
-[/us/pl/102/586/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fc%2F1
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
-[/us/pl/104/193/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs611
+[/us/pl/104/193/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVI
 [/us/stat/110/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2284
-[/us/pl/105/33/s5602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F646
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/186/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/stat/128/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1996
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -229,28 +229,28 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/186/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F1
-[/us/pl/113/186/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fe
-[/us/pl/113/186/s8/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FA
-[/us/pl/113/186/s8/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FB
-[/us/pl/113/186/s8/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FC
-[/us/pl/113/186/s8/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FD
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
-[/us/pl/105/33/s5602/2/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FA%2Fi%2FI
-[/us/pl/105/33/s5602/2/A/i/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FA%2Fi%2FII%2Faa
-[/us/pl/105/33/s5602/2/A/i/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FA%2Fi%2FII%2Fbb
-[/us/pl/105/33/s5602/2/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FA%2Fi%2FIII
-[/us/pl/105/33/s5602/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FA%2Fii
-[/us/pl/105/33/s5602/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FB
-[/us/pl/104/193/s611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs611%2F1
-[/us/pl/104/193/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs611%2F2
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s9858c/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F3
-[/us/pl/104/193/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs611%2F2
-[/us/pl/104/193/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs611%2F2
-[/us/pl/104/193/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs611%2F2
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

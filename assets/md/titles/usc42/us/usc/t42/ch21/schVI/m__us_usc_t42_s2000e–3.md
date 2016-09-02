@@ -23,13 +23,13 @@
 
         It shall be an unlawful employment practice for an employer, labor organization, employment agency, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs, to print or publish or cause to be printed or published any notice or advertisement relating to employment by such an employer or membership in or any classification or referral for employment by such a labor organization, or relating to any classification or referral for employment by such an employment agency, or relating to admission to, or employment in, any program established to provide apprenticeship or other training by such a joint labor-management committee, indicating any preference, limitation, specification, or discrimination, based on race, color, religion, sex, or national origin, except that such a notice or advertisement may indicate a preference, limitation, specification, or discrimination based on religion, sex, or national origin when religion, sex, or national origin is a bona fide occupational qualification for employment.
 
-([Pub. L. 88–352, title VII, § 704][/us/pl/88/352/s704], July 2, 1964, [78 Stat. 257][/us/stat/78/257]; [Pub. L. 92–261, § 8(c)][/us/pl/92/261/s8/c], Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 704, July 2, 1964, [78 Stat. 257][/us/stat/78/257]; [Pub. L. 92–261][/us/pl/92/261], § 8(c), Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109].)
 
  __Amendments__ 
 
-    1972—Subsec. (a). [Pub. L. 92–261, § 8(c)(1)][/us/pl/92/261/s8/c/1], inserted provision making it an unlawful employment practice for a joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs, to discriminate against the specified individuals.
+    1972—Subsec. (a). [Pub. L. 92–261][/us/pl/92/261], § 8(c)(1), inserted provision making it an unlawful employment practice for a joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs, to discriminate against the specified individuals.
 
-    Subsec. (b). [Pub. L. 92–261, § 8(c)(2)][/us/pl/92/261/s8/c/2], inserted provisions making prohibitions applicable to joint labor-management committees controlling apprenticeship or other training or retraining, including on-the-job training programs, and notices or advertisements of such joint labor-management committees relating to admission to, or employment in, any program established to provide apprenticeship or other training.
+    Subsec. (b). [Pub. L. 92–261][/us/pl/92/261], § 8(c)(2), inserted provisions making prohibitions applicable to joint labor-management committees controlling apprenticeship or other training or retraining, including on-the-job training programs, and notices or advertisements of such joint labor-management committees relating to admission to, or employment in, any program established to provide apprenticeship or other training.
 
 ----------
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/88/352/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs704
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F257
-[/us/pl/92/261/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fc
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F109
-[/us/pl/92/261/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fc%2F1
-[/us/pl/92/261/s8/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fc%2F2
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 
 

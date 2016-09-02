@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part H related to grants to Alaska for mental health, prior to the general revision of part H by [Pub. L. 98–507, title II, § 201][/us/pl/98/507/s201], Oct. 19, 1984, [98 Stat. 2342][/us/stat/98/2342].
+    A prior part H related to grants to Alaska for mental health, prior to the general revision of part H by [Pub. L. 98–507, title II][/us/pl/98/507/tII], § 201, Oct. 19, 1984, [98 Stat. 2342][/us/stat/98/2342].
 
     Another prior part H, entitled “National Library of Medicine”, as added by [act Aug. 3, 1956, ch. 907][/us/act/1956-08-03/ch907], [70 Stat. 960][/us/stat/70/960], was redesignated part I and classified to section 275 et seq. of this title, prior to repeal by [Pub. L. 99–158][/us/pl/99/158].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/507/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2Fs201
+[/us/pl/98/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2FtII
 [/us/stat/98/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2342
 [/us/act/1956-08-03/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch907
 [/us/stat/70/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F960

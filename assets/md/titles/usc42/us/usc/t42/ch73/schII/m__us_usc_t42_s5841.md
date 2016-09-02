@@ -57,13 +57,13 @@
 
         (2) such personnel as the Director of the Office of Management and Budget determines are necessary for exercising responsibilities under [section 5845 of this title][/us/usc/t42/s5845], relating to, research, for the purpose of confirmatory assessment relating to licensing and other regulation under the provisions of the Atomic Energy Act of 1954, as amended \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\], and of this chapter.
 
-([Pub. L. 93–438, title II, § 201][/us/pl/93/438/s201], Oct. 11, 1974, [88 Stat. 1242][/us/stat/88/1242]; [Pub. L. 94–79, title II][/us/pl/94/79], §§ 201–203, Aug. 9, 1975, [89 Stat. 413][/us/stat/89/413], 414; [Pub. L. 95–209, § 2][/us/pl/95/209/s2], Dec. 13, 1977, [91 Stat. 1482][/us/stat/91/1482]; [Pub. L. 99–386, title I, § 109][/us/pl/99/386/s109], Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 201, Oct. 11, 1974, [88 Stat. 1242][/us/stat/88/1242]; [Pub. L. 94–79, title II][/us/pl/94/79/tII], §§ 201–203, Aug. 9, 1975, [89 Stat. 413][/us/stat/89/413], 414; [Pub. L. 95–209][/us/pl/95/209], § 2, Dec. 13, 1977, [91 Stat. 1482][/us/stat/91/1482]; [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 109, Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(2) and (g)(2), was in the original “the Energy Reorganization Act of 1974”, and “this Act”, respectively, meaning [Pub. L. 93–438][/us/pl/93/438], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title][/us/usc/t42/s5801]. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title][/us/usc/t42/s5801] and Tables.
 
-    The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
     1977—Subsec. (h). [Pub. L. 95–209][/us/pl/95/209] added subsec. (h).
 
-    1975—Subsec. (a). [Pub. L. 94–79, § 201][/us/pl/94/79/s201], designated existing provisions as par. (1) and added pars. (2) to (5).
+    1975—Subsec. (a). [Pub. L. 94–79][/us/pl/94/79], § 201, designated existing provisions as par. (1) and added pars. (2) to (5).
 
     Subsec. (c). [Pub. L. 94–79][/us/pl/94/79], §§ 202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointee and designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
 
@@ -83,7 +83,7 @@
 
  __Transportation of Plutonium by Aircraft Through United States Air Space__ 
 
-[Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121, and [Pub. L. 100–203, title V, § 5062][/us/pl/100/203/s5062], Dec. 22, 1987, [101 Stat. 1330–251][/us/stat/101/1330-251], provided that:
+[Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121, and [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5062, Dec. 22, 1987, [101 Stat. 1330–251][/us/stat/101/1330-251], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -151,7 +151,7 @@
 
  __Resident Inspector Program; Implementation and Acceleration of Assignment of Personnel; Study of Existing and Alternate Programs for Improving Quality Assurance and Control; Pilot Programs To Review and Evaluate Alternative Programs; Scope of Pilot Program; Report to Congress; Contents__ 
 
-[Pub. L. 97–415, § 13][/us/pl/97/415/s13], Jan. 4, 1983, [96 Stat. 2074][/us/stat/96/2074], provided that:
+[Pub. L. 97–415][/us/pl/97/415], § 13, Jan. 4, 1983, [96 Stat. 2074][/us/stat/96/2074], provided that:
 
 >     “(a) The Nuclear Regulatory Commission is authorized and directed to implement and accelerate the resident inspector program so as to assure the assignment of at least one resident inspector by the end of fiscal year 1982 at each site at which a commercial nuclear powerplant is under construction and construction is more than 15 percent complete. At each such site at which construction is not more than 15 percent complete, the Commission shall provide that such inspection personnel as the Commission deems appropriate shall be physically present at the site at such times following issuance of the construction permit as may be necessary in the judgment of the Commission.
 
@@ -185,15 +185,15 @@
 
  __Transportation of Nuclear Waste With Potential for Significant Public Health and Safety Hazards; Regulations for Notice to Governor__ 
 
-    [Pub. L. 96–295, title III, § 301][/us/pl/96/295/s301], June 30, 1980, [94 Stat. 789][/us/stat/94/789], directed Nuclear Regulatory Commission, within 90 days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notification requirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
+    [Pub. L. 96–295, title III][/us/pl/96/295/tIII], § 301, June 30, 1980, [94 Stat. 789][/us/stat/94/789], directed Nuclear Regulatory Commission, within 90 days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notification requirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
 
  __Review of Selection and Training of Members of Atomic Safety and Licensing Boards; Report to Congress__ 
 
-    [Pub. L. 95–601, § 7][/us/pl/95/601/s7], Nov. 6, 1978, [92 Stat. 2950][/us/stat/92/2950], directed Commission to undertake a comprehensive review of the existing process for selection and training of members of the Atomic Safety and Licensing Boards, report to Congress on findings of such review by Jan. 1, 1979, and revise such selection and training process as appropriate, based on such findings.
+    [Pub. L. 95–601][/us/pl/95/601], § 7, Nov. 6, 1978, [92 Stat. 2950][/us/stat/92/2950], directed Commission to undertake a comprehensive review of the existing process for selection and training of members of the Atomic Safety and Licensing Boards, report to Congress on findings of such review by Jan. 1, 1979, and revise such selection and training process as appropriate, based on such findings.
 
  __Plutonium Shipments Restrictions__ 
 
-[Pub. L. 94–79, title II, § 201][/us/pl/94/79/s201], Aug. 9, 1975, [89 Stat. 413][/us/stat/89/413], provided in part that: 
+[Pub. L. 94–79, title II][/us/pl/94/79/tII], § 201, Aug. 9, 1975, [89 Stat. 413][/us/stat/89/413], provided in part that: 
 
 > “The Nuclear Regulatory Commission shall not license any shipments by air transport of plutonium in any form, whether exports, imports or domestic shipments: Provided, however, That any plutonium in any form contained in a medical device designed for individual human application is not subject to this restriction. This restriction shall be in force until the Nuclear Regulatory Commission has certified to the Joint Committee on Atomic Energy of the Congress that a safe container has been developed and tested which will not rupture under crash and blast-testing equivalent to the crash and explosion of a high-flying aircraft.”
 
@@ -379,30 +379,30 @@
 [/us/usc/t42/s5814/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5814%2Fc
 [/us/usc/t42/s5845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5845
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/93/438/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs201
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
 [/us/stat/88/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1242
-[/us/pl/94/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79
+[/us/pl/94/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79%2FtII
 [/us/stat/89/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F413
-[/us/pl/95/209/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209%2Fs2
+[/us/pl/95/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209
 [/us/stat/91/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1482
-[/us/pl/99/386/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs109
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F822
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
 [/us/pl/95/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209
-[/us/pl/94/79/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79%2Fs201
+[/us/pl/94/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79
 [/us/pl/94/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5062
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-251
 [/us/pl/94/79/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79%2Fs201
 [/us/stat/89/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F413
@@ -413,14 +413,14 @@
 [/us/pl/94/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79
 [/us/stat/89/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F413
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841
-[/us/pl/97/415/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs13
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2074
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/96/295/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2Fs301
+[/us/pl/96/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2FtIII
 [/us/stat/94/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F789
-[/us/pl/95/601/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs7
+[/us/pl/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601
 [/us/stat/92/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2950
-[/us/pl/94/79/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79%2Fs201
+[/us/pl/94/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F79%2FtII
 [/us/stat/89/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F413
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

@@ -43,7 +43,7 @@
 
         No State may establish or enforce a law which prohibits an individual from bringing a civil action against a vaccine manufacturer for damages for a vaccine-related injury or death if such civil action is not barred by this part.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2122, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3773][/us/stat/100/3773]; amended [Pub. L. 100–203, title IV, § 4302(b)(1)][/us/pl/100/203/s4302/b/1], Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2122, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3773][/us/stat/100/3773]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4302(b)(1), Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221].)
 
  __References in Text__ 
 
@@ -68,9 +68,9 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s300aa–23/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9323%2Fd%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3773
-[/us/pl/100/203/s4302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fb%2F1
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-221
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

@@ -51,7 +51,7 @@
 
         The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4) of this section.
 
-([Pub. L. 94–163, title I, § 108][/us/pl/94/163/s108], as added [Pub. L. 106–469, title VI, § 605(a)][/us/pl/106/469/s605/a], Nov. 9, 2000, [114 Stat. 2042][/us/stat/114/2042].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 108, as added [Pub. L. 106–469, title VI][/us/pl/106/469/tVI], § 605(a), Nov. 9, 2000, [114 Stat. 2042][/us/stat/114/2042].)
 
 ----------
 
@@ -60,8 +60,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs108
-[/us/pl/106/469/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs605%2Fa
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/106/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtVI
 [/us/stat/114/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2042
 
 

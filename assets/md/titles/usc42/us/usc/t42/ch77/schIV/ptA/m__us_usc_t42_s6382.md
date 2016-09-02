@@ -57,7 +57,7 @@
 
         (2) Any person who knowingly discloses information in violation of paragraph (1) shall be subject to the penalties specified in section 754(a)(3)(B) and (4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 15.
 
-([Pub. L. 94–163, title V, § 502][/us/pl/94/163/s502], Dec. 22, 1975, [89 Stat. 957][/us/stat/89/957]; [Pub. L. 104–316, title I, § 122(p)][/us/pl/104/316/s122/p], Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 502, Dec. 22, 1975, [89 Stat. 957][/us/stat/89/957]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(p), Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -78,11 +78,11 @@
 
 [/us/usc/t42/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6381
 [/us/usc/t42/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6381
-[/us/pl/94/163/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs502
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F957
-[/us/pl/104/316/s122/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fp
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3838
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t15/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs754
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g

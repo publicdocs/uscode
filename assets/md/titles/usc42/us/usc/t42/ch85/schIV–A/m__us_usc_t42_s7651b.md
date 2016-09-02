@@ -65,21 +65,21 @@
 
         The acquisition or disposition of allowances pursuant to this subchapter including the issuance of securities or the undertaking of any other financing transaction in connection with such allowances shall not be subject to the provisions of the Public Utility Holding Company Act of 1935. <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> 
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 403, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2589][/us/stat/104/2589].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 403, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2589][/us/stat/104/2589].)
 
  __References in Text__ 
 
     The Federal Power Act, referred to in subsec. (f), is [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], [41 Stat. 1063][/us/stat/41/1063], as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16][/us/usc/t16/s791a] and Tables.
 
-    The Public Utility Holding Company Act of 1935, referred to in subsec. (j), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
+    The Public Utility Holding Company Act of 1935, referred to in subsec. (j), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Another section 403 of act July 14, 1955, as added by [Pub. L. 91–604, § 14][/us/pl/91/604/s14], Dec. 31, 1970, [84 Stat. 1710][/us/stat/84/1710], is classified to [section 7642 of this title][/us/usc/t42/s7642].
+    Another section 403 of act July 14, 1955, as added by [Pub. L. 91–604][/us/pl/91/604], § 14, Dec. 31, 1970, [84 Stat. 1710][/us/stat/84/1710], is classified to [section 7642 of this title][/us/usc/t42/s7642].
 
  __Fossil Fuel Use__ 
 
-[Pub. L. 101–549, title IV, § 402][/us/pl/101/549/s402], Nov. 15, 1990, [104 Stat. 2631][/us/stat/104/2631], provided that:
+[Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 402, Nov. 15, 1990, [104 Stat. 2631][/us/stat/104/2631], provided that:
 
 >     “(a)  __Contracts for Hydroelectric Energy__  __.—__ 
 
@@ -117,19 +117,19 @@
 [/us/usc/t42/s7651g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651g
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2589
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F803
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
-[/us/pl/91/604/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs14
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1710
 [/us/usc/t42/s7642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7642
-[/us/pl/101/549/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs402
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2631
 
 

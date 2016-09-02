@@ -17,11 +17,11 @@
 
     The general purpose of the National Institute of Diabetes and Digestive and Kidney Diseases (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to diabetes mellitus and endocrine and metabolic diseases, digestive diseases and nutritional disorders, and kidney, urologic, and hematologic diseases.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 426, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 841][/us/stat/99/841].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 426, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 841][/us/stat/99/841].)
 
  __Study on Metabolic Disorders__ 
 
-[Pub. L. 106–310, div. A, title XXVIII, § 2802][/us/pl/106/310/s2802], Oct. 17, 2000, [114 Stat. 1167][/us/stat/114/1167], provided that:
+[Pub. L. 106–310, div. A, title XXVIII][/us/pl/106/310/dA/tXXVIII], § 2802, Oct. 17, 2000, [114 Stat. 1167][/us/stat/114/1167], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -37,7 +37,7 @@
 
  __Review of Disease Research Programs of the National Institute of Diabetes and Digestive and Kidney Diseases__ 
 
-[Pub. L. 99–158, § 10][/us/pl/99/158/s10], Nov. 20, 1985, [99 Stat. 883][/us/stat/99/883], provided that: 
+[Pub. L. 99–158][/us/pl/99/158], § 10, Nov. 20, 1985, [99 Stat. 883][/us/stat/99/883], provided that: 
 
 > “The Secretary of Health and Human Services shall conduct an administrative review of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases to determine if any of such programs could be more effectively and efficiently managed by other national research institutes. The Secretary shall complete such review within the one-year period beginning on the date of enactment of this Act \[Nov. 20, 1985\].”
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F841
-[/us/pl/106/310/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2802
+[/us/pl/106/310/dA/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXVIII
 [/us/stat/114/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1167
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
-[/us/pl/99/158/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs10
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F883
 
 

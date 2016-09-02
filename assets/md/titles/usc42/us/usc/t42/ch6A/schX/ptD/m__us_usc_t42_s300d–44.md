@@ -59,7 +59,7 @@
 
         Beginning 2 years after March 23, 2010, and every 2 years thereafter, the Secretary shall biennially report to Congress regarding the status of the grants made under [section 300d–41 of this title][/us/usc/t42/s300d–41] and on the overall financial stability of trauma centers.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1244, as added [Pub. L. 102–321, title VI, § 601][/us/pl/102/321/s601], July 10, 1992, [106 Stat. 435][/us/stat/106/435]; amended [Pub. L. 111–148, title III, § 3505(a)(4)][/us/pl/111/148/s3505/a/4], Mar. 23, 2010, [124 Stat. 524][/us/stat/124/524].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1244, as added [Pub. L. 102–321, title VI][/us/pl/102/321/tVI], § 601, July 10, 1992, [106 Stat. 435][/us/stat/106/435]; amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3505(a)(4), Mar. 23, 2010, [124 Stat. 524][/us/stat/124/524].)
 
  __Amendments__ 
 
@@ -88,9 +88,9 @@
 [/us/usc/t42/s300d–42/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9342%2Fa%2F2
 [/us/usc/t42/s300d–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9341
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs601
+[/us/pl/102/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtVI
 [/us/stat/106/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F435
-[/us/pl/111/148/s3505/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3505%2Fa%2F4
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F524
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

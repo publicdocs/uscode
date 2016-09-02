@@ -195,17 +195,17 @@
 
             (F) Nothing in this subsection shall be construed to provide the State Advisory Council with authority to modify, supersede, or negate the requirements of this subchapter.
 
-([Pub. L. 97–35, title VI, § 642B][/us/pl/97/35/s642B], as added and amended [Pub. L. 110–134, § 11][/us/pl/110/134/s11], Dec. 12, 2007, [121 Stat. 1408][/us/stat/121/1408].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 642B, as added and amended [Pub. L. 110–134][/us/pl/110/134], § 11, Dec. 12, 2007, [121 Stat. 1408][/us/stat/121/1408].)
 
  __References in Text__ 
 
-    The Child Care and Development Block Grant Act of 1990, referred to in subsecs. (a)(2)(B)(ii) and (b)(2)(A)(iii), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
+    The Child Care and Development Block Grant Act of 1990, referred to in subsecs. (a)(2)(B)(ii) and (b)(2)(A)(iii), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
 
     The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B)(iv) and (b)(1)(C)(viii), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20][/us/usc/t20/s1419]. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
  __Amendments__ 
 
-    2007—Subsec. (b). [Pub. L. 110–134, § 11(b)][/us/pl/110/134/s11/b], added subsec. (b).
+    2007—Subsec. (b). [Pub. L. 110–134][/us/pl/110/134], § 11(b), added subsec. (b).
 
 ----------
 
@@ -221,17 +221,17 @@
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t42/s9835/a/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F4%2FA%2Fiii
 [/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857
-[/us/pl/97/35/s642B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs642B
-[/us/pl/110/134/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs11
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1408
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
 [/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/110/134/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs11%2Fb
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 
 

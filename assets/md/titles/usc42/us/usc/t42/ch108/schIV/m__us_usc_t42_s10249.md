@@ -17,7 +17,7 @@
 
     Each department, agency, and instrumentality of the United States, including any independent agency, may furnish the Negotiator such information as he determines to be necessary to carry out his functions under this subchapter.
 
-([Pub. L. 97–425, title IV, § 409][/us/pl/97/425/s409], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5041][/us/pl/100/203/s5041], Dec. 22, 1987, [101 Stat. 1330–247][/us/stat/101/1330-247].)
+([Pub. L. 97–425, title IV][/us/pl/97/425/tIV], § 409, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5041, Dec. 22, 1987, [101 Stat. 1330–247][/us/stat/101/1330-247].)
 
  __Codification__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/97/425/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs409
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIV
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5041
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-247
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

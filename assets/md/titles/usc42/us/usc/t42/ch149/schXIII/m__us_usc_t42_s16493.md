@@ -121,7 +121,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title XIV, § 1405][/us/pl/109/58/s1405], Aug. 8, 2005, [119 Stat. 1062][/us/stat/119/1062].)
+([Pub. L. 109–58, title XIV][/us/pl/109/58/tXIV], § 1405, Aug. 8, 2005, [119 Stat. 1062][/us/stat/119/1062].)
 
 ----------
 
@@ -130,7 +130,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1405
+[/us/pl/109/58/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIV
 [/us/stat/119/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1062
 
 

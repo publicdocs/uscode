@@ -17,7 +17,7 @@
 
     An action which is taken or assistance which is provided pursuant to section 5170a, 5170b, 5172, 5173, or 5192 of this title, including such assistance provided pursuant to the procedures provided for in [section 5189 of this title][/us/usc/t42/s5189], which has the effect of restoring a facility substantially to its condition prior to the disaster or emergency, shall not be deemed a major Federal action significantly affecting the quality of the human environment within the meaning of the National Environmental Policy Act of 1969 ([83 Stat. 852][/us/stat/83/852]) \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\]. Nothing in this section shall alter or affect the applicability of the National Environmental Policy Act of 1969 to other Federal actions taken under this chapter or under any other provisions of law.
 
-([Pub. L. 93–288, title III, § 316][/us/pl/93/288/s316], as added [Pub. L. 100–707, title I, § 105(m)(1)][/us/pl/100/707/s105/m/1], Nov. 23, 1988, [102 Stat. 4694][/us/stat/102/4694].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 316, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(m)(1), Nov. 23, 1988, [102 Stat. 4694][/us/stat/102/4694].)
 
  __References in Text__ 
 
@@ -39,8 +39,8 @@
 [/us/usc/t42/s5189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5189
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/93/288/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs316
-[/us/pl/100/707/s105/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fm%2F1
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4694
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

@@ -37,11 +37,11 @@
 
         (2) Not later than September 30, 1978, the President shall report to the Congress on steps he has taken to implement the recommendations included in the report under paragraph (1), including any recommendations he may have for legislation.
 
-([Pub. L. 95–155, § 9][/us/pl/95/155/s9], Nov. 8, 1977, [91 Stat. 1261][/us/stat/91/1261].)
+([Pub. L. 95–155][/us/pl/95/155], § 9, Nov. 8, 1977, [91 Stat. 1261][/us/stat/91/1261].)
 
  __References in Text__ 
 
-    [Section 4361 of this title][/us/usc/t42/s4361], referred to in subsec. (a), was repealed by [Pub. L. 104–66, title II, § 2021(k)(1)][/us/pl/104/66/s2021/k/1], Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].
+    [Section 4361 of this title][/us/usc/t42/s4361], referred to in subsec. (a), was repealed by [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(k)(1), Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Coordination of Environmental Research, Development, and Demonstration Efforts; Study and Report__ 
 
-    [Pub. L. 95–477, § 3(c)][/us/pl/95/477/s3/c], Oct. 18, 1978, [92 Stat. 1509][/us/stat/92/1509], authorized to be appropriated to the Environmental Protection Agency for the fiscal year 1979, $1,000,000, and for the fiscal year 1980, $1,000,000, for a study and report, under a contract let by the Administrator, to be conducted outside the Federal Government, on coordination of the Federal Government’s efforts in environmental research, development, and demonstration, and the application of the results of such efforts to environmental problems, with the report on the study submitted to the President, the Administrator, and the Congress within two years after Oct. 18, 1978, accompanied by recommendations for action by the President, the Administrator, other agencies, or the Congress, as may be appropriate.
+    [Pub. L. 95–477][/us/pl/95/477], § 3(c), Oct. 18, 1978, [92 Stat. 1509][/us/stat/92/1509], authorized to be appropriated to the Environmental Protection Agency for the fiscal year 1979, $1,000,000, and for the fiscal year 1980, $1,000,000, for a study and report, under a contract let by the Administrator, to be conducted outside the Federal Government, on coordination of the Federal Government’s efforts in environmental research, development, and demonstration, and the application of the results of such efforts to environmental problems, with the report on the study submitted to the President, the Administrator, and the Congress within two years after Oct. 18, 1978, accompanied by recommendations for action by the President, the Administrator, other agencies, or the Congress, as may be appropriate.
 
 ----------
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/95/155/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155%2Fs9
+[/us/pl/95/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155
 [/us/stat/91/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1261
 [/us/usc/t42/s4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4361
-[/us/pl/104/66/s2021/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fk%2F1
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F728
-[/us/pl/95/477/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs3%2Fc
+[/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
 [/us/stat/92/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1509
 
 

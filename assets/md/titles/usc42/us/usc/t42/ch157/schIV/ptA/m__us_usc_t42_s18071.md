@@ -167,21 +167,21 @@
 
             Any determination under this section shall be made on the basis of the taxable year for which the advance determination is made under [section 18082 of this title][/us/usc/t42/s18082] and not the taxable year for which the credit under [section 36B of title 26][/us/usc/t26/s36B] is allowed.
 
-([Pub. L. 111–148, title I, § 1402][/us/pl/111/148/s1402], Mar. 23, 2010, [124 Stat. 220][/us/stat/124/220]; [Pub. L. 111–152, title I, § 1001(b)][/us/pl/111/152/s1001/b], Mar. 30, 2010, [124 Stat. 1031][/us/stat/124/1031].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1402, Mar. 23, 2010, [124 Stat. 220][/us/stat/124/220]; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1001(b), Mar. 30, 2010, [124 Stat. 1031][/us/stat/124/1031].)
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1)(B)(i)(I). [Pub. L. 111–152, § 1001(b)(1)(A)][/us/pl/111/152/s1001/b/1/A], substituted “94” for “90”.
+    2010—Subsec. (c)(1)(B)(i)(I). [Pub. L. 111–152][/us/pl/111/152], § 1001(b)(1)(A), substituted “94” for “90”.
 
-    Subsec. (c)(1)(B)(i)(II). [Pub. L. 111–152, § 1001(b)(1)(B)(i)][/us/pl/111/152/s1001/b/1/B/i], substituted “87” for “80”.
+    Subsec. (c)(1)(B)(i)(II). [Pub. L. 111–152][/us/pl/111/152], § 1001(b)(1)(B)(i), substituted “87” for “80”.
 
-    Subsec. (c)(1)(B)(i)(III), (IV). [Pub. L. 111–152, § 1001(b)(1)(B)(ii)][/us/pl/111/152/s1001/b/1/B/ii], (C), added subcls. (III) and (IV) and struck out former subcl. (III). Prior to amendment, subcl. (III) read as follows: “70 percent in the case of an eligible insured described in clause (ii) or (iii) of subparagraph (A).”
+    Subsec. (c)(1)(B)(i)(III), (IV). [Pub. L. 111–152][/us/pl/111/152], § 1001(b)(1)(B)(ii), (C), added subcls. (III) and (IV) and struck out former subcl. (III). Prior to amendment, subcl. (III) read as follows: “70 percent in the case of an eligible insured described in clause (ii) or (iii) of subparagraph (A).”
 
-    Subsec. (c)(2)(A). [Pub. L. 111–152, § 1001(b)(2)(A)(i)][/us/pl/111/152/s1001/b/2/A/i], substituted “94” for “90”.
+    Subsec. (c)(2)(A). [Pub. L. 111–152][/us/pl/111/152], § 1001(b)(2)(A)(i), substituted “94” for “90”.
 
-    Subsec. (c)(2)(B). [Pub. L. 111–152, § 1001(b)(2)(B)(i)][/us/pl/111/152/s1001/b/2/B/i], substituted “87” for “80”.
+    Subsec. (c)(2)(B). [Pub. L. 111–152][/us/pl/111/152], § 1001(b)(2)(B)(i), substituted “87” for “80”.
 
-    Subsec. (c)(2)(C). [Pub. L. 111–152, § 1001(b)(2)(A)(ii)][/us/pl/111/152/s1001/b/2/A/ii], (B)(ii), (C), added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 111–152][/us/pl/111/152], § 1001(b)(2)(A)(ii), (B)(ii), (C), added subpar. (C).
 
 ----------
 
@@ -199,15 +199,15 @@
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/usc/t42/s18082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18082
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
-[/us/pl/111/148/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1402
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F220
-[/us/pl/111/152/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fb
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1031
-[/us/pl/111/152/s1001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fb%2F1%2FA
-[/us/pl/111/152/s1001/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fb%2F1%2FB%2Fi
-[/us/pl/111/152/s1001/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fb%2F1%2FB%2Fii
-[/us/pl/111/152/s1001/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fb%2F2%2FA%2Fi
-[/us/pl/111/152/s1001/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fb%2F2%2FB%2Fi
-[/us/pl/111/152/s1001/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fb%2F2%2FA%2Fii
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 
 

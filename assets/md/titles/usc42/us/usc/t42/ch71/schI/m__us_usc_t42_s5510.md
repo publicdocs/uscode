@@ -63,7 +63,7 @@
 
         Each Federal officer and agency having functions under this subchapter shall include in his or its annual report to the President and the Congress a full and complete description of his or its activities (current and projected) under this subchapter, along with his or its recommendations for legislative, administrative, or other action to improve the programs under this subchapter or to achieve the objectives of this subchapter more promptly and effectively. In addition, the Secretary shall submit annually to the President and the Congress a special report summarizing in appropriate detail all of the activities (current and projected) of the various Federal officers and agencies having functions under this subchapter, with the objective of presenting a comprehensive overall view of such programs.
 
-([Pub. L. 93–409, § 12][/us/pl/93/409/s12], Sept. 3, 1974, [88 Stat. 1075][/us/stat/88/1075]; [Pub. L. 93–438, title I, § 104(f)][/us/pl/93/438/s104/f], title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238], 1250; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(21)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
+([Pub. L. 93–409][/us/pl/93/409], § 12, Sept. 3, 1974, [88 Stat. 1075][/us/stat/88/1075]; [Pub. L. 93–438, title I][/us/pl/93/438/tI], § 104(f), title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238], 1250; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(21)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
 
  __Amendments__ 
 
@@ -92,15 +92,15 @@
 
 [/us/usc/t42/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5514
 [/us/usc/t42/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5514
-[/us/pl/93/409/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs12
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1075
-[/us/pl/93/438/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs104%2Ff
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1238
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

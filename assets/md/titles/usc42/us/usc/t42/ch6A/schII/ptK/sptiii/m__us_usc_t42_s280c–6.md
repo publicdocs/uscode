@@ -281,7 +281,7 @@
 
         For the purpose of carrying out this section, there is authorized to be appropriated $30,000,000 for each of the fiscal years 1993 and 1994.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399, as added [Pub. L. 102–321, title V, § 502(2)][/us/pl/102/321/s502/2], July 10, 1992, [106 Stat. 427][/us/stat/106/427]; amended [Pub. L. 103–448, title II, § 204(w)(2)(D)][/us/pl/103/448/s204/w/2/D], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 108–446, title III, § 305(i)(2)][/us/pl/108/446/s305/i/2], Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399, as added [Pub. L. 102–321, title V][/us/pl/102/321/tV], § 502(2), July 10, 1992, [106 Stat. 427][/us/stat/106/427]; amended [Pub. L. 103–448, title II][/us/pl/103/448/tII], § 204(w)(2)(D), Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(i)(2), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
 
  __References in Text__ 
 
@@ -293,7 +293,7 @@
 
     A prior section 399 of act July 1, 1944, was renumbered section 398A by [section 502(1) of Pub. L. 102–321][/us/pl/102/321/s502/1] and is classified to [section 280c–4 of this title][/us/usc/t42/s280c–4].
 
-    Another prior section 399 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, formerly § 399b, as added Oct. 22, 1965, [Pub. L. 89–291, § 2][/us/pl/89/291/s2], [79 Stat. 1066][/us/stat/79/1066]; renumbered § 399a and amended Mar. 13, 1970, [Pub. L. 91–212, § 10(c)(3)][/us/pl/91/212/s10/c/3], (d)(2)(A), [84 Stat. 67][/us/stat/84/67]; renumbered § 399, July 23, 1974, [Pub. L. 93–353, title II, § 204][/us/pl/93/353/s204], [88 Stat. 373][/us/stat/88/373]; Oct. 17, 1979, [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], [93 Stat. 695][/us/stat/93/695], which related to the maintenance of records by recipients of grants and audits thereof by the Secretary of Health and Human Services and the Comptroller General of the United States, was classified to [section 280b–11 of this title][/us/usc/t42/s280b–11], prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
+    Another prior section 399 of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], formerly § 399b, as added Oct. 22, 1965, [Pub. L. 89–291][/us/pl/89/291], § 2, [79 Stat. 1066][/us/stat/79/1066]; renumbered § 399a and amended Mar. 13, 1970, [Pub. L. 91–212][/us/pl/91/212], § 10(c)(3), (d)(2)(A), [84 Stat. 67][/us/stat/84/67]; renumbered § 399, July 23, 1974, [Pub. L. 93–353, title II][/us/pl/93/353/tII], § 204, [88 Stat. 373][/us/stat/88/373]; Oct. 17, 1979, [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), [93 Stat. 695][/us/stat/93/695], which related to the maintenance of records by recipients of grants and audits thereof by the Secretary of Health and Human Services and the Comptroller General of the United States, was classified to [section 280b–11 of this title][/us/usc/t42/s280b–11], prior to repeal by [Pub. L. 99–158][/us/pl/99/158], § 3(b), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
  __Amendments__ 
 
@@ -315,7 +315,7 @@
 
  __Purpose__ 
 
-[Pub. L. 102–321, title V, § 501][/us/pl/102/321/s501], July 10, 1992, [106 Stat. 426][/us/stat/106/426], provided that: 
+[Pub. L. 102–321, title V][/us/pl/102/321/tV], § 501, July 10, 1992, [106 Stat. 426][/us/stat/106/426], provided that: 
 
 > “The purpose of this title \[enacting this section\] is—
 
@@ -345,11 +345,11 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs502%2F2
+[/us/pl/102/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtV
 [/us/stat/106/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F427
-[/us/pl/103/448/s204/w/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs204%2Fw%2F2%2FD
+[/us/pl/103/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtII
 [/us/stat/108/4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4746
-[/us/pl/108/446/s305/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fi%2F2
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -359,17 +359,17 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/102/321/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs502%2F1
 [/us/usc/t42/s280c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280c%E2%80%934
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291%2Fs2
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/89/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291
 [/us/stat/79/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1066
-[/us/pl/91/212/s10/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F212%2Fs10%2Fc%2F3
+[/us/pl/91/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F212
 [/us/stat/84/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F67
-[/us/pl/93/353/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs204
+[/us/pl/93/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtII
 [/us/stat/88/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F373
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t42/s280b–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%9311
-[/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
@@ -380,7 +380,7 @@
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/102/321/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs501
+[/us/pl/102/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtV
 [/us/stat/106/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F426
 
 

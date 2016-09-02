@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated for each fiscal year ending after September 30, 1984, such sums as may be necessary to provide under this chapter Federal law enforcement assistance other than funds.
 
-([Pub. L. 98–473, title II, § 609Y][/us/pl/98/473/s609Y], Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609Y, Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609Y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609Y
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
 
 

@@ -17,7 +17,7 @@
 
     For the purposes of carrying out this part, there is authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2013.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3018, as added [Pub. L. 111–5, div. A, title XIII, § 13301][/us/pl/111/5/s13301], Feb. 17, 2009, [123 Stat. 258][/us/stat/123/258].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3018, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13301, Feb. 17, 2009, [123 Stat. 258][/us/stat/123/258].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13301
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258
 
 

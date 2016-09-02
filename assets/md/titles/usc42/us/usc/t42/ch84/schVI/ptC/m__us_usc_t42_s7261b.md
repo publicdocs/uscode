@@ -19,7 +19,7 @@
 
     (2) For the purposes of this section, the term “small business” means a business concern that meets the applicable size standards prescribed pursuant to [section 632(a) of title 15][/us/usc/t15/s632/a].
 
-([Pub. L. 102–484, div. C, title XXXI, § 3135(b)][/us/pl/102/484/s3135/b], Oct. 23, 1992, [106 Stat. 2641][/us/stat/106/2641].)
+([Pub. L. 102–484, div. C, title XXXI][/us/pl/102/484/dC/tXXXI], § 3135(b), Oct. 23, 1992, [106 Stat. 2641][/us/stat/106/2641].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/102/484/s3135/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3135%2Fb
+[/us/pl/102/484/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXI
 [/us/stat/106/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2641
 
 

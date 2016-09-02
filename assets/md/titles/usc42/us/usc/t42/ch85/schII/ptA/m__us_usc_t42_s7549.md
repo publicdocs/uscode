@@ -45,7 +45,7 @@
 
         (3) The Administrator shall designate at least one center at high-altitude conditions to provide research on after-market emission components, dual-fueled vehicles and conversion kits, the effects of tampering on emissions equipment, testing of alternate fuels and conversion kits, and the development of curricula, training courses, and materials to maximize the effectiveness of inspection and maintenance programs as they relate to promoting effective control of vehicle emissions at high-altitude elevations. Preference shall be given to existing vehicle emissions testing and research centers that have established reputations for vehicle emissions research and development and training, and that possess in-house Federal Test Procedure capacity.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 215, as added [Pub. L. 95–95, title II, § 211(b)][/us/pl/95/95/s211/b], Aug. 7, 1977, [91 Stat. 757][/us/stat/91/757]; amended [Pub. L. 95–190, § 14(a)(75)][/us/pl/95/190/s14/a/75], Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title II, § 224][/us/pl/101/549/s224], Nov. 15, 1990, [104 Stat. 2503][/us/stat/104/2503]; [Pub. L. 102–240, title III, § 3004(b)][/us/pl/102/240/s3004/b], Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 215, as added [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 211(b), Aug. 7, 1977, [91 Stat. 757][/us/stat/91/757]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(75), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 224, Nov. 15, 1990, [104 Stat. 2503][/us/stat/104/2503]; [Pub. L. 102–240, title III][/us/pl/102/240/tIII], § 3004(b), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088].)
 
  __Codification__ 
 
@@ -80,13 +80,13 @@
 [/us/usc/t42/s7521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fd
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs211%2Fb
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F757
-[/us/pl/95/190/s14/a/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F75
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1404
-[/us/pl/101/549/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs224
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2503
-[/us/pl/102/240/s3004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3004%2Fb
+[/us/pl/102/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtIII
 [/us/stat/105/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2088
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549

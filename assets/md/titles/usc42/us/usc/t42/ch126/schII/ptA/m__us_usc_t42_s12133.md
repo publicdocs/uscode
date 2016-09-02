@@ -17,7 +17,7 @@
 
     The remedies, procedures, and rights set forth in [section 794a of title 29][/us/usc/t29/s794a] shall be the remedies, procedures, and rights this subchapter provides to any person alleging discrimination on the basis of disability in violation of [section 12132 of this title][/us/usc/t42/s12132].
 
-([Pub. L. 101–336, title II, § 203][/us/pl/101/336/s203], July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 203, July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t29/s794a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794a
 [/us/usc/t42/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12132
-[/us/pl/101/336/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs203
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F337
 
 

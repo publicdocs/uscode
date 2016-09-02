@@ -103,7 +103,7 @@
 
             The Secretary may use not more than 10 percent of the amount appropriated under paragraph (1) for a fiscal year for the administrative expenses of carrying out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330J, as added [Pub. L. 107–251, title II, § 221][/us/pl/107/251/s221], Oct. 26, 2002, [116 Stat. 1638][/us/stat/116/1638].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330J, as added [Pub. L. 107–251, title II][/us/pl/107/251/tII], § 221, Oct. 26, 2002, [116 Stat. 1638][/us/stat/116/1638].)
 
 ----------
 
@@ -113,7 +113,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/251/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs221
+[/us/pl/107/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtII
 [/us/stat/116/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1638
 
 

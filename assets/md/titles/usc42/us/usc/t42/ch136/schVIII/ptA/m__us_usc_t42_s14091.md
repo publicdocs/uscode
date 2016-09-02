@@ -21,7 +21,7 @@
 
     (2) provide educational assistance to law enforcement personnel and to students who possess a sincere interest in public service in the form of law enforcement.
 
-([Pub. L. 103–322, title XX, § 200102][/us/pl/103/322/s200102], Sept. 13, 1994, [108 Stat. 2049][/us/stat/108/2049].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200102, Sept. 13, 1994, [108 Stat. 2049][/us/stat/108/2049].)
 
  __Short Title__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s200102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200102
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2049
 [/us/pl/103/322/s200101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200101
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701

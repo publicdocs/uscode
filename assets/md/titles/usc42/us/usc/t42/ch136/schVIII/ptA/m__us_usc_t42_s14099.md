@@ -55,7 +55,7 @@
 
     (10) provide that a participant shall, while serving as a member of a police force, be compensated at the same rate of pay and benefits and enjoy the same rights under applicable agreements with labor organizations and under State and local law as other police officers of the same rank and tenure in the police force of which the participant is a member.
 
-([Pub. L. 103–322, title XX, § 200110][/us/pl/103/322/s200110], Sept. 13, 1994, [108 Stat. 2056][/us/stat/108/2056]; [Pub. L. 107–273, div. C, title I, § 11006(3)][/us/pl/107/273/s11006/3], Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200110, Sept. 13, 1994, [108 Stat. 2056][/us/stat/108/2056]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11006(3), Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t42/s14096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14096
-[/us/pl/103/322/s200110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200110
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2056
-[/us/pl/107/273/s11006/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11006%2F3
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1817
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 

@@ -29,7 +29,7 @@
 
         (B) In a case in which the employee’s death occurred after the employee applied under this part and before compensation was paid under paragraph (1), and the employee’s death occurred from a cause other than the covered illness of the employee, the survivor of that employee may elect to receive, in lieu of compensation under subparagraph (A), the amount of contractor employee compensation that the employee would have received in accordance with [section 7385s–2 of this title][/us/usc/t42/s7385s–2] if the employee’s death had not occurred before compensation was paid under paragraph (1).
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3672\], as added [Pub. L. 108–375, div. C, title XXXI, § 3161][/us/pl/108/375/s3161], Oct. 28, 2004, [118 Stat. 2178][/us/stat/118/2178].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3672\], as added [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3161, Oct. 28, 2004, [118 Stat. 2178][/us/stat/118/2178].)
 
 ----------
 
@@ -41,8 +41,8 @@
 [/us/usc/t42/s7385s–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%932
 [/us/usc/t42/s7385s–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%933
 [/us/usc/t42/s7385s–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%932
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/375/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3161
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2178
 
 

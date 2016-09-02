@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s712.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_ch7_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs713)
+[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s712.md) | [Next](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s714...716.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs713)
 
 ## § 713. Personal responsibility education
 
@@ -231,87 +231,35 @@
 
         For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2017. Amounts appropriated under this subsection shall remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 513, as added and amended [Pub. L. 111–148, title II, § 2953][/us/pl/111/148/s2953], title X, § 10201(h), Mar. 23, 2010, [124 Stat. 347][/us/stat/124/347], 922; [Pub. L. 113–93, title II, § 206][/us/pl/113/93/s206], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 215][/us/pl/114/10/s215], Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 513, as added and amended [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2953, title X, § 10201(h), Mar. 23, 2010, [124 Stat. 347][/us/stat/124/347], 922; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 206, Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 215, Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
 
  __Prior Provisions__ 
 
-    A prior section 713, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 513, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 928][/us/stat/81/928], which related to administration, was omitted in the general revision of this subchapter by [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818].
+    A prior section 713, [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], § 513, as added Jan. 2, 1968, [Pub. L. 90–248, title III][/us/pl/90/248/tIII], § 301, [81 Stat. 928][/us/stat/81/928], which related to administration, was omitted in the general revision of this subchapter by [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(a), Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818].
 
-    Another prior section 713, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 513, [49 Stat. 632][/us/stat/49/632]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 506, [53 Stat. 1381][/us/stat/53/1381]; 1946 Reorg. Plan No. 2, §§ 1, 4, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(e), [64 Stat. 558][/us/stat/64/558]; July 30, 1965, [Pub. L. 89–97, title II, § 204(b)][/us/pl/89/97/s204/b], [79 Stat. 354][/us/stat/79/354], related to contents of State plans for services for crippled children and their approval by the Administrator prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301], and was covered by former [section 705 of this title][/us/usc/t42/s705].
+    Another prior section 713, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 513, [49 Stat. 632][/us/stat/49/632]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 506, [53 Stat. 1381][/us/stat/53/1381]; 1946 Reorg. Plan No. 2, §§ 1, 4, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(e), [64 Stat. 558][/us/stat/64/558]; July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97/tII], § 204(b), [79 Stat. 354][/us/stat/79/354], related to contents of State plans for services for crippled children and their approval by the Administrator prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248][/us/pl/90/248], § 301, and was covered by former [section 705 of this title][/us/usc/t42/s705].
 
-    Provisions similar to those comprising former section 713 were contained in section 541 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, [49 Stat. 634][/us/stat/49/634] (formerly classified to [section 731 of this title][/us/usc/t42/s731]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
+    Provisions similar to those comprising former section 713 were contained in section 541 of [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], [49 Stat. 634][/us/stat/49/634] (formerly classified to [section 731 of this title][/us/usc/t42/s731]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248][/us/pl/90/248], § 301.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(A), (4)(A). [Pub. L. 114–10, § 215(1)][/us/pl/114/10/s215/1], substituted “2017” for “2015” wherever appearing.
+    2015—Subsec. (a)(1)(A), (4)(A). [Pub. L. 114–10][/us/pl/114/10], § 215(1), substituted “2017” for “2015” wherever appearing.
 
-    Subsec. (a)(4)(B)(i). [Pub. L. 114–10, § 215(2)][/us/pl/114/10/s215/2], substituted “through 2017” for “, 2013, 2014, and 2015”.
+    Subsec. (a)(4)(B)(i). [Pub. L. 114–10][/us/pl/114/10], § 215(2), substituted “through 2017” for “, 2013, 2014, and 2015”.
 
-    Subsec. (f). [Pub. L. 114–10, § 215(3)][/us/pl/114/10/s215/3], substituted “2017” for “2015”.
+    Subsec. (f). [Pub. L. 114–10][/us/pl/114/10], § 215(3), substituted “2017” for “2015”.
 
-    2014—Subsec. (a)(1)(A), (4)(A). [Pub. L. 113–93, § 206(1)][/us/pl/113/93/s206/1], substituted “2015” for “2014” wherever appearing.
+    2014—Subsec. (a)(1)(A), (4)(A). [Pub. L. 113–93][/us/pl/113/93], § 206(1), substituted “2015” for “2014” wherever appearing.
 
-    Subsec. (a)(4)(B)(i). [Pub. L. 113–93, § 206(2)][/us/pl/113/93/s206/2], substituted “2014, and 2015” for “and 2014”.
+    Subsec. (a)(4)(B)(i). [Pub. L. 113–93][/us/pl/113/93], § 206(2), substituted “2014, and 2015” for “and 2014”.
 
-    Subsec. (f). [Pub. L. 113–93, § 206(3)][/us/pl/113/93/s206/3], substituted “2015” for “2014”.
+    Subsec. (f). [Pub. L. 113–93][/us/pl/113/93], § 206(3), substituted “2015” for “2014”.
 
-    2010—Subsec. (b)(2)(C)(i). [Pub. L. 111–148, § 10201(h)][/us/pl/111/148/s10201/h], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions.”
-
-§§ 714 to 716. __Omitted__ 
-
- __Codification__ 
-
-    Sections 714 to 716 were omitted in the general revision of this subchapter by [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
-
-    Section 714, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 514, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 928][/us/stat/81/928], defined “crippled child”.
-
-    Another prior section 714, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 514, [49 Stat. 632][/us/stat/49/632]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 507(a), (b), [53 Stat. 1381][/us/stat/53/1381]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(e), [64 Stat. 558][/us/stat/64/558]; Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(b)(2)(B)][/us/pl/86/778/s707/b/2/B], [74 Stat. 996][/us/stat/74/996]; July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97], §§ 202(b), 203(b), [79 Stat. 353][/us/stat/79/353], 354, provided for payment to States with an approved plan for services for crippled children, computation of amounts, and prescribed general availability of services by July 1, 1975, as requisite for payments for any period after June 30, 1966 prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301], and was covered by former [section 706 of this title][/us/usc/t42/s706].
-
-    Section 715, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 515, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 928][/us/stat/81/928], related to observance of religious beliefs.
-
-    Another prior section 715, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 515, [49 Stat. 633][/us/stat/49/633]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(e), [64 Stat. 558][/us/stat/64/558], provided for stopping payment on failure to comply with State plan for services for crippled children prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301], and was covered by former [section 707 of this title][/us/usc/t42/s707].
-
-    Section 716, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 516, as added July 1, 1973, [Pub. L. 93–53, § 4(b)][/us/pl/93/53/s4/b], [87 Stat. 136][/us/stat/87/136], related to supplemental allotments.
-
-    Another prior section 716, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 516, as added July 30, 1965, [Pub. L. 89–97, title II, § 203(a)][/us/pl/89/97/s203/a], [79 Stat. 353][/us/stat/79/353], authorized appropriations for training of professional personnel for health and related care of crippled and mentally retarded children of $5,000,000, $10,000,000, and $17,500,000 for fiscal years ending June 30, 1967, 1968, 1969, and thereafter, respectively, and was omitted in the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301], and was covered by former sections 702 and 711 of this title.
-
- __Supplemental Allotments for Fiscal Year Ending__  __June 30, 1974__ 
-
-    [Pub. L. 93–53, § 4(c)][/us/pl/93/53/s4/c], July 1, 1973, [87 Stat. 136][/us/stat/87/136], authorized a State, for fiscal year ending June 30, 1974, to receive an additional supplemental allotment to match excess of amount of allotments which such State would have received under sections 703 and 704 of this title for such year if [section 4(a) of Pub. L. 93–53][/us/pl/93/53/s4/a] had not been enacted over aggregate of allotments which such State actually received under such sections plus aggregate of grants received under sections 708, 709, and 710 of this title for fiscal year ending June 30, 1973, and authorized appropriations necessary for supplemental allotments.
-
-§§ 721 to 728. __Repealed.__  __[__  __Pub. L. 90–248, title II, § 240(e)(1)__  __][/us/pl/90/248/s240/e/1]__  __,__  __Jan. 2, 1968__  __,__  __[__  __81 Stat. 915__  __][/us/stat/81/915]__ 
-
-    Section 721, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 521, [49 Stat. 633][/us/stat/49/633]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 507(c), [53 Stat. 1381][/us/stat/53/1381]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; 1946 Reorg. Plan. No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(7), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(e), pt. 6, § 361(e), [64 Stat. 552][/us/stat/64/552], 558; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title IV, § 402, [70 Stat. 856][/us/stat/70/856]; Aug. 28, 1958, [Pub. L. 85–840, title VI, § 601][/us/pl/85/840/s601], [72 Stat. 1052][/us/stat/72/1052]; Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(a)(3)(A)][/us/pl/86/778/s707/a/3/A], [74 Stat. 996][/us/stat/74/996]; July 25, 1962, [Pub. L. 87–543, title I, § 102(a)][/us/pl/87/543/s102/a], (d)(1), [76 Stat. 182][/us/stat/76/182], 184; July 30, 1965, [Pub. L. 89–97, title II, § 207][/us/pl/89/97/s207], [79 Stat. 355][/us/stat/79/355], authorized appropriations for child-welfare services.
-
-    Section 722, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 522, as added Aug. 28, 1958, [Pub. L. 85–840, title VI, § 601][/us/pl/85/840/s601], [72 Stat. 1053][/us/stat/72/1053]; amended Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(a)(3)(B)][/us/pl/86/778/s707/a/3/B], [74 Stat. 996][/us/stat/74/996]; July 25, 1962, [Pub. L. 87–543, title I, § 102(c)(1)][/us/pl/87/543/s102/c/1], [76 Stat. 183][/us/stat/76/183]; July 30, 1965, [Pub. L. 89–97, title II, § 208(b)][/us/pl/89/97/s208/b], [79 Stat. 355][/us/stat/79/355], provided for allotments to States.
-
-    Section 723, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 523, as added Aug. 28, 1958, [Pub. L. 85–840, title VI, § 601][/us/pl/85/840/s601], [72 Stat. 1053][/us/stat/72/1053]; amended July 25, 1962, [Pub. L. 87–543, title I, § 102(b)][/us/pl/87/543/s102/b], [76 Stat. 182][/us/stat/76/182]; July 30, 1965, [Pub. L. 89–97, title II, § 208(c)][/us/pl/89/97/s208/c], [79 Stat. 356][/us/stat/79/356], provided for payment to States and computation of amounts.
-
-    Section 724, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 524, as added Aug. 28, 1958, [Pub. L. 85–840, title VI, § 601][/us/pl/85/840/s601], [72 Stat. 1054][/us/stat/72/1054]; amended June 25, 1959, [Pub. L. 86–70, § 32(b)][/us/pl/86/70/s32/b], [73 Stat. 149][/us/stat/73/149]; July 12, 1960, [Pub. L. 86–624, § 30(b)][/us/pl/86/624/s30/b], [74 Stat. 420][/us/stat/74/420], provided for allotment percentage and Federal share.
-
-    Section 725, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 525, as added Aug. 28, 1958, [Pub. L. 85–840, title VI, § 601][/us/pl/85/840/s601], [72 Stat. 1054][/us/stat/72/1054], provided for reallotment of allotments to States.
-
-    Section 726, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 526, as added Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(b)(3)][/us/pl/86/778/s707/b/3], [74 Stat. 997][/us/stat/74/997]; amended July 25, 1962, [Pub. L. 87–543, title I, § 123(d)][/us/pl/87/543/s123/d], [76 Stat. 193][/us/stat/76/193], provided for research, training, or demonstration projects.
-
-    Section 727, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 527, as added July 25, 1962, [Pub. L. 87–543, title I, § 102(c)(2)][/us/pl/87/543/s102/c/2], [76 Stat. 183][/us/stat/76/183], provided for allotments and reallotment of allotments to States for day care services. Section had been previously repealed by [Pub. L. 89–97, title II, § 208(a)(1)][/us/pl/89/97/s208/a/1], July 30, 1965, [79 Stat. 355][/us/stat/79/355], effective Jan. 1, 1966, under [section 208(d) of Pub. L. 89–97][/us/pl/89/97/s208/d].
-
-    Section 728, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 528, as added July 25, 1962, [Pub. L. 87–543, title I, § 102(d)(2)][/us/pl/87/543/s102/d/2], [76 Stat. 184][/us/stat/76/184], defined “child-welfare services”.
-
-§§ 729 to 729a, 731. __Omitted__ 
-
- __Codification__ 
-
-    Section 729, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 531, as added Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274]; amended Jan. 2, 1968, [Pub. L. 90–248, title III, § 303][/us/pl/90/248/s303], [81 Stat. 929][/us/stat/81/929], related to maternity and infant care projects, authorized appropriations of $5,000,000; $15,000,000; $30,000,000; and $35,000,000 for fiscal years ending June 30, 1964, 1965, 1966 and 1967, and 1968, respectively; provided for grants to State health agencies, limitations on payments, scope of projects, health hazards, low-income families, other reasons for lack of health care; and provided for payments to States, adjustments, advances or reimbursement, installments, and conditions, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301]. See sections 701 and 702 of this title. Section 531 of act Aug. 14, 1935, as originally enacted, appropriated funds for vocational rehabilitation, and was classified to [section 45b of Title 29][/us/usc/t29/s45b], Labor. It was omitted as superseded by [section 31 of Title 29][/us/usc/t29/s31].
-
-    Section 729–1, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 532, as added July 30, 1965, [Pub. L. 89–97, title II, § 205(3)][/us/pl/89/97/s205/3], [79 Stat. 354][/us/stat/79/354], provided for projects for health of school and preschool children, authorized appropriations of $15,000,000; $35,000,000; $40,000,000; $45,000,000; and $50,000,000 for fiscal years ending June 30, 1966, 1967, 1968, 1969, and 1970, respectively; provided for grants to State health agencies, medical and dental schools, and teaching hospitals, limitations on payments, eligibility for grants, comprehensive care and services; and provided for payments to States, adjustments, advances or reimbursement, installments, and conditions, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301]. See sections 701 and 702 of this title.
-
-    Section 729a, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 533, formerly § 532, as added Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274]; renumbered July 30, 1965, [Pub. L. 89–97, title II, § 205(2)][/us/pl/89/97/s205/2], [79 Stat. 354][/us/stat/79/354], provided for research projects relating to maternal and child health services and crippled children’s services, authorized appropriations of $8,000,000 for fiscal year ending June 30, 1964, and each subsequent fiscal year; and provided for payments to eligible institutions, agencies, and organizations, adjustments, advances or reimbursements, installments, and conditions, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301]. See sections 701 and 702 of this title.
-
-    Section 731, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 541, [49 Stat. 634][/us/stat/49/634]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(8), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(e), title IV, § 402(a), [64 Stat. 558][/us/stat/64/558], required the Administrator to make studies and investigations to promote efficient administration of sections 701 to 703, 704, 705, 711 to 715, 721 to 729a, and 731 of this title, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301]. See [section 713 of this title][/us/usc/t42/s713].
+    2010—Subsec. (b)(2)(C)(i). [Pub. L. 111–148][/us/pl/111/148], § 10201(h), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions.”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s712.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_ch7_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs713)
+[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s712.md) | [Next](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s714...716.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs713)
 
 ----------
 ----------
@@ -325,16 +273,16 @@
 [/us/usc/t42/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs708
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2953
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F347
-[/us/pl/113/93/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
-[/us/pl/114/10/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/90/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIII
 [/us/stat/81/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F928
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F632
@@ -343,150 +291,20 @@
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/89/97/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs204%2Fb
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/usc/t42/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs705
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
 [/us/stat/49/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F634
 [/us/usc/t42/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs731
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/pl/114/10/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215%2F1
-[/us/pl/114/10/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215%2F2
-[/us/pl/114/10/s215/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs215%2F3
-[/us/pl/113/93/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206%2F1
-[/us/pl/113/93/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206%2F2
-[/us/pl/113/93/s206/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs206%2F3
-[/us/pl/111/148/s10201/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10201%2Fh
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
-[/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
-[/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
-[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/stat/81/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F928
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/stat/49/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F632
-[/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
-[/us/stat/53/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1381
-[/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
-[/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
-[/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/86/778/s707/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs707%2Fb%2F2%2FB
-[/us/stat/74/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F996
-[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
-[/us/stat/79/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F353
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/usc/t42/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/stat/81/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F928
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/stat/49/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F633
-[/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
-[/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/usc/t42/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs707
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/53/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs4%2Fb
-[/us/stat/87/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F136
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs203%2Fa
-[/us/stat/79/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F353
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/pl/93/53/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs4%2Fc
-[/us/stat/87/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F136
-[/us/pl/93/53/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs4%2Fa
-[/us/pl/90/248/s240/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fe%2F1
-[/us/stat/81/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F915
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/stat/49/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F633
-[/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
-[/us/stat/53/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1381
-[/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
-[/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/act/1946-08-10/ch951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-10%2Fch951
-[/us/stat/60/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F986
-[/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
-[/us/stat/64/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F552
-[/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
-[/us/stat/70/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F856
-[/us/pl/85/840/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs601
-[/us/stat/72/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1052
-[/us/pl/86/778/s707/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs707%2Fa%2F3%2FA
-[/us/stat/74/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F996
-[/us/pl/87/543/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs102%2Fa
-[/us/stat/76/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F182
-[/us/pl/89/97/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs207
-[/us/stat/79/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F355
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/85/840/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs601
-[/us/stat/72/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1053
-[/us/pl/86/778/s707/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs707%2Fa%2F3%2FB
-[/us/stat/74/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F996
-[/us/pl/87/543/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs102%2Fc%2F1
-[/us/stat/76/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F183
-[/us/pl/89/97/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs208%2Fb
-[/us/stat/79/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F355
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/85/840/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs601
-[/us/stat/72/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1053
-[/us/pl/87/543/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs102%2Fb
-[/us/stat/76/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F182
-[/us/pl/89/97/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs208%2Fc
-[/us/stat/79/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F356
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/85/840/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs601
-[/us/stat/72/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1054
-[/us/pl/86/70/s32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs32%2Fb
-[/us/stat/73/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F149
-[/us/pl/86/624/s30/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs30%2Fb
-[/us/stat/74/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F420
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/85/840/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs601
-[/us/stat/72/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1054
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/86/778/s707/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs707%2Fb%2F3
-[/us/stat/74/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F997
-[/us/pl/87/543/s123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs123%2Fd
-[/us/stat/76/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F193
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/87/543/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs102%2Fc%2F2
-[/us/stat/76/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F183
-[/us/pl/89/97/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs208%2Fa%2F1
-[/us/stat/79/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F355
-[/us/pl/89/97/s208/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs208%2Fd
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/87/543/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs102%2Fd%2F2
-[/us/stat/76/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F184
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/88/156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs4
-[/us/stat/77/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F274
-[/us/pl/90/248/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs303
-[/us/stat/81/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F929
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/usc/t29/s45b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs45b
-[/us/usc/t29/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs31
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs205%2F3
-[/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/88/156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs4
-[/us/stat/77/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F274
-[/us/pl/89/97/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs205%2F2
-[/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/stat/49/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F634
-[/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/act/1946-08-10/ch951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-10%2Fch951
-[/us/stat/60/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F986
-[/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
-[/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/usc/t42/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs713
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

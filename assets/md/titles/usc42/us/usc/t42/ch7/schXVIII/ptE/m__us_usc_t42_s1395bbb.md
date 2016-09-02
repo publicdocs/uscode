@@ -237,7 +237,7 @@
 
         A home health agency shall submit claims for payment for home health services under this subchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1891, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4021(b), 4022(a), 4023(a), Dec. 22, 1987, [101 Stat. 1330–67][/us/stat/101/1330-67], 1330–69, 1330–71; [Pub. L. 100–360, title IV, § 411(d)(1)(A)][/us/pl/100/360/s411/d/1/A], (2)–(3)(B), July 1, 1988, [102 Stat. 773][/us/stat/102/773], 774; [Pub. L. 100–485, title VI, § 608(d)(20)(A)][/us/pl/100/485/s608/d/20/A], Oct. 13, 1988, [102 Stat. 2419][/us/stat/102/2419]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, [104 Stat. 1388–116][/us/stat/104/1388-116], 1388–123, renumbered [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444]; [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title V, § 516(a)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–246; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–33, title IV, § 4604(a)][/us/pl/105/33/s4604/a], Aug. 5, 1997, [111 Stat. 472][/us/stat/111/472]; [Pub. L. 108–173, title VII, § 736(c)(3)][/us/pl/108/173/s736/c/3], Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1891, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], §§ 4021(b), 4022(a), 4023(a), Dec. 22, 1987, [101 Stat. 1330–67][/us/stat/101/1330-67], 1330–69, 1330–71; [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(d)(1)(A), (2)–(3)(B), July 1, 1988, [102 Stat. 773][/us/stat/102/773], 774; [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(20)(A), Oct. 13, 1988, [102 Stat. 2419][/us/stat/102/2419]; [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], §§ 4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, [104 Stat. 1388–116][/us/stat/104/1388-116], 1388–123, renumbered [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 160(d)(4), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title V, § 516(a)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–246; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4604(a), Aug. 5, 1997, [111 Stat. 472][/us/stat/111/472]; [Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 736(c)(3), Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356].)
 
  __Amendments__ 
 
@@ -247,31 +247,31 @@
 
     1996—Subsec. (c)(2)(A). [Pub. L. 104–134][/us/pl/104/134] substituted “36 months” for “15 months” in first sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: “The statewide average interval between standard surveys of any home health agency shall not exceed 12 months.”
 
-    1990—Subsec. (a)(3)(D)(iii). [Pub. L. 101–508, § 4207(i)(1)][/us/pl/101/508/s4207/i/1], formerly § 4027(i)(1), as renumbered by [Pub. L. 103–432][/us/pl/103/432], substituted “which, within the previous 2 years—” and subcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section within the previous 2 years.”
+    1990—Subsec. (a)(3)(D)(iii). [Pub. L. 101–508][/us/pl/101/508], § 4207(i)(1), formerly § 4027(i)(1), as renumbered by [Pub. L. 103–432][/us/pl/103/432], substituted “which, within the previous 2 years—” and subcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section within the previous 2 years.”
 
-    Subsec. (a)(6). [Pub. L. 101–508, § 4206(d)(2)][/us/pl/101/508/s4206/d/2], added par. (6).
+    Subsec. (a)(6). [Pub. L. 101–508][/us/pl/101/508], § 4206(d)(2), added par. (6).
 
-    1988—Subsec. (a)(3)(A). [Pub. L. 100–360, § 411(d)(1)(A)(i)][/us/pl/100/360/s411/d/1/A/i], struck out “who is not a licensed health care professional (as defined in subparagraph (F))” after “any individual” in introductory provisions.
+    1988—Subsec. (a)(3)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(1)(A)(i), struck out “who is not a licensed health care professional (as defined in subparagraph (F))” after “any individual” in introductory provisions.
 
-    Subsec. (a)(3)(F). [Pub. L. 100–360, § 411(d)(1)(A)(ii)][/us/pl/100/360/s411/d/1/A/ii], inserted “physical or occupational therapy assistant,” after “occupational therapist”.
+    Subsec. (a)(3)(F). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(1)(A)(ii), inserted “physical or occupational therapy assistant,” after “occupational therapist”.
 
-    Subsec. (a)(4) to (6). [Pub. L. 100–360, § 411(d)(1)(A)(iii)][/us/pl/100/360/s411/d/1/A/iii], redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “With respect to durable medical equipment furnished to individuals for whom the agency provides items and services, suppliers of such equipment do not use (on a full-time, temporary, per diem, or other basis) any individual who does not meet minimum training standards (established by the Secretary by October 1, 1988) for the demonstration and use of any such equipment furnished to individuals with respect to whom payments may be made under this subchapter.”
+    Subsec. (a)(4) to (6). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(1)(A)(iii), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “With respect to durable medical equipment furnished to individuals for whom the agency provides items and services, suppliers of such equipment do not use (on a full-time, temporary, per diem, or other basis) any individual who does not meet minimum training standards (established by the Secretary by October 1, 1988) for the demonstration and use of any such equipment furnished to individuals with respect to whom payments may be made under this subchapter.”
 
-    Subsec. (c)(1). [Pub. L. 100–360, § 411(d)(2)(A)][/us/pl/100/360/s411/d/2/A], as amended by [Pub. L. 100–485, § 608(d)(20)(A)][/us/pl/100/485/s608/d/20/A], amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
+    Subsec. (c)(1). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(2)(A), as amended by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(20)(A), amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
 
-    Subsec. (d)(2)(A). [Pub. L. 100–360, § 411(d)(2)(B)][/us/pl/100/360/s411/d/2/B], substituted “1992” for “1991” in introductory provisions.
+    Subsec. (d)(2)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(2)(B), substituted “1992” for “1991” in introductory provisions.
 
-    Subsecs. (e), (f). [Pub. L. 100–360, § 411(d)(3)(A)][/us/pl/100/360/s411/d/3/A], made technical amendment to [Pub. L. 100–203, § 4023(a)][/us/pl/100/203/s4023/a], see 1987 Amendment note below.
+    Subsecs. (e), (f). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(3)(A), made technical amendment to [Pub. L. 100–203][/us/pl/100/203], § 4023(a), see 1987 Amendment note below.
 
-    Subsec. (f)(2)(A). [Pub. L. 100–360, § 411(d)(3)(B)(iii)][/us/pl/100/360/s411/d/3/B/iii], inserted before last sentence “The provisions of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title][/us/usc/t42/s1320a–7a/a].”
+    Subsec. (f)(2)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(3)(B)(iii), inserted before last sentence “The provisions of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title][/us/usc/t42/s1320a–7a/a].”
 
-    [Pub. L. 100–360, § 411(d)(3)(B)(i)][/us/pl/100/360/s411/d/3/B/i], realigned the margins of cls. (i) to (iii) and concluding provisions.
+    [Pub. L. 100–360][/us/pl/100/360], § 411(d)(3)(B)(i), realigned the margins of cls. (i) to (iii) and concluding provisions.
 
-    Subsec. (f)(2)(A)(i). [Pub. L. 100–360, § 411(d)(3)(B)(ii)][/us/pl/100/360/s411/d/3/B/ii], substituted “in an amount not to exceed $10,000 for each day of noncompliance” for “for each day of noncompliance”.
+    Subsec. (f)(2)(A)(i). [Pub. L. 100–360][/us/pl/100/360], § 411(d)(3)(B)(ii), substituted “in an amount not to exceed $10,000 for each day of noncompliance” for “for each day of noncompliance”.
 
-    1987—Subsecs. (c), (d). [Pub. L. 100–203, § 4022(a)][/us/pl/100/203/s4022/a], added subsecs. (c) and (d).
+    1987—Subsecs. (c), (d). [Pub. L. 100–203][/us/pl/100/203], § 4022(a), added subsecs. (c) and (d).
 
-    Subsecs. (e), (f). [Pub. L. 100–203, § 4023(a)][/us/pl/100/203/s4023/a], as amended by [Pub. L. 100–360, § 411(d)(3)(A)][/us/pl/100/360/s411/d/3/A], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 100–203][/us/pl/100/203], § 4023(a), as amended by [Pub. L. 100–360][/us/pl/100/360], § 411(d)(3)(A), added subsecs. (e) and (f).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -281,9 +281,9 @@
 
     Amendment by [section 4206(d)(2) of Pub. L. 101–508][/us/pl/101/508/s4206/d/2] applicable with respect to services furnished on or after the first day of the first month beginning more than 1 year after Nov. 5, 1990, see [section 4206(e)(1) of Pub. L. 101–508][/us/pl/101/508/s4206/e/1], set out as a note under [section 1395i–3 of this title][/us/usc/t42/s1395i–3].
 
-    [Pub. L. 101–508, title IV, § 4207(i)(1)][/us/pl/101/508/s4207/i/1], formerly § 4027(i)(1), Nov. 5, 1990, [104 Stat. 1388–123][/us/stat/104/1388-123], as renumbered by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that the amendment made by that section is effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, [Pub. L. 100–203][/us/pl/100/203].
+    [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4207(i)(1), formerly § 4027(i)(1), Nov. 5, 1990, [104 Stat. 1388–123][/us/stat/104/1388-123], as renumbered by [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 160(d)(4), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that the amendment made by that section is effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, [Pub. L. 100–203][/us/pl/100/203].
 
-[Pub. L. 101–508, title IV, § 4207(i)(2)][/us/pl/101/508/s4207/i/2], formerly § 4027(i)(2), Nov. 5, 1990, [104 Stat. 1388–124][/us/stat/104/1388-124], as renumbered and amended by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], (11), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4207(i)(2), formerly § 4027(i)(2), Nov. 5, 1990, [104 Stat. 1388–124][/us/stat/104/1388-124], as renumbered and amended by [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 160(d)(4), (11), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\], except that the Secretary may not permit approval of a training and competency evaluation program or a competency evaluation program offered by or in a home health agency which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988—
 
@@ -305,11 +305,11 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title IV, § 4022(b)][/us/pl/100/203/s4022/b], Dec. 22, 1987, [101 Stat. 1330–71][/us/stat/101/1330-71], provided that: 
+[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4022(b), Dec. 22, 1987, [101 Stat. 1330–71][/us/stat/101/1330-71], provided that: 
 
 > “Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[[42 U.S.C. 1395bbb(d)][/us/usc/t42/s1395bbb/d]\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-[Pub. L. 100–203, title IV, § 4023(b)][/us/pl/100/203/s4023/b], Dec. 22, 1987, [101 Stat. 1330–73][/us/stat/101/1330-73], as amended by [Pub. L. 100–360, title IV, § 411(d)(3)(C)][/us/pl/100/360/s411/d/3/C], July 1, 1988, [102 Stat. 774][/us/stat/102/774], provided that: 
+[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4023(b), Dec. 22, 1987, [101 Stat. 1330–73][/us/stat/101/1330-73], as amended by [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(d)(3)(C), July 1, 1988, [102 Stat. 774][/us/stat/102/774], provided that: 
 
 > “Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act \[[42 U.S.C. 1395bbb(e)][/us/usc/t42/s1395bbb/e], (f)\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\], and no intermediate sanction described in section 1891(f)(2)(A) of such Act \[[42 U.S.C. 1395bbb(f)(2)(A)][/us/usc/t42/s1395bbb/f/2/A]\] shall be imposed for violations occurring before such effective date.”
 
@@ -319,7 +319,7 @@
 
  __Treatment of Branch Offices; GAO Study on Supervision of Home Health Care Provided in Isolated Rural Areas__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 506\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–531, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title V, § 506\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–531, provided that:
 
 >     “(a) __Treatment of Branch Offices.—__ 
 
@@ -366,61 +366,61 @@
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-67
-[/us/pl/100/360/s411/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F1%2FA
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F773
-[/us/pl/100/485/s608/d/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F20%2FA
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2419
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-116
-[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/33/s4604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4604%2Fa
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F472
-[/us/pl/108/173/s736/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fc%2F3
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2356
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/101/508/s4207/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fi%2F1
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
-[/us/pl/101/508/s4206/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4206%2Fd%2F2
-[/us/pl/100/360/s411/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F1%2FA%2Fi
-[/us/pl/100/360/s411/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F1%2FA%2Fii
-[/us/pl/100/360/s411/d/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F1%2FA%2Fiii
-[/us/pl/100/360/s411/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F2%2FA
-[/us/pl/100/485/s608/d/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F20%2FA
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
-[/us/pl/100/360/s411/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F2%2FB
-[/us/pl/100/360/s411/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F3%2FA
-[/us/pl/100/203/s4023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4023%2Fa
-[/us/pl/100/360/s411/d/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F3%2FB%2Fiii
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
-[/us/pl/100/360/s411/d/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F3%2FB%2Fi
-[/us/pl/100/360/s411/d/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F3%2FB%2Fii
-[/us/pl/100/203/s4022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4022%2Fa
-[/us/pl/100/203/s4023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4023%2Fa
-[/us/pl/100/360/s411/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F3%2FA
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4604%2Fc
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/101/508/s4206/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4206%2Fd%2F2
 [/us/pl/101/508/s4206/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4206%2Fe%2F1
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
-[/us/pl/101/508/s4207/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fi%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-123
-[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/101/508/s4207/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fi%2F2
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-124
-[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
@@ -434,18 +434,18 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/360/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fa
 [/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
-[/us/pl/100/203/s4022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4022%2Fb
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-71
 [/us/usc/t42/s1395bbb/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395bbb%2Fd
-[/us/pl/100/203/s4023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4023%2Fb
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-73
-[/us/pl/100/360/s411/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fd%2F3%2FC
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F774
 [/us/usc/t42/s1395bbb/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395bbb%2Fe
 [/us/usc/t42/s1395bbb/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395bbb%2Ff%2F2%2FA
 [/us/pl/100/203/s4021/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4021%2Fc
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395

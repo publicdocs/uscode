@@ -23,7 +23,7 @@
 
         Subsection (a) of this section shall not apply to funds to which section 14402, 14403, or 14404 of this title applies, except that subsection (a) of this section, rather than [section 14402 of this title][/us/usc/t42/s14402], shall apply to funds appropriated to carry out title 10 (other than chapter 55), title 18 (other than section 4005(a)), and chapter 37 of title 28.
 
-([Pub. L. 105–12, § 6][/us/pl/105/12/s6], Apr. 30, 1997, [111 Stat. 25][/us/stat/111/25].)
+([Pub. L. 105–12][/us/pl/105/12], § 6, Apr. 30, 1997, [111 Stat. 25][/us/stat/111/25].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t42/s14402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14402%2Fb
 [/us/usc/t42/s14402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14402
-[/us/pl/105/12/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs6
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F25
 
 

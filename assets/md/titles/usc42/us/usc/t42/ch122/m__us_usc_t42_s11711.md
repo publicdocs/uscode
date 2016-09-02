@@ -201,7 +201,7 @@
 
             (ii) oral traditions transmitted from generation to generation.
 
-([Pub. L. 100–579, § 12][/us/pl/100/579/s12], Oct. 31, 1988, [102 Stat. 2923][/us/stat/102/2923]; [Pub. L. 100–690, title II, § 2312][/us/pl/100/690/s2312], Nov. 18, 1988, [102 Stat. 4230][/us/stat/102/4230]; [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948]; [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
+([Pub. L. 100–579][/us/pl/100/579], § 12, Oct. 31, 1988, [102 Stat. 2923][/us/stat/102/2923]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2312, Nov. 18, 1988, [102 Stat. 4230][/us/stat/102/4230]; [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].)
 
  __Codification__ 
 
@@ -226,13 +226,13 @@
 ----------
 ----------
 
-[/us/pl/100/579/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs12
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/stat/102/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2923
-[/us/pl/100/690/s2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2312
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4230
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa

@@ -31,7 +31,7 @@
 
         (2) With respect to the operation of the facilities leased by the private corporation, [section 5846 of this title][/us/usc/t42/s5846] shall apply to the directors and officers of the private corporation.
 
-([Pub. L. 104–134, title III, § 3115][/us/pl/104/134/s3115], Apr. 26, 1996, [110 Stat. 1321–348][/us/stat/110/1321-348].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3115, Apr. 26, 1996, [110 Stat. 1321–348][/us/stat/110/1321-348].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/usc/t42/s5851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5851
 [/us/usc/t42/s5846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5846
-[/us/pl/104/134/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3115
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-348
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

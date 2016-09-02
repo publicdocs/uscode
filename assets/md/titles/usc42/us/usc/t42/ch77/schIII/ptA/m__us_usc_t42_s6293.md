@@ -153,33 +153,33 @@
 
         (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
-([Pub. L. 94–163, title III, § 323][/us/pl/94/163/s323], Dec. 22, 1975, [89 Stat. 919][/us/stat/89/919]; [Pub. L. 95–619, title IV][/us/pl/95/619], §§ 421, 425(a), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3257][/us/stat/92/3257], 3265, 3288; [Pub. L. 100–12, § 4][/us/pl/100/12/s4], Mar. 17, 1987, [101 Stat. 105][/us/stat/101/105]; [Pub. L. 100–357, § 2(c)][/us/pl/100/357/s2/c], June 28, 1988, [102 Stat. 672][/us/stat/102/672]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–486, title I, § 123(d)][/us/pl/102/486/s123/d], Oct. 24, 1992, [106 Stat. 2821][/us/stat/106/2821]; [Pub. L. 109–58, title I, § 135(b)][/us/pl/109/58/s135/b], Aug. 8, 2005, [119 Stat. 627][/us/stat/119/627]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 301(b), 302(a), 324(c), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1551, 1593.)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 323, Dec. 22, 1975, [89 Stat. 919][/us/stat/89/919]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], §§ 421, 425(a), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3257][/us/stat/92/3257], 3265, 3288; [Pub. L. 100–12][/us/pl/100/12], § 4, Mar. 17, 1987, [101 Stat. 105][/us/stat/101/105]; [Pub. L. 100–357][/us/pl/100/357], § 2(c), June 28, 1988, [102 Stat. 672][/us/stat/102/672]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(d), Oct. 24, 1992, [106 Stat. 2821][/us/stat/106/2821]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 135(b), Aug. 8, 2005, [119 Stat. 627][/us/stat/119/627]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 301(b), 302(a), 324(c), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1551, 1593.)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1). [Pub. L. 110–140, § 302(a)][/us/pl/110/140/s302/a], which directed amendment of subsec. (b)(1) by striking “(1)” and all that followed through the “end of the paragraph” and inserting a new par. (1) designation and heading and subpar. (A), was executed by substituting the new par. (1) designation and heading and subpar. (A) for “(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).” to reflect the probable intent of Congress.
+    2007—Subsec. (b)(1). [Pub. L. 110–140][/us/pl/110/140], § 302(a), which directed amendment of subsec. (b)(1) by striking “(1)” and all that followed through the “end of the paragraph” and inserting a new par. (1) designation and heading and subpar. (A), was executed by substituting the new par. (1) designation and heading and subpar. (A) for “(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).” to reflect the probable intent of Congress.
 
-    Subsec. (b)(17). [Pub. L. 110–140, § 301(b)][/us/pl/110/140/s301/b], added par. (17).
+    Subsec. (b)(17). [Pub. L. 110–140][/us/pl/110/140], § 301(b), added par. (17).
 
-    Subsec. (b)(18). [Pub. L. 110–140, § 324(c)][/us/pl/110/140/s324/c], added par. (18).
+    Subsec. (b)(18). [Pub. L. 110–140][/us/pl/110/140], § 324(c), added par. (18).
 
-    2005—Subsec. (b)(9) to (16). [Pub. L. 109–58, § 135(b)(1)][/us/pl/109/58/s135/b/1], added pars. (9) to (16).
+    2005—Subsec. (b)(9) to (16). [Pub. L. 109–58][/us/pl/109/58], § 135(b)(1), added pars. (9) to (16).
 
-    Subsec. (f). [Pub. L. 109–58, § 135(b)(2)][/us/pl/109/58/s135/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 135(b)(2), added subsec. (f).
 
-    1992—Subsec. (b)(3). [Pub. L. 102–486, § 123(d)(1)(A)][/us/pl/102/486/s123/d/1/A], inserted “water use (in the case of showerheads, faucets, water closets and urinals),” after “energy use,”.
+    1992—Subsec. (b)(3). [Pub. L. 102–486][/us/pl/102/486], § 123(d)(1)(A), inserted “water use (in the case of showerheads, faucets, water closets and urinals),” after “energy use,”.
 
-    Subsec. (b)(4). [Pub. L. 102–486, § 123(d)(1)(B)][/us/pl/102/486/s123/d/1/B], in first sentence inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use” after “energy use” and “, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle” after “such cycle”, and in second sentence inserted “, water, and wastewater treatment” before period at end.
+    Subsec. (b)(4). [Pub. L. 102–486][/us/pl/102/486], § 123(d)(1)(B), in first sentence inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use” after “energy use” and “, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle” after “such cycle”, and in second sentence inserted “, water, and wastewater treatment” before period at end.
 
-    Subsec. (b)(6) to (8). [Pub. L. 102–486, § 123(d)(1)(C)][/us/pl/102/486/s123/d/1/C], added pars. (6) to (8).
+    Subsec. (b)(6) to (8). [Pub. L. 102–486][/us/pl/102/486], § 123(d)(1)(C), added pars. (6) to (8).
 
-    Subsec. (c)(1). [Pub. L. 102–486, § 123(d)(2)][/us/pl/102/486/s123/d/2], in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
+    Subsec. (c)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(d)(2), in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
 
-    Subsec. (c)(2). [Pub. L. 102–486, § 123(d)(3)][/us/pl/102/486/s123/d/3], in introductory provisions substituted “prescribed or established” for “prescribed”.
+    Subsec. (c)(2). [Pub. L. 102–486][/us/pl/102/486], § 123(d)(3), in introductory provisions substituted “prescribed or established” for “prescribed”.
 
-    [Pub. L. 102–486, § 123(d)(2)][/us/pl/102/486/s123/d/2], in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
+    [Pub. L. 102–486][/us/pl/102/486], § 123(d)(2), in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
 
-    Subsec. (e)(1) to (3). [Pub. L. 102–486, § 123(d)(4)][/us/pl/102/486/s123/d/4], substituted “, measured energy use, or measured water use” for “or measured energy use” in par. (1) and “energy efficiency, energy use, or water use” for “energy efficiency or energy use” in two places in par. (2) and once in par. (3).
+    Subsec. (e)(1) to (3). [Pub. L. 102–486][/us/pl/102/486], § 123(d)(4), substituted “, measured energy use, or measured water use” for “or measured energy use” in par. (1) and “energy efficiency, energy use, or water use” for “energy efficiency or energy use” in two places in par. (2) and once in par. (3).
 
     1988—Subsec. (b)(1)(C). [Pub. L. 100–418][/us/pl/100/418] substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
@@ -187,21 +187,21 @@
 
     1987—[Pub. L. 100–12][/us/pl/100/12] amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) to (c).
 
-    1978—Subsec. (a)(1), (2). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+    1978—Subsec. (a)(1), (2). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
     Subsec. (a)(3). [Pub. L. 95–619][/us/pl/95/619], §§ 425(a), 691(b)(2), struck out “Except as provided in paragraph (6),” before “The Secretary”, struck out provision requiring proposed test procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted “Secretary” for “Administrator”.
 
     Subsec. (a)(4). [Pub. L. 95–619][/us/pl/95/619], §§ 421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out “Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
 
-    Subsec. (a)(5). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (a)(5). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (a)(6). [Pub. L. 95–619, § 421(b)][/us/pl/95/619/s421/b], redesignated existing provisions as subpar. (A) and, in subpar. (A) as so redesignated, substituted “Secretary” for “Administrator”, struck out provisions relating to the authority to delay publication of proposed test procedures, inserted requirement that a determination of a necessary prescription delay be submitted in a report to Congress, inserted specific ninety day time limitation for delayed prescriptions, and added subpar. (B).
+    Subsec. (a)(6). [Pub. L. 95–619][/us/pl/95/619], § 421(b), redesignated existing provisions as subpar. (A) and, in subpar. (A) as so redesignated, substituted “Secretary” for “Administrator”, struck out provisions relating to the authority to delay publication of proposed test procedures, inserted requirement that a determination of a necessary prescription delay be submitted in a report to Congress, inserted specific ninety day time limitation for delayed prescriptions, and added subpar. (B).
 
-    Subsec. (a)(7). [Pub. L. 95–619, § 421(c)][/us/pl/95/619/s421/c], added par. (7).
+    Subsec. (a)(7). [Pub. L. 95–619][/us/pl/95/619], § 421(c), added par. (7).
 
-    Subsec. (b). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (b). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (c). [Pub. L. 95–619, § 421(d)][/us/pl/95/619/s421/d], redesignated existing provisions as par. (1), substituted “180 days” for “90 days” and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+    Subsec. (c). [Pub. L. 95–619][/us/pl/95/619], § 421(d), redesignated existing provisions as par. (1), substituted “180 days” for “90 days” and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -223,45 +223,45 @@
 [/us/usc/t42/s6317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6317%2Fa%2F1
 [/us/usc/t42/s6297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6297
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/94/163/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs323
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F919
-[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3257
-[/us/pl/100/12/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs4
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F105
-[/us/pl/100/357/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fc
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F672
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/486/s123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2821
-[/us/pl/109/58/s135/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fb
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F627
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1550
-[/us/pl/110/140/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs302%2Fa
-[/us/pl/110/140/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs301%2Fb
-[/us/pl/110/140/s324/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fc
-[/us/pl/109/58/s135/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fb%2F1
-[/us/pl/109/58/s135/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fb%2F2
-[/us/pl/102/486/s123/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd%2F1%2FA
-[/us/pl/102/486/s123/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd%2F1%2FB
-[/us/pl/102/486/s123/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd%2F1%2FC
-[/us/pl/102/486/s123/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd%2F2
-[/us/pl/102/486/s123/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd%2F3
-[/us/pl/102/486/s123/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd%2F2
-[/us/pl/102/486/s123/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fd%2F4
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs421%2Fb
-[/us/pl/95/619/s421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs421%2Fc
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s421/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs421%2Fd
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

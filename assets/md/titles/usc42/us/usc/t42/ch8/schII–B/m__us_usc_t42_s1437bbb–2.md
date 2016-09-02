@@ -35,13 +35,13 @@
 
         (6) tenant-based assistance under [section 1437f of this title][/us/usc/t42/s1437f] (as amended by the Quality Housing and Work Responsibility Act of 1998).
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 403, as added [Pub. L. 105–276, title V, § 561][/us/pl/105/276/s561], Oct. 21, 1998, [112 Stat. 2618][/us/stat/112/2618].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 403, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 561, Oct. 21, 1998, [112 Stat. 2618][/us/stat/112/2618].)
 
  __References in Text__ 
 
     The Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b), is title V of [Pub. L. 105–276][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2518][/us/stat/112/2518]. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under [section 1437 of this title][/us/usc/t42/s1437]. For complete classification of this Act to the Code, see Tables.
 
-    Section 1437l of this title, referred to in subsec. (b)(2), was repealed by [Pub. L. 105–276, title V, § 522(a)][/us/pl/105/276/s522/a], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
+    Section 1437l of this title, referred to in subsec. (b)(2), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(a), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
 
 ----------
 
@@ -56,12 +56,12 @@
 [/us/usc/t42/s1437g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fd
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs561
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2618
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/stat/112/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2518
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 
 

@@ -123,7 +123,7 @@
 
             The term “State”, unless otherwise specified, means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1253, as added [Pub. L. 106–310, div. A, title XIII, § 1305][/us/pl/106/310/s1305], Oct. 17, 2000, [114 Stat. 1141][/us/stat/114/1141]; amended [Pub. L. 110–206, § 6(b)][/us/pl/110/206/s6/b], Apr. 28, 2008, [122 Stat. 717][/us/stat/122/717]; [Pub. L. 113–196, § 4][/us/pl/113/196/s4], Nov. 26, 2014, [128 Stat. 2053][/us/stat/128/2053].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1253, as added [Pub. L. 106–310, div. A, title XIII][/us/pl/106/310/dA/tXIII], § 1305, Oct. 17, 2000, [114 Stat. 1141][/us/stat/114/1141]; amended [Pub. L. 110–206][/us/pl/110/206], § 6(b), Apr. 28, 2008, [122 Stat. 717][/us/stat/122/717]; [Pub. L. 113–196][/us/pl/113/196], § 4, Nov. 26, 2014, [128 Stat. 2053][/us/stat/128/2053].)
 
  __References in Text__ 
 
@@ -131,33 +131,33 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–196, § 4(1)][/us/pl/113/196/s4/1], struck out “, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the ‘Administrator’),” after “The Secretary”.
+    2014—Subsec. (a). [Pub. L. 113–196][/us/pl/113/196], § 4(1), struck out “, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the ‘Administrator’),” after “The Secretary”.
 
-    Subsecs. (c), (d)(1), (e)(1), (4), (g). [Pub. L. 113–196, § 4(2)][/us/pl/113/196/s4/2], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (c), (d)(1), (e)(1), (4), (g). [Pub. L. 113–196][/us/pl/113/196], § 4(2), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (h). [Pub. L. 113–196, § 4(2)][/us/pl/113/196/s4/2], (3), substituted “Reporting” for “Annual report” in heading; designated existing provisions as par. (1), inserted heading, and substituted “Secretary” for “Administrator”; and added par. (2).
+    Subsec. (h). [Pub. L. 113–196][/us/pl/113/196], § 4(2), (3), substituted “Reporting” for “Annual report” in heading; designated existing provisions as par. (1), inserted heading, and substituted “Secretary” for “Administrator”; and added par. (2).
 
-    Subsec. (i). [Pub. L. 113–196, § 4(4)][/us/pl/113/196/s4/4], substituted “The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and Human Services regarding” for “The Administrator of the Health Resources and Services Administration and the Commissioner of the Administration on Developmental Disabilities shall enter into an agreement to coordinate the collection of data by the Administrator and the Commissioner regarding”.
+    Subsec. (i). [Pub. L. 113–196][/us/pl/113/196], § 4(4), substituted “The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and Human Services regarding” for “The Administrator of the Health Resources and Services Administration and the Commissioner of the Administration on Developmental Disabilities shall enter into an agreement to coordinate the collection of data by the Administrator and the Commissioner regarding”.
 
-    Subsec. (j)(1). [Pub. L. 113–196, § 4(2)][/us/pl/113/196/s4/2], substituted “Secretary” for “Administrator”.
+    Subsec. (j)(1). [Pub. L. 113–196][/us/pl/113/196], § 4(2), substituted “Secretary” for “Administrator”.
 
-    Subsec. (k). [Pub. L. 113–196, § 4(5)][/us/pl/113/196/s4/5], substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000”.
+    Subsec. (k). [Pub. L. 113–196][/us/pl/113/196], § 4(5), substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000”.
 
-    Subsec. (l). [Pub. L. 113–196, § 4(6)][/us/pl/113/196/s4/6], substituted “$3,100,000 for each of the fiscal years 2015 through 2019” for “$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012”.
+    Subsec. (l). [Pub. L. 113–196][/us/pl/113/196], § 4(6), substituted “$3,100,000 for each of the fiscal years 2015 through 2019” for “$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012”.
 
-    Subsec. (m)(1). [Pub. L. 113–196, § 4(7)(A)][/us/pl/113/196/s4/7/A], substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “part C of the Developmental Disabilities Assistance Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.)”.
+    Subsec. (m)(1). [Pub. L. 113–196][/us/pl/113/196], § 4(7)(A), substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “part C of the Developmental Disabilities Assistance Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.)”.
 
-    Subsec. (m)(2). [Pub. L. 113–196, § 4(7)(B)][/us/pl/113/196/s4/7/B], substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.)”.
+    Subsec. (m)(2). [Pub. L. 113–196][/us/pl/113/196], § 4(7)(B), substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.)”.
 
-    2008—Subsecs. (d), (e). [Pub. L. 110–206, § 6(b)(1)][/us/pl/110/206/s6/b/1], substituted “subsection (l)” for “subsection (i)” wherever appearing.
+    2008—Subsecs. (d), (e). [Pub. L. 110–206][/us/pl/110/206], § 6(b)(1), substituted “subsection (l)” for “subsection (i)” wherever appearing.
 
-    Subsec. (g). [Pub. L. 110–206, § 6(b)(2)][/us/pl/110/206/s6/b/2], inserted “each fiscal year not later than October 1,” before “the Administrator shall pay”.
+    Subsec. (g). [Pub. L. 110–206][/us/pl/110/206], § 6(b)(2), inserted “each fiscal year not later than October 1,” before “the Administrator shall pay”.
 
-    Subsecs. (i) to (k). [Pub. L. 110–206, § 6(b)(4)][/us/pl/110/206/s6/b/4], added subsecs. (i) to (k). Former subsecs. (i) and (j) redesignated (l) and (m), respectively.
+    Subsecs. (i) to (k). [Pub. L. 110–206][/us/pl/110/206], § 6(b)(4), added subsecs. (i) to (k). Former subsecs. (i) and (j) redesignated (l) and (m), respectively.
 
-    Subsec. (l). [Pub. L. 110–206, § 6(b)(3)][/us/pl/110/206/s6/b/3], (5), redesignated subsec. (i) as (l) and substituted “2009 through 2012” for “2002 through 2005”.
+    Subsec. (l). [Pub. L. 110–206][/us/pl/110/206], § 6(b)(3), (5), redesignated subsec. (i) as (l) and substituted “2009 through 2012” for “2002 through 2005”.
 
-    Subsec. (m). [Pub. L. 110–206, § 6(b)(3)][/us/pl/110/206/s6/b/3], redesignated subsec. (j) as (m).
+    Subsec. (m). [Pub. L. 110–206][/us/pl/110/206], § 6(b)(3), redesignated subsec. (j) as (m).
 
 ----------
 
@@ -170,33 +170,33 @@
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1305
+[/us/pl/106/310/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIII
 [/us/stat/114/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1141
-[/us/pl/110/206/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/stat/122/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F717
-[/us/pl/113/196/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
 [/us/stat/128/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2053
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
-[/us/pl/113/196/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F1
-[/us/pl/113/196/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F2
-[/us/pl/113/196/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F2
-[/us/pl/113/196/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F4
-[/us/pl/113/196/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F2
-[/us/pl/113/196/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F5
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
-[/us/pl/113/196/s4/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F6
-[/us/pl/113/196/s4/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F7%2FA
-[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
-[/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
-[/us/pl/113/196/s4/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F7%2FB
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
 [/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
-[/us/pl/110/206/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F1
-[/us/pl/110/206/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F2
-[/us/pl/110/206/s6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F4
-[/us/pl/110/206/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F3
-[/us/pl/110/206/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F3
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
+[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
+[/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 
 

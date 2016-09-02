@@ -57,7 +57,7 @@
 
         Not later than 6 months after September 13, 1994, the United States Sentencing Commission shall conduct a study and prepare and submit to the committees  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  on the Judiciary of the Senate and the House of Representatives a report concerning recommendations for the revision of sentencing guidelines that relate to offenses in which an HIV infected individual engages in sexual activity if the individual knows that he or she is infected with HIV and intends, through such sexual activity, to expose another to HIV.
 
-([Pub. L. 103–322, title IV, § 40503][/us/pl/103/322/s40503], Sept. 13, 1994, [108 Stat. 1946][/us/stat/108/1946]; [Pub. L. 104–294, title VI, § 604(b)(1)][/us/pl/104/294/s604/b/1], Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40503, Sept. 13, 1994, [108 Stat. 1946][/us/stat/108/1946]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(1), Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40503
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1946
-[/us/pl/104/294/s604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3506
 [/us/pl/103/322/s40503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40503
 [/us/pl/103/322/s40503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40503
@@ -92,7 +92,7 @@
 [/us/pl/103/322/s40503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40503
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd

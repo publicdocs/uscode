@@ -69,25 +69,25 @@
 
             A participant released for cause may not receive any portion of the national service educational award.
 
-([Pub. L. 101–610, title I, § 139][/us/pl/101/610/s139], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 810][/us/stat/107/810]; amended [Pub. L. 111–13, title I, § 1314][/us/pl/111/13/s1314], Apr. 21, 2009, [123 Stat. 1510][/us/stat/123/1510].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 139, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 810][/us/stat/107/810]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1314, Apr. 21, 2009, [123 Stat. 1510][/us/stat/123/1510].)
 
  __Amendments__ 
 
-    2009—Subsec. (b)(1). [Pub. L. 111–13, § 1314(1)(A)][/us/pl/111/13/s1314/1/A], struck out “not less than 9 months and” before “not more than 1 year”.
+    2009—Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 1314(1)(A), struck out “not less than 9 months and” before “not more than 1 year”.
 
-    Subsec. (b)(2). [Pub. L. 111–13, § 1314(1)(B)][/us/pl/111/13/s1314/1/B], substituted “during a period of not more than 2 years.” for “during a period of—
+    Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 1314(1)(B), substituted “during a period of not more than 2 years.” for “during a period of—
 
     “(A) not more than 2 years; or
 
     “(B) not more than 3 years if the individual is enrolled in an institute of higher education while preforming all or a portion of the service.”
 
-    Subsec. (b)(4). [Pub. L. 111–13, § 1314(1)(C)][/us/pl/111/13/s1314/1/C], added par. (4).
+    Subsec. (b)(4). [Pub. L. 111–13][/us/pl/111/13], § 1314(1)(C), added par. (4).
 
-    Subsec. (c)(1)(A). [Pub. L. 111–13, § 1314(2)(A)][/us/pl/111/13/s1314/2/A], substituted “as determined by the organization responsible for granting the release, if the participant has otherwise performed satisfactorily and has completed at least 15 percent of the term of service” for “as demonstrated by the participant”.
+    Subsec. (c)(1)(A). [Pub. L. 111–13][/us/pl/111/13], § 1314(2)(A), substituted “as determined by the organization responsible for granting the release, if the participant has otherwise performed satisfactorily and has completed at least 15 percent of the term of service” for “as demonstrated by the participant”.
 
-    Subsec. (c)(2)(A). [Pub. L. 111–13, § 1314(2)(B)(i)][/us/pl/111/13/s1314/2/B/i], substituted “certify the participant’s eligibility for that portion of the national service educational award” for “provide to the participant that portion of the national service educational award”.
+    Subsec. (c)(2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1314(2)(B)(i), substituted “certify the participant’s eligibility for that portion of the national service educational award” for “provide to the participant that portion of the national service educational award”.
 
-    Subsec. (c)(2)(B). [Pub. L. 111–13, § 1314(2)(B)(ii)][/us/pl/111/13/s1314/2/B/ii], struck out “to allow return to the program with which the individual was serving in order” before “to complete the remainder”.
+    Subsec. (c)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1314(2)(B)(ii), struck out “to allow return to the program with which the individual was serving in order” before “to complete the remainder”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -108,17 +108,17 @@
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12603%2Fc
-[/us/pl/101/610/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs139
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F810
-[/us/pl/111/13/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1314
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1510
-[/us/pl/111/13/s1314/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1314%2F1%2FA
-[/us/pl/111/13/s1314/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1314%2F1%2FB
-[/us/pl/111/13/s1314/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1314%2F1%2FC
-[/us/pl/111/13/s1314/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1314%2F2%2FA
-[/us/pl/111/13/s1314/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1314%2F2%2FB%2Fi
-[/us/pl/111/13/s1314/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1314%2F2%2FB%2Fii
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

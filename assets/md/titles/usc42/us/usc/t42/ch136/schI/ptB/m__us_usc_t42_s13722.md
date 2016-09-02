@@ -27,7 +27,7 @@
 
         The Attorney General may make an assessment of the cost efficiency and utility of using modular, prefabricated, precast, and pre-engineered construction components and designs for housing nonviolent criminals.
 
-([Pub. L. 103–322, title II, § 20407][/us/pl/103/322/s20407], Sept. 13, 1994, [108 Stat. 1826][/us/stat/108/1826].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20407, Sept. 13, 1994, [108 Stat. 1826][/us/stat/108/1826].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s20407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20407
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1826
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1796

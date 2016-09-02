@@ -75,7 +75,7 @@
 
             (D) the continuity and coordination of health services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 915, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1659][/us/stat/113/1659]; amended [Pub. L. 111–148, title IV, § 4003(a)][/us/pl/111/148/s4003/a], Mar. 23, 2010, [124 Stat. 541][/us/stat/124/541].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 915, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1659][/us/stat/113/1659]; amended [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4003(a), Mar. 23, 2010, [124 Stat. 541][/us/stat/124/541].)
 
  __References in Text__ 
 
@@ -93,9 +93,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1659
-[/us/pl/111/148/s4003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4003%2Fa
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F541
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

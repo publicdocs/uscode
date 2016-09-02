@@ -57,7 +57,7 @@
 
         The Secretary may carry out this section through contracts entered into with qualified entities.
 
-([Pub. L. 111–148, title I, § 1103][/us/pl/111/148/s1103], title X, § 10102(b), Mar. 23, 2010, [124 Stat. 146][/us/stat/124/146], 892.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1103, title X, § 10102(b), Mar. 23, 2010, [124 Stat. 146][/us/stat/124/146], 892.)
 
  __References in Text__ 
 
@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–148, § 10102(b)(1)][/us/pl/111/148/s10102/b/1], which directed insertion of “, or small business in,” after “residents of any”, was executed by making the insertion after “resident of” to reflect the probable intent of Congress.
+    2010—Subsec. (a)(1). [Pub. L. 111–148][/us/pl/111/148], § 10102(b)(1), which directed insertion of “, or small business in,” after “residents of any”, was executed by making the insertion after “resident of” to reflect the probable intent of Congress.
 
-    Subsec. (a)(2). [Pub. L. 111–148, § 10102(b)(2)][/us/pl/111/148/s10102/b/2], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows:
+    Subsec. (a)(2). [Pub. L. 111–148][/us/pl/111/148], § 10102(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows:
 
     “An Internet website established under paragraph (1) shall, to the extent practicable, provide ways for residents of any State to receive information on at least the following coverage options:
 
@@ -101,14 +101,14 @@
 [/us/usc/t26/s45R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45R
 [/us/usc/t42/s300gg–18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9318%2Fa
 [/us/usc/t42/s300gg–15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9315
-[/us/pl/111/148/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1103
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F146
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/111/148/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1421
-[/us/pl/111/148/s10102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10102%2Fb%2F1
-[/us/pl/111/148/s10102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10102%2Fb%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
 
 

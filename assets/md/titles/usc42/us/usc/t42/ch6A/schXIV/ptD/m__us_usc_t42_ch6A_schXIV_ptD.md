@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–79, title II, § 202(a)][/us/pl/96/79/s202/a], Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], redesignated former part F as part D relating to area health services development funds and former part D as part B.
+    1979—[Pub. L. 96–79, title II][/us/pl/96/79/tII], § 202(a), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], redesignated former part F as part D relating to area health services development funds and former part D as part B.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/79/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fa
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
 
 

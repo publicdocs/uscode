@@ -55,7 +55,7 @@
 
             In designating reporting standards under this subsection, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Business Reporting Language.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 440, as added [Pub. L. 112–34, title I, § 105(a)][/us/pl/112/34/s105/a], Sept. 30, 2011, [125 Stat. 376][/us/stat/125/376].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 440, as added [Pub. L. 112–34, title I][/us/pl/112/34/tI], § 105(a), Sept. 30, 2011, [125 Stat. 376][/us/stat/125/376].)
 
  __Prior Provisions__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 112–34, title I, § 105(b)][/us/pl/112/34/s105/b], Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377], provided that: 
+[Pub. L. 112–34, title I][/us/pl/112/34/tI], § 105(b), Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 2012, and shall apply with respect to information required to be reported on or after such date.”
 
@@ -75,11 +75,11 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/112/34/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs105%2Fa
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F376
 [/us/usc/t42/s640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs640
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/112/34/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs105%2Fb
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F377
 
 

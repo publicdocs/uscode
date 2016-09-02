@@ -17,7 +17,7 @@
 
     Part 19 of the Federal Acquisition Regulation, [section 644 of title 15][/us/usc/t15/s644], and any other applicable laws or regulations establishing procurement requirements relating to small business concerns (as defined in [section 632 of title 15][/us/usc/t15/s632]) may not be waived with respect to any contract awarded under any program or other authority under this Act or an amendment made by this Act.
 
-([Pub. L. 111–148, title I, § 1563][/us/pl/111/148/s1563], as added [Pub. L. 111–148, title X, § 10107(b)(2)][/us/pl/111/148/s10107/b/2], Mar. 23, 2010, [124 Stat. 912][/us/stat/124/912].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10107(b)(2), Mar. 23, 2010, [124 Stat. 912][/us/stat/124/912].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/111/148/s1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563
-[/us/pl/111/148/s10107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F2
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F912
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

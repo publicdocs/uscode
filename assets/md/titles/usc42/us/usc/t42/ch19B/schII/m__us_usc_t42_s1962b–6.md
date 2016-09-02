@@ -31,11 +31,11 @@
 
         The accounts of the commission shall be open at all reasonable times for inspection by representatives of the jurisdictions and agencies which make appropriations, donations, or grants to the commission.
 
-([Pub. L. 89–80, title II, § 207][/us/pl/89/80/s207], July 22, 1965, [79 Stat. 250][/us/stat/79/250].)
+([Pub. L. 89–80, title II][/us/pl/89/80/tII], § 207, July 22, 1965, [79 Stat. 250][/us/stat/79/250].)
 
  __Codification__ 
 
-    In subsec. (a), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921, as amended \[[31 U.S.C. 1][/us/usc/t31/s1] et seq.\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921, as amended \[[31 U.S.C. 1][/us/usc/t31/s1] et seq.\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/89/80/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs207
+[/us/pl/89/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtII
 [/us/stat/79/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F250
 [/us/usc/t31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

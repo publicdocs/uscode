@@ -23,7 +23,7 @@
 
     Within 1 year after the effective date of this chapter, the Secretary shall submit a detailed report on the results of such study to the Congress, together with any recommendations for legislation he may consider appropriate.
 
-([Pub. L. 95–620, title VII, § 747][/us/pl/95/620/s747], Nov. 9, 1978, [92 Stat. 3344][/us/stat/92/3344].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 747, Nov. 9, 1978, [92 Stat. 3344][/us/stat/92/3344].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/95/620/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs747
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3344
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

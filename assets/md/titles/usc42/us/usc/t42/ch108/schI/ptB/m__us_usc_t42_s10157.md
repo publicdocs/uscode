@@ -21,7 +21,7 @@
 
         (2) The Secretary, in providing for the transportation of spent nuclear fuel under this chapter, shall utilize by contract private industry to the fullest extent possible in each aspect of such transportation. The Secretary shall use direct Federal services for such transportation only upon a determination of the Secretary of Transportation, in consultation with the Secretary, that private industry is unable or unwilling to provide such transportation services at reasonable cost.
 
-([Pub. L. 97–425, title I, § 137][/us/pl/97/425/s137], Jan. 7, 1983, [96 Stat. 2241][/us/stat/96/2241].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 137, Jan. 7, 1983, [96 Stat. 2241][/us/stat/96/2241].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s10156/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10156%2Fa
-[/us/pl/97/425/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs137
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2241
 
 

@@ -47,7 +47,7 @@
 
     (b) The Secretary of the Treasury shall, prior to audit or settlement by the Government Accountability Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to [section 1103(b)(1) of this title][/us/usc/t42/s1103/b/1]). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XII, § 1201, as added [Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], title IV, § 402, [58 Stat. 790][/us/stat/58/790]; amended [Aug. 6, 1947, ch. 510, § 5(b)][/us/act/1947-08-06/ch510/s5/b], [61 Stat. 794][/us/stat/61/794]; 1949 Reorg. Plan No. 2, § 1, eff. Aug. 19, 1949, 14 F.R. 5225, [63 Stat. 1065][/us/stat/63/1065]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 404(a), [64 Stat. 560][/us/stat/64/560]; [Aug. 5, 1954, ch. 657, § 3][/us/act/1954-08-05/ch657/s3], [68 Stat. 671][/us/stat/68/671]; [Pub. L. 86–778, title V, § 522(a)][/us/pl/86/778/s522/a], Sept. 13, 1960, [74 Stat. 978][/us/stat/74/978]; [Pub. L. 94–566, title II, § 213(a)][/us/pl/94/566/s213/a]–(c), Oct. 20, 1976, [90 Stat. 2677][/us/stat/90/2677]; [Pub. L. 97–35, title XXIV, § 2407(b)(1)][/us/pl/97/35/s2407/b/1], Aug. 13, 1981, [95 Stat. 880][/us/stat/95/880]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XII, § 1201, as added [Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], title IV, § 402, [58 Stat. 790][/us/stat/58/790]; amended [Aug. 6, 1947, ch. 510][/us/act/1947-08-06/ch510], § 5(b), [61 Stat. 794][/us/stat/61/794]; 1949 Reorg. Plan No. 2, § 1, eff. Aug. 19, 1949, 14 F.R. 5225, [63 Stat. 1065][/us/stat/63/1065]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 404(a), [64 Stat. 560][/us/stat/64/560]; [Aug. 5, 1954, ch. 657][/us/act/1954-08-05/ch657], § 3, [68 Stat. 671][/us/stat/68/671]; [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 522(a), Sept. 13, 1960, [74 Stat. 978][/us/stat/74/978]; [Pub. L. 94–566, title II][/us/pl/94/566/tII], § 213(a)–(c), Oct. 20, 1976, [90 Stat. 2677][/us/stat/90/2677]; [Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2407(b)(1), Aug. 13, 1981, [95 Stat. 880][/us/stat/95/880]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 
     1981—Subsec. (a)(1). [Pub. L. 97–35][/us/pl/97/35] substituted “with interest to the extent provided in [section 1322(b) of this title][/us/usc/t42/s1322/b]” for “without interest”.
 
-    1976—Subsec. (a)(1). [Pub. L. 94–566, § 213(a)][/us/pl/94/566/s213/a], substituted “any 3-month period” for “any month” in provisions preceding subpar. (A), “the month preceding the first month of such 3-month period” for “the preceding month” in subpar. (A), and “each month of such 3-month period” for “such month” in subpar. (B).
+    1976—Subsec. (a)(1). [Pub. L. 94–566][/us/pl/94/566], § 213(a), substituted “any 3-month period” for “any month” in provisions preceding subpar. (A), “the month preceding the first month of such 3-month period” for “the preceding month” in subpar. (A), and “each month of such 3-month period” for “such month” in subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 94–566, § 213(b)][/us/pl/94/566/s213/b], substituted “any 3-month period” for “any month” in provisions preceding subpar. (A) and following subpar. (B), and “each month of such 3-month period” for “such month” in subpar. (A) and provisions following subpar. (B).
+    Subsec. (a)(2). [Pub. L. 94–566][/us/pl/94/566], § 213(b), substituted “any 3-month period” for “any month” in provisions preceding subpar. (A) and following subpar. (B), and “each month of such 3-month period” for “such month” in subpar. (A) and provisions following subpar. (B).
 
-    Subsec. (b). [Pub. L. 94–566, § 213(c)][/us/pl/94/566/s213/c], provided that the transfer of amounts by the Secretary of the Treasury from the Federal unemployment account to the account of the States in the Unemployment Trust Fund be made in monthly installments and that the amount of any monthly installment so transferred not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which the installment is made.
+    Subsec. (b). [Pub. L. 94–566][/us/pl/94/566], § 213(c), provided that the transfer of amounts by the Secretary of the Treasury from the Federal unemployment account to the account of the States in the Unemployment Trust Fund be made in monthly installments and that the amount of any monthly installment so transferred not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which the installment is made.
 
     1960—Subsec. (a). [Pub. L. 86–778][/us/pl/86/778] amended subsec. (a) generally, substituting provisions relating to advances on a monthly basis upon application of the Governor and the furnishing of an estimate of amount of requisite advance and determination and certification by the Secretary of Labor of the requisite amount limited to a sum which is available in the Federal unemployment account for advances for the month for former provisions relating to advances on a quarterly basis upon application of the Governor for a specified amount not to exceed the highest total compensation paid out under the unemployment compensation law of the State during any one of the four calendar quarters preceding the quarter in which the application is made, where the balance in the unemployment fund of the State in the Unemployment Trust Fund at the close of Sept. 30, 1953, or the last day in any ensuing calendar quarter is less than the total compensation paid out under the unemployment compensation law of the State during the twelve-month period at the close of such day; incorporating former provisions of subsec. (b), relating to repayment of advances, in par. (1), inserting provision for repayment under [section 1103(b)(2) of this title][/us/usc/t42/s1103/b/2], and provisions formerly designated as cl. (A) and (B) in par. (3)(A) and (C); and adding par. (3)(B).
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–566, title II, § 213(d)][/us/pl/94/566/s213/d], Oct. 20, 1976, [90 Stat. 2678][/us/stat/90/2678], provided that: 
+[Pub. L. 94–566, title II][/us/pl/94/566/tII], § 213(d), Oct. 20, 1976, [90 Stat. 2678][/us/stat/90/2678], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\].”
 
@@ -83,13 +83,13 @@
 
  __Termination Date__ 
 
-[Act Aug. 6, 1947, ch. 510, § 4][/us/act/1947-08-06/ch510/s4], [61 Stat. 794][/us/stat/61/794], provided that: 
+[Act Aug. 6, 1947, ch. 510][/us/act/1947-08-06/ch510], § 4, [61 Stat. 794][/us/stat/61/794], provided that: 
 
 > “Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 1651 note of the former Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of the former Appendix to Title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[sections 1666 and 1667 of the former Appendix to Title 50\] to the Social Security Act \[this section and [section 1104 of this title][/us/usc/t42/s1104]\].”
 
  __Applications for Transfer of Funds Under Former Provisions of Section 1321(a); Limitations__ 
 
-[Pub. L. 86–778, title V, § 522(b)][/us/pl/86/778/s522/b], Sept. 13, 1960, [74 Stat. 979][/us/stat/74/979], provided that:
+[Pub. L. 86–778, title V][/us/pl/86/778/tV], § 522(b), Sept. 13, 1960, [74 Stat. 979][/us/stat/74/979], provided that:
 
 >     “(1)
 
@@ -119,37 +119,37 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1944-10-03/ch480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fch480
 [/us/stat/58/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F790
-[/us/act/1947-08-06/ch510/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510%2Fs5%2Fb
+[/us/act/1947-08-06/ch510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510
 [/us/stat/61/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F794
 [/us/stat/63/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1065
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F560
-[/us/act/1954-08-05/ch657/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657%2Fs3
+[/us/act/1954-08-05/ch657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657
 [/us/stat/68/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F671
-[/us/pl/86/778/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs522%2Fa
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F978
-[/us/pl/94/566/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs213%2Fa
+[/us/pl/94/566/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtII
 [/us/stat/90/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2677
-[/us/pl/97/35/s2407/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2407%2Fb%2F1
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F880
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1322%2Fb
-[/us/pl/94/566/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs213%2Fa
-[/us/pl/94/566/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs213%2Fb
-[/us/pl/94/566/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs213%2Fc
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/usc/t42/s1103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1103%2Fb%2F2
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
-[/us/pl/94/566/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs213%2Fd
+[/us/pl/94/566/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtII
 [/us/stat/90/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2678
 [/us/usc/t42/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104
-[/us/act/1947-08-06/ch510/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510%2Fs4
+[/us/act/1947-08-06/ch510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510
 [/us/stat/61/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F794
 [/us/usc/t42/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104
-[/us/pl/86/778/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs522%2Fb
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F979
 [/us/usc/t42/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321%2Fa
 [/us/usc/t26/s3302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302%2Fc

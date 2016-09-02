@@ -39,7 +39,7 @@
 
             In order to comply with paragraph (1) with respect to the remanufacture of a vehicle of historic character which is to be used on a segment of a light or rapid rail system which is included on the National Register of Historic Places, if making such vehicle readily accessible to and usable by individuals with disabilities would significantly alter the historic character of such vehicle, the public entity which operates such system only has to make (or to purchase or lease a remanufactured vehicle with) those modifications which are necessary to meet the requirements of [section 12142(c)(1) of this title][/us/usc/t42/s12142/c/1] and which do not significantly alter the historic character of such vehicle.
 
-([Pub. L. 101–336, title II, § 228][/us/pl/101/336/s228], July 26, 1990, [104 Stat. 344][/us/stat/104/344].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 228, July 26, 1990, [104 Stat. 344][/us/stat/104/344].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t42/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12132
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12142/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12142%2Fc%2F1
-[/us/pl/101/336/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs228
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F344
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/pl/101/336/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231

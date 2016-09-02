@@ -219,7 +219,7 @@
 
         The Attorney General and the Secretary of Health and Human Services shall submit to Congress, by March 1 of each year, a detailed review of the progress of the regional children’s advocacy program activities.
 
-([Pub. L. 101–647, title II, § 213][/us/pl/101/647/s213], as added [Pub. L. 102–586, § 6(b)(2)][/us/pl/102/586/s6/b/2], Nov. 4, 1992, [106 Stat. 5030][/us/stat/106/5030]; amended [Pub. L. 108–21, title III, § 381(a)][/us/pl/108/21/s381/a], Apr. 30, 2003, [117 Stat. 667][/us/stat/117/667].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 213, as added [Pub. L. 102–586][/us/pl/102/586], § 6(b)(2), Nov. 4, 1992, [106 Stat. 5030][/us/stat/106/5030]; amended [Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 381(a), Apr. 30, 2003, [117 Stat. 667][/us/stat/117/667].)
 
  __Prior Provisions__ 
 
@@ -227,9 +227,9 @@
 
  __Amendments__ 
 
-    2003—Subsec. (c)(4). [Pub. L. 108–21, § 381(a)(1)][/us/pl/108/21/s381/a/1], struck out “and” at end of cl. (ii) of subpar. (B), substituted “board” for “Board” in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
+    2003—Subsec. (c)(4). [Pub. L. 108–21][/us/pl/108/21], § 381(a)(1), struck out “and” at end of cl. (ii) of subpar. (B), substituted “board” for “Board” in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
 
-    Subsec. (e)(1)(B)(ii), (2)(A), (3). [Pub. L. 108–21, § 381(a)(2)][/us/pl/108/21/s381/a/2], substituted “board” for “Board”.
+    Subsec. (e)(1)(B)(ii), (2)(A), (3). [Pub. L. 108–21][/us/pl/108/21], § 381(a)(2), substituted “board” for “Board”.
 
  __Termination of Advisory Boards__ 
 
@@ -243,15 +243,15 @@
 ----------
 
 [/us/usc/t42/s13002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13002
-[/us/pl/101/647/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs213
-[/us/pl/102/586/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fb%2F2
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5030
-[/us/pl/108/21/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs381%2Fa
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F667
 [/us/pl/101/647/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs213
 [/us/usc/t42/s13003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13003
-[/us/pl/108/21/s381/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs381%2Fa%2F1
-[/us/pl/108/21/s381/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs381%2Fa%2F2
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 

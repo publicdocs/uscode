@@ -65,7 +65,7 @@
 
         The Secretary shall consult with States and organizations with an interest in child welfare, including organizations that provide adoption and foster care services, and shall take into account requests from Members of Congress, in selecting other issues to be analyzed and reported on under this section using data available to the Secretary, including data reported by States through the Adoption and Foster Care Analysis and Reporting System and to the National Youth in Transition Database.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479A, as added [Pub. L. 105–89, title II, § 203(a)][/us/pl/105/89/s203/a], Nov. 19, 1997, [111 Stat. 2126][/us/stat/111/2126]; amended [Pub. L. 109–288, § 7(c)(2)][/us/pl/109/288/s7/c/2], Sept. 28, 2006, [120 Stat. 1249][/us/stat/120/1249]; [Pub. L. 112–34, title I, § 106(d)][/us/pl/112/34/s106/d], Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377]; [Pub. L. 113–183, title I, § 115][/us/pl/113/183/s115], Sept. 29, 2014, [128 Stat. 1930][/us/stat/128/1930].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479A, as added [Pub. L. 105–89, title II][/us/pl/105/89/tII], § 203(a), Nov. 19, 1997, [111 Stat. 2126][/us/stat/111/2126]; amended [Pub. L. 109–288][/us/pl/109/288], § 7(c)(2), Sept. 28, 2006, [120 Stat. 1249][/us/stat/120/1249]; [Pub. L. 112–34, title I][/us/pl/112/34/tI], § 106(d), Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377]; [Pub. L. 113–183, title I][/us/pl/113/183/tI], § 115, Sept. 29, 2014, [128 Stat. 1930][/us/stat/128/1930].)
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@
 
  __Development of Performance-Based Incentive System__ 
 
-[Pub. L. 105–89, title II, § 203(b)][/us/pl/105/89/s203/b], Nov. 19, 1997, [111 Stat. 2127][/us/stat/111/2127], provided that: 
+[Pub. L. 105–89, title II][/us/pl/105/89/tII], § 203(b), Nov. 19, 1997, [111 Stat. 2127][/us/stat/111/2127], provided that: 
 
 > “The Secretary of Health and Human Services, in consultation with State and local public officials responsible for administering child welfare programs and child welfare advocates, shall study, develop, and recommend to Congress an incentive system to provide payments under parts B and E of title IV of the Social Security Act ([42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.) to any State based on the State’s performance under such a system. Such a system shall, to the extent the Secretary determines feasible and appropriate, be based on the annual report required by section 479A of the Social Security Act \[[42 U.S.C. 679b][/us/usc/t42/s679b]\] (as added by subsection (a) of this section) or on any proposed modifications of the annual report. Not later than 6 months after the date of the enactment of this Act \[Nov. 19, 1997\], the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a progress report on the feasibility, timetable, and consultation process for conducting such a study. Not later than 15 months after such date of enactment, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the final report on a performance-based incentive system. The report may include other recommendations for restructuring the program and payments under parts B and E of title IV of the Social Security Act.”
 
@@ -101,13 +101,13 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/89/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs203%2Fa
+[/us/pl/105/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtII
 [/us/stat/111/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2126
-[/us/pl/109/288/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs7%2Fc%2F2
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1249
-[/us/pl/112/34/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs106%2Fd
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F377
-[/us/pl/113/183/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs115
+[/us/pl/113/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtI
 [/us/stat/128/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1930
 [/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
@@ -120,7 +120,7 @@
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621
 [/us/pl/105/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs501
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
-[/us/pl/105/89/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs203%2Fb
+[/us/pl/105/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtII
 [/us/stat/111/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2127
 [/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/usc/t42/s679b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679b

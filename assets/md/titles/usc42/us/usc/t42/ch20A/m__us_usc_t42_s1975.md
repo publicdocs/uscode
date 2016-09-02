@@ -51,7 +51,7 @@
 
         5 members of the Commission constitute a quorum of the Commission.
 
-([Pub. L. 98–183, § 2][/us/pl/98/183/s2], Nov. 30, 1983, [97 Stat. 1301][/us/stat/97/1301]; [Pub. L. 102–167, § 5][/us/pl/102/167/s5], Nov. 26, 1991, [105 Stat. 1101][/us/stat/105/1101]; [Pub. L. 103–419, § 2][/us/pl/103/419/s2], Oct. 25, 1994, [108 Stat. 4338][/us/stat/108/4338].)
+([Pub. L. 98–183][/us/pl/98/183], § 2, Nov. 30, 1983, [97 Stat. 1301][/us/stat/97/1301]; [Pub. L. 102–167][/us/pl/102/167], § 5, Nov. 26, 1991, [105 Stat. 1101][/us/stat/105/1101]; [Pub. L. 103–419][/us/pl/103/419], § 2, Oct. 25, 1994, [108 Stat. 4338][/us/stat/108/4338].)
 
  __Prior Provisions__ 
 
@@ -65,31 +65,31 @@
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–419, § 1][/us/pl/103/419/s1], Oct. 25, 1994, [108 Stat. 4338][/us/stat/108/4338], provided that: 
+[Pub. L. 103–419][/us/pl/103/419], § 1, Oct. 25, 1994, [108 Stat. 4338][/us/stat/108/4338], provided that: 
 
 > “This Act \[amending this section and sections 1975a to 1975d of this title, omitting former sections 1975e and 1975f of this title, and amending provisions set out as a note below\] may be cited as the ‘Civil Rights Commission Amendments Act of 1994’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–400, § 1][/us/pl/102/400/s1], Oct. 7, 1992, [106 Stat. 1955][/us/stat/106/1955], provided that: 
+[Pub. L. 102–400][/us/pl/102/400], § 1, Oct. 7, 1992, [106 Stat. 1955][/us/stat/106/1955], provided that: 
 
 > “This Act \[amending [section 1975e of this title][/us/usc/t42/s1975e]\] may be cited as the ‘United States Commission on Civil Rights Authorization Act of 1992’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–167, § 1][/us/pl/102/167/s1], Nov. 26, 1991, [105 Stat. 1101][/us/stat/105/1101], provided that: 
+[Pub. L. 102–167][/us/pl/102/167], § 1, Nov. 26, 1991, [105 Stat. 1101][/us/stat/105/1101], provided that: 
 
 > “This Act \[amending this section and sections 1975a and 1975c to 1975f of this title\] may be cited as the ‘United States Commission on Civil Rights Reauthorization Act of 1991’.”
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–180, § 1][/us/pl/101/180/s1], Nov. 28, 1989, [103 Stat. 1325][/us/stat/103/1325], provided that: 
+[Pub. L. 101–180][/us/pl/101/180], § 1, Nov. 28, 1989, [103 Stat. 1325][/us/stat/103/1325], provided that: 
 
 > “This Act \[amending sections 1975e and 1975f of this title\] may be cited as the ‘Civil Rights Commission Reauthorization Act of 1989’.”
 
  __Short Title__ 
 
-[Pub. L. 98–183, § 1][/us/pl/98/183/s1], Nov. 30, 1983, [97 Stat. 1301][/us/stat/97/1301], as amended by [Pub. L. 103–419, § 2][/us/pl/103/419/s2], Oct. 25, 1994, [108 Stat. 4338][/us/stat/108/4338], provided that: 
+[Pub. L. 98–183][/us/pl/98/183], § 1, Nov. 30, 1983, [97 Stat. 1301][/us/stat/97/1301], as amended by [Pub. L. 103–419][/us/pl/103/419], § 2, Oct. 25, 1994, [108 Stat. 4338][/us/stat/108/4338], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Civil Rights Commission Act of 1983’.”
 
@@ -100,28 +100,28 @@
 ----------
 ----------
 
-[/us/pl/98/183/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183%2Fs2
+[/us/pl/98/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183
 [/us/stat/97/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1301
-[/us/pl/102/167/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F167%2Fs5
+[/us/pl/102/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F167
 [/us/stat/105/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1101
-[/us/pl/103/419/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419%2Fs2
+[/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419
 [/us/stat/108/4338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4338
 [/us/pl/85/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315
 [/us/stat/71/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F634
 [/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419
 [/us/pl/102/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F167
-[/us/pl/103/419/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419%2Fs1
+[/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419
 [/us/stat/108/4338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4338
-[/us/pl/102/400/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F400%2Fs1
+[/us/pl/102/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F400
 [/us/stat/106/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1955
 [/us/usc/t42/s1975e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1975e
-[/us/pl/102/167/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F167%2Fs1
+[/us/pl/102/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F167
 [/us/stat/105/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1101
-[/us/pl/101/180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F180%2Fs1
+[/us/pl/101/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F180
 [/us/stat/103/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1325
-[/us/pl/98/183/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183%2Fs1
+[/us/pl/98/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183
 [/us/stat/97/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1301
-[/us/pl/103/419/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419%2Fs2
+[/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419
 [/us/stat/108/4338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4338
 
 

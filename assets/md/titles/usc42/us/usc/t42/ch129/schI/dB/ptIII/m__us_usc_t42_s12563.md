@@ -39,7 +39,7 @@
 
                     (I) a high number or percentage, as determined by the Corporation, of the students served by the agency are economically disadvantaged students; and
 
-                    (II) the graduation rate (as defined in [section 6311(b)(2)(C)(vi) of title 20][/us/usc/t20/s6311/b/2/C/vi] and as clarified in applicable regulations promulgated by the Department of Education  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  for the secondary school students served by the agency is less than 70 percent; and
+                    (II) the four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20][/us/usc/t20/s7801]) for the secondary school students served by the agency is less than 70 percent; and
 
             (B)
 
@@ -53,7 +53,7 @@
 
                 (iv) a State Commission or State educational agency; or
 
-                (v) more than 1 local educational agency described in subclause (I). <sup>\[2\]</sup>  <sup><sup> 2 So in original. Clause (v) does not contain subclauses. </sup></sup> 
+                (v) more than 1 local educational agency described in subclause (I). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Clause (v) does not contain subclauses. </sup></sup> 
 
         (3) __Youth engagement zone__ 
 
@@ -117,7 +117,7 @@
 
                 (ii) that may include the extension of academic year service-learning programs into the summer months; and
 
-                (iii) under which a student who completes 100 hours of service as described in [section 12602(b)(2) of this title][/us/usc/t42/s12602/b/2], <sup>\[3\]</sup>  <sup><sup> 3 So in original. Comma probably should not appear. </sup></sup>  shall be eligible for a summer of service educational award of $500 or $750 as described in sections 12602(a)(2)(C) and 12603(d) of this title;
+                (iii) under which a student who completes 100 hours of service as described in [section 12602(b)(2) of this title][/us/usc/t42/s12602/b/2], <sup>\[2\]</sup>  <sup><sup> 2 So in original. Comma probably should not appear. </sup></sup>  shall be eligible for a summer of service educational award of $500 or $750 as described in sections 12602(a)(2)(C) and 12603(d) of this title;
 
         (9)
 
@@ -177,7 +177,7 @@
 
             Not later than 4 years after the effective date of the Serve America Act, the Corporation shall conduct an independent evaluation of the programs and activities carried out using funds made available under this part, and determine best practices relating to service-learning and recommendations for improvement of those programs and activities. The Corporation shall widely disseminate the results of the evaluations, and information on the best practices and recommendations to the service community through multiple channels, including the Corporation’s Resource Center or a clearinghouse of effective strategies.
 
-([Pub. L. 101–610, title I, § 119][/us/pl/101/610/s119], as added [Pub. L. 111–13, title I, § 1204][/us/pl/111/13/s1204], Apr. 21, 2009, [123 Stat. 1479][/us/stat/123/1479].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 119, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1204, Apr. 21, 2009, [123 Stat. 1479][/us/stat/123/1479]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(bbb)(3), Dec. 10, 2015, [129 Stat. 2185][/us/stat/129/2185].)
 
  __References in Text__ 
 
@@ -188,6 +188,14 @@
  __Prior Provisions__ 
 
     A prior [section 119 of Pub. L. 101–610][/us/pl/101/610/s119] was renumbered section 118 and is classified to [section 12561 of this title][/us/usc/t42/s12561].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2)(A)(ii)(II). [Pub. L. 114–95][/us/pl/114/95] substituted “the four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20][/us/usc/t20/s7801])” for “the graduation rate (as defined in [section 6311(b)(2)(C)(vi) of title 20][/us/usc/t20/s6311/b/2/C/vi] and as clarified in applicable regulations promulgated by the Department of Education”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date__ 
 
@@ -200,14 +208,16 @@
 ----------
 ----------
 
-[/us/usc/t20/s6311/b/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fvi
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t42/s12523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523%2Fa
 [/us/usc/t42/s12602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fb%2F2
 [/us/usc/t42/s12639/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12639%2Fk
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
-[/us/pl/101/610/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs119
-[/us/pl/111/13/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1204
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1479
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2185
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
@@ -215,6 +225,12 @@
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/101/610/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs119
 [/us/usc/t42/s12561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12561
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s6311/b/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fvi
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 

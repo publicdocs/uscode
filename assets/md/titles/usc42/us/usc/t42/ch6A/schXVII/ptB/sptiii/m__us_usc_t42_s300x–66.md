@@ -17,7 +17,7 @@
 
     States may use funds available for treatment under sections 300x and 300x–21 of this title to treat persons with co-occurring substance abuse and mental disorders as long as funds available under such sections are used for the purposes for which they were authorized by law and can be tracked for accounting purposes.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1956, as added [Pub. L. 106–310, div. B, title XXXIV, § 3407][/us/pl/106/310/s3407], Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1956, as added [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3407, Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3407
+[/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1222
 
 

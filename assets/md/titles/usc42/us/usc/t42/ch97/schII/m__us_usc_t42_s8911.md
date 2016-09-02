@@ -43,7 +43,7 @@
 
         The Office shall provide a separate assessment of the interagency requirements to implement a comprehensive program of the type described in the third sentence of subsection (b) of this section.
 
-([Pub. L. 96–294, title VII, § 711][/us/pl/96/294/s711], June 30, 1980, [94 Stat. 774][/us/stat/94/774].)
+([Pub. L. 96–294, title VII][/us/pl/96/294/tVII], § 711, June 30, 1980, [94 Stat. 774][/us/stat/94/774].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs711
+[/us/pl/96/294/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVII
 [/us/stat/94/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F774
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F611

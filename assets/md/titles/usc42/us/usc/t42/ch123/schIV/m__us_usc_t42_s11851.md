@@ -57,7 +57,7 @@
 
     (12) the term “unit of general local government” has the meaning given it in section 5603(8) 1 of this title.
 
-([Pub. L. 100–690, title III, § 3601][/us/pl/100/690/s3601], Nov. 18, 1988, [102 Stat. 4260][/us/stat/102/4260]; [Pub. L. 101–204, title X, § 1001(c)(2)][/us/pl/101/204/s1001/c/2], Dec. 7, 1989, [103 Stat. 1827][/us/stat/103/1827]; [Pub. L. 103–82, title IV, § 405(n)][/us/pl/103/82/s405/n], Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922]; [Pub. L. 105–244, title I, § 102(a)(13)(J)][/us/pl/105/244/s102/a/13/J], Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3601, Nov. 18, 1988, [102 Stat. 4260][/us/stat/102/4260]; [Pub. L. 101–204, title X][/us/pl/101/204/tX], § 1001(c)(2), Dec. 7, 1989, [103 Stat. 1827][/us/stat/103/1827]; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(n), Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(J), Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621].)
 
  __References in Text__ 
 
@@ -101,13 +101,13 @@
 [/us/usc/t42/s5603/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5603%2F11
 [/us/usc/t42/s5603/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5603%2F7
 [/us/usc/t42/s5603/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5603%2F15
-[/us/pl/100/690/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3601
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4260
-[/us/pl/101/204/s1001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fc%2F2
+[/us/pl/101/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtX
 [/us/stat/103/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1827
-[/us/pl/103/82/s405/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fn
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F922
-[/us/pl/105/244/s102/a/13/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FJ
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1621
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/stat/102/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4244

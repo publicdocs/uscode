@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary shall be governed by the provisions of sections 5908 (except subsections (l) and (n)) and 5909 of this title with respect to patent policy and to the definition of title to and licensing of inventions made or conceived in the course of work performed, or under any contract or grant made, pursuant to this chapter. Subject to such patent policy, all research or development contracted for, sponsored, cosponsored, or authorized under authority of this chapter shall be provided in such manner that all information, data, and know-how, regardless of their nature or mediums, resulting from such research and development shall (with such exceptions and limitations, if any, as the Secretary may find to be necessary in the interest of national defense) be usefully available for practice by the general public.
 
-([Pub. L. 98–242, title I, § 109][/us/pl/98/242/s109], Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101].)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 109, Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/242/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs109
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F101
 [/us/pl/98/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242
 [/us/stat/98/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F97

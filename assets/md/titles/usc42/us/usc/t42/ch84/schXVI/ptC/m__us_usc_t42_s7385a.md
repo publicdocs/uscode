@@ -17,7 +17,7 @@
 
     Upon payment of compensation under this subchapter, the United States is subrogated for the amount of the payment to a right or claim that the individual to whom the payment was made may have against any person on account of injuries referred to in [section 7385 of this title][/us/usc/t42/s7385].
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3642\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–509; [Pub. L. 108–375, div. C, title XXXI, § 3162(b)][/us/pl/108/375/s3162/b], Oct. 28, 2004, [118 Stat. 2186][/us/stat/118/2186].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3642\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–509; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3162(b), Oct. 28, 2004, [118 Stat. 2186][/us/stat/118/2186].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t42/s7385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s3162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3162%2Fb
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2186
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

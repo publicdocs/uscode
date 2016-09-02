@@ -99,7 +99,7 @@
 
             Nothing in this subsection shall be construed to permit a center established under subsection (c)(1)(C) to compel health insurance issuers to provide data to the center.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2794, as added and amended [Pub. L. 111–148, title I, § 1003][/us/pl/111/148/s1003], title X, § 10101(i), Mar. 23, 2010, [124 Stat. 139][/us/stat/124/139], 891.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2794, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1003, title X, § 10101(i), Mar. 23, 2010, [124 Stat. 139][/us/stat/124/139], 891.)
 
  __Codification__ 
 
@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1)(C). [Pub. L. 111–148, § 10101(i)(1)][/us/pl/111/148/s10101/i/1], added subpar. (C).
+    2010—Subsec. (c)(1)(C). [Pub. L. 111–148][/us/pl/111/148], § 10101(i)(1), added subpar. (C).
 
-    Subsec. (d). [Pub. L. 111–148, § 10101(i)(2)][/us/pl/111/148/s10101/i/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–148][/us/pl/111/148], § 10101(i)(2), added subsec. (d).
 
  __Effective Date__ 
 
@@ -126,11 +126,11 @@
 
 [/us/usc/t42/s18032/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18032%2Ff%2F2%2FB
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1003
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F139
 [/us/usc/t42/s300gg–95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9395
-[/us/pl/111/148/s10101/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Fi%2F1
-[/us/pl/111/148/s10101/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Fi%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004%2Fa
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 [/us/pl/111/148/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004%2Fb

@@ -17,7 +17,7 @@
 
     An investigator supported under a Foundation award, whom the Director determines has failed to comply with the provisions of section 734 of the Foundation Grant Policy Manual, shall be ineligible for a future award under any Foundation supported program or activity. The Director may restore the eligibility of such an investigator on the basis of the investigator’s subsequent compliance with the provisions of section 734 of the Foundation Grant Policy Manual and with such other terms and conditions as the Director may impose.
 
-([Pub. L. 110–69, title VII, § 7011][/us/pl/110/69/s7011], Aug. 9, 2007, [121 Stat. 680][/us/stat/121/680].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7011, Aug. 9, 2007, [121 Stat. 680][/us/stat/121/680].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7011
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F680
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

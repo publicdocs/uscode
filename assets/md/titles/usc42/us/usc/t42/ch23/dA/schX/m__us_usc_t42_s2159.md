@@ -95,7 +95,7 @@
 
             (B) the vote on final passage shall be on the joint resolution of the other House.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 130, as added [Pub. L. 95–242, title III, § 308][/us/pl/95/242/s308], Mar. 10, 1978, [92 Stat. 139][/us/stat/92/139]; amended [Pub. L. 99–64, title III, § 301(c)][/us/pl/99/64/s301/c], July 12, 1985, [99 Stat. 160][/us/stat/99/160]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–437, § 15(f)(5)][/us/pl/103/437/s15/f/5], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 110–369, title II, § 205][/us/pl/110/369/s205], Oct. 8, 2008, [122 Stat. 4033][/us/stat/122/4033].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 130, as added [Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 308, Mar. 10, 1978, [92 Stat. 139][/us/stat/92/139]; amended [Pub. L. 99–64, title III][/us/pl/99/64/tIII], § 301(c), July 12, 1985, [99 Stat. 160][/us/stat/99/160]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–437][/us/pl/103/437], § 15(f)(5), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 110–369, title II][/us/pl/110/369/tII], § 205, Oct. 8, 2008, [122 Stat. 4033][/us/stat/122/4033].)
 
  __References in Text__ 
 
@@ -105,17 +105,17 @@
 
  __Amendments__ 
 
-    2008—Subsec. (i)(1). [Pub. L. 110–369, § 205(1)][/us/pl/110/369/s205/1], substituted “means—” for “means a joint resolution, the matter after the resolving clause of which is as follows: ‘That the Congress (does or does not) favor the proposed agreement for cooperation transmitted to the Congress by the President on       .’,” and added subpars. (A) to (C).
+    2008—Subsec. (i)(1). [Pub. L. 110–369][/us/pl/110/369], § 205(1), substituted “means—” for “means a joint resolution, the matter after the resolving clause of which is as follows: ‘That the Congress (does or does not) favor the proposed agreement for cooperation transmitted to the Congress by the President on       .’,” and added subpars. (A) to (C).
 
-    Subsec. (i)(4). [Pub. L. 110–369, § 205(2)][/us/pl/110/369/s205/2], inserted “(or in the case of a joint resolution related to a subsequent arrangement under section 201 of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, 15 days after its introduction)” after “45 days after its introduction” and “(or in the case of a joint resolution related to a subsequent arrangement under section 201 of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, 15-day period)” after “45-day period”.
+    Subsec. (i)(4). [Pub. L. 110–369][/us/pl/110/369], § 205(2), inserted “(or in the case of a joint resolution related to a subsequent arrangement under section 201 of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, 15 days after its introduction)” after “45 days after its introduction” and “(or in the case of a joint resolution related to a subsequent arrangement under section 201 of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, 15-day period)” after “45-day period”.
 
     1994—Subsecs. (a), (i)(2). [Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs” for “International Relations”.
 
-    1985—Subsec. (a). [Pub. L. 99–64, § 301(c)(1)][/us/pl/99/64/s301/c/1], struck out “2153(d),” after “submission of the President required by section”, struck out “, and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title, the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate,” after “Committee on Foreign Affairs of the House of Representatives”, and struck out in proviso “and if, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title, the other relevant committee of that House has reported such a resolution, such committee shall be deemed discharged from further consideration of that resolution” after “consideration of such submission”.
+    1985—Subsec. (a). [Pub. L. 99–64][/us/pl/99/64], § 301(c)(1), struck out “2153(d),” after “submission of the President required by section”, struck out “, and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title, the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate,” after “Committee on Foreign Affairs of the House of Representatives”, and struck out in proviso “and if, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title, the other relevant committee of that House has reported such a resolution, such committee shall be deemed discharged from further consideration of that resolution” after “consideration of such submission”.
 
-    Subsec. (g). [Pub. L. 99–64, § 301(c)(2)][/us/pl/99/64/s301/c/2], designated existing provisions of subsec. (g) as par. (1), substituted “Except as provided in paragraph (2), for” for “For”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+    Subsec. (g). [Pub. L. 99–64][/us/pl/99/64], § 301(c)(2), designated existing provisions of subsec. (g) as par. (1), substituted “Except as provided in paragraph (2), for” for “For”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-    Subsec. (i). [Pub. L. 99–64, § 301(c)(2)(B)][/us/pl/99/64/s301/c/2/B], added subsec. (i).
+    Subsec. (i). [Pub. L. 99–64][/us/pl/99/64], § 301(c)(2)(B), added subsec. (i).
 
  __Effective Date of 1985 Amendment__ 
 
@@ -137,26 +137,26 @@
 [/us/usc/t42/s2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2158
 [/us/usc/t42/s2153/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153%2Fd
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/242/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs308
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F139
-[/us/pl/99/64/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fc
+[/us/pl/99/64/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtIII
 [/us/stat/99/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F160
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/437/s15/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F5
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
-[/us/pl/110/369/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs205
+[/us/pl/110/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2FtII
 [/us/stat/122/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4033
 [/us/pl/110/369/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs201
 [/us/usc/t22/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8001
 [/us/pl/94/329/s601/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb%2F4
 [/us/stat/90/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F729
-[/us/pl/110/369/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs205%2F1
-[/us/pl/110/369/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs205%2F2
+[/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
+[/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/99/64/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fc%2F1
-[/us/pl/99/64/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fc%2F2
-[/us/pl/99/64/s301/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fc%2F2%2FB
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/99/64/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fd
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153

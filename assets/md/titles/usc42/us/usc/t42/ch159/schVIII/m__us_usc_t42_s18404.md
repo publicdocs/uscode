@@ -61,7 +61,7 @@
 
             Not later than 60 days after the President transmits the report required by paragraph (1) to the Congress, the Administrator shall transmit a report to the same committees describing how NASA will carry out the policy.
 
-([Pub. L. 111–267, title IX, § 906][/us/pl/111/267/s906], Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836].)
+([Pub. L. 111–267, title IX][/us/pl/111/267/tIX], § 906, Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs906
+[/us/pl/111/267/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIX
 [/us/stat/124/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2836
 
 

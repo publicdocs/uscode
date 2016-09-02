@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to carry out [section 15114 of this title][/us/usc/t42/s15114] $800,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
-([Pub. L. 106–402, title III, § 305][/us/pl/106/402/s305], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737].)
+([Pub. L. 106–402, title III][/us/pl/106/402/tIII], § 305, Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t42/s15113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15113
 [/us/usc/t42/s15114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15114
-[/us/pl/106/402/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs305
+[/us/pl/106/402/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIII
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 
 

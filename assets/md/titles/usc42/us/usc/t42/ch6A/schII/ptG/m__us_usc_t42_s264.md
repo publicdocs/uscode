@@ -43,17 +43,17 @@
 
         Nothing in this section or [section 266 of this title][/us/usc/t42/s266], or the regulations promulgated under such sections, may be construed as superseding any provision under State law (including regulations and including provisions established by political subdivisions of States), except to the extent that such a provision conflicts with an exercise of Federal authority under this section or [section 266 of this title][/us/usc/t42/s266].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 361, [58 Stat. 703][/us/stat/58/703]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 86–624, § 29(c)][/us/pl/86/624/s29/c], July 12, 1960, [74 Stat. 419][/us/stat/74/419]; [Pub. L. 94–317, title III, § 301(b)(1)][/us/pl/94/317/s301/b/1], June 23, 1976, [90 Stat. 707][/us/stat/90/707]; [Pub. L. 107–188, title I, § 142(a)(1)][/us/pl/107/188/s142/a/1], (2), (b)(1), (c), June 12, 2002, [116 Stat. 626][/us/stat/116/626], 627.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 361, [58 Stat. 703][/us/stat/58/703]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 86–624][/us/pl/86/624], § 29(c), July 12, 1960, [74 Stat. 419][/us/stat/74/419]; [Pub. L. 94–317, title III][/us/pl/94/317/tIII], § 301(b)(1), June 23, 1976, [90 Stat. 707][/us/stat/90/707]; [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 142(a)(1), (2), (b)(1), (c), June 12, 2002, [116 Stat. 626][/us/stat/116/626], 627.)
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–188, § 142(a)(1)][/us/pl/107/188/s142/a/1], (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
+    2002—[Pub. L. 107–188][/us/pl/107/188], § 142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
 
-    Subsec. (b). [Pub. L. 107–188, § 142(a)(1)][/us/pl/107/188/s142/a/1], substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
+    Subsec. (b). [Pub. L. 107–188][/us/pl/107/188], § 142(a)(1), substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
 
-    Subsec. (d). [Pub. L. 107–188, § 142(a)(2)][/us/pl/107/188/s142/a/2], (b)(1), substituted in first sentence “Regulations” for “On recommendation of the National Advisory Health Council, regulations”, “in a qualifying stage” for “in a communicable stage” in two places, designated existing text as par. (1) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
+    Subsec. (d). [Pub. L. 107–188][/us/pl/107/188], § 142(a)(2), (b)(1), substituted in first sentence “Regulations” for “On recommendation of the National Advisory Health Council, regulations”, “in a qualifying stage” for “in a communicable stage” in two places, designated existing text as par. (1) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
 
-    Subsec. (e). [Pub. L. 107–188, § 142(c)][/us/pl/107/188/s142/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–188][/us/pl/107/188], § 142(c), added subsec. (e).
 
     1976—Subsec. (d). [Pub. L. 94–317][/us/pl/94/317] inserted provision defining “State” to include, in addition to the several States, only the District of Columbia.
 
@@ -71,7 +71,7 @@
 
  __Evaluation of Public Health Authorities__ 
 
-[Pub. L. 110–392, title I, § 121][/us/pl/110/392/s121], Oct. 13, 2008, [122 Stat. 4200][/us/stat/122/4200], provided that:
+[Pub. L. 110–392, title I][/us/pl/110/392/tI], § 121, Oct. 13, 2008, [122 Stat. 4200][/us/stat/122/4200], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -129,16 +129,16 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F703
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/86/624/s29/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs29%2Fc
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F419
-[/us/pl/94/317/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs301%2Fb%2F1
+[/us/pl/94/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtIII
 [/us/stat/90/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F707
-[/us/pl/107/188/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs142%2Fa%2F1
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F626
-[/us/pl/107/188/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs142%2Fa%2F1
-[/us/pl/107/188/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs142%2Fa%2F1
-[/us/pl/107/188/s142/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs142%2Fa%2F2
-[/us/pl/107/188/s142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs142%2Fc
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
@@ -151,7 +151,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t42/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3501
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/110/392/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs121
+[/us/pl/110/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2FtI
 [/us/stat/122/4200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4200
 [/us/usc/t42/s264/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs264%2Fb
 [/us/usc/t42/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs265

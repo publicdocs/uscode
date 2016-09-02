@@ -29,7 +29,7 @@
 
         The President shall include in the annual report on the activities of the Trade and Development Agency required under [section 2421(d) of title 22][/us/usc/t22/s2421/d] a description of the activities carried out to implement this section.
 
-([Pub. L. 110–140, title IX, § 915][/us/pl/110/140/s915], Dec. 19, 2007, [121 Stat. 1727][/us/stat/121/1727].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 915, Dec. 19, 2007, [121 Stat. 1727][/us/stat/121/1727].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t22/s2421/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421%2Fd
-[/us/pl/110/140/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs915
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1727
 
 

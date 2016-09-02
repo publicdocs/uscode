@@ -67,7 +67,7 @@
 
         (6) actions to ensure quality of the petroleum distillate in the Reserve.
 
-([Pub. L. 94–163, title I, § 183][/us/pl/94/163/s183], as added [Pub. L. 106–469, title II, § 201(a)(3)][/us/pl/106/469/s201/a/3], Nov. 9, 2000, [114 Stat. 2035][/us/stat/114/2035]; amended [Pub. L. 109–58, title III, § 301(d)][/us/pl/109/58/s301/d], Aug. 8, 2005, [119 Stat. 684][/us/stat/119/684].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 183, as added [Pub. L. 106–469, title II][/us/pl/106/469/tII], § 201(a)(3), Nov. 9, 2000, [114 Stat. 2035][/us/stat/114/2035]; amended [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 301(d), Aug. 8, 2005, [119 Stat. 684][/us/stat/119/684].)
 
  __Amendments__ 
 
@@ -80,10 +80,10 @@
 ----------
 ----------
 
-[/us/pl/94/163/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs183
-[/us/pl/106/469/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs201%2Fa%2F3
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/106/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtII
 [/us/stat/114/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2035
-[/us/pl/109/58/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs301%2Fd
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F684
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

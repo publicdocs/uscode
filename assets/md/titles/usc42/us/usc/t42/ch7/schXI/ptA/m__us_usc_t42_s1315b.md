@@ -79,7 +79,7 @@
 
         In this section, the term “dual eligible individual” means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], or enrolled for benefits under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], and is eligible for medical assistance under a State plan under title XIX of such Act or under a waiver of such plan.
 
-([Pub. L. 111–148, title II, § 2602][/us/pl/111/148/s2602], Mar. 23, 2010, [124 Stat. 315][/us/stat/124/315].)
+([Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2602, Mar. 23, 2010, [124 Stat. 315][/us/stat/124/315].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
-[/us/pl/111/148/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2602
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F315
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

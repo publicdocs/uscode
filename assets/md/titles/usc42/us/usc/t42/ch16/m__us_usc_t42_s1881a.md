@@ -27,7 +27,7 @@
 
         Not more than three awards may be made under this section in any one fiscal year.
 
-([Pub. L. 94–86, § 6][/us/pl/94/86/s6], Aug. 9, 1975, [89 Stat. 430][/us/stat/89/430]; [Pub. L. 96–516, § 22(b)][/us/pl/96/516/s22/b], Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010]; [Pub. L. 99–159, title I, § 109(g)][/us/pl/99/159/s109/g], Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 105–207, title II, § 202(b)][/us/pl/105/207/s202/b], July 29, 1998, [112 Stat. 874][/us/stat/112/874]; [Pub. L. 110–69, title VII, § 7015(c)][/us/pl/110/69/s7015/c], Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684].)
+([Pub. L. 94–86][/us/pl/94/86], § 6, Aug. 9, 1975, [89 Stat. 430][/us/stat/89/430]; [Pub. L. 96–516][/us/pl/96/516], § 22(b), Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(g), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(b), July 29, 1998, [112 Stat. 874][/us/stat/112/874]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7015(c), Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684].)
 
  __Codification__ 
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/94/86/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86%2Fs6
+[/us/pl/94/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86
 [/us/stat/89/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F430
-[/us/pl/96/516/s22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs22%2Fb
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
-[/us/pl/99/159/s109/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fg
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
-[/us/pl/105/207/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fb
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F874
-[/us/pl/110/69/s7015/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7015%2Fc
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F684
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207

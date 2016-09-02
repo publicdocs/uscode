@@ -217,17 +217,17 @@
 
         (3) For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 31.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 506, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 823][/us/stat/95/823]; amended [Pub. L. 98–369, div. B, title III, § 2373(a)(2)][/us/pl/98/369/s2373/a/2], July 18, 1984, [98 Stat. 1111][/us/stat/98/1111]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6503(c)(3), (4), 6504, Dec. 19, 1989, [103 Stat. 2278][/us/stat/103/2278]; [Pub. L. 104–316, title I, § 122(f)][/us/pl/104/316/s122/f], Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 703(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 506, as added [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(a), Aug. 13, 1981, [95 Stat. 823][/us/stat/95/823]; amended [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2373(a)(2), July 18, 1984, [98 Stat. 1111][/us/stat/98/1111]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], §§ 6503(c)(3), (4), 6504, Dec. 19, 1989, [103 Stat. 2278][/us/stat/103/2278]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(f), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VII, § 703(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402.)
 
  __References in Text__ 
 
-    [Section 6503 of title 31][/us/usc/t31/s6503], referred to in subsec. (d)(3), was amended generally by [Pub. L. 101–453, § 5(b)][/us/pl/101/453/s5/b], Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059], and, as so amended, provisions formerly appearing in subsec. (b) are now contained in subsec. (h).
+    [Section 6503 of title 31][/us/usc/t31/s6503], referred to in subsec. (d)(3), was amended generally by [Pub. L. 101–453][/us/pl/101/453], § 5(b), Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059], and, as so amended, provisions formerly appearing in subsec. (b) are now contained in subsec. (h).
 
  __Prior Provisions__ 
 
-    A prior section 706, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 506, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 924][/us/stat/81/924]; amended Oct. 30, 1972, [Pub. L. 92–603, title II][/us/pl/92/603], §§ 221(c)(2), 224(d), 229(d), 233(d), 237(b), [86 Stat. 1389][/us/stat/86/1389], 1395, 1410, 1412, 1416, related to computation of amount of payments to States, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. See [section 703 of this title][/us/usc/t42/s703]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
+    A prior section 706, [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], § 506, as added Jan. 2, 1968, [Pub. L. 90–248, title III][/us/pl/90/248/tIII], § 301, [81 Stat. 924][/us/stat/81/924]; amended Oct. 30, 1972, [Pub. L. 92–603, title II][/us/pl/92/603/tII], §§ 221(c)(2), 224(d), 229(d), 233(d), 237(b), [86 Stat. 1389][/us/stat/86/1389], 1395, 1410, 1412, 1416, related to computation of amount of payments to States, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. See [section 703 of this title][/us/usc/t42/s703]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
 
-    Provisions similar to those comprising former section 706 were contained in sections 504 and 514 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, [49 Stat. 630][/us/stat/49/630], 632, as amended (formerly classified to sections 704 and 714 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
+    Provisions similar to those comprising former section 706 were contained in sections 504 and 514 of [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], [49 Stat. 630][/us/stat/49/630], 632, as amended (formerly classified to sections 704 and 714 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248][/us/pl/90/248], § 301.
 
  __Amendments__ 
 
@@ -235,15 +235,15 @@
 
     1996—Subsec. (a)(1). [Pub. L. 104–316][/us/pl/104/316] struck out “and the Comptroller General” after “with the States”.
 
-    1989—Subsec. (a)(1). [Pub. L. 101–239, § 6504(a)(1)][/us/pl/101/239/s6504/a/1], inserted after first sentence “Each such report shall be prepared by, or in consultation with, the State maternal and child health agency.”, substituted “be in such standardized form and contain such information (including information described in paragraph (2))” for “be in such form and contain such information”, and substituted “, (C) to describe the extent to which the State has met the goals and objectives it set forth under [section 705(a)(2)(B)(i) of this title][/us/usc/t42/s705/a/2/B/i] and the national health objectives referred to in [section 701(a) of this title][/us/usc/t42/s701/a], and (D)” for “and of the progress made toward achieving the purposes of this subchapter, and (C)”.
+    1989—Subsec. (a)(1). [Pub. L. 101–239][/us/pl/101/239], § 6504(a)(1), inserted after first sentence “Each such report shall be prepared by, or in consultation with, the State maternal and child health agency.”, substituted “be in such standardized form and contain such information (including information described in paragraph (2))” for “be in such form and contain such information”, and substituted “, (C) to describe the extent to which the State has met the goals and objectives it set forth under [section 705(a)(2)(B)(i) of this title][/us/usc/t42/s705/a/2/B/i] and the national health objectives referred to in [section 701(a) of this title][/us/usc/t42/s701/a], and (D)” for “and of the progress made toward achieving the purposes of this subchapter, and (C)”.
 
-    [Pub. L. 101–239, § 6503(c)(3)][/us/pl/101/239/s6503/c/3], (4), substituted “application transmitted under [section 705(a) of this title][/us/usc/t42/s705/a]” for “description and statement transmitted under [section 705 of this title][/us/usc/t42/s705]” in subpar. (C).
+    [Pub. L. 101–239][/us/pl/101/239], § 6503(c)(3), (4), substituted “application transmitted under [section 705(a) of this title][/us/usc/t42/s705/a]” for “description and statement transmitted under [section 705 of this title][/us/usc/t42/s705]” in subpar. (C).
 
-    Subsec. (a)(2). [Pub. L. 101–239, § 6504(a)(3)][/us/pl/101/239/s6504/a/3], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 101–239][/us/pl/101/239], § 6504(a)(3), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 101–239, § 6504(b)][/us/pl/101/239/s6504/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall annually report to the Congress on activities funded under [section 702(a) of this title][/us/usc/t42/s702/a] and shall provide for transmittal of a copy of such report to each State.”
+    Subsec. (a)(3). [Pub. L. 101–239][/us/pl/101/239], § 6504(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall annually report to the Congress on activities funded under [section 702(a) of this title][/us/usc/t42/s702/a] and shall provide for transmittal of a copy of such report to each State.”
 
-    [Pub. L. 101–239, § 6504(a)(2)][/us/pl/101/239/s6504/a/2], redesignated former par. (2) as (3).
+    [Pub. L. 101–239][/us/pl/101/239], § 6504(a)(2), redesignated former par. (2) as (3).
 
     1984—Subsec. (d)(3). [Pub. L. 98–369][/us/pl/98/369] substituted “[section 6503(b) of title 31][/us/usc/t31/s6503/b]” for “section 202 of the Intergovernmental Cooperation Act of 1968 ([42 U.S.C. 4212][/us/usc/t42/s4212])”.
 
@@ -253,7 +253,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 703(d)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VII, § 703(d)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402, provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] apply to annual reports submitted under section 506 of the Social Security Act ([42 U.S.C. 706][/us/usc/t42/s706]) for years beginning after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -263,7 +263,7 @@
 
  __Reports to Congress; Activities of States Receiving Allotments and Study of Alternative Formulas for Allotment__ 
 
-[Pub. L. 97–35, title XXI, § 2192(b)][/us/pl/97/35/s2192/b], Aug. 13, 1981, [95 Stat. 826][/us/stat/95/826], provided that:
+[Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(b), Aug. 13, 1981, [95 Stat. 826][/us/stat/95/826], provided that:
 
 >     “(1) The Secretary of Health and Human Services shall, no later than October 1, 1984, report to the Congress on the activities of States receiving allotments under title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\] (as amended by this section) and include in such report any recommendations for appropriate changes in legislation.
 
@@ -296,56 +296,56 @@
 [/us/usc/t42/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa
 [/us/usc/t42/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F823
-[/us/pl/98/369/s2373/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2373%2Fa%2F2
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1111
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2278
-[/us/pl/104/316/s122/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Ff
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3837
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t31/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503
-[/us/pl/101/453/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fb
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1059
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/90/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIII
 [/us/stat/81/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F924
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1389
 [/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
 [/us/usc/t42/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs703
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
 [/us/stat/49/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F630
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/101/239/s6504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6504%2Fa%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s705/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs705%2Fa%2F2%2FB%2Fi
 [/us/usc/t42/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fa
-[/us/pl/101/239/s6503/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6503%2Fc%2F3
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs705%2Fa
 [/us/usc/t42/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs705
-[/us/pl/101/239/s6504/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6504%2Fa%2F3
-[/us/pl/101/239/s6504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6504%2Fb
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa
-[/us/pl/101/239/s6504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6504%2Fa%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t31/s6503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503%2Fb
 [/us/usc/t42/s4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4212
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s6504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6504
 [/us/pl/101/239/s6510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6510%2Fb
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/97/35/s2192/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fb
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F826
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fb

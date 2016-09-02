@@ -83,13 +83,13 @@
 
             The Secretary shall annually report to the general public on the States that receive a waiver under this subsection.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1932, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 399][/us/stat/106/399]; amended [Pub. L. 106–310, div. B, title XXXIII, § 3303(d)][/us/pl/106/310/s3303/d]–(f)(1), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1932, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 399][/us/stat/106/399]; amended [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(d)–(f)(1), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211].)
 
  __References in Text__ 
 
-    [Section 300x–30(c) of this title][/us/usc/t42/s300x–30/c], referred to in subsec. (a)(5), was redesignated [section 300x–30(d) of this title][/us/usc/t42/s300x–30/d] by [Pub. L. 106–310, div. B, title XXXIII, § 3303(c)(1)][/us/pl/106/310/s3303/c/1], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211].
+    [Section 300x–30(c) of this title][/us/usc/t42/s300x–30/c], referred to in subsec. (a)(5), was redesignated [section 300x–30(d) of this title][/us/usc/t42/s300x–30/d] by [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(c)(1), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211].
 
-    [Section 300x–22(c) of this title][/us/usc/t42/s300x–22/c], referred to in subsec. (e)(2), was redesignated [section 300x–22(b) of this title][/us/usc/t42/s300x–22/b] by [Pub. L. 106–310, div. B, title XXXIII, § 3303(a)(2)][/us/pl/106/310/s3303/a/2], Oct. 17, 2000, [114 Stat. 1210][/us/stat/114/1210].
+    [Section 300x–22(c) of this title][/us/usc/t42/s300x–22/c], referred to in subsec. (e)(2), was redesignated [section 300x–22(b) of this title][/us/usc/t42/s300x–22/b] by [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(a)(2), Oct. 17, 2000, [114 Stat. 1210][/us/stat/114/1210].
 
  __Prior Provisions__ 
 
@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–310, § 3303(d)][/us/pl/106/310/s3303/d], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary;”.
+    2000—Subsec. (a)(1). [Pub. L. 106–310][/us/pl/106/310], § 3303(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary;”.
 
-    Subsec. (c). [Pub. L. 106–310, § 3303(e)][/us/pl/106/310/s3303/e], substituted “except Puerto Rico” for “whose allotment under [section 300x–21 of this title][/us/usc/t42/s300x–21] for the fiscal year is the amount specified in [section 300x–33(c)(2)(B) of this title][/us/usc/t42/s300x–33/c/2/B]”.
+    Subsec. (c). [Pub. L. 106–310][/us/pl/106/310], § 3303(e), substituted “except Puerto Rico” for “whose allotment under [section 300x–21 of this title][/us/usc/t42/s300x–21] for the fiscal year is the amount specified in [section 300x–33(c)(2)(B) of this title][/us/usc/t42/s300x–33/c/2/B]”.
 
-    Subsec. (e). [Pub. L. 106–310, § 3303(f)(1)][/us/pl/106/310/s3303/f/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–310][/us/pl/106/310], § 3303(f)(1), added subsec. (e).
 
 ----------
 
@@ -122,25 +122,25 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F399
-[/us/pl/106/310/s3303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fd
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1211
 [/us/usc/t42/s300x–30/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9330%2Fc
 [/us/usc/t42/s300x–30/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9330%2Fd
-[/us/pl/106/310/s3303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fc%2F1
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1211
 [/us/usc/t42/s300x–22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9322%2Fc
 [/us/usc/t42/s300x–22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9322%2Fb
-[/us/pl/106/310/s3303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fa%2F2
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1210
 [/us/usc/t42/s300y–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9322
 [/us/usc/t42/s300y–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9311
 [/us/pl/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280
-[/us/pl/106/310/s3303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fd
-[/us/pl/106/310/s3303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fe
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s300x–33/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9333%2Fc%2F2%2FB
-[/us/pl/106/310/s3303/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Ff%2F1
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 
 

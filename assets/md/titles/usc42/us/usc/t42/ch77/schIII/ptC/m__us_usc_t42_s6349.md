@@ -115,7 +115,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-([Pub. L. 102–486, title I, § 132][/us/pl/102/486/s132], Oct. 24, 1992, [106 Stat. 2837][/us/stat/106/2837]; [Pub. L. 104–66, title I, § 1052(a)(1)][/us/pl/104/66/s1052/a/1], Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717]; [Pub. L. 105–362, title IV, § 401(d)][/us/pl/105/362/s401/d], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 132, Oct. 24, 1992, [106 Stat. 2837][/us/stat/106/2837]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(a)(1), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717]; [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 401(d), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282].)
 
  __Codification__ 
 
@@ -136,11 +136,11 @@
 
 [/us/usc/t16/s2621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fa
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
-[/us/pl/102/486/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs132
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2837
-[/us/pl/104/66/s1052/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fa%2F1
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F717
-[/us/pl/105/362/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs401%2Fd
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

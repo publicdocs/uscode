@@ -31,7 +31,7 @@
 
         (2) shall be solely responsible for coordination with other departments, agencies, or offices of all activities authorized or undertaken under the Violence Against Women Act of 1994 (title VI  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “title IV”. </sup></sup>  of Public 103–322) and the Violence Against Women Act of 2000 (Division B of [Public Law 106–386][/us/pl/106/386]).
 
-([Pub. L. 90–351, title I, § 2002][/us/pl/90/351/s2002], as added [Pub. L. 107–273, div. A, title IV, § 402(3)][/us/pl/107/273/s402/3], Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2002, as added [Pub. L. 107–273, div. A, title IV][/us/pl/107/273/dA/tIV], § 402(3), Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–273, div. A, title IV, § 403][/us/pl/107/273/s403], Nov. 2, 2002, [116 Stat. 1791][/us/stat/116/1791], provided that: 
+[Pub. L. 107–273, div. A, title IV][/us/pl/107/273/dA/tIV], § 403, Nov. 2, 2002, [116 Stat. 1791][/us/stat/116/1791], provided that: 
 
 > “This title \[enacting this section and sections 3796gg–0a to 3796gg–0d of this title, amending sections 3796gg–1 to 3796gg–5 of this title, and enacting provisions set out as a note under [section 3711 of this title][/us/usc/t42/s3711]\] shall take effect 90 days after this bill becomes law \[Nov. 2, 2002\].”
 
@@ -58,8 +58,8 @@
 
 [/us/usc/t42/s3796gg–0b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%930b
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/90/351/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2002
-[/us/pl/107/273/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIV
 [/us/stat/116/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1789
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1902
@@ -69,7 +69,7 @@
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 [/us/pl/90/351/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2002
 [/us/usc/t42/s3796gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%931
-[/us/pl/107/273/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs403
+[/us/pl/107/273/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIV
 [/us/stat/116/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1791
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 

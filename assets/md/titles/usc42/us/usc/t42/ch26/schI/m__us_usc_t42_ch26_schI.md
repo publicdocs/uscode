@@ -11,57 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/m__us_usc_t42_ch26.md) | [Next](./../../../../..//us/usc/t42/ch26/schI/m__us_usc_t42_s2455.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschI)
+[Previous](./../../../../..//us/usc/t42/ch26/m__us_usc_t42_ch26.md) | [Next](./../../../../..//us/usc/t42/ch26/schI/m__us_usc_t42_s2451...2454.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschI)
 
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-§§ 2451 to 2454. __Repealed.__  __[__  __Pub. L. 111–314, § 6__  __][/us/pl/111/314/s6]__  __,__  __Dec. 18, 2010__  __,__  __[__  __124 Stat. 3444__  __][/us/stat/124/3444]__ 
-
-    Section 2451, [Pub. L. 85–568, title I, § 102][/us/pl/85/568/s102], July 29, 1958, [72 Stat. 426][/us/stat/72/426]; [Pub. L. 94–413, § 15(a)][/us/pl/94/413/s15/a], (b), Sept. 17, 1976, [90 Stat. 1270][/us/stat/90/1270]; [Pub. L. 95–238, title III, § 311][/us/pl/95/238/s311], Feb. 25, 1978, [92 Stat. 83][/us/stat/92/83]; [Pub. L. 95–401, § 7][/us/pl/95/401/s7], Sept. 30, 1978, [92 Stat. 860][/us/stat/92/860]; [Pub. L. 98–361, title I, § 110][/us/pl/98/361/s110], July 16, 1984, [98 Stat. 426][/us/stat/98/426]; [Pub. L. 100–685, title II, § 214][/us/pl/100/685/s214], Nov. 17, 1988, [102 Stat. 4093][/us/stat/102/4093]; [Pub. L. 106–391, title III, § 302(a)][/us/pl/106/391/s302/a], Oct. 30, 2000, [114 Stat. 1591][/us/stat/114/1591]; [Pub. L. 109–155, title III, § 321(d)(2)][/us/pl/109/155/s321/d/2], Dec. 30, 2005, [119 Stat. 2923][/us/stat/119/2923], related to congressional declaration of policy and purpose. See [section 20102 of Title 51][/us/usc/t51/s20102], National and Commercial Space Programs.
-
-    Section 2452, [Pub. L. 85–568, title I, § 103][/us/pl/85/568/s103], July 29, 1958, [72 Stat. 427][/us/stat/72/427]; [Pub. L. 98–52, title I, § 108][/us/pl/98/52/s108], July 15, 1983, [97 Stat. 285][/us/stat/97/285], related to definitions. See [section 20103 of Title 51][/us/usc/t51/s20103].
-
-    Section 2453, [Pub. L. 85–568, title III, § 302][/us/pl/85/568/s302], July 29, 1958, [72 Stat. 433][/us/stat/72/433], provided authorization to transfer related functions of other Federal agencies to Administration during a four-year period after July 29, 1958.
-
-    Section 2454, [Pub. L. 85–568, title III, § 303][/us/pl/85/568/s303], July 29, 1958, [72 Stat. 433][/us/stat/72/433]; [Pub. L. 102–588, title V, § 509][/us/pl/102/588/s509], Nov. 4, 1992, [106 Stat. 5129][/us/stat/106/5129], related to access to information obtained or developed by the Administrator. See [section 20131 of Title 51][/us/usc/t51/s20131].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/m__us_usc_t42_ch26.md) | [Next](./../../../../..//us/usc/t42/ch26/schI/m__us_usc_t42_s2455.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschI)
+[Previous](./../../../../..//us/usc/t42/ch26/m__us_usc_t42_ch26.md) | [Next](./../../../../..//us/usc/t42/ch26/schI/m__us_usc_t42_s2451...2454.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschI)
 
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
-[/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/85/568/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs102
-[/us/stat/72/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F426
-[/us/pl/94/413/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs15%2Fa
-[/us/stat/90/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1270
-[/us/pl/95/238/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs311
-[/us/stat/92/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F83
-[/us/pl/95/401/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F401%2Fs7
-[/us/stat/92/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F860
-[/us/pl/98/361/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F361%2Fs110
-[/us/stat/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F426
-[/us/pl/100/685/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs214
-[/us/stat/102/4093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4093
-[/us/pl/106/391/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs302%2Fa
-[/us/stat/114/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1591
-[/us/pl/109/155/s321/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs321%2Fd%2F2
-[/us/stat/119/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2923
-[/us/usc/t51/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20102
-[/us/pl/85/568/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs103
-[/us/stat/72/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F427
-[/us/pl/98/52/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F52%2Fs108
-[/us/stat/97/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F285
-[/us/usc/t51/s20103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20103
-[/us/pl/85/568/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs302
-[/us/stat/72/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F433
-[/us/pl/85/568/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs303
-[/us/stat/72/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F433
-[/us/pl/102/588/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs509
-[/us/stat/106/5129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5129
-[/us/usc/t51/s20131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20131
 
 

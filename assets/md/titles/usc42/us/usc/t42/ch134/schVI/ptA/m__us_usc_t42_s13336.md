@@ -41,7 +41,7 @@
 
         (4) other technologies for producing and using methane from coal mines that the Secretary considers appropriate.
 
-([Pub. L. 102–486, title XIII, § 1306][/us/pl/102/486/s1306], Oct. 24, 1992, [106 Stat. 2974][/us/stat/106/2974].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1306, Oct. 24, 1992, [106 Stat. 2974][/us/stat/106/2974].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1306
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2974
 
 

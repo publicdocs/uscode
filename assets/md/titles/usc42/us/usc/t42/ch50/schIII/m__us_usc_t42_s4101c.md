@@ -43,7 +43,7 @@
 
         (5) develop a funding strategy to leverage and coordinate budgets and expenditures, and to maintain or establish joint funding and other agreement mechanisms with other Federal agencies and units of State and local government to share in the collection and utilization of geospatial data among all governmental users.
 
-([Pub. L. 112–141, div. F, title II, § 100220][/us/pl/112/141/s100220], July 6, 2012, [126 Stat. 932][/us/stat/126/932].)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100220, July 6, 2012, [126 Stat. 932][/us/stat/126/932].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
-[/us/pl/112/141/s100220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100220
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F932
 [/us/pl/107/347/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs216
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501

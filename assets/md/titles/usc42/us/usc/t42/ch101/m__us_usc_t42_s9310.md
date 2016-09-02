@@ -19,7 +19,7 @@
 
     (b) The Secretary shall maintain an aggressive program in the United States for the provision of public information and educational materials to promote widespread knowledge of magnetic fusion among educational, community, business, environmental, labor, and governmental entities and the public at large.
 
-([Pub. L. 96–386, § 11][/us/pl/96/386/s11], Oct. 7, 1980, [94 Stat. 1544][/us/stat/94/1544].)
+([Pub. L. 96–386][/us/pl/96/386], § 11, Oct. 7, 1980, [94 Stat. 1544][/us/stat/94/1544].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/96/386/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs11
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1544
 
 

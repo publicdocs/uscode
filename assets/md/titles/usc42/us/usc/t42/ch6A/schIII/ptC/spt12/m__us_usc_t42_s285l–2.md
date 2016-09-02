@@ -35,7 +35,7 @@
 
         The term “ICCVAM test recommendation” means a summary report prepared by the ICCVAM characterizing the results of a scientific expert peer review of a test method.
 
-([Pub. L. 106–545, § 2][/us/pl/106/545/s2], Dec. 19, 2000, [114 Stat. 2721][/us/stat/114/2721].)
+([Pub. L. 106–545][/us/pl/106/545], § 2, Dec. 19, 2000, [114 Stat. 2721][/us/stat/114/2721].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/106/545/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F545%2Fs2
+[/us/pl/106/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F545
 [/us/stat/114/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2721
 
 

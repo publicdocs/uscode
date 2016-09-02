@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11b.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
+[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–12...1962d–14.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
 
 ## § 1962d–14a. Alaska hydroelectric power development
 
@@ -57,7 +57,7 @@
 
         This section shall be cited as the “Alaska Hydroelectric Power Development Act”.
 
-([Pub. L. 94–587, § 203][/us/pl/94/587/s203], Oct. 22, 1976, [90 Stat. 2946][/us/stat/90/2946]; [Pub. L. 103–437, § 15(e)(2)][/us/pl/103/437/s15/e/2], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Pub. L. 94–587][/us/pl/94/587], § 203, Oct. 22, 1976, [90 Stat. 2946][/us/stat/90/2946]; [Pub. L. 103–437][/us/pl/103/437], § 15(e)(2), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __Codification__ 
 
@@ -73,14 +73,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11b.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
+[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–12...1962d–14.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
 
 ----------
 ----------
 
-[/us/pl/94/587/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs203
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2946
-[/us/pl/103/437/s15/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fe%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa

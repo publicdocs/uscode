@@ -21,7 +21,7 @@
 
     (2) The term “treatment”, with respect to the etiologic agent for acquired immune deficiency syndrome, includes primary and secondary prophylaxis.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2361, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3078][/us/stat/102/3078]; amended [Pub. L. 103–43, title XVIII, § 1811(8)][/us/pl/103/43/s1811/8], June 10, 1993, [107 Stat. 200][/us/stat/107/200].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2361, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3078][/us/stat/102/3078]; amended [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1811(8), June 10, 1993, [107 Stat. 200][/us/stat/107/200].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3078
-[/us/pl/103/43/s1811/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F8
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F200
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    R.S. § 1985 derived from acts [Apr. 9, 1866, ch. 31, § 5][/us/act/1866-04-09/ch31/s5], [14 Stat. 28][/us/stat/14/28]; [May 31, 1870, ch. 114, § 10][/us/act/1870-05-31/ch114/s10], [16 Stat. 142][/us/stat/16/142].
+    R.S. § 1985 derived from acts [Apr. 9, 1866, ch. 31][/us/act/1866-04-09/ch31], § 5, [14 Stat. 28][/us/stat/14/28]; [May 31, 1870, ch. 114][/us/act/1870-05-31/ch114], § 10, [16 Stat. 142][/us/stat/16/142].
 
-    R.S. § 5517 derived from [act May 31, 1870, ch. 114, § 10][/us/act/1870-05-31/ch114/s10], [16 Stat. 142][/us/stat/16/142].
+    R.S. § 5517 derived from [act May 31, 1870, ch. 114][/us/act/1870-05-31/ch114], § 10, [16 Stat. 142][/us/stat/16/142].
 
     Section was formerly classified to [section 51 of Title 8][/us/usc/t8/s51], Aliens and Nationality.
 
@@ -35,11 +35,11 @@
 ----------
 
 [/us/usc/t42/s1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1989
-[/us/act/1866-04-09/ch31/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-09%2Fch31%2Fs5
+[/us/act/1866-04-09/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-09%2Fch31
 [/us/stat/14/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F28
-[/us/act/1870-05-31/ch114/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114%2Fs10
+[/us/act/1870-05-31/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114
 [/us/stat/16/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F142
-[/us/act/1870-05-31/ch114/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114%2Fs10
+[/us/act/1870-05-31/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114
 [/us/stat/16/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F142
 [/us/usc/t8/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs51
 

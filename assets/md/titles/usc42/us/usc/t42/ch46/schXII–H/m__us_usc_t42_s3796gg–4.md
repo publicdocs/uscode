@@ -71,7 +71,7 @@
 
             Funds withheld from a State or unit of local government under subsection (a) of this section shall be distributed to other States and units of local government, pro rata.
 
-([Pub. L. 90–351, title I, § 2010][/us/pl/90/351/s2010], formerly § 2005, as added [Pub. L. 103–322, title IV, § 40121(a)(3)][/us/pl/103/322/s40121/a/3], Sept. 13, 1994, [108 Stat. 1914][/us/stat/108/1914]; renumbered § 2010, [Pub. L. 107–273, div. A, title IV, § 402(2)][/us/pl/107/273/s402/2], Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; amended [Pub. L. 108–405, title III, § 310(b)][/us/pl/108/405/s310/b], Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162, title I, § 101(f)][/us/pl/109/162/s101/f], Jan. 5, 2006, [119 Stat. 2974][/us/stat/119/2974]; [Pub. L. 109–271, § 2(j)][/us/pl/109/271/s2/j], Aug. 12, 2006, [120 Stat. 753][/us/stat/120/753]; [Pub. L. 113–4, title I, § 101(4)][/us/pl/113/4/s101/4], Mar. 7, 2013, [127 Stat. 69][/us/stat/127/69].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2010, formerly § 2005, as added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40121(a)(3), Sept. 13, 1994, [108 Stat. 1914][/us/stat/108/1914]; renumbered § 2010, [Pub. L. 107–273, div. A, title IV][/us/pl/107/273/dA/tIV], § 402(2), Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; amended [Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 310(b), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 101(f), Jan. 5, 2006, [119 Stat. 2974][/us/stat/119/2974]; [Pub. L. 109–271][/us/pl/109/271], § 2(j), Aug. 12, 2006, [120 Stat. 753][/us/stat/120/753]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 101(4), Mar. 7, 2013, [127 Stat. 69][/us/stat/127/69].)
 
  __References in Text__ 
 
@@ -81,11 +81,11 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–4, § 101(4)(A)][/us/pl/113/4/s101/4/A], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, unit of local government, or another governmental entity incurs the full out-of-pocket cost of forensic medical exams described in subsection (b) of this section for victims of sexual assault.”
+    2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], § 101(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, unit of local government, or another governmental entity incurs the full out-of-pocket cost of forensic medical exams described in subsection (b) of this section for victims of sexual assault.”
 
-    Subsec. (b). [Pub. L. 113–4, § 101(4)(B)][/us/pl/113/4/s101/4/B], inserted “or” after the semicolon in par. (1), substituted a period for “; or” in par. (2), and struck out par. (3) which related to reimbursement of victims for the cost of exams under certain conditions.
+    Subsec. (b). [Pub. L. 113–4][/us/pl/113/4], § 101(4)(B), inserted “or” after the semicolon in par. (1), substituted a period for “; or” in par. (2), and struck out par. (3) which related to reimbursement of victims for the cost of exams under certain conditions.
 
-    Subsec. (d). [Pub. L. 113–4, § 101(4)(C)][/us/pl/113/4/s101/4/C], amended subsec. (d) generally. Prior to amendment, subsec. (d) related to a rule of construction and a compliance period.
+    Subsec. (d). [Pub. L. 113–4][/us/pl/113/4], § 101(4)(C), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to a rule of construction and a compliance period.
 
     2006—Subsec. (c). [Pub. L. 109–162][/us/pl/109/162] added subsec. (c).
 
@@ -110,24 +110,24 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2010
-[/us/pl/103/322/s40121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40121%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1914
-[/us/pl/107/273/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F2
+[/us/pl/107/273/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIV
 [/us/stat/116/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1789
-[/us/pl/108/405/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs310%2Fb
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2276
-[/us/pl/109/162/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs101%2Ff
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2974
-[/us/pl/109/271/s2/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fj
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F753
-[/us/pl/113/4/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F4
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F69
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/113/4/s101/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F4%2FA
-[/us/pl/113/4/s101/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F4%2FB
-[/us/pl/113/4/s101/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F4%2FC
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

@@ -25,7 +25,7 @@
 
     Provided further, That, on and after January 2, 2013, no appeal shall bring any final determination of the Bureau before any court for review unless notice of appeal is filed (within the time specified herein and in the manner prescribed for appeal to United States courts of appeals from United States district courts) not later than 90 days after the date on which the Bureau serves notice of the final determination: Provided further, That any regulations promulgated by the Bureau under such part (or any such statute) before, on, or after January 2, 2013, shall apply to any matter pending on, or filed or accruing after, the effective date specified in the regulations.
 
-([Pub. L. 110–161, div. B, title II][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1912][/us/stat/121/1912]; [Pub. L. 112–239, div. A, title X, § 1086(c)][/us/pl/112/239/s1086/c], Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
+([Pub. L. 110–161, div. B, title II][/us/pl/110/161/dB/tII], Dec. 26, 2007, [121 Stat. 1912][/us/stat/121/1912]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1086(c), Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t42/s3793/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793%2Fa%2F4
 [/us/usc/t42/s3796c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796c%E2%80%931
 [/us/usc/t42/s3796a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796a
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtII
 [/us/stat/121/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1912
-[/us/pl/112/239/s1086/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fc
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1968
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

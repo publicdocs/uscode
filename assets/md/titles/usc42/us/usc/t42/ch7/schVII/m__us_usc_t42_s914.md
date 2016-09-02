@@ -57,7 +57,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 713, as added [Pub. L. 111–148, title III, § 3509(f)][/us/pl/111/148/s3509/f], Mar. 23, 2010, [124 Stat. 535][/us/stat/124/535].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 713, as added [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(f), Mar. 23, 2010, [124 Stat. 535][/us/stat/124/535].)
 
 ----------
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t42/s237a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs237a%2Fb%2F4
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s3509/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Ff
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F535
 
 

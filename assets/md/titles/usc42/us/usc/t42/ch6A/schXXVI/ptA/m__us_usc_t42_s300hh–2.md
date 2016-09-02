@@ -39,7 +39,7 @@
 
             If, based on the analysis conducted under paragraph (1), the Secretary determines that there are Federal facilities which, in the event of a public health emergency, could be used as facilities in which to provide health care, the Secretary shall, with respect to each such facility, seek to conclude a memorandum of understanding with the head of the Department or agency that operates such facility that permits the use of such facility to provide health care in the event of a public health emergency.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2803, as added [Pub. L. 109–417, title III, § 302(a)][/us/pl/109/417/s302/a], Dec. 19, 2006, [120 Stat. 2855][/us/stat/120/2855].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2803, as added [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 302(a), Dec. 19, 2006, [120 Stat. 2855][/us/stat/120/2855].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s300hh–11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs302%2Fa
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2855
 
 

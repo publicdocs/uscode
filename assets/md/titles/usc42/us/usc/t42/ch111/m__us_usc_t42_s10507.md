@@ -23,7 +23,7 @@
 
         The Attorney General may bring a civil action in an appropriate United States district court to recover any amount required to be repaid under subsection (a) of this section.
 
-([Pub. L. 98–473, title II, § 609S][/us/pl/98/473/s609S], Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609S, Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609S
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2106
 [/us/usc/t42/s10504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10504
 [/us/pl/98/473/s609P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609P

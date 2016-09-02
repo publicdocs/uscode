@@ -17,7 +17,7 @@
 
     The Chairman, acting through the National Science Foundation, is authorized and directed to support programs of education in the sciences and engineering to provide the necessary trained personnel to perform the solar energy research, development, and demonstration activities required under this subchapter. Such support may include fellowships, traineeships, technical training programs, technologist training programs, and summer institute programs.
 
-([Pub. L. 93–473, § 9][/us/pl/93/473/s9], Oct. 26, 1974, [88 Stat. 1436][/us/stat/88/1436].)
+([Pub. L. 93–473][/us/pl/93/473], § 9, Oct. 26, 1974, [88 Stat. 1436][/us/stat/88/1436].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs9
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1436
 [/us/usc/t42/s5814/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5814%2Ff
 

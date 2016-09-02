@@ -41,7 +41,7 @@
 
         (6) a study concerning the most appropriate measure to be used when reporting recidivism rates (whether rearrest, reincarceration, or any other valid, evidence-based measure).
 
-([Pub. L. 110–199, title II, § 241][/us/pl/110/199/s241], Apr. 9, 2008, [122 Stat. 690][/us/stat/122/690].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 241, Apr. 9, 2008, [122 Stat. 690][/us/stat/122/690].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/199/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs241
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F690
 
 

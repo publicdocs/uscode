@@ -39,7 +39,7 @@
 
             Each coordinating committee shall be composed of representatives of the agencies of the National Institutes of Health with significant responsibilities regarding the research discipline involved.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2352, as added [Pub. L. 103–43, title XVIII, § 1801(a)(3)][/us/pl/103/43/s1801/a/3], June 10, 1993, [107 Stat. 193][/us/stat/107/193].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2352, as added [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1801(a)(3), June 10, 1993, [107 Stat. 193][/us/stat/107/193].)
 
  __Codification__ 
 
@@ -47,13 +47,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 300cc–40b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2353, as added [Pub. L. 103–43, title XVIII, § 1801(a)(3)][/us/pl/103/43/s1801/a/3], June 10, 1993, [107 Stat. 194][/us/stat/107/194], which required the establishment of a comprehensive plan, was transferred to [section 300cc–40c of this title][/us/usc/t42/s300cc–40c].
+    A prior section 300cc–40b, [act July 1, 1944, ch. 373, title XXIII][/us/act/1944-07-01/ch373/tXXIII], § 2353, as added [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1801(a)(3), June 10, 1993, [107 Stat. 194][/us/stat/107/194], which required the establishment of a comprehensive plan, was transferred to [section 300cc–40c of this title][/us/usc/t42/s300cc–40c].
 
  __Termination of Advisory Councils__ 
 
     Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ----------
 
@@ -66,16 +66,16 @@
 [/us/usc/t42/s284a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a%2Fb%2F2
 [/us/usc/t42/s300cc–40c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%9340c
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fa%2F3
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F193
 [/us/usc/t42/s300cc–40a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%9340a
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fa%2F3
+[/us/act/1944-07-01/ch373/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXIII
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F194
 [/us/usc/t42/s300cc–40c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%9340c
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

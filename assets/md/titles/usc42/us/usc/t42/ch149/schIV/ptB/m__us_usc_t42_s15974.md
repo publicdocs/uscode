@@ -17,7 +17,7 @@
 
     The Secretary is authorized to provide loan guarantees for a project to produce energy from a plant using integrated gasification combined cycle technology of at least 400 megawatts in capacity that produces power at competitive rates in deregulated energy generation markets and that does not receive any subsidy (direct or indirect) from ratepayers.
 
-([Pub. L. 109–58, title IV, § 414][/us/pl/109/58/s414], Aug. 8, 2005, [119 Stat. 755][/us/stat/119/755].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 414, Aug. 8, 2005, [119 Stat. 755][/us/stat/119/755].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs414
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F755
 
 

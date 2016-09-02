@@ -39,7 +39,7 @@
 
     (8) Such other national service positions as the Corporation considers to be appropriate.
 
-([Pub. L. 101–610, title I, § 123][/us/pl/101/610/s123], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 794][/us/stat/107/794]; amended [Pub. L. 111–13, title I, § 1303][/us/pl/111/13/s1303], Apr. 21, 2009, [123 Stat. 1499][/us/stat/123/1499].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 123, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 794][/us/stat/107/794]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1303, Apr. 21, 2009, [123 Stat. 1499][/us/stat/123/1499].)
 
  __References in Text__ 
 
@@ -47,21 +47,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 12573, [Pub. L. 101–610, title I, § 143][/us/pl/101/610/s143], Nov. 16, 1990, [104 Stat. 3152][/us/stat/104/3152], related to types of national service, prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior section 12573, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 143, Nov. 16, 1990, [104 Stat. 3152][/us/stat/104/3152], related to types of national service, prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
     A prior [section 123 of Pub. L. 101–610][/us/pl/101/610/s123] was renumbered section 199C, and is classified to [section 12655b of this title][/us/usc/t42/s12655b].
 
  __Amendments__ 
 
-    2009—Par. (1). [Pub. L. 111–13, § 1303(1)][/us/pl/111/13/s1303/1], substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” and struck out “or (b)” before “of section 12571”.
+    2009—Par. (1). [Pub. L. 111–13][/us/pl/111/13], § 1303(1), substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” and struck out “or (b)” before “of section 12571”.
 
-    Par. (2)(A). [Pub. L. 111–13, § 1303(2)][/us/pl/111/13/s1303/2], inserted “a territory,” after “subdivision of a State,” and substituted “Federal agency (under an interagency agreement described in [section 12571(b) of this title][/us/usc/t42/s12571/b])” for “Federal agency”.
+    Par. (2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1303(2), inserted “a territory,” after “subdivision of a State,” and substituted “Federal agency (under an interagency agreement described in [section 12571(b) of this title][/us/usc/t42/s12571/b])” for “Federal agency”.
 
-    Par. (4). [Pub. L. 111–13, § 1303(3)][/us/pl/111/13/s1303/3], substituted “section 12572(a)(1)(B)(vi)” for “section 12572(a)(3)”.
+    Par. (4). [Pub. L. 111–13][/us/pl/111/13], § 1303(3), substituted “section 12572(a)(1)(B)(vi)” for “section 12572(a)(3)”.
 
-    Par. (5). [Pub. L. 111–13, § 1303(4)][/us/pl/111/13/s1303/4], inserted “National” before “Civilian Community Corps”.
+    Par. (5). [Pub. L. 111–13][/us/pl/111/13], § 1303(4), inserted “National” before “Civilian Community Corps”.
 
-    Pars. (7), (8). [Pub. L. 111–13, § 1303(5)][/us/pl/111/13/s1303/5], (6), added par. (7) and redesignated former par. (7) as (8).
+    Pars. (7), (8). [Pub. L. 111–13][/us/pl/111/13], § 1303(5), (6), added par. (7) and redesignated former par. (7) as (8).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -81,26 +81,26 @@
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
 [/us/usc/t42/s12572/a/1/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Fa%2F1%2FB%2Fvi
 [/us/usc/t42/s12653b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653b
-[/us/pl/101/610/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs123
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F794
-[/us/pl/111/13/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1303
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1499
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/101/610/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs143
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3152
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs123
 [/us/usc/t42/s12655b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655b
-[/us/pl/111/13/s1303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1303%2F1
-[/us/pl/111/13/s1303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1303%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fb
-[/us/pl/111/13/s1303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1303%2F3
-[/us/pl/111/13/s1303/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1303%2F4
-[/us/pl/111/13/s1303/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1303%2F5
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

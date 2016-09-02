@@ -69,7 +69,7 @@
 
         Not to exceed 3 percent of all funding made available for a fiscal year for the programs covered by subsection (b) shall be reserved for the Office of Audit, Assessment and Management for the activities authorized by this section.
 
-([Pub. L. 90–351, title I, § 109][/us/pl/90/351/s109], formerly § 105, as added [Pub. L. 109–162, title XI, § 1158(a)][/us/pl/109/162/s1158/a], Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114]; renumbered § 109, [Pub. L. 109–271, § 8(e)][/us/pl/109/271/s8/e], Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 109, formerly § 105, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1158(a), Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114]; renumbered § 109, [Pub. L. 109–271][/us/pl/109/271], § 8(e), Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–162, title XI, § 1158(b)][/us/pl/109/162/s1158/b], Jan. 5, 2006, [119 Stat. 3116][/us/stat/119/3116], as amended by [Pub. L. 109–271, § 8(n)(3)][/us/pl/109/271/s8/n/3], Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that:
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1158(b), Jan. 5, 2006, [119 Stat. 3116][/us/stat/119/3116], as amended by [Pub. L. 109–271][/us/pl/109/271], § 8(n)(3), Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -98,17 +98,17 @@
 ----------
 ----------
 
-[/us/pl/90/351/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs109
-[/us/pl/109/162/s1158/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1158%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3114
-[/us/pl/109/271/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fe
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F766
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t42/s3712d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712d
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s1158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1158%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3116
-[/us/pl/109/271/s8/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fn%2F3
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F768
 [/us/usc/t42/s3712d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712d
 [/us/usc/t42/s3712d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712d

@@ -183,7 +183,7 @@
 
         The WTC Program shall terminate on October 1, 2090.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3301, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3624][/us/stat/124/3624]; amended [Pub. L. 114–113, div. O, title III, § 302(b)][/us/pl/114/113/s302/b], Dec. 18, 2015, [129 Stat. 2998][/us/stat/129/2998].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3301, as added [Pub. L. 111–347, title I][/us/pl/111/347/tI], § 101, Jan. 2, 2011, [124 Stat. 3624][/us/stat/124/3624]; amended [Pub. L. 114–113, div. O, title III][/us/pl/114/113/dO/tIII], § 302(b), Dec. 18, 2015, [129 Stat. 2998][/us/stat/129/2998].)
 
  __Amendments__ 
 
@@ -214,9 +214,9 @@
 [/us/usc/t42/s300mm–22/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fb%2F2%2FB%2Fiii
 [/us/usc/t42/s300mm–32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9332%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
+[/us/pl/111/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtI
 [/us/stat/124/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3624
-[/us/pl/114/113/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fb
+[/us/pl/114/113/dO/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIII
 [/us/stat/129/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2998
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 

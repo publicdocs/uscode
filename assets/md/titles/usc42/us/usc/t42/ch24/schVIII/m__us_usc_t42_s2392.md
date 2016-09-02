@@ -17,7 +17,7 @@
 
     Any payment which becomes due under [section 2391 of this title][/us/usc/t42/s2391] prior to the transfer of all municipal installations at the community may be reduced by such amount as the Administrator determines to be equitable based on the municipal services then being performed by the Energy Research and Development Administration, and the municipal services then being performed by such governmental entity.
 
-([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 9, § 92, [69 Stat. 482][/us/stat/69/482]; [Pub. L. 94–187, title VI, § 601(1)][/us/pl/94/187/s601/1], (8), Dec. 31, 1975, [89 Stat. 1077][/us/stat/89/1077], 1078.)
+([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 9, § 92, [69 Stat. 482][/us/stat/69/482]; [Pub. L. 94–187, title VI][/us/pl/94/187/tVI], § 601(1), (8), Dec. 31, 1975, [89 Stat. 1077][/us/stat/89/1077], 1078.)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t42/s2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2391
 [/us/act/1955-08-04/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch543
 [/us/stat/69/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F482
-[/us/pl/94/187/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187%2Fs601%2F1
+[/us/pl/94/187/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187%2FtVI
 [/us/stat/89/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1077
 [/us/pl/94/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187
 

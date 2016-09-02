@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter is intended to amend, modify, or repeal any provisions of law administered by the Secretary of the Interior which authorize the making of contracts for research.
 
-([Pub. L. 89–672, § 3][/us/pl/89/672/s3], Oct. 15, 1966, [80 Stat. 951][/us/stat/80/951].)
+([Pub. L. 89–672][/us/pl/89/672], § 3, Oct. 15, 1966, [80 Stat. 951][/us/stat/80/951].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/672/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F672%2Fs3
+[/us/pl/89/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F672
 [/us/stat/80/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F951
 
 

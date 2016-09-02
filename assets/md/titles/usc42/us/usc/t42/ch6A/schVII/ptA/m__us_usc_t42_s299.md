@@ -77,19 +77,19 @@
 
             The Director shall establish an Office of Priority Populations to assist in carrying out the requirements of paragraph (1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 901, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1653][/us/stat/113/1653].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 901, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1653][/us/stat/113/1653].)
 
  __Prior Provisions__ 
 
-    A prior section 299, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 901, as added [Pub. L. 101–239, title VI, § 6103(a)][/us/pl/101/239/s6103/a], Dec. 19, 1989, [103 Stat. 2189][/us/stat/103/2189]; amended [Pub. L. 102–410, § 2(a)][/us/pl/102/410/s2/a], Oct. 13, 1992, [106 Stat. 2094][/us/stat/106/2094], established the Agency for Health Care Policy and Research, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
+    A prior section 299, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 901, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(a), Dec. 19, 1989, [103 Stat. 2189][/us/stat/103/2189]; amended [Pub. L. 102–410][/us/pl/102/410], § 2(a), Oct. 13, 1992, [106 Stat. 2094][/us/stat/106/2094], established the Agency for Health Care Policy and Research, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
 
-    Another prior section 299, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 900, as added Oct. 6, 1965, [Pub. L. 89–239, § 2][/us/pl/89/239/s2], [79 Stat. 926][/us/stat/79/926]; amended Oct. 30, 1970, [Pub. L. 91–515, title I, § 102][/us/pl/91/515/s102], [84 Stat. 1297][/us/stat/84/1297], set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by [Pub. L. 99–117, § 12(d)][/us/pl/99/117/s12/d], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    Another prior section 299, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 900, as added Oct. 6, 1965, [Pub. L. 89–239][/us/pl/89/239], § 2, [79 Stat. 926][/us/stat/79/926]; amended Oct. 30, 1970, [Pub. L. 91–515, title I][/us/pl/91/515/tI], § 102, [84 Stat. 1297][/us/stat/84/1297], set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(d), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
     A prior section 901 of act July 1, 1944, was classified to [section 299a of this title][/us/usc/t42/s299a] prior to repeal by [Pub. L. 99–117][/us/pl/99/117].
 
  __Construction__ 
 
-[Pub. L. 106–129, § 2(b)][/us/pl/106/129/s2/b], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670], provided that:
+[Pub. L. 106–129][/us/pl/106/129], § 2(b), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -101,11 +101,11 @@
 
  __Transitional and Savings Provisions__ 
 
-    [Pub. L. 101–239, title VI, § 6103(f)][/us/pl/101/239/s6103/f], Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208], provided that personnel of the Department of Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
+    [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(f), Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208], provided that personnel of the Department of Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
 
  __IOM Reports on Best Practices for Developing Clinical Protocols__ 
 
-[Pub. L. 110–275, title III, § 304(b)][/us/pl/110/275/s304/b], July 15, 2008, [122 Stat. 2595][/us/stat/122/2595], as amended by [Pub. L. 111–148, title X, § 10303(c)][/us/pl/111/148/s10303/c], Mar. 23, 2010, [124 Stat. 938][/us/stat/124/938], provided that:
+[Pub. L. 110–275, title III][/us/pl/110/275/tIII], § 304(b), July 15, 2008, [122 Stat. 2595][/us/stat/122/2595], as amended by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10303(c), Mar. 23, 2010, [124 Stat. 938][/us/stat/124/938], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -131,7 +131,7 @@
 
  __IOM Study on Drug Safety and Quality__ 
 
-[Pub. L. 108–173, title I, § 107(c)][/us/pl/108/173/s107/c], Dec. 8, 2003, [117 Stat. 2170][/us/stat/117/2170], provided that:
+[Pub. L. 108–173, title I][/us/pl/108/173/tI], § 107(c), Dec. 8, 2003, [117 Stat. 2170][/us/stat/117/2170], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Health Care That Works for All Americans: Citizens Health Care Working Group__ 
 
-    [Pub. L. 108–173, title X, § 1014][/us/pl/108/173/s1014], Dec. 8, 2003, [117 Stat. 2441][/us/stat/117/2441], directed the Secretary of Health and Human Services to establish the Citizens’ Health Care Working Group, composed of the Secretary and 14 other members, which was to hold hearings to examine various public and private health care coverage issues, make final recommendations to the President and Congress, and terminate 2 years after the members were chosen (Feb. 28, 2005) and appropriations were first made available.
+    [Pub. L. 108–173, title X][/us/pl/108/173/tX], § 1014, Dec. 8, 2003, [117 Stat. 2441][/us/stat/117/2441], directed the Secretary of Health and Human Services to establish the Citizens’ Health Care Working Group, composed of the Secretary and 14 other members, which was to hold hearings to examine various public and private health care coverage issues, make final recommendations to the President and Congress, and terminate 2 years after the members were chosen (Feb. 28, 2005) and appropriations were first made available.
 
  __Executive Order No. 13017__ 
 
@@ -185,36 +185,36 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1653
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fa
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2189
-[/us/pl/102/410/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs2%2Fa
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2094
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239%2Fs2
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/89/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239
 [/us/stat/79/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F926
-[/us/pl/91/515/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs102
+[/us/pl/91/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtI
 [/us/stat/84/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1297
-[/us/pl/99/117/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fd
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/usc/t42/s299a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299a
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
-[/us/pl/106/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
 [/us/usc/t42/s299/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299%2Fa
 [/us/usc/t42/s299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299
-[/us/pl/101/239/s6103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Ff
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2208
-[/us/pl/110/275/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs304%2Fb
+[/us/pl/110/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtIII
 [/us/stat/122/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2595
-[/us/pl/111/148/s10303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10303%2Fc
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F938
-[/us/pl/108/173/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs107%2Fc
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2170
-[/us/pl/108/173/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1014
+[/us/pl/108/173/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtX
 [/us/stat/117/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2441
 
 

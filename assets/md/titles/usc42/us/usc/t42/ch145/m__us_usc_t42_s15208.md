@@ -67,7 +67,7 @@
 
         There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2002 through 2009.
 
-([Pub. L. 107–273, div. C, title I, § 11001][/us/pl/107/273/s11001], Nov. 2, 2002, [116 Stat. 1815][/us/stat/116/1815]; [Pub. L. 109–162, title XI, § 1185][/us/pl/109/162/s1185], Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127].)
+([Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11001, Nov. 2, 2002, [116 Stat. 1815][/us/stat/116/1815]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1185, Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127].)
 
  __Codification__ 
 
@@ -84,9 +84,9 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11001
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1815
-[/us/pl/109/162/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1185
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3127
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 

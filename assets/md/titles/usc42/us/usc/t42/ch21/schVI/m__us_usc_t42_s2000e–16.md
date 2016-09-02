@@ -53,7 +53,7 @@
 
         [Section 2000e–5(e)(3) of this title][/us/usc/t42/s2000e–5/e/3] shall apply to complaints of discrimination in compensation under this section.
 
-([Pub. L. 88–352, title VII, § 717][/us/pl/88/352/s717], as added [Pub. L. 92–261, § 11][/us/pl/92/261/s11], Mar. 24, 1972, [86 Stat. 111][/us/stat/86/111]; amended 1978 Reorg. Plan No. 1, § 3, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 96–191, § 8(g)][/us/pl/96/191/s8/g], Feb. 15, 1980, [94 Stat. 34][/us/stat/94/34]; [Pub. L. 102–166, title I, § 114][/us/pl/102/166/s114], Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079]; [Pub. L. 104–1, title II, § 201(c)(1)][/us/pl/104/1/s201/c/1], Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III, § 341(a)][/us/pl/105/220/s341/a], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2, § 5(c)(2)][/us/pl/111/2/s5/c/2], Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 717, as added [Pub. L. 92–261][/us/pl/92/261], § 11, Mar. 24, 1972, [86 Stat. 111][/us/stat/86/111]; amended 1978 Reorg. Plan No. 1, § 3, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 96–191][/us/pl/96/191], § 8(g), Feb. 15, 1980, [94 Stat. 34][/us/stat/94/34]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], § 114, Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079]; [Pub. L. 104–1, title II][/us/pl/104/1/tII], § 201(c)(1), Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 341(a), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2][/us/pl/111/2], § 5(c)(2), Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
     1995—Subsec. (a). [Pub. L. 104–1][/us/pl/104/1] substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
 
-    1991—Subsec. (c). [Pub. L. 102–166, § 114(1)][/us/pl/102/166/s114/1], substituted “90 days” for “thirty days”.
+    1991—Subsec. (c). [Pub. L. 102–166][/us/pl/102/166], § 114(1), substituted “90 days” for “thirty days”.
 
-    Subsec. (d). [Pub. L. 102–166, § 114(2)][/us/pl/102/166/s114/2], inserted before the period “, and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties.”
+    Subsec. (d). [Pub. L. 102–166][/us/pl/102/166], § 114(2), inserted before the period “, and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties.”
 
     1980—Subsec. (a). [Pub. L. 96–191][/us/pl/96/191] struck out “(other than the General Accounting Office)” after “in executive agencies”.
 
@@ -235,25 +235,25 @@
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
 [/us/usc/t42/s2000e–5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Fe%2F3
 [/us/usc/t42/s2000e–5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Fe%2F3
-[/us/pl/88/352/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs717
-[/us/pl/92/261/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs11
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F111
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
-[/us/pl/96/191/s8/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191%2Fs8%2Fg
+[/us/pl/96/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191
 [/us/stat/94/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F34
-[/us/pl/102/166/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs114
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1079
-[/us/pl/104/1/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs201%2Fc%2F1
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F8
-[/us/pl/105/220/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fa
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/111/2/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fc%2F2
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F7
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -264,8 +264,8 @@
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
-[/us/pl/102/166/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs114%2F1
-[/us/pl/102/166/s114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs114%2F2
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/96/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301

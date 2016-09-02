@@ -109,7 +109,7 @@
 
         In this section, the terms “elder justice”, “long-term care facility”, and “law enforcement” have the meanings given those terms in [section 1397j of this title][/us/usc/t42/s1397j].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1150B, as added [Pub. L. 111–148, title VI, § 6703(b)(3)][/us/pl/111/148/s6703/b/3], Mar. 23, 2010, [124 Stat. 800][/us/stat/124/800].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1150B, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(b)(3), Mar. 23, 2010, [124 Stat. 800][/us/stat/124/800].)
 
 ----------
 
@@ -125,7 +125,7 @@
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/usc/t42/s1397j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397j
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6703/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fb%2F3
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F800
 
 

@@ -23,7 +23,7 @@
 
         Notwithstanding subsection (a) of this section, for customers with total annual energy sales or usage of 25 Gigawatt Hours or less which are not members of a joint action agency or a generation and transmission cooperative with power supply responsibility, the Administrator may establish different regulations and apply such regulations to customers that the Administrator finds have limited economic, managerial, and resource capability to conduct integrated resource planning. The regulations under this subsection shall require such customers to consider all reasonable opportunities to meet their future energy service requirements using demand-side techniques, new renewable resources and other programs that will provide retail customers with electricity at the lowest possible cost, and minimize, to the extent practicable, adverse environmental effects.
 
-([Pub. L. 98–381, title II, § 202][/us/pl/98/381/s202], as added [Pub. L. 102–486, title I, § 114][/us/pl/102/486/s114], Oct. 24, 1992, [106 Stat. 2800][/us/stat/106/2800].)
+([Pub. L. 98–381, title II][/us/pl/98/381/tII], § 202, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 114, Oct. 24, 1992, [106 Stat. 2800][/us/stat/106/2800].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 7276, [Pub. L. 98–381, title II, § 202][/us/pl/98/381/s202], Aug. 17, 1984, [98 Stat. 1341][/us/stat/98/1341], related to regulations of Western Area Power Administration, including amendment of regulations after notice and comment, evaluation of energy conservation programs, and allowance by Western for incorporation of elements of such programs, prior to the general amendment of title II of [Pub. L. 98–381][/us/pl/98/381] by [section 114 of Pub. L. 102–486][/us/pl/102/486/s114].
+    A prior section 7276, [Pub. L. 98–381, title II][/us/pl/98/381/tII], § 202, Aug. 17, 1984, [98 Stat. 1341][/us/stat/98/1341], related to regulations of Western Area Power Administration, including amendment of regulations after notice and comment, evaluation of energy conservation programs, and allowance by Western for incorporation of elements of such programs, prior to the general amendment of title II of [Pub. L. 98–381][/us/pl/98/381] by [section 114 of Pub. L. 102–486][/us/pl/102/486/s114].
 
 ----------
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/98/381/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2Fs202
-[/us/pl/102/486/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs114
+[/us/pl/98/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2FtII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2800
-[/us/pl/98/381/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2Fs202
+[/us/pl/98/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2FtII
 [/us/stat/98/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1341
 [/us/pl/98/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381
 [/us/pl/102/486/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs114

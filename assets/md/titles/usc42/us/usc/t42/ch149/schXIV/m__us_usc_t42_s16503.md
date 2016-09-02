@@ -59,7 +59,7 @@
 
                 Subject to subparagraph (A), the Secretary shall guarantee 100 percent of the principal and interest of a loan guarantee made under subparagraph (A).
 
-([Pub. L. 109–58, title XV, § 1516][/us/pl/109/58/s1516], Aug. 8, 2005, [119 Stat. 1091][/us/stat/119/1091].)
+([Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1516, Aug. 8, 2005, [119 Stat. 1091][/us/stat/119/1091].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/109/58/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1516
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1091
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1061

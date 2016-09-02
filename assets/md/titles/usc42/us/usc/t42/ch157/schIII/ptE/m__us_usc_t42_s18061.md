@@ -107,15 +107,15 @@
 
         The State shall eliminate or modify any State high-risk pool to the extent necessary to carry out the reinsurance program established under this section. The State may coordinate the State high-risk pool with such program to the extent not inconsistent with the provisions of this section.
 
-([Pub. L. 111–148, title I, § 1341][/us/pl/111/148/s1341], title X, § 10104(r), Mar. 23, 2010, [124 Stat. 208][/us/stat/124/208], 906.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1341, title X, § 10104(r), Mar. 23, 2010, [124 Stat. 208][/us/stat/124/208], 906.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10104(r)(1)][/us/pl/111/148/s10104/r/1], substituted “market” for “and small group markets” in section catchline.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10104(r)(1), substituted “market” for “and small group markets” in section catchline.
 
-    Subsec. (b)(2)(B). [Pub. L. 111–148, § 10104(r)(2)][/us/pl/111/148/s10104/r/2], substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions.
+    Subsec. (b)(2)(B). [Pub. L. 111–148][/us/pl/111/148], § 10104(r)(2), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 111–148, § 10104(r)(3)][/us/pl/111/148/s10104/r/3], substituted “individual market” for “individual and small group markets”.
+    Subsec. (c)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 10104(r)(3), substituted “individual market” for “individual and small group markets”.
 
 ----------
 
@@ -126,10 +126,10 @@
 
 [/us/usc/t42/s18041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18041%2Fb
 [/us/usc/t42/s18041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18041%2Fa
-[/us/pl/111/148/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1341
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F208
-[/us/pl/111/148/s10104/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fr%2F1
-[/us/pl/111/148/s10104/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fr%2F2
-[/us/pl/111/148/s10104/r/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fr%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

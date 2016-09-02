@@ -163,7 +163,7 @@
 
             (F) national recognition within the building industry.
 
-([Pub. L. 110–140, title IV, § 436][/us/pl/110/140/s436], Dec. 19, 2007, [121 Stat. 1616][/us/stat/121/1616].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 436, Dec. 19, 2007, [121 Stat. 1616][/us/stat/121/1616].)
 
  __References in Text__ 
 
@@ -192,7 +192,7 @@
 [/us/usc/t42/s6834/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6834%2Fa%2F3%2FD
 [/us/usc/t42/s6834/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6834%2Fa%2F3%2FD
 [/us/usc/t42/s6834/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6834%2Fa%2F3%2FD
-[/us/pl/110/140/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs436
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1616
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1607

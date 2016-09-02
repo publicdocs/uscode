@@ -39,7 +39,7 @@
 
         In considering an application submitted by a State under [section 3796ff–1 of this title][/us/usc/t42/s3796ff–1], the Attorney General shall give priority to an application that involves a partnership between the State and a community-based drug treatment program within the State.
 
-([Pub. L. 90–351, title I, § 1903][/us/pl/90/351/s1903], as added [Pub. L. 103–322, title III, § 32101(a)(3)][/us/pl/103/322/s32101/a/3], Sept. 13, 1994, [108 Stat. 1899][/us/stat/108/1899]; amended [Pub. L. 109–162, title XI, § 1145(c)][/us/pl/109/162/s1145/c], Jan. 5, 2006, [119 Stat. 3112][/us/stat/119/3112].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1903, as added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 32101(a)(3), Sept. 13, 1994, [108 Stat. 1899][/us/stat/108/1899]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1145(c), Jan. 5, 2006, [119 Stat. 3112][/us/stat/119/3112].)
 
  __Amendments__ 
 
@@ -60,10 +60,10 @@
 [/us/usc/t42/s3796ff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ff%E2%80%931
 [/us/usc/t42/s3796ff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ff%E2%80%931
 [/us/usc/t42/s3796ff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ff%E2%80%931
-[/us/pl/90/351/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1903
-[/us/pl/103/322/s32101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32101%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1899
-[/us/pl/109/162/s1145/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1145%2Fc
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3112
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

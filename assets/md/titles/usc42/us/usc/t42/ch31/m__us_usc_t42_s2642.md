@@ -65,7 +65,7 @@
 
         The criteria to be used by the Secretary of Labor in determining areas of substantial unemployment for the purposes of paragraph (1) of subsection (a) of this section shall be the criteria established in section 6.3 of title 29 of the Code of Federal Regulations as in effect May 1, 1962.
 
-([Pub. L. 87–658, § 3][/us/pl/87/658/s3], Sept. 14, 1962, [76 Stat. 542][/us/stat/76/542].)
+([Pub. L. 87–658][/us/pl/87/658], § 3, Sept. 14, 1962, [76 Stat. 542][/us/stat/76/542].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t42/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2504
 [/us/usc/t42/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2504
-[/us/pl/87/658/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658%2Fs3
+[/us/pl/87/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658
 [/us/stat/76/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F542
 [/us/usc/t42/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2504
 

@@ -17,7 +17,7 @@
 
     No person in the United States shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.
 
-([Pub. L. 88–352, title VI, § 601][/us/pl/88/352/s601], July 2, 1964, [78 Stat. 252][/us/stat/78/252].)
+([Pub. L. 88–352, title VI][/us/pl/88/352/tVI], § 601, July 2, 1964, [78 Stat. 252][/us/stat/78/252].)
 
  __Coordination of Implementation and Enforcement of Provisions__ 
 
@@ -134,7 +134,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/88/352/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs601
+[/us/pl/88/352/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVI
 [/us/stat/78/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F252
 [/us/usc/t42/s2000d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%931
 [/us/usc/t10/s2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2164

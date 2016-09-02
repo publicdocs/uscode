@@ -55,7 +55,7 @@
 
     (b) Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
 
-([Pub. L. 93–415, title I, § 101][/us/pl/93/415/s101], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109]; [Pub. L. 96–509, § 3][/us/pl/96/509/s3], Dec. 8, 1980, [94 Stat. 2750][/us/stat/94/2750]; [Pub. L. 98–473, title II, § 611][/us/pl/98/473/s611], Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107]; [Pub. L. 102–586, § 1(a)][/us/pl/102/586/s1/a], Nov. 4, 1992, [106 Stat. 4982][/us/stat/106/4982]; [Pub. L. 107–273, div. C, title II, § 12202][/us/pl/107/273/s12202], Nov. 2, 2002, [116 Stat. 1869][/us/stat/116/1869].)
+([Pub. L. 93–415, title I][/us/pl/93/415/tI], § 101, Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109]; [Pub. L. 96–509][/us/pl/96/509], § 3, Dec. 8, 1980, [94 Stat. 2750][/us/stat/94/2750]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 611, Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107]; [Pub. L. 102–586][/us/pl/102/586], § 1(a), Nov. 4, 1992, [106 Stat. 4982][/us/stat/106/4982]; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12202, Nov. 2, 2002, [116 Stat. 1869][/us/stat/116/1869].)
 
  __Amendments__ 
 
@@ -89,29 +89,29 @@
 
     “(b) Congress finds further that the high incidence of delinquency in the United States today results in enormous annual cost and immeasurable loss of human life, personal security, and wasted human resources and that juvenile delinquency constitutes a growing threat to the national welfare requiring immediate and comprehensive action by the Federal Government to reduce and prevent delinquency.”
 
-    1992—Subsec. (a)(2), (3). [Pub. L. 102–586, § 1(a)(2)][/us/pl/102/586/s1/a/2], added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
+    1992—Subsec. (a)(2), (3). [Pub. L. 102–586][/us/pl/102/586], § 1(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
 
-    Subsec. (a)(4). [Pub. L. 102–586, § 1(a)(1)][/us/pl/102/586/s1/a/1], (3), redesignated par. (2) as (4) and inserted “prosecutorial and public defender offices,”. Former par. (4) redesignated (6).
+    Subsec. (a)(4). [Pub. L. 102–586][/us/pl/102/586], § 1(a)(1), (3), redesignated par. (2) as (4) and inserted “prosecutorial and public defender offices,”. Former par. (4) redesignated (6).
 
-    Subsec. (a)(5) to (10). [Pub. L. 102–586, § 1(a)(1)][/us/pl/102/586/s1/a/1], redesignated pars. (3) to (8) as (5) to (10), respectively.
+    Subsec. (a)(5) to (10). [Pub. L. 102–586][/us/pl/102/586], § 1(a)(1), redesignated pars. (3) to (8) as (5) to (10), respectively.
 
-    Subsec. (a)(11), (12). [Pub. L. 102–586, § 1(a)(4)][/us/pl/102/586/s1/a/4]–(6), added pars. (11) and (12).
+    Subsec. (a)(11), (12). [Pub. L. 102–586][/us/pl/102/586], § 1(a)(4)–(6), added pars. (11) and (12).
 
-    1984—Subsec. (a)(1). [Pub. L. 98–473, § 611(1)][/us/pl/98/473/s611/1], substituted “accounted” for “account” and “in 1974 and for less than one-third of such arrests in 1983” for “today”.
+    1984—Subsec. (a)(1). [Pub. L. 98–473][/us/pl/98/473], § 611(1), substituted “accounted” for “account” and “in 1974 and for less than one-third of such arrests in 1983” for “today”.
 
-    Subsec. (a)(2). [Pub. L. 98–473, § 611(2)][/us/pl/98/473/s611/2], inserted “and inadequately trained staff in such courts, services, and facilities”.
+    Subsec. (a)(2). [Pub. L. 98–473][/us/pl/98/473], § 611(2), inserted “and inadequately trained staff in such courts, services, and facilities”.
 
-    Subsec. (a)(3). [Pub. L. 98–473, § 611(3)][/us/pl/98/473/s611/3], struck out “the countless, abandoned, and dependent” before “children, who”.
+    Subsec. (a)(3). [Pub. L. 98–473][/us/pl/98/473], § 611(3), struck out “the countless, abandoned, and dependent” before “children, who”.
 
-    Subsec. (a)(5). [Pub. L. 98–473, § 611(4)][/us/pl/98/473/s611/4], substituted “reduced” for “prevented”.
+    Subsec. (a)(5). [Pub. L. 98–473][/us/pl/98/473], § 611(4), substituted “reduced” for “prevented”.
 
-    1980—Subsec. (a)(4). [Pub. L. 96–509, § 3(1)][/us/pl/96/509/s3/1], inserted reference to alcohol abuse.
+    1980—Subsec. (a)(4). [Pub. L. 96–509][/us/pl/96/509], § 3(1), inserted reference to alcohol abuse.
 
-    Subsec. (a)(8). [Pub. L. 96–509, § 3(2)][/us/pl/96/509/s3/2]–(4), added par. (8).
+    Subsec. (a)(8). [Pub. L. 96–509][/us/pl/96/509], § 3(2)–(4), added par. (8).
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–273, div. C, title II, § 12223][/us/pl/107/273/s12223], Nov. 2, 2002, [116 Stat. 1896][/us/stat/116/1896], as amended by [Pub. L. 108–7, div. B, title I, § 110(2)][/us/pl/108/7/s110/2], (3), Feb. 20, 2003, [117 Stat. 67][/us/stat/117/67], provided that:
+[Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12223, Nov. 2, 2002, [116 Stat. 1896][/us/stat/116/1896], as amended by [Pub. L. 108–7, div. B, title I][/us/pl/108/7/dB/tI], § 110(2), (3), Feb. 20, 2003, [117 Stat. 67][/us/stat/117/67], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–690, title VII, § 7296][/us/pl/100/690/s7296], Nov. 18, 1988, [102 Stat. 4463][/us/stat/102/4463], as amended by [Pub. L. 101–204, title X, § 1001(d)][/us/pl/101/204/s1001/d], Dec. 7, 1989, [103 Stat. 1827][/us/stat/103/1827], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7296, Nov. 18, 1988, [102 Stat. 4463][/us/stat/102/4463], as amended by [Pub. L. 101–204, title X][/us/pl/101/204/tX], § 1001(d), Dec. 7, 1989, [103 Stat. 1827][/us/stat/103/1827], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -149,7 +149,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–473, title II, § 670][/us/pl/98/473/s670], Oct. 12, 1984, [98 Stat. 2129][/us/stat/98/2129], provided that:
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 670, Oct. 12, 1984, [98 Stat. 2129][/us/stat/98/2129], provided that:
 
 >     “(a) Except as provided in subsection (b), this division \[division II (§§ 610–670) of chapter VI of title II of [Pub. L. 98–473][/us/pl/98/473], see Short Title of 1984 Amendment note below\] and the amendments made by this division shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever occurs later.
 
@@ -157,103 +157,103 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 93–415, title II, § 263(c)][/us/pl/93/415/s263/c], as added by [Pub. L. 95–115, § 6(d)(2)][/us/pl/95/115/s6/d/2], Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by [Pub. L. 100–690, title VII, § 7266(2)][/us/pl/100/690/s7266/2], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449].
+    [Pub. L. 93–415, title II][/us/pl/93/415/tII], § 263(c), as added by [Pub. L. 95–115][/us/pl/95/115], § 6(d)(2), Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7266(2), Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449].
 
  __Effective Date__ 
 
-    [Pub. L. 93–415, title II, § 263(a)][/us/pl/93/415/s263/a], (b), Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129], as amended by [Pub. L. 94–273, § 32(a)][/us/pl/94/273/s32/a], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 95–115, § 6(d)(1)][/us/pl/95/115/s6/d/1], Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending [section 5108 of Title 5][/us/usc/t5/s5108], Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by [Pub. L. 100–690, title VII, § 7266(2)][/us/pl/100/690/s7266/2], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449].
+    [Pub. L. 93–415, title II][/us/pl/93/415/tII], § 263(a), (b), Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129], as amended by [Pub. L. 94–273][/us/pl/94/273], § 32(a), Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 95–115][/us/pl/95/115], § 6(d)(1), Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending [section 5108 of Title 5][/us/usc/t5/s5108], Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7266(2), Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449].
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–22, title I, § 116(a)][/us/pl/114/22/s116/a], May 29, 2015, [129 Stat. 244][/us/stat/129/244], provided that: 
+[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 116(a), May 29, 2015, [129 Stat. 244][/us/stat/129/244], provided that: 
 
 > “This section \[amending [section 5780 of this title][/us/usc/t42/s5780]\] may be cited as the ‘Bringing Missing Children Home Act’.”
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 113–38, § 1][/us/pl/113/38/s1], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527], provided that: 
+[Pub. L. 113–38][/us/pl/113/38], § 1, Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527], provided that: 
 
 > “This Act \[enacting [section 5776a of this title][/us/usc/t42/s5776a] and amending sections 5771, 5773, 5775, and 5777 of this title\] may be cited as the ‘E. Clay Shaw, Jr. Missing Children’s Assistance Reauthorization Act of 2013’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–378, § 1][/us/pl/110/378/s1], Oct. 8, 2008, [122 Stat. 4068][/us/stat/122/4068], provided that: 
+[Pub. L. 110–378][/us/pl/110/378], § 1, Oct. 8, 2008, [122 Stat. 4068][/us/stat/122/4068], provided that: 
 
 > “This Act \[enacting sections 5714–25 and 5732–1 of this title and amending sections 5701, 5711, 5712, 5714–2, 5714–23, 5714–41, 5732a, and 5751 of this title\] may be cited as the ‘Reconnecting Homeless Youth Act of 2008’.”
 
-[Pub. L. 110–240, § 1][/us/pl/110/240/s1], June 3, 2008, [122 Stat. 1560][/us/stat/122/1560], provided that: 
+[Pub. L. 110–240][/us/pl/110/240], § 1, June 3, 2008, [122 Stat. 1560][/us/stat/122/1560], provided that: 
 
 > “This Act \[amending sections 5771, 5773, and 5777 of this title and repealing [section 5776a of this title][/us/usc/t42/s5776a]\] may be cited as the ‘Protecting Our Children Comes First Act of 2007’.”
 
  __Short Title of 2003 Amendments__ 
 
-[Pub. L. 108–96, § 1][/us/pl/108/96/s1], Oct. 10, 2003, [117 Stat. 1167][/us/stat/117/1167], provided that: 
+[Pub. L. 108–96][/us/pl/108/96], § 1, Oct. 10, 2003, [117 Stat. 1167][/us/stat/117/1167], provided that: 
 
 > “This Act \[enacting [section 5752 of this title][/us/usc/t42/s5752], amending sections 5701, 5711, 5712, 5714–2, 5714–21, 5714–23, 5714–24, 5732a, 5751, 5771, 5773, and 5777 of this title, repealing [section 5714–25 of this title][/us/usc/t42/s5714–25], and enacting provisions set out as notes under sections 5701 and 5714–1 of this title\] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–273, div. C, title II, § 12201][/us/pl/107/273/s12201], Nov. 2, 2002, [116 Stat. 1869][/us/stat/116/1869], provided that: 
+[Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12201, Nov. 2, 2002, [116 Stat. 1869][/us/stat/116/1869], provided that: 
 
 > “This subtitle \[subtitle B (§§ 12201–12223) of title II of div. C of [Pub. L. 107–273][/us/pl/107/273], enacting subchapter V of this chapter, parts C to E of subchapter II of this chapter, and sections 5677 to 5681 of this title, redesignating part J of subchapter II of this chapter as part F of subchapter II of this chapter, amending this section and sections 5602, 5603, 5612, 5614, 5616, 5617, 5631 to 5633, 5671, 5672, 5674, 5675, 5773, 13002, 13003, 13013, and 13023 of this title, repealing parts C to I of subchapter II of this chapter, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 2002’.”
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–71, § 1][/us/pl/106/71/s1], Oct. 12, 1999, [113 Stat. 1032][/us/stat/113/1032], provided that: 
+[Pub. L. 106–71][/us/pl/106/71], § 1, Oct. 12, 1999, [113 Stat. 1032][/us/stat/113/1032], provided that: 
 
 > “This Act \[enacting sections 5714–25, 5714–41, 5731a, and 5732a of this title, amending sections 5701, 5711, 5712, 5713, 5714–1 to 5714–21, 5714–23, 5714–24, 5714a to 5731, 5732, 5751 to 5773, 5775, and 5777 of this title, and enacting provisions set out as a note under [section 7101 of Title 20][/us/usc/t20/s7101], Education\] may be cited as the ‘Missing, Exploited, and Runaway Children Protection Act’.”
 
  __Short Title of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XVII, § 170301][/us/pl/103/322/s170301], Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043], provided that subtitle C (§§ 170301–170303) of title XVII of [Pub. L. 103–322][/us/pl/103/322], which enacted [section 5776a of this title][/us/usc/t42/s5776a], amended sections 5777 and 5778 of this title, and enacted provisions set out as a note under [section 5776a of this title][/us/usc/t42/s5776a], could be cited as the “Morgan P. Hardiman Task Force on Missing and Exploited Children Act”, prior to repeal by [Pub. L. 105–314, title VII, § 703(g)][/us/pl/105/314/s703/g], Oct. 30, 1998, [112 Stat. 2989][/us/stat/112/2989].
+    [Pub. L. 103–322, title XVII][/us/pl/103/322/tXVII], § 170301, Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043], provided that subtitle C (§§ 170301–170303) of title XVII of [Pub. L. 103–322][/us/pl/103/322], which enacted [section 5776a of this title][/us/usc/t42/s5776a], amended sections 5777 and 5778 of this title, and enacted provisions set out as a note under [section 5776a of this title][/us/usc/t42/s5776a], could be cited as the “Morgan P. Hardiman Task Force on Missing and Exploited Children Act”, prior to repeal by [Pub. L. 105–314, title VII][/us/pl/105/314/tVII], § 703(g), Oct. 30, 1998, [112 Stat. 2989][/us/stat/112/2989].
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–690, title VII, § 7250(a)][/us/pl/100/690/s7250/a], Nov. 18, 1988, [102 Stat. 4434][/us/stat/102/4434], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7250(a), Nov. 18, 1988, [102 Stat. 4434][/us/stat/102/4434], provided that: 
 
 > “This subtitle \[subtitle F (§§ 7250–7296) of title VII of [Pub. L. 100–690][/us/pl/100/690], enacting sections 5617, 5662, 5665, 5665a, 5667, 5673 to 5676, 5712a to 5712c, 5714–1, 5714–2, 5732, 5733, and 5778 of this title, amending sections 5603, 5611, 5614, 5616, 5631 to 5633, 5651 to 5654, 5659 to 5661, 5671, 5672, 5711 to 5714, 5714a, 5714b, 5715, 5716, 5731, 5751, 5773, 5775, 5776, and 5777 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, repealing sections 5634 to 5639, 5656, 5657, and 5774 of this title, enacting provisions set out as notes under this section and [section 5617 of this title][/us/usc/t42/s5617], and repealing provisions set out as a note under this section\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Amendments of 1988’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–473, title II, § 610][/us/pl/98/473/s610], Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 610, Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107], provided that: 
 
 > “This Division \[division II (§§ 610–670) of chapter VI of title II of [Pub. L. 98–473][/us/pl/98/473], enacting sections 5714a, 5714b, and 5771 to 5777 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614, 5616, 5632 to 5635, 5637, 5638, 5651, 5653, 5654, 5657, 5659, 5661, 5671, 5672, 5702, 5711 to 5714, and 5751 of this title, repealing sections 5617, 5655, and 5741 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice, Runaway Youth, and Missing Children’s Act Amendments of 1984’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–509, § 1][/us/pl/96/509/s1], Dec. 8, 1980, [94 Stat. 2750][/us/stat/94/2750], provided that: 
+[Pub. L. 96–509][/us/pl/96/509], § 1, Dec. 8, 1980, [94 Stat. 2750][/us/stat/94/2750], provided that: 
 
 > “This Act \[enacting [section 5617 of this title][/us/usc/t42/s5617], amending this section and sections 5602, 5603, 5611, 5612, 5614 to 5616, 5632 to 5634, 5637, 5638, 5651, 5654 to 5656, 5659 to 5661, 5671, 5672, 5711 to 5713, 5715, and 5751 of this title, repealing former section 5617 and sections 5618 and 5619 of this title, and enacting provisions set out as notes under this section and [section 5633 of this title][/us/usc/t42/s5633]\] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
 
  __Short Title of 1977 Amendment__ 
 
-[Pub. L. 95–115, § 1][/us/pl/95/115/s1], Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], provided that: 
+[Pub. L. 95–115][/us/pl/95/115], § 1, Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], provided that: 
 
 > “This Act \[enacting [section 5741 of this title][/us/usc/t42/s5741], amending [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees, sections 4351 and 5038 of Title 18, Crimes and Criminal Procedure, and sections 3723, 3767, 3811 to 3814, 3821, 3882, 3883, 3888, 3889, 5603, 5611, 5612, 5614 to 5618, 5631 to 5635, 5637 to 5639, 5651, 5653 to 5657, 5659 to 5661, 5671, 5672, 5711 to 5713, 5731, and 5751 of this title, repealing sections 3821, 5658, and 5732 of this title, enacting provisions set out as notes under this section and sections 5632, 5633, and 5638 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Juvenile Justice Amendments of 1977’.”
 
  __Short Title__ 
 
-[Pub. L. 93–415, § 1][/us/pl/93/415/s1], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], provided: 
+[Pub. L. 93–415][/us/pl/93/415], § 1, Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], provided: 
 
 > “That this Act \[enacting this chapter, sections 3772 to 3774, and 3821 of this title, and sections 4351 to 4353, 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amending sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, 3883 and 3888 of this title, [section 5108 of Title 5][/us/usc/t5/s5108], Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealing [section 3889 of this title][/us/usc/t42/s3889]\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 1974’.”
 
-[Pub. L. 93–415, title III, § 301][/us/pl/93/415/s301], Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129], as amended by [Pub. L. 96–509, § 18(b)][/us/pl/96/509/s18/b], Dec. 8, 1980, [94 Stat. 2762][/us/stat/94/2762], provided that: 
+[Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 301, Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129], as amended by [Pub. L. 96–509][/us/pl/96/509], § 18(b), Dec. 8, 1980, [94 Stat. 2762][/us/stat/94/2762], provided that: 
 
 > “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Runaway and Homeless Youth Act’.”
 
-[Pub. L. 93–415, title IV, § 401][/us/pl/93/415/s401], as added by [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2125][/us/stat/98/2125], as amended by [Pub. L. 101–204, title X, § 1004(1)][/us/pl/101/204/s1004/1], Dec. 7, 1990, [103 Stat. 1828][/us/stat/103/1828], provided that: 
+[Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 401, as added by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 660, Oct. 12, 1984, [98 Stat. 2125][/us/stat/98/2125], as amended by [Pub. L. 101–204, title X][/us/pl/101/204/tX], § 1004(1), Dec. 7, 1990, [103 Stat. 1828][/us/stat/103/1828], provided that: 
 
 > “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children’s Assistance Act’.”
 
-[Pub. L. 93–415, title V, § 501][/us/pl/93/415/s501], as added by [Pub. L. 107–273, div. C, title II, § 12222(a)][/us/pl/107/273/s12222/a], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894], provided that: 
+[Pub. L. 93–415, title V][/us/pl/93/415/tV], § 501, as added by [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12222(a), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894], provided that: 
 
 > “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Incentive Grants for Local Delinquency Prevention Programs Act of 2002’.”
 
-    A prior [section 501 of title V of Pub. L. 93–415][/us/pl/93/415/s501], as added by [Pub. L. 102–586, § 5(a)][/us/pl/102/586/s5/a], Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], provided that title V (enacting subchapter V of this chapter) could be cited as the “Incentive Grants for Local Delinquency Prevention Programs Act”, prior to the general amendment of title V of [Pub. L. 93–415][/us/pl/93/415] by [Pub. L. 107–273, § 12222(a)][/us/pl/107/273/s12222/a].
+    A prior [section 501 of title V of Pub. L. 93–415][/us/pl/93/415/tV/s501], as added by [Pub. L. 102–586][/us/pl/102/586], § 5(a), Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], provided that title V (enacting subchapter V of this chapter) could be cited as the “Incentive Grants for Local Delinquency Prevention Programs Act”, prior to the general amendment of title V of [Pub. L. 93–415][/us/pl/93/415] by [Pub. L. 107–273][/us/pl/107/273], § 12222(a).
 
     Another [section 501 of Pub. L. 93–415][/us/pl/93/415/s501], title V, Sept. 7, 1974, [88 Stat. 1133][/us/stat/88/1133], amended [section 5031 of Title 18][/us/usc/t18/s5031], Crimes and Criminal Procedure.
 
-[Pub. L. 108–21, title III, § 361][/us/pl/108/21/s361], Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665], provided that: 
+[Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 361, Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665], provided that: 
 
 > “This subtitle \[subtitle D (§§ 361–363) of title III of [Pub. L. 108–21][/us/pl/108/21], enacting part B of subchapter VI of this chapter\] may be cited as the ‘Code Adam Act of 2003’.”
 
@@ -264,36 +264,36 @@
 ----------
 ----------
 
-[/us/pl/93/415/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs101
+[/us/pl/93/415/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtI
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
-[/us/pl/96/509/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs3
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2750
-[/us/pl/98/473/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs611
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
-[/us/pl/102/586/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs1%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/4982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4982
-[/us/pl/107/273/s12202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12202
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1869
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/102/586/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs1%2Fa%2F2
-[/us/pl/102/586/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs1%2Fa%2F1
-[/us/pl/102/586/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs1%2Fa%2F1
-[/us/pl/102/586/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs1%2Fa%2F4
-[/us/pl/98/473/s611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs611%2F1
-[/us/pl/98/473/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs611%2F2
-[/us/pl/98/473/s611/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs611%2F3
-[/us/pl/98/473/s611/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs611%2F4
-[/us/pl/96/509/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs3%2F1
-[/us/pl/96/509/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs3%2F2
-[/us/pl/107/273/s12223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12223
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1896
-[/us/pl/108/7/s110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs110%2F2
+[/us/pl/108/7/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdB%2FtI
 [/us/stat/117/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F67
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t42/s3796ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee
-[/us/pl/100/690/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4463
-[/us/pl/101/204/s1001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fd
+[/us/pl/101/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtX
 [/us/stat/103/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1827
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s5633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633
@@ -304,92 +304,92 @@
 [/us/usc/t42/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5701
 [/us/usc/t42/s5715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5715
 [/us/usc/t42/s5773/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5773%2Fa%2F5
-[/us/pl/98/473/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs670
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2129
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s5751/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5751%2Fc%2F2
-[/us/pl/93/415/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs263%2Fc
-[/us/pl/95/115/s6/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs6%2Fd%2F2
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1058
-[/us/pl/100/690/s7266/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7266%2F2
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4449
-[/us/pl/93/415/s263/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs263%2Fa
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1129
-[/us/pl/94/273/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs32%2Fa
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F380
-[/us/pl/95/115/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs6%2Fd%2F1
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1058
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
-[/us/pl/100/690/s7266/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7266%2F2
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4449
-[/us/pl/114/22/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fa
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F244
 [/us/usc/t42/s5780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5780
-[/us/pl/113/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs1
+[/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
 [/us/stat/127/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F527
 [/us/usc/t42/s5776a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5776a
-[/us/pl/110/378/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs1
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
 [/us/stat/122/4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4068
-[/us/pl/110/240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs1
+[/us/pl/110/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240
 [/us/stat/122/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1560
 [/us/usc/t42/s5776a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5776a
-[/us/pl/108/96/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs1
+[/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
 [/us/stat/117/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1167
 [/us/usc/t42/s5752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5752
 [/us/usc/t42/s5714–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5714%E2%80%9325
-[/us/pl/107/273/s12201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12201
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1869
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/71/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs1
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1032
 [/us/usc/t20/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7101
-[/us/pl/103/322/s170301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs170301
+[/us/pl/103/322/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVII
 [/us/stat/108/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2043
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t42/s5776a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5776a
 [/us/usc/t42/s5776a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5776a
-[/us/pl/105/314/s703/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs703%2Fg
+[/us/pl/105/314/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtVII
 [/us/stat/112/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2989
-[/us/pl/100/690/s7250/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7250%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4434
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s5617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5617
-[/us/pl/98/473/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs610
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/96/509/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs1
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2750
 [/us/usc/t42/s5617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5617
 [/us/usc/t42/s5633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633
-[/us/pl/95/115/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs1
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1048
 [/us/usc/t42/s5741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5741
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/93/415/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs1
+[/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/usc/t42/s3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3889
-[/us/pl/93/415/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs301
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
 [/us/stat/88/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1129
-[/us/pl/96/509/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs18%2Fb
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2762
-[/us/pl/93/415/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs401
-[/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2125
-[/us/pl/101/204/s1004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1004%2F1
+[/us/pl/101/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtX
 [/us/stat/103/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1828
-[/us/pl/93/415/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs501
-[/us/pl/107/273/s12222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12222%2Fa
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
-[/us/pl/93/415/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs501
-[/us/pl/102/586/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs5%2Fa
+[/us/pl/93/415/tV/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV%2Fs501
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5027
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
-[/us/pl/107/273/s12222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12222%2Fa
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/93/415/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs501
 [/us/stat/88/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1133
 [/us/usc/t18/s5031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5031
-[/us/pl/108/21/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs361
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F665
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 

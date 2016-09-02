@@ -19,7 +19,7 @@
 
     (b) Except as provided by Federal law other than this chapter, no officer or employee of the Institute, and no recipient of assistance under this chapter, may use or reveal any research or statistical information furnished under this chapter by any person and identifiable to any specific private person for any purpose other than the purpose for which the information was obtained in accordance with this chapter. Such information and copies thereof shall be immune from legal process, and shall not, without the consent of the person furnishing such information, be admitted as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceedings.
 
-([Pub. L. 98–620, title II, § 209][/us/pl/98/620/s209], Nov. 8, 1984, [98 Stat. 3344][/us/stat/98/3344]; [Pub. L. 100–702, title VI, § 606][/us/pl/100/702/s606], Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 209, Nov. 8, 1984, [98 Stat. 3344][/us/stat/98/3344]; [Pub. L. 100–702, title VI][/us/pl/100/702/tVI], § 606, Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653].)
 
  __References in Text__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/98/620/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs209
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3344
-[/us/pl/100/702/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs606
+[/us/pl/100/702/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVI
 [/us/stat/102/4653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4653
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336

@@ -77,15 +77,15 @@
 
         For purposes of subsection (a) of this section, the term “sex offense” includes statutory and attempted rape and any other criminal sexual assault (whether homosexual or heterosexual) which involves force or the threat of force.
 
-([Pub. L. 96–398, title VI, § 601(a)][/us/pl/96/398/s601/a]–(e), Oct. 7, 1980, [94 Stat. 1602][/us/stat/94/1602], 1603; [Pub. L. 97–35, title IX, § 902(f)(20)][/us/pl/97/35/s902/f/20], Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560]; [Pub. L. 99–646, § 87(d)(3)][/us/pl/99/646/s87/d/3]–(7), Nov. 10, 1986, [100 Stat. 3624][/us/stat/100/3624]; [Pub. L. 99–654, § 3(b)(3)][/us/pl/99/654/s3/b/3]–(7), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663], 3664.)
+([Pub. L. 96–398, title VI][/us/pl/96/398/tVI], § 601(a)–(e), Oct. 7, 1980, [94 Stat. 1602][/us/stat/94/1602], 1603; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(f)(20), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560]; [Pub. L. 99–646][/us/pl/99/646], § 87(d)(3)–(7), Nov. 10, 1986, [100 Stat. 3624][/us/stat/100/3624]; [Pub. L. 99–654][/us/pl/99/654], § 3(b)(3)–(7), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663], 3664.)
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–646, § 87(d)(3)][/us/pl/99/646/s87/d/3], and [Pub. L. 99–654, § 3(b)(3)][/us/pl/99/654/s3/b/3], amended section catchline identically, substituting “sex offense” for “rape”.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 87(d)(3), and [Pub. L. 99–654][/us/pl/99/654], § 3(b)(3), amended section catchline identically, substituting “sex offense” for “rape”.
 
-    Subsec. (a). [Pub. L. 99–646, § 87(d)(4)][/us/pl/99/646/s87/d/4]–(6), and [Pub. L. 99–654, § 3(b)(4)][/us/pl/99/654/s3/b/4]–(6), in amending subsec. (a) identically, in introductory provision substituted “Sex Offenses” for “Rape”, in par. (1) and in subpars. (A), (C), (D), (G), and (H) of par. (1) substituted “sex offenses” for “rape” wherever appearing, in par. (1)(B) substituted “sex offenses” for “the act of rape”, in par. (1)(E) substituted “a sex offense” for “rape”, and in par. (3)(A) and (B) substituted “sex offenses” for “rape”.
+    Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 87(d)(4)–(6), and [Pub. L. 99–654][/us/pl/99/654], § 3(b)(4)–(6), in amending subsec. (a) identically, in introductory provision substituted “Sex Offenses” for “Rape”, in par. (1) and in subpars. (A), (C), (D), (G), and (H) of par. (1) substituted “sex offenses” for “rape” wherever appearing, in par. (1)(B) substituted “sex offenses” for “the act of rape”, in par. (1)(E) substituted “a sex offense” for “rape”, and in par. (3)(A) and (B) substituted “sex offenses” for “rape”.
 
-    Subsec. (e). [Pub. L. 99–646, § 87(d)(7)][/us/pl/99/646/s87/d/7], and [Pub. L. 99–654, § 3(b)(7)][/us/pl/99/654/s3/b/7], amended subsec. (e) identically, substituting “the term ‘sex offense’ ” for “the term ‘rape’ ”.
+    Subsec. (e). [Pub. L. 99–646][/us/pl/99/646], § 87(d)(7), and [Pub. L. 99–654][/us/pl/99/654], § 3(b)(7), amended subsec. (e) identically, substituting “the term ‘sex offense’ ” for “the term ‘rape’ ”.
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] in par. (5) struck out “community mental health centers and other” after “Assistance to”, and struck out par. (6) which related to provision of consultation and education services.
 
@@ -113,20 +113,20 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/96/398/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs601%2Fa
+[/us/pl/96/398/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2FtVI
 [/us/stat/94/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1602
-[/us/pl/97/35/s902/f/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Ff%2F20
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/pl/99/646/s87/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fd%2F3
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3624
-[/us/pl/99/654/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fb%2F3
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3663
-[/us/pl/99/646/s87/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fd%2F3
-[/us/pl/99/654/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fb%2F3
-[/us/pl/99/646/s87/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fd%2F4
-[/us/pl/99/654/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fb%2F4
-[/us/pl/99/646/s87/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fd%2F7
-[/us/pl/99/654/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fb%2F7
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654

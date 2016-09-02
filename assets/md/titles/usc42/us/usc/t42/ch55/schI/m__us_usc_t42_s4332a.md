@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch55/schI/m__us_usc_t42_s4332.md) | [Next](./../../../../..//us/usc/t42/ch55/schI/m__us_usc_t42_s4333.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332a)
 
-## § 4332a. Repealed. [Pub. L. 114–94, div. A, title I, § 1304(j)(2)][/us/pl/114/94/s1304/j/2], Dec. 4, 2015, [129 Stat. 1386][/us/stat/129/1386]
+## § 4332a. Repealed. [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1304(j)(2), Dec. 4, 2015, [129 Stat. 1386][/us/stat/129/1386]
 
-    Section, [Pub. L. 112–141, div. A, title I, § 1319][/us/pl/112/141/s1319], July 6, 2012, [126 Stat. 551][/us/stat/126/551], related to accelerated decisionmaking in environmental reviews.
+    Section, [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1319, July 6, 2012, [126 Stat. 551][/us/stat/126/551], related to accelerated decisionmaking in environmental reviews.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/114/94/s1304/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1304%2Fj%2F2
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1386
-[/us/pl/112/141/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1319
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F551
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

@@ -31,7 +31,7 @@
 
         The Secretary of Housing and Urban Development shall submit the initial plan established under subsection (b) of this section and any updated plans under subsection (c) of this section to the Congress not later than the date by which such plans are to be established or updated under such paragraphs.
 
-([Pub. L. 101–625, title IX, § 945][/us/pl/101/625/s945], Nov. 28, 1990, [104 Stat. 4416][/us/stat/104/4416].)
+([Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 945, Nov. 28, 1990, [104 Stat. 4416][/us/stat/104/4416].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Budget-Neutral Demonstration Program for Energy and Water Conservation Improvements at Multifamily Residential Units__ 
 
-[Pub. L. 114–94, div. G, title LXXXI, § 81001][/us/pl/114/94/s81001], Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792], provided that:
+[Pub. L. 114–94, div. G, title LXXXI][/us/pl/114/94/dG/tLXXXI], § 81001, Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -151,11 +151,11 @@
 
  __Energy Assessment Report__ 
 
-    [Pub. L. 101–625, title IX, § 944][/us/pl/101/625/s944], Nov. 28, 1990, [104 Stat. 4415][/us/stat/104/4415], directed Secretary of Housing and Urban Development to submit a report to Congress, not later than one year after Nov. 28, 1990, assessing any activity undertaken by the Secretary to increase energy efficiency in housing, such report to include an analysis of the Aug. 15, 1990, DOE-HUD program to expand energy efficiency and increase affordability of federally-assisted housing, and provided that in such report Secretary of Housing and Urban Development (in consultation with Secretary of Energy) was to establish, and include a description of, a standard measure by which changes over time in residential energy efficiency could be compared.
+    [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 944, Nov. 28, 1990, [104 Stat. 4415][/us/stat/104/4415], directed Secretary of Housing and Urban Development to submit a report to Congress, not later than one year after Nov. 28, 1990, assessing any activity undertaken by the Secretary to increase energy efficiency in housing, such report to include an analysis of the Aug. 15, 1990, DOE-HUD program to expand energy efficiency and increase affordability of federally-assisted housing, and provided that in such report Secretary of Housing and Urban Development (in consultation with Secretary of Energy) was to establish, and include a description of, a standard measure by which changes over time in residential energy efficiency could be compared.
 
  __Uniform Mortgage Financing Plan for Energy Efficiency__ 
 
-[Pub. L. 101–625, title IX, § 946][/us/pl/101/625/s946], Nov. 28, 1990, [104 Stat. 4416][/us/stat/104/4416], as amended by [Pub. L. 102–486, title I, § 105(b)][/us/pl/102/486/s105/b], Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792]; [Pub. L. 102–550, title IX, § 914(b)][/us/pl/102/550/s914/b], Oct. 28, 1992, [106 Stat. 3877][/us/stat/106/3877], provided that:
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 946, Nov. 28, 1990, [104 Stat. 4416][/us/stat/104/4416], as amended by [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 105(b), Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 914(b), Oct. 28, 1992, [106 Stat. 3877][/us/stat/106/3877], provided that:
 
 >     “(a)  __Uniform Plan__  __.—__ 
 
@@ -167,7 +167,7 @@
 
  __Energy Efficiency Demonstration__ 
 
-    [Pub. L. 101–625, title IX, § 961][/us/pl/101/625/s961], Nov. 28, 1990, [104 Stat. 4424][/us/stat/104/4424], directed Secretary of Housing and Urban Development to establish a program to demonstrate various methods of improving the energy efficiency of existing housing, provided for funding, provided that the demonstration determine appropriate design, improvement, and rehabilitation methods and practices for increasing residential energy efficiency in housing already constructed, and directed Secretary, as soon as practicable after Sept. 30, 1991, to submit to Congress a report setting forth the findings and recommendations of the Secretary as a result of the demonstration.
+    [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 961, Nov. 28, 1990, [104 Stat. 4424][/us/stat/104/4424], directed Secretary of Housing and Urban Development to establish a program to demonstrate various methods of improving the energy efficiency of existing housing, provided for funding, provided that the demonstration determine appropriate design, improvement, and rehabilitation methods and practices for increasing residential energy efficiency in housing already constructed, and directed Secretary, as soon as practicable after Sept. 30, 1991, to submit to Congress a report setting forth the findings and recommendations of the Secretary as a result of the demonstration.
 
 ----------
 
@@ -176,24 +176,24 @@
 ----------
 ----------
 
-[/us/pl/101/625/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs945
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4416
 [/us/pl/101/625/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs944
-[/us/pl/114/94/s81001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs81001
+[/us/pl/114/94/dG/tLXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXI
 [/us/stat/129/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1792
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s8013/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013%2Fd%2F2
-[/us/pl/101/625/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs944
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4415
-[/us/pl/101/625/s946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs946
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4416
-[/us/pl/102/486/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs105%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2792
-[/us/pl/102/550/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs914%2Fb
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3877
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
-[/us/pl/101/625/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs961
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4424
 
 

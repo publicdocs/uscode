@@ -17,7 +17,7 @@
 
     No court or regulatory body shall have any jurisdiction under any law to compel the performance of or to review the adequacy of the performance of any Nuclear Proliferation Assessment Statement, or any annexes thereto, called for in this Act or in the 1954 Act.
 
-([Pub. L. 95–242, title IV, § 406][/us/pl/95/242/s406], Mar. 10, 1978, [92 Stat. 148][/us/stat/92/148]; [Pub. L. 105–277, div. G, title XII, § 1225(e)(5)][/us/pl/105/277/s1225/e/5], Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
+([Pub. L. 95–242, title IV][/us/pl/95/242/tIV], § 406, Mar. 10, 1978, [92 Stat. 148][/us/stat/92/148]; [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(e)(5), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/95/242/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs406
+[/us/pl/95/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIV
 [/us/stat/92/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F148
-[/us/pl/105/277/s1225/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fe%2F5
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-775
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

@@ -23,7 +23,7 @@
 
         This chapter applies to each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and the territories and possessions of the United States including the Trust Territory of the Pacific Islands.
 
-([Pub. L. 96–345, § 13][/us/pl/96/345/s13], Sept. 8, 1980, [94 Stat. 1146][/us/stat/94/1146].)
+([Pub. L. 96–345][/us/pl/96/345], § 13, Sept. 8, 1980, [94 Stat. 1146][/us/stat/94/1146].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/345/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs13
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1146
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

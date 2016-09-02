@@ -47,7 +47,7 @@
 
         The certificate of the partnership and any amendment thereof required by the District of Columbia Uniform Limited Partnership Act shall be executed and acknowledged by the corporation as member and by each other member of the partnership or his attorney-in-fact duly authorized by power of attorney in writing. The corporation may execute and acknowledge the certificate and any amendment thereof as attorney-in-fact for any member, member to be substituted or added, or assigning member, by whom the certificate or amendment is required to be executed and acknowledged and who has appointed the corporation as such attorney.
 
-([Pub. L. 90–448, title IX, § 907][/us/pl/90/448/s907], Aug. 1, 1968, [82 Stat. 549][/us/stat/82/549].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 907, Aug. 1, 1968, [82 Stat. 549][/us/stat/82/549].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t42/s3936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3936
-[/us/pl/90/448/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs907
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F549
 [/us/pl/87/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F716
 [/us/stat/76/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F655

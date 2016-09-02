@@ -19,7 +19,7 @@
 
     (b) It is the policy of the United States to provide for the creation of a Strategic Petroleum Reserve for the storage of up to 1 billion barrels of petroleum products to reduce the impact of disruptions in supplies of petroleum products, to carry out obligations of the United States under the international energy program, and for other purposes as provided for in this chapter.
 
-([Pub. L. 94–163, title I, § 151][/us/pl/94/163/s151], Dec. 22, 1975, [89 Stat. 881][/us/stat/89/881]; [Pub. L. 106–469, title I, § 103(4)][/us/pl/106/469/s103/4], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 151, Dec. 22, 1975, [89 Stat. 881][/us/stat/89/881]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(4), Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Study of a Strategic Ethanol Reserve__ 
 
-[Pub. L. 99–198, title XVII, § 1778][/us/pl/99/198/s1778], Dec. 23, 1985, [99 Stat. 1659][/us/stat/99/1659], provided that:
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1778, Dec. 23, 1985, [99 Stat. 1659][/us/stat/99/1659], provided that:
 
 >     “(a) The Secretary of Agriculture shall conduct a study of the cost effectiveness, the economic benefits, and the feasibility of establishing, maintaining, and utilizing a Strategic Ethanol Reserve relative to the existing Strategic Petroleum Reserve.
 
@@ -47,7 +47,7 @@
 
  __Additional Congressional Findings__ 
 
-[Pub. L. 97–35, title X, § 1032][/us/pl/97/35/s1032], Aug. 13, 1981, [95 Stat. 618][/us/stat/95/618], provided that: 
+[Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1032, Aug. 13, 1981, [95 Stat. 618][/us/stat/95/618], provided that: 
 
 > “The Congress finds that—
 
@@ -62,17 +62,17 @@
 ----------
 ----------
 
-[/us/pl/94/163/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs151
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F881
-[/us/pl/106/469/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F4
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
-[/us/pl/99/198/s1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1778
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1659
-[/us/pl/97/35/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1032
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F618
 
 

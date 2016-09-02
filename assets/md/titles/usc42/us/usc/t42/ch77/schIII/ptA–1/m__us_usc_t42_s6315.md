@@ -91,7 +91,7 @@
 
         Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
 
-([Pub. L. 94–163, title III, § 344][/us/pl/94/163/s344], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3271][/us/stat/92/3271]; amended [Pub. L. 102–486, title I, § 122(c)][/us/pl/102/486/s122/c], Oct. 24, 1992, [106 Stat. 2809][/us/stat/106/2809]; [Pub. L. 109–58, title I, § 136(g)][/us/pl/109/58/s136/g], Aug. 8, 2005, [119 Stat. 643][/us/stat/119/643]; [Pub. L. 110–140, title III, § 312(d)][/us/pl/110/140/s312/d], Dec. 19, 2007, [121 Stat. 1567][/us/stat/121/1567].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 344, as added [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3271][/us/stat/92/3271]; amended [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 122(c), Oct. 24, 1992, [106 Stat. 2809][/us/stat/106/2809]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 136(g), Aug. 8, 2005, [119 Stat. 643][/us/stat/119/643]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 312(d), Dec. 19, 2007, [121 Stat. 1567][/us/stat/121/1567].)
 
  __References in Text__ 
 
@@ -103,11 +103,11 @@
 
     2005—Subsec. (e). [Pub. L. 109–58][/us/pl/109/58] inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in two places in introductory provisions.
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 122(c)(1)][/us/pl/102/486/s122/c/1], substituted “shall prescribe” for “may prescribe”.
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 122(c)(1), substituted “shall prescribe” for “may prescribe”.
 
-    Subsec. (c). [Pub. L. 102–486, § 122(c)(2)][/us/pl/102/486/s122/c/2], substituted “shall include” for “may include”.
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 122(c)(2), substituted “shall include” for “may include”.
 
-    Subsecs. (d) to (k). [Pub. L. 102–486, § 122(c)(3)][/us/pl/102/486/s122/c/3], (4), added subsecs. (d) and (e) and redesignated former subsecs. (d) to (i) as (f) to (k), respectively.
+    Subsecs. (d) to (k). [Pub. L. 102–486][/us/pl/102/486], § 122(c)(3), (4), added subsecs. (d) and (e) and redesignated former subsecs. (d) to (i) as (f) to (k), respectively.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -128,23 +128,23 @@
 [/us/usc/t42/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6314
 [/us/usc/t42/s6313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6313
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/94/163/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs344
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3271
-[/us/pl/102/486/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fc
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2809
-[/us/pl/109/58/s136/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fg
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F643
-[/us/pl/110/140/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fd
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1567
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/102/486/s122/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fc%2F1
-[/us/pl/102/486/s122/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fc%2F2
-[/us/pl/102/486/s122/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fc%2F3
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

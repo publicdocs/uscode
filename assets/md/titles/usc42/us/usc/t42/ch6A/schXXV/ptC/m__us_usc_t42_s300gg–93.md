@@ -61,7 +61,7 @@
 
             There is authorized to be appropriated to the Secretary for each fiscal year following the fiscal year described in paragraph (1), such sums as may be necessary to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2793, as added [Pub. L. 111–148, title I, § 1002][/us/pl/111/148/s1002], Mar. 23, 2010, [124 Stat. 138][/us/stat/124/138].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2793, as added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1002, Mar. 23, 2010, [124 Stat. 138][/us/stat/124/138].)
 
  __Effective Date__ 
 
@@ -78,7 +78,7 @@
 
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1002
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F138
 [/us/pl/111/148/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004%2Fa
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311

@@ -87,11 +87,11 @@
 
         The Board shall terminate on the date that is 5 years after December 19, 2014.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3687\], as added [Pub. L. 113–291, div. C, title XXXI, § 3141(a)][/us/pl/113/291/s3141/a], Dec. 19, 2014, [128 Stat. 3897][/us/stat/128/3897].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3687\], as added [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3141(a), Dec. 19, 2014, [128 Stat. 3897][/us/stat/128/3897].)
 
  __References in Text__ 
 
-    Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (h)(2)(A), (B), is [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 151\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251, which is not classified to the Code.
+    Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (h)(2)(A), (B), is [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 151\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251, which is not classified to the Code.
 
  __Ex. Ord. No. 13699. Establishing the Advisory Board on Toxic Substances and Worker Health__ 
 
@@ -150,10 +150,10 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/113/291/s3141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fa
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3897
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570

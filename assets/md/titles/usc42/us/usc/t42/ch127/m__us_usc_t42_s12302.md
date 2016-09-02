@@ -41,7 +41,7 @@
 
         The term “young individual” means any child or youth from birth to 21 years of age.
 
-([Pub. L. 101–501, title IX, § 903][/us/pl/101/501/s903], Nov. 3, 1990, [104 Stat. 1262][/us/stat/104/1262].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 903, Nov. 3, 1990, [104 Stat. 1262][/us/stat/104/1262].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t42/s12311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12311
 [/us/usc/t42/s12314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12314%2Fa
-[/us/pl/101/501/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs903
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1262
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

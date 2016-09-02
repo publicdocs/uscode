@@ -65,39 +65,39 @@
 
         Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; [92 Stat. 1836][/us/stat/92/1836]), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
-([May 10, 1950, ch. 171, § 4][/us/act/1950-05-10/ch171/s4], [64 Stat. 150][/us/stat/64/150]; [Pub. L. 86–232, § 2][/us/pl/86/232/s2], Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; [Pub. L. 86–507, § 1(36)][/us/pl/86/507/s1/36], June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 90–407, § 2][/us/pl/90/407/s2], July 18, 1968, [82 Stat. 361][/us/stat/82/361]; [Pub. L. 94–273, § 11(3)][/us/pl/94/273/s11/3], Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 94–282, title V, § 503][/us/pl/94/282/s503], May 11, 1976, [90 Stat. 473][/us/stat/90/473]; [Pub. L. 94–471, § 9][/us/pl/94/471/s9], Oct. 11, 1976, [90 Stat. 2057][/us/stat/90/2057]; [Pub. L. 95–99, § 12(b)][/us/pl/95/99/s12/b], formerly § 14(b), Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 12(b), [Pub. L. 99–159, title I, § 109(h)][/us/pl/99/159/s109/h], Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 96–516, § 21(a)][/us/pl/96/516/s21/a], Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010]; [Pub. L. 97–375, title II, § 214][/us/pl/97/375/s214], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 99–159, title I][/us/pl/99/159], §§ 109(a), 110(a)(12), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], 891; [Pub. L. 100–570, title I][/us/pl/100/570], §§ 105(a), 108, Oct. 31, 1988, [102 Stat. 2868][/us/stat/102/2868], 2869; [Pub. L. 105–207, title II, § 202(a)(1)][/us/pl/105/207/s202/a/1], July 29, 1998, [112 Stat. 873][/us/stat/112/873]; [Pub. L. 107–368, § 15(a)(1)][/us/pl/107/368/s15/a/1], (c), Dec. 19, 2002, [116 Stat. 3058][/us/stat/116/3058], 3059; [Pub. L. 110–69, title VII][/us/pl/110/69], §§ 7015(b), 7016, Aug. 9, 2007, [121 Stat. 683][/us/stat/121/683], 684; [Pub. L. 111–358, title V, § 504(a)][/us/pl/111/358/s504/a], (b), Jan. 4, 2011, [124 Stat. 4006][/us/stat/124/4006]; [Pub. L. 112–166, § 2(s)][/us/pl/112/166/s2/s], Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 4, [64 Stat. 150][/us/stat/64/150]; [Pub. L. 86–232][/us/pl/86/232], § 2, Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; [Pub. L. 86–507][/us/pl/86/507], § 1(36), June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 90–407][/us/pl/90/407], § 2, July 18, 1968, [82 Stat. 361][/us/stat/82/361]; [Pub. L. 94–273][/us/pl/94/273], § 11(3), Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 94–282, title V][/us/pl/94/282/tV], § 503, May 11, 1976, [90 Stat. 473][/us/stat/90/473]; [Pub. L. 94–471][/us/pl/94/471], § 9, Oct. 11, 1976, [90 Stat. 2057][/us/stat/90/2057]; [Pub. L. 95–99][/us/pl/95/99], § 12(b), formerly § 14(b), Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 12(b), [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(h), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 96–516][/us/pl/96/516], § 21(a), Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 214, Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], §§ 109(a), 110(a)(12), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], 891; [Pub. L. 100–570, title I][/us/pl/100/570/tI], §§ 105(a), 108, Oct. 31, 1988, [102 Stat. 2868][/us/stat/102/2868], 2869; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(a)(1), July 29, 1998, [112 Stat. 873][/us/stat/112/873]; [Pub. L. 107–368][/us/pl/107/368], § 15(a)(1), (c), Dec. 19, 2002, [116 Stat. 3058][/us/stat/116/3058], 3059; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], §§ 7015(b), 7016, Aug. 9, 2007, [121 Stat. 683][/us/stat/121/683], 684; [Pub. L. 111–358, title V][/us/pl/111/358/tV], § 504(a), (b), Jan. 4, 2011, [124 Stat. 4006][/us/stat/124/4006]; [Pub. L. 112–166][/us/pl/112/166], § 2(s), Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
 
  __References in Text__ 
 
-    The Ethics in Government Act of 1978, referred to in subsec. (l), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824]. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by [Pub. L. 101–194, title II, § 201][/us/pl/101/194/s201], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724]. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
+    The Ethics in Government Act of 1978, referred to in subsec. (l), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824]. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 201, Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724]. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
 
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate,” after “appointed by the President”.
 
-    2011—Subsec. (g). [Pub. L. 111–358, § 504(a)][/us/pl/111/358/s504/a], struck out “not more than 5” before “professional staff members”.
+    2011—Subsec. (g). [Pub. L. 111–358][/us/pl/111/358], § 504(a), struck out “not more than 5” before “professional staff members”.
 
-    Subsec. (j)(2). [Pub. L. 111–358, § 504(b)][/us/pl/111/358/s504/b], inserted “within the authority of the Foundation (or otherwise as requested by the Congress or the President)” after “individual policy matters”.
+    Subsec. (j)(2). [Pub. L. 111–358][/us/pl/111/358], § 504(b), inserted “within the authority of the Foundation (or otherwise as requested by the Congress or the President)” after “individual policy matters”.
 
-    2007—Subsec. (g). [Pub. L. 110–69, § 7015(b)][/us/pl/110/69/s7015/b], amended subsec. (g) generally. Prior to amendment, subsec. (g) related to the appointment of a Board staff of not more than five professional staff members and any necessary clerical staff members and the compensation and security requirements for such staff.
+    2007—Subsec. (g). [Pub. L. 110–69][/us/pl/110/69], § 7015(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to the appointment of a Board staff of not more than five professional staff members and any necessary clerical staff members and the compensation and security requirements for such staff.
 
-    Subsec. (j). [Pub. L. 110–69, § 7016][/us/pl/110/69/s7016], substituted “President and” for “President, for submission to” in par. (1) and for “President for submission to” in par. (2).
+    Subsec. (j). [Pub. L. 110–69][/us/pl/110/69], § 7016, substituted “President and” for “President, for submission to” in par. (1) and for “President for submission to” in par. (2).
 
-    2002—Subsec. (e). [Pub. L. 107–368, § 15(a)(1)][/us/pl/107/368/s15/a/1], substituted “The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.” for “A majority of the members of the Board shall constitute a quorum. Each member shall be given notice, not less than fifteen days prior to any meeting, of the call of such meeting.”
+    2002—Subsec. (e). [Pub. L. 107–368][/us/pl/107/368], § 15(a)(1), substituted “The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.” for “A majority of the members of the Board shall constitute a quorum. Each member shall be given notice, not less than fifteen days prior to any meeting, of the call of such meeting.”
 
-    Subsec. (g). [Pub. L. 107–368, § 15(c)][/us/pl/107/368/s15/c], substituted “Such staff shall be appointed by the Chairman and assigned at the direction of the Board.” for “Such staff shall be appointed by the Director, after consultation with the chairman of the Board and assigned at the direction of the Board.”
+    Subsec. (g). [Pub. L. 107–368][/us/pl/107/368], § 15(c), substituted “Such staff shall be appointed by the Chairman and assigned at the direction of the Board.” for “Such staff shall be appointed by the Director, after consultation with the chairman of the Board and assigned at the direction of the Board.”
 
-    1998—Subsec. (g). [Pub. L. 105–207, § 202(a)(1)(A)][/us/pl/105/207/s202/a/1/A], substituted “the maximum rate payable under section 5376” for “the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332”.
+    1998—Subsec. (g). [Pub. L. 105–207][/us/pl/105/207], § 202(a)(1)(A), substituted “the maximum rate payable under section 5376” for “the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332”.
 
-    Subsecs. (k), (l). [Pub. L. 105–207, § 202(a)(1)(B)][/us/pl/105/207/s202/a/1/B], redesignated subsec. (k), relating to requirement of Board members to file financial disclosure report, as (l).
+    Subsecs. (k), (l). [Pub. L. 105–207][/us/pl/105/207], § 202(a)(1)(B), redesignated subsec. (k), relating to requirement of Board members to file financial disclosure report, as (l).
 
-    1988—Subsec. (k). [Pub. L. 100–570, § 108][/us/pl/100/570/s108], added subsec. (k) relating to requirement of Board members to file financial disclosure report.
+    1988—Subsec. (k). [Pub. L. 100–570][/us/pl/100/570], § 108, added subsec. (k) relating to requirement of Board members to file financial disclosure report.
 
-    [Pub. L. 100–570, § 105(a)][/us/pl/100/570/s105/a], added subsec. (k) relating to closed meetings.
+    [Pub. L. 100–570][/us/pl/100/570], § 105(a), added subsec. (k) relating to closed meetings.
 
-    1985—Subsec. (c). [Pub. L. 99–159, § 110(a)(12)][/us/pl/99/159/s110/a/12], inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
+    1985—Subsec. (c). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(12), inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
 
-    Subsec. (e). [Pub. L. 99–159, § 109(a)][/us/pl/99/159/s109/a], struck out requirement that notice be made to members by registered or certified mail mailed to the last known address of record.
+    Subsec. (e). [Pub. L. 99–159][/us/pl/99/159], § 109(a), struck out requirement that notice be made to members by registered or certified mail mailed to the last known address of record.
 
     1982—Subsec. (j). [Pub. L. 97–375][/us/pl/97/375] substituted provisions requiring a report in each even numbered year on the state of science and engineering, and reports on specific policy matters, as needed, for provisions requiring the Board to render an annual report to the President, for submission to the Congress on or before March 31 in each year, to deal essentially, though not necessarily exclusively, with policy issues or matters affecting the Foundation or with which the Board in its official role as the policymaking body of the Foundation was concerned.
 
@@ -105,9 +105,9 @@
 
     1977—Subsec. (j). [Pub. L. 95–99][/us/pl/95/99] added subsec. (j).
 
-    1976—Subsec. (a). [Pub. L. 94–471, § 9(a)][/us/pl/94/471/s9/a], inserted reference to the framework of applicable national policies as set forth by the President and the Congress.
+    1976—Subsec. (a). [Pub. L. 94–471][/us/pl/94/471], § 9(a), inserted reference to the framework of applicable national policies as set forth by the President and the Congress.
 
-    Subsec. (g). [Pub. L. 94–471, § 9(b)][/us/pl/94/471/s9/b], inserted reference to consultation of the Director with the Chairman of the Board and substituted “GS–18” for “GS–15”.
+    Subsec. (g). [Pub. L. 94–471][/us/pl/94/471], § 9(b), inserted reference to consultation of the Director with the Chairman of the Board and substituted “GS–18” for “GS–15”.
 
     [Pub. L. 94–282][/us/pl/94/282] redesignated subsec. (h), and all references thereto, as subsec. (g). Former subsec. (g), concerning the annual report by the National Science Board to the President and Congress, was deleted.
 
@@ -162,65 +162,65 @@
 [/us/usc/t42/s1873/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1873%2Fa%2F3
 [/us/usc/t42/s1873/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1873%2Fa
 [/us/stat/92/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1836
-[/us/act/1950-05-10/ch171/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs4
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F150
-[/us/pl/86/232/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs2
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F467
-[/us/pl/86/507/s1/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F36
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F202
-[/us/pl/90/407/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs2
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F361
-[/us/pl/94/273/s11/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs11%2F3
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F378
-[/us/pl/94/282/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs503
+[/us/pl/94/282/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtV
 [/us/stat/90/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F473
-[/us/pl/94/471/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs9
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2057
-[/us/pl/95/99/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99%2Fs12%2Fb
+[/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/stat/91/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F835
-[/us/pl/99/159/s109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fh
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
-[/us/pl/96/516/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs21%2Fa
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
-[/us/pl/97/375/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs214
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
-[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F889
-[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2868
-[/us/pl/105/207/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fa%2F1
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F873
-[/us/pl/107/368/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15%2Fa%2F1
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3058
-[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F683
-[/us/pl/111/358/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs504%2Fa
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4006
-[/us/pl/112/166/s2/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fs
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1288
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
-[/us/pl/101/194/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs201
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1724
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/111/358/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs504%2Fa
-[/us/pl/111/358/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs504%2Fb
-[/us/pl/110/69/s7015/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7015%2Fb
-[/us/pl/110/69/s7016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7016
-[/us/pl/107/368/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15%2Fa%2F1
-[/us/pl/107/368/s15/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15%2Fc
-[/us/pl/105/207/s202/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fa%2F1%2FA
-[/us/pl/105/207/s202/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fa%2F1%2FB
-[/us/pl/100/570/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs108
-[/us/pl/100/570/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs105%2Fa
-[/us/pl/99/159/s110/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F12
-[/us/pl/99/159/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fa
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
+[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
-[/us/pl/94/471/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs9%2Fa
-[/us/pl/94/471/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs9%2Fb
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/pl/94/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/94/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282

@@ -23,7 +23,7 @@
 
     (3) exports of United States renewable energy technologies and services.
 
-([Pub. L. 102–486, title XII, § 1201][/us/pl/102/486/s1201], Oct. 24, 1992, [106 Stat. 2956][/us/stat/106/2956].)
+([Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1201, Oct. 24, 1992, [106 Stat. 2956][/us/stat/106/2956].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1201
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2956
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2956

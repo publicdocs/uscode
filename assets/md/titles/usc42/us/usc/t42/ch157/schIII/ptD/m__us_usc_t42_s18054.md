@@ -161,7 +161,7 @@
 
         There is authorized to be appropriated, such sums as may be necessary to carry out this section.
 
-([Pub. L. 111–148, title I, § 1334][/us/pl/111/148/s1334], as added [Pub. L. 111–148, title X, § 10104(q)][/us/pl/111/148/s10104/q], Mar. 23, 2010, [124 Stat. 902][/us/stat/124/902].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1334, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10104(q), Mar. 23, 2010, [124 Stat. 902][/us/stat/124/902].)
 
  __References in Text__ 
 
@@ -171,7 +171,7 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5], United States Code,” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5], United States Code,” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
 ----------
 
@@ -190,8 +190,8 @@
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/usc/t42/s18031/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18031%2Fd%2F4%2FA
-[/us/pl/111/148/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1334
-[/us/pl/111/148/s10104/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fq
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F902
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
@@ -200,7 +200,7 @@
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

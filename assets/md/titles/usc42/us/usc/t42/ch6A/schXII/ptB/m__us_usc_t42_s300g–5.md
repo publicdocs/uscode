@@ -101,53 +101,53 @@
 
         If an application for an exemption under this section is made, the State receiving the application or the Administrator, as the case may be, shall act upon such application within a reasonable period (as determined under regulations prescribed by the Administrator) after the date of its submission.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1416, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1672][/us/stat/88/1672]; amended [Pub. L. 95–190, § 10(a)][/us/pl/95/190/s10/a], Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398]; [Pub. L. 96–502][/us/pl/96/502], §§ 1, 4(b), Dec. 5, 1980, [94 Stat. 2737][/us/stat/94/2737], 2738; [Pub. L. 99–339, title I][/us/pl/99/339], §§ 101(c)(4), 105, June 19, 1986, [100 Stat. 646][/us/stat/100/646], 649; [Pub. L. 104–182, title I, § 117(a)][/us/pl/104/182/s117/a], Aug. 6, 1996, [110 Stat. 1644][/us/stat/110/1644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1416, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1672][/us/stat/88/1672]; amended [Pub. L. 95–190][/us/pl/95/190], § 10(a), Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398]; [Pub. L. 96–502][/us/pl/96/502], §§ 1, 4(b), Dec. 5, 1980, [94 Stat. 2737][/us/stat/94/2737], 2738; [Pub. L. 99–339, title I][/us/pl/99/339/tI], §§ 101(c)(4), 105, June 19, 1986, [100 Stat. 646][/us/stat/100/646], 649; [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 117(a), Aug. 6, 1996, [110 Stat. 1644][/us/stat/110/1644].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–182, § 117(a)(1)][/us/pl/104/182/s117/a/1], inserted “, including qualification of the public water system as a system serving a disadvantaged community pursuant to [section 300j–12(d) of this title][/us/usc/t42/s300j–12/d]” after “(which may include economic factors” and “or to implement measures to develop an alternative source of water supply,” after “treatment technique requirement,”.
+    1996—Subsec. (a)(1). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(1), inserted “, including qualification of the public water system as a system serving a disadvantaged community pursuant to [section 300j–12(d) of this title][/us/usc/t42/s300j–12/d]” after “(which may include economic factors” and “or to implement measures to develop an alternative source of water supply,” after “treatment technique requirement,”.
 
-    Subsec. (a)(4). [Pub. L. 104–182, § 117(a)(2)][/us/pl/104/182/s117/a/2], added par. (4).
+    Subsec. (a)(4). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(2), added par. (4).
 
-    Subsec. (b)(1)(A). [Pub. L. 104–182, § 117(a)(3)][/us/pl/104/182/s117/a/3], substituted “(including increments of progress or measures to develop an alternative source of water supply)” for “(including increments of progress)” and “requirement or treatment” for “requirement and treatment”.
+    Subsec. (b)(1)(A). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(3), substituted “(including increments of progress or measures to develop an alternative source of water supply)” for “(including increments of progress)” and “requirement or treatment” for “requirement and treatment”.
 
-    Subsec. (b)(2)(A). [Pub. L. 104–182, § 117(a)(4)(A)][/us/pl/104/182/s117/a/4/A], substituted “not later than 3 years after the otherwise applicable compliance date established in [section 300g–1(b)(10) of this title][/us/usc/t42/s300g–1/b/10].” for “(except as provided in subparagraph (B))—
+    Subsec. (b)(2)(A). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(4)(A), substituted “not later than 3 years after the otherwise applicable compliance date established in [section 300g–1(b)(10) of this title][/us/usc/t42/s300g–1/b/10].” for “(except as provided in subparagraph (B))—
 
     “(i) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by the national primary drinking water regulations promulgated under [section 300g–1(a) of this title][/us/usc/t42/s300g–1/a], not later than 12 months after June 19, 1986; and
 
     “(ii) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by national primary drinking water regulations, other than a regulation referred to in [section 300g–1(a) of this title][/us/usc/t42/s300g–1/a], 12 months after the date of the issuance of the exemption.”
 
-    Subsec. (b)(2)(B). [Pub. L. 104–182, § 117(a)(4)(A)][/us/pl/104/182/s117/a/4/A], substituted “No exemption shall be granted unless” for “The final date for compliance provided in any schedule in the case of any exemption may be extended by the State (in the case of a State which has primary enforcement responsibility) or by the Administrator (in any other case) for a period not to exceed 3 years after the date of the issuance of the exemption if” in introductory provisions.
+    Subsec. (b)(2)(B). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(4)(A), substituted “No exemption shall be granted unless” for “The final date for compliance provided in any schedule in the case of any exemption may be extended by the State (in the case of a State which has primary enforcement responsibility) or by the Administrator (in any other case) for a period not to exceed 3 years after the date of the issuance of the exemption if” in introductory provisions.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 104–182, § 117(a)(4)(B)][/us/pl/104/182/s117/a/4/B], substituted “prior to the date established pursuant to [section 300g–1(b)(10) of this title][/us/usc/t42/s300g–1/b/10]” for “within the period of such exemption”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(4)(B), substituted “prior to the date established pursuant to [section 300g–1(b)(10) of this title][/us/usc/t42/s300g–1/b/10]” for “within the period of such exemption”.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 104–182, § 117(a)(4)(C)][/us/pl/104/182/s117/a/4/C], inserted “or assistance pursuant to [section 300j–12 of this title][/us/usc/t42/s300j–12], or any other Federal or State program is reasonably likely to be available within the period of the exemption” after “such financial assistance”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(4)(C), inserted “or assistance pursuant to [section 300j–12 of this title][/us/usc/t42/s300j–12], or any other Federal or State program is reasonably likely to be available within the period of the exemption” after “such financial assistance”.
 
-    Subsec. (b)(2)(C). [Pub. L. 104–182, § 117(a)(4)(D)][/us/pl/104/182/s117/a/4/D], substituted “a population of 3,300” for “500 service connections” and inserted “, but not to exceed a total of 6 years,” after “for one or more additional 2-year periods”.
+    Subsec. (b)(2)(C). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(4)(D), substituted “a population of 3,300” for “500 service connections” and inserted “, but not to exceed a total of 6 years,” after “for one or more additional 2-year periods”.
 
-    Subsec. (b)(2)(D). [Pub. L. 104–182, § 117(a)(4)(E)][/us/pl/104/182/s117/a/4/E], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 104–182][/us/pl/104/182], § 117(a)(4)(E), added subpar. (D).
 
-    1986—Subsec. (b)(1). [Pub. L. 99–339, § 105(a)(1)][/us/pl/99/339/s105/a/1], substituted “at the time” for “within one year of the date”.
+    1986—Subsec. (b)(1). [Pub. L. 99–339][/us/pl/99/339], § 105(a)(1), substituted “at the time” for “within one year of the date”.
 
-    Subsec. (b)(2)(A)(i). [Pub. L. 99–339, § 105(a)(2)][/us/pl/99/339/s105/a/2], struck out “interim” before “national primary” and substituted “not later than 12 months after June 19, 1986” for “not later than January 1, 1984”.
+    Subsec. (b)(2)(A)(i). [Pub. L. 99–339][/us/pl/99/339], § 105(a)(2), struck out “interim” before “national primary” and substituted “not later than 12 months after June 19, 1986” for “not later than January 1, 1984”.
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 99–339, § 105(a)(3)][/us/pl/99/339/s105/a/3], struck out “revised” before “national primary” and substituted “other than a regulation referred to in [section 300g–1(a) of this title][/us/usc/t42/s300g–1/a], 12 months after the date of the issuance of the exemption” for “not later than seven years after the date such requirement takes effect”.
+    Subsec. (b)(2)(A)(ii). [Pub. L. 99–339][/us/pl/99/339], § 105(a)(3), struck out “revised” before “national primary” and substituted “other than a regulation referred to in [section 300g–1(a) of this title][/us/usc/t42/s300g–1/a], 12 months after the date of the issuance of the exemption” for “not later than seven years after the date such requirement takes effect”.
 
-    Subsec. (b)(2)(B). [Pub. L. 99–339, § 105(a)(4)][/us/pl/99/339/s105/a/4], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Notwithstanding clauses (i) and (ii) of subparagraph (A) of this paragraph, the final date for compliance prescribed in a schedule prescribed pursuant to this subsection for an exemption granted for a public water system which (as determined by the State granting the exemption) has entered into an enforceable agreement to become a part of a regional public water system shall—
+    Subsec. (b)(2)(B). [Pub. L. 99–339][/us/pl/99/339], § 105(a)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Notwithstanding clauses (i) and (ii) of subparagraph (A) of this paragraph, the final date for compliance prescribed in a schedule prescribed pursuant to this subsection for an exemption granted for a public water system which (as determined by the State granting the exemption) has entered into an enforceable agreement to become a part of a regional public water system shall—
 
     “(i) in the case of a schedule prescribed for an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by interim national primary drinking water regulations, be not later than January 1, 1986; and
 
     “(ii) in the case of a schedule prescribed for an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by revised national primary drinking water regulations, be not later than nine years after such requirement takes effect.”
 
-    Subsec. (b)(2)(C). [Pub. L. 99–339, § 105(a)(4)][/us/pl/99/339/s105/a/4], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 99–339][/us/pl/99/339], § 105(a)(4), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 99–339, § 101(c)(4)][/us/pl/99/339/s101/c/4], substituted “300g–1(b)” for “300g–1(b)(3)”.
+    Subsec. (e). [Pub. L. 99–339][/us/pl/99/339], § 101(c)(4), substituted “300g–1(b)” for “300g–1(b)(3)”.
 
-    1980—Subsec. (a)(2). [Pub. L. 96–502, § 4(b)][/us/pl/96/502/s4/b], substituted “treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system, and” for “treatment technique requirement, and”.
+    1980—Subsec. (a)(2). [Pub. L. 96–502][/us/pl/96/502], § 4(b), substituted “treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system, and” for “treatment technique requirement, and”.
 
-    Subsec. (b)(2)(A)(i). [Pub. L. 96–502, § 1][/us/pl/96/502/s1], substituted “January 1, 1984” for “January 1, 1981”.
+    Subsec. (b)(2)(A)(i). [Pub. L. 96–502][/us/pl/96/502], § 1, substituted “January 1, 1984” for “January 1, 1981”.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 96–502, § 1][/us/pl/96/502/s1], substituted “January 1, 1986” for “January 1, 1983”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 96–502][/us/pl/96/502], § 1, substituted “January 1, 1986” for “January 1, 1983”.
 
     1977—Subsec. (b)(1). [Pub. L. 95–190][/us/pl/95/190] substituted “contaminant” for “containment” wherever appearing.
 
@@ -167,41 +167,41 @@
 [/us/usc/t42/s300f/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f%2F1%2FC%2Fii
 [/us/usc/t42/s300g–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1672
-[/us/pl/95/190/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs10%2Fa
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1398
 [/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/stat/94/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2737
-[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F646
-[/us/pl/104/182/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1644
-[/us/pl/104/182/s117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F1
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300j–12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312%2Fd
-[/us/pl/104/182/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F2
-[/us/pl/104/182/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F3
-[/us/pl/104/182/s117/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F4%2FA
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300g–1/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F10
 [/us/usc/t42/s300g–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fa
 [/us/usc/t42/s300g–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fa
-[/us/pl/104/182/s117/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F4%2FA
-[/us/pl/104/182/s117/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F4%2FB
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300g–1/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F10
-[/us/pl/104/182/s117/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F4%2FC
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
-[/us/pl/104/182/s117/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F4%2FD
-[/us/pl/104/182/s117/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs117%2Fa%2F4%2FE
-[/us/pl/99/339/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs105%2Fa%2F1
-[/us/pl/99/339/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs105%2Fa%2F2
-[/us/pl/99/339/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs105%2Fa%2F3
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/usc/t42/s300g–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fa
-[/us/pl/99/339/s105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs105%2Fa%2F4
-[/us/pl/99/339/s105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs105%2Fa%2F4
-[/us/pl/99/339/s101/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs101%2Fc%2F4
-[/us/pl/96/502/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs4%2Fb
-[/us/pl/96/502/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs1
-[/us/pl/96/502/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs1
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

@@ -89,7 +89,7 @@
 
         (5) Any substance to the extent it is used in routine agricultural operations or is a fertilizer held for sale by a retailer to the ultimate customer.
 
-([Pub. L. 99–499, title III, § 311][/us/pl/99/499/s311], Oct. 17, 1986, [100 Stat. 1736][/us/stat/100/1736].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 311, Oct. 17, 1986, [100 Stat. 1736][/us/stat/100/1736].)
 
  __References in Text__ 
 
@@ -108,7 +108,7 @@
 [/us/usc/t42/s11044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11044
 [/us/usc/t42/s11044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11044
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/99/499/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs311
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1736
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

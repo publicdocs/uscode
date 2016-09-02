@@ -45,7 +45,7 @@
 
         If a State requires by law compliance with the requirements described in paragraphs (11), (12), and (13) of [section 5633(a) of this title][/us/usc/t42/s5633/a], then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.
 
-([Pub. L. 93–415, title II, § 299A][/us/pl/93/415/s299A], formerly § 262, Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129]; [Pub. L. 95–115, § 6(c)][/us/pl/95/115/s6/c], Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058]; [Pub. L. 96–509, § 16][/us/pl/96/509/s16], Dec. 8, 1980, [94 Stat. 2761][/us/stat/94/2761]; [Pub. L. 98–473, title II, § 641][/us/pl/98/473/s641], Oct. 12, 1984, [98 Stat. 2122][/us/stat/98/2122]; renumbered § 292, [Pub. L. 100–690, title VII, § 7266(3)][/us/pl/100/690/s7266/3], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449]; renumbered § 299A, [Pub. L. 102–586, § 2(i)(1)(B)][/us/pl/102/586/s2/i/1/B], Nov. 4, 1992, [106 Stat. 5006][/us/stat/106/5006]; [Pub. L. 107–273, div. C, title II, § 12214][/us/pl/107/273/s12214], Nov. 2, 2002, [116 Stat. 1892][/us/stat/116/1892].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 299A, formerly § 262, Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129]; [Pub. L. 95–115][/us/pl/95/115], § 6(c), Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058]; [Pub. L. 96–509][/us/pl/96/509], § 16, Dec. 8, 1980, [94 Stat. 2761][/us/stat/94/2761]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 641, Oct. 12, 1984, [98 Stat. 2122][/us/stat/98/2122]; renumbered § 292, [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7266(3), Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449]; renumbered § 299A, [Pub. L. 102–586][/us/pl/102/586], § 2(i)(1)(B), Nov. 4, 1992, [106 Stat. 5006][/us/stat/106/5006]; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12214, Nov. 2, 2002, [116 Stat. 1892][/us/stat/116/1892].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    2002—Subsec. (d). [Pub. L. 107–273, § 12214(1)][/us/pl/107/273/s12214/1], substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
+    2002—Subsec. (d). [Pub. L. 107–273][/us/pl/107/273], § 12214(1), substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
 
-    Subsec. (e). [Pub. L. 107–273, § 12214(2)][/us/pl/107/273/s12214/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–273][/us/pl/107/273], § 12214(2), added subsec. (e).
 
     1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473], in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
 
@@ -87,25 +87,25 @@
 ----------
 
 [/us/usc/t42/s5633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633%2Fa
-[/us/pl/93/415/s299A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs299A
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1129
-[/us/pl/95/115/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs6%2Fc
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1058
-[/us/pl/96/509/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs16
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2761
-[/us/pl/98/473/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs641
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2122
-[/us/pl/100/690/s7266/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7266%2F3
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4449
-[/us/pl/102/586/s2/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fi%2F1%2FB
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5006
-[/us/pl/107/273/s12214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12214
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1892
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/107/273/s12214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12214%2F1
-[/us/pl/107/273/s12214/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12214%2F2
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

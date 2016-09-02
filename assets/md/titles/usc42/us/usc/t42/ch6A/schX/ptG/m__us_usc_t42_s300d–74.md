@@ -17,7 +17,7 @@
 
     Nothing in this part may be construed to ease any restriction in Federal law applicable to the amount or percentage of funds appropriated to carry out this part that may be used to prepare or submit a report.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1274, as added [Pub. L. 108–194, § 3][/us/pl/108/194/s3], Dec. 19, 2003, [117 Stat. 2891][/us/stat/117/2891].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1274, as added [Pub. L. 108–194][/us/pl/108/194], § 3, Dec. 19, 2003, [117 Stat. 2891][/us/stat/117/2891].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194%2Fs3
+[/us/pl/108/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194
 [/us/stat/117/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2891
 
 

@@ -39,13 +39,13 @@
 
         Within one hundred and eighty days after December 11, 1980, the Administrator of the Environmental Protection Agency shall, after consultation with the Attorney General, establish and publish guidelines for using the imminent hazard, enforcement, and emergency response authorities of this section and other existing statutes administered by the Administrator of the Environmental Protection Agency to effectuate the responsibilities and powers created by this chapter. Such guidelines shall to the extent practicable be consistent with the national hazardous substance response plan, and shall include, at a minimum, the assignment of responsibility for coordinating response actions with the issuance of administrative orders, enforcement of standards and permits, the gathering of information, and other imminent hazard and emergency powers authorized by (1) sections 1321(c)(2), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  1318, 1319, and 1364(a) of title 33, (2) sections 6927, 6928, 6934, and 6973 of this title, (3) sections 300j–4 and 300i of this title, (4) sections 7413, 7414, and 7603 of this title, and (5) [section 2606 of title 15][/us/usc/t15/s2606].
 
-([Pub. L. 96–510, title I, § 106][/us/pl/96/510/s106], Dec. 11, 1980, [94 Stat. 2780][/us/stat/94/2780]; [Pub. L. 99–499, title I][/us/pl/99/499], §§ 106, 109(b), Oct. 17, 1986, [100 Stat. 1628][/us/stat/100/1628], 1633; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 106, Dec. 11, 1980, [94 Stat. 2780][/us/stat/94/2780]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], §§ 106, 109(b), Oct. 17, 1986, [100 Stat. 1628][/us/stat/100/1628], 1633; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which enacted this chapter, [section 6911a of this title][/us/usc/t42/s6911a], and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amended [section 6911 of this title][/us/usc/t42/s6911], [section 1364 of Title 33][/us/usc/t33/s1364], Navigation and Navigable Waters, and [section 11901 of Title 49][/us/usc/t49/s11901], Transportation, and enacted provisions set out as notes under [section 6911 of this title][/us/usc/t42/s6911] and sections 1 and 4611 of Title 26. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
-    [Section 1321(c)(2) of title 33][/us/usc/t33/s1321/c/2], referred to in subsec. (c), was amended generally by [Pub. L. 101–380, title IV, § 4201(a)][/us/pl/101/380/s4201/a], Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523]. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in [section 1321(d) of Title 33][/us/usc/t33/s1321/d], Navigation and Navigable Waters.
+    [Section 1321(c)(2) of title 33][/us/usc/t33/s1321/c/2], referred to in subsec. (c), was amended generally by [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4201(a), Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523]. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in [section 1321(d) of Title 33][/us/usc/t33/s1321/d], Navigation and Navigable Waters.
 
  __Amendments__ 
 
@@ -68,11 +68,11 @@
 [/us/usc/t42/s9607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607%2Fa
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
 [/us/usc/t15/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2606
-[/us/pl/96/510/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs106
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2780
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1628
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -83,7 +83,7 @@
 [/us/usc/t42/s6911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6911
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t33/s1321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fc%2F2
-[/us/pl/101/380/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F523
 [/us/usc/t33/s1321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fd
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499

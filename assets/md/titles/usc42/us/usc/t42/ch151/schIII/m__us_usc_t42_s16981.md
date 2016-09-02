@@ -73,15 +73,15 @@
 
             (C) making recommendations for continuing funding and the appropriate levels for such funding.
 
-([Pub. L. 109–248, title VI, § 621][/us/pl/109/248/s621], July 27, 2006, [120 Stat. 633][/us/stat/120/633]; [Pub. L. 110–400, § 4(a)][/us/pl/110/400/s4/a], Oct. 13, 2008, [122 Stat. 4227][/us/stat/122/4227].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 621, July 27, 2006, [120 Stat. 633][/us/stat/120/633]; [Pub. L. 110–400][/us/pl/110/400], § 4(a), Oct. 13, 2008, [122 Stat. 4227][/us/stat/122/4227].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(C). [Pub. L. 110–400, § 4(a)][/us/pl/110/400/s4/a], amended subpar. (C) generally. Prior to amendment, subpar. (C) set minimum standards for electronic monitoring units used in the pilot program.
+    2008—Subsec. (a)(1)(C). [Pub. L. 110–400][/us/pl/110/400], § 4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) set minimum standards for electronic monitoring units used in the pilot program.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–400, § 4(b)][/us/pl/110/400/s4/b], Oct. 13, 2008, [122 Stat. 4228][/us/stat/122/4228], provided that: 
+[Pub. L. 110–400][/us/pl/110/400], § 4(b), Oct. 13, 2008, [122 Stat. 4228][/us/stat/122/4228], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to grants provided on or after the date of the enactment of this Act \[Oct. 13, 2008\].”
 
@@ -92,12 +92,12 @@
 ----------
 ----------
 
-[/us/pl/109/248/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs621
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F633
-[/us/pl/110/400/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400%2Fs4%2Fa
+[/us/pl/110/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400
 [/us/stat/122/4227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4227
-[/us/pl/110/400/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400%2Fs4%2Fa
-[/us/pl/110/400/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400%2Fs4%2Fb
+[/us/pl/110/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400
+[/us/pl/110/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400
 [/us/stat/122/4228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4228
 
 

@@ -37,7 +37,7 @@
 
         (4) make such recommendations for legislation as may appear to be necessary to establish policies for solar resources involving Federal lands and waters, consistent with known inventories of various resource types, with the state of technologies for solar energy development, and with evaluation of the environmental impacts of such development.
 
-([Pub. L. 93–473, § 5][/us/pl/93/473/s5], Oct. 26, 1974, [88 Stat. 1433][/us/stat/88/1433].)
+([Pub. L. 93–473][/us/pl/93/473], § 5, Oct. 26, 1974, [88 Stat. 1433][/us/stat/88/1433].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs5
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1433
 
 

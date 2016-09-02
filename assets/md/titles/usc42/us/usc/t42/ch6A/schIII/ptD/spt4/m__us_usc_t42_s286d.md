@@ -31,7 +31,7 @@
 
         The Secretary, acting through the Center, shall coordinate the activities carried out under this section through the Center with related activities of the Director of the Agency for Healthcare Research and Quality.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 478A, as added [Pub. L. 103–43, title XIV, § 1421][/us/pl/103/43/s1421], June 10, 1993, [107 Stat. 171][/us/stat/107/171]; amended [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 478A, as added [Pub. L. 103–43, title XIV][/us/pl/103/43/tXIV], § 1421, June 10, 1993, [107 Stat. 171][/us/stat/107/171]; amended [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Construction__ 
 
-[Pub. L. 103–43, § 1422(b)][/us/pl/103/43/s1422/b], June 10, 1993, [107 Stat. 172][/us/stat/107/172], provided that: 
+[Pub. L. 103–43][/us/pl/103/43], § 1422(b), June 10, 1993, [107 Stat. 172][/us/stat/107/172], provided that: 
 
 > “The amendments made by [section 3 of Public Law 102–410][/us/pl/102/410/s3] ([106 Stat. 2094][/us/stat/106/2094]) \[amending [section 299a–1 of this title][/us/usc/t42/s299a–1]\], by section 1421 of this Act \[enacting this section\], and by subsection (a) of this section \[amending [section 299a–1 of this title][/us/usc/t42/s299a–1]\] may not be construed as terminating the information center on health care technologies and health care technology assessment established under section 904 of the Public Health Service Act \[[42 U.S.C. 299a–2][/us/usc/t42/s299a–2]\], as in effect on the day before the date of the enactment of [Public Law 102–410][/us/pl/102/410] \[Oct. 13, 1992\]. Such center shall be considered to be the center established in section 478A of the Public Health Service Act \[[42 U.S.C. 286d][/us/usc/t42/s286d]\], as added by section 1421 of this Act, and shall be subject to the provisions of such section 478A.”
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1421
+[/us/pl/103/43/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIV
 [/us/stat/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F171
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/pl/103/43/s1422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1422%2Fb
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/stat/107/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F172
 [/us/pl/102/410/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs3
 [/us/stat/106/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2094

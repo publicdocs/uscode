@@ -137,7 +137,7 @@
 
         In this section the definitions and grant conditions in [section 13925 of this title][/us/usc/t42/s13925] shall apply.
 
-([Pub. L. 109–162, title III, § 304][/us/pl/109/162/s304], Jan. 5, 2006, [119 Stat. 3013][/us/stat/119/3013]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(1), 4(b), (d), Aug. 12, 2006, [120 Stat. 750][/us/stat/120/750], 758; [Pub. L. 113–4, title III, § 303][/us/pl/113/4/s303], Mar. 7, 2013, [127 Stat. 87][/us/stat/127/87].)
+([Pub. L. 109–162, title III][/us/pl/109/162/tIII], § 304, Jan. 5, 2006, [119 Stat. 3013][/us/stat/119/3013]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(1), 4(b), (d), Aug. 12, 2006, [120 Stat. 750][/us/stat/120/750], 758; [Pub. L. 113–4, title III][/us/pl/113/4/tIII], § 303, Mar. 7, 2013, [127 Stat. 87][/us/stat/127/87].)
 
  __References in Text__ 
 
@@ -151,31 +151,31 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–4, § 303(1)(A)][/us/pl/113/4/s303/1/A], substituted “stalking on campuses,” for “stalking on campuses, and” and “crimes on” for “crimes against women on” and inserted “, and to develop and strengthen prevention education and awareness programs” before period at end.
+    2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], § 303(1)(A), substituted “stalking on campuses,” for “stalking on campuses, and” and “crimes on” for “crimes against women on” and inserted “, and to develop and strengthen prevention education and awareness programs” before period at end.
 
-    Subsec. (a)(2). [Pub. L. 113–4, § 303(1)(B)][/us/pl/113/4/s303/1/B], substituted “$300,000” for “$500,000”.
+    Subsec. (a)(2). [Pub. L. 113–4][/us/pl/113/4], § 303(1)(B), substituted “$300,000” for “$500,000”.
 
-    Subsec. (b)(2). [Pub. L. 113–4, § 303(2)(A)][/us/pl/113/4/s303/2/A], inserted “, strengthen,” after “To develop” and “including the use of technology to commit these crimes,” after “sexual assault and stalking,”.
+    Subsec. (b)(2). [Pub. L. 113–4][/us/pl/113/4], § 303(2)(A), inserted “, strengthen,” after “To develop” and “including the use of technology to commit these crimes,” after “sexual assault and stalking,”.
 
-    Subsec. (b)(4). [Pub. L. 113–4, § 303(2)(B)][/us/pl/113/4/s303/2/B], inserted “and population specific services” after “strengthen victim services programs” and “, regardless of whether the services are provided by the institution or in coordination with community victim service providers” before period at end, and substituted “victim service providers” for “entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs”.
+    Subsec. (b)(4). [Pub. L. 113–4][/us/pl/113/4], § 303(2)(B), inserted “and population specific services” after “strengthen victim services programs” and “, regardless of whether the services are provided by the institution or in coordination with community victim service providers” before period at end, and substituted “victim service providers” for “entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs”.
 
-    Subsec. (b)(9), (10). [Pub. L. 113–4, § 303(2)(C)][/us/pl/113/4/s303/2/C], added pars. (9) and (10).
+    Subsec. (b)(9), (10). [Pub. L. 113–4][/us/pl/113/4], § 303(2)(C), added pars. (9) and (10).
 
-    Subsec. (c)(2)(B). [Pub. L. 113–4, § 303(3)(A)(i)][/us/pl/113/4/s303/3/A/i], substituted “victim service providers” for “any non-profit, nongovernmental entities carrying out other victim services programs”.
+    Subsec. (c)(2)(B). [Pub. L. 113–4][/us/pl/113/4], § 303(3)(A)(i), substituted “victim service providers” for “any non-profit, nongovernmental entities carrying out other victim services programs”.
 
-    Subsec. (c)(2)(D) to (G). [Pub. L. 113–4, § 303(3)(A)(ii)][/us/pl/113/4/s303/3/A/ii], (iii), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+    Subsec. (c)(2)(D) to (G). [Pub. L. 113–4][/us/pl/113/4], § 303(3)(A)(ii), (iii), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-    Subsec. (c)(3). [Pub. L. 113–4, § 303(3)(B)][/us/pl/113/4/s303/3/B], substituted “2014 through 2018” for “2007 through 2011”.
+    Subsec. (c)(3). [Pub. L. 113–4][/us/pl/113/4], § 303(3)(B), substituted “2014 through 2018” for “2007 through 2011”.
 
-    Subsec. (d)(3), (4). [Pub. L. 113–4, § 303(4)][/us/pl/113/4/s303/4], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (d)(3), (4). [Pub. L. 113–4][/us/pl/113/4], § 303(4), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (e). [Pub. L. 113–4, § 303(5)][/us/pl/113/4/s303/5], substituted “there is authorized to be appropriated $12,000,000 for each of fiscal years 2014 through 2018.” for “there are authorized to be appropriated $12,000,000 for fiscal year 2007 and $15,000,000 for each of fiscal years 2008 through 2011.”
+    Subsec. (e). [Pub. L. 113–4][/us/pl/113/4], § 303(5), substituted “there is authorized to be appropriated $12,000,000 for each of fiscal years 2014 through 2018.” for “there are authorized to be appropriated $12,000,000 for fiscal year 2007 and $15,000,000 for each of fiscal years 2008 through 2011.”
 
-    2006—Subsec. (b)(2). [Pub. L. 109–271, § 4(b)][/us/pl/109/271/s4/b], inserted first sentence and struck out former first sentence which read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
+    2006—Subsec. (b)(2). [Pub. L. 109–271][/us/pl/109/271], § 4(b), inserted first sentence and struck out former first sentence which read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
 
-    Subsec. (d)(2)(A). [Pub. L. 109–271, § 4(d)][/us/pl/109/271/s4/d], struck out “biennial” before “performance report”.
+    Subsec. (d)(2)(A). [Pub. L. 109–271][/us/pl/109/271], § 4(d), struck out “biennial” before “performance report”.
 
-    Subsec. (g). [Pub. L. 109–271, § 1(c)(1)][/us/pl/109/271/s1/c/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–271][/us/pl/109/271], § 1(c)(1), added subsec. (g).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -195,29 +195,29 @@
 [/us/usc/t20/s1092/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Ff
 [/us/usc/t20/s1092/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Ff
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
-[/us/pl/109/162/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs304
+[/us/pl/109/162/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIII
 [/us/stat/119/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3013
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F750
-[/us/pl/113/4/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303
+[/us/pl/113/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIII
 [/us/stat/127/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F87
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs304
 [/us/pl/109/162/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs304
 [/us/usc/t20/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1152
-[/us/pl/113/4/s303/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F1%2FA
-[/us/pl/113/4/s303/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F1%2FB
-[/us/pl/113/4/s303/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F2%2FA
-[/us/pl/113/4/s303/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F2%2FB
-[/us/pl/113/4/s303/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F2%2FC
-[/us/pl/113/4/s303/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F3%2FA%2Fi
-[/us/pl/113/4/s303/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F3%2FA%2Fii
-[/us/pl/113/4/s303/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F3%2FB
-[/us/pl/113/4/s303/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F4
-[/us/pl/113/4/s303/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs303%2F5
-[/us/pl/109/271/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs4%2Fb
-[/us/pl/109/271/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs4%2Fd
-[/us/pl/109/271/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs1%2Fc%2F1
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

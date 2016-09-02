@@ -75,7 +75,7 @@
 
         A benefit under subsection (a) or (b) of this section shall be in addition to any amounts received by an eligible individual under [section 239c of this title][/us/usc/t42/s239c].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 266, as added [Pub. L. 108–20, § 2][/us/pl/108/20/s2], Apr. 30, 2003, [117 Stat. 643][/us/stat/117/643].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 266, as added [Pub. L. 108–20][/us/pl/108/20], § 2, Apr. 30, 2003, [117 Stat. 643][/us/stat/117/643].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t42/s239d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs239d
 [/us/usc/t42/s239c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs239c
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/20/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs2
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/stat/117/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F643
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

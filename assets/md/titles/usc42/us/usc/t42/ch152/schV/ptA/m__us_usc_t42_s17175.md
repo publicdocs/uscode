@@ -109,7 +109,7 @@
 
         (5) $70,000,000 for fiscal year 2012.
 
-([Pub. L. 110–140, title VI, § 607][/us/pl/110/140/s607], Dec. 19, 2007, [121 Stat. 1677][/us/stat/121/1677].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 607, Dec. 19, 2007, [121 Stat. 1677][/us/stat/121/1677].)
 
 ----------
 
@@ -118,7 +118,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs607
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1677
 
 

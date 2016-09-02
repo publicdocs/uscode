@@ -89,7 +89,7 @@
 
         The term “underground storage tank” shall not include any pipes connected to any tank which is described in subparagraphs (A) through (I).
 
-([Pub. L. 89–272, title II, § 9001][/us/pl/89/272/s9001], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3277][/us/stat/98/3277]; amended [Pub. L. 99–499, title II, § 205(a)][/us/pl/99/499/s205/a], Oct. 17, 1986, [100 Stat. 1696][/us/stat/100/1696]; [Pub. L. 102–508, title III, § 302][/us/pl/102/508/s302], Oct. 24, 1992, [106 Stat. 3307][/us/stat/106/3307]; [Pub. L. 103–429, § 7(d)][/us/pl/103/429/s7/d], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 109–58, title XV][/us/pl/109/58], §§ 1532(a), 1533(1), Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104], 1105.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9001, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3277][/us/stat/98/3277]; amended [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 205(a), Oct. 17, 1986, [100 Stat. 1696][/us/stat/100/1696]; [Pub. L. 102–508, title III][/us/pl/102/508/tIII], § 302, Oct. 24, 1992, [106 Stat. 3307][/us/stat/106/3307]; [Pub. L. 103–429][/us/pl/103/429], § 7(d), Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], §§ 1532(a), 1533(1), Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104], 1105.)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 
  __Aboveground Storage Tank Grant Program__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XII, § 1201\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–313, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XII, § 1201\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–313, provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -143,7 +143,7 @@
 
 >         “(3)  __Denali Commission__  __.—__ 
 
->         The term ‘Denali Commission’ means the commission established by section 303(a) of the Denali Commission Act of 1998 \[[Pub. L. 105–277, div. C, title III][/us/pl/105/277]\] ([42 U.S.C. 3121][/us/usc/t42/s3121] note).
+>         The term ‘Denali Commission’ means the commission established by section 303(a) of the Denali Commission Act of 1998 \[[Pub. L. 105–277, div. C, title III][/us/pl/105/277/dC/tIII]\] ([42 U.S.C. 3121][/us/usc/t42/s3121] note).
 
 >         “(4)  __Federal environmental law__  __.—__ 
 
@@ -254,16 +254,16 @@
 [/us/usc/t42/s6903/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F15
 [/us/usc/t42/s9601/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F14
 [/us/usc/t26/s9508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9508
-[/us/pl/89/272/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9001
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3277
-[/us/pl/99/499/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fa
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1696
-[/us/pl/102/508/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508%2Fs302
+[/us/pl/102/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508%2FtIII
 [/us/stat/106/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3307
-[/us/pl/103/429/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fd
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4389
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1104
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
@@ -273,9 +273,9 @@
 [/us/pl/102/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIII
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601

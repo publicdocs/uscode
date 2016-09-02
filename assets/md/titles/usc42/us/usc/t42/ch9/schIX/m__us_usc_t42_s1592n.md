@@ -33,11 +33,11 @@
 
     (h) “Veteran” shall mean a person, or the family of a person, who has served in the active military or naval service of the United States at any time (i) on or after September 16, 1940, and prior to July 26, 1947, (ii) on or after April 6, 1917, and prior to November 11, 1918, or (iii) on or after June 27, 1950, and prior to such date thereafter as shall be determined by the President, and who shall have been discharged or released therefrom under conditions other than dishonorable or who shall be still serving therein. The term shall also include the family of a person who served in the active military or naval service of the United States within any such period and who shall have died of causes determined by the Secretary of Veterans Affairs to have been service-connected.
 
-([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 315, [65 Stat. 309][/us/stat/65/309]; [June 30, 1953, ch. 170, § 18][/us/act/1953-06-30/ch170/s18], [67 Stat. 126][/us/stat/67/126]; [Pub. L. 102–54, § 13(q)(7)(B)][/us/pl/102/54/s13/q/7/B], June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
+([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 315, [65 Stat. 309][/us/stat/65/309]; [June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 18, [67 Stat. 126][/us/stat/67/126]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(7)(B), June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
 
  __References in Text__ 
 
-    The Mutual Defense Assistance Act of 1949, referred to in subsec. (e), is [act Oct. 6, 1949, ch. 626][/us/act/1949-10-06/ch626], [63 Stat. 714][/us/stat/63/714], as amended, which was classified generally to chapter 20 (§ 1571 et seq.) of Title 22, Foreign Relations and Intercourse, prior to its repeal by [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a)(5), (9) to (11), [68 Stat. 861][/us/stat/68/861]. For complete classification of this Act to the Code, see Tables.
+    The Mutual Defense Assistance Act of 1949, referred to in subsec. (e), is [act Oct. 6, 1949, ch. 626][/us/act/1949-10-06/ch626], [63 Stat. 714][/us/stat/63/714], as amended, which was classified generally to chapter 20 (§ 1571 et seq.) of Title 22, Foreign Relations and Intercourse, prior to its repeal by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a)(5), (9) to (11), [68 Stat. 861][/us/stat/68/861]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -58,13 +58,13 @@
 
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F309
-[/us/act/1953-06-30/ch170/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs18
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F126
-[/us/pl/102/54/s13/q/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F7%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
 [/us/act/1949-10-06/ch626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-06%2Fch626
 [/us/stat/63/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F714
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/act/1954-08-26/ch937/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937%2FtV
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 

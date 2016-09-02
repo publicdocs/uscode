@@ -87,7 +87,7 @@
 
             Of the amounts appropriated under paragraph (1) for a fiscal year, not less than $300,000 shall, for purposes relating to fetal alcohol syndrome and alcohol-related birth defects, be made available for collaborative, coordinated interagency efforts with the National Institute on Alcohol Abuse and Alcoholism, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the Health Resources and Services Administration, the Agency for Healthcare Research and Quality, the Centers for Disease Control and Prevention, the Department of Education, and the Department of Justice.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 519C, as added [Pub. L. 106–310, div. B, title XXXI, § 3110][/us/pl/106/310/s3110], Oct. 17, 2000, [114 Stat. 1183][/us/stat/114/1183]; amended [Pub. L. 110–154, § 1(b)(9)][/us/pl/110/154/s1/b/9], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 519C, as added [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3110, Oct. 17, 2000, [114 Stat. 1183][/us/stat/114/1183]; amended [Pub. L. 110–154][/us/pl/110/154], § 1(b)(9), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
 
  __Amendments__ 
 
@@ -101,9 +101,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3110
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1183
-[/us/pl/110/154/s1/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fb%2F9
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 

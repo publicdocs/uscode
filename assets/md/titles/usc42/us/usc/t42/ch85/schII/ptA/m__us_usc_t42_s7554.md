@@ -75,7 +75,7 @@
 
             The term “low-polluting fuel” means methanol, ethanol, propane, or natural gas, or any comparably low-polluting fuel. In determining whether a fuel is comparably low-polluting, the Administrator shall consider both the level of emissions of air pollutants from vehicles using the fuel and the contribution of such emissions to ambient levels of air pollutants. For purposes of this paragraph, the term “methanol” includes any fuel which contains at least 85 percent methanol unless the Administrator increases such percentage as he deems appropriate to protect public health and welfare.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 219, as added [Pub. L. 101–549, title II, § 227][/us/pl/101/549/s227]\[(a)\], Nov. 15, 1990, [104 Stat. 2505][/us/stat/104/2505].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 219, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 227\[(a)\], Nov. 15, 1990, [104 Stat. 2505][/us/stat/104/2505].)
 
 ----------
 
@@ -93,7 +93,7 @@
 [/us/usc/t42/s7525/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525%2Fh
 [/us/usc/t42/s7521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs227
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2505
 
 

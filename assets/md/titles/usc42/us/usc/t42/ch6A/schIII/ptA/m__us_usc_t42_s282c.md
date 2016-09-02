@@ -17,7 +17,7 @@
 
     The Director of the National Institutes of Health (“NIH”) shall require in the current fiscal year and thereafter that all investigators funded by the NIH submit or have submitted for them to the National Library of Medicine’s PubMed Central an electronic version of their final, peer-reviewed manuscripts upon acceptance for publication, to be made publicly available no later than 12 months after the official date of publication: Provided, That the NIH shall implement the public access policy in a manner consistent with copyright law.
 
-([Pub. L. 111–8, div. F, title II, § 217][/us/pl/111/8/s217], Mar. 11, 2009, [123 Stat. 782][/us/stat/123/782].)
+([Pub. L. 111–8, div. F, title II][/us/pl/111/8/dF/tII], § 217, Mar. 11, 2009, [123 Stat. 782][/us/stat/123/782].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/8/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs217
+[/us/pl/111/8/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtII
 [/us/stat/123/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F782
 
 

@@ -23,7 +23,7 @@
 
         If any regulation in effect prior to August 7, 1977, to prevent significant deterioration of air quality would be inconsistent with the requirements of section 7472(a), section 7473(b) or [section 7474(a) of this title][/us/usc/t42/s7474/a], then such regulations shall be deemed amended so as to conform with such requirements. In the case of a facility on which construction was commenced (in accordance with the definition of “commenced” in [section 7479(2) of this title][/us/usc/t42/s7479/2]) after June 1, 1975, and prior to August 7, 1977, the review and permitting of such facility shall be in accordance with the regulations for the prevention of significant deterioration in effect prior to August 7, 1977.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 168, as added [Pub. L. 95–95, title I, § 127(a)][/us/pl/95/95/s127/a], Aug. 7, 1977, [91 Stat. 740][/us/stat/91/740]; amended [Pub. L. 95–190, § 14(a)(52)][/us/pl/95/190/s14/a/52], Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 168, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 127(a), Aug. 7, 1977, [91 Stat. 740][/us/stat/91/740]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(52), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 [/us/usc/t42/s7474/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7474%2Fa
 [/us/usc/t42/s7479/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7479%2F2
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs127%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F740
-[/us/pl/95/190/s14/a/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F52
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1402
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/usc/t42/s7479/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7479%2F2

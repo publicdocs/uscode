@@ -35,7 +35,7 @@
 
         Nothing in this section shall be construed as prohibiting the Secretary from renewing contracts under this part in accordance with criteria set forth in a provision of this part other than this section.
 
-([Pub. L. 100–77, title IV, § 429][/us/pl/100/77/s429], as added [Pub. L. 111–22, div. B, title III, § 1305(3)][/us/pl/111/22/s1305/3], May 20, 2009, [123 Stat. 1695][/us/stat/123/1695].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 429, as added [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1305(3), May 20, 2009, [123 Stat. 1695][/us/stat/123/1695].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 429 of Pub. L. 100–77][/us/pl/100/77/s429] was classified to [section 11389 of this title][/us/usc/t42/s11389] prior to repeal by [Pub. L. 111–22, div. B, title III, § 1305(1)][/us/pl/111/22/s1305/1], May 20, 2009, [123 Stat. 1690][/us/stat/123/1690].
+    A prior [section 429 of Pub. L. 100–77][/us/pl/100/77/s429] was classified to [section 11389 of this title][/us/usc/t42/s11389] prior to repeal by [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1305(1), May 20, 2009, [123 Stat. 1690][/us/stat/123/1690].
 
  __Effective Date__ 
 
@@ -57,14 +57,14 @@
 ----------
 
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/100/77/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs429
-[/us/pl/111/22/s1305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1305%2F3
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1695
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
 [/us/pl/100/77/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs429
 [/us/usc/t42/s11389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11389
-[/us/pl/111/22/s1305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1305%2F1
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1690
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

@@ -35,7 +35,7 @@
 
         On the date of transfer of jurisdiction of the reserve, the Secretary of the Navy shall transfer to the Secretary of the Interior all unexpended funds previously appropriated for use in connection with the reserve and all civilian personnel ceilings assigned by the Secretary of the Navy to the management and operation of the reserve as of January 1, 1976.
 
-([Pub. L. 94–258, title I, § 103][/us/pl/94/258/s103], Apr. 5, 1976, [90 Stat. 303][/us/stat/90/303].)
+([Pub. L. 94–258, title I][/us/pl/94/258/tI], § 103, Apr. 5, 1976, [90 Stat. 303][/us/stat/90/303].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/94/258/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs103
+[/us/pl/94/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtI
 [/us/stat/90/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F303
 
 

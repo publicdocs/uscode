@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Section, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title X, § 1005, [49 Stat. 647][/us/stat/49/647], made available $30,000 for the fiscal year ending June 30, 1936, for expenses in administering sections 1201 to 1204 of this title.
+    Section, [act Aug. 14, 1935, ch. 531, title X][/us/act/1935-08-14/ch531/tX], § 1005, [49 Stat. 647][/us/stat/49/647], made available $30,000 for the fiscal year ending June 30, 1936, for expenses in administering sections 1201 to 1204 of this title.
 
  __Repeals__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section was repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section was repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtX
 [/us/stat/49/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F647
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 
 

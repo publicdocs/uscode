@@ -45,7 +45,7 @@
 
             In any action or proceeding to enforce this section, the court shall award the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
 
-([Pub. L. 93–288, title VII, § 706][/us/pl/93/288/s706], as added [Pub. L. 109–295, title V, § 557][/us/pl/109/295/s557], Oct. 4, 2006, [120 Stat. 1391][/us/stat/120/1391].)
+([Pub. L. 93–288, title VII][/us/pl/93/288/tVII], § 706, as added [Pub. L. 109–295, title V][/us/pl/109/295/tV], § 557, Oct. 4, 2006, [120 Stat. 1391][/us/stat/120/1391].)
 
 ----------
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs706
-[/us/pl/109/295/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs557
+[/us/pl/93/288/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVII
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1391
 
 

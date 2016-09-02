@@ -55,11 +55,11 @@
 
         In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 507, as added [Pub. L. 102–321, title I, § 107(2)][/us/pl/102/321/s107/2], July 10, 1992, [106 Stat. 335][/us/stat/106/335]; amended [Pub. L. 106–310, div. B, title XXXI, § 3112(a)][/us/pl/106/310/s3112/a], Oct. 17, 2000, [114 Stat. 1188][/us/stat/114/1188]; [Pub. L. 108–173, title IX, § 900(e)(2)(B)][/us/pl/108/173/s900/e/2/B], Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 507, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 107(2), July 10, 1992, [106 Stat. 335][/us/stat/106/335]; amended [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3112(a), Oct. 17, 2000, [114 Stat. 1188][/us/stat/114/1188]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(2)(B), Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
 
  __Prior Provisions__ 
 
-    A prior section 290bb, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 510, formerly [Pub. L. 91–616, title V, § 501][/us/pl/91/616/s501], as added [Pub. L. 94–371, § 7][/us/pl/94/371/s7], July 26, 1976, [90 Stat. 1038][/us/stat/90/1038]; amended [Pub. L. 95–622, title II, § 268(c)][/us/pl/95/622/s268/c], (d), Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437]; [Pub. L. 96–180, § 14][/us/pl/96/180/s14], Jan. 2, 1980, [93 Stat. 1305][/us/stat/93/1305]; renumbered § 510 of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24, § 2(b)(9)][/us/pl/98/24/s2/b/9], [97 Stat. 179][/us/stat/97/179]; Oct. 19, 1984, [Pub. L. 98–509, title II][/us/pl/98/509], §§ 205(a)(1), 206(c)(1), [98 Stat. 2361][/us/stat/98/2361], 2362, related to encouragement of alcohol abuse and alcoholism research, prior to repeal by [Pub. L. 102–321, § 122(b)(1)][/us/pl/102/321/s122/b/1]. Prior to repeal, section 510(b) of act July 1, 1944, was renumbered section 464H(b) by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 285n(b) of this title][/us/usc/t42/s285n/b].
+    A prior section 290bb, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 510, formerly [Pub. L. 91–616, title V][/us/pl/91/616/tV], § 501, as added [Pub. L. 94–371][/us/pl/94/371], § 7, July 26, 1976, [90 Stat. 1038][/us/stat/90/1038]; amended [Pub. L. 95–622, title II][/us/pl/95/622/tII], § 268(c), (d), Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437]; [Pub. L. 96–180][/us/pl/96/180], § 14, Jan. 2, 1980, [93 Stat. 1305][/us/stat/93/1305]; renumbered § 510 of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24][/us/pl/98/24], § 2(b)(9), [97 Stat. 179][/us/stat/97/179]; Oct. 19, 1984, [Pub. L. 98–509, title II][/us/pl/98/509/tII], §§ 205(a)(1), 206(c)(1), [98 Stat. 2361][/us/stat/98/2361], 2362, related to encouragement of alcohol abuse and alcoholism research, prior to repeal by [Pub. L. 102–321][/us/pl/102/321], § 122(b)(1). Prior to repeal, section 510(b) of act July 1, 1944, was renumbered section 464H(b) by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 285n(b) of this title][/us/usc/t42/s285n/b].
 
     A prior section 507 of act July 1, 1944, which was classified to [section 290aa–5 of this title][/us/usc/t42/s290aa–5], was renumbered section 504 of act July 1, 1944, by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 290aa–3 of this title][/us/usc/t42/s290aa–3].
 
@@ -67,15 +67,15 @@
 
     2003—Subsec. (b)(6). [Pub. L. 108–173][/us/pl/108/173] substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
 
-    2000—Subsec. (b)(2) to (6). [Pub. L. 106–310, § 3112(a)(1)][/us/pl/106/310/s3112/a/1], (2), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+    2000—Subsec. (b)(2) to (6). [Pub. L. 106–310][/us/pl/106/310], § 3112(a)(1), (2), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
-    Subsec. (b)(7). [Pub. L. 106–310, § 3112(a)(1)][/us/pl/106/310/s3112/a/1], (3), redesignated par. (5) as (7) and substituted “services” for “services, and monitor the use of revolving loan funds pursuant to [section 300x–25 of this title][/us/usc/t42/s300x–25]”. Former par. (7) redesignated (9).
+    Subsec. (b)(7). [Pub. L. 106–310][/us/pl/106/310], § 3112(a)(1), (3), redesignated par. (5) as (7) and substituted “services” for “services, and monitor the use of revolving loan funds pursuant to [section 300x–25 of this title][/us/usc/t42/s300x–25]”. Former par. (7) redesignated (9).
 
-    Subsec. (b)(8) to (12). [Pub. L. 106–310, § 3112(a)(1)][/us/pl/106/310/s3112/a/1], redesignated pars. (6) to (10) as (8) to (12), respectively. Former pars. (11) and (12) redesignated (13) and (14), respectively.
+    Subsec. (b)(8) to (12). [Pub. L. 106–310][/us/pl/106/310], § 3112(a)(1), redesignated pars. (6) to (10) as (8) to (12), respectively. Former pars. (11) and (12) redesignated (13) and (14), respectively.
 
-    Subsec. (b)(13). [Pub. L. 106–310, § 3112(a)(1)][/us/pl/106/310/s3112/a/1], (4), redesignated par. (11) as (13) and substituted “treatment, which shall” for “treatment, including the effect of living in housing provided by programs established under [section 300x–25 of this title][/us/usc/t42/s300x–25], which shall”.
+    Subsec. (b)(13). [Pub. L. 106–310][/us/pl/106/310], § 3112(a)(1), (4), redesignated par. (11) as (13) and substituted “treatment, which shall” for “treatment, including the effect of living in housing provided by programs established under [section 300x–25 of this title][/us/usc/t42/s300x–25], which shall”.
 
-    Subsec. (b)(14). [Pub. L. 106–310, § 3112(a)(1)][/us/pl/106/310/s3112/a/1], (5), redesignated par. (12) as (14) and substituted “paragraph (13)” for “paragraph (11)”.
+    Subsec. (b)(14). [Pub. L. 106–310][/us/pl/106/310], § 3112(a)(1), (5), redesignated par. (12) as (14) and substituted “paragraph (13)” for “paragraph (11)”.
 
  __Effective Date__ 
 
@@ -92,38 +92,38 @@
 [/us/usc/t42/s300x–32/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9332%2Fa%2F6
 [/us/usc/t42/s300x–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9325
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs107%2F2
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F335
-[/us/pl/106/310/s3112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3112%2Fa
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1188
-[/us/pl/108/173/s900/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F2%2FB
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2372
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/616/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs501
-[/us/pl/94/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs7
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/91/616/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtV
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1038
-[/us/pl/95/622/s268/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs268%2Fc
+[/us/pl/95/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtII
 [/us/stat/92/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3437
-[/us/pl/96/180/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs14
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1305
-[/us/pl/98/24/s2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F9
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F179
-[/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
+[/us/pl/98/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtII
 [/us/stat/98/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2361
-[/us/pl/102/321/s122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs122%2Fb%2F1
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s285n/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285n%2Fb
 [/us/usc/t42/s290aa–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%933
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/106/310/s3112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3112%2Fa%2F1
-[/us/pl/106/310/s3112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3112%2Fa%2F1
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s300x–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9325
-[/us/pl/106/310/s3112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3112%2Fa%2F1
-[/us/pl/106/310/s3112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3112%2Fa%2F1
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s300x–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9325
-[/us/pl/106/310/s3112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3112%2Fa%2F1
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
 

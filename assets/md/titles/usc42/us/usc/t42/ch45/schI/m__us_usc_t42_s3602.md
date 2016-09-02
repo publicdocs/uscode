@@ -77,13 +77,13 @@
 
     (o) “Prevailing party” has the same meaning as such term has in [section 1988 of this title][/us/usc/t42/s1988].
 
-([Pub. L. 90–284, title VIII, § 802][/us/pl/90/284/s802], Apr. 11, 1968, [82 Stat. 81][/us/stat/82/81]; [Pub. L. 95–598, title III, § 331][/us/pl/95/598/s331], Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 100–430, § 5][/us/pl/100/430/s5], Sept. 13, 1988, [102 Stat. 1619][/us/stat/102/1619].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 802, Apr. 11, 1968, [82 Stat. 81][/us/stat/82/81]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 331, Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 100–430][/us/pl/100/430], § 5, Sept. 13, 1988, [102 Stat. 1619][/us/stat/102/1619].)
 
  __Amendments__ 
 
-    1988—Subsec. (f). [Pub. L. 100–430, § 5(a)][/us/pl/100/430/s5/a], substituted “3606, or 3617” for “or 3606”.
+    1988—Subsec. (f). [Pub. L. 100–430][/us/pl/100/430], § 5(a), substituted “3606, or 3617” for “or 3606”.
 
-    Subsecs. (h) to (o). [Pub. L. 100–430, § 5(b)][/us/pl/100/430/s5/b], added subsecs. (h) to (o).
+    Subsecs. (h) to (o). [Pub. L. 100–430][/us/pl/100/430], § 5(b), added subsecs. (h) to (o).
 
     1978—Subsec. (d). [Pub. L. 95–598][/us/pl/95/598] substituted “trustees in cases under title 11” for “trustees in bankruptcy”.
 
@@ -112,14 +112,14 @@
 [/us/usc/t42/s3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3610
 [/us/usc/t42/s3610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3610%2Fa
 [/us/usc/t42/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1988
-[/us/pl/90/284/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs802
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81
-[/us/pl/95/598/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs331
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2679
-[/us/pl/100/430/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs5
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1619
-[/us/pl/100/430/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs5%2Fa
-[/us/pl/100/430/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs5%2Fb
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa

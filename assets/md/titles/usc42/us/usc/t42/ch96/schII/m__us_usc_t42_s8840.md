@@ -17,7 +17,7 @@
 
     No financial assistance may be committed to or made under this subchapter after September 30, 1984. This section shall not be construed to affect the authority of the Secretary of Energy to spend funds after such date pursuant to any award of financial assistance made on or before that date.
 
-([Pub. L. 96–294, title II, § 240][/us/pl/96/294/s240], June 30, 1980, [94 Stat. 705][/us/stat/94/705].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 240, June 30, 1980, [94 Stat. 705][/us/stat/94/705].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs240
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F705
 
 

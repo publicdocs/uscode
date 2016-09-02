@@ -209,7 +209,7 @@
 
                 It shall be considered discrimination for purposes of [section 12132 of this title][/us/usc/t42/s12132] and [section 794 of title 29][/us/usc/t29/s794] for an owner, or person in control, of a station governed by subparagraph (A) or (B) to fail to provide reasonable cooperation to a responsible person with respect to such station in that responsible person’s efforts to comply with such subparagraph. An owner, or person in control, of a station shall be liable to a responsible person for any failure to provide reasonable cooperation as required by this subparagraph. Failure to receive reasonable cooperation required by this subparagraph shall not be a defense to a claim of discrimination under this chapter.
 
-([Pub. L. 101–336, title II, § 242][/us/pl/101/336/s242], July 26, 1990, [104 Stat. 347][/us/stat/104/347].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 242, July 26, 1990, [104 Stat. 347][/us/stat/104/347].)
 
  __References in Text__ 
 
@@ -262,7 +262,7 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12132
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/101/336/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs242
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F347
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

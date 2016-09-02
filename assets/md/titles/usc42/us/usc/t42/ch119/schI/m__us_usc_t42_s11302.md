@@ -77,7 +77,7 @@
 
         Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall be considered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.
 
-([Pub. L. 100–77, title I, § 103][/us/pl/100/77/s103], July 22, 1987, [101 Stat. 485][/us/stat/101/485]; [Pub. L. 101–625, title VIII, § 822][/us/pl/101/625/s822], Nov. 28, 1990, [104 Stat. 4355][/us/stat/104/4355]; [Pub. L. 101–645, title VI, § 602][/us/pl/101/645/s602], Nov. 29, 1990, [104 Stat. 4734][/us/stat/104/4734]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(41), (f)(32)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–22, div. B, § 1003(a)][/us/pl/111/22/s1003/a], title V, § 1502(b), May 20, 2009, [123 Stat. 1664][/us/stat/123/1664], 1701; [Pub. L. 113–128, title V, § 512(s)][/us/pl/113/128/s512/s], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+([Pub. L. 100–77, title I][/us/pl/100/77/tI], § 103, July 22, 1987, [101 Stat. 485][/us/stat/101/485]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 822, Nov. 28, 1990, [104 Stat. 4355][/us/stat/104/4355]; [Pub. L. 101–645, title VI][/us/pl/101/645/tVI], § 602, Nov. 29, 1990, [104 Stat. 4734][/us/stat/104/4734]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(41), (f)(32)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–22, div. B][/us/pl/111/22/dB], § 1003(a), title V, § 1502(b), May 20, 2009, [123 Stat. 1664][/us/stat/123/1664], 1701; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(s), July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 
     2009—[Pub. L. 111–22][/us/pl/111/22] added subsecs. (a), (b), and (e), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which defined “homeless” or “homeless individual or homeless person”.
 
-    1998—Subsec. (b)(2). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(32)\], struck out “the Job Training Partnership Act or” after “assistance under”.
+    1998—Subsec. (b)(2). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(32)\], struck out “the Job Training Partnership Act or” after “assistance under”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(41)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(41)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
 
     1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625] inserted “or homeless person” after “homeless individual” in introductory provisions.
 
@@ -105,7 +105,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–22, div. B, title V, § 1503][/us/pl/111/22/s1503], May 20, 2009, [123 Stat. 1702][/us/stat/123/1702], provided that: 
+[Pub. L. 111–22, div. B, title V][/us/pl/111/22/dB/tV], § 1503, May 20, 2009, [123 Stat. 1702][/us/stat/123/1702], provided that: 
 
 > “Except as specifically provided otherwise in this division \[see Short Title of 2009 Amendment note set out under [section 11301 of this title][/us/usc/t42/s11301]\], this division and the amendments made by this division shall take effect on, and shall apply beginning on—
 
@@ -121,13 +121,13 @@
 
  __Regulations__ 
 
-[Pub. L. 111–22, div. B, § 1003(b)][/us/pl/111/22/s1003/b], May 20, 2009, [123 Stat. 1666][/us/stat/123/1666], provided that: 
+[Pub. L. 111–22, div. B][/us/pl/111/22/dB], § 1003(b), May 20, 2009, [123 Stat. 1666][/us/stat/123/1666], provided that: 
 
 > “Not later than the expiration of the 6-month period beginning upon the date of the enactment of this division \[May 20, 2009\], the Secretary of Housing and Urban Development shall issue regulations that provide sufficient guidance to recipients of funds under title IV of the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11360][/us/usc/t42/s11360] et seq.\] to allow uniform and consistent implementation of the requirements of section 103 of such Act \[[42 U.S.C. 11302][/us/usc/t42/s11302]\], as amended by subsection (a) of this section. This subsection shall take effect on the date of the enactment of this division.”
 
  __Clarification of Effect on Other Laws__ 
 
-[Pub. L. 111–22, div. B, § 1003(c)][/us/pl/111/22/s1003/c], May 20, 2009, [123 Stat. 1666][/us/stat/123/1666], provided that: 
+[Pub. L. 111–22, div. B][/us/pl/111/22/dB], § 1003(c), May 20, 2009, [123 Stat. 1666][/us/stat/123/1666], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section to section 103 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11302][/us/usc/t42/s11302]) may not be construed to affect, alter, limit, annul, or supersede any other provision of Federal law providing a definition of ‘homeless’, ‘homeless individual’, or ‘homeless person’ for purposes other than such Act \[[42 U.S.C. 11301][/us/usc/t42/s11301] et seq.\], except to the extent that such provision refers to such section 103 or the definition provided in such section 103.”
 
@@ -139,17 +139,17 @@
 ----------
 
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
-[/us/pl/100/77/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs103
+[/us/pl/100/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtI
 [/us/stat/101/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F485
-[/us/pl/101/625/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs822
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4355
-[/us/pl/101/645/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs602
+[/us/pl/101/645/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtVI
 [/us/stat/104/4734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4734
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/111/22/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1003%2Fa
+[/us/pl/111/22/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB
 [/us/stat/123/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1664
-[/us/pl/113/128/s512/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fs
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
@@ -159,14 +159,14 @@
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
+[/us/pl/111/22/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtV
 [/us/stat/123/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1702
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
@@ -174,11 +174,11 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t5/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3502
-[/us/pl/111/22/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1003%2Fb
+[/us/pl/111/22/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB
 [/us/stat/123/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1666
 [/us/usc/t42/s11360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
-[/us/pl/111/22/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1003%2Fc
+[/us/pl/111/22/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB
 [/us/stat/123/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1666
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301

@@ -17,7 +17,7 @@
 
     No person in the United States shall on the grounds of race, color, national origin, religion, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under this subchapter. Any prohibition against discrimination on the basis of age under the Age Discrimination Act of 1975 \[[42 U.S.C. 6101][/us/usc/t42/s6101] et seq.\] or with respect to an otherwise qualified handicapped individual as provided in [section 794 of title 29][/us/usc/t29/s794] shall also apply to any such program or activity. The Secretary may waive this section in connection with the use of funds made available under this subchapter on lands set aside under the Hawaiian Homes Commission Act, 1920 ([42 Stat. 108][/us/stat/42/108]).
 
-([Pub. L. 101–625, title II, § 282][/us/pl/101/625/s282], Nov. 28, 1990, [104 Stat. 4125][/us/stat/104/4125]; [Pub. L. 104–204, title II, § 213][/us/pl/104/204/s213], Sept. 26, 1996, [110 Stat. 2904][/us/stat/110/2904].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 282, Nov. 28, 1990, [104 Stat. 4125][/us/stat/104/4125]; [Pub. L. 104–204, title II][/us/pl/104/204/tII], § 213, Sept. 26, 1996, [110 Stat. 2904][/us/stat/110/2904].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
-[/us/pl/101/625/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs282
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4125
-[/us/pl/104/204/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs213
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2904
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728

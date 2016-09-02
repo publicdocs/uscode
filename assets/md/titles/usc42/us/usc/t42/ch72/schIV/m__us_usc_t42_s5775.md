@@ -65,23 +65,23 @@
 
         In order to receive assistance under this subchapter for a fiscal year, applicants shall give assurance that they will expend, to the greatest extent practicable, for such fiscal year an amount of funds (without regard to any funds received under any Federal law) that is not less than the amount of funds they received in the preceding fiscal year from State, local, and private sources.
 
-([Pub. L. 93–415, title IV, § 405][/us/pl/93/415/s405], formerly § 406, as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2128][/us/stat/98/2128]; renumbered § 405 and amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7287, 7290(a), Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460], 4461; [Pub. L. 101–204, title X, § 1004(3)][/us/pl/101/204/s1004/3], Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71, § 2(d)][/us/pl/106/71/s2/d], Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035]; [Pub. L. 113–38, § 2(c)][/us/pl/113/38/s2/c], Sept. 30, 2013, [127 Stat. 528][/us/stat/127/528].)
+([Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 405, formerly § 406, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 660, Oct. 12, 1984, [98 Stat. 2128][/us/stat/98/2128]; renumbered § 405 and amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7287, 7290(a), Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460], 4461; [Pub. L. 101–204, title X][/us/pl/101/204/tX], § 1004(3), Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71][/us/pl/106/71], § 2(d), Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035]; [Pub. L. 113–38][/us/pl/113/38], § 2(c), Sept. 30, 2013, [127 Stat. 528][/us/stat/127/528].)
 
  __Prior Provisions__ 
 
-    A prior [section 405 of Pub. L. 93–415][/us/pl/93/415/s405] was classified to [section 5774 of this title][/us/usc/t42/s5774] prior to repeal by [Pub. L. 100–690, title VII, § 7286][/us/pl/100/690/s7286], Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460].
+    A prior [section 405 of Pub. L. 93–415][/us/pl/93/415/s405] was classified to [section 5774 of this title][/us/usc/t42/s5774] prior to repeal by [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7286, Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–38, § 2(c)(1)][/us/pl/113/38/s2/c/1], inserted “schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers,” after “children,”.
+    2013—Subsec. (a)(1). [Pub. L. 113–38][/us/pl/113/38], § 2(c)(1), inserted “schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers,” after “children,”.
 
-    Subsec. (a)(3). [Pub. L. 113–38, § 2(c)(2)][/us/pl/113/38/s2/c/2], inserted “and schools” after “communities”.
+    Subsec. (a)(3). [Pub. L. 113–38][/us/pl/113/38], § 2(c)(2), inserted “and schools” after “communities”.
 
     1999—Subsec. (a). [Pub. L. 106–71][/us/pl/106/71] inserted “the Center and with” before “public agencies” in introductory provisions.
 
     1989—Subsec. (a)(9). [Pub. L. 101–204][/us/pl/101/204] substituted “clearinghouses” for “clearinghouse”.
 
-    1988—Subsec. (a)(7) to (9). [Pub. L. 100–690, § 7287][/us/pl/100/690/s7287], added pars. (7) to (9).
+    1988—Subsec. (a)(7) to (9). [Pub. L. 100–690][/us/pl/100/690], § 7287, added pars. (7) to (9).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -95,26 +95,26 @@
 ----------
 
 [/us/usc/t42/s5772/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5772%2F1%2FA
-[/us/pl/93/415/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs405
-[/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2128
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4460
-[/us/pl/101/204/s1004/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1004%2F3
+[/us/pl/101/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtX
 [/us/stat/103/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1828
-[/us/pl/106/71/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs2%2Fd
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1035
-[/us/pl/113/38/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fc
+[/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
 [/us/stat/127/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F528
 [/us/pl/93/415/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs405
 [/us/usc/t42/s5774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5774
-[/us/pl/100/690/s7286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7286
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4460
-[/us/pl/113/38/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fc%2F1
-[/us/pl/113/38/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fc%2F2
+[/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
+[/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
 [/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
-[/us/pl/100/690/s7287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7287
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

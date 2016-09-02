@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 and 2010.
 
-([Pub. L. 110–199, title I, § 115][/us/pl/110/199/s115], Apr. 9, 2008, [122 Stat. 677][/us/stat/122/677].)
+([Pub. L. 110–199, title I][/us/pl/110/199/tI], § 115, Apr. 9, 2008, [122 Stat. 677][/us/stat/122/677].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/199/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs115
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F677
 
 

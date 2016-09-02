@@ -23,7 +23,7 @@
 
         Any assignment of personnel made by the Secretary under any agreement entered into under the authority of subsection (a) of this section shall be treated as an assignment of Federal personnel to a local government that is made in accordance with subchapter VI of chapter 33 of title 5.
 
-([Pub. L. 100–579, § 9][/us/pl/100/579/s9], Oct. 31, 1988, [102 Stat. 2923][/us/stat/102/2923]; [Pub. L. 100–690, title II, § 2309][/us/pl/100/690/s2309], Nov. 18, 1988, [102 Stat. 4229][/us/stat/102/4229]; [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
+([Pub. L. 100–579][/us/pl/100/579], § 9, Oct. 31, 1988, [102 Stat. 2923][/us/stat/102/2923]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2309, Nov. 18, 1988, [102 Stat. 4229][/us/stat/102/4229]; [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
 
  __Codification__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/100/579/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs9
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/stat/102/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2923
-[/us/pl/100/690/s2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2309
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4229
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
 [/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
 [/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579

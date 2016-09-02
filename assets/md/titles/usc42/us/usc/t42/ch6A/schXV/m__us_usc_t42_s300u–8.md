@@ -23,11 +23,11 @@
 
         The Secretary shall ensure that, not later than February 1 of 1995 and of every second year thereafter, a report under subsection (a) of this section is submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1709, as added [Pub. L. 103–183, title VII, § 704][/us/pl/103/183/s704], Dec. 14, 1993, [107 Stat. 2240][/us/stat/107/2240].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1709, as added [Pub. L. 103–183, title VII][/us/pl/103/183/tVII], § 704, Dec. 14, 1993, [107 Stat. 2240][/us/stat/107/2240].)
 
  __Prior Provisions__ 
 
-    A prior section 300u–8, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1709, as added Nov. 10, 1978, [Pub. L. 95–626, title V, § 502][/us/pl/95/626/s502], [92 Stat. 3594][/us/stat/92/3594], related to establishment of national program on sports medicine research, prior to repeal by [Pub. L. 98–551, § 2(c)][/us/pl/98/551/s2/c], Oct. 30, 1984, [98 Stat. 2816][/us/stat/98/2816].
+    A prior section 300u–8, [act July 1, 1944, ch. 373, title XVII][/us/act/1944-07-01/ch373/tXVII], § 1709, as added Nov. 10, 1978, [Pub. L. 95–626, title V][/us/pl/95/626/tV], § 502, [92 Stat. 3594][/us/stat/92/3594], related to establishment of national program on sports medicine research, prior to repeal by [Pub. L. 98–551][/us/pl/98/551], § 2(c), Oct. 30, 1984, [98 Stat. 2816][/us/stat/98/2816].
 
  __Change of Name__ 
 
@@ -43,12 +43,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/183/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs704
+[/us/pl/103/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVII
 [/us/stat/107/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2240
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/626/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs502
+[/us/act/1944-07-01/ch373/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXVII
+[/us/pl/95/626/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtV
 [/us/stat/92/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3594
-[/us/pl/98/551/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551%2Fs2%2Fc
+[/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/stat/98/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2816
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

@@ -17,7 +17,7 @@
 
     The Secretary, acting through either the Assistant Secretary for Health or the Director of the National Institute on Aging, shall appoint an Executive Secretary for the Task Force and shall provide the Task Force with such administrative staff and support as may be necessary to enable the Task Force to carry out subsections (b) and (c) of [section 242q of this title][/us/usc/t42/s242q].
 
-([Pub. L. 101–557, title III, § 303][/us/pl/101/557/s303], Nov. 15, 1990, [104 Stat. 2770][/us/stat/104/2770].)
+([Pub. L. 101–557, title III][/us/pl/101/557/tIII], § 303, Nov. 15, 1990, [104 Stat. 2770][/us/stat/104/2770].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s242q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242q
-[/us/pl/101/557/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs303
+[/us/pl/101/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2FtIII
 [/us/stat/104/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2770
 
 

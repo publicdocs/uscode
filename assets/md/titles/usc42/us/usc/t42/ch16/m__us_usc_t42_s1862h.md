@@ -41,7 +41,7 @@
 
         (4) promote outreach to secondary schools to improve mathematics and science instruction.
 
-([Pub. L. 102–476, § 2][/us/pl/102/476/s2], Oct. 23, 1992, [106 Stat. 2297][/us/stat/106/2297].)
+([Pub. L. 102–476][/us/pl/102/476], § 2, Oct. 23, 1992, [106 Stat. 2297][/us/stat/106/2297].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/102/476/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476%2Fs2
+[/us/pl/102/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476
 [/us/stat/106/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2297
 [/us/pl/102/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476
 [/us/stat/106/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2297

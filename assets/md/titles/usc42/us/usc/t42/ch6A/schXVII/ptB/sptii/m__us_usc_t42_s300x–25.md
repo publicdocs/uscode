@@ -49,7 +49,7 @@
 
         The requirements established in subsection (a) of this section shall not apply to any territory of the United States other than the Commonwealth of Puerto Rico.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1925, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 393][/us/stat/106/393]; amended [Pub. L. 106–310, div. B, title XXXIII, § 3303(b)][/us/pl/106/310/s3303/b], Oct. 17, 2000, [114 Stat. 1210][/us/stat/114/1210].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1925, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 393][/us/stat/106/393]; amended [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(b), Oct. 17, 2000, [114 Stat. 1210][/us/stat/114/1210].)
 
  __Prior Provisions__ 
 
@@ -70,9 +70,9 @@
 
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F393
-[/us/pl/106/310/s3303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fb
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1210
 [/us/usc/t42/s300x–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9311
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321

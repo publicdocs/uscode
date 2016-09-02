@@ -93,19 +93,19 @@
 
         Nothing in this subchapter shall diminish any authority of a State or political subdivision to adopt or enforce any law or regulation respecting underground injection but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1423, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1677][/us/stat/88/1677]; amended [Pub. L. 96–502, § 2(b)][/us/pl/96/502/s2/b], Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title II, § 202][/us/pl/99/339/s202], June 19, 1986, [100 Stat. 654][/us/stat/100/654].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1423, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1677][/us/stat/88/1677]; amended [Pub. L. 96–502][/us/pl/96/502], § 2(b), Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 202, June 19, 1986, [100 Stat. 654][/us/stat/100/654].)
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–339, § 202(d)][/us/pl/99/339/s202/d], substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
+    1986—[Pub. L. 99–339][/us/pl/99/339], § 202(d), substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 99–339, § 202(a)(1)][/us/pl/99/339/s202/a/1], substituted provisions which related to issuance of an order of compliance or commencement of a civil action by the Administrator if the State has not commenced enforcement against the violator for provisions directing the Administrator to give public notice and request that the State report within 15 days thereafter as to steps taken to enforce compliance and authorizing the Administrator to commence a civil action upon failure by the State to comply timely.
+    Subsec. (a)(1). [Pub. L. 99–339][/us/pl/99/339], § 202(a)(1), substituted provisions which related to issuance of an order of compliance or commencement of a civil action by the Administrator if the State has not commenced enforcement against the violator for provisions directing the Administrator to give public notice and request that the State report within 15 days thereafter as to steps taken to enforce compliance and authorizing the Administrator to commence a civil action upon failure by the State to comply timely.
 
-    Subsec. (a)(2). [Pub. L. 99–339, § 202(a)(2)][/us/pl/99/339/s202/a/2], substituted provision that the Administrator issue an order under subsec. (c) of this section or commence a civil action under subsec. (b) of this section for provision that he commence a civil action under subsec. (b)(1) of this section.
+    Subsec. (a)(2). [Pub. L. 99–339][/us/pl/99/339], § 202(a)(2), substituted provision that the Administrator issue an order under subsec. (c) of this section or commence a civil action under subsec. (b) of this section for provision that he commence a civil action under subsec. (b)(1) of this section.
 
-    Subsec. (b). [Pub. L. 99–339, § 202(b)][/us/pl/99/339/s202/b], amended subsec. (b) generally, substituting provisions relating to jurisdiction of the appropriate Federal district court, entry of judgment, civil penalty of $25,000 per day, criminal liability and fine for willful violation for provisions which related to judicial determinations in appropriate Federal district courts, civil penalties of $5,000 per day, and fines of $10,000 per day for willful violations.
+    Subsec. (b). [Pub. L. 99–339][/us/pl/99/339], § 202(b), amended subsec. (b) generally, substituting provisions relating to jurisdiction of the appropriate Federal district court, entry of judgment, civil penalty of $25,000 per day, criminal liability and fine for willful violation for provisions which related to judicial determinations in appropriate Federal district courts, civil penalties of $5,000 per day, and fines of $10,000 per day for willful violations.
 
-    Subsecs. (c), (d). [Pub. L. 99–339, § 202(c)][/us/pl/99/339/s202/c], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 99–339][/us/pl/99/339], § 202(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1980—Subsec. (a)(1). [Pub. L. 96–502][/us/pl/96/502] inserted reference to [section 300h–4(c) of this title][/us/usc/t42/s300h–4/c].
 
@@ -124,17 +124,17 @@
 [/us/usc/t42/s300j–8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%938%2Fa%2F1
 [/us/usc/t42/s300j–7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%937%2Fa%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1677
-[/us/pl/96/502/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs2%2Fb
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/stat/94/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2738
-[/us/pl/99/339/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs202
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F654
-[/us/pl/99/339/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs202%2Fd
-[/us/pl/99/339/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs202%2Fa%2F1
-[/us/pl/99/339/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs202%2Fa%2F2
-[/us/pl/99/339/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs202%2Fb
-[/us/pl/99/339/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs202%2Fc
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/usc/t42/s300h–4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%934%2Fc
 

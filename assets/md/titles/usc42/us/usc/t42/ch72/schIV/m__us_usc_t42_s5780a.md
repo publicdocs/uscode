@@ -33,7 +33,7 @@
 
             No additional funds are authorized to be appropriated to carry out this section.
 
-([Pub. L. 101–647, title XXXVII, § 3703][/us/pl/101/647/s3703], as added [Pub. L. 110–344, § 9][/us/pl/110/344/s9], Oct. 7, 2008, [122 Stat. 3936][/us/stat/122/3936].)
+([Pub. L. 101–647, title XXXVII][/us/pl/101/647/tXXXVII], § 3703, as added [Pub. L. 110–344][/us/pl/110/344], § 9, Oct. 7, 2008, [122 Stat. 3936][/us/stat/122/3936].)
 
  __References in Text__ 
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3703
-[/us/pl/110/344/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F344%2Fs9
+[/us/pl/101/647/tXXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVII
+[/us/pl/110/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F344
 [/us/stat/122/3936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3936
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

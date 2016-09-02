@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch136/schVIII/ptA/m__us_usc_t42_s14099.md) | [Next](./../../../../../..//us/usc/t42/ch136/schVIII/ptA/m__us_usc_t42_s14101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14100)
 
-## § 14100. Repealed. [Pub. L. 107–273, div. C, title I, § 11006(4)][/us/pl/107/273/s11006/4], Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817]
+## § 14100. Repealed. [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11006(4), Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817]
 
-    Section, [Pub. L. 103–322, title XX, § 200111][/us/pl/103/322/s200111], Sept. 13, 1994, [108 Stat. 2056][/us/stat/108/2056], provided assistance to States and localities employing Police Corps officers.
+    Section, [Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200111, Sept. 13, 1994, [108 Stat. 2056][/us/stat/108/2056], provided assistance to States and localities employing Police Corps officers.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11006/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11006%2F4
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1817
-[/us/pl/103/322/s200111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200111
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2056
 
 

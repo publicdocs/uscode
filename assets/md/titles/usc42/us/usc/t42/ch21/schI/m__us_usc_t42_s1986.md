@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1981 derived from [act Apr. 20, 1871, ch. 22, § 6][/us/act/1871-04-20/ch22/s6], [17 Stat. 15][/us/stat/17/15].
+    R.S. § 1981 derived from [act Apr. 20, 1871, ch. 22][/us/act/1871-04-20/ch22], § 6, [17 Stat. 15][/us/stat/17/15].
 
     Section was formerly classified to [section 48 of Title 8][/us/usc/t8/s48], Aliens and Nationality.
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1985
-[/us/act/1871-04-20/ch22/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22%2Fs6
+[/us/act/1871-04-20/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22
 [/us/stat/17/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F15
 [/us/usc/t8/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs48
 

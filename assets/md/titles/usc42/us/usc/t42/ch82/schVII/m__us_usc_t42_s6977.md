@@ -31,7 +31,7 @@
 
         (2) A grant or contract authorized by paragraph (1) of this subsection may be made only upon application to the Administrator at such time or times and containing such information as he may prescribe, except that no such application shall be approved unless it provides for the same procedures and reports (and access to such reports and to other records) as required by section 3254a(b)(4) and (5)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (as in effect before October 21, 1976) with respect to applications made under such section (as in effect before October 21, 1976).
 
-([Pub. L. 89–272, title II, § 7007][/us/pl/89/272/s7007], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2827][/us/stat/90/2827]; amended [Pub. L. 95–609, § 7(r)][/us/pl/95/609/s7/r], Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; [Pub. L. 105–362, title V, § 501(f)][/us/pl/105/362/s501/f], Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7007, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2827][/us/stat/90/2827]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(r), Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(f), Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
     1998—Subsec. (c). [Pub. L. 105–362][/us/pl/105/362] struck out heading and text of subsec. (c) which related to Administrator’s study and report on State and local training needs and obstacles to employment and occupational advancement in solid waste management and resource recovery field.
 
-    1978—Subsec. (b)(1). [Pub. L. 95–609, § 7(r)(1)][/us/pl/95/609/s7/r/1], (2), substituted “management” for “disposal” in two places, and “resource” for “resources”.
+    1978—Subsec. (b)(1). [Pub. L. 95–609][/us/pl/95/609], § 7(r)(1), (2), substituted “management” for “disposal” in two places, and “resource” for “resources”.
 
-    Subsec. (c)(3). [Pub. L. 95–609, § 7(r)(3)][/us/pl/95/609/s7/r/3], substituted “management” for “disposal”.
+    Subsec. (c)(3). [Pub. L. 95–609][/us/pl/95/609], § 7(r)(3), substituted “management” for “disposal”.
 
  __Transfer of Functions__ 
 
@@ -60,19 +60,19 @@
 ----------
 ----------
 
-[/us/pl/89/272/s7007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7007
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2827
-[/us/pl/95/609/s7/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fr
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3083
-[/us/pl/105/362/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Ff
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3284
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/usc/t42/s3254d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3254d
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/95/609/s7/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fr%2F1
-[/us/pl/95/609/s7/r/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fr%2F3
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 
 

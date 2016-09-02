@@ -65,7 +65,7 @@
 
     (c) The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
 
-([Pub. L. 90–448, title XIII, § 1370][/us/pl/90/448/s1370], Aug. 1, 1968, [82 Stat. 588][/us/stat/82/588]; [Pub. L. 91–152, title IV, § 409(b)][/us/pl/91/152/s409/b], Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 93–234, title I][/us/pl/93/234], §§ 107, 108(b), Dec. 31, 1973, [87 Stat. 979][/us/stat/87/979], 980; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1), (8)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 100–628, title X, § 1086(b)][/us/pl/100/628/s1086/b], Nov. 7, 1988, [102 Stat. 3278][/us/stat/102/3278]; [Pub. L. 103–325, title V, § 512(a)][/us/pl/103/325/s512/a], Sept. 23, 1994, [108 Stat. 2256][/us/stat/108/2256]; [Pub. L. 108–264, title I, § 105(b)][/us/pl/108/264/s105/b], June 30, 2004, [118 Stat. 723][/us/stat/118/723]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100232(d)(5), 100238(b)(1), (3), July 6, 2012, [126 Stat. 954][/us/stat/126/954], 958.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1370, Aug. 1, 1968, [82 Stat. 588][/us/stat/82/588]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 409(b), Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 93–234, title I][/us/pl/93/234/tI], §§ 107, 108(b), Dec. 31, 1973, [87 Stat. 979][/us/stat/87/979], 980; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1), (8)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1086(b), Nov. 7, 1988, [102 Stat. 3278][/us/stat/102/3278]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 512(a), Sept. 23, 1994, [108 Stat. 2256][/us/stat/108/2256]; [Pub. L. 108–264, title I][/us/pl/108/264/tI], § 105(b), June 30, 2004, [118 Stat. 723][/us/stat/118/723]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100232(d)(5), 100238(b)(1), (3), July 6, 2012, [126 Stat. 954][/us/stat/126/954], 958.)
 
  __References in Text__ 
 
@@ -75,33 +75,33 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (a)(3). [Pub. L. 112–141, § 100232(d)(5)][/us/pl/112/141/s100232/d/5], substituted “include any organization or person that is authorized to engage in the business of insurance under the laws of any State, subject to the reporting requirements of the Securities Exchange Act of 1934 pursuant to section 13(a) or 15(d) of such Act ([15 U.S.C. 78m(a)][/us/usc/t15/s78m/a] and 78o(d)), or authorized by the Administrator to assume reinsurance on risks insured by the flood insurance program;” for “include any organizations and persons authorized to engage in the insurance business under the laws of any State;”.
+    Subsec. (a)(3). [Pub. L. 112–141][/us/pl/112/141], § 100232(d)(5), substituted “include any organization or person that is authorized to engage in the business of insurance under the laws of any State, subject to the reporting requirements of the Securities Exchange Act of 1934 pursuant to section 13(a) or 15(d) of such Act ([15 U.S.C. 78m(a)][/us/usc/t15/s78m/a] and 78o(d)), or authorized by the Administrator to assume reinsurance on risks insured by the flood insurance program;” for “include any organizations and persons authorized to engage in the insurance business under the laws of any State;”.
 
-    Subsec. (a)(6). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in two places.
+    Subsec. (a)(6). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in two places.
 
-    Subsec. (a)(9). [Pub. L. 112–141, § 100238(b)(3)][/us/pl/112/141/s100238/b/3], struck out “the Office of Thrift Supervision,” after “the Comptroller of the Currency,”.
+    Subsec. (a)(9). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(3), struck out “the Office of Thrift Supervision,” after “the Comptroller of the Currency,”.
 
-    Subsecs. (a)(15), (b), (c). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    Subsecs. (a)(15), (b), (c). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
-    2004—Subsec. (a)(7). [Pub. L. 108–264, § 105(b)(1)][/us/pl/108/264/s105/b/1], added par. (7) and struck out former par. (7) which read as follows: “the term ‘repetitive loss structure’ means a structure covered by a contract for flood insurance under this chapter that has incurred flood-related damage on 2 occasions during a 10-year period ending on the date of the event for which a second claim is made, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event;”.
+    2004—Subsec. (a)(7). [Pub. L. 108–264][/us/pl/108/264], § 105(b)(1), added par. (7) and struck out former par. (7) which read as follows: “the term ‘repetitive loss structure’ means a structure covered by a contract for flood insurance under this chapter that has incurred flood-related damage on 2 occasions during a 10-year period ending on the date of the event for which a second claim is made, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event;”.
 
-    Subsec. (a)(15). [Pub. L. 108–264, § 105(b)(2)][/us/pl/108/264/s105/b/2]–(4), added par. (15).
+    Subsec. (a)(15). [Pub. L. 108–264][/us/pl/108/264], § 105(b)(2)–(4), added par. (15).
 
     1994—Subsec. (a)(7) to (14). [Pub. L. 103–325][/us/pl/103/325] added pars. (7) to (14).
 
     1988—Subsecs. (b), (c). [Pub. L. 100–628][/us/pl/100/628] substituted “subsection (a)(1) of this section” for “paragraph (1)”.
 
-    1983—Subsec. (a)(1). [Pub. L. 98–181, § 451(d)(1)][/us/pl/98/181/s451/d/1], substituted “Director” for “Secretary”.
+    1983—Subsec. (a)(1). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(1), substituted “Director” for “Secretary”.
 
-    Subsec. (a)(6). [Pub. L. 98–181, § 451(d)(8)][/us/pl/98/181/s451/d/8], substituted definition of “Director” as the Director of the Federal Emergency Management Agency for definition of “Secretary” as the Secretary of Housing and Urban Development.
+    Subsec. (a)(6). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(8), substituted definition of “Director” as the Director of the Federal Emergency Management Agency for definition of “Secretary” as the Secretary of Housing and Urban Development.
 
-    Subsecs. (b), (c). [Pub. L. 98–181, § 451(d)(1)][/us/pl/98/181/s451/d/1], substituted “Director” for “Secretary”.
+    Subsecs. (b), (c). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(1), substituted “Director” for “Secretary”.
 
-    1973—Subsec. (b). [Pub. L. 93–234, § 107][/us/pl/93/234/s107], inserted “proximately” before “caused”.
+    1973—Subsec. (b). [Pub. L. 93–234][/us/pl/93/234], § 107, inserted “proximately” before “caused”.
 
-    Subsec. (c). [Pub. L. 93–234, § 108(b)][/us/pl/93/234/s108/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 93–234][/us/pl/93/234], § 108(b), added subsec. (c).
 
     1969—[Pub. L. 91–152][/us/pl/91/152] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -124,21 +124,21 @@
 
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s78m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fa
-[/us/pl/90/448/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1370
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F588
-[/us/pl/91/152/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs409%2Fb
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F397
-[/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
+[/us/pl/93/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtI
 [/us/stat/87/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F979
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/100/628/s1086/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1086%2Fb
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3278
-[/us/pl/103/325/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs512%2Fa
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2256
-[/us/pl/108/264/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fb
+[/us/pl/108/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2FtI
 [/us/stat/118/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F723
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F954
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
@@ -146,21 +146,21 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100232/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100232%2Fd%2F5
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t15/s78m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fa
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100238/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F3
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/108/264/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fb%2F1
-[/us/pl/108/264/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fb%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/pl/98/181/s451/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F1
-[/us/pl/98/181/s451/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F8
-[/us/pl/98/181/s451/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F1
-[/us/pl/93/234/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs107
-[/us/pl/93/234/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs108%2Fb
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
+[/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

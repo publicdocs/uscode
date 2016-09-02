@@ -65,7 +65,7 @@
 
         In carrying out this section, the Secretary shall consult, as appropriate, with the Administrator of the Environmental Protection Agency.
 
-([Pub. L. 102–486, title XVI, § 1605][/us/pl/102/486/s1605], Oct. 24, 1992, [106 Stat. 3002][/us/stat/106/3002].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1605, Oct. 24, 1992, [106 Stat. 3002][/us/stat/106/3002].)
 
 ----------
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/pl/102/486/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1605
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
 [/us/stat/106/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3002
 
 

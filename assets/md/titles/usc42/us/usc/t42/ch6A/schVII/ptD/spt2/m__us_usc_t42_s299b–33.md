@@ -147,7 +147,7 @@
 
         There is authorized to be appropriated to carry out this section $20,000,000 for fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 933, as added [Pub. L. 111–148, title III, § 3501][/us/pl/111/148/s3501], Mar. 23, 2010, [124 Stat. 508][/us/stat/124/508].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 933, as added [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3501, Mar. 23, 2010, [124 Stat. 508][/us/stat/124/508].)
 
  __Prior Provisions__ 
 
@@ -168,7 +168,7 @@
 [/us/usc/t42/s300jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj
 [/us/usc/t42/s1315a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3501
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F508
 [/us/usc/t42/s299c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%932
 

@@ -47,11 +47,11 @@
 
         (D) are closely linked with, but not duplicative of, other community resources.
 
-([Pub. L. 101–501, title IX, § 927][/us/pl/101/501/s927], Nov. 3, 1990, [104 Stat. 1269][/us/stat/104/1269].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 927, Nov. 3, 1990, [104 Stat. 1269][/us/stat/104/1269].)
 
  __References in Text__ 
 
-    [Section 12339 of this title][/us/usc/t42/s12339], referred to in par. (2), was repealed by [Pub. L. 103–252, title IV, § 401(b)(1)][/us/pl/103/252/s401/b/1], May 18, 1994, [108 Stat. 672][/us/stat/108/672].
+    [Section 12339 of this title][/us/usc/t42/s12339], referred to in par. (2), was repealed by [Pub. L. 103–252, title IV][/us/pl/103/252/tIV], § 401(b)(1), May 18, 1994, [108 Stat. 672][/us/stat/108/672].
 
 ----------
 
@@ -62,10 +62,10 @@
 
 [/us/usc/t42/s12337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12337
 [/us/usc/t42/s12338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12338
-[/us/pl/101/501/s927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs927
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1269
 [/us/usc/t42/s12339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12339
-[/us/pl/103/252/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs401%2Fb%2F1
+[/us/pl/103/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIV
 [/us/stat/108/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F672
 
 

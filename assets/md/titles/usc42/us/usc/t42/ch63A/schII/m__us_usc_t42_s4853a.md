@@ -17,7 +17,7 @@
 
     The Secretary of Labor, in promulgating regulations under [section 4853 of this title][/us/usc/t42/s4853], shall consult and coordinate with the Administrator of the Environmental Protection Agency for the purpose of achieving the maximum enforcement of title IV of the Toxic Substances Control Act \[[15 U.S.C. 2681][/us/usc/t15/s2681] et seq.\] and the Occupational Safety and Health Act of 1970 \[[29 U.S.C. 651][/us/usc/t29/s651] et seq.\] while imposing the least burdens of duplicative requirements on those subject to such title and Act and for other purposes.
 
-([Pub. L. 102–550, title X, § 1032][/us/pl/102/550/s1032], Oct. 28, 1992, [106 Stat. 3924][/us/stat/106/3924].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1032, Oct. 28, 1992, [106 Stat. 3924][/us/stat/106/3924].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t42/s4853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4853
 [/us/usc/t15/s2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2681
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/102/550/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1032
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3924
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003

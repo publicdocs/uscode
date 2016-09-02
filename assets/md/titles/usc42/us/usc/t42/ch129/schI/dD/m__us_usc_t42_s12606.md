@@ -79,7 +79,7 @@
 
         Except as provided in subsection (b), all amounts included in the National Service Trust under paragraphs (1), (2), and (3) of [section 12601(a) of this title][/us/usc/t42/s12601/a] shall be available for payments of national service educational awards, summer of service educational awards, or silver scholar educational awards under [section 12604 of this title][/us/usc/t42/s12604].
 
-([Pub. L. 101–610, title I, § 149][/us/pl/101/610/s149], as added [Pub. L. 111–13, title I, § 1406(a)][/us/pl/111/13/s1406/a], Apr. 21, 2009, [123 Stat. 1519][/us/stat/123/1519].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 149, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1406(a), Apr. 21, 2009, [123 Stat. 1519][/us/stat/123/1519].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 149 of Pub. L. 101–610][/us/pl/101/610/s149] was classified to [section 12579 of this title][/us/usc/t42/s12579] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] (former part D of this subchapter) by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior [section 149 of Pub. L. 101–610][/us/pl/101/610/s149] was classified to [section 12579 of this title][/us/usc/t42/s12579] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] (former part D of this subchapter) by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
  __Effective Date__ 
 
@@ -113,8 +113,8 @@
 [/us/usc/t42/s12563/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12563%2Fc%2F8
 [/us/usc/t42/s12601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12601%2Fa
 [/us/usc/t42/s12604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12604
-[/us/pl/101/610/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs149
-[/us/pl/111/13/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1406%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1519
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -122,7 +122,7 @@
 [/us/pl/101/610/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs149
 [/us/usc/t42/s12579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12579
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 

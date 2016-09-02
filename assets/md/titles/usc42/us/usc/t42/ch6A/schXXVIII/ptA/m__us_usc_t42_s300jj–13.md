@@ -89,7 +89,7 @@
 
         The Secretary shall provide for publication in the Federal Register and the posting on the Internet website of the Office of the National Coordinator for Health Information Technology of all recommendations made by the HIT Standards Committee under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3003, as added [Pub. L. 111–5, div. A, title XIII, § 13101][/us/pl/111/5/s13101], Feb. 17, 2009, [123 Stat. 238][/us/stat/123/238].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3003, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13101, Feb. 17, 2009, [123 Stat. 238][/us/stat/123/238].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/usc/t42/s300jj–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9312
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F238
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

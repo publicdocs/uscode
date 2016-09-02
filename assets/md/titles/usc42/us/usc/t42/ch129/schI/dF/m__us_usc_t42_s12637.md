@@ -91,7 +91,7 @@
 
             Programs that receive assistance under the national service laws shall, before transporting minor children, provide the children’s parents with the reason for the transportation and obtain the parents’ written permission for such transportation, consistent with State law.
 
-([Pub. L. 101–610, title I, § 177][/us/pl/101/610/s177], Nov. 16, 1990, [104 Stat. 3163][/us/stat/104/3163]; [Pub. L. 103–82, title I, § 117][/us/pl/103/82/s117], title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 864][/us/stat/107/864], 918; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(42)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427; [Pub. L. 111–13, title I, § 1605][/us/pl/111/13/s1605], Apr. 21, 2009, [123 Stat. 1530][/us/stat/123/1530].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 177, Nov. 16, 1990, [104 Stat. 3163][/us/stat/104/3163]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 117, title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 864][/us/stat/107/864], 918; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(42)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1605, Apr. 21, 2009, [123 Stat. 1530][/us/stat/123/1530].)
 
  __References in Text__ 
 
@@ -99,21 +99,21 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1), (2). [Pub. L. 111–13, § 1605(1)][/us/pl/111/13/s1605/1], substituted “under the national service laws” for “under this subchapter”.
+    2009—Subsec. (a)(1), (2). [Pub. L. 111–13][/us/pl/111/13], § 1605(1), substituted “under the national service laws” for “under this subchapter”.
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 1605(1)][/us/pl/111/13/s1605/1], (2), substituted “employee, position, or volunteer (other than a participant under the national service laws)” for “employee or position” and “under the national service laws” for “under this subchapter”.
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 1605(1), (2), substituted “employee, position, or volunteer (other than a participant under the national service laws)” for “employee or position” and “under the national service laws” for “under this subchapter”.
 
-    Subsec. (b)(2), (3). [Pub. L. 111–13, § 1605(1)][/us/pl/111/13/s1605/1], substituted “under the national service laws” for “under this subchapter” wherever appearing.
+    Subsec. (b)(2), (3). [Pub. L. 111–13][/us/pl/111/13], § 1605(1), substituted “under the national service laws” for “under this subchapter” wherever appearing.
 
-    Subsec. (f). [Pub. L. 111–13, § 1605(3)][/us/pl/111/13/s1605/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–13][/us/pl/111/13], § 1605(3), added subsec. (f).
 
     1998—Subsec. (d). [Pub. L. 105–277][/us/pl/105/277] amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Section 142(b) of the Job Training Partnership Act shall apply to the projects conducted under this subchapter as such projects were conducted under the Job Training Partnership Act.”
 
-    1993—Subsec. (b)(3)(B). [Pub. L. 103–82, § 117(1)][/us/pl/103/82/s117/1], amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that will supplant the hiring of employed workers.”
+    1993—Subsec. (b)(3)(B). [Pub. L. 103–82][/us/pl/103/82], § 117(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that will supplant the hiring of employed workers.”
 
-    Subsec. (b)(3)(C)(iii). [Pub. L. 103–82, § 117(2)][/us/pl/103/82/s117/2], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “employee who is subject to a reduction in force;”.
+    Subsec. (b)(3)(C)(iii). [Pub. L. 103–82][/us/pl/103/82], § 117(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “employee who is subject to a reduction in force;”.
 
-    Subsec. (c). [Pub. L. 103–82, § 402(b)(1)][/us/pl/103/82/s402/b/1], substituted “Corporation” for “Commission”.
+    Subsec. (c). [Pub. L. 103–82][/us/pl/103/82], § 402(b)(1), substituted “Corporation” for “Commission”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -133,25 +133,25 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/101/610/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs177
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3163
-[/us/pl/103/82/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs117
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F864
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/111/13/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1605
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1530
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/13/s1605/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1605%2F1
-[/us/pl/111/13/s1605/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1605%2F1
-[/us/pl/111/13/s1605/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1605%2F1
-[/us/pl/111/13/s1605/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1605%2F3
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/103/82/s117/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs117%2F1
-[/us/pl/103/82/s117/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs117%2F2
-[/us/pl/103/82/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs402%2Fb%2F1
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

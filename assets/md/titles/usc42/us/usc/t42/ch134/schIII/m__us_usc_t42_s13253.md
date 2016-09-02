@@ -53,7 +53,7 @@
 
         Information provided to the Secretary under subsection (b) of this section shall be subject to applicable provisions of law protecting the confidentiality of trade secrets and business and financial information, including [section 1905 of title 18][/us/usc/t18/s1905].
 
-([Pub. L. 102–486, title V, § 503][/us/pl/102/486/s503], Oct. 24, 1992, [106 Stat. 2889][/us/stat/106/2889].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 503, Oct. 24, 1992, [106 Stat. 2889][/us/stat/106/2889].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/102/486/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs503
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2889
 
 

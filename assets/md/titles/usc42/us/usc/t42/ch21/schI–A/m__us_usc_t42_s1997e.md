@@ -69,7 +69,7 @@
 
         As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 
-([Pub. L. 96–247, § 7][/us/pl/96/247/s7], May 23, 1980, [94 Stat. 352][/us/stat/94/352]; [Pub. L. 103–322, title II, § 20416(a)][/us/pl/103/322/s20416/a], Sept. 13, 1994, [108 Stat. 1833][/us/stat/108/1833]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(d)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–71; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 113–4, title XI, § 1101(a)][/us/pl/113/4/s1101/a], Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134].)
+([Pub. L. 96–247][/us/pl/96/247], § 7, May 23, 1980, [94 Stat. 352][/us/stat/94/352]; [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20416(a), Sept. 13, 1994, [108 Stat. 1833][/us/stat/108/1833]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 803(d)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–71; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 113–4, title XI][/us/pl/113/4/tXI], § 1101(a), Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134].)
 
  __References in Text__ 
 
@@ -81,19 +81,19 @@
 
     1996—[Pub. L. 104–134][/us/pl/104/134] amended section generally, substituting provisions relating to suits by prisoners, consisting of subsecs. (a) to (h), for former provisions relating to exhaustion of remedies, consisting of subsecs. (a) to (d).
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 20416(a)(1)][/us/pl/103/322/s20416/a/1], substituted “exceed 180 days” for “exceed ninety days” in par. (1) and inserted before period at end of par. (2) “or are otherwise fair and effective”.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 20416(a)(1), substituted “exceed 180 days” for “exceed ninety days” in par. (1) and inserted before period at end of par. (2) “or are otherwise fair and effective”.
 
-    Subsec. (c). [Pub. L. 103–322, § 20416(a)(2)][/us/pl/103/322/s20416/a/2], inserted “or are otherwise fair and effective” before period at end of par. (1) and “or is no longer fair and effective” before period at end of par. (2).
+    Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 20416(a)(2), inserted “or are otherwise fair and effective” before period at end of par. (1) and “or is no longer fair and effective” before period at end of par. (2).
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–322, title II, § 20416(b)][/us/pl/103/322/s20416/b], Sept. 13, 1994, [108 Stat. 1834][/us/stat/108/1834], provided that: 
+[Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20416(b), Sept. 13, 1994, [108 Stat. 1834][/us/stat/108/1834], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\].”
 
  __Nondisclosure of Information in Actions Brought by Prisoners__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 127\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–74, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 127\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–74, provided that: 
 
 > “Notwithstanding any other provision of law, in any action brought by a prisoner under section 1979 of the Revised Statutes ([42 U.S.C. 1983][/us/usc/t42/s1983]) against a Federal, State, or local jail, prison, or correctional facility, or any employee or former employee thereof, arising out of the incarceration of that prisoner—
 
@@ -101,7 +101,7 @@
 
 >     “(2) the home address, home phone number, social security number, identity of family members, personal tax returns, and personal banking information of a person described in paragraph (1), and any other records or information of a similar nature relating to that person, shall not be subject to disclosure without the written consent of that person, or pursuant to a court order.”
 
-    \[[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 127\], set out above, applicable to fiscal year 2000 and thereafter, see [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title I, § 109\], set out as an Applicability of Provisions Relating to Use of Counterterrorism Appropriations and Nondisclosure of Information in Actions Brought by Prisoners note under [section 524 of Title 28][/us/usc/t28/s524], Judiciary and Judicial Procedure.\]
+    \[[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 127\], set out above, applicable to fiscal year 2000 and thereafter, see [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title I, § 109\], set out as an Applicability of Provisions Relating to Use of Counterterrorism Appropriations and Nondisclosure of Information in Actions Brought by Prisoners note under [section 524 of Title 28][/us/usc/t28/s524], Judiciary and Judicial Procedure.\]
 
 ----------
 
@@ -116,15 +116,15 @@
 [/us/usc/t18/s2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2246
 [/us/usc/t42/s1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1983
 [/us/usc/t42/s1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1983
-[/us/pl/96/247/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs7
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F352
-[/us/pl/103/322/s20416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20416%2Fa
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1833
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/113/4/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1101%2Fa
+[/us/pl/113/4/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXI
 [/us/stat/127/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F134
 [/us/usc/t42/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1988
 [/us/usc/t42/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1988
@@ -134,15 +134,15 @@
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t18/s2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2246
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/103/322/s20416/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20416%2Fa%2F1
-[/us/pl/103/322/s20416/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20416%2Fa%2F2
-[/us/pl/103/322/s20416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20416%2Fb
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1834
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t42/s1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1983
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/usc/t28/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs524
 
 

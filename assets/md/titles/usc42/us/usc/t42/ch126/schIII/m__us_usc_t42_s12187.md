@@ -17,7 +17,7 @@
 
     The provisions of this subchapter shall not apply to private clubs or establishments exempted from coverage under title II of the Civil Rights Act of 1964 ([42 U.S.C. 2000][/us/usc/t42/s2000]–a(e)) \[[42 U.S.C. 2000a][/us/usc/t42/s2000a] et seq.\] or to religious organizations or entities controlled by religious organizations, including places of worship.
 
-([Pub. L. 101–336, title III, § 307][/us/pl/101/336/s307], July 26, 1990, [104 Stat. 363][/us/stat/104/363].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 307, July 26, 1990, [104 Stat. 363][/us/stat/104/363].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t42/s2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/pl/101/336/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs307
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F363
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

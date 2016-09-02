@@ -87,7 +87,7 @@
 
             (B) can use the research to improve such teachers’ performance in the classroom.
 
-([Pub. L. 107–368, § 11][/us/pl/107/368/s11], Dec. 19, 2002, [116 Stat. 3053][/us/stat/116/3053]; [Pub. L. 110–69, title VII, § 7006(b)][/us/pl/110/69/s7006/b], Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679].)
+([Pub. L. 107–368][/us/pl/107/368], § 11, Dec. 19, 2002, [116 Stat. 3053][/us/stat/116/3053]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7006(b), Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679].)
 
  __Codification__ 
 
@@ -95,13 +95,13 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1)(A). [Pub. L. 110–69, § 7006(b)(1)][/us/pl/110/69/s7006/b/1], inserted “or eligible nonprofit organizations” after “institutions of higher education”.
+    2007—Subsec. (a)(1)(A). [Pub. L. 110–69][/us/pl/110/69], § 7006(b)(1), inserted “or eligible nonprofit organizations” after “institutions of higher education”.
 
-    Subsec. (b)(1). [Pub. L. 110–69, § 7006(b)(2)][/us/pl/110/69/s7006/b/2], (3), in introductory provisions, inserted “or an eligible nonprofit organization” after “institution of higher education” and substituted “thereof” for “of such institutions”.
+    Subsec. (b)(1). [Pub. L. 110–69][/us/pl/110/69], § 7006(b)(2), (3), in introductory provisions, inserted “or an eligible nonprofit organization” after “institution of higher education” and substituted “thereof” for “of such institutions”.
 
  __Funding for Centers__ 
 
-[Pub. L. 110–69, title VII, § 7006(a)][/us/pl/110/69/s7006/a], Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679], provided that: 
+[Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7006(a), Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679], provided that: 
 
 > “The Director \[of the National Science Foundation\] shall continue to carry out the program of Centers for Research on Learning and Education Improvement as established in section 11 of the National Science Foundation Authorization Act of 2002 ([42 U.S.C. 1862n–2][/us/usc/t42/s1862n–2]).”
 
@@ -116,13 +116,13 @@
 ----------
 ----------
 
-[/us/pl/107/368/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs11
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3053
-[/us/pl/110/69/s7006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7006%2Fb
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F679
-[/us/pl/110/69/s7006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7006%2Fb%2F1
-[/us/pl/110/69/s7006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7006%2Fb%2F2
-[/us/pl/110/69/s7006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7006%2Fa
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F679
 [/us/usc/t42/s1862n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%932
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4

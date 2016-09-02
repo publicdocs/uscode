@@ -45,7 +45,7 @@
 
             (C) a description of plans to use funds authorized to be appropriated by this chapter to improve non-NASA facilities, which plans shall include a business plan outlining the nature and scope of investments planned by other parties.
 
-([Pub. L. 111–267, title III, § 305][/us/pl/111/267/s305], Oct. 11, 2010, [124 Stat. 2817][/us/stat/124/2817].)
+([Pub. L. 111–267, title III][/us/pl/111/267/tIII], § 305, Oct. 11, 2010, [124 Stat. 2817][/us/stat/124/2817].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs305
+[/us/pl/111/267/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIII
 [/us/stat/124/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2817
 
 

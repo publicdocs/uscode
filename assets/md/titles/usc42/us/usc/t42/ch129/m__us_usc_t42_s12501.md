@@ -73,7 +73,7 @@
 
         (19) recognize the expertise veterans can offer to national service programs, expand the participation of the veterans in the national service programs, and assist the families of veterans and members of the Armed Forces on active duty.
 
-([Pub. L. 101–610, § 2][/us/pl/101/610/s2], Nov. 16, 1990, [104 Stat. 3129][/us/stat/104/3129]; [Pub. L. 103–82, § 2(a)][/us/pl/103/82/s2/a], Sept. 21, 1993, [107 Stat. 787][/us/stat/107/787]; [Pub. L. 111–13, title I, § 1101][/us/pl/111/13/s1101], Apr. 21, 2009, [123 Stat. 1463][/us/stat/123/1463].)
+([Pub. L. 101–610][/us/pl/101/610], § 2, Nov. 16, 1990, [104 Stat. 3129][/us/stat/104/3129]; [Pub. L. 103–82][/us/pl/103/82], § 2(a), Sept. 21, 1993, [107 Stat. 787][/us/stat/107/787]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1101, Apr. 21, 2009, [123 Stat. 1463][/us/stat/123/1463].)
 
  __References in Text__ 
 
@@ -81,15 +81,15 @@
 
  __Amendments__ 
 
-    2009—Subsec. (b)(2). [Pub. L. 111–13, § 1101(1)][/us/pl/111/13/s1101/1], substituted “community and service throughout the varied and diverse communities of” for “community throughout”.
+    2009—Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 1101(1), substituted “community and service throughout the varied and diverse communities of” for “community throughout”.
 
-    Subsec. (b)(4). [Pub. L. 111–13, § 1101(2)][/us/pl/111/13/s1101/2], inserted “geographic location,” after “income,”.
+    Subsec. (b)(4). [Pub. L. 111–13][/us/pl/111/13], § 1101(2), inserted “geographic location,” after “income,”.
 
-    Subsec. (b)(6). [Pub. L. 111–13, § 1101(3)][/us/pl/111/13/s1101/3], inserted “national” after “existing”.
+    Subsec. (b)(6). [Pub. L. 111–13][/us/pl/111/13], § 1101(3), inserted “national” after “existing”.
 
-    Subsec. (b)(7). [Pub. L. 111–13, § 1101(4)(A)][/us/pl/111/13/s1101/4/A], substituted “programs, agencies, and communities” for “programs and agencies”.
+    Subsec. (b)(7). [Pub. L. 111–13][/us/pl/111/13], § 1101(4)(A), substituted “programs, agencies, and communities” for “programs and agencies”.
 
-    Subsec. (b)(9) to (19). [Pub. L. 111–13, § 1101(4)(B)][/us/pl/111/13/s1101/4/B]–(6), added pars. (9) to (19).
+    Subsec. (b)(9) to (19). [Pub. L. 111–13][/us/pl/111/13], § 1101(4)(B)–(6), added pars. (9) to (19).
 
     1993—[Pub. L. 103–82][/us/pl/103/82] amended section generally, substituting provisions relating to findings and purposes for former provisions setting forth the purposes of this chapter.
 
@@ -99,67 +99,67 @@
 
  __Short Title of 2009 Amendment__ 
 
-[Pub. L. 111–13, § 1(a)][/us/pl/111/13/s1/a], Apr. 21, 2009, [123 Stat. 1460][/us/stat/123/1460], provided that: 
+[Pub. L. 111–13][/us/pl/111/13], § 1(a), Apr. 21, 2009, [123 Stat. 1460][/us/stat/123/1460], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Serve America Act’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–117, div. B, § 1301(a)][/us/pl/107/117/s1301/a], Jan. 10, 2002, [115 Stat. 2339][/us/stat/115/2339], provided that: 
+[Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 1301(a), Jan. 10, 2002, [115 Stat. 2339][/us/stat/115/2339], provided that: 
 
 > “This section \[enacting subchapter III of this chapter\] may be cited as the ‘Unity in the Spirit of America Act’ or the ‘USA Act’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–304, § 1][/us/pl/103/304/s1], Aug. 23, 1994, [108 Stat. 1565][/us/stat/108/1565], provided that: 
+[Pub. L. 103–304][/us/pl/103/304], § 1, Aug. 23, 1994, [108 Stat. 1565][/us/stat/108/1565], provided that: 
 
 > “This Act \[amending sections 4953, 5024, 12591, 12602, 12615, 12619, 12622, 12651d, 12653, and 12655n of this title and enacting provisions set out as a note under [section 4953 of this title][/us/usc/t42/s4953]\] may be cited as the ‘King Holiday and Service Act of 1994’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–82, § 1(a)][/us/pl/103/82/s1/a], Sept. 21, 1993, [107 Stat. 785][/us/stat/107/785], provided that: 
+[Pub. L. 103–82][/us/pl/103/82], § 1(a), Sept. 21, 1993, [107 Stat. 785][/us/stat/107/785], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘National and Community Service Trust Act of 1993’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–384, § 1][/us/pl/102/384/s1], Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], provided that: 
+[Pub. L. 102–384][/us/pl/102/384], § 1, Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], provided that: 
 
 > “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–10, § 1][/us/pl/102/10/s1], Mar. 12, 1991, [105 Stat. 29][/us/stat/105/29], provided that: 
+[Pub. L. 102–10][/us/pl/102/10], § 1, Mar. 12, 1991, [105 Stat. 29][/us/stat/105/29], provided that: 
 
 > “This Act \[enacting [section 12645 of this title][/us/usc/t42/s12645], amending sections 5091m, 12511, 12521, 12522, 12524, 12527, 12531, 12542 to 12544, 12548, 12553, 12575, 12576, 12602, 12638, and 12651 of this title, and repealing [section 12556 of this title][/us/usc/t42/s12556]\] may be cited as the ‘National and Community Service Technical Amendments Act of 1991’.”
 
  __Short Title__ 
 
-[Pub. L. 101–610, § 1(a)][/us/pl/101/610/s1/a], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127], provided that: 
+[Pub. L. 101–610][/us/pl/101/610], § 1(a), Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127], provided that: 
 
 > “This Act \[enacting this chapter, sections 5091 to 5091n of this title, and [section 2452a of Title 22][/us/usc/t22/s2452a], Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former [section 546 of Title 45][/us/usc/t45/s546], Railroads, and enacting provisions set out as notes under this section and [section 24301 of Title 49][/us/usc/t49/s24301], Transportation\] may be cited as the ‘National and Community Service Act of 1990’.”
 
-[Pub. L. 101–610, title I][/us/pl/101/610], subtitle B (§§ 110–118), § 110, Nov. 16, 1990, [104 Stat. 3132][/us/stat/104/3132], which provided that such subtitle (enacting former part B (§§ 12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], Sept. 21, 1993, [107 Stat. 825][/us/stat/107/825].
+[Pub. L. 101–610, title I][/us/pl/101/610/tI], subtitle B (§§ 110–118), § 110, Nov. 16, 1990, [104 Stat. 3132][/us/stat/104/3132], which provided that such subtitle (enacting former part B (§§ 12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(a)(2), Sept. 21, 1993, [107 Stat. 825][/us/stat/107/825].
 
-    [Pub. L. 108–45, § 1][/us/pl/108/45/s1], July 3, 2003, [117 Stat. 844][/us/stat/117/844], which provided that [Pub. L. 108–45][/us/pl/108/45], enacting [section 12605 of this title][/us/usc/t42/s12605], could be cited as the “Strengthen AmeriCorps Program Act”, was repealed by [Pub. L. 111–13, title I, § 1406(b)][/us/pl/111/13/s1406/b], Apr. 21, 2009, [123 Stat. 1521][/us/stat/123/1521].
+    [Pub. L. 108–45][/us/pl/108/45], § 1, July 3, 2003, [117 Stat. 844][/us/stat/117/844], which provided that [Pub. L. 108–45][/us/pl/108/45], enacting [section 12605 of this title][/us/usc/t42/s12605], could be cited as the “Strengthen AmeriCorps Program Act”, was repealed by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1406(b), Apr. 21, 2009, [123 Stat. 1521][/us/stat/123/1521].
 
-[Pub. L. 101–610, title I, § 199][/us/pl/101/610/s199], formerly § 120, Nov. 16, 1990, [104 Stat. 3140][/us/stat/104/3140], as renumbered by [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], provided that: 
+[Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199, formerly § 120, Nov. 16, 1990, [104 Stat. 3140][/us/stat/104/3140], as renumbered by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], provided that: 
 
 > “This subtitle \[subtitle I (§§ 199–199O) (formerly subtitle C (§§ 120–136)) of title I of [Pub. L. 101–610][/us/pl/101/610], enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the ‘American Conservation and Youth Service Corps Act of 1990’.”
 
-    [Pub. L. 101–610, title I][/us/pl/101/610], subtitle D (§§ 140–150), § 140, Nov. 16, 1990, [104 Stat. 3150][/us/stat/104/3150], which provided that such subtitle (enacting former part D (§§ 12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by [Pub. L. 103–82, title I, § 102(a)][/us/pl/103/82/s102/a], Sept. 21, 1993, [107 Stat. 816][/us/stat/107/816].
+    [Pub. L. 101–610, title I][/us/pl/101/610/tI], subtitle D (§§ 140–150), § 140, Nov. 16, 1990, [104 Stat. 3150][/us/stat/104/3150], which provided that such subtitle (enacting former part D (§§ 12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 102(a), Sept. 21, 1993, [107 Stat. 816][/us/stat/107/816].
 
-    [Pub. L. 101–610, title III, § 301][/us/pl/101/610/s301], Nov. 16, 1990, [104 Stat. 3180][/us/stat/104/3180], which provided that title III of [Pub. L. 101–610][/us/pl/101/610], enacting subchapter II of this chapter, could be cited as “The Points of Light Foundation Act”, was repealed by [Pub. L. 111–13, title I, § 1831(a)][/us/pl/111/13/s1831/a], Apr. 21, 2009, [123 Stat. 1578][/us/stat/123/1578].
+    [Pub. L. 101–610, title III][/us/pl/101/610/tIII], § 301, Nov. 16, 1990, [104 Stat. 3180][/us/stat/104/3180], which provided that title III of [Pub. L. 101–610][/us/pl/101/610], enacting subchapter II of this chapter, could be cited as “The Points of Light Foundation Act”, was repealed by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1831(a), Apr. 21, 2009, [123 Stat. 1578][/us/stat/123/1578].
 
  __Compliance With Buy American Act__ 
 
-[Pub. L. 103–82, title V, § 501][/us/pl/103/82/s501], Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922], provided that: 
+[Pub. L. 103–82, title V][/us/pl/103/82/tV], § 501, Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922], provided that: 
 
 > “No funds appropriated pursuant to this Act \[see Tables for classification\] (including the amendments made by this Act) may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (\[former\] [41 U.S.C. 10a–10c][/us/usc/t41/s10a–10c], popularly known as the ‘Buy American Act’ \[see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\]).”
 
  __Sense of Congress; Requirement Regarding Notice__ 
 
-[Pub. L. 103–82, title V, § 502][/us/pl/103/82/s502], Sept. 21, 1993, [107 Stat. 923][/us/stat/107/923], provided that:
+[Pub. L. 103–82, title V][/us/pl/103/82/tV], § 502, Sept. 21, 1993, [107 Stat. 923][/us/stat/107/923], provided that:
 
 >     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Prohibition of Contracts With Persons Falsely Labeling Products as Made in America__ 
 
-[Pub. L. 103–82, title V, § 503][/us/pl/103/82/s503], Sept. 21, 1993, [107 Stat. 923][/us/stat/107/923], provided that: 
+[Pub. L. 103–82, title V][/us/pl/103/82/tV], § 503, Sept. 21, 1993, [107 Stat. 923][/us/stat/107/923], provided that: 
 
 > “If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds appropriated to carry out this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.”
 
@@ -440,74 +440,74 @@ Therefore, by the authority vested in me as President by the Constitution and th
 ----------
 ----------
 
-[/us/pl/101/610/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs2
+[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3129
-[/us/pl/103/82/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs2%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/stat/107/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F787
-[/us/pl/111/13/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1101
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1463
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
-[/us/pl/111/13/s1101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1101%2F1
-[/us/pl/111/13/s1101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1101%2F2
-[/us/pl/111/13/s1101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1101%2F3
-[/us/pl/111/13/s1101/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1101%2F4%2FA
-[/us/pl/111/13/s1101/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1101%2F4%2FB
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/111/13/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1%2Fa
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/stat/123/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1460
-[/us/pl/107/117/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs1301%2Fa
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2339
-[/us/pl/103/304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs1
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1565
 [/us/usc/t42/s4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4953
-[/us/pl/103/82/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs1%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/stat/107/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F785
-[/us/pl/102/384/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs1
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1455
-[/us/pl/102/10/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs1
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F29
 [/us/usc/t42/s12645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12645
 [/us/usc/t42/s12556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12556
-[/us/pl/101/610/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs1%2Fa
+[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t22/s2452a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452a
 [/us/usc/t45/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs546
 [/us/usc/t49/s24301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24301
-[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3132
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F825
-[/us/pl/108/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F45%2Fs1
+[/us/pl/108/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F45
 [/us/stat/117/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F844
 [/us/pl/108/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F45
 [/us/usc/t42/s12605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12605
-[/us/pl/111/13/s1406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1406%2Fb
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1521
-[/us/pl/101/610/s199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3140
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3150
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F816
-[/us/pl/101/610/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs301
+[/us/pl/101/610/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtIII
 [/us/stat/104/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3180
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/111/13/s1831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1831%2Fa
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1578
-[/us/pl/103/82/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs501
+[/us/pl/103/82/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtV
 [/us/stat/107/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F922
 [/us/usc/t41/s10a–10c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310c
 [/us/usc/t41/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301
-[/us/pl/103/82/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs502
+[/us/pl/103/82/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtV
 [/us/stat/107/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F923
-[/us/pl/103/82/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs503
+[/us/pl/103/82/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtV
 [/us/stat/107/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F923
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

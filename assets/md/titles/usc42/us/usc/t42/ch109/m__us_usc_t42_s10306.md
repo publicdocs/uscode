@@ -17,7 +17,7 @@
 
     From the sums appropriated pursuant to this chapter, not more than 7.5 per centum shall be utilized for administrative costs.
 
-([Pub. L. 98–242, title I, § 107][/us/pl/98/242/s107], Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101]; [Pub. L. 109–471, § 2(f)][/us/pl/109/471/s2/f], Jan. 11, 2007, [120 Stat. 3553][/us/stat/120/3553].)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 107, Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101]; [Pub. L. 109–471][/us/pl/109/471], § 2(f), Jan. 11, 2007, [120 Stat. 3553][/us/stat/120/3553].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/98/242/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs107
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F101
-[/us/pl/109/471/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs2%2Ff
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
 [/us/stat/120/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3553
 [/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
 [/us/pl/98/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242

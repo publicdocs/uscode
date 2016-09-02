@@ -79,19 +79,19 @@
 
         (2) The term “minority”, with respect to populations, refers to racial and ethnic minority groups as defined in [section 300u–6 of this title][/us/usc/t42/s300u–6].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 903, as added [Pub. L. 106–525, title II, § 201(a)(2)][/us/pl/106/525/s201/a/2], Nov. 22, 2000, [114 Stat. 2505][/us/stat/114/2505]; amended [Pub. L. 111–148, title X, § 10334(c)(3)(B)][/us/pl/111/148/s10334/c/3/B], Mar. 23, 2010, [124 Stat. 974][/us/stat/124/974].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 903, as added [Pub. L. 106–525, title II][/us/pl/106/525/tII], § 201(a)(2), Nov. 22, 2000, [114 Stat. 2505][/us/stat/114/2505]; amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(3)(B), Mar. 23, 2010, [124 Stat. 974][/us/stat/124/974].)
 
  __Prior Provisions__ 
 
-    A prior section 299a–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 903, as added [Pub. L. 101–239, title VI, § 6103(a)][/us/pl/101/239/s6103/a], Dec. 19, 1989, [103 Stat. 2190][/us/stat/103/2190]; amended [Pub. L. 102–410, § 3][/us/pl/102/410/s3], Oct. 13, 1992, [106 Stat. 2094][/us/stat/106/2094]; [Pub. L. 103–43, title XIV, § 1422(a)][/us/pl/103/43/s1422/a], June 10, 1993, [107 Stat. 172][/us/stat/107/172], related to public dissemination of information about studies and projects prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–3 of this title][/us/usc/t42/s299c–3].
+    A prior section 299a–1, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 903, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(a), Dec. 19, 1989, [103 Stat. 2190][/us/stat/103/2190]; amended [Pub. L. 102–410][/us/pl/102/410], § 3, Oct. 13, 1992, [106 Stat. 2094][/us/stat/106/2094]; [Pub. L. 103–43, title XIV][/us/pl/103/43/tXIV], § 1422(a), June 10, 1993, [107 Stat. 172][/us/stat/107/172], related to public dissemination of information about studies and projects prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–3 of this title][/us/usc/t42/s299c–3].
 
     A prior section 903 of act July 1, 1944, was classified to [section 299c of this title][/us/usc/t42/s299c] prior to repeal by [Pub. L. 99–117][/us/pl/99/117].
 
     Prior sections 299a–2 and 299a–3 were omitted in the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
 
-    Section 299a–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 904, as added [Pub. L. 101–239, title VI, § 6103(a)][/us/pl/101/239/s6103/a], Dec. 19, 1989, [103 Stat. 2191][/us/stat/103/2191]; amended [Pub. L. 102–410, § 4(a)][/us/pl/102/410/s4/a], Oct. 13, 1992, [106 Stat. 2095][/us/stat/106/2095]; [Pub. L. 103–43, title XX, § 2013(1)][/us/pl/103/43/s2013/1], June 10, 1993, [107 Stat. 214][/us/stat/107/214], related to health care technology assessment. See [section 299b–5 of this title][/us/usc/t42/s299b–5].
+    Section 299a–2, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 904, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(a), Dec. 19, 1989, [103 Stat. 2191][/us/stat/103/2191]; amended [Pub. L. 102–410][/us/pl/102/410], § 4(a), Oct. 13, 1992, [106 Stat. 2095][/us/stat/106/2095]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2013(1), June 10, 1993, [107 Stat. 214][/us/stat/107/214], related to health care technology assessment. See [section 299b–5 of this title][/us/usc/t42/s299b–5].
 
-    Section 299a–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 905, as added [Pub. L. 105–115, title IV, § 409][/us/pl/105/115/s409], Nov. 21, 1997, [111 Stat. 2371][/us/stat/111/2371], established demonstration program regarding centers for education and research on therapeutics. See [section 299b–1(b) of this title][/us/usc/t42/s299b–1/b].
+    Section 299a–3, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 905, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 409, Nov. 21, 1997, [111 Stat. 2371][/us/stat/111/2371], established demonstration program regarding centers for education and research on therapeutics. See [section 299b–1(b) of this title][/us/usc/t42/s299b–1/b].
 
  __Amendments__ 
 
@@ -109,32 +109,32 @@
 [/us/usc/t42/s285t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t
 [/us/usc/t42/s300u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%936
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/525/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs201%2Fa%2F2
+[/us/pl/106/525/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtII
 [/us/stat/114/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2505
-[/us/pl/111/148/s10334/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F3%2FB
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F974
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fa
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2190
-[/us/pl/102/410/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs3
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2094
-[/us/pl/103/43/s1422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1422%2Fa
+[/us/pl/103/43/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIV
 [/us/stat/107/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F172
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/usc/t42/s299c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%933
 [/us/usc/t42/s299c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fa
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2191
-[/us/pl/102/410/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs4%2Fa
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2095
-[/us/pl/103/43/s2013/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2013%2F1
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F214
 [/us/usc/t42/s299b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%935
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/115/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs409
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2371
 [/us/usc/t42/s299b–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%931%2Fb
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

@@ -149,19 +149,19 @@
 
         Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338A, formerly title VII, § 751, as added [Pub. L. 94–484, title IV, § 408(b)(1)][/us/pl/94/484/s408/b/1], Oct. 12, 1976, [90 Stat. 2281][/us/stat/90/2281]; amended [Pub. L. 95–215, § 5][/us/pl/95/215/s5], Dec. 19, 1977, [91 Stat. 1506][/us/stat/91/1506]; [Pub. L. 95–623, § 12(c)][/us/pl/95/623/s12/c], Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457]; [Pub. L. 95–626, title I, § 113(b)][/us/pl/95/626/s113/b], Nov. 10, 1978, [92 Stat. 3563][/us/stat/92/3563]; [Pub. L. 96–32, § 7(i)][/us/pl/96/32/s7/i], July 10, 1979, [93 Stat. 84][/us/stat/93/84]; renumbered § 338A and amended [Pub. L. 97–35, title XXVII, § 2709(a)][/us/pl/97/35/s2709/a], (b), Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908]; [Pub. L. 99–129, title II, § 210(b)][/us/pl/99/129/s210/b], Oct. 22, 1985, [99 Stat. 537][/us/stat/99/537]; [Pub. L. 100–607, title VI, § 629(a)(2)][/us/pl/100/607/s629/a/2], Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(K)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 101–597, title II, § 201][/us/pl/101/597/s201], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3021][/us/stat/104/3021], 3035; [Pub. L. 107–251, title III, § 309][/us/pl/107/251/s309], Oct. 26, 2002, [116 Stat. 1649][/us/stat/116/1649]; [Pub. L. 108–163, § 2(j)][/us/pl/108/163/s2/j], Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338A, formerly title VII, § 751, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 408(b)(1), Oct. 12, 1976, [90 Stat. 2281][/us/stat/90/2281]; amended [Pub. L. 95–215][/us/pl/95/215], § 5, Dec. 19, 1977, [91 Stat. 1506][/us/stat/91/1506]; [Pub. L. 95–623][/us/pl/95/623], § 12(c), Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457]; [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 113(b), Nov. 10, 1978, [92 Stat. 3563][/us/stat/92/3563]; [Pub. L. 96–32][/us/pl/96/32], § 7(i), July 10, 1979, [93 Stat. 84][/us/stat/93/84]; renumbered § 338A and amended [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2709(a), (b), Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908]; [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 210(b), Oct. 22, 1985, [99 Stat. 537][/us/stat/99/537]; [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 629(a)(2), Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(4)(K)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 101–597, title II][/us/pl/101/597/tII], § 201, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3021][/us/stat/104/3021], 3035; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 309, Oct. 26, 2002, [116 Stat. 1649][/us/stat/116/1649]; [Pub. L. 108–163][/us/pl/108/163], § 2(j), Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
 
  __References in Text__ 
 
-    [Section 294z of this title][/us/usc/t42/s294z], referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994].
+    [Section 294z of this title][/us/usc/t42/s294z], referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994].
 
-    [Section 292k of this title][/us/usc/t42/s292k], referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by [Pub. L. 97–35, title XXVII, § 2720(b)][/us/pl/97/35/s2720/b], Aug. 13, 1981, [95 Stat. 915][/us/stat/95/915], and subsequently omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
+    [Section 292k of this title][/us/usc/t42/s292k], referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2720(b), Aug. 13, 1981, [95 Stat. 915][/us/stat/95/915], and subsequently omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
 
     The General Schedule, referred to in subsec. (g)(3), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
 
  __Codification__ 
 
-    In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section was formerly classified to [section 294t of this title][/us/usc/t42/s294t] prior to its renumbering by [Pub. L. 97–35][/us/pl/97/35].
 
@@ -169,31 +169,31 @@
 
     2003—Subsec. (d)(1)(B). [Pub. L. 108–163][/us/pl/108/163] realigned margin.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–251, § 309(1)][/us/pl/107/251/s309/1], inserted “behavioral and mental health professionals,” after “dentists,”.
+    2002—Subsec. (a)(1). [Pub. L. 107–251][/us/pl/107/251], § 309(1), inserted “behavioral and mental health professionals,” after “dentists,”.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–251, § 309(2)][/us/pl/107/251/s309/2], inserted “, or an appropriate degree from a graduate program of behavioral and mental health” after “other health profession”.
+    Subsec. (b)(1)(B). [Pub. L. 107–251][/us/pl/107/251], § 309(2), inserted “, or an appropriate degree from a graduate program of behavioral and mental health” after “other health profession”.
 
-    Subsec. (c)(1). [Pub. L. 107–251, § 309(3)][/us/pl/107/251/s309/3], made technical amendment to references in original act which appear in subpar. (A) as reference to section 254o of this title and in subpar. (B) as reference to [section 254n of this title][/us/usc/t42/s254n].
+    Subsec. (c)(1). [Pub. L. 107–251][/us/pl/107/251], § 309(3), made technical amendment to references in original act which appear in subpar. (A) as reference to section 254o of this title and in subpar. (B) as reference to [section 254n of this title][/us/usc/t42/s254n].
 
-    Subsec. (d)(1)(B), (C). [Pub. L. 107–251, § 309(4)][/us/pl/107/251/s309/4], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (d)(1)(B), (C). [Pub. L. 107–251][/us/pl/107/251], § 309(4), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (f)(1)(B)(iv), (v). [Pub. L. 107–251, § 309(5)(A)][/us/pl/107/251/s309/5/A], added cl. (iv) and redesignated former cl. (iv) as (v).
+    Subsec. (f)(1)(B)(iv), (v). [Pub. L. 107–251][/us/pl/107/251], § 309(5)(A), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-    Subsec. (f)(3). [Pub. L. 107–251, § 309(5)(B)][/us/pl/107/251/s309/5/B], made technical amendment to reference in original act which appears in text as reference to section 254o of this title.
+    Subsec. (f)(3). [Pub. L. 107–251][/us/pl/107/251], § 309(5)(B), made technical amendment to reference in original act which appears in text as reference to section 254o of this title.
 
-    Subsec. (i). [Pub. L. 107–251, § 309(6)][/us/pl/107/251/s309/6], struck out subsec. (i), which required an annual report to Congress on the Scholarship Program.
+    Subsec. (i). [Pub. L. 107–251][/us/pl/107/251], § 309(6), struck out subsec. (i), which required an annual report to Congress on the Scholarship Program.
 
-    1990—Subsec. (a). [Pub. L. 101–597, § 201(a)(1)][/us/pl/101/597/s201/a/1], substituted “Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to [section 254d(a)(2) of this title][/us/usc/t42/s254d/a/2]—” and pars. (1) and (2) for “Corps Scholarship Program (hereinafter in this subpart referred to as the ‘Scholarship Program’) to assure an adequate supply of trained physicians, dentists, and nurses for the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) and, if needed by the Corps, podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in [section 296m of this title][/us/usc/t42/s296m]), and other health professionals.”
+    1990—Subsec. (a). [Pub. L. 101–597][/us/pl/101/597], § 201(a)(1), substituted “Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to [section 254d(a)(2) of this title][/us/usc/t42/s254d/a/2]—” and pars. (1) and (2) for “Corps Scholarship Program (hereinafter in this subpart referred to as the ‘Scholarship Program’) to assure an adequate supply of trained physicians, dentists, and nurses for the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) and, if needed by the Corps, podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in [section 296m of this title][/us/usc/t42/s296m]), and other health professionals.”
 
-    Subsec. (b)(4). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsec. (b)(4). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    Subsec. (c). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (3)(B), (C).
+    Subsec. (c). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (3)(B), (C).
 
-    [Pub. L. 101–597, § 201(b)][/us/pl/101/597/s201/b], inserted par. (1) designation, redesignated former pars. (1) and (2) as subpars. (A) and (B), inserted before period at end of subpar. (B) “, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program”, inserted par. (2) designation, and added par. (3).
+    [Pub. L. 101–597][/us/pl/101/597], § 201(b), inserted par. (1) designation, redesignated former pars. (1) and (2) as subpars. (A) and (B), inserted before period at end of subpar. (B) “, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program”, inserted par. (2) designation, and added par. (3).
 
-    Subsec. (d). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2)(B).
+    Subsec. (d). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2)(B).
 
-    [Pub. L. 101–597, § 201(c)][/us/pl/101/597/s201/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining which applications under the Scholarship Program to approve (and which contracts to accept), the Secretary shall give priority—
+    [Pub. L. 101–597][/us/pl/101/597], § 201(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining which applications under the Scholarship Program to approve (and which contracts to accept), the Secretary shall give priority—
 
     “(1) first, to applications made (and contracts submitted) by individuals who have previously received scholarships under the Scholarship Program or under [section 294z of this title][/us/usc/t42/s294z]; and
 
@@ -205,31 +205,31 @@
 
     “(C) for each school year thereafter, by individuals who are entering their first year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year.”
 
-    Subsec. (f)(1)(B)(iv). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in closing provisions.
+    Subsec. (f)(1)(B)(iv). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in closing provisions.
 
-    [Pub. L. 101–597, § 201(a)(2)][/us/pl/101/597/s201/a/2], substituted “as a provider of primary health services” after “whichever is greater,”.
+    [Pub. L. 101–597][/us/pl/101/597], § 201(a)(2), substituted “as a provider of primary health services” after “whichever is greater,”.
 
     Subsec. (g)(3). [Pub. L. 101–509][/us/pl/101/509] substituted “(under [section 5303 of title 5][/us/usc/t5/s5303])” for “(as set forth in the report transmitted to the Congress under [section 5305 of title 5][/us/usc/t5/s5305])”.
 
-    Subsec. (i). [Pub. L. 101–597, § 201(d)(1)][/us/pl/101/597/s201/d/1], amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall report to Congress on March 1 of each year—”.
+    Subsec. (i). [Pub. L. 101–597][/us/pl/101/597], § 201(d)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall report to Congress on March 1 of each year—”.
 
-    Subsec. (i)(4), (5). [Pub. L. 101–597, § 201(d)(2)][/us/pl/101/597/s201/d/2], added pars. (4) and (5) and struck out former par. (4) which read as follows: “the amount of tuition paid in the aggregate and at each educational institution for the school year beginning in such year and for prior school years.”
+    Subsec. (i)(4), (5). [Pub. L. 101–597][/us/pl/101/597], § 201(d)(2), added pars. (4) and (5) and struck out former par. (4) which read as follows: “the amount of tuition paid in the aggregate and at each educational institution for the school year beginning in such year and for prior school years.”
 
-    Subsec. (i)(6). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsec. (i)(6). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    [Pub. L. 101–597, § 201(d)(2)(C)][/us/pl/101/597/s201/d/2/C], added par. (6).
+    [Pub. L. 101–597][/us/pl/101/597], § 201(d)(2)(C), added par. (6).
 
     1988—Subsec. (b)(1). [Pub. L. 100–607][/us/pl/100/607] substituted “osteopathic medicine” for “osteopathy”.
 
     1985—Subsec. (g)(1). [Pub. L. 99–129][/us/pl/99/129] struck out “or under [section 294z of this title][/us/usc/t42/s294z] (relating to scholarships for first-year students of exceptional financial need),” after “Scholarship Program”.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 2709(b)(1)][/us/pl/97/35/s2709/b/1], inserted reference to clinical psychologists.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 2709(b)(1), inserted reference to clinical psychologists.
 
-    Subsec. (c). [Pub. L. 97–35, § 2709(b)(2)][/us/pl/97/35/s2709/b/2], (3), substituted “254o” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 2709(b)(2), (3), substituted “254o” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
 
-    Subsec. (f). [Pub. L. 97–35, § 2709(b)(4)][/us/pl/97/35/s2709/b/4]–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted “254o” for “294w”.
+    Subsec. (f). [Pub. L. 97–35][/us/pl/97/35], § 2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted “254o” for “294w”.
 
-    Subsec. (j). [Pub. L. 97–35, § 2709(b)(7)][/us/pl/97/35/s2709/b/7], struck out subsec. (j) which related to consultation and participation of schools.
+    Subsec. (j). [Pub. L. 97–35][/us/pl/97/35], § 2709(b)(7), struck out subsec. (j) which related to consultation and participation of schools.
 
     1979—Subsec. (g)(3). [Pub. L. 96–32][/us/pl/96/32] substituted “[section 5305 of title 5][/us/usc/t5/s5305]” for “[section 5303 of title 5][/us/usc/t5/s5303]”.
 
@@ -249,7 +249,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–129, title II, § 228][/us/pl/99/129/s228], Oct. 22, 1985, [99 Stat. 548][/us/stat/99/548], provided that:
+[Pub. L. 99–129, title II][/us/pl/99/129/tII], § 228, Oct. 22, 1985, [99 Stat. 548][/us/stat/99/548], provided that:
 
 >     “(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act \[enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and [section 3811 of Title 50][/us/usc/t50/s3811], War and National Defense, and amending provisions set out as a note under [section 298b–5 of this title][/us/usc/t42/s298b–5]\] shall take effect on the date of enactment of this Act \[Oct. 22, 1985\].
 
@@ -269,15 +269,15 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–215, § 5][/us/pl/95/215/s5], Dec. 19, 1977, [91 Stat. 1506][/us/stat/91/1506], provided that the amendment made by that section is effective Oct. 1, 1977.
+    [Pub. L. 95–215][/us/pl/95/215], § 5, Dec. 19, 1977, [91 Stat. 1506][/us/stat/91/1506], provided that the amendment made by that section is effective Oct. 1, 1977.
 
  __Effective Date__ 
 
-    [Pub. L. 94–484, title IV, § 408(b)(1)][/us/pl/94/484/s408/b/1], Oct. 12, 1976, [90 Stat. 2281][/us/stat/90/2281], provided that the enactment of sections 254l to 254r of this title and repeal of [section 234 of this title][/us/usc/t42/s234] by [Pub. L. 94–484][/us/pl/94/484] is effective Oct. 1, 1977.
+    [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 408(b)(1), Oct. 12, 1976, [90 Stat. 2281][/us/stat/90/2281], provided that the enactment of sections 254l to 254r of this title and repeal of [section 234 of this title][/us/usc/t42/s234] by [Pub. L. 94–484][/us/pl/94/484] is effective Oct. 1, 1977.
 
  __Effective Date; Savings Provision; Credit for Period of Internship or Residency Before__  __September 30, 1977__  __, Towards Service Obligation__ 
 
-[Pub. L. 94–484, title IV, § 408(b)(2)][/us/pl/94/484/s408/b/2], Oct. 12, 1976, [90 Stat. 2288][/us/stat/90/2288], as amended, eff. Oct. 12, 1976, by [Pub. L. 95–83, title III, § 307(p)][/us/pl/95/83/s307/p], Aug. 1, 1977, [91 Stat. 394][/us/stat/91/394], provided that:
+[Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 408(b)(2), Oct. 12, 1976, [90 Stat. 2288][/us/stat/90/2288], as amended, eff. Oct. 12, 1976, by [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 307(p), Aug. 1, 1977, [91 Stat. 394][/us/stat/91/394], provided that:
 
 >     “(A) Except as provided in subparagraphs (B) and (C), the amendment made by paragraph (1) of this subsection \[enacting this section and sections 254l–1 to 254r of this title and repealing [section 234 of this title][/us/usc/t42/s234]\] shall apply with respect to scholarships awarded under the National Health Service Corps Scholarship Program from appropriations for such Program for fiscal years beginning after September 30, 1977.
 
@@ -287,7 +287,7 @@
 
  __Scholarship and Loan Repayment Programs__ 
 
-[Pub. L. 107–251, title III, § 302(c)][/us/pl/107/251/s302/c], Oct. 26, 2002, [116 Stat. 1644][/us/stat/116/1644], provided that: 
+[Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 302(c), Oct. 26, 2002, [116 Stat. 1644][/us/stat/116/1644], provided that: 
 
 > “The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act ([42 U.S.C. 254][/us/usc/t42/s254]l) and the Loan Repayment Program under section 338B of such Act ([42 U.S.C. 254][/us/usc/t42/s254]l–1).”
 
@@ -306,79 +306,79 @@
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2281
-[/us/pl/95/215/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215%2Fs5
+[/us/pl/95/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215
 [/us/stat/91/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1506
-[/us/pl/95/623/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs12%2Fc
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3457
-[/us/pl/95/626/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs113%2Fb
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3563
-[/us/pl/96/32/s7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs7%2Fi
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F84
-[/us/pl/97/35/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F908
-[/us/pl/99/129/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs210%2Fb
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F537
-[/us/pl/100/607/s629/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs629%2Fa%2F2
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3146
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/101/597/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201
+[/us/pl/101/597/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtII
 [/us/stat/104/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3021
-[/us/pl/107/251/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1649
-[/us/pl/108/163/s2/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fj
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2022
 [/us/usc/t42/s294z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294z
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/usc/t42/s292k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292k
-[/us/pl/97/35/s2720/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2720%2Fb
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F915
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t42/s294t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294t
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
-[/us/pl/107/251/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309%2F1
-[/us/pl/107/251/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309%2F2
-[/us/pl/107/251/s309/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309%2F3
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s254n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n
-[/us/pl/107/251/s309/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309%2F4
-[/us/pl/107/251/s309/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309%2F5%2FA
-[/us/pl/107/251/s309/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309%2F5%2FB
-[/us/pl/107/251/s309/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs309%2F6
-[/us/pl/101/597/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201%2Fa%2F1
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t42/s254d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254d%2Fa%2F2
 [/us/usc/t42/s296m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296m
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201%2Fc
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t42/s294z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294z
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201%2Fa%2F2
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/101/597/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201%2Fd%2F1
-[/us/pl/101/597/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201%2Fd%2F2
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s201/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs201%2Fd%2F2%2FC
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/99/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129
 [/us/usc/t42/s294z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294z
-[/us/pl/97/35/s2709/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fb%2F1
-[/us/pl/97/35/s2709/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fb%2F2
-[/us/pl/97/35/s2709/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fb%2F4
-[/us/pl/97/35/s2709/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fb%2F7
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
@@ -392,7 +392,7 @@
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/99/129/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs228
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F548
 [/us/usc/t50/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811
 [/us/usc/t42/s298b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298b%E2%80%935
@@ -401,19 +401,19 @@
 [/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
 [/us/usc/t42/s294q–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294q%E2%80%932
 [/us/usc/t42/s295g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295g%E2%80%931
-[/us/pl/95/215/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215%2Fs5
+[/us/pl/95/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215
 [/us/stat/91/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1506
-[/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2281
 [/us/usc/t42/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs234
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
-[/us/pl/94/484/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F2
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2288
-[/us/pl/95/83/s307/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs307%2Fp
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F394
 [/us/usc/t42/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs234
 [/us/usc/t42/s234/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs234%2Ff%2F1
-[/us/pl/107/251/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fc
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1644
 [/us/usc/t42/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254
 [/us/usc/t42/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254

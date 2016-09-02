@@ -17,7 +17,7 @@
 
     The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the project described in the application submitted under [section 3796cc–1(a) of this title][/us/usc/t42/s3796cc–1/a] for the fiscal year for which the project receives assistance under this subchapter.
 
-([Pub. L. 90–351, title I, § 1605][/us/pl/90/351/s1605], as added [Pub. L. 102–521, § 4(a)(3)][/us/pl/102/521/s4/a/3], Oct. 25, 1992, [106 Stat. 3405][/us/stat/106/3405].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1605, as added [Pub. L. 102–521][/us/pl/102/521], § 4(a)(3), Oct. 25, 1992, [106 Stat. 3405][/us/stat/106/3405].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t42/s3796cc–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796cc%E2%80%931%2Fa
-[/us/pl/90/351/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1605
-[/us/pl/102/521/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs4%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3405
 
 

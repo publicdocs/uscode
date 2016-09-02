@@ -41,7 +41,7 @@
 
         The Administrator may not deny payment for any damage to or loss of property which is covered by flood insurance to condominium owners who purchased such flood insurance separate and apart from the flood insurance purchased by the condominium association in which such owner is a member, based solely, or in any part, on the flood insurance coverage of the condominium association or others on the overall property owned by the condominium association.
 
-([Pub. L. 90–448, title XIII, § 1312][/us/pl/90/448/s1312], Aug. 1, 1968, [82 Stat. 579][/us/stat/82/579]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100210, 100214, July 6, 2012, [126 Stat. 920][/us/stat/126/920], 924.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1312, Aug. 1, 1968, [82 Stat. 579][/us/stat/82/579]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100210, 100214, July 6, 2012, [126 Stat. 920][/us/stat/126/920], 924.)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, § 100210][/us/pl/112/141/s100210], designated existing provisions as subsec. (a) and inserted heading, substituted “The Administrator is” for “The Director is”, and added subsec. (b).
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 100210, designated existing provisions as subsec. (a) and inserted heading, substituted “The Administrator is” for “The Director is”, and added subsec. (b).
 
-    Subsec. (c). [Pub. L. 112–141, § 100214][/us/pl/112/141/s100214], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 100214, added subsec. (c).
 
     1983—[Pub. L. 98–181][/us/pl/98/181] substituted “Director” for “Secretary”.
 
@@ -70,17 +70,17 @@
 
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
-[/us/pl/90/448/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1312
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F579
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F920
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/112/141/s100210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100210
-[/us/pl/112/141/s100214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100214
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

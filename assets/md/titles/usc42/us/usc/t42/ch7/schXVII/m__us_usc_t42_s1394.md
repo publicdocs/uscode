@@ -17,7 +17,7 @@
 
     Payment of grants under this subchapter may be made (after necessary adjustment on account of previously made underpayments or overpayments) in advance or by way of reimbursement, and in such installments and on such conditions, as the Secretary may determine.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVII, § 1704, as added [Pub. L. 88–156, § 5][/us/pl/88/156/s5], Oct. 24, 1963, [77 Stat. 276][/us/stat/77/276].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVII, § 1704, as added [Pub. L. 88–156][/us/pl/88/156], § 5, Oct. 24, 1963, [77 Stat. 276][/us/stat/77/276].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/88/156/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs5
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F276
 
 

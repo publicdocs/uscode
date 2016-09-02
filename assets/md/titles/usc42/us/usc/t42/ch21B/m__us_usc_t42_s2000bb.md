@@ -37,7 +37,7 @@
 
         (2) to provide a claim or defense to persons whose religious exercise is substantially burdened by government.
 
-([Pub. L. 103–141, § 2][/us/pl/103/141/s2], Nov. 16, 1993, [107 Stat. 1488][/us/stat/107/1488].)
+([Pub. L. 103–141][/us/pl/103/141], § 2, Nov. 16, 1993, [107 Stat. 1488][/us/stat/107/1488].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@ For constitutionality of [section 2 of Pub. L. 103–141][/us/pl/103/141/s2], se
 
  __Short Title__ 
 
-[Pub. L. 103–141, § 1][/us/pl/103/141/s1], Nov. 16, 1993, [107 Stat. 1488][/us/stat/107/1488], provided that: 
+[Pub. L. 103–141][/us/pl/103/141], § 1, Nov. 16, 1993, [107 Stat. 1488][/us/stat/107/1488], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 1988 of this title][/us/usc/t42/s1988] and [section 504 of Title 5][/us/usc/t5/s504], Government Organization and Employees\] may be cited as the ‘Religious Freedom Restoration Act of 1993’.”
 
@@ -60,12 +60,12 @@ For constitutionality of [section 2 of Pub. L. 103–141][/us/pl/103/141/s2], se
 ----------
 ----------
 
-[/us/pl/103/141/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs2
+[/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488
 [/us/pl/103/141/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs2
-[/us/pl/103/141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs1
+[/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488
 [/us/usc/t42/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1988
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504

@@ -39,11 +39,11 @@
 
         (2) the costs to such facility of providing health services in such facility, and the charges made for such services, during the period with respect to which the statement is filed.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1625, formerly § 1634, as added [Pub. L. 93–641, § 4][/us/pl/93/641/s4], Jan. 4, 1975, [88 Stat. 2273][/us/stat/88/2273]; renumbered § 1625, [Pub. L. 96–79, title II, § 202(b)][/us/pl/96/79/s202/b], Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1625, formerly § 1634, as added [Pub. L. 93–641][/us/pl/93/641], § 4, Jan. 4, 1975, [88 Stat. 2273][/us/stat/88/2273]; renumbered § 1625, [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 202(b), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].)
 
  __Prior Provisions__ 
 
-    A prior section 1625 of act July 1, 1944, was renumbered section 1610 by [Pub. L. 96–79, title II, § 203(b)][/us/pl/96/79/s203/b], Oct. 4, 1979, [93 Stat. 635][/us/stat/93/635], and is classified to [section 300r of this title][/us/usc/t42/s300r].
+    A prior section 1625 of act July 1, 1944, was renumbered section 1610 by [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 203(b), Oct. 4, 1979, [93 Stat. 635][/us/stat/93/635], and is classified to [section 300r of this title][/us/usc/t42/s300r].
 
 ----------
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2273
-[/us/pl/96/79/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fb
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
-[/us/pl/96/79/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Fb
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F635
 [/us/usc/t42/s300r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300r
 

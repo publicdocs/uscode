@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934a)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4b...247b–4d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934a)
 
 ## § 247b–4a. Early detection, diagnosis, and interventions for newborns and infants with hearing loss
 
@@ -119,7 +119,7 @@
 
             For the purpose of carrying out subsection (d)(2) of this section under the existing authority of the Public Health Service Act, there are authorized to the National Institute on Deafness and Other Communication Disorders appropriations for such sums as may be necessary for each of the fiscal years 2000 through 2002.
 
-([Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title VI, § 601\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–276.)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title VI, § 601\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–276.)
 
  __References in Text__ 
 
@@ -133,17 +133,9 @@
 
     Section was enacted as part of the Departments of Labor, Health, and Human Services, and Education, and Related Agencies Appropriations Act, 2000, and not as part of the Public Health Service Act which comprises this chapter.
 
-§§ 247b–4b to 247b–4d. __Repealed.__  __[__  __Pub. L. 109–416, § 3(b)(1)__  __][/us/pl/109/416/s3/b/1]__  __–(3),__  __Dec. 19, 2006__  __,__  __[__  __120 Stat. 2829__  __][/us/stat/120/2829]__ 
-
-    Section 247b–4b, [Pub. L. 106–310, div. A, title I, § 102][/us/pl/106/310/s102], Oct. 17, 2000, [114 Stat. 1107][/us/stat/114/1107], related to developmental disabilities surveillance and research programs.
-
-    Section 247b–4c, [Pub. L. 106–310, div. A, title I, § 103][/us/pl/106/310/s103], Oct. 17, 2000, [114 Stat. 1108][/us/stat/114/1108], related to information and education.
-
-    Section 247b–4d, [Pub. L. 106–310, div. A, title I, § 104][/us/pl/106/310/s104], Oct. 17, 2000, [114 Stat. 1109][/us/stat/114/1109], related to Inter-agency Autism Coordinating Committee.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934a)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4b...247b–4d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934a)
 
 ----------
 ----------
@@ -158,7 +150,7 @@
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
@@ -169,13 +161,5 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/109/416/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416%2Fs3%2Fb%2F1
-[/us/stat/120/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2829
-[/us/pl/106/310/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs102
-[/us/stat/114/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1107
-[/us/pl/106/310/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs103
-[/us/stat/114/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1108
-[/us/pl/106/310/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs104
-[/us/stat/114/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1109
 
 

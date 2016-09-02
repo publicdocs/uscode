@@ -89,7 +89,7 @@
 
             Of the amount made available to carry out this section in any fiscal year, the Attorney General shall ensure that grants awarded under this section are equitably distributed among geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
 
-([Pub. L. 110–199, title II, § 201][/us/pl/110/199/s201], Apr. 9, 2008, [122 Stat. 678][/us/stat/122/678].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 201, Apr. 9, 2008, [122 Stat. 678][/us/stat/122/678].)
 
 ----------
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/110/199/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs201
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F678
 
 

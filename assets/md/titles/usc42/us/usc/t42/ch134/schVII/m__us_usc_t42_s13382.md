@@ -89,7 +89,7 @@
 
         The Secretary shall provide for a period of public review and comment of the least-cost energy strategy, for a period of at least 30 days, to be completed at least 60 days before the issuance of such strategy. The Secretary shall also provide for public review and comment before the issuance of any update to the least-cost energy strategy required under this section.
 
-([Pub. L. 102–486, title XVI, § 1602][/us/pl/102/486/s1602], Oct. 24, 1992, [106 Stat. 2999][/us/stat/106/2999].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1602, Oct. 24, 1992, [106 Stat. 2999][/us/stat/106/2999].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 
 [/us/usc/t42/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7321
 [/us/usc/t42/s13381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13381
-[/us/pl/102/486/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1602
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
 [/us/stat/106/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2999
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2999

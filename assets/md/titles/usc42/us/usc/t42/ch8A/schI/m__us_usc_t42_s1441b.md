@@ -29,7 +29,7 @@
 
     Such report shall, in addition, contain a projection of the residential mortgage market needs and prospects during the coming year, including an estimate of the requirements with respect to the availability, need, and flow of mortgage funds (particularly in declining urban and rural areas) during such year, together with such recommendations as may be deemed appropriate for encouraging the availability of such funds.
 
-([Pub. L. 90–448, title XVI, § 1602][/us/pl/90/448/s1602], Aug. 1, 1968, [82 Stat. 601][/us/stat/82/601].)
+([Pub. L. 90–448, title XVI][/us/pl/90/448/tXVI], § 1602, Aug. 1, 1968, [82 Stat. 601][/us/stat/82/601].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441a
-[/us/pl/90/448/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1602
+[/us/pl/90/448/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXVI
 [/us/stat/82/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F601
 
 

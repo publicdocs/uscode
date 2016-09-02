@@ -45,11 +45,11 @@
 
         In determining the amount of funds that States organized as a regional compact may receive, the Attorney General shall first apply the formula in either subsection (a) or (b) and (c) of this section to each member State of the compact. The States organized as a regional compact may receive the sum of the amounts so determined.
 
-([Pub. L. 103–322, title II, § 20106][/us/pl/103/322/s20106], as added [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–18; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20106, as added [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–18; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __Prior Provisions__ 
 
-    A prior section 13706, [Pub. L. 103–322, title II, § 20106][/us/pl/103/322/s20106], Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], related to technical assistance and training prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
+    A prior section 13706, [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20106, Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], related to technical assistance and training prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
 
 ----------
 
@@ -71,12 +71,12 @@
 [/us/usc/t42/s13704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13704
 [/us/usc/t42/s13704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13704
 [/us/usc/t42/s13704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13704
-[/us/pl/103/322/s20106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20106
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/322/s20106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20106
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1818
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 

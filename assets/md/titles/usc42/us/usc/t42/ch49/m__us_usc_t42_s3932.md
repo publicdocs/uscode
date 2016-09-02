@@ -27,7 +27,7 @@
 
         Nothing in this chapter shall be construed to preclude private persons from creating other corporations and organizing other partnerships, joint ventures, or associations for the purposes set forth in this chapter as the purposes of the corporation and the partnership described in [section 3937 of this title][/us/usc/t42/s3937].
 
-([Pub. L. 90–448, title IX, § 902][/us/pl/90/448/s902], Aug. 1, 1968, [82 Stat. 547][/us/stat/82/547].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 902, Aug. 1, 1968, [82 Stat. 547][/us/stat/82/547].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3937
 [/us/usc/t42/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3937
-[/us/pl/90/448/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs902
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F547
 [/us/act/1954-06-08/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-08%2Fch269
 [/us/stat/68/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F179

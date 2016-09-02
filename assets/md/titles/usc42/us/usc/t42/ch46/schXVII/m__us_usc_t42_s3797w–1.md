@@ -27,7 +27,7 @@
 
         (2) any recommendations the Attorney General has with regard to expanding, changing, or eliminating the demonstration projects.
 
-([Pub. L. 90–351, title I, § 2977][/us/pl/90/351/s2977], as added [Pub. L. 107–273, div. B, title II, § 2421(a)][/us/pl/107/273/s2421/a], Nov. 2, 2002, [116 Stat. 1802][/us/stat/116/1802].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2977, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2421(a), Nov. 2, 2002, [116 Stat. 1802][/us/stat/116/1802].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t42/s3797w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797w
-[/us/pl/90/351/s2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2977
-[/us/pl/107/273/s2421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2421%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1802
 
 

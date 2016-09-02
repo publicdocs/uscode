@@ -45,7 +45,7 @@
 
         (3) From funds appropriated under [section 5082 of this title][/us/usc/t42/s5082], the Director shall expend not less than $375,000 in each fiscal year to carry out paragraph (2).
 
-([Pub. L. 93–113, title II, § 221][/us/pl/93/113/s221], Oct. 1, 1973, [87 Stat. 403][/us/stat/87/403]; [Pub. L. 96–143, § 18(b)][/us/pl/96/143/s18/b], Dec. 13, 1979, [93 Stat. 1083][/us/stat/93/1083]; [Pub. L. 97–35, title VI, § 608(f)(2)][/us/pl/97/35/s608/f/2], Aug. 13, 1981, [95 Stat. 488][/us/stat/95/488]; [Pub. L. 101–204, title V, § 505][/us/pl/101/204/s505], Dec. 7, 1989, [103 Stat. 1817][/us/stat/103/1817]; [Pub. L. 103–82, title III][/us/pl/103/82], §§ 341(b)(2), 348, Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904], 905; [Pub. L. 111–13, title II, § 2146(a)][/us/pl/111/13/s2146/a], Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 221, Oct. 1, 1973, [87 Stat. 403][/us/stat/87/403]; [Pub. L. 96–143][/us/pl/96/143], § 18(b), Dec. 13, 1979, [93 Stat. 1083][/us/stat/93/1083]; [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 608(f)(2), Aug. 13, 1981, [95 Stat. 488][/us/stat/95/488]; [Pub. L. 101–204, title V][/us/pl/101/204/tV], § 505, Dec. 7, 1989, [103 Stat. 1817][/us/stat/103/1817]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], §§ 341(b)(2), 348, Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904], 905; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2146(a), Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
 
  __References in Text__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 2146(a)(1)][/us/pl/111/13/s2146/a/1], substituted “Service” for “Volunteer” in section catchline.
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 2146(a)(1), substituted “Service” for “Volunteer” in section catchline.
 
-    Subsec. (b)(2). [Pub. L. 111–13, § 2146(a)(2)][/us/pl/111/13/s2146/a/2], substituted “participation of volunteers of all ages and backgrounds, living in urban or rural communities” for “participation of volunteers”.
+    Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 2146(a)(2), substituted “participation of volunteers of all ages and backgrounds, living in urban or rural communities” for “participation of volunteers”.
 
-    1993—[Pub. L. 103–82, § 341(b)(2)][/us/pl/103/82/s341/b/2], substituted “National Senior Volunteer Corps” for “older American volunteer programs” in section catchline.
+    1993—[Pub. L. 103–82][/us/pl/103/82], § 341(b)(2), substituted “National Senior Volunteer Corps” for “older American volunteer programs” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–82, § 348(a)][/us/pl/103/82/s348/a], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 348(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(3). [Pub. L. 103–82, § 348(b)][/us/pl/103/82/s348/b], substituted “$375,000” for “$250,000”.
+    Subsec. (b)(3). [Pub. L. 103–82][/us/pl/103/82], § 348(b), substituted “$375,000” for “$250,000”.
 
     1989—[Pub. L. 101–204][/us/pl/101/204] substituted “Promotion of older American volunteer” for “Coordination with other Federal” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
@@ -89,17 +89,17 @@
 [/us/usc/t42/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3021
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s5082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5082
-[/us/pl/93/113/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs221
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
 [/us/stat/87/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F403
-[/us/pl/96/143/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs18%2Fb
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1083
-[/us/pl/97/35/s608/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs608%2Ff%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F488
-[/us/pl/101/204/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs505
+[/us/pl/101/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtV
 [/us/stat/103/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1817
-[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F904
-[/us/pl/111/13/s2146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fa
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1589
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
@@ -107,11 +107,11 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/13/s2146/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fa%2F1
-[/us/pl/111/13/s2146/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fa%2F2
-[/us/pl/103/82/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs341%2Fb%2F2
-[/us/pl/103/82/s348/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs348%2Fa
-[/us/pl/103/82/s348/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs348%2Fb
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143

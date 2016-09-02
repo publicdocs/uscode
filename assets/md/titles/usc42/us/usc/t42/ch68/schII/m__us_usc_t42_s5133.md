@@ -245,7 +245,7 @@
 
             The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
 
-([Pub. L. 93–288, title II, § 203][/us/pl/93/288/s203], as added [Pub. L. 106–390, title I, § 102(a)][/us/pl/106/390/s102/a], Oct. 30, 2000, [114 Stat. 1553][/us/stat/114/1553]; amended [Pub. L. 108–199, div. H, § 135][/us/pl/108/199/s135], Jan. 23, 2004, [118 Stat. 441][/us/stat/118/441]; [Pub. L. 108–447, div. J, title I, § 105][/us/pl/108/447/s105], Dec. 8, 2004, [118 Stat. 3343][/us/stat/118/3343]; [Pub. L. 109–139, § 2][/us/pl/109/139/s2], Dec. 22, 2005, [119 Stat. 2649][/us/stat/119/2649]; [Pub. L. 110–329, div. D, title V, § 553][/us/pl/110/329/s553], Sept. 30, 2008, [122 Stat. 3690][/us/stat/122/3690]; [Pub. L. 111–83, title V, § 543][/us/pl/111/83/s543], Oct. 28, 2009, [123 Stat. 2176][/us/stat/123/2176]; [Pub. L. 111–351][/us/pl/111/351], §§ 3(a), (b), 4, Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title II][/us/pl/93/288/tII], § 203, as added [Pub. L. 106–390, title I][/us/pl/106/390/tI], § 102(a), Oct. 30, 2000, [114 Stat. 1553][/us/stat/114/1553]; amended [Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 135, Jan. 23, 2004, [118 Stat. 441][/us/stat/118/441]; [Pub. L. 108–447, div. J, title I][/us/pl/108/447/dJ/tI], § 105, Dec. 8, 2004, [118 Stat. 3343][/us/stat/118/3343]; [Pub. L. 109–139][/us/pl/109/139], § 2, Dec. 22, 2005, [119 Stat. 2649][/us/stat/119/2649]; [Pub. L. 110–329, div. D, title V][/us/pl/110/329/dD/tV], § 553, Sept. 30, 2008, [122 Stat. 3690][/us/stat/122/3690]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 543, Oct. 28, 2009, [123 Stat. 2176][/us/stat/123/2176]; [Pub. L. 111–351][/us/pl/111/351], §§ 3(a), (b), 4, Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __References in Text__ 
 
@@ -253,11 +253,11 @@
 
  __Amendments__ 
 
-    2011—Subsec. (f). [Pub. L. 111–351, § 3(a)][/us/pl/111/351/s3/a], amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a different allocation of funds.
+    2011—Subsec. (f). [Pub. L. 111–351][/us/pl/111/351], § 3(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a different allocation of funds.
 
-    Subsec. (m). [Pub. L. 111–351, § 3(b)][/us/pl/111/351/s3/b], amended subsec. (m) generally. Prior to amendment, subsec. (m) related to the termination of this section on Sept. 30, 2010.
+    Subsec. (m). [Pub. L. 111–351][/us/pl/111/351], § 3(b), amended subsec. (m) generally. Prior to amendment, subsec. (m) related to the termination of this section on Sept. 30, 2010.
 
-    Subsec. (n). [Pub. L. 111–351, § 4][/us/pl/111/351/s4], added subsec. (n).
+    Subsec. (n). [Pub. L. 111–351][/us/pl/111/351], § 4, added subsec. (n).
 
     2009—Subsec. (m). [Pub. L. 111–83][/us/pl/111/83] substituted “September 30, 2010” for “September 30, 2009”.
 
@@ -271,7 +271,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–351, § 2][/us/pl/111/351/s2], Jan. 4, 2011, [124 Stat. 3863][/us/stat/124/3863], provided that: 
+[Pub. L. 111–351][/us/pl/111/351], § 2, Jan. 4, 2011, [124 Stat. 3863][/us/stat/124/3863], provided that: 
 
 > “Congress finds the following:
 
@@ -287,7 +287,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 106–390, title I, § 101][/us/pl/106/390/s101], Oct. 30, 2000, [114 Stat. 1552][/us/stat/114/1552], provided that:
+[Pub. L. 106–390, title I][/us/pl/106/390/tI], § 101, Oct. 30, 2000, [114 Stat. 1552][/us/stat/114/1552], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -339,35 +339,35 @@
 ----------
 
 [/us/usc/t42/s5165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165
-[/us/pl/93/288/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs203
-[/us/pl/106/390/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs102%2Fa
+[/us/pl/93/288/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtII
+[/us/pl/106/390/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtI
 [/us/stat/114/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1553
-[/us/pl/108/199/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs135
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F441
-[/us/pl/108/447/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs105
+[/us/pl/108/447/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtI
 [/us/stat/118/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3343
-[/us/pl/109/139/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F139%2Fs2
+[/us/pl/109/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F139
 [/us/stat/119/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2649
-[/us/pl/110/329/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs553
+[/us/pl/110/329/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdD%2FtV
 [/us/stat/122/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3690
-[/us/pl/111/83/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs543
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2176
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/111/351/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fa
-[/us/pl/111/351/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fb
-[/us/pl/111/351/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs4
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
 [/us/pl/109/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F139
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/111/351/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3863
-[/us/pl/106/390/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs101
+[/us/pl/106/390/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtI
 [/us/stat/114/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1552
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t42/s5170c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170c

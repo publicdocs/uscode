@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be construed to prohibit or exclude the expenditure of appropriations to grant recipients that would have been or are eligible to receive grants under subpart 1 of part E of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3751][/us/usc/t42/s3751] et seq.\].
 
-([Pub. L. 103–322, title XXXII, § 320919][/us/pl/103/322/s320919], Sept. 13, 1994, [108 Stat. 2130][/us/stat/108/2130].)
+([Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320919, Sept. 13, 1994, [108 Stat. 2130][/us/stat/108/2130].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3751
-[/us/pl/103/322/s320919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320919
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2130
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1796

@@ -83,7 +83,7 @@
 
             Not later than 1 year after April 30, 2003, the Secretary shall transmit to Congress a report on the results of the study, together with any recommendations the Secretary determines appropriate.
 
-([Pub. L. 108–21, title III, § 303][/us/pl/108/21/s303], Apr. 30, 2003, [117 Stat. 662][/us/stat/117/662].)
+([Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 303, Apr. 30, 2003, [117 Stat. 662][/us/stat/117/662].)
 
  __Codification__ 
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/108/21/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs303
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F662
 
 

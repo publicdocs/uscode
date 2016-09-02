@@ -47,7 +47,7 @@
 
     (7) “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-([Pub. L. 97–35, title IX, § 978][/us/pl/97/35/s978], Aug. 13, 1981, [95 Stat. 599][/us/stat/95/599].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 978, Aug. 13, 1981, [95 Stat. 599][/us/stat/95/599].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs978
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F599
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

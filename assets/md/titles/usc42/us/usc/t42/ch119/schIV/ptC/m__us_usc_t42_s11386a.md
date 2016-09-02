@@ -133,7 +133,7 @@
 
         (2) to ensure that collaborative applicants are not discouraged from replacing renewal projects with new projects that the collaborative applicant determines will better be able to meet the purposes of this chapter.
 
-([Pub. L. 100–77, title IV, § 427][/us/pl/100/77/s427], as added [Pub. L. 111–22, div. B, title III, § 1305(3)][/us/pl/111/22/s1305/3], May 20, 2009, [123 Stat. 1690][/us/stat/123/1690].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 427, as added [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1305(3), May 20, 2009, [123 Stat. 1690][/us/stat/123/1690].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 
     A prior [section 427 of Pub. L. 100–77][/us/pl/100/77/s427] was renumbered section 432 and is classified to [section 11387 of this title][/us/usc/t42/s11387].
 
-    Another prior [section 427 of Pub. L. 100–77][/us/pl/100/77/s427], July 22, 1987, [101 Stat. 504][/us/stat/101/504]; [Pub. L. 100–628, title IV, § 453][/us/pl/100/628/s453], Nov. 7, 1988, [102 Stat. 3236][/us/stat/102/3236], which provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, was classified to [section 11387 of this title][/us/usc/t42/s11387] prior to repeal by [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
+    Another prior [section 427 of Pub. L. 100–77][/us/pl/100/77/s427], July 22, 1987, [101 Stat. 504][/us/stat/101/504]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 453, Nov. 7, 1988, [102 Stat. 3236][/us/stat/102/3236], which provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, was classified to [section 11387 of this title][/us/usc/t42/s11387] prior to repeal by [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
 
  __Effective Date__ 
 
@@ -165,8 +165,8 @@
 [/us/usc/t42/s11313/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11313%2Fa%2F7
 [/us/usc/t42/s11382/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11382%2Fj
 [/us/usc/t42/s11302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302%2Fa
-[/us/pl/100/77/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs427
-[/us/pl/111/22/s1305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1305%2F3
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1690
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
@@ -175,10 +175,10 @@
 [/us/usc/t42/s11387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11387
 [/us/pl/100/77/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs427
 [/us/stat/101/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F504
-[/us/pl/100/628/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs453
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3236
 [/us/usc/t42/s11387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11387
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4013
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

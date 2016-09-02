@@ -17,7 +17,7 @@
 
     Whenever real property is acquired by a State agency at the request of a Federal agency for a Federal program or project, such acquisition shall, for the purposes of this chapter, be deemed an acquisition by the Federal agency having authority over such program or project.
 
-([Pub. L. 91–646, title II, § 208][/us/pl/91/646/s208], Jan. 2, 1971, [84 Stat. 1899][/us/stat/84/1899].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 208, Jan. 2, 1971, [84 Stat. 1899][/us/stat/84/1899].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/646/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs208
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1899
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

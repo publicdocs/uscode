@@ -29,11 +29,11 @@
 
     At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of 90 consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for 30 consecutive days in the case of such an individual who has maintained his residence in such State during such period or 90 consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of aid under such plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title X, § 1006, [49 Stat. 647][/us/stat/49/647]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title VII, § 703, [53 Stat. 1398][/us/stat/53/1398]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 4, § 343(a), [64 Stat. 554][/us/stat/64/554]; [Pub. L. 87–543, title I, § 156(c)][/us/pl/87/543/s156/c], July 25, 1962, [76 Stat. 207][/us/stat/76/207]; [Pub. L. 89–97, title II, § 221(b)][/us/pl/89/97/s221/b], title IV, § 402(c), July 30, 1965, [79 Stat. 358][/us/stat/79/358], 416; [Pub. L. 92–603, title IV][/us/pl/92/603], §§ 408(b), 409(b), Oct. 30, 1972, [86 Stat. 1490][/us/stat/86/1490]; [Pub. L. 97–35, title XXI, § 2184(c)(3)][/us/pl/97/35/s2184/c/3], Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title X, § 1006, [49 Stat. 647][/us/stat/49/647]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title VII, § 703, [53 Stat. 1398][/us/stat/53/1398]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 4, § 343(a), [64 Stat. 554][/us/stat/64/554]; [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 156(c), July 25, 1962, [76 Stat. 207][/us/stat/76/207]; [Pub. L. 89–97, title II][/us/pl/89/97/tII], § 221(b), title IV, § 402(c), July 30, 1965, [79 Stat. 358][/us/stat/79/358], 416; [Pub. L. 92–603, title IV][/us/pl/92/603/tIV], §§ 408(b), 409(b), Oct. 30, 1972, [86 Stat. 1490][/us/stat/86/1490]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(c)(3), Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1950 Amendment__ 
 
-[Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, § 343(b), [64 Stat. 554][/us/stat/64/554], provided that: 
+[Act Aug. 28, 1950, ch. 809, title III][/us/act/1950-08-28/ch809/tIII], § 343(b), [64 Stat. 554][/us/stat/64/554], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in \[former\] clause (a) or (b) of section 1006 of the Social Security Act \[[42 U.S.C. 1206][/us/usc/t42/s1206]\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
 
@@ -80,15 +80,15 @@
 [/us/stat/53/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1398
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F554
-[/us/pl/87/543/s156/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs156%2Fc
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F207
-[/us/pl/89/97/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs221%2Fb
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F358
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIV
 [/us/stat/86/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1490
-[/us/pl/97/35/s2184/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fc%2F3
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F817
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
@@ -103,7 +103,7 @@
 [/us/pl/87/543/s156/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs156%2Fc
 [/us/pl/87/543/s156/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs156%2Fe
 [/us/usc/t42/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs306
-[/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
+[/us/act/1950-08-28/ch809/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809%2FtIII
 [/us/stat/64/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F554
 [/us/usc/t42/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1206
 

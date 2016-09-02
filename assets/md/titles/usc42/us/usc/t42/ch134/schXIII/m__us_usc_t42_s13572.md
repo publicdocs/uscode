@@ -49,7 +49,7 @@
 
         (2) financial assistance, including grants, cooperative agreements, or loans as authorized under this Act or other statutory authority of the Secretary.
 
-([Pub. L. 102–486, title XXXI, § 3102][/us/pl/102/486/s3102], as added [Pub. L. 109–58, title IV, § 421(a)][/us/pl/109/58/s421/a], Aug. 8, 2005, [119 Stat. 757][/us/stat/119/757].)
+([Pub. L. 102–486, title XXXI][/us/pl/102/486/tXXXI], § 3102, as added [Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 421(a), Aug. 8, 2005, [119 Stat. 757][/us/stat/119/757].)
 
  __References in Text__ 
 
@@ -66,8 +66,8 @@
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/102/486/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3102
-[/us/pl/109/58/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs421%2Fa
+[/us/pl/102/486/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXXI
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F757
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

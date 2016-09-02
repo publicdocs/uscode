@@ -17,7 +17,7 @@
 
     A State, Indian tribal government, or unit of local government that receives funds under this subchapter during a fiscal year shall submit to the Attorney General a description and an evaluation report on a date specified by the Attorney General regarding the effectiveness of this subchapter.
 
-([Pub. L. 90–351, title I, § 2958][/us/pl/90/351/s2958], as added [Pub. L. 107–273, div. B, title II, § 2301(a)][/us/pl/107/273/s2301/a], Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2958, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2301(a), Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2958
-[/us/pl/107/273/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1797
 
 

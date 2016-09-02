@@ -29,7 +29,7 @@
 
         Grants made under this subchapter shall be used to supplement, and not supplant, non-Federal funds that would otherwise be available for programs described in this subchapter.
 
-([Pub. L. 90–351, title I, § 2902][/us/pl/90/351/s2902], as added [Pub. L. 110–199, title I, § 112(a)][/us/pl/110/199/s112/a], Apr. 9, 2008, [122 Stat. 672][/us/stat/122/672].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2902, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 112(a), Apr. 9, 2008, [122 Stat. 672][/us/stat/122/672].)
 
  __Construction of 2008 Amendment__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2902
-[/us/pl/110/199/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs112%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F672
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504

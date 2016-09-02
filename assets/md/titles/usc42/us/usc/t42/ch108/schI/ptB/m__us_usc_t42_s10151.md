@@ -33,7 +33,7 @@
 
         (2) to provide, in accordance with the provisions of this part, for the establishment of a federally owned and operated system for the interim storage of spent nuclear fuel at one or more facilities owned by the Federal Government with not more than 1,900 metric tons of capacity to prevent disruptions in the orderly operation of any civilian nuclear power reactor that cannot reasonably provide adequate spent nuclear fuel storage capacity at the site of such reactor when needed.
 
-([Pub. L. 97–425, title I, § 131][/us/pl/97/425/s131], Jan. 7, 1983, [96 Stat. 2229][/us/stat/96/2229].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 131, Jan. 7, 1983, [96 Stat. 2229][/us/stat/96/2229].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs131
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2229
 
 

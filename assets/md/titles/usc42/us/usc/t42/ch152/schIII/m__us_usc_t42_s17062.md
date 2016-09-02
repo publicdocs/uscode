@@ -59,7 +59,7 @@
 
             The Administrator, in consultation with the Secretary of Energy, shall make available model commercial leasing provisions and best practices developed under this subsection to State, county, and municipal governments for use in managing owned and leased building space in accordance with the goal of encouraging investment in all cost-effective energy efficiency measures and cost-effective water efficiency measures.
 
-([Pub. L. 114–11, title I, § 102][/us/pl/114/11/s102], Apr. 30, 2015, [129 Stat. 182][/us/stat/129/182].)
+([Pub. L. 114–11, title I][/us/pl/114/11/tI], § 102, Apr. 30, 2015, [129 Stat. 182][/us/stat/129/182].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/114/11/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs102
+[/us/pl/114/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtI
 [/us/stat/129/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F182
 
 

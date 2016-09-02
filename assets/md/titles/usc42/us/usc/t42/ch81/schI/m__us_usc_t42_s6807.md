@@ -35,7 +35,7 @@
 
         (2) the amount which the Secretary is authorized to provide pursuant to subsections (b) and (c) of this section for such State.
 
-([Pub. L. 94–385, title II, § 207][/us/pl/94/385/s207], Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144]; [Pub. L. 95–617, title I, § 141][/us/pl/95/617/s141], Nov. 9, 1978, [92 Stat. 3133][/us/stat/92/3133].)
+([Pub. L. 94–385, title II][/us/pl/94/385/tII], § 207, Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144]; [Pub. L. 95–617, title I][/us/pl/95/617/tI], § 141, Nov. 9, 1978, [92 Stat. 3133][/us/stat/92/3133].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t16/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2601
 [/us/usc/t15/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3201
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933
-[/us/pl/94/385/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs207
+[/us/pl/94/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtII
 [/us/stat/90/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1144
-[/us/pl/95/617/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs141
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3133
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

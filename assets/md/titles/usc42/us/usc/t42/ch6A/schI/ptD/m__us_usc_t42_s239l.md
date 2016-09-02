@@ -55,7 +55,7 @@
 
         The Surgeon General shall develop faculty development programs and curricula in decentralized venues of health care, to balance urban, tertiary, and inpatient venues.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 271, as added [Pub. L. 111–148, title V, § 5315][/us/pl/111/148/s5315], Mar. 23, 2010, [124 Stat. 637][/us/stat/124/637].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 271, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5315, Mar. 23, 2010, [124 Stat. 637][/us/stat/124/637].)
 
 ----------
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t42/s294q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294q
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5315
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F637
 
 

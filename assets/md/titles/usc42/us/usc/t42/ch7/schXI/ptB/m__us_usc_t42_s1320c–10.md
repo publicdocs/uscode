@@ -29,11 +29,11 @@
 
     (6) descriptions of the criteria upon which decisions are made, and the selection and relative weights of such criteria.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1161, as added [Pub. L. 97–248, title I, § 143][/us/pl/97/248/s143], Sept. 3, 1982, [96 Stat. 392][/us/stat/96/392]; amended [Pub. L. 112–40, title II, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1161, as added [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 143, Sept. 3, 1982, [96 Stat. 392][/us/stat/96/392]; amended [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 261(a)(2)(C), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
 
  __Prior Provisions__ 
 
-    A prior section 1320c–10, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1161, as added Oct. 30, 1972, [Pub. L. 92–603, title II, § 249F(b)][/us/pl/92/603/s249F/b], [86 Stat. 1440][/us/stat/86/1440], related to giving of notice to a practitioner or provider by a Professional Standards Review Organization immediately after taking certain action or making certain determinations, prior to the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
+    A prior section 1320c–10, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1161, as added Oct. 30, 1972, [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 249F(b), [86 Stat. 1440][/us/stat/86/1440], related to giving of notice to a practitioner or provider by a Professional Standards Review Organization immediately after taking certain action or making certain determinations, prior to the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Performance of Professional Standards Review Organizations; Report to Congress__ 
 
-    [Pub. L. 97–35, title XXI, § 2112(a)(2)(D)][/us/pl/97/35/s2112/a/2/D], Aug. 13, 1981, [95 Stat. 793][/us/stat/95/793], provided that the Secretary of Health and Human Services, not later than September 30, 1982, was to report to the Congress on his assessment (under former [section 1320c–3(g) of this title][/us/usc/t42/s1320c–3/g]) of the relative performance of Professional Standards Review Organizations and on any determinations made not to renew agreements with such Organizations on the basis of such performance.
+    [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2112(a)(2)(D), Aug. 13, 1981, [95 Stat. 793][/us/stat/95/793], provided that the Secretary of Health and Human Services, not later than September 30, 1982, was to report to the Congress on his assessment (under former [section 1320c–3(g) of this title][/us/usc/t42/s1320c–3/g]) of the relative performance of Professional Standards Review Organizations and on any determinations made not to renew agreements with such Organizations on the basis of such performance.
 
 ----------
 
@@ -55,19 +55,19 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/248/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs143
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F392
-[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F423
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s249F/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249F%2Fb
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1440
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40/s261/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fe
 [/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
-[/us/pl/97/35/s2112/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2112%2Fa%2F2%2FD
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F793
 [/us/usc/t42/s1320c–3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933%2Fg
 

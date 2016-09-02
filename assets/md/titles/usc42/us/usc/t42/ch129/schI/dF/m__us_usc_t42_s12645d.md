@@ -27,7 +27,7 @@
 
         (2) a residential area that lacks basic living necessities, such as water and sewer systems, electricity, paved roads, and safe, sanitary housing.
 
-([Pub. L. 101–610, title I, § 189A][/us/pl/101/610/s189A], as added [Pub. L. 111–13, title I, § 1612][/us/pl/111/13/s1612], Apr. 21, 2009, [123 Stat. 1539][/us/stat/123/1539].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 189A, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1612, Apr. 21, 2009, [123 Stat. 1539][/us/stat/123/1539].)
 
  __Effective Date__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/101/610/s189A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs189A
-[/us/pl/111/13/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1612
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1539
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

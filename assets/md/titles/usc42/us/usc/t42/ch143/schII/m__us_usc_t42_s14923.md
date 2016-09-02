@@ -111,7 +111,7 @@
 
             (E) The agency has not been found to be involved in any improper conduct relating to intercountry adoptions.
 
-([Pub. L. 106–279, title II, § 203][/us/pl/106/279/s203], Oct. 6, 2000, [114 Stat. 832][/us/stat/114/832].)
+([Pub. L. 106–279, title II][/us/pl/106/279/tII], § 203, Oct. 6, 2000, [114 Stat. 832][/us/stat/114/832].)
 
  __References in Text__ 
 
@@ -133,7 +133,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s14912/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14912%2Fb%2F3
 [/us/usc/t42/s14914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14914%2Fb
-[/us/pl/106/279/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs203
+[/us/pl/106/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtII
 [/us/stat/114/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F832
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F830

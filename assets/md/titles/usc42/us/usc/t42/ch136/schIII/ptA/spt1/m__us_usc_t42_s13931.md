@@ -51,7 +51,7 @@
 
         All grants or loans provided under this section shall be subject to the same terms, conditions, requirements, and provisions applicable to grants and loans as specified in [section 5321 of title 49][/us/usc/t49/s5321].
 
-([Pub. L. 103–322, title IV, § 40131][/us/pl/103/322/s40131], Sept. 13, 1994, [108 Stat. 1916][/us/stat/108/1916].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40131, Sept. 13, 1994, [108 Stat. 1916][/us/stat/108/1916].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t49/s5321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5321
-[/us/pl/103/322/s40131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40131
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1916
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1796

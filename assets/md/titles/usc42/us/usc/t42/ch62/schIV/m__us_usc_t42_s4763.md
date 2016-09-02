@@ -51,7 +51,7 @@
 
         The provisions of this chapter are not a limitation on existing authorities under other statutes but are in addition to any such authorities, unless otherwise specifically provided in this chapter.
 
-([Pub. L. 91–648, title V, § 503][/us/pl/91/648/s503], Jan. 5, 1971, [84 Stat. 1926][/us/stat/84/1926]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 503, Jan. 5, 1971, [84 Stat. 1926][/us/stat/84/1926]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/91/648/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs503
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1926
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761

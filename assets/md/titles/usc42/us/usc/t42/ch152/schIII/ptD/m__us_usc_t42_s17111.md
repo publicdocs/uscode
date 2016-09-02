@@ -189,7 +189,7 @@
 
             The Secretary shall coordinate efforts under this section with other programs of the Department and other Federal agencies to avoid duplication of effort.
 
-([Pub. L. 110–140, title IV, § 452][/us/pl/110/140/s452], Dec. 19, 2007, [121 Stat. 1634][/us/stat/121/1634].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 452, Dec. 19, 2007, [121 Stat. 1634][/us/stat/121/1634].)
 
 ----------
 
@@ -199,7 +199,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/110/140/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs452
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1634
 
 

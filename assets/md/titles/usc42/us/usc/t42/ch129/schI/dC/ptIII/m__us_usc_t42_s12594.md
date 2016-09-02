@@ -85,39 +85,39 @@
 
         A State or other recipient of assistance under [section 12571 of this title][/us/usc/t42/s12571] shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in [section 12111(8) of this title][/us/usc/t42/s12111/8]).
 
-([Pub. L. 101–610, title I, § 140][/us/pl/101/610/s140], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 811][/us/stat/107/811]; amended [Pub. L. 111–13, title I, § 1315][/us/pl/111/13/s1315], Apr. 21, 2009, [123 Stat. 1511][/us/stat/123/1511].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 140, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 811][/us/stat/107/811]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1315, Apr. 21, 2009, [123 Stat. 1511][/us/stat/123/1511].)
 
  __References in Text__ 
 
     The Higher Education Act of 1965, referred to in subsec. (a)(3), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219]. Part C of title IV of the Act is classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001], Education, and Tables.
 
-    [Section 12102 of this title][/us/usc/t42/s12102], referred to in subsec. (f), was amended generally by [Pub. L. 110–325, § 4(a)][/us/pl/110/325/s4/a], Sept. 25, 2008, [122 Stat. 3555][/us/stat/122/3555], and, as so amended, no longer defines “auxiliary aids and services”. However, such term is defined in [section 12103(1) of this title][/us/usc/t42/s12103/1].
+    [Section 12102 of this title][/us/usc/t42/s12102], referred to in subsec. (f), was amended generally by [Pub. L. 110–325][/us/pl/110/325], § 4(a), Sept. 25, 2008, [122 Stat. 3555][/us/stat/122/3555], and, as so amended, no longer defines “auxiliary aids and services”. However, such term is defined in [section 12103(1) of this title][/us/usc/t42/s12103/1].
 
  __Prior Provisions__ 
 
-    A prior [section 140 of Pub. L. 101–610][/us/pl/101/610/s140] was set out as a note under [section 12501 of this title][/us/usc/t42/s12501], prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior [section 140 of Pub. L. 101–610][/us/pl/101/610/s140] was set out as a note under [section 12501 of this title][/us/usc/t42/s12501], prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–13, § 1315(1)(A)][/us/pl/111/13/s1315/1/A], substituted “paragraphs (2) and (3)” for “paragraph (3)”.
+    2009—Subsec. (a)(1). [Pub. L. 111–13][/us/pl/111/13], § 1315(1)(A), substituted “paragraphs (2) and (3)” for “paragraph (3)”.
 
-    Subsec. (a)(2), (3). [Pub. L. 111–13, § 1315(1)(B)][/us/pl/111/13/s1315/1/B]–(D), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Text of former par. (2) read as follows: “The amount of the annual living allowance provided under paragraph (1) that may be paid using assistance provided under [section 12571 of this title][/us/usc/t42/s12571] and using any other Federal funds shall not exceed 85 percent of the total average annual provided to VISTA volunteers under [section 4955 of this title][/us/usc/t42/s4955].”
+    Subsec. (a)(2), (3). [Pub. L. 111–13][/us/pl/111/13], § 1315(1)(B)–(D), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Text of former par. (2) read as follows: “The amount of the annual living allowance provided under paragraph (1) that may be paid using assistance provided under [section 12571 of this title][/us/usc/t42/s12571] and using any other Federal funds shall not exceed 85 percent of the total average annual provided to VISTA volunteers under [section 4955 of this title][/us/usc/t42/s4955].”
 
-    Subsec. (a)(4). [Pub. L. 111–13, § 1315(1)(E)][/us/pl/111/13/s1315/1/E], substituted “a term of service that is less than 12 months” for “a reduced term of service under [section 12593(b)(3) of this title][/us/usc/t42/s12593/b/3]”.
+    Subsec. (a)(4). [Pub. L. 111–13][/us/pl/111/13], § 1315(1)(E), substituted “a term of service that is less than 12 months” for “a reduced term of service under [section 12593(b)(3) of this title][/us/usc/t42/s12593/b/3]”.
 
-    Subsec. (b). [Pub. L. 111–13, § 1315(2)][/us/pl/111/13/s1315/2], substituted “may be used to pay the taxes described in this subsection.” for “shall include an amount sufficient to cover 85 percent of such taxes based upon the lesser of—
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1315(2), substituted “may be used to pay the taxes described in this subsection.” for “shall include an amount sufficient to cover 85 percent of such taxes based upon the lesser of—
 
     “(1) the total average annual subsistence allowance provided to VISTA volunteers under [section 4955 of this title][/us/usc/t42/s4955]; and
 
     “(2) the annual living allowance established by the program.”
 
-    Subsec. (c). [Pub. L. 111–13, § 1315(3)][/us/pl/111/13/s1315/3], substituted “section 12572(c)(1)(D)” for “section 12572(a)(8)” and “subsection (a)(2)” for “subsection (a)(3) of this section” in introductory provisions, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “the applicant shall apply for such assistance only by submitting an application to the Corporation for assistance on a competitive basis; and”.
+    Subsec. (c). [Pub. L. 111–13][/us/pl/111/13], § 1315(3), substituted “section 12572(c)(1)(D)” for “section 12572(a)(8)” and “subsection (a)(2)” for “subsection (a)(3) of this section” in introductory provisions, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “the applicant shall apply for such assistance only by submitting an application to the Corporation for assistance on a competitive basis; and”.
 
-    Subsec. (d)(1). [Pub. L. 111–13, § 1315(4)(A)][/us/pl/111/13/s1315/4/A], substituted “shall provide or make available” for “shall provide” and struck out second sentence which read as follows: “Not more than 85 percent of the cost of a premium shall be provided by the Corporation, with the remaining cost paid by the entity receiving assistance under [section 12571 of this title][/us/usc/t42/s12571].”
+    Subsec. (d)(1). [Pub. L. 111–13][/us/pl/111/13], § 1315(4)(A), substituted “shall provide or make available” for “shall provide” and struck out second sentence which read as follows: “Not more than 85 percent of the cost of a premium shall be provided by the Corporation, with the remaining cost paid by the entity receiving assistance under [section 12571 of this title][/us/usc/t42/s12571].”
 
-    Subsec. (d)(2). [Pub. L. 111–13, § 1315(4)(B)][/us/pl/111/13/s1315/4/B], substituted “provide from its own funds or make available” for “provide from its own funds”.
+    Subsec. (d)(2). [Pub. L. 111–13][/us/pl/111/13], § 1315(4)(B), substituted “provide from its own funds or make available” for “provide from its own funds”.
 
-    Subsecs. (g), (h). [Pub. L. 111–13, § 1315(5)][/us/pl/111/13/s1315/5], struck out subsecs. (g) and (h) which allowed waiver in whole or in part of limitation on Federal share and limited number of terms of service for federally subsidized living allowance, respectively.
+    Subsecs. (g), (h). [Pub. L. 111–13][/us/pl/111/13], § 1315(5), struck out subsecs. (g) and (h) which allowed waiver in whole or in part of limitation on Federal share and limited number of terms of service for federally subsidized living allowance, respectively.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -143,35 +143,35 @@
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111%2F8
-[/us/pl/101/610/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs140
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F811
-[/us/pl/111/13/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1511
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
-[/us/pl/110/325/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs4%2Fa
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3555
 [/us/usc/t42/s12103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12103%2F1
 [/us/pl/101/610/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs140
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
-[/us/pl/111/13/s1315/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F1%2FA
-[/us/pl/111/13/s1315/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F1%2FB
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4955
-[/us/pl/111/13/s1315/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F1%2FE
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12593/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12593%2Fb%2F3
-[/us/pl/111/13/s1315/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4955
-[/us/pl/111/13/s1315/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F3
-[/us/pl/111/13/s1315/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F4%2FA
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
-[/us/pl/111/13/s1315/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F4%2FB
-[/us/pl/111/13/s1315/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F5
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -23,13 +23,13 @@
 
         The Secretary may provide for such consultation with interested Federal agencies as the Secretary determines to be appropriate in the performance of the duties of the Secretary under this chapter.
 
-([Pub. L. 89–136, title V, § 503][/us/pl/89/136/s503], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3610][/us/stat/112/3610].)
+([Pub. L. 89–136, title V][/us/pl/89/136/tV], § 503, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3610][/us/stat/112/3610].)
 
  __Prior Provisions__ 
 
-    A prior section 3193, [Pub. L. 89–136, title V, § 514][/us/pl/89/136/s514], as added [Pub. L. 93–423, § 11][/us/pl/93/423/s11], Sept. 27, 1974, [88 Stat. 1162][/us/stat/88/1162], provided for the acquisition and disposal of excess property from the Administrator of General Services by the Federal cochairman of each regional action planning commission, prior to repeal by [Pub. L. 94–519][/us/pl/94/519], §§ 6, 9, Oct. 17, 1976, [90 Stat. 2456][/us/stat/90/2456], 2457, effective Oct. 17, 1977.
+    A prior section 3193, [Pub. L. 89–136, title V][/us/pl/89/136/tV], § 514, as added [Pub. L. 93–423][/us/pl/93/423], § 11, Sept. 27, 1974, [88 Stat. 1162][/us/stat/88/1162], provided for the acquisition and disposal of excess property from the Administrator of General Services by the Federal cochairman of each regional action planning commission, prior to repeal by [Pub. L. 94–519][/us/pl/94/519], §§ 6, 9, Oct. 17, 1976, [90 Stat. 2456][/us/stat/90/2456], 2457, effective Oct. 17, 1977.
 
-    A prior [section 503 of Pub. L. 89–136][/us/pl/89/136/s503] was classified to [section 3183 of this title][/us/usc/t42/s3183] prior to repeal by [Pub. L. 97–35, § 1821(a)(8)][/us/pl/97/35/s1821/a/8].
+    A prior [section 503 of Pub. L. 89–136][/us/pl/89/136/s503] was classified to [section 3183 of this title][/us/usc/t42/s3183] prior to repeal by [Pub. L. 97–35][/us/pl/97/35], § 1821(a)(8).
 
 ----------
 
@@ -38,16 +38,16 @@
 ----------
 ----------
 
-[/us/pl/89/136/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs503
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtV
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3610
-[/us/pl/89/136/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs514
-[/us/pl/93/423/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F423%2Fs11
+[/us/pl/89/136/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtV
+[/us/pl/93/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F423
 [/us/stat/88/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1162
 [/us/pl/94/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F519
 [/us/stat/90/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2456
 [/us/pl/89/136/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs503
 [/us/usc/t42/s3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3183
-[/us/pl/97/35/s1821/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1821%2Fa%2F8
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 
 

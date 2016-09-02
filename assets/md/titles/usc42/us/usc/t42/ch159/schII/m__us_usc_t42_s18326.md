@@ -61,11 +61,11 @@
 
         The Administrator shall coordinate development of technologies and capabilities under this section through an overall agency technology approach, as authorized by section 905 of this Act.
 
-([Pub. L. 111–267, title III, § 308][/us/pl/111/267/s308], Oct. 11, 2010, [124 Stat. 2818][/us/stat/124/2818].)
+([Pub. L. 111–267, title III][/us/pl/111/267/tIII], § 308, Oct. 11, 2010, [124 Stat. 2818][/us/stat/124/2818].)
 
  __References in Text__ 
 
-    Section 905 of this Act, referred to in subsec. (d), is [Pub. L. 111–267, title IX, § 905][/us/pl/111/267/s905], Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836], which is not classified to the Code.
+    Section 905 of this Act, referred to in subsec. (d), is [Pub. L. 111–267, title IX][/us/pl/111/267/tIX], § 905, Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836], which is not classified to the Code.
 
 ----------
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/111/267/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs308
+[/us/pl/111/267/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIII
 [/us/stat/124/2818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2818
-[/us/pl/111/267/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs905
+[/us/pl/111/267/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIX
 [/us/stat/124/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2836
 
 

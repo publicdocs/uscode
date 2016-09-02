@@ -37,7 +37,7 @@
 
             (iii) uses hydrogen produced from water using only solar energy.
 
-([Pub. L. 109–58, title IX, § 933][/us/pl/109/58/s933], Aug. 8, 2005, [119 Stat. 872][/us/stat/119/872].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 933, Aug. 8, 2005, [119 Stat. 872][/us/stat/119/872].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs933
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F872
 
 

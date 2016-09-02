@@ -31,7 +31,7 @@
 
         It is the sense of the Congress that the Department of Justice and the Secretary of Education should request such additional funds as may be necessary to apply the policy set forth in this section throughout the United States.
 
-([Pub. L. 91–230, § 2][/us/pl/91/230/s2], Apr. 13, 1970, [84 Stat. 121][/us/stat/84/121]; [Pub. L. 96–88, title III, § 301][/us/pl/96/88/s301], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 91–230][/us/pl/91/230], § 2, Apr. 13, 1970, [84 Stat. 121][/us/stat/84/121]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301, title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s2000d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%935
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/91/230/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs2
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F121
-[/us/pl/96/88/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

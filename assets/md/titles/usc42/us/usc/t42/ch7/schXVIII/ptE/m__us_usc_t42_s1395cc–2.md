@@ -203,15 +203,15 @@
 
         Not later than two years after December 21, 2000, and biennially thereafter for six years, the Secretary shall report to Congress on the use of authorities under the demonstration program. Each report shall address the impact of the use of those authorities on expenditures, access, and quality under the programs under this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866B, as added [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 412(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–511; amended [Pub. L. 108–173, title VII, § 736(c)(5)][/us/pl/108/173/s736/c/5], Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866B, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IV, § 412(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–511; amended [Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 736(c)(5), Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356].)
 
  __References in Text__ 
 
-    Section 2702 of the Public Health Service Act, referred to in subsec. (c)(3), is section 2702 of act July 1, 1944, which was classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1], was amended by [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and was transferred to subsecs. (d) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4], effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1].
+    Section 2702 of the Public Health Service Act, referred to in subsec. (c)(3), is section 2702 of act July 1, 1944, which was classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1], was amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(3), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and was transferred to subsecs. (d) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4], effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1].
 
  __Codification__ 
 
-    In subsec. (b)(4)(B), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5], United States Code” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(4)(B), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5], United States Code” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -236,20 +236,20 @@
 [/us/usc/t42/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1306
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s736/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fc%2F5
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2356
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
-[/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F156
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/108/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201

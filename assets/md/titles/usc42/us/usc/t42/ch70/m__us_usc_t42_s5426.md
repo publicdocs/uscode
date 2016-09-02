@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 93–383, title VI, § 626][/us/pl/93/383/s626], formerly § 627, Aug. 22, 1974, [88 Stat. 714][/us/stat/88/714]; renumbered § 626, [Pub. L. 106–569, title VI, § 611(2)][/us/pl/106/569/s611/2], Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 626, formerly § 627, Aug. 22, 1974, [88 Stat. 714][/us/stat/88/714]; renumbered § 626, [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 611(2), Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/383/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs626
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F714
-[/us/pl/106/569/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs611%2F2
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3012
 [/us/pl/93/383/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs626
 [/us/usc/t42/s5425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5425

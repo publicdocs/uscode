@@ -35,7 +35,7 @@
 
         The presentation of the award shall be made by the President with such ceremonies as he may deem proper, including attendance by appropriate Members of Congress.
 
-([Pub. L. 86–209, § 2][/us/pl/86/209/s2], Aug. 25, 1959, [73 Stat. 431][/us/stat/73/431]; [Pub. L. 96–516, § 22(a)(1)][/us/pl/96/516/s22/a/1], Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010].)
+([Pub. L. 86–209][/us/pl/86/209], § 2, Aug. 25, 1959, [73 Stat. 431][/us/stat/73/431]; [Pub. L. 96–516][/us/pl/96/516], § 22(a)(1), Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010].)
 
  __Codification__ 
 
@@ -149,9 +149,9 @@ By virtue of the authority vested in me by the Act of August 25, 1959, entitled 
 ----------
 
 [/us/usc/t8/s1445/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1445%2Fb
-[/us/pl/86/209/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F209%2Fs2
+[/us/pl/86/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F209
 [/us/stat/73/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F431
-[/us/pl/96/516/s22/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs22%2Fa%2F1
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
 [/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/73/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F431

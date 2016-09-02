@@ -17,7 +17,7 @@
 
     Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under this chapter.
 
-([Pub. L. 101–336, title V, § 514][/us/pl/101/336/s514], formerly § 513, July 26, 1990, [104 Stat. 377][/us/stat/104/377]; renumbered § 514, [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 514, formerly § 513, July 26, 1990, [104 Stat. 377][/us/stat/104/377]; renumbered § 514, [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/336/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs514
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F377
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

@@ -27,7 +27,7 @@
 
         (2) enter into contracts for assistance for not more than 5000 units in any fiscal year.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 542, as added [Pub. L. 102–550, title VII, § 706(2)][/us/pl/102/550/s706/2], Oct. 28, 1992, [106 Stat. 3835][/us/stat/106/3835].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 542, as added [Pub. L. 102–550, title VII][/us/pl/102/550/tVII], § 706(2), Oct. 28, 1992, [106 Stat. 3835][/us/stat/106/3835].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/102/550/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs706%2F2
+[/us/pl/102/550/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVII
 [/us/stat/106/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3835
 
 

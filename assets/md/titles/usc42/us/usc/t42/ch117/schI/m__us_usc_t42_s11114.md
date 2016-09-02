@@ -17,7 +17,7 @@
 
     The Secretary may establish, after notice and opportunity for comment, such voluntary guidelines as may assist the professional review bodies in meeting the standards described in [section 11112(a) of this title][/us/usc/t42/s11112/a].
 
-([Pub. L. 99–660, title IV, § 414][/us/pl/99/660/s414], Nov. 14, 1986, [100 Stat. 3787][/us/stat/100/3787].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 414, Nov. 14, 1986, [100 Stat. 3787][/us/stat/100/3787].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s11112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11112%2Fa
-[/us/pl/99/660/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs414
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3787
 
 

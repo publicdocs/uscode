@@ -165,7 +165,7 @@
 
         (3) recommendations for legislative or administrative action, as the Assistant Secretary determines appropriate.
 
-([Pub. L. 89–73, title IV, § 422][/us/pl/89/73/s422], as added [Pub. L. 109–365, title IV, § 409][/us/pl/109/365/s409], Oct. 17, 2006, [120 Stat. 2559][/us/stat/120/2559].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 422, as added [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 409, Oct. 17, 2006, [120 Stat. 2559][/us/stat/120/2559].)
 
  __Prior Provisions__ 
 
@@ -182,8 +182,8 @@
 
 [/us/usc/t42/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8011
 [/us/usc/t12/s1701q/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q%2Fg
-[/us/pl/89/73/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs422
-[/us/pl/109/365/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs409
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2559
 [/us/pl/89/73/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs422
 [/us/usc/t42/s3035a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035a

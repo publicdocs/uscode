@@ -17,7 +17,7 @@
 
     For purposes of this subchapter, the term “community development corporation” means a nonprofit organization responsible to residents of the area it serves which is receiving financial assistance under part A of this subchapter and any organization more than 50 percent of which is owned by such an organization, or otherwise controlled by such an organization, or designated by such an organization for the purpose of this subchapter.
 
-([Pub. L. 97–35, title VI, § 613][/us/pl/97/35/s613], Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 613, Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs613
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F489
 
 

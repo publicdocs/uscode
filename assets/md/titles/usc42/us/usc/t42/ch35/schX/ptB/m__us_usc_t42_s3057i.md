@@ -17,7 +17,7 @@
 
     The Assistant Secretary may make grants to public and nonprofit private organizations to pay all of the costs for the delivery of supportive services and nutrition services to older Native Hawaiians.
 
-([Pub. L. 89–73, title VI, § 623][/us/pl/89/73/s623], as added [Pub. L. 100–175, title I, § 171][/us/pl/100/175/s171], Nov. 29, 1987, [101 Stat. 962][/us/stat/101/962]; amended [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 623, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 962][/us/stat/101/962]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/89/73/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs623
-[/us/pl/100/175/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs171
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F962
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 

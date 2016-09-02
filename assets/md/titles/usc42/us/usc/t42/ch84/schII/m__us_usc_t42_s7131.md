@@ -17,7 +17,7 @@
 
     There is established at the seat of government an executive department to be known as the Department of Energy. There shall be at the head of the Department a Secretary of Energy (hereinafter in this chapter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of the Senate. The Department shall be administered, in accordance with the provisions of this chapter, under the supervision and direction of the Secretary.
 
-([Pub. L. 95–91, title II, § 201][/us/pl/95/91/s201], Aug. 4, 1977, [91 Stat. 569][/us/stat/91/569].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 201, Aug. 4, 1977, [91 Stat. 569][/us/stat/91/569].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Emergency Preparedness for Energy Supply Disruptions__ 
 
-[Pub. L. 114–94, div. F, § 61001][/us/pl/114/94/s61001], Dec. 4, 2015, [129 Stat. 1771][/us/stat/129/1771], provided that:
+[Pub. L. 114–94, div. F][/us/pl/114/94/dF], § 61001, Dec. 4, 2015, [129 Stat. 1771][/us/stat/129/1771], provided that:
 
 >     “(a)  __Finding__  __.—__ 
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/95/91/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs201
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
 [/us/stat/91/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F569
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/114/94/s61001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61001
+[/us/pl/114/94/dF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdF
 [/us/stat/129/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1771
 
 

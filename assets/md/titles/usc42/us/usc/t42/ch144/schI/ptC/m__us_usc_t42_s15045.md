@@ -17,7 +17,7 @@
 
     For allotments under [section 15042 of this title][/us/usc/t42/s15042], there are authorized to be appropriated $32,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
 
-([Pub. L. 106–402, title I, § 145][/us/pl/106/402/s145], Oct. 30, 2000, [114 Stat. 1718][/us/stat/114/1718].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 145, Oct. 30, 2000, [114 Stat. 1718][/us/stat/114/1718].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s15042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15042
-[/us/pl/106/402/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs145
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1718
 
 

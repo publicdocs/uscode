@@ -17,7 +17,7 @@
 
     To assist the Advisory Committee on Reactor Safeguards in carrying out its function, the committee shall establish a fellowship program under which persons having appropriate engineering or scientific expertise are assigned particular tasks relating to the functions of the committee. Such fellowship shall be for 2-year periods and the recipients of such fellowships shall be selected pursuant to such criteria as may be established by the committee.
 
-([Pub. L. 95–209, § 6][/us/pl/95/209/s6], Dec. 13, 1977, [91 Stat. 1483][/us/stat/91/1483].)
+([Pub. L. 95–209][/us/pl/95/209], § 6, Dec. 13, 1977, [91 Stat. 1483][/us/stat/91/1483].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/209/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209%2Fs6
+[/us/pl/95/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209
 [/us/stat/91/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1483
 
 

@@ -375,7 +375,7 @@
 
             (D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
 
-([Pub. L. 89–73, title II, § 202][/us/pl/89/73/s202], July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 93–29, title II, § 201(b)][/us/pl/93/29/s201/b], May 3, 1973, [87 Stat. 31][/us/stat/87/31]; [Pub. L. 94–135, title I, § 114(b)][/us/pl/94/135/s114/b], (c), Nov. 28, 1975, [89 Stat. 725][/us/stat/89/725]; [Pub. L. 95–478, title I, § 102(a)][/us/pl/95/478/s102/a], title V, § 503(b)(2), (4), Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513], 1559; [Pub. L. 97–115][/us/pl/97/115], §§ 2(b), (c), 3(d), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595], 1597; [Pub. L. 98–459, title II, § 202][/us/pl/98/459/s202], Oct. 9, 1984, [98 Stat. 1768][/us/stat/98/1768]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 930, 952; [Pub. L. 102–321, title I, § 163(c)(2)(A)][/us/pl/102/321/s163/c/2/A], July 10, 1992, [106 Stat. 377][/us/stat/106/377]; [Pub. L. 102–375, title I, § 102(b)(10)(A)][/us/pl/102/375/s102/b/10/A], title II, § 202(a)–(f), title VII, § 708(c)(1), title IX, § 904(a)(4), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1205–1208, 1292, 1306; [Pub. L. 103–82, title IV, § 405(g)(1)][/us/pl/103/82/s405/g/1], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(2), (3), 3(a)(3), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title II, § 201][/us/pl/106/501/s201], title VIII, § 801(b)(2), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229], 2291; [Pub. L. 109–365, title II, § 202][/us/pl/109/365/s202], Oct. 17, 2006, [120 Stat. 2528][/us/stat/120/2528]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(BB), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(BB), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 202, July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(b), May 3, 1973, [87 Stat. 31][/us/stat/87/31]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 114(b), (c), Nov. 28, 1975, [89 Stat. 725][/us/stat/89/725]; [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(a), title V, § 503(b)(2), (4), Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513], 1559; [Pub. L. 97–115][/us/pl/97/115], §§ 2(b), (c), 3(d), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595], 1597; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 202, Oct. 9, 1984, [98 Stat. 1768][/us/stat/98/1768]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 930, 952; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(c)(2)(A), July 10, 1992, [106 Stat. 377][/us/stat/106/377]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(10)(A), title II, § 202(a)–(f), title VII, § 708(c)(1), title IX, § 904(a)(4), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1205–1208, 1292, 1306; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(g)(1), Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(2), (3), 3(a)(3), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201, title VIII, § 801(b)(2), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229], 2291; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 202, Oct. 17, 2006, [120 Stat. 2528][/us/stat/120/2528]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(BB), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(BB), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
 
  __References in Text__ 
 
@@ -395,65 +395,65 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(17(A), (20)(A)(iii). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    2008—Subsec. (a)(17(A), (20)(A)(iii). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    2006—Subsec. (a)(5). [Pub. L. 109–365, § 202(1)(A)][/us/pl/109/365/s202/1/A], inserted “assistive technology,” after “housing,”.
+    2006—Subsec. (a)(5). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(A), inserted “assistive technology,” after “housing,”.
 
-    Subsec. (a)(12). [Pub. L. 109–365, § 202(1)(B)][/us/pl/109/365/s202/1/B], added par. (12) and struck out former par. (12) which read as follows: “carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967, and the programs of the National Housing Act relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;”.
+    Subsec. (a)(12). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(B), added par. (12) and struck out former par. (12) which read as follows: “carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967, and the programs of the National Housing Act relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;”.
 
-    Subsec. (a)(20). [Pub. L. 109–365, § 202(1)(C)][/us/pl/109/365/s202/1/C], added par. (20) and struck out former par. (20) which read as follows: “encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.), and benefits under the Food Stamp Act of 1977 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), of the requirements for eligibility to receive such benefits and such assistance;”.
+    Subsec. (a)(20). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(C), added par. (20) and struck out former par. (20) which read as follows: “encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.), and benefits under the Food Stamp Act of 1977 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), of the requirements for eligibility to receive such benefits and such assistance;”.
 
-    Subsec. (a)(26)(D). [Pub. L. 109–365, § 202(1)(D)(i)][/us/pl/109/365/s202/1/D/i], struck out “gaps in” after “collecting information on” and inserted “(including services that would permit such individuals to receive long-term care in home and community-based settings)” after “individuals”.
+    Subsec. (a)(26)(D). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(D)(i), struck out “gaps in” after “collecting information on” and inserted “(including services that would permit such individuals to receive long-term care in home and community-based settings)” after “individuals”.
 
-    Subsec. (a)(27)(B). [Pub. L. 109–365, § 202(1)(E)(i)][/us/pl/109/365/s202/1/E/i], inserted “and” at end.
+    Subsec. (a)(27)(B). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(E)(i), inserted “and” at end.
 
-    Subsec. (a)(27)(D). [Pub. L. 109–365, § 202(1)(E)(ii)][/us/pl/109/365/s202/1/E/ii], struck out subpar. (D) which read as follows: “submitting a report on the States’ experiences in implementing these best practices and the effect these innovations are having on improving service delivery in rural areas to the relevant committees not later than 36 months after November 13, 2000.”
+    Subsec. (a)(27)(D). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(E)(ii), struck out subpar. (D) which read as follows: “submitting a report on the States’ experiences in implementing these best practices and the effect these innovations are having on improving service delivery in rural areas to the relevant committees not later than 36 months after November 13, 2000.”
 
-    Subsec. (a)(28). [Pub. L. 109–365, § 202(1)(D)(ii)][/us/pl/109/365/s202/1/D/ii], (F), added par. (28).
+    Subsec. (a)(28). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(D)(ii), (F), added par. (28).
 
-    Subsecs. (b), (c). [Pub. L. 109–365, § 202(2)][/us/pl/109/365/s202/2], added subsecs. (b) and (c) and struck out former subsecs. (b) and (c), which related to policy alternatives in long-term care and participation of volunteer groups in programs and activities.
+    Subsecs. (b), (c). [Pub. L. 109–365][/us/pl/109/365], § 202(2), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c), which related to policy alternatives in long-term care and participation of volunteer groups in programs and activities.
 
-    Subsec. (e)(1)(A). [Pub. L. 109–365, § 202(3)][/us/pl/109/365/s202/3], substituted a period for semicolon at end.
+    Subsec. (e)(1)(A). [Pub. L. 109–365][/us/pl/109/365], § 202(3), substituted a period for semicolon at end.
 
-    2000—Subsec. (a)(9). [Pub. L. 106–501, § 201(1)(A)][/us/pl/106/501/s201/1/A], redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
+    2000—Subsec. (a)(9). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(A), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
 
-    Subsec. (a)(10), (11). [Pub. L. 106–501, § 201(1)(A)][/us/pl/106/501/s201/1/A], redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
+    Subsec. (a)(10), (11). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(A), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
 
-    Subsec. (a)(12). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (15) as (12). Former par. (12) redesignated (11).
+    Subsec. (a)(12). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (15) as (12). Former par. (12) redesignated (11).
 
-    Subsec. (a)(13), (14). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated pars. (16) and (17) as (13) and (14), respectively, and struck out former pars. (13) and (14), which read as follows:
+    Subsec. (a)(13), (14). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated pars. (16) and (17) as (13) and (14), respectively, and struck out former pars. (13) and (14), which read as follows:
 
     “(13) convene conferences of such authorities and officials of public (including Federal, State, and local agencies) and nonprofit private organizations concerned with the development and operation of programs for older individuals as the Assistant Secretary deems necessary or proper for the development and implementation of policies related to the objectives of this chapter;
 
     “(14) develop and operate programs providing services and opportunities as authorized by this chapter which are not otherwise provided by existing programs for older individuals;”.
 
-    Subsec. (a)(15). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], (C), redesignated par. (18) as (15) and inserted “and older individuals residing in rural areas” after “low-income minority individuals”. Former par. (15) redesignated (12).
+    Subsec. (a)(15). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), (C), redesignated par. (18) as (15) and inserted “and older individuals residing in rural areas” after “low-income minority individuals”. Former par. (15) redesignated (12).
 
-    Subsec. (a)(16). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (19) as (16). Former par. (16) redesignated (13).
+    Subsec. (a)(16). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (19) as (16). Former par. (16) redesignated (13).
 
-    Subsec. (a)(16)(C). [Pub. L. 106–501, § 801(b)(2)(A)(i)][/us/pl/106/501/s801/b/2/A/i], which directed that par. (19)(C) be amended by substituting “paragraphs (2) and (4)(A) of section 3026(a)” for “paragraphs (2) and (5)(A) of section 3026(a)”, was executed by making the substitution in par. (16)(C), to reflect the probable intent of Congress and the redesignation of par. (19) as (16) by [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B]. See above.
+    Subsec. (a)(16)(C). [Pub. L. 106–501][/us/pl/106/501], § 801(b)(2)(A)(i), which directed that par. (19)(C) be amended by substituting “paragraphs (2) and (4)(A) of section 3026(a)” for “paragraphs (2) and (5)(A) of section 3026(a)”, was executed by making the substitution in par. (16)(C), to reflect the probable intent of Congress and the redesignation of par. (19) as (16) by [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B). See above.
 
-    Subsec. (a)(17). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (20) as (17). Former par. (17) redesignated (14).
+    Subsec. (a)(17). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (20) as (17). Former par. (17) redesignated (14).
 
-    Subsec. (a)(18). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], (D), redesignated par. (21) as (18) and substituted “2000” for “1990” in subpar. (B). Former par. (18) redesignated (15).
+    Subsec. (a)(18). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), (D), redesignated par. (21) as (18) and substituted “2000” for “1990” in subpar. (B). Former par. (18) redesignated (15).
 
-    Subsec. (a)(19). [Pub. L. 106–501, § 201(1)(E)][/us/pl/106/501/s201/1/E], added par. (19) and struck out former par. (19) which directed the Administration to issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and to include in such regulations certain conditions for being designated as an area agency on aging.
+    Subsec. (a)(19). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(E), added par. (19) and struck out former par. (19) which directed the Administration to issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and to include in such regulations certain conditions for being designated as an area agency on aging.
 
-    [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (22) as (19). Former par. (19) redesignated (16).
+    [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (22) as (19). Former par. (19) redesignated (16).
 
-    Subsec. (a)(20). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (23) as (20). Former par. (20) redesignated (17).
+    Subsec. (a)(20). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (23) as (20). Former par. (20) redesignated (17).
 
-    Subsec. (a)(21). [Pub. L. 106–501, § 201(1)(F)][/us/pl/106/501/s201/1/F], added par. (21) and struck out former par. (21) which read as follows: “establish information and assistance services as priority services for older individuals;”.
+    Subsec. (a)(21). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(F), added par. (21) and struck out former par. (21) which read as follows: “establish information and assistance services as priority services for older individuals;”.
 
-    [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (24) as (21). Former par. (21) redesignated (18).
+    [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (24) as (21). Former par. (21) redesignated (18).
 
-    Subsec. (a)(22). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (25) as (22). Former par. (22) redesignated (19).
+    Subsec. (a)(22). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (25) as (22). Former par. (22) redesignated (19).
 
-    Subsec. (a)(23). [Pub. L. 106–501, § 801(b)(2)(A)(ii)][/us/pl/106/501/s801/b/2/A/ii], which directed that par. (26) be amended by substituting “[section 3027(a)(13) of this title][/us/usc/t42/s3027/a/13] and [section 3058j of this title][/us/usc/t42/s3058j]” for “sections 3027(a)(18) and 3058j(b)(2) of this title”, was executed by making the substitution in par. (23), to reflect the probable intent of Congress and the redesignation of par. (26) as (23) by [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B]. See below.
+    Subsec. (a)(23). [Pub. L. 106–501][/us/pl/106/501], § 801(b)(2)(A)(ii), which directed that par. (26) be amended by substituting “[section 3027(a)(13) of this title][/us/usc/t42/s3027/a/13] and [section 3058j of this title][/us/usc/t42/s3058j]” for “sections 3027(a)(18) and 3058j(b)(2) of this title”, was executed by making the substitution in par. (23), to reflect the probable intent of Congress and the redesignation of par. (26) as (23) by [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B). See below.
 
-    [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (26) as (23). Former par. (23) redesignated (20).
+    [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (26) as (23). Former par. (23) redesignated (20).
 
-    Subsec. (a)(24). [Pub. L. 106–501, § 201(1)(G)][/us/pl/106/501/s201/1/G], added par. (24) and struck out former par. (24) which read as follows:
+    Subsec. (a)(24). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(G), added par. (24) and struck out former par. (24) which read as follows:
 
     “(24)(A) conduct a study to determine ways in which Federal funds might be more effectively targeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
 
@@ -461,19 +461,19 @@
 
     “(C) not later than January 1, 1995, submit a report containing the findings resulting from the studies described in subparagraphs (A) and (B) to the Speaker of the House of Representatives and the President pro tempore of the Senate;”.
 
-    [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (27) as (24). Former par. (24) redesignated (21).
+    [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (27) as (24). Former par. (24) redesignated (21).
 
-    Subsec. (a)(25), (26). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated pars. (28) and (29) as (25) and (26), respectively. Former pars. (25) and (26) redesignated (22) and (23), respectively.
+    Subsec. (a)(25), (26). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated pars. (28) and (29) as (25) and (26), respectively. Former pars. (25) and (26) redesignated (22) and (23), respectively.
 
-    Subsec. (a)(27). [Pub. L. 106–501, § 201(1)(I)][/us/pl/106/501/s201/1/I], added par. (27).
+    Subsec. (a)(27). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(I), added par. (27).
 
-    [Pub. L. 106–501, § 201(1)(H)][/us/pl/106/501/s201/1/H], which directed amendment of subsec. (a) by striking out par. (27) and redesignating the remaining pars., could only be executed by striking out par. (27) because there were no remaining pars. in subsec. (a) after amendment by [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B]. Prior to amendment, par. (27) read as follows: “require that all Federal grants and contracts made under this subchapter and subchapter IV of this chapter be made in accordance with a competitive bidding process established by the Assistant Secretary by regulation.”
+    [Pub. L. 106–501][/us/pl/106/501], § 201(1)(H), which directed amendment of subsec. (a) by striking out par. (27) and redesignating the remaining pars., could only be executed by striking out par. (27) because there were no remaining pars. in subsec. (a) after amendment by [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B). Prior to amendment, par. (27) read as follows: “require that all Federal grants and contracts made under this subchapter and subchapter IV of this chapter be made in accordance with a competitive bidding process established by the Assistant Secretary by regulation.”
 
-    [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated par. (30) as (27). Former par. (27) redesignated (24).
+    [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated par. (30) as (27). Former par. (27) redesignated (24).
 
-    Subsec. (a)(28) to (30). [Pub. L. 106–501, § 201(1)(B)][/us/pl/106/501/s201/1/B], redesignated pars. (28) to (30) as (25) to (27), respectively.
+    Subsec. (a)(28) to (30). [Pub. L. 106–501][/us/pl/106/501], § 201(1)(B), redesignated pars. (28) to (30) as (25) to (27), respectively.
 
-    Subsec. (c). [Pub. L. 106–501, § 801(b)(2)(B)][/us/pl/106/501/s801/b/2/B], struck out par. (1) designation before “In executing the duties” and struck out par. (2) which read as follows:
+    Subsec. (c). [Pub. L. 106–501][/us/pl/106/501], § 801(b)(2)(B), struck out par. (1) designation before “In executing the duties” and struck out par. (2) which read as follows:
 
     “(2)(A) In executing the duties and functions of the Administration under this chapter and in carrying out the programs and activities provided for by this chapter, the Assistant Secretary shall act to encourage and assist the establishment and use of—
 
@@ -483,129 +483,129 @@
 
     “(B) The Assistant Secretary shall provide technical assistance to the area and State volunteer services coordinators.”
 
-    Subsec. (d)(4). [Pub. L. 106–501, § 201(2)][/us/pl/106/501/s201/2], substituted “2000” for “1990”.
+    Subsec. (d)(4). [Pub. L. 106–501][/us/pl/106/501], § 201(2), substituted “2000” for “1990”.
 
-    Subsec. (e)(1)(A)(i). [Pub. L. 106–501, § 801(b)(2)(C)(i)][/us/pl/106/501/s801/b/2/C/i], added cl. (i) and struck out former cl. (i) which read as follows: “provide information about education and training projects established under part A, and research and demonstration projects, and other activities, established under part B, of subchapter IV of this chapter to persons requesting such information;”.
+    Subsec. (e)(1)(A)(i). [Pub. L. 106–501][/us/pl/106/501], § 801(b)(2)(C)(i), added cl. (i) and struck out former cl. (i) which read as follows: “provide information about education and training projects established under part A, and research and demonstration projects, and other activities, established under part B, of subchapter IV of this chapter to persons requesting such information;”.
 
-    Subsec. (e)(1)(A)(iv). [Pub. L. 106–501, § 801(b)(2)(C)(ii)][/us/pl/106/501/s801/b/2/C/ii], struck out “, and the information provided by the Resource Centers on Native American Elders under [section 3035m of this title][/us/usc/t42/s3035m]” before semicolon at end.
+    Subsec. (e)(1)(A)(iv). [Pub. L. 106–501][/us/pl/106/501], § 801(b)(2)(C)(ii), struck out “, and the information provided by the Resource Centers on Native American Elders under [section 3035m of this title][/us/usc/t42/s3035m]” before semicolon at end.
 
-    Subsec. (f). [Pub. L. 106–501, § 201(3)][/us/pl/106/501/s201/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–501][/us/pl/106/501], § 201(3), added subsec. (f).
 
-    1993—[Pub. L. 103–171, § 3(a)(3)(A)][/us/pl/103/171/s3/a/3/A], substituted “Assistant Secretary” for “Commissioner” in section catchline.
+    1993—[Pub. L. 103–171][/us/pl/103/171], § 3(a)(3)(A), substituted “Assistant Secretary” for “Commissioner” in section catchline.
 
-    Subsec. (a)(13). [Pub. L. 103–171, § 3(a)(3)(D)][/us/pl/103/171/s3/a/3/D], substituted “Assistant Secretary” for “Commissioner”.
+    Subsec. (a)(13). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(3)(D), substituted “Assistant Secretary” for “Commissioner”.
 
-    Subsec. (a)(18). [Pub. L. 103–171, § 2(2)][/us/pl/103/171/s2/2], struck out “, and service providers,” after “area agencies” and inserted the phrase after “on aging”.
+    Subsec. (a)(18). [Pub. L. 103–171][/us/pl/103/171], § 2(2), struck out “, and service providers,” after “area agencies” and inserted the phrase after “on aging”.
 
-    Subsec. (a)(21)(A). [Pub. L. 103–171, § 3(a)(3)(B)][/us/pl/103/171/s3/a/3/B], substituted “Director of the Office of Long-Term Care Ombudsman Programs” for “Associate Commissioner for Ombudsman Programs”.
+    Subsec. (a)(21)(A). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(3)(B), substituted “Director of the Office of Long-Term Care Ombudsman Programs” for “Associate Commissioner for Ombudsman Programs”.
 
-    Subsec. (a)(22)(A), (D). [Pub. L. 103–171, § 3(a)(3)(D)][/us/pl/103/171/s3/a/3/D], substituted “Assistant Secretary” for “Commissioner”.
+    Subsec. (a)(22)(A), (D). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(3)(D), substituted “Assistant Secretary” for “Commissioner”.
 
-    Subsec. (a)(27)(C). [Pub. L. 103–171, § 2(3)][/us/pl/103/171/s2/3], substituted “1995” for “1994”.
+    Subsec. (a)(27)(C). [Pub. L. 103–171][/us/pl/103/171], § 2(3), substituted “1995” for “1994”.
 
-    Subsecs. (a)(30), (b), (c). [Pub. L. 103–171, § 3(a)(3)(D)][/us/pl/103/171/s3/a/3/D], substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+    Subsecs. (a)(30), (b), (c). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(3)(D), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
     Subsec. (c)(1). [Pub. L. 103–82][/us/pl/103/82] substituted “the Corporation for National and Community Service” for “the Director of the ACTION Agency”.
 
-    Subsecs. (d), (e). [Pub. L. 103–171, § 3(a)(3)(D)][/us/pl/103/171/s3/a/3/D], substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(3)(D), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-    Subsec. (e)(1)(A)(iv). [Pub. L. 103–171, § 3(a)(3)(C)][/us/pl/103/171/s3/a/3/C], substituted “Director of the Office for” for “Associate Commissioner on”.
+    Subsec. (e)(1)(A)(iv). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(3)(C), substituted “Director of the Office for” for “Associate Commissioner on”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–375, § 904(a)(4)(A)(i)][/us/pl/102/375/s904/a/4/A/i], substituted “older individuals” for “the elderly” in two places.
+    1992—Subsec. (a)(1). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(4)(A)(i), substituted “older individuals” for “the elderly” in two places.
 
-    Subsec. (a)(3). [Pub. L. 102–375, § 202(a)(1)][/us/pl/102/375/s202/a/1], inserted “directly” before “assist”.
+    Subsec. (a)(3). [Pub. L. 102–375][/us/pl/102/375], § 202(a)(1), inserted “directly” before “assist”.
 
-    Subsec. (a)(11). [Pub. L. 102–375, § 202(a)(2)][/us/pl/102/375/s202/a/2], substituted “coordinate” for “provide for the coordination of”.
+    Subsec. (a)(11). [Pub. L. 102–375][/us/pl/102/375], § 202(a)(2), substituted “coordinate” for “provide for the coordination of”.
 
-    Subsec. (a)(13). [Pub. L. 102–375, § 904(a)(4)(A)(iii)][/us/pl/102/375/s904/a/4/A/iii], substituted “objectives” for “purposes”.
+    Subsec. (a)(13). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(4)(A)(iii), substituted “objectives” for “purposes”.
 
-    Subsec. (a)(15). [Pub. L. 102–375, § 904(a)(4)(A)(ii)][/us/pl/102/375/s904/a/4/A/ii], (iii), substituted “objectives” for “purposes”, “older individuals” for “the elderly”, and “such individuals” for “older people”.
+    Subsec. (a)(15). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(4)(A)(ii), (iii), substituted “objectives” for “purposes”, “older individuals” for “the elderly”, and “such individuals” for “older people”.
 
-    Subsec. (a)(16), (17). [Pub. L. 102–375, § 904(a)(4)(A)(iii)][/us/pl/102/375/s904/a/4/A/iii], substituted “objectives” for “purposes”.
+    Subsec. (a)(16), (17). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(4)(A)(iii), substituted “objectives” for “purposes”.
 
-    Subsec. (a)(18). [Pub. L. 102–375, § 202(a)(3)(B)][/us/pl/102/375/s202/a/3/B], substituted “greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals” for “the greatest economic or social needs”.
+    Subsec. (a)(18). [Pub. L. 102–375][/us/pl/102/375], § 202(a)(3)(B), substituted “greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals” for “the greatest economic or social needs”.
 
-    [Pub. L. 102–375, § 202(a)(3)(A)][/us/pl/102/375/s202/a/3/A], inserted “, and service providers,” after “agencies”.
+    [Pub. L. 102–375][/us/pl/102/375], § 202(a)(3)(A), inserted “, and service providers,” after “agencies”.
 
-    [Pub. L. 102–375, § 102(b)(10)(A)][/us/pl/102/375/s102/b/10/A], substituted “area agencies on aging” for “area agencies”.
+    [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(A), substituted “area agencies on aging” for “area agencies”.
 
-    Subsec. (a)(19)(A). [Pub. L. 102–375, § 202(a)(4)(A)][/us/pl/102/375/s202/a/4/A], inserted “or activity” after “service” wherever appearing.
+    Subsec. (a)(19)(A). [Pub. L. 102–375][/us/pl/102/375], § 202(a)(4)(A), inserted “or activity” after “service” wherever appearing.
 
-    Subsec. (a)(20). [Pub. L. 102–375, § 708(c)(1)][/us/pl/102/375/s708/c/1], struck out “under [section 3027(a)(31) of this title][/us/usc/t42/s3027/a/31]” after “application assistance”.
+    Subsec. (a)(20). [Pub. L. 102–375][/us/pl/102/375], § 708(c)(1), struck out “under [section 3027(a)(31) of this title][/us/usc/t42/s3027/a/31]” after “application assistance”.
 
-    Subsec. (a)(21) to (30). [Pub. L. 102–375, § 202(a)(4)(B)][/us/pl/102/375/s202/a/4/B], (b), added pars. (21) to (30).
+    Subsec. (a)(21) to (30). [Pub. L. 102–375][/us/pl/102/375], § 202(a)(4)(B), (b), added pars. (21) to (30).
 
-    Subsec. (b)(1). [Pub. L. 102–375, § 904(a)(4)(B)(i)][/us/pl/102/375/s904/a/4/B/i], struck out “with health systems agencies designated under section 300l–4 of this title,” after “linkages”.
+    Subsec. (b)(1). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(4)(B)(i), struck out “with health systems agencies designated under section 300l–4 of this title,” after “linkages”.
 
-    [Pub. L. 102–321, § 163(c)(2)(A)][/us/pl/102/321/s163/c/2/A], substituted “the Substance Abuse and Mental Health Services Administration” for “the Alcohol, Drug Abuse, and Mental Health Administration”.
+    [Pub. L. 102–321][/us/pl/102/321], § 163(c)(2)(A), substituted “the Substance Abuse and Mental Health Services Administration” for “the Alcohol, Drug Abuse, and Mental Health Administration”.
 
-    Subsec. (b)(3). [Pub. L. 102–375, § 904(a)(4)(B)(ii)][/us/pl/102/375/s904/a/4/B/ii], substituted “older individuals” for “the elderly”.
+    Subsec. (b)(3). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(4)(B)(ii), substituted “older individuals” for “the elderly”.
 
-    Subsec. (b)(4). [Pub. L. 102–375, § 202(c)][/us/pl/102/375/s202/c], added par. (4).
+    Subsec. (b)(4). [Pub. L. 102–375][/us/pl/102/375], § 202(c), added par. (4).
 
-    Subsec. (c). [Pub. L. 102–375, § 202(d)][/us/pl/102/375/s202/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 102–375][/us/pl/102/375], § 202(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d). [Pub. L. 102–375, § 202(e)][/us/pl/102/375/s202/e], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–375][/us/pl/102/375], § 202(e), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 102–375, § 202(f)][/us/pl/102/375/s202/f], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–375][/us/pl/102/375], § 202(f), added subsec. (e).
 
-    1987—Subsec. (a)(5). [Pub. L. 100–175, § 105(a)][/us/pl/100/175/s105/a], inserted “(including mental health)” after “health”.
+    1987—Subsec. (a)(5). [Pub. L. 100–175][/us/pl/100/175], § 105(a), inserted “(including mental health)” after “health”.
 
     Subsec. (a)(19), (20). [Pub. L. 100–175][/us/pl/100/175], §§ 103(a), 155(a), added pars. (19) and (20).
 
-    Subsec. (b)(1). [Pub. L. 100–175, § 106(a)][/us/pl/100/175/s106/a], inserted reference to the Alcohol, Drug Abuse, and Mental Health Administration and the Administration on Developmental Disabilities.
+    Subsec. (b)(1). [Pub. L. 100–175][/us/pl/100/175], § 106(a), inserted reference to the Alcohol, Drug Abuse, and Mental Health Administration and the Administration on Developmental Disabilities.
 
-    1984—Subsec. (a)(5). [Pub. L. 98–459, § 202(a)(1)][/us/pl/98/459/s202/a/1], substituted “establishment and implementation of” for “establishment of and carry out”.
+    1984—Subsec. (a)(5). [Pub. L. 98–459][/us/pl/98/459], § 202(a)(1), substituted “establishment and implementation of” for “establishment of and carry out”.
 
-    Subsec. (a)(9). [Pub. L. 98–459, § 202(a)(2)][/us/pl/98/459/s202/a/2], inserted “, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967”.
+    Subsec. (a)(9). [Pub. L. 98–459][/us/pl/98/459], § 202(a)(2), inserted “, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967”.
 
-    Subsec. (a)(18). [Pub. L. 98–459, § 202(a)(3)][/us/pl/98/459/s202/a/3]–(5), added par. (18).
+    Subsec. (a)(18). [Pub. L. 98–459][/us/pl/98/459], § 202(a)(3)–(5), added par. (18).
 
-    Subsec. (b)(1). [Pub. L. 98–459, § 202(b)][/us/pl/98/459/s202/b], inserted “and with utilization and quality control peer review organizations under title XI of the Social Security Act”.
+    Subsec. (b)(1). [Pub. L. 98–459][/us/pl/98/459], § 202(b), inserted “and with utilization and quality control peer review organizations under title XI of the Social Security Act”.
 
-    Subsec. (c). [Pub. L. 98–459, § 202(c)][/us/pl/98/459/s202/c], substituted “the duties and functions of the Administration” for “his duties and functions”.
+    Subsec. (c). [Pub. L. 98–459][/us/pl/98/459], § 202(c), substituted “the duties and functions of the Administration” for “his duties and functions”.
 
-    1981—[Pub. L. 97–115, § 2(b)(1)][/us/pl/97/115/s2/b/1], substituted “Commissioner” for “Administration” in section catchline.
+    1981—[Pub. L. 97–115][/us/pl/97/115], § 2(b)(1), substituted “Commissioner” for “Administration” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 97–115, § 2(b)(2)][/us/pl/97/115/s2/b/2], substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+    Subsec. (a)(1). [Pub. L. 97–115][/us/pl/97/115], § 2(b)(2), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
-    Subsec. (a)(2). [Pub. L. 97–115, § 2(b)(3)][/us/pl/97/115/s2/b/3], substituted “collect and disseminate” for “serve as a clearinghouse for”.
+    Subsec. (a)(2). [Pub. L. 97–115][/us/pl/97/115], § 2(b)(3), substituted “collect and disseminate” for “serve as a clearinghouse for”.
 
     Subsec. (a)(5). [Pub. L. 97–115][/us/pl/97/115], §§ 2(b)(4), 3(d), substituted “supportive services” for “social services” and “hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing” for “hospitalization, preretirement training, continuing education, low-cost transportation and housing”.
 
-    Subsec. (a)(8). [Pub. L. 97–115, § 2(b)(5)][/us/pl/97/115/s2/b/5], inserted provisions authorizing and directing Administration to take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to collection, preparation, and dissemination of information relevant to older individuals.
+    Subsec. (a)(8). [Pub. L. 97–115][/us/pl/97/115], § 2(b)(5), inserted provisions authorizing and directing Administration to take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to collection, preparation, and dissemination of information relevant to older individuals.
 
-    Subsec. (a)(12), (16). [Pub. L. 97–115, § 2(b)(6)][/us/pl/97/115/s2/b/6], (7), substituted “private organizations” for “nonprofit private organizations”.
+    Subsec. (a)(12), (16). [Pub. L. 97–115][/us/pl/97/115], § 2(b)(6), (7), substituted “private organizations” for “nonprofit private organizations”.
 
     Subsec. (c). [Pub. L. 97–115][/us/pl/97/115], §§ 2(c), 3(d), substituted “Director of the ACTION Agency” for “Director of Action” and “supportive services” for “social services”.
 
-    1978—Subsec. (a)(1) to (4). [Pub. L. 95–478, § 102(a)(1)][/us/pl/95/478/s102/a/1], added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
+    1978—Subsec. (a)(1) to (4). [Pub. L. 95–478][/us/pl/95/478], § 102(a)(1), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
 
     Subsec. (a)(5). [Pub. L. 95–478][/us/pl/95/478], §§ 102(a)(1), 503(b)(4)(A), redesignated former par. (4) as (5) and substituted “older individuals” for “older persons”. Former par. (5) redesignated (6).
 
-    Subsec. (a)(6). [Pub. L. 95–478, § 102(a)(1)][/us/pl/95/478/s102/a/1], redesignated former par. (5) as (6). Former par. (6) redesignated (7).
+    Subsec. (a)(6). [Pub. L. 95–478][/us/pl/95/478], § 102(a)(1), redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
     Subsec. (a)(7). [Pub. L. 95–478][/us/pl/95/478], §§ 102(a)(1), 503(b)(4)(A), redesignated former par. (6) as (7) and substituted “older individuals” for “older persons”. Former par. (7) redesignated (8).
 
-    Subsec. (a)(8) to (11). [Pub. L. 95–478, § 102(a)(1)][/us/pl/95/478/s102/a/1], redesignated former pars. (7) to (10) as (8) to (11). Former par. (11) redesignated (12).
+    Subsec. (a)(8) to (11). [Pub. L. 95–478][/us/pl/95/478], § 102(a)(1), redesignated former pars. (7) to (10) as (8) to (11). Former par. (11) redesignated (12).
 
     Subsec. (a)(12). [Pub. L. 95–478][/us/pl/95/478], §§ 102(a)(1), 503(b)(4), redesignated former par. (11) as (12) and substituted “older individuals” and “such individuals” for “older persons” and “such persons”. Former par. (12) redesignated (13).
 
     Subsec. (a)(13). [Pub. L. 95–478][/us/pl/95/478], §§ 102(a)(1), 503(b)(4)(A), redesignated former par. (12) as (13) and substituted “older individuals” for “older persons”. Former par. (13) redesignated (14).
 
-    Subsec. (a)(14). [Pub. L. 95–478, § 102(a)(1)][/us/pl/95/478/s102/a/1], redesignated former par. (13) as (14). Former par. (14) redesignated (15).
+    Subsec. (a)(14). [Pub. L. 95–478][/us/pl/95/478], § 102(a)(1), redesignated former par. (13) as (14). Former par. (14) redesignated (15).
 
     Subsec. (a)(15) to (17). [Pub. L. 95–478][/us/pl/95/478], §§ 102(a)(1), 503(b)(2), redesignated former par. (14) as (15), substituted “Age Discrimination in Employment Act of 1967” for “Age Discrimination Act of 1967” and redesignated former pars. (15) and (16) as (16) and (17), respectively.
 
-    Subsecs. (b), (c). [Pub. L. 95–478, § 102(a)(2)][/us/pl/95/478/s102/a/2], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 95–478][/us/pl/95/478], § 102(a)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    1975—[Pub. L. 94–135, § 114(b)][/us/pl/94/135/s114/b], substituted “Administration” for “Office” in section catchline.
+    1975—[Pub. L. 94–135][/us/pl/94/135], § 114(b), substituted “Administration” for “Office” in section catchline.
 
-    Subsec. (a)(8). [Pub. L. 94–135, § 114(c)][/us/pl/94/135/s114/c], struck out “and” after “aged and aging;”.
+    Subsec. (a)(8). [Pub. L. 94–135][/us/pl/94/135], § 114(c), struck out “and” after “aged and aging;”.
 
-    1973—Subsec. (a). [Pub. L. 93–29, § 201(b)(1)][/us/pl/93/29/s201/b/1]–(3), in par. (4), substituted “research” for “research and demonstration programs” and made it the function of the Administration to assist in the establishment of any carry out programs designed to meet the needs of older persons for social services, including nutrition, hospitalization, preretirement training, continuing education, low-cost transportation and housing, and health services; added pars. (9) to (16); and designated existing provisions as subsec. (a), respectively.
+    1973—Subsec. (a). [Pub. L. 93–29][/us/pl/93/29], § 201(b)(1)–(3), in par. (4), substituted “research” for “research and demonstration programs” and made it the function of the Administration to assist in the establishment of any carry out programs designed to meet the needs of older persons for social services, including nutrition, hospitalization, preretirement training, continuing education, low-cost transportation and housing, and health services; added pars. (9) to (16); and designated existing provisions as subsec. (a), respectively.
 
-    Subsec. (b). [Pub. L. 93–29, § 201(b)(3)][/us/pl/93/29/s201/b/3], added subsec. (b).
+    Subsec. (b). [Pub. L. 93–29][/us/pl/93/29], § 201(b)(3), added subsec. (b).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -639,7 +639,7 @@
 
  __Deadline for Development of Data Collection Procedures__ 
 
-    [Pub. L. 102–375, title II, § 202(h)][/us/pl/102/375/s202/h], Sept. 30, 1992, [106 Stat. 1210][/us/stat/106/1210], provided that, not later than 1 year after Sept. 30, 1992, the data collection procedures required by [section 3012(a)(29) of this title][/us/usc/t42/s3012/a/29] would be developed jointly by the Commissioner on Aging and the Assistant Secretary of Planning and Evaluation of the Department of Health and Human Services with advisory information from State and local agencies, recipients, and providers and considering the data collection systems carried out by States identified as exemplary by the GAO; and that, not later than 1 year after developing such data collection procedures, the Commissioner was to test, report to Congress on, and implement appropriately such procedures.
+    [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 202(h), Sept. 30, 1992, [106 Stat. 1210][/us/stat/106/1210], provided that, not later than 1 year after Sept. 30, 1992, the data collection procedures required by [section 3012(a)(29) of this title][/us/usc/t42/s3012/a/29] would be developed jointly by the Commissioner on Aging and the Assistant Secretary of Planning and Evaluation of the Department of Health and Human Services with advisory information from State and local agencies, recipients, and providers and considering the data collection systems carried out by States identified as exemplary by the GAO; and that, not later than 1 year after developing such data collection procedures, the Commissioner was to test, report to Congress on, and implement appropriately such procedures.
 
 ----------
 
@@ -665,35 +665,35 @@
 [/us/usc/t42/s1395b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%934
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s3011/c/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3011%2Fc%2F3%2FF
-[/us/pl/89/73/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs202
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
 [/us/stat/79/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F220
-[/us/pl/93/29/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs201%2Fb
+[/us/pl/93/29/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtII
 [/us/stat/87/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F31
-[/us/pl/94/135/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs114%2Fb
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F725
-[/us/pl/95/478/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fa
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1513
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1595
-[/us/pl/98/459/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs202
+[/us/pl/98/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtII
 [/us/stat/98/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1768
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F928
-[/us/pl/102/321/s163/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fc%2F2%2FA
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F377
-[/us/pl/102/375/s102/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FA
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1202
-[/us/pl/103/82/s405/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fg%2F1
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F921
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1988
-[/us/pl/106/501/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201
+[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
 [/us/stat/114/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2229
-[/us/pl/109/365/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202
+[/us/pl/109/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtII
 [/us/stat/120/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2528
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -714,115 +714,115 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
-[/us/pl/109/365/s202/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F1%2FA
-[/us/pl/109/365/s202/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F1%2FB
-[/us/pl/109/365/s202/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F1%2FC
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/109/365/s202/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F1%2FD%2Fi
-[/us/pl/109/365/s202/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F1%2FE%2Fi
-[/us/pl/109/365/s202/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F1%2FE%2Fii
-[/us/pl/109/365/s202/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F1%2FD%2Fii
-[/us/pl/109/365/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F2
-[/us/pl/109/365/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs202%2F3
-[/us/pl/106/501/s201/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FA
-[/us/pl/106/501/s201/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FA
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s801/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fb%2F2%2FA%2Fi
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FE
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FF
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s801/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fb%2F2%2FA%2Fii
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3027/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F13
 [/us/usc/t42/s3058j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058j
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FG
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FI
-[/us/pl/106/501/s201/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FH
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
-[/us/pl/106/501/s801/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fb%2F2%2FB
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3026/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F12
 [/us/usc/t42/s3027/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F31
-[/us/pl/106/501/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F2
-[/us/pl/106/501/s801/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fb%2F2%2FC%2Fi
-[/us/pl/106/501/s801/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fb%2F2%2FC%2Fii
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3035m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035m
-[/us/pl/106/501/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F3
-[/us/pl/103/171/s3/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F3%2FA
-[/us/pl/103/171/s3/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F3%2FD
-[/us/pl/103/171/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F2
-[/us/pl/103/171/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F3%2FB
-[/us/pl/103/171/s3/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F3%2FD
-[/us/pl/103/171/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F3
-[/us/pl/103/171/s3/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F3%2FD
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/103/171/s3/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F3%2FD
-[/us/pl/103/171/s3/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F3%2FC
-[/us/pl/102/375/s904/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F4%2FA%2Fi
-[/us/pl/102/375/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fa%2F1
-[/us/pl/102/375/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fa%2F2
-[/us/pl/102/375/s904/a/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F4%2FA%2Fiii
-[/us/pl/102/375/s904/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F4%2FA%2Fii
-[/us/pl/102/375/s904/a/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F4%2FA%2Fiii
-[/us/pl/102/375/s202/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fa%2F3%2FB
-[/us/pl/102/375/s202/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fa%2F3%2FA
-[/us/pl/102/375/s102/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FA
-[/us/pl/102/375/s202/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fa%2F4%2FA
-[/us/pl/102/375/s708/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs708%2Fc%2F1
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3027/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F31
-[/us/pl/102/375/s202/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fa%2F4%2FB
-[/us/pl/102/375/s904/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F4%2FB%2Fi
-[/us/pl/102/321/s163/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fc%2F2%2FA
-[/us/pl/102/375/s904/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F4%2FB%2Fii
-[/us/pl/102/375/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fc
-[/us/pl/102/375/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fd
-[/us/pl/102/375/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fe
-[/us/pl/102/375/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Ff
-[/us/pl/100/175/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs105%2Fa
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
-[/us/pl/100/175/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs106%2Fa
-[/us/pl/98/459/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs202%2Fa%2F1
-[/us/pl/98/459/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs202%2Fa%2F2
-[/us/pl/98/459/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs202%2Fa%2F3
-[/us/pl/98/459/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs202%2Fb
-[/us/pl/98/459/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs202%2Fc
-[/us/pl/97/115/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fb%2F1
-[/us/pl/97/115/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fb%2F2
-[/us/pl/97/115/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fb%2F3
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
-[/us/pl/97/115/s2/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fb%2F5
-[/us/pl/97/115/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fb%2F6
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
-[/us/pl/95/478/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fa%2F1
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/95/478/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fa%2F1
-[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/95/478/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fa%2F1
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/95/478/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fa%2F1
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/95/478/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fa%2F2
-[/us/pl/94/135/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs114%2Fb
-[/us/pl/94/135/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs114%2Fc
-[/us/pl/93/29/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs201%2Fb%2F1
-[/us/pl/93/29/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs201%2Fb%2F3
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/93/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29
+[/us/pl/93/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -854,7 +854,7 @@
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/95/478/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs504
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/102/375/s202/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs202%2Fh
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1210
 [/us/usc/t42/s3012/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F29
 

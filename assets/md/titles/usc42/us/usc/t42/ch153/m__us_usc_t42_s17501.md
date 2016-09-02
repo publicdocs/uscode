@@ -73,7 +73,7 @@
 
         (19) Transitional jobs programs have proven to help people with criminal records to successfully return to the workplace and to the community, and therefore can reduce recidivism.
 
-([Pub. L. 110–199, § 3][/us/pl/110/199/s3], Apr. 9, 2008, [122 Stat. 658][/us/stat/122/658].)
+([Pub. L. 110–199][/us/pl/110/199], § 3, Apr. 9, 2008, [122 Stat. 658][/us/stat/122/658].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@ The Act and this Act, referred to in subsecs. (a) and (b)(5), are [Pub. L. 110�
 
  __Short Title__ 
 
-[Pub. L. 110–199, § 1][/us/pl/110/199/s1], Apr. 9, 2008, [122 Stat. 657][/us/stat/122/657], provided that: 
+[Pub. L. 110–199][/us/pl/110/199], § 1, Apr. 9, 2008, [122 Stat. 657][/us/stat/122/657], provided that: 
 
 > “This Act \[enacting this chapter and sections 3797q to 3797q–6, 3797s to 3797s–6, 3797w–2, 3797dd, and 3797dd–1 of this title, amending sections 3793, 3796ff–1, 3796ff–3, 3797u–2, 3797w, 13702, 13708, and 15606 of this title and sections 3621, 3624, 3672, and 4042 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 3797u–1 and 3797u–2 of this title\] may be cited as the ‘Second Chance Act of 2007: Community Safety Through Recidivism Prevention’ or the ‘Second Chance Act of 2007’.”
 
@@ -92,11 +92,11 @@ The Act and this Act, referred to in subsecs. (a) and (b)(5), are [Pub. L. 110�
 ----------
 ----------
 
-[/us/pl/110/199/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs3
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F658
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F657
-[/us/pl/110/199/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs1
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F657
 
 

@@ -55,7 +55,7 @@
 
         (3) The term “postgraduate physician training program” includes a residency training program.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 245, as added [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title V, § 515\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–245; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 245, as added [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title V, § 515\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–245; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
 ----------
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t42/s292d/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292d%2Fa%2F2%2FB%2Fi
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

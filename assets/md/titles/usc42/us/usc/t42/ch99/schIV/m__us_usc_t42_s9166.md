@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary of Commerce, for the use of the Administrator in carrying out the provisions of this chapter, not to exceed $3,000,000 for the fiscal year ending September 30, 1981, not to exceed $3,500,000 for the fiscal year ending September 30, 1982, not to exceed $3,500,000 for the fiscal year ending September 30, 1983, not to exceed $480,000 for each of the fiscal years ending September 30, 1984 and September 30, 1985, and not to exceed $630,000 for each of the fiscal years ending September 30, 1986 and September 30, 1987.
 
-([Pub. L. 96–320, title IV, § 406][/us/pl/96/320/s406], Aug. 3, 1980, [94 Stat. 1000][/us/stat/94/1000]; [Pub. L. 98–623, title VI, § 601][/us/pl/98/623/s601], Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410].)
+([Pub. L. 96–320, title IV][/us/pl/96/320/tIV], § 406, Aug. 3, 1980, [94 Stat. 1000][/us/stat/94/1000]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 601, Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/320/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs406
+[/us/pl/96/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIV
 [/us/stat/94/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1000
-[/us/pl/98/623/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs601
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3410
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

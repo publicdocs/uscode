@@ -297,11 +297,11 @@
 
             A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of this part for the State involved with respect to such issuer.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2704, formerly § 2701, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1955][/us/stat/110/1955]; amended [Pub. L. 111–3, title III, § 311(b)(2)][/us/pl/111/3/s311/b/2], Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 111–5, div. B, title I, § 1899D(c)][/us/pl/111/5/s1899D/c], Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426]; renumbered § 2704 and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911; [Pub. L. 111–344, title I, § 114(c)][/us/pl/111/344/s114/c], Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II, § 242(a)(3)][/us/pl/112/40/s242/a/3], (4), Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2704, formerly § 2701, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1955][/us/stat/110/1955]; amended [Pub. L. 111–3, title III][/us/pl/111/3/tIII], § 311(b)(2), Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1899D(c), Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426]; renumbered § 2704 and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911; [Pub. L. 111–344, title I][/us/pl/111/344/tI], § 114(c), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 242(a)(3), (4), Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419].)
 
  __References in Text__ 
 
-    Subsection (a) of this section, referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by [Pub. L. 111–148, title I, § 1201(2)(A)][/us/pl/111/148/s1201/2/A], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and as so amended, subsec. (a) no longer contains paragraphs.
+    Subsection (a) of this section, referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(2)(A), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and as so amended, subsec. (a) no longer contains paragraphs.
 
     The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -323,19 +323,19 @@
 
     2011—Subsec. (c)(2)(C). [Pub. L. 112–40][/us/pl/112/40] substituted “January 1, 2014” for “February 13, 2011” in introductory provisions. See Codification note above.
 
-    2010—[Pub. L. 111–148, § 1201(2)(A)][/us/pl/111/148/s1201/2/A], substituted “Prohibition of preexisting condition exclusions or other discrimination based on health status” for “Increased portability through limitation on preexisting condition exclusions” in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 1201(2)(A), substituted “Prohibition of preexisting condition exclusions or other discrimination based on health status” for “Increased portability through limitation on preexisting condition exclusions” in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period.
 
-    Subsec. (c)(2)(A), (B). [Pub. L. 111–148, § 1563(c)(1)(A)(i)][/us/pl/111/148/s1563/c/1/A/i], formerly § 1562(c)(1)(A)(i), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “group or individual health plan” for “group health plan”.
+    Subsec. (c)(2)(A), (B). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(1)(A)(i), formerly § 1562(c)(1)(A)(i), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “group or individual health plan” for “group health plan”.
 
     Subsec. (c)(2)(C). [Pub. L. 111–344][/us/pl/111/344] substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
 
-    Subsec. (c)(3)(A), (B). [Pub. L. 111–148, § 1563(c)(1)(A)(ii)(I)][/us/pl/111/148/s1563/c/1/A/ii/I], formerly § 1562(c)(1)(A)(ii)(I), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “group or individual health insurance” for “group health insurance”.
+    Subsec. (c)(3)(A), (B). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(1)(A)(ii)(I), formerly § 1562(c)(1)(A)(ii)(I), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “group or individual health insurance” for “group health insurance”.
 
-    Subsec. (c)(3)(D). [Pub. L. 111–148, § 1563(c)(1)(A)(ii)(II)][/us/pl/111/148/s1563/c/1/A/ii/II], formerly § 1562(c)(1)(A)(ii)(II), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “individual or group” for “small or large” in introductory provisions.
+    Subsec. (c)(3)(D). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(1)(A)(ii)(II), formerly § 1562(c)(1)(A)(ii)(II), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “individual or group” for “small or large” in introductory provisions.
 
-    Subsec. (d)(1) to (3). [Pub. L. 111–148, § 1563(c)(1)(B)][/us/pl/111/148/s1563/c/1/B], formerly § 1562(c)(1)(B), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “group or individual health insurance” for “group health insurance”.
+    Subsec. (d)(1) to (3). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(1)(B), formerly § 1562(c)(1)(B), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “group or individual health insurance” for “group health insurance”.
 
-    Subsec. (e)(1)(A). [Pub. L. 111–148, § 1563(c)(1)(C)][/us/pl/111/148/s1563/c/1/C], formerly § 1562(c)(1)(C), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “group or individual health insurance” for “group health insurance” in introductory provisions.
+    Subsec. (e)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(1)(C), formerly § 1562(c)(1)(C), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “group or individual health insurance” for “group health insurance” in introductory provisions.
 
     2009—Subsec. (c)(2)(C). [Pub. L. 111–5][/us/pl/111/5] added subpar. (C).
 
@@ -383,19 +383,19 @@
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s1397ee/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fc%2F2%2FB
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1955
-[/us/pl/111/3/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F2
+[/us/pl/111/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIII
 [/us/stat/123/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F70
-[/us/pl/111/5/s1899D/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899D%2Fc
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F426
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
-[/us/pl/111/344/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs114%2Fc
+[/us/pl/111/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2FtI
 [/us/stat/124/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3615
-[/us/pl/112/40/s242/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs242%2Fa%2F3
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F419
-[/us/pl/111/148/s1201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F2%2FA
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -412,18 +412,18 @@
 [/us/usc/t42/s300gg–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9325
 [/us/usc/t42/s238c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238c
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
-[/us/pl/111/148/s1201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F2%2FA
-[/us/pl/111/148/s1563/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F1%2FA%2Fi
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344
-[/us/pl/111/148/s1563/c/1/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F1%2FA%2Fii%2FI
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/1/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F1%2FA%2Fii%2FII
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F1%2FB
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F1%2FC
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40

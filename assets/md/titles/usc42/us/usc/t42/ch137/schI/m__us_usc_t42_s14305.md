@@ -37,7 +37,7 @@
 
         The Administrator shall maintain the confidentiality of documents and records that contain proprietary information.
 
-([Pub. L. 104–142, § 6][/us/pl/104/142/s6], May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
+([Pub. L. 104–142][/us/pl/104/142], § 6, May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs6
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1332
 
 

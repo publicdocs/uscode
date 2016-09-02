@@ -29,7 +29,7 @@
 
         Any State or local law enacted after August 1, 1985, which requires the submission of a material safety data sheet from facility owners or operators shall require that the data sheet be identical in content and format to the data sheet required under subsection (a) of [section 11021 of this title][/us/usc/t42/s11021]. In addition, a State or locality may require the submission of information which is supplemental to the information required on the data sheet (including information on the location and quantity of hazardous chemicals present at the facility), through additional sheets attached to the data sheet or such other means as the State or locality considers appropriate.
 
-([Pub. L. 99–499, title III, § 321][/us/pl/99/499/s321], Oct. 17, 1986, [100 Stat. 1747][/us/stat/100/1747].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 321, Oct. 17, 1986, [100 Stat. 1747][/us/stat/100/1747].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s11021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11021
-[/us/pl/99/499/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs321
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1747
 
 

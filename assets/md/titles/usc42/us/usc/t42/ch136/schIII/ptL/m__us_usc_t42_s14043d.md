@@ -33,7 +33,7 @@
 
     (8) in a national survey of more than 6,000 American families, 50 percent of men who frequently assaulted their wives also frequently abused their children.
 
-([Pub. L. 103–322, title IV, § 41301][/us/pl/103/322/s41301], as added [Pub. L. 109–162, title IV, § 401][/us/pl/109/162/s401], Jan. 5, 2006, [119 Stat. 3017][/us/stat/119/3017].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41301, as added [Pub. L. 109–162, title IV][/us/pl/109/162/tIV], § 401, Jan. 5, 2006, [119 Stat. 3017][/us/stat/119/3017].)
 
 ----------
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41301
-[/us/pl/109/162/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs401
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIV
 [/us/stat/119/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3017
 
 

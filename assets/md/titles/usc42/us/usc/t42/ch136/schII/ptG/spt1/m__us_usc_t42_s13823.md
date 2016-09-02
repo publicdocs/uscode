@@ -61,7 +61,7 @@
 
         (2) with a high rate of unemployment, as determined by the Secretary or in which the population loss is at least 7 percent from April 1, 1980, to April 1, 1990, as reported by the Bureau of the Census.
 
-([Pub. L. 103–322, title III, § 31113][/us/pl/103/322/s31113], Sept. 13, 1994, [108 Stat. 1883][/us/stat/108/1883]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(44), (f)(35)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–428, 2681–434; [Pub. L. 113–128, title V, § 512(jj)][/us/pl/113/128/s512/jj], July 22, 2014, [128 Stat. 1722][/us/stat/128/1722].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31113, Sept. 13, 1994, [108 Stat. 1883][/us/stat/108/1883]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(44), (f)(35)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–428, 2681–434; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(jj), July 22, 2014, [128 Stat. 1722][/us/stat/128/1722].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
     2014—Subsec. (a)(4)(C). [Pub. L. 113–128][/us/pl/113/128] substituted “job training programs authorized under title I of the Workforce Innovation and Opportunity Act or the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485])” for “job training programs authorized under title I of the Workforce Investment Act of 1998 or the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485])”.
 
-    1998—Subsec. (a)(4)(C). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(35)\], struck out “the Job Training Partnership Act or” after “authorized under”.
+    1998—Subsec. (a)(4)(C). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(35)\], struck out “the Job Training Partnership Act or” after “authorized under”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(44)\], substituted “authorized under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “authorized under the Job Training Partnership Act ([29 U.S.C. 1501][/us/usc/t29/s1501] et seq.)”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(44)\], substituted “authorized under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “authorized under the Job Training Partnership Act ([29 U.S.C. 1501][/us/usc/t29/s1501] et seq.)”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -95,11 +95,11 @@
 [/us/usc/t42/s13822/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13822%2Fb%2F2%2FB
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/103/322/s31113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31113
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1883
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s512/jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fjj
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1722
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
@@ -110,8 +110,8 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506

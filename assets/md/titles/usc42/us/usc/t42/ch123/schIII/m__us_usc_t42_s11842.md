@@ -31,15 +31,15 @@
 
         To carry out this section, there are authorized to be appropriated $12,000,000 in fiscal year 1989, and $15,000,000 for each of the fiscal years 1990 through 1993.
 
-([Pub. L. 100–690, title III, § 3522][/us/pl/100/690/s3522], Nov. 18, 1988, [102 Stat. 4260][/us/stat/102/4260]; [Pub. L. 101–93, § 4(2)][/us/pl/101/93/s4/2], Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 101–204, title X, § 1001(c)(1)][/us/pl/101/204/s1001/c/1], Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3522, Nov. 18, 1988, [102 Stat. 4260][/us/stat/102/4260]; [Pub. L. 101–93][/us/pl/101/93], § 4(2), Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 101–204, title X][/us/pl/101/204/tX], § 1001(c)(1), Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826].)
 
  __Amendments__ 
 
-    1989—Subsec. (a). [Pub. L. 101–93][/us/pl/101/93] and [Pub. L. 101–204, § 1001(c)(1)(A)(ii)][/us/pl/101/204/s1001/c/1/A/ii], made identical amendments, striking out “(as defined in [section 11851(6) of this title][/us/usc/t42/s11851/6])” after “drug abuse”.
+    1989—Subsec. (a). [Pub. L. 101–93][/us/pl/101/93] and [Pub. L. 101–204][/us/pl/101/204], § 1001(c)(1)(A)(ii), made identical amendments, striking out “(as defined in [section 11851(6) of this title][/us/usc/t42/s11851/6])” after “drug abuse”.
 
-    [Pub. L. 101–204, § 1001(c)(1)(A)(i)][/us/pl/101/204/s1001/c/1/A/i], struck out “, acting through the Administrator,” before “shall develop”.
+    [Pub. L. 101–204][/us/pl/101/204], § 1001(c)(1)(A)(i), struck out “, acting through the Administrator,” before “shall develop”.
 
-    Subsec. (b). [Pub. L. 101–204, § 1001(c)(1)(B)][/us/pl/101/204/s1001/c/1/B], substituted “Secretary of Health and Human Services” for “Administrator”.
+    Subsec. (b). [Pub. L. 101–204][/us/pl/101/204], § 1001(c)(1)(B), substituted “Secretary of Health and Human Services” for “Administrator”.
 
 ----------
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/pl/100/690/s3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3522
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4260
-[/us/pl/101/93/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs4%2F2
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F611
-[/us/pl/101/204/s1001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fc%2F1
+[/us/pl/101/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtX
 [/us/stat/103/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1826
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
-[/us/pl/101/204/s1001/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fc%2F1%2FA%2Fii
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/usc/t42/s11851/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11851%2F6
-[/us/pl/101/204/s1001/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fc%2F1%2FA%2Fi
-[/us/pl/101/204/s1001/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fc%2F1%2FB
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 
 

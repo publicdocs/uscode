@@ -39,7 +39,7 @@
 
         It is the sense of Congress that States and other relevant entities should use the best practices developed and disseminated in accordance with this section to evaluate and improve the communication and coordination between State corrections departments and child protection agencies to ensure the safety and support of children of incarcerated parents (including those in foster care and kinship care), and the support of parent-child relationships between incarcerated (and formerly incarcerated) parents and their children, as appropriate to the health and well-being of the children.
 
-([Pub. L. 110–199, title II, § 243][/us/pl/110/199/s243], Apr. 9, 2008, [122 Stat. 691][/us/stat/122/691].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 243, Apr. 9, 2008, [122 Stat. 691][/us/stat/122/691].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/199/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs243
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F691
 
 

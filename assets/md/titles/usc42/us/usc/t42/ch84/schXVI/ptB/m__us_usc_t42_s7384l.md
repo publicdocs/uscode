@@ -235,7 +235,7 @@
 
         (D) Leukemia (other than chronic lymphocytic leukemia), if initial occupational exposure occurred before 21 years of age and onset occurred more than two years after initial occupational exposure.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3621\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–498; [Pub. L. 107–20, title II, § 2403(a)][/us/pl/107/20/s2403/a], July 24, 2001, [115 Stat. 175][/us/stat/115/175]; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(1)][/us/pl/107/107/s3151/a/1], (4)(C), Dec. 28, 2001, [115 Stat. 1371][/us/stat/115/1371], 1374; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375], §§ 3166(b)(2), 3168(a), Oct. 28, 2004, [118 Stat. 2189][/us/stat/118/2189], 2190.)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3621\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–498; [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2403(a), July 24, 2001, [115 Stat. 175][/us/stat/115/175]; [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3151(a)(1), (4)(C), Dec. 28, 2001, [115 Stat. 1371][/us/stat/115/1371], 1374; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], §§ 3166(b)(2), 3168(a), Oct. 28, 2004, [118 Stat. 2189][/us/stat/118/2189], 2190.)
 
  __References in Text__ 
 
@@ -245,23 +245,23 @@
 
  __Amendments__ 
 
-    2004—Par. (3). [Pub. L. 108–375, § 3168(a)][/us/pl/108/375/s3168/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘atomic weapons employee’ means an individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.”
+    2004—Par. (3). [Pub. L. 108–375][/us/pl/108/375], § 3168(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘atomic weapons employee’ means an individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.”
 
-    Par. (14)(C)(ii). [Pub. L. 108–375, § 3166(b)(2)][/us/pl/108/375/s3166/b/2], substituted “30 days” for “180 days”.
+    Par. (14)(C)(ii). [Pub. L. 108–375][/us/pl/108/375], § 3166(b)(2), substituted “30 days” for “180 days”.
 
     2001—Par. (17)(C). [Pub. L. 107–20][/us/pl/107/20] added subpar. (C).
 
-    Par. (17)(D). [Pub. L. 107–107, § 3151(a)(1)][/us/pl/107/107/s3151/a/1], added subpar. (D).
+    Par. (17)(D). [Pub. L. 107–107][/us/pl/107/107], § 3151(a)(1), added subpar. (D).
 
-    Par. (18). [Pub. L. 107–107, § 3151(a)(4)(C)][/us/pl/107/107/s3151/a/4/C], struck out par. (18) which read as follows: “The term ‘survivor’ means any individual or individuals eligible to receive compensation pursuant to [section 8133 of title 5][/us/usc/t5/s8133].”
+    Par. (18). [Pub. L. 107–107][/us/pl/107/107], § 3151(a)(4)(C), struck out par. (18) which read as follows: “The term ‘survivor’ means any individual or individuals eligible to receive compensation pursuant to [section 8133 of title 5][/us/usc/t5/s8133].”
 
  __Effective Date of 2001 Amendments__ 
 
-[Pub. L. 107–107, div. C, title XXXI, § 3151(a)(4)(D)][/us/pl/107/107/s3151/a/4/D], Dec. 28, 2001, [115 Stat. 1374][/us/stat/115/1374], provided that: 
+[Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3151(a)(4)(D), Dec. 28, 2001, [115 Stat. 1374][/us/stat/115/1374], provided that: 
 
 > “The amendments made by this paragraph \[amending this section and sections 7384s and 7384u of this title\] shall take effect on July 1, 2001.”
 
-[Pub. L. 107–20, title II, § 2403(b)][/us/pl/107/20/s2403/b], July 24, 2001, [115 Stat. 175][/us/stat/115/175], provided that: 
+[Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2403(b), July 24, 2001, [115 Stat. 175][/us/stat/115/175], provided that: 
 
 > “This section \[amending this section\] shall be effective on October 1, 2001.”
 
@@ -280,26 +280,26 @@
 [/us/usc/t42/s7384n/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384n%2Fb
 [/us/usc/t42/s7384q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384q
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/20/s2403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2403%2Fa
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F175
-[/us/pl/107/107/s3151/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fa%2F1
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1371
-[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2189
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/pl/101/426/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426%2Fs4%2Fb%2F2
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/108/375/s3168/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3168%2Fa
-[/us/pl/108/375/s3166/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3166%2Fb%2F2
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20
-[/us/pl/107/107/s3151/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fa%2F1
-[/us/pl/107/107/s3151/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fa%2F4%2FC
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t5/s8133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8133
-[/us/pl/107/107/s3151/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fa%2F4%2FD
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1374
-[/us/pl/107/20/s2403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2403%2Fb
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F175
 
 

@@ -203,7 +203,7 @@
 
                     The limitation under subparagraph (E)(i) applies to grants pursuant to clause (i) of this subparagraph to the same extent and in the same manner as such limitation applies to grants pursuant to paragraph (1), except that the reference to minimum grants does not apply for purposes of this clause. Amounts available as a result of the limitation under the preceding sentence shall be made available by the Secretary as additional amounts for grants under clause (ii) of this subparagraph.
 
-            (G) __Repealed.__  __[__  __Pub. L. 109–415, title II, § 203(b)(2)__  __][/us/pl/109/415/s203/b/2]__  __,__  __Dec. 19, 2006__  __,__  __[__  __120 Stat. 2792__  __][/us/stat/120/2792]__ 
+            (G) __Repealed.__  __[__  __Pub. L. 109–415, title II__  __][/us/pl/109/415/tII]__  __, § 203(b)(2),__  __Dec. 19, 2006__  __,__  __[__  __120 Stat. 2792__  __][/us/stat/120/2792]__ 
 
             (H) __Increase in formula grants__ 
 
@@ -323,177 +323,177 @@
 
         Any portion of a grant made to a State under [section 300ff–21 of this title][/us/usc/t42/s300ff–21] for a fiscal year that has not been obligated as described in subsection (c) ceases to be available to the State and shall be made available by the Secretary for grants under [section 300ff–29a of this title][/us/usc/t42/s300ff–29a], in addition to amounts made available for such grants under [section 300ff–31b(b)(2) of this title][/us/usc/t42/s300ff–31b/b/2].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2618, as added [Pub. L. 101–381, title II, § 201][/us/pl/101/381/s201], Aug. 18, 1990, [104 Stat. 595][/us/stat/104/595]; amended [Pub. L. 102–531, title III, § 312(d)(30)][/us/pl/102/531/s312/d/30], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506]; [Pub. L. 104–146][/us/pl/104/146], §§ 3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, [110 Stat. 1355][/us/stat/110/1355], 1363, 1365, 1368; [Pub. L. 105–392, title IV, § 417][/us/pl/105/392/s417], Nov. 13, 1998, [112 Stat. 3591][/us/stat/112/3591]; [Pub. L. 106–345, title II, § 206][/us/pl/106/345/s206], Oct. 20, 2000, [114 Stat. 1334][/us/stat/114/1334]; [Pub. L. 109–415, title II][/us/pl/109/415], §§ 203, 204(a), title VII, §§ 702(1), 703, Dec. 19, 2006, [120 Stat. 2789][/us/stat/120/2789], 2796, 2819, 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), 3(b), 5(b), (c)(1), 7(b), 10(b), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2888, 2890, 2891, 2893, 2895.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2618, as added [Pub. L. 101–381, title II][/us/pl/101/381/tII], § 201, Aug. 18, 1990, [104 Stat. 595][/us/stat/104/595]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(30), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506]; [Pub. L. 104–146][/us/pl/104/146], §§ 3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, [110 Stat. 1355][/us/stat/110/1355], 1363, 1365, 1368; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 417, Nov. 13, 1998, [112 Stat. 3591][/us/stat/112/3591]; [Pub. L. 106–345, title II][/us/pl/106/345/tII], § 206, Oct. 20, 2000, [114 Stat. 1334][/us/stat/114/1334]; [Pub. L. 109–415, title II][/us/pl/109/415/tII], §§ 203, 204(a), title VII, §§ 702(1), 703, Dec. 19, 2006, [120 Stat. 2789][/us/stat/120/2789], 2796, 2819, 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), 3(b), 5(b), (c)(1), 7(b), 10(b), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2888, 2890, 2891, 2893, 2895.)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 111–87, § 5(c)(1)][/us/pl/111/87/s5/c/1], substituted “subparagraph (F)” for “subparagraph (G)”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 111–87][/us/pl/111/87], § 5(c)(1), substituted “subparagraph (F)” for “subparagraph (G)”.
 
-    Subsec. (a)(2)(D)(ii). [Pub. L. 111–87, § 3(b)(1)(A)(i)][/us/pl/111/87/s3/b/1/A/i], substituted “2012” for “2009” in introductory provisions.
+    Subsec. (a)(2)(D)(ii). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(1)(A)(i), substituted “2012” for “2009” in introductory provisions.
 
-    Subsec. (a)(2)(D)(ii)(II). [Pub. L. 111–87, § 3(b)(1)(A)(ii)][/us/pl/111/87/s3/b/1/A/ii], substituted “or a subsequent fiscal year through fiscal year 2012” for “or 2009”.
+    Subsec. (a)(2)(D)(ii)(II). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(1)(A)(ii), substituted “or a subsequent fiscal year through fiscal year 2012” for “or 2009”.
 
-    Subsec. (a)(2)(D)(iv). [Pub. L. 111–87, § 3(b)(1)(B)][/us/pl/111/87/s3/b/1/B], substituted “2012” for “2010”.
+    Subsec. (a)(2)(D)(iv). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(1)(B), substituted “2012” for “2010”.
 
-    Subsec. (a)(2)(D)(v). [Pub. L. 111–87, § 3(b)(1)(C)][/us/pl/111/87/s3/b/1/C], inserted “or a subsequent fiscal year” after “2009”.
+    Subsec. (a)(2)(D)(v). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(1)(C), inserted “or a subsequent fiscal year” after “2009”.
 
-    Subsec. (a)(2)(D)(vi)(II). [Pub. L. 111–87, § 3(b)(1)(D)][/us/pl/111/87/s3/b/1/D], inserted “for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)” after “5 percent”.
+    Subsec. (a)(2)(D)(vi)(II). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(1)(D), inserted “for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)” after “5 percent”.
 
-    Subsec. (a)(2)(D)(vi)(III). [Pub. L. 111–87, § 7(b)][/us/pl/111/87/s7/b], added subcl. (III).
+    Subsec. (a)(2)(D)(vi)(III). [Pub. L. 111–87][/us/pl/111/87], § 7(b), added subcl. (III).
 
-    Subsec. (a)(2)(D)(viii)(II). [Pub. L. 111–87, § 3(b)(1)(E)][/us/pl/111/87/s3/b/1/E], substituted “2013” for “2010” and “2012” for “2009”.
+    Subsec. (a)(2)(D)(viii)(II). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(1)(E), substituted “2013” for “2010” and “2012” for “2009”.
 
-    Subsec. (a)(2)(D)(x). [Pub. L. 111–87, § 3(b)(1)(F)][/us/pl/111/87/s3/b/1/F], added cl. (x).
+    Subsec. (a)(2)(D)(x). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(1)(F), added cl. (x).
 
-    Subsec. (a)(2)(E)(i), (ii). [Pub. L. 111–87, § 3(b)(2)][/us/pl/111/87/s3/b/2], substituted “2012” for “2009”.
+    Subsec. (a)(2)(E)(i), (ii). [Pub. L. 111–87][/us/pl/111/87], § 3(b)(2), substituted “2012” for “2009”.
 
-    Subsec. (a)(2)(F)(ii)(V). [Pub. L. 111–87, § 10(b)][/us/pl/111/87/s10/b], struck out “, subject to subclause (VI)” before period.
+    Subsec. (a)(2)(F)(ii)(V). [Pub. L. 111–87][/us/pl/111/87], § 10(b), struck out “, subject to subclause (VI)” before period.
 
-    Subsec. (a)(2)(H)(i). [Pub. L. 111–87, § 5(b)(1)][/us/pl/111/87/s5/b/1], (c)(1), substituted “2010” for “2007” and “2009” for “2006” and substituted “subparagraph (F)” for “subparagraph (G)” in two places.
+    Subsec. (a)(2)(H)(i). [Pub. L. 111–87][/us/pl/111/87], § 5(b)(1), (c)(1), substituted “2010” for “2007” and “2009” for “2006” and substituted “subparagraph (F)” for “subparagraph (G)” in two places.
 
-    Subsec. (a)(2)(H)(ii). [Pub. L. 111–87, § 5(b)(3)][/us/pl/111/87/s5/b/3], (c)(1), in heading, substituted “2011 and 2012” for “2008 and 2009” and, in text, substituted “2011 and 2012” for “2008 and 2009”, “subparagraph (F)” for “subparagraph (G)”, and “2010” for “2007”.
+    Subsec. (a)(2)(H)(ii). [Pub. L. 111–87][/us/pl/111/87], § 5(b)(3), (c)(1), in heading, substituted “2011 and 2012” for “2008 and 2009” and, in text, substituted “2011 and 2012” for “2008 and 2009”, “subparagraph (F)” for “subparagraph (G)”, and “2010” for “2007”.
 
-    [Pub. L. 111–87, § 5(b)(2)][/us/pl/111/87/s5/b/2], redesignated cl. (iii) as (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “For purposes of clause (i) as applied for fiscal year 2007, the references in such clause to subparagraph (G) are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.”
+    [Pub. L. 111–87][/us/pl/111/87], § 5(b)(2), redesignated cl. (iii) as (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “For purposes of clause (i) as applied for fiscal year 2007, the references in such clause to subparagraph (G) are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.”
 
-    Subsec. (a)(2)(H)(iii). [Pub. L. 111–87, § 5(b)(4)][/us/pl/111/87/s5/b/4], added cl. (iii). Former cl. (iii) redesignated (ii).
+    Subsec. (a)(2)(H)(iii). [Pub. L. 111–87][/us/pl/111/87], § 5(b)(4), added cl. (iii). Former cl. (iii) redesignated (ii).
 
-    Subsec. (a)(2)(H)(v). [Pub. L. 111–87, § 5(b)(5)][/us/pl/111/87/s5/b/5], substituted “2013” for “2009”.
+    Subsec. (a)(2)(H)(v). [Pub. L. 111–87][/us/pl/111/87], § 5(b)(5), substituted “2013” for “2009”.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    Subsec. (a)(1). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
 
-    [Pub. L. 109–415, § 203(g)(1)][/us/pl/109/415/s203/g/1], substituted “[section 300ff–31b of this title][/us/usc/t42/s300ff–31b]” for “[section 300ff–77 of this title][/us/usc/t42/s300ff–77]” in introductory provisions.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(g)(1), substituted “[section 300ff–31b of this title][/us/usc/t42/s300ff–31b]” for “[section 300ff–77 of this title][/us/usc/t42/s300ff–77]” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 109–415, § 203(g)(2)(A)][/us/pl/109/415/s203/g/2/A], substituted “each of the 50 States, the District of Columbia, Guam, and the Virgin Islands (referred to in this paragraph as a ‘covered State’)” for “each of the several States and the District of Columbia” in introductory provisions.
+    Subsec. (a)(1)(A). [Pub. L. 109–415][/us/pl/109/415], § 203(g)(2)(A), substituted “each of the 50 States, the District of Columbia, Guam, and the Virgin Islands (referred to in this paragraph as a ‘covered State’)” for “each of the several States and the District of Columbia” in introductory provisions.
 
-    Subsec. (a)(1)(A)(i)(I). [Pub. L. 109–415, § 702(1)][/us/pl/109/415/s702/1], substituted “AIDS” for “acquired immune deficiency syndrome”.
+    Subsec. (a)(1)(A)(i)(I). [Pub. L. 109–415][/us/pl/109/415], § 702(1), substituted “AIDS” for “acquired immune deficiency syndrome”.
 
-    [Pub. L. 109–415, § 203(g)(2)(B)(i)][/us/pl/109/415/s203/g/2/B/i], substituted “covered State” for “State or District”.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(g)(2)(B)(i), substituted “covered State” for “State or District”.
 
-    Subsec. (a)(1)(A)(i)(II). [Pub. L. 109–415, § 702(1)][/us/pl/109/415/s702/1], substituted “AIDS” for “acquired immune deficiency syndrome”.
+    Subsec. (a)(1)(A)(i)(II). [Pub. L. 109–415][/us/pl/109/415], § 702(1), substituted “AIDS” for “acquired immune deficiency syndrome”.
 
-    [Pub. L. 109–415, § 203(g)(2)(B)(ii)][/us/pl/109/415/s203/g/2/B/ii], substituted “covered State” for “State or District” and inserted “and” at end.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(g)(2)(B)(ii), substituted “covered State” for “State or District” and inserted “and” at end.
 
-    Subsec. (a)(1)(B). [Pub. L. 109–415, § 203(g)(3)][/us/pl/109/415/s203/g/3], substituted “each territory other than Guam and the Virgin Islands” for “each territory of the United States, as defined in paragraph (3),”.
+    Subsec. (a)(1)(B). [Pub. L. 109–415][/us/pl/109/415], § 203(g)(3), substituted “each territory other than Guam and the Virgin Islands” for “each territory of the United States, as defined in paragraph (3),”.
 
-    Subsec. (a)(2)(A). [Pub. L. 109–415, § 203(b)(1)(A)][/us/pl/109/415/s203/b/1/A], in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is, subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
+    Subsec. (a)(2)(A). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(1)(A), in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is, subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
 
     “(i) an amount equal to the amount appropriated under [section 300ff–77 of this title][/us/usc/t42/s300ff–77] for the fiscal year involved for grants under this part, subject to subparagraphs (H) and (I); and”.
 
-    Subsec. (a)(2)(A)(ii)(I). [Pub. L. 109–415, § 203(b)(1)(B)(i)][/us/pl/109/415/s203/b/1/B/i], substituted “0.75” for “.80” and struck out “and” at end.
+    Subsec. (a)(2)(A)(ii)(I). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(1)(B)(i), substituted “0.75” for “.80” and struck out “and” at end.
 
-    Subsec. (a)(2)(A)(ii)(II). [Pub. L. 109–415, § 203(b)(1)(B)(ii)][/us/pl/109/415/s203/b/1/B/ii], inserted “non-EMA” after “respective” and substituted “; and” for period at end.
+    Subsec. (a)(2)(A)(ii)(II). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(1)(B)(ii), inserted “non-EMA” after “respective” and substituted “; and” for period at end.
 
-    Subsec. (a)(2)(A)(ii)(III). [Pub. L. 109–415, § 203(b)(1)(B)(iii)][/us/pl/109/415/s203/b/1/B/iii], added subcl. (III).
+    Subsec. (a)(2)(A)(ii)(III). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(1)(B)(iii), added subcl. (III).
 
-    Subsec. (a)(2)(B). [Pub. L. 109–415, § 203(a)(1)(A)][/us/pl/109/415/s203/a/1/A], substituted “number of living cases of HIV/AIDS in the State involved” for “estimated number of living cases of acquired immune deficiency syndrome in the eligible area involved”.
+    Subsec. (a)(2)(B). [Pub. L. 109–415][/us/pl/109/415], § 203(a)(1)(A), substituted “number of living cases of HIV/AIDS in the State involved” for “estimated number of living cases of acquired immune deficiency syndrome in the eligible area involved”.
 
-    Subsec. (a)(2)(C)(i). [Pub. L. 109–415, § 203(g)(4)][/us/pl/109/415/s203/g/4], struck out “or territory” after “State”.
+    Subsec. (a)(2)(C)(i). [Pub. L. 109–415][/us/pl/109/415], § 203(g)(4), struck out “or territory” after “State”.
 
-    [Pub. L. 109–415, § 203(a)(2)(A)][/us/pl/109/415/s203/a/2/A], substituted “number of living cases of HIV/AIDS” for “estimated number of living cases of acquired immune deficiency syndrome”.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(a)(2)(A), substituted “number of living cases of HIV/AIDS” for “estimated number of living cases of acquired immune deficiency syndrome”.
 
-    Subsec. (a)(2)(C)(ii). [Pub. L. 109–415, § 203(a)(2)(B)][/us/pl/109/415/s203/a/2/B], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the estimated number of living cases of acquired immune deficiency syndrome in such State or territory that are within an eligible area (as determined under part A of this subchapter).”
+    Subsec. (a)(2)(C)(ii). [Pub. L. 109–415][/us/pl/109/415], § 203(a)(2)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the estimated number of living cases of acquired immune deficiency syndrome in such State or territory that are within an eligible area (as determined under part A of this subchapter).”
 
-    Subsec. (a)(2)(D). [Pub. L. 109–415, § 203(a)(1)(B)][/us/pl/109/415/s203/a/1/B], amended subpar. (D) generally. Prior to amendment, subpar. (D) related to estimating the number of living cases of acquired immune deficiency syndrome in a State or territory.
+    Subsec. (a)(2)(D). [Pub. L. 109–415][/us/pl/109/415], § 203(a)(1)(B), amended subpar. (D) generally. Prior to amendment, subpar. (D) related to estimating the number of living cases of acquired immune deficiency syndrome in a State or territory.
 
-    Subsec. (a)(2)(E). [Pub. L. 109–415, § 203(b)(3)][/us/pl/109/415/s203/b/3], added subpar (E).
+    Subsec. (a)(2)(E). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(3), added subpar (E).
 
-    [Pub. L. 109–415, § 203(b)(2)][/us/pl/109/415/s203/b/2], struck out heading and text of subpar. (E). Text read as follows: “If under [section 300ff–13(a)(3)(D)(i) of this title][/us/usc/t42/s300ff–13/a/3/D/i] the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.”
+    [Pub. L. 109–415][/us/pl/109/415], § 203(b)(2), struck out heading and text of subpar. (E). Text read as follows: “If under [section 300ff–13(a)(3)(D)(i) of this title][/us/usc/t42/s300ff–13/a/3/D/i] the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.”
 
-    Subsec. (a)(2)(F). [Pub. L. 109–415, § 203(b)(4)][/us/pl/109/415/s203/b/4], redesignated subpar. (I) as (F).
+    Subsec. (a)(2)(F). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(4), redesignated subpar. (I) as (F).
 
-    [Pub. L. 109–415, § 203(b)(2)][/us/pl/109/415/s203/b/2], struck out heading and text of subpar. (F). Text read as follows: “For purposes of subparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
+    [Pub. L. 109–415][/us/pl/109/415], § 203(b)(2), struck out heading and text of subpar. (F). Text read as follows: “For purposes of subparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
 
-    Subsec. (a)(2)(F)(i). [Pub. L. 109–415, § 203(c)(1)][/us/pl/109/415/s203/c/1], which directed amendment of subsec. (a)(2)(G)(i) by substituting “[section 300ff–31b of this title][/us/usc/t42/s300ff–31b]” for “[section 300ff–77 of this title][/us/usc/t42/s300ff–77]” in introductory provisions, substituting a semicolon for a period at end of subcl. (II), and adding concluding provisions, was executed by making the amendment to subsec. (a)(2)(F)(i), to reflect the probable intent of Congress.
+    Subsec. (a)(2)(F)(i). [Pub. L. 109–415][/us/pl/109/415], § 203(c)(1), which directed amendment of subsec. (a)(2)(G)(i) by substituting “[section 300ff–31b of this title][/us/usc/t42/s300ff–31b]” for “[section 300ff–77 of this title][/us/usc/t42/s300ff–77]” in introductory provisions, substituting a semicolon for a period at end of subcl. (II), and adding concluding provisions, was executed by making the amendment to subsec. (a)(2)(F)(i), to reflect the probable intent of Congress.
 
-    Subsec. (a)(2)(F)(ii). [Pub. L. 109–415, § 203(c)(2)][/us/pl/109/415/s203/c/2], which directed amendment of subsec. (a)(2)(G)(ii) by adding subcls. (I) to (III), striking out former subcls. (I) to (III), substituting “5 percent” for “3 percent” in subcl. (V), striking out subcl. (VI), and realigning margins, was executed by making the amendments to subsec. (a)(2)(F)(ii), to reflect the probable intent of Congress. Prior to amendment, subcls. (I) to (III) and (VI) related to supplemental grants to States to increase access to therapeutics described in section 300ff–26(a), eligibility for grants, requirements for grants, and reservation of amounts, respectively.
+    Subsec. (a)(2)(F)(ii). [Pub. L. 109–415][/us/pl/109/415], § 203(c)(2), which directed amendment of subsec. (a)(2)(G)(ii) by adding subcls. (I) to (III), striking out former subcls. (I) to (III), substituting “5 percent” for “3 percent” in subcl. (V), striking out subcl. (VI), and realigning margins, was executed by making the amendments to subsec. (a)(2)(F)(ii), to reflect the probable intent of Congress. Prior to amendment, subcls. (I) to (III) and (VI) related to supplemental grants to States to increase access to therapeutics described in section 300ff–26(a), eligibility for grants, requirements for grants, and reservation of amounts, respectively.
 
-    Subsec. (a)(2)(F)(iii). [Pub. L. 109–415, § 203(c)(3)][/us/pl/109/415/s203/c/3], which directed amendment of subsec. (a)(2)(G) by adding cl. (iii), was executed by making the amendment to subsec. (a)(2)(F), to reflect the probable intent of Congress.
+    Subsec. (a)(2)(F)(iii). [Pub. L. 109–415][/us/pl/109/415], § 203(c)(3), which directed amendment of subsec. (a)(2)(G) by adding cl. (iii), was executed by making the amendment to subsec. (a)(2)(F), to reflect the probable intent of Congress.
 
-    Subsec. (a)(2)(G). [Pub. L. 109–415, § 203(b)(2)][/us/pl/109/415/s203/b/2], struck out heading and text of subpar. (G). Text read as follows: “The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjust the grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee.”
+    Subsec. (a)(2)(G). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(2), struck out heading and text of subpar. (G). Text read as follows: “The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjust the grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee.”
 
-    Subsec. (a)(2)(H). [Pub. L. 109–415, § 203(d)][/us/pl/109/415/s203/d], added subpar. (H).
+    Subsec. (a)(2)(H). [Pub. L. 109–415][/us/pl/109/415], § 203(d), added subpar. (H).
 
-    [Pub. L. 109–415, § 203(b)(2)][/us/pl/109/415/s203/b/2], struck out subpar. (H) which related to amount of grants in fiscal years 2001 to 2005.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(b)(2), struck out subpar. (H) which related to amount of grants in fiscal years 2001 to 2005.
 
-    Subsec. (a)(2)(I). [Pub. L. 109–415, § 203(b)(4)][/us/pl/109/415/s203/b/4], redesignated subpar. (I) as (F).
+    Subsec. (a)(2)(I). [Pub. L. 109–415][/us/pl/109/415], § 203(b)(4), redesignated subpar. (I) as (F).
 
-    Subsec. (a)(3). [Pub. L. 109–415, § 203(g)(5)][/us/pl/109/415/s203/g/5], struck out par. (3), which defined “State” and “territory of the United States” as used in subsec. (a).
+    Subsec. (a)(3). [Pub. L. 109–415][/us/pl/109/415], § 203(g)(5), struck out par. (3), which defined “State” and “territory of the United States” as used in subsec. (a).
 
-    Subsec. (b)(1). [Pub. L. 109–415, § 203(e)(1)][/us/pl/109/415/s203/e/1], redesignated par. (2) as (1).
+    Subsec. (b)(1). [Pub. L. 109–415][/us/pl/109/415], § 203(e)(1), redesignated par. (2) as (1).
 
-    Subsec. (b)(2). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
+    Subsec. (b)(2). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
 
-    [Pub. L. 109–415, § 203(e)(2)][/us/pl/109/415/s203/e/2], substituted “paragraph (4)” for “paragraph (5)” and “paragraph (5)” for “paragraph (6)”.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(2), substituted “paragraph (4)” for “paragraph (5)” and “paragraph (5)” for “paragraph (6)”.
 
-    [Pub. L. 109–415, § 203(e)(1)][/us/pl/109/415/s203/e/1], redesignated par. (3) as (2). Former par. (2) redesignated (1).
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(1), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-    Subsec. (b)(3). [Pub. L. 109–415, § 203(e)(3)][/us/pl/109/415/s203/e/3], added subpars. (B) and (E), redesignated former subpars. (B) and (C) as (C) and (D), respectively, inserted “, including a clinical quality management program under subparagraph (E)” before period at end of subpar. (C), and, in subpar. (A), reenacted heading without change and amended text generally. Prior to amendment, subpar. (A) text read as follows: “Subject to paragraph (5) and except as provided in paragraph (6), a State may not use more than 10 percent of amounts received under a grant awarded under this part for administration. In the case of entities and subcontractors to which the State allocates amounts received by the State under the grant (including consortia under [section 300ff–23 of this title][/us/usc/t42/s300ff–23]), the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”
+    Subsec. (b)(3). [Pub. L. 109–415][/us/pl/109/415], § 203(e)(3), added subpars. (B) and (E), redesignated former subpars. (B) and (C) as (C) and (D), respectively, inserted “, including a clinical quality management program under subparagraph (E)” before period at end of subpar. (C), and, in subpar. (A), reenacted heading without change and amended text generally. Prior to amendment, subpar. (A) text read as follows: “Subject to paragraph (5) and except as provided in paragraph (6), a State may not use more than 10 percent of amounts received under a grant awarded under this part for administration. In the case of entities and subcontractors to which the State allocates amounts received by the State under the grant (including consortia under [section 300ff–23 of this title][/us/usc/t42/s300ff–23]), the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”
 
-    [Pub. L. 109–415, § 203(e)(1)][/us/pl/109/415/s203/e/1], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(1), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (b)(4). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
+    Subsec. (b)(4). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
 
-    [Pub. L. 109–415, § 203(e)(4)][/us/pl/109/415/s203/e/4], substituted “paragraph (5)” for “paragraph (6)” and “paragraphs (2) and (3)” for “paragraphs (3) and (4)”.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(4), substituted “paragraph (5)” for “paragraph (6)” and “paragraphs (2) and (3)” for “paragraphs (3) and (4)”.
 
-    [Pub. L. 109–415, § 203(e)(1)][/us/pl/109/415/s203/e/1], redesignated par. (5) as (4). Former par. (4) redesignated (3).
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(1), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-    Subsec. (b)(5). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
+    Subsec. (b)(5). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
 
-    [Pub. L. 109–415, § 203(e)(5)][/us/pl/109/415/s203/e/5], substituted “paragraphs (2) and (3), may, notwithstanding paragraphs (2) through (4),” for “paragraphs (3) and (4), may, notwithstanding paragraphs (3), (4), and (5),”.
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(5), substituted “paragraphs (2) and (3), may, notwithstanding paragraphs (2) through (4),” for “paragraphs (3) and (4), may, notwithstanding paragraphs (3), (4), and (5),”.
 
-    [Pub. L. 109–415, § 203(e)(1)][/us/pl/109/415/s203/e/1], redesignated par. (6) as (5). Former par. (5) redesignated (4).
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(1), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-    Subsec. (b)(6). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
+    Subsec. (b)(6). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
 
-    [Pub. L. 109–415, § 203(e)(1)][/us/pl/109/415/s203/e/1], redesignated par. (7) as (6). Former par. (6) redesignated (5).
+    [Pub. L. 109–415][/us/pl/109/415], § 203(e)(1), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-    Subsec. (b)(7). [Pub. L. 109–415, § 203(e)(1)][/us/pl/109/415/s203/e/1], redesignated par. (7) as (6).
+    Subsec. (b)(7). [Pub. L. 109–415][/us/pl/109/415], § 203(e)(1), redesignated par. (7) as (6).
 
-    Subsec. (c)(1). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 109–415, § 203(f)][/us/pl/109/415/s203/f], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) of this section shall be repaid to the Secretary and reallotted to other States in proportion to the original grants made to such States.”
+    Subsec. (d). [Pub. L. 109–415][/us/pl/109/415], § 203(f), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) of this section shall be repaid to the Secretary and reallotted to other States in proportion to the original grants made to such States.”
 
-    2000—Subsec. (a). [Pub. L. 106–345, § 206(a)(1)][/us/pl/106/345/s206/a/1], redesignated subsec. (b) as (a).
+    2000—Subsec. (a). [Pub. L. 106–345][/us/pl/106/345], § 206(a)(1), redesignated subsec. (b) as (a).
 
-    Subsec. (a)(1)(A)(i). [Pub. L. 106–345, § 206(a)(2)][/us/pl/106/345/s206/a/2], substituted “$200,000” for “$100,000” in subcl. (I) and “$500,000” for “$250,000” in subcl. (II).
+    Subsec. (a)(1)(A)(i). [Pub. L. 106–345][/us/pl/106/345], § 206(a)(2), substituted “$200,000” for “$100,000” in subcl. (I) and “$500,000” for “$250,000” in subcl. (II).
 
-    Subsec. (a)(1)(A)(ii). [Pub. L. 106–345, § 206(c)(1)][/us/pl/106/345/s206/c/1], inserted “and then, as applicable, increased under paragraph (2)(H)” before semicolon.
+    Subsec. (a)(1)(A)(ii). [Pub. L. 106–345][/us/pl/106/345], § 206(c)(1), inserted “and then, as applicable, increased under paragraph (2)(H)” before semicolon.
 
-    Subsec. (a)(1)(B). [Pub. L. 106–345, § 206(d)][/us/pl/106/345/s206/d], inserted “the greater of $50,000 or” after “shall be”.
+    Subsec. (a)(1)(B). [Pub. L. 106–345][/us/pl/106/345], § 206(d), inserted “the greater of $50,000 or” after “shall be”.
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 106–345, § 206(c)(2)(A)][/us/pl/106/345/s206/c/2/A], substituted “subparagraphs (H) and (I)” for “subparagraph (H)”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 106–345][/us/pl/106/345], § 206(c)(2)(A), substituted “subparagraphs (H) and (I)” for “subparagraph (H)”.
 
-    Subsec. (a)(2)(D)(i). [Pub. L. 106–345, § 206(b)(1)][/us/pl/106/345/s206/b/1], inserted before semicolon “, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or [section 300ff–30 of this title][/us/usc/t42/s300ff–30] for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
+    Subsec. (a)(2)(D)(i). [Pub. L. 106–345][/us/pl/106/345], § 206(b)(1), inserted before semicolon “, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or [section 300ff–30 of this title][/us/usc/t42/s300ff–30] for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
 
-    Subsec. (a)(2)(E) to (G). [Pub. L. 106–345, § 206(b)(2)][/us/pl/106/345/s206/b/2], (3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. Former subpar. (G) redesignated (H).
+    Subsec. (a)(2)(E) to (G). [Pub. L. 106–345][/us/pl/106/345], § 206(b)(2), (3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. Former subpar. (G) redesignated (H).
 
-    Subsec. (a)(2)(H). [Pub. L. 106–345, § 206(c)(2)(B)][/us/pl/106/345/s206/c/2/B], amended heading and text of subpar. (H) generally. Prior to amendment, text related to limitations on the amount of a grant awarded for fiscal years 1996 to 2000 to a State or territory under this part in relation to the amount received by the State or territory for fiscal year 1995.
+    Subsec. (a)(2)(H). [Pub. L. 106–345][/us/pl/106/345], § 206(c)(2)(B), amended heading and text of subpar. (H) generally. Prior to amendment, text related to limitations on the amount of a grant awarded for fiscal years 1996 to 2000 to a State or territory under this part in relation to the amount received by the State or territory for fiscal year 1995.
 
-    [Pub. L. 106–345, § 206(b)(2)][/us/pl/106/345/s206/b/2], redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+    [Pub. L. 106–345][/us/pl/106/345], § 206(b)(2), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
 
-    Subsec. (a)(2)(I). [Pub. L. 106–345, § 206(e)][/us/pl/106/345/s206/e], reenacted heading without change, designated existing provisions as cl. (i), inserted cl. (i) heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in subcl. (I) inserted “, less the percentage reserved under clause (ii)(V)” before semicolon, and added cl. (ii).
+    Subsec. (a)(2)(I). [Pub. L. 106–345][/us/pl/106/345], § 206(e), reenacted heading without change, designated existing provisions as cl. (i), inserted cl. (i) heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in subcl. (I) inserted “, less the percentage reserved under clause (ii)(V)” before semicolon, and added cl. (ii).
 
-    [Pub. L. 106–345, § 206(b)(2)][/us/pl/106/345/s206/b/2], redesignated subpar. (H) as (I).
+    [Pub. L. 106–345][/us/pl/106/345], § 206(b)(2), redesignated subpar. (H) as (I).
 
-    Subsec. (a)(3)(B). [Pub. L. 106–345, § 206(f)][/us/pl/106/345/s206/f], substituted “the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and only for purposes of paragraph (1) the Commonwealth of Puerto Rico” for “and the Republic of the Marshall Islands”.
+    Subsec. (a)(3)(B). [Pub. L. 106–345][/us/pl/106/345], § 206(f), substituted “the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and only for purposes of paragraph (1) the Commonwealth of Puerto Rico” for “and the Republic of the Marshall Islands”.
 
-    Subsecs. (b) to (e). [Pub. L. 106–345, § 206(a)(1)][/us/pl/106/345/s206/a/1], redesignated subsecs. (c) to (e) as (b) to (d), respectively.
+    Subsecs. (b) to (e). [Pub. L. 106–345][/us/pl/106/345], § 206(a)(1), redesignated subsecs. (c) to (e) as (b) to (d), respectively.
 
-    1998—Subsec. (b)(3)(A). [Pub. L. 105–392, § 417(1)][/us/pl/105/392/s417/1], substituted “, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam” for “and the Commonwealth of Puerto Rico”.
+    1998—Subsec. (b)(3)(A). [Pub. L. 105–392][/us/pl/105/392], § 417(1), substituted “, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam” for “and the Commonwealth of Puerto Rico”.
 
-    Subsec. (b)(3)(B). [Pub. L. 105–392, § 417(2)][/us/pl/105/392/s417/2], struck out “the Virgin Islands, Guam” after “means”.
+    Subsec. (b)(3)(B). [Pub. L. 105–392][/us/pl/105/392], § 417(2), struck out “the Virgin Islands, Guam” after “means”.
 
-    1996—Subsec. (a). [Pub. L. 104–146, § 3(g)(2)][/us/pl/104/146/s3/g/2], struck out subsec. (a) which related to special projects of national significance.
+    1996—Subsec. (a). [Pub. L. 104–146][/us/pl/104/146], § 3(g)(2), struck out subsec. (a) which related to special projects of national significance.
 
-    Subsec. (a)(1). [Pub. L. 104–146, § 6(c)(3)(A)][/us/pl/104/146/s6/c/3/A], which directed amendment of subsec. (a)(1) by substituting “section 300ff–77” for “section 300ff–30”, could not be executed because of the repeal of subsec. (a) by [Pub. L. 104–146, § 3(g)(2)][/us/pl/104/146/s3/g/2]. See above.
+    Subsec. (a)(1). [Pub. L. 104–146][/us/pl/104/146], § 6(c)(3)(A), which directed amendment of subsec. (a)(1) by substituting “section 300ff–77” for “section 300ff–30”, could not be executed because of the repeal of subsec. (a) by [Pub. L. 104–146][/us/pl/104/146], § 3(g)(2). See above.
 
-    Subsec. (b)(1). [Pub. L. 104–146, § 6(c)(3)(B)][/us/pl/104/146/s6/c/3/B], which directed amendment of subsec. (b)(1) by substituting “[section 300ff–77 of this title][/us/usc/t42/s300ff–77]” for “[section 300ff–30 of this title][/us/usc/t42/s300ff–30]”, could not be executed because the words “[section 300ff–30 of this title][/us/usc/t42/s300ff–30]” did not appear subsequent to the general amendment of subsec. (b)(1) by [Pub. L. 104–146, § 5][/us/pl/104/146/s5]. See below.
+    Subsec. (b)(1). [Pub. L. 104–146][/us/pl/104/146], § 6(c)(3)(B), which directed amendment of subsec. (b)(1) by substituting “[section 300ff–77 of this title][/us/usc/t42/s300ff–77]” for “[section 300ff–30 of this title][/us/usc/t42/s300ff–30]”, could not be executed because the words “[section 300ff–30 of this title][/us/usc/t42/s300ff–30]” did not appear subsequent to the general amendment of subsec. (b)(1) by [Pub. L. 104–146][/us/pl/104/146], § 5. See below.
 
-    [Pub. L. 104–146, § 5][/us/pl/104/146/s5], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Subject to the extent of amounts made available under [section 300ff–30 of this title][/us/usc/t42/s300ff–30], the amount of a grant to be made under this part for—
+    [Pub. L. 104–146][/us/pl/104/146], § 5, amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Subject to the extent of amounts made available under [section 300ff–30 of this title][/us/usc/t42/s300ff–30], the amount of a grant to be made under this part for—
 
     “(A) each of the several States and the District of Columbia for a fiscal year shall be the greater of—
 
@@ -503,17 +503,17 @@
 
     “(B) each territory of the United States, as defined in paragraph 3, shall be an amount determined under paragraph (2).”
 
-    Subsec. (b)(2). [Pub. L. 104–146, § 5][/us/pl/104/146/s5], amended par. (2) generally, substituting subpars. (A) to (H) for former subpars. (A) and (B) relating to determination of amount of allotments.
+    Subsec. (b)(2). [Pub. L. 104–146][/us/pl/104/146], § 5, amended par. (2) generally, substituting subpars. (A) to (H) for former subpars. (A) and (B) relating to determination of amount of allotments.
 
-    Subsec. (c)(1). [Pub. L. 104–146, § 3(c)(5)(A)][/us/pl/104/146/s3/c/5/A], struck out heading and text of par. (1). Text read as follows: “In a State that has reported 1 percent or more of all AIDS cases reported to and confirmed by the Centers for Disease Control and Prevention in all States, not less than 50 percent of the amount received by the State under a grant awarded under this part shall be utilized for the creation and operation of community-based comprehensive care consortia under [section 300ff–23 of this title][/us/usc/t42/s300ff–23], in those areas within the State in which the largest number of individuals with HIV disease reside.”
+    Subsec. (c)(1). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(5)(A), struck out heading and text of par. (1). Text read as follows: “In a State that has reported 1 percent or more of all AIDS cases reported to and confirmed by the Centers for Disease Control and Prevention in all States, not less than 50 percent of the amount received by the State under a grant awarded under this part shall be utilized for the creation and operation of community-based comprehensive care consortia under [section 300ff–23 of this title][/us/usc/t42/s300ff–23], in those areas within the State in which the largest number of individuals with HIV disease reside.”
 
-    Subsec. (c)(3), (4). [Pub. L. 104–146, § 3(c)(5)(B)][/us/pl/104/146/s3/c/5/B], amended pars. (3) and (4) generally. Prior to amendment, pars. (3) and (4) read as follows:
+    Subsec. (c)(3), (4). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(5)(B), amended pars. (3) and (4) generally. Prior to amendment, pars. (3) and (4) read as follows:
 
     “(3) Planning and evaluations.—A State may not use in excess of 5 percent of amounts received under a grant awarded under this part for planning and evaluation activities.
 
     “(4) Administration.—A State may not use in excess of 5 percent of amounts received under a grant awarded under this part for administration, accounting, reporting, and program oversight functions.”
 
-    Subsec. (c)(5) to (7). [Pub. L. 104–146, § 3(c)(5)(C)][/us/pl/104/146/s3/c/5/C], (D), added pars. (5) and (6) and redesignated former par. (5) as (7).
+    Subsec. (c)(5) to (7). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(5)(C), (D), added pars. (5) and (6) and redesignated former par. (5) as (7).
 
     1992—Subsec. (c)(1). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
@@ -548,7 +548,7 @@
 [/us/usc/t42/s300ff–27/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9327%2Fd
 [/us/usc/t42/s300ff–26/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9326%2Fa
 [/us/usc/t42/s300ff–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9326
-[/us/pl/109/415/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F2
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2792
 [/us/usc/t42/s300ff–31b/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9331b%2Fb%2F2
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
@@ -564,130 +564,130 @@
 [/us/usc/t42/s300ff–29a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9329a
 [/us/usc/t42/s300ff–31b/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9331b%2Fb%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs201
+[/us/pl/101/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtII
 [/us/stat/104/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F595
-[/us/pl/102/531/s312/d/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F30
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
 [/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1355
-[/us/pl/105/392/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs417
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3591
-[/us/pl/106/345/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206
+[/us/pl/106/345/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtII
 [/us/stat/114/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1334
-[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2789
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fc%2F1
-[/us/pl/111/87/s3/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F1%2FA%2Fi
-[/us/pl/111/87/s3/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F1%2FA%2Fii
-[/us/pl/111/87/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F1%2FB
-[/us/pl/111/87/s3/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F1%2FC
-[/us/pl/111/87/s3/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F1%2FD
-[/us/pl/111/87/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs7%2Fb
-[/us/pl/111/87/s3/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F1%2FE
-[/us/pl/111/87/s3/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F1%2FF
-[/us/pl/111/87/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs3%2Fb%2F2
-[/us/pl/111/87/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs10%2Fb
-[/us/pl/111/87/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fb%2F1
-[/us/pl/111/87/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fb%2F3
-[/us/pl/111/87/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fb%2F2
-[/us/pl/111/87/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fb%2F4
-[/us/pl/111/87/s5/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fb%2F5
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s203/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fg%2F1
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–31b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9331b
 [/us/usc/t42/s300ff–77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9377
-[/us/pl/109/415/s203/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fg%2F2%2FA
-[/us/pl/109/415/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F1
-[/us/pl/109/415/s203/g/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fg%2F2%2FB%2Fi
-[/us/pl/109/415/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F1
-[/us/pl/109/415/s203/g/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fg%2F2%2FB%2Fii
-[/us/pl/109/415/s203/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fg%2F3
-[/us/pl/109/415/s203/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F1%2FA
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9377
-[/us/pl/109/415/s203/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F1%2FB%2Fi
-[/us/pl/109/415/s203/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F1%2FB%2Fii
-[/us/pl/109/415/s203/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F1%2FB%2Fiii
-[/us/pl/109/415/s203/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fa%2F1%2FA
-[/us/pl/109/415/s203/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fg%2F4
-[/us/pl/109/415/s203/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fa%2F2%2FA
-[/us/pl/109/415/s203/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fa%2F2%2FB
-[/us/pl/109/415/s203/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fa%2F1%2FB
-[/us/pl/109/415/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F3
-[/us/pl/109/415/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F2
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–13/a/3/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9313%2Fa%2F3%2FD%2Fi
-[/us/pl/109/415/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F4
-[/us/pl/109/415/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F2
-[/us/pl/109/415/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fc%2F1
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–31b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9331b
 [/us/usc/t42/s300ff–77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9377
-[/us/pl/109/415/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fc%2F2
-[/us/pl/109/415/s203/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fc%2F3
-[/us/pl/109/415/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F2
-[/us/pl/109/415/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fd
-[/us/pl/109/415/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F2
-[/us/pl/109/415/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fb%2F4
-[/us/pl/109/415/s203/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fg%2F5
-[/us/pl/109/415/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F1
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s203/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F2
-[/us/pl/109/415/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F1
-[/us/pl/109/415/s203/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F3
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9323
-[/us/pl/109/415/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F1
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s203/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F4
-[/us/pl/109/415/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F1
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s203/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F5
-[/us/pl/109/415/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F1
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F1
-[/us/pl/109/415/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Fe%2F1
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs203%2Ff
-[/us/pl/106/345/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fa%2F1
-[/us/pl/106/345/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fa%2F2
-[/us/pl/106/345/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fc%2F1
-[/us/pl/106/345/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fd
-[/us/pl/106/345/s206/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fc%2F2%2FA
-[/us/pl/106/345/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fb%2F1
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/usc/t42/s300ff–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9330
-[/us/pl/106/345/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fb%2F2
-[/us/pl/106/345/s206/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fc%2F2%2FB
-[/us/pl/106/345/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fb%2F2
-[/us/pl/106/345/s206/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fe
-[/us/pl/106/345/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fb%2F2
-[/us/pl/106/345/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Ff
-[/us/pl/106/345/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs206%2Fa%2F1
-[/us/pl/105/392/s417/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs417%2F1
-[/us/pl/105/392/s417/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs417%2F2
-[/us/pl/104/146/s3/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fg%2F2
-[/us/pl/104/146/s6/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs6%2Fc%2F3%2FA
-[/us/pl/104/146/s3/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fg%2F2
-[/us/pl/104/146/s6/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs6%2Fc%2F3%2FB
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/usc/t42/s300ff–77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9377
 [/us/usc/t42/s300ff–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9330
 [/us/usc/t42/s300ff–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9330
-[/us/pl/104/146/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs5
-[/us/pl/104/146/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs5
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/usc/t42/s300ff–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9330
-[/us/pl/104/146/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs5
-[/us/pl/104/146/s3/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F5%2FA
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/usc/t42/s300ff–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9323
-[/us/pl/104/146/s3/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F5%2FB
-[/us/pl/104/146/s3/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F5%2FC
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703

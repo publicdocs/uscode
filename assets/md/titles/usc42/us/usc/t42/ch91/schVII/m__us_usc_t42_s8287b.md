@@ -21,11 +21,11 @@
 
     (2) achieving energy savings under contracts entered into under this subchapter.
 
-([Pub. L. 95–619, title VIII, § 803][/us/pl/95/619/s803], as added [Pub. L. 99–272, title VII, § 7201(a)][/us/pl/99/272/s7201/a], Apr. 7, 1986, [100 Stat. 142][/us/stat/100/142].)
+([Pub. L. 95–619, title VIII][/us/pl/95/619/tVIII], § 803, as added [Pub. L. 99–272, title VII][/us/pl/99/272/tVII], § 7201(a), Apr. 7, 1986, [100 Stat. 142][/us/stat/100/142].)
 
  __References in Text__ 
 
-    [Section 8260 of this title][/us/usc/t42/s8260], referred to in text, was omitted in the general revision of part B (§ 8251 et seq.) of subchapter III of this chapter by [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185].
+    [Section 8260 of this title][/us/usc/t42/s8260], referred to in text, was omitted in the general revision of part B (§ 8251 et seq.) of subchapter III of this chapter by [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185].
 
 ----------
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/95/619/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs803
-[/us/pl/99/272/s7201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs7201%2Fa
+[/us/pl/95/619/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVIII
+[/us/pl/99/272/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVII
 [/us/stat/100/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F142
 [/us/usc/t42/s8260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8260
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3185
 
 

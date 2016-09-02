@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title I, § 3, [54 Stat. 1126][/us/stat/54/1126]; [Apr. 29, 1941, ch. 80, § 2][/us/act/1941-04-29/ch80/s2], [55 Stat. 147][/us/stat/55/147]; [June 28, 1941, ch. 260, § 2][/us/act/1941-06-28/ch260/s2], [55 Stat. 361][/us/stat/55/361]; [Jan. 21, 1942, ch. 14, § 3][/us/act/1942-01-21/ch14/s3], [56 Stat. 12][/us/stat/56/12]; Ex. Ord. No. 9070, § 1, eff. Feb 24, 1942, 7 F.R. 1529; [Oct. 1, 1942, ch. 572][/us/act/1942-10-01/ch572], [56 Stat. 763][/us/stat/56/763]; [July 7, 1943, ch. 196][/us/act/1943-07-07/ch196], §§ 1, 2, [57 Stat. 387][/us/stat/57/387]; [July 1, 1944, ch. 374][/us/act/1944-07-01/ch374], [58 Stat. 720][/us/stat/58/720]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73], which related to authorization of appropriations for the purpose of this subchapter, was omitted in view of the omission of [section 1521 of this title][/us/usc/t42/s1521].
+    Section, acts [Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title I, § 3, [54 Stat. 1126][/us/stat/54/1126]; [Apr. 29, 1941, ch. 80][/us/act/1941-04-29/ch80], § 2, [55 Stat. 147][/us/stat/55/147]; [June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 2, [55 Stat. 361][/us/stat/55/361]; [Jan. 21, 1942, ch. 14][/us/act/1942-01-21/ch14], § 3, [56 Stat. 12][/us/stat/56/12]; Ex. Ord. No. 9070, § 1, eff. Feb 24, 1942, 7 F.R. 1529; [Oct. 1, 1942, ch. 572][/us/act/1942-10-01/ch572], [56 Stat. 763][/us/stat/56/763]; [July 7, 1943, ch. 196][/us/act/1943-07-07/ch196], §§ 1, 2, [57 Stat. 387][/us/stat/57/387]; [July 1, 1944, ch. 374][/us/act/1944-07-01/ch374], [58 Stat. 720][/us/stat/58/720]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73], which related to authorization of appropriations for the purpose of this subchapter, was omitted in view of the omission of [section 1521 of this title][/us/usc/t42/s1521].
 
  __Prior Additional Appropriations__ 
 
@@ -50,11 +50,11 @@
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1126
-[/us/act/1941-04-29/ch80/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-29%2Fch80%2Fs2
+[/us/act/1941-04-29/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-04-29%2Fch80
 [/us/stat/55/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F147
-[/us/act/1941-06-28/ch260/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs2
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F361
-[/us/act/1942-01-21/ch14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14%2Fs3
+[/us/act/1942-01-21/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14
 [/us/stat/56/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F12
 [/us/act/1942-10-01/ch572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-01%2Fch572
 [/us/stat/56/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F763

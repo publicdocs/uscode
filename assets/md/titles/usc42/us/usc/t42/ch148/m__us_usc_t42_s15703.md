@@ -167,7 +167,7 @@
 
             The Committee shall develop a coordinated budget for the Program, which shall be submitted to the Congress not later than 60 days after the date of the President’s budget submission for each fiscal year.
 
-([Pub. L. 108–360, title II, § 204][/us/pl/108/360/s204], Oct. 25, 2004, [118 Stat. 1676][/us/stat/118/1676]; [Pub. L. 114–52, § 3][/us/pl/114/52/s3], Sept. 30, 2015, [129 Stat. 496][/us/stat/129/496].)
+([Pub. L. 108–360, title II][/us/pl/108/360/tII], § 204, Oct. 25, 2004, [118 Stat. 1676][/us/stat/118/1676]; [Pub. L. 114–52][/us/pl/114/52], § 3, Sept. 30, 2015, [129 Stat. 496][/us/stat/129/496].)
 
  __References in Text__ 
 
@@ -177,13 +177,13 @@
 
  __Amendments__ 
 
-    2015—Subsecs. (a), (b). [Pub. L. 114–52, § 3(1)][/us/pl/114/52/s3/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment and objective of the National Windstorm Impact Reduction Program.
+    2015—Subsecs. (a), (b). [Pub. L. 114–52][/us/pl/114/52], § 3(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment and objective of the National Windstorm Impact Reduction Program.
 
-    Subsec. (c). [Pub. L. 114–52, § 3(1)][/us/pl/114/52/s3/1], (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which established an Interagency Working Group.
+    Subsec. (c). [Pub. L. 114–52][/us/pl/114/52], § 3(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which established an Interagency Working Group.
 
-    Subsecs. (d), (e). [Pub. L. 114–52, § 3(2)][/us/pl/114/52/s3/2], (3), added subsecs. (d) and (e), redesignated former subsec. (d) as (c), and struck out former subsec. (e) which required an implementation plan from the Interagency Working Group.
+    Subsecs. (d), (e). [Pub. L. 114–52][/us/pl/114/52], § 3(2), (3), added subsecs. (d) and (e), redesignated former subsec. (d) as (c), and struck out former subsec. (e) which required an implementation plan from the Interagency Working Group.
 
-    Subsec. (f). [Pub. L. 114–52, § 3(2)][/us/pl/114/52/s3/2], struck out subsec. (f) which required biennial reports on the status of the windstorm impact reduction program.
+    Subsec. (f). [Pub. L. 114–52][/us/pl/114/52], § 3(2), struck out subsec. (f) which required biennial reports on the status of the windstorm impact reduction program.
 
  __Transfer of Functions__ 
 
@@ -196,17 +196,17 @@
 ----------
 ----------
 
-[/us/pl/108/360/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs204
+[/us/pl/108/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtII
 [/us/stat/118/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1676
-[/us/pl/114/52/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs3
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
 [/us/stat/129/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F496
 [/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675
 [/us/usc/t42/s15701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15701
-[/us/pl/114/52/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs3%2F1
-[/us/pl/114/52/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs3%2F1
-[/us/pl/114/52/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs3%2F2
-[/us/pl/114/52/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs3%2F2
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 
 

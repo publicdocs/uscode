@@ -17,7 +17,7 @@
 
     The right to repeal, alter, or amend this subchapter at any time is expressly reserved.
 
-([Pub. L. 88–452, title X, § 1013][/us/pl/88/452/s1013], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 388][/us/stat/88/388].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1013, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 388][/us/stat/88/388].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/88/452/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1013
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F388
 
 

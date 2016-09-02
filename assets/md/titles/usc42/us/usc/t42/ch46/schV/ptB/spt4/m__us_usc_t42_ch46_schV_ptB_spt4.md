@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 109–248, title VI, § 626][/us/pl/109/248/s626], July 27, 2006, [120 Stat. 636][/us/stat/120/636], which directed amendment of “subpart 2 of part E of title I of the Omnibus Crime Control and Safe Street Act of 1968” by adding chapter 4 at end, was treated as meaning chapter D, which was changed to subpart 4 for purposes of codification, to reflect the probable intent of Congress.
+    [Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 626, July 27, 2006, [120 Stat. 636][/us/stat/120/636], which directed amendment of “subpart 2 of part E of title I of the Omnibus Crime Control and Safe Street Act of 1968” by adding chapter 4 at end, was treated as meaning chapter D, which was changed to subpart 4 for purposes of codification, to reflect the probable intent of Congress.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs626
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F636
 
 

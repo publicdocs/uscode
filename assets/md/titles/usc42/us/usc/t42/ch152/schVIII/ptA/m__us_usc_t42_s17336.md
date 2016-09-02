@@ -161,7 +161,7 @@
 
         There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2020.
 
-([Pub. L. 110–140, title IX, § 916][/us/pl/110/140/s916], Dec. 19, 2007, [121 Stat. 1728][/us/stat/121/1728].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 916, Dec. 19, 2007, [121 Stat. 1728][/us/stat/121/1728].)
 
 ----------
 
@@ -170,7 +170,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs916
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1728
 
 

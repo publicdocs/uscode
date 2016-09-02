@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch7/schII/m__us_usc_t42_s418.md) | [Next](./../../../../..//us/usc/t42/ch7/schII/m__us_usc_t42_s420.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs419)
 
-## § 419. Repealed. [Pub. L. 86–778, title I, § 103(j)(1)][/us/pl/86/778/s103/j/1], Sept. 13, 1960, [74 Stat. 937][/us/stat/74/937]
+## § 419. Repealed. [Pub. L. 86–778, title I][/us/pl/86/778/tI], § 103(j)(1), Sept. 13, 1960, [74 Stat. 937][/us/stat/74/937]
 
-    Section, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 219, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 107, [64 Stat. 517][/us/stat/64/517], prescribed the effective date of this subchapter in Puerto Rico as January 1 of the first calendar year which begins more than 90 days after the date on which the President received a certification from the Governor of Puerto Rico.
+    Section, [act Aug. 14, 1935, ch. 531, title II][/us/act/1935-08-14/ch531/tII], § 219, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 107, [64 Stat. 517][/us/stat/64/517], prescribed the effective date of this subchapter in Puerto Rico as January 1 of the first calendar year which begins more than 90 days after the date on which the President received a certification from the Governor of Puerto Rico.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/86/778/s103/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs103%2Fj%2F1
+[/us/pl/86/778/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtI
 [/us/stat/74/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F937
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtII
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F517
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778

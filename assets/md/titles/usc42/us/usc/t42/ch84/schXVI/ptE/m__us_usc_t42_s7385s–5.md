@@ -35,7 +35,7 @@
 
         (4) The term “section 5 mine or mill” means the mine or mill to which an individual’s status as a section 5 uranium worker relates.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3676\], as added [Pub. L. 108–375, div. C, title XXXI, § 3161][/us/pl/108/375/s3161], Oct. 28, 2004, [118 Stat. 2182][/us/stat/118/2182].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3676\], as added [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3161, Oct. 28, 2004, [118 Stat. 2182][/us/stat/118/2182].)
 
  __References in Text__ 
 
@@ -51,8 +51,8 @@
 [/us/usc/t42/s7385s–4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%934%2Fc
 [/us/usc/t42/s7385s–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%934
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/375/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3161
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2182
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/stat/104/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F920

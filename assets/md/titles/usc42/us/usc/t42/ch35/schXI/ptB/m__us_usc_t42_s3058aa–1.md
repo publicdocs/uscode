@@ -57,7 +57,7 @@
 
             Funds made available to States pursuant to this section shall be used to supplement and not supplant other Federal, State, and local funds expended to support activities described in paragraph (1).
 
-([Pub. L. 89–73, title VII, § 752][/us/pl/89/73/s752], as added [Pub. L. 109–365, title VII, § 704(2)][/us/pl/109/365/s704/2], Oct. 17, 2006, [120 Stat. 2593][/us/stat/120/2593].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 752, as added [Pub. L. 109–365, title VII][/us/pl/109/365/tVII], § 704(2), Oct. 17, 2006, [120 Stat. 2593][/us/stat/120/2593].)
 
 ----------
 
@@ -66,8 +66,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs752
-[/us/pl/109/365/s704/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs704%2F2
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/109/365/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtVII
 [/us/stat/120/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2593
 
 

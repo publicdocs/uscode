@@ -71,7 +71,7 @@
 
             (B) a person who has one of the 5 largest direct or indirect ownership or control interests in the provider.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1124A, as added [Pub. L. 101–508, title IV, § 4164(b)(1)][/us/pl/101/508/s4164/b/1], Nov. 5, 1990, [104 Stat. 1388–101][/us/stat/104/1388-101]; amended [Pub. L. 103–432, title I, § 147(f)(7)(A)(i)][/us/pl/103/432/s147/f/7/A/i], Oct. 31, 1994, [108 Stat. 4432][/us/stat/108/4432]; [Pub. L. 105–33, title IV, § 4313(b)][/us/pl/105/33/s4313/b], (c), Aug. 5, 1997, [111 Stat. 388][/us/stat/111/388].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1124A, as added [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4164(b)(1), Nov. 5, 1990, [104 Stat. 1388–101][/us/stat/104/1388-101]; amended [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 147(f)(7)(A)(i), Oct. 31, 1994, [108 Stat. 4432][/us/stat/108/4432]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4313(b), (c), Aug. 5, 1997, [111 Stat. 388][/us/stat/111/388].)
 
  __References in Text__ 
 
@@ -81,13 +81,13 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a)(3). [Pub. L. 105–33, § 4313(b)(1)][/us/pl/105/33/s4313/b/1], added par. (3).
+    1997—Subsec. (a)(3). [Pub. L. 105–33][/us/pl/105/33], § 4313(b)(1), added par. (3).
 
-    Subsec. (c). [Pub. L. 105–33, § 4313(c)(2)][/us/pl/105/33/s4313/c/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 4313(c)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(1). [Pub. L. 105–33, § 4313(b)(2)][/us/pl/105/33/s4313/b/2], inserted “(or, for purposes of subsection (a)(3) of this section, any entity receiving payment)” after “on an assignment-related basis”.
+    Subsec. (c)(1). [Pub. L. 105–33][/us/pl/105/33], § 4313(b)(2), inserted “(or, for purposes of subsection (a)(3) of this section, any entity receiving payment)” after “on an assignment-related basis”.
 
-    Subsec. (d). [Pub. L. 105–33, § 4313(c)(1)][/us/pl/105/33/s4313/c/1], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 105–33][/us/pl/105/33], § 4313(c)(1), redesignated subsec. (c) as (d).
 
     1994—Subsec. (a)(2)(A). [Pub. L. 103–432][/us/pl/103/432] made technical amendment to reference to subchapter XVIII of this chapter to correct reference to corresponding provision of original act.
 
@@ -97,13 +97,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–432, title I, § 147(g)][/us/pl/103/432/s147/g], Oct. 31, 1994, [108 Stat. 4432][/us/stat/108/4432], provided that: 
+[Pub. L. 103–432, title I][/us/pl/103/432/tI], § 147(g), Oct. 31, 1994, [108 Stat. 4432][/us/stat/108/4432], provided that: 
 
 > “Except as otherwise provided in this section \[amending this section and sections 1320b–5, 1395l, 1395p, 1395q, 1395x, 1395y, and 1395cc of this title, enacting provisions set out as notes under sections 1395l, 1395p, and 1395y of this title, amending provisions set out as notes under this section and sections 254b, 1395l, and 1395u of this title, and repealing provisions set out as a note under section 1395l of this title\], the amendments made by this section shall take effect as if included in the enactment of OBRA–1990 \[Pub L. 101–508\].”
 
  __Effective Date__ 
 
-[Pub. L. 101–508, title IV, § 4164(b)(4)][/us/pl/101/508/s4164/b/4], Nov. 5, 1990, [104 Stat. 1388–102][/us/stat/104/1388-102], as amended by [Pub. L. 103–432, title I, § 147(f)(7)(A)(ii)][/us/pl/103/432/s147/f/7/A/ii], Oct. 31, 1994, [108 Stat. 4432][/us/stat/108/4432], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4164(b)(4), Nov. 5, 1990, [104 Stat. 1388–102][/us/stat/104/1388-102], as amended by [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 147(f)(7)(A)(ii), Oct. 31, 1994, [108 Stat. 4432][/us/stat/108/4432], provided that: 
 
 > “The amendments made by paragraphs (1), (2), and (3) \[enacting this section and amending sections 1320a–7 and 1320a–7b of this title\] shall apply with respect to items or services furnished on or after—
 
@@ -128,28 +128,28 @@
 [/us/usc/t42/s1320a–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%935%2Fb
 [/us/usc/t42/s1320a–3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933%2Fa%2F3
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/508/s4164/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4164%2Fb%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-101
-[/us/pl/103/432/s147/f/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs147%2Ff%2F7%2FA%2Fi
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4432
-[/us/pl/105/33/s4313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fb
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F388
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933
-[/us/pl/105/33/s4313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fb%2F1
-[/us/pl/105/33/s4313/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fc%2F2
-[/us/pl/105/33/s4313/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fb%2F2
-[/us/pl/105/33/s4313/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fc%2F1
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/105/33/s4313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fb
 [/us/pl/105/33/s4313/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fd
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933
 [/us/pl/105/33/s4313/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fe
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933
-[/us/pl/103/432/s147/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs147%2Fg
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4432
-[/us/pl/101/508/s4164/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4164%2Fb%2F4
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-102
-[/us/pl/103/432/s147/f/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs147%2Ff%2F7%2FA%2Fii
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4432
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33

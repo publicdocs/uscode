@@ -25,7 +25,7 @@
 
         The term “Secretary” means the Secretary of Energy or a designated representative of the Secretary.
 
-([Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IV, § 404\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–268.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title IV, § 404\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–268.)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 

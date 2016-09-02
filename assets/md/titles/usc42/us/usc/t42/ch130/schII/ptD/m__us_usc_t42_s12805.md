@@ -43,11 +43,11 @@
 
         The guidelines for the model program shall generally comport with the additional protections and restrictions specified under [section 1490c of this title][/us/usc/t42/s1490c].
 
-([Pub. L. 101–625, title II, § 255][/us/pl/101/625/s255], Nov. 28, 1990, [104 Stat. 4121][/us/stat/104/4121].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 255, Nov. 28, 1990, [104 Stat. 4121][/us/stat/104/4121].)
 
  __Assistance for Self-Help Housing Providers__ 
 
-[Pub. L. 104–120, § 11][/us/pl/104/120/s11], Mar. 28, 1996, [110 Stat. 841][/us/stat/110/841], as amended by [Pub. L. 105–276, title V, § 599E(a)][/us/pl/105/276/s599E/a], Oct. 21, 1998, [112 Stat. 2663][/us/stat/112/2663]; [Pub. L. 106–569, title II, § 202][/us/pl/106/569/s202], Dec. 27, 2000, [114 Stat. 2951][/us/stat/114/2951]; [Pub. L. 108–285, § 2][/us/pl/108/285/s2], Aug. 2, 2004, [118 Stat. 917][/us/stat/118/917], provided that:
+[Pub. L. 104–120][/us/pl/104/120], § 11, Mar. 28, 1996, [110 Stat. 841][/us/stat/110/841], as amended by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599E(a), Oct. 21, 1998, [112 Stat. 2663][/us/stat/112/2663]; [Pub. L. 106–569, title II][/us/pl/106/569/tII], § 202, Dec. 27, 2000, [114 Stat. 2951][/us/stat/114/2951]; [Pub. L. 108–285][/us/pl/108/285], § 2, Aug. 2, 2004, [118 Stat. 917][/us/stat/118/917], provided that:
 
 >     “(a)  __Grant Authority__  __.—__ 
 
@@ -121,7 +121,7 @@
 
 >         “(3) a grant agreement entered into under subsection (i).
 
->     “\[(g) Repealed. [Pub. L. 105–276, title V, § 599E(a)(6)][/us/pl/105/276/s599E/a/6], Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664].\]
+>     “\[(g) Repealed. [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599E(a)(6), Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664].\]
 
 >     “(h)  __Geographical Diversity__  __.—__ 
 
@@ -191,13 +191,13 @@
 
 >     The Secretary shall issue any final regulations necessary to carry out this section not later than 30 days after the date of the enactment of this Act \[Mar. 28, 1996\]. The regulations shall take effect upon issuance and may not exceed, in length, 5 full pages in the Federal Register.”
 
-\[[Pub. L. 105–276, title V, § 599E(b)][/us/pl/105/276/s599E/b], Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664], provided that: 
+\[[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599E(b), Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664], provided that: 
 
 > “Notwithstanding the amendments made by subsection (a) \[amending [section 11 of Pub. L. 104–120][/us/pl/104/120/s11], set out above\], any grant under section 11 of the Housing Opportunity Program Extension Act of 1996 \[[Pub. L. 104–120][/us/pl/104/120]\] ([42 U.S.C. 12805][/us/usc/t42/s12805] note) from amounts appropriated in fiscal year 1998 or any prior fiscal year shall be governed by the provisions of such section 11 as in effect immediately before the enactment of this Act \[Oct. 21, 1998\], except that the amendments made by paragraphs (8) and (9) of subsection (a) of this section shall apply to such grants.”
 
 \]
 
-\[[Pub. L. 105–276, title V, § 599E(c)][/us/pl/105/276/s599E/c], Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664], provided that: 
+\[[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599E(c), Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664], provided that: 
 
 > “This section \[amending [section 11 of Pub. L. 104–120][/us/pl/104/120/s11], set out above, and enacting provisions set out as a note above\] shall take effect, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -205,7 +205,7 @@
 
  __Funding for Self-Help Housing Assistance, National Cities in Schools Community Development Program, and Capacity Building Through National Community Development Initiative__ 
 
-[Pub. L. 104–120, § 12][/us/pl/104/120/s12], Mar. 28, 1996, [110 Stat. 845][/us/stat/110/845], provided that:
+[Pub. L. 104–120][/us/pl/104/120], § 12, Mar. 28, 1996, [110 Stat. 845][/us/stat/110/845], provided that:
 
 >     “(a)  __Authority to Use Assisted Housing Amounts__  __.—__ 
 
@@ -240,28 +240,28 @@
 
 [/us/usc/t42/s1490c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490c
 [/us/usc/t42/s1490c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490c
-[/us/pl/101/625/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs255
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4121
-[/us/pl/104/120/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs11
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F841
-[/us/pl/105/276/s599E/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599E%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2663
-[/us/pl/106/569/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs202
+[/us/pl/106/569/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtII
 [/us/stat/114/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2951
-[/us/pl/108/285/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F285%2Fs2
+[/us/pl/108/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F285
 [/us/stat/118/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F917
-[/us/pl/105/276/s599E/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599E%2Fa%2F6
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2664
 [/us/usc/t42/s3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3547
-[/us/pl/105/276/s599E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599E%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2664
 [/us/pl/104/120/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs11
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/usc/t42/s12805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12805
-[/us/pl/105/276/s599E/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599E%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2664
 [/us/pl/104/120/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs11
-[/us/pl/104/120/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs12
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F845
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3887

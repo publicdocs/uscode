@@ -17,7 +17,7 @@
 
     The Administrator shall issue guidance documents under [section 7408 of this title][/us/usc/t42/s7408] for purposes of assisting States in implementing requirements of this part respecting the lowest achievable emission rate. Such a document shall be published not later than nine months after August 7, 1977, and shall be revised at least every two years thereafter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 178, as added [Pub. L. 95–95, title I, § 129(b)][/us/pl/95/95/s129/b], Aug. 7, 1977, [91 Stat. 750][/us/stat/91/750].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 178, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(b), Aug. 7, 1977, [91 Stat. 750][/us/stat/91/750].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t42/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F750
 
 

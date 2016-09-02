@@ -41,7 +41,7 @@
 
     (8) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-([Pub. L. 96–102, title II, § 202][/us/pl/96/102/s202], Nov. 5, 1979, [93 Stat. 757][/us/stat/93/757].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 202, Nov. 5, 1979, [93 Stat. 757][/us/stat/93/757].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s6202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6202%2F7
-[/us/pl/96/102/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs202
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F757
 
 

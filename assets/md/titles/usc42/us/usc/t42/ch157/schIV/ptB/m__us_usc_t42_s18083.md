@@ -119,7 +119,7 @@
 
         (4) a State program under [section 18051 of this title][/us/usc/t42/s18051] establishing qualified basic health plans.
 
-([Pub. L. 111–148, title I, § 1413][/us/pl/111/148/s1413], Mar. 23, 2010, [124 Stat. 233][/us/stat/124/233].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1413, Mar. 23, 2010, [124 Stat. 233][/us/stat/124/233].)
 
  __References in Text__ 
 
@@ -146,7 +146,7 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s18051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18051
-[/us/pl/111/148/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1413
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F233
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

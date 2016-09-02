@@ -47,11 +47,11 @@
 
         Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 212, [58 Stat. 689][/us/stat/58/689]; [July 15, 1954, ch. 507, § 14(a)][/us/act/1954-07-15/ch507/s14/a], [68 Stat. 481][/us/stat/68/481]; [Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 501(b)(1), [70 Stat. 881][/us/stat/70/881]; [Pub. L. 94–278, title XI, § 1101][/us/pl/94/278/s1101], Apr. 22, 1976, [90 Stat. 415][/us/stat/90/415]; [Pub. L. 102–54, § 13(q)(1)(C)][/us/pl/102/54/s13/q/1/C], June 13, 1991, [105 Stat. 278][/us/stat/105/278]; [Pub. L. 105–392, title IV, § 402(a)][/us/pl/105/392/s402/a], Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; [Pub. L. 108–189, § 2(e)][/us/pl/108/189/s2/e], Dec. 19, 2003, [117 Stat. 2866][/us/stat/117/2866].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 212, [58 Stat. 689][/us/stat/58/689]; [July 15, 1954, ch. 507][/us/act/1954-07-15/ch507], § 14(a), [68 Stat. 481][/us/stat/68/481]; [Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 501(b)(1), [70 Stat. 881][/us/stat/70/881]; [Pub. L. 94–278, title XI][/us/pl/94/278/tXI], § 1101, Apr. 22, 1976, [90 Stat. 415][/us/stat/90/415]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(1)(C), June 13, 1991, [105 Stat. 278][/us/stat/105/278]; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 402(a), Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; [Pub. L. 108–189][/us/pl/108/189], § 2(e), Dec. 19, 2003, [117 Stat. 2866][/us/stat/117/2866].)
 
  __References in Text__ 
 
-    The Servicemen’s Indemnity Act of 1951, referred to in subsec. (d), is [act Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. I, [65 Stat. 33][/us/stat/65/33], which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by [act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 502(9), [70 Stat. 886][/us/stat/70/886].
+    The Servicemen’s Indemnity Act of 1951, referred to in subsec. (d), is [act Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. I, [65 Stat. 33][/us/stat/65/33], which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by [act Aug. 1, 1956, ch. 837, title V][/us/act/1956-08-01/ch837/tV], § 502(9), [70 Stat. 886][/us/stat/70/886].
 
     The Servicemembers Civil Relief Act, referred to in subsec. (e), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1956 Amendment; Applicability__ 
 
-[Act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 501(b)(2), [70 Stat. 882][/us/stat/70/882], provided that: 
+[Act Aug. 1, 1956, ch. 837, title V][/us/act/1956-08-01/ch837/tV], § 501(b)(2), [70 Stat. 882][/us/stat/70/882], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[[act July 16, 1952, ch. 875][/us/act/1952-07-16/ch875], [66 Stat. 633][/us/stat/66/633]\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[[42 U.S.C. 402(i)][/us/usc/t42/s402/i]\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
@@ -83,7 +83,7 @@
 
  __Recomputation of Social Security Benefits for Officers Entitled to Old-Age Insurance Benefits Prior to__  __January 1, 1957__  __, or for Survivors of Officers Who Died Prior to__  __January 1, 1957__ 
 
-[Act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 501(b)(3), [70 Stat. 882][/us/stat/70/882], provided that: 
+[Act Aug. 1, 1956, ch. 837, title V][/us/act/1956-08-01/ch837/tV], § 501(b)(3), [70 Stat. 882][/us/stat/70/882], provided that: 
 
 > “In the case of any individual—
 
@@ -132,21 +132,21 @@
 [/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F689
-[/us/act/1954-07-15/ch507/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-15%2Fch507%2Fs14%2Fa
+[/us/act/1954-07-15/ch507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-15%2Fch507
 [/us/stat/68/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F481
 [/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
 [/us/stat/70/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F881
-[/us/pl/94/278/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs1101
+[/us/pl/94/278/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtXI
 [/us/stat/90/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F415
-[/us/pl/102/54/s13/q/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F1%2FC
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F278
-[/us/pl/105/392/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs402%2Fa
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3587
-[/us/pl/108/189/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fe
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2866
 [/us/act/1951-04-25/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-25%2Fch39
 [/us/stat/65/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F33
-[/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
+[/us/act/1956-08-01/ch837/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837%2FtV
 [/us/stat/70/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F886
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
@@ -155,7 +155,7 @@
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/94/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278
 [/us/usc/t42/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417
-[/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
+[/us/act/1956-08-01/ch837/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837%2FtV
 [/us/stat/70/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F882
 [/us/act/1952-07-16/ch875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch875
 [/us/stat/66/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F633
@@ -165,7 +165,7 @@
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
+[/us/act/1956-08-01/ch837/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837%2FtV
 [/us/stat/70/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F882
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402

@@ -11,43 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch95/schII/m__us_usc_t42_ch95_schII.md) | [Next](./../../../../..//us/usc/t42/ch95/schIV/m__us_usc_t42_ch95_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch95/schII/m__us_usc_t42_s8711...8719.md) | [Next](./../../../../..//us/usc/t42/ch95/schIII/m__us_usc_t42_s8721...8725.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIII)
 
 ### SUBCHAPTER III—PRODUCTION GOAL OF THE CORPORATION
 
-§§ 8721 to 8725. __Omitted__ 
-
- __Codification__ 
-
-    Sections 8721 to 8725 were omitted from the Code in view of termination of United States Synthetic Fuels Corporation. See note set out under [section 8791 of this title][/us/usc/t42/s8791].
-
-    Section 8721, [Pub. L. 96–294, title I, § 125][/us/pl/96/294/s125], June 30, 1980, [94 Stat. 644][/us/stat/94/644], established a national synthetic fuel production goal.
-
-    Section 8722, [Pub. L. 96–294, title I, § 126][/us/pl/96/294/s126], June 30, 1980, [94 Stat. 644][/us/stat/94/644], related to production strategy.
-
-    Section 8723, [Pub. L. 96–294, title I, § 127][/us/pl/96/294/s127], June 30, 1980, [94 Stat. 649][/us/stat/94/649], related to solicitation of proposals.
-
-    Section 8724, [Pub. L. 96–294, title I, § 128][/us/pl/96/294/s128], June 30, 1980, [94 Stat. 650][/us/stat/94/650], related to Congressional disapproval procedure.
-
-    Section 8725, [Pub. L. 96–294, title I, § 129][/us/pl/96/294/s129], June 30, 1980, [94 Stat. 652][/us/stat/94/652], related to Congressional approval procedure.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch95/schII/m__us_usc_t42_ch95_schII.md) | [Next](./../../../../..//us/usc/t42/ch95/schIV/m__us_usc_t42_ch95_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch95/schII/m__us_usc_t42_s8711...8719.md) | [Next](./../../../../..//us/usc/t42/ch95/schIII/m__us_usc_t42_s8721...8725.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIII)
 
 ----------
 ----------
 
-[/us/usc/t42/s8791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8791
-[/us/pl/96/294/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs125
-[/us/stat/94/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F644
-[/us/pl/96/294/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs126
-[/us/stat/94/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F644
-[/us/pl/96/294/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs127
-[/us/stat/94/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F649
-[/us/pl/96/294/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs128
-[/us/stat/94/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F650
-[/us/pl/96/294/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs129
-[/us/stat/94/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F652
 
 

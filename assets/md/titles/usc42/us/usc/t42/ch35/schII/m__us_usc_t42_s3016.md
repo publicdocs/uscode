@@ -79,7 +79,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-([Pub. L. 89–73, title II, § 205][/us/pl/89/73/s205], formerly § 206, as added [Pub. L. 93–29, title II, § 201(c)][/us/pl/93/29/s201/c], May 3, 1973, [87 Stat. 34][/us/stat/87/34]; amended [Pub. L. 95–478, title I, § 102(f)][/us/pl/95/478/s102/f], Oct. 18, 1978, [92 Stat. 1515][/us/stat/92/1515]; renumbered § 205 and amended [Pub. L. 97–115, § 2(e)(2)][/us/pl/97/115/s2/e/2], (g), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 98–459, title II, § 205][/us/pl/98/459/s205], Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 109, 110, Nov. 29, 1987, [101 Stat. 932][/us/stat/101/932]; [Pub. L. 102–375, title II, § 206][/us/pl/102/375/s206], title IX, § 904(a)(7), Sept. 30, 1992, [106 Stat. 1212][/us/stat/106/1212], 1306; [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title II, § 202(3)][/us/pl/106/501/s202/3], title VIII, § 801(b)(3), Nov. 13, 2000, [114 Stat. 2231][/us/stat/114/2231], 2292; [Pub. L. 109–365, title II, § 204][/us/pl/109/365/s204], Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535].)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 205, formerly § 206, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 34][/us/stat/87/34]; amended [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(f), Oct. 18, 1978, [92 Stat. 1515][/us/stat/92/1515]; renumbered § 205 and amended [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), (g), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 205, Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 109, 110, Nov. 29, 1987, [101 Stat. 932][/us/stat/101/932]; [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 206, title IX, § 904(a)(7), Sept. 30, 1992, [106 Stat. 1212][/us/stat/106/1212], 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 202(3), title VIII, § 801(b)(3), Nov. 13, 2000, [114 Stat. 2231][/us/stat/114/2231], 2292; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 204, Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535].)
 
  __Prior Provisions__ 
 
@@ -87,19 +87,19 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1)(C) to (E). [Pub. L. 109–365, § 204(1)(A)][/us/pl/109/365/s204/1/A], in subpar. (C) inserted “and” at end, in subpar. (D) substituted period for “; and” at end, and struck out subpar. (E) which read as follows: “provide staff and other technical assistance to the Federal Council on the Aging.”
+    2006—Subsec. (a)(1)(C) to (E). [Pub. L. 109–365][/us/pl/109/365], § 204(1)(A), in subpar. (C) inserted “and” at end, in subpar. (D) substituted period for “; and” at end, and struck out subpar. (E) which read as follows: “provide staff and other technical assistance to the Federal Council on the Aging.”
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 109–365, § 204(1)(B)(i)(I)][/us/pl/109/365/s204/1/B/i/I], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “designing, implementing, and evaluating nutrition programs;”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 109–365][/us/pl/109/365], § 204(1)(B)(i)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “designing, implementing, and evaluating nutrition programs;”.
 
-    Subsec. (a)(2)(A)(iii). [Pub. L. 109–365, § 204(1)(B)(i)(II)][/us/pl/109/365/s204/1/B/i/II], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “disseminating information to nutrition service providers about nutrition advancements and developments;”.
+    Subsec. (a)(2)(A)(iii). [Pub. L. 109–365][/us/pl/109/365], § 204(1)(B)(i)(II), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “disseminating information to nutrition service providers about nutrition advancements and developments;”.
 
-    Subsec. (a)(2)(A)(viii) to (x). [Pub. L. 109–365, § 204(1)(B)(i)(III)][/us/pl/109/365/s204/1/B/i/III], (IV), added cls. (viii) to (x) and struck out former cl. (viii) which read as follows: “providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii).”
+    Subsec. (a)(2)(A)(viii) to (x). [Pub. L. 109–365][/us/pl/109/365], § 204(1)(B)(i)(III), (IV), added cls. (viii) to (x) and struck out former cl. (viii) which read as follows: “providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii).”
 
-    Subsec. (a)(2)(C)(i). [Pub. L. 109–365, § 204(1)(B)(ii)][/us/pl/109/365/s204/1/B/ii], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “have expertise in nutrition and dietary services and planning; and”.
+    Subsec. (a)(2)(C)(i). [Pub. L. 109–365][/us/pl/109/365], § 204(1)(B)(ii), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “have expertise in nutrition and dietary services and planning; and”.
 
-    2000—Subsec. (a)(2)(A). [Pub. L. 106–501, § 801(b)(3)][/us/pl/106/501/s801/b/3], substituted “subparts I and II” for “subparts I, II, and III” in introductory provisions.
+    2000—Subsec. (a)(2)(A). [Pub. L. 106–501][/us/pl/106/501], § 801(b)(3), substituted “subparts I and II” for “subparts I, II, and III” in introductory provisions.
 
-    Subsecs. (c) to (e). [Pub. L. 106–501, § 202(3)][/us/pl/106/501/s202/3], redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which read as follows:
+    Subsecs. (c) to (e). [Pub. L. 106–501][/us/pl/106/501], § 202(3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which read as follows:
 
     “(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
 
@@ -109,15 +109,15 @@
 
     1992—Subsec. (a). [Pub. L. 102–375][/us/pl/102/375] designated existing provisions as par. (1), substituted “objectives” for “purposes” and “to—” for “to:” in introductory provisions, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
-    1987—Subsec. (c). [Pub. L. 100–175, § 109][/us/pl/100/175/s109], substituted “October 9, 1987” for “October 9, 1984”.
+    1987—Subsec. (c). [Pub. L. 100–175][/us/pl/100/175], § 109, substituted “October 9, 1987” for “October 9, 1984”.
 
-    Subsecs. (d), (e). [Pub. L. 100–175, § 110][/us/pl/100/175/s110], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 100–175][/us/pl/100/175], § 110, added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    1984—Subsec. (b). [Pub. L. 98–459, § 205(a)][/us/pl/98/459/s205/a], substituted “the functions of the Administration” for “his functions”.
+    1984—Subsec. (b). [Pub. L. 98–459][/us/pl/98/459], § 205(a), substituted “the functions of the Administration” for “his functions”.
 
-    Subsecs. (c), (d). [Pub. L. 98–459, § 205(b)][/us/pl/98/459/s205/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 98–459][/us/pl/98/459], § 205(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-    1981—Subsecs. (b) to (d). [Pub. L. 97–115, § 2(g)][/us/pl/97/115/s2/g], struck out subsec. (b) providing that a report be prepared and submitted to Congress by the Commissioner not later than Sept. 30, 1980, and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
+    1981—Subsecs. (b) to (d). [Pub. L. 97–115][/us/pl/97/115], § 2(g), struck out subsec. (b) providing that a report be prepared and submitted to Congress by the Commissioner not later than Sept. 30, 1980, and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
     1978—Subsecs. (b) to (d). [Pub. L. 95–478][/us/pl/95/478] added subsec. (b) and redesignated existing subsecs. (b) and (c) as (c) and (d).
 
@@ -141,41 +141,41 @@
 ----------
 
 [/us/usc/t7/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5341
-[/us/pl/89/73/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs205
-[/us/pl/93/29/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs201%2Fc
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
+[/us/pl/93/29/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtII
 [/us/stat/87/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F34
-[/us/pl/95/478/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Ff
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1515
-[/us/pl/97/115/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fe%2F2
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1596
-[/us/pl/98/459/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs205
+[/us/pl/98/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtII
 [/us/stat/98/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1770
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F932
-[/us/pl/102/375/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs206
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1212
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/106/501/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs202%2F3
+[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
 [/us/stat/114/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2231
-[/us/pl/109/365/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs204
+[/us/pl/109/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtII
 [/us/stat/120/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2535
 [/us/pl/89/73/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs205
 [/us/usc/t42/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3015
-[/us/pl/109/365/s204/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs204%2F1%2FA
-[/us/pl/109/365/s204/1/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs204%2F1%2FB%2Fi%2FI
-[/us/pl/109/365/s204/1/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs204%2F1%2FB%2Fi%2FII
-[/us/pl/109/365/s204/1/B/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs204%2F1%2FB%2Fi%2FIII
-[/us/pl/109/365/s204/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs204%2F1%2FB%2Fii
-[/us/pl/106/501/s801/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fb%2F3
-[/us/pl/106/501/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs202%2F3
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
-[/us/pl/100/175/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs109
-[/us/pl/100/175/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs110
-[/us/pl/98/459/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs205%2Fa
-[/us/pl/98/459/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs205%2Fb
-[/us/pl/97/115/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fg
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa

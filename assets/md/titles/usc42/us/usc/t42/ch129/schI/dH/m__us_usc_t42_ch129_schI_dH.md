@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    This division is comprised of subtitle H, §§ 198–198C, 198H, 198K, 198O, 198P, and 198S, of title I of [Pub. L. 101–610][/us/pl/101/610]. A prior part H (§ 12653 et seq.), comprised of subtitle H, §§ 195–195O, of title I of [Pub. L. 101–610][/us/pl/101/610], was renumbered subtitle E, §§ 151–166, of title I of [Pub. L. 101–610][/us/pl/101/610] by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b], and transferred to division E (§ 12611 et seq.) of this subchapter.
+    This division is comprised of subtitle H, §§ 198–198C, 198H, 198K, 198O, 198P, and 198S, of title I of [Pub. L. 101–610][/us/pl/101/610]. A prior part H (§ 12653 et seq.), comprised of subtitle H, §§ 195–195O, of title I of [Pub. L. 101–610][/us/pl/101/610], was renumbered subtitle E, §§ 151–166, of title I of [Pub. L. 101–610][/us/pl/101/610] by [Pub. L. 103–82][/us/pl/103/82], § 104(b), and transferred to division E (§ 12611 et seq.) of this subchapter.
 
 ----------
 
@@ -29,6 +29,6 @@
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 
 

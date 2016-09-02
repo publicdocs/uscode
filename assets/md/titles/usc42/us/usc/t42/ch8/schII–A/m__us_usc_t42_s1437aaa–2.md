@@ -147,7 +147,7 @@
 
         The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved. The Secretary may approve the application for an implementation grant with a statement that the application for the section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] assistance for replacement housing and for residents of the project not purchasing units is conditionally approved, subject to the availability of appropriations in subsequent fiscal years.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 303, as added [Pub. L. 101–625, title IV, § 411][/us/pl/101/625/s411], Nov. 28, 1990, [104 Stat. 4150][/us/stat/104/4150]; amended [Pub. L. 102–550, title I, § 181(b)][/us/pl/102/550/s181/b], (c), (g)(1), title X, § 1012(h)(2), Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735], 3736, 3906; [Pub. L. 105–276, title V, § 519(c)(1)][/us/pl/105/276/s519/c/1], Oct. 21, 1998, [112 Stat. 2561][/us/stat/112/2561].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 303, as added [Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 411, Nov. 28, 1990, [104 Stat. 4150][/us/stat/104/4150]; amended [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 181(b), (c), (g)(1), title X, § 1012(h)(2), Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735], 3736, 3906; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 519(c)(1), Oct. 21, 1998, [112 Stat. 2561][/us/stat/112/2561].)
 
  __References in Text__ 
 
@@ -165,21 +165,21 @@
 
     1998—Subsec. (b)(10). [Pub. L. 105–276][/us/pl/105/276] substituted “such assistance from the Operating Fund” for “such assistance under [section 1437g of this title][/us/usc/t42/s1437g]”.
 
-    1992—Subsec. (b)(2). [Pub. L. 102–550, § 181(g)(1)(A)][/us/pl/102/550/s181/g/1/A], struck out “(not including scattered site single family housing of a public housing agency)” after “public housing project”.
+    1992—Subsec. (b)(2). [Pub. L. 102–550][/us/pl/102/550], § 181(g)(1)(A), struck out “(not including scattered site single family housing of a public housing agency)” after “public housing project”.
 
-    Subsec. (b)(4) to (8). [Pub. L. 102–550, § 1012(h)(2)][/us/pl/102/550/s1012/h/2], added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
+    Subsec. (b)(4) to (8). [Pub. L. 102–550][/us/pl/102/550], § 1012(h)(2), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 
-    Subsec. (b)(9). [Pub. L. 102–550, § 1012(h)(2)(A)][/us/pl/102/550/s1012/h/2/A], redesignated par. (8) as (9). Former par. (9) redesignated (10).
+    Subsec. (b)(9). [Pub. L. 102–550][/us/pl/102/550], § 1012(h)(2)(A), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-    [Pub. L. 102–550, § 181(g)(1)(B)][/us/pl/102/550/s181/g/1/B], which directed insertion of “, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program” before period at end of section “303(b)(9) of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 1437aaa–2(b)(9)][/us/usc/t42/s1437aaa–2/b/9])”, was executed by making the insertion before period at end of subsec. (b)(9) of this section, which is section 303 of the United States Housing Act of 1937, to reflect the probable intent of Congress.
+    [Pub. L. 102–550][/us/pl/102/550], § 181(g)(1)(B), which directed insertion of “, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program” before period at end of section “303(b)(9) of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 1437aaa–2(b)(9)][/us/usc/t42/s1437aaa–2/b/9])”, was executed by making the insertion before period at end of subsec. (b)(9) of this section, which is section 303 of the United States Housing Act of 1937, to reflect the probable intent of Congress.
 
-    Subsec. (b)(10) to (14). [Pub. L. 102–550, § 1012(h)(2)(A)][/us/pl/102/550/s1012/h/2/A], redesignated pars. (9) to (13) as (10) to (14), respectively.
+    Subsec. (b)(10) to (14). [Pub. L. 102–550][/us/pl/102/550], § 1012(h)(2)(A), redesignated pars. (9) to (13) as (10) to (14), respectively.
 
-    Subsec. (c)(1). [Pub. L. 102–550, § 181(b)(1)][/us/pl/102/550/s181/b/1], inserted “and replacement housing” after “expenses”.
+    Subsec. (c)(1). [Pub. L. 102–550][/us/pl/102/550], § 181(b)(1), inserted “and replacement housing” after “expenses”.
 
-    Subsec. (c)(3). [Pub. L. 102–550, § 181(b)(2)][/us/pl/102/550/s181/b/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 102–550][/us/pl/102/550], § 181(b)(2), added par. (3).
 
-    Subsec. (e)(8). [Pub. L. 102–550, § 181(c)][/us/pl/102/550/s181/c], struck out “of the type assisted under this subchapter” after “rental housing” and “appreciably” before “reduce”.
+    Subsec. (e)(8). [Pub. L. 102–550][/us/pl/102/550], § 181(c), struck out “of the type assisted under this subchapter” after “rental housing” and “appreciably” before “reduce”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -211,11 +211,11 @@
 [/us/usc/t42/s12705/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F7
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/101/625/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs411
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4150
-[/us/pl/102/550/s181/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fb
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3735
-[/us/pl/105/276/s519/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs519%2Fc%2F1
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2561
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
@@ -233,15 +233,15 @@
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/102/550/s181/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fg%2F1%2FA
-[/us/pl/102/550/s1012/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fh%2F2
-[/us/pl/102/550/s1012/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fh%2F2%2FA
-[/us/pl/102/550/s181/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fg%2F1%2FB
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437aaa–2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aaa%E2%80%932%2Fb%2F9
-[/us/pl/102/550/s1012/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fh%2F2%2FA
-[/us/pl/102/550/s181/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fb%2F1
-[/us/pl/102/550/s181/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fb%2F2
-[/us/pl/102/550/s181/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fc
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

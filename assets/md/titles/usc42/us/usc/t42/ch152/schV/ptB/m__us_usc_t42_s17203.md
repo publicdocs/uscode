@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title VI, § 624][/us/pl/110/140/s624], Dec. 19, 2007, [121 Stat. 1684][/us/stat/121/1684].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 624, Dec. 19, 2007, [121 Stat. 1684][/us/stat/121/1684].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs624
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1684
 
 

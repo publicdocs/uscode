@@ -23,7 +23,7 @@
 
         If the Administrator determines that a licensee is not pursuing diligently the construction and operation of the ocean thermal energy conversion facility or plantship to which the license applies, or that the project has apparently been abandoned, the Administrator shall cause proceedings to be instituted under [section 9121 of this title][/us/usc/t42/s9121] to terminate the license.
 
-([Pub. L. 96–320, title I, § 106][/us/pl/96/320/s106], Aug. 3, 1980, [94 Stat. 984][/us/stat/94/984].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 106, Aug. 3, 1980, [94 Stat. 984][/us/stat/94/984].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s9121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9121
-[/us/pl/96/320/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs106
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F984
 
 

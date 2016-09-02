@@ -79,7 +79,7 @@
 
         (2) The Secretary of Health and Human Services and the Secretary of Energy shall each make available to researchers and the general public information on the assumptions, methodology, and data used in establishing radiation doses under subsection (d) of this section. The actions taken under this paragraph shall be consistent with the protection of private medical records.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3623\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–502; [Pub. L. 108–375, div. C, title XXXI, § 3168(b)][/us/pl/108/375/s3168/b], Oct. 28, 2004, [118 Stat. 2190][/us/stat/118/2190].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3623\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–502; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3168(b), Oct. 28, 2004, [118 Stat. 2190][/us/stat/118/2190].)
 
  __References in Text__ 
 
@@ -102,9 +102,9 @@
 
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
 [/us/usc/t42/s7158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7158
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s3168/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3168%2Fb
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2190
 [/us/pl/97/414/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs7%2Fb
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241

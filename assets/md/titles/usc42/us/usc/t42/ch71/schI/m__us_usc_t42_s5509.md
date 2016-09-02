@@ -33,7 +33,7 @@
 
         The Secretary shall also maintain continuing liaison with the building industry and related industries and interests, and with the scientific and technical community during and after the period of the programs carried out under this subchapter, in order to assure that the projected benefits of such programs are and will continue to be realized.
 
-([Pub. L. 93–409, § 11][/us/pl/93/409/s11], Sept. 3, 1974, [88 Stat. 1074][/us/stat/88/1074]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Pub. L. 93–409][/us/pl/93/409], § 11, Sept. 3, 1974, [88 Stat. 1074][/us/stat/88/1074]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/93/409/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs11
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1074
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 

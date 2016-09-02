@@ -105,7 +105,7 @@
 
         (3) Each regulation described in paragraph (1) shall take effect 180 days after the committees described in paragraph (2) receive a report referred to in such paragraph describing the regulation.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 332, as added [Pub. L. 94–484, title IV, § 407(b)(3)][/us/pl/94/484/s407/b/3], Oct. 12, 1976, [90 Stat. 2270][/us/stat/90/2270]; amended [Pub. L. 95–142, § 7(d)][/us/pl/95/142/s7/d], Oct. 25, 1977, [91 Stat. 1193][/us/stat/91/1193]; [Pub. L. 96–32, § 7(d)][/us/pl/96/32/s7/d], July 10, 1979, [93 Stat. 84][/us/stat/93/84]; [Pub. L. 97–35, title IX, § 986(b)(4)][/us/pl/97/35/s986/b/4], title XXVII, § 2702(a), (b), (c), Aug. 13, 1981, [95 Stat. 603][/us/stat/95/603], 903, 904; [Pub. L. 100–77, title VI, § 602][/us/pl/100/77/s602], July 22, 1987, [101 Stat. 515][/us/stat/101/515]; [Pub. L. 100–177, title III, § 302][/us/pl/100/177/s302], Dec. 1, 1987, [101 Stat. 1003][/us/stat/101/1003]; [Pub. L. 100–607, title VIII, § 802(b)(2)][/us/pl/100/607/s802/b/2], Nov. 4, 1988, [102 Stat. 3169][/us/stat/102/3169]; [Pub. L. 100–628, title VI, § 602(b)(2)][/us/pl/100/628/s602/b/2], Nov. 7, 1988, [102 Stat. 3242][/us/stat/102/3242]; [Pub. L. 101–597, title I, § 102][/us/pl/101/597/s102], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3014][/us/stat/104/3014], 3035; [Pub. L. 107–251, title III, § 302(a)][/us/pl/107/251/s302/a], (d)(2), title VI, § 601(a), Oct. 26, 2002, [116 Stat. 1643][/us/stat/116/1643], 1645, 1664; [Pub. L. 108–163, § 2(f)(1)][/us/pl/108/163/s2/f/1], Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021]; [Pub. L. 110–355, § 3(b)][/us/pl/110/355/s3/b], Oct. 8, 2008, [122 Stat. 3993][/us/stat/122/3993].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 332, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(3), Oct. 12, 1976, [90 Stat. 2270][/us/stat/90/2270]; amended [Pub. L. 95–142][/us/pl/95/142], § 7(d), Oct. 25, 1977, [91 Stat. 1193][/us/stat/91/1193]; [Pub. L. 96–32][/us/pl/96/32], § 7(d), July 10, 1979, [93 Stat. 84][/us/stat/93/84]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 986(b)(4), title XXVII, § 2702(a), (b), (c), Aug. 13, 1981, [95 Stat. 603][/us/stat/95/603], 903, 904; [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 602, July 22, 1987, [101 Stat. 515][/us/stat/101/515]; [Pub. L. 100–177, title III][/us/pl/100/177/tIII], § 302, Dec. 1, 1987, [101 Stat. 1003][/us/stat/101/1003]; [Pub. L. 100–607, title VIII][/us/pl/100/607/tVIII], § 802(b)(2), Nov. 4, 1988, [102 Stat. 3169][/us/stat/102/3169]; [Pub. L. 100–628, title VI][/us/pl/100/628/tVI], § 602(b)(2), Nov. 7, 1988, [102 Stat. 3242][/us/stat/102/3242]; [Pub. L. 101–597, title I][/us/pl/101/597/tI], § 102, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3014][/us/stat/104/3014], 3035; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 302(a), (d)(2), title VI, § 601(a), Oct. 26, 2002, [116 Stat. 1643][/us/stat/116/1643], 1645, 1664; [Pub. L. 108–163][/us/pl/108/163], § 2(f)(1), Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021]; [Pub. L. 110–355][/us/pl/110/355], § 3(b), Oct. 8, 2008, [122 Stat. 3993][/us/stat/122/3993].)
 
  __References in Text__ 
 
@@ -121,21 +121,21 @@
 
     2008—Subsec. (a)(1). [Pub. L. 110–355][/us/pl/110/355] struck out “Not earlier than 6 years after such date of designation, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations regarding the definition of a health professional shortage area for purposes of this section.” before “The Secretary shall not”.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–163, § 2(f)(1)(A)][/us/pl/108/163/s2/f/1/A], substituted “such date of designation” for “such date of enactment” and “regarding” for “, issued after the date of enactment of this Act, that revise”.
+    2003—Subsec. (a)(1). [Pub. L. 108–163][/us/pl/108/163], § 2(f)(1)(A), substituted “such date of designation” for “such date of enactment” and “regarding” for “, issued after the date of enactment of this Act, that revise”.
 
-    Subsec. (a)(3). [Pub. L. 108–163, § 2(f)(1)(B)][/us/pl/108/163/s2/f/1/B], substituted “254b(h)(5)” for “254b(h)(4)”.
+    Subsec. (a)(3). [Pub. L. 108–163][/us/pl/108/163], § 2(f)(1)(B), substituted “254b(h)(5)” for “254b(h)(4)”.
 
-    Subsec. (b)(2). [Pub. L. 108–163, § 2(f)(1)(C)][/us/pl/108/163/s2/f/1/C], struck out comma before period at end.
+    Subsec. (b)(2). [Pub. L. 108–163][/us/pl/108/163], § 2(f)(1)(C), struck out comma before period at end.
 
-    Subsec. (j). [Pub. L. 108–163, § 2(f)(1)(D)][/us/pl/108/163/s2/f/1/D], added subsec. (j).
+    Subsec. (j). [Pub. L. 108–163][/us/pl/108/163], § 2(f)(1)(D), added subsec. (j).
 
-    2002—Subsec. (a)(1). [Pub. L. 107–251, § 302(a)(1)(A)][/us/pl/107/251/s302/a/1/A], inserted after first sentence “All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act ([42 U.S.C. 1395x(aa)][/us/usc/t42/s1395x/aa]), that meet the requirements of [section 254g of this title][/us/usc/t42/s254g] shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act, that revise the definition of a health professional shortage area for purposes of this section.”
+    2002—Subsec. (a)(1). [Pub. L. 107–251][/us/pl/107/251], § 302(a)(1)(A), inserted after first sentence “All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act ([42 U.S.C. 1395x(aa)][/us/usc/t42/s1395x/aa]), that meet the requirements of [section 254g of this title][/us/usc/t42/s254g] shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act, that revise the definition of a health professional shortage area for purposes of this section.”
 
-    Subsec. (a)(2)(C). [Pub. L. 107–251, § 601(a)][/us/pl/107/251/s601/a], substituted “254b(h)” for “256”.
+    Subsec. (a)(2)(C). [Pub. L. 107–251][/us/pl/107/251], § 601(a), substituted “254b(h)” for “256”.
 
-    Subsec. (a)(3). [Pub. L. 107–251, § 302(a)(1)(B)][/us/pl/107/251/s302/a/1/B], substituted “254b(h)(4) of this title), seasonal agricultural workers (as defined in [section 254b(g)(3) of this title][/us/usc/t42/s254b/g/3]) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in [section 1437a(b)(1) of this title][/us/usc/t42/s1437a/b/1]) may be population groups” for “256(r) of this title) may be a population group”.
+    Subsec. (a)(3). [Pub. L. 107–251][/us/pl/107/251], § 302(a)(1)(B), substituted “254b(h)(4) of this title), seasonal agricultural workers (as defined in [section 254b(g)(3) of this title][/us/usc/t42/s254b/g/3]) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in [section 1437a(b)(1) of this title][/us/usc/t42/s1437a/b/1]) may be population groups” for “256(r) of this title) may be a population group”.
 
-    Subsec. (b)(2). [Pub. L. 107–251, § 302(a)(2)][/us/pl/107/251/s302/a/2], struck out after “designation,” the following: “with special consideration to indicators of—
+    Subsec. (b)(2). [Pub. L. 107–251][/us/pl/107/251], § 302(a)(2), struck out after “designation,” the following: “with special consideration to indicators of—
 
     “(A) infant mortality,
 
@@ -145,59 +145,59 @@
 
     “(D) ability to pay for health services”.
 
-    Subsec. (c)(2)(B). [Pub. L. 107–251, § 302(a)(3)][/us/pl/107/251/s302/a/3], substituted “XVIII, XIX, or XXI of the Social Security Act” for “XVIII or XIX of the Social Security Act”.
+    Subsec. (c)(2)(B). [Pub. L. 107–251][/us/pl/107/251], § 302(a)(3), substituted “XVIII, XIX, or XXI of the Social Security Act” for “XVIII or XIX of the Social Security Act”.
 
-    Subsec. (i). [Pub. L. 107–251, § 302(d)(2)][/us/pl/107/251/s302/d/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 107–251][/us/pl/107/251], § 302(d)(2), added subsec. (i).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
+    1990—Subsec. (a)(1). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
-    Subsec. (a)(2)(A). [Pub. L. 101–597, § 102(b)(1)][/us/pl/101/597/s102/b/1], inserted “facility operated by a city or county health department,” before “and community health center”.
+    Subsec. (a)(2)(A). [Pub. L. 101–597][/us/pl/101/597], § 102(b)(1), inserted “facility operated by a city or county health department,” before “and community health center”.
 
-    Subsec. (a)(2)(B). [Pub. L. 101–597, § 102(b)(2)][/us/pl/101/597/s102/b/2], inserted before semicolon “, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act”.
+    Subsec. (a)(2)(B). [Pub. L. 101–597][/us/pl/101/597], § 102(b)(2), inserted before semicolon “, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act”.
 
-    Subsec. (a)(2)(C). [Pub. L. 101–597, § 102(b)(3)][/us/pl/101/597/s102/b/3], substituted “section” for “sections” before “248”, struck out “or” before “253” and “or section” before “247e”, and inserted before semicolon “, or 256 of this title (relating to the provision of health services to homeless individuals)”.
+    Subsec. (a)(2)(C). [Pub. L. 101–597][/us/pl/101/597], § 102(b)(3), substituted “section” for “sections” before “248”, struck out “or” before “253” and “or section” before “247e”, and inserted before semicolon “, or 256 of this title (relating to the provision of health services to homeless individuals)”.
 
-    Subsec. (b). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsec. (b). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    [Pub. L. 101–597, § 102(c)(1)][/us/pl/101/597/s102/c/1], struck out “, promulgated not later than May 1, 1977,” after “establish by regulation”.
+    [Pub. L. 101–597][/us/pl/101/597], § 102(c)(1), struck out “, promulgated not later than May 1, 1977,” after “establish by regulation”.
 
-    Subsec. (c). [Pub. L. 101–597, § 102(c)(2)][/us/pl/101/597/s102/c/2], redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows:
+    Subsec. (c). [Pub. L. 101–597][/us/pl/101/597], § 102(c)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows:
 
     “(A) The recommendations of each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility under consideration for designation.
 
     “(B) The recommendations of the State health planning and development agency (designated under [section 300m of this title][/us/usc/t42/s300m]) if such area, population group, medical facility, or other public facility is within a health service area for which no health systems agency has been designated.”
 
-    Subsec. (d). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (1).
+    Subsec. (d). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (1).
 
-    [Pub. L. 101–597, § 102(a)][/us/pl/101/597/s102/a], (c)(3), designated existing provision as par. (1), struck out “, not later than November 1, 1977,” after “Secretary shall designate”, and added par. (2).
+    [Pub. L. 101–597][/us/pl/101/597], § 102(a), (c)(3), designated existing provision as par. (1), struck out “, not later than November 1, 1977,” after “Secretary shall designate”, and added par. (2).
 
-    Subsec. (e). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
+    Subsec. (e). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
-    Subsec. (f). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsec. (f). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    [Pub. L. 101–597, § 102(c)(4)][/us/pl/101/597/s102/c/4], redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
+    [Pub. L. 101–597][/us/pl/101/597], § 102(c)(4), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
 
     “(A) each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
 
     “(B) the State health planning and development agency of the State (designated under [section 300m of this title][/us/usc/t42/s300m]) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and”.
 
-    Subsecs. (g), (h). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsecs. (g), (h). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
     1988—Subsec. (a)(3). [Pub. L. 100–607][/us/pl/100/607] and [Pub. L. 100–628][/us/pl/100/628] made identical amendments, substituting “section 256(r)” for “section 256(q)(2)”.
 
-    1987—Subsec. (a)(1). [Pub. L. 100–177, § 302(1)][/us/pl/100/177/s302/1], inserted sentence at end relating to removal of an area from areas determined to be health manpower shortage areas.
+    1987—Subsec. (a)(1). [Pub. L. 100–177][/us/pl/100/177], § 302(1), inserted sentence at end relating to removal of an area from areas determined to be health manpower shortage areas.
 
     Subsec. (a)(3). [Pub. L. 100–77][/us/pl/100/77] added par. (3).
 
-    Subsec. (b)(2)(D). [Pub. L. 100–177, § 302(2)][/us/pl/100/177/s302/2], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 100–177][/us/pl/100/177], § 302(2), added subpar. (D).
 
-    1981—Subsec. (a)(1)(A). [Pub. L. 97–35, § 2702(a)][/us/pl/97/35/s2702/a], inserted provisions respecting reasonable accessibility to adequately served area.
+    1981—Subsec. (a)(1)(A). [Pub. L. 97–35][/us/pl/97/35], § 2702(a), inserted provisions respecting reasonable accessibility to adequately served area.
 
-    Subsec. (a)(2)(C). [Pub. L. 97–35, § 986(b)(4)][/us/pl/97/35/s986/b/4], substituted “persons under quarantine” for “seamen”.
+    Subsec. (a)(2)(C). [Pub. L. 97–35][/us/pl/97/35], § 986(b)(4), substituted “persons under quarantine” for “seamen”.
 
-    Subsec. (e). [Pub. L. 97–35, § 2702(c)][/us/pl/97/35/s2702/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (e). [Pub. L. 97–35][/us/pl/97/35], § 2702(c), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (h). [Pub. L. 97–35, § 2702(b)][/us/pl/97/35/s2702/b], substituted “may” for “shall”.
+    Subsec. (h). [Pub. L. 97–35][/us/pl/97/35], § 2702(b), substituted “may” for “shall”.
 
     1979—Subsec. (a)(2)(C). [Pub. L. 96–32][/us/pl/96/32] substituted “[section 247e of this title][/us/usc/t42/s247e]” for “part D of subchapter II of this chapter”.
 
@@ -209,11 +209,11 @@
 
  __Effective Date of 1988 Amendments__ 
 
-[Pub. L. 100–628, title VI, § 631][/us/pl/100/628/s631], Nov. 7, 1988, [102 Stat. 3244][/us/stat/102/3244], provided that: 
+[Pub. L. 100–628, title VI][/us/pl/100/628/tVI], § 631, Nov. 7, 1988, [102 Stat. 3244][/us/stat/102/3244], provided that: 
 
 > “The amendments made by subsection (a) of section 601 \[amending [section 256 of this title][/us/usc/t42/s256]\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under [section 256 of this title][/us/usc/t42/s256]\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under [section 290aa–3 of this title][/us/usc/t42/s290aa–3]\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 7, 1988\], whichever occurs later.”
 
-[Pub. L. 100–607, title VIII, § 831][/us/pl/100/607/s831], Nov. 4, 1988, [102 Stat. 3171][/us/stat/102/3171], provided that: 
+[Pub. L. 100–607, title VIII][/us/pl/100/607/tVIII], § 831, Nov. 4, 1988, [102 Stat. 3171][/us/stat/102/3171], provided that: 
 
 > “The amendments made by subsection (a) of section 801 \[amending [section 256 of this title][/us/usc/t42/s256]\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under [section 256 of this title][/us/usc/t42/s256]\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under [section 290aa–3 of this title][/us/usc/t42/s290aa–3]\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later.”
 
@@ -223,23 +223,23 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–142, § 7(e)(1)][/us/pl/95/142/s7/e/1], Oct. 25, 1977, [91 Stat. 1194][/us/stat/91/1194], provided that: 
+[Pub. L. 95–142][/us/pl/95/142], § 7(e)(1), Oct. 25, 1977, [91 Stat. 1194][/us/stat/91/1194], provided that: 
 
 > “The amendment made by subsection (d) \[amending this section\] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
  __Regulations__ 
 
-    [Pub. L. 107–251, title III, § 302(b)][/us/pl/107/251/s302/b], Oct. 26, 2002, [116 Stat. 1644][/us/stat/116/1644], which required the Secretary to submit a report to Congress, if the Secretary issued regulations revising the definition of a health professional shortage area under this section and standards concerning priority of such an area under [section 254f–1 of this title][/us/usc/t42/s254f–1], was repealed by [Pub. L. 108–163, § 2(f)(2)][/us/pl/108/163/s2/f/2], Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].
+    [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 302(b), Oct. 26, 2002, [116 Stat. 1644][/us/stat/116/1644], which required the Secretary to submit a report to Congress, if the Secretary issued regulations revising the definition of a health professional shortage area under this section and standards concerning priority of such an area under [section 254f–1 of this title][/us/usc/t42/s254f–1], was repealed by [Pub. L. 108–163][/us/pl/108/163], § 2(f)(2), Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].
 
  __Improvement of Site Designation Process__ 
 
-[Pub. L. 107–251, title III, § 302(d)(1)][/us/pl/107/251/s302/d/1], Oct. 26, 2002, [116 Stat. 1644][/us/stat/116/1644], provided that: 
+[Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 302(d)(1), Oct. 26, 2002, [116 Stat. 1644][/us/stat/116/1644], provided that: 
 
 > “The Administrator of the Health Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas.”
 
  __GAO Study__ 
 
-[Pub. L. 107–251, title III, § 302(e)][/us/pl/107/251/s302/e], Oct. 26, 2002, [116 Stat. 1645][/us/stat/116/1645], provided that: 
+[Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 302(e), Oct. 26, 2002, [116 Stat. 1645][/us/stat/116/1645], provided that: 
 
 > “Not later than February 1, 2005, the Comptroller General of the United States shall submit to the Congress a report on the appropriateness of the criteria, including but not limited to infant mortality rates, access to health services taking into account the distance to primary health services, the rate of poverty and ability to pay for health services, and low birth rates, established by the Secretary of Health and Human Services for the designation of health professional shortage areas and whether the deeming of federally qualified health centers and rural health clinics as such areas is appropriate and necessary.”
 
@@ -249,7 +249,7 @@
 
  __Evaluation of Criteria Used To Designate Health Manpower Shortage Areas; Report to Congress__ 
 
-    [Pub. L. 97–35, title XXVII, § 2702(c)][/us/pl/97/35/s2702/c], Aug. 13, 1981, [95 Stat. 903][/us/stat/95/903], directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under [section 254e(b) of this title][/us/usc/t42/s254e/b] to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
+    [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2702(c), Aug. 13, 1981, [95 Stat. 903][/us/stat/95/903], directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under [section 254e(b) of this title][/us/usc/t42/s254e/b] to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
 
 ----------
 
@@ -268,29 +268,29 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s254f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F3
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2270
-[/us/pl/95/142/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs7%2Fd
+[/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1193
-[/us/pl/96/32/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs7%2Fd
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F84
-[/us/pl/97/35/s986/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs986%2Fb%2F4
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F603
-[/us/pl/100/77/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs602
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F515
-[/us/pl/100/177/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs302
+[/us/pl/100/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtIII
 [/us/stat/101/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1003
-[/us/pl/100/607/s802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs802%2Fb%2F2
+[/us/pl/100/607/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVIII
 [/us/stat/102/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3169
-[/us/pl/100/628/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs602%2Fb%2F2
+[/us/pl/100/628/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVI
 [/us/stat/102/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3242
-[/us/pl/101/597/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102
+[/us/pl/101/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtI
 [/us/stat/104/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3014
-[/us/pl/107/251/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fa
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1643
-[/us/pl/108/163/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Ff%2F1
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2021
-[/us/pl/110/355/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355%2Fs3%2Fb
+[/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/stat/122/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3993
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
@@ -301,44 +301,44 @@
 [/us/usc/t42/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256
 [/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
-[/us/pl/108/163/s2/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Ff%2F1%2FA
-[/us/pl/108/163/s2/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Ff%2F1%2FB
-[/us/pl/108/163/s2/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Ff%2F1%2FC
-[/us/pl/108/163/s2/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Ff%2F1%2FD
-[/us/pl/107/251/s302/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fa%2F1%2FA
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/usc/t42/s254g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254g
-[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
-[/us/pl/107/251/s302/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fa%2F1%2FB
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s254b/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fg%2F3
 [/us/usc/t42/s1437a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F1
-[/us/pl/107/251/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fa%2F2
-[/us/pl/107/251/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fa%2F3
-[/us/pl/107/251/s302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fd%2F2
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102%2Fb%2F1
-[/us/pl/101/597/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102%2Fb%2F2
-[/us/pl/101/597/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102%2Fb%2F3
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102%2Fc%2F1
-[/us/pl/101/597/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102%2Fc%2F2
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t42/s300m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102%2Fa
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s102/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs102%2Fc%2F4
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t42/s300m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/pl/100/177/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs302%2F1
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
-[/us/pl/100/177/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs302%2F2
-[/us/pl/97/35/s2702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2702%2Fa
-[/us/pl/97/35/s986/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs986%2Fb%2F4
-[/us/pl/97/35/s2702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2702%2Fc
-[/us/pl/97/35/s2702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2702%2Fb
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/usc/t42/s247e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247e
 [/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
@@ -346,12 +346,12 @@
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3
 [/us/usc/t42/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233
-[/us/pl/100/628/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs631
+[/us/pl/100/628/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVI
 [/us/stat/102/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3244
 [/us/usc/t42/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256
 [/us/usc/t42/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256
 [/us/usc/t42/s290aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%933
-[/us/pl/100/607/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs831
+[/us/pl/100/607/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVIII
 [/us/stat/102/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3171
 [/us/usc/t42/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256
 [/us/usc/t42/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256
@@ -359,20 +359,20 @@
 [/us/pl/97/35/s986/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs986%2Fb%2F4
 [/us/pl/97/35/s986/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs986%2Fc
 [/us/usc/t42/s249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249
-[/us/pl/95/142/s7/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs7%2Fe%2F1
+[/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1194
-[/us/pl/107/251/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fb
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1644
 [/us/usc/t42/s254f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f%E2%80%931
-[/us/pl/108/163/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Ff%2F2
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2022
-[/us/pl/107/251/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fd%2F1
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1644
-[/us/pl/107/251/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs302%2Fe
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1645
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/97/35/s2702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2702%2Fc
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F903
 [/us/usc/t42/s254e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e%2Fb
 

@@ -55,7 +55,7 @@
 
         For any fiscal year for which the amount appropriated under subsection (a) of this section is not less than $10,000,000, not more than 50 percent of such amount shall be used for activities carried out under [section 15081(2)(A) of this title][/us/usc/t42/s15081/2/A].
 
-([Pub. L. 106–402, title I, § 163][/us/pl/106/402/s163], Oct. 30, 2000, [114 Stat. 1727][/us/stat/114/1727].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 163, Oct. 30, 2000, [114 Stat. 1727][/us/stat/114/1727].)
 
 ----------
 
@@ -70,7 +70,7 @@
 [/us/usc/t42/s15063/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fc%2F4
 [/us/usc/t42/s15063/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fc%2F4
 [/us/usc/t42/s15081/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15081%2F2%2FA
-[/us/pl/106/402/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs163
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1727
 
 

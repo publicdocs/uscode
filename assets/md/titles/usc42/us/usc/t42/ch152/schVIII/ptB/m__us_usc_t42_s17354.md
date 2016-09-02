@@ -41,7 +41,7 @@
 
             (D) total representational expenses.
 
-([Pub. L. 110–140, title IX, § 924][/us/pl/110/140/s924], Dec. 19, 2007, [121 Stat. 1736][/us/stat/121/1736].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 924, Dec. 19, 2007, [121 Stat. 1736][/us/stat/121/1736].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s17355/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17355%2Fa%2F6
-[/us/pl/110/140/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs924
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1736
 
 

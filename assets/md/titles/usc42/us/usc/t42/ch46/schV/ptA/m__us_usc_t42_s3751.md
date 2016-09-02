@@ -85,7 +85,7 @@
 
         Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indirectly, of funds provided under this part to provide security at a public event, such as a political convention or major sports event, so long as such security is provided under applicable laws and procedures.
 
-([Pub. L. 90–351, title I, § 501][/us/pl/90/351/s501], as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)][/us/pl/109/162/s1111/a/2/C], Jan. 5, 2006, [119 Stat. 3095][/us/stat/119/3095]; amended [Pub. L. 109–271, § 8(h)][/us/pl/109/271/s8/h], Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 501, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(a)(2)(C), Jan. 5, 2006, [119 Stat. 3095][/us/stat/119/3095]; amended [Pub. L. 109–271][/us/pl/109/271], § 8(h), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
 
  __References in Text__ 
 
@@ -112,10 +112,10 @@
 
 [/us/usc/t42/s3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3755
 [/us/usc/t42/s3750/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750%2Fb
-[/us/pl/90/351/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs501
-[/us/pl/109/162/s1111/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fa%2F2%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3095
-[/us/pl/109/271/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fh
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F767
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

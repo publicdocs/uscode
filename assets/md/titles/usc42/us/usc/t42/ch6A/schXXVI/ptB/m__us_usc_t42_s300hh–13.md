@@ -37,11 +37,11 @@
 
         Not later than 180 days after June 12, 2002, and periodically thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the activities under this section.
 
-([Pub. L. 107–188, title I, § 126][/us/pl/107/188/s126], June 12, 2002, [116 Stat. 615][/us/stat/116/615].)
+([Pub. L. 107–188, title I][/us/pl/107/188/tI], § 126, June 12, 2002, [116 Stat. 615][/us/stat/116/615].)
 
  __References in Text__ 
 
-    [Section 247d–6 of this title][/us/usc/t42/s247d–6], referred to in subsec. (c), was amended by [Pub. L. 109–417, title III, § 304][/us/pl/109/417/s304], Dec. 19, 2006, [120 Stat. 2859][/us/stat/120/2859], and as so amended, subsec. (a) of section 247d–6 no longer relates to a working group.
+    [Section 247d–6 of this title][/us/usc/t42/s247d–6], referred to in subsec. (c), was amended by [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 304, Dec. 19, 2006, [120 Stat. 2859][/us/stat/120/2859], and as so amended, subsec. (a) of section 247d–6 no longer relates to a working group.
 
  __Codification__ 
 
@@ -54,10 +54,10 @@
 ----------
 ----------
 
-[/us/pl/107/188/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs126
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F615
 [/us/usc/t42/s247d–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936
-[/us/pl/109/417/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs304
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2859
 
 

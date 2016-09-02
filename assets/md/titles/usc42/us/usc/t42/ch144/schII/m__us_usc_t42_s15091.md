@@ -57,7 +57,7 @@
 
         It is the policy of the United States that all programs, projects, and activities funded under this subchapter shall be family-centered and family-directed, and shall be provided in a manner consistent with the goal of providing families of children with disabilities with the support the families need to raise their children at home.
 
-([Pub. L. 106–402, title II, § 202][/us/pl/106/402/s202], Oct. 30, 2000, [114 Stat. 1728][/us/stat/114/1728].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 202, Oct. 30, 2000, [114 Stat. 1728][/us/stat/114/1728].)
 
  __Short Title__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs202
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1728
 [/us/pl/106/402/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs201
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001

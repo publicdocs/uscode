@@ -95,11 +95,11 @@
 
         If a State intends to apply for a grant under section 12339  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title to be used for the same calendar year as the grant under this section, such State shall include in the application for a grant under this section a description of plans for family resource and support programs and for the coordination of the use of all funds received under this part.
 
-([Pub. L. 101–501, title IX, § 931][/us/pl/101/501/s931], Nov. 3, 1990, [104 Stat. 1271][/us/stat/104/1271].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 931, Nov. 3, 1990, [104 Stat. 1271][/us/stat/104/1271].)
 
  __References in Text__ 
 
-    [Section 12339 of this title][/us/usc/t42/s12339], referred to in subsec. (f), was repealed by [Pub. L. 103–252, title IV, § 401(b)(1)][/us/pl/103/252/s401/b/1], May 18, 1994, [108 Stat. 672][/us/stat/108/672].
+    [Section 12339 of this title][/us/usc/t42/s12339], referred to in subsec. (f), was repealed by [Pub. L. 103–252, title IV][/us/pl/103/252/tIV], § 401(b)(1), May 18, 1994, [108 Stat. 672][/us/stat/108/672].
 
 ----------
 
@@ -115,10 +115,10 @@
 [/us/usc/t42/s12340/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12340%2Fa
 [/us/usc/t42/s12338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12338
 [/us/usc/t42/s12338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12338
-[/us/pl/101/501/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs931
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1271
 [/us/usc/t42/s12339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12339
-[/us/pl/103/252/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs401%2Fb%2F1
+[/us/pl/103/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIV
 [/us/stat/108/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F672
 
 

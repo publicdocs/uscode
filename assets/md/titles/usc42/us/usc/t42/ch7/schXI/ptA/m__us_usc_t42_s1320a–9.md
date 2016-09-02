@@ -211,39 +211,39 @@
 
         An Indian tribe, tribal organization, or tribal consortium that has elected to operate a program under part E of subchapter IV in accordance with [section 679c of this title][/us/usc/t42/s679c] shall be considered a State for purposes of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1130, as added [Pub. L. 103–432, title II, § 208][/us/pl/103/432/s208], Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457]; amended [Pub. L. 105–89, title III, § 301(a)][/us/pl/105/89/s301/a], (c), Nov. 19, 1997, [111 Stat. 2127][/us/stat/111/2127], 2128; [Pub. L. 108–40, § 5][/us/pl/108/40/s5], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 109–288, § 6(f)(8)][/us/pl/109/288/s6/f/8], Sept. 28, 2006, [120 Stat. 1248][/us/stat/120/1248]; [Pub. L. 112–34, title II, § 201][/us/pl/112/34/s201], Sept. 30, 2011, [125 Stat. 378][/us/stat/125/378].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1130, as added [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 208, Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457]; amended [Pub. L. 105–89, title III][/us/pl/105/89/tIII], § 301(a), (c), Nov. 19, 1997, [111 Stat. 2127][/us/stat/111/2127], 2128; [Pub. L. 108–40][/us/pl/108/40], § 5, June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 109–288][/us/pl/109/288], § 6(f)(8), Sept. 28, 2006, [120 Stat. 1248][/us/stat/120/1248]; [Pub. L. 112–34, title II][/us/pl/112/34/tII], § 201, Sept. 30, 2011, [125 Stat. 378][/us/stat/125/378].)
 
  __Prior Provisions__ 
 
-    A prior section 1130 of act Aug. 14, 1935, was classified to [section 1320b of this title][/us/usc/t42/s1320b] prior to repeal by [Pub. L. 93–647, § 3(e)(1)][/us/pl/93/647/s3/e/1], Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349].
+    A prior section 1130 of act Aug. 14, 1935, was classified to [section 1320b of this title][/us/usc/t42/s1320b] prior to repeal by [Pub. L. 93–647][/us/pl/93/647], § 3(e)(1), Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349].
 
  __Amendments__ 
 
-    2011—Subsec. (a)(2). [Pub. L. 112–34, § 201(1)(A)][/us/pl/112/34/s201/1/A], amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 demonstration projects under paragraph (1) in each of fiscal years 1998 through 2003.”
+    2011—Subsec. (a)(2). [Pub. L. 112–34][/us/pl/112/34], § 201(1)(A), amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 demonstration projects under paragraph (1) in each of fiscal years 1998 through 2003.”
 
-    Subsec. (a)(3). [Pub. L. 112–34, § 201(1)(B)][/us/pl/112/34/s201/1/B], added par. (3) and struck out former par. (3) which related to certain types of proposals required to be considered.
+    Subsec. (a)(3). [Pub. L. 112–34][/us/pl/112/34], § 201(1)(B), added par. (3) and struck out former par. (3) which related to certain types of proposals required to be considered.
 
-    Subsec. (a)(5). [Pub. L. 112–34, § 201(1)(C)][/us/pl/112/34/s201/1/C], inserted “and the ability of the State to implement a corrective action plan approved under [section 1320a–2a of this title][/us/usc/t42/s1320a–2a]” before the period.
+    Subsec. (a)(5). [Pub. L. 112–34][/us/pl/112/34], § 201(1)(C), inserted “and the ability of the State to implement a corrective action plan approved under [section 1320a–2a of this title][/us/usc/t42/s1320a–2a]” before the period.
 
-    Subsec. (a)(6) to (8). [Pub. L. 112–34, § 201(1)(D)][/us/pl/112/34/s201/1/D], added pars. (6) to (8).
+    Subsec. (a)(6) to (8). [Pub. L. 112–34][/us/pl/112/34], § 201(1)(D), added pars. (6) to (8).
 
-    Subsec. (d). [Pub. L. 112–34, § 201(2)][/us/pl/112/34/s201/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “A demonstration project under this section may be conducted for not more than 5 years, unless in the judgment of the Secretary, the demonstration project should be allowed to continue.”
+    Subsec. (d). [Pub. L. 112–34][/us/pl/112/34], § 201(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “A demonstration project under this section may be conducted for not more than 5 years, unless in the judgment of the Secretary, the demonstration project should be allowed to continue.”
 
-    Subsec. (e)(1). [Pub. L. 112–34, § 201(3)(A)][/us/pl/112/34/s201/3/A], struck out “(which shall provide, where appropriate, for random assignment of children and families to groups served under the project and to control groups)” before the semicolon.
+    Subsec. (e)(1). [Pub. L. 112–34][/us/pl/112/34], § 201(3)(A), struck out “(which shall provide, where appropriate, for random assignment of children and families to groups served under the project and to control groups)” before the semicolon.
 
-    Subsec. (e)(7), (8). [Pub. L. 112–34, § 201(3)(B)][/us/pl/112/34/s201/3/B]–(D), added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (e)(7), (8). [Pub. L. 112–34][/us/pl/112/34], § 201(3)(B)–(D), added par. (7) and redesignated former par. (7) as (8).
 
-    Subsecs. (f) to (h). [Pub. L. 112–34, § 201(4)][/us/pl/112/34/s201/4], (5), added subsecs. (f) and (g), redesignated former subsec. (g) as (h), and struck out former subsec. (f) which related to evaluation of, and report on, demonstration projects.
+    Subsecs. (f) to (h). [Pub. L. 112–34][/us/pl/112/34], § 201(4), (5), added subsecs. (f) and (g), redesignated former subsec. (g) as (h), and struck out former subsec. (f) which related to evaluation of, and report on, demonstration projects.
 
-    Subsec. (i). [Pub. L. 112–34, § 201(6)][/us/pl/112/34/s201/6], added subsec. (i).
+    Subsec. (i). [Pub. L. 112–34][/us/pl/112/34], § 201(6), added subsec. (i).
 
     2006—Subsec. (b)(1). [Pub. L. 109–288][/us/pl/109/288] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any provision of [section 627 of this title][/us/usc/t42/s627] (as in effect before April 1, 1996), [section 622(b)(9) of this title][/us/usc/t42/s622/b/9] (as in effect after such date), or [section 679 of this title][/us/usc/t42/s679]; or”.
 
     2003—Subsec. (a)(2). [Pub. L. 108–40][/us/pl/108/40] substituted “2003” for “2002”.
 
-    1997—Subsec. (a). [Pub. L. 105–89, § 301(a)][/us/pl/105/89/s301/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.”
+    1997—Subsec. (a). [Pub. L. 105–89][/us/pl/105/89], § 301(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.”
 
-    Subsec. (d). [Pub. L. 105–89, § 301(c)][/us/pl/105/89/s301/c], inserted before period at end “, unless in the judgment of the Secretary, the demonstration project should be allowed to continue”.
+    Subsec. (d). [Pub. L. 105–89][/us/pl/105/89], § 301(c), inserted before period at end “, unless in the judgment of the Secretary, the demonstration project should be allowed to continue”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -259,7 +259,7 @@
 
  __Construction of 1997 Amendment__ 
 
-[Pub. L. 105–89, title III, § 301(b)][/us/pl/105/89/s301/b], Nov. 19, 1997, [111 Stat. 2128][/us/stat/111/2128], provided that: 
+[Pub. L. 105–89, title III][/us/pl/105/89/tIII], § 301(b), Nov. 19, 1997, [111 Stat. 2128][/us/stat/111/2128], provided that: 
 
 > “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting the terms and conditions of any demonstration project approved under section 1130 of the Social Security Act ([42 U.S.C. 1320a–9][/us/usc/t42/s1320a–9]) before the date of the enactment of this Act \[Nov. 19, 1997\].”
 
@@ -281,36 +281,36 @@
 [/us/usc/t42/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679
 [/us/usc/t42/s679c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679c
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/432/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs208
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4457
-[/us/pl/105/89/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs301%2Fa
+[/us/pl/105/89/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIII
 [/us/stat/111/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2127
-[/us/pl/108/40/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs5
+[/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/stat/117/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F837
-[/us/pl/109/288/s6/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F8
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1248
-[/us/pl/112/34/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201
+[/us/pl/112/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtII
 [/us/stat/125/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F378
 [/us/usc/t42/s1320b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b
-[/us/pl/93/647/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs3%2Fe%2F1
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2349
-[/us/pl/112/34/s201/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F1%2FA
-[/us/pl/112/34/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F1%2FB
-[/us/pl/112/34/s201/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F1%2FC
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/usc/t42/s1320a–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%932a
-[/us/pl/112/34/s201/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F1%2FD
-[/us/pl/112/34/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F2
-[/us/pl/112/34/s201/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F3%2FA
-[/us/pl/112/34/s201/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F3%2FB
-[/us/pl/112/34/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F4
-[/us/pl/112/34/s201/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs201%2F6
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs627
 [/us/usc/t42/s622/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622%2Fb%2F9
 [/us/usc/t42/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
-[/us/pl/105/89/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs301%2Fa
-[/us/pl/105/89/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs301%2Fc
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621
@@ -320,7 +320,7 @@
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/105/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs501
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
-[/us/pl/105/89/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs301%2Fb
+[/us/pl/105/89/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIII
 [/us/stat/111/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2128
 [/us/usc/t42/s1320a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%939
 

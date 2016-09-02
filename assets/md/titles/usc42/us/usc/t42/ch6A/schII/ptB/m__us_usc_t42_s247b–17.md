@@ -145,7 +145,7 @@
 
             For the purpose of carrying out this subsection, there is authorized to be appropriated $16,500,000 for the period of fiscal years 2007 through 2009 and $18,000,000 for the period of fiscal years 2012 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317P, as added [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title V, § 516(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–72; amended [Pub. L. 109–475, § 2][/us/pl/109/475/s2], Jan. 12, 2007, [120 Stat. 3565][/us/stat/120/3565]; [Pub. L. 111–324, § 1][/us/pl/111/324/s1], Dec. 22, 2010, [124 Stat. 3536][/us/stat/124/3536].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317P, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title V, § 516(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–72; amended [Pub. L. 109–475][/us/pl/109/475], § 2, Jan. 12, 2007, [120 Stat. 3565][/us/stat/120/3565]; [Pub. L. 111–324][/us/pl/111/324], § 1, Dec. 22, 2010, [124 Stat. 3536][/us/stat/124/3536].)
 
  __References in Text__ 
 
@@ -155,15 +155,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d)(4). [Pub. L. 111–324, § 1(b)][/us/pl/111/324/s1/b], added par. (4). Former par. (4) redesignated (6).
+    2010—Subsec. (d)(4). [Pub. L. 111–324][/us/pl/111/324], § 1(b), added par. (4). Former par. (4) redesignated (6).
 
-    [Pub. L. 111–324, § 1(a)(1)][/us/pl/111/324/s1/a/1], inserted “and $18,000,000 for the period of fiscal years 2012 through 2014” after “2009”.
+    [Pub. L. 111–324][/us/pl/111/324], § 1(a)(1), inserted “and $18,000,000 for the period of fiscal years 2012 through 2014” after “2009”.
 
-    Subsec. (d)(6). [Pub. L. 111–324, § 1(a)(2)][/us/pl/111/324/s1/a/2], redesignated par. (4) as (6).
+    Subsec. (d)(6). [Pub. L. 111–324][/us/pl/111/324], § 1(a)(2), redesignated par. (4) as (6).
 
-    2007—[Pub. L. 109–475, § 2(1)][/us/pl/109/475/s2/1], inserted “(Johanna’s Law)” after “papillomavirus” in section catchline.
+    2007—[Pub. L. 109–475][/us/pl/109/475], § 2(1), inserted “(Johanna’s Law)” after “papillomavirus” in section catchline.
 
-    Subsec. (d). [Pub. L. 109–475, § 2(2)][/us/pl/109/475/s2/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–475][/us/pl/109/475], § 2(2), added subsec. (d).
 
 ----------
 
@@ -173,20 +173,20 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/475/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F475%2Fs2
+[/us/pl/109/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F475
 [/us/stat/120/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3565
-[/us/pl/111/324/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324%2Fs1
+[/us/pl/111/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324
 [/us/stat/124/3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3536
 [/us/pl/109/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F475
 [/us/stat/120/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3565
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/111/324/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324%2Fs1%2Fb
-[/us/pl/111/324/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324%2Fs1%2Fa%2F1
-[/us/pl/111/324/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324%2Fs1%2Fa%2F2
-[/us/pl/109/475/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F475%2Fs2%2F1
-[/us/pl/109/475/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F475%2Fs2%2F2
+[/us/pl/111/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324
+[/us/pl/111/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324
+[/us/pl/111/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F324
+[/us/pl/109/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F475
+[/us/pl/109/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F475
 
 

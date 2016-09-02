@@ -17,7 +17,7 @@
 
     A funding agreement for a grant under section 300x or 300x–21 of this title is that the State involved will make the plan required in [section 300x–1 of this title][/us/usc/t42/s300x–1], and the plan required in [section 300x–32 of this title][/us/usc/t42/s300x–32], respectively, public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during the development of the plan (including any revisions) and after the submission of the plan to the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1941, as added [Pub. L. 102–321, title II, § 203(a)][/us/pl/102/321/s203/a], July 10, 1992, [106 Stat. 403][/us/stat/106/403].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1941, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 203(a), July 10, 1992, [106 Stat. 403][/us/stat/106/403].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t42/s300x–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931
 [/us/usc/t42/s300x–32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9332
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fa
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F403
 
 

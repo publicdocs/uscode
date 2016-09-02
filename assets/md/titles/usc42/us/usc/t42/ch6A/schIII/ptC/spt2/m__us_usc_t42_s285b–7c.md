@@ -29,7 +29,7 @@
 
         (3) developing new tools for the elimination of tuberculosis, including public health interventions and methods to enhance detection and response to outbreaks of tuberculosis, including multidrug resistant tuberculosis.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 424C, as added [Pub. L. 110–392, title II, § 201][/us/pl/110/392/s201], Oct. 13, 2008, [122 Stat. 4201][/us/stat/122/4201].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 424C, as added [Pub. L. 110–392, title II][/us/pl/110/392/tII], § 201, Oct. 13, 2008, [122 Stat. 4201][/us/stat/122/4201].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/392/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2Fs201
+[/us/pl/110/392/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F392%2FtII
 [/us/stat/122/4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4201
 
 

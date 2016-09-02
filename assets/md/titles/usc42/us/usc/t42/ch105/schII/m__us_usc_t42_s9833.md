@@ -17,7 +17,7 @@
 
     The Secretary may, upon application by an agency which is eligible for designation as a Head Start agency pursuant to [section 9836 of this title][/us/usc/t42/s9836], provide financial assistance to such agency for a period of 5 years for the planning, conduct, administration, and evaluation of a Head Start program focused primarily upon children from low-income families who have not reached the age of compulsory school attendance which (1) will provide such comprehensive health, education, parental involvement, nutritional, social, and other services as will enable the children to attain their full potential and attain school readiness; and (2) will provide for direct participation of the parents of such children in the development, conduct, and overall program direction at the local level.
 
-([Pub. L. 97–35, title VI, § 638][/us/pl/97/35/s638], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499]; [Pub. L. 100–297, title II, § 2504][/us/pl/100/297/s2504], Apr. 28, 1988, [102 Stat. 330][/us/stat/102/330]; [Pub. L. 103–252, title I][/us/pl/103/252], §§ 103, 112(c), May 18, 1994, [108 Stat. 625][/us/stat/108/625], 641; [Pub. L. 105–285, title I, § 104][/us/pl/105/285/s104], Oct. 27, 1998, [112 Stat. 2705][/us/stat/112/2705]; [Pub. L. 110–134, § 4][/us/pl/110/134/s4], Dec. 12, 2007, [121 Stat. 1367][/us/stat/121/1367].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 638, Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499]; [Pub. L. 100–297, title II][/us/pl/100/297/tII], § 2504, Apr. 28, 1988, [102 Stat. 330][/us/stat/102/330]; [Pub. L. 103–252, title I][/us/pl/103/252/tI], §§ 103, 112(c), May 18, 1994, [108 Stat. 625][/us/stat/108/625], 641; [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 104, Oct. 27, 1998, [112 Stat. 2705][/us/stat/112/2705]; [Pub. L. 110–134][/us/pl/110/134], § 4, Dec. 12, 2007, [121 Stat. 1367][/us/stat/121/1367].)
 
  __Amendments__ 
 
@@ -45,15 +45,15 @@
 ----------
 
 [/us/usc/t42/s9836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836
-[/us/pl/97/35/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs638
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
-[/us/pl/100/297/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2504
+[/us/pl/100/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtII
 [/us/stat/102/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F330
-[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F625
-[/us/pl/105/285/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs104
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2705
-[/us/pl/110/134/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs4
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1367
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285

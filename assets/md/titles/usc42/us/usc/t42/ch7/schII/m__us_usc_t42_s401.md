@@ -243,7 +243,7 @@
 
         Amounts transferred in accordance with this subsection shall be in satisfaction of certain outstanding obligations for deemed wage credits for 2000 and 2001.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 201, [49 Stat. 622][/us/stat/49/622]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362]; [Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title IX, § 902, [58 Stat. 93][/us/stat/58/93]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(a), [64 Stat. 521][/us/stat/64/521]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(e), [70 Stat. 819][/us/stat/70/819]; [Pub. L. 85–840, title II, § 205(a)][/us/pl/85/840/s205/a], Aug. 28, 1958, [72 Stat. 1021][/us/stat/72/1021]; [Pub. L. 86–346, title I, § 104(2)][/us/pl/86/346/s104/2], Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622]; [Pub. L. 86–778, title VII, § 701(a)][/us/pl/86/778/s701/a]–(e), Sept. 13, 1960, [74 Stat. 992][/us/stat/74/992], 993; [Pub. L. 89–97, title I, § 108(a)][/us/pl/89/97/s108/a], title III, §§ 305, 327, July 30, 1965, [79 Stat. 338][/us/stat/79/338], 370, 400; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 110, 169, Jan. 2, 1968, [81 Stat. 837][/us/stat/81/837], 875; [Pub. L. 91–172, title X, § 1005][/us/pl/91/172/s1005], Dec. 30, 1969, [83 Stat. 741][/us/stat/83/741]; [Pub. L. 92–336, title II, § 205][/us/pl/92/336/s205], July 1, 1972, [86 Stat. 422][/us/stat/86/422]; [Pub. L. 92–603, title I][/us/pl/92/603], §§ 132(a)–(c), 136, title III, § 305(a), Oct. 30, 1972, [86 Stat. 1360][/us/stat/86/1360], 1364, 1484; [Pub. L. 93–233, § 7][/us/pl/93/233/s7], Dec. 31, 1973, [87 Stat. 955][/us/stat/87/955]; [Pub. L. 94–202, § 8(d)][/us/pl/94/202/s8/d], Jan. 2, 1976, [89 Stat. 1137][/us/stat/89/1137]; [Pub. L. 95–216, title I, § 102(a)][/us/pl/95/216/s102/a], Dec. 20, 1977, [91 Stat. 1513][/us/stat/91/1513]; [Pub. L. 96–265, title III, § 310(a)][/us/pl/96/265/s310/a], title V, § 505(a)(5), June 9, 1980, [94 Stat. 459][/us/stat/94/459], 474; [Pub. L. 96–403, § 1][/us/pl/96/403/s1], Oct. 9, 1980, [94 Stat. 1709][/us/stat/94/1709]; [Pub. L. 97–123, § 1(a)][/us/pl/97/123/s1/a], Dec. 29, 1981, [95 Stat. 1659][/us/stat/95/1659]; [Pub. L. 98–21, title I][/us/pl/98/21], §§ 126, 141(a), 142(a)(1), (2)(A), (3), (4), 152(a), 154(a), title III, § 341(a), Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91], 98–100, 105, 107, 135; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2661(a), 2663(a)(1), (j)(2)(A)(i), July 18, 1984, [98 Stat. 1156][/us/stat/98/1156], 1160, 1170; [Pub. L. 99–272, title IX, § 9213(a)][/us/pl/99/272/s9213/a], Apr. 7, 1986, [100 Stat. 180][/us/stat/100/180]; [Pub. L. 100–360, title II, § 212(c)(1)][/us/pl/100/360/s212/c/1], July 1, 1988, [102 Stat. 741][/us/stat/102/741]; [Pub. L. 100–647, title VIII, § 8005(a)][/us/pl/100/647/s8005/a], Nov. 10, 1988, [102 Stat. 3781][/us/stat/102/3781]; [Pub. L. 101–234, title II, § 202(a)][/us/pl/101/234/s202/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–508, title V][/us/pl/101/508], §§ 5106(c), 5115(a), title XIII, § 13304, Nov. 5, 1990, [104 Stat. 1388–268][/us/stat/104/1388-268], 1388–274, 1388–627; [Pub. L. 103–296, title I, § 107(b)][/us/pl/103/296/s107/b], title III, §§ 301(a), (b), 321(a)(1), (c)(1)(A)(i), (B)(i), (C), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1517, 1535, 1537; [Pub. L. 103–387, § 3(a)][/us/pl/103/387/s3/a], (b), Oct. 22, 1994, [108 Stat. 4074][/us/stat/108/4074], 4075; [Pub. L. 104–121, title I, § 103(a)][/us/pl/104/121/s103/a], Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848]; [Pub. L. 105–277, div. J, title IV, § 4005(b)][/us/pl/105/277/s4005/b], Oct. 21, 1998, [112 Stat. 2681–911][/us/stat/112/2681-911]; [Pub. L. 106–169, title II, § 251(b)(1)][/us/pl/106/169/s251/b/1], Dec. 14, 1999, [113 Stat. 1854][/us/stat/113/1854]; [Pub. L. 106–170, title III, § 301(b)(1)(B)][/us/pl/106/170/s301/b/1/B], Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902]; [Pub. L. 108–173, title I, § 101(e)(3)(A)][/us/pl/108/173/s101/e/3/A], (B), Dec. 8, 2003, [117 Stat. 2150][/us/stat/117/2150], 2151; [Pub. L. 108–203, title IV, § 420(a)][/us/pl/108/203/s420/a], Mar. 2, 2004, [118 Stat. 535][/us/stat/118/535]; [Pub. L. 114–74, title VIII, § 833(1)][/us/pl/114/74/s833/1], (2), Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 201, [49 Stat. 622][/us/stat/49/622]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362]; [Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title IX, § 902, [58 Stat. 93][/us/stat/58/93]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(a), [64 Stat. 521][/us/stat/64/521]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(e), [70 Stat. 819][/us/stat/70/819]; [Pub. L. 85–840, title II][/us/pl/85/840/tII], § 205(a), Aug. 28, 1958, [72 Stat. 1021][/us/stat/72/1021]; [Pub. L. 86–346, title I][/us/pl/86/346/tI], § 104(2), Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622]; [Pub. L. 86–778, title VII][/us/pl/86/778/tVII], § 701(a)–(e), Sept. 13, 1960, [74 Stat. 992][/us/stat/74/992], 993; [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 108(a), title III, §§ 305, 327, July 30, 1965, [79 Stat. 338][/us/stat/79/338], 370, 400; [Pub. L. 90–248, title I][/us/pl/90/248/tI], §§ 110, 169, Jan. 2, 1968, [81 Stat. 837][/us/stat/81/837], 875; [Pub. L. 91–172, title X][/us/pl/91/172/tX], § 1005, Dec. 30, 1969, [83 Stat. 741][/us/stat/83/741]; [Pub. L. 92–336, title II][/us/pl/92/336/tII], § 205, July 1, 1972, [86 Stat. 422][/us/stat/86/422]; [Pub. L. 92–603, title I][/us/pl/92/603/tI], §§ 132(a)–(c), 136, title III, § 305(a), Oct. 30, 1972, [86 Stat. 1360][/us/stat/86/1360], 1364, 1484; [Pub. L. 93–233][/us/pl/93/233], § 7, Dec. 31, 1973, [87 Stat. 955][/us/stat/87/955]; [Pub. L. 94–202][/us/pl/94/202], § 8(d), Jan. 2, 1976, [89 Stat. 1137][/us/stat/89/1137]; [Pub. L. 95–216, title I][/us/pl/95/216/tI], § 102(a), Dec. 20, 1977, [91 Stat. 1513][/us/stat/91/1513]; [Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 310(a), title V, § 505(a)(5), June 9, 1980, [94 Stat. 459][/us/stat/94/459], 474; [Pub. L. 96–403][/us/pl/96/403], § 1, Oct. 9, 1980, [94 Stat. 1709][/us/stat/94/1709]; [Pub. L. 97–123][/us/pl/97/123], § 1(a), Dec. 29, 1981, [95 Stat. 1659][/us/stat/95/1659]; [Pub. L. 98–21, title I][/us/pl/98/21/tI], §§ 126, 141(a), 142(a)(1), (2)(A), (3), (4), 152(a), 154(a), title III, § 341(a), Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91], 98–100, 105, 107, 135; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], §§ 2661(a), 2663(a)(1), (j)(2)(A)(i), July 18, 1984, [98 Stat. 1156][/us/stat/98/1156], 1160, 1170; [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9213(a), Apr. 7, 1986, [100 Stat. 180][/us/stat/100/180]; [Pub. L. 100–360, title II][/us/pl/100/360/tII], § 212(c)(1), July 1, 1988, [102 Stat. 741][/us/stat/102/741]; [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8005(a), Nov. 10, 1988, [102 Stat. 3781][/us/stat/102/3781]; [Pub. L. 101–234, title II][/us/pl/101/234/tII], § 202(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], §§ 5106(c), 5115(a), title XIII, § 13304, Nov. 5, 1990, [104 Stat. 1388–268][/us/stat/104/1388-268], 1388–274, 1388–627; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(b), title III, §§ 301(a), (b), 321(a)(1), (c)(1)(A)(i), (B)(i), (C), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1517, 1535, 1537; [Pub. L. 103–387][/us/pl/103/387], § 3(a), (b), Oct. 22, 1994, [108 Stat. 4074][/us/stat/108/4074], 4075; [Pub. L. 104–121, title I][/us/pl/104/121/tI], § 103(a), Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4005(b), Oct. 21, 1998, [112 Stat. 2681–911][/us/stat/112/2681-911]; [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(b)(1), Dec. 14, 1999, [113 Stat. 1854][/us/stat/113/1854]; [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 301(b)(1)(B), Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902]; [Pub. L. 108–173, title I][/us/pl/108/173/tI], § 101(e)(3)(A), (B), Dec. 8, 2003, [117 Stat. 2150][/us/stat/117/2150], 2151; [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 420(a), Mar. 2, 2004, [118 Stat. 535][/us/stat/118/535]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 833(1), (2), Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613].)
 
  __References in Text__ 
 
@@ -251,7 +251,7 @@
 
     Sections 1426 and 1420(c) of the Internal Revenue Code of 1939, referred to in subsec. (a)(3), were a part of subchapter A of chapter 9 of the 1939 Code. See above.
 
-    Internal Revenue Code of 1954, referred to in subsecs. (a)(3), (4) and (b)(1)(A), (2)(A), redesignated Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].
+    Internal Revenue Code of 1954, referred to in subsecs. (a)(3), (4) and (b)(1)(A), (2)(A), redesignated Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].
 
     Subchapter E of chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), was comprised of sections 480 to 482, and was repealed (subject to certain exceptions) by section 7851(a)(1)(A) of the Internal Revenue Code of 1986.
 
@@ -261,39 +261,39 @@
 
     Chapters 2 and 21 and subtitle F of the Internal Revenue Code of 1986, referred to in subsec. (g)(1)(A), (2), are classified to sections 1401 et seq., 3101 et seq., and 6001 et seq., respectively, of Title 26, Internal Revenue Code.
 
-    Section 207 or 208 of the Social Security Independence and Program Improvements Act of 1994, referred to in subsec. (g)(1)(A), are sections 207 and 208 of [Pub. L. 103–296][/us/pl/103/296]. [Section 208 of Pub. L. 103–296][/us/pl/103/296/s208] is set out as a note under [section 1382 of this title][/us/usc/t42/s1382]. [Section 207 of Pub. L. 103–296][/us/pl/103/296/s207] was set out as a note under [section 1382 of this title][/us/usc/t42/s1382] prior to repeal by [Pub. L. 104–193, title II, § 212(b)(2)][/us/pl/104/193/s212/b/2], (d), Aug. 22, 1996, [110 Stat. 2193][/us/stat/110/2193], 2194.
+    Section 207 or 208 of the Social Security Independence and Program Improvements Act of 1994, referred to in subsec. (g)(1)(A), are sections 207 and 208 of [Pub. L. 103–296][/us/pl/103/296]. [Section 208 of Pub. L. 103–296][/us/pl/103/296/s208] is set out as a note under [section 1382 of this title][/us/usc/t42/s1382]. [Section 207 of Pub. L. 103–296][/us/pl/103/296/s207] was set out as a note under [section 1382 of this title][/us/usc/t42/s1382] prior to repeal by [Pub. L. 104–193, title II][/us/pl/104/193/tII], § 212(b)(2), (d), Aug. 22, 1996, [110 Stat. 2193][/us/stat/110/2193], 2194.
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(R) to (T). [Pub. L. 114–74, § 833(1)][/us/pl/114/74/s833/1], substituted “(R) 1.80 per centum of the wages (as so defined) paid after December 31, 1999, and before January 1, 2016, and so reported, (S) 2.37 per centum of the wages (as so defined) paid after December 31, 2015, and before January 1, 2019, and so reported, and (T) 1.80 per centum of the wages (as so defined) paid after December 31, 2018, and so reported,” for “and (R) 1.80 per centum of the wages (as so defined) paid after December 31, 1999, and so reported”.
+    2015—Subsec. (b)(1)(R) to (T). [Pub. L. 114–74][/us/pl/114/74], § 833(1), substituted “(R) 1.80 per centum of the wages (as so defined) paid after December 31, 1999, and before January 1, 2016, and so reported, (S) 2.37 per centum of the wages (as so defined) paid after December 31, 2015, and before January 1, 2019, and so reported, and (T) 1.80 per centum of the wages (as so defined) paid after December 31, 2018, and so reported,” for “and (R) 1.80 per centum of the wages (as so defined) paid after December 31, 1999, and so reported”.
 
-    Subsec. (b)(2)(R) to (T). [Pub. L. 114–74, § 833(2)][/us/pl/114/74/s833/2], substituted “(R) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999, and before January 1, 2016, (S) 2.37 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 2015, and before January 1, 2019, and (T) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 2018” for “and (R) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999”.
+    Subsec. (b)(2)(R) to (T). [Pub. L. 114–74][/us/pl/114/74], § 833(2), substituted “(R) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999, and before January 1, 2016, (S) 2.37 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 2015, and before January 1, 2019, and (T) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 2018” for “and (R) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999”.
 
     2004—Subsec. (n). [Pub. L. 108–203][/us/pl/108/203] added subsec. (n).
 
-    2003—Subsec. (g)(1)(B)(i)(V), (ii)(III). [Pub. L. 108–173, § 101(e)(3)(A)][/us/pl/108/173/s101/e/3/A], inserted “(and, of such portion, the portion of such costs which should have been borne by the Medicare Prescription Drug Account in such Trust Fund)” after “Trust Fund”.
+    2003—Subsec. (g)(1)(B)(i)(V), (ii)(III). [Pub. L. 108–173][/us/pl/108/173], § 101(e)(3)(A), inserted “(and, of such portion, the portion of such costs which should have been borne by the Medicare Prescription Drug Account in such Trust Fund)” after “Trust Fund”.
 
-    Subsec. (i)(1). [Pub. L. 108–173, § 101(e)(3)(B)][/us/pl/108/173/s101/e/3/B], inserted “(and for the Medicare Prescription Drug Account and the Transitional Assistance Account in such Trust Fund)” after “Federal Supplementary Medical Insurance Trust Fund”.
+    Subsec. (i)(1). [Pub. L. 108–173][/us/pl/108/173], § 101(e)(3)(B), inserted “(and for the Medicare Prescription Drug Account and the Transitional Assistance Account in such Trust Fund)” after “Federal Supplementary Medical Insurance Trust Fund”.
 
-    1999—Subsec. (g)(1)(A). [Pub. L. 106–169, § 251(b)(1)(A)][/us/pl/106/169/s251/b/1/A], inserted “subchapter VIII of this chapter,” after “this subchapter,” in fourth sentence.
+    1999—Subsec. (g)(1)(A). [Pub. L. 106–169][/us/pl/106/169], § 251(b)(1)(A), inserted “subchapter VIII of this chapter,” after “this subchapter,” in fourth sentence.
 
-    Subsec. (g)(1)(B)(i)(I). [Pub. L. 106–169, § 251(b)(1)(B)][/us/pl/106/169/s251/b/1/B], inserted “subchapter VIII of this chapter,” after “this subchapter,”.
+    Subsec. (g)(1)(B)(i)(I). [Pub. L. 106–169][/us/pl/106/169], § 251(b)(1)(B), inserted “subchapter VIII of this chapter,” after “this subchapter,”.
 
-    Subsec. (g)(1)(C)(i). [Pub. L. 106–169, § 251(b)(1)(C)][/us/pl/106/169/s251/b/1/C], inserted “subchapter VIII of this chapter,” after “this subchapter,”.
+    Subsec. (g)(1)(C)(i). [Pub. L. 106–169][/us/pl/106/169], § 251(b)(1)(C), inserted “subchapter VIII of this chapter,” after “this subchapter,”.
 
     Subsec. (k). [Pub. L. 106–170][/us/pl/106/170] substituted “[section 434 of this title][/us/usc/t42/s434]” for “section 505(a) of the Social Security Disability Amendments of 1980”.
 
-    1998—Subsec. (g)(1)(A). [Pub. L. 105–277, § 4005(b)(2)][/us/pl/105/277/s4005/b/2], which directed the amendment of subsec. (g) by inserting “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee” before period at end of paragraph (1)(A), was executed by inserting this material after “the first sentence of this subparagraph” in provisions following cl. (ii) to reflect the probable intent of Congress.
+    1998—Subsec. (g)(1)(A). [Pub. L. 105–277][/us/pl/105/277], § 4005(b)(2), which directed the amendment of subsec. (g) by inserting “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee” before period at end of paragraph (1)(A), was executed by inserting this material after “the first sentence of this subparagraph” in provisions following cl. (ii) to reflect the probable intent of Congress.
 
-    Subsec. (g)(1)(A)(ii). [Pub. L. 105–277, § 4005(b)(1)][/us/pl/105/277/s4005/b/1], inserted before period at end “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee”.
+    Subsec. (g)(1)(A)(ii). [Pub. L. 105–277][/us/pl/105/277], § 4005(b)(1), inserted before period at end “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee”.
 
-    Subsec. (g)(1)(B)(i)(I). [Pub. L. 105–277, § 4005(b)(3)][/us/pl/105/277/s4005/b/3], substituted “subparagraph (A)) and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee,” for “subparagraph (A)),”.
+    Subsec. (g)(1)(B)(i)(I). [Pub. L. 105–277][/us/pl/105/277], § 4005(b)(3), substituted “subparagraph (A)) and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee,” for “subparagraph (A)),”.
 
-    Subsec. (g)(1)(C)(iii). [Pub. L. 105–277, § 4005(b)(4)][/us/pl/105/277/s4005/b/4], inserted before period at end “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee”.
+    Subsec. (g)(1)(C)(iii). [Pub. L. 105–277][/us/pl/105/277], § 4005(b)(4), inserted before period at end “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee”.
 
-    Subsec. (g)(1)(D). [Pub. L. 105–277, § 4005(b)(5)][/us/pl/105/277/s4005/b/5], inserted “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits as described in [section 407(c) of this title][/us/usc/t42/s407/c]” after “[section 432 of this title][/us/usc/t42/s432]”.
+    Subsec. (g)(1)(D). [Pub. L. 105–277][/us/pl/105/277], § 4005(b)(5), inserted “and the functions of the Social Security Administration in connection with the withholding of taxes from benefits as described in [section 407(c) of this title][/us/usc/t42/s407/c]” after “[section 432 of this title][/us/usc/t42/s432]”.
 
-    Subsec. (g)(4). [Pub. L. 105–277, § 4005(b)(6)][/us/pl/105/277/s4005/b/6], inserted after first sentence “The Board of Trustees of such Trust Funds shall prescribe the method of determining the costs which should be borne by the general fund in the Treasury of carrying out the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee.”
+    Subsec. (g)(4). [Pub. L. 105–277][/us/pl/105/277], § 4005(b)(6), inserted after first sentence “The Board of Trustees of such Trust Funds shall prescribe the method of determining the costs which should be borne by the general fund in the Treasury of carrying out the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in [section 407(c) of this title][/us/usc/t42/s407/c], pursuant to requests by persons entitled to such benefits or such persons’ representative payee.”
 
     1996—Subsec. (g)(1)(A). [Pub. L. 104–121][/us/pl/104/121] inserted at end “Of the amounts authorized to be made available out of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund under the preceding sentence, there are hereby authorized to be made available from either or both of such Trust Funds for continuing disability reviews—
 
@@ -313,181 +313,181 @@
 
     For purposes of this subparagraph, the term ‘continuing disability review’ means a review conducted pursuant to [section 421(i) of this title][/us/usc/t42/s421/i] and a review or disability eligibility redetermination conducted to determine the continuing disability and eligibility of a recipient of benefits under the supplemental security income program under subchapter XVI of this chapter, including any review or redetermination conducted pursuant to section 207 or 208 of the Social Security Independence and Program Improvements Act of 1994 ([Public Law 103–296][/us/pl/103/296]).”
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 321(a)(1)][/us/pl/103/296/s321/a/1], in closing provisions substituted “and” for “and and” before “such Trust Fund shall pay”.
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 321(a)(1), in closing provisions substituted “and” for “and and” before “such Trust Fund shall pay”.
 
-    Subsec. (a)(3). [Pub. L. 103–296, § 107(b)(1)][/us/pl/103/296/s107/b/1], (2), substituted “Commissioner of Social Security” and “such Commissioner” for “Secretary of Health and Human Services” and “such Secretary”, respectively.
+    Subsec. (a)(3). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(1), (2), substituted “Commissioner of Social Security” and “such Commissioner” for “Secretary of Health and Human Services” and “such Secretary”, respectively.
 
-    Subsec. (a)(4). [Pub. L. 103–296, § 107(b)(1)][/us/pl/103/296/s107/b/1], substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
+    Subsec. (a)(4). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-    Subsec. (b)(1). [Pub. L. 103–296, § 107(b)(1)][/us/pl/103/296/s107/b/1], (2), substituted “Commissioner of Social Security” and “such Commissioner” for “Secretary of Health and Human Services” and “such Secretary”, respectively.
+    Subsec. (b)(1). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(1), (2), substituted “Commissioner of Social Security” and “such Commissioner” for “Secretary of Health and Human Services” and “such Secretary”, respectively.
 
-    Subsec. (b)(1)(O) to (R). [Pub. L. 103–387, § 3(a)][/us/pl/103/387/s3/a], substituted “(O) 1.20 per centum of the wages (as so defined) paid after December 31, 1989, and before January 1, 1994, and so reported, (P) 1.88 per centum of the wages (as so defined) paid after December 31, 1993, and before January 1, 1997, and so reported, (Q) 1.70 per centum of the wages (as so defined) paid after December 31, 1996, and before January 1, 2000, and so reported, and (R) 1.80 per centum of the wages (as so defined) paid after December 31, 1999, and so reported,” for “(O) 1.20 per centum of the wages (as so defined) paid after December 31, 1989, and before January 1, 2000, and so reported, and (P) 1.42 per centum of the wages (as so defined) paid after December 31, 1999, and so reported,”.
+    Subsec. (b)(1)(O) to (R). [Pub. L. 103–387][/us/pl/103/387], § 3(a), substituted “(O) 1.20 per centum of the wages (as so defined) paid after December 31, 1989, and before January 1, 1994, and so reported, (P) 1.88 per centum of the wages (as so defined) paid after December 31, 1993, and before January 1, 1997, and so reported, (Q) 1.70 per centum of the wages (as so defined) paid after December 31, 1996, and before January 1, 2000, and so reported, and (R) 1.80 per centum of the wages (as so defined) paid after December 31, 1999, and so reported,” for “(O) 1.20 per centum of the wages (as so defined) paid after December 31, 1989, and before January 1, 2000, and so reported, and (P) 1.42 per centum of the wages (as so defined) paid after December 31, 1999, and so reported,”.
 
-    Subsec. (b)(2). [Pub. L. 103–296, § 107(b)(1)][/us/pl/103/296/s107/b/1], substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
+    Subsec. (b)(2). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-    Subsec. (b)(2)(O) to (R). [Pub. L. 103–387, § 3(b)][/us/pl/103/387/s3/b], substituted “(O) 1.20 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1989, and before January 1, 1994, (P) 1.88 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1993, and before January 1, 1997, (Q) 1.70 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1996, and before January 1, 2000, and (R) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999,” for “(O) 1.20 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1989, and before January 1, 2000, and (P) 1.42 per centum of the self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999,”.
+    Subsec. (b)(2)(O) to (R). [Pub. L. 103–387][/us/pl/103/387], § 3(b), substituted “(O) 1.20 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1989, and before January 1, 1994, (P) 1.88 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1993, and before January 1, 1997, (Q) 1.70 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1996, and before January 1, 2000, and (R) 1.80 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999,” for “(O) 1.20 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1989, and before January 1, 2000, and (P) 1.42 per centum of the self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1999,”.
 
-    Subsec. (c). [Pub. L. 103–296, § 107(b)(3)][/us/pl/103/296/s107/b/3], in introductory provisions, inserted “the Commissioner of Social Security,” after “shall be composed of” and inserted “Deputy” before “Commissioner of Social Security shall serve”.
+    Subsec. (c). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(3), in introductory provisions, inserted “the Commissioner of Social Security,” after “shall be composed of” and inserted “Deputy” before “Commissioner of Social Security shall serve”.
 
-    Subsec. (d). [Pub. L. 103–296, § 301(a)][/us/pl/103/296/s301/a], inserted after fifth sentence “Each obligation issued for purchase by the Trust Funds under this subsection shall be evidenced by a paper instrument in the form of a bond, note, or certificate of indebtedness issued by the Secretary of the Treasury setting forth the principal amount, date of maturity, and interest rate of the obligation, and stating on its face that the obligation shall be incontestable in the hands of the Trust Fund to which it is issued, that the obligation is supported by the full faith and credit of the United States, and that the United States is pledged to the payment of the obligation with respect to both principal and interest.”
+    Subsec. (d). [Pub. L. 103–296][/us/pl/103/296], § 301(a), inserted after fifth sentence “Each obligation issued for purchase by the Trust Funds under this subsection shall be evidenced by a paper instrument in the form of a bond, note, or certificate of indebtedness issued by the Secretary of the Treasury setting forth the principal amount, date of maturity, and interest rate of the obligation, and stating on its face that the obligation shall be incontestable in the hands of the Trust Fund to which it is issued, that the obligation is supported by the full faith and credit of the United States, and that the United States is pledged to the payment of the obligation with respect to both principal and interest.”
 
-    Subsec. (f). [Pub. L. 103–296, § 301(b)][/us/pl/103/296/s301/b], inserted at end “Payment from the general fund of the Treasury to either of the Trust Funds of any such interest or proceeds shall be in the form of paper checks drawn on such general fund to the order of such Trust Fund.”
+    Subsec. (f). [Pub. L. 103–296][/us/pl/103/296], § 301(b), inserted at end “Payment from the general fund of the Treasury to either of the Trust Funds of any such interest or proceeds shall be in the form of paper checks drawn on such general fund to the order of such Trust Fund.”
 
-    Subsec. (g)(1)(A). [Pub. L. 103–296, § 107(b)(4)(C)][/us/pl/103/296/s107/b/4/C], in text as amended by [Pub. L. 103–296, § 321(c)(1)(A)(i)(III)][/us/pl/103/296/s321/c/1/A/i/III], substituted “subchapters II and XVIII” for “subchapters II, XVI, and XVIII” in second sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: “There are hereby authorized to be made available for expenditure, out of any or all of the Trust Funds, such amounts as the Congress may deem appropriate to pay the costs of the part of the administration of this subchapter, subchapter XVI, and subchapter XVIII of this chapter for which the Secretary of Health and Human Services is responsible and of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 other than those referred to in clause (i) of the first sentence of this subparagraph.”
+    Subsec. (g)(1)(A). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(4)(C), in text as amended by [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(A)(i)(III), substituted “subchapters II and XVIII” for “subchapters II, XVI, and XVIII” in second sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: “There are hereby authorized to be made available for expenditure, out of any or all of the Trust Funds, such amounts as the Congress may deem appropriate to pay the costs of the part of the administration of this subchapter, subchapter XVI, and subchapter XVIII of this chapter for which the Secretary of Health and Human Services is responsible and of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 other than those referred to in clause (i) of the first sentence of this subparagraph.”
 
-    [Pub. L. 103–296, § 321(c)(1)(A)(i)(III)][/us/pl/103/296/s321/c/1/A/i/III], substituted “chapters 2 and 21 of the Internal Revenue Code of 1986” for “subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, and chapters 2 and 21 of the Internal Revenue Code of 1954” in second sentence and “1986 other” for “1954 other” in last sentence.
+    [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(A)(i)(III), substituted “chapters 2 and 21 of the Internal Revenue Code of 1986” for “subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, and chapters 2 and 21 of the Internal Revenue Code of 1954” in second sentence and “1986 other” for “1954 other” in last sentence.
 
-    Subsec. (g)(1)(A)(i). [Pub. L. 103–296, § 321(c)(1)(A)(i)(I)][/us/pl/103/296/s321/c/1/A/i/I], substituted “and chapters 2 and 21 of the Internal Revenue Code of 1986” for “and subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, and chapters 2 and 21 of the Internal Revenue Code of 1954”.
+    Subsec. (g)(1)(A)(i). [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(A)(i)(I), substituted “and chapters 2 and 21 of the Internal Revenue Code of 1986” for “and subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, and chapters 2 and 21 of the Internal Revenue Code of 1954”.
 
-    [Pub. L. 103–296, § 107(b)(4)(A)][/us/pl/103/296/s107/b/4/A], substituted “by the Managing Trustee, the Commissioner of Social Security, and the Secretary of Health and Human Services” for “by him and the Secretary of Health and Human Services” and “by the Department of Health and Human Services for the administration of subchapter XVIII of this chapter, and by the Department of the Treasury for the administration of subchapters II and XVIII of this chapter” for “by the Department of Health and Human Services and the Treasury Department for the administration of subchapters II, XVI, and XVIII of this chapter”.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(b)(4)(A), substituted “by the Managing Trustee, the Commissioner of Social Security, and the Secretary of Health and Human Services” for “by him and the Secretary of Health and Human Services” and “by the Department of Health and Human Services for the administration of subchapter XVIII of this chapter, and by the Department of the Treasury for the administration of subchapters II and XVIII of this chapter” for “by the Department of Health and Human Services and the Treasury Department for the administration of subchapters II, XVI, and XVIII of this chapter”.
 
-    Subsec. (g)(1)(A)(ii). [Pub. L. 103–296, § 321(c)(1)(A)(i)(II)][/us/pl/103/296/s321/c/1/A/i/II], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+    Subsec. (g)(1)(A)(ii). [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(A)(i)(II), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    [Pub. L. 103–296, § 107(b)(4)(B)][/us/pl/103/296/s107/b/4/B], substituted “applicable method prescribed under paragraph (4)” for “method prescribed by the Board of Trustees under paragraph (4)”, “Commissioner of Social Security” for “Secretary of Health and Human Services”, and “Social Security Administration” for “Department of Health and Human Services”.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(b)(4)(B), substituted “applicable method prescribed under paragraph (4)” for “method prescribed by the Board of Trustees under paragraph (4)”, “Commissioner of Social Security” for “Secretary of Health and Human Services”, and “Social Security Administration” for “Department of Health and Human Services”.
 
-    Subsec. (g)(1)(B). [Pub. L. 103–296, § 107(b)(4)(A)][/us/pl/103/296/s107/b/4/A], added subpar. (B) and struck out former subpar. (B), as amended by [Pub. L. 103–296, § 321(c)(1)(A)(i)(IV)][/us/pl/103/296/s321/c/1/A/i/IV], which read as follows: “After the close of each fiscal year the Secretary of Health and Human Services shall determine the portion of the costs, incurred during such fiscal year, of administration of this subchapter, subchapter XVI, and subchapter XVIII of this chapter and of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 (other than those referred to in clause (i) of the first sentence of subparagraph (A)), which should have been borne by the general fund in the Treasury and the portion of such costs which should have been borne by each of the Trust Funds; except that the determination of the amounts to be borne by the general fund in the Treasury with respect to expenditures incurred in carrying out such functions specified in [section 432 of this title][/us/usc/t42/s432] shall be made pursuant to the method prescribed by the Board of Trustees under paragraph (4) of this subsection. After such determination has been made, the Secretary of Health and Human Services shall certify to the Managing Trustee the amounts, if any, which should be transferred from one to any of the other of such Trust Funds and the amounts, if any, which should be transferred between the Trust Funds (or one of the Trust Funds) and the general fund in the Treasury, in order to insure that each of the Trust Funds and the general fund in the Treasury have borne their proper share of the costs, incurred during such fiscal year, for the part of the administration of this subchapter, subchapter XVI, and subchapter XVIII of this chapter for which the Secretary of Health and Human Services is responsible and of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 (other than those referred to in clause (i) of the first sentence of subparagraph (A)). The Managing Trustee is authorized and directed to transfer any such amounts in accordance with any certification so made.”
+    Subsec. (g)(1)(B). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(4)(A), added subpar. (B) and struck out former subpar. (B), as amended by [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(A)(i)(IV), which read as follows: “After the close of each fiscal year the Secretary of Health and Human Services shall determine the portion of the costs, incurred during such fiscal year, of administration of this subchapter, subchapter XVI, and subchapter XVIII of this chapter and of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 (other than those referred to in clause (i) of the first sentence of subparagraph (A)), which should have been borne by the general fund in the Treasury and the portion of such costs which should have been borne by each of the Trust Funds; except that the determination of the amounts to be borne by the general fund in the Treasury with respect to expenditures incurred in carrying out such functions specified in [section 432 of this title][/us/usc/t42/s432] shall be made pursuant to the method prescribed by the Board of Trustees under paragraph (4) of this subsection. After such determination has been made, the Secretary of Health and Human Services shall certify to the Managing Trustee the amounts, if any, which should be transferred from one to any of the other of such Trust Funds and the amounts, if any, which should be transferred between the Trust Funds (or one of the Trust Funds) and the general fund in the Treasury, in order to insure that each of the Trust Funds and the general fund in the Treasury have borne their proper share of the costs, incurred during such fiscal year, for the part of the administration of this subchapter, subchapter XVI, and subchapter XVIII of this chapter for which the Secretary of Health and Human Services is responsible and of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 (other than those referred to in clause (i) of the first sentence of subparagraph (A)). The Managing Trustee is authorized and directed to transfer any such amounts in accordance with any certification so made.”
 
-    [Pub. L. 103–296, § 321(c)(1)(A)(i)(IV)][/us/pl/103/296/s321/c/1/A/i/IV], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in two places.
+    [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(A)(i)(IV), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in two places.
 
-    Subsec. (g)(1)(C), (D). [Pub. L. 103–296, § 107(b)(4)(A)][/us/pl/103/296/s107/b/4/A], added subpars. (C) and (D).
+    Subsec. (g)(1)(C), (D). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(4)(A), added subpars. (C) and (D).
 
-    Subsec. (g)(2). [Pub. L. 103–296, § 321(c)(1)(B)(i)][/us/pl/103/296/s321/c/1/B/i], in first sentence substituted “section 3101(a) of the Internal Revenue Code of 1986 which are subject to refund under section 6413(c) of such Code with respect to wages (as defined in section 3121 of such Code).” for “section 3101(a) which are subject to refund under section 6413(c) of the Internal Revenue Code of 1954 with respect to wages (as defined in section 1426 of the Internal Revenue Code of 1939 and section 3121 of the Internal Revenue Code of 1954) paid after December 31, 1950.” and in second sentence substituted “wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of such Code,” for “wages reported to the Commissioner of Internal Revenue pursuant to section 1420(c) of the Internal Revenue Code of 1939 and to the Secretary of the Treasury or his delegate pursuant to subtitle F of the Internal Revenue Code of 1954,”.
+    Subsec. (g)(2). [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(B)(i), in first sentence substituted “section 3101(a) of the Internal Revenue Code of 1986 which are subject to refund under section 6413(c) of such Code with respect to wages (as defined in section 3121 of such Code).” for “section 3101(a) which are subject to refund under section 6413(c) of the Internal Revenue Code of 1954 with respect to wages (as defined in section 1426 of the Internal Revenue Code of 1939 and section 3121 of the Internal Revenue Code of 1954) paid after December 31, 1950.” and in second sentence substituted “wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of such Code,” for “wages reported to the Commissioner of Internal Revenue pursuant to section 1420(c) of the Internal Revenue Code of 1939 and to the Secretary of the Treasury or his delegate pursuant to subtitle F of the Internal Revenue Code of 1954,”.
 
-    [Pub. L. 103–296, § 107(b)(5)][/us/pl/103/296/s107/b/5], in second sentence substituted “maintained by the Commissioner of Social Security” for “established and maintained by the Secretary of Health and Human Services” and “Commissioner of Social Security shall furnish” for “Secretary shall furnish”.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(b)(5), in second sentence substituted “maintained by the Commissioner of Social Security” for “established and maintained by the Secretary of Health and Human Services” and “Commissioner of Social Security shall furnish” for “Secretary shall furnish”.
 
-    Subsec. (g)(4). [Pub. L. 103–296, § 107(b)(6)][/us/pl/103/296/s107/b/6], amended generally par. (4) as amended by [Pub. L. 103–296, § 321(c)(1)(C)][/us/pl/103/296/s321/c/1/C]. Prior to amendment, par. (4) read as follows: “If at any time or times the Boards of Trustees of such Trust Funds deem such action advisable, they may modify the method prescribed by such Boards of determining the costs which should be borne by the general fund in the Treasury of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 (other than those referred to in clause (i) of the first sentence of paragraph (1)(A)).”
+    Subsec. (g)(4). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(6), amended generally par. (4) as amended by [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(C). Prior to amendment, par. (4) read as follows: “If at any time or times the Boards of Trustees of such Trust Funds deem such action advisable, they may modify the method prescribed by such Boards of determining the costs which should be borne by the general fund in the Treasury of carrying out the functions of the Department of Health and Human Services, specified in [section 432 of this title][/us/usc/t42/s432], which relate to the administration of provisions of the Internal Revenue Code of 1986 (other than those referred to in clause (i) of the first sentence of paragraph (1)(A)).”
 
-    [Pub. L. 103–296, § 321(c)(1)(C)][/us/pl/103/296/s321/c/1/C], substituted “If at any time or times the Boards of Trustees of such Trust Funds deem such action advisable, they may modify the method prescribed by such Boards” for “The Board of Trustees shall prescribe before January 1, 1981, the method” and “Code of 1986” for “Code of 1954” and struck out at end “If at any time or times thereafter the Boards of Trustees of such Trust Funds deem such action advisable they may modify the method so determined.”
+    [Pub. L. 103–296][/us/pl/103/296], § 321(c)(1)(C), substituted “If at any time or times the Boards of Trustees of such Trust Funds deem such action advisable, they may modify the method prescribed by such Boards” for “The Board of Trustees shall prescribe before January 1, 1981, the method” and “Code of 1986” for “Code of 1954” and struck out at end “If at any time or times thereafter the Boards of Trustees of such Trust Funds deem such action advisable they may modify the method so determined.”
 
-    Subsec. (i)(1). [Pub. L. 103–296, § 107(b)(7)][/us/pl/103/296/s107/b/7], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Managing Trustee of the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the Federal Supplementary Medical Insurance Trust Fund is authorized to accept on behalf of the United States money gifts and bequests made unconditionally to any one or more of such Trust Funds or to the Department of Health and Human Services, or any part or officer thereof, for the benefit of any of such Funds or any activity financed through such Funds.”
+    Subsec. (i)(1). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Managing Trustee of the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the Federal Supplementary Medical Insurance Trust Fund is authorized to accept on behalf of the United States money gifts and bequests made unconditionally to any one or more of such Trust Funds or to the Department of Health and Human Services, or any part or officer thereof, for the benefit of any of such Funds or any activity financed through such Funds.”
 
-    Subsec. (j). [Pub. L. 103–296, § 107(b)(8)][/us/pl/103/296/s107/b/8], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    Subsec. (j). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(8), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (k). [Pub. L. 103–296, § 107(b)(8)][/us/pl/103/296/s107/b/8], substituted “Commissioner of Social Security” for “Secretary”.
+    Subsec. (k). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(8), substituted “Commissioner of Social Security” for “Secretary”.
 
-    Subsec. (l)(3)(B)(iii)(II). [Pub. L. 103–296, § 107(b)(9)][/us/pl/103/296/s107/b/9], substituted “Commissioner of Social Security” for “Secretary”.
+    Subsec. (l)(3)(B)(iii)(II). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(9), substituted “Commissioner of Social Security” for “Secretary”.
 
-    Subsec. (m)(3). [Pub. L. 103–296, § 107(b)(10)][/us/pl/103/296/s107/b/10], substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+    Subsec. (m)(3). [Pub. L. 103–296][/us/pl/103/296], § 107(b)(10), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 5115(a)][/us/pl/101/508/s5115/a], in first sentence following cl. (4), substituted “from time to time” for “monthly on the first day of each calendar month” in two places and “paid to or deposited into the Treasury” for “to be paid to or deposited into the Treasury during such month”, and in last sentence substituted “Fund. Notwithstanding the preceding sentence, in any case in which the Secretary of the Treasury determines that the assets of either such Trust Fund would otherwise be inadequate to meet such Fund’s obligations for any month, the Secretary of the Treasury shall transfer to such Trust Fund on the first day of such month the amount which would have been transferred to such Fund under this section as in effect on October 1, 1990; and” for “Fund;”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 5115(a), in first sentence following cl. (4), substituted “from time to time” for “monthly on the first day of each calendar month” in two places and “paid to or deposited into the Treasury” for “to be paid to or deposited into the Treasury during such month”, and in last sentence substituted “Fund. Notwithstanding the preceding sentence, in any case in which the Secretary of the Treasury determines that the assets of either such Trust Fund would otherwise be inadequate to meet such Fund’s obligations for any month, the Secretary of the Treasury shall transfer to such Trust Fund on the first day of such month the amount which would have been transferred to such Fund under this section as in effect on October 1, 1990; and” for “Fund;”.
 
-    Subsec. (c). [Pub. L. 101–508, § 13304][/us/pl/101/508/s13304], inserted after first sentence following cl. (5) “Such statement shall include a finding by the Board of Trustees as to whether the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, individually and collectively, are in close actuarial balance (as defined by the Board of Trustees).”
+    Subsec. (c). [Pub. L. 101–508][/us/pl/101/508], § 13304, inserted after first sentence following cl. (5) “Such statement shall include a finding by the Board of Trustees as to whether the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, individually and collectively, are in close actuarial balance (as defined by the Board of Trustees).”
 
-    Subsec. (j). [Pub. L. 101–508, § 5106(c)][/us/pl/101/508/s5106/c], inserted at end “The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.”
+    Subsec. (j). [Pub. L. 101–508][/us/pl/101/508], § 5106(c), inserted at end “The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.”
 
-    1989—Subsecs. (g)(1)(A), (i)(1). [Pub. L. 101–234][/us/pl/101/234] repealed [Pub. L. 100–360, § 212(c)(1)][/us/pl/100/360/s212/c/1], and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
+    1989—Subsecs. (g)(1)(A), (i)(1). [Pub. L. 101–234][/us/pl/101/234] repealed [Pub. L. 100–360][/us/pl/100/360], § 212(c)(1), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
     1988—Subsec. (c). [Pub. L. 100–647][/us/pl/100/647] inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member’s term until the earlier of the time at which the member’s successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member’s term.”
 
-    Subsec. (g)(1)(A). [Pub. L. 100–360, § 212(c)(1)(A)][/us/pl/100/360/s212/c/1/A], substituted “, Federal Supplementary Medical Insurance Trust Fund, and the Federal Catastrophic Drug Insurance Trust Fund” for “and the Federal Supplementary Medical Insurance Trust Fund”.
+    Subsec. (g)(1)(A). [Pub. L. 100–360][/us/pl/100/360], § 212(c)(1)(A), substituted “, Federal Supplementary Medical Insurance Trust Fund, and the Federal Catastrophic Drug Insurance Trust Fund” for “and the Federal Supplementary Medical Insurance Trust Fund”.
 
-    Subsec. (i)(1). [Pub. L. 100–360, § 212(c)(1)(B)][/us/pl/100/360/s212/c/1/B], substituted “, Federal Hospital Insurance Catastrophic Coverage Reserve Fund, Federal Supplementary Medical Insurance Trust Fund, and the Federal Catastrophic Drug Insurance Trust Fund” for “and the Federal Supplementary Medical Insurance Trust Fund”.
+    Subsec. (i)(1). [Pub. L. 100–360][/us/pl/100/360], § 212(c)(1)(B), substituted “, Federal Hospital Insurance Catastrophic Coverage Reserve Fund, Federal Supplementary Medical Insurance Trust Fund, and the Federal Catastrophic Drug Insurance Trust Fund” for “and the Federal Supplementary Medical Insurance Trust Fund”.
 
     1986—Subsec. (c). [Pub. L. 99–272][/us/pl/99/272], in provisions following par. (5), substituted “. Such report shall” for “: Provided, That the certification shall not refer to economic assumptions underlying the Trustee’s report, and shall”.
 
-    1984—Subsecs. (a)(3), (4), (b)(1), (2). [Pub. L. 98–369, § 2663(j)(2)(A)(i)][/us/pl/98/369/s2663/j/2/A/i], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    1984—Subsecs. (a)(3), (4), (b)(1), (2). [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(2)(A)(i), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (d). [Pub. L. 98–369, § 2663(a)(1)(A)][/us/pl/98/369/s2663/a/1/A], substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended” and “public-debt obligations” for “public-debt obligation”.
+    Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(1)(A), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended” and “public-debt obligations” for “public-debt obligation”.
 
-    Subsec. (g)(1). [Pub. L. 98–369, § 2663(j)(2)(A)(i)][/us/pl/98/369/s2663/j/2/A/i], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsec. (g)(1). [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(2)(A)(i), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (g)(1)(B). [Pub. L. 98–369, § 2663(a)(1)(B)][/us/pl/98/369/s2663/a/1/B], substituted “clause” for “clauses” in first sentence.
+    Subsec. (g)(1)(B). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(1)(B), substituted “clause” for “clauses” in first sentence.
 
-    Subsecs. (g)(2), (4), (i)(1). [Pub. L. 98–369, § 2663(j)(2)(A)(i)][/us/pl/98/369/s2663/j/2/A/i], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsecs. (g)(2), (4), (i)(1). [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(2)(A)(i), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (l)(3)(B)(i). [Pub. L. 98–369, § 2661(a)][/us/pl/98/369/s2661/a], inserted “Insurance” after “Survivors”.
+    Subsec. (l)(3)(B)(i). [Pub. L. 98–369][/us/pl/98/369], § 2661(a), inserted “Insurance” after “Survivors”.
 
-    1983—Subsec. (a). [Pub. L. 98–21, § 141(a)][/us/pl/98/21/s141/a], in provisions following par. (4), substituted “monthly on the first day of each calendar month” for “from time to time”, wherever appearing, and “to be paid or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to either Trust Fund under the preceding sentence shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of such Trust Fund; and such Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of such Fund in the same month under subsection (d) of this section.
+    1983—Subsec. (a). [Pub. L. 98–21][/us/pl/98/21], § 141(a), in provisions following par. (4), substituted “monthly on the first day of each calendar month” for “from time to time”, wherever appearing, and “to be paid or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to either Trust Fund under the preceding sentence shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of such Trust Fund; and such Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of such Fund in the same month under subsection (d) of this section.
 
-    Subsec. (b)(1)(K) to (P). [Pub. L. 98–21, § 126(a)][/us/pl/98/21/s126/a], substituted, in cls. (K), (L), and (M), appropriations equivalent to 100 per centum of (K) 1.65 per centum of the wages (as so defined) paid after Dec. 31, 1981, and before Jan. 1, 1983, and so reported, (L) 1.25 per centum of the wages (as so defined) paid after Dec. 31, 1982, and before Jan. 1, 1984, and so reported, (M) 1.00 per centum of the wages (as so defined) paid after Dec. 31, 1983, and before Jan. 1, 1988, and so reported, for such appropriations of (K) 1.65 per centum of the wages (as so defined) paid after Dec. 31, 1981, and before Jan. 1, 1985, and so reported, (L) 1.90 per centum of the wages (as so defined) paid Dec. 31, 1984, and before Jan. 1, 1990, and so reported, and (M) 2.20 per centum of the wages (as so defined) paid after Dec. 31, 1989, and so reported, and added cls. (N) to (P).
+    Subsec. (b)(1)(K) to (P). [Pub. L. 98–21][/us/pl/98/21], § 126(a), substituted, in cls. (K), (L), and (M), appropriations equivalent to 100 per centum of (K) 1.65 per centum of the wages (as so defined) paid after Dec. 31, 1981, and before Jan. 1, 1983, and so reported, (L) 1.25 per centum of the wages (as so defined) paid after Dec. 31, 1982, and before Jan. 1, 1984, and so reported, (M) 1.00 per centum of the wages (as so defined) paid after Dec. 31, 1983, and before Jan. 1, 1988, and so reported, for such appropriations of (K) 1.65 per centum of the wages (as so defined) paid after Dec. 31, 1981, and before Jan. 1, 1985, and so reported, (L) 1.90 per centum of the wages (as so defined) paid Dec. 31, 1984, and before Jan. 1, 1990, and so reported, and (M) 2.20 per centum of the wages (as so defined) paid after Dec. 31, 1989, and so reported, and added cls. (N) to (P).
 
-    Subsec. (b)(2)(K) to (P). [Pub. L. 98–21, § 126(b)][/us/pl/98/21/s126/b], substituted, in cls. (K), (L), and (M), appropriations equivalent to 100 per centum of (K) 1.2375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1983, (L) 0.9375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1982, and before Jan. 1, 1984, (M) 1.00 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1983, and before Jan. 1, 1988, for such appropriations of (K) 1.2375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1985, (L) 1.4250 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1990, and (M) 1.6500 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1989, and added cls. (N) to (P).
+    Subsec. (b)(2)(K) to (P). [Pub. L. 98–21][/us/pl/98/21], § 126(b), substituted, in cls. (K), (L), and (M), appropriations equivalent to 100 per centum of (K) 1.2375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1983, (L) 0.9375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1982, and before Jan. 1, 1984, (M) 1.00 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1983, and before Jan. 1, 1988, for such appropriations of (K) 1.2375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1985, (L) 1.4250 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1990, and (M) 1.6500 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after Dec. 31, 1989, and added cls. (N) to (P).
 
-    Subsec. (c). [Pub. L. 98–21, § 341(a)][/us/pl/98/21/s341/a], substituted “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio” in provisions preceding par. (1), and inserted provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Funds, in provisions following par. (5).
+    Subsec. (c). [Pub. L. 98–21][/us/pl/98/21], § 341(a), substituted “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio” in provisions preceding par. (1), and inserted provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Funds, in provisions following par. (5).
 
-    [Pub. L. 98–21, § 154(a)][/us/pl/98/21/s154/a], in provisions following par. (5), inserted provision that the report referred to in par. (2) shall include an actuarial opinion by the Chief Actuary of the Social Security Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable, and provided further that the certification shall not refer to economic assumptions underlying the Trustee’s report.
+    [Pub. L. 98–21][/us/pl/98/21], § 154(a), in provisions following par. (5), inserted provision that the report referred to in par. (2) shall include an actuarial opinion by the Chief Actuary of the Social Security Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable, and provided further that the certification shall not refer to economic assumptions underlying the Trustee’s report.
 
-    Subsec. (l)(1). [Pub. L. 98–21, § 142(a)(1)][/us/pl/98/21/s142/a/1], substituted reference to January 1988 for reference to January 1983, and inserted “, subject to paragraph (5),” after “such Trust Fund, or”.
+    Subsec. (l)(1). [Pub. L. 98–21][/us/pl/98/21], § 142(a)(1), substituted reference to January 1988 for reference to January 1983, and inserted “, subject to paragraph (5),” after “such Trust Fund, or”.
 
-    Subsec. (l)(2). [Pub. L. 98–21, § 142(a)(2)(A)][/us/pl/98/21/s142/a/2/A], substituted “on the last day of each month after such loan is made” for “from time to time”, substituted “the total interest accrued to such day” for “interest”, and inserted “(even if such an investment would earn interest at a rate different than the rate earned by investments redeemed by the lending fund in order to make the loan)”.
+    Subsec. (l)(2). [Pub. L. 98–21][/us/pl/98/21], § 142(a)(2)(A), substituted “on the last day of each month after such loan is made” for “from time to time”, substituted “the total interest accrued to such day” for “interest”, and inserted “(even if such an investment would earn interest at a rate different than the rate earned by investments redeemed by the lending fund in order to make the loan)”.
 
-    Subsec. (l)(3). [Pub. L. 98–21, § 142(a)(3)][/us/pl/98/21/s142/a/3], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    Subsec. (l)(3). [Pub. L. 98–21][/us/pl/98/21], § 142(a)(3), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-    Subsec. (l)(5). [Pub. L. 98–21, § 142(a)(4)][/us/pl/98/21/s142/a/4], added par. (5).
+    Subsec. (l)(5). [Pub. L. 98–21][/us/pl/98/21], § 142(a)(4), added par. (5).
 
-    Subsec. (m). [Pub. L. 98–21, § 152(a)][/us/pl/98/21/s152/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 98–21][/us/pl/98/21], § 152(a), added subsec. (m).
 
     1981—Subsec. (l). [Pub. L. 97–123][/us/pl/97/123] added subsec. (l).
 
-    1980—Subsec. (b)(1)(H) to (M). [Pub. L. 96–403, § 1(a)][/us/pl/96/403/s1/a], substituted in cl. (H) reference to Jan. 1, 1980, for Jan. 1, 1981; added cls. (I) and (J); redesignated as cl. (K) former cl. (I) substituting reference to Dec. 31, 1981, for Dec. 31, 1980; and redesignated as cls. (L) and (M) former cls. (J) and (K).
+    1980—Subsec. (b)(1)(H) to (M). [Pub. L. 96–403][/us/pl/96/403], § 1(a), substituted in cl. (H) reference to Jan. 1, 1980, for Jan. 1, 1981; added cls. (I) and (J); redesignated as cl. (K) former cl. (I) substituting reference to Dec. 31, 1981, for Dec. 31, 1980; and redesignated as cls. (L) and (M) former cls. (J) and (K).
 
-    Subsec. (b)(2)(H) to (M). [Pub. L. 96–403, § 1(b)][/us/pl/96/403/s1/b], substituted in cl. (H) reference to Jan. 1, 1980, for Jan. 1, 1981; added cls. (I) and (J); redesignated as cl. (K) former cl. (I) substituting reference to Dec. 31, 1981, for Dec. 31, 1980; and redesignated as cls. (L) and (M) former cls. (J) and (K).
+    Subsec. (b)(2)(H) to (M). [Pub. L. 96–403][/us/pl/96/403], § 1(b), substituted in cl. (H) reference to Jan. 1, 1980, for Jan. 1, 1981; added cls. (I) and (J); redesignated as cl. (K) former cl. (I) substituting reference to Dec. 31, 1981, for Dec. 31, 1980; and redesignated as cls. (L) and (M) former cls. (J) and (K).
 
-    Subsec. (j). [Pub. L. 96–265, § 310(a)][/us/pl/96/265/s310/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 96–265][/us/pl/96/265], § 310(a), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 96–265, § 505(a)(5)][/us/pl/96/265/s505/a/5], added subsec. (k).
+    Subsec. (k). [Pub. L. 96–265][/us/pl/96/265], § 505(a)(5), added subsec. (k).
 
-    1977—Subsec. (b)(1)(G) to (K). [Pub. L. 95–216, § 102(a)(1)][/us/pl/95/216/s102/a/1], substituted “(G) 1.55 per centum of the wages (as so defined) paid after December 31, 1977, and before January 1, 1979, and so reported, (H) 1.50 per centum of the wages (as so defined) paid after December 31, 1978, and before January 1, 1981, and so reported, (I) 1.65 per centum of the wages (as so defined) paid after December 31, 1980, and before January 1, 1985, and so reported, (J) 1.90 per centum of the wages (as so defined) paid after December 31, 1984, and before January 1, 1990, and so reported, and (K) 2.20 per centum of the wages (as so defined) paid after December 31, 1989, and so reported” for “(G) 1.2 per centum of the wages (as so defined) paid after December 31, 1977, and before January 1, 1981, and so reported, (H) 1.3 per centum of the wages (as so defined) paid after December 31, 1980, and before January 1, 1986, and so reported, (I) 1.4 per centum of the wages (as so defined) paid after December 31, 1985, and before January 1, 2011, and so reported, and (J) 1.7 per centum of the wages (as so defined) paid after December 31, 2010, and so reported”.
+    1977—Subsec. (b)(1)(G) to (K). [Pub. L. 95–216][/us/pl/95/216], § 102(a)(1), substituted “(G) 1.55 per centum of the wages (as so defined) paid after December 31, 1977, and before January 1, 1979, and so reported, (H) 1.50 per centum of the wages (as so defined) paid after December 31, 1978, and before January 1, 1981, and so reported, (I) 1.65 per centum of the wages (as so defined) paid after December 31, 1980, and before January 1, 1985, and so reported, (J) 1.90 per centum of the wages (as so defined) paid after December 31, 1984, and before January 1, 1990, and so reported, and (K) 2.20 per centum of the wages (as so defined) paid after December 31, 1989, and so reported” for “(G) 1.2 per centum of the wages (as so defined) paid after December 31, 1977, and before January 1, 1981, and so reported, (H) 1.3 per centum of the wages (as so defined) paid after December 31, 1980, and before January 1, 1986, and so reported, (I) 1.4 per centum of the wages (as so defined) paid after December 31, 1985, and before January 1, 2011, and so reported, and (J) 1.7 per centum of the wages (as so defined) paid after December 31, 2010, and so reported”.
 
-    Subsec. (b)(2)(G) to (K). [Pub. L. 95–216, § 102(a)(2)][/us/pl/95/216/s102/a/2], substituted “(G) 1.090 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1977, and before January 1, 1979, (H) 1.0400 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1978, and before January 1, 1981, (I) 1.2375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1980, and before January 1, 1985, (J) 1.4250 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1984, and before January 1, 1990, and (K) 1.650 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1989” for “(G) 0.850 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1977, and before January 1, 1981, (H) 0.920 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1980, and before January 1, 1986, (I) 0.990 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1985, and before January 1, 2011, and (J) 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 2010”.
+    Subsec. (b)(2)(G) to (K). [Pub. L. 95–216][/us/pl/95/216], § 102(a)(2), substituted “(G) 1.090 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1977, and before January 1, 1979, (H) 1.0400 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1978, and before January 1, 1981, (I) 1.2375 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1980, and before January 1, 1985, (J) 1.4250 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1984, and before January 1, 1990, and (K) 1.650 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1989” for “(G) 0.850 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1977, and before January 1, 1981, (H) 0.920 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1980, and before January 1, 1986, (I) 0.990 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1985, and before January 1, 2011, and (J) 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 2010”.
 
-    1976—Subsec. (g)(1). [Pub. L. 94–202, § 8(d)(1)][/us/pl/94/202/s8/d/1], incorporated changes in the operations and responsibilities of the Managing Trustee of the Trust Funds and the Secretary of Health, Education, and Welfare occasioned by changes in the annual method of reporting wages for social security purposes, by directing that estimated amounts paid from the Trust Funds into the Treasury, to replace amounts expended from the general fund in the Treasury, be estimated by both the Managing Trustee and the Secretary and that the Secretary determine the portion of costs attributable to the general fund in the Treasury and the portion attributable to the Trust Funds at the close of the fiscal year, by striking out reference to [section 1381 of this title][/us/usc/t42/s1381], and by inserting reference to par. (4) of this section, [section 432 of this title][/us/usc/t42/s432], and subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939.
+    1976—Subsec. (g)(1). [Pub. L. 94–202][/us/pl/94/202], § 8(d)(1), incorporated changes in the operations and responsibilities of the Managing Trustee of the Trust Funds and the Secretary of Health, Education, and Welfare occasioned by changes in the annual method of reporting wages for social security purposes, by directing that estimated amounts paid from the Trust Funds into the Treasury, to replace amounts expended from the general fund in the Treasury, be estimated by both the Managing Trustee and the Secretary and that the Secretary determine the portion of costs attributable to the general fund in the Treasury and the portion attributable to the Trust Funds at the close of the fiscal year, by striking out reference to [section 1381 of this title][/us/usc/t42/s1381], and by inserting reference to par. (4) of this section, [section 432 of this title][/us/usc/t42/s432], and subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939.
 
-    Subsec. (g)(4). [Pub. L. 94–202, § 8(d)(2)][/us/pl/94/202/s8/d/2], added par. (4).
+    Subsec. (g)(4). [Pub. L. 94–202][/us/pl/94/202], § 8(d)(2), added par. (4).
 
-    1973—Subsec. (b)(1)(E) to (J). [Pub. L. 93–233, § 7(a)][/us/pl/93/233/s7/a], substituted in: cl. (E) “January 1, 1974” for “January 1, 1978”; cl. (F) “December 31, 1973” and “January 1, 1978” for “December 31, 1977” and “January 1, 2011”; cl. (G) “1.2” for “1.5” per centum and “paid after December 31, 1977, and before January 1, 1981” for “paid after December 31, 2010,” and added cls. (H) to (J).
+    1973—Subsec. (b)(1)(E) to (J). [Pub. L. 93–233][/us/pl/93/233], § 7(a), substituted in: cl. (E) “January 1, 1974” for “January 1, 1978”; cl. (F) “December 31, 1973” and “January 1, 1978” for “December 31, 1977” and “January 1, 2011”; cl. (G) “1.2” for “1.5” per centum and “paid after December 31, 1977, and before January 1, 1981” for “paid after December 31, 2010,” and added cls. (H) to (J).
 
-    Subsec. (b)(2)(E) to (J). [Pub. L. 93–233, § 7(b)][/us/pl/93/233/s7/b], substituted in: cl. (E) “January 1, 1974” for “January 1, 1978”; cl. (F) “0.815 of 1 per centum” for “0.84 per centum” and “as reported for any taxable year beginning after December 31, 1973, and before January 1, 1978” for “so reported for any taxable year beginning after December 31, 1977, and before January 1, 2011”; cl. (G) “0.850 of 1 percentum” for “0.895 per centum” and “taxable year beginning after December 31, 1977, and before January 1, 1981” for “taxable year beginning after December 31, 2010”; and added cls. (H) to (J).
+    Subsec. (b)(2)(E) to (J). [Pub. L. 93–233][/us/pl/93/233], § 7(b), substituted in: cl. (E) “January 1, 1974” for “January 1, 1978”; cl. (F) “0.815 of 1 per centum” for “0.84 per centum” and “as reported for any taxable year beginning after December 31, 1973, and before January 1, 1978” for “so reported for any taxable year beginning after December 31, 1977, and before January 1, 2011”; cl. (G) “0.850 of 1 percentum” for “0.895 per centum” and “taxable year beginning after December 31, 1977, and before January 1, 1981” for “taxable year beginning after December 31, 2010”; and added cls. (H) to (J).
 
-    1972—Subsec. (a). [Pub. L. 92–603, § 132(a)][/us/pl/92/603/s132/a], inserted “such gifts and bequests as may be made as provided in subsection (i)(1) of this section, and” after “in addition,” in provisions preceding par. (1).
+    1972—Subsec. (a). [Pub. L. 92–603][/us/pl/92/603], § 132(a), inserted “such gifts and bequests as may be made as provided in subsection (i)(1) of this section, and” after “in addition,” in provisions preceding par. (1).
 
-    Subsec. (b). [Pub. L. 92–603, § 132(b)][/us/pl/92/603/s132/b], inserted “such gifts and bequests as may be made as provided in subsection (i)(1) of this section, and” after “consist of” in provisions preceding par. (1).
+    Subsec. (b). [Pub. L. 92–603][/us/pl/92/603], § 132(b), inserted “such gifts and bequests as may be made as provided in subsection (i)(1) of this section, and” after “consist of” in provisions preceding par. (1).
 
-    Subsec. (b)(1). [Pub. L. 92–603, § 136(a)][/us/pl/92/603/s136/a], substituted “1.1” for “1.0” in cl. (E), “1.15” for “1.1” in cl. (F), and “1.5” for “1.4” in cl. (G).
+    Subsec. (b)(1). [Pub. L. 92–603][/us/pl/92/603], § 136(a), substituted “1.1” for “1.0” in cl. (E), “1.15” for “1.1” in cl. (F), and “1.5” for “1.4” in cl. (G).
 
-    [Pub. L. 92–336, § 205(a)][/us/pl/92/336/s205/a], struck out “and” before “(D)”, inserted reference to wages paid before January 1, 1973, in cl. (D), and added cls. (E), (F), and (G).
+    [Pub. L. 92–336][/us/pl/92/336], § 205(a), struck out “and” before “(D)”, inserted reference to wages paid before January 1, 1973, in cl. (D), and added cls. (E), (F), and (G).
 
-    Subsec. (b)(2). [Pub. L. 92–603, § 136(b)][/us/pl/92/603/s136/b], substituted “0.795” for “0.75” in cl. (E), “0.84” for “0.825” in cl. (F), and “0.895” for “0.915” in cl. (G).
+    Subsec. (b)(2). [Pub. L. 92–603][/us/pl/92/603], § 136(b), substituted “0.795” for “0.75” in cl. (E), “0.84” for “0.825” in cl. (F), and “0.895” for “0.915” in cl. (G).
 
-    [Pub. L. 92–336, § 205(b)][/us/pl/92/336/s205/b], struck out “and” before “(D)”, inserted reference to self-employment income before January 1, 1973, in cl. (D), and added cls. (E), (F), and (G).
+    [Pub. L. 92–336][/us/pl/92/336], § 205(b), struck out “and” before “(D)”, inserted reference to self-employment income before January 1, 1973, in cl. (D), and added cls. (E), (F), and (G).
 
-    Subsec. (g)(1)(A). [Pub. L. 92–603, § 305(a)][/us/pl/92/603/s305/a], inserted references to subchapter XVI of this chapter and provisions relating to the general revenues of the United States with respect to subchapter XVI of this chapter and to the appropriations made pursuant to [section 1381 of this title][/us/usc/t42/s1381].
+    Subsec. (g)(1)(A). [Pub. L. 92–603][/us/pl/92/603], § 305(a), inserted references to subchapter XVI of this chapter and provisions relating to the general revenues of the United States with respect to subchapter XVI of this chapter and to the appropriations made pursuant to [section 1381 of this title][/us/usc/t42/s1381].
 
-    Subsec. (i). [Pub. L. 92–603, § 132(c)][/us/pl/92/603/s132/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 92–603][/us/pl/92/603], § 132(c), added subsec. (i).
 
-    1969—Subsec. (b)(1). [Pub. L. 91–172, § 1005(a)][/us/pl/91/172/s1005/a], inserted reference to wages paid before Jan. 1, 1969, and inserted provision for the appropriation of amounts equal to 1.10 per centum of wages paid after Dec. 31, 1969.
+    1969—Subsec. (b)(1). [Pub. L. 91–172][/us/pl/91/172], § 1005(a), inserted reference to wages paid before Jan. 1, 1969, and inserted provision for the appropriation of amounts equal to 1.10 per centum of wages paid after Dec. 31, 1969.
 
-    Subsec. (b)(2). [Pub. L. 91–172, § 1005(b)][/us/pl/91/172/s1005/b], inserted reference to self-employment income before Jan. 1, 1970, and inserted provision for the appropriation of 0.825 of 1 percent of the amount of self-employment income for taxable years beginning after Dec. 31, 1969.
+    Subsec. (b)(2). [Pub. L. 91–172][/us/pl/91/172], § 1005(b), inserted reference to self-employment income before Jan. 1, 1970, and inserted provision for the appropriation of 0.825 of 1 percent of the amount of self-employment income for taxable years beginning after Dec. 31, 1969.
 
-    1968—Subsec. (b)(1). [Pub. L. 90–248, § 110(a)][/us/pl/90/248/s110/a], designated existing provisions as cls. (A) and (B), inserted “and before January 1, 1968,” after “1965,” in cl. (B), and added cl. (C).
+    1968—Subsec. (b)(1). [Pub. L. 90–248][/us/pl/90/248], § 110(a), designated existing provisions as cls. (A) and (B), inserted “and before January 1, 1968,” after “1965,” in cl. (B), and added cl. (C).
 
-    Subsec. (b)(2). [Pub. L. 90–248, § 110(b)][/us/pl/90/248/s110/b], designated existing provisions as cls. (A) and (B), inserted “and before January 1, 1968, and” after “1965,” in cl. (B), and added cl. (C).
+    Subsec. (b)(2). [Pub. L. 90–248][/us/pl/90/248], § 110(b), designated existing provisions as cls. (A) and (B), inserted “and before January 1, 1968, and” after “1965,” in cl. (B), and added cl. (C).
 
-    Subsec. (c)(2). [Pub. L. 90–248, § 169(a)][/us/pl/90/248/s169/a], substituted “April” for “March”.
+    Subsec. (c)(2). [Pub. L. 90–248][/us/pl/90/248], § 169(a), substituted “April” for “March”.
 
-    Subsec. (c). [Pub. L. 90–248, § 169(b)][/us/pl/90/248/s169/b], inserted penultimate sentence for inclusion in reports of board of trustees to Congress of an actuarial analysis of the benefit disbursements made from the Federal Old-Age and Survivors Insurance Trust Fund with respect to disabled beneficiaries.
+    Subsec. (c). [Pub. L. 90–248][/us/pl/90/248], § 169(b), inserted penultimate sentence for inclusion in reports of board of trustees to Congress of an actuarial analysis of the benefit disbursements made from the Federal Old-Age and Survivors Insurance Trust Fund with respect to disabled beneficiaries.
 
-    1965—Subsec. (a)(3). [Pub. L. 89–97, § 108(a)(1)][/us/pl/89/97/s108/a/1], inserted “(other than sections 3101(b) and 3111(b))” after “chapter 21” in two places.
+    1965—Subsec. (a)(3). [Pub. L. 89–97][/us/pl/89/97], § 108(a)(1), inserted “(other than sections 3101(b) and 3111(b))” after “chapter 21” in two places.
 
-    Subsec. (a)(4). [Pub. L. 89–97, § 108(a)(2)][/us/pl/89/97/s108/a/2], inserted “(other than section 1401(b))” after “chapter 2” and “such subchapter or chapter”.
+    Subsec. (a)(4). [Pub. L. 89–97][/us/pl/89/97], § 108(a)(2), inserted “(other than section 1401(b))” after “chapter 2” and “such subchapter or chapter”.
 
-    Subsec. (b)(1). [Pub. L. 89–97, § 305(a)][/us/pl/89/97/s305/a], inserted “and before January 1, 1966,” after “December 31, 1956,” and “and 0.70 of 1 per centum of the wages (as so defined) paid after December 31, 1965, and so reported,” after “1954,”.
+    Subsec. (b)(1). [Pub. L. 89–97][/us/pl/89/97], § 305(a), inserted “and before January 1, 1966,” after “December 31, 1956,” and “and 0.70 of 1 per centum of the wages (as so defined) paid after December 31, 1965, and so reported,” after “1954,”.
 
-    Subsec. (b)(2). [Pub. L. 89–97, § 305(b)][/us/pl/89/97/s305/b], inserted “and before January 1, 1966, and 0.525 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1965,” after “December 31, 1956,”.
+    Subsec. (b)(2). [Pub. L. 89–97][/us/pl/89/97], § 305(b), inserted “and before January 1, 1966, and 0.525 of 1 per centum of the amount of self-employment income (as so defined) so reported for any taxable year beginning after December 31, 1965,” after “December 31, 1956,”.
 
-    Subsec. (c). [Pub. L. 89–97, § 327][/us/pl/89/97/s327], extended from once each six months to once each calendar year the minimum number of times the Board of Trustees must meet.
+    Subsec. (c). [Pub. L. 89–97][/us/pl/89/97], § 327, extended from once each six months to once each calendar year the minimum number of times the Board of Trustees must meet.
 
-    Subsec. (g)(1). [Pub. L. 89–97, § 108(a)(3)][/us/pl/89/97/s108/a/3], included the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund among the Trust Funds available for reimbursement of the Treasury for administrative costs of this subchapter and subchapter XVIII of this chapter, deleted references to administrative costs of subchapter VIII of this chapter and subchapter E of chapter 1 and subchapter 9 of the Internal Revenue Code of 1939, and also provided for adjustment among the Trust Funds during each fiscal year so that the Funds bear the proportionate share of the administration costs.
+    Subsec. (g)(1). [Pub. L. 89–97][/us/pl/89/97], § 108(a)(3), included the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund among the Trust Funds available for reimbursement of the Treasury for administrative costs of this subchapter and subchapter XVIII of this chapter, deleted references to administrative costs of subchapter VIII of this chapter and subchapter E of chapter 1 and subchapter 9 of the Internal Revenue Code of 1939, and also provided for adjustment among the Trust Funds during each fiscal year so that the Funds bear the proportionate share of the administration costs.
 
-    Subsec. (g)(2). [Pub. L. 89–97, § 108(a)(4)][/us/pl/89/97/s108/a/4], inserted “imposed under section 3101(a)” after “the amount estimated by him as taxes”.
+    Subsec. (g)(2). [Pub. L. 89–97][/us/pl/89/97], § 108(a)(4), inserted “imposed under section 3101(a)” after “the amount estimated by him as taxes”.
 
-    Subsec. (h). [Pub. L. 89–97, § 108(a)(5)][/us/pl/89/97/s108/a/5], inserted “(other than [section 426 of this title][/us/usc/t42/s426])” after “this subchapter”.
+    Subsec. (h). [Pub. L. 89–97][/us/pl/89/97], § 108(a)(5), inserted “(other than [section 426 of this title][/us/usc/t42/s426])” after “this subchapter”.
 
-    1960—Subsec. (c). [Pub. L. 86–778, § 701(a)][/us/pl/86/778/s701/a]–(c), required the Board of Trustees to meet not less frequently than once each six months, struck out provisions from cl. (3) which required the Board to report immediately to the Congress whenever the Board is of the opinion that during the ensuing five fiscal years either of the Trust Funds will exceed three times the highest annual expenditures from such Trust Fund anticipated during that five-fiscal-year period, and added cl. (5).
+    1960—Subsec. (c). [Pub. L. 86–778][/us/pl/86/778], § 701(a)–(c), required the Board of Trustees to meet not less frequently than once each six months, struck out provisions from cl. (3) which required the Board to report immediately to the Congress whenever the Board is of the opinion that during the ensuing five fiscal years either of the Trust Funds will exceed three times the highest annual expenditures from such Trust Fund anticipated during that five-fiscal-year period, and added cl. (5).
 
-    Subsec. (d). [Pub. L. 86–778, § 701(d)][/us/pl/86/778/s701/d], substituted “shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of four years from the end of such calendar month” for “bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the Public Debt that are not due or callable until after the expiration of five years from the date of original issue”, and substituted provisions authorizing the purchase of other interest-bearing obligations when the Managing Trustee determines that it is in the public interest for provisions which authorized the issuance of obligations by the Trust Funds only if the Managing Trustee determined that the purchase of other obligations was not in the public interest.
+    Subsec. (d). [Pub. L. 86–778][/us/pl/86/778], § 701(d), substituted “shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of four years from the end of such calendar month” for “bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the Public Debt that are not due or callable until after the expiration of five years from the date of original issue”, and substituted provisions authorizing the purchase of other interest-bearing obligations when the Managing Trustee determines that it is in the public interest for provisions which authorized the issuance of obligations by the Trust Funds only if the Managing Trustee determined that the purchase of other obligations was not in the public interest.
 
-    Subsec. (e). [Pub. L. 86–778, § 701(e)][/us/pl/86/778/s701/e], substituted “public-debt obligations” for “special obligations” in two places.
+    Subsec. (e). [Pub. L. 86–778][/us/pl/86/778], § 701(e), substituted “public-debt obligations” for “special obligations” in two places.
 
     1959—Subsec. (d). [Pub. L. 86–346][/us/pl/86/346] substituted “on original issue at the issue price” for “on original issue at par”.
 
@@ -507,23 +507,23 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–74, title VIII, § 833(3)][/us/pl/114/74/s833/3], Nov. 2, 2015, [129 Stat. 614][/us/stat/129/614], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 833(3), Nov. 2, 2015, [129 Stat. 614][/us/stat/129/614], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to wages paid after December 31, 2015, and self-employment income for taxable years beginning after such date.”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. J, title IV, § 4005(c)][/us/pl/105/277/s4005/c], Oct. 21, 1998, [112 Stat. 2681–912][/us/stat/112/2681-912], provided that: 
+[Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4005(c), Oct. 21, 1998, [112 Stat. 2681–912][/us/stat/112/2681-912], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall apply to benefits paid on or after the first day of the second month beginning after the month in which this Act is enacted \[October 1998\].”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–387, § 3(c)][/us/pl/103/387/s3/c], Oct. 22, 1994, [108 Stat. 4075][/us/stat/108/4075], provided that: 
+[Pub. L. 103–387][/us/pl/103/387], § 3(c), Oct. 22, 1994, [108 Stat. 4075][/us/stat/108/4075], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to wages paid after December 31, 1993, and self-employment income for taxable years beginning after such date.”
 
-[Pub. L. 103–296, title I, § 110][/us/pl/103/296/s110], Aug. 15, 1994, [108 Stat. 1490][/us/stat/108/1490], provided that:
+[Pub. L. 103–296, title I][/us/pl/103/296/tI], § 110, Aug. 15, 1994, [108 Stat. 1490][/us/stat/108/1490], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -537,7 +537,7 @@
 
 >     The amendments made by section 103 \[amending [section 903 of this title][/us/usc/t42/s903]\], subsections (b)(4) and (c) of section 105 \[enacting provisions set out in a note under [section 901 of this title][/us/usc/t42/s901]\], and subsections (a)(1), (e)(1), (e)(2), (e)(3), and (l)(2) of section 108 \[enacting [section 913 of this title][/us/usc/t42/s913] and amending sections 5312, 5313, and 5315 of Title 5 and [section 11 of Pub. L. 95–452][/us/pl/95/452/s11], Inspector General Act of 1978, set out in the Appendix to Title 5\] shall take effect on the date of the enactment of this Act.”
 
-[Pub. L. 103–296, title III, § 301(c)][/us/pl/103/296/s301/c], Aug. 15, 1994, [108 Stat. 1518][/us/stat/108/1518], provided that:
+[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 301(c), Aug. 15, 1994, [108 Stat. 1518][/us/stat/108/1518], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -547,21 +547,21 @@
 
 >     Not later than 60 days after the date of the enactment of this Act, the Secretary of the Treasury shall issue to the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as applicable, a paper instrument, in the form of a bond, note, or certificate of indebtedness, for each obligation which has been issued to the Trust Fund under section 201(d) of the Social Security Act \[[42 U.S.C. 401(d)][/us/usc/t42/s401/d]\] and which is outstanding as of such date. Each such document shall set forth the principal amount, date of maturity, and interest rate of the obligation, and shall state on its face that the obligation shall be incontestable in the hands of the Trust Fund to which it was issued, that the obligation is supported by the full faith and credit of the United States, and that the United States is pledged to the payment of the obligation with respect to both principal and interest.”
 
-[Pub. L. 103–296, title III, § 321(c)(1)(A)(ii)][/us/pl/103/296/s321/c/1/A/ii], Aug. 15, 1994, [108 Stat. 1537][/us/stat/108/1537], provided that: 
+[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 321(c)(1)(A)(ii), Aug. 15, 1994, [108 Stat. 1537][/us/stat/108/1537], provided that: 
 
 > “The amendments made by clause (i) \[amending this section\] shall apply only with respect to periods beginning on or after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
-[Pub. L. 103–296, title III, § 321(c)(1)(B)(ii)][/us/pl/103/296/s321/c/1/B/ii], Aug. 15, 1994, [108 Stat. 1537][/us/stat/108/1537], provided that: 
+[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 321(c)(1)(B)(ii), Aug. 15, 1994, [108 Stat. 1537][/us/stat/108/1537], provided that: 
 
 > “The amendments made by clause (i) \[amending this section\] shall apply only with respect to wages paid on or after January 1, 1995.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title V, § 5106(d)][/us/pl/101/508/s5106/d], Nov. 5, 1990, [104 Stat. 1388–269][/us/stat/104/1388-269], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5106(d), Nov. 5, 1990, [104 Stat. 1388–269][/us/stat/104/1388-269], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 406, 1320a–6, 1383, and 1395i of this title\] shall apply with respect to determinations made on or after July 1, 1991, and to reimbursement for travel expenses incurred on or after April 1, 1991.”
 
-[Pub. L. 101–508, title V, § 5115(c)][/us/pl/101/508/s5115/c]\[(b)\], Nov. 5, 1990, [104 Stat. 1388–274][/us/stat/104/1388-274], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5115(c)\[(b)\], Nov. 5, 1990, [104 Stat. 1388–274][/us/stat/104/1388-274], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on the first day of the month following the month in which this Act is enacted \[November 1991\].”
 
@@ -569,25 +569,25 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–234, title II, § 202(b)][/us/pl/101/234/s202/b], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], provided that: 
+[Pub. L. 101–234, title II][/us/pl/101/234/tII], § 202(b), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], provided that: 
 
 > “The provisions of subsection (a) \[set out below\] shall take effect January 1, 1990, and the repeal of section 211 of MCCA \[[Pub. L. 100–360][/us/pl/100/360], which amended sections 1395r, 1395w, and 1395mm of this title and enacted provisions set out as a note under [section 1395r of this title][/us/usc/t42/s1395r]\] shall apply to premiums for months beginning after December 31, 1989.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VIII, § 8005(b)][/us/pl/100/647/s8005/b], Nov. 10, 1988, [102 Stat. 3781][/us/stat/102/3781], provided that: 
+[Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8005(b), Nov. 10, 1988, [102 Stat. 3781][/us/stat/102/3781], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395i and 1395t of this title\] shall apply to members of the Boards of Trustees of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, of the Federal Hospital Insurance Trust Fund, and of the Federal Supplementary Medical Insurance Trust Fund serving on such Boards of Trustees as members of the public on or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title IX, § 9213(c)][/us/pl/99/272/s9213/c], Apr. 7, 1986, [100 Stat. 180][/us/stat/100/180], provided that: 
+[Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9213(c), Apr. 7, 1986, [100 Stat. 180][/us/stat/100/180], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395i and 1395t of this title\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title VI, § 2664][/us/pl/98/369/s2664], July 18, 1984, [98 Stat. 1171][/us/stat/98/1171], provided that:
+[Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2664, July 18, 1984, [98 Stat. 1171][/us/stat/98/1171], provided that:
 
 >     “(a) Except as otherwise specifically provided, the amendments made by sections 2661 and 2662 \[amending this section and sections 402, 403, 405, 409, 410, 415, 416, 423, 428, and 429 of this title and sections 86, 134, 422A, 3121, 3306, and 6334 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 402 and 403 of this title and sections 3121 and 3306 of Title 26, and amending provisions set out as notes under sections 415 and 902 of this title, [section 3121 of Title 26][/us/usc/t26/s3121], and section 3023 \[now 5123\] of Title 38, Veterans’ Benefits\] shall be effective as though they had been included in the enactment of the Social Security Amendments of 1983 ([Public Law 98–21][/us/pl/98/21]).
 
@@ -595,35 +595,35 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–21, title I, § 141(c)][/us/pl/98/21/s141/c], Apr. 20, 1983, [97 Stat. 99][/us/stat/97/99], provided that: 
+[Pub. L. 98–21, title I][/us/pl/98/21/tI], § 141(c), Apr. 20, 1983, [97 Stat. 99][/us/stat/97/99], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1395i of this title][/us/usc/t42/s1395i]\] shall become effective on the first day of the month following the month in which this Act is enacted \[April 1983\].”
 
-[Pub. L. 98–21, title I, § 142(a)(2)(B)][/us/pl/98/21/s142/a/2/B], Apr. 20, 1983, [97 Stat. 99][/us/stat/97/99], provided that: 
+[Pub. L. 98–21, title I][/us/pl/98/21/tI], § 142(a)(2)(B), Apr. 20, 1983, [97 Stat. 99][/us/stat/97/99], provided that: 
 
 > “The amendment made by this paragraph \[amending this section\] shall apply with respect to months beginning more than thirty days after the date of enactment of this Act \[Apr. 20, 1983\].”
 
-[Pub. L. 98–21, title I, § 152(b)][/us/pl/98/21/s152/b], Apr. 20, 1983, [97 Stat. 105][/us/stat/97/105], provided that: 
+[Pub. L. 98–21, title I][/us/pl/98/21/tI], § 152(b), Apr. 20, 1983, [97 Stat. 105][/us/stat/97/105], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to all checks for benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] which are issued on or after the first day of the twenty-fourth month following the month in which this Act is enacted \[April 1983\].”
 
-[Pub. L. 98–21, title I, § 154(e)][/us/pl/98/21/s154/e], Apr. 20, 1983, [97 Stat. 107][/us/stat/97/107], provided that: 
+[Pub. L. 98–21, title I][/us/pl/98/21/tI], § 154(e), Apr. 20, 1983, [97 Stat. 107][/us/stat/97/107], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395i and 1395t of this title\] shall take effect on the date of the enactment of this Act \[Apr. 20, 1983\].”
 
-[Pub. L. 98–21, title III, § 341(d)][/us/pl/98/21/s341/d], Apr. 20, 1983, [97 Stat. 136][/us/stat/97/136], provided that: 
+[Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 341(d), Apr. 20, 1983, [97 Stat. 136][/us/stat/97/136], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395i and 1395t of this title\] shall become effective on the date of enactment of this Act \[Apr. 20, 1983\].”
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–123, § 1(c)][/us/pl/97/123/s1/c], Dec. 29, 1981, [95 Stat. 1660][/us/stat/95/1660], provided that: 
+[Pub. L. 97–123][/us/pl/97/123], § 1(c), Dec. 29, 1981, [95 Stat. 1660][/us/stat/95/1660], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1395i of this title][/us/usc/t42/s1395i]\] shall be effective on the date of the enactment of this Act \[Dec. 29, 1981\].”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–403, § 2][/us/pl/96/403/s2], Oct. 9, 1980, [94 Stat. 1710][/us/stat/94/1710], provided that: 
+[Pub. L. 96–403][/us/pl/96/403], § 2, Oct. 9, 1980, [94 Stat. 1710][/us/stat/94/1710], provided that: 
 
 > “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to remuneration paid, and taxable years beginning after December 31, 1979.”
 
@@ -633,17 +633,17 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–603, title I, § 132(f)][/us/pl/92/603/s132/f], Oct. 30, 1972, [86 Stat. 1361][/us/stat/86/1361], provided that: 
+[Pub. L. 92–603, title I][/us/pl/92/603/tI], § 132(f), Oct. 30, 1972, [86 Stat. 1361][/us/stat/86/1361], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395i and 1395t of this title\] shall apply with respect to gifts and bequests received after the date of enactment of this Act \[Oct. 30, 1972\].”
 
-[Pub. L. 92–603, title III, § 305(c)][/us/pl/92/603/s305/c], Oct. 30, 1972, [86 Stat. 1485][/us/stat/86/1485], provided that: 
+[Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 305(c), Oct. 30, 1972, [86 Stat. 1485][/us/stat/86/1485], provided that: 
 
 > “The provisions of this section \[amending this section and enacting provisions set out as a note under this section\] shall become effective on the date of enactment of this Act \[Oct. 30, 1972\].”
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–778, title VII, § 701(f)][/us/pl/86/778/s701/f], Sept. 13, 1960, [74 Stat. 993][/us/stat/74/993], provided that: 
+[Pub. L. 86–778, title VII][/us/pl/86/778/tVII], § 701(f), Sept. 13, 1960, [74 Stat. 993][/us/stat/74/993], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Sept. 13, 1960\].”
 
@@ -653,11 +653,11 @@
 
  __Effective Date of 1939 Amendment__ 
 
-    [Act Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], provided that the amendment made by that section is effective Jan. 1, 1940.
+    [Act Aug. 10, 1939, ch. 666, title II][/us/act/1939-08-10/ch666/tII], § 201, [53 Stat. 1362][/us/stat/53/1362], provided that the amendment made by that section is effective Jan. 1, 1940.
 
  __Construction of 1994 Amendment__ 
 
-[Pub. L. 103–296, title III, § 321(d)][/us/pl/103/296/s321/d], Aug. 15, 1994, [108 Stat. 1538][/us/stat/108/1538], provided that:
+[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 321(d), Aug. 15, 1994, [108 Stat. 1538][/us/stat/108/1538], provided that:
 
 >     “(1) The preceding provisions of this section \[amending this section and sections 402, 403, 405, 408 to 411, 413, 415, 416, 418, 423, 429, 430, and 432 of this title, and enacting provisions set out as notes under this section and sections 402 and 430 of this title\] shall be construed only as technical and clerical corrections and as reflecting the original intent of the provisions amended thereby.
 
@@ -665,7 +665,7 @@
 
  __Protection of Social Security__ 
 
-[Pub. L. 110–234, title XV, § 15361][/us/pl/110/234/s15361], May 22, 2008, [122 Stat. 1527][/us/stat/122/1527], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15361, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289, provided that: 
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15361, May 22, 2008, [122 Stat. 1527][/us/stat/122/1527], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15361, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289, provided that: 
 
 > “To ensure that the assets of the trust funds established under section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]) are not reduced as a result of the enactment of this Act \[see Tables for classification\], the Secretary of the Treasury shall transfer annually from the general revenues of the Federal Government to those trust funds the following amounts:
 
@@ -691,7 +691,7 @@
 
  __No Impact on Social Security Trust Funds__ 
 
-[Pub. L. 107–147, title V, § 501][/us/pl/107/147/s501], Mar. 9, 2002, [116 Stat. 58][/us/stat/116/58], provided that:
+[Pub. L. 107–147, title V][/us/pl/107/147/tV], § 501, Mar. 9, 2002, [116 Stat. 58][/us/stat/116/58], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -709,7 +709,7 @@
 
  __Impact of__  __[__  __Pub. L. 107–134__  __][/us/pl/107/134]__  __on Social Security Trust Funds__ 
 
-[Pub. L. 107–134, title III, § 301][/us/pl/107/134/s301], Jan. 23, 2002, [115 Stat. 2444][/us/stat/115/2444], provided that:
+[Pub. L. 107–134, title III][/us/pl/107/134/tIII], § 301, Jan. 23, 2002, [115 Stat. 2444][/us/stat/115/2444], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -727,11 +727,11 @@
 
  __Study by General Accounting Office of Existing Coordination of the DI and SSI Programs as They Relate to Individuals Entering or Leaving Concurrent Entitlement__ 
 
-    [Pub. L. 106–170, title III, § 303(b)][/us/pl/106/170/s303/b], Dec. 17, 1999, [113 Stat. 1904][/us/stat/113/1904], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study to evaluate the coordination of the disability insurance program under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) and the supplemental security income program under title XVI ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) of that Act, as such programs related to individuals entering or leaving concurrent entitlement under such programs, specifically addressing the effectiveness of work incentives under such programs and the effectiveness of coverage of such individuals under titles XVIII and XIX of that Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.), and not later than 3 years after Dec. 17, 1999, was to transmit to the appropriate congressional committees a report presenting the results of the study and any appropriate recommendations for legislative or administrative changes.
+    [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 303(b), Dec. 17, 1999, [113 Stat. 1904][/us/stat/113/1904], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study to evaluate the coordination of the disability insurance program under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) and the supplemental security income program under title XVI ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) of that Act, as such programs related to individuals entering or leaving concurrent entitlement under such programs, specifically addressing the effectiveness of work incentives under such programs and the effectiveness of coverage of such individuals under titles XVIII and XIX of that Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.), and not later than 3 years after Dec. 17, 1999, was to transmit to the appropriate congressional committees a report presenting the results of the study and any appropriate recommendations for legislative or administrative changes.
 
  __Use of Continuing Disability Review Funds and Report Requirement__ 
 
-[Pub. L. 104–121, title I, § 103(d)][/us/pl/104/121/s103/d], Mar. 29, 1996, [110 Stat. 850][/us/stat/110/850], as amended by [Pub. L. 104–193, title II, § 211(d)(5)(D)][/us/pl/104/193/s211/d/5/D], Aug. 22, 1996, [110 Stat. 2192][/us/stat/110/2192], provided that:
+[Pub. L. 104–121, title I][/us/pl/104/121/tI], § 103(d), Mar. 29, 1996, [110 Stat. 850][/us/stat/110/850], as amended by [Pub. L. 104–193, title II][/us/pl/104/193/tII], § 211(d)(5)(D), Aug. 22, 1996, [110 Stat. 2192][/us/stat/110/2192], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -749,13 +749,13 @@
 
  __Repeal of Changes in Medicare Part B Monthly Premium and Financing__ 
 
-[Pub. L. 101–234, title II, § 202(a)][/us/pl/101/234/s202/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], provided that: 
+[Pub. L. 101–234, title II][/us/pl/101/234/tII], § 202(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], provided that: 
 
 > “Sections 211 through 213 (other than sections 211(b) and 211(c)(3)(B)) of MCCA \[[Pub. L. 100–360][/us/pl/100/360], which enacted sections 1395t–1 and 1395t–2 of this title, amended this section and sections 1395i, 1395l, 1395r, 1395s, 1395t, 1395w, and 1395mm of this title, and enacted provisions set out as a note under [section 1395r of this title][/us/usc/t42/s1395r]\] are repealed and the provisions of law amended or repealed by such sections are restored or revised as if such sections had not been enacted.”
 
  __Transfer of Equivalent of 1983 Tax Increases to Payor Funds; Reports__ 
 
-[Pub. L. 98–21, title I, § 121(e)][/us/pl/98/21/s121/e], Apr. 20, 1983, [97 Stat. 83][/us/stat/97/83], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–66, title XIII, § 13215(c)][/us/pl/103/66/s13215/c], Aug. 10, 1993, [107 Stat. 476][/us/stat/107/476]; [Pub. L. 104–188, title I, § 1703(n)(12)][/us/pl/104/188/s1703/n/12], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that:
+[Pub. L. 98–21, title I][/us/pl/98/21/tI], § 121(e), Apr. 20, 1983, [97 Stat. 83][/us/stat/97/83], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13215(c), Aug. 10, 1993, [107 Stat. 476][/us/stat/107/476]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1703(n)(12), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -795,7 +795,7 @@
 
  __Reimbursement to Trust Funds for Unnegotiated Benefit Checks__ 
 
-[Pub. L. 98–21, title I, § 152(c)][/us/pl/98/21/s152/c], Apr. 20, 1983, [97 Stat. 105][/us/stat/97/105], provided that:
+[Pub. L. 98–21, title I][/us/pl/98/21/tI], § 152(c), Apr. 20, 1983, [97 Stat. 105][/us/stat/97/105], provided that:
 
 >     “(1) The Secretary of the Treasury shall transfer from the general fund of the Treasury to the Federal Old-Age and Survivors Insurance Trust Fund and to the Federal Disability Insurance Trust Fund, in the month following the month in which this Act is enacted \[April 1983\] and in each of the succeeding 30 months, such sums as may be necessary to reimburse such Trust Funds in the total amount of all checks (including interest thereof) which he and the Secretary of Health and Human Services jointly determine to be unnegotiated benefit checks, to the extent provided in advance in appropriation Acts. After any amounts authorized by this subsection have been transferred to a Trust Fund with respect to any benefit check, the provisions of paragraphs (3) and (4) of section 201(m) of the Social Security Act \[[42 U.S.C. 401(m)(3)][/us/usc/t42/s401/m/3], (4)\] (as added by subsection (a) of this section) shall be applicable to such check.
 
@@ -803,35 +803,35 @@
 
  __Study of Float Period of Monthly Insurance Benefit Checks__ 
 
-    [Pub. L. 98–21, title I, § 153][/us/pl/98/21/s153], Apr. 20, 1983, [97 Stat. 106][/us/stat/97/106], directed Secretary of Health and Human Services and Secretary of the Treasury jointly to undertake a thorough study with respect to period of time (referred to as “float period”) between issuance of checks from general fund of Treasury in payment of monthly insurance benefits under title II of the Social Security Act \[this subchapter\] and transfer to general fund from Federal Old-Age and Survivors Insurance Trust Fund or Federal Disability Insurance Trust Fund, as applicable, of amounts necessary to compensate general fund for issuance of such checks, with Secretaries to submit a report to President an Congress not later than twelve months after Apr. 20, 1983, on their findings as to necessity of making adjustments in procedures governing payment of monthly insurance benefits.
+    [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 153, Apr. 20, 1983, [97 Stat. 106][/us/stat/97/106], directed Secretary of Health and Human Services and Secretary of the Treasury jointly to undertake a thorough study with respect to period of time (referred to as “float period”) between issuance of checks from general fund of Treasury in payment of monthly insurance benefits under title II of the Social Security Act \[this subchapter\] and transfer to general fund from Federal Old-Age and Survivors Insurance Trust Fund or Federal Disability Insurance Trust Fund, as applicable, of amounts necessary to compensate general fund for issuance of such checks, with Secretaries to submit a report to President an Congress not later than twelve months after Apr. 20, 1983, on their findings as to necessity of making adjustments in procedures governing payment of monthly insurance benefits.
 
  __Due Date for 1983 Report on Operation and Status of Trust Fund__ 
 
-    [Pub. L. 98–21, title I, § 154(d)][/us/pl/98/21/s154/d], Apr. 20, 1983, [97 Stat. 107][/us/stat/97/107], provided that notwithstanding sections 401(c)(2), 1395i(b)(2), and 1395t(b)(2) of this title, the annual reports of the Boards of Trustees of the Trust Funds which are required in calendar year 1983 under those sections may be filed at any time not later than forty-five days after Apr. 20, 1983.
+    [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 154(d), Apr. 20, 1983, [97 Stat. 107][/us/stat/97/107], provided that notwithstanding sections 401(c)(2), 1395i(b)(2), and 1395t(b)(2) of this title, the annual reports of the Boards of Trustees of the Trust Funds which are required in calendar year 1983 under those sections may be filed at any time not later than forty-five days after Apr. 20, 1983.
 
  __Study Relating to Establishment of Time Limitations for Decisions on Claims for Benefits; Report__ 
 
-    [Pub. L. 96–265, title III, § 308][/us/pl/96/265/s308], June 9, 1980, [94 Stat. 458][/us/stat/94/458], directed Secretary of Health and Human Services to submit to Congress, no later than July 1, 1980, a report recommending establishment of appropriate time limitations governing decisions on claims for benefits under this subchapter, taking into account both need for expeditious processing of claims for benefits and need to assure that all such claims will be thoroughly considered and accurately determined.
+    [Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 308, June 9, 1980, [94 Stat. 458][/us/stat/94/458], directed Secretary of Health and Human Services to submit to Congress, no later than July 1, 1980, a report recommending establishment of appropriate time limitations governing decisions on claims for benefits under this subchapter, taking into account both need for expeditious processing of claims for benefits and need to assure that all such claims will be thoroughly considered and accurately determined.
 
  __Effects of Certain Amendments by__  __[__  __Pub. L. 96–265__  __][/us/pl/96/265]__  __; Report__ 
 
-    [Pub. L. 96–265, title III, § 312][/us/pl/96/265/s312], June 9, 1980, [94 Stat. 460][/us/stat/94/460], directed Secretary of Health and Human Services to submit to Congress, not later than Jan. 1, 1985, a full and complete report as to effects produced by reason of preceding provisions of this Act and amendments made thereby (see Tables for classification).
+    [Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 312, June 9, 1980, [94 Stat. 460][/us/stat/94/460], directed Secretary of Health and Human Services to submit to Congress, not later than Jan. 1, 1985, a full and complete report as to effects produced by reason of preceding provisions of this Act and amendments made thereby (see Tables for classification).
 
  __Appointment and Compensation of Individuals Necessary To Assist the Board of Trustees__ 
 
-[Pub. L. 94–202, § 8(e)][/us/pl/94/202/s8/e], Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139], provided that: 
+[Pub. L. 94–202][/us/pl/94/202], § 8(e), Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139], provided that: 
 
 > “Any persons the Board of Trustees finds necessary to employ to assist it in performing its functions under section 201(g)(4) of the Social Security Act \[[42 U.S.C. 401(g)(4)][/us/usc/t42/s401/g/4]\] may be appointed without regard to the civil service or classification laws, shall be compensated, while so employed at rates fixed by the Board of Trustees, but not exceeding $100 per day, and, while away from their homes or regular places of business, they may be allowed traveling expenses, including per diem in lieu of subsistence, as authorized by law for persons in the Government service employed intermittently.”
 
  __Method of Determining Costs Prescribed by the Board of Trustees Certification and Transfer of Funds__ 
 
-[Pub. L. 94–202, § 8(f)][/us/pl/94/202/s8/f], Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–202][/us/pl/94/202], § 8(f), Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The Secretary shall not make any estimates pursuant to section 201(g)(1)(A)(ii) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)(ii)][/us/usc/t42/s401/g/1/A/ii]\] before the Board of Trustees prescribes the method of determining costs as provided in section 201(g)(4) of such Act \[[42 U.S.C. 401(g)(4)][/us/usc/t42/s401/g/4]\]. The determinations pursuant to section 201(g)(1)(B) of the Social Security Act \[[42 U.S.C. 401(g)(1)(B)][/us/usc/t42/s401/g/1/B]\] with respect to the carrying out of the functions of the Department of Health, Education, and Welfare \[now Health and Human Services\] specified in section 232 of such Act \[[42 U.S.C. 432][/us/usc/t42/s432]\], which relate to the administration of provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (other than those referred to in clause (i) of the first sentence of section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\]), during fiscal years ending before the Board of Trustees prescribes the method of making such determinations, shall be made after the Board of Trustees has prescribed such method. The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall certify to the Managing Trustee the amounts that should be transferred from the general fund in the Treasury to the Trust Funds (as referred to in section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\]) to insure that the general fund in the Treasury bears its proper share of the costs of carrying out such functions in such fiscal years. The Managing Trustee is authorized and directed to transfer any such amounts in accordance with any certification so made.”
 
  __Advances From Trust Funds for Administrative Expenses__ 
 
-[Pub. L. 92–603, title III, § 305(b)][/us/pl/92/603/s305/b], Oct. 30, 1972, [86 Stat. 1485][/us/stat/86/1485], provided that:
+[Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 305(b), Oct. 30, 1972, [86 Stat. 1485][/us/stat/86/1485], provided that:
 
 >     “(1) Sums appropriated pursuant to section 1601 of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381]\] shall be utilized from time to time, in amounts certified under the second sentence of section 201(g)(1)(A) of such Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\], to repay the Trust Funds for expenditures made from such Funds in any fiscal year under section 201(g)(1)(A) of such Act (as amended by subsection (a) of this section) on account of the costs of administration of title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] (as added by section 301 of this Act).
 
@@ -855,13 +855,13 @@
 
  __Gifts and Bequests for the Use of the United States and for Exclusively Public Purposes__ 
 
-[Pub. L. 92–603, title I, § 132(g)][/us/pl/92/603/s132/g], Oct. 30, 1972, [86 Stat. 1361][/us/stat/86/1361], provided that: 
+[Pub. L. 92–603, title I][/us/pl/92/603/tI], § 132(g), Oct. 30, 1972, [86 Stat. 1361][/us/stat/86/1361], provided that: 
 
 > “For the purpose of Federal income, estate, and gift taxes, any gift or bequest to the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, or the Federal Supplementary Medical Insurance Trust Fund, or to the Department of Health, Education, and Welfare \[now Health and Human Services\], or any part or officer thereof, for the benefit of any of such Funds or any activity financed through any of such Funds, which is accepted by the Managing Trustee of such Trust Funds under the authority of section 201(i) of the Social Security Act \[[42 U.S.C. 401(i)][/us/usc/t42/s401/i]\], shall be considered as a gift or bequest to or for the use of the United States and as made for exclusively public purposes.”
 
  __Taxes on Services Rendered by Employees of International Organizations Prior to__  __Jan. 1, 1946__ 
 
-    [Act Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 5(b), [59 Stat. 671][/us/stat/59/671], prohibited collection of tax under title VIII or IX of the Social Security Act or under the Federal Insurance Contributions Act or the Federal Unemployment Tax Act with respect to services rendered prior to January 1, 1946, which were described in paragraph (16) of sections 1426(b) and 1607(c) of the Internal Revenue Code of 1939, and authorized refund of taxes collected.
+    [Act Dec. 29, 1945, ch. 652, title I][/us/act/1945-12-29/ch652/tI], § 5(b), [59 Stat. 671][/us/stat/59/671], prohibited collection of tax under title VIII or IX of the Social Security Act or under the Federal Insurance Contributions Act or the Federal Unemployment Tax Act with respect to services rendered prior to January 1, 1946, which were described in paragraph (16) of sections 1426(b) and 1607(c) of the Internal Revenue Code of 1939, and authorized refund of taxes collected.
 
  __Executive Order No. 12335__ 
 
@@ -904,67 +904,67 @@
 [/us/stat/64/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F521
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F819
-[/us/pl/85/840/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs205%2Fa
+[/us/pl/85/840/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtII
 [/us/stat/72/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1021
-[/us/pl/86/346/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2Fs104%2F2
+[/us/pl/86/346/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2FtI
 [/us/stat/73/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F622
-[/us/pl/86/778/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs701%2Fa
+[/us/pl/86/778/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVII
 [/us/stat/74/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F992
-[/us/pl/89/97/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs108%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F338
-[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F837
-[/us/pl/91/172/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1005
+[/us/pl/91/172/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtX
 [/us/stat/83/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F741
-[/us/pl/92/336/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs205
+[/us/pl/92/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2FtII
 [/us/stat/86/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F422
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1360
-[/us/pl/93/233/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs7
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F955
-[/us/pl/94/202/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fd
+[/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
 [/us/stat/89/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1137
-[/us/pl/95/216/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs102%2Fa
+[/us/pl/95/216/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtI
 [/us/stat/91/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1513
-[/us/pl/96/265/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs310%2Fa
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F459
-[/us/pl/96/403/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403%2Fs1
+[/us/pl/96/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403
 [/us/stat/94/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1709
-[/us/pl/97/123/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123%2Fs1%2Fa
+[/us/pl/97/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123
 [/us/stat/95/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1659
-[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F91
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1156
-[/us/pl/99/272/s9213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9213%2Fa
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F180
-[/us/pl/100/360/s212/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs212%2Fc%2F1
+[/us/pl/100/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtII
 [/us/stat/102/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F741
-[/us/pl/100/647/s8005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8005%2Fa
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3781
-[/us/pl/101/234/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs202%2Fa
+[/us/pl/101/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtII
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-268
-[/us/pl/103/296/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/103/387/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs3%2Fa
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4074
-[/us/pl/104/121/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs103%2Fa
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F848
-[/us/pl/105/277/s4005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fb
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-911
-[/us/pl/106/169/s251/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F1
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1854
-[/us/pl/106/170/s301/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs301%2Fb%2F1%2FB
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1902
-[/us/pl/108/173/s101/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F3%2FA
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2150
-[/us/pl/108/203/s420/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs420%2Fa
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F535
-[/us/pl/114/74/s833/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs833%2F1
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F613
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
@@ -972,145 +972,145 @@
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/103/296/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs207
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
-[/us/pl/104/193/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs212%2Fb%2F2
+[/us/pl/104/193/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtII
 [/us/stat/110/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2193
-[/us/pl/114/74/s833/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs833%2F1
-[/us/pl/114/74/s833/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs833%2F2
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
-[/us/pl/108/173/s101/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F3%2FA
-[/us/pl/108/173/s101/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F3%2FB
-[/us/pl/106/169/s251/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F1%2FA
-[/us/pl/106/169/s251/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F1%2FB
-[/us/pl/106/169/s251/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F1%2FC
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs434
-[/us/pl/105/277/s4005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fb%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407%2Fc
-[/us/pl/105/277/s4005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fb%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407%2Fc
-[/us/pl/105/277/s4005/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fb%2F3
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407%2Fc
-[/us/pl/105/277/s4005/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fb%2F4
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407%2Fc
-[/us/pl/105/277/s4005/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fb%2F5
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407%2Fc
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
-[/us/pl/105/277/s4005/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fb%2F6
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407%2Fc
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/103/296/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fa%2F1
-[/us/pl/103/296/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F1
-[/us/pl/103/296/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F1
-[/us/pl/103/296/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F1
-[/us/pl/103/387/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs3%2Fa
-[/us/pl/103/296/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F1
-[/us/pl/103/387/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs3%2Fb
-[/us/pl/103/296/s107/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F3
-[/us/pl/103/296/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs301%2Fa
-[/us/pl/103/296/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs301%2Fb
-[/us/pl/103/296/s107/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F4%2FC
-[/us/pl/103/296/s321/c/1/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fi%2FIII
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
-[/us/pl/103/296/s321/c/1/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fi%2FIII
-[/us/pl/103/296/s321/c/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fi%2FI
-[/us/pl/103/296/s107/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F4%2FA
-[/us/pl/103/296/s321/c/1/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fi%2FII
-[/us/pl/103/296/s107/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F4%2FB
-[/us/pl/103/296/s107/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F4%2FA
-[/us/pl/103/296/s321/c/1/A/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fi%2FIV
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
-[/us/pl/103/296/s321/c/1/A/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fi%2FIV
-[/us/pl/103/296/s107/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F4%2FA
-[/us/pl/103/296/s321/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FB%2Fi
-[/us/pl/103/296/s107/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F5
-[/us/pl/103/296/s107/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F6
-[/us/pl/103/296/s321/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FC
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
-[/us/pl/103/296/s321/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FC
-[/us/pl/103/296/s107/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F7
-[/us/pl/103/296/s107/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F8
-[/us/pl/103/296/s107/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F8
-[/us/pl/103/296/s107/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F9
-[/us/pl/103/296/s107/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fb%2F10
-[/us/pl/101/508/s5115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5115%2Fa
-[/us/pl/101/508/s13304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13304
-[/us/pl/101/508/s5106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5106%2Fc
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
-[/us/pl/100/360/s212/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs212%2Fc%2F1
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/360/s212/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs212%2Fc%2F1%2FA
-[/us/pl/100/360/s212/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs212%2Fc%2F1%2FB
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/98/369/s2663/j/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FA%2Fi
-[/us/pl/98/369/s2663/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F1%2FA
-[/us/pl/98/369/s2663/j/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FA%2Fi
-[/us/pl/98/369/s2663/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F1%2FB
-[/us/pl/98/369/s2663/j/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FA%2Fi
-[/us/pl/98/369/s2661/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2661%2Fa
-[/us/pl/98/21/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs141%2Fa
-[/us/pl/98/21/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs126%2Fa
-[/us/pl/98/21/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs126%2Fb
-[/us/pl/98/21/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs341%2Fa
-[/us/pl/98/21/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs154%2Fa
-[/us/pl/98/21/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs142%2Fa%2F1
-[/us/pl/98/21/s142/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs142%2Fa%2F2%2FA
-[/us/pl/98/21/s142/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs142%2Fa%2F3
-[/us/pl/98/21/s142/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs142%2Fa%2F4
-[/us/pl/98/21/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs152%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/97/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123
-[/us/pl/96/403/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403%2Fs1%2Fa
-[/us/pl/96/403/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403%2Fs1%2Fb
-[/us/pl/96/265/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs310%2Fa
-[/us/pl/96/265/s505/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs505%2Fa%2F5
-[/us/pl/95/216/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs102%2Fa%2F1
-[/us/pl/95/216/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs102%2Fa%2F2
-[/us/pl/94/202/s8/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fd%2F1
+[/us/pl/96/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403
+[/us/pl/96/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
-[/us/pl/94/202/s8/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fd%2F2
-[/us/pl/93/233/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs7%2Fa
-[/us/pl/93/233/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs7%2Fb
-[/us/pl/92/603/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs132%2Fa
-[/us/pl/92/603/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs132%2Fb
-[/us/pl/92/603/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs136%2Fa
-[/us/pl/92/336/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs205%2Fa
-[/us/pl/92/603/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs136%2Fb
-[/us/pl/92/336/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs205%2Fb
-[/us/pl/92/603/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs305%2Fa
+[/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
-[/us/pl/92/603/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs132%2Fc
-[/us/pl/91/172/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1005%2Fa
-[/us/pl/91/172/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1005%2Fb
-[/us/pl/90/248/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs110%2Fa
-[/us/pl/90/248/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs110%2Fb
-[/us/pl/90/248/s169/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs169%2Fa
-[/us/pl/90/248/s169/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs169%2Fb
-[/us/pl/89/97/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs108%2Fa%2F1
-[/us/pl/89/97/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs108%2Fa%2F2
-[/us/pl/89/97/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs305%2Fa
-[/us/pl/89/97/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs305%2Fb
-[/us/pl/89/97/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs327
-[/us/pl/89/97/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs108%2Fa%2F3
-[/us/pl/89/97/s108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs108%2Fa%2F4
-[/us/pl/89/97/s108/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs108%2Fa%2F5
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
-[/us/pl/86/778/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs701%2Fa
-[/us/pl/86/778/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs701%2Fd
-[/us/pl/86/778/s701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs701%2Fe
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/114/74/s833/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs833%2F3
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F614
-[/us/pl/105/277/s4005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4005%2Fc
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-912
-[/us/pl/103/387/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs3%2Fc
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4075
-[/us/pl/103/296/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1490
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t42/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs901
@@ -1118,71 +1118,71 @@
 [/us/usc/t42/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs901
 [/us/usc/t42/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs913
 [/us/pl/95/452/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs11
-[/us/pl/103/296/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs301%2Fc
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1518
 [/us/usc/t42/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fd
-[/us/pl/103/296/s321/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FA%2Fii
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1537
-[/us/pl/103/296/s321/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F1%2FB%2Fii
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1537
-[/us/pl/101/508/s5106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5106%2Fd
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-269
-[/us/pl/101/508/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5115%2Fc
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-274
 [/us/pl/101/508/s13304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13304
 [/us/pl/101/508/s13306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13306
 [/us/usc/t2/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632
-[/us/pl/101/234/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs202%2Fb
+[/us/pl/101/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtII
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
-[/us/pl/100/647/s8005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8005%2Fb
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3781
-[/us/pl/99/272/s9213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9213%2Fc
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F180
-[/us/pl/98/369/s2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/98/21/s141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs141%2Fc
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F99
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/pl/98/21/s142/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs142%2Fa%2F2%2FB
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F99
-[/us/pl/98/21/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs152%2Fb
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F105
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/98/21/s154/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs154%2Fe
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F107
-[/us/pl/98/21/s341/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs341%2Fd
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F136
-[/us/pl/97/123/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123%2Fs1%2Fc
+[/us/pl/97/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123
 [/us/stat/95/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1660
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/pl/96/403/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403%2Fs2
+[/us/pl/96/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F403
 [/us/stat/94/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1710
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/pl/95/216/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs104
 [/us/usc/t26/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1401
-[/us/pl/92/603/s132/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs132%2Ff
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1361
-[/us/pl/92/603/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs305%2Fc
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1485
-[/us/pl/86/778/s701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs701%2Ff
+[/us/pl/86/778/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVII
 [/us/stat/74/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F993
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/pl/85/840/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs207%2Fa
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
-[/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
+[/us/act/1939-08-10/ch666/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666%2FtII
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
-[/us/pl/103/296/s321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fd
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1538
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/110/234/s15361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15361
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1527
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -1190,44 +1190,44 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/107/147/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs501
+[/us/pl/107/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtV
 [/us/stat/116/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F58
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
-[/us/pl/107/134/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs301
+[/us/pl/107/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtIII
 [/us/stat/115/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2444
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/106/170/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs303%2Fb
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1904
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/104/121/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs103%2Fd
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F850
-[/us/pl/104/193/s211/d/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs211%2Fd%2F5%2FD
+[/us/pl/104/193/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtII
 [/us/stat/110/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2192
 [/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
 [/us/pl/104/193/s211/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs211%2Fd%2F5
 [/us/usc/t42/s1382c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
-[/us/pl/101/234/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs202%2Fa
+[/us/pl/101/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtII
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1395r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r
-[/us/pl/98/21/s121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs121%2Fe
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F83
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/66/s13215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13215%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F476
-[/us/pl/104/188/s1703/n/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Fn%2F12
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1877
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs86
@@ -1237,25 +1237,25 @@
 [/us/pl/98/21/s121/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs121%2Fe%2F4
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/98/21/s152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs152%2Fc
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F105
 [/us/usc/t42/s401/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fm%2F3
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/98/21/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs153
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F106
-[/us/pl/98/21/s154/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs154%2Fd
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F107
-[/us/pl/96/265/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs308
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F458
 [/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
-[/us/pl/96/265/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs312
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F460
-[/us/pl/94/202/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fe
+[/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
 [/us/stat/89/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1139
 [/us/usc/t42/s401/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F4
-[/us/pl/94/202/s8/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Ff
+[/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
 [/us/stat/89/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1139
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t42/s401/g/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA%2Fii
 [/us/usc/t42/s401/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F4
@@ -1263,7 +1263,7 @@
 [/us/usc/t42/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs432
 [/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
 [/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
-[/us/pl/92/603/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs305%2Fb
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1485
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s401/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1%2FA
@@ -1273,10 +1273,10 @@
 [/us/pl/94/274/s201/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F274%2Fs201%2F11
 [/us/stat/90/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F390
 [/us/usc/t7/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343
-[/us/pl/92/603/s132/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs132%2Fg
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1361
 [/us/usc/t42/s401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fi
-[/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
+[/us/act/1945-12-29/ch652/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652%2FtI
 [/us/stat/59/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F671
 
 

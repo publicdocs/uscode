@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 31, 1953, ch. 302][/us/act/1953-07-31/ch302], title I, § 101, [67 Stat. 307][/us/stat/67/307], which barred subversives from occupancy of housing units and which provided for enforcement of such prohibition and affect of such prohibition on loans and contributions by the Public Housing Administration, was from the Independent Offices Appropriation Act, 1954, and was not repeated in subsequent appropriation acts.
+    Section, [act July 31, 1953, ch. 302, title I][/us/act/1953-07-31/ch302/tI], § 101, [67 Stat. 307][/us/stat/67/307], which barred subversives from occupancy of housing units and which provided for enforcement of such prohibition and affect of such prohibition on loans and contributions by the Public Housing Administration, was from the Independent Offices Appropriation Act, 1954, and was not repeated in subsequent appropriation acts.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1953-07-31/ch302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-31%2Fch302
+[/us/act/1953-07-31/ch302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-31%2Fch302%2FtI
 [/us/stat/67/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F307
 
 

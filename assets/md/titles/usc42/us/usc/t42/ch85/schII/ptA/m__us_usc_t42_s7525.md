@@ -163,11 +163,11 @@
 
         Within 18 months after November 15, 1990, the Administrator shall review and revise as necessary the regulations under subsection  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsections”. </sup></sup>  (a) and (b) of this section regarding the testing of motor vehicles and motor vehicle engines to insure that vehicles are tested under circumstances which reflect the actual current driving conditions under which motor vehicles are used, including conditions relating to fuel, temperature, acceleration, and altitude.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 206, as added [Pub. L. 91–604, § 8(a)][/us/pl/91/604/s8/a], Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694]; amended [Pub. L. 95–95, title II][/us/pl/95/95], §§ 213(a), 214(b), (c), 220, 224(e), Aug. 7, 1977, [91 Stat. 758–760][/us/stat/91/758-760], 762, 768; [Pub. L. 95–190, § 14(a)(69)][/us/pl/95/190/s14/a/69], Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title II][/us/pl/101/549], §§ 208, 230(7), (8), Nov. 15, 1990, [104 Stat. 2483][/us/stat/104/2483], 2529; [Pub. L. 114–94, div. B, title XXIV, § 24405(b)][/us/pl/114/94/s24405/b], Dec. 4, 2015, [129 Stat. 1723][/us/stat/129/1723].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 206, as added [Pub. L. 91–604][/us/pl/91/604], § 8(a), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694]; amended [Pub. L. 95–95, title II][/us/pl/95/95/tII], §§ 213(a), 214(b), (c), 220, 224(e), Aug. 7, 1977, [91 Stat. 758–760][/us/stat/91/758-760], 762, 768; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(69), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title II][/us/pl/101/549/tII], §§ 208, 230(7), (8), Nov. 15, 1990, [104 Stat. 2483][/us/stat/104/2483], 2529; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24405(b), Dec. 4, 2015, [129 Stat. 1723][/us/stat/129/1723].)
 
  __References in Text__ 
 
-    [Section 7542 of this title][/us/usc/t42/s7542], referred to in subsec. (g)(5), was amended generally by [Pub. L. 101–549, title II, § 211][/us/pl/101/549/s211], Nov. 15, 1990, [104 Stat. 2487][/us/stat/104/2487], and provisions formerly contained in [section 7542(b) of this title][/us/usc/t42/s7542/b] are contained in section 7542(c).
+    [Section 7542 of this title][/us/usc/t42/s7542], referred to in subsec. (g)(5), was amended generally by [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 211, Nov. 15, 1990, [104 Stat. 2487][/us/stat/104/2487], and provisions formerly contained in [section 7542(b) of this title][/us/usc/t42/s7542/b] are contained in section 7542(c).
 
  __Codification__ 
 
@@ -181,27 +181,27 @@
 
     2015—Subsec. (a)(5). [Pub. L. 114–94][/us/pl/114/94] added par. (5).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–549, § 208(b)][/us/pl/101/549/s208/b], inserted new third sentence and struck out former third sentence which read as follows: “In the case of any manufacturer of vehicles or vehicle engines whose projected sales in the United States for any model year (as determined by the Administrator) will not exceed three hundred, the regulations prescribed by the Administrator concerning testing by the manufacturer for purposes of determining compliance with regulations under [section 7521 of this title][/us/usc/t42/s7521] for the useful life of the vehicle or engine shall not require operation of any vehicle or engine manufactured during such model year for more than five thousand miles or one hundred and sixty hours, respectively, but the Administrator shall apply such adjustment factors as he deems appropriate to assure that each such vehicle or engine will comply during its useful life (as determined under [section 7521(d) of this title][/us/usc/t42/s7521/d]) with the regulations prescribed under [section 7521 of this title][/us/usc/t42/s7521].”
+    1990—Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 208(b), inserted new third sentence and struck out former third sentence which read as follows: “In the case of any manufacturer of vehicles or vehicle engines whose projected sales in the United States for any model year (as determined by the Administrator) will not exceed three hundred, the regulations prescribed by the Administrator concerning testing by the manufacturer for purposes of determining compliance with regulations under [section 7521 of this title][/us/usc/t42/s7521] for the useful life of the vehicle or engine shall not require operation of any vehicle or engine manufactured during such model year for more than five thousand miles or one hundred and sixty hours, respectively, but the Administrator shall apply such adjustment factors as he deems appropriate to assure that each such vehicle or engine will comply during its useful life (as determined under [section 7521(d) of this title][/us/usc/t42/s7521/d]) with the regulations prescribed under [section 7521 of this title][/us/usc/t42/s7521].”
 
-    Subsec. (a)(4). [Pub. L. 101–549, § 208(a)][/us/pl/101/549/s208/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 101–549][/us/pl/101/549], § 208(a), added par. (4).
 
-    Subsec. (e). [Pub. L. 101–549, § 230(7)][/us/pl/101/549/s230/7], struck out “announce in the Federal Register and” after “The Administrator shall”.
+    Subsec. (e). [Pub. L. 101–549][/us/pl/101/549], § 230(7), struck out “announce in the Federal Register and” after “The Administrator shall”.
 
-    Subsec. (f). [Pub. L. 101–549, § 230(8)][/us/pl/101/549/s230/8], struck out par. (1) designation before “All light duty vehicles”, inserted reference to all light-duty trucks manufactured during or after model year 1995, and struck out par. (2) which required the Administrator to report to Congress by Oct. 1, 1978, on the economic impact and technological feasibility of the requirements of former par. (1).
+    Subsec. (f). [Pub. L. 101–549][/us/pl/101/549], § 230(8), struck out par. (1) designation before “All light duty vehicles”, inserted reference to all light-duty trucks manufactured during or after model year 1995, and struck out par. (2) which required the Administrator to report to Congress by Oct. 1, 1978, on the economic impact and technological feasibility of the requirements of former par. (1).
 
-    Subsec. (h). [Pub. L. 101–549, § 208(c)][/us/pl/101/549/s208/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–549][/us/pl/101/549], § 208(c), added subsec. (h).
 
-    1977—Subsec. (a)(1). [Pub. L. 95–95, § 220][/us/pl/95/95/s220], inserted provisions covering testing by small manufacturers.
+    1977—Subsec. (a)(1). [Pub. L. 95–95][/us/pl/95/95], § 220, inserted provisions covering testing by small manufacturers.
 
-    Subsec. (a)(3). [Pub. L. 95–95, § 214(b)][/us/pl/95/95/s214/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 95–95][/us/pl/95/95], § 214(b), added par. (3).
 
-    Subsec. (b)(2)(A)(i). [Pub. L. 95–95, § 214(c)(1)][/us/pl/95/95/s214/c/1], (2), substituted “certificate of conformity was issued and with the requirements of [section 7521(a)(4) of this title][/us/usc/t42/s7521/a/4], he may suspend” for “certificate of conformity was issued, he may suspend” and “such regulations and requirements” for “such regulations”.
+    Subsec. (b)(2)(A)(i). [Pub. L. 95–95][/us/pl/95/95], § 214(c)(1), (2), substituted “certificate of conformity was issued and with the requirements of [section 7521(a)(4) of this title][/us/usc/t42/s7521/a/4], he may suspend” for “certificate of conformity was issued, he may suspend” and “such regulations and requirements” for “such regulations”.
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 95–95, § 214(c)(2)][/us/pl/95/95/s214/c/2], substituted “such regulations and requirements” for “such regulations”.
+    Subsec. (b)(2)(A)(ii). [Pub. L. 95–95][/us/pl/95/95], § 214(c)(2), substituted “such regulations and requirements” for “such regulations”.
 
-    Subsec. (f). [Pub. L. 95–95, § 213(a)][/us/pl/95/95/s213/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–95][/us/pl/95/95], § 213(a), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 95–95, § 224(e)][/us/pl/95/95/s224/e], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–95][/us/pl/95/95], § 224(e), added subsec. (g).
 
     Subsec. (g)(3)(D). [Pub. L. 95–190][/us/pl/95/190] inserted “shall” before “be”.
 
@@ -211,13 +211,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–604, § 8(b)][/us/pl/91/604/s8/b], Dec. 31, 1970, [84 Stat. 1698][/us/stat/84/1698], provided that: 
+[Pub. L. 91–604][/us/pl/91/604], § 8(b), Dec. 31, 1970, [84 Stat. 1698][/us/stat/84/1698], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 7541 of this title][/us/usc/t42/s7541]\] shall not apply to vehicles or engines imported into the United States before the sixtieth day after the date of enactment of this Act \[Dec. 31, 1970\].”
 
  __Regulations__ 
 
-[Pub. L. 114–94, div. B, title XXIV, § 24405(c)][/us/pl/114/94/s24405/c], Dec. 4, 2015, [129 Stat. 1725][/us/stat/129/1725], provided that: 
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24405(c), Dec. 4, 2015, [129 Stat. 1725][/us/stat/129/1725], provided that: 
 
 > “Not later than 12 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Transportation and the Administrator of the Environmental Protection Agency shall issue such regulations as may be necessary to implement the amendments made by subsections (a) \[amending [section 30114 of Title 49][/us/usc/t49/s30114], Transportation\] and (b) \[amending this section\], respectively.”
 
@@ -259,47 +259,47 @@
 [/us/usc/t42/s7541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7541%2Fc
 [/us/usc/t42/s7542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7542%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs8%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1694
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/758-760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F758-760
-[/us/pl/95/190/s14/a/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F69
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1403
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2483
-[/us/pl/114/94/s24405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24405%2Fb
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1723
 [/us/usc/t42/s7542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7542
-[/us/pl/101/549/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs211
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2487
 [/us/usc/t42/s7542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7542%2Fb
 [/us/usc/t42/s1857f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%935
 [/us/usc/t42/s1857f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%935
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/101/549/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs208%2Fb
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/usc/t42/s7521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fd
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
-[/us/pl/101/549/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs208%2Fa
-[/us/pl/101/549/s230/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F7
-[/us/pl/101/549/s230/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F8
-[/us/pl/101/549/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs208%2Fc
-[/us/pl/95/95/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs220
-[/us/pl/95/95/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs214%2Fb
-[/us/pl/95/95/s214/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs214%2Fc%2F1
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7521/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fa%2F4
-[/us/pl/95/95/s214/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs214%2Fc%2F2
-[/us/pl/95/95/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs213%2Fa
-[/us/pl/95/95/s224/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs224%2Fe
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/91/604/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs8%2Fb
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1698
 [/us/usc/t42/s7541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7541
-[/us/pl/114/94/s24405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24405%2Fc
+[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1725
 [/us/usc/t49/s30114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30114
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95

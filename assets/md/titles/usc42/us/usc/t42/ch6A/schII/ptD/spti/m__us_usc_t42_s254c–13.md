@@ -17,7 +17,7 @@
 
     For the purpose of carrying out sections 254c–9 to 254c–13 of this title, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.
 
-([Pub. L. 106–505, title V, § 525][/us/pl/106/505/s525], Nov. 13, 2000, [114 Stat. 2345][/us/stat/114/2345].)
+([Pub. L. 106–505, title V][/us/pl/106/505/tV], § 525, Nov. 13, 2000, [114 Stat. 2345][/us/stat/114/2345].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/505/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs525
+[/us/pl/106/505/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtV
 [/us/stat/114/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2345
 
 

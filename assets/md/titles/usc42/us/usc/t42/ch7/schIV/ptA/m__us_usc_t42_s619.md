@@ -71,7 +71,7 @@
 
         Except as otherwise specifically provided, the term “State” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 419, as added [Pub. L. 104–193, title I, § 103(a)(2)][/us/pl/104/193/s103/a/2], Aug. 22, 1996, [110 Stat. 2159][/us/stat/110/2159].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 419, as added [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 103(a)(2), Aug. 22, 1996, [110 Stat. 2159][/us/stat/110/2159].)
 
  __Effective Date__ 
 
@@ -86,7 +86,7 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F2
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2159
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601

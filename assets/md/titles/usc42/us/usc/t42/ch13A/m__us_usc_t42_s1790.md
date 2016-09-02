@@ -47,7 +47,7 @@
 
             (B) compromise, or appear to compromise, the integrity of any governmental program or any officer or employee involved in the program.
 
-([Pub. L. 89–642, § 21][/us/pl/89/642/s21], as added [Pub. L. 102–342, title II, § 201][/us/pl/102/342/s201], Aug. 14, 1992, [106 Stat. 912][/us/stat/106/912].)
+([Pub. L. 89–642][/us/pl/89/642], § 21, as added [Pub. L. 102–342, title II][/us/pl/102/342/tII], § 201, Aug. 14, 1992, [106 Stat. 912][/us/stat/106/912].)
 
 ----------
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/89/642/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs21
-[/us/pl/102/342/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F342%2Fs201
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
+[/us/pl/102/342/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F342%2FtII
 [/us/stat/106/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F912
 
 

@@ -51,7 +51,7 @@
 
         The Corporation may establish prices for its products, materials, and services provided to customers on a basis that will allow it to attain the normal business objectives of a profit making corporation.
 
-([Pub. L. 104–134, title III, § 3108][/us/pl/104/134/s3108], Apr. 26, 1996, [110 Stat. 1321–339][/us/stat/110/1321-339].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3108, Apr. 26, 1996, [110 Stat. 1321–339][/us/stat/110/1321-339].)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t42/s2297c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297c%2Fb
-[/us/pl/104/134/s3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3108
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-339
 
 

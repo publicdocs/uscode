@@ -361,7 +361,7 @@
 
                 With the agreement of the designated State agency, the Council may use or contract with agencies other than the designated State agency to perform the functions of the designated State agency.
 
-([Pub. L. 106–402, title I, § 125][/us/pl/106/402/s125], Oct. 30, 2000, [114 Stat. 1701][/us/stat/114/1701]; [Pub. L. 108–364, § 3(a)(2)][/us/pl/108/364/s3/a/2], Oct. 25, 2004, [118 Stat. 1736][/us/stat/118/1736]; [Pub. L. 108–446, title III, § 305(n)(1)][/us/pl/108/446/s305/n/1], Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 125, Oct. 30, 2000, [114 Stat. 1701][/us/stat/114/1701]; [Pub. L. 108–364][/us/pl/108/364], § 3(a)(2), Oct. 25, 2004, [118 Stat. 1736][/us/stat/118/1736]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(n)(1), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
 
  __References in Text__ 
 
@@ -375,7 +375,7 @@
 
     The Public Health Service Act, referred to in subsec. (c)(5)(G)(i), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended. The reference to subtitle B of title XIX of the Act probably means part B of title XIX of the Act which is classified generally to part B (§ 300x et seq.) of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (d)(2)(B)(i), is title I of [Pub. L. 88–164][/us/pl/88/164], as added by [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], as amended, which was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part B of the Act was classified generally to subchapter II (§ 6021 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (d)(2)(B)(i), is title I of [Pub. L. 88–164][/us/pl/88/164], as added by [Pub. L. 98–527][/us/pl/98/527], § 2, Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], as amended, which was repealed by [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(a), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part B of the Act was classified generally to subchapter II (§ 6021 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -415,11 +415,11 @@
 [/us/usc/t42/s15026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15026
 [/us/usc/t42/s15026/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15026%2Fc
 [/us/usc/t42/s15024/c/5/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15024%2Fc%2F5%2FB%2Fvi
-[/us/pl/106/402/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs125
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1701
-[/us/pl/108/364/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fa%2F2
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1736
-[/us/pl/108/446/s305/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fn%2F1
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
@@ -437,9 +437,9 @@
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
+[/us/pl/98/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527
 [/us/stat/98/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2662
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364

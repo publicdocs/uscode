@@ -17,7 +17,7 @@
 
     In carrying out his functions under this subchapter, the Secretary shall take steps to assure that small-business concerns will have realistic and adequate opportunities to participate in the programs under this subchapter to the maximum extent practicable, and the Secretary is directed to set aside at least 10 per centum of the funds authorized and appropriated for the participation of small business concerns.
 
-([Pub. L. 95–590, § 12][/us/pl/95/590/s12], Nov. 4, 1978, [92 Stat. 2521][/us/stat/92/2521].)
+([Pub. L. 95–590][/us/pl/95/590], § 12, Nov. 4, 1978, [92 Stat. 2521][/us/stat/92/2521].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/590/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs12
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2521
 
 

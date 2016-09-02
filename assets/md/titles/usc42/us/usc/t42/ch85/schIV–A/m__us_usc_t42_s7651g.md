@@ -93,7 +93,7 @@
 
         No permit shall be issued under this section to an affected unit until the designated representative of the owners or operators has filed a certificate of representation with regard to matters under this subchapter, including the holding and distribution of allowances and the proceeds of transactions involving allowances. Where there are multiple holders of a legal or equitable title to, or a leasehold interest in, such a unit, or where a utility or industrial customer purchases power from an affected unit (or units) under life-of-the-unit, firm power contractual arrangements, the certificate shall state (1) that allowances and the proceeds of transactions involving allowances will be deemed to be held or distributed in proportion to each holder’s legal, equitable, leasehold, or contractual reservation or entitlement, or (2) if such multiple holders have expressly provided for a different distribution of allowances by contract, that allowances and the proceeds of transactions involving allowances will be deemed to be held or distributed in accordance with the contract. A passive lessor, or a person who has an equitable interest through such lessor, whose rental payments are not based, either directly or indirectly, upon the revenues or income from the affected unit shall not be deemed to be a holder of a legal, equitable, leasehold, or contractual interest for the purpose of holding or distributing allowances as provided in this subsection, during either the term of such leasehold or thereafter, unless expressly provided for in the leasehold agreement. Except as otherwise provided in this subsection, where all legal or equitable title to or interest in an affected unit is held by a single person, the certification shall state that all allowances received by the unit are deemed to be held for that person.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 408, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2616][/us/stat/104/2616].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 408, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2616][/us/stat/104/2616].)
 
 ----------
 
@@ -125,7 +125,7 @@
 [/us/usc/t42/s7661a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7661a%2Fa
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2616
 
 

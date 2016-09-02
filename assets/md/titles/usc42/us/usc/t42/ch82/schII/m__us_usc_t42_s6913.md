@@ -17,7 +17,7 @@
 
     The Administrator shall provide teams of personnel, including Federal, State, and local employees or contractors (hereinafter referred to as “Resource Conservation and Recovery Panels”) to provide Federal agencies, States and local governments upon request with technical assistance on solid waste management, resource recovery, and resource conservation. Such teams shall include technical, marketing, financial, and institutional specialists, and the services of such teams shall be provided without charge to States or local governments.
 
-([Pub. L. 89–272, title II, § 2003][/us/pl/89/272/s2003], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2804][/us/stat/90/2804]; amended [Pub. L. 95–609, § 7(e)][/us/pl/95/609/s7/e], Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2003, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2804][/us/stat/90/2804]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(e), Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/89/272/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2003
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2804
-[/us/pl/95/609/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fe
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3081
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

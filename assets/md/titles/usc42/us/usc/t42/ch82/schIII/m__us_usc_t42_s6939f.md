@@ -127,11 +127,11 @@
 
         (2) includes proposals, if necessary, to mitigate any negative impact identified under paragraph (1).
 
-([Pub. L. 110–414, § 5][/us/pl/110/414/s5], Oct. 14, 2008, [122 Stat. 4344][/us/stat/122/4344].)
+([Pub. L. 110–414][/us/pl/110/414], § 5, Oct. 14, 2008, [122 Stat. 4344][/us/stat/122/4344].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to this chapter. Subtitle C of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to this chapter. Subtitle C of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
  __Codification__ 
 
@@ -152,11 +152,11 @@
 [/us/usc/t42/s6924/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fj
 [/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
 [/us/usc/t42/s6924/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fj
-[/us/pl/110/414/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414%2Fs5
+[/us/pl/110/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414
 [/us/stat/122/4344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4344
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 

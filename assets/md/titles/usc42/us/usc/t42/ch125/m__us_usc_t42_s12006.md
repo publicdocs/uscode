@@ -55,7 +55,7 @@
 
         As part of the first report submitted under subsection (a) of this section, the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
 
-([Pub. L. 101–218, § 9][/us/pl/101/218/s9], Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868]; [Pub. L. 102–486, title XII, § 1202(c)][/us/pl/102/486/s1202/c], (d)(5), title XXIII, § 2303(b), Oct. 24, 1992, [106 Stat. 2959][/us/stat/106/2959], 2960, 3093.)
+([Pub. L. 101–218][/us/pl/101/218], § 9, Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868]; [Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1202(c), (d)(5), title XXIII, § 2303(b), Oct. 24, 1992, [106 Stat. 2959][/us/stat/106/2959], 2960, 3093.)
 
  __References in Text__ 
 
@@ -63,13 +63,13 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 1202(d)(5)][/us/pl/102/486/s1202/d/5], substituted “and projects” for “, projects, and joint ventures”.
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 1202(d)(5), substituted “and projects” for “, projects, and joint ventures”.
 
-    Subsec. (b)(1). [Pub. L. 102–486, § 1202(c)(1)][/us/pl/102/486/s1202/c/1], inserted “three-year” before “management plan”.
+    Subsec. (b)(1). [Pub. L. 102–486][/us/pl/102/486], § 1202(c)(1), inserted “three-year” before “management plan”.
 
-    Subsec. (b)(4). [Pub. L. 102–486, § 2303(b)][/us/pl/102/486/s2303/b], inserted before period at end “and the plan developed under [section 5905 of this title][/us/usc/t42/s5905]”.
+    Subsec. (b)(4). [Pub. L. 102–486][/us/pl/102/486], § 2303(b), inserted before period at end “and the plan developed under [section 5905 of this title][/us/usc/t42/s5905]”.
 
-    Subsec. (b)(5), (6). [Pub. L. 102–486, § 1202(c)(2)][/us/pl/102/486/s1202/c/2], added pars. (5) and (6) and struck out former par. (5) which read as follows: “The plan shall accompany the President’s annual budget submission to the Congress.”
+    Subsec. (b)(5), (6). [Pub. L. 102–486][/us/pl/102/486], § 1202(c)(2), added pars. (5) and (6) and struck out former par. (5) which read as follows: “The plan shall accompany the President’s annual budget submission to the Congress.”
 
  __Termination of Reporting Requirements__ 
 
@@ -85,18 +85,18 @@
 [/us/usc/t42/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7321
 [/us/usc/t42/s5905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5905
 [/us/usc/t42/s12005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12005
-[/us/pl/101/218/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs9
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1868
-[/us/pl/102/486/s1202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fc
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2959
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859
 [/us/usc/t42/s12001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12001
-[/us/pl/102/486/s1202/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fd%2F5
-[/us/pl/102/486/s1202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fc%2F1
-[/us/pl/102/486/s2303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fb
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s5905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5905
-[/us/pl/102/486/s1202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fc%2F2
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 

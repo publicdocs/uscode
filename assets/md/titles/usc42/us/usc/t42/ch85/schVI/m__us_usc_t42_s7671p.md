@@ -23,7 +23,7 @@
 
         The Administrator, in consultation with the Secretary of State, shall support global participation in the Montreal Protocol by providing technical and financial assistance to developing countries that are Parties to the Montreal Protocol and operating under article 5 of the Protocol. There are authorized to be appropriated not more than $30,000,000 to carry out this section in fiscal years 1991, 1992 and 1993 and such sums as may be necessary in fiscal years 1994 and 1995. If China and India become Parties to the Montreal Protocol, there are authorized to be appropriated not more than an additional $30,000,000 to carry out this section in fiscal years 1991, 1992, and 1993.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 617, as added [Pub. L. 101–549, title VI, § 602(a)][/us/pl/101/549/s602/a], Nov. 15, 1990, [104 Stat. 2669][/us/stat/104/2669].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 617, as added [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 602(a), Nov. 15, 1990, [104 Stat. 2669][/us/stat/104/2669].)
 
  __Authority of Secretary of State__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs602%2Fa
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2669
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

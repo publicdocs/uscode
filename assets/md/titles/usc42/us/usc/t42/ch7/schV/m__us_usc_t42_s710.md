@@ -57,23 +57,23 @@
 
         For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2015 and an additional $75,000,000 for each of fiscal years 2016 and 2017. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 510, as added [Pub. L. 104–193, title IX, § 912][/us/pl/104/193/s912], Aug. 22, 1996, [110 Stat. 2353][/us/stat/110/2353]; amended [Pub. L. 108–40, § 6][/us/pl/108/40/s6], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 111–148, title II, § 2954][/us/pl/111/148/s2954], Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352]; [Pub. L. 113–93, title II, § 205][/us/pl/113/93/s205], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 214(a)][/us/pl/114/10/s214/a], Apr. 16, 2015, [129 Stat. 152][/us/stat/129/152].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 510, as added [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 912, Aug. 22, 1996, [110 Stat. 2353][/us/stat/110/2353]; amended [Pub. L. 108–40][/us/pl/108/40], § 6, June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2954, Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352]; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 205, Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 214(a), Apr. 16, 2015, [129 Stat. 152][/us/stat/129/152].)
 
  __Prior Provisions__ 
 
-    A prior section 710, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 510, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 927][/us/stat/81/927]; amended July 10, 1972, [Pub. L. 92–345, § 2(f)][/us/pl/92/345/s2/f], [86 Stat. 457][/us/stat/86/457]; July 1, 1973, [Pub. L. 93–53, § 4(a)(8)][/us/pl/93/53/s4/a/8], [87 Stat. 136][/us/stat/87/136], provided for special project grants for dental health of children, prior to the general revision of this subchapter by [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
+    A prior section 710, [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], § 510, as added Jan. 2, 1968, [Pub. L. 90–248, title III][/us/pl/90/248/tIII], § 301, [81 Stat. 927][/us/stat/81/927]; amended July 10, 1972, [Pub. L. 92–345][/us/pl/92/345], § 2(f), [86 Stat. 457][/us/stat/86/457]; July 1, 1973, [Pub. L. 93–53][/us/pl/93/53], § 4(a)(8), [87 Stat. 136][/us/stat/87/136], provided for special project grants for dental health of children, prior to the general revision of this subchapter by [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(a), Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–10, § 214(a)(1)][/us/pl/114/10/s214/a/1], substituted “2017” for “2015” in introductory provisions.
+    2015—Subsec. (a). [Pub. L. 114–10][/us/pl/114/10], § 214(a)(1), substituted “2017” for “2015” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 114–10, § 214(a)(2)][/us/pl/114/10/s214/a/2], inserted “and an additional $75,000,000 for each of fiscal years 2016 and 2017” after “2015”.
+    Subsec. (d). [Pub. L. 114–10][/us/pl/114/10], § 214(a)(2), inserted “and an additional $75,000,000 for each of fiscal years 2016 and 2017” after “2015”.
 
     2014—Subsecs. (a), (d). [Pub. L. 113–93][/us/pl/113/93] substituted “2015” for “2014”.
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 2954(1)][/us/pl/111/148/s2954/1], substituted “each of fiscal years 2010 through 2014” for “fiscal year 1998 and each subsequent fiscal year”.
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 2954(1), substituted “each of fiscal years 2010 through 2014” for “fiscal year 1998 and each subsequent fiscal year”.
 
-    Subsec. (d). [Pub. L. 111–148, § 2954(2)][/us/pl/111/148/s2954/2], substituted “2010 through 2014” for “1998 through 2003” in first sentence and inserted “(except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010)” before period at end of second sentence.
+    Subsec. (d). [Pub. L. 111–148][/us/pl/111/148], § 2954(2), substituted “2010 through 2014” for “1998 through 2003” in first sentence and inserted “(except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010)” before period at end of second sentence.
 
     2003—Subsec. (d). [Pub. L. 108–40][/us/pl/108/40] substituted “2003” for “2002”.
 
@@ -83,7 +83,7 @@
 
  __Establishing National Goals To Prevent Teenage Pregnancies__ 
 
-[Pub. L. 104–193, title IX, § 905][/us/pl/104/193/s905], Aug. 22, 1996, [110 Stat. 2349][/us/stat/110/2349], provided that:
+[Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 905, Aug. 22, 1996, [110 Stat. 2349][/us/stat/110/2349], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -108,37 +108,37 @@
 [/us/usc/t42/s702/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fc%2F1%2FB%2Fii
 [/us/usc/t42/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fc
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs912
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2353
-[/us/pl/108/40/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs6
+[/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/stat/117/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F837
-[/us/pl/111/148/s2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2954
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F352
-[/us/pl/113/93/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs205
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
-[/us/pl/114/10/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs214%2Fa
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F152
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/90/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIII
 [/us/stat/81/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F927
-[/us/pl/92/345/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F345%2Fs2%2Ff
+[/us/pl/92/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F345
 [/us/stat/86/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F457
-[/us/pl/93/53/s4/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs4%2Fa%2F8
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F136
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/114/10/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs214%2Fa%2F1
-[/us/pl/114/10/s214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs214%2Fa%2F2
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
-[/us/pl/111/148/s2954/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2954%2F1
-[/us/pl/111/148/s2954/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2954%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40
 [/us/pl/108/40/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40%2Fs8
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
-[/us/pl/104/193/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs905
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2349
 
 

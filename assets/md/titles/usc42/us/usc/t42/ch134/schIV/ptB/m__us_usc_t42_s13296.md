@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary for purposes of this part $40,000,000 for the 5-year period beginning with the first full fiscal year after October 24, 1992, to remain available until expended.
 
-([Pub. L. 102–486, title VI, § 626][/us/pl/102/486/s626], Oct. 24, 1992, [106 Stat. 2905][/us/stat/106/2905].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 626, Oct. 24, 1992, [106 Stat. 2905][/us/stat/106/2905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs626
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2905
 
 

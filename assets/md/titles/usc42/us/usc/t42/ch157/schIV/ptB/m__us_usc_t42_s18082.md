@@ -97,7 +97,7 @@
 
         Nothing in this subtitle or the amendments made by this subtitle shall be construed to prohibit a State from making payments to or on behalf of an individual for coverage under a qualified health plan offered through an Exchange that are in addition to any credits or cost-sharing reductions allowable to the individual under this subtitle and such amendments.
 
-([Pub. L. 111–148, title I, § 1412][/us/pl/111/148/s1412], Mar. 23, 2010, [124 Stat. 231][/us/stat/124/231].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1412, Mar. 23, 2010, [124 Stat. 231][/us/stat/124/231].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 [/us/usc/t42/s18081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18081
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
-[/us/pl/111/148/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1412
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F231
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405

@@ -17,7 +17,7 @@
 
     In carrying out their functions under this subchapter, all Federal officers and agencies shall take steps to assure that small business concerns will have realistic and adequate opportunities to participate in the programs under this subchapter to the maximum extent possible.
 
-([Pub. L. 93–409, § 14][/us/pl/93/409/s14], Sept. 3, 1974, [88 Stat. 1077][/us/stat/88/1077].)
+([Pub. L. 93–409][/us/pl/93/409], § 14, Sept. 3, 1974, [88 Stat. 1077][/us/stat/88/1077].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/409/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs14
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1077
 
 

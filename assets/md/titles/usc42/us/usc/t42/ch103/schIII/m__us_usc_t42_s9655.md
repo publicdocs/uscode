@@ -39,7 +39,7 @@
 
         Congressional inaction on, or rejection of, a resolution of disapproval shall not be deemed an expression of approval of such rule or regulation.
 
-([Pub. L. 96–510, title III, § 305][/us/pl/96/510/s305], Dec. 11, 1980, [94 Stat. 2809][/us/stat/94/2809].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 305, Dec. 11, 1980, [94 Stat. 2809][/us/stat/94/2809].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/96/510/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs305
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2809
 
 

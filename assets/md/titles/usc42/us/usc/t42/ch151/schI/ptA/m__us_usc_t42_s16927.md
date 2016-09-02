@@ -49,7 +49,7 @@
 
             (B) arrange for such a jurisdiction to carry out any function of the tribe under this part with respect to sex offenders subject to the tribe’s jurisdiction.
 
-([Pub. L. 109–248, title I, § 127][/us/pl/109/248/s127], July 27, 2006, [120 Stat. 599][/us/stat/120/599].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 127, July 27, 2006, [120 Stat. 599][/us/stat/120/599].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
-[/us/pl/109/248/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs127
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F599
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F591

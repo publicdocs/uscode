@@ -147,95 +147,95 @@
 
         (6) The terms “half time” and “half-time” mean a minimum of 20 hours per week (not to exceed 39 hours per week) in a clinical practice, for a minimum of 45 weeks per year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 331, as added [Pub. L. 94–484, title IV, § 407(b)(3)][/us/pl/94/484/s407/b/3], Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268]; amended [Pub. L. 97–35, title XXVII, § 2701][/us/pl/97/35/s2701], Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902]; [Pub. L. 100–177, title II, § 202(b)][/us/pl/100/177/s202/b], title III, § 301, Dec. 1, 1987, [101 Stat. 996][/us/stat/101/996], 1003; [Pub. L. 100–607, title VI, § 629(a)(2)][/us/pl/100/607/s629/a/2], Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146]; [Pub. L. 101–597, title I, § 101][/us/pl/101/597/s101], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3013][/us/stat/104/3013], 3035; [Pub. L. 107–251, title III, § 301][/us/pl/107/251/s301], Oct. 26, 2002, [116 Stat. 1642][/us/stat/116/1642]; [Pub. L. 109–417, title II, § 206(c)(2)][/us/pl/109/417/s206/c/2], Dec. 19, 2006, [120 Stat. 2853][/us/stat/120/2853]; [Pub. L. 111–148, title X, § 10501(n)(1)][/us/pl/111/148/s10501/n/1], (2), Mar. 23, 2010, [124 Stat. 1002][/us/stat/124/1002], 1003.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 331, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(3), Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268]; amended [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2701, Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902]; [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 202(b), title III, § 301, Dec. 1, 1987, [101 Stat. 996][/us/stat/101/996], 1003; [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 629(a)(2), Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146]; [Pub. L. 101–597, title I][/us/pl/101/597/tI], § 101, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3013][/us/stat/104/3013], 3035; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 301, Oct. 26, 2002, [116 Stat. 1642][/us/stat/116/1642]; [Pub. L. 109–417, title II][/us/pl/109/417/tII], § 206(c)(2), Dec. 19, 2006, [120 Stat. 2853][/us/stat/120/2853]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10501(n)(1), (2), Mar. 23, 2010, [124 Stat. 1002][/us/stat/124/1002], 1003.)
 
  __References in Text__ 
 
-    [Section 294n of this title][/us/usc/t42/s294n], referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to [section 294n of this title][/us/usc/t42/s294n], and subsequently renumbered section 2692 and transferred to [section 300ff–111 of this title][/us/usc/t42/s300ff–111].
+    [Section 294n of this title][/us/usc/t42/s294n], referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to [section 294n of this title][/us/usc/t42/s294n], and subsequently renumbered section 2692 and transferred to [section 300ff–111 of this title][/us/usc/t42/s300ff–111].
 
  __Amendments__ 
 
-    2010—Subsec. (i)(1). [Pub. L. 111–148, § 10501(n)(1)(A)][/us/pl/111/148/s10501/n/1/A], substituted “issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical practice that is half time” for “carry out demonstration projects in which individuals who have entered into a contract for obligated service under the Loan Repayment Program receive waivers under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical service that is not full-time”.
+    2010—Subsec. (i)(1). [Pub. L. 111–148][/us/pl/111/148], § 10501(n)(1)(A), substituted “issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical practice that is half time” for “carry out demonstration projects in which individuals who have entered into a contract for obligated service under the Loan Repayment Program receive waivers under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical service that is not full-time”.
 
-    Subsec. (i)(2)(A)(ii), (B). [Pub. L. 111–148, § 10501(n)(1)(B)(i)][/us/pl/111/148/s10501/n/1/B/i], substituted “half time” for “less than full time”.
+    Subsec. (i)(2)(A)(ii), (B). [Pub. L. 111–148][/us/pl/111/148], § 10501(n)(1)(B)(i), substituted “half time” for “less than full time”.
 
-    Subsec. (i)(2)(C). [Pub. L. 111–148, § 10501(n)(1)(B)(ii)][/us/pl/111/148/s10501/n/1/B/ii], substituted “half-time service” for “less than full-time service”.
+    Subsec. (i)(2)(C). [Pub. L. 111–148][/us/pl/111/148], § 10501(n)(1)(B)(ii), substituted “half-time service” for “less than full-time service”.
 
-    Subsec. (i)(2)(D), (E). [Pub. L. 111–148, § 10501(n)(1)(B)(iii)][/us/pl/111/148/s10501/n/1/B/iii], amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
+    Subsec. (i)(2)(D), (E). [Pub. L. 111–148][/us/pl/111/148], § 10501(n)(1)(B)(iii), amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
 
     “(D) the entity and the Corps member agree in writing that the less than full-time service provided by the Corps member will not be less than 16 hours of clinical service per week;
 
     “(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254l–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under [section 254m of this title][/us/usc/t42/s254m]; and”.
 
-    Subsec. (i)(2)(F). [Pub. L. 111–148, § 10501(n)(1)(B)(ii)][/us/pl/111/148/s10501/n/1/B/ii], substituted “half-time service” for “less than full-time service”.
+    Subsec. (i)(2)(F). [Pub. L. 111–148][/us/pl/111/148], § 10501(n)(1)(B)(ii), substituted “half-time service” for “less than full-time service”.
 
-    Subsec. (i)(3). [Pub. L. 111–148, § 10501(n)(1)(C)][/us/pl/111/148/s10501/n/1/C], substituted “In evaluating waivers issued under paragraph (1)” for “In evaluating a demonstration project described in paragraph (1)”.
+    Subsec. (i)(3). [Pub. L. 111–148][/us/pl/111/148], § 10501(n)(1)(C), substituted “In evaluating waivers issued under paragraph (1)” for “In evaluating a demonstration project described in paragraph (1)”.
 
-    Subsec. (j)(5), (6). [Pub. L. 111–148, § 10501(n)(2)][/us/pl/111/148/s10501/n/2], added pars. (5) and (6).
+    Subsec. (j)(5), (6). [Pub. L. 111–148][/us/pl/111/148], § 10501(n)(2), added pars. (5) and (6).
 
     2006—Subsec. (f). [Pub. L. 109–417][/us/pl/109/417] inserted before period at end “, except when such members are Commissioned Corps officers who entered into a contract with Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services”.
 
-    2002—Subsec. (a)(3)(E). [Pub. L. 107–251, § 301(a)(1)][/us/pl/107/251/s301/a/1], added subpar. (E).
+    2002—Subsec. (a)(3)(E). [Pub. L. 107–251][/us/pl/107/251], § 301(a)(1), added subpar. (E).
 
-    Subsec. (b)(1). [Pub. L. 107–251, § 301(a)(2)(A)][/us/pl/107/251/s301/a/2/A], substituted “health professions, including schools at which graduate programs of behavioral and mental health are offered,” for “health professions”.
+    Subsec. (b)(1). [Pub. L. 107–251][/us/pl/107/251], § 301(a)(2)(A), substituted “health professions, including schools at which graduate programs of behavioral and mental health are offered,” for “health professions”.
 
-    Subsec. (b)(2). [Pub. L. 107–251, § 301(a)(2)(B)][/us/pl/107/251/s301/a/2/B], inserted “behavioral and mental health professionals,” after “dentists,”.
+    Subsec. (b)(2). [Pub. L. 107–251][/us/pl/107/251], § 301(a)(2)(B), inserted “behavioral and mental health professionals,” after “dentists,”.
 
-    Subsec. (c). [Pub. L. 107–251, § 301(a)(3)][/us/pl/107/251/s301/a/3], added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may reimburse applicants for positions in the Corps (including individuals considering entering into a written agreement pursuant to [section 254n of this title][/us/usc/t42/s254n]) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under [section 254e of this title][/us/usc/t42/s254e]) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.”
+    Subsec. (c). [Pub. L. 107–251][/us/pl/107/251], § 301(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may reimburse applicants for positions in the Corps (including individuals considering entering into a written agreement pursuant to [section 254n of this title][/us/usc/t42/s254n]) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under [section 254e of this title][/us/usc/t42/s254e]) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.”
 
-    Subsecs. (i), (j). [Pub. L. 107–251, § 301(b)][/us/pl/107/251/s301/b], added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 107–251][/us/pl/107/251], § 301(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-    1990—Subsec. (a). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
+    1990—Subsec. (a). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
 
-    [Pub. L. 101–597, § 101(a)][/us/pl/101/597/s101/a], designated existing provisions as par. (1), substituted “For the purpose of eliminating health manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—” for “There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) which (1) shall consist of—”, substituted “States.” for “States,” at end of subpar. (C), struck out closing provisions which read “(such officers, employees, and individuals hereinafter in this subpart referred to as ‘Corps members’), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in [section 254e(a) of this title][/us/usc/t42/s254e/a].”, and added pars. (2) and (3).
+    [Pub. L. 101–597][/us/pl/101/597], § 101(a), designated existing provisions as par. (1), substituted “For the purpose of eliminating health manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—” for “There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) which (1) shall consist of—”, substituted “States.” for “States,” at end of subpar. (C), struck out closing provisions which read “(such officers, employees, and individuals hereinafter in this subpart referred to as ‘Corps members’), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in [section 254e(a) of this title][/us/usc/t42/s254e/a].”, and added pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2).
+    Subsec. (b). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2).
 
-    [Pub. L. 101–597, § 101(b)][/us/pl/101/597/s101/b], designated existing provision as par. (1), inserted at end “Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.”, and added par. (2).
+    [Pub. L. 101–597][/us/pl/101/597], § 101(b), designated existing provision as par. (1), inserted at end “Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsec. (c). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    Subsec. (d)(1). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory provisions and in subpar. (C).
+    Subsec. (d)(1). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory provisions and in subpar. (C).
 
-    Subsec. (d)(1)(A). [Pub. L. 101–597, § 101(c)][/us/pl/101/597/s101/c], struck out “(not to exceed $1,000)” after “by an amount”.
+    Subsec. (d)(1)(A). [Pub. L. 101–597][/us/pl/101/597], § 101(c), struck out “(not to exceed $1,000)” after “by an amount”.
 
-    Subsecs. (d)(2), (e). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsecs. (d)(2), (e). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    Subsec. (h). [Pub. L. 101–597, § 101(d)][/us/pl/101/597/s101/d], added subsec. (h) and struck out former subsec. (h) which read as follows: “In assigning members of the Corps to health manpower shortage areas, to the extent practicable, the Secretary shall—
+    Subsec. (h). [Pub. L. 101–597][/us/pl/101/597], § 101(d), added subsec. (h) and struck out former subsec. (h) which read as follows: “In assigning members of the Corps to health manpower shortage areas, to the extent practicable, the Secretary shall—
 
     “(1) give priority to meeting the needs of the Indian Health Service and the needs of health programs or facilities operated by tribes or tribal organizations under the Indian Self-Determination Act ([25 U.S.C. 450f][/us/usc/t25/s450f] et seq.); and
 
     “(2) provide special consideration to the homeless populations who do not have access to primary health care services.”
 
-    Subsec. (i). [Pub. L. 101–597, § 101(e)][/us/pl/101/597/s101/e], substituted “of this subpart and subpart III” for “of this subpart”.
+    Subsec. (i). [Pub. L. 101–597][/us/pl/101/597], § 101(e), substituted “of this subpart and subpart III” for “of this subpart”.
 
     1988—Subsec. (b). [Pub. L. 100–607][/us/pl/100/607] substituted “osteopathic medicine” for “osteopathy”.
 
-    1987—Subsec. (b). [Pub. L. 100–177, § 202(b)(1)][/us/pl/100/177/s202/b/1], inserted reference to Loan Repayment Program.
+    1987—Subsec. (b). [Pub. L. 100–177][/us/pl/100/177], § 202(b)(1), inserted reference to Loan Repayment Program.
 
-    Subsec. (c). [Pub. L. 100–177, § 202(b)(2)][/us/pl/100/177/s202/b/2], made technical amendment to reference to [section 254n of this title][/us/usc/t42/s254n] to reflect renumbering of corresponding section of original act.
+    Subsec. (c). [Pub. L. 100–177][/us/pl/100/177], § 202(b)(2), made technical amendment to reference to [section 254n of this title][/us/usc/t42/s254n] to reflect renumbering of corresponding section of original act.
 
-    Subsecs. (d)(2), (f). [Pub. L. 100–177, § 202(b)(3)][/us/pl/100/177/s202/b/3], (4), inserted reference to Loan Repayment Program.
+    Subsecs. (d)(2), (f). [Pub. L. 100–177][/us/pl/100/177], § 202(b)(3), (4), inserted reference to Loan Repayment Program.
 
-    Subsec. (h). [Pub. L. 100–177, § 301(2)][/us/pl/100/177/s301/2], added subsec. (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 100–177][/us/pl/100/177], § 301(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
     Subsec. (i). [Pub. L. 100–177][/us/pl/100/177], §§ 202(b)(5), 301(1), redesignated subsec. (h) as (i), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    1981—Subsec. (a)(1). [Pub. L. 97–35, § 2701(a)][/us/pl/97/35/s2701/a], revised provisions and, as so revised, set out existing provisions in cls. (A) and (B), and added cl. (C).
+    1981—Subsec. (a)(1). [Pub. L. 97–35][/us/pl/97/35], § 2701(a), revised provisions and, as so revised, set out existing provisions in cls. (A) and (B), and added cl. (C).
 
-    Subsec. (b). [Pub. L. 97–35, § 2701(b)][/us/pl/97/35/s2701/b], substituted “may” for “shall”.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2701(b), substituted “may” for “shall”.
 
-    Subsec. (c). [Pub. L. 97–35, § 2701(c)][/us/pl/97/35/s2701/c], inserted provisions respecting a written agreement under [section 254n of this title][/us/usc/t42/s254n].
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 2701(c), inserted provisions respecting a written agreement under [section 254n of this title][/us/usc/t42/s254n].
 
-    Subsec. (d). [Pub. L. 97–35, § 2701(d)][/us/pl/97/35/s2701/d], in par. (1) inserted reference to member described in subsec. (a)(1)(C) of this section, in subpars. (1)(A) and (B) substituted “may” for “shall”, and added par. (3).
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 2701(d), in par. (1) inserted reference to member described in subsec. (a)(1)(C) of this section, in subpars. (1)(A) and (B) substituted “may” for “shall”, and added par. (3).
 
-    Subsec. (g). [Pub. L. 97–35, § 2701(e)][/us/pl/97/35/s2701/e], substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
+    Subsec. (g). [Pub. L. 97–35][/us/pl/97/35], § 2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
 
-    Subsec. (h). [Pub. L. 97–35, § 2701(f)][/us/pl/97/35/s2701/f], in par. (1) substituted “Health and Human Services” for “Health, Education, and Welfare”, in par. (2) substituted “254l” for “294t”, and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
+    Subsec. (h). [Pub. L. 97–35][/us/pl/97/35], § 2701(f), in par. (1) substituted “Health and Human Services” for “Health, Education, and Welfare”, in par. (2) substituted “254l” for “294t”, and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–597, title V, § 501][/us/pl/101/597/s501], Nov. 16, 1990, [104 Stat. 3036][/us/stat/104/3036], provided that: 
+[Pub. L. 101–597, title V][/us/pl/101/597/tV], § 501, Nov. 16, 1990, [104 Stat. 3036][/us/stat/104/3036], provided that: 
 
 > “This Act and the amendments made by this Act \[enacting sections 254f–1, 254o–1, and 254r of this title, amending this section, sections 242a, 254e to 254i, 254k, 254l to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395l, 1395u, 1395x, 3505d, and 9840 of this title, and [section 2123 of Title 10][/us/usc/t10/s2123], Armed Forces, and enacting provisions set out as notes under sections 201, 254l–1, and 254o of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
 
@@ -245,11 +245,11 @@
 
  __Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than__  __February 1, 1979__ 
 
-    [Pub. L. 95–626, title I, § 116(c)][/us/pl/95/626/s116/c], Nov. 10, 1978, [92 Stat. 3569][/us/stat/92/3569], directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+    [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 116(c), Nov. 10, 1978, [92 Stat. 3569][/us/stat/92/3569], directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
  __Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members__ 
 
-[Pub. L. 94–484, title IV, § 407(c)][/us/pl/94/484/s407/c], Oct. 12, 1976, [90 Stat. 2278][/us/stat/90/2278], provided that:
+[Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(c), Oct. 12, 1976, [90 Stat. 2278][/us/stat/90/2278], provided that:
 
 >     “(1) The amendment made by subsections (a) and (b) \[enacting this subpart and repealing [section 254b of this title][/us/usc/t42/s254b]\] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) \[[42 U.S.C. 254e][/us/usc/t42/s254e]\] after the date of enactment of this Act \[Oct. 12, 1976\].
 
@@ -279,77 +279,77 @@
 [/us/usc/t42/s254f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f%E2%80%931
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F3
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
-[/us/pl/97/35/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2701
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F902
-[/us/pl/100/177/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fb
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F996
-[/us/pl/100/607/s629/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs629%2Fa%2F2
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3146
-[/us/pl/101/597/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs101
+[/us/pl/101/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtI
 [/us/stat/104/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3013
-[/us/pl/107/251/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs301
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1642
-[/us/pl/109/417/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs206%2Fc%2F2
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2853
-[/us/pl/111/148/s10501/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F1
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1002
 [/us/usc/t42/s294n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s294n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n
 [/us/usc/t42/s300ff–111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%93111
-[/us/pl/111/148/s10501/n/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F1%2FA
-[/us/pl/111/148/s10501/n/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F1%2FB%2Fi
-[/us/pl/111/148/s10501/n/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F1%2FB%2Fii
-[/us/pl/111/148/s10501/n/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F1%2FB%2Fiii
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
-[/us/pl/111/148/s10501/n/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F1%2FB%2Fii
-[/us/pl/111/148/s10501/n/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F1%2FC
-[/us/pl/111/148/s10501/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fn%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
-[/us/pl/107/251/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs301%2Fa%2F1
-[/us/pl/107/251/s301/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs301%2Fa%2F2%2FA
-[/us/pl/107/251/s301/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs301%2Fa%2F2%2FB
-[/us/pl/107/251/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs301%2Fa%2F3
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s254n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
-[/us/pl/107/251/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs301%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs101%2Fa
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t42/s254e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e%2Fa
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs101%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs101%2Fc
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs101%2Fd
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/101/597/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs101%2Fe
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/100/177/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fb%2F1
-[/us/pl/100/177/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fb%2F2
-[/us/usc/t42/s254n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n
-[/us/pl/100/177/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fb%2F3
-[/us/pl/100/177/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs301%2F2
 [/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
-[/us/pl/97/35/s2701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2701%2Fa
-[/us/pl/97/35/s2701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2701%2Fb
-[/us/pl/97/35/s2701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2701%2Fc
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/usc/t42/s254n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n
-[/us/pl/97/35/s2701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2701%2Fd
-[/us/pl/97/35/s2701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2701%2Fe
-[/us/pl/97/35/s2701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2701%2Ff
-[/us/pl/101/597/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs501
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/usc/t42/s254n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/101/597/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtV
 [/us/stat/104/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3036
 [/us/usc/t10/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2123
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/95/626/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs116%2Fc
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3569
-[/us/pl/94/484/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fc
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2278
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e

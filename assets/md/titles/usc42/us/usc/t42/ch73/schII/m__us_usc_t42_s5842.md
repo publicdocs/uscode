@@ -27,11 +27,11 @@
 
     (5) Any facility under a contract with and for the account of the Department of Energy that is utilized for the express purpose of fabricating mixed plutonium-uranium oxide nuclear reactor fuel for use in a commercial nuclear reactor licensed under such Act, other than any such facility that is utilized for research, development, demonstration, testing, or analysis purposes.
 
-([Pub. L. 93–438, title II, § 202][/us/pl/93/438/s202], Oct. 11, 1974, [88 Stat. 1244][/us/stat/88/1244]; [Pub. L. 105–261, div. C, title XXXI, § 3134(a)][/us/pl/105/261/s3134/a], Oct. 17, 1998, [112 Stat. 2247][/us/stat/112/2247].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 202, Oct. 11, 1974, [88 Stat. 1244][/us/stat/88/1244]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3134(a), Oct. 17, 1998, [112 Stat. 2247][/us/stat/112/2247].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, as amended, referred to in text, is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. Chapters 6, 7, 8, and 10 of the Atomic Energy Act of 1954, as amended, are classified generally to subchapters V (§ 2071 et seq.), VI (§ 2091 et seq.), VII (§ 2111 et seq.), and IX (§ 2131 et seq.) of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, as amended, referred to in text, is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. Chapters 6, 7, 8, and 10 of the Atomic Energy Act of 1954, as amended, are classified generally to subchapters V (§ 2071 et seq.), VI (§ 2091 et seq.), VII (§ 2111 et seq.), and IX (§ 2131 et seq.) of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The effective date of this chapter, referred to in par. (2), refers to the effective date of [Pub. L. 93–438][/us/pl/93/438]. See [section 312 of Pub. L. 93–438][/us/pl/93/438/s312], set out as an Effective Date; Interim Appointments note under [section 5801 of this title][/us/usc/t42/s5801].
 
@@ -45,19 +45,19 @@
 
  __Availability of Funds for Licensing by NRC__ 
 
-[Pub. L. 105–261, div. C, title XXXI, § 3134(b)][/us/pl/105/261/s3134/b], Oct. 17, 1998, [112 Stat. 2247][/us/stat/112/2247], provided that: 
+[Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3134(b), Oct. 17, 1998, [112 Stat. 2247][/us/stat/112/2247], provided that: 
 
 > “Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([42 U.S.C. 7272][/us/usc/t42/s7272] \[now [50 U.S.C. 2513][/us/usc/t50/s2513]\]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842][/us/usc/t42/s5842]), as added by subsection (a).”
 
  __Applicability of Occupational Safety and Health Requirements to Activities Under License__ 
 
-[Pub. L. 105–261, div. C, title XXXI, § 3134(c)][/us/pl/105/261/s3134/c], Oct. 17, 1998, [112 Stat. 2247][/us/stat/112/2247], provided that: 
+[Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3134(c), Oct. 17, 1998, [112 Stat. 2247][/us/stat/112/2247], provided that: 
 
 > “Any activities carried out under a license required pursuant to section 202(5) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842][/us/usc/t42/s5842]), as added by subsection (a), shall be subject to regulation under the Occupational Safety and Health Act of 1970 ([29 U.S.C. 651][/us/usc/t29/s651] et seq.).”
 
  __Verbal Communications Between Commission Headquarters and Regional Offices and Licensed Utilization Facilities__ 
 
-[Pub. L. 96–295, title III, § 305(a)][/us/pl/96/295/s305/a], June 30, 1980, [94 Stat. 790][/us/stat/94/790], provided that: 
+[Pub. L. 96–295, title III][/us/pl/96/295/tIII], § 305(a), June 30, 1980, [94 Stat. 790][/us/stat/94/790], provided that: 
 
 > “As expeditiously as practicable, the Nuclear Regulatory Commission shall establish a mechanism for instantaneous and uninterrupted verbal communication between each utilization facility licensed to operate under section 103 or section 104 b. of the Atomic Energy Act of 1954 \[section 2133 or 2134(b) of this title\] on the date of enactment of this Act \[June 30, 1980\], or thereafter, and
 
@@ -67,7 +67,7 @@
 
  __Study of Extension of Licensing and Regulatory Authority of Commission; Report to Congress__ 
 
-    [Pub. L. 95–601, § 12][/us/pl/95/601/s12], Nov. 6, 1978, [92 Stat. 2953][/us/stat/92/2953], directed Commission, in cooperation with Department of Energy, to conduct a study of extending the Commission’s licensing or regulatory authority to include categories of existing and future Federal radioactive waste storage and disposal activities not presently subject to such authority, and on or before Mar. 1, 1979, to submit a report to Congress containing results of study, which report was to include a complete listing and inventory of all radioactive waste storage and disposal activities being conducted or planned by Federal agencies.
+    [Pub. L. 95–601][/us/pl/95/601], § 12, Nov. 6, 1978, [92 Stat. 2953][/us/stat/92/2953], directed Commission, in cooperation with Department of Energy, to conduct a study of extending the Commission’s licensing or regulatory authority to include categories of existing and future Federal radioactive waste storage and disposal activities not presently subject to such authority, and on or before Mar. 1, 1979, to submit a report to Congress containing results of study, which report was to include a complete listing and inventory of all radioactive waste storage and disposal activities being conducted or planned by Federal agencies.
 
 ----------
 
@@ -80,12 +80,12 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2140/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2140%2Fb
 [/us/usc/t42/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2071
-[/us/pl/93/438/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs202
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
 [/us/stat/88/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1244
-[/us/pl/105/261/s3134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3134%2Fa
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2247
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
@@ -94,18 +94,18 @@
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841
-[/us/pl/105/261/s3134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3134%2Fb
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2247
 [/us/usc/t42/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7272
 [/us/usc/t50/s2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2513
 [/us/usc/t42/s5842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842
-[/us/pl/105/261/s3134/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3134%2Fc
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2247
 [/us/usc/t42/s5842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/96/295/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2Fs305%2Fa
+[/us/pl/96/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2FtIII
 [/us/stat/94/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F790
-[/us/pl/95/601/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs12
+[/us/pl/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601
 [/us/stat/92/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2953
 
 

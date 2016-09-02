@@ -25,7 +25,7 @@
 
     Notwithstanding any other provision of law, the Secretary shall not be subject to the requirements of [section 553 of title 5][/us/usc/t5/s553], in the performance of his functions under this part.
 
-([Pub. L. 95–619, title V, § 566][/us/pl/95/619/s566], Nov. 9, 1978, [92 Stat. 3281][/us/stat/92/3281]; [Pub. L. 96–294, title IV, § 407(3)][/us/pl/96/294/s407/3], (4), June 30, 1980, [94 Stat. 717][/us/stat/94/717], 718.)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 566, Nov. 9, 1978, [92 Stat. 3281][/us/stat/92/3281]; [Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 407(3), (4), June 30, 1980, [94 Stat. 717][/us/stat/94/717], 718.)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t42/s8272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8272
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/95/619/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs566
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3281
-[/us/pl/96/294/s407/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs407%2F3
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F717
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

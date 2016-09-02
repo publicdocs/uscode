@@ -17,7 +17,7 @@
 
     The medal to be awarded for bravery or valor as defined in [section 1921 of this title][/us/usc/t42/s1921] shall be known as the Young American Medal for Bravery, while the medal for outstanding character and service as defined in [section 1922 of this title][/us/usc/t42/s1922] shall be known as the Young American Medal for Service, and such medals shall be presented personally by the President of the United States for and on behalf, and in the name of the President and the Congress of the United States of America.
 
-([Aug. 3, 1950, ch. 520, § 3][/us/act/1950-08-03/ch520/s3], [64 Stat. 398][/us/stat/64/398].)
+([Aug. 3, 1950, ch. 520][/us/act/1950-08-03/ch520], § 3, [64 Stat. 398][/us/stat/64/398].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t42/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1921
 [/us/usc/t42/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1922
-[/us/act/1950-08-03/ch520/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520%2Fs3
+[/us/act/1950-08-03/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520
 [/us/stat/64/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F398
 
 

@@ -27,7 +27,7 @@
 
         The Secretary shall take such actions as are necessary to ensure that any repayments deposited in a HOME Investment Trust Fund in accordance with this section shall be immediately available to the participating jurisdiction for investment subject to the provisions of this part that apply to funds that are allocated under [section 12747 of this title][/us/usc/t42/s12747]. Actions authorized under the preceding sentence may include authorizing the establishment for a participating jurisdiction of a HOME Investment Trust Fund account outside of the Federal Government that, under arrangements satisfactory to the Secretary, shall be used solely to invest in affordable housing within the participating jurisdiction’s boundaries in accordance with the provisions of this subchapter. Such accounts shall be established in such a manner that repayments are not receipts or collections of the Federal Government.
 
-([Pub. L. 101–625, title II, § 219][/us/pl/101/625/s219], Nov. 28, 1990, [104 Stat. 4110][/us/stat/104/4110].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 219, Nov. 28, 1990, [104 Stat. 4110][/us/stat/104/4110].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s12747/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747%2Fd
 [/us/usc/t42/s12747/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747%2Fd
 [/us/usc/t42/s12747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747
-[/us/pl/101/625/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs219
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4110
 
 

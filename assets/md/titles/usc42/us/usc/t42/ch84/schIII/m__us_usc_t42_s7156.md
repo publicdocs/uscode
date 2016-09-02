@@ -31,7 +31,7 @@
 
     In the administration of any of the functions transferred to, and vested in, the Secretary by this section the Secretary shall take into consideration the requirements of national security.
 
-([Pub. L. 95–91, title III, § 307][/us/pl/95/91/s307], Aug. 4, 1977, [91 Stat. 581][/us/stat/91/581].)
+([Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 307, Aug. 4, 1977, [91 Stat. 581][/us/stat/91/581].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs307
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F581
 
 

@@ -29,7 +29,7 @@
 
         No such agreement or compact shall be binding or obligatory upon any State a party thereto unless it is agreed upon by all parties to the agreement and until it has been approved by the Administrator and the Congress.
 
-([Pub. L. 89–272, title II, § 1005][/us/pl/89/272/s1005], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2801][/us/stat/90/2801].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1005, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2801][/us/stat/90/2801].)
 
  __Transfer of Functions__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1005
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2801
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

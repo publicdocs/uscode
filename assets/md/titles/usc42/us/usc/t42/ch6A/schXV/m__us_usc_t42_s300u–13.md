@@ -143,7 +143,7 @@
 
         There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of fiscal year  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “years”. </sup></sup>  2010 through 2014.
 
-([Pub. L. 111–148, title IV, § 4201][/us/pl/111/148/s4201], title X, § 10403, Mar. 23, 2010, [124 Stat. 564][/us/stat/124/564], 975.)
+([Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4201, title X, § 10403, Mar. 23, 2010, [124 Stat. 564][/us/stat/124/564], 975.)
 
  __Codification__ 
 
@@ -151,11 +151,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 10403(1)][/us/pl/111/148/s10403/1], inserted “, with not less than 20 percent of such grants being awarded to rural and frontier areas” before period at end.
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 10403(1), inserted “, with not less than 20 percent of such grants being awarded to rural and frontier areas” before period at end.
 
-    Subsec. (c)(2)(B)(vii). [Pub. L. 111–148, § 10403(2)][/us/pl/111/148/s10403/2], substituted “urban, rural, and frontier areas” for “both urban and rural areas”.
+    Subsec. (c)(2)(B)(vii). [Pub. L. 111–148][/us/pl/111/148], § 10403(2), substituted “urban, rural, and frontier areas” for “both urban and rural areas”.
 
-    Subsec. (f). [Pub. L. 111–148, § 10403(3)][/us/pl/111/148/s10403/3], substituted “each of fiscal year” for “each fiscal years”.
+    Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 10403(3), substituted “each of fiscal year” for “each fiscal years”.
 
 ----------
 
@@ -164,10 +164,10 @@
 ----------
 ----------
 
-[/us/pl/111/148/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4201
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F564
-[/us/pl/111/148/s10403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10403%2F1
-[/us/pl/111/148/s10403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10403%2F2
-[/us/pl/111/148/s10403/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10403%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

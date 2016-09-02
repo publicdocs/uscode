@@ -59,7 +59,7 @@
 
         For purposes of carrying out this section and [section 280e–3a of this title][/us/usc/t42/s280e–3a], there are authorized to be appropriated $30,000,000 for each of fiscal years 2009 through 2013. Such authorization of appropriations is in addition to the authorization of appropriations established in [section 282a of this title][/us/usc/t42/s282a] with respect to such purpose. Funds appropriated under this subsection shall remain available until expended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417E, as added [Pub. L. 110–285, § 4(a)][/us/pl/110/285/s4/a], July 29, 2008, [122 Stat. 2629][/us/stat/122/2629].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417E, as added [Pub. L. 110–285][/us/pl/110/285], § 4(a), July 29, 2008, [122 Stat. 2629][/us/stat/122/2629].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t42/s280e–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e%E2%80%933a
 [/us/usc/t42/s282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/285/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F285%2Fs4%2Fa
+[/us/pl/110/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F285
 [/us/stat/122/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2629
 [/us/pl/106/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525
 [/us/stat/114/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2495

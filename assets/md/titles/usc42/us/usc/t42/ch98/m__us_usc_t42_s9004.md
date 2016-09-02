@@ -33,7 +33,7 @@
 
         In providing any financial assistance under this section, the Secretary shall (1) give full consideration to those projects which will provide energy to United States offshore States, its territories, and its possessions and (2) seek satisfactory cost-sharing arrangements when he deems such arrangements to be appropriate.
 
-([Pub. L. 96–310, § 5][/us/pl/96/310/s5], July 17, 1980, [94 Stat. 943][/us/stat/94/943].)
+([Pub. L. 96–310][/us/pl/96/310], § 5, July 17, 1980, [94 Stat. 943][/us/stat/94/943].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/96/310/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs5
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F943
 
 

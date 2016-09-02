@@ -39,7 +39,7 @@
 
         The Secretary shall, for the purpose of performing his responsibilities pursuant to this chapter, solicit proposals and evaluate any reasonable new or improved technology, a description of which is submitted to the Secretary in writing, which could lead or contribute to the development of ocean thermal energy conversion system technology.
 
-([Pub. L. 96–310, § 4][/us/pl/96/310/s4], July 17, 1980, [94 Stat. 943][/us/stat/94/943].)
+([Pub. L. 96–310][/us/pl/96/310], § 4, July 17, 1980, [94 Stat. 943][/us/stat/94/943].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t42/s9004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9004
-[/us/pl/96/310/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs4
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F943
 
 

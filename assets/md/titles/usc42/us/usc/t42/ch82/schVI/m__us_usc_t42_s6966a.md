@@ -101,7 +101,7 @@
 
         Nothing in this section affects the requirements of [section 6962 of this title][/us/usc/t42/s6962] (including the guidelines and specifications for implementing those requirements).
 
-([Pub. L. 89–272, title II, § 6005][/us/pl/89/272/s6005], as added [Pub. L. 109–59, title VI, § 6017(a)][/us/pl/109/59/s6017/a], Aug. 10, 2005, [119 Stat. 1888][/us/stat/119/1888].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 6005, as added [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6017(a), Aug. 10, 2005, [119 Stat. 1888][/us/stat/119/1888].)
 
  __Codification__ 
 
@@ -117,8 +117,8 @@
 [/us/usc/t42/s6962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6962
 [/us/usc/t42/s6962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6962
 [/us/usc/t42/s6962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6962
-[/us/pl/89/272/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs6005
-[/us/pl/109/59/s6017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6017%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1888
 [/us/pl/89/272/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs6005
 [/us/usc/t42/s6966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6966

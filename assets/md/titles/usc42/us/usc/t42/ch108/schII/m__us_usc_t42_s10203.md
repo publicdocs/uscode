@@ -41,7 +41,7 @@
 
         Nothing in this subsection 2 shall authorize the Department or the Commission to take any action not authorized under existing law.
 
-([Pub. L. 97–425, title II, § 223][/us/pl/97/425/s223], Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 223, Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs223
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2254
 
 

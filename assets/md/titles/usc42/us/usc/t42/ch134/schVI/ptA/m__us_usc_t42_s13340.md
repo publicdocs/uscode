@@ -29,7 +29,7 @@
 
     (6) any other technologies which will assist in the development of niche markets for lignites and sub-bituminous coals.
 
-([Pub. L. 102–486, title XIII, § 1310][/us/pl/102/486/s1310], Oct. 24, 1992, [106 Stat. 2975][/us/stat/106/2975].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1310, Oct. 24, 1992, [106 Stat. 2975][/us/stat/106/2975].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1310
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2975
 
 

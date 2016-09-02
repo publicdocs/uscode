@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated for deposit in the Fund to carry out the purposes of this section, $50,000,000 for fiscal year 1994 and such sums as may be necessary for fiscal years 1995 and 1996.
 
-([Pub. L. 102–486, title XVI, § 1609][/us/pl/102/486/s1609], Oct. 24, 1992, [106 Stat. 3007][/us/stat/106/3007].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1609, Oct. 24, 1992, [106 Stat. 3007][/us/stat/106/3007].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t22/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2222
-[/us/pl/102/486/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1609
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
 [/us/stat/106/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3007
 
 

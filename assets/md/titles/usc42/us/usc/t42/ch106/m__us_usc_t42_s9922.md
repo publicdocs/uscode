@@ -93,7 +93,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2003.
 
-([Pub. L. 97–35, title VI, § 681][/us/pl/97/35/s681], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2752][/us/stat/112/2752].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 681, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2752][/us/stat/112/2752].)
 
  __Prior Provisions__ 
 
@@ -111,8 +111,8 @@
 ----------
 
 [/us/usc/t42/s9911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9911
-[/us/pl/97/35/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs681
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2752
 [/us/pl/97/35/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs681
 [/us/usc/t42/s9910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910

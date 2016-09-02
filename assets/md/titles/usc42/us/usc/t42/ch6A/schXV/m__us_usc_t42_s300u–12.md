@@ -103,7 +103,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 111–148, title IV, § 4004][/us/pl/111/148/s4004], title X, § 10401(c), Mar. 23, 2010, [124 Stat. 544][/us/stat/124/544], 975.)
+([Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4004, title X, § 10401(c), Mar. 23, 2010, [124 Stat. 544][/us/stat/124/544], 975.)
 
  __Codification__ 
 
@@ -111,7 +111,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(4). [Pub. L. 111–148, § 10401(c)][/us/pl/111/148/s10401/c], substituted “an Exchange” for “a Gateway”.
+    2010—Subsec. (a)(4). [Pub. L. 111–148][/us/pl/111/148], § 10401(c), substituted “an Exchange” for “a Gateway”.
 
 ----------
 
@@ -120,8 +120,8 @@
 ----------
 ----------
 
-[/us/pl/111/148/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4004
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F544
-[/us/pl/111/148/s10401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10401%2Fc
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

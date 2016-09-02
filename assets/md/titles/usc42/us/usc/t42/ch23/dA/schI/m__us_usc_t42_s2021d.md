@@ -75,7 +75,7 @@
 
         Each compact shall provide that every 5 years after the compact has taken effect the Congress may by law withdraw its consent.
 
-([Pub. L. 96–573, § 4][/us/pl/96/573/s4], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1845][/us/stat/99/1845].)
+([Pub. L. 96–573][/us/pl/96/573], § 4, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1845][/us/stat/99/1845].)
 
  __Codification__ 
 
@@ -83,7 +83,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2021d, [Pub. L. 96–573, § 4][/us/pl/96/573/s4], Dec. 22, 1980, [94 Stat. 3348][/us/stat/94/3348], related to policy of Federal Government concerning low-level radioactive waste disposal, implementation of that policy, and a report to Congress and the States to assist in carrying out the policy, prior to repeal by [Pub. L. 99–240, § 102][/us/pl/99/240/s102].
+    A prior section 2021d, [Pub. L. 96–573][/us/pl/96/573], § 4, Dec. 22, 1980, [94 Stat. 3348][/us/stat/94/3348], related to policy of Federal Government concerning low-level radioactive waste disposal, implementation of that policy, and a report to Congress and the States to assist in carrying out the policy, prior to repeal by [Pub. L. 99–240][/us/pl/99/240], § 102.
 
  __Texas Low-Level Radioactive Waste Disposal Compact Consent Act__ 
 
@@ -183,7 +183,7 @@
 
  __Omnibus Low-Level Radioactive Waste Interstate Compact Consent Act__ 
 
-[Pub. L. 99–240, title II][/us/pl/99/240], Jan. 15, 1986, [99 Stat. 1859][/us/stat/99/1859], provided that:
+[Pub. L. 99–240, title II][/us/pl/99/240/tII], Jan. 15, 1986, [99 Stat. 1859][/us/stat/99/1859], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -248,12 +248,12 @@
 
 [/us/usc/t42/s2021c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021c
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/96/573/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs4
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1845
-[/us/pl/96/573/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs4
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
 [/us/stat/94/3348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3348
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/99/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240
 [/us/pl/105/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F236
 [/us/stat/112/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1542
 [/us/usc/t42/s2021b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021b
@@ -273,7 +273,7 @@
 [/us/usc/t42/s2021d/A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021d%2FA%2F2
 [/us/usc/t42/s2021d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021d%2Fa%2F2
 [/us/stat/102/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F471
-[/us/pl/99/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240
+[/us/pl/99/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtII
 [/us/stat/99/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1859
 [/us/usc/t42/s2021b–202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021b%E2%80%93202
 [/us/usc/t42/s2021b–202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021b%E2%80%93202

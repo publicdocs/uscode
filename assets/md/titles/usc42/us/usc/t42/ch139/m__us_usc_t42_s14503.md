@@ -83,7 +83,7 @@
 
             Nothing in this subsection shall be construed to effect subsection (a)(3) or (e) of this section.
 
-([Pub. L. 105–19, § 4][/us/pl/105/19/s4], June 18, 1997, [111 Stat. 219][/us/stat/111/219].)
+([Pub. L. 105–19][/us/pl/105/19], § 4, June 18, 1997, [111 Stat. 219][/us/stat/111/219].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/usc/t18/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/105/19/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19%2Fs4
+[/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F219
 [/us/pl/101/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F275
 [/us/stat/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F140

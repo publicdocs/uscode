@@ -23,7 +23,7 @@
 
         An entity receiving assistance under this subchapter to carry out an activity shall not accept donations from the beneficiaries of the activity.
 
-([Pub. L. 93–113, title II, § 228][/us/pl/93/113/s228], as added [Pub. L. 111–13, title II, § 2146(e)][/us/pl/111/13/s2146/e], Apr. 21, 2009, [123 Stat. 1591][/us/stat/123/1591].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 228, as added [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2146(e), Apr. 21, 2009, [123 Stat. 1591][/us/stat/123/1591].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/93/113/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs228
-[/us/pl/111/13/s2146/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fe
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1591
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

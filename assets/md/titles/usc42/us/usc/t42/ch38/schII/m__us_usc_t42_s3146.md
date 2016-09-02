@@ -39,7 +39,7 @@
 
     (4) grants made under this subchapter promote job creation and will have a high probability of meeting or exceeding applicable performance requirements established in connection with the grants.
 
-([Pub. L. 89–136, title II, § 206][/us/pl/89/136/s206], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3604][/us/stat/112/3604]; amended [Pub. L. 108–373, title II, § 204][/us/pl/108/373/s204], Oct. 27, 2004, [118 Stat. 1761][/us/stat/118/1761].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 206, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3604][/us/stat/112/3604]; amended [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 204, Oct. 27, 2004, [118 Stat. 1761][/us/stat/118/1761].)
 
  __Amendments__ 
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/89/136/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs206
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3604
-[/us/pl/108/373/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs204
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1761
 [/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 

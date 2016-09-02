@@ -39,7 +39,7 @@
 
         The selection of model programs to be made available for adoption or adaptation shall include programs meeting the criteria set forth in part D of this subchapter.
 
-([Pub. L. 101–625, title II, § 213][/us/pl/101/625/s213], Nov. 28, 1990, [104 Stat. 4100][/us/stat/104/4100].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 213, Nov. 28, 1990, [104 Stat. 4100][/us/stat/104/4100].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t42/s12753/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12753%2F2
-[/us/pl/101/625/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs213
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4100
 
 

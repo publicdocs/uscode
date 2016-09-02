@@ -99,27 +99,27 @@
 
         The Secretary shall provide to entities receiving grants under subsection (a) of this section such technical assistance as may be necessary to ensure the quality of programs conducted under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1109, as added [Pub. L. 106–310, div. A, title XXVI, § 2601][/us/pl/106/310/s2601], Oct. 17, 2000, [114 Stat. 1164][/us/stat/114/1164]; amended [Pub. L. 110–204, § 2][/us/pl/110/204/s2], Apr. 24, 2008, [122 Stat. 705][/us/stat/122/705]; [Pub. L. 110–237, § 1(a)(1)][/us/pl/110/237/s1/a/1], May 27, 2008, [122 Stat. 1556][/us/stat/122/1556]; [Pub. L. 113–240, § 2][/us/pl/113/240/s2], Dec. 18, 2014, [128 Stat. 2851][/us/stat/128/2851].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1109, as added [Pub. L. 106–310, div. A, title XXVI][/us/pl/106/310/dA/tXXVI], § 2601, Oct. 17, 2000, [114 Stat. 1164][/us/stat/114/1164]; amended [Pub. L. 110–204][/us/pl/110/204], § 2, Apr. 24, 2008, [122 Stat. 705][/us/stat/122/705]; [Pub. L. 110–237][/us/pl/110/237], § 1(a)(1), May 27, 2008, [122 Stat. 1556][/us/stat/122/1556]; [Pub. L. 113–240][/us/pl/113/240], § 2, Dec. 18, 2014, [128 Stat. 2851][/us/stat/128/2851].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–240, § 2(1)(A)][/us/pl/113/240/s2/1/A], in introductory provisions, substituted “[section 300b–16 of this title][/us/usc/t42/s300b–16]” for “subsection (j)” and “and taking into consideration the expertise of the Advisory Committee” for “and in consultation with the Advisory Committee”.
+    2014—Subsec. (a). [Pub. L. 113–240][/us/pl/113/240], § 2(1)(A), in introductory provisions, substituted “[section 300b–16 of this title][/us/usc/t42/s300b–16]” for “subsection (j)” and “and taking into consideration the expertise of the Advisory Committee” for “and in consultation with the Advisory Committee”.
 
-    Subsec. (a)(2). [Pub. L. 113–240, § 2(1)(B)][/us/pl/113/240/s2/1/B], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to assist in providing health care professionals and newborn screening laboratory personnel with education in newborn screening and training in relevant and new technologies in newborn screening and congenital, genetic, and metabolic disorders;”.
+    Subsec. (a)(2). [Pub. L. 113–240][/us/pl/113/240], § 2(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to assist in providing health care professionals and newborn screening laboratory personnel with education in newborn screening and training in relevant and new technologies in newborn screening and congenital, genetic, and metabolic disorders;”.
 
-    Subsec. (a)(4). [Pub. L. 113–240, § 2(1)(D)(i)][/us/pl/113/240/s2/1/D/i], substituted “followup and treatment” for “treatment”.
+    Subsec. (a)(4). [Pub. L. 113–240][/us/pl/113/240], § 2(1)(D)(i), substituted “followup and treatment” for “treatment”.
 
-    Subsec. (a)(5). [Pub. L. 113–240, § 2(1)(C)][/us/pl/113/240/s2/1/C], (D)(ii), (E), added par. (5).
+    Subsec. (a)(5). [Pub. L. 113–240][/us/pl/113/240], § 2(1)(C), (D)(ii), (E), added par. (5).
 
-    Subsec. (c). [Pub. L. 113–240, § 2(2)][/us/pl/113/240/s2/2], substituted “application for a grant under this section” for “application submitted for a grant under subsection (a)(1)”.
+    Subsec. (c). [Pub. L. 113–240][/us/pl/113/240], § 2(2), substituted “application for a grant under this section” for “application submitted for a grant under subsection (a)(1)”.
 
-    Subsec. (h). [Pub. L. 113–240, § 2(3)][/us/pl/113/240/s2/3], substituted “application for a grant under this section” for “application submitted under subsection (c)(2) of this section” in pars. (1) and (2).
+    Subsec. (h). [Pub. L. 113–240][/us/pl/113/240], § 2(3), substituted “application for a grant under this section” for “application submitted under subsection (c)(2) of this section” in pars. (1) and (2).
 
-    Subsec. (j). [Pub. L. 113–240, § 2(4)][/us/pl/113/240/s2/4], struck out subsec. (j) which authorized appropriations for fiscal years 2009 to 2013 to provide grants for carrying out activities under subsec. (a).
+    Subsec. (j). [Pub. L. 113–240][/us/pl/113/240], § 2(4), struck out subsec. (j) which authorized appropriations for fiscal years 2009 to 2013 to provide grants for carrying out activities under subsec. (a).
 
-    2008—Subsecs. (a) to (c). [Pub. L. 110–204, § 2(1)][/us/pl/110/204/s2/1], added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which provided for grants to promote screening, counseling, or health care services to newborns and children having or at risk for heritable disorders, enumerated permissible uses of grants, and set out grant applicants’ eligibility requirements.
+    2008—Subsecs. (a) to (c). [Pub. L. 110–204][/us/pl/110/204], § 2(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which provided for grants to promote screening, counseling, or health care services to newborns and children having or at risk for heritable disorders, enumerated permissible uses of grants, and set out grant applicants’ eligibility requirements.
 
-    Subsecs. (d) to (i). [Pub. L. 110–204, § 2(2)][/us/pl/110/204/s2/2], (3), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i) redesignated (j).
+    Subsecs. (d) to (i). [Pub. L. 110–204][/us/pl/110/204], § 2(2), (3), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i) redesignated (j).
 
     Subsec. (j). [Pub. L. 110–237][/us/pl/110/237] added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “There is authorized to be appropriated—
 
@@ -127,9 +127,9 @@
 
     “(2) to provide grant for the purpose of carrying out activities under paragraphs (2), (3), and (4) of subsection (a), $15,000,000 for fiscal year 2008, $15,187,500 for fiscal year 2009, $15,375,000 for fiscal year 2010, $15,562,500 for fiscal year 2011, and $15,750,000 for fiscal year 2012.”
 
-    [Pub. L. 110–204, § 2(4)][/us/pl/110/204/s2/4], added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+    [Pub. L. 110–204][/us/pl/110/204], § 2(4), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.”
 
-    [Pub. L. 110–204, § 2(2)][/us/pl/110/204/s2/2], redesignated subsec. (i) as (j).
+    [Pub. L. 110–204][/us/pl/110/204], § 2(2), redesignated subsec. (i) as (j).
 
 ----------
 
@@ -140,26 +140,26 @@
 
 [/us/usc/t42/s300b–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9316
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2601
+[/us/pl/106/310/dA/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXVI
 [/us/stat/114/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1164
-[/us/pl/110/204/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs2
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
 [/us/stat/122/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F705
-[/us/pl/110/237/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F1
-[/us/stat/122/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1556
-[/us/pl/113/240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2
-[/us/stat/128/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2851
-[/us/pl/113/240/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2%2F1%2FA
-[/us/usc/t42/s300b–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9316
-[/us/pl/113/240/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2%2F1%2FB
-[/us/pl/113/240/s2/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2%2F1%2FD%2Fi
-[/us/pl/113/240/s2/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2%2F1%2FC
-[/us/pl/113/240/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2%2F2
-[/us/pl/113/240/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2%2F3
-[/us/pl/113/240/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs2%2F4
-[/us/pl/110/204/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs2%2F1
-[/us/pl/110/204/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs2%2F2
 [/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
-[/us/pl/110/204/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs2%2F4
-[/us/pl/110/204/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs2%2F2
+[/us/stat/122/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1556
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/stat/128/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2851
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/usc/t42/s300b–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9316
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
 
 

@@ -23,7 +23,7 @@
 
         A recipient of a fellowship under this subchapter shall be known as an “Albert Einstein Fellow”.
 
-([Pub. L. 103–382, title V, § 513][/us/pl/103/382/s513], Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 513, Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/382/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs513
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4042
 
 

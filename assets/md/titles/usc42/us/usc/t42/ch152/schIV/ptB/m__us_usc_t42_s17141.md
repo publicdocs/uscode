@@ -33,7 +33,7 @@
 
         In this section, the term “facility” does not include a vessel or aircraft of the Coast Guard.
 
-([Pub. L. 110–140, title V, § 522][/us/pl/110/140/s522], Dec. 19, 2007, [121 Stat. 1662][/us/stat/121/1662].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 522, Dec. 19, 2007, [121 Stat. 1662][/us/stat/121/1662].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs522
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1662
 
 

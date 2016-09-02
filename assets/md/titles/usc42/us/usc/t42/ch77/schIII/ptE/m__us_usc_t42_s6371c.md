@@ -51,17 +51,17 @@
 
         (2) Notwithstanding any other provision contained in this section, a State may, at any time, submit a proposed State plan for such State under this section. The Secretary shall approve or disapprove such plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section and is not inconsistent with any plan developed and implemented by the Secretary under paragraph (1), the Secretary shall approve the plan and withdraw any such plan developed and implemented by the Secretary.
 
-([Pub. L. 94–163, title III, § 394][/us/pl/94/163/s394], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3243][/us/stat/92/3243]; amended [Pub. L. 105–388, § 5(a)(10)][/us/pl/105/388/s5/a/10], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 394, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3243][/us/stat/92/3243]; amended [Pub. L. 105–388][/us/pl/105/388], § 5(a)(10), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478].)
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–388, § 5(a)(10)(A)][/us/pl/105/388/s5/a/10/A], substituted semicolon for comma at end.
+    1998—Subsec. (a)(1). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(10)(A), substituted semicolon for comma at end.
 
-    Subsec. (a)(2). [Pub. L. 105–388, § 5(a)(10)(B)][/us/pl/105/388/s5/a/10/B], substituted semicolon for period at end.
+    Subsec. (a)(2). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(10)(B), substituted semicolon for period at end.
 
-    Subsec. (a)(3), (5). [Pub. L. 105–388, § 5(a)(10)(A)][/us/pl/105/388/s5/a/10/A], substituted semicolon for comma at end.
+    Subsec. (a)(3), (5). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(10)(A), substituted semicolon for comma at end.
 
-    Subsec. (a)(6). [Pub. L. 105–388, § 5(a)(10)(C)][/us/pl/105/388/s5/a/10/C], substituted semicolon for colon at end.
+    Subsec. (a)(6). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(10)(C), substituted semicolon for colon at end.
 
 ----------
 
@@ -73,14 +73,14 @@
 [/us/usc/t42/s6371a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371a
 [/us/usc/t42/s6371a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371a%2Fa%2F1
 [/us/usc/t42/s6371b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371b%2Fa
-[/us/pl/94/163/s394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs394
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3243
-[/us/pl/105/388/s5/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F10
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
-[/us/pl/105/388/s5/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F10%2FA
-[/us/pl/105/388/s5/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F10%2FB
-[/us/pl/105/388/s5/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F10%2FA
-[/us/pl/105/388/s5/a/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F10%2FC
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 
 

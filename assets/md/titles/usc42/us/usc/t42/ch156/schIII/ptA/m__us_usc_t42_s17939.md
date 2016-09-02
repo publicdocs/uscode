@@ -63,7 +63,7 @@
 
             The amendments made by this subsection shall apply to violations occurring after February 17, 2009.
 
-([Pub. L. 111–5, div. A, title XIII, § 13410][/us/pl/111/5/s13410], Feb. 17, 2009, [123 Stat. 271][/us/stat/123/271].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13410, Feb. 17, 2009, [123 Stat. 271][/us/stat/123/271].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t42/s1320d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%935
 [/us/usc/t42/s1320d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%935
-[/us/pl/111/5/s13410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F271
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258

@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived for energy efficient applications from [section 13451(e) of this title][/us/usc/t42/s13451/e] and for renewable applications from [section 13471(c) of this title][/us/usc/t42/s13471/c], including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section, and including transferring funds to the General Services Administration.
 
-([Pub. L. 102–486, title XXII, § 2201][/us/pl/102/486/s2201], Oct. 24, 1992, [106 Stat. 3085][/us/stat/106/3085].)
+([Pub. L. 102–486, title XXII][/us/pl/102/486/tXXII], § 2201, Oct. 24, 1992, [106 Stat. 3085][/us/stat/106/3085].)
 
  __Termination of Reporting Requirements__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t42/s13451/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13451%2Fe
 [/us/usc/t42/s13471/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13471%2Fc
-[/us/pl/102/486/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2201
+[/us/pl/102/486/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXII
 [/us/stat/106/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3085
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

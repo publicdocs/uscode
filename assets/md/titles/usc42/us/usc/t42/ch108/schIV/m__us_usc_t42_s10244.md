@@ -51,7 +51,7 @@
 
         (2) No preliminary boring or excavation conducted under this section shall exceed a diameter of 40 inches.
 
-([Pub. L. 97–425, title IV, § 404][/us/pl/97/425/s404], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5041][/us/pl/100/203/s5041], Dec. 22, 1987, [101 Stat. 1330–245][/us/stat/101/1330-245].)
+([Pub. L. 97–425, title IV][/us/pl/97/425/tIV], § 404, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5041, Dec. 22, 1987, [101 Stat. 1330–245][/us/stat/101/1330-245].)
 
  __Codification__ 
 
@@ -67,10 +67,10 @@
 [/us/usc/t42/s10243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10243%2Fa
 [/us/usc/t42/s10139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10139
 [/us/usc/t42/s10133/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10133%2Fb%2F1
-[/us/pl/97/425/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs404
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIV
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5041
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-245
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

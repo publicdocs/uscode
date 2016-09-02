@@ -33,7 +33,7 @@
 
         (6) to integrate related activities of the Department of Health and Human Services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 463A, as added [Pub. L. 103–43, title XIII, § 1301(a)][/us/pl/103/43/s1301/a], June 10, 1993, [107 Stat. 169][/us/stat/107/169].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 463A, as added [Pub. L. 103–43, title XIII][/us/pl/103/43/tXIII], § 1301(a), June 10, 1993, [107 Stat. 169][/us/stat/107/169].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1301%2Fa
+[/us/pl/103/43/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIII
 [/us/stat/107/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F169
 
 

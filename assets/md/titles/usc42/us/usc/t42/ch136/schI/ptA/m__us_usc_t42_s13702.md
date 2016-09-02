@@ -45,11 +45,11 @@
 
         Notwithstanding the eligibility requirements of [section 13704 of this title][/us/usc/t42/s13704], a State that certifies to the Attorney General that, as of April 26, 1996, such State has enacted legislation in reliance on this part, as enacted on September 13, 1994, and would in fact qualify under those provisions, shall be eligible to receive a grant for fiscal year 1996 as though such State qualifies under [section 13704 of this title][/us/usc/t42/s13704].
 
-([Pub. L. 103–322, title II, § 20102][/us/pl/103/322/s20102], as added [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–15; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 110–199, title I, § 104(a)][/us/pl/110/199/s104/a], Apr. 9, 2008, [122 Stat. 669][/us/stat/122/669].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20102, as added [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–15; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 104(a), Apr. 9, 2008, [122 Stat. 669][/us/stat/122/669].)
 
  __Prior Provisions__ 
 
-    A prior section 13702, [Pub. L. 103–322, title II, § 20102][/us/pl/103/322/s20102], Sept. 13, 1994, [108 Stat. 1816][/us/stat/108/1816], related to Truth in Sentencing Incentive Grants prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
+    A prior section 13702, [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20102, Sept. 13, 1994, [108 Stat. 1816][/us/stat/108/1816], related to Truth in Sentencing Incentive Grants prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
 
  __Amendments__ 
 
@@ -71,14 +71,14 @@
 [/us/usc/t42/s3797w/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797w%2Fb
 [/us/usc/t42/s13704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13704
 [/us/usc/t42/s13704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13704
-[/us/pl/103/322/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20102
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/110/199/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs104%2Fa
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F669
-[/us/pl/103/322/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20102
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1816
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199

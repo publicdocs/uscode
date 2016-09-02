@@ -79,7 +79,7 @@
 
         The fund shall be available, with respect to any fiscal year beginning on or after October 1, 1981, only to the extent approved in appropriation Acts; except that the fund shall be available for the purpose described in subsection (d)(1) of this section without such approval.
 
-([Pub. L. 90–448, title XIII, § 1310][/us/pl/90/448/s1310], Aug. 1, 1968, [82 Stat. 577][/us/stat/82/577]; [Pub. L. 97–35, title III, § 341(c)][/us/pl/97/35/s341/c], Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 98–479, title II, § 203(j)(1)][/us/pl/98/479/s203/j/1], Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 100–242, title V, § 545(d)][/us/pl/100/242/s545/d], Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 101–508, title II, § 2302(e)(3)][/us/pl/101/508/s2302/e/3], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 103–325, title V][/us/pl/103/325], §§ 542, 554(b), 577(h), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269], 2274, 2283; [Pub. L. 108–264, title I][/us/pl/108/264], §§ 102(b), 104(b), June 30, 2004, [118 Stat. 721][/us/stat/118/721], 723; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100225(d), 100238(b)(1), July 6, 2012, [126 Stat. 941][/us/stat/126/941], 958; [Pub. L. 113–89, § 18(b)][/us/pl/113/89/s18/b], Mar. 21, 2014, [128 Stat. 1027][/us/stat/128/1027].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1310, Aug. 1, 1968, [82 Stat. 577][/us/stat/82/577]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 341(c), Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(j)(1), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 545(d), Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 101–508, title II][/us/pl/101/508/tII], § 2302(e)(3), Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], §§ 542, 554(b), 577(h), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269], 2274, 2283; [Pub. L. 108–264, title I][/us/pl/108/264/tI], §§ 102(b), 104(b), June 30, 2004, [118 Stat. 721][/us/stat/118/721], 723; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100225(d), 100238(b)(1), July 6, 2012, [126 Stat. 941][/us/stat/126/941], 958; [Pub. L. 113–89][/us/pl/113/89], § 18(b), Mar. 21, 2014, [128 Stat. 1027][/us/stat/128/1027].)
 
  __References in Text__ 
 
@@ -89,19 +89,19 @@
 
     2014—Subsec. (a)(8). [Pub. L. 113–89][/us/pl/113/89] added par. (8).
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in two places.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in two places.
 
-    Subsec. (a)(6) to (9). [Pub. L. 112–141, § 100225(d)][/us/pl/112/141/s100225/d], inserted “and” at end of par. (6), substituted period for semicolon at end of par. (7), and struck out pars. (8) and (9) which read as follows:
+    Subsec. (a)(6) to (9). [Pub. L. 112–141][/us/pl/112/141], § 100225(d), inserted “and” at end of par. (6), substituted period for semicolon at end of par. (7), and struck out pars. (8) and (9) which read as follows:
 
     “(8) for financial assistance under [section 4102a of this title][/us/usc/t42/s4102a] to States and communities for taking actions under such section with respect to severe repetitive loss properties, but only to the extent provided in [section 4102a(i) of this title][/us/usc/t42/s4102a/i]; and
 
     “(9) for funding, not to exceed $10,000,000 in any fiscal year, for mitigation actions under [section 4030 of this title][/us/usc/t42/s4030], except that, notwithstanding any other provision of this chapter, amounts made available pursuant to this paragraph shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter.”
 
-    Subsecs. (b)(5), (c), (d). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” wherever appearing.
+    Subsecs. (b)(5), (c), (d). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
-    2004—Subsec. (a)(7), (8). [Pub. L. 108–264, § 102(b)][/us/pl/108/264/s102/b], struck out “and” at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: “for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.”
+    2004—Subsec. (a)(7), (8). [Pub. L. 108–264][/us/pl/108/264], § 102(b), struck out “and” at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: “for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.”
 
-    Subsec. (a)(9). [Pub. L. 108–264, § 104(b)][/us/pl/108/264/s104/b], added par. (9).
+    Subsec. (a)(9). [Pub. L. 108–264][/us/pl/108/264], § 104(b), added par. (9).
 
     1994—Subsec. (a). [Pub. L. 103–325][/us/pl/103/325], §§ 554(b)(1), 577(h)(1), in introductory provisions, substituted “shall” for “is authorized to” after “Director”, inserted “an account separate from any other accounts or funds available to the Director and shall be” after “which shall be”, and inserted “(except as otherwise provided in this section)” after “without fiscal year limitation”.
 
@@ -115,9 +115,9 @@
 
     1983—Subsecs. (a), (b)(5), (c), (d). [Pub. L. 98–181][/us/pl/98/181] substituted “Director” for “Secretary” wherever appearing.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 341(c)(1)][/us/pl/97/35/s341/c/1], inserted reference to subsec. (f) of this section.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 341(c)(1), inserted reference to subsec. (f) of this section.
 
-    Subsec. (f). [Pub. L. 97–35, § 341(c)(2)][/us/pl/97/35/s341/c/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 97–35][/us/pl/97/35], § 341(c)(2), added subsec. (f).
 
  __Effective Date of 1981 Amendment__ 
 
@@ -150,38 +150,38 @@
 [/us/usc/t42/s2414/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414%2Fe
 [/us/usc/t42/s4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4071
 [/us/usc/t42/s4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4018
-[/us/pl/90/448/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1310
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F577
-[/us/pl/97/35/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs341%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F419
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/98/479/s203/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203%2Fj%2F1
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2231
-[/us/pl/100/242/s545/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs545%2Fd
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1942
-[/us/pl/101/508/s2302/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2302%2Fe%2F3
+[/us/pl/101/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtII
 [/us/stat/104/1388-24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-24
-[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2269
-[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/pl/108/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2FtI
 [/us/stat/118/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F721
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F941
-[/us/pl/113/89/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs18%2Fb
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1027
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100225/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fd
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4102a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102a
 [/us/usc/t42/s4102a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102a%2Fi
 [/us/usc/t42/s4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4030
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/108/264/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs102%2Fb
-[/us/pl/108/264/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs104%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
@@ -189,8 +189,8 @@
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/usc/t31/s847–849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs847%E2%80%93849
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/97/35/s341/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs341%2Fc%2F1
-[/us/pl/97/35/s341/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs341%2Fc%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701

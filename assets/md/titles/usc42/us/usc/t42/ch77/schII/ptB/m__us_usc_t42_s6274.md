@@ -63,7 +63,7 @@
 
         (6) [section 1905 of title 18][/us/usc/t18/s1905].
 
-([Pub. L. 94–163, title II, § 254][/us/pl/94/163/s254], Dec. 22, 1975, [89 Stat. 899][/us/stat/89/899]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 96–72, § 22(b)(2)][/us/pl/96/72/s22/b/2], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535].)
+([Pub. L. 94–163, title II][/us/pl/94/163/tII], § 254, Dec. 22, 1975, [89 Stat. 899][/us/stat/89/899]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 96–72][/us/pl/96/72], § 22(b)(2), Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535].)
 
  __References in Text__ 
 
@@ -94,11 +94,11 @@
 [/us/usc/t13/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs9
 [/us/usc/t15/s176a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs176a
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/94/163/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs254
+[/us/pl/94/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtII
 [/us/stat/89/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F899
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/96/72/s22/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs22%2Fb%2F2
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F535
 [/us/pl/93/319/s11/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs11%2Fg
 [/us/stat/88/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F246

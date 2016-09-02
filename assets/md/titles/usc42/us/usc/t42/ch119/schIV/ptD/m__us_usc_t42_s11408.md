@@ -235,7 +235,7 @@
 
         For any fiscal year, in addition to funds awarded under part B, funds under this subchapter to be used in a city or county shall only be awarded under either part C or part D.
 
-([Pub. L. 100–77, title IV, § 491][/us/pl/100/77/s491], as added [Pub. L. 102–550, title XIV, § 1408][/us/pl/102/550/s1408], Oct. 28, 1992, [106 Stat. 4035][/us/stat/106/4035]; amended [Pub. L. 104–330, title V, § 506(a)(10)][/us/pl/104/330/s506/a/10], Oct. 26, 1996, [110 Stat. 4045][/us/stat/110/4045]; [Pub. L. 111–22, div. B, title IV, § 1401(2)][/us/pl/111/22/s1401/2], May 20, 2009, [123 Stat. 1696][/us/stat/123/1696].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 491, as added [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1408, Oct. 28, 1992, [106 Stat. 4035][/us/stat/106/4035]; amended [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(10), Oct. 26, 1996, [110 Stat. 4045][/us/stat/110/4045]; [Pub. L. 111–22, div. B, title IV][/us/pl/111/22/dB/tIV], § 1401(2), May 20, 2009, [123 Stat. 1696][/us/stat/123/1696].)
 
  __References in Text__ 
 
@@ -245,11 +245,11 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–22, § 1401(2)(A)][/us/pl/111/22/s1401/2/A], substituted “Rural housing stability grant program” for “Rural homelessness grant program” in section catchline.
+    2009—[Pub. L. 111–22][/us/pl/111/22], § 1401(2)(A), substituted “Rural housing stability grant program” for “Rural homelessness grant program” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–22, § 1401(2)(B)(i)][/us/pl/111/22/s1401/2/B/i], (ii), substituted “rural housing stability grant program” for “rural homelessness grant program” and inserted “in lieu of grants under part C” after “eligible organizations” in introductory provisions.
+    Subsec. (a). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(B)(i), (ii), substituted “rural housing stability grant program” for “rural homelessness grant program” and inserted “in lieu of grants under part C” after “eligible organizations” in introductory provisions.
 
-    Subsec. (a)(1) to (3). [Pub. L. 111–22, § 1401(2)(B)(iii)][/us/pl/111/22/s1401/2/B/iii], added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+    Subsec. (a)(1) to (3). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(B)(iii), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) assisting programs providing direct emergency assistance to homeless individuals and families;
 
@@ -257,31 +257,31 @@
 
     “(3) assisting individuals and families in obtaining access to permanent housing and supportive services.”
 
-    Subsec. (b)(1)(D) to (K). [Pub. L. 111–22, § 1401(2)(C)][/us/pl/111/22/s1401/2/C], added subpars. (D) to (H), redesignated former subpars. (E) to (G) as (I) to (K), respectively, and struck out former subpar. (D) which read as follows: “transitional housing;”.
+    Subsec. (b)(1)(D) to (K). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(C), added subpars. (D) to (H), redesignated former subpars. (E) to (G) as (I) to (K), respectively, and struck out former subpar. (D) which read as follows: “transitional housing;”.
 
-    Subsecs. (b)(2), (c)(1)(A), (3). [Pub. L. 111–22, § 1401(2)(D)][/us/pl/111/22/s1401/2/D], (E), substituted “transferred” for “appropriated”.
+    Subsecs. (b)(2), (c)(1)(A), (3). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(D), (E), substituted “transferred” for “appropriated”.
 
-    Subsec. (d)(6). [Pub. L. 111–22, § 1401(2)(F)(ii)(I)][/us/pl/111/22/s1401/2/F/ii/I], substituted “a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved by the organization” for “an agreement by the organization that, to the maximum extent practicable, the organization will involve homeless individuals and families”.
+    Subsec. (d)(6). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(F)(ii)(I), substituted “a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved by the organization” for “an agreement by the organization that, to the maximum extent practicable, the organization will involve homeless individuals and families”.
 
-    Subsec. (d)(7), (8). [Pub. L. 111–22, § 1401(2)(F)(i)][/us/pl/111/22/s1401/2/F/i], (ii)(II), (iii), added pars. (7) and (8).
+    Subsec. (d)(7), (8). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(F)(i), (ii)(II), (iii), added pars. (7) and (8).
 
-    Subsecs. (f), (g). [Pub. L. 111–22, § 1401(2)(G)][/us/pl/111/22/s1401/2/G], added subsecs. (f) and (g) and struck out former subsecs. (f) and (g) which related to the Federal share of the costs of providing assistance and participation of homeless individuals, respectively.
+    Subsecs. (f), (g). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(G), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g) which related to the Federal share of the costs of providing assistance and participation of homeless individuals, respectively.
 
-    Subsec. (h)(1). [Pub. L. 111–22, § 1401(2)(H)(i)][/us/pl/111/22/s1401/2/H/i]–(iii), substituted “Not later than 18 months after funding is first made available pursuant to the amendments made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the” for “The” in introductory provisions, “meeting the goals described in subsection (a)” for “providing housing and other assistance to homeless persons” in subpar. (A), and “meet the goals described in subsection (a) in rural areas” for “address homelessness in rural areas” in subpar. (B).
+    Subsec. (h)(1). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(H)(i)–(iii), substituted “Not later than 18 months after funding is first made available pursuant to the amendments made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the” for “The” in introductory provisions, “meeting the goals described in subsection (a)” for “providing housing and other assistance to homeless persons” in subpar. (A), and “meet the goals described in subsection (a) in rural areas” for “address homelessness in rural areas” in subpar. (B).
 
-    Subsec. (h)(2). [Pub. L. 111–22, § 1401(2)(H)(iv)][/us/pl/111/22/s1401/2/H/iv], substituted “Not later than 24 months after funding is first made available pursuant to the amendment made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the” for “The”, struck out “, not later than 18 months after the date on which the Secretary first makes grants under the program,” after “Congress”, and substituted “meet the goals described in subsection (a)” for “prevent and respond to homelessness”.
+    Subsec. (h)(2). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(H)(iv), substituted “Not later than 24 months after funding is first made available pursuant to the amendment made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the” for “The”, struck out “, not later than 18 months after the date on which the Secretary first makes grants under the program,” after “Congress”, and substituted “meet the goals described in subsection (a)” for “prevent and respond to homelessness”.
 
-    Subsec. (k)(1). [Pub. L. 111–22, § 1401(2)(I)(i)][/us/pl/111/22/s1401/2/I/i], substituted “rural housing stability grant program” for “rural homelessness grant program”.
+    Subsec. (k)(1). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(I)(i), substituted “rural housing stability grant program” for “rural homelessness grant program”.
 
-    Subsec. (k)(2)(B)(ii). [Pub. L. 111–22, § 1401(2)(I)(ii)(II)][/us/pl/111/22/s1401/2/I/ii/II], substituted “county where at least 75 percent of the population is rural; or” for “rural census tract.”
+    Subsec. (k)(2)(B)(ii). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(I)(ii)(II), substituted “county where at least 75 percent of the population is rural; or” for “rural census tract.”
 
-    Subsec. (k)(2)(C). [Pub. L. 111–22, § 1401(2)(I)(ii)(I)][/us/pl/111/22/s1401/2/I/ii/I], (III), added subpar. (C).
+    Subsec. (k)(2)(C). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(I)(ii)(I), (III), added subpar. (C).
 
-    Subsec. (l). [Pub. L. 111–22, § 1401(2)(J)(i)][/us/pl/111/22/s1401/2/J/i], substituted “Program funding” for “Authorization of appropriations” in heading.
+    Subsec. (l). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(J)(i), substituted “Program funding” for “Authorization of appropriations” in heading.
 
-    Subsec. (l)(1). [Pub. L. 111–22, § 1401(2)(J)(ii)][/us/pl/111/22/s1401/2/J/ii], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $30,000,000 for fiscal year 1993 and $31,260,000 for fiscal year 1994.”
+    Subsec. (l)(1). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(J)(ii), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $30,000,000 for fiscal year 1993 and $31,260,000 for fiscal year 1994.”
 
-    Subsec. (m). [Pub. L. 111–22, § 1401(2)(K)][/us/pl/111/22/s1401/2/K], added subsec. (m).
+    Subsec. (m). [Pub. L. 111–22][/us/pl/111/22], § 1401(2)(K), added subsec. (m).
 
     1996—Subsec. (e). [Pub. L. 104–330][/us/pl/104/330] struck out “, Indian tribes (as such term is defined in [section 5302(a) of this title][/us/usc/t42/s5302/a]),” after “nonprofit entities”.
 
@@ -310,33 +310,33 @@
 [/us/usc/t42/s11386a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11386a%2Fb%2F2
 [/us/usc/t42/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302
 [/us/usc/t42/s11386a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11386a%2Fb%2F2
-[/us/pl/100/77/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs491
-[/us/pl/102/550/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1408
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4035
-[/us/pl/104/330/s506/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F10
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4045
-[/us/pl/111/22/s1401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2
+[/us/pl/111/22/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIV
 [/us/stat/123/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1696
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
-[/us/pl/111/22/s1401/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FA
-[/us/pl/111/22/s1401/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FB%2Fi
-[/us/pl/111/22/s1401/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FB%2Fiii
-[/us/pl/111/22/s1401/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FC
-[/us/pl/111/22/s1401/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FD
-[/us/pl/111/22/s1401/2/F/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FF%2Fii%2FI
-[/us/pl/111/22/s1401/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FF%2Fi
-[/us/pl/111/22/s1401/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FG
-[/us/pl/111/22/s1401/2/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FH%2Fi
-[/us/pl/111/22/s1401/2/H/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FH%2Fiv
-[/us/pl/111/22/s1401/2/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FI%2Fi
-[/us/pl/111/22/s1401/2/I/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FI%2Fii%2FII
-[/us/pl/111/22/s1401/2/I/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FI%2Fii%2FI
-[/us/pl/111/22/s1401/2/J/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FJ%2Fi
-[/us/pl/111/22/s1401/2/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FJ%2Fii
-[/us/pl/111/22/s1401/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1401%2F2%2FK
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/usc/t42/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22

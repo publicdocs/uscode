@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to establish incentives for the use of renewable energy resources, to improve and coordinate the dissemination of information to the public with respect to renewable energy resources, to encourage the use of certain cost effective solar energy systems and conservation measures by the Federal Government, to establish a program for the promotion of local energy self-sufficiency, to broaden the existing program for accelerating the procurement and use of photovoltaic systems, and to provide further encouragement for the development of small hydroelectric power projects.
 
-([Pub. L. 96–294, title IV, § 402][/us/pl/96/294/s402], June 30, 1980, [94 Stat. 715][/us/stat/94/715].)
+([Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 402, June 30, 1980, [94 Stat. 715][/us/stat/94/715].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@ Section 401 of title IV [Pub. L. 96–294][/us/pl/96/294] provided that:
 ----------
 ----------
 
-[/us/pl/96/294/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs402
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F715
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F715

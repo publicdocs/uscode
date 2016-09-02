@@ -39,7 +39,7 @@
 
         (2) take such other action as the Secretary considers appropriate.
 
-([Pub. L. 101–336, title II, § 225][/us/pl/101/336/s225], July 26, 1990, [104 Stat. 343][/us/stat/104/343].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 225, July 26, 1990, [104 Stat. 343][/us/stat/104/343].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/336/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs225
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F343
 [/us/pl/101/336/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231%2Fb
 [/us/usc/t42/s12141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12141

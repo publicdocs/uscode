@@ -213,39 +213,39 @@
 
         (13) The Administrator may modify the requirements of paragraph (1) in the case of a surface impoundment for which the owner or operator, prior to October 1, 1984, has entered into, and is in compliance with, a consent order, decree, or agreement with the Administrator or a State with an authorized program mandating corrective action with respect to such surface impoundment that provides a degree of protection of human health and the environment which is at a minimum equivalent to that provided by paragraph (1).
 
-([Pub. L. 89–272, title II, § 3005][/us/pl/89/272/s3005], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2808][/us/stat/90/2808]; amended [Pub. L. 95–609, § 7(h)][/us/pl/95/609/s7/h], Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482][/us/pl/96/482], §§ 10, 11, Oct. 21, 1980, [94 Stat. 2338][/us/stat/94/2338]; [Pub. L. 98–616, title II][/us/pl/98/616], §§ 211–213(a), (c), 214(a), 215, 224(b), 243(c), Nov. 8, 1984, [98 Stat. 3240–3243][/us/stat/98/3240-3243], 3253, 3261; [Pub. L. 104–119, § 4(6)][/us/pl/104/119/s4/6], (7), Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3005, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2808][/us/stat/90/2808]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(h), Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482][/us/pl/96/482], §§ 10, 11, Oct. 21, 1980, [94 Stat. 2338][/us/stat/94/2338]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], §§ 211–213(a), (c), 214(a), 215, 224(b), 243(c), Nov. 8, 1984, [98 Stat. 3240–3243][/us/stat/98/3240-3243], 3253, 3261; [Pub. L. 104–119][/us/pl/104/119], § 4(6), (7), Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833].)
 
  __References in Text__ 
 
     The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f), is [Pub. L. 95–87][/us/pl/95/87], Aug. 3, 1977, [91 Stat. 445][/us/stat/91/445], as amended, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30][/us/usc/t30/s1201] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–119, § 4(6)][/us/pl/104/119/s4/6], substituted “polychlorinated” for “polycholorinated”.
+    1996—Subsec. (a). [Pub. L. 104–119][/us/pl/104/119], § 4(6), substituted “polychlorinated” for “polycholorinated”.
 
-    Subsec. (e)(1)(C). [Pub. L. 104–119, § 4(7)][/us/pl/104/119/s4/7], inserted comma at end of subpar. (C).
+    Subsec. (e)(1)(C). [Pub. L. 104–119][/us/pl/104/119], § 4(7), inserted comma at end of subpar. (C).
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 211][/us/pl/98/616/s211], substituted “an existing facility or planning to construct a new” for “a”, inserted “and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste”, and inserted at end “No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under [section 2605(e) of title 15][/us/usc/t15/s2605/e] for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.”
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 211, substituted “an existing facility or planning to construct a new” for “a”, inserted “and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste”, and inserted at end “No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under [section 2605(e) of title 15][/us/usc/t15/s2605/e] for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.”
 
-    Subsec. (c)(1), (2). [Pub. L. 98–616, § 213(c)][/us/pl/98/616/s213/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c)(1), (2). [Pub. L. 98–616][/us/pl/98/616], § 213(c), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c)(3). [Pub. L. 98–616, § 212][/us/pl/98/616/s212], added par. (3).
+    Subsec. (c)(3). [Pub. L. 98–616][/us/pl/98/616], § 212, added par. (3).
 
-    Subsec. (e). [Pub. L. 98–616, § 213(a)][/us/pl/98/616/s213/a], designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) thereof as subpars. (A), (B), and (C), respectively, designated existing provisions of previously redesignated subpar. (A) as cl. (i) and added cl. (ii), inserted “This paragraph shall not apply to any facility which has been previously denied a permit under this section or if authority to operate the facility under this section has been previously terminated.” to closing provisions of par. (1), and added pars. (2) and (3).
+    Subsec. (e). [Pub. L. 98–616][/us/pl/98/616], § 213(a), designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) thereof as subpars. (A), (B), and (C), respectively, designated existing provisions of previously redesignated subpar. (A) as cl. (i) and added cl. (ii), inserted “This paragraph shall not apply to any facility which has been previously denied a permit under this section or if authority to operate the facility under this section has been previously terminated.” to closing provisions of par. (1), and added pars. (2) and (3).
 
-    Subsec. (g). [Pub. L. 98–616, § 214(a)][/us/pl/98/616/s214/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–616][/us/pl/98/616], § 214(a), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 98–616, § 224(b)][/us/pl/98/616/s224/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–616][/us/pl/98/616], § 224(b), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 98–616, § 243(c)][/us/pl/98/616/s243/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 98–616][/us/pl/98/616], § 243(c), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 98–616, § 215][/us/pl/98/616/s215], added subsec. (j).
+    Subsec. (j). [Pub. L. 98–616][/us/pl/98/616], § 215, added subsec. (j).
 
-    1980—Subsec. (e)(1). [Pub. L. 96–482, § 10][/us/pl/96/482/s10], substituted “November 19, 1980” for “October 21, 1976”.
+    1980—Subsec. (e)(1). [Pub. L. 96–482][/us/pl/96/482], § 10, substituted “November 19, 1980” for “October 21, 1976”.
 
-    Subsec. (f). [Pub. L. 96–482, § 11][/us/pl/96/482/s11], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–482][/us/pl/96/482], § 11, added subsec. (f).
 
     1978—Subsec (a). [Pub. L. 95–609][/us/pl/95/609] inserted “treatment, storage, or” after “and after such date the”.
 
@@ -284,36 +284,36 @@
 [/us/usc/t42/s6924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924
 [/us/usc/t42/s6924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/89/272/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3005
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2808
-[/us/pl/95/609/s7/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fh
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3082
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2338
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3240-3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3240-3243
-[/us/pl/104/119/s4/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F6
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/stat/110/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F833
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/104/119/s4/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F6
-[/us/pl/104/119/s4/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F7
-[/us/pl/98/616/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs211
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/usc/t15/s2605/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fe
-[/us/pl/98/616/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs213%2Fc
-[/us/pl/98/616/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs212
-[/us/pl/98/616/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs213%2Fa
-[/us/pl/98/616/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs214%2Fa
-[/us/pl/98/616/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs224%2Fb
-[/us/pl/98/616/s243/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs243%2Fc
-[/us/pl/98/616/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs215
-[/us/pl/96/482/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs10
-[/us/pl/96/482/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs11
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

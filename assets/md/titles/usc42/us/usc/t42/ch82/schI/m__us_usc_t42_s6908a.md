@@ -17,7 +17,7 @@
 
     On and after October 21, 1998, the Administrator is authorized to enter into assistance agreements with Federally  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  recognized Indian tribes on such terms and conditions as the Administrator deems appropriate for the development and implementation of programs to manage hazardous waste, and underground storage tanks.
 
-([Pub. L. 105–276, title III][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2499][/us/stat/112/2499].)
+([Pub. L. 105–276, title III][/us/pl/105/276/tIII], Oct. 21, 1998, [112 Stat. 2499][/us/stat/112/2499].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIII
 [/us/stat/112/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2499
 
 

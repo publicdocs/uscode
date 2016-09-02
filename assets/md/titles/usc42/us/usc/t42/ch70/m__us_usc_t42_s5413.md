@@ -69,7 +69,7 @@
 
         All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) of this section which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
 
-([Pub. L. 93–383, title VI, § 614][/us/pl/93/383/s614], Aug. 22, 1974, [88 Stat. 707][/us/stat/88/707]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III, § 339B(c)][/us/pl/97/35/s339B/c], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI, § 603(b)(2)][/us/pl/106/569/s603/b/2], Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 614, Aug. 22, 1974, [88 Stat. 707][/us/stat/88/707]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339B(c), Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 603(b)(2), Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
 
  __Codification__ 
 
@@ -92,13 +92,13 @@
 ----------
 ----------
 
-[/us/pl/93/383/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs614
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F707
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
-[/us/pl/106/569/s603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fb%2F2
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2999
 [/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
 [/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc

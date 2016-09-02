@@ -25,7 +25,7 @@
 
         Upon expiration of the period for which a loan or loan guarantee was provided an entity under this subchapter, such entity shall make a full and complete report to the Secretary in such manner as he may by regulation prescribe. Each such report shall contain, among such other matters as the Secretary may by regulation require, descriptions of plans, developments, and operations relating to the matters referred to in [section 300e–5(b)(3) of this title][/us/usc/t42/s300e–5/b/3].
 
-    (c) __Repealed.__  __[__  __Pub. L. 99–660, title VIII, § 803(a)__  __][/us/pl/99/660/s803/a]__  __,__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3799__  __][/us/stat/100/3799]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 99–660, title VIII__  __][/us/pl/99/660/tVIII]__  __, § 803(a),__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3799__  __][/us/stat/100/3799]__ 
 
     (d) __Other entities considered health maintenance organizations__ 
 
@@ -37,7 +37,7 @@
 
         An entity which provides health services to a defined population on a prepaid basis and which has members who are enrolled under the health benefits program authorized by chapter 89 of title 5, may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if with respect to its other members it provides health services in accordance with [section 300e(b) of this title][/us/usc/t42/s300e/b] and is organized and operated in the manner prescribed by [section 300e(c) of this title][/us/usc/t42/s300e/c].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1307, as added [Pub. L. 93–222, § 2][/us/pl/93/222/s2], Dec. 29, 1973, [87 Stat. 926][/us/stat/87/926]; amended [Pub. L. 94–460, title I][/us/pl/94/460], §§ 109(b)(1), 112, Oct. 8, 1976, [90 Stat. 1950][/us/stat/90/1950], 1953; [Pub. L. 97–35, title IX, § 943(d)][/us/pl/97/35/s943/d], Aug. 13, 1981, [95 Stat. 576][/us/stat/95/576]; [Pub. L. 99–660, title VIII, § 803(a)][/us/pl/99/660/s803/a], (b)(2), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799], 3800.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1307, as added [Pub. L. 93–222][/us/pl/93/222], § 2, Dec. 29, 1973, [87 Stat. 926][/us/stat/87/926]; amended [Pub. L. 94–460, title I][/us/pl/94/460/tI], §§ 109(b)(1), 112, Oct. 8, 1976, [90 Stat. 1950][/us/stat/90/1950], 1953; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 943(d), Aug. 13, 1981, [95 Stat. 576][/us/stat/95/576]; [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 803(a), (b)(2), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799], 3800.)
 
  __References in Text__ 
 
@@ -45,17 +45,17 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a)(1). [Pub. L. 99–660, § 803(b)(2)][/us/pl/99/660/s803/b/2], substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
+    1986—Subsec. (a)(1). [Pub. L. 99–660][/us/pl/99/660], § 803(b)(2), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
 
-    Subsecs. (a)(2), (b). [Pub. L. 99–660, § 803(b)(2)(A)][/us/pl/99/660/s803/b/2/A], substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”.
+    Subsecs. (a)(2), (b). [Pub. L. 99–660][/us/pl/99/660], § 803(b)(2)(A), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”.
 
-    Subsec. (c). [Pub. L. 99–660, § 803(a)][/us/pl/99/660/s803/a], struck out subsec. (c) which read as follows: “If in any fiscal year the funds appropriated under [section 300e–8 of this title][/us/usc/t42/s300e–8] are insufficient to fund all applications approved under this subchapter for that fiscal year, the Secretary shall, after applying the applicable priorities under sections 300e–2 and 300e–3 of this title, give priority to the funding of applications for projects which the Secretary determines are the most likely to be economically viable.”
+    Subsec. (c). [Pub. L. 99–660][/us/pl/99/660], § 803(a), struck out subsec. (c) which read as follows: “If in any fiscal year the funds appropriated under [section 300e–8 of this title][/us/usc/t42/s300e–8] are insufficient to fund all applications approved under this subchapter for that fiscal year, the Secretary shall, after applying the applicable priorities under sections 300e–2 and 300e–3 of this title, give priority to the funding of applications for projects which the Secretary determines are the most likely to be economically viable.”
 
     1981—Subsec. (e). [Pub. L. 97–35][/us/pl/97/35] struck out subsec. (e) which related to limitation on cumulative total of loan guarantees in any fiscal year.
 
-    1976—Subsec. (d). [Pub. L. 94–460, § 112][/us/pl/94/460/s112], inserted sentence at end setting conditions upon which an entity providing health services to a defined population on a prepaid basis may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter.
+    1976—Subsec. (d). [Pub. L. 94–460][/us/pl/94/460], § 112, inserted sentence at end setting conditions upon which an entity providing health services to a defined population on a prepaid basis may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter.
 
-    Subsec. (e). [Pub. L. 94–460, § 109(b)(1)][/us/pl/94/460/s109/b/1], inserted “for a private health maintenance organization (other than a private nonprofit health maintenance organization)” after “may be made”, and “for private health maintenance organizations (other than private nonprofit health maintenance organizations)” after “guaranteed”.
+    Subsec. (e). [Pub. L. 94–460][/us/pl/94/460], § 109(b)(1), inserted “for a private health maintenance organization (other than a private nonprofit health maintenance organization)” after “may be made”, and “for private health maintenance organizations (other than private nonprofit health maintenance organizations)” after “guaranteed”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t42/s300e–5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%935%2Fb%2F3
-[/us/pl/99/660/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fa
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
@@ -87,24 +87,24 @@
 [/us/usc/t42/s300e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fb
 [/us/usc/t42/s300e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F926
-[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2FtI
 [/us/stat/90/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1950
-[/us/pl/97/35/s943/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs943%2Fd
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F576
-[/us/pl/99/660/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fa
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/99/660/s803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F2
-[/us/pl/99/660/s803/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F2%2FA
-[/us/pl/99/660/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fa
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/usc/t42/s300e–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%938
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/94/460/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs112
-[/us/pl/94/460/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs109%2Fb%2F1
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/99/660/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fc
 [/us/usc/t42/s300e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%935

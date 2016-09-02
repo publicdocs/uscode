@@ -71,7 +71,7 @@
 
         There is authorized to be appropriated out of funds already authorized to carry out this section $25,000,000 for each of fiscal years 2008 through 2013, to remain available until expended.
 
-([Pub. L. 110–140, title VI, § 656][/us/pl/110/140/s656], Dec. 19, 2007, [121 Stat. 1703][/us/stat/121/1703].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 656, Dec. 19, 2007, [121 Stat. 1703][/us/stat/121/1703].)
 
 ----------
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/110/140/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs656
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1703
 
 

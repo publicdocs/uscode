@@ -59,7 +59,7 @@
 
         (4) for fiscal year 2010, $10,000,000.
 
-([Pub. L. 90–351, title I, § 519][/us/pl/90/351/s519], as added [Pub. L. 109–248, title VI, § 626][/us/pl/109/248/s626], July 27, 2006, [120 Stat. 636][/us/stat/120/636].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 519, as added [Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 626, July 27, 2006, [120 Stat. 636][/us/stat/120/636].)
 
  __Prior Provisions__ 
 
@@ -72,8 +72,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs519
-[/us/pl/109/248/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs626
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F636
 [/us/pl/90/351/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs519
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

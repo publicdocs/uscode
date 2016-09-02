@@ -35,7 +35,7 @@
 
         (2) 2 years after the United States, in its capacity as trustee for the tribe, gives written notice to the governing body of the tribe that it will not present a claim or commence an action on behalf of the tribe or fails to present a claim or commence an action within the time limitations specified in this chapter.
 
-([Pub. L. 96–510, title I, § 126][/us/pl/96/510/s126], as added [Pub. L. 99–499, title II, § 207(e)][/us/pl/99/499/s207/e], Oct. 17, 1986, [100 Stat. 1706][/us/stat/100/1706].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 126, as added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 207(e), Oct. 17, 1986, [100 Stat. 1706][/us/stat/100/1706].)
 
  __References in Text__ 
 
@@ -53,8 +53,8 @@
 [/us/usc/t42/s9604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fe
 [/us/usc/t42/s9604/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fi
 [/us/usc/t42/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605
-[/us/pl/96/510/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs126
-[/us/pl/99/499/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs207%2Fe
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1706
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

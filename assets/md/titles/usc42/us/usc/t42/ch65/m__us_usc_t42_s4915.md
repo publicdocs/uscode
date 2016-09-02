@@ -31,11 +31,11 @@
 
         For the purpose of obtaining information to carry out this chapter, the Administrator of the Environmental Protection Agency may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In cases of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-([Pub. L. 92–574, § 16][/us/pl/92/574/s16], Oct. 27, 1972, [86 Stat. 1247][/us/stat/86/1247].)
+([Pub. L. 92–574][/us/pl/92/574], § 16, Oct. 27, 1972, [86 Stat. 1247][/us/stat/86/1247].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 44715 of title 49][/us/usc/t49/s44715]” substituted for “section 611 of the Federal Aviation Act of 1958” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (a), “[section 44715 of title 49][/us/usc/t49/s44715]” substituted for “section 611 of the Federal Aviation Act of 1958” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 ----------
 
@@ -46,10 +46,10 @@
 
 [/us/usc/t42/s4907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4907
 [/us/usc/t49/s44715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44715
-[/us/pl/92/574/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs16
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1247
 [/us/usc/t49/s44715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44715
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 
 

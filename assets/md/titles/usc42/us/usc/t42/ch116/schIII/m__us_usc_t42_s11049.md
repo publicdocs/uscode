@@ -57,7 +57,7 @@
 
         The term “toxic chemical” means a substance on the list described in [section 11023(c) of this title][/us/usc/t42/s11023/c].
 
-([Pub. L. 99–499, title III, § 329][/us/pl/99/499/s329], Oct. 17, 1986, [100 Stat. 1757][/us/stat/100/1757].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 329, Oct. 17, 1986, [100 Stat. 1757][/us/stat/100/1757].)
 
 ----------
 
@@ -70,7 +70,7 @@
 [/us/usc/t42/s11004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11004
 [/us/usc/t42/s11021/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11021%2Fe
 [/us/usc/t42/s11023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11023%2Fc
-[/us/pl/99/499/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs329
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1757
 
 

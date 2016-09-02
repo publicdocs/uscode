@@ -27,7 +27,7 @@
 
         The Secretary of Health and Human Services shall seek to enter into a memorandum of understanding with the Administrator of Drug Enforcement relating to providing for the reporting by the Administrator to the Secretary of information respecting physicians and other practitioners whose registration to dispense controlled substances has been suspended or revoked under [section 824 of title 21][/us/usc/t21/s824]. The Secretary shall report to Congress, not later than two years after November 14, 1986, on any such memorandum and on the cooperation between the Secretary and the Administrator in establishing such a memorandum.
 
-([Pub. L. 99–660, title IV, § 432][/us/pl/99/660/s432], Nov. 14, 1986, [100 Stat. 3794][/us/stat/100/3794].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 432, Nov. 14, 1986, [100 Stat. 3794][/us/stat/100/3794].)
 
  __Change of Name__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t21/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824
-[/us/pl/99/660/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs432
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3794
 [/us/pl/100/527/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10
 [/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301

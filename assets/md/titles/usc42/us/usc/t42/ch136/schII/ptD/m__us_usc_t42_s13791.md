@@ -307,7 +307,7 @@
 
         (4) the number of such children being processed by the juvenile justice system.
 
-([Pub. L. 103–322, title III, § 30401][/us/pl/103/322/s30401], Sept. 13, 1994, [108 Stat. 1846][/us/stat/108/1846]; [Pub. L. 105–244, title I, § 102(a)(13)(N)][/us/pl/105/244/s102/a/13/N], Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30401, Sept. 13, 1994, [108 Stat. 1846][/us/stat/108/1846]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(N), Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621].)
 
  __References in Text__ 
 
@@ -335,9 +335,9 @@
 [/us/usc/t42/s5603/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5603%2F23
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/103/322/s30401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30401
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1846
-[/us/pl/105/244/s102/a/13/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FN
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1621
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1836

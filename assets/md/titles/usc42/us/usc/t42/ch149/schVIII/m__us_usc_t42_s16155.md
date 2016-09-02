@@ -69,7 +69,7 @@
 
         The heads of all agencies, including those whose agencies are not represented on the Task Force, shall cooperate with and furnish information to the Task Force, the Technical Advisory Committee, and the Department.
 
-([Pub. L. 109–58, title VIII, § 806][/us/pl/109/58/s806], Aug. 8, 2005, [119 Stat. 848][/us/stat/119/848].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 806, Aug. 8, 2005, [119 Stat. 848][/us/stat/119/848].)
 
 ----------
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs806
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F848
 
 

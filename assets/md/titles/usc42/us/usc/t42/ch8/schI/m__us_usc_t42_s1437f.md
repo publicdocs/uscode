@@ -47,7 +47,7 @@
 
         (6) Redesignated (5).
 
-        (7) Repealed. [Pub. L. 105–276, title V, § 550(a)(3)(C)][/us/pl/105/276/s550/a/3/C], Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609]
+        (7) Repealed. [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 550(a)(3)(C), Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609]
 
         (8)
 
@@ -119,7 +119,7 @@
 
         (1) Nothing in this chapter shall be deemed to prohibit an owner from pledging, or offering as security for any loan or obligation, a contract for assistance payments entered into pursuant to this section: Provided, That such security is in connection with a project constructed or rehabilitated pursuant to authority granted in this section, and the terms of the financing or any refinancing have been approved by the Secretary.
 
-        (2) Repealed. [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128]
+        (2) Repealed. [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128]
 
     (f) __Definitions__ 
 
@@ -151,15 +151,15 @@
 
         The Secretary may not consider the receipt by a public housing agency of assistance under section 811(b)(1) of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 8013(b)(1)][/us/usc/t42/s8013/b/1]\], or the amount received, in approving assistance for the agency under this section or determining the amount of such assistance to be provided.
 
-    (j) __Repealed.__  __[__  __Pub. L. 105–276, title V, § 550(a)(6)__  __][/us/pl/105/276/s550/a/6]__  __,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2609__  __][/us/stat/112/2609]__ 
+    (j) __Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 550(a)(6),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2609__  __][/us/stat/112/2609]__ 
 
     (k) __Verification of income__ 
 
         The Secretary shall establish procedures which are appropriate and necessary to assure that income data provided to public housing agencies and owners by families applying for or receiving assistance under this section is complete and accurate. In establishing such procedures, the Secretary shall randomly, regularly, and periodically select a sample of families to authorize the Secretary to obtain information on these families for the purpose of income verification, or to allow those families to provide such information themselves. Such information may include, but is not limited to, data concerning unemployment compensation and Federal income taxation and data relating to benefits made available under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\], the Food and Nutrition Act of 2008 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\], or title 38. Any such information received pursuant to this subsection shall remain confidential and shall be used only for the purpose of verifying incomes in order to determine eligibility of families for benefits (and the amount of such benefits, if any) under this section.
 
-    (l) __, (m) Repealed.__  __[__  __Pub. L. 98–181, title I__  __][/us/pl/98/181]__  __\[title II, § 209(a)(5)\],__  __Nov. 30, 1983__  __,__  __[__  __97 Stat. 1183__  __][/us/stat/97/1183]__ 
+    (l) __, (m) Repealed.__  __[__  __Pub. L. 98–181, title I__  __][/us/pl/98/181/tI]__  __\[title II, § 209(a)(5)\],__  __Nov. 30, 1983__  __,__  __[__  __97 Stat. 1183__  __][/us/stat/97/1183]__ 
 
-    (n) __Repealed.__  __[__  __Pub. L. 105–276, title V, § 550(a)(7)__  __][/us/pl/105/276/s550/a/7]__  __,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2609__  __][/us/stat/112/2609]__ 
+    (n) __Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 550(a)(7),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2609__  __][/us/stat/112/2609]__ 
 
     (o) __Voucher program__ 
 
@@ -751,7 +751,7 @@
 
         The Secretary may extend expiring contracts entered into under this section for project-based loan management assistance to the extent necessary to prevent displacement of low-income families receiving such assistance as of September 30, 1996.
 
-    (w) __Repealed.__  __[__  __Pub. L. 106–74, title V, § 531(d)(2)__  __][/us/pl/106/74/s531/d/2]__  __,__  __Oct. 20, 1999__  __,__  __[__  __113 Stat. 1116__  __][/us/stat/113/1116]__ 
+    (w) __Repealed.__  __[__  __Pub. L. 106–74, title V__  __][/us/pl/106/74/tV]__  __, § 531(d)(2),__  __Oct. 20, 1999__  __,__  __[__  __113 Stat. 1116__  __][/us/stat/113/1116]__ 
 
     (x) __Family unification__ 
 
@@ -931,7 +931,7 @@
 
         Subject to amounts provided in appropriation Acts, starting in fiscal year 1999, the Secretary shall renew all expiring tenant-based annual contribution contracts under this section by applying an inflation factor based on local or regional factors to an allocation baseline. The allocation baseline shall be calculated by including, at a minimum, amounts sufficient to ensure continued assistance for the actual number of families assisted as of October 1, 1997, with appropriate upward adjustments for incremental assistance and additional families authorized subsequent to that date.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 8, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 94–375, § 2(d)][/us/pl/94/375/s2/d], (e), (g), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I, § 101(c)][/us/pl/95/24/s101/c], Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II, § 201(c)][/us/pl/95/128/s201/c]–(e), Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128]; [Pub. L. 95–557, title II, § 206(d)(1)][/us/pl/95/557/s206/d/1], (e), (f), Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091], 2092; [Pub. L. 96–153, title II][/us/pl/96/153], §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1108–1110; [Pub. L. 96–399, title II, § 203][/us/pl/96/399/s203], title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629], 1641; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402], 405–407, 410; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 203(b)(1), (2), 207–209(a), 210, 211\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1181–1183; [Pub. L. 98–479, title I, § 102(b)(6)][/us/pl/98/479/s102/b/6]–(10), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2222; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853][/us/stat/101/1849-1853], 1890; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], 3265, 3269, 3272; [Pub. L. 101–235, title I, § 127][/us/pl/101/235/s127], title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025][/us/stat/103/2025], 2058, 2059; [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], title IV, § 413, title V, §§ 541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715][/us/stat/106/3713-3715], 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I, § 101(c)(2)][/us/pl/103/233/s101/c/2], (3), (d), Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357]; [Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–19, title I, § 1003][/us/pl/104/19/s1003], July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 104–99, title IV][/us/pl/104/99], §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42, 44; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, §§ 203(a)–(c), 208\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title IX, § 903(a)(2)][/us/pl/104/193/s903/a/2], Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–204, title II, § 201(g)][/us/pl/104/204/s201/g], Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–18, title II, § 10002][/us/pl/105/18/s10002], June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–33, title II][/us/pl/105/33], §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257][/us/stat/111/257]; [Pub. L. 105–65, title II][/us/pl/105/65], §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], 1365, 1406, 1407; [Pub. L. 105–276, title II, § 209(a)][/us/pl/105/276/s209/a], title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II, § 223][/us/pl/106/74/s223], title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076][/us/stat/113/1076], 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II, § 2801][/us/pl/106/246/s2801], July 13, 2000, [114 Stat. 569][/us/stat/114/569]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, §§ 205, 228, 232(a), 234\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III, § 301(a)][/us/pl/106/569/s301/a], title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], 3026; [Pub. L. 107–95, § 12][/us/pl/107/95/s12], Dec. 21, 2001, [115 Stat. 921][/us/stat/115/921]; [Pub. L. 107–116, title VI, § 632][/us/pl/107/116/s632], Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 109–162, title VI, § 606][/us/pl/109/162/s606], Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271, § 5(d)][/us/pl/109/271/s5/d], (e), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 109–461, title VII, § 710][/us/pl/109/461/s710], Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(Y), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 110–289, div. B, title VIII, § 2835(a)][/us/pl/110/289/s2835/a], July 30, 2008, [122 Stat. 2871][/us/stat/122/2871]; [Pub. L. 111–22, div. A, title VII][/us/pl/111/22], §§ 703, 704, May 20, 2009, [123 Stat. 1661][/us/stat/123/1661], 1662; [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204]; [Pub. L. 111–372, title III, § 302][/us/pl/111/372/s302], Jan. 4, 2011, [124 Stat. 4084][/us/stat/124/4084]; [Pub. L. 113–4, title VI, § 601(b)(2)][/us/pl/113/4/s601/b/2], Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76], §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], 636; [Pub. L. 114–94, div. G, title LXXVIII, § 78001(b)][/us/pl/114/94/s78001/b], Dec. 4, 2015, [129 Stat. 1791][/us/stat/129/1791].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 8, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 94–375][/us/pl/94/375], § 2(d), (e), (g), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I][/us/pl/95/24/tI], § 101(c), Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II][/us/pl/95/128/tII], § 201(c)–(e), Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128]; [Pub. L. 95–557, title II][/us/pl/95/557/tII], § 206(d)(1), (e), (f), Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091], 2092; [Pub. L. 96–153, title II][/us/pl/96/153/tII], §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1108–1110; [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 203, title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629], 1641; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402], 405–407, 410; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, §§ 203(b)(1), (2), 207–209(a), 210, 211\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1181–1183; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 102(b)(6)–(10), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2222; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853][/us/stat/101/1849-1853], 1890; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], 3265, 3269, 3272; [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 127, title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025][/us/stat/103/2025], 2058, 2059; [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), title IV, § 413, title V, §§ 541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II][/us/pl/102/139/tII], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715][/us/stat/106/3713-3715], 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I][/us/pl/103/233/tI], § 101(c)(2), (3), (d), Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357]; [Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–19, title I][/us/pl/104/19/tI], § 1003, July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42, 44; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, §§ 203(a)–(c), 208\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 903(a)(2), Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–204, title II][/us/pl/104/204/tII], § 201(g), Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 10002, June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–33, title II][/us/pl/105/33/tII], §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257][/us/stat/111/257]; [Pub. L. 105–65, title II][/us/pl/105/65/tII], §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], 1365, 1406, 1407; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 209(a), title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 223, title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076][/us/stat/113/1076], 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2801, July 13, 2000, [114 Stat. 569][/us/stat/114/569]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, §§ 205, 228, 232(a), 234\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III][/us/pl/106/569/tIII], § 301(a), title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], 3026; [Pub. L. 107–95][/us/pl/107/95], § 12, Dec. 21, 2001, [115 Stat. 921][/us/stat/115/921]; [Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 632, Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 606, Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271][/us/pl/109/271], § 5(d), (e), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 109–461, title VII][/us/pl/109/461/tVII], § 710, Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(Y), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2835(a), July 30, 2008, [122 Stat. 2871][/us/stat/122/2871]; [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], §§ 703, 704, May 20, 2009, [123 Stat. 1661][/us/stat/123/1661], 1662; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1484(2), July 21, 2010, [124 Stat. 2204][/us/stat/124/2204]; [Pub. L. 111–372, title III][/us/pl/111/372/tIII], § 302, Jan. 4, 2011, [124 Stat. 4084][/us/stat/124/4084]; [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 601(b)(2), Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], 636; [Pub. L. 114–94, div. G, title LXXVIII][/us/pl/114/94/dG/tLXXVIII], § 78001(b), Dec. 4, 2015, [129 Stat. 1791][/us/stat/129/1791].)
 
  __References in Text__ 
 
@@ -951,15 +951,15 @@
 
     The effective date of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2001, referred to in subsec. (t)(2), means the effective date of H.R. 5482, as enacted by [section 1(a)(1) of Pub. L. 106–377][/us/pl/106/377/s1/a/1], which was approved Oct. 27, 2000.
 
-    Section 1437o of this title, referred to in subsec. (u), was repealed by [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    Section 1437o of this title, referred to in subsec. (u), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
     Subsection (o)(8)(A) of this section, referred to in subsec. (y)(3)(B), does not contain a cl. (ii) and does not relate to annual inspections. For provisions of subsec. (o)(8) which relate to annual inspections, see subpar. (D).
 
-    Subsection (c)(3)(B) of this section, referred to in subsec. (y)(5), was repealed by [Pub. L. 105–276, title V, § 550(a)(3)(A)(ii)][/us/pl/105/276/s550/a/3/A/ii], Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609].
+    Subsection (c)(3)(B) of this section, referred to in subsec. (y)(5), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 550(a)(3)(A)(ii), Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609].
 
     The National Housing Act, referred to in subsec. (y)(6), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
-    [Section 1437u(d)(3) of this title][/us/usc/t42/s1437u/d/3], relating to reimbursement of escrow accounts, referred to in subsec. (y)(6)(A), was repealed by [Pub. L. 105–276, title V, § 509(a)(2)][/us/pl/105/276/s509/a/2], Oct. 21, 1998, [112 Stat. 2531][/us/stat/112/2531].
+    [Section 1437u(d)(3) of this title][/us/usc/t42/s1437u/d/3], relating to reimbursement of escrow accounts, referred to in subsec. (y)(6)(A), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 509(a)(2), Oct. 21, 1998, [112 Stat. 2531][/us/stat/112/2531].
 
  __Codification__ 
 
@@ -967,7 +967,7 @@
 
     October 20, 1999, referred to in subsec. (t)(3)(B)(ii), was in the original “the enactment of this Act”, which was translated as meaning the enactment of [Pub. L. 106–74][/us/pl/106/74], which enacted subsec. (t) of this section, to reflect the probable intent of Congress.
 
-    [Pub. L. 100–242, title II, § 203(a)][/us/pl/100/242/s203/a], Feb. 5, 1988, [101 Stat. 1878][/us/stat/101/1878], as amended, which was formerly set out in a note under section 1715l of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by [section 262 of Pub. L. 100–242][/us/pl/100/242/s262] is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of [Pub. L. 100–242][/us/pl/100/242] by [Pub. L. 101–625][/us/pl/101/625].
+    [Pub. L. 100–242, title II][/us/pl/100/242/tII], § 203(a), Feb. 5, 1988, [101 Stat. 1878][/us/stat/101/1878], as amended, which was formerly set out in a note under section 1715l of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by [section 262 of Pub. L. 100–242][/us/pl/100/242/s262] is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of [Pub. L. 100–242][/us/pl/100/242] by [Pub. L. 101–625][/us/pl/101/625].
 
  __Prior Provisions__ 
 
@@ -977,29 +977,29 @@
 
     2015—Subsec. (o)(5)(A). [Pub. L. 114–94][/us/pl/114/94] substituted “as required by [section 1437a(a)(1) of this title][/us/usc/t42/s1437a/a/1]” for “not less than annually”.
 
-    2014—Subsec. (o)(2)(D). [Pub. L. 113–76, § 242][/us/pl/113/76/s242], added subpar. (D).
+    2014—Subsec. (o)(2)(D). [Pub. L. 113–76][/us/pl/113/76], § 242, added subpar. (D).
 
-    Subsec. (o)(8)(D)–(G). [Pub. L. 113–76, § 220(a)][/us/pl/113/76/s220/a], added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which required every public housing agency providing assistance under this subsection to make an annual inspection of each assisted dwelling unit.
+    Subsec. (o)(8)(D)–(G). [Pub. L. 113–76][/us/pl/113/76], § 220(a), added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which required every public housing agency providing assistance under this subsection to make an annual inspection of each assisted dwelling unit.
 
-    2013—Subsec. (c)(9). [Pub. L. 113–4, § 601(b)(2)(A)][/us/pl/113/4/s601/b/2/A], struck out par. (9) which related to prohibitions against the denial of program assistance or admission to victims of domestic violence, dating violence, or stalking and the termination of assistance, tenancy, or occupancy rights of such victims.
+    2013—Subsec. (c)(9). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(A), struck out par. (9) which related to prohibitions against the denial of program assistance or admission to victims of domestic violence, dating violence, or stalking and the termination of assistance, tenancy, or occupancy rights of such victims.
 
-    Subsec. (d)(1)(A). [Pub. L. 113–4, § 601(b)(2)(B)(i)][/us/pl/113/4/s601/b/2/B/i], struck out “and that an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance or for denial of admission if the applicant otherwise qualifies for assistance or admission” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(B)(i), struck out “and that an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance or for denial of admission if the applicant otherwise qualifies for assistance or admission” before semicolon at end.
 
-    Subsec. (d)(1)(B)(ii). [Pub. L. 113–4, § 601(b)(2)(B)(ii)(I)][/us/pl/113/4/s601/b/2/B/ii/I], struck out “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
+    Subsec. (d)(1)(B)(ii). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(B)(ii)(I), struck out “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-    Subsec. (d)(1)(B)(iii). [Pub. L. 113–4, § 601(b)(2)(B)(ii)(II)][/us/pl/113/4/s601/b/2/B/ii/II], struck out before semicolon at end “, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (II) Notwithstanding subclause (I) or any Federal, State, or local law to the contrary, a public housing agency may terminate assistance to, or an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing. (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance, to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+    Subsec. (d)(1)(B)(iii). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(B)(ii)(II), struck out before semicolon at end “, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (II) Notwithstanding subclause (I) or any Federal, State, or local law to the contrary, a public housing agency may terminate assistance to, or an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing. (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance, to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-    Subsec. (f)(8) to (11). [Pub. L. 113–4, § 601(b)(2)(C)][/us/pl/113/4/s601/b/2/C], struck out pars. (8) to (11) which defined “domestic violence”, “dating violence”, “stalking”, and “immediate family member”, respectively.
+    Subsec. (f)(8) to (11). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(C), struck out pars. (8) to (11) which defined “domestic violence”, “dating violence”, “stalking”, and “immediate family member”, respectively.
 
-    Subsec. (o)(6)(B). [Pub. L. 113–4, § 601(b)(2)(D)(i)][/us/pl/113/4/s601/b/2/D/i], struck out at end “Nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+    Subsec. (o)(6)(B). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(D)(i), struck out at end “Nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-    Subsec. (o)(7)(C). [Pub. L. 113–4, § 601(b)(2)(D)(ii)(I)][/us/pl/113/4/s601/b/2/D/ii/I], in introductory provisions, struck out “and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking shall not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and shall not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before “and in the case”.
+    Subsec. (o)(7)(C). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(D)(ii)(I), in introductory provisions, struck out “and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking shall not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and shall not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before “and in the case”.
 
-    Subsec. (o)(7)(D). [Pub. L. 113–4, § 601(b)(2)(D)(ii)(II)][/us/pl/113/4/s601/b/2/D/ii/II], struck out before semicolon at end “; except that (i) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (ii) Limitation.—Notwithstanding clause (i) or any Federal, State, or local law to the contrary, a public housing agency may terminate assistance to, or an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing. (iii) nothing in clause (i) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (iv) nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (v) nothing in clause (i) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (vi) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+    Subsec. (o)(7)(D). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(D)(ii)(II), struck out before semicolon at end “; except that (i) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (ii) Limitation.—Notwithstanding clause (i) or any Federal, State, or local law to the contrary, a public housing agency may terminate assistance to, or an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing. (iii) nothing in clause (i) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (iv) nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (v) nothing in clause (i) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (vi) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-    Subsec. (o)(20). [Pub. L. 113–4, § 601(b)(2)(D)(iii)][/us/pl/113/4/s601/b/2/D/iii], struck out par. (20) which related to prohibited basis for termination of assistance.
+    Subsec. (o)(20). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(D)(iii), struck out par. (20) which related to prohibited basis for termination of assistance.
 
-    Subsec. (ee). [Pub. L. 113–4, § 601(b)(2)(E)][/us/pl/113/4/s601/b/2/E], struck out subsec. (ee) which related to certification that an individual is a victim of domestic violence, dating violence, or stalking and confidentiality of information provided to any owner, manager, or public housing agency.
+    Subsec. (ee). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(2)(E), struck out subsec. (ee) which related to certification that an individual is a victim of domestic violence, dating violence, or stalking and confidentiality of information provided to any owner, manager, or public housing agency.
 
     2011—Subsec. (o)(18)(B)(iii). [Pub. L. 111–372][/us/pl/111/372] inserted before period at end “, except that a family may be required at the time the family initially receives such assistance to pay rent in an amount exceeding 40 percent of the monthly adjusted income of the family by such an amount or percentage that is reasonable given the services and amenities provided and as the Secretary deems appropriate.”
 
@@ -1013,113 +1013,113 @@
 
     Subsec. (o)(7)(F). [Pub. L. 111–22][/us/pl/111/22], §§ 703(2), 704, temporarily inserted at end “In the case of any foreclosure on any federally-related mortgage loan (as that term is defined in [section 2602 of title 12][/us/usc/t12/s2602]) or on any residential real property in which a recipient of assistance under this subsection resides, the immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to the lease between the prior owner and the tenant and to the housing assistance payments contract between the prior owner and the public housing agency for the occupied unit, except that this provision and the provisions related to foreclosure in subparagraph (C) shall not shall not affect any State or local law that provides longer time periods or other additional protections for tenants.” See Termination Date of 2009 Amendment note below.
 
-    2008—Subsec. (k). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(Y), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    2008—Subsec. (k). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(Y), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    Subsec. (o)(10)(F). [Pub. L. 110–289, § 2835(a)(2)][/us/pl/110/289/s2835/a/2], added subpar. (F).
+    Subsec. (o)(10)(F). [Pub. L. 110–289][/us/pl/110/289], § 2835(a)(2), added subpar. (F).
 
-    Subsec. (o)(13)(D)(i). [Pub. L. 110–289, § 2835(a)(1)(A)][/us/pl/110/289/s2835/a/1/A], substituted “any project” for “any building” and inserted at end “For purposes of this subparagraph, the term ‘project’ means a single building, multiple contiguous buildings, or multiple buildings on contiguous parcels of land.”
+    Subsec. (o)(13)(D)(i). [Pub. L. 110–289][/us/pl/110/289], § 2835(a)(1)(A), substituted “any project” for “any building” and inserted at end “For purposes of this subparagraph, the term ‘project’ means a single building, multiple contiguous buildings, or multiple buildings on contiguous parcels of land.”
 
-    Subsec. (o)(13)(F). [Pub. L. 110–289, § 2835(a)(1)(B)][/us/pl/110/289/s2835/a/1/B], substituted “15 years” for “10 years”.
+    Subsec. (o)(13)(F). [Pub. L. 110–289][/us/pl/110/289], § 2835(a)(1)(B), substituted “15 years” for “10 years”.
 
-    Subsec. (o)(13)(G). [Pub. L. 110–289, § 2835(a)(1)(C)][/us/pl/110/289/s2835/a/1/C], inserted after first sentence “Such contract may, at the election of the public housing agency and the owner of the structure, specify that such contract shall be extended for renewal terms of up to 15 years each, if the agency makes the determination required by this subparagraph and the owner is in compliance with the terms of the contract.” and inserted at end “A public housing agency may agree to enter into such a contract at the time it enters into the initial agreement for a housing assistance payment contract or at any time thereafter that is before the expiration of the housing assistance payment contract.”
+    Subsec. (o)(13)(G). [Pub. L. 110–289][/us/pl/110/289], § 2835(a)(1)(C), inserted after first sentence “Such contract may, at the election of the public housing agency and the owner of the structure, specify that such contract shall be extended for renewal terms of up to 15 years each, if the agency makes the determination required by this subparagraph and the owner is in compliance with the terms of the contract.” and inserted at end “A public housing agency may agree to enter into such a contract at the time it enters into the initial agreement for a housing assistance payment contract or at any time thereafter that is before the expiration of the housing assistance payment contract.”
 
-    Subsec. (o)(13)(H). [Pub. L. 110–289, § 2835(a)(1)(D)][/us/pl/110/289/s2835/a/1/D], inserted before period at end of first sentence “, except that in the case of a contract unit that has been allocated low-income housing tax credits and for which the rent limitation pursuant to such section 42 is less than the amount that would otherwise be permitted under this subparagraph, the rent for such unit may, in the sole discretion of a public housing agency, be established at the higher section 8 rent, subject only to paragraph (10)(A)”.
+    Subsec. (o)(13)(H). [Pub. L. 110–289][/us/pl/110/289], § 2835(a)(1)(D), inserted before period at end of first sentence “, except that in the case of a contract unit that has been allocated low-income housing tax credits and for which the rent limitation pursuant to such section 42 is less than the amount that would otherwise be permitted under this subparagraph, the rent for such unit may, in the sole discretion of a public housing agency, be established at the higher section 8 rent, subject only to paragraph (10)(A)”.
 
-    Subsec. (o)(13)(I)(i). [Pub. L. 110–289, § 2835(a)(1)(E)][/us/pl/110/289/s2835/a/1/E], inserted before semicolon “, except that the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the initial housing assistance payments contract covering the unit”.
+    Subsec. (o)(13)(I)(i). [Pub. L. 110–289][/us/pl/110/289], § 2835(a)(1)(E), inserted before semicolon “, except that the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the initial housing assistance payments contract covering the unit”.
 
-    Subsec. (o)(13)(L), (M). [Pub. L. 110–289, § 2835(a)(1)(F)][/us/pl/110/289/s2835/a/1/F], added subpars. (L) and (M).
+    Subsec. (o)(13)(L), (M). [Pub. L. 110–289][/us/pl/110/289], § 2835(a)(1)(F), added subpars. (L) and (M).
 
-    2006—Subsec. (c)(9). [Pub. L. 109–162, § 606(1)][/us/pl/109/162/s606/1], added par. (9).
+    2006—Subsec. (c)(9). [Pub. L. 109–162][/us/pl/109/162], § 606(1), added par. (9).
 
-    Subsec. (c)(9)(C)(ii). [Pub. L. 109–271, § 5(e)(1)][/us/pl/109/271/s5/e/1], added cl. (ii) and struck out former cl. (ii) which read as follows: “Notwithstanding clause (i), an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant.”
+    Subsec. (c)(9)(C)(ii). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “Notwithstanding clause (i), an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant.”
 
-    Subsec. (d)(1)(A). [Pub. L. 109–271, § 5(d)][/us/pl/109/271/s5/d], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the selection of tenants shall be the function of the owner, subject to the annual contributions contract between the Secretary and the agency, except that with respect to the certificate and moderate rehabilitation programs only, for the purpose of selecting families to be assisted, the public housing agency may establish local preferences, consistent with the public housing agency plan submitted under [section 1437c–1 of this title][/us/usc/t42/s1437c–1] by the public housing agency and that an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance or for denial of admission if the applicant otherwise qualifies for assistance or admission;”.
+    Subsec. (d)(1)(A). [Pub. L. 109–271][/us/pl/109/271], § 5(d), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the selection of tenants shall be the function of the owner, subject to the annual contributions contract between the Secretary and the agency, except that with respect to the certificate and moderate rehabilitation programs only, for the purpose of selecting families to be assisted, the public housing agency may establish local preferences, consistent with the public housing agency plan submitted under [section 1437c–1 of this title][/us/usc/t42/s1437c–1] by the public housing agency and that an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance or for denial of admission if the applicant otherwise qualifies for assistance or admission;”.
 
-    [Pub. L. 109–162, § 606(2)(A)][/us/pl/109/162/s606/2/A], which directed insertion of “and that an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance or for denial of admission if the applicant otherwise qualifies for assistance or admission” after “public housing agency”, was executed by making the insertion after “public housing agency” the last place appearing to reflect the probable intent of Congress.
+    [Pub. L. 109–162][/us/pl/109/162], § 606(2)(A), which directed insertion of “and that an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance or for denial of admission if the applicant otherwise qualifies for assistance or admission” after “public housing agency”, was executed by making the insertion after “public housing agency” the last place appearing to reflect the probable intent of Congress.
 
-    Subsec. (d)(1)(B)(ii). [Pub. L. 109–162, § 606(2)(B)][/us/pl/109/162/s606/2/B], inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
+    Subsec. (d)(1)(B)(ii). [Pub. L. 109–162][/us/pl/109/162], § 606(2)(B), inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-    Subsec. (d)(1)(B)(iii). [Pub. L. 109–162, § 606(2)(C)][/us/pl/109/162/s606/2/C], inserted before semicolon at end “, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (II) notwithstanding subclause (I), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager under this section may bifurcate a lease, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance, to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+    Subsec. (d)(1)(B)(iii). [Pub. L. 109–162][/us/pl/109/162], § 606(2)(C), inserted before semicolon at end “, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (II) notwithstanding subclause (I), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager under this section may bifurcate a lease, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance, to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-    Subsec. (d)(1)(B)(iii)(II). [Pub. L. 109–271, § 5(e)(2)][/us/pl/109/271/s5/e/2], added subcl. (II) and struck out former subcl. (II) which read as follows: “notwithstanding subclause (I), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager under this section may bifurcate a lease, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
+    Subsec. (d)(1)(B)(iii)(II). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(2), added subcl. (II) and struck out former subcl. (II) which read as follows: “notwithstanding subclause (I), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager under this section may bifurcate a lease, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
 
-    Subsec. (f)(8). [Pub. L. 109–162, § 606(3)][/us/pl/109/162/s606/3], added par. (8).
+    Subsec. (f)(8). [Pub. L. 109–162][/us/pl/109/162], § 606(3), added par. (8).
 
-    Subsec. (f)(9). [Pub. L. 109–271, § 5(e)(3)(A)][/us/pl/109/271/s5/e/3/A], struck out “and” after semicolon at end.
+    Subsec. (f)(9). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(3)(A), struck out “and” after semicolon at end.
 
-    [Pub. L. 109–162, § 606(3)][/us/pl/109/162/s606/3], added par. (9).
+    [Pub. L. 109–162][/us/pl/109/162], § 606(3), added par. (9).
 
-    Subsec. (f)(10). [Pub. L. 109–162, § 606(3)][/us/pl/109/162/s606/3], added par. (10).
+    Subsec. (f)(10). [Pub. L. 109–162][/us/pl/109/162], § 606(3), added par. (10).
 
-    Subsec. (f)(10)(A)(i). [Pub. L. 109–271, § 5(e)(3)(B)][/us/pl/109/271/s5/e/3/B], substituted “or” for “and” at end.
+    Subsec. (f)(10)(A)(i). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(3)(B), substituted “or” for “and” at end.
 
-    Subsec. (f)(11). [Pub. L. 109–162, § 606(3)][/us/pl/109/162/s606/3], added par. (11).
+    Subsec. (f)(11). [Pub. L. 109–162][/us/pl/109/162], § 606(3), added par. (11).
 
-    Subsec. (f)(11)(B). [Pub. L. 109–271, § 5(e)(3)(C)][/us/pl/109/271/s5/e/3/C], substituted “blood or marriage” for “blood and marriage”.
+    Subsec. (f)(11)(B). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(3)(C), substituted “blood or marriage” for “blood and marriage”.
 
-    Subsec. (o)(6)(B). [Pub. L. 109–271, § 5(e)(4)(A)(iii)][/us/pl/109/271/s5/e/4/A/iii], which directed the substitution of “admission. Nothing” for “admission, and that nothing” in second sentence, was executed by making the substitution in third sentence, to reflect the probable intent of Congress.
+    Subsec. (o)(6)(B). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(4)(A)(iii), which directed the substitution of “admission. Nothing” for “admission, and that nothing” in second sentence, was executed by making the substitution in third sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–271, § 5(e)(4)(A)(ii)][/us/pl/109/271/s5/e/4/A/ii], which directed the substitution of “for admission or” for “for admission for” in second sentence, was executed by substituting “for assistance or” for “for assistance for” in third sentence, to reflect the probable intent of Congress.
+    [Pub. L. 109–271][/us/pl/109/271], § 5(e)(4)(A)(ii), which directed the substitution of “for admission or” for “for admission for” in second sentence, was executed by substituting “for assistance or” for “for assistance for” in third sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–271, § 5(e)(4)(A)(i)][/us/pl/109/271/s5/e/4/A/i], which directed amendment of second sentence of subpar. (B) by striking “by” after “denial of program assistance”, was executed by striking that language in third sentence, to reflect the probable intent of Congress.
+    [Pub. L. 109–271][/us/pl/109/271], § 5(e)(4)(A)(i), which directed amendment of second sentence of subpar. (B) by striking “by” after “denial of program assistance”, was executed by striking that language in third sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–162, § 606(4)(A)][/us/pl/109/162/s606/4/A], inserted “That an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance by or for denial of admission if the applicant otherwise qualifies for assistance for admission, and that nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.” at end.
+    [Pub. L. 109–162][/us/pl/109/162], § 606(4)(A), inserted “That an applicant or participant is or has been a victim of domestic violence, dating violence, or stalking is not an appropriate basis for denial of program assistance by or for denial of admission if the applicant otherwise qualifies for assistance for admission, and that nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.” at end.
 
-    Subsec. (o)(7)(C). [Pub. L. 109–162, § 606(4)(B)][/us/pl/109/162/s606/4/B], inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking shall not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and shall not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
+    Subsec. (o)(7)(C). [Pub. L. 109–162][/us/pl/109/162], § 606(4)(B), inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking shall not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and shall not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-    Subsec. (o)(7)(D). [Pub. L. 109–162, § 606(4)(C)][/us/pl/109/162/s606/4/C], inserted at end “; except that (i) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (ii) notwithstanding clause (i), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (iii) nothing in clause (i) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (iv) nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (v) nothing in clause (i) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate, assistance to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (vi) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+    Subsec. (o)(7)(D). [Pub. L. 109–162][/us/pl/109/162], § 606(4)(C), inserted at end “; except that (i) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (ii) notwithstanding clause (i), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (iii) nothing in clause (i) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (iv) nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (v) nothing in clause (i) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate, assistance to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (vi) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-    Subsec. (o)(7)(D)(ii). [Pub. L. 109–271, § 5(e)(4)(B)(i)][/us/pl/109/271/s5/e/4/B/i], added cl. (ii) and struck out former cl. (ii) which read as follows: “notwithstanding clause (i), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
+    Subsec. (o)(7)(D)(ii). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(4)(B)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “notwithstanding clause (i), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
 
-    Subsec. (o)(7)(D)(iii). [Pub. L. 109–271, § 5(e)(4)(B)(ii)][/us/pl/109/271/s5/e/4/B/ii], substituted “access or control” for “access to control”.
+    Subsec. (o)(7)(D)(iii). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(4)(B)(ii), substituted “access or control” for “access to control”.
 
-    Subsec. (o)(7)(D)(v). [Pub. L. 109–271, § 5(e)(4)(B)(iii)][/us/pl/109/271/s5/e/4/B/iii], substituted “terminate” for “terminate,”.
+    Subsec. (o)(7)(D)(v). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(4)(B)(iii), substituted “terminate” for “terminate,”.
 
     Subsec. (o)(19)(B). [Pub. L. 109–461][/us/pl/109/461] reenacted heading without change and amended text generally, substituting cls. (i) to (v) relating to amounts necessary to provide vouchers for rental assistance for fiscal years 2007 to 2011 for former cls. (i) through (iv) relating to amounts necessary to provide vouchers for rental assistance for fiscal years 2003 to 2006.
 
-    Subsec. (o)(20). [Pub. L. 109–162, § 606(4)(D)][/us/pl/109/162/s606/4/D], added par. (20).
+    Subsec. (o)(20). [Pub. L. 109–162][/us/pl/109/162], § 606(4)(D), added par. (20).
 
-    Subsec. (o)(20)(D)(ii). [Pub. L. 109–271, § 5(e)(4)(C)][/us/pl/109/271/s5/e/4/C], substituted “distribution or” for “distribution”.
+    Subsec. (o)(20)(D)(ii). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(4)(C), substituted “distribution or” for “distribution”.
 
-    Subsec. (r)(5). [Pub. L. 109–162, § 606(5)][/us/pl/109/162/s606/5], inserted “, except that a family may receive a voucher from a public housing agency and move to another jurisdiction under the tenant-based assistance program if the family has complied with all other obligations of the section 8 program and has moved out of the assisted dwelling unit in order to protect the health or safety of an individual who is or has been the victim of domestic violence, dating violence, or stalking and who reasonably believed he or she was imminently threatened by harm from further violence if he or she remained in the assisted dwelling unit” before period at end.
+    Subsec. (r)(5). [Pub. L. 109–162][/us/pl/109/162], § 606(5), inserted “, except that a family may receive a voucher from a public housing agency and move to another jurisdiction under the tenant-based assistance program if the family has complied with all other obligations of the section 8 program and has moved out of the assisted dwelling unit in order to protect the health or safety of an individual who is or has been the victim of domestic violence, dating violence, or stalking and who reasonably believed he or she was imminently threatened by harm from further violence if he or she remained in the assisted dwelling unit” before period at end.
 
-    Subsec. (ee). [Pub. L. 109–162, § 606(6)][/us/pl/109/162/s606/6], added subsec. (ee).
+    Subsec. (ee). [Pub. L. 109–162][/us/pl/109/162], § 606(6), added subsec. (ee).
 
-    Subsec. (ee)(1)(A). [Pub. L. 109–271, § 5(e)(5)(A)][/us/pl/109/271/s5/e/5/A], substituted “the individual receives a request for such certification from the owner, manager, or public housing agency” for “the owner, manager, or public housing agency requests such certification”.
+    Subsec. (ee)(1)(A). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(5)(A), substituted “the individual receives a request for such certification from the owner, manager, or public housing agency” for “the owner, manager, or public housing agency requests such certification”.
 
-    Subsec. (ee)(1)(B). [Pub. L. 109–271, § 5(e)(5)(B)][/us/pl/109/271/s5/e/5/B], substituted “the individual has received a request in writing for such certification for the owner, manager, or public housing agency” for “the owner, manager, public housing agency, or assisted housing provider has requested such certification in writing” and “The owner, manager or public housing” for “The owner, manager, public housing” and struck out “, or assisted housing provider” before “may extend the 14-day deadline”.
+    Subsec. (ee)(1)(B). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(5)(B), substituted “the individual has received a request in writing for such certification for the owner, manager, or public housing agency” for “the owner, manager, public housing agency, or assisted housing provider has requested such certification in writing” and “The owner, manager or public housing” for “The owner, manager, public housing” and struck out “, or assisted housing provider” before “may extend the 14-day deadline”.
 
-    Subsec. (ee)(1)(C)(i). [Pub. L. 109–271, § 5(e)(5)(C)][/us/pl/109/271/s5/e/5/C], struck out “sexual assault,” after “addressing domestic violence, dating violence,”.
+    Subsec. (ee)(1)(C)(i). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(5)(C), struck out “sexual assault,” after “addressing domestic violence, dating violence,”.
 
-    Subsec. (ee)(1)(D). [Pub. L. 109–271, § 5(e)(5)(D)][/us/pl/109/271/s5/e/5/D], struck out “sexual assault,” after “dating violence,”.
+    Subsec. (ee)(1)(D). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(5)(D), struck out “sexual assault,” after “dating violence,”.
 
-    Subsec. (ee)(1)(E). [Pub. L. 109–271, § 5(e)(5)(E)(ii)][/us/pl/109/271/s5/e/5/E/ii], struck out “, or assisted housing provider” in two places after “public housing agency”.
+    Subsec. (ee)(1)(E). [Pub. L. 109–271][/us/pl/109/271], § 5(e)(5)(E)(ii), struck out “, or assisted housing provider” in two places after “public housing agency”.
 
-    [Pub. L. 109–271, § 5(e)(5)(E)(i)][/us/pl/109/271/s5/e/5/E/i], which directed the substitution of “manager or public housing” for “manager, public housing” wherever appearing, was executed by making the substitution for “manager, public housing” and “manger, public housing”, to reflect the probable intent of Congress.
+    [Pub. L. 109–271][/us/pl/109/271], § 5(e)(5)(E)(i), which directed the substitution of “manager or public housing” for “manager, public housing” wherever appearing, was executed by making the substitution for “manager, public housing” and “manger, public housing”, to reflect the probable intent of Congress.
 
     2002—Subsec. (t)(2). [Pub. L. 107–116][/us/pl/107/116] inserted “(including any such mortgage prepayment during fiscal year 1996 or a fiscal year thereafter or any insurance contract voluntary termination during fiscal year 1996 or a fiscal year thereafter)” after “insurance contract for the mortgage for such housing project”.
 
     2001—Subsec. (o)(19). [Pub. L. 107–95][/us/pl/107/95] added par. (19).
 
-    2000—Subsec. (o)(13). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 232(a)\], reenacted heading without change and amended text generally, substituting subpars. (A) to (K) providing for funding percentage limitation, consistency of contracts with public housing agency plan and goals, income mixing requirement, resident choice requirement, contract term and its extension, rent calculation and adjustments, tenant selection, and vacated units for former subpars. (A) to (D) providing for extension of contract term, rent calculation, and adjusted rents.
+    2000—Subsec. (o)(13). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 232(a)\], reenacted heading without change and amended text generally, substituting subpars. (A) to (K) providing for funding percentage limitation, consistency of contracts with public housing agency plan and goals, income mixing requirement, resident choice requirement, contract term and its extension, rent calculation and adjustments, tenant selection, and vacated units for former subpars. (A) to (D) providing for extension of contract term, rent calculation, and adjusted rents.
 
-    Subsec. (t)(1)(B). [Pub. L. 106–569, § 903(a)][/us/pl/106/569/s903/a], inserted before semicolon at end “, except that a limit shall not be considered reasonable for purposes of this subparagraph if it adversely affects such assisted families”.
+    Subsec. (t)(1)(B). [Pub. L. 106–569][/us/pl/106/569], § 903(a), inserted before semicolon at end “, except that a limit shall not be considered reasonable for purposes of this subparagraph if it adversely affects such assisted families”.
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 205\], inserted “and any other reasonable limit prescribed by the Secretary” before semicolon at end.
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 205\], inserted “and any other reasonable limit prescribed by the Secretary” before semicolon at end.
 
     [Pub. L. 106–246][/us/pl/106/246], which directed the substitution of “the assisted family may elect to remain in the same project in which the family was residing on the date of the eligibility event for the project, and if, during any period the family makes such an election and continues to so reside,” for “during any period that the assisted family continues residing in the same project in which the family was residing on the date of the eligibility event for the project, if” in [section 538 of Pub. L. 106–74][/us/pl/106/74/s538], was executed by making the substitution in subsec. (t)(1)(B) of this section, which was enacted by [section 538 of Pub. L. 106–74][/us/pl/106/74/s538], to reflect the probable intent of Congress.
 
-    Subsec. (t)(2). [Pub. L. 106–569, § 902(a)][/us/pl/106/569/s902/a], substituted “fiscal year 1994” for “fiscal year 1996”.
+    Subsec. (t)(2). [Pub. L. 106–569][/us/pl/106/569], § 902(a), substituted “fiscal year 1994” for “fiscal year 1996”.
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 228\], inserted “(including any such termination or expiration during fiscal years after fiscal year 1996 prior to the effective date of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2001)” after “contract for rental assistance under this section for such housing project”.
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 228\], inserted “(including any such termination or expiration during fiscal years after fiscal year 1996 prior to the effective date of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2001)” after “contract for rental assistance under this section for such housing project”.
 
-    Subsec. (x)(2). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 234\], substituted “(A) any family (i) who is otherwise eligible for such assistance, and (ii)” for “any family (A) who is otherwise eligible for such assistance, and (B)” and inserted before period at end “and (B) for a period not to exceed 18 months, otherwise eligible youths who have attained at least 18 years of age and not more than 21 years of age and who have left foster care at age 16 or older”.
+    Subsec. (x)(2). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 234\], substituted “(A) any family (i) who is otherwise eligible for such assistance, and (ii)” for “any family (A) who is otherwise eligible for such assistance, and (B)” and inserted before period at end “and (B) for a period not to exceed 18 months, otherwise eligible youths who have attained at least 18 years of age and not more than 21 years of age and who have left foster care at age 16 or older”.
 
-    Subsec. (y)(7), (8). [Pub. L. 106–569, § 301(a)][/us/pl/106/569/s301/a], added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (y)(7), (8). [Pub. L. 106–569][/us/pl/106/569], § 301(a), added par. (7) and redesignated former par. (7) as (8).
 
-    1999—Subsec. (c)(8)(A). [Pub. L. 106–74, § 535(1)][/us/pl/106/74/s535/1], substituted “termination of” for “terminating” after “Not less than one year before” and “. The notice shall also include a statement that, if the Congress makes funds available, the owner and the Secretary may agree to a renewal of the contract, thus avoiding termination, and that in the event of termination the Department of Housing and Urban Development will provide tenant-based rental assistance to all eligible residents, enabling them to choose the place they wish to rent, which is likely to include the dwelling unit in which they currently reside. Any contract covered by this paragraph that is renewed may be renewed for a period of up to 1 year or any number or years, with payments subject to the availability of appropriations for any year.” for “, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination. The owner’s notice shall include a statement that the owner and the Secretary may agree to a renewal of the contract, thus avoiding the termination.”
+    1999—Subsec. (c)(8)(A). [Pub. L. 106–74][/us/pl/106/74], § 535(1), substituted “termination of” for “terminating” after “Not less than one year before” and “. The notice shall also include a statement that, if the Congress makes funds available, the owner and the Secretary may agree to a renewal of the contract, thus avoiding termination, and that in the event of termination the Department of Housing and Urban Development will provide tenant-based rental assistance to all eligible residents, enabling them to choose the place they wish to rent, which is likely to include the dwelling unit in which they currently reside. Any contract covered by this paragraph that is renewed may be renewed for a period of up to 1 year or any number or years, with payments subject to the availability of appropriations for any year.” for “, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination. The owner’s notice shall include a statement that the owner and the Secretary may agree to a renewal of the contract, thus avoiding the termination.”
 
-    Subsec. (c)(8)(B). [Pub. L. 106–74, § 535(2)][/us/pl/106/74/s535/2], (4), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “In the case of owner who has requested that the Secretary renew the contract, the owner’s notice under subparagraph (A) to the tenants shall include statements that—
+    Subsec. (c)(8)(B). [Pub. L. 106–74][/us/pl/106/74], § 535(2), (4), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “In the case of owner who has requested that the Secretary renew the contract, the owner’s notice under subparagraph (A) to the tenants shall include statements that—
 
     “(i) the owner currently has a contract with the Department of Housing and Urban Development that pays the Government’s share of the tenant’s rent and the date on which the contract will expire;
 
@@ -1133,71 +1133,71 @@
 
     “(vi) the notice itself does not indicate an intent to terminate the contract by either the owner or the Department of Housing and Urban Development, provided there is Congressional approval of funding availability.”
 
-    Subsec. (c)(8)(C). [Pub. L. 106–74, § 535(4)][/us/pl/106/74/s535/4], redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+    Subsec. (c)(8)(C). [Pub. L. 106–74][/us/pl/106/74], § 535(4), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
 
-    [Pub. L. 106–74, § 535(3)][/us/pl/106/74/s535/3], struck out “Notwithstanding the preceding provisions of this paragraph, if the owner agrees to a 5-year contract renewal offered by the Secretary, payments under which shall be subject to the availability of appropriations for any year, the owner shall provide a written notice to the Secretary and the tenants not less than 180 days before the termination of such contract.” after “(C)” and “in the immediately preceding sentence” before “, the owner may not evict the tenants”, struck out “180-day” before “notice” in two places, and substituted “1 year has elapsed” for “such period has elapsed” and “1 year of advance notice” for “180 days of advance notice”.
+    [Pub. L. 106–74][/us/pl/106/74], § 535(3), struck out “Notwithstanding the preceding provisions of this paragraph, if the owner agrees to a 5-year contract renewal offered by the Secretary, payments under which shall be subject to the availability of appropriations for any year, the owner shall provide a written notice to the Secretary and the tenants not less than 180 days before the termination of such contract.” after “(C)” and “in the immediately preceding sentence” before “, the owner may not evict the tenants”, struck out “180-day” before “notice” in two places, and substituted “1 year has elapsed” for “such period has elapsed” and “1 year of advance notice” for “180 days of advance notice”.
 
-    Subsec. (c)(8)(D), (E). [Pub. L. 106–74, § 535(4)][/us/pl/106/74/s535/4], redesignated subpars. (D) and (E) as (C) and (D), respectively.
+    Subsec. (c)(8)(D), (E). [Pub. L. 106–74][/us/pl/106/74], § 535(4), redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
-    Subsec. (o)(18). [Pub. L. 106–74, § 523(a)][/us/pl/106/74/s523/a], added par. (18).
+    Subsec. (o)(18). [Pub. L. 106–74][/us/pl/106/74], § 523(a), added par. (18).
 
-    Subsec. (t). [Pub. L. 106–74, § 538(a)][/us/pl/106/74/s538/a], added subsec. (t).
+    Subsec. (t). [Pub. L. 106–74][/us/pl/106/74], § 538(a), added subsec. (t).
 
-    Subsec. (v). [Pub. L. 106–74, § 531(d)(1)][/us/pl/106/74/s531/d/1], designated sentence enacted by [Pub. L. 104–99, § 405(c)][/us/pl/104/99/s405/c], as subsec. (v).
+    Subsec. (v). [Pub. L. 106–74][/us/pl/106/74], § 531(d)(1), designated sentence enacted by [Pub. L. 104–99][/us/pl/104/99], § 405(c), as subsec. (v).
 
-    Subsec. (w). [Pub. L. 106–74, § 531(d)(2)][/us/pl/106/74/s531/d/2], struck out heading and text of subsec. (w). Text read as follows: “Not later than 30 days after the beginning of each fiscal year, the Secretary shall publish in the Federal Register a plan for reducing, to the extent feasible, year-to-year fluctuations in the levels of budget authority that will be required over the succeeding 5-year period to renew expiring rental assistance contracts entered into under this section since August 22, 1974. To the extent necessary to carry out such plan and to the extent approved in appropriations Acts, the Secretary is authorized to enter into annual contributions contracts with terms of less than 60 months.”
+    Subsec. (w). [Pub. L. 106–74][/us/pl/106/74], § 531(d)(2), struck out heading and text of subsec. (w). Text read as follows: “Not later than 30 days after the beginning of each fiscal year, the Secretary shall publish in the Federal Register a plan for reducing, to the extent feasible, year-to-year fluctuations in the levels of budget authority that will be required over the succeeding 5-year period to renew expiring rental assistance contracts entered into under this section since August 22, 1974. To the extent necessary to carry out such plan and to the extent approved in appropriations Acts, the Secretary is authorized to enter into annual contributions contracts with terms of less than 60 months.”
 
-    Subsec. (z)(1). [Pub. L. 106–74, § 223(1)][/us/pl/106/74/s223/1], in introductory provisions, inserted “expiration or” after “on account of” and struck out “(other than a contract for tenant-based assistance)” after “payments contract”.
+    Subsec. (z)(1). [Pub. L. 106–74][/us/pl/106/74], § 223(1), in introductory provisions, inserted “expiration or” after “on account of” and struck out “(other than a contract for tenant-based assistance)” after “payments contract”.
 
-    Subsec. (z)(3). [Pub. L. 106–74, § 223(2)][/us/pl/106/74/s223/2], struck out heading and text of par. (3). Text read as follows: “This subsection shall be effective for actions initiated by the Secretary on or before September 30, 1995.”
+    Subsec. (z)(3). [Pub. L. 106–74][/us/pl/106/74], § 223(2), struck out heading and text of par. (3). Text read as follows: “This subsection shall be effective for actions initiated by the Secretary on or before September 30, 1995.”
 
-    1998—Subsec. (a). [Pub. L. 105–276, § 550(a)(1)][/us/pl/105/276/s550/a/1], struck out at end “A public housing agency may contract to make assistance payments to itself (or any agency or instrumentality thereof) as the owner of dwelling units if such agency is subject to the same program requirements as are applied to other owners. In such cases, the Secretary may establish initial rents within applicable limits.”
+    1998—Subsec. (a). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(1), struck out at end “A public housing agency may contract to make assistance payments to itself (or any agency or instrumentality thereof) as the owner of dwelling units if such agency is subject to the same program requirements as are applied to other owners. In such cases, the Secretary may establish initial rents within applicable limits.”
 
-    Subsec. (b). [Pub. L. 105–276, § 550(a)(2)][/us/pl/105/276/s550/a/2], substituted “Other” for “Rental certificates and other” in subsec. heading, inserted par. (1) designation and heading, and struck out after first sentence “The Secretary shall enter into a separate annual contributions contract with each public housing agency to obligate the authority approved each year, beginning with the authority approved in appropriations Acts for fiscal year 1988 (other than amendment authority to increase assistance payments being made using authority approved prior to the appropriations Acts for fiscal year 1988), and such annual contributions contract (other than for annual contributions under subsection (o) of this section) shall bind the Secretary to make such authority, and any amendments increasing such authority, available to the public housing agency for a specified period.”
+    Subsec. (b). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(2), substituted “Other” for “Rental certificates and other” in subsec. heading, inserted par. (1) designation and heading, and struck out after first sentence “The Secretary shall enter into a separate annual contributions contract with each public housing agency to obligate the authority approved each year, beginning with the authority approved in appropriations Acts for fiscal year 1988 (other than amendment authority to increase assistance payments being made using authority approved prior to the appropriations Acts for fiscal year 1988), and such annual contributions contract (other than for annual contributions under subsection (o) of this section) shall bind the Secretary to make such authority, and any amendments increasing such authority, available to the public housing agency for a specified period.”
 
-    Subsec. (c)(3). [Pub. L. 105–276, § 550(a)(3)(A)][/us/pl/105/276/s550/a/3/A], struck out “(A)” after par. designation, and struck out subpar. (B), which authorized payment of higher percentage of income as rent than that specified under [section 1437a(a) of this title][/us/usc/t42/s1437a/a] if family receiving tenant-based rental assistance notified public housing agency of its interest in a unit renting for an excess rent and agency determined that the rent was reasonable, and set forth provisions which limited agency approval of such excess rentals to 10 percent of annual allocation, required report to Secretary where such rentals exceeded 5 percent of allocation, and required Secretary to report to Congress annually on agencies which had submitted such reports and include recommendations deemed appropriate to correct problems identified in reports.
+    Subsec. (c)(3). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(3)(A), struck out “(A)” after par. designation, and struck out subpar. (B), which authorized payment of higher percentage of income as rent than that specified under [section 1437a(a) of this title][/us/usc/t42/s1437a/a] if family receiving tenant-based rental assistance notified public housing agency of its interest in a unit renting for an excess rent and agency determined that the rent was reasonable, and set forth provisions which limited agency approval of such excess rentals to 10 percent of annual allocation, required report to Secretary where such rentals exceeded 5 percent of allocation, and required Secretary to report to Congress annually on agencies which had submitted such reports and include recommendations deemed appropriate to correct problems identified in reports.
 
-    Subsec. (c)(4). [Pub. L. 105–276, § 550(a)(3)(B)][/us/pl/105/276/s550/a/3/B], struck out “or by a family that qualifies to receive assistance under subsection (b) of this section pursuant to section 223 or 226 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990” after “such dwelling unit” in first sentence.
+    Subsec. (c)(4). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(3)(B), struck out “or by a family that qualifies to receive assistance under subsection (b) of this section pursuant to section 223 or 226 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990” after “such dwelling unit” in first sentence.
 
-    Subsec. (c)(5), (6). [Pub. L. 105–276, § 550(a)(3)(C)][/us/pl/105/276/s550/a/3/C], (D), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Assistance payments may be made with respect to up to 100 per centum of the dwelling units in any structure upon the application of the owner or prospective owner. Within the category of projects containing more than fifty units and designed for use primarily by nonelderly and nonhandicapped persons which are not subject to mortgages purchased under section 305 of the National Housing Act, the Secretary may give preference to applications for assistance involving not more than 20 per centum of the dwelling units in a project. In according any such preference, the Secretary shall compare applications received during distinct time periods not exceeding sixty days in duration.”
+    Subsec. (c)(5), (6). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(3)(C), (D), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Assistance payments may be made with respect to up to 100 per centum of the dwelling units in any structure upon the application of the owner or prospective owner. Within the category of projects containing more than fifty units and designed for use primarily by nonelderly and nonhandicapped persons which are not subject to mortgages purchased under section 305 of the National Housing Act, the Secretary may give preference to applications for assistance involving not more than 20 per centum of the dwelling units in a project. In according any such preference, the Secretary shall compare applications received during distinct time periods not exceeding sixty days in duration.”
 
-    Subsec. (c)(7). [Pub. L. 105–276, § 550(a)(3)(C)][/us/pl/105/276/s550/a/3/C], struck out par. (7) which read as follows: “To the extent authorized in contracts entered into by the Secretary with a public housing agency, such agency may purchase any structure containing one or more dwelling units assisted under this section for the purpose of reselling the structure to the tenant or tenants occupying units aggregating in value at least 80 per centum of the structure’s total value. Any such resale may be made on the terms and conditions prescribed under [section 1437c(h) of this title][/us/usc/t42/s1437c/h] and subject to the limitation contained in such section.”
+    Subsec. (c)(7). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(3)(C), struck out par. (7) which read as follows: “To the extent authorized in contracts entered into by the Secretary with a public housing agency, such agency may purchase any structure containing one or more dwelling units assisted under this section for the purpose of reselling the structure to the tenant or tenants occupying units aggregating in value at least 80 per centum of the structure’s total value. Any such resale may be made on the terms and conditions prescribed under [section 1437c(h) of this title][/us/usc/t42/s1437c/h] and subject to the limitation contained in such section.”
 
-    Subsec. (c)(8). [Pub. L. 105–276, § 549(b)][/us/pl/105/276/s549/b], redesignated par. (9) as (8)(A) and substituted subpars. (B) to (E) for “The Secretary shall review the owner’s notice, shall consider whether there are additional actions that can be taken by the Secretary to avoid the termination, and shall ensure a proper adjustment of the contract rents for the project in conformity with the requirements of paragraph (2). The Secretary shall issue a written finding of the legality of the termination and the reasons for the termination, including the actions considered or taken to avoid the termination. Within 30 days of the Secretary’s finding, the owner shall provide written notice to each tenant of the Secretary’s decision. For purposes of this paragraph, the term ‘termination’ means the expiration of the assistance contract or an owner’s refusal to renew the assistance contract, and such term shall include termination of the contract for business reasons.”
+    Subsec. (c)(8). [Pub. L. 105–276][/us/pl/105/276], § 549(b), redesignated par. (9) as (8)(A) and substituted subpars. (B) to (E) for “The Secretary shall review the owner’s notice, shall consider whether there are additional actions that can be taken by the Secretary to avoid the termination, and shall ensure a proper adjustment of the contract rents for the project in conformity with the requirements of paragraph (2). The Secretary shall issue a written finding of the legality of the termination and the reasons for the termination, including the actions considered or taken to avoid the termination. Within 30 days of the Secretary’s finding, the owner shall provide written notice to each tenant of the Secretary’s decision. For purposes of this paragraph, the term ‘termination’ means the expiration of the assistance contract or an owner’s refusal to renew the assistance contract, and such term shall include termination of the contract for business reasons.”
 
-    [Pub. L. 105–276, § 549(a)(1)(A)][/us/pl/105/276/s549/a/1/A], struck out par. (8) which read as follows: “Each contract under this section shall provide that the owner will notify tenants at least 90 days prior to the expiration of the contract of any rent increase which may occur as a result of the expiration of such contract.”
+    [Pub. L. 105–276][/us/pl/105/276], § 549(a)(1)(A), struck out par. (8) which read as follows: “Each contract under this section shall provide that the owner will notify tenants at least 90 days prior to the expiration of the contract of any rent increase which may occur as a result of the expiration of such contract.”
 
-    Subsec. (c)(9). [Pub. L. 105–276, § 549(b)(1)][/us/pl/105/276/s549/b/1], redesignated par. (9) as (8)(A).
+    Subsec. (c)(9). [Pub. L. 105–276][/us/pl/105/276], § 549(b)(1), redesignated par. (9) as (8)(A).
 
-    [Pub. L. 105–276, § 549(a)(1)(B)][/us/pl/105/276/s549/a/1/B], substituted “Not less than one year before terminating any contract under which assistance payments are received under this section, other than a contract for tenant-based assistance under this section, an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.” for “Not less than 180 days prior to terminating any contract under which assistance payments are received under this section (but not less than 90 days in the case of housing certificates or vouchers under subsection (b) or (o) of this section), an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.”
+    [Pub. L. 105–276][/us/pl/105/276], § 549(a)(1)(B), substituted “Not less than one year before terminating any contract under which assistance payments are received under this section, other than a contract for tenant-based assistance under this section, an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.” for “Not less than 180 days prior to terminating any contract under which assistance payments are received under this section (but not less than 90 days in the case of housing certificates or vouchers under subsection (b) or (o) of this section), an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.”
 
-    Subsec. (c)(10). [Pub. L. 105–276, § 549(a)(1)(A)][/us/pl/105/276/s549/a/1/A], struck out par. (10) which read as follows: “If an owner provides notice of proposed termination under paragraph (9) and the contract rent is lower than the maximum monthly rent for units assisted under subsection (b)(1) of this section, the Secretary shall adjust the contract rent based on the maximum monthly rent for units assisted under subsection (b)(1) of this section and the value of the low-income housing after rehabilitation.”
+    Subsec. (c)(10). [Pub. L. 105–276][/us/pl/105/276], § 549(a)(1)(A), struck out par. (10) which read as follows: “If an owner provides notice of proposed termination under paragraph (9) and the contract rent is lower than the maximum monthly rent for units assisted under subsection (b)(1) of this section, the Secretary shall adjust the contract rent based on the maximum monthly rent for units assisted under subsection (b)(1) of this section and the value of the low-income housing after rehabilitation.”
 
-    Subsec. (d)(1)(A). [Pub. L. 105–276, § 514(b)(1)][/us/pl/105/276/s514/b/1], amended subpar. (A) generally. For former text of subpar. (A), see 1996 Amendment note below.
+    Subsec. (d)(1)(A). [Pub. L. 105–276][/us/pl/105/276], § 514(b)(1), amended subpar. (A) generally. For former text of subpar. (A), see 1996 Amendment note below.
 
-    Subsec. (d)(1)(B)(ii). [Pub. L. 105–276, § 549(a)(2)(A)][/us/pl/105/276/s549/a/2/A], substituted “during the term of the lease, the owner” for “the owner”.
+    Subsec. (d)(1)(B)(ii). [Pub. L. 105–276][/us/pl/105/276], § 549(a)(2)(A), substituted “during the term of the lease, the owner” for “the owner”.
 
-    Subsec. (d)(1)(B)(iii). [Pub. L. 105–276, § 549(a)(2)(B)][/us/pl/105/276/s549/a/2/B], substituted “during the term of the lease, any criminal activity” for “provide that any criminal activity”.
+    Subsec. (d)(1)(B)(iii). [Pub. L. 105–276][/us/pl/105/276], § 549(a)(2)(B), substituted “during the term of the lease, any criminal activity” for “provide that any criminal activity”.
 
-    Subsec. (d)(2)(A). [Pub. L. 105–276, § 550(a)(4)(A)][/us/pl/105/276/s550/a/4/A], struck out at end “Where the Secretary enters into an annual contributions contract with a public housing agency pursuant to which the agency will enter into a contract for assistance payments with respect to an existing structure, the contract for assistance payments may not be attached to the structure unless (i) the Secretary and the public housing agency approve such action, and (ii) the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section, except that the Secretary shall permit the public housing agency to approve such attachment with respect to not more than 15 percent of the assistance provided by the public housing agency if the requirements of clause (ii) are met. Notwithstanding any other provision of this section, a public housing agency and an applicable State agency may, on a priority basis, attach to structures not more than an additional 15 percent of the assistance provided by the public housing agency or the applicable State agency only with respect to projects assisted under a State program that permits the owner of the projects to prepay a State assisted or subsidized mortgage on the structure, except that attachment of assistance under this sentence shall be for the purpose of (i) providing incentives to owners to preserve such projects for occupancy by lower and moderate income families (for the period that assistance under this sentence is available), and (ii) to assist lower income tenants to afford any increases in rent that may be required to induce the owner to maintain occupancy in the project by lower and moderate income tenants. Any assistance provided to lower income tenants under the preceding sentence shall not be considered for purposes of the limitation under paragraph (1)(A) regarding the percentage of families that may receive assistance under this section who do not qualify for preferences under such paragraph.”
+    Subsec. (d)(2)(A). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(4)(A), struck out at end “Where the Secretary enters into an annual contributions contract with a public housing agency pursuant to which the agency will enter into a contract for assistance payments with respect to an existing structure, the contract for assistance payments may not be attached to the structure unless (i) the Secretary and the public housing agency approve such action, and (ii) the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section, except that the Secretary shall permit the public housing agency to approve such attachment with respect to not more than 15 percent of the assistance provided by the public housing agency if the requirements of clause (ii) are met. Notwithstanding any other provision of this section, a public housing agency and an applicable State agency may, on a priority basis, attach to structures not more than an additional 15 percent of the assistance provided by the public housing agency or the applicable State agency only with respect to projects assisted under a State program that permits the owner of the projects to prepay a State assisted or subsidized mortgage on the structure, except that attachment of assistance under this sentence shall be for the purpose of (i) providing incentives to owners to preserve such projects for occupancy by lower and moderate income families (for the period that assistance under this sentence is available), and (ii) to assist lower income tenants to afford any increases in rent that may be required to induce the owner to maintain occupancy in the project by lower and moderate income tenants. Any assistance provided to lower income tenants under the preceding sentence shall not be considered for purposes of the limitation under paragraph (1)(A) regarding the percentage of families that may receive assistance under this section who do not qualify for preferences under such paragraph.”
 
-    Subsec. (d)(2)(B) to (G). [Pub. L. 105–276, § 550(a)(4)(C)][/us/pl/105/276/s550/a/4/C], redesignated subpars. (F) to (H) as (B) to (D), respectively, and struck out former subpars. (B) to (E). Prior to repeal, former subpar. (B) required the Secretary to permit a public housing agency to approve attachment of assistance with respect to any newly constructed structure if certain conditions were met, former subpar. (C) required a public housing agency to enter into a contract with an owner of a structure to which a contract for assistance was attached under this par. to provide for renewal of expiring assistance payment contracts, former subpar. (D) required owners of structures to which a contract for assistance was attached to adopt certain tenant selection procedures, and former subpar. (E) required the Secretary to annually survey public housing agencies to determine which have reached certain limitations in providing assistance and to report the survey results to Congress.
+    Subsec. (d)(2)(B) to (G). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(4)(C), redesignated subpars. (F) to (H) as (B) to (D), respectively, and struck out former subpars. (B) to (E). Prior to repeal, former subpar. (B) required the Secretary to permit a public housing agency to approve attachment of assistance with respect to any newly constructed structure if certain conditions were met, former subpar. (C) required a public housing agency to enter into a contract with an owner of a structure to which a contract for assistance was attached under this par. to provide for renewal of expiring assistance payment contracts, former subpar. (D) required owners of structures to which a contract for assistance was attached to adopt certain tenant selection procedures, and former subpar. (E) required the Secretary to annually survey public housing agencies to determine which have reached certain limitations in providing assistance and to report the survey results to Congress.
 
-    Subsec. (d)(2)(H). [Pub. L. 105–276, § 550(a)(4)(C)][/us/pl/105/276/s550/a/4/C], redesignated subpar. (H) as (D).
+    Subsec. (d)(2)(H). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(4)(C), redesignated subpar. (H) as (D).
 
-    [Pub. L. 105–276, § 550(a)(4)(B)][/us/pl/105/276/s550/a/4/B], substituted “An owner” for “Notwithstanding subsection (d)(1)(A)(i) of this section, an owner”.
+    [Pub. L. 105–276][/us/pl/105/276], § 550(a)(4)(B), substituted “An owner” for “Notwithstanding subsection (d)(1)(A)(i) of this section, an owner”.
 
-    Subsec. (d)(6). [Pub. L. 105–276, § 552][/us/pl/105/276/s552], added par. (6).
+    Subsec. (d)(6). [Pub. L. 105–276][/us/pl/105/276], § 552, added par. (6).
 
-    Subsec. (f)(6). [Pub. L. 105–276, § 545(b)][/us/pl/105/276/s545/b], inserted “or (o)(13)” after “(d)(2)”.
+    Subsec. (f)(6). [Pub. L. 105–276][/us/pl/105/276], § 545(b), inserted “or (o)(13)” after “(d)(2)”.
 
-    Subsec. (f)(7). [Pub. L. 105–276, § 550(a)(5)][/us/pl/105/276/s550/a/5], struck out “(b) or” after “under subsection” and inserted before period at end “and that provides for the eligible family to select suitable housing and to move to other suitable housing”.
+    Subsec. (f)(7). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(5), struck out “(b) or” after “under subsection” and inserted before period at end “and that provides for the eligible family to select suitable housing and to move to other suitable housing”.
 
-    Subsec. (h). [Pub. L. 105–276, § 565(c)][/us/pl/105/276/s565/c], which directed insertion of “(except as provided in [section 1437d(j)(3) of this title][/us/usc/t42/s1437d/j/3])” after “[section 1437d of this title][/us/usc/t42/s1437d]”, was executed by making the insertion after “Sections 1437c(e) and 1437d of this title”, to reflect the probable intent of Congress.
+    Subsec. (h). [Pub. L. 105–276][/us/pl/105/276], § 565(c), which directed insertion of “(except as provided in [section 1437d(j)(3) of this title][/us/usc/t42/s1437d/j/3])” after “[section 1437d of this title][/us/usc/t42/s1437d]”, was executed by making the insertion after “Sections 1437c(e) and 1437d of this title”, to reflect the probable intent of Congress.
 
-    Subsec. (j). [Pub. L. 105–276, § 550(a)(6)][/us/pl/105/276/s550/a/6], struck out subsec. (j), which authorized contracts for making rental assistance payments on behalf of low-income families utilizing manufactured homes as principal places of residence, directed that contract establish maximum monthly rent permitted with respect to home and real property on which it was located and provided formula for calculating amount of monthly assistance, provided for adjustments, set forth minimum and maximum terms, in the case of substantially rehabilitated or newly constructed park, provided limit on principal amount of mortgage attributable to rental spaces within park, and authorized Secretary to prescribe other terms and conditions necessary for purpose of carrying out subsection.
+    Subsec. (j). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(6), struck out subsec. (j), which authorized contracts for making rental assistance payments on behalf of low-income families utilizing manufactured homes as principal places of residence, directed that contract establish maximum monthly rent permitted with respect to home and real property on which it was located and provided formula for calculating amount of monthly assistance, provided for adjustments, set forth minimum and maximum terms, in the case of substantially rehabilitated or newly constructed park, provided limit on principal amount of mortgage attributable to rental spaces within park, and authorized Secretary to prescribe other terms and conditions necessary for purpose of carrying out subsection.
 
-    Subsec. (n). [Pub. L. 105–276, § 550(a)(7)][/us/pl/105/276/s550/a/7], struck out subsec. (n) which read as follows: “In making assistance available under subsections (b)(1) and (e)(2) of this section, the Secretary may provide assistance with respect to residential properties in which some or all of the dwelling units do not contain bathroom or kitchen facilities, if—
+    Subsec. (n). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(7), struck out subsec. (n) which read as follows: “In making assistance available under subsections (b)(1) and (e)(2) of this section, the Secretary may provide assistance with respect to residential properties in which some or all of the dwelling units do not contain bathroom or kitchen facilities, if—
 
     “(1) the property is located in an area in which there is a significant demand for such units, as determined by the Secretary;
 
@@ -1207,53 +1207,53 @@
 
     The Secretary may waive, in appropriate cases, the limitation and preference described in the second and third sentences of [section 1437a(b)(3) of this title][/us/usc/t42/s1437a/b/3] with respect to the assistance made available under this subsection.”
 
-    Subsec. (o). [Pub. L. 105–276, § 545(a)][/us/pl/105/276/s545/a], amended subsec. (o) generally. Prior to amendment, subsec. (o) contained provisions relating to assistance using a payment standard based upon fair market rental, categories of families eligible for assistance and preferences, contracts with public housing agencies for annual contributions, annual adjustments of assistance payment amounts, assistance with respect to certain cooperative and mutual housing, contracts to provide rental vouchers, set asides of budget authority for an adjustment pool, reasonable rent requirements and disapproval of leases with unreasonable rents, and assistance on behalf of families utilizing manufactured homes as principal places of residence.
+    Subsec. (o). [Pub. L. 105–276][/us/pl/105/276], § 545(a), amended subsec. (o) generally. Prior to amendment, subsec. (o) contained provisions relating to assistance using a payment standard based upon fair market rental, categories of families eligible for assistance and preferences, contracts with public housing agencies for annual contributions, annual adjustments of assistance payment amounts, assistance with respect to certain cooperative and mutual housing, contracts to provide rental vouchers, set asides of budget authority for an adjustment pool, reasonable rent requirements and disapproval of leases with unreasonable rents, and assistance on behalf of families utilizing manufactured homes as principal places of residence.
 
-    Subsec. (o)(2). [Pub. L. 105–276, § 209(a)][/us/pl/105/276/s209/a], inserted at end “Notwithstanding the preceding sentence, for families being admitted to the voucher program who remain in the same unit or complex, where the rent (including the amount allowed for utilities) does not exceed the payment standard, the monthly assistance payment for any family shall be the amount by which such rent exceeds the greater of 30 percent of the family’s monthly adjusted income or 10 percent of the family’s monthly income.” Notwithstanding sections 209(b) and 503 of [Pub. L. 105–276][/us/pl/105/276], set out as Effective Date of 1998 Amendment notes below and under [section 1437 of this title][/us/usc/t42/s1437], this amendment was executed before the amendment by [section 545(a) of Pub. L. 105–276][/us/pl/105/276/s545/a] to reflect the probable intent of Congress and the provisions of [section 545(c) of Pub. L. 105–276][/us/pl/105/276/s545/c], set out as an Effective Date of 1998 Amendment note below, and [section 559 of Pub. L. 105–276][/us/pl/105/276/s559], set out as a Regulations note below.
+    Subsec. (o)(2). [Pub. L. 105–276][/us/pl/105/276], § 209(a), inserted at end “Notwithstanding the preceding sentence, for families being admitted to the voucher program who remain in the same unit or complex, where the rent (including the amount allowed for utilities) does not exceed the payment standard, the monthly assistance payment for any family shall be the amount by which such rent exceeds the greater of 30 percent of the family’s monthly adjusted income or 10 percent of the family’s monthly income.” Notwithstanding sections 209(b) and 503 of [Pub. L. 105–276][/us/pl/105/276], set out as Effective Date of 1998 Amendment notes below and under [section 1437 of this title][/us/usc/t42/s1437], this amendment was executed before the amendment by [section 545(a) of Pub. L. 105–276][/us/pl/105/276/s545/a] to reflect the probable intent of Congress and the provisions of [section 545(c) of Pub. L. 105–276][/us/pl/105/276/s545/c], set out as an Effective Date of 1998 Amendment note below, and [section 559 of Pub. L. 105–276][/us/pl/105/276/s559], set out as a Regulations note below.
 
-    Subsec. (q). [Pub. L. 105–276, § 547][/us/pl/105/276/s547], amended subsec. (q) generally, substituting present provisions for provisions which authorized establishment of fee for costs incurred in administering certificate and housing voucher programs under subsecs. (b) and (o) of this section, costs of preliminary expenses in connection with new allocations of assistance, costs incurred in assisting families who experienced difficulty in obtaining appropriate housing under the programs, and extraordinary costs; provisions which set forth use of fees for employing one or more service coordinators to coordinate provision of supportive services for elderly or disabled families on whose behalf assistance was provided; and provision which limited establishment or increase of fees to amounts provided in appropriation Acts.
+    Subsec. (q). [Pub. L. 105–276][/us/pl/105/276], § 547, amended subsec. (q) generally, substituting present provisions for provisions which authorized establishment of fee for costs incurred in administering certificate and housing voucher programs under subsecs. (b) and (o) of this section, costs of preliminary expenses in connection with new allocations of assistance, costs incurred in assisting families who experienced difficulty in obtaining appropriate housing under the programs, and extraordinary costs; provisions which set forth use of fees for employing one or more service coordinators to coordinate provision of supportive services for elderly or disabled families on whose behalf assistance was provided; and provision which limited establishment or increase of fees to amounts provided in appropriation Acts.
 
-    Subsec. (r). [Pub. L. 105–276, § 553(3)][/us/pl/105/276/s553/3], inserted heading, added par. (1), and struck out former par. (1) which read as follows: “Any family assisted under subsection (b) or (o) of this section may receive such assistance to rent an eligible dwelling unit if the dwelling unit to which the family moves is within the same State, or the same or a contiguous metropolitan statistical area as the metropolitan statistical area within which is located the area of jurisdiction of the public housing agency approving such assistance; except that any family not living within the jurisdiction of a public housing agency at the time that such family applies for assistance from such agency shall, during the 12-month period beginning upon the receipt of any tenant-based rental assistance made available on behalf of the family, use such assistance to rent an eligible dwelling unit located within the jurisdiction served by such public housing agency.”
+    Subsec. (r). [Pub. L. 105–276][/us/pl/105/276], § 553(3), inserted heading, added par. (1), and struck out former par. (1) which read as follows: “Any family assisted under subsection (b) or (o) of this section may receive such assistance to rent an eligible dwelling unit if the dwelling unit to which the family moves is within the same State, or the same or a contiguous metropolitan statistical area as the metropolitan statistical area within which is located the area of jurisdiction of the public housing agency approving such assistance; except that any family not living within the jurisdiction of a public housing agency at the time that such family applies for assistance from such agency shall, during the 12-month period beginning upon the receipt of any tenant-based rental assistance made available on behalf of the family, use such assistance to rent an eligible dwelling unit located within the jurisdiction served by such public housing agency.”
 
-    Subsec. (r)(2). [Pub. L. 105–276, § 553(1)][/us/pl/105/276/s553/1], struck out at end “If no public housing agency has authority with respect to the dwelling unit to which a family moves under this subsection, the public housing agency approving the assistance shall have such responsibility.”
+    Subsec. (r)(2). [Pub. L. 105–276][/us/pl/105/276], § 553(1), struck out at end “If no public housing agency has authority with respect to the dwelling unit to which a family moves under this subsection, the public housing agency approving the assistance shall have such responsibility.”
 
-    Subsec. (r)(3). [Pub. L. 105–276, § 553(2)][/us/pl/105/276/s553/2], struck out “(b) or” before “(o) of this section for” and inserted at end “The Secretary shall establish procedures for the compensation of public housing agencies that issue vouchers to families that move into or out of the jurisdiction of the public housing agency under portability procedures. The Secretary may reserve amounts available for assistance under subsection (o) of this section to compensate those public housing agencies.”
+    Subsec. (r)(3). [Pub. L. 105–276][/us/pl/105/276], § 553(2), struck out “(b) or” before “(o) of this section for” and inserted at end “The Secretary shall establish procedures for the compensation of public housing agencies that issue vouchers to families that move into or out of the jurisdiction of the public housing agency under portability procedures. The Secretary may reserve amounts available for assistance under subsection (o) of this section to compensate those public housing agencies.”
 
-    Subsec. (r)(5). [Pub. L. 105–276, § 553(5)][/us/pl/105/276/s553/5], added par. (5).
+    Subsec. (r)(5). [Pub. L. 105–276][/us/pl/105/276], § 553(5), added par. (5).
 
-    Subsec. (t). [Pub. L. 105–276, § 554][/us/pl/105/276/s554], struck out subsec. (t). For text, see 1996 Amendment note below.
+    Subsec. (t). [Pub. L. 105–276][/us/pl/105/276], § 554, struck out subsec. (t). For text, see 1996 Amendment note below.
 
-    Subsec. (u). [Pub. L. 105–276, § 550(a)(8)][/us/pl/105/276/s550/a/8], in pars. (1) and (3), struck out “certificates or” before “vouchers” and, in par. (2), struck out “, certificates” before “or vouchers”.
+    Subsec. (u). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(8), in pars. (1) and (3), struck out “certificates or” before “vouchers” and, in par. (2), struck out “, certificates” before “or vouchers”.
 
-    Subsec. (x)(2). [Pub. L. 105–276, § 550(a)(9)][/us/pl/105/276/s550/a/9], substituted “tenant-based assistance” for “housing certificate assistance”.
+    Subsec. (x)(2). [Pub. L. 105–276][/us/pl/105/276], § 550(a)(9), substituted “tenant-based assistance” for “housing certificate assistance”.
 
-    Subsec. (y)(1). [Pub. L. 105–276, § 555(a)(1)(A)][/us/pl/105/276/s555/a/1/A], in introductory provisions, substituted “A public housing agency providing tenant-based assistance on behalf of an eligible family under this section may provide assistance for an eligible family that purchases a dwelling unit (including a unit under a lease-purchase agreement) that will be owned by 1 or more members of the family, and will be occupied by the family, if the family” for “A family receiving tenant-based assistance under this section may receive assistance for occupancy of a dwelling owned by one or more members of the family if the family”.
+    Subsec. (y)(1). [Pub. L. 105–276][/us/pl/105/276], § 555(a)(1)(A), in introductory provisions, substituted “A public housing agency providing tenant-based assistance on behalf of an eligible family under this section may provide assistance for an eligible family that purchases a dwelling unit (including a unit under a lease-purchase agreement) that will be owned by 1 or more members of the family, and will be occupied by the family, if the family” for “A family receiving tenant-based assistance under this section may receive assistance for occupancy of a dwelling owned by one or more members of the family if the family”.
 
-    Subsec. (y)(1)(A). [Pub. L. 105–276, § 555(a)(1)(B)][/us/pl/105/276/s555/a/1/B], inserted “, or owns or is acquiring shares in a cooperative” before semicolon at end.
+    Subsec. (y)(1)(A). [Pub. L. 105–276][/us/pl/105/276], § 555(a)(1)(B), inserted “, or owns or is acquiring shares in a cooperative” before semicolon at end.
 
-    Subsec. (y)(1)(B). [Pub. L. 105–276, § 555(a)(1)(C)][/us/pl/105/276/s555/a/1/C], struck out cl. (i), redesignated cl. (ii) as entire subpar., and inserted “, except that the Secretary may provide for the consideration of public assistance in the case of an elderly family or a disabled family” after “public assistance”. Prior to amendment, cl. (i) read as follows: “participates in the family self-sufficiency program under [section 1437u of this title][/us/usc/t42/s1437u] of the public housing agency providing the assistance; or”.
+    Subsec. (y)(1)(B). [Pub. L. 105–276][/us/pl/105/276], § 555(a)(1)(C), struck out cl. (i), redesignated cl. (ii) as entire subpar., and inserted “, except that the Secretary may provide for the consideration of public assistance in the case of an elderly family or a disabled family” after “public assistance”. Prior to amendment, cl. (i) read as follows: “participates in the family self-sufficiency program under [section 1437u of this title][/us/usc/t42/s1437u] of the public housing agency providing the assistance; or”.
 
-    Subsec. (y)(2). [Pub. L. 105–276, § 555(a)(2)][/us/pl/105/276/s555/a/2], added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+    Subsec. (y)(2). [Pub. L. 105–276][/us/pl/105/276], § 555(a)(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
     “(A) In general.—Notwithstanding any other provisions of this section governing determination of the amount of assistance payments under this section on behalf of a family, the monthly assistance payment for any family assisted under this subsection shall be the amount by which the fair market rental for the area established under subsection (c)(1) of this section exceeds 30 percent of the family’s monthly adjusted income; except that the monthly assistance payment shall not exceed the amount by which the monthly homeownership expenses, as determined in accordance with requirements established by the Secretary, exceeds 10 percent of the family’s monthly income.
 
     “(B) Exclusion of equity from income.—For purposes of determining the monthly assistance payment for a family, the Secretary shall not include in family income an amount imputed from the equity of the family in a dwelling occupied by the family with assistance under this subsection.”
 
-    Subsec. (y)(3), (4). [Pub. L. 105–276, § 555(a)(3)][/us/pl/105/276/s555/a/3], added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
+    Subsec. (y)(3), (4). [Pub. L. 105–276][/us/pl/105/276], § 555(a)(3), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
     “(3) Recapture of certain amounts.—Upon sale of the dwelling by the family, the Secretary shall recapture from any net proceeds the amount of additional assistance (as determined in accordance with requirements established by the Secretary) paid to or on behalf of the eligible family as a result of paragraph (2)(B).
 
     “(4) Downpayment requirement.—Each public housing agency providing assistance under this subsection shall ensure that each family assisted shall provide from its own resources not less than 80 percent of any downpayment in connection with a loan made for the purchase of a dwelling. Such resources may include amounts from any escrow account for the family established under [section 1437u(d) of this title][/us/usc/t42/s1437u/d]. Not more than 20 percent of the downpayment may be provided from other sources, such as from nonprofit entities and programs of States and units of general local government.”
 
-    Subsec. (y)(5). [Pub. L. 105–276, § 555(a)(3)][/us/pl/105/276/s555/a/3], (4), redesignated par. (6) as (5) and struck out heading and text of former par. (5). Text read as follows: “A family may not receive assistance under this subsection during any period when assistance is being provided for the family under other Federal homeownership assistance programs, as determined by the Secretary, including assistance under the HOME Investment Partnerships Act, the Homeownership and Opportunity Through HOPE Act, title II of the Housing and Community Development Act of 1987, and [section 1472 of this title][/us/usc/t42/s1472].”
+    Subsec. (y)(5). [Pub. L. 105–276][/us/pl/105/276], § 555(a)(3), (4), redesignated par. (6) as (5) and struck out heading and text of former par. (5). Text read as follows: “A family may not receive assistance under this subsection during any period when assistance is being provided for the family under other Federal homeownership assistance programs, as determined by the Secretary, including assistance under the HOME Investment Partnerships Act, the Homeownership and Opportunity Through HOPE Act, title II of the Housing and Community Development Act of 1987, and [section 1472 of this title][/us/usc/t42/s1472].”
 
-    Subsec. (y)(6) to (8). [Pub. L. 105–276, § 555(a)(4)][/us/pl/105/276/s555/a/4], redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6) redesignated (5).
+    Subsec. (y)(6) to (8). [Pub. L. 105–276][/us/pl/105/276], § 555(a)(4), redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6) redesignated (5).
 
-    Subsec. (z). [Pub. L. 105–276, § 548(1)][/us/pl/105/276/s548/1], made technical amendment relating to placement of subsection.
+    Subsec. (z). [Pub. L. 105–276][/us/pl/105/276], § 548(1), made technical amendment relating to placement of subsection.
 
-    Subsec. (cc). [Pub. L. 105–276, § 548(2)][/us/pl/105/276/s548/2], added subsec. (cc).
+    Subsec. (cc). [Pub. L. 105–276][/us/pl/105/276], § 548(2), added subsec. (cc).
 
-    Subsec. (dd). [Pub. L. 105–276, § 556(a)][/us/pl/105/276/s556/a], added subsec. (dd).
+    Subsec. (dd). [Pub. L. 105–276][/us/pl/105/276], § 556(a), added subsec. (dd).
 
     1997—Subsec. (c)(2)(A). [Pub. L. 105–65][/us/pl/105/65], §§ 201(c), 205, substituted “fiscal years 1997 and 1998” for “fiscal year 1997” in third and sixth sentences and inserted at end “In establishing annual adjustment factors for units in new construction and substantial rehabilitation projects, the Secretary shall take into account the fact that debt service is a fixed expense. The immediately foregoing sentence shall be effective only during fiscal year 1998.”
 
@@ -1261,17 +1261,17 @@
 
     Subsec. (c)(9). [Pub. L. 105–18][/us/pl/105/18], which directed substitution of “Not less than 180 days prior to terminating any contract” for “Not less than one year prior to terminating any contract”, was executed by making the substitution for “Not less than 1 year prior to terminating any contract” to reflect the probable intent of Congress.
 
-    Subsec. (d)(5). [Pub. L. 105–65, § 523(a)][/us/pl/105/65/s523/a], added par. (5).
+    Subsec. (d)(5). [Pub. L. 105–65][/us/pl/105/65], § 523(a), added par. (5).
 
-    Subsec. (bb). [Pub. L. 105–65, § 523(c)][/us/pl/105/65/s523/c], inserted heading, designated existing provisions as par. (1) and former subsec. heading as par. (1) heading, and added par. (2).
+    Subsec. (bb). [Pub. L. 105–65][/us/pl/105/65], § 523(c), inserted heading, designated existing provisions as par. (1) and former subsec. heading as par. (1) heading, and added par. (2).
 
     1996—Subsec. (c)(2)(A). [Pub. L. 104–204][/us/pl/104/204] inserted “, fiscal year 1996 prior to April 26, 1996, and fiscal year 1997” after “fiscal year 1995” in two places, substituted “Except for assistance under the certificate program, for” for “For”, inserted after fourth sentence “In the case of assistance under the certificate program, 0.01 shall be subtracted from the amount of the annual adjustment factor (except that the factor shall not be reduced to less than 1.0), and the adjusted rent shall not exceed the rent for a comparable unassisted unit of similar quality, type, and age in the market area.”, and substituted “The immediately foregoing two sentences” for “The immediately foregoing sentence”.
 
-    Subsec. (c)(8). [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 203(b)(1), (d)\], temporarily inserted “(other than a contract for assistance under the certificate or voucher program)” after “section”. See Effective and Termination Dates of 1996 Amendments note below.
+    Subsec. (c)(8). [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 203(b)(1), (d)\], temporarily inserted “(other than a contract for assistance under the certificate or voucher program)” after “section”. See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (c)(9). [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 203(b)(2), (d)\], temporarily substituted “, other than a contract under the certificate or voucher program” for “(but not less than 90 days in the case of housing certificates or vouchers under subsection (b) or (o) of this section)”. See Effective and Termination Dates of 1996 Amendments note below.
+    Subsec. (c)(9). [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 203(b)(2), (d)\], temporarily substituted “, other than a contract under the certificate or voucher program” for “(but not less than 90 days in the case of housing certificates or vouchers under subsection (b) or (o) of this section)”. See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (d)(1)(A). [Pub. L. 104–99, § 402(d)(2)][/us/pl/104/99/s402/d/2], (f), temporarily amended subpar. (A) generally, substituting “the selection of tenants shall be the function of the owner, subject to the provisions of the annual contributions contract between the Secretary and the agency, except that for the certificate and moderate rehabilitation programs only, for the purpose of selecting families to be assisted, the public housing agency may establish, after public notice and an opportunity for public comment, a written system of preferences for selection that is not inconsistent with the comprehensive housing affordability strategy under title I of the Cranston-Gonzalez National Affordable Housing Act;” for “the selection of tenants for such units shall be the function of the owner, subject to the provisions of the annual contributions contract between the Secretary and the agency, except that the tenant selection criteria used by the owner shall—
+    Subsec. (d)(1)(A). [Pub. L. 104–99][/us/pl/104/99], § 402(d)(2), (f), temporarily amended subpar. (A) generally, substituting “the selection of tenants shall be the function of the owner, subject to the provisions of the annual contributions contract between the Secretary and the agency, except that for the certificate and moderate rehabilitation programs only, for the purpose of selecting families to be assisted, the public housing agency may establish, after public notice and an opportunity for public comment, a written system of preferences for selection that is not inconsistent with the comprehensive housing affordability strategy under title I of the Cranston-Gonzalez National Affordable Housing Act;” for “the selection of tenants for such units shall be the function of the owner, subject to the provisions of the annual contributions contract between the Secretary and the agency, except that the tenant selection criteria used by the owner shall—
 
     “(i) for not less than (I) 70 percent of the families who initially receive assistance in any 1-year period in the case of assistance attached to a structure and (II) 90 percent of such families in the case of assistance not attached to a structure, give preference to families that occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are paying more than 50 percent of family income for rent, or are involuntarily displaced (including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11]) at the time they are seeking assistance under this section; except that any family otherwise eligible for assistance under this section may not be denied preference for assistance not attached to a structure (or delayed or otherwise adversely affected in the provision of such assistance) solely because the family resides in public housing;
 
@@ -1281,17 +1281,17 @@
 
     See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (d)(1)(B)(ii), (iii). [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 203(c), (d)\], in cl. (ii) temporarily inserted “during the term of the lease,” after “(ii)” and in cl. (iii) temporarily substituted “during the term of the lease,” for “provide that”. See Effective and Termination Dates of 1996 Amendments note below.
+    Subsec. (d)(1)(B)(ii), (iii). [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 203(c), (d)\], in cl. (ii) temporarily inserted “during the term of the lease,” after “(ii)” and in cl. (iii) temporarily substituted “during the term of the lease,” for “provide that”. See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (d)(1)(B)(v). [Pub. L. 104–193, § 903(a)(2)][/us/pl/104/193/s903/a/2], added cl. (v).
+    Subsec. (d)(1)(B)(v). [Pub. L. 104–193][/us/pl/104/193], § 903(a)(2), added cl. (v).
 
-    Subsec. (d)(2)(A). [Pub. L. 104–99, § 402(d)(6)(A)(iii)][/us/pl/104/99/s402/d/6/A/iii], (f), temporarily struck out at end “Any assistance provided to lower income tenants under the preceding sentence shall not be considered for purposes of the limitation under paragraph (1)(A) regarding the percentage of families that may receive assistance under this section who do not qualify for preferences under such paragraph.” See Effective and Termination Dates of 1996 Amendments note below.
+    Subsec. (d)(2)(A). [Pub. L. 104–99][/us/pl/104/99], § 402(d)(6)(A)(iii), (f), temporarily struck out at end “Any assistance provided to lower income tenants under the preceding sentence shall not be considered for purposes of the limitation under paragraph (1)(A) regarding the percentage of families that may receive assistance under this section who do not qualify for preferences under such paragraph.” See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (d)(2)(H). [Pub. L. 104–99, § 402(d)(6)(A)(iv)][/us/pl/104/99/s402/d/6/A/iv], (f), temporarily substituted “An owner” for “Notwithstanding subsection (d)(1)(A)(i) of this section, an owner”. See Effective and Termination Dates of 1996 Amendments note below.
+    Subsec. (d)(2)(H). [Pub. L. 104–99][/us/pl/104/99], § 402(d)(6)(A)(iv), (f), temporarily substituted “An owner” for “Notwithstanding subsection (d)(1)(A)(i) of this section, an owner”. See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (o)(3)(B). [Pub. L. 104–99, § 402(d)(3)][/us/pl/104/99/s402/d/3], (f), temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In selecting families to be assisted, preference shall be given to families which, at the time they are seeking assistance, occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are involuntarily displaced (including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11]), or are paying more than 50 per centum of family income for rent. A public housing agency may provide for circumstances in which families who do not qualify for any preference established in the preceding sentence are provided assistance under this subsection before families who do qualify for such preference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this sentence) may be families who do not qualify for such preference. The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (v) assisting veterans who are eligible and have applied for assistance, will use the assistance for a dwelling unit designed for the handicapped, and, upon discharge or eligibility for discharge from a hospital or nursing home, have physical disability which, because of the configuration of their homes, prevents them from access to or use of their homes; and (vi) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity (as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).” See Effective and Termination Dates of 1996 Amendments note below.
+    Subsec. (o)(3)(B). [Pub. L. 104–99][/us/pl/104/99], § 402(d)(3), (f), temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In selecting families to be assisted, preference shall be given to families which, at the time they are seeking assistance, occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are involuntarily displaced (including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11]), or are paying more than 50 per centum of family income for rent. A public housing agency may provide for circumstances in which families who do not qualify for any preference established in the preceding sentence are provided assistance under this subsection before families who do qualify for such preference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this sentence) may be families who do not qualify for such preference. The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (v) assisting veterans who are eligible and have applied for assistance, will use the assistance for a dwelling unit designed for the handicapped, and, upon discharge or eligibility for discharge from a hospital or nursing home, have physical disability which, because of the configuration of their homes, prevents them from access to or use of their homes; and (vi) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity (as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).” See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (t). [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 203(a), (d)\], temporarily repealed subsec. (t) which read as follows:
+    Subsec. (t). [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 203(a), (d)\], temporarily repealed subsec. (t) which read as follows:
 
     “(1) No owner who has entered into a contract for housing assistance payments under this section on behalf of any tenant in a multifamily housing project shall refuse—
 
@@ -1301,7 +1301,7 @@
 
     “(2) For purposes of this subsection, the term ‘multifamily housing project’ means a residential building containing more than 4 dwelling units.” See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (v). [Pub. L. 104–99, § 405(c)][/us/pl/104/99/s405/c], amended subsec. (v) generally. Prior to amendment, subsec. (v) read as follows:
+    Subsec. (v). [Pub. L. 104–99][/us/pl/104/99], § 405(c), amended subsec. (v) generally. Prior to amendment, subsec. (v) read as follows:
 
     “(1) The Secretary shall extend any expiring contract entered into under this section for loan management assistance or execute a new contract for project-based loan management assistance, if the owner agrees to continue providing housing for low-income families during the term of the contract.
 
@@ -1309,19 +1309,19 @@
 
     “(B) In allocating loan management assistance under this section, the Secretary may give a priority to any project only on the basis that the project has serious financial problems that are likely to result in a claim on the insurance fund in the near future or the project is eligible to receive incentives under subtitle B of the Low-Income Housing Preservation and Resident Homeownership Act of 1990.”
 
-    Subsec. (bb). [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(e)\] \[title II, § 208\], added subsec. (bb).
+    Subsec. (bb). [Pub. L. 104–134][/us/pl/104/134], § 101\[(e)\] \[title II, § 208\], added subsec. (bb).
 
     1995—Subsec. (z). [Pub. L. 104–19][/us/pl/104/19] added subsec. (z).
 
     1994—Subsec. (c)(2)(A). [Pub. L. 103–327][/us/pl/103/327] inserted at end: “However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995. For any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. The immediately foregoing sentence shall be effective only during fiscal year 1995.”
 
-    Subsec. (d)(1)(A)(i). [Pub. L. 103–233, § 101(c)(2)][/us/pl/103/233/s101/c/2], inserted “(including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11])” after “displaced”.
+    Subsec. (d)(1)(A)(i). [Pub. L. 103–233][/us/pl/103/233], § 101(c)(2), inserted “(including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11])” after “displaced”.
 
     Subsec. (d)(1)(A)(ii). [Pub. L. 103–327][/us/pl/103/327] which directed the amendment of cl. (ii) by striking “and (V)” and inserting in lieu thereof “(V) assisting families that include one or more adult members who are employed; and (VI)”, and inserting after the final semicolon “subclause (V) shall be effective only during fiscal year 1995;”, was not executed because the words “and (V)” did not appear and cl. (ii) already contains subcls. (V) and (VI). See 1992 Amendment note below.
 
-    Subsec. (f)(1). [Pub. L. 103–233, § 101(d)][/us/pl/103/233/s101/d], inserted “an agency of the Federal Government,” after “cooperative,”.
+    Subsec. (f)(1). [Pub. L. 103–233][/us/pl/103/233], § 101(d), inserted “an agency of the Federal Government,” after “cooperative,”.
 
-    Subsec. (o)(3)(B). [Pub. L. 103–233, § 101(c)(3)][/us/pl/103/233/s101/c/3], inserted “(including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11])” after “displaced”.
+    Subsec. (o)(3)(B). [Pub. L. 103–233][/us/pl/103/233], § 101(c)(3), inserted “(including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11])” after “displaced”.
 
     Subsec. (aa). [Pub. L. 103–327][/us/pl/103/327] temporarily added subsec. (aa), “Refinancing incentive”, which read as follows:
 
@@ -1341,267 +1341,267 @@
 
     See Effective and Termination Dates of 1994 Amendment note below.
 
-    1992—Subsec. (c)(2)(B). [Pub. L. 102–550, § 1012(g)][/us/pl/102/550/s1012/g], inserted at end “The Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments), on a project by project basis for projects receiving project-based assistance, provide adjustments to the maximum monthly rents to cover the costs of evaluating and reducing lead-based paint hazards, as defined in [section 4851b of this title][/us/usc/t42/s4851b].”
+    1992—Subsec. (c)(2)(B). [Pub. L. 102–550][/us/pl/102/550], § 1012(g), inserted at end “The Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments), on a project by project basis for projects receiving project-based assistance, provide adjustments to the maximum monthly rents to cover the costs of evaluating and reducing lead-based paint hazards, as defined in [section 4851b of this title][/us/usc/t42/s4851b].”
 
-    [Pub. L. 102–550, § 142][/us/pl/102/550/s142], inserted after first sentence “The Secretary shall make additional adjustments in the maximum monthly rent for units under contract (subject to the availability of appropriations for contract amendments) to the extent the Secretary determines such adjustments are necessary to reflect increases in the actual and necessary expenses of owning and maintaining the units that have resulted from the expiration of a real property tax exemption.”
+    [Pub. L. 102–550][/us/pl/102/550], § 142, inserted after first sentence “The Secretary shall make additional adjustments in the maximum monthly rent for units under contract (subject to the availability of appropriations for contract amendments) to the extent the Secretary determines such adjustments are necessary to reflect increases in the actual and necessary expenses of owning and maintaining the units that have resulted from the expiration of a real property tax exemption.”
 
-    Subsec. (c)(4). [Pub. L. 102–550, § 141(a)][/us/pl/102/550/s141/a], inserted “or by a family that qualifies to receive assistance under subsection (b) of this section pursuant to section 223 or 226 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990” after first comma in first sentence.
+    Subsec. (c)(4). [Pub. L. 102–550][/us/pl/102/550], § 141(a), inserted “or by a family that qualifies to receive assistance under subsection (b) of this section pursuant to section 223 or 226 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990” after first comma in first sentence.
 
-    Subsec. (c)(9). [Pub. L. 102–550, § 143][/us/pl/102/550/s143], inserted before period at end “, and such term shall include termination of the contract for business reasons”.
+    Subsec. (c)(9). [Pub. L. 102–550][/us/pl/102/550], § 143, inserted before period at end “, and such term shall include termination of the contract for business reasons”.
 
-    Subsec. (d)(1)(A)(ii)(V), (VI). [Pub. L. 102–550, § 144(a)][/us/pl/102/550/s144/a], added subcl. (V) and redesignated former subcl. (V) as (VI).
+    Subsec. (d)(1)(A)(ii)(V), (VI). [Pub. L. 102–550][/us/pl/102/550], § 144(a), added subcl. (V) and redesignated former subcl. (V) as (VI).
 
-    Subsec. (d)(1)(B)(iii). [Pub. L. 102–550, § 145][/us/pl/102/550/s145], inserted “, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises,” before “or any drug-related” and substituted “tenant of any unit” for “public housing tenant”.
+    Subsec. (d)(1)(B)(iii). [Pub. L. 102–550][/us/pl/102/550], § 145, inserted “, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises,” before “or any drug-related” and substituted “tenant of any unit” for “public housing tenant”.
 
-    Subsec. (d)(2)(F). [Pub. L. 102–550, § 674][/us/pl/102/550/s674], added subpar. (F).
+    Subsec. (d)(2)(F). [Pub. L. 102–550][/us/pl/102/550], § 674, added subpar. (F).
 
-    Subsec. (d)(2)(G), (H). [Pub. L. 102–550, § 682(b)][/us/pl/102/550/s682/b], added subpars. (G) and (H).
+    Subsec. (d)(2)(G), (H). [Pub. L. 102–550][/us/pl/102/550], § 682(b), added subpars. (G) and (H).
 
-    Subsec. (d)(4). [Pub. L. 102–550, § 660][/us/pl/102/550/s660], added par. (4).
+    Subsec. (d)(4). [Pub. L. 102–550][/us/pl/102/550], § 660, added par. (4).
 
-    Subsec. (f)(6), (7). [Pub. L. 102–550, § 146][/us/pl/102/550/s146], added pars. (6) and (7).
+    Subsec. (f)(6), (7). [Pub. L. 102–550][/us/pl/102/550], § 146, added pars. (6) and (7).
 
-    Subsec. (i). [Pub. L. 102–550, § 623(b)][/us/pl/102/550/s623/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–550][/us/pl/102/550], § 623(b), added subsec. (i).
 
-    Subsec. (o)(3)(A). [Pub. L. 102–550, § 141(b)][/us/pl/102/550/s141/b], struck out “or” before “(iv)” and inserted before period at end “, or” and cl. (v).
+    Subsec. (o)(3)(A). [Pub. L. 102–550][/us/pl/102/550], § 141(b), struck out “or” before “(iv)” and inserted before period at end “, or” and cl. (v).
 
-    Subsec. (o)(3)(B)(v), (vi). [Pub. L. 102–550, § 144(b)][/us/pl/102/550/s144/b], in third sentence, added cl. (v) and redesignated former cl. (v) as (vi).
+    Subsec. (o)(3)(B)(v), (vi). [Pub. L. 102–550][/us/pl/102/550], § 144(b), in third sentence, added cl. (v) and redesignated former cl. (v) as (vi).
 
-    Subsec. (q)(3), (4). [Pub. L. 102–550, § 675][/us/pl/102/550/s675], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (q)(3), (4). [Pub. L. 102–550][/us/pl/102/550], § 675, added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (r)(1). [Pub. L. 102–550, § 147][/us/pl/102/550/s147], inserted before period at end “; except that any family not living within the jurisdiction of a public housing agency at the time that such family applies for assistance from such agency shall, during the 12-month period beginning upon the receipt of any tenant-based rental assistance made available on behalf of the family, use such assistance to rent an eligible dwelling unit located within the jurisdiction served by such public housing agency”.
+    Subsec. (r)(1). [Pub. L. 102–550][/us/pl/102/550], § 147, inserted before period at end “; except that any family not living within the jurisdiction of a public housing agency at the time that such family applies for assistance from such agency shall, during the 12-month period beginning upon the receipt of any tenant-based rental assistance made available on behalf of the family, use such assistance to rent an eligible dwelling unit located within the jurisdiction served by such public housing agency”.
 
-    Subsec. (x)(1). [Pub. L. 102–550, § 148][/us/pl/102/550/s148], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The budget authority available under [section 1437c(c) of this title][/us/usc/t42/s1437c/c] for assistance under subsection (b) of this section is authorized to be increased by $35,000,000 on or after October 1, 1990, by $35,000,000 on or after October 1, 1991.”
+    Subsec. (x)(1). [Pub. L. 102–550][/us/pl/102/550], § 148, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The budget authority available under [section 1437c(c) of this title][/us/usc/t42/s1437c/c] for assistance under subsection (b) of this section is authorized to be increased by $35,000,000 on or after October 1, 1990, by $35,000,000 on or after October 1, 1991.”
 
-    Subsec. (y). [Pub. L. 102–550, § 185(a)][/us/pl/102/550/s185/a], added subsec. (y).
+    Subsec. (y). [Pub. L. 102–550][/us/pl/102/550], § 185(a), added subsec. (y).
 
     1991—Subsec. (c)(1). [Pub. L. 102–139][/us/pl/102/139] inserted provisions relating to separate fair market rentals for Monroe County, Pennsylvania.
 
-    1990—Subsec. (a). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], which directed the substitution of “low-income families” for “lower income families”, was executed by making the substitution for “lower-income families” to reflect the probable intent of Congress.
+    1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625], § 572(1), which directed the substitution of “low-income families” for “lower income families”, was executed by making the substitution for “lower-income families” to reflect the probable intent of Congress.
 
-    [Pub. L. 101–625, § 548(b)][/us/pl/101/625/s548/b], inserted at end “A public housing agency may contract to make assistance payments to itself (or any agency or instrumentality thereof) as the owner of dwelling units if such agency is subject to the same program requirements as are applied to other owners. In such cases, the Secretary may establish initial rents within applicable limits.”
+    [Pub. L. 101–625][/us/pl/101/625], § 548(b), inserted at end “A public housing agency may contract to make assistance payments to itself (or any agency or instrumentality thereof) as the owner of dwelling units if such agency is subject to the same program requirements as are applied to other owners. In such cases, the Secretary may establish initial rents within applicable limits.”
 
-    Subsec. (b). [Pub. L. 101–625, § 541(a)][/us/pl/101/625/s541/a], inserted heading and struck out par. (1) designation preceding text.
+    Subsec. (b). [Pub. L. 101–625][/us/pl/101/625], § 541(a), inserted heading and struck out par. (1) designation preceding text.
 
-    Subsec. (b)(2). [Pub. L. 101–625, § 413(b)(1)][/us/pl/101/625/s413/b/1], added par. (2).
+    Subsec. (b)(2). [Pub. L. 101–625][/us/pl/101/625], § 413(b)(1), added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 101–625, § 543(b)][/us/pl/101/625/s543/b], inserted “(A)” after second reference to “fair market rental” and substituted “a housing strategy as defined in [section 12705 of this title][/us/usc/t42/s12705], or (B) by such higher amount as may be requested by a tenant and approved by the public housing agency in accordance with paragraph (3)(B).” for “a local housing assistance plan as defined in [section 1439(a)(5) of this title][/us/usc/t42/s1439/a/5].”
+    Subsec. (c)(1). [Pub. L. 101–625][/us/pl/101/625], § 543(b), inserted “(A)” after second reference to “fair market rental” and substituted “a housing strategy as defined in [section 12705 of this title][/us/usc/t42/s12705], or (B) by such higher amount as may be requested by a tenant and approved by the public housing agency in accordance with paragraph (3)(B).” for “a local housing assistance plan as defined in [section 1439(a)(5) of this title][/us/usc/t42/s1439/a/5].”
 
-    Subsec. (c)(2)(B). [Pub. L. 101–625, § 542][/us/pl/101/625/s542], inserted at end “Where the Secretary determines that a project assisted under this section is located in a community where drug-related criminal activity is generally prevalent and the project’s operating, maintenance, and capital repair expenses have been substantially increased primarily as a result of the prevalence of such drug-related activity, the Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments for this purpose), on a project by project basis, provide adjustments to the maximum monthly rents, to a level no greater than 120 percent of the project rents, to cover the costs of maintenance, security, capital repairs, and reserves required for the owner to carry out a strategy acceptable to the Secretary for addressing the problem of drug-related criminal activity. Any rent comparability standard required under this paragraph may be waived by the Secretary to so implement the preceding sentence.”
+    Subsec. (c)(2)(B). [Pub. L. 101–625][/us/pl/101/625], § 542, inserted at end “Where the Secretary determines that a project assisted under this section is located in a community where drug-related criminal activity is generally prevalent and the project’s operating, maintenance, and capital repair expenses have been substantially increased primarily as a result of the prevalence of such drug-related activity, the Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments for this purpose), on a project by project basis, provide adjustments to the maximum monthly rents, to a level no greater than 120 percent of the project rents, to cover the costs of maintenance, security, capital repairs, and reserves required for the owner to carry out a strategy acceptable to the Secretary for addressing the problem of drug-related criminal activity. Any rent comparability standard required under this paragraph may be waived by the Secretary to so implement the preceding sentence.”
 
-    Subsec. (c)(3). [Pub. L. 101–625, § 543(a)][/us/pl/101/625/s543/a], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (c)(3). [Pub. L. 101–625][/us/pl/101/625], § 543(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (c)(9). [Pub. L. 101–625, § 544][/us/pl/101/625/s544], inserted after first sentence “The owner’s notice shall include a statement that the owner and the Secretary may agree to a renewal of the contract, thus avoiding the termination.” and inserted at end “Within 30 days of the Secretary’s finding, the owner shall provide written notice to each tenant of the Secretary’s decision.”
+    Subsec. (c)(9). [Pub. L. 101–625][/us/pl/101/625], § 544, inserted after first sentence “The owner’s notice shall include a statement that the owner and the Secretary may agree to a renewal of the contract, thus avoiding the termination.” and inserted at end “Within 30 days of the Secretary’s finding, the owner shall provide written notice to each tenant of the Secretary’s decision.”
 
-    Subsec. (c)(10). [Pub. L. 101–625, § 572(2)][/us/pl/101/625/s572/2], substituted “low-income housing” for “lower income housing”.
+    Subsec. (c)(10). [Pub. L. 101–625][/us/pl/101/625], § 572(2), substituted “low-income housing” for “lower income housing”.
 
-    Subsec. (d)(1)(A). [Pub. L. 101–625, § 545(a)][/us/pl/101/625/s545/a], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the selection of tenants for such unit shall be the function of the owner, subject to the provisions of the annual contributions contract between the Secretary and the agency, except that (i) the tenant selection criteria used by the owner shall give preference to families which occupy substandard housing, are paying more than 50 per centum of family income for rent, or are involuntarily displaced at the time they are seeking assistance under this section; and (ii) the public housing agency may provide for circumstances in which families who do not qualify for any preference established in clause (i) are provided assistance before families who do qualify for such preference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this clause) may be families who do not qualify for such preference;”.
+    Subsec. (d)(1)(A). [Pub. L. 101–625][/us/pl/101/625], § 545(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the selection of tenants for such unit shall be the function of the owner, subject to the provisions of the annual contributions contract between the Secretary and the agency, except that (i) the tenant selection criteria used by the owner shall give preference to families which occupy substandard housing, are paying more than 50 per centum of family income for rent, or are involuntarily displaced at the time they are seeking assistance under this section; and (ii) the public housing agency may provide for circumstances in which families who do not qualify for any preference established in clause (i) are provided assistance before families who do qualify for such preference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this clause) may be families who do not qualify for such preference;”.
 
-    Subsec. (d)(1)(B)(iii), (iv). [Pub. L. 101–625, § 546][/us/pl/101/625/s546], added cls. (iii) and (iv).
+    Subsec. (d)(1)(B)(iii), (iv). [Pub. L. 101–625][/us/pl/101/625], § 546, added cls. (iii) and (iv).
 
-    Subsec. (d)(2)(A). [Pub. L. 101–625, § 552(b)][/us/pl/101/625/s552/b], inserted after first sentence “The Secretary shall permit public housing agencies to enter into contracts for assistance payments of less than 12 months duration in order to avoid disruption in assistance to eligible families if the annual contributions contract is within 1 year of its expiration date.”
+    Subsec. (d)(2)(A). [Pub. L. 101–625][/us/pl/101/625], § 552(b), inserted after first sentence “The Secretary shall permit public housing agencies to enter into contracts for assistance payments of less than 12 months duration in order to avoid disruption in assistance to eligible families if the annual contributions contract is within 1 year of its expiration date.”
 
-    [Pub. L. 101–625, § 613(a)(1)][/us/pl/101/625/s613/a/1], inserted at end “Notwithstanding any other provision of this section, a public housing agency and an applicable State agency may, on a priority basis, attach to structures not more than an additional 15 percent of the assistance provided by the public housing agency or the applicable State agency only with respect to projects assisted under a State program that permits the owner of the projects to prepay a State assisted or subsidized mortgage on the structure, except that attachment of assistance under this sentence shall be for the purpose of (i) providing incentives to owners to preserve such projects for occupancy by lower and moderate income families (for the period that assistance under this sentence is available), and (ii) to assist lower income tenants to afford any increases in rent that may be required to induce the owner to maintain occupancy in the project by lower and moderate income tenants. Any assistance provided to lower income tenants under the preceding sentence shall not be considered for purposes of the limitation under paragraph (1)(A) regarding the percentage of families that may receive assistance under this section who do not qualify for preferences under such paragraph.”
+    [Pub. L. 101–625][/us/pl/101/625], § 613(a)(1), inserted at end “Notwithstanding any other provision of this section, a public housing agency and an applicable State agency may, on a priority basis, attach to structures not more than an additional 15 percent of the assistance provided by the public housing agency or the applicable State agency only with respect to projects assisted under a State program that permits the owner of the projects to prepay a State assisted or subsidized mortgage on the structure, except that attachment of assistance under this sentence shall be for the purpose of (i) providing incentives to owners to preserve such projects for occupancy by lower and moderate income families (for the period that assistance under this sentence is available), and (ii) to assist lower income tenants to afford any increases in rent that may be required to induce the owner to maintain occupancy in the project by lower and moderate income tenants. Any assistance provided to lower income tenants under the preceding sentence shall not be considered for purposes of the limitation under paragraph (1)(A) regarding the percentage of families that may receive assistance under this section who do not qualify for preferences under such paragraph.”
 
-    Subsec. (d)(2)(C). [Pub. L. 101–625, § 613(a)(2)][/us/pl/101/625/s613/a/2], inserted at end “To the extent assistance is used as provided in the penultimate sentence of subparagraph (A), the contract for assistance may, at the option of the public housing agency, have an initial term not exceeding 15 years.”
+    Subsec. (d)(2)(C). [Pub. L. 101–625][/us/pl/101/625], § 613(a)(2), inserted at end “To the extent assistance is used as provided in the penultimate sentence of subparagraph (A), the contract for assistance may, at the option of the public housing agency, have an initial term not exceeding 15 years.”
 
-    [Pub. L. 101–625, § 547(c)][/us/pl/101/625/s547/c], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Any contract for assistance payments that is attached to a structure under this paragraph shall (at the option of the public housing agency but subject to available funds) be renewable for 2 additional 5-year terms, except that the aggregate term of the initial contract and renewals shall not exceed 15 years.”
+    [Pub. L. 101–625][/us/pl/101/625], § 547(c), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Any contract for assistance payments that is attached to a structure under this paragraph shall (at the option of the public housing agency but subject to available funds) be renewable for 2 additional 5-year terms, except that the aggregate term of the initial contract and renewals shall not exceed 15 years.”
 
-    Subsec. (d)(2)(D), (E). [Pub. L. 101–625, § 547(a)][/us/pl/101/625/s547/a], (b), added subpars. (D) and (E).
+    Subsec. (d)(2)(D), (E). [Pub. L. 101–625][/us/pl/101/625], § 547(a), (b), added subpars. (D) and (E).
 
-    Subsec. (e)(2). [Pub. L. 101–625, § 289(b)][/us/pl/101/625/s289/b], struck out par. (2) which read as follows: “For the purpose of upgrading and thereby preserving the Nation’s housing stock, the Secretary is authorized to make assistance payments under this section directly or through public housing agencies pursuant to contracts with owners or prospective owners who agree to upgrade housing so as to make and keep such housing decent, safe, and sanitary through upgrading which involves less than substantial rehabilitation, as such upgrading and rehabilitation are defined by the Secretary, and which shall involve a minimum expenditure of $3,000 for a unit, including its prorated share of work to be accomplished on common areas or systems. The Secretary is authorized to prescribe such terms and conditions for contracts entered into under this section pursuant to this paragraph as the Secretary determines to be necessary and appropriate, except that such terms and conditions, to the maximum extent feasible, shall be consistent with terms and conditions otherwise applicable with respect to other dwelling units assisted under this section. Notwithstanding subsection (c)(1) of this section, the Secretary may, in carrying out the preceding sentence, establish a maximum monthly rent (for units upgraded pursuant to this paragraph) which exceeds the fair market rental by not more than 20 per centum if such units are located in an area where the Secretary finds cost levels so require, except that the Secretary may approve maximum monthly rents which exceed the fair market rentals by more than 20 but not more than 30 per centum where the Secretary determines that special circumstances warrant such higher rent or where necessary to the implementation of a local housing assistance plan. The Secretary is also authorized to make assistance available under this section pursuant to this paragraph to any unit in a housing project which, on an overall basis, reflects the need for such upgrading. The Secretary shall increase the amount of assistance provided under this paragraph above the amount of assistance otherwise permitted by this paragraph and subsection (c)(1) of this section, if the Secretary determines such increase necessary to assist in the sale of multifamily housing projects owned by the Department of Housing and Urban Development. In order to maximize the availability of low-income housing, in providing assistance under this paragraph, the Secretary shall include in any calculation or determination regarding the amount of the assistance to be made available the extent to which any proceeds are available from any tax credits provided under [section 42 of title 26][/us/usc/t26/s42] (or from any syndication of such credits) with respect to the housing. For each fiscal year, the Secretary may not provide assistance pursuant to this paragraph to any project for rehabilitation of more than 100 units. Assistance pursuant to this paragraph shall be allocated according to the formula established pursuant to [section 1439(d) of this title][/us/usc/t42/s1439/d], and awarded pursuant to a competition under such section. The Secretary shall maintain a single listing of any assistance provided pursuant to this paragraph, which shall include a statement identifying the owner and location of the project to which assistance was made, the amount of the assistance, and the number of units assisted.”
+    Subsec. (e)(2). [Pub. L. 101–625][/us/pl/101/625], § 289(b), struck out par. (2) which read as follows: “For the purpose of upgrading and thereby preserving the Nation’s housing stock, the Secretary is authorized to make assistance payments under this section directly or through public housing agencies pursuant to contracts with owners or prospective owners who agree to upgrade housing so as to make and keep such housing decent, safe, and sanitary through upgrading which involves less than substantial rehabilitation, as such upgrading and rehabilitation are defined by the Secretary, and which shall involve a minimum expenditure of $3,000 for a unit, including its prorated share of work to be accomplished on common areas or systems. The Secretary is authorized to prescribe such terms and conditions for contracts entered into under this section pursuant to this paragraph as the Secretary determines to be necessary and appropriate, except that such terms and conditions, to the maximum extent feasible, shall be consistent with terms and conditions otherwise applicable with respect to other dwelling units assisted under this section. Notwithstanding subsection (c)(1) of this section, the Secretary may, in carrying out the preceding sentence, establish a maximum monthly rent (for units upgraded pursuant to this paragraph) which exceeds the fair market rental by not more than 20 per centum if such units are located in an area where the Secretary finds cost levels so require, except that the Secretary may approve maximum monthly rents which exceed the fair market rentals by more than 20 but not more than 30 per centum where the Secretary determines that special circumstances warrant such higher rent or where necessary to the implementation of a local housing assistance plan. The Secretary is also authorized to make assistance available under this section pursuant to this paragraph to any unit in a housing project which, on an overall basis, reflects the need for such upgrading. The Secretary shall increase the amount of assistance provided under this paragraph above the amount of assistance otherwise permitted by this paragraph and subsection (c)(1) of this section, if the Secretary determines such increase necessary to assist in the sale of multifamily housing projects owned by the Department of Housing and Urban Development. In order to maximize the availability of low-income housing, in providing assistance under this paragraph, the Secretary shall include in any calculation or determination regarding the amount of the assistance to be made available the extent to which any proceeds are available from any tax credits provided under [section 42 of title 26][/us/usc/t26/s42] (or from any syndication of such credits) with respect to the housing. For each fiscal year, the Secretary may not provide assistance pursuant to this paragraph to any project for rehabilitation of more than 100 units. Assistance pursuant to this paragraph shall be allocated according to the formula established pursuant to [section 1439(d) of this title][/us/usc/t42/s1439/d], and awarded pursuant to a competition under such section. The Secretary shall maintain a single listing of any assistance provided pursuant to this paragraph, which shall include a statement identifying the owner and location of the project to which assistance was made, the amount of the assistance, and the number of units assisted.”
 
-    Subsec. (f)(1). [Pub. L. 101–625, § 548(a)][/us/pl/101/625/s548/a], substituted “dwelling units” for “newly constructed or substantially rehabilitated dwelling units as described in this section”.
+    Subsec. (f)(1). [Pub. L. 101–625][/us/pl/101/625], § 548(a), substituted “dwelling units” for “newly constructed or substantially rehabilitated dwelling units as described in this section”.
 
-    Subsec. (f)(4), (5). [Pub. L. 101–625, § 549][/us/pl/101/625/s549], added pars. (4) and (5).
+    Subsec. (f)(4), (5). [Pub. L. 101–625][/us/pl/101/625], § 549, added pars. (4) and (5).
 
-    Subsec. (j)(1). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families” in introductory provisions.
+    Subsec. (j)(1). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families” in introductory provisions.
 
-    Subsec. (o). [Pub. L. 101–625, § 541(b)][/us/pl/101/625/s541/b], inserted heading.
+    Subsec. (o). [Pub. L. 101–625][/us/pl/101/625], § 541(b), inserted heading.
 
-    Subsec. (o)(3). [Pub. L. 101–625, § 545(2)][/us/pl/101/625/s545/2]\[(b)\], inserted “(A)” after “(3)”, redesignated former cls. (A) to (D) as cls. (i) to (iv), respectively, inserted “(B)” before “In selecting families”, “(including families that are homeless or living in a shelter for homeless families)” after “substandard housing”, and inserted at end “The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; and (v) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity (as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).”
+    Subsec. (o)(3). [Pub. L. 101–625][/us/pl/101/625], § 545(2)\[(b)\], inserted “(A)” after “(3)”, redesignated former cls. (A) to (D) as cls. (i) to (iv), respectively, inserted “(B)” before “In selecting families”, “(including families that are homeless or living in a shelter for homeless families)” after “substandard housing”, and inserted at end “The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; and (v) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity (as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).”
 
-    [Pub. L. 101–625, § 413(a)][/us/pl/101/625/s413/a], added cl. (D).
+    [Pub. L. 101–625][/us/pl/101/625], § 413(a), added cl. (D).
 
-    Subsec. (o)(7). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families”.
+    Subsec. (o)(7). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families”.
 
-    Subsec. (o)(9). [Pub. L. 101–625, § 413(b)(2)][/us/pl/101/625/s413/b/2], added par. (9).
+    Subsec. (o)(9). [Pub. L. 101–625][/us/pl/101/625], § 413(b)(2), added par. (9).
 
-    Subsec. (o)(10), (11). [Pub. L. 101–625, § 550(a)][/us/pl/101/625/s550/a], (c), added pars. (10) and (11).
+    Subsec. (o)(10), (11). [Pub. L. 101–625][/us/pl/101/625], § 550(a), (c), added pars. (10) and (11).
 
-    Subsec. (r)(1). [Pub. L. 101–625, § 551][/us/pl/101/625/s551], substituted “the same State, or the same or a contiguous” for “the same, or a contiguous,”.
+    Subsec. (r)(1). [Pub. L. 101–625][/us/pl/101/625], § 551, substituted “the same State, or the same or a contiguous” for “the same, or a contiguous,”.
 
-    Subsec. (u). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families” in introductory provisions.
+    Subsec. (u). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families” in introductory provisions.
 
-    Subsec. (v)(1). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families”.
+    Subsec. (v)(1). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families”.
 
-    Subsec. (v)(2)(B). [Pub. L. 101–625, § 603][/us/pl/101/625/s603], which directed the substitution of “Low-Income Housing Preservation and Resident Homeownership Act of 1990” for “Emergency Low Income Housing Preservation Act of 1987” in section “89(v)(2) of the United States Housing Act of 1937”, was executed to subsec. (v)(2)(B) of this section (section 8 of the United States Housing Act of 1937) to reflect the probable intent of Congress.
+    Subsec. (v)(2)(B). [Pub. L. 101–625][/us/pl/101/625], § 603, which directed the substitution of “Low-Income Housing Preservation and Resident Homeownership Act of 1990” for “Emergency Low Income Housing Preservation Act of 1987” in section “89(v)(2) of the United States Housing Act of 1937”, was executed to subsec. (v)(2)(B) of this section (section 8 of the United States Housing Act of 1937) to reflect the probable intent of Congress.
 
     Subsecs. (w), (x). [Pub. L. 101–625][/us/pl/101/625], §§ 552(a), 553, added subsecs. (w) and (x).
 
-    1989—Subsec. (c)(2)(C). [Pub. L. 101–235, § 702(g)][/us/pl/101/235/s702/g], substituted “quality, type, and age” for “quality and age”.
+    1989—Subsec. (c)(2)(C). [Pub. L. 101–235][/us/pl/101/235], § 702(g), substituted “quality, type, and age” for “quality and age”.
 
-    [Pub. L. 101–235, § 702(c)][/us/pl/101/235/s702/c], inserted after first sentence “In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing, to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units.”
+    [Pub. L. 101–235][/us/pl/101/235], § 702(c), inserted after first sentence “In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing, to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units.”
 
-    Subsec. (e)(2). [Pub. L. 101–235, § 127(1)][/us/pl/101/235/s127/1], inserted before period at end of first sentence “, and which shall involve a minimum expenditure of $3,000 for a unit, including its prorated share of work to be accomplished on common areas or systems”.
+    Subsec. (e)(2). [Pub. L. 101–235][/us/pl/101/235], § 127(1), inserted before period at end of first sentence “, and which shall involve a minimum expenditure of $3,000 for a unit, including its prorated share of work to be accomplished on common areas or systems”.
 
-    [Pub. L. 101–235, § 127(2)][/us/pl/101/235/s127/2], (3), inserted at end “In order to maximize the availability of low-income housing, in providing assistance under this paragraph, the Secretary shall include in any calculation or determination regarding the amount of the assistance to be made available the extent to which any proceeds are available from any tax credits provided under [section 42 of title 26][/us/usc/t26/s42] (or from any syndication of such credits) with respect to the housing. For each fiscal year, the Secretary may not provide assistance pursuant to this paragraph to any project for rehabilitation of more than 100 units. Assistance pursuant to this paragraph shall be allocated according to the formula established pursuant to [section 1439(d) of this title][/us/usc/t42/s1439/d], and awarded pursuant to a competition under such section. The Secretary shall maintain a single listing of any assistance provided pursuant to this paragraph, which shall include a statement identifying the owner and location of the project to which assistance was made, the amount of the assistance, and the number of units assisted.”
+    [Pub. L. 101–235][/us/pl/101/235], § 127(2), (3), inserted at end “In order to maximize the availability of low-income housing, in providing assistance under this paragraph, the Secretary shall include in any calculation or determination regarding the amount of the assistance to be made available the extent to which any proceeds are available from any tax credits provided under [section 42 of title 26][/us/usc/t26/s42] (or from any syndication of such credits) with respect to the housing. For each fiscal year, the Secretary may not provide assistance pursuant to this paragraph to any project for rehabilitation of more than 100 units. Assistance pursuant to this paragraph shall be allocated according to the formula established pursuant to [section 1439(d) of this title][/us/usc/t42/s1439/d], and awarded pursuant to a competition under such section. The Secretary shall maintain a single listing of any assistance provided pursuant to this paragraph, which shall include a statement identifying the owner and location of the project to which assistance was made, the amount of the assistance, and the number of units assisted.”
 
-    1988—Subsec. (b)(1). [Pub. L. 100–242, § 141][/us/pl/100/242/s141], inserted provisions at end authorizing Secretary to enter into separate contributions contracts with each public housing agency to obligate authority approved each year, beginning with fiscal year 1988.
+    1988—Subsec. (b)(1). [Pub. L. 100–242][/us/pl/100/242], § 141, inserted provisions at end authorizing Secretary to enter into separate contributions contracts with each public housing agency to obligate authority approved each year, beginning with fiscal year 1988.
 
-    Subsec. (c)(1). [Pub. L. 100–242, § 142(a)][/us/pl/100/242/s142/a], inserted before last sentence “Each fair market rental in effect under this subsection shall be adjusted to be effective on October 1 of each year to reflect changes, based on the most recent available data trended so the rentals will be current for the year to which they apply, of rents for existing or newly constructed rental dwelling units, as the case may be, of various sizes and types in the market area suitable for occupancy by persons assisted under this section.”
+    Subsec. (c)(1). [Pub. L. 100–242][/us/pl/100/242], § 142(a), inserted before last sentence “Each fair market rental in effect under this subsection shall be adjusted to be effective on October 1 of each year to reflect changes, based on the most recent available data trended so the rentals will be current for the year to which they apply, of rents for existing or newly constructed rental dwelling units, as the case may be, of various sizes and types in the market area suitable for occupancy by persons assisted under this section.”
 
-    [Pub. L. 100–242, § 142(b)][/us/pl/100/242/s142/b], inserted at end “The Secretary shall establish separate fair market rentals under this paragraph for Westchester County in the State of New York.”
+    [Pub. L. 100–242][/us/pl/100/242], § 142(b), inserted at end “The Secretary shall establish separate fair market rentals under this paragraph for Westchester County in the State of New York.”
 
-    [Pub. L. 100–242, § 142(c)(1)][/us/pl/100/242/s142/c/1], inserted at end “If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, the maximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.”
+    [Pub. L. 100–242][/us/pl/100/242], § 142(c)(1), inserted at end “If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, the maximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.”
 
-    Subsec. (c)(2)(C). [Pub. L. 100–628, § 1004(a)(1)][/us/pl/100/628/s1004/a/1], substituted “under subparagraphs (A) and (B)” for “as hereinbefore provided”.
+    Subsec. (c)(2)(C). [Pub. L. 100–628][/us/pl/100/628], § 1004(a)(1), substituted “under subparagraphs (A) and (B)” for “as hereinbefore provided”.
 
-    [Pub. L. 100–628, § 1004(a)(2)][/us/pl/100/628/s1004/a/2], inserted at end “Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent in effect on April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.”
+    [Pub. L. 100–628][/us/pl/100/628], § 1004(a)(2), inserted at end “Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent in effect on April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.”
 
-    [Pub. L. 100–242, § 142(c)(2)][/us/pl/100/242/s142/c/2], substituted “assisted units and unassisted units of similar quality and age in the same market area” for “assisted and comparable unassisted units” and inserted at end “If the Secretary or appropriate State agency does not complete and submit to the project owner a comparability study not later than 60 days before the anniversary date of the assistance contract under this section, the automatic annual adjustment factor shall be applied.”
+    [Pub. L. 100–242][/us/pl/100/242], § 142(c)(2), substituted “assisted units and unassisted units of similar quality and age in the same market area” for “assisted and comparable unassisted units” and inserted at end “If the Secretary or appropriate State agency does not complete and submit to the project owner a comparability study not later than 60 days before the anniversary date of the assistance contract under this section, the automatic annual adjustment factor shall be applied.”
 
-    [Pub. L. 100–242, § 142(d)][/us/pl/100/242/s142/d], inserted at end “The Secretary may not reduce the contract rents in effect on or after April 15, 1987, for newly constructed, substantially rehabilitated, or moderately rehabilitated projects assisted under this section (including projects assisted under this section as in effect prior to November 30, 1983), unless the project has been refinanced in a manner that reduces the periodic payments of the owner.”
+    [Pub. L. 100–242][/us/pl/100/242], § 142(d), inserted at end “The Secretary may not reduce the contract rents in effect on or after April 15, 1987, for newly constructed, substantially rehabilitated, or moderately rehabilitated projects assisted under this section (including projects assisted under this section as in effect prior to November 30, 1983), unless the project has been refinanced in a manner that reduces the periodic payments of the owner.”
 
-    Subsec. (c)(2)(D). [Pub. L. 100–242, § 142(e)][/us/pl/100/242/s142/e], struck out subpar. (D) which read as follows: “Notwithstanding the foregoing, the Secretary shall limit increases in contract rents for newly constructed or substantially rehabilitated projects assisted under this section to the amount of operating cost increases incurred with respect to comparable rental dwelling units of various sizes and types in the same market area which are suitable for occupancy by families assisted under this section. Where no comparable dwelling units exist in the same market area, the Secretary shall have authority to approve such increases in accordance with the best available data regarding operating cost increases in rental dwelling units.”
+    Subsec. (c)(2)(D). [Pub. L. 100–242][/us/pl/100/242], § 142(e), struck out subpar. (D) which read as follows: “Notwithstanding the foregoing, the Secretary shall limit increases in contract rents for newly constructed or substantially rehabilitated projects assisted under this section to the amount of operating cost increases incurred with respect to comparable rental dwelling units of various sizes and types in the same market area which are suitable for occupancy by families assisted under this section. Where no comparable dwelling units exist in the same market area, the Secretary shall have authority to approve such increases in accordance with the best available data regarding operating cost increases in rental dwelling units.”
 
-    Subsec. (c)(9), (10). [Pub. L. 100–242, § 262(a)][/us/pl/100/242/s262/a], (b), added pars. (9) and (10).
+    Subsec. (c)(9), (10). [Pub. L. 100–242][/us/pl/100/242], § 262(a), (b), added pars. (9) and (10).
 
-    Subsec. (d)(1)(A). [Pub. L. 100–628, § 1014(b)][/us/pl/100/628/s1014/b], inserted cl. (i) designation after “except that” and added cl. (ii) before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 100–628][/us/pl/100/628], § 1014(b), inserted cl. (i) designation after “except that” and added cl. (ii) before semicolon at end.
 
-    Subsec. (d)(2). [Pub. L. 100–628, § 1005(b)(1)][/us/pl/100/628/s1005/b/1], designated existing provisions as subpar. (A), substituted “(i)” and “(ii)” for “(A)” and “(B)” wherever appearing, and added subpar. (B).
+    Subsec. (d)(2). [Pub. L. 100–628][/us/pl/100/628], § 1005(b)(1), designated existing provisions as subpar. (A), substituted “(i)” and “(ii)” for “(A)” and “(B)” wherever appearing, and added subpar. (B).
 
-    [Pub. L. 100–628, § 1005(c)][/us/pl/100/628/s1005/c], added subpar. (C).
+    [Pub. L. 100–628][/us/pl/100/628], § 1005(c), added subpar. (C).
 
-    [Pub. L. 100–242, § 148][/us/pl/100/242/s148], inserted exception authorizing Secretary to permit public housing authority to approve attachment with respect to not more than 15 percent of assistance provided by public housing agency if requirements of cl. (B) are met.
+    [Pub. L. 100–242][/us/pl/100/242], § 148, inserted exception authorizing Secretary to permit public housing authority to approve attachment with respect to not more than 15 percent of assistance provided by public housing agency if requirements of cl. (B) are met.
 
-    Subsec. (o)(1). [Pub. L. 100–242, § 143(a)(1)][/us/pl/100/242/s143/a/1], substituted “The Secretary may provide assistance” for “In connection with the rental rehabilitation and development program under section 1437o of this title or the rural housing preservation grant program under [section 1490m of this title][/us/usc/t42/s1490m], or for other purposes, the Secretary is authorized to conduct a demonstration program”.
+    Subsec. (o)(1). [Pub. L. 100–242][/us/pl/100/242], § 143(a)(1), substituted “The Secretary may provide assistance” for “In connection with the rental rehabilitation and development program under section 1437o of this title or the rural housing preservation grant program under [section 1490m of this title][/us/usc/t42/s1490m], or for other purposes, the Secretary is authorized to conduct a demonstration program”.
 
-    Subsec. (o)(3). [Pub. L. 100–628, § 1014(c)][/us/pl/100/628/s1014/c], inserted sentence at end authorizing public housing agencies to provide for circumstances in which families who do not qualify for any preference are provided assistance under this subsection before families who do qualify for such preference.
+    Subsec. (o)(3). [Pub. L. 100–628][/us/pl/100/628], § 1014(c), inserted sentence at end authorizing public housing agencies to provide for circumstances in which families who do not qualify for any preference are provided assistance under this subsection before families who do qualify for such preference.
 
-    Subsec. (o)(4). [Pub. L. 100–242, § 143(a)(2)][/us/pl/100/242/s143/a/2], (3), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The Secretary shall use substantially all of the authority to enter into contracts under this subsection to make assistance payments for families residing in dwellings to be rehabilitated with assistance under section 1437o of this title and for families displaced as a result of rental housing development assisted under such section or as a result of activities assisted under [section 1490m of this title][/us/usc/t42/s1490m].”
+    Subsec. (o)(4). [Pub. L. 100–242][/us/pl/100/242], § 143(a)(2), (3), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The Secretary shall use substantially all of the authority to enter into contracts under this subsection to make assistance payments for families residing in dwellings to be rehabilitated with assistance under section 1437o of this title and for families displaced as a result of rental housing development assisted under such section or as a result of activities assisted under [section 1490m of this title][/us/usc/t42/s1490m].”
 
-    Subsec. (o)(5). [Pub. L. 100–242, § 143(a)(3)][/us/pl/100/242/s143/a/3], redesignated par. (6) as (5). Former par. (5) redesignated (4).
+    Subsec. (o)(5). [Pub. L. 100–242][/us/pl/100/242], § 143(a)(3), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-    Subsec. (o)(6). [Pub. L. 100–242, § 143(a)(3)][/us/pl/100/242/s143/a/3], (b), redesignated par. (7) as (6), substituted “annually” for “as frequently as twice during any five-year period” in subpar. (A), and struck out subpar. (D) which directed that public housing agency consult with public and units of local government regarding impact of adjustments made under this section on the number of families that can be assisted. Former par. (6) redesignated (5).
+    Subsec. (o)(6). [Pub. L. 100–242][/us/pl/100/242], § 143(a)(3), (b), redesignated par. (7) as (6), substituted “annually” for “as frequently as twice during any five-year period” in subpar. (A), and struck out subpar. (D) which directed that public housing agency consult with public and units of local government regarding impact of adjustments made under this section on the number of families that can be assisted. Former par. (6) redesignated (5).
 
-    Subsec. (o)(7). [Pub. L. 100–242, § 143(a)(3)][/us/pl/100/242/s143/a/3], (c), redesignated par. (8) as (7), and struck out “not to exceed 5 per centum of the amount of” after “utilize”. Former par. (7) redesignated (6).
+    Subsec. (o)(7). [Pub. L. 100–242][/us/pl/100/242], § 143(a)(3), (c), redesignated par. (8) as (7), and struck out “not to exceed 5 per centum of the amount of” after “utilize”. Former par. (7) redesignated (6).
 
-    Subsec. (o)(8). [Pub. L. 100–242, § 143(a)(3)][/us/pl/100/242/s143/a/3], (d), added par. (8). Former par. (8) redesignated (7).
+    Subsec. (o)(8). [Pub. L. 100–242][/us/pl/100/242], § 143(a)(3), (d), added par. (8). Former par. (8) redesignated (7).
 
     Subsecs. (q) to (u). [Pub. L. 100–242][/us/pl/100/242], §§ 144–149, added subsecs. (q) to (u).
 
-    Subsec. (u)(3). [Pub. L. 100–628, § 1006][/us/pl/100/628/s1006], added par. (3).
+    Subsec. (u)(3). [Pub. L. 100–628][/us/pl/100/628], § 1006, added par. (3).
 
-    Subsec. (v). [Pub. L. 100–628, § 1029][/us/pl/100/628/s1029], redesignated par. (2) as (1) and inserted “for project-based loan management assistance”, added par. (2), and struck out former par. (1) which required that each contract entered into by Secretary for loan management assistance be for a term of 180 months.
+    Subsec. (v). [Pub. L. 100–628][/us/pl/100/628], § 1029, redesignated par. (2) as (1) and inserted “for project-based loan management assistance”, added par. (2), and struck out former par. (1) which required that each contract entered into by Secretary for loan management assistance be for a term of 180 months.
 
-    [Pub. L. 100–242, § 262(c)][/us/pl/100/242/s262/c], added subsec. (v).
+    [Pub. L. 100–242][/us/pl/100/242], § 262(c), added subsec. (v).
 
-    1984—Subsec. (d)(2). [Pub. L. 98–479, § 102(b)(6)][/us/pl/98/479/s102/b/6], substituted “Where the Secretary enters into an annual contributions contract with a public housing agency pursuant to which the agency will enter into a contract for assistance payments with respect to an existing structure, the contract for assistance payments may not be attached to the structure unless (A) the Secretary and the public housing agency approve such action, and (B) the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section.” for “A contract under this section may not be attached to the structure except where the Secretary specifically waives the foregoing limitation and the public housing agency approves such action, and the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section. The aggregate term of such contract and any contract extension may not be more than 180 months.”
+    1984—Subsec. (d)(2). [Pub. L. 98–479][/us/pl/98/479], § 102(b)(6), substituted “Where the Secretary enters into an annual contributions contract with a public housing agency pursuant to which the agency will enter into a contract for assistance payments with respect to an existing structure, the contract for assistance payments may not be attached to the structure unless (A) the Secretary and the public housing agency approve such action, and (B) the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section.” for “A contract under this section may not be attached to the structure except where the Secretary specifically waives the foregoing limitation and the public housing agency approves such action, and the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section. The aggregate term of such contract and any contract extension may not be more than 180 months.”
 
-    Subsec. (e)(2). [Pub. L. 98–479, § 102(b)(7)][/us/pl/98/479/s102/b/7], inserted at end “The Secretary shall increase the amount of assistance provided under this paragraph above the amount of assistance otherwise permitted by this paragraph and subsection (c)(1) of this section, if the Secretary determines such increase necessary to assist in the sale of multifamily housing projects owned by the Department of Housing and Urban Development.”
+    Subsec. (e)(2). [Pub. L. 98–479][/us/pl/98/479], § 102(b)(7), inserted at end “The Secretary shall increase the amount of assistance provided under this paragraph above the amount of assistance otherwise permitted by this paragraph and subsection (c)(1) of this section, if the Secretary determines such increase necessary to assist in the sale of multifamily housing projects owned by the Department of Housing and Urban Development.”
 
-    Subsec. (n). [Pub. L. 98–479, § 102(b)(8)][/us/pl/98/479/s102/b/8], substituted “subsections (b)(1) and (e)(2) of this section” for “subsection (b)(1), subsection (e)(2) of this section”.
+    Subsec. (n). [Pub. L. 98–479][/us/pl/98/479], § 102(b)(8), substituted “subsections (b)(1) and (e)(2) of this section” for “subsection (b)(1), subsection (e)(2) of this section”.
 
-    Subsec. (o)(3)(C). [Pub. L. 98–479, § 102(b)(9)][/us/pl/98/479/s102/b/9], added cl. (C).
+    Subsec. (o)(3)(C). [Pub. L. 98–479][/us/pl/98/479], § 102(b)(9), added cl. (C).
 
-    Subsec. (o)(7)(D). [Pub. L. 98–479, § 102(b)(10)][/us/pl/98/479/s102/b/10], inserted “unit of” before “general”.
+    Subsec. (o)(7)(D). [Pub. L. 98–479][/us/pl/98/479], § 102(b)(10), inserted “unit of” before “general”.
 
-    1983—Subsec. (a). [Pub. L. 98–181, § 209(a)(1)][/us/pl/98/181/s209/a/1], substituted “existing housing” for “existing, newly constructed, and substantially rehabilitated housing”.
+    1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(1), substituted “existing housing” for “existing, newly constructed, and substantially rehabilitated housing”.
 
-    Subsec. (b)(2). [Pub. L. 98–181, § 209(a)(2)][/us/pl/98/181/s209/a/2], repealed par. (2) which related to authorization of assistance payments by the Secretary and contractually obligated public housing agencies for construction or substantial rehabilitation of housing, modest in design, with units for occupancy by low-income families and requirement that contracts providing housing assistance and entered into after Aug. 13, 1981, specify the number of units available for occupancy by eligible families.
+    Subsec. (b)(2). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(2), repealed par. (2) which related to authorization of assistance payments by the Secretary and contractually obligated public housing agencies for construction or substantial rehabilitation of housing, modest in design, with units for occupancy by low-income families and requirement that contracts providing housing assistance and entered into after Aug. 13, 1981, specify the number of units available for occupancy by eligible families.
 
-    Subsec. (d)(1)(A). [Pub. L. 98–181, § 203(b)(1)][/us/pl/98/181/s203/b/1], inserted “, are paying more than 50 per centum of family income for rent,”.
+    Subsec. (d)(1)(A). [Pub. L. 98–181][/us/pl/98/181], § 203(b)(1), inserted “, are paying more than 50 per centum of family income for rent,”.
 
-    Subsec. (d)(2). [Pub. L. 98–181, § 208][/us/pl/98/181/s208], inserted second and third sentences respecting waiver of limitation and limitation of contract and any extension to prescribed period.
+    Subsec. (d)(2). [Pub. L. 98–181][/us/pl/98/181], § 208, inserted second and third sentences respecting waiver of limitation and limitation of contract and any extension to prescribed period.
 
-    Subsec. (e)(1). [Pub. L. 98–181, § 209(a)(3)][/us/pl/98/181/s209/a/3], redesignated par. (4) as (1) and struck out former par. (1) which prescribed terms of 20 to 30 years for newly constructed or substantially rehabilitated dwelling units.
+    Subsec. (e)(1). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(3), redesignated par. (4) as (1) and struck out former par. (1) which prescribed terms of 20 to 30 years for newly constructed or substantially rehabilitated dwelling units.
 
-    Subsec. (e)(2). [Pub. L. 98–181, § 209(a)(3)][/us/pl/98/181/s209/a/3], redesignated par. (5) as (2) and struck out former par. (2) which required owners to assume ownership, management, and maintenance responsibilities, including selection of tenants and termination of tenancy for newly constructed or substantially rehabilitated dwelling units.
+    Subsec. (e)(2). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(3), redesignated par. (5) as (2) and struck out former par. (2) which required owners to assume ownership, management, and maintenance responsibilities, including selection of tenants and termination of tenancy for newly constructed or substantially rehabilitated dwelling units.
 
-    [Pub. L. 98–181, § 203(b)(2)][/us/pl/98/181/s203/b/2], inserted “, are paying more than 50 per centum of family income for rent,” after “substandard housing”.
+    [Pub. L. 98–181][/us/pl/98/181], § 203(b)(2), inserted “, are paying more than 50 per centum of family income for rent,” after “substandard housing”.
 
-    Subsec. (e)(3). [Pub. L. 98–181, § 209(a)(3)][/us/pl/98/181/s209/a/3], struck out par. (3) which required that construction or substantial rehabilitation of dwelling units be eligible for mortgages insured under the National Housing Act and that assistance not be withheld by reason of availability of mortgage insurance under [section 1715z–9 of title 12][/us/usc/t12/s1715z–9] or tax-exempt status obligations used to finance the construction or rehabilitation.
+    Subsec. (e)(3). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(3), struck out par. (3) which required that construction or substantial rehabilitation of dwelling units be eligible for mortgages insured under the National Housing Act and that assistance not be withheld by reason of availability of mortgage insurance under [section 1715z–9 of title 12][/us/usc/t12/s1715z–9] or tax-exempt status obligations used to finance the construction or rehabilitation.
 
-    Subsec. (e)(4), (5). [Pub. L. 98–181, § 209(a)(3)][/us/pl/98/181/s209/a/3], redesignated pars. (4) and (5) as (1) and (2), respectively.
+    Subsec. (e)(4), (5). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(3), redesignated pars. (4) and (5) as (1) and (2), respectively.
 
-    Subsec. (i). [Pub. L. 98–181, § 209(a)(4)][/us/pl/98/181/s209/a/4], repealed subsec. (i) which related to contracts with respect to substantially rehabilitated dwelling units.
+    Subsec. (i). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(4), repealed subsec. (i) which related to contracts with respect to substantially rehabilitated dwelling units.
 
-    Subsecs. (l), (m). [Pub. L. 98–181, § 209(a)(5)][/us/pl/98/181/s209/a/5], repealed subsec. (l) relating to limitation of cost and rent increases, and subsec. (m) relating to preference for projects on suitable State and local government tracts.
+    Subsecs. (l), (m). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(5), repealed subsec. (l) relating to limitation of cost and rent increases, and subsec. (m) relating to preference for projects on suitable State and local government tracts.
 
-    Subsec. (n). [Pub. L. 98–181, § 209(a)(6)][/us/pl/98/181/s209/a/6], substituted “subsection (e)(2) of this section” for “subsection (e)(5) and subsection (i) of this section”.
+    Subsec. (n). [Pub. L. 98–181][/us/pl/98/181], § 209(a)(6), substituted “subsection (e)(2) of this section” for “subsection (e)(5) and subsection (i) of this section”.
 
-    [Pub. L. 98–181, § 210(1)][/us/pl/98/181/s210/1], (2), inserted “subsection (b)(1) of this section,” before “subsection (e)(5)” and a comma after “subsection (e)(5) of this section”.
+    [Pub. L. 98–181][/us/pl/98/181], § 210(1), (2), inserted “subsection (b)(1) of this section,” before “subsection (e)(5)” and a comma after “subsection (e)(5) of this section”.
 
-    Subsec. (n)(3). [Pub. L. 98–181, § 210(3)][/us/pl/98/181/s210/3]–(5), added par. (3).
+    Subsec. (n)(3). [Pub. L. 98–181][/us/pl/98/181], § 210(3)–(5), added par. (3).
 
-    Subsec. (o). [Pub. L. 98–181, § 207][/us/pl/98/181/s207], added subsec. (o).
+    Subsec. (o). [Pub. L. 98–181][/us/pl/98/181], § 207, added subsec. (o).
 
-    Subsec. (p). [Pub. L. 98–181, § 211][/us/pl/98/181/s211], added subsec. (p).
+    Subsec. (p). [Pub. L. 98–181][/us/pl/98/181], § 211, added subsec. (p).
 
     1981—Subsec. (b)(2). [Pub. L. 97–35][/us/pl/97/35], §§ 324(1), 325(1), inserted provisions relating to increasing housing opportunities for very low-income families and provisions relating to availability for occupancy the number of units for which assistance is committed.
 
-    Subsec. (c)(2)(D). [Pub. L. 97–35, § 324(2)][/us/pl/97/35/s324/2], added par. (D).
+    Subsec. (c)(2)(D). [Pub. L. 97–35][/us/pl/97/35], § 324(2), added par. (D).
 
-    Subsec. (c)(3). [Pub. L. 97–35, § 322(e)(1)][/us/pl/97/35/s322/e/1], revised formula for computation of amount of monthly assistance and struck out authority to make reviews at least every two years in cases of elderly families.
+    Subsec. (c)(3). [Pub. L. 97–35][/us/pl/97/35], § 322(e)(1), revised formula for computation of amount of monthly assistance and struck out authority to make reviews at least every two years in cases of elderly families.
 
-    Subsec. (c)(5). [Pub. L. 97–35, § 325(2)][/us/pl/97/35/s325/2], inserted reference to mortgages under [section 1720 of title 12][/us/usc/t12/s1720].
+    Subsec. (c)(5). [Pub. L. 97–35][/us/pl/97/35], § 325(2), inserted reference to mortgages under [section 1720 of title 12][/us/usc/t12/s1720].
 
-    Subsec. (c)(7). [Pub. L. 97–35, § 322(e)(2)][/us/pl/97/35/s322/e/2], struck out par. (7) relating to percentage requirement for families with very low income and redesignated former par. (8) as (7).
+    Subsec. (c)(7). [Pub. L. 97–35][/us/pl/97/35], § 322(e)(2), struck out par. (7) relating to percentage requirement for families with very low income and redesignated former par. (8) as (7).
 
-    Subsec. (c)(8). [Pub. L. 97–35, § 326(a)][/us/pl/97/35/s326/a], added par. (8). Former par. (8) redesignated (7).
+    Subsec. (c)(8). [Pub. L. 97–35][/us/pl/97/35], § 326(a), added par. (8). Former par. (8) redesignated (7).
 
-    Subsec. (d)(1)(B). [Pub. L. 97–35, § 326(e)(1)][/us/pl/97/35/s326/e/1], substituted provisions relating to terms and conditions, and termination of the lease by the owner for provisions relating to right of the agency to give notice to terminate and owner the right to make representation to agency for termination of the tenancy.
+    Subsec. (d)(1)(B). [Pub. L. 97–35][/us/pl/97/35], § 326(e)(1), substituted provisions relating to terms and conditions, and termination of the lease by the owner for provisions relating to right of the agency to give notice to terminate and owner the right to make representation to agency for termination of the tenancy.
 
-    Subsec. (f). [Pub. L. 97–35, § 322(e)(3)][/us/pl/97/35/s322/e/3], struck out pars. (1) to (3) which defined “lower income families”, “very low-income families” and “income”, respectively, and redesignated pars. (4) to (6) as (1) to (3), respectively.
+    Subsec. (f). [Pub. L. 97–35][/us/pl/97/35], § 322(e)(3), struck out pars. (1) to (3) which defined “lower income families”, “very low-income families” and “income”, respectively, and redesignated pars. (4) to (6) as (1) to (3), respectively.
 
-    Subsec. (h). [Pub. L. 97–35, § 322(e)(4)][/us/pl/97/35/s322/e/4], (5), struck out reference to [section 1437a(1) of this title][/us/usc/t42/s1437a/1].
+    Subsec. (h). [Pub. L. 97–35][/us/pl/97/35], § 322(e)(4), (5), struck out reference to [section 1437a(1) of this title][/us/usc/t42/s1437a/1].
 
-    Subsec. (j). [Pub. L. 97–35, § 329H(a)][/us/pl/97/35/s329H/a], generally revised and reorganized provisions and, as so revised and reorganized, substituted provisions relating to contracts to make assistance payments to assist lower income families by making rental assistance payments on behalf of such family, for provisions relating to annual contributions contracts to assist lower income families by making rental assistance payments.
+    Subsec. (j). [Pub. L. 97–35][/us/pl/97/35], § 329H(a), generally revised and reorganized provisions and, as so revised and reorganized, substituted provisions relating to contracts to make assistance payments to assist lower income families by making rental assistance payments on behalf of such family, for provisions relating to annual contributions contracts to assist lower income families by making rental assistance payments.
 
-    Subsec. (j)(3). [Pub. L. 97–35, § 322(e)(6)][/us/pl/97/35/s322/e/6], substituted in par. (3) “the rent the family is required to pay under [section 1437a(a) of this title][/us/usc/t42/s1437a/a]” for “25 per centum of one-twelfth of the annual income of such family”.
+    Subsec. (j)(3). [Pub. L. 97–35][/us/pl/97/35], § 322(e)(6), substituted in par. (3) “the rent the family is required to pay under [section 1437a(a) of this title][/us/usc/t42/s1437a/a]” for “25 per centum of one-twelfth of the annual income of such family”.
 
-    Subsecs. (l) to (n). [Pub. L. 97–35, § 324(3)][/us/pl/97/35/s324/3], added subsecs. (l) to (n).
+    Subsecs. (l) to (n). [Pub. L. 97–35][/us/pl/97/35], § 324(3), added subsecs. (l) to (n).
 
-    1980—Subsec. (c)(1). [Pub. L. 96–399, § 203(a)][/us/pl/96/399/s203/a], inserted provision that in the case of newly constructed and substantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after Oct. 1, 1980.
+    1980—Subsec. (c)(1). [Pub. L. 96–399][/us/pl/96/399], § 203(a), inserted provision that in the case of newly constructed and substantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after Oct. 1, 1980.
 
-    Subsec. (e)(5). [Pub. L. 96–399, § 203(b)][/us/pl/96/399/s203/b], inserted provision relating to the authority of the Secretary, notwithstanding subsec. (c)(1) of this section, to establish monthly rent exceeding fair market rental where cost levels so require or where necessary to the implementation of a local housing assistance plan.
+    Subsec. (e)(5). [Pub. L. 96–399][/us/pl/96/399], § 203(b), inserted provision relating to the authority of the Secretary, notwithstanding subsec. (c)(1) of this section, to establish monthly rent exceeding fair market rental where cost levels so require or where necessary to the implementation of a local housing assistance plan.
 
-    Subsec. (j). [Pub. L. 96–399, § 308(c)(3)][/us/pl/96/399/s308/c/3], substituted “manufactured home” for “mobile home” wherever appearing.
+    Subsec. (j). [Pub. L. 96–399][/us/pl/96/399], § 308(c)(3), substituted “manufactured home” for “mobile home” wherever appearing.
 
-    1979—Subsec. (c)(3). [Pub. L. 96–153, § 202(b)][/us/pl/96/153/s202/b], substituted new provisions for computation of the amount of monthly assistance payments with respect to dwelling units and laid down criteria to be followed by the Secretary in regard to payments to families with different income levels.
+    1979—Subsec. (c)(3). [Pub. L. 96–153][/us/pl/96/153], § 202(b), substituted new provisions for computation of the amount of monthly assistance payments with respect to dwelling units and laid down criteria to be followed by the Secretary in regard to payments to families with different income levels.
 
-    Subsec. (d)(1)(A). [Pub. L. 96–153, § 206(b)(1)][/us/pl/96/153/s206/b/1], substituted “Secretary and the agency, except that the tenant selection criteria used by the owner shall give preference to families which occupy substandard housing or are involuntarily displaced at the time they are seeking assistance under this section.” for “Secretary and the agency;”.
+    Subsec. (d)(1)(A). [Pub. L. 96–153][/us/pl/96/153], § 206(b)(1), substituted “Secretary and the agency, except that the tenant selection criteria used by the owner shall give preference to families which occupy substandard housing or are involuntarily displaced at the time they are seeking assistance under this section.” for “Secretary and the agency;”.
 
-    Subsec. (e)(1). [Pub. L. 96–153, § 211(b)][/us/pl/96/153/s211/b], substituted “term of less than two hundred and forty months” for “term of less than one month”.
+    Subsec. (e)(1). [Pub. L. 96–153][/us/pl/96/153], § 211(b), substituted “term of less than two hundred and forty months” for “term of less than one month”.
 
-    Subsec. (e)(2). [Pub. L. 96–153, § 206(b)(2)][/us/pl/96/153/s206/b/2], substituted “performance of such responsibilities), except that the tenant selection criteria shall give preference to families which occupy substandard housing or are involuntarily displaced at the time they are seeking housing assistance under this section” for “performance of such responsibilities)”.
+    Subsec. (e)(2). [Pub. L. 96–153][/us/pl/96/153], § 206(b)(2), substituted “performance of such responsibilities), except that the tenant selection criteria shall give preference to families which occupy substandard housing or are involuntarily displaced at the time they are seeking housing assistance under this section” for “performance of such responsibilities)”.
 
-    Subsec. (k). [Pub. L. 96–153, § 210][/us/pl/96/153/s210], added subsec. (k).
+    Subsec. (k). [Pub. L. 96–153][/us/pl/96/153], § 210, added subsec. (k).
 
-    1978—Subsec. (e)(5). [Pub. L. 95–557, § 206(e)][/us/pl/95/557/s206/e], added par. (5).
+    1978—Subsec. (e)(5). [Pub. L. 95–557][/us/pl/95/557], § 206(e), added par. (5).
 
-    Subsec. (i). [Pub. L. 95–557, § 206(d)(1)][/us/pl/95/557/s206/d/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 95–557][/us/pl/95/557], § 206(d)(1), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 95–557, § 206(f)][/us/pl/95/557/s206/f], added subsec. (j).
+    Subsec. (j). [Pub. L. 95–557][/us/pl/95/557], § 206(f), added subsec. (j).
 
-    1977—Subsec. (c), [Pub. L. 95–128, § 201(c)][/us/pl/95/128/s201/c], (d), inserted in par. (1) prohibition against high-rise elevator projects for families with children after Oct. 12, 1977, and struck out from par. (4) provision which prohibited payment after the sixty-day period if the unoccupied unit was in a project insured under the National Housing Act, except pursuant to [section 1715z–9 of title 12][/us/usc/t12/s1715z–9].
+    1977—Subsec. (c), [Pub. L. 95–128][/us/pl/95/128], § 201(c), (d), inserted in par. (1) prohibition against high-rise elevator projects for families with children after Oct. 12, 1977, and struck out from par. (4) provision which prohibited payment after the sixty-day period if the unoccupied unit was in a project insured under the National Housing Act, except pursuant to [section 1715z–9 of title 12][/us/usc/t12/s1715z–9].
 
-    Subsec. (d)(3). [Pub. L. 95–128, § 201(e)(1)][/us/pl/95/128/s201/e/1], added par. (3).
+    Subsec. (d)(3). [Pub. L. 95–128][/us/pl/95/128], § 201(e)(1), added par. (3).
 
     Subsec. (e)(1). [Pub. L. 95–24][/us/pl/95/24] substituted “three hundred and sixty months, except that such term may not exceed two hundred and forty months in the case of a project financed with assistance of a loan made by, or insured, guaranteed or intended for purchase by, the Federal Government, other than pursuant to [section 1715z–9 of title 12][/us/usc/t12/s1715z–9]” for “two hundred and forty months” and “Notwithstanding the preceding sentence, in the case of” for “In the case of”.
 
-    Subsec. (e)(2). [Pub. L. 95–128, § 201(e)(2)][/us/pl/95/128/s201/e/2], inserted provision respecting the Secretary’s approval of any public housing agency for assumption of management and maintenance responsibilities of dwelling units under the preceding sentence.
+    Subsec. (e)(2). [Pub. L. 95–128][/us/pl/95/128], § 201(e)(2), inserted provision respecting the Secretary’s approval of any public housing agency for assumption of management and maintenance responsibilities of dwelling units under the preceding sentence.
 
-    1976—Subsec. (c)(4). [Pub. L. 94–375, § 2(d)][/us/pl/94/375/s2/d], inserted provision extending payments to newly constructed or substantially rehabilitated unoccupied units in an amount equal to the debt service of such unit for a period not to exceed one year, provided that a good faith effort is being made to fill the unit, the unit provides decent and safe housing, the unit is not insured under the National Housing Act, except pursuant to [section 1715z–9 of title 12][/us/usc/t12/s1715z–9], and the revenues from the project do not exceed the cost.
+    1976—Subsec. (c)(4). [Pub. L. 94–375][/us/pl/94/375], § 2(d), inserted provision extending payments to newly constructed or substantially rehabilitated unoccupied units in an amount equal to the debt service of such unit for a period not to exceed one year, provided that a good faith effort is being made to fill the unit, the unit provides decent and safe housing, the unit is not insured under the National Housing Act, except pursuant to [section 1715z–9 of title 12][/us/usc/t12/s1715z–9], and the revenues from the project do not exceed the cost.
 
-    Subsec. (e)(1). [Pub. L. 94–375, § 2(g)][/us/pl/94/375/s2/g], inserted “or the Farmers’ Home Administration” after “State or local agency”.
+    Subsec. (e)(1). [Pub. L. 94–375][/us/pl/94/375], § 2(g), inserted “or the Farmers’ Home Administration” after “State or local agency”.
 
-    Subsec. (f)(6). [Pub. L. 94–375, § 2(e)][/us/pl/94/375/s2/e], added par. (6).
+    Subsec. (f)(6). [Pub. L. 94–375][/us/pl/94/375], § 2(e), added par. (6).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–76, div. L, title II, § 220(b)][/us/pl/113/76/s220/b], Jan. 17, 2014, [128 Stat. 631][/us/stat/128/631], provided that: 
+[Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 220(b), Jan. 17, 2014, [128 Stat. 631][/us/stat/128/631], provided that: 
 
 > “The amendments in subsection (a) \[amending this section\] shall take effect upon such date as the Secretary determines, in the Secretary’s sole discretion, through the Secretary’s publication of such date in the Federal Register, as part of regulations promulgated, or a notice issued, by the Secretary to implement such amendments.”
 
@@ -1613,7 +1613,7 @@
 
  __Termination Date of 2009 Amendment__ 
 
-    [Pub. L. 111–22, div. A, title VII, § 704][/us/pl/111/22/s704], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], provided that title VII of [Pub. L. 111–22][/us/pl/111/22] (amending this section and enacting provisions set out as notes under sections 5201 and 5220 of Title 12, Banks and Banking), and any amendments made by such title are repealed, and the requirements under such title shall terminate, on Dec. 31, 2014.
+    [Pub. L. 111–22, div. A, title VII][/us/pl/111/22/dA/tVII], § 704, May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1484(2), July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], provided that title VII of [Pub. L. 111–22][/us/pl/111/22] (amending this section and enacting provisions set out as notes under sections 5201 and 5220 of Title 12, Banks and Banking), and any amendments made by such title are repealed, and the requirements under such title shall terminate, on Dec. 31, 2014.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -1627,11 +1627,11 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–569, title III, § 301(b)][/us/pl/106/569/s301/b], Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], provided that: 
+[Pub. L. 106–569, title III][/us/pl/106/569/tIII], § 301(b), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect immediately after the amendments made by section 555(c) of the Quality Housing and Work Responsibility Act of 1998 \[[Pub. L. 105–276][/us/pl/105/276], set out as an Effective Date of 1998 Amendment note below\] take effect pursuant to such section.”
 
-[Pub. L. 106–569, title IX, § 902(b)][/us/pl/106/569/s902/b], Dec. 27, 2000, [114 Stat. 3026][/us/stat/114/3026], provided that: 
+[Pub. L. 106–569, title IX][/us/pl/106/569/tIX], § 902(b), Dec. 27, 2000, [114 Stat. 3026][/us/stat/114/3026], provided that: 
 
 > “The amendment under subsection (a) \[amending this section\] shall be made and shall apply—
 
@@ -1639,7 +1639,7 @@
 
 >     “(2) immediately after the enactment of such appropriations Act, if such appropriations Act is enacted after the enactment of this Act.”
 
-[Pub. L. 106–569, title IX, § 903(b)][/us/pl/106/569/s903/b], Dec. 27, 2000, [114 Stat. 3026][/us/stat/114/3026], provided that: 
+[Pub. L. 106–569, title IX][/us/pl/106/569/tIX], § 903(b), Dec. 27, 2000, [114 Stat. 3026][/us/stat/114/3026], provided that: 
 
 > “The amendment under subsection (a) \[amending this section\] shall be made and shall apply—
 
@@ -1649,7 +1649,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–276, title II, § 209(b)][/us/pl/105/276/s209/b], Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], provided that: 
+[Pub. L. 105–276, title II][/us/pl/105/276/tII], § 209(b), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], provided that: 
 
 > “This section \[amending this section\] shall take effect 60 days after the later of October 1, 1998 or the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -1657,19 +1657,19 @@
 
     Amendment by [section 514(b)(1) of Pub. L. 105–276][/us/pl/105/276/s514/b/1] effective and applicable beginning upon Oct. 21, 1998, see [section 514(g) of Pub. L. 105–276][/us/pl/105/276/s514/g], set out as a note under [section 1701s of Title 12][/us/usc/t12/s1701s], Banks and Banking.
 
-[Pub. L. 105–276, title V, § 545(c)][/us/pl/105/276/s545/c], Oct. 21, 1998, [112 Stat. 2604][/us/stat/112/2604], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 545(c), Oct. 21, 1998, [112 Stat. 2604][/us/stat/112/2604], provided that: 
 
 > “Notwithstanding the amendment made by subsection (a) of this section \[amending this section\], any amendments to section 8(o) of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f](o)) that are contained in title II of this Act \[see Tables for classification\] shall apply with respect to the provision of assistance under such section during the period before implementation (pursuant to [section 559 of this title][/us/usc/t42/s559] \[set out as a Regulations and Transition Provisions note below\]) of such section 8(o) as amended by subsection (a) of this section.”
 
-[Pub. L. 105–276, title V, § 549(a)(3)][/us/pl/105/276/s549/a/3], Oct. 21, 1998, [112 Stat. 2607][/us/stat/112/2607], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 549(a)(3), Oct. 21, 1998, [112 Stat. 2607][/us/stat/112/2607], provided that: 
 
 > “The amendments under this subsection \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\], and shall apply thereafter, notwithstanding section 203 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 \[section 101(e) \[title II, § 203\] of [Pub. L. 104–134][/us/pl/104/134], amending this section and enacting provisions set out as an Effective and Termination Dates of 1996 Amendments note below\] ([42 U.S.C. 1437f][/us/usc/t42/s1437f] note) or any other provision of law (including the expiration of the applicability of such section 203 or any repeal of such section 203).”
 
-[Pub. L. 105–276, title V, § 554][/us/pl/105/276/s554], Oct. 21, 1998, [112 Stat. 2611][/us/stat/112/2611], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 554, Oct. 21, 1998, [112 Stat. 2611][/us/stat/112/2611], provided that: 
 
 > “Notwithstanding section 203(d) of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (as contained in section 101(e) of the Omnibus Consolidated Rescissions and Appropriations Act of 1996 ([Public Law 104–134][/us/pl/104/134]; [42 U.S.C. 1437f][/us/usc/t42/s1437f] note) \[see Effective and Termination Dates of 1996 Amendments note below\]), section 8 of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) is amended by striking subsection (t). This section shall apply beginning upon, and the amendment made by this section is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-[Pub. L. 105–276, title V, § 555(c)][/us/pl/105/276/s555/c], Oct. 21, 1998, [112 Stat. 2613][/us/stat/112/2613], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 555(c), Oct. 21, 1998, [112 Stat. 2613][/us/stat/112/2613], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as a note below\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -1677,7 +1677,7 @@
 
  __Effective and Termination Dates of 1996 Amendments__ 
 
-Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134], as amended by [Pub. L. 104–204, title II, § 201(e)][/us/pl/104/204/s201/e], Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–65, title II, § 201(b)][/us/pl/105/65/s201/b], Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], provided that: 
+Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134], as amended by [Pub. L. 104–204, title II][/us/pl/104/204/tII], § 201(e), Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–65, title II][/us/pl/105/65/tII], § 201(b), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], provided that: 
 
 > “The provisions of this section \[amending this section\] shall be effective for fiscal years 1996, 1997, and 1998 only.”
 
@@ -1697,7 +1697,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __Effective Date of 1983 Amendment; Savings Provision__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 209(b)\], Nov. 30, 1983, [97 Stat. 1183][/us/stat/97/1183], provided that: 
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 209(b)\], Nov. 30, 1983, [97 Stat. 1183][/us/stat/97/1183], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1983, except that the provisions repealed shall remain in effect—
 
@@ -1709,7 +1709,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
     Amendments by sections 322(e) and 329H(a) of [Pub. L. 97–35][/us/pl/97/35] effective Oct. 1, 1981, and amendments by sections 324, 325, and 326(a) of [Pub. L. 97–35][/us/pl/97/35] applicable with respect to contracts entered into on or after Oct. 1, 1981, see [section 371 of Pub. L. 97–35][/us/pl/97/35/s371], set out as an Effective Date note under [section 3701 of Title 12][/us/usc/t12/s3701], Banks and Banking.
 
-[Pub. L. 97–35, title III, § 326(e)(2)][/us/pl/97/35/s326/e/2], Aug. 13, 1981, [95 Stat. 407][/us/stat/95/407], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 326(e)(2), Aug. 13, 1981, [95 Stat. 407][/us/stat/95/407], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to leases entered into on or after October 1, 1981.”
 
@@ -1719,7 +1719,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–557, title II, § 206(d)(2)][/us/pl/95/557/s206/d/2], Oct. 31, 1978, [92 Stat. 2092][/us/stat/92/2092], provided that: 
+[Pub. L. 95–557, title II][/us/pl/95/557/tII], § 206(d)(2), Oct. 31, 1978, [92 Stat. 2092][/us/stat/92/2092], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall become effective with respect to contracts entered into on or after 270 days following the date of enactment of this Act \[Oct. 31, 1978\].”
 
@@ -1731,17 +1731,17 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __Applicability of 1994 Amendments__ 
 
-[Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315], third par., provided that: 
+[Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315], third par., provided that: 
 
 > “The immediately foregoing amendment \[amending subsec. (c)(2)(A) of this section by authorizing modification of rent adjustment where adjusted rent exceeds fair market rental\] shall apply to all contracts for new construction, substantial rehabilitation, and moderate rehabilitation projects under which rents are adjusted under section 8(c)(2)(A) of such Act \[subsec. (c)(2)(A) of this section\] by applying an annual adjustment factor.”
 
-[Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315], fifth par., provided that: 
+[Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315], fifth par., provided that: 
 
 > “The immediately foregoing \[amending subsec. (c)(2)(A) of this section by inserting two sentences at end authorizing reduction of annual adjustment factor in certain circumstances\] shall hereafter apply to all contracts that are subject to section 8(c)(2)(A) of such Act \[subsec. (c)(2)(A) of this section\] and that provide for rent adjustments using an annual adjustment factor.”
 
  __Regulations and Transition Provisions__ 
 
-[Pub. L. 105–276, title V, § 559][/us/pl/105/276/s559], Oct. 21, 1998, [112 Stat. 2615][/us/stat/112/2615], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 559, Oct. 21, 1998, [112 Stat. 2615][/us/stat/112/2615], provided that:
 
 >     “(a)  __Interim Regulations__  __.—__ 
 
@@ -1785,35 +1785,35 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __Regulations__ 
 
-    [Pub. L. 105–276, title V, § 556(b)][/us/pl/105/276/s556/b], Oct. 21, 1998, [112 Stat. 2613][/us/stat/112/2613], directed the Secretary of Housing and Urban Development to implement the amendment made by subsec. (a), adding [42 U.S.C. 1437f(dd)][/us/usc/t42/s1437f/dd], through notice, not later than Dec. 31, 1998, and to issue final regulations, not later than one year after Oct. 21, 1998. HUD Notice 98–65 was issued Dec. 30, 1998, and final regulations were published in the Federal Register Oct. 21, 1999, effective Nov. 22, 1999. See 64 F.R. 56882.
+    [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 556(b), Oct. 21, 1998, [112 Stat. 2613][/us/stat/112/2613], directed the Secretary of Housing and Urban Development to implement the amendment made by subsec. (a), adding [42 U.S.C. 1437f(dd)][/us/usc/t42/s1437f/dd], through notice, not later than Dec. 31, 1998, and to issue final regulations, not later than one year after Oct. 21, 1998. HUD Notice 98–65 was issued Dec. 30, 1998, and final regulations were published in the Federal Register Oct. 21, 1999, effective Nov. 22, 1999. See 64 F.R. 56882.
 
     For provisions requiring Secretary of Housing and Urban Development to issue regulations necessary to implement amendment to this section by [Pub. L. 103–233][/us/pl/103/233], see [section 101(f) of Pub. L. 103–233][/us/pl/103/233/s101/f], set out as a note under [section 1701z–11 of Title 12][/us/usc/t12/s1701z–11], Banks and Banking.
 
     For provision requiring that not later than expiration of the 180-day period beginning Oct. 28, 1992, the Secretary of Housing and Urban Development shall issue regulations implementing amendments to this section by [section 545 of Pub. L. 101–625][/us/pl/101/625/s545], see [section 104 of Pub. L. 102–550][/us/pl/102/550/s104], set out as a note under [section 1437d of this title][/us/usc/t42/s1437d].
 
-[Pub. L. 102–550, title I, § 149][/us/pl/102/550/s149], Oct. 28, 1992, [106 Stat. 3715][/us/stat/106/3715], provided that: 
+[Pub. L. 102–550, title I][/us/pl/102/550/tI], § 149, Oct. 28, 1992, [106 Stat. 3715][/us/stat/106/3715], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue any final regulations necessary to carry out the amendments made by section 547 of the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], amending this section\] not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section) and shall take effect upon the expiration of the 30-day period beginning upon issuance.”
 
-[Pub. L. 102–550, title I, § 151][/us/pl/102/550/s151], Oct. 28, 1992, [106 Stat. 3716][/us/stat/106/3716], provided that: 
+[Pub. L. 102–550, title I][/us/pl/102/550/tI], § 151, Oct. 28, 1992, [106 Stat. 3716][/us/stat/106/3716], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue any final regulations necessary to carry out the provisions of section 555 of the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625]\] ([42 U.S.C. 1437f][/us/usc/t42/s1437f] note) not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section) and shall take effect upon the expiration of the 30-day period beginning upon issuance.”
 
  __Savings Provision__ 
 
-[Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 232(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–34, as amended by [Pub. L. 110–28, title VI, § 6904][/us/pl/110/28/s6904], May 25, 2007, [121 Stat. 185][/us/stat/121/185], provided that: 
+[Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 232(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–34, as amended by [Pub. L. 110–28, title VI][/us/pl/110/28/tVI], § 6904, May 25, 2007, [121 Stat. 185][/us/stat/121/185], provided that: 
 
 > “In the case of any dwelling unit that, upon the date of the enactment of this Act \[Oct. 27, 2000\], is assisted under a housing assistance payment contract under section 8(o)(13) \[of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f](o)(13))\] as in effect before such enactment, or under section 8(d)(2) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(d)(2)][/us/usc/t42/s1437f/d/2]) as in effect before the enactment of the Quality Housing and Work Responsibility Act of 1998 (title V of [Public Law 105–276][/us/pl/105/276]) \[approved Oct. 21, 1998\], assistance may be renewed or extended under such section 8(o)(13), as amended by subsection (a), provided that the initial contract term and rent of such renewed or extended assistance shall be determined pursuant to subparagraphs (F) and (H), and subparagraphs (C) and (D) of such section shall not apply to such extensions or renewals.”
 
  __Rental Assistance Demonstration__ 
 
-[Pub. L. 112–55, div. C, title II][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 673][/us/stat/125/673], as amended by [Pub. L. 113–76, div. L, title II, § 239][/us/pl/113/76/s239], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635]; [Pub. L. 113–235, div. K, title II, § 234][/us/pl/113/235/s234], Dec. 16, 2014, [128 Stat. 2757][/us/stat/128/2757]; [Pub. L. 114–113, div. L, title II, § 237][/us/pl/114/113/s237], Dec. 18, 2015, [129 Stat. 2897][/us/stat/129/2897], provided that: 
+[Pub. L. 112–55, div. C, title II][/us/pl/112/55/dC/tII], Nov. 18, 2011, [125 Stat. 673][/us/stat/125/673], as amended by [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 239, Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635]; [Pub. L. 113–235, div. K, title II][/us/pl/113/235/dK/tII], § 234, Dec. 16, 2014, [128 Stat. 2757][/us/stat/128/2757]; [Pub. L. 114–113, div. L, title II][/us/pl/114/113/dL/tII], § 237, Dec. 18, 2015, [129 Stat. 2897][/us/stat/129/2897], provided that: 
 
 > “To conduct a demonstration designed to preserve and improve public housing and certain other multifamily housing through the voluntary conversion of properties with assistance under section 9 of the United States Housing Act of 1937 \[[42 U.S.C. 1437g][/us/usc/t42/s1437g]\], (hereinafter, ‘the Act’), or the moderate rehabilitation program under section 8(e)(2) of the Act \[[42 U.S.C. 1437f(e)(2)][/us/usc/t42/s1437f/e/2]\], to properties with assistance under a project-based subsidy contract under section 8 of the Act \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], which shall be eligible for renewal under section 524 of the Multifamily Assisted Housing Reform and Affordability Act of 1997 \[[Pub. L. 105–65][/us/pl/105/65], set out below\], or assistance under section 8(o)(13) of the Act \[[42 U.S.C. 1437f][/us/usc/t42/s1437f](o)(13)\], the Secretary may transfer amounts provided through contracts under section 8(e)(2) of the Act or under the headings ‘Public Housing Capital Fund’ and ‘Public Housing Operating Fund’ to the headings ‘Tenant-Based Rental Assistance’ or ‘Project-Based Rental Assistance’: Provided, That the initial long-term contract under which converted assistance is made available may allow for rental adjustments only by an operating cost factor established by the Secretary, and shall be subject to the availability of appropriations for each year of such term: Provided further, That project applications may be received under this demonstration until September 30, 2018: Provided further, That any increase in cost for ‘Tenant-Based Rental Assistance’ or ‘Project-Based Rental Assistance’ associated with such conversion in excess of amounts made available under this heading shall be equal to amounts transferred from ‘Public Housing Capital Fund’ and ‘Public Housing Operating Fund’ or other account from which it was transferred: Provided further, That not more than 185,000 units currently receiving assistance under section 9 or section 8(e)(2) of the Act shall be converted under the authority provided under this heading: Provided further, That tenants of such properties with assistance converted from assistance under section 9 shall, at a minimum, maintain the same rights under such conversion as those provided under sections 6 \[[42 U.S.C. 1437d][/us/usc/t42/s1437d]\] and 9 of the Act: Provided further, That the Secretary shall select properties from applications for conversion as part of this demonstration through a competitive process: Provided further, That in establishing criteria for such competition, the Secretary shall seek to demonstrate the feasibility of this conversion model to recapitalize and operate public housing properties (1) in different markets and geographic areas, (2) within portfolios managed by public housing agencies of varying sizes, and (3) by leveraging other sources of funding to recapitalize properties: Provided further, That the Secretary shall provide an opportunity for public comment on draft eligibility and selection criteria and procedures that will apply to the selection of properties that will participate in the demonstration: Provided further, That the Secretary shall provide an opportunity for comment from residents of properties to be proposed for participation in the demonstration to the owners or public housing agencies responsible for such properties: Provided further, That the Secretary may waive or specify alternative requirements for (except for requirements related to fair housing, nondiscrimination, labor standards, and the environment) any provision of section 8(o)(13) or any provision that governs the use of assistance from which a property is converted under the demonstration or funds made available under the headings of ‘Public Housing Capital Fund’, ‘Public Housing Operating Fund’, and ‘Project-Based Rental Assistance’, under this Act or any prior Act or any Act enacted during the period of conversion of assistance under the demonstration for properties with assistance converted under the demonstration, upon a finding by the Secretary that any such waivers or alternative requirements are necessary for the effective conversion of assistance under the demonstration: Provided further, That the Secretary shall publish by notice in the Federal Register any waivers or alternative requirements pursuant to the previous proviso no later than 10 days before the effective date of such notice: Provided further, That the demonstration may proceed after the Secretary publishes notice of its terms in the Federal Register: Provided further, That notwithstanding sections 3 \[[42 U.S.C. 1437a][/us/usc/t42/s1437a]\] and 16 \[[42 U.S.C. 1437n][/us/usc/t42/s1437n]\] of the Act, the conversion of assistance under the demonstration shall not be the basis for re-screening or termination of assistance or eviction of any tenant family in a property participating in the demonstration, and such a family shall not be considered a new admission for any purpose, including compliance with income targeting requirements: Provided further, That in the case of a property with assistance converted under the demonstration from assistance under section 9 of the Act, section 18 of the Act \[[42 U.S.C. 1437p][/us/usc/t42/s1437p]\] shall not apply to a property converting assistance under the demonstration for all or substantially all of its units, the Secretary shall require ownership or control of assisted units by a public or nonprofit entity except as determined by the Secretary to be necessary pursuant to foreclosure, bankruptcy, or termination and transfer of assistance for material violations or substantial default, in which case the priority for ownership or control shall be provided to a capable public entity, then a capable entity, as determined by the Secretary, shall require long-term renewable use and affordability restrictions for assisted units, and may allow ownership to be transferred to a for-profit entity to facilitate the use of tax credits only if the public housing agency preserves its interest in the property in a manner approved by the Secretary, and upon expiration of the initial contract and each renewal contract, the Secretary shall offer and the owner of the property shall accept renewal of the contract subject to the terms and conditions applicable at the time of renewal and the availability of appropriations each year of such renewal: Provided further, That the Secretary may permit transfer of assistance at or after conversion under the demonstration to replacement units subject to the requirements in the previous proviso: Provided further, That the Secretary may establish the requirements for converted assistance under the demonstration through contracts, use agreements, regulations, or other means: Provided further, That the Secretary shall assess and publish findings regarding the impact of the conversion of assistance under the demonstration on the preservation and improvement of public housing, the amount of private sector leveraging as a result of such conversion, and the effect of such conversion on tenants: Provided further, That for fiscal year 2012 and hereafter, owners of properties assisted under section 101 of the Housing and Urban Development Act of 1965 \[[12 U.S.C. 1701s][/us/usc/t12/s1701s]\], section 236(f)(2) of the National Housing Act \[[12 U.S.C. 1715z–1(f)(2)][/us/usc/t12/s1715z–1/f/2]\], or section 8(e)(2) of the United States Housing Act of 1937, for which an event after October 1, 2006 has caused or results in the termination of rental assistance or affordability restrictions and the issuance of tenant protection vouchers under section 8(o) of the Act \[[42 U.S.C. 1437f][/us/usc/t42/s1437f](o)\], shall be eligible, subject to requirements established by the Secretary, including but not limited to tenant consultation procedures, for conversion of assistance available for such vouchers to assistance under a long-term project-based subsidy contract under section 8 of the Act, which shall have a term of no less than 20 years, with rent adjustments only by an operating cost factor established by the Secretary, which shall be eligible for renewal under section 524 of the Multifamily Assisted Housing Reform and Affordability Act of 1997 ([42 U.S.C. 1437f][/us/usc/t42/s1437f] note), or, subject to agreement of the administering public housing agency, to assistance under section 8(o)(13) of the Act, to which the limitation under subsection (B) of section 8(o)(13) of the Act shall not apply and for which the Secretary of Housing and Urban Development may waive or alter the provisions of subparagraphs (C) and (D) of section 8(o)(13) of the Act: Provided further, That amounts made available under the heading ‘Rental Housing Assistance’ during the period of conversion under the previous proviso shall be available for project-based subsidy contracts entered into pursuant to the previous proviso: Provided further, That amounts, including contract authority, recaptured from contracts following a conversion under the previous two provisos are hereby rescinded and an amount of additional new budget authority, equivalent to the amount rescinded is hereby appropriated, to remain available until expended for such conversions: Provided further, That the Secretary may transfer amounts made available under the heading ‘Rental Housing Assistance’, amounts made available for tenant protection vouchers under the heading ‘Tenant-Based Rental Assistance’ and specifically associated with any such conversions, and amounts made available under the previous proviso as needed to the account under the ‘Project-Based Rental Assistance’ heading to facilitate conversion under the three previous provisos and any increase in cost for ‘Project-Based Rental Assistance’ associated with such conversion shall be equal to amounts so transferred: Provided further, That with respect to the previous four provisos, the Comptroller General of the United States shall conduct a study of the long-term impact of the fiscal year 2012 and 2013 conversion of tenant protection vouchers to assistance under section 8(o)(13) of the Act on the ratio of tenant-based vouchers to project-based vouchers.”
 
  __Conversion of HUD Contracts__ 
 
-[Pub. L. 110–289, div. A, title VI, § 1603][/us/pl/110/289/s1603], July 30, 2008, [122 Stat. 2825][/us/stat/122/2825], provided that:
+[Pub. L. 110–289, div. A, title VI][/us/pl/110/289/dA/tVI], § 1603, July 30, 2008, [122 Stat. 2825][/us/stat/122/2825], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1863,7 +1863,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __Purposes of Mark-to-Market Extension Act of 2001__ 
 
-[Pub. L. 107–116, title VI, § 602][/us/pl/107/116/s602], Jan. 10, 2002, [115 Stat. 2221][/us/stat/115/2221], provided that: 
+[Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 602, Jan. 10, 2002, [115 Stat. 2221][/us/stat/115/2221], provided that: 
 
 > “The purposes of this title \[see Short Title of 2002 Amendment note set out under [section 1437 of this title][/us/usc/t42/s1437]\] are—
 
@@ -1887,21 +1887,21 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __Pilot Program for Homeownership Assistance for Disabled Families__ 
 
-    [Pub. L. 106–569, title III, § 302][/us/pl/106/569/s302], Dec. 27, 2000, [114 Stat. 2953][/us/stat/114/2953], authorized a public housing agency providing tenant-based assistance to provide homeownership assistance to a disabled family that purchases a dwelling unit (including a dwelling unit under a lease-purchase agreement) that will be owned by one or more members of the disabled family and will be occupied by the disabled family and required the Secretary of Housing and Urban Development to issue implementing regulations not later than 90 days after Dec. 27, 2000.
+    [Pub. L. 106–569, title III][/us/pl/106/569/tIII], § 302, Dec. 27, 2000, [114 Stat. 2953][/us/stat/114/2953], authorized a public housing agency providing tenant-based assistance to provide homeownership assistance to a disabled family that purchases a dwelling unit (including a dwelling unit under a lease-purchase agreement) that will be owned by one or more members of the disabled family and will be occupied by the disabled family and required the Secretary of Housing and Urban Development to issue implementing regulations not later than 90 days after Dec. 27, 2000.
 
  __Determination of Administrative Fees__ 
 
-[Pub. L. 108–7, div. K, title II][/us/pl/108/7], \[(5)\], Feb. 20, 2003, [117 Stat. 485][/us/stat/117/485], which provided that the fee otherwise authorized under subsec. (q) of this section was to be determined in accordance with subsec. (q) as in effect immediately before Oct. 21, 1998, was from the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2003 and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+[Pub. L. 108–7, div. K, title II][/us/pl/108/7/dK/tII], \[(5)\], Feb. 20, 2003, [117 Stat. 485][/us/stat/117/485], which provided that the fee otherwise authorized under subsec. (q) of this section was to be determined in accordance with subsec. (q) as in effect immediately before Oct. 21, 1998, was from the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2003 and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 107–73, title II][/us/pl/107/73], Nov. 26, 2001, [115 Stat. 660][/us/stat/115/660].
+    [Pub. L. 107–73, title II][/us/pl/107/73/tII], Nov. 26, 2001, [115 Stat. 660][/us/stat/115/660].
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–12.
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–12.
 
-    [Pub. L. 106–74, title II][/us/pl/106/74], Oct. 20, 1999, [113 Stat. 1056][/us/stat/113/1056].
+    [Pub. L. 106–74, title II][/us/pl/106/74/tII], Oct. 20, 1999, [113 Stat. 1056][/us/stat/113/1056].
 
  __Homeownership Opportunities Demonstration Program__ 
 
-[Pub. L. 105–276, title V, § 555(b)][/us/pl/105/276/s555/b], Oct. 21, 1998, [112 Stat. 2613][/us/stat/112/2613], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 555(b), Oct. 21, 1998, [112 Stat. 2613][/us/stat/112/2613], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1913,7 +1913,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __Multifamily Housing Assistance__ 
 
-[Pub. L. 105–65, title V][/us/pl/105/65], subtitle A (§§ 511–524), subtitle D (§§ 571–579), Oct. 27, 1997, [111 Stat. 1385–1408][/us/stat/111/1385-1408], 1420–1423, as amended by [Pub. L. 105–276, title V][/us/pl/105/276], §§ 549(c), 597(b), Oct. 21, 1998, [112 Stat. 2608][/us/stat/112/2608], 2659; [Pub. L. 106–74, title II][/us/pl/106/74], §§ 213(b), 219, title V, §§ 531(a)–(c), 534, 538(b), Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074], 1075, 1109–1116, 1120, 1123; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–116, title VI][/us/pl/107/116], §§ 611–614, 616(a)(1), (b), 621, 622(a), 623(a), 624, 625, Jan. 10, 2002, [115 Stat. 2222–2227][/us/stat/115/2222-2227]; [Pub. L. 109–289, div. B, title II, § 21043(a)][/us/pl/109/289/s21043/a], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 53][/us/stat/121/53]; [Pub. L. 110–289, div. A, title II, § 1216(d)][/us/pl/110/289/s1216/d], July 30, 2008, [122 Stat. 2792][/us/stat/122/2792]; [Pub. L. 112–55, div. C, title II, § 237][/us/pl/112/55/s237], Nov. 18, 2011, [125 Stat. 702][/us/stat/125/702]; [Pub. L. 113–235, div. K, title II, § 232][/us/pl/113/235/s232], Dec. 16, 2014, [128 Stat. 2757][/us/stat/128/2757], provided that:
+[Pub. L. 105–65, title V][/us/pl/105/65/tV], subtitle A (§§ 511–524), subtitle D (§§ 571–579), Oct. 27, 1997, [111 Stat. 1385–1408][/us/stat/111/1385-1408], 1420–1423, as amended by [Pub. L. 105–276, title V][/us/pl/105/276/tV], §§ 549(c), 597(b), Oct. 21, 1998, [112 Stat. 2608][/us/stat/112/2608], 2659; [Pub. L. 106–74, title II][/us/pl/106/74/tII], §§ 213(b), 219, title V, §§ 531(a)–(c), 534, 538(b), Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074], 1075, 1109–1116, 1120, 1123; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–116, title VI][/us/pl/107/116/tVI], §§ 611–614, 616(a)(1), (b), 621, 622(a), 623(a), 624, 625, Jan. 10, 2002, [115 Stat. 2222–2227][/us/stat/115/2222-2227]; [Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 21043(a), as added by [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 53][/us/stat/121/53]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1216(d), July 30, 2008, [122 Stat. 2792][/us/stat/122/2792]; [Pub. L. 112–55, div. C, title II][/us/pl/112/55/dC/tII], § 237, Nov. 18, 2011, [125 Stat. 702][/us/stat/125/702]; [Pub. L. 113–235, div. K, title II][/us/pl/113/235/dK/tII], § 232, Dec. 16, 2014, [128 Stat. 2757][/us/stat/128/2757], provided that:
 
 > “subtitle a— __fha-insured multifamily housing mortgage and housing assistance restructuring__ 
 
@@ -3011,7 +3011,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 > “subtitle d— __office of multifamily housing assistance restructuring__ 
 
-> “\[SECS. 571 to 578. Repealed. [Pub. L. 105–65, title V, § 579(a)(2)][/us/pl/105/65/s579/a/2], as added by [Pub. L. 107–116, title VI, § 621(1)][/us/pl/107/116/s621/1], Jan. 10, 2002, [115 Stat. 2226][/us/stat/115/2226].\]
+> “\[SECS. 571 to 578. Repealed. [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 579(a)(2), as added by [Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 621(1), Jan. 10, 2002, [115 Stat. 2226][/us/stat/115/2226].\]
 
 > “SEC. 579. __TERMINATION.__ 
 
@@ -3037,31 +3037,31 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     Effective upon the repeal of subtitle D under subsection (a)(2) of this section, all authority and responsibilities to administer the program under subtitle A are transferred to the Secretary.”
 
-\[[Pub. L. 109–289, div. B, title II, § 21043(b)][/us/pl/109/289/s21043/b], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 53][/us/stat/121/53], provided that: 
+\[[Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 21043(b), as added by [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 53][/us/stat/121/53], provided that: 
 
 > “The repeal made by section 579(a)(1) of the Multifamily Assisted Housing Reform and Affordability Act of 1997 \[[Pub. L. 105–65][/us/pl/105/65], set out above\] shall be deemed not to have taken effect before the date of the enactment of the Revised Continuing Appropriations Resolution, 2007 \[Feb. 15, 2007\], and subtitle A of such Act \[set out above\] shall be in effect as if no such repeal had been made before such date of enactment.”
 
 \]
 
-\[[Pub. L. 107–116, title VI, § 616(a)(2)][/us/pl/107/116/s616/a/2], Jan. 10, 2002, [115 Stat. 2225][/us/stat/115/2225], provided that: 
+\[[Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 616(a)(2), Jan. 10, 2002, [115 Stat. 2225][/us/stat/115/2225], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[amending [section 514 of Pub. L. 105–65][/us/pl/105/65/s514], set out above\] is deemed to have taken effect on the date of the enactment of [Public Law 106–74][/us/pl/106/74] \[Oct. 20, 1999\] ([113 Stat. 1109][/us/stat/113/1109]).”
 
 \]
 
-\[[Pub. L. 107–116, title VI, § 622(b)][/us/pl/107/116/s622/b], Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227], provided that: 
+\[[Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 622(b), Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 572(a) of Pub. L. 105–65][/us/pl/105/65/s572/a], set out above\] shall apply to the first Director of the Office of Multifamily Housing Assistance Restructuring of the Department of Housing and Urban Development appointed after the date of the enactment of this Act \[Jan. 10, 2002\], and any such Director appointed thereafter.”
 
 \]
 
-\[[Pub. L. 107–116, title VI, § 623(b)][/us/pl/107/116/s623/b], Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227], provided that: 
+\[[Pub. L. 107–116, title VI][/us/pl/107/116/tVI], § 623(b), Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 572(b) of Pub. L. 105–65][/us/pl/105/65/s572/b], set out above\] shall apply to any vacancy in the position of Director of the Office of Multifamily Housing Assistance Restructuring of the Department of Housing and Urban Development which occurs or exists after the date of the enactment of this Act \[Jan. 10, 2002\].”
 
 \]
 
-\[[Pub. L. 105–276, title V, § 597(c)][/us/pl/105/276/s597/c], Oct. 21, 1998, [112 Stat. 2659][/us/stat/112/2659], provided that: 
+\[[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 597(c), Oct. 21, 1998, [112 Stat. 2659][/us/stat/112/2659], provided that: 
 
 > “This section \[amending [section 524(a)(2) of Pub. L. 105–65][/us/pl/105/65/s524/a/2], set out above\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -3069,11 +3069,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
  __GAO Report on Section 8 Rental Assistance for Multifamily Housing Projects__ 
 
-    [Pub. L. 105–65, title V, § 532][/us/pl/105/65/s532], Oct. 27, 1997, [111 Stat. 1411][/us/stat/111/1411], directed the Comptroller General of the United States to report to the Congress on section 8 ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) rental assistance for multifamily housing projects, including an analysis of how State and local housing finance agencies had benefited from rental assistance and the effectiveness of project oversight, not later than the expiration of the 18-month period beginning on Oct. 27, 1997.
+    [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 532, Oct. 27, 1997, [111 Stat. 1411][/us/stat/111/1411], directed the Comptroller General of the United States to report to the Congress on section 8 ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) rental assistance for multifamily housing projects, including an analysis of how State and local housing finance agencies had benefited from rental assistance and the effectiveness of project oversight, not later than the expiration of the 18-month period beginning on Oct. 27, 1997.
 
  __Administrative Fees for Certificate and Housing Voucher Programs__ 
 
-[Pub. L. 104–204, title II, § 202][/us/pl/104/204/s202], Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893], provided that: 
+[Pub. L. 104–204, title II][/us/pl/104/204/tII], § 202, Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893], provided that: 
 
 > “Notwithstanding section 8(q) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(q)][/us/usc/t42/s1437f/q]\], as amended—
 
@@ -3113,13 +3113,13 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 Similar provisions were contained in the following prior appropriations Acts:
 
-    [Pub. L. 104–99, title IV, § 403(b)][/us/pl/104/99/s403/b], Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43].
+    [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 403(b), Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43].
 
-    [Pub. L. 103–120, § 11(a)][/us/pl/103/120/s11/a], Oct. 27, 1993, [107 Stat. 1151][/us/stat/107/1151].
+    [Pub. L. 103–120][/us/pl/103/120], § 11(a), Oct. 27, 1993, [107 Stat. 1151][/us/stat/107/1151].
 
  __Contract Renewals__ 
 
-[Pub. L. 104–204, title II, § 211][/us/pl/104/204/s211], Sept. 26, 1996, [110 Stat. 2895][/us/stat/110/2895], as amended by [Pub. L. 105–18, title II, § 10006][/us/pl/105/18/s10006], June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–65, title V, § 523(e)][/us/pl/105/65/s523/e], Oct. 27, 1997, [111 Stat. 1407][/us/stat/111/1407]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
+[Pub. L. 104–204, title II][/us/pl/104/204/tII], § 211, Sept. 26, 1996, [110 Stat. 2895][/us/stat/110/2895], as amended by [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 10006, June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 523(e), Oct. 27, 1997, [111 Stat. 1407][/us/stat/111/1407]; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -3181,11 +3181,11 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >         Any family residing in an assisted unit in a multifamily housing project that is covered by an expiring contract that is not renewed, shall be offered tenant-based assistance before the date on which the contract expires or is not renewed.”
 
-[Pub. L. 104–120, § 2(a)][/us/pl/104/120/s2/a], Mar. 28, 1996, [110 Stat. 834][/us/stat/110/834], provided that: 
+[Pub. L. 104–120][/us/pl/104/120], § 2(a), Mar. 28, 1996, [110 Stat. 834][/us/stat/110/834], provided that: 
 
 > “Notwithstanding section 405(b) of the Balanced Budget Downpayment Act, I ([Public Law 104–99][/us/pl/104/99]; [110 Stat. 44][/us/stat/110/44]) \[set out below\], at the request of the owner of any project assisted under section 8(e)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(e)(2)][/us/usc/t42/s1437f/e/2]\] (as such section existed immediately before October 1, 1991), the Secretary of Housing and Urban Development may renew, for a period of 1 year, the contract for assistance under such section for such project that expires or terminates during fiscal year 1996 at current rent levels.”
 
-[Pub. L. 104–99, title IV, § 405(a)][/us/pl/104/99/s405/a], (b), Jan. 26, 1996, [110 Stat. 44][/us/stat/110/44], as amended by [Pub. L. 105–65, title V, § 523(d)][/us/pl/105/65/s523/d], Oct. 27, 1997, [111 Stat. 1407][/us/stat/111/1407], provided that:
+[Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 405(a), (b), Jan. 26, 1996, [110 Stat. 44][/us/stat/110/44], as amended by [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 523(d), Oct. 27, 1997, [111 Stat. 1407][/us/stat/111/1407], provided that:
 
 >     “(a) Notwithstanding part 24 of title 24 of the Code of Federal Regulations, for fiscal year 1996 and henceforth, the Secretary of Housing and Urban Development may use amounts available for the renewal of assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], upon termination or expiration of a contract for assistance under section 8 of such Act of 1937 (other than a contract for tenant-based assistance and notwithstanding section 8(v) of such Act for loan management assistance), to provide assistance under section 8 of such Act, subject to the Section 8 Existing Fair Market Rents, for the eligible families assisted under the contracts at expiration or termination, which assistance shall be in accordance with terms and conditions prescribed by the Secretary.
 
@@ -3193,7 +3193,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __FHA Multifamily Demonstration Authority__ 
 
-[Pub. L. 104–204, title II, § 212][/us/pl/104/204/s212], Sept. 26, 1996, [110 Stat. 2897][/us/stat/110/2897], as amended by [Pub. L. 105–65, title V, § 523(f)][/us/pl/105/65/s523/f], Oct. 27, 1997, [111 Stat. 1407][/us/stat/111/1407], provided that:
+[Pub. L. 104–204, title II][/us/pl/104/204/tII], § 212, Sept. 26, 1996, [110 Stat. 2897][/us/stat/110/2897], as amended by [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 523(f), Oct. 27, 1997, [111 Stat. 1407][/us/stat/111/1407], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -3463,15 +3463,15 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >             “(B) any findings and recommendations for legislative action.”
 
-    Section 101(e) \[title II, § 210\] of title I of [Pub. L. 104–134][/us/pl/104/134], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–285; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], which authorized the Secretary of Housing and Urban Development on and after Oct. 1, 1995, and before Oct. 1, 1997, to initiate a FHA multifamily demonstration program, was repealed by [Pub. L. 104–204, title II, § 212(a)(1)(A)][/us/pl/104/204/s212/a/1/A], Sept. 26, 1996, [110 Stat. 2897][/us/stat/110/2897].
+    Section 101(e) \[title II, § 210\] of title I of [Pub. L. 104–134][/us/pl/104/134], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–285; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], which authorized the Secretary of Housing and Urban Development on and after Oct. 1, 1995, and before Oct. 1, 1997, to initiate a FHA multifamily demonstration program, was repealed by [Pub. L. 104–204, title II][/us/pl/104/204/tII], § 212(a)(1)(A), Sept. 26, 1996, [110 Stat. 2897][/us/stat/110/2897].
 
  __Public Housing Moving to Work Demonstration__ 
 
-[Pub. L. 114–113, div. L, title II, § 239][/us/pl/114/113/s239], Dec. 18, 2015, [129 Stat. 2897][/us/stat/129/2897], provided that: 
+[Pub. L. 114–113, div. L, title II][/us/pl/114/113/dL/tII], § 239, Dec. 18, 2015, [129 Stat. 2897][/us/stat/129/2897], provided that: 
 
 > “The Secretary of Housing and Urban Development shall increase, pursuant to this section, the number of Moving to Work agencies authorized under section 204, title II, of the Departments of Veterans Affairs and Housing and Urban Development and Independent Agencies Appropriations Act, 1996 ([Public Law 104–134][/us/pl/104/134]; [110 Stat. 1321][/us/stat/110/1321]) \[set out below\] by adding to the program 100 public housing agencies that are designated as high performing agencies under the Public Housing Assessment System (PHAS) or the Section Eight Management Assessment Program (SEMAP). No public housing agency shall be granted this designation through this section that administers in excess of 27,000 aggregate housing vouchers and public housing units. Of the agencies selected under this section, no less than 50 shall administer 1,000 or fewer aggregate housing voucher and public housing units, no less than 47 shall administer 1,001-6,000 aggregate housing voucher and public housing units, and no more than 3 shall administer 6,001–27,000 aggregate housing voucher and public housing units. Of the 100 agencies selected under this section, five shall be agencies with portfolio awards under the Rental Assistance Demonstration that meet the other requirements of this section, including current designations as high performing agencies or such designations held immediately prior to such portfolio awards. Selection of agencies under this section shall be based on ensuring the geographic diversity of Moving to Work agencies. In addition to the preceding selection criteria, agencies shall be designated by the Secretary over a 7-year period. The Secretary shall establish a research advisory committee which shall advise the Secretary with respect to specific policy proposals and methods of research and evaluation for the demonstration. The advisory committee shall include program and research experts from the Department, a fair representation of agencies with a Moving to Work designation, and independent subject matter experts in housing policy research. For each cohort of agencies receiving a designation under this heading, the Secretary shall direct one specific policy change to be implemented by the agencies, and with the approval of the Secretary, such agencies may implement additional policy changes. All agencies designated under this section shall be evaluated through rigorous research as determined by the Secretary, and shall provide information requested by the Secretary to support such oversight and evaluation, including the targeted policy changes. Research and evaluation shall be coordinated under the direction of the Secretary, and in consultation with the advisory committee, and findings shall be shared broadly. The Secretary shall consult the advisory committee with respect to policy changes that have proven successful and can be applied more broadly to all public housing agencies, and propose any necessary statutory changes. The Secretary may, at the request of a Moving to Work agency and one or more adjacent public housing agencies in the same area, designate that Moving to Work agency as a regional agency. A regional Moving to Work agency may administer the assistance under sections 8 and 9 of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f] and \[1437\]g) for the participating agencies within its region pursuant to the terms of its Moving to Work agreement with the Secretary. The Secretary may agree to extend the term of the agreement and to make any necessary changes to accommodate regionalization. A Moving to Work agency may be selected as a regional agency if the Secretary determines that unified administration of assistance under sections 8 and 9 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f], 1437g\] by that agency across multiple jurisdictions will lead to efficiencies and to greater housing choice for low-income persons in the region. For purposes of this expansion, in addition to the provisions of the Act retained in section 204, section 8(r)(1) of the Act \[[42 U.S.C. 1437f(r)(1)][/us/usc/t42/s1437f/r/1]\] shall continue to apply unless the Secretary determines that waiver of this section is necessary to implement comprehensive rent reform and occupancy policies subject to evaluation by the Secretary, and the waiver contains, at a minimum, exceptions for requests to port due to employment, education, health and safety. No public housing agency granted this designation through this section shall receive more funding under sections 8 or 9 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f], 1437g\] than it otherwise would have received absent this designation. The Secretary shall extend the current Moving to Work agreements of previously designated participating agencies until the end of each such agency’s fiscal year 2028 under the same terms and conditions of such current agreements, except for any changes to such terms or conditions otherwise mutually agreed upon by the Secretary and any such agency and such extension agreements shall prohibit any statutory offset of any reserve balances equal to 4 months of operating expenses. Any such reserve balances that exceed such amount shall remain available to any such agency for all permissible purposes under such agreement unless subject to a statutory offset. In addition to other reporting requirements, all Moving to Work agencies shall report financial data to the Department of Housing and Urban Development as specified by the Secretary, so that the effect of Moving to Work policy changes can be measured.”
 
-[Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 204\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, as amended by [Pub. L. 105–276, title V, § 522(b)(3)][/us/pl/105/276/s522/b/3], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564], provided that:
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, § 204\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, as amended by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(b)(3), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -3577,7 +3577,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Prohibition Against Preferences With Respect to Certain Projects__ 
 
-[Pub. L. 104–99, title IV, § 402(d)(4)(B)][/us/pl/104/99/s402/d/4/B], Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42], provided that: 
+[Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(4)(B), Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42], provided that: 
 
 > “Notwithstanding any other provision of law, no Federal tenant selection preferences under the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\] shall apply with respect to—
 
@@ -3585,7 +3585,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >     “(ii) projects financed under section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\] (as such section existed on the day before the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\]).”
 
-\[[Pub. L. 105–276, title V, § 514(c)(2)][/us/pl/105/276/s514/c/2], Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548], provided that: 
+\[[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 514(c)(2), Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548], provided that: 
 
 > “Notwithstanding any other provision of law (including subsection (f) of this section \[set out as an Effective and Termination Dates of 1996 Amendments note under [section 1437a of this title][/us/usc/t42/s1437a]\]), section 402(d)(4)(B) of The Balanced Budget Downpayment Act, I \[[Pub. L. 104–99][/us/pl/104/99], set out above\] ([42 U.S.C. 1437a][/us/usc/t42/s1437a] note) shall apply to fiscal year 1999 and thereafter.”
 
@@ -3595,7 +3595,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Community Investment Demonstration Program__ 
 
-[Pub. L. 103–120, § 6][/us/pl/103/120/s6], Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148], as amended by [Pub. L. 104–316, title I, § 122(j)][/us/pl/104/316/s122/j], Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837], provided that:
+[Pub. L. 103–120][/us/pl/103/120], § 6, Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148], as amended by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(j), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837], provided that:
 
 >     “(a)  __Demonstration Program__  __.—__ 
 
@@ -3669,7 +3669,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Administrative Fees for Certificate and Housing Voucher Programs During Fiscal Year 1994__ 
 
-[Pub. L. 103–120, § 11(a)][/us/pl/103/120/s11/a], Oct. 27, 1993, [107 Stat. 1151][/us/stat/107/1151], provided that: 
+[Pub. L. 103–120][/us/pl/103/120], § 11(a), Oct. 27, 1993, [107 Stat. 1151][/us/stat/107/1151], provided that: 
 
 > “Notwithstanding the second sentence of section 8(q)(1) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(q)(1)][/us/usc/t42/s1437f/q/1]\], other applicable law, or any implementing regulations and related requirements, the fee for the ongoing costs of administering the certificate and housing voucher programs under subsections (b) and (o) of section 8 of such Act during fiscal year 1994 shall be—
 
@@ -3685,17 +3685,17 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Effectiveness of Assistance for PHA-Owned Units__ 
 
-[Pub. L. 102–550, title I, § 150][/us/pl/102/550/s150], Oct. 28, 1992, [106 Stat. 3715][/us/stat/106/3715], provided that: 
+[Pub. L. 102–550, title I][/us/pl/102/550/tI], § 150, Oct. 28, 1992, [106 Stat. 3715][/us/stat/106/3715], provided that: 
 
 > “The amendments made by section 548 of the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], amending this section\] shall be effective notwithstanding the absence of any regulations issued by the Secretary of Housing and Urban Development.”
 
  __Moving to Opportunity for Fair Housing__ 
 
-    [Pub. L. 102–550, title I, § 152][/us/pl/102/550/s152], Oct. 28, 1992, [106 Stat. 3716][/us/stat/106/3716], as amended by [Pub. L. 103–120, § 3][/us/pl/103/120/s3], Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148], which directed Secretary of Housing and Urban Development to carry out demonstration program in eligible cities to provide tenant-based assistance to very low-income families with children to move out of areas of high concentrations of persons living in poverty to areas with low concentrations of such persons, required biennial report to Congress evaluating effectiveness and final report not later than Sept. 30, 2004, provided for increased funding under [section 1437c(c) of this title][/us/usc/t42/s1437c/c] to carry out demonstration, and authorized implementation by notice of requirements necessary to carry out program, was repealed by [Pub. L. 105–276, title V, § 550(f)][/us/pl/105/276/s550/f], Oct. 21, 1998, [112 Stat. 2610][/us/stat/112/2610].
+    [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 152, Oct. 28, 1992, [106 Stat. 3716][/us/stat/106/3716], as amended by [Pub. L. 103–120][/us/pl/103/120], § 3, Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148], which directed Secretary of Housing and Urban Development to carry out demonstration program in eligible cities to provide tenant-based assistance to very low-income families with children to move out of areas of high concentrations of persons living in poverty to areas with low concentrations of such persons, required biennial report to Congress evaluating effectiveness and final report not later than Sept. 30, 2004, provided for increased funding under [section 1437c(c) of this title][/us/usc/t42/s1437c/c] to carry out demonstration, and authorized implementation by notice of requirements necessary to carry out program, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 550(f), Oct. 21, 1998, [112 Stat. 2610][/us/stat/112/2610].
 
  __Directive to Further Fair Housing Objectives Under Certificate and Voucher Programs__ 
 
-    [Pub. L. 102–550, title I, § 153][/us/pl/102/550/s153], Oct. 28, 1992, [106 Stat. 3717][/us/stat/106/3717], which directed Secretary of Housing and Urban Development, not later than 2 years after Oct. 28, 1992, to review and comment upon study prepared pursuant to [section 558(3) of Pub. L. 101–625][/us/pl/101/625/s558/3], formerly set out as a note below, to evaluate implementation and effects of existing demonstration and judicially mandated programs, to assess factors that might impede geographic dispersion of families receiving section 8 certificates and vouchers, to identify and implement administrative revisions that would enhance dispersion and tenant choice, and to submit report to Congress describing findings, actions taken, and recommendations, was repealed by [Pub. L. 105–276, title V, § 582(a)(3)][/us/pl/105/276/s582/a/3], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
+    [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 153, Oct. 28, 1992, [106 Stat. 3717][/us/stat/106/3717], which directed Secretary of Housing and Urban Development, not later than 2 years after Oct. 28, 1992, to review and comment upon study prepared pursuant to [section 558(3) of Pub. L. 101–625][/us/pl/101/625/s558/3], formerly set out as a note below, to evaluate implementation and effects of existing demonstration and judicially mandated programs, to assess factors that might impede geographic dispersion of families receiving section 8 certificates and vouchers, to identify and implement administrative revisions that would enhance dispersion and tenant choice, and to submit report to Congress describing findings, actions taken, and recommendations, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(3), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
 
  __Inapplicability of Certain 1992 Amendments to Indian Public Housing__ 
 
@@ -3707,27 +3707,27 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Public Housing Mixed Income New Communities Strategy Demonstration__ 
 
-    [Pub. L. 101–625, title V, § 522][/us/pl/101/625/s522], Nov. 28, 1990, [104 Stat. 4207][/us/stat/104/4207], as amended by [Pub. L. 104–66, title I, § 1071(b)][/us/pl/104/66/s1071/b], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720]; [Pub. L. 104–99, title IV, § 402(d)(6)(B)][/us/pl/104/99/s402/d/6/B], Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43], which directed Secretary of Housing and Urban Development to carry out program to demonstrate effectiveness of promoting revitalization of troubled urban communities through provision of public housing in socioeconomically mixed settings, directed appointment of coordinating committees to develop implementation plans, set forth scope of program including provision of supportive services, required report to Congress evaluating program’s effectiveness and including findings and recommendations, and provided for termination of the program 10 years after Nov. 28, 1990, was repealed by [Pub. L. 105–276, title V, § 582(a)(10)][/us/pl/105/276/s582/a/10], Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 522, Nov. 28, 1990, [104 Stat. 4207][/us/stat/104/4207], as amended by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1071(b), Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(6)(B), Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43], which directed Secretary of Housing and Urban Development to carry out program to demonstrate effectiveness of promoting revitalization of troubled urban communities through provision of public housing in socioeconomically mixed settings, directed appointment of coordinating committees to develop implementation plans, set forth scope of program including provision of supportive services, required report to Congress evaluating program’s effectiveness and including findings and recommendations, and provided for termination of the program 10 years after Nov. 28, 1990, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(10), Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
 
  __Study of Public Housing Funding System__ 
 
-    [Pub. L. 101–625, title V, § 524][/us/pl/101/625/s524], Nov. 28, 1990, [104 Stat. 4215][/us/stat/104/4215], directed Secretary of Housing and Urban Development to conduct a study assessing one or more revised methods of providing sufficient Federal funds to public housing agencies for operation, maintenance and modernization of public housing, which study was to include a comparison of existing methods of funding in public housing with those used by Department of Housing and Urban Development in housing assisted under this section and a review of results of study entitled “Alternative Operating Subsidies Systems for the Public Housing Program”, with an update of such study as necessary, and to submit a report to Congress not later than 12 months after Nov. 28, 1990, detailing the findings of this study.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 524, Nov. 28, 1990, [104 Stat. 4215][/us/stat/104/4215], directed Secretary of Housing and Urban Development to conduct a study assessing one or more revised methods of providing sufficient Federal funds to public housing agencies for operation, maintenance and modernization of public housing, which study was to include a comparison of existing methods of funding in public housing with those used by Department of Housing and Urban Development in housing assisted under this section and a review of results of study entitled “Alternative Operating Subsidies Systems for the Public Housing Program”, with an update of such study as necessary, and to submit a report to Congress not later than 12 months after Nov. 28, 1990, detailing the findings of this study.
 
  __Study of Prospective Payment System for Public Housing__ 
 
-    [Pub. L. 101–625, title V, § 525][/us/pl/101/625/s525], Nov. 28, 1990, [104 Stat. 4216][/us/stat/104/4216], directed Secretary of Housing and Urban Development to conduct a study assessing one or more revised methods of providing Federal housing assistance through local public housing agencies, examining methods of prospective payment, including the conversion of PHA operating assistance, modernization, and other Federal housing assistance to a schedule of steady and predictable capitated Federal payments on behalf of low income public housing tenants, and making specific assessments and to submit a report to Congress not later than 12 months after Nov. 28, 1990.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 525, Nov. 28, 1990, [104 Stat. 4216][/us/stat/104/4216], directed Secretary of Housing and Urban Development to conduct a study assessing one or more revised methods of providing Federal housing assistance through local public housing agencies, examining methods of prospective payment, including the conversion of PHA operating assistance, modernization, and other Federal housing assistance to a schedule of steady and predictable capitated Federal payments on behalf of low income public housing tenants, and making specific assessments and to submit a report to Congress not later than 12 months after Nov. 28, 1990.
 
  __GAO Study of Alternatives in Public Housing Development__ 
 
-    [Pub. L. 101–625, title V, § 526][/us/pl/101/625/s526], Nov. 28, 1990, [104 Stat. 4216][/us/stat/104/4216], directed Comptroller General to conduct a study assessing alternative methods of developing public housing dwelling units, other than under the existing public housing development program under this chapter, and submit a report to Congress regarding the findings and conclusions of the study not later than 12 months after Nov. 28, 1990.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 526, Nov. 28, 1990, [104 Stat. 4216][/us/stat/104/4216], directed Comptroller General to conduct a study assessing alternative methods of developing public housing dwelling units, other than under the existing public housing development program under this chapter, and submit a report to Congress regarding the findings and conclusions of the study not later than 12 months after Nov. 28, 1990.
 
  __Preference for New Construction Under This Section__ 
 
-    [Pub. L. 101–625, title V, § 545(c)][/us/pl/101/625/s545/c], Nov. 28, 1990, [104 Stat. 4220][/us/stat/104/4220], as amended by [Pub. L. 104–99, title IV, § 402(d)(4)(A)][/us/pl/104/99/s402/d/4/A], Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42], which provided that, with respect to housing constructed or substantially rehabilitated pursuant to assistance provided under subsec. (b)(2) of this section, as such provisions existed before Oct. 1, 1983, and projects financed under [section 1701q of Title 12][/us/usc/t12/s1701q], Banks and Banking, notwithstanding tenant selection criteria under contract between Secretary and owner pursuant to first sentence of such section, for at least 70 percent of units becoming available, tenant selection criteria for such housing was to give preference to families occupying substandard housing (including homeless families and those living in shelters), paying more than 50 percent of family income for rent, or involuntarily displaced, and system of local preferences established under subsec. (d)(1)(A)(ii) of this section by public housing agency was to apply to remaining units that became available, to extent that such preferences were applicable with respect to tenant eligibility limitations, was repealed by [Pub. L. 105–276, title V, § 514(c)(1)][/us/pl/105/276/s514/c/1], Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548].
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 545(c), Nov. 28, 1990, [104 Stat. 4220][/us/stat/104/4220], as amended by [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(4)(A), Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42], which provided that, with respect to housing constructed or substantially rehabilitated pursuant to assistance provided under subsec. (b)(2) of this section, as such provisions existed before Oct. 1, 1983, and projects financed under [section 1701q of Title 12][/us/usc/t12/s1701q], Banks and Banking, notwithstanding tenant selection criteria under contract between Secretary and owner pursuant to first sentence of such section, for at least 70 percent of units becoming available, tenant selection criteria for such housing was to give preference to families occupying substandard housing (including homeless families and those living in shelters), paying more than 50 percent of family income for rent, or involuntarily displaced, and system of local preferences established under subsec. (d)(1)(A)(ii) of this section by public housing agency was to apply to remaining units that became available, to extent that such preferences were applicable with respect to tenant eligibility limitations, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 514(c)(1), Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548].
 
  __Documentation of Excessive Rent Burdens__ 
 
-[Pub. L. 101–625, title V, § 550(b)][/us/pl/101/625/s550/b], Nov. 28, 1990, [104 Stat. 4222][/us/stat/104/4222], provided that:
+[Pub. L. 101–625, title V][/us/pl/101/625/tV], § 550(b), Nov. 28, 1990, [104 Stat. 4222][/us/stat/104/4222], provided that:
 
 >     “(1)  __Data__  __.—__ 
 
@@ -3745,33 +3745,33 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Income Eligibility for Tenancy in New Construction Units__ 
 
-[Pub. L. 101–625, title V, § 555][/us/pl/101/625/s555], Nov. 28, 1990, [104 Stat. 4233][/us/stat/104/4233], provided that: 
+[Pub. L. 101–625, title V][/us/pl/101/625/tV], § 555, Nov. 28, 1990, [104 Stat. 4233][/us/stat/104/4233], provided that: 
 
 > “Any dwelling units in any housing constructed or substantially rehabilitated pursuant to assistance provided under section 8(b)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(b)(2)][/us/usc/t42/s1437f/b/2]\], as such section existed before October 1, 1983, and with a contract for assistance under such section, shall be reserved for occupancy by low-income families and very low-income families.”
 
  __GAO Study Regarding Fair Market Rent Calculation__ 
 
-    [Pub. L. 101–625, title V, § 558][/us/pl/101/625/s558], Nov. 28, 1990, [104 Stat. 4233][/us/stat/104/4233], directed Comptroller General to conduct a study to examine fair market rentals under subsec. (c)(1) of this section which are wholly contained within such market areas and submit a report to Congress not later than 18 months after Nov. 28, 1990, regarding findings and conclusions.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 558, Nov. 28, 1990, [104 Stat. 4233][/us/stat/104/4233], directed Comptroller General to conduct a study to examine fair market rentals under subsec. (c)(1) of this section which are wholly contained within such market areas and submit a report to Congress not later than 18 months after Nov. 28, 1990, regarding findings and conclusions.
 
  __Study of Utilization Rates__ 
 
-    [Pub. L. 101–625, title V, § 559][/us/pl/101/625/s559], Nov. 28, 1990, [104 Stat. 4234][/us/stat/104/4234], directed Secretary of Housing and Urban Development to conduct a study of reasons for success or failure, within appropriate cities and localities, in utilizing assistance made available for such areas under this section and submit a report to Congress concerning this study not later than the expiration of the 1-year period beginning on Nov. 28, 1990.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 559, Nov. 28, 1990, [104 Stat. 4234][/us/stat/104/4234], directed Secretary of Housing and Urban Development to conduct a study of reasons for success or failure, within appropriate cities and localities, in utilizing assistance made available for such areas under this section and submit a report to Congress concerning this study not later than the expiration of the 1-year period beginning on Nov. 28, 1990.
 
  __Feasibility Study Regarding Indian Tribe Eligibility for Voucher Program__ 
 
-    [Pub. L. 101–625, title V, § 561][/us/pl/101/625/s561], Nov. 28, 1990, [104 Stat. 4235][/us/stat/104/4235], directed Secretary of Housing and Urban Development to conduct a study to determine feasibility and effectiveness of entering into contracts with Indian housing authorities to provide voucher assistance under subsec. (o) of this section and submit a report to Congress regarding findings and conclusions not later than the expiration of the 1-year period beginning on Nov. 28, 1990.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 561, Nov. 28, 1990, [104 Stat. 4235][/us/stat/104/4235], directed Secretary of Housing and Urban Development to conduct a study to determine feasibility and effectiveness of entering into contracts with Indian housing authorities to provide voucher assistance under subsec. (o) of this section and submit a report to Congress regarding findings and conclusions not later than the expiration of the 1-year period beginning on Nov. 28, 1990.
 
  __Study of Private Nonprofit Initiatives__ 
 
-    [Pub. L. 101–625, title V, § 582][/us/pl/101/625/s582], Nov. 28, 1990, [104 Stat. 4248][/us/stat/104/4248], directed Secretary of Housing and Urban Development to conduct a study to examine how private nonprofit initiatives to provide low-income housing development in local communities across the country have succeeded, with particular emphasis on how Federal housing policy and tax structures can best promote local private nonprofit organizations involvement in low-income housing development, and submit a report to Congress regarding findings not later than 1-year after Nov. 28, 1990.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 582, Nov. 28, 1990, [104 Stat. 4248][/us/stat/104/4248], directed Secretary of Housing and Urban Development to conduct a study to examine how private nonprofit initiatives to provide low-income housing development in local communities across the country have succeeded, with particular emphasis on how Federal housing policy and tax structures can best promote local private nonprofit organizations involvement in low-income housing development, and submit a report to Congress regarding findings not later than 1-year after Nov. 28, 1990.
 
  __Preferences for Native Hawaiians on Hawaiian Homelands Under HUD Programs__ 
 
-    [Pub. L. 101–625, title IX, § 958][/us/pl/101/625/s958], Nov. 28, 1990, [104 Stat. 4422][/us/stat/104/4422], which directed Secretary of Housing and Urban Development to provide preferences for housing assistance programs to native Hawaiians in subsec. (a), described assistance programs available in subsec. (b), authorized Secretary to provide mortgage insurance in certain situations in subsec. (c), and defined pertinent terms in subsec. (d), was repealed by [Pub. L. 102–238, § 5(b)][/us/pl/102/238/s5/b], Dec. 17, 1991, [105 Stat. 1910][/us/stat/105/1910].
+    [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 958, Nov. 28, 1990, [104 Stat. 4422][/us/stat/104/4422], which directed Secretary of Housing and Urban Development to provide preferences for housing assistance programs to native Hawaiians in subsec. (a), described assistance programs available in subsec. (b), authorized Secretary to provide mortgage insurance in certain situations in subsec. (c), and defined pertinent terms in subsec. (d), was repealed by [Pub. L. 102–238][/us/pl/102/238], § 5(b), Dec. 17, 1991, [105 Stat. 1910][/us/stat/105/1910].
 
  __Authorization for Provision of Assistance to Programs Administered by State of Hawaii Under Act of__  __July 9, 1921__ 
 
-[Pub. L. 101–625, title IX, § 962][/us/pl/101/625/s962], as added by [Pub. L. 102–238, § 5(a)][/us/pl/102/238/s5/a], Dec. 17, 1991, [105 Stat. 1909][/us/stat/105/1909], provided that:
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 962, as added by [Pub. L. 102–238][/us/pl/102/238], § 5(a), Dec. 17, 1991, [105 Stat. 1909][/us/stat/105/1909], provided that:
 
 >     “(a)  __Assistance Authorized__  __.—__ 
 
@@ -3795,7 +3795,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Annual Adjustment Factors for Rents Under Lower-Income Housing Assistance Program__ 
 
-[Pub. L. 101–235, title VIII, § 801(a)][/us/pl/101/235/s801/a], (b), (d), (e), Dec. 15, 1989, [103 Stat. 2057–2059][/us/stat/103/2057-2059], provided that:
+[Pub. L. 101–235, title VIII][/us/pl/101/235/tVIII], § 801(a), (b), (d), (e), Dec. 15, 1989, [103 Stat. 2057–2059][/us/stat/103/2057-2059], provided that:
 
 >     “(a) __Effect of Prior Comparability Studies.—__ 
 
@@ -3841,13 +3841,13 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Prohibition of Reduction of Contract Rents; Budget Compliance__ 
 
-[Pub. L. 100–628, title X, § 1004(b)][/us/pl/100/628/s1004/b], Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], provided that: 
+[Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1004(b), Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], provided that: 
 
 > “During fiscal year 1989, the amendment made by subsection (a)(2) \[amending this section\] shall be effective only to such extent or in such amounts as are provided in appropriation Acts. For purposes of section 202 of the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 ([Public Law 100–119][/us/pl/100/119]) \[[2 U.S.C. 909][/us/usc/t2/s909]\], to the extent that this section has the effect of transferring an outlay of the United States from one fiscal year to an adjacent fiscal year, the transfer is a necessary (but secondary) result of a significant policy change.”
 
  __Project-Based Lower-Income Housing Assistance; Implementation of Program__ 
 
-[Pub. L. 100–628, title X, § 1005(a)][/us/pl/100/628/s1005/a], Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], provided that: 
+[Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1005(a), Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], provided that: 
 
 > “To implement the amendment made by section 148 of the Housing and Community Development Act of 1987 \[[Pub. L. 100–242][/us/pl/100/242], see 1988 Amendment note above\], the Secretary of Housing and Urban Development shall issue regulations that take effect not later than 30 days after the date of the enactment of this Act \[Nov. 7, 1988\]. Until the effective date of the regulations, the Secretary of Housing and Urban Development shall consider each application from a public housing agency to attach a contract for assistance payments to a structure, in accordance with the amendment made by such section 148 to section 8(d)(2) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(d)(2)][/us/usc/t42/s1437f/d/2]), and shall promptly approve such application if it meets the requirements of such section 8(d)(2).”
 
@@ -3859,7 +3859,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Use of Funds Recaptured From Refinancing State and Local Finance Projects__ 
 
-[Pub. L. 100–628, title X, § 1012][/us/pl/100/628/s1012], Nov. 7, 1988, [102 Stat. 3268][/us/stat/102/3268], as amended by [Pub. L. 102–273, § 2(a)][/us/pl/102/273/s2/a], (c)(1), Apr. 21, 1992, [106 Stat. 113][/us/stat/106/113]; [Pub. L. 102–550, title I, § 163][/us/pl/102/550/s163], Oct. 28, 1992, [106 Stat. 3722][/us/stat/106/3722], provided that:
+[Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1012, Nov. 7, 1988, [102 Stat. 3268][/us/stat/102/3268], as amended by [Pub. L. 102–273][/us/pl/102/273], § 2(a), (c)(1), Apr. 21, 1992, [106 Stat. 113][/us/stat/106/113]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 163, Oct. 28, 1992, [106 Stat. 3722][/us/stat/106/3722], provided that:
 
 >     “(a)  __Definition of Qualified Project__  __.—__ 
 
@@ -3889,7 +3889,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >         This section shall apply only to the extent or in such amounts as are provided in appropriation Acts.”
 
-\[[Pub. L. 102–273, § 2(b)][/us/pl/102/273/s2/b], Apr. 21, 1992, [106 Stat. 113][/us/stat/106/113], provided that: 
+\[[Pub. L. 102–273][/us/pl/102/273], § 2(b), Apr. 21, 1992, [106 Stat. 113][/us/stat/106/113], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 1012 of Pub. L. 100–628][/us/pl/100/628/s1012], set out above\] shall apply to any refinancing of a local government or local housing agency financed project approved by the Secretary of Housing and Urban Development for which settlement occurred after January 1, 1992.”
 
@@ -3897,23 +3897,23 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Public Housing Comprehensive Transition Demonstration__ 
 
-    [Pub. L. 100–242, title I, § 126][/us/pl/100/242/s126], Feb. 5, 1988, [101 Stat. 1847][/us/stat/101/1847], which directed Secretary of Housing and Urban Development to carry out program in 11 public housing agencies to demonstrate effectiveness of providing services to ensure transition of public housing residents to private housing, set forth requirements of program, and required interim report to Congress not later than 2 years after Feb. 5, 1988, and final report not later than 60 days after termination of program 7 years after such date, was repealed by [Pub. L. 105–276, title V, § 582(a)(8)][/us/pl/105/276/s582/a/8], Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
+    [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 126, Feb. 5, 1988, [101 Stat. 1847][/us/stat/101/1847], which directed Secretary of Housing and Urban Development to carry out program in 11 public housing agencies to demonstrate effectiveness of providing services to ensure transition of public housing residents to private housing, set forth requirements of program, and required interim report to Congress not later than 2 years after Feb. 5, 1988, and final report not later than 60 days after termination of program 7 years after such date, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(8), Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
 
  __Nondiscrimination Against Section 8 Certificate Holders and Voucher Holders__ 
 
-    [Pub. L. 100–242, title I, § 183(c)][/us/pl/100/242/s183/c], Feb. 5, 1988, [101 Stat. 1872][/us/stat/101/1872], which prohibited owner of subsidized project to refuse to lease dwelling unit to holder of certificate of eligibility or voucher under this section, where proximate cause of refusal was status of prospective tenant as holder of such certificate or voucher, was repealed by [Pub. L. 105–276, title V, § 582(a)(2)][/us/pl/105/276/s582/a/2], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
+    [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 183(c), Feb. 5, 1988, [101 Stat. 1872][/us/stat/101/1872], which prohibited owner of subsidized project to refuse to lease dwelling unit to holder of certificate of eligibility or voucher under this section, where proximate cause of refusal was status of prospective tenant as holder of such certificate or voucher, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(2), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].
 
  __Withdrawal by Owners, Developers, and Sponsors From Programs Under This Section; Survey and Determination of Number; Notification of Rent Increases; Report to Congress; Regulations To Prevent Conflict of Interest on the Part of Federal, State, and Local Officials; Recovery of Legal Expenses; Contents of Annual Report__ 
 
-[Pub. L. 97–35, title III, § 326(b)][/us/pl/97/35/s326/b]–(d), Aug. 13, 1981, [95 Stat. 406][/us/stat/95/406], 407, as amended by [Pub. L. 102–550, title I, § 129(a)][/us/pl/102/550/s129/a], Oct. 28, 1992, [106 Stat. 3711][/us/stat/106/3711]; [Pub. L. 105–276, title V, § 582(a)(4)][/us/pl/105/276/s582/a/4], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643], provided that:
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 326(b)–(d), Aug. 13, 1981, [95 Stat. 406][/us/stat/95/406], 407, as amended by [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 129(a), Oct. 28, 1992, [106 Stat. 3711][/us/stat/106/3711]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(4), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643], provided that:
 
 >     “(b)
 
->         \[(1) Repealed. [Pub. L. 105–276, title V, § 582(a)(4)][/us/pl/105/276/s582/a/4], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].\]
+>         \[(1) Repealed. [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(4), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].\]
 
 >         “(2) Not later than one year after the date of the enactment of this Act \[Aug. 13, 1981\], the Secretary shall transmit to the Congress a report indicating alternative methods which may be utilized for recapturing the cost to the Federal Government of front-end investment in those units which are removed from the section 8 program.
 
->     “\[(c) Repealed. [Pub. L. 105–276, title V, § 582(a)(4)][/us/pl/105/276/s582/a/4], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].\]
+>     “\[(c) Repealed. [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(4), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643].\]
 
 >     “(d) __Rental Assistance Fraud Recoveries.—__ 
 
@@ -3937,7 +3937,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >             “(B) through administrative repayment agreements with a family or owner entered into as a result of an administrative grievance procedure conducted by an impartial decisionmaker in accordance with section 6(k) of the United States Housing Act of 1937 \[[42 U.S.C. 1437d(k)][/us/usc/t42/s1437d/k]\].”
 
-\[[Pub. L. 102–550, title I, § 129(b)][/us/pl/102/550/s129/b], Oct. 28, 1992, [106 Stat. 3712][/us/stat/106/3712], provided that: 
+\[[Pub. L. 102–550, title I][/us/pl/102/550/tI], § 129(b), Oct. 28, 1992, [106 Stat. 3712][/us/stat/106/3712], provided that: 
 
 > “Subsection (a) \[amending [section 326(d) of Pub. L. 97–35][/us/pl/97/35/s326/d], set out above\] shall apply with respect to actions by public housing agencies initiated on or after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
@@ -3945,21 +3945,21 @@ Similar provisions were contained in the following prior appropriations Acts:
 
  __Study by Secretary Concerning Feasibility of Minimum Rent Payment Requirements__ 
 
-    [Pub. L. 96–153, title II, § 212][/us/pl/96/153/s212], Dec. 21, 1979, [93 Stat. 1110][/us/stat/93/1110], directed the Secretary of Housing and Urban Development to conduct a study of the feasibility and financial desirability of requiring minimum rent payments from tenants in low-income housing assisted under this chapter, and to submit a report to the Congress containing the findings and conclusions of such study not later than ten days after the Budget for fiscal year 1981 is transmitted pursuant to section 11 of former Title 31, Money and Finance, and directed the Secretary of Housing and Urban Development to conduct a study to provide detailed comparisons between the rents paid by tenants occupying low-income housing assisted under this chapter and the rents paid by tenants at the same income level who are not in assisted housing and to transmit a report on such study to the Congress not later than Mar. 1, 1980.
+    [Pub. L. 96–153, title II][/us/pl/96/153/tII], § 212, Dec. 21, 1979, [93 Stat. 1110][/us/stat/93/1110], directed the Secretary of Housing and Urban Development to conduct a study of the feasibility and financial desirability of requiring minimum rent payments from tenants in low-income housing assisted under this chapter, and to submit a report to the Congress containing the findings and conclusions of such study not later than ten days after the Budget for fiscal year 1981 is transmitted pursuant to section 11 of former Title 31, Money and Finance, and directed the Secretary of Housing and Urban Development to conduct a study to provide detailed comparisons between the rents paid by tenants occupying low-income housing assisted under this chapter and the rents paid by tenants at the same income level who are not in assisted housing and to transmit a report on such study to the Congress not later than Mar. 1, 1980.
 
  __Study of Alternative Means of Encouraging the Development of Housing__ 
 
-    [Pub. L. 95–557, title II, § 208][/us/pl/95/557/s208], Oct. 31, 1978, [92 Stat. 2095][/us/stat/92/2095], directed that Secretary of Housing and Urban Development conduct a study for purpose of examining alternative means of encouraging development of housing to be assisted under this section for occupancy by large families which reside in areas with a low-vacancy rate in rental housing and report to Congress no later than one year after Oct. 31, 1978, for purpose of providing legislative recommendations with respect to this study.
+    [Pub. L. 95–557, title II][/us/pl/95/557/tII], § 208, Oct. 31, 1978, [92 Stat. 2095][/us/stat/92/2095], directed that Secretary of Housing and Urban Development conduct a study for purpose of examining alternative means of encouraging development of housing to be assisted under this section for occupancy by large families which reside in areas with a low-vacancy rate in rental housing and report to Congress no later than one year after Oct. 31, 1978, for purpose of providing legislative recommendations with respect to this study.
 
  __Taxation of Interest Paid on Obligations Secured by Insured Mortgage and Issued by Public Agency__ 
 
-[Pub. L. 93–383, title III, § 319(b)][/us/pl/93/383/s319/b], Aug. 22, 1974, [88 Stat. 686][/us/stat/88/686], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 93–383, title III][/us/pl/93/383/tIII], § 319(b), Aug. 22, 1974, [88 Stat. 686][/us/stat/88/686], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “With respect to any obligation secured by a mortgage which is insured under section 221(d)(3) of the National Housing Act \[section 1715l(d)(3) of Title 12, Banks and Banking\] and issued by a public agency as mortgagor in connection with the financing of a project assisted under section 8 of the United States Housing Act of 1937 \[this section\], the interest paid on such obligation shall be included in gross income for purposes of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[chapter 1 of Title 26, Internal Revenue Code\].”
 
  __Rental or Income Contributions; Use of Special Schedules of Required Payments for Participants in Mutual Help Projects Contributing Labor, Etc.__ 
 
-[Pub. L. 93–383, title II, § 203][/us/pl/93/383/s203], Aug. 22, 1974, [88 Stat. 668][/us/stat/88/668], provided that: 
+[Pub. L. 93–383, title II][/us/pl/93/383/tII], § 203, Aug. 22, 1974, [88 Stat. 668][/us/stat/88/668], provided that: 
 
 > “The rental or income contribution provisions of the United States Housing Act of 1937 \[sections 1437 to 1437j of this title\], as amended by section 201 of this Act, shall not preclude the use of special schedules of required payments as approved by the Secretary for participants in mutual help housing projects who contribute labor, land, or materials to the development of such projects.”
 
@@ -3973,7 +3973,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t42/s4851b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851b
 [/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
-[/us/pl/105/276/s550/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FC
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
 [/us/usc/t42/s13631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13631
@@ -3982,20 +3982,20 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s13619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13619
 [/us/usc/t42/s13611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13611
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1437d/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj%2F3
 [/us/usc/t42/s8013/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013%2Fb%2F1
-[/us/pl/105/276/s550/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F6
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1183
-[/us/pl/105/276/s550/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F7
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
 [/us/usc/t42/s1437a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F3
 [/us/usc/t42/s1437a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F1
@@ -4031,105 +4031,105 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/stat/112/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2469
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1490m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490m
-[/us/pl/106/74/s531/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs531%2Fd%2F2
+[/us/pl/106/74/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtV
 [/us/stat/113/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1116
 [/us/usc/t42/s1437c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fc
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F662
-[/us/pl/94/375/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fd
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1068
-[/us/pl/95/24/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F24%2Fs101%2Fc
+[/us/pl/95/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F24%2FtI
 [/us/stat/91/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F55
-[/us/pl/95/128/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs201%2Fc
+[/us/pl/95/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtII
 [/us/stat/91/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1128
-[/us/pl/95/557/s206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs206%2Fd%2F1
+[/us/pl/95/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtII
 [/us/stat/92/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2091
-[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtII
 [/us/stat/93/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1106
-[/us/pl/96/399/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs203
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1629
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F402
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1178
-[/us/pl/98/479/s102/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F6
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2221
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1849-1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1849-1853
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3264
-[/us/pl/101/235/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs127
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2025
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtII
 [/us/stat/105/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F756
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3713-3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3713-3715
-[/us/pl/103/233/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fc%2F2
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F357
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2315
-[/us/pl/104/19/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs1003
+[/us/pl/104/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtI
 [/us/stat/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F236
-[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F41
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/193/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs903%2Fa%2F2
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2348
-[/us/pl/104/204/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs201%2Fg
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2893
-[/us/pl/105/18/s10002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs10002
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F201
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtII
 [/us/stat/111/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F257
-[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtII
 [/us/stat/111/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1364
-[/us/pl/105/276/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs209%2Fa
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2485
-[/us/pl/106/74/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs223
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
 [/us/stat/113/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1076
-[/us/pl/106/246/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2801
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F569
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/106/569/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs301%2Fa
+[/us/pl/106/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIII
 [/us/stat/114/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2952
-[/us/pl/107/95/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs12
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F921
-[/us/pl/107/116/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs632
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2227
-[/us/pl/109/162/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3041
-[/us/pl/109/271/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fd
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F759
-[/us/pl/109/461/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs710
+[/us/pl/109/461/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtVII
 [/us/stat/120/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3441
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/289/s2835/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa
+[/us/pl/110/289/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVIII
 [/us/stat/122/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2871
-[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVII
 [/us/stat/123/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1661
-[/us/pl/111/203/s1484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F2
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
-[/us/pl/111/372/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs302
+[/us/pl/111/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2FtIII
 [/us/stat/124/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4084
-[/us/pl/113/4/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F107
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F630
-[/us/pl/114/94/s78001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs78001%2Fb
+[/us/pl/114/94/dG/tLXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXVIII
 [/us/stat/129/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1791
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
@@ -4150,22 +4150,22 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/105/276/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503%2Fa
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
-[/us/pl/105/276/s550/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FA%2Fii
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t42/s1437u/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437u%2Fd%2F3
-[/us/pl/105/276/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2531
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
-[/us/pl/100/242/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs203%2Fa
+[/us/pl/100/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtII
 [/us/stat/101/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1878
 [/us/pl/100/242/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs262
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
@@ -4176,329 +4176,329 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t42/s1437a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F1
-[/us/pl/113/76/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs242
-[/us/pl/113/76/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220%2Fa
-[/us/pl/113/4/s601/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FA
-[/us/pl/113/4/s601/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FB%2Fi
-[/us/pl/113/4/s601/b/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FB%2Fii%2FI
-[/us/pl/113/4/s601/b/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FB%2Fii%2FII
-[/us/pl/113/4/s601/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FC
-[/us/pl/113/4/s601/b/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FD%2Fi
-[/us/pl/113/4/s601/b/2/D/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FD%2Fii%2FI
-[/us/pl/113/4/s601/b/2/D/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FD%2Fii%2FII
-[/us/pl/113/4/s601/b/2/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FD%2Fiii
-[/us/pl/113/4/s601/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F2%2FE
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t12/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2602
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
-[/us/pl/110/289/s2835/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa%2F2
-[/us/pl/110/289/s2835/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa%2F1%2FA
-[/us/pl/110/289/s2835/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa%2F1%2FB
-[/us/pl/110/289/s2835/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa%2F1%2FC
-[/us/pl/110/289/s2835/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa%2F1%2FD
-[/us/pl/110/289/s2835/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa%2F1%2FE
-[/us/pl/110/289/s2835/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fa%2F1%2FF
-[/us/pl/109/162/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F1
-[/us/pl/109/271/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F1
-[/us/pl/109/271/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fd
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
-[/us/pl/109/162/s606/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F2%2FA
-[/us/pl/109/162/s606/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F2%2FB
-[/us/pl/109/162/s606/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F2%2FC
-[/us/pl/109/271/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F2
-[/us/pl/109/162/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F3
-[/us/pl/109/271/s5/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F3%2FA
-[/us/pl/109/162/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F3
-[/us/pl/109/162/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F3
-[/us/pl/109/271/s5/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F3%2FB
-[/us/pl/109/162/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F3
-[/us/pl/109/271/s5/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F3%2FC
-[/us/pl/109/271/s5/e/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F4%2FA%2Fiii
-[/us/pl/109/271/s5/e/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F4%2FA%2Fii
-[/us/pl/109/271/s5/e/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F4%2FA%2Fi
-[/us/pl/109/162/s606/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F4%2FA
-[/us/pl/109/162/s606/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F4%2FB
-[/us/pl/109/162/s606/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F4%2FC
-[/us/pl/109/271/s5/e/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F4%2FB%2Fi
-[/us/pl/109/271/s5/e/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F4%2FB%2Fii
-[/us/pl/109/271/s5/e/4/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F4%2FB%2Fiii
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
-[/us/pl/109/162/s606/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F4%2FD
-[/us/pl/109/271/s5/e/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F4%2FC
-[/us/pl/109/162/s606/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F5
-[/us/pl/109/162/s606/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs606%2F6
-[/us/pl/109/271/s5/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F5%2FA
-[/us/pl/109/271/s5/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F5%2FB
-[/us/pl/109/271/s5/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F5%2FC
-[/us/pl/109/271/s5/e/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F5%2FD
-[/us/pl/109/271/s5/e/5/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F5%2FE%2Fii
-[/us/pl/109/271/s5/e/5/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fe%2F5%2FE%2Fi
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/569/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs903%2Fa
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/pl/106/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246
 [/us/pl/106/74/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs538
 [/us/pl/106/74/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs538
-[/us/pl/106/569/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs902%2Fa
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/569/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs301%2Fa
-[/us/pl/106/74/s535/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs535%2F1
-[/us/pl/106/74/s535/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs535%2F2
-[/us/pl/106/74/s535/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs535%2F4
-[/us/pl/106/74/s535/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs535%2F3
-[/us/pl/106/74/s535/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs535%2F4
-[/us/pl/106/74/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs523%2Fa
-[/us/pl/106/74/s538/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs538%2Fa
-[/us/pl/106/74/s531/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs531%2Fd%2F1
-[/us/pl/104/99/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs405%2Fc
-[/us/pl/106/74/s531/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs531%2Fd%2F2
-[/us/pl/106/74/s223/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs223%2F1
-[/us/pl/106/74/s223/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs223%2F2
-[/us/pl/105/276/s550/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F1
-[/us/pl/105/276/s550/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F2
-[/us/pl/105/276/s550/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FA
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
-[/us/pl/105/276/s550/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FB
-[/us/pl/105/276/s550/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FC
-[/us/pl/105/276/s550/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FC
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
-[/us/pl/105/276/s549/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fb
-[/us/pl/105/276/s549/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fa%2F1%2FA
-[/us/pl/105/276/s549/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fb%2F1
-[/us/pl/105/276/s549/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fa%2F1%2FB
-[/us/pl/105/276/s549/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fa%2F1%2FA
-[/us/pl/105/276/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fb%2F1
-[/us/pl/105/276/s549/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fa%2F2%2FA
-[/us/pl/105/276/s549/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fa%2F2%2FB
-[/us/pl/105/276/s550/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F4%2FA
-[/us/pl/105/276/s550/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F4%2FC
-[/us/pl/105/276/s550/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F4%2FC
-[/us/pl/105/276/s550/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F4%2FB
-[/us/pl/105/276/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs552
-[/us/pl/105/276/s545/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs545%2Fb
-[/us/pl/105/276/s550/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F5
-[/us/pl/105/276/s565/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fc
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437d/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj%2F3
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
-[/us/pl/105/276/s550/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F6
-[/us/pl/105/276/s550/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F7
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F3
-[/us/pl/105/276/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs545%2Fa
-[/us/pl/105/276/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs209%2Fa
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/105/276/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs545%2Fa
 [/us/pl/105/276/s545/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs545%2Fc
 [/us/pl/105/276/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs559
-[/us/pl/105/276/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs547
-[/us/pl/105/276/s553/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs553%2F3
-[/us/pl/105/276/s553/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs553%2F1
-[/us/pl/105/276/s553/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs553%2F2
-[/us/pl/105/276/s553/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs553%2F5
-[/us/pl/105/276/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs554
-[/us/pl/105/276/s550/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F8
-[/us/pl/105/276/s550/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F9
-[/us/pl/105/276/s555/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fa%2F1%2FA
-[/us/pl/105/276/s555/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fa%2F1%2FB
-[/us/pl/105/276/s555/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fa%2F1%2FC
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437u
-[/us/pl/105/276/s555/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fa%2F2
-[/us/pl/105/276/s555/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fa%2F3
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437u/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437u%2Fd
-[/us/pl/105/276/s555/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fa%2F3
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1472
-[/us/pl/105/276/s555/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fa%2F4
-[/us/pl/105/276/s548/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs548%2F1
-[/us/pl/105/276/s548/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs548%2F2
-[/us/pl/105/276/s556/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs556%2Fa
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
-[/us/pl/105/65/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs523%2Fa
-[/us/pl/105/65/s523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs523%2Fc
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
-[/us/pl/104/99/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F2
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
-[/us/pl/104/193/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs903%2Fa%2F2
-[/us/pl/104/99/s402/d/6/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F6%2FA%2Fiii
-[/us/pl/104/99/s402/d/6/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F6%2FA%2Fiv
-[/us/pl/104/99/s402/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F3
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
-[/us/pl/104/99/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs405%2Fc
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
-[/us/pl/103/233/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fc%2F2
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
-[/us/pl/103/233/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fd
-[/us/pl/103/233/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fc%2F3
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
-[/us/pl/102/550/s1012/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fg
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s4851b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851b
-[/us/pl/102/550/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs142
-[/us/pl/102/550/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs141%2Fa
-[/us/pl/102/550/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs143
-[/us/pl/102/550/s144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs144%2Fa
-[/us/pl/102/550/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs145
-[/us/pl/102/550/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs674
-[/us/pl/102/550/s682/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs682%2Fb
-[/us/pl/102/550/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs660
-[/us/pl/102/550/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs146
-[/us/pl/102/550/s623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs623%2Fb
-[/us/pl/102/550/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs141%2Fb
-[/us/pl/102/550/s144/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs144%2Fb
-[/us/pl/102/550/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs675
-[/us/pl/102/550/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs147
-[/us/pl/102/550/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs148
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fc
-[/us/pl/102/550/s185/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs185%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s548/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs548%2Fb
-[/us/pl/101/625/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs541%2Fa
-[/us/pl/101/625/s413/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs413%2Fb%2F1
-[/us/pl/101/625/s543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs543%2Fb
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t42/s1439/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1439%2Fa%2F5
-[/us/pl/101/625/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs542
-[/us/pl/101/625/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs543%2Fa
-[/us/pl/101/625/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs544
-[/us/pl/101/625/s572/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F2
-[/us/pl/101/625/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs545%2Fa
-[/us/pl/101/625/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs546
-[/us/pl/101/625/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs552%2Fb
-[/us/pl/101/625/s613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs613%2Fa%2F1
-[/us/pl/101/625/s613/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs613%2Fa%2F2
-[/us/pl/101/625/s547/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs547%2Fc
-[/us/pl/101/625/s547/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs547%2Fa
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
-[/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
-[/us/usc/t42/s1439/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1439%2Fd
-[/us/pl/101/625/s548/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs548%2Fa
-[/us/pl/101/625/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs549
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs541%2Fb
-[/us/pl/101/625/s545/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs545%2F2
-[/us/pl/101/625/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs413%2Fa
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs413%2Fb%2F2
-[/us/pl/101/625/s550/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs550%2Fa
-[/us/pl/101/625/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs551
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs603
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/101/235/s702/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fg
-[/us/pl/101/235/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fc
-[/us/pl/101/235/s127/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs127%2F1
-[/us/pl/101/235/s127/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs127%2F2
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/usc/t42/s1439/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1439%2Fd
-[/us/pl/100/242/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs141
-[/us/pl/100/242/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs142%2Fa
-[/us/pl/100/242/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs142%2Fb
-[/us/pl/100/242/s142/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs142%2Fc%2F1
-[/us/pl/100/628/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1004%2Fa%2F1
-[/us/pl/100/628/s1004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1004%2Fa%2F2
-[/us/pl/100/242/s142/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs142%2Fc%2F2
-[/us/pl/100/242/s142/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs142%2Fd
-[/us/pl/100/242/s142/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs142%2Fe
-[/us/pl/100/242/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs262%2Fa
-[/us/pl/100/628/s1014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1014%2Fb
-[/us/pl/100/628/s1005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1005%2Fb%2F1
-[/us/pl/100/628/s1005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1005%2Fc
-[/us/pl/100/242/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs148
-[/us/pl/100/242/s143/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs143%2Fa%2F1
-[/us/usc/t42/s1490m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490m
-[/us/pl/100/628/s1014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1014%2Fc
-[/us/pl/100/242/s143/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs143%2Fa%2F2
-[/us/usc/t42/s1490m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490m
-[/us/pl/100/242/s143/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs143%2Fa%2F3
-[/us/pl/100/242/s143/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs143%2Fa%2F3
-[/us/pl/100/242/s143/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs143%2Fa%2F3
-[/us/pl/100/242/s143/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs143%2Fa%2F3
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
+[/us/usc/t42/s1439/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1439%2Fd
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/100/628/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1006
-[/us/pl/100/628/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1029
-[/us/pl/100/242/s262/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs262%2Fc
-[/us/pl/98/479/s102/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F6
-[/us/pl/98/479/s102/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F7
-[/us/pl/98/479/s102/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F8
-[/us/pl/98/479/s102/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F9
-[/us/pl/98/479/s102/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F10
-[/us/pl/98/181/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F1
-[/us/pl/98/181/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F2
-[/us/pl/98/181/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs203%2Fb%2F1
-[/us/pl/98/181/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs208
-[/us/pl/98/181/s209/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F3
-[/us/pl/98/181/s209/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F3
-[/us/pl/98/181/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs203%2Fb%2F2
-[/us/pl/98/181/s209/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F3
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/usc/t42/s1490m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490m
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/usc/t42/s1490m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490m
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t12/s1715z–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%939
-[/us/pl/98/181/s209/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F3
-[/us/pl/98/181/s209/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F4
-[/us/pl/98/181/s209/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F5
-[/us/pl/98/181/s209/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs209%2Fa%2F6
-[/us/pl/98/181/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs210%2F1
-[/us/pl/98/181/s210/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs210%2F3
-[/us/pl/98/181/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs207
-[/us/pl/98/181/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs211
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs324%2F2
-[/us/pl/97/35/s322/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fe%2F1
-[/us/pl/97/35/s325/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs325%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t12/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1720
-[/us/pl/97/35/s322/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fe%2F2
-[/us/pl/97/35/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs326%2Fa
-[/us/pl/97/35/s326/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs326%2Fe%2F1
-[/us/pl/97/35/s322/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fe%2F3
-[/us/pl/97/35/s322/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fe%2F4
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1437a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2F1
-[/us/pl/97/35/s329H/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs329H%2Fa
-[/us/pl/97/35/s322/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fe%2F6
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
-[/us/pl/97/35/s324/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs324%2F3
-[/us/pl/96/399/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs203%2Fa
-[/us/pl/96/399/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs203%2Fb
-[/us/pl/96/399/s308/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F3
-[/us/pl/96/153/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs202%2Fb
-[/us/pl/96/153/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs206%2Fb%2F1
-[/us/pl/96/153/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs211%2Fb
-[/us/pl/96/153/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs206%2Fb%2F2
-[/us/pl/96/153/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs210
-[/us/pl/95/557/s206/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs206%2Fe
-[/us/pl/95/557/s206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs206%2Fd%2F1
-[/us/pl/95/557/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs206%2Ff
-[/us/pl/95/128/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs201%2Fc
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/usc/t12/s1715z–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%939
-[/us/pl/95/128/s201/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs201%2Fe%2F1
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/95/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F24
 [/us/usc/t12/s1715z–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%939
-[/us/pl/95/128/s201/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs201%2Fe%2F2
-[/us/pl/94/375/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fd
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/usc/t12/s1715z–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%939
-[/us/pl/94/375/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fg
-[/us/pl/94/375/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fe
-[/us/pl/113/76/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220%2Fb
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F631
 [/us/pl/113/76/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
+[/us/pl/111/22/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVII
 [/us/stat/123/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1662
-[/us/pl/111/203/s1484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F2
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -4512,16 +4512,16 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
 [/us/pl/107/116/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs603
 [/us/usc/t12/s1715n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715n
-[/us/pl/106/569/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs301%2Fb
+[/us/pl/106/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIII
 [/us/stat/114/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2952
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/106/569/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs902%2Fb
+[/us/pl/106/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIX
 [/us/stat/114/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3026
 [/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/569/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs903%2Fb
+[/us/pl/106/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIX
 [/us/stat/114/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3026
 [/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/105/276/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs209%2Fb
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2485
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
@@ -4529,28 +4529,28 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/105/276/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fb%2F1
 [/us/pl/105/276/s514/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fg
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
-[/us/pl/105/276/s545/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs545%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2604
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs559
-[/us/pl/105/276/s549/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs549%2Fa%2F3
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2607
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/105/276/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs554
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2611
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/105/276/s555/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2613
 [/us/pl/105/276/s565/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fc
 [/us/pl/105/276/s565/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fe
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/104/204/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs201%2Fe
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2893
-[/us/pl/105/65/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs201%2Fb
+[/us/pl/105/65/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtII
 [/us/stat/111/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1364
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/pl/104/99/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Ff
@@ -4562,30 +4562,30 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s13642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13642
 [/us/pl/101/625/s289/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb%2F1
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1183
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/97/35/s326/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs326%2Fe%2F2
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F407
 [/us/pl/96/153/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs202%2Fb
 [/us/pl/96/153/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs202%2Fc
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
-[/us/pl/95/557/s206/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs206%2Fd%2F2
+[/us/pl/95/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtII
 [/us/stat/92/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2092
 [/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/95/557/s206/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs206%2Fh
 [/us/usc/t42/s1437c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c
 [/us/pl/93/383/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fb
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2315
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2315
-[/us/pl/105/276/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs559
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2615
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
@@ -4594,7 +4594,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t42/s1437f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fb
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/105/276/s556/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs556%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2613
 [/us/usc/t42/s1437f/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fdd
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
@@ -4603,29 +4603,29 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/101/625/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs545
 [/us/pl/102/550/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs104
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
-[/us/pl/102/550/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs149
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3715
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/550/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs151
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3716
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/110/28/s6904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6904
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F185
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fd%2F2
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtII
 [/us/stat/125/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F673
-[/us/pl/113/76/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs239
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
-[/us/pl/113/235/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs234
+[/us/pl/113/235/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdK%2FtII
 [/us/stat/128/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2757
-[/us/pl/114/113/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs237
+[/us/pl/114/113/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtII
 [/us/stat/129/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2897
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437f/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fe%2F2
@@ -4640,7 +4640,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t12/s1715z–1/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931%2Ff%2F2
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/110/289/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1603
+[/us/pl/110/289/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtVI
 [/us/stat/122/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2825
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
@@ -4655,43 +4655,43 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/107/116/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs602
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2221
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
-[/us/pl/106/569/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs302
+[/us/pl/106/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIII
 [/us/stat/114/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2953
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtII
 [/us/stat/117/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F485
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtII
 [/us/stat/115/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F660
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
 [/us/stat/113/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1056
-[/us/pl/105/276/s555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs555%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2613
 [/us/usc/t42/s1437f/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fy
-[/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1385-1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1385-1408
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2608
-[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
 [/us/stat/113/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1074
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
-[/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2222-2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2222-2227
-[/us/pl/109/289/s21043/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs21043%2Fa
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F53
-[/us/pl/110/289/s1216/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1216%2Fd
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2792
-[/us/pl/112/55/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs237
+[/us/pl/112/55/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdC%2FtII
 [/us/stat/125/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F702
-[/us/pl/113/235/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs232
+[/us/pl/113/235/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdK%2FtII
 [/us/stat/128/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2757
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
@@ -4757,45 +4757,45 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Ft
-[/us/pl/105/65/s579/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs579%2Fa%2F2
-[/us/pl/107/116/s621/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs621%2F1
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2226
-[/us/pl/109/289/s21043/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs21043%2Fb
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F53
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
-[/us/pl/107/116/s616/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs616%2Fa%2F2
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2225
 [/us/pl/105/65/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs514
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
 [/us/stat/113/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1109
-[/us/pl/107/116/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs622%2Fb
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2227
 [/us/pl/105/65/s572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs572%2Fa
-[/us/pl/107/116/s623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs623%2Fb
+[/us/pl/107/116/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVI
 [/us/stat/115/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2227
 [/us/pl/105/65/s572/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs572%2Fb
-[/us/pl/105/276/s597/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs597%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2659
 [/us/pl/105/65/s524/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs524%2Fa%2F2
-[/us/pl/105/65/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs532
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1411
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/104/204/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs202
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2893
 [/us/usc/t42/s1437f/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fq
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/104/99/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs403%2Fb
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F43
-[/us/pl/103/120/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs11%2Fa
+[/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/stat/107/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1151
-[/us/pl/104/204/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs211
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2895
-[/us/pl/105/18/s10006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs10006
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F201
-[/us/pl/105/65/s523/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs523%2Fe
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1407
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb
@@ -4803,19 +4803,19 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s11401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11401
 [/us/usc/t42/s1437f/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Ff
-[/us/pl/104/120/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs2%2Fa
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F834
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/stat/110/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F44
 [/us/usc/t42/s1437f/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fe%2F2
-[/us/pl/104/99/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs405%2Fa
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F44
-[/us/pl/105/65/s523/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs523%2Fd
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1407
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/104/204/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs212
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2897
-[/us/pl/105/65/s523/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs523%2Ff
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1407
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
@@ -4830,11 +4830,11 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/204/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs212%2Fa%2F1%2FA
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2897
-[/us/pl/114/113/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs239
+[/us/pl/114/113/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtII
 [/us/stat/129/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2897
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
@@ -4842,9 +4842,9 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fr%2F1
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/105/276/s522/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fb%2F3
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
@@ -4860,12 +4860,12 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/104/99/s402/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F4%2FB
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F42
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437f/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fb%2F2
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/105/276/s514/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fc%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2548
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
@@ -4874,82 +4874,82 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/pl/104/99/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Ff
 [/us/pl/105/276/s514/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Ff
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
-[/us/pl/103/120/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs6
+[/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/stat/107/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1148
-[/us/pl/104/316/s122/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fj
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3837
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
 [/us/usc/t29/s1144/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144%2Fd
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/103/120/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs11%2Fa
+[/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/stat/107/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1151
 [/us/usc/t42/s1437f/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fq%2F1
-[/us/pl/102/550/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs150
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3715
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/102/550/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs152
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3716
-[/us/pl/103/120/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120%2Fs3
+[/us/pl/103/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F120
 [/us/stat/107/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1148
 [/us/usc/t42/s1437c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fc
-[/us/pl/105/276/s550/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Ff
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2610
-[/us/pl/102/550/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs153
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3717
 [/us/pl/101/625/s558/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs558%2F3
-[/us/pl/105/276/s582/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F3
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
 [/us/pl/102/550/s623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs623%2Fb
 [/us/pl/102/550/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs626
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
 [/us/usc/t42/s12839/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12839%2Fa%2F4
-[/us/pl/101/625/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs522
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4207
-[/us/pl/104/66/s1071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F720
-[/us/pl/104/99/s402/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F6%2FB
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F43
-[/us/pl/105/276/s582/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F10
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2644
-[/us/pl/101/625/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs524
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4215
-[/us/pl/101/625/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs525
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4216
-[/us/pl/101/625/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs526
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4216
-[/us/pl/101/625/s545/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs545%2Fc
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4220
-[/us/pl/104/99/s402/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F4%2FA
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F42
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/105/276/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fc%2F1
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2548
-[/us/pl/101/625/s550/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs550%2Fb
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4222
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F1
 [/us/pl/101/625/s550/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs550%2Fb%2F2
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/625/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs555
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4233
 [/us/usc/t42/s1437f/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fb%2F2
-[/us/pl/101/625/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs558
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4233
-[/us/pl/101/625/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs559
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4234
-[/us/pl/101/625/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs561
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4235
-[/us/pl/101/625/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs582
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4248
-[/us/pl/101/625/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs958
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4422
-[/us/pl/102/238/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238%2Fs5%2Fb
+[/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
 [/us/stat/105/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1910
-[/us/pl/101/625/s962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs962
-[/us/pl/102/238/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238%2Fs5%2Fa
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
+[/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
 [/us/stat/105/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1909
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
 [/us/usc/t48/s691–718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs691%E2%80%93718
@@ -4957,61 +4957,61 @@ Similar provisions were contained in the following prior appropriations Acts:
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
-[/us/pl/101/235/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs801%2Fa
+[/us/pl/101/235/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtVIII
 [/us/stat/103/2057-2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2057-2059
 [/us/usc/t42/s1437f/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc%2F2
 [/us/usc/t42/s1437f/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc%2F2
-[/us/pl/100/628/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1004%2Fb
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3264
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/usc/t2/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs909
-[/us/pl/100/628/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1005%2Fa
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3264
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t42/s1437f/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fd%2F2
 [/us/pl/100/628/s1005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1005%2Fb%2F2
-[/us/pl/100/628/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1012
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3268
-[/us/pl/102/273/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F273%2Fs2%2Fa
+[/us/pl/102/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F273
 [/us/stat/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F113
-[/us/pl/102/550/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs163
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3722
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/102/273/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F273%2Fs2%2Fb
+[/us/pl/102/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F273
 [/us/stat/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F113
 [/us/pl/100/628/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1012
-[/us/pl/100/242/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs126
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1847
-[/us/pl/105/276/s582/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F8
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2644
-[/us/pl/100/242/s183/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs183%2Fc
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1872
-[/us/pl/105/276/s582/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
-[/us/pl/97/35/s326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs326%2Fb
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F406
-[/us/pl/102/550/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs129%2Fa
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3711
-[/us/pl/105/276/s582/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F4
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
-[/us/pl/105/276/s582/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F4
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
-[/us/pl/105/276/s582/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F4
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437d/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fk
-[/us/pl/102/550/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs129%2Fb
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3712
 [/us/pl/97/35/s326/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs326%2Fd
-[/us/pl/96/153/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs212
+[/us/pl/96/153/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtII
 [/us/stat/93/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1110
-[/us/pl/95/557/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs208
+[/us/pl/95/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtII
 [/us/stat/92/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2095
-[/us/pl/93/383/s319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs319%2Fb
+[/us/pl/93/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIII
 [/us/stat/88/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F686
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/93/383/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs203
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F668
 
 

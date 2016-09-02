@@ -25,11 +25,11 @@
 
     (c) Any funds appropriated to carry out any program under subchapters I to X of this chapter which are not obligated prior to the end of the fiscal year for which such funds were appropriated shall remain available for obligation during the succeeding fiscal year.
 
-([Pub. L. 93–644, § 15][/us/pl/93/644/s15], Jan. 4, 1975, [88 Stat. 2329][/us/stat/88/2329]; [Pub. L. 94–341, § 3(d)][/us/pl/94/341/s3/d], July 6, 1976, [90 Stat. 807][/us/stat/90/807].)
+([Pub. L. 93–644][/us/pl/93/644], § 15, Jan. 4, 1975, [88 Stat. 2329][/us/stat/88/2329]; [Pub. L. 94–341][/us/pl/94/341], § 3(d), July 6, 1976, [90 Stat. 807][/us/stat/90/807].)
 
  __References in Text__ 
 
-    Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and (c), and [section 2808 of this title][/us/usc/t42/s2808], referred to in subsec. (a)(2), were repealed by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and (c), and [section 2808 of this title][/us/usc/t42/s2808], referred to in subsec. (a)(2), were repealed by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
  __Codification__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a)(2). [Pub. L. 94–341, § 3(d)(1)][/us/pl/94/341/s3/d/1], inserted “of such Act” after “section 221”.
+    1976—Subsec. (a)(2). [Pub. L. 94–341][/us/pl/94/341], § 3(d)(1), inserted “of such Act” after “section 221”.
 
-    Subsec. (c). [Pub. L. 94–341, § 3(d)(2)][/us/pl/94/341/s3/d/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 94–341][/us/pl/94/341], § 3(d)(2), added subsec. (c).
 
 ----------
 
@@ -49,14 +49,14 @@
 ----------
 
 [/us/usc/t42/s2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2808
-[/us/pl/93/644/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs15
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2329
-[/us/pl/94/341/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341%2Fs3%2Fd
+[/us/pl/94/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341
 [/us/stat/90/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F807
 [/us/usc/t42/s2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2808
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
-[/us/pl/94/341/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341%2Fs3%2Fd%2F1
-[/us/pl/94/341/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341%2Fs3%2Fd%2F2
+[/us/pl/94/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341
+[/us/pl/94/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341
 
 

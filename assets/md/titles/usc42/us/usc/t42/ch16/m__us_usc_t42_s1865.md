@@ -31,17 +31,17 @@
 
         The Executive Committee shall render an annual report to the Board, and such other reports as it may deem necessary, summarizing its activities and making such recommendations as it may deem appropriate. Minority views and recommendations, if any, of members of the Executive Committee shall be included in such reports.
 
-([May 10, 1950, ch. 171, § 7][/us/act/1950-05-10/ch171/s7], formerly § 6, [64 Stat. 151][/us/stat/64/151]; [Pub. L. 86–232, § 4][/us/pl/86/232/s4], Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; renumbered and amended [Pub. L. 90–407][/us/pl/90/407], §§ 4, 5, July 18, 1968, [82 Stat. 363][/us/stat/82/363], 364.)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 7, formerly § 6, [64 Stat. 151][/us/stat/64/151]; [Pub. L. 86–232][/us/pl/86/232], § 4, Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; renumbered and amended [Pub. L. 90–407][/us/pl/90/407], §§ 4, 5, July 18, 1968, [82 Stat. 363][/us/stat/82/363], 364.)
 
  __Amendments__ 
 
-    1968—Subsec. (a). [Pub. L. 90–407, § 5][/us/pl/90/407/s5], made mandatory the organization of the Executive Committee, struck out prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
+    1968—Subsec. (a). [Pub. L. 90–407][/us/pl/90/407], § 5, made mandatory the organization of the Executive Committee, struck out prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
 
-    Subsec. (b). [Pub. L. 90–407, § 5][/us/pl/90/407/s5], substituted provisions that Board elect two members as members of Executive Committee at its annual meeting, with period between any two consecutive annual meetings to be deemed one year, for provisions covering composition of Executive Committee, setting forth a special one year term of office for four members first elected after May 10, 1950, and directing that membership of Committee represent diverse interests and areas. Provisions of former subsecs. (b)(2)(A) and (b)(5) were redesignated as subsecs. (c) and (d), respectively.
+    Subsec. (b). [Pub. L. 90–407][/us/pl/90/407], § 5, substituted provisions that Board elect two members as members of Executive Committee at its annual meeting, with period between any two consecutive annual meetings to be deemed one year, for provisions covering composition of Executive Committee, setting forth a special one year term of office for four members first elected after May 10, 1950, and directing that membership of Committee represent diverse interests and areas. Provisions of former subsecs. (b)(2)(A) and (b)(5) were redesignated as subsecs. (c) and (d), respectively.
 
-    Subsec. (c). [Pub. L. 90–407, § 5][/us/pl/90/407/s5], redesignated former subsec. (b)(2)(A) as (c) and substituted “Any person elected as a member of the Executive Committee” for “any member elected”. Former subsec. (c), authorizing the Board to appoint such additional committees as it deems necessary, and to delegate to such committees survey and advisory functions as it deems appropriate, was struck out.
+    Subsec. (c). [Pub. L. 90–407][/us/pl/90/407], § 5, redesignated former subsec. (b)(2)(A) as (c) and substituted “Any person elected as a member of the Executive Committee” for “any member elected”. Former subsec. (c), authorizing the Board to appoint such additional committees as it deems necessary, and to delegate to such committees survey and advisory functions as it deems appropriate, was struck out.
 
-    Subsec. (d). [Pub. L. 90–407, § 5][/us/pl/90/407/s5], redesignated former subsec. (b)(5) as (d) and substituted “The Executive Committee” for “Such Committee”.
+    Subsec. (d). [Pub. L. 90–407][/us/pl/90/407], § 5, redesignated former subsec. (b)(5) as (d) and substituted “The Executive Committee” for “Such Committee”.
 
     1959—Subsec. (a). [Pub. L. 86–232][/us/pl/86/232] struck out prohibition against assignment to Executive Committee of function of review and approval.
 
@@ -62,16 +62,16 @@
 ----------
 ----------
 
-[/us/act/1950-05-10/ch171/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs7
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F151
-[/us/pl/86/232/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs4
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F467
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F363
-[/us/pl/90/407/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs5
-[/us/pl/90/407/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs5
-[/us/pl/90/407/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs5
-[/us/pl/90/407/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs5
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/76/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1253

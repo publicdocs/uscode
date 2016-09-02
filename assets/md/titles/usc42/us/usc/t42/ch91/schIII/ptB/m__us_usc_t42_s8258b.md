@@ -69,7 +69,7 @@
 
         As soon as practicable after the completion of the project carried out under this section, the Secretary shall transmit a report of the findings and conclusions of the project to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate, the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, and the agencies who own the buildings involved in such project. Such report shall include an analysis of the probability of each agency achieving each of the energy reduction goals established under [section 8253(a) of this title][/us/usc/t42/s8253/a].
 
-([Pub. L. 95–619, title V, § 550][/us/pl/95/619/s550], as added [Pub. L. 102–486, title I, § 152(h)(2)][/us/pl/102/486/s152/h/2], Oct. 24, 1992, [106 Stat. 2850][/us/stat/106/2850]; amended [Pub. L. 109–58, title I, § 102(h)][/us/pl/109/58/s102/h], Aug. 8, 2005, [119 Stat. 608][/us/stat/119/608].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 550, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(h)(2), Oct. 24, 1992, [106 Stat. 2850][/us/stat/106/2850]; amended [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 102(h), Aug. 8, 2005, [119 Stat. 608][/us/stat/119/608].)
 
  __Prior Provisions__ 
 
@@ -100,10 +100,10 @@
 [/us/usc/t42/s8253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253
 [/us/usc/t42/s8254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8254
 [/us/usc/t42/s8253/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253%2Fa
-[/us/pl/95/619/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs550
-[/us/pl/102/486/s152/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fh%2F2
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2850
-[/us/pl/109/58/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fh
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F608
 [/us/pl/95/619/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs550
 [/us/usc/t42/s8260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8260

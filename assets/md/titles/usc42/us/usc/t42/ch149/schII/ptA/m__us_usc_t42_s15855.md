@@ -129,7 +129,7 @@
 
         (3) The economic impacts, particularly new job creation, resulting from the grants to and operation of the eligible operations.
 
-([Pub. L. 109–58, title II, § 210][/us/pl/109/58/s210], Aug. 8, 2005, [119 Stat. 658][/us/stat/119/658]; [Pub. L. 109–375, § 6][/us/pl/109/375/s6], Dec. 1, 2006, [120 Stat. 2658][/us/stat/120/2658].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 210, Aug. 8, 2005, [119 Stat. 658][/us/stat/119/658]; [Pub. L. 109–375][/us/pl/109/375], § 6, Dec. 1, 2006, [120 Stat. 2658][/us/stat/120/2658].)
 
  __Amendments__ 
 
@@ -147,9 +147,9 @@
 ----------
 
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/109/58/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs210
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F658
-[/us/pl/109/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F375%2Fs6
+[/us/pl/109/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F375
 [/us/stat/120/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2658
 [/us/pl/109/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F375
 

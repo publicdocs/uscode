@@ -39,7 +39,7 @@
 
         The commencement of proceedings under this section shall not, unless so specifically ordered by a court, operate as a stay of the Secretary’s action.
 
-([Pub. L. 106–402, title I, § 128][/us/pl/106/402/s128], Oct. 30, 2000, [114 Stat. 1711][/us/stat/114/1711].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 128, Oct. 30, 2000, [114 Stat. 1711][/us/stat/114/1711].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/106/402/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs128
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1711
 
 

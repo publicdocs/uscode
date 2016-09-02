@@ -179,7 +179,7 @@
 
                 (iv) the Emergency Food Assistance Act of 1983 ([7 U.S.C. 7501][/us/usc/t7/s7501] et seq.).
 
-([June 4, 1946, ch. 281, § 24][/us/act/1946-06-04/ch281/s24], as added [Pub. L. 111–296, title I, § 142][/us/pl/111/296/s142], Dec. 13, 2010, [124 Stat. 3210][/us/stat/124/3210].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 24, as added [Pub. L. 111–296, title I][/us/pl/111/296/tI], § 142, Dec. 13, 2010, [124 Stat. 3210][/us/stat/124/3210].)
 
  __References in Text__ 
 
@@ -191,7 +191,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1769e, [act June 4, 1946, ch. 281, § 24][/us/act/1946-06-04/ch281/s24], as added Nov. 10, 1989, [Pub. L. 101–147, title I, § 112][/us/pl/101/147/s112], [103 Stat. 890][/us/stat/103/890], related to nutrition guidance for child nutrition programs, prior to repeal by [Pub. L. 104–193, title VII, § 712][/us/pl/104/193/s712], Aug. 22, 1996, [110 Stat. 2301][/us/stat/110/2301].
+    A prior section 1769e, [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 24, as added Nov. 10, 1989, [Pub. L. 101–147, title I][/us/pl/101/147/tI], § 112, [103 Stat. 890][/us/stat/103/890], related to nutrition guidance for child nutrition programs, prior to repeal by [Pub. L. 104–193, title VII][/us/pl/104/193/tVII], § 712, Aug. 22, 1996, [110 Stat. 2301][/us/stat/110/2301].
 
  __Effective Date__ 
 
@@ -210,8 +210,8 @@
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
-[/us/act/1946-06-04/ch281/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs24
-[/us/pl/111/296/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs142
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/111/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtI
 [/us/stat/124/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3210
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
@@ -222,10 +222,10 @@
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
 [/us/stat/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F35
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
-[/us/act/1946-06-04/ch281/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs24
-[/us/pl/101/147/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs112
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F890
-[/us/pl/104/193/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs712
+[/us/pl/104/193/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVII
 [/us/stat/110/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2301
 [/us/pl/111/296/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs445
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751

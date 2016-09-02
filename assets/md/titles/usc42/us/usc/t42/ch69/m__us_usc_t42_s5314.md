@@ -17,7 +17,7 @@
 
     In carrying out the provisions of this chapter including the issuance of regulations, the Secretary shall consult with other Federal departments and agencies administering Federal grant-in-aid programs.
 
-([Pub. L. 93–383, title I, § 114][/us/pl/93/383/s114], Aug. 22, 1974, [88 Stat. 651][/us/stat/88/651].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 114, Aug. 22, 1974, [88 Stat. 651][/us/stat/88/651].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/383/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs114
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F651
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

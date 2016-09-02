@@ -25,7 +25,7 @@
 
     (4) which is not a carrier which conveys passengers in interstate commerce.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1411, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1662][/us/stat/88/1662].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1411, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1662][/us/stat/88/1662].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1662
 
 

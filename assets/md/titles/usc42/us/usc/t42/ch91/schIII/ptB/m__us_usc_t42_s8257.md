@@ -39,7 +39,7 @@
 
         (6) review, from time to time as may be necessary, the regulations relating to building temperature settings to determine whether changes in such regulations would be appropriate to assist in meeting the goals specified in [section 8253 of this title][/us/usc/t42/s8253].
 
-([Pub. L. 95–619, title V, § 547][/us/pl/95/619/s547], Nov. 9, 1978, [92 Stat. 3279][/us/stat/92/3279]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3187][/us/stat/102/3187].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 547, Nov. 9, 1978, [92 Stat. 3279][/us/stat/92/3279]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3187][/us/stat/102/3187].)
 
  __Amendments__ 
 
@@ -57,9 +57,9 @@
 [/us/usc/t42/s8256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8256
 [/us/usc/t42/s7266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7266
 [/us/usc/t42/s8253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253
-[/us/pl/95/619/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs547
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3279
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3187
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 

@@ -43,7 +43,7 @@
 
         A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State, and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 101, formerly § 1, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 392][/us/stat/77/392]; renumbered § 101 and amended [Pub. L. 89–272, title I, § 101(2)][/us/pl/89/272/s101/2], (3), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 485][/us/stat/81/485]; [Pub. L. 101–549, title I, § 108(k)][/us/pl/101/549/s108/k], Nov. 15, 1990, [104 Stat. 2468][/us/stat/104/2468].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 101, formerly § 1, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 392][/us/stat/77/392]; renumbered § 101 and amended [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(2), (3), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 485][/us/stat/81/485]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 108(k), Nov. 15, 1990, [104 Stat. 2468][/us/stat/104/2468].)
 
  __Codification__ 
 
@@ -51,15 +51,15 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in a prior [section 1857 of this title][/us/usc/t42/s1857], [act of July 14, 1955, ch. 360, § 1][/us/act/1955-07-14/ch360/s1], [69 Stat. 322][/us/stat/69/322], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
+    Provisions similar to those in this section were contained in a prior [section 1857 of this title][/us/usc/t42/s1857], [act of July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], § 1, [69 Stat. 322][/us/stat/69/322], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
 
  __Amendments__ 
 
-    1990—Subsec. (a)(3). [Pub. L. 101–549, § 108(k)(1)][/us/pl/101/549/s108/k/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “that the prevention and control of air pollution at its source is the primary responsibility of States and local governments; and”.
+    1990—Subsec. (a)(3). [Pub. L. 101–549][/us/pl/101/549], § 108(k)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “that the prevention and control of air pollution at its source is the primary responsibility of States and local governments; and”.
 
-    Subsec. (b)(4). [Pub. L. 101–549, § 108(k)(2)][/us/pl/101/549/s108/k/2], inserted “prevention and” after “pollution”.
+    Subsec. (b)(4). [Pub. L. 101–549][/us/pl/101/549], § 108(k)(2), inserted “prevention and” after “pollution”.
 
-    Subsec. (c). [Pub. L. 101–549, § 108(k)(3)][/us/pl/101/549/s108/k/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–549][/us/pl/101/549], § 108(k)(3), added subsec. (c).
 
     1967—Subsec. (b)(1). [Pub. L. 90–148][/us/pl/90/148] inserted “and enhance the quality of” after “to protect”.
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–549, title VII, § 711(b)][/us/pl/101/549/s711/b], Nov. 15, 1990, [104 Stat. 2684][/us/stat/104/2684], provided that:
+[Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 711(b), Nov. 15, 1990, [104 Stat. 2684][/us/stat/104/2684], provided that:
 
 >     “(1) Except as otherwise expressly provided, the amendments made by this Act \[see Tables for classification\] shall be effective on the date of enactment of this Act \[Nov. 15, 1990\].
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 1977 Amendment; Pending Actions; Continuation of Rules, Contracts, Authorizations, Etc.; Implementation Plans__ 
 
-[Pub. L. 95–95, title IV, § 406][/us/pl/95/95/s406], Aug. 7, 1977, [91 Stat. 795][/us/stat/91/795], as amended by [Pub. L. 95–190, § 14(b)(6)][/us/pl/95/190/s14/b/6], Nov. 16, 1977, [91 Stat. 1405][/us/stat/91/1405], provided that:
+[Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 406, Aug. 7, 1977, [91 Stat. 795][/us/stat/91/795], as amended by [Pub. L. 95–190][/us/pl/95/190], § 14(b)(6), Nov. 16, 1977, [91 Stat. 1405][/us/stat/91/1405], provided that:
 
 >     “(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\] shall abate by reason of the taking effect of the amendments made by this Act \[see Short Title of 1977 Amendment note below\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
@@ -101,13 +101,13 @@
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–40, § 1][/us/pl/106/40/s1], Aug. 5, 1999, [113 Stat. 207][/us/stat/113/207], provided that: 
+[Pub. L. 106–40][/us/pl/106/40], § 1, Aug. 5, 1999, [113 Stat. 207][/us/stat/113/207], provided that: 
 
 > “This Act \[amending [section 7412 of this title][/us/usc/t42/s7412] and enacting provisions set out as notes under [section 7412 of this title][/us/usc/t42/s7412]\] may be cited as the ‘Chemical Safety Information, Site Security and Fuels Regulatory Relief Act’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–286, § 1][/us/pl/105/286/s1], Oct. 27, 1998, [112 Stat. 2773][/us/stat/112/2773], provided that: 
+[Pub. L. 105–286][/us/pl/105/286], § 1, Oct. 27, 1998, [112 Stat. 2773][/us/stat/112/2773], provided that: 
 
 > “This Act \[amending [section 7511b of this title][/us/usc/t42/s7511b] and enacting provisions set out as a note under [section 7511b of this title][/us/usc/t42/s7511b]\] may be cited as the ‘Border Smog Reduction Act of 1998’.”
 
@@ -117,53 +117,53 @@
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–23, § 1][/us/pl/97/23/s1], July 17, 1981, [95 Stat. 139][/us/stat/95/139], provided: 
+[Pub. L. 97–23][/us/pl/97/23], § 1, July 17, 1981, [95 Stat. 139][/us/stat/95/139], provided: 
 
 > “That this Act \[amending sections 7410 and 7413 of this title\] may be cited as the ‘Steel Industry Compliance Extension Act of 1981’.”
 
  __Short Title of 1977 Amendment__ 
 
-[Pub. L. 95–95, § 1][/us/pl/95/95/s1], Aug. 7, 1977, [91 Stat. 685][/us/stat/91/685], provided that: 
+[Pub. L. 95–95][/us/pl/95/95], § 1, Aug. 7, 1977, [91 Stat. 685][/us/stat/91/685], provided that: 
 
 > “This Act \[enacting sections 4362, 7419 to 7428, 7450 to 7459, 7470 to 7479, 7491, 7501 to 7508, 7548, 7549, 7551, 7617 to 7625, and 7626 of this title, amending sections 7403, 7405, 7407 to 7415, 7417, 7418, 7521 to 7525, 7541, 7543, 7544, 7545, 7550, 7571, 7601 to 7605, 7607, 7612, 7613, and 7616 of this title, repealing [section 1857c–10 of this title][/us/usc/t42/s1857c–10], and enacting provisions set out as notes under this section, sections 7403, 7422, 7470, 7479, 7502, 7521, 7548, and 7621 of this title, and [section 792 of Title 15][/us/usc/t15/s792], Commerce and Trade\] may be cited as the ‘Clean Air Act Amendments of 1977’.”
 
  __Short Title of 1970 Amendment__ 
 
-[Pub. L. 91–604, § 1][/us/pl/91/604/s1], Dec. 31, 1970, [84 Stat. 1676][/us/stat/84/1676], provided: 
+[Pub. L. 91–604][/us/pl/91/604], § 1, Dec. 31, 1970, [84 Stat. 1676][/us/stat/84/1676], provided: 
 
 > “That this Act \[amending this chapter generally\] may be cited as the ‘Clean Air Amendments of 1970’.”
 
  __Short Title of 1967 Amendment__ 
 
-[Pub. L. 90–148, § 1][/us/pl/90/148/s1], Nov. 21, 1967, [81 Stat. 485][/us/stat/81/485], provided: 
+[Pub. L. 90–148][/us/pl/90/148], § 1, Nov. 21, 1967, [81 Stat. 485][/us/stat/81/485], provided: 
 
 > “That this Act \[amending this chapter generally\] may be cited as the ‘Air Quality Act of 1967’.”
 
  __Short Title of 1966 Amendment__ 
 
-[Pub. L. 89–675, § 1][/us/pl/89/675/s1], Oct. 15, 1966, [80 Stat. 954][/us/stat/80/954], provided: 
+[Pub. L. 89–675][/us/pl/89/675], § 1, Oct. 15, 1966, [80 Stat. 954][/us/stat/80/954], provided: 
 
 > “That this Act \[amending sections 7405 and 7616 of this title and repealing [section 1857f–8 of this title][/us/usc/t42/s1857f–8]\] may be cited as the ‘Clean Air Act Amendments of 1966’.”
 
  __Short Title__ 
 
-[Act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 317, formerly § 14, as added by [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 401][/us/stat/77/401]; renumbered § 307 by [Pub. L. 89–272, title I, § 101(4)][/us/pl/89/272/s101/4], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; renumbered § 310 by [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499]; renumbered § 317 by [Pub. L. 91–604, § 12(a)][/us/pl/91/604/s12/a], Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], provided that: 
+[Act July 14, 1955, ch. 360, title III][/us/act/1955-07-14/ch360/tIII], § 317, formerly § 14, as added by [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 401][/us/stat/77/401]; renumbered § 307 by [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(4), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; renumbered § 310 by [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499]; renumbered § 317 by [Pub. L. 91–604][/us/pl/91/604], § 12(a), Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Clean Air Act’.”
 
-[Act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 201, as added by [Pub. L. 89–272, title I, § 101(8)][/us/pl/89/272/s101/8], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992], and amended by [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499], provided that: 
+[Act July 14, 1955, ch. 360, title II][/us/act/1955-07-14/ch360/tII], § 201, as added by [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(8), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992], and amended by [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.”
 
- Prior to its amendment by [Pub. L. 90–148, title II][/us/pl/90/148] of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
+ Prior to its amendment by [Pub. L. 90–148, title II][/us/pl/90/148/tII] of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
 
-[Act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 401, as added by Dec. 31, 1970, [Pub. L. 91–604, § 14][/us/pl/91/604/s14], [84 Stat. 1709][/us/stat/84/1709], provided that: 
+[Act July 14, 1955, ch. 360, title IV][/us/act/1955-07-14/ch360/tIV], § 401, as added by Dec. 31, 1970, [Pub. L. 91–604][/us/pl/91/604], § 14, [84 Stat. 1709][/us/stat/84/1709], provided that: 
 
 > “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Noise Pollution and Abatement Act of 1970’.”
 
  __Savings Provision__ 
 
-[Pub. L. 101–549, title VII, § 711(a)][/us/pl/101/549/s711/a], Nov. 15, 1990, [104 Stat. 2684][/us/stat/104/2684], provided that: 
+[Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 711(a), Nov. 15, 1990, [104 Stat. 2684][/us/stat/104/2684], provided that: 
 
 > “Except as otherwise expressly provided in this Act \[see Tables for classification\], no suit, action, or other proceeding lawfully commenced by the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\], as in effect immediately prior to the date of enactment of this Act \[Nov. 15, 1990\], shall abate by reason of the taking effect of the amendments made by this Act.”
 
@@ -173,13 +173,13 @@
 
  __Impact on Small Communities__ 
 
-[Pub. L. 101–549, title VIII, § 810][/us/pl/101/549/s810], Nov. 15, 1990, [104 Stat. 2690][/us/stat/104/2690], provided that: 
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 810, Nov. 15, 1990, [104 Stat. 2690][/us/stat/104/2690], provided that: 
 
 > “Before implementing a provision of this Act \[see Tables for classification\], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
 
  __Radon Assessment and Mitigation__ 
 
-[Pub. L. 99–499, title I, § 118(k)][/us/pl/99/499/s118/k], Oct. 17, 1986, [100 Stat. 1659][/us/stat/100/1659], as amended by [Pub. L. 105–362, title V, § 501(i)][/us/pl/105/362/s501/i], Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284], provided that:
+[Pub. L. 99–499, title I][/us/pl/99/499/tI], § 118(k), Oct. 17, 1986, [100 Stat. 1659][/us/stat/100/1659], as amended by [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(i), Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284], provided that:
 
 >     “(1)  __National assessment of radon gas__  __.—__ 
 
@@ -211,7 +211,7 @@
 
  __Spill Control Technology__ 
 
-[Pub. L. 99–499, title I, § 118(n)][/us/pl/99/499/s118/n], Oct. 17, 1986, [100 Stat. 1660][/us/stat/100/1660], provided that:
+[Pub. L. 99–499, title I][/us/pl/99/499/tI], § 118(n), Oct. 17, 1986, [100 Stat. 1660][/us/stat/100/1660], provided that:
 
 >     “(1)  __Establishment of program__  __.—__ 
 
@@ -245,7 +245,7 @@
 
  __Radon Gas and Indoor Air Quality Research__ 
 
-[Pub. L. 99–499, title IV][/us/pl/99/499], Oct. 17, 1986, [100 Stat. 1758][/us/stat/100/1758], provided that:
+[Pub. L. 99–499, title IV][/us/pl/99/499/tIV], Oct. 17, 1986, [100 Stat. 1758][/us/stat/100/1758], provided that:
 
 > “SEC. 401. __SHORT TITLE.__ 
 
@@ -327,23 +327,23 @@
 
  __Study of Odors and Odorous Emissions__ 
 
-    [Pub. L. 95–95, title IV, § 403(b)][/us/pl/95/95/s403/b], Aug. 7, 1977, [91 Stat. 792][/us/stat/91/792], directed Administrator of Environmental Protection Agency to conduct a study and report to Congress not later than Jan. 1, 1979, on effects on public health and welfare of odors and odorous emissions, source of such emissions, technology or other measures available for control of such emissions and costs of such technology or measures, and costs and benefits of alternative measures or strategies to abate such emissions.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 403(b), Aug. 7, 1977, [91 Stat. 792][/us/stat/91/792], directed Administrator of Environmental Protection Agency to conduct a study and report to Congress not later than Jan. 1, 1979, on effects on public health and welfare of odors and odorous emissions, source of such emissions, technology or other measures available for control of such emissions and costs of such technology or measures, and costs and benefits of alternative measures or strategies to abate such emissions.
 
  __List of Chemical Contaminants From Environmental Pollution Found in Human Tissue__ 
 
-    [Pub. L. 95–95, title IV, § 403(c)][/us/pl/95/95/s403/c], Aug. 7, 1977, [91 Stat. 792][/us/stat/91/792], directed Administrator of EPA, not later than twelve months after Aug. 7, 1977, to publish throughout the United States a list of all known chemical contaminants resulting from environmental pollution which have been found in human tissue including blood, urine, breast milk, and all other human tissue, such list to be prepared for the United States and to indicate approximate number of cases, range of levels found, and mean levels found, directed Administrator, not later than eighteen months after Aug. 7, 1977, to publish in same manner an explanation of what is known about the manner in which chemicals entered the environment and thereafter human tissue, and directed Administrator, in consultation with National Institutes of Health, the National Center for Health Statistics, and the National Center for Health Services Research and Development, to, if feasible, conduct an epidemiological study to demonstrate the relationship between levels of chemicals in the environment and in human tissue, such study to be made in appropriate regions or areas of the United States in order to determine any different results in such regions or areas, and the results of such study to be reported, as soon as practicable, to appropriate committee of Congress.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 403(c), Aug. 7, 1977, [91 Stat. 792][/us/stat/91/792], directed Administrator of EPA, not later than twelve months after Aug. 7, 1977, to publish throughout the United States a list of all known chemical contaminants resulting from environmental pollution which have been found in human tissue including blood, urine, breast milk, and all other human tissue, such list to be prepared for the United States and to indicate approximate number of cases, range of levels found, and mean levels found, directed Administrator, not later than eighteen months after Aug. 7, 1977, to publish in same manner an explanation of what is known about the manner in which chemicals entered the environment and thereafter human tissue, and directed Administrator, in consultation with National Institutes of Health, the National Center for Health Statistics, and the National Center for Health Services Research and Development, to, if feasible, conduct an epidemiological study to demonstrate the relationship between levels of chemicals in the environment and in human tissue, such study to be made in appropriate regions or areas of the United States in order to determine any different results in such regions or areas, and the results of such study to be reported, as soon as practicable, to appropriate committee of Congress.
 
  __Study on Regional Air Quality__ 
 
-    [Pub. L. 95–95, title IV, § 403(d)][/us/pl/95/95/s403/d], Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], directed Administrator of EPA to conduct a study of air quality in various areas throughout the country including the gulf coast region, such study to include analysis of liquid and solid aerosols and other fine particulate matter and contribution of such substances to visibility and public health problems in such areas, with Administrator to use environmental health experts from the National Institutes of Health and other outside agencies and organizations.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 403(d), Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], directed Administrator of EPA to conduct a study of air quality in various areas throughout the country including the gulf coast region, such study to include analysis of liquid and solid aerosols and other fine particulate matter and contribution of such substances to visibility and public health problems in such areas, with Administrator to use environmental health experts from the National Institutes of Health and other outside agencies and organizations.
 
  __Railroad Emission Study__ 
 
-    [Pub. L. 95–95, title IV, § 404][/us/pl/95/95/s404], Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], as amended by H. Res. 549, Mar. 25, 1980, directed Administrator of EPA to conduct a study and investigation of emissions of air pollutants from railroad locomotives, locomotive engines, and secondary power sources on railroad rolling stock, in order to determine extent to which such emissions affect air quality in air quality control regions throughout the United States, technological feasibility and current state of technology for controlling such emissions, and status and effect of current and proposed State and local regulations affecting such emissions, and within one hundred and eighty days after commencing such study and investigation, Administrator to submit a report of such study and investigation, together with recommendations for appropriate legislation, to Senate Committee on Environment and Public Works and House Committee on Energy and Commerce.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 404, Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], as amended by H. Res. 549, Mar. 25, 1980, directed Administrator of EPA to conduct a study and investigation of emissions of air pollutants from railroad locomotives, locomotive engines, and secondary power sources on railroad rolling stock, in order to determine extent to which such emissions affect air quality in air quality control regions throughout the United States, technological feasibility and current state of technology for controlling such emissions, and status and effect of current and proposed State and local regulations affecting such emissions, and within one hundred and eighty days after commencing such study and investigation, Administrator to submit a report of such study and investigation, together with recommendations for appropriate legislation, to Senate Committee on Environment and Public Works and House Committee on Energy and Commerce.
 
  __Study and Report Concerning Economic Approaches to Controlling Air Pollution__ 
 
-    [Pub. L. 95–95, title IV, § 405][/us/pl/95/95/s405], Aug. 7, 1977, [91 Stat. 794][/us/stat/91/794], directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act, and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 405, Aug. 7, 1977, [91 Stat. 794][/us/stat/91/794], directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act, and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
 
  __National Industrial Pollution Control Council__ 
 
@@ -369,99 +369,99 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F392
-[/us/pl/89/272/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F2
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F485
-[/us/pl/101/549/s108/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fk
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2468
 [/us/usc/t42/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857
 [/us/usc/t42/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857
-[/us/act/1955-07-14/ch360/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2Fs1
+[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
-[/us/pl/101/549/s108/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fk%2F1
-[/us/pl/101/549/s108/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fk%2F2
-[/us/pl/101/549/s108/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fk%2F3
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
-[/us/pl/101/549/s711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs711%2Fb
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2684
 [/us/usc/t42/s7524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7524%2Fc
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7524%2Fa
-[/us/pl/95/95/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F795
-[/us/pl/95/190/s14/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fb%2F6
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1405
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
-[/us/pl/106/40/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40%2Fs1
+[/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
 [/us/stat/113/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F207
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
-[/us/pl/105/286/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F286%2Fs1
+[/us/pl/105/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F286
 [/us/stat/112/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2773
 [/us/usc/t42/s7511b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511b
 [/us/usc/t42/s7511b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511b
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/stat/104/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2399
-[/us/pl/97/23/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23%2Fs1
+[/us/pl/97/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23
 [/us/stat/95/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F139
-[/us/pl/95/95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs1
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/stat/91/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F685
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
 [/us/usc/t15/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792
-[/us/pl/91/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs1
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1676
-[/us/pl/90/148/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs1
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F485
-[/us/pl/89/675/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F675%2Fs1
+[/us/pl/89/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F675
 [/us/stat/80/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F954
 [/us/usc/t42/s1857f–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%938
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/act/1955-07-14/ch360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtIII
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F401
-[/us/pl/89/272/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F4
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
-[/us/stat/81/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F499
-[/us/pl/91/604/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs12%2Fa
-[/us/stat/84/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1705
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/89/272/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F8
-[/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
-[/us/stat/81/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F499
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs14
+[/us/stat/81/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F499
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/stat/84/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1705
+[/us/act/1955-07-14/ch360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtII
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
+[/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
+[/us/stat/81/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F499
+[/us/pl/90/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2FtII
+[/us/act/1955-07-14/ch360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtIV
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1709
-[/us/pl/101/549/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs711%2Fa
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2684
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/stat/84/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2086
-[/us/pl/101/549/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs810
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2690
-[/us/pl/99/499/s118/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs118%2Fk
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1659
-[/us/pl/105/362/s501/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fi
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3284
-[/us/pl/99/499/s118/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs118%2Fn
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1660
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIV
 [/us/stat/100/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1758
 [/us/pl/99/499/s118/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs118%2Fk
-[/us/pl/95/95/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Fb
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F792
-[/us/pl/95/95/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Fc
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F792
-[/us/pl/95/95/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Fd
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F793
-[/us/pl/95/95/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs404
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F793
-[/us/pl/95/95/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs405
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F794
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

@@ -125,7 +125,7 @@
 
         There is authorized to be appropriated to carry out the demonstration project described in section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsection”. </sup></sup>  (b)(1), $10,000,000 for the period of fiscal years 2008 through 2012, and to carry out the demonstration project described in section  <sup>\[3\]</sup>  (b)(2), $10,000,000 for the period of fiscal years 2008 through 2012, to remain available until expended.
 
-([Pub. L. 110–140, title IV, § 491][/us/pl/110/140/s491], Dec. 19, 2007, [121 Stat. 1649][/us/stat/121/1649].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 491, Dec. 19, 2007, [121 Stat. 1649][/us/stat/121/1649].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 [/us/usc/t42/s17092/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092%2Fh
 [/us/usc/t42/s17092/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092%2Fh
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/110/140/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs491
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1649
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1596

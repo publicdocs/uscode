@@ -31,11 +31,11 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 102–486, title XXX, § 3014][/us/pl/102/486/s3014], Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128]; [Pub. L. 105–362, title IV, § 401(f)][/us/pl/105/362/s401/f], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282].)
+([Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3014, Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128]; [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 401(f), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282].)
 
  __References in Text__ 
 
-    Subsection (b) of this section, referred to in subsec. (b), was repealed and subsec. (c) of this section was redesignated (b) by [Pub. L. 105–362, title IV, § 401(f)][/us/pl/105/362/s401/f], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282]. See 1998 Amendment note below.
+    Subsection (b) of this section, referred to in subsec. (b), was repealed and subsec. (c) of this section was redesignated (b) by [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 401(f), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282]. See 1998 Amendment note below.
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/102/486/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3014
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3128
-[/us/pl/105/362/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs401%2Ff
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
-[/us/pl/105/362/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs401%2Ff
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 

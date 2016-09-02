@@ -191,7 +191,7 @@
 
         (2) January 1, 2010.
 
-([Pub. L. 89–73, title V, § 513][/us/pl/89/73/s513], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2580][/us/stat/120/2580].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 513, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2580][/us/stat/120/2580].)
 
  __References in Text__ 
 
@@ -199,7 +199,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3056k, [Pub. L. 89–73, title V, § 513][/us/pl/89/73/s513], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2281][/us/stat/114/2281], related to performance measures, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
+    A prior section 3056k, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 513, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2281][/us/stat/114/2281], related to performance measures, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
 
 ----------
 
@@ -213,14 +213,14 @@
 [/us/usc/t42/s3056/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056%2Fb
 [/us/usc/t42/s3056d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056d%2Fe
 [/us/usc/t42/s3056d/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056d%2Fe
-[/us/pl/89/73/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs513
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2580
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/89/73/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs513
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2281
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 

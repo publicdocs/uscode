@@ -43,7 +43,7 @@
 
         The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVIII, § 1803, as added [Pub. L. 95–622, title III, § 301][/us/pl/95/622/s301], Nov. 9, 1978, [92 Stat. 3440][/us/stat/92/3440].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVIII, § 1803, as added [Pub. L. 95–622, title III][/us/pl/95/622/tIII], § 301, Nov. 9, 1978, [92 Stat. 3440][/us/stat/92/3440].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/622/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs301
+[/us/pl/95/622/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtIII
 [/us/stat/92/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3440
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

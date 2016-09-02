@@ -19,7 +19,7 @@
 
     (b) In carrying out programs under subsection (a) of this section, the Director of the Institute shall give special consideration to the prevention and control of heart, blood vessel, lung, and blood diseases in children, and in populations that are at increased risk with respect to such diseases.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 419, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 836][/us/stat/99/836]; amended [Pub. L. 103–43, title V, § 505][/us/pl/103/43/s505], June 10, 1993, [107 Stat. 160][/us/stat/107/160].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 419, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 836][/us/stat/99/836]; amended [Pub. L. 103–43, title V][/us/pl/103/43/tV], § 505, June 10, 1993, [107 Stat. 160][/us/stat/107/160].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F836
-[/us/pl/103/43/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs505
+[/us/pl/103/43/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtV
 [/us/stat/107/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F160
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

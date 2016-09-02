@@ -41,7 +41,7 @@
 
         The Administrator shall submit to the President and the Congress a report concerning the most appropriate means of assuring, on a continuing basis, that the research efforts of the Agency reflect the needs and priorities of the regulatory program offices, while maintaining a high level of scientific quality. Such report shall be submitted on or before March 31, 1978.
 
-([Pub. L. 95–155, § 7][/us/pl/95/155/s7], Nov. 8, 1977, [91 Stat. 1259][/us/stat/91/1259].)
+([Pub. L. 95–155][/us/pl/95/155], § 7, Nov. 8, 1977, [91 Stat. 1259][/us/stat/91/1259].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/95/155/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155%2Fs7
+[/us/pl/95/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155
 [/us/stat/91/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1259
 [/us/pl/95/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155
 [/us/stat/91/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1257

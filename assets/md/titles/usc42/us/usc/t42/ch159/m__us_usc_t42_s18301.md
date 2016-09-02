@@ -47,7 +47,7 @@
 
     (15) There is a need for national space and export control policies that protect the national security of the United States while also enabling the United States and its aerospace industry to undertake cooperative programs in science and human space flight in an effective and efficient manner and to compete effectively in the global market place.
 
-([Pub. L. 111–267, § 2][/us/pl/111/267/s2], Oct. 11, 2010, [124 Stat. 2807][/us/stat/124/2807].)
+([Pub. L. 111–267][/us/pl/111/267], § 2, Oct. 11, 2010, [124 Stat. 2807][/us/stat/124/2807].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title__ 
 
-[Pub. L. 111–267, § 1(a)][/us/pl/111/267/s1/a], Oct. 11, 2010, [124 Stat. 2805][/us/stat/124/2805], provided that: 
+[Pub. L. 111–267][/us/pl/111/267], § 1(a), Oct. 11, 2010, [124 Stat. 2805][/us/stat/124/2805], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘National Aeronautics and Space Administration Authorization Act of 2010’.”
 
@@ -70,7 +70,7 @@
 
 [/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
 [/us/pl/110/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422
-[/us/pl/111/267/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs2
+[/us/pl/111/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267
 [/us/stat/124/2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2807
 [/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
 [/us/stat/119/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2895
@@ -82,7 +82,7 @@
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3328
 [/us/usc/t51/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs10101
-[/us/pl/111/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs1%2Fa
+[/us/pl/111/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267
 [/us/stat/124/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2805
 
 

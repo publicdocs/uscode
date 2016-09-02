@@ -35,11 +35,11 @@
 
         It shall be unlawful for the owner or operator of any source subject to this subchapter to operate a source without complying with the requirements of this section, and any regulations implementing this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 412, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2624][/us/stat/104/2624].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 412, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2624][/us/stat/104/2624].)
 
  __Information Gathering on Greenhouse Gases Contributing to Global Climate Change__ 
 
-[Pub. L. 101–549, title VIII, § 821][/us/pl/101/549/s821], Nov. 15, 1990, [104 Stat. 2699][/us/stat/104/2699], provided that:
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 821, Nov. 15, 1990, [104 Stat. 2699][/us/stat/104/2699], provided that:
 
 >     “(a)  __Monitoring__  __.—__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t42/s7651c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651c
 [/us/usc/t42/s7651j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651j
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2624
-[/us/pl/101/549/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs821
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2699
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7651k/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651k%2Fe

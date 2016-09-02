@@ -35,11 +35,11 @@
 
         The Administrator shall provide training and technical assistance to mental health professionals and law enforcement personnel (including public defenders, police officers, probation officers, judges, parole officials, and correctional officers) to address or to promote the development, testing, or demonstration of promising or innovative models (including model juvenile and family courts), programs, or delivery systems that address the needs of juveniles who are alleged or adjudicated delinquent and who, as a result of such status, are placed in secure detention or confinement or in nonsecure residential placements.
 
-([Pub. L. 93–415, title II, § 252][/us/pl/93/415/s252], as added [Pub. L. 107–273, div. C, title II, § 12211][/us/pl/107/273/s12211], Nov. 2, 2002, [116 Stat. 1890][/us/stat/116/1890].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 252, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12211, Nov. 2, 2002, [116 Stat. 1890][/us/stat/116/1890].)
 
  __Prior Provisions__ 
 
-    A prior section 5662, [Pub. L. 93–415, title II, § 248][/us/pl/93/415/s248], as added [Pub. L. 100–690, title VII, § 7264][/us/pl/100/690/s7264], Nov. 18, 1988, [102 Stat. 4447][/us/stat/102/4447]; amended [Pub. L. 102–586, § 2(g)(6)][/us/pl/102/586/s2/g/6], Nov. 4, 1992, [106 Stat. 4997][/us/stat/106/4997], related to special studies and reports, prior to repeal by [Pub. L. 107–273, div. C, title II, § 12210(1)][/us/pl/107/273/s12210/1], Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
+    A prior section 5662, [Pub. L. 93–415, title II][/us/pl/93/415/tII], § 248, as added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7264, Nov. 18, 1988, [102 Stat. 4447][/us/stat/102/4447]; amended [Pub. L. 102–586][/us/pl/102/586], § 2(g)(6), Nov. 4, 1992, [106 Stat. 4997][/us/stat/106/4997], related to special studies and reports, prior to repeal by [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12210(1), Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
 
 ----------
 
@@ -50,15 +50,15 @@
 
 [/us/usc/t42/s5602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5602
 [/us/usc/t42/s5602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5602
-[/us/pl/93/415/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs252
-[/us/pl/107/273/s12211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12211
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1890
-[/us/pl/93/415/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs248
-[/us/pl/100/690/s7264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7264
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4447
-[/us/pl/102/586/s2/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fg%2F6
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/4997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4997
-[/us/pl/107/273/s12210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12210%2F1
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1880
 
 

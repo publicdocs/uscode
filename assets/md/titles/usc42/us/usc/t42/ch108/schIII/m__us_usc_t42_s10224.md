@@ -31,7 +31,7 @@
 
         If requested by either House of the Congress (or any committee thereof) or if considered necessary by the Comptroller General, the Government Accountability Office shall conduct an audit of the Office, in accord with such regulations as the Comptroller General may prescribe. The Comptroller General shall have access to such books, records, accounts, and other materials of the Office as the Comptroller General determines to be necessary for the preparation of such audit. The Comptroller General shall submit a report on the results of each audit conducted under this section.
 
-([Pub. L. 97–425, title III, § 304][/us/pl/97/425/s304], Jan. 7, 1983, [96 Stat. 2261][/us/stat/96/2261]; [Pub. L. 104–66, title I, § 1052][/us/pl/104/66/s1052](l), Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–425, title III][/us/pl/97/425/tIII], § 304, Jan. 7, 1983, [96 Stat. 2261][/us/stat/96/2261]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(l), Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/97/425/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs304
+[/us/pl/97/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIII
 [/us/stat/96/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2261
-[/us/pl/104/66/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F719
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

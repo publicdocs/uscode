@@ -23,7 +23,7 @@
 
         As part of the program authorized in subsection (a) of this section, the Secretary may solicit proposals for underground coal gasification technology projects to fulfill the goal and objective of subsection (a) of this section.
 
-([Pub. L. 102–486, title XIII, § 1309][/us/pl/102/486/s1309], Oct. 24, 1992, [106 Stat. 2975][/us/stat/106/2975].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1309, Oct. 24, 1992, [106 Stat. 2975][/us/stat/106/2975].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1309
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2975
 
 

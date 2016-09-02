@@ -37,7 +37,7 @@
 
         Nothing in this subchapter prohibits a person engaged in the business of furnishing appraisals of real property to take into consideration factors other than race, color, religion, national origin, sex, handicap, or familial status.
 
-([Pub. L. 90–284, title VIII, § 805][/us/pl/90/284/s805], Apr. 11, 1968, [82 Stat. 83][/us/stat/82/83]; [Pub. L. 93–383, title VIII, § 808(b)(2)][/us/pl/93/383/s808/b/2], Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 100–430, § 6(c)][/us/pl/100/430/s6/c], Sept. 13, 1988, [102 Stat. 1622][/us/stat/102/1622].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 805, Apr. 11, 1968, [82 Stat. 83][/us/stat/82/83]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 808(b)(2), Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 100–430][/us/pl/100/430], § 6(c), Sept. 13, 1988, [102 Stat. 1622][/us/stat/102/1622].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/90/284/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs805
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F83
-[/us/pl/93/383/s808/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs808%2Fb%2F2
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F729
-[/us/pl/100/430/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs6%2Fc
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1622
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/usc/t42/s3603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3603%2Fb

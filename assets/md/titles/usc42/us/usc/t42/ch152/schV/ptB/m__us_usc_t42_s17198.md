@@ -17,7 +17,7 @@
 
     The Secretary shall expand the Department of Energy’s GeoPowering the West program to extend its geothermal technology transfer activities throughout the entire United States. The program shall be renamed “GeoPowering America”. The program shall continue to be based in the Department of Energy office in Golden, Colorado.
 
-([Pub. L. 110–140, title VI, § 619][/us/pl/110/140/s619], Dec. 19, 2007, [121 Stat. 1683][/us/stat/121/1683].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 619, Dec. 19, 2007, [121 Stat. 1683][/us/stat/121/1683].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs619
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1683
 
 

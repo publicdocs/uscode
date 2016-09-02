@@ -41,11 +41,11 @@
 
             The Secretary of Housing and Urban Development and the Secretary of Health and Human Services shall jointly establish guidelines for determining the appropriateness of proposed outpatient health services under this section. Such guidelines shall include any provisions necessary to enable the Secretary of Housing and Urban Development to meet the time limits under this part for the final selection of applications for assistance.
 
-([Pub. L. 100–77, title IV, § 425][/us/pl/100/77/s425], as added [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4017][/us/stat/106/4017].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 425, as added [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4017][/us/stat/106/4017].)
 
  __Prior Provisions__ 
 
-    A prior section 11385, [Pub. L. 100–77, title IV, § 425][/us/pl/100/77/s425], July 22, 1987, [101 Stat. 503][/us/stat/101/503]; [Pub. L. 100–628, title IV, § 452][/us/pl/100/628/s452], Nov. 7, 1988, [102 Stat. 3235][/us/stat/102/3235]; [Pub. L. 101–625, title VIII, § 833(k)(3)][/us/pl/101/625/s833/k/3], Nov. 28, 1990, [104 Stat. 4365][/us/stat/104/4365], required recipients of assistance under supportive housing demonstration program to obtain an equal amount of funding from non-Federal sources, prior to repeal by [Pub. L. 102–550, § 1403(a)][/us/pl/102/550/s1403/a].
+    A prior section 11385, [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 425, July 22, 1987, [101 Stat. 503][/us/stat/101/503]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 452, Nov. 7, 1988, [102 Stat. 3235][/us/stat/102/3235]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 833(k)(3), Nov. 28, 1990, [104 Stat. 4365][/us/stat/104/4365], required recipients of assistance under supportive housing demonstration program to obtain an equal amount of funding from non-Federal sources, prior to repeal by [Pub. L. 102–550][/us/pl/102/550], § 1403(a).
 
 ----------
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/100/77/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs425
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4017
-[/us/pl/100/77/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs425
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F503
-[/us/pl/100/628/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs452
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3235
-[/us/pl/101/625/s833/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs833%2Fk%2F3
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4365
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

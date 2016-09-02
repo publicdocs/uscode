@@ -33,7 +33,7 @@
 
             An executive agency (including an executive agency that enters into a contract with a contractor) and any contractor making donations pursuant to this section shall be exempt from civil and criminal liability to the extent provided under [section 1791 of this title][/us/usc/t42/s1791].
 
-([Pub. L. 110–247, § 4][/us/pl/110/247/s4], June 20, 2008, [122 Stat. 2314][/us/stat/122/2314].)
+([Pub. L. 110–247][/us/pl/110/247], § 4, June 20, 2008, [122 Stat. 2314][/us/stat/122/2314].)
 
  __References in Text__ 
 
@@ -43,17 +43,17 @@
 
     Section was enacted as part of the Federal Food Donation Act of 2008, and not as part of the Child Nutrition Act of 1966 which comprises this chapter.
 
-    In subsec. (a), “[section 1303 of title 41][/us/usc/t41/s1303]” substituted for “section 25 of the Office of Federal Procurement Policy Act ([41 U.S.C. 421][/us/usc/t41/s421])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “[section 1303 of title 41][/us/usc/t41/s1303]” substituted for “section 25 of the Office of Federal Procurement Policy Act ([41 U.S.C. 421][/us/usc/t41/s421])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Purpose__ 
 
-[Pub. L. 110–247, § 2][/us/pl/110/247/s2], June 20, 2008, [122 Stat. 2314][/us/stat/122/2314], provided that: 
+[Pub. L. 110–247][/us/pl/110/247], § 2, June 20, 2008, [122 Stat. 2314][/us/stat/122/2314], provided that: 
 
 > “The purpose of this Act \[enacting this section and provisions set out as notes under this section and [section 1771 of this title][/us/usc/t42/s1771]\] is to encourage executive agencies and contractors of executive agencies, to the maximum extent practicable and safe, to donate excess, apparently wholesome food to feed food-insecure people in the United States.”
 
  __Definitions__ 
 
-[Pub. L. 110–247, § 3][/us/pl/110/247/s3], June 20, 2008, [122 Stat. 2314][/us/stat/122/2314], provided that: 
+[Pub. L. 110–247][/us/pl/110/247], § 3, June 20, 2008, [122 Stat. 2314][/us/stat/122/2314], provided that: 
 
 > “In this Act \[enacting this section and provisions set out as notes under this section and [section 1771 of this title][/us/usc/t42/s1771]\]:
 
@@ -90,7 +90,7 @@
 
 [/us/usc/t41/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303
 [/us/usc/t42/s1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1791
-[/us/pl/110/247/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F247%2Fs4
+[/us/pl/110/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F247
 [/us/stat/122/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2314
 [/us/pl/110/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F247
 [/us/stat/122/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2314
@@ -98,12 +98,12 @@
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t41/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303
 [/us/usc/t41/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/110/247/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F247%2Fs2
+[/us/pl/110/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F247
 [/us/stat/122/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2314
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/pl/110/247/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F247%2Fs3
+[/us/pl/110/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F247
 [/us/stat/122/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2314
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t42/s1791/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1791%2Fb

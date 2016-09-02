@@ -57,7 +57,7 @@
 
         Any manufacturer of manufactured housing that violates a provision of the regulations under subsection (a) is liable to the United States for a civil penalty in an amount not exceeding 1 percent of the manufacturer’s retail list price of the manufactured housing.
 
-([Pub. L. 110–140, title IV, § 413][/us/pl/110/140/s413], Dec. 19, 2007, [121 Stat. 1601][/us/stat/121/1601].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 413, Dec. 19, 2007, [121 Stat. 1601][/us/stat/121/1601].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs413
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1601
 
 

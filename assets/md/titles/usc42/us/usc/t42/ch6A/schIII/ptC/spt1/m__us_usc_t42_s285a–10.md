@@ -35,7 +35,7 @@
 
             The Agency determined by the Secretary under paragraph (1) shall carry out this subsection in collaboration with private health organizations that have national education and patient assistance programs on blood-related cancers.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417D, as added [Pub. L. 107–172, § 3][/us/pl/107/172/s3], May 14, 2002, [116 Stat. 541][/us/stat/116/541]; amended [Pub. L. 109–482, title I, § 103(b)(17)][/us/pl/109/482/s103/b/17], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417D, as added [Pub. L. 107–172][/us/pl/107/172], § 3, May 14, 2002, [116 Stat. 541][/us/stat/116/541]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(17), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(3). [Pub. L. 109–482, § 103(b)(17)(A)][/us/pl/109/482/s103/b/17/A], struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
+    2007—Subsec. (a)(3). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(17)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
 
-    Subsec. (b)(3). [Pub. L. 109–482, § 103(b)(17)(B)][/us/pl/109/482/s103/b/17/B], struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
+    Subsec. (b)(3). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(17)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
 
  __Effective Date of 2007 Amendment__ 
 
@@ -53,7 +53,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 107–172, § 2][/us/pl/107/172/s2], May 14, 2002, [116 Stat. 541][/us/stat/116/541], provided that: 
+[Pub. L. 107–172][/us/pl/107/172], § 2, May 14, 2002, [116 Stat. 541][/us/stat/116/541], provided that: 
 
 > “Congress finds that:
 
@@ -75,17 +75,17 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/172/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F172%2Fs3
+[/us/pl/107/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F172
 [/us/stat/116/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F541
-[/us/pl/109/482/s103/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F17
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/107/172/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F172%2Fs3
-[/us/pl/109/482/s103/b/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F17%2FA
-[/us/pl/109/482/s103/b/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F17%2FB
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/107/172/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F172%2Fs2
+[/us/pl/107/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F172
 [/us/stat/116/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F541
 
 

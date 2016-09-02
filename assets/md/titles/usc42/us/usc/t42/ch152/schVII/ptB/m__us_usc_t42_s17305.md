@@ -27,7 +27,7 @@
 
         Nothing in this part preempts any State law.
 
-([Pub. L. 110–140, title VIII, § 815][/us/pl/110/140/s815], Dec. 19, 2007, [121 Stat. 1724][/us/stat/121/1724].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 815, Dec. 19, 2007, [121 Stat. 1724][/us/stat/121/1724].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/110/140/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs815
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1724
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

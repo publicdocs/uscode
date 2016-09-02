@@ -31,7 +31,7 @@
 
         There is authorized to be appropriated to carry out this section $10,000,000 for each  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “of”. </sup></sup>  the fiscal years 2001 through 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 320A, as added [Pub. L. 106–310, div. A, title XVI, § 1603][/us/pl/106/310/s1603], Oct. 17, 2000, [114 Stat. 1151][/us/stat/114/1151].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 320A, as added [Pub. L. 106–310, div. A, title XVI][/us/pl/106/310/dA/tXVI], § 1603, Oct. 17, 2000, [114 Stat. 1151][/us/stat/114/1151].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t25/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1651
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1603
+[/us/pl/106/310/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXVI
 [/us/stat/114/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1151
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400

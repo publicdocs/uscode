@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 89–272, title II, § 3012][/us/pl/89/272/s3012], as added [Pub. L. 96–463, § 7(a)][/us/pl/96/463/s7/a], Oct. 15, 1980, [94 Stat. 2057][/us/stat/94/2057], was redesignated [section 3014 of Pub. L. 89–272][/us/pl/89/272/s3014] by [Pub. L. 98–616, title V, § 502(g)(1)][/us/pl/98/616/s502/g/1], Nov. 8, 1984, [98 Stat. 3277][/us/stat/98/3277], and was transferred to [section 6935 of this title][/us/usc/t42/s6935].
+    Section, [Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3012, as added [Pub. L. 96–463][/us/pl/96/463], § 7(a), Oct. 15, 1980, [94 Stat. 2057][/us/stat/94/2057], was redesignated [section 3014 of Pub. L. 89–272][/us/pl/89/272/s3014] by [Pub. L. 98–616, title V][/us/pl/98/616/tV], § 502(g)(1), Nov. 8, 1984, [98 Stat. 3277][/us/stat/98/3277], and was transferred to [section 6935 of this title][/us/usc/t42/s6935].
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/89/272/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3012
-[/us/pl/96/463/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs7%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2057
 [/us/pl/89/272/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3014
-[/us/pl/98/616/s502/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs502%2Fg%2F1
+[/us/pl/98/616/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtV
 [/us/stat/98/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3277
 [/us/usc/t42/s6935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935
 

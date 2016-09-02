@@ -33,7 +33,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 101–624, title XXII, § 2281][/us/pl/101/624/s2281], Nov. 28, 1990, [104 Stat. 3978][/us/stat/104/3978]; [Pub. L. 107–171, title X, § 10102][/us/pl/107/171/s10102], May 13, 2002, [116 Stat. 488][/us/stat/116/488].)
+([Pub. L. 101–624, title XXII][/us/pl/101/624/tXXII], § 2281, Nov. 28, 1990, [104 Stat. 3978][/us/stat/104/3978]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10102, May 13, 2002, [116 Stat. 488][/us/stat/116/488].)
 
  __Codification__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/101/624/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2281
+[/us/pl/101/624/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXII
 [/us/stat/104/3978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3978
-[/us/pl/107/171/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10102
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F488
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

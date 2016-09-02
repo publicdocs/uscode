@@ -39,13 +39,13 @@
 
         The governments of the territories are authorized to make payments to local governments within their jurisdiction from sums received under this section as they deem appropriate.
 
-([Pub. L. 94–369, title II, § 216][/us/pl/94/369/s216], as added [Pub. L. 95–30, title VI, § 607][/us/pl/95/30/s607], May 23, 1977, [91 Stat. 167][/us/stat/91/167].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 216, as added [Pub. L. 95–30, title VI][/us/pl/95/30/tVI], § 607, May 23, 1977, [91 Stat. 167][/us/stat/91/167].)
 
  __References in Text__ 
 
-    [Section 6726 of this title][/us/usc/t42/s6726], referred to in subsec. (b)(3)(C), was repealed by [Pub. L. 95–30, title VI, § 603(i)][/us/pl/95/30/s603/i], May 23, 1977, [91 Stat. 166][/us/stat/91/166].
+    [Section 6726 of this title][/us/usc/t42/s6726], referred to in subsec. (b)(3)(C), was repealed by [Pub. L. 95–30, title VI][/us/pl/95/30/tVI], § 603(i), May 23, 1977, [91 Stat. 166][/us/stat/91/166].
 
-    [Section 6733 of this title][/us/usc/t42/s6733], referred to in subsec. (b)(3)(C), was repealed by [Pub. L. 104–66, title I, § 1131(b)][/us/pl/104/66/s1131/b], Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].
+    [Section 6733 of this title][/us/usc/t42/s6733], referred to in subsec. (b)(3)(C), was repealed by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1131(b), Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].
 
 ----------
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t42/s6722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6722%2Fb
-[/us/pl/94/369/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs216
-[/us/pl/95/30/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs607
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
+[/us/pl/95/30/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtVI
 [/us/stat/91/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F167
 [/us/usc/t42/s6726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6726
-[/us/pl/95/30/s603/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs603%2Fi
+[/us/pl/95/30/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtVI
 [/us/stat/91/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F166
 [/us/usc/t42/s6733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6733
-[/us/pl/104/66/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1131%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F725
 
 

@@ -17,7 +17,7 @@
 
     Subject to regulations of the President, lightkeepers, assistant lightkeepers, and officers and crews of vessels of the former Lighthouse Service, including any such persons who subsequent to June 30, 1939, were involuntarily assigned to other civilian duty in the Coast Guard, who were entitled to medical relief at hospitals and other stations of the Public Health Service prior to July 1, 1944, and who retired under the provisions of [section 763 of title 33][/us/usc/t33/s763], shall be entitled to medical, surgical, and dental treatment and hospitalization at hospitals and other stations of the Public Health Service.
 
-([Pub. L. 93–353, title I, § 108(a)][/us/pl/93/353/s108/a], July 23, 1974, [88 Stat. 371][/us/stat/88/371].)
+([Pub. L. 93–353, title I][/us/pl/93/353/tI], § 108(a), July 23, 1974, [88 Stat. 371][/us/stat/88/371].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–353, title I, § 108(b)][/us/pl/93/353/s108/b], July 23, 1974, [88 Stat. 371][/us/stat/88/371], provided that: 
+[Pub. L. 93–353, title I][/us/pl/93/353/tI], § 108(b), July 23, 1974, [88 Stat. 371][/us/stat/88/371], provided that: 
 
 > “Subsection (a) \[enacting this section\] shall be effective from December 28, 1973.”
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t33/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs763
-[/us/pl/93/353/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs108%2Fa
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F371
-[/us/pl/93/353/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs108%2Fb
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F371
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

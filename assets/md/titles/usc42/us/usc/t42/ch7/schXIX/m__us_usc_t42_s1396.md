@@ -277,7 +277,7 @@
 
             Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1900, as added [Pub. L. 111–3, title V, § 506(a)][/us/pl/111/3/s506/a], Feb. 4, 2009, [123 Stat. 91][/us/stat/123/91]; amended [Pub. L. 111–148, title II, § 2801(a)][/us/pl/111/148/s2801/a], Mar. 23, 2010, [124 Stat. 328][/us/stat/124/328]; [Pub. L. 113–93, title II, § 221(b)][/us/pl/113/93/s221/b], Apr. 1, 2014, [128 Stat. 1076][/us/stat/128/1076].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1900, as added [Pub. L. 111–3, title V][/us/pl/111/3/tV], § 506(a), Feb. 4, 2009, [123 Stat. 91][/us/stat/123/91]; amended [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2801(a), Mar. 23, 2010, [124 Stat. 328][/us/stat/124/328]; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 221(b), Apr. 1, 2014, [128 Stat. 1076][/us/stat/128/1076].)
 
  __References in Text__ 
 
@@ -287,53 +287,53 @@
 
  __Codification__ 
 
-    In subsec. (d)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
-    A prior section 1396, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1901, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 343][/us/stat/79/343]; amended [Pub. L. 93–233, § 13(a)(1)][/us/pl/93/233/s13/a/1], Dec. 31, 1973, [87 Stat. 960][/us/stat/87/960]; [Pub. L. 98–369, div. B, title VI, § 2663(j)(3)(C)][/us/pl/98/369/s2663/j/3/C], July 18, 1984, [98 Stat. 1171][/us/stat/98/1171], which related to appropriations, was transferred to [section 1396–1 of this title][/us/usc/t42/s1396–1].
+    A prior section 1396, [act Aug. 14, 1935, ch. 531, title XIX][/us/act/1935-08-14/ch531/tXIX], § 1901, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 121(a), July 30, 1965, [79 Stat. 343][/us/stat/79/343]; amended [Pub. L. 93–233][/us/pl/93/233], § 13(a)(1), Dec. 31, 1973, [87 Stat. 960][/us/stat/87/960]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(j)(3)(C), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171], which related to appropriations, was transferred to [section 1396–1 of this title][/us/usc/t42/s1396–1].
 
  __Amendments__ 
 
     2014—Subsec. (b)(6). [Pub. L. 113–93][/us/pl/113/93] designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    2010—Subsec. (b)(1). [Pub. L. 111–148, § 2801(a)(1)(A)(i)][/us/pl/111/148/s2801/a/1/A/i], inserted “for all States” before “and annual” in heading.
+    2010—Subsec. (b)(1). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(A)(i), inserted “for all States” before “and annual” in heading.
 
-    Subsec. (b)(1)(A). [Pub. L. 111–148, § 2801(a)(1)(A)(ii)][/us/pl/111/148/s2801/a/1/A/ii], struck out “children’s” before “access”.
+    Subsec. (b)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(A)(ii), struck out “children’s” before “access”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–148, § 2801(a)(1)(A)(iii)][/us/pl/111/148/s2801/a/1/A/iii], inserted “, the Secretary, and States” after “Congress”.
+    Subsec. (b)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(A)(iii), inserted “, the Secretary, and States” after “Congress”.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–148, § 2801(a)(1)(A)(iv)][/us/pl/111/148/s2801/a/1/A/iv], substituted “March 15” for “March 1”.
+    Subsec. (b)(1)(C). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(A)(iv), substituted “March 15” for “March 1”.
 
-    Subsec. (b)(1)(D). [Pub. L. 111–148, § 2801(a)(1)(A)(v)][/us/pl/111/148/s2801/a/1/A/v], substituted “June 15” for “June 1”.
+    Subsec. (b)(1)(D). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(A)(v), substituted “June 15” for “June 1”.
 
-    Subsec. (b)(2)(A)(i). [Pub. L. 111–148, § 2801(a)(1)(B)(i)(I)][/us/pl/111/148/s2801/a/1/B/i/I], inserted “the efficient provision of” after “expenditures for” and substituted “payments to medical, dental, and health professionals, hospitals, residential and long-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services” for “hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees”.
+    Subsec. (b)(2)(A)(i). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(B)(i)(I), inserted “the efficient provision of” after “expenditures for” and substituted “payments to medical, dental, and health professionals, hospitals, residential and long-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services” for “hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees”.
 
-    Subsec. (b)(2)(A)(iii). [Pub. L. 111–148, § 2801(a)(1)(B)(i)(II)][/us/pl/111/148/s2801/a/1/B/i/II], inserted “(including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate share of low-income and other vulnerable populations)” after “CHIP beneficiaries”.
+    Subsec. (b)(2)(A)(iii). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(B)(i)(II), inserted “(including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate share of low-income and other vulnerable populations)” after “CHIP beneficiaries”.
 
-    Subsec. (b)(2)(B) to (H). [Pub. L. 111–148, § 2801(a)(1)(B)(ii)][/us/pl/111/148/s2801/a/1/B/ii]–(v), added subpars. (B) to (E) and (G), redesignated former subpars. (B) and (C) as (F) and (H), respectively, and, in subpar. (H), inserted “and preventive, acute, and long-term services and supports” after “barriers”.
+    Subsec. (b)(2)(B) to (H). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(B)(ii)–(v), added subpars. (B) to (E) and (G), redesignated former subpars. (B) and (C) as (F) and (H), respectively, and, in subpar. (H), inserted “and preventive, acute, and long-term services and supports” after “barriers”.
 
-    Subsec. (b)(3). [Pub. L. 111–148, § 2801(a)(1)(D)][/us/pl/111/148/s2801/a/1/D], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(D), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 111–148, § 2801(a)(1)(C)][/us/pl/111/148/s2801/a/1/C], (E), redesignated par. (3) as (4) and substituted “, as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.” for “or any other problems that threaten access to care or the health care status of Medicaid and CHIP beneficiaries.” Former par. (4) redesignated (5).
+    Subsec. (b)(4). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(C), (E), redesignated par. (3) as (4) and substituted “, as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.” for “or any other problems that threaten access to care or the health care status of Medicaid and CHIP beneficiaries.” Former par. (4) redesignated (5).
 
-    Subsec. (b)(5). [Pub. L. 111–148, § 2801(a)(1)(C)][/us/pl/111/148/s2801/a/1/C], (F), redesignated par. (4) as (5), inserted “and regulations” after “reports” in heading, designated existing provisions as subpar. (A) and inserted heading, inserted “and the Secretary” after “appropriate committees of Congress” in subpar. (A), and added subpar. (B). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(C), (F), redesignated par. (4) as (5), inserted “and regulations” after “reports” in heading, designated existing provisions as subpar. (A) and inserted heading, inserted “and the Secretary” after “appropriate committees of Congress” in subpar. (A), and added subpar. (B). Former par. (5) redesignated (6).
 
-    Subsec. (b)(6) to (10). [Pub. L. 111–148, § 2801(a)(1)(C)][/us/pl/111/148/s2801/a/1/C], (G), redesignated pars. (5) to (9) as (6) to (10), respectively, and inserted “, and shall submit with any recommendations, a report on the Federal and State-specific budget consequences of the recommendations” in par. (10) before period at end.
+    Subsec. (b)(6) to (10). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(C), (G), redesignated pars. (5) to (9) as (6) to (10), respectively, and inserted “, and shall submit with any recommendations, a report on the Federal and State-specific budget consequences of the recommendations” in par. (10) before period at end.
 
-    Subsec. (b)(11) to (14). [Pub. L. 111–148, § 2801(a)(1)(H)][/us/pl/111/148/s2801/a/1/H], added pars. (11) to (14).
+    Subsec. (b)(11) to (14). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(1)(H), added pars. (11) to (14).
 
-    Subsec. (c)(2)(A), (B). [Pub. L. 111–148, § 2801(a)(2)(A)][/us/pl/111/148/s2801/a/2/A], added subpars. (A) and (B) and struck out former subpars. (A) and (B) which related to MACPAC membership qualifications.
+    Subsec. (c)(2)(A), (B). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(2)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which related to MACPAC membership qualifications.
 
-    Subsec. (d)(2). [Pub. L. 111–148, § 2801(a)(3)][/us/pl/111/148/s2801/a/3], inserted “and State” after “Federal”.
+    Subsec. (d)(2). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(3), inserted “and State” after “Federal”.
 
-    Subsec. (e)(1). [Pub. L. 111–148, § 2801(a)(4)][/us/pl/111/148/s2801/a/4], inserted “and, as a condition for receiving payments under sections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP,” after “United States”.
+    Subsec. (e)(1). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(4), inserted “and, as a condition for receiving payments under sections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP,” after “United States”.
 
-    Subsec. (f). [Pub. L. 111–148, § 2801(a)(5)][/us/pl/111/148/s2801/a/5], substituted “Funding” for “Authorization of appropriations” in heading, inserted “(other than for fiscal year 2010)” before “in the same manner” in par. (1), and added pars. (3) and (4).
+    Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 2801(a)(5), substituted “Funding” for “Authorization of appropriations” in heading, inserted “(other than for fiscal year 2010)” before “in the same manner” in par. (1), and added pars. (3) and (4).
 
  __Effective Date__ 
 
-[Pub. L. 111–3, § 3][/us/pl/111/3/s3], Feb. 4, 2009, [123 Stat. 10][/us/stat/123/10], provided that:
+[Pub. L. 111–3][/us/pl/111/3], § 3, Feb. 4, 2009, [123 Stat. 10][/us/stat/123/10], provided that:
 
 >     “(a)  __General Effective Date__  __.—__ 
 
@@ -361,13 +361,13 @@
 
  __Purpose__ 
 
-[Pub. L. 111–3, § 2][/us/pl/111/3/s2], Feb. 4, 2009, [123 Stat. 10][/us/stat/123/10], provided that: 
+[Pub. L. 111–3][/us/pl/111/3], § 2, Feb. 4, 2009, [123 Stat. 10][/us/stat/123/10], provided that: 
 
 > “It is the purpose of this Act \[see Effective Date note above\] to provide dependable and stable funding for children’s health insurance under titles XXI and XIX of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq., 1396 et seq.\] in order to enroll all six million uninsured children who are eligible, but not enrolled, for coverage today through such titles.”
 
  __Model of Interstate Coordinated Enrollment and Coverage Process__ 
 
-[Pub. L. 111–3, title II, § 213][/us/pl/111/3/s213], Feb. 4, 2009, [123 Stat. 56][/us/stat/123/56], provided that:
+[Pub. L. 111–3, title II][/us/pl/111/3/tII], § 213, Feb. 4, 2009, [123 Stat. 56][/us/stat/123/56], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -379,7 +379,7 @@
 
  __Improved Accessibility of Dental Provider Information to Enrollees Under Medicaid and CHIP__ 
 
-[Pub. L. 111–3, title V, § 501(f)][/us/pl/111/3/s501/f], Feb. 4, 2009, [123 Stat. 88][/us/stat/123/88], provided that: 
+[Pub. L. 111–3, title V][/us/pl/111/3/tV], § 501(f), Feb. 4, 2009, [123 Stat. 88][/us/stat/123/88], provided that: 
 
 > “The Secretary \[of Health and Human Services\] shall—
 
@@ -389,25 +389,25 @@
 
  __Deadline for Initial Appointments__ 
 
-[Pub. L. 111–3, title V, § 506(b)][/us/pl/111/3/s506/b], Feb. 4, 2009, [123 Stat. 95][/us/stat/123/95], provided that: 
+[Pub. L. 111–3, title V][/us/pl/111/3/tV], § 506(b), Feb. 4, 2009, [123 Stat. 95][/us/stat/123/95], provided that: 
 
 > “Not later than January 1, 2010, the Comptroller General of the United States shall appoint the initial members of the Medicaid and CHIP Payment and Access Commission established under section 1900 of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396]\] (as added by subsection (a)).”
 
  __Annual Report__ 
 
-[Pub. L. 111–3, title V, § 506(c)][/us/pl/111/3/s506/c], Feb. 4, 2009, [123 Stat. 95][/us/stat/123/95], provided that: 
+[Pub. L. 111–3, title V][/us/pl/111/3/tV], § 506(c), Feb. 4, 2009, [123 Stat. 95][/us/stat/123/95], provided that: 
 
 > “Not later than January 1, 2010, and annually thereafter, the Secretary \[of Health and Human Services\], in consultation with the Secretary of the Treasury, the Secretary of Labor, and the States (as defined for purposes of Medicaid), shall submit an annual report to Congress on the financial status of, enrollment in, and spending trends for, Medicaid for the fiscal year ending on September 30 of the preceding year.”
 
  __No Federal Funding for Illegal Aliens; Disallowance for Unauthorized Expenditures__ 
 
-[Pub. L. 111–3, title VI, § 605][/us/pl/111/3/s605], Feb. 4, 2009, [123 Stat. 100][/us/stat/123/100], as amended by [Pub. L. 111–148, title II, § 2102(a)(2)][/us/pl/111/148/s2102/a/2], Mar. 23, 2010, [124 Stat. 288][/us/stat/124/288], provided that: 
+[Pub. L. 111–3, title VI][/us/pl/111/3/tVI], § 605, Feb. 4, 2009, [123 Stat. 100][/us/stat/123/100], as amended by [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2102(a)(2), Mar. 23, 2010, [124 Stat. 288][/us/stat/124/288], provided that: 
 
 > “Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1396 et seq., 1397aa et seq.\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively.”
 
  __Definitions__ 
 
-[Pub. L. 111–3, § 1(c)][/us/pl/111/3/s1/c], Feb. 4, 2009, [123 Stat. 8][/us/stat/123/8], provided that: 
+[Pub. L. 111–3][/us/pl/111/3], § 1(c), Feb. 4, 2009, [123 Stat. 8][/us/stat/123/8], provided that: 
 
 > “In this Act \[see Effective Date note above\]:
 
@@ -439,11 +439,11 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t42/s1397dd/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fa%2F13
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/3/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs506%2Fa
+[/us/pl/111/3/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtV
 [/us/stat/123/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F91
-[/us/pl/111/148/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F328
-[/us/pl/113/93/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs221%2Fb
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1076
 [/us/pl/111/148/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2602
 [/us/stat/124/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F315
@@ -455,35 +455,35 @@
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs121%2Fa
+[/us/act/1935-08-14/ch531/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXIX
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F343
-[/us/pl/93/233/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs13%2Fa%2F1
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F960
-[/us/pl/98/369/s2663/j/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F3%2FC
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
 [/us/usc/t42/s1396–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396%E2%80%931
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
-[/us/pl/111/148/s2801/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fi
-[/us/pl/111/148/s2801/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fii
-[/us/pl/111/148/s2801/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fiii
-[/us/pl/111/148/s2801/a/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fiv
-[/us/pl/111/148/s2801/a/1/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fv
-[/us/pl/111/148/s2801/a/1/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FB%2Fi%2FI
-[/us/pl/111/148/s2801/a/1/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FB%2Fi%2FII
-[/us/pl/111/148/s2801/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FB%2Fii
-[/us/pl/111/148/s2801/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FD
-[/us/pl/111/148/s2801/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FC
-[/us/pl/111/148/s2801/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FC
-[/us/pl/111/148/s2801/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FC
-[/us/pl/111/148/s2801/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FH
-[/us/pl/111/148/s2801/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F2%2FA
-[/us/pl/111/148/s2801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F3
-[/us/pl/111/148/s2801/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F4
-[/us/pl/111/148/s2801/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F5
-[/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/stat/123/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F10
 [/us/usc/t15/s657p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657p
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
@@ -499,24 +499,24 @@
 [/us/usc/t26/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9801
 [/us/usc/t42/s1397gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397gg
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/111/3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs2
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/stat/123/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F10
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
-[/us/pl/111/3/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs213
+[/us/pl/111/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtII
 [/us/stat/123/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F56
-[/us/pl/111/3/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Ff
+[/us/pl/111/3/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtV
 [/us/stat/123/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F88
-[/us/pl/111/3/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs506%2Fb
+[/us/pl/111/3/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtV
 [/us/stat/123/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F95
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/111/3/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs506%2Fc
+[/us/pl/111/3/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtV
 [/us/stat/123/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F95
-[/us/pl/111/3/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs605
+[/us/pl/111/3/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVI
 [/us/stat/123/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F100
-[/us/pl/111/148/s2102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fa%2F2
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F288
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
-[/us/pl/111/3/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs1%2Fc
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/stat/123/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F8
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

@@ -113,13 +113,13 @@
 
         (6) The amounts required under paragraph (5)(B) shall pay the Government contributions for retired employees who retire from the Corporation after the privatization date under either CSRS or FERS, for survivors of such retired employees, and for survivors of employees of the Corporation who die after the privatization date, with said amounts prorated to reflect only that portion of the total service of such employees and retired persons that was performed for the Corporation after the privatization date.
 
-([Pub. L. 104–134, title III, § 3110][/us/pl/104/134/s3110], Apr. 26, 1996, [110 Stat. 1321–340][/us/stat/110/1321-340]; [Pub. L. 104–206, title III][/us/pl/104/206], Sept. 30, 1996, [110 Stat. 2995][/us/stat/110/2995]; [Pub. L. 109–58, title VI, § 633][/us/pl/109/58/s633], Aug. 8, 2005, [119 Stat. 790][/us/stat/119/790].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3110, Apr. 26, 1996, [110 Stat. 1321–340][/us/stat/110/1321-340]; [Pub. L. 104–206, title III][/us/pl/104/206/tIII], Sept. 30, 1996, [110 Stat. 2995][/us/stat/110/2995]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 633, Aug. 8, 2005, [119 Stat. 790][/us/stat/119/790].)
 
  __References in Text__ 
 
     The National Labor Relations Act, referred to in subsec. (a)(3), (7)(C), is [act July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], [49 Stat. 449][/us/stat/49/449], as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29][/us/usc/t29/s167] and Tables.
 
-    Sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (a)(5), were classified to sections 7274h and 7274i, respectively, of this title and were renumbered sections 4604 and 4643, respectively, of [Pub. L. 107–314][/us/pl/107/314], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)(A)][/us/pl/108/136/s3141/i/5/A]–(C), (14)(A)–(C), Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777], 1779, 1780, which are classified to sections 2704 and 2733, respectively, of Title 50, War and National Defense.
+    Sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (a)(5), were classified to sections 7274h and 7274i, respectively, of this title and were renumbered sections 4604 and 4643, respectively, of [Pub. L. 107–314][/us/pl/107/314], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(5)(A)–(C), (14)(A)–(C), Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777], 1779, 1780, which are classified to sections 2704 and 2733, respectively, of Title 50, War and National Defense.
 
     [Section 185 of title 29][/us/usc/t29/s185], referred to in subsec. (a)(7)(A), was in the original “section 301 of the Labor Management Relations Act ([29 U.S.C. 185][/us/usc/t29/s185])”, and has been translated as reading section 301 of the Labor Management Relations Act, 1947, to reflect the probable intent of Congress.
 
@@ -148,17 +148,17 @@
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
 [/us/usc/t5/s8348/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348%2Fa%2F1%2FB
 [/us/usc/t5/s8906/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fg%2F1
-[/us/pl/104/134/s3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3110
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-340
-[/us/pl/104/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206
+[/us/pl/104/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2FtIII
 [/us/stat/110/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2995
-[/us/pl/109/58/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs633
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F790
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F449
 [/us/usc/t29/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs167
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/108/136/s3141/i/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F5%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1777
 [/us/usc/t29/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs185
 [/us/usc/t29/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs185

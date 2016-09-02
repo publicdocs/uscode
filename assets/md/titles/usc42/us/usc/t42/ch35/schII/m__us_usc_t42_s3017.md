@@ -43,11 +43,11 @@
 
         From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts. No part of such sums may be reprogrammed, transferred, or used for any other purpose. Funds expended under this subsection shall be justified and accounted for by the Secretary.
 
-([Pub. L. 89–73, title II, § 206][/us/pl/89/73/s206], formerly § 207, as added [Pub. L. 93–29, title II, § 201(c)][/us/pl/93/29/s201/c], May 3, 1973, [87 Stat. 35][/us/stat/87/35]; amended [Pub. L. 95–478, title I, § 102(g)][/us/pl/95/478/s102/g], Oct. 18, 1978, [92 Stat. 1515][/us/stat/92/1515]; renumbered § 206 and amended [Pub. L. 97–115, § 2(e)(2)][/us/pl/97/115/s2/e/2], (h), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 98–459, title II, § 206][/us/pl/98/459/s206], Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I, § 106(c)][/us/pl/100/175/s106/c], Nov. 29, 1987, [101 Stat. 930][/us/stat/101/930]; [Pub. L. 102–375, title II, § 207][/us/pl/102/375/s207], Sept. 30, 1992, [106 Stat. 1213][/us/stat/106/1213]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(5), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title II, § 203][/us/pl/106/501/s203], Nov. 13, 2000, [114 Stat. 2234][/us/stat/114/2234]; [Pub. L. 109–365, title II, § 205][/us/pl/109/365/s205], Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535].)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 206, formerly § 207, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 35][/us/stat/87/35]; amended [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(g), Oct. 18, 1978, [92 Stat. 1515][/us/stat/92/1515]; renumbered § 206 and amended [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), (h), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 206, Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 106(c), Nov. 29, 1987, [101 Stat. 930][/us/stat/101/930]; [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 207, Sept. 30, 1992, [106 Stat. 1213][/us/stat/106/1213]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(5), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 203, Nov. 13, 2000, [114 Stat. 2234][/us/stat/114/2234]; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 205, Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535].)
 
  __References in Text__ 
 
-    [Section 3027(f) of this title][/us/usc/t42/s3027/f], referred to in subsec. (d), which related to demonstration projects for health and nutrition education, was repealed by [Pub. L. 102–375, title III, § 307(q)][/us/pl/102/375/s307/q], Sept. 30, 1992, [106 Stat. 1223][/us/stat/106/1223], and subsec. (g) of section 3027 was redesignated (f).
+    [Section 3027(f) of this title][/us/usc/t42/s3027/f], referred to in subsec. (d), which related to demonstration projects for health and nutrition education, was repealed by [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 307(q), Sept. 30, 1992, [106 Stat. 1223][/us/stat/106/1223], and subsec. (g) of section 3027 was redesignated (f).
 
  __Prior Provisions__ 
 
@@ -57,11 +57,11 @@
 
     2006—Subsec. (g). [Pub. L. 109–365][/us/pl/109/365] substituted “From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts.” for “The Secretary may use such sums as may be necessary, but not to exceed $3,000,000 (of which not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter III of this chapter and not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter IV of this chapter), to conduct directly evaluations under this section.”
 
-    2000—Subsec. (a). [Pub. L. 106–501, § 203(1)][/us/pl/106/501/s203/1], inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
+    2000—Subsec. (a). [Pub. L. 106–501][/us/pl/106/501], § 203(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 
-    Subsec. (c). [Pub. L. 106–501, § 203(2)][/us/pl/106/501/s203/2], inserted “, older individuals residing in rural areas” after “minority individuals”.
+    Subsec. (c). [Pub. L. 106–501][/us/pl/106/501], § 203(2), inserted “, older individuals residing in rural areas” after “minority individuals”.
 
-    Subsecs. (g), (h). [Pub. L. 106–501, § 203(3)][/us/pl/106/501/s203/3], (4), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to evaluation of nutritional services provided under this chapter, establishment of an advisory council to develop recommendations for guidelines on efficiency and quality in furnishing nutrition services, and reporting to the President and Congress on recommendations and final guidelines to improve nutrition services provided under this chapter.
+    Subsecs. (g), (h). [Pub. L. 106–501][/us/pl/106/501], § 203(3), (4), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to evaluation of nutritional services provided under this chapter, establishment of an advisory council to develop recommendations for guidelines on efficiency and quality in furnishing nutrition services, and reporting to the President and Congress on recommendations and final guidelines to improve nutrition services provided under this chapter.
 
     1993—Subsec. (g)(1). [Pub. L. 103–171][/us/pl/103/171], §§ 2(5)(A), 3(a)(13), substituted “1995” for “1994” and “Assistant Secretary” for “Commissioner”.
 
@@ -69,25 +69,25 @@
 
     Subsec. (g)(3). [Pub. L. 103–171][/us/pl/103/171], §§ 2(5)(C), 3(a)(13), substituted “1995” for “1994” in introductory provisions and “Assistant Secretary” for “Commissioner” in subpar. (B).
 
-    1992—Subsec. (a). [Pub. L. 102–375, § 207(1)][/us/pl/102/375/s207/1], inserted “their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals) and unserved older individuals with greatest social need (including low-income minority individuals),” after “related programs,”.
+    1992—Subsec. (a). [Pub. L. 102–375][/us/pl/102/375], § 207(1), inserted “their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals) and unserved older individuals with greatest social need (including low-income minority individuals),” after “related programs,”.
 
-    Subsecs. (g), (h). [Pub. L. 102–375, § 207(2)][/us/pl/102/375/s207/2], added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to use such sums as may be required, but not to exceed one-tenth of 1 percent of the funds appropriated under this chapter for each fiscal year, or $300,000 whichever is lower, to conduct program and project evaluations (directly, or by grants or contracts) as required by this subchapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriated therefor) shall be reduced accordingly.”
+    Subsecs. (g), (h). [Pub. L. 102–375][/us/pl/102/375], § 207(2), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to use such sums as may be required, but not to exceed one-tenth of 1 percent of the funds appropriated under this chapter for each fiscal year, or $300,000 whichever is lower, to conduct program and project evaluations (directly, or by grants or contracts) as required by this subchapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriated therefor) shall be reduced accordingly.”
 
     1987—Subsec. (c). [Pub. L. 100–175][/us/pl/100/175] inserted “and older individuals with disabilities” before period at end.
 
-    1984—Subsec. (b). [Pub. L. 98–459, § 206(a)][/us/pl/98/459/s206/a], substituted “the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter” for “he has developed and published general standards to be used by him in evaluating the programs and projects assisted under such section or subchapter”.
+    1984—Subsec. (b). [Pub. L. 98–459][/us/pl/98/459], § 206(a), substituted “the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter” for “he has developed and published general standards to be used by him in evaluating the programs and projects assisted under such section or subchapter”.
 
-    Subsec. (c). [Pub. L. 98–459, § 206(b)][/us/pl/98/459/s206/b], inserted provision requiring the Secretary to consult with organizations concerned with older individuals, including those representing minority individuals, in carrying out evaluations under this section.
+    Subsec. (c). [Pub. L. 98–459][/us/pl/98/459], § 206(b), inserted provision requiring the Secretary to consult with organizations concerned with older individuals, including those representing minority individuals, in carrying out evaluations under this section.
 
-    Subsec. (d). [Pub. L. 98–459, § 206(c)][/us/pl/98/459/s206/c], inserted reference to health and nutrition education demonstration projects conducted under [section 3027(f) of this title][/us/usc/t42/s3027/f] and inserted provision requiring dissemination of summaries and analyses required by this subsection to Federal, State, and local agencies and private organizations with an interest in aging.
+    Subsec. (d). [Pub. L. 98–459][/us/pl/98/459], § 206(c), inserted reference to health and nutrition education demonstration projects conducted under [section 3027(f) of this title][/us/usc/t42/s3027/f] and inserted provision requiring dissemination of summaries and analyses required by this subsection to Federal, State, and local agencies and private organizations with an interest in aging.
 
-    Subsec. (g). [Pub. L. 98–459, § 206][/us/pl/98/459/s206], substituted “one-tenth of 1 percent” for “1 per centum”, “under this chapter for each fiscal year” for “under this chapter”, and “$300,000 whichever is lower” for “$1,000,000 whichever is greater”.
+    Subsec. (g). [Pub. L. 98–459][/us/pl/98/459], § 206, substituted “one-tenth of 1 percent” for “1 per centum”, “under this chapter for each fiscal year” for “under this chapter”, and “$300,000 whichever is lower” for “$1,000,000 whichever is greater”.
 
-    1981—Subsec. (b). [Pub. L. 97–115, § 2(h)][/us/pl/97/115/s2/h], struck out “under [section 3028 of this title][/us/usc/t42/s3028]” after “The Secretary may not make grants or contracts”.
+    1981—Subsec. (b). [Pub. L. 97–115][/us/pl/97/115], § 2(h), struck out “under [section 3028 of this title][/us/usc/t42/s3028]” after “The Secretary may not make grants or contracts”.
 
-    1978—Subsec. (c). [Pub. L. 95–478, § 102(g)(1)][/us/pl/95/478/s102/g/1], required the Secretary to conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives.
+    1978—Subsec. (c). [Pub. L. 95–478][/us/pl/95/478], § 102(g)(1), required the Secretary to conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives.
 
-    Subsec. (d). [Pub. L. 95–478, § 102(g)(2)][/us/pl/95/478/s102/g/2], required publication of analyses of evaluations and substituted “full contents of which shall be transmitted to Congress and be accessible to the public” for “full contents of which shall be available to Congress and the public”.
+    Subsec. (d). [Pub. L. 95–478][/us/pl/95/478], § 102(g)(2), required publication of analyses of evaluations and substituted “full contents of which shall be transmitted to Congress and be accessible to the public” for “full contents of which shall be available to Congress and the public”.
 
  __Effective Date of 1987 Amendment__ 
 
@@ -113,49 +113,49 @@
 ----------
 
 [/us/usc/t42/s3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3018
-[/us/pl/89/73/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs206
-[/us/pl/93/29/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs201%2Fc
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
+[/us/pl/93/29/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtII
 [/us/stat/87/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F35
-[/us/pl/95/478/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fg
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1515
-[/us/pl/97/115/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fe%2F2
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1596
-[/us/pl/98/459/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs206
+[/us/pl/98/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtII
 [/us/stat/98/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1770
-[/us/pl/100/175/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs106%2Fc
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F930
-[/us/pl/102/375/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs207
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1213
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1988
-[/us/pl/106/501/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs203
+[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
 [/us/stat/114/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2234
-[/us/pl/109/365/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs205
+[/us/pl/109/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtII
 [/us/stat/120/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2535
 [/us/usc/t42/s3027/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Ff
-[/us/pl/102/375/s307/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fq
+[/us/pl/102/375/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIII
 [/us/stat/106/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1223
 [/us/pl/89/73/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs206
 [/us/usc/t42/s3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3016
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
-[/us/pl/106/501/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs203%2F1
-[/us/pl/106/501/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs203%2F2
-[/us/pl/106/501/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs203%2F3
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
-[/us/pl/102/375/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs207%2F1
-[/us/pl/102/375/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs207%2F2
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
-[/us/pl/98/459/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs206%2Fa
-[/us/pl/98/459/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs206%2Fb
-[/us/pl/98/459/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs206%2Fc
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/usc/t42/s3027/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Ff
-[/us/pl/98/459/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs206
-[/us/pl/97/115/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fh
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/usc/t42/s3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3028
-[/us/pl/95/478/s102/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fg%2F1
-[/us/pl/95/478/s102/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fg%2F2
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa
 [/us/usc/t42/s3027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa

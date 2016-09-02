@@ -141,7 +141,7 @@
 
             State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 453A, as added [Pub. L. 104–193, title III, § 313(b)][/us/pl/104/193/s313/b], Aug. 22, 1996, [110 Stat. 2209][/us/stat/110/2209]; amended [Pub. L. 105–33, title V, § 5533][/us/pl/105/33/s5533], Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627]; [Pub. L. 111–291, title VIII, § 802(a)][/us/pl/111/291/s802/a], (b), Dec. 8, 2010, [124 Stat. 3157][/us/stat/124/3157]; [Pub. L. 112–40, title II, § 253(a)][/us/pl/112/40/s253/a], Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 453A, as added [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 313(b), Aug. 22, 1996, [110 Stat. 2209][/us/stat/110/2209]; amended [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5533, Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627]; [Pub. L. 111–291, title VIII][/us/pl/111/291/tVIII], § 802(a), (b), Dec. 8, 2010, [124 Stat. 3157][/us/stat/124/3157]; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 253(a), Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422].)
 
  __References in Text__ 
 
@@ -151,17 +151,17 @@
 
     2011—Subsec. (a)(2)(C). [Pub. L. 112–40][/us/pl/112/40] added subpar. (C).
 
-    2010—Subsec. (b)(1)(A). [Pub. L. 111–291, § 802(a)][/us/pl/111/291/s802/a], inserted “the date services for remuneration were first performed by the employee,” after “of the employee,”.
+    2010—Subsec. (b)(1)(A). [Pub. L. 111–291][/us/pl/111/291], § 802(a), inserted “the date services for remuneration were first performed by the employee,” after “of the employee,”.
 
-    Subsec. (c). [Pub. L. 111–291, § 802(b)][/us/pl/111/291/s802/b], inserted “, to the extent practicable,” after “Each report required by subsection (b) of this section shall”.
+    Subsec. (c). [Pub. L. 111–291][/us/pl/111/291], § 802(b), inserted “, to the extent practicable,” after “Each report required by subsection (b) of this section shall”.
 
-    1997—Subsec. (d). [Pub. L. 105–33, § 5533(1)][/us/pl/105/33/s5533/1], substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
+    1997—Subsec. (d). [Pub. L. 105–33][/us/pl/105/33], § 5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
 
-    Subsec. (g)(2)(B). [Pub. L. 105–33, § 5533(2)][/us/pl/105/33/s5533/2], substituted “information” for “extracts of the reports required under [section 503(a)(6) of this title][/us/usc/t42/s503/a/6] to be made to the Secretary of Labor”.
+    Subsec. (g)(2)(B). [Pub. L. 105–33][/us/pl/105/33], § 5533(2), substituted “information” for “extracts of the reports required under [section 503(a)(6) of this title][/us/usc/t42/s503/a/6] to be made to the Secretary of Labor”.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–40, title II, § 253(b)][/us/pl/112/40/s253/b], Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422], provided that:
+[Pub. L. 112–40, title II][/us/pl/112/40/tII], § 253(b), Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -173,7 +173,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–291, title VIII, § 802(c)][/us/pl/111/291/s802/c], Dec. 8, 2010, [124 Stat. 3157][/us/stat/124/3157], provided that:
+[Pub. L. 111–291, title VIII][/us/pl/111/291/tVIII], § 802(c), Dec. 8, 2010, [124 Stat. 3157][/us/stat/124/3157], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -204,24 +204,24 @@
 [/us/usc/t42/s666/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666%2Fb%2F3
 [/us/usc/t42/s1320b–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs313%2Fb
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2209
-[/us/pl/105/33/s5533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5533
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F627
-[/us/pl/111/291/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs802%2Fa
+[/us/pl/111/291/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2FtVIII
 [/us/stat/124/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3157
-[/us/pl/112/40/s253/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs253%2Fa
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F422
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
-[/us/pl/111/291/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs802%2Fa
-[/us/pl/111/291/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs802%2Fb
-[/us/pl/105/33/s5533/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5533%2F1
-[/us/pl/105/33/s5533/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5533%2F2
+[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
+[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s503/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503%2Fa%2F6
-[/us/pl/112/40/s253/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs253%2Fb
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F422
 [/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
-[/us/pl/111/291/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs802%2Fc
+[/us/pl/111/291/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2FtVIII
 [/us/stat/124/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3157
 [/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33

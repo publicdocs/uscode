@@ -45,7 +45,7 @@
 
     (14) recommendations for necessary transitional requirements in the event that funding for such program is discontinued, including proposals for such executives or legislative action as may be necessary to prevent such discontinuation from being unduly disruptive.
 
-([Pub. L. 95–91, title X, § 1002][/us/pl/95/91/s1002], Aug. 4, 1977, [91 Stat. 612][/us/stat/91/612].)
+([Pub. L. 95–91, title X][/us/pl/95/91/tX], § 1002, Aug. 4, 1977, [91 Stat. 612][/us/stat/91/612].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t42/s7351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7351
-[/us/pl/95/91/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs1002
+[/us/pl/95/91/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtX
 [/us/stat/91/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F612
 
 

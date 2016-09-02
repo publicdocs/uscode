@@ -25,7 +25,7 @@
 
     (4) a forum for the exchange of technical and economic data relating to resource recovery facilities.
 
-([Pub. L. 89–272, title II, § 5001][/us/pl/89/272/s5001], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2820][/us/stat/90/2820].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 5001, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2820][/us/stat/90/2820].)
 
 ----------
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs5001
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2820
 
 

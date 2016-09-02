@@ -109,7 +109,7 @@
 
             Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term “direct threat” means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
 
-([Pub. L. 101–336, title III, § 302][/us/pl/101/336/s302], July 26, 1990, [104 Stat. 355][/us/stat/104/355].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 302, July 26, 1990, [104 Stat. 355][/us/stat/104/355].)
 
  __References in Text__ 
 
@@ -130,7 +130,7 @@
 [/us/usc/t42/s12184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12184
 [/us/usc/t42/s12184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12184
 [/us/usc/t42/s12186/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12186%2Fa%2F2
-[/us/pl/101/336/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs302
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F355
 [/us/pl/101/336/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs310
 [/us/usc/t42/s12181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181

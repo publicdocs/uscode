@@ -17,11 +17,11 @@
 
     For the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish financial assistance to aged needy individuals, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary of Health and Human Services (hereinafter referred to as the “Secretary”), State plans for old-age assistance.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title I, § 1, [49 Stat. 620][/us/stat/49/620]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(a), [64 Stat. 558][/us/stat/64/558]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 311(a), [70 Stat. 848][/us/stat/70/848]; [Pub. L. 86–778, title VI, § 601(b)][/us/pl/86/778/s601/b], Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987]; [Pub. L. 87–543, title I, § 104(c)(1)][/us/pl/87/543/s104/c/1], July 25, 1962, [76 Stat. 185][/us/stat/76/185]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXI, § 2184(a)(2)][/us/pl/97/35/s2184/a/2], Aug. 13, 1981, [95 Stat. 816][/us/stat/95/816].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title I, § 1, [49 Stat. 620][/us/stat/49/620]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(a), [64 Stat. 558][/us/stat/64/558]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 311(a), [70 Stat. 848][/us/stat/70/848]; [Pub. L. 86–778, title VI][/us/pl/86/778/tVI], § 601(b), Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987]; [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 104(c)(1), July 25, 1962, [76 Stat. 185][/us/stat/76/185]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(a)(2), Aug. 13, 1981, [95 Stat. 816][/us/stat/95/816].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–778, title VI, § 604][/us/pl/86/778/s604], Sept. 13, 1960, [74 Stat. 992][/us/stat/74/992], provided that: 
+[Pub. L. 86–778, title VI][/us/pl/86/778/tVI], § 604, Sept. 13, 1960, [74 Stat. 992][/us/stat/74/992], provided that: 
 
 > “The amendments made by section 601 of this Act \[amending this section and sections 302, 303, 304, and 306 of this title\] shall take effect October 1, 1960, and the amendments made by section 602 \[amending [section 1308 of this title][/us/usc/t42/s1308]\] shall be effective with respect to fiscal years ending after 1960.”
 
@@ -51,13 +51,13 @@
 
  __Declaration of Purpose of Title III of Act__  __August 1, 1956__ 
 
-[Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 300, [70 Stat. 846][/us/stat/70/846], provided that: 
+[Act Aug. 1, 1956, ch. 836, title III][/us/act/1956-08-01/ch836/tIII], § 300, [70 Stat. 846][/us/stat/70/846], provided that: 
 
 > “It is the purpose of this title \[enacting sections 906 and 1310 of this title and amending this section and sections 302, 303, 601, 602, 603, 606, 1201, 1202, 1203, 1301, 1308, 1351, 1352, and 1353 of this title\] (a) to promote the health of the Nation by assisting States to extend and broaden their provisions for meeting the costs of medical care for persons eligible for public assistance by providing for separate matching of assistance expenditures for medical care, (b) to promote the well-being of the Nation by encouraging the States to place greater emphasis on helping to strengthen family life and helping needy families and individuals attain the maximum economic and personal independence of which they are capable, (c) to assist in improving the administration of public assistance programs (1) through making grants and contracts, and entering into jointly financed cooperative arrangements, for research or demonstration projects and (2) through Federal-State programs of grants to institutions and traineeships and fellowships so as to provide training of public welfare personnel, thereby securing more adequately trained personnel, and (d) to improve aid to dependent children.”
 
  __Puerto Rico, Guam, and the Virgin Islands__ 
 
-[Pub. L. 92–603, title III, § 303(b)][/us/pl/92/603/s303/b], Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that: 
+[Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that: 
 
 > “The amendments made by sections 301 \[enacting sections 1381 to 1383c of this title\] and 302 \[enacting sections 801 to 805 of this title\] and the repeals made by subsection (a) \[repealing this section and sections 302 to 306, 1201 to 1206, and 1351 to 1355 of this title\] shall not be applicable in the case of Puerto Rico, Guam, and the Virgin Islands.”
 
@@ -74,28 +74,28 @@
 [/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F848
-[/us/pl/86/778/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs601%2Fb
+[/us/pl/86/778/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVI
 [/us/stat/74/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F987
-[/us/pl/87/543/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs104%2Fc%2F1
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F185
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/35/s2184/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fa%2F2
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F816
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
-[/us/pl/86/778/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs604
+[/us/pl/86/778/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVI
 [/us/stat/74/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F992
 [/us/usc/t42/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1308
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
+[/us/act/1956-08-01/ch836/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836%2FtIII
 [/us/stat/70/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F846
-[/us/pl/92/603/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fb
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 
 

@@ -47,7 +47,7 @@
 
             (C) lung biopsy findings consistent with silicosis.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3627\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–505; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(3)][/us/pl/107/107/s3151/a/3], Dec. 28, 2001, [115 Stat. 1372][/us/stat/115/1372].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3627\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–505; [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3151(a)(3), Dec. 28, 2001, [115 Stat. 1372][/us/stat/115/1372].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t42/s7384d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384d
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s3151/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fa%2F3
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1372
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

@@ -31,11 +31,11 @@
 
         Not later than 2 years after March 23, 2010, the Secretary shall begin implementing the 5-year campaign. During the 2-year period referred to in the previous sentence, the Secretary shall conduct planning activities with respect to the campaign.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399LL, as added [Pub. L. 111–148, title IV, § 4102(a)][/us/pl/111/148/s4102/a], Mar. 23, 2010, [124 Stat. 550][/us/stat/124/550].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399LL, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4102(a), Mar. 23, 2010, [124 Stat. 550][/us/stat/124/550].)
 
  __References in Text__ 
 
-    [Section 1603(c) of title 25][/us/usc/t25/s1603/c], referred to in subsec. (b)(1), which defines “Indians”, was redesignated [section 1603(13) of title 25][/us/usc/t25/s1603/13] by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
+    [Section 1603(c) of title 25][/us/usc/t25/s1603/c], referred to in subsec. (b)(1), which defines “Indians”, was redesignated [section 1603(13) of title 25][/us/usc/t25/s1603/13] by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
 
 ----------
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4102%2Fa
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F550
 [/us/usc/t25/s1603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603%2Fc
 [/us/usc/t25/s1603/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603%2F13
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 
 

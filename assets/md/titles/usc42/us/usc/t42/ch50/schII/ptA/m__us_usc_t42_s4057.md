@@ -199,7 +199,7 @@
 
         Nothing in this subsection 3 shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
 
-([Pub. L. 90–448, title XIII, § 1337][/us/pl/90/448/s1337], as added [Pub. L. 112–141, div. F, title II, § 100253][/us/pl/112/141/s100253], July 6, 2012, [126 Stat. 974][/us/stat/126/974].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1337, as added [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100253, July 6, 2012, [126 Stat. 974][/us/stat/126/974].)
 
 ----------
 
@@ -216,8 +216,8 @@
 [/us/usc/t42/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4017
 [/us/usc/t33/s3611/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3611%2Fb%2F2%2FC
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/90/448/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1337
-[/us/pl/112/141/s100253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100253
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F974
 
 

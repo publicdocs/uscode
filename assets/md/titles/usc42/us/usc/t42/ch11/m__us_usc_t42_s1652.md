@@ -19,7 +19,7 @@
 
     (b) Compensation for permanent total or permanent partial disability under [section 908(c)(21) of title 33][/us/usc/t33/s908/c/21], or for death under this chapter to aliens and nonnationals of the United States not residents of the United States or Canada shall be in the same amount as provided for residents, except that dependents in any foreign country shall be limited to surviving wife and child or children, or if there be no surviving wife or child or children, to surviving father or mother whom the employee has supported, either wholly or in part, for the period of one year immediately prior to the date of the injury, and except that the Secretary of Labor may, at his option or upon the application of the insurance carrier shall, commute all future installments of compensation to be paid to such aliens or nonnationals of the United States by paying or causing to be paid to them one-half of the commuted amount of such future installments of compensation as determined by the Secretary.
 
-([Aug. 16, 1941, ch. 357, § 2][/us/act/1941-08-16/ch357/s2], [55 Stat. 623][/us/stat/55/623]; 1946 Reorg. Plan No. 2, § 3, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Pub. L. 98–426, § 27(d)(2)][/us/pl/98/426/s27/d/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Aug. 16, 1941, ch. 357][/us/act/1941-08-16/ch357], § 2, [55 Stat. 623][/us/stat/55/623]; 1946 Reorg. Plan No. 2, § 3, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Pub. L. 98–426][/us/pl/98/426], § 27(d)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 [/us/usc/t33/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs906%2Fb
 [/us/usc/t33/s909/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs909%2Fe
 [/us/usc/t33/s908/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs908%2Fc%2F21
-[/us/act/1941-08-16/ch357/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-16%2Fch357%2Fs2
+[/us/act/1941-08-16/ch357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-16%2Fch357
 [/us/stat/55/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F623
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
-[/us/pl/98/426/s27/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fd%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426

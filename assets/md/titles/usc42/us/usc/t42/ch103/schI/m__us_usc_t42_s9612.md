@@ -83,7 +83,7 @@
 
         Where the President has paid out of the Fund for any response costs or any costs specified under section 9611(c)(1) or (2) of this title, no other claim may be paid out of the Fund for the same costs.
 
-([Pub. L. 96–510, title I, § 112][/us/pl/96/510/s112], Dec. 11, 1980, [94 Stat. 2792][/us/stat/94/2792]; [Pub. L. 99–499, title I][/us/pl/99/499], §§ 109(a)(3), 112, Oct. 17, 1986, [100 Stat. 1633][/us/stat/100/1633], 1646.)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 112, Dec. 11, 1980, [94 Stat. 2792][/us/stat/94/2792]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], §§ 109(a)(3), 112, Oct. 17, 1986, [100 Stat. 1633][/us/stat/100/1633], 1646.)
 
  __References in Text__ 
 
@@ -91,17 +91,17 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–499, § 112(a)][/us/pl/99/499/s112/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “All claims which may be asserted against the Fund pursuant to [section 9611 of this title][/us/usc/t42/s9611] shall be presented in the first instance to the owner, operator, or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under [section 9607 of this title][/us/usc/t42/s9607]. In any case where the claim has not been satisfied within sixty days of presentation in accordance with this subsection, the claimant may elect to commence an action in court against such owner, operator, guarantor, or other person or to present the claim to the Fund for payment.”
+    1986—Subsec. (a). [Pub. L. 99–499][/us/pl/99/499], § 112(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “All claims which may be asserted against the Fund pursuant to [section 9611 of this title][/us/usc/t42/s9611] shall be presented in the first instance to the owner, operator, or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under [section 9607 of this title][/us/usc/t42/s9607]. In any case where the claim has not been satisfied within sixty days of presentation in accordance with this subsection, the claimant may elect to commence an action in court against such owner, operator, guarantor, or other person or to present the claim to the Fund for payment.”
 
-    Subsec. (b)(1). [Pub. L. 99–499, § 112(b)][/us/pl/99/499/s112/b], added heading.
+    Subsec. (b)(1). [Pub. L. 99–499][/us/pl/99/499], § 112(b), added heading.
 
-    [Pub. L. 99–499, § 109(a)(3)][/us/pl/99/499/s109/a/3], substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “up to $5,000 or imprisoned for not more than one year, or both”.
+    [Pub. L. 99–499][/us/pl/99/499], § 109(a)(3), substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “up to $5,000 or imprisoned for not more than one year, or both”.
 
-    Subsec. (b)(2) to (6). [Pub. L. 99–499, § 112(b)][/us/pl/99/499/s112/b], added pars. (2) to (6) and struck out former pars. (2) to (4) which related to the settlement and arbitration of claims against liable persons and against the Fund.
+    Subsec. (b)(2) to (6). [Pub. L. 99–499][/us/pl/99/499], § 112(b), added pars. (2) to (6) and struck out former pars. (2) to (4) which related to the settlement and arbitration of claims against liable persons and against the Fund.
 
-    Subsec. (d). [Pub. L. 99–499, § 112(c)][/us/pl/99/499/s112/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No claim may be presented, nor may an action be commenced for damages under this subchapter, unless that claim is presented or action commenced within three years from the date of the discovery of the loss or December 11, 1980, whichever is later: Provided, however, That the time limitations contained herein shall not begin to run against a minor until he reaches eighteen years of age or a legal representative is duly appointed for him, nor against an incompetent person until his incompetency ends or a legal representative is duly appointed for him.”
+    Subsec. (d). [Pub. L. 99–499][/us/pl/99/499], § 112(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No claim may be presented, nor may an action be commenced for damages under this subchapter, unless that claim is presented or action commenced within three years from the date of the discovery of the loss or December 11, 1980, whichever is later: Provided, however, That the time limitations contained herein shall not begin to run against a minor until he reaches eighteen years of age or a legal representative is duly appointed for him, nor against an incompetent person until his incompetency ends or a legal representative is duly appointed for him.”
 
-    Subsec. (f). [Pub. L. 99–499, § 112(d)][/us/pl/99/499/s112/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–499][/us/pl/99/499], § 112(d), added subsec. (f).
 
  __Coordination of Titles I to IV of__  __[__  __Pub. L. 99–499__  __][/us/pl/99/499]__ 
 
@@ -119,21 +119,21 @@
 [/us/usc/t42/s9607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607%2Fa
 [/us/usc/t42/s9607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607%2Fa
 [/us/usc/t42/s9651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9651%2Fc
-[/us/pl/96/510/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs112
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2792
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1633
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/99/499/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs112%2Fa
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9611
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/99/499/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs112%2Fb
-[/us/pl/99/499/s109/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs109%2Fa%2F3
-[/us/pl/99/499/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs112%2Fb
-[/us/pl/99/499/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs112%2Fc
-[/us/pl/99/499/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs112%2Fd
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs531

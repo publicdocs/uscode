@@ -149,7 +149,7 @@
 
         Up to 12 percent of the amount appropriated under subsection (g) of this section for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.
 
-([Pub. L. 103–322, title IV, § 41405][/us/pl/103/322/s41405], as added [Pub. L. 109–162, title VI, § 601][/us/pl/109/162/s601], Jan. 5, 2006, [119 Stat. 3035][/us/stat/119/3035]; amended [Pub. L. 113–4, title VI, § 603(2)][/us/pl/113/4/s603/2], Mar. 7, 2013, [127 Stat. 110][/us/stat/127/110].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41405, as added [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 601, Jan. 5, 2006, [119 Stat. 3035][/us/stat/119/3035]; amended [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 603(2), Mar. 7, 2013, [127 Stat. 110][/us/stat/127/110].)
 
  __Amendments__ 
 
@@ -162,10 +162,10 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41405
-[/us/pl/109/162/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs601
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3035
-[/us/pl/113/4/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs603%2F2
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F110
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 

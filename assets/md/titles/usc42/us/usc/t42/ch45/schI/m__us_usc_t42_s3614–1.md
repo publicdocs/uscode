@@ -71,7 +71,7 @@
 
         (2) an administrative law proceeding with appropriate jurisdiction.
 
-([Pub. L. 90–284, title VIII, § 814A][/us/pl/90/284/s814A], as added [Pub. L. 104–208, div. A, title II, § 2302(b)(1)][/us/pl/104/208/s2302/b/1], Sept. 30, 1996, [110 Stat. 3009–421][/us/stat/110/3009-421].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 814A, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2302(b)(1), Sept. 30, 1996, [110 Stat. 3009–421][/us/stat/110/3009-421].)
 
  __Effective Date__ 
 
@@ -79,7 +79,7 @@
 
  __Regulations__ 
 
-[Pub. L. 104–208, div. A, title II, § 2302(b)(2)][/us/pl/104/208/s2302/b/2], Sept. 30, 1996, [110 Stat. 3009–423][/us/stat/110/3009-423], provided that:
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2302(b)(2), Sept. 30, 1996, [110 Stat. 3009–423][/us/stat/110/3009-423], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -106,13 +106,13 @@
 ----------
 ----------
 
-[/us/pl/90/284/s814A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs814A
-[/us/pl/104/208/s2302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2302%2Fb%2F1
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-421
 [/us/pl/104/208/s2302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2302%2Fb%2F2
 [/us/pl/104/208/s2302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2302%2Fc
 [/us/usc/t15/s1691c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c%E2%80%931
-[/us/pl/104/208/s2302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2302%2Fb%2F2
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-423
 [/us/usc/t42/s3614–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3614%E2%80%931
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601

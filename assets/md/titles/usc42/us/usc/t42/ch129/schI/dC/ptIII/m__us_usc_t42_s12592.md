@@ -59,7 +59,7 @@
 
         The Corporation shall issue regulations regarding the manner and criteria by which the service of a participant shall be evaluated to determine whether the service is satisfactory and successful for purposes of eligibility for a second term of service or a national service educational award.
 
-([Pub. L. 101–610, title I, § 138][/us/pl/101/610/s138], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 809][/us/stat/107/809]; amended [Pub. L. 111–13, title I, § 1313][/us/pl/111/13/s1313], Apr. 21, 2009, [123 Stat. 1510][/us/stat/123/1510].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 138, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 809][/us/stat/107/809]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1313, Apr. 21, 2009, [123 Stat. 1510][/us/stat/123/1510].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
     The Rehabilitation Act of 1973, referred to in subsec. (d), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
-    Part D of this subchapter, as in effect on the day before September 21, 1993, referred to in subsec. (e)(2)(D), means former part D of this subchapter prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, title I, § 102(a)][/us/pl/103/82/s102/a], Sept. 21, 1993, [107 Stat. 816][/us/stat/107/816].
+    Part D of this subchapter, as in effect on the day before September 21, 1993, referred to in subsec. (e)(2)(D), means former part D of this subchapter prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 102(a), Sept. 21, 1993, [107 Stat. 816][/us/stat/107/816].
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1313(1)][/us/pl/111/13/s1313/1], substituted “conducted by the entity” for “conducted by the State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, Federal agency, or other entity”.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1313(1), substituted “conducted by the entity” for “conducted by the State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, Federal agency, or other entity”.
 
-    Subsec. (e)(2)(C). [Pub. L. 111–13, § 1313(2)][/us/pl/111/13/s1313/2], inserted “, particularly those who were considered, at the time of their service, disadvantaged youth” before semicolon at end.
+    Subsec. (e)(2)(C). [Pub. L. 111–13][/us/pl/111/13], § 1313(2), inserted “, particularly those who were considered, at the time of their service, disadvantaged youth” before semicolon at end.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -94,10 +94,10 @@
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
-[/us/pl/101/610/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs138
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F809
-[/us/pl/111/13/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1313
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1510
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -106,10 +106,10 @@
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F816
-[/us/pl/111/13/s1313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1313%2F1
-[/us/pl/111/13/s1313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1313%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

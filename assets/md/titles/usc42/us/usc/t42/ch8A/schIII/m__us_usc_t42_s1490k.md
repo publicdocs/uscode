@@ -17,7 +17,7 @@
 
     The Secretary is authorized to act as an agent of the Secretary of Housing and Urban Development to recommend insurance of any mortgage meeting the requirements of [section 1709 of title 12][/us/usc/t12/s1709].
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 531, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 520\], Nov. 30, 1983, [97 Stat. 1249][/us/stat/97/1249].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 531, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 520\], Nov. 30, 1983, [97 Stat. 1249][/us/stat/97/1249].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1249
 
 

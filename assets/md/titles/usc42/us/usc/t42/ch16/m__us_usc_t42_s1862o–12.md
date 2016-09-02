@@ -35,7 +35,7 @@
 
         Funding for instrumentation is an allowed use of grants awarded under this section.
 
-([Pub. L. 110–69, title VII, § 7033][/us/pl/110/69/s7033], Aug. 9, 2007, [121 Stat. 711][/us/stat/121/711].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7033, Aug. 9, 2007, [121 Stat. 711][/us/stat/121/711].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t20/s1101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a
-[/us/pl/110/69/s7033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7033
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F711
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

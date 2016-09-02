@@ -23,11 +23,11 @@
 
     (3) each area agency on aging designated by the State agency and participating in such a program shall demonstrate compliance with the applicable requirements of [section 3025 of this title][/us/usc/t42/s3025].
 
-([Pub. L. 89–73, title VII, § 704][/us/pl/89/73/s704], as added [Pub. L. 102–375, title VII, § 701][/us/pl/102/375/s701], Sept. 30, 1992, [106 Stat. 1273][/us/stat/106/1273].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 704, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 701, Sept. 30, 1992, [106 Stat. 1273][/us/stat/106/1273].)
 
  __Prior Provisions__ 
 
-    A prior section 3058c, [Pub. L. 89–73, title VII, § 705][/us/pl/89/73/s705], as added [Pub. L. 98–459, title VII, § 701][/us/pl/98/459/s701], Oct. 9, 1984, [98 Stat. 1791][/us/stat/98/1791], related to administration of program, prior to repeal by [Pub. L. 100–175, title I, § 181][/us/pl/100/175/s181], title VII, § 701(a), (b), Nov. 29, 1987, [101 Stat. 964][/us/stat/101/964], 983, effective Oct. 1, 1987, with certain exceptions.
+    A prior section 3058c, [Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 705, as added [Pub. L. 98–459, title VII][/us/pl/98/459/tVII], § 701, Oct. 9, 1984, [98 Stat. 1791][/us/stat/98/1791], related to administration of program, prior to repeal by [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 181, title VII, § 701(a), (b), Nov. 29, 1987, [101 Stat. 964][/us/stat/101/964], 983, effective Oct. 1, 1987, with certain exceptions.
 
     A prior [section 704 of Pub. L. 89–73][/us/pl/89/73/s704] was classified to [section 3045c of this title][/us/usc/t42/s3045c] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
@@ -41,13 +41,13 @@
 [/us/usc/t42/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025
 [/us/usc/t42/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025
 [/us/usc/t42/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025
-[/us/pl/89/73/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs704
-[/us/pl/102/375/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs701
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1273
-[/us/pl/89/73/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs705
-[/us/pl/98/459/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs701
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/98/459/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtVII
 [/us/stat/98/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1791
-[/us/pl/100/175/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs181
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F964
 [/us/pl/89/73/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs704
 [/us/usc/t42/s3045c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3045c

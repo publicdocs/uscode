@@ -49,7 +49,7 @@
 
         (E) grant permission to the National Crime Information Center Terminal Contractor for the State to update the missing person record in the National Crime Information Center computer networks with additional information learned during the investigation relating to the missing person.
 
-([Pub. L. 101–647, title XXXVII, § 3702][/us/pl/101/647/s3702], Nov. 29, 1990, [104 Stat. 4967][/us/stat/104/4967]; [Pub. L. 109–248, title I, § 154(a)][/us/pl/109/248/s154/a], July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 114–22, title I, § 116(b)][/us/pl/114/22/s116/b], May 29, 2015, [129 Stat. 244][/us/stat/129/244].)
+([Pub. L. 101–647, title XXXVII][/us/pl/101/647/tXXXVII], § 3702, Nov. 29, 1990, [104 Stat. 4967][/us/stat/104/4967]; [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 154(a), July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 116(b), May 29, 2015, [129 Stat. 244][/us/stat/129/244].)
 
  __Codification__ 
 
@@ -57,21 +57,21 @@
 
  __Amendments__ 
 
-    2015—Par. (2). [Pub. L. 114–22, § 116(b)(1)][/us/pl/114/22/s116/b/1], struck out “and” at end.
+    2015—Par. (2). [Pub. L. 114–22][/us/pl/114/22], § 116(b)(1), struck out “and” at end.
 
-    Par. (3)(B) to (D). [Pub. L. 114–22, § 116(b)(2)][/us/pl/114/22/s116/b/2], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    Par. (3)(B) to (D). [Pub. L. 114–22][/us/pl/114/22], § 116(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Par. (4). [Pub. L. 114–22, § 116(b)(3)(A)][/us/pl/114/22/s116/b/3/A], substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
+    Par. (4). [Pub. L. 114–22][/us/pl/114/22], § 116(b)(3)(A), substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
 
-    Par. (4)(A). [Pub. L. 114–22, § 116(b)(3)(B)][/us/pl/114/22/s116/b/3/B], substituted “30 days” for “60 days” and inserted “and a photograph taken during the previous 180 days” after “dental records”.
+    Par. (4)(A). [Pub. L. 114–22][/us/pl/114/22], § 116(b)(3)(B), substituted “30 days” for “60 days” and inserted “and a photograph taken during the previous 180 days” after “dental records”.
 
-    Par. (4)(B), (C). [Pub. L. 114–22, § 116(b)(3)(C)][/us/pl/114/22/s116/b/3/C], (E), struck out “and” at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
+    Par. (4)(B), (C). [Pub. L. 114–22][/us/pl/114/22], § 116(b)(3)(C), (E), struck out “and” at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Par. (4)(D). [Pub. L. 114–22, § 116(b)(3)(F)][/us/pl/114/22/s116/b/3/F], inserted “State and local child welfare systems and” before “the National Center for Missing and Exploited Children” and substituted “; and” for period at end.
+    Par. (4)(D). [Pub. L. 114–22][/us/pl/114/22], § 116(b)(3)(F), inserted “State and local child welfare systems and” before “the National Center for Missing and Exploited Children” and substituted “; and” for period at end.
 
-    [Pub. L. 114–22, § 116(b)(3)(D)][/us/pl/114/22/s116/b/3/D], redesignated subpar. (C) as (D).
+    [Pub. L. 114–22][/us/pl/114/22], § 116(b)(3)(D), redesignated subpar. (C) as (D).
 
-    Par. (4)(E). [Pub. L. 114–22, § 116(b)(3)(G)][/us/pl/114/22/s116/b/3/G], added subpar. (E).
+    Par. (4)(E). [Pub. L. 114–22][/us/pl/114/22], § 116(b)(3)(G), added subpar. (E).
 
     2006—[Pub. L. 109–248][/us/pl/109/248] added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “within 2 hours of receipt” for “immediately” in concluding provisions of par. (3).
 
@@ -83,20 +83,20 @@
 ----------
 
 [/us/usc/t42/s5779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5779
-[/us/pl/101/647/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3702
+[/us/pl/101/647/tXXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVII
 [/us/stat/104/4967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4967
-[/us/pl/109/248/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs154%2Fa
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F611
-[/us/pl/114/22/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F244
-[/us/pl/114/22/s116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F1
-[/us/pl/114/22/s116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F2
-[/us/pl/114/22/s116/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FA
-[/us/pl/114/22/s116/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FB
-[/us/pl/114/22/s116/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FC
-[/us/pl/114/22/s116/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FF
-[/us/pl/114/22/s116/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FD
-[/us/pl/114/22/s116/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FG
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 
 

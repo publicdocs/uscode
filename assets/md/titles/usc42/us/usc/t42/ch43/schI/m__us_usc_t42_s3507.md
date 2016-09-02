@@ -17,11 +17,11 @@
 
     The Secretary of Health and Human Services may on and after July 12, 1943, delegate to such officers and employees as he may designate for the purpose all his authority in connection with the transfer of personnel and household goods and effects from one official station to another.
 
-([July 12, 1943, ch. 221][/us/act/1943-07-12/ch221], title II, [57 Stat. 513][/us/stat/57/513]; 1953 Reorg. Plan No. I, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([July 12, 1943, ch. 221][/us/act/1943-07-12/ch221], title II, [57 Stat. 513][/us/stat/57/513]; 1953 Reorg. Plan No. I, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Codification__ 
 
-    Section was formerly classified to section 623e of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 623e of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
     Section is from the Labor-Federal Security Appropriation Act, 1944.
 
@@ -47,9 +47,9 @@ Provisions similar to those in this section were contained in the following prio
 [/us/act/1943-07-12/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-12%2Fch221
 [/us/stat/57/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F513
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1942-07-02/ch475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-02%2Fch475
 [/us/stat/56/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F587

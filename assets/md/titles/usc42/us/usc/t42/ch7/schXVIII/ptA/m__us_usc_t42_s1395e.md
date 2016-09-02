@@ -63,27 +63,27 @@
 
             (B) to the coinsurance amounts under subsection (a) of this section for inpatient hospital services, inpatient critical access hospital services and post-hospital extended care services furnished in that year.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1813, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 292][/us/stat/79/292]; amended [Pub. L. 90–248, title I][/us/pl/90/248], §§ 129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, [81 Stat. 847][/us/stat/81/847], 848, 852, 854; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2131(a), 2132(a), Aug. 13, 1981, [95 Stat. 797][/us/stat/95/797]; [Pub. L. 97–248, title I, § 122(e)][/us/pl/97/248/s122/e], Sept. 3, 1982, [96 Stat. 361][/us/stat/96/361]; [Pub. L. 99–272, title IX, § 9125(a)][/us/pl/99/272/s9125/a], Apr. 7, 1986, [100 Stat. 168][/us/stat/100/168]; [Pub. L. 99–509, title IX, § 9301(a)][/us/pl/99/509/s9301/a], Oct. 21, 1986, [100 Stat. 1981][/us/stat/100/1981]; [Pub. L. 100–203, title IV, § 4002(f)(3)][/us/pl/100/203/s4002/f/3], Dec. 22, 1987, as added [Pub. L. 100–360, title IV, § 411(b)(1)(H)(ii)][/us/pl/100/360/s411/b/1/H/ii], July 1, 1988, [102 Stat. 769][/us/stat/102/769]; [Pub. L. 100–360, title I, § 102][/us/pl/100/360/s102], July 1, 1988, [102 Stat. 685][/us/stat/102/685]; [Pub. L. 101–234, title I, § 101(a)][/us/pl/101/234/s101/a], Dec. 13, 1989, [103 Stat. 1979][/us/stat/103/1979]; [Pub. L. 103–432, title I, § 102(g)(2)][/us/pl/103/432/s102/g/2], (3), Oct. 31, 1994, [108 Stat. 4404][/us/stat/108/4404]; [Pub. L. 105–33, title IV, § 4201(c)(1)][/us/pl/105/33/s4201/c/1], Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1813, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 102(a), July 30, 1965, [79 Stat. 292][/us/stat/79/292]; amended [Pub. L. 90–248, title I][/us/pl/90/248/tI], §§ 129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, [81 Stat. 847][/us/stat/81/847], 848, 852, 854; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], §§ 2131(a), 2132(a), Aug. 13, 1981, [95 Stat. 797][/us/stat/95/797]; [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 122(e), Sept. 3, 1982, [96 Stat. 361][/us/stat/96/361]; [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9125(a), Apr. 7, 1986, [100 Stat. 168][/us/stat/100/168]; [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9301(a), Oct. 21, 1986, [100 Stat. 1981][/us/stat/100/1981]; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4002(f)(3), Dec. 22, 1987, as added [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(b)(1)(H)(ii), July 1, 1988, [102 Stat. 769][/us/stat/102/769]; [Pub. L. 100–360, title I][/us/pl/100/360/tI], § 102, July 1, 1988, [102 Stat. 685][/us/stat/102/685]; [Pub. L. 101–234, title I][/us/pl/101/234/tI], § 101(a), Dec. 13, 1989, [103 Stat. 1979][/us/stat/103/1979]; [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 102(g)(2), (3), Oct. 31, 1994, [108 Stat. 4404][/us/stat/108/4404]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4201(c)(1), Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373].)
 
  __Amendments__ 
 
     1997—[Pub. L. 105–33][/us/pl/105/33] substituted “critical access” for “rural primary care” wherever appearing.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–432, § 102(g)(2)][/us/pl/103/432/s102/g/2], substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” in introductory provisions and in subpar. (B).
+    1994—Subsec. (a)(1). [Pub. L. 103–432][/us/pl/103/432], § 102(g)(2), substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” in introductory provisions and in subpar. (B).
 
-    Subsec. (b)(3)(A). [Pub. L. 103–432, § 102(g)(2)][/us/pl/103/432/s102/g/2], substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services”.
+    Subsec. (b)(3)(A). [Pub. L. 103–432][/us/pl/103/432], § 102(g)(2), substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services”.
 
-    Subsec. (b)(3)(B). [Pub. L. 103–432, § 102(g)(3)][/us/pl/103/432/s102/g/3], substituted “inpatient hospital services, inpatient rural primary care hospital services” for “inpatient hospital services”.
+    Subsec. (b)(3)(B). [Pub. L. 103–432][/us/pl/103/432], § 102(g)(3), substituted “inpatient hospital services, inpatient rural primary care hospital services” for “inpatient hospital services”.
 
-    1989—Subsecs. (a)(1) to (3), (b)(3). [Pub. L. 101–234][/us/pl/101/234] repealed [Pub. L. 100–360, § 102][/us/pl/100/360/s102], subject to an exception for blood deduction, and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
+    1989—Subsecs. (a)(1) to (3), (b)(3). [Pub. L. 101–234][/us/pl/101/234] repealed [Pub. L. 100–360][/us/pl/100/360], § 102, subject to an exception for blood deduction, and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
-    1988—Subsec. (a)(1) to (3). [Pub. L. 100–360, § 102(1)][/us/pl/100/360/s102/1], amended pars. (1) to (3) generally, revising and reorganizing former pars. (1)(A), (B), (2), and (3), as par. (1), consisting of subpars. (A) to (D), and pars. (2) and (3), each consisting of subpars. (A) and (B).
+    1988—Subsec. (a)(1) to (3). [Pub. L. 100–360][/us/pl/100/360], § 102(1), amended pars. (1) to (3) generally, revising and reorganizing former pars. (1)(A), (B), (2), and (3), as par. (1), consisting of subpars. (A) to (D), and pars. (2) and (3), each consisting of subpars. (A) and (B).
 
-    Subsec. (b)(1). [Pub. L. 100–360, § 411(b)(1)(H)(ii)][/us/pl/100/360/s411/b/1/H/ii], added [Pub. L. 100–203, § 4002(f)(3)][/us/pl/100/203/s4002/f/3], see 1987 Amendment note below.
+    Subsec. (b)(1). [Pub. L. 100–360][/us/pl/100/360], § 411(b)(1)(H)(ii), added [Pub. L. 100–203][/us/pl/100/203], § 4002(f)(3), see 1987 Amendment note below.
 
-    Subsec. (b)(3). [Pub. L. 100–360, § 102(2)][/us/pl/100/360/s102/2], struck out par. (3) which related to application of deductible.
+    Subsec. (b)(3). [Pub. L. 100–360][/us/pl/100/360], § 102(2), struck out par. (3) which related to application of deductible.
 
-    1987—Subsec. (b)(1). [Pub. L. 100–203, § 4002(f)(3)][/us/pl/100/203/s4002/f/3], as added by [Pub. L. 100–360, § 411(b)(1)(H)(ii)][/us/pl/100/360/s411/b/1/H/ii], substituted “Secretary’s best estimate of the payment-weighted average of the applicable percentage increases (as defined in [section 1395ww(b)(3)(B) of this title][/us/usc/t42/s1395ww/b/3/B]) which are applied” for “applicable percentage increase (as defined in [section 1395ww(b)(3)(B) of this title][/us/usc/t42/s1395ww/b/3/B]) which is applied”.
+    1987—Subsec. (b)(1). [Pub. L. 100–203][/us/pl/100/203], § 4002(f)(3), as added by [Pub. L. 100–360][/us/pl/100/360], § 411(b)(1)(H)(ii), substituted “Secretary’s best estimate of the payment-weighted average of the applicable percentage increases (as defined in [section 1395ww(b)(3)(B) of this title][/us/usc/t42/s1395ww/b/3/B]) which are applied” for “applicable percentage increase (as defined in [section 1395ww(b)(3)(B) of this title][/us/usc/t42/s1395ww/b/3/B]) which is applied”.
 
     1986—Subsec. (b). [Pub. L. 99–509][/us/pl/99/509] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -97,13 +97,13 @@
 
     1981—Subsec. (b)(2). [Pub. L. 97–35][/us/pl/97/35] substituted “any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45” for “any spell of illness beginning during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $40”.
 
-    1968—Subsec. (a)(1). [Pub. L. 90–248, § 137(b)][/us/pl/90/248/s137/b], designated existing provisions as subpar. (A) and added subpar. (B) and the exception provision that the reduction for any day shall not exceed the charges for that day.
+    1968—Subsec. (a)(1). [Pub. L. 90–248][/us/pl/90/248], § 137(b), designated existing provisions as subpar. (A) and added subpar. (B) and the exception provision that the reduction for any day shall not exceed the charges for that day.
 
-    Subsec. (a)(2). [Pub. L. 90–248, § 135(a)][/us/pl/90/248/s135/a], made the three pint deductible applicable also to equivalent quantities of packed red blood cells, as defined by the Secretary under regulations.
+    Subsec. (a)(2). [Pub. L. 90–248][/us/pl/90/248], § 135(a), made the three pint deductible applicable also to equivalent quantities of packed red blood cells, as defined by the Secretary under regulations.
 
-    Subsec. (a)(2) to (4). [Pub. L. 90–248, § 129(c)(3)][/us/pl/90/248/s129/c/3], struck out par. (2) which provided for reduction of amount payable for outpatient hospital diagnostic services furnished an individual during a diagnostic study, and redesignated pars. (3) and (4) as (2) and (3), respectively.
+    Subsec. (a)(2) to (4). [Pub. L. 90–248][/us/pl/90/248], § 129(c)(3), struck out par. (2) which provided for reduction of amount payable for outpatient hospital diagnostic services furnished an individual during a diagnostic study, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-    Subsec. (b)(1), (2). [Pub. L. 90–248, § 129(c)(4)(A)][/us/pl/90/248/s129/c/4/A], (B), struck out diagnostic studies from application of inpatient hospital deductible.
+    Subsec. (b)(1), (2). [Pub. L. 90–248][/us/pl/90/248], § 129(c)(4)(A), (B), struck out diagnostic studies from application of inpatient hospital deductible.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -117,17 +117,17 @@
 
     Amendment by [section 102 of Pub. L. 100–360][/us/pl/100/360/s102] effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see [section 104(a) of Pub. L. 100–360][/us/pl/100/360/s104/a], set out as a note under [section 1395d of this title][/us/usc/t42/s1395d].
 
-[Pub. L. 100–360, title IV, § 411(b)(1)(H)(iii)][/us/pl/100/360/s411/b/1/H/iii], July 1, 1988, [102 Stat. 769][/us/stat/102/769], provided that: 
+[Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(b)(1)(H)(iii), July 1, 1988, [102 Stat. 769][/us/stat/102/769], provided that: 
 
 > “The amendment made by clause (ii) \[amending [Pub. L. 100–203][/us/pl/100/203]\] shall apply to the inpatient hospital deductible for years beginning with 1989.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–509, title IX, § 9301(b)][/us/pl/99/509/s9301/b], Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], provided that: 
+[Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9301(b), Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished on or after January 1, 1987, and to the monthly premium (under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\]) for months beginning with January 1987.”
 
-[Pub. L. 99–272, title IX, § 9125(b)][/us/pl/99/272/s9125/b], Apr. 7, 1986, [100 Stat. 168][/us/stat/100/168], provided that: 
+[Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9125(b), Apr. 7, 1986, [100 Stat. 168][/us/stat/100/168], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to calendar years after 1985.”
 
@@ -137,11 +137,11 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XXI, § 2131(b)][/us/pl/97/35/s2131/b], Aug. 13, 1981, [95 Stat. 797][/us/stat/95/797], provided that: 
+[Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2131(b), Aug. 13, 1981, [95 Stat. 797][/us/stat/95/797], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] is effective for inpatient hospital services or post-hospital extended care services furnished on or after January 1, 1982.”
 
-[Pub. L. 97–35, title XXI, § 2132(b)][/us/pl/97/35/s2132/b], Aug. 13, 1981, [95 Stat. 797][/us/stat/95/797], provided that: 
+[Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2132(b), Aug. 13, 1981, [95 Stat. 797][/us/stat/95/797], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished in calendar years beginning with calendar year 1982.”
 
@@ -149,7 +149,7 @@
 
     Amendment by section 129(c)(3), (4) of [Pub. L. 90–248][/us/pl/90/248] applicable with respect to services furnished after Mar. 31, 1968, see [section 129(d) of Pub. L. 90–248][/us/pl/90/248/s129/d], set out as a note under [section 1395d of this title][/us/usc/t42/s1395d].
 
-[Pub. L. 90–248, title I, § 135(d)][/us/pl/90/248/s135/d], Jan. 2, 1968, [81 Stat. 853][/us/stat/81/853], provided that: 
+[Pub. L. 90–248, title I][/us/pl/90/248/tI], § 135(d), Jan. 2, 1968, [81 Stat. 853][/us/stat/81/853], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395l and 1395cc of this title\] shall apply with respect to payment for blood (or packed red blood cells) furnished an individual after December 31, 1967.”
 
@@ -157,7 +157,7 @@
 
  __Repeal of 1988 Expansion of Medicare Part A Benefits__ 
 
-[Pub. L. 101–234, title I, § 101(a)][/us/pl/101/234/s101/a]–(b)(2), Dec. 13, 1989, [103 Stat. 1979][/us/stat/103/1979], as amended by [Pub. L. 101–508, title IV, § 4008(m)(1)][/us/pl/101/508/s4008/m/1], Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], provided that:
+[Pub. L. 101–234, title I][/us/pl/101/234/tI], § 101(a)–(b)(2), Dec. 13, 1989, [103 Stat. 1979][/us/stat/103/1979], as amended by [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(m)(1), Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -195,11 +195,11 @@
 
 >         The restoration of section 1812(a)(4) of the Social Security Act \[[42 U.S.C. 1395d(a)(4)][/us/usc/t42/s1395d/a/4]\], effected by subsection (a)(1), shall not apply to hospice care provided during the subsequent period (described in such section as in effect on December 31, 1989) with respect to which an election has been made before January 1, 1990.”
 
-    \[[Pub. L. 101–508, title IV, § 4008(m)(1)][/us/pl/101/508/s4008/m/1], Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], provided that amendment by that section to [section 101(b)(1)(B) of Pub. L. 101–234][/us/pl/101/234/s101/b/1/B], set out above, is effective as if included in enactment of Medicare Catastrophic Coverage Repeal Act of 1989, [Pub. L. 101–234][/us/pl/101/234].\]
+    \[[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(m)(1), Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], provided that amendment by that section to [section 101(b)(1)(B) of Pub. L. 101–234][/us/pl/101/234/s101/b/1/B], set out above, is effective as if included in enactment of Medicare Catastrophic Coverage Repeal Act of 1989, [Pub. L. 101–234][/us/pl/101/234].\]
 
  __Hold Harmless Provisions; Application of Subsection (a)(1) and (2)__ 
 
-[Pub. L. 100–360, title I, § 104(b)][/us/pl/100/360/s104/b], July 1, 1988, [102 Stat. 688][/us/stat/102/688], as amended by [Pub. L. 100–485, title VI, § 608(d)(3)(B)][/us/pl/100/485/s608/d/3/B], Oct. 13, 1988, [102 Stat. 2413][/us/stat/102/2413]; [Pub. L. 101–234, title I, § 101(b)(3)][/us/pl/101/234/s101/b/3], Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], provided that: 
+[Pub. L. 100–360, title I][/us/pl/100/360/tI], § 104(b), July 1, 1988, [102 Stat. 688][/us/stat/102/688], as amended by [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(3)(B), Oct. 13, 1988, [102 Stat. 2413][/us/stat/102/2413]; [Pub. L. 101–234, title I][/us/pl/101/234/tI], § 101(b)(3), Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], provided that: 
 
 > “In the case of an individual for whom a spell of illness (as defined in section 1861(a) of the Social Security Act \[[42 U.S.C. 1395x(a)][/us/usc/t42/s1395x/a]\], as in effect on December 31, 1988) began before January 1, 1989, and had not yet ended as of such date—
 
@@ -213,7 +213,7 @@
 
  __Promulgation of New Deductible__ 
 
-    [Pub. L. 99–509, title IX, § 9301(c)][/us/pl/99/509/s9301/c], Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], directed Secretary of Health and Human Services to provide, within 30 days after Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
+    [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9301(c), Oct. 21, 1986, [100 Stat. 1982][/us/stat/100/1982], directed Secretary of Health and Human Services to provide, within 30 days after Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
 
 ----------
 
@@ -229,41 +229,41 @@
 [/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
 [/us/usc/t42/s1395ww/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F292
-[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F847
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F797
-[/us/pl/97/248/s122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs122%2Fe
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F361
-[/us/pl/99/272/s9125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9125%2Fa
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F168
-[/us/pl/99/509/s9301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9301%2Fa
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1981
-[/us/pl/100/203/s4002/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4002%2Ff%2F3
-[/us/pl/100/360/s411/b/1/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F1%2FH%2Fii
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F769
-[/us/pl/100/360/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs102
+[/us/pl/100/360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtI
 [/us/stat/102/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F685
-[/us/pl/101/234/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs101%2Fa
+[/us/pl/101/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtI
 [/us/stat/103/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1979
-[/us/pl/103/432/s102/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fg%2F2
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4404
-[/us/pl/105/33/s4201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4201%2Fc%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F373
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/103/432/s102/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fg%2F2
-[/us/pl/103/432/s102/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fg%2F2
-[/us/pl/103/432/s102/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fg%2F3
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
-[/us/pl/100/360/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs102
-[/us/pl/100/360/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs102%2F1
-[/us/pl/100/360/s411/b/1/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F1%2FH%2Fii
-[/us/pl/100/203/s4002/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4002%2Ff%2F3
-[/us/pl/100/360/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs102%2F2
-[/us/pl/100/203/s4002/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4002%2Ff%2F3
-[/us/pl/100/360/s411/b/1/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F1%2FH%2Fii
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
 [/us/usc/t42/s1395ww/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
@@ -272,10 +272,10 @@
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/90/248/s137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs137%2Fb
-[/us/pl/90/248/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs135%2Fa
-[/us/pl/90/248/s129/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs129%2Fc%2F3
-[/us/pl/90/248/s129/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs129%2Fc%2F4%2FA
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4201%2Fd
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
@@ -285,32 +285,32 @@
 [/us/pl/100/360/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs102
 [/us/pl/100/360/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs104%2Fa
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
-[/us/pl/100/360/s411/b/1/H/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fb%2F1%2FH%2Fiii
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F769
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/509/s9301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9301%2Fb
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1982
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
-[/us/pl/99/272/s9125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9125%2Fb
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F168
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s122/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs122%2Fh%2F1
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
-[/us/pl/97/35/s2131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2131%2Fb
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F797
-[/us/pl/97/35/s2132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2132%2Fb
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F797
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/90/248/s129/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs129%2Fd
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
-[/us/pl/90/248/s135/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs135%2Fd
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F853
 [/us/pl/90/248/s137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs137%2Fb
 [/us/pl/90/248/s137/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs137%2Fc
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
-[/us/pl/101/234/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs101%2Fa
+[/us/pl/101/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtI
 [/us/stat/103/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1979
-[/us/pl/101/508/s4008/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-53
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1395e/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395e%2Fa%2F2
@@ -318,19 +318,19 @@
 [/us/usc/t42/s1395d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d%2Fc
 [/us/usc/t42/s1395e/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395e%2Fa%2F1
 [/us/usc/t42/s1395d/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d%2Fa%2F4
-[/us/pl/101/508/s4008/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-53
 [/us/pl/101/234/s101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs101%2Fb%2F1%2FB
 [/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
-[/us/pl/100/360/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs104%2Fb
+[/us/pl/100/360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtI
 [/us/stat/102/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F688
-[/us/pl/100/485/s608/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F3%2FB
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2413
-[/us/pl/101/234/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs101%2Fb%2F3
+[/us/pl/101/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtI
 [/us/stat/103/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1980
 [/us/usc/t42/s1395x/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fa
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
-[/us/pl/99/509/s9301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9301%2Fc
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1982
 
 

@@ -127,13 +127,13 @@
 
         [Section 300x–31 of this title][/us/usc/t42/s300x–31] applies to this section (and to each other provision of this subpart).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1924, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 391][/us/stat/106/391].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1924, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 391][/us/stat/106/391].)
 
  __References in Text__ 
 
-    [Section 300x–1a of this title][/us/usc/t42/s300x–1a], referred to in subsec. (b)(4)(A)(ii), was repealed by [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 378][/us/stat/106/378].
+    [Section 300x–1a of this title][/us/usc/t42/s300x–1a], referred to in subsec. (b)(4)(A)(ii), was repealed by [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 378][/us/stat/106/378].
 
-    [Section 300x–4 of this title][/us/usc/t42/s300x–4], referred to in subsec. (b)(4)(A)(ii), was in the original a reference to section 1916 of act July 1, 1944, which was repealed by [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 378][/us/stat/106/378]. [Section 201(2) of Pub. L. 102–321][/us/pl/102/321/s201/2] enacted new sections 1915 and 1916 of act July 1, 1944, which are classified to sections 300x–4 and 300x–5, respectively, of this title.
+    [Section 300x–4 of this title][/us/usc/t42/s300x–4], referred to in subsec. (b)(4)(A)(ii), was in the original a reference to section 1916 of act July 1, 1944, which was repealed by [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 378][/us/stat/106/378]. [Section 201(2) of Pub. L. 102–321][/us/pl/102/321/s201/2] enacted new sections 1915 and 1916 of act July 1, 1944, which are classified to sections 300x–4 and 300x–5, respectively, of this title.
 
     The Social Security Act, referred to in subsec. (c)(2)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -145,7 +145,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
 ----------
 
@@ -167,13 +167,13 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s300x–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9331
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F391
 [/us/usc/t42/s300x–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931a
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F378
 [/us/usc/t42/s300x–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%934
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F378
 [/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -183,7 +183,7 @@
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s300y–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%933
 [/us/pl/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

@@ -17,7 +17,7 @@
 
     After August 8, 2005, the Secretary shall not designate a facility that is not listed in [section 15801(3) of this title][/us/usc/t42/s15801/3] as a National Laboratory.
 
-([Pub. L. 109–58, title IX, § 991][/us/pl/109/58/s991], Aug. 8, 2005, [119 Stat. 913][/us/stat/119/913].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 991, Aug. 8, 2005, [119 Stat. 913][/us/stat/119/913].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s15801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801%2F3
-[/us/pl/109/58/s991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs991
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F913
 
 

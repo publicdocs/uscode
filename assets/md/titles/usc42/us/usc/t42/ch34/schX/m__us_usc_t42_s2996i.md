@@ -31,19 +31,19 @@
 
         Not more than 10 percent of the amounts appropriated pursuant to subsection (a) of this section for any fiscal year shall be available for grants or contracts under [section 2996e(a)(3) of this title][/us/usc/t42/s2996e/a/3] in any such year.
 
-([Pub. L. 88–452, title X, § 1010][/us/pl/88/452/s1010], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 388][/us/stat/88/388]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 5(c), 15, Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619], 1623.)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1010, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 388][/us/stat/88/388]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 5(c), 15, Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619], 1623.)
 
  __Amendments__ 
 
-    1977—Subsec. (a). [Pub. L. 95–222, § 15][/us/pl/95/222/s15], inserted provisions authorizing appropriations for fiscal year 1978 and two succeeding fiscal years, and substituted provisions requiring appropriations to be made for not more than two fiscal years and payments in annual installments at beginning of each fiscal year in appropriated amounts, for provisions requiring appropriations to be for not more than two fiscal years, and, if for more than one year, in payments in annual installments at beginning of each fiscal year in appropriated amounts.
+    1977—Subsec. (a). [Pub. L. 95–222][/us/pl/95/222], § 15, inserted provisions authorizing appropriations for fiscal year 1978 and two succeeding fiscal years, and substituted provisions requiring appropriations to be made for not more than two fiscal years and payments in annual installments at beginning of each fiscal year in appropriated amounts, for provisions requiring appropriations to be for not more than two fiscal years, and, if for more than one year, in payments in annual installments at beginning of each fiscal year in appropriated amounts.
 
-    Subsec. (d). [Pub. L. 95–222, § 5(c)][/us/pl/95/222/s5/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–222][/us/pl/95/222], § 5(c), added subsec. (d).
 
  __Effective Date of 1977 Amendment__ 
 
     Amendment by [section 5(c) of Pub. L. 95–222][/us/pl/95/222/s5/c] effective Dec. 28, 1977, see [section 17(b) of Pub. L. 95–222][/us/pl/95/222/s17/b], set out as a note under [section 2996 of this title][/us/usc/t42/s2996].
 
-[Pub. L. 95–222, § 17(a)(2)][/us/pl/95/222/s17/a/2], Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624], provided that: 
+[Pub. L. 95–222][/us/pl/95/222], § 17(a)(2), Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624], provided that: 
 
 > “The amendment made by section 15 of this Act \[amending this section\] shall be effective with respect to fiscal years beginning after September 30, 1977.”
 
@@ -55,17 +55,17 @@
 ----------
 
 [/us/usc/t42/s2996e/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996e%2Fa%2F3
-[/us/pl/88/452/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1010
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F388
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1619
-[/us/pl/95/222/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs15
-[/us/pl/95/222/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs5%2Fc
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/95/222/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs5%2Fc
 [/us/pl/95/222/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs17%2Fb
 [/us/usc/t42/s2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996
-[/us/pl/95/222/s17/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs17%2Fa%2F2
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1624
 
 

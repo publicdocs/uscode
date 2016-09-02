@@ -141,39 +141,39 @@
 
             (B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2664, as added [Pub. L. 101–381, title III, § 301(a)][/us/pl/101/381/s301/a], Aug. 18, 1990, [104 Stat. 611][/us/stat/104/611]; amended [Pub. L. 104–146, § 3(d)(5)][/us/pl/104/146/s3/d/5], May 20, 1996, [110 Stat. 1358][/us/stat/110/1358]; [Pub. L. 106–345, title III][/us/pl/106/345], §§ 301(b)(3), 322, Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345], 1346; [Pub. L. 109–415, title III][/us/pl/109/415], §§ 301(b), 306(b), (c), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2806][/us/stat/120/2806], 2809, 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2664, as added [Pub. L. 101–381, title III][/us/pl/101/381/tIII], § 301(a), Aug. 18, 1990, [104 Stat. 611][/us/stat/104/611]; amended [Pub. L. 104–146][/us/pl/104/146], § 3(d)(5), May 20, 1996, [110 Stat. 1358][/us/stat/110/1358]; [Pub. L. 106–345, title III][/us/pl/106/345/tIII], §§ 301(b)(3), 322, Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345], 1346; [Pub. L. 109–415, title III][/us/pl/109/415/tIII], §§ 301(b), 306(b), (c), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2806][/us/stat/120/2806], 2809, 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    Subsec. (a)(1)(C), (D). [Pub. L. 109–415, § 306(b)(1)][/us/pl/109/415/s306/b/1], added subpars. (C) and (D).
+    Subsec. (a)(1)(C), (D). [Pub. L. 109–415][/us/pl/109/415], § 306(b)(1), added subpars. (C) and (D).
 
-    Subsec. (a)(3), (4). [Pub. L. 109–415, § 306(b)(2)][/us/pl/109/415/s306/b/2], (3), added pars. (3) and (4).
+    Subsec. (a)(3), (4). [Pub. L. 109–415][/us/pl/109/415], § 306(b)(2), (3), added pars. (3) and (4).
 
-    Subsec. (b)(1). [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease”.
+    Subsec. (b)(1). [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-    Subsec. (f)(1)(A). [Pub. L. 109–415, § 306(c)][/us/pl/109/415/s306/c], inserted “(except for a program administered by or providing the services of the Indian Health Service)” before semicolon.
+    Subsec. (f)(1)(A). [Pub. L. 109–415][/us/pl/109/415], § 306(c), inserted “(except for a program administered by or providing the services of the Indian Health Service)” before semicolon.
 
-    Subsec. (g)(3). [Pub. L. 109–415, § 301(b)(1)][/us/pl/109/415/s301/b/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the applicant will not expend more than 10 percent including planning and evaluation of the grant for administrative expenses with respect to the grant;”.
+    Subsec. (g)(3). [Pub. L. 109–415][/us/pl/109/415], § 301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the applicant will not expend more than 10 percent including planning and evaluation of the grant for administrative expenses with respect to the grant;”.
 
-    Subsec. (g)(5). [Pub. L. 109–415, § 301(b)(2)][/us/pl/109/415/s301/b/2], inserted “clinical” before “quality management” in introductory provisions.
+    Subsec. (g)(5). [Pub. L. 109–415][/us/pl/109/415], § 301(b)(2), inserted “clinical” before “quality management” in introductory provisions.
 
-    Subsec. (g)(5)(A). [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease”.
+    Subsec. (g)(5)(A). [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-    2000—Subsecs. (e)(5), (f)(2). [Pub. L. 106–345, § 301(b)(3)(A)][/us/pl/106/345/s301/b/3/A], (B), struck out “300ff–42(b) or” after “a waiver under section”.
+    2000—Subsecs. (e)(5), (f)(2). [Pub. L. 106–345][/us/pl/106/345], § 301(b)(3)(A), (B), struck out “300ff–42(b) or” after “a waiver under section”.
 
-    Subsec. (g)(3). [Pub. L. 106–345, § 322(1)(A)][/us/pl/106/345/s322/1/A], substituted “10 percent” for “7.5 percent”.
+    Subsec. (g)(3). [Pub. L. 106–345][/us/pl/106/345], § 322(1)(A), substituted “10 percent” for “7.5 percent”.
 
-    Subsec. (g)(5). [Pub. L. 106–345, § 322(1)(B)][/us/pl/106/345/s322/1/B], (2), (3), added par. (5).
+    Subsec. (g)(5). [Pub. L. 106–345][/us/pl/106/345], § 322(1)(B), (2), (3), added par. (5).
 
-    Subsec. (h). [Pub. L. 106–345, § 301(b)(3)(C)][/us/pl/106/345/s301/b/3/C], struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under [section 300ff–41 of this title][/us/usc/t42/s300ff–41] to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
+    Subsec. (h). [Pub. L. 106–345][/us/pl/106/345], § 301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under [section 300ff–41 of this title][/us/usc/t42/s300ff–41] to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
 
-    1996—Subsec. (g)(3). [Pub. L. 104–146, § 3(d)(5)(B)(i)][/us/pl/104/146/s3/d/5/B/i], substituted “7.5 percent including planning and evaluation” for “5 percent”.
+    1996—Subsec. (g)(3). [Pub. L. 104–146][/us/pl/104/146], § 3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
 
-    Subsec. (g)(4). [Pub. L. 104–146, § 3(d)(5)(A)][/us/pl/104/146/s3/d/5/A], (B)(ii), (C), added par. (4).
+    Subsec. (g)(4). [Pub. L. 104–146][/us/pl/104/146], § 3(d)(5)(A), (B)(ii), (C), added par. (4).
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -197,34 +197,34 @@
 [/us/usc/t42/s300ff–52/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9352%2Fb%2F2
 [/us/usc/t42/s300ff–52/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9352%2Fb%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs301%2Fa
+[/us/pl/101/381/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIII
 [/us/stat/104/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F611
-[/us/pl/104/146/s3/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fd%2F5
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1358
-[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIII
 [/us/stat/114/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1345
-[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtIII
 [/us/stat/120/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2806
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs306%2Fb%2F1
-[/us/pl/109/415/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs306%2Fb%2F2
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/109/415/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs306%2Fc
-[/us/pl/109/415/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs301%2Fb%2F1
-[/us/pl/109/415/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs301%2Fb%2F2
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/106/345/s301/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs301%2Fb%2F3%2FA
-[/us/pl/106/345/s322/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs322%2F1%2FA
-[/us/pl/106/345/s322/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs322%2F1%2FB
-[/us/pl/106/345/s301/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs301%2Fb%2F3%2FC
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/usc/t42/s300ff–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9341
-[/us/pl/104/146/s3/d/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fd%2F5%2FB%2Fi
-[/us/pl/104/146/s3/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fd%2F5%2FA
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

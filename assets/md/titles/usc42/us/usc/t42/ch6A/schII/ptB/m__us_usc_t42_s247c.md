@@ -71,85 +71,85 @@
 
         Nothing in this section shall be construed to require any State or any political subdivision of a State to have a sexually transmitted diseases program which would require any person, who objects to any treatment provided under such a program, to be treated under such a program.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 318, as added [Pub. L. 92–449, title II, § 203][/us/pl/92/449/s203], Sept. 30, 1972, [86 Stat. 751][/us/stat/86/751]; amended [Pub. L. 94–317, title II, § 203(b)][/us/pl/94/317/s203/b]–(i), June 23, 1976, [90 Stat. 704][/us/stat/90/704], 705; [Pub. L. 94–484, title IX, § 905(b)(2)][/us/pl/94/484/s905/b/2], Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–626, title II, § 204(b)(1)][/us/pl/95/626/s204/b/1], (c), (d), Nov. 10, 1978, [92 Stat. 3583][/us/stat/92/3583]; [Pub. L. 96–32, § 6(j)][/us/pl/96/32/s6/j], July 10, 1979, [93 Stat. 84][/us/stat/93/84]; [Pub. L. 97–35, title IX, § 929][/us/pl/97/35/s929], Aug. 13, 1981, [95 Stat. 569][/us/stat/95/569]; [Pub. L. 98–555, § 3][/us/pl/98/555/s3], Oct. 30, 1984, [98 Stat. 2854][/us/stat/98/2854]; [Pub. L. 100–607, title III, § 311][/us/pl/100/607/s311], Nov. 4, 1988, [102 Stat. 3112][/us/stat/102/3112]; [Pub. L. 103–183, title IV, § 401][/us/pl/103/183/s401], Dec. 14, 1993, [107 Stat. 2236][/us/stat/107/2236]; [Pub. L. 105–392, title IV, § 401(b)(2)][/us/pl/105/392/s401/b/2], (c), Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 318, as added [Pub. L. 92–449, title II][/us/pl/92/449/tII], § 203, Sept. 30, 1972, [86 Stat. 751][/us/stat/86/751]; amended [Pub. L. 94–317, title II][/us/pl/94/317/tII], § 203(b)–(i), June 23, 1976, [90 Stat. 704][/us/stat/90/704], 705; [Pub. L. 94–484, title IX][/us/pl/94/484/tIX], § 905(b)(2), Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 204(b)(1), (c), (d), Nov. 10, 1978, [92 Stat. 3583][/us/stat/92/3583]; [Pub. L. 96–32][/us/pl/96/32], § 6(j), July 10, 1979, [93 Stat. 84][/us/stat/93/84]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 929, Aug. 13, 1981, [95 Stat. 569][/us/stat/95/569]; [Pub. L. 98–555][/us/pl/98/555], § 3, Oct. 30, 1984, [98 Stat. 2854][/us/stat/98/2854]; [Pub. L. 100–607, title III][/us/pl/100/607/tIII], § 311, Nov. 4, 1988, [102 Stat. 3112][/us/stat/102/3112]; [Pub. L. 103–183, title IV][/us/pl/103/183/tIV], § 401, Dec. 14, 1993, [107 Stat. 2236][/us/stat/107/2236]; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 401(b)(2), (c), Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587].)
 
  __Prior Provisions__ 
 
-    A prior section 247c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373] title III, § 318, as added Aug. 18, 1964, [Pub. L. 88–443, § 2][/us/pl/88/443/s2], [78 Stat. 447][/us/stat/78/447], related to grants for assisting in the areawide planning of health and related facilities, prior to repeal by [Pub. L. 89–749, § 6][/us/pl/89/749/s6], Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190] eff. July 1, 1967.
+    A prior section 247c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373] title III, § 318, as added Aug. 18, 1964, [Pub. L. 88–443][/us/pl/88/443], § 2, [78 Stat. 447][/us/stat/78/447], related to grants for assisting in the areawide planning of health and related facilities, prior to repeal by [Pub. L. 89–749][/us/pl/89/749], § 6, Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190] eff. July 1, 1967.
 
  __Amendments__ 
 
-    1998—Subsec. (e). [Pub. L. 105–392, § 401(b)(2)][/us/pl/105/392/s401/b/2], redesignated subsec. (e), relating to consent of individuals, as (f).
+    1998—Subsec. (e). [Pub. L. 105–392][/us/pl/105/392], § 401(b)(2), redesignated subsec. (e), relating to consent of individuals, as (f).
 
-    Subsec. (e)(5). [Pub. L. 105–392, § 401(c)][/us/pl/105/392/s401/c], made technical amendment to directory language of [Pub. L. 103–183, § 401(c)(3)][/us/pl/103/183/s401/c/3]. See 1993 Amendment note below.
+    Subsec. (e)(5). [Pub. L. 105–392][/us/pl/105/392], § 401(c), made technical amendment to directory language of [Pub. L. 103–183][/us/pl/103/183], § 401(c)(3). See 1993 Amendment note below.
 
-    Subsec. (f). [Pub. L. 105–392, § 401(b)(2)][/us/pl/105/392/s401/b/2], redesignated subsec. (e), relating to consent of individuals, as (f).
+    Subsec. (f). [Pub. L. 105–392][/us/pl/105/392], § 401(b)(2), redesignated subsec. (e), relating to consent of individuals, as (f).
 
-    1993—Subsec. (b)(3). [Pub. L. 103–183, § 401(c)(1)][/us/pl/103/183/s401/c/1], substituted “; and” for “, and”.
+    1993—Subsec. (b)(3). [Pub. L. 103–183][/us/pl/103/183], § 401(c)(1), substituted “; and” for “, and”.
 
-    Subsec. (c)(3). [Pub. L. 103–183, § 401(c)(2)][/us/pl/103/183/s401/c/2], which directed the substitution of “; and” for “, and”, could not be executed because “, and” did not appear.
+    Subsec. (c)(3). [Pub. L. 103–183][/us/pl/103/183], § 401(c)(2), which directed the substitution of “; and” for “, and”, could not be executed because “, and” did not appear.
 
-    Subsec. (d). [Pub. L. 103–183, § 401(a)(2)][/us/pl/103/183/s401/a/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 103–183][/us/pl/103/183], § 401(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 103–183, § 401(a)(1)][/us/pl/103/183/s401/a/1], redesignated subsec. (d), relating to authorization of appropriations, etc., as (e).
+    Subsec. (e). [Pub. L. 103–183][/us/pl/103/183], § 401(a)(1), redesignated subsec. (d), relating to authorization of appropriations, etc., as (e).
 
-    Subsec. (e)(1). [Pub. L. 103–183, § 401(b)][/us/pl/103/183/s401/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making grants under subsections (b) and (c) of this section there are authorized to be appropriated $45,000,000 for the fiscal year ending September 30, 1979, $51,500,000 for the fiscal year ending September 30, 1980, $59,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for the fiscal year ending September 30, 1982, $46,500,000 for the fiscal year ending September 30, 1983, $50,000,000 for the fiscal year ending September 30, 1984, $57,000,000 for the fiscal year ending September 30, 1985, $62,500,000 for the fiscal year ending September 30, 1986, $68,000,000 for the fiscal year ending September 30, 1987, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991. For grants under subsection (b) of this section in any fiscal year, the Secretary shall obligate not less than 10 per centum of the amount appropriated for such fiscal year under the preceding sentence. Grants made under subsection (b) or (c) of this section shall be made on such terms and conditions as the Secretary finds necessary to carry out the purposes of such subsection, and payments under any such grants shall be made in advance or by way of reimbursement and in such installments as the Secretary finds necessary.”
+    Subsec. (e)(1). [Pub. L. 103–183][/us/pl/103/183], § 401(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making grants under subsections (b) and (c) of this section there are authorized to be appropriated $45,000,000 for the fiscal year ending September 30, 1979, $51,500,000 for the fiscal year ending September 30, 1980, $59,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for the fiscal year ending September 30, 1982, $46,500,000 for the fiscal year ending September 30, 1983, $50,000,000 for the fiscal year ending September 30, 1984, $57,000,000 for the fiscal year ending September 30, 1985, $62,500,000 for the fiscal year ending September 30, 1986, $68,000,000 for the fiscal year ending September 30, 1987, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991. For grants under subsection (b) of this section in any fiscal year, the Secretary shall obligate not less than 10 per centum of the amount appropriated for such fiscal year under the preceding sentence. Grants made under subsection (b) or (c) of this section shall be made on such terms and conditions as the Secretary finds necessary to carry out the purposes of such subsection, and payments under any such grants shall be made in advance or by way of reimbursement and in such installments as the Secretary finds necessary.”
 
-    Subsec. (e)(5). [Pub. L. 103–183, § 401(c)(3)][/us/pl/103/183/s401/c/3], as amended by [Pub. L. 105–392, § 401(c)][/us/pl/105/392/s401/c], substituted “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
+    Subsec. (e)(5). [Pub. L. 103–183][/us/pl/103/183], § 401(c)(3), as amended by [Pub. L. 105–392][/us/pl/105/392], § 401(c), substituted “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
 
-    1988—[Pub. L. 100–607, § 311(1)][/us/pl/100/607/s311/1], amended section catchline.
+    1988—[Pub. L. 100–607][/us/pl/100/607], § 311(1), amended section catchline.
 
-    Subsec. (d). [Pub. L. 100–607, § 311(2)][/us/pl/100/607/s311/2], (3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to acquired immune deficiency syndrome.
+    Subsec. (d). [Pub. L. 100–607][/us/pl/100/607], § 311(2), (3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to acquired immune deficiency syndrome.
 
-    Subsec. (d)(1). [Pub. L. 100–607, § 311(4)][/us/pl/100/607/s311/4], substituted “(b) and (c)” for “(b), (c), and (d)”, struck out “and” after “1986,”, and inserted “, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991” before period at end of first sentence; substituted “(b) or (c)” for “(b), (c), or (d)” in third sentence; and struck out at end “If the appropriations under the first sentence for fiscal year 1985 exceed $50,000,000, one-half of the amount in excess of $50,000,000 shall be made available for grants under subsection (d) of this section; if the appropriations under the first sentence for fiscal year 1986 exceed $52,500,000, one-half of the amount in excess of $52,500,000 shall be made available for such grants; and if the appropriations under the first sentence for fiscal year 1987 exceed $55,000,000, one-half of the amount in excess of $55,000,000 shall be made available for such grants.”
+    Subsec. (d)(1). [Pub. L. 100–607][/us/pl/100/607], § 311(4), substituted “(b) and (c)” for “(b), (c), and (d)”, struck out “and” after “1986,”, and inserted “, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991” before period at end of first sentence; substituted “(b) or (c)” for “(b), (c), or (d)” in third sentence; and struck out at end “If the appropriations under the first sentence for fiscal year 1985 exceed $50,000,000, one-half of the amount in excess of $50,000,000 shall be made available for grants under subsection (d) of this section; if the appropriations under the first sentence for fiscal year 1986 exceed $52,500,000, one-half of the amount in excess of $52,500,000 shall be made available for such grants; and if the appropriations under the first sentence for fiscal year 1987 exceed $55,000,000, one-half of the amount in excess of $55,000,000 shall be made available for such grants.”
 
-    Subsecs. (e) to (g). [Pub. L. 100–607, § 311(2)][/us/pl/100/607/s311/2], (3), struck out subsec. (f) which related to conditional limitation on use of funds and redesignated subsecs. (e) and (g) as (d) and (e), respectively.
+    Subsecs. (e) to (g). [Pub. L. 100–607][/us/pl/100/607], § 311(2), (3), struck out subsec. (f) which related to conditional limitation on use of funds and redesignated subsecs. (e) and (g) as (d) and (e), respectively.
 
-    1984—Subsec. (a). [Pub. L. 98–555, § 3(b)(1)][/us/pl/98/555/s3/b/1], substituted “research in, and training and public health programs for, the prevention and control of sexually transmitted diseases” for “research, training, and public health programs for the prevention and control of venereal disease”.
+    1984—Subsec. (a). [Pub. L. 98–555][/us/pl/98/555], § 3(b)(1), substituted “research in, and training and public health programs for, the prevention and control of sexually transmitted diseases” for “research, training, and public health programs for the prevention and control of venereal disease”.
 
-    Subsec. (b). [Pub. L. 98–555, § 3(b)(2)][/us/pl/98/555/s3/b/2], in amending subsec. (b) generally, designated existing provisions as pars. (1) to (3), added par. (4), and substituted references to sexually transmitted diseases for reference to venereal disease.
+    Subsec. (b). [Pub. L. 98–555][/us/pl/98/555], § 3(b)(2), in amending subsec. (b) generally, designated existing provisions as pars. (1) to (3), added par. (4), and substituted references to sexually transmitted diseases for reference to venereal disease.
 
-    Subsec. (c). [Pub. L. 98–555, § 3(b)(3)][/us/pl/98/555/s3/b/3], (6)(A), substituted “sexually transmitted diseases” for “venereal disease” wherever appearing, struck out par. (4) relating to professional venereal disease education, training and clinical skills improvement activities, and redesignated par. (5) as (4).
+    Subsec. (c). [Pub. L. 98–555][/us/pl/98/555], § 3(b)(3), (6)(A), substituted “sexually transmitted diseases” for “venereal disease” wherever appearing, struck out par. (4) relating to professional venereal disease education, training and clinical skills improvement activities, and redesignated par. (5) as (4).
 
-    Subsec. (d). [Pub. L. 98–555, § 3(b)(5)(A)][/us/pl/98/555/s3/b/5/A], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 98–555][/us/pl/98/555], § 3(b)(5)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 98–555, § 3(a)][/us/pl/98/555/s3/a], (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted “(b), (c), and (d)” for “(b) and (c)”, inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted “10 per centum” for “5 per centum”, and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 over certain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of “(b), (c), or (d)” for “(b) or (c)” in second sentence of subsec. (e)(1), the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because “(b) or (c)” did not appear in second sentence. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 98–555][/us/pl/98/555], § 3(a), (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted “(b), (c), and (d)” for “(b) and (c)”, inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted “10 per centum” for “5 per centum”, and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 over certain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of “(b), (c), or (d)” for “(b) or (c)” in second sentence of subsec. (e)(1), the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because “(b) or (c)” did not appear in second sentence. Former subsec. (e) redesignated (f).
 
-    Subsecs. (f), (g). [Pub. L. 98–555, § 3(b)(5)(A)][/us/pl/98/555/s3/b/5/A], (6)(A), (C), redesignated subsecs. (e) and (f) as (f) and (g), respectively, in subsecs. (f) and (g) as so redesignated, substituted “sexually transmitted diseases” for “venereal disease”, and struck out former subsec. (g) which defined venereal disease.
+    Subsecs. (f), (g). [Pub. L. 98–555][/us/pl/98/555], § 3(b)(5)(A), (6)(A), (C), redesignated subsecs. (e) and (f) as (f) and (g), respectively, in subsecs. (f) and (g) as so redesignated, substituted “sexually transmitted diseases” for “venereal disease”, and struck out former subsec. (g) which defined venereal disease.
 
     1981—Subsec. (d)(1). [Pub. L. 97–35][/us/pl/97/35] inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
-    1979—Subsec. (b). [Pub. L. 96–32][/us/pl/96/32] amended directory language of [Pub. L. 95–626, § 204(c)(2)][/us/pl/95/626/s204/c/2], and required no change in text. See 1978 Amendment note below.
+    1979—Subsec. (b). [Pub. L. 96–32][/us/pl/96/32] amended directory language of [Pub. L. 95–626][/us/pl/95/626], § 204(c)(2), and required no change in text. See 1978 Amendment note below.
 
-    1978—Subsec. (b). [Pub. L. 95–626, § 204(c)(2)][/us/pl/95/626/s204/c/2], as amended by [Pub. L. 96–32][/us/pl/96/32], substituted “research, demonstrations, and public information and education for the prevention and control of venereal disease” for “research, demonstrations, education, and training for the prevention and control of venereal disease”, struck out “(1)” preceding provisions thus amended, and struck out par. (2) which authorized appropriation of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978 for purpose of carrying out this subsection.
+    1978—Subsec. (b). [Pub. L. 95–626][/us/pl/95/626], § 204(c)(2), as amended by [Pub. L. 96–32][/us/pl/96/32], substituted “research, demonstrations, and public information and education for the prevention and control of venereal disease” for “research, demonstrations, education, and training for the prevention and control of venereal disease”, struck out “(1)” preceding provisions thus amended, and struck out par. (2) which authorized appropriation of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978 for purpose of carrying out this subsection.
 
-    Subsec. (c). [Pub. L. 95–626, § 204(d)][/us/pl/95/626/s204/d], struck out “(1)” after “(c)” at beginning of existing provisions, changed designations at beginning of each of the five clauses from “(A)”, “(B)”, “(C)”, “(D)”, and “(E)” to “(1)”, “(2)”, “(3)”, “(4)”, and “(5)”, respectively, substituted “The Secretary is also authorized” for “The Secretary is authorized” in provisions preceding cl. (1) as redesignated, substituted “professional (including appropriate allied health personnel) venereal disease education, training and clinical skills improvement activities” for “professional and public venereal disease education activities” in cl. (4) as redesignated, and struck out former par. (2) which had authorized appropriations of $32,000,000 for fiscal year 1976, $41,500,000 for fiscal year 1977, and $43,500,000 for fiscal year 1978.
+    Subsec. (c). [Pub. L. 95–626][/us/pl/95/626], § 204(d), struck out “(1)” after “(c)” at beginning of existing provisions, changed designations at beginning of each of the five clauses from “(A)”, “(B)”, “(C)”, “(D)”, and “(E)” to “(1)”, “(2)”, “(3)”, “(4)”, and “(5)”, respectively, substituted “The Secretary is also authorized” for “The Secretary is authorized” in provisions preceding cl. (1) as redesignated, substituted “professional (including appropriate allied health personnel) venereal disease education, training and clinical skills improvement activities” for “professional and public venereal disease education activities” in cl. (4) as redesignated, and struck out former par. (2) which had authorized appropriations of $32,000,000 for fiscal year 1976, $41,500,000 for fiscal year 1977, and $43,500,000 for fiscal year 1978.
 
-    Subsec. (d)(1). [Pub. L. 95–626, § 204(c)(1)][/us/pl/95/626/s204/c/1], inserted provisions authorizing appropriations of $45,000,000 for fiscal year ending Sept. 30, 1979, $51,500,000 for fiscal year ending Sept. 30, 1980, and $59,000,000 for fiscal year ending Sept. 30, 1981, for purpose of making grants under subsecs. (b) and (c) of this section, and inserted provisions directing Secretary to obligate not less than 5 per centum of amount appropriated for any fiscal year.
+    Subsec. (d)(1). [Pub. L. 95–626][/us/pl/95/626], § 204(c)(1), inserted provisions authorizing appropriations of $45,000,000 for fiscal year ending Sept. 30, 1979, $51,500,000 for fiscal year ending Sept. 30, 1980, and $59,000,000 for fiscal year ending Sept. 30, 1981, for purpose of making grants under subsecs. (b) and (c) of this section, and inserted provisions directing Secretary to obligate not less than 5 per centum of amount appropriated for any fiscal year.
 
-    Subsec. (f). [Pub. L. 95–626, § 204(b)(1)][/us/pl/95/626/s204/b/1], redesignated subsec. (g) as (f). Former subsec. (f), requiring that not to exceed 50 per centum of amounts appropriated for any fiscal year under subsecs. (b) and (c) of this section could be used by Secretary for grants for such fiscal year under [section 247b of this title][/us/usc/t42/s247b], was struck out.
+    Subsec. (f). [Pub. L. 95–626][/us/pl/95/626], § 204(b)(1), redesignated subsec. (g) as (f). Former subsec. (f), requiring that not to exceed 50 per centum of amounts appropriated for any fiscal year under subsecs. (b) and (c) of this section could be used by Secretary for grants for such fiscal year under [section 247b of this title][/us/usc/t42/s247b], was struck out.
 
-    Subsec. (g). [Pub. L. 95–626, § 204(b)(1)][/us/pl/95/626/s204/b/1], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 95–626][/us/pl/95/626], § 204(b)(1), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    1976—Subsec. (a). [Pub. L. 94–317, § 203(c)][/us/pl/94/317/s203/c], substituted “public and nonprofit private entities and to” for “public authorities and”.
+    1976—Subsec. (a). [Pub. L. 94–317][/us/pl/94/317], § 203(c), substituted “public and nonprofit private entities and to” for “public authorities and”.
 
-    Subsec. (b)(1). [Pub. L. 94–317, § 203(i)][/us/pl/94/317/s203/i], inserted “education,” before “and training”.
+    Subsec. (b)(1). [Pub. L. 94–317][/us/pl/94/317], § 203(i), inserted “education,” before “and training”.
 
-    Subsec. (b)(2). [Pub. L. 94–317, § 203(b)(1)][/us/pl/94/317/s203/b/1], substituted provisions authorizing appropriations of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978, for provisions authorizing appropriations of $7,500,000 for fiscal year ending June 30, 1973, and for each of the next two fiscal years.
+    Subsec. (b)(2). [Pub. L. 94–317][/us/pl/94/317], § 203(b)(1), substituted provisions authorizing appropriations of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978, for provisions authorizing appropriations of $7,500,000 for fiscal year ending June 30, 1973, and for each of the next two fiscal years.
 
     Subsec. (c). [Pub. L. 94–484][/us/pl/94/484], purported to amend former subsec. (c)(1) by defining “State” to include the Northern Mariana Islands. Former subsec. (c) of this section had been previously repealed by [section 203(f)(1) of Pub. L. 94–317][/us/pl/94/317/s203/f/1]. See par. below.
 
-    [Pub. L. 94–317, § 203(b)(2)][/us/pl/94/317/s203/b/2], (d), (e), (f)(1), (3), (8), redesignated subsec. (d) as (c), inserted, in par. (1)(B), reference to routine testing, including laboratory tests and followup systems and substituted in par. (1)(E). “prevention and control strategies and activities” for “control” and, in par. (2), provisions authorizing appropriations of $32,000,000 for fiscal year 1976, $41,500,000 for fiscal year 1977, and $43,500,000 for fiscal year 1978, for provisions authorizing appropriations of $30,000,000 for the fiscal year ending June 30, 1973, and for each of the next two succeeding fiscal years. Former subsec. (c), which provided for authorization of appropriations to enable the Secretary to make grants to state health authorities to establish and maintain programs for diagnosis and treatment of venereal disease was amended by striking out reference to dark-field microscope techniques for diagnosis of both gonorrhea an syphilis, and as so amended, was repealed.
+    [Pub. L. 94–317][/us/pl/94/317], § 203(b)(2), (d), (e), (f)(1), (3), (8), redesignated subsec. (d) as (c), inserted, in par. (1)(B), reference to routine testing, including laboratory tests and followup systems and substituted in par. (1)(E). “prevention and control strategies and activities” for “control” and, in par. (2), provisions authorizing appropriations of $32,000,000 for fiscal year 1976, $41,500,000 for fiscal year 1977, and $43,500,000 for fiscal year 1978, for provisions authorizing appropriations of $30,000,000 for the fiscal year ending June 30, 1973, and for each of the next two succeeding fiscal years. Former subsec. (c), which provided for authorization of appropriations to enable the Secretary to make grants to state health authorities to establish and maintain programs for diagnosis and treatment of venereal disease was amended by striking out reference to dark-field microscope techniques for diagnosis of both gonorrhea an syphilis, and as so amended, was repealed.
 
-    Subsec. (d). [Pub. L. 94–317, § 203(f)(2)][/us/pl/94/317/s203/f/2], (4), (5), (8), redesignated subsec. (e) as (d), substituted in par. (1) “or (c)” for “or (d)”, struck out in par. (4) provisions relating to the amount of reduction of a grant under former subsec. (c) whereby such amount shall be deemed a part of the grant to the recipient of the grant and shall be deemed to have been paid to such recipient, and inserted in par. (5) reference to requirement by law of a State or political subdivision of a state. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 94–317][/us/pl/94/317], § 203(f)(2), (4), (5), (8), redesignated subsec. (e) as (d), substituted in par. (1) “or (c)” for “or (d)”, struck out in par. (4) provisions relating to the amount of reduction of a grant under former subsec. (c) whereby such amount shall be deemed a part of the grant to the recipient of the grant and shall be deemed to have been paid to such recipient, and inserted in par. (5) reference to requirement by law of a State or political subdivision of a state. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 94–317, § 203(f)(8)][/us/pl/94/317/s203/f/8], (g), redesignated subsec. (f) as (e) and substituted “247b(g)(2) of this title” for “247b(d)(4) of this title”. Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 94–317][/us/pl/94/317], § 203(f)(8), (g), redesignated subsec. (f) as (e) and substituted “247b(g)(2) of this title” for “247b(d)(4) of this title”. Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 94–317, § 203(f)(6)][/us/pl/94/317/s203/f/6], (8), redesignated subsec. (g) as (f) and substituted “and (c)” for “, (c), and (d)”. Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 94–317][/us/pl/94/317], § 203(f)(6), (8), redesignated subsec. (g) as (f) and substituted “and (c)” for “, (c), and (d)”. Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 94–317, § 203(f)(7)][/us/pl/94/317/s203/f/7], (8), redesignated subsec. (h) as (g) and struck out “treated or to have any child or ward of his” after “a program, to be”. Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 94–317][/us/pl/94/317], § 203(f)(7), (8), redesignated subsec. (h) as (g) and struck out “treated or to have any child or ward of his” after “a program, to be”. Former subsec. (g) redesignated (f).
 
-    Subsec. (h). [Pub. L. 94–317, § 203(h)][/us/pl/94/317/s203/h], added subsec. (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 94–317][/us/pl/94/317], § 203(h), added subsec. (h). Former subsec. (h) redesignated (g).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -157,13 +157,13 @@
 
  __Distribution of Information on Acquired Immune Deficiency Syndrome by Director of Centers for Disease Control to Every American Household__ 
 
-[Pub. L. 100–202, § 101(h)][/us/pl/100/202/s101/h] \[title II\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–365, provided: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(h) \[title II\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–365, provided: 
 
 > “That the Director shall cause to be distributed without necessary clearance of the content by any official, organization or office, an AIDS mailer to every American household by June 30, 1988, as approved and funded by the Congress in [Public Law 100–71][/us/pl/100/71] \[July 11, 1987, [101 Stat. 391][/us/stat/101/391]\].”
 
  __Congressional Findings and Declarations__ 
 
-[Pub. L. 95–626, title II, § 204(a)][/us/pl/95/626/s204/a], Nov. 10, 1978, [92 Stat. 3582][/us/stat/92/3582], provided that: 
+[Pub. L. 95–626, title II][/us/pl/95/626/tII], § 204(a), Nov. 10, 1978, [92 Stat. 3582][/us/stat/92/3582], provided that: 
 
 > “The Congress finds and declares that—
 
@@ -189,7 +189,7 @@
 
 >     “(11) an increasing number of sexually transmissible diseases besides syphilis and gonorrhea have become a public health hazard.”
 
-[Pub. L. 94–317, title II, § 203(a)][/us/pl/94/317/s203/a], June 23, 1976, [90 Stat. 703][/us/stat/90/703], provided that: 
+[Pub. L. 94–317, title II][/us/pl/94/317/tII], § 203(a), June 23, 1976, [90 Stat. 703][/us/stat/90/703], provided that: 
 
 > “The Congress finds and declares that—
 
@@ -215,7 +215,7 @@
 
 >     “(11) a variety of other sexually transmitted diseases, in addition to syphilis and gonorrhea, have become of public health significance.”
 
-[Pub. L. 92–449, title II, § 202][/us/pl/92/449/s202], Sept. 30, 1972, [86 Stat. 750][/us/stat/86/750], provided that:
+[Pub. L. 92–449, title II][/us/pl/92/449/tII], § 202, Sept. 30, 1972, [86 Stat. 750][/us/stat/86/750], provided that:
 
 >     “(a)
 
@@ -245,86 +245,86 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/92/449/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2Fs203
+[/us/pl/92/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2FtII
 [/us/stat/86/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F751
-[/us/pl/94/317/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Fb
+[/us/pl/94/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtII
 [/us/stat/90/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F704
-[/us/pl/94/484/s905/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs905%2Fb%2F2
+[/us/pl/94/484/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIX
 [/us/stat/90/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2325
-[/us/pl/95/626/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fb%2F1
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3583
-[/us/pl/96/32/s6/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs6%2Fj
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F84
-[/us/pl/97/35/s929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs929
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F569
-[/us/pl/98/555/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs3
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/stat/98/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2854
-[/us/pl/100/607/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs311
+[/us/pl/100/607/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIII
 [/us/stat/102/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3112
-[/us/pl/103/183/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401
+[/us/pl/103/183/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtIV
 [/us/stat/107/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2236
-[/us/pl/105/392/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fb%2F2
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3587
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs2
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F447
-[/us/pl/89/749/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749%2Fs6
+[/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/stat/80/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1190
-[/us/pl/105/392/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fb%2F2
-[/us/pl/105/392/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fc
-[/us/pl/103/183/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401%2Fc%2F3
-[/us/pl/105/392/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fb%2F2
-[/us/pl/103/183/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401%2Fc%2F1
-[/us/pl/103/183/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401%2Fc%2F2
-[/us/pl/103/183/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401%2Fa%2F2
-[/us/pl/103/183/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401%2Fa%2F1
-[/us/pl/103/183/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401%2Fb
-[/us/pl/103/183/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs401%2Fc%2F3
-[/us/pl/105/392/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fc
-[/us/pl/100/607/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs311%2F1
-[/us/pl/100/607/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs311%2F2
-[/us/pl/100/607/s311/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs311%2F4
-[/us/pl/100/607/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs311%2F2
-[/us/pl/98/555/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs3%2Fb%2F1
-[/us/pl/98/555/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs3%2Fb%2F2
-[/us/pl/98/555/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs3%2Fb%2F3
-[/us/pl/98/555/s3/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs3%2Fb%2F5%2FA
-[/us/pl/98/555/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs3%2Fa
-[/us/pl/98/555/s3/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs3%2Fb%2F5%2FA
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
-[/us/pl/95/626/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fc%2F2
-[/us/pl/95/626/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fc%2F2
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
-[/us/pl/95/626/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fd
-[/us/pl/95/626/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fc%2F1
-[/us/pl/95/626/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fb%2F1
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/usc/t42/s247b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b
-[/us/pl/95/626/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fb%2F1
-[/us/pl/94/317/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Fc
-[/us/pl/94/317/s203/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Fi
-[/us/pl/94/317/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Fb%2F1
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/pl/94/317/s203/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Ff%2F1
-[/us/pl/94/317/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Fb%2F2
-[/us/pl/94/317/s203/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Ff%2F2
-[/us/pl/94/317/s203/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Ff%2F8
-[/us/pl/94/317/s203/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Ff%2F6
-[/us/pl/94/317/s203/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Ff%2F7
-[/us/pl/94/317/s203/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Fh
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
+[/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/105/392/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fe
 [/us/usc/t42/s242m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242m
-[/us/pl/100/202/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fh
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-256
 [/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
 [/us/stat/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F391
-[/us/pl/95/626/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fa
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3582
-[/us/pl/94/317/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs203%2Fa
+[/us/pl/94/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtII
 [/us/stat/90/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F703
-[/us/pl/92/449/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2Fs202
+[/us/pl/92/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2FtII
 [/us/stat/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F750
 
 

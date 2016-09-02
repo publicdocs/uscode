@@ -73,7 +73,7 @@
 
     (17) The term “WTC Scientific/Technical Advisory Committee” means such Committee established under [section 300mm–1(a) of this title][/us/usc/t42/s300mm–1/a].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3306, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3633][/us/stat/124/3633].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3306, as added [Pub. L. 111–347, title I][/us/pl/111/347/tI], § 101, Jan. 2, 2011, [124 Stat. 3633][/us/stat/124/3633].)
 
 ----------
 
@@ -100,7 +100,7 @@
 [/us/usc/t42/s300mm–21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9321%2Fa
 [/us/usc/t42/s300mm–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%931%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
+[/us/pl/111/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtI
 [/us/stat/124/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3633
 
 

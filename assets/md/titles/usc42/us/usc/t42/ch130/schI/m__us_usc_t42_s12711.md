@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this subchapter or subchapter II of this chapter, the Secretary shall not establish any criteria for allocating or denying funds made available under programs administered by the Secretary based on the adoption, continuation, or discontinuation by a jurisdiction of any public policy, regulation, or law that is (1) adopted, continued, or discontinued in accordance with the jurisdiction’s duly established authority, and (2) not in violation of any Federal law.
 
-([Pub. L. 101–625, title I, § 111][/us/pl/101/625/s111], Nov. 28, 1990, [104 Stat. 4093][/us/stat/104/4093].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 111, Nov. 28, 1990, [104 Stat. 4093][/us/stat/104/4093].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs111
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4093
 
 

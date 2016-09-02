@@ -41,7 +41,7 @@
 
         Not later than January 1, 1982, the Secretary shall prepare and submit to the President and the Congress a report containing a complete description of any financial, institutional, environmental, and social barriers to the development and application of technologies for the recovery of energy from municipal wastes.
 
-([Pub. L. 96–294, title II, § 231][/us/pl/96/294/s231], June 30, 1980, [94 Stat. 696][/us/stat/94/696].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 231, June 30, 1980, [94 Stat. 696][/us/stat/94/696].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs231
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F696
 
 

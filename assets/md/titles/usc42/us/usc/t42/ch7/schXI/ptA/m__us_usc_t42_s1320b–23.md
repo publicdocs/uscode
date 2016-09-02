@@ -51,11 +51,11 @@
 
         The provisions of subsection (b)(3)(C) of [section 1396r–8 of this title][/us/usc/t42/s1396r–8] shall apply to a health benefits plan or PBM that fails to provide information required under subsection (a) on a timely basis or that knowingly provides false information in the same manner as such provisions apply to a manufacturer with an agreement under that section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1150A, as added [Pub. L. 111–148, title VI, § 6005][/us/pl/111/148/s6005], Mar. 23, 2010, [124 Stat. 698][/us/stat/124/698].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1150A, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6005, Mar. 23, 2010, [124 Stat. 698][/us/stat/124/698].)
 
  __Prior Provisions__ 
 
-    A prior [section 1320b–23 of this title][/us/usc/t42/s1320b–23], [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1150A, as added [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 635(c)(1)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–115, which related to prohibition of certain misuses of social security numbers, was repealed by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 213(a)(6), (b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–180, effective as if included in [Pub. L. 106–553][/us/pl/106/553] on Dec. 21, 2000.
+    A prior [section 1320b–23 of this title][/us/usc/t42/s1320b–23], [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1150A, as added [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 635(c)(1)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–115, which related to prohibition of certain misuses of social security numbers, was repealed by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 213(a)(6), (b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–180, effective as if included in [Pub. L. 106–553][/us/pl/106/553] on Dec. 21, 2000.
 
 ----------
 
@@ -68,13 +68,13 @@
 [/us/usc/t42/s18031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18031
 [/us/usc/t42/s1396r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6005
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F698
 [/us/usc/t42/s1320b–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9323
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 

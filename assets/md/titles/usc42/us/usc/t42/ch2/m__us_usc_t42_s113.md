@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s112.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs113)
 
-## § 113. Repealed. [June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992], eff. Sept. 1, 1948
+## § 113. Repealed. [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 992][/us/stat/62/992], eff. Sept. 1, 1948
 
-    Section, R.S. § 4799, [act Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167], related to adjournment of courts during an epidemic.
+    Section, R.S. § 4799, [act Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167], related to adjournment of courts during an epidemic.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 
 

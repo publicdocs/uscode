@@ -19,17 +19,17 @@
 
     (b) To meet the obligations of the loan fund established under [section 300e–7(e) of this title][/us/usc/t42/s300e–7/e] resulting from defaults on loans made from the fund and to meet the other obligations of the fund, there is authorized to be appropriated to the loan fund for fiscal years 1987, 1988, and 1989, such sums as may be necessary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1309, as added [Pub. L. 93–222, § 2][/us/pl/93/222/s2], Dec. 29, 1973, [87 Stat. 930][/us/stat/87/930]; amended [Pub. L. 94–460, title I, § 113(c)][/us/pl/94/460/s113/c], Oct. 8, 1976, [90 Stat. 1954][/us/stat/90/1954]; [Pub. L. 95–83, title I, § 105(b)][/us/pl/95/83/s105/b], Aug. 1, 1977, [91 Stat. 384][/us/stat/91/384]; [Pub. L. 95–559][/us/pl/95/559], §§ 2(c), 7(b), Nov. 1, 1978, [92 Stat. 2131][/us/stat/92/2131], 2135; [Pub. L. 97–35, title IX, § 941(a)][/us/pl/97/35/s941/a], (b), Aug. 13, 1981, [95 Stat. 572][/us/stat/95/572]; [Pub. L. 99–660, title VIII][/us/pl/99/660], §§ 803(b)(3), 811, Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], 3801.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1309, as added [Pub. L. 93–222][/us/pl/93/222], § 2, Dec. 29, 1973, [87 Stat. 930][/us/stat/87/930]; amended [Pub. L. 94–460, title I][/us/pl/94/460/tI], § 113(c), Oct. 8, 1976, [90 Stat. 1954][/us/stat/90/1954]; [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 105(b), Aug. 1, 1977, [91 Stat. 384][/us/stat/91/384]; [Pub. L. 95–559][/us/pl/95/559], §§ 2(c), 7(b), Nov. 1, 1978, [92 Stat. 2131][/us/stat/92/2131], 2135; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 941(a), (b), Aug. 13, 1981, [95 Stat. 572][/us/stat/95/572]; [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], §§ 803(b)(3), 811, Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], 3801.)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–660, § 803(b)(3)][/us/pl/99/660/s803/b/3], struck out par. (2) designation and struck out par. (1) which read as follows: “For grants and contracts under sections 300e–2 and 300e–3 of this title there is authorized to be appropriated $20,000,000 for the fiscal years 1982, 1983, and 1984. No funds appropriated under this paragraph may be expended or obligated for a grant or contract unless the entity received a grant or contract under section 242a or 242b of this title during or before the fiscal year 1981.”
+    1986—Subsec. (a). [Pub. L. 99–660][/us/pl/99/660], § 803(b)(3), struck out par. (2) designation and struck out par. (1) which read as follows: “For grants and contracts under sections 300e–2 and 300e–3 of this title there is authorized to be appropriated $20,000,000 for the fiscal years 1982, 1983, and 1984. No funds appropriated under this paragraph may be expended or obligated for a grant or contract unless the entity received a grant or contract under section 242a or 242b of this title during or before the fiscal year 1981.”
 
-    Subsec. (b). [Pub. L. 99–660, § 811][/us/pl/99/660/s811], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To maintain in the loan fund established under [section 300e–7(e) of this title][/us/usc/t42/s300e–7/e] for the purpose of making new loans a balance of at least $5,000,000 at the end of each fiscal year and to meet the obligations of the loan fund resulting from defaults on loans made from the fund and to meet the other obligations of the fund, there is authorized to be appropriated to the loan fund for fiscal years 1982, 1983, and 1984, such sums as may be necessary to assure such balance and meet such obligations.”
+    Subsec. (b). [Pub. L. 99–660][/us/pl/99/660], § 811, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To maintain in the loan fund established under [section 300e–7(e) of this title][/us/usc/t42/s300e–7/e] for the purpose of making new loans a balance of at least $5,000,000 at the end of each fiscal year and to meet the obligations of the loan fund resulting from defaults on loans made from the fund and to meet the other obligations of the fund, there is authorized to be appropriated to the loan fund for fiscal years 1982, 1983, and 1984, such sums as may be necessary to assure such balance and meet such obligations.”
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 941(a)][/us/pl/97/35/s941/a], substituted provisions authorizing appropriations for fiscal years 1982, 1983, and 1984, and provisions respecting prior receipt of funds, for provisions authorizing appropriations for fiscal years ending June 30, 1974, 1975, and 1976, and Sept. 30, 1977, 1978, 1979, 1980, and 1981.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 941(a), substituted provisions authorizing appropriations for fiscal years 1982, 1983, and 1984, and provisions respecting prior receipt of funds, for provisions authorizing appropriations for fiscal years ending June 30, 1974, 1975, and 1976, and Sept. 30, 1977, 1978, 1979, 1980, and 1981.
 
-    Subsec. (b). [Pub. L. 97–35, § 941(b)][/us/pl/97/35/s941/b], substituted provisions relating to maintenance of the loan fund for fiscal years 1982, 1983, and 1984, for provisions relating to maintenance of the loan fund for fiscal years ending June 30, 1974, and 1975.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 941(b), substituted provisions relating to maintenance of the loan fund for fiscal years 1982, 1983, and 1984, for provisions relating to maintenance of the loan fund for fiscal years ending June 30, 1974, and 1975.
 
     1978—Subsec. (a). [Pub. L. 95–559][/us/pl/95/559] substituted “300e–3(b) and 300e–16 of this title” for “and 300e–3(b) of this title” and “, $31,000,000 for the fiscal year ending September 30, 1979, $65,000,000 for the fiscal year ending September 30, 1980, and $68,000,000 for the fiscal year ending September 30, 1981” for “; and for the purpose of making payments under grants and contracts under [section 300e–3(b) of this title][/us/usc/t42/s300e–3/b] for the fiscal year ending September 30, 1979, there is authorized to be appropriated $50,000,000”.
 
@@ -61,23 +61,23 @@
 [/us/usc/t42/s300e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%9316
 [/us/usc/t42/s300e–7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%937%2Fe
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F930
-[/us/pl/94/460/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs113%2Fc
+[/us/pl/94/460/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2FtI
 [/us/stat/90/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1954
-[/us/pl/95/83/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs105%2Fb
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F384
 [/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2131
-[/us/pl/97/35/s941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs941%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F572
-[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
-[/us/pl/99/660/s803/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F3
-[/us/pl/99/660/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs811
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/usc/t42/s300e–7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%937%2Fe
-[/us/pl/97/35/s941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs941%2Fa
-[/us/pl/97/35/s941/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs941%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/usc/t42/s300e–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%933%2Fb
 [/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83

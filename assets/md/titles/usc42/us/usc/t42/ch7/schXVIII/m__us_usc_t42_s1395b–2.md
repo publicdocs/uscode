@@ -43,7 +43,7 @@
 
         (4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1804, as added [Pub. L. 100–360, title II, § 223(a)][/us/pl/100/360/s223/a], July 1, 1988, [102 Stat. 747][/us/stat/102/747]; amended [Pub. L. 103–432, title I, § 171(j)(1)][/us/pl/103/432/s171/j/1], Oct. 31, 1994, [108 Stat. 4450][/us/stat/108/4450]; [Pub. L. 105–33, title IV, § 4311(a)(1)][/us/pl/105/33/s4311/a/1], Aug. 5, 1997, [111 Stat. 384][/us/stat/111/384]; [Pub. L. 108–173, title IX, § 923(d)(1)][/us/pl/108/173/s923/d/1], Dec. 8, 2003, [117 Stat. 2394][/us/stat/117/2394].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1804, as added [Pub. L. 100–360, title II][/us/pl/100/360/tII], § 223(a), July 1, 1988, [102 Stat. 747][/us/stat/102/747]; amended [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 171(j)(1), Oct. 31, 1994, [108 Stat. 4450][/us/stat/108/4450]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4311(a)(1), Aug. 5, 1997, [111 Stat. 384][/us/stat/111/384]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 923(d)(1), Dec. 8, 2003, [117 Stat. 2394][/us/stat/117/2394].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title IV, § 4311(a)(2)][/us/pl/105/33/s4311/a/2], Aug. 5, 1997, [111 Stat. 384][/us/stat/111/384], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4311(a)(2), Aug. 5, 1997, [111 Stat. 384][/us/stat/111/384], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to notices provided on or after January 1, 1998.”
 
@@ -65,13 +65,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–360, title II, § 223(d)(1)][/us/pl/100/360/s223/d/1], July 1, 1988, [102 Stat. 748][/us/stat/102/748], provided that: 
+[Pub. L. 100–360, title II][/us/pl/100/360/tII], § 223(d)(1), July 1, 1988, [102 Stat. 748][/us/stat/102/748], provided that: 
 
 > “The Secretary of Health and Human Services shall first distribute the notice required by the amendment made by subsection (a) \[enacting this section\] not later than January 31, 1989.”
 
  __Monitoring Accuracy__ 
 
-[Pub. L. 108–173, title IX, § 923(d)(2)][/us/pl/108/173/s923/d/2], Dec. 8, 2003, [117 Stat. 2395][/us/stat/117/2395], provided that:
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 923(d)(2), Dec. 8, 2003, [117 Stat. 2395][/us/stat/117/2395], provided that:
 
 >     “(A)  __Study__  __.—__ 
 
@@ -87,19 +87,19 @@
 
  __Demonstration Projects__ 
 
-[Pub. L. 101–508, title IV, § 4361(b)][/us/pl/101/508/s4361/b], Nov. 5, 1990, [104 Stat. 1388–141][/us/stat/104/1388-141], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4361(b), Nov. 5, 1990, [104 Stat. 1388–141][/us/stat/104/1388-141], provided that: 
 
 > “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available in the State, and benefits under the State medicaid program.”
 
  __Notice of Changes Under Repeal of Medicare Catastrophic Coverage__ 
 
-[Pub. L. 101–234, title II, § 203(c)][/us/pl/101/234/s203/c], Dec. 13, 1989, [103 Stat. 1984][/us/stat/103/1984], provided that: 
+[Pub. L. 101–234, title II][/us/pl/101/234/tII], § 203(c), Dec. 13, 1989, [103 Stat. 1984][/us/stat/103/1984], provided that: 
 
 > “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[[42 U.S.C. 1395b–2][/us/usc/t42/s1395b–2]\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] made by the amendments made by this Act \[see Tables for classification\].”
 
  __Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries__ 
 
-    [Pub. L. 100–360, title IV, § 424][/us/pl/100/360/s424], July 1, 1988, [102 Stat. 812][/us/stat/102/812], which directed Secretary of Health and Human Services to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by [Pub. L. 101–234, title III, § 301(a)][/us/pl/101/234/s301/a], Dec. 13, 1989, [103 Stat. 1985][/us/stat/103/1985].
+    [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 424, July 1, 1988, [102 Stat. 812][/us/stat/102/812], which directed Secretary of Health and Human Services to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by [Pub. L. 101–234, title III][/us/pl/101/234/tIII], § 301(a), Dec. 13, 1989, [103 Stat. 1985][/us/stat/103/1985].
 
 ----------
 
@@ -112,40 +112,40 @@
 [/us/usc/t42/s1395b–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fb
 [/us/usc/t42/s1395b–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%935%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/360/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs223%2Fa
+[/us/pl/100/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtII
 [/us/stat/102/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F747
-[/us/pl/103/432/s171/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fj%2F1
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4450
-[/us/pl/105/33/s4311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fa%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F384
-[/us/pl/108/173/s923/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs923%2Fd%2F1
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2394
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
-[/us/pl/105/33/s4311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fa%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F384
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
-[/us/pl/100/360/s223/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs223%2Fd%2F1
+[/us/pl/100/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtII
 [/us/stat/102/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F748
-[/us/pl/108/173/s923/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs923%2Fd%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2395
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/pl/103/432/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171
 [/us/pl/103/432/s171/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fm
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
-[/us/pl/101/508/s4361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4361%2Fb
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-141
-[/us/pl/101/234/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs203%2Fc
+[/us/pl/101/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtII
 [/us/stat/103/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1984
 [/us/usc/t42/s1395b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%932
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/100/360/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs424
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F812
-[/us/pl/101/234/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs301%2Fa
+[/us/pl/101/234/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtIII
 [/us/stat/103/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1985
 
 

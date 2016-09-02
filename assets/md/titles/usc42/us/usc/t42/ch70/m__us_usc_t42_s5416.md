@@ -17,7 +17,7 @@
 
     The Secretary shall develop guidelines for a consumer’s manual to be provided to manufactured home purchasers by the manufacturer. These manuals should identify and explain the purchasers’ responsibilities for operation, maintenance, and repair of their manufactured homes.
 
-([Pub. L. 93–383, title VI, § 617][/us/pl/93/383/s617], Aug. 22, 1974, [88 Stat. 711][/us/stat/88/711]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III, § 339B(c)][/us/pl/97/35/s339B/c], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 617, Aug. 22, 1974, [88 Stat. 711][/us/stat/88/711]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339B(c), Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417].)
 
  __Codification__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/93/383/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs617
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F711
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
 [/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
 [/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc

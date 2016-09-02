@@ -17,11 +17,11 @@
 
     The purpose of this part is to establish the contracting process which the Secretary must follow pursuant to the requirements of [section 1395y(g) of this title][/us/usc/t42/s1395y/g], including the definition of the quality improvement organizations with which the Secretary shall contract, the functions such quality improvement organizations are to perform, the confidentiality of medical records, and related administrative matters to facilitate the carrying out of the purposes of this part.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1151, as added [Pub. L. 97–248, title I, § 143][/us/pl/97/248/s143], Sept. 3, 1982, [96 Stat. 382][/us/stat/96/382]; amended [Pub. L. 112–40, title II, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1151, as added [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 143, Sept. 3, 1982, [96 Stat. 382][/us/stat/96/382]; amended [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 261(a)(2)(C), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
 
  __Prior Provisions__ 
 
-    A prior section 1320c, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1151, as added Oct. 30, 1972, [Pub. L. 92–603, title II, § 249F(b)][/us/pl/92/603/s249F/b], [86 Stat. 1429][/us/stat/86/1429]; amended Aug. 13, 1981, [Pub. L. 97–35, title XXI, § 2113(a)][/us/pl/97/35/s2113/a], [95 Stat. 794][/us/stat/95/794], set out the Congressional declaration of purpose of former part B, in the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
+    A prior section 1320c, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1151, as added Oct. 30, 1972, [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 249F(b), [86 Stat. 1429][/us/stat/86/1429]; amended Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2113(a), [95 Stat. 794][/us/stat/95/794], set out the Congressional declaration of purpose of former part B, in the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
 
  __Amendments__ 
 
@@ -29,19 +29,19 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–40, title II, § 261(e)][/us/pl/112/40/s261/e], Oct. 21, 2011, [125 Stat. 426][/us/stat/125/426], provided that: 
+[Pub. L. 112–40, title II][/us/pl/112/40/tII], § 261(e), Oct. 21, 2011, [125 Stat. 426][/us/stat/125/426], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1320c–1 to 1320c–5, 1320c–7, 1320c–9, 1320c–10, 1395g, 1395k, 1395u, 1395x, 1395y, 1395cc, 1395dd, 1395ff, 1395mm, 1395pp, and 1395ww of this title\] shall apply to contracts entered into or renewed on or after January 1, 2012.”
 
  __Effective Date__ 
 
-[Section 149 of Pub. L. 97–248][/us/pl/97/248/s149], as amended by [Pub. L. 98–369, div. B, title III, § 2354(c)(3)(C)][/us/pl/98/369/s2354/c/3/C], July 18, 1984, [98 Stat. 1102][/us/stat/98/1102], provided that: 
+[Section 149 of Pub. L. 97–248][/us/pl/97/248/s149], as amended by [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2354(c)(3)(C), July 18, 1984, [98 Stat. 1102][/us/stat/98/1102], provided that: 
 
 > “The amendments made by this subtitle \[subtitle C (§§ 141–150) of title I of [Pub. L. 97–248][/us/pl/97/248], enacting this part, amending sections 1395b–1, 1395g, 1395k, 1395l, 1395x, 1395y, 1395cc, 1395pp, 1396a, and 1396b of this title, and enacting provisions set out as notes under sections 1305 and 1320c of this title\] shall, subject to section 150 \[[section 150 of Pub. L. 97–248][/us/pl/97/248/s150], set out as a note below\], be effective with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
  __IOM Study of QIOs__ 
 
-[Pub. L. 108–173, title I, § 109(d)][/us/pl/108/173/s109/d], Dec. 8, 2003, [117 Stat. 2173][/us/stat/117/2173], provided that:
+[Pub. L. 108–173, title I][/us/pl/108/173/tI], § 109(d), Dec. 8, 2003, [117 Stat. 2173][/us/stat/117/2173], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -71,7 +71,7 @@
 
  __Coordination of PROs and Carriers__ 
 
-[Pub. L. 101–508, title IV, § 4205(c)][/us/pl/101/508/s4205/c], Nov. 5, 1990, [104 Stat. 1388–113][/us/stat/104/1388-113], provided that:
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4205(c), Nov. 5, 1990, [104 Stat. 1388–113][/us/stat/104/1388-113], provided that:
 
 >     “(1)  __Development and implementation of plan__  __.—__ 
 
@@ -89,13 +89,13 @@
 
  __Evaluation of Professional Standards Review Organizations__ 
 
-[Pub. L. 97–448, title III, § 309(d)][/us/pl/97/448/s309/d], Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410], provided that: 
+[Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 309(d), Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410], provided that: 
 
 > “In order to avoid unfairly discriminating against professional standards review organizations whose performance was evaluated during the first and second calendar quarters of 1982, the Secretary of Health and Human Services shall disregard the results of such evaluations and shall carry out such new evaluations of such organizations as may be necessary to select utilization and quality control peer review organizations in accordance with subtitle C of title I of the Tax Equity and Fiscal Responsibility Act of 1982 \[sections 141–150 of [Pub. L. 97–248][/us/pl/97/248]\] and part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] as amended by such subtitle.”
 
  __Maintenance of Current Professional Standards Review Organization Agreements__ 
 
-[Pub. L. 97–248, title I, § 150][/us/pl/97/248/s150], Sept. 3, 1982, [96 Stat. 395][/us/stat/96/395], as amended by [Pub. L. 97–448, title III, § 309(a)(9)][/us/pl/97/448/s309/a/9], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], provided that:
+[Pub. L. 97–248, title I][/us/pl/97/248/tI], § 150, Sept. 3, 1982, [96 Stat. 395][/us/stat/96/395], as amended by [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 309(a)(9), Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], provided that:
 
 >     “(a) The Secretary of Health and Human Services shall not terminate or fail to renew any agreement in effect with a professional standards review organization under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982 until such time as he enters into a contract with a utilization and quality control peer review organization under such part, as amended by this subtitle \[subtitle C (§§ 141–150) of title I of [Pub. L. 97–248][/us/pl/97/248]\], for the area served by such professional standards review organization. In complying with this subsection, the Secretary may renew any such agreement with a professional standards review organization for a period of less than 12 months.
 
@@ -110,36 +110,36 @@
 
 [/us/usc/t42/s1395y/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fg
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/248/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs143
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F382
-[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F423
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s249F/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249F%2Fb
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1429
-[/us/pl/97/35/s2113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2113%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F794
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
-[/us/pl/112/40/s261/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fe
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F426
 [/us/pl/97/248/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs149
-[/us/pl/98/369/s2354/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fc%2F3%2FC
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1102
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs150
-[/us/pl/108/173/s109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs109%2Fd
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2173
 [/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
-[/us/pl/101/508/s4205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fc
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-113
-[/us/pl/97/448/s309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fd
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2410
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
-[/us/pl/97/248/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs150
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F395
-[/us/pl/97/448/s309/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F9
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
 [/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

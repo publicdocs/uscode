@@ -63,11 +63,11 @@
 
         There are authorized to be appropriated to the Secretary to carry out the purposes of this section $10,000,000 for each of the fiscal years 2006 through 2015.
 
-([Pub. L. 109–58, title II, § 242][/us/pl/109/58/s242], Aug. 8, 2005, [119 Stat. 677][/us/stat/119/677].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 242, Aug. 8, 2005, [119 Stat. 677][/us/stat/119/677].)
 
  __References in Text__ 
 
-    [Section 29 of title 26][/us/usc/t26/s29], referred to in subsec. (e)(2), was renumbered [section 45K of title 26][/us/usc/t26/s45K] by [Pub. L. 109–58, title XIII, § 1322(a)(1)][/us/pl/109/58/s1322/a/1], Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011].
+    [Section 29 of title 26][/us/usc/t26/s29], referred to in subsec. (e)(2), was renumbered [section 45K of title 26][/us/usc/t26/s45K] by [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1322(a)(1), Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011].
 
 ----------
 
@@ -77,11 +77,11 @@
 ----------
 
 [/us/usc/t16/s823a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823a%2Fa%2F2
-[/us/pl/109/58/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs242
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F677
 [/us/usc/t26/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs29
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/109/58/s1322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F1
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1011
 
 

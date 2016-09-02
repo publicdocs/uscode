@@ -19,7 +19,7 @@
 
     It shall be a condition of such transfer that all facilities transferred shall be available to meet the health needs of the Indians and that such health needs shall be given priority over those of the non-Indian population. No hospital or health facility that has been constructed or maintained for a specific tribe of Indians, or for a specific group of tribes, shall be transferred by the Secretary of Health and Human Services to a non-Indian entity or organization under this subchapter unless such action has been approved by the governing body of the tribe, or by the governing bodies of a majority of the tribes, for which such hospital or health facility has been constructed or maintained: Provided, That if, following such transfer by the United States Public Health Service, the Secretary of Health and Human Services finds the hospital or health facility transferred under this section is not thereafter serving the need of the Indians, the Secretary of Health and Human Services shall notify those charged with management thereof, setting forth needed improvements, and in the event such improvements are not made within a time to be specified, shall immediately assume management and operation of such hospital or health facility.
 
-([Aug. 5, 1954, ch. 658, § 2][/us/act/1954-08-05/ch658/s2], [68 Stat. 674][/us/stat/68/674]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Aug. 5, 1954, ch. 658][/us/act/1954-08-05/ch658], § 2, [68 Stat. 674][/us/stat/68/674]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Transfer of Functions__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1954-08-05/ch658/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658%2Fs2
+[/us/act/1954-08-05/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658
 [/us/stat/68/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F674
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

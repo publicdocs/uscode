@@ -37,7 +37,7 @@
 
         This section may not be construed as requiring any State to reduce or terminate the supply of vaccines provided by the State to any of the entities described in subsection (a)(2) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340C, formerly § 340B, as added [Pub. L. 102–531, title III, § 305][/us/pl/102/531/s305], Oct. 27, 1992, [106 Stat. 3494][/us/stat/106/3494]; renumbered § 340C, [Pub. L. 103–43, title XX, § 2008(i)(2)(A)(ii)][/us/pl/103/43/s2008/i/2/A/ii], June 10, 1993, [107 Stat. 213][/us/stat/107/213]; amended [Pub. L. 104–299, § 4(a)(2)][/us/pl/104/299/s4/a/2], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340C, formerly § 340B, as added [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 305, Oct. 27, 1992, [106 Stat. 3494][/us/stat/106/3494]; renumbered § 340C, [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(i)(2)(A)(ii), June 10, 1993, [107 Stat. 213][/us/stat/107/213]; amended [Pub. L. 104–299][/us/pl/104/299], § 4(a)(2), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].)
 
  __Amendments__ 
 
@@ -57,11 +57,11 @@
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s247b/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%2Fj%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs305
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3494
-[/us/pl/103/43/s2008/i/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fi%2F2%2FA%2Fii
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F213
-[/us/pl/104/299/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b

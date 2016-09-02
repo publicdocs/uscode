@@ -93,7 +93,7 @@
 
         The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 749, formerly § 748, as added [Pub. L. 105–392, title I, § 102(4)][/us/pl/105/392/s102/4], Nov. 13, 1998, [112 Stat. 3539][/us/stat/112/3539]; renumbered § 749 and amended [Pub. L. 111–148, title V][/us/pl/111/148], §§ 5103(d)(1), 5303(1), Mar. 23, 2010, [124 Stat. 605][/us/stat/124/605], 618.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 749, formerly § 748, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 102(4), Nov. 13, 1998, [112 Stat. 3539][/us/stat/112/3539]; renumbered § 749 and amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], §§ 5103(d)(1), 5303(1), Mar. 23, 2010, [124 Stat. 605][/us/stat/124/605], 618.)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 293l, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 748, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2043][/us/stat/106/2043]; amended [Pub. L. 102–531, title III, § 313(a)(3)][/us/pl/102/531/s313/a/3], Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507], authorized grants and contracts for development of general internal medicine and general pediatrics training programs, prior to repeal by [Pub. L. 105–392, title I, § 102(4)][/us/pl/105/392/s102/4], Nov. 13, 1998, [112 Stat. 3539][/us/stat/112/3539].
+    A prior section 293l, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 748, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2043][/us/stat/106/2043]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 313(a)(3), Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507], authorized grants and contracts for development of general internal medicine and general pediatrics training programs, prior to repeal by [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 102(4), Nov. 13, 1998, [112 Stat. 3539][/us/stat/112/3539].
 
     A prior section 749 of act July 1, 1944, was classified to [section 293m of this title][/us/usc/t42/s293m] prior to repeal by [Pub. L. 105–392][/us/pl/105/392].
 
@@ -113,7 +113,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d)(3) to (5). [Pub. L. 111–148, § 5103(d)(1)][/us/pl/111/148/s5103/d/1], added pars. (3) to (5).
+    2010—Subsec. (d)(3) to (5). [Pub. L. 111–148][/us/pl/111/148], § 5103(d)(1), added pars. (3) to (5).
 
  __Change of Name__ 
 
@@ -123,7 +123,7 @@
 
  __Termination of Advisory Committees__ 
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ----------
 
@@ -137,26 +137,26 @@
 [/us/usc/t42/s294n/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n%2Fd%2F2
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs102%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3539
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F605
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2043
-[/us/pl/102/531/s313/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs313%2Fa%2F3
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3507
-[/us/pl/105/392/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs102%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3539
 [/us/usc/t42/s293m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293m
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/usc/t42/s294s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294s
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/111/148/s5103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5103%2Fd%2F1
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

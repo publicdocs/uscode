@@ -35,7 +35,7 @@
 
         The Coordinating Committee shall be chaired by the Director of NIH (or the designee of the Director). The Committee shall meet at the call of the chair, but not less often than four times a year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464E, as added [Pub. L. 100–553, § 2(4)][/us/pl/100/553/s2/4], Oct. 28, 1988, [102 Stat. 2774][/us/stat/102/2774], and [Pub. L. 100–690, title II, § 2613(a)(1)][/us/pl/100/690/s2613/a/1], Nov. 18, 1988, [102 Stat. 4237][/us/stat/102/4237]; amended [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 103–43, title XX, § 2008(b)(9)][/us/pl/103/43/s2008/b/9], June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 109–482, title I, § 104(b)(1)(K)][/us/pl/109/482/s104/b/1/K], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464E, as added [Pub. L. 100–553][/us/pl/100/553], § 2(4), Oct. 28, 1988, [102 Stat. 2774][/us/stat/102/2774], and [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(a)(1), Nov. 18, 1988, [102 Stat. 4237][/us/stat/102/4237]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(b)(9), June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(K), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
     1993—Subsecs. (d), (e). [Pub. L. 103–43][/us/pl/103/43] inserted “Coordinating” before “Committee” in first sentence of subsec. (d) and before first reference to “Committee” in subsec. (e).
 
-    1988—[Pub. L. 100–690, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], amended this section to read as if the amendments made by [Pub. L. 100–690, § 2613(a)(1)][/us/pl/100/690/s2613/a/1], which enacted this section, had not been enacted. See Codification note above.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 2613(b)(2), amended this section to read as if the amendments made by [Pub. L. 100–690][/us/pl/100/690], § 2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -65,22 +65,22 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/553/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs2%2F4
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2774
-[/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4237
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
-[/us/pl/103/43/s2008/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F9
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F211
-[/us/pl/109/482/s104/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FK
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
-[/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281

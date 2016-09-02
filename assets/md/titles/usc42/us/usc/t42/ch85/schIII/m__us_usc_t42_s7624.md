@@ -23,15 +23,15 @@
 
         The regulations of the Administrator referred to in subsection (a) of this section shall permit a lease of a retail outlet to provide for payment by the lessee of the cost of procurement and installation of vapor recovery equipment over a reasonable period (as determined in accordance with such regulations), if the owner of such outlet does not sell, trade in, or otherwise dispense any product at wholesale or retail at such outlet.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 323, formerly § 324, as added [Pub. L. 95–95, title III, § 314(a)][/us/pl/95/95/s314/a], Aug. 7, 1977, [91 Stat. 788][/us/stat/91/788]; amended [Pub. L. 95–190, § 14(a)(82)][/us/pl/95/190/s14/a/82], Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; renumbered § 323 and amended [Pub. L. 96–300, § 1(b)][/us/pl/96/300/s1/b], (c), July 2, 1980, [94 Stat. 831][/us/stat/94/831].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 323, formerly § 324, as added [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 314(a), Aug. 7, 1977, [91 Stat. 788][/us/stat/91/788]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(82), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; renumbered § 323 and amended [Pub. L. 96–300][/us/pl/96/300], § 1(b), (c), July 2, 1980, [94 Stat. 831][/us/stat/94/831].)
 
  __Prior Provisions__ 
 
-    A prior section 323 of act July 14, 1955, was classified to [section 7623 of this title][/us/usc/t42/s7623] prior to repeal by [Pub. L. 96–300, § 1(c)][/us/pl/96/300/s1/c], July 2, 1980, [94 Stat. 831][/us/stat/94/831].
+    A prior section 323 of act July 14, 1955, was classified to [section 7623 of this title][/us/usc/t42/s7623] prior to repeal by [Pub. L. 96–300][/us/pl/96/300], § 1(c), July 2, 1980, [94 Stat. 831][/us/stat/94/831].
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–300, § 1(b)][/us/pl/96/300/s1/b], which directed that last sentence of this section be struck out was probably intended to strike sentence purportedly added by [Pub. L. 95–190][/us/pl/95/190]. See 1977 Amendment note below and [section 7623(i) of this title][/us/usc/t42/s7623/i].
+    1980—[Pub. L. 96–300][/us/pl/96/300], § 1(b), which directed that last sentence of this section be struck out was probably intended to strike sentence purportedly added by [Pub. L. 95–190][/us/pl/95/190]. See 1977 Amendment note below and [section 7623(i) of this title][/us/usc/t42/s7623/i].
 
     1977—[Pub. L. 95–190][/us/pl/95/190] which purported to amend subsec. (j) of this section by inserting “The Commission may appoint and fix the pay of such staff as it deems necessary.” after “(j)” was not executed to this section because it did not contain a subsec. (j). See 1980 Amendment note above.
 
@@ -47,16 +47,16 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs314%2Fa
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F788
-[/us/pl/95/190/s14/a/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F82
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1404
-[/us/pl/96/300/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300%2Fs1%2Fb
+[/us/pl/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300
 [/us/stat/94/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F831
 [/us/usc/t42/s7623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7623
-[/us/pl/96/300/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300%2Fs1%2Fc
+[/us/pl/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300
 [/us/stat/94/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F831
-[/us/pl/96/300/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300%2Fs1%2Fb
+[/us/pl/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/usc/t42/s7623/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7623%2Fi
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190

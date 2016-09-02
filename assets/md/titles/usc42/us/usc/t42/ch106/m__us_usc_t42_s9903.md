@@ -35,11 +35,11 @@
 
         (3) 9 percent for carrying out [section 9921 of this title][/us/usc/t42/s9921] (relating to discretionary activities) and [section 9917(b)(2) of this title][/us/usc/t42/s9917/b/2].
 
-([Pub. L. 97–35, title VI, § 674][/us/pl/97/35/s674], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2730][/us/stat/112/2730].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 674, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2730][/us/stat/112/2730].)
 
  __Prior Provisions__ 
 
-    A prior section 9903, [Pub. L. 97–35, title VI, § 674][/us/pl/97/35/s674], Aug. 13, 1981, [95 Stat. 512][/us/stat/95/512]; [Pub. L. 99–425, title IV, § 405(c)(1)][/us/pl/99/425/s405/c/1], Sept. 30, 1986, [100 Stat. 970][/us/stat/100/970]; [Pub. L. 101–501, title IV, § 403][/us/pl/101/501/s403], Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251]; [Pub. L. 103–171, § 7(c)(2)][/us/pl/103/171/s7/c/2], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 103–252, title II, § 202(b)][/us/pl/103/252/s202/b], May 18, 1994, [108 Stat. 651][/us/stat/108/651], related to State allocations for technical assistance and training, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9903, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 674, Aug. 13, 1981, [95 Stat. 512][/us/stat/95/512]; [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 405(c)(1), Sept. 30, 1986, [100 Stat. 970][/us/stat/100/970]; [Pub. L. 101–501, title IV][/us/pl/101/501/tIV], § 403, Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251]; [Pub. L. 103–171][/us/pl/103/171], § 7(c)(2), Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 103–252, title II][/us/pl/103/252/tII], § 202(b), May 18, 1994, [108 Stat. 651][/us/stat/108/651], related to State allocations for technical assistance and training, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
 ----------
 
@@ -53,18 +53,18 @@
 [/us/usc/t42/s9913/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9913%2Fc
 [/us/usc/t42/s9921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9921
 [/us/usc/t42/s9917/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9917%2Fb%2F2
-[/us/pl/97/35/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs674
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2730
-[/us/pl/97/35/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs674
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F512
-[/us/pl/99/425/s405/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs405%2Fc%2F1
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F970
-[/us/pl/101/501/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs403
+[/us/pl/101/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIV
 [/us/stat/104/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1251
-[/us/pl/103/171/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs7%2Fc%2F2
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1994
-[/us/pl/103/252/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs202%2Fb
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F651
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 

@@ -17,7 +17,7 @@
 
     Within sixty days after the effective date of the law creating a permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States (or within sixty days after October 26, 1974, if the effective date of such law occurs prior to October 26, 1974), all of the authorities of the Project and all of the research and development functions (and other functions except those related to scientific and technical education) vested in Federal agencies under this subchapter along with related records, documents, personnel, obligations, and other items, to the extent necessary or appropriate, shall, in accordance with regulations prescribed by the Office of Management and Budget, be transferred to and vested in such organization or agency.
 
-([Pub. L. 93–473, § 16][/us/pl/93/473/s16], Oct. 26, 1974, [88 Stat. 1438][/us/stat/88/1438].)
+([Pub. L. 93–473][/us/pl/93/473], § 16, Oct. 26, 1974, [88 Stat. 1438][/us/stat/88/1438].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs16
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1438
 
 

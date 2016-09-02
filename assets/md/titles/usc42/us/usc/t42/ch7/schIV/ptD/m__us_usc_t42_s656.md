@@ -33,27 +33,27 @@
 
         A debt (as defined in [section 101 of title 11][/us/usc/t11/s101]) owed under State law to a State (as defined in such section) or municipality (as defined in such section) that is in the nature of support and that is enforceable under this part is not released by a discharge in bankruptcy under title 11.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 456, as added [Pub. L. 93–647, § 101(a)][/us/pl/93/647/s101/a], Jan. 4, 1975, [88 Stat. 2356][/us/stat/88/2356]; amended [Pub. L. 95–598, title III, § 328][/us/pl/95/598/s328], Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 97–35, title XXIII, § 2334(a)][/us/pl/97/35/s2334/a], Aug. 13, 1981, [95 Stat. 863][/us/stat/95/863]; [Pub. L. 98–369, div. B, title VI, § 2663(c)(15)][/us/pl/98/369/s2663/c/15], July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 98–378, § 11(b)(2)][/us/pl/98/378/s11/b/2], Aug. 16, 1984, [98 Stat. 1318][/us/stat/98/1318]; [Pub. L. 104–193, title I, § 108(c)(13)][/us/pl/104/193/s108/c/13], title III, §§ 374(b), 395(d)(2)(C), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2255, 2260; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5513(a)(3), 5556(d), Aug. 5, 1997, [111 Stat. 619][/us/stat/111/619], 637.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 456, as added [Pub. L. 93–647][/us/pl/93/647], § 101(a), Jan. 4, 1975, [88 Stat. 2356][/us/stat/88/2356]; amended [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 328, Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2334(a), Aug. 13, 1981, [95 Stat. 863][/us/stat/95/863]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(c)(15), July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 98–378][/us/pl/98/378], § 11(b)(2), Aug. 16, 1984, [98 Stat. 1318][/us/stat/98/1318]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(c)(13), title III, §§ 374(b), 395(d)(2)(C), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2255, 2260; [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5513(a)(3), 5556(d), Aug. 5, 1997, [111 Stat. 619][/us/stat/111/619], 637.)
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–33, § 5513(a)(3)][/us/pl/105/33/s5513/a/3], amended [Pub. L. 104–193, § 108(c)(13)][/us/pl/104/193/s108/c/13]. See 1996 Amendment note below.
+    1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 5513(a)(3), amended [Pub. L. 104–193][/us/pl/104/193], § 108(c)(13). See 1996 Amendment note below.
 
-    Subsec. (a)(2)(B). [Pub. L. 105–33, § 5556(d)][/us/pl/105/33/s5556/d], substituted “Secretary.” for “Secretary, and”.
+    Subsec. (a)(2)(B). [Pub. L. 105–33][/us/pl/105/33], § 5556(d), substituted “Secretary.” for “Secretary, and”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–193, § 108(c)(13)][/us/pl/104/193/s108/c/13], as amended by [Pub. L. 105–33, § 5513(a)(3)][/us/pl/105/33/s5513/a/3], substituted “pursuant to [section 608(a)(3) of this title][/us/usc/t42/s608/a/3]” for “under [section 602(a)(26) of this title][/us/usc/t42/s602/a/26]”.
+    1996—Subsec. (a)(1). [Pub. L. 104–193][/us/pl/104/193], § 108(c)(13), as amended by [Pub. L. 105–33][/us/pl/105/33], § 5513(a)(3), substituted “pursuant to [section 608(a)(3) of this title][/us/usc/t42/s608/a/3]” for “under [section 602(a)(26) of this title][/us/usc/t42/s602/a/26]”.
 
-    Subsec. (a)(3). [Pub. L. 104–193, § 395(d)(2)(C)][/us/pl/104/193/s395/d/2/C], substituted “a noncustodial parent” for “an absent parent”.
+    Subsec. (a)(3). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(2)(C), substituted “a noncustodial parent” for “an absent parent”.
 
-    Subsec. (b). [Pub. L. 104–193, § 374(b)][/us/pl/104/193/s374/b], inserted heading and amended text generally. Prior to amendment, text read as follows: “A debt which is a child support obligation assigned to a State under [section 602(a)(26) of this title][/us/usc/t42/s602/a/26] is not released by a discharge in bankruptcy under title 11.”
+    Subsec. (b). [Pub. L. 104–193][/us/pl/104/193], § 374(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “A debt which is a child support obligation assigned to a State under [section 602(a)(26) of this title][/us/usc/t42/s602/a/26] is not released by a discharge in bankruptcy under title 11.”
 
-    1984—Subsec. (a)(1). [Pub. L. 98–378, § 11(b)(2)][/us/pl/98/378/s11/b/2], inserted “or secured on behalf of a child receiving foster care maintenance payments” after “[section 602(a)(26) of this title][/us/usc/t42/s602/a/26]”.
+    1984—Subsec. (a)(1). [Pub. L. 98–378][/us/pl/98/378], § 11(b)(2), inserted “or secured on behalf of a child receiving foster care maintenance payments” after “[section 602(a)(26) of this title][/us/usc/t42/s602/a/26]”.
 
-    [Pub. L. 98–369, § 2663(c)(15)(A)][/us/pl/98/369/s2663/c/15/A], designated existing unenumerated provisions as par. (1). Former par. (1) redesignated (2).
+    [Pub. L. 98–369][/us/pl/98/369], § 2663(c)(15)(A), designated existing unenumerated provisions as par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (a)(2). [Pub. L. 98–369, § 2663(c)(15)(B)][/us/pl/98/369/s2663/c/15/B], redesignated former par. (1) as (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 98–369][/us/pl/98/369], § 2663(c)(15)(B), redesignated former par. (1) as (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 98–369, § 2663(c)(15)(C)][/us/pl/98/369/s2663/c/15/C], (D), redesignated former par. (2) as (3) and substituted “subparagraphs (A) and (B) of paragraph (2)” for “paragraphs (1)(A) and (B)”.
+    Subsec. (a)(3). [Pub. L. 98–369][/us/pl/98/369], § 2663(c)(15)(C), (D), redesignated former par. (2) as (3) and substituted “subparagraphs (A) and (B) of paragraph (2)” for “paragraphs (1)(A) and (B)”.
 
     1981—Subsec. (b). [Pub. L. 97–35][/us/pl/97/35] added subsec. (b).
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XXIII, § 2334(c)][/us/pl/97/35/s2334/c], Aug. 13, 1981, [95 Stat. 863][/us/stat/95/863], provided that: 
+[Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2334(c), Aug. 13, 1981, [95 Stat. 863][/us/stat/95/863], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 523 of Title 11][/us/usc/t11/s523], Bankruptcy\] shall become effective on the date of the enactment of this Act \[Aug. 13, 1981\].”
 
@@ -99,35 +99,35 @@
 [/us/usc/t42/s608/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs608%2Fa%2F3
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/647/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs101%2Fa
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2356
-[/us/pl/95/598/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs328
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2679
-[/us/pl/97/35/s2334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2334%2Fa
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F863
-[/us/pl/98/369/s2663/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fc%2F15
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1167
-[/us/pl/98/378/s11/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs11%2Fb%2F2
+[/us/pl/98/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378
 [/us/stat/98/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1318
-[/us/pl/104/193/s108/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F13
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2166
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F619
-[/us/pl/105/33/s5513/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5513%2Fa%2F3
-[/us/pl/104/193/s108/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F13
-[/us/pl/105/33/s5556/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5556%2Fd
-[/us/pl/104/193/s108/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F13
-[/us/pl/105/33/s5513/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5513%2Fa%2F3
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s608/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs608%2Fa%2F3
 [/us/usc/t42/s602/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F26
-[/us/pl/104/193/s395/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F2%2FC
-[/us/pl/104/193/s374/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs374%2Fb
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s602/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F26
-[/us/pl/98/378/s11/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs11%2Fb%2F2
+[/us/pl/98/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378
 [/us/usc/t42/s602/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F26
-[/us/pl/98/369/s2663/c/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fc%2F15%2FA
-[/us/pl/98/369/s2663/c/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fc%2F15%2FB
-[/us/pl/98/369/s2663/c/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fc%2F15%2FC
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/usc/t42/s602/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F26
@@ -154,7 +154,7 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/97/35/s2334/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2334%2Fc
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F863
 [/us/usc/t11/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598

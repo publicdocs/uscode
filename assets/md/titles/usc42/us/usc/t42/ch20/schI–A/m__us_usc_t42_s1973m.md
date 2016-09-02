@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 89–110, title I, § 16][/us/pl/89/110/s16], Aug. 6, 1965, [79 Stat. 445][/us/stat/79/445]; renumbered title I, [Pub. L. 91–285, § 2][/us/pl/91/285/s2], June 22, 1970, [84 Stat. 314][/us/stat/84/314], authorized Attorney General and Secretary of Defense, jointly, to make a study to determine whether laws or practices of any State or States impose preconditions to voting resulting in discrimination against Armed Forces personnel seeking to vote and to make a report to Congress not later than June 30, 1966, with the results of such study and recommendations for legislation.
+    Section, [Pub. L. 89–110, title I][/us/pl/89/110/tI], § 16, Aug. 6, 1965, [79 Stat. 445][/us/stat/79/445]; renumbered title I, [Pub. L. 91–285][/us/pl/91/285], § 2, June 22, 1970, [84 Stat. 314][/us/stat/84/314], authorized Attorney General and Secretary of Defense, jointly, to make a study to determine whether laws or practices of any State or States impose preconditions to voting resulting in discrimination against Armed Forces personnel seeking to vote and to make a report to Congress not later than June 30, 1966, with the results of such study and recommendations for legislation.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/89/110/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110%2Fs16
+[/us/pl/89/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110%2FtI
 [/us/stat/79/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F445
-[/us/pl/91/285/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F285%2Fs2
+[/us/pl/91/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F285
 [/us/stat/84/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F314
 
 

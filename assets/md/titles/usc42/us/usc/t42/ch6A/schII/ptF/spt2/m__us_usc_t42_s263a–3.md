@@ -43,7 +43,7 @@
 
         If the Secretary revokes approval under section 263a–2(i)(3)(D)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be section “263a–2(h)(3)(D)”. </sup></sup>  of this title of an accreditation organization after an evaluation under subsection (c) of this section, the certification of any embryo laboratory accredited by the organization shall continue in effect for 60 days after the laboratory is notified by the Secretary of the withdrawal of approval, except that the Secretary may extend the period during which the certification shall remain in effect if the Secretary determines that the laboratory submitted an application to another approved accreditation organization for certification after receipt of such notice in a timely manner.
 
-([Pub. L. 102–493, § 4][/us/pl/102/493/s4], Oct. 24, 1992, [106 Stat. 3150][/us/stat/106/3150].)
+([Pub. L. 102–493][/us/pl/102/493], § 4, Oct. 24, 1992, [106 Stat. 3150][/us/stat/106/3150].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
  __Effective Date__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t42/s263a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%932
-[/us/pl/102/493/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs4
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3150
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/pl/102/493/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs9
 [/us/usc/t42/s263a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%931

@@ -173,7 +173,7 @@
 
             (C) nothing in this subsection limits the authority of the Secretary of the Interior to manage the federally-owned surface estate within the Reserve.
 
-([Pub. L. 94–258, title I, § 107][/us/pl/94/258/s107], formerly [Pub. L. 96–514, title I][/us/pl/96/514], Dec. 12, 1980, [94 Stat. 2964][/us/stat/94/2964]; [Pub. L. 98–620, title IV, § 402(41)][/us/pl/98/620/s402/41], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 105–83, title I, § 128][/us/pl/105/83/s128], Nov. 14, 1997, [111 Stat. 1568][/us/stat/111/1568]; renumbered [Pub. L. 94–258, title I, § 107][/us/pl/94/258/s107], and amended [Pub. L. 109–58, title III, § 347(a)(2)][/us/pl/109/58/s347/a/2], (b), Aug. 8, 2005, [119 Stat. 704][/us/stat/119/704].)
+([Pub. L. 94–258, title I][/us/pl/94/258/tI], § 107, formerly [Pub. L. 96–514, title I][/us/pl/96/514/tI], Dec. 12, 1980, [94 Stat. 2964][/us/stat/94/2964]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(41), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 105–83, title I][/us/pl/105/83/tI], § 128, Nov. 14, 1997, [111 Stat. 1568][/us/stat/111/1568]; renumbered [Pub. L. 94–258, title I][/us/pl/94/258/tI], § 107, and amended [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 347(a)(2), (b), Aug. 8, 2005, [119 Stat. 704][/us/stat/119/704].)
 
  __References in Text__ 
 
@@ -183,7 +183,7 @@
 
     The National Environmental Policy Act of 1969, referred to in subsec. (d), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
 
-    Section 205(a)(1)(A) through (H) of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (f), probably should have been a reference to section 8(a)(1)(A) through (H) of the Outer Continental Shelf Lands Act ([act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345]), as amended by section 205(a) of the Outer Continental Shelf Lands Act Amendments of 1978 ([Pub. L. 95–372][/us/pl/95/372]), which is classified to section 1337(a)(1)(A)–(H) of Title 43, Public Lands. Subpar. (H) of section 8(a)(1) of act Aug. 7, 1953, was redesignated subpar. (I) and a new subpar. (H) was added by [Pub. L. 104–58, title III, § 303][/us/pl/104/58/s303], Nov. 28, 1995, [109 Stat. 565][/us/stat/109/565].
+    Section 205(a)(1)(A) through (H) of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (f), probably should have been a reference to section 8(a)(1)(A) through (H) of the Outer Continental Shelf Lands Act ([act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345]), as amended by section 205(a) of the Outer Continental Shelf Lands Act Amendments of 1978 ([Pub. L. 95–372][/us/pl/95/372]), which is classified to section 1337(a)(1)(A)–(H) of Title 43, Public Lands. Subpar. (H) of section 8(a)(1) of act Aug. 7, 1953, was redesignated subpar. (I) and a new subpar. (H) was added by [Pub. L. 104–58, title III][/us/pl/104/58/tIII], § 303, Nov. 28, 1995, [109 Stat. 565][/us/stat/109/565].
 
     Section 1431(o) of the Alaska National Interest Lands Conservation Act, referred to in subsec. (k)(1)(A), is section 1431(o) of title XIV of [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2542][/us/stat/94/2542], which was not classified to the Code.
 
@@ -197,7 +197,7 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–58][/us/pl/109/58] amended section catchline and revised and restructured text into subsecs. (a) to (p). Amendments by [Pub. L. 109–58, § 347(b)(2)][/us/pl/109/58/s347/b/2] to (7), were executed by disregarding the second set of closed quotation marks in each such paragraph to reflect the probable intent of Congress. Prior to amendment, text related to competitive leasing of oil and gas and consisted of four undesignated pars.
+    2005—[Pub. L. 109–58][/us/pl/109/58] amended section catchline and revised and restructured text into subsecs. (a) to (p). Amendments by [Pub. L. 109–58][/us/pl/109/58], § 347(b)(2) to (7), were executed by disregarding the second set of closed quotation marks in each such paragraph to reflect the probable intent of Congress. Prior to amendment, text related to competitive leasing of oil and gas and consisted of four undesignated pars.
 
     1997—[Pub. L. 105–83][/us/pl/105/83], in first par., substituted cls. (8) to (11) and two concluding provisos for “(8) each lease shall be issued for an initial period of up to ten years, and shall be extended for so long thereafter as oil or gas is produced from the lease in paying quantities, or as drilling or reworking operations, as approved by the Secretary, are conducted thereon; and (9) all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this Act shall be paid into the Treasury of the United States: Provided, That 50 per centum thereof shall be paid by the Secretary of the Treasury semiannually, as soon as practicable after March 30 and September 30 each year, to the State of Alaska for (a) planning, (b) construction, maintenance, and operation of essential public facilities, and (c) other necessary provisions of public service: Provided further, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.”
 
@@ -225,15 +225,15 @@
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t42/s6504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6504%2Fa
 [/us/usc/t43/s1613/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1613%2Fg
-[/us/pl/94/258/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs107
-[/us/pl/96/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514
+[/us/pl/94/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtI
+[/us/pl/96/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2FtI
 [/us/stat/94/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2964
-[/us/pl/98/620/s402/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F41
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
-[/us/pl/105/83/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs128
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1568
-[/us/pl/94/258/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs107
-[/us/pl/109/58/s347/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs347%2Fa%2F2
+[/us/pl/94/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtI
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F704
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
 [/us/stat/90/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F303
@@ -246,7 +246,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/pl/95/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372
-[/us/pl/104/58/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2Fs303
+[/us/pl/104/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2FtIII
 [/us/stat/109/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F565
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2542
@@ -256,7 +256,7 @@
 [/us/pl/94/258/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs107
 [/us/usc/t42/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6507
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/109/58/s347/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs347%2Fb%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

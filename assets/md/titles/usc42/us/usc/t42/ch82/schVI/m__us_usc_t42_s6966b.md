@@ -45,7 +45,7 @@
 
         Nothing in this section or [section 6966a of this title][/us/usc/t42/s6966a] affects any requirement of any law (including a regulation) in effect on August 10, 2005.
 
-([Pub. L. 89–272, title II, § 6006][/us/pl/89/272/s6006], as added [Pub. L. 109–59, title VI, § 6018(a)][/us/pl/109/59/s6018/a], Aug. 10, 2005, [119 Stat. 1890][/us/stat/119/1890].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 6006, as added [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6018(a), Aug. 10, 2005, [119 Stat. 1890][/us/stat/119/1890].)
 
  __References in Text__ 
 
@@ -59,8 +59,8 @@
 ----------
 
 [/us/usc/t42/s6966a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6966a
-[/us/pl/89/272/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs6006
-[/us/pl/109/59/s6018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6018%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1890
 [/us/usc/t42/s6966a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6966a
 [/us/pl/89/272/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs6005

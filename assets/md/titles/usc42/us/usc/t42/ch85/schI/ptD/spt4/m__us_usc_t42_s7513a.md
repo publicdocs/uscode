@@ -75,7 +75,7 @@
 
         The control requirements applicable under plans in effect under this part for major stationary sources of PM–10 shall also apply to major stationary sources of PM–10 precursors, except where the Administrator determines that such sources do not contribute significantly to PM–10 levels which exceed the standard in the area. The Administrator shall issue guidelines regarding the application of the preceding sentence.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 189, as added [Pub. L. 101–549, title I, § 105(a)][/us/pl/101/549/s105/a], Nov. 15, 1990, [104 Stat. 2460][/us/stat/104/2460].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 189, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 105(a), Nov. 15, 1990, [104 Stat. 2460][/us/stat/104/2460].)
 
 ----------
 
@@ -93,7 +93,7 @@
 [/us/usc/t42/s7513/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7513%2Fb%2F2
 [/us/usc/t42/s7501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501%2F1
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs105%2Fa
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2460
 
 

@@ -33,7 +33,7 @@
 
         (5) coordinate criminal interstate child support enforcement efforts.
 
-([Pub. L. 90–351, title I, § 1601][/us/pl/90/351/s1601], as added [Pub. L. 102–521, § 4(a)(3)][/us/pl/102/521/s4/a/3], Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1601, as added [Pub. L. 102–521][/us/pl/102/521], § 4(a)(3), Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404].)
 
  __Codification__ 
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1601
-[/us/pl/102/521/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs4%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3404
 [/us/pl/90/351/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1601
 [/us/stat/82/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F239

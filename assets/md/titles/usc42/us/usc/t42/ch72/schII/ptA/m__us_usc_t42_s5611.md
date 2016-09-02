@@ -27,7 +27,7 @@
 
         There shall be in the Office a Deputy Administrator who shall be appointed by the Attorney General. The Deputy Administrator shall perform such functions as the Administrator may from time to time assign or delegate and shall act as the Administrator during the absence or disability of the Administrator.
 
-([Pub. L. 93–415, title II, § 201(a)][/us/pl/93/415/s201/a]–(f), Sept. 7, 1974, [88 Stat. 1112][/us/stat/88/1112], 1113; [Pub. L. 95–115, § 3(a)(1)][/us/pl/95/115/s3/a/1]–(3)(A), (4), (5), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1049; [Pub. L. 96–509][/us/pl/96/509], §§ 6, 19(b), Dec. 8, 1980, [94 Stat. 2752][/us/stat/94/2752], 2762; [Pub. L. 98–473, title II, § 620][/us/pl/98/473/s620], Oct. 12, 1984, [98 Stat. 2108][/us/stat/98/2108]; [Pub. L. 100–690, title VII, § 7252(a)][/us/pl/100/690/s7252/a], Nov. 18, 1988, [102 Stat. 4436][/us/stat/102/4436]; [Pub. L. 102–586, § 2(a)][/us/pl/102/586/s2/a], Nov. 4, 1992, [106 Stat. 4984][/us/stat/106/4984]; [Pub. L. 112–166, § 2(h)(4)][/us/pl/112/166/s2/h/4], Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 201(a)–(f), Sept. 7, 1974, [88 Stat. 1112][/us/stat/88/1112], 1113; [Pub. L. 95–115][/us/pl/95/115], § 3(a)(1)–(3)(A), (4), (5), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1049; [Pub. L. 96–509][/us/pl/96/509], §§ 6, 19(b), Dec. 8, 1980, [94 Stat. 2752][/us/stat/94/2752], 2762; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 620, Oct. 12, 1984, [98 Stat. 2108][/us/stat/98/2108]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7252(a), Nov. 18, 1988, [102 Stat. 4436][/us/stat/102/4436]; [Pub. L. 102–586][/us/pl/102/586], § 2(a), Nov. 4, 1992, [106 Stat. 4984][/us/stat/106/4984]; [Pub. L. 112–166][/us/pl/112/166], § 2(h)(4), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
     Subsec. (f). [Pub. L. 98–473][/us/pl/98/473], in amending section generally, struck out subsec. (f) which related to supervision of the National Institute for Juvenile Justice and Delinquency Prevention.
 
-    1980—Subsec. (a). [Pub. L. 96–509, § 6(a)][/us/pl/96/509/s6/a], substituted “under the general authority of the Attorney General” for “Law Enforcement Assistance Administration”.
+    1980—Subsec. (a). [Pub. L. 96–509][/us/pl/96/509], § 6(a), substituted “under the general authority of the Attorney General” for “Law Enforcement Assistance Administration”.
 
-    Subsec. (c). [Pub. L. 96–509, § 19(b)(1)][/us/pl/96/509/s19/b/1], substituted “Administrator” for “Associate Administrator” as the name of the official heading the Office of Juvenile Justice and Delinquency Prevention and struck out provisions that had governed the meaning to be placed upon the use of the title “Associate Administrator”.
+    Subsec. (c). [Pub. L. 96–509][/us/pl/96/509], § 19(b)(1), substituted “Administrator” for “Associate Administrator” as the name of the official heading the Office of Juvenile Justice and Delinquency Prevention and struck out provisions that had governed the meaning to be placed upon the use of the title “Associate Administrator”.
 
     Subsec. (d). [Pub. L. 96–509][/us/pl/96/509], §§ 6(b), 19(b)(2), substituted “Administrator” for “Associate Administrator” wherever appearing, struck out provisions that had required the former Associate Administrator to report directly to the Administrator, and provided that the Administrator exercise all necessary powers under the general authority of the Attorney General rather than the Administrator of the Law Enforcement Assistance Administration, clarified that the Administrator of the Office of Juvenile Justice and Delinquency Prevention is authorized to prescribe regulations for all grants and contracts available under part B and part C of this subchapter, and provided that the Administrator of the Law Enforcement Assistance Administration and the Director of the National Institute of Justice may delegate authority to the Administrator for all juvenile justice and delinquency prevention grants and contracts for funds made available under the Omnibus Crime Control and Safe Streets Act of 1968.
 
@@ -65,15 +65,15 @@
 
     Subsec. (f). [Pub. L. 96–509][/us/pl/96/509], §§ 6(d), 19(b)(4), substituted “Deputy Administrator” for “Deputy Associate Administrator” and “Attorney General” for “Administrator”.
 
-    1977—Subsec. (a). [Pub. L. 95–115, § 3(a)(1)][/us/pl/95/115/s3/a/1], inserted provisions relating to administration of provisions of this chapter.
+    1977—Subsec. (a). [Pub. L. 95–115][/us/pl/95/115], § 3(a)(1), inserted provisions relating to administration of provisions of this chapter.
 
-    Subsec. (c). [Pub. L. 95–115, § 3(a)(2)][/us/pl/95/115/s3/a/2], (3)(A), inserted provisions relating to statutory references to the Associate Administrator and substituted “an Associate” for “an Assistant”.
+    Subsec. (c). [Pub. L. 95–115][/us/pl/95/115], § 3(a)(2), (3)(A), inserted provisions relating to statutory references to the Associate Administrator and substituted “an Associate” for “an Assistant”.
 
-    Subsec. (d). [Pub. L. 95–115, § 3(a)(3)(A)][/us/pl/95/115/s3/a/3/A], (4), inserted provisions relating to powers of the Associate Administrator over grants and contracts and provisions relating to reporting requirement and substituted “The Associate Administrator shall exercise” for “The Assistant Administrator shall exercise”.
+    Subsec. (d). [Pub. L. 95–115][/us/pl/95/115], § 3(a)(3)(A), (4), inserted provisions relating to powers of the Associate Administrator over grants and contracts and provisions relating to reporting requirement and substituted “The Associate Administrator shall exercise” for “The Assistant Administrator shall exercise”.
 
-    Subsec. (e). [Pub. L. 95–115, § 3(a)(3)(A)][/us/pl/95/115/s3/a/3/A], (5), substituted references to Deputy Associate Administrator and Associate Administrator for references to Deputy Assistant Administrator and Assistant Administrator, respectively, wherever appearing.
+    Subsec. (e). [Pub. L. 95–115][/us/pl/95/115], § 3(a)(3)(A), (5), substituted references to Deputy Associate Administrator and Associate Administrator for references to Deputy Assistant Administrator and Assistant Administrator, respectively, wherever appearing.
 
-    Subsec. (f). [Pub. L. 95–115, § 3(a)(5)][/us/pl/95/115/s3/a/5], substituted “Associate” for “Assistant”.
+    Subsec. (f). [Pub. L. 95–115][/us/pl/95/115], § 3(a)(5), substituted “Associate” for “Assistant”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Education and Outreach to Trafficking Survivors__ 
 
-[Pub. L. 114–22, title I, § 119][/us/pl/114/22/s119], May 29, 2015, [129 Stat. 247][/us/stat/129/247], provided that: 
+[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 119, May 29, 2015, [129 Stat. 247][/us/stat/129/247], provided that: 
 
 > “The Attorney General shall make available, on the website of the Office of Juvenile Justice and Delinquency Prevention, a database for trafficking victim advocates, crisis hotline personnel, foster parents, law enforcement personnel, and crime survivors that contains information on—
 
@@ -107,7 +107,7 @@
 
  __Mentoring Matches for Youth__ 
 
-[Pub. L. 109–248, title VI][/us/pl/109/248], subtitle A, July 27, 2006, [120 Stat. 631][/us/stat/120/631], 632, provided that:
+[Pub. L. 109–248, title VI][/us/pl/109/248/tVI], subtitle A, July 27, 2006, [120 Stat. 631][/us/stat/120/631], 632, provided that:
 
 > “SEC. 601. __SHORT TITLE.__ 
 
@@ -170,19 +170,19 @@
 ----------
 ----------
 
-[/us/pl/93/415/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs201%2Fa
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1112
-[/us/pl/95/115/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F1
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1048
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2752
-[/us/pl/98/473/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs620
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2108
-[/us/pl/100/690/s7252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7252%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4436
-[/us/pl/102/586/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/4984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4984
-[/us/pl/112/166/s2/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fh%2F4
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1285
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
@@ -200,16 +200,16 @@
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/96/509/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs6%2Fa
-[/us/pl/96/509/s19/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fb%2F1
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/pl/95/115/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F1
-[/us/pl/95/115/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F2
-[/us/pl/95/115/s3/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F3%2FA
-[/us/pl/95/115/s3/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F3%2FA
-[/us/pl/95/115/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F5
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
@@ -223,9 +223,9 @@
 [/us/pl/93/415/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs263%2Fc
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/114/22/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs119
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F247
-[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F631
 
 

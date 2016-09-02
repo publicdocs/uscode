@@ -27,11 +27,11 @@
 
         Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Secretary or the head of the agency or instrumentality of the United States involved, as the case may be, to pay directly the costs of the equipment, or facilities provided, to repay or make advances to appropriations or funds which do or will initially bear all or a part of such costs, or to refund excess sums when necessary, except that such proceeds may be credited to a working capital fund otherwise established by law, including the fund established pursuant to [section 7263 of this title][/us/usc/t42/s7263], and used under the law governing such fund, if the fund is available for use for providing the equipment or facilities involved.
 
-([Pub. L. 95–91, title VI, § 649][/us/pl/95/91/s649], Aug. 4, 1977, [91 Stat. 600][/us/stat/91/600].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 649, Aug. 4, 1977, [91 Stat. 600][/us/stat/91/600].)
 
  __Codification__ 
 
-    In subsec. (b), “[section 102(3) of title 40][/us/usc/t40/s102/3]” substituted for “section 3(e) of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b), “[section 102(3) of title 40][/us/usc/t40/s102/3]” substituted for “section 3(e) of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -42,10 +42,10 @@
 
 [/us/usc/t40/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102%2F3
 [/us/usc/t42/s7263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7263
-[/us/pl/95/91/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs649
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F600
 [/us/usc/t40/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102%2F3
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

@@ -27,7 +27,7 @@
 
     (5) recommendations for addressing barriers to commercialization.
 
-([Pub. L. 102–486, title XIII, § 1336][/us/pl/102/486/s1336], Oct. 24, 1992, [106 Stat. 2985][/us/stat/106/2985].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1336, Oct. 24, 1992, [106 Stat. 2985][/us/stat/106/2985].)
 
  __Change of Name__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1336
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2985
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

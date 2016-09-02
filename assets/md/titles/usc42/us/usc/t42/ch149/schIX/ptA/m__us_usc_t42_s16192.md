@@ -111,7 +111,7 @@
 
         The Secretary shall enter into an arrangement with the National Academy of Sciences to conduct periodic reviews of the Initiative.
 
-([Pub. L. 109–58, title IX, § 912][/us/pl/109/58/s912], Aug. 8, 2005, [119 Stat. 858][/us/stat/119/858].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 912, Aug. 8, 2005, [119 Stat. 858][/us/stat/119/858].)
 
 ----------
 
@@ -124,7 +124,7 @@
 [/us/usc/t35/s202/a/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs202%2Fa%2Fii
 [/us/usc/t42/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2182
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
-[/us/pl/109/58/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs912
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F858
 
 

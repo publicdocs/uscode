@@ -63,13 +63,13 @@
 
     (f) __Authorization of appropriations__ 
 
-        (1) __Repealed.__  __[__  __Pub. L. 105–392, title I, § 132(b)__  __][/us/pl/105/392/s132/b]__  __,__  __Nov. 13, 1998__  __,__  __[__  __112 Stat. 3575__  __][/us/stat/112/3575]__ 
+        (1) __Repealed.__  __[__  __Pub. L. 105–392, title I__  __][/us/pl/105/392/tI]__  __, § 132(b),__  __Nov. 13, 1998__  __,__  __[__  __112 Stat. 3575__  __][/us/stat/112/3575]__ 
 
         (2) __Special consideration for certain schools__ 
 
             In making Federal capital contributions to student loan funds for purposes of subsection (a) of this section, the Secretary shall give special consideration to health professions schools that have enrollments of underrepresented minorities above the national average for health professions schools.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 724, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2018][/us/stat/106/2018]; amended [Pub. L. 105–392, title I, § 132][/us/pl/105/392/s132], Nov. 13, 1998, [112 Stat. 3575][/us/stat/112/3575].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 724, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2018][/us/stat/106/2018]; amended [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 132, Nov. 13, 1998, [112 Stat. 3575][/us/stat/112/3575].)
 
  __Prior Provisions__ 
 
@@ -77,13 +77,13 @@
 
  __Amendments__ 
 
-    1998—Subsec. (f)(1). [Pub. L. 105–392, § 132(b)][/us/pl/105/392/s132/b], struck out heading and text of par. (1). Text read as follows: “With respect to making Federal capital contributions to student loan funds for purposes of subsection (a) of this section, there is authorized to be appropriated for such contributions $8,000,000 for each of the fiscal years 1998 through 2002.”
+    1998—Subsec. (f)(1). [Pub. L. 105–392][/us/pl/105/392], § 132(b), struck out heading and text of par. (1). Text read as follows: “With respect to making Federal capital contributions to student loan funds for purposes of subsection (a) of this section, there is authorized to be appropriated for such contributions $8,000,000 for each of the fiscal years 1998 through 2002.”
 
-    [Pub. L. 105–392, § 132(a)][/us/pl/105/392/s132/a], substituted “$8,000,000 for each of the fiscal years 1998 through 2002” for “$15,000,000 for fiscal year 1993”.
+    [Pub. L. 105–392][/us/pl/105/392], § 132(a), substituted “$8,000,000 for each of the fiscal years 1998 through 2002” for “$15,000,000 for fiscal year 1993”.
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–392, title I, § 132(b)][/us/pl/105/392/s132/b], Nov. 13, 1998, [112 Stat. 3575][/us/stat/112/3575], provided that the repeal of subsec. (f)(1) of this section is effective Oct. 1, 2002.
+    [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 132(b), Nov. 13, 1998, [112 Stat. 3575][/us/stat/112/3575], provided that the repeal of subsec. (f)(1) of this section is effective Oct. 1, 2002.
 
 ----------
 
@@ -96,18 +96,18 @@
 [/us/usc/t42/s292q/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q%2Fb
 [/us/usc/t42/s292q/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q%2Fb
 [/us/usc/t42/s292s/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292s%2Fa%2F2%2FB
-[/us/pl/105/392/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs132%2Fb
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3575
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2018
-[/us/pl/105/392/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs132
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3575
 [/us/usc/t42/s293d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293d
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/pl/105/392/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs132%2Fb
-[/us/pl/105/392/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs132%2Fa
-[/us/pl/105/392/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs132%2Fb
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3575
 
 

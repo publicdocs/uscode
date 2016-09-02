@@ -17,11 +17,11 @@
 
     Funds appropriated to the Rural Development Loan Fund under title VII of the Economic Opportunity Act of 1964 \[[42 U.S.C. 2981][/us/usc/t42/s2981] et seq.\] (as in effect on August 12, 1981), and interest accumulated in such fund, shall be deposited in the Rural Development Loan Fund established under [section 9812(c)(1) of this title][/us/usc/t42/s9812/c/1] and shall continue to be available to carry out the purposes of such fund. Funds appropriated to the Community Development Credit Union Revolving Loan Fund under title VII of the Economic Opportunity Act of 1964 (as in effect on August 12, 1981), and interest accumulated in such fund, shall continue to be available to carry out the purposes of such fund.
 
-([Pub. L. 97–35, title VI, § 633][/us/pl/97/35/s633], Aug. 13, 1981, [95 Stat. 498][/us/stat/95/498].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 633, Aug. 13, 1981, [95 Stat. 498][/us/stat/95/498].)
 
  __References in Text__ 
 
-    The Economic Opportunity Act of 1964, referred to in text, is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Title VII of the Economic Opportunity Act of 1964 was classified generally to subchapter VII (§ 2981 et seq.) of chapter 34 of this title, prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1964, referred to in text, is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Title VII of the Economic Opportunity Act of 1964 was classified generally to subchapter VII (§ 2981 et seq.) of chapter 34 of this title, prior to repeal by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -94,11 +94,11 @@
 
 [/us/usc/t42/s2981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2981
 [/us/usc/t42/s9812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9812%2Fc%2F1
-[/us/pl/97/35/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs633
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F498
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/99/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F609
 [/us/stat/100/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3475

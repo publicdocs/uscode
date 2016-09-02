@@ -17,7 +17,7 @@
 
     No individual employed or assigned by or in any Head Start agency or other agency assisted under this subchapter shall, pursuant to or during the performance of services rendered in connection with any program or activity conducted or assisted under this subchapter by such Head Start agency or such other agency, plan, initiate, participate in, or otherwise aid or assist in the conduct of any unlawful demonstration, rioting, or civil disturbance.
 
-([Pub. L. 97–35, title VI, § 655][/us/pl/97/35/s655], Aug. 13, 1981, [95 Stat. 507][/us/stat/95/507]; [Pub. L. 110–134, § 23][/us/pl/110/134/s23], Dec. 12, 2007, [121 Stat. 1443][/us/stat/121/1443].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 655, Aug. 13, 1981, [95 Stat. 507][/us/stat/95/507]; [Pub. L. 110–134][/us/pl/110/134], § 23, Dec. 12, 2007, [121 Stat. 1443][/us/stat/121/1443].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs655
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F507
-[/us/pl/110/134/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs23
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1443
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 

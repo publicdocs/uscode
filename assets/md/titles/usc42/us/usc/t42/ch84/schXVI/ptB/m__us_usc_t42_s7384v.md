@@ -43,7 +43,7 @@
 
         As part of the assistance program provided under subsections (a) and (b) of this section, and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3631\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–508.)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3631\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–508.)
 
  __Delegation of Functions__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t42/s7384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384
 

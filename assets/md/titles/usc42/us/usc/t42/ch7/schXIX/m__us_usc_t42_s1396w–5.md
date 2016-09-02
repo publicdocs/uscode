@@ -43,7 +43,7 @@
 
         Not later than 24 months after March 23, 2010, the Secretary shall implement the approaches identified in the report submitted under subsection (b)(1) for the ongoing, accurate, and timely collection and evaluation of data on health care disparities on the basis of race, ethnicity, sex, primary language, and disability status.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1946, as added [Pub. L. 111–148, title IV, § 4302(b)(2)][/us/pl/111/148/s4302/b/2], Mar. 23, 2010, [124 Stat. 581][/us/stat/124/581].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1946, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4302(b)(2), Mar. 23, 2010, [124 Stat. 581][/us/stat/124/581].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s1395w–22/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9322%2Fe%2F3
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s4302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4302%2Fb%2F2
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F581
 
 

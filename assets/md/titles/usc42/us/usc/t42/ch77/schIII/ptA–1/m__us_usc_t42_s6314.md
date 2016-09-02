@@ -163,35 +163,35 @@
 
         The Secretary may direct the National Institute of Standards and Technology to provide such assistance as the Secretary deems necessary to carry out his responsibilities under this part, including the development of test procedures.
 
-([Pub. L. 94–163, title III, § 343][/us/pl/94/163/s343], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3270][/us/stat/92/3270]; amended [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–486, title I, § 122(b)][/us/pl/102/486/s122/b], (f)(2), Oct. 24, 1992, [106 Stat. 2808][/us/stat/106/2808], 2817; [Pub. L. 109–58, title I, § 136(f)][/us/pl/109/58/s136/f], Aug. 8, 2005, [119 Stat. 641][/us/stat/119/641]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 302(b), 312(c), Dec. 19, 2007, [121 Stat. 1552][/us/stat/121/1552], 1566; [Pub. L. 112–210, § 10(a)(2)][/us/pl/112/210/s10/a/2], (c)(2), Dec. 18, 2012, [126 Stat. 1522][/us/stat/126/1522], 1525.)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 343, as added [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3270][/us/stat/92/3270]; amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 122(b), (f)(2), Oct. 24, 1992, [106 Stat. 2808][/us/stat/106/2808], 2817; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 136(f), Aug. 8, 2005, [119 Stat. 641][/us/stat/119/641]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 302(b), 312(c), Dec. 19, 2007, [121 Stat. 1552][/us/stat/121/1552], 1566; [Pub. L. 112–210][/us/pl/112/210], § 10(a)(2), (c)(2), Dec. 18, 2012, [126 Stat. 1522][/us/stat/126/1522], 1525.)
 
  __References in Text__ 
 
-    [Section 6313(c)(4) of this title][/us/usc/t42/s6313/c/4], referred to in subsec. (a)(6)(C), was redesignated [section 6313(c)(5) of this title][/us/usc/t42/s6313/c/5] by [Pub. L. 112–210, § 4(2)][/us/pl/112/210/s4/2], Dec. 18, 2012, [126 Stat. 1517][/us/stat/126/1517].
+    [Section 6313(c)(4) of this title][/us/usc/t42/s6313/c/4], referred to in subsec. (a)(6)(C), was redesignated [section 6313(c)(5) of this title][/us/usc/t42/s6313/c/5] by [Pub. L. 112–210][/us/pl/112/210], § 4(2), Dec. 18, 2012, [126 Stat. 1517][/us/stat/126/1517].
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–210, § 10(a)(2)][/us/pl/112/210/s10/a/2], made technical amendment to directory language of [Pub. L. 110–140, § 302(b)][/us/pl/110/140/s302/b]. See 2007 Amendment note below.
+    2012—Subsec. (a). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(2), made technical amendment to directory language of [Pub. L. 110–140][/us/pl/110/140], § 302(b). See 2007 Amendment note below.
 
-    Subsec. (a)(4)(A), (7). [Pub. L. 112–210, § 10(c)(2)][/us/pl/112/210/s10/c/2], substituted “Air-Conditioning, Heating, and Refrigeration Institute” for “Air-Conditioning and Refrigeration Institute” wherever appearing.
+    Subsec. (a)(4)(A), (7). [Pub. L. 112–210][/us/pl/112/210], § 10(c)(2), substituted “Air-Conditioning, Heating, and Refrigeration Institute” for “Air-Conditioning and Refrigeration Institute” wherever appearing.
 
-    2007—Subsec. (a). [Pub. L. 110–140, § 302(b)][/us/pl/110/140/s302/b], as amended by [Pub. L. 112–210, § 10(a)(2)][/us/pl/112/210/s10/a/2], inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
+    2007—Subsec. (a). [Pub. L. 110–140][/us/pl/110/140], § 302(b), as amended by [Pub. L. 112–210][/us/pl/112/210], § 10(a)(2), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
 
-    Subsec. (a)(9). [Pub. L. 110–140, § 312(c)][/us/pl/110/140/s312/c], added par. (9).
+    Subsec. (a)(9). [Pub. L. 110–140][/us/pl/110/140], § 312(c), added par. (9).
 
-    2005—Subsec. (a)(4)(A), (B). [Pub. L. 109–58, § 136(f)(1)(A)][/us/pl/109/58/s136/f/1/A], inserted “very large commercial package air conditioning and heating equipment,” after “large commercial package air conditioning and heating equipment,”.
+    2005—Subsec. (a)(4)(A), (B). [Pub. L. 109–58][/us/pl/109/58], § 136(f)(1)(A), inserted “very large commercial package air conditioning and heating equipment,” after “large commercial package air conditioning and heating equipment,”.
 
-    Subsec. (a)(6) to (8). [Pub. L. 109–58, § 136(f)(1)(B)][/us/pl/109/58/s136/f/1/B], added pars. (6) to (8).
+    Subsec. (a)(6) to (8). [Pub. L. 109–58][/us/pl/109/58], § 136(f)(1)(B), added pars. (6) to (8).
 
-    Subsec. (d)(1). [Pub. L. 109–58, § 136(f)(2)][/us/pl/109/58/s136/f/2], inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 109–58][/us/pl/109/58], § 136(f)(2), inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in introductory provisions.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–486, § 122(b)(1)(A)][/us/pl/102/486/s122/b/1/A], added par. (1) and struck out former par. (1) which read as follows: “If the Secretary has conducted an evaluation of a class of covered equipment under [section 6313 of this title][/us/usc/t42/s6313], he may prescribe test procedures for such class in accordance with the following provisions of this section.”
+    1992—Subsec. (a)(1). [Pub. L. 102–486][/us/pl/102/486], § 122(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary has conducted an evaluation of a class of covered equipment under [section 6313 of this title][/us/usc/t42/s6313], he may prescribe test procedures for such class in accordance with the following provisions of this section.”
 
-    Subsec. (a)(4), (5). [Pub. L. 102–486, § 122(b)(1)(B)][/us/pl/102/486/s122/b/1/B], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 102–486][/us/pl/102/486], § 122(b)(1)(B), added pars. (4) and (5).
 
-    Subsecs. (c), (d). [Pub. L. 102–486, § 122(f)(2)][/us/pl/102/486/s122/f/2], redesignated subsec. (d), relating to reevaluations, as (c).
+    Subsecs. (c), (d). [Pub. L. 102–486][/us/pl/102/486], § 122(f)(2), redesignated subsec. (d), relating to reevaluations, as (c).
 
-    Subsec. (d)(1). [Pub. L. 102–486, § 122(b)(2)][/us/pl/102/486/s122/b/2], inserted “(or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days)” after “180 days”.
+    Subsec. (d)(1). [Pub. L. 102–486][/us/pl/102/486], § 122(b)(2), inserted “(or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days)” after “180 days”.
 
     1988—Subsec. (e). [Pub. L. 100–418][/us/pl/100/418] substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
@@ -219,37 +219,37 @@
 [/us/usc/t42/s6293/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fe
 [/us/usc/t42/s6293/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fe
 [/us/usc/t42/s6295/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fg
-[/us/pl/94/163/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs343
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3270
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/486/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2808
-[/us/pl/109/58/s136/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Ff
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F641
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1552
-[/us/pl/112/210/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F2
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1522
 [/us/usc/t42/s6313/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6313%2Fc%2F4
 [/us/usc/t42/s6313/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6313%2Fc%2F5
-[/us/pl/112/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs4%2F2
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1517
-[/us/pl/112/210/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F2
-[/us/pl/110/140/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs302%2Fb
-[/us/pl/112/210/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fc%2F2
-[/us/pl/110/140/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs302%2Fb
-[/us/pl/112/210/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F2
-[/us/pl/110/140/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fc
-[/us/pl/109/58/s136/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Ff%2F1%2FA
-[/us/pl/109/58/s136/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Ff%2F1%2FB
-[/us/pl/109/58/s136/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Ff%2F2
-[/us/pl/102/486/s122/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fb%2F1%2FA
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s6313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6313
-[/us/pl/102/486/s122/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fb%2F1%2FB
-[/us/pl/102/486/s122/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Ff%2F2
-[/us/pl/102/486/s122/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fb%2F2
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/112/210/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F2
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

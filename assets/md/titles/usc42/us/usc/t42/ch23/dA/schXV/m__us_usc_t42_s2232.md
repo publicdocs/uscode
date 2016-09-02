@@ -31,7 +31,7 @@
 
         The Commission, in issuing any license for a utilization or production facility for the generation of commercial power under [section 2133 of this title][/us/usc/t42/s2133], shall give preferred consideration to applications for such facilities which will be located in high cost power areas in the United States if there are conflicting applications for a limited opportunity for such license. Where such conflicting applications resulting from limited opportunity for such license include those submitted by public or cooperative bodies such applications shall be given preferred consideration.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 182, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 953][/us/stat/68/953]; amended [Aug. 6, 1956, ch. 1015, § 5][/us/act/1956-08-06/ch1015/s5], [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 85–256, § 6][/us/pl/85/256/s6], Sept. 2, 1957, [71 Stat. 579][/us/stat/71/579]; [Pub. L. 87–615, § 3][/us/pl/87/615/s3], Aug. 29, 1962, [76 Stat. 409][/us/stat/76/409]; [Pub. L. 91–560, § 9][/us/pl/91/560/s9], Dec. 19, 1970, [84 Stat. 1474][/us/stat/84/1474]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 182, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 953][/us/stat/68/953]; amended [Aug. 6, 1956, ch. 1015][/us/act/1956-08-06/ch1015], § 5, [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 85–256][/us/pl/85/256], § 6, Sept. 2, 1957, [71 Stat. 579][/us/stat/71/579]; [Pub. L. 87–615][/us/pl/87/615], § 3, Aug. 29, 1962, [76 Stat. 409][/us/stat/76/409]; [Pub. L. 91–560][/us/pl/91/560], § 9, Dec. 19, 1970, [84 Stat. 1474][/us/stat/84/1474]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __Amendments__ 
 
@@ -60,17 +60,17 @@
 [/us/usc/t42/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2133
 [/us/usc/t42/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2133
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F953
-[/us/act/1956-08-06/ch1015/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1015%2Fs5
+[/us/act/1956-08-06/ch1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1015
 [/us/stat/70/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1069
-[/us/pl/85/256/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256%2Fs6
+[/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/stat/71/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F579
-[/us/pl/87/615/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs3
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F409
-[/us/pl/91/560/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560%2Fs9
+[/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/stat/84/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1474
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615

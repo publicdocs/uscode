@@ -47,7 +47,7 @@
 
         (4) The term “vertically integrated petroleum company” means any person which itself, or through a person which is controlled by, controls, or is under common control with such person, is engaged in the production, refining, and marketing of petroleum products.
 
-([Pub. L. 94–163, title V, § 501][/us/pl/94/163/s501], Dec. 22, 1975, [89 Stat. 956][/us/stat/89/956]; [Pub. L. 95–91, title III, § 301][/us/pl/95/91/s301], title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 583, 606, 607; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 501, Dec. 22, 1975, [89 Stat. 956][/us/stat/89/956]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301, title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 583, 606, 607; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288].)
 
  __References in Text__ 
 
@@ -70,11 +70,11 @@
 
 [/us/usc/t15/s796/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fe%2F1
 [/us/usc/t15/s796/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fe%2F2
-[/us/pl/94/163/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs501
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F956
-[/us/pl/95/91/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F956

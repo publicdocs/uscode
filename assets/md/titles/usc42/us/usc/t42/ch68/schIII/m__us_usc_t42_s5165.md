@@ -67,7 +67,7 @@
 
             (D) a process by which an assessment of the effectiveness of a mitigation action may be carried out after the mitigation action is complete.
 
-([Pub. L. 93–288, title III, § 322][/us/pl/93/288/s322], as added [Pub. L. 106–390, title I, § 104(a)][/us/pl/106/390/s104/a], Oct. 30, 2000, [114 Stat. 1558][/us/stat/114/1558].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 322, as added [Pub. L. 106–390, title I][/us/pl/106/390/tI], § 104(a), Oct. 30, 2000, [114 Stat. 1558][/us/stat/114/1558].)
 
 ----------
 
@@ -79,8 +79,8 @@
 [/us/usc/t42/s5170c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170c
 [/us/usc/t42/s5170c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170c
 [/us/usc/t42/s5170c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170c%2Fa
-[/us/pl/93/288/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs322
-[/us/pl/106/390/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs104%2Fa
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/106/390/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtI
 [/us/stat/114/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1558
 
 

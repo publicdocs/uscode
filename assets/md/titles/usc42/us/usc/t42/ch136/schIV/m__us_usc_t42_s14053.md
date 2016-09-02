@@ -81,7 +81,7 @@
 
         Nothing in this section shall diminish or detract from existing authority possessed by the President or Attorney General.
 
-([Pub. L. 103–322, title IX, § 90107][/us/pl/103/322/s90107], Sept. 13, 1994, [108 Stat. 1988][/us/stat/108/1988].)
+([Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90107, Sept. 13, 1994, [108 Stat. 1988][/us/stat/108/1988].)
 
 ----------
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s90107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90107
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1988
 
 

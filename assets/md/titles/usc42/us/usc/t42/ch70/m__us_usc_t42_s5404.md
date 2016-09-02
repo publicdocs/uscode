@@ -87,7 +87,7 @@
 
             (C) inspection of the installation of manufactured homes.
 
-([Pub. L. 93–383, title VI, § 605][/us/pl/93/383/s605], Aug. 22, 1974, [88 Stat. 702][/us/stat/88/702]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI, § 605(a)][/us/pl/106/569/s605/a], Dec. 27, 2000, [114 Stat. 3006][/us/stat/114/3006].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 605, Aug. 22, 1974, [88 Stat. 702][/us/stat/88/702]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 605(a), Dec. 27, 2000, [114 Stat. 3006][/us/stat/114/3006].)
 
  __Amendments__ 
 
@@ -111,11 +111,11 @@
 [/us/usc/t42/s5403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403%2Fe
 [/us/usc/t42/s5403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403%2Fe
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/93/383/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs605
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F702
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/106/569/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs605%2Fa
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3006
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399

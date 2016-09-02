@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2003 through 2007.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 861, formerly § 851, as added [Pub. L. 107–205, title I, § 102][/us/pl/107/205/s102], Aug. 1, 2002, [116 Stat. 812][/us/stat/116/812]; renumbered § 861, [Pub. L. 111–148, title V, § 5310(b)(9)(A)][/us/pl/111/148/s5310/b/9/A], Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 861, formerly § 851, as added [Pub. L. 107–205, title I][/us/pl/107/205/tI], § 102, Aug. 1, 2002, [116 Stat. 812][/us/stat/116/812]; renumbered § 861, [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5310(b)(9)(A), Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631].)
 
  __Prior Provisions__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/205/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs102
+[/us/pl/107/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2FtI
 [/us/stat/116/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F812
-[/us/pl/111/148/s5310/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5310%2Fb%2F9%2FA
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F631
 [/us/usc/t42/s298c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298c
 [/us/pl/90/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490

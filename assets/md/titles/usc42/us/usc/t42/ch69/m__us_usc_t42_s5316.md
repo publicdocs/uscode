@@ -23,7 +23,7 @@
 
         In the case of funds available for any fiscal year, the Secretary shall not consider any statement under [section 5304(a) of this title][/us/usc/t42/s5304/a], unless such statement is submitted on or prior to such date as the Secretary shall establish as the final date for submission of statements for that year.
 
-([Pub. L. 93–383, title I, § 116][/us/pl/93/383/s116], Aug. 22, 1974, [88 Stat. 652][/us/stat/88/652]; [Pub. L. 94–375, § 15(d)][/us/pl/94/375/s15/d], Aug. 3, 1976, [90 Stat. 1076][/us/stat/90/1076]; [Pub. L. 96–399, title I, § 111(h)][/us/pl/96/399/s111/h], Oct. 8, 1980, [94 Stat. 1622][/us/stat/94/1622]; [Pub. L. 97–35, title III, § 309(m)][/us/pl/97/35/s309/m], Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 110(a)\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 116, Aug. 22, 1974, [88 Stat. 652][/us/stat/88/652]; [Pub. L. 94–375][/us/pl/94/375], § 15(d), Aug. 3, 1976, [90 Stat. 1076][/us/stat/90/1076]; [Pub. L. 96–399, title I][/us/pl/96/399/tI], § 111(h), Oct. 8, 1980, [94 Stat. 1622][/us/stat/94/1622]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 309(m), Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 110(a)\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168].)
 
  __References in Text__ 
 
@@ -47,21 +47,21 @@
 
     1981—Subsec. (b). [Pub. L. 97–35][/us/pl/97/35] substituted provisions relating to submission of required statement for provisions relating to submission of required application.
 
-    1980—Subsec. (b). [Pub. L. 96–399, § 111(h)][/us/pl/96/399/s111/h], redesignated subsec. (g) as (b) and struck out “or from a unit of general local government for a grant pursuant to [section 5306(h) of this title][/us/usc/t42/s5306/h]” after “[section 5306(a) of this title][/us/usc/t42/s5306/a]”. Former subsec. (b), relating to deductions from grants for fiscal year 1975, was struck out.
+    1980—Subsec. (b). [Pub. L. 96–399][/us/pl/96/399], § 111(h), redesignated subsec. (g) as (b) and struck out “or from a unit of general local government for a grant pursuant to [section 5306(h) of this title][/us/usc/t42/s5306/h]” after “[section 5306(a) of this title][/us/usc/t42/s5306/a]”. Former subsec. (b), relating to deductions from grants for fiscal year 1975, was struck out.
 
-    Subsec. (f). [Pub. L. 96–399, § 111(h)(1)][/us/pl/96/399/s111/h/1], struck out subsec. (f) relating to advances for program period beginning Jan. 1, 1975.
+    Subsec. (f). [Pub. L. 96–399][/us/pl/96/399], § 111(h)(1), struck out subsec. (f) relating to advances for program period beginning Jan. 1, 1975.
 
-    Subsec. (g). [Pub. L. 96–399, § 111(h)(1)][/us/pl/96/399/s111/h/1], redesignated subsec. (g) as (b).
+    Subsec. (g). [Pub. L. 96–399][/us/pl/96/399], § 111(h)(1), redesignated subsec. (g) as (b).
 
-    Subsec. (h). [Pub. L. 96–399, § 111(h)(1)][/us/pl/96/399/s111/h/1], struck out subsec. (h) relating to sources of funds to meet deficiency in fiscal year 1977.
+    Subsec. (h). [Pub. L. 96–399][/us/pl/96/399], § 111(h)(1), struck out subsec. (h) relating to sources of funds to meet deficiency in fiscal year 1977.
 
     1976—Subsec. (h). [Pub. L. 94–375][/us/pl/94/375] added subsec. (h).
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 110(b)\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168], as amended by [Pub. L. 98–479, title I, § 101(b)(1)][/us/pl/98/479/s101/b/1], Oct. 17, 1984, [98 Stat. 2220][/us/stat/98/2220], provided that: 
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 110(b)\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168], as amended by [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 101(b)(1), Oct. 17, 1984, [98 Stat. 2220][/us/stat/98/2220], provided that: 
 
-> “The amendments made by this part \[part A (§§ 101–110) of title I of [Pub. L. 98–181, title I][/us/pl/98/181], amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under [section 5305 of this title][/us/usc/t42/s5305]\] shall apply only to funds available for fiscal year 1984 and thereafter.”
+> “The amendments made by this part \[part A (§§ 101–110) of title I of [Pub. L. 98–181, title I][/us/pl/98/181/tI], amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under [section 5305 of this title][/us/usc/t42/s5305]\] shall apply only to funds available for fiscal year 1984 and thereafter.”
 
  __Effective Date of 1981 Amendment__ 
 
@@ -80,15 +80,15 @@
 [/us/usc/t42/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1491
 [/us/usc/t42/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1500
 [/us/usc/t42/s5304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5304%2Fa
-[/us/pl/93/383/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs116
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F652
-[/us/pl/94/375/s15/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs15%2Fd
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1076
-[/us/pl/96/399/s111/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fh
+[/us/pl/96/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtI
 [/us/stat/94/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1622
-[/us/pl/97/35/s309/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs309%2Fm
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F397
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1168
 [/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
 [/us/stat/80/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1255
@@ -107,18 +107,18 @@
 [/us/usc/t42/s1453/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1453%2Fb
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/96/399/s111/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fh
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/usc/t42/s5306/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fh
 [/us/usc/t42/s5306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fa
-[/us/pl/96/399/s111/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fh%2F1
-[/us/pl/96/399/s111/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fh%2F1
-[/us/pl/96/399/s111/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fh%2F1
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1168
-[/us/pl/98/479/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fb%2F1
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2220
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/usc/t42/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5305
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371

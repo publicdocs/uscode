@@ -269,7 +269,7 @@
 
             [Section 1397d(a) of this title][/us/usc/t42/s1397d/a] (other than paragraph (6)) shall apply to a grant awarded under this section to the same extent and in the same manner as such section applies to payments to States under this division.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2008, as added and amended [Pub. L. 111–148, title V, § 5507(a)][/us/pl/111/148/s5507/a], title VI, § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 663][/us/stat/124/663], 803; [Pub. L. 113–93, title II, § 208][/us/pl/113/93/s208], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 113–128, title V, § 512(dd)(4)][/us/pl/113/128/s512/dd/4], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718]; [Pub. L. 114–10, title II, § 217][/us/pl/114/10/s217], Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2008, as added and amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5507(a), title VI, § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 663][/us/stat/124/663], 803; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 208, Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(dd)(4), July 22, 2014, [128 Stat. 1718][/us/stat/128/1718]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 217, Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
 
  __References in Text__ 
 
@@ -281,13 +281,13 @@
 
     2015—Subsec. (c)(1). [Pub. L. 114–10][/us/pl/114/10] substituted “2017” for “2015”.
 
-    2014—Subsec. (a)(2)(B). [Pub. L. 113–128, § 512(dd)(4)(A)][/us/pl/113/128/s512/dd/4/A], substituted “the State workforce development board established under [section 3111 of title 29][/us/usc/t29/s3111]” for “the State workforce investment board established under [section 2821 of title 29][/us/usc/t29/s2821]”.
+    2014—Subsec. (a)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 512(dd)(4)(A), substituted “the State workforce development board established under [section 3111 of title 29][/us/usc/t29/s3111]” for “the State workforce investment board established under [section 2821 of title 29][/us/usc/t29/s2821]”.
 
-    Subsec. (a)(4)(A). [Pub. L. 113–128, § 512(dd)(4)(B)][/us/pl/113/128/s512/dd/4/B], substituted “a local workforce development board established under [section 3122 of title 29][/us/usc/t29/s3122],” for “a local workforce investment board established under [section 2832 of title 29][/us/usc/t29/s2832],”.
+    Subsec. (a)(4)(A). [Pub. L. 113–128][/us/pl/113/128], § 512(dd)(4)(B), substituted “a local workforce development board established under [section 3122 of title 29][/us/usc/t29/s3122],” for “a local workforce investment board established under [section 2832 of title 29][/us/usc/t29/s2832],”.
 
     Subsec. (c)(1). [Pub. L. 113–93][/us/pl/113/93] substituted “2015” for “2014”.
 
-    2010—Subsec. (d). [Pub. L. 111–148, § 6703(d)(1)(B)][/us/pl/111/148/s6703/d/1/B], which directed substitution of “this division” for “this subchapter” wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in subsec. (d) of this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
+    2010—Subsec. (d). [Pub. L. 111–148][/us/pl/111/148], § 6703(d)(1)(B), which directed substitution of “this division” for “this subchapter” wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in subsec. (d) of this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -308,26 +308,26 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s1397d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397d%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s5507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5507%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F663
-[/us/pl/113/93/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs208
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
-[/us/pl/113/128/s512/dd/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F4
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
-[/us/pl/114/10/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs217
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
 [/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
-[/us/pl/113/128/s512/dd/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F4%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
-[/us/pl/113/128/s512/dd/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F4%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
-[/us/pl/111/148/s6703/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fd%2F1%2FB
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

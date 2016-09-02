@@ -39,7 +39,7 @@
 
             (ii) individual citizens, and business, labor, and professional groups, who are able to influence the quantity and quality of opportunities and services for the poor.
 
-([Pub. L. 97–35, title VI, § 672][/us/pl/97/35/s672], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 672, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728].)
 
  __References in Text__ 
 
@@ -47,17 +47,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 9901, [Pub. L. 97–35, title VI, § 672][/us/pl/97/35/s672], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511]; [Pub. L. 98–558, title II, § 201][/us/pl/98/558/s201], Oct. 30, 1984, [98 Stat. 2884][/us/stat/98/2884]; [Pub. L. 99–425, title IV, § 401][/us/pl/99/425/s401], Sept. 30, 1986, [100 Stat. 968][/us/stat/100/968]; [Pub. L. 101–501, title IV, § 401(a)][/us/pl/101/501/s401/a], Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251]; [Pub. L. 103–252, title II, § 202(a)][/us/pl/103/252/s202/a], May 18, 1994, [108 Stat. 651][/us/stat/108/651], authorized the Secretary to make community service grants, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9901, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 672, Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511]; [Pub. L. 98–558, title II][/us/pl/98/558/tII], § 201, Oct. 30, 1984, [98 Stat. 2884][/us/stat/98/2884]; [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 401, Sept. 30, 1986, [100 Stat. 968][/us/stat/100/968]; [Pub. L. 101–501, title IV][/us/pl/101/501/tIV], § 401(a), Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251]; [Pub. L. 103–252, title II][/us/pl/103/252/tII], § 202(a), May 18, 1994, [108 Stat. 651][/us/stat/108/651], authorized the Secretary to make community service grants, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–252, title II, § 201(a)][/us/pl/103/252/s201/a], May 18, 1994, [108 Stat. 651][/us/stat/108/651], provided that: 
+[Pub. L. 103–252, title II][/us/pl/103/252/tII], § 201(a), May 18, 1994, [108 Stat. 651][/us/stat/108/651], provided that: 
 
 > “This title \[enacting [section 9910c of this title][/us/usc/t42/s9910c], amending this section and sections 9903, 9904, 9910, 9910a, 9910b, 9911, 9912, and 11464 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Community Services Block Grant Amendments of 1994’.”
 
  __Short Title__ 
 
-[Pub. L. 97–35, title VI, § 671][/us/pl/97/35/s671], as added by [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728], provided that: 
+[Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 671, as added by [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728], provided that: 
 
 > “This subtitle \[subtitle B (§§ 671–683) of title VI of [Pub. L. 97–35][/us/pl/97/35], enacting this chapter\] may be cited as the ‘Community Services Block Grant Act’.”
 
@@ -71,28 +71,28 @@
 ----------
 
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/97/35/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs672
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2728
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/97/35/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs672
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
-[/us/pl/98/558/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs201
+[/us/pl/98/558/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtII
 [/us/stat/98/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2884
-[/us/pl/99/425/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs401
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F968
-[/us/pl/101/501/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs401%2Fa
+[/us/pl/101/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIV
 [/us/stat/104/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1251
-[/us/pl/103/252/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs202%2Fa
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F651
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
-[/us/pl/103/252/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs201%2Fa
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F651
 [/us/usc/t42/s9910c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910c
-[/us/pl/97/35/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs671
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2728
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs671

@@ -41,7 +41,7 @@
 
         Grants under this section may be made for a period not to exceed 3 years.
 
-([Pub. L. 100–690, title III, § 3511][/us/pl/100/690/s3511], Nov. 18, 1988, [102 Stat. 4255][/us/stat/102/4255].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3511, Nov. 18, 1988, [102 Stat. 4255][/us/stat/102/4255].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3511
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4255
 
 

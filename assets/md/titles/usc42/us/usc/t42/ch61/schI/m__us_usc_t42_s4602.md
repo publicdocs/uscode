@@ -19,7 +19,7 @@
 
     (b) Nothing in this chapter shall be construed as creating in any condemnation proceedings brought under the power of eminent domain, any element of value or of damage not in existence immediately prior to January 2, 1971.
 
-([Pub. L. 91–646, title I, § 102][/us/pl/91/646/s102], Jan. 2, 1971, [84 Stat. 1895][/us/stat/84/1895].)
+([Pub. L. 91–646, title I][/us/pl/91/646/tI], § 102, Jan. 2, 1971, [84 Stat. 1895][/us/stat/84/1895].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4651
-[/us/pl/91/646/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs102
+[/us/pl/91/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtI
 [/us/stat/84/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1895
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

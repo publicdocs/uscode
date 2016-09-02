@@ -19,7 +19,7 @@
 
     (b) There is hereby transferred to, and vested in, the Secretary the functions vested in the Secretary of Housing and Urban Development pursuant to [section 1701z–8 of title 12][/us/usc/t12/s1701z–8].
 
-([Pub. L. 95–91, title III, § 304][/us/pl/95/91/s304], Aug. 4, 1977, [91 Stat. 580][/us/stat/91/580].)
+([Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 304, Aug. 4, 1977, [91 Stat. 580][/us/stat/91/580].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t42/s6833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6833
 [/us/usc/t42/s6831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6831
 [/us/usc/t12/s1701z–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%938
-[/us/pl/95/91/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs304
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F580
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1125

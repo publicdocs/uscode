@@ -37,13 +37,13 @@
 
     (4) The terms “modifications” and “modified” mean the same as the term “modification” as used in [section 7411(a)(4) of this title][/us/usc/t42/s7411/a/4].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 171, as added [Pub. L. 95–95, title I, § 129(b)][/us/pl/95/95/s129/b], Aug. 7, 1977, [91 Stat. 745][/us/stat/91/745]; amended [Pub. L. 101–549, title I, § 102(a)(2)][/us/pl/101/549/s102/a/2], Nov. 15, 1990, [104 Stat. 2412][/us/stat/104/2412].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 171, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(b), Aug. 7, 1977, [91 Stat. 745][/us/stat/91/745]; amended [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 102(a)(2), Nov. 15, 1990, [104 Stat. 2412][/us/stat/104/2412].)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–549, § 102(a)(2)(A)][/us/pl/101/549/s102/a/2/A], struck out “and [section 7410(a)(2)(I) of this title][/us/usc/t42/s7410/a/2/I]” after “purpose of this part”.
+    1990—[Pub. L. 101–549][/us/pl/101/549], § 102(a)(2)(A), struck out “and [section 7410(a)(2)(I) of this title][/us/usc/t42/s7410/a/2/I]” after “purpose of this part”.
 
-    Pars. (1), (2). [Pub. L. 101–549, § 102(a)(2)(B)][/us/pl/101/549/s102/a/2/B], (C), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+    Pars. (1), (2). [Pub. L. 101–549][/us/pl/101/549], § 102(a)(2)(B), (C), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
     “(1) The term ‘reasonable further progress’ means annual incremental reductions in emissions of the applicable air pollutant (including substantial reductions in the early years following approval or promulgation of plan provisions under this part and [section 7410(a)(2)(I) of this title][/us/usc/t42/s7410/a/2/I] and regular reductions thereafter) which are sufficient in the judgment of the Administrator, to provide for attainment of the applicable national ambient air quality standard by the date required in [section 7502(a) of this title][/us/usc/t42/s7502/a].
 
@@ -63,13 +63,13 @@
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
 [/us/usc/t42/s7411/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411%2Fa%2F4
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F745
-[/us/pl/101/549/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Fa%2F2
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2412
-[/us/pl/101/549/s102/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Fa%2F2%2FA
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7410/a/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fa%2F2%2FI
-[/us/pl/101/549/s102/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Fa%2F2%2FB
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7410/a/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fa%2F2%2FI
 [/us/usc/t42/s7502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7502%2Fa
 [/us/usc/t42/s7407/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd%2F1

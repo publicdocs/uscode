@@ -37,17 +37,17 @@
 
         (2) maintain with respect to insurance under this subpart an integral set of accounts.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 711, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2007][/us/stat/106/2007].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 711, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2007][/us/stat/106/2007].)
 
  __Codification__ 
 
-    In subsec. (b)(1), “chapter 91 of title 31” was substituted for “the Government Corporation Control Act” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(1), “chapter 91 of title 31” was substituted for “the Government Corporation Control Act” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Prior Provisions__ 
 
-    A prior section 292j, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 709, formerly § 710, as added Oct. 12, 1976, [Pub. L. 94–484, title II, § 208][/us/pl/94/484/s208], [90 Stat. 2252][/us/stat/90/2252]; renumbered § 709 and amended Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35], §§ 2720(b), 2721, [95 Stat. 915][/us/stat/95/915]; Oct. 22, 1985, [Pub. L. 99–129, title II, § 206][/us/pl/99/129/s206], [99 Stat. 527][/us/stat/99/527], related to payment under grants, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
+    A prior section 292j, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 709, formerly § 710, as added Oct. 12, 1976, [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 208, [90 Stat. 2252][/us/stat/90/2252]; renumbered § 709 and amended Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], §§ 2720(b), 2721, [95 Stat. 915][/us/stat/95/915]; Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 206, [99 Stat. 527][/us/stat/99/527], related to payment under grants, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
-    Another prior section 292j, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 711, as added Sept. 24, 1963, [Pub. L. 88–129, § 3(b)][/us/pl/88/129/s3/b], [77 Stat. 173][/us/stat/77/173]; amended Nov. 18, 1971, [Pub. L. 92–157, title I, § 102(k)(2)(A)][/us/pl/92/157/s102/k/2/A], [85 Stat. 437][/us/stat/85/437], provided for technical assistance in connection with grants for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II, § 201(a)][/us/pl/94/484/s201/a], Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
+    Another prior section 292j, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 711, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 3(b), [77 Stat. 173][/us/stat/77/173]; amended Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 102(k)(2)(A), [85 Stat. 437][/us/stat/85/437], provided for technical assistance in connection with grants for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(a), Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
 
 ----------
 
@@ -57,24 +57,24 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2007
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs208
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2252
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F915
-[/us/pl/99/129/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs206
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F527
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs3%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F173
-[/us/pl/92/157/s102/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs102%2Fk%2F2%2FA
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F437
-[/us/pl/94/484/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fa
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2246
 
 

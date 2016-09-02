@@ -17,7 +17,7 @@
 
     The Chairman of the Nuclear Regulatory Commission shall notify the other members of the Commission, the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Environment and Public Works of the Senate, not later than 1 day after the Chairman begins performing functions under the authority of section 3 of Reorganization Plan No. 1 of 1980, or after a member of the Commission who is delegated emergency functions under subsection (b) of that section begins performing those functions. Such notification shall include an explanation of the circumstances warranting the exercise of such authority. The Chairman shall report to the Committees, not less frequently than once each week, on the actions taken by the Chairman, or a delegated member of the Commission, under such authority, until the authority is relinquished. The Chairman shall notify the Committees not later than 1 day after such authority is relinquished. The Chairman shall submit the report required by section 3(d) of the Reorganization Plan No. 1 of 1980 to the Committees not later than 1 day after it was submitted to the Commission. This section shall be in effect in fiscal year 2015 and each subsequent fiscal year.
 
-([Pub. L. 113–235, div. D, title IV, § 401][/us/pl/113/235/s401], Dec. 16, 2014, [128 Stat. 2330][/us/stat/128/2330].)
+([Pub. L. 113–235, div. D, title IV][/us/pl/113/235/dD/tIV], § 401, Dec. 16, 2014, [128 Stat. 2330][/us/stat/128/2330].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/235/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs401
+[/us/pl/113/235/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdD%2FtIV
 [/us/stat/128/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2330
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841
 

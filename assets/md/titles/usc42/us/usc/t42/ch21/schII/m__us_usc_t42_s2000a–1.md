@@ -17,7 +17,7 @@
 
     All persons shall be entitled to be free, at any establishment or place, from discrimination or segregation of any kind on the ground of race, color, religion, or national origin, if such discrimination or segregation is or purports to be required by any law, statute, ordinance, regulation, rule, or order of a State or any agency or political subdivision thereof.
 
-([Pub. L. 88–352, title II, § 202][/us/pl/88/352/s202], July 2, 1964, [78 Stat. 244][/us/stat/78/244].)
+([Pub. L. 88–352, title II][/us/pl/88/352/tII], § 202, July 2, 1964, [78 Stat. 244][/us/stat/78/244].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs202
+[/us/pl/88/352/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtII
 [/us/stat/78/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F244
 
 

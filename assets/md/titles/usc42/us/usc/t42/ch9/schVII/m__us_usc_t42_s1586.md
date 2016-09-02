@@ -2457,11 +2457,11 @@
 
         At the end of each fiscal year, the total amount of payments during such year to the Secretary of Housing and Urban Development in accordance with subsection (c) of this section shall be covered into the Treasury as miscellaneous receipts.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 606, as added [June 28, 1948, ch. 688, § 7][/us/act/1948-06-28/ch688/s7], as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended by Ex. Ord. No. 10284, §§ 6, 7, eff. Sept. 4, 1951, 16 F.R. 8971; Ex. Ord. No. 10339, eff. Apr. 7, 1952, 17 F.R. 3012; Ex. Ord. No. 10425, eff. Jan. 16, 1953, 18 F.R. 405; [Pub. L. 86–372, title VIII, § 807][/us/pl/86/372/s807], Sept. 23, 1959, [73 Stat. 687][/us/stat/73/687]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 93–383, title II, § 207][/us/pl/93/383/s207], Aug. 22, 1974, [88 Stat. 669][/us/stat/88/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 606, as added [June 28, 1948, ch. 688][/us/act/1948-06-28/ch688], § 7, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended by Ex. Ord. No. 10284, §§ 6, 7, eff. Sept. 4, 1951, 16 F.R. 8971; Ex. Ord. No. 10339, eff. Apr. 7, 1952, 17 F.R. 3012; Ex. Ord. No. 10425, eff. Jan. 16, 1953, 18 F.R. 405; [Pub. L. 86–372, title VIII][/us/pl/86/372/tVIII], § 807, Sept. 23, 1959, [73 Stat. 687][/us/stat/73/687]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 207, Aug. 22, 1974, [88 Stat. 669][/us/stat/88/669].)
 
  __References in Text__ 
 
-    The United States Housing Act of 1937, referred to in subsecs. (a)(1), (b), and (c)(2), (3), (7), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsecs. (a)(1), (b), and (c)(2), (3), (7), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
     Subchapters III and VI of this chapter, referred to in subsec. (b), were comprised of sections 1531 to 1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under [section 1522 of this title][/us/usc/t42/s1522].
 
@@ -2469,13 +2469,13 @@
 
  __Amendments__ 
 
-    1974—Subsec. (b). [Pub. L. 93–383, § 207(a)][/us/pl/93/383/s207/a], struck out provisions relating to payment of capital grants or annual contributions to low-rent housing projects.
+    1974—Subsec. (b). [Pub. L. 93–383][/us/pl/93/383], § 207(a), struck out provisions relating to payment of capital grants or annual contributions to low-rent housing projects.
 
-    Subsec. (c)(1). [Pub. L. 93–383, § 207(b)][/us/pl/93/383/s207/b], inserted provision relating to financing repair or rehabilitation of a project or part of project conveyed to public housing agency under this section.
+    Subsec. (c)(1). [Pub. L. 93–383][/us/pl/93/383], § 207(b), inserted provision relating to financing repair or rehabilitation of a project or part of project conveyed to public housing agency under this section.
 
-    1959—Subsec. (b). [Pub. L. 86–372, § 807(1)][/us/pl/86/372/s807/1], provided that if any such project is consolidated under a single annual contributions contract with any low-rent project being assisted with annual contributions under United States Housing Act of 1937, payment of any annual contribution on account of any project so assisted shall not be deemed to be a capital grant or annual contribution with respect to any project conveyed hereunder.
+    1959—Subsec. (b). [Pub. L. 86–372][/us/pl/86/372], § 807(1), provided that if any such project is consolidated under a single annual contributions contract with any low-rent project being assisted with annual contributions under United States Housing Act of 1937, payment of any annual contribution on account of any project so assisted shall not be deemed to be a capital grant or annual contribution with respect to any project conveyed hereunder.
 
-    Subsec. (c)(3). [Pub. L. 86–372, § 807(2)][/us/pl/86/372/s807/2], inserted proviso making provisions of subsec. (c)(3) inapplicable to any project which is consolidated under a single contract with one or more low-rent projects being assisted under United States Housing Act of 1937, and permitting commingling of income from such project with funds of project or projects with which it is consolidated.
+    Subsec. (c)(3). [Pub. L. 86–372][/us/pl/86/372], § 807(2), inserted proviso making provisions of subsec. (c)(3) inapplicable to any project which is consolidated under a single contract with one or more low-rent projects being assisted under United States Housing Act of 1937, and permitting commingling of income from such project with funds of project or projects with which it is consolidated.
 
  __Transfer of Functions__ 
 
@@ -2510,25 +2510,25 @@
 [/us/usc/t42/s1410g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1410g
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1948-06-28/ch688/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs7
+[/us/act/1948-06-28/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/pl/86/372/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs807
+[/us/pl/86/372/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2FtVIII
 [/us/stat/73/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F687
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
-[/us/pl/93/383/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs207
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F669
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
-[/us/pl/93/383/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs207%2Fa
-[/us/pl/93/383/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs207%2Fb
-[/us/pl/86/372/s807/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs807%2F1
-[/us/pl/86/372/s807/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372%2Fs807%2F2
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
+[/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581
 [/us/usc/t42/s1589a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1589a
 [/us/usc/t42/s1589a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1589a

@@ -23,7 +23,7 @@
 
         Not later than 90 days after November 13, 2000, the Director of the United States Geological Survey shall transmit to the Congress a 5-year management plan for establishing and operating the Advanced National Seismic Research and Monitoring System. The plan shall include annual cost estimates for both modernization and operation, milestones, standards, and performance goals, as well as plans for securing the participation of all existing networks in the Advanced National Seismic Research and Monitoring System and for establishing new, or enhancing existing, partnerships to leverage resources.
 
-([Pub. L. 95–124, § 13][/us/pl/95/124/s13], as added [Pub. L. 106–503, title II, § 204][/us/pl/106/503/s204], Nov. 13, 2000, [114 Stat. 2305][/us/stat/114/2305]; amended [Pub. L. 108–360, title I, § 104(b)][/us/pl/108/360/s104/b], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675].)
+([Pub. L. 95–124][/us/pl/95/124], § 13, as added [Pub. L. 106–503, title II][/us/pl/106/503/tII], § 204, Nov. 13, 2000, [114 Stat. 2305][/us/stat/114/2305]; amended [Pub. L. 108–360, title I][/us/pl/108/360/tI], § 104(b), Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675].)
 
  __Amendments__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/95/124/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs13
-[/us/pl/106/503/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs204
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2305
-[/us/pl/108/360/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs104%2Fb
+[/us/pl/108/360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtI
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675
 [/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
 

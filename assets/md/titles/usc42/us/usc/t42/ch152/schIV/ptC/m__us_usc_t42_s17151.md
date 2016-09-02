@@ -85,7 +85,7 @@
 
         (D) any other territory or possession of the United States.
 
-([Pub. L. 110–140, title V, § 541][/us/pl/110/140/s541], Dec. 19, 2007, [121 Stat. 1667][/us/stat/121/1667].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 541, Dec. 19, 2007, [121 Stat. 1667][/us/stat/121/1667].)
 
 ----------
 
@@ -96,7 +96,7 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s17152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17152%2Fa
-[/us/pl/110/140/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs541
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1667
 
 

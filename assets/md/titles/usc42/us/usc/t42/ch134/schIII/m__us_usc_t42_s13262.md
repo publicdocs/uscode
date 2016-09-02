@@ -27,7 +27,7 @@
 
         Any person who knowingly and willfully violates [section 13261 of this title][/us/usc/t42/s13261] after having been subjected to a civil penalty for a prior violation of [section 13261 of this title][/us/usc/t42/s13261] shall be fined not more than $50,000.
 
-([Pub. L. 102–486, title V, § 512][/us/pl/102/486/s512], Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 512, Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t42/s13261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13261
 [/us/usc/t42/s13261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13261
 [/us/usc/t42/s13261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13261
-[/us/pl/102/486/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs512
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2899
 
 

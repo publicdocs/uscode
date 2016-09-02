@@ -19,7 +19,7 @@
 
     (b) The Secretary shall conduct, either directly or through grants or other arrangements, research and demonstration projects designed to suggest new programs and policies to achieve the purposes of this subchapter in such ways as to provide opportunities for employment, ownership, and a better quality of life for low-income residents.
 
-([Pub. L. 97–35, title VI, § 630][/us/pl/97/35/s630], Aug. 13, 1981, [95 Stat. 497][/us/stat/95/497].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 630, Aug. 13, 1981, [95 Stat. 497][/us/stat/95/497].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
-[/us/pl/97/35/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs630
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F497
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511

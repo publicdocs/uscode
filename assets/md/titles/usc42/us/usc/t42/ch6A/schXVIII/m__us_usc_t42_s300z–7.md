@@ -69,7 +69,7 @@
 
         (2) Recipients of grants and contracts for dissemination under this section shall submit to the Secretary such reports as the Secretary determines appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2008, as added [Pub. L. 97–35, title IX, § 955(a)][/us/pl/97/35/s955/a], Aug. 13, 1981, [95 Stat. 589][/us/stat/95/589]; amended [Pub. L. 98–512, § 2(e)][/us/pl/98/512/s2/e], Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2008, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(a), Aug. 13, 1981, [95 Stat. 589][/us/stat/95/589]; amended [Pub. L. 98–512][/us/pl/98/512], § 2(e), Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
 
  __Amendments__ 
 
@@ -86,9 +86,9 @@
 [/us/usc/t42/s300z/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300z%2Fb
 [/us/usc/t42/s300z/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300z%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F589
-[/us/pl/98/512/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512%2Fs2%2Fe
+[/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512
 [/us/stat/98/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2409
 [/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512
 

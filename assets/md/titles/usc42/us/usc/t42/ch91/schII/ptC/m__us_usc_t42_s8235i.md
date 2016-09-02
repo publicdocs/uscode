@@ -27,7 +27,7 @@
 
         Any funds appropriated under the authorization contained in this section shall remain available until expended.
 
-([Pub. L. 95–619, title II, § 270][/us/pl/95/619/s270], as added [Pub. L. 96–294, title V, § 562][/us/pl/96/294/s562], June 30, 1980, [94 Stat. 751][/us/stat/94/751].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 270, as added [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 562, June 30, 1980, [94 Stat. 751][/us/stat/94/751].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/95/619/s270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs270
-[/us/pl/96/294/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs562
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F751
 
 

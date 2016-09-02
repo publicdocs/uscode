@@ -19,7 +19,7 @@
 
     (b) With regard to any claim arising under this chapter or under the Richard B. Russell National School Lunch Act \[[42 U.S.C. 1751][/us/usc/t42/s1751] et seq.\], the Secretary shall have the authority to determine the amount of, to settle and to adjust any such claim, and to compromise or deny such claim or any part thereof. The Secretary shall also have the authority to waive such claims if the Secretary determines that to do so would serve the purposes of either this chapter or the Richard B. Russell National School Lunch Act. Nothing contained in this subsection shall be construed to diminish the authority of the Attorney General of the United States under [section 516 of title 28][/us/usc/t28/s516] to conduct litigation on behalf of the United States.
 
-([Pub. L. 89–642, § 16][/us/pl/89/642/s16], Oct. 11, 1966, [80 Stat. 890][/us/stat/80/890]; [Pub. L. 97–35, title VIII, § 816][/us/pl/97/35/s816], Aug. 13, 1981, [95 Stat. 531][/us/stat/95/531]; [Pub. L. 104–193, title VII, § 728][/us/pl/104/193/s728], Aug. 22, 1996, [110 Stat. 2302][/us/stat/110/2302]; [Pub. L. 106–78, title VII, § 752(b)(16)][/us/pl/106/78/s752/b/16], Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170].)
+([Pub. L. 89–642][/us/pl/89/642], § 16, Oct. 11, 1966, [80 Stat. 890][/us/stat/80/890]; [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 816, Aug. 13, 1981, [95 Stat. 531][/us/stat/95/531]; [Pub. L. 104–193, title VII][/us/pl/104/193/tVII], § 728, Aug. 22, 1996, [110 Stat. 2302][/us/stat/110/2302]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(16), Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170].)
 
  __References in Text__ 
 
@@ -50,13 +50,13 @@
 
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t28/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs516
-[/us/pl/89/642/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs16
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F890
-[/us/pl/97/35/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs816
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F531
-[/us/pl/104/193/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs728
+[/us/pl/104/193/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVII
 [/us/stat/110/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2302
-[/us/pl/106/78/s752/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F16
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1170
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230

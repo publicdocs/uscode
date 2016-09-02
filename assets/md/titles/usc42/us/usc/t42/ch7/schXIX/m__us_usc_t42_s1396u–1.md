@@ -113,7 +113,7 @@
 
         In this section, the term “welfare reform effective date” means the effective date, with respect to a State, of title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (as specified in section 116 of such Act).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1931, as added [Pub. L. 104–193, title I, § 114(a)(2)][/us/pl/104/193/s114/a/2], Aug. 22, 1996, [110 Stat. 2177][/us/stat/110/2177]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 602(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1931, as added [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 114(a)(2), Aug. 22, 1996, [110 Stat. 2177][/us/stat/110/2177]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, § 602(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394.)
 
  __References in Text__ 
 
@@ -125,13 +125,13 @@
 
  __Amendments__ 
 
-    1999—Subsec. (h)(3). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 602(a)(1)\], struck out “and ending with fiscal year 2000” after “fiscal year 1997”.
+    1999—Subsec. (h)(3). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 602(a)(1)\], struck out “and ending with fiscal year 2000” after “fiscal year 1997”.
 
-    Subsec. (h)(4). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 602(a)(2)\], struck out heading and text of par. (4). Prior to amendment, text read as follows: “This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters in which the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect.”
+    Subsec. (h)(4). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 602(a)(2)\], struck out heading and text of par. (4). Prior to amendment, text read as follows: “This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters in which the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 602(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, § 602(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 114 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2177][/us/stat/110/2177]).”
 
@@ -156,16 +156,16 @@
 [/us/usc/t42/s1396b/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa%2F7
 [/us/usc/t42/s1396b/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa%2F7
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs114%2Fa%2F2
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2177
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2177

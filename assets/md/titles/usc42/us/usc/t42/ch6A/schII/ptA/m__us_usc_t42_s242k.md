@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242e.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242k)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242f...242j.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242k)
 
 ## § 242k. National Center for Health Statistics
 
@@ -203,83 +203,83 @@
 
         (3) For activities authorized in subsection (m)(4) of this section, there are authorized to be appropriated $1,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 306, as added [Pub. L. 93–353, title I, § 105][/us/pl/93/353/s105], July 23, 1974, [88 Stat. 365][/us/stat/88/365]; amended [Pub. L. 95–623][/us/pl/95/623], §§ 5, 8(a), Nov. 9, 1978, [92 Stat. 3445][/us/stat/92/3445], 3453; [Pub. L. 97–35, title IX, § 920][/us/pl/97/35/s920], Aug. 13, 1981, [95 Stat. 566][/us/stat/95/566]; [Pub. L. 97–414, § 8(b)][/us/pl/97/414/s8/b], Jan. 4, 1983, [96 Stat. 2060][/us/stat/96/2060]; [Pub. L. 100–177, title I][/us/pl/100/177], §§ 104, 105(a), Dec. 1, 1987, [101 Stat. 988][/us/stat/101/988]; [Pub. L. 101–239, title VI, § 6103(e)(2)][/us/pl/101/239/s6103/e/2], Dec. 19, 1989, [103 Stat. 2206][/us/stat/103/2206]; [Pub. L. 101–527, § 7(a)][/us/pl/101/527/s7/a], (b)(1), (c), Nov. 6, 1990, [104 Stat. 2327][/us/stat/104/2327], 2328; [Pub. L. 102–54, § 13(q)(1)(A)(i)][/us/pl/102/54/s13/q/1/A/i], June 13, 1991, [105 Stat. 278][/us/stat/105/278]; [Pub. L. 103–183, title V, § 501(a)][/us/pl/103/183/s501/a], (d), Dec. 14, 1993, [107 Stat. 2237][/us/stat/107/2237], 2238; [Pub. L. 104–191, title II, § 263][/us/pl/104/191/s263], Aug. 21, 1996, [110 Stat. 2031][/us/stat/110/2031]; [Pub. L. 105–340, title II, § 201][/us/pl/105/340/s201], Oct. 31, 1998, [112 Stat. 3193][/us/stat/112/3193]; [Pub. L. 105–392, title II, § 201(b)][/us/pl/105/392/s201/b], Nov. 13, 1998, [112 Stat. 3585][/us/stat/112/3585].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 306, as added [Pub. L. 93–353, title I][/us/pl/93/353/tI], § 105, July 23, 1974, [88 Stat. 365][/us/stat/88/365]; amended [Pub. L. 95–623][/us/pl/95/623], §§ 5, 8(a), Nov. 9, 1978, [92 Stat. 3445][/us/stat/92/3445], 3453; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 920, Aug. 13, 1981, [95 Stat. 566][/us/stat/95/566]; [Pub. L. 97–414][/us/pl/97/414], § 8(b), Jan. 4, 1983, [96 Stat. 2060][/us/stat/96/2060]; [Pub. L. 100–177, title I][/us/pl/100/177/tI], §§ 104, 105(a), Dec. 1, 1987, [101 Stat. 988][/us/stat/101/988]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(e)(2), Dec. 19, 1989, [103 Stat. 2206][/us/stat/103/2206]; [Pub. L. 101–527][/us/pl/101/527], § 7(a), (b)(1), (c), Nov. 6, 1990, [104 Stat. 2327][/us/stat/104/2327], 2328; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(1)(A)(i), June 13, 1991, [105 Stat. 278][/us/stat/105/278]; [Pub. L. 103–183, title V][/us/pl/103/183/tV], § 501(a), (d), Dec. 14, 1993, [107 Stat. 2237][/us/stat/107/2237], 2238; [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 263, Aug. 21, 1996, [110 Stat. 2031][/us/stat/110/2031]; [Pub. L. 105–340, title II][/us/pl/105/340/tII], § 201, Oct. 31, 1998, [112 Stat. 3193][/us/stat/112/3193]; [Pub. L. 105–392, title II][/us/pl/105/392/tII], § 201(b), Nov. 13, 1998, [112 Stat. 3585][/us/stat/112/3585].)
 
  __References in Text__ 
 
-    [Section 3509 of title 44][/us/usc/t44/s3509], referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by [Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812]. [Pub. L. 104–13][/us/pl/104/13] subsequently enacted a new [section 3509 of Title 44][/us/usc/t44/s3509] relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in [section 3507 of Title 44][/us/usc/t44/s3507].
+    [Section 3509 of title 44][/us/usc/t44/s3509], referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by [Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812]. [Pub. L. 104–13][/us/pl/104/13] subsequently enacted a new [section 3509 of Title 44][/us/usc/t44/s3509] relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in [section 3507 of Title 44][/us/usc/t44/s3507].
 
     The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
  __Codification__ 
 
-    In subsec. (f), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (f), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
-    Provisions similar to those comprising subsec. (g) of this section were contained in section 313 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, [58 Stat. 693][/us/stat/58/693]; Oct. 30, 1970, [Pub. L. 91–516, title II, § 282][/us/pl/91/516/s282], [84 Stat. 1308][/us/stat/84/1308] (formerly classified to [section 245 of this title][/us/usc/t42/s245]), prior to repeal by [Pub. L. 93–353, § 102(a)][/us/pl/93/353/s102/a].
+    Provisions similar to those comprising subsec. (g) of this section were contained in section 313 of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], [58 Stat. 693][/us/stat/58/693]; Oct. 30, 1970, [Pub. L. 91–516, title II][/us/pl/91/516/tII], § 282, [84 Stat. 1308][/us/stat/84/1308] (formerly classified to [section 245 of this title][/us/usc/t42/s245]), prior to repeal by [Pub. L. 93–353][/us/pl/93/353], § 102(a).
 
-    Provisions similar to those comprising subsec. (h) of this section were contained in section 312a of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, as added [Aug. 31, 1954, ch. 1158, § 2][/us/act/1954-08-31/ch1158/s2], [68 Stat. 1025][/us/stat/68/1025] (formerly classified to [section 244a of this title][/us/usc/t42/s244a]), prior to repeal by [Pub. L. 93–353, § 102(a)][/us/pl/93/353/s102/a].
+    Provisions similar to those comprising subsec. (h) of this section were contained in section 312a of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], as added [Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], § 2, [68 Stat. 1025][/us/stat/68/1025] (formerly classified to [section 244a of this title][/us/usc/t42/s244a]), prior to repeal by [Pub. L. 93–353][/us/pl/93/353], § 102(a).
 
  __Amendments__ 
 
-    1998—Subsec. (m)(4). [Pub. L. 105–392, § 201(b)(1)][/us/pl/105/392/s201/b/1], added par. (4).
+    1998—Subsec. (m)(4). [Pub. L. 105–392][/us/pl/105/392], § 201(b)(1), added par. (4).
 
-    Subsec. (n)(1). [Pub. L. 105–340, § 201(1)][/us/pl/105/340/s201/1], and [Pub. L. 105–392, § 201(b)(2)][/us/pl/105/392/s201/b/2], amended par. (1) identically, substituting “2003” for “1998”.
+    Subsec. (n)(1). [Pub. L. 105–340][/us/pl/105/340], § 201(1), and [Pub. L. 105–392][/us/pl/105/392], § 201(b)(2), amended par. (1) identically, substituting “2003” for “1998”.
 
-    Subsec. (n)(2). [Pub. L. 105–392, § 201(b)(3)(A)][/us/pl/105/392/s201/b/3/A], in first sentence, substituted “paragraphs (1) through (3) of subsection (m)” for “subsection (m)” and substituted “such sums as may be necessary for each of the fiscal years 1999 through 2003.” for “$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for each of the fiscal years 1994 through 2003.”
+    Subsec. (n)(2). [Pub. L. 105–392][/us/pl/105/392], § 201(b)(3)(A), in first sentence, substituted “paragraphs (1) through (3) of subsection (m)” for “subsection (m)” and substituted “such sums as may be necessary for each of the fiscal years 1999 through 2003.” for “$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for each of the fiscal years 1994 through 2003.”
 
-    [Pub. L. 105–340, § 201(2)][/us/pl/105/340/s201/2], substituted “2003” for “1998”.
+    [Pub. L. 105–340][/us/pl/105/340], § 201(2), substituted “2003” for “1998”.
 
-    Subsec. (n)(3). [Pub. L. 105–392, § 201(b)(3)(B)][/us/pl/105/392/s201/b/3/B], added par. (3).
+    Subsec. (n)(3). [Pub. L. 105–392][/us/pl/105/392], § 201(b)(3)(B), added par. (3).
 
-    1996—Subsec. (k)(1). [Pub. L. 104–191, § 263(1)][/us/pl/104/191/s263/1], substituted “18” for “16”.
+    1996—Subsec. (k)(1). [Pub. L. 104–191][/us/pl/104/191], § 263(1), substituted “18” for “16”.
 
-    Subsec. (k)(2). [Pub. L. 104–191, § 263(2)][/us/pl/104/191/s263/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The members of the Committee shall be appointed by the Secretary from among persons who have distinguished themselves in the fields of health statistics, health planning, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.”
+    Subsec. (k)(2). [Pub. L. 104–191][/us/pl/104/191], § 263(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The members of the Committee shall be appointed by the Secretary from among persons who have distinguished themselves in the fields of health statistics, health planning, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.”
 
-    Subsec. (k)(3), (4). [Pub. L. 104–191, § 263(3)][/us/pl/104/191/s263/3], added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (k)(3), (4). [Pub. L. 104–191][/us/pl/104/191], § 263(3), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (k)(5). [Pub. L. 104–191, § 263(4)][/us/pl/104/191/s263/4], amended par. (5) generally. Prior to amendment, par. (5) consisted of subpars. (A) to (G) relating to Committee functions in assisting and advising the Secretary.
+    Subsec. (k)(5). [Pub. L. 104–191][/us/pl/104/191], § 263(4), amended par. (5) generally. Prior to amendment, par. (5) consisted of subpars. (A) to (G) relating to Committee functions in assisting and advising the Secretary.
 
-    [Pub. L. 104–191, § 263(3)][/us/pl/104/191/s263/3], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    [Pub. L. 104–191][/us/pl/104/191], § 263(3), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (k)(6). [Pub. L. 104–191, § 263(3)][/us/pl/104/191/s263/3], redesignated par. (5) as (6).
+    Subsec. (k)(6). [Pub. L. 104–191][/us/pl/104/191], § 263(3), redesignated par. (5) as (6).
 
-    Subsec. (k)(7). [Pub. L. 104–191, § 263(5)][/us/pl/104/191/s263/5], added par. (7).
+    Subsec. (k)(7). [Pub. L. 104–191][/us/pl/104/191], § 263(5), added par. (7).
 
-    1993—Subsec. (c). [Pub. L. 103–183, § 501(a)(1)][/us/pl/103/183/s501/a/1], substituted “Committee on Labor and Human Resources” for “Committee on Human Resources”.
+    1993—Subsec. (c). [Pub. L. 103–183][/us/pl/103/183], § 501(a)(1), substituted “Committee on Labor and Human Resources” for “Committee on Human Resources”.
 
-    Subsec. (g). [Pub. L. 103–183, § 501(a)(2)][/us/pl/103/183/s501/a/2], substituted “data” for “data which shall be published as a part of the health reports published by the Secretary”.
+    Subsec. (g). [Pub. L. 103–183][/us/pl/103/183], § 501(a)(2), substituted “data” for “data which shall be published as a part of the health reports published by the Secretary”.
 
-    Subsec. (i). [Pub. L. 103–183, § 501(a)(3)][/us/pl/103/183/s501/a/3], struck out “engaged in health planning activities” after “entities”.
+    Subsec. (i). [Pub. L. 103–183][/us/pl/103/183], § 501(a)(3), struck out “engaged in health planning activities” after “entities”.
 
-    Subsec. (k)(2). [Pub. L. 103–183, § 501(a)(4)][/us/pl/103/183/s501/a/4], struck out subpar. (A) designation, substituted “Members” for “Except as provided in subparagraph (B), members”, and struck out subpar. (B) which related to extensions of membership terms of members of National Committee on Vital and Health Statistics whose terms were to expire in calendar years 1988, 1989, and 1990.
+    Subsec. (k)(2). [Pub. L. 103–183][/us/pl/103/183], § 501(a)(4), struck out subpar. (A) designation, substituted “Members” for “Except as provided in subparagraph (B), members”, and struck out subpar. (B) which related to extensions of membership terms of members of National Committee on Vital and Health Statistics whose terms were to expire in calendar years 1988, 1989, and 1990.
 
-    Subsec. (l). [Pub. L. 103–183, § 501(a)(5)(A)][/us/pl/103/183/s501/a/5/A]–(C), redesignated subsec. (m) as (l), substituted “subsection (m)” for “subsection (n)”, and struck out former subsec. (l) which related to development of plan for collection and coordination of statistical and epidemiological data on effects of environment on health and establishment of guidelines for compilation, analysis, and distribution of statistics and information necessary for coordinated determination of effects of conditions of employment and indoor and outdoor environmental conditions on public health.
+    Subsec. (l). [Pub. L. 103–183][/us/pl/103/183], § 501(a)(5)(A)–(C), redesignated subsec. (m) as (l), substituted “subsection (m)” for “subsection (n)”, and struck out former subsec. (l) which related to development of plan for collection and coordination of statistical and epidemiological data on effects of environment on health and establishment of guidelines for compilation, analysis, and distribution of statistics and information necessary for coordinated determination of effects of conditions of employment and indoor and outdoor environmental conditions on public health.
 
-    Subsec. (m). [Pub. L. 103–183, § 501(a)(5)(B)][/us/pl/103/183/s501/a/5/B], redesignated subsec. (n) as (m). Former subsec. (m) redesignated (l).
+    Subsec. (m). [Pub. L. 103–183][/us/pl/103/183], § 501(a)(5)(B), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (l).
 
-    Subsecs. (n), (o). [Pub. L. 103–183, § 501(a)(5)(B)][/us/pl/103/183/s501/a/5/B], (D), (d), redesignated subsec. (o) as (n), in par. (1) substituted “(l)” for “(m)” and “1998” for “1993”, and in par. (2) substituted “(m)” for “(n)”, struck out “and” after “1992,”, inserted “, and $10,000,000 for each of the fiscal years 1994 through 1998”, and substituted “(m)(2)” for “(n)(2)”. Former subsec. (n) redesignated (m).
+    Subsecs. (n), (o). [Pub. L. 103–183][/us/pl/103/183], § 501(a)(5)(B), (D), (d), redesignated subsec. (o) as (n), in par. (1) substituted “(l)” for “(m)” and “1998” for “1993”, and in par. (2) substituted “(m)” for “(n)”, struck out “and” after “1992,”, inserted “, and $10,000,000 for each of the fiscal years 1994 through 1998”, and substituted “(m)(2)” for “(n)(2)”. Former subsec. (n) redesignated (m).
 
     1991—Subsec. (k)(4)(C). [Pub. L. 102–54][/us/pl/102/54] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    1990—Subsec. (h). [Pub. L. 101–527, § 7(a)][/us/pl/101/527/s7/a], designated existing text as par. (1), inserted after second sentence “The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
+    1990—Subsec. (h). [Pub. L. 101–527][/us/pl/101/527], § 7(a), designated existing text as par. (1), inserted after second sentence “The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
 
-    Subsecs. (m) to (o). [Pub. L. 101–527, § 7(b)(1)][/us/pl/101/527/s7/b/1], (c), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o) and amended it generally. Prior to amendment, subsec. (o) read as follows: “For health statistical and epidemiological activities undertaken or supported under this section, there are authorized to be appropriated $55,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
+    Subsecs. (m) to (o). [Pub. L. 101–527][/us/pl/101/527], § 7(b)(1), (c), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o) and amended it generally. Prior to amendment, subsec. (o) read as follows: “For health statistical and epidemiological activities undertaken or supported under this section, there are authorized to be appropriated $55,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 6103(e)(2)(A)][/us/pl/101/239/s6103/e/2/A], inserted at end “The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.”
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 6103(e)(2)(A), inserted at end “The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.”
 
-    Subsec. (b). [Pub. L. 101–239, § 6103(e)(2)(B)][/us/pl/101/239/s6103/e/2/B], substituted “subsection (a) of this section” for “[section 242b(a) of this title][/us/usc/t42/s242b/a]”.
+    Subsec. (b). [Pub. L. 101–239][/us/pl/101/239], § 6103(e)(2)(B), substituted “subsection (a) of this section” for “[section 242b(a) of this title][/us/usc/t42/s242b/a]”.
 
-    Subsec. (m). [Pub. L. 101–239, § 6103(e)(2)(C)][/us/pl/101/239/s6103/e/2/C], added subsec. (m).
+    Subsec. (m). [Pub. L. 101–239][/us/pl/101/239], § 6103(e)(2)(C), added subsec. (m).
 
-    1987—Subsec. (a). [Pub. L. 100–177, § 104][/us/pl/100/177/s104], struck out “and supervised by the Assistant Secretary for Health (or such other officer of the Department as may be designated by the Secretary as the principal adviser to him for health programs)”.
+    1987—Subsec. (a). [Pub. L. 100–177][/us/pl/100/177], § 104, struck out “and supervised by the Assistant Secretary for Health (or such other officer of the Department as may be designated by the Secretary as the principal adviser to him for health programs)”.
 
-    Subsec. (k)(1). [Pub. L. 100–177, § 105(a)(1)][/us/pl/100/177/s105/a/1], substituted “16 members” for “fifteen members”.
+    Subsec. (k)(1). [Pub. L. 100–177][/us/pl/100/177], § 105(a)(1), substituted “16 members” for “fifteen members”.
 
-    Subsec. (k)(2)(A). [Pub. L. 100–177, § 105(a)(2)][/us/pl/100/177/s105/a/2], substituted “terms of 4 years” for “terms of three years”.
+    Subsec. (k)(2)(A). [Pub. L. 100–177][/us/pl/100/177], § 105(a)(2), substituted “terms of 4 years” for “terms of three years”.
 
-    Subsec. (k)(2)(B). [Pub. L. 100–177, § 105(a)(3)][/us/pl/100/177/s105/a/3], added subpar. (B) and struck out former subpar. (B) which read as follows: “Of the members first appointed—
+    Subsec. (k)(2)(B). [Pub. L. 100–177][/us/pl/100/177], § 105(a)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “Of the members first appointed—
 
     “(i) five shall be appointed for terms of one year,
 
@@ -293,29 +293,29 @@
 
     Subsec. (l)(2)(E) to (G). [Pub. L. 97–414][/us/pl/97/414] redesignated subpars. (F) and (G) as (E) and (F), respectively. Former subpar. (E) redesignated (D).
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 920(d)(1)][/us/pl/97/35/s920/d/1], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 920(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (c). [Pub. L. 97–35, § 920(d)(2)][/us/pl/97/35/s920/d/2], substituted “Energy and” for “Interstate and Foreign”.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 920(d)(2), substituted “Energy and” for “Interstate and Foreign”.
 
-    Subsec. (e). [Pub. L. 97–35, § 920(a)][/us/pl/97/35/s920/a], (d)(1), in par. (3) inserted applicability to other activities, and in par. (4) substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsec. (e). [Pub. L. 97–35][/us/pl/97/35], § 920(a), (d)(1), in par. (3) inserted applicability to other activities, and in par. (4) substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsecs. (j), (k)(4)(C), (D). [Pub. L. 97–35, § 920(d)(1)][/us/pl/97/35/s920/d/1], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsecs. (j), (k)(4)(C), (D). [Pub. L. 97–35][/us/pl/97/35], § 920(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (l)(2). [Pub. L. 97–35, § 920(b)][/us/pl/97/35/s920/b], (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted “Health and Human Services” for “Health, Education, and Welfare”, and in subpar. (D) struck out provisions relating to assistance to executive departments.
+    Subsec. (l)(2). [Pub. L. 97–35][/us/pl/97/35], § 920(b), (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted “Health and Human Services” for “Health, Education, and Welfare”, and in subpar. (D) struck out provisions relating to assistance to executive departments.
 
-    1978—Subsec. (b). [Pub. L. 95–623, § 5(a)][/us/pl/95/623/s5/a], struck out “may” after “through the Center,”, substituted in pars. (1) and (2) “shall collect” and “shall undertake” for “collect” and “undertake”, respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
+    1978—Subsec. (b). [Pub. L. 95–623][/us/pl/95/623], § 5(a), struck out “may” after “through the Center,”, substituted in pars. (1) and (2) “shall collect” and “shall undertake” for “collect” and “undertake”, respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
 
-    Subsec. (c). [Pub. L. 95–623, § 5(b)][/us/pl/95/623/s5/b], substituted “statistical and epidemiological compilations” for “statistical compilations” in two places and “Committee on Human Resources” for “Committee on Labor and Public Welfare” of the Senate.
+    Subsec. (c). [Pub. L. 95–623][/us/pl/95/623], § 5(b), substituted “statistical and epidemiological compilations” for “statistical compilations” in two places and “Committee on Human Resources” for “Committee on Labor and Public Welfare” of the Senate.
 
-    Subsec. (e). [Pub. L. 95–623, § 5(c)(1)][/us/pl/95/623/s5/c/1], incorporated in introductory text prior cl. (1) provision requiring the Secretary to assist State and local health agencies and Federal agencies involved in health matters in the design and implementation of a cooperative system for producing comparable and uniform health information and statistics at the Federal, State, and local levels; enacted in pars. (1) and (2) provisions almost identical to prior cls. (2) and (3); enacted par. (3); struck out former cl. (4) provision for the Federal share of the data collection costs under the system; enacted in par. (4) provisions almost identical to former cl. (5); and required State designation of a State administrative agency to be responsible for the statistical activities within the State under the System and Federal guidelines for production of uniform and timely data and appropriate access to the data.
+    Subsec. (e). [Pub. L. 95–623][/us/pl/95/623], § 5(c)(1), incorporated in introductory text prior cl. (1) provision requiring the Secretary to assist State and local health agencies and Federal agencies involved in health matters in the design and implementation of a cooperative system for producing comparable and uniform health information and statistics at the Federal, State, and local levels; enacted in pars. (1) and (2) provisions almost identical to prior cls. (2) and (3); enacted par. (3); struck out former cl. (4) provision for the Federal share of the data collection costs under the system; enacted in par. (4) provisions almost identical to former cl. (5); and required State designation of a State administrative agency to be responsible for the statistical activities within the State under the System and Federal guidelines for production of uniform and timely data and appropriate access to the data.
 
-    Subsec. (f). [Pub. L. 95–623, § 5(d)][/us/pl/95/623/s5/d], substituted “the Secretary, acting through the Center, shall cooperate and consult” for “the Secretary shall cooperate and consult”.
+    Subsec. (f). [Pub. L. 95–623][/us/pl/95/623], § 5(d), substituted “the Secretary, acting through the Center, shall cooperate and consult” for “the Secretary shall cooperate and consult”.
 
-    Subsecs. (i), (j). [Pub. L. 95–623, § 5(f)][/us/pl/95/623/s5/f], added subsecs. (i) and (j). Former subsec. (i) redesignated (k).
+    Subsecs. (i), (j). [Pub. L. 95–623][/us/pl/95/623], § 5(f), added subsecs. (i) and (j). Former subsec. (i) redesignated (k).
 
-    Subsec. (k). [Pub. L. 95–623, § 5(c)(2)][/us/pl/95/623/s5/c/2], (e), (f), struck from par. (1) “United States” before “National Committee on Vital and Health Statistics”; authorized in par. (2)(A) the appointment of Committee members from distinguished persons in field of health planning; required the Committee to assist and advise the Secretary with respect to the Cooperative Health Statistics System and the standardized means for the collection of health information and statistics to be established by the Secretary; and redesignated such amended subsec. (i) as (k).
+    Subsec. (k). [Pub. L. 95–623][/us/pl/95/623], § 5(c)(2), (e), (f), struck from par. (1) “United States” before “National Committee on Vital and Health Statistics”; authorized in par. (2)(A) the appointment of Committee members from distinguished persons in field of health planning; required the Committee to assist and advise the Secretary with respect to the Cooperative Health Statistics System and the standardized means for the collection of health information and statistics to be established by the Secretary; and redesignated such amended subsec. (i) as (k).
 
-    Subsec. (l). [Pub. L. 95–623, § 8(a)][/us/pl/95/623/s8/a], added subsec. (l).
+    Subsec. (l). [Pub. L. 95–623][/us/pl/95/623], § 8(a), added subsec. (l).
 
  __Change of Name__ 
 
@@ -325,25 +325,25 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–527, § 12][/us/pl/101/527/s12], Nov. 6, 1990, [104 Stat. 2335][/us/stat/104/2335], provided that: 
+[Pub. L. 101–527][/us/pl/101/527], § 12, Nov. 6, 1990, [104 Stat. 2335][/us/stat/104/2335], provided that: 
 
 > “This Act and the amendments made by this Act \[enacting sections 254c–1, 254t, 256a, 294bb, 294cc, and 300u–6 of this title, amending this section and sections 242m, 254b, 254c, 294m, 294o, and 295g–2 of this title, enacting provisions set out as notes under sections 201 and 300u–6 of this title, and repealing provisions set out as a note under [section 292h of this title][/us/usc/t42/s292h]\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 6, 1990\], whichever occurs later.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–177, title I, § 105(b)][/us/pl/100/177/s105/b], Dec. 1, 1987, [101 Stat. 988][/us/stat/101/988], provided that: 
+[Pub. L. 100–177, title I][/us/pl/100/177/tI], § 105(b), Dec. 1, 1987, [101 Stat. 988][/us/stat/101/988], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on January 1, 1988.”
 
  __Money Received by Center From Reimbursements, Interagency Agreements, and Sale of Data Tapes To Remain Available Until Expended__ 
 
-[Pub. L. 103–333, title II][/us/pl/103/333], Sept. 30, 1994, [108 Stat. 2550][/us/stat/108/2550], provided in part: 
+[Pub. L. 103–333, title II][/us/pl/103/333/tII], Sept. 30, 1994, [108 Stat. 2550][/us/stat/108/2550], provided in part: 
 
 > “That for fiscal year 1995 and subsequent fiscal years amounts received by the National Center for Health Statistics from reimbursements and interagency agreements and the sale of data tapes may be credited to this appropriation and shall remain available until expended”.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242e.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242k)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242f...242j.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242k)
 
 ----------
 ----------
@@ -356,32 +356,32 @@
 [/us/usc/t42/s1320d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d
 [/us/usc/t42/s242m/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242m%2Fd
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/353/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs105
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F365
 [/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3445
-[/us/pl/97/35/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs920
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F566
-[/us/pl/97/414/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fb
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2060
-[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtI
 [/us/stat/101/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F988
-[/us/pl/101/239/s6103/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F2
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2206
-[/us/pl/101/527/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527%2Fs7%2Fa
+[/us/pl/101/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527
 [/us/stat/104/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2327
-[/us/pl/102/54/s13/q/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F1%2FA%2Fi
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F278
-[/us/pl/103/183/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa
+[/us/pl/103/183/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtV
 [/us/stat/107/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2237
-[/us/pl/104/191/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2031
-[/us/pl/105/340/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs201
+[/us/pl/105/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2FtII
 [/us/stat/112/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3193
-[/us/pl/105/392/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs201%2Fb
+[/us/pl/105/392/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtII
 [/us/stat/112/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3585
 [/us/usc/t44/s3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3509
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/usc/t44/s3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3509
@@ -391,72 +391,72 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/stat/58/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F693
-[/us/pl/91/516/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F516%2Fs282
+[/us/pl/91/516/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F516%2FtII
 [/us/stat/84/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1308
 [/us/usc/t42/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs245
-[/us/pl/93/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Fa
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1954-08-31/ch1158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158%2Fs2
+[/us/pl/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1025
 [/us/usc/t42/s244a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs244a
-[/us/pl/93/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Fa
-[/us/pl/105/392/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs201%2Fb%2F1
-[/us/pl/105/340/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs201%2F1
-[/us/pl/105/392/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs201%2Fb%2F2
-[/us/pl/105/392/s201/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs201%2Fb%2F3%2FA
-[/us/pl/105/340/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs201%2F2
-[/us/pl/105/392/s201/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs201%2Fb%2F3%2FB
-[/us/pl/104/191/s263/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263%2F1
-[/us/pl/104/191/s263/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263%2F2
-[/us/pl/104/191/s263/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263%2F3
-[/us/pl/104/191/s263/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263%2F4
-[/us/pl/104/191/s263/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263%2F3
-[/us/pl/104/191/s263/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263%2F3
-[/us/pl/104/191/s263/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs263%2F5
-[/us/pl/103/183/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa%2F1
-[/us/pl/103/183/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa%2F2
-[/us/pl/103/183/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa%2F3
-[/us/pl/103/183/s501/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa%2F4
-[/us/pl/103/183/s501/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa%2F5%2FA
-[/us/pl/103/183/s501/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa%2F5%2FB
-[/us/pl/103/183/s501/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs501%2Fa%2F5%2FB
+[/us/pl/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/101/527/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527%2Fs7%2Fa
-[/us/pl/101/527/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527%2Fs7%2Fb%2F1
-[/us/pl/101/239/s6103/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F2%2FA
-[/us/pl/101/239/s6103/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F2%2FB
+[/us/pl/101/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527
+[/us/pl/101/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s242b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242b%2Fa
-[/us/pl/101/239/s6103/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F2%2FC
-[/us/pl/100/177/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs104
-[/us/pl/100/177/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs105%2Fa%2F1
-[/us/pl/100/177/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs105%2Fa%2F2
-[/us/pl/100/177/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs105%2Fa%2F3
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
-[/us/pl/97/35/s920/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs920%2Fd%2F1
-[/us/pl/97/35/s920/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs920%2Fd%2F2
-[/us/pl/97/35/s920/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs920%2Fa
-[/us/pl/97/35/s920/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs920%2Fd%2F1
-[/us/pl/97/35/s920/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs920%2Fb
-[/us/pl/95/623/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs5%2Fa
-[/us/pl/95/623/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs5%2Fb
-[/us/pl/95/623/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs5%2Fc%2F1
-[/us/pl/95/623/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs5%2Fd
-[/us/pl/95/623/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs5%2Ff
-[/us/pl/95/623/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs5%2Fc%2F2
-[/us/pl/95/623/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs8%2Fa
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/101/527/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527%2Fs12
+[/us/pl/101/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527
 [/us/stat/104/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2335
 [/us/usc/t42/s292h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292h
-[/us/pl/100/177/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs105%2Fb
+[/us/pl/100/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtI
 [/us/stat/101/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F988
-[/us/pl/103/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333
+[/us/pl/103/333/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtII
 [/us/stat/108/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2550
 
 

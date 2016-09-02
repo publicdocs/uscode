@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be deemed to exempt from the antitrust laws of the United States any conduct that would otherwise be unlawful under such laws, or to prohibit under the antitrust laws of the United States any conduct that would be lawful under such laws. As used in this section, the term “antitrust laws” includes, but is not limited to, the Act of July 2, 1890, as amended; the Act of October 14, 1914, as amended; the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.); and sections 73 and 74 of the Act of August 27, 1894, as amended.
 
-([Pub. L. 93–383, title VI, § 618][/us/pl/93/383/s618], Aug. 22, 1974, [88 Stat. 711][/us/stat/88/711].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 618, Aug. 22, 1974, [88 Stat. 711][/us/stat/88/711].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/93/383/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs618
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F711
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F209

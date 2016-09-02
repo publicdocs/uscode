@@ -27,7 +27,7 @@
 
         The advisory committee shall terminate October 1, 1981.
 
-([Pub. L. 95–619, title V, § 568][/us/pl/95/619/s568], Nov. 9, 1978, [92 Stat. 3281][/us/stat/92/3281].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 568, Nov. 9, 1978, [92 Stat. 3281][/us/stat/92/3281].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/619/s568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs568
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3281
 
 

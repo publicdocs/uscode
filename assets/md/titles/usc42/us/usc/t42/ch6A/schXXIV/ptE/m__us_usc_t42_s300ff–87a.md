@@ -69,7 +69,7 @@
 
         In pursuing the National HIV/AIDS testing goal, the Secretary, where appropriate, shall consider and coordinate with other national strategies conducted by the Federal Government to address HIV/AIDS.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2688, as added [Pub. L. 111–87, § 12(2)][/us/pl/111/87/s12/2], Oct. 30, 2009, [123 Stat. 2896][/us/stat/123/2896].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2688, as added [Pub. L. 111–87][/us/pl/111/87], § 12(2), Oct. 30, 2009, [123 Stat. 2896][/us/stat/123/2896].)
 
  __Prior Provisions__ 
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/87/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs12%2F2
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2896
 [/us/usc/t42/s300ff–88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9388
 [/us/usc/t42/s300ff–88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9388

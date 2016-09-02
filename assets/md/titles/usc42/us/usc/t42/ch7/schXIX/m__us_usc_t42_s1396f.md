@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to require any State which has a plan approved under this subchapter to compel any person to undergo any medical screening, examination, diagnosis, or treatment or to accept any other health care or services provided under such plan for any purpose (other than for the purpose of discovering and preventing the spread of infection or contagious disease or for the purpose of protecting environmental health), if such person objects (or, in case such person is a child, his parent or guardian objects) thereto on religious grounds.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1907, as added [Pub. L. 90–248, title II, § 232][/us/pl/90/248/s232], Jan. 2, 1968, [81 Stat. 905][/us/stat/81/905].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1907, as added [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 232, Jan. 2, 1968, [81 Stat. 905][/us/stat/81/905].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs232
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F905
 
 

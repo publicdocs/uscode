@@ -31,7 +31,7 @@
 
         In this section, the term “cruel, inhuman, or degrading treatment or punishment” means the cruel, unusual, and inhumane treatment or punishment prohibited by the Fifth, Eighth, and Fourteenth Amendments to the Constitution of the United States, as defined in the United States Reservations, Declarations and Understandings to the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment done at New York, December 10, 1984.
 
-([Pub. L. 109–148, div. A, title X, § 1003][/us/pl/109/148/s1003], Dec. 30, 2005, [119 Stat. 2739][/us/stat/119/2739]; [Pub. L. 109–163, div. A, title XIV, § 1403][/us/pl/109/163/s1403], Jan. 6, 2006, [119 Stat. 3475][/us/stat/119/3475].)
+([Pub. L. 109–148, div. A, title X][/us/pl/109/148/dA/tX], § 1003, Dec. 30, 2005, [119 Stat. 2739][/us/stat/119/2739]; [Pub. L. 109–163, div. A, title XIV][/us/pl/109/163/dA/tXIV], § 1403, Jan. 6, 2006, [119 Stat. 3475][/us/stat/119/3475].)
 
  __References in Text__ 
 
@@ -43,13 +43,13 @@
 
  __Short Title__ 
 
-[Pub. L. 109–148, div. A, title X, § 1001][/us/pl/109/148/s1001], Dec. 30, 2005, [119 Stat. 2739][/us/stat/119/2739], and [Pub. L. 109–163, div. A, title XIV, § 1401][/us/pl/109/163/s1401], Jan. 6, 2006, [119 Stat. 3474][/us/stat/119/3474], provided that: 
+[Pub. L. 109–148, div. A, title X][/us/pl/109/148/dA/tX], § 1001, Dec. 30, 2005, [119 Stat. 2739][/us/stat/119/2739], and [Pub. L. 109–163, div. A, title XIV][/us/pl/109/163/dA/tXIV], § 1401, Jan. 6, 2006, [119 Stat. 3474][/us/stat/119/3474], provided that: 
 
 > “This title \[enacting this chapter, amending [section 2241 of Title 28][/us/usc/t28/s2241], Judiciary and Judicial Procedure, and enacting provisions set out as a note under [section 801 of Title 10][/us/usc/t10/s801], Armed Forces\] may be cited as the ‘Detainee Treatment Act of 2005’.”
 
  __United States Policy Toward Detainees__ 
 
-[Pub. L. 110–53, title XX, § 2034][/us/pl/110/53/s2034], Aug. 3, 2007, [121 Stat. 517][/us/stat/121/517], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2034, Aug. 3, 2007, [121 Stat. 517][/us/stat/121/517], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -178,20 +178,20 @@
 ----------
 ----------
 
-[/us/pl/109/148/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs1003
+[/us/pl/109/148/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtX
 [/us/stat/119/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2739
-[/us/pl/109/163/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1403
+[/us/pl/109/163/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXIV
 [/us/stat/119/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3475
 [/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
 [/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/148/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs1001
+[/us/pl/109/148/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtX
 [/us/stat/119/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2739
-[/us/pl/109/163/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1401
+[/us/pl/109/163/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXIV
 [/us/stat/119/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3474
 [/us/usc/t28/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2241
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
-[/us/pl/110/53/s2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2034
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F517
 [/us/usc/t18/s2340–234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2340%E2%80%93234
 [/us/usc/t42/s2000dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd

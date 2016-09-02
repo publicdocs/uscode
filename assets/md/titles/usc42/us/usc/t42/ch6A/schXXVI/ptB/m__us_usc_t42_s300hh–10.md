@@ -219,7 +219,7 @@
 
         In carrying out subsections (b)(7) and (d), the Secretary shall ensure that information and items that could compromise national security, contain confidential commercial information, or contain proprietary information are not disclosed.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2811, as added [Pub. L. 109–417, title I, § 102(a)(3)][/us/pl/109/417/s102/a/3], Dec. 19, 2006, [120 Stat. 2833][/us/stat/120/2833]; amended [Pub. L. 113–5, title I, § 102(a)][/us/pl/113/5/s102/a], Mar. 13, 2013, [127 Stat. 163][/us/stat/127/163].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2811, as added [Pub. L. 109–417, title I][/us/pl/109/417/tI], § 102(a)(3), Dec. 19, 2006, [120 Stat. 2833][/us/stat/120/2833]; amended [Pub. L. 113–5, title I][/us/pl/113/5/tI], § 102(a), Mar. 13, 2013, [127 Stat. 163][/us/stat/127/163].)
 
  __References in Text__ 
 
@@ -235,19 +235,19 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(3). [Pub. L. 113–5, § 102(a)(1)(A)][/us/pl/113/5/s102/a/1/A], inserted “, security countermeasures (as defined in [section 247d–6b of this title][/us/usc/t42/s247d–6b]),” after “qualified countermeasures (as defined in [section 247d–6a of this title][/us/usc/t42/s247d–6a])”.
+    2013—Subsec. (b)(3). [Pub. L. 113–5][/us/pl/113/5], § 102(a)(1)(A), inserted “, security countermeasures (as defined in [section 247d–6b of this title][/us/usc/t42/s247d–6b]),” after “qualified countermeasures (as defined in [section 247d–6a of this title][/us/usc/t42/s247d–6a])”.
 
-    Subsec. (b)(4)(D) to (H). [Pub. L. 113–5, § 102(a)(1)(B)][/us/pl/113/5/s102/a/1/B], added subpars. (D) to (H).
+    Subsec. (b)(4)(D) to (H). [Pub. L. 113–5][/us/pl/113/5], § 102(a)(1)(B), added subpars. (D) to (H).
 
-    Subsec. (b)(7). [Pub. L. 113–5, § 102(a)(1)(C)][/us/pl/113/5/s102/a/1/C], added par. (7).
+    Subsec. (b)(7). [Pub. L. 113–5][/us/pl/113/5], § 102(a)(1)(C), added par. (7).
 
-    Subsec. (c). [Pub. L. 113–5, § 102(a)(2)][/us/pl/113/5/s102/a/2], added subsec. (c) and struck out former subsec. (c) which directed that the Assistant Secretary would have authority over and responsibility for the National Disaster Medical System and the Hospital Preparedness Cooperative Agreement Program, would exercise the responsibilities and authorities of the Secretary with respect to the coordination of the Medical Reserve Corps, the Emergency System for Advance Registration of Volunteer Health Professionals, the Strategic National Stockpile, and the Cities Readiness Initiative, and would assume other duties as determined appropriate by the Secretary.
+    Subsec. (c). [Pub. L. 113–5][/us/pl/113/5], § 102(a)(2), added subsec. (c) and struck out former subsec. (c) which directed that the Assistant Secretary would have authority over and responsibility for the National Disaster Medical System and the Hospital Preparedness Cooperative Agreement Program, would exercise the responsibilities and authorities of the Secretary with respect to the coordination of the Medical Reserve Corps, the Emergency System for Advance Registration of Volunteer Health Professionals, the Strategic National Stockpile, and the Cities Readiness Initiative, and would assume other duties as determined appropriate by the Secretary.
 
-    Subsecs. (d), (e). [Pub. L. 113–5, § 102(a)(3)][/us/pl/113/5/s102/a/3], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 113–5][/us/pl/113/5], § 102(a)(3), added subsecs. (d) and (e).
 
  __Transfer of Functions__ 
 
-[Pub. L. 109–417, title I, § 102(b)][/us/pl/109/417/s102/b], Dec. 19, 2006, [120 Stat. 2834][/us/stat/120/2834], provided that:
+[Pub. L. 109–417, title I][/us/pl/109/417/tI], § 102(b), Dec. 19, 2006, [120 Stat. 2834][/us/stat/120/2834], provided that:
 
 >     “(1)  __Transfer of functions__  __.—__ 
 
@@ -259,7 +259,7 @@
 
  __Interagency Coordination Plan__ 
 
-[Pub. L. 113–5, title I, § 102(b)][/us/pl/113/5/s102/b], Mar. 13, 2013, [127 Stat. 168][/us/stat/127/168], provided that: 
+[Pub. L. 113–5, title I][/us/pl/113/5/tI], § 102(b), Mar. 13, 2013, [127 Stat. 168][/us/stat/127/168], provided that: 
 
 > “In the first Public Health Emergency \[Medical\] Countermeasures Enterprise Strategy and Implementation Plan submitted under subsection (d) of section 2811 of the Public Health Service Act ([42 U.S.C. 300hh–10][/us/usc/t42/s300hh–10]) (as added by subsection (a)(3)), the Secretary of Health and Human Services, in consultation with the Secretary of Defense, shall include a description of the manner in which the Department of Health and Human Services is coordinating with the Department of Defense regarding countermeasure activities to address chemical, biological, radiological, and nuclear threats. Such report shall include information with respect to—
 
@@ -297,9 +297,9 @@
 [/us/usc/t42/s247d–6a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936a%2Fd
 [/us/usc/t42/s247d–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F3
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2833
-[/us/pl/113/5/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs102%2Fa
+[/us/pl/113/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtI
 [/us/stat/127/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F163
 [/us/usc/t6/s314/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314%2Fa%2F6
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
@@ -310,16 +310,16 @@
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
-[/us/pl/113/5/s102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs102%2Fa%2F1%2FA
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t42/s247d–6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936a
-[/us/pl/113/5/s102/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs102%2Fa%2F1%2FB
-[/us/pl/113/5/s102/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs102%2Fa%2F1%2FC
-[/us/pl/113/5/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs102%2Fa%2F2
-[/us/pl/113/5/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs102%2Fa%2F3
-[/us/pl/109/417/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fb
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2834
-[/us/pl/113/5/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs102%2Fb
+[/us/pl/113/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtI
 [/us/stat/127/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F168
 [/us/usc/t42/s300hh–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9310
 

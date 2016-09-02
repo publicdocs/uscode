@@ -63,11 +63,11 @@
 
         For the purpose of carrying out the duties and responsibilities of the Commissioned Corps under this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 203, [58 Stat. 683][/us/stat/58/683]; [Feb. 28, 1948, ch. 83, § 2][/us/act/1948-02-28/ch83/s2], [62 Stat. 39][/us/stat/62/39]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 96–76, title III, § 302(a)][/us/pl/96/76/s302/a], Sept. 29, 1979, [93 Stat. 584][/us/stat/93/584]; [Pub. L. 111–148, title V, § 5210][/us/pl/111/148/s5210], Mar. 23, 2010, [124 Stat. 614][/us/stat/124/614]; [Pub. L. 112–166, § 2(ff)(1)][/us/pl/112/166/s2/ff/1], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 203, [58 Stat. 683][/us/stat/58/683]; [Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 2, [62 Stat. 39][/us/stat/62/39]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 302(a), Sept. 29, 1979, [93 Stat. 584][/us/stat/93/584]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5210, Mar. 23, 2010, [124 Stat. 614][/us/stat/124/614]; [Pub. L. 112–166][/us/pl/112/166], § 2(ff)(1), Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
  __References in Text__ 
 
-    The Classification Act of 1923, as amended, referred to in subsec. (a)(2), is [act Mar. 4, 1923, ch. 265][/us/act/1923-03-04/ch265], [42 Stat. 1488][/us/stat/42/1488], which was classified to section 661 et seq. of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by [act Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XII, § 1202, [63 Stat. 972][/us/stat/63/972].
+    The Classification Act of 1923, as amended, referred to in subsec. (a)(2), is [act Mar. 4, 1923, ch. 265][/us/act/1923-03-04/ch265], [42 Stat. 1488][/us/stat/42/1488], which was classified to section 661 et seq. of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by [act Oct. 28, 1949, ch. 782, title XII][/us/act/1949-10-28/ch782/tXII], § 1202, [63 Stat. 972][/us/stat/63/972].
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Reports__ 
 
-[Pub. L. 111–148, title V, § 5701][/us/pl/111/148/s5701], Mar. 23, 2010, [124 Stat. 684][/us/stat/124/684], provided that:
+[Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5701, Mar. 23, 2010, [124 Stat. 684][/us/stat/124/684], provided that:
 
 >     “(a)  __Reports by Secretary of Health and Human Services__  __.—__ 
 
@@ -103,7 +103,7 @@
 
  __Osteopaths as Reserve Officers__ 
 
-    Section 709 of act July 1, 1944, formerly § 609, renumbered § 709 by [act Aug. 13, 1946, ch. 958, § 5][/us/act/1946-08-13/ch958/s5], [60 Stat. 1049][/us/stat/60/1049], which provided for appointment of osteopaths as reserve officers until six months after World War II, was repealed by Joint Res. [July 25, 1947, ch. 327, § 1][/us/act/1947-07-25/ch327/s1], [61 Stat. 449][/us/stat/61/449].
+    Section 709 of act July 1, 1944, formerly § 609, renumbered § 709 by [act Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 5, [60 Stat. 1049][/us/stat/60/1049], which provided for appointment of osteopaths as reserve officers until six months after World War II, was repealed by Joint Res. [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 1, [61 Stat. 449][/us/stat/61/449].
 
  __Delegation of Authority to Appoint Commissioned Officers of the Ready Reserve Corps of the Public Health Service__ 
 
@@ -141,19 +141,19 @@
 [/us/usc/t42/s295p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295p
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F683
-[/us/act/1948-02-28/ch83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs2
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F39
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/96/76/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs302%2Fa
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F584
-[/us/pl/111/148/s5210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5210
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F614
-[/us/pl/112/166/s2/ff/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fff%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
 [/us/act/1923-03-04/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch265
 [/us/stat/42/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1488
-[/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
+[/us/act/1949-10-28/ch782/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782%2FtXII
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
@@ -163,11 +163,11 @@
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/pl/111/148/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5701
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F684
-[/us/act/1946-08-13/ch958/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs5
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
-[/us/act/1947-07-25/ch327/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs1
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F449
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

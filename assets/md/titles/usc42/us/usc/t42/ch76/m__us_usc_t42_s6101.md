@@ -17,7 +17,7 @@
 
     It is the purpose of this chapter to prohibit discrimination on the basis of age in programs or activities receiving Federal financial assistance.
 
-([Pub. L. 94–135, title III, § 302][/us/pl/94/135/s302], Nov. 28, 1975, [89 Stat. 728][/us/stat/89/728]; [Pub. L. 95–478, title IV, § 401(a)][/us/pl/95/478/s401/a], Oct. 18, 1978, [92 Stat. 1555][/us/stat/92/1555]; [Pub. L. 99–272, title XIV, § 14001(b)(4)][/us/pl/99/272/s14001/b/4], Apr. 7, 1986, [100 Stat. 329][/us/stat/100/329].)
+([Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 302, Nov. 28, 1975, [89 Stat. 728][/us/stat/89/728]; [Pub. L. 95–478, title IV][/us/pl/95/478/tIV], § 401(a), Oct. 18, 1978, [92 Stat. 1555][/us/stat/92/1555]; [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(b)(4), Apr. 7, 1986, [100 Stat. 329][/us/stat/100/329].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 94–135, title III, § 301][/us/pl/94/135/s301], Nov. 28, 1975, [89 Stat. 728][/us/stat/89/728], provided that: 
+[Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 301, Nov. 28, 1975, [89 Stat. 728][/us/stat/89/728], provided that: 
 
 > “The provisions of this title \[enacting this chapter\] may be cited as the ‘Age Discrimination Act of 1975’.”
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/94/135/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs302
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728
-[/us/pl/95/478/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fa
+[/us/pl/95/478/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtIV
 [/us/stat/92/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1555
-[/us/pl/99/272/s14001/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fb%2F4
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F329
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t31/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1221
@@ -61,7 +61,7 @@
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/95/478/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs504
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/94/135/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs301
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728
 
 

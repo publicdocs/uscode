@@ -155,13 +155,13 @@
 
             The term “State” does not include Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 
-([Pub. L. 89–73, title V, § 506][/us/pl/89/73/s506], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2576][/us/stat/120/2576].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 506, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2576][/us/stat/120/2576].)
 
  __Prior Provisions__ 
 
-    A prior section 3056d, [Pub. L. 89–73, title V, § 506][/us/pl/89/73/s506], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2276][/us/stat/114/2276], related to distribution of assistance, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
+    A prior section 3056d, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 506, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2276][/us/stat/114/2276], related to distribution of assistance, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
 
-    Another prior section 3056d, [Pub. L. 89–73, title V, § 506][/us/pl/89/73/s506], formerly title IX, § 906, as added [Pub. L. 94–135, title I, § 113(a)][/us/pl/94/135/s113/a], Nov. 28, 1975, [89 Stat. 723][/us/stat/89/723]; renumbered title V, § 506, and amended [Pub. L. 95–478, title I, § 105(a)][/us/pl/95/478/s105/a], (e), Oct. 18, 1978, [92 Stat. 1547][/us/stat/92/1547], 1548; [Pub. L. 97–115, § 12(e)][/us/pl/97/115/s12/e], Dec. 29, 1981, [95 Stat. 1607][/us/stat/95/1607]; [Pub. L. 98–459, title V, § 503(a)][/us/pl/98/459/s503/a], (b), Oct. 9, 1984, [98 Stat. 1787][/us/stat/98/1787]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 162(b), 182(b)(3), Nov. 29, 1987, [101 Stat. 957][/us/stat/101/957], 964; [Pub. L. 102–375, title V, § 504(a)][/us/pl/102/375/s504/a]–(c)(1), (3), title IX, § 904(b)(2), Sept. 30, 1992, [106 Stat. 1267–1269][/us/stat/106/1267-1269], 1309, related to national grants or contracts and State allotments for projects, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
+    Another prior section 3056d, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 506, formerly title IX, § 906, as added [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 113(a), Nov. 28, 1975, [89 Stat. 723][/us/stat/89/723]; renumbered title V, § 506, and amended [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 105(a), (e), Oct. 18, 1978, [92 Stat. 1547][/us/stat/92/1547], 1548; [Pub. L. 97–115][/us/pl/97/115], § 12(e), Dec. 29, 1981, [95 Stat. 1607][/us/stat/95/1607]; [Pub. L. 98–459, title V][/us/pl/98/459/tV], § 503(a), (b), Oct. 9, 1984, [98 Stat. 1787][/us/stat/98/1787]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 162(b), 182(b)(3), Nov. 29, 1987, [101 Stat. 957][/us/stat/101/957], 964; [Pub. L. 102–375, title V][/us/pl/102/375/tV], § 504(a)–(c)(1), (3), title IX, § 904(b)(2), Sept. 30, 1992, [106 Stat. 1267–1269][/us/stat/106/1267-1269], 1309, related to national grants or contracts and State allotments for projects, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
 
     Another prior [section 506 of Pub. L. 89–73][/us/pl/89/73/s506] was classified to [section 3041e of this title][/us/usc/t42/s3041e], prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
@@ -174,25 +174,25 @@
 
 [/us/usc/t42/s3056/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056%2Fe
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/89/73/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs506
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2576
-[/us/pl/89/73/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs506
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2276
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
-[/us/pl/89/73/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs506
-[/us/pl/94/135/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs113%2Fa
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F723
-[/us/pl/95/478/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs105%2Fa
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1547
-[/us/pl/97/115/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs12%2Fe
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1607
-[/us/pl/98/459/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs503%2Fa
+[/us/pl/98/459/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtV
 [/us/stat/98/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1787
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F957
-[/us/pl/102/375/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs504%2Fa
+[/us/pl/102/375/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtV
 [/us/stat/106/1267-1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1267-1269
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/89/73/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs506

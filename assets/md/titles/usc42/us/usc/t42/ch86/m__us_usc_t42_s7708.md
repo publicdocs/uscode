@@ -41,7 +41,7 @@
 
         (9) $21,930,000 for fiscal year 2009, all of which shall be available for operations and maintenance.
 
-([Pub. L. 95–124, § 14][/us/pl/95/124/s14], as added [Pub. L. 106–503, title II, § 205][/us/pl/106/503/s205], Nov. 13, 2000, [114 Stat. 2306][/us/stat/114/2306]; amended [Pub. L. 108–360, title I, § 104(c)][/us/pl/108/360/s104/c], Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675].)
+([Pub. L. 95–124][/us/pl/95/124], § 14, as added [Pub. L. 106–503, title II][/us/pl/106/503/tII], § 205, Nov. 13, 2000, [114 Stat. 2306][/us/stat/114/2306]; amended [Pub. L. 108–360, title I][/us/pl/108/360/tI], § 104(c), Oct. 25, 2004, [118 Stat. 1675][/us/stat/118/1675].)
 
  __Amendments__ 
 
@@ -55,10 +55,10 @@
 ----------
 
 [/us/usc/t42/s7706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7706%2Fc
-[/us/pl/95/124/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs14
-[/us/pl/106/503/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs205
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2306
-[/us/pl/108/360/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs104%2Fc
+[/us/pl/108/360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtI
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675
 [/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
 

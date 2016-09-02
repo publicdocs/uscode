@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated for carrying out this section $5,000,000 for each fiscal year.
 
-([Pub. L. 110–140, title VII, § 707][/us/pl/110/140/s707], Dec. 19, 2007, [121 Stat. 1710][/us/stat/121/1710].)
+([Pub. L. 110–140, title VII][/us/pl/110/140/tVII], § 707, Dec. 19, 2007, [121 Stat. 1710][/us/stat/121/1710].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs707
+[/us/pl/110/140/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVII
 [/us/stat/121/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1710
 
 

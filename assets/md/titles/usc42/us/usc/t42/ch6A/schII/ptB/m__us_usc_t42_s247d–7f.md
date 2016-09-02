@@ -129,15 +129,15 @@
 
         There are authorized to be appropriated $1,000,000 to carry out this section for fiscal year 2007 and each fiscal year thereafter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319M, as added [Pub. L. 109–417, title IV, § 402][/us/pl/109/417/s402], Dec. 19, 2006, [120 Stat. 2872][/us/stat/120/2872]; amended [Pub. L. 113–5, title IV, § 404][/us/pl/113/5/s404], Mar. 13, 2013, [127 Stat. 197][/us/stat/127/197].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319M, as added [Pub. L. 109–417, title IV][/us/pl/109/417/tIV], § 402, Dec. 19, 2006, [120 Stat. 2872][/us/stat/120/2872]; amended [Pub. L. 113–5, title IV][/us/pl/113/5/tIV], § 404, Mar. 13, 2013, [127 Stat. 197][/us/stat/127/197].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 113–5, § 404(1)(B)][/us/pl/113/5/s404/1/B], inserted concluding provisions.
+    2013—Subsec. (a)(2). [Pub. L. 113–5][/us/pl/113/5], § 404(1)(B), inserted concluding provisions.
 
-    Subsec. (a)(2)(D)(iii), (iv). [Pub. L. 113–5, § 404(1)(A)][/us/pl/113/5/s404/1/A], added cls. (iii) and (iv).
+    Subsec. (a)(2)(D)(iii), (iv). [Pub. L. 113–5][/us/pl/113/5], § 404(1)(A), added cls. (iii) and (iv).
 
-    Subsec. (a)(5)(D). [Pub. L. 113–5, § 404(2)][/us/pl/113/5/s404/2], added subpar. (D).
+    Subsec. (a)(5)(D). [Pub. L. 113–5][/us/pl/113/5], § 404(2), added subpar. (D).
 
 ----------
 
@@ -150,12 +150,12 @@
 [/us/usc/t42/s247d–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937e
 [/us/usc/t42/s247d–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs402
+[/us/pl/109/417/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIV
 [/us/stat/120/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2872
-[/us/pl/113/5/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs404
+[/us/pl/113/5/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIV
 [/us/stat/127/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F197
-[/us/pl/113/5/s404/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs404%2F1%2FB
-[/us/pl/113/5/s404/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs404%2F1%2FA
-[/us/pl/113/5/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs404%2F2
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 
 

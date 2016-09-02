@@ -17,7 +17,7 @@
 
     In recognition of the increasing need for soil surveys by the States and other public agencies in connection with community planning and resource development for protecting and improving the quality of the environment, meeting recreational needs, conserving land and water resources, providing for multiple uses of such resources, and controlling and reducing pollution from sediment and other pollutants in areas of rapidly changing uses, including farmlands being shifted to other uses, resulting from rapid expansions in the uses of land for industry, housing, transportation, recreation, and related services, it is the sense of Congress that the soil survey program of the United States Department of Agriculture should be conducted so as to make available soil surveys to meet such needs of the States and other public agencies in connection with community planning and resource development.
 
-([Pub. L. 89–560, § 1][/us/pl/89/560/s1], Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
+([Pub. L. 89–560][/us/pl/89/560], § 1, Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/560/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560%2Fs1
+[/us/pl/89/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560
 [/us/stat/80/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F706
 
 

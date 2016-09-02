@@ -49,21 +49,21 @@
 
             Each entity applying for a grant under subsection (a) of this section for traineeships shall assure to the satisfaction of the Secretary that the entity will give priority to awarding the traineeships to students who demonstrate a commitment to employment with public or nonprofit private entities in the fields with respect to which the traineeships are awarded.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 769, as added [Pub. L. 105–392, title I, § 105][/us/pl/105/392/s105], Nov. 13, 1998, [112 Stat. 3556][/us/stat/112/3556].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 769, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 105, Nov. 13, 1998, [112 Stat. 3556][/us/stat/112/3556].)
 
  __Prior Provisions__ 
 
-    A prior section 295d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 765, as added Dec. 25, 1970, [Pub. L. 91–696, § 101][/us/pl/91/696/s101], [84 Stat. 2080–3][/us/stat/84/2080-3]; amended Oct. 17, 1979, [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, [93 Stat. 677][/us/stat/93/677], 692, related to requisites for approval of grants, establishment of separate medical school departments of family medicine, establishment of special hospital programs of family medicine, and supplementation of non-Federal funds, prior to repeal by [Pub. L. 99–129, title II, § 220(c)][/us/pl/99/129/s220/c], Oct. 22, 1985, [99 Stat. 544][/us/stat/99/544].
+    A prior section 295d, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 765, as added Dec. 25, 1970, [Pub. L. 91–696][/us/pl/91/696], § 101, [84 Stat. 2080–3][/us/stat/84/2080-3]; amended Oct. 17, 1979, [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, [93 Stat. 677][/us/stat/93/677], 692, related to requisites for approval of grants, establishment of separate medical school departments of family medicine, establishment of special hospital programs of family medicine, and supplementation of non-Federal funds, prior to repeal by [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 220(c), Oct. 22, 1985, [99 Stat. 544][/us/stat/99/544].
 
-    Another prior section 295d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 765, as added Oct. 31, 1963, [Pub. L. 88–164, title I, § 101][/us/pl/88/164/s101], [77 Stat. 284][/us/stat/77/284], related to noninterference with administration of institutions respecting grants for construction of mental retardation facilities, prior to the general amendment of former part D of this subchapter by [section 101 of Pub. L. 91–696][/us/pl/91/696/s101].
+    Another prior section 295d, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 765, as added Oct. 31, 1963, [Pub. L. 88–164, title I][/us/pl/88/164/tI], § 101, [77 Stat. 284][/us/stat/77/284], related to noninterference with administration of institutions respecting grants for construction of mental retardation facilities, prior to the general amendment of former part D of this subchapter by [section 101 of Pub. L. 91–696][/us/pl/91/696/s101].
 
-    Prior sections 295d–1 and 295d–2 were repealed by [Pub. L. 99–129, title II, § 220(c)][/us/pl/99/129/s220/c], Oct. 22, 1985, [99 Stat. 544][/us/stat/99/544].
+    Prior sections 295d–1 and 295d–2 were repealed by [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 220(c), Oct. 22, 1985, [99 Stat. 544][/us/stat/99/544].
 
-    Section 295d–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 766, as added Dec. 25, 1970, [Pub. L. 91–696, § 101][/us/pl/91/696/s101], [84 Stat. 2080–4][/us/stat/84/2080-4], related to establishment and funding of planning and developmental grants.
+    Section 295d–1, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 766, as added Dec. 25, 1970, [Pub. L. 91–696][/us/pl/91/696], § 101, [84 Stat. 2080–4][/us/stat/84/2080-4], related to establishment and funding of planning and developmental grants.
 
-    Another prior section 295d–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 766, as added Oct. 31, 1963, [Pub. L. 88–164, title I, § 101][/us/pl/88/164/s101], [77 Stat. 284][/us/stat/77/284], related to definitions in connection with grants for construction of mental retardation research facilities, prior to the general amendment of former part D of this subchapter by [section 101 of Pub. L. 91–696][/us/pl/91/696/s101].
+    Another prior section 295d–1, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 766, as added Oct. 31, 1963, [Pub. L. 88–164, title I][/us/pl/88/164/tI], § 101, [77 Stat. 284][/us/stat/77/284], related to definitions in connection with grants for construction of mental retardation research facilities, prior to the general amendment of former part D of this subchapter by [section 101 of Pub. L. 91–696][/us/pl/91/696/s101].
 
-    Section 295d–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 767, as added Dec. 25, 1970, [Pub. L. 91–696, § 101][/us/pl/91/696/s101], [84 Stat. 2080–4][/us/stat/84/2080-4], established Advisory Council on Family Medicine and provided for its composition, term and compensation of its members, and its duties and functions.
+    Section 295d–2, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 767, as added Dec. 25, 1970, [Pub. L. 91–696][/us/pl/91/696], § 101, [84 Stat. 2080–4][/us/stat/84/2080-4], established Advisory Council on Family Medicine and provided for its composition, term and compensation of its members, and its duties and functions.
 
 ----------
 
@@ -73,30 +73,30 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs105
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3556
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/696/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696%2Fs101
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/91/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696
 [/us/stat/84/2080-3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2080-3
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/99/129/s220/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs220%2Fc
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F544
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs101
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2FtI
 [/us/stat/77/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F284
 [/us/pl/91/696/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696%2Fs101
-[/us/pl/99/129/s220/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs220%2Fc
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F544
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/696/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696%2Fs101
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/91/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696
 [/us/stat/84/2080-4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2080-4
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs101
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2FtI
 [/us/stat/77/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F284
 [/us/pl/91/696/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696%2Fs101
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/696/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696%2Fs101
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/91/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696
 [/us/stat/84/2080-4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2080-4
 
 

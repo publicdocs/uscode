@@ -17,7 +17,7 @@
 
     Eligibility for Federal assistance under this subchapter shall begin on the date of the occurrence of the event which results in a declaration by the President that a major disaster exists; except that reasonable expenses which are incurred in anticipation of and immediately preceding such event may be eligible for Federal assistance under this chapter.
 
-([Pub. L. 93–288, title IV, § 424][/us/pl/93/288/s424], as added [Pub. L. 100–707, title I, § 106][/us/pl/100/707/s106](l), Nov. 23, 1988, [102 Stat. 4706][/us/stat/102/4706].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 424, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(l), Nov. 23, 1988, [102 Stat. 4706][/us/stat/102/4706].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs424
-[/us/pl/100/707/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4706
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

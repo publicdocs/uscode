@@ -17,7 +17,7 @@
 
     Except as otherwise specifically provided, nothing in this subchapter shall be construed as conferring on any Federal officer or employee the right to exercise any supervision or control over the administration, personnel, maintenance, or operation of any programs, services, and supports for individuals with developmental disabilities with respect to which any funds have been or may be expended under this subchapter.
 
-([Pub. L. 106–402, title I, § 106][/us/pl/106/402/s106], Oct. 30, 2000, [114 Stat. 1691][/us/stat/114/1691].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 106, Oct. 30, 2000, [114 Stat. 1691][/us/stat/114/1691].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs106
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1691
 
 

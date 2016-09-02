@@ -139,7 +139,7 @@
 
             There is authorized to be appropriated to carry out paragraphs (2) and (3) of subsection (c) of this section $100,000,000.
 
-([Pub. L. 106–541, title V, § 506][/us/pl/106/541/s506], Dec. 11, 2000, [114 Stat. 2645][/us/stat/114/2645]; [Pub. L. 110–114, title V, § 5011][/us/pl/110/114/s5011], Nov. 8, 2007, [121 Stat. 1194][/us/stat/121/1194].)
+([Pub. L. 106–541, title V][/us/pl/106/541/tV], § 506, Dec. 11, 2000, [114 Stat. 2645][/us/stat/114/2645]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5011, Nov. 8, 2007, [121 Stat. 1194][/us/stat/121/1194].)
 
  __References in Text__ 
 
@@ -151,13 +151,13 @@
 
  __Amendments__ 
 
-    2007—Subsec. (c)(2) to (4). [Pub. L. 110–114, § 5011(a)][/us/pl/110/114/s5011/a], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in subpar. (A) of par. (4).
+    2007—Subsec. (c)(2) to (4). [Pub. L. 110–114][/us/pl/110/114], § 5011(a), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in subpar. (A) of par. (4).
 
-    Subsec. (f)(2). [Pub. L. 110–114, § 5011(b)(1)][/us/pl/110/114/s5011/b/1], substituted “Except for reconnaissance studies, the Federal share” for “The Federal share” and “(3) or (4)” for “(2) or (3)”.
+    Subsec. (f)(2). [Pub. L. 110–114][/us/pl/110/114], § 5011(b)(1), substituted “Except for reconnaissance studies, the Federal share” for “The Federal share” and “(3) or (4)” for “(2) or (3)”.
 
-    Subsec. (f)(3). [Pub. L. 110–114, § 5011(b)(2)][/us/pl/110/114/s5011/b/2], substituted “subsection (c)(3)” for “subsection (c)(2)” in subpar. (A) and “100 percent” for “50 percent” in subpar. (B).
+    Subsec. (f)(3). [Pub. L. 110–114][/us/pl/110/114], § 5011(b)(2), substituted “subsection (c)(3)” for “subsection (c)(2)” in subpar. (A) and “100 percent” for “50 percent” in subpar. (B).
 
-    Subsec. (f)(5). [Pub. L. 110–114, § 5011(b)(3)][/us/pl/110/114/s5011/b/3], substituted “In accordance with” for “Notwithstanding”.
+    Subsec. (f)(5). [Pub. L. 110–114][/us/pl/110/114], § 5011(b)(3), substituted “In accordance with” for “Notwithstanding”.
 
  __Definitions__ 
 
@@ -173,14 +173,14 @@
 [/us/stat/82/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F414
 [/us/usc/t16/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs931
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/106/541/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs506
+[/us/pl/106/541/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtV
 [/us/stat/114/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2645
-[/us/pl/110/114/s5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5011
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1194
-[/us/pl/110/114/s5011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5011%2Fa
-[/us/pl/110/114/s5011/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5011%2Fb%2F1
-[/us/pl/110/114/s5011/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5011%2Fb%2F2
-[/us/pl/110/114/s5011/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5011%2Fb%2F3
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

@@ -75,11 +75,11 @@
 
             NASA shall retain its roles and responsibilities in providing research payload physical, analytical, and operations integration during pre-flight, post-flight, transportation, and orbital phases essential to ensure safe and effective flight readiness and vehicle integration of research activities approved and prioritized by the organization with which the Administrator enters into the cooperative agreement and the official or employee designated under subsection (b).
 
-([Pub. L. 111–267, title V, § 504][/us/pl/111/267/s504], Oct. 11, 2010, [124 Stat. 2825][/us/stat/124/2825]; [Pub. L. 114–90, title I, § 114(b)(3)][/us/pl/114/90/s114/b/3], Nov. 25, 2015, [129 Stat. 716][/us/stat/129/716].)
+([Pub. L. 111–267, title V][/us/pl/111/267/tV], § 504, Oct. 11, 2010, [124 Stat. 2825][/us/stat/124/2825]; [Pub. L. 114–90, title I][/us/pl/114/90/tI], § 114(b)(3), Nov. 25, 2015, [129 Stat. 716][/us/stat/129/716].)
 
  __Codification__ 
 
-    In subsec. (c)(3), “[section 70906 of title 51][/us/usc/t51/s70906]” substituted for “section 602 of the National Aeronautics and Space Administration Authorization Act of 2008 ([42 U.S.C. 17752][/us/usc/t42/s17752])” on authority of [Pub. L. 111–314, § 5(e)][/us/pl/111/314/s5/e], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
+    In subsec. (c)(3), “[section 70906 of title 51][/us/usc/t51/s70906]” substituted for “section 602 of the National Aeronautics and Space Administration Authorization Act of 2008 ([42 U.S.C. 17752][/us/usc/t42/s17752])” on authority of [Pub. L. 111–314][/us/pl/111/314], § 5(e), Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
 
  __Amendments__ 
 
@@ -94,13 +94,13 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t51/s70906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70906
-[/us/pl/111/267/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs504
+[/us/pl/111/267/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtV
 [/us/stat/124/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2825
-[/us/pl/114/90/s114/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs114%2Fb%2F3
+[/us/pl/114/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2FtI
 [/us/stat/129/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F716
 [/us/usc/t51/s70906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70906
 [/us/usc/t42/s17752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17752
-[/us/pl/111/314/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs5%2Fe
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3443
 [/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 

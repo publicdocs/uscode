@@ -55,43 +55,43 @@
 
         (5) financing public information activities that focus on the healthy and positive development of parents and children and the promotion of child abuse and neglect prevention activities.
 
-([Pub. L. 93–247, title II, § 201][/us/pl/93/247/s201], as added [Pub. L. 104–235, title I, § 121][/us/pl/104/235/s121], Oct. 3, 1996, [110 Stat. 3080][/us/stat/110/3080]; amended [Pub. L. 108–36, title I, § 121(a)][/us/pl/108/36/s121/a], (b), June 25, 2003, [117 Stat. 813][/us/stat/117/813]; [Pub. L. 111–320, title I, § 132][/us/pl/111/320/s132], Dec. 20, 2010, [124 Stat. 3478][/us/stat/124/3478].)
+([Pub. L. 93–247, title II][/us/pl/93/247/tII], § 201, as added [Pub. L. 104–235, title I][/us/pl/104/235/tI], § 121, Oct. 3, 1996, [110 Stat. 3080][/us/stat/110/3080]; amended [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 121(a), (b), June 25, 2003, [117 Stat. 813][/us/stat/117/813]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 132, Dec. 20, 2010, [124 Stat. 3478][/us/stat/124/3478].)
 
  __References in Text__ 
 
-    [Section 5116d(3) of this title][/us/usc/t42/s5116d/3], referred to in subsec. (b)(3), was in the original “section 205(a)(3)” and was translated as meaning [section 204(3) of Pub. L. 93–247][/us/pl/93/247/s204/3] to reflect the probable intent of Congress and the redesignation of section 205 as 204 by [Pub. L. 111–320, title I, § 141][/us/pl/111/320/s141], Dec. 20, 2010, [124 Stat. 3482][/us/stat/124/3482], and because section 204 does not contain subsections.
+    [Section 5116d(3) of this title][/us/usc/t42/s5116d/3], referred to in subsec. (b)(3), was in the original “section 205(a)(3)” and was translated as meaning [section 204(3) of Pub. L. 93–247][/us/pl/93/247/s204/3] to reflect the probable intent of Congress and the redesignation of section 205 as 204 by [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 141, Dec. 20, 2010, [124 Stat. 3482][/us/stat/124/3482], and because section 204 does not contain subsections.
 
  __Prior Provisions__ 
 
-    A prior section 5116, [Pub. L. 93–247, title II, § 201][/us/pl/93/247/s201], as added [Pub. L. 103–252, title IV, § 401(a)][/us/pl/103/252/s401/a], May 18, 1994, [108 Stat. 666][/us/stat/108/666], related to community-based family resource programs, prior to the general amendment of this subchapter by [Pub. L. 104–235, § 121][/us/pl/104/235/s121].
+    A prior section 5116, [Pub. L. 93–247, title II][/us/pl/93/247/tII], § 201, as added [Pub. L. 103–252, title IV][/us/pl/103/252/tIV], § 401(a), May 18, 1994, [108 Stat. 666][/us/stat/108/666], related to community-based family resource programs, prior to the general amendment of this subchapter by [Pub. L. 104–235][/us/pl/104/235], § 121.
 
-    Another prior section 5116, [Pub. L. 93–247, title II, § 201][/us/pl/93/247/s201], formerly [Pub. L. 98–473, title IV, § 402][/us/pl/98/473/s402], Oct. 12, 1984, [98 Stat. 2197][/us/stat/98/2197]; renumbered [§ 201 of Pub. L. 93–247][/us/pl/93/247/s201], and amended [Pub. L. 101–126][/us/pl/101/126], §§ 2(a), 3(a)(3), (c)(1), 4(a), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 766; [Pub. L. 102–295, title I, § 121(b)][/us/pl/102/295/s121/b], May 28, 1992, [106 Stat. 198][/us/stat/106/198], set forth purpose of subchapter to assist States in supporting child abuse and neglect prevention activities through community based grants, prior to the general amendment of this subchapter by [Pub. L. 103–252, § 401(a)][/us/pl/103/252/s401/a].
+    Another prior section 5116, [Pub. L. 93–247, title II][/us/pl/93/247/tII], § 201, formerly [Pub. L. 98–473, title IV][/us/pl/98/473/tIV], § 402, Oct. 12, 1984, [98 Stat. 2197][/us/stat/98/2197]; renumbered § 201 of [Pub. L. 93–247][/us/pl/93/247], and amended [Pub. L. 101–126][/us/pl/101/126], §§ 2(a), 3(a)(3), (c)(1), 4(a), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 766; [Pub. L. 102–295, title I][/us/pl/102/295/tI], § 121(b), May 28, 1992, [106 Stat. 198][/us/stat/106/198], set forth purpose of subchapter to assist States in supporting child abuse and neglect prevention activities through community based grants, prior to the general amendment of this subchapter by [Pub. L. 103–252][/us/pl/103/252], § 401(a).
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–320, § 132(1)][/us/pl/111/320/s132/1], added par. (1) and struck out former par. (1) which read as follows: “to support community-based efforts to develop, operate, expand, enhance, and, where appropriate to network, initiatives aimed at the prevention of child abuse and neglect, and to support networks of coordinated resources and activities to better strengthen and support families to reduce the likelihood of child abuse and neglect; and”.
+    2010—Subsec. (a)(1). [Pub. L. 111–320][/us/pl/111/320], § 132(1), added par. (1) and struck out former par. (1) which read as follows: “to support community-based efforts to develop, operate, expand, enhance, and, where appropriate to network, initiatives aimed at the prevention of child abuse and neglect, and to support networks of coordinated resources and activities to better strengthen and support families to reduce the likelihood of child abuse and neglect; and”.
 
-    Subsec. (b). [Pub. L. 111–320, § 132(2)(A)][/us/pl/111/320/s132/2/A], struck out “hereafter” before “referred” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–320][/us/pl/111/320], § 132(2)(A), struck out “hereafter” before “referred” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 111–320, § 132(2)(B)(i)][/us/pl/111/320/s132/2/B/i], in introductory provisions, inserted a comma after “expanding” and struck out “(through networks where appropriate)” after “child abuse and neglect”.
+    Subsec. (b)(1). [Pub. L. 111–320][/us/pl/111/320], § 132(2)(B)(i), in introductory provisions, inserted a comma after “expanding” and struck out “(through networks where appropriate)” after “child abuse and neglect”.
 
-    Subsec. (b)(1)(E). [Pub. L. 111–320, § 132(2)(B)(ii)][/us/pl/111/320/s132/2/B/ii], inserted “, including access to such resources and opportunities for unaccompanied homeless youth” before semicolon at end.
+    Subsec. (b)(1)(E). [Pub. L. 111–320][/us/pl/111/320], § 132(2)(B)(ii), inserted “, including access to such resources and opportunities for unaccompanied homeless youth” before semicolon at end.
 
-    Subsec. (b)(1)(G). [Pub. L. 111–320, § 132(2)(B)(iii)][/us/pl/111/320/s132/2/B/iii], added subpar. (G) and struck out former subpar. (G) which read as follows: “demonstrate a commitment to meaningful parent leadership, including among parents of children with disabilities, parents with disabilities, racial and ethnic minorities, and members of other underrepresented or underserved groups; and”.
+    Subsec. (b)(1)(G). [Pub. L. 111–320][/us/pl/111/320], § 132(2)(B)(iii), added subpar. (G) and struck out former subpar. (G) which read as follows: “demonstrate a commitment to meaningful parent leadership, including among parents of children with disabilities, parents with disabilities, racial and ethnic minorities, and members of other underrepresented or underserved groups; and”.
 
-    Subsec. (b)(2). [Pub. L. 111–320, § 132(2)(C)][/us/pl/111/320/s132/2/C], inserted “, including unaccompanied homeless youth,” after “children and families”.
+    Subsec. (b)(2). [Pub. L. 111–320][/us/pl/111/320], § 132(2)(C), inserted “, including unaccompanied homeless youth,” after “children and families”.
 
-    Subsec. (b)(3). [Pub. L. 111–320, § 132(2)(D)][/us/pl/111/320/s132/2/D], substituted “specific community-based child abuse and neglect prevention program services” for “specific family resource and support program services”, inserted “substance abuse treatment services, domestic violence services,” after “mental health services,”, and substituted “the network of community-based child abuse and neglect prevention programs” for “the network of community-based family resource and support program”.
+    Subsec. (b)(3). [Pub. L. 111–320][/us/pl/111/320], § 132(2)(D), substituted “specific community-based child abuse and neglect prevention program services” for “specific family resource and support program services”, inserted “substance abuse treatment services, domestic violence services,” after “mental health services,”, and substituted “the network of community-based child abuse and neglect prevention programs” for “the network of community-based family resource and support program”.
 
-    Subsec. (b)(4). [Pub. L. 111–320, § 132(2)(E)][/us/pl/111/320/s132/2/E], inserted “and reporting” after “information management” and struck out comma after “prevention-focused” and “(through networks where appropriate)” after “child abuse and neglect”.
+    Subsec. (b)(4). [Pub. L. 111–320][/us/pl/111/320], § 132(2)(E), inserted “and reporting” after “information management” and struck out comma after “prevention-focused” and “(through networks where appropriate)” after “child abuse and neglect”.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–36, § 121(a)][/us/pl/108/36/s121/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to support State efforts to develop, operate, expand and enhance a network of community-based, prevention-focused, family resource and support programs that coordinate resources among existing education, vocational rehabilitation, disability, respite care, health, mental health, job readiness, self-sufficiency, child and family development, community action, Head Start, child care, child abuse and neglect prevention, juvenile justice, domestic violence prevention and intervention, housing, and other human service organizations within the State; and”.
+    2003—Subsec. (a)(1). [Pub. L. 108–36][/us/pl/108/36], § 121(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to support State efforts to develop, operate, expand and enhance a network of community-based, prevention-focused, family resource and support programs that coordinate resources among existing education, vocational rehabilitation, disability, respite care, health, mental health, job readiness, self-sufficiency, child and family development, community action, Head Start, child care, child abuse and neglect prevention, juvenile justice, domestic violence prevention and intervention, housing, and other human service organizations within the State; and”.
 
-    Subsec. (b)(1). [Pub. L. 108–36, § 121(b)(1)(A)][/us/pl/108/36/s121/b/1/A], in introductory provisions, substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate) that are accessible, effective, culturally appropriate, and build upon existing strengths that” for “Statewide networks of community-based, prevention-focused, family resource and support programs that”.
+    Subsec. (b)(1). [Pub. L. 108–36][/us/pl/108/36], § 121(b)(1)(A), in introductory provisions, substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate) that are accessible, effective, culturally appropriate, and build upon existing strengths that” for “Statewide networks of community-based, prevention-focused, family resource and support programs that”.
 
-    Subsec. (b)(1)(G), (H). [Pub. L. 108–36, § 121(b)(1)(B)][/us/pl/108/36/s121/b/1/B], (C), added subpars. (G) and (H) and struck out former subpar. (G) which read as follows: “decrease the risk of homelessness;”.
+    Subsec. (b)(1)(G), (H). [Pub. L. 108–36][/us/pl/108/36], § 121(b)(1)(B), (C), added subpars. (G) and (H) and struck out former subpar. (G) which read as follows: “decrease the risk of homelessness;”.
 
-    Subsec. (b)(4). [Pub. L. 108–36, § 121(b)(2)][/us/pl/108/36/s121/b/2], inserted “through leveraging of funds” after “maximizing funding” and substituted “community-based and prevention-focused” for “a Statewide network of community-based, prevention-focused” and “programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate)” for “family resource and support program”.
+    Subsec. (b)(4). [Pub. L. 108–36][/us/pl/108/36], § 121(b)(2), inserted “through leveraging of funds” after “maximizing funding” and substituted “community-based and prevention-focused” for “a Statewide network of community-based, prevention-focused” and “programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate)” for “family resource and support program”.
 
 ----------
 
@@ -101,41 +101,41 @@
 ----------
 
 [/us/usc/t42/s5116a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5116a%2F1
-[/us/pl/93/247/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs201
-[/us/pl/104/235/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs121
+[/us/pl/93/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtII
+[/us/pl/104/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtI
 [/us/stat/110/3080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3080
-[/us/pl/108/36/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs121%2Fa
+[/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F813
-[/us/pl/111/320/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3478
 [/us/usc/t42/s5116d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5116d%2F3
 [/us/pl/93/247/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs204%2F3
-[/us/pl/111/320/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs141
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3482
-[/us/pl/93/247/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs201
-[/us/pl/103/252/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs401%2Fa
+[/us/pl/93/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtII
+[/us/pl/103/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIV
 [/us/stat/108/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F666
-[/us/pl/104/235/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs121
-[/us/pl/93/247/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs201
-[/us/pl/98/473/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs402
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/93/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtII
+[/us/pl/98/473/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtIV
 [/us/stat/98/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2197
-[/us/pl/93/247/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs201
+[/us/pl/93/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247
 [/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/stat/103/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F764
-[/us/pl/102/295/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs121%2Fb
+[/us/pl/102/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtI
 [/us/stat/106/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F198
-[/us/pl/103/252/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs401%2Fa
-[/us/pl/111/320/s132/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F1
-[/us/pl/111/320/s132/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F2%2FA
-[/us/pl/111/320/s132/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F2%2FB%2Fi
-[/us/pl/111/320/s132/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F2%2FB%2Fii
-[/us/pl/111/320/s132/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F2%2FB%2Fiii
-[/us/pl/111/320/s132/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F2%2FC
-[/us/pl/111/320/s132/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F2%2FD
-[/us/pl/111/320/s132/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs132%2F2%2FE
-[/us/pl/108/36/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs121%2Fa
-[/us/pl/108/36/s121/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs121%2Fb%2F1%2FA
-[/us/pl/108/36/s121/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs121%2Fb%2F1%2FB
-[/us/pl/108/36/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs121%2Fb%2F2
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
 
 

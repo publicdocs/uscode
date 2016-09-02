@@ -17,7 +17,7 @@
 
     Nothing contained herein shall affect the applicability of the Federal antitrust laws to the activities of the corporation and the partnership created under this chapter and of the persons participating therein or in partnerships, limited partnerships, or joint ventures with either of them.
 
-([Pub. L. 90–448, title IX, § 909][/us/pl/90/448/s909], Aug. 1, 1968, [82 Stat. 550][/us/stat/82/550].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 909, Aug. 1, 1968, [82 Stat. 550][/us/stat/82/550].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs909
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F550
 
 

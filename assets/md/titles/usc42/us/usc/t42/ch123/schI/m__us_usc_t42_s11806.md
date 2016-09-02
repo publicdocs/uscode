@@ -23,7 +23,7 @@
 
     (3) each of such projects and activities the Secretary considers to be exemplary.
 
-([Pub. L. 100–690, title III, § 3506][/us/pl/100/690/s3506], as added [Pub. L. 102–132, § 1(c)][/us/pl/102/132/s1/c], Oct. 18, 1991, [105 Stat. 630][/us/stat/105/630].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3506, as added [Pub. L. 102–132][/us/pl/102/132], § 1(c), Oct. 18, 1991, [105 Stat. 630][/us/stat/105/630].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/100/690/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3506
-[/us/pl/102/132/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132%2Fs1%2Fc
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
+[/us/pl/102/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132
 [/us/stat/105/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F630
 [/us/pl/102/132/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132%2Fs3
 [/us/usc/t42/s11801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11801

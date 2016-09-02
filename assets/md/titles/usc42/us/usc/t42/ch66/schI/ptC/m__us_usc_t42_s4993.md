@@ -17,7 +17,7 @@
 
     The Director may provide technical and financial assistance to Federal agencies, State and local governments and agencies, private nonprofit organizations, employers, and other private organizations that utilize or desire to utilize volunteers in carrying out the purpose of this part.
 
-([Pub. L. 93–113, title I, § 123][/us/pl/93/113/s123], as added [Pub. L. 94–293, § 3(b)(1)][/us/pl/94/293/s3/b/1], May 27, 1976, [90 Stat. 525][/us/stat/90/525]; amended [Pub. L. 98–288, § 13][/us/pl/98/288/s13], May 21, 1984, [98 Stat. 192][/us/stat/98/192]; [Pub. L. 101–204, title VI, § 602][/us/pl/101/204/s602], Dec. 7, 1989, [103 Stat. 1820][/us/stat/103/1820]; [Pub. L. 103–82, title III, § 332][/us/pl/103/82/s332], Sept. 21, 1993, [107 Stat. 903][/us/stat/107/903].)
+([Pub. L. 93–113, title I][/us/pl/93/113/tI], § 123, as added [Pub. L. 94–293][/us/pl/94/293], § 3(b)(1), May 27, 1976, [90 Stat. 525][/us/stat/90/525]; amended [Pub. L. 98–288][/us/pl/98/288], § 13, May 21, 1984, [98 Stat. 192][/us/stat/98/192]; [Pub. L. 101–204, title VI][/us/pl/101/204/tVI], § 602, Dec. 7, 1989, [103 Stat. 1820][/us/stat/103/1820]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 332, Sept. 21, 1993, [107 Stat. 903][/us/stat/107/903].)
 
  __Amendments__ 
 
@@ -38,14 +38,14 @@
 ----------
 ----------
 
-[/us/pl/93/113/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs123
-[/us/pl/94/293/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F293%2Fs3%2Fb%2F1
+[/us/pl/93/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtI
+[/us/pl/94/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F293
 [/us/stat/90/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F525
-[/us/pl/98/288/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs13
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F192
-[/us/pl/101/204/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs602
+[/us/pl/101/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtVI
 [/us/stat/103/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1820
-[/us/pl/103/82/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs332
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F903
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204

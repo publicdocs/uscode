@@ -35,17 +35,17 @@
 
                 For purposes of subparagraph (A), the term “2006 adjusted amount” means the amount appropriated for fiscal year 2006 under [section 300ff–77(b) of this title][/us/usc/t42/s300ff–77/b] (as such section was in effect for such fiscal year), excluding any amount appropriated for such year exclusively for carrying out [section 300ff–26 of this title][/us/usc/t42/s300ff–26] (and, accordingly, distributed under [section 300ff–28(a)(2)(I) of this title][/us/usc/t42/s300ff–28/a/2/I], as so in effect).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2623, as added and amended [Pub. L. 109–415, title II, § 208][/us/pl/109/415/s208], title VII, § 703, Dec. 19, 2006, [120 Stat. 2801][/us/stat/120/2801], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), (c), 5(c)(3), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2891.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2623, as added and amended [Pub. L. 109–415, title II][/us/pl/109/415/tII], § 208, title VII, § 703, Dec. 19, 2006, [120 Stat. 2801][/us/stat/120/2801], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), (c), 5(c)(3), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2891.)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    Subsec. (a). [Pub. L. 111–87, § 2(c)][/us/pl/111/87/s2/c], substituted “$1,285,200,000 for fiscal year 2009, $1,349,460,000 for fiscal year 2010, $1,416,933,000 for fiscal year 2011, $1,487,780,000 for fiscal year 2012, and $1,562,169,000 for fiscal year 2013” for “and $1,285,200,000 for fiscal year 2009”.
+    Subsec. (a). [Pub. L. 111–87][/us/pl/111/87], § 2(c), substituted “$1,285,200,000 for fiscal year 2009, $1,349,460,000 for fiscal year 2010, $1,416,933,000 for fiscal year 2011, $1,487,780,000 for fiscal year 2012, and $1,562,169,000 for fiscal year 2013” for “and $1,285,200,000 for fiscal year 2009”.
 
-    Subsec. (b)(2)(A). [Pub. L. 111–87, § 5(c)(3)][/us/pl/111/87/s5/c/3], substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”.
+    Subsec. (b)(2)(A). [Pub. L. 111–87][/us/pl/111/87], § 5(c)(3), substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -67,16 +67,16 @@
 [/us/usc/t42/s300ff–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9326
 [/us/usc/t42/s300ff–28/a/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9328%2Fa%2F2%2FI
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/415/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs208
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2801
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fc
-[/us/pl/111/87/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fc%2F3
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

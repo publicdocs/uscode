@@ -141,11 +141,11 @@
 
             [Section 1397d(a) of this title][/us/usc/t42/s1397d/a] shall apply to a grant awarded under this section to the same extent and in the same manner as such section applies to payments to States under this subchapter, except that paragraph (4) of such section shall not be construed to prohibit grantees from conducting screening for environmental health conditions as authorized under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2009, as added [Pub. L. 111–148, title X, § 10323(b)][/us/pl/111/148/s10323/b], Mar. 23, 2010, [124 Stat. 957][/us/stat/124/957].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2009, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10323(b), Mar. 23, 2010, [124 Stat. 957][/us/stat/124/957].)
 
  __Codification__ 
 
-    [Pub. L. 111–148, title X, § 10323(b)][/us/pl/111/148/s10323/b], Mar. 23, 2010, [124 Stat. 957][/us/stat/124/957], which directed amendment of title XX of act Aug. 14, 1935, by adding this section at the end, was executed by adding this section at the end of subtitle A of title XX of that Act, which is this division, to reflect the probable intent of Congress.
+    [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10323(b), Mar. 23, 2010, [124 Stat. 957][/us/stat/124/957], which directed amendment of title XX of act Aug. 14, 1935, by adding this section at the end, was executed by adding this section at the end of subtitle A of title XX of that Act, which is this division, to reflect the probable intent of Congress.
 
 ----------
 
@@ -160,9 +160,9 @@
 [/us/usc/t42/s9605/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605%2Fa%2F8%2FB
 [/us/usc/t42/s1397d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397d%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s10323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10323%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F957
-[/us/pl/111/148/s10323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10323%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F957
 
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schXV/m__us_usc_t42_s1365.md) | [Next](./../../../../..//us/usc/t42/ch7/schXVI/m__us_usc_t42_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVI)
+[Previous](./../../../../..//us/usc/t42/ch7/schXV/m__us_usc_t42_s1366...1371.md) | [Next](./../../../../..//us/usc/t42/ch7/schXVI/m__us_usc_t42_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVI)
 
 ### SUBCHAPTER XVI—SUPPLEMENTAL SECURITY INCOME FOR AGED, BLIND, AND DISABLED
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schXV/m__us_usc_t42_s1365.md) | [Next](./../../../../..//us/usc/t42/ch7/schXVI/m__us_usc_t42_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVI)
+[Previous](./../../../../..//us/usc/t42/ch7/schXV/m__us_usc_t42_s1366...1371.md) | [Next](./../../../../..//us/usc/t42/ch7/schXVI/m__us_usc_t42_s1381.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXVI)
 
 ----------
 ----------

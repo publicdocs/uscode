@@ -31,11 +31,11 @@
 
             The term “highly compensated individual” has the meaning given such term by [section 105(h)(5) of title 26][/us/usc/t26/s105/h/5].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2716, as added and amended [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], title X, § 10101(d), Mar. 23, 2010, [124 Stat. 135][/us/stat/124/135], 884.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2716, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), title X, § 10101(d), Mar. 23, 2010, [124 Stat. 135][/us/stat/124/135], 884.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10101(d)][/us/pl/111/148/s10101/d], amended section generally. Prior to amendment, text read as follows:
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10101(d), amended section generally. Prior to amendment, text read as follows:
 
     “(a) In General.—The plan sponsor of a group health plan (other than a self-insured plan) may not establish rules relating to the health insurance coverage eligibility (including continued eligibility) of any full-time employee under the terms of the plan that are based on the total hourly or annual salary of the employee or otherwise establish eligibility rules that have the effect of discriminating in favor of higher wage employees.
 
@@ -56,9 +56,9 @@
 [/us/usc/t26/s105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs105%2Fh
 [/us/usc/t26/s105/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs105%2Fh%2F5
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F135
-[/us/pl/111/148/s10101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Fd
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 

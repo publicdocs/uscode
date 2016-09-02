@@ -19,7 +19,7 @@
 
     (b) The Secretary, in formulating the information to be requested in the reports or investigations under section 825c and [section 825j of title 16][/us/usc/t16/s825j] and section 717i and [section 717j of title 15][/us/usc/t15/s717j] shall include in such reports and investigations such specific information as requested by the Federal Energy Regulatory Commission and copies of all reports, information, results of investigations and data under said sections shall be furnished by the Secretary to the Federal Energy Regulatory Commission.
 
-([Pub. L. 95–91, title IV, § 407][/us/pl/95/91/s407], Aug. 4, 1977, [91 Stat. 587][/us/stat/91/587].)
+([Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 407, Aug. 4, 1977, [91 Stat. 587][/us/stat/91/587].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s825j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825j
 [/us/usc/t15/s717j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717j
-[/us/pl/95/91/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs407
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F587
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

@@ -39,7 +39,7 @@
 
         (3) the term “small unit” means a unit with a generating capacity in the 10–50 megawatt range.
 
-([Pub. L. 109–58, title XIV, § 1407][/us/pl/109/58/s1407], Aug. 8, 2005, [119 Stat. 1064][/us/stat/119/1064].)
+([Pub. L. 109–58, title XIV][/us/pl/109/58/tXIV], § 1407, Aug. 8, 2005, [119 Stat. 1064][/us/stat/119/1064].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1407
+[/us/pl/109/58/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIV
 [/us/stat/119/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1064
 
 

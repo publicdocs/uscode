@@ -21,7 +21,7 @@
 
     (c) Not more than one-third of the amounts specified under subsection (b) of this section for use for grants for demonstration projects for services shall be used for grants for demonstration projects for prevention services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2010, as added [Pub. L. 97–35, title IX, § 955(a)][/us/pl/97/35/s955/a], Aug. 13, 1981, [95 Stat. 591][/us/stat/95/591]; amended [Pub. L. 98–512, § 2(a)][/us/pl/98/512/s2/a], Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2010, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(a), Aug. 13, 1981, [95 Stat. 591][/us/stat/95/591]; amended [Pub. L. 98–512][/us/pl/98/512], § 2(a), Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F591
-[/us/pl/98/512/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512%2Fs2%2Fa
+[/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512
 [/us/stat/98/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2409
 [/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
 

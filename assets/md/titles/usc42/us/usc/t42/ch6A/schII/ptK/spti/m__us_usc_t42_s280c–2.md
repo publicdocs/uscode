@@ -55,11 +55,11 @@
 
         For the purpose of carrying out this subpart, there are authorized to be appropriated $5,000,000 for each of the fiscal years 1988 through 1990, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 397, as added [Pub. L. 100–175, title VI, § 602][/us/pl/100/175/s602], Nov. 29, 1987, [101 Stat. 980][/us/stat/101/980]; amended [Pub. L. 101–557, title I, § 101(d)][/us/pl/101/557/s101/d], Nov. 15, 1990, [104 Stat. 2766][/us/stat/104/2766].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 397, as added [Pub. L. 100–175, title VI][/us/pl/100/175/tVI], § 602, Nov. 29, 1987, [101 Stat. 980][/us/stat/101/980]; amended [Pub. L. 101–557, title I][/us/pl/101/557/tI], § 101(d), Nov. 15, 1990, [104 Stat. 2766][/us/stat/104/2766].)
 
  __Prior Provisions__ 
 
-    A prior section 397 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, formerly § 399, as added Oct. 22, 1965, [Pub. L. 89–291, § 2][/us/pl/89/291/s2], [79 Stat. 1066][/us/stat/79/1066]; renumbered § 398 and amended Mar. 13, 1970, [Pub. L. 91–212][/us/pl/91/212], §§ 2(g), 8, 10(c)(3), (d)(2)(A), [84 Stat. 63][/us/stat/84/63], 65, 67; June 18, 1973, [Pub. L. 93–45, title I, § 107(f)][/us/pl/93/45/s107/f], [87 Stat. 92][/us/stat/87/92]; renumbered § 397 and amended July 23, 1974, [Pub. L. 93–353, title II][/us/pl/93/353], §§ 203(e), 204, [88 Stat. 372][/us/stat/88/372], 373, which related to grants to provide support for biomedical scientific publications, was classified to [section 280b–9 of this title][/us/usc/t42/s280b–9], prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
+    A prior section 397 of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], formerly § 399, as added Oct. 22, 1965, [Pub. L. 89–291][/us/pl/89/291], § 2, [79 Stat. 1066][/us/stat/79/1066]; renumbered § 398 and amended Mar. 13, 1970, [Pub. L. 91–212][/us/pl/91/212], §§ 2(g), 8, 10(c)(3), (d)(2)(A), [84 Stat. 63][/us/stat/84/63], 65, 67; June 18, 1973, [Pub. L. 93–45, title I][/us/pl/93/45/tI], § 107(f), [87 Stat. 92][/us/stat/87/92]; renumbered § 397 and amended July 23, 1974, [Pub. L. 93–353, title II][/us/pl/93/353/tII], §§ 203(e), 204, [88 Stat. 372][/us/stat/88/372], 373, which related to grants to provide support for biomedical scientific publications, was classified to [section 280b–9 of this title][/us/usc/t42/s280b–9], prior to repeal by [Pub. L. 99–158][/us/pl/99/158], § 3(b), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
  __Amendments__ 
 
@@ -78,21 +78,21 @@
 [/us/usc/t42/s280c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280c%2Fa
 [/us/usc/t42/s280c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280c%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/175/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs602
+[/us/pl/100/175/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtVI
 [/us/stat/101/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F980
-[/us/pl/101/557/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs101%2Fd
+[/us/pl/101/557/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2FtI
 [/us/stat/104/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2766
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291%2Fs2
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/89/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291
 [/us/stat/79/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1066
 [/us/pl/91/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F212
 [/us/stat/84/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F63
-[/us/pl/93/45/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs107%2Ff
+[/us/pl/93/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2FtI
 [/us/stat/87/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F92
-[/us/pl/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353
+[/us/pl/93/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtII
 [/us/stat/88/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F372
 [/us/usc/t42/s280b–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%939
-[/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
 [/us/pl/101/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557
 

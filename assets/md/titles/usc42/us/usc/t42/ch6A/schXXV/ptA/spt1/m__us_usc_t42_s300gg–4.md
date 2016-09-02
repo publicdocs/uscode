@@ -251,7 +251,7 @@
 
         Nothing in this section shall be construed as prohibiting the Secretaries of Labor, Health and Human Services, or the Treasury from promulgating regulations in connection with this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2705, as added and amended [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], (4), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 156.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2705, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(3), (4), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 156.)
 
  __References in Text__ 
 
@@ -259,15 +259,15 @@
 
     Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs. (c)(3)(A) and (l)(3)(B)(iv), is [section 264 of Pub. L. 104–191][/us/pl/104/191/s264], which is set out as a note under [section 1320d–2 of this title][/us/usc/t42/s1320d–2].
 
-    [Section 300gg–21(a) of this title][/us/usc/t42/s300gg–21/a], referred to in subsec. (e), was in the original a reference to section 2735(a) of act July 1, 1944, and was translated as if it referred to section 2722(a) of that act to reflect the probable intent of Congress because of the renumbering of section 2735 as 2722 by [Pub. L. 111–148, title I, § 1563(c)(12)(D)][/us/pl/111/148/s1563/c/12/D], formerly § 1562(c)(12)(D), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 269][/us/stat/124/269], 911. The act July 1, 1944, does not contain a section 2735.
+    [Section 300gg–21(a) of this title][/us/usc/t42/s300gg–21/a], referred to in subsec. (e), was in the original a reference to section 2735(a) of act July 1, 1944, and was translated as if it referred to section 2722(a) of that act to reflect the probable intent of Congress because of the renumbering of section 2735 as 2722 by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563(c)(12)(D), formerly § 1562(c)(12)(D), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 269][/us/stat/124/269], 911. The act July 1, 1944, does not contain a section 2735.
 
  __Codification__ 
 
-    The text of [section 300gg–1 of this title][/us/usc/t42/s300gg–1], which was amended and transferred to subsecs. (b) to (f) of this section by [Pub. L. 111–148, § 1201(3)][/us/pl/111/148/s1201/3], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2702, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1961][/us/stat/110/1961]; amended [Pub. L. 110–233, title I, § 102(a)(1)][/us/pl/110/233/s102/a/1]–(3), May 21, 2008, [122 Stat. 888][/us/stat/122/888], 890.
+    The text of [section 300gg–1 of this title][/us/usc/t42/s300gg–1], which was amended and transferred to subsecs. (b) to (f) of this section by [Pub. L. 111–148][/us/pl/111/148], § 1201(3), was based on [act July 1, 1944, ch. 373, title XXVII][/us/act/1944-07-01/ch373/tXXVII], § 2702, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1961][/us/stat/110/1961]; amended [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 102(a)(1)–(3), May 21, 2008, [122 Stat. 888][/us/stat/122/888], 890.
 
  __Prior Provisions__ 
 
-    A prior section 300gg–4, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2704, as added [Pub. L. 104–204, title VI, § 604(a)(3)][/us/pl/104/204/s604/a/3], Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939], which related to standards relating to benefits for mothers and newborns, was renumbered section 2725 of act July 1, 1944, by [Pub. L. 111–148, title I, § 1001(2)][/us/pl/111/148/s1001/2], Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], and transferred to [section 300gg–25 of this title][/us/usc/t42/s300gg–25].
+    A prior section 300gg–4, [act July 1, 1944, ch. 373, title XXVII][/us/act/1944-07-01/ch373/tXXVII], § 2704, as added [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 604(a)(3), Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939], which related to standards relating to benefits for mothers and newborns, was renumbered section 2725 of act July 1, 1944, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(2), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], and transferred to [section 300gg–25 of this title][/us/usc/t42/s300gg–25].
 
     A prior section 2705 of act July 1, 1944, was renumbered section 2726 and is classified to [section 300gg–26 of this title][/us/usc/t42/s300gg–26].
 
@@ -275,7 +275,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 1201(3)][/us/pl/111/148/s1201/3], transferred [section 300gg–1 of this title][/us/usc/t42/s300gg–1] to subsecs. (b) to (f) of this section after amending it by striking out the section catchline “Prohibiting discrimination against individual participants and beneficiaries based on health status”, by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting “health insurance issuer offering group or individual health insurance coverage” for “health insurance issuer offering health insurance coverage in connection with a group health plan” in pars. (1) and (3)(B) and by inserting “or individual” after “employer” and “or individual health coverage, as the case may be” before semicolon in par. (2)(A), and by amending subsec. (e) by substituting “(a)(6)” for “(a)(1)(F)” and “300gg–3” for “300gg” and making technical amendment to reference in original act which appears in text as reference to [section 300gg–21(a) of this title][/us/usc/t42/s300gg–21/a].
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 1201(3), transferred [section 300gg–1 of this title][/us/usc/t42/s300gg–1] to subsecs. (b) to (f) of this section after amending it by striking out the section catchline “Prohibiting discrimination against individual participants and beneficiaries based on health status”, by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting “health insurance issuer offering group or individual health insurance coverage” for “health insurance issuer offering health insurance coverage in connection with a group health plan” in pars. (1) and (3)(B) and by inserting “or individual” after “employer” and “or individual health coverage, as the case may be” before semicolon in par. (2)(A), and by amending subsec. (e) by substituting “(a)(6)” for “(a)(1)(F)” and “300gg–3” for “300gg” and making technical amendment to reference in original act which appears in text as reference to [section 300gg–21(a) of this title][/us/usc/t42/s300gg–21/a].
 
  __Effective Date__ 
 
@@ -295,7 +295,7 @@
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -303,24 +303,24 @@
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/usc/t42/s300gg–21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9321%2Fa
-[/us/pl/111/148/s1563/c/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F12%2FD
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F269
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
-[/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/act/1944-07-01/ch373/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVII
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1961
-[/us/pl/110/233/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs102%2Fa%2F1
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F888
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/204/s604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs604%2Fa%2F3
+[/us/act/1944-07-01/ch373/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVII
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2939
-[/us/pl/111/148/s1001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F2
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9325
 [/us/usc/t42/s300gg–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9326
 [/us/usc/t42/s238d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238d
-[/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
 [/us/usc/t42/s300gg–21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9321%2Fa
 [/us/pl/111/148/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1255

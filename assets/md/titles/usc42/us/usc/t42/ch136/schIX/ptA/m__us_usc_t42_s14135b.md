@@ -67,7 +67,7 @@
 
         There are authorized to be appropriated to the Court Services and Offender Supervision Agency for the District of Columbia to carry out this section such sums as may be necessary for each of fiscal years 2001 through 2005.
 
-([Pub. L. 106–546, § 4][/us/pl/106/546/s4], Dec. 19, 2000, [114 Stat. 2730][/us/stat/114/2730].)
+([Pub. L. 106–546][/us/pl/106/546], § 4, Dec. 19, 2000, [114 Stat. 2730][/us/stat/114/2730].)
 
  __Codification__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/106/546/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs4
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2730
 
 

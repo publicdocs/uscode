@@ -35,11 +35,11 @@
 
         The Council shall be responsible for (1) the appointment and supervision of personnel, (2) the assignment of duties and responsibilities among such personnel, and (3) the use and expenditures of funds.
 
-([Pub. L. 89–80, title I, § 105][/us/pl/89/80/s105], July 22, 1965, [79 Stat. 246][/us/stat/79/246]; [Pub. L. 94–112, § 1(b)][/us/pl/94/112/s1/b], Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575].)
+([Pub. L. 89–80, title I][/us/pl/89/80/tI], § 105, July 22, 1965, [79 Stat. 246][/us/stat/79/246]; [Pub. L. 94–112][/us/pl/94/112], § 1(b), Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575].)
 
  __Codification__ 
 
-    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “Classification Act of 1949, as amended” and “[section 3109 of title 5][/us/usc/t5/s3109]” substituted for “[section 15 of the Act of August 2, 1946][/us/act/1946-08-02/s15] ([5 U.S.C. 55a][/us/usc/t5/s55a])”, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “Classification Act of 1949, as amended” and “[section 3109 of title 5][/us/usc/t5/s3109]” substituted for “[section 15 of the Act of August 2, 1946][/us/act/1946-08-02/s15] ([5 U.S.C. 55a][/us/usc/t5/s55a])”, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -58,14 +58,14 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/89/80/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs105
+[/us/pl/89/80/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtI
 [/us/stat/79/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F246
-[/us/pl/94/112/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112%2Fs1%2Fb
+[/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112
 [/us/stat/89/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F575
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/act/1946-08-02/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fs15
 [/us/usc/t5/s55a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs55a
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

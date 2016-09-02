@@ -31,7 +31,7 @@
 
             (iii) in the case of an embryo laboratory which is not certified under [section 263a–2 of this title][/us/usc/t42/s263a–2] or certified by an accreditation organization approved by the Secretary under [section 263a–3 of this title][/us/usc/t42/s263a–3], whether the laboratory applied for certification.
 
-([Pub. L. 102–493, § 6][/us/pl/102/493/s6], Oct. 24, 1992, [106 Stat. 3151][/us/stat/106/3151].)
+([Pub. L. 102–493][/us/pl/102/493], § 6, Oct. 24, 1992, [106 Stat. 3151][/us/stat/106/3151].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
  __Effective Date__ 
 
@@ -58,9 +58,9 @@
 [/us/usc/t42/s263a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%933
 [/us/usc/t42/s263a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%932
 [/us/usc/t42/s263a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%933
-[/us/pl/102/493/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs6
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3151
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/pl/102/493/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs9
 [/us/usc/t42/s263a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%931

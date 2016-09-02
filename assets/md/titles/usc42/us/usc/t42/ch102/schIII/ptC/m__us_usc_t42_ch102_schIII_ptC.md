@@ -11,37 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptB/m__us_usc_t42_ch102_schIII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptD/m__us_usc_t42_ch102_schIII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptB/m__us_usc_t42_s9461...9465.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptC/m__us_usc_t42_s9471...9473.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptC)
 
 #### Part C—Performance
 
-§§ 9471 to 9473. __Repealed.__  __[__  __Pub. L. 97–35, title IX, § 902(e)(1)__  __][/us/pl/97/35/s902/e/1]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 560__  __][/us/stat/95/560]__ 
-
-    Section 9471, [Pub. L. 96–398, title III, § 315][/us/pl/96/398/s315], Oct. 7, 1980, [94 Stat. 1595][/us/stat/94/1595], related to performance contracts.
-
-    Section 9472, [Pub. L. 96–398, title III, § 316][/us/pl/96/398/s316], Oct. 7, 1980, [94 Stat. 1595][/us/stat/94/1595], related to performance standards.
-
-    Section 9473, [Pub. L. 96–398, title III, § 317][/us/pl/96/398/s317], Oct. 7, 1980, [94 Stat. 1595][/us/stat/94/1595], related to evaluation and monitoring of projects and activities.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1981, see [section 902(h) of Pub. L. 97–35][/us/pl/97/35/s902/h], set out as an Effective Date of 1981 Amendment note under section 238l of this title.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptB/m__us_usc_t42_ch102_schIII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptD/m__us_usc_t42_ch102_schIII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptB/m__us_usc_t42_s9461...9465.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptC/m__us_usc_t42_s9471...9473.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptC)
 
 ----------
 ----------
 
-[/us/pl/97/35/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fe%2F1
-[/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/pl/96/398/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs315
-[/us/stat/94/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1595
-[/us/pl/96/398/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs316
-[/us/stat/94/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1595
-[/us/pl/96/398/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs317
-[/us/stat/94/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1595
-[/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 
 

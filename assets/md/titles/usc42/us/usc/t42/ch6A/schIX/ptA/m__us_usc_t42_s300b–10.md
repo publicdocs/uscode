@@ -131,7 +131,7 @@
 
             If at the end of fiscal year 2019 the duration of the Advisory Committee has not been extended by statute, the Advisory Committee may be deemed, for purposes of the Federal Advisory Committee Act, an advisory committee established by the President or an officer of the Federal Government under section 9(a) of such Act.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1111, as added [Pub. L. 106–310, div. A, title XXVI, § 2601][/us/pl/106/310/s2601], Oct. 17, 2000, [114 Stat. 1166][/us/stat/114/1166]; amended [Pub. L. 110–204, § 4][/us/pl/110/204/s4], Apr. 24, 2008, [122 Stat. 706][/us/stat/122/706]; [Pub. L. 110–237, § 1(a)(3)][/us/pl/110/237/s1/a/3], (b)(2), May 27, 2008, [122 Stat. 1556][/us/stat/122/1556], 1557; [Pub. L. 113–240, § 4][/us/pl/113/240/s4], Dec. 18, 2014, [128 Stat. 2853][/us/stat/128/2853].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1111, as added [Pub. L. 106–310, div. A, title XXVI][/us/pl/106/310/dA/tXXVI], § 2601, Oct. 17, 2000, [114 Stat. 1166][/us/stat/114/1166]; amended [Pub. L. 110–204][/us/pl/110/204], § 4, Apr. 24, 2008, [122 Stat. 706][/us/stat/122/706]; [Pub. L. 110–237][/us/pl/110/237], § 1(a)(3), (b)(2), May 27, 2008, [122 Stat. 1556][/us/stat/122/1556], 1557; [Pub. L. 113–240][/us/pl/113/240], § 4, Dec. 18, 2014, [128 Stat. 2853][/us/stat/128/2853].)
 
  __References in Text__ 
 
@@ -139,55 +139,55 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(4), (5). [Pub. L. 113–240, § 4(1)(B)][/us/pl/113/240/s4/1/B], added pars. (4) and (5). Former pars. (4) and (5) redesignated (6) and (7), respectively.
+    2014—Subsec. (b)(4), (5). [Pub. L. 113–240][/us/pl/113/240], § 4(1)(B), added pars. (4) and (5). Former pars. (4) and (5) redesignated (6) and (7), respectively.
 
-    Subsec. (b)(6). [Pub. L. 113–240, § 4(1)(A)][/us/pl/113/240/s4/1/A], (C), redesignated par. (4) as (6) and inserted “, including the cost” after “public health impact”. Former par. (6) redesignated (8).
+    Subsec. (b)(6). [Pub. L. 113–240][/us/pl/113/240], § 4(1)(A), (C), redesignated par. (4) as (6) and inserted “, including the cost” after “public health impact”. Former par. (6) redesignated (8).
 
-    Subsec. (b)(7). [Pub. L. 113–240, § 4(1)(A)][/us/pl/113/240/s4/1/A], redesignated par. (5) as (7).
+    Subsec. (b)(7). [Pub. L. 113–240][/us/pl/113/240], § 4(1)(A), redesignated par. (5) as (7).
 
-    Subsec. (b)(8). [Pub. L. 113–240, § 4(1)(A)][/us/pl/113/240/s4/1/A], redesignated par. (6) as (8).
+    Subsec. (b)(8). [Pub. L. 113–240][/us/pl/113/240], § 4(1)(A), redesignated par. (6) as (8).
 
-    Subsec. (b)(8)(A). [Pub. L. 113–240, § 4(1)(D)(i)][/us/pl/113/240/s4/1/D/i], substituted “achieve best practices in rapid diagnosis and appropriate treatment” for “achieve rapid diagnosis”.
+    Subsec. (b)(8)(A). [Pub. L. 113–240][/us/pl/113/240], § 4(1)(D)(i), substituted “achieve best practices in rapid diagnosis and appropriate treatment” for “achieve rapid diagnosis”.
 
-    Subsec. (b)(8)(D). [Pub. L. 113–240, § 4(1)(D)(ii)][/us/pl/113/240/s4/1/D/ii], inserted “, including information on cost and incidence” before semicolon at end.
+    Subsec. (b)(8)(D). [Pub. L. 113–240][/us/pl/113/240], § 4(1)(D)(ii), inserted “, including information on cost and incidence” before semicolon at end.
 
-    Subsec. (b)(8)(L). [Pub. L. 113–240, § 4(1)(D)(iii)][/us/pl/113/240/s4/1/D/iii]–(v), added subpar. (L).
+    Subsec. (b)(8)(L). [Pub. L. 113–240][/us/pl/113/240], § 4(1)(D)(iii)–(v), added subpar. (L).
 
-    Subsec. (d)(1). [Pub. L. 113–240, § 4(2)(A)][/us/pl/113/240/s4/2/A], substituted “120 days” for “180 days” and inserted at end “If the Secretary is unable to make a determination to adopt or reject such recommendation within such 120-day period, the Secretary shall notify the Advisory Committee and the appropriate committees of Congress of such determination together with an explanation for why the Secretary was unable to comply within such 120-day period, as well as a plan of action for consideration of such pending recommendation.”
+    Subsec. (d)(1). [Pub. L. 113–240][/us/pl/113/240], § 4(2)(A), substituted “120 days” for “180 days” and inserted at end “If the Secretary is unable to make a determination to adopt or reject such recommendation within such 120-day period, the Secretary shall notify the Advisory Committee and the appropriate committees of Congress of such determination together with an explanation for why the Secretary was unable to comply within such 120-day period, as well as a plan of action for consideration of such pending recommendation.”
 
-    Subsec. (d)(2). [Pub. L. 113–240, § 4(2)(B)][/us/pl/113/240/s4/2/B], (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall adopt or reject any recommendation issued by the Advisory Committee that is pending on April 24, 2008, by not later than 180 days after April 24, 2008.”
+    Subsec. (d)(2). [Pub. L. 113–240][/us/pl/113/240], § 4(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall adopt or reject any recommendation issued by the Advisory Committee that is pending on April 24, 2008, by not later than 180 days after April 24, 2008.”
 
-    Subsec. (d)(3). [Pub. L. 113–240, § 4(2)(D)][/us/pl/113/240/s4/2/D], added par. (3). Former par. (3) redesignated (2).
+    Subsec. (d)(3). [Pub. L. 113–240][/us/pl/113/240], § 4(2)(D), added par. (3). Former par. (3) redesignated (2).
 
-    Subsec. (f). [Pub. L. 113–240, § 4(4)][/us/pl/113/240/s4/4], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 113–240][/us/pl/113/240], § 4(4), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 113–240, § 4(3)][/us/pl/113/240/s4/3], (5), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, text read as follows: “Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall continue to operate during the 5-year period beginning on April 24, 2008.”
+    Subsec. (g). [Pub. L. 113–240][/us/pl/113/240], § 4(3), (5), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, text read as follows: “Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall continue to operate during the 5-year period beginning on April 24, 2008.”
 
-    Subsec. (h). [Pub. L. 113–240, § 4(3)][/us/pl/113/240/s4/3], (6), redesignated subsec. (g) as (h) and struck it out. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $1,000,000 for fiscal year 2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.”
+    Subsec. (h). [Pub. L. 113–240][/us/pl/113/240], § 4(3), (6), redesignated subsec. (g) as (h) and struck it out. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $1,000,000 for fiscal year 2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.”
 
-    2008—Subsec. (b)(3) to (5). [Pub. L. 110–204, § 4(1)(B)][/us/pl/110/204/s4/1/B], (C), added pars. (3) to (5). Former par. (3) redesignated (6).
+    2008—Subsec. (b)(3) to (5). [Pub. L. 110–204][/us/pl/110/204], § 4(1)(B), (C), added pars. (3) to (5). Former par. (3) redesignated (6).
 
-    Subsec. (b)(6). [Pub. L. 110–204, § 4(1)(A)][/us/pl/110/204/s4/1/A], (D), redesignated par. (3) as (6), substituted “, which may include recommendations, advice, or information dealing with—” for period at end, and added subpars. (A) to (K).
+    Subsec. (b)(6). [Pub. L. 110–204][/us/pl/110/204], § 4(1)(A), (D), redesignated par. (3) as (6), substituted “, which may include recommendations, advice, or information dealing with—” for period at end, and added subpars. (A) to (K).
 
-    Subsec. (c)(2)(E) to (I). [Pub. L. 110–204, § 4(2)][/us/pl/110/204/s4/2], as amended by [Pub. L. 110–237, § 1(b)(2)][/us/pl/110/237/s1/b/2], added subpars. (E) and (G) and redesignated former subpars. (E), (F), and (G) as (F), (H), and (I), respectively.
+    Subsec. (c)(2)(E) to (I). [Pub. L. 110–204][/us/pl/110/204], § 4(2), as amended by [Pub. L. 110–237][/us/pl/110/237], § 1(b)(2), added subpars. (E) and (G) and redesignated former subpars. (E), (F), and (G) as (F), (H), and (I), respectively.
 
-    Subsec. (d). [Pub. L. 110–204, § 4(3)][/us/pl/110/204/s4/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–204][/us/pl/110/204], § 4(3), added subsec. (d).
 
-    Subsec. (d)(2). [Pub. L. 110–237, § 1(a)(3)(A)][/us/pl/110/237/s1/a/3/A], made technical amendment to reference in original act which appears in text as the first reference to April 24, 2008.
+    Subsec. (d)(2). [Pub. L. 110–237][/us/pl/110/237], § 1(a)(3)(A), made technical amendment to reference in original act which appears in text as the first reference to April 24, 2008.
 
-    Subsecs. (e), (f). [Pub. L. 110–237, § 1(a)(3)(B)][/us/pl/110/237/s1/a/3/B], (C), made technical amendment to references in original act which appear in text as references to April 24, 2008.
+    Subsecs. (e), (f). [Pub. L. 110–237][/us/pl/110/237], § 1(a)(3)(B), (C), made technical amendment to references in original act which appear in text as references to April 24, 2008.
 
-    [Pub. L. 110–204, § 4(3)][/us/pl/110/204/s4/3], added subsecs. (e) and (f).
+    [Pub. L. 110–204][/us/pl/110/204], § 4(3), added subsecs. (e) and (f).
 
-    Subsec. (g). [Pub. L. 110–237, § 1(a)(3)(D)][/us/pl/110/237/s1/a/3/D], substituted “2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.” for “2008, $1,012,500 for fiscal year 2009, $1,025,000 for fiscal year 2010, $1,037,500 for fiscal year 2011, and $1,050,000 for fiscal year 2012.”
+    Subsec. (g). [Pub. L. 110–237][/us/pl/110/237], § 1(a)(3)(D), substituted “2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.” for “2008, $1,012,500 for fiscal year 2009, $1,025,000 for fiscal year 2010, $1,037,500 for fiscal year 2011, and $1,050,000 for fiscal year 2012.”
 
-    [Pub. L. 110–204, § 4(3)][/us/pl/110/204/s4/3], added subsec. (g).
+    [Pub. L. 110–204][/us/pl/110/204], § 4(3), added subsec. (g).
 
  __Termination of Advisory Committees__ 
 
     Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], Oct. 6, 1972, [86 Stat. 776][/us/stat/86/776], set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ----------
 
@@ -202,42 +202,42 @@
 [/us/usc/t42/s300b–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9313
 [/us/usc/t42/s300b–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9311
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2601
+[/us/pl/106/310/dA/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXVI
 [/us/stat/114/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1166
-[/us/pl/110/204/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs4
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
 [/us/stat/122/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F706
-[/us/pl/110/237/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F3
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
 [/us/stat/122/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1556
-[/us/pl/113/240/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
 [/us/stat/128/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2853
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/113/240/s4/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F1%2FB
-[/us/pl/113/240/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F1%2FA
-[/us/pl/113/240/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F1%2FA
-[/us/pl/113/240/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F1%2FA
-[/us/pl/113/240/s4/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F1%2FD%2Fi
-[/us/pl/113/240/s4/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F1%2FD%2Fii
-[/us/pl/113/240/s4/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F1%2FD%2Fiii
-[/us/pl/113/240/s4/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F2%2FA
-[/us/pl/113/240/s4/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F2%2FB
-[/us/pl/113/240/s4/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F2%2FD
-[/us/pl/113/240/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F4
-[/us/pl/113/240/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F3
-[/us/pl/113/240/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs4%2F3
-[/us/pl/110/204/s4/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs4%2F1%2FB
-[/us/pl/110/204/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs4%2F1%2FA
-[/us/pl/110/204/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs4%2F2
-[/us/pl/110/237/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fb%2F2
-[/us/pl/110/204/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs4%2F3
-[/us/pl/110/237/s1/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F3%2FA
-[/us/pl/110/237/s1/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F3%2FB
-[/us/pl/110/204/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs4%2F3
-[/us/pl/110/237/s1/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F3%2FD
-[/us/pl/110/204/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs4%2F3
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

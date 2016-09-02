@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, title II, § 2141][/us/pl/111/13/s2141], Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584], substituted “SERVICE” for “VOLUNTEER” in heading.
+    2009—[Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2141, Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584], substituted “SERVICE” for “VOLUNTEER” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/13/s2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2141
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1584
 
 

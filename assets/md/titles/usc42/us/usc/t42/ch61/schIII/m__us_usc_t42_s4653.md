@@ -23,7 +23,7 @@
 
     (3) the pro rata portion of real property taxes paid which are allocable to a period subsequent to the date of vesting title in the United States, or the effective date of possession of such real property by the United States, whichever is the earlier.
 
-([Pub. L. 91–646, title III, § 303][/us/pl/91/646/s303], Jan. 2, 1971, [84 Stat. 1906][/us/stat/84/1906].)
+([Pub. L. 91–646, title III][/us/pl/91/646/tIII], § 303, Jan. 2, 1971, [84 Stat. 1906][/us/stat/84/1906].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/646/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs303
+[/us/pl/91/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtIII
 [/us/stat/84/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1906
 
 

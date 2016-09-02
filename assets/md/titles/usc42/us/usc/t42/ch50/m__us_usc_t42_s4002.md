@@ -43,7 +43,7 @@
 
         (4) require the purchase of flood insurance by property owners who are being assisted by Federal programs or by federally supervised, regulated, or insured agencies or institutions in the acquisition or improvement of land or facilities located or to be located in identified areas having special flood hazards.
 
-([Pub. L. 93–234, § 2][/us/pl/93/234/s2], Dec. 31, 1973, [87 Stat. 975][/us/stat/87/975].)
+([Pub. L. 93–234][/us/pl/93/234], § 2, Dec. 31, 1973, [87 Stat. 975][/us/stat/87/975].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/93/234/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs2
+[/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F975
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F975

@@ -59,27 +59,27 @@
 
         (3) In carrying out paragraph (2), information concerning atomic energy programs of other nations shall be restored to the Restricted Data category in accordance with regulations prescribed for purposes of such paragraph.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 142, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 941][/us/stat/68/941]; amended [Pub. L. 102–484, div. C, title XXXI, § 3152][/us/pl/102/484/s3152], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–337, div. A, title XXXI, § 3155(c)(2)][/us/pl/103/337/s3155/c/2], (3), Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092]; [Pub. L. 112–239, div. C, title XXXI, § 3163][/us/pl/112/239/s3163], Jan. 2, 2013, [126 Stat. 2205][/us/stat/126/2205].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 142, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 941][/us/stat/68/941]; amended [Pub. L. 102–484, div. C, title XXXI][/us/pl/102/484/dC/tXXXI], § 3152, Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–337, div. A, title XXXI][/us/pl/103/337/dA/tXXXI], § 3155(c)(2), (3), Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3163, Jan. 2, 2013, [126 Stat. 2205][/us/stat/126/2205].)
 
  __References in Text__ 
 
-    Section 102(d) of the National Security Act of 1947, as amended, referred to in subsec. (e)(1), was a reference to section 102(d) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, [61 Stat. 497][/us/stat/61/497], which was classified to [section 403(d) of Title 50][/us/usc/t50/s403/d], War and National Defense, prior to repeal by [Pub. L. 104–293, title VIII, § 805(a)][/us/pl/104/293/s805/a], Oct. 11, 1996, [110 Stat. 3477][/us/stat/110/3477].
+    Section 102(d) of the National Security Act of 1947, as amended, referred to in subsec. (e)(1), was a reference to section 102(d) of [act July 26, 1947, ch. 343, title I][/us/act/1947-07-26/ch343/tI], [61 Stat. 497][/us/stat/61/497], which was classified to [section 403(d) of Title 50][/us/usc/t50/s403/d], War and National Defense, prior to repeal by [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], § 805(a), Oct. 11, 1996, [110 Stat. 3477][/us/stat/110/3477].
 
  __Amendments__ 
 
-    2013—Subsec. (d). [Pub. L. 112–239, § 3163(1)][/us/pl/112/239/s3163/1], designated existing provisions as par. (1) and added pars. (2) and (3).
+    2013—Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 3163(1), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (e). [Pub. L. 112–239, § 3163(2)][/us/pl/112/239/s3163/2], designated existing provisions as par. (1), substituted “National Intelligence” for “Central Intelligence”, and added pars. (2) and (3).
+    Subsec. (e). [Pub. L. 112–239][/us/pl/112/239], § 3163(2), designated existing provisions as par. (1), substituted “National Intelligence” for “Central Intelligence”, and added pars. (2) and (3).
 
-    1994—Subsec. (d). [Pub. L. 103–337, § 3155(c)(2)][/us/pl/103/337/s3155/c/2], substituted “subsection (b) or (d) of [section 2164 of this title][/us/usc/t42/s2164]” for “[section 2164(b) of this title][/us/usc/t42/s2164/b]”.
+    1994—Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 3155(c)(2), substituted “subsection (b) or (d) of [section 2164 of this title][/us/usc/t42/s2164]” for “[section 2164(b) of this title][/us/usc/t42/s2164/b]”.
 
-    Subsec. (f). [Pub. L. 103–337, § 3155(c)(3)][/us/pl/103/337/s3155/c/3], struck out subsec. (f) which read as follows: “Notwithstanding any other law, the President may publicly release Restricted Data regarding the nuclear weapons stockpile of the United States if the United States and member states of the Commonwealth of Independent States reach reciprocal agreement on the release of such data.”
+    Subsec. (f). [Pub. L. 103–337][/us/pl/103/337], § 3155(c)(3), struck out subsec. (f) which read as follows: “Notwithstanding any other law, the President may publicly release Restricted Data regarding the nuclear weapons stockpile of the United States if the United States and member states of the Commonwealth of Independent States reach reciprocal agreement on the release of such data.”
 
     1992—Subsec. (f). [Pub. L. 102–484][/us/pl/102/484] added subsec. (f).
 
  __Review of Certain Documents Before Declassification and Release__ 
 
-    [Pub. L. 104–106, div. C, title XXXI, § 3155][/us/pl/104/106/s3155], Feb. 10, 1996, [110 Stat. 625][/us/stat/110/625], which was formerly set out as a note under this section, was renumbered [section 4521 of Pub. L. 107–314][/us/pl/107/314/s4521], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(11)][/us/pl/108/136/s3141/h/11], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774], and is classified to [section 2671 of Title 50][/us/usc/t50/s2671], War and National Defense.
+    [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3155, Feb. 10, 1996, [110 Stat. 625][/us/stat/110/625], which was formerly set out as a note under this section, was renumbered [section 4521 of Pub. L. 107–314][/us/pl/107/314/s4521], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(11), Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774], and is classified to [section 2671 of Title 50][/us/usc/t50/s2671], War and National Defense.
 
  __Ex. Ord. No. 10899. Communication of Restricted Data by Central Intelligence Agency__ 
 
@@ -126,32 +126,32 @@ By virtue of the authority vested in me by the Atomic Energy Act of 1954, as ame
 
 [/us/usc/t42/s2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2164
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F941
-[/us/pl/102/484/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3152
+[/us/pl/102/484/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXI
 [/us/stat/106/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2644
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/337/s3155/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F2
+[/us/pl/103/337/dA/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXXXI
 [/us/stat/108/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3092
-[/us/pl/112/239/s3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3163
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2205
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtI
 [/us/stat/61/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F497
 [/us/usc/t50/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%2Fd
-[/us/pl/104/293/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs805%2Fa
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3477
-[/us/pl/112/239/s3163/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3163%2F1
-[/us/pl/112/239/s3163/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3163%2F2
-[/us/pl/103/337/s3155/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t42/s2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2164
 [/us/usc/t42/s2164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2164%2Fb
-[/us/pl/103/337/s3155/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/104/106/s3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3155
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F625
 [/us/pl/107/314/s4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4521
-[/us/pl/108/136/s3141/h/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F11
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1774
 [/us/usc/t50/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2671
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011

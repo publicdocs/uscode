@@ -77,7 +77,7 @@
 
                 Except as provided in subparagraph (A), no provision of this subsection or any regulation promulgated by the Secretary under this subsection supersedes or otherwise affects the application of the securities laws (as the term is defined in section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)][/us/usc/t15/s78c/a])) or the rules, regulations, or orders of the Securities and Exchange Commission or a self-regulatory organization under that Commission.
 
-([Pub. L. 89–136, title II, § 209][/us/pl/89/136/s209], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3605][/us/stat/112/3605]; amended [Pub. L. 108–373, title II, § 207][/us/pl/108/373/s207], Oct. 27, 2004, [118 Stat. 1762][/us/stat/118/1762].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 209, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3605][/us/stat/112/3605]; amended [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 207, Oct. 27, 2004, [118 Stat. 1762][/us/stat/118/1762].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c)(5). [Pub. L. 108–373, § 207(a)][/us/pl/108/373/s207/a], added par. (5).
+    2004—Subsec. (c)(5). [Pub. L. 108–373][/us/pl/108/373], § 207(a), added par. (5).
 
-    Subsec. (d). [Pub. L. 108–373, § 207(b)][/us/pl/108/373/s207/b], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
+    Subsec. (d). [Pub. L. 108–373][/us/pl/108/373], § 207(b), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
 
     “(1) In general.—Subject to paragraph (2), an eligible recipient of a grant under this section may directly expend the grant funds or may redistribute the funds to public and private entities in the form of a grant, loan, loan guarantee, payment to reduce interest on a loan guarantee, or other appropriate assistance.
 
@@ -109,10 +109,10 @@
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
-[/us/pl/89/136/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs209
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3605
-[/us/pl/108/373/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs207
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1762
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -123,7 +123,7 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/108/373/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs207%2Fa
-[/us/pl/108/373/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs207%2Fb
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

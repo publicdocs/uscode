@@ -47,7 +47,7 @@
 
         (3) future priorities to ensure compliance with this section.
 
-([Pub. L. 95–619, title V, § 552][/us/pl/95/619/s552], as added [Pub. L. 109–58, title I, § 101(a)][/us/pl/109/58/s101/a], Aug. 8, 2005, [119 Stat. 605][/us/stat/119/605].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 552, as added [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 101(a), Aug. 8, 2005, [119 Stat. 605][/us/stat/119/605].)
 
 ----------
 
@@ -57,8 +57,8 @@
 ----------
 
 [/us/usc/t42/s8253/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253%2Fa%2F1
-[/us/pl/95/619/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs552
-[/us/pl/109/58/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs101%2Fa
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F605
 
 

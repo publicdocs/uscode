@@ -199,7 +199,7 @@
 
             (B) Appeals from the decision of the Chair relating to the application of rules of the Senate to the procedures relating to a joint resolution shall be decided without debate.
 
-([Pub. L. 94–163, title II, § 252][/us/pl/94/163/s252], Dec. 22, 1975, [89 Stat. 894][/us/stat/89/894]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 96–30][/us/pl/96/30], June 30, 1979, [93 Stat. 80][/us/stat/93/80]; [Pub. L. 96–94][/us/pl/96/94], Oct. 31, 1979, [93 Stat. 720][/us/stat/93/720]; [Pub. L. 96–133][/us/pl/96/133], §§ 1, 2, Nov. 30, 1979, [93 Stat. 1053][/us/stat/93/1053]; [Pub. L. 97–5][/us/pl/97/5], Mar. 13, 1981, [95 Stat. 7][/us/stat/95/7]; [Pub. L. 97–50][/us/pl/97/50], Sept. 30, 1981, [95 Stat. 957][/us/stat/95/957]; [Pub. L. 97–163][/us/pl/97/163], Apr. 1, 1982, [96 Stat. 24][/us/stat/96/24]; [Pub. L. 97–190][/us/pl/97/190], June 1, 1982, [96 Stat. 106][/us/stat/96/106]; [Pub. L. 97–217][/us/pl/97/217], July 19, 1982, [96 Stat. 196][/us/stat/96/196]; [Pub. L. 97–229, § 2(a)][/us/pl/97/229/s2/a], (b)(2), Aug. 3, 1982, [96 Stat. 248][/us/stat/96/248]; [Pub. L. 98–239][/us/pl/98/239], Mar. 20, 1984, [98 Stat. 93][/us/stat/98/93]; [Pub. L. 99–58, title I][/us/pl/99/58], §§ 104(c)(2), (4), 105, July 2, 1985, [99 Stat. 105][/us/stat/99/105]; [Pub. L. 104–66, title I, § 1091(g)][/us/pl/104/66/s1091/g], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 105–177, § 1(4)][/us/pl/105/177/s1/4], June 1, 1998, [112 Stat. 105][/us/stat/112/105].)
+([Pub. L. 94–163, title II][/us/pl/94/163/tII], § 252, Dec. 22, 1975, [89 Stat. 894][/us/stat/89/894]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 96–30][/us/pl/96/30], June 30, 1979, [93 Stat. 80][/us/stat/93/80]; [Pub. L. 96–94][/us/pl/96/94], Oct. 31, 1979, [93 Stat. 720][/us/stat/93/720]; [Pub. L. 96–133][/us/pl/96/133], §§ 1, 2, Nov. 30, 1979, [93 Stat. 1053][/us/stat/93/1053]; [Pub. L. 97–5][/us/pl/97/5], Mar. 13, 1981, [95 Stat. 7][/us/stat/95/7]; [Pub. L. 97–50][/us/pl/97/50], Sept. 30, 1981, [95 Stat. 957][/us/stat/95/957]; [Pub. L. 97–163][/us/pl/97/163], Apr. 1, 1982, [96 Stat. 24][/us/stat/96/24]; [Pub. L. 97–190][/us/pl/97/190], June 1, 1982, [96 Stat. 106][/us/stat/96/106]; [Pub. L. 97–217][/us/pl/97/217], July 19, 1982, [96 Stat. 196][/us/stat/96/196]; [Pub. L. 97–229][/us/pl/97/229], § 2(a), (b)(2), Aug. 3, 1982, [96 Stat. 248][/us/stat/96/248]; [Pub. L. 98–239][/us/pl/98/239], Mar. 20, 1984, [98 Stat. 93][/us/stat/98/93]; [Pub. L. 99–58, title I][/us/pl/99/58/tI], §§ 104(c)(2), (4), 105, July 2, 1985, [99 Stat. 105][/us/stat/99/105]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1091(g), Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 105–177][/us/pl/105/177], § 1(4), June 1, 1998, [112 Stat. 105][/us/stat/112/105].)
 
  __References in Text__ 
 
@@ -213,31 +213,31 @@
 
  __Amendments__ 
 
-    1998—Subsecs. (a)(1), (b). [Pub. L. 105–177, § 1(4)(A)][/us/pl/105/177/s1/4/A], substituted “international emergency response provisions” for “allocation and information provisions of the international energy program”.
+    1998—Subsecs. (a)(1), (b). [Pub. L. 105–177][/us/pl/105/177], § 1(4)(A), substituted “international emergency response provisions” for “allocation and information provisions of the international energy program”.
 
-    Subsec. (d)(3). [Pub. L. 105–177, § 1(4)(B)][/us/pl/105/177/s1/4/B], substituted “circumstances known at the time of approval” for “known circumstances”.
+    Subsec. (d)(3). [Pub. L. 105–177][/us/pl/105/177], § 1(4)(B), substituted “circumstances known at the time of approval” for “known circumstances”.
 
-    Subsec. (e)(2). [Pub. L. 105–177, § 1(4)(C)][/us/pl/105/177/s1/4/C], substituted “may” for “shall”.
+    Subsec. (e)(2). [Pub. L. 105–177][/us/pl/105/177], § 1(4)(C), substituted “may” for “shall”.
 
-    Subsec. (f)(2). [Pub. L. 105–177, § 1(4)(D)][/us/pl/105/177/s1/4/D], inserted “voluntary agreement or” after “approved”.
+    Subsec. (f)(2). [Pub. L. 105–177][/us/pl/105/177], § 1(4)(D), inserted “voluntary agreement or” after “approved”.
 
-    Subsec. (h). [Pub. L. 105–177, § 1(4)(E)][/us/pl/105/177/s1/4/E], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(o)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(o) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975.”
+    Subsec. (h). [Pub. L. 105–177][/us/pl/105/177], § 1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(o)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(o) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975.”
 
-    Subsec. (k)(2). [Pub. L. 105–177, § 1(4)(F)][/us/pl/105/177/s1/4/F], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘allocation and information provisions of the international energy program’ means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program.”
+    Subsec. (k)(2). [Pub. L. 105–177][/us/pl/105/177], § 1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘allocation and information provisions of the international energy program’ means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program.”
 
-    Subsec. (l). [Pub. L. 105–177, § 1(4)(G)][/us/pl/105/177/s1/4/G], amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implement chapters III, IV, and V of the international energy program.”
+    Subsec. (l). [Pub. L. 105–177][/us/pl/105/177], § 1(4)(G), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implement chapters III, IV, and V of the international energy program.”
 
     1995—Subsec. (i). [Pub. L. 104–66][/us/pl/104/66] substituted “, at such intervals as are appropriate based on significant developments and issues, reports” for “, at least once every 6 months, a report”.
 
-    1985—Subsec. (d)(1). [Pub. L. 99–58, § 104(c)(4)][/us/pl/99/58/s104/c/4], substituted “subsection (f) or (j)” for “subsection (f) or (k)”.
+    1985—Subsec. (d)(1). [Pub. L. 99–58][/us/pl/99/58], § 104(c)(4), substituted “subsection (f) or (j)” for “subsection (f) or (k)”.
 
-    Subsecs. (j) to (l). [Pub. L. 99–58, § 104(c)(2)][/us/pl/99/58/s104/c/2], redesignated subsecs. (k) to (m) as (j) to (l). Former subsec. (j), which provided that the authority granted by this section would terminate at midnight, June 30, 1985, was struck out.
+    Subsecs. (j) to (l). [Pub. L. 99–58][/us/pl/99/58], § 104(c)(2), redesignated subsecs. (k) to (m) as (j) to (l). Former subsec. (j), which provided that the authority granted by this section would terminate at midnight, June 30, 1985, was struck out.
 
-    Subsecs. (m), (n). [Pub. L. 99–58, § 105][/us/pl/99/58/s105], added subsecs. (m) and (n). Former subsec. (m) redesignated (l).
+    Subsecs. (m), (n). [Pub. L. 99–58][/us/pl/99/58], § 105, added subsecs. (m) and (n). Former subsec. (m) redesignated (l).
 
     1984—Subsec. (j). [Pub. L. 98–239][/us/pl/98/239] substituted “June 30, 1985” for “December 31, 1983”.
 
-    1982—Subsec. (j). [Pub. L. 97–229, § 2(a)][/us/pl/97/229/s2/a], substituted “at midnight December 31, 1983” for “August 1, 1982”.
+    1982—Subsec. (j). [Pub. L. 97–229][/us/pl/97/229], § 2(a), substituted “at midnight December 31, 1983” for “August 1, 1982”.
 
     [Pub. L. 97–217][/us/pl/97/217] substituted “August 1, 1982” for “July 1, 1982”.
 
@@ -245,15 +245,15 @@
 
     [Pub. L. 97–163][/us/pl/97/163] substituted “June 1, 1982” for “April 1, 1982”.
 
-    Subsec. (m). [Pub. L. 97–229, § 2(b)(2)][/us/pl/97/229/s2/b/2], added subsec. (m).
+    Subsec. (m). [Pub. L. 97–229][/us/pl/97/229], § 2(b)(2), added subsec. (m).
 
     1981—Subsec. (j). [Pub. L. 97–50][/us/pl/97/50] substituted “April 1, 1982” for “September 30, 1981”.
 
     [Pub. L. 97–5][/us/pl/97/5] substituted “September 30, 1981” for “March 15, 1981”.
 
-    1979—Subsec. (c)(4). [Pub. L. 96–133, § 2][/us/pl/96/133/s2], inserted provisions respecting access to transcripts.
+    1979—Subsec. (c)(4). [Pub. L. 96–133][/us/pl/96/133], § 2, inserted provisions respecting access to transcripts.
 
-    Subsec. (j). [Pub. L. 96–133, § 1][/us/pl/96/133/s1], substituted “March 15, 1981” for “November 30, 1979”.
+    Subsec. (j). [Pub. L. 96–133][/us/pl/96/133], § 1, substituted “March 15, 1981” for “November 30, 1979”.
 
     [Pub. L. 96–94][/us/pl/96/94] substituted “November 30” for “October 31”.
 
@@ -263,11 +263,11 @@
 
  __Study and Report on Energy Policy Cooperation Between United States and Other Western Hemisphere Countries__ 
 
-    [Pub. L. 100–373, § 2][/us/pl/100/373/s2], July 19, 1988, [102 Stat. 878][/us/stat/102/878], directed Secretary of Energy, in consultation with Secretary of State and Secretary of Commerce, to conduct a study to determine how best to enhance cooperation between United States and other countries of Western Hemisphere with respect to energy policy including stable supplies of, and stable prices for, energy, with Secretary of Energy to report results of such study to Congress, propose a comprehensive international energy policy for United States designed to enhance cooperation between United States and other countries of the Western Hemisphere, and recommend such action as Secretary deemed necessary to establish and implement such policy.
+    [Pub. L. 100–373][/us/pl/100/373], § 2, July 19, 1988, [102 Stat. 878][/us/stat/102/878], directed Secretary of Energy, in consultation with Secretary of State and Secretary of Commerce, to conduct a study to determine how best to enhance cooperation between United States and other countries of Western Hemisphere with respect to energy policy including stable supplies of, and stable prices for, energy, with Secretary of Energy to report results of such study to Congress, propose a comprehensive international energy policy for United States designed to enhance cooperation between United States and other countries of the Western Hemisphere, and recommend such action as Secretary deemed necessary to establish and implement such policy.
 
  __Report of Implementation Activities Under International Voluntary Agreements__ 
 
-    [Pub. L. 96–133, § 3][/us/pl/96/133/s3], Nov. 30, 1979, [93 Stat. 1053][/us/stat/93/1053], directed Secretary of Energy, in consultation with Secretary of State, Attorney General, and Chairman of Federal Trade Commission, to prepare and submit to appropriate committees of Congress, a report concerning actions taken by them to carry out provisions of this section, which report was to examine and discuss extent to which all, or part, of any meeting held in accordance with subsec. (c) of this section to carry out a voluntary agreement or to develop or carry out a plan of action should be open to interested persons in furtherance of provisions of subsec. (c)(1)(A) of this section, policies and procedures followed by appropriate Federal agencies in reviewing and making public or withholding from the public all, or part, of any transcript of any meeting held to develop or carry out a voluntary agreement or plan of action under this section and in permitting persons, other than citizens of United States, to review such transcripts prior to any public disclosure thereof, extent to which classification of all, or part, of such transcripts should be carried out by one agency, adequacy of actions by responsible Federal agencies in insuring that standards and procedures required by this section are fully implemented and enforced, including monitoring of program concerning any anticompetitive effects, and number of personnel, and amount of funds, assigned by each such agency to carry out such standards and procedures, actions taken, or to be taken, to improve reporting of energy supply data under international energy program and to reconcile such reporting with similar reporting that is conducted by Department of Energy, actions taken, or planned, to improve reporting required by subsec. (i) of this section, and other actions under subsec. (i) of this section and to transmit such report to such committees within 120 days after Nov. 30, 1979, and to make such report available to the public.
+    [Pub. L. 96–133][/us/pl/96/133], § 3, Nov. 30, 1979, [93 Stat. 1053][/us/stat/93/1053], directed Secretary of Energy, in consultation with Secretary of State, Attorney General, and Chairman of Federal Trade Commission, to prepare and submit to appropriate committees of Congress, a report concerning actions taken by them to carry out provisions of this section, which report was to examine and discuss extent to which all, or part, of any meeting held in accordance with subsec. (c) of this section to carry out a voluntary agreement or to develop or carry out a plan of action should be open to interested persons in furtherance of provisions of subsec. (c)(1)(A) of this section, policies and procedures followed by appropriate Federal agencies in reviewing and making public or withholding from the public all, or part, of any transcript of any meeting held to develop or carry out a voluntary agreement or plan of action under this section and in permitting persons, other than citizens of United States, to review such transcripts prior to any public disclosure thereof, extent to which classification of all, or part, of such transcripts should be carried out by one agency, adequacy of actions by responsible Federal agencies in insuring that standards and procedures required by this section are fully implemented and enforced, including monitoring of program concerning any anticompetitive effects, and number of personnel, and amount of funds, assigned by each such agency to carry out such standards and procedures, actions taken, or to be taken, to improve reporting of energy supply data under international energy program and to reconcile such reporting with similar reporting that is conducted by Department of Energy, actions taken, or planned, to improve reporting required by subsec. (i) of this section, and other actions under subsec. (i) of this section and to transmit such report to such committees within 120 days after Nov. 30, 1979, and to make such report available to the public.
 
  __Classification of Certain Information and Material__ 
 
@@ -284,9 +284,9 @@
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311
 [/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/usc/t42/s6274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6274
-[/us/pl/94/163/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs252
+[/us/pl/94/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtII
 [/us/stat/89/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F894
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
 [/us/pl/96/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F30
 [/us/stat/93/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F80
@@ -304,15 +304,15 @@
 [/us/stat/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F106
 [/us/pl/97/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F217
 [/us/stat/96/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F196
-[/us/pl/97/229/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs2%2Fa
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/stat/96/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F248
 [/us/pl/98/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F239
 [/us/stat/98/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F93
-[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
+[/us/pl/99/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2FtI
 [/us/stat/99/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F105
-[/us/pl/104/66/s1091/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1091%2Fg
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F722
-[/us/pl/105/177/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
 [/us/stat/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F105
 [/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/stat/76/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F548
@@ -321,33 +321,33 @@
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
-[/us/pl/105/177/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4%2FA
-[/us/pl/105/177/s1/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4%2FB
-[/us/pl/105/177/s1/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4%2FC
-[/us/pl/105/177/s1/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4%2FD
-[/us/pl/105/177/s1/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4%2FE
-[/us/pl/105/177/s1/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4%2FF
-[/us/pl/105/177/s1/4/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F4%2FG
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/99/58/s104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs104%2Fc%2F4
-[/us/pl/99/58/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs104%2Fc%2F2
-[/us/pl/99/58/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs105
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
 [/us/pl/98/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F239
-[/us/pl/97/229/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs2%2Fa
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/pl/97/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F217
 [/us/pl/97/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F190
 [/us/pl/97/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F163
-[/us/pl/97/229/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs2%2Fb%2F2
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/pl/97/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F50
 [/us/pl/97/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F5
-[/us/pl/96/133/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F133%2Fs2
-[/us/pl/96/133/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F133%2Fs1
+[/us/pl/96/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F133
+[/us/pl/96/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F133
 [/us/pl/96/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F94
 [/us/pl/96/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F30
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/100/373/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F373%2Fs2
+[/us/pl/100/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F373
 [/us/stat/102/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F878
-[/us/pl/96/133/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F133%2Fs3
+[/us/pl/96/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F133
 [/us/stat/93/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1053
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 

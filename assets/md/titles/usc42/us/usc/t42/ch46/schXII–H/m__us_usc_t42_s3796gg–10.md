@@ -43,25 +43,25 @@
 
         All applicants under this section shall demonstrate their proposal was developed in consultation with a nonprofit, nongovernmental Indian victim services program, including sexual assault and domestic violence victim services providers in the tribal or local community, or a nonprofit tribal domestic violence and sexual assault coalition to the extent that they exist. In the absence of such a demonstration, the applicant may meet the requirement of this subsection through consultation with women in the community to be served.
 
-([Pub. L. 90–351, title I, § 2015][/us/pl/90/351/s2015], formerly § 2007, as added [Pub. L. 109–162, title IX, § 906(a)][/us/pl/109/162/s906/a], Jan. 5, 2006, [119 Stat. 3080][/us/stat/119/3080]; renumbered § 2015 and amended [Pub. L. 109–271, § 7(a)(1)(A)][/us/pl/109/271/s7/a/1/A], (C), (3), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763]; [Pub. L. 113–4, title IX, § 901][/us/pl/113/4/s901], Mar. 7, 2013, [127 Stat. 118][/us/stat/127/118].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2015, formerly § 2007, as added [Pub. L. 109–162, title IX][/us/pl/109/162/tIX], § 906(a), Jan. 5, 2006, [119 Stat. 3080][/us/stat/119/3080]; renumbered § 2015 and amended [Pub. L. 109–271][/us/pl/109/271], § 7(a)(1)(A), (C), (3), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763]; [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 901, Mar. 7, 2013, [127 Stat. 118][/us/stat/127/118].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 113–4, § 901(1)][/us/pl/113/4/s901/1], inserted “sex trafficking,” after “sexual assault,”.
+    2013—Subsec. (a)(2). [Pub. L. 113–4][/us/pl/113/4], § 901(1), inserted “sex trafficking,” after “sexual assault,”.
 
-    Subsec. (a)(4). [Pub. L. 113–4, § 901(2)][/us/pl/113/4/s901/2], inserted “sex trafficking,” after “sexual assault,”.
+    Subsec. (a)(4). [Pub. L. 113–4][/us/pl/113/4], § 901(2), inserted “sex trafficking,” after “sexual assault,”.
 
-    Subsec. (a)(5). [Pub. L. 113–4, § 901(3)][/us/pl/113/4/s901/3], substituted “sexual assault, sex trafficking, and stalking;” for “and stalking programs and to address the needs of children exposed to domestic violence;”.
+    Subsec. (a)(5). [Pub. L. 113–4][/us/pl/113/4], § 901(3), substituted “sexual assault, sex trafficking, and stalking;” for “and stalking programs and to address the needs of children exposed to domestic violence;”.
 
-    Subsec. (a)(7). [Pub. L. 113–4, § 901(4)(A)][/us/pl/113/4/s901/4/A], inserted “sex trafficking,” after “sexual assault,” in two places.
+    Subsec. (a)(7). [Pub. L. 113–4][/us/pl/113/4], § 901(4)(A), inserted “sex trafficking,” after “sexual assault,” in two places.
 
-    Subsec. (a)(8). [Pub. L. 113–4, § 901(5)(A)][/us/pl/113/4/s901/5/A], inserted “sex trafficking,” after “stalking,”.
+    Subsec. (a)(8). [Pub. L. 113–4][/us/pl/113/4], § 901(5)(A), inserted “sex trafficking,” after “stalking,”.
 
-    Subsec. (a)(9), (10). [Pub. L. 113–4, § 901(4)(B)][/us/pl/113/4/s901/4/B], (5)(B), (6), added pars. (9) and (10).
+    Subsec. (a)(9), (10). [Pub. L. 113–4][/us/pl/113/4], § 901(4)(B), (5)(B), (6), added pars. (9) and (10).
 
-    2006—Subsec. (a). [Pub. L. 109–271, § 7(a)(3)(A)][/us/pl/109/271/s7/a/3/A], substituted “or authorized designees of Indian tribal governments” for “and tribal organizations” in introductory provisions and added par. (8).
+    2006—Subsec. (a). [Pub. L. 109–271][/us/pl/109/271], § 7(a)(3)(A), substituted “or authorized designees of Indian tribal governments” for “and tribal organizations” in introductory provisions and added par. (8).
 
-    Subsec. (c). [Pub. L. 109–271, § 7(a)(3)(B)][/us/pl/109/271/s7/a/3/B], struck out subsec. (c). Prior to amendment, text read as follows: “The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.”
+    Subsec. (c). [Pub. L. 109–271][/us/pl/109/271], § 7(a)(3)(B), struck out subsec. (c). Prior to amendment, text read as follows: “The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -73,7 +73,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 109–162, title IX][/us/pl/109/162], §§ 901, 902, Jan. 5, 2006, [119 Stat. 3077][/us/stat/119/3077], 3078, provided that:
+[Pub. L. 109–162, title IX][/us/pl/109/162/tIX], §§ 901, 902, Jan. 5, 2006, [119 Stat. 3077][/us/stat/119/3077], 3078, provided that:
 
 > “SEC. 901. __FINDINGS.__ 
 
@@ -103,7 +103,7 @@
 
  __National Baseline Study on Violence Against Indian Women__ 
 
-[Pub. L. 109–162, title IX, § 904(a)][/us/pl/109/162/s904/a], Jan. 5, 2006, [119 Stat. 3078][/us/stat/119/3078], as amended by [Pub. L. 113–4, title IX, § 907(a)][/us/pl/113/4/s907/a], Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
+[Pub. L. 109–162, title IX][/us/pl/109/162/tIX], § 904(a), Jan. 5, 2006, [119 Stat. 3078][/us/stat/119/3078], as amended by [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 907(a), Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -166,36 +166,36 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2015
-[/us/pl/109/162/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs906%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIX
 [/us/stat/119/3080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3080
-[/us/pl/109/271/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fa%2F1%2FA
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F763
-[/us/pl/113/4/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F118
-[/us/pl/113/4/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F1
-[/us/pl/113/4/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F2
-[/us/pl/113/4/s901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F3
-[/us/pl/113/4/s901/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F4%2FA
-[/us/pl/113/4/s901/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F5%2FA
-[/us/pl/113/4/s901/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs901%2F4%2FB
-[/us/pl/109/271/s7/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fa%2F3%2FA
-[/us/pl/109/271/s7/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fa%2F3%2FB
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261
 [/us/pl/109/162/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs4
 [/us/usc/t42/s3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIX
 [/us/stat/119/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3077
 [/us/usc/t18/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs117
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t25/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2803
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/109/162/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs904%2Fa
+[/us/pl/109/162/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIX
 [/us/stat/119/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3078
-[/us/pl/113/4/s907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs907%2Fa
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F125
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 

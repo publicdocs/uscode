@@ -29,7 +29,7 @@
 
     (b) transmit its recommendations, together with the plan or revision of the river basin commission and the views, comments, and recommendations with respect to such plan or revision submitted by any Federal agency, Governor, interstate commission, or United States section of an international commission, to the President for his review and transmittal to the Congress with his recommendations in regard to authorization of Federal projects.
 
-([Pub. L. 89–80, title I, § 104][/us/pl/89/80/s104], July 22, 1965, [79 Stat. 245][/us/stat/79/245].)
+([Pub. L. 89–80, title I][/us/pl/89/80/tI], § 104, July 22, 1965, [79 Stat. 245][/us/stat/79/245].)
 
  __Ex. Ord. No. 11747. Delegation of Presidential Functions__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t42/s1962b–3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962b%E2%80%933%2F3
-[/us/pl/89/80/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs104
+[/us/pl/89/80/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtI
 [/us/stat/79/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F245
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t42/s1962a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962a%E2%80%932

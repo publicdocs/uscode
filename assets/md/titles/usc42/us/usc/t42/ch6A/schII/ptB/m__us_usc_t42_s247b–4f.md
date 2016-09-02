@@ -51,7 +51,7 @@
 
         There is authorized to be appropriated to carry out this section, except for subsection (c), $1,880,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 109–450, § 3][/us/pl/109/450/s3], Dec. 22, 2006, [120 Stat. 3341][/us/stat/120/3341]; [Pub. L. 113–55, title I, § 102][/us/pl/113/55/s102], Nov. 27, 2013, [127 Stat. 641][/us/stat/127/641].)
+([Pub. L. 109–450][/us/pl/109/450], § 3, Dec. 22, 2006, [120 Stat. 3341][/us/stat/120/3341]; [Pub. L. 113–55, title I][/us/pl/113/55/tI], § 102, Nov. 27, 2013, [127 Stat. 641][/us/stat/127/641].)
 
  __Codification__ 
 
@@ -61,13 +61,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 113–55, § 102(a)][/us/pl/113/55/s102/a], added subsec. (b) and struck out former subsec. (b) which related to studies and reports on the relationship between prematurity and birth defects.
+    2013—Subsec. (b). [Pub. L. 113–55][/us/pl/113/55], § 102(a), added subsec. (b) and struck out former subsec. (b) which related to studies and reports on the relationship between prematurity and birth defects.
 
-    Subsec. (e). [Pub. L. 113–55, § 102(b)][/us/pl/113/55/s102/b], substituted “$1,880,000 for each of fiscal years 2014 through 2018.” for “$5,000,000 for each of fiscal years 2007 through 2011.”
+    Subsec. (e). [Pub. L. 113–55][/us/pl/113/55], § 102(b), substituted “$1,880,000 for each of fiscal years 2014 through 2018.” for “$5,000,000 for each of fiscal years 2007 through 2011.”
 
  __Advisory Committee on Infant Mortality__ 
 
-[Pub. L. 113–55, title I, § 104(b)][/us/pl/113/55/s104/b], Nov. 27, 2013, [127 Stat. 643][/us/stat/127/643], provided that:
+[Pub. L. 113–55, title I][/us/pl/113/55/tI], § 104(b), Nov. 27, 2013, [127 Stat. 643][/us/stat/127/643], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -105,7 +105,7 @@
 
  __Purpose__ 
 
-[Pub. L. 109–450, § 2][/us/pl/109/450/s2], Dec. 22, 2006, [120 Stat. 3341][/us/stat/120/3341], provided that: 
+[Pub. L. 109–450][/us/pl/109/450], § 2, Dec. 22, 2006, [120 Stat. 3341][/us/stat/120/3341], provided that: 
 
 > “It is the purpose of this Act \[enacting this section and sections 247b–4g and 280g–5 of this title and amending sections 241 and 280g–4 of this title\] to—
 
@@ -122,20 +122,20 @@
 ----------
 ----------
 
-[/us/pl/109/450/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs3
+[/us/pl/109/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450
 [/us/stat/120/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3341
-[/us/pl/113/55/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs102
+[/us/pl/113/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2FtI
 [/us/stat/127/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F641
 [/us/pl/109/450/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs3
 [/us/pl/109/450/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs3
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
-[/us/pl/113/55/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs102%2Fa
-[/us/pl/113/55/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs102%2Fb
-[/us/pl/113/55/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs104%2Fb
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2FtI
 [/us/stat/127/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F643
 [/us/usc/t42/s247b–4g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934g
 [/us/usc/t42/s254c–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%938
-[/us/pl/109/450/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs2
+[/us/pl/109/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450
 [/us/stat/120/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3341
 
 

@@ -17,7 +17,7 @@
 
     The authorities in this chapter are in addition to and do not modify (except to the extent expressly provided for in this chapter) authorities and programs of the Department of Energy and of the Department of Agriculture under other provisions of law.
 
-([Pub. L. 96–294, title II, § 205][/us/pl/96/294/s205], June 30, 1980, [94 Stat. 686][/us/stat/94/686].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 205, June 30, 1980, [94 Stat. 686][/us/stat/94/686].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs205
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F686
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683

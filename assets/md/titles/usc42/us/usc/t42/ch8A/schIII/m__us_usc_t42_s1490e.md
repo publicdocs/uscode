@@ -23,19 +23,19 @@
 
         The Secretary is authorized to make loans to public or private nonprofit corporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him for the necessary expenses, prior to construction, of planning, and obtaining financing for, the rehabilitation or construction of housing for low-income individuals or families under any Federal, State, or local housing program which is or could be used in rural areas. Such loans shall be made without interest and shall be for the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including but not limited to preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the housing or sooner.
 
-    (c) __Repealed.__  __[__  __Pub. L. 98–181, title I__  __][/us/pl/98/181]__  __\[title V, § 518(b)\],__  __Nov. 30, 1983__  __,__  __[__  __97 Stat. 1249__  __][/us/stat/97/1249]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 98–181, title I__  __][/us/pl/98/181/tI]__  __\[title V, § 518(b)\],__  __Nov. 30, 1983__  __,__  __[__  __97 Stat. 1249__  __][/us/stat/97/1249]__ 
 
     (d) __Deposit of appropriated funds into low-income sponsor fund; availability; administration of fund as revolving fund; deposit of repayments__ 
 
         All funds appropriated for the purpose of subsection (b) of this section shall be deposited in a fund which shall be known as the low-income sponsor fund, and which shall be available without fiscal year limitation and be administered by the Secretary as a revolving fund for carrying out the purposes of that subsection. Sums received in repayment of loans made under subsection (b) of this section shall be deposited in such fund.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 525, as added [Pub. L. 93–383, title V, § 515][/us/pl/93/383/s515], Aug. 22, 1974, [88 Stat. 697][/us/stat/88/697]; amended [Pub. L. 95–557, title V, § 501(i)][/us/pl/95/557/s501/i], Oct. 31, 1978, [92 Stat. 2111][/us/stat/92/2111]; [Pub. L. 96–399, title V, § 507(g)][/us/pl/96/399/s507/g], Oct. 8, 1980, [94 Stat. 1670][/us/stat/94/1670]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 518\], Nov. 30, 1983, [97 Stat. 1249][/us/stat/97/1249].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 525, as added [Pub. L. 93–383, title V][/us/pl/93/383/tV], § 515, Aug. 22, 1974, [88 Stat. 697][/us/stat/88/697]; amended [Pub. L. 95–557, title V][/us/pl/95/557/tV], § 501(i), Oct. 31, 1978, [92 Stat. 2111][/us/stat/92/2111]; [Pub. L. 96–399, title V][/us/pl/96/399/tV], § 507(g), Oct. 8, 1980, [94 Stat. 1670][/us/stat/94/1670]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 518\], Nov. 30, 1983, [97 Stat. 1249][/us/stat/97/1249].)
 
  __Amendments__ 
 
-    1983—Subsec. (b). [Pub. L. 98–181, § 518(a)][/us/pl/98/181/s518/a], struck out provisions setting forth conditions under which any part or all of the loan is subject to cancellation.
+    1983—Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 518(a), struck out provisions setting forth conditions under which any part or all of the loan is subject to cancellation.
 
-    Subsec. (c). [Pub. L. 98–181, § 518(b)][/us/pl/98/181/s518/b], struck out subsec. (c), which related to authorization of appropriations for fiscal years ending June 30, 1975, June 30, 1976, and Sept. 30, 1979, and availability of amounts.
+    Subsec. (c). [Pub. L. 98–181][/us/pl/98/181], § 518(b), struck out subsec. (c), which related to authorization of appropriations for fiscal years ending June 30, 1975, June 30, 1976, and Sept. 30, 1979, and availability of amounts.
 
     1980—Subsecs. (a), (b). [Pub. L. 96–399][/us/pl/96/399] inserted references to Indian tribes.
 
@@ -43,7 +43,7 @@
 
  __Housing Assistance Council__ 
 
-[Pub. L. 110–234, title VI][/us/pl/110/234], subtitle D, May 22, 2008, [122 Stat. 1210][/us/stat/122/1210], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, subtitle D, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1972, as amended by [Pub. L. 113–188, title IX, § 901(f)][/us/pl/113/188/s901/f], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
+[Pub. L. 110–234, title VI][/us/pl/110/234/tVI], subtitle D, May 22, 2008, [122 Stat. 1210][/us/stat/122/1210], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, subtitle D, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1972, as amended by [Pub. L. 113–188, title IX][/us/pl/113/188/tIX], § 901(f), Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
 
 > “SEC. 6301. __SHORT TITLE.__ 
 
@@ -102,26 +102,26 @@
 ----------
 ----------
 
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1249
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/93/383/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs515
+[/us/pl/93/383/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtV
 [/us/stat/88/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F697
-[/us/pl/95/557/s501/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs501%2Fi
+[/us/pl/95/557/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtV
 [/us/stat/92/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2111
-[/us/pl/96/399/s507/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs507%2Fg
+[/us/pl/96/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtV
 [/us/stat/94/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1670
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1249
-[/us/pl/98/181/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs518%2Fa
-[/us/pl/98/181/s518/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs518%2Fb
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1210
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/188/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs901%2Ff
+[/us/pl/113/188/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtIX
 [/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
 [/us/usc/t42/s1436a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1436a
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

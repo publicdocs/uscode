@@ -19,7 +19,7 @@
 
     (b) The amount of each Visiting Scientist Award shall include such sum as shall be commensurate with the salary or remuneration which the individual receiving the award would have been entitled to receive from the institution with which the individual has, or had, a permanent or immediately prior affiliation. Eligibility for and terms of Visiting Scientist Awards shall be determined in accordance with regulations the Secretary shall prescribe.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 488, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 872][/us/stat/99/872].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 488, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 872][/us/stat/99/872].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F872
 
 

@@ -27,7 +27,7 @@
 
         The court shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 94–385, title IV, § 419][/us/pl/94/385/s419], Aug. 14, 1976, [90 Stat. 1157][/us/stat/90/1157]; [Pub. L. 96–294, title V, § 577(2)][/us/pl/96/294/s577/2], (3), June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 419, Aug. 14, 1976, [90 Stat. 1157][/us/stat/90/1157]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 577(2), (3), June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 [/us/usc/t42/s6868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6868
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/94/385/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs419
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1157
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F760
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 

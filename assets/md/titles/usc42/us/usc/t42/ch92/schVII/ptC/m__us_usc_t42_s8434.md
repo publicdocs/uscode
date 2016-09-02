@@ -17,7 +17,7 @@
 
     Whenever it appears to the Secretary that any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of this chapter, or any rule or order thereunder, a civil action, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  may be brought, in accordance with [section 7192(c) of this title][/us/usc/t42/s7192/c], in the appropriate district court of the United States to enjoin such acts or practices, and, upon a proper showing, the court shall grant, without bond, mandatory or prohibitive injunctive relief, including interim equitable relief.
 
-([Pub. L. 95–620, title VII, § 724][/us/pl/95/620/s724], Nov. 9, 1978, [92 Stat. 3335][/us/stat/92/3335].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 724, Nov. 9, 1978, [92 Stat. 3335][/us/stat/92/3335].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s7192/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7192%2Fc
-[/us/pl/95/620/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs724
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3335
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

@@ -71,7 +71,7 @@
 
             The Secretary shall publish the study on the website of the Department of Energy.
 
-([Pub. L. 110–140, title IV, § 424][/us/pl/110/140/s424], as added [Pub. L. 114–11, title I, § 103(a)][/us/pl/114/11/s103/a], Apr. 30, 2015, [129 Stat. 183][/us/stat/129/183].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 424, as added [Pub. L. 114–11, title I][/us/pl/114/11/tI], § 103(a), Apr. 30, 2015, [129 Stat. 183][/us/stat/129/183].)
 
 ----------
 
@@ -80,8 +80,8 @@
 ----------
 ----------
 
-[/us/pl/110/140/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs424
-[/us/pl/114/11/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs103%2Fa
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
+[/us/pl/114/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtI
 [/us/stat/129/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F183
 
 

@@ -39,7 +39,7 @@
 
         Funding for instrumentation is an allowed use of grants awarded under this section and under the ongoing Historically Black Colleges and Universities Undergraduate Program and the Tribal Colleges and Universities Program.
 
-([Pub. L. 107–368, § 24][/us/pl/107/368/s24], Dec. 19, 2002, [116 Stat. 3066][/us/stat/116/3066].)
+([Pub. L. 107–368][/us/pl/107/368], § 24, Dec. 19, 2002, [116 Stat. 3066][/us/stat/116/3066].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/107/368/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs24
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3066
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4
 [/us/usc/t42/s1862n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n

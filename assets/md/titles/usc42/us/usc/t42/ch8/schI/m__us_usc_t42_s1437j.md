@@ -165,7 +165,7 @@
 
         For purposes of this section, the term “economic self-sufficiency program” means any program designed to encourage, assist, train, or facilitate the economic independence of participants and their families or to provide work for participants, including programs for job training, employment counseling, work placement, basic skills training, education, workfare, financial or household management, apprenticeship, or other activities as the Secretary may provide.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 12, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 667][/us/stat/88/667]; amended [Pub. L. 97–35, title III, § 322(c)][/us/pl/97/35/s322/c], Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; [Pub. L. 100–242, title I, § 112(b)(5)][/us/pl/100/242/s112/b/5], Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824]; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V, § 572(2)][/us/pl/101/625/s572/2], title IX, § 955(b), Nov. 28, 1990, [104 Stat. 4236][/us/stat/104/4236], 4421; [Pub. L. 105–276, title V, § 512(a)][/us/pl/105/276/s512/a], Oct. 21, 1998, [112 Stat. 2539][/us/stat/112/2539].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 12, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 667][/us/stat/88/667]; amended [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 322(c), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 112(b)(5), Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 572(2), title IX, § 955(b), Nov. 28, 1990, [104 Stat. 4236][/us/stat/104/4236], 4421; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 512(a), Oct. 21, 1998, [112 Stat. 2539][/us/stat/112/2539].)
 
  __References in Text__ 
 
@@ -175,7 +175,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([49 Stat. 1011][/us/stat/49/1011])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([49 Stat. 1011][/us/stat/49/1011])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Prior Provisions__ 
 
@@ -183,13 +183,13 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–276, § 512(a)(1)][/us/pl/105/276/s512/a/1], inserted “and community service requirement” after “Labor standards” in section catchline.
+    1998—[Pub. L. 105–276][/us/pl/105/276], § 512(a)(1), inserted “and community service requirement” after “Labor standards” in section catchline.
 
-    Subsecs. (c) to (g). [Pub. L. 105–276, § 512(a)(2)][/us/pl/105/276/s512/a/2], added subsecs. (c) to (g).
+    Subsecs. (c) to (g). [Pub. L. 105–276][/us/pl/105/276], § 512(a)(2), added subsecs. (c) to (g).
 
-    1990—[Pub. L. 101–625, § 955(b)][/us/pl/101/625/s955/b], designated existing provisions as subsec. (a) and added subsec. (b).
+    1990—[Pub. L. 101–625][/us/pl/101/625], § 955(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
-    [Pub. L. 101–625, § 572(2)][/us/pl/101/625/s572/2], substituted “low-income housing” for “lower income housing”.
+    [Pub. L. 101–625][/us/pl/101/625], § 572(2), substituted “low-income housing” for “lower income housing”.
 
     1988—[Pub. L. 100–242][/us/pl/100/242] struck out “annual” before “contributions”.
 
@@ -233,33 +233,33 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F667
-[/us/pl/97/35/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F402
-[/us/pl/100/242/s112/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs112%2Fb%2F5
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1824
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/101/625/s572/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F2
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4236
-[/us/pl/105/276/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2539
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s1437d/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fk
 [/us/stat/49/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1011
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/stat/50/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F894
 [/us/usc/t42/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1412
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
-[/us/pl/105/276/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fa%2F1
-[/us/pl/105/276/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fa%2F2
-[/us/pl/101/625/s955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs955%2Fb
-[/us/pl/101/625/s572/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F2
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276

@@ -79,7 +79,7 @@
 
         There is authorized to be appropriated to carry out this section $10,000,000 for each of the fiscal years 1991 through 1993.
 
-([Pub. L. 101–527, § 10][/us/pl/101/527/s10], Nov. 6, 1990, [104 Stat. 2333][/us/stat/104/2333].)
+([Pub. L. 101–527][/us/pl/101/527], § 10, Nov. 6, 1990, [104 Stat. 2333][/us/stat/104/2333].)
 
  __Codification__ 
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/101/527/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527%2Fs10
+[/us/pl/101/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527
 [/us/stat/104/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2333
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

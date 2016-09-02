@@ -35,7 +35,7 @@
 
         (3) The functions transferred in paragraphs (1)(E) and (1)(F)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
-    (b) __, (c) Repealed.__  __[__  __Pub. L. 97–100, title II, § 201__  __][/us/pl/97/100/s201]__  __,__  __Dec. 23, 1981__  __,__  __[__  __95 Stat. 1407__  __][/us/stat/95/1407]__ 
+    (b) __, (c) Repealed.__  __[__  __Pub. L. 97–100, title II__  __][/us/pl/97/100/tII]__  __, § 201,__  __Dec. 23, 1981__  __,__  __[__  __95 Stat. 1407__  __][/us/stat/95/1407]__ 
 
     (d) __Functions of Bureau of Mines__ 
 
@@ -47,7 +47,7 @@
 
         (3) coal preparation and analysis.
 
-([Pub. L. 95–91, title III, § 302][/us/pl/95/91/s302], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 97–100, title II, § 201][/us/pl/97/100/s201], Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407]; [Pub. L. 104–58, title I, § 104(h)][/us/pl/104/58/s104/h], Nov. 28, 1995, [109 Stat. 560][/us/stat/109/560].)
+([Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 302, Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 97–100, title II][/us/pl/97/100/tII], § 201, Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407]; [Pub. L. 104–58, title I][/us/pl/104/58/tI], § 104(h), Nov. 28, 1995, [109 Stat. 560][/us/stat/109/560].)
 
  __References in Text__ 
 
@@ -57,15 +57,15 @@
 
     Act of June 18, 1954, as amended by the Act of December 23, 1963, referred to in subsec. (a)(1)(E), is [act June 18, 1954, ch. 310][/us/act/1954-06-18/ch310], [68 Stat. 255][/us/stat/68/255], which was not classified to the Code.
 
-    Paragraphs (1)(E) and (1)(F) of this subsection, referred to in subsec. (a)(3), were redesignated as pars. (1)(D) and (1)(E) of this subsection, respectively, by [Pub. L. 104–58, title I, § 104(h)(1)(B)][/us/pl/104/58/s104/h/1/B], Nov. 28, 1995, [109 Stat. 560][/us/stat/109/560].
+    Paragraphs (1)(E) and (1)(F) of this subsection, referred to in subsec. (a)(3), were redesignated as pars. (1)(D) and (1)(E) of this subsection, respectively, by [Pub. L. 104–58, title I][/us/pl/104/58/tI], § 104(h)(1)(B), Nov. 28, 1995, [109 Stat. 560][/us/stat/109/560].
 
     Act of May 15, 1910, referred to in subsec. (d), as amended, probably means [act May 16, 1910, ch. 240][/us/act/1910-05-16/ch240], [36 Stat. 369][/us/stat/36/369], which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    1995—Subsec. (a)(1)(C) to (F). [Pub. L. 104–58, § 104(h)(1)][/us/pl/104/58/s104/h/1], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
+    1995—Subsec. (a)(1)(C) to (F). [Pub. L. 104–58][/us/pl/104/58], § 104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
 
-    Subsec. (a)(2). [Pub. L. 104–58, § 104(h)(2)][/us/pl/104/58/s104/h/2], inserted “and” after “Southwestern Power Administration,” and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
+    Subsec. (a)(2). [Pub. L. 104–58][/us/pl/104/58], § 104(h)(2), inserted “and” after “Southwestern Power Administration,” and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
 
     1981—Subsecs. (b), (c). [Pub. L. 97–100][/us/pl/97/100] struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
 
@@ -79,7 +79,7 @@
 
  __Alaska Power Administration Asset Sale and Termination__ 
 
-[Pub. L. 104–58, title I][/us/pl/104/58], Nov. 28, 1995, [109 Stat. 557][/us/stat/109/557], provided that:
+[Pub. L. 104–58, title I][/us/pl/104/58/tI], Nov. 28, 1995, [109 Stat. 557][/us/stat/109/557], provided that:
 
 > “SEC. 101. __SHORT TITLE.__ 
 
@@ -213,13 +213,13 @@
 
  __Use of Funds To Study Noncost-Based Methods of Pricing Hydroelectric Power__ 
 
-[Pub. L. 102–377, title V, § 505][/us/pl/102/377/s505], Oct. 2, 1992, [106 Stat. 1343][/us/stat/106/1343], provided that: 
+[Pub. L. 102–377, title V][/us/pl/102/377/tV], § 505, Oct. 2, 1992, [106 Stat. 1343][/us/stat/106/1343], provided that: 
 
 > “Notwithstanding any other provision of this Act, subsequent Energy and Water Development Appropriations Acts or any other provision of law hereafter, none of the funds made available under this Act, subsequent Energy and Water Development Appropriations Acts or any other law hereafter shall be used for the purposes of conducting any studies relating or leading to the possibility of changing from the currently required ‘at cost’ to a ‘market rate’ or any other noncost-based method for the pricing of hydroelectric power by the six Federal public power authorities, or other agencies or authorities of the Federal Government, except as may be specifically authorized by Act of Congress hereafter enacted.”
 
  __Transfers to Secretary of the Interior of Certain Fossil Energy Research and Development Authorities__ 
 
-[Pub. L. 97–257, title I, § 100][/us/pl/97/257/s100], Sept. 10, 1982, [96 Stat. 841][/us/stat/96/841], provided: 
+[Pub. L. 97–257, title I][/us/pl/97/257/tI], § 100, Sept. 10, 1982, [96 Stat. 841][/us/stat/96/841], provided: 
 
 > “That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[[30 U.S.C. 1][/us/usc/t30/s1], 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies ([30 U.S.C. 1328][/us/usc/t30/s1328]); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1334(g)(2)][/us/usc/t43/s1334/g/2] and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act ([42 U.S.C. 6213][/us/usc/t42/s6213]): Provided further, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the ‘Mines and minerals’ account of the Bureau of Mines.”
 
@@ -233,13 +233,13 @@
 [/us/usc/t16/s825s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825s
 [/us/usc/t16/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs832
 [/us/usc/t16/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838
-[/us/pl/97/100/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2Fs201
+[/us/pl/97/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2FtII
 [/us/stat/95/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1407
-[/us/pl/95/91/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
-[/us/pl/97/100/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2Fs201
+[/us/pl/97/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2FtII
 [/us/stat/95/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1407
-[/us/pl/104/58/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2Fs104%2Fh
+[/us/pl/104/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2FtI
 [/us/stat/109/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F560
 [/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F731
@@ -249,19 +249,19 @@
 [/us/usc/t16/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838
 [/us/act/1954-06-18/ch310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-18%2Fch310
 [/us/stat/68/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F255
-[/us/pl/104/58/s104/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2Fs104%2Fh%2F1%2FB
+[/us/pl/104/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2FtI
 [/us/stat/109/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F560
 [/us/act/1910-05-16/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-16%2Fch240
 [/us/stat/36/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F369
-[/us/pl/104/58/s104/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2Fs104%2Fh%2F1
-[/us/pl/104/58/s104/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2Fs104%2Fh%2F2
+[/us/pl/104/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58
+[/us/pl/104/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58
 [/us/pl/97/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/pl/104/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58
 [/us/pl/104/58/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2Fs104%2Fh
-[/us/pl/104/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58
+[/us/pl/104/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2FtI
 [/us/stat/109/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F557
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1958-07-07/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1958-07-07%2Fs6
@@ -280,9 +280,9 @@
 [/us/usc/t40/s541–555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541%E2%80%93555
 [/us/usc/t40/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/102/377/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs505
+[/us/pl/102/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2FtV
 [/us/stat/106/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1343
-[/us/pl/97/257/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2Fs100
+[/us/pl/97/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2FtI
 [/us/stat/96/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F841
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/usc/t30/s1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1328

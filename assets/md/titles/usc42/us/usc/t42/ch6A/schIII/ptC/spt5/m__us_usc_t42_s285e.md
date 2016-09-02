@@ -17,11 +17,11 @@
 
     The general purpose of the National Institute on Aging (hereafter in this subpart referred to as the “Institute”) is the conduct and support of biomedical, social, and behavioral research, training, health information dissemination, and other programs with respect to the aging process and the diseases and other special problems and needs of the aged.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 443, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 854][/us/stat/99/854].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 443, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 854][/us/stat/99/854].)
 
  __Study of Malnutrition in Elderly__ 
 
-    [Pub. L. 103–43, title XIX, § 1902][/us/pl/103/43/s1902], June 10, 1993, [107 Stat. 201][/us/stat/107/201], directed Secretary of Health and Human Services, acting through National Institute on Aging, to conduct a 3-year study on health benefits and cost-effectiveness of nutrition screening and intervention activities of the elderly, and a 3-year study to determine extent of malnutrition in elderly individuals in hospitals and long-term care facilities and in elderly individuals who are living independently, provided for creation of advisory panel to oversee studies, provided for submission to Congress of reports containing findings of such studies, and provided for termination of advisory panel 3 years after June 10, 1993.
+    [Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1902, June 10, 1993, [107 Stat. 201][/us/stat/107/201], directed Secretary of Health and Human Services, acting through National Institute on Aging, to conduct a 3-year study on health benefits and cost-effectiveness of nutrition screening and intervention activities of the elderly, and a 3-year study to determine extent of malnutrition in elderly individuals in hospitals and long-term care facilities and in elderly individuals who are living independently, provided for creation of advisory panel to oversee studies, provided for submission to Congress of reports containing findings of such studies, and provided for termination of advisory panel 3 years after June 10, 1993.
 
  __Study of Personnel for Health Needs of Elderly__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F854
-[/us/pl/103/43/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1902
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F201
 [/us/pl/99/158/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs8
 

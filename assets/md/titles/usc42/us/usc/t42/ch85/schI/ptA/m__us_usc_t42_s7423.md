@@ -33,7 +33,7 @@
 
         Not later than six months after August 7, 1977, the Administrator, shall after notice and opportunity for public hearing, promulgate regulations to carry out this section. For purposes of this section, good engineering practice means, with respect to stack heights, the height necessary to insure that emissions from the stack do not result in excessive concentrations of any air pollutant in the immediate vicinity of the source as a result of atmospheric downwash, eddies and wakes which may be created by the source itself, nearby structures or nearby terrain obstacles (as determined by the Administrator). For purposes of this section such height shall not exceed two and a half times the height of such source unless the owner or operator of the source demonstrates, after notice and opportunity for public hearing, to the satisfaction of the Administrator, that a greater height is necessary as provided under the preceding sentence. In no event may the Administrator prohibit any increase in any stack height or restrict in any manner the stack height of any source.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 123, as added [Pub. L. 95–95, title I, § 121][/us/pl/95/95/s121], Aug. 7, 1977, [91 Stat. 721][/us/stat/91/721].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 123, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 121, Aug. 7, 1977, [91 Stat. 721][/us/stat/91/721].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s7418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7418
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs121
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F721
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

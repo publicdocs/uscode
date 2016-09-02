@@ -105,7 +105,7 @@
 
             (C) Appendices I, K, and N to part 50 of title 40, Code of Federal Regulations.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 319, as added [Pub. L. 95–95, title III, § 309][/us/pl/95/95/s309], Aug. 7, 1977, [91 Stat. 781][/us/stat/91/781]; amended [Pub. L. 109–59, title VI, § 6013(a)][/us/pl/109/59/s6013/a], Aug. 10, 2005, [119 Stat. 1882][/us/stat/119/1882].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 319, as added [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 309, Aug. 7, 1977, [91 Stat. 781][/us/stat/91/781]; amended [Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6013(a), Aug. 10, 2005, [119 Stat. 1882][/us/stat/119/1882].)
 
  __Amendments__ 
 
@@ -124,9 +124,9 @@
 
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs309
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F781
-[/us/pl/109/59/s6013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6013%2Fa
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1882
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd

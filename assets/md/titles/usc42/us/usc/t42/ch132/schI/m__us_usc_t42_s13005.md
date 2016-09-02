@@ -71,7 +71,7 @@
 
             The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
 
-([Pub. L. 101–647, title II, § 214C][/us/pl/101/647/s214C], as added [Pub. L. 113–163, § 2(b)][/us/pl/113/163/s2/b], Aug. 8, 2014, [128 Stat. 1864][/us/stat/128/1864].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 214C, as added [Pub. L. 113–163][/us/pl/113/163], § 2(b), Aug. 8, 2014, [128 Stat. 1864][/us/stat/128/1864].)
 
  __References in Text__ 
 
@@ -86,8 +86,8 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs511%2Fa
-[/us/pl/101/647/s214C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs214C
-[/us/pl/113/163/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F163%2Fs2%2Fb
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
+[/us/pl/113/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F163
 [/us/stat/128/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1864
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/stat/104/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4792

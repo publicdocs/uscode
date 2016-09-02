@@ -71,7 +71,7 @@
 
             Nothing in this subsection shall be construed to allow the Secretary to compel States to provide additional data and information that is currently (as of November 19, 2014) not publicly available, or is not required by this subchapter, unless such additional data are related to the purposes and scope of this subchapter, and are subject to a notice and comment period of no less than 90 days.
 
-([Pub. L. 97–35, title VI, § 658L][/us/pl/97/35/s658L], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–244][/us/stat/104/1388-244]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 612][/us/pl/104/193/s612], Aug. 22, 1996, [110 Stat. 2285][/us/stat/110/2285]; [Pub. L. 105–33, title V, § 5602(3)][/us/pl/105/33/s5602/3], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 113–186, § 8(d)][/us/pl/113/186/s8/d], Nov. 19, 2014, [128 Stat. 1997][/us/stat/128/1997].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 658L, as added [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–244][/us/stat/104/1388-244]; amended [Pub. L. 102–401][/us/pl/102/401], § 3(a), Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586][/us/pl/102/586], § 8(c)(1), Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI][/us/pl/104/193/tVI], § 612, Aug. 22, 1996, [110 Stat. 2285][/us/stat/110/2285]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5602(3), Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 113–186][/us/pl/113/186], § 8(d), Nov. 19, 2014, [128 Stat. 1997][/us/stat/128/1997].)
 
  __Amendments__ 
 
@@ -81,7 +81,7 @@
 
     1996—[Pub. L. 104–193][/us/pl/104/193] substituted “July 31, 1997, and biennially thereafter” for “July 31, 1993, and annually thereafter” and “Committee on Economic and Educational Opportunities” for “Committee on Education and Labor”.
 
-    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508, § 5082(2)][/us/pl/101/508/s5082/2], which added this section.
+    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508][/us/pl/101/508], § 5082(2), which added this section.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -99,25 +99,25 @@
 ----------
 
 [/us/usc/t42/s9858i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858i
-[/us/pl/97/35/s658L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658L
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-244
-[/us/pl/102/401/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs3%2Fa
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
-[/us/pl/102/586/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fc%2F1
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
-[/us/pl/104/193/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs612
+[/us/pl/104/193/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVI
 [/us/stat/110/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2285
-[/us/pl/105/33/s5602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F3
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F646
-[/us/pl/113/186/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fd
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/stat/128/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1997
 [/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5603

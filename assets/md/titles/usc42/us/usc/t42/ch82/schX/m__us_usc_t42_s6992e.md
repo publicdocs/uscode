@@ -23,7 +23,7 @@
 
         For purposes of this chapter, the term “person” shall be treated as including each department, agency, and instrumentality of the United States.
 
-([Pub. L. 89–272, title II, § 11006][/us/pl/89/272/s11006], as added [Pub. L. 100–582, § 2(a)][/us/pl/100/582/s2/a], Nov. 1, 1988, [102 Stat. 2954][/us/stat/102/2954].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 11006, as added [Pub. L. 100–582][/us/pl/100/582], § 2(a), Nov. 1, 1988, [102 Stat. 2954][/us/stat/102/2954].)
 
  __Termination of Reporting Requirements__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s11006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs11006
-[/us/pl/100/582/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs2%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2954
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

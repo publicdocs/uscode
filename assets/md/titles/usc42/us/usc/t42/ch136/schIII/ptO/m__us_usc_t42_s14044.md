@@ -91,7 +91,7 @@
 
         (2) $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2) of this section.
 
-([Pub. L. 109–164, title II, § 201][/us/pl/109/164/s201], Jan. 10, 2006, [119 Stat. 3567][/us/stat/119/3567]; [Pub. L. 110–457, title III, § 302(2)][/us/pl/110/457/s302/2], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII, § 1252(2)][/us/pl/113/4/s1252/2], Mar. 7, 2013, [127 Stat. 156][/us/stat/127/156].)
+([Pub. L. 109–164, title II][/us/pl/109/164/tII], § 201, Jan. 10, 2006, [119 Stat. 3567][/us/stat/119/3567]; [Pub. L. 110–457, title III][/us/pl/110/457/tIII], § 302(2), Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1252(2), Mar. 7, 2013, [127 Stat. 156][/us/stat/127/156].)
 
  __Codification__ 
 
@@ -103,13 +103,13 @@
 
     2013—Subsec. (c)(2). [Pub. L. 113–4][/us/pl/113/4] substituted “$250,000 for each of the fiscal years 2014 through 2017” for “$1,000,000 for each of the fiscal years 2008 through 2011”.
 
-    2008—Subsec. (c)(1). [Pub. L. 110–457, § 302(2)(A)][/us/pl/110/457/s302/2/A], substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
+    2008—Subsec. (c)(1). [Pub. L. 110–457][/us/pl/110/457], § 302(2)(A), substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
 
-    Subsec. (c)(2). [Pub. L. 110–457, § 302(2)(B)][/us/pl/110/457/s302/2/B], which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
+    Subsec. (c)(2). [Pub. L. 110–457][/us/pl/110/457], § 302(2)(B), which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
 
  __Recommendations To Prevent Sex Trafficking of Indian Women__ 
 
-[Pub. L. 111–211, title II, § 264][/us/pl/111/211/s264], July 29, 2010, [124 Stat. 2300][/us/stat/124/2300], provided that: 
+[Pub. L. 111–211, title II][/us/pl/111/211/tII], § 264, July 29, 2010, [124 Stat. 2300][/us/stat/124/2300], provided that: 
 
 > “Any report of the Secretary of Health and Human Services to Congress on the development of Indian victim services and victim advocate training programs shall include any recommendations that the Secretary determines to be necessary to prevent the sex trafficking of Indian women.”
 
@@ -120,19 +120,19 @@
 ----------
 ----------
 
-[/us/pl/109/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs201
+[/us/pl/109/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtII
 [/us/stat/119/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3567
-[/us/pl/110/457/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs302%2F2
+[/us/pl/110/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIII
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
-[/us/pl/113/4/s1252/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1252%2F2
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F156
 [/us/pl/109/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs201
 [/us/pl/109/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs201
 [/us/usc/t22/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/110/457/s302/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs302%2F2%2FA
-[/us/pl/110/457/s302/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs302%2F2%2FB
-[/us/pl/111/211/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs264
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2300
 
 

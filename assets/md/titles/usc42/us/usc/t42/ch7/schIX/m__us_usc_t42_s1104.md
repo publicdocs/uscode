@@ -53,7 +53,7 @@
 
         There is hereby established in the Unemployment Trust Fund a Federal unemployment account.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 904, [49 Stat. 640][/us/stat/49/640]; [June 25, 1938, ch. 680, § 10(e)][/us/act/1938-06-25/ch680/s10/e]–(g), [52 Stat. 1104][/us/stat/52/1104], 1105; [Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], title IV, § 401, [58 Stat. 789][/us/stat/58/789]; [Aug. 6, 1947, ch. 510, § 5(a)][/us/act/1947-08-06/ch510/s5/a], [61 Stat. 794][/us/stat/61/794]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 404(b), [64 Stat. 560][/us/stat/64/560]; [Aug. 5, 1954, ch. 657, § 5(b)][/us/act/1954-08-05/ch657/s5/b]–(f), [68 Stat. 673][/us/stat/68/673]; [Pub. L. 85–927][/us/pl/85/927], pt. II, § 204, Sept. 6, 1958, [72 Stat. 1782][/us/stat/72/1782]; [Pub. L. 86–346, title I, § 104(3)][/us/pl/86/346/s104/3], Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622]; [Pub. L. 86–778, title V, § 521][/us/pl/86/778/s521], Sept. 13, 1960, [74 Stat. 976][/us/stat/74/976]; [Pub. L. 98–369, div. B, title VI, § 2663(d)(3)][/us/pl/98/369/s2663/d/3], July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 102–318, title V, § 531(d)(3)][/us/pl/102/318/s531/d/3], July 3, 1992, [106 Stat. 317][/us/stat/106/317].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 904, [49 Stat. 640][/us/stat/49/640]; [June 25, 1938, ch. 680][/us/act/1938-06-25/ch680], § 10(e)–(g), [52 Stat. 1104][/us/stat/52/1104], 1105; [Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], title IV, § 401, [58 Stat. 789][/us/stat/58/789]; [Aug. 6, 1947, ch. 510][/us/act/1947-08-06/ch510], § 5(a), [61 Stat. 794][/us/stat/61/794]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 404(b), [64 Stat. 560][/us/stat/64/560]; [Aug. 5, 1954, ch. 657][/us/act/1954-08-05/ch657], § 5(b)–(f), [68 Stat. 673][/us/stat/68/673]; [Pub. L. 85–927][/us/pl/85/927], pt. II, § 204, Sept. 6, 1958, [72 Stat. 1782][/us/stat/72/1782]; [Pub. L. 86–346, title I][/us/pl/86/346/tI], § 104(3), Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622]; [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 521, Sept. 13, 1960, [74 Stat. 976][/us/stat/74/976]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(d)(3), July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 102–318, title V][/us/pl/102/318/tV], § 531(d)(3), July 3, 1992, [106 Stat. 317][/us/stat/106/317].)
 
  __Amendments__ 
 
@@ -71,11 +71,11 @@
 
     1959—Subsec. (b). [Pub. L. 86–346][/us/pl/86/346] substituted “on original issue at the issue price” for “on original issue at par”.
 
-    1958—Subsec. (a). [Pub. L. 85–927, § 204(a)][/us/pl/85/927/s204/a], inserted “or the railroad unemployment insurance administration fund”.
+    1958—Subsec. (a). [Pub. L. 85–927][/us/pl/85/927], § 204(a), inserted “or the railroad unemployment insurance administration fund”.
 
-    Subsec. (e). [Pub. L. 85–927, § 204(b)][/us/pl/85/927/s204/b], substituted “the railroad unemployment insurance account, and the railroad unemployment insurance administration fund” for “and the railroad unemployment insurance account”.
+    Subsec. (e). [Pub. L. 85–927][/us/pl/85/927], § 204(b), substituted “the railroad unemployment insurance account, and the railroad unemployment insurance administration fund” for “and the railroad unemployment insurance account”.
 
-    Subsec. (f). [Pub. L. 85–927, § 204(c)][/us/pl/85/927/s204/c], substituted “railroad unemployment insurance account for the payment of benefits, and out of the railroad unemployment insurance administration fund for the payment of administrative expenses, as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the credit of such account or such fund, as the case may be, at the time of such payment” for “fund as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the railroad unemployment insurance account at the time of such payment”.
+    Subsec. (f). [Pub. L. 85–927][/us/pl/85/927], § 204(c), substituted “railroad unemployment insurance account for the payment of benefits, and out of the railroad unemployment insurance administration fund for the payment of administrative expenses, as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the credit of such account or such fund, as the case may be, at the time of such payment” for “fund as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the railroad unemployment insurance account at the time of such payment”.
 
     1954—Subsec. (a). Act Aug. 5, 1954, § 5(b), substituted “or otherwise deposited in or credited to the Fund or any account therein” for “or deposited pursuant to appropriations to the Federal unemployment account”.
 
@@ -117,13 +117,13 @@
 
  __Effective Date of 1950 Amendment__ 
 
-[Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 404(c), [64 Stat. 560][/us/stat/64/560], provided that: 
+[Act Aug. 28, 1950, ch. 809, title IV][/us/act/1950-08-28/ch809/tIV], § 404(c), [64 Stat. 560][/us/stat/64/560], provided that: 
 
 > “The amendments made by subsections (a) and (b) of this section \[amending this section and [section 1321 of this title][/us/usc/t42/s1321]\] shall be effective January 1, 1950.”
 
  __Termination Date__ 
 
-[Act Aug. 6, 1947, ch. 510, § 4][/us/act/1947-08-06/ch510/s4], [61 Stat. 794][/us/stat/61/794], provided that: 
+[Act Aug. 6, 1947, ch. 510][/us/act/1947-08-06/ch510], § 4, [61 Stat. 794][/us/stat/61/794], provided that: 
 
 > “Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 603 of [act Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], former 50 U.S.C. App. 1651 note\] (terminating the provisions of such Act \[former 50 U.S.C. App. 1651 et seq.\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act to the Social Security Act \[amending this section and [section 1321 of this title][/us/usc/t42/s1321]\].”
 
@@ -143,25 +143,25 @@
 [/us/usc/t42/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1323
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F640
-[/us/act/1938-06-25/ch680/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch680%2Fs10%2Fe
+[/us/act/1938-06-25/ch680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch680
 [/us/stat/52/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1104
 [/us/act/1944-10-03/ch480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fch480
 [/us/stat/58/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F789
-[/us/act/1947-08-06/ch510/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510%2Fs5%2Fa
+[/us/act/1947-08-06/ch510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510
 [/us/stat/61/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F794
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F560
-[/us/act/1954-08-05/ch657/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657%2Fs5%2Fb
+[/us/act/1954-08-05/ch657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657
 [/us/stat/68/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F673
 [/us/pl/85/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927
 [/us/stat/72/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1782
-[/us/pl/86/346/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2Fs104%2F3
+[/us/pl/86/346/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2FtI
 [/us/stat/73/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F622
-[/us/pl/86/778/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs521
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F976
-[/us/pl/98/369/s2663/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fd%2F3
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1167
-[/us/pl/102/318/s531/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs531%2Fd%2F3
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F317
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
 [/us/stat/50/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F754
@@ -177,9 +177,9 @@
 [/us/usc/t42/s1322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1322%2Fc
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346
-[/us/pl/85/927/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927%2Fs204%2Fa
-[/us/pl/85/927/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927%2Fs204%2Fb
-[/us/pl/85/927/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927%2Fs204%2Fc
+[/us/pl/85/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927
+[/us/pl/85/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927
+[/us/pl/85/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927
 [/us/usc/t42/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1323
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
@@ -187,10 +187,10 @@
 [/us/pl/85/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927
 [/us/pl/85/927/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F927%2Fs207%2Fc
 [/us/usc/t45/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs351
-[/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
+[/us/act/1950-08-28/ch809/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809%2FtIV
 [/us/stat/64/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F560
 [/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321
-[/us/act/1947-08-06/ch510/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510%2Fs4
+[/us/act/1947-08-06/ch510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch510
 [/us/stat/61/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F794
 [/us/act/1944-10-03/ch480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fch480
 [/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321

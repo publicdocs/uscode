@@ -109,7 +109,7 @@
 
         (4) 50 percent of such cost for the fourth year in which the recipient receives such assistance and each year thereafter.
 
-([Pub. L. 101–610, title I, § 198P][/us/pl/101/610/s198P], as added [Pub. L. 111–13, title I, § 1808][/us/pl/111/13/s1808], Apr. 21, 2009, [123 Stat. 1573][/us/stat/123/1573].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198P, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1808, Apr. 21, 2009, [123 Stat. 1573][/us/stat/123/1573].)
 
 ----------
 
@@ -121,8 +121,8 @@
 [/us/usc/t42/s12638/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12638%2Fe
 [/us/usc/t42/s12653b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653b%2Fa
 [/us/usc/t42/s12581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12581
-[/us/pl/101/610/s198P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198P
-[/us/pl/111/13/s1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1808
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1573
 
 

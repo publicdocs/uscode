@@ -35,7 +35,7 @@
 
         (2) provides any recommendations the Director may have regarding the extension of the authority provided under this section to programs other than those specified in subsection (a).
 
-([Pub. L. 110–69, title VII, § 7012][/us/pl/110/69/s7012], Aug. 9, 2007, [121 Stat. 681][/us/stat/121/681].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7012, Aug. 9, 2007, [121 Stat. 681][/us/stat/121/681].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t42/s1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885
-[/us/pl/110/69/s7012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7012
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F681
 [/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schVI/m__us_usc_t42_ch46_schVI.md) | [Next](./../../../../..//us/usc/t42/ch46/schVII/m__us_usc_t42_s3771.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschVII)
+[Previous](./../../../../..//us/usc/t42/ch46/schVI/m__us_usc_t42_s3769...3769d.md) | [Next](./../../../../..//us/usc/t42/ch46/schVII/m__us_usc_t42_s3771.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschVII)
 
 ### SUBCHAPTER VII—FBI TRAINING OF STATE AND LOCAL CRIMINAL JUSTICE PERSONNEL
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schVI/m__us_usc_t42_ch46_schVI.md) | [Next](./../../../../..//us/usc/t42/ch46/schVII/m__us_usc_t42_s3771.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschVII)
+[Previous](./../../../../..//us/usc/t42/ch46/schVI/m__us_usc_t42_s3769...3769d.md) | [Next](./../../../../..//us/usc/t42/ch46/schVII/m__us_usc_t42_s3771.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschVII)
 
 ----------
 ----------

@@ -31,7 +31,7 @@
 
  __Codification__ 
 
-    R.S. § 1980 derived from acts [July 31, 1861, ch. 33][/us/act/1861-07-31/ch33], [12 Stat. 284][/us/stat/12/284]; [Apr. 20, 1871, ch. 22, § 2][/us/act/1871-04-20/ch22/s2], [17 Stat. 13][/us/stat/17/13].
+    R.S. § 1980 derived from acts [July 31, 1861, ch. 33][/us/act/1861-07-31/ch33], [12 Stat. 284][/us/stat/12/284]; [Apr. 20, 1871, ch. 22][/us/act/1871-04-20/ch22], § 2, [17 Stat. 13][/us/stat/17/13].
 
     Section was formerly classified to [section 47 of Title 8][/us/usc/t8/s47], Aliens and Nationality.
 
@@ -44,7 +44,7 @@
 
 [/us/act/1861-07-31/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-31%2Fch33
 [/us/stat/12/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F284
-[/us/act/1871-04-20/ch22/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22%2Fs2
+[/us/act/1871-04-20/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22
 [/us/stat/17/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F13
 [/us/usc/t8/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs47
 

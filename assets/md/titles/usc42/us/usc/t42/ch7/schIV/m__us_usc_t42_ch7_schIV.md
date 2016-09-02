@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1968—[Pub. L. 90–248, title II, § 240(a)][/us/pl/90/248/s240/a], Jan. 2, 1968, [81 Stat. 911][/us/stat/81/911], provided for grants for child-welfare services in subchapter heading.
+    1968—[Pub. L. 90–248, title II][/us/pl/90/248/tII], § 240(a), Jan. 2, 1968, [81 Stat. 911][/us/stat/81/911], provided for grants for child-welfare services in subchapter heading.
 
-    1962—[Pub. L. 87–543, title I, § 104(a)(1)][/us/pl/87/543/s104/a/1], July 25, 1962, [76 Stat. 185][/us/stat/76/185], substituted “AID AND SERVICES TO NEEDY FAMILIES WITH CHILDREN” for “AID TO DEPENDENT CHILDREN” in subchapter heading.
+    1962—[Pub. L. 87–543, title I][/us/pl/87/543/tI], § 104(a)(1), July 25, 1962, [76 Stat. 185][/us/stat/76/185], substituted “AID AND SERVICES TO NEEDY FAMILIES WITH CHILDREN” for “AID TO DEPENDENT CHILDREN” in subchapter heading.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/90/248/s240/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fa
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F911
-[/us/pl/87/543/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs104%2Fa%2F1
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F185
 
 

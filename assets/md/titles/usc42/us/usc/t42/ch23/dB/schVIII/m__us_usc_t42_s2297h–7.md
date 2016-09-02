@@ -43,11 +43,11 @@
 
         (2) This subsection shall not apply to claims arising under the Securities Act of 1933 ([15 U.S.C. 77a][/us/usc/t15/s77a] et seq.), the Securities Exchange Act of 1934 ([15 U.S.C. 78a][/us/usc/t15/s78a] et seq.), or under the Constitution or laws of any State, territory, or possession of the United States relating to transactions in securities.
 
-([Pub. L. 104–134, title III, § 3109][/us/pl/104/134/s3109], Apr. 26, 1996, [110 Stat. 1321–339][/us/stat/110/1321-339].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3109, Apr. 26, 1996, [110 Stat. 1321–339][/us/stat/110/1321-339].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (d)(2), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (d)(2), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsec. (d)(2), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15][/us/usc/t15/s78a] and Tables.
 
@@ -65,9 +65,9 @@
 [/us/usc/t42/s2297h–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%936
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/104/134/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3109
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-339
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404

@@ -23,7 +23,7 @@
 
         Any funds remaining upon the expiration of the 1-year period referred to in subsection (a) of this section shall be returned to the Treasury of the United States and credited as miscellaneous receipts.
 
-([Pub. L. 101–501, title IX, § 988][/us/pl/101/501/s988], Nov. 3, 1990, [104 Stat. 1283][/us/stat/104/1283].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 988, Nov. 3, 1990, [104 Stat. 1283][/us/stat/104/1283].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs988
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1283
 
 

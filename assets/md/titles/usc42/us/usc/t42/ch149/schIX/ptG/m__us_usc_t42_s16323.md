@@ -39,7 +39,7 @@
 
         A grant under this section shall be considered an authorized activity under [section 7381b of this title][/us/usc/t42/s7381b].
 
-([Pub. L. 109–58, title IX, § 983][/us/pl/109/58/s983], Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907]; [Pub. L. 113–188, title VI, § 601(a)][/us/pl/113/188/s601/a], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 983, Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907]; [Pub. L. 113–188, title VI][/us/pl/113/188/tVI], § 601(a), Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t42/s7381b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7381b
-[/us/pl/109/58/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs983
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F907
-[/us/pl/113/188/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs601%2Fa
+[/us/pl/113/188/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtVI
 [/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 

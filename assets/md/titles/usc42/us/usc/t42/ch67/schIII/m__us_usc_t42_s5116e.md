@@ -69,27 +69,27 @@
 
         In awarding local grants under this subchapter, a lead entity shall give priority to effective community-based programs serving low-income communities and those serving young parents or parents with young children, including community-based child abuse and neglect prevention programs.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
 
-([Pub. L. 93–247, title II, § 205][/us/pl/93/247/s205], formerly § 206, as added [Pub. L. 104–235, title I, § 121][/us/pl/104/235/s121], Oct. 3, 1996, [110 Stat. 3085][/us/stat/110/3085]; amended [Pub. L. 108–36, title I, § 126][/us/pl/108/36/s126], June 25, 2003, [117 Stat. 816][/us/stat/117/816]; renumbered § 205 and amended [Pub. L. 111–320, title I][/us/pl/111/320], §§ 136, 141, Dec. 20, 2010, [124 Stat. 3480][/us/stat/124/3480], 3482.)
+([Pub. L. 93–247, title II][/us/pl/93/247/tII], § 205, formerly § 206, as added [Pub. L. 104–235, title I][/us/pl/104/235/tI], § 121, Oct. 3, 1996, [110 Stat. 3085][/us/stat/110/3085]; amended [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 126, June 25, 2003, [117 Stat. 816][/us/stat/117/816]; renumbered § 205 and amended [Pub. L. 111–320, title I][/us/pl/111/320/tI], §§ 136, 141, Dec. 20, 2010, [124 Stat. 3480][/us/stat/124/3480], 3482.)
 
  __Prior Provisions__ 
 
-    A prior section 5116e, [Pub. L. 93–247, title II, § 206][/us/pl/93/247/s206], formerly [Pub. L. 98–473, title IV, § 407][/us/pl/98/473/s407], Oct. 12, 1984, [98 Stat. 2199][/us/stat/98/2199]; renumbered [§ 206 of Pub. L. 93–247][/us/pl/93/247/s206], and amended [Pub. L. 101–126][/us/pl/101/126], §§ 2(a), 3(a)(3), (c)(1), 4(f), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 766, 768, related to withholding of grant payments upon failure to comply with provisions of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 103–252, § 401(a)][/us/pl/103/252/s401/a].
+    A prior section 5116e, [Pub. L. 93–247, title II][/us/pl/93/247/tII], § 206, formerly [Pub. L. 98–473, title IV][/us/pl/98/473/tIV], § 407, Oct. 12, 1984, [98 Stat. 2199][/us/stat/98/2199]; renumbered § 206 of [Pub. L. 93–247][/us/pl/93/247], and amended [Pub. L. 101–126][/us/pl/101/126], §§ 2(a), 3(a)(3), (c)(1), 4(f), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 766, 768, related to withholding of grant payments upon failure to comply with provisions of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 103–252][/us/pl/103/252], § 401(a).
 
     A prior [section 205 of Pub. L. 93–247][/us/pl/93/247/s205] was renumbered section 204 and is classified to [section 5116d of this title][/us/usc/t42/s5116d].
 
-    Another prior [section 205 of Pub. L. 93–247][/us/pl/93/247/s205] was classified to [section 5116d of this title][/us/usc/t42/s5116d] prior to the general amendment of this subchapter by [Pub. L. 103–252, § 401(a)][/us/pl/103/252/s401/a].
+    Another prior [section 205 of Pub. L. 93–247][/us/pl/93/247/s205] was classified to [section 5116d of this title][/us/usc/t42/s5116d] prior to the general amendment of this subchapter by [Pub. L. 103–252][/us/pl/103/252], § 401(a).
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–320, § 136(a)(1)][/us/pl/111/320/s136/a/1], inserted a comma after “expand” in introductory provisions.
+    2010—Subsec. (a). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(1), inserted a comma after “expand” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 111–320, § 136(a)(2)][/us/pl/111/320/s136/a/2], substituted “parents,” for “parents and” and inserted “in meaningful roles” before semicolon at end.
+    Subsec. (a)(1). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(2), substituted “parents,” for “parents and” and inserted “in meaningful roles” before semicolon at end.
 
-    Subsec. (a)(2). [Pub. L. 111–320, § 136(a)(3)][/us/pl/111/320/s136/a/3], substituted “a comprehensive strategy to provide” for “a strategy to provide, over time,”, “family-centered” for “family centered”, and “, to parents with young children, and to parents who are adult former victims of domestic violence or child abuse or neglect,” for “and parents with young children,”.
+    Subsec. (a)(2). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(3), substituted “a comprehensive strategy to provide” for “a strategy to provide, over time,”, “family-centered” for “family centered”, and “, to parents with young children, and to parents who are adult former victims of domestic violence or child abuse or neglect,” for “and parents with young children,”.
 
-    Subsec. (a)(3). [Pub. L. 111–320, § 136(a)(4)(A)][/us/pl/111/320/s136/a/4/A], struck out introductory provisions which read as follows: “provide—”.
+    Subsec. (a)(3). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(A), struck out introductory provisions which read as follows: “provide—”.
 
-    Subsec. (a)(3)(A). [Pub. L. 111–320, § 136(a)(4)(A)][/us/pl/111/320/s136/a/4/A], added subpar. (A) and struck out former subpar. (A) which read as follows:
+    Subsec. (a)(3)(A). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(A), added subpar. (A) and struck out former subpar. (A) which read as follows:
 
     “(A) core family resource and support services such as—
 
@@ -101,29 +101,29 @@
 
     “(iv) follow-up services;”.
 
-    Subsec. (a)(3)(B). [Pub. L. 111–320, § 136(a)(4)(A)][/us/pl/111/320/s136/a/4/A], (B)(i), redesignated subpar. (C) as (B), inserted “provide” before “access”, and struck out former subpar. (B) which read as follows: “other core services, which must be provided or arranged for through contracts or agreements with other local agencies, including voluntary home visiting and all forms of respite care services to the extent practicable; and”.
+    Subsec. (a)(3)(B). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(A), (B)(i), redesignated subpar. (C) as (B), inserted “provide” before “access”, and struck out former subpar. (B) which read as follows: “other core services, which must be provided or arranged for through contracts or agreements with other local agencies, including voluntary home visiting and all forms of respite care services to the extent practicable; and”.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 111–320, § 136(a)(4)(B)(ii)][/us/pl/111/320/s136/a/4/B/ii], added cl. (ii) and struck out former cl. (ii) which read as follows: “child care, early childhood development and intervention services;”.
+    Subsec. (a)(3)(B)(ii). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(B)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: “child care, early childhood development and intervention services;”.
 
-    Subsec. (a)(3)(B)(iii). [Pub. L. 111–320, § 136(a)(4)(B)(iii)][/us/pl/111/320/s136/a/4/B/iii], inserted “and parents who are individuals with disabilities” before semicolon at end.
+    Subsec. (a)(3)(B)(iii). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(B)(iii), inserted “and parents who are individuals with disabilities” before semicolon at end.
 
-    Subsec. (a)(3)(B)(v). [Pub. L. 111–320, § 136(a)(4)(B)(iv)][/us/pl/111/320/s136/a/4/B/iv], (viii), amended cl. (v) identically, substituting “academic tutoring” for “scholastic tutoring”.
+    Subsec. (a)(3)(B)(v). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(B)(iv), (viii), amended cl. (v) identically, substituting “academic tutoring” for “scholastic tutoring”.
 
-    Subsec. (a)(3)(B)(ix). [Pub. L. 111–320, § 136(a)(4)(B)(v)][/us/pl/111/320/s136/a/4/B/v]–(vii), added cl. (ix).
+    Subsec. (a)(3)(B)(ix). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(B)(v)–(vii), added cl. (ix).
 
-    Subsec. (a)(3)(C). [Pub. L. 111–320, § 136(a)(4)(B)(i)][/us/pl/111/320/s136/a/4/B/i], redesignated subpar. (C) as (B).
+    Subsec. (a)(3)(C). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(4)(B)(i), redesignated subpar. (C) as (B).
 
-    Subsec. (a)(5). [Pub. L. 111–320, § 136(a)(5)][/us/pl/111/320/s136/a/5], substituted “child abuse and neglect prevention program” for “family resource and support program”.
+    Subsec. (a)(5). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(5), substituted “child abuse and neglect prevention program” for “family resource and support program”.
 
-    Subsec. (a)(6). [Pub. L. 111–320, § 136(a)(6)][/us/pl/111/320/s136/a/6], inserted a comma after “operation”.
+    Subsec. (a)(6). [Pub. L. 111–320][/us/pl/111/320], § 136(a)(6), inserted a comma after “operation”.
 
-    Subsec. (b). [Pub. L. 111–320, § 136(b)][/us/pl/111/320/s136/b], substituted “low-income” for “low income” and “child abuse and neglect prevention programs.” for “family resource and support programs”.
+    Subsec. (b). [Pub. L. 111–320][/us/pl/111/320], § 136(b), substituted “low-income” for “low income” and “child abuse and neglect prevention programs.” for “family resource and support programs”.
 
-    2003—Subsec. (a). [Pub. L. 108–36, § 126(1)][/us/pl/108/36/s126/1], substituted “and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect” for “prevention-focused, family resource and support programs” in introductory provisions.
+    2003—Subsec. (a). [Pub. L. 108–36][/us/pl/108/36], § 126(1), substituted “and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect” for “prevention-focused, family resource and support programs” in introductory provisions.
 
-    Subsec. (a)(3)(B). [Pub. L. 108–36, § 126(2)][/us/pl/108/36/s126/2], inserted “voluntary home visiting and” after “including”.
+    Subsec. (a)(3)(B). [Pub. L. 108–36][/us/pl/108/36], § 126(2), inserted “voluntary home visiting and” after “including”.
 
-    Subsec. (a)(6). [Pub. L. 108–36, § 126(3)][/us/pl/108/36/s126/3], added par. (6) and struck out former par. (6) which read as follows: “participate with other community-based, prevention-focused, family resource and support program grantees in the development, operation and expansion of the Statewide network.”
+    Subsec. (a)(6). [Pub. L. 108–36][/us/pl/108/36], § 126(3), added par. (6) and struck out former par. (6) which read as follows: “participate with other community-based, prevention-focused, family resource and support program grantees in the development, operation and expansion of the Statewide network.”
 
 ----------
 
@@ -132,41 +132,41 @@
 ----------
 ----------
 
-[/us/pl/93/247/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs205
-[/us/pl/104/235/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs121
+[/us/pl/93/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtII
+[/us/pl/104/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtI
 [/us/stat/110/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3085
-[/us/pl/108/36/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs126
+[/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F816
-[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3480
-[/us/pl/93/247/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs206
-[/us/pl/98/473/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs407
+[/us/pl/93/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtII
+[/us/pl/98/473/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtIV
 [/us/stat/98/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2199
-[/us/pl/93/247/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs206
+[/us/pl/93/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247
 [/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/stat/103/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F764
-[/us/pl/103/252/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs401%2Fa
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/93/247/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs205
 [/us/usc/t42/s5116d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5116d
 [/us/pl/93/247/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs205
 [/us/usc/t42/s5116d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5116d
-[/us/pl/103/252/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs401%2Fa
-[/us/pl/111/320/s136/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F1
-[/us/pl/111/320/s136/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F2
-[/us/pl/111/320/s136/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F3
-[/us/pl/111/320/s136/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FA
-[/us/pl/111/320/s136/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FA
-[/us/pl/111/320/s136/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FA
-[/us/pl/111/320/s136/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FB%2Fii
-[/us/pl/111/320/s136/a/4/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FB%2Fiii
-[/us/pl/111/320/s136/a/4/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FB%2Fiv
-[/us/pl/111/320/s136/a/4/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FB%2Fv
-[/us/pl/111/320/s136/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F4%2FB%2Fi
-[/us/pl/111/320/s136/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F5
-[/us/pl/111/320/s136/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fa%2F6
-[/us/pl/111/320/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs136%2Fb
-[/us/pl/108/36/s126/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs126%2F1
-[/us/pl/108/36/s126/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs126%2F2
-[/us/pl/108/36/s126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs126%2F3
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
 
 

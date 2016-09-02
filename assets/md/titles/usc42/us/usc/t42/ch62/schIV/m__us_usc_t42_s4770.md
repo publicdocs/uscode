@@ -17,7 +17,7 @@
 
     Federal funds made available to State or local governments under other programs may not be used by the State or local government for cost-sharing purposes under grant provisions of this chapter, except that Federal funds of a program financed wholly by Federal funds may be used to pay a pro-rata share of such cost sharing. State or local government funds used for cost sharing on other federally assisted programs may not be used for cost sharing under grant provisions of this chapter.
 
-([Pub. L. 91–648, title V, § 511][/us/pl/91/648/s511], Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 511, Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs511
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1928
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761
 

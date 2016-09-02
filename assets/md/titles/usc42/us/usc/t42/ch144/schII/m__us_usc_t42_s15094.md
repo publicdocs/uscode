@@ -17,7 +17,7 @@
 
     To be eligible to receive a grant under this subchapter, a State shall submit an application to the Secretary at such time, in such manner, and containing such information and assurances as the Secretary may require, including information about the designation of a lead entity, a description of available State resources, and assurances that systems change activities will be family-centered and family-directed.
 
-([Pub. L. 106–402, title II, § 205][/us/pl/106/402/s205], Oct. 30, 2000, [114 Stat. 1731][/us/stat/114/1731].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 205, Oct. 30, 2000, [114 Stat. 1731][/us/stat/114/1731].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs205
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1731
 
 

@@ -45,7 +45,7 @@
 
         (2) provide for the development and demonstration of practicable means to employ solar energy on a commercial scale.
 
-([Pub. L. 93–473, § 2][/us/pl/93/473/s2], Oct. 26, 1974, [88 Stat. 1431][/us/stat/88/1431].)
+([Pub. L. 93–473][/us/pl/93/473], § 2, Oct. 26, 1974, [88 Stat. 1431][/us/stat/88/1431].)
 
  __Short Title__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs2
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1431
 [/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/pl/93/473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs1

@@ -43,7 +43,7 @@
 
             of the employer and the corporation.
 
-([Pub. L. 88–352, title VII, § 702][/us/pl/88/352/s702], July 2, 1964, [78 Stat. 255][/us/stat/78/255]; [Pub. L. 92–261, § 3][/us/pl/92/261/s3], Mar. 24, 1972, [86 Stat. 103][/us/stat/86/103]; [Pub. L. 102–166, title I, § 109(b)(1)][/us/pl/102/166/s109/b/1], Nov. 21, 1991, [105 Stat. 1077][/us/stat/105/1077].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 702, July 2, 1964, [78 Stat. 255][/us/stat/78/255]; [Pub. L. 92–261][/us/pl/92/261], § 3, Mar. 24, 1972, [86 Stat. 103][/us/stat/86/103]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], § 109(b)(1), Nov. 21, 1991, [105 Stat. 1077][/us/stat/105/1077].)
 
  __Amendments__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/88/352/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs702
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F255
-[/us/pl/92/261/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs3
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F103
-[/us/pl/102/166/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs109%2Fb%2F1
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1077
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261

@@ -63,11 +63,11 @@
 
             (C) Nothing in this subsection shall alter the Department’s responsibilities to pay the safety, safeguards and security costs associated with the Department’s highly enriched uranium activities.
 
-([Pub. L. 104–134, title III, § 3107][/us/pl/104/134/s3107], Apr. 26, 1996, [110 Stat. 1321–338][/us/stat/110/1321-338]; [Pub. L. 105–62, title V, § 511][/us/pl/105/62/s511], Oct. 13, 1997, [111 Stat. 1341][/us/stat/111/1341]; [Pub. L. 105–245, title III, § 310][/us/pl/105/245/s310], Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3107, Apr. 26, 1996, [110 Stat. 1321–338][/us/stat/110/1321-338]; [Pub. L. 105–62, title V][/us/pl/105/62/tV], § 511, Oct. 13, 1997, [111 Stat. 1341][/us/stat/111/1341]; [Pub. L. 105–245, title III][/us/pl/105/245/tIII], § 310, Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (c), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter (§ 2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (c), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter (§ 2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Codification__ 
 
@@ -91,14 +91,14 @@
 [/us/usc/t42/s2210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210%2Fd
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
 [/us/usc/t42/s2201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201%2Fk
-[/us/pl/104/134/s3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3107
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-338
-[/us/pl/105/62/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F62%2Fs511
+[/us/pl/105/62/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F62%2FtV
 [/us/stat/111/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1341
-[/us/pl/105/245/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2Fs310
+[/us/pl/105/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2FtIII
 [/us/stat/112/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1853
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/105/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245

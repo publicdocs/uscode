@@ -31,7 +31,7 @@
 
         For the purpose of carrying out subsection (a)(1) of this section, the Attorney General shall notify the Commissioner of Social Security as soon as practicable after the removal of any individual under section 1227(a) or 1182(a)(6)(A) of title 8.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 804, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1845][/us/stat/113/1845]; amended [Pub. L. 108–203, title II, § 203(c)][/us/pl/108/203/s203/c], Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 804, as added [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(a), Dec. 14, 1999, [113 Stat. 1845][/us/stat/113/1845]; amended [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 203(c), Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511].)
 
  __Prior Provisions__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t42/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1002
 [/us/usc/t31/s3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3329
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/169/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1845
-[/us/pl/108/203/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs203%2Fc
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F511
 [/us/usc/t42/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1001
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203

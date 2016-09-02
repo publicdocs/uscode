@@ -17,7 +17,7 @@
 
     The consent of the Congress is hereby given to any two or more States to enter into compacts or other agreements, not in conflict with any law of the United States, for cooperative efforts and mutual assistance (including the establishment of appropriate agencies) in connection with the development and administration of personnel and training programs for employees and officials of State and local governments.
 
-([Pub. L. 91–648, title II, § 207][/us/pl/91/648/s207], Jan. 5, 1971, [84 Stat. 1915][/us/stat/84/1915].)
+([Pub. L. 91–648, title II][/us/pl/91/648/tII], § 207, Jan. 5, 1971, [84 Stat. 1915][/us/stat/84/1915].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs207
+[/us/pl/91/648/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtII
 [/us/stat/84/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1915
 
 

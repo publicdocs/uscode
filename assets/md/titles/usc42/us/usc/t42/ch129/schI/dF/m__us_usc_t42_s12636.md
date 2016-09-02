@@ -133,7 +133,7 @@
 
             Suits to enforce arbitration awards under this section may be brought in any district court of the United States having jurisdiction of the parties, without regard to the amount in controversy and without regard to the citizenship of the parties.
 
-([Pub. L. 101–610, title I, § 176][/us/pl/101/610/s176], Nov. 16, 1990, [104 Stat. 3161][/us/stat/104/3161]; [Pub. L. 103–82, title I, § 116][/us/pl/103/82/s116], title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 863][/us/stat/107/863], 918; [Pub. L. 111–13, title I, § 1604][/us/pl/111/13/s1604], Apr. 21, 2009, [123 Stat. 1529][/us/stat/123/1529].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 176, Nov. 16, 1990, [104 Stat. 3161][/us/stat/104/3161]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 116, title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 863][/us/stat/107/863], 918; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1604, Apr. 21, 2009, [123 Stat. 1529][/us/stat/123/1529].)
 
  __References in Text__ 
 
@@ -141,23 +141,23 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(2)(A). [Pub. L. 111–13, § 1604(1)][/us/pl/111/13/s1604/1], substituted “1 or more periods of 30 days not to exceed a total of 90 days” for “30 days”.
+    2009—Subsec. (a)(2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1604(1), substituted “1 or more periods of 30 days not to exceed a total of 90 days” for “30 days”.
 
-    Subsec. (f)(1). [Pub. L. 111–13, § 1604(2)(A)][/us/pl/111/13/s1604/2/A], substituted “An entity” for “A State or local applicant”.
+    Subsec. (f)(1). [Pub. L. 111–13][/us/pl/111/13], § 1604(2)(A), substituted “An entity” for “A State or local applicant”.
 
-    Subsec. (f)(6)(D), (E). [Pub. L. 111–13, § 1604(2)(B)][/us/pl/111/13/s1604/2/B], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (f)(6)(D), (E). [Pub. L. 111–13][/us/pl/111/13], § 1604(2)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    1993—Subsec. (a)(1). [Pub. L. 103–82, § 402(b)(1)][/us/pl/103/82/s402/b/1], substituted “Corporation” for “Commission” in two places.
+    1993—Subsec. (a)(1). [Pub. L. 103–82][/us/pl/103/82], § 402(b)(1), substituted “Corporation” for “Commission” in two places.
 
-    [Pub. L. 103–82, § 116(a)(1)][/us/pl/103/82/s116/a/1], inserted “, or revoke the designation of positions, related to the grant or contract, as approved national service positions,” after “assistance under this subchapter”.
+    [Pub. L. 103–82][/us/pl/103/82], § 116(a)(1), inserted “, or revoke the designation of positions, related to the grant or contract, as approved national service positions,” after “assistance under this subchapter”.
 
-    Subsec. (a)(2). [Pub. L. 103–82, § 402(b)(1)][/us/pl/103/82/s402/b/1], substituted “Corporation” for “Commission” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 103–82][/us/pl/103/82], § 402(b)(1), substituted “Corporation” for “Commission” in introductory provisions.
 
-    Subsec. (a)(2)(B). [Pub. L. 103–82, § 116(a)(2)][/us/pl/103/82/s116/a/2], inserted “or revoked” after “terminated”.
+    Subsec. (a)(2)(B). [Pub. L. 103–82][/us/pl/103/82], § 116(a)(2), inserted “or revoked” after “terminated”.
 
-    Subsec. (e). [Pub. L. 103–82, § 116(b)][/us/pl/103/82/s116/b], inserted before period at end “, other than assistance provided pursuant to this chapter”.
+    Subsec. (e). [Pub. L. 103–82][/us/pl/103/82], § 116(b), inserted before period at end “, other than assistance provided pursuant to this chapter”.
 
-    Subsec. (f). [Pub. L. 103–82, § 116(c)][/us/pl/103/82/s116/c], amended subsec. (f) generally, substituting pars. (1) to (6) for former pars. (1) to (6) relating to same subjects and adding par. (7).
+    Subsec. (f). [Pub. L. 103–82][/us/pl/103/82], § 116(c), amended subsec. (f) generally, substituting pars. (1) to (6) for former pars. (1) to (6) relating to same subjects and adding par. (7).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -178,24 +178,24 @@
 
 [/us/usc/t42/s12637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12637
 [/us/usc/t42/s12637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12637
-[/us/pl/101/610/s176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs176
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3161
-[/us/pl/103/82/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs116
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F863
-[/us/pl/111/13/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1604
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1529
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
-[/us/pl/111/13/s1604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1604%2F1
-[/us/pl/111/13/s1604/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1604%2F2%2FA
-[/us/pl/111/13/s1604/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1604%2F2%2FB
-[/us/pl/103/82/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs402%2Fb%2F1
-[/us/pl/103/82/s116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs116%2Fa%2F1
-[/us/pl/103/82/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs402%2Fb%2F1
-[/us/pl/103/82/s116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs116%2Fa%2F2
-[/us/pl/103/82/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs116%2Fb
-[/us/pl/103/82/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs116%2Fc
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

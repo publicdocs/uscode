@@ -53,15 +53,15 @@
 
         The Director may reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
 
-([Pub. L. 90–351, title I, § 2701][/us/pl/90/351/s2701], as added [Pub. L. 106–386, div. B, title I, § 1108(b)][/us/pl/106/386/s1108/b], Oct. 28, 2000, [114 Stat. 1501][/us/stat/114/1501]; amended [Pub. L. 109–162, title XI, § 1169(b)][/us/pl/109/162/s1169/b], Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122]; [Pub. L. 109–271, § 8(j)][/us/pl/109/271/s8/j], Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2701, as added [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1108(b), Oct. 28, 2000, [114 Stat. 1501][/us/stat/114/1501]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1169(b), Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122]; [Pub. L. 109–271][/us/pl/109/271], § 8(j), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–271, § 8(j)(1)][/us/pl/109/271/s8/j/1], substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
+    2006—Subsec. (a). [Pub. L. 109–271][/us/pl/109/271], § 8(j)(1), substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
 
     [Pub. L. 109–162][/us/pl/109/162] inserted “, acting through the Office of Community Oriented Policing Services,” after “The Attorney General”.
 
-    Subsecs. (b) to (f). [Pub. L. 109–271, § 8(j)(2)][/us/pl/109/271/s8/j/2], substituted “Director” for “Attorney General” wherever appearing.
+    Subsecs. (b) to (f). [Pub. L. 109–271][/us/pl/109/271], § 8(j)(2), substituted “Director” for “Attorney General” wherever appearing.
 
 ----------
 
@@ -70,15 +70,15 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2701
-[/us/pl/106/386/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1108%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1501
-[/us/pl/109/162/s1169/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1169%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3122
-[/us/pl/109/271/s8/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fj
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F767
-[/us/pl/109/271/s8/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fj%2F1
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/109/271/s8/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fj%2F2
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 
 

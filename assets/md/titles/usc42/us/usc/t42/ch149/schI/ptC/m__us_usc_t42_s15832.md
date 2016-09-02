@@ -57,7 +57,7 @@
 
         There are authorized to be appropriated to carry out this section $90,000,000 for each of fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title I, § 134][/us/pl/109/58/s134], Aug. 8, 2005, [119 Stat. 623][/us/stat/119/623].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 134, Aug. 8, 2005, [119 Stat. 623][/us/stat/119/623].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs134
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F623
 
 

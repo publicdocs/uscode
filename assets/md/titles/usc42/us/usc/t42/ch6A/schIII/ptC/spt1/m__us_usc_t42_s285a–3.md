@@ -43,7 +43,7 @@
 
         Research centers under this section may not be considered centers of excellence for purposes of [section 282(b)(10) of this title][/us/usc/t42/s282/b/10].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 414, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 835][/us/stat/99/835]; amended [Pub. L. 100–607, title I, § 123][/us/pl/100/607/s123], Nov. 4, 1988, [102 Stat. 3055][/us/stat/102/3055]; [Pub. L. 107–206, title I, § 804(c)][/us/pl/107/206/s804/c], Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874]; [Pub. L. 109–482, title I, § 108(b)][/us/pl/109/482/s108/b], Jan. 15, 2007, [120 Stat. 3697][/us/stat/120/3697].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 414, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 835][/us/stat/99/835]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 123, Nov. 4, 1988, [102 Stat. 3055][/us/stat/102/3055]; [Pub. L. 107–206, title I][/us/pl/107/206/tI], § 804(c), Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 108(b), Jan. 15, 2007, [120 Stat. 3697][/us/stat/120/3697].)
 
  __Amendments__ 
 
@@ -68,13 +68,13 @@
 [/us/usc/t42/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288
 [/us/usc/t42/s282/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F10
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F835
-[/us/pl/100/607/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs123
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3055
-[/us/pl/107/206/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs804%2Fc
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F874
-[/us/pl/109/482/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs108%2Fb
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3697
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206

@@ -27,7 +27,7 @@
 
         If a capital distribution is made under subsection (a) of this section, the school involved shall, after the capital distribution, pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school in payment of principal or interest on loans made from the loan fund established pursuant to [section 292q(b) of this title][/us/usc/t42/s292q/b] as was determined by the Secretary under subsection (a) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 728, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2021][/us/stat/106/2021].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 728, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2021][/us/stat/106/2021].)
 
  __Prior Provisions__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t42/s292q/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q%2Fb%2F2%2FB
 [/us/usc/t42/s292q/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2021
 [/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408

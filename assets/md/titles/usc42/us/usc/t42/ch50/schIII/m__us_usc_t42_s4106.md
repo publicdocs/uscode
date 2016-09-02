@@ -23,7 +23,7 @@
 
         In addition to the requirements of [section 4104a of this title][/us/usc/t42/s4104a], each Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender, described in such section to notify (as a condition of making, increasing, extending, or renewing any loan secured by property described in such section) the purchaser or lessee of such property of whether, in the event of a disaster caused by flood to such property, Federal disaster relief assistance will be available to such property.
 
-([Pub. L. 93–234, title II, § 202][/us/pl/93/234/s202], Dec. 31, 1973, [87 Stat. 982][/us/stat/87/982]; [Pub. L. 94–50, title III, § 303][/us/pl/94/50/s303], July 2, 1975, [89 Stat. 256][/us/stat/89/256]; [Pub. L. 94–198][/us/pl/94/198], Dec. 31, 1975, [89 Stat. 1116][/us/stat/89/1116]; [Pub. L. 94–375, § 14(a)][/us/pl/94/375/s14/a], Aug. 3, 1976, [90 Stat. 1075][/us/stat/90/1075]; [Pub. L. 95–128, title VII, § 703(a)][/us/pl/95/128/s703/a], Oct. 12, 1977, [91 Stat. 1144][/us/stat/91/1144]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V, § 511(b)][/us/pl/103/325/s511/b], Sept. 23, 1994, [108 Stat. 2256][/us/stat/108/2256]; [Pub. L. 112–141, div. F, title II, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 93–234, title II][/us/pl/93/234/tII], § 202, Dec. 31, 1973, [87 Stat. 982][/us/stat/87/982]; [Pub. L. 94–50, title III][/us/pl/94/50/tIII], § 303, July 2, 1975, [89 Stat. 256][/us/stat/89/256]; [Pub. L. 94–198][/us/pl/94/198], Dec. 31, 1975, [89 Stat. 1116][/us/stat/89/1116]; [Pub. L. 94–375][/us/pl/94/375], § 14(a), Aug. 3, 1976, [90 Stat. 1075][/us/stat/90/1075]; [Pub. L. 95–128, title VII][/us/pl/95/128/tVII], § 703(a), Oct. 12, 1977, [91 Stat. 1144][/us/stat/91/1144]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 511(b), Sept. 23, 1994, [108 Stat. 2256][/us/stat/108/2256]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(a)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __Codification__ 
 
@@ -63,21 +63,21 @@
 ----------
 
 [/us/usc/t42/s4104a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104a
-[/us/pl/93/234/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs202
+[/us/pl/93/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtII
 [/us/stat/87/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F982
-[/us/pl/94/50/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2Fs303
+[/us/pl/94/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F50%2FtIII
 [/us/stat/89/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F256
 [/us/pl/94/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F198
 [/us/stat/89/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1116
-[/us/pl/94/375/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs14%2Fa
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1075
-[/us/pl/95/128/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs703%2Fa
+[/us/pl/95/128/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVII
 [/us/stat/91/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1144
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/103/325/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs511%2Fb
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2256
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325

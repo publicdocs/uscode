@@ -39,7 +39,7 @@
 
         There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of fiscal years 2007 through 2010.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338M, as added [Pub. L. 109–417, title II, § 203(a)][/us/pl/109/417/s203/a], Dec. 19, 2006, [120 Stat. 2848][/us/stat/120/2848].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338M, as added [Pub. L. 109–417, title II][/us/pl/109/417/tII], § 203(a), Dec. 19, 2006, [120 Stat. 2848][/us/stat/120/2848].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs203%2Fa
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2848
 
 

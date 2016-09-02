@@ -65,7 +65,7 @@
 
         (4) For carrying out the purpose of this chapter the Administrator may detail personnel of the Environmental Protection Agency to agencies eligible for assistance under this section.
 
-([Pub. L. 89–272, title II, § 8001][/us/pl/89/272/s8001], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2829][/us/stat/90/2829]; amended [Pub. L. 95–91, title III, § 301][/us/pl/95/91/s301], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–609, § 7(s)][/us/pl/95/609/s7/s], Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 8001, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2829][/us/stat/90/2829]; amended [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–609][/us/pl/95/609], § 7(s), Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a)(2). [Pub. L. 95–609, § 7(s)(1)][/us/pl/95/609/s7/s/1], substituted “management” for “disposal”.
+    1978—Subsec. (a)(2). [Pub. L. 95–609][/us/pl/95/609], § 7(s)(1), substituted “management” for “disposal”.
 
-    Subsec. (a)(13). [Pub. L. 95–609, § 7(s)(2)][/us/pl/95/609/s7/s/2], inserted “treatment,” after “for purpose of”.
+    Subsec. (a)(13). [Pub. L. 95–609][/us/pl/95/609], § 7(s)(2), inserted “treatment,” after “for purpose of”.
 
  __Transfer of Functions__ 
 
@@ -89,19 +89,19 @@
 
  __EPA Study of Methods To Reduce Plastic Pollution__ 
 
-    [Pub. L. 100–220, title II, § 2202][/us/pl/100/220/s2202], Dec. 29, 1987, [101 Stat. 1465][/us/stat/101/1465], directed Administrator of Environmental Protection Agency, in consultation with Secretary of Commerce, to conduct a study of the adverse effects of improper disposal of plastic articles on environment and on waste disposal, and various methods to reduce or eliminate such adverse effects, and directed Administrator, within 18 months after Dec. 29, 1987, to report results of this study to Congress.
+    [Pub. L. 100–220, title II][/us/pl/100/220/tII], § 2202, Dec. 29, 1987, [101 Stat. 1465][/us/stat/101/1465], directed Administrator of Environmental Protection Agency, in consultation with Secretary of Commerce, to conduct a study of the adverse effects of improper disposal of plastic articles on environment and on waste disposal, and various methods to reduce or eliminate such adverse effects, and directed Administrator, within 18 months after Dec. 29, 1987, to report results of this study to Congress.
 
  __National Advisory Commission on Resource Conservation and Recovery__ 
 
-    [Pub. L. 96–482, § 33][/us/pl/96/482/s33], Oct. 21, 1980, [94 Stat. 2356][/us/stat/94/2356], as amended by [Pub. L. 105–362, title V, § 501(g)][/us/pl/105/362/s501/g], Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284], provided for establishment, membership, functions, etc., of a National Advisory Commission on Resource Conservation and Recovery, directed Commission, upon expiration of the two-year period beginning on the date when all initial members of the Commission have been appointed or the date initial funds become available, whichever is later, to transmit a final report to President and Congress containing a detailed statement of the findings and conclusions of the Commission, and terminated the Commission 30 days after submission of its final report.
+    [Pub. L. 96–482][/us/pl/96/482], § 33, Oct. 21, 1980, [94 Stat. 2356][/us/stat/94/2356], as amended by [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(g), Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284], provided for establishment, membership, functions, etc., of a National Advisory Commission on Resource Conservation and Recovery, directed Commission, upon expiration of the two-year period beginning on the date when all initial members of the Commission have been appointed or the date initial funds become available, whichever is later, to transmit a final report to President and Congress containing a detailed statement of the findings and conclusions of the Commission, and terminated the Commission 30 days after submission of its final report.
 
  __Solid Waste Cleanup on Federal Lands in Alaska; Study and Report to Congressional Committees__ 
 
-    [Pub. L. 94–580, § 3][/us/pl/94/580/s3], Oct. 21, 1976, [90 Stat. 2840][/us/stat/90/2840], provided for a study of procedures for removal of solid waste from Federal lands in Alaska and submission of a Presidential Report to the Senate Committee on Public Lands and House Committee on Interstate and Foreign Commerce no later than one year after Oct. 21, 1976, and implementing recommendations to such committees within six months thereafter, prior to repeal by [Pub. L. 96–482, § 30][/us/pl/96/482/s30], Oct. 21, 1980, [94 Stat. 2352][/us/stat/94/2352].
+    [Pub. L. 94–580][/us/pl/94/580], § 3, Oct. 21, 1976, [90 Stat. 2840][/us/stat/90/2840], provided for a study of procedures for removal of solid waste from Federal lands in Alaska and submission of a Presidential Report to the Senate Committee on Public Lands and House Committee on Interstate and Foreign Commerce no later than one year after Oct. 21, 1976, and implementing recommendations to such committees within six months thereafter, prior to repeal by [Pub. L. 96–482][/us/pl/96/482], § 30, Oct. 21, 1980, [94 Stat. 2352][/us/stat/94/2352].
 
  __Leachate Control Research Program in Delaware__ 
 
-    [Pub. L. 94–580, § 4][/us/pl/94/580/s4], Oct. 21, 1976, [90 Stat. 2840][/us/stat/90/2840], directed Administrator of Environmental Protection Agency, in order to demonstrate effective means of dealing with contamination of public water supplies by leachate from abandoned or other landfills, to provide technical and financial assistance for a research program, designed by New Castle County areawide waste treatment management program, to control leachate from Llangollen Landfill in New Castle County, Delaware, and provided up to $250,000 in each of the fiscal years 1978 and 1979 for the operating costs of a counter-pumping program to contain the leachate from the Llangollen Landfill during the period of this study.
+    [Pub. L. 94–580][/us/pl/94/580], § 4, Oct. 21, 1976, [90 Stat. 2840][/us/stat/90/2840], directed Administrator of Environmental Protection Agency, in order to demonstrate effective means of dealing with contamination of public water supplies by leachate from abandoned or other landfills, to provide technical and financial assistance for a research program, designed by New Castle County areawide waste treatment management program, to control leachate from Llangollen Landfill in New Castle County, Delaware, and provided up to $250,000 in each of the fiscal years 1978 and 1979 for the operating costs of a counter-pumping program to contain the leachate from the Llangollen Landfill during the period of this study.
 
 ----------
 
@@ -115,33 +115,33 @@
 [/us/usc/t10/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2353
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
-[/us/pl/89/272/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs8001
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2829
-[/us/pl/95/91/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/609/s7/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fs
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3083
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/usc/t42/s3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3253
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
-[/us/pl/95/609/s7/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fs%2F1
-[/us/pl/95/609/s7/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fs%2F2
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
-[/us/pl/100/220/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs2202
+[/us/pl/100/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtII
 [/us/stat/101/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1465
-[/us/pl/96/482/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs33
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2356
-[/us/pl/105/362/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fg
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3284
-[/us/pl/94/580/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs3
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2840
-[/us/pl/96/482/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs30
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2352
-[/us/pl/94/580/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs4
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2840
 
 

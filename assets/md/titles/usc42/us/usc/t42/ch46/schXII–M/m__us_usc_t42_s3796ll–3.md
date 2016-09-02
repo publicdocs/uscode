@@ -115,7 +115,7 @@
 
             Notwithstanding any other provision of law, the United States shall not be liable for any harm occurring in connection with the use or misuse of any body armor donated under this subsection.
 
-([Pub. L. 107–273, div. C, title I, § 11009][/us/pl/107/273/s11009], Nov. 2, 2002, [116 Stat. 1819][/us/stat/116/1819].)
+([Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11009, Nov. 2, 2002, [116 Stat. 1819][/us/stat/116/1819].)
 
  __Codification__ 
 
@@ -123,7 +123,7 @@
 
     Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
-    In subsec. (f), “[section 102 of title 40][/us/usc/t40/s102]” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472][/us/usc/t40/s472])” in par. (1), and “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484][/us/usc/t40/s484])” in par. (2), on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (f), “[section 102 of title 40][/us/usc/t40/s102]” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472][/us/usc/t40/s472])” in par. (1), and “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484][/us/usc/t40/s484])” in par. (2), on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Transfer of Functions__ 
 
@@ -148,7 +148,7 @@
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/usc/t18/s924/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924%2Fc
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
-[/us/pl/107/273/s11009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11009
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1819
 [/us/pl/107/273/s11009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11009
 [/us/pl/107/273/s11009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11009
@@ -156,7 +156,7 @@
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 [/us/usc/t40/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs472
 [/us/usc/t40/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t6/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531%2Fc
 [/us/usc/t28/s599A/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599A%2Fc%2F1

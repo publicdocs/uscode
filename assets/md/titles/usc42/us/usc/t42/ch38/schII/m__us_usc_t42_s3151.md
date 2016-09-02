@@ -35,15 +35,15 @@
 
         (2) return the funds to the originating agency.
 
-([Pub. L. 89–136, title II, § 211][/us/pl/89/136/s211], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3606][/us/stat/112/3606]; amended [Pub. L. 108–373, title II, § 208][/us/pl/108/373/s208], Oct. 27, 2004, [118 Stat. 1763][/us/stat/118/1763]; [Pub. L. 111–8, div. G, title I, § 1301(b)][/us/pl/111/8/s1301/b], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 111–68, div. A, title I, § 1501(a)][/us/pl/111/68/s1501/a], Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 211, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3606][/us/stat/112/3606]; amended [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 208, Oct. 27, 2004, [118 Stat. 1763][/us/stat/118/1763]; [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(b), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1501(a), Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041].)
 
  __Prior Provisions__ 
 
-    Prior sections 3151 and 3151a were repealed by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    Prior sections 3151 and 3151a were repealed by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
-    Section 3151, [Pub. L. 89–136, title III, § 301][/us/pl/89/136/s301], Aug. 26, 1965, [79 Stat. 558][/us/stat/79/558]; [Pub. L. 91–123, title III, § 302][/us/pl/91/123/s302], Nov. 25, 1969, [83 Stat. 219][/us/stat/83/219]; [Pub. L. 93–46, § 3(a)][/us/pl/93/46/s3/a], June 18, 1973, [87 Stat. 96][/us/stat/87/96], authorized technical assistance to alleviate or prevent excessive unemployment or underemployment.
+    Section 3151, [Pub. L. 89–136, title III][/us/pl/89/136/tIII], § 301, Aug. 26, 1965, [79 Stat. 558][/us/stat/79/558]; [Pub. L. 91–123, title III][/us/pl/91/123/tIII], § 302, Nov. 25, 1969, [83 Stat. 219][/us/stat/83/219]; [Pub. L. 93–46][/us/pl/93/46], § 3(a), June 18, 1973, [87 Stat. 96][/us/stat/87/96], authorized technical assistance to alleviate or prevent excessive unemployment or underemployment.
 
-    Section 3151a, [Pub. L. 89–136, title III, § 302][/us/pl/89/136/s302], as added [Pub. L. 93–423, § 5(b)][/us/pl/93/423/s5/b], Sept. 27, 1974, [88 Stat. 1159][/us/stat/88/1159]; amended [Pub. L. 94–487, title I, § 110][/us/pl/94/487/s110], Oct. 12, 1976, [90 Stat. 2333][/us/stat/90/2333], authorized grants for economic development planning.
+    Section 3151a, [Pub. L. 89–136, title III][/us/pl/89/136/tIII], § 302, as added [Pub. L. 93–423][/us/pl/93/423], § 5(b), Sept. 27, 1974, [88 Stat. 1159][/us/stat/88/1159]; amended [Pub. L. 94–487, title I][/us/pl/94/487/tI], § 110, Oct. 12, 1976, [90 Stat. 2333][/us/stat/90/2333], authorized grants for economic development planning.
 
  __Amendments__ 
 
@@ -66,26 +66,26 @@
 
 [/us/usc/t42/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3144
 [/us/usc/t42/s3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3214
-[/us/pl/89/136/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs211
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3606
-[/us/pl/108/373/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs208
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1763
-[/us/pl/111/8/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Fb
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
-[/us/pl/111/68/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1501%2Fa
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2041
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
-[/us/pl/89/136/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs301
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
+[/us/pl/89/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtIII
 [/us/stat/79/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F558
-[/us/pl/91/123/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F123%2Fs302
+[/us/pl/91/123/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F123%2FtIII
 [/us/stat/83/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F219
-[/us/pl/93/46/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F46%2Fs3%2Fa
+[/us/pl/93/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F46
 [/us/stat/87/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F96
-[/us/pl/89/136/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs302
-[/us/pl/93/423/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F423%2Fs5%2Fb
+[/us/pl/89/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtIII
+[/us/pl/93/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F423
 [/us/stat/88/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1159
-[/us/pl/94/487/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2Fs110
+[/us/pl/94/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2FtI
 [/us/stat/90/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2333
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8

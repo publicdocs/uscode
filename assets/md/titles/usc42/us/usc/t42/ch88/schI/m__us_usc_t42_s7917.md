@@ -23,7 +23,7 @@
 
         In the case of any designated processing site located on Indian lands, the Secretary shall pay the entire cost of such remedial action.
 
-([Pub. L. 95–604, title I, § 107][/us/pl/95/604/s107], Nov. 8, 1978, [92 Stat. 3029][/us/stat/92/3029].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 107, Nov. 8, 1978, [92 Stat. 3029][/us/stat/92/3029].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s7913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7913
-[/us/pl/95/604/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs107
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3029
 
 

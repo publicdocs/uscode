@@ -129,7 +129,7 @@
 
         (2) The term “research on women’s health” means research on women’s health conditions, including research on preventing such conditions.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 486, as added [Pub. L. 103–43, title I, § 141(a)(3)][/us/pl/103/43/s141/a/3], June 10, 1993, [107 Stat. 136][/us/stat/107/136]; amended [Pub. L. 105–340, title I, § 106][/us/pl/105/340/s106], Oct. 31, 1998, [112 Stat. 3193][/us/stat/112/3193]; [Pub. L. 111–148, title III, § 3509(c)][/us/pl/111/148/s3509/c], Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 486, as added [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 141(a)(3), June 10, 1993, [107 Stat. 136][/us/stat/107/136]; amended [Pub. L. 105–340, title I][/us/pl/105/340/tI], § 106, Oct. 31, 1998, [112 Stat. 3193][/us/stat/112/3193]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(c), Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
 
  __Amendments__ 
 
@@ -141,7 +141,7 @@
 
     Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], Oct. 6, 1972, [86 Stat. 776][/us/stat/86/776], set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ----------
 
@@ -156,17 +156,17 @@
 [/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
 [/us/usc/t42/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s141/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs141%2Fa%2F3
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F136
-[/us/pl/105/340/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs106
+[/us/pl/105/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2FtI
 [/us/stat/112/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3193
-[/us/pl/111/148/s3509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fc
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F534
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/105/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

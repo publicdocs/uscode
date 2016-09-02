@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title X, § 10334(c)(1)(A)][/us/pl/111/148/s10334/c/1/A]–(C), (D)(ii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], redesignated subpart 6 of part E of this subchapter as this subpart and substituted “National Institute on Minority Health and Health Disparities” for “National Center on Minority Health and Health Disparities” in heading.
+    2010—[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(A)–(C), (D)(ii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], redesignated subpart 6 of part E of this subchapter as this subpart and substituted “National Institute on Minority Health and Health Disparities” for “National Center on Minority Health and Health Disparities” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s10334/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FA
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 
 

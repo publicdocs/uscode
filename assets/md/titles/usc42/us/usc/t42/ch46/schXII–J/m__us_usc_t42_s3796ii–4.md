@@ -17,11 +17,11 @@
 
     The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the program described in the application submitted under [section 3796ii–3 of this title][/us/usc/t42/s3796ii–3] for the fiscal year for which the program receives assistance under this subchapter, unless the Attorney General waives, wholly or in part, the requirement of a matching contribution under this section. The use of the Federal share of a grant made under this subchapter shall be limited to new expenses necessitated by the proposed program, including the development of treatment services and the hiring and training of personnel. In-kind contributions may constitute a portion of the non-Federal share of a grant.
 
-([Pub. L. 90–351, title I, § 2205][/us/pl/90/351/s2205], as added [Pub. L. 106–515, § 3(a)][/us/pl/106/515/s3/a], Nov. 13, 2000, [114 Stat. 2401][/us/stat/114/2401].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2205, as added [Pub. L. 106–515][/us/pl/106/515], § 3(a), Nov. 13, 2000, [114 Stat. 2401][/us/stat/114/2401].)
 
  __Prior Provisions__ 
 
-    A prior section 3796ii–4, [Pub. L. 90–351, title I, § 2205][/us/pl/90/351/s2205], as added [Pub. L. 103–322, title V, § 50001(a)(3)][/us/pl/103/322/s50001/a/3], Sept. 13, 1994, [108 Stat. 1957][/us/stat/108/1957], related to applications to request funds, prior to repeal by [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(b)(1)(A)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    A prior section 3796ii–4, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2205, as added [Pub. L. 103–322, title V][/us/pl/103/322/tV], § 50001(a)(3), Sept. 13, 1994, [108 Stat. 1957][/us/stat/108/1957], related to applications to request funds, prior to repeal by [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(b)(1)(A)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
 ----------
 
@@ -31,15 +31,15 @@
 ----------
 
 [/us/usc/t42/s3796ii–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ii%E2%80%933
-[/us/pl/90/351/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2205
-[/us/pl/106/515/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F515%2Fs3%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F515
 [/us/stat/114/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2401
-[/us/pl/90/351/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2205
-[/us/pl/103/322/s50001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs50001%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtV
 [/us/stat/108/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1957
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

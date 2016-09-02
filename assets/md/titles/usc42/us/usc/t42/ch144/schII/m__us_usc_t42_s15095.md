@@ -45,7 +45,7 @@
 
         (5) another appropriate office, agency, or entity.
 
-([Pub. L. 106–402, title II, § 206][/us/pl/106/402/s206], Oct. 30, 2000, [114 Stat. 1731][/us/stat/114/1731].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 206, Oct. 30, 2000, [114 Stat. 1731][/us/stat/114/1731].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t42/s15093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15093
 [/us/usc/t42/s15094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15094
 [/us/usc/t42/s15097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15097
-[/us/pl/106/402/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs206
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1731
 
 

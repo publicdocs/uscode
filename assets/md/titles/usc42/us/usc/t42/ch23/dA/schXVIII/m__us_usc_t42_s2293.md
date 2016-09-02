@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 85–846, § 4][/us/pl/85/846/s4], Aug. 28, 1958, [72 Stat. 1084][/us/stat/72/1084]; [Pub. L. 87–206, § 18][/us/pl/87/206/s18], Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479], related to guarantee contracts between the Atomic Energy Commission and operators of reactors under the cooperation program which were to extend no later than Dec. 31, 1975.
+    Section, [Pub. L. 85–846][/us/pl/85/846], § 4, Aug. 28, 1958, [72 Stat. 1084][/us/stat/72/1084]; [Pub. L. 87–206][/us/pl/87/206], § 18, Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479], related to guarantee contracts between the Atomic Energy Commission and operators of reactors under the cooperation program which were to extend no later than Dec. 31, 1975.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/85/846/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846%2Fs4
+[/us/pl/85/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846
 [/us/stat/72/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1084
-[/us/pl/87/206/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs18
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F479
 
 

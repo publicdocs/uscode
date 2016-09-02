@@ -65,7 +65,7 @@
 
         Nothing in this section shall be construed to affect the authority of the States under applicable national primary drinking water regulations to alter monitoring requirements through waivers or other existing authorities. The Administrator shall periodically review and, as appropriate, revise such authorities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1418, as added [Pub. L. 104–182, title I, § 125(b)][/us/pl/104/182/s125/b], Aug. 6, 1996, [110 Stat. 1654][/us/stat/110/1654].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1418, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 125(b), Aug. 6, 1996, [110 Stat. 1654][/us/stat/110/1654].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t42/s300j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9313
 [/us/usc/t42/s300g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs125%2Fb
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1654
 
 

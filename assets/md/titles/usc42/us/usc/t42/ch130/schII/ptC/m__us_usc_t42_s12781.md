@@ -17,7 +17,7 @@
 
     The Secretary shall, insofar as is feasible through contract with eligible organizations, develop the capacity of participating jurisdictions, State and local housing finance agencies, nonprofit organizations and for-profit corporations, working in partnership, to identify and meet needs for an increased supply of decent, affordable housing.
 
-([Pub. L. 101–625, title II, § 241][/us/pl/101/625/s241], Nov. 28, 1990, [104 Stat. 4117][/us/stat/104/4117].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 241, Nov. 28, 1990, [104 Stat. 4117][/us/stat/104/4117].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs241
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4117
 
 

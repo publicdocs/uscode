@@ -147,11 +147,11 @@
 
         The Secretary shall consult with the Director of the Office of Personnel Management, the Secretary of Defense, the Secretary of Veterans Affairs, the Director of the Bureau of the Census, the Commissioner of Social Security, and the head of other appropriate Federal agencies in carrying out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXI, § 3101, as added [Pub. L. 111–148, title IV, § 4302(a)][/us/pl/111/148/s4302/a], Mar. 23, 2010, [124 Stat. 578][/us/stat/124/578].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXI, § 3101, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4302(a), Mar. 23, 2010, [124 Stat. 578][/us/stat/124/578].)
 
  __References in Text__ 
 
-    [Section 285t of this title][/us/usc/t42/s285t], referred to in subsec. (b)(1), was in the original “section 485E”, meaning section 485E of act July 1, 1944, which was renumbered section 464z–3 by [Pub. L. 111–148, title X, § 10334(c)(1)(D)(i)][/us/pl/111/148/s10334/c/1/D/i], Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], and is classified to [section 285t of this title][/us/usc/t42/s285t]. The act of July 1, 1944, no longer contains a section 485E.
+    [Section 285t of this title][/us/usc/t42/s285t], referred to in subsec. (b)(1), was in the original “section 485E”, meaning section 485E of act July 1, 1944, which was renumbered section 464z–3 by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(D)(i), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], and is classified to [section 285t of this title][/us/usc/t42/s285t]. The act of July 1, 1944, no longer contains a section 485E.
 
     The Indian Health Care Improvement Act, referred to in subsec. (c)(1)(F), is [Pub. L. 94–437][/us/pl/94/437], Sept. 30, 1976, [90 Stat. 1400][/us/stat/90/1400], which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25][/us/usc/t25/s1601] and Tables.
 
@@ -169,10 +169,10 @@
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2033
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4302%2Fa
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F578
 [/us/usc/t42/s285t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t
-[/us/pl/111/148/s10334/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fi
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 [/us/usc/t42/s285t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437

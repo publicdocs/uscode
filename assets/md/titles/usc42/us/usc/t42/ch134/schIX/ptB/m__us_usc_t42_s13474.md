@@ -57,7 +57,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $339,710,000 for fiscal year 1993 and $380,000,000 for fiscal year 1994.
 
-([Pub. L. 102–486, title XXI, § 2114][/us/pl/102/486/s2114], Oct. 24, 1992, [106 Stat. 3073][/us/stat/106/3073]; [Pub. L. 104–66, title I, § 1052(i)][/us/pl/104/66/s1052/i], Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2114, Oct. 24, 1992, [106 Stat. 3073][/us/stat/106/3073]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(i), Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t42/s13523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13523
-[/us/pl/102/486/s2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2114
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3073
-[/us/pl/104/66/s1052/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fi
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F719
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 

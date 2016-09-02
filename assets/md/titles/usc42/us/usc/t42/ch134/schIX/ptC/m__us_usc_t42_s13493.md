@@ -49,7 +49,7 @@
 
             (C) The aggregate funding provided by the Secretary for projects under this subsection shall not exceed $100,000,000 for the period encompassing fiscal years 1993 through 1997.
 
-([Pub. L. 102–486, title XXI, § 2123][/us/pl/102/486/s2123], Oct. 24, 1992, [106 Stat. 3083][/us/stat/106/3083].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2123, Oct. 24, 1992, [106 Stat. 3083][/us/stat/106/3083].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t42/s13492/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13492%2Fb
-[/us/pl/102/486/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2123
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3083
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

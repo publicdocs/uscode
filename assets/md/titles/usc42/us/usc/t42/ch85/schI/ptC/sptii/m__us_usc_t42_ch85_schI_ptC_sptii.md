@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    As originally enacted, subpart II of part C of subchapter I of this chapter was added following [section 7478 of this title][/us/usc/t42/s7478]. [Pub. L. 95–190, § 14(a)(53)][/us/pl/95/190/s14/a/53], Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402], struck out subpart II and inserted such subpart following [section 7479 of this title][/us/usc/t42/s7479].
+    As originally enacted, subpart II of part C of subchapter I of this chapter was added following [section 7478 of this title][/us/usc/t42/s7478]. [Pub. L. 95–190][/us/pl/95/190], § 14(a)(53), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402], struck out subpart II and inserted such subpart following [section 7479 of this title][/us/usc/t42/s7479].
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s7478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7478
-[/us/pl/95/190/s14/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F53
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1402
 [/us/usc/t42/s7479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7479
 

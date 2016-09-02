@@ -17,7 +17,7 @@
 
     The President may direct that appropriate support functions of the Federal Government may be made available to the Corporation in carrying out its activities under this subchapter, to the extent not inconsistent with other applicable law.
 
-([Pub. L. 88–452, title X, § 1012][/us/pl/88/452/s1012], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 388][/us/stat/88/388].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1012, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 388][/us/stat/88/388].)
 
  __Ex. Ord. No. 11874. Delegation of Functions to Director of Office of Management and Budget__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/88/452/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1012
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F388
 [/us/stat/88/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F388
 [/us/usc/t42/s2996k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996k

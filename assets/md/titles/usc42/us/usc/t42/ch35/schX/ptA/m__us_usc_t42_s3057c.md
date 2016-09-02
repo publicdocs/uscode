@@ -31,11 +31,11 @@
 
         For the purposes of this part the terms “Indian tribe” and “tribal organization” have the same meaning as in [section 450b of title 25][/us/usc/t25/s450b].
 
-([Pub. L. 89–73, title VI, § 612][/us/pl/89/73/s612], as added [Pub. L. 100–175, title I, § 171][/us/pl/100/175/s171], Nov. 29, 1987, [101 Stat. 959][/us/stat/101/959]; amended [Pub. L. 106–501, title VI, § 601][/us/pl/106/501/s601], Nov. 13, 2000, [114 Stat. 2287][/us/stat/114/2287].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 612, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 959][/us/stat/101/959]; amended [Pub. L. 106–501, title VI][/us/pl/106/501/tVI], § 601, Nov. 13, 2000, [114 Stat. 2287][/us/stat/114/2287].)
 
  __Prior Provisions__ 
 
-    A prior section 3057c, [Pub. L. 89–73, title VI, § 604][/us/pl/89/73/s604], as added [Pub. L. 95–478, title I, § 106][/us/pl/95/478/s106], Oct. 18, 1978, [92 Stat. 1549][/us/stat/92/1549]; amended [Pub. L. 97–115, § 13(b)][/us/pl/97/115/s13/b], Dec. 29, 1981, [95 Stat. 1608][/us/stat/95/1608]; [Pub. L. 98–459, title VI, § 602][/us/pl/98/459/s602], Oct. 9, 1984, [98 Stat. 1788][/us/stat/98/1788], related to applications for assistance, prior to the general amendment of this subchapter by [Pub. L. 100–175][/us/pl/100/175]. See [section 3057e of this title][/us/usc/t42/s3057e].
+    A prior section 3057c, [Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 604, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 106, Oct. 18, 1978, [92 Stat. 1549][/us/stat/92/1549]; amended [Pub. L. 97–115][/us/pl/97/115], § 13(b), Dec. 29, 1981, [95 Stat. 1608][/us/stat/95/1608]; [Pub. L. 98–459, title VI][/us/pl/98/459/tVI], § 602, Oct. 9, 1984, [98 Stat. 1788][/us/stat/98/1788], related to applications for assistance, prior to the general amendment of this subchapter by [Pub. L. 100–175][/us/pl/100/175]. See [section 3057e of this title][/us/usc/t42/s3057e].
 
  __Amendments__ 
 
@@ -50,17 +50,17 @@
 
 [/us/usc/t42/s3057k–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3057k%E2%80%9311
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/89/73/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs612
-[/us/pl/100/175/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs171
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F959
-[/us/pl/106/501/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs601
+[/us/pl/106/501/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVI
 [/us/stat/114/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2287
-[/us/pl/89/73/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs604
-[/us/pl/95/478/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs106
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1549
-[/us/pl/97/115/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs13%2Fb
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1608
-[/us/pl/98/459/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs602
+[/us/pl/98/459/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtVI
 [/us/stat/98/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1788
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3057e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3057e

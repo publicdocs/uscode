@@ -19,7 +19,7 @@
 
     (b) The Director of the Institute shall establish the National Arthritis and Musculoskeletal and Skin Diseases Information Clearinghouse to facilitate and enhance, through the effective dissemination of information, knowledge and understanding of arthritis and musculoskeletal and skin diseases, including juvenile arthritis and related conditions, by health professionals, patients, and the public.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 438, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 849][/us/stat/99/849]; amended [Pub. L. 106–310, div. A, title III, § 302][/us/pl/106/310/s302], Oct. 17, 2000, [114 Stat. 1111][/us/stat/114/1111].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 438, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 849][/us/stat/99/849]; amended [Pub. L. 106–310, div. A, title III][/us/pl/106/310/dA/tIII], § 302, Oct. 17, 2000, [114 Stat. 1111][/us/stat/114/1111].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F849
-[/us/pl/106/310/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs302
+[/us/pl/106/310/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtIII
 [/us/stat/114/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1111
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 

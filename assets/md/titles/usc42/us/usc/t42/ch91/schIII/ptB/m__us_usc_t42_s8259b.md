@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260 _us_usc_t42_s8261.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
 
 ## § 8259b. Federal procurement of energy efficient products
 
@@ -123,15 +123,15 @@
 
         Not later than 180 days after August 8, 2005, the Secretary shall issue guidelines to carry out this section.
 
-([Pub. L. 95–619, title V, § 553][/us/pl/95/619/s553], as added [Pub. L. 109–58, title I, § 104(a)][/us/pl/109/58/s104/a], Aug. 8, 2005, [119 Stat. 609][/us/stat/119/609]; amended [Pub. L. 110–140, title V][/us/pl/110/140], §§ 524, 525(a), Dec. 19, 2007, [121 Stat. 1662][/us/stat/121/1662], 1663.)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 553, as added [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 104(a), Aug. 8, 2005, [119 Stat. 609][/us/stat/119/609]; amended [Pub. L. 110–140, title V][/us/pl/110/140/tV], §§ 524, 525(a), Dec. 19, 2007, [121 Stat. 1662][/us/stat/121/1662], 1663.)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1). [Pub. L. 110–140, § 525(a)(1)][/us/pl/110/140/s525/a/1], inserted “in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products” after “energy consuming product” in introductory provisions.
+    2007—Subsec. (b)(1). [Pub. L. 110–140][/us/pl/110/140], § 525(a)(1), inserted “in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products” after “energy consuming product” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 110–140, § 525(a)(2)][/us/pl/110/140/s525/a/2], in second sentence, inserted “list in their catalogues, represent as available, and” after “shall” and substituted “in which the head of the agency” for “where the agency”.
+    Subsec. (c). [Pub. L. 110–140][/us/pl/110/140], § 525(a)(2), in second sentence, inserted “list in their catalogues, represent as available, and” after “shall” and substituted “in which the head of the agency” for “where the agency”.
 
-    Subsecs. (e), (f). [Pub. L. 110–140, § 524][/us/pl/110/140/s524], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 110–140][/us/pl/110/140], § 524, added subsec. (e) and redesignated former subsec. (e) as (f).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -139,46 +139,31 @@
 
  __Catalogue Listing Deadline__ 
 
-[Pub. L. 110–140, title V, § 525(b)][/us/pl/110/140/s525/b], Dec. 19, 2007, [121 Stat. 1663][/us/stat/121/1663], provided that: 
+[Pub. L. 110–140, title V][/us/pl/110/140/tV], § 525(b), Dec. 19, 2007, [121 Stat. 1663][/us/stat/121/1663], provided that: 
 
 > “Not later than 9 months after the date of enactment of this Act \[Dec. 19, 2007\], the General Services Administration and the Defense Logistics Agency shall ensure that the requirement established by the amendment made by subsection (a)(2)(A) \[amending this section\] has been fully complied with.”
 
-§§ 8260, 8261. __Omitted__ 
-
- __Codification__ 
-
-    Sections 8260 and 8261 were omitted in the general amendment of this part by Pub. L 100–615, § 2(a), Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185].
-
-    Section 8260, [Pub. L. 95–619, title V, § 550][/us/pl/95/619/s550], Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280], directed each Federal agency to periodically furnish Secretary with full and complete information on its activities under this part, and directed Secretary to annually submit to Congress a comprehensive report on all activities under this part and on progress made toward achievement of objectives of this part.
-
-    Section 8261, [Pub. L. 95–619, title V, § 551][/us/pl/95/619/s551], Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280], authorized to be appropriated to Secretary not to exceed $2,000,000 for fiscal year ending Sept. 30, 1979, to enable Secretary to perform analytical and administrative functions under this part.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260 _us_usc_t42_s8261.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
 
 ----------
 ----------
 
 [/us/usc/t5/s7902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7902%2Fa
 [/us/usc/t42/s6294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294a
-[/us/pl/95/619/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs553
-[/us/pl/109/58/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs104%2Fa
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F609
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1662
-[/us/pl/110/140/s525/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs525%2Fa%2F1
-[/us/pl/110/140/s525/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs525%2Fa%2F2
-[/us/pl/110/140/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs524
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs525%2Fb
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1663
-[/us/stat/102/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3185
-[/us/pl/95/619/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs550
-[/us/stat/92/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3280
-[/us/pl/95/619/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs551
-[/us/stat/92/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3280
 
 

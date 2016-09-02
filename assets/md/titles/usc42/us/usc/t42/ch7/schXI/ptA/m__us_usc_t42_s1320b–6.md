@@ -123,7 +123,7 @@
 
             (D) when the individual has entered into participation in a first offender, deferred adjudication, or other arrangement or program where judgment of conviction has been withheld.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1136, as added [Pub. L. 106–169, title II, § 208(a)][/us/pl/106/169/s208/a], Dec. 14, 1999, [113 Stat. 1839][/us/stat/113/1839].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1136, as added [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 208(a), Dec. 14, 1999, [113 Stat. 1839][/us/stat/113/1839].)
 
  __References in Text__ 
 
@@ -131,11 +131,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1320b–6, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1136, as added [Pub. L. 98–369, div. B, title VI, § 2630][/us/pl/98/369/s2630], July 18, 1984, [98 Stat. 1137][/us/stat/98/1137]; amended [Pub. L. 99–514, title XVIII, § 1883(c)(2)][/us/pl/99/514/s1883/c/2], Oct. 22, 1986, [100 Stat. 2918][/us/stat/100/2918], related to pilot projects to demonstrate use of integrated service delivery systems for human services programs, prior to repeal by [Pub. L. 104–193, title I][/us/pl/104/193], §§ 108(q)(7), 116, Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168], 2181, effective July 1, 1997, with certain transition rules.
+    A prior section 1320b–6, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1136, as added [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2630, July 18, 1984, [98 Stat. 1137][/us/stat/98/1137]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1883(c)(2), Oct. 22, 1986, [100 Stat. 2918][/us/stat/100/2918], related to pilot projects to demonstrate use of integrated service delivery systems for human services programs, prior to repeal by [Pub. L. 104–193, title I][/us/pl/104/193/tI], §§ 108(q)(7), 116, Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168], 2181, effective July 1, 1997, with certain transition rules.
 
  __Effective Date__ 
 
-[Pub. L. 106–169, title II, § 208(b)][/us/pl/106/169/s208/b], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842], provided that: 
+[Pub. L. 106–169, title II][/us/pl/106/169/tII], § 208(b), Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall apply with respect to convictions of violations described in paragraphs (1) and (2) of section 1136(a) of the Social Security Act \[[42 U.S.C. 1320b–6(a)][/us/usc/t42/s1320b–6/a]\] and determinations described in paragraph (3) of such section occurring on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
@@ -154,20 +154,20 @@
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/169/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs208%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1839
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/stat/87/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F155
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/98/369/s2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2630
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1137
-[/us/pl/99/514/s1883/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1883%2Fc%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2918
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2168
-[/us/pl/106/169/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs208%2Fb
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1842
 [/us/usc/t42/s1320b–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%936%2Fa
 

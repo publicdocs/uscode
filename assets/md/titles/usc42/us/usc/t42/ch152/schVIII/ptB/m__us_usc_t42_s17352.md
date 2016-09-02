@@ -147,7 +147,7 @@
 
                     A member of the Board may not be paid compensation under clause (i)(II) for more than 90 days in any calendar year.
 
-([Pub. L. 110–140, title IX, § 922][/us/pl/110/140/s922], Dec. 19, 2007, [121 Stat. 1733][/us/stat/121/1733].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 922, Dec. 19, 2007, [121 Stat. 1733][/us/stat/121/1733].)
 
  __Codification__ 
 
@@ -163,7 +163,7 @@
 [/us/usc/t5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/110/140/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs922
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1733
 [/us/pl/110/140/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs922
 [/us/pl/110/140/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs922

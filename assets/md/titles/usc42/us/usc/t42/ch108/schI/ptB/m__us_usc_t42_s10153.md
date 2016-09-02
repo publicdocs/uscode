@@ -17,7 +17,7 @@
 
     The Commission shall, by rule, establish procedures for the licensing of any technology approved by the Commission under section 10198(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title for use at the site of any civilian nuclear power reactor. The establishment of such procedures shall not preclude the licensing, under any applicable procedures or rules of the Commission in effect prior to such establishment, of any technology for the storage of civilian spent nuclear fuel at the site of any civilian nuclear power reactor.
 
-([Pub. L. 97–425, title I, § 133][/us/pl/97/425/s133], Jan. 7, 1983, [96 Stat. 2230][/us/stat/96/2230].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 133, Jan. 7, 1983, [96 Stat. 2230][/us/stat/96/2230].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs133
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2230
 [/us/usc/t42/s10198/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10198%2Fa
 [/us/pl/97/425/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs219%2Fa

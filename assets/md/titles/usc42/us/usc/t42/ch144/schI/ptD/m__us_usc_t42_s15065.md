@@ -17,7 +17,7 @@
 
     In this part, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and Guam.
 
-([Pub. L. 106–402, title I, § 155][/us/pl/106/402/s155], Oct. 30, 2000, [114 Stat. 1725][/us/stat/114/1725].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 155, Oct. 30, 2000, [114 Stat. 1725][/us/stat/114/1725].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs155
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1725
 
 

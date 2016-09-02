@@ -17,7 +17,7 @@
 
     The Attorney General shall award grants to rural State criminal justice agencies, Byrne agencies, or other agencies as designated by the Governor of that State and approved by the Attorney General, to develop rural States’ capacity to assist local communities in the prevention and reduction of crime, violence, and substance abuse.
 
-([Pub. L. 90–351, title I, § 2985][/us/pl/90/351/s2985], as added [Pub. L. 107–273, div. C, title I, § 11027(b)][/us/pl/107/273/s11027/b], Nov. 2, 2002, [116 Stat. 1834][/us/stat/116/1834].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2985, as added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11027(b), Nov. 2, 2002, [116 Stat. 1834][/us/stat/116/1834].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2985
-[/us/pl/107/273/s11027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11027%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1834
 
 

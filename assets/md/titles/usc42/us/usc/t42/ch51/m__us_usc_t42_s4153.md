@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings which are residential structures subject to this chapter to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-([Pub. L. 90–480, § 3][/us/pl/90/480/s3], Aug. 12, 1968, [82 Stat. 719][/us/stat/82/719]; [Pub. L. 94–541, title II, § 201(3)][/us/pl/94/541/s201/3], Oct. 18, 1976, [90 Stat. 2507][/us/stat/90/2507]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 90–480][/us/pl/90/480], § 3, Aug. 12, 1968, [82 Stat. 719][/us/stat/82/719]; [Pub. L. 94–541, title II][/us/pl/94/541/tII], § 201(3), Oct. 18, 1976, [90 Stat. 2507][/us/stat/90/2507]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/90/480/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F480%2Fs3
+[/us/pl/90/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F480
 [/us/stat/82/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F719
-[/us/pl/94/541/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F541%2Fs201%2F3
+[/us/pl/94/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F541%2FtII
 [/us/stat/90/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2507
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/94/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F541
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb

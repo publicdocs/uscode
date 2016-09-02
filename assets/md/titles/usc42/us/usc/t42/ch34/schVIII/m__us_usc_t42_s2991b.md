@@ -47,17 +47,17 @@
 
         (4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian tribes to the Commissioner in such form as the Commissioner shall prescribe.
 
-([Pub. L. 88–452, title VIII, § 803][/us/pl/88/452/s803], as added [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324]; amended [Pub. L. 95–568, § 17(a)(39)][/us/pl/95/568/s17/a/39], Nov. 2, 1978, [92 Stat. 2443][/us/stat/92/2443]; [Pub. L. 98–558, title X, § 1002][/us/pl/98/558/s1002], Oct. 30, 1984, [98 Stat. 2905][/us/stat/98/2905]; [Pub. L. 100–175, title V][/us/pl/100/175], §§ 502(1), 504(a), 506(c)(2), Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973], 975, 978; [Pub. L. 101–408, § 2][/us/pl/101/408/s2], Oct. 4, 1990, [104 Stat. 883][/us/stat/104/883]; [Pub. L. 102–375, title VIII, § 822(1)][/us/pl/102/375/s822/1], (21), Sept. 30, 1992, [106 Stat. 1295][/us/stat/106/1295], 1300; [Pub. L. 102–497, § 9(a)][/us/pl/102/497/s9/a], Oct. 24, 1992, [106 Stat. 3257][/us/stat/106/3257]; [Pub. L. 103–171, § 5(2)][/us/pl/103/171/s5/2], Dec. 2, 1993, [107 Stat. 1991][/us/stat/107/1991].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 803, as added [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324]; amended [Pub. L. 95–568][/us/pl/95/568], § 17(a)(39), Nov. 2, 1978, [92 Stat. 2443][/us/stat/92/2443]; [Pub. L. 98–558, title X][/us/pl/98/558/tX], § 1002, Oct. 30, 1984, [98 Stat. 2905][/us/stat/98/2905]; [Pub. L. 100–175, title V][/us/pl/100/175/tV], §§ 502(1), 504(a), 506(c)(2), Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973], 975, 978; [Pub. L. 101–408][/us/pl/101/408], § 2, Oct. 4, 1990, [104 Stat. 883][/us/stat/104/883]; [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(1), (21), Sept. 30, 1992, [106 Stat. 1295][/us/stat/106/1295], 1300; [Pub. L. 102–497][/us/pl/102/497], § 9(a), Oct. 24, 1992, [106 Stat. 3257][/us/stat/106/3257]; [Pub. L. 103–171][/us/pl/103/171], § 5(2), Dec. 2, 1993, [107 Stat. 1991][/us/stat/107/1991].)
 
  __References in Text__ 
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (a), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
-    This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, [Pub. L. 88–452, title VIII][/us/pl/88/452], as added by [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], which is classified generally to this subchapter, see [section 2991 of this title][/us/usc/t42/s2991].
+    This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, [Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], as added by [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], which is classified generally to this subchapter, see [section 2991 of this title][/us/usc/t42/s2991].
 
  __Prior Provisions__ 
 
-    A prior section 2991b, [Pub. L. 88–452, title VIII, § 803][/us/pl/88/452/s803], as added [Pub. L. 89–794, title VIII, § 801][/us/pl/89/794/s801], Nov. 8, 1966, [80 Stat. 1473][/us/stat/80/1473], provided for stipend for volunteers, living, travel, and leave allowances, and subsistence, prior to the general amendment of this subchapter by [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722].
+    A prior section 2991b, [Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 803, as added [Pub. L. 89–794, title VIII][/us/pl/89/794/tVIII], § 801, Nov. 8, 1966, [80 Stat. 1473][/us/stat/80/1473], provided for stipend for volunteers, living, travel, and leave allowances, and subsistence, prior to the general amendment of this subchapter by [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 110, Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722].
 
  __Amendments__ 
 
@@ -65,23 +65,23 @@
 
     1992—Subsec. (a). [Pub. L. 102–497][/us/pl/102/497] struck out “, subject to the availability of funds appropriated under the authority of [section 2992d(c) of this title][/us/usc/t42/s2992d/c],” after “Commissioner is authorized” in second sentence.
 
-    [Pub. L. 102–375, § 822(21)][/us/pl/102/375/s822/21], substituted “Alaska Native villages” for “Alaskan Native villages”.
+    [Pub. L. 102–375][/us/pl/102/375], § 822(21), substituted “Alaska Native villages” for “Alaskan Native villages”.
 
-    [Pub. L. 102–375, § 822(1)(A)][/us/pl/102/375/s822/1/A], (B)(i), substituted “Commissioner” for “Secretary” wherever appearing and substituted “Indian and Alaska Native organizations” for “Indian organizations”.
+    [Pub. L. 102–375][/us/pl/102/375], § 822(1)(A), (B)(i), substituted “Commissioner” for “Secretary” wherever appearing and substituted “Indian and Alaska Native organizations” for “Indian organizations”.
 
-    [Pub. L. 102–375, § 822(1)(B)(ii)][/us/pl/102/375/s822/1/B/ii], which directed the substitution of “area that is not an Indian reservation or Alaska Native village” for “nonreservation area”, could not be executed because the words “nonreservation area” did not appear.
+    [Pub. L. 102–375][/us/pl/102/375], § 822(1)(B)(ii), which directed the substitution of “area that is not an Indian reservation or Alaska Native village” for “nonreservation area”, could not be executed because the words “nonreservation area” did not appear.
 
-    Subsecs. (b), (c)(1), (d)(1), (4). [Pub. L. 102–375, § 822(1)(A)][/us/pl/102/375/s822/1/A], substituted “Commissioner” for “Secretary” wherever appearing.
+    Subsecs. (b), (c)(1), (d)(1), (4). [Pub. L. 102–375][/us/pl/102/375], § 822(1)(A), substituted “Commissioner” for “Secretary” wherever appearing.
 
     1990—Subsec. (d). [Pub. L. 101–408][/us/pl/101/408] added subsec. (d).
 
-    1987—Subsec. (a). [Pub. L. 100–175, § 506(c)(2)][/us/pl/100/175/s506/c/2], substituted “Native Hawaiians” for “Hawaiian Natives”.
+    1987—Subsec. (a). [Pub. L. 100–175][/us/pl/100/175], § 506(c)(2), substituted “Native Hawaiians” for “Hawaiian Natives”.
 
     [Pub. L. 100–175][/us/pl/100/175], §§ 502(1), 504(a), inserted “, on a single year or multiyear basis,” after “assistance” in first sentence and inserted after first sentence “The Secretary is authorized, subject to the availability of funds appropriated under the authority of [section 2992d(c) of this title][/us/usc/t42/s2992d/c], to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act.”
 
-    1984—Subsec. (a). [Pub. L. 98–558, § 1002(a)][/us/pl/98/558/s1002/a], inserted at end “Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.”
+    1984—Subsec. (a). [Pub. L. 98–558][/us/pl/98/558], § 1002(a), inserted at end “Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.”
 
-    Subsec. (c)(1). [Pub. L. 98–558, § 1002(b)][/us/pl/98/558/s1002/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c)(1). [Pub. L. 98–558][/us/pl/98/558], § 1002(b), designated existing provisions as par. (1) and added par. (2).
 
     1978—[Pub. L. 95–568][/us/pl/95/568] substituted in subsecs. (b) and (c) “the Secretary determines” for “he determines”.
 
@@ -97,48 +97,48 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/88/452/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs803
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2324
-[/us/pl/95/568/s17/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs17%2Fa%2F39
+[/us/pl/95/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568
 [/us/stat/92/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2443
-[/us/pl/98/558/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs1002
+[/us/pl/98/558/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtX
 [/us/stat/98/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2905
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtV
 [/us/stat/101/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F973
-[/us/pl/101/408/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F408%2Fs2
+[/us/pl/101/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F408
 [/us/stat/104/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F883
-[/us/pl/102/375/s822/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F1
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1295
-[/us/pl/102/497/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs9%2Fa
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3257
-[/us/pl/103/171/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs5%2F2
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1991
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2324
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991
-[/us/pl/88/452/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs803
-[/us/pl/89/794/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs801
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/89/794/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2FtVIII
 [/us/stat/80/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1473
-[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F722
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/usc/t42/s2992d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992d%2Fc
-[/us/pl/102/375/s822/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F21
-[/us/pl/102/375/s822/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F1%2FA
-[/us/pl/102/375/s822/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F1%2FB%2Fii
-[/us/pl/102/375/s822/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F1%2FA
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/101/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F408
-[/us/pl/100/175/s506/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs506%2Fc%2F2
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s2992d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992d%2Fc
-[/us/pl/98/558/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs1002%2Fa
-[/us/pl/98/558/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs1002%2Fb
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/95/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/pl/100/175/s506/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs506%2Fc%2F2

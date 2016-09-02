@@ -17,7 +17,7 @@
 
     Except as otherwise provided in subtitles B through F of this title and the amendments made by such subtitles, such subtitles and the amendments made by such subtitles shall apply upon the expiration of the 6-month period beginning on October 28, 1992.
 
-([Pub. L. 102–550, title VI, § 684][/us/pl/102/550/s684], Oct. 28, 1992, [106 Stat. 3832][/us/stat/106/3832].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 684, Oct. 28, 1992, [106 Stat. 3832][/us/stat/106/3832].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs684
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3832
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3812-3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3812-3830

@@ -63,7 +63,7 @@
 
         There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
-([Pub. L. 109–162, title I, § 111][/us/pl/109/162/s111], Jan. 5, 2006, [119 Stat. 2984][/us/stat/119/2984]; [Pub. L. 113–4, title XII, § 1212(b)(2)(D)][/us/pl/113/4/s1212/b/2/D], Mar. 7, 2013, [127 Stat. 144][/us/stat/127/144].)
+([Pub. L. 109–162, title I][/us/pl/109/162/tI], § 111, Jan. 5, 2006, [119 Stat. 2984][/us/stat/119/2984]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1212(b)(2)(D), Mar. 7, 2013, [127 Stat. 144][/us/stat/127/144].)
 
  __Codification__ 
 
@@ -81,9 +81,9 @@
 ----------
 
 [/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
-[/us/pl/109/162/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs111
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2984
-[/us/pl/113/4/s1212/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F2%2FD
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F144
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 

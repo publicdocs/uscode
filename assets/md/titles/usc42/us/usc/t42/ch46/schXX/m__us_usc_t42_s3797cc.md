@@ -41,17 +41,17 @@
 
             (D) procure equipment, technology, or support systems, or pay for resources, if the applicant for such a grant demonstrates to the satisfaction of the Attorney General that expenditures for such purposes would result in the reduction in the use, sale, and manufacture of methamphetamine.
 
-([Pub. L. 90–351, title I, § 2996][/us/pl/90/351/s2996], as added [Pub. L. 109–177, title VII, § 754][/us/pl/109/177/s754], Mar. 9, 2006, [120 Stat. 274][/us/stat/120/274]; amended [Pub. L. 110–161, div. B, title II, § 220(a)][/us/pl/110/161/s220/a], Dec. 26, 2007, [121 Stat. 1916][/us/stat/121/1916].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2996, as added [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 754, Mar. 9, 2006, [120 Stat. 274][/us/stat/120/274]; amended [Pub. L. 110–161, div. B, title II][/us/pl/110/161/dB/tII], § 220(a), Dec. 26, 2007, [121 Stat. 1916][/us/stat/121/1916].)
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1). [Pub. L. 110–161, § 220(a)(1)(A)][/us/pl/110/161/s220/a/1/A], inserted “, territories, and Indian tribes (as defined in [section 3797d of this title][/us/usc/t42/s3797d])” after “to assist States” in introductory provisions.
+    2007—Subsec. (a)(1). [Pub. L. 110–161][/us/pl/110/161], § 220(a)(1)(A), inserted “, territories, and Indian tribes (as defined in [section 3797d of this title][/us/usc/t42/s3797d])” after “to assist States” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 110–161, § 220(a)(1)(B)][/us/pl/110/161/s220/a/1/B], substituted “, territorial, Tribal, and local” for “and local”.
+    Subsec. (a)(1)(B). [Pub. L. 110–161][/us/pl/110/161], § 220(a)(1)(B), substituted “, territorial, Tribal, and local” for “and local”.
 
-    Subsec. (a)(2). [Pub. L. 110–161, § 220(a)(2)][/us/pl/110/161/s220/a/2], inserted “, territories, and Indian tribes” after “make grants to States”.
+    Subsec. (a)(2). [Pub. L. 110–161][/us/pl/110/161], § 220(a)(2), inserted “, territories, and Indian tribes” after “make grants to States”.
 
-    Subsec. (a)(3)(C). [Pub. L. 110–161, § 220(a)(3)][/us/pl/110/161/s220/a/3], inserted “, Tribal,” after “support State”.
+    Subsec. (a)(3)(C). [Pub. L. 110–161][/us/pl/110/161], § 220(a)(3), inserted “, Tribal,” after “support State”.
 
 ----------
 
@@ -61,15 +61,15 @@
 ----------
 
 [/us/usc/t42/s3797d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797d
-[/us/pl/90/351/s2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2996
-[/us/pl/109/177/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs754
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F274
-[/us/pl/110/161/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fa
+[/us/pl/110/161/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtII
 [/us/stat/121/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1916
-[/us/pl/110/161/s220/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fa%2F1%2FA
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t42/s3797d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797d
-[/us/pl/110/161/s220/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fa%2F1%2FB
-[/us/pl/110/161/s220/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fa%2F2
-[/us/pl/110/161/s220/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fa%2F3
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 
 

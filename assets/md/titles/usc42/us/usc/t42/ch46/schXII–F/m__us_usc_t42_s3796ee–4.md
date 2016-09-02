@@ -47,11 +47,11 @@
 
             (I) a nonprofit, religious, or community group.
 
-([Pub. L. 90–351, title I, § 1804][/us/pl/90/351/s1804], as added [Pub. L. 107–273, div. C, title II, § 12102(a)][/us/pl/107/273/s12102/a], Nov. 2, 2002, [116 Stat. 1865][/us/stat/116/1865].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1804, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1865][/us/stat/116/1865].)
 
  __Prior Provisions__ 
 
-    A prior section 3796ee–4, [Pub. L. 90–351, title I, § 1805][/us/pl/90/351/s1805], as added [Pub. L. 103–322, title II, § 20201(a)(3)][/us/pl/103/322/s20201/a/3], Sept. 13, 1994, [108 Stat. 1821][/us/stat/108/1821], related to allocation and distribution of funds, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
+    A prior section 3796ee–4, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1805, as added [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20201(a)(3), Sept. 13, 1994, [108 Stat. 1821][/us/stat/108/1821], related to allocation and distribution of funds, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
     A prior [section 1804 of Pub. L. 90–351][/us/pl/90/351/s1804] was classified to [section 3796ee–3 of this title][/us/usc/t42/s3796ee–3] prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/usc/t42/s3796ee–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%933
-[/us/pl/90/351/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1804
-[/us/pl/107/273/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1865
-[/us/pl/90/351/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1805
-[/us/pl/103/322/s20201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20201%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1821
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/90/351/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1804

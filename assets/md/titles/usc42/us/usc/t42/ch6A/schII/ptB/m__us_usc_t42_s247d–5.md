@@ -121,17 +121,17 @@
 
         There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, $25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319E, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2318][/us/stat/114/2318]; amended [Pub. L. 107–188, title I, § 109][/us/pl/107/188/s109], June 12, 2002, [116 Stat. 610][/us/stat/116/610].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319E, as added [Pub. L. 106–505, title I][/us/pl/106/505/tI], § 102, Nov. 13, 2000, [114 Stat. 2318][/us/stat/114/2318]; amended [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 109, June 12, 2002, [116 Stat. 610][/us/stat/116/610].)
 
  __Amendments__ 
 
-    2002—Subsec. (b). [Pub. L. 107–188, § 109(1)(A)][/us/pl/107/188/s109/1/A], in introductory provisions, substituted “shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of” for “shall conduct and support”.
+    2002—Subsec. (b). [Pub. L. 107–188][/us/pl/107/188], § 109(1)(A), in introductory provisions, substituted “shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of” for “shall conduct and support”.
 
-    Subsec. (b)(4). [Pub. L. 107–188, § 109(1)(B)][/us/pl/107/188/s109/1/B], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the sequencing of the genomes of priority pathogens as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section; and”.
+    Subsec. (b)(4). [Pub. L. 107–188][/us/pl/107/188], § 109(1)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the sequencing of the genomes of priority pathogens as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section; and”.
 
-    Subsec. (e)(2). [Pub. L. 107–188, § 109(2)][/us/pl/107/188/s109/2], inserted “schools or programs that train medical laboratory personnel,” after “professional medical societies,”.
+    Subsec. (e)(2). [Pub. L. 107–188][/us/pl/107/188], § 109(2), inserted “schools or programs that train medical laboratory personnel,” after “professional medical societies,”.
 
-    Subsec. (g). [Pub. L. 107–188, § 109(3)][/us/pl/107/188/s109/3], substituted “$25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006” for “and such sums as may be necessary for each subsequent fiscal year through 2006”.
+    Subsec. (g). [Pub. L. 107–188][/us/pl/107/188], § 109(3), substituted “$25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006” for “and such sums as may be necessary for each subsequent fiscal year through 2006”.
 
  __Ex. Ord. No. 13676. Combating Antibiotic-Resistant Bacteria__ 
 
@@ -257,13 +257,13 @@ Sec. 7. Preventing and Responding to Infections and Outbreaks with Antibiotic-Re
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/pl/106/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtI
 [/us/stat/114/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2318
-[/us/pl/107/188/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs109
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F610
-[/us/pl/107/188/s109/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs109%2F1%2FA
-[/us/pl/107/188/s109/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs109%2F1%2FB
-[/us/pl/107/188/s109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs109%2F2
-[/us/pl/107/188/s109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs109%2F3
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 
 

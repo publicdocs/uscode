@@ -107,7 +107,7 @@
 
         The Administrator or Director of the Administration or Center for which the advisory council is established shall designate a member of the staff of the Administration or Center for which the advisory council is established to serve as the Executive Secretary of the advisory council. The Administrator or Director shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Administrator or Director shall provide orientation and training for new members of the advisory council to provide for their effective participation in the functions of the advisory council.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 502, formerly § 505, as added [Pub. L. 99–570, title IV, § 4004(a)][/us/pl/99/570/s4004/a], Oct. 27, 1986, [100 Stat. 3207–109][/us/stat/100/3207-109]; amended [Pub. L. 100–527, § 10(4)][/us/pl/100/527/s10/4], Oct. 25, 1988, [102 Stat. 2641][/us/stat/102/2641]; [Pub. L. 101–381, title I, § 102(6)][/us/pl/101/381/s102/6], Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; renumbered § 502 and amended [Pub. L. 102–321, title I, § 102][/us/pl/102/321/s102], July 10, 1992, [106 Stat. 331][/us/stat/106/331]; [Pub. L. 102–352, § 2(a)(6)][/us/pl/102/352/s2/a/6], Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 103–446, title XII, § 1203(a)(1)][/us/pl/103/446/s1203/a/1], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689]; [Pub. L. 106–310, div. B, title XXXIV, § 3402][/us/pl/106/310/s3402], Oct. 17, 2000, [114 Stat. 1219][/us/stat/114/1219].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 502, formerly § 505, as added [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4004(a), Oct. 27, 1986, [100 Stat. 3207–109][/us/stat/100/3207-109]; amended [Pub. L. 100–527][/us/pl/100/527], § 10(4), Oct. 25, 1988, [102 Stat. 2641][/us/stat/102/2641]; [Pub. L. 101–381, title I][/us/pl/101/381/tI], § 102(6), Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; renumbered § 502 and amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 102, July 10, 1992, [106 Stat. 331][/us/stat/106/331]; [Pub. L. 102–352][/us/pl/102/352], § 2(a)(6), Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1203(a)(1), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689]; [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3402, Oct. 17, 2000, [114 Stat. 1219][/us/stat/114/1219].)
 
  __Codification__ 
 
@@ -115,7 +115,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 290aa–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 502, formerly [Pub. L. 91–616, title I, § 101][/us/pl/91/616/s101], Dec. 31, 1970, [84 Stat. 1848][/us/stat/84/1848], as amended [Pub. L. 93–282, title II, § 203(a)][/us/pl/93/282/s203/a], May 14, 1974, [88 Stat. 135][/us/stat/88/135]; [Pub. L. 96–180, § 3][/us/pl/96/180/s3], Jan. 2, 1980, [93 Stat. 1302][/us/stat/93/1302]; [Pub. L. 97–35, title IX, § 966(a)][/us/pl/97/35/s966/a], Aug. 13, 1981, [95 Stat. 595][/us/stat/95/595]; renumbered § 502 of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24, § 2(b)(3)][/us/pl/98/24/s2/b/3], [97 Stat. 177][/us/stat/97/177]; Oct. 19, 1984, [Pub. L. 98–509, title II, § 205(b)(2)][/us/pl/98/509/s205/b/2], [98 Stat. 2361][/us/stat/98/2361]; Oct. 27, 1986, [Pub. L. 99–570, title IV, § 4005(b)(1)][/us/pl/99/570/s4005/b/1], [100 Stat. 3207–114][/us/stat/100/3207-114], related to National Institute on Alcohol Abuse and Alcoholism, prior to repeal by [Pub. L. 102–321, title I, § 101(b)][/us/pl/102/321/s101/b], July 10, 1992, [106 Stat. 331][/us/stat/106/331]. See [section 285n of this title][/us/usc/t42/s285n].
+    A prior section 290aa–1, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 502, formerly [Pub. L. 91–616, title I][/us/pl/91/616/tI], § 101, Dec. 31, 1970, [84 Stat. 1848][/us/stat/84/1848], as amended [Pub. L. 93–282, title II][/us/pl/93/282/tII], § 203(a), May 14, 1974, [88 Stat. 135][/us/stat/88/135]; [Pub. L. 96–180][/us/pl/96/180], § 3, Jan. 2, 1980, [93 Stat. 1302][/us/stat/93/1302]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 966(a), Aug. 13, 1981, [95 Stat. 595][/us/stat/95/595]; renumbered § 502 of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24][/us/pl/98/24], § 2(b)(3), [97 Stat. 177][/us/stat/97/177]; Oct. 19, 1984, [Pub. L. 98–509, title II][/us/pl/98/509/tII], § 205(b)(2), [98 Stat. 2361][/us/stat/98/2361]; Oct. 27, 1986, [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4005(b)(1), [100 Stat. 3207–114][/us/stat/100/3207-114], related to National Institute on Alcohol Abuse and Alcoholism, prior to repeal by [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 101(b), July 10, 1992, [106 Stat. 331][/us/stat/106/331]. See [section 285n of this title][/us/usc/t42/s285n].
 
     A prior section 502 of act July 1, 1944, which was classified to [section 220 of this title][/us/usc/t42/s220], was successively renumbered by subsequent acts and transferred, see [section 238a of this title][/us/usc/t42/s238a].
 
@@ -147,7 +147,7 @@
 
     Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -155,7 +155,7 @@
 
  __Continuation of Existing Advisory Councils__ 
 
-[Pub. L. 99–570, title IV, § 4004(b)][/us/pl/99/570/s4004/b], Oct. 27, 1986, [100 Stat. 3207–111][/us/stat/100/3207-111], provided that: 
+[Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4004(b), Oct. 27, 1986, [100 Stat. 3207–111][/us/stat/100/3207-111], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section and renumbering this section and [section 290aa–5 of this title][/us/usc/t42/s290aa–5]\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act \[Oct. 27, 1986\]. After such date—
 
@@ -174,38 +174,38 @@
 
 [/us/usc/t42/s290aa–3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%933%2Fd%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4004%2Fa
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-109
-[/us/pl/100/527/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10%2F4
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2641
-[/us/pl/101/381/s102/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs102%2F6
+[/us/pl/101/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtI
 [/us/stat/104/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F586
-[/us/pl/102/321/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs102
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F331
-[/us/pl/102/352/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F6
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F938
-[/us/pl/103/446/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1203%2Fa%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
-[/us/pl/106/310/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3402
+[/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1219
 [/us/usc/t42/s290aa–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%933a
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/616/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs101
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/91/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtI
 [/us/stat/84/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1848
-[/us/pl/93/282/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs203%2Fa
+[/us/pl/93/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2FtII
 [/us/stat/88/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F135
-[/us/pl/96/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs3
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1302
-[/us/pl/97/35/s966/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs966%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F595
-[/us/pl/98/24/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F3
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F177
-[/us/pl/98/509/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs205%2Fb%2F2
+[/us/pl/98/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtII
 [/us/stat/98/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2361
-[/us/pl/99/570/s4005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4005%2Fb%2F1
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-114
-[/us/pl/102/321/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs101%2Fb
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F331
 [/us/usc/t42/s285n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285n
 [/us/usc/t42/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs220
@@ -229,12 +229,12 @@
 [/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/99/570/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4004%2Fb
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-111
 [/us/usc/t42/s290aa–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935
 [/us/usc/t42/s290aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%931

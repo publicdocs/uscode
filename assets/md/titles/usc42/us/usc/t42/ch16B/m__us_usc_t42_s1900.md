@@ -27,7 +27,7 @@
 
         The Secretary may from time to time disseminate in the form of reports or publications to public or private agencies or organizations, or individuals such information as he deems desirable on the research carried out pursuant to this section.
 
-([Pub. L. 89–672, § 1][/us/pl/89/672/s1], Oct. 15, 1966, [80 Stat. 951][/us/stat/80/951]; [Pub. L. 96–470, title I, § 108(a)][/us/pl/96/470/s108/a], Oct. 19, 1980, [94 Stat. 2239][/us/stat/94/2239].)
+([Pub. L. 89–672][/us/pl/89/672], § 1, Oct. 15, 1966, [80 Stat. 951][/us/stat/80/951]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 108(a), Oct. 19, 1980, [94 Stat. 2239][/us/stat/94/2239].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/89/672/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F672%2Fs1
+[/us/pl/89/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F672
 [/us/stat/80/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F951
-[/us/pl/96/470/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs108%2Fa
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2239
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 

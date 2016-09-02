@@ -29,11 +29,11 @@
 
         Recipients of grants under this subchapter shall cooperate with the Secretary’s efforts to carry out evaluations, and to collect information, under this subchapter.
 
-([Pub. L. 93–415, title III, § 386][/us/pl/93/415/s386], formerly § 364, as added [Pub. L. 100–690, title VII, § 7278][/us/pl/100/690/s7278], Nov. 18, 1988, [102 Stat. 4458][/us/stat/102/4458]; renumbered § 384, [Pub. L. 102–586, § 3(g)(1)(A)(ii)][/us/pl/102/586/s3/g/1/A/ii], Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; renumbered § 386 and amended [Pub. L. 106–71, § 3][/us/pl/106/71/s3](l), Oct. 12, 1999, [113 Stat. 1039][/us/stat/113/1039].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 386, formerly § 364, as added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7278, Nov. 18, 1988, [102 Stat. 4458][/us/stat/102/4458]; renumbered § 384, [Pub. L. 102–586][/us/pl/102/586], § 3(g)(1)(A)(ii), Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; renumbered § 386 and amended [Pub. L. 106–71][/us/pl/106/71], § 3(l), Oct. 12, 1999, [113 Stat. 1039][/us/stat/113/1039].)
 
  __Prior Provisions__ 
 
-    A prior section 5732, [Pub. L. 93–415, title III, § 322][/us/pl/93/415/s322], Sept. 7, 1974, [88 Stat. 1132][/us/stat/88/1132], set forth restrictions on disclosure and transfer of records, prior to repeal by [Pub. L. 95–115, § 7(b)][/us/pl/95/115/s7/b], Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], eff. Oct. 1, 1977.
+    A prior section 5732, [Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 322, Sept. 7, 1974, [88 Stat. 1132][/us/stat/88/1132], set forth restrictions on disclosure and transfer of records, prior to repeal by [Pub. L. 95–115][/us/pl/95/115], § 7(b), Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], eff. Oct. 1, 1977.
 
  __Amendments__ 
 
@@ -55,16 +55,16 @@
 ----------
 
 [/us/usc/t42/s5731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5731
-[/us/pl/93/415/s386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs386
-[/us/pl/100/690/s7278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7278
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4458
-[/us/pl/102/586/s3/g/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fg%2F1%2FA%2Fii
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5022
-[/us/pl/106/71/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1039
-[/us/pl/93/415/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs322
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
 [/us/stat/88/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1132
-[/us/pl/95/115/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs7%2Fb
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1058
 [/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

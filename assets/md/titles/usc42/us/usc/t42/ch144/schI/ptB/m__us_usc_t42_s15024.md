@@ -197,7 +197,7 @@
 
             The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) of this section and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
 
-([Pub. L. 106–402, title I, § 124][/us/pl/106/402/s124], Oct. 30, 2000, [114 Stat. 1696][/us/stat/114/1696]; [Pub. L. 108–364, § 3(a)(1)][/us/pl/108/364/s3/a/1], Oct. 25, 2004, [118 Stat. 1736][/us/stat/118/1736].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 124, Oct. 30, 2000, [114 Stat. 1696][/us/stat/114/1696]; [Pub. L. 108–364][/us/pl/108/364], § 3(a)(1), Oct. 25, 2004, [118 Stat. 1736][/us/stat/118/1736].)
 
  __References in Text__ 
 
@@ -228,9 +228,9 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s15009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15009
 [/us/usc/t42/s15025/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15025%2Fd%2F3
-[/us/pl/106/402/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs124
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1696
-[/us/pl/108/364/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fa%2F1
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1736
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

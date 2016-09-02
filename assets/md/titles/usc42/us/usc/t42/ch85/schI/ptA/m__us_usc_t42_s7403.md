@@ -247,7 +247,7 @@
 
         If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of [section 7408 of this title][/us/usc/t42/s7408].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 103, formerly § 3, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 394][/us/stat/77/394]; renumbered § 103 and amended [Pub. L. 89–272, title I][/us/pl/89/272], §§ 101(3), 103, Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992], 996; [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 486][/us/stat/81/486]; [Pub. L. 91–604][/us/pl/91/604], §§ 2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, [84 Stat. 1676][/us/stat/84/1676], 1689, 1710, 1713; [Pub. L. 95–95, title I, § 101(a)][/us/pl/95/95/s101/a], (b), Aug. 7, 1977, [91 Stat. 686][/us/stat/91/686], 687; [Pub. L. 101–549, title IX, § 901(a)][/us/pl/101/549/s901/a]–(c), Nov. 15, 1990, [104 Stat. 2700–2703][/us/stat/104/2700-2703].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 103, formerly § 3, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 394][/us/stat/77/394]; renumbered § 103 and amended [Pub. L. 89–272, title I][/us/pl/89/272/tI], §§ 101(3), 103, Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992], 996; [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 486][/us/stat/81/486]; [Pub. L. 91–604][/us/pl/91/604], §§ 2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, [84 Stat. 1676][/us/stat/84/1676], 1689, 1710, 1713; [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 101(a), (b), Aug. 7, 1977, [91 Stat. 686][/us/stat/91/686], 687; [Pub. L. 101–549, title IX][/us/pl/101/549/tIX], § 901(a)–(c), Nov. 15, 1990, [104 Stat. 2700–2703][/us/stat/104/2700-2703].)
 
  __References in Text__ 
 
@@ -255,41 +255,41 @@
 
  __Codification__ 
 
-    In subsec. (b)(4), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(4), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was formerly classified to [section 1857b of this title][/us/usc/t42/s1857b].
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior [section 1857b of this title][/us/usc/t42/s1857b], [act July 14, 1955, ch. 360, § 3][/us/act/1955-07-14/ch360/s3], [69 Stat. 322][/us/stat/69/322], as amended Oct. 9, 1962, [Pub. L. 87–761, § 2][/us/pl/87/761/s2], [76 Stat. 760][/us/stat/76/760], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
+    Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior [section 1857b of this title][/us/usc/t42/s1857b], [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], § 3, [69 Stat. 322][/us/stat/69/322], as amended Oct. 9, 1962, [Pub. L. 87–761][/us/pl/87/761], § 2, [76 Stat. 760][/us/stat/76/760], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
 
-    Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], §§ 2 to 5, [69 Stat. 322][/us/stat/69/322] (section 1857b as amended Oct. 9, 1962, [Pub. L. 87–761, § 2][/us/pl/87/761/s2], [76 Stat. 760][/us/stat/76/760]; section 1857d as amended Sept. 22, 1959, [Pub. L. 86–365, § 1][/us/pl/86/365/s1], [73 Stat. 646][/us/stat/73/646] and Oct. 9, 1962, [Pub. L. 87–761, § 1][/us/pl/87/761/s1], [76 Stat. 760][/us/stat/76/760]), prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
+    Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], §§ 2 to 5, [69 Stat. 322][/us/stat/69/322] (section 1857b as amended Oct. 9, 1962, [Pub. L. 87–761][/us/pl/87/761], § 2, [76 Stat. 760][/us/stat/76/760]; section 1857d as amended Sept. 22, 1959, [Pub. L. 86–365][/us/pl/86/365], § 1, [73 Stat. 646][/us/stat/73/646] and Oct. 9, 1962, [Pub. L. 87–761][/us/pl/87/761], § 1, [76 Stat. 760][/us/stat/76/760]), prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1). [Pub. L. 101–549, § 901(a)(1)][/us/pl/101/549/s901/a/1], inserted “(including health and welfare effects)” after “effects”.
+    1990—Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 901(a)(1), inserted “(including health and welfare effects)” after “effects”.
 
-    Subsec. (b)(8). [Pub. L. 101–549, § 901(a)(2)][/us/pl/101/549/s901/a/2], which directed amendment of subsec. (b) by adding par. (8) at end, was executed by adding par. (8) after par. (7) to reflect the probable intent of Congress.
+    Subsec. (b)(8). [Pub. L. 101–549][/us/pl/101/549], § 901(a)(2), which directed amendment of subsec. (b) by adding par. (8) at end, was executed by adding par. (8) after par. (7) to reflect the probable intent of Congress.
 
-    Subsecs. (c) to (f). [Pub. L. 101–549, § 901(b)][/us/pl/101/549/s901/b], amended subsecs. (c) to (f) generally, substituting present provisions for provisions which related to: in subsec. (c), results of other scientific studies; in subsec. (d), construction of facilities; in subsec. (e), potential air pollution problems, conferences, and findings and recommendations of the Administrator; and, in subsec. (f), accelerated research programs.
+    Subsecs. (c) to (f). [Pub. L. 101–549][/us/pl/101/549], § 901(b), amended subsecs. (c) to (f) generally, substituting present provisions for provisions which related to: in subsec. (c), results of other scientific studies; in subsec. (d), construction of facilities; in subsec. (e), potential air pollution problems, conferences, and findings and recommendations of the Administrator; and, in subsec. (f), accelerated research programs.
 
-    Subsecs. (g) to (k). [Pub. L. 101–549, § 901(c)][/us/pl/101/549/s901/c], added subsecs. (g) to (k).
+    Subsecs. (g) to (k). [Pub. L. 101–549][/us/pl/101/549], § 901(c), added subsecs. (g) to (k).
 
-    1977—Subsec. (a). [Pub. L. 95–95, § 101(b)][/us/pl/95/95/s101/b], struck out reference to “training” in par. (1) and added par. (5).
+    1977—Subsec. (a). [Pub. L. 95–95][/us/pl/95/95], § 101(b), struck out reference to “training” in par. (1) and added par. (5).
 
-    Subsec. (b). [Pub. L. 95–95, § 101(a)][/us/pl/95/95/s101/a], struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
+    Subsec. (b). [Pub. L. 95–95][/us/pl/95/95], § 101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary”.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary”.
 
-    Subsec. (b). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+    Subsec. (b). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
 
-    Subsec. (c). [Pub. L. 91–604, § 15(a)(2)][/us/pl/91/604/s15/a/2], (c)(2), substituted “Administrator” for “Secretary” and “air pollutants” for “air pollution agents (or combinations of agents)”.
+    Subsec. (c). [Pub. L. 91–604][/us/pl/91/604], § 15(a)(2), (c)(2), substituted “Administrator” for “Secretary” and “air pollutants” for “air pollution agents (or combinations of agents)”.
 
-    Subsec. (d). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary”.
+    Subsec. (d). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary”.
 
-    Subsec. (e). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” wherever appearing, substituted “7415” for “7415(a)”, and inserted references to subsecs. (b) and (c) of [section 7415 of this title][/us/usc/t42/s7415].
+    Subsec. (e). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing, substituted “7415” for “7415(a)”, and inserted references to subsecs. (b) and (c) of [section 7415 of this title][/us/usc/t42/s7415].
 
-    Subsec. (f). [Pub. L. 91–604, § 2(a)][/us/pl/91/604/s2/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 91–604][/us/pl/91/604], § 2(a), added subsec. (f).
 
     1967—Subsec. (a). [Pub. L. 90–148][/us/pl/90/148] substituted “establish technical advisory committees composed of recognized experts in various aspects of air pollution to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research” for “initiate and conduct a program of research directed toward the development of improved, low-cost techniques for extracting sulfur from fuels” as cl. (4) and struck out cl. (5) which related to research programs relating to the control of hydrocarbon emissions from evaporation of gasoline and nitrogen and aldehyde oxide emission from gasoline and diesel powered vehicles and relating to the development of improved low-cost techniques to reduce emissions of oxides of sulfur produced by the combustion of sulfur-containing fuels.
 
@@ -297,9 +297,9 @@
 
     Subsec. (e). [Pub. L. 90–148][/us/pl/90/148] substituted references to subsections (d), (e), and (f) of [section 7415 of this title][/us/usc/t42/s7415] for references to subsections (c), (d), and (e) of [section 7415 of this title][/us/usc/t42/s7415] in provision for admission of advisory findings and recommendations together with the record of the conference and made such findings and recommendations part of the proceedings of the conference, not merely part of the record of proceedings.
 
-    1965—Subsec. (a)(5). [Pub. L. 89–272, § 103(3)][/us/pl/89/272/s103/3], added par. (5).
+    1965—Subsec. (a)(5). [Pub. L. 89–272][/us/pl/89/272], § 103(3), added par. (5).
 
-    Subsecs. (d), (e). [Pub. L. 89–272, § 103(4)][/us/pl/89/272/s103/4], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 89–272][/us/pl/89/272], § 103(4), added subsecs. (d) and (e).
 
  __Effective Date of 1977 Amendment__ 
 
@@ -319,21 +319,21 @@
 
  __Pilot Design Programs__ 
 
-    [Pub. L. 106–246, div. B, title II, § 2603][/us/pl/106/246/s2603], July 13, 2000, [114 Stat. 558][/us/stat/114/558], required the Administrator of the Environmental Protection Agency to make grants to carry out a 2-year program to implement in five metropolitan areas pilot design programs and report to Congress on the results not later than 360 days from first day of the second year of the 2-year program.
+    [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2603, July 13, 2000, [114 Stat. 558][/us/stat/114/558], required the Administrator of the Environmental Protection Agency to make grants to carry out a 2-year program to implement in five metropolitan areas pilot design programs and report to Congress on the results not later than 360 days from first day of the second year of the 2-year program.
 
  __National Acid Lakes Registry__ 
 
-[Pub. L. 101–549, title IV, § 405][/us/pl/101/549/s405], Nov. 15, 1990, [104 Stat. 2632][/us/stat/104/2632], provided that: 
+[Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 405, Nov. 15, 1990, [104 Stat. 2632][/us/stat/104/2632], provided that: 
 
 > “The Administrator of the Environmental Protection Agency shall create a National Acid Lakes Registry that shall list, to the extent practical, all lakes that are known to be acidified due to acid deposition, and shall publish such list within one year of the enactment of this Act \[Nov. 15, 1990\]. Lakes shall be added to the registry as they become acidic or as data becomes available to show they are acidic. Lakes shall be deleted from the registry as they become nonacidic.”
 
  __Assessment of International Air Pollution Control Technologies__ 
 
-    [Pub. L. 101–549, title IX, § 901(e)][/us/pl/101/549/s901/e], Nov. 15, 1990, [104 Stat. 2706][/us/stat/104/2706], directed Administrator of Environmental Protection Agency to conduct a study that compares international air pollution control technologies of selected industrialized countries to determine if there exist air pollution control technologies in countries outside the United States that may have beneficial applications to this Nation’s air pollution control efforts, including, with respect to each country studied, the topics of urban air quality, motor vehicle emissions, toxic air emissions, and acid deposition, and within 2 years after Nov. 15, 1990, submit to Congress a report detailing the results of such study.
+    [Pub. L. 101–549, title IX][/us/pl/101/549/tIX], § 901(e), Nov. 15, 1990, [104 Stat. 2706][/us/stat/104/2706], directed Administrator of Environmental Protection Agency to conduct a study that compares international air pollution control technologies of selected industrialized countries to determine if there exist air pollution control technologies in countries outside the United States that may have beneficial applications to this Nation’s air pollution control efforts, including, with respect to each country studied, the topics of urban air quality, motor vehicle emissions, toxic air emissions, and acid deposition, and within 2 years after Nov. 15, 1990, submit to Congress a report detailing the results of such study.
 
  __Western States Acid Deposition Research__ 
 
-[Pub. L. 101–549, title IX, § 901(g)][/us/pl/101/549/s901/g], Nov. 15, 1990, [104 Stat. 2707][/us/stat/104/2707], provided that:
+[Pub. L. 101–549, title IX][/us/pl/101/549/tIX], § 901(g), Nov. 15, 1990, [104 Stat. 2707][/us/stat/104/2707], provided that:
 
 >     “(1)
 
@@ -349,7 +349,7 @@
 
  __Consultation With and Transmission of Reports and Studies to Congressional Committee__ 
 
-[Pub. L. 95–95, title I, § 101(c)][/us/pl/95/95/s101/c], Aug. 7, 1977, [91 Stat. 687][/us/stat/91/687], provided that: 
+[Pub. L. 95–95, title I][/us/pl/95/95/tI], § 101(c), Aug. 7, 1977, [91 Stat. 687][/us/stat/91/687], provided that: 
 
 > “The Administrator of the Environmental Protection Agency shall consult with the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] on the environmental and atmospheric research, development, and demonstration aspects of this Act \[see Short Title of 1977 Amendment note set out under [section 7401 of this title][/us/usc/t42/s7401]\]. In addition, the reports and studies required by this Act that relate to research, development, and demonstration issues shall be transmitted to the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] at the same time they are made available to other committees of the Congress.”
 
@@ -371,17 +371,17 @@
 [/us/usc/t42/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8901
 [/us/usc/t42/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F394
-[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F486
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1676
-[/us/pl/95/95/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs101%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F686
-[/us/pl/101/549/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fa
+[/us/pl/101/549/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIX
 [/us/stat/104/2700-2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2700-2703
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F770
@@ -389,46 +389,46 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s1857b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857b
 [/us/usc/t42/s1857b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857b
-[/us/act/1955-07-14/ch360/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2Fs3
+[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
-[/us/pl/87/761/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F761%2Fs2
+[/us/pl/87/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F761
 [/us/stat/76/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F760
 [/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
-[/us/pl/87/761/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F761%2Fs2
+[/us/pl/87/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F761
 [/us/stat/76/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F760
-[/us/pl/86/365/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F365%2Fs1
+[/us/pl/86/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F365
 [/us/stat/73/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F646
-[/us/pl/87/761/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F761%2Fs1
+[/us/pl/87/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F761
 [/us/stat/76/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F760
 [/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
-[/us/pl/101/549/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fa%2F1
-[/us/pl/101/549/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fa%2F2
-[/us/pl/101/549/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fb
-[/us/pl/101/549/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fc
-[/us/pl/95/95/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs101%2Fb
-[/us/pl/95/95/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs101%2Fa
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fa%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7415
-[/us/pl/91/604/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs2%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/usc/t42/s7415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7415
 [/us/usc/t42/s7415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7415
-[/us/pl/89/272/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs103%2F3
-[/us/pl/89/272/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs103%2F4
+[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
+[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -440,15 +440,15 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/106/246/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2603
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F558
-[/us/pl/101/549/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs405
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2632
-[/us/pl/101/549/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fe
+[/us/pl/101/549/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIX
 [/us/stat/104/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2706
-[/us/pl/101/549/s901/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fg
+[/us/pl/101/549/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIX
 [/us/stat/104/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2707
-[/us/pl/95/95/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs101%2Fc
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F687
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/86/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F493

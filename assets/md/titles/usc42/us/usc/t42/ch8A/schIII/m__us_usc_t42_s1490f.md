@@ -31,7 +31,7 @@
 
         As used in this section, the term “condominium” means a multi-unit housing project which is subject to a plan of family unit ownership acceptable to the Secretary under which each dwelling unit is individually owned and each such owner holds an undivided interest in the common areas and facilities which serve the project.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 526, as added [Pub. L. 93–383, title V, § 516(a)][/us/pl/93/383/s516/a], Aug. 22, 1974, [88 Stat. 698][/us/stat/88/698]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 519(a)\], Nov. 30, 1983, [97 Stat. 1249][/us/stat/97/1249]; [Pub. L. 100–242, title III, § 316(f)][/us/pl/100/242/s316/f], Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 526, as added [Pub. L. 93–383, title V][/us/pl/93/383/tV], § 516(a), Aug. 22, 1974, [88 Stat. 698][/us/stat/88/698]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 519(a)\], Nov. 30, 1983, [97 Stat. 1249][/us/stat/97/1249]; [Pub. L. 100–242, title III][/us/pl/100/242/tIII], § 316(f), Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 [/us/usc/t42/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1472
 [/us/usc/t42/s1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/93/383/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs516%2Fa
+[/us/pl/93/383/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtV
 [/us/stat/88/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F698
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1249
-[/us/pl/100/242/s316/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs316%2Ff
+[/us/pl/100/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIII
 [/us/stat/101/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1898
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181

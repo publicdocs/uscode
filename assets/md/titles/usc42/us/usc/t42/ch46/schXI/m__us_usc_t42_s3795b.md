@@ -17,7 +17,7 @@
 
     Any law enforcement or criminal justice program or project underwritten, in whole or in part, by any grant, or contract or other form of assistance pursuant to this chapter, whether received directly or indirectly from the Office of Justice Programs, Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be subject to the provisions of [section 371 of title 18][/us/usc/t18/s371].
 
-([Pub. L. 90–351, title I, § 1103][/us/pl/90/351/s1103], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1219][/us/stat/93/1219]; amended [Pub. L. 98–473, title II, § 609E(b)][/us/pl/98/473/s609E/b], Oct. 12, 1984, [98 Stat. 2098][/us/stat/98/2098].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1103, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1219][/us/stat/93/1219]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609E(b), Oct. 12, 1984, [98 Stat. 2098][/us/stat/98/2098].)
 
  __Prior Provisions__ 
 
@@ -39,10 +39,10 @@
 ----------
 
 [/us/usc/t18/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs371
-[/us/pl/90/351/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1103
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1219
-[/us/pl/98/473/s609E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609E%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2098
 [/us/usc/t42/s3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157

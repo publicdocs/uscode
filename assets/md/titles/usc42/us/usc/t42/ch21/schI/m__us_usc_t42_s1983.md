@@ -17,11 +17,11 @@
 
     Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action brought against a judicial officer for an act or omission taken in such officer’s judicial capacity, injunctive relief shall not be granted unless a declaratory decree was violated or declaratory relief was unavailable. For the purposes of this section, any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
 
-(R.S. § 1979; [Pub. L. 96–170, § 1][/us/pl/96/170/s1], Dec. 29, 1979, [93 Stat. 1284][/us/stat/93/1284]; [Pub. L. 104–317, title III, § 309(c)][/us/pl/104/317/s309/c], Oct. 19, 1996, [110 Stat. 3853][/us/stat/110/3853].)
+(R.S. § 1979; [Pub. L. 96–170][/us/pl/96/170], § 1, Dec. 29, 1979, [93 Stat. 1284][/us/stat/93/1284]; [Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 309(c), Oct. 19, 1996, [110 Stat. 3853][/us/stat/110/3853].)
 
  __Codification__ 
 
-    R.S. § 1979 derived from [act Apr. 20, 1871, ch. 22, § 1][/us/act/1871-04-20/ch22/s1], [17 Stat. 13][/us/stat/17/13].
+    R.S. § 1979 derived from [act Apr. 20, 1871, ch. 22][/us/act/1871-04-20/ch22], § 1, [17 Stat. 13][/us/stat/17/13].
 
     Section was formerly classified to [section 43 of Title 8][/us/usc/t8/s43], Aliens and Nationality.
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/96/170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F170%2Fs1
+[/us/pl/96/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F170
 [/us/stat/93/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1284
-[/us/pl/104/317/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs309%2Fc
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3853
-[/us/act/1871-04-20/ch22/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22%2Fs1
+[/us/act/1871-04-20/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22
 [/us/stat/17/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F13
 [/us/usc/t8/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs43
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317

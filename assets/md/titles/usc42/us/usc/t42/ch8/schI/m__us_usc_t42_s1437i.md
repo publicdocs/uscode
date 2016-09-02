@@ -19,7 +19,7 @@
 
     (b) Except as provided in [section 1437c(g) of this title][/us/usc/t42/s1437c/g], obligations, including interest thereon, issued by public housing agencies in connection with low-income housing projects shall be exempt from all taxation now or hereafter imposed by the United States whether paid by such agencies or by the Secretary. The income derived by such agencies from such projects shall be exempt from all taxation now or hereafter imposed by the United States.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 11, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 667][/us/stat/88/667]; amended [Pub. L. 97–35, title III, § 322(c)][/us/pl/97/35/s322/c], Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V, § 572(2)][/us/pl/101/625/s572/2], Nov. 28, 1990, [104 Stat. 4236][/us/stat/104/4236].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 11, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 667][/us/stat/88/667]; amended [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 322(c), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 572(2), Nov. 28, 1990, [104 Stat. 4236][/us/stat/104/4236].)
 
  __Prior Provisions__ 
 
@@ -44,13 +44,13 @@
 
 [/us/usc/t42/s1437c/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fg
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F667
-[/us/pl/97/35/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F402
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/101/625/s572/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F2
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4236
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/stat/50/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F893

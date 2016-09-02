@@ -135,7 +135,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
 
-([Pub. L. 110–140, title IV, § 439][/us/pl/110/140/s439], Dec. 19, 2007, [121 Stat. 1620][/us/stat/121/1620].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 439, Dec. 19, 2007, [121 Stat. 1620][/us/stat/121/1620].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 ----------
 
 [/us/usc/t42/s8253/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253%2Fa%2F1
-[/us/pl/110/140/s439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs439
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1620
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492

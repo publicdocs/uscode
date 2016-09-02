@@ -71,7 +71,7 @@
 
         (10) Federal departments, agencies, and instrumentalities should establish procedures to insure among them the systematic interchange of scientific data and technological findings developed under their programs.
 
-([Pub. L. 94–282, title I, § 102][/us/pl/94/282/s102], May 11, 1976, [90 Stat. 460][/us/stat/90/460].)
+([Pub. L. 94–282, title I][/us/pl/94/282/tI], § 102, May 11, 1976, [90 Stat. 460][/us/stat/90/460].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/94/282/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs102
+[/us/pl/94/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtI
 [/us/stat/90/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F460
 
 

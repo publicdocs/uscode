@@ -101,7 +101,7 @@
 
         Not later than 2 years after October 8, 2008, the Government Accountability Office shall submit a report to Congress concerning the effectiveness of current healthcare and family support programs serving as resources for the families of children with disabilities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399T, formerly § 399R, as added [Pub. L. 110–374, § 3][/us/pl/110/374/s3], Oct. 8, 2008, [122 Stat. 4051][/us/stat/122/4051]; renumbered § 399T, [Pub. L. 111–148, title IV, § 4003(b)(2)(B)][/us/pl/111/148/s4003/b/2/B], Mar. 23, 2010, [124 Stat. 544][/us/stat/124/544].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399T, formerly § 399R, as added [Pub. L. 110–374][/us/pl/110/374], § 3, Oct. 8, 2008, [122 Stat. 4051][/us/stat/122/4051]; renumbered § 399T, [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4003(b)(2)(B), Mar. 23, 2010, [124 Stat. 544][/us/stat/124/544].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 
  __Purposes__ 
 
-[Pub. L. 110–374, § 2][/us/pl/110/374/s2], Oct. 8, 2008, [122 Stat. 4051][/us/stat/122/4051], provided that: 
+[Pub. L. 110–374][/us/pl/110/374], § 2, Oct. 8, 2008, [122 Stat. 4051][/us/stat/122/4051], provided that: 
 
 > “It is the purpose of this Act \[enacting this section and provisions set out as a note under [section 201 of this title][/us/usc/t42/s201]\] to—
 
@@ -127,12 +127,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/374/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F374%2Fs3
+[/us/pl/110/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F374
 [/us/stat/122/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4051
-[/us/pl/111/148/s4003/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4003%2Fb%2F2%2FB
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F544
 [/us/pl/110/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F374
-[/us/pl/110/374/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F374%2Fs2
+[/us/pl/110/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F374
 [/us/stat/122/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4051
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 

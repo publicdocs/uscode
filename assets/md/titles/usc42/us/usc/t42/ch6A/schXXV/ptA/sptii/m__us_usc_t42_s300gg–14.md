@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed to modify the definition of “dependent” as used in title 26 with respect to the tax treatment of the cost of coverage.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2714, as added [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], Mar. 23, 2010, [124 Stat. 132][/us/stat/124/132]; amended [Pub. L. 111–152, title II, § 2301(b)][/us/pl/111/152/s2301/b], Mar. 30, 2010, [124 Stat. 1082][/us/stat/124/1082].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2714, as added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), Mar. 23, 2010, [124 Stat. 132][/us/stat/124/132]; amended [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2301(b), Mar. 30, 2010, [124 Stat. 1082][/us/stat/124/1082].)
 
  __Prior Provisions__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F132
-[/us/pl/111/152/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2301%2Fb
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1082
 [/us/usc/t42/s238m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238m
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152

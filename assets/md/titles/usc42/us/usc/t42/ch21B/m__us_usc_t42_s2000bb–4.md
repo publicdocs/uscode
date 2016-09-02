@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to affect, interpret, or in any way address that portion of the First Amendment prohibiting laws respecting the establishment of religion (referred to in this section as the “Establishment Clause”). Granting government funding, benefits, or exemptions, to the extent permissible under the Establishment Clause, shall not constitute a violation of this chapter. As used in this section, the term “granting”, used with respect to government funding, benefits, or exemptions, does not include the denial of government funding, benefits, or exemptions.
 
-([Pub. L. 103–141, § 7][/us/pl/103/141/s7], Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489].)
+([Pub. L. 103–141][/us/pl/103/141], § 7, Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/141/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs7
+[/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1489
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488

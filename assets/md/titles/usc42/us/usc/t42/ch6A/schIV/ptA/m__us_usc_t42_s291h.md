@@ -27,13 +27,13 @@
 
         The judgment of the court affirming or setting aside, in whole or in part, any action of the Surgeon General shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254]. The commencement of proceedings under this section shall not, unless so specifically ordered by the court, operate as a stay of the Surgeon General’s action.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 608, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 456][/us/stat/78/456].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 608, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 456][/us/stat/78/456].)
 
  __Prior Provisions__ 
 
-    A prior section 291h, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 625, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], §§ 3(b–d), 8, [63 Stat. 899][/us/stat/63/899], 901; [July 12, 1954, ch. 471, § 4(b)][/us/act/1954-07-12/ch471/s4/b], [68 Stat. 464][/us/stat/68/464], related to projects for construction, the application required and its contents and approval by the Surgeon General, and provided for a hearing prior to disapproval of the application, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291e of this title][/us/usc/t42/s291e].
+    A prior section 291h, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 625, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], §§ 3(b–d), 8, [63 Stat. 899][/us/stat/63/899], 901; [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 4(b), [68 Stat. 464][/us/stat/68/464], related to projects for construction, the application required and its contents and approval by the Surgeon General, and provided for a hearing prior to disapproval of the application, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291e of this title][/us/usc/t42/s291e].
 
-    Provisions similar to those comprising this section were contained in former section 291j(b), [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 632, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [June 28, 1948, ch. 646, § 32(a)][/us/act/1948-06-28/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [July 12, 1954, ch. 471, § 4(g)][/us/act/1954-07-12/ch471/s4/g], [68 Stat. 466][/us/stat/68/466]; Aug. 28, 1958, [Pub. L. 85–791, § 27][/us/pl/85/791/s27], [72 Stat. 950][/us/stat/72/950], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising this section were contained in former section 291j(b), [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 632, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [June 28, 1948, ch. 646][/us/act/1948-06-28/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 4(g), [68 Stat. 466][/us/stat/68/466]; Aug. 28, 1958, [Pub. L. 85–791][/us/pl/85/791], § 27, [72 Stat. 950][/us/stat/72/950], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Transfer of Functions__ 
 
@@ -52,27 +52,27 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F456
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
 [/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F899
-[/us/act/1954-07-12/ch471/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs4%2Fb
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F464
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/usc/t42/s291e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291e
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1948-06-28/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-28/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/act/1954-07-12/ch471/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs4%2Fg
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F466
-[/us/pl/85/791/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs27
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F950
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610

@@ -23,7 +23,7 @@
 
     (3) releases, before suit is brought, for past infringement of patents or copyrights.
 
-([Pub. L. 95–91, title VI, § 651][/us/pl/95/91/s651], Aug. 4, 1977, [91 Stat. 601][/us/stat/91/601].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 651, Aug. 4, 1977, [91 Stat. 601][/us/stat/91/601].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs651
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F601
 
 

@@ -19,7 +19,7 @@
 
     (b) The Secretary shall within one year of October 7, 1980, submit a report to the President and to the Congress setting forth his assessment along with his recommendations regarding the need for increased support for education in such engineering and scientific disciplines.
 
-([Pub. L. 96–386, § 10][/us/pl/96/386/s10], Oct. 7, 1980, [94 Stat. 1543][/us/stat/94/1543].)
+([Pub. L. 96–386][/us/pl/96/386], § 10, Oct. 7, 1980, [94 Stat. 1543][/us/stat/94/1543].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/386/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs10
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1543
 
 

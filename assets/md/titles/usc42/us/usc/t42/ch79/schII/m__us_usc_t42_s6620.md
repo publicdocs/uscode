@@ -31,7 +31,7 @@
 
         (4) be widely communicated and readily accessible to all employees of each such agency and the public.
 
-([Pub. L. 110–69, title I, § 1009][/us/pl/110/69/s1009], Aug. 9, 2007, [121 Stat. 581][/us/stat/121/581].)
+([Pub. L. 110–69, title I][/us/pl/110/69/tI], § 1009, Aug. 9, 2007, [121 Stat. 581][/us/stat/121/581].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs1009
+[/us/pl/110/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtI
 [/us/stat/121/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F581
 
 

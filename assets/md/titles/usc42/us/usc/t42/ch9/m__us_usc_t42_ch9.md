@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
+[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c–1...1500e.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
 
 ## CHAPTER 9—HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE
 
@@ -577,7 +577,7 @@ SUBCHAPTER IX—DEFENSE HOUSING AND COMMUNITY FACILITIES AND SERVICES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1592" data-uslm-ref="/us/usc/t42/s1592">1592</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1592l" data-uslm-ref="/us/usc/t42/s1592l">1592l.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER IX—DEFENSE HOUSING AND COMMUNITY FACILITIES AND SERVICES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1592" data-uslm-ref="/us/usc/t42/s1592">1592</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1592o" data-uslm-ref="/us/usc/t42/s1592o">1592o.</a>  </td>
 
     <td> Powers of Surgeon General of Public Health Service.  </td>
 
@@ -715,7 +715,7 @@ SUBCHAPTER XI—HOUSING FOR MILITARY PERSONNEL  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
+[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c–1...1500e.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
 
 ----------
 ----------

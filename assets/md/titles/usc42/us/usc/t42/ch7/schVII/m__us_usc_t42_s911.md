@@ -19,7 +19,7 @@
 
     (b) No provision of law enacted after December 12, 1985 (other than a provision of an appropriation Act that appropriated funds authorized under this chapter as in effect on December 12, 1985) may provide for payments from the general fund of the Treasury to any Trust Fund specified in subsection (a) of this section or for payments from any such Trust Fund to the general fund of the Treasury.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 710, as added and amended [Pub. L. 98–21, title III, § 346(a)(1)][/us/pl/98/21/s346/a/1], (b), Apr. 20, 1983, [97 Stat. 137][/us/stat/97/137], 138; [Pub. L. 99–177, title II, § 261(a)(1)][/us/pl/99/177/s261/a/1], (b), Dec. 12, 1985, [99 Stat. 1093][/us/stat/99/1093], 1094; [Pub. L. 105–33, title X, § 10209(c)][/us/pl/105/33/s10209/c], Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 710, as added and amended [Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 346(a)(1), (b), Apr. 20, 1983, [97 Stat. 137][/us/stat/97/137], 138; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 261(a)(1), (b), Dec. 12, 1985, [99 Stat. 1093][/us/stat/99/1093], 1094; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10209(c), Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711].)
 
  __References in Text__ 
 
@@ -29,29 +29,29 @@
 
     1997—[Pub. L. 105–33][/us/pl/105/33] amended section generally. Prior to amendment, section provided that receipts and disbursements of Federal Old-Age and Survivors Insurance Trust Fund, Federal Disability Insurance Trust Fund, and Federal Hospital Insurance Trust Fund and taxes imposed under sections 1401, 3101, and 3111 of title 26 were not to be included in totals of budget of United States Government, that no law enacted after Dec. 12, 1985, except certain appropriations Act provisions, could provide for payments from general fund of the Treasury to any such Trust Fund or from any such Trust Fund to general fund, and that disbursements of Federal Supplementary Medical Insurance Trust Fund were to be treated as a separate major functional category in budget of the Government.
 
-    1985—Subsec. (a). [Pub. L. 99–177, § 261(b)][/us/pl/99/177/s261/b], designated existing provisions as par. (1) and added par. (2).
+    1985—Subsec. (a). [Pub. L. 99–177][/us/pl/99/177], § 261(b), designated existing provisions as par. (1) and added par. (2).
 
-    [Pub. L. 99–177, § 261(a)(1)(E)][/us/pl/99/177/s261/a/1/E], temporarily added subsec. (a). See Effective and Termination Dates of 1985 Amendment note below.
+    [Pub. L. 99–177][/us/pl/99/177], § 261(a)(1)(E), temporarily added subsec. (a). See Effective and Termination Dates of 1985 Amendment note below.
 
-    Subsec. (b). [Pub. L. 99–177, § 261(a)(1)(A)][/us/pl/99/177/s261/a/1/A]–(D), temporarily designated existing provisions as subsec. (b), struck out references to the Federal Old-Age and Survivors Insurance Trust Fund and to the Federal Disability Insurance Trust Fund, and substituted “sections 1401(b), 3101(b), and 3111(b) of the Internal Revenue Code of 1954” for “sections 1401, 3101, and 3111 of the Internal Revenue Code of 1954”. See Effective and Termination Dates of 1985 Amendment note below.
+    Subsec. (b). [Pub. L. 99–177][/us/pl/99/177], § 261(a)(1)(A)–(D), temporarily designated existing provisions as subsec. (b), struck out references to the Federal Old-Age and Survivors Insurance Trust Fund and to the Federal Disability Insurance Trust Fund, and substituted “sections 1401(b), 3101(b), and 3111(b) of the Internal Revenue Code of 1954” for “sections 1401, 3101, and 3111 of the Internal Revenue Code of 1954”. See Effective and Termination Dates of 1985 Amendment note below.
 
-    Subsec. (c). [Pub. L. 99–177, § 261(a)(1)(F)][/us/pl/99/177/s261/a/1/F], temporarily added subsec. (c). See Effective and Termination Dates of 1985 Amendment note below.
+    Subsec. (c). [Pub. L. 99–177][/us/pl/99/177], § 261(a)(1)(F), temporarily added subsec. (c). See Effective and Termination Dates of 1985 Amendment note below.
 
-    1983—[Pub. L. 98–21, § 346(b)][/us/pl/98/21/s346/b], amended section generally, adding subsec. (a) and designating existing provisions as subsec. (b) and striking out “Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the” after “The disbursements of the” and substituting “such Trust Fund” for “such Trust Funds”, including the taxes imposed under sections 1401, 3101, and 3111 of the Internal Revenue Code of 1954,” after “receipts of such Trust Fund”.
+    1983—[Pub. L. 98–21][/us/pl/98/21], § 346(b), amended section generally, adding subsec. (a) and designating existing provisions as subsec. (b) and striking out “Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the” after “The disbursements of the” and substituting “such Trust Fund” for “such Trust Funds”, including the taxes imposed under sections 1401, 3101, and 3111 of the Internal Revenue Code of 1954,” after “receipts of such Trust Fund”.
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-[Pub. L. 99–177, title II, § 261(a)(2)][/us/pl/99/177/s261/a/2], Dec. 12, 1985, [99 Stat. 1094][/us/stat/99/1094], provided that: 
+[Pub. L. 99–177, title II][/us/pl/99/177/tII], § 261(a)(2), Dec. 12, 1985, [99 Stat. 1094][/us/stat/99/1094], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1985, and ending before October 1, 1992.”
 
  __Effective Date of 1983 Amendment__ 
 
-    [Pub. L. 98–21, title III, § 346(b)][/us/pl/98/21/s346/b], Apr. 20, 1983, [97 Stat. 138][/us/stat/97/138], provided that the amendment made by that section is effective for fiscal years beginning on or after Oct. 1, 1992.
+    [Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 346(b), Apr. 20, 1983, [97 Stat. 138][/us/stat/97/138], provided that the amendment made by that section is effective for fiscal years beginning on or after Oct. 1, 1992.
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 98–21, title III, § 346(a)(2)][/us/pl/98/21/s346/a/2], Apr. 20, 1983, [97 Stat. 138][/us/stat/97/138], provided that: 
+[Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 346(a)(2), Apr. 20, 1983, [97 Stat. 138][/us/stat/97/138], provided that: 
 
 > “The amendment made by paragraph (1) \[enacting this section\] shall apply with respect to fiscal years beginning on or after October 1, 1984, and ending on or before September 30, 1992, except that such amendment shall apply with respect to the fiscal year beginning on October 1, 1983, to the extent it relates to the congressional budget.”
 
@@ -63,23 +63,23 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/98/21/s346/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs346%2Fa%2F1
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F137
-[/us/pl/99/177/s261/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs261%2Fa%2F1
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1093
-[/us/pl/105/33/s10209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10209%2Fc
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F711
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/99/177/s261/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs261%2Fb
-[/us/pl/99/177/s261/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs261%2Fa%2F1%2FE
-[/us/pl/99/177/s261/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs261%2Fa%2F1%2FA
-[/us/pl/99/177/s261/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs261%2Fa%2F1%2FF
-[/us/pl/98/21/s346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs346%2Fb
-[/us/pl/99/177/s261/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs261%2Fa%2F2
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1094
-[/us/pl/98/21/s346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs346%2Fb
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F138
-[/us/pl/98/21/s346/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs346%2Fa%2F2
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F138
 
 

@@ -47,7 +47,7 @@
 
         The unemployment rate of a local government shall, for the purposes of this chapter, and upon request of the applicant, be based upon the unemployment rate of any community or neighborhood (defined without regard to political or other subdivisions or boundaries) within the jurisdiction of such local government, except that any grant made to a local government based upon the unemployment rate of a community or neighborhood within its jurisdiction must be for a project to be constructed in such community or neighborhood.
 
-    (f) __Repealed.__  __[__  __Pub. L. 95–28, title I, § 107(e)__  __][/us/pl/95/28/s107/e]__  __,__  __May 13, 1977__  __,__  __[__  __91 Stat. 119__  __][/us/stat/91/119]__ 
+    (f) __Repealed.__  __[__  __Pub. L. 95–28, title I__  __][/us/pl/95/28/tI]__  __, § 107(e),__  __May 13, 1977__  __,__  __[__  __91 Stat. 119__  __][/us/stat/91/119]__ 
 
     (g) __Criteria for requests__ 
 
@@ -75,23 +75,23 @@
 
         Notwithstanding subsection (h)(1) of this section, grants may be made from appropriations made under [section 6710 of this title][/us/usc/t42/s6710] after September 30, 1977, to States or local governments for projects for the construction, renovation, repair, or other improvements of health care or rehabilitation facilities owned and operated by private nonprofit entities.
 
-([Pub. L. 94–369, title I, § 108][/us/pl/94/369/s108], July 22, 1976, [90 Stat. 1000][/us/stat/90/1000]; [Pub. L. 95–28, title I][/us/pl/95/28], §§ 105–107, May 13, 1977, [91 Stat. 117][/us/stat/91/117], 118.)
+([Pub. L. 94–369, title I][/us/pl/94/369/tI], § 108, July 22, 1976, [90 Stat. 1000][/us/stat/90/1000]; [Pub. L. 95–28, title I][/us/pl/95/28/tI], §§ 105–107, May 13, 1977, [91 Stat. 117][/us/stat/91/117], 118.)
 
  __Amendments__ 
 
-    1977—Subsec. (a). [Pub. L. 95–28, § 105][/us/pl/95/28/s105], added par. (1) and introductory provisions preceding par. (1), par. (2), and, in par. (3), introductory provisions preceding cl. (A) and cl. (B), designated existing provisions as cl. (A) of par. (3) and, in such cl. (A) as so designated, inserted reference to Trust Territory of the Pacific Islands and substituted “three-quarters of one percentum” for “one-half of one percentum” and “of such funds” for “of all amounts appropriated to carry out this subchapter”.
+    1977—Subsec. (a). [Pub. L. 95–28][/us/pl/95/28], § 105, added par. (1) and introductory provisions preceding par. (1), par. (2), and, in par. (3), introductory provisions preceding cl. (A) and cl. (B), designated existing provisions as cl. (A) of par. (3) and, in such cl. (A) as so designated, inserted reference to Trust Territory of the Pacific Islands and substituted “three-quarters of one percentum” for “one-half of one percentum” and “of such funds” for “of all amounts appropriated to carry out this subchapter”.
 
-    Subsec. (b). [Pub. L. 95–28, § 106][/us/pl/95/28/s106], designated existing provisions as par. (1) and added pars. (2) to (4).
+    Subsec. (b). [Pub. L. 95–28][/us/pl/95/28], § 106, designated existing provisions as par. (1) and added pars. (2) to (4).
 
-    Subsec. (c). [Pub. L. 95–28, § 107(a)][/us/pl/95/28/s107/a], (b), substituted “twelve most recent consecutive months” for “three most recent consecutive months” and authorized the Secretary to waive the application of the first sentence of the subsection to any State which receives a minimum allocation pursuant to subsec. (a)(3) of this section.
+    Subsec. (c). [Pub. L. 95–28][/us/pl/95/28], § 107(a), (b), substituted “twelve most recent consecutive months” for “three most recent consecutive months” and authorized the Secretary to waive the application of the first sentence of the subsection to any State which receives a minimum allocation pursuant to subsec. (a)(3) of this section.
 
-    Subsec. (d). [Pub. L. 95–28, § 107(c)][/us/pl/95/28/s107/c], substituted provisions directing State or local governments that submit two or more projects to submit as part of their applications the priorities assigned to each project for provisions directing that seventy percentum of all amounts appropriated to carry out this chapter be granted for public works projects submitted by State or local governments given priority under clause (1) of the first sentence of subsec. (c) of this section, with the remaining thirty percentum available for public works projects submitted by State or local governments in other classifications of priority.
+    Subsec. (d). [Pub. L. 95–28][/us/pl/95/28], § 107(c), substituted provisions directing State or local governments that submit two or more projects to submit as part of their applications the priorities assigned to each project for provisions directing that seventy percentum of all amounts appropriated to carry out this chapter be granted for public works projects submitted by State or local governments given priority under clause (1) of the first sentence of subsec. (c) of this section, with the remaining thirty percentum available for public works projects submitted by State or local governments in other classifications of priority.
 
-    Subsec. (e). [Pub. L. 95–28, § 107(d)][/us/pl/95/28/s107/d], substituted “to be constructed in such community or neighborhood” for “of direct benefit to, or provide employment for, unemployed persons who are residents of that community or neighborhood”.
+    Subsec. (e). [Pub. L. 95–28][/us/pl/95/28], § 107(d), substituted “to be constructed in such community or neighborhood” for “of direct benefit to, or provide employment for, unemployed persons who are residents of that community or neighborhood”.
 
-    Subsec. (f). [Pub. L. 95–28, § 107(e)][/us/pl/95/28/s107/e], struck out subsec. (f) which directed that, in determining the unemployment rate of a local government for purposes of this section, the unemployment in those adjoining areas from which the labor force for such project might be drawn were to be taken into consideration.
+    Subsec. (f). [Pub. L. 95–28][/us/pl/95/28], § 107(e), struck out subsec. (f) which directed that, in determining the unemployment rate of a local government for purposes of this section, the unemployment in those adjoining areas from which the labor force for such project might be drawn were to be taken into consideration.
 
-    Subsecs. (h) to (j). [Pub. L. 95–28, § 107(f)][/us/pl/95/28/s107/f], added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 95–28][/us/pl/95/28], § 107(f), added subsecs. (h) to (j).
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -105,22 +105,22 @@
 ----------
 
 [/us/usc/t42/s6710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6710
-[/us/pl/95/28/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs107%2Fe
+[/us/pl/95/28/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2FtI
 [/us/stat/91/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F119
 [/us/usc/t42/s6705/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6705%2Fd
 [/us/usc/t42/s6705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6705%2Fa
 [/us/usc/t42/s6710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6710
-[/us/pl/94/369/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs108
+[/us/pl/94/369/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtI
 [/us/stat/90/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1000
-[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
+[/us/pl/95/28/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2FtI
 [/us/stat/91/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F117
-[/us/pl/95/28/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs105
-[/us/pl/95/28/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs106
-[/us/pl/95/28/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs107%2Fa
-[/us/pl/95/28/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs107%2Fc
-[/us/pl/95/28/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs107%2Fd
-[/us/pl/95/28/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs107%2Fe
-[/us/pl/95/28/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs107%2Ff
+[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
+[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
+[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
+[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
+[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
+[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
+[/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

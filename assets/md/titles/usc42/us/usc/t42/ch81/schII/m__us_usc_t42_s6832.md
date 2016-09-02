@@ -49,7 +49,7 @@
 
     (16) The term “ASHRAE” means the American Society of Heating, Refrigerating, and Air-Conditioning Engineers.
 
-([Pub. L. 94–385, title III, § 303][/us/pl/94/385/s303], Aug. 14, 1976, [90 Stat. 1145][/us/stat/90/1145]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 97–35, title X, § 1041(a)][/us/pl/97/35/s1041/a], Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621]; [Pub. L. 100–242, title V, § 570(c)][/us/pl/100/242/s570/c], Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 102–486, title I, § 101(a)(1)][/us/pl/102/486/s101/a/1], Oct. 24, 1992, [106 Stat. 2782][/us/stat/106/2782]; [Pub. L. 110–140, title IV, § 433(b)][/us/pl/110/140/s433/b], Dec. 19, 2007, [121 Stat. 1614][/us/stat/121/1614].)
+([Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 303, Aug. 14, 1976, [90 Stat. 1145][/us/stat/90/1145]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1041(a), Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 570(c), Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 101(a)(1), Oct. 24, 1992, [106 Stat. 2782][/us/stat/106/2782]; [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 433(b), Dec. 19, 2007, [121 Stat. 1614][/us/stat/121/1614].)
 
  __Codification__ 
 
@@ -85,17 +85,17 @@
 ----------
 
 [/us/usc/t12/s1701j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701j%E2%80%932
-[/us/pl/94/385/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs303
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
 [/us/stat/90/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1145
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/97/35/s1041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1041%2Fa
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F621
-[/us/pl/100/242/s570/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fc
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1950
-[/us/pl/102/486/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs101%2Fa%2F1
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2782
-[/us/pl/110/140/s433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs433%2Fb
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1614
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

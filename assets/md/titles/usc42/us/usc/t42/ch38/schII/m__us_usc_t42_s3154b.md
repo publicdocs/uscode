@@ -47,7 +47,7 @@
 
         The Secretary shall use any amounts made available for economic development assistance programs to carry out this section.
 
-([Pub. L. 89–136, title II, § 216][/us/pl/89/136/s216], as added [Pub. L. 108–373, title II, § 211(a)][/us/pl/108/373/s211/a], Oct. 27, 2004, [118 Stat. 1765][/us/stat/118/1765].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 216, as added [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 211(a), Oct. 27, 2004, [118 Stat. 1765][/us/stat/118/1765].)
 
 ----------
 
@@ -57,8 +57,8 @@
 ----------
 
 [/us/usc/t42/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3144
-[/us/pl/89/136/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs216
-[/us/pl/108/373/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs211%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1765
 
 

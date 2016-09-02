@@ -23,7 +23,7 @@
 
         The requirements of this part shall not apply to any health insurance coverage in relation to its provision of excepted benefits described in paragraph (2), (3), or (4) of [section 300gg–91(c) of this title][/us/usc/t42/s300gg–91/c] if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2763, formerly § 2747, as added [Pub. L. 104–191, title I, § 111(a)][/us/pl/104/191/s111/a], Aug. 21, 1996, [110 Stat. 1987][/us/stat/110/1987]; renumbered § 2763, [Pub. L. 104–204, title VI, § 605(a)(2)][/us/pl/104/204/s605/a/2], Sept. 26, 1996, [110 Stat. 2941][/us/stat/110/2941].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2763, formerly § 2747, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 111(a), Aug. 21, 1996, [110 Stat. 1987][/us/stat/110/1987]; renumbered § 2763, [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 605(a)(2), Sept. 26, 1996, [110 Stat. 2941][/us/stat/110/2941].)
 
  __Effective Date__ 
 
@@ -39,9 +39,9 @@
 [/us/usc/t42/s300gg–91/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fc%2F1
 [/us/usc/t42/s300gg–91/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs111%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1987
-[/us/pl/104/204/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs605%2Fa%2F2
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2941
 [/us/pl/104/191/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs111%2Fb
 [/us/usc/t42/s300gg–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9341

@@ -27,7 +27,7 @@
 
         No action taken by the United States in connection with the rights afforded under this legislation shall operate to deny to the injured person the recovery for that portion of his damage not covered hereunder.
 
-([Pub. L. 87–693, § 2][/us/pl/87/693/s2], Sept. 25, 1962, [76 Stat. 593][/us/stat/76/593].)
+([Pub. L. 87–693][/us/pl/87/693], § 2, Sept. 25, 1962, [76 Stat. 593][/us/stat/76/593].)
 
  __Ex. Ord. No. 11060. Delegation of Authority To Prescribe Regulations__ 
 
@@ -48,7 +48,7 @@ Under and by virtue of the authority vested in me by Title 3 of the United State
 
 [/us/usc/t42/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2651
 [/us/usc/t42/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2651
-[/us/pl/87/693/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693%2Fs2
+[/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
 [/us/stat/76/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F593
 [/us/act/1962-09-25/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-09-25%2Fs2%2Fa
 [/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693

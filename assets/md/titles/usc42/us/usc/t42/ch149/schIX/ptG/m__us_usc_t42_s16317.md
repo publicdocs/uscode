@@ -103,7 +103,7 @@
 
             (B) may continue to receive support for a period of 5 years beginning on the date of establishment of the center.
 
-([Pub. L. 109–58, title IX, § 977][/us/pl/109/58/s977], Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903]; [Pub. L. 110–140, title II][/us/pl/110/140], §§ 232(a), 233, Dec. 19, 2007, [121 Stat. 1537][/us/stat/121/1537].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 977, Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903]; [Pub. L. 110–140, title II][/us/pl/110/140/tII], §§ 232(a), 233, Dec. 19, 2007, [121 Stat. 1537][/us/stat/121/1537].)
 
  __References in Text__ 
 
@@ -111,13 +111,13 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1). [Pub. L. 110–140, § 232(a)(1)][/us/pl/110/140/s232/a/1], substituted “computational biology, and environmental science” for “and computational biology”.
+    2007—Subsec. (a)(1). [Pub. L. 110–140][/us/pl/110/140], § 232(a)(1), substituted “computational biology, and environmental science” for “and computational biology”.
 
-    Subsec. (b)(1). [Pub. L. 110–140, § 232(a)(2)(A)][/us/pl/110/140/s232/a/2/A], inserted “in sustainable production systems that reduce greenhouse gas emissions” after “hydrogen”.
+    Subsec. (b)(1). [Pub. L. 110–140][/us/pl/110/140], § 232(a)(2)(A), inserted “in sustainable production systems that reduce greenhouse gas emissions” after “hydrogen”.
 
-    Subsec. (b)(4), (5). [Pub. L. 110–140, § 232(a)(2)(B)][/us/pl/110/140/s232/a/2/B]–(D), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 110–140][/us/pl/110/140], § 232(a)(2)(B)–(D), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (f). [Pub. L. 110–140, § 233][/us/pl/110/140/s233], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–140][/us/pl/110/140], § 233, added subsec. (f).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -130,17 +130,17 @@
 ----------
 ----------
 
-[/us/pl/109/58/s977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs977
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F903
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1537
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F898
 [/us/usc/t15/s5523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5523
-[/us/pl/110/140/s232/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs232%2Fa%2F1
-[/us/pl/110/140/s232/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs232%2Fa%2F2%2FA
-[/us/pl/110/140/s232/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs232%2Fa%2F2%2FB
-[/us/pl/110/140/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs233
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

@@ -17,7 +17,7 @@
 
     If an owner of a covered section 8 housing project in which disabled families who are near-elderly families are given a preference for occupancy pursuant to subsection (a) or (b) of [section 13613 of this title][/us/usc/t42/s13613] determines (in accordance with regulations established by the Secretary) that there are an insufficient number of such families to fill all the units in the project for which the preference is applicable, the owner shall make such units generally available for occupancy by families who have applied, and are eligible, for occupancy in the housing, without regard to the preferences established pursuant to this subchapter.
 
-([Pub. L. 102–550, title VI, § 654][/us/pl/102/550/s654], Oct. 28, 1992, [106 Stat. 3824][/us/stat/106/3824].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 654, Oct. 28, 1992, [106 Stat. 3824][/us/stat/106/3824].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s13613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13613
-[/us/pl/102/550/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs654
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3824
 [/us/usc/t42/s13619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13619
 

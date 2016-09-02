@@ -17,7 +17,7 @@
 
     For purposes of this subchapter, the term “State” means each of the several States and the District of Columbia.
 
-([Pub. L. 97–425, title IV, § 401][/us/pl/97/425/s401], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5041][/us/pl/100/203/s5041], Dec. 22, 1987, [101 Stat. 1330–243][/us/stat/101/1330-243]; amended [Pub. L. 102–486, title VIII, § 802(b)][/us/pl/102/486/s802/b], Oct. 24, 1992, [106 Stat. 2923][/us/stat/106/2923].)
+([Pub. L. 97–425, title IV][/us/pl/97/425/tIV], § 401, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5041, Dec. 22, 1987, [101 Stat. 1330–243][/us/stat/101/1330-243]; amended [Pub. L. 102–486, title VIII][/us/pl/102/486/tVIII], § 802(b), Oct. 24, 1992, [106 Stat. 2923][/us/stat/106/2923].)
 
  __Codification__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/97/425/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs401
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIV
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5041
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-243
-[/us/pl/102/486/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs802%2Fb
+[/us/pl/102/486/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVIII
 [/us/stat/106/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2923
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

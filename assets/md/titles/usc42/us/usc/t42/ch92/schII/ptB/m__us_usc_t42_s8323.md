@@ -33,19 +33,19 @@
 
         (2) The Secretary shall forward a copy of any such petition to the Federal Energy Regulatory Commission promptly after it is filed with the Secretary and shall consult with such Commission before making any finding on such petition under paragraph (1).
 
-([Pub. L. 95–620, title II, § 213][/us/pl/95/620/s213], Nov. 9, 1978, [92 Stat. 3304][/us/stat/92/3304]; [Pub. L. 100–42, § 1(c)(7)][/us/pl/100/42/s1/c/7], May 21, 1987, [101 Stat. 312][/us/stat/101/312].)
+([Pub. L. 95–620, title II][/us/pl/95/620/tII], § 213, Nov. 9, 1978, [92 Stat. 3304][/us/stat/92/3304]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(7), May 21, 1987, [101 Stat. 312][/us/stat/101/312].)
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–42, § 1(c)(7)(A)][/us/pl/100/42/s1/c/7/A], (B), in introductory provisions struck out “or (g)” after “8322(d)” and “or installation” after “powerplant”.
+    1987—Subsec. (a). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(7)(A), (B), in introductory provisions struck out “or (g)” after “8322(d)” and “or installation” after “powerplant”.
 
-    Subsec. (b). [Pub. L. 100–42, § 1(c)(7)(C)][/us/pl/100/42/s1/c/7/C], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the appropriate State regulatory authority has not approved a powerplant for which a petition has been filed, such exemption—
+    Subsec. (b). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(7)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the appropriate State regulatory authority has not approved a powerplant for which a petition has been filed, such exemption—
 
     “(1) to the extent it applies to the prohibition under [section 8311(2) of this title][/us/usc/t42/s8311/2] against construction without the capability of using coal or another alternate fuel, shall not take effect until all approvals required by such State regulatory authority which relate to construction have been obtained; and
 
     “(2) to the extent it applies to the prohibition under [section 8311(1) of this title][/us/usc/t42/s8311/1] against the use of natural gas or petroleum as a primary energy source, shall not take effect until all approvals required by such State regulatory authority which relate to construction or operation have been obtained.”
 
-    Subsec. (c)(1). [Pub. L. 100–42, § 1(c)(7)(A)][/us/pl/100/42/s1/c/7/A], in introductory provisions struck out “or (g)” after “section 8322(c)”.
+    Subsec. (c)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(7)(A), in introductory provisions struck out “or (g)” after “section 8322(c)”.
 
  __Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After__  __November 9, 1978__ 
 
@@ -62,15 +62,15 @@
 [/us/usc/t42/s8322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8322%2Fd
 [/us/usc/t42/s8311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8311
 [/us/usc/t42/s8322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8322%2Fc
-[/us/pl/95/620/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs213
+[/us/pl/95/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtII
 [/us/stat/92/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3304
-[/us/pl/100/42/s1/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F7
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F312
-[/us/pl/100/42/s1/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F7%2FA
-[/us/pl/100/42/s1/c/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F7%2FC
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8311%2F2
 [/us/usc/t42/s8311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8311%2F1
-[/us/pl/100/42/s1/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F7%2FA
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/pl/95/620/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs902%2Fa
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
 

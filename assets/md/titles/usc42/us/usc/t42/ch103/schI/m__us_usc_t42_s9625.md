@@ -29,7 +29,7 @@
 
         Until the hazard ranking system is revised as required by this section, the President may not include on the National Priorities List any facility which contains substantial volumes of waste described in [section 6921(b)(3)(A)(i) of this title][/us/usc/t42/s6921/b/3/A/i] on the basis of an evaluation made principally on the volume of such waste and not on the concentrations of the hazardous constituents of such waste. Nothing in this section shall be construed to affect the President’s authority to include any such facility on the National Priorities List based on the presence of other substances at such facility or to exercise any other authority of this chapter with respect to such other substances.
 
-([Pub. L. 96–510, title I, § 125][/us/pl/96/510/s125], as added [Pub. L. 99–499, title I, § 125][/us/pl/99/499/s125], Oct. 17, 1986, [100 Stat. 1689][/us/stat/100/1689].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 125, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 125, Oct. 17, 1986, [100 Stat. 1689][/us/stat/100/1689].)
 
  __References in Text__ 
 
@@ -44,8 +44,8 @@
 
 [/us/usc/t42/s6921/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921%2Fb%2F3%2FA%2Fi
 [/us/usc/t42/s6921/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921%2Fb%2F3%2FA%2Fi
-[/us/pl/96/510/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs125
-[/us/pl/99/499/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs125
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1689
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

@@ -17,7 +17,7 @@
 
     The Secretary, through the Trade Promotion Coordinating Council, shall develop policies and programs to encourage the export and promotion of domestic energy resource technologies, including renewable energy, energy efficiency, and clean coal technologies, to developing countries.
 
-([Pub. L. 102–486, title XVI, § 1607][/us/pl/102/486/s1607], Oct. 24, 1992, [106 Stat. 3003][/us/stat/106/3003].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1607, Oct. 24, 1992, [106 Stat. 3003][/us/stat/106/3003].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1607
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
 [/us/stat/106/3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3003
 
 

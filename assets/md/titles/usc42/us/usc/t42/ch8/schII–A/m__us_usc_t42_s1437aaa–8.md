@@ -27,7 +27,7 @@
 
     (5) the recommendations of the Secretary for statutory and regulatory improvements to the program.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 309, as added [Pub. L. 101–625, title IV, § 411][/us/pl/101/625/s411], Nov. 28, 1990, [104 Stat. 4159][/us/stat/104/4159].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 309, as added [Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 411, Nov. 28, 1990, [104 Stat. 4159][/us/stat/104/4159].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/101/625/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs411
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4159
 
 

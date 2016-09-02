@@ -71,7 +71,7 @@
 
             (D) the degree to which scholarly assessment and evaluation plans are included in the design of the reform effort.
 
-([Pub. L. 111–358, title V, § 527][/us/pl/111/358/s527], Jan. 4, 2011, [124 Stat. 4020][/us/stat/124/4020].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 527, Jan. 4, 2011, [124 Stat. 4020][/us/stat/124/4020].)
 
  __Codification__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs527
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4020
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621

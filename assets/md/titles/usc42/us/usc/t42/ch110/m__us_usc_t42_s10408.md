@@ -83,11 +83,11 @@
 
             Receipt of supportive services under this chapter shall be voluntary. No condition may be applied for the receipt of emergency shelter as described in subsection (b)(1)(A).
 
-([Pub. L. 98–457, title III, § 308][/us/pl/98/457/s308], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3494][/us/stat/124/3494].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 308, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3494][/us/stat/124/3494].)
 
  __Prior Provisions__ 
 
-    A prior section 10408, [Pub. L. 98–457, title III, § 309][/us/pl/98/457/s309], Oct. 9, 1984, [98 Stat. 1762][/us/stat/98/1762]; [Pub. L. 102–295, title III, § 311(b)][/us/pl/102/295/s311/b], May 28, 1992, [106 Stat. 203][/us/stat/106/203]; [Pub. L. 103–322, title IV, § 40272(a)][/us/pl/103/322/s40272/a], Sept. 13, 1994, [108 Stat. 1937][/us/stat/108/1937]; [Pub. L. 108–36, title IV, § 405][/us/pl/108/36/s405], June 25, 2003, [117 Stat. 826][/us/stat/117/826], which related to definitions, was renumbered [section 320 of Pub. L. 98–457][/us/pl/98/457/s320] by [Pub. L. 108–36, title IV, § 415(5)][/us/pl/108/36/s415/5], June 25, 2003, [117 Stat. 830][/us/stat/117/830], and transferred to [section 10421 of this title][/us/usc/t42/s10421], prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
+    A prior section 10408, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 309, Oct. 9, 1984, [98 Stat. 1762][/us/stat/98/1762]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 311(b), May 28, 1992, [106 Stat. 203][/us/stat/106/203]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40272(a), Sept. 13, 1994, [108 Stat. 1937][/us/stat/108/1937]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 405, June 25, 2003, [117 Stat. 826][/us/stat/117/826], which related to definitions, was renumbered [section 320 of Pub. L. 98–457][/us/pl/98/457/s320] by [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 415(5), June 25, 2003, [117 Stat. 830][/us/stat/117/830], and transferred to [section 10421 of this title][/us/usc/t42/s10421], prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
     A prior [section 308 of Pub. L. 98–457][/us/pl/98/457/s308] was classified to [section 10407 of this title][/us/usc/t42/s10407] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -100,19 +100,19 @@
 
 [/us/usc/t42/s10406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fa
 [/us/usc/t42/s10406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fb%2F2
-[/us/pl/98/457/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs308
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3494
-[/us/pl/98/457/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs309
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1762
-[/us/pl/102/295/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs311%2Fb
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F203
-[/us/pl/103/322/s40272/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40272%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1937
-[/us/pl/108/36/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs405
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F826
 [/us/pl/98/457/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs320
-[/us/pl/108/36/s415/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs415%2F5
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F830
 [/us/usc/t42/s10421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10421
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320

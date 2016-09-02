@@ -147,7 +147,7 @@
 
         The term “service area” means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in [section 391 of title 43][/us/usc/t43/s391].
 
-([Pub. L. 111–11, title IX, § 9502][/us/pl/111/11/s9502], Mar. 30, 2009, [123 Stat. 1330][/us/stat/123/1330].)
+([Pub. L. 111–11, title IX][/us/pl/111/11/tIX], § 9502, Mar. 30, 2009, [123 Stat. 1330][/us/stat/123/1330].)
 
 ----------
 
@@ -160,7 +160,7 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s10366/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10366%2Fa
 [/us/usc/t43/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs391
-[/us/pl/111/11/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9502
+[/us/pl/111/11/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIX
 [/us/stat/123/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1330
 
 

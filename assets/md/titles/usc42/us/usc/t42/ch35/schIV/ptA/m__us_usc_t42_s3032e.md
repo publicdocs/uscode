@@ -45,7 +45,7 @@
 
         (2) that the provider will provide without receiving Federal or other public financial assistance, after a period of not more than 5 years of providing the services under this section.
 
-([Pub. L. 89–73, title IV, § 416][/us/pl/89/73/s416], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2261][/us/stat/114/2261]; amended [Pub. L. 109–365, title IV, § 405][/us/pl/109/365/s405], Oct. 17, 2006, [120 Stat. 2554][/us/stat/120/2554].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 416, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2261][/us/stat/114/2261]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 405, Oct. 17, 2006, [120 Stat. 2554][/us/stat/120/2554].)
 
  __Amendments__ 
 
@@ -58,10 +58,10 @@
 ----------
 ----------
 
-[/us/pl/89/73/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs416
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2261
-[/us/pl/109/365/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs405
+[/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2554
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 

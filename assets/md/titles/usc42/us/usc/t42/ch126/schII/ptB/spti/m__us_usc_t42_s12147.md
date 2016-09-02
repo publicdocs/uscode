@@ -43,7 +43,7 @@
 
             (B) that establishes milestones for achievement of the requirements of this subsection.
 
-([Pub. L. 101–336, title II, § 227][/us/pl/101/336/s227], July 26, 1990, [104 Stat. 343][/us/stat/104/343].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 227, July 26, 1990, [104 Stat. 343][/us/stat/104/343].)
 
  __Effective Date__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12132
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/101/336/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs227
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F343
 [/us/pl/101/336/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231
 [/us/usc/t42/s12141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12141

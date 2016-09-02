@@ -29,7 +29,7 @@
 
         The term “violent prisoner” means any individual in the custody of a State or an inferior political subdivision of a State who has previously been convicted of or is currently charged with a crime of violence or any similar statute of a State or the inferior political subdivisions of a State, or any attempt thereof.
 
-([Pub. L. 106–560, § 3][/us/pl/106/560/s3], Dec. 21, 2000, [114 Stat. 2784][/us/stat/114/2784].)
+([Pub. L. 106–560][/us/pl/106/560], § 3, Dec. 21, 2000, [114 Stat. 2784][/us/stat/114/2784].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t18/s924/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924%2Fc%2F3
-[/us/pl/106/560/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560%2Fs3
+[/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2784
 [/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2784

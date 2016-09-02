@@ -17,7 +17,7 @@
 
     Within three years after October 30, 1984, the Secretary shall prepare and transmit to the Senate Committee on Labor and Human Resources and the House Committee on Education and Labor a report concerning the activities conducted by the States with amounts provided under this subchapter.
 
-([Pub. L. 97–35, title VI, § 670F][/us/pl/97/35/s670F], as added [Pub. L. 98–558, title I, § 109][/us/pl/98/558/s109], Oct. 30, 1984, [98 Stat. 2883][/us/stat/98/2883].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 670F, as added [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 109, Oct. 30, 1984, [98 Stat. 2883][/us/stat/98/2883].)
 
  __Change of Name__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/97/35/s670F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs670F
-[/us/pl/98/558/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs109
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2883
 
 

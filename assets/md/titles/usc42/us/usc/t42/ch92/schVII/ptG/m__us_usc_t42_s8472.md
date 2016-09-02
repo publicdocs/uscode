@@ -27,7 +27,7 @@
 
         The preceding provisions of this chapter shall not affect the validity of any order issued under subsection (a), or any final order under subsection (c), of [section 792 of title 15][/us/usc/t15/s792], and the authority of the Secretary to amend, repeal, rescind, modify, or enforce any such order, or rules applicable thereto, shall remain in effect notwithstanding any limitation of time otherwise applicable to such authority. Except as provided in this section, the authority of the Secretary under [section 792 of title 15][/us/usc/t15/s792] shall terminate on the effective date of this chapter.
 
-([Pub. L. 95–620, title VII, § 762(a)][/us/pl/95/620/s762/a]–(c), Nov. 9, 1978, [92 Stat. 3345][/us/stat/92/3345].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 762(a)–(c), Nov. 9, 1978, [92 Stat. 3345][/us/stat/92/3345].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t15/s792/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792%2Fa
 [/us/usc/t15/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792
 [/us/usc/t15/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792
-[/us/pl/95/620/s762/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs762%2Fa
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3345
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901

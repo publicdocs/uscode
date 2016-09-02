@@ -19,7 +19,7 @@
 
     (b) The remedies provided in this subchapter shall be the exclusive means of enforcing the rights based on this subchapter, but nothing in this subchapter shall preclude any individual or any State or local agency from asserting any right based on any other Federal or State law not inconsistent with this subchapter, including any statute or ordinance requiring nondiscrimination in public establishments or accommodations, or from pursuing any remedy, civil or criminal, which may be available for the vindication or enforcement of such right.
 
-([Pub. L. 88–352, title II, § 207][/us/pl/88/352/s207], July 2, 1964, [78 Stat. 245][/us/stat/78/245].)
+([Pub. L. 88–352, title II][/us/pl/88/352/tII], § 207, July 2, 1964, [78 Stat. 245][/us/stat/78/245].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs207
+[/us/pl/88/352/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtII
 [/us/stat/78/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F245
 
 

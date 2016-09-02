@@ -37,7 +37,7 @@
 
         (2) 20 percent shall be available to provide employment described in sections 14113(a)(1)(B) and 14113(a)(2) of this title.
 
-([Pub. L. 103–322, title XX, § 200210][/us/pl/103/322/s200210], Sept. 13, 1994, [108 Stat. 2061][/us/stat/108/2061].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200210, Sept. 13, 1994, [108 Stat. 2061][/us/stat/108/2061].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t42/s14113/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14113%2Fa%2F1%2FA
-[/us/pl/103/322/s200210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200210
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2061
 
 

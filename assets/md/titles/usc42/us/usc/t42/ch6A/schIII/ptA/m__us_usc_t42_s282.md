@@ -863,7 +863,7 @@
 
                 Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 402, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 823][/us/stat/99/823]; amended [Pub. L. 100–607, title I, § 111][/us/pl/100/607/s111], Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052]; [Pub. L. 102–321, title I, § 163(b)(3)][/us/pl/102/321/s163/b/3], July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 103–43, title I, § 141(b)][/us/pl/103/43/s141/b], title II, §§ 201, 202, 206, 208, 210(b), (c), title III, § 303(b), June 10, 1993, [107 Stat. 139][/us/stat/107/139], 144, 148–150, 153; [Pub. L. 105–115, title I, § 113(a)][/us/pl/105/115/s113/a], Nov. 21, 1997, [111 Stat. 2310][/us/stat/111/2310]; [Pub. L. 105–362, title VI, § 601(a)(1)(A)][/us/pl/105/362/s601/a/1/A], Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 105–392, title IV, § 409][/us/pl/105/392/s409], Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 107–109, § 15(c)(2)][/us/pl/107/109/s15/c/2], Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 109–482, title I][/us/pl/109/482], §§ 102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], 3683, 3684, 3687; [Pub. L. 110–85, title III, § 304(a)][/us/pl/110/85/s304/a], title VIII, § 801(a), title XI, § 1104(2), Sept. 27, 2007, [121 Stat. 863][/us/stat/121/863], 904, 975; [Pub. L. 110–316, title III, § 302][/us/pl/110/316/s302], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 111–148, title X, § 10409(b)][/us/pl/111/148/s10409/b], Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; [Pub. L. 112–74, div. F, title II, § 221(b)(5)(B)][/us/pl/112/74/s221/b/5/B], (d)(1), Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089], 1090; [Pub. L. 113–94, § 3(a)][/us/pl/113/94/s3/a], Apr. 3, 2014, [128 Stat. 1086][/us/stat/128/1086].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 402, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 823][/us/stat/99/823]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 111, Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(b)(3), July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 141(b), title II, §§ 201, 202, 206, 208, 210(b), (c), title III, § 303(b), June 10, 1993, [107 Stat. 139][/us/stat/107/139], 144, 148–150, 153; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 113(a), Nov. 21, 1997, [111 Stat. 2310][/us/stat/111/2310]; [Pub. L. 105–362, title VI][/us/pl/105/362/tVI], § 601(a)(1)(A), Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 409, Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 107–109][/us/pl/107/109], § 15(c)(2), Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], 3683, 3684, 3687; [Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 304(a), title VIII, § 801(a), title XI, § 1104(2), Sept. 27, 2007, [121 Stat. 863][/us/stat/121/863], 904, 975; [Pub. L. 110–316, title III][/us/pl/110/316/tIII], § 302, Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10409(b), Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(b)(5)(B), (d)(1), Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089], 1090; [Pub. L. 113–94][/us/pl/113/94], § 3(a), Apr. 3, 2014, [128 Stat. 1086][/us/stat/128/1086].)
 
  __References in Text__ 
 
@@ -871,43 +871,43 @@
 
     The Federal Advisory Committee Act, referred to in subsec. (b), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-    The National Literacy Act of 1991, referred to in subsec. (e)(5), is [Pub. L. 102–73][/us/pl/102/73], July 25, 1991, [105 Stat. 333][/us/stat/105/333], which was repealed by [Pub. L. 105–220, title II, § 251(a)(2)][/us/pl/105/220/s251/a/2], Aug. 7, 1998, [112 Stat. 1079][/us/stat/112/1079]. For complete classification of this Act to the Code, see Tables.
+    The National Literacy Act of 1991, referred to in subsec. (e)(5), is [Pub. L. 102–73][/us/pl/102/73], July 25, 1991, [105 Stat. 333][/us/stat/105/333], which was repealed by [Pub. L. 105–220, title II][/us/pl/105/220/tII], § 251(a)(2), Aug. 7, 1998, [112 Stat. 1079][/us/stat/112/1079]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    In subsec. (b)(14)(B), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b)(14)(B), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
     2014—Subsec. (b)(7). [Pub. L. 113–94][/us/pl/113/94] amended par. (7) generally, enacting similar provisions and adding provisions relating to allocating funds appropriated pursuant to [section 282a(a)(2) of this title][/us/usc/t42/s282a/a/2] for making grants for pediatric research.
 
-    2011—Subsec. (b)(24). [Pub. L. 112–74, § 221(d)(1)][/us/pl/112/74/s221/d/1], substituted “287a” for “282d”.
+    2011—Subsec. (b)(24). [Pub. L. 112–74][/us/pl/112/74], § 221(d)(1), substituted “287a” for “282d”.
 
-    Subsec. (g). [Pub. L. 112–74, § 221(b)(5)(B)][/us/pl/112/74/s221/b/5/B], redesignated and transferred subsec. (g) of this section to subsec. (b) of [section 285k of this title][/us/usc/t42/s285k].
+    Subsec. (g). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(5)(B), redesignated and transferred subsec. (g) of this section to subsec. (b) of [section 285k of this title][/us/usc/t42/s285k].
 
     2010—Subsec. (b)(24). [Pub. L. 111–148][/us/pl/111/148] added par. (24).
 
-    2008—Subsec. (j)(3)(C). [Pub. L. 110–316, § 302(1)][/us/pl/110/316/s302/1], in introductory provisions, substituted “for each applicable clinical trial for a drug that is approved under [section 355 of title 21][/us/usc/t21/s355] or licensed under [section 262 of this title][/us/usc/t42/s262] or a device that is cleared under [section 360(k) of title 21][/us/usc/t21/s360/k] or approved under section 360e or 360j(m) of title 21, the following elements:” for “the following elements for drugs that are approved under [section 355 of title 21][/us/usc/t21/s355] or licensed under [section 262 of this title][/us/usc/t42/s262] and devices that are cleared under [section 360(k) of title 21][/us/usc/t21/s360/k] or approved under section 360e or 360j(m) of title 21:”.
+    2008—Subsec. (j)(3)(C). [Pub. L. 110–316][/us/pl/110/316], § 302(1), in introductory provisions, substituted “for each applicable clinical trial for a drug that is approved under [section 355 of title 21][/us/usc/t21/s355] or licensed under [section 262 of this title][/us/usc/t42/s262] or a device that is cleared under [section 360(k) of title 21][/us/usc/t21/s360/k] or approved under section 360e or 360j(m) of title 21, the following elements:” for “the following elements for drugs that are approved under [section 355 of title 21][/us/usc/t21/s355] or licensed under [section 262 of this title][/us/usc/t42/s262] and devices that are cleared under [section 360(k) of title 21][/us/usc/t21/s360/k] or approved under section 360e or 360j(m) of title 21:”.
 
-    Subsec. (j)(3)(I)(i), (iii). [Pub. L. 110–316, § 302(2)][/us/pl/110/316/s302/2], substituted “applicable clinical trials described in subparagraph (C)” for “drugs described in subparagraph (C)”.
+    Subsec. (j)(3)(I)(i), (iii). [Pub. L. 110–316][/us/pl/110/316], § 302(2), substituted “applicable clinical trials described in subparagraph (C)” for “drugs described in subparagraph (C)”.
 
-    2007—Subsec. (a). [Pub. L. 109–482, § 102(f)(1)(A)][/us/pl/109/482/s102/f/1/A], substituted “Director of NIH who shall” for “Director of the National Institutes of Health (hereafter in this subchapter referred to as the ‘Director of NIH’) who shall”.
+    2007—Subsec. (a). [Pub. L. 109–482][/us/pl/109/482], § 102(f)(1)(A), substituted “Director of NIH who shall” for “Director of the National Institutes of Health (hereafter in this subchapter referred to as the ‘Director of NIH’) who shall”.
 
-    Subsec. (b). [Pub. L. 109–482, § 102(a)(5)][/us/pl/109/482/s102/a/5], substituted “paragraph (16)” for “paragraph (6)” in concluding provisions.
+    Subsec. (b). [Pub. L. 109–482][/us/pl/109/482], § 102(a)(5), substituted “paragraph (16)” for “paragraph (6)” in concluding provisions.
 
-    Subsec. (b)(1). [Pub. L. 109–482, § 102(a)(6)][/us/pl/109/482/s102/a/6], added par. (1) and struck out former par. (1) which read as follows: “shall be responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the management and operation of programs and activities within the National Institutes of Health;”.
+    Subsec. (b)(1). [Pub. L. 109–482][/us/pl/109/482], § 102(a)(6), added par. (1) and struck out former par. (1) which read as follows: “shall be responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the management and operation of programs and activities within the National Institutes of Health;”.
 
-    Subsec. (b)(2), (3). [Pub. L. 109–482, § 102(b)][/us/pl/109/482/s102/b], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (b)(2), (3). [Pub. L. 109–482][/us/pl/109/482], § 102(b), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) shall coordinate and oversee the operation of the national research institutes and administrative entities within the National Institutes of Health;
 
     “(3) shall assure that research at or supported by the National Institutes of Health is subject to review in accordance with [section 289a of this title][/us/usc/t42/s289a];”.
 
-    Subsec. (b)(4). [Pub. L. 110–85, § 1104(2)][/us/pl/110/85/s1104/2], inserted “minority and other” after “reducing”.
+    Subsec. (b)(4). [Pub. L. 110–85][/us/pl/110/85], § 1104(2), inserted “minority and other” after “reducing”.
 
-    [Pub. L. 109–482, § 102(b)][/us/pl/109/482/s102/b], added par. (4). Former par. (4) redesignated (14).
+    [Pub. L. 109–482][/us/pl/109/482], § 102(b), added par. (4). Former par. (4) redesignated (14).
 
-    Subsec. (b)(5) to (22). [Pub. L. 109–482, § 102(a)(1)][/us/pl/109/482/s102/a/1]–(4), (b), added pars. (5) to (13), redesignated former pars. (4) to (11) and (14) as (14) to (22), respectively, in par. (21) inserted “and” at end, and struck out former pars. (12) and (13) which read as follows:
+    Subsec. (b)(5) to (22). [Pub. L. 109–482][/us/pl/109/482], § 102(a)(1)–(4), (b), added pars. (5) to (13), redesignated former pars. (4) to (11) and (14) as (14) to (22), respectively, in par. (21) inserted “and” at end, and struck out former pars. (12) and (13) which read as follows:
 
     “(12) after consultation with the Director of the Office of Research on Women’s Health, shall ensure that resources of the National Institutes of Health are sufficiently allocated for projects of research on women’s health that are identified under [section 287d(b) of this title][/us/usc/t42/s287d/b];
 
@@ -917,19 +917,19 @@
 
     “(B) which does not consist of residency training of physicians or other health professionals; and”.
 
-    Subsec. (b)(23). [Pub. L. 110–85, § 304(a)][/us/pl/110/85/s304/a], added par. (23).
+    Subsec. (b)(23). [Pub. L. 110–85][/us/pl/110/85], § 304(a), added par. (23).
 
-    Subsec. (i). [Pub. L. 109–482, § 102(c)][/us/pl/109/482/s102/c], redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to discretionary fund for use by the Director of NIH to carry out activities authorized in this chapter.
+    Subsec. (i). [Pub. L. 109–482][/us/pl/109/482], § 102(c), redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to discretionary fund for use by the Director of NIH to carry out activities authorized in this chapter.
 
-    Subsec. (i)(5). [Pub. L. 109–482, § 103(b)(1)][/us/pl/109/482/s103/b/1], struck out first sentence which read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary.”
+    Subsec. (i)(5). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(1), struck out first sentence which read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary.”
 
-    Subsecs. (j), (k). [Pub. L. 110–85, § 801(a)][/us/pl/110/85/s801/a], added subsec. (j) and redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (l).
+    Subsecs. (j), (k). [Pub. L. 110–85][/us/pl/110/85], § 801(a), added subsec. (j) and redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-    [Pub. L. 109–482, § 102(c)(2)][/us/pl/109/482/s102/c/2], (d), added subsec. (k) and redesignated former subsec. (k) as (j).
+    [Pub. L. 109–482][/us/pl/109/482], § 102(c)(2), (d), added subsec. (k) and redesignated former subsec. (k) as (j).
 
-    Subsec. (l). [Pub. L. 110–85, § 801(a)(1)][/us/pl/110/85/s801/a/1], redesignated subsec. (k) as (l).
+    Subsec. (l). [Pub. L. 110–85][/us/pl/110/85], § 801(a)(1), redesignated subsec. (k) as (l).
 
-    [Pub. L. 109–482, § 102(c)(1)][/us/pl/109/482/s102/c/1], struck out subsec. (l) which read as follows: “The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).”
+    [Pub. L. 109–482][/us/pl/109/482], § 102(c)(1), struck out subsec. (l) which read as follows: “The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).”
 
     2002—Subsec. (j)(3)(A). [Pub. L. 107–109][/us/pl/107/109], which directed the amendment of the first sentence of subsec. (j)(3)(A) by substituting “trial sites,” for “trial sites, and” and “in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children,” for “in the trial,”, was executed by making the substitutions in the second sentence, to reflect the probable intent of Congress.
 
@@ -943,21 +943,21 @@
 
     1997—Subsecs. (j) to (l). [Pub. L. 105–115][/us/pl/105/115] added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
-    1993—Subsec. (b)(12). [Pub. L. 103–43, § 141(b)][/us/pl/103/43/s141/b], added par. (12).
+    1993—Subsec. (b)(12). [Pub. L. 103–43][/us/pl/103/43], § 141(b), added par. (12).
 
-    Subsec. (e)(5). [Pub. L. 103–43, § 210(b)][/us/pl/103/43/s210/b], added par. (5).
+    Subsec. (e)(5). [Pub. L. 103–43][/us/pl/103/43], § 210(b), added par. (5).
 
-    Subsec. (f). [Pub. L. 103–43, § 201][/us/pl/103/43/s201], substituted “other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—” and pars. (1) to (3) for “other public and private entities. The Associate Director shall annually report to the Director of NIH on the prevention activities undertaken by the Associate Director. The report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities”.
+    Subsec. (f). [Pub. L. 103–43][/us/pl/103/43], § 201, substituted “other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—” and pars. (1) to (3) for “other public and private entities. The Associate Director shall annually report to the Director of NIH on the prevention activities undertaken by the Associate Director. The report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities”.
 
-    Subsec. (g). [Pub. L. 103–43, § 202][/us/pl/103/43/s202], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–43][/us/pl/103/43], § 202, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 103–43, § 206][/us/pl/103/43/s206], added subsec. (h).
+    Subsec. (h). [Pub. L. 103–43][/us/pl/103/43], § 206, added subsec. (h).
 
-    Subsec. (i). [Pub. L. 103–43, § 208][/us/pl/103/43/s208], added subsec. (i).
+    Subsec. (i). [Pub. L. 103–43][/us/pl/103/43], § 208, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 103–43, § 210(c)][/us/pl/103/43/s210/c], added subsec. (j).
+    Subsec. (j). [Pub. L. 103–43][/us/pl/103/43], § 210(c), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 103–43, § 303(b)][/us/pl/103/43/s303/b], added subsec. (k).
+    Subsec. (k). [Pub. L. 103–43][/us/pl/103/43], § 303(b), added subsec. (k).
 
     1992—Subsec. (d)(1). [Pub. L. 102–321][/us/pl/102/321] substituted “220” for “two hundred”.
 
@@ -977,13 +977,13 @@
 
  __Rule of Construction Regarding Continuation of Programs__ 
 
-[Pub. L. 109–482, title I, § 103(c)][/us/pl/109/482/s103/c], Jan. 15, 2007, [120 Stat. 3689][/us/stat/120/3689], provided that: 
+[Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(c), Jan. 15, 2007, [120 Stat. 3689][/us/stat/120/3689], provided that: 
 
 > “The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284l, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285o, 285o–2, 285o–4, 285p, 285r, 286a–1, 287a–2, 287a–3, 287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program.”
 
  __Demonstration Grants for Improving Pediatric Device Availability__ 
 
-[Pub. L. 110–85, title III, § 305][/us/pl/110/85/s305], Sept. 27, 2007, [121 Stat. 863][/us/stat/121/863], as amended by [Pub. L. 112–144, title VI, § 620(a)][/us/pl/112/144/s620/a], July 9, 2012, [126 Stat. 1064][/us/stat/126/1064], provided that:
+[Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 305, Sept. 27, 2007, [121 Stat. 863][/us/stat/121/863], as amended by [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 620(a), July 9, 2012, [126 Stat. 1064][/us/stat/126/1064], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -1037,13 +1037,13 @@
 
  __Surveillances__ 
 
-[Pub. L. 110–85, title VIII, § 801(c)][/us/pl/110/85/s801/c], Sept. 27, 2007, [121 Stat. 921][/us/stat/121/921], provided that: 
+[Pub. L. 110–85, title VIII][/us/pl/110/85/tVIII], § 801(c), Sept. 27, 2007, [121 Stat. 921][/us/stat/121/921], provided that: 
 
 > “Not later than 12 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary of Health and Human Services shall issue guidance on how the requirements of section 402(j) of the Public Health Service Act \[[42 U.S.C. 282(j)][/us/usc/t42/s282/j]\], as added by this section, apply to a pediatric postmarket surveillance described in paragraph (1)(A)(ii)(II) of such section 402(j) that is not a clinical trial.”
 
  __Preemption__ 
 
-[Pub. L. 110–85, title VIII, § 801(d)][/us/pl/110/85/s801/d], Sept. 27, 2007, [121 Stat. 922][/us/stat/121/922], provided that:
+[Pub. L. 110–85, title VIII][/us/pl/110/85/tVIII], § 801(d), Sept. 27, 2007, [121 Stat. 922][/us/stat/121/922], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1055,17 +1055,17 @@
 
  __Collaboration and Report__ 
 
-    [Pub. L. 105–115, title I, § 113(b)][/us/pl/105/115/s113/b], Nov. 21, 1997, [111 Stat. 2312][/us/stat/111/2312], directed the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Commissioner of Food and Drugs to collaborate to determine the feasibility of including device investigations within the scope of the data bank under subsec. (j) of this section, with the Secretary to report to Congress, not later than two years after Nov. 21, 1997, on the public health need, if any, for inclusion of device investigations within the scope of the data bank under subsec. (j), and on the adverse impact, if any, on device innovation and research in the United States if information relating to such device investigations was required to be publicly disclosed.
+    [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 113(b), Nov. 21, 1997, [111 Stat. 2312][/us/stat/111/2312], directed the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Commissioner of Food and Drugs to collaborate to determine the feasibility of including device investigations within the scope of the data bank under subsec. (j) of this section, with the Secretary to report to Congress, not later than two years after Nov. 21, 1997, on the public health need, if any, for inclusion of device investigations within the scope of the data bank under subsec. (j), and on the adverse impact, if any, on device innovation and research in the United States if information relating to such device investigations was required to be publicly disclosed.
 
  __Chronic Fatigue Syndrome; Experts and Research Representatives on Advisory Committees and Boards__ 
 
-[Pub. L. 103–43, title IX, § 902(c)][/us/pl/103/43/s902/c], June 10, 1993, [107 Stat. 164][/us/stat/107/164], provided that: 
+[Pub. L. 103–43, title IX][/us/pl/103/43/tIX], § 902(c), June 10, 1993, [107 Stat. 164][/us/stat/107/164], provided that: 
 
 > “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall ensure that appropriate individuals with expertise in chronic fatigue syndrome or neuromuscular diseases and representative of a variety of disciplines and fields within the research community are appointed to appropriate National Institutes of Health advisory committees and boards.”
 
  __Third-Party Payments Regarding Certain Clinical Trials and Certain Life-Threatening Illnesses__ 
 
-[Pub. L. 103–43, title XIX, § 1901(a)][/us/pl/103/43/s1901/a], June 10, 1993, [107 Stat. 200][/us/stat/107/200], provided that: 
+[Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1901(a), June 10, 1993, [107 Stat. 200][/us/stat/107/200], provided that: 
 
 > “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall conduct a study for the purpose of—
 
@@ -1075,19 +1075,19 @@
 
  __Personnel Study of Recruitment, Retention and Turnover__ 
 
-    [Pub. L. 103–43, title XIX, § 1905][/us/pl/103/43/s1905], June 10, 1993, [107 Stat. 203][/us/stat/107/203], directed Secretary of Health and Human Services, acting through Director of National Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that National Institutes of Health is adequately supporting conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on results of such study not later than 1 year after June 10, 1993.
+    [Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1905, June 10, 1993, [107 Stat. 203][/us/stat/107/203], directed Secretary of Health and Human Services, acting through Director of National Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that National Institutes of Health is adequately supporting conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on results of such study not later than 1 year after June 10, 1993.
 
  __Chronic Pain Conditions__ 
 
-    [Pub. L. 103–43, title XIX, § 1907][/us/pl/103/43/s1907], June 10, 1993, [107 Stat. 204][/us/stat/107/204], directed Director of the National Institutes of Health to submit to Congress, not later than 2 years after June 10, 1993, a report and study on the incidence in the United States of cases of chronic pain, including chronic pain resulting from back injuries, reflex sympathetic dystrophy syndrome, temporomandibular joint disorder, post-herpetic neuropathy, painful diabetic neuropathy, phantom pain, and post-stroke pain, and the effect of such cases on the costs of health care in the United States.
+    [Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1907, June 10, 1993, [107 Stat. 204][/us/stat/107/204], directed Director of the National Institutes of Health to submit to Congress, not later than 2 years after June 10, 1993, a report and study on the incidence in the United States of cases of chronic pain, including chronic pain resulting from back injuries, reflex sympathetic dystrophy syndrome, temporomandibular joint disorder, post-herpetic neuropathy, painful diabetic neuropathy, phantom pain, and post-stroke pain, and the effect of such cases on the costs of health care in the United States.
 
  __Support for Bioengineering Research__ 
 
-    [Pub. L. 103–43, title XIX, § 1912][/us/pl/103/43/s1912], June 10, 1993, [107 Stat. 206][/us/stat/107/206], directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, to conduct a study for the purpose of determining the sources and amounts of public and private funding devoted to basic research in bioengineering, including biomaterials sciences, cellular bioprocessing, tissue and rehabilitation engineering, evaluating whether that commitment is sufficient to maintain the innovative edge that the United States has in these technologies, evaluating the role of the National Institutes of Health or any other Federal agency to achieve a greater commitment to innovation in bioengineering, and evaluating the need for better coordination and collaboration among Federal agencies and between the public and private sectors, and, not later than 1 year after June 10, 1993, to prepare and submit to Committee on Labor and Human Resources of Senate, and Committee on Energy and Commerce of House of Representatives, a report containing the findings of the study together with recommendations concerning the enactment of legislation to implement the results of such study.
+    [Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1912, June 10, 1993, [107 Stat. 206][/us/stat/107/206], directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, to conduct a study for the purpose of determining the sources and amounts of public and private funding devoted to basic research in bioengineering, including biomaterials sciences, cellular bioprocessing, tissue and rehabilitation engineering, evaluating whether that commitment is sufficient to maintain the innovative edge that the United States has in these technologies, evaluating the role of the National Institutes of Health or any other Federal agency to achieve a greater commitment to innovation in bioengineering, and evaluating the need for better coordination and collaboration among Federal agencies and between the public and private sectors, and, not later than 1 year after June 10, 1993, to prepare and submit to Committee on Labor and Human Resources of Senate, and Committee on Energy and Commerce of House of Representatives, a report containing the findings of the study together with recommendations concerning the enactment of legislation to implement the results of such study.
 
  __Master Plan for Physical Infrastructure for Research__ 
 
-    [Pub. L. 103–43, title XX, § 2002][/us/pl/103/43/s2002], June 10, 1993, [107 Stat. 208][/us/stat/107/208], directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
+    [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2002, June 10, 1993, [107 Stat. 208][/us/stat/107/208], directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
 
 ----------
 
@@ -1153,88 +1153,88 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F823
-[/us/pl/100/607/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs111
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3052
-[/us/pl/102/321/s163/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F3
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F376
-[/us/pl/103/43/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs141%2Fb
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F139
-[/us/pl/105/115/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs113%2Fa
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2310
-[/us/pl/105/362/s601/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs601%2Fa%2F1%2FA
+[/us/pl/105/362/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVI
 [/us/stat/112/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3285
-[/us/pl/105/392/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs409
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3589
-[/us/pl/107/109/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs15%2Fc%2F2
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1420
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3681
-[/us/pl/110/85/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs304%2Fa
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F863
-[/us/pl/110/316/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs302
+[/us/pl/110/316/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtIII
 [/us/stat/122/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3524
-[/us/pl/111/148/s10409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10409%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F978
-[/us/pl/112/74/s221/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F5%2FB
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1089
-[/us/pl/113/94/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fa
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/stat/128/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1086
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/102/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73
 [/us/stat/105/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F333
-[/us/pl/105/220/s251/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs251%2Fa%2F2
+[/us/pl/105/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtII
 [/us/stat/112/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1079
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/usc/t42/s282a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a%2Fa%2F2
-[/us/pl/112/74/s221/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fd%2F1
-[/us/pl/112/74/s221/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F5%2FB
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t42/s285k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285k
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/110/316/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs302%2F1
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
-[/us/pl/110/316/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs302%2F2
-[/us/pl/109/482/s102/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Ff%2F1%2FA
-[/us/pl/109/482/s102/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fa%2F5
-[/us/pl/109/482/s102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fa%2F6
-[/us/pl/109/482/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fb
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/usc/t42/s289a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a
-[/us/pl/110/85/s1104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F2
-[/us/pl/109/482/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fb
-[/us/pl/109/482/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fa%2F1
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/usc/t42/s287d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287d%2Fb
 [/us/usc/t42/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288
-[/us/pl/110/85/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs304%2Fa
-[/us/pl/109/482/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fc
-[/us/pl/109/482/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F1
-[/us/pl/110/85/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fa
-[/us/pl/109/482/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fc%2F2
-[/us/pl/110/85/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fa%2F1
-[/us/pl/109/482/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fc%2F1
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
-[/us/pl/103/43/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs141%2Fb
-[/us/pl/103/43/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs210%2Fb
-[/us/pl/103/43/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs201
-[/us/pl/103/43/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs202
-[/us/pl/103/43/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs206
-[/us/pl/103/43/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs208
-[/us/pl/103/43/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs210%2Fc
-[/us/pl/103/43/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs303%2Fb
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
@@ -1246,33 +1246,33 @@
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
-[/us/pl/109/482/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fc
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3689
-[/us/pl/110/85/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs305
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F863
-[/us/pl/112/144/s620/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs620%2Fa
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1064
 [/us/usc/t42/s282/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F23
-[/us/pl/110/85/s801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fc
+[/us/pl/110/85/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVIII
 [/us/stat/121/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F921
 [/us/usc/t42/s282/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fj
-[/us/pl/110/85/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fd
+[/us/pl/110/85/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVIII
 [/us/stat/121/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F922
 [/us/usc/t42/s282/j/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fj%2F3%2FD
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/105/115/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs113%2Fb
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2312
-[/us/pl/103/43/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs902%2Fc
+[/us/pl/103/43/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIX
 [/us/stat/107/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F164
-[/us/pl/103/43/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1901%2Fa
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F200
-[/us/pl/103/43/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1905
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F203
-[/us/pl/103/43/s1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1907
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F204
-[/us/pl/103/43/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1912
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F206
-[/us/pl/103/43/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2002
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F208
 
 

@@ -17,7 +17,7 @@
 
     Sections 10139 and 10140 of this title shall cease to have effect at such time as a repository developed under this part is licensed to receive and possess high-level radioactive waste and spent nuclear fuel.
 
-([Pub. L. 97–425, title I, § 125][/us/pl/97/425/s125], Jan. 7, 1983, [96 Stat. 2229][/us/stat/96/2229].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 125, Jan. 7, 1983, [96 Stat. 2229][/us/stat/96/2229].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs125
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2229
 
 

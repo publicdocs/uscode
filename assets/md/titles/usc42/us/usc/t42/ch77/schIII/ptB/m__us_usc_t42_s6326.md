@@ -71,11 +71,11 @@
 
     (8) The term “transportation controls” means any plan, procedure, method, or arrangement, or any system of incentives, disincentives, restrictions, and requirements, which is designed to reduce the amount of energy consumed in transportation, except that the term does not include rationing of gasoline or diesel fuel.
 
-([Pub. L. 94–163, title III, § 366][/us/pl/94/163/s366], Dec. 22, 1975, [89 Stat. 935][/us/stat/89/935]; [Pub. L. 94–385, title IV, § 431][/us/pl/94/385/s431], Aug. 14, 1976, [90 Stat. 1158][/us/stat/90/1158]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440, § 2(b)][/us/pl/101/440/s2/b], Oct. 18, 1990, [104 Stat. 1006][/us/stat/104/1006].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 366, Dec. 22, 1975, [89 Stat. 935][/us/stat/89/935]; [Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 431, Aug. 14, 1976, [90 Stat. 1158][/us/stat/90/1158]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440][/us/pl/101/440], § 2(b), Oct. 18, 1990, [104 Stat. 1006][/us/stat/104/1006].)
 
  __References in Text__ 
 
-    [Section 6327 of this title][/us/usc/t42/s6327], referred to in par. (3)(B)(i), was repealed by [Pub. L. 101–440, § 4(c)(1)][/us/pl/101/440/s4/c/1], Oct. 18, 1990, [104 Stat. 1009][/us/stat/104/1009].
+    [Section 6327 of this title][/us/usc/t42/s6327], referred to in par. (3)(B)(i), was repealed by [Pub. L. 101–440][/us/pl/101/440], § 4(c)(1), Oct. 18, 1990, [104 Stat. 1009][/us/stat/104/1009].
 
  __Amendments__ 
 
@@ -94,16 +94,16 @@
 
 [/us/usc/t42/s6325/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6325%2Fe%2F1
 [/us/usc/t42/s6325/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6325%2Fe%2F1
-[/us/pl/94/163/s366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs366
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F935
-[/us/pl/94/385/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs431
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1158
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/101/440/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs2%2Fb
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1006
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
-[/us/pl/101/440/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs4%2Fc%2F1
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1009
 [/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619

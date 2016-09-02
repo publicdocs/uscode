@@ -17,7 +17,7 @@
 
     Among the alternative model programs that the Secretary shall make available for use by participating jurisdictions under the provisions of [section 12743 of this title][/us/usc/t42/s12743] shall be model programs specified in this part. The Secretary shall keep these specified model programs under review and submit to Congress such recommendations for change as the Secretary determines to be appropriate.
 
-([Pub. L. 101–625, title II, § 251][/us/pl/101/625/s251], Nov. 28, 1990, [104 Stat. 4119][/us/stat/104/4119].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 251, Nov. 28, 1990, [104 Stat. 4119][/us/stat/104/4119].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s12743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12743
-[/us/pl/101/625/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs251
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4119
 
 

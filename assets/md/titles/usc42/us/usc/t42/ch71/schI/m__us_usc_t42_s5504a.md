@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch71/schI/m__us_usc_t42_s5504.md) | [Next](./../../../../..//us/usc/t42/ch71/schI/m__us_usc_t42_s5505.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5504a)
 
-## § 5504a. Repealed. [Pub. L. 96–125, title VIII, § 804(b)][/us/pl/96/125/s804/b], Nov. 26, 1979, [93 Stat. 948][/us/stat/93/948]
+## § 5504a. Repealed. [Pub. L. 96–125, title VIII][/us/pl/96/125/tVIII], § 804(b), Nov. 26, 1979, [93 Stat. 948][/us/stat/93/948]
 
-    Section, [Pub. L. 95–356, title VIII, § 804][/us/pl/95/356/s804], Sept. 8, 1978, [92 Stat. 585][/us/stat/92/585], related to use of solar energy systems in military construction projects.
+    Section, [Pub. L. 95–356, title VIII][/us/pl/95/356/tVIII], § 804, Sept. 8, 1978, [92 Stat. 585][/us/stat/92/585], related to use of solar energy systems in military construction projects.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/96/125/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs804%2Fb
+[/us/pl/96/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2FtVIII
 [/us/stat/93/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F948
-[/us/pl/95/356/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F356%2Fs804
+[/us/pl/95/356/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F356%2FtVIII
 [/us/stat/92/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F585
 
 

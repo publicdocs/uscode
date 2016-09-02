@@ -79,7 +79,7 @@
 
         (2) suggestions for specific measures to improve the content of standards described in [section 2286a(b)(1) of this title][/us/usc/t42/s2286a/b/1], the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 313, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)][/us/pl/100/456/s1441/a/1], Sept. 29, 1988, [102 Stat. 2079][/us/stat/102/2079]; amended [Pub. L. 101–510, div. C, title XXXII, § 3202][/us/pl/101/510/s3202], Nov. 5, 1990, [104 Stat. 1844][/us/stat/104/1844]; [Pub. L. 102–190, div. C, title XXXII, § 3202(a)][/us/pl/102/190/s3202/a], Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXII, § 3202(g)][/us/pl/112/239/s3202/g], Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220]; [Pub. L. 113–291, div. C, title XXXII, § 3203(a)][/us/pl/113/291/s3203/a], Dec. 19, 2014, [128 Stat. 3903][/us/stat/128/3903]; [Pub. L. 114–92, div. C, title XXXII, § 3202(b)(2)][/us/pl/114/92/s3202/b/2], Nov. 25, 2015, [129 Stat. 1218][/us/stat/129/1218].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 313, as added [Pub. L. 100–456, div. A, title XIV][/us/pl/100/456/dA/tXIV], § 1441(a)(1), Sept. 29, 1988, [102 Stat. 2079][/us/stat/102/2079]; amended [Pub. L. 101–510, div. C, title XXXII][/us/pl/101/510/dC/tXXXII], § 3202, Nov. 5, 1990, [104 Stat. 1844][/us/stat/104/1844]; [Pub. L. 102–190, div. C, title XXXII][/us/pl/102/190/dC/tXXXII], § 3202(a), Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXII][/us/pl/112/239/dC/tXXXII], § 3202(g), Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220]; [Pub. L. 113–291, div. C, title XXXII][/us/pl/113/291/dC/tXXXII], § 3203(a), Dec. 19, 2014, [128 Stat. 3903][/us/stat/128/3903]; [Pub. L. 114–92, div. C, title XXXII][/us/pl/114/92/dC/tXXXII], § 3202(b)(2), Nov. 25, 2015, [129 Stat. 1218][/us/stat/129/1218].)
 
  __References in Text__ 
 
@@ -93,15 +93,15 @@
 
     2013—Subsec. (j)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “[section 2286a(b)(1) of this title][/us/usc/t42/s2286a/b/1], the implementation” for “[section 2286a(1) of this title][/us/usc/t42/s2286a/1], the implementation”.
 
-    1991—Subsec. (b)(1)(A). [Pub. L. 102–190, § 3202(a)(1)][/us/pl/102/190/s3202/a/1], substituted “150” for “100”.
+    1991—Subsec. (b)(1)(A). [Pub. L. 102–190][/us/pl/102/190], § 3202(a)(1), substituted “150” for “100”.
 
-    Subsec. (g). [Pub. L. 102–190, § 3202(a)(2)][/us/pl/102/190/s3202/a/2], substituted “Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may” for “The Board may”.
+    Subsec. (g). [Pub. L. 102–190][/us/pl/102/190], § 3202(a)(2), substituted “Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may” for “The Board may”.
 
     1990—Subsec. (b). [Pub. L. 101–510][/us/pl/101/510] designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “including such scientific and technical personnel as the Board may determine necessary,” after “Board,” in subpar. (A), and added par. (2).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–291, div. C, title XXXII, § 3203(b)][/us/pl/113/291/s3203/b], Dec. 19, 2014, [128 Stat. 3903][/us/stat/128/3903], provided that: 
+[Pub. L. 113–291, div. C, title XXXII][/us/pl/113/291/dC/tXXXII], § 3203(b), Dec. 19, 2014, [128 Stat. 3903][/us/stat/128/3903], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2015.”
 
@@ -117,19 +117,19 @@
 [/us/usc/t42/s2201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201%2Fd
 [/us/usc/t42/s2286a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286a%2Fb%2F1
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/100/456/s1441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1441%2Fa%2F1
+[/us/pl/100/456/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXIV
 [/us/stat/102/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2079
-[/us/pl/101/510/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3202
+[/us/pl/101/510/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXII
 [/us/stat/104/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1844
-[/us/pl/102/190/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3202%2Fa
+[/us/pl/102/190/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXII
 [/us/stat/105/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1582
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/112/239/s3202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fg
+[/us/pl/112/239/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXII
 [/us/stat/126/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2220
-[/us/pl/113/291/s3203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3203%2Fa
+[/us/pl/113/291/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXII
 [/us/stat/128/3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3903
-[/us/pl/114/92/s3202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3202%2Fb%2F2
+[/us/pl/114/92/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXII
 [/us/stat/129/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1218
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t42/s2286/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286%2Fc%2F7
@@ -137,10 +137,10 @@
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t42/s2286a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286a%2Fb%2F1
 [/us/usc/t42/s2286a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286a%2F1
-[/us/pl/102/190/s3202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3202%2Fa%2F1
-[/us/pl/102/190/s3202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3202%2Fa%2F2
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/113/291/s3203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3203%2Fb
+[/us/pl/113/291/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXII
 [/us/stat/128/3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3903
 
 

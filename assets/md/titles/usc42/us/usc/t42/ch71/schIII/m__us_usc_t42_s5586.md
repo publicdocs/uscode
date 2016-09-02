@@ -35,7 +35,7 @@
 
         Any photovoltaic component or system procured or installed by the Federal Government or procured or installed with Federal assistance under section 5584 or [section 5585 of this title][/us/usc/t42/s5585] shall meet appropriate performance criteria prescribed under this section, if such performance criteria have been prescribed.
 
-([Pub. L. 95–590, § 7][/us/pl/95/590/s7], Nov. 4, 1978, [92 Stat. 2517][/us/stat/92/2517].)
+([Pub. L. 95–590][/us/pl/95/590], § 7, Nov. 4, 1978, [92 Stat. 2517][/us/stat/92/2517].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t42/s5585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5585
-[/us/pl/95/590/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs7
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2517
 [/us/usc/t42/s5585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5585
 

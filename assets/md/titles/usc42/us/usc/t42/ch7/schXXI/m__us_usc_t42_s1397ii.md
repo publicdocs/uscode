@@ -55,7 +55,7 @@
 
             Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $20,000,000 for fiscal year 2009 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2109, as added [Pub. L. 105–33, title IV, § 4901(a)][/us/pl/105/33/s4901/a], Aug. 5, 1997, [111 Stat. 567][/us/stat/111/567]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, §§ 703(a), 705(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–400, 1501A–403; [Pub. L. 110–173, title II, § 205][/us/pl/110/173/s205], Dec. 29, 2007, [121 Stat. 2514][/us/stat/121/2514]; [Pub. L. 111–3, title VI, § 602][/us/pl/111/3/s602], Feb. 4, 2009, [123 Stat. 98][/us/stat/123/98]; [Pub. L. 111–148, title II, § 2102(a)(6)][/us/pl/111/148/s2102/a/6], Mar. 23, 2010, [124 Stat. 288][/us/stat/124/288].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2109, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4901(a), Aug. 5, 1997, [111 Stat. 567][/us/stat/111/567]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VII, §§ 703(a), 705(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–400, 1501A–403; [Pub. L. 110–173, title II][/us/pl/110/173/tII], § 205, Dec. 29, 2007, [121 Stat. 2514][/us/stat/121/2514]; [Pub. L. 111–3, title VI][/us/pl/111/3/tVI], § 602, Feb. 4, 2009, [123 Stat. 98][/us/stat/123/98]; [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2102(a)(6), Mar. 23, 2010, [124 Stat. 288][/us/stat/124/288].)
 
  __References in Text__ 
 
@@ -69,23 +69,23 @@
 
     2010—Subsec. (b)(2)(B). [Pub. L. 111–148][/us/pl/111/148] substituted “a high-performing State under [section 1397kk(b)(3)(B) of this title][/us/usc/t42/s1397kk/b/3/B]” for “the child population growth factor under [section 1397dd(m)(5)(B) of this title][/us/usc/t42/s1397dd/m/5/B]”.
 
-    2009—Subsec. (b)(2). [Pub. L. 111–3, § 602(b)(2)][/us/pl/111/3/s602/b/2], added par. (2). Former par. (2) redesignated (4).
+    2009—Subsec. (b)(2). [Pub. L. 111–3][/us/pl/111/3], § 602(b)(2), added par. (2). Former par. (2) redesignated (4).
 
-    [Pub. L. 111–3, § 602(a)][/us/pl/111/3/s602/a], substituted “$20,000,000 for fiscal year 2009” for “$10,000,000 for fiscal year 2000”.
+    [Pub. L. 111–3][/us/pl/111/3], § 602(a), substituted “$20,000,000 for fiscal year 2009” for “$10,000,000 for fiscal year 2000”.
 
-    Subsec. (b)(3), (4). [Pub. L. 111–3, § 602(b)][/us/pl/111/3/s602/b], added par. (3) and redesignated former par. (2) as (4).
+    Subsec. (b)(3), (4). [Pub. L. 111–3][/us/pl/111/3], § 602(b), added par. (3) and redesignated former par. (2) as (4).
 
     2007—Subsec. (b)(2). [Pub. L. 110–173][/us/pl/110/173] inserted before period at end “(except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended)”.
 
-    1999—Subsec. (a)(1). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 705(c)(1)\], substituted “title I” for “title II” before “of the Employee Retirement Income Security Act of 1974,”.
+    1999—Subsec. (a)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VII, § 705(c)(1)\], substituted “title I” for “title II” before “of the Employee Retirement Income Security Act of 1974,”.
 
-    Subsec. (a)(2). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 705(c)(2)\], inserted closing parenthesis before period at end.
+    Subsec. (a)(2). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VII, § 705(c)(2)\], inserted closing parenthesis before period at end.
 
-    Subsec. (b). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 703(a)\], added subsec. (b).
+    Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VII, § 703(a)\], added subsec. (b).
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–148, title II, § 2102(a)][/us/pl/111/148/s2102/a], Mar. 23, 2010, [124 Stat. 288][/us/stat/124/288], provided that the amendment made by [Pub. L. 111–148][/us/pl/111/148] is effective as if included in the enactment of the Children’s Health Insurance Program Reauthorization Act of 2009 ([Pub. L. 111–3][/us/pl/111/3]).
+    [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2102(a), Mar. 23, 2010, [124 Stat. 288][/us/stat/124/288], provided that the amendment made by [Pub. L. 111–148][/us/pl/111/148] is effective as if included in the enactment of the Children’s Health Insurance Program Reauthorization Act of 2009 ([Pub. L. 111–3][/us/pl/111/3]).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -106,15 +106,15 @@
 [/us/usc/t42/s300gg–91/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fa%2F1
 [/us/usc/t42/s1397kk/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397kk%2Fb%2F3%2FB
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4901%2Fa
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F567
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/110/173/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs205
+[/us/pl/110/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2FtII
 [/us/stat/121/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2514
-[/us/pl/111/3/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs602
+[/us/pl/111/3/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVI
 [/us/stat/123/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F98
-[/us/pl/111/148/s2102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fa%2F6
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F288
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F832
@@ -125,14 +125,14 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1397kk/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397kk%2Fb%2F3%2FB
 [/us/usc/t42/s1397dd/m/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fm%2F5%2FB
-[/us/pl/111/3/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs602%2Fb%2F2
-[/us/pl/111/3/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs602%2Fa
-[/us/pl/111/3/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs602%2Fb
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/111/148/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fa
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F288
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3

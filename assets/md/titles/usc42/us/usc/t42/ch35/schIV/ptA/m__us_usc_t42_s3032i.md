@@ -41,7 +41,7 @@
 
         To carry out subsection (a)(1) of this section, the Assistant Secretary shall make grants to or enter into contracts with national nonprofit organizations experienced in providing support and technical assistance on a nationwide basis to States, area agencies on aging, legal assistance providers, ombudsmen, elder abuse prevention programs, and other organizations interested in the legal rights of older individuals.
 
-([Pub. L. 89–73, title IV, § 420][/us/pl/89/73/s420], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2265][/us/stat/114/2265].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 420, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2265][/us/stat/114/2265].)
 
  __Prior Provisions__ 
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t42/s3027/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F11
-[/us/pl/89/73/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs420
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2265
 [/us/pl/89/73/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs420
 [/us/usc/t42/s3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3034

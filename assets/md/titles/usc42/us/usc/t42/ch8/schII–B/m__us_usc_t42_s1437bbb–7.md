@@ -49,7 +49,7 @@
 
             Not later than 60 days after the conclusion of the second year of the demonstration program under this subchapter, the Secretary shall submit to Congress an interim report on the status of the demonstration program and the progress each participating jurisdiction in achieving the purposes of the demonstration program under [section 1437bbb of this title][/us/usc/t42/s1437bbb].
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 408, as added [Pub. L. 105–276, title V, § 561][/us/pl/105/276/s561], Oct. 21, 1998, [112 Stat. 2623][/us/stat/112/2623].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 408, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 561, Oct. 21, 1998, [112 Stat. 2623][/us/stat/112/2623].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t42/s1437bbb–5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437bbb%E2%80%935%2Fb%2F4
 [/us/usc/t42/s1437bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437bbb
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs561
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2623
 
 

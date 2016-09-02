@@ -67,7 +67,7 @@
 
     (g) provide for the maximum use in programs assisted under this section of senior citizens and persons eligible for participation in programs under the Older Americans Act \[[42 U.S.C. 3001][/us/usc/t42/s3001] et seq.\].
 
-([Pub. L. 92–574, § 14][/us/pl/92/574/s14], Oct. 27, 1972, [86 Stat. 1244][/us/stat/86/1244]; [Pub. L. 95–609, § 2][/us/pl/95/609/s2], Nov. 8, 1978, [92 Stat. 3079][/us/stat/92/3079].)
+([Pub. L. 92–574][/us/pl/92/574], § 14, Oct. 27, 1972, [86 Stat. 1244][/us/stat/86/1244]; [Pub. L. 95–609][/us/pl/95/609], § 2, Nov. 8, 1978, [92 Stat. 3079][/us/stat/92/3079].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(2), “[section 44715 of title 49][/us/usc/t49/s44715]” substituted for reference to section 7 of this Act, meaning [section 7 of Pub. L. 92–574][/us/pl/92/574/s7], which generally amended section 611 of the Federal Aviation Act of 1958 (49 App. U.S.C. 1431), on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (b)(2), “[section 44715 of title 49][/us/usc/t49/s44715]” substituted for reference to section 7 of this Act, meaning [section 7 of Pub. L. 92–574][/us/pl/92/574/s7], which generally amended section 611 of the Federal Aviation Act of 1958 (49 App. U.S.C. 1431), on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
@@ -90,16 +90,16 @@
 
 [/us/usc/t49/s44715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44715
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/92/574/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs14
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1244
-[/us/pl/95/609/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs2
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3079
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t49/s44715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44715
 [/us/pl/92/574/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs7
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 

@@ -73,7 +73,7 @@
 
         (4) seek to assist programs in developing a service component that combines students, out-of-school youths, and older adults as participants to provide needed community services.
 
-([Pub. L. 101–610, title I, § 199N][/us/pl/101/610/s199N], as added [Pub. L. 111–13, title I, § 1821][/us/pl/111/13/s1821], Apr. 21, 2009, [123 Stat. 1577][/us/stat/123/1577].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199N, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1821, Apr. 21, 2009, [123 Stat. 1577][/us/stat/123/1577].)
 
  __Effective Date__ 
 
@@ -88,8 +88,8 @@
 
 [/us/usc/t42/s12581/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12581%2Fk
 [/us/usc/t42/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5001
-[/us/pl/101/610/s199N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199N
-[/us/pl/111/13/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1821
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1577
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

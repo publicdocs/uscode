@@ -63,7 +63,7 @@
 
         There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 702, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(c), (d), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 98–369, div. B, title VI, § 2663(j)(2)(C)(i)][/us/pl/98/369/s2663/j/2/C/i], (l)(1), July 18, 1984, [98 Stat. 1170][/us/stat/98/1170], 1171; [Pub. L. 103–296, title I, § 102][/us/pl/103/296/s102], Aug. 15, 1994, [108 Stat. 1465][/us/stat/108/1465]; [Pub. L. 104–121, title I, § 103(e)(1)][/us/pl/104/121/s103/e/1], Mar. 29, 1996, [110 Stat. 851][/us/stat/110/851].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 702, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(c), (d), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(j)(2)(C)(i), (l)(1), July 18, 1984, [98 Stat. 1170][/us/stat/98/1170], 1171; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 102, Aug. 15, 1994, [108 Stat. 1465][/us/stat/108/1465]; [Pub. L. 104–121, title I][/us/pl/104/121/tI], § 103(e)(1), Mar. 29, 1996, [110 Stat. 851][/us/stat/110/851].)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 
     1994—[Pub. L. 103–296][/us/pl/103/296] amended section generally. Prior to amendment, section read as follows: “The Secretary shall perform the duties imposed upon him by this chapter and shall also have the duty of studying and making recommendations as to the most effective methods of providing economic security through social insurance, and as to legislation and matters of administrative policy concerning old-age pensions, unemployment compensation, accident compensation, and related subjects.”
 
-    1984—[Pub. L. 98–369, § 2663][/us/pl/98/369/s2663](l)(1), substituted “Secretary” for “Administrator”.
+    1984—[Pub. L. 98–369][/us/pl/98/369], § 2663(l)(1), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 98–369, § 2663(j)(2)(C)(i)][/us/pl/98/369/s2663/j/2/C/i], which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because “Health, Education, and Welfare” did not appear in text.
+    [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(2)(C)(i), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because “Health, Education, and Welfare” did not appear in text.
 
     1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “him” for “it”.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–121, title I, § 103(e)(2)][/us/pl/104/121/s103/e/2], Mar. 29, 1996, [110 Stat. 851][/us/stat/110/851], provided that: 
+[Pub. L. 104–121, title I][/us/pl/104/121/tI], § 103(e)(2), Mar. 29, 1996, [110 Stat. 851][/us/stat/110/851], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\].”
 
@@ -99,19 +99,19 @@
 
  __Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries__ 
 
-[Pub. L. 108–203, title II, § 202][/us/pl/108/203/s202], Mar. 2, 2004, [118 Stat. 509][/us/stat/118/509], provided that: 
+[Pub. L. 108–203, title II][/us/pl/108/203/tII], § 202, Mar. 2, 2004, [118 Stat. 509][/us/stat/118/509], provided that: 
 
 > “Effective as soon as possible, but not later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary’s work or earnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status.”
 
  __Demonstration Projects Relating to Accountability for Telephone Service Center Communications__ 
 
-    [Pub. L. 101–508, title V, § 5108][/us/pl/101/508/s5108], Nov. 5, 1990, [104 Stat. 1388–269][/us/stat/104/1388-269], directed Secretary of Health and Human Services to develop and carry out demonstration projects designed to implement certain accountability procedures in not fewer than 3 telephone service centers operated by the Social Security Administration, provided that such projects commence not later than 180 days after Nov. 5, 1990, and remain in operation for not less than 1 year and not more than 3 years, and directed Secretary to submit to Congress a written report on the progress of the demonstration projects not later than 90 days after the termination of the project.
+    [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5108, Nov. 5, 1990, [104 Stat. 1388–269][/us/stat/104/1388-269], directed Secretary of Health and Human Services to develop and carry out demonstration projects designed to implement certain accountability procedures in not fewer than 3 telephone service centers operated by the Social Security Administration, provided that such projects commence not later than 180 days after Nov. 5, 1990, and remain in operation for not less than 1 year and not more than 3 years, and directed Secretary to submit to Congress a written report on the progress of the demonstration projects not later than 90 days after the termination of the project.
 
  __Telephone Access to Social Security Administration__ 
 
-    [Pub. L. 103–296, title III, § 302][/us/pl/103/296/s302], Aug. 15, 1994, [108 Stat. 1518][/us/stat/108/1518], directed Comptroller General of the United States to submit to Congress, not later than Jan. 31, 1996, report and study of telephone access to local offices of the Social Security Administration, based on independent assessment of Social Security Administration’s use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration.
+    [Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 302, Aug. 15, 1994, [108 Stat. 1518][/us/stat/108/1518], directed Comptroller General of the United States to submit to Congress, not later than Jan. 31, 1996, report and study of telephone access to local offices of the Social Security Administration, based on independent assessment of Social Security Administration’s use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration.
 
-[Pub. L. 101–508, title V, § 5110][/us/pl/101/508/s5110], Nov. 5, 1990, [104 Stat. 1388–272][/us/stat/104/1388-272], provided that:
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5110, Nov. 5, 1990, [104 Stat. 1388–272][/us/stat/104/1388-272], provided that:
 
 >     “(a)  __Required Minimum Level of Access to Local Offices__  __.—__ 
 
@@ -139,23 +139,23 @@
 
  __Report Regarding Notices in Languages Other Than English__ 
 
-    [Pub. L. 101–239, title X, § 10306(b)][/us/pl/101/239/s10306/b], Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], directed Secretary of Health and Human Resources, not later than Jan. 1, 1991, to submit a report to Congress relating to procedures of Social Security Administration for issuing notices in languages other than English.
+    [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10306(b), Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], directed Secretary of Health and Human Resources, not later than Jan. 1, 1991, to submit a report to Congress relating to procedures of Social Security Administration for issuing notices in languages other than English.
 
  __Study Concerning Establishment of Social Security Administration as an Independent Agency__ 
 
-    [Pub. L. 98–21, title III, § 338][/us/pl/98/21/s338], Apr. 20, 1983, [97 Stat. 132][/us/stat/97/132], as amended by [Pub. L. 98–369, div. B, title VI, § 2662(h)(1)][/us/pl/98/369/s2662/h/1], July 18, 1984, [98 Stat. 1160][/us/stat/98/1160], established, under authority of Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate, a Joint Study Panel on the Social Security Administration to undertake a study of removing Social Security Administration from Department of Health and Human Services and establishing it as an independent agency in the executive branch with its own independent administrative structure, including possibility of such a structure headed by a board appointed by the President, by and with the advice and consent of the Senate, and to submit, not later than Apr. 1, 1984, a report of the findings of the study, and provided that the Panel would expire 30 days after the date of the submission of the report.
+    [Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 338, Apr. 20, 1983, [97 Stat. 132][/us/stat/97/132], as amended by [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2662(h)(1), July 18, 1984, [98 Stat. 1160][/us/stat/98/1160], established, under authority of Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate, a Joint Study Panel on the Social Security Administration to undertake a study of removing Social Security Administration from Department of Health and Human Services and establishing it as an independent agency in the executive branch with its own independent administrative structure, including possibility of such a structure headed by a board appointed by the President, by and with the advice and consent of the Senate, and to submit, not later than Apr. 1, 1984, a report of the findings of the study, and provided that the Panel would expire 30 days after the date of the submission of the report.
 
  __Earnings Sharing Implementation Report__ 
 
-    [Pub. L. 98–21, title III, § 343][/us/pl/98/21/s343], Apr. 20, 1983, [97 Stat. 136][/us/stat/97/136], directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
+    [Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 343, Apr. 20, 1983, [97 Stat. 136][/us/stat/97/136], directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
 
  __Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary__ 
 
-    [Pub. L. 95–216, title III, § 311][/us/pl/95/216/s311], Dec. 20, 1977, [91 Stat. 1531][/us/stat/91/1531], as amended by 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783], directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
+    [Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 311, Dec. 20, 1977, [91 Stat. 1531][/us/stat/91/1531], as amended by 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783], directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
 
  __Proposals for Elimination of Dependency and Sex Discrimination Under Social Security Program; Study and Report to Congress__ 
 
-    [Pub. L. 95–216, title III, § 341][/us/pl/95/216/s341], Dec. 20, 1977, [91 Stat. 1548][/us/stat/91/1548], directed Secretary of Health, Education, and Welfare, in consultation with the Task Force on Sex Discrimination, to make a detailed study of proposals to eliminate dependency as a factor in the determination of entitlement to spouse’s benefits under the program established under subchapter II of this chapter and of proposals to bring about equal treatment for men and women in any and all respects under such program and submit a report to Congress within 6 months of Dec. 20, 1977.
+    [Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 341, Dec. 20, 1977, [91 Stat. 1548][/us/stat/91/1548], directed Secretary of Health, Education, and Welfare, in consultation with the Task Force on Sex Discrimination, to make a detailed study of proposals to eliminate dependency as a factor in the determination of entitlement to spouse’s benefits under the program established under subchapter II of this chapter and of proposals to bring about equal treatment for men and women in any and all respects under such program and submit a report to Congress within 6 months of Dec. 20, 1977.
 
 ----------
 
@@ -172,18 +172,18 @@
 [/us/stat/49/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F636
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/98/369/s2663/j/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FC%2Fi
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1170
-[/us/pl/103/296/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs102
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1465
-[/us/pl/104/121/s103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs103%2Fe%2F1
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F851
 [/us/pl/95/452/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs3%2Fa
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/98/369/s2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663
-[/us/pl/98/369/s2663/j/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FC%2Fi
-[/us/pl/104/121/s103/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs103%2Fe%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F851
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
@@ -191,26 +191,26 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/108/203/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs202
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F509
-[/us/pl/101/508/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5108
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-269
-[/us/pl/103/296/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs302
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1518
-[/us/pl/101/508/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5110
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-272
-[/us/pl/101/239/s10306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10306%2Fb
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2484
-[/us/pl/98/21/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs338
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F132
-[/us/pl/98/369/s2662/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fh%2F1
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1160
-[/us/pl/98/21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs343
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F136
-[/us/pl/95/216/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs311
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1531
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/95/216/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs341
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1548
 
 

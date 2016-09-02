@@ -29,7 +29,7 @@
 
         (3) may be unambiguously deduced from the elder’s life history.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2012, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)][/us/pl/111/148/s6703/a/1/C], Mar. 23, 2010, [124 Stat. 785][/us/stat/124/785].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2012, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(a)(1)(C), Mar. 23, 2010, [124 Stat. 785][/us/stat/124/785].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6703/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fa%2F1%2FC
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F785
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

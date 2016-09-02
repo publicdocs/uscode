@@ -53,7 +53,7 @@
 
         For purposes of environmental review, a grant under this chapter shall be treated as assistance for a special project that is subject to [section 3547 of this title][/us/usc/t42/s3547], and shall be subject to the regulations issued by the Secretary to implement such section.
 
-([Pub. L. 101–625, title VIII, § 856][/us/pl/101/625/s856], Nov. 28, 1990, [104 Stat. 4378][/us/stat/104/4378]; [Pub. L. 102–550, title VI, § 606(f)][/us/pl/102/550/s606/f], (j)(4), (11)(A), Oct. 28, 1992, [106 Stat. 3809–3811][/us/stat/106/3809-3811]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 203(c)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24.)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 856, Nov. 28, 1990, [104 Stat. 4378][/us/stat/104/4378]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(f), (j)(4), (11)(A), Oct. 28, 1992, [106 Stat. 3809–3811][/us/stat/106/3809-3811]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 203(c)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24.)
 
  __References in Text__ 
 
@@ -63,11 +63,11 @@
 
     2000—Subsec. (h). [Pub. L. 106–377][/us/pl/106/377] added subsec. (h).
 
-    1992—Subsec. (c). [Pub. L. 102–550, § 606(j)(4)][/us/pl/102/550/s606/j/4], (11)(A), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “services for such eligible persons” for “services for such individuals”.
+    1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(4), (11)(A), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “services for such eligible persons” for “services for such individuals”.
 
-    Subsec. (d). [Pub. L. 102–550, § 606(f)(1)][/us/pl/102/550/s606/f/1], added subsec. (d) and struck out former subsec. (d) which read as follows: “No Fee.—The recipient shall agree that no fee will be charged of any low-income individual for any services provided with amounts from a grant under this chapter and that if fees are charged of any other individuals, the fees will be based on the income and resources of the individual.”
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 606(f)(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “No Fee.—The recipient shall agree that no fee will be charged of any low-income individual for any services provided with amounts from a grant under this chapter and that if fees are charged of any other individuals, the fees will be based on the income and resources of the individual.”
 
-    Subsec. (g). [Pub. L. 102–550, § 606(f)(2)][/us/pl/102/550/s606/f/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 102–550][/us/pl/102/550], § 606(f)(2), added subsec. (g).
 
 ----------
 
@@ -78,16 +78,16 @@
 
 [/us/usc/t42/s12904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12904
 [/us/usc/t42/s3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3547
-[/us/pl/101/625/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs856
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4378
-[/us/pl/102/550/s606/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Ff
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3809-3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3809-3811
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
-[/us/pl/102/550/s606/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F4
-[/us/pl/102/550/s606/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Ff%2F1
-[/us/pl/102/550/s606/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Ff%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

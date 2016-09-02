@@ -27,11 +27,11 @@
 
         (2) ensure that recipients of such grants use such systems to participate in crime reporting programs administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.
 
-([Pub. L. 90–351, title I, § 107][/us/pl/90/351/s107], as added [Pub. L. 109–162, title XI, § 1160(a)][/us/pl/109/162/s1160/a], Jan. 5, 2006, [119 Stat. 3117][/us/stat/119/3117].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 107, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1160(a), Jan. 5, 2006, [119 Stat. 3117][/us/stat/119/3117].)
 
  __Effective Date__ 
 
-[Pub. L. 109–162, title XI, § 1160(b)][/us/pl/109/162/s1160/b], Jan. 5, 2006, [119 Stat. 3117][/us/stat/119/3117], as amended by [Pub. L. 109–271, § 8(n)(4)(A)][/us/pl/109/271/s8/n/4/A], Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that: 
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1160(b), Jan. 5, 2006, [119 Stat. 3117][/us/stat/119/3117], as amended by [Pub. L. 109–271][/us/pl/109/271], § 8(n)(4)(A), Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that: 
 
 > “This section \[enacting this section\] and the amendment made by this section take effect on October 1, 2006.”
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/90/351/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs107
-[/us/pl/109/162/s1160/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1160%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3117
-[/us/pl/109/162/s1160/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1160%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3117
-[/us/pl/109/271/s8/n/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fn%2F4%2FA
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F768
 
 

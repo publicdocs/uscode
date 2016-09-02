@@ -59,7 +59,7 @@
 
         Upon termination on  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  any license to which this section applies, the Commission shall determine whether or not the licensee has complied with all applicable standards and requirements under such license.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 83, as added [Pub. L. 95–604, title II, § 202(a)][/us/pl/95/604/s202/a], Nov. 8, 1978, [92 Stat. 3033][/us/stat/92/3033]; amended [Pub. L. 96–106, § 22(c)][/us/pl/96/106/s22/c], (e), Nov. 9, 1979, [93 Stat. 800][/us/stat/93/800]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 83, as added [Pub. L. 95–604, title II][/us/pl/95/604/tII], § 202(a), Nov. 8, 1978, [92 Stat. 3033][/us/stat/92/3033]; amended [Pub. L. 96–106][/us/pl/96/106], § 22(c), (e), Nov. 9, 1979, [93 Stat. 800][/us/stat/93/800]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __References in Text__ 
 
@@ -67,19 +67,19 @@
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–106, § 22(c)][/us/pl/96/106/s22/c], substituted “Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination” for “Any license in effect on November 8, 1978, shall either contain such terms and conditions on renewal thereof after the effective date of this section, or comply with paragraphs (1) and (2) upon the termination of such license, whichever first occurs”.
+    1979—Subsec. (a). [Pub. L. 96–106][/us/pl/96/106], § 22(c), substituted “Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination” for “Any license in effect on November 8, 1978, shall either contain such terms and conditions on renewal thereof after the effective date of this section, or comply with paragraphs (1) and (2) upon the termination of such license, whichever first occurs”.
 
-    Subsec. (b)(1)(A). [Pub. L. 96–106, § 22(e)][/us/pl/96/106/s22/e], among other changes, substituted reference to [section 2111 of this title][/us/usc/t42/s2111] for reference to [section 2114(b) of this title][/us/usc/t42/s2114/b].
+    Subsec. (b)(1)(A). [Pub. L. 96–106][/us/pl/96/106], § 22(e), among other changes, substituted reference to [section 2111 of this title][/us/usc/t42/s2111] for reference to [section 2114(b) of this title][/us/usc/t42/s2114/b].
 
  __Effective Date__ 
 
-[Pub. L. 95–604, title II, § 202(b)][/us/pl/95/604/s202/b], Nov. 8, 1978, [92 Stat. 3036][/us/stat/92/3036], provided that: 
+[Pub. L. 95–604, title II][/us/pl/95/604/tII], § 202(b), Nov. 8, 1978, [92 Stat. 3036][/us/stat/92/3036], provided that: 
 
 > “This section \[enacting this section\] shall be effective three years after the enactment of this Act \[Nov. 8, 1978\].”
 
  __Consolidation of Licenses and Procedures__ 
 
-[Pub. L. 95–604, title II, § 209][/us/pl/95/604/s209], Nov. 8, 1978, [92 Stat. 3041][/us/stat/92/3041], provided that: 
+[Pub. L. 95–604, title II][/us/pl/95/604/tII], § 209, Nov. 8, 1978, [92 Stat. 3041][/us/stat/92/3041], provided that: 
 
 > “The Nuclear Regulatory Commission shall consolidate, to the maximum extent practicable, licenses and licensing procedures under amendments made by this title \[see Effective Date of 1978 Amendment note set out under [section 2014 of this title][/us/usc/t42/s2014]\] with licenses and licensing procedures under other authorities contained in the Atomic Energy Act of 1954 \[this chapter\].”
 
@@ -105,20 +105,20 @@
 [/us/usc/t42/s7914/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7914%2Fh
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/604/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs202%2Fa
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3033
-[/us/pl/96/106/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs22%2Fc
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F800
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/pl/95/604/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs202%2Fb
-[/us/pl/96/106/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs22%2Fc
-[/us/pl/96/106/s22/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs22%2Fe
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/usc/t42/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2111
 [/us/usc/t42/s2114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2114%2Fb
-[/us/pl/95/604/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs202%2Fb
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3036
-[/us/pl/95/604/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs209
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3041
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
 [/us/pl/95/604/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs208

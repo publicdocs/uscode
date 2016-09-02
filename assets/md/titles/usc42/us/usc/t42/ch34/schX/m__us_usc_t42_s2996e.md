@@ -93,7 +93,7 @@
 
         If an action is commenced by the Corporation or by a recipient and a final order is entered in favor of the defendant and against the Corporation or a recipient’s plaintiff, the court shall, upon motion by the defendant and upon a finding by the court that the action was commenced or pursued for the sole purpose of harassment of the defendant or that the Corporation or a recipient’s plaintiff maliciously abused legal process, enter an order (which shall be appealable before being made final) awarding reasonable costs and legal fees incurred by the defendant in defense of the action, except when in contravention of a State law, a rule of court, or a statute of general applicability. Any such costs and fees shall be directly paid by the Corporation.
 
-([Pub. L. 88–452, title X, § 1006][/us/pl/88/452/s1006], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 381][/us/stat/88/381]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 5(a), (b), 6, 7(a), 8, Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619], 1620.)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1006, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 381][/us/stat/88/381]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 5(a), (b), 6, 7(a), 8, Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619], 1620.)
 
  __References in Text__ 
 
@@ -101,17 +101,17 @@
 
  __Amendments__ 
 
-    1977—Subsec. (a)(3). [Pub. L. 95–222, § 5(a)][/us/pl/95/222/s5/a], (b), substituted “, or” for “and not” and in par. (A) inserted exception for broad general legal or policy research.
+    1977—Subsec. (a)(3). [Pub. L. 95–222][/us/pl/95/222], § 5(a), (b), substituted “, or” for “and not” and in par. (A) inserted exception for broad general legal or policy research.
 
-    Subsec. (b)(1). [Pub. L. 95–222, § 6(a)][/us/pl/95/222/s6/a], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (b)(1). [Pub. L. 95–222][/us/pl/95/222], § 6(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (c)(1). [Pub. L. 95–222, § 6(b)][/us/pl/95/222/s6/b], inserted provisions setting forth situations when the Corporation may participate in litigation.
+    Subsec. (c)(1). [Pub. L. 95–222][/us/pl/95/222], § 6(b), inserted provisions setting forth situations when the Corporation may participate in litigation.
 
-    Subsec. (d)(6). [Pub. L. 95–222, § 6(c)][/us/pl/95/222/s6/c], added par. (6).
+    Subsec. (d)(6). [Pub. L. 95–222][/us/pl/95/222], § 6(c), added par. (6).
 
-    Subsec. (e)(2). [Pub. L. 95–222, § 7(a)][/us/pl/95/222/s7/a], inserted provisions relating to staff attorneys.
+    Subsec. (e)(2). [Pub. L. 95–222][/us/pl/95/222], § 7(a), inserted provisions relating to staff attorneys.
 
-    Subsec. (f). [Pub. L. 95–222, § 8][/us/pl/95/222/s8], substituted “the court shall” for “the court may”.
+    Subsec. (f). [Pub. L. 95–222][/us/pl/95/222], § 8, substituted “the court shall” for “the court may”.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -130,19 +130,19 @@
 [/us/usc/t42/s2996f/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996f%2Fa%2F5
 [/us/usc/t42/s2996j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996j
 [/us/usc/t42/s2996j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996j
-[/us/pl/88/452/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1006
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F381
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1619
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
-[/us/pl/95/222/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs5%2Fa
-[/us/pl/95/222/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs6%2Fa
-[/us/pl/95/222/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs6%2Fb
-[/us/pl/95/222/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs6%2Fc
-[/us/pl/95/222/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs7%2Fa
-[/us/pl/95/222/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs8
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/95/222/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs17%2Fb
 [/us/usc/t42/s2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996

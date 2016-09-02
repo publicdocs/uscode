@@ -85,7 +85,7 @@
 
             The Secretary shall establish a process to work with a State described in paragraph (1) to provide assistance necessary to assist the State’s Exchange in coming into compliance with the standards for approval under this section.
 
-([Pub. L. 111–148, title I, § 1321][/us/pl/111/148/s1321], Mar. 23, 2010, [124 Stat. 186][/us/stat/124/186].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1321, Mar. 23, 2010, [124 Stat. 186][/us/stat/124/186].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
     The Public Health Service Act, referred to in subsec. (a)(1), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    Section 2736 of the Public Health Service Act, referred to in subsec. (c)(2), was renumbered section 2723 of that Act by [Pub. L. 111–148, § 1563(c)(13)(C)][/us/pl/111/148/s1563/c/13/C] (formerly § 1562(c)(13)(C)), Mar. 23, 2010, [124 Stat. 269][/us/stat/124/269], and is classified to [section 300gg–22 of this title][/us/usc/t42/s300gg–22].
+    Section 2736 of the Public Health Service Act, referred to in subsec. (c)(2), was renumbered section 2723 of that Act by [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(13)(C) (formerly § 1562(c)(13)(C)), Mar. 23, 2010, [124 Stat. 269][/us/stat/124/269], and is classified to [section 300gg–22 of this title][/us/usc/t42/s300gg–22].
 
     This Act, referred to in subsec. (e)(1), is [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 119][/us/stat/124/119], known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title][/us/usc/t42/s18001] and Tables.
 
@@ -108,7 +108,7 @@
 
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s300gg–22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9322%2Fb
-[/us/pl/111/148/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1321
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F186
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
@@ -121,7 +121,7 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/148/s1563/c/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F13%2FC
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F269
 [/us/usc/t42/s300gg–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9322
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

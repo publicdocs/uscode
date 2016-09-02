@@ -17,7 +17,7 @@
 
     Each contract or other arrangement executed pursuant to this chapter which relates to scientific or engineering research shall contain provisions governing the disposition of inventions produced thereunder in a manner calculated to protect the public interest and the equities of the individual or organization with which the contract or other arrangement is executed: Provided, however, That nothing in this chapter shall be construed to authorize the Foundation to enter into any contractual or other arrangement inconsistent with any provision of law affecting the issuance or use of patents.
 
-([May 10, 1950, ch. 171, § 12][/us/act/1950-05-10/ch171/s12], [64 Stat. 154][/us/stat/64/154]; [Pub. L. 99–159, title I][/us/pl/99/159], §§ 109(c), 110(a)(15), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], 891.)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 12, [64 Stat. 154][/us/stat/64/154]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], §§ 109(c), 110(a)(15), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], 891.)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1950-05-10/ch171/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs12
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F154
-[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F889
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 

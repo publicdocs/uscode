@@ -17,7 +17,7 @@
 
     The provisions of chapter 91 of title 31 shall apply to the program authorized under this chapter to the same extent as they apply to wholly owned Government corporations.
 
-([Pub. L. 90–448, title XIII, § 1373][/us/pl/90/448/s1373], Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589]; [Pub. L. 98–479, title II, § 203(j)(3)][/us/pl/98/479/s203/j/3], Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1373, Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(j)(3), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1373
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F589
-[/us/pl/98/479/s203/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203%2Fj%2F3
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2231
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

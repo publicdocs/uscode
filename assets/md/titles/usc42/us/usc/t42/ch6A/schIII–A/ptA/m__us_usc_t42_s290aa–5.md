@@ -55,7 +55,7 @@
 
         There is authorized to be appropriated to carry out this section, $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 506, formerly § 512, as added [Pub. L. 98–509, title II, § 206(a)][/us/pl/98/509/s206/a], Oct. 19, 1984, [98 Stat. 2361][/us/stat/98/2361]; amended [Pub. L. 100–77, title VI, § 613(a)][/us/pl/100/77/s613/a], (b), July 22, 1987, [101 Stat. 524][/us/stat/101/524]; renumbered § 506 and amended [Pub. L. 102–321, title I, § 106][/us/pl/102/321/s106], July 10, 1992, [106 Stat. 334][/us/stat/106/334]; [Pub. L. 106–310, div. B, title XXXII, § 3202][/us/pl/106/310/s3202], Oct. 17, 2000, [114 Stat. 1190][/us/stat/114/1190]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 506, formerly § 512, as added [Pub. L. 98–509, title II][/us/pl/98/509/tII], § 206(a), Oct. 19, 1984, [98 Stat. 2361][/us/stat/98/2361]; amended [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 613(a), (b), July 22, 1987, [101 Stat. 524][/us/stat/101/524]; renumbered § 506 and amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 106, July 10, 1992, [106 Stat. 334][/us/stat/106/334]; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3202, Oct. 17, 2000, [114 Stat. 1190][/us/stat/114/1190]; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 290aa–5, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 507, formerly § 506, as added Apr. 26, 1983, [Pub. L. 98–24, § 2(b)(7)][/us/pl/98/24/s2/b/7], [97 Stat. 178][/us/stat/97/178]; amended Nov. 20, 1985, [Pub. L. 99–158, § 3(c)][/us/pl/99/158/s3/c], [99 Stat. 879][/us/stat/99/879]; renumbered § 507 and amended Oct. 27, 1986, [Pub. L. 99–570, title IV][/us/pl/99/570], §§ 4004(a), 4007, [100 Stat. 3207–109][/us/stat/100/3207-109], 3207–115, which related to peer review of biomedical and behavioral research and development grants, was renumbered section 504 of act July 1, 1944, by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 290aa–3 of this title][/us/usc/t42/s290aa–3].
+    A prior section 290aa–5, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 507, formerly § 506, as added Apr. 26, 1983, [Pub. L. 98–24][/us/pl/98/24], § 2(b)(7), [97 Stat. 178][/us/stat/97/178]; amended Nov. 20, 1985, [Pub. L. 99–158][/us/pl/99/158], § 3(c), [99 Stat. 879][/us/stat/99/879]; renumbered § 507 and amended Oct. 27, 1986, [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], §§ 4004(a), 4007, [100 Stat. 3207–109][/us/stat/100/3207-109], 3207–115, which related to peer review of biomedical and behavioral research and development grants, was renumbered section 504 of act July 1, 1944, by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 290aa–3 of this title][/us/usc/t42/s290aa–3].
 
     A prior section 506 of act July 1, 1944, which was classified to [section 224 of this title][/us/usc/t42/s224], was successively renumbered by subsequent acts, and transferred, see [section 238c of this title][/us/usc/t42/s238c].
 
@@ -79,7 +79,7 @@
 
  __Change of Name__ 
 
-    Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by [Pub. L. 108–199, div. G, title II, § 216][/us/pl/108/199/s216], Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].
+    Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by [Pub. L. 108–199, div. G, title II][/us/pl/108/199/dG/tII], § 216, Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].
 
  __Effective Date of 1992 Amendment__ 
 
@@ -94,24 +94,24 @@
 
 [/us/usc/t42/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11311
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/509/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs206%2Fa
+[/us/pl/98/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtII
 [/us/stat/98/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2361
-[/us/pl/100/77/s613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs613%2Fa
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F524
-[/us/pl/102/321/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs106
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F334
-[/us/pl/106/310/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3202
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1190
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/usc/t42/s290bb–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%931a
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/24/s2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F7
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F178
-[/us/pl/99/158/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fc
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-109
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%933
@@ -122,7 +122,7 @@
 [/us/usc/t42/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11311
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
-[/us/pl/108/199/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs216
+[/us/pl/108/199/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtII
 [/us/stat/118/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F394
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321

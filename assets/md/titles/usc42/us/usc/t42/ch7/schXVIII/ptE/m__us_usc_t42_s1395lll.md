@@ -399,7 +399,7 @@
 
         Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1899B, as added [Pub. L. 113–185, § 2(a)][/us/pl/113/185/s2/a], Oct. 6, 2014, [128 Stat. 1952][/us/stat/128/1952].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1899B, as added [Pub. L. 113–185][/us/pl/113/185], § 2(a), Oct. 6, 2014, [128 Stat. 1952][/us/stat/128/1952].)
 
  __References in Text__ 
 
@@ -407,7 +407,7 @@
 
  __Improving Payment Accuracy Under the PAC Payment Systems and Other Medicare Payment Systems__ 
 
-[Pub. L. 113–185, § 2(d)][/us/pl/113/185/s2/d], Oct. 6, 2014, [128 Stat. 1966][/us/stat/128/1966], provided that:
+[Pub. L. 113–185][/us/pl/113/185], § 2(d), Oct. 6, 2014, [128 Stat. 1966][/us/stat/128/1966], provided that:
 
 >     “(1) __Studies and reports of effect of certain information on quality and resource use.—__ 
 
@@ -510,10 +510,10 @@
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/113/185/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fa
+[/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
 [/us/stat/128/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1952
 [/us/pl/113/185/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fd
-[/us/pl/113/185/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fd
+[/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
 [/us/stat/128/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1966
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

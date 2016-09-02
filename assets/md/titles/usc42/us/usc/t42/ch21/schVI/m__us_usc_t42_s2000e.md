@@ -57,7 +57,7 @@
 
     (n) The term “respondent” means an employer, employment agency, labor organization, joint labor-management committee controlling apprenticeship or other training or retraining program, including an on-the-job training program, or Federal entity subject to [section 2000e–16 of this title][/us/usc/t42/s2000e–16].
 
-([Pub. L. 88–352, title VII, § 701][/us/pl/88/352/s701], July 2, 1964, [78 Stat. 253][/us/stat/78/253]; [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 662][/us/stat/80/662]; [Pub. L. 92–261, § 2][/us/pl/92/261/s2], Mar. 24, 1972, [86 Stat. 103][/us/stat/86/103]; [Pub. L. 95–555, § 1][/us/pl/95/555/s1], Oct. 31, 1978, [92 Stat. 2076][/us/stat/92/2076]; [Pub. L. 95–598, title III, § 330][/us/pl/95/598/s330], Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–166, title I][/us/pl/102/166], §§ 104, 109(a), Nov. 21, 1991, [105 Stat. 1074][/us/stat/105/1074], 1077.)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 701, July 2, 1964, [78 Stat. 253][/us/stat/78/253]; [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 662][/us/stat/80/662]; [Pub. L. 92–261][/us/pl/92/261], § 2, Mar. 24, 1972, [86 Stat. 103][/us/stat/86/103]; [Pub. L. 95–555][/us/pl/95/555], § 1, Oct. 31, 1978, [92 Stat. 2076][/us/stat/92/2076]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 330, Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], §§ 104, 109(a), Nov. 21, 1991, [105 Stat. 1074][/us/stat/105/1074], 1077.)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
  __Amendments__ 
 
-    1991—Subsec. (f). [Pub. L. 102–166, § 109(a)][/us/pl/102/166/s109/a], inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
+    1991—Subsec. (f). [Pub. L. 102–166][/us/pl/102/166], § 109(a), inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
 
-    Subsecs. (l) to (n). [Pub. L. 102–166, § 104][/us/pl/102/166/s104], added subsecs. (l) to (n).
+    Subsecs. (l) to (n). [Pub. L. 102–166][/us/pl/102/166], § 104, added subsecs. (l) to (n).
 
     1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -83,19 +83,19 @@
 
     Subsec. (k). [Pub. L. 95–555][/us/pl/95/555] added subsec. (k).
 
-    1972—Subsec. (a). [Pub. L. 92–261, § 2(1)][/us/pl/92/261/s2/1], included within “person” governments, governmental agencies, and political subdivisions.
+    1972—Subsec. (a). [Pub. L. 92–261][/us/pl/92/261], § 2(1), included within “person” governments, governmental agencies, and political subdivisions.
 
-    Subsec. (b). [Pub. L. 92–261, § 2(2)][/us/pl/92/261/s2/2], substituted “fifteen or more employees” for “twenty-five or more employees”, extended coverage to include State and local governments, excepted from coverage any department or agency of the District of Columbia subject by statute to procedures of the competitive service, as defined in [section 2102 of title 5][/us/usc/t5/s2102], and substituted provisions under which persons having fewer than twenty-five employees during the first year after March 24, 1972, were not to be considered employers, for provisions under which persons having fewer than a specified number of employees during the first year after the effective date of this section, and the second and third years after such date were not to be considered employers.
+    Subsec. (b). [Pub. L. 92–261][/us/pl/92/261], § 2(2), substituted “fifteen or more employees” for “twenty-five or more employees”, extended coverage to include State and local governments, excepted from coverage any department or agency of the District of Columbia subject by statute to procedures of the competitive service, as defined in [section 2102 of title 5][/us/usc/t5/s2102], and substituted provisions under which persons having fewer than twenty-five employees during the first year after March 24, 1972, were not to be considered employers, for provisions under which persons having fewer than a specified number of employees during the first year after the effective date of this section, and the second and third years after such date were not to be considered employers.
 
-    Subsec. (c). [Pub. L. 92–261, § 2(3)][/us/pl/92/261/s2/3], struck out from term “employment agency” exemption from coverage for agencies of the United States, States or political subdivisions of States, other than the United States Employment Service and the system of State and local employment services receiving Federal assistance.
+    Subsec. (c). [Pub. L. 92–261][/us/pl/92/261], § 2(3), struck out from term “employment agency” exemption from coverage for agencies of the United States, States or political subdivisions of States, other than the United States Employment Service and the system of State and local employment services receiving Federal assistance.
 
-    Subsec. (e). [Pub. L. 92–261, § 2(4)][/us/pl/92/261/s2/4], substituted provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as twenty-five or more during the first year after March 24, 1972, and fifteen or more thereafter, for provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as one hundred or more during the first year after the effective date of this section, seventy-five or more during the second year after such date, fifty or more during the third year after such date, and twenty-five or more thereafter.
+    Subsec. (e). [Pub. L. 92–261][/us/pl/92/261], § 2(4), substituted provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as twenty-five or more during the first year after March 24, 1972, and fifteen or more thereafter, for provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as one hundred or more during the first year after the effective date of this section, seventy-five or more during the second year after such date, fifty or more during the third year after such date, and twenty-five or more thereafter.
 
-    Subsec. (f). [Pub. L. 92–261, § 2(5)][/us/pl/92/261/s2/5], inserted provisions enumerating persons excepted from term “employee”.
+    Subsec. (f). [Pub. L. 92–261][/us/pl/92/261], § 2(5), inserted provisions enumerating persons excepted from term “employee”.
 
-    Subsec. (h). [Pub. L. 92–261, § 2(6)][/us/pl/92/261/s2/6], inserted “, and further includes any governmental industry, business, or activity” after “Labor-Management Reporting and Disclosure Act of 1959”.
+    Subsec. (h). [Pub. L. 92–261][/us/pl/92/261], § 2(6), inserted “, and further includes any governmental industry, business, or activity” after “Labor-Management Reporting and Disclosure Act of 1959”.
 
-    Subsec. (j). [Pub. L. 92–261, § 2(7)][/us/pl/92/261/s2/7], added subsec. (j).
+    Subsec. (j). [Pub. L. 92–261][/us/pl/92/261], § 2(7), added subsec. (j).
 
     1966—Subsec. (b). [Pub. L. 89–554][/us/pl/89/554] struck out proviso which stated that it shall be the policy of the United States to insure equal employment opportunities for Federal employees without discrimination because of race, color, religion, sex, or national origin and directed the President to utilize his existing authority to effectuate this policy.
 
@@ -103,7 +103,7 @@
 
     Amendment by [section 104 of Pub. L. 102–166][/us/pl/102/166/s104] effective Nov. 21, 1991, except as otherwise provided, see [section 402 of Pub. L. 102–166][/us/pl/102/166/s402], set out as a note under [section 1981 of this title][/us/usc/t42/s1981].
 
-[Pub. L. 102–166, title I, § 109(c)][/us/pl/102/166/s109/c] Nov. 21, 1991, [105 Stat. 1078][/us/stat/105/1078], provided that: 
+[Pub. L. 102–166, title I][/us/pl/102/166/tI], § 109(c) Nov. 21, 1991, [105 Stat. 1078][/us/stat/105/1078], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2000e–1, 12111, and 12112 of this title\] shall not apply with respect to conduct occurring before the date of the enactment of this Act \[Nov. 21, 1991\].”
 
@@ -113,7 +113,7 @@
 
  __Effective Date of 1978 Amendment; Exceptions to Application__ 
 
-[Pub. L. 95–555, § 2][/us/pl/95/555/s2], Oct. 31, 1978, [92 Stat. 2076][/us/stat/92/2076], provided that:
+[Pub. L. 95–555][/us/pl/95/555], § 2, Oct. 31, 1978, [92 Stat. 2076][/us/stat/92/2076], provided that:
 
 >     “(a) Except as provided in subsection (b), the amendment made by this Act \[amending this section\] shall be effective on the date of enactment \[Oct. 31, 1978\].
 
@@ -121,7 +121,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 88–352, title VII, § 716(a)][/us/pl/88/352/s716/a], (b), July 2, 1964, [78 Stat. 266][/us/stat/78/266], provided that:
+[Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 716(a), (b), July 2, 1964, [78 Stat. 266][/us/stat/78/266], provided that:
 
 >     “(a) This title \[enacting this section and sections 2000e–1, 2000e–4, 2000e–7 to 2000e–15 of this title, and amending sections 2204 and 2205(a)(45) of former Title 5, Executive Departments and Government Officers and Employees\] shall become effective one year after the date of its enactment \[July 2, 1964\].
 
@@ -129,11 +129,11 @@
 
  __Glass Ceiling__ 
 
-    [Pub. L. 102–166, title II][/us/pl/102/166], Nov. 21, 1991, [105 Stat. 1081–1087][/us/stat/105/1081-1087], entitled the “Glass Ceiling Act of 1991”, established a Glass Ceiling Commission which was to submit to Congress, no later than 15 months after Nov. 21, 1991, study and recommendations concerning eliminating artificial barriers to advancement of women and minorities in the workplace and increasing opportunities and developmental experiences of women and minorities to foster advancement to management and decisionmaking positions in businesses, authorized creation of a National Award for Diversity and Excellence in American Executive Management which was to be awarded annually by the Commission to a qualified business concern which promoted more diverse skilled work force at management and decisionmaking levels in business, and further provided for composition of Commission, powers, staff and consultants, confidentiality of information, appropriations, and termination of Commission and authority to make awards 4 years after Nov. 21, 1991.
+    [Pub. L. 102–166, title II][/us/pl/102/166/tII], Nov. 21, 1991, [105 Stat. 1081–1087][/us/stat/105/1081-1087], entitled the “Glass Ceiling Act of 1991”, established a Glass Ceiling Commission which was to submit to Congress, no later than 15 months after Nov. 21, 1991, study and recommendations concerning eliminating artificial barriers to advancement of women and minorities in the workplace and increasing opportunities and developmental experiences of women and minorities to foster advancement to management and decisionmaking positions in businesses, authorized creation of a National Award for Diversity and Excellence in American Executive Management which was to be awarded annually by the Commission to a qualified business concern which promoted more diverse skilled work force at management and decisionmaking levels in business, and further provided for composition of Commission, powers, staff and consultants, confidentiality of information, appropriations, and termination of Commission and authority to make awards 4 years after Nov. 21, 1991.
 
  __Readjustment of Benefits__ 
 
-[Pub. L. 95–555, § 3][/us/pl/95/555/s3], Oct. 31, 1978, [92 Stat. 2076][/us/stat/92/2076], provided that: 
+[Pub. L. 95–555][/us/pl/95/555], § 3, Oct. 31, 1978, [92 Stat. 2076][/us/stat/92/2076], provided that: 
 
 > “Until the expiration of a period of one year from the date of enactment of this Act \[Oct. 31, 1978\] or, if there is an applicable collective-bargaining agreement in effect on the date of enactment of this Act, until the termination of that agreement, no person who, on the date of enactment of this Act is providing either by direct payment or by making contributions to a fringe benefit fund or insurance program, benefits in violation with this Act \[amending this section and enacting provisions set out above\] shall, in order to come into compliance with this Act, reduce the benefits or the compensation provided any employee on the date of enactment of this Act, either directly or by failing to provide sufficient contributions to a fringe benefit fund or insurance program: Provided, That where the costs of such benefits on the date of enactment of this Act are apportioned between employers and employees, the payments or contributions required to comply with this Act may be made by employers and employees in the same proportion: And provided further, That nothing in this section shall prevent the readjustment of benefits or compensation for reasons unrelated to compliance with this Act.”
 
@@ -882,19 +882,19 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t42/s2000e–2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%932%2Fh
 [/us/usc/t42/s2000e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316
-[/us/pl/88/352/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs701
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F253
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F662
-[/us/pl/92/261/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F103
-[/us/pl/95/555/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F555%2Fs1
+[/us/pl/95/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F555
 [/us/stat/92/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2076
-[/us/pl/95/598/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs330
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2679
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1074
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F449
@@ -909,35 +909,35 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
-[/us/pl/102/166/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs109%2Fa
-[/us/pl/102/166/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs104
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F555
-[/us/pl/92/261/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2%2F1
-[/us/pl/92/261/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2%2F2
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
-[/us/pl/92/261/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2%2F3
-[/us/pl/92/261/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2%2F4
-[/us/pl/92/261/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2%2F5
-[/us/pl/92/261/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2%2F6
-[/us/pl/92/261/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs2%2F7
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/pl/102/166/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs104
 [/us/pl/102/166/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs402
 [/us/usc/t42/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981
-[/us/pl/102/166/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs109%2Fc
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1078
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/95/555/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F555%2Fs2
+[/us/pl/95/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F555
 [/us/stat/92/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2076
-[/us/pl/88/352/s716/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs716%2Fa
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F266
-[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtII
 [/us/stat/105/1081-1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1081-1087
-[/us/pl/95/555/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F555%2Fs3
+[/us/pl/95/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F555
 [/us/stat/92/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2076
 [/us/usc/t42/s2000d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%931
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102

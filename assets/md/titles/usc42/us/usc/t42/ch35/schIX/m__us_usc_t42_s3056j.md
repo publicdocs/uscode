@@ -17,11 +17,11 @@
 
     Assistance provided under this subchapter shall not be considered to be financial assistance described in [section 1255a(h)(1)(A) of title 8][/us/usc/t8/s1255a/h/1/A].
 
-([Pub. L. 89–73, title V, § 512][/us/pl/89/73/s512], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2580][/us/stat/120/2580].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 512, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2580][/us/stat/120/2580].)
 
  __Prior Provisions__ 
 
-    A prior section 3056j, [Pub. L. 89–73, title V, § 512][/us/pl/89/73/s512], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2280][/us/stat/114/2280], related to coordination with the Workforce Investment Act of 1998, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365]. See [section 3056i of this title][/us/usc/t42/s3056i].
+    A prior section 3056j, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 512, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2280][/us/stat/114/2280], related to coordination with the Workforce Investment Act of 1998, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365]. See [section 3056i of this title][/us/usc/t42/s3056i].
 
 ----------
 
@@ -31,11 +31,11 @@
 ----------
 
 [/us/usc/t8/s1255a/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255a%2Fh%2F1%2FA
-[/us/pl/89/73/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs512
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2580
-[/us/pl/89/73/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs512
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2280
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/usc/t42/s3056i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056i

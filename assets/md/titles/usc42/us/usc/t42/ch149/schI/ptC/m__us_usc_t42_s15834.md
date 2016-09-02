@@ -23,7 +23,7 @@
 
         Every 6 months following the submission of a report under subsection (a) until the adoption of a new or revised standard described in such report, the Secretary shall submit to the Congress an implementation report describing the Secretary’s progress in implementing the Secretary’s plan or the issuance of the new or revised standard.
 
-([Pub. L. 109–58, title I, § 141][/us/pl/109/58/s141], Aug. 8, 2005, [119 Stat. 648][/us/stat/119/648].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 141, Aug. 8, 2005, [119 Stat. 648][/us/stat/119/648].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
-[/us/pl/109/58/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs141
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F648
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

@@ -27,11 +27,11 @@
 
         The definitions contained in [section 300jj of this title][/us/usc/t42/s300jj], as added by section 13101,1 shall apply for purposes of this subchapter.
 
-([Pub. L. 111–5, div. A, title XIII, § 13111][/us/pl/111/5/s13111], Feb. 17, 2009, [123 Stat. 242][/us/stat/123/242].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13111, Feb. 17, 2009, [123 Stat. 242][/us/stat/123/242].)
 
  __References in Text__ 
 
-    Section 13101, referred to in text, means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/s13101].
+    Section 13101, referred to in text, means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13101].
 
 ----------
 
@@ -43,8 +43,8 @@
 [/us/usc/t42/s300jj–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9314
 [/us/usc/t42/s300jj–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9314
 [/us/usc/t42/s300jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj
-[/us/pl/111/5/s13111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13111
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F242
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13101
 
 

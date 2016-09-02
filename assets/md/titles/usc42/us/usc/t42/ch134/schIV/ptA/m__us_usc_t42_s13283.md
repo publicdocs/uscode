@@ -41,7 +41,7 @@
 
         (3) The maximum discount payment shall be no greater than $10,000 per electric motor vehicle.
 
-([Pub. L. 102–486, title VI, § 613][/us/pl/102/486/s613], Oct. 24, 1992, [106 Stat. 2902][/us/stat/106/2902].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 613, Oct. 24, 1992, [106 Stat. 2902][/us/stat/106/2902].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs613
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2902
 
 

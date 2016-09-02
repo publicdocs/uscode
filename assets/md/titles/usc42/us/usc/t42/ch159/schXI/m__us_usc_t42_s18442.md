@@ -41,7 +41,7 @@
 
             (B) For each program specified under subparagraph (A), a plan for such decrease in scope or requirements, or other measures, to be undertaken to control cost and schedule, including any cost monitoring or corrective actions undertaken pursuant to the National Aeronautics and Space Administration Authorization Act of 2005 ([Public Law 109–155][/us/pl/109/155]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the amendments made by that Act.
 
-([Pub. L. 111–267, title XII, § 1203][/us/pl/111/267/s1203], Oct. 11, 2010, [124 Stat. 2841][/us/stat/124/2841].)
+([Pub. L. 111–267, title XII][/us/pl/111/267/tXII], § 1203, Oct. 11, 2010, [124 Stat. 2841][/us/stat/124/2841].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
-[/us/pl/111/267/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs1203
+[/us/pl/111/267/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtXII
 [/us/stat/124/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2841
 [/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
 [/us/stat/119/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2895

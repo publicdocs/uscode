@@ -17,19 +17,19 @@
 
     There is established a Corporation for National and Community Service that shall administer the programs established under the national service laws. The Corporation shall be a Government corporation, as defined in [section 103 of title 5][/us/usc/t5/s103].
 
-([Pub. L. 101–610, title I, § 191][/us/pl/101/610/s191], as added and amended [Pub. L. 103–82, title II][/us/pl/103/82], §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 873][/us/stat/107/873], 891.)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 191, as added and amended [Pub. L. 103–82, title II][/us/pl/103/82/tII], §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 873][/us/stat/107/873], 891.)
 
  __Prior Provisions__ 
 
-    A prior section 12651, [Pub. L. 101–610, title I, § 190][/us/pl/101/610/s190], Nov. 16, 1990, [104 Stat. 3168][/us/stat/104/3168]; [Pub. L. 102–10, § 9][/us/pl/102/10/s9], Mar. 12, 1991, [105 Stat. 31][/us/stat/105/31]; [Pub. L. 102–384][/us/pl/102/384], §§ 4, 10, Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], 1456, provided for establishment of Commission on National and Community Service, prior to the general amendment of subtitle G of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part G of this subchapter\] by [Pub. L. 103–82, § 202(a)][/us/pl/103/82/s202/a].
+    A prior section 12651, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 190, Nov. 16, 1990, [104 Stat. 3168][/us/stat/104/3168]; [Pub. L. 102–10][/us/pl/102/10], § 9, Mar. 12, 1991, [105 Stat. 31][/us/stat/105/31]; [Pub. L. 102–384][/us/pl/102/384], §§ 4, 10, Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], 1456, provided for establishment of Commission on National and Community Service, prior to the general amendment of subtitle G of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part G of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 202(a).
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–82, § 203(a)(1)(B)][/us/pl/103/82/s203/a/1/B], which directed amendment of section 191 of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to this section, which is section 191 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+    1993—[Pub. L. 103–82][/us/pl/103/82], § 203(a)(1)(B), which directed amendment of section 191 of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to this section, which is section 191 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–82, title II, § 203(d)][/us/pl/103/82/s203/d], Sept. 21, 1993, [107 Stat. 895][/us/stat/107/895], provided that:
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 203(d), Sept. 21, 1993, [107 Stat. 895][/us/stat/107/895], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–82, title II, § 202(i)][/us/pl/103/82/s202/i], Sept. 21, 1993, [107 Stat. 891][/us/stat/107/891], provided that:
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(i), Sept. 21, 1993, [107 Stat. 891][/us/stat/107/891], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Transfer of Functions of Commission on National and Community Service__ 
 
-[Pub. L. 103–82, title II, § 202(c)][/us/pl/103/82/s202/c], Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888], provided that:
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(c), Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888], provided that:
 
 >     “(1)  __Definitions__  __.—__ 
 
@@ -79,7 +79,7 @@
 
  __Transfer of Functions From ACTION Agency__ 
 
-[Pub. L. 103–82, title II, § 203(c)][/us/pl/103/82/s203/c], Sept. 21, 1993, [107 Stat. 892][/us/stat/107/892], provided that:
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 203(c), Sept. 21, 1993, [107 Stat. 892][/us/stat/107/892], provided that:
 
 >     “(1)  __Definitions__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Study To Examine and Increase Service Programs for Displaced Workers in Services Corps and Community Service and To Develop Pilot Program Planning Study__ 
 
-[Pub. L. 111–13, title I, § 1710][/us/pl/111/13/s1710], Apr. 21, 2009, [123 Stat. 1549][/us/stat/123/1549], provided that:
+[Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1710, Apr. 21, 2009, [123 Stat. 1549][/us/stat/123/1549], provided that:
 
 >     “(a)  __Planning Study__  __.—__ 
 
@@ -207,13 +207,13 @@
 
  __Continuing Performance of Certain Functions by Commission on National and Community Service__ 
 
-[Pub. L. 103–82, title II, § 202(d)][/us/pl/103/82/s202/d], Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888], provided that: 
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(d), Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888], provided that: 
 
 > “The individuals who, on the day before the date of enactment of this Act \[Sept. 21, 1993\], are performing any of the functions required by section 190 of the National and Community Service Act of 1990 ([42 U.S.C. 12651][/us/usc/t42/s12651]), as in effect on such date, to be performed by the members of the Board of Directors of the Commission on National and Community Service may, subject to section 193A of the National and Community Service Act of 1990 \[[42 U.S.C. 12651d][/us/usc/t42/s12651d]\], as added by subsection (a) of this section, continue to perform such functions until the date on which the Board of Directors of the Corporation for National and Community Service conducts the first meeting of the Board. The service of such individuals as members of the Board of Directors of such Commission, and the employment of such individuals as special Government employees, shall terminate on such date.”
 
  __Business Plan for Corporation for National and Community Service__ 
 
-[Pub. L. 103–82, title II, § 204][/us/pl/103/82/s204], Sept. 21, 1993, [107 Stat. 895][/us/stat/107/895], provided that:
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 204, Sept. 21, 1993, [107 Stat. 895][/us/stat/107/895], provided that:
 
 >     “(a) __Business Plan Required.—__ 
 
@@ -401,22 +401,22 @@
 ----------
 
 [/us/usc/t5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103
-[/us/pl/101/610/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs191
-[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F873
-[/us/pl/101/610/s190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs190
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3168
-[/us/pl/102/10/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs9
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F31
 [/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1455
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fa
-[/us/pl/103/82/s203/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fa%2F1%2FB
-[/us/pl/103/82/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fd
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F895
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/103/82/s202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fi
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F891
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
@@ -424,25 +424,25 @@
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
-[/us/pl/103/82/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fc
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F888
-[/us/pl/103/82/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fc
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F892
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/usc/t42/s12651f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651f%2Fa
 [/us/usc/t5/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3503
-[/us/pl/111/13/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1710
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1549
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/usc/t42/s12511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12511
-[/us/pl/103/82/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fd
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F888
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
 [/us/usc/t42/s12651d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651d
-[/us/pl/103/82/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs204
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F895
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12651e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651e%2Fb

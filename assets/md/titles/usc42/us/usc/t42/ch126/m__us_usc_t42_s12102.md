@@ -81,7 +81,7 @@
 
                 (II) the term “low-vision devices” means devices that magnify, enhance, or otherwise augment a visual image.
 
-([Pub. L. 101–336, § 3][/us/pl/101/336/s3], July 26, 1990, [104 Stat. 329][/us/stat/104/329]; [Pub. L. 110–325, § 4(a)][/us/pl/110/325/s4/a], Sept. 25, 2008, [122 Stat. 3555][/us/stat/122/3555].)
+([Pub. L. 101–336][/us/pl/101/336], § 3, July 26, 1990, [104 Stat. 329][/us/stat/104/329]; [Pub. L. 110–325][/us/pl/110/325], § 4(a), Sept. 25, 2008, [122 Stat. 3555][/us/stat/122/3555].)
 
  __References in Text__ 
 
@@ -104,9 +104,9 @@
 ----------
 ----------
 
-[/us/pl/101/336/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs3
+[/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F329
-[/us/pl/110/325/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs4%2Fa
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3555
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

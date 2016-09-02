@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary through fiscal year ending September 30, 1980, to carry out the purposes of this part not to exceed $100,000,000. Funds so appropriated may be transferred by the Secretary to any Federal agency to the extent necessary to carry out the purposes of [section 8243(a)(3) of this title][/us/usc/t42/s8243/a/3].
 
-([Pub. L. 95–619, title V, § 524][/us/pl/95/619/s524], Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 524, Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s8243/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8243%2Fa%2F3
-[/us/pl/95/619/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs524
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3277
 
 

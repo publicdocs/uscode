@@ -45,7 +45,7 @@
 
         (3) the renewal of funding on the expiration of the term of such contract or grant.
 
-([Pub. L. 93–113, title II, § 227][/us/pl/93/113/s227], as added [Pub. L. 101–204, title V, § 507][/us/pl/101/204/s507], Dec. 7, 1989, [103 Stat. 1818][/us/stat/103/1818].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 227, as added [Pub. L. 101–204, title V][/us/pl/101/204/tV], § 507, Dec. 7, 1989, [103 Stat. 1818][/us/stat/103/1818].)
 
 ----------
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t42/s5026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5026
-[/us/pl/93/113/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs227
-[/us/pl/101/204/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs507
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/101/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtV
 [/us/stat/103/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1818
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to affect Federal, State, or local laws pertaining to the transportation of spent nuclear fuel or high-level radioactive waste.
 
-([Pub. L. 97–425, § 9][/us/pl/97/425/s9], Jan. 7, 1983, [96 Stat. 2206][/us/stat/96/2206].)
+([Pub. L. 97–425][/us/pl/97/425], § 9, Jan. 7, 1983, [96 Stat. 2206][/us/stat/96/2206].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs9
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2206
 
 

@@ -23,7 +23,7 @@
 
         The registry established pursuant to subsection (a) shall be subject to [section 552a of title 5][/us/usc/t5/s552a], the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, applicable Federal and State informed consent regulations, any other applicable Federal and State laws relating to the privacy of patient information, and [section 280e(d)(4) of this title][/us/usc/t42/s280e/d/4].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399E–1, as added [Pub. L. 110–285, § 4(b)(1)][/us/pl/110/285/s4/b/1], July 29, 2008, [122 Stat. 2630][/us/stat/122/2630].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399E–1, as added [Pub. L. 110–285][/us/pl/110/285], § 4(b)(1), July 29, 2008, [122 Stat. 2630][/us/stat/122/2630].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t42/s280e/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e%2Fd%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/285/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F285%2Fs4%2Fb%2F1
+[/us/pl/110/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F285
 [/us/stat/122/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2630
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

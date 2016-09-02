@@ -17,7 +17,7 @@
 
     Nothing in this part shall be construed as waiving, modifying, or superseding the applicability of any requirement under any environmental or other Federal or State law.
 
-([Pub. L. 110–140, title VI, § 635][/us/pl/110/140/s635], Dec. 19, 2007, [121 Stat. 1688][/us/stat/121/1688].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 635, Dec. 19, 2007, [121 Stat. 1688][/us/stat/121/1688].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs635
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1688
 
 

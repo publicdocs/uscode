@@ -59,7 +59,7 @@
 
             There are authorized to be appropriated to the Secretary for carrying out this subsection such sums as may be necessary.
 
-([Pub. L. 110–140, title VII, § 705][/us/pl/110/140/s705], Dec. 19, 2007, [121 Stat. 1709][/us/stat/121/1709].)
+([Pub. L. 110–140, title VII][/us/pl/110/140/tVII], § 705, Dec. 19, 2007, [121 Stat. 1709][/us/stat/121/1709].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs705
+[/us/pl/110/140/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVII
 [/us/stat/121/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1709
 
 

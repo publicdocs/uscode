@@ -51,21 +51,21 @@
 
         The term “wildfire protection resources” means any personnel, supplies, equipment, or other resources required for wildfire presuppression and suppression activities.
 
-([Pub. L. 100–428, § 2][/us/pl/100/428/s2], as added [Pub. L. 112–74, div. E, title IV, § 411(2)][/us/pl/112/74/s411/2], Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039].)
+([Pub. L. 100–428][/us/pl/100/428], § 2, as added [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 411(2), Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039].)
 
  __Prior Provisions__ 
 
-    A prior section 1856m, [Pub. L. 100–428, § 2][/us/pl/100/428/s2], Sept. 9, 1988, [102 Stat. 1615][/us/stat/102/1615], related to definitions, prior to repeal by [Pub. L. 112–74, div. E, title IV, § 411(2)][/us/pl/112/74/s411/2], Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039].
+    A prior section 1856m, [Pub. L. 100–428][/us/pl/100/428], § 2, Sept. 9, 1988, [102 Stat. 1615][/us/stat/102/1615], related to definitions, prior to repeal by [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 411(2), Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039].
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–11, § 1][/us/pl/101/11/s1], Apr. 7, 1989, [103 Stat. 15][/us/stat/103/15], provided that: 
+[Pub. L. 101–11][/us/pl/101/11], § 1, Apr. 7, 1989, [103 Stat. 15][/us/stat/103/15], provided that: 
 
 > “This Act \[repealing [section 1856p of this title][/us/usc/t42/s1856p]\] may be cited as the ‘Wildfire Suppression Assistance Act’.”
 
  __Short Title__ 
 
-[Pub. L. 100–428, § 1][/us/pl/100/428/s1], Sept. 9, 1988, [102 Stat. 1615][/us/stat/102/1615], as amended by [Pub. L. 112–74, div. E, title IV, § 411(1)][/us/pl/112/74/s411/1], Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039], provided that: 
+[Pub. L. 100–428][/us/pl/100/428], § 1, Sept. 9, 1988, [102 Stat. 1615][/us/stat/102/1615], as amended by [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 411(1), Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Emergency Wildfire Suppression Act’.”
 
@@ -78,19 +78,19 @@
 
 [/us/usc/t42/s1856n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1856n
 [/us/usc/t42/s1856n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1856n
-[/us/pl/100/428/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428%2Fs2
-[/us/pl/112/74/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs411%2F2
+[/us/pl/100/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1039
-[/us/pl/100/428/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428%2Fs2
+[/us/pl/100/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428
 [/us/stat/102/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1615
-[/us/pl/112/74/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs411%2F2
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1039
-[/us/pl/101/11/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F11%2Fs1
+[/us/pl/101/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F11
 [/us/stat/103/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F15
 [/us/usc/t42/s1856p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1856p
-[/us/pl/100/428/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428%2Fs1
+[/us/pl/100/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428
 [/us/stat/102/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1615
-[/us/pl/112/74/s411/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs411%2F1
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1039
 
 

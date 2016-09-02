@@ -55,7 +55,7 @@
 
         The term “Technical Advisory Committee” means the independent Technical Advisory Committee established under [section 16156 of this title][/us/usc/t42/s16156].
 
-([Pub. L. 109–58, title VIII, § 803][/us/pl/109/58/s803], Aug. 8, 2005, [119 Stat. 844][/us/stat/119/844].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 803, Aug. 8, 2005, [119 Stat. 844][/us/stat/119/844].)
 
 ----------
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t42/s16155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16155
 [/us/usc/t42/s16156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16156
-[/us/pl/109/58/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs803
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F844
 
 

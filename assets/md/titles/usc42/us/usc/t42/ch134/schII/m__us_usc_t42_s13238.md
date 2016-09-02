@@ -31,7 +31,7 @@
 
         Upon completion of the study required pursuant to subsection (a) of this section, the Secretary may designate such vehicles and engines as qualifying for loans pursuant to [section 13239 of this title][/us/usc/t42/s13239].
 
-([Pub. L. 102–486, title IV, § 412][/us/pl/102/486/s412], Oct. 24, 1992, [106 Stat. 2886][/us/stat/106/2886].)
+([Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 412, Oct. 24, 1992, [106 Stat. 2886][/us/stat/106/2886].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s13239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13239
-[/us/pl/102/486/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs412
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2886
 
 

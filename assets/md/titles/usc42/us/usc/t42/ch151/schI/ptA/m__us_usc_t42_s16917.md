@@ -29,7 +29,7 @@
 
         The Attorney General shall prescribe rules for the notification of sex offenders who cannot be registered in accordance with subsection (a).
 
-([Pub. L. 109–248, title I, § 117][/us/pl/109/248/s117], July 27, 2006, [120 Stat. 595][/us/stat/120/595].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 117, July 27, 2006, [120 Stat. 595][/us/stat/120/595].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs117
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F595
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

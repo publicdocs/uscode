@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subtitle I of title I of [Pub. L. 101–610][/us/pl/101/610], comprising this division, was formerly classified to part C (§ 12541 et seq.) of this subchapter prior to the general amendment by [Pub. L. 103–82, § 101(a)][/us/pl/103/82/s101/a].
+    Subtitle I of title I of [Pub. L. 101–610][/us/pl/101/610], comprising this division, was formerly classified to part C (§ 12541 et seq.) of this subchapter prior to the general amendment by [Pub. L. 103–82][/us/pl/103/82], § 101(a).
 
 ----------
 
@@ -27,6 +27,6 @@
 ----------
 
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 
 

@@ -17,7 +17,7 @@
 
     The Corporation shall comply with applicable audit and reporting requirements as provided in the Chief Financial Officers Act of 1990 ([31 U.S.C. 901][/us/usc/t31/s901] note; [Public Law 101–576][/us/pl/101/576]) and chapter 91 of title 31 (commonly known as the “Government Corporation Control Act”). The Corporation shall report to the authorizing committees any failure to comply with such requirements.
 
-([Pub. L. 101–610, title I, § 189B][/us/pl/101/610/s189B], as added [Pub. L. 111–13, title I, § 1612][/us/pl/111/13/s1612], Apr. 21, 2009, [123 Stat. 1540][/us/stat/123/1540].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 189B, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1612, Apr. 21, 2009, [123 Stat. 1540][/us/stat/123/1540].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 
 [/us/usc/t31/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
-[/us/pl/101/610/s189B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs189B
-[/us/pl/111/13/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1612
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1540
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/stat/104/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2838

@@ -51,7 +51,7 @@
 
             (B) make such copies available to the public.
 
-([Pub. L. 100–607, title II, § 253][/us/pl/100/607/s253], Nov. 4, 1988, [102 Stat. 3108][/us/stat/102/3108]; [Pub. L. 100–690, title II, § 2602(c)][/us/pl/100/690/s2602/c], Nov. 18, 1988, [102 Stat. 4234][/us/stat/102/4234]; [Pub. L. 102–531, title III, § 312(e)(3)][/us/pl/102/531/s312/e/3], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506].)
+([Pub. L. 100–607, title II][/us/pl/100/607/tII], § 253, Nov. 4, 1988, [102 Stat. 3108][/us/stat/102/3108]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2602(c), Nov. 18, 1988, [102 Stat. 4234][/us/stat/102/4234]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(e)(3), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506].)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 
  __Guidelines for Prevention of Transmission of Human Immunodeficiency and Hepatitis B Viruses During Invasive Procedures__ 
 
-[Pub. L. 102–141, title VI, § 633][/us/pl/102/141/s633], Oct. 28, 1991, [105 Stat. 876][/us/stat/105/876], provided that: 
+[Pub. L. 102–141, title VI][/us/pl/102/141/tVI], § 633, Oct. 28, 1991, [105 Stat. 876][/us/stat/105/876], provided that: 
 
 > “Notwithstanding any other provision of law, each State Public Health Official shall, not later than one year after the date of enactment of this Act \[Oct. 28, 1991\], certify to the Secretary of Health and Human Services that guidelines issued by the Centers for Disease Control, or guidelines which are equivalent to those promulgated by the Centers for Disease Control concerning recommendations for preventing the transmission of the human immunodeficiency virus and the hepatitis B virus during exposure prone invasive procedures, except for emergency situations when the patient’s life or limb is in danger, have been instituted in the State. State guidelines shall apply to health professionals practicing within the State and shall be consistent with Federal law. Compliance with such guidelines shall be the responsibility of the State Public Health Official. Said responsibilities shall include a process for determining what appropriate disciplinary or other actions shall be taken to ensure compliance. If such certification is not provided under this section within the one-year period, the State shall be ineligible to receive assistance under the Public Health Service Act ([42 U.S.C. 301][/us/usc/t42/s301] \[201\] et seq.) until such certification is provided, except that the Secretary may extend the time period for a State, upon application of such State, that additional time is required for instituting said guidelines.”
 
-    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
+    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
 
 ----------
 
@@ -87,11 +87,11 @@
 ----------
 
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/100/607/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs253
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3108
-[/us/pl/100/690/s2602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2602%2Fc
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4234
-[/us/pl/102/531/s312/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fe%2F3
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590
@@ -102,10 +102,10 @@
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/100/690/s2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2600
 [/us/usc/t42/s242m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242m
-[/us/pl/102/141/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2Fs633
+[/us/pl/102/141/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtVI
 [/us/stat/105/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F876
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

@@ -83,19 +83,19 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 846A, as added [Pub. L. 107–205, title II, § 203][/us/pl/107/205/s203], Aug. 1, 2002, [116 Stat. 817][/us/stat/116/817]; amended [Pub. L. 111–148, title V, § 5311(a)][/us/pl/111/148/s5311/a], Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 846A, as added [Pub. L. 107–205, title II][/us/pl/107/205/tII], § 203, Aug. 1, 2002, [116 Stat. 817][/us/stat/116/817]; amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5311(a), Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 5311(a)(1)][/us/pl/111/148/s5311/a/1], substituted “School of nursing student loan fund” for “Establishment” in heading and inserted “accredited” before “school” in text.
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 5311(a)(1), substituted “School of nursing student loan fund” for “Establishment” in heading and inserted “accredited” before “school” in text.
 
-    Subsec. (c)(2). [Pub. L. 111–148, § 5311(a)(2)(A)][/us/pl/111/148/s5311/a/2/A], substituted “$35,500, during fiscal years 2010 and 2011 fiscal years (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan;” for “$30,000, plus any amount determined by the Secretary on an annual basis to reflect inflation;”.
+    Subsec. (c)(2). [Pub. L. 111–148][/us/pl/111/148], § 5311(a)(2)(A), substituted “$35,500, during fiscal years 2010 and 2011 fiscal years (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan;” for “$30,000, plus any amount determined by the Secretary on an annual basis to reflect inflation;”.
 
-    Subsec. (c)(3)(A). [Pub. L. 111–148, § 5311(a)(2)(B)][/us/pl/111/148/s5311/a/2/B], inserted “an accredited” before “a school of nursing”.
+    Subsec. (c)(3)(A). [Pub. L. 111–148][/us/pl/111/148], § 5311(a)(2)(B), inserted “an accredited” before “a school of nursing”.
 
-    Subsec. (e). [Pub. L. 111–148, § 5311(a)(3)][/us/pl/111/148/s5311/a/3], substituted “an accredited school” for “a school”.
+    Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 5311(a)(3), substituted “an accredited school” for “a school”.
 
-    Subsec. (f). [Pub. L. 111–148, § 5311(a)(4)][/us/pl/111/148/s5311/a/4], substituted “2010 through 2014” for “2003 through 2007”.
+    Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 5311(a)(4), substituted “2010 through 2014” for “2003 through 2007”.
 
 ----------
 
@@ -106,14 +106,14 @@
 
 [/us/usc/t42/s296j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296j%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/205/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs203
+[/us/pl/107/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2FtII
 [/us/stat/116/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F817
-[/us/pl/111/148/s5311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5311%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F631
-[/us/pl/111/148/s5311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5311%2Fa%2F1
-[/us/pl/111/148/s5311/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5311%2Fa%2F2%2FA
-[/us/pl/111/148/s5311/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5311%2Fa%2F2%2FB
-[/us/pl/111/148/s5311/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5311%2Fa%2F3
-[/us/pl/111/148/s5311/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5311%2Fa%2F4
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

@@ -393,7 +393,7 @@
 
                 Any fee charged or allocated for collection activities conducted by the Financial Management Service will be passed on to a health plan on a pro-rata basis and added to any penalty fee collected from the plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1173, as added [Pub. L. 104–191, title II, § 262(a)][/us/pl/104/191/s262/a], Aug. 21, 1996, [110 Stat. 2024][/us/stat/110/2024]; amended [Pub. L. 111–148, title I, § 1104(b)(2)][/us/pl/111/148/s1104/b/2], title X, § 10109(a), Mar. 23, 2010, [124 Stat. 147][/us/stat/124/147], 915.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1173, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 262(a), Aug. 21, 1996, [110 Stat. 2024][/us/stat/110/2024]; amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1104(b)(2), title X, § 10109(a), Mar. 23, 2010, [124 Stat. 147][/us/stat/124/147], 915.)
 
  __References in Text__ 
 
@@ -407,25 +407,25 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(B). [Pub. L. 111–148, § 10109(a)(1)(A)][/us/pl/111/148/s10109/a/1/A], inserted before period at end “, and subject to the requirements under paragraph (5)”.
+    2010—Subsec. (a)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 10109(a)(1)(A), inserted before period at end “, and subject to the requirements under paragraph (5)”.
 
-    Subsec. (a)(2)(J). [Pub. L. 111–148, § 1104(b)(2)(A)][/us/pl/111/148/s1104/b/2/A], added subpar. (J).
+    Subsec. (a)(2)(J). [Pub. L. 111–148][/us/pl/111/148], § 1104(b)(2)(A), added subpar. (J).
 
-    Subsec. (a)(4). [Pub. L. 111–148, § 1104(b)(2)(B)][/us/pl/111/148/s1104/b/2/B], added par. (4).
+    Subsec. (a)(4). [Pub. L. 111–148][/us/pl/111/148], § 1104(b)(2)(B), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 111–148, § 10109(a)(1)(B)][/us/pl/111/148/s10109/a/1/B], added par. (5).
+    Subsec. (a)(5). [Pub. L. 111–148][/us/pl/111/148], § 10109(a)(1)(B), added par. (5).
 
-    Subsecs. (g) to (j). [Pub. L. 111–148, § 1104(b)(2)(C)][/us/pl/111/148/s1104/b/2/C], added subsecs. (g) to (j).
+    Subsecs. (g) to (j). [Pub. L. 111–148][/us/pl/111/148], § 1104(b)(2)(C), added subsecs. (g) to (j).
 
  __Delay in Transition From ICD–9 to ICD–10 Code Sets__ 
 
-[Pub. L. 113–93, title II, § 212][/us/pl/113/93/s212], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that: 
+[Pub. L. 113–93, title II][/us/pl/113/93/tII], § 212, Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that: 
 
 > “The Secretary of Health and Human Services may not, prior to October 1, 2015, adopt ICD–10 code sets as the standard for code sets under section 1173(c) of the Social Security Act ([42 U.S.C. 1320d–2(c)][/us/usc/t42/s1320d–2/c]) and section 162.1002 of title 45, Code of Federal Regulations.”
 
  __Promulgation of Rules__ 
 
-[Pub. L. 111–148, title I, § 1104(c)][/us/pl/111/148/s1104/c], Mar. 23, 2010, [124 Stat. 153][/us/stat/124/153], provided that:
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1104(c), Mar. 23, 2010, [124 Stat. 153][/us/stat/124/153], provided that:
 
 >     “(1)  __Unique health plan identifier__  __.—__ 
 
@@ -441,7 +441,7 @@
 
  __Activities and Items for Initial Consideration; ICD Coding Crosswalks__ 
 
-[Pub. L. 111–148, title X, § 10109(b)][/us/pl/111/148/s10109/b], (c), Mar. 23, 2010, [124 Stat. 916][/us/stat/124/916], provided that:
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10109(b), (c), Mar. 23, 2010, [124 Stat. 916][/us/stat/124/916], provided that:
 
 >     “(b)  __Activities and Items for Initial Consideration__  __.—__ 
 
@@ -477,7 +477,7 @@
 
  __Recommendations With Respect to Privacy of Certain Health Information__ 
 
-[Pub. L. 104–191, title II, § 264][/us/pl/104/191/s264], Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], provided that:
+[Pub. L. 104–191, title II][/us/pl/104/191/tII], § 264, Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -578,35 +578,35 @@
 [/us/usc/t42/s1320d–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%931%2Fa
 [/us/usc/t42/s1320d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2024
-[/us/pl/111/148/s1104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fb%2F2
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F147
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s1320c–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%9322
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/111/148/s10109/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10109%2Fa%2F1%2FA
-[/us/pl/111/148/s1104/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fb%2F2%2FA
-[/us/pl/111/148/s1104/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fb%2F2%2FB
-[/us/pl/111/148/s10109/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10109%2Fa%2F1%2FB
-[/us/pl/111/148/s1104/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fb%2F2%2FC
-[/us/pl/113/93/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs212
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
 [/us/usc/t42/s1320d–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fc
-[/us/pl/111/148/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fc
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F153
 [/us/usc/t42/s1320d–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fb
 [/us/usc/t42/s1320d–2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fa%2F2%2FB
-[/us/pl/111/148/s10109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10109%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F916
 [/us/usc/t42/s1320d–2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fa%2F5
 [/us/usc/t42/s1320d–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%931%2Fa
 [/us/usc/t42/s1320d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%2F5
 [/us/usc/t42/s1320d–2/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fc%2F1%2FB
 [/us/usc/t42/s1320d–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fc
-[/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2033
 [/us/usc/t42/s1320d–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fa
 [/us/usc/t42/s242k/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242k%2Fk

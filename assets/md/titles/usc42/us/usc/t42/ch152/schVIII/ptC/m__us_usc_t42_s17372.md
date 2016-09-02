@@ -59,7 +59,7 @@
 
         (2) an unclassified form.
 
-([Pub. L. 110–140, title IX, § 933][/us/pl/110/140/s933], Dec. 19, 2007, [121 Stat. 1740][/us/stat/121/1740].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 933, Dec. 19, 2007, [121 Stat. 1740][/us/stat/121/1740].)
 
 ----------
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/110/140/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs933
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1740
 
 

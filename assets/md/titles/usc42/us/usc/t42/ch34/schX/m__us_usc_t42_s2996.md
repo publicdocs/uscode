@@ -29,7 +29,7 @@
 
     (6) attorneys providing legal assistance must have full freedom to protect the best interests of their clients in keeping with the Code of Professional Responsibility, the Canons of Ethics, and the high standards of the legal profession.
 
-([Pub. L. 88–452, title X, § 1001][/us/pl/88/452/s1001], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 378][/us/stat/88/378]; amended [Pub. L. 95–222, § 2][/us/pl/95/222/s2], Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1001, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 378][/us/stat/88/378]; amended [Pub. L. 95–222][/us/pl/95/222], § 2, Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–222, § 17(b)][/us/pl/95/222/s17/b], Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624], provided that: 
+[Pub. L. 95–222][/us/pl/95/222], § 17(b), Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624], provided that: 
 
 > “The amendments made by provisions of this Act other than sections 11 and 15 \[amending this section and sections 2996c, 2996e, 2996f, 2996g, 2996h, 2996i, and 2996j of this title\] shall be effective on the date of enactment of this Act \[Dec. 28, 1977\].”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/88/452/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1001
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F378
-[/us/pl/95/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs2
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1619
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
-[/us/pl/95/222/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs17%2Fb
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1624
 [/us/usc/t42/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2701
 

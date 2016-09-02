@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1992 through 1996, to carry out [section 11292 of this title][/us/usc/t42/s11292].
 
-([Pub. L. 99–660, title IX, § 964][/us/pl/99/660/s964], Nov. 14, 1986, [100 Stat. 3815][/us/stat/100/3815]; [Pub. L. 102–507, § 8(b)][/us/pl/102/507/s8/b], Oct. 24, 1992, [106 Stat. 3287][/us/stat/106/3287].)
+([Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 964, Nov. 14, 1986, [100 Stat. 3815][/us/stat/100/3815]; [Pub. L. 102–507][/us/pl/102/507], § 8(b), Oct. 24, 1992, [106 Stat. 3287][/us/stat/106/3287].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t42/s11292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11292
-[/us/pl/99/660/s964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs964
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3815
-[/us/pl/102/507/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs8%2Fb
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3287
 [/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 

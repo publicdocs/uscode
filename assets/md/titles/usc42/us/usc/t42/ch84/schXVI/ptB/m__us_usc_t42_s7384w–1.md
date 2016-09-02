@@ -31,7 +31,7 @@
 
         The Secretary of Health and Human Services shall establish time frames for completing site profiles for those Department of Energy facilities for which a site profile has not been completed. Not later than March 1, 2005, the Secretary of Health and Human Services shall submit to Congress a report setting forth those time frames.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3633\], as added [Pub. L. 108–375, div. C, title XXXI, § 3166(c)][/us/pl/108/375/s3166/c], Oct. 28, 2004, [118 Stat. 2189][/us/stat/118/2189].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3633\], as added [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3166(c), Oct. 28, 2004, [118 Stat. 2189][/us/stat/118/2189].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/375/s3166/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3166%2Fc
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2189
 
 

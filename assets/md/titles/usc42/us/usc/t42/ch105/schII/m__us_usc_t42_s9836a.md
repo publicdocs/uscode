@@ -509,7 +509,7 @@
 
                 The Secretary shall adjust as necessary the requirements relating to funded enrollment indicated in the grant agreement of a Head Start agency receiving redistributed funds under this paragraph.
 
-([Pub. L. 97–35, title VI, § 641A][/us/pl/97/35/s641A], as added [Pub. L. 103–252, title I, § 108][/us/pl/103/252/s108], May 18, 1994, [108 Stat. 631][/us/stat/108/631]; amended [Pub. L. 105–285, title I, § 108][/us/pl/105/285/s108], Oct. 27, 1998, [112 Stat. 2713][/us/stat/112/2713]; [Pub. L. 110–134, § 8][/us/pl/110/134/s8], Dec. 12, 2007, [121 Stat. 1385][/us/stat/121/1385].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 641A, as added [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 108, May 18, 1994, [108 Stat. 631][/us/stat/108/631]; amended [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 108, Oct. 27, 1998, [112 Stat. 2713][/us/stat/112/2713]; [Pub. L. 110–134][/us/pl/110/134], § 8, Dec. 12, 2007, [121 Stat. 1385][/us/stat/121/1385].)
 
  __References in Text__ 
 
@@ -519,61 +519,61 @@
 
     2007—[Pub. L. 110–134][/us/pl/110/134] amended section generally. Prior to amendment, section related to, in subsec. (a), quality standards, in subsec. (b), results-based performance measures, in subsec. (c), monitoring of local agencies and programs, in subsec. (d), corrective action and termination, and, in subsec. (e), summaries of monitoring outcomes.
 
-    1998—Subsec. (a)(1). [Pub. L. 105–285, § 108(a)(1)(A)][/us/pl/105/285/s108/a/1/A], inserted “, including minimum levels of overall accomplishment,” after “regulation standards” in introductory provisions.
+    1998—Subsec. (a)(1). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(1)(A), inserted “, including minimum levels of overall accomplishment,” after “regulation standards” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 105–285, § 108(a)(1)(B)][/us/pl/105/285/s108/a/1/B], struck out “education,” after “including health,”.
+    Subsec. (a)(1)(A). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(1)(B), struck out “education,” after “including health,”.
 
-    Subsec. (a)(1)(B) to (E). [Pub. L. 105–285, § 108(a)(1)(C)][/us/pl/105/285/s108/a/1/C], (D), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+    Subsec. (a)(1)(B) to (E). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(1)(C), (D), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-    Subsec. (a)(2). [Pub. L. 105–285, § 108(a)(2)][/us/pl/105/285/s108/a/2], (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1).”
+    Subsec. (a)(2). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1).”
 
-    Subsec. (a)(2)(B)(iii). [Pub. L. 105–285, § 108(a)(4)(A)][/us/pl/105/285/s108/a/4/A], substituted “early childhood education and” for “child”.
+    Subsec. (a)(2)(B)(iii). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(4)(A), substituted “early childhood education and” for “child”.
 
-    Subsec. (a)(2)(C)(i). [Pub. L. 105–285, § 108(a)(4)(B)(i)][/us/pl/105/285/s108/a/4/B/i], struck out “not later than 1 year after May 18, 1994,” before “review” and substituted “this subsection; and” for “[section 9846(b) of this title][/us/usc/t42/s9846/b] on the day before May 18, 1994; and”.
+    Subsec. (a)(2)(C)(i). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(4)(B)(i), struck out “not later than 1 year after May 18, 1994,” before “review” and substituted “this subsection; and” for “[section 9846(b) of this title][/us/usc/t42/s9846/b] on the day before May 18, 1994; and”.
 
-    Subsec. (a)(2)(C)(ii). [Pub. L. 105–285, § 108(a)(4)(B)(ii)][/us/pl/105/285/s108/a/4/B/ii], substituted “October 27, 1998” for “November 2, 1978”.
+    Subsec. (a)(2)(C)(ii). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(4)(B)(ii), substituted “October 27, 1998” for “November 2, 1978”.
 
-    Subsec. (a)(3). [Pub. L. 105–285, § 108(a)(5)][/us/pl/105/285/s108/a/5], substituted “to a delegate agency” for “to an agency (referred to in this subchapter as the ‘delegate agency’)”.
+    Subsec. (a)(3). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(5), substituted “to a delegate agency” for “to an agency (referred to in this subchapter as the ‘delegate agency’)”.
 
-    [Pub. L. 105–285, § 108(a)(3)][/us/pl/105/285/s108/a/3], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+    [Pub. L. 105–285][/us/pl/105/285], § 108(a)(3), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (a)(4). [Pub. L. 105–285, § 108(a)(3)][/us/pl/105/285/s108/a/3], redesignated par. (4) as (3).
+    Subsec. (a)(4). [Pub. L. 105–285][/us/pl/105/285], § 108(a)(3), redesignated par. (4) as (3).
 
-    Subsec. (b). [Pub. L. 105–285, § 108(b)(1)][/us/pl/105/285/s108/b/1], inserted “Results-based” in heading.
+    Subsec. (b). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(1), inserted “Results-based” in heading.
 
-    Subsec. (b)(1). [Pub. L. 105–285, § 108(b)(2)][/us/pl/105/285/s108/b/2], substituted “The Secretary” for “Not later than 1 year after May 18, 1994, the Secretary”, “early childhood education and” for “child”, and “results-based performance measures” for “performance measures” and inserted “, and the impact of the services provided through the programs to children and their families” before “(referred”.
+    Subsec. (b)(1). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(2), substituted “The Secretary” for “Not later than 1 year after May 18, 1994, the Secretary”, “early childhood education and” for “child”, and “results-based performance measures” for “performance measures” and inserted “, and the impact of the services provided through the programs to children and their families” before “(referred”.
 
-    Subsec. (b)(2). [Pub. L. 105–285, § 108(b)(3)(A)][/us/pl/105/285/s108/b/3/A], (B), (F), substituted “Characteristics” for “Design” in heading and “shall—” for “shall be designed—” in introductory provisions and inserted concluding provisions.
+    Subsec. (b)(2). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(3)(A), (B), (F), substituted “Characteristics” for “Design” in heading and “shall—” for “shall be designed—” in introductory provisions and inserted concluding provisions.
 
-    Subsec. (b)(2)(A). [Pub. L. 105–285, § 108(b)(3)(C)][/us/pl/105/285/s108/b/3/C], substituted “be used to assess the impact of” for “to assess”.
+    Subsec. (b)(2)(A). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(3)(C), substituted “be used to assess the impact of” for “to assess”.
 
-    Subsec. (b)(2)(B). [Pub. L. 105–285, § 108(b)(3)(D)][/us/pl/105/285/s108/b/3/D], substituted “be adaptable” for “to be adaptable” and “, peer review, and program evaluation” for “and peer review” and inserted “, not later than July 1, 1999” before semicolon.
+    Subsec. (b)(2)(B). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(3)(D), substituted “be adaptable” for “to be adaptable” and “, peer review, and program evaluation” for “and peer review” and inserted “, not later than July 1, 1999” before semicolon.
 
-    Subsec. (b)(2)(C). [Pub. L. 105–285, § 108(b)(3)(E)][/us/pl/105/285/s108/b/3/E], inserted “be developed” before “for other”.
+    Subsec. (b)(2)(C). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(3)(E), inserted “be developed” before “for other”.
 
-    Subsec. (b)(3)(A). [Pub. L. 105–285, § 108(b)(4)][/us/pl/105/285/s108/b/4], substituted “, regionally, and locally” for “and by region”.
+    Subsec. (b)(3)(A). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(4), substituted “, regionally, and locally” for “and by region”.
 
-    Subsec. (b)(4), (5). [Pub. L. 105–285, § 108(b)(5)][/us/pl/105/285/s108/b/5], added pars. (4) and (5).
+    Subsec. (b)(4), (5). [Pub. L. 105–285][/us/pl/105/285], § 108(b)(5), added pars. (4) and (5).
 
-    Subsec. (c)(1). [Pub. L. 105–285, § 108(c)(1)][/us/pl/105/285/s108/c/1], inserted “and results-based performance measures developed by the Secretary under subsection (b) of this section” after “standards established under this subchapter”.
+    Subsec. (c)(1). [Pub. L. 105–285][/us/pl/105/285], § 108(c)(1), inserted “and results-based performance measures developed by the Secretary under subsection (b) of this section” after “standards established under this subchapter”.
 
-    Subsec. (c)(2)(B). [Pub. L. 105–285, § 108(c)(2)(A)][/us/pl/105/285/s108/c/2/A], struck out “and” at end.
+    Subsec. (c)(2)(B). [Pub. L. 105–285][/us/pl/105/285], § 108(c)(2)(A), struck out “and” at end.
 
-    Subsec. (c)(2)(C). [Pub. L. 105–285, § 108(c)(2)(B)][/us/pl/105/285/s108/c/2/B], inserted “(including children with disabilities)” after “eligible children” and substituted semicolon for period at end.
+    Subsec. (c)(2)(C). [Pub. L. 105–285][/us/pl/105/285], § 108(c)(2)(B), inserted “(including children with disabilities)” after “eligible children” and substituted semicolon for period at end.
 
-    Subsec. (c)(2)(D), (E). [Pub. L. 105–285, § 108(c)(2)(C)][/us/pl/105/285/s108/c/2/C], added subpars. (D) and (E).
+    Subsec. (c)(2)(D), (E). [Pub. L. 105–285][/us/pl/105/285], § 108(c)(2)(C), added subpars. (D) and (E).
 
-    Subsec. (d)(1). [Pub. L. 105–285, § 108(d)(1)(A)][/us/pl/105/285/s108/d/1/A], inserted “or results-based performance measures developed by the Secretary under subsection (b) of this section” after “subsection (a) of this section” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 105–285][/us/pl/105/285], § 108(d)(1)(A), inserted “or results-based performance measures developed by the Secretary under subsection (b) of this section” after “subsection (a) of this section” in introductory provisions.
 
-    Subsec. (d)(1)(B). [Pub. L. 105–285, § 108(d)(1)(B)][/us/pl/105/285/s108/d/1/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “with respect to each identified deficiency, require the agency—
+    Subsec. (d)(1)(B). [Pub. L. 105–285][/us/pl/105/285], § 108(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “with respect to each identified deficiency, require the agency—
 
     “(i) to correct the deficiency immediately; or
 
     “(ii) at the discretion of the Secretary (taking into consideration the seriousness of the deficiency and the time reasonably required to correct the deficiency), to comply with the requirements of paragraph (2) concerning a quality improvement plan; and”.
 
-    Subsec. (d)(2)(A). [Pub. L. 105–285, § 108(d)(2)][/us/pl/105/285/s108/d/2], substituted “required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
+    Subsec. (d)(2)(A). [Pub. L. 105–285][/us/pl/105/285], § 108(d)(2), substituted “required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 105–285, § 108(e)][/us/pl/105/285/s108/e], inserted at end “Such report shall be widely disseminated and available for public review in both written and electronic formats.”
+    Subsec. (e). [Pub. L. 105–285][/us/pl/105/285], § 108(e), inserted at end “Such report shall be widely disseminated and available for public review in both written and electronic formats.”
 
  __Effective Date__ 
 
@@ -595,45 +595,45 @@
 [/us/usc/t42/s9835/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fd
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t42/s9835/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F7
-[/us/pl/97/35/s641A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs641A
-[/us/pl/103/252/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs108
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F631
-[/us/pl/105/285/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2713
-[/us/pl/110/134/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs8
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1385
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
-[/us/pl/105/285/s108/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F1%2FA
-[/us/pl/105/285/s108/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F1%2FB
-[/us/pl/105/285/s108/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F1%2FC
-[/us/pl/105/285/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F2
-[/us/pl/105/285/s108/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F4%2FA
-[/us/pl/105/285/s108/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F4%2FB%2Fi
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9846/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9846%2Fb
-[/us/pl/105/285/s108/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F4%2FB%2Fii
-[/us/pl/105/285/s108/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F5
-[/us/pl/105/285/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F3
-[/us/pl/105/285/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fa%2F3
-[/us/pl/105/285/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F1
-[/us/pl/105/285/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F2
-[/us/pl/105/285/s108/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F3%2FA
-[/us/pl/105/285/s108/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F3%2FC
-[/us/pl/105/285/s108/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F3%2FD
-[/us/pl/105/285/s108/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F3%2FE
-[/us/pl/105/285/s108/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F4
-[/us/pl/105/285/s108/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fb%2F5
-[/us/pl/105/285/s108/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fc%2F1
-[/us/pl/105/285/s108/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fc%2F2%2FA
-[/us/pl/105/285/s108/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fc%2F2%2FB
-[/us/pl/105/285/s108/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fc%2F2%2FC
-[/us/pl/105/285/s108/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fd%2F1%2FA
-[/us/pl/105/285/s108/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fd%2F1%2FB
-[/us/pl/105/285/s108/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fd%2F2
-[/us/pl/105/285/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs108%2Fe
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
 [/us/usc/t42/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9832

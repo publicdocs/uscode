@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1977—[Pub. L. 95–95, title I, § 117(a)][/us/pl/95/95/s117/a], Aug. 7, 1977, [91 Stat. 712][/us/stat/91/712], designated sections 7401 to 7428 of this title as part A.
+    1977—[Pub. L. 95–95, title I][/us/pl/95/95/tI], § 117(a), Aug. 7, 1977, [91 Stat. 712][/us/stat/91/712], designated sections 7401 to 7428 of this title as part A.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/95/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs117%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F712
 
 

@@ -327,7 +327,7 @@
 
         Not later than 1 year after December 17, 1999, the Commissioner shall prescribe such regulations as are necessary to carry out the provisions of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1148, as added [Pub. L. 106–170, title I, § 101(a)][/us/pl/106/170/s101/a], Dec. 17, 1999, [113 Stat. 1863][/us/stat/113/1863]; amended [Pub. L. 108–203, title IV, § 405(a)][/us/pl/108/203/s405/a], Mar. 2, 2004, [118 Stat. 526][/us/stat/118/526]; [Pub. L. 113–128, title V, § 512(dd)(2)][/us/pl/113/128/s512/dd/2], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1148, as added [Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(a), Dec. 17, 1999, [113 Stat. 1863][/us/stat/113/1863]; amended [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 405(a), Mar. 2, 2004, [118 Stat. 526][/us/stat/118/526]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(dd)(2), July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
 
  __References in Text__ 
 
@@ -349,19 +349,19 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title IV, § 405(b)][/us/pl/108/203/s405/b], Mar. 2, 2004, [118 Stat. 527][/us/stat/118/527], provided that: 
+[Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 405(b), Mar. 2, 2004, [118 Stat. 527][/us/stat/118/527], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 505 of the Ticket to Work and Work Incentives Improvement Act of 1999 ([Public Law 106–170][/us/pl/106/170]; [113 Stat. 1921][/us/stat/113/1921]).”
 
  __Effective Date__ 
 
-[Pub. L. 106–170, title I, § 101(c)][/us/pl/106/170/s101/c], [113 Stat. 1874][/us/stat/113/1874], provided that: 
+[Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(c), [113 Stat. 1874][/us/stat/113/1874], provided that: 
 
 > “Subject to subsection (d) \[set out as a note below\], the amendments made by subsections (a) and (b) \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] shall take effect with the first month following 1 year after the date of the enactment of this Act \[Dec. 17, 1999\].”
 
  __Regulations__ 
 
-[Pub. L. 106–170, title I, § 101(e)][/us/pl/106/170/s101/e], Dec. 17, 1999, [113 Stat. 1877][/us/stat/113/1877], provided that:
+[Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(e), Dec. 17, 1999, [113 Stat. 1877][/us/stat/113/1877], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -421,7 +421,7 @@
 
  __GAO Study Regarding the Ticket to Work and Self-Sufficiency Program__ 
 
-[Pub. L. 108–203, title IV, § 406][/us/pl/108/203/s406], Mar. 2, 2004, [118 Stat. 527][/us/stat/118/527], provided that:
+[Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 406, Mar. 2, 2004, [118 Stat. 527][/us/stat/118/527], provided that:
 
 >     “(a) __\[sic\] GAO__  __Report__  __.—__ 
 
@@ -435,7 +435,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 106–170, § 2][/us/pl/106/170/s2], Dec. 17, 1999, [113 Stat. 1862][/us/stat/113/1862], provided that:
+[Pub. L. 106–170][/us/pl/106/170], § 2, Dec. 17, 1999, [113 Stat. 1862][/us/stat/113/1862], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -479,7 +479,7 @@
 
  __Graduated Implementation of Program__ 
 
-[Pub. L. 106–170, title I, § 101(d)][/us/pl/106/170/s101/d], Dec. 17, 1999, [113 Stat. 1874][/us/stat/113/1874], provided that:
+[Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(d), Dec. 17, 1999, [113 Stat. 1874][/us/stat/113/1874], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -557,7 +557,7 @@
 
  __Ticket to Work and Work Incentives Advisory Panel__ 
 
-[Pub. L. 106–170, title I, § 101(f)][/us/pl/106/170/s101/f], Dec. 17, 1999, [113 Stat. 1878][/us/stat/113/1878], provided that:
+[Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(f), Dec. 17, 1999, [113 Stat. 1878][/us/stat/113/1878], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -722,11 +722,11 @@
 [/us/usc/t42/s1382c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa%2F2
 [/us/usc/t42/s1382c/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa%2F3
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/170/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fa
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1863
-[/us/pl/108/203/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs405%2Fa
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F526
-[/us/pl/113/128/s512/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F2
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
@@ -739,29 +739,29 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/108/203/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs405%2Fb
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F527
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/stat/113/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1921
-[/us/pl/106/170/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fc
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1874
-[/us/pl/106/170/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fe
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1877
 [/us/usc/t42/s1320b–19/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fb%2F1
-[/us/pl/108/203/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs406
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F527
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
-[/us/pl/106/170/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs2
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/stat/113/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1862
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/106/170/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fd
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1874
 [/us/usc/t42/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fa
 [/us/usc/t42/s422/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fd%2F2
 [/us/usc/t42/s422/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fd%2F2
-[/us/pl/106/170/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Ff
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1878
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319

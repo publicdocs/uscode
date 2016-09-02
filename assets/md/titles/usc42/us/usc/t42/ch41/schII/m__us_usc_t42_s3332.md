@@ -21,7 +21,7 @@
 
     (2) all Federal agencies which are engaged in administering programs related to areawide development, or which otherwise perform functions relating thereto, shall, to the maximum extent practicable, consult with and seek advice from all other significantly affected Federal departments and agencies in an effort to assure fully coordinated programs.
 
-([Pub. L. 89–754, title II, § 202][/us/pl/89/754/s202], Nov. 3, 1966, [80 Stat. 1261][/us/stat/80/1261]; [Pub. L. 90–448, title VI, § 602(c)][/us/pl/90/448/s602/c], Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532].)
+([Pub. L. 89–754, title II][/us/pl/89/754/tII], § 202, Nov. 3, 1966, [80 Stat. 1261][/us/stat/80/1261]; [Pub. L. 90–448, title VI][/us/pl/90/448/tVI], § 602(c), Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/89/754/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs202
+[/us/pl/89/754/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtII
 [/us/stat/80/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1261
-[/us/pl/90/448/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fc
+[/us/pl/90/448/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVI
 [/us/stat/82/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F532
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 

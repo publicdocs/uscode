@@ -51,7 +51,7 @@
 
         There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year 2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.
 
-([Pub. L. 93–288, title VI, § 629][/us/pl/93/288/s629], as added [Pub. L. 107–73, title IV, § 431][/us/pl/107/73/s431], Nov. 26, 2001, [115 Stat. 697][/us/stat/115/697]; amended [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 629, as added [Pub. L. 107–73, title IV][/us/pl/107/73/tIV], § 431, Nov. 26, 2001, [115 Stat. 697][/us/stat/115/697]; amended [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __References in Text__ 
 
@@ -78,10 +78,10 @@
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
 [/us/usc/t20/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061%2F2
 [/us/usc/t20/s1101a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a%2Fa%2F5
-[/us/pl/93/288/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs629
-[/us/pl/107/73/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs431
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
+[/us/pl/107/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtIV
 [/us/stat/115/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F697
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/usc/t20/s1063b/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063b%2Fe%2F1
 [/us/usc/t20/s1063b/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063b%2Fe%2F1%2FA

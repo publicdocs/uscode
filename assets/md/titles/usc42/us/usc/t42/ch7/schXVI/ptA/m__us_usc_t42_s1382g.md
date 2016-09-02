@@ -89,11 +89,11 @@
 
                 (ii) in a case to which clause (iii) of such [section 1382(e)(1)(B) of this title][/us/usc/t42/s1382/e/1/B] applies, by $10.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1618, as added [Pub. L. 94–585, § 2(a)][/us/pl/94/585/s2/a], Oct. 21, 1976, [90 Stat. 2901][/us/stat/90/2901]; amended [Pub. L. 97–248, title I, § 186][/us/pl/97/248/s186], Sept. 3, 1982, [96 Stat. 407][/us/stat/96/407]; [Pub. L. 97–377, title I, § 147][/us/pl/97/377/s147], Dec. 21, 1982, [96 Stat. 1917][/us/stat/96/1917]; [Pub. L. 98–21, title IV, § 402][/us/pl/98/21/s402], Apr. 20, 1983, [97 Stat. 139][/us/stat/97/139]; [Pub. L. 98–369, div. B, title VI, § 2663(g)(9)][/us/pl/98/369/s2663/g/9], July 18, 1984, [98 Stat. 1169][/us/stat/98/1169]; [Pub. L. 99–272, title XII, § 12201(a)][/us/pl/99/272/s12201/a], Apr. 7, 1986, [100 Stat. 289][/us/stat/100/289]; [Pub. L. 100–203, title IX, § 9119(b)][/us/pl/100/203/s9119/b], Dec. 22, 1987, [101 Stat. 1330–309][/us/stat/101/1330-309]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title II, § 209(a), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1517.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1618, as added [Pub. L. 94–585][/us/pl/94/585], § 2(a), Oct. 21, 1976, [90 Stat. 2901][/us/stat/90/2901]; amended [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 186, Sept. 3, 1982, [96 Stat. 407][/us/stat/96/407]; [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 147, Dec. 21, 1982, [96 Stat. 1917][/us/stat/96/1917]; [Pub. L. 98–21, title IV][/us/pl/98/21/tIV], § 402, Apr. 20, 1983, [97 Stat. 139][/us/stat/97/139]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(g)(9), July 18, 1984, [98 Stat. 1169][/us/stat/98/1169]; [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12201(a), Apr. 7, 1986, [100 Stat. 289][/us/stat/100/289]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9119(b), Dec. 22, 1987, [101 Stat. 1330–309][/us/stat/101/1330-309]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), title II, § 209(a), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1517.)
 
  __References in Text__ 
 
-    Sections 211(a)(1)(A) and 212(a) of [Public Law 93–66][/us/pl/93/66], referred to in subsecs. (a), (e)(1), (f), and (g), are sections 211(a)(1)(A) and 212(a) of [Pub. L. 93–66, title II][/us/pl/93/66], July 9, 1973, [87 Stat. 154][/us/stat/87/154], 155, as amended, which are set out as notes under [section 1382 of this title][/us/usc/t42/s1382].
+    Sections 211(a)(1)(A) and 212(a) of [Public Law 93–66][/us/pl/93/66], referred to in subsecs. (a), (e)(1), (f), and (g), are sections 211(a)(1)(A) and 212(a) of [Pub. L. 93–66, title II][/us/pl/93/66/tII], July 9, 1973, [87 Stat. 154][/us/stat/87/154], 155, as amended, which are set out as notes under [section 1382 of this title][/us/usc/t42/s1382].
 
     Section 5041 of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (b)(2), is [section 5041 of Pub. L. 101–508][/us/pl/101/508/s5041], title V, Nov. 5, 1990, [104 Stat. 1388–227][/us/stat/104/1388-227], which is not classified to the Code.
 
@@ -101,21 +101,21 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary”.
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
-    Subsec. (b). [Pub. L. 103–296, § 209(a)][/us/pl/103/296/s209/a], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 103–296][/us/pl/103/296], § 209(a), designated existing provisions as par. (1) and added par. (2).
 
-    [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], in subsec. (b) as amended by [Pub. L. 103–296, § 209(a)][/us/pl/103/296/s209/a], substituted “Commissioner of Social Security” for “Secretary” in two places.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), in subsec. (b) as amended by [Pub. L. 103–296][/us/pl/103/296], § 209(a), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
-    Subsecs. (d), (f), (g). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary”.
+    Subsecs. (d), (f), (g). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
     1987—Subsec. (g). [Pub. L. 100–203][/us/pl/100/203] added subsec. (g).
 
     1986—Subsec. (f). [Pub. L. 99–272][/us/pl/99/272] added subsec. (f).
 
-    1984—Subsec. (d). [Pub. L. 98–369, § 2663(g)(9)(A)][/us/pl/98/369/s2663/g/9/A], realigned margin of subsec. (d).
+    1984—Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 2663(g)(9)(A), realigned margin of subsec. (d).
 
-    [Pub. L. 98–369, § 2663(g)(9)(B)][/us/pl/98/369/s2663/g/9/B], (C), struck out the comma after “levels of its”, and inserted a comma after “1980” and after “1976”, wherever appearing.
+    [Pub. L. 98–369][/us/pl/98/369], § 2663(g)(9)(B), (C), struck out the comma after “levels of its”, and inserted a comma after “1980” and after “1976”, wherever appearing.
 
     1983—Subsecs. (c), (d). [Pub. L. 98–21][/us/pl/98/21] redesignated subsec. (c), added by [Pub. L. 97–377][/us/pl/97/377], as (d).
 
@@ -129,7 +129,7 @@
 
     Amendment by [section 107(a)(4) of Pub. L. 103–296][/us/pl/103/296/s107/a/4] effective Mar. 31, 1995, see [section 110(a) of Pub. L. 103–296][/us/pl/103/296/s110/a], set out as a note under [section 401 of this title][/us/usc/t42/s401].
 
-[Pub. L. 103–296, title II, § 209(b)][/us/pl/103/296/s209/b], Aug. 15, 1994, [108 Stat. 1517][/us/stat/108/1517], provided that: 
+[Pub. L. 103–296, title II][/us/pl/103/296/tII], § 209(b), Aug. 15, 1994, [108 Stat. 1517][/us/stat/108/1517], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to increases in the level of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] whether occurring before, on, or after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
@@ -143,7 +143,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–585, § 2(c)][/us/pl/94/585/s2/c], Oct. 21, 1976, [90 Stat. 2902][/us/stat/90/2902], provided that: 
+[Pub. L. 94–585][/us/pl/94/585], § 2(c), Oct. 21, 1976, [90 Stat. 2902][/us/stat/90/2902], provided that: 
 
 > “The provisions of this section \[enacting this section and provisions set out as a note under [section 1382e of this title][/us/usc/t42/s1382e]\] shall be effective with respect to benefits payable for months after June 1977.”
 
@@ -179,24 +179,24 @@
 [/us/usc/t42/s1382/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FB
 [/us/usc/t42/s1382/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FB
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/94/585/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F585%2Fs2%2Fa
+[/us/pl/94/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F585
 [/us/stat/90/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2901
-[/us/pl/97/248/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs186
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F407
-[/us/pl/97/377/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs147
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1917
-[/us/pl/98/21/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs402
+[/us/pl/98/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIV
 [/us/stat/97/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F139
-[/us/pl/98/369/s2663/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F9
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1169
-[/us/pl/99/272/s12201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12201%2Fa
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F289
-[/us/pl/100/203/s9119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9119%2Fb
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-309
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/pl/93/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66
-[/us/pl/93/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66
+[/us/pl/93/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2FtII
 [/us/stat/87/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F154
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/101/508/s5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5041
@@ -204,15 +204,15 @@
 [/us/pl/98/21/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs111
 [/us/stat/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F72
 [/us/usc/t38/s5123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5123
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs209%2Fa
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs209%2Fa
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/98/369/s2663/g/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F9%2FA
-[/us/pl/98/369/s2663/g/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F9%2FB
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
@@ -221,7 +221,7 @@
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/103/296/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs209%2Fb
+[/us/pl/103/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtII
 [/us/stat/108/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1517
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203/s9119/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9119%2Fc
@@ -229,7 +229,7 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/94/585/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F585%2Fs2%2Fc
+[/us/pl/94/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F585
 [/us/stat/90/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2902
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

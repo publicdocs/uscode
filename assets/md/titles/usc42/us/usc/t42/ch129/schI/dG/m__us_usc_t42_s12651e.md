@@ -77,13 +77,13 @@
 
             Each Assistant Director appointed pursuant to paragraph (1) may exercise the authority assigned to each such Director only after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993.
 
-([Pub. L. 101–610, title I, § 194][/us/pl/101/610/s194], as added [Pub. L. 103–82, title II, § 202(a)][/us/pl/103/82/s202/a], Sept. 21, 1993, [107 Stat. 882][/us/stat/107/882]; amended [Pub. L. 110–409, § 4(a)(4)][/us/pl/110/409/s4/a/4], Oct. 14, 2008, [122 Stat. 4304][/us/stat/122/4304]; [Pub. L. 111–13, title I, § 1705][/us/pl/111/13/s1705], Apr. 21, 2009, [123 Stat. 1547][/us/stat/123/1547]; [Pub. L. 112–166, § 2(p)][/us/pl/112/166/s2/p], Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 194, as added [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(a), Sept. 21, 1993, [107 Stat. 882][/us/stat/107/882]; amended [Pub. L. 110–409][/us/pl/110/409], § 4(a)(4), Oct. 14, 2008, [122 Stat. 4304][/us/stat/122/4304]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1705, Apr. 21, 2009, [123 Stat. 1547][/us/stat/123/1547]; [Pub. L. 112–166][/us/pl/112/166], § 2(p), Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
 
  __References in Text__ 
 
     The Inspector General Act of 1978, referred to in subsec. (b)(2), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-    The Domestic Volunteer Service Act of 1973, referred to in subsec. (d)(1), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394]. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. Part A of title I of the Act is classified generally to part A (§ 4951 et seq.) of subchapter I of chapter 66 of this title. Part B of title I of the Act, which was classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of this title, was repealed by [Pub. L. 111–13, title II, § 2121][/us/pl/111/13/s2121], Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584]. Parts A, B, and C of title II of the Act are classified generally to parts A (§ 5001 et seq.), B (§ 5011 et seq.), and C (§ 5013 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables.
+    The Domestic Volunteer Service Act of 1973, referred to in subsec. (d)(1), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394]. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. Part A of title I of the Act is classified generally to part A (§ 4951 et seq.) of subchapter I of chapter 66 of this title. Part B of title I of the Act, which was classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of this title, was repealed by [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2121, Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584]. Parts A, B, and C of title II of the Act are classified generally to parts A (§ 5001 et seq.), B (§ 5011 et seq.), and C (§ 5013 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables.
 
     Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (d)(2), is [section 203(c)(2) of Pub. L. 103–82][/us/pl/103/82/s203/c/2], which is set out as a note under [section 12651 of this title][/us/usc/t42/s12651]. For the effective date of section 203(c)(2) of this Act, see [section 203(d) of Pub. L. 103–82][/us/pl/103/82/s203/d], set out as an Effective Date of 1993 Amendment note under [section 12651 of this title][/us/usc/t42/s12651].
 
@@ -125,20 +125,20 @@
 [/us/usc/t42/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5001
 [/us/usc/t42/s5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5011
 [/us/usc/t42/s5013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5013
-[/us/pl/101/610/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs194
-[/us/pl/103/82/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F882
-[/us/pl/110/409/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs4%2Fa%2F4
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4304
-[/us/pl/111/13/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1705
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1547
-[/us/pl/112/166/s2/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fp
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1288
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
-[/us/pl/111/13/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2121
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1584
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/103/82/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fc%2F2

@@ -17,7 +17,7 @@
 
     The Secretary may provide technical assistance to assist entities in complying with the requirements of sections 254c–9 to 254c–13 of this title in order to make such entities eligible to receive grants under [section 254c–9 of this title][/us/usc/t42/s254c–9].
 
-([Pub. L. 106–505, title V, § 523][/us/pl/106/505/s523], Nov. 13, 2000, [114 Stat. 2344][/us/stat/114/2344].)
+([Pub. L. 106–505, title V][/us/pl/106/505/tV], § 523, Nov. 13, 2000, [114 Stat. 2344][/us/stat/114/2344].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s254c–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%939
-[/us/pl/106/505/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs523
+[/us/pl/106/505/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtV
 [/us/stat/114/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2344
 
 

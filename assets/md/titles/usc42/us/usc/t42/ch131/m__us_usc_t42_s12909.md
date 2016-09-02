@@ -31,11 +31,11 @@
 
             For any individual with acquired immunodeficiency syndrome or related diseases who requires more care than can be provided in housing assisted under this section, locating a care provider who can appropriately care for the individual and referral of the individual to the care provider.
 
-([Pub. L. 101–625, title VIII, § 860][/us/pl/101/625/s860], Nov. 28, 1990, [104 Stat. 4381][/us/stat/104/4381]; [Pub. L. 102–550, title VI, § 606(j)(7)][/us/pl/102/550/s606/j/7], Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 860, Nov. 28, 1990, [104 Stat. 4381][/us/stat/104/4381]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(j)(7), Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810].)
 
  __References in Text__ 
 
-    [Section 1437f(n) of this title][/us/usc/t42/s1437f/n], referred to in subsec. (a), was repealed by [Pub. L. 105–276, title V, § 550(a)(7)][/us/pl/105/276/s550/a/7], Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609].
+    [Section 1437f(n) of this title][/us/usc/t42/s1437f/n], referred to in subsec. (a), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 550(a)(7), Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609].
 
  __Amendments__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/101/625/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs860
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4381
-[/us/pl/102/550/s606/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F7
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3810
 [/us/usc/t42/s1437f/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fn
-[/us/pl/105/276/s550/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F7
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

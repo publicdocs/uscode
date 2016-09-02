@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch150/schIV/m__us_usc_t42_ch150_schIV.md) | [Next](./../../../../..//us/usc/t42/ch150/schIV/ptA/m__us_usc_t42_ch150_schIV_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16701)
 
-## § 16701. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
+## § 16701. Repealed. [Pub. L. 111–314][/us/pl/111/314], § 6, Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
-    Section, [Pub. L. 109–155, title IV, § 401][/us/pl/109/155/s401], Dec. 30, 2005, [119 Stat. 2923][/us/stat/119/2923], defined “institution of higher education”. See [section 40101 of Title 51][/us/usc/t51/s40101], National and Commercial Space Programs.
+    Section, [Pub. L. 109–155, title IV][/us/pl/109/155/tIV], § 401, Dec. 30, 2005, [119 Stat. 2923][/us/stat/119/2923], defined “institution of higher education”. See [section 40101 of Title 51][/us/usc/t51/s40101], National and Commercial Space Programs.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/109/155/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs401
+[/us/pl/109/155/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtIV
 [/us/stat/119/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2923
 [/us/usc/t51/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40101
 

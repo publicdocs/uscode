@@ -165,7 +165,7 @@
 
         (4) a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
 
-([Pub. L. 110–403, title IV, § 404][/us/pl/110/403/s404], Oct. 13, 2008, [122 Stat. 4274][/us/stat/122/4274].)
+([Pub. L. 110–403, title IV][/us/pl/110/403/tIV], § 404, Oct. 13, 2008, [122 Stat. 4274][/us/stat/122/4274].)
 
  __References in Text__ 
 
@@ -188,7 +188,7 @@
 [/us/usc/t42/s3713b/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3713b%2Fa%2F4
 [/us/usc/t42/s3713b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3713b%2Fb
 [/us/usc/t42/s3713c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3713c
-[/us/pl/110/403/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs404
+[/us/pl/110/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIV
 [/us/stat/122/4274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4274
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/stat/122/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4271

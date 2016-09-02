@@ -143,19 +143,19 @@
 
         (2) to prevent a health insurance issuer offering health insurance coverage in the individual market from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2741, as added [Pub. L. 104–191, title I, § 111(a)][/us/pl/104/191/s111/a], Aug. 21, 1996, [110 Stat. 1978][/us/stat/110/1978].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2741, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 111(a), Aug. 21, 1996, [110 Stat. 1978][/us/stat/110/1978].)
 
  __References in Text__ 
 
-    Section 2701 of this Act, referred to in subsecs. (a)(1)(B) and (b)(1)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title][/us/usc/t42/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3]. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t42/s300gg].
+    Section 2701 of this Act, referred to in subsecs. (a)(1)(B) and (b)(1)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title][/us/usc/t42/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3]. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t42/s300gg].
 
     The Social Security Act, referred to in subsec. (b)(2), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
-    Section 2712, referred to in subsec. (b)(3), is a reference to section 2712 of act July 1, 1944. Section 2712, which was classified to [section 300gg–12 of this title][/us/usc/t42/s300gg–12], was renumbered section 2732 and amended and transferred to subsecs. (b) to (e) of [section 300gg–2 of this title][/us/usc/t42/s300gg–2] by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(3), 1563(c)(9), formerly § 1562(c)(9), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 267, 911. A new section 2712 of act July 1, 1944, related to prohibition on rescissions, was added by [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], Mar. 23, 2010, [124 Stat. 131][/us/stat/124/131], effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to [section 300gg–12 of this title][/us/usc/t42/s300gg–12].
+    Section 2712, referred to in subsec. (b)(3), is a reference to section 2712 of act July 1, 1944. Section 2712, which was classified to [section 300gg–12 of this title][/us/usc/t42/s300gg–12], was renumbered section 2732 and amended and transferred to subsecs. (b) to (e) of [section 300gg–2 of this title][/us/usc/t42/s300gg–2] by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(3), 1563(c)(9), formerly § 1562(c)(9), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 267, 911. A new section 2712 of act July 1, 1944, related to prohibition on rescissions, was added by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), Mar. 23, 2010, [124 Stat. 131][/us/stat/124/131], effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to [section 300gg–12 of this title][/us/usc/t42/s300gg–12].
 
  __Effective Date__ 
 
-[Pub. L. 104–191, title I, § 111(b)][/us/pl/104/191/s111/b], Aug. 21, 1996, [110 Stat. 1987][/us/stat/110/1987], provided that:
+[Pub. L. 104–191, title I][/us/pl/104/191/tI], § 111(b), Aug. 21, 1996, [110 Stat. 1987][/us/stat/110/1987], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -180,13 +180,13 @@
 [/us/usc/t42/s300gg–44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9344
 [/us/usc/t42/s300gg–44/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9344%2Fc%2F3%2FA
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs111%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1978
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F155
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -194,12 +194,12 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s300gg–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9312
 [/us/usc/t42/s300gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%932
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F131
 [/us/usc/t42/s300gg–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9312
-[/us/pl/104/191/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs111%2Fb
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1987
 [/us/usc/t42/s300gg–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9341
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg

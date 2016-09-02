@@ -15,13 +15,13 @@
 
 ##### subpart ii—improving coverage
 
-    A prior subpart 2, consisting of sections 300gg–4 to 300gg–7, related to other requirements, prior to repeal of the subpart designation and heading and transfer of sections 300gg–4 to 300gg–7 to 300gg–25 to 300gg–28, respectively, of this title by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(2), 1563(c)(2), formerly § 1562(c)(2), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911.
+    A prior subpart 2, consisting of sections 300gg–4 to 300gg–7, related to other requirements, prior to repeal of the subpart designation and heading and transfer of sections 300gg–4 to 300gg–7 to 300gg–25 to 300gg–28, respectively, of this title by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(2), 1563(c)(2), formerly § 1562(c)(2), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911.
 
-    Another prior subpart 2, consisting of sections 300gg–11 to 300gg–13, related to provisions applicable only to health insurance issuers, was redesignated subpart 3 of this part by [Pub. L. 104–204, title VI, § 604(a)(2)][/us/pl/104/204/s604/a/2], Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939].
+    Another prior subpart 2, consisting of sections 300gg–11 to 300gg–13, related to provisions applicable only to health insurance issuers, was redesignated subpart 3 of this part by [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 604(a)(2), Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939].
 
-    A prior subpart 3, consisting of sections 300gg–11 to 300gg–13, related to provisions applicable only to health insurance issuers, prior to repeal of the subpart designation and heading by [Pub. L. 111–148, title I, § 1563(c)(7)][/us/pl/111/148/s1563/c/7], formerly § 1562(c)(7), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 266][/us/stat/124/266], 911.
+    A prior subpart 3, consisting of sections 300gg–11 to 300gg–13, related to provisions applicable only to health insurance issuers, prior to repeal of the subpart designation and heading by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563(c)(7), formerly § 1562(c)(7), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 266][/us/stat/124/266], 911.
 
-    A prior subpart 4, consisting of sections 300gg–21 to 300gg–23, which related to exclusion of plans, enforcement, and preemption, was redesignated subpart 2 of this part by [Pub. L. 111–148, title I, § 1563(c)(11)][/us/pl/111/148/s1563/c/11], formerly § 1562(c)(11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 268][/us/stat/124/268], 911.
+    A prior subpart 4, consisting of sections 300gg–21 to 300gg–23, which related to exclusion of plans, enforcement, and preemption, was redesignated subpart 2 of this part by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563(c)(11), formerly § 1562(c)(11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 268][/us/stat/124/268], 911.
 
 ----------
 
@@ -30,13 +30,13 @@
 ----------
 ----------
 
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/104/204/s604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs604%2Fa%2F2
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2939
-[/us/pl/111/148/s1563/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F7
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F266
-[/us/pl/111/148/s1563/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F11
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F268
 
 

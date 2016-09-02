@@ -35,7 +35,7 @@
 
         When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever he has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of subsection (a)(2) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1908, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 542][/us/stat/95/542].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1908, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 542][/us/stat/95/542].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F542
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728

@@ -27,7 +27,7 @@
 
     Paragraph (4) shall not apply to the recovery of the appropriate share of depreciation when gains or losses are realized from the disposal of depreciable assets.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1134, as added [Pub. L. 96–499, title IX, § 901(a)][/us/pl/96/499/s901/a], Dec. 5, 1980, [94 Stat. 2611][/us/stat/94/2611]; amended [Pub. L. 97–35, title XXI, § 2193(c)(6)][/us/pl/97/35/s2193/c/6], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]; [Pub. L. 97–248, title I, § 137(b)(5)][/us/pl/97/248/s137/b/5], Sept. 3, 1982, [96 Stat. 377][/us/stat/96/377]; [Pub. L. 101–239, title VI, § 6003(g)(3)(D)(iii)][/us/pl/101/239/s6003/g/3/D/iii], Dec. 19, 1989, [103 Stat. 2153][/us/stat/103/2153]; [Pub. L. 105–33, title IV, § 4201(c)(1)][/us/pl/105/33/s4201/c/1], Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1134, as added [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 901(a), Dec. 5, 1980, [94 Stat. 2611][/us/stat/94/2611]; amended [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(c)(6), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]; [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 137(b)(5), Sept. 3, 1982, [96 Stat. 377][/us/stat/96/377]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6003(g)(3)(D)(iii), Dec. 19, 1989, [103 Stat. 2153][/us/stat/103/2153]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4201(c)(1), Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–499, title IX, § 901(b)][/us/pl/96/499/s901/b], Dec. 5, 1980, [94 Stat. 2611][/us/stat/94/2611], provided that: 
+[Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 901(b), Dec. 5, 1980, [94 Stat. 2611][/us/stat/94/2611], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply to grants, gifts, and endowments, and income therefrom, made or established after the date of the enactment of this Act \[Dec. 5, 1980\].”
 
@@ -65,15 +65,15 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/499/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs901%2Fa
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2611
-[/us/pl/97/35/s2193/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F6
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
-[/us/pl/97/248/s137/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fb%2F5
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F377
-[/us/pl/101/239/s6003/g/3/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6003%2Fg%2F3%2FD%2Fiii
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2153
-[/us/pl/105/33/s4201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4201%2Fc%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F373
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
@@ -89,7 +89,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/96/499/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs901%2Fb
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2611
 
 

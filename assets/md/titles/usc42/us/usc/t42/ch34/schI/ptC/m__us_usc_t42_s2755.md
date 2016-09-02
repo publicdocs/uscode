@@ -61,13 +61,13 @@
 
             (B) The term “major disaster” has the meaning given such term in [section 5122(2) of this title][/us/usc/t42/s5122/2].
 
-([Pub. L. 89–329, title IV, § 445][/us/pl/89/329/s445], formerly title I, § 145, as added and renumbered [Pub. L. 90–575, title I, § 131(a)][/us/pl/90/575/s131/a], (b)(1), Oct. 16, 1968, [82 Stat. 1028][/us/stat/82/1028]; amended [Pub. L. 99–498, title IV, § 403(a)][/us/pl/99/498/s403/a], Oct. 17, 1986, [100 Stat. 1435][/us/stat/100/1435]; [Pub. L. 102–325, title IV, § 444][/us/pl/102/325/s444], July 23, 1992, [106 Stat. 566][/us/stat/106/566]; [Pub. L. 105–244, title IV, § 444][/us/pl/105/244/s444], Oct. 7, 1998, [112 Stat. 1714][/us/stat/112/1714]; [Pub. L. 110–315, title IV, § 444][/us/pl/110/315/s444], Aug. 14, 2008, [122 Stat. 3259][/us/stat/122/3259].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 445, formerly title I, § 145, as added and renumbered [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 131(a), (b)(1), Oct. 16, 1968, [82 Stat. 1028][/us/stat/82/1028]; amended [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 403(a), Oct. 17, 1986, [100 Stat. 1435][/us/stat/100/1435]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 444, July 23, 1992, [106 Stat. 566][/us/stat/106/566]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 444, Oct. 7, 1998, [112 Stat. 1714][/us/stat/112/1714]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 444, Aug. 14, 2008, [122 Stat. 3259][/us/stat/122/3259].)
 
  __Codification__ 
 
-    Section was originally enacted as section 125 of the Economic Opportunity Act of 1964, [Pub. L. 88–452, title I][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 516][/us/stat/78/516]. As such, it had been amended by [Pub. L. 89–329, title IV, § 441(6)][/us/pl/89/329/s441/6], Nov. 8, 1965, [79 Stat. 1250][/us/stat/79/1250], and renumbered section 145 by [Pub. L. 90–222, title I, § 111(a)][/us/pl/90/222/s111/a], Dec. 23, 1967, [81 Stat. 726][/us/stat/81/726].
+    Section was originally enacted as section 125 of the Economic Opportunity Act of 1964, [Pub. L. 88–452, title I][/us/pl/88/452/tI], Aug. 20, 1964, [78 Stat. 516][/us/stat/78/516]. As such, it had been amended by [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 441(6), Nov. 8, 1965, [79 Stat. 1250][/us/stat/79/1250], and renumbered section 145 by [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 111(a), Dec. 23, 1967, [81 Stat. 726][/us/stat/81/726].
 
-    Under [Pub. L. 90–575, title I, § 131(a)][/us/pl/90/575/s131/a], Oct. 16, 1968, [82 Stat. 1028][/us/stat/82/1028], section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, [Pub. L. 88–452][/us/pl/88/452], and inserted as Part C of title IV of the Higher Education Act of 1965, [Pub. L. 89–329][/us/pl/89/329]. Former Part C of title IV of [Pub. L. 89–329][/us/pl/89/329], as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by [section 441(6) of Pub. L. 89–329][/us/pl/89/329/s441/6] has not been struck out.
+    Under [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 131(a), Oct. 16, 1968, [82 Stat. 1028][/us/stat/82/1028], section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, [Pub. L. 88–452][/us/pl/88/452], and inserted as Part C of title IV of the Higher Education Act of 1965, [Pub. L. 89–329][/us/pl/89/329]. Former Part C of title IV of [Pub. L. 89–329][/us/pl/89/329], as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by [section 441(6) of Pub. L. 89–329][/us/pl/89/329/s441/6] has not been struck out.
 
  __Amendments__ 
 
@@ -97,24 +97,24 @@
 [/us/usc/t42/s2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2753
 [/us/usc/t42/s2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2753
 [/us/usc/t42/s5122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122%2F2
-[/us/pl/89/329/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs445
-[/us/pl/90/575/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs131%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1028
-[/us/pl/99/498/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs403%2Fa
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1435
-[/us/pl/102/325/s444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs444
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F566
-[/us/pl/105/244/s444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs444
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1714
-[/us/pl/110/315/s444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs444
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3259
-[/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
+[/us/pl/88/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtI
 [/us/stat/78/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F516
-[/us/pl/89/329/s441/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs441%2F6
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1250
-[/us/pl/90/222/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs111%2Fa
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F726
-[/us/pl/90/575/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs131%2Fa
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1028
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329

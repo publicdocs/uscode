@@ -233,7 +233,7 @@
 
             In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner’s responsibility and not the contractor’s responsibility.
 
-([Pub. L. 93–288, title IV, § 406][/us/pl/93/288/s406], as added [Pub. L. 100–707, title I, § 106(b)][/us/pl/100/707/s106/b], Nov. 23, 1988, [102 Stat. 4699][/us/stat/102/4699]; amended [Pub. L. 106–390, title II, § 205(a)][/us/pl/106/390/s205/a]–(d)(1), (e), Oct. 30, 2000, [114 Stat. 1562–1564][/us/stat/114/1562-1564], 1566; [Pub. L. 109–295, title VI, § 689h][/us/pl/109/295/s689h], Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453]; [Pub. L. 109–347, title VI, § 609][/us/pl/109/347/s609], Oct. 13, 2006, [120 Stat. 1942][/us/stat/120/1942]; [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864]; [Pub. L. 114–111, § 2(b)][/us/pl/114/111/s2/b], Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 406, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(b), Nov. 23, 1988, [102 Stat. 4699][/us/stat/102/4699]; amended [Pub. L. 106–390, title II][/us/pl/106/390/tII], § 205(a)–(d)(1), (e), Oct. 30, 2000, [114 Stat. 1562–1564][/us/stat/114/1562-1564], 1566; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689h, Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453]; [Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 609, Oct. 13, 2006, [120 Stat. 1942][/us/stat/120/1942]; [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864]; [Pub. L. 114–111][/us/pl/114/111], § 2(b), Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240].)
 
  __References in Text__ 
 
@@ -245,7 +245,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5172, [Pub. L. 93–288, title IV, § 402][/us/pl/93/288/s402], May 22, 1974, [88 Stat. 153][/us/stat/88/153], related to repair and restoration of damaged facilities, prior to repeal by [Pub. L. 100–707, § 106(b)][/us/pl/100/707/s106/b].
+    A prior section 5172, [Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 402, May 22, 1974, [88 Stat. 153][/us/stat/88/153], related to repair and restoration of damaged facilities, prior to repeal by [Pub. L. 100–707][/us/pl/100/707], § 106(b).
 
     A prior [section 406 of Pub. L. 93–288][/us/pl/93/288/s406] was renumbered section 409 by [Pub. L. 100–707][/us/pl/100/707] and is classified to [section 5176 of this title][/us/usc/t42/s5176].
 
@@ -257,17 +257,17 @@
 
     2006—Subsec. (a)(3)(B). [Pub. L. 109–295][/us/pl/109/295] inserted “education,” after “communications,”.
 
-    Subsec. (c)(1)(A). [Pub. L. 109–347, § 609(1)][/us/pl/109/347/s609/1], substituted “90” for “75”.
+    Subsec. (c)(1)(A). [Pub. L. 109–347][/us/pl/109/347], § 609(1), substituted “90” for “75”.
 
-    Subsec. (c)(1)(B) to (D). [Pub. L. 109–347, § 609(2)][/us/pl/109/347/s609/2], (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.”
+    Subsec. (c)(1)(B) to (D). [Pub. L. 109–347][/us/pl/109/347], § 609(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.”
 
-    2000—Subsec. (a). [Pub. L. 106–390, § 205(a)][/us/pl/106/390/s205/a], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The President may make contributions—
+    2000—Subsec. (a). [Pub. L. 106–390][/us/pl/106/390], § 205(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The President may make contributions—
 
     “(1) to a State or local government for the repair, restoration, reconstruction, or replacement of a public facility which is damaged or destroyed by a major disaster and for associated expenses incurred by such government; and
 
     “(2) to a person who owns or operates a private nonprofit facility damaged or destroyed by a major disaster for the repair, restoration, reconstruction, or replacement of such facility and for associated expenses incurred by such person.”
 
-    Subsec. (b). [Pub. L. 106–390, § 205(b)][/us/pl/106/390/s205/b], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Federal share of assistance under this section shall be not less than—
+    Subsec. (b). [Pub. L. 106–390][/us/pl/106/390], § 205(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Federal share of assistance under this section shall be not less than—
 
     “(1) 75 percent of the net eligible cost of repair, restoration, reconstruction, or replacement carried out under this section;
 
@@ -275,19 +275,19 @@
 
     “(3) 75 percent of associated expenses described in subsections (f)(3), (f)(4), and (f)(5) of this section.”
 
-    Subsec. (c). [Pub. L. 106–390, § 205(c)][/us/pl/106/390/s205/c], added subsec. (c) and struck out heading and text of former subsec. (c) which provided that, upon a determination that the public welfare would not be best served by repairing, restoring, reconstructing, or replacing either a public facility or a private nonprofit facility, an election could be made to receive, in lieu of a contribution under subsec. (a), a contribution of not to exceed 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of associated expenses, with the restriction that such funds not be used for any State or local government cost-sharing contribution required under this chapter.
+    Subsec. (c). [Pub. L. 106–390][/us/pl/106/390], § 205(c), added subsec. (c) and struck out heading and text of former subsec. (c) which provided that, upon a determination that the public welfare would not be best served by repairing, restoring, reconstructing, or replacing either a public facility or a private nonprofit facility, an election could be made to receive, in lieu of a contribution under subsec. (a), a contribution of not to exceed 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of associated expenses, with the restriction that such funds not be used for any State or local government cost-sharing contribution required under this chapter.
 
-    Subsec. (e). [Pub. L. 106–390, § 205(d)(1)][/us/pl/106/390/s205/d/1], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
+    Subsec. (e). [Pub. L. 106–390][/us/pl/106/390], § 205(d)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 
     “(1) General rule.—For purposes of this section, the cost of repairing, restoring, reconstructing, or replacing a public facility or private nonprofit facility on the basis of the design of such facility as it existed immediately prior to the major disaster and in conformity with current applicable codes, specifications, and standards (including floodplain management and hazard mitigation criteria required by the President or by the Coastal Barrier Resources Act ([16 U.S.C. 3501][/us/usc/t16/s3501] et seq.)) shall, at a minimum, be treated as the net eligible cost of such repair, restoration, reconstruction, or replacement.
 
     “(2) Special rule.—In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing such facility shall include, for purposes of this section, only those costs which, under the contract for such construction, are the owner’s responsibility and not the contractor’s responsibility.”
 
-    Subsec. (f). [Pub. L. 106–390, § 205(e)][/us/pl/106/390/s205/e], struck out subsec. (f) which set out various associated expenses, including necessary and extraordinary costs, and costs of using the National Guard and prison labor.
+    Subsec. (f). [Pub. L. 106–390][/us/pl/106/390], § 205(e), struck out subsec. (f) which set out various associated expenses, including necessary and extraordinary costs, and costs of using the National Guard and prison labor.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–390, title II, § 205(d)(2)][/us/pl/106/390/s205/d/2], Oct. 30, 2000, [114 Stat. 1566][/us/stat/114/1566], provided that: 
+[Pub. L. 106–390, title II][/us/pl/106/390/tII], § 205(d)(2), Oct. 30, 2000, [114 Stat. 1566][/us/stat/114/1566], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect.”
 
@@ -311,18 +311,18 @@
 [/us/usc/t16/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3501
 [/us/usc/t42/s5189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5189
 [/us/usc/t42/s5189a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5189a
-[/us/pl/93/288/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs406
-[/us/pl/100/707/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fb
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4699
-[/us/pl/106/390/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs205%2Fa
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1562-1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1562-1564
-[/us/pl/109/295/s689h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689h
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1453
-[/us/pl/109/347/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs609
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1942
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
-[/us/pl/114/111/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111%2Fs2%2Fb
+[/us/pl/114/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111
 [/us/stat/129/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2240
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
@@ -330,24 +330,24 @@
 [/us/pl/97/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348
 [/us/stat/96/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1653
 [/us/usc/t16/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3501
-[/us/pl/93/288/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs402
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F153
-[/us/pl/100/707/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fb
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/93/288/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs406
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5176
 [/us/pl/114/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
-[/us/pl/109/347/s609/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs609%2F1
-[/us/pl/109/347/s609/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs609%2F2
-[/us/pl/106/390/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs205%2Fa
-[/us/pl/106/390/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs205%2Fb
-[/us/pl/106/390/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs205%2Fc
-[/us/pl/106/390/s205/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs205%2Fd%2F1
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
 [/us/usc/t16/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3501
-[/us/pl/106/390/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs205%2Fe
-[/us/pl/106/390/s205/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs205%2Fd%2F2
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1566
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

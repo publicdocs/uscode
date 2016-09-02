@@ -99,47 +99,47 @@
 
         This section shall not apply after September 30, 2019, and the Committee shall be terminated on such date.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399CC, as added [Pub. L. 109–416, § 3(a)][/us/pl/109/416/s3/a], Dec. 19, 2006, [120 Stat. 2827][/us/stat/120/2827]; amended [Pub. L. 112–32, § 2(3)][/us/pl/112/32/s2/3], Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157, § 5][/us/pl/113/157/s5], Aug. 8, 2014, [128 Stat. 1832][/us/stat/128/1832].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399CC, as added [Pub. L. 109–416][/us/pl/109/416], § 3(a), Dec. 19, 2006, [120 Stat. 2827][/us/stat/120/2827]; amended [Pub. L. 112–32][/us/pl/112/32], § 2(3), Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157][/us/pl/113/157], § 5, Aug. 8, 2014, [128 Stat. 1832][/us/stat/128/1832].)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1). [Pub. L. 113–157, § 5(1)(C)][/us/pl/113/157/s5/1/C], added par. (1). Former par. (1) redesignated (2).
+    2014—Subsec. (b)(1). [Pub. L. 113–157][/us/pl/113/157], § 5(1)(C), added par. (1). Former par. (1) redesignated (2).
 
-    [Pub. L. 113–157, § 5(1)(A)][/us/pl/113/157/s5/1/A], struck out “and annually update” after “develop” and substituted “interventions, including school and community-based interventions” for “intervention”.
+    [Pub. L. 113–157][/us/pl/113/157], § 5(1)(A), struck out “and annually update” after “develop” and substituted “interventions, including school and community-based interventions” for “intervention”.
 
-    Subsec. (b)(2). [Pub. L. 113–157, § 5(1)(B)][/us/pl/113/157/s5/1/B], (C), redesignated par. (1) as (2) and struck out former par. (2) which read as follows: “monitor Federal activities with respect to autism spectrum disorder;”.
+    Subsec. (b)(2). [Pub. L. 113–157][/us/pl/113/157], § 5(1)(B), (C), redesignated par. (1) as (2) and struck out former par. (2) which read as follows: “monitor Federal activities with respect to autism spectrum disorder;”.
 
-    Subsec. (b)(3). [Pub. L. 113–157, § 5(1)(D)][/us/pl/113/157/s5/1/D], struck out “recommendations to the Director of NIH” after “including”.
+    Subsec. (b)(3). [Pub. L. 113–157][/us/pl/113/157], § 5(1)(D), struck out “recommendations to the Director of NIH” after “including”.
 
-    Subsec. (b)(4). [Pub. L. 113–157, § 5(1)(E)][/us/pl/113/157/s5/1/E], inserted before semicolon “, and the process by which public feedback can be better integrated into such decisions”.
+    Subsec. (b)(4). [Pub. L. 113–157][/us/pl/113/157], § 5(1)(E), inserted before semicolon “, and the process by which public feedback can be better integrated into such decisions”.
 
-    Subsec. (b)(5), (6). [Pub. L. 113–157, § 5(1)(F)][/us/pl/113/157/s5/1/F], added pars. (5) and (6) and struck out former pars. (5) and (6) which read as follows:
+    Subsec. (b)(5), (6). [Pub. L. 113–157][/us/pl/113/157], § 5(1)(F), added pars. (5) and (6) and struck out former pars. (5) and (6) which read as follows:
 
     “(5) develop and annually update a strategic plan for the conduct of, and support for, autism spectrum disorder research, including proposed budgetary requirements; and
 
     “(6) submit to the Congress such strategic plan and any updates to such plan.”
 
-    Subsec. (c)(1). [Pub. L. 113–157, § 5(2)(A)(i)][/us/pl/113/157/s5/2/A/i], substituted “Federal membership” for “In general” in heading and “The Committee shall be composed of the following Federal members—” for “The Committee shall be composed of—” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(A)(i), substituted “Federal membership” for “In general” in heading and “The Committee shall be composed of the following Federal members—” for “The Committee shall be composed of—” in introductory provisions.
 
-    Subsec. (c)(1)(C). [Pub. L. 113–157, § 5(2)(A)(ii)][/us/pl/113/157/s5/2/A/ii], inserted “, such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare & Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administration” before semicolon and inserted “and” at end.
+    Subsec. (c)(1)(C). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(A)(ii), inserted “, such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare & Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administration” before semicolon and inserted “and” at end.
 
-    Subsec. (c)(1)(D). [Pub. L. 113–157, § 5(2)(A)(iii)][/us/pl/113/157/s5/2/A/iii], inserted “and the Department of Defense” after “Department of Education” and substituted period at end for “; and”.
+    Subsec. (c)(1)(D). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(A)(iii), inserted “and the Department of Defense” after “Department of Education” and substituted period at end for “; and”.
 
-    Subsec. (c)(1)(E). [Pub. L. 113–157, § 5(2)(A)(iv)][/us/pl/113/157/s5/2/A/iv], struck out subpar. (E) which read as follows: “the additional members appointed under paragraph (2).”
+    Subsec. (c)(1)(E). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(A)(iv), struck out subpar. (E) which read as follows: “the additional members appointed under paragraph (2).”
 
-    Subsec. (c)(2). [Pub. L. 113–157, § 5(2)(B)(i)][/us/pl/113/157/s5/2/B/i], (ii), substituted “Non-Federal” for “Additional” in heading and “Not more than ½, but not fewer than ⅓, of the total membership of the Committee” for “Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater” in introductory provisions. Substitution in text was executed as the probable intent of Congress, notwithstanding directory language that struck out “⅓” instead of “1/3” as it appeared in the original.
+    Subsec. (c)(2). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(B)(i), (ii), substituted “Non-Federal” for “Additional” in heading and “Not more than ½, but not fewer than ⅓, of the total membership of the Committee” for “Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater” in introductory provisions. Substitution in text was executed as the probable intent of Congress, notwithstanding directory language that struck out “⅓” instead of “1/3” as it appeared in the original.
 
-    Subsec. (c)(2)(A). [Pub. L. 113–157, § 5(2)(B)(iii)][/us/pl/113/157/s5/2/B/iii], substituted “two such members shall be individuals” for “one such member shall be an individual”.
+    Subsec. (c)(2)(A). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(B)(iii), substituted “two such members shall be individuals” for “one such member shall be an individual”.
 
-    Subsec. (c)(2)(B). [Pub. L. 113–157, § 5(2)(B)(iv)][/us/pl/113/157/s5/2/B/iv], substituted “two such members shall be parents or legal guardians” for “one such member shall be a parent or legal guardian”.
+    Subsec. (c)(2)(B). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(B)(iv), substituted “two such members shall be parents or legal guardians” for “one such member shall be a parent or legal guardian”.
 
-    Subsec. (c)(2)(C). [Pub. L. 113–157, § 5(2)(B)(v)][/us/pl/113/157/s5/2/B/v], substituted “two such members shall be representatives” for “one such member shall be a representative”.
+    Subsec. (c)(2)(C). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(B)(v), substituted “two such members shall be representatives” for “one such member shall be a representative”.
 
-    Subsec. (c)(3). [Pub. L. 113–157, § 5(2)(C)][/us/pl/113/157/s5/2/C], added par. (3).
+    Subsec. (c)(3). [Pub. L. 113–157][/us/pl/113/157], § 5(2)(C), added par. (3).
 
-    Subsec. (d)(2) to (4). [Pub. L. 113–157, § 5(3)][/us/pl/113/157/s5/3], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “Members of the Committee appointed under subsection (c)(2) shall serve for a term of 4 years, and may be reappointed for one or more additional 4 year term. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member’s term until a successor has taken office.”
+    Subsec. (d)(2) to (4). [Pub. L. 113–157][/us/pl/113/157], § 5(3), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “Members of the Committee appointed under subsection (c)(2) shall serve for a term of 4 years, and may be reappointed for one or more additional 4 year term. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member’s term until a successor has taken office.”
 
-    Subsec. (f). [Pub. L. 113–157, § 5(4)][/us/pl/113/157/s5/4], substituted “2019” for “2014”.
+    Subsec. (f). [Pub. L. 113–157][/us/pl/113/157], § 5(4), substituted “2019” for “2014”.
 
     2011—Subsec. (f). [Pub. L. 112–32][/us/pl/112/32] substituted “2014” for “2011”.
 
@@ -151,29 +151,29 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/416/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416%2Fs3%2Fa
+[/us/pl/109/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416
 [/us/stat/120/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2827
-[/us/pl/112/32/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32%2Fs2%2F3
+[/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 [/us/stat/125/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F361
-[/us/pl/113/157/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/stat/128/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1832
-[/us/pl/113/157/s5/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F1%2FC
-[/us/pl/113/157/s5/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F1%2FA
-[/us/pl/113/157/s5/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F1%2FB
-[/us/pl/113/157/s5/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F1%2FD
-[/us/pl/113/157/s5/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F1%2FE
-[/us/pl/113/157/s5/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F1%2FF
-[/us/pl/113/157/s5/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FA%2Fi
-[/us/pl/113/157/s5/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FA%2Fii
-[/us/pl/113/157/s5/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FA%2Fiii
-[/us/pl/113/157/s5/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FA%2Fiv
-[/us/pl/113/157/s5/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FB%2Fi
-[/us/pl/113/157/s5/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FB%2Fiii
-[/us/pl/113/157/s5/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FB%2Fiv
-[/us/pl/113/157/s5/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FB%2Fv
-[/us/pl/113/157/s5/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F2%2FC
-[/us/pl/113/157/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F3
-[/us/pl/113/157/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs5%2F4
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 
 

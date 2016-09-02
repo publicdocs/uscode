@@ -363,7 +363,7 @@
 
         There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1820, as added [Pub. L. 101–239, title VI, § 6003(g)(1)(A)][/us/pl/101/239/s6003/g/1/A], Dec. 19, 1989, [103 Stat. 2145][/us/stat/103/2145]; amended [Pub. L. 101–508, title IV, § 4008(d)(1)][/us/pl/101/508/s4008/d/1]–(3), (m)(2)(B), Nov. 5, 1990, [104 Stat. 1388–44][/us/stat/104/1388-44], 1388–45, 1388–53; [Pub. L. 103–432, title I, § 102(a)(1)][/us/pl/103/432/s102/a/1], (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, [108 Stat. 4401–4404][/us/stat/108/4401-4404]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4002(f)(1), 4201(a), Aug. 5, 1997, [111 Stat. 329][/us/stat/111/329], 369; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(a), title IV, §§ 401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–365, 1501A–369, 1501A–370, 1501A–375; [Pub. L. 108–173, title I, § 101(e)(1)][/us/pl/108/173/s101/e/1], title IV, § 405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, [117 Stat. 2150][/us/stat/117/2150], 2267–2269; [Pub. L. 110–275, title I, § 121][/us/pl/110/275/s121], July 15, 2008, [122 Stat. 2511][/us/stat/122/2511]; [Pub. L. 111–148, title III, § 3129(a)][/us/pl/111/148/s3129/a], (b), Mar. 23, 2010, [124 Stat. 426][/us/stat/124/426].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1820, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6003(g)(1)(A), Dec. 19, 1989, [103 Stat. 2145][/us/stat/103/2145]; amended [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, [104 Stat. 1388–44][/us/stat/104/1388-44], 1388–45, 1388–53; [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, [108 Stat. 4401–4404][/us/stat/108/4401-4404]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], §§ 4002(f)(1), 4201(a), Aug. 5, 1997, [111 Stat. 329][/us/stat/111/329], 369; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title III, § 321(a), title IV, §§ 401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–365, 1501A–369, 1501A–370, 1501A–375; [Pub. L. 108–173, title I][/us/pl/108/173/tI], § 101(e)(1), title IV, § 405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, [117 Stat. 2150][/us/stat/117/2150], 2267–2269; [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 121, July 15, 2008, [122 Stat. 2511][/us/stat/122/2511]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3129(a), (b), Mar. 23, 2010, [124 Stat. 426][/us/stat/124/426].)
 
  __References in Text__ 
 
@@ -375,109 +375,109 @@
 
  __Amendments__ 
 
-    2010—Subsec. (g)(3)(A). [Pub. L. 111–148, § 3129(b)(1)][/us/pl/111/148/s3129/b/1], inserted “and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under [section 1395jjj of this title][/us/usc/t42/s1395jjj], the National pilot program on payment bundling under [section 1395cc–4 of this title][/us/usc/t42/s1395cc–4], and other delivery system reform programs determined appropriate by the Secretary” before period at end.
+    2010—Subsec. (g)(3)(A). [Pub. L. 111–148][/us/pl/111/148], § 3129(b)(1), inserted “and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under [section 1395jjj of this title][/us/usc/t42/s1395jjj], the National pilot program on payment bundling under [section 1395cc–4 of this title][/us/usc/t42/s1395cc–4], and other delivery system reform programs determined appropriate by the Secretary” before period at end.
 
-    Subsec. (g)(3)(E). [Pub. L. 111–148, § 3129(b)(2)][/us/pl/111/148/s3129/b/2], substituted “, to offset” for “, and to offset” and inserted “and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under [section 1395jjj of this title][/us/usc/t42/s1395jjj], the National pilot program on payment bundling under [section 1395cc–4 of this title][/us/usc/t42/s1395cc–4], and other delivery system reform programs determined appropriate by the Secretary” before period at end.
+    Subsec. (g)(3)(E). [Pub. L. 111–148][/us/pl/111/148], § 3129(b)(2), substituted “, to offset” for “, and to offset” and inserted “and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under [section 1395jjj of this title][/us/usc/t42/s1395jjj], the National pilot program on payment bundling under [section 1395cc–4 of this title][/us/usc/t42/s1395cc–4], and other delivery system reform programs determined appropriate by the Secretary” before period at end.
 
-    Subsec. (j). [Pub. L. 111–148, § 3129(a)][/us/pl/111/148/s3129/a], substituted “2010, for” for “2010, and for” and inserted “and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended” before period at end.
+    Subsec. (j). [Pub. L. 111–148][/us/pl/111/148], § 3129(a), substituted “2010, for” for “2010, and for” and inserted “and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended” before period at end.
 
-    2008—Subsec. (g)(1)(D). [Pub. L. 110–275, § 121(d)][/us/pl/110/275/s121/d], added subpar. (D).
+    2008—Subsec. (g)(1)(D). [Pub. L. 110–275][/us/pl/110/275], § 121(d), added subpar. (D).
 
-    Subsec. (g)(5). [Pub. L. 110–275, § 121(b)(2)][/us/pl/110/275/s121/b/2], which directed insertion of “and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009)” after “2005)”, was executed by making the insertion after “2008)” to reflect the probable intent of Congress and the amendment by [section 121(b)(1) of Pub. L. 110–275][/us/pl/110/275/s121/b/1]. See note below.
+    Subsec. (g)(5). [Pub. L. 110–275][/us/pl/110/275], § 121(b)(2), which directed insertion of “and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009)” after “2005)”, was executed by making the insertion after “2008)” to reflect the probable intent of Congress and the amendment by [section 121(b)(1) of Pub. L. 110–275][/us/pl/110/275/s121/b/1]. See note below.
 
-    [Pub. L. 110–275, § 121(b)(1)][/us/pl/110/275/s121/b/1], substituted “for each of fiscal years 2005 through 2008” for “beginning with fiscal year 2005”.
+    [Pub. L. 110–275][/us/pl/110/275], § 121(b)(1), substituted “for each of fiscal years 2005 through 2008” for “beginning with fiscal year 2005”.
 
-    Subsec. (g)(6). [Pub. L. 110–275, § 121(a)][/us/pl/110/275/s121/a], added par. (6).
+    Subsec. (g)(6). [Pub. L. 110–275][/us/pl/110/275], § 121(a), added par. (6).
 
-    Subsec. (g)(7). [Pub. L. 110–275, § 121(e)][/us/pl/110/275/s121/e], added par. (7).
+    Subsec. (g)(7). [Pub. L. 110–275][/us/pl/110/275], § 121(e), added par. (7).
 
-    Subsec. (j). [Pub. L. 110–275, § 121(c)][/us/pl/110/275/s121/c], substituted “2002, for” for “2002, and for” and inserted “, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended” before period at end.
+    Subsec. (j). [Pub. L. 110–275][/us/pl/110/275], § 121(c), substituted “2002, for” for “2002, and for” and inserted “, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended” before period at end.
 
-    2003—Subsec. (c)(2)(B)(i)(II). [Pub. L. 108–173, § 405(h)(1)][/us/pl/108/173/s405/h/1], inserted “before January 1, 2006,” after “is certified”.
+    2003—Subsec. (c)(2)(B)(i)(II). [Pub. L. 108–173][/us/pl/108/173], § 405(h)(1), inserted “before January 1, 2006,” after “is certified”.
 
-    Subsec. (c)(2)(B)(iii). [Pub. L. 108–173, § 405(e)(1)][/us/pl/108/173/s405/e/1], substituted “25” for “15 (or, in the case of a facility under an agreement described in subsection (f) of this section, 25)”.
+    Subsec. (c)(2)(B)(iii). [Pub. L. 108–173][/us/pl/108/173], § 405(e)(1), substituted “25” for “15 (or, in the case of a facility under an agreement described in subsection (f) of this section, 25)”.
 
-    Subsec. (c)(2)(E). [Pub. L. 108–173, § 405(g)(1)][/us/pl/108/173/s405/g/1], added subpar. (E).
+    Subsec. (c)(2)(E). [Pub. L. 108–173][/us/pl/108/173], § 405(g)(1), added subpar. (E).
 
-    Subsec. (f). [Pub. L. 108–173, § 405(e)(2)][/us/pl/108/173/s405/e/2], struck out “and the number of beds used at any time for acute care inpatient services does not exceed 15 beds” after “does not exceed 25 beds”.
+    Subsec. (f). [Pub. L. 108–173][/us/pl/108/173], § 405(e)(2), struck out “and the number of beds used at any time for acute care inpatient services does not exceed 15 beds” after “does not exceed 25 beds”.
 
-    Subsec. (g)(4), (5). [Pub. L. 108–173, § 405(f)(2)][/us/pl/108/173/s405/f/2], added pars. (4) and (5).
+    Subsec. (g)(4), (5). [Pub. L. 108–173][/us/pl/108/173], § 405(f)(2), added pars. (4) and (5).
 
-    Subsec. (h). [Pub. L. 108–173, § 405(h)(2)(A)][/us/pl/108/173/s405/h/2/A], substituted “provisions” for “of certain facilities” in heading.
+    Subsec. (h). [Pub. L. 108–173][/us/pl/108/173], § 405(h)(2)(A), substituted “provisions” for “of certain facilities” in heading.
 
-    Subsec. (h)(3). [Pub. L. 108–173, § 405(h)(2)(B)][/us/pl/108/173/s405/h/2/B], added par. (3).
+    Subsec. (h)(3). [Pub. L. 108–173][/us/pl/108/173], § 405(h)(2)(B), added par. (3).
 
-    Subsec. (i). [Pub. L. 108–173, § 101(e)(1)][/us/pl/108/173/s101/e/1], substituted “part E” for “part D”.
+    Subsec. (i). [Pub. L. 108–173][/us/pl/108/173], § 101(e)(1), substituted “part E” for “part D”.
 
-    Subsec. (j). [Pub. L. 108–173, § 405(f)(1)][/us/pl/108/173/s405/f/1], inserted before period at end “, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008”.
+    Subsec. (j). [Pub. L. 108–173][/us/pl/108/173], § 405(f)(1), inserted before period at end “, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008”.
 
-    1999—Subsec. (c)(2)(A). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 403(c)(1)\], substituted “subparagraphs (B), (C), and (D)” for “subparagraph (B)”.
+    1999—Subsec. (c)(2)(A). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title IV, § 403(c)(1)\], substituted “subparagraphs (B), (C), and (D)” for “subparagraph (B)”.
 
-    Subsec. (c)(2)(B)(i). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 403(b)\], substituted “hospital” for “nonprofit or public hospital”.
+    Subsec. (c)(2)(B)(i). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title IV, § 403(b)\], substituted “hospital” for “nonprofit or public hospital”.
 
-    [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 401(b)(2)\], inserted “or is treated as being located in a rural area pursuant to [section 1395ww(d)(8)(E) of this title][/us/usc/t42/s1395ww/d/8/E]” after “[section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D])”.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title IV, § 401(b)(2)\], inserted “or is treated as being located in a rural area pursuant to [section 1395ww(d)(8)(E) of this title][/us/usc/t42/s1395ww/d/8/E]” after “[section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D])”.
 
-    [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(a)\], substituted “that is located in a county (or equivalent unit of local government) in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]), and that” for “and is located in a county (or equivalent unit of local government) in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]) that”.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title III, § 321(a)\], substituted “that is located in a county (or equivalent unit of local government) in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]), and that” for “and is located in a county (or equivalent unit of local government) in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]) that”.
 
-    Subsec. (c)(2)(B)(iii). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 403(a)(1)\], substituted “for a period that does not exceed, as determined on an annual, average basis, 96 hours per patient;” for “for a period not to exceed 96 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions), except that a peer review organization or equivalent entity may, on request, waive the 96-hour restriction on a case-by-case basis;”.
+    Subsec. (c)(2)(B)(iii). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title IV, § 403(a)(1)\], substituted “for a period that does not exceed, as determined on an annual, average basis, 96 hours per patient;” for “for a period not to exceed 96 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions), except that a peer review organization or equivalent entity may, on request, waive the 96-hour restriction on a case-by-case basis;”.
 
-    Subsec. (c)(2)(C), (D). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 403(c)(2)\], added subpars. (C) and (D).
+    Subsec. (c)(2)(C), (D). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title IV, § 403(c)(2)\], added subpars. (C) and (D).
 
-    Subsec. (g)(3). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 409\], added par. (3).
+    Subsec. (g)(3). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title IV, § 409\], added par. (3).
 
-    1997—[Pub. L. 105–33, § 4201(a)][/us/pl/105/33/s4201/a], amended section catchline and text generally, substituting provisions relating to medicare rural hospital flexibility program for provisions relating to essential access community hospital program.
+    1997—[Pub. L. 105–33][/us/pl/105/33], § 4201(a), amended section catchline and text generally, substituting provisions relating to medicare rural hospital flexibility program for provisions relating to essential access community hospital program.
 
-    Subsec. (j). [Pub. L. 105–33, § 4002(f)(1)][/us/pl/105/33/s4002/f/1], substituted “part D” for “part C”.
+    Subsec. (j). [Pub. L. 105–33][/us/pl/105/33], § 4002(f)(1), substituted “part D” for “part C”.
 
-    1994—Subsec. (c)(1). [Pub. L. 103–432, § 102(b)(2)(B)(i)][/us/pl/103/432/s102/b/2/B/i], substituted “paragraph (3) or subsection (k) of this section” for “paragraph (3)”.
+    1994—Subsec. (c)(1). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(2)(B)(i), substituted “paragraph (3) or subsection (k) of this section” for “paragraph (3)”.
 
-    Subsec. (e)(1). [Pub. L. 103–432, § 102(b)(1)(A)(i)][/us/pl/103/432/s102/b/1/A/i], redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “is located in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]);”.
+    Subsec. (e)(1). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(1)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “is located in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]);”.
 
-    Subsec. (e)(1)(A). [Pub. L. 103–432, § 102(b)(1)(A)(ii)][/us/pl/103/432/s102/b/1/A/ii], substituted “except in the case of a hospital located in an urban area, is located” for “is located” in introductory provisions, substituted “or (ii)” for “, (ii)”, and struck out “or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section,” after “[section 1395ww(d)(5)(C) of this title][/us/usc/t42/s1395ww/d/5/C],”.
+    Subsec. (e)(1)(A). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(1)(A)(ii), substituted “except in the case of a hospital located in an urban area, is located” for “is located” in introductory provisions, substituted “or (ii)” for “, (ii)”, and struck out “or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section,” after “[section 1395ww(d)(5)(C) of this title][/us/usc/t42/s1395ww/d/5/C],”.
 
-    Subsec. (e)(2) to (6). [Pub. L. 103–432, § 102(b)(1)(A)(i)][/us/pl/103/432/s102/b/1/A/i], redesignated pars. (2) to (6) as (1) to (5), respectively.
+    Subsec. (e)(2) to (6). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(1)(A)(i), redesignated pars. (2) to (6) as (1) to (5), respectively.
 
-    Subsec. (f)(1)(F). [Pub. L. 103–432, § 102(a)(1)][/us/pl/103/432/s102/a/1], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatient beds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
+    Subsec. (f)(1)(F). [Pub. L. 103–432][/us/pl/103/432], § 102(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatient beds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
 
-    Subsec. (f)(1)(H). [Pub. L. 103–432, § 102(f)][/us/pl/103/432/s102/f], inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in [section 1395x(r)(1) of this title][/us/usc/t42/s1395x/r/1]”.
+    Subsec. (f)(1)(H). [Pub. L. 103–432][/us/pl/103/432], § 102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in [section 1395x(r)(1) of this title][/us/usc/t42/s1395x/r/1]”.
 
-    Subsec. (f)(3). [Pub. L. 103–432, § 102(c)][/us/pl/103/432/s102/c], substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under [section 1395tt of this title][/us/usc/t42/s1395tt] under which the facility’s inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under [section 1395tt of this title][/us/usc/t42/s1395tt] under which the facility’s inpatient hospital facilities may be used for the furnishing of extended care services.”
+    Subsec. (f)(3). [Pub. L. 103–432][/us/pl/103/432], § 102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under [section 1395tt of this title][/us/usc/t42/s1395tt] under which the facility’s inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under [section 1395tt of this title][/us/usc/t42/s1395tt] under which the facility’s inpatient hospital facilities may be used for the furnishing of extended care services.”
 
-    Subsec. (f)(4). [Pub. L. 103–432, § 102(a)(2)][/us/pl/103/432/s102/a/2], added par. (4).
+    Subsec. (f)(4). [Pub. L. 103–432][/us/pl/103/432], § 102(a)(2), added par. (4).
 
-    Subsec. (i)(1)(A). [Pub. L. 103–432, § 102(b)(2)(B)(ii)][/us/pl/103/432/s102/b/2/B/ii], in cl. (i) inserted “(except as provided in subsection (k) of this section)” and in cl. (ii) inserted “or subsection (k) of this section”.
+    Subsec. (i)(1)(A). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(2)(B)(ii), in cl. (i) inserted “(except as provided in subsection (k) of this section)” and in cl. (ii) inserted “or subsection (k) of this section”.
 
-    Subsec. (i)(1)(B). [Pub. L. 103–432, § 102(b)(1)(A)(iii)][/us/pl/103/432/s102/b/1/A/iii], substituted “paragraph (2)” for “paragraph (3)”.
+    Subsec. (i)(1)(B). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(1)(A)(iii), substituted “paragraph (2)” for “paragraph (3)”.
 
-    Subsec. (i)(2)(A). [Pub. L. 103–432, § 102(b)(2)(B)(ii)][/us/pl/103/432/s102/b/2/B/ii], in cl. (i) inserted “(except as provided in subsection (k) of this section)” and in cl. (ii) inserted “or subsection (k) of this section”.
+    Subsec. (i)(2)(A). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(2)(B)(ii), in cl. (i) inserted “(except as provided in subsection (k) of this section)” and in cl. (ii) inserted “or subsection (k) of this section”.
 
-    Subsec. (k). [Pub. L. 103–432, § 102(b)(2)(A)(ii)][/us/pl/103/432/s102/b/2/A/ii], added subsec. (k). Former subsec. (k) redesignated (l).
+    Subsec. (k). [Pub. L. 103–432][/us/pl/103/432], § 102(b)(2)(A)(ii), added subsec. (k). Former subsec. (k) redesignated (l).
 
-    Subsec. (l). [Pub. L. 103–432, § 102(h)][/us/pl/103/432/s102/h], substituted “1990 through 1997” for “1990, 1991, and 1992” in introductory provisions.
+    Subsec. (l). [Pub. L. 103–432][/us/pl/103/432], § 102(h), substituted “1990 through 1997” for “1990, 1991, and 1992” in introductory provisions.
 
-    [Pub. L. 103–432, § 102(b)(2)(A)(i)][/us/pl/103/432/s102/b/2/A/i], redesignated subsec. (k) as (l).
+    [Pub. L. 103–432][/us/pl/103/432], § 102(b)(2)(A)(i), redesignated subsec. (k) as (l).
 
-    1990—Subsec. (d)(1). [Pub. L. 101–508, § 4008(m)(2)(B)(i)][/us/pl/101/508/s4008/m/2/B/i], struck out “demonstration” before “program”.
+    1990—Subsec. (d)(1). [Pub. L. 101–508][/us/pl/101/508], § 4008(m)(2)(B)(i), struck out “demonstration” before “program”.
 
-    Subsec. (f)(1)(A). [Pub. L. 101–508, § 4008(d)(3)][/us/pl/101/508/s4008/d/3], inserted before semicolon at end “, or is located in a county whose geographic area is substantially larger than the average geographic area for urban counties in the United States and whose hospital service area is characteristic of service areas of hospitals located in rural areas”.
+    Subsec. (f)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 4008(d)(3), inserted before semicolon at end “, or is located in a county whose geographic area is substantially larger than the average geographic area for urban counties in the United States and whose hospital service area is characteristic of service areas of hospitals located in rural areas”.
 
-    Subsec. (f)(1)(B). [Pub. L. 101–508, § 4008(d)(2)][/us/pl/101/508/s4008/d/2], which directed the substitution of “is a hospital (or, in the case of a facility that closed during the 12-month period that ends on the date the facility applies for such designation, at the time the facility closed),” for “is a hospital,” was executed by making the substitution for “is a hospital” to reflect the probable intent of Congress.
+    Subsec. (f)(1)(B). [Pub. L. 101–508][/us/pl/101/508], § 4008(d)(2), which directed the substitution of “is a hospital (or, in the case of a facility that closed during the 12-month period that ends on the date the facility applies for such designation, at the time the facility closed),” for “is a hospital,” was executed by making the substitution for “is a hospital” to reflect the probable intent of Congress.
 
-    Subsec. (g)(1)(A)(ii). [Pub. L. 101–508, § 4008(m)(2)(B)(ii)][/us/pl/101/508/s4008/m/2/B/ii], substituted “regional referral center” for “rural referral center”.
+    Subsec. (g)(1)(A)(ii). [Pub. L. 101–508][/us/pl/101/508], § 4008(m)(2)(B)(ii), substituted “regional referral center” for “rural referral center”.
 
-    Subsec. (i)(2)(C). [Pub. L. 101–508, § 4008(d)(1)][/us/pl/101/508/s4008/d/1], inserted at end “In designating facilities as rural primary care hospitals under this subparagraph, the Secretary shall give preference to facilities not meeting the requirements of clause (i) of subparagraph (A) that have entered into an agreement described in subsection (g)(2) of this section with a rural health network located in a State receiving a grant under subsection (a)(1) of this section.”
+    Subsec. (i)(2)(C). [Pub. L. 101–508][/us/pl/101/508], § 4008(d)(1), inserted at end “In designating facilities as rural primary care hospitals under this subparagraph, the Secretary shall give preference to facilities not meeting the requirements of clause (i) of subparagraph (A) that have entered into an agreement described in subsection (g)(2) of this section with a rural health network located in a State receiving a grant under subsection (a)(1) of this section.”
 
-    Subsec. (j). [Pub. L. 101–508, § 4008(m)(2)(B)(iii)][/us/pl/101/508/s4008/m/2/B/iii], inserted “and part C of this subchapter” after “this part”.
+    Subsec. (j). [Pub. L. 101–508][/us/pl/101/508], § 4008(m)(2)(B)(iii), inserted “and part C of this subchapter” after “this part”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title III, § 3129(c)][/us/pl/111/148/s3129/c], Mar. 23, 2010, [124 Stat. 427][/us/stat/124/427], provided that: 
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3129(c), Mar. 23, 2010, [124 Stat. 427][/us/stat/124/427], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to grants made on or after January 1, 2010.”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–173, title IV, § 405(e)(3)][/us/pl/108/173/s405/e/3], Dec. 8, 2003, [117 Stat. 2267][/us/stat/117/2267], provided that: 
+[Pub. L. 108–173, title IV][/us/pl/108/173/tIV], § 405(e)(3), Dec. 8, 2003, [117 Stat. 2267][/us/stat/117/2267], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to designations made before, on, or after January 1, 2004, but any election made pursuant to regulations promulgated to carry out such amendments shall only apply prospectively.”
 
@@ -487,11 +487,11 @@
 
     Amendment by section 1000(a)(6) \[title III, § 321(a)\] of [Pub. L. 106–113][/us/pl/106/113] effective as if included in the enactment of the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33], except as otherwise provided, see section 1000(a)(6) \[title III, § 321(m)\] of [Pub. L. 106–113][/us/pl/106/113], set out as a note under [section 1395d of this title][/us/usc/t42/s1395d].
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 401(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–369, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title IV, § 401(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–369, provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395l and 1395ww of this title\] shall become effective on January 1, 2000.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 403(a)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–370, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title IV, § 403(a)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–370, provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -501,13 +501,13 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title IV, § 4008(d)(4)][/us/pl/101/508/s4008/d/4], Nov. 5, 1990, [104 Stat. 1388–45][/us/stat/104/1388-45], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(d)(4), Nov. 5, 1990, [104 Stat. 1388–45][/us/stat/104/1388-45], provided that: 
 
 > “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Demonstration Project on Community Health Integration Models in Certain Rural Counties__ 
 
-[Pub. L. 110–275, title I, § 123][/us/pl/110/275/s123], July 15, 2008, [122 Stat. 2514][/us/stat/122/2514], as amended by [Pub. L. 111–148, title III, § 3126][/us/pl/111/148/s3126], Mar. 23, 2010, [124 Stat. 425][/us/stat/124/425], provided that:
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 123, July 15, 2008, [122 Stat. 2514][/us/stat/122/2514], as amended by [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3126, Mar. 23, 2010, [124 Stat. 425][/us/stat/124/425], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -705,11 +705,11 @@
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.”
 
-    \[[Pub. L. 111–148, title III, § 3126(b)(1)][/us/pl/111/148/s3126/b/1], Mar. 23, 2010, [124 Stat. 426][/us/stat/124/426], which directed amendment of [section 123 of Pub. L. 111–275][/us/pl/111/275/s123], set out above, by striking out subsec. (d)(4)(B)(i)(3)(III), was executed by striking out subsec. (d)(4)(B)(i)(III) to reflect the probable intent of Congress.\]
+    \[[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3126(b)(1), Mar. 23, 2010, [124 Stat. 426][/us/stat/124/426], which directed amendment of [section 123 of Pub. L. 111–275][/us/pl/111/275/s123], set out above, by striking out subsec. (d)(4)(B)(i)(3)(III), was executed by striking out subsec. (d)(4)(B)(i)(III) to reflect the probable intent of Congress.\]
 
  __GAO Study on Certain Eligibility Requirements for Critical Access Hospitals__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 206\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–483, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title II, § 206\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–483, provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -733,7 +733,7 @@
 
  __Transition for MAF__ 
 
-[Pub. L. 105–33, title IV, § 4201(c)(6)][/us/pl/105/33/s4201/c/6], Aug. 5, 1997, [111 Stat. 374][/us/stat/111/374], provided that:
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4201(c)(6), Aug. 5, 1997, [111 Stat. 374][/us/stat/111/374], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -751,7 +751,7 @@
 
  __GAO Reports__ 
 
-    [Pub. L. 103–432, title I, § 102(a)(4)][/us/pl/103/432/s102/a/4], Oct. 31, 1994, [108 Stat. 4402][/us/stat/108/4402], directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
+    [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 102(a)(4), Oct. 31, 1994, [108 Stat. 4402][/us/stat/108/4402], directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
 
 ----------
 
@@ -778,21 +778,21 @@
 [/us/usc/t42/s1395x/ff/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fff%2F3%2FB
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/239/s6003/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6003%2Fg%2F1%2FA
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2145
-[/us/pl/101/508/s4008/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fd%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-44
-[/us/pl/103/432/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fa%2F1
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4401-4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4401-4404
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F329
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/173/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F1
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2150
-[/us/pl/110/275/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2511
-[/us/pl/111/148/s3129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3129%2Fa
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F426
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/stat/111/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F251
@@ -800,70 +800,70 @@
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
 [/us/pl/108/173/s405/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fh%2F1
-[/us/pl/111/148/s3129/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3129%2Fb%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1395jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395jjj
 [/us/usc/t42/s1395cc–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%934
-[/us/pl/111/148/s3129/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3129%2Fb%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1395jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395jjj
 [/us/usc/t42/s1395cc–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%934
-[/us/pl/111/148/s3129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3129%2Fa
-[/us/pl/110/275/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121%2Fd
-[/us/pl/110/275/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121%2Fb%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/110/275/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121%2Fb%2F1
-[/us/pl/110/275/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121%2Fb%2F1
-[/us/pl/110/275/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121%2Fa
-[/us/pl/110/275/s121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121%2Fe
-[/us/pl/110/275/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs121%2Fc
-[/us/pl/108/173/s405/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fh%2F1
-[/us/pl/108/173/s405/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fe%2F1
-[/us/pl/108/173/s405/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fg%2F1
-[/us/pl/108/173/s405/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fe%2F2
-[/us/pl/108/173/s405/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Ff%2F2
-[/us/pl/108/173/s405/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fh%2F2%2FA
-[/us/pl/108/173/s405/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fh%2F2%2FB
-[/us/pl/108/173/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F1
-[/us/pl/108/173/s405/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Ff%2F1
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s1395ww/d/8/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F8%2FE
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/105/33/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4201%2Fa
-[/us/pl/105/33/s4002/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4002%2Ff%2F1
-[/us/pl/103/432/s102/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F2%2FB%2Fi
-[/us/pl/103/432/s102/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F1%2FA%2Fi
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t42/s1395ww/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F2%2FD
-[/us/pl/103/432/s102/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F1%2FA%2Fii
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t42/s1395ww/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F5%2FC
-[/us/pl/103/432/s102/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F1%2FA%2Fi
-[/us/pl/103/432/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fa%2F1
-[/us/pl/103/432/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Ff
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t42/s1395x/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F1
-[/us/pl/103/432/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fc
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t42/s1395tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395tt
 [/us/usc/t42/s1395tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395tt
-[/us/pl/103/432/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fa%2F2
-[/us/pl/103/432/s102/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F2%2FB%2Fii
-[/us/pl/103/432/s102/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F1%2FA%2Fiii
-[/us/pl/103/432/s102/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F2%2FB%2Fii
-[/us/pl/103/432/s102/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F2%2FA%2Fii
-[/us/pl/103/432/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fh
-[/us/pl/103/432/s102/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fb%2F2%2FA%2Fi
-[/us/pl/101/508/s4008/m/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F2%2FB%2Fi
-[/us/pl/101/508/s4008/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fd%2F3
-[/us/pl/101/508/s4008/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fd%2F2
-[/us/pl/101/508/s4008/m/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F2%2FB%2Fii
-[/us/pl/101/508/s4008/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fd%2F1
-[/us/pl/101/508/s4008/m/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F2%2FB%2Fiii
-[/us/pl/111/148/s3129/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3129%2Fc
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F427
-[/us/pl/108/173/s405/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fe%2F3
+[/us/pl/108/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIV
 [/us/stat/117/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2267
 [/us/pl/108/173/s405/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fg%2F1
 [/us/pl/108/173/s405/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs405%2Fg%2F3
@@ -872,18 +872,18 @@
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s1395d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395d
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/33/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4201%2Fa
 [/us/pl/105/33/s4201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4201%2Fd
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
-[/us/pl/101/508/s4008/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fd%2F4
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-45
-[/us/pl/110/275/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs123
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2514
-[/us/pl/111/148/s3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3126
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F425
 [/us/usc/t42/s1395i–4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%934%2Fg
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
@@ -898,17 +898,17 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x/s/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fs%2F7
 [/us/usc/t42/s1395x/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fq
-[/us/pl/111/148/s3126/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3126%2Fb%2F1
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F426
 [/us/pl/111/275/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs123
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395i–4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%934%2Fc
-[/us/pl/105/33/s4201/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4201%2Fc%2F6
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F374
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
-[/us/pl/103/432/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs102%2Fa%2F4
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4402
 
 

@@ -255,9 +255,9 @@
 
             Not later than the expiration of the 180-day period beginning on November 28, 1990, the Secretary shall by notice establish any requirements necessary to carry out this section. Such requirements shall be subject to [section 553 of title 5][/us/usc/t5/s553]. The Secretary shall issue final regulations based on the notice not later than the expiration of the 8-month period beginning on the date of the notice. Such regulations shall become effective upon the expiration of the 1-year period beginning on the date of the publication of the final regulations.
 
-        (2) __Repealed.__  __[__  __Pub. L. 104–330, title V, § 501(b)(8)__  __][/us/pl/104/330/s501/b/8]__  __,__  __Oct. 26, 1996__  __,__  __[__  __110 Stat. 4042__  __][/us/stat/110/4042]__ 
+        (2) __Repealed.__  __[__  __Pub. L. 104–330, title V__  __][/us/pl/104/330/tV]__  __, § 501(b)(8),__  __Oct. 26, 1996__  __,__  __[__  __110 Stat. 4042__  __][/us/stat/110/4042]__ 
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 23, as added [Pub. L. 101–625, title V, § 554(a)][/us/pl/101/625/s554/a], Nov. 28, 1990, [104 Stat. 4225][/us/stat/104/4225]; amended [Pub. L. 102–550, title I][/us/pl/102/550], §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], 3747; [Pub. L. 104–316, title I, § 122][/us/pl/104/316/s122](l), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837]; [Pub. L. 104–330, title V, § 501(b)(8)][/us/pl/104/330/s501/b/8], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V, § 509(a)][/us/pl/105/276/s509/a], Oct. 21, 1998, [112 Stat. 2530][/us/stat/112/2530]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31), (f)(23)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 113–128, title V, § 512(ii)][/us/pl/113/128/s512/ii], July 22, 2014, [128 Stat. 1721][/us/stat/128/1721].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 23, as added [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 554(a), Nov. 28, 1990, [104 Stat. 4225][/us/stat/104/4225]; amended [Pub. L. 102–550, title I][/us/pl/102/550/tI], §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], 3747; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(l), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(8), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 509(a), Oct. 21, 1998, [112 Stat. 2530][/us/stat/112/2530]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(31), (f)(23)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(ii), July 22, 2014, [128 Stat. 1721][/us/stat/128/1721].)
 
  __References in Text__ 
 
@@ -265,51 +265,51 @@
 
     The Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    The Social Security Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of this title, prior to repeal by [Pub. L. 104–193, title I, § 108(e)][/us/pl/104/193/s108/e], Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167]. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
+    The Social Security Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of this title, prior to repeal by [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(e), Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167]. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
-    [Section 1437f(q)(2)(A) of this title][/us/usc/t42/s1437f/q/2/A], referred to in subsec. (h)(1), was amended generally by [Pub. L. 105–276, title V, § 547][/us/pl/105/276/s547], Oct. 21, 1998, [112 Stat. 2605][/us/stat/112/2605], and, as so amended, does not contain a cl. (i).
+    [Section 1437f(q)(2)(A) of this title][/us/usc/t42/s1437f/q/2/A], referred to in subsec. (h)(1), was amended generally by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 547, Oct. 21, 1998, [112 Stat. 2605][/us/stat/112/2605], and, as so amended, does not contain a cl. (i).
 
-    [Section 1437g(c) of this title][/us/usc/t42/s1437g/c], referred to in subsec. (h)(2), was amended generally by [Pub. L. 105–276, title V, § 519(a)][/us/pl/105/276/s519/a], Oct. 21, 1998, [112 Stat. 2551][/us/stat/112/2551], and, as so amended, does not relate to appropriations for fiscal years 1993 and 1994.
+    [Section 1437g(c) of this title][/us/usc/t42/s1437g/c], referred to in subsec. (h)(2), was amended generally by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 519(a), Oct. 21, 1998, [112 Stat. 2551][/us/stat/112/2551], and, as so amended, does not relate to appropriations for fiscal years 1993 and 1994.
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2)(A). [Pub. L. 113–128, § 512(ii)(1)][/us/pl/113/128/s512/ii/1], substituted “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act” for “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998”.
+    2014—Subsec. (b)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 512(ii)(1), substituted “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act” for “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998”.
 
-    Subsec. (f)(2). [Pub. L. 113–128, § 512(ii)(2)][/us/pl/113/128/s512/ii/2], substituted “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,” for “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,”.
+    Subsec. (f)(2). [Pub. L. 113–128][/us/pl/113/128], § 512(ii)(2), substituted “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,” for “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,”.
 
-    Subsec. (g)(2). [Pub. L. 113–128, § 512(ii)(3)(A)][/us/pl/113/128/s512/ii/3/A], substituted “any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act” for “any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act”.
+    Subsec. (g)(2). [Pub. L. 113–128][/us/pl/113/128], § 512(ii)(3)(A), substituted “any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act” for “any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act”.
 
-    Subsec. (g)(3)(H). [Pub. L. 113–128, § 512(ii)(3)(B)][/us/pl/113/128/s512/ii/3/B], substituted “programs under title I of the Workforce Innovation and Opportunity Act and any other relevant employment, child care, transportation, training, and education programs in the applicable area” for “programs under title I of the Workforce Investment Act of 1998 and any other relevant employment, child care, transportation, training, and education programs in the applicable area”.
+    Subsec. (g)(3)(H). [Pub. L. 113–128][/us/pl/113/128], § 512(ii)(3)(B), substituted “programs under title I of the Workforce Innovation and Opportunity Act and any other relevant employment, child care, transportation, training, and education programs in the applicable area” for “programs under title I of the Workforce Investment Act of 1998 and any other relevant employment, child care, transportation, training, and education programs in the applicable area”.
 
-    1998—Subsec. (b)(1)(A). [Pub. L. 105–276, § 509(a)(1)(A)(i)][/us/pl/105/276/s509/a/1/A/i], struck out “and” at end.
+    1998—Subsec. (b)(1)(A). [Pub. L. 105–276][/us/pl/105/276], § 509(a)(1)(A)(i), struck out “and” at end.
 
-    Subsec. (b)(1)(B). [Pub. L. 105–276, § 509(a)(1)(A)(ii)][/us/pl/105/276/s509/a/1/A/ii], substituted “, subject to the limitations in paragraph (4); and” for period at end.
+    Subsec. (b)(1)(B). [Pub. L. 105–276][/us/pl/105/276], § 509(a)(1)(A)(ii), substituted “, subject to the limitations in paragraph (4); and” for period at end.
 
-    Subsec. (b)(1)(C). [Pub. L. 105–276, § 509(a)(1)(A)(iii)][/us/pl/105/276/s509/a/1/A/iii], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 105–276][/us/pl/105/276], § 509(a)(1)(A)(iii), added subpar. (C).
 
-    Subsec. (b)(2)(A). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(23)(A)\], struck out “the Job Training Partnership Act or” after “programs under”.
+    Subsec. (b)(2)(A). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(23)(A)\], struck out “the Job Training Partnership Act or” after “programs under”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31)(A)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “the Job Training Partnerships Act or the”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(31)(A)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “the Job Training Partnerships Act or the”.
 
-    Subsec. (b)(3). [Pub. L. 105–276, § 509(a)(1)(B)][/us/pl/105/276/s509/a/1/B], substituted “Subject to paragraph (4), each” for “Each” in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 105–276][/us/pl/105/276], § 509(a)(1)(B), substituted “Subject to paragraph (4), each” for “Each” in introductory provisions.
 
-    Subsec. (b)(4), (5). [Pub. L. 105–276, § 509(a)(1)(C)][/us/pl/105/276/s509/a/1/C], (D), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 105–276][/us/pl/105/276], § 509(a)(1)(C), (D), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (d)(3). [Pub. L. 105–276, § 509(a)(2)][/us/pl/105/276/s509/a/2], struck out heading and text of par. (3) relating to use of escrow savings accounts. Text read as follows: “Notwithstanding paragraph (3), a family that uses assistance under [section 1437f(y) of this title][/us/usc/t42/s1437f/y] to purchase a dwelling may use up to 50 percent of the amount in its escrow account established under paragraph (3) for a downpayment on the dwelling. In addition, after the family purchases the dwelling, the family may use any amounts remaining in the escrow account to cover the costs of major repair and replacement needs of the dwelling. If a family defaults in connection with the loan to purchase a dwelling and the mortgage is foreclosed, the remaining amounts in the escrow account shall be recaptured by the Secretary.”
+    Subsec. (d)(3). [Pub. L. 105–276][/us/pl/105/276], § 509(a)(2), struck out heading and text of par. (3) relating to use of escrow savings accounts. Text read as follows: “Notwithstanding paragraph (3), a family that uses assistance under [section 1437f(y) of this title][/us/usc/t42/s1437f/y] to purchase a dwelling may use up to 50 percent of the amount in its escrow account established under paragraph (3) for a downpayment on the dwelling. In addition, after the family purchases the dwelling, the family may use any amounts remaining in the escrow account to cover the costs of major repair and replacement needs of the dwelling. If a family defaults in connection with the loan to purchase a dwelling and the mortgage is foreclosed, the remaining amounts in the escrow account shall be recaptured by the Secretary.”
 
-    Subsec. (f)(1). [Pub. L. 105–276, § 509(a)(3)][/us/pl/105/276/s509/a/3], inserted “carrying out a local program under this section” after “Each public housing agency”.
+    Subsec. (f)(1). [Pub. L. 105–276][/us/pl/105/276], § 509(a)(3), inserted “carrying out a local program under this section” after “Each public housing agency”.
 
-    Subsec. (f)(2). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(23)(B)\], struck out “the Job Training Partnership Act or” after “programs under”.
+    Subsec. (f)(2). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(23)(B)\], struck out “the Job Training Partnership Act or” after “programs under”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31)(B)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “programs under the Job Training Partnership Act and the”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(31)(B)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “programs under the Job Training Partnership Act and the”.
 
-    Subsec. (g)(2). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(23)(C)(i)\], struck out “the Job Training Partnership Act or” after “programs under”.
+    Subsec. (g)(2). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(23)(C)(i)\], struck out “the Job Training Partnership Act or” after “programs under”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31)(C)(i)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “for programs under the Job Training Partnership Act and the”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(31)(C)(i)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “for programs under the Job Training Partnership Act and the”.
 
-    Subsec. (g)(3)(H). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(23)(C)(ii)\], struck out “the Job Training Partnership Act or” after “programs under”.
+    Subsec. (g)(3)(H). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(23)(C)(ii)\], struck out “the Job Training Partnership Act or” after “programs under”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31)(C)(ii)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 and any other” for “program under the Job Training Partnership Act and any other”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(31)(C)(ii)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 and any other” for “program under the Job Training Partnership Act and any other”.
 
     1996—Subsec. (m). [Pub. L. 104–316][/us/pl/104/316] substituted “may” for “shall” after “United States”, struck out “(1) In general.—” before “The Comptroller General”, and struck out par. (2) which read as follows:
 
@@ -321,7 +321,7 @@
 
     Subsec. (o)(2). [Pub. L. 104–330][/us/pl/104/330] struck out heading and text of par. (2). Text read as follows: “Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
 
-    1992—Subsec. (b)(2). [Pub. L. 102–550, § 106(b)][/us/pl/102/550/s106/b], added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
+    1992—Subsec. (b)(2). [Pub. L. 102–550][/us/pl/102/550], § 106(b), added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
 
     “(A) lack of supportive services funding;
 
@@ -331,27 +331,27 @@
 
     “(D) any other circumstances that the Secretary may consider appropriate.”
 
-    Subsec. (b)(4). [Pub. L. 102–550, § 106(c)][/us/pl/102/550/s106/c], added par. (4).
+    Subsec. (b)(4). [Pub. L. 102–550][/us/pl/102/550], § 106(c), added par. (4).
 
-    Subsec. (c)(1). [Pub. L. 102–550, § 106(d)][/us/pl/102/550/s106/d], in second sentence, inserted “, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured,” after “program” and substituted last sentence for former last sentence which read as follows: “The contract shall provide that the public housing agency may terminate or withhold assistance under [section 1437f of this title][/us/usc/t42/s1437f] and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract.”
+    Subsec. (c)(1). [Pub. L. 102–550][/us/pl/102/550], § 106(d), in second sentence, inserted “, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured,” after “program” and substituted last sentence for former last sentence which read as follows: “The contract shall provide that the public housing agency may terminate or withhold assistance under [section 1437f of this title][/us/usc/t42/s1437f] and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract.”
 
-    Subsec. (c)(2). [Pub. L. 102–550, § 106(e)][/us/pl/102/550/s106/e], struck out “to each participating family” after “paragraph (1)” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 102–550][/us/pl/102/550], § 106(e), struck out “to each participating family” after “paragraph (1)” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 102–550, § 106(g)(1)][/us/pl/102/550/s106/g/1], substituted “Incentives for participation” for “Maximum rents and escrow savings accounts” in heading.
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 106(g)(1), substituted “Incentives for participation” for “Maximum rents and escrow savings accounts” in heading.
 
-    Subsec. (d)(2). [Pub. L. 102–550, § 106(f)][/us/pl/102/550/s106/f], substituted “after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.” for “only after the family is no longer a recipient of any Federal, State, or other public assistance for housing.”
+    Subsec. (d)(2). [Pub. L. 102–550][/us/pl/102/550], § 106(f), substituted “after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.” for “only after the family is no longer a recipient of any Federal, State, or other public assistance for housing.”
 
-    Subsec. (d)(3). [Pub. L. 102–550, § 185(b)][/us/pl/102/550/s185/b], added par. (3) relating to use of escrow savings accounts.
+    Subsec. (d)(3). [Pub. L. 102–550][/us/pl/102/550], § 185(b), added par. (3) relating to use of escrow savings accounts.
 
-    [Pub. L. 102–550, § 106(g)(2)][/us/pl/102/550/s106/g/2], added par. (3) relating to a plan to offer incentives.
+    [Pub. L. 102–550][/us/pl/102/550], § 106(g)(2), added par. (3) relating to a plan to offer incentives.
 
-    Subsec. (g)(3)(D) to (I). [Pub. L. 102–550, § 106(h)][/us/pl/102/550/s106/h], added subpars. (D) and (I) and redesignated former subpars (D) to (G) as (E) to (H), respectively.
+    Subsec. (g)(3)(D) to (I). [Pub. L. 102–550][/us/pl/102/550], § 106(h), added subpars. (D) and (I) and redesignated former subpars (D) to (G) as (E) to (H), respectively.
 
-    Subsec. (h)(2). [Pub. L. 102–550, § 106(a)][/us/pl/102/550/s106/a], amended last sentence generally. Prior to amendment, last sentence read as follows: “Of any amounts appropriated under [section 1437g(c) of this title][/us/usc/t42/s1437g/c] for each of fiscal years 1991 and 1992, $25,000,000 is authorized to be used for costs under this paragraph.”
+    Subsec. (h)(2). [Pub. L. 102–550][/us/pl/102/550], § 106(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “Of any amounts appropriated under [section 1437g(c) of this title][/us/usc/t42/s1437g/c] for each of fiscal years 1991 and 1992, $25,000,000 is authorized to be used for costs under this paragraph.”
 
-    Subsec. (n)(3) to (6). [Pub. L. 102–550, § 106(i)][/us/pl/102/550/s106/i], added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and added par. (6).
+    Subsec. (n)(3) to (6). [Pub. L. 102–550][/us/pl/102/550], § 106(i), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and added par. (6).
 
-    Subsec. (o)(2). [Pub. L. 102–550, § 106(j)][/us/pl/102/550/s106/j], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2) Applicability to indian public housing.—In accordance with [section 1437aa(b)(2) of this title][/us/usc/t42/s1437aa/b/2], the provisions of this section shall also apply to public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
+    Subsec. (o)(2). [Pub. L. 102–550][/us/pl/102/550], § 106(j), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2) Applicability to indian public housing.—In accordance with [section 1437aa(b)(2) of this title][/us/usc/t42/s1437aa/b/2], the provisions of this section shall also apply to public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -361,7 +361,7 @@
 
     Amendment by section 101(f) \[title VIII, § 405(d)(31)\] of [Pub. L. 105–277][/us/pl/105/277] effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, § 405(f)(23)\] of [Pub. L. 105–277][/us/pl/105/277] effective July 1, 2000, see section 101(f) \[title VIII, § 405(g)(1), (2)(B)\] of [Pub. L. 105–277][/us/pl/105/277], set out as a note under [section 3502 of Title 5][/us/usc/t5/s3502], Government Organization and Employees.
 
-[Pub. L. 105–276, title V, § 509(b)][/us/pl/105/276/s509/b], Oct. 21, 1998, [112 Stat. 2531][/us/stat/112/2531], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 509(b), Oct. 21, 1998, [112 Stat. 2531][/us/stat/112/2531], provided that: 
 
 > “The amendments made by this subsection \[probably means subsec. (a), amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -371,7 +371,7 @@
 
  __GAO Study on Linking Federal Housing Assistance to Economic Self-Sufficiency Programs__ 
 
-    [Pub. L. 101–625, title V, § 554(b)][/us/pl/101/625/s554/b], Nov. 28, 1990, [104 Stat. 4231][/us/stat/104/4231], directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under [42 U.S.C. 1437f][/us/usc/t42/s1437f] and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under [42 U.S.C. 1437f(q)][/us/usc/t42/s1437f/q] to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 554(b), Nov. 28, 1990, [104 Stat. 4231][/us/stat/104/4231], directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under [42 U.S.C. 1437f][/us/usc/t42/s1437f] and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under [42 U.S.C. 1437f(q)][/us/usc/t42/s1437f/q] to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
 
 ----------
 
@@ -412,22 +412,22 @@
 [/us/usc/t42/s3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3536
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/104/330/s501/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F8
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/101/625/s554/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs554%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4225
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3684
-[/us/pl/104/316/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3837
-[/us/pl/104/330/s501/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F8
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
-[/us/pl/105/276/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2530
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s512/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1721
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
@@ -437,51 +437,51 @@
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
-[/us/pl/104/193/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fe
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2167
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s1437f/q/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fq%2F2%2FA
-[/us/pl/105/276/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs547
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2605
 [/us/usc/t42/s1437g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fc
-[/us/pl/105/276/s519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs519%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2551
-[/us/pl/113/128/s512/ii/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F1
-[/us/pl/113/128/s512/ii/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F2
-[/us/pl/113/128/s512/ii/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F3%2FA
-[/us/pl/113/128/s512/ii/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F3%2FB
-[/us/pl/105/276/s509/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FA%2Fi
-[/us/pl/105/276/s509/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FA%2Fii
-[/us/pl/105/276/s509/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FA%2Fiii
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/276/s509/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FB
-[/us/pl/105/276/s509/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FC
-[/us/pl/105/276/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437f/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fy
-[/us/pl/105/276/s509/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F3
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
-[/us/pl/102/550/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fb
-[/us/pl/102/550/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fc
-[/us/pl/102/550/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fd
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/102/550/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fe
-[/us/pl/102/550/s106/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fg%2F1
-[/us/pl/102/550/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Ff
-[/us/pl/102/550/s185/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs185%2Fb
-[/us/pl/102/550/s106/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fg%2F2
-[/us/pl/102/550/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fh
-[/us/pl/102/550/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fc
-[/us/pl/102/550/s106/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fi
-[/us/pl/102/550/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fj
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437aa/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aa%2Fb%2F2
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
@@ -490,12 +490,12 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t5/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3502
-[/us/pl/105/276/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2531
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/101/625/s554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs554%2Fb
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4231
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fq

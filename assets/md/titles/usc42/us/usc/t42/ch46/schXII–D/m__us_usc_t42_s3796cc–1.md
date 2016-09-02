@@ -29,7 +29,7 @@
 
         (2) shall administer grant funds received under this subchapter, including, review of spending, processing, progress, financial reporting, technical assistance, grant adjustments, accounting, auditing, and fund disbursement.
 
-([Pub. L. 90–351, title I, § 1602][/us/pl/90/351/s1602], as added [Pub. L. 102–521, § 4(a)(3)][/us/pl/102/521/s4/a/3], Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404]; amended [Pub. L. 109–162, title XI, § 1111(c)(2)(H)][/us/pl/109/162/s1111/c/2/H], Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1602, as added [Pub. L. 102–521][/us/pl/102/521], § 4(a)(3), Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(c)(2)(H), Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102].)
 
  __Amendments__ 
 
@@ -51,10 +51,10 @@
 ----------
 
 [/us/usc/t42/s3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3757
-[/us/pl/90/351/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1602
-[/us/pl/102/521/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs4%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3404
-[/us/pl/109/162/s1111/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FH
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3102
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t42/s3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3757

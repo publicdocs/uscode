@@ -17,7 +17,7 @@
 
     The Secretary may direct the director of each laboratory or installation at which a major magnetic fusion facility is operated for, or funded primarily by, the Federal Government to establish, for the sole purpose of providing advice to such director, a program advisory committee composed of persons with expertise in magnetic fusion from such domestic industry, universities, government laboratories, and other scientific and technical organizations as such director deems appropriate.
 
-([Pub. L. 96–386, § 8][/us/pl/96/386/s8], Oct. 7, 1980, [94 Stat. 1543][/us/stat/94/1543].)
+([Pub. L. 96–386][/us/pl/96/386], § 8, Oct. 7, 1980, [94 Stat. 1543][/us/stat/94/1543].)
 
  __Termination of Advisory Committees__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/386/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs8
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1543
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

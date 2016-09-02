@@ -31,7 +31,7 @@
 
         (3) If the Congress does not adopt a resolution of disapproval with respect to a license or authorization submitted pursuant to paragraph (1), the criterion set forth in subsection (a) of this section shall not be applied as an export criterion with respect to exports of materials, facilities and technology specified in subsection (a) of this section to that state: Provided, That the first license or authorization with respect to that state which is issued pursuant to this paragraph after twelve months from the elapse of the sixty-day period specified in paragraph (1), and the first such license or authorization which is issued after each twelve-month period thereafter, shall be submitted to the Congress for review pursuant to the procedures specified in paragraph (1): Provided further, That if the Congress adopts a resolution of disapproval during any review period provided for by this paragraph, the provisions of paragraph (2) shall apply with respect to further exports to such state.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 128, as added [Pub. L. 95–242, title III, § 306][/us/pl/95/242/s306], Mar. 10, 1978, [92 Stat. 137][/us/stat/92/137]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–437, § 15(f)(5)][/us/pl/103/437/s15/f/5], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 128, as added [Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 306, Mar. 10, 1978, [92 Stat. 137][/us/stat/92/137]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–437][/us/pl/103/437], § 15(f)(5), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 [/us/usc/t42/s2159/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159%2Fg
 [/us/usc/t42/s2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/242/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs306
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F137
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/437/s15/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F5
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc

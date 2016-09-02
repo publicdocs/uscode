@@ -63,7 +63,7 @@
 
         As used in this section, the term “business day” means a day on which State offices are open for regular business.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 454B, as added [Pub. L. 104–193, title III, § 312(b)][/us/pl/104/193/s312/b], Aug. 22, 1996, [110 Stat. 2207][/us/stat/110/2207]; amended [Pub. L. 105–33, title V, § 5549][/us/pl/105/33/s5549], Aug. 5, 1997, [111 Stat. 633][/us/stat/111/633].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 454B, as added [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 312(b), Aug. 22, 1996, [110 Stat. 2207][/us/stat/110/2207]; amended [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5549, Aug. 5, 1997, [111 Stat. 633][/us/stat/111/633].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–193, title III, § 312(d)][/us/pl/104/193/s312/d], Aug. 22, 1996, [110 Stat. 2209][/us/stat/110/2209], provided that:
+[Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 312(d), Aug. 22, 1996, [110 Stat. 2209][/us/stat/110/2209], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -104,16 +104,16 @@
 [/us/usc/t42/s666/a/8/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666%2Fa%2F8%2FB%2Fiii
 [/us/usc/t42/s657/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs657%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs312%2Fb
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2207
-[/us/pl/105/33/s5549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5549
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F633
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5557
 [/us/usc/t42/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs608
-[/us/pl/104/193/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs312%2Fd
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2209
 [/us/usc/t42/s654b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654b%2Fb%2F1
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193

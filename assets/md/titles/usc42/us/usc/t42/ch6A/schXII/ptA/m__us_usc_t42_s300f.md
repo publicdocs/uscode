@@ -103,7 +103,7 @@
 
     The term “noncommunity water system” means a public water system that is not a community water system.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1401, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1660][/us/stat/88/1660]; amended [Pub. L. 94–317, title III, § 301(b)(2)][/us/pl/94/317/s301/b/2], June 23, 1976, [90 Stat. 707][/us/stat/90/707]; [Pub. L. 94–484, title IX, § 905(b)(1)][/us/pl/94/484/s905/b/1], Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–190, § 8(b)][/us/pl/95/190/s8/b], Nov. 16, 1977, [91 Stat. 1397][/us/stat/91/1397]; [Pub. L. 99–339, title III, § 302(b)][/us/pl/99/339/s302/b], June 19, 1986, [100 Stat. 666][/us/stat/100/666]; [Pub. L. 104–182, title I, § 101(a)][/us/pl/104/182/s101/a], (b)(1), Aug. 6, 1996, [110 Stat. 1615][/us/stat/110/1615], 1616.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1401, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1660][/us/stat/88/1660]; amended [Pub. L. 94–317, title III][/us/pl/94/317/tIII], § 301(b)(2), June 23, 1976, [90 Stat. 707][/us/stat/90/707]; [Pub. L. 94–484, title IX][/us/pl/94/484/tIX], § 905(b)(1), Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–190][/us/pl/95/190], § 8(b), Nov. 16, 1977, [91 Stat. 1397][/us/stat/91/1397]; [Pub. L. 99–339, title III][/us/pl/99/339/tIII], § 302(b), June 19, 1986, [100 Stat. 666][/us/stat/100/666]; [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 101(a), (b)(1), Aug. 6, 1996, [110 Stat. 1615][/us/stat/110/1615], 1616.)
 
  __References in Text__ 
 
@@ -111,21 +111,21 @@
 
  __Amendments__ 
 
-    1996—Par. (1). [Pub. L. 104–182, § 101(a)(1)(B)][/us/pl/104/182/s101/a/1/B], inserted at end “At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.”
+    1996—Par. (1). [Pub. L. 104–182][/us/pl/104/182], § 101(a)(1)(B), inserted at end “At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.”
 
-    Par. (1)(D). [Pub. L. 104–182, § 101(a)(1)(A)][/us/pl/104/182/s101/a/1/A], inserted “accepted methods for” before “quality control”.
+    Par. (1)(D). [Pub. L. 104–182][/us/pl/104/182], § 101(a)(1)(A), inserted “accepted methods for” before “quality control”.
 
-    Par. (4). [Pub. L. 104–182, § 101(b)(1)][/us/pl/104/182/s101/b/1], designated existing provisions as subpar. (A), inserted par. and subpar. headings, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “water for human consumption through pipes or other constructed conveyances” for “piped water for human consumption” in first sentence, and added subpars. (B) and (C).
+    Par. (4). [Pub. L. 104–182][/us/pl/104/182], § 101(b)(1), designated existing provisions as subpar. (A), inserted par. and subpar. headings, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “water for human consumption through pipes or other constructed conveyances” for “piped water for human consumption” in first sentence, and added subpars. (B) and (C).
 
-    Par. (13). [Pub. L. 104–182, § 101(a)(2)][/us/pl/104/182/s101/a/2], designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the term” for “The term”, and added subpar. (B).
+    Par. (13). [Pub. L. 104–182][/us/pl/104/182], § 101(a)(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the term” for “The term”, and added subpar. (B).
 
-    Par. (14). [Pub. L. 104–182, § 101(a)(3)][/us/pl/104/182/s101/a/3], inserted at end “For purposes of [section 300j–12 of this title][/us/usc/t42/s300j–12], the term includes any Native village (as defined in [section 1602(c) of title 43][/us/usc/t43/s1602/c]).”
+    Par. (14). [Pub. L. 104–182][/us/pl/104/182], § 101(a)(3), inserted at end “For purposes of [section 300j–12 of this title][/us/usc/t42/s300j–12], the term includes any Native village (as defined in [section 1602(c) of title 43][/us/usc/t43/s1602/c]).”
 
-    Pars. (15), (16). [Pub. L. 104–182, § 101(a)(4)][/us/pl/104/182/s101/a/4], added pars. (15) and (16).
+    Pars. (15), (16). [Pub. L. 104–182][/us/pl/104/182], § 101(a)(4), added pars. (15) and (16).
 
-    1986—Par. (10). [Pub. L. 99–339, § 302(b)(2)][/us/pl/99/339/s302/b/2], substituted “Indian Tribe” for “Indian tribal organization authorized by law”.
+    1986—Par. (10). [Pub. L. 99–339][/us/pl/99/339], § 302(b)(2), substituted “Indian Tribe” for “Indian tribal organization authorized by law”.
 
-    Par. (14). [Pub. L. 99–339, § 302(b)(1)][/us/pl/99/339/s302/b/1], added par. (14).
+    Par. (14). [Pub. L. 99–339][/us/pl/99/339], § 302(b)(1), added par. (14).
 
     1977—Par. (12). [Pub. L. 95–190][/us/pl/95/190] expanded definition of “person” to include Federal agency, and officers, employees, and agents of any corporation, company, etc.
 
@@ -135,7 +135,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–182, § 2(b)][/us/pl/104/182/s2/b], Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
+[Pub. L. 104–182][/us/pl/104/182], § 2(b), Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
 
 > “Except as otherwise specified in this Act \[enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and [section 1263a of Title 33][/us/usc/t33/s1263a], Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and [section 349 of Title 21][/us/usc/t21/s349], Food and Drugs, repealing [section 13551 of this title][/us/usc/t42/s13551], enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, [section 1281 of Title 33][/us/usc/t33/s1281], and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under [section 201 of this title][/us/usc/t42/s201]\] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 6, 1996\].”
 
@@ -149,7 +149,7 @@
 
  __Effect of__  __[__  __Public Law 104–182__  __][/us/pl/104/182]__  __on Federal Water Pollution Control Act__ 
 
-[Pub. L. 104–182, § 2(c)][/us/pl/104/182/s2/c], Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
+[Pub. L. 104–182][/us/pl/104/182], § 2(c), Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
 
 > “Except for the provisions of section 302 \[[42 U.S.C. 300j–12][/us/usc/t42/s300j–12] note\] (relating to transfers of funds), nothing in this Act \[see Effective Date of 1996 Amendment note above\] or in any amendments made by this Act to title XIV of the Public Health Service Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] (commonly known as the ‘Safe Drinking Water Act’) or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
 
@@ -163,7 +163,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 104–182, § 3][/us/pl/104/182/s3], Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
+[Pub. L. 104–182][/us/pl/104/182], § 3, Aug. 6, 1996, [110 Stat. 1614][/us/stat/110/1614], provided that: 
 
 > “The Congress finds that—
 
@@ -197,7 +197,7 @@
 
  __GAO Study__ 
 
-[Pub. L. 104–182, title I, § 101(b)(2)][/us/pl/104/182/s101/b/2], Aug. 6, 1996, [110 Stat. 1617][/us/stat/110/1617], provided that: 
+[Pub. L. 104–182, title I][/us/pl/104/182/tI], § 101(b)(2), Aug. 6, 1996, [110 Stat. 1617][/us/stat/110/1617], provided that: 
 
 > “The Comptroller General of the United States shall undertake a study to—
 
@@ -211,19 +211,19 @@
 
  __Safe Drinking Water Amendments of 1977 Restrictions on Appropriations for Research__ 
 
-[Pub. L. 95–190, § 2(e)][/us/pl/95/190/s2/e], Nov. 16, 1977, [91 Stat. 1393][/us/stat/91/1393], provided that: 
+[Pub. L. 95–190][/us/pl/95/190], § 2(e), Nov. 16, 1977, [91 Stat. 1393][/us/stat/91/1393], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1977 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] (relating to safe drinking water).”
 
  __Safe Drinking Water Amendments of 1977 as Not Affecting Authority of Administrator With Respect to Contaminants__ 
 
-[Pub. L. 95–190, § 3(e)(2)][/us/pl/95/190/s3/e/2], Nov. 16, 1977, [91 Stat. 1394][/us/stat/91/1394], provided that: 
+[Pub. L. 95–190][/us/pl/95/190], § 3(e)(2), Nov. 16, 1977, [91 Stat. 1394][/us/stat/91/1394], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1977 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] shall be construed to alter or affect the Administrator’s authority or duty under title 14 of the Public Health Service Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] to promulgate regulations or take other action with respect to any contaminant.”
 
  __Rural Water Survey; Report to President and Congress; Authorization of Appropriations__ 
 
-    [Pub. L. 93–523, § 3][/us/pl/93/523/s3], Dec. 16, 1974, [88 Stat. 1693][/us/stat/88/1693], as amended by [Pub. L. 95–190][/us/pl/95/190], §§ 2(d), 3(d), Nov. 16, 1977, [91 Stat. 1393][/us/stat/91/1393], 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
+    [Pub. L. 93–523][/us/pl/93/523], § 3, Dec. 16, 1974, [88 Stat. 1693][/us/stat/88/1693], as amended by [Pub. L. 95–190][/us/pl/95/190], §§ 2(d), 3(d), Nov. 16, 1977, [91 Stat. 1393][/us/stat/91/1393], 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
 
  __Federal Compliance With Pollution Control Standards__ 
 
@@ -231,7 +231,7 @@
 
  __Termination of Advisory Committees__ 
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ----------
 
@@ -246,35 +246,35 @@
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t43/s1602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
-[/us/pl/94/317/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs301%2Fb%2F2
+[/us/pl/94/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtIII
 [/us/stat/90/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F707
-[/us/pl/94/484/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs905%2Fb%2F1
+[/us/pl/94/484/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIX
 [/us/stat/90/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2325
-[/us/pl/95/190/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs8%2Fb
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1397
-[/us/pl/99/339/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs302%2Fb
+[/us/pl/99/339/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtIII
 [/us/stat/100/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F666
-[/us/pl/104/182/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fa
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1615
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/stat/110/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1613
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/104/182/s101/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fa%2F1%2FB
-[/us/pl/104/182/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fa%2F1%2FA
-[/us/pl/104/182/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fb%2F1
-[/us/pl/104/182/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fa%2F2
-[/us/pl/104/182/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fa%2F3
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t43/s1602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fc
-[/us/pl/104/182/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fa%2F4
-[/us/pl/99/339/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs302%2Fb%2F2
-[/us/pl/99/339/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs302%2Fb%2F1
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
-[/us/pl/104/182/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs2%2Fb
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/stat/110/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1614
 [/us/usc/t33/s1263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1263a
 [/us/usc/t21/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs349
@@ -284,32 +284,32 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
-[/us/pl/104/182/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs2%2Fc
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/stat/110/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1614
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/104/182/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs3
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/stat/110/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1614
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/104/182/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs101%2Fb%2F2
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1617
 [/us/usc/t42/s300f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f%2F4%2FB
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/95/190/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs2%2Fe
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1393
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/95/190/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs3%2Fe%2F2
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1394
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/93/523/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs3
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1693
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1393
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

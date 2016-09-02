@@ -75,45 +75,45 @@
 
         Such term does not include, with respect to activities of a specific provider of services or supplier an entity that has no authority under this subchapter or subchapter IX of this chapter with respect to such activities and such provider of services or supplier.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1889, as added and amended [Pub. L. 108–173, title IX, § 921(a)(1)][/us/pl/108/173/s921/a/1], (d)(1), (e)(1), (f)(1), Dec. 8, 2003, [117 Stat. 2388][/us/stat/117/2388], 2391.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1889, as added and amended [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 921(a)(1), (d)(1), (e)(1), (f)(1), Dec. 8, 2003, [117 Stat. 2388][/us/stat/117/2388], 2391.)
 
  __Prior Provisions__ 
 
-    A prior section 1395zz, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1889, as added Nov. 5, 1990, [Pub. L. 101–508, title IV, § 4361(a)][/us/pl/101/508/s4361/a], [104 Stat. 1388–141][/us/stat/104/1388-141], related to medicare and medigap information by telephone, prior to repeal by [Pub. L. 103–432, title I, § 171(j)(3)][/us/pl/103/432/s171/j/3], (l), Oct. 31, 1994, [108 Stat. 4451][/us/stat/108/4451], effective as if included in the enactment of [Pub. L. 101–508][/us/pl/101/508].
+    A prior section 1395zz, [act Aug. 14, 1935, ch. 531, title XVIII][/us/act/1935-08-14/ch531/tXVIII], § 1889, as added Nov. 5, 1990, [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4361(a), [104 Stat. 1388–141][/us/stat/104/1388-141], related to medicare and medigap information by telephone, prior to repeal by [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 171(j)(3), (l), Oct. 31, 1994, [108 Stat. 4451][/us/stat/108/4451], effective as if included in the enactment of [Pub. L. 101–508][/us/pl/101/508].
 
-    Another prior section 1395zz, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1889, formerly § 1833(f), as added Jan. 2, 1968, [Pub. L. 90–248, title I, § 132(b)][/us/pl/90/248/s132/b], [81 Stat. 850][/us/stat/81/850], and amended Oct. 30, 1972, [Pub. L. 92–603, title II, § 245(d)][/us/pl/92/603/s245/d], [86 Stat. 1424][/us/stat/86/1424]; Oct. 25, 1977, [Pub. L. 95–142, § 16(a)][/us/pl/95/142/s16/a], [91 Stat. 1200][/us/stat/91/1200]; renumbered § 1889 and amended July 18, 1984, [Pub. L. 98–369, div. B, title III, § 2321(d)][/us/pl/98/369/s2321/d], [98 Stat. 1084][/us/stat/98/1084], provided for purchase of durable medical equipment, covering (a) lease-purchase basis or rental and determination by Secretary, (b) waiver of coinsurance amount in purchase of used equipment, (c) reimbursement procedures, and (d) encouragement of lease-purchase basis, prior to repeal by [Pub. L. 100–203, title IV, § 4062(d)(5)][/us/pl/100/203/s4062/d/5], (e), Dec. 22, 1987, [101 Stat. 1330–109][/us/stat/101/1330-109], applicable to covered items (other than oxygen and oxygen equipment) furnished on or after Jan. 1, 1989, and to oxygen and oxygen equipment furnished on or after June 1, 1989.
+    Another prior section 1395zz, [act Aug. 14, 1935, ch. 531, title XVIII][/us/act/1935-08-14/ch531/tXVIII], § 1889, formerly § 1833(f), as added Jan. 2, 1968, [Pub. L. 90–248, title I][/us/pl/90/248/tI], § 132(b), [81 Stat. 850][/us/stat/81/850], and amended Oct. 30, 1972, [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 245(d), [86 Stat. 1424][/us/stat/86/1424]; Oct. 25, 1977, [Pub. L. 95–142][/us/pl/95/142], § 16(a), [91 Stat. 1200][/us/stat/91/1200]; renumbered § 1889 and amended July 18, 1984, [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2321(d), [98 Stat. 1084][/us/stat/98/1084], provided for purchase of durable medical equipment, covering (a) lease-purchase basis or rental and determination by Secretary, (b) waiver of coinsurance amount in purchase of used equipment, (c) reimbursement procedures, and (d) encouragement of lease-purchase basis, prior to repeal by [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4062(d)(5), (e), Dec. 22, 1987, [101 Stat. 1330–109][/us/stat/101/1330-109], applicable to covered items (other than oxygen and oxygen equipment) furnished on or after Jan. 1, 1989, and to oxygen and oxygen equipment furnished on or after June 1, 1989.
 
  __Amendments__ 
 
-    2003—Subsecs. (b), (c). [Pub. L. 108–173, § 921(d)(1)][/us/pl/108/173/s921/d/1], added subsecs. (b) and (c).
+    2003—Subsecs. (b), (c). [Pub. L. 108–173][/us/pl/108/173], § 921(d)(1), added subsecs. (b) and (c).
 
-    Subsec. (d). [Pub. L. 108–173, § 921(e)(1)][/us/pl/108/173/s921/e/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–173][/us/pl/108/173], § 921(e)(1), added subsec. (d).
 
-    Subsecs. (e) to (g). [Pub. L. 108–173, § 921(f)(1)][/us/pl/108/173/s921/f/1], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 108–173][/us/pl/108/173], § 921(f)(1), added subsecs. (e) to (g).
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–173, title IX, § 921(d)(2)][/us/pl/108/173/s921/d/2], Dec. 8, 2003, [117 Stat. 2391][/us/stat/117/2391], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 921(d)(2), Dec. 8, 2003, [117 Stat. 2391][/us/stat/117/2391], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2004.”
 
-[Pub. L. 108–173, title IX, § 921(e)(2)][/us/pl/108/173/s921/e/2], Dec. 8, 2003, [117 Stat. 2391][/us/stat/117/2391], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 921(e)(2), Dec. 8, 2003, [117 Stat. 2391][/us/stat/117/2391], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2004.”
 
-[Pub. L. 108–173, title IX, § 921(f)(2)][/us/pl/108/173/s921/f/2], Dec. 8, 2003, [117 Stat. 2392][/us/stat/117/2392], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 921(f)(2), Dec. 8, 2003, [117 Stat. 2392][/us/stat/117/2392], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\].”
 
  __Effective Date__ 
 
-[Pub. L. 108–173, title IX, § 921(a)(2)][/us/pl/108/173/s921/a/2], Dec. 8, 2003, [117 Stat. 2388][/us/stat/117/2388], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 921(a)(2), Dec. 8, 2003, [117 Stat. 2388][/us/stat/117/2388], provided that: 
 
 > “The amendment made by paragraph (1) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\].”
 
  __Small Provider Technical Assistance Demonstration Program__ 
 
-[Pub. L. 108–173, title IX, § 922][/us/pl/108/173/s922], Dec. 8, 2003, [117 Stat. 2392][/us/stat/117/2392], provided that:
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 922, Dec. 8, 2003, [117 Stat. 2392][/us/stat/117/2392], provided that:
 
 >     “(a) __Establishment.—__ 
 
@@ -171,37 +171,37 @@
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/usc/t42/s1395ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s921/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fa%2F1
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2388
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/508/s4361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4361%2Fa
+[/us/act/1935-08-14/ch531/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXVIII
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-141
-[/us/pl/103/432/s171/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fj%2F3
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4451
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs132%2Fb
+[/us/act/1935-08-14/ch531/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXVIII
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F850
-[/us/pl/92/603/s245/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs245%2Fd
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1424
-[/us/pl/95/142/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs16%2Fa
+[/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1200
-[/us/pl/98/369/s2321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2321%2Fd
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1084
-[/us/pl/100/203/s4062/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4062%2Fd%2F5
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-109
-[/us/pl/108/173/s921/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fd%2F1
-[/us/pl/108/173/s921/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fe%2F1
-[/us/pl/108/173/s921/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Ff%2F1
-[/us/pl/108/173/s921/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fd%2F2
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2391
-[/us/pl/108/173/s921/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fe%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2391
-[/us/pl/108/173/s921/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Ff%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2392
-[/us/pl/108/173/s921/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fa%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2388
-[/us/pl/108/173/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs922
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2392
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301

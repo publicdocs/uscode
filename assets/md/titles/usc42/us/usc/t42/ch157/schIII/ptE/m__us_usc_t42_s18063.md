@@ -33,7 +33,7 @@
 
         A health plan or a health insurance issuer is described in this subsection if such health plan or health insurance issuer provides coverage in the individual or small group market within the State. This subsection shall not apply to a grandfathered health plan or the issuer of a grandfathered health plan with respect to that plan.
 
-([Pub. L. 111–148, title I, § 1343][/us/pl/111/148/s1343], Mar. 23, 2010, [124 Stat. 212][/us/stat/124/212].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1343, Mar. 23, 2010, [124 Stat. 212][/us/stat/124/212].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/usc/t42/s18041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18041
-[/us/pl/111/148/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1343
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F212
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829

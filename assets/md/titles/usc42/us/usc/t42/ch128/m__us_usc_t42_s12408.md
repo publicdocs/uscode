@@ -35,7 +35,7 @@
 
     (9) $40,000,000 for fiscal year 2001.
 
-([Pub. L. 101–566, § 109][/us/pl/101/566/s109], Nov. 15, 1990, [104 Stat. 2801][/us/stat/104/2801]; [Pub. L. 104–271, title I, § 106][/us/pl/104/271/s106], Oct. 9, 1996, [110 Stat. 3306][/us/stat/110/3306].)
+([Pub. L. 101–566][/us/pl/101/566], § 109, Nov. 15, 1990, [104 Stat. 2801][/us/stat/104/2801]; [Pub. L. 104–271, title I][/us/pl/104/271/tI], § 106, Oct. 9, 1996, [110 Stat. 3306][/us/stat/110/3306].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/101/566/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566%2Fs109
+[/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566
 [/us/stat/104/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2801
-[/us/pl/104/271/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2Fs106
+[/us/pl/104/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2FtI
 [/us/stat/110/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3306
 [/us/pl/104/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271
 

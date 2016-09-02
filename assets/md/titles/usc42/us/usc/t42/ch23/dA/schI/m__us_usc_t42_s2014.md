@@ -121,15 +121,15 @@
 
     As used in [section 2210 of this title][/us/usc/t42/s2210], the term “legal costs” means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 11, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 922][/us/stat/68/922]; amended [Aug. 6, 1956, ch. 1015, § 1][/us/act/1956-08-06/ch1015/s1], [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 85–256, § 3][/us/pl/85/256/s3], Sept. 2, 1957, [71 Stat. 576][/us/stat/71/576]; [Pub. L. 85–602, § 1][/us/pl/85/602/s1], Aug. 8, 1958, [72 Stat. 525][/us/stat/72/525]; [Pub. L. 87–206][/us/pl/87/206], §§ 2, 3, Sept. 6, 1961, [75 Stat. 476][/us/stat/75/476]; [Pub. L. 87–615][/us/pl/87/615], §§ 4, 5, Aug. 29, 1962, [76 Stat. 410][/us/stat/76/410]; [Pub. L. 89–645, § 1(a)][/us/pl/89/645/s1/a], Oct. 13, 1966, [80 Stat. 891][/us/stat/80/891]; [Pub. L. 94–197, § 1][/us/pl/94/197/s1], Dec. 31, 1975, [89 Stat. 1111][/us/stat/89/1111]; [Pub. L. 95–604, title II, § 201][/us/pl/95/604/s201], Nov. 8, 1978, [92 Stat. 3033][/us/stat/92/3033]; [Pub. L. 100–408][/us/pl/100/408], §§ 4(b)–5(b), 11(b), (d)(2), 16(a)(1), (b)(1), (2), (d)(1)–(3), Aug. 20, 1988, [102 Stat. 1069][/us/stat/102/1069], 1070, 1076, 1078–1080; [Pub. L. 101–575, § 5(a)][/us/pl/101/575/s5/a], Nov. 15, 1990, [104 Stat. 2835][/us/stat/104/2835]; renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], title XI, § 1102, Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944], 2955; [Pub. L. 103–437, § 15(f)(1)][/us/pl/103/437/s15/f/1], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 104–134, title III, § 3116(b)(1)][/us/pl/104/134/s3116/b/1], Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349]; [Pub. L. 109–58, title VI, § 651(e)(1)][/us/pl/109/58/s651/e/1], Aug. 8, 2005, [119 Stat. 806][/us/stat/119/806].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 11, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 922][/us/stat/68/922]; amended [Aug. 6, 1956, ch. 1015][/us/act/1956-08-06/ch1015], § 1, [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 85–256][/us/pl/85/256], § 3, Sept. 2, 1957, [71 Stat. 576][/us/stat/71/576]; [Pub. L. 85–602][/us/pl/85/602], § 1, Aug. 8, 1958, [72 Stat. 525][/us/stat/72/525]; [Pub. L. 87–206][/us/pl/87/206], §§ 2, 3, Sept. 6, 1961, [75 Stat. 476][/us/stat/75/476]; [Pub. L. 87–615][/us/pl/87/615], §§ 4, 5, Aug. 29, 1962, [76 Stat. 410][/us/stat/76/410]; [Pub. L. 89–645][/us/pl/89/645], § 1(a), Oct. 13, 1966, [80 Stat. 891][/us/stat/80/891]; [Pub. L. 94–197][/us/pl/94/197], § 1, Dec. 31, 1975, [89 Stat. 1111][/us/stat/89/1111]; [Pub. L. 95–604, title II][/us/pl/95/604/tII], § 201, Nov. 8, 1978, [92 Stat. 3033][/us/stat/92/3033]; [Pub. L. 100–408][/us/pl/100/408], §§ 4(b)–5(b), 11(b), (d)(2), 16(a)(1), (b)(1), (2), (d)(1)–(3), Aug. 20, 1988, [102 Stat. 1069][/us/stat/102/1069], 1070, 1076, 1078–1080; [Pub. L. 101–575][/us/pl/101/575], § 5(a), Nov. 15, 1990, [104 Stat. 2835][/us/stat/104/2835]; renumbered title I and amended [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), title XI, § 1102, Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944], 2955; [Pub. L. 103–437][/us/pl/103/437], § 15(f)(1), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(b)(1), Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 651(e)(1), Aug. 8, 2005, [119 Stat. 806][/us/stat/119/806].)
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     For definition of Canal Zone, referred to in subsec. (bb), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
-    [Section 213 of Public Law 96–164][/us/pl/96/164/s213], referred to in subsec. (ff), is [Pub. L. 96–164, title II, § 213][/us/pl/96/164/s213], Dec. 29, 1979, [93 Stat. 1265][/us/stat/93/1265], which is not classified to the Code.
+    [Section 213 of Public Law 96–164][/us/pl/96/164/s213], referred to in subsec. (ff), is [Pub. L. 96–164, title II][/us/pl/96/164/tII], § 213, Dec. 29, 1979, [93 Stat. 1265][/us/stat/93/1265], which is not classified to the Code.
 
  __Prior Provisions__ 
 
@@ -149,27 +149,27 @@
 
     1990—Subsec. (v). [Pub. L. 101–575][/us/pl/101/575] inserted at end “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this chapter shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
 
-    1988—Subsecs. (j), (m). [Pub. L. 100–408, § 16(b)(1)][/us/pl/100/408/s16/b/1], substituted “Nuclear Regulatory Commission or the Secretary of Energy, as appropriate,” for “Commission” wherever appearing.
+    1988—Subsecs. (j), (m). [Pub. L. 100–408][/us/pl/100/408], § 16(b)(1), substituted “Nuclear Regulatory Commission or the Secretary of Energy, as appropriate,” for “Commission” wherever appearing.
 
-    Subsec. (q). [Pub. L. 100–408, § 16(d)(1)][/us/pl/100/408/s16/d/1], substituted “section” for “subsection” in three places, which for purposes of codification was translated as “section”, thus requiring no change in text.
+    Subsec. (q). [Pub. L. 100–408][/us/pl/100/408], § 16(d)(1), substituted “section” for “subsection” in three places, which for purposes of codification was translated as “section”, thus requiring no change in text.
 
-    [Pub. L. 100–408, § 16(a)(1)][/us/pl/100/408/s16/a/1], substituted “Nuclear Regulatory Commission” for “Commission” wherever appearing.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(a)(1), substituted “Nuclear Regulatory Commission” for “Commission” wherever appearing.
 
-    Subsec. (t). [Pub. L. 100–408, § 16(d)(2)][/us/pl/100/408/s16/d/2], substituted “section” for “subsection” in two places, which for purposes of codification was translated as “section”, thus requiring no change in text.
+    Subsec. (t). [Pub. L. 100–408][/us/pl/100/408], § 16(d)(2), substituted “section” for “subsection” in two places, which for purposes of codification was translated as “section”, thus requiring no change in text.
 
-    [Pub. L. 100–408, § 16(b)(2)][/us/pl/100/408/s16/b/2], substituted “Secretary of Energy” for “Commission” in cl. (2).
+    [Pub. L. 100–408][/us/pl/100/408], § 16(b)(2), substituted “Secretary of Energy” for “Commission” in cl. (2).
 
-    Subsec. (w). [Pub. L. 100–408, § 16(d)(3)][/us/pl/100/408/s16/d/3], substituted “subsections (a), (c), and (k) of [section 2210 of this title][/us/usc/t42/s2210]” for “section 2210(a), (c), and (k) of this title”.
+    Subsec. (w). [Pub. L. 100–408][/us/pl/100/408], § 16(d)(3), substituted “subsections (a), (c), and (k) of [section 2210 of this title][/us/usc/t42/s2210]” for “section 2210(a), (c), and (k) of this title”.
 
-    [Pub. L. 100–408, § 5(a)][/us/pl/100/408/s5/a], inserted “or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation)” after first reference to “nuclear incident”.
+    [Pub. L. 100–408][/us/pl/100/408], § 5(a), inserted “or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation)” after first reference to “nuclear incident”.
 
-    Subsecs. (dd) to (ff). [Pub. L. 100–408, § 4(b)][/us/pl/100/408/s4/b], added subsecs. (dd) to (ff).
+    Subsecs. (dd) to (ff). [Pub. L. 100–408][/us/pl/100/408], § 4(b), added subsecs. (dd) to (ff).
 
-    Subsec. (gg). [Pub. L. 100–408, § 5(b)][/us/pl/100/408/s5/b], added subsec. (gg).
+    Subsec. (gg). [Pub. L. 100–408][/us/pl/100/408], § 5(b), added subsec. (gg).
 
-    Subsec. (hh). [Pub. L. 100–408, § 11(b)][/us/pl/100/408/s11/b], added subsec. (hh).
+    Subsec. (hh). [Pub. L. 100–408][/us/pl/100/408], § 11(b), added subsec. (hh).
 
-    Subsec. (jj). [Pub. L. 100–408, § 11(d)(2)][/us/pl/100/408/s11/d/2], added subsec. (jj).
+    Subsec. (jj). [Pub. L. 100–408][/us/pl/100/408], § 11(d)(2), added subsec. (jj).
 
     1978—Subsec. (e). [Pub. L. 95–604][/us/pl/95/604] designated existing provisions as cl. (1) and added cl. (2).
 
@@ -177,25 +177,25 @@
 
     Subsec. (t). [Pub. L. 94–197][/us/pl/94/197] expanded definition to include nuclear incidents occurring outside the United States as the term is used in [section 2210(c) of this title][/us/usc/t42/s2210/c] and inserted reference to person required to maintain financial protection.
 
-    1966—Subsec. (j). [Pub. L. 89–645, § 1(a)(2)][/us/pl/89/645/s1/a/2], added subsec. (j). Former subsec. (j) redesignated (k).
+    1966—Subsec. (j). [Pub. L. 89–645][/us/pl/89/645], § 1(a)(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
-    Subsecs. (k), (l). [Pub. L. 89–645, § 1(a)(1)][/us/pl/89/645/s1/a/1], redesignated former subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (n).
+    Subsecs. (k), (l). [Pub. L. 89–645][/us/pl/89/645], § 1(a)(1), redesignated former subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (n).
 
-    Subsec. (m). [Pub. L. 89–645, § 1(a)(3)][/us/pl/89/645/s1/a/3], added subsec. (m). Former subsec. (m) redesignated (o).
+    Subsec. (m). [Pub. L. 89–645][/us/pl/89/645], § 1(a)(3), added subsec. (m). Former subsec. (m) redesignated (o).
 
-    Subsecs. (n) to (p). [Pub. L. 89–645, § 1(a)(1)][/us/pl/89/645/s1/a/1], redesignated former subsecs. (l) to (n) as (n) to (p), respectively. Former subsecs. (n) to (p) redesignated (p) to (r), respectively.
+    Subsecs. (n) to (p). [Pub. L. 89–645][/us/pl/89/645], § 1(a)(1), redesignated former subsecs. (l) to (n) as (n) to (p), respectively. Former subsecs. (n) to (p) redesignated (p) to (r), respectively.
 
-    Subsec. (q). [Pub. L. 89–645, § 1(a)(1)][/us/pl/89/645/s1/a/1], (4), redesignated former subsec. (o) as (q) and inserted “, including an extraordinary nuclear occurrence,” between “occurrence” and “within”, respectively. Former subsec. (q) redesignated (s).
+    Subsec. (q). [Pub. L. 89–645][/us/pl/89/645], § 1(a)(1), (4), redesignated former subsec. (o) as (q) and inserted “, including an extraordinary nuclear occurrence,” between “occurrence” and “within”, respectively. Former subsec. (q) redesignated (s).
 
-    Subsecs. (r) to (cc). [Pub. L. 89–645, § 1(a)(1)][/us/pl/89/645/s1/a/1], redesignated former subsecs. (p) to (aa) as (r) to (cc), respectively.
+    Subsecs. (r) to (cc). [Pub. L. 89–645][/us/pl/89/645], § 1(a)(1), redesignated former subsecs. (p) to (aa) as (r) to (cc), respectively.
 
-    1962—Subsec. (o). [Pub. L. 87–615, § 4][/us/pl/87/615/s4], enlarged definition of “nuclear incident” to include any occurrence within the United States causing any of the listed injuries and damages within or outside the United States, provided that as used in section 2210(l) of this title, term shall “include” instead of “mean” any such occurrence outside the United States, and that as used in [section 2210(d) of this title][/us/usc/t42/s2210/d], the term shall include any such occurrence outside the United States if such occurrence involves a facility or devise owned by, and used by or under contract with, the United States.
+    1962—Subsec. (o). [Pub. L. 87–615][/us/pl/87/615], § 4, enlarged definition of “nuclear incident” to include any occurrence within the United States causing any of the listed injuries and damages within or outside the United States, provided that as used in section 2210(l) of this title, term shall “include” instead of “mean” any such occurrence outside the United States, and that as used in [section 2210(d) of this title][/us/usc/t42/s2210/d], the term shall include any such occurrence outside the United States if such occurrence involves a facility or devise owned by, and used by or under contract with, the United States.
 
-    Subsec. (r). [Pub. L. 87–615, § 5][/us/pl/87/615/s5], limited definition of “person indemnified” to nuclear incidents occurring within the United States, or in connection with the nuclear ship Savannah, and inserted provisions with respect to nuclear incidents occurring outside the United States.
+    Subsec. (r). [Pub. L. 87–615][/us/pl/87/615], § 5, limited definition of “person indemnified” to nuclear incidents occurring within the United States, or in connection with the nuclear ship Savannah, and inserted provisions with respect to nuclear incidents occurring outside the United States.
 
-    1961—Subsec. (b). [Pub. L. 87–206, § 2][/us/pl/87/206/s2], included [section 2121(c) of this title][/us/usc/t42/s2121/c] in enumeration.
+    1961—Subsec. (b). [Pub. L. 87–206][/us/pl/87/206], § 2, included [section 2121(c) of this title][/us/usc/t42/s2121/c] in enumeration.
 
-    Subsec. (u). [Pub. L. 87–206, § 3][/us/pl/87/206/s3], designated existing provisions as cls. (i) and (ii) and added cl. (iii).
+    Subsec. (u). [Pub. L. 87–206][/us/pl/87/206], § 3, designated existing provisions as cls. (i) and (ii) and added cl. (iii).
 
     1958—Subsec. (o). [Pub. L. 85–602][/us/pl/85/602] inserted proviso defining “nuclear incident” as it is used in section 2210(l) of this title.
 
@@ -225,7 +225,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–408, § 20][/us/pl/100/408/s20], Aug. 20, 1988, [102 Stat. 1084][/us/stat/102/1084], provided that:
+[Pub. L. 100–408][/us/pl/100/408], § 20, Aug. 20, 1988, [102 Stat. 1084][/us/stat/102/1084], provided that:
 
 >     “(a) Except as provided in subsection (b), the amendments made by this Act \[enacting [section 2282a of this title][/us/usc/t42/s2282a] and amending this section and sections 2210 and 2273 of this title\] shall become effective on the date of the enactment of this Act \[Aug. 20, 1988\] and shall be applicable with respect to nuclear incidents occurring on or after such date.
 
@@ -241,7 +241,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–604, title II, § 208][/us/pl/95/604/s208], Nov. 8, 1978, [92 Stat. 3041][/us/stat/92/3041], provided that: 
+[Pub. L. 95–604, title II][/us/pl/95/604/tII], § 208, Nov. 8, 1978, [92 Stat. 3041][/us/stat/92/3041], provided that: 
 
 > “Except as otherwise provided in this title \[see [section 202(b) of Pub. L. 95–604][/us/pl/95/604/s202/b], set out as an Effective Date note under [section 2113 of this title][/us/usc/t42/s2113]\] the amendments made by this title \[enacting sections 2022 and 2114 of this title, amending this section and sections 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2021 and 2113 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1978\].”
 
@@ -276,43 +276,43 @@
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F922
-[/us/act/1956-08-06/ch1015/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1015%2Fs1
+[/us/act/1956-08-06/ch1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1015
 [/us/stat/70/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1069
-[/us/pl/85/256/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256%2Fs3
+[/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/stat/71/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F576
-[/us/pl/85/602/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602%2Fs1
+[/us/pl/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602
 [/us/stat/72/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F525
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F476
 [/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F410
-[/us/pl/89/645/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fa
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
 [/us/stat/80/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F891
-[/us/pl/94/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs1
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
 [/us/stat/89/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1111
-[/us/pl/95/604/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs201
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3033
 [/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/stat/102/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1069
-[/us/pl/101/575/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs5%2Fa
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/stat/104/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2835
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/437/s15/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
-[/us/pl/104/134/s3116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fb%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
-[/us/pl/109/58/s651/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fe%2F1
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F806
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/96/164/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2Fs213
-[/us/pl/96/164/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2Fs213
+[/us/pl/96/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2FtII
 [/us/stat/93/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1265
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/stat/60/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F768
@@ -327,35 +327,35 @@
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
-[/us/pl/100/408/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F1
-[/us/pl/100/408/s16/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fd%2F1
-[/us/pl/100/408/s16/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fa%2F1
-[/us/pl/100/408/s16/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fd%2F2
-[/us/pl/100/408/s16/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F2
-[/us/pl/100/408/s16/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fd%2F3
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/100/408/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs5%2Fa
-[/us/pl/100/408/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs4%2Fb
-[/us/pl/100/408/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs5%2Fb
-[/us/pl/100/408/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs11%2Fb
-[/us/pl/100/408/s11/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs11%2Fd%2F2
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
 [/us/usc/t42/s2210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210%2Fc
 [/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
 [/us/usc/t42/s2210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210%2Fc
-[/us/pl/89/645/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fa%2F2
-[/us/pl/89/645/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fa%2F1
-[/us/pl/89/645/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fa%2F3
-[/us/pl/89/645/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fa%2F1
-[/us/pl/89/645/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fa%2F1
-[/us/pl/89/645/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fa%2F1
-[/us/pl/87/615/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs4
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/usc/t42/s2210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210%2Fd
-[/us/pl/87/615/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs5
-[/us/pl/87/206/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs2
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/usc/t42/s2121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121%2Fc
-[/us/pl/87/206/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs3
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/pl/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602
 [/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
@@ -368,13 +368,13 @@
 [/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/100/408/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs20
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/stat/102/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1084
 [/us/usc/t42/s2282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282a
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s2282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282a
 [/us/usc/t42/s2273/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2273%2Fc
-[/us/pl/95/604/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs208
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3041
 [/us/pl/95/604/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs202%2Fb
 [/us/usc/t42/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2113

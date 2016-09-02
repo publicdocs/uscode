@@ -39,7 +39,7 @@
 
         (2) the Weatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act ([42 U.S.C. 6861][/us/usc/t42/s6861] et seq.).
 
-([Pub. L. 110–140, title V, § 548][/us/pl/110/140/s548], Dec. 19, 2007, [121 Stat. 1674][/us/stat/121/1674]; [Pub. L. 111–5, div. A, title IV, § 404(c)][/us/pl/111/5/s404/c], Feb. 17, 2009, [123 Stat. 143][/us/stat/123/143].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 548, Dec. 19, 2007, [121 Stat. 1674][/us/stat/121/1674]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 404(c), Feb. 17, 2009, [123 Stat. 143][/us/stat/123/143].)
 
  __References in Text__ 
 
@@ -60,9 +60,9 @@
 
 [/us/usc/t42/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6321
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
-[/us/pl/110/140/s548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs548
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1674
-[/us/pl/111/5/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs404%2Fc
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F143
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

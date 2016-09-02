@@ -35,7 +35,7 @@
 
             (B) is made to the Administrator of General Services for administrative support or space in carrying out such activities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2303, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3064][/us/stat/102/3064]; amended [Pub. L. 102–321, title I][/us/pl/102/321], §§ 161, 163(b)(7), July 10, 1992, [106 Stat. 375][/us/stat/106/375], 376; [Pub. L. 102–531, title III, § 312(d)(17)][/us/pl/102/531/s312/d/17], Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2303, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3064][/us/stat/102/3064]; amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], §§ 161, 163(b)(7), July 10, 1992, [106 Stat. 375][/us/stat/106/375], 376; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(17), Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505].)
 
  __Prior Provisions__ 
 
@@ -45,15 +45,15 @@
 
     1992—Subsec. (a). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-    [Pub. L. 102–321, § 161][/us/pl/102/321/s161], substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
+    [Pub. L. 102–321][/us/pl/102/321], § 161, substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
 
     Subsec. (b). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-    [Pub. L. 102–321, § 163(b)(7)(A)][/us/pl/102/321/s163/b/7/A], substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
+    [Pub. L. 102–321][/us/pl/102/321], § 163(b)(7)(A), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
 
     Subsec. (c)(1). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-    [Pub. L. 102–321, § 163(b)(7)(B)][/us/pl/102/321/s163/b/7/B], substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
+    [Pub. L. 102–321][/us/pl/102/321], § 163(b)(7)(B), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -67,19 +67,19 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3064
-[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F375
-[/us/pl/102/531/s312/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F17
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
 [/us/usc/t42/s238b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238b
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/102/321/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs161
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/102/321/s163/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F7%2FA
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/102/321/s163/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F7%2FB
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321/s801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs801%2Fc
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

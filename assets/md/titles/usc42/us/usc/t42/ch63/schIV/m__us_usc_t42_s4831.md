@@ -27,7 +27,7 @@
 
         The Consumer Product Safety Commission shall take such steps and impose such conditions as may be necessary or appropriate to prohibit the application of lead-based paint to any toy or furniture article.
 
-([Pub. L. 91–695, title IV, § 401][/us/pl/91/695/s401], Jan. 13, 1971, [84 Stat. 2079][/us/stat/84/2079]; [Pub. L. 93–151, § 5][/us/pl/93/151/s5], Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566]; [Pub. L. 94–317, title II, § 204(b)][/us/pl/94/317/s204/b], June 23, 1976, [90 Stat. 705][/us/stat/90/705]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–695, title IV][/us/pl/91/695/tIV], § 401, Jan. 13, 1971, [84 Stat. 2079][/us/stat/84/2079]; [Pub. L. 93–151][/us/pl/93/151], § 5, Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566]; [Pub. L. 94–317, title II][/us/pl/94/317/tII], § 204(b), June 23, 1976, [90 Stat. 705][/us/stat/90/705]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/91/695/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs401
+[/us/pl/91/695/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2FtIV
 [/us/stat/84/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2079
-[/us/pl/93/151/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs5
+[/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/stat/87/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F566
-[/us/pl/94/317/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs204%2Fb
+[/us/pl/94/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtII
 [/us/stat/90/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F705
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151

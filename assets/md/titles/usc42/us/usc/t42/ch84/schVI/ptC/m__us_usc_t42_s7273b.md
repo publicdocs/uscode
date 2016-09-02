@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7271c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7273b)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7271d...7273a.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7273b)
 
 ## § 7273b. Security investigations
 
@@ -25,7 +25,7 @@
 
     (2) For purposes of paragraph (1)(A), a current investigation file is a file on an investigation that has been conducted within the past five years.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3104(d)][/us/pl/101/510/s3104/d], Nov. 5, 1990, [104 Stat. 1828][/us/stat/104/1828].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3104(d), Nov. 5, 1990, [104 Stat. 1828][/us/stat/104/1828].)
 
  __Codification__ 
 
@@ -33,12 +33,12 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7271c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7273b)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7271d...7273a.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7273b)
 
 ----------
 ----------
 
-[/us/pl/101/510/s3104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3104%2Fd
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1828
 
 

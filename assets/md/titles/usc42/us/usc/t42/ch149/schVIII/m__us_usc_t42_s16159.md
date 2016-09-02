@@ -17,7 +17,7 @@
 
     [Section 13293 of this title][/us/usc/t42/s13293] shall apply to any project carried out through a grant, cooperative agreement, or contract under this subchapter.
 
-([Pub. L. 109–58, title VIII, § 810][/us/pl/109/58/s810], Aug. 8, 2005, [119 Stat. 852][/us/stat/119/852].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 810, Aug. 8, 2005, [119 Stat. 852][/us/stat/119/852].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s13293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13293
-[/us/pl/109/58/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs810
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F852
 
 

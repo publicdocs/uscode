@@ -27,7 +27,7 @@
 
     (5) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1217, as added [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2924][/us/stat/104/2924].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1217, as added [Pub. L. 101–590][/us/pl/101/590], § 3, Nov. 16, 1990, [104 Stat. 2924][/us/stat/104/2924].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s300d–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9311%2Fa
 [/us/usc/t42/s300d–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9314
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs3
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2924
 
 

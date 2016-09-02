@@ -17,7 +17,7 @@
 
     The Director of the Institute shall develop and support centers for conducting research with respect to child health. Such centers shall give priority to the expeditious transfer of advances from basic science to clinical applications and improving the care of infants and children.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452C, as added [Pub. L. 103–43, title X, § 1021][/us/pl/103/43/s1021], June 10, 1993, [107 Stat. 167][/us/stat/107/167].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452C, as added [Pub. L. 103–43, title X][/us/pl/103/43/tX], § 1021, June 10, 1993, [107 Stat. 167][/us/stat/107/167].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1021
+[/us/pl/103/43/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtX
 [/us/stat/107/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F167
 
 

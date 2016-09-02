@@ -17,7 +17,7 @@
 
     The Administrator is authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding the provisions of [section 1342 of title 31][/us/usc/t31/s1342].
 
-([Pub. L. 93–415, title II, § 203][/us/pl/93/415/s203], Sept. 7, 1974, [88 Stat. 1113][/us/stat/88/1113].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 203, Sept. 7, 1974, [88 Stat. 1113][/us/stat/88/1113].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    “[Section 1342 of title 31][/us/usc/t31/s1342]” substituted in text for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “[Section 1342 of title 31][/us/usc/t31/s1342]” substituted in text for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -35,14 +35,14 @@
 ----------
 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/93/415/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs203
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1113
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

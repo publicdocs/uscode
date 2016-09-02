@@ -359,7 +359,7 @@
 
             The medical treatment protocols developed under paragraph (1) shall be subject to approval by the WTC Program Administrator.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3312, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3639][/us/stat/124/3639]; amended [Pub. L. 114–113, div. O, title III, § 302(e)][/us/pl/114/113/s302/e], Dec. 18, 2015, [129 Stat. 2999][/us/stat/129/2999].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3312, as added [Pub. L. 111–347, title I][/us/pl/111/347/tI], § 101, Jan. 2, 2011, [124 Stat. 3639][/us/stat/124/3639]; amended [Pub. L. 114–113, div. O, title III][/us/pl/114/113/dO/tIII], § 302(e), Dec. 18, 2015, [129 Stat. 2999][/us/stat/129/2999].)
 
  __References in Text__ 
 
@@ -367,11 +367,11 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(6)(B). [Pub. L. 114–113, § 302(e)(1)(A)][/us/pl/114/113/s302/e/1/A], substituted “90 days” for “60 days” in introductory provisions.
+    2015—Subsec. (a)(6)(B). [Pub. L. 114–113][/us/pl/114/113], § 302(e)(1)(A), substituted “90 days” for “60 days” in introductory provisions.
 
-    Subsec. (a)(6)(C). [Pub. L. 114–113, § 302(e)(1)(B)][/us/pl/114/113/s302/e/1/B], substituted “90 days” for “60 days” in two places.
+    Subsec. (a)(6)(C). [Pub. L. 114–113][/us/pl/114/113], § 302(e)(1)(B), substituted “90 days” for “60 days” in two places.
 
-    Subsec. (a)(6)(F), (G). [Pub. L. 114–113, § 302(e)(2)][/us/pl/114/113/s302/e/2], added subpars. (F) and (G).
+    Subsec. (a)(6)(F), (G). [Pub. L. 114–113][/us/pl/114/113], § 302(e)(2), added subpars. (F) and (G).
 
 ----------
 
@@ -388,16 +388,16 @@
 [/us/usc/t42/s7384t/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384t%2Fc
 [/us/usc/t42/s300mm–4/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%934%2Fb%2F1%2FB%2Fiii
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
+[/us/pl/111/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtI
 [/us/stat/124/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3639
-[/us/pl/114/113/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe
+[/us/pl/114/113/dO/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIII
 [/us/stat/129/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2999
 [/us/act/1916-09-07/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch458
 [/us/stat/39/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F742
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/114/113/s302/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe%2F1%2FA
-[/us/pl/114/113/s302/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe%2F1%2FB
-[/us/pl/114/113/s302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe%2F2
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

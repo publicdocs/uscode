@@ -35,7 +35,7 @@
 
     (9) reduce the costs that prison rape imposes on interstate commerce.
 
-([Pub. L. 108–79, § 3][/us/pl/108/79/s3], Sept. 4, 2003, [117 Stat. 974][/us/stat/117/974].)
+([Pub. L. 108–79][/us/pl/108/79], § 3, Sept. 4, 2003, [117 Stat. 974][/us/stat/117/974].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/108/79/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs3
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F974
 
 

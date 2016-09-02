@@ -27,7 +27,7 @@
 
     (5) The development of models and standards for the publication by States, insurance carriers, prepaid health plans, and others of information for use by the public respecting health insurance policies and prepaid health plans, including information on the benefits provided by the various types of such policies and plans, the premium charges for such policies and plans, exclusions from coverage or eligibility for coverage, cost sharing requirements, and the ratio of the amounts paid as benefits to the amounts received as premiums and information to enable the public to make relevant comparisons of the costs and benefits of such policies and plans.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1704, as added [Pub. L. 94–317, title I, § 102][/us/pl/94/317/s102], June 23, 1976, [90 Stat. 698][/us/stat/90/698]; amended [Pub. L. 98–551, § 2(b)][/us/pl/98/551/s2/b], Oct. 30, 1984, [98 Stat. 2816][/us/stat/98/2816].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1704, as added [Pub. L. 94–317, title I][/us/pl/94/317/tI], § 102, June 23, 1976, [90 Stat. 698][/us/stat/90/698]; amended [Pub. L. 98–551][/us/pl/98/551], § 2(b), Oct. 30, 1984, [98 Stat. 2816][/us/stat/98/2816].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/317/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs102
+[/us/pl/94/317/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtI
 [/us/stat/90/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F698
-[/us/pl/98/551/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551%2Fs2%2Fb
+[/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/stat/98/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2816
 [/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 

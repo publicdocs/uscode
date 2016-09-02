@@ -47,7 +47,7 @@
 
         Notwithstanding any other provision of law, the contribution and benefit base determined under this section for any calendar year after 1976 for purposes of [section 1322(b)(3)(B) of title 29][/us/usc/t29/s1322/b/3/B], with respect to any plan, shall be the contribution and benefit base that would have been determined for such year if this section as in effect immediately prior to the enactment of the Social Security Amendments of 1977 had remained in effect without change (except that, for purposes of subsection (b) of such [section 430 of this title][/us/usc/t42/s430] as so in effect, the reference to the contribution and benefit base in paragraph (1) of such subsection (b) shall be deemed a reference to an amount equal to $45,000, each reference in paragraph (2) of such subsection (b) to the average of the wages of all employees as reported to the Secretary of the Treasury shall be deemed a reference to the national average wage index (as defined in [section 409(k)(1) of this title][/us/usc/t42/s409/k/1]), the reference to a preceding calendar year in paragraph (2)(A) of such subsection (b) shall be deemed a reference to the calendar year before the calendar year in which the determination under subsection (a) of such [section 430 of this title][/us/usc/t42/s430] is made, and the reference to a calendar year in paragraph (2)(B) of such subsection (b) shall be deemed a reference to 1992).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 230, as added [Pub. L. 92–336, title II, § 202(b)(1)][/us/pl/92/336/s202/b/1], July 1, 1972, [86 Stat. 416][/us/stat/86/416]; amended [Pub. L. 92–603, title I, § 144(a)(4)][/us/pl/92/603/s144/a/4], Oct. 30, 1972, [86 Stat. 1370][/us/stat/86/1370]; [Pub. L. 93–66, title II, § 203(c)][/us/pl/93/66/s203/c], July 9, 1973, [87 Stat. 153][/us/stat/87/153]; [Pub. L. 93–233][/us/pl/93/233], §§ 3(j), 5(c), Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], 954; [Pub. L. 94–202, § 8(h)][/us/pl/94/202/s8/h], Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139]; [Pub. L. 95–216, title I, § 103(a)][/us/pl/95/216/s103/a]–(c)(1), title III, § 353(e), Dec. 20, 1977, [91 Stat. 1513][/us/stat/91/1513], 1514, 1554; [Pub. L. 97–34, title VII, § 741(d)(1)][/us/pl/97/34/s741/d/1], Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–21, title I, § 111(a)(5)][/us/pl/98/21/s111/a/5], Apr. 20, 1983, [97 Stat. 72][/us/stat/97/72]; [Pub. L. 98–76, title II][/us/pl/98/76], §§ 211(d), 225(a)(4), Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 425; [Pub. L. 98–369, div. B, title VI, § 2663(a)(18)][/us/pl/98/369/s2663/a/18], July 18, 1984, [98 Stat. 1165][/us/stat/98/1165]; [Pub. L. 101–239, title X, § 10208(b)(1)(A)][/us/pl/101/239/s10208/b/1/A], (B), (5), (d)(2)(A)(i), Dec. 19, 1989, [103 Stat. 2477][/us/stat/103/2477], 2478, 2480; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(b)(2), (c)(6)(K), (g)(1)(A), (B), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1537, 1538, 1542.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 230, as added [Pub. L. 92–336, title II][/us/pl/92/336/tII], § 202(b)(1), July 1, 1972, [86 Stat. 416][/us/stat/86/416]; amended [Pub. L. 92–603, title I][/us/pl/92/603/tI], § 144(a)(4), Oct. 30, 1972, [86 Stat. 1370][/us/stat/86/1370]; [Pub. L. 93–66, title II][/us/pl/93/66/tII], § 203(c), July 9, 1973, [87 Stat. 153][/us/stat/87/153]; [Pub. L. 93–233][/us/pl/93/233], §§ 3(j), 5(c), Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], 954; [Pub. L. 94–202][/us/pl/94/202], § 8(h), Jan. 2, 1976, [89 Stat. 1139][/us/stat/89/1139]; [Pub. L. 95–216, title I][/us/pl/95/216/tI], § 103(a)–(c)(1), title III, § 353(e), Dec. 20, 1977, [91 Stat. 1513][/us/stat/91/1513], 1514, 1554; [Pub. L. 97–34, title VII][/us/pl/97/34/tVII], § 741(d)(1), Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 111(a)(5), Apr. 20, 1983, [97 Stat. 72][/us/stat/97/72]; [Pub. L. 98–76, title II][/us/pl/98/76/tII], §§ 211(d), 225(a)(4), Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 425; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(a)(18), July 18, 1984, [98 Stat. 1165][/us/stat/98/1165]; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10208(b)(1)(A), (B), (5), (d)(2)(A)(i), Dec. 19, 1989, [103 Stat. 2477][/us/stat/103/2477], 2478, 2480; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), title III, § 321(b)(2), (c)(6)(K), (g)(1)(A), (B), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1537, 1538, 1542.)
 
  __References in Text__ 
 
@@ -59,55 +59,55 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner shall” for “he shall”.
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner shall” for “he shall”.
 
-    Subsec. (b)(1), (2). [Pub. L. 103–296, § 321(g)(1)(A)][/us/pl/103/296/s321/g/1/A], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (b)(1), (2). [Pub. L. 103–296][/us/pl/103/296], § 321(g)(1)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) the contribution and benefit base which is in effect with respect to remuneration paid in (and taxable years beginning in) the calendar year in which the determination under subsection (a) of this section is made, and
 
     “(2) the ratio of (A) the deemed average total wages (as defined in [section 409(k)(1) of this title][/us/usc/t42/s409/k/1]) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) for the calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,”.
 
-    Subsec. (b)(2)(A), (B). [Pub. L. 103–296, § 321(b)(2)][/us/pl/103/296/s321/b/2], made technical correction to directory language of [Pub. L. 101–239, § 10208(b)(1)][/us/pl/101/239/s10208/b/1]. See 1989 Amendment note below.
+    Subsec. (b)(2)(A), (B). [Pub. L. 103–296][/us/pl/103/296], § 321(b)(2), made technical correction to directory language of [Pub. L. 101–239][/us/pl/101/239], § 10208(b)(1). See 1989 Amendment note below.
 
-    Subsec. (c). [Pub. L. 103–296, § 321(c)(6)(K)][/us/pl/103/296/s321/c/6/K], substituted “1986” for “1954” after “Code of”.
+    Subsec. (c). [Pub. L. 103–296][/us/pl/103/296], § 321(c)(6)(K), substituted “1986” for “1954” after “Code of”.
 
-    Subsec. (d). [Pub. L. 103–296, § 321(g)(1)(B)][/us/pl/103/296/s321/g/1/B], at end substituted parenthetical provisions beginning with “(except that” and ending with “reference to 1992).” for former parenthetical provisions which read as follows: “(except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of [section 409(k)(1) of this title][/us/usc/t42/s409/k/1]) for such calendar year).”
+    Subsec. (d). [Pub. L. 103–296][/us/pl/103/296], § 321(g)(1)(B), at end substituted parenthetical provisions beginning with “(except that” and ending with “reference to 1992).” for former parenthetical provisions which read as follows: “(except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of [section 409(k)(1) of this title][/us/usc/t42/s409/k/1]) for such calendar year).”
 
-    1989—Subsec. (b)(2)(A). [Pub. L. 101–239, § 10208(b)(1)(A)][/us/pl/101/239/s10208/b/1/A], as amended by [Pub. L. 103–296, § 321(b)(2)][/us/pl/103/296/s321/b/2], substituted “the deemed average total wages (as defined in [section 409(k)(1) of this title][/us/usc/t42/s409/k/1])” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1]) reported to the Secretary of the Treasury or his delegate”.
+    1989—Subsec. (b)(2)(A). [Pub. L. 101–239][/us/pl/101/239], § 10208(b)(1)(A), as amended by [Pub. L. 103–296][/us/pl/103/296], § 321(b)(2), substituted “the deemed average total wages (as defined in [section 409(k)(1) of this title][/us/usc/t42/s409/k/1])” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1]) reported to the Secretary of the Treasury or his delegate”.
 
-    [Pub. L. 101–239, § 10208(d)(2)(A)(i)][/us/pl/101/239/s10208/d/2/A/i], substituted “409(a)(1)” for “409(a)”.
+    [Pub. L. 101–239][/us/pl/101/239], § 10208(d)(2)(A)(i), substituted “409(a)(1)” for “409(a)”.
 
-    Subsec. (b)(2)(B). [Pub. L. 101–239, § 10208(b)(1)(B)][/us/pl/101/239/s10208/b/1/B], as amended by [Pub. L. 103–296, § 321(b)(2)][/us/pl/103/296/s321/b/2], substituted “the deemed average total wages (as so defined)” for “the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate”.
+    Subsec. (b)(2)(B). [Pub. L. 101–239][/us/pl/101/239], § 10208(b)(1)(B), as amended by [Pub. L. 103–296][/us/pl/103/296], § 321(b)(2), substituted “the deemed average total wages (as so defined)” for “the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate”.
 
-    Subsec. (d). [Pub. L. 101–239, § 10208(b)(5)][/us/pl/101/239/s10208/b/5], substituted “change (except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of [section 409(k)(1) of this title][/us/usc/t42/s409/k/1]) for such calendar year)” for “change”.
+    Subsec. (d). [Pub. L. 101–239][/us/pl/101/239], § 10208(b)(5), substituted “change (except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of [section 409(k)(1) of this title][/us/usc/t42/s409/k/1]) for such calendar year)” for “change”.
 
     1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], in last sentence which was repealed by [Pub. L. 98–76][/us/pl/98/76], substituted “3(a) or 3(f)(3)” for “3(a) or (3)(f)(3)” in the original, which had been translated as “section 231b(a) or (f)(3) of title 45”.
 
     1983—Subsec. (a). [Pub. L. 98–21][/us/pl/98/21] substituted “December” for “June”.
 
-    Subsec. (c). [Pub. L. 98–76, § 225(a)(4)][/us/pl/98/76/s225/a/4], struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under [section 231b(j) of title 45][/us/usc/t45/s231b/j], except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
+    Subsec. (c). [Pub. L. 98–76][/us/pl/98/76], § 225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under [section 231b(j) of title 45][/us/usc/t45/s231b/j], except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
 
-    [Pub. L. 98–76, § 211(d)][/us/pl/98/76/s211/d], temporarily substituted “12.75 percent” for “11.75 percent”. See Effective and Termination Dates of 1983 Amendments note below.
+    [Pub. L. 98–76][/us/pl/98/76], § 211(d), temporarily substituted “12.75 percent” for “11.75 percent”. See Effective and Termination Dates of 1983 Amendments note below.
 
     1981—Subsec. (c). [Pub. L. 97–34][/us/pl/97/34] substituted in last sentence “employee and employer” for “employer”, “sections 3201(a) and 3221(a)” for “section 3221(a)”, and “11.75” for “9.5”.
 
-    1977—Subsec. (a). [Pub. L. 95–216, § 103(a)(1)][/us/pl/95/216/s103/a/1], substituted “determined under subsection (b) or (c) of this section” for “determined under subsection (b) of this section”.
+    1977—Subsec. (a). [Pub. L. 95–216][/us/pl/95/216], § 103(a)(1), substituted “determined under subsection (b) or (c) of this section” for “determined under subsection (b) of this section”.
 
-    Subsec. (b). [Pub. L. 95–216, § 103(a)(2)][/us/pl/95/216/s103/a/2], in provisions preceding par. (1), substituted “shall (subject to subsection (c) of this section) be the amount” for “shall be the amount”.
+    Subsec. (b). [Pub. L. 95–216][/us/pl/95/216], § 103(a)(2), in provisions preceding par. (1), substituted “shall (subject to subsection (c) of this section) be the amount” for “shall be the amount”.
 
-    Subsec. (b)(1). [Pub. L. 95–216, § 353(e)(2)][/us/pl/95/216/s353/e/2], substituted “determination under subsection (a) of this section is made” for “determination under subsection (a) of this section with respect to such particular calendar year was made”.
+    Subsec. (b)(1). [Pub. L. 95–216][/us/pl/95/216], § 353(e)(2), substituted “determination under subsection (a) of this section is made” for “determination under subsection (a) of this section with respect to such particular calendar year was made”.
 
-    Subsec. (b)(2). [Pub. L. 95–216, § 353(e)(3)][/us/pl/95/216/s353/e/3], substituted “(A) the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a) of this title][/us/usc/t42/s409/a]) reported to the Secretary of the Treasury or his delegate for the calendar year in which the determination under subsection (a) of this section is made to (B) the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate for the calendar year before” for “(A) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year in which the determination under subsection (a) of this section with respect to such particular calendar years was made to (B) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding”.
+    Subsec. (b)(2). [Pub. L. 95–216][/us/pl/95/216], § 353(e)(3), substituted “(A) the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a) of this title][/us/usc/t42/s409/a]) reported to the Secretary of the Treasury or his delegate for the calendar year in which the determination under subsection (a) of this section is made to (B) the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate for the calendar year before” for “(A) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year in which the determination under subsection (a) of this section with respect to such particular calendar years was made to (B) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding”.
 
-    Subsec. (b). [Pub. L. 95–216, § 353(e)(1)][/us/pl/95/216/s353/e/1], in provisions following par. (2), struck out directive that, for purposes of this subsection, the average of the wages for the calendar year 1978 (or any prior calendar year), in the case of determinations made under subsection (a) of this section prior to December 31, 1979, be deemed to be an amount equal to 400 per centum of the amount of the average of the taxable wages of all employees as reported to the Secretary for the first calendar quarter of such calendar year.
+    Subsec. (b). [Pub. L. 95–216][/us/pl/95/216], § 353(e)(1), in provisions following par. (2), struck out directive that, for purposes of this subsection, the average of the wages for the calendar year 1978 (or any prior calendar year), in the case of determinations made under subsection (a) of this section prior to December 31, 1979, be deemed to be an amount equal to 400 per centum of the amount of the average of the taxable wages of all employees as reported to the Secretary for the first calendar quarter of such calendar year.
 
-    Subsec. (c). [Pub. L. 95–216, § 103(b)][/us/pl/95/216/s103/b], designated existing provisions as introductory material and cl. (1) and added cl. (2) and closing material.
+    Subsec. (c). [Pub. L. 95–216][/us/pl/95/216], § 103(b), designated existing provisions as introductory material and cl. (1) and added cl. (2) and closing material.
 
-    Subsec. (d). [Pub. L. 95–216, § 103(c)(1)][/us/pl/95/216/s103/c/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–216][/us/pl/95/216], § 103(c)(1), added subsec. (d).
 
     1976—Subsec. (b). [Pub. L. 94–202][/us/pl/94/202] substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year” and “made to” for “made to the latest of” in cl. (A) of par. (2), substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973 or the first calendar quarter of” in cl. (B) of par. (2), and inserted, following par. (2), provision directing that the average wages for the calendar year 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that calendar year.
 
-    1973—Subsec. (a). [Pub. L. 93–233, § 3(j)(1)][/us/pl/93/233/s3/j/1], substituted “with the June” for “with the first month of the calendar year” and struck out “(along with the publication of such benefit increase as required by [section 415(i)(2)(D) of this title][/us/usc/t42/s415/i/2/D])” after “such quarter occurs” and “(unless such increase in benefits is prevented from becoming effective by [section 415(i)(2)(E) of this title][/us/usc/t42/s415/i/2/E])” after “shall be effective”, respectively.
+    1973—Subsec. (a). [Pub. L. 93–233][/us/pl/93/233], § 3(j)(1), substituted “with the June” for “with the first month of the calendar year” and struck out “(along with the publication of such benefit increase as required by [section 415(i)(2)(D) of this title][/us/usc/t42/s415/i/2/D])” after “such quarter occurs” and “(unless such increase in benefits is prevented from becoming effective by [section 415(i)(2)(E) of this title][/us/usc/t42/s415/i/2/E])” after “shall be effective”, respectively.
 
     Subsec. (c). [Pub. L. 93–233][/us/pl/93/233], §§ 3(j)(2), 5(c), substituted “the June” for “the first month” and “$13,200” for “$12,600”, respectively.
 
@@ -119,13 +119,13 @@
 
     Amendment by [section 107(a)(4) of Pub. L. 103–296][/us/pl/103/296/s107/a/4] effective Mar. 31, 1995, see [section 110(a) of Pub. L. 103–296][/us/pl/103/296/s110/a], set out as a note under [section 401 of this title][/us/usc/t42/s401].
 
-    [Pub. L. 103–296, title III, § 321(b)(2)][/us/pl/103/296/s321/b/2], Aug. 15, 1994, [108 Stat. 1537][/us/stat/108/1537], provided that the amendment made by that section is effective as if included in [section 10208(b)(1) of Pub. L. 101–239][/us/pl/101/239/s10208/b/1].
+    [Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 321(b)(2), Aug. 15, 1994, [108 Stat. 1537][/us/stat/108/1537], provided that the amendment made by that section is effective as if included in [section 10208(b)(1) of Pub. L. 101–239][/us/pl/101/239/s10208/b/1].
 
     Amendment by section 321(g)(1)(A), (B) of [Pub. L. 103–296][/us/pl/103/296] effective with respect to the determination of the contribution and benefit base for years after 1994, see [section 321(g)(3)(A) of Pub. L. 103–296][/us/pl/103/296/s321/g/3/A], set out as a note under [section 415 of this title][/us/usc/t42/s415].
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title X, § 10208(c)][/us/pl/101/239/s10208/c], Dec. 19, 1989, [103 Stat. 2478][/us/stat/103/2478], provided that:
+[Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10208(c), Dec. 19, 1989, [103 Stat. 2478][/us/stat/103/2478], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -181,7 +181,7 @@
 
     Amendment by section 103(a), (b) of [Pub. L. 95–216][/us/pl/95/216] applicable with respect to remunerations paid or received, and taxable years beginning after, 1977, see [section 104 of Pub. L. 95–216][/us/pl/95/216/s104], set out as a note under [section 1401 of Title 26][/us/usc/t26/s1401], Internal Revenue Code.
 
-[Pub. L. 95–216, title I, § 103(c)(2)][/us/pl/95/216/s103/c/2], Dec. 20, 1977, [91 Stat. 1514][/us/stat/91/1514], provided that: 
+[Pub. L. 95–216, title I][/us/pl/95/216/tI], § 103(c)(2), Dec. 20, 1977, [91 Stat. 1514][/us/stat/91/1514], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to plan terminations occurring after the date of the enactment of this Act \[Dec. 20, 1977\].”
 
@@ -292,66 +292,66 @@
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t42/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/336/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs202%2Fb%2F1
+[/us/pl/92/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2FtII
 [/us/stat/86/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F416
-[/us/pl/92/603/s144/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs144%2Fa%2F4
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1370
-[/us/pl/93/66/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs203%2Fc
+[/us/pl/93/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2FtII
 [/us/stat/87/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F153
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F952
-[/us/pl/94/202/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202%2Fs8%2Fh
+[/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
 [/us/stat/89/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1139
-[/us/pl/95/216/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs103%2Fa
+[/us/pl/95/216/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtI
 [/us/stat/91/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1513
-[/us/pl/97/34/s741/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs741%2Fd%2F1
+[/us/pl/97/34/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVII
 [/us/stat/95/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F347
-[/us/pl/98/21/s111/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs111%2Fa%2F5
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F72
-[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F419
-[/us/pl/98/369/s2663/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F18
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1165
-[/us/pl/101/239/s10208/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F1%2FA
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2477
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fg%2F1%2FA
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
-[/us/pl/103/296/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fb%2F2
-[/us/pl/101/239/s10208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F1
-[/us/pl/103/296/s321/c/6/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fc%2F6%2FK
-[/us/pl/103/296/s321/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fg%2F1%2FB
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
-[/us/pl/101/239/s10208/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F1%2FA
-[/us/pl/103/296/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fb%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t42/s409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa%2F1
-[/us/pl/101/239/s10208/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fd%2F2%2FA%2Fi
-[/us/pl/101/239/s10208/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F1%2FB
-[/us/pl/103/296/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fb%2F2
-[/us/pl/101/239/s10208/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F5
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
-[/us/pl/98/76/s225/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs225%2Fa%2F4
+[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
 [/us/usc/t45/s231b/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231b%2Fj
-[/us/pl/98/76/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs211%2Fd
+[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
-[/us/pl/95/216/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs103%2Fa%2F1
-[/us/pl/95/216/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs103%2Fa%2F2
-[/us/pl/95/216/s353/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs353%2Fe%2F2
-[/us/pl/95/216/s353/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs353%2Fe%2F3
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/usc/t42/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa
-[/us/pl/95/216/s353/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs353%2Fe%2F1
-[/us/pl/95/216/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs103%2Fb
-[/us/pl/95/216/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs103%2Fc%2F1
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
-[/us/pl/93/233/s3/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs3%2Fj%2F1
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/usc/t42/s415/i/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F2%2FD
 [/us/usc/t42/s415/i/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F2%2FE
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
@@ -360,13 +360,13 @@
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/103/296/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fb%2F2
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1537
 [/us/pl/101/239/s10208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F1
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s321/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fg%2F3%2FA
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
-[/us/pl/101/239/s10208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fc
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2478
 [/us/usc/t42/s430/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430%2Fb
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
@@ -392,7 +392,7 @@
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/pl/95/216/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs104
 [/us/usc/t26/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1401
-[/us/pl/95/216/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs103%2Fc%2F2
+[/us/pl/95/216/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtI
 [/us/stat/91/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1514
 [/us/pl/95/216/s353/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs353%2Fe
 [/us/pl/95/216/s353/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs353%2Fg

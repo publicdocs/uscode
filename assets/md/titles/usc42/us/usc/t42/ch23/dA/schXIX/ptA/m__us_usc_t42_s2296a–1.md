@@ -17,7 +17,7 @@
 
     Within 180 days of October 24, 1992, the Secretary shall issue regulations governing reimbursement under [section 2296a of this title][/us/usc/t42/s2296a]. An active uranium or thorium processing site owner shall apply for reimbursement hereunder by submitting a request for the amount of reimbursement, together with reasonable documentation in support thereof, to the Secretary. Any such request for reimbursement, supported by reasonable documentation, shall be approved by the Secretary and reimbursement therefor shall be made in a timely manner subject only to the limitations of [section 2296a of this title][/us/usc/t42/s2296a].
 
-([Pub. L. 102–486, title X, § 1002][/us/pl/102/486/s1002], Oct. 24, 1992, [106 Stat. 2947][/us/stat/106/2947].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1002, Oct. 24, 1992, [106 Stat. 2947][/us/stat/106/2947].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t42/s2296a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2296a
 [/us/usc/t42/s2296a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2296a
-[/us/pl/102/486/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1002
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2947
 
 

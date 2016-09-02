@@ -47,7 +47,7 @@
 
         Grantees who receive funds for a demonstration project for services under this subchapter shall charge fees for services pursuant to a fee schedule approved by the Secretary as a part of the application described in [section 300z–5 of this title][/us/usc/t42/s300z–5] which bases fees charged by the grantee on the income of the eligible person or the parents or legal guardians of the eligible person and takes into account the difficulty adolescents face in obtaining resources to pay for services. A grantee who receives funds for a demonstration project for services under this subchapter may not, in any case, discriminate with regard to the provision of services to any individual because of that individual’s inability to provide payment for such services, except that in determining the ability of an unemancipated minor to provide payment for services, the income of the family of an unemancipated minor shall be considered in determining the ability of such minor to make such payments unless the parents or guardians of the unemancipated minor refuse to make such payments.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2004, as added [Pub. L. 97–35, title IX, § 955(a)][/us/pl/97/35/s955/a], Aug. 13, 1981, [95 Stat. 583][/us/stat/95/583].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2004, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(a), Aug. 13, 1981, [95 Stat. 583][/us/stat/95/583].)
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t42/s300z–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300z%E2%80%935
 [/us/usc/t42/s300z–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300z%E2%80%935
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F583
 
 

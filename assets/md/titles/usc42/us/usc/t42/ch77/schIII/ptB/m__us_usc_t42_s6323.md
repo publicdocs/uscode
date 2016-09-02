@@ -71,7 +71,7 @@
 
         (3) such State has obtained funding from non-Federal sources, including but not limited to, oil overcharge funds, State or local government appropriations, or utility contributions (including rebates) equal to or greater than three times the amount provided by the Secretary under this subsection for deposit into such revolving fund.
 
-([Pub. L. 94–163, title III, § 363][/us/pl/94/163/s363], Dec. 22, 1975, [89 Stat. 934][/us/stat/89/934]; [Pub. L. 94–385, title IV, § 432(b)][/us/pl/94/385/s432/b], (c), Aug. 14, 1976, [90 Stat. 1162][/us/stat/90/1162]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440, § 3(b)][/us/pl/101/440/s3/b], Oct. 18, 1990, [104 Stat. 1007][/us/stat/104/1007]; [Pub. L. 102–486, title I, § 141(a)(1)][/us/pl/102/486/s141/a/1], Oct. 24, 1992, [106 Stat. 2840][/us/stat/106/2840].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 363, Dec. 22, 1975, [89 Stat. 934][/us/stat/89/934]; [Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 432(b), (c), Aug. 14, 1976, [90 Stat. 1162][/us/stat/90/1162]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440][/us/pl/101/440], § 3(b), Oct. 18, 1990, [104 Stat. 1007][/us/stat/104/1007]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 141(a)(1), Oct. 24, 1992, [106 Stat. 2840][/us/stat/106/2840].)
 
  __References in Text__ 
 
@@ -85,9 +85,9 @@
 
     1978—[Pub. L. 95–619][/us/pl/95/619] substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-    1976—Subsec. (b)(2). [Pub. L. 94–385, § 432(b)][/us/pl/94/385/s432/b], inserted provision requiring notice and opportunity to present views prior to disapproval of plans.
+    1976—Subsec. (b)(2). [Pub. L. 94–385][/us/pl/94/385], § 432(b), inserted provision requiring notice and opportunity to present views prior to disapproval of plans.
 
-    Subsec. (c). [Pub. L. 94–385, § 432(c)][/us/pl/94/385/s432/c], inserted references to plan, measures, or systems wherever appearing and required that examinations be at reasonable times and under reasonable conditions.
+    Subsec. (c). [Pub. L. 94–385][/us/pl/94/385], § 432(c), inserted references to plan, measures, or systems wherever appearing and required that examinations be at reasonable times and under reasonable conditions.
 
 ----------
 
@@ -97,15 +97,15 @@
 ----------
 
 [/us/usc/t42/s6322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6322
-[/us/pl/94/163/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs363
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F934
-[/us/pl/94/385/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs432%2Fb
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1162
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/101/440/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs3%2Fb
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1007
-[/us/pl/102/486/s141/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs141%2Fa%2F1
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2840
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
@@ -113,7 +113,7 @@
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/94/385/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs432%2Fb
-[/us/pl/94/385/s432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs432%2Fc
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 
 

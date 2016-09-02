@@ -17,7 +17,7 @@
 
     Subject to the provisions of this subchapter, no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any such entity.
 
-([Pub. L. 101–336, title II, § 202][/us/pl/101/336/s202], July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 202, July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/336/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs202
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F337
 
 

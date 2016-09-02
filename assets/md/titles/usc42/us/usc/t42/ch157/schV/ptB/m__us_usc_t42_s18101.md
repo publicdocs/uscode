@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch157/schV/ptB/m__us_usc_t42_ch157_schV_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch157/schVI/m__us_usc_t42_ch157_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18101)
 
-## § 18101. Repealed. [Pub. L. 112–10, div. B, title VIII, § 1858(a)][/us/pl/112/10/s1858/a], Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168]
+## § 18101. Repealed. [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(a), Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168]
 
-    Section, [Pub. L. 111–148, title X, § 10108(a)][/us/pl/111/148/s10108/a]–(e), Mar. 23, 2010, [124 Stat. 912][/us/stat/124/912], 913, related to free choice vouchers.
+    Section, [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10108(a)–(e), Mar. 23, 2010, [124 Stat. 912][/us/stat/124/912], 913, related to free choice vouchers.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/112/10/s1858/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fa
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F168
-[/us/pl/111/148/s10108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F912
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

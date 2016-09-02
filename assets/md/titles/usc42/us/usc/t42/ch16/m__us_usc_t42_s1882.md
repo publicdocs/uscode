@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this or any other Act, the Director of the National Science Foundation and the National Science Board shall keep the Committee on Labor and Human Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives fully and currently informed with respect to all of the activities of the National Science Foundation.
 
-([Pub. L. 96–44, § 9][/us/pl/96/44/s9], Aug. 2, 1979, [93 Stat. 335][/us/stat/93/335]; [Pub. L. 99–159, title I, § 109(i)][/us/pl/99/159/s109/i], Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 103–437, § 15(c)(2)][/us/pl/103/437/s15/c/2], Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591].)
+([Pub. L. 96–44][/us/pl/96/44], § 9, Aug. 2, 1979, [93 Stat. 335][/us/stat/93/335]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(i), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 103–437][/us/pl/103/437], § 15(c)(2), Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591].)
 
  __References in Text__ 
 
@@ -31,19 +31,19 @@
 
 Provisions similar to this section were contained in the following prior authorization acts:
 
-    [Pub. L. 95–434, § 7][/us/pl/95/434/s7], Oct. 10, 1978, [92 Stat. 1050][/us/stat/92/1050].
+    [Pub. L. 95–434][/us/pl/95/434], § 7, Oct. 10, 1978, [92 Stat. 1050][/us/stat/92/1050].
 
-    [Pub. L. 95–99, § 11][/us/pl/95/99/s11], formerly § 13, Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 11, [Pub. L. 99–159, title I, § 109(h)][/us/pl/99/159/s109/h], Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890].
+    [Pub. L. 95–99][/us/pl/95/99], § 11, formerly § 13, Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 11, [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(h), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890].
 
-    [Pub. L. 94–471, § 11][/us/pl/94/471/s11], Oct. 11, 1976, [90 Stat. 2058][/us/stat/90/2058].
+    [Pub. L. 94–471][/us/pl/94/471], § 11, Oct. 11, 1976, [90 Stat. 2058][/us/stat/90/2058].
 
-    [Pub. L. 94–86, § 11][/us/pl/94/86/s11], Aug. 9, 1975, [89 Stat. 431][/us/stat/89/431].
+    [Pub. L. 94–86][/us/pl/94/86], § 11, Aug. 9, 1975, [89 Stat. 431][/us/stat/89/431].
 
-    [Pub. L. 93–413, § 7][/us/pl/93/413/s7], Sept. 4, 1974, [88 Stat. 1095][/us/stat/88/1095].
+    [Pub. L. 93–413][/us/pl/93/413], § 7, Sept. 4, 1974, [88 Stat. 1095][/us/stat/88/1095].
 
-    [Pub. L. 93–96, § 9][/us/pl/93/96/s9], Aug. 16, 1973, [87 Stat. 317][/us/stat/87/317].
+    [Pub. L. 93–96][/us/pl/93/96], § 9, Aug. 16, 1973, [87 Stat. 317][/us/stat/87/317].
 
-    [Pub. L. 91–120, § 6][/us/pl/91/120/s6], Nov. 18, 1969, [83 Stat. 203][/us/stat/83/203].
+    [Pub. L. 91–120][/us/pl/91/120], § 6, Nov. 18, 1969, [83 Stat. 203][/us/stat/83/203].
 
  __Amendments__ 
 
@@ -62,28 +62,28 @@ Provisions similar to this section were contained in the following prior authori
 ----------
 ----------
 
-[/us/pl/96/44/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F44%2Fs9
+[/us/pl/96/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F44
 [/us/stat/93/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F335
-[/us/pl/99/159/s109/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fi
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
-[/us/pl/103/437/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fc%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4591
 [/us/pl/96/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F44
-[/us/pl/95/434/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F434%2Fs7
+[/us/pl/95/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F434
 [/us/stat/92/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1050
-[/us/pl/95/99/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99%2Fs11
+[/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/stat/91/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F835
-[/us/pl/99/159/s109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fh
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
-[/us/pl/94/471/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs11
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2058
-[/us/pl/94/86/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86%2Fs11
+[/us/pl/94/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86
 [/us/stat/89/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F431
-[/us/pl/93/413/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F413%2Fs7
+[/us/pl/93/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F413
 [/us/stat/88/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1095
-[/us/pl/93/96/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F96%2Fs9
+[/us/pl/93/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F96
 [/us/stat/87/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F317
-[/us/pl/91/120/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F120%2Fs6
+[/us/pl/91/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F120
 [/us/stat/83/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F203
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159

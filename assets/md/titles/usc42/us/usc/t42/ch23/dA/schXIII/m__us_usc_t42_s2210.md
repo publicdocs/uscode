@@ -405,11 +405,11 @@
 
         (3) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 170, as added [Pub. L. 85–256, § 4][/us/pl/85/256/s4], Sept. 2, 1957, [71 Stat. 576][/us/stat/71/576]; amended [Pub. L. 85–602][/us/pl/85/602], §§ 2, 2\[3\], Aug. 8, 1958, [72 Stat. 525][/us/stat/72/525]; [Pub. L. 85–744][/us/pl/85/744], Aug. 23, 1958, [72 Stat. 837][/us/stat/72/837]; [Pub. L. 87–206, § 15][/us/pl/87/206/s15], Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479]; [Pub. L. 87–615][/us/pl/87/615], §§ 6, 7, Aug. 29, 1962, [76 Stat. 410][/us/stat/76/410]; [Pub. L. 88–394][/us/pl/88/394], §§ 2, 3, Aug. 1, 1964, [78 Stat. 376][/us/stat/78/376]; [Pub. L. 89–210][/us/pl/89/210], §§ 1–5, Sept. 29, 1965, [79 Stat. 855–857][/us/stat/79/855-857]; [Pub. L. 89–645][/us/pl/89/645], §§ 2, 3, Oct. 13, 1966, [80 Stat. 891][/us/stat/80/891]; [Pub. L. 94–197][/us/pl/94/197], §§ 2–14, Dec. 31, 1975, [89 Stat. 1111–1115][/us/stat/89/1111-1115]; [Pub. L. 100–408][/us/pl/100/408], §§ 2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, [102 Stat. 1066–1068][/us/stat/102/1066-1068], 1070–1080; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 105–362, title XII, § 1201(b)][/us/pl/105/362/s1201/b], Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292]; [Pub. L. 107–314, div. C, title XXXI, § 3171][/us/pl/107/314/s3171], Dec. 2, 2002, [116 Stat. 2743][/us/stat/116/2743]; [Pub. L. 108–7, div. O, § 101][/us/pl/108/7/s101], Feb. 20, 2003, [117 Stat. 551][/us/stat/117/551]; [Pub. L. 108–375, div. C, title XXXI, § 3141][/us/pl/108/375/s3141], Oct. 28, 2004, [118 Stat. 2171][/us/stat/118/2171]; [Pub. L. 109–58, title VI][/us/pl/109/58], §§ 602–608, Aug. 8, 2005, [119 Stat. 779–781][/us/stat/119/779-781]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 170, as added [Pub. L. 85–256][/us/pl/85/256], § 4, Sept. 2, 1957, [71 Stat. 576][/us/stat/71/576]; amended [Pub. L. 85–602][/us/pl/85/602], §§ 2, 2\[3\], Aug. 8, 1958, [72 Stat. 525][/us/stat/72/525]; [Pub. L. 85–744][/us/pl/85/744], Aug. 23, 1958, [72 Stat. 837][/us/stat/72/837]; [Pub. L. 87–206][/us/pl/87/206], § 15, Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479]; [Pub. L. 87–615][/us/pl/87/615], §§ 6, 7, Aug. 29, 1962, [76 Stat. 410][/us/stat/76/410]; [Pub. L. 88–394][/us/pl/88/394], §§ 2, 3, Aug. 1, 1964, [78 Stat. 376][/us/stat/78/376]; [Pub. L. 89–210][/us/pl/89/210], §§ 1–5, Sept. 29, 1965, [79 Stat. 855–857][/us/stat/79/855-857]; [Pub. L. 89–645][/us/pl/89/645], §§ 2, 3, Oct. 13, 1966, [80 Stat. 891][/us/stat/80/891]; [Pub. L. 94–197][/us/pl/94/197], §§ 2–14, Dec. 31, 1975, [89 Stat. 1111–1115][/us/stat/89/1111-1115]; [Pub. L. 100–408][/us/pl/100/408], §§ 2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, [102 Stat. 1066–1068][/us/stat/102/1066-1068], 1070–1080; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 105–362, title XII][/us/pl/105/362/tXII], § 1201(b), Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292]; [Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3171, Dec. 2, 2002, [116 Stat. 2743][/us/stat/116/2743]; [Pub. L. 108–7, div. O][/us/pl/108/7/dO], § 101, Feb. 20, 2003, [117 Stat. 551][/us/stat/117/551]; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3141, Oct. 28, 2004, [118 Stat. 2171][/us/stat/118/2171]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], §§ 602–608, Aug. 8, 2005, [119 Stat. 779–781][/us/stat/119/779-781]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (b)(1) and (h), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (b)(1) and (h), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     [Public Law 85–804][/us/pl/85/804], referred to in subsec. (d)(1)(B)(i)(I), is [Pub. L. 85–804][/us/pl/85/804], Aug. 28, 1958, [72 Stat. 972][/us/stat/72/972], as amended, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
@@ -419,21 +419,21 @@
 
  __Codification__ 
 
-    In subsec. (g), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5]), as amended” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5]), as amended” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2005—Subsec. (b)(1). [Pub. L. 109–58, § 603(1)][/us/pl/109/58/s603/1], substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section)” for “$10,000,000 in any 1 year” in second proviso of third sentence.
+    2005—Subsec. (b)(1). [Pub. L. 109–58][/us/pl/109/58], § 603(1), substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section)” for “$10,000,000 in any 1 year” in second proviso of third sentence.
 
-    Subsec. (b)(5). [Pub. L. 109–58, § 608][/us/pl/109/58/s608], added par. (5).
+    Subsec. (b)(5). [Pub. L. 109–58][/us/pl/109/58], § 608, added par. (5).
 
-    Subsec. (c). [Pub. L. 109–58, § 602(a)][/us/pl/109/58/s602/a], substituted “licensees” for “licenses” in heading and substituted “December 31, 2025” for “December 31, 2003” in text wherever appearing.
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 602(a), substituted “licensees” for “licenses” in heading and substituted “December 31, 2025” for “December 31, 2003” in text wherever appearing.
 
-    Subsec. (d)(1)(A). [Pub. L. 109–58, § 602(b)][/us/pl/109/58/s602/b], substituted “December 31, 2025” for “December 31, 2006”.
+    Subsec. (d)(1)(A). [Pub. L. 109–58][/us/pl/109/58], § 602(b), substituted “December 31, 2025” for “December 31, 2006”.
 
-    Subsec. (d)(2). [Pub. L. 109–58, § 604(a)][/us/pl/109/58/s604/a], added par. (2) and struck out former par. (2) which read as follows: “In agreements of indemnification entered into under paragraph (1), the Secretary may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity, and shall indemnify the persons indemnified against such claims above the amount of the financial protection required, to the full extent of the aggregate public liability of the persons indemnified for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.”
+    Subsec. (d)(2). [Pub. L. 109–58][/us/pl/109/58], § 604(a), added par. (2) and struck out former par. (2) which read as follows: “In agreements of indemnification entered into under paragraph (1), the Secretary may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity, and shall indemnify the persons indemnified against such claims above the amount of the financial protection required, to the full extent of the aggregate public liability of the persons indemnified for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.”
 
-    Subsec. (d)(3). [Pub. L. 109–58, § 604(b)][/us/pl/109/58/s604/b], added par. (3) and struck out former par. (3) which read as follows:
+    Subsec. (d)(3). [Pub. L. 109–58][/us/pl/109/58], § 604(b), added par. (3) and struck out former par. (3) which read as follows:
 
     “(3)(A) Notwithstanding paragraph (2), if the maximum amount of financial protection required of licensees under subsection (b) of this section is increased by the Commission, the amount of indemnity, together with any financial protection required of the contractor, shall at all times remain equal to or greater than the maximum amount of financial protection required of licensees under subsection (b) of this section.
 
@@ -441,19 +441,19 @@
 
     “(C) All agreements of indemnification under which the Department of Energy (or its predecessor agencies) may be required to indemnify any person, shall be deemed to be amended, on August 20, 1988, to reflect the amount of indemnity for public liability and any applicable financial protection required of the contractor under this subsection on August 20, 1988.”
 
-    Subsec. (d)(5). [Pub. L. 109–58, § 605(a)][/us/pl/109/58/s605/a], substituted “$500,000,000” for “$100,000,000”.
+    Subsec. (d)(5). [Pub. L. 109–58][/us/pl/109/58], § 605(a), substituted “$500,000,000” for “$100,000,000”.
 
-    Subsec. (e)(1)(B). [Pub. L. 109–58, § 604(c)][/us/pl/109/58/s604/c], struck out “the maximum amount of financial protection required under subsection (b) of this section or” before “the amount of indemnity” and substituted “paragraph (2) of subsection (d) of this section” for “paragraph (3) of subsection (d) of this section, whichever amount is more”.
+    Subsec. (e)(1)(B). [Pub. L. 109–58][/us/pl/109/58], § 604(c), struck out “the maximum amount of financial protection required under subsection (b) of this section or” before “the amount of indemnity” and substituted “paragraph (2) of subsection (d) of this section” for “paragraph (3) of subsection (d) of this section, whichever amount is more”.
 
-    Subsec. (e)(4). [Pub. L. 109–58, § 605(b)][/us/pl/109/58/s605/b], substituted “$500,000,000” for “$100,000,000”.
+    Subsec. (e)(4). [Pub. L. 109–58][/us/pl/109/58], § 605(b), substituted “$500,000,000” for “$100,000,000”.
 
-    Subsec. (k). [Pub. L. 109–58, § 602(c)][/us/pl/109/58/s602/c], substituted “December 31, 2025” for “August 1, 2002” wherever appearing.
+    Subsec. (k). [Pub. L. 109–58][/us/pl/109/58], § 602(c), substituted “December 31, 2025” for “August 1, 2002” wherever appearing.
 
-    Subsec. (p). [Pub. L. 109–58, § 606][/us/pl/109/58/s606], substituted “December 31, 2021” for “August 1, 1998”.
+    Subsec. (p). [Pub. L. 109–58][/us/pl/109/58], § 606, substituted “December 31, 2021” for “August 1, 1998”.
 
-    Subsec. (t)(1). [Pub. L. 109–58, § 603(2)][/us/pl/109/58/s603/2], inserted “total and annual” before “standard deferred premium” in introductory provisions and substituted “August 20, 2003” for “August 20, 1988” in introductory provisions and subpar. (A).
+    Subsec. (t)(1). [Pub. L. 109–58][/us/pl/109/58], § 603(2), inserted “total and annual” before “standard deferred premium” in introductory provisions and substituted “August 20, 2003” for “August 20, 1988” in introductory provisions and subpar. (A).
 
-    Subsec. (t)(2), (3). [Pub. L. 109–58, § 607][/us/pl/109/58/s607], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (t)(2), (3). [Pub. L. 109–58][/us/pl/109/58], § 607, added par. (2) and redesignated former par. (2) as (3).
 
     2004—Subsec. (d)(1)(A). [Pub. L. 108–375][/us/pl/108/375] substituted “until December 31, 2006” for “until December 31, 2004”.
 
@@ -463,153 +463,153 @@
 
     1998—Subsec. (p). [Pub. L. 105–362][/us/pl/105/362] struck out par. (1) designation and struck out par. (2) which read as follows: “Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year.”
 
-    1988—Subsec. (a). [Pub. L. 100–408, § 16(e)(1)][/us/pl/100/408/s16/e/1], inserted “Requirement of financial protection for licensees” as heading.
+    1988—Subsec. (a). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(1), inserted “Requirement of financial protection for licensees” as heading.
 
-    [Pub. L. 100–408, § 16(d)(4)][/us/pl/100/408/s16/d/4], substituted “section 2i.” for “subsection 2i. of the Atomic Energy Act of 1954, as amended”, “subsection b.” for “subsection 170b.”, and “subsection c.” for “subsection 170c.”, which for purposes of codification were translated as “[section 2012(i) of this title][/us/usc/t42/s2012/i]”, “subsection (b) of this section”, and “subsection (c) of this section”, respectively, thus requiring no change in text.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(d)(4), substituted “section 2i.” for “subsection 2i. of the Atomic Energy Act of 1954, as amended”, “subsection b.” for “subsection 170b.”, and “subsection c.” for “subsection 170c.”, which for purposes of codification were translated as “[section 2012(i) of this title][/us/usc/t42/s2012/i]”, “subsection (b) of this section”, and “subsection (c) of this section”, respectively, thus requiring no change in text.
 
-    [Pub. L. 100–408, § 16(a)(2)][/us/pl/100/408/s16/a/2], substituted “the Nuclear Regulatory Commission (in this section referred to as the ‘Commission’) in the exercise” for “the Commission in the exercise”.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(a)(2), substituted “the Nuclear Regulatory Commission (in this section referred to as the ‘Commission’) in the exercise” for “the Commission in the exercise”.
 
-    Subsec. (b). [Pub. L. 100–408, § 16(e)(2)][/us/pl/100/408/s16/e/2], inserted “Amount and type of financial protection for licensees” as heading.
+    Subsec. (b). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(2), inserted “Amount and type of financial protection for licensees” as heading.
 
-    Subsec. (b)(1). [Pub. L. 100–408, § 2(a)][/us/pl/100/408/s2/a]–(c)(3), inserted par. (1) designation, inserted “primary” after “The amount of”, “the amount of”, “Such”, and “of such”, redesignated cls. (1) to (3) as (A) to (C), inserted “(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)”, substituted “The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection,” for “In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount”, substituted “That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection” for “That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection”, inserted “(excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection)”, and struck out “The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amounts less than the standard premium for individual facilities taking into account such factors as the facility’s size, location, and other factors pertaining to the hazard.”
+    Subsec. (b)(1). [Pub. L. 100–408][/us/pl/100/408], § 2(a)–(c)(3), inserted par. (1) designation, inserted “primary” after “The amount of”, “the amount of”, “Such”, and “of such”, redesignated cls. (1) to (3) as (A) to (C), inserted “(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)”, substituted “The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection,” for “In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount”, substituted “That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection” for “That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection”, inserted “(excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection)”, and struck out “The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amounts less than the standard premium for individual facilities taking into account such factors as the facility’s size, location, and other factors pertaining to the hazard.”
 
-    Subsec. (b)(2). [Pub. L. 100–408, § 2(c)(4)][/us/pl/100/408/s2/c/4], added par. (2).
+    Subsec. (b)(2). [Pub. L. 100–408][/us/pl/100/408], § 2(c)(4), added par. (2).
 
-    Subsec. (b)(3). [Pub. L. 100–408, § 2(d)(1)][/us/pl/100/408/s2/d/1], inserted par. (3) designation.
+    Subsec. (b)(3). [Pub. L. 100–408][/us/pl/100/408], § 2(d)(1), inserted par. (3) designation.
 
-    Subsec. (b)(4). [Pub. L. 100–408, § 2(d)(2)][/us/pl/100/408/s2/d/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 100–408][/us/pl/100/408], § 2(d)(2), added par. (4).
 
-    Subsec. (c). [Pub. L. 100–408, § 16(e)(3)][/us/pl/100/408/s16/e/3], inserted “Indemnification of licenses by Nuclear Regulatory Commission” as heading.
+    Subsec. (c). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(3), inserted “Indemnification of licenses by Nuclear Regulatory Commission” as heading.
 
-    [Pub. L. 100–408, § 3][/us/pl/100/408/s3], substituted “August 1, 2002” for “August 1, 1987” wherever appearing.
+    [Pub. L. 100–408][/us/pl/100/408], § 3, substituted “August 1, 2002” for “August 1, 1987” wherever appearing.
 
-    Subsec. (d). [Pub. L. 100–408, § 4(a)][/us/pl/100/408/s4/a], inserted “Indemnification of contractors by Department of Energy” as heading and completely revised and expanded subsec. (d), changing its structure from a single unnumbered subsection to one consisting of seven numbered paragraphs.
+    Subsec. (d). [Pub. L. 100–408][/us/pl/100/408], § 4(a), inserted “Indemnification of contractors by Department of Energy” as heading and completely revised and expanded subsec. (d), changing its structure from a single unnumbered subsection to one consisting of seven numbered paragraphs.
 
-    Subsec. (e). [Pub. L. 100–408, § 6][/us/pl/100/408/s6], inserted “Limitation on aggregate public liability” as heading and completely revised and expanded subsec. (e), changing its structure from a single unnumbered subsection to one consisting of four numbered paragraphs.
+    Subsec. (e). [Pub. L. 100–408][/us/pl/100/408], § 6, inserted “Limitation on aggregate public liability” as heading and completely revised and expanded subsec. (e), changing its structure from a single unnumbered subsection to one consisting of four numbered paragraphs.
 
-    Subsec. (f). [Pub. L. 100–408, § 16(e)(4)][/us/pl/100/408/s16/e/4], inserted “Collection of fees by Nuclear Regulatory Commission” as heading.
+    Subsec. (f). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(4), inserted “Collection of fees by Nuclear Regulatory Commission” as heading.
 
-    [Pub. L. 100–408, § 16(b)(3)][/us/pl/100/408/s16/b/3], inserted “or the Secretary, as appropriate,” in two places.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(b)(3), inserted “or the Secretary, as appropriate,” in two places.
 
-    Subsec. (g). [Pub. L. 100–408, § 16(e)(5)][/us/pl/100/408/s16/e/5], inserted “Use of services of private insurers” as heading.
+    Subsec. (g). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(5), inserted “Use of services of private insurers” as heading.
 
-    [Pub. L. 100–408, § 16(c)(1)][/us/pl/100/408/s16/c/1], substituted “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” for “section 3709 of the Revised Statutes”, which for purposes of codification was translated as “[section 5 of title 41][/us/usc/t41/s5]”, thus requiring no change in text.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(c)(1), substituted “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” for “section 3709 of the Revised Statutes”, which for purposes of codification was translated as “[section 5 of title 41][/us/usc/t41/s5]”, thus requiring no change in text.
 
-    [Pub. L. 100–408, § 16(b)(4)][/us/pl/100/408/s16/b/4], inserted “or the Secretary, as appropriate,” after “Commission”, wherever appearing.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(b)(4), inserted “or the Secretary, as appropriate,” after “Commission”, wherever appearing.
 
-    Subsec. (h). [Pub. L. 100–408, § 16(e)(6)][/us/pl/100/408/s16/e/6], inserted “Conditions of agreements of indemnification” as heading.
+    Subsec. (h). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(6), inserted “Conditions of agreements of indemnification” as heading.
 
-    [Pub. L. 100–408, § 16(b)(4)][/us/pl/100/408/s16/b/4], inserted “or the Secretary, as appropriate,” after “Commission”, wherever appearing.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(b)(4), inserted “or the Secretary, as appropriate,” after “Commission”, wherever appearing.
 
-    Subsec. (i). [Pub. L. 100–408, § 7(a)][/us/pl/100/408/s7/a], inserted “Compensation plans” as heading and completely revised and expanded subsec. (i), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
+    Subsec. (i). [Pub. L. 100–408][/us/pl/100/408], § 7(a), inserted “Compensation plans” as heading and completely revised and expanded subsec. (i), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
 
-    Subsec. (j). [Pub. L. 100–408, § 16(e)(7)][/us/pl/100/408/s16/e/7], inserted “Contracts in advance of appropriations” as heading.
+    Subsec. (j). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(7), inserted “Contracts in advance of appropriations” as heading.
 
-    [Pub. L. 100–408, § 16(c)(2)][/us/pl/100/408/s16/c/2], substituted “sections 1341, 1342, 1349, 1350, and 1351, and subchapter II of chapter 15, of title 31” for “section 3679 of the Revised Statutes, as amended”.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(c)(2), substituted “sections 1341, 1342, 1349, 1350, and 1351, and subchapter II of chapter 15, of title 31” for “section 3679 of the Revised Statutes, as amended”.
 
-    [Pub. L. 100–408, § 16(b)(4)][/us/pl/100/408/s16/b/4], inserted “or the Secretary, as appropriate,”.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(b)(4), inserted “or the Secretary, as appropriate,”.
 
-    Subsec. (k). [Pub. L. 100–408, § 16(e)(8)][/us/pl/100/408/s16/e/8], inserted “Exemption from financial protection requirement for nonprofit educational institutions” as heading.
+    Subsec. (k). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(8), inserted “Exemption from financial protection requirement for nonprofit educational institutions” as heading.
 
-    [Pub. L. 100–408, § 16(d)(5)][/us/pl/100/408/s16/d/5], in introductory provisions substituted “subsection a” for “subsection 170a”, which for purposes of codification was translated as “subsection (a) of this section”, thus requiring no change in text.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(d)(5), in introductory provisions substituted “subsection a” for “subsection 170a”, which for purposes of codification was translated as “subsection (a) of this section”, thus requiring no change in text.
 
-    [Pub. L. 100–408, § 8(1)][/us/pl/100/408/s8/1], substituted “August 1, 2002” for “August 1, 1987”, wherever appearing in introductory and closing provisions.
+    [Pub. L. 100–408][/us/pl/100/408], § 8(1), substituted “August 1, 2002” for “August 1, 1987”, wherever appearing in introductory and closing provisions.
 
-    Subsec. (k)(1). [Pub. L. 100–408, § 8(2)][/us/pl/100/408/s8/2], substituted “including such legal costs of the licensee as are approved by the Commission” for “excluding cost of investigating and settling claims and defending suits for damage”.
+    Subsec. (k)(1). [Pub. L. 100–408][/us/pl/100/408], § 8(2), substituted “including such legal costs of the licensee as are approved by the Commission” for “excluding cost of investigating and settling claims and defending suits for damage”.
 
-    Subsec. (l). [Pub. L. 100–408, § 9][/us/pl/100/408/s9], inserted “Presidential commission on catastrophic nuclear accidents” as heading and completely revised and expanded subsec. (l), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
+    Subsec. (l). [Pub. L. 100–408][/us/pl/100/408], § 9, inserted “Presidential commission on catastrophic nuclear accidents” as heading and completely revised and expanded subsec. (l), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
 
-    Subsec. (m). [Pub. L. 100–408, § 16(e)(9)][/us/pl/100/408/s16/e/9], inserted “Coordinated procedures for prompt settlement of claims and emergency assistance” as heading.
+    Subsec. (m). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(9), inserted “Coordinated procedures for prompt settlement of claims and emergency assistance” as heading.
 
-    [Pub. L. 100–408, § 16(b)(4)][/us/pl/100/408/s16/b/4], inserted “or the Secretary, as appropriate,” after “Commission” wherever appearing.
+    [Pub. L. 100–408][/us/pl/100/408], § 16(b)(4), inserted “or the Secretary, as appropriate,” after “Commission” wherever appearing.
 
-    Subsec. (n). [Pub. L. 100–408, § 16(e)(10)][/us/pl/100/408/s16/e/10], inserted “Waiver of defenses and judicial procedures” as heading.
+    Subsec. (n). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(10), inserted “Waiver of defenses and judicial procedures” as heading.
 
     Subsec. (n)(1). [Pub. L. 100–408][/us/pl/100/408], §§ 10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
 
-    Subsec. (n)(2). [Pub. L. 100–408, § 16(b)(5)(B)][/us/pl/100/408/s16/b/5/B], inserted “or the Secretary, as appropriate” after “Commission”.
+    Subsec. (n)(2). [Pub. L. 100–408][/us/pl/100/408], § 16(b)(5)(B), inserted “or the Secretary, as appropriate” after “Commission”.
 
-    [Pub. L. 100–408, § 11(a)][/us/pl/100/408/s11/a], substituted “a nuclear incident” for “an extraordinary nuclear occurrence” in two places and “the nuclear incident” for “the extraordinary nuclear occurrence”, and inserted “(including any such action pending on August 20, 1988)”, and “In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in [section 1446 of title 28][/us/usc/t28/s1446] or within the 30-day period beginning on August 20, 1988, whichever occurs later.”
+    [Pub. L. 100–408][/us/pl/100/408], § 11(a), substituted “a nuclear incident” for “an extraordinary nuclear occurrence” in two places and “the nuclear incident” for “the extraordinary nuclear occurrence”, and inserted “(including any such action pending on August 20, 1988)”, and “In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in [section 1446 of title 28][/us/usc/t28/s1446] or within the 30-day period beginning on August 20, 1988, whichever occurs later.”
 
-    Subsec. (n)(3). [Pub. L. 100–408, § 11(c)][/us/pl/100/408/s11/c], added par. (3).
+    Subsec. (n)(3). [Pub. L. 100–408][/us/pl/100/408], § 11(c), added par. (3).
 
-    Subsec. (o). [Pub. L. 100–408, § 11(d)(1)][/us/pl/100/408/s11/d/1], inserted “Plan for distribution of funds” as heading, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added subpars. (D) and (E) and par. (2).
+    Subsec. (o). [Pub. L. 100–408][/us/pl/100/408], § 11(d)(1), inserted “Plan for distribution of funds” as heading, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added subpars. (D) and (E) and par. (2).
 
-    Subsec. (o)(1). [Pub. L. 100–408, § 7(b)(1)][/us/pl/100/408/s7/b/1], substituted “the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section” for “subsection (e) of this section” in introductory provisions.
+    Subsec. (o)(1). [Pub. L. 100–408][/us/pl/100/408], § 7(b)(1), substituted “the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section” for “subsection (e) of this section” in introductory provisions.
 
-    Subsec. (o)(1)(B). [Pub. L. 100–408, § 16(d)(7)][/us/pl/100/408/s16/d/7], substituted “subparagraph (C)” for “subparagraph (3) of this subsection (o)”.
+    Subsec. (o)(1)(B). [Pub. L. 100–408][/us/pl/100/408], § 16(d)(7), substituted “subparagraph (C)” for “subparagraph (3) of this subsection (o)”.
 
-    Subsec. (o)(1)(C). [Pub. L. 100–408, § 16(b)(6)][/us/pl/100/408/s16/b/6], inserted “or the Secretary, as appropriate,” after first reference to “Commission” and “or the Secretary as appropriate” after second reference to “Commission”.
+    Subsec. (o)(1)(C). [Pub. L. 100–408][/us/pl/100/408], § 16(b)(6), inserted “or the Secretary, as appropriate,” after first reference to “Commission” and “or the Secretary as appropriate” after second reference to “Commission”.
 
-    Subsec. (o)(4). [Pub. L. 100–408, § 7(b)(2)][/us/pl/100/408/s7/b/2], struck out par. (4) which read as follows: “The Commission shall, within ninety days after a court shall have made such determination, deliver to the Joint Committee a supplement to the report prepared in accordance with subsection (i) of this section setting forth the estimated requirements for full compensation and relief of all claimants, and recommendations as to the relief to be provided.”
+    Subsec. (o)(4). [Pub. L. 100–408][/us/pl/100/408], § 7(b)(2), struck out par. (4) which read as follows: “The Commission shall, within ninety days after a court shall have made such determination, deliver to the Joint Committee a supplement to the report prepared in accordance with subsection (i) of this section setting forth the estimated requirements for full compensation and relief of all claimants, and recommendations as to the relief to be provided.”
 
-    Subsec. (p). [Pub. L. 100–408, § 16(e)(11)][/us/pl/100/408/s16/e/11], inserted “Reports to Congress” as heading.
+    Subsec. (p). [Pub. L. 100–408][/us/pl/100/408], § 16(e)(11), inserted “Reports to Congress” as heading.
 
-    [Pub. L. 100–408, § 12][/us/pl/100/408/s12], designated existing provisions as par. (1), substituted “and the Secretary shall submit to the Congress by August 1, 1998, detailed reports” for “shall submit to the Congress by August 1, 1983, a detailed report”, and added par. (2).
+    [Pub. L. 100–408][/us/pl/100/408], § 12, designated existing provisions as par. (1), substituted “and the Secretary shall submit to the Congress by August 1, 1998, detailed reports” for “shall submit to the Congress by August 1, 1983, a detailed report”, and added par. (2).
 
-    Subsec. (q). [Pub. L. 100–408, § 5(c)][/us/pl/100/408/s5/c], added subsec. (q).
+    Subsec. (q). [Pub. L. 100–408][/us/pl/100/408], § 5(c), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 100–408, § 13][/us/pl/100/408/s13], added subsec. (r).
+    Subsec. (r). [Pub. L. 100–408][/us/pl/100/408], § 13, added subsec. (r).
 
-    Subsec. (s). [Pub. L. 100–408, § 14][/us/pl/100/408/s14], added subsec. (s).
+    Subsec. (s). [Pub. L. 100–408][/us/pl/100/408], § 14, added subsec. (s).
 
-    Subsec. (t). [Pub. L. 100–408, § 15][/us/pl/100/408/s15], added subsec. (t).
+    Subsec. (t). [Pub. L. 100–408][/us/pl/100/408], § 15, added subsec. (t).
 
-    1975—Subsec. (a). [Pub. L. 94–197, § 2][/us/pl/94/197/s2], inserted provision relating to the public purposes cited in [section 2012(i) of this title][/us/usc/t42/s2012/i] and “in the exercise of its licensing and regulatory authority and responsibility” after “as the Commission”, and substituted “required, it may” for “required, it shall”.
+    1975—Subsec. (a). [Pub. L. 94–197][/us/pl/94/197], § 2, inserted provision relating to the public purposes cited in [section 2012(i) of this title][/us/usc/t42/s2012/i] and “in the exercise of its licensing and regulatory authority and responsibility” after “as the Commission”, and substituted “required, it may” for “required, it shall”.
 
-    Subsec. (b). [Pub. L. 94–197, § 3][/us/pl/94/197/s3], inserted requirement that for facilities having a rated capacity of 100,000 electrical kilowatts or more, the amount of financial protection required shall be at a reasonable cost and on reasonable terms, and requirement that financial protection be subject to such terms and conditions as the Commission, by rule, regulation or order prescribes, and established premium and funding standards and procedures for prescribing terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources. Notwithstanding the directory language that amendment be made to section 107 b. of the Atomic Energy Act of 1954, as amended, the amendment was executed to section 170 b. of the Atomic Energy Act of 1954, as amended, (subsec. (b) of this section) as the probable intent of Congress.
+    Subsec. (b). [Pub. L. 94–197][/us/pl/94/197], § 3, inserted requirement that for facilities having a rated capacity of 100,000 electrical kilowatts or more, the amount of financial protection required shall be at a reasonable cost and on reasonable terms, and requirement that financial protection be subject to such terms and conditions as the Commission, by rule, regulation or order prescribes, and established premium and funding standards and procedures for prescribing terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources. Notwithstanding the directory language that amendment be made to section 107 b. of the Atomic Energy Act of 1954, as amended, the amendment was executed to section 170 b. of the Atomic Energy Act of 1954, as amended, (subsec. (b) of this section) as the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 94–197, § 4][/us/pl/94/197/s4], substituted “and August 1, 1987, for which it requires financial protection of less than $560,000,000,” for “and August 1, 1977, for which it requires financial protection,”, “excluding” for “including the reasonable”, and “August 1, 1987” for “August 1, 1977” in text relating to any production or utilization facility.
+    Subsec. (c). [Pub. L. 94–197][/us/pl/94/197], § 4, substituted “and August 1, 1987, for which it requires financial protection of less than $560,000,000,” for “and August 1, 1977, for which it requires financial protection,”, “excluding” for “including the reasonable”, and “August 1, 1987” for “August 1, 1977” in text relating to any production or utilization facility.
 
-    Subsec. (d). [Pub. L. 94–197, § 5][/us/pl/94/197/s5], substituted “until August 1, 1987,” for “until August 1, 1977,” and “excluding” for “including the reasonable”.
+    Subsec. (d). [Pub. L. 94–197][/us/pl/94/197], § 5, substituted “until August 1, 1987,” for “until August 1, 1977,” and “excluding” for “including the reasonable”.
 
-    Subsec. (e). [Pub. L. 94–197, § 6][/us/pl/94/197/s6], designated existing provisions as cl. (1), added cl. (2), substituted proviso relating to Congressional review and action for proviso relating to aggregate liability exceeding the sum of $560,000,000, and substituted “And provided further” for “Provided further”.
+    Subsec. (e). [Pub. L. 94–197][/us/pl/94/197], § 6, designated existing provisions as cl. (1), added cl. (2), substituted proviso relating to Congressional review and action for proviso relating to aggregate liability exceeding the sum of $560,000,000, and substituted “And provided further” for “Provided further”.
 
-    Subsec. (f). [Pub. L. 94–197, § 7][/us/pl/94/197/s7], inserted proviso which authorized Commission to reduce the indemnity fee for persons with whom indemnification agreements have been executed in reasonable relation to increases in financial protection above a level of $60,000,000.
+    Subsec. (f). [Pub. L. 94–197][/us/pl/94/197], § 7, inserted proviso which authorized Commission to reduce the indemnity fee for persons with whom indemnification agreements have been executed in reasonable relation to increases in financial protection above a level of $60,000,000.
 
-    Subsec. (h). [Pub. L. 94–197, § 8][/us/pl/94/197/s8], substituted “shall not include” for “may include reasonable”.
+    Subsec. (h). [Pub. L. 94–197][/us/pl/94/197], § 8, substituted “shall not include” for “may include reasonable”.
 
-    Subsec. (i). [Pub. L. 94–197, § 9][/us/pl/94/197/s9], inserted “or which will probably result in public liability claims in excess of $560,000,000,” after “this section”, and requirement that Commission report extent of damage caused from a nuclear incident to the Congressmen of the affected districts and the Senators of the affected state and substituted provision relating to information concerning the national defense, for provisions relating to applicability of prohibition of sections 2161 to 2166 of this title, other laws or Executive order.
+    Subsec. (i). [Pub. L. 94–197][/us/pl/94/197], § 9, inserted “or which will probably result in public liability claims in excess of $560,000,000,” after “this section”, and requirement that Commission report extent of damage caused from a nuclear incident to the Congressmen of the affected districts and the Senators of the affected state and substituted provision relating to information concerning the national defense, for provisions relating to applicability of prohibition of sections 2161 to 2166 of this title, other laws or Executive order.
 
-    Subsec. (k). [Pub. L. 94–197, § 10][/us/pl/94/197/s10], substituted “August 1, 1987” for “August 1, 1977” wherever appearing and substituted “excluding” for “including the reasonable” in par. (1).
+    Subsec. (k). [Pub. L. 94–197][/us/pl/94/197], § 10, substituted “August 1, 1987” for “August 1, 1977” wherever appearing and substituted “excluding” for “including the reasonable” in par. (1).
 
-    Subsec. (l). [Pub. L. 94–197, § 11][/us/pl/94/197/s11], substituted “excluding” for “including the reasonable”.
+    Subsec. (l). [Pub. L. 94–197][/us/pl/94/197], § 11, substituted “excluding” for “including the reasonable”.
 
-    Subsec. (n)(1)(iii). [Pub. L. 94–197, § 12][/us/pl/94/197/s12], substituted “twenty years” for “ten years”.
+    Subsec. (n)(1)(iii). [Pub. L. 94–197][/us/pl/94/197], § 12, substituted “twenty years” for “ten years”.
 
-    Subsec. (o)(3), (4). [Pub. L. 94–197, § 13][/us/pl/94/197/s13], in par. (3) inserted provisions authorizing the establishment, in any plan for disposition of claims, of priorities between classes of claims and claimants to extent necessary to ensure the most equitable allocation of available funds, and added par. (4).
+    Subsec. (o)(3), (4). [Pub. L. 94–197][/us/pl/94/197], § 13, in par. (3) inserted provisions authorizing the establishment, in any plan for disposition of claims, of priorities between classes of claims and claimants to extent necessary to ensure the most equitable allocation of available funds, and added par. (4).
 
-    Subsec. (p). [Pub. L. 94–197, § 14][/us/pl/94/197/s14], added subsec. (p).
+    Subsec. (p). [Pub. L. 94–197][/us/pl/94/197], § 14, added subsec. (p).
 
-    1966—Subsec. (e). [Pub. L. 89–645, § 2][/us/pl/89/645/s2], struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclear incidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (o) of this section.
+    1966—Subsec. (e). [Pub. L. 89–645][/us/pl/89/645], § 2, struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclear incidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (o) of this section.
 
-    Subsecs. (m) to (o). [Pub. L. 89–645, § 3][/us/pl/89/645/s3], added subsecs. (m) to (o).
+    Subsecs. (m) to (o). [Pub. L. 89–645][/us/pl/89/645], § 3, added subsecs. (m) to (o).
 
-    1965—Subsec. (c). [Pub. L. 89–210, § 1][/us/pl/89/210/s1], substituted “August 1, 1977” for “August 1, 1967” wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+    1965—Subsec. (c). [Pub. L. 89–210][/us/pl/89/210], § 1, substituted “August 1, 1977” for “August 1, 1967” wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
-    Subsec. (d). [Pub. L. 89–210, § 2][/us/pl/89/210/s2], substituted “August 1, 1977” for “August 1, 1967,” and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+    Subsec. (d). [Pub. L. 89–210][/us/pl/89/210], § 2, substituted “August 1, 1977” for “August 1, 1967,” and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
-    Subsec. (e). [Pub. L. 89–210, § 3][/us/pl/89/210/s3], inserted proviso prohibiting the aggregate liability to exceed the sum of $560,000,000.
+    Subsec. (e). [Pub. L. 89–210][/us/pl/89/210], § 3, inserted proviso prohibiting the aggregate liability to exceed the sum of $560,000,000.
 
-    Subsec. (k). [Pub. L. 89–210, § 4][/us/pl/89/210/s4], substituted “August 1, 1977” for “August 1, 1967” wherever appearing.
+    Subsec. (k). [Pub. L. 89–210][/us/pl/89/210], § 4, substituted “August 1, 1977” for “August 1, 1967” wherever appearing.
 
-    Subsec. (l). [Pub. L. 89–210, § 5][/us/pl/89/210/s5], substituted “August 1, 1977” for “August 1, 1967” and “in the amount of $500,000,000” for “in the maximum amount provided by subsection (e) of this section”, inserted “in the aggregate for all persons indemnified in connection with each nuclear incident”, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+    Subsec. (l). [Pub. L. 89–210][/us/pl/89/210], § 5, substituted “August 1, 1977” for “August 1, 1967” and “in the amount of $500,000,000” for “in the maximum amount provided by subsection (e) of this section”, inserted “in the aggregate for all persons indemnified in connection with each nuclear incident”, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
-    1964—Subsec. (c). [Pub. L. 88–394, § 2][/us/pl/88/394/s2], provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
+    1964—Subsec. (c). [Pub. L. 88–394][/us/pl/88/394], § 2, provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
 
-    Subsec. (k). [Pub. L. 88–394, § 3][/us/pl/88/394/s3], provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
+    Subsec. (k). [Pub. L. 88–394][/us/pl/88/394], § 3, provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
 
-    1962—Subsec. (d). [Pub. L. 87–615, § 6][/us/pl/87/615/s6], limited the amount of indemnity provided by the Commission for nuclear incidents occurring outside the United States to $100,000,000.
+    1962—Subsec. (d). [Pub. L. 87–615][/us/pl/87/615], § 6, limited the amount of indemnity provided by the Commission for nuclear incidents occurring outside the United States to $100,000,000.
 
-    Subsec. (e). [Pub. L. 87–615, § 7][/us/pl/87/615/s7], inserted proviso limiting the aggregate liability in cases of nuclear incidents occurring outside the United States to which an indemnification agreement entered into under subsec. (d) of this section is applicable, to $100,000,000, and substituted “occurring outside the United States, the Commission or any person indemnified may apply to the United States District Court for the District of Columbia” for “caused by ships of the United States outside of the United States, the Commission or any person indemnified may apply to the appropriate district court of the United States having venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship”.
+    Subsec. (e). [Pub. L. 87–615][/us/pl/87/615], § 7, inserted proviso limiting the aggregate liability in cases of nuclear incidents occurring outside the United States to which an indemnification agreement entered into under subsec. (d) of this section is applicable, to $100,000,000, and substituted “occurring outside the United States, the Commission or any person indemnified may apply to the United States District Court for the District of Columbia” for “caused by ships of the United States outside of the United States, the Commission or any person indemnified may apply to the appropriate district court of the United States having venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship”.
 
     1961—Subsec. (d). [Pub. L. 87–206][/us/pl/87/206] inserted provision for liability of contractor to extent of indemnification under this section free of defense of sovereign immunity.
 
-    1958—Subsec. (e). [Pub. L. 85–602, § 2][/us/pl/85/602/s2]\[3\], gave the district court that has venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship, jurisdiction in cases of nuclear incidents caused by ships of the United States outside of the United States.
+    1958—Subsec. (e). [Pub. L. 85–602][/us/pl/85/602], § 2\[3\], gave the district court that has venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship, jurisdiction in cases of nuclear incidents caused by ships of the United States outside of the United States.
 
     Subsec. (k). [Pub. L. 85–744][/us/pl/85/744] added subsec. (k).
 
-    Subsec. (l). [Pub. L. 85–602, § 2][/us/pl/85/602/s2], added subsec. (l).
+    Subsec. (l). [Pub. L. 85–602][/us/pl/85/602], § 2, added subsec. (l).
 
  __Change of Name__ 
 
@@ -617,7 +617,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title VI, § 609][/us/pl/109/58/s609], Aug. 8, 2005, [119 Stat. 781][/us/stat/119/781], provided that: 
+[Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 609, Aug. 8, 2005, [119 Stat. 781][/us/stat/119/781], provided that: 
 
 > “The amendments made by sections 603, 604, and 605 \[amending this section\] do not apply to a nuclear incident that occurs before the date of the enactment of this Act \[Aug. 8, 2005\].”
 
@@ -641,7 +641,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–245, § 2][/us/pl/106/245/s2], July 10, 2000, [114 Stat. 501][/us/stat/114/501], provided that: 
+[Pub. L. 106–245][/us/pl/106/245], § 2, July 10, 2000, [114 Stat. 501][/us/stat/114/501], provided that: 
 
 > “Congress finds that—
 
@@ -659,7 +659,7 @@
 
  __Affidavits__ 
 
-[Pub. L. 106–245, § 3(e)(2)][/us/pl/106/245/s3/e/2], July 10, 2000, [114 Stat. 507][/us/stat/114/507], provided that:
+[Pub. L. 106–245][/us/pl/106/245], § 3(e)(2), July 10, 2000, [114 Stat. 507][/us/stat/114/507], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -675,11 +675,11 @@
 
  __GAO Reports__ 
 
-    [Pub. L. 106–245, § 3(i)][/us/pl/106/245/s3/i], July 10, 2000, [114 Stat. 508][/us/stat/114/508], which required General Accounting Office, not later than 18 months after July 10, 2000, and every 18 months thereafter, to submit a report to Congress containing a detailed accounting of the administration of the Radiation Exposure Compensation Act ([Pub. L. 101–426][/us/pl/101/426], [42 U.S.C. 2210][/us/usc/t42/s2210] note) by the Department of Justice, was repealed by [Pub. L. 107–273, div. C, title I, § 11007(b)][/us/pl/107/273/s11007/b], Nov. 2, 2002, [116 Stat. 1818][/us/stat/116/1818]. See [section 14 of Pub. L. 101–426][/us/pl/101/426/s14], set out below.
+    [Pub. L. 106–245][/us/pl/106/245], § 3(i), July 10, 2000, [114 Stat. 508][/us/stat/114/508], which required General Accounting Office, not later than 18 months after July 10, 2000, and every 18 months thereafter, to submit a report to Congress containing a detailed accounting of the administration of the Radiation Exposure Compensation Act ([Pub. L. 101–426][/us/pl/101/426], [42 U.S.C. 2210][/us/usc/t42/s2210] note) by the Department of Justice, was repealed by [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11007(b), Nov. 2, 2002, [116 Stat. 1818][/us/stat/116/1818]. See [section 14 of Pub. L. 101–426][/us/pl/101/426/s14], set out below.
 
  __Radiation Exposure Compensation__ 
 
-[Pub. L. 101–426][/us/pl/101/426], Oct. 15, 1990, [104 Stat. 920][/us/stat/104/920], as amended by [Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510], §§ 3139, 3140, Nov. 5, 1990, [104 Stat. 1835][/us/stat/104/1835], 1837; [Pub. L. 102–486, title XXX, § 3018][/us/pl/102/486/s3018], Oct. 24, 1992, [106 Stat. 3131][/us/stat/106/3131]; [Pub. L. 106–245, § 3(a)][/us/pl/106/245/s3/a]–(e)(1), (f)–(h), July 10, 2000, [114 Stat. 502–508][/us/stat/114/502-508]; [Pub. L. 107–107, div. A, title X, § 1063][/us/pl/107/107/s1063], Dec. 28, 2001, [115 Stat. 1232][/us/stat/115/1232]; [Pub. L. 107–273, div. C, title I, § 11007(a)][/us/pl/107/273/s11007/a], Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–375, div. C, title XXXI, § 3165(b)][/us/pl/108/375/s3165/b], Oct. 28, 2004, [118 Stat. 2187][/us/stat/118/2187]; [Pub. L. 108–447, div. B, title I, § 122][/us/pl/108/447/s122], Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870]; [Pub. L. 110–161, div. H, title I, § 1502(g)][/us/pl/110/161/s1502/g], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
+[Pub. L. 101–426][/us/pl/101/426], Oct. 15, 1990, [104 Stat. 920][/us/stat/104/920], as amended by [Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], §§ 3139, 3140, Nov. 5, 1990, [104 Stat. 1835][/us/stat/104/1835], 1837; [Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3018, Oct. 24, 1992, [106 Stat. 3131][/us/stat/106/3131]; [Pub. L. 106–245][/us/pl/106/245], § 3(a)–(e)(1), (f)–(h), July 10, 2000, [114 Stat. 502–508][/us/stat/114/502-508]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1063, Dec. 28, 2001, [115 Stat. 1232][/us/stat/115/1232]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11007(a), Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3165(b), Oct. 28, 2004, [118 Stat. 2187][/us/stat/118/2187]; [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 122, Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1502(g), Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -1197,7 +1197,7 @@
 
  __Negotiated Rulemaking on Financial Protection for Radiopharmaceutical Licensees__ 
 
-[Pub. L. 100–408, § 19][/us/pl/100/408/s19], Aug. 20, 1988, [102 Stat. 1083][/us/stat/102/1083], provided that:
+[Pub. L. 100–408][/us/pl/100/408], § 19, Aug. 20, 1988, [102 Stat. 1083][/us/stat/102/1083], provided that:
 
 >     “(a) __Rulemaking Proceeding.—__ 
 
@@ -1259,13 +1259,13 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/85/256/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256%2Fs4
+[/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/stat/71/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F576
 [/us/pl/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602
 [/us/stat/72/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F525
 [/us/pl/85/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F744
 [/us/stat/72/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F837
-[/us/pl/87/206/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs15
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F479
 [/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F410
@@ -1279,22 +1279,22 @@
 [/us/stat/89/1111-1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1111-1115
 [/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/stat/102/1066-1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1066-1068
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/105/362/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1201%2Fb
+[/us/pl/105/362/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXII
 [/us/stat/112/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3292
-[/us/pl/107/314/s3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3171
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2743
-[/us/pl/108/7/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs101
+[/us/pl/108/7/dO]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdO
 [/us/stat/117/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F551
-[/us/pl/108/375/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3141
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2171
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/779-781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F779-781
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804
@@ -1304,110 +1304,110 @@
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/109/58/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs603%2F1
-[/us/pl/109/58/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs608
-[/us/pl/109/58/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs602%2Fa
-[/us/pl/109/58/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs602%2Fb
-[/us/pl/109/58/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs604%2Fa
-[/us/pl/109/58/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs604%2Fb
-[/us/pl/109/58/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs605%2Fa
-[/us/pl/109/58/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs604%2Fc
-[/us/pl/109/58/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs605%2Fb
-[/us/pl/109/58/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs602%2Fc
-[/us/pl/109/58/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs606
-[/us/pl/109/58/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs603%2F2
-[/us/pl/109/58/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs607
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/100/408/s16/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F1
-[/us/pl/100/408/s16/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fd%2F4
-[/us/usc/t42/s2012/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2012%2Fi
-[/us/pl/100/408/s16/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fa%2F2
-[/us/pl/100/408/s16/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F2
-[/us/pl/100/408/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs2%2Fa
-[/us/pl/100/408/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs2%2Fc%2F4
-[/us/pl/100/408/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs2%2Fd%2F1
-[/us/pl/100/408/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs2%2Fd%2F2
-[/us/pl/100/408/s16/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F3
-[/us/pl/100/408/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs3
-[/us/pl/100/408/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs4%2Fa
-[/us/pl/100/408/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs6
-[/us/pl/100/408/s16/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F4
-[/us/pl/100/408/s16/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F3
-[/us/pl/100/408/s16/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F5
-[/us/pl/100/408/s16/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fc%2F1
-[/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/100/408/s16/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F4
-[/us/pl/100/408/s16/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F6
-[/us/pl/100/408/s16/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F4
-[/us/pl/100/408/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs7%2Fa
-[/us/pl/100/408/s16/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F7
-[/us/pl/100/408/s16/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fc%2F2
-[/us/pl/100/408/s16/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F4
-[/us/pl/100/408/s16/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F8
-[/us/pl/100/408/s16/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fd%2F5
-[/us/pl/100/408/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs8%2F1
-[/us/pl/100/408/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs8%2F2
-[/us/pl/100/408/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs9
-[/us/pl/100/408/s16/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F9
-[/us/pl/100/408/s16/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F4
-[/us/pl/100/408/s16/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F10
 [/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
-[/us/pl/100/408/s16/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F5%2FB
-[/us/pl/100/408/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs11%2Fa
-[/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
-[/us/pl/100/408/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs11%2Fc
-[/us/pl/100/408/s11/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs11%2Fd%2F1
-[/us/pl/100/408/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs7%2Fb%2F1
-[/us/pl/100/408/s16/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fd%2F7
-[/us/pl/100/408/s16/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fb%2F6
-[/us/pl/100/408/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs7%2Fb%2F2
-[/us/pl/100/408/s16/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs16%2Fe%2F11
-[/us/pl/100/408/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs12
-[/us/pl/100/408/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs5%2Fc
-[/us/pl/100/408/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs13
-[/us/pl/100/408/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs14
-[/us/pl/100/408/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs15
-[/us/pl/94/197/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs2
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/usc/t42/s2012/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2012%2Fi
-[/us/pl/94/197/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs3
-[/us/pl/94/197/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs4
-[/us/pl/94/197/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs5
-[/us/pl/94/197/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs6
-[/us/pl/94/197/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs7
-[/us/pl/94/197/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs8
-[/us/pl/94/197/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs9
-[/us/pl/94/197/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs10
-[/us/pl/94/197/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs11
-[/us/pl/94/197/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs12
-[/us/pl/94/197/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs13
-[/us/pl/94/197/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197%2Fs14
-[/us/pl/89/645/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs2
-[/us/pl/89/645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs3
-[/us/pl/89/210/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210%2Fs1
-[/us/pl/89/210/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210%2Fs2
-[/us/pl/89/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210%2Fs3
-[/us/pl/89/210/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210%2Fs4
-[/us/pl/89/210/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210%2Fs5
-[/us/pl/88/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394%2Fs2
-[/us/pl/88/394/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394%2Fs3
-[/us/pl/87/615/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs6
-[/us/pl/87/615/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs7
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
+[/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/usc/t42/s2012/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2012%2Fi
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/94/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F197
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
+[/us/pl/89/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210
+[/us/pl/89/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210
+[/us/pl/89/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210
+[/us/pl/89/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210
+[/us/pl/89/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F210
+[/us/pl/88/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394
+[/us/pl/88/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
-[/us/pl/85/602/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602%2Fs2
+[/us/pl/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602
 [/us/pl/85/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F744
-[/us/pl/85/602/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602%2Fs2
+[/us/pl/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/109/58/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs609
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F781
 [/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/pl/100/408/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs11
@@ -1417,7 +1417,7 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/106/245/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245%2Fs2
+[/us/pl/106/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245
 [/us/stat/114/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F501
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
@@ -1425,36 +1425,36 @@
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/pl/100/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F321
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/106/245/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245%2Fs3%2Fe%2F2
+[/us/pl/106/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245
 [/us/stat/114/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F507
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/106/245/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245%2Fs3%2Fi
+[/us/pl/106/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245
 [/us/stat/114/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F508
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
-[/us/pl/107/273/s11007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11007%2Fb
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1818
 [/us/pl/101/426/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426%2Fs14
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/stat/104/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F920
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1835
-[/us/pl/102/486/s3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3018
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3131
-[/us/pl/106/245/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245%2Fs3%2Fa
+[/us/pl/106/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F245
 [/us/stat/114/502-508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F502-508
-[/us/pl/107/107/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1063
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1232
-[/us/pl/107/273/s11007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11007%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1817
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/108/375/s3165/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3165%2Fb
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2187
-[/us/pl/108/447/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs122
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2870
-[/us/pl/110/161/s1502/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1502%2Fg
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2250
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
@@ -1462,7 +1462,7 @@
 [/us/usc/t42/s7384u/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384u%2Fd
 [/us/usc/t31/s3803/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fc%2F2%2FC
 [/us/usc/t42/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2212
-[/us/pl/100/408/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs19
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/stat/102/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1083
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2111

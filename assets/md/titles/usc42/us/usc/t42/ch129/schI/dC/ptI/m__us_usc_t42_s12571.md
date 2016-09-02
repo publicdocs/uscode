@@ -149,7 +149,7 @@
 
         (3) subject to the availability of appropriations and quality service opportunities, implement the plan described in paragraph (1).
 
-([Pub. L. 101–610, title I, § 121][/us/pl/101/610/s121], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788]; amended [Pub. L. 111–13, title I, § 1301][/us/pl/111/13/s1301], Apr. 21, 2009, [123 Stat. 1484][/us/stat/123/1484].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 121, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1301, Apr. 21, 2009, [123 Stat. 1484][/us/stat/123/1484].)
 
  __References in Text__ 
 
@@ -157,39 +157,39 @@
 
  __Prior Provisions__ 
 
-    A prior section 12571, [Pub. L. 101–610, title I, § 141][/us/pl/101/610/s141], Nov. 16, 1990, [104 Stat. 3150][/us/stat/104/3150], related to general authority to make grants for national and community service programs, prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[formerly part D of this subchapter\] by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior section 12571, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 141, Nov. 16, 1990, [104 Stat. 3150][/us/stat/104/3150], related to general authority to make grants for national and community service programs, prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[formerly part D of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
     A prior [section 121 of Pub. L. 101–610][/us/pl/101/610/s121] was renumbered section 199A, and is classified to [section 12655 of this title][/us/usc/t42/s12655].
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1301(1)(A)][/us/pl/111/13/s1301/1/A], inserted “territories,” after “subdivisions of States,” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1301(1)(A), inserted “territories,” after “subdivisions of States,” in introductory provisions.
 
-    Subsec. (a)(1), (2). [Pub. L. 111–13, § 1301(1)(B)][/us/pl/111/13/s1301/1/B], substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)”.
+    Subsec. (a)(1), (2). [Pub. L. 111–13][/us/pl/111/13], § 1301(1)(B), substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)”.
 
-    Subsec. (b). [Pub. L. 111–13, § 1301(2)(A)][/us/pl/111/13/s1301/2/A], substituted “Restrictions on agreements with Federal agencies” for “Agreements with Federal agencies” in heading.
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1301(2)(A), substituted “Restrictions on agreements with Federal agencies” for “Agreements with Federal agencies” in heading.
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 1301(2)(B)][/us/pl/111/13/s1301/2/B], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Corporation may enter into a contract or cooperative agreement with another Federal agency to support a national service program carried out by the agency. The support provided by the Corporation pursuant to the contract or cooperative agreement may include the transfer to the Federal agency of funds available to the Corporation under this division.”
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 1301(2)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Corporation may enter into a contract or cooperative agreement with another Federal agency to support a national service program carried out by the agency. The support provided by the Corporation pursuant to the contract or cooperative agreement may include the transfer to the Federal agency of funds available to the Corporation under this division.”
 
-    Subsec. (b)(2). [Pub. L. 111–13, § 1301(2)(C)][/us/pl/111/13/s1301/2/C], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A Federal agency receiving assistance under this subsection shall not be required to satisfy the matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in [section 12633 of this title][/us/usc/t42/s12633] shall apply with respect to the Federal national service programs supported with such assistance.”
+    Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 1301(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A Federal agency receiving assistance under this subsection shall not be required to satisfy the matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in [section 12633 of this title][/us/usc/t42/s12633] shall apply with respect to the Federal national service programs supported with such assistance.”
 
-    Subsec. (b)(3). [Pub. L. 111–13, § 1301(2)(D)][/us/pl/111/13/s1301/2/D], substituted “carrying out or supporting a national service program” for “receiving assistance under this subsection” and “through that program” for “using such assistance”.
+    Subsec. (b)(3). [Pub. L. 111–13][/us/pl/111/13], § 1301(2)(D), substituted “carrying out or supporting a national service program” for “receiving assistance under this subsection” and “through that program” for “using such assistance”.
 
-    Subsec. (b)(4). [Pub. L. 111–13, § 1301(2)(E)][/us/pl/111/13/s1301/2/E], substituted “an interagency agreement” for “a contract or cooperative agreement” the first place it appeared.
+    Subsec. (b)(4). [Pub. L. 111–13][/us/pl/111/13], § 1301(2)(E), substituted “an interagency agreement” for “a contract or cooperative agreement” the first place it appeared.
 
-    Subsec. (b)(5). [Pub. L. 111–13, § 1301(2)(F)][/us/pl/111/13/s1301/2/F], added par. (5).
+    Subsec. (b)(5). [Pub. L. 111–13][/us/pl/111/13], § 1301(2)(F), added par. (5).
 
-    Subsec. (c). [Pub. L. 111–13, § 1301(3)(A)][/us/pl/111/13/s1301/3/A], substituted “subsection (a), and in providing approved national service positions under subsection (b),” for “subsections (a) and (b) of this section,” in introductory provisions.
+    Subsec. (c). [Pub. L. 111–13][/us/pl/111/13], § 1301(3)(A), substituted “subsection (a), and in providing approved national service positions under subsection (b),” for “subsections (a) and (b) of this section,” in introductory provisions.
 
-    Subsec. (c)(2)(B). [Pub. L. 111–13, § 1301(3)(B)][/us/pl/111/13/s1301/3/B], substituted “to be provided or otherwise approved” for “to be provided”.
+    Subsec. (c)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1301(3)(B), substituted “to be provided or otherwise approved” for “to be provided”.
 
-    Subsec. (d)(1), (2)(A). [Pub. L. 111–13, § 1301(4)][/us/pl/111/13/s1301/4], struck out “or (b) of this section” after “subsection (a)” in introductory provisions of par. (1) and in par. (2)(A).
+    Subsec. (d)(1), (2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1301(4), struck out “or (b) of this section” after “subsection (a)” in introductory provisions of par. (1) and in par. (2)(A).
 
-    Subsec. (e)(1). [Pub. L. 111–13, § 1301(5)(A)][/us/pl/111/13/s1301/5/A], substituted “Corporation share of the cost (including the costs of member living allowances, employment-related taxes, health care coverage, and workers’ compensation and other necessary operation costs)” for “Federal share of the cost”.
+    Subsec. (e)(1). [Pub. L. 111–13][/us/pl/111/13], § 1301(5)(A), substituted “Corporation share of the cost (including the costs of member living allowances, employment-related taxes, health care coverage, and workers’ compensation and other necessary operation costs)” for “Federal share of the cost”.
 
-    Subsec. (e)(5). [Pub. L. 111–13, § 1301(5)(B)][/us/pl/111/13/s1301/5/B], added par. (5).
+    Subsec. (e)(5). [Pub. L. 111–13][/us/pl/111/13], § 1301(5)(B), added par. (5).
 
-    Subsec. (f). [Pub. L. 111–13, § 1301(6)][/us/pl/111/13/s1301/6], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–13][/us/pl/111/13], § 1301(6), added subsec. (f).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -201,23 +201,23 @@
 
  __Overall Minimum Share Requirement__ 
 
-[Pub. L. 114–113, div. H, title IV, § 404][/us/pl/114/113/s404], Dec. 18, 2015, [129 Stat. 2642][/us/stat/129/2642], provided that: 
+[Pub. L. 114–113, div. H, title IV][/us/pl/114/113/dH/tIV], § 404, Dec. 18, 2015, [129 Stat. 2642][/us/stat/129/2642], provided that: 
 
 > “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[[42 U.S.C. 12571(e)][/us/usc/t42/s12571/e]\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, [42 U.S.C. 12594][/us/usc/t42/s12594]\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. G, title IV, § 402][/us/pl/113/235/s402], Dec. 16, 2014, [128 Stat. 2508][/us/stat/128/2508].
+    [Pub. L. 113–235, div. G, title IV][/us/pl/113/235/dG/tIV], § 402, Dec. 16, 2014, [128 Stat. 2508][/us/stat/128/2508].
 
-    [Pub. L. 113–76, div. H, title IV, § 402][/us/pl/113/76/s402], Jan. 17, 2014, [128 Stat. 402][/us/stat/128/402].
+    [Pub. L. 113–76, div. H, title IV][/us/pl/113/76/dH/tIV], § 402, Jan. 17, 2014, [128 Stat. 402][/us/stat/128/402].
 
-    [Pub. L. 112–74, div. F, title IV, § 402][/us/pl/112/74/s402], Dec. 23, 2011, [125 Stat. 1105][/us/stat/125/1105].
+    [Pub. L. 112–74, div. F, title IV][/us/pl/112/74/dF/tIV], § 402, Dec. 23, 2011, [125 Stat. 1105][/us/stat/125/1105].
 
-    [Pub. L. 111–117, div. D, title IV, § 402][/us/pl/111/117/s402], Dec. 16, 2009, [123 Stat. 3273][/us/stat/123/3273].
+    [Pub. L. 111–117, div. D, title IV][/us/pl/111/117/dD/tIV], § 402, Dec. 16, 2009, [123 Stat. 3273][/us/stat/123/3273].
 
-    [Pub. L. 111–8, div. F, title IV, § 407][/us/pl/111/8/s407], Mar. 11, 2009, [123 Stat. 795][/us/stat/123/795].
+    [Pub. L. 111–8, div. F, title IV][/us/pl/111/8/dF/tIV], § 407, Mar. 11, 2009, [123 Stat. 795][/us/stat/123/795].
 
-    [Pub. L. 110–161, div. G, title IV, § 407][/us/pl/110/161/s407], Dec. 26, 2007, [121 Stat. 2202][/us/stat/121/2202].
+    [Pub. L. 110–161, div. G, title IV][/us/pl/110/161/dG/tIV], § 407, Dec. 26, 2007, [121 Stat. 2202][/us/stat/121/2202].
 
 ----------
 
@@ -232,55 +232,55 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s12603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12603
 [/us/usc/t42/s12594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12594
 [/us/usc/t42/s12594/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12594%2Fd%2F2
-[/us/pl/101/610/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs121
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
-[/us/pl/111/13/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1484
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
-[/us/pl/101/610/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs141
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3150
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs121
 [/us/usc/t42/s12655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655
-[/us/pl/111/13/s1301/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F1%2FA
-[/us/pl/111/13/s1301/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F1%2FB
-[/us/pl/111/13/s1301/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F2%2FA
-[/us/pl/111/13/s1301/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F2%2FB
-[/us/pl/111/13/s1301/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F2%2FC
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12633
-[/us/pl/111/13/s1301/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F2%2FD
-[/us/pl/111/13/s1301/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F2%2FE
-[/us/pl/111/13/s1301/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F2%2FF
-[/us/pl/111/13/s1301/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F3%2FA
-[/us/pl/111/13/s1301/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F3%2FB
-[/us/pl/111/13/s1301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F4
-[/us/pl/111/13/s1301/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F5%2FA
-[/us/pl/111/13/s1301/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F5%2FB
-[/us/pl/111/13/s1301/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1301%2F6
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/103/82/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs123
 [/us/usc/t16/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1701
-[/us/pl/114/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs404
+[/us/pl/114/113/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIV
 [/us/stat/129/2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2642
 [/us/usc/t42/s12571/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fe
 [/us/usc/t42/s12594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12594
-[/us/pl/113/235/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs402
+[/us/pl/113/235/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtIV
 [/us/stat/128/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2508
-[/us/pl/113/76/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs402
+[/us/pl/113/76/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtIV
 [/us/stat/128/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F402
-[/us/pl/112/74/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs402
+[/us/pl/112/74/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtIV
 [/us/stat/125/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1105
-[/us/pl/111/117/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs402
+[/us/pl/111/117/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtIV
 [/us/stat/123/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3273
-[/us/pl/111/8/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs407
+[/us/pl/111/8/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtIV
 [/us/stat/123/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F795
-[/us/pl/110/161/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs407
+[/us/pl/110/161/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdG%2FtIV
 [/us/stat/121/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2202
 
 

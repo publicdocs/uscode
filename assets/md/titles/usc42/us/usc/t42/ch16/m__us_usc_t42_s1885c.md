@@ -35,7 +35,7 @@
 
         Every two years, the Committee shall prepare and transmit to the Director a report on its activities during the previous two years and proposed activities for the next two years. The Director shall transmit to Congress the report, unaltered, together with such comments as the Director deems appropriate.
 
-([Pub. L. 96–516, § 36][/us/pl/96/516/s36], Dec. 12, 1980, [94 Stat. 3012][/us/stat/94/3012]; [Pub. L. 99–159, title I, § 111(b)(8)][/us/pl/99/159/s111/b/8], Nov. 22, 1985, [99 Stat. 893][/us/stat/99/893]; [Pub. L. 100–570, title I, § 105(c)][/us/pl/100/570/s105/c], Oct. 31, 1988, [102 Stat. 2868][/us/stat/102/2868]; [Pub. L. 105–207, title II, § 202(d)(2)][/us/pl/105/207/s202/d/2], July 29, 1998, [112 Stat. 874][/us/stat/112/874].)
+([Pub. L. 96–516][/us/pl/96/516], § 36, Dec. 12, 1980, [94 Stat. 3012][/us/stat/94/3012]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 111(b)(8), Nov. 22, 1985, [99 Stat. 893][/us/stat/99/893]; [Pub. L. 100–570, title I][/us/pl/100/570/tI], § 105(c), Oct. 31, 1988, [102 Stat. 2868][/us/stat/102/2868]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(d)(2), July 29, 1998, [112 Stat. 874][/us/stat/112/874].)
 
  __References in Text__ 
 
@@ -47,25 +47,25 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–207, § 202(d)(2)(A)][/us/pl/105/207/s202/d/2/A], substituted “minorities, and persons with disabilities in scientific” for “minorities, and other groups currently underrepresented in scientific”.
+    1998—Subsec. (a). [Pub. L. 105–207][/us/pl/105/207], § 202(d)(2)(A), substituted “minorities, and persons with disabilities in scientific” for “minorities, and other groups currently underrepresented in scientific”.
 
-    Subsec. (b). [Pub. L. 105–207, § 202(d)(2)(B)][/us/pl/105/207/s202/d/2/B], struck out “with the concurrence of the National Science Board” after “the Director” and substituted “In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee.” for “The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee.”
+    Subsec. (b). [Pub. L. 105–207][/us/pl/105/207], § 202(d)(2)(B), struck out “with the concurrence of the National Science Board” after “the Director” and substituted “In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee.” for “The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee.”
 
-    Subsec. (c). [Pub. L. 105–207, § 202(d)(2)(C)][/us/pl/105/207/s202/d/2/C], (D), added subsec. (c) and struck out former subsec. (c) which read as follows: “There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate.”
+    Subsec. (c). [Pub. L. 105–207][/us/pl/105/207], § 202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: “There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate.”
 
-    Subsec. (d). [Pub. L. 105–207, § 202(d)(2)(F)][/us/pl/105/207/s202/d/2/F], struck out “additional” after “organize such”.
+    Subsec. (d). [Pub. L. 105–207][/us/pl/105/207], § 202(d)(2)(F), struck out “additional” after “organize such”.
 
-    [Pub. L. 105–207, § 202(d)(2)(C)][/us/pl/105/207/s202/d/2/C], (E), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Minorities in Science and Engineering. The Subcommittee on Minorities in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for education, training, and research for minorities in science and engineering and (2) the impact of science and engineering on minorities. The Subcommittee shall be composed of all minority members of the Committee and such other members of the Committee as the Committee may designate.”
+    [Pub. L. 105–207][/us/pl/105/207], § 202(d)(2)(C), (E), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Minorities in Science and Engineering. The Subcommittee on Minorities in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for education, training, and research for minorities in science and engineering and (2) the impact of science and engineering on minorities. The Subcommittee shall be composed of all minority members of the Committee and such other members of the Committee as the Committee may designate.”
 
-    Subsecs. (e), (f). [Pub. L. 105–207, § 202(d)(2)(E)][/us/pl/105/207/s202/d/2/E], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsecs. (e), (f). [Pub. L. 105–207][/us/pl/105/207], § 202(d)(2)(E), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
     1988—Subsec. (f). [Pub. L. 100–570][/us/pl/100/570] amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Each year the Committee shall prepare and transmit to the Director a report concerning its activities during the previous year and its proposed activities for the next year. The Director shall transmit to Congress the report, unaltered, along with comments.”
 
-    1985—[Pub. L. 99–159, § 111(b)(8)(A)][/us/pl/99/159/s111/b/8/A], substituted “Engineering” for “Technology” in section catchline.
+    1985—[Pub. L. 99–159][/us/pl/99/159], § 111(b)(8)(A), substituted “Engineering” for “Technology” in section catchline.
 
     Subsec. (a). [Pub. L. 99–159][/us/pl/99/159] substituted “Engineering” for “Technology” and “scientific, engineering, and professional” for “scientific engineering, professional, and technical”.
 
-    Subsecs. (c), (d). [Pub. L. 99–159, § 111(b)(8)(A)][/us/pl/99/159/s111/b/8/A], substituted “Engineering” for “Technology” and “engineering” for “technology” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(8)(A), substituted “Engineering” for “Technology” and “engineering” for “technology” wherever appearing.
 
  __Termination of Advisory Committees__ 
 
@@ -73,7 +73,7 @@
 
  __Report by Committee on Equal Opportunities in Science and Engineering__ 
 
-[Pub. L. 107–368, § 20][/us/pl/107/368/s20], Dec. 19, 2002, [116 Stat. 3063][/us/stat/116/3063], provided that: 
+[Pub. L. 107–368][/us/pl/107/368], § 20, Dec. 19, 2002, [116 Stat. 3063][/us/stat/116/3063], provided that: 
 
 > “As part of the first report required by section 36(e) of the Science and Engineering Equal Opportunities Act ([42 U.S.C. 1885c(e)][/us/usc/t42/s1885c/e]) transmitted to Congress after the date of enactment of this Act \[Dec. 19, 2002\], the Committee on Equal Opportunities in Science and Engineering shall include—
 
@@ -92,29 +92,29 @@
 ----------
 ----------
 
-[/us/pl/96/516/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs36
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3012
-[/us/pl/99/159/s111/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F8
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F893
-[/us/pl/100/570/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs105%2Fc
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2868
-[/us/pl/105/207/s202/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F2
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F874
 [/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/pl/105/207/s202/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F2%2FA
-[/us/pl/105/207/s202/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F2%2FB
-[/us/pl/105/207/s202/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F2%2FC
-[/us/pl/105/207/s202/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F2%2FF
-[/us/pl/105/207/s202/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F2%2FC
-[/us/pl/105/207/s202/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F2%2FE
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
 [/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
-[/us/pl/99/159/s111/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F8%2FA
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
-[/us/pl/99/159/s111/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F8%2FA
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/107/368/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs20
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3063
 [/us/usc/t42/s1885c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885c%2Fe
 [/us/usc/t42/s1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885

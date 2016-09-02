@@ -31,11 +31,11 @@
 
         An application submitted under this section shall contain a description of the linkages with relevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 802, as added [Pub. L. 105–392, title I, § 123(4)][/us/pl/105/392/s123/4], Nov. 13, 1998, [112 Stat. 3564][/us/stat/112/3564].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 802, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(4), Nov. 13, 1998, [112 Stat. 3564][/us/stat/112/3564].)
 
  __Prior Provisions__ 
 
-    A prior section 296a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 802, as added Sept. 4, 1964, [Pub. L. 88–581, § 2][/us/pl/88/581/s2], [78 Stat. 909][/us/stat/78/909]; amended Aug. 16, 1968, [Pub. L. 90–490, title II, § 201(b)][/us/pl/90/490/s201/b], [82 Stat. 780][/us/stat/82/780]; Nov. 18, 1971, [Pub. L. 92–158][/us/pl/92/158], §§ 2(d)(3), (e), (f), 13, [85 Stat. 468][/us/stat/85/468], 480; July 29, 1975, [Pub. L. 94–63, title IX][/us/pl/94/63], §§ 910(a)(2), 941(a), [89 Stat. 355][/us/stat/89/355], 363, related to time of submission, determinations, etc., respecting applications for construction grants, prior to repeal by [Pub. L. 99–92][/us/pl/99/92], §§ 9(a)(1), 10(a), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], 402, effective Oct. 1, 1985.
+    A prior section 296a, [act July 1, 1944, ch. 373, title VIII][/us/act/1944-07-01/ch373/tVIII], § 802, as added Sept. 4, 1964, [Pub. L. 88–581][/us/pl/88/581], § 2, [78 Stat. 909][/us/stat/78/909]; amended Aug. 16, 1968, [Pub. L. 90–490, title II][/us/pl/90/490/tII], § 201(b), [82 Stat. 780][/us/stat/82/780]; Nov. 18, 1971, [Pub. L. 92–158][/us/pl/92/158], §§ 2(d)(3), (e), (f), 13, [85 Stat. 468][/us/stat/85/468], 480; July 29, 1975, [Pub. L. 94–63, title IX][/us/pl/94/63/tIX], §§ 910(a)(2), 941(a), [89 Stat. 355][/us/stat/89/355], 363, related to time of submission, determinations, etc., respecting applications for construction grants, prior to repeal by [Pub. L. 99–92][/us/pl/99/92], §§ 9(a)(1), 10(a), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], 402, effective Oct. 1, 1985.
 
 ----------
 
@@ -45,16 +45,16 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s123/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3564
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/581/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs2
+[/us/act/1944-07-01/ch373/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVIII
+[/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
 [/us/stat/78/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F909
-[/us/pl/90/490/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs201%2Fb
+[/us/pl/90/490/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtII
 [/us/stat/82/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F780
 [/us/pl/92/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F158
 [/us/stat/85/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F468
-[/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
+[/us/pl/94/63/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtIX
 [/us/stat/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F355
 [/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F400

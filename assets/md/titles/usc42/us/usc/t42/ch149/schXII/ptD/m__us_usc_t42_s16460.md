@@ -21,7 +21,7 @@
 
     (2) submit to Congress detailed recommendations on technical and conforming amendments to Federal law necessary to carry out this part and the amendments made by this part.
 
-([Pub. L. 109–58, title XII, § 1272][/us/pl/109/58/s1272], Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1272, Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s16453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16453
-[/us/pl/109/58/s1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1272
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F977
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972

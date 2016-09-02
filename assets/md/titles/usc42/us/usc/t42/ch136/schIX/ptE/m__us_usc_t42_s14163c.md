@@ -93,7 +93,7 @@
 
         The annual reports to the Attorney General submitted by any State under this section shall be made available to the public.
 
-([Pub. L. 108–405, title IV, § 424][/us/pl/108/405/s424], Oct. 30, 2004, [118 Stat. 2289][/us/stat/118/2289].)
+([Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 424, Oct. 30, 2004, [118 Stat. 2289][/us/stat/118/2289].)
 
  __Codification__ 
 
@@ -126,7 +126,7 @@
 [/us/usc/t42/s14163a/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163a%2Fb%2F1%2FC
 [/us/usc/t42/s14163a/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163a%2Fb%2F1%2FD
 [/us/usc/t42/s14163a/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163a%2Fb%2F1%2FE
-[/us/pl/108/405/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs424
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2289
 
 

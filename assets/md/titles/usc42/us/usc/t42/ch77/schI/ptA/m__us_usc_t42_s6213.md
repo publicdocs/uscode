@@ -51,7 +51,7 @@
 
         (2) bidding for any right to develop coal and oil shale on such lands.
 
-([Pub. L. 94–163, title I, § 105][/us/pl/94/163/s105], Dec. 22, 1975, [89 Stat. 879][/us/stat/89/879]; [Pub. L. 95–372, title II, § 205(c)][/us/pl/95/372/s205/c], Sept. 18, 1978, [92 Stat. 646][/us/stat/92/646].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 105, Dec. 22, 1975, [89 Stat. 879][/us/stat/89/879]; [Pub. L. 95–372, title II][/us/pl/95/372/tII], § 205(c), Sept. 18, 1978, [92 Stat. 646][/us/stat/92/646].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Transfer of Functions__ 
 
-    Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases and to implementation of alternative bidding systems authorized for award of Federal leases transferred to Secretary of Energy by [section 7152(b) of this title][/us/usc/t42/s7152/b]. [Section 7152(b) of this title][/us/usc/t42/s7152/b] repealed by [Pub. L. 97–100, title II, § 201][/us/pl/97/100/s201], Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407], and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+    Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases and to implementation of alternative bidding systems authorized for award of Federal leases transferred to Secretary of Energy by [section 7152(b) of this title][/us/usc/t42/s7152/b]. [Section 7152(b) of this title][/us/usc/t42/s7152/b] repealed by [Pub. L. 97–100, title II][/us/pl/97/100/tII], § 201, Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407], and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 ----------
 
@@ -68,14 +68,14 @@
 ----------
 ----------
 
-[/us/pl/94/163/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs105
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F879
-[/us/pl/95/372/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372%2Fs205%2Fc
+[/us/pl/95/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372%2FtII
 [/us/stat/92/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F646
 [/us/pl/95/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372
 [/us/usc/t42/s7152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fb
 [/us/usc/t42/s7152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fb
-[/us/pl/97/100/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2Fs201
+[/us/pl/97/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2FtII
 [/us/stat/95/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1407
 
 

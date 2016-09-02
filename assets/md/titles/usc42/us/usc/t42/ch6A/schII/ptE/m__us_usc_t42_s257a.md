@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 91–513, title I, § 4][/us/pl/91/513/s4], Oct. 27, 1970, [84 Stat. 1241][/us/stat/84/1241]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which related to medical treatment of narcotics addiction, was transferred to [section 290bb–2a of this title][/us/usc/t42/s290bb–2a].
+    Section, [Pub. L. 91–513, title I][/us/pl/91/513/tI], § 4, Oct. 27, 1970, [84 Stat. 1241][/us/stat/84/1241]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which related to medical treatment of narcotics addiction, was transferred to [section 290bb–2a of this title][/us/usc/t42/s290bb–2a].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/91/513/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs4
+[/us/pl/91/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtI
 [/us/stat/84/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1241
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t42/s290bb–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%932a
 

@@ -11,30 +11,20 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s98.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s112.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs109)
+[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s99...108.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s110 _us_usc_t42_s111.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs109)
 
-## § 109. Repealed. [May 29, 1928, ch. 901, § 1(24)][/us/act/1928-05-29/ch901/s1/24], [45 Stat. 986][/us/stat/45/986], 988
+## § 109. Repealed. [May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(24), [45 Stat. 986][/us/stat/45/986], 988
 
     Section, acts [June 12, 1917, ch. 27][/us/act/1917-06-12/ch27], [40 Stat. 121][/us/stat/40/121]; [June 5, 1920, ch. 235][/us/act/1920-06-05/ch235], [41 Stat. 885][/us/stat/41/885]; [Feb. 17, 1922, ch. 55][/us/act/1922-02-17/ch55], [42 Stat. 380][/us/stat/42/380]; [Jan. 3, 1923, ch. 22][/us/act/1923-01-03/ch22], [42 Stat. 1102][/us/stat/42/1102]; [Apr. 4, 1924, ch. 84][/us/act/1924-04-04/ch84], title I, [43 Stat. 76][/us/stat/43/76]; [Jan. 20, 1925, ch. 85][/us/act/1925-01-20/ch85], [43 Stat. 757][/us/stat/43/757]; [Jan. 22, 1925, ch. 87][/us/act/1925-01-22/ch87], title I, [43 Stat. 775][/us/stat/43/775], required a detailed report to be made to Congress of expenditures to prevent epidemics.
 
-§§ 110, 111. __Repealed.__  __[__  __July 1, 1944, ch. 373__  __][/us/act/1944-07-01/ch373]__  __, title XIII, § 1313,__  __[__  __58 Stat. 714__  __][/us/stat/58/714]__ 
-
-    Section 110, acts [June 5, 1920, ch. 235][/us/act/1920-06-05/ch235], [41 Stat. 875][/us/stat/41/875]; [June 16, 1921, ch. 23][/us/act/1921-06-16/ch23], [42 Stat. 38][/us/stat/42/38], provided for a schedule of charges for vessels at New York quarantine station. See [section 269 of this title][/us/usc/t42/s269].
-
-    Section 111, [act Feb. 15, 1893, ch. 114, § 7][/us/act/1893-02-15/ch114/s7], [27 Stat. 452][/us/stat/27/452], provided for suspension of immigration. See [section 265 of this title][/us/usc/t42/s265].
-
- __Renumbering and Repeal of Repealing Act__ 
-
-    Title XIII, § 1313, formerly title VI, § 611, of act July 1, 1944, which repealed these sections, was renumbered title VII, § 711, by [act Aug. 13, 1946, ch. 958, § 5][/us/act/1946-08-13/ch958/s5], [60 Stat. 1049][/us/stat/60/1049]; § 713, by [act Feb. 28, 1948, ch. 83, § 9(b)][/us/act/1948-02-28/ch83/s9/b], [62 Stat. 47][/us/stat/62/47]; title VIII, § 813, by [act July 30, 1956, ch. 779, § 3(b)][/us/act/1956-07-30/ch779/s3/b], [70 Stat. 721][/us/stat/70/721]; title IX, § 913, by [Pub. L. 88–581, § 4(b)][/us/pl/88/581/s4/b], Sept. 4, 1964, [78 Stat. 919][/us/stat/78/919]; title X, § 1013, by [Pub. L. 89–239, § 3(b)][/us/pl/89/239/s3/b], Oct. 6, 1965, [79 Stat. 931][/us/stat/79/931]; title XI, § 1113, by [Pub. L. 91–572, § 6(b)][/us/pl/91/572/s6/b], Dec. 24, 1970, [84 Stat. 1506][/us/stat/84/1506]; title XII, § 1213, by [Pub. L. 92–294, § 3(b)][/us/pl/92/294/s3/b], May 16, 1972, [86 Stat. 137][/us/stat/86/137]; title XIII, § 1313, by [Pub. L. 93–154, § 2(b)(2)][/us/pl/93/154/s2/b/2], Nov. 16, 1973, [87 Stat. 604][/us/stat/87/604], and was repealed by [Pub. L. 93–222, § 7(b)][/us/pl/93/222/s7/b], Dec. 29, 1973, [87 Stat. 936][/us/stat/87/936].
-
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s98.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s112.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs109)
+[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s99...108.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s110 _us_usc_t42_s111.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs109)
 
 ----------
 ----------
 
-[/us/act/1928-05-29/ch901/s1/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F24
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F986
 [/us/act/1917-06-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27
 [/us/stat/40/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F121
@@ -50,33 +40,5 @@
 [/us/stat/43/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F757
 [/us/act/1925-01-22/ch87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-01-22%2Fch87
 [/us/stat/43/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F775
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/stat/58/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F714
-[/us/act/1920-06-05/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235
-[/us/stat/41/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F875
-[/us/act/1921-06-16/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-16%2Fch23
-[/us/stat/42/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F38
-[/us/usc/t42/s269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs269
-[/us/act/1893-02-15/ch114/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-15%2Fch114%2Fs7
-[/us/stat/27/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F452
-[/us/usc/t42/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs265
-[/us/act/1946-08-13/ch958/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs5
-[/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
-[/us/act/1948-02-28/ch83/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs9%2Fb
-[/us/stat/62/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F47
-[/us/act/1956-07-30/ch779/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs3%2Fb
-[/us/stat/70/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F721
-[/us/pl/88/581/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs4%2Fb
-[/us/stat/78/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F919
-[/us/pl/89/239/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239%2Fs3%2Fb
-[/us/stat/79/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F931
-[/us/pl/91/572/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F572%2Fs6%2Fb
-[/us/stat/84/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1506
-[/us/pl/92/294/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294%2Fs3%2Fb
-[/us/stat/86/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F137
-[/us/pl/93/154/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fb%2F2
-[/us/stat/87/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F604
-[/us/pl/93/222/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs7%2Fb
-[/us/stat/87/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F936
 
 

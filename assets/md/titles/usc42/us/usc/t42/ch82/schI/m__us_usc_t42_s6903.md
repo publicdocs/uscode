@@ -121,11 +121,11 @@
 
     (41) The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.).
 
-([Pub. L. 89–272, title II, § 1004][/us/pl/89/272/s1004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2798][/us/stat/90/2798]; amended [Pub. L. 95–609, § 7(b)][/us/pl/95/609/s7/b], Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 96–463, § 3][/us/pl/96/463/s3], Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055]; [Pub. L. 96–482, § 2][/us/pl/96/482/s2], Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334]; [Pub. L. 100–582, § 3][/us/pl/100/582/s3], Nov. 1, 1988, [102 Stat. 2958][/us/stat/102/2958]; [Pub. L. 102–386, title I][/us/pl/102/386], §§ 103, 105(b), Oct. 6, 1992, [106 Stat. 1507][/us/stat/106/1507], 1512; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1004, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2798][/us/stat/90/2798]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(b), Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 96–463][/us/pl/96/463], § 3, Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055]; [Pub. L. 96–482][/us/pl/96/482], § 2, Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334]; [Pub. L. 100–582][/us/pl/100/582], § 3, Nov. 1, 1988, [102 Stat. 2958][/us/stat/102/2958]; [Pub. L. 102–386, title I][/us/pl/102/386/tI], §§ 103, 105(b), Oct. 6, 1992, [106 Stat. 1507][/us/stat/106/1507], 1512; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in pars. (27) and (41), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in pars. (27) and (41), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Prior Provisions__ 
 
@@ -133,23 +133,23 @@
 
  __Amendments__ 
 
-    1992—Par. (15). [Pub. L. 102–386, § 103][/us/pl/102/386/s103], inserted before period at end “and shall include each department, agency, and instrumentality of the United States”.
+    1992—Par. (15). [Pub. L. 102–386][/us/pl/102/386], § 103, inserted before period at end “and shall include each department, agency, and instrumentality of the United States”.
 
-    Par. (41). [Pub. L. 102–386, § 105(b)][/us/pl/102/386/s105/b], added par. (41).
+    Par. (41). [Pub. L. 102–386][/us/pl/102/386], § 105(b), added par. (41).
 
     1988—Par. (40). [Pub. L. 100–582][/us/pl/100/582] added par. (40).
 
-    1980—Par. (14). [Pub. L. 96–482, § 2(a)][/us/pl/96/482/s2/a], defined “open dump” to include a facility, substituted requirement that disposal facility or site not be a sanitary landfill meeting [section 6944 of this title][/us/usc/t42/s6944] criteria for prior requirement that disposal site not be a sanitary landfill within meaning of [section 6944 of this title][/us/usc/t42/s6944], and required that the disposal facility or site not be a facility for disposal of hazardous waste.
+    1980—Par. (14). [Pub. L. 96–482][/us/pl/96/482], § 2(a), defined “open dump” to include a facility, substituted requirement that disposal facility or site not be a sanitary landfill meeting [section 6944 of this title][/us/usc/t42/s6944] criteria for prior requirement that disposal site not be a sanitary landfill within meaning of [section 6944 of this title][/us/usc/t42/s6944], and required that the disposal facility or site not be a facility for disposal of hazardous waste.
 
-    Par. (19). [Pub. L. 96–482, § 2(b)][/us/pl/96/482/s2/b], defined “recovered material” to cover byproducts, substituted provision for recovery or diversion of waste material and byproducts from solid waste for prior provision for collection or recovery of material from solid waste, and excluded materials and byproducts generated from and commonly reused within an original manufacturing process.
+    Par. (19). [Pub. L. 96–482][/us/pl/96/482], § 2(b), defined “recovered material” to cover byproducts, substituted provision for recovery or diversion of waste material and byproducts from solid waste for prior provision for collection or recovery of material from solid waste, and excluded materials and byproducts generated from and commonly reused within an original manufacturing process.
 
-    Pars. (36) to (39). [Pub. L. 96–463, § 3][/us/pl/96/463/s3], added pars. (36) to (39).
+    Pars. (36) to (39). [Pub. L. 96–463][/us/pl/96/463], § 3, added pars. (36) to (39).
 
-    1978—Par. (8). [Pub. L. 95–609, § 7(b)(1)][/us/pl/95/609/s7/b/1], struck out provision stating that employees’ salaries due pursuant to subchapter IV of this chapter would not be included after Dec. 31, 1979.
+    1978—Par. (8). [Pub. L. 95–609][/us/pl/95/609], § 7(b)(1), struck out provision stating that employees’ salaries due pursuant to subchapter IV of this chapter would not be included after Dec. 31, 1979.
 
-    Par. (10). [Pub. L. 95–609, § 7(b)(2)][/us/pl/95/609/s7/b/2], substituted “management” for “disposal”.
+    Par. (10). [Pub. L. 95–609][/us/pl/95/609], § 7(b)(2), substituted “management” for “disposal”.
 
-    Par. (29)(C). [Pub. L. 95–609, § 7(b)(3)][/us/pl/95/609/s7/b/3], substituted “the collection, source separation, storage, transportation, transfer, processing, treatment or disposal” for “the treatment”.
+    Par. (29)(C). [Pub. L. 95–609][/us/pl/95/609], § 7(b)(3), substituted “the collection, source separation, storage, transportation, transfer, processing, treatment or disposal” for “the treatment”.
 
  __Change of Name__ 
 
@@ -174,38 +174,38 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s6947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6947
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/89/272/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1004
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2798
-[/us/pl/95/609/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fb
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3081
-[/us/pl/96/463/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs3
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2055
-[/us/pl/96/482/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs2
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2334
-[/us/pl/100/582/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs3
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2958
-[/us/pl/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1507
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3252
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
-[/us/pl/102/386/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs103
-[/us/pl/102/386/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs105%2Fb
+[/us/pl/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386
+[/us/pl/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386
 [/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
-[/us/pl/96/482/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs2%2Fa
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6944
 [/us/usc/t42/s6944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6944
-[/us/pl/96/482/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs2%2Fb
-[/us/pl/96/463/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs3
-[/us/pl/95/609/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fb%2F1
-[/us/pl/95/609/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fb%2F2
-[/us/pl/95/609/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fb%2F3
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373

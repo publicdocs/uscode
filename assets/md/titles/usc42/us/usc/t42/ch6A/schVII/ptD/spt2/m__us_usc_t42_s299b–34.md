@@ -95,7 +95,7 @@
 
         The entities that receive a grant or contract under this section shall coordinate with health information technology regional extension centers under [section 300jj–32(c) of this title][/us/usc/t42/s300jj–32/c] and the primary care extension program established under [section 280g–12 of this title][/us/usc/t42/s280g–12] regarding the dissemination of quality improvement, system delivery reform, and best practices information.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 934, as added and amended [Pub. L. 111–148, title III, § 3501][/us/pl/111/148/s3501], title X, § 10501(f)(3), Mar. 23, 2010, [124 Stat. 511][/us/stat/124/511], 996.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 934, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3501, title X, § 10501(f)(3), Mar. 23, 2010, [124 Stat. 511][/us/stat/124/511], 996.)
 
  __Prior Provisions__ 
 
@@ -103,7 +103,7 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (b)(1)(A), (f). [Pub. L. 111–148, § 10501(f)(3)][/us/pl/111/148/s10501/f/3], made technical amendment to reference in original act which appears in text as reference to [section 280g–12 of this title][/us/usc/t42/s280g–12].
+    2010—Subsecs. (b)(1)(A), (f). [Pub. L. 111–148][/us/pl/111/148], § 10501(f)(3), made technical amendment to reference in original act which appears in text as reference to [section 280g–12 of this title][/us/usc/t42/s280g–12].
 
 ----------
 
@@ -118,10 +118,10 @@
 [/us/usc/t42/s300jj–32/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9332%2Fc
 [/us/usc/t42/s280g–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%9312
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3501
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F511
 [/us/usc/t42/s299c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%933
-[/us/pl/111/148/s10501/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Ff%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s280g–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%9312
 
 

@@ -67,7 +67,7 @@
 
         (2) The regulatory requirements of section 7412(n) 1 of this title shall apply to the coastal waters of the States which are subject to subsection (a) of this section, to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 328, as added [Pub. L. 101–549, title VIII, § 801][/us/pl/101/549/s801], Nov. 15, 1990, [104 Stat. 2685][/us/stat/104/2685]; amended [Pub. L. 112–74, div. E, title IV, § 432(b)][/us/pl/112/74/s432/b], (c), Dec. 23, 2011, [125 Stat. 1048][/us/stat/125/1048], 1049.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 328, as added [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 801, Nov. 15, 1990, [104 Stat. 2685][/us/stat/104/2685]; amended [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 432(b), (c), Dec. 23, 2011, [125 Stat. 1048][/us/stat/125/1048], 1049.)
 
  __References in Text__ 
 
@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1). [Pub. L. 112–74, § 432(b)][/us/pl/112/74/s432/b], inserted “(other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska)” after “Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts” and “and this chapter” after “regulations”.
+    2011—Subsec. (a)(1). [Pub. L. 112–74][/us/pl/112/74], § 432(b), inserted “(other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska)” after “Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts” and “and this chapter” after “regulations”.
 
-    Subsec. (b). [Pub. L. 112–74, § 432(c)][/us/pl/112/74/s432/c], struck out “Gulf Coast” after “United States” and inserted “or are adjacent to the North Slope Borough of the State of Alaska” after “Alabama”.
+    Subsec. (b). [Pub. L. 112–74][/us/pl/112/74], § 432(c), struck out “Gulf Coast” after “United States” and inserted “or are adjacent to the North Slope Borough of the State of Alaska” after “Alabama”.
 
  __Transfer of Functions__ 
 
@@ -85,13 +85,13 @@
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 112–74, div. E, title IV, § 432(a)][/us/pl/112/74/s432/a], Dec. 23, 2011, [125 Stat. 1048][/us/stat/125/1048], provided that: 
+[Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 432(a), Dec. 23, 2011, [125 Stat. 1048][/us/stat/125/1048], provided that: 
 
 > “It is the purpose of this section \[amending this section and enacting provisions set out as a note under this section\] to ensure that the energy policy of the United States focuses on the expeditious and orderly development of domestic energy resources in a manner that protects human health and the environment.”
 
  __Effect of Transfer of Air Quality Permitting Authority__ 
 
-[Pub. L. 112–74, div. E, title IV, § 432(d)][/us/pl/112/74/s432/d], Dec. 23, 2011, [125 Stat. 1049][/us/stat/125/1049], provided that: 
+[Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 432(d), Dec. 23, 2011, [125 Stat. 1049][/us/stat/125/1049], provided that: 
 
 > “The transfer of air quality permitting authority pursuant to this section \[amending this section and enacting provisions set out as a note under this section\] shall not invalidate or stay—
 
@@ -113,19 +113,19 @@
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t42/s7411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs801
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2685
-[/us/pl/112/74/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs432%2Fb
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1048
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
-[/us/pl/112/74/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs432%2Fb
-[/us/pl/112/74/s432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs432%2Fc
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/74/s432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs432%2Fa
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1048
-[/us/pl/112/74/s432/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs432%2Fd
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1049
 
 

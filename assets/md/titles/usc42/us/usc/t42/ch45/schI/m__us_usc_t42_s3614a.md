@@ -17,7 +17,7 @@
 
     The Secretary may make rules (including rules for the collection, maintenance, and analysis of appropriate data) to carry out this subchapter. The Secretary shall give public notice and opportunity for comment with respect to all rules made under this section.
 
-([Pub. L. 90–284, title VIII, § 815][/us/pl/90/284/s815], as added [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2], Sept. 13, 1988, [102 Stat. 1635][/us/stat/102/1635].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 815, as added [Pub. L. 100–430][/us/pl/100/430], § 8(2), Sept. 13, 1988, [102 Stat. 1635][/us/stat/102/1635].)
 
  __Prior Provisions__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/90/284/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs815
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1635
 [/us/pl/90/284/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs815
 [/us/usc/t42/s3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3615

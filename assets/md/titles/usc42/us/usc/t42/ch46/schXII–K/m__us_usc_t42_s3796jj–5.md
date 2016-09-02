@@ -17,7 +17,7 @@
 
     The Attorney General may reserve 10 percent of funds to award research grants to a State or local law enforcement agency or organization to study issues of importance in the law enforcement field as determined by the Attorney General.
 
-([Pub. L. 90–351, title I, § 2306][/us/pl/90/351/s2306], as added [Pub. L. 103–322, title XXI, § 210201(a)(3)][/us/pl/103/322/s210201/a/3], Sept. 13, 1994, [108 Stat. 2064][/us/stat/108/2064].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2306, as added [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210201(a)(3), Sept. 13, 1994, [108 Stat. 2064][/us/stat/108/2064].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2306
-[/us/pl/103/322/s210201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210201%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2064
 
 

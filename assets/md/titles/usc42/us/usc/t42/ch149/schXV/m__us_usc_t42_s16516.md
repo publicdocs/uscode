@@ -49,7 +49,7 @@
 
         The authority to enter into guarantees under this section shall expire on September 30, 2011.
 
-([Pub. L. 109–58, title XVII, § 1705][/us/pl/109/58/s1705], as added [Pub. L. 111–5, div. A, title IV, § 406(a)][/us/pl/111/5/s406/a], Feb. 17, 2009, [123 Stat. 145][/us/stat/123/145].)
+([Pub. L. 109–58, title XVII][/us/pl/109/58/tXVII], § 1705, as added [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 406(a), Feb. 17, 2009, [123 Stat. 145][/us/stat/123/145].)
 
 ----------
 
@@ -59,8 +59,8 @@
 ----------
 
 [/us/usc/t42/s16513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16513
-[/us/pl/109/58/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1705
-[/us/pl/111/5/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs406%2Fa
+[/us/pl/109/58/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVII
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F145
 
 

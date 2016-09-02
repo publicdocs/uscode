@@ -45,11 +45,11 @@
 
         There are authorized to be appropriated to carry out this section $110,000,000 for each of fiscal years 2005 through 2009.
 
-([Pub. L. 109–58, title XV, § 1514][/us/pl/109/58/s1514], Aug. 8, 2005, [119 Stat. 1090][/us/stat/119/1090].)
+([Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1514, Aug. 8, 2005, [119 Stat. 1090][/us/stat/119/1090].)
 
  __References in Text__ 
 
-    [Section 8605 of title 7][/us/usc/t7/s8605], referred to in subsec. (a), was repealed by [Pub. L. 110–246, title IX, § 9001(b)][/us/pl/110/246/s9001/b], June 18, 2008, [122 Stat. 2095][/us/stat/122/2095]. Provisions relating to a Biomass Research and Development Technical Advisory Committee are now contained in [section 8108(d) of title 7][/us/usc/t7/s8108/d], Agriculture.
+    [Section 8605 of title 7][/us/usc/t7/s8605], referred to in subsec. (a), was repealed by [Pub. L. 110–246, title IX][/us/pl/110/246/tIX], § 9001(b), June 18, 2008, [122 Stat. 2095][/us/stat/122/2095]. Provisions relating to a Biomass Research and Development Technical Advisory Committee are now contained in [section 8108(d) of title 7][/us/usc/t7/s8108/d], Agriculture.
 
 ----------
 
@@ -59,10 +59,10 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/109/58/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1514
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1090
 [/us/usc/t7/s8605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8605
-[/us/pl/110/246/s9001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs9001%2Fb
+[/us/pl/110/246/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIX
 [/us/stat/122/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2095
 [/us/usc/t7/s8108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8108%2Fd
 

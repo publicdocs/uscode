@@ -49,7 +49,7 @@
 
         (3) destroyed, once the purpose for which the record was requested has been accomplished.
 
-([Pub. L. 105–276, title V, § 578][/us/pl/105/276/s578], Oct. 21, 1998, [112 Stat. 2641][/us/stat/112/2641].)
+([Pub. L. 105–276, title V][/us/pl/105/276/tV], § 578, Oct. 21, 1998, [112 Stat. 2641][/us/stat/112/2641].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t42/s13664/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13664%2Fa%2F2
-[/us/pl/105/276/s578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs578
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2641
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

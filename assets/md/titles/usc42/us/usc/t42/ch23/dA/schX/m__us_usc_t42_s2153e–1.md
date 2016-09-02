@@ -17,7 +17,7 @@
 
     No environmental rule, regulation, or procedure shall become effective with regard to exports subject to the provisions of [22 U.S.C. 3201][/us/usc/t22/s3201] et seq., the Nuclear Non-Proliferation Act of 1978, until such time as the President has reported to Congress on the progress achieved pursuant to section 407 of the Act ([42 U.S.C. 2153e][/us/usc/t42/s2153e]) entitled “Protection of the Environment” which requires the President to seek to provide, in agreements required under the Act, for cooperation between the parties in protecting the environment from radioactive, chemical or thermal contaminations arising from peaceful nuclear activities.
 
-([Pub. L. 95–630, title XIX, § 1913][/us/pl/95/630/s1913], Nov. 10, 1978, [92 Stat. 3727][/us/stat/92/3727].)
+([Pub. L. 95–630, title XIX][/us/pl/95/630/tXIX], § 1913, Nov. 10, 1978, [92 Stat. 3727][/us/stat/92/3727].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 [/us/usc/t42/s2153e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153e
-[/us/pl/95/630/s1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1913
+[/us/pl/95/630/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXIX
 [/us/stat/92/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3727
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

@@ -47,7 +47,7 @@
 
         Not later than 5 years after August 8, 2005, the Secretary shall provide to Congress a report on the economic and technical potential for electricity or hydrogen production, with or without cogeneration, with concentrating solar power, including the economic and technical feasibility of potential construction of a pilot demonstration facility suitable for commercial production of electricity or hydrogen from concentrating solar power.
 
-([Pub. L. 109–58, title IX, § 934][/us/pl/109/58/s934], Aug. 8, 2005, [119 Stat. 872][/us/stat/119/872].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 934, Aug. 8, 2005, [119 Stat. 872][/us/stat/119/872].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs934
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F872
 
 

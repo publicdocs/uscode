@@ -61,7 +61,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 522, as added [Pub. L. 90–448, title X, § 1002][/us/pl/90/448/s1002], Aug. 1, 1968, [82 Stat. 551][/us/stat/82/551]; amended [Pub. L. 98–479, title II, § 201(c)][/us/pl/98/479/s201/c], Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228]; [Pub. L. 100–242, title III, § 316(e)][/us/pl/100/242/s316/e], Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 522, as added [Pub. L. 90–448, title X][/us/pl/90/448/tX], § 1002, Aug. 1, 1968, [82 Stat. 551][/us/stat/82/551]; amended [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 201(c), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228]; [Pub. L. 100–242, title III][/us/pl/100/242/tIII], § 316(e), Feb. 5, 1988, [101 Stat. 1898][/us/stat/101/1898].)
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __Office of Economic Opportunity__ 
 
-    [Pub. L. 93–644, § 9(a)][/us/pl/93/644/s9/a], Jan. 4, 1975, [88 Stat. 2310][/us/stat/88/2310] \[[42 U.S.C. 2941][/us/usc/t42/s2941]\], amended the Economic Opportunity Act of 1964 \[[42 U.S.C. 2701][/us/usc/t42/s2701] et seq.\] to create the Community Services Administration, an independent agency in the executive branch, as the successor authority to the Office of Economic Opportunity, and provided that references to the Office of Economic Opportunity or to its Director were deemed to refer to the Community Services Administration or to its Director. The Community Services Administration was terminated when the Economic Opportunity Act of 1964, except for titles VIII and X, was repealed, effective Oct. 1, 1981, by [section 683(a) of Pub. L. 97–35][/us/pl/97/35/s683/a], title VI, Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519] ([42 U.S.C. 9912(a)][/us/usc/t42/s9912/a]). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by [section 676 of Pub. L. 97–35][/us/pl/97/35/s676] ([42 U.S.C. 9905][/us/usc/t42/s9905]).
+    [Pub. L. 93–644][/us/pl/93/644], § 9(a), Jan. 4, 1975, [88 Stat. 2310][/us/stat/88/2310] \[[42 U.S.C. 2941][/us/usc/t42/s2941]\], amended the Economic Opportunity Act of 1964 \[[42 U.S.C. 2701][/us/usc/t42/s2701] et seq.\] to create the Community Services Administration, an independent agency in the executive branch, as the successor authority to the Office of Economic Opportunity, and provided that references to the Office of Economic Opportunity or to its Director were deemed to refer to the Community Services Administration or to its Director. The Community Services Administration was terminated when the Economic Opportunity Act of 1964, except for titles VIII and X, was repealed, effective Oct. 1, 1981, by [section 683(a) of Pub. L. 97–35][/us/pl/97/35/s683/a], title VI, Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519] ([42 U.S.C. 9912(a)][/us/usc/t42/s9912/a]). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by [section 676 of Pub. L. 97–35][/us/pl/97/35/s676] ([42 U.S.C. 9905][/us/usc/t42/s9905]).
 
 ----------
 
@@ -81,15 +81,15 @@
 ----------
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/90/448/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1002
+[/us/pl/90/448/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtX
 [/us/stat/82/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F551
-[/us/pl/98/479/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs201%2Fc
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2228
-[/us/pl/100/242/s316/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs316%2Fe
+[/us/pl/100/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIII
 [/us/stat/101/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1898
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/93/644/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs9%2Fa
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2310
 [/us/usc/t42/s2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2941
 [/us/usc/t42/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2701

@@ -67,7 +67,7 @@
 
             Such application shall be submitted at such time and in such manner, and shall contain such information, as the agency, territory, or Indian tribe may reasonably require.
 
-([Pub. L. 101–610, title I, § 113][/us/pl/101/610/s113], as added [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1471][/us/stat/123/1471].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 113, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1201, Apr. 21, 2009, [123 Stat. 1471][/us/stat/123/1471].)
 
  __References in Text__ 
 
@@ -75,9 +75,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 12525, [Pub. L. 101–610, title I, § 113][/us/pl/101/610/s113], as added [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], Sept. 21, 1993, [107 Stat. 829][/us/stat/107/829], related to submission and contents of State or tribal applications, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
+    A prior section 12525, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 113, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(a)(2), Sept. 21, 1993, [107 Stat. 829][/us/stat/107/829], related to submission and contents of State or tribal applications, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
 
-    Another prior section 12525, [Pub. L. 101–610, title I, § 115][/us/pl/101/610/s115], Nov. 16, 1990, [104 Stat. 3137][/us/stat/104/3137]; [Pub. L. 102–384, § 4][/us/pl/102/384/s4], Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], related to priority applications and private school participation, prior to repeal by [Pub. L. 103–82, § 103(a)(2)][/us/pl/103/82/s103/a/2].
+    Another prior section 12525, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 115, Nov. 16, 1990, [104 Stat. 3137][/us/stat/104/3137]; [Pub. L. 102–384][/us/pl/102/384], § 4, Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], related to priority applications and private school participation, prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 103(a)(2).
 
     A prior [section 113 of Pub. L. 101–610][/us/pl/101/610/s113] was classified to [section 12523 of this title][/us/usc/t42/s12523] prior to repeal by [Pub. L. 103–82][/us/pl/103/82].
 
@@ -98,20 +98,20 @@
 [/us/usc/t42/s12523/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523%2Fa%2F2
 [/us/usc/t42/s12523/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523%2Fa%2F3
 [/us/usc/t42/s12523/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523%2Fa%2F4
-[/us/pl/101/610/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs113
-[/us/pl/111/13/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1201
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1471
 [/us/usc/t42/s12521/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12521%2Fa%2F5
 [/us/usc/t42/s12523/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523%2Fa%2F5
-[/us/pl/101/610/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs113
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F829
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
-[/us/pl/101/610/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs115
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3137
-[/us/pl/102/384/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs4
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1455
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs113
 [/us/usc/t42/s12523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

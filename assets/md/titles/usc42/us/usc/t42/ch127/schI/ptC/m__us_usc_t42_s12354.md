@@ -23,7 +23,7 @@
 
     (3) the development of simple evaluation models for use by local family resource and support programs.
 
-([Pub. L. 101–501, title IX, § 959][/us/pl/101/501/s959], Nov. 3, 1990, [104 Stat. 1279][/us/stat/104/1279].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 959, Nov. 3, 1990, [104 Stat. 1279][/us/stat/104/1279].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs959
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1279
 
 

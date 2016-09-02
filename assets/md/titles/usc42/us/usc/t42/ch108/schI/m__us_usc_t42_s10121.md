@@ -23,7 +23,7 @@
 
         Following the receipt of any notification under subsection (a) of this section, the State or Indian tribe involved shall be entitled, with respect to the proposed repository involved, to rights of participation and consultation identical to those provided in sections 10135 through 10138 of this title, except that any financial assistance authorized to be provided to such State or affected Indian tribe under section 10136(c) or 10138(b) of this title shall be made from amounts appropriated to the Secretary for purposes of carrying out this section.
 
-([Pub. L. 97–425, title I, § 101][/us/pl/97/425/s101], Jan. 7, 1983, [96 Stat. 2206][/us/stat/96/2206].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 101, Jan. 7, 1983, [96 Stat. 2206][/us/stat/96/2206].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s10107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10107
-[/us/pl/97/425/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs101
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2206
 
 

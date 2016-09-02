@@ -37,7 +37,7 @@
 
             For purposes of this subsection, the term “small scale portable power device” means a field-deployable portable mechanical or electromechanical device that can be used for applications such as communications, computation, mobility enhancement, weapons systems, optical devices, cooling, sensors, medical devices, and active biological agent detection systems.
 
-([Pub. L. 109–58, title IX, § 924][/us/pl/109/58/s924], Aug. 8, 2005, [119 Stat. 865][/us/stat/119/865].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 924, Aug. 8, 2005, [119 Stat. 865][/us/stat/119/865].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs924
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F865
 
 

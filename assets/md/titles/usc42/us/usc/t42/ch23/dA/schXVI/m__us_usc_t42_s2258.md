@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_ch23_dA_schXVI.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2251...2257.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
 
 ## § 2258. Joint Committee on Atomic Energy abolished
 
@@ -27,19 +27,19 @@
 
         All records, data, charts, and files of the Joint Committee on Atomic Energy are transferred to the committees of the Senate and House of Representatives which, under the rules of the Senate and the House, have jurisdiction over the subject matters to which such records, data, charts, and files relate. In the event that any record, data, chart, or file shall be within the jurisdiction of more than one committee, duplicate copies shall be provided upon request.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 301, as added [Pub. L. 95–110, § 1][/us/pl/95/110/s1], Sept. 20, 1977, [91 Stat. 884][/us/stat/91/884]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 301, as added [Pub. L. 95–110][/us/pl/95/110], § 1, Sept. 20, 1977, [91 Stat. 884][/us/stat/91/884]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_ch23_dA_schXVI.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2251...2257.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
 
 ----------
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/110/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F110%2Fs1
+[/us/pl/95/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F110
 [/us/stat/91/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F884
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 
 

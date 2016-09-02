@@ -17,11 +17,11 @@
 
     The Secretary, when authorized in an appropriation Act, in any fiscal year, may transfer funds from one appropriation to another within the Department, except that no appropriation shall be either increased or decreased pursuant to this section by more than 5 per centum of the appropriation for such fiscal year.
 
-([Pub. L. 95–91, title VI, § 659][/us/pl/95/91/s659], Aug. 4, 1977, [91 Stat. 604][/us/stat/91/604].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 659, Aug. 4, 1977, [91 Stat. 604][/us/stat/91/604].)
 
  __Costs of Defined Benefit Pension Plans for Contractor Employees__ 
 
-[Pub. L. 111–85, title III, § 308][/us/pl/111/85/s308], Oct. 28, 2009, [123 Stat. 2872][/us/stat/123/2872], provided that:
+[Pub. L. 111–85, title III][/us/pl/111/85/tIII], § 308, Oct. 28, 2009, [123 Stat. 2872][/us/stat/123/2872], provided that:
 
 >     “(a) In any fiscal year in which the Secretary of Energy determines that additional funds are needed to reimburse the costs of defined benefit pension plans for contractor employees, the Secretary may transfer not more than 1 percent from each appropriation made available in this and subsequent Energy and Water Development Appropriation Acts to any other appropriation available to the Secretary in the same Act for such reimbursements.
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/95/91/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs659
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F604
-[/us/pl/111/85/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs308
+[/us/pl/111/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtIII
 [/us/stat/123/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2872
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s16511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16511

@@ -27,7 +27,7 @@
 
         (2) any group health plan maintained for employees by the government of the District of Columbia or any territory or possession of the United States or any agency or instrumentality.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2201, as added [Pub. L. 99–272, title X, § 10003(a)][/us/pl/99/272/s10003/a], Apr. 7, 1986, [100 Stat. 232][/us/stat/100/232]; amended [Pub. L. 101–239, title VI, § 6801(a)(1)][/us/pl/101/239/s6801/a/1], Dec. 19, 1989, [103 Stat. 2296][/us/stat/103/2296].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2201, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10003(a), Apr. 7, 1986, [100 Stat. 232][/us/stat/100/232]; amended [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6801(a)(1), Dec. 19, 1989, [103 Stat. 2296][/us/stat/103/2296].)
 
  __Amendments__ 
 
@@ -35,13 +35,13 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VI, § 6801(a)(2)][/us/pl/101/239/s6801/a/2], Dec. 19, 1989, [103 Stat. 2297][/us/stat/103/2297], provided that: 
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6801(a)(2), Dec. 19, 1989, [103 Stat. 2297][/us/stat/103/2297], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to years beginning after December 31, 1986.”
 
  __Effective Date__ 
 
-[Pub. L. 99–272, title X, § 10003(b)][/us/pl/99/272/s10003/b], Apr. 7, 1986, [100 Stat. 236][/us/stat/100/236], provided that:
+[Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10003(b), Apr. 7, 1986, [100 Stat. 236][/us/stat/100/236], provided that:
 
 >     “(1)  __General rule__  __.—__ 
 
@@ -65,15 +65,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/272/s10003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10003%2Fa
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F232
-[/us/pl/101/239/s6801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6801%2Fa%2F1
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2296
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs52
-[/us/pl/101/239/s6801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6801%2Fa%2F2
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2297
-[/us/pl/99/272/s10003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10003%2Fb
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F236
 
 

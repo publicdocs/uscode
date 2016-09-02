@@ -113,7 +113,7 @@
 
             (B) the removal, to a site in the State of Utah, for permanent disposition and any necessary stabilization, of residual radioactive material and other contaminated material from the Moab site and the floodplain of the Colorado River.
 
-([Pub. L. 95–604, title I, § 102][/us/pl/95/604/s102], Nov. 8, 1978, [92 Stat. 3023][/us/stat/92/3023]; [Pub. L. 97–415, § 21][/us/pl/97/415/s21], Jan. 4, 1983, [96 Stat. 2079][/us/stat/96/2079]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXIV, § 3403(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–489.)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 102, Nov. 8, 1978, [92 Stat. 3023][/us/stat/92/3023]; [Pub. L. 97–415][/us/pl/97/415], § 21, Jan. 4, 1983, [96 Stat. 2079][/us/stat/96/2079]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXIV, § 3403(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–489.)
 
  __References in Text__ 
 
@@ -139,11 +139,11 @@
 [/us/usc/t42/s7917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7917
 [/us/usc/t10/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7420
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/95/604/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs102
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3023
-[/us/pl/97/415/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs21
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2079
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/92/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F314
 [/us/pl/92/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F314

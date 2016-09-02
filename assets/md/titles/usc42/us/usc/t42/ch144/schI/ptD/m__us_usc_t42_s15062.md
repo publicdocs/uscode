@@ -43,7 +43,7 @@
 
         (3) a high concentration of unserved or underserved populations.
 
-([Pub. L. 106–402, title I, § 152][/us/pl/106/402/s152], Oct. 30, 2000, [114 Stat. 1719][/us/stat/114/1719].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 152, Oct. 30, 2000, [114 Stat. 1719][/us/stat/114/1719].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t42/s15063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fb
 [/us/usc/t42/s15061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15061%2Fa
 [/us/usc/t42/s15063/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fa
-[/us/pl/106/402/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs152
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1719
 
 

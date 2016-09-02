@@ -41,7 +41,7 @@
 
         There are authorized to be appropriated such sums as may be necessary for fiscal years 2007 through 2009 to carry out this section.
 
-([Pub. L. 109–248, title VI, § 625][/us/pl/109/248/s625], July 27, 2006, [120 Stat. 636][/us/stat/120/636].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 625, July 27, 2006, [120 Stat. 636][/us/stat/120/636].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs625
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F636
 
 

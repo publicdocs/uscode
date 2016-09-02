@@ -77,7 +77,7 @@
 
         The National Aeronautics and Space Administration is authorized to undertake and carry out those programs assigned to it by the Project.
 
-([Pub. L. 93–473, § 4][/us/pl/93/473/s4], Oct. 26, 1974, [88 Stat. 1432][/us/stat/88/1432].)
+([Pub. L. 93–473][/us/pl/93/473], § 4, Oct. 26, 1974, [88 Stat. 1432][/us/stat/88/1432].)
 
  __Transfer of Functions__ 
 
@@ -97,7 +97,7 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/93/473/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs4
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1432
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t42/s5814/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5814%2Ff

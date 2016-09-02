@@ -57,7 +57,7 @@
 
         The term “public building” means any building (or portion thereof) owned or leased for use by a Federal agency.
 
-([Pub. L. 108–21, title III, § 362][/us/pl/108/21/s362], Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665].)
+([Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 362, Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665].)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/108/21/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs362
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F665
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/108/21/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs361

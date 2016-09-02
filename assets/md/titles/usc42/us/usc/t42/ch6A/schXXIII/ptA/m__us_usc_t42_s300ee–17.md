@@ -83,7 +83,7 @@
 
             (C) any State informing the Secretary that the State does not intend to expend the full amount of the allotment made to the State.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2507, as added [Pub. L. 100–607, title II, § 221][/us/pl/100/607/s221], Nov. 4, 1988, [102 Stat. 3098][/us/stat/102/3098]; amended [Pub. L. 100–690, title II, § 2619(e)][/us/pl/100/690/s2619/e] \[(f)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV and amended [Pub. L. 101–93, § 5(e)(1)][/us/pl/101/93/s5/e/1], (2), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2507, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 221, Nov. 4, 1988, [102 Stat. 3098][/us/stat/102/3098]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2619(e) \[(f)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV and amended [Pub. L. 101–93][/us/pl/101/93], § 5(e)(1), (2), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
 
  __Prior Provisions__ 
 
@@ -91,17 +91,17 @@
 
  __Amendments__ 
 
-    1989—Subsec. (a). [Pub. L. 101–93, § 5(e)(2)][/us/pl/101/93/s5/e/2], substituted “Subject to the extent of amounts made available in appropriation Acts, the allotment” for “The allotment”.
+    1989—Subsec. (a). [Pub. L. 101–93][/us/pl/101/93], § 5(e)(2), substituted “Subject to the extent of amounts made available in appropriation Acts, the allotment” for “The allotment”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–690, § 2619(e)(1)][/us/pl/100/690/s2619/e/1] \[(f)(1)\], substituted “applicable amount specified” for “amount described”.
+    1988—Subsec. (a)(1). [Pub. L. 100–690][/us/pl/100/690], § 2619(e)(1) \[(f)(1)\], substituted “applicable amount specified” for “amount described”.
 
-    Subsec. (b)(1). [Pub. L. 100–690, § 2619(e)(2)(A)(i)][/us/pl/100/690/s2619/e/2/A/i] \[(f)(2)(A)(i)\], made technical amendment to reference to [section 300ee–24(a) of this title][/us/usc/t42/s300ee–24/a] to correct reference to corresponding provision of original act.
+    Subsec. (b)(1). [Pub. L. 100–690][/us/pl/100/690], § 2619(e)(2)(A)(i) \[(f)(2)(A)(i)\], made technical amendment to reference to [section 300ee–24(a) of this title][/us/usc/t42/s300ee–24/a] to correct reference to corresponding provision of original act.
 
-    [Pub. L. 100–690, § 2619(e)(2)(A)(ii)][/us/pl/100/690/s2619/e/2/A/ii] \[(f)(2)(A)(ii)\], substituted “subsection (a)(1) of this section shall be” for “subsection (a)(1) of this section is”.
+    [Pub. L. 100–690][/us/pl/100/690], § 2619(e)(2)(A)(ii) \[(f)(2)(A)(ii)\], substituted “subsection (a)(1) of this section shall be” for “subsection (a)(1) of this section is”.
 
-    Subsec. (b)(2), (3). [Pub. L. 100–690, § 2619(e)(2)(B)][/us/pl/100/690/s2619/e/2/B], (C) \[(f)(2)(B), (C)\], substituted “subsection (a)(1) of this section shall be” for “subsection (a)(1) of this section is”.
+    Subsec. (b)(2), (3). [Pub. L. 100–690][/us/pl/100/690], § 2619(e)(2)(B), (C) \[(f)(2)(B), (C)\], substituted “subsection (a)(1) of this section shall be” for “subsection (a)(1) of this section is”.
 
-    Subsec. (d). [Pub. L. 100–690, § 2619(e)(3)][/us/pl/100/690/s2619/e/3] \[(f)(3)\], substituted “allotment under [section 300ee–11(a) of this title][/us/usc/t42/s300ee–11/a]” for “allotment” in par. (1) and “[section 300ee–13 of this title][/us/usc/t42/s300ee–13]” for “[section 300ee–17 of this title][/us/usc/t42/s300ee–17]” in par. (2)(A).
+    Subsec. (d). [Pub. L. 100–690][/us/pl/100/690], § 2619(e)(3) \[(f)(3)\], substituted “allotment under [section 300ee–11(a) of this title][/us/usc/t42/s300ee–11/a]” for “allotment” in par. (1) and “[section 300ee–13 of this title][/us/usc/t42/s300ee–13]” for “[section 300ee–17 of this title][/us/usc/t42/s300ee–17]” in par. (2)(A).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -125,20 +125,20 @@
 [/us/usc/t42/s300ee–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9311%2Fa
 [/us/usc/t42/s300ee–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9313
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs221
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3098
-[/us/pl/100/690/s2619/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fe
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4243
-[/us/pl/101/93/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
 [/us/usc/t42/s238f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238f
-[/us/pl/101/93/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F2
-[/us/pl/100/690/s2619/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fe%2F1
-[/us/pl/100/690/s2619/e/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fe%2F2%2FA%2Fi
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s300ee–24/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9324%2Fa
-[/us/pl/100/690/s2619/e/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fe%2F2%2FA%2Fii
-[/us/pl/100/690/s2619/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fe%2F2%2FB
-[/us/pl/100/690/s2619/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fe%2F3
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s300ee–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9311%2Fa
 [/us/usc/t42/s300ee–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9313
 [/us/usc/t42/s300ee–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9317

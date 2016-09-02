@@ -31,7 +31,7 @@
 
         The Commission shall be considered to be an agency for the purposes of [section 552b of title 5][/us/usc/t5/s552b] relating to the requirement that meetings of Federal agencies be open to the public.
 
-([Pub. L. 103–322, title XXVII, § 270005][/us/pl/103/322/s270005], Sept. 13, 1994, [108 Stat. 2094][/us/stat/108/2094].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270005, Sept. 13, 1994, [108 Stat. 2094][/us/stat/108/2094].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/103/322/s270005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270005
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2094
 
 

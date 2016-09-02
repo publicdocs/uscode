@@ -23,7 +23,7 @@
 
     (3) analysis by each of the Program agencies of the effectiveness of the earthquake hazards mitigation programs and actions relating to its area of responsibility under the Program, and how those programs and actions could be strengthened.
 
-([Pub. L. 95–124, § 11][/us/pl/95/124/s11], as added [Pub. L. 101–614, § 11(a)][/us/pl/101/614/s11/a], Nov. 16, 1990, [104 Stat. 3239][/us/stat/104/3239].)
+([Pub. L. 95–124][/us/pl/95/124], § 11, as added [Pub. L. 101–614][/us/pl/101/614], § 11(a), Nov. 16, 1990, [104 Stat. 3239][/us/stat/104/3239].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 
  __Report on Funding of Program__ 
 
-    [Pub. L. 101–614, § 11(b)][/us/pl/101/614/s11/b], Nov. 16, 1990, [104 Stat. 3239][/us/stat/104/3239], directed Director of Federal Emergency Management Agency in consultation with other agencies of National Earthquake Hazards Reduction Program, not later than one year after Nov. 16, 1990, to report to Congress on possible options for funding a program for post-earthquake investigations, which would, at a minimum, consider funding such a program either by setting aside a percentage of disaster relief funds provided by Federal Emergency Management Agency after a major earthquake or by a revolving fund, and which would also include a recommendation on how the funding for such investigations would be allocated among the other Program agencies.
+    [Pub. L. 101–614][/us/pl/101/614], § 11(b), Nov. 16, 1990, [104 Stat. 3239][/us/stat/104/3239], directed Director of Federal Emergency Management Agency in consultation with other agencies of National Earthquake Hazards Reduction Program, not later than one year after Nov. 16, 1990, to report to Congress on possible options for funding a program for post-earthquake investigations, which would, at a minimum, consider funding such a program either by setting aside a percentage of disaster relief funds provided by Federal Emergency Management Agency after a major earthquake or by a revolving fund, and which would also include a recommendation on how the funding for such investigations would be allocated among the other Program agencies.
 
 ----------
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/95/124/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs11
-[/us/pl/101/614/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs11%2Fa
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3239
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/101/614/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs11%2Fb
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3239
 
 

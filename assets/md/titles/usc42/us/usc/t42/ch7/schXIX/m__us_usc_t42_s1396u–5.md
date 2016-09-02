@@ -241,11 +241,11 @@
 
             The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1935, as added and amended [Pub. L. 108–173, title I, § 103(a)(2)(B)][/us/pl/108/173/s103/a/2/B], (b)–(d)(1), Dec. 8, 2003, [117 Stat. 2154–2158][/us/stat/117/2154-2158]; [Pub. L. 109–91, title I, § 104(c)][/us/pl/109/91/s104/c], Oct. 20, 2005, [119 Stat. 2093][/us/stat/119/2093]; [Pub. L. 110–275, title I, § 113(b)][/us/pl/110/275/s113/b], July 15, 2008, [122 Stat. 2506][/us/stat/122/2506].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1935, as added and amended [Pub. L. 108–173, title I][/us/pl/108/173/tI], § 103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, [117 Stat. 2154–2158][/us/stat/117/2154-2158]; [Pub. L. 109–91, title I][/us/pl/109/91/tI], § 104(c), Oct. 20, 2005, [119 Stat. 2093][/us/stat/119/2093]; [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 113(b), July 15, 2008, [122 Stat. 2506][/us/stat/122/2506].)
 
  __References in Text__ 
 
-    No act with the title Federal Claims Collection Act of 1996, referred to in subsec. (c)(1)(C), has been enacted. However, [Pub. L. 89–508][/us/pl/89/508], July 19, 1966, [80 Stat. 308][/us/stat/80/308], was known as the Federal Claims Collection Act of 1966. Sections 2, 3, and 5 of [Pub. L. 89–508][/us/pl/89/508], which enacted sections 951, 952, and 954, respectively, of former Title 31, Money and Finance, were repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877], the first section of which enacted Title 31, Money and Finance. For disposition of sections of former Title 31 into revised Title 31, see Table preceding [section 101 of Title 31][/us/usc/t31/s101]. For complete classification of [Pub. L. 89–508][/us/pl/89/508] to the Code, see Tables.
+    No act with the title Federal Claims Collection Act of 1996, referred to in subsec. (c)(1)(C), has been enacted. However, [Pub. L. 89–508][/us/pl/89/508], July 19, 1966, [80 Stat. 308][/us/stat/80/308], was known as the Federal Claims Collection Act of 1966. Sections 2, 3, and 5 of [Pub. L. 89–508][/us/pl/89/508], which enacted sections 951, 952, and 954, respectively, of former Title 31, Money and Finance, were repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877], the first section of which enacted Title 31, Money and Finance. For disposition of sections of former Title 31 into revised Title 31, see Table preceding [section 101 of Title 31][/us/usc/t31/s101]. For complete classification of [Pub. L. 89–508][/us/pl/89/508] to the Code, see Tables.
 
     Parts A and B, referred to in subsec. (e)(3)(A)(ii)(I), probably means parts A and B of subchapter XVIII of this chapter. This subchapter does not contain parts.
 
@@ -259,15 +259,15 @@
 
     2005—Subsec. (c)(3)(B)(ii)(II). [Pub. L. 109–91][/us/pl/109/91] inserted “, including drugs described in subparagraph (K) of [section 1396r–8(d)(2) of this title][/us/usc/t42/s1396r–8/d/2]” after “[section 1395w–102(e) of this title][/us/usc/t42/s1395w–102/e]”.
 
-    2003—Subsec. (a). [Pub. L. 108–173, § 103(d)(1)(A)][/us/pl/108/173/s103/d/1/A], inserted “subject to subsection (e) of this section” after “[section 1396b(a) of this title][/us/usc/t42/s1396b/a]” in introductory provisions.
+    2003—Subsec. (a). [Pub. L. 108–173][/us/pl/108/173], § 103(d)(1)(A), inserted “subject to subsection (e) of this section” after “[section 1396b(a) of this title][/us/usc/t42/s1396b/a]” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 108–173, § 103(b)][/us/pl/108/173/s103/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–173][/us/pl/108/173], § 103(b), added subsec. (c).
 
-    Subsec. (c)(1)(C). [Pub. L. 108–173, § 103(d)(1)(B)][/us/pl/108/173/s103/d/1/B], which directed the amendment of subsec. (c)(1) by inserting “subject to subsection (e) of this section” after “[section 1396b(a)(1) of this title][/us/usc/t42/s1396b/a/1]”, was executed by making the insertion after “[section 1396b(a) of this title][/us/usc/t42/s1396b/a]” in subpar. (C) to reflect the probable intent of Congress.
+    Subsec. (c)(1)(C). [Pub. L. 108–173][/us/pl/108/173], § 103(d)(1)(B), which directed the amendment of subsec. (c)(1) by inserting “subject to subsection (e) of this section” after “[section 1396b(a)(1) of this title][/us/usc/t42/s1396b/a/1]”, was executed by making the insertion after “[section 1396b(a) of this title][/us/usc/t42/s1396b/a]” in subpar. (C) to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 108–173, § 103(c)][/us/pl/108/173/s103/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–173][/us/pl/108/173], § 103(c), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 108–173, § 103(d)(1)(C)][/us/pl/108/173/s103/d/1/C], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–173][/us/pl/108/173], § 103(d)(1)(C), added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -310,16 +310,16 @@
 [/us/usc/t42/s1395w–102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93102%2Fe
 [/us/usc/t42/s1395w–102/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93102%2Fb%2F6
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fa%2F2%2FB
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2154-2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2154-2158
-[/us/pl/109/91/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91%2Fs104%2Fc
+[/us/pl/109/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91%2FtI
 [/us/stat/119/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2093
-[/us/pl/110/275/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs113%2Fb
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2506
 [/us/pl/89/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F508
 [/us/stat/80/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F308
 [/us/pl/89/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F508
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/usc/t31/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs101
 [/us/pl/89/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F508
@@ -328,14 +328,14 @@
 [/us/pl/109/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91
 [/us/usc/t42/s1396r–8/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938%2Fd%2F2
 [/us/usc/t42/s1395w–102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93102%2Fe
-[/us/pl/108/173/s103/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fd%2F1%2FA
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1396b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa
-[/us/pl/108/173/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fb
-[/us/pl/108/173/s103/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fd%2F1%2FB
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1396b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa%2F1
 [/us/usc/t42/s1396b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa
-[/us/pl/108/173/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fc
-[/us/pl/108/173/s103/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fd%2F1%2FC
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/110/275/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs113%2Fc
 [/us/usc/t42/s1320b–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9314

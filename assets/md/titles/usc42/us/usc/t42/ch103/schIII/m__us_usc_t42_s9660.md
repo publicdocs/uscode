@@ -263,7 +263,7 @@
 
         The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b) of this section.
 
-([Pub. L. 96–510, title III, § 311][/us/pl/96/510/s311], as added [Pub. L. 99–499, title II, § 209(b)][/us/pl/99/499/s209/b], Oct. 17, 1986, [100 Stat. 1708][/us/stat/100/1708]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 311, as added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 209(b), Oct. 17, 1986, [100 Stat. 1708][/us/stat/100/1708]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -271,7 +271,7 @@
 
     The Public Health Service Act, referred to in subsec. (a)(4), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Title IV of the Public Health Service Act is classified generally to subchapter III (§ 281 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (f), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (f), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
  __Amendments__ 
 
@@ -385,7 +385,7 @@
 
  __Gulf Coast Hazardous Substance Research, Development, and Demonstration Center__ 
 
-[Pub. L. 99–499, title I, § 118][/us/pl/99/499/s118](l), Oct. 17, 1986, [100 Stat. 1660][/us/stat/100/1660], provided that:
+[Pub. L. 99–499, title I][/us/pl/99/499/tI], § 118(l), Oct. 17, 1986, [100 Stat. 1660][/us/stat/100/1660], provided that:
 
 >     “(1)  __Establishment of hazardous substance research, development, and demonstration center__  __.—__ 
 
@@ -407,7 +407,7 @@
 
  __Pacific Northwest Hazardous Substance Research, Development, and Demonstration Center__ 
 
-[Pub. L. 99–499, title I, § 118][/us/pl/99/499/s118](o), Oct. 17, 1986, [100 Stat. 1661][/us/stat/100/1661], provided that:
+[Pub. L. 99–499, title I][/us/pl/99/499/tI], § 118(o), Oct. 17, 1986, [100 Stat. 1661][/us/stat/100/1661], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -443,7 +443,7 @@
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 99–499, title II, § 209(a)][/us/pl/99/499/s209/a], Oct. 17, 1986, [100 Stat. 1708][/us/stat/100/1708], provided that: 
+[Pub. L. 99–499, title II][/us/pl/99/499/tII], § 209(a), Oct. 17, 1986, [100 Stat. 1708][/us/stat/100/1708], provided that: 
 
 > “The purposes of this section \[enacting this section\] are as follows:
 
@@ -478,10 +478,10 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/96/510/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs311
-[/us/pl/99/499/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs209%2Fb
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1708
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -491,7 +491,7 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -499,14 +499,14 @@
 [/us/stat/121/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1809
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/99/499/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs118
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1660
-[/us/pl/99/499/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs118
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1661
 [/us/usc/t35/s201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs201%2Fi
 [/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
 [/us/stat/94/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3020
-[/us/pl/99/499/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs209%2Fa
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1708
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

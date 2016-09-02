@@ -43,7 +43,7 @@
 
         The Institute and its officers and employees shall be subject to the provisions of [section 552 of title 5][/us/usc/t5/s552] relating to freedom of information.
 
-([Pub. L. 98–620, title II, § 205][/us/pl/98/620/s205], Nov. 8, 1984, [98 Stat. 3339][/us/stat/98/3339]; [Pub. L. 100–690, title VII, § 7321(b)(2)][/us/pl/100/690/s7321/b/2], Nov. 18, 1988, [102 Stat. 4466][/us/stat/102/4466]; [Pub. L. 100–702, title VI, § 602][/us/pl/100/702/s602], Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653]; [Pub. L. 108–372, § 3(a)][/us/pl/108/372/s3/a], (b), Oct. 25, 2004, [118 Stat. 1754][/us/stat/118/1754].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 205, Nov. 8, 1984, [98 Stat. 3339][/us/stat/98/3339]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7321(b)(2), Nov. 18, 1988, [102 Stat. 4466][/us/stat/102/4466]; [Pub. L. 100–702, title VI][/us/pl/100/702/tVI], § 602, Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653]; [Pub. L. 108–372][/us/pl/108/372], § 3(a), (b), Oct. 25, 2004, [118 Stat. 1754][/us/stat/118/1754].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c)(3). [Pub. L. 108–372, § 3(a)][/us/pl/108/372/s3/a], added par. (3).
+    2004—Subsec. (c)(3). [Pub. L. 108–372][/us/pl/108/372], § 3(a), added par. (3).
 
-    Subsec. (d)(2). [Pub. L. 108–372, § 3(b)][/us/pl/108/372/s3/b], inserted “, notwithstanding section 8914 of such title” after “(relating to health insurance)”.
+    Subsec. (d)(2). [Pub. L. 108–372][/us/pl/108/372], § 3(b), inserted “, notwithstanding section 8914 of such title” after “(relating to health insurance)”.
 
     1988—Subsec. (d)(2). [Pub. L. 100–690][/us/pl/100/690] and [Pub. L. 100–702][/us/pl/100/702] amended par. (2) identically, substituting “chapters 83 and 84” for “chapter 83”.
 
@@ -66,19 +66,19 @@
 
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/98/620/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs205
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3339
-[/us/pl/100/690/s7321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F2
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4466
-[/us/pl/100/702/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs602
+[/us/pl/100/702/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVI
 [/us/stat/102/4653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4653
-[/us/pl/108/372/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372%2Fs3%2Fa
+[/us/pl/108/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372
 [/us/stat/118/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1754
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336
 [/us/usc/t42/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10701
-[/us/pl/108/372/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372%2Fs3%2Fa
-[/us/pl/108/372/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372%2Fs3%2Fb
+[/us/pl/108/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372
+[/us/pl/108/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 

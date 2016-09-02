@@ -75,7 +75,7 @@
 
         The Secretary of the Army shall not pass the cost of any penalty assessed under this subchapter on to any customer, user, or other purchaser of drinking water from the Washington Aqueduct system, including finished water from the Dalecarlia or McMillan treatment plant.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1447, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1688][/us/stat/88/1688]; amended [Pub. L. 95–190, § 8(a)][/us/pl/95/190/s8/a], (d), Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396], 1397; [Pub. L. 104–182, title I, § 129(a)][/us/pl/104/182/s129/a], (c), Aug. 6, 1996, [110 Stat. 1660][/us/stat/110/1660], 1662.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1447, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1688][/us/stat/88/1688]; amended [Pub. L. 95–190][/us/pl/95/190], § 8(a), (d), Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396], 1397; [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 129(a), (c), Aug. 6, 1996, [110 Stat. 1660][/us/stat/110/1660], 1662.)
 
  __References in Text__ 
 
@@ -83,13 +83,13 @@
 
  __Amendments__ 
 
-    1996—Subsecs. (a) to (d). [Pub. L. 104–182, § 129(a)][/us/pl/104/182/s129/a], added subsecs. (a) to (c), redesignated former subsec. (c) as (d), and struck out former subsecs. (a) and (b) which related to compliance by Federal agencies with Federal, State, and local requirements respecting provision of safe drinking water and respecting underground injection programs, liability for civil penalties, and waiver of compliance requirements when necessary in interest of national security.
+    1996—Subsecs. (a) to (d). [Pub. L. 104–182][/us/pl/104/182], § 129(a), added subsecs. (a) to (c), redesignated former subsec. (c) as (d), and struck out former subsecs. (a) and (b) which related to compliance by Federal agencies with Federal, State, and local requirements respecting provision of safe drinking water and respecting underground injection programs, liability for civil penalties, and waiver of compliance requirements when necessary in interest of national security.
 
-    Subsec. (e). [Pub. L. 104–182, § 129(c)][/us/pl/104/182/s129/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–182][/us/pl/104/182], § 129(c), added subsec. (e).
 
-    1977—Subsec. (a). [Pub. L. 95–190, § 8(a)][/us/pl/95/190/s8/a], substituted provisions relating to compliance by Federal agencies having jurisdiction over federally owned or maintained public water systems, or engaged in underground injection activities with Federal, State, and local requirements, etc., for provisions relating to compliance by Federal agencies having jurisdiction over federally owned or maintained public water systems with national primary drinking water regulations.
+    1977—Subsec. (a). [Pub. L. 95–190][/us/pl/95/190], § 8(a), substituted provisions relating to compliance by Federal agencies having jurisdiction over federally owned or maintained public water systems, or engaged in underground injection activities with Federal, State, and local requirements, etc., for provisions relating to compliance by Federal agencies having jurisdiction over federally owned or maintained public water systems with national primary drinking water regulations.
 
-    Subsec. (c). [Pub. L. 95–190, § 8(d)][/us/pl/95/190/s8/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–190][/us/pl/95/190], § 8(d), added subsec. (c).
 
 ----------
 
@@ -100,18 +100,18 @@
 
 [/us/usc/t42/s300h/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%2Fd%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1688
-[/us/pl/95/190/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs8%2Fa
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1396
-[/us/pl/104/182/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs129%2Fa
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1660
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1393
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/104/182/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs129%2Fa
-[/us/pl/104/182/s129/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs129%2Fc
-[/us/pl/95/190/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs8%2Fa
-[/us/pl/95/190/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs8%2Fd
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

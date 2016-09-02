@@ -23,7 +23,7 @@
 
         The Director of NIH shall carry out this section through the appropriate institutes, including the National Institute of Neurological Disorders and Stroke and in collaboration with any other agencies that the Director determines appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409F, as added [Pub. L. 106–310, div. A, title XXII, § 2201][/us/pl/106/310/s2201], Oct. 17, 2000, [114 Stat. 1157][/us/stat/114/1157]; amended [Pub. L. 109–482, title I, § 103(b)(12)][/us/pl/109/482/s103/b/12], Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409F, as added [Pub. L. 106–310, div. A, title XXII][/us/pl/106/310/dA/tXXII], § 2201, Oct. 17, 2000, [114 Stat. 1157][/us/stat/114/1157]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(12), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2201
+[/us/pl/106/310/dA/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXII
 [/us/stat/114/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1157
-[/us/pl/109/482/s103/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F12
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

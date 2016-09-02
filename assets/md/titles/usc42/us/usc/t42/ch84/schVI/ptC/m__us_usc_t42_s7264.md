@@ -17,7 +17,7 @@
 
     The Secretary shall cause a seal of office to be made for the Department of such design as he shall approve and judicial notice shall be taken of such seal.
 
-([Pub. L. 95–91, title VI, § 654][/us/pl/95/91/s654], Aug. 4, 1977, [91 Stat. 602][/us/stat/91/602].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 654, Aug. 4, 1977, [91 Stat. 602][/us/stat/91/602].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs654
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F602
 
 

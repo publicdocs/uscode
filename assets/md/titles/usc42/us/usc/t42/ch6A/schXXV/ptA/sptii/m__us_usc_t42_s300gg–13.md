@@ -45,11 +45,11 @@
 
         The Secretary may develop guidelines to permit a group health plan and a health insurance issuer offering group or individual health insurance coverage to utilize value-based insurance designs.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2713, as added [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], Mar. 23, 2010, [124 Stat. 131][/us/stat/124/131].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2713, as added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), Mar. 23, 2010, [124 Stat. 131][/us/stat/124/131].)
 
  __Prior Provisions__ 
 
-    A prior section 300gg–13, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2713, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1966][/us/stat/110/1966], was renumbered section 2709 of act July 1, 1944, and transferred to [section 300gg–9 of this title][/us/usc/t42/s300gg–9] by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(3), 1563(c)(10)(C), formerly § 1562(c)(10)(C), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 268, 911.
+    A prior section 300gg–13, [act July 1, 1944, ch. 373, title XXVII][/us/act/1944-07-01/ch373/tXXVII], § 2713, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1966][/us/stat/110/1966], was renumbered section 2709 of act July 1, 1944, and transferred to [section 300gg–9 of this title][/us/usc/t42/s300gg–9] by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(3), 1563(c)(10)(C), formerly § 1562(c)(10)(C), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 268, 911.
 
     Another prior section 2713 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238l of this title.
 
@@ -65,13 +65,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F131
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/act/1944-07-01/ch373/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVII
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1966
 [/us/usc/t42/s300gg–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%939
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/pl/111/148/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311

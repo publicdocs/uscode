@@ -33,7 +33,7 @@
 
         Contracts under this part shall be for not more than 3 years and shall provide not more than 20 percent of the operating budget of the contracting organization in any one year. Within any fiscal year, contracts with any one organization may not be entered into for a total of more than 40 percent of the funds appropriated under this part in that fiscal year.
 
-([Pub. L. 101–625, title II, § 243][/us/pl/101/625/s243], Nov. 28, 1990, [104 Stat. 4118][/us/stat/104/4118]; [Pub. L. 111–8, div. I, title II, § 229(3)][/us/pl/111/8/s229/3], Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 243, Nov. 28, 1990, [104 Stat. 4118][/us/stat/104/4118]; [Pub. L. 111–8, div. I, title II][/us/pl/111/8/dI/tII], § 229(3), Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs243
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4118
-[/us/pl/111/8/s229/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs229%2F3
+[/us/pl/111/8/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdI%2FtII
 [/us/stat/123/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F978
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 

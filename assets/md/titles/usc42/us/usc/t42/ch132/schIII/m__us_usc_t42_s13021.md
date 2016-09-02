@@ -43,7 +43,7 @@
 
         The purpose of this subchapter is to provide expanded technical assistance and training to judicial personnel and attorneys, particularly personnel and practitioners in juvenile and family courts, to improve the judicial system’s handling of child abuse and neglect cases with specific emphasis on the role of the courts in addressing reasonable efforts that can safely avoid unnecessary and unnecessarily prolonged foster care placement.
 
-([Pub. L. 101–647, title II, § 221][/us/pl/101/647/s221], Nov. 29, 1990, [104 Stat. 4796][/us/stat/104/4796]; [Pub. L. 103–322, title IV, § 40156(b)(2)][/us/pl/103/322/s40156/b/2], Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 221, Nov. 29, 1990, [104 Stat. 4796][/us/stat/104/4796]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(b)(2), Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/101/647/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs221
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4796
-[/us/pl/103/322/s40156/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fb%2F2
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1923
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

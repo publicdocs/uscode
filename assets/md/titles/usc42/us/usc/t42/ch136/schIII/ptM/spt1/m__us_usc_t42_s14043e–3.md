@@ -127,15 +127,15 @@
 
         There are authorized to be appropriated $4,000,000 for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
 
-([Pub. L. 103–322, title IV, § 41404][/us/pl/103/322/s41404], as added [Pub. L. 109–162, title VI, § 601][/us/pl/109/162/s601], Jan. 5, 2006, [119 Stat. 3033][/us/stat/119/3033]; amended [Pub. L. 109–271, § 5(a)][/us/pl/109/271/s5/a], Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 113–4, title VI, § 603(1)][/us/pl/113/4/s603/1], Mar. 7, 2013, [127 Stat. 110][/us/stat/127/110].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41404, as added [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 601, Jan. 5, 2006, [119 Stat. 3033][/us/stat/119/3033]; amended [Pub. L. 109–271][/us/pl/109/271], § 5(a), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 603(1), Mar. 7, 2013, [127 Stat. 110][/us/stat/127/110].)
 
  __Amendments__ 
 
     2013—Subsec. (i). [Pub. L. 113–4][/us/pl/113/4] substituted “$4,000,000 for each of fiscal years 2014 through 2018” for “$10,000,000 for each of fiscal years 2007 through 2011”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–271, § 5(a)(1)][/us/pl/109/271/s5/a/1], substituted “for Children” for “of Children”.
+    2006—Subsec. (a)(1). [Pub. L. 109–271][/us/pl/109/271], § 5(a)(1), substituted “for Children” for “of Children”.
 
-    Subsec. (d). [Pub. L. 109–271, § 5(a)(2)][/us/pl/109/271/s5/a/2], struck out “(1) In general.—” before “Funds awarded to”, inserted “Such activities, services, or programs—” after “becoming homeless.”, substituted “(1)” for “(2) Activities, services, programs.—Such activities, services, or programs described in paragraph (1)”, redesignated pars. (3) to (5) as (2) to (4), respectively, and substituted “paragraph (2)” for “paragraph (3)” in par. (3), as so redesignated.
+    Subsec. (d). [Pub. L. 109–271][/us/pl/109/271], § 5(a)(2), struck out “(1) In general.—” before “Funds awarded to”, inserted “Such activities, services, or programs—” after “becoming homeless.”, substituted “(1)” for “(2) Activities, services, programs.—Such activities, services, or programs described in paragraph (1)”, redesignated pars. (3) to (5) as (2) to (4), respectively, and substituted “paragraph (2)” for “paragraph (3)” in par. (3), as so redesignated.
 
 ----------
 
@@ -145,15 +145,15 @@
 ----------
 
 [/us/usc/t42/s12745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12745
-[/us/pl/103/322/s41404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41404
-[/us/pl/109/162/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs601
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3033
-[/us/pl/109/271/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fa
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F759
-[/us/pl/113/4/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs603%2F1
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F110
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/109/271/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fa%2F1
-[/us/pl/109/271/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fa%2F2
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 
 

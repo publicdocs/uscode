@@ -113,7 +113,7 @@
 
         There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
 
-([Pub. L. 110–140, title VIII, § 803][/us/pl/110/140/s803], Dec. 19, 2007, [121 Stat. 1718][/us/stat/121/1718].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 803, Dec. 19, 2007, [121 Stat. 1718][/us/stat/121/1718].)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 [/us/usc/t42/s15852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15852%2Fb
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/110/140/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs803
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1718
 
 

@@ -1053,15 +1053,15 @@
 
         Where requirements or obligations under this section are identical to those provided under [section 1396r of this title][/us/usc/t42/s1396r], the fulfillment of those requirements or obligations under [section 1396r of this title][/us/usc/t42/s1396r] shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1819, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, [101 Stat. 1330–160][/us/stat/101/1330-160], 1330–175, 1330–179, 1330–182; [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, [102 Stat. 800–805][/us/stat/102/800-805], as amended [Pub. L. 100–485, title VI, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], (C), (D), (I), (L), Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422], 2423; [Pub. L. 101–239, title VI, § 6901(b)(1)][/us/pl/101/239/s6901/b/1], (3), (d)(4), Dec. 19, 1989, [103 Stat. 2298][/us/stat/103/2298], 2301; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, [104 Stat. 1388–46][/us/stat/104/1388-46] to 1388–50, 1388–54, 1388–116; [Pub. L. 102–375, title VII, § 708(a)(1)(A)][/us/pl/102/375/s708/a/1/A], Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, [108 Stat. 4406–4408][/us/stat/108/4406-4408]; [Pub. L. 105–15, § 1][/us/pl/105/15/s1], May 15, 1997, [111 Stat. 34][/us/stat/111/34]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4432(b)(5)(A), 4755(a), Aug. 5, 1997, [111 Stat. 421][/us/stat/111/421], 526; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 941(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 108–173, title VII, § 736(a)(8)][/us/pl/108/173/s736/a/8], title IX, § 932(c)(2), Dec. 8, 2003, [117 Stat. 2355][/us/stat/117/2355], 2401; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], 704, 706, 709, 713, 719, 720; [Pub. L. 113–185, § 2(c)(4)(B)][/us/pl/113/185/s2/c/4/B], Oct. 6, 2014, [128 Stat. 1966][/us/stat/128/1966].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1819, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], §§ 4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, [101 Stat. 1330–160][/us/stat/101/1330-160], 1330–175, 1330–179, 1330–182; [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(l)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, [102 Stat. 800–805][/us/stat/102/800-805], as amended [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422], 2423; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6901(b)(1), (3), (d)(4), Dec. 19, 1989, [103 Stat. 2298][/us/stat/103/2298], 2301; [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], §§ 4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, [104 Stat. 1388–46][/us/stat/104/1388-46] to 1388–50, 1388–54, 1388–116; [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 708(a)(1)(A), Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; [Pub. L. 103–432, title I][/us/pl/103/432/tI], §§ 106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, [108 Stat. 4406–4408][/us/stat/108/4406-4408]; [Pub. L. 105–15][/us/pl/105/15], § 1, May 15, 1997, [111 Stat. 34][/us/stat/111/34]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], §§ 4432(b)(5)(A), 4755(a), Aug. 5, 1997, [111 Stat. 421][/us/stat/111/421], 526; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 941(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 736(a)(8), title IX, § 932(c)(2), Dec. 8, 2003, [117 Stat. 2355][/us/stat/117/2355], 2401; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], §§ 6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], 704, 706, 709, 713, 719, 720; [Pub. L. 113–185][/us/pl/113/185], § 2(c)(4)(B), Oct. 6, 2014, [128 Stat. 1966][/us/stat/128/1966].)
 
  __Amendment of Subsection (d)(1)__ 
 
-    [Pub. L. 111–148, title VI, § 6101(c)(1)(A)][/us/pl/111/148/s6101/c/1/A], (2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.
+    [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6101(c)(1)(A), (2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 
-    The Older Americans Act of 1965, referred to in subsecs. (b)(4)(C)(ii)(IV), (c)(2)(B)(iii)(II), and (g)(5)(B), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218]. Section 307(a)(12) of the Act was repealed by [Pub. L. 106–501, title III, § 306(5)][/us/pl/106/501/s306/5], Nov. 13, 2000, [114 Stat. 2244][/us/stat/114/2244]. Similar provisions are now contained in section 307(a)(9) of the Act, which is classified to [section 3027(a)(9) of this title][/us/usc/t42/s3027/a/9]. Titles III and VII of the Act are classified generally to subchapters III (§ 3021 et seq.) and XI (§ 3058 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
+    The Older Americans Act of 1965, referred to in subsecs. (b)(4)(C)(ii)(IV), (c)(2)(B)(iii)(II), and (g)(5)(B), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218]. Section 307(a)(12) of the Act was repealed by [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 306(5), Nov. 13, 2000, [114 Stat. 2244][/us/stat/114/2244]. Similar provisions are now contained in section 307(a)(9) of the Act, which is classified to [section 3027(a)(9) of this title][/us/usc/t42/s3027/a/9]. Titles III and VII of the Act are classified generally to subchapters III (§ 3021 et seq.) and XI (§ 3058 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
     Subparagraphs (B), (C), and (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989 \[[Pub. L. 101–239][/us/pl/101/239]\], referred to in subsec. (e)(2)(A), are set out below.
 
@@ -1071,269 +1071,269 @@
 
     2014—Subsec. (i)(3). [Pub. L. 113–185][/us/pl/113/185] added par. (3).
 
-    2010—Subsec. (b)(5)(F). [Pub. L. 111–148, § 6121(a)(2)][/us/pl/111/148/s6121/a/2], inserted concluding provisions.
+    2010—Subsec. (b)(5)(F). [Pub. L. 111–148][/us/pl/111/148], § 6121(a)(2), inserted concluding provisions.
 
-    Subsec. (d)(1)(B). [Pub. L. 111–148, § 6101(c)(1)(A)][/us/pl/111/148/s6101/c/1/A], redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to required notice to a State licensing agency of change in ownership, control interest, management, or certain positions of responsibility for a skilled nursing facility.
+    Subsec. (d)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 6101(c)(1)(A), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to required notice to a State licensing agency of change in ownership, control interest, management, or certain positions of responsibility for a skilled nursing facility.
 
-    Subsec. (d)(1)(C). [Pub. L. 111–148, § 6103(c)(1)][/us/pl/111/148/s6103/c/1], added subpar. (C). Former subpar. (C) redesignated (B).
+    Subsec. (d)(1)(C). [Pub. L. 111–148][/us/pl/111/148], § 6103(c)(1), added subpar. (C). Former subpar. (C) redesignated (B).
 
-    Subsec. (f)(2)(A)(i)(I). [Pub. L. 111–148, § 6121(a)(1)][/us/pl/111/148/s6121/a/1], inserted “(including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training” after “curriculum”.
+    Subsec. (f)(2)(A)(i)(I). [Pub. L. 111–148][/us/pl/111/148], § 6121(a)(1), inserted “(including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training” after “curriculum”.
 
-    Subsec. (f)(8). [Pub. L. 111–148, § 6103(a)(3)][/us/pl/111/148/s6103/a/3], added par. (8).
+    Subsec. (f)(8). [Pub. L. 111–148][/us/pl/111/148], § 6103(a)(3), added par. (8).
 
-    Subsec. (g)(5)(E). [Pub. L. 111–148, § 6103(a)(2)(A)][/us/pl/111/148/s6103/a/2/A], added subpar. (E).
+    Subsec. (g)(5)(E). [Pub. L. 111–148][/us/pl/111/148], § 6103(a)(2)(A), added subpar. (E).
 
-    Subsec. (h)(2)(B)(ii). [Pub. L. 111–148, § 6111(a)(1)][/us/pl/111/148/s6111/a/1], designated existing provisions as subcl. (I), inserted heading, substituted “Subject to subclause (II), the Secretary” for “The Secretary”, and added subcls. (II) to (IV).
+    Subsec. (h)(2)(B)(ii). [Pub. L. 111–148][/us/pl/111/148], § 6111(a)(1), designated existing provisions as subcl. (I), inserted heading, substituted “Subject to subclause (II), the Secretary” for “The Secretary”, and added subcls. (II) to (IV).
 
-    Subsec. (h)(4). [Pub. L. 111–148, § 6113(b)][/us/pl/111/148/s6113/b], substituted “the Secretary, subject to [section 1320a–7(h) of this title][/us/usc/t42/s1320a–7/h], shall terminate” for “the Secretary shall terminate” and “subsection (c)(2) and [section 1320a–7j(h) of this title][/us/usc/t42/s1320a–7j/h]” for “subsection (c)(2)”.
+    Subsec. (h)(4). [Pub. L. 111–148][/us/pl/111/148], § 6113(b), substituted “the Secretary, subject to [section 1320a–7(h) of this title][/us/usc/t42/s1320a–7/h], shall terminate” for “the Secretary shall terminate” and “subsection (c)(2) and [section 1320a–7j(h) of this title][/us/usc/t42/s1320a–7j/h]” for “subsection (c)(2)”.
 
-    Subsec. (h)(5). [Pub. L. 111–148, § 6111(a)(2)][/us/pl/111/148/s6111/a/2], inserted “(ii)(IV),” after “(i),”.
+    Subsec. (h)(5). [Pub. L. 111–148][/us/pl/111/148], § 6111(a)(2), inserted “(ii)(IV),” after “(i),”.
 
-    Subsecs. (i), (j). [Pub. L. 111–148, § 6103(a)(1)][/us/pl/111/148/s6103/a/1], added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 111–148][/us/pl/111/148], § 6103(a)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-    2003—Subsec. (b)(4)(C)(i). [Pub. L. 108–173, § 736(a)(8)(A)][/us/pl/108/173/s736/a/8/A], substituted “at least” for “at least at least”.
+    2003—Subsec. (b)(4)(C)(i). [Pub. L. 108–173][/us/pl/108/173], § 736(a)(8)(A), substituted “at least” for “at least at least”.
 
-    Subsec. (d)(1)(A). [Pub. L. 108–173, § 736(a)(8)(B)][/us/pl/108/173/s736/a/8/B], substituted “physical, mental” for “physical mental”.
+    Subsec. (d)(1)(A). [Pub. L. 108–173][/us/pl/108/173], § 736(a)(8)(B), substituted “physical, mental” for “physical mental”.
 
-    Subsec. (f)(2)(B)(iii). [Pub. L. 108–173, § 932(c)(2)(A)][/us/pl/108/173/s932/c/2/A], substituted “subparagraphs (C) and (D)” for “subparagraph (C)” in introductory provisions.
+    Subsec. (f)(2)(B)(iii). [Pub. L. 108–173][/us/pl/108/173], § 932(c)(2)(A), substituted “subparagraphs (C) and (D)” for “subparagraph (C)” in introductory provisions.
 
-    [Pub. L. 108–173, § 736(a)(8)(C)][/us/pl/108/173/s736/a/8/C], realigned margins of concluding provisions.
+    [Pub. L. 108–173][/us/pl/108/173], § 736(a)(8)(C), realigned margins of concluding provisions.
 
-    Subsec. (f)(2)(D). [Pub. L. 108–173, § 932(c)(2)(B)][/us/pl/108/173/s932/c/2/B], added subpar. (D).
+    Subsec. (f)(2)(D). [Pub. L. 108–173][/us/pl/108/173], § 932(c)(2)(B), added subpar. (D).
 
     2000–Subsec. (b)(8). [Pub. L. 106–554][/us/pl/106/554] added par. (8).
 
-    1997—Subsec. (b)(3)(C)(i). [Pub. L. 105–33, § 4432(b)(5)(A)][/us/pl/105/33/s4432/b/5/A], substituted “Subject to the timeframes prescribed by the Secretary under [section 1395yy(e)(6) of this title][/us/usc/t42/s1395yy/e/6], such” for “Such” in introductory provisions.
+    1997—Subsec. (b)(3)(C)(i). [Pub. L. 105–33][/us/pl/105/33], § 4432(b)(5)(A), substituted “Subject to the timeframes prescribed by the Secretary under [section 1395yy(e)(6) of this title][/us/usc/t42/s1395yy/e/6], such” for “Such” in introductory provisions.
 
-    Subsec. (f)(2)(B)(iii). [Pub. L. 105–15, § 1(1)][/us/pl/105/15/s1/1], inserted “subject to subparagraph (C),” after “(iii)”.
+    Subsec. (f)(2)(B)(iii). [Pub. L. 105–15][/us/pl/105/15], § 1(1), inserted “subject to subparagraph (C),” after “(iii)”.
 
-    Subsec. (f)(2)(C). [Pub. L. 105–15, § 1(2)][/us/pl/105/15/s1/2], added subpar. (C).
+    Subsec. (f)(2)(C). [Pub. L. 105–15][/us/pl/105/15], § 1(2), added subpar. (C).
 
-    Subsec. (g)(1)(D), (E). [Pub. L. 105–33, § 4755(a)][/us/pl/105/33/s4755/a], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (g)(1)(D), (E). [Pub. L. 105–33][/us/pl/105/33], § 4755(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    1994—Subsec. (b)(3)(C)(i)(I). [Pub. L. 103–432, § 110(b)][/us/pl/103/432/s110/b], substituted “but no later than 14 days” for “but no later than not later than 14 days”.
+    1994—Subsec. (b)(3)(C)(i)(I). [Pub. L. 103–432][/us/pl/103/432], § 110(b), substituted “but no later than 14 days” for “but no later than not later than 14 days”.
 
-    Subsec. (b)(5)(D). [Pub. L. 103–432, § 106(d)(1)][/us/pl/103/432/s106/d/1], struck out comma before “or a new competency evaluation program”.
+    Subsec. (b)(5)(D). [Pub. L. 103–432][/us/pl/103/432], § 106(d)(1), struck out comma before “or a new competency evaluation program”.
 
-    Subsec. (b)(5)(G). [Pub. L. 103–432, § 106(d)(2)][/us/pl/103/432/s106/d/2], substituted “licensed or certified social worker, registered respiratory therapist, or certified respiratory therapy technician” for “or licensed or certified social worker”.
+    Subsec. (b)(5)(G). [Pub. L. 103–432][/us/pl/103/432], § 106(d)(2), substituted “licensed or certified social worker, registered respiratory therapist, or certified respiratory therapy technician” for “or licensed or certified social worker”.
 
-    Subsec. (c)(1)(D). [Pub. L. 103–432, § 106(c)(2)(A)][/us/pl/103/432/s106/c/2/A], inserted at end “In determining whether such a consultant is qualified to conduct reviews under the preceding sentence, the Secretary shall take into account the needs of nursing facilities under this subchapter to have access to the services of such a consultant on a timely basis.”
+    Subsec. (c)(1)(D). [Pub. L. 103–432][/us/pl/103/432], § 106(c)(2)(A), inserted at end “In determining whether such a consultant is qualified to conduct reviews under the preceding sentence, the Secretary shall take into account the needs of nursing facilities under this subchapter to have access to the services of such a consultant on a timely basis.”
 
-    Subsec. (c)(6)(B)(i). [Pub. L. 103–432, § 106(c)(3)(A)][/us/pl/103/432/s106/c/3/A], substituted “$100” for “$50”.
+    Subsec. (c)(6)(B)(i). [Pub. L. 103–432][/us/pl/103/432], § 106(c)(3)(A), substituted “$100” for “$50”.
 
-    Subsec. (e)(2)(B). [Pub. L. 103–432, § 106(c)(4)(A)][/us/pl/103/432/s106/c/4/A], inserted “, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection” after “individual disputing the findings” in first sentence.
+    Subsec. (e)(2)(B). [Pub. L. 103–432][/us/pl/103/432], § 106(c)(4)(A), inserted “, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection” after “individual disputing the findings” in first sentence.
 
-    Subsec. (f)(2)(B)(i). [Pub. L. 103–432, § 106(d)(3)][/us/pl/103/432/s106/d/3], substituted “facilities (subject to clause (iii)),” for “facilities,”.
+    Subsec. (f)(2)(B)(i). [Pub. L. 103–432][/us/pl/103/432], § 106(d)(3), substituted “facilities (subject to clause (iii)),” for “facilities,”.
 
-    Subsec. (f)(2)(B)(iii)(I)(b). [Pub. L. 103–432, § 106(c)(1)(A)][/us/pl/103/432/s106/c/1/A], inserted before semicolon at end “, unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section”.
+    Subsec. (f)(2)(B)(iii)(I)(b). [Pub. L. 103–432][/us/pl/103/432], § 106(c)(1)(A), inserted before semicolon at end “, unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section”.
 
-    Subsec. (f)(2)(B)(iii)(I)(c). [Pub. L. 103–432, § 106(d)(4)][/us/pl/103/432/s106/d/4], substituted “clause” for “clauses” in two places.
+    Subsec. (f)(2)(B)(iii)(I)(c). [Pub. L. 103–432][/us/pl/103/432], § 106(d)(4), substituted “clause” for “clauses” in two places.
 
-    Subsec. (g)(1)(C). [Pub. L. 103–432, § 106(c)(4)(B)][/us/pl/103/432/s106/c/4/B], substituted second sentence for former second sentence which read as follows: “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations.”
+    Subsec. (g)(1)(C). [Pub. L. 103–432][/us/pl/103/432], § 106(c)(4)(B), substituted second sentence for former second sentence which read as follows: “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations.”
 
-    Subsec. (g)(5)(B). [Pub. L. 103–432, § 106(d)(5)][/us/pl/103/432/s106/d/5], substituted “paragraph” for “paragraphs” before “(1), (2), or (4) of subsection (h)”.
+    Subsec. (g)(5)(B). [Pub. L. 103–432][/us/pl/103/432], § 106(d)(5), substituted “paragraph” for “paragraphs” before “(1), (2), or (4) of subsection (h)”.
 
     1992—Subsecs. (c)(2)(B)(iii)(II), (g)(5)(B). [Pub. L. 102–375][/us/pl/102/375] substituted “title III or VII of the Older Americans Act of 1965 in accordance with section 712 of the Act” for “section 307(a)(12) of the Older Americans Act of 1965”.
 
-    1990—Subsec. (b)(1)(B). [Pub. L. 101–508, § 4008(h)(2)(B)][/us/pl/101/508/s4008/h/2/B], inserted at end “A State or the Secretary may not require disclosure of the records of such committee except insofar as such disclosure is related to the compliance of such committee with the requirements of this subparagraph.”
+    1990—Subsec. (b)(1)(B). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(B), inserted at end “A State or the Secretary may not require disclosure of the records of such committee except insofar as such disclosure is related to the compliance of such committee with the requirements of this subparagraph.”
 
-    Subsec. (b)(3)(C)(i)(I). [Pub. L. 101–508, § 4008(h)(2)(C)][/us/pl/101/508/s4008/h/2/C], substituted “not later than 14 days” for “4 days”.
+    Subsec. (b)(3)(C)(i)(I). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(C), substituted “not later than 14 days” for “4 days”.
 
-    Subsec. (b)(4)(A)(vii). [Pub. L. 101–508, § 4008(h)(2)(D)][/us/pl/101/508/s4008/h/2/D], added cl. (vii).
+    Subsec. (b)(4)(A)(vii). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(D), added cl. (vii).
 
-    Subsec. (b)(4)(C)(ii)(IV), (V). [Pub. L. 101–508, § 4008(h)(2)(E)][/us/pl/101/508/s4008/h/2/E], added subcls. (IV) and (V).
+    Subsec. (b)(4)(C)(ii)(IV), (V). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(E), added subcls. (IV) and (V).
 
-    Subsec. (b)(5)(A). [Pub. L. 101–508, § 4008(h)(1)(B)][/us/pl/101/508/s4008/h/1/B], designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursing facility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
+    Subsec. (b)(5)(A). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursing facility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
-    Subsec. (b)(5)(C). [Pub. L. 101–508, § 4008(h)(1)(C)][/us/pl/101/508/s4008/h/1/C], substituted “any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information” for “the State registry established under subsection (e)(2)(A) of this section as to information in the registry”.
+    Subsec. (b)(5)(C). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(1)(C), substituted “any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information” for “the State registry established under subsection (e)(2)(A) of this section as to information in the registry”.
 
-    Subsec. (b)(5)(D). [Pub. L. 101–508, § 4008(h)(1)(D)][/us/pl/101/508/s4008/h/1/D], inserted before period at end “, or a new competency evaluation program” after “and competency evaluation program”.
+    Subsec. (b)(5)(D). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(1)(D), inserted before period at end “, or a new competency evaluation program” after “and competency evaluation program”.
 
-    Subsec. (b)(5)(F)(i). [Pub. L. 101–508, § 4008(h)(2)(F)][/us/pl/101/508/s4008/h/2/F], substituted “(G)) or a registered dietician,” for “(G)),”.
+    Subsec. (b)(5)(F)(i). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(F), substituted “(G)) or a registered dietician,” for “(G)),”.
 
-    Subsec. (c)(1)(A). [Pub. L. 101–508, § 4008(h)(2)(G)(B)][/us/pl/101/508/s4008/h/2/G/B]\[(ii)\], inserted at end “A resident’s exercise of a right to refuse transfer under clause (x) shall not affect the resident’s eligibility or entitlement to benefits under this subchapter or to medical assistance under subchapter XIX of this chapter.”
+    Subsec. (c)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(G)(B)\[(ii)\], inserted at end “A resident’s exercise of a right to refuse transfer under clause (x) shall not affect the resident’s eligibility or entitlement to benefits under this subchapter or to medical assistance under subchapter XIX of this chapter.”
 
-    Subsec. (c)(1)(A)(iv). [Pub. L. 101–508, § 4008(h)(2)(H)][/us/pl/101/508/s4008/h/2/H], inserted before period at end “and to access to current clinical records of the resident upon request by the resident or the resident’s legal representative, within 24 hours (excluding hours occurring during a weekend or holiday) after making such a request”.
+    Subsec. (c)(1)(A)(iv). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(H), inserted before period at end “and to access to current clinical records of the resident upon request by the resident or the resident’s legal representative, within 24 hours (excluding hours occurring during a weekend or holiday) after making such a request”.
 
-    Subsec. (c)(1)(A)(x), (xi). [Pub. L. 101–508, § 4008(h)(2)(G)(i)][/us/pl/101/508/s4008/h/2/G/i], added cl. (x) and redesignated former cl. (x) as (xi).
+    Subsec. (c)(1)(A)(x), (xi). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(G)(i), added cl. (x) and redesignated former cl. (x) as (xi).
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 101–508, § 4008(h)(2)(I)][/us/pl/101/508/s4008/h/2/I], inserted “including the notice (if any) of the State developed under [section 1396r(e)(6) of this title][/us/usc/t42/s1396r/e/6]” after “in such rights)”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(I), inserted “including the notice (if any) of the State developed under [section 1396r(e)(6) of this title][/us/usc/t42/s1396r/e/6]” after “in such rights)”.
 
-    Subsec. (c)(1)(E). [Pub. L. 101–508, § 4206(d)(1)][/us/pl/101/508/s4206/d/1], added subpar. (E).
+    Subsec. (c)(1)(E). [Pub. L. 101–508][/us/pl/101/508], § 4206(d)(1), added subpar. (E).
 
-    Subsec. (e)(1)(A). [Pub. L. 101–508, § 4008(h)(2)(J)][/us/pl/101/508/s4008/h/2/J], substituted “subsection (f)(2) of this section” for “clause (i) or (ii) of subsection (f)(2)(A) of this section”.
+    Subsec. (e)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(J), substituted “subsection (f)(2) of this section” for “clause (i) or (ii) of subsection (f)(2)(A) of this section”.
 
-    Subsec. (e)(2)(A). [Pub. L. 101–508, § 4008(h)(2)(K)(i)][/us/pl/101/508/s4008/h/2/K/i], inserted before period at end “, or any individual described in subsection (f)(2)(B)(ii) of this section or in subparagraph (B), (C), or (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989”.
+    Subsec. (e)(2)(A). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(K)(i), inserted before period at end “, or any individual described in subsection (f)(2)(B)(ii) of this section or in subparagraph (B), (C), or (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989”.
 
-    Subsec. (e)(2)(C). [Pub. L. 101–508, § 4008(h)(2)(K)(ii)][/us/pl/101/508/s4008/h/2/K/ii], added subpar. (C).
+    Subsec. (e)(2)(C). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(K)(ii), added subpar. (C).
 
-    Subsec. (f)(2)(A)(ii). [Pub. L. 101–508, § 4008(m)(3)(F)][/us/pl/101/508/s4008/m/3/F]\[(E)\], struck out “and” after semicolon at end.
+    Subsec. (f)(2)(A)(ii). [Pub. L. 101–508][/us/pl/101/508], § 4008(m)(3)(F)\[(E)\], struck out “and” after semicolon at end.
 
-    Subsec. (f)(2)(A)(iv). [Pub. L. 101–508, § 4008(h)(1)(E)][/us/pl/101/508/s4008/h/1/E], struck out “and” at end of subcl. (I), inserted “who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program” after “nurse aide” and substituted “, and” for period at end of subcl. (II), and added subcl. (III).
+    Subsec. (f)(2)(A)(iv). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(1)(E), struck out “and” at end of subcl. (I), inserted “who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program” after “nurse aide” and substituted “, and” for period at end of subcl. (II), and added subcl. (III).
 
-    Subsec. (f)(2)(B). [Pub. L. 101–508, § 4008(h)(1)(G)][/us/pl/101/508/s4008/h/1/G], inserted “(through subcontract or otherwise)” after “may not delegate” in second sentence.
+    Subsec. (f)(2)(B). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(1)(G), inserted “(through subcontract or otherwise)” after “may not delegate” in second sentence.
 
-    Subsec. (f)(2)(B)(iii)(I). [Pub. L. 101–508, § 4008(h)(1)(F)(i)][/us/pl/101/508/s4008/h/1/F/i], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
+    Subsec. (f)(2)(B)(iii)(I). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(1)(F)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
 
-    Subsec. (g)(1)(C). [Pub. L. 101–508, § 4008(h)(2)(L)][/us/pl/101/508/s4008/h/2/L], inserted at end “A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.”
+    Subsec. (g)(1)(C). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(L), inserted at end “A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.”
 
-    Subsec. (g)(5)(A)(i). [Pub. L. 101–508, § 4008(h)(2)(M)][/us/pl/101/508/s4008/h/2/M], substituted “deficiencies, within 14 calendar days after such information is made available to those facilities, and approved plans” for “deficiencies and plans”.
+    Subsec. (g)(5)(A)(i). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(M), substituted “deficiencies, within 14 calendar days after such information is made available to those facilities, and approved plans” for “deficiencies and plans”.
 
-    Subsec. (g)(5)(B). [Pub. L. 101–508, § 4008(h)(2)(N)][/us/pl/101/508/s4008/h/2/N], substituted “or of any adverse action taken against a skilled nursing facility under paragraphs (1), (2), or (4) of subsection (h) of this section, with respect” for “with respect”.
+    Subsec. (g)(5)(B). [Pub. L. 101–508][/us/pl/101/508], § 4008(h)(2)(N), substituted “or of any adverse action taken against a skilled nursing facility under paragraphs (1), (2), or (4) of subsection (h) of this section, with respect” for “with respect”.
 
-    1989—Subsec. (b)(5)(A). [Pub. L. 101–239, § 6901(b)(1)(A)][/us/pl/101/239/s6901/b/1/A], substituted “October 1, 1990” for “January 1, 1990” in introductory provisions.
+    1989—Subsec. (b)(5)(A). [Pub. L. 101–239][/us/pl/101/239], § 6901(b)(1)(A), substituted “October 1, 1990” for “January 1, 1990” in introductory provisions.
 
-    Subsec. (b)(5)(B). [Pub. L. 101–239, § 6901(b)(1)(B)][/us/pl/101/239/s6901/b/1/B], substituted “January 1, 1990” and “October 1, 1990” for “July 1, 1989” and “January 1, 1990”, respectively.
+    Subsec. (b)(5)(B). [Pub. L. 101–239][/us/pl/101/239], § 6901(b)(1)(B), substituted “January 1, 1990” and “October 1, 1990” for “July 1, 1989” and “January 1, 1990”, respectively.
 
-    Subsec. (c)(1)(A)(ii)(II). [Pub. L. 101–239, § 6901(d)(4)(A)][/us/pl/101/239/s6901/d/4/A], substituted “Secretary until such an order could reasonably be obtained)” for “Secretary) until such an order could reasonably be obtained”.
+    Subsec. (c)(1)(A)(ii)(II). [Pub. L. 101–239][/us/pl/101/239], § 6901(d)(4)(A), substituted “Secretary until such an order could reasonably be obtained)” for “Secretary) until such an order could reasonably be obtained”.
 
-    Subsec. (c)(1)(A)(v)(I). [Pub. L. 101–239, § 6901(d)(4)(B)][/us/pl/101/239/s6901/d/4/B], substituted “accommodation” for “accommodations”.
+    Subsec. (c)(1)(A)(v)(I). [Pub. L. 101–239][/us/pl/101/239], § 6901(d)(4)(B), substituted “accommodation” for “accommodations”.
 
-    Subsec. (f)(2)(A)(i)(I). [Pub. L. 101–239, § 6901(d)(4)(C)][/us/pl/101/239/s6901/d/4/C], substituted “and content of the curriculum” for “, content of the curriculum”.
+    Subsec. (f)(2)(A)(i)(I). [Pub. L. 101–239][/us/pl/101/239], § 6901(d)(4)(C), substituted “and content of the curriculum” for “, content of the curriculum”.
 
-    [Pub. L. 101–239, § 6901(b)(3)(A)][/us/pl/101/239/s6901/b/3/A], inserted “care of cognitively impaired residents,” after “social service needs,”.
+    [Pub. L. 101–239][/us/pl/101/239], § 6901(b)(3)(A), inserted “care of cognitively impaired residents,” after “social service needs,”.
 
-    Subsec. (f)(2)(A)(ii). [Pub. L. 101–239, § 6901(b)(3)(B)][/us/pl/101/239/s6901/b/3/B], substituted “recognition of mental health and social service needs, care of cognitively impaired residents” for “cognitive, behavioral and social care”.
+    Subsec. (f)(2)(A)(ii). [Pub. L. 101–239][/us/pl/101/239], § 6901(b)(3)(B), substituted “recognition of mental health and social service needs, care of cognitively impaired residents” for “cognitive, behavioral and social care”.
 
-    Subsec. (f)(2)(A)(iv). [Pub. L. 101–239, § 6901(b)(3)(C)][/us/pl/101/239/s6901/b/3/C], (D), added cl. (iv).
+    Subsec. (f)(2)(A)(iv). [Pub. L. 101–239][/us/pl/101/239], § 6901(b)(3)(C), (D), added cl. (iv).
 
-    Subsec. (h)(2)(C). [Pub. L. 101–239, § 6901(d)(4)(D)][/us/pl/101/239/s6901/d/4/D], inserted “after the effective date of the findings” after “6 months” in introductory provisions.
+    Subsec. (h)(2)(C). [Pub. L. 101–239][/us/pl/101/239], § 6901(d)(4)(D), inserted “after the effective date of the findings” after “6 months” in introductory provisions.
 
-    1988—Subsec. (b)(3)(A)(iii). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(B), struck out “in the case of a resident eligible for benefits under subchapter XIX of this chapter,” before “uses an instrument”.
+    1988—Subsec. (b)(3)(A)(iii). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(B), struck out “in the case of a resident eligible for benefits under subchapter XIX of this chapter,” before “uses an instrument”.
 
-    Subsec. (b)(3)(A)(iv). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(A), as amended by [Pub. L. 100–485, § 608(d)(27)(C)][/us/pl/100/485/s608/d/27/C], struck out “in the case of a resident eligible for benefits under this part,” before “includes the identification”.
+    Subsec. (b)(3)(A)(iv). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(A), as amended by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(C), struck out “in the case of a resident eligible for benefits under this part,” before “includes the identification”.
 
-    Subsec. (b)(3)(B)(ii)(III). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(C), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
+    Subsec. (b)(3)(B)(ii)(III). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(C), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
 
-    Subsec. (b)(3)(C)(i)(I). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(i), substituted “than January 1, 1991” for “than October 1, 1990”.
+    Subsec. (b)(3)(C)(i)(I). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(i), substituted “than January 1, 1991” for “than October 1, 1990”.
 
-    Subsec. (b)(4)(C)(i). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(ii), substituted “24-hour licensed nursing” for “24-hour nursing”, “must use” for “must employ”, and “at least 8 consecutive hours a day,” for “during the day tour of duty (of at least 8 hours a day)”.
+    Subsec. (b)(4)(C)(i). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(ii), substituted “24-hour licensed nursing” for “24-hour nursing”, “must use” for “must employ”, and “at least 8 consecutive hours a day,” for “during the day tour of duty (of at least 8 hours a day)”.
 
-    Subsec. (b)(5)(A). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(D)(i), as amended by [Pub. L. 100–485, § 608(d)(27)(D)][/us/pl/100/485/s608/d/27/D], struck out “, who is not a licensed health professional (as defined in subparagraph (E)),” after “any individual”.
+    Subsec. (b)(5)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(D)(i), as amended by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(D), struck out “, who is not a licensed health professional (as defined in subparagraph (E)),” after “any individual”.
 
-    [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(iii), substituted “January 1, 1990” for “October 1, 1989, (or January 1, 1990, in the case of an individual used by the facility as a nurse aide before July 1, 1989)”.
+    [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(iii), substituted “January 1, 1990” for “October 1, 1989, (or January 1, 1990, in the case of an individual used by the facility as a nurse aide before July 1, 1989)”.
 
-    Subsec. (b)(5)(A)(ii). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(D)(ii), substituted “nursing or nursing-related services” for “such services”.
+    Subsec. (b)(5)(A)(ii). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(D)(ii), substituted “nursing or nursing-related services” for “such services”.
 
-    Subsec. (b)(5)(G). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(D)(iii), inserted “physical or occupational therapy assistant,” after “occupational therapist,”.
+    Subsec. (b)(5)(G). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(D)(iii), inserted “physical or occupational therapy assistant,” after “occupational therapist,”.
 
-    Subsec. (c)(1)(D). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(iv), as added by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], added subpar. (D).
+    Subsec. (c)(1)(D). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(iv), as added by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), added subpar. (D).
 
-    Subsec. (c)(2)(A)(v). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge may be imposed consistent with this subchapter and subchapter XIX of this chapter”.
+    Subsec. (c)(2)(A)(v). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge may be imposed consistent with this subchapter and subchapter XIX of this chapter”.
 
-    Subsec. (c)(6). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility’s acceptance of written” in subpar. (B).
+    Subsec. (c)(6). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility’s acceptance of written” in subpar. (B).
 
-    Subsec. (e)(1)(A). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(v), formerly § 411(l)(1)(A)(iv), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “January” for “March”.
+    Subsec. (e)(1)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(v), formerly § 411(l)(1)(A)(iv), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “January” for “March”.
 
-    Subsec. (e)(1)(B). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(vi), formerly § 411(l)(1)(A)(v), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “January” for “March”.
+    Subsec. (e)(1)(B). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(vi), formerly § 411(l)(1)(A)(v), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “January” for “March”.
 
-    Subsec. (e)(2)(A). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(vii), formerly § 411(l)(1)(A)(vi), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “January” for “March”.
+    Subsec. (e)(2)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(vii), formerly § 411(l)(1)(A)(vi), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “January” for “March”.
 
-    Subsec. (e)(2)(B). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(H), inserted after first sentence “The State shall make available to the public information in the registry.”
+    Subsec. (e)(2)(B). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(H), inserted after first sentence “The State shall make available to the public information in the registry.”
 
-    Subsec. (e)(3). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(I), inserted “and discharges” after “transfers” in heading and in two places in text.
+    Subsec. (e)(3). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(I), inserted “and discharges” after “transfers” in heading and in two places in text.
 
-    [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(viii), formerly § 411(l)(1)(A)(vii), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “1989” for “1990”.
+    [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(viii), formerly § 411(l)(1)(A)(vii), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “1989” for “1990”.
 
-    Subsec. (e)(5). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(ix), formerly § 411(l)(1)(A)(viii), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “1990” for “1989” in introductory provisions.
+    Subsec. (e)(5). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(ix), formerly § 411(l)(1)(A)(viii), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “1990” for “1989” in introductory provisions.
 
-    Subsec. (f)(2)(A)(i)(I). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(J), substituted “recognition of mental health and social service needs” for “cognitive, behavioral and social care”.
+    Subsec. (f)(2)(A)(i)(I). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(J), substituted “recognition of mental health and social service needs” for “cognitive, behavioral and social care”.
 
-    Subsec. (f)(3). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(I), inserted “and discharges” after “transfers” in heading and in text.
+    Subsec. (f)(3). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(I), inserted “and discharges” after “transfers” in heading and in text.
 
-    [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(x), formerly § 411(l)(1)(A)(ix), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “1988” for “1989”.
+    [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(x), formerly § 411(l)(1)(A)(ix), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “1988” for “1989”.
 
-    Subsec. (f)(6)(A). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(xi), formerly § 411(l)(1)(A)(x), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “January” for “July”.
+    Subsec. (f)(6)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(xi), formerly § 411(l)(1)(A)(x), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “January” for “July”.
 
-    Subsec. (f)(6)(B). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(1)(A)(xii), formerly § 411(l)(1)(A)(xi), as redesignated by [Pub. L. 100–485, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], substituted “April” for “October”.
+    Subsec. (f)(6)(B). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(1)(A)(xii), formerly § 411(l)(1)(A)(xi), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(A), substituted “April” for “October”.
 
-    Subsec. (f)(7)(A). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(K), substituted “residents” for “patients”.
+    Subsec. (f)(7)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(K), substituted “residents” for “patients”.
 
-    Subsec. (f)(7)(B). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(2)(L)(i), substituted “shall include” for “shall not include”.
+    Subsec. (f)(7)(B). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(2)(L)(i), substituted “shall include” for “shall not include”.
 
-    Subsec. (g)(1)(C). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
+    Subsec. (g)(1)(C). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
 
-    Subsec. (g)(1)(D). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
+    Subsec. (g)(1)(D). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
 
-    Subsec. (g)(2)(A)(i). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(5)(E), amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
+    Subsec. (g)(2)(A)(i). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(5)(E), amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
 
-    Subsec. (g)(2)(B)(ii). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(5)(F), as added by [Pub. L. 100–485, § 608(d)(27)(I)][/us/pl/100/485/s608/d/27/I], substituted “practicable” for “practical”.
+    Subsec. (g)(2)(B)(ii). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(5)(F), as added by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(I), substituted “practicable” for “practical”.
 
-    Subsec. (g)(2)(C)(i). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(4), substituted “January” for “October”.
+    Subsec. (g)(2)(C)(i). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(4), substituted “January” for “October”.
 
-    Subsec. (g)(3)(D). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(5)(G), formerly § 411(l)(5)(F), as redesignated by [Pub. L. 100–485, § 608(d)(27)(I)][/us/pl/100/485/s608/d/27/I], substituted “on the basis of that survey” for “on that basis”.
+    Subsec. (g)(3)(D). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(5)(G), formerly § 411(l)(5)(F), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(I), substituted “on the basis of that survey” for “on that basis”.
 
-    Subsec. (g)(4). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(5)(H), formerly § 411(l)(5)(G), as redesignated by [Pub. L. 100–485, § 608(d)(27)(I)][/us/pl/100/485/s608/d/27/I], struck out “chronically” after “enforcement actions against” in last sentence.
+    Subsec. (g)(4). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(5)(H), formerly § 411(l)(5)(G), as redesignated by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(I), struck out “chronically” after “enforcement actions against” in last sentence.
 
-    Subsec. (h)(2)(B)(ii). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(7)(A), substituted “. The provisions of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title][/us/usc/t42/s1320a–7a/a].” for “and the Secretary shall impose and collect such a penalty in the same manner as civil money penalties are imposed and collected under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
+    Subsec. (h)(2)(B)(ii). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(7)(A), substituted “. The provisions of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title][/us/usc/t42/s1320a–7a/a].” for “and the Secretary shall impose and collect such a penalty in the same manner as civil money penalties are imposed and collected under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].”
 
-    Subsec. (h)(5). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(11), as added by [Pub. L. 100–485, § 608(d)(27)(L)][/us/pl/100/485/s608/d/27/L], substituted “clauses (i), and (iii) of paragraph (2)(B)” for “clauses (i), (iii), and (iv) of paragraph (2)(A)”.
+    Subsec. (h)(5). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(11), as added by [Pub. L. 100–485][/us/pl/100/485], § 608(d)(27)(L), substituted “clauses (i), and (iii) of paragraph (2)(B)” for “clauses (i), (iii), and (iv) of paragraph (2)(A)”.
 
-    Subsec. (h)(6). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(7)(B), inserted “by such facilities” after “be made available”.
+    Subsec. (h)(6). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(7)(B), inserted “by such facilities” after “be made available”.
 
     1987—Subsecs. (g) to (i). [Pub. L. 100–203][/us/pl/100/203], §§ 4202(a)(2), 4203(a)(2), 4206, added subsecs. (g), (h), and (i), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title VI, § 6101(c)(2)][/us/pl/111/148/s6101/c/2], Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6101(c)(2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall take effect on the date on which the Secretary \[of Health and Human Services\] makes the information described in subsection (b)(1) \[probably means subsec. (b) of section 6101, which is set out as a note under [section 1320a–3 of this title][/us/usc/t42/s1320a–3]\] available to the public under such subsection.”
 
-[Pub. L. 111–148, title VI, § 6103(a)(2)(B)][/us/pl/111/148/s6103/a/2/B], Mar. 23, 2010, [124 Stat. 706][/us/stat/124/706], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6103(a)(2)(B), Mar. 23, 2010, [124 Stat. 706][/us/stat/124/706], provided that: 
 
 > “The amendment made by this paragraph \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
-[Pub. L. 111–148, title VI, § 6103(c)(3)][/us/pl/111/148/s6103/c/3], Mar. 23, 2010, [124 Stat. 710][/us/stat/124/710], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6103(c)(3), Mar. 23, 2010, [124 Stat. 710][/us/stat/124/710], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
-[Pub. L. 111–148, title VI, § 6111(c)][/us/pl/111/148/s6111/c], Mar. 23, 2010, [124 Stat. 716][/us/stat/124/716], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6111(c), Mar. 23, 2010, [124 Stat. 716][/us/stat/124/716], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
     Amendment by [section 6113(b) of Pub. L. 111–148][/us/pl/111/148/s6113/b] effective 1 year after Mar. 23, 2010, see [section 6113(c) of Pub. L. 111–148][/us/pl/111/148/s6113/c], set out as a note under [section 1320a–7j of this title][/us/usc/t42/s1320a–7j].
 
-[Pub. L. 111–148, title VI, § 6121(c)][/us/pl/111/148/s6121/c], Mar. 23, 2010, [124 Stat. 721][/us/stat/124/721], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6121(c), Mar. 23, 2010, [124 Stat. 721][/us/stat/124/721], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–173, title IX, § 932(d)][/us/pl/108/173/s932/d], Dec. 8, 2003, [117 Stat. 2402][/us/stat/117/2402], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 932(d), Dec. 8, 2003, [117 Stat. 2402][/us/stat/117/2402], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395cc, 1395ff, and 1396r of this title\] shall apply to appeals filed on or after October 1, 2004.”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 941(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 941(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586, provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall take effect on January 1, 2003.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title IV, § 4432(d)][/us/pl/105/33/s4432/d], Aug. 5, 1997, [111 Stat. 422][/us/stat/111/422], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4432(d), Aug. 5, 1997, [111 Stat. 422][/us/stat/111/422], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, 1395tt, and 1395yy of this title\] are effective for cost reporting periods beginning on or after July 1, 1998; except that the amendments made by subsection (b) \[amending this section and sections 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, 1395tt, and 1395yy of this title\] shall apply to items and services furnished on or after July 1, 1998.”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–432, title I, § 106(c)(1)(B)][/us/pl/103/432/s106/c/1/B], Oct. 31, 1994, [108 Stat. 4406][/us/stat/108/4406], provided that: 
+[Pub. L. 103–432, title I][/us/pl/103/432/tI], § 106(c)(1)(B), Oct. 31, 1994, [108 Stat. 4406][/us/stat/108/4406], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508]\].”
 
-[Pub. L. 103–432, title I, § 106(c)(2)(B)][/us/pl/103/432/s106/c/2/B], Oct. 31, 1994, [108 Stat. 4406][/us/stat/108/4406], provided that: 
+[Pub. L. 103–432, title I][/us/pl/103/432/tI], § 106(c)(2)(B), Oct. 31, 1994, [108 Stat. 4406][/us/stat/108/4406], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1987 \[[Pub. L. 100–203][/us/pl/100/203]\].”
 
-[Pub. L. 103–432, title I, § 106(c)(3)(B)][/us/pl/103/432/s106/c/3/B], Oct. 31, 1994, [108 Stat. 4406][/us/stat/108/4406], provided that: 
+[Pub. L. 103–432, title I][/us/pl/103/432/tI], § 106(c)(3)(B), Oct. 31, 1994, [108 Stat. 4406][/us/stat/108/4406], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1995.”
 
-[Pub. L. 103–432, title I, § 106(c)(4)(C)][/us/pl/103/432/s106/c/4/C], Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407], provided that: 
+[Pub. L. 103–432, title I][/us/pl/103/432/tI], § 106(c)(4)(C), Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall take effect January 1, 1995.”
 
-[Pub. L. 103–432, title I, § 106(d)(7)][/us/pl/103/432/s106/d/7], Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407], provided that: 
+[Pub. L. 103–432, title I][/us/pl/103/432/tI], § 106(d)(7), Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407], provided that: 
 
 > “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as if included in the enactment of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508]\].”
 
@@ -1345,7 +1345,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title IV, § 4008(h)(1)(F)(ii)][/us/pl/101/508/s4008/h/1/F/ii], Nov. 5, 1990, [104 Stat. 1388–47][/us/stat/104/1388-47], as amended by [Pub. L. 103–432, title I, § 106(d)(6)][/us/pl/103/432/s106/d/6], Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407], provided that:
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(h)(1)(F)(ii), Nov. 5, 1990, [104 Stat. 1388–47][/us/stat/104/1388-47], as amended by [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 106(d)(6), Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407], provided that:
 
 >     “(I)
 
@@ -1363,21 +1363,21 @@
 
 >     “(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[[42 U.S.C. 1395i–3(f)(2)(B)(iii)(I)][/us/usc/t42/s1395i–3/f/2/B/iii/I]\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described in subclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility.”
 
-[Pub. L. 101–508, title IV, § 4008(h)(1)(H)][/us/pl/101/508/s4008/h/1/H], Nov. 5, 1990, [104 Stat. 1388–48][/us/stat/104/1388-48], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(h)(1)(H), Nov. 5, 1990, [104 Stat. 1388–48][/us/stat/104/1388-48], provided that: 
 
 > “Except as provided in subparagraph (F) \[amending this section and enacting provisions set out as a note above\], the amendments made by this subsection \[probably means this paragraph, amending this section\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\].”
 
-[Pub. L. 101–508, title IV, § 4008(h)(2)(P)][/us/pl/101/508/s4008/h/2/P], Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(h)(2)(P), Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], provided that: 
 
 > “The amendments made by this paragraph \[amending this section and sections 1395x and 1395yy of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\].”
 
-[Pub. L. 101–508, title IV, § 4206(e)(1)][/us/pl/101/508/s4206/e/1], Nov. 5, 1990, [104 Stat. 1388–117][/us/stat/104/1388-117], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4206(e)(1), Nov. 5, 1990, [104 Stat. 1388–117][/us/stat/104/1388-117], provided that: 
 
 > “The amendments made by subsections (a) and (d) \[amending this section and sections 1395cc and 1395bbb of this title\] shall apply with respect to services furnished on or after the first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VI, § 6901(b)(6)][/us/pl/101/239/s6901/b/6], Dec. 19, 1989, [103 Stat. 2300][/us/stat/103/2300], provided that:
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6901(b)(6), Dec. 19, 1989, [103 Stat. 2300][/us/stat/103/2300], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -1387,7 +1387,7 @@
 
 >     The amendments made by paragraph (3) \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall apply to nurse aide training and competency evaluation programs, and nurse aide competency evaluation programs, offered on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not affect competency evaluations conducted under programs offered before the end of such period.”
 
-[Pub. L. 101–239, title VI, § 6901(d)(6)][/us/pl/101/239/s6901/d/6], Dec. 19, 1989, [103 Stat. 2301][/us/stat/103/2301], provided that:
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6901(d)(6), Dec. 19, 1989, [103 Stat. 2301][/us/stat/103/2301], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -1405,7 +1405,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title IV, § 4204][/us/pl/100/203/s4204], Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182], as amended by [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(9), July 1, 1988, [102 Stat. 805][/us/stat/102/805]; [Pub. L. 100–485, title VI, § 608(d)(27)(K)][/us/pl/100/485/s608/d/27/K], Oct. 13, 1988, [102 Stat. 2423][/us/stat/102/2423], provided that:
+[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4204, Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182], as amended by [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(l)(9), July 1, 1988, [102 Stat. 805][/us/stat/102/805]; [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(27)(K), Oct. 13, 1988, [102 Stat. 2423][/us/stat/102/2423], provided that:
 
 >     “(a)  __New Requirements and Survey and Certification Process__  __.—__ 
 
@@ -1423,7 +1423,7 @@
 
  __Guidance to States on Form 2567 State Inspection Reports and Complaint Investigation Reports__ 
 
-[Pub. L. 111–148, title VI, § 6103(d)(1)][/us/pl/111/148/s6103/d/1], (3), Mar. 23, 2010, [124 Stat. 710][/us/stat/124/710], provided that:
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6103(d)(1), (3), Mar. 23, 2010, [124 Stat. 710][/us/stat/124/710], provided that:
 
 >     “(1)  __Guidance__  __.—__ 
 
@@ -1447,7 +1447,7 @@
 
  __Development of Consumer Rights Information Page on Nursing Home Compare Website__ 
 
-[Pub. L. 111–148, title VI, § 6103(e)][/us/pl/111/148/s6103/e], Mar. 23, 2010, [124 Stat. 710][/us/stat/124/710], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6103(e), Mar. 23, 2010, [124 Stat. 710][/us/stat/124/710], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary \[of Health and Human Services\] shall ensure that the Department of Health and Human Services, as part of the information provided for comparison of nursing facilities on the Nursing Home Compare Medicare website develops and includes a consumer rights information page that contains links to descriptions of, and information with respect to, the following:
 
@@ -1463,7 +1463,7 @@
 
  __National Demonstration Projects on Culture Change and Use of Information Technology in Nursing Homes__ 
 
-[Pub. L. 111–148, title VI, § 6114][/us/pl/111/148/s6114], Mar. 23, 2010, [124 Stat. 720][/us/stat/124/720], provided that:
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6114, Mar. 23, 2010, [124 Stat. 720][/us/stat/124/720], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1515,7 +1515,7 @@
 
  __Review and Report on Current Standards of Practice for Pharmacy Services Provided to Patients in Nursing Facilities__ 
 
-[Pub. L. 108–173, title I, § 107(b)][/us/pl/108/173/s107/b], Dec. 8, 2003, [117 Stat. 2169][/us/stat/117/2169], provided that:
+[Pub. L. 108–173, title I][/us/pl/108/173/tI], § 107(b), Dec. 8, 2003, [117 Stat. 2169][/us/stat/117/2169], provided that:
 
 >     “(1) __Review.—__ 
 
@@ -1547,7 +1547,7 @@
 
  __Study and Report Regarding State Licensure and Certification Standards and Respiratory Therapy Competency Examinations__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 107\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–328, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title I, § 107\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–328, provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -1565,13 +1565,13 @@
 
  __Retroactive Review__ 
 
-[Pub. L. 105–33, title IV, § 4755(c)][/us/pl/105/33/s4755/c], Aug. 5, 1997, [111 Stat. 527][/us/stat/111/527], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4755(c), Aug. 5, 1997, [111 Stat. 527][/us/stat/111/527], provided that: 
 
 > “The procedures developed by a State under the amendments made by subsection\[s\] (a) and (b) \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall permit an individual to petition for a review of any finding made by a State under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]-3(g)(1)(C) or 1396r(g)(1)(C)) after January 1, 1995.”
 
  __Study and Report on Deeming for Nursing Facilities and Renal Dialysis Facilities__ 
 
-[Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title V, § 516(d)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–248; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that:
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title V, § 516(d)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–248; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -1587,19 +1587,19 @@
 
  __Maintaining Regulatory Standards for Certain Services__ 
 
-[Pub. L. 101–508, title IV, § 4008(h)(2)(O)][/us/pl/101/508/s4008/h/2/O], Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(h)(2)(O), Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], provided that: 
 
 > “Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1819(b)(4)(A) of the Social Security Act \[[42 U.S.C. 1395i–3(b)(4)(A)(ii)][/us/usc/t42/s1395i–3/b/4/A/ii], (iv), and (v)\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.”
 
  __Nurse Aide Training and Competency Evaluation Programs; Publication of Proposed Regulations__ 
 
-[Pub. L. 101–239, title VI, § 6901(b)(2)][/us/pl/101/239/s6901/b/2], Dec. 19, 1989, [103 Stat. 2298][/us/stat/103/2298], provided that: 
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6901(b)(2), Dec. 19, 1989, [103 Stat. 2298][/us/stat/103/2298], provided that: 
 
 > “The Secretary of Health and Human Services shall issue proposed regulations to establish the requirements described in sections 1819(f)(2) and 1919(f)(2) of the Social Security Act \[[42 U.S.C. 1395i–3(f)(2)][/us/usc/t42/s1395i–3/f/2], 1396r(f)(2)\] by not later than 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
  __Nurse Aide Training and Competency Evaluation; Satisfaction of Requirements; Waiver__ 
 
-[Pub. L. 101–239, title VI, § 6901(b)(4)(B)][/us/pl/101/239/s6901/b/4/B]–(D), Dec. 19, 1989, [103 Stat. 2299][/us/stat/103/2299], provided that:
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6901(b)(4)(B)–(D), Dec. 19, 1989, [103 Stat. 2299][/us/stat/103/2299], provided that:
 
 >     “(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[[42 U.S.C. 1395i–3(b)(5)(A)][/us/usc/t42/s1395i–3/b/5/A], 1396r(b)(5)(A)\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[[42 U.S.C. 1395i–3(e)(1)(A)][/us/usc/t42/s1395i–3/e/1/A], 1396r(e)(1)(A)\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[[42 U.S.C. 1395i–3(f)(2)][/us/usc/t42/s1395i–3/f/2], 1396r(f)(2)\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
@@ -1609,13 +1609,13 @@
 
  __Evaluation and Report on Implementation of Resident Assessment Process__ 
 
-[Pub. L. 100–203, title IV, § 4201(c)][/us/pl/100/203/s4201/c], Dec. 22, 1987, [101 Stat. 1330–174][/us/stat/101/1330-174], provided that: 
+[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4201(c), Dec. 22, 1987, [101 Stat. 1330–174][/us/stat/101/1330-174], provided that: 
 
 > “The Secretary of Health and Human Services shall evaluate, and report to Congress by not later than January 1, 1992, on the implementation of the resident assessment process for residents of skilled nursing facilities under the amendments made by this section \[enacting this section and amending sections 1395x, 1395aa, 1395tt, and 1395yy of this title\].”
 
  __Annual Report on Statutory Compliance and Enforcement Actions__ 
 
-[Pub. L. 100–203, title IV, § 4205][/us/pl/100/203/s4205], Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182], provided that: 
+[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4205, Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182], provided that: 
 
 > “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which skilled nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1819 of the Social Security Act \[[42 U.S.C. 1395i–3(b)][/us/usc/t42/s1395i–3/b], (c), (d)\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1819(h) of such Act (as added by section 4203 of this Act).”
 
@@ -1662,37 +1662,37 @@
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-160
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/800-805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F800-805
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2422
-[/us/pl/101/239/s6901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F1
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2298
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-46
-[/us/pl/102/375/s708/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs708%2Fa%2F1%2FA
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1291
-[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4406-4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4406-4408
-[/us/pl/105/15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F15%2Fs1
+[/us/pl/105/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F15
 [/us/stat/111/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F34
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F421
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s736/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fa%2F8
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2355
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
-[/us/pl/113/185/s2/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fc%2F4%2FB
+[/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
 [/us/stat/128/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1966
-[/us/pl/111/148/s6101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fc%2F1%2FA
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
-[/us/pl/106/501/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F5
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2244
 [/us/usc/t42/s3027/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F9
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
@@ -1700,167 +1700,167 @@
 [/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
-[/us/pl/111/148/s6121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6121%2Fa%2F2
-[/us/pl/111/148/s6101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fc%2F1%2FA
-[/us/pl/111/148/s6103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fc%2F1
-[/us/pl/111/148/s6121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6121%2Fa%2F1
-[/us/pl/111/148/s6103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fa%2F3
-[/us/pl/111/148/s6103/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fa%2F2%2FA
-[/us/pl/111/148/s6111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6111%2Fa%2F1
-[/us/pl/111/148/s6113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6113%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1320a–7/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fh
 [/us/usc/t42/s1320a–7j/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937j%2Fh
-[/us/pl/111/148/s6111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6111%2Fa%2F2
-[/us/pl/111/148/s6103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fa%2F1
-[/us/pl/108/173/s736/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fa%2F8%2FA
-[/us/pl/108/173/s736/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fa%2F8%2FB
-[/us/pl/108/173/s932/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs932%2Fc%2F2%2FA
-[/us/pl/108/173/s736/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fa%2F8%2FC
-[/us/pl/108/173/s932/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs932%2Fc%2F2%2FB
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/33/s4432/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4432%2Fb%2F5%2FA
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1395yy/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395yy%2Fe%2F6
-[/us/pl/105/15/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F15%2Fs1%2F1
-[/us/pl/105/15/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F15%2Fs1%2F2
-[/us/pl/105/33/s4755/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4755%2Fa
-[/us/pl/103/432/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs110%2Fb
-[/us/pl/103/432/s106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F1
-[/us/pl/103/432/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F2
-[/us/pl/103/432/s106/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F2%2FA
-[/us/pl/103/432/s106/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F3%2FA
-[/us/pl/103/432/s106/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F4%2FA
-[/us/pl/103/432/s106/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F3
-[/us/pl/103/432/s106/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F1%2FA
-[/us/pl/103/432/s106/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F4
-[/us/pl/103/432/s106/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F4%2FB
-[/us/pl/103/432/s106/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F5
+[/us/pl/105/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F15
+[/us/pl/105/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F15
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
-[/us/pl/101/508/s4008/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FB
-[/us/pl/101/508/s4008/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FC
-[/us/pl/101/508/s4008/h/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FD
-[/us/pl/101/508/s4008/h/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FE
-[/us/pl/101/508/s4008/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FB
-[/us/pl/101/508/s4008/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FC
-[/us/pl/101/508/s4008/h/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FD
-[/us/pl/101/508/s4008/h/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FF
-[/us/pl/101/508/s4008/h/2/G/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FG%2FB
-[/us/pl/101/508/s4008/h/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FH
-[/us/pl/101/508/s4008/h/2/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FG%2Fi
-[/us/pl/101/508/s4008/h/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FI
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s1396r/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fe%2F6
-[/us/pl/101/508/s4206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4206%2Fd%2F1
-[/us/pl/101/508/s4008/h/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FJ
-[/us/pl/101/508/s4008/h/2/K/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FK%2Fi
-[/us/pl/101/508/s4008/h/2/K/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FK%2Fii
-[/us/pl/101/508/s4008/m/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F3%2FF
-[/us/pl/101/508/s4008/h/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FE
-[/us/pl/101/508/s4008/h/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FG
-[/us/pl/101/508/s4008/h/1/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FF%2Fi
-[/us/pl/101/508/s4008/h/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FL
-[/us/pl/101/508/s4008/h/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FM
-[/us/pl/101/508/s4008/h/2/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FN
-[/us/pl/101/239/s6901/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F1%2FA
-[/us/pl/101/239/s6901/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F1%2FB
-[/us/pl/101/239/s6901/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fd%2F4%2FA
-[/us/pl/101/239/s6901/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fd%2F4%2FB
-[/us/pl/101/239/s6901/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fd%2F4%2FC
-[/us/pl/101/239/s6901/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F3%2FA
-[/us/pl/101/239/s6901/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F3%2FB
-[/us/pl/101/239/s6901/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F3%2FC
-[/us/pl/101/239/s6901/d/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fd%2F4%2FD
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FC
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FD
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FA
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FI
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FI
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FI
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/485/s608/d/27/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FL
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/111/148/s6101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fc%2F2
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933
-[/us/pl/111/148/s6103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fa%2F2%2FB
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F706
-[/us/pl/111/148/s6103/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fc%2F3
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F710
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
-[/us/pl/111/148/s6111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6111%2Fc
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F716
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/pl/111/148/s6113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6113%2Fb
 [/us/pl/111/148/s6113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6113%2Fc
 [/us/usc/t42/s1320a–7j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937j
-[/us/pl/111/148/s6121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6121%2Fc
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F721
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
-[/us/pl/108/173/s932/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs932%2Fd
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2402
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
-[/us/pl/105/33/s4432/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4432%2Fd
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F422
-[/us/pl/103/432/s106/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F1%2FB
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4406
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/103/432/s106/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F2%2FB
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4406
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/103/432/s106/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F3%2FB
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4406
-[/us/pl/103/432/s106/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fc%2F4%2FC
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4407
-[/us/pl/103/432/s106/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F7
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4407
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
@@ -1869,27 +1869,27 @@
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/102/375/s905/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs905%2Fb%2F6
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/101/508/s4008/h/1/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FF%2Fii
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-47
-[/us/pl/103/432/s106/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs106%2Fd%2F6
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4407
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395i–3/f/2/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Ff%2F2%2FB%2Fiii%2FI
-[/us/pl/101/508/s4008/h/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F1%2FH
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-48
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/101/508/s4008/h/2/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FP
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-50
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/101/508/s4206/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4206%2Fe%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-117
-[/us/pl/101/239/s6901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F6
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2300
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
-[/us/pl/101/239/s6901/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fd%2F6
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2301
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
@@ -1903,58 +1903,58 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/360/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fa
 [/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
-[/us/pl/100/203/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4204
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-182
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F805
-[/us/pl/100/485/s608/d/27/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F27%2FK
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2423
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/usc/t42/s1395aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aa
 [/us/usc/t42/s1395x/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fj
-[/us/pl/111/148/s6103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fd%2F1
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F710
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1320a–7j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937j
 [/us/usc/t42/s1396r/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fa
 [/us/usc/t42/s1395i–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fa
-[/us/pl/111/148/s6103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fe
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F710
-[/us/pl/111/148/s6114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6114
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F720
 [/us/usc/t42/s1396r/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fa
 [/us/usc/t42/s1395/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395%2Fa
-[/us/pl/108/173/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs107%2Fb
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2169
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/105/33/s4755/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4755%2Fc
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F527
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/usc/t42/s1395rr/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr%2Fb
-[/us/pl/101/508/s4008/h/2/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fh%2F2%2FO
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-50
 [/us/usc/t42/s1395i–3/b/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fb%2F4%2FA%2Fii
-[/us/pl/101/239/s6901/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F2
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2298
 [/us/usc/t42/s1395i–3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Ff%2F2
-[/us/pl/101/239/s6901/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6901%2Fb%2F4%2FB
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2299
 [/us/usc/t42/s1395i–3/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fb%2F5%2FA
 [/us/usc/t42/s1395i–3/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fe%2F1%2FA
 [/us/usc/t42/s1395i–3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Ff%2F2
-[/us/pl/100/203/s4201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4201%2Fc
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-174
-[/us/pl/100/203/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4205
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-182
 [/us/usc/t42/s1395i–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fb
 

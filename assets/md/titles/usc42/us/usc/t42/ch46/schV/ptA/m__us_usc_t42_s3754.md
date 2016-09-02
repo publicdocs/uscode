@@ -17,7 +17,7 @@
 
     The Attorney General shall issue rules to carry out this part. The first such rules shall be issued not later than one year after the date on which amounts are first made available to carry out this part.
 
-([Pub. L. 90–351, title I, § 504][/us/pl/90/351/s504], as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)][/us/pl/109/162/s1111/a/2/C], Jan. 5, 2006, [119 Stat. 3097][/us/stat/119/3097].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 504, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(a)(2)(C), Jan. 5, 2006, [119 Stat. 3097][/us/stat/119/3097].)
 
  __Prior Provisions__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs504
-[/us/pl/109/162/s1111/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fa%2F2%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3097
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

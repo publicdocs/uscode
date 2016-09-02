@@ -31,11 +31,11 @@
 
         For the purpose of assisting the Department of Energy in planning and assigning priorities in research development and demonstration activities related to environmental control technologies, the Administrator shall actively make available to the Department all information on research activities and results of research programs of the Environmental Protection Agency.
 
-([Pub. L. 95–477, § 5][/us/pl/95/477/s5], Oct. 18, 1978, [92 Stat. 1510][/us/stat/92/1510]; [Pub. L. 103–437, § 15(c)(6)][/us/pl/103/437/s15/c/6], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Pub. L. 95–477][/us/pl/95/477], § 5, Oct. 18, 1978, [92 Stat. 1510][/us/stat/92/1510]; [Pub. L. 103–437][/us/pl/103/437], § 15(c)(6), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __References in Text__ 
 
-    [Section 5910 of this title][/us/usc/t42/s5910], referred to in subsec. (c), was repealed by [Pub. L. 104–66, title II, § 2021(i)][/us/pl/104/66/s2021/i], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727].
+    [Section 5910 of this title][/us/usc/t42/s5910], referred to in subsec. (c), was repealed by [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(i), Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727].
 
  __Codification__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/95/477/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs5
+[/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
 [/us/stat/92/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1510
-[/us/pl/103/437/s15/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fc%2F6
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/usc/t42/s5910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5910
-[/us/pl/104/66/s2021/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fi
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F727
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

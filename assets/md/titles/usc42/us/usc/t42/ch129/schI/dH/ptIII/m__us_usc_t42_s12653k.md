@@ -367,19 +367,19 @@
 
                 Of the funds appropriated under [section 12681(a)(4)(E) of this title][/us/usc/t42/s12681/a/4/E] for a fiscal year, not more than 5 percent may be used to carry out this subsection.
 
-([Pub. L. 101–610, title I, § 198K][/us/pl/101/610/s198K], as added [Pub. L. 111–13, title I, § 1807][/us/pl/111/13/s1807], Apr. 21, 2009, [123 Stat. 1564][/us/stat/123/1564].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198K, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1807, Apr. 21, 2009, [123 Stat. 1564][/us/stat/123/1564].)
 
  __Prior Provisions__ 
 
-    A prior section 12653k, [Pub. L. 101–610, title I, § 195K][/us/pl/101/610/s195K], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2531][/us/stat/106/2531], which set out other departments’ responsibilities to the Corps, was renumbered [section 162 of Pub. L. 101–610][/us/pl/101/610/s162] and transferred to [section 12622 of this title][/us/usc/t42/s12622].
+    A prior section 12653k, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195K, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2531][/us/stat/106/2531], which set out other departments’ responsibilities to the Corps, was renumbered [section 162 of Pub. L. 101–610][/us/pl/101/610/s162] and transferred to [section 12622 of this title][/us/usc/t42/s12622].
 
 Prior sections 12653l to 12653n were renumbered by [section 104(b) of Pub. L. 103–82][/us/pl/103/82/s104/b] and transferred as follows:
 
-    Section 12653l, [Pub. L. 101–610, title I, § 195L][/us/pl/101/610/s195L], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which related to Advisory Board for the Corps, was renumbered [section 163 of Pub. L. 101–610][/us/pl/101/610/s163] and transferred to [section 12623 of this title][/us/usc/t42/s12623].
+    Section 12653l, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195L, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which related to Advisory Board for the Corps, was renumbered [section 163 of Pub. L. 101–610][/us/pl/101/610/s163] and transferred to [section 12623 of this title][/us/usc/t42/s12623].
 
-    Section 12653m, [Pub. L. 101–610, title I, § 195M][/us/pl/101/610/s195M], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which provided for annual evaluations of Corps programs, was renumbered [section 164 of Pub. L. 101–610][/us/pl/101/610/s164] and transferred to [section 12624 of this title][/us/usc/t42/s12624].
+    Section 12653m, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195M, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which provided for annual evaluations of Corps programs, was renumbered [section 164 of Pub. L. 101–610][/us/pl/101/610/s164] and transferred to [section 12624 of this title][/us/usc/t42/s12624].
 
-    Section 12653n, [Pub. L. 101–610, title I, § 195N][/us/pl/101/610/s195N], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which limited funding for Corps programs, was renumbered [section 165 of Pub. L. 101–610][/us/pl/101/610/s165] and transferred to [section 12625 of this title][/us/usc/t42/s12625], prior to repeal by [Pub. L. 111–13, title I, § 1515][/us/pl/111/13/s1515], Apr. 21, 2009, [123 Stat. 1528][/us/stat/123/1528].
+    Section 12653n, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195N, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which limited funding for Corps programs, was renumbered [section 165 of Pub. L. 101–610][/us/pl/101/610/s165] and transferred to [section 12625 of this title][/us/usc/t42/s12625], prior to repeal by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1515, Apr. 21, 2009, [123 Stat. 1528][/us/stat/123/1528].
 
  __Effective Date__ 
 
@@ -393,31 +393,31 @@ Prior sections 12653l to 12653n were renumbered by [section 104(b) of Pub. L. 10
 ----------
 
 [/us/usc/t42/s12681/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12681%2Fa%2F4%2FE
-[/us/pl/101/610/s198K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198K
-[/us/pl/111/13/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1807
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1564
-[/us/pl/101/610/s195K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195K
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2531
 [/us/pl/101/610/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs162
 [/us/usc/t42/s12622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12622
 [/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
-[/us/pl/101/610/s195L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195L
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2532
 [/us/pl/101/610/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs163
 [/us/usc/t42/s12623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12623
-[/us/pl/101/610/s195M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195M
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2532
 [/us/pl/101/610/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs164
 [/us/usc/t42/s12624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12624
-[/us/pl/101/610/s195N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195N
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2532
 [/us/pl/101/610/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs165
 [/us/usc/t42/s12625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12625
-[/us/pl/111/13/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1515
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1528
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -83,27 +83,27 @@
 
             (B) In carrying out subparagraph (A), if the Secretary determines that the State is making a good faith effort to implement the plan required in subsection (a) of this section, the Secretary may make a reduction under such subparagraph in an amount that is less than the amount specified in such subparagraph, except that the reduction may not be made in an amount that is less than 5 percent of the amount determined under [section 300x–7 of this title][/us/usc/t42/s300x–7] for the State for fiscal year 1993.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1912, as added [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 379][/us/stat/106/379]; amended [Pub. L. 106–310, div. B, title XXXII, § 3204(a)][/us/pl/106/310/s3204/a], Oct. 17, 2000, [114 Stat. 1192][/us/stat/114/1192].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1912, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 379][/us/stat/106/379]; amended [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3204(a), Oct. 17, 2000, [114 Stat. 1192][/us/stat/114/1192].)
 
  __References in Text__ 
 
     The Individuals with Disabilities Education Act, referred to in subsec. (b)(1), (3)(A), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
-    Subsection (b)(11) of this section, referred to in subsec. (c)(2), was repealed by [Pub. L. 106–310, div. B, title XXXII, § 3204(a)][/us/pl/106/310/s3204/a], Oct. 17, 2000, [114 Stat. 1192][/us/stat/114/1192]. Provisions relating to estimates formerly contained in subsec. (b)(11) are now contained in subsec. (b)(2) of this section.
+    Subsection (b)(11) of this section, referred to in subsec. (c)(2), was repealed by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3204(a), Oct. 17, 2000, [114 Stat. 1192][/us/stat/114/1192]. Provisions relating to estimates formerly contained in subsec. (b)(11) are now contained in subsec. (b)(2) of this section.
 
  __Prior Provisions__ 
 
-    Prior sections 300x–1 to 300x–1b were repealed by [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 378][/us/stat/106/378].
+    Prior sections 300x–1 to 300x–1b were repealed by [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 378][/us/stat/106/378].
 
-    Section 300x–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1912, as added Oct. 19, 1984, [Pub. L. 98–509, title I, § 102(a)][/us/pl/98/509/s102/a], [98 Stat. 2353][/us/stat/98/2353], authorized grants for training of employees adversely affected by changes in delivery of mental health services and for providing assistance in securing employment.
+    Section 300x–1, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1912, as added Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509/tI], § 102(a), [98 Stat. 2353][/us/stat/98/2353], authorized grants for training of employees adversely affected by changes in delivery of mental health services and for providing assistance in securing employment.
 
-    Another prior section 300x–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1912, as added Aug. 13, 1981, [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], [95 Stat. 543][/us/stat/95/543]; amended Jan. 4, 1983, [Pub. L. 97–414, § 8(t)][/us/pl/97/414/s8/t], [96 Stat. 2062][/us/stat/96/2062]; Oct. 19, 1984, [Pub. L. 98–509, title I, § 106(e)][/us/pl/98/509/s106/e], [98 Stat. 2358][/us/stat/98/2358], contained provisions relating to grants and allotment of grants for alcohol, drug abuse, and mental health services, prior to repeal by [section 102(a) of Pub. L. 98–509][/us/pl/98/509/s102/a].
+    Another prior section 300x–1, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1912, as added Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, [95 Stat. 543][/us/stat/95/543]; amended Jan. 4, 1983, [Pub. L. 97–414][/us/pl/97/414], § 8(t), [96 Stat. 2062][/us/stat/96/2062]; Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509/tI], § 106(e), [98 Stat. 2358][/us/stat/98/2358], contained provisions relating to grants and allotment of grants for alcohol, drug abuse, and mental health services, prior to repeal by [section 102(a) of Pub. L. 98–509][/us/pl/98/509/s102/a].
 
-    Section 300x–1a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1912A, as added and amended Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690], §§ 2022(a)–(c), 2023, [102 Stat. 4194][/us/stat/102/4194], 4196, 4197; Aug. 16, 1989, [Pub. L. 101–93, § 2(a)][/us/pl/101/93/s2/a], [103 Stat. 603][/us/stat/103/603], related to allotments of grants for alcohol, drug abuse, and mental health services.
+    Section 300x–1a, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1912A, as added and amended Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], §§ 2022(a)–(c), 2023, [102 Stat. 4194][/us/stat/102/4194], 4196, 4197; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 2(a), [103 Stat. 603][/us/stat/103/603], related to allotments of grants for alcohol, drug abuse, and mental health services.
 
-    Another prior section 300x–1a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1913, as added Oct. 19, 1984, [Pub. L. 98–509, title I, § 102(a)][/us/pl/98/509/s102/a], [98 Stat. 2353][/us/stat/98/2353], was transferred to [section 300x–1b of this title][/us/usc/t42/s300x–1b].
+    Another prior section 300x–1a, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1913, as added Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509/tI], § 102(a), [98 Stat. 2353][/us/stat/98/2353], was transferred to [section 300x–1b of this title][/us/usc/t42/s300x–1b].
 
-    Section 300x–1b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1913, as added Oct. 19, 1984, [Pub. L. 98–509, title I, § 102(a)][/us/pl/98/509/s102/a], [98 Stat. 2353][/us/stat/98/2353]; amended Nov. 18, 1988, [Pub. L. 100–690, title II, § 2022(d)][/us/pl/100/690/s2022/d], [102 Stat. 4197][/us/stat/102/4197]; Aug. 16, 1989, [Pub. L. 101–93, § 2(b)][/us/pl/101/93/s2/b], [103 Stat. 605][/us/stat/103/605], related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
+    Section 300x–1b, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1913, as added Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509/tI], § 102(a), [98 Stat. 2353][/us/stat/98/2353]; amended Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2022(d), [102 Stat. 4197][/us/stat/102/4197]; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 2(b), [103 Stat. 605][/us/stat/103/605], related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
 
  __Amendments__ 
 
@@ -130,43 +130,43 @@
 [/us/usc/t42/s300x–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%937
 [/us/usc/t42/s300x–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%937
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F379
-[/us/pl/106/310/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3204%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1192
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/106/310/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3204%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1192
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F378
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/509/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs102%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/98/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtI
 [/us/stat/98/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2353
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F543
-[/us/pl/97/414/s8/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Ft
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2062
-[/us/pl/98/509/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs106%2Fe
+[/us/pl/98/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtI
 [/us/stat/98/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2358
 [/us/pl/98/509/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs102%2Fa
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4194
-[/us/pl/101/93/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs2%2Fa
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F603
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/509/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs102%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/98/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtI
 [/us/stat/98/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2353
 [/us/usc/t42/s300x–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931b
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/509/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs102%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/98/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtI
 [/us/stat/98/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2353
-[/us/pl/100/690/s2022/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2022%2Fd
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4197
-[/us/pl/101/93/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs2%2Fb
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F605
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 

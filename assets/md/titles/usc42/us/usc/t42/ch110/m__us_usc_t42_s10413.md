@@ -93,11 +93,11 @@
 
         The entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
-([Pub. L. 98–457, title III, § 313][/us/pl/98/457/s313], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3504][/us/stat/124/3504].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 313, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3504][/us/stat/124/3504].)
 
  __Prior Provisions__ 
 
-    A prior section 10413, [Pub. L. 98–457, title III, § 313][/us/pl/98/457/s313], as added [Pub. L. 100–294, title III, § 303(c)][/us/pl/100/294/s303/c], Apr. 25, 1988, [102 Stat. 125][/us/stat/102/125]; amended [Pub. L. 102–295, title III, § 319][/us/pl/102/295/s319], May 28, 1992, [106 Stat. 209][/us/stat/106/209], related to family member abuse information and documentation project, prior to repeal by [Pub. L. 108–36, title IV, § 409][/us/pl/108/36/s409], June 25, 2003, [117 Stat. 827][/us/stat/117/827].
+    A prior section 10413, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 313, as added [Pub. L. 100–294, title III][/us/pl/100/294/tIII], § 303(c), Apr. 25, 1988, [102 Stat. 125][/us/stat/102/125]; amended [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 319, May 28, 1992, [106 Stat. 209][/us/stat/106/209], related to family member abuse information and documentation project, prior to repeal by [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 409, June 25, 2003, [117 Stat. 827][/us/stat/117/827].
 
 ----------
 
@@ -107,15 +107,15 @@
 ----------
 
 [/us/usc/t42/s10406/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fc%2F5
-[/us/pl/98/457/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs313
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3504
-[/us/pl/98/457/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs313
-[/us/pl/100/294/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs303%2Fc
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/100/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtIII
 [/us/stat/102/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F125
-[/us/pl/102/295/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs319
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F209
-[/us/pl/108/36/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs409
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F827
 
 

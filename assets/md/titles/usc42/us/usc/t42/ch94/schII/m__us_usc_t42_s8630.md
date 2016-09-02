@@ -17,11 +17,11 @@
 
     In providing assistance pursuant to this subchapter, a State, or any other person with which the State makes arrangements to carry out the purposes of this subchapter, may purchase renewable fuels, including biomass.
 
-([Pub. L. 97–35, title XXVI, § 2612][/us/pl/97/35/s2612], as added [Pub. L. 109–58, title I, § 121(b)][/us/pl/109/58/s121/b], Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2612, as added [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 121(b), Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616].)
 
  __Report to Congress__ 
 
-[Pub. L. 109–58, title I, § 121(c)][/us/pl/109/58/s121/c], Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616], provided that: 
+[Pub. L. 109–58, title I][/us/pl/109/58/tI], § 121(c), Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616], provided that: 
 
 > “The Secretary \[of Energy\] shall report to Congress on the use of renewable fuels in providing assistance under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621] et seq.).”
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/97/35/s2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2612
-[/us/pl/109/58/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs121%2Fb
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F616
-[/us/pl/109/58/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs121%2Fc
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F616
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
 

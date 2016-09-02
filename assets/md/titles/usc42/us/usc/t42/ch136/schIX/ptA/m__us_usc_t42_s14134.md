@@ -27,7 +27,7 @@
 
     (5) $1,000,000 for fiscal year 2000.
 
-([Pub. L. 103–322, title XXI, § 210306][/us/pl/103/322/s210306], Sept. 13, 1994, [108 Stat. 2071][/us/stat/108/2071].)
+([Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210306, Sept. 13, 1994, [108 Stat. 2071][/us/stat/108/2071].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s210306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210306
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2071
 
 

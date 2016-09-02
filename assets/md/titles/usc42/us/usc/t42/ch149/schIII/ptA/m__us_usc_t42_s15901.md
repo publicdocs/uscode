@@ -17,7 +17,7 @@
 
     In this part, the term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 109–58, title III, § 341][/us/pl/109/58/s341], Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 341, Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs341
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F697
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F697

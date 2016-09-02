@@ -27,7 +27,7 @@
 
         The eligibility of covered employees for compensation under the compensation program shall be determined in accordance with the provisions of part B as may be modified by a law enacted after the date of the submittal of the proposal for legislation required by [section 7384f of this title][/us/usc/t42/s7384f].
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3611\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–497.)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3611\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–497.)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s7384f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384f
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

@@ -17,7 +17,7 @@
 
     To the extent he deems appropriate, the Secretary shall utilize funds available under this part to prepare a plan of action for the establishment of a Model Community Economic Development Finance Corporation to provide a user-controlled independent and professionally operated long-term financing vehicle with the principal purpose of providing financial support for community economic development corporations, cooperatives, other affiliated and supportive agencies and organizations associated with community economic development corporations, and other entities eligible for assistance under this subchapter.
 
-([Pub. L. 97–35, title VI, § 624][/us/pl/97/35/s624], Aug. 13, 1981, [95 Stat. 495][/us/stat/95/495].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 624, Aug. 13, 1981, [95 Stat. 495][/us/stat/95/495].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs624
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F495
 
 

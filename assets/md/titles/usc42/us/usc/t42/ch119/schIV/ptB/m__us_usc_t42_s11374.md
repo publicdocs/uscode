@@ -49,15 +49,15 @@
 
         (2) the amount expended by such grantee for such activities during fiscal year  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “the fiscal year”. </sup></sup>  most recently completed before the effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009.
 
-([Pub. L. 100–77, title IV, § 415][/us/pl/100/77/s415], as added [Pub. L. 111–22, div. B, title II, § 1202][/us/pl/111/22/s1202], May 20, 2009, [123 Stat. 1679][/us/stat/123/1679].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 415, as added [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1202, May 20, 2009, [123 Stat. 1679][/us/stat/123/1679].)
 
  __References in Text__ 
 
-    The effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (b)(2), is the effective date under [section 1503 of div. B of Pub. L. 111–22][/us/pl/111/22/s1503], set out as an Effective Date of 2009 Amendment note under [section 11302 of this title][/us/usc/t42/s11302].
+    The effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (b)(2), is the effective date under [section 1503 of div. B of Pub. L. 111–22][/us/pl/111/22/dB/s1503], set out as an Effective Date of 2009 Amendment note under [section 11302 of this title][/us/usc/t42/s11302].
 
  __Prior Provisions__ 
 
-    A prior section 11374, [Pub. L. 100–77, title IV, § 415][/us/pl/100/77/s415], formerly § 414, July 22, 1987, [101 Stat. 497][/us/stat/101/497]; [Pub. L. 100–628, title IV][/us/pl/100/628], §§ 422, 423(a), Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII, § 832(c)][/us/pl/101/625/s832/c], (d), (f)(6), Nov. 28, 1990, [104 Stat. 4360][/us/stat/104/4360], 4361; [Pub. L. 102–550, title XIV, § 1402(e)][/us/pl/102/550/s1402/e], Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013]; [Pub. L. 104–330, title V, § 506(a)(4)][/us/pl/104/330/s506/a/4], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 229(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31; renumbered § 415, [Pub. L. 111–22, div. B, title II, § 1201(3)][/us/pl/111/22/s1201/3], May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], which related to assistance used for activities relating to emergency shelter for homeless individuals, was repealed by [Pub. L. 111–22, div. B, title II, § 1202][/us/pl/111/22/s1202], May 20, 2009, [123 Stat. 1679][/us/stat/123/1679].
+    A prior section 11374, [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 415, formerly § 414, July 22, 1987, [101 Stat. 497][/us/stat/101/497]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], §§ 422, 423(a), Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(c), (d), (f)(6), Nov. 28, 1990, [104 Stat. 4360][/us/stat/104/4360], 4361; [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1402(e), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(4), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 229(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31; renumbered § 415, [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(3), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], which related to assistance used for activities relating to emergency shelter for homeless individuals, was repealed by [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1202, May 20, 2009, [123 Stat. 1679][/us/stat/123/1679].
 
     Another prior [section 415 of Pub. L. 100–77][/us/pl/100/77/s415] was renumbered section 416 and is classified to [section 11375 of this title][/us/usc/t42/s11375].
 
@@ -67,7 +67,7 @@
 
  __Report by Comptroller General__ 
 
-    [Pub. L. 100–628, title IV, § 423(b)][/us/pl/100/628/s423/b], Nov. 7, 1988, [102 Stat. 3232][/us/stat/102/3232], required the Comptroller General to conduct a study and report to Congress not later than 1 year after Nov. 7, 1988, on programs to prevent homelessness implemented by grantees.
+    [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 423(b), Nov. 7, 1988, [102 Stat. 3232][/us/stat/102/3232], required the Comptroller General to conduct a study and report to Congress not later than 1 year after Nov. 7, 1988, on programs to prevent homelessness implemented by grantees.
 
 ----------
 
@@ -78,32 +78,32 @@
 
 [/us/usc/t42/s11372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11372
 [/us/usc/t42/s11372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11372
-[/us/pl/100/77/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs415
-[/us/pl/111/22/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1202
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1679
-[/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
+[/us/pl/111/22/dB/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
-[/us/pl/100/77/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs415
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F497
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3231
-[/us/pl/101/625/s832/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fc
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4360
-[/us/pl/102/550/s1402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1402%2Fe
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4013
-[/us/pl/104/330/s506/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F4
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/111/22/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F3
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
-[/us/pl/111/22/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1202
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1679
 [/us/pl/100/77/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs415
 [/us/usc/t42/s11375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11375
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
-[/us/pl/100/628/s423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs423%2Fb
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3232
 
 

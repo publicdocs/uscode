@@ -35,13 +35,13 @@
 
         (3) after the completion of a project, include the realized private sector dollar to Federal dollar investment ratio for the project.
 
-([Pub. L. 89–136, title VI, § 603][/us/pl/89/136/s603], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3614][/us/stat/112/3614]; amended [Pub. L. 108–373, title VI, § 601][/us/pl/108/373/s601], Oct. 27, 2004, [118 Stat. 1769][/us/stat/118/1769].)
+([Pub. L. 89–136, title VI][/us/pl/89/136/tVI], § 603, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3614][/us/stat/112/3614]; amended [Pub. L. 108–373, title VI][/us/pl/108/373/tVI], § 601, Oct. 27, 2004, [118 Stat. 1769][/us/stat/118/1769].)
 
  __Prior Provisions__ 
 
-    A prior section 3213, [Pub. L. 89–136, title VII, § 703][/us/pl/89/136/s703], Aug. 26, 1965, [79 Stat. 572][/us/stat/79/572], set forth savings provisions, prior to repeal by [Pub. L. 105–393, § 102(b)(3)][/us/pl/105/393/s102/b/3].
+    A prior section 3213, [Pub. L. 89–136, title VII][/us/pl/89/136/tVII], § 703, Aug. 26, 1965, [79 Stat. 572][/us/stat/79/572], set forth savings provisions, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(b)(3).
 
-    A prior [section 603 of Pub. L. 89–136][/us/pl/89/136/s603] was classified to [section 3203 of this title][/us/usc/t42/s3203] prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior [section 603 of Pub. L. 89–136][/us/pl/89/136/s603] was classified to [section 3203 of this title][/us/usc/t42/s3203] prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
  __Amendments__ 
 
@@ -54,17 +54,17 @@
 ----------
 ----------
 
-[/us/pl/89/136/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs603
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVI
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3614
-[/us/pl/108/373/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs601
+[/us/pl/108/373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtVI
 [/us/stat/118/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1769
-[/us/pl/89/136/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs703
+[/us/pl/89/136/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVII
 [/us/stat/79/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F572
-[/us/pl/105/393/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fb%2F3
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/pl/89/136/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs603
 [/us/usc/t42/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3203
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

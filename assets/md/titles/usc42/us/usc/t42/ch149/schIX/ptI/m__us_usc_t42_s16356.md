@@ -31,7 +31,7 @@
 
     (7) a summary of collaboration efforts with the Office of Federal Contract Compliance Programs to improve equal employment opportunity practices at the National Laboratories.
 
-([Pub. L. 109–58, title IX, § 992][/us/pl/109/58/s992], Aug. 8, 2005, [119 Stat. 913][/us/stat/119/913].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 992, Aug. 8, 2005, [119 Stat. 913][/us/stat/119/913].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs992
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F913
 
 

@@ -103,7 +103,7 @@
 
         Nothing in this section prevents a lessee from receiving royalty relief or a royalty reduction pursuant to any other law (including a regulation) that provides more relief than the amounts provided by this section.
 
-([Pub. L. 109–58, title III, § 343][/us/pl/109/58/s343], Aug. 8, 2005, [119 Stat. 700][/us/stat/119/700].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 343, Aug. 8, 2005, [119 Stat. 700][/us/stat/119/700].)
 
 ----------
 
@@ -112,7 +112,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs343
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F700
 
 

@@ -429,15 +429,15 @@
 
     (54) Except for the purposes of subchapter X of this chapter, the term “tribal organization” means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
 
-([Pub. L. 89–73, title I, § 102][/us/pl/89/73/s102], July 14, 1965, [79 Stat. 219][/us/stat/79/219]; [Pub. L. 90–42, § 5(a)][/us/pl/90/42/s5/a], July 1, 1967, [81 Stat. 107][/us/stat/81/107]; [Pub. L. 91–69, § 10(a)][/us/pl/91/69/s10/a], Sept. 17, 1969, [83 Stat. 114][/us/stat/83/114]; [Pub. L. 94–135, title I][/us/pl/94/135], §§ 104(b), 114(a), Nov. 28, 1975, [89 Stat. 714][/us/stat/89/714], 725; [Pub. L. 95–478, title V, § 503(a)][/us/pl/95/478/s503/a], Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559]; [Pub. L. 97–115, § 2(a)(2)][/us/pl/97/115/s2/a/2], (3), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, [101 Stat. 942][/us/stat/101/942], 950, 964; [Pub. L. 100–628, title VII, § 705(1)][/us/pl/100/628/s705/1], Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I, § 102(a)][/us/pl/102/375/s102/a], (b)(1)(A), title IX, § 904(a)(2), Sept. 30, 1992, [106 Stat. 1197][/us/stat/106/1197], 1200, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(1), 3(a)(1), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1989; [Pub. L. 105–244, title I, § 102(a)(13)(C)][/us/pl/105/244/s102/a/13/C], Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 106–501, title I, § 101][/us/pl/106/501/s101], title VIII, § 801(a), Nov. 13, 2000, [114 Stat. 2227][/us/stat/114/2227], 2291; [Pub. L. 108–36, title IV, § 416][/us/pl/108/36/s416], June 25, 2003, [117 Stat. 831][/us/stat/117/831]; [Pub. L. 109–365, title I, § 101][/us/pl/109/365/s101], Oct. 17, 2006, [120 Stat. 2523][/us/stat/120/2523].)
+([Pub. L. 89–73, title I][/us/pl/89/73/tI], § 102, July 14, 1965, [79 Stat. 219][/us/stat/79/219]; [Pub. L. 90–42][/us/pl/90/42], § 5(a), July 1, 1967, [81 Stat. 107][/us/stat/81/107]; [Pub. L. 91–69][/us/pl/91/69], § 10(a), Sept. 17, 1969, [83 Stat. 114][/us/stat/83/114]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 104(b), 114(a), Nov. 28, 1975, [89 Stat. 714][/us/stat/89/714], 725; [Pub. L. 95–478, title V][/us/pl/95/478/tV], § 503(a), Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559]; [Pub. L. 97–115][/us/pl/97/115], § 2(a)(2), (3), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, [101 Stat. 942][/us/stat/101/942], 950, 964; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(1), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(a), (b)(1)(A), title IX, § 904(a)(2), Sept. 30, 1992, [106 Stat. 1197][/us/stat/106/1197], 1200, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(1), 3(a)(1), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1989; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(C), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 106–501, title I][/us/pl/106/501/tI], § 101, title VIII, § 801(a), Nov. 13, 2000, [114 Stat. 2227][/us/stat/114/2227], 2291; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 416, June 25, 2003, [117 Stat. 831][/us/stat/117/831]; [Pub. L. 109–365, title I][/us/pl/109/365/tI], § 101, Oct. 17, 2006, [120 Stat. 2523][/us/stat/120/2523].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in pars. (14) and (32), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
-    [Section 8801 of title 20][/us/usc/t20/s8801], referred to in par. (14)(E)(ii), was repealed by [Pub. L. 107–110, title X, § 1011(5)(C)][/us/pl/107/110/s1011/5/C], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]. See [section 7801 of Title 20][/us/usc/t20/s7801], Education.
+    [Section 8801 of title 20][/us/usc/t20/s8801], referred to in par. (14)(E)(ii), was repealed by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1011(5)(C), Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]. See [section 7801 of Title 20][/us/usc/t20/s7801], Education.
 
-    The Family Violence Prevention and Services Act, referred to in par. (19), is title III of [Pub. L. 98–457][/us/pl/98/457], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3484][/us/stat/124/3484], which is classified generally to chapter 110 (§ 10401 et seq.) of this title. For complete classification of this Act to the Code, see [section 10401(a) of this title][/us/usc/t42/s10401/a] and Tables.
+    The Family Violence Prevention and Services Act, referred to in par. (19), is title III of [Pub. L. 98–457][/us/pl/98/457], as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3484][/us/stat/124/3484], which is classified generally to chapter 110 (§ 10401 et seq.) of this title. For complete classification of this Act to the Code, see [section 10401(a) of this title][/us/usc/t42/s10401/a] and Tables.
 
     The Alaska Native Claims Settlement Act, referred to in par. (27), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
@@ -445,117 +445,117 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–365, § 101(b)][/us/pl/109/365/s101/b], redesignated pars. (1) to (54) as (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33), (35), (36), (38), (40), (41), (42), (43), (44), (51), (53), (19), (49), (4), (9), (12), (17), (20), (25), (34), (46), (47), (52), and (32), respectively.
+    2006—[Pub. L. 109–365][/us/pl/109/365], § 101(b), redesignated pars. (1) to (54) as (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33), (35), (36), (38), (40), (41), (42), (43), (44), (51), (53), (19), (49), (4), (9), (12), (17), (20), (25), (34), (46), (47), (52), and (32), respectively.
 
-    Par. (10). [Pub. L. 109–365, § 101(a)(1)][/us/pl/109/365/s101/a/1], added par. (10) and struck out former par. (10) which read as follows: “The term ‘assistive technology’ means technology, engineering methodologies, or scientific principles appropriate to meet the needs of, and address the barriers confronted by, older individuals with functional limitations.”
+    Par. (10). [Pub. L. 109–365][/us/pl/109/365], § 101(a)(1), added par. (10) and struck out former par. (10) which read as follows: “The term ‘assistive technology’ means technology, engineering methodologies, or scientific principles appropriate to meet the needs of, and address the barriers confronted by, older individuals with functional limitations.”
 
-    Par. (12)(D). [Pub. L. 109–365, § 101(a)(2)][/us/pl/109/365/s101/a/2], added subpar. (D) and struck out former subpar. (D) which read as follows: “health promotion programs, including but not limited to programs relating to prevention and reduction of effects of chronic disabling conditions (including osteoporosis and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, and stress management;”.
+    Par. (12)(D). [Pub. L. 109–365][/us/pl/109/365], § 101(a)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “health promotion programs, including but not limited to programs relating to prevention and reduction of effects of chronic disabling conditions (including osteoporosis and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, and stress management;”.
 
-    Par. (24). [Pub. L. 109–365, § 101(a)(3)][/us/pl/109/365/s101/a/3], added par. (24) and struck out former par. (24) which read as follows: “The term ‘exploitation’ means the illegal or improper act or process of an individual, including a caregiver, using the resources of an older individual for monetary or personal benefit, profit, or gain.”
+    Par. (24). [Pub. L. 109–365][/us/pl/109/365], § 101(a)(3), added par. (24) and struck out former par. (24) which read as follows: “The term ‘exploitation’ means the illegal or improper act or process of an individual, including a caregiver, using the resources of an older individual for monetary or personal benefit, profit, or gain.”
 
-    Par. (29)(E)(iii). [Pub. L. 109–365, § 101(a)(4)][/us/pl/109/365/s101/a/4], added cl. (iii).
+    Par. (29)(E)(iii). [Pub. L. 109–365][/us/pl/109/365], § 101(a)(4), added cl. (iii).
 
-    Par. (32)(D). [Pub. L. 109–365, § 101(a)(5)][/us/pl/109/365/s101/a/5], inserted “, including an assisted living facility,” after “home”.
+    Par. (32)(D). [Pub. L. 109–365][/us/pl/109/365], § 101(a)(5), inserted “, including an assisted living facility,” after “home”.
 
-    Par. (34). [Pub. L. 109–365, § 101(a)(6)][/us/pl/109/365/s101/a/6], added par. (34) and struck out former par. (34) which read as follows: “The term ‘neglect’ means—
+    Par. (34). [Pub. L. 109–365][/us/pl/109/365], § 101(a)(6), added par. (34) and struck out former par. (34) which read as follows: “The term ‘neglect’ means—
 
     “(A) the failure to provide for oneself the goods or services that are necessary to avoid physical harm, mental anguish, or mental illness; or
 
     “(B) the failure of a caregiver to provide the goods or services.”
 
-    Pars. (44) to (54). [Pub. L. 109–365, § 101(a)(7)][/us/pl/109/365/s101/a/7], added pars. (44) to (54).
+    Pars. (44) to (54). [Pub. L. 109–365][/us/pl/109/365], § 101(a)(7), added pars. (44) to (54).
 
     2003—Par. (42). [Pub. L. 108–36][/us/pl/108/36] struck out “([42 U.S.C. 10408][/us/usc/t42/s10408])” before period at end.
 
-    2000—Par. (3). [Pub. L. 106–501, § 101(1)][/us/pl/106/501/s101/1], substituted “and the Commonwealth of the Northern Mariana Islands” for “the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
+    2000—Par. (3). [Pub. L. 106–501][/us/pl/106/501], § 101(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
-    Par. (12). [Pub. L. 106–501, § 101(2)][/us/pl/106/501/s101/2], added par. (12) and struck out former par. (12) which read as follows: “The term ‘Trust Territory of the Pacific Islands’ includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
+    Par. (12). [Pub. L. 106–501][/us/pl/106/501], § 101(2), added par. (12) and struck out former par. (12) which read as follows: “The term ‘Trust Territory of the Pacific Islands’ includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
 
-    Par. (18). [Pub. L. 106–501, § 101(3)][/us/pl/106/501/s101/3], redesignated par. (19) as (18) and struck out former par. (18) which read as follows: “The term ‘art therapy’ means the use of art and artistic processes specifically selected and administered by an art therapist, to accomplish the restoration, maintenance, or improvement of the mental, emotional, or social functioning of an older individual.”
+    Par. (18). [Pub. L. 106–501][/us/pl/106/501], § 101(3), redesignated par. (19) as (18) and struck out former par. (18) which read as follows: “The term ‘art therapy’ means the use of art and artistic processes specifically selected and administered by an art therapist, to accomplish the restoration, maintenance, or improvement of the mental, emotional, or social functioning of an older individual.”
 
-    Par. (19). [Pub. L. 106–501, § 101(4)][/us/pl/106/501/s101/4], added par. (19) and struck out former par. (19) which read as follows: “The term ‘caregiver’ means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law.”
+    Par. (19). [Pub. L. 106–501][/us/pl/106/501], § 101(4), added par. (19) and struck out former par. (19) which read as follows: “The term ‘caregiver’ means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law.”
 
-    [Pub. L. 106–501, § 101(3)][/us/pl/106/501/s101/3], redesignated par. (20) as (19). Former par. (19) redesignated (18).
+    [Pub. L. 106–501][/us/pl/106/501], § 101(3), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
-    Par. (20). [Pub. L. 106–501, § 101(4)][/us/pl/106/501/s101/4], added par. (20) and struck out former par. (20) which read as follows: “The term ‘caretaker’ means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) uncompensated care to an older individual who needs supportive services.”
+    Par. (20). [Pub. L. 106–501][/us/pl/106/501], § 101(4), added par. (20) and struck out former par. (20) which read as follows: “The term ‘caretaker’ means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) uncompensated care to an older individual who needs supportive services.”
 
-    [Pub. L. 106–501, § 101(3)][/us/pl/106/501/s101/3], redesignated par. (21) as (20). Former par. (20) redesignated (19).
+    [Pub. L. 106–501][/us/pl/106/501], § 101(3), redesignated par. (21) as (20). Former par. (20) redesignated (19).
 
-    Par. (21). [Pub. L. 106–501, § 101(3)][/us/pl/106/501/s101/3], redesignated par. (22) as (21). Former par. (21) redesignated (20).
+    Par. (21). [Pub. L. 106–501][/us/pl/106/501], § 101(3), redesignated par. (22) as (21). Former par. (21) redesignated (20).
 
-    Par. (22). [Pub. L. 106–501, § 101(5)][/us/pl/106/501/s101/5], redesignated par. (24) as (22). Former par. (22) redesignated (21).
+    Par. (22). [Pub. L. 106–501][/us/pl/106/501], § 101(5), redesignated par. (24) as (22). Former par. (22) redesignated (21).
 
-    Par. (23). [Pub. L. 106–501, § 101(5)][/us/pl/106/501/s101/5], redesignated par. (25) as (23) and struck out former par. (23) which read as follows: “The term ‘dance-movement therapy’ means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.”
+    Par. (23). [Pub. L. 106–501][/us/pl/106/501], § 101(5), redesignated par. (25) as (23) and struck out former par. (23) which read as follows: “The term ‘dance-movement therapy’ means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.”
 
-    Pars. (24) to (31). [Pub. L. 106–501, § 101(5)][/us/pl/106/501/s101/5], redesignated pars. (26) to (33) as (24) to (31), respectively. Former pars. (24) and (25) redesignated (22) and (23), respectively.
+    Pars. (24) to (31). [Pub. L. 106–501][/us/pl/106/501], § 101(5), redesignated pars. (26) to (33) as (24) to (31), respectively. Former pars. (24) and (25) redesignated (22) and (23), respectively.
 
-    Par. (32). [Pub. L. 106–501, § 101(5)][/us/pl/106/501/s101/5], redesignated par. (34) as (32). Former par. (32) redesignated (30).
+    Par. (32). [Pub. L. 106–501][/us/pl/106/501], § 101(5), redesignated par. (34) as (32). Former par. (32) redesignated (30).
 
-    Par. (32)(C). [Pub. L. 106–501, § 801(a)][/us/pl/106/501/s801/a], which directed that par. (34)(C) be amended by substituting “3027(a)(9)” for “3027(a)(12)”, was executed by making the substitution in par. (32)(C), to reflect the probable intent of Congress and the redesignation of par. (34) as (32) by [Pub. L. 106–501, § 101(5)][/us/pl/106/501/s101/5]. See above.
+    Par. (32)(C). [Pub. L. 106–501][/us/pl/106/501], § 801(a), which directed that par. (34)(C) be amended by substituting “3027(a)(9)” for “3027(a)(12)”, was executed by making the substitution in par. (32)(C), to reflect the probable intent of Congress and the redesignation of par. (34) as (32) by [Pub. L. 106–501][/us/pl/106/501], § 101(5). See above.
 
-    Par. (33). [Pub. L. 106–501, § 101(5)][/us/pl/106/501/s101/5], redesignated par. (35) as (33). Former par. (33) redesignated (31).
+    Par. (33). [Pub. L. 106–501][/us/pl/106/501], § 101(5), redesignated par. (35) as (33). Former par. (33) redesignated (31).
 
-    Pars. (34), (35). [Pub. L. 106–501, § 101(6)][/us/pl/106/501/s101/6], redesignated pars. (37) and (38) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (32) and (33), respectively.
+    Pars. (34), (35). [Pub. L. 106–501][/us/pl/106/501], § 101(6), redesignated pars. (37) and (38) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (32) and (33), respectively.
 
-    Par. (36). [Pub. L. 106–501, § 101(6)][/us/pl/106/501/s101/6], redesignated par. (39) as (36) and struck out former par.(36) which read as follows: “The term ‘music therapy’ means the use of musical or rhythmic interventions specifically selected by a music therapist to accomplish the restoration, maintenance, or improvement of social or emotional functioning, mental processing, or physical health of an older individual.”
+    Par. (36). [Pub. L. 106–501][/us/pl/106/501], § 101(6), redesignated par. (39) as (36) and struck out former par.(36) which read as follows: “The term ‘music therapy’ means the use of musical or rhythmic interventions specifically selected by a music therapist to accomplish the restoration, maintenance, or improvement of social or emotional functioning, mental processing, or physical health of an older individual.”
 
-    Pars. (37) to (41). [Pub. L. 106–501, § 101(6)][/us/pl/106/501/s101/6], redesignated pars. (40) to (44) as (37) to (41), respectively. Former pars. (37) to (39) redesignated (34) to (36), respectively.
+    Pars. (37) to (41). [Pub. L. 106–501][/us/pl/106/501], § 101(6), redesignated pars. (40) to (44) as (37) to (41), respectively. Former pars. (37) to (39) redesignated (34) to (36), respectively.
 
-    Pars. (42), (43). [Pub. L. 106–501, § 101(7)][/us/pl/106/501/s101/7], added pars. (42) and (43). Former pars. (42) and (43) redesignated (39) and (40), respectively.
+    Pars. (42), (43). [Pub. L. 106–501][/us/pl/106/501], § 101(7), added pars. (42) and (43). Former pars. (42) and (43) redesignated (39) and (40), respectively.
 
-    Par. (44). [Pub. L. 106–501, § 101(6)][/us/pl/106/501/s101/6], redesignated par. (44) as (41).
+    Par. (44). [Pub. L. 106–501][/us/pl/106/501], § 101(6), redesignated par. (44) as (41).
 
     1998—Par. (32). [Pub. L. 105–244][/us/pl/105/244] substituted “section 1001” for “section 1141(a)”.
 
-    1993—Par. (2). [Pub. L. 103–171, § 3(a)(1)][/us/pl/103/171/s3/a/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘Commissioner’ means, unless the context otherwise requires, the Commissioner of the Administration.”
+    1993—Par. (2). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘Commissioner’ means, unless the context otherwise requires, the Commissioner of the Administration.”
 
-    Par. (3). [Pub. L. 103–171, § 2(1)][/us/pl/103/171/s2/1], substituted “Virgin Islands of the United States” for “Virgin Islands”.
+    Par. (3). [Pub. L. 103–171][/us/pl/103/171], § 2(1), substituted “Virgin Islands of the United States” for “Virgin Islands”.
 
-    1992—Par. (2). [Pub. L. 102–375, § 904(a)(2)][/us/pl/102/375/s904/a/2], which directed amendment of par. (2) by substituting “United States Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
+    1992—Par. (2). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(2), which directed amendment of par. (2) by substituting “United States Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
 
-    [Pub. L. 102–375, § 102(b)(1)(A)][/us/pl/102/375/s102/b/1/A], substituted “Administration” for “Administration on Aging”.
+    [Pub. L. 102–375][/us/pl/102/375], § 102(b)(1)(A), substituted “Administration” for “Administration on Aging”.
 
-    Pars. (13) to (44). [Pub. L. 102–375, § 102(a)][/us/pl/102/375/s102/a], added pars. (13) to (44).
+    Pars. (13) to (44). [Pub. L. 102–375][/us/pl/102/375], § 102(a), added pars. (13) to (44).
 
-    1988—Par. (10). [Pub. L. 100–628, § 705(1)(A)][/us/pl/100/628/s705/1/A], redesignated par. (8) defining “assistive technology” as (10).
+    1988—Par. (10). [Pub. L. 100–628][/us/pl/100/628], § 705(1)(A), redesignated par. (8) defining “assistive technology” as (10).
 
-    Par. (11). [Pub. L. 100–628, § 705(1)(A)][/us/pl/100/628/s705/1/A], redesignated par. (9) defining “information and referral” as (11).
+    Par. (11). [Pub. L. 100–628][/us/pl/100/628], § 705(1)(A), redesignated par. (9) defining “information and referral” as (11).
 
-    Par. (12). [Pub. L. 100–628, § 705(1)(B)][/us/pl/100/628/s705/1/B], redesignated par. (8) defining “Trust Territory of the Pacific Islands” as (12).
+    Par. (12). [Pub. L. 100–628][/us/pl/100/628], § 705(1)(B), redesignated par. (8) defining “Trust Territory of the Pacific Islands” as (12).
 
-    1987—Par. (1). [Pub. L. 100–175, § 182(a)][/us/pl/100/175/s182/a], substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
+    1987—Par. (1). [Pub. L. 100–175][/us/pl/100/175], § 182(a), substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
 
-    Par. (3). [Pub. L. 100–175, § 182(b)(1)(A)][/us/pl/100/175/s182/b/1/A], substituted “means any of the several States,” for “includes” and “the Commonwealth of Puerto Rico” for “Puerto Rico”.
+    Par. (3). [Pub. L. 100–175][/us/pl/100/175], § 182(b)(1)(A), substituted “means any of the several States,” for “includes” and “the Commonwealth of Puerto Rico” for “Puerto Rico”.
 
-    Par. (8). [Pub. L. 100–175, § 182(b)(1)(B)][/us/pl/100/175/s182/b/1/B], added par. (8) defining “Trust Territory of the Pacific Islands”.
+    Par. (8). [Pub. L. 100–175][/us/pl/100/175], § 182(b)(1)(B), added par. (8) defining “Trust Territory of the Pacific Islands”.
 
-    [Pub. L. 100–175, § 146(a)][/us/pl/100/175/s146/a], added par. (8) defining “assistive technology”.
+    [Pub. L. 100–175][/us/pl/100/175], § 146(a), added par. (8) defining “assistive technology”.
 
-    [Pub. L. 100–175, § 136(a)(1)][/us/pl/100/175/s136/a/1], added par. (8) defining “disability”.
+    [Pub. L. 100–175][/us/pl/100/175], § 136(a)(1), added par. (8) defining “disability”.
 
-    Par. (9). [Pub. L. 100–175, § 146(a)][/us/pl/100/175/s146/a], added par. (9) defining “information and referral”.
+    Par. (9). [Pub. L. 100–175][/us/pl/100/175], § 146(a), added par. (9) defining “information and referral”.
 
-    [Pub. L. 100–175, § 136(a)(1)][/us/pl/100/175/s136/a/1], added par. (9) defining “severe disability”.
+    [Pub. L. 100–175][/us/pl/100/175], § 136(a)(1), added par. (9) defining “severe disability”.
 
-    1981—Par. (1). [Pub. L. 97–115, § 2(a)(2)][/us/pl/97/115/s2/a/2], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+    1981—Par. (1). [Pub. L. 97–115][/us/pl/97/115], § 2(a)(2), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-    Par. (3). [Pub. L. 97–115, § 2(a)(3)(A)][/us/pl/97/115/s2/a/3/A], inserted reference to the Commonwealth of the Northern Mariana Islands.
+    Par. (3). [Pub. L. 97–115][/us/pl/97/115], § 2(a)(3)(A), inserted reference to the Commonwealth of the Northern Mariana Islands.
 
-    Pars. (6), (7). [Pub. L. 97–115, § 2(a)(3)(B)][/us/pl/97/115/s2/a/3/B], (C), substituted “Except for the purposes of subchapter X of this chapter, the term” for “The term”.
+    Pars. (6), (7). [Pub. L. 97–115][/us/pl/97/115], § 2(a)(3)(B), (C), substituted “Except for the purposes of subchapter X of this chapter, the term” for “The term”.
 
-    1978—Par. (1). [Pub. L. 95–478, § 503(a)(1)][/us/pl/95/478/s503/a/1], inserted “, other than for purposes of subchapter IX of this chapter”.
+    1978—Par. (1). [Pub. L. 95–478][/us/pl/95/478], § 503(a)(1), inserted “, other than for purposes of subchapter IX of this chapter”.
 
-    Pars. (4) to (7). [Pub. L. 95–478, § 503(a)(2)][/us/pl/95/478/s503/a/2], redesignated second par. (4), which was enacted by [Pub. L. 94–135, § 104(b)][/us/pl/94/135/s104/b], as par. (5) and redesignated existing pars. (5) and (6) as (6) and (7), respectively.
+    Pars. (4) to (7). [Pub. L. 95–478][/us/pl/95/478], § 503(a)(2), redesignated second par. (4), which was enacted by [Pub. L. 94–135][/us/pl/94/135], § 104(b), as par. (5) and redesignated existing pars. (5) and (6) as (6) and (7), respectively.
 
-    1975—Par. (1). [Pub. L. 94–135, § 114(a)][/us/pl/94/135/s114/a], substituted a period for the semicolon.
+    1975—Par. (1). [Pub. L. 94–135][/us/pl/94/135], § 114(a), substituted a period for the semicolon.
 
-    Pars. (4) to (6). [Pub. L. 94–135, § 104(b)][/us/pl/94/135/s104/b], added pars. (4) to (6).
+    Pars. (4) to (6). [Pub. L. 94–135][/us/pl/94/135], § 104(b), added pars. (4) to (6).
 
     1969—Par. (3). [Pub. L. 91–69][/us/pl/91/69] enlarged term “State” to include the Trust Territory of the Pacific Islands.
 
-    1967—Par. (2). [Pub. L. 90–42, § 5(a)(1)][/us/pl/90/42/s5/a/1], inserted “, unless the context otherwise requires,” after “means”.
+    1967—Par. (2). [Pub. L. 90–42][/us/pl/90/42], § 5(a)(1), inserted “, unless the context otherwise requires,” after “means”.
 
-    Par. (4). [Pub. L. 90–42, § 5(a)(2)][/us/pl/90/42/s5/a/2], enlarged term nonprofit institution or organization to include nonprofit agencies.
+    Par. (4). [Pub. L. 90–42][/us/pl/90/42], § 5(a)(2), enlarged term nonprofit institution or organization to include nonprofit agencies.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -602,43 +602,43 @@
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
 [/us/usc/t42/s3025/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fa%2F1
 [/us/usc/t42/s3030d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030d%2Fa
-[/us/pl/89/73/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs102
+[/us/pl/89/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtI
 [/us/stat/79/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F219
-[/us/pl/90/42/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42%2Fs5%2Fa
+[/us/pl/90/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42
 [/us/stat/81/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F107
-[/us/pl/91/69/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F69%2Fs10%2Fa
+[/us/pl/91/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F69
 [/us/stat/83/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F114
-[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F714
-[/us/pl/95/478/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs503%2Fa
+[/us/pl/95/478/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtV
 [/us/stat/92/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1559
-[/us/pl/97/115/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fa%2F2
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1595
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F942
-[/us/pl/100/628/s705/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3247
-[/us/pl/102/375/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fa
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1197
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1988
-[/us/pl/105/244/s102/a/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FC
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1620
-[/us/pl/106/501/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101
+[/us/pl/106/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtI
 [/us/stat/114/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2227
-[/us/pl/108/36/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs416
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F831
-[/us/pl/109/365/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101
+[/us/pl/109/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtI
 [/us/stat/120/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2523
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
-[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3484
 [/us/usc/t42/s10401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10401%2Fa
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
@@ -646,63 +646,63 @@
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
-[/us/pl/109/365/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fb
-[/us/pl/109/365/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fa%2F1
-[/us/pl/109/365/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fa%2F2
-[/us/pl/109/365/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fa%2F3
-[/us/pl/109/365/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fa%2F4
-[/us/pl/109/365/s101/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fa%2F5
-[/us/pl/109/365/s101/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fa%2F6
-[/us/pl/109/365/s101/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs101%2Fa%2F7
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
 [/us/usc/t42/s10408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10408
-[/us/pl/106/501/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F1
-[/us/pl/106/501/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F2
-[/us/pl/106/501/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F3
-[/us/pl/106/501/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F4
-[/us/pl/106/501/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F3
-[/us/pl/106/501/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F4
-[/us/pl/106/501/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F3
-[/us/pl/106/501/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F3
-[/us/pl/106/501/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F5
-[/us/pl/106/501/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F5
-[/us/pl/106/501/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F5
-[/us/pl/106/501/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F5
-[/us/pl/106/501/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fa
-[/us/pl/106/501/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F5
-[/us/pl/106/501/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F5
-[/us/pl/106/501/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F6
-[/us/pl/106/501/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F6
-[/us/pl/106/501/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F6
-[/us/pl/106/501/s101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F7
-[/us/pl/106/501/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs101%2F6
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/103/171/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F1
-[/us/pl/103/171/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F1
-[/us/pl/102/375/s904/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F2
-[/us/pl/102/375/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F1%2FA
-[/us/pl/102/375/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fa
-[/us/pl/100/628/s705/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F1%2FA
-[/us/pl/100/628/s705/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F1%2FA
-[/us/pl/100/628/s705/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F1%2FB
-[/us/pl/100/175/s182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fa
-[/us/pl/100/175/s182/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fb%2F1%2FA
-[/us/pl/100/175/s182/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fb%2F1%2FB
-[/us/pl/100/175/s146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs146%2Fa
-[/us/pl/100/175/s136/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs136%2Fa%2F1
-[/us/pl/100/175/s146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs146%2Fa
-[/us/pl/100/175/s136/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs136%2Fa%2F1
-[/us/pl/97/115/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fa%2F2
-[/us/pl/97/115/s2/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fa%2F3%2FA
-[/us/pl/97/115/s2/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fa%2F3%2FB
-[/us/pl/95/478/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs503%2Fa%2F1
-[/us/pl/95/478/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs503%2Fa%2F2
-[/us/pl/94/135/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs104%2Fb
-[/us/pl/94/135/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs114%2Fa
-[/us/pl/94/135/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs104%2Fb
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/pl/91/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F69
-[/us/pl/90/42/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42%2Fs5%2Fa%2F1
-[/us/pl/90/42/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42%2Fs5%2Fa%2F2
+[/us/pl/90/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42
+[/us/pl/90/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

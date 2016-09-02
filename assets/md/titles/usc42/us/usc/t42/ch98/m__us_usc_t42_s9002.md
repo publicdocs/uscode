@@ -43,7 +43,7 @@
 
         (7) an analysis of the environmental, economic, and societal impacts of ocean thermal energy conversion facilities.
 
-([Pub. L. 96–310, § 3][/us/pl/96/310/s3], July 17, 1980, [94 Stat. 942][/us/stat/94/942]; [Pub. L. 104–66, title I, § 1051(c)][/us/pl/104/66/s1051/c], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
+([Pub. L. 96–310][/us/pl/96/310], § 3, July 17, 1980, [94 Stat. 942][/us/stat/94/942]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(c), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/96/310/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs3
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F942
-[/us/pl/104/66/s1051/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t42/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9007

@@ -103,7 +103,7 @@
 
         In carrying out research, development, demonstration, and commercial application activities under this part, the Secretary shall consult with the National Coal Council and other representatives of the public and private sectors as the Secretary considers appropriate.
 
-([Pub. L. 102–486, title XIII, § 1301][/us/pl/102/486/s1301], Oct. 24, 1992, [106 Stat. 2970][/us/stat/106/2970].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1301, Oct. 24, 1992, [106 Stat. 2970][/us/stat/106/2970].)
 
  __References in Text__ 
 
@@ -121,7 +121,7 @@
 ----------
 
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/102/486/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1301
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2970
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

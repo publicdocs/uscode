@@ -59,15 +59,15 @@
 
         (3) Such other information, projections, and relationships of collected data as shall be necessary to facilitate the compilation of such data base.
 
-([Pub. L. 94–163, title V, § 503][/us/pl/94/163/s503], Dec. 22, 1975, [89 Stat. 958][/us/stat/89/958]; [Pub. L. 95–91, title III, § 301][/us/pl/95/91/s301], title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 583, 606, 607; [Pub. L. 105–388, § 5(a)(15)][/us/pl/105/388/s5/a/15], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 503, Dec. 22, 1975, [89 Stat. 958][/us/stat/89/958]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301, title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 583, 606, 607; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(15), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
     2004—Subsec. (b)(1). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1998—Subsec. (b). [Pub. L. 105–388, § 5(a)(15)(A)][/us/pl/105/388/s5/a/15/A], substituted “with respect to” for “with repect to” in concluding provisions.
+    1998—Subsec. (b). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(15)(A), substituted “with respect to” for “with repect to” in concluding provisions.
 
-    Subsec. (c)(1). [Pub. L. 105–388, § 5(a)(15)(B)][/us/pl/105/388/s5/a/15/B], substituted “, controlling,” for “controlling” in concluding provisions.
+    Subsec. (c)(1). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(15)(B), substituted “, controlling,” for “controlling” in concluding provisions.
 
  __Transfer of Functions__ 
 
@@ -80,17 +80,17 @@
 ----------
 ----------
 
-[/us/pl/94/163/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs503
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F958
-[/us/pl/95/91/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/105/388/s5/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F15
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/105/388/s5/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F15%2FA
-[/us/pl/105/388/s5/a/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F15%2FB
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 
 

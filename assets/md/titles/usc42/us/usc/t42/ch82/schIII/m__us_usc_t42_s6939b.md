@@ -55,11 +55,11 @@
 
         The terms “primary enforcement responsibility”, “underground source of drinking water”, “formation” and “well” have the same meanings as provided in regulations of the Administrator under the Safe Drinking Water Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\]. The term “Safe Drinking Water Act” means title XIV of the Public Health Service Act.
 
-([Pub. L. 89–272, title II, § 3020][/us/pl/89/272/s3020], formerly § 7010, as added [Pub. L. 98–616, title IV, § 405(a)][/us/pl/98/616/s405/a], Nov. 8, 1984, [98 Stat. 3273][/us/stat/98/3273]; renumbered § 3020, and amended [Pub. L. 99–339, title II, § 201(c)][/us/pl/99/339/s201/c], June 19, 1986, [100 Stat. 654][/us/stat/100/654].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3020, formerly § 7010, as added [Pub. L. 98–616, title IV][/us/pl/98/616/tIV], § 405(a), Nov. 8, 1984, [98 Stat. 3273][/us/stat/98/3273]; renumbered § 3020, and amended [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 201(c), June 19, 1986, [100 Stat. 654][/us/stat/100/654].)
 
  __References in Text__ 
 
-    Title XIV of the Public Health Service Act, referred to in subsec. (d), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, known as the Safe Drinking Water Act, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    Title XIV of the Public Health Service Act, referred to in subsec. (d), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, known as the Safe Drinking Water Act, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1986—Subsec. (c). [Pub. L. 99–339, § 201(c)(1)][/us/pl/99/339/s201/c/1], substituted “enforcement under the provisions of this chapter” for “enforcement under sections 6972 and 6973 of this title”.
+    1986—Subsec. (c). [Pub. L. 99–339][/us/pl/99/339], § 201(c)(1), substituted “enforcement under the provisions of this chapter” for “enforcement under sections 6972 and 6973 of this title”.
 
 ----------
 
@@ -81,16 +81,16 @@
 [/us/usc/t42/s300h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/89/272/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3020
-[/us/pl/98/616/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs405%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIV
 [/us/stat/98/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3273
-[/us/pl/99/339/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fc
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F654
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s6979a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6979a
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
-[/us/pl/99/339/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fc%2F1
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 
 

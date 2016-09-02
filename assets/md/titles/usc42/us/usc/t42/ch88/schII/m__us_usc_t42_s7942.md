@@ -27,7 +27,7 @@
 
         Except as otherwise specifically provided in subsection (a) of this section, any remedial action under subchapter I of this chapter with respect to any sites designated under this subchapter shall be subject to the provisions of subchapter I of this chapter (including the authorization of appropriations referred to in [section 7922(b) of this title][/us/usc/t42/s7922/b]).
 
-([Pub. L. 95–604, title III, § 302][/us/pl/95/604/s302], Nov. 8, 1978, [92 Stat. 3042][/us/stat/92/3042]; H. Res. 549, Mar. 25, 1980.)
+([Pub. L. 95–604, title III][/us/pl/95/604/tIII], § 302, Nov. 8, 1978, [92 Stat. 3042][/us/stat/92/3042]; H. Res. 549, Mar. 25, 1980.)
 
  __Change of Name__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t42/s7941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7941
 [/us/usc/t42/s7941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7941
 [/us/usc/t42/s7922/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7922%2Fb
-[/us/pl/95/604/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs302
+[/us/pl/95/604/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtIII
 [/us/stat/92/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3042
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

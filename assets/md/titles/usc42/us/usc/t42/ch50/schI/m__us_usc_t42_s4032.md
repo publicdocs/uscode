@@ -27,7 +27,7 @@
 
         Nothing in subsection (a) shall be construed to alter the terms and conditions of eligibility and insurability of coverage for a building under the standard flood insurance policy under the national flood insurance program.
 
-([Pub. L. 90–448, title XIII, § 1325][/us/pl/90/448/s1325], as added [Pub. L. 112–141, div. F, title II, § 100242][/us/pl/112/141/s100242], July 6, 2012, [126 Stat. 962][/us/stat/126/962].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1325, as added [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100242, July 6, 2012, [126 Stat. 962][/us/stat/126/962].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t42/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102
-[/us/pl/90/448/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1325
-[/us/pl/112/141/s100242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100242
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F962
 
 

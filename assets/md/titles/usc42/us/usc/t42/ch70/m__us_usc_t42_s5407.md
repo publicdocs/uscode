@@ -49,7 +49,7 @@
 
             (B) is otherwise insured under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\] and made for or in connection with a manufactured home.
 
-([Pub. L. 93–383, title VI, § 608][/us/pl/93/383/s608], Aug. 22, 1974, [88 Stat. 704][/us/stat/88/704]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III, § 339B(c)][/us/pl/97/35/s339B/c], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI, § 607][/us/pl/106/569/s607], Dec. 27, 2000, [114 Stat. 3009][/us/stat/114/3009].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 608, Aug. 22, 1974, [88 Stat. 704][/us/stat/88/704]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339B(c), Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 607, Dec. 27, 2000, [114 Stat. 3009][/us/stat/114/3009].)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(4), (5). [Pub. L. 106–569, § 607(a)][/us/pl/106/569/s607/a], added pars. (4) and (5).
+    2000—Subsec. (a)(4), (5). [Pub. L. 106–569][/us/pl/106/569], § 607(a), added pars. (4) and (5).
 
-    Subsec. (c). [Pub. L. 106–569, § 607(b)][/us/pl/106/569/s607/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 607(b), added subsec. (c).
 
     1980—Subsec. (a)(1). [Pub. L. 96–399][/us/pl/96/399] substituted “manufactured home” for “mobile home”.
 
@@ -80,13 +80,13 @@
 
 [/us/usc/t12/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1702
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/93/383/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs608
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F704
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
-[/us/pl/106/569/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs607
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3009
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -94,8 +94,8 @@
 [/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
 [/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
-[/us/pl/106/569/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs607%2Fa
-[/us/pl/106/569/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs607%2Fb
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

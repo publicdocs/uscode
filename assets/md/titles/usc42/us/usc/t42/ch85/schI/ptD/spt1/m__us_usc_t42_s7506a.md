@@ -49,7 +49,7 @@
 
         A transport commission established under subsection (b) of this section may request the Administrator to issue a finding under [section 7410(k)(5) of this title][/us/usc/t42/s7410/k/5] that the implementation plan for one or more of the States in the transport region is substantially inadequate to meet the requirements of [section 7410(a)(2)(D) of this title][/us/usc/t42/s7410/a/2/D]. The Administrator shall approve, disapprove, or partially approve and partially disapprove such a request within 18 months of its receipt and, to the extent the Administrator approves such request, issue the finding under [section 7410(k)(5) of this title][/us/usc/t42/s7410/k/5] at the time of such approval. In acting on such request, the Administrator shall provide an opportunity for public participation and shall address each specific recommendation made by the commission. Approval or disapproval of such a request shall constitute final agency action within the meaning of [section 7607(b) of this title][/us/usc/t42/s7607/b].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 176A, as added [Pub. L. 101–549, title I, § 102(f)(1)][/us/pl/101/549/s102/f/1], Nov. 15, 1990, [104 Stat. 2419][/us/stat/104/2419].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 176A, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 102(f)(1), Nov. 15, 1990, [104 Stat. 2419][/us/stat/104/2419].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t42/s7410/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fk%2F5
 [/us/usc/t42/s7607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7607%2Fb
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Ff%2F1
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2419
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -25,7 +25,7 @@
 
     (2) required to register under this subchapter.
 
-([Pub. L. 109–248, title I, § 128A][/us/pl/109/248/s128A], as added [Pub. L. 114–22, title V, § 502][/us/pl/114/22/s502], May 29, 2015, [129 Stat. 258][/us/stat/129/258].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 128A, as added [Pub. L. 114–22, title V][/us/pl/114/22/tV], § 502, May 29, 2015, [129 Stat. 258][/us/stat/129/258].)
 
  __References in Text__ 
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t42/s16914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16914
-[/us/pl/109/248/s128A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs128A
-[/us/pl/114/22/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs502
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
+[/us/pl/114/22/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtV
 [/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

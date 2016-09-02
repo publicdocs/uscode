@@ -421,7 +421,7 @@
 
         In carrying out this section, the Secretary shall consult with appropriate private organizations and public agencies.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 353, as added [Pub. L. 90–174, § 5(a)][/us/pl/90/174/s5/a], Dec. 5, 1967, [81 Stat. 536][/us/stat/81/536]; amended [Pub. L. 100–578, § 2][/us/pl/100/578/s2], Oct. 31, 1988, [102 Stat. 2903][/us/stat/102/2903]; [Pub. L. 105–115, title I, § 123(h)][/us/pl/105/115/s123/h], Nov. 21, 1997, [111 Stat. 2324][/us/stat/111/2324]; [Pub. L. 112–202, § 2][/us/pl/112/202/s2], Dec. 4, 2012, [126 Stat. 1483][/us/stat/126/1483].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 353, as added [Pub. L. 90–174][/us/pl/90/174], § 5(a), Dec. 5, 1967, [81 Stat. 536][/us/stat/81/536]; amended [Pub. L. 100–578][/us/pl/100/578], § 2, Oct. 31, 1988, [102 Stat. 2903][/us/stat/102/2903]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 123(h), Nov. 21, 1997, [111 Stat. 2324][/us/stat/111/2324]; [Pub. L. 112–202][/us/pl/112/202], § 2, Dec. 4, 2012, [126 Stat. 1483][/us/stat/126/1483].)
 
  __References in Text__ 
 
@@ -433,11 +433,11 @@
 
  __Amendments__ 
 
-    2012—Subsec. (d)(1)(E). [Pub. L. 112–202, § 2(1)][/us/pl/112/202/s2/1], inserted “, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)” before period at end.
+    2012—Subsec. (d)(1)(E). [Pub. L. 112–202][/us/pl/112/202], § 2(1), inserted “, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)” before period at end.
 
-    Subsec. (i)(3). [Pub. L. 112–202, § 2(2)(A)][/us/pl/112/202/s2/2/A], inserted “, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph” after “issued under this section”.
+    Subsec. (i)(3). [Pub. L. 112–202][/us/pl/112/202], § 2(2)(A), inserted “, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph” after “issued under this section”.
 
-    Subsec. (i)(4). [Pub. L. 112–202, § 2(2)(B)][/us/pl/112/202/s2/2/B], substituted “may have its certificate revoked” for “shall have its certificate revoked”.
+    Subsec. (i)(4). [Pub. L. 112–202][/us/pl/112/202], § 2(2)(B), substituted “may have its certificate revoked” for “shall have its certificate revoked”.
 
     1997—Subsec. (d)(3). [Pub. L. 105–115][/us/pl/105/115] amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The examinations and procedures identified in paragraph (2) are simple laboratory examinations and procedures which, as determined by the Secretary, have an insignificant risk of an erroneous result, including those which—
 
@@ -455,19 +455,19 @@
 
  __Effective Date of 1988 Amendment; Exceptions; Continuing Applicability__ 
 
-[Pub. L. 100–578, § 3][/us/pl/100/578/s3], Oct. 31, 1988, [102 Stat. 2914][/us/stat/102/2914], provided that: 
+[Pub. L. 100–578][/us/pl/100/578], § 3, Oct. 31, 1988, [102 Stat. 2914][/us/stat/102/2914], provided that: 
 
 > “Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[[42 U.S.C. 263a][/us/usc/t42/s263a]\], as amended by section 101 \[probably means [section 2 of Pub. L. 100–578][/us/pl/100/578/s2]\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
 
  __Effective Date__ 
 
-[Pub. L. 90–174, § 5(b)][/us/pl/90/174/s5/b], Dec. 5, 1967, [81 Stat. 539][/us/stat/81/539], provided that: 
+[Pub. L. 90–174][/us/pl/90/174], § 5(b), Dec. 5, 1967, [81 Stat. 539][/us/stat/81/539], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
 
  __Studies__ 
 
-    [Pub. L. 100–578, § 4][/us/pl/100/578/s4], Oct. 31, 1988, [102 Stat. 2914][/us/stat/102/2914], directed Secretary to conduct studies and submit report to Congress, not later than May 1, 1990, relating to the reliability and quality control procedures of clinical laboratory testing programs and the effect of errors in the testing procedures and results on the diagnosis and treatment of patients.
+    [Pub. L. 100–578][/us/pl/100/578], § 4, Oct. 31, 1988, [102 Stat. 2914][/us/stat/102/2914], directed Secretary to conduct studies and submit report to Congress, not later than May 1, 1990, relating to the reliability and quality control procedures of clinical laboratory testing programs and the effect of errors in the testing procedures and results on the diagnosis and treatment of patients.
 
 ----------
 
@@ -481,34 +481,34 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs5%2Fa
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F536
-[/us/pl/100/578/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578%2Fs2
+[/us/pl/100/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578
 [/us/stat/102/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2903
-[/us/pl/105/115/s123/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fh
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2324
-[/us/pl/112/202/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202%2Fs2
+[/us/pl/112/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202
 [/us/stat/126/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1483
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/112/202/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202%2Fs2%2F1
-[/us/pl/112/202/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202%2Fs2%2F2%2FA
-[/us/pl/112/202/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202%2Fs2%2F2%2FB
+[/us/pl/112/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202
+[/us/pl/112/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202
+[/us/pl/112/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F202
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/100/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/100/578/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578%2Fs3
+[/us/pl/100/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578
 [/us/stat/102/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2914
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
 [/us/pl/100/578/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578%2Fs2
-[/us/pl/90/174/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs5%2Fb
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F539
-[/us/pl/100/578/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578%2Fs4
+[/us/pl/100/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F578
 [/us/stat/102/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2914
 
 

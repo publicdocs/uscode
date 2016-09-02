@@ -31,7 +31,7 @@
 
         In the case of an alleged act or practice prohibited by this subchapter which occurs in a State, or political subdivision of a State, which has no State or local law prohibiting such act or practice, a civil action may be brought under subsection (a) of this section: Provided, That the court may refer the matter to the Community Relations Service established by subchapter VIII of this chapter for as long as the court believes there is a reasonable possibility of obtaining voluntary compliance, but for not more than sixty days: Provided further, That upon expiration of such sixty-day period, the court may extend such period for an additional period, not to exceed a cumulative total of one hundred and twenty days, if it believes there then exists a reasonable possibility of securing voluntary compliance.
 
-([Pub. L. 88–352, title II, § 204][/us/pl/88/352/s204], July 2, 1964, [78 Stat. 244][/us/stat/78/244].)
+([Pub. L. 88–352, title II][/us/pl/88/352/tII], § 204, July 2, 1964, [78 Stat. 244][/us/stat/78/244].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s2000a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a%E2%80%932
-[/us/pl/88/352/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs204
+[/us/pl/88/352/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtII
 [/us/stat/78/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F244
 
 

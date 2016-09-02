@@ -141,7 +141,7 @@
 
         The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under [section 11710 of this title][/us/usc/t42/s11710], a report on the progress made in each area toward meeting each of the objectives described in subsection (b) of this section.
 
-([Pub. L. 100–579, § 3][/us/pl/100/579/s3], Oct. 31, 1988, [102 Stat. 2916][/us/stat/102/2916]; [Pub. L. 100–690, title II, § 2303][/us/pl/100/690/s2303], Nov. 18, 1988, [102 Stat. 4223][/us/stat/102/4223]; [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
+([Pub. L. 100–579][/us/pl/100/579], § 3, Oct. 31, 1988, [102 Stat. 2916][/us/stat/102/2916]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2303, Nov. 18, 1988, [102 Stat. 4223][/us/stat/102/4223]; [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
 
  __Codification__ 
 
@@ -161,11 +161,11 @@
 ----------
 
 [/us/usc/t42/s11710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11710
-[/us/pl/100/579/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs3
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/stat/102/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2916
-[/us/pl/100/690/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2303
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4223
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
 [/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
 [/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579

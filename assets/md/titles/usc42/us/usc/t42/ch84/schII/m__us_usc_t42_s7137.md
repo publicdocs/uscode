@@ -17,7 +17,7 @@
 
     The functions of the Comptroller General of the United States under [section 771 of title 15][/us/usc/t15/s771] shall apply with respect to the monitoring and evaluation of all functions and activities of the Department under this chapter or any other Act administered by the Department.
 
-([Pub. L. 95–91, title II, § 207][/us/pl/95/91/s207], Aug. 4, 1977, [91 Stat. 574][/us/stat/91/574].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 207, Aug. 4, 1977, [91 Stat. 574][/us/stat/91/574].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs771
-[/us/pl/95/91/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs207
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
 [/us/stat/91/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F574
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

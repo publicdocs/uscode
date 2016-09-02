@@ -59,7 +59,7 @@
 
         Title XVII of the Omnibus Budget Reconciliation Act of 1981 shall not apply with respect to audits of funds allotted under this part.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1906, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 540][/us/stat/95/540]; amended [Pub. L. 98–555, § 5(b)][/us/pl/98/555/s5/b], (c), Oct. 30, 1984, [98 Stat. 2855][/us/stat/98/2855], 2856; [Pub. L. 100–607, title III, § 301(d)][/us/pl/100/607/s301/d], Nov. 4, 1988, [102 Stat. 3112][/us/stat/102/3112]; [Pub. L. 102–531, title I, § 104][/us/pl/102/531/s104], Oct. 27, 1992, [106 Stat. 3473][/us/stat/106/3473].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1906, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 540][/us/stat/95/540]; amended [Pub. L. 98–555][/us/pl/98/555], § 5(b), (c), Oct. 30, 1984, [98 Stat. 2855][/us/stat/98/2855], 2856; [Pub. L. 100–607, title III][/us/pl/100/607/tIII], § 301(d), Nov. 4, 1988, [102 Stat. 3112][/us/stat/102/3112]; [Pub. L. 102–531, title I][/us/pl/102/531/tI], § 104, Oct. 27, 1992, [106 Stat. 3473][/us/stat/106/3473].)
 
  __References in Text__ 
 
@@ -67,19 +67,19 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–531, § 104(b)(1)][/us/pl/102/531/s104/b/1], substituted “Reports, data, and audits” for “Reports and audits” in section catchline.
+    1992—[Pub. L. 102–531][/us/pl/102/531], § 104(b)(1), substituted “Reports, data, and audits” for “Reports and audits” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–531, § 104(a)][/us/pl/102/531/s104/a], amended subsec. (a) generally, substituting present provisions for provisions requiring an annual report by each State of its activities under this part, outlining the contents of such report, and for providing copies of the report to interested persons.
+    Subsec. (a). [Pub. L. 102–531][/us/pl/102/531], § 104(a), amended subsec. (a) generally, substituting present provisions for provisions requiring an annual report by each State of its activities under this part, outlining the contents of such report, and for providing copies of the report to interested persons.
 
-    Subsec. (d). [Pub. L. 102–531, § 104(b)(2)][/us/pl/102/531/s104/b/2], struck out subsec. (d) which provided for development of model criteria and forms for collection of data and information on services provided under this part.
+    Subsec. (d). [Pub. L. 102–531][/us/pl/102/531], § 104(b)(2), struck out subsec. (d) which provided for development of model criteria and forms for collection of data and information on services provided under this part.
 
-    1988—Subsec. (a)(3). [Pub. L. 100–607, § 301(d)(1)][/us/pl/100/607/s301/d/1], added par. (3).
+    1988—Subsec. (a)(3). [Pub. L. 100–607][/us/pl/100/607], § 301(d)(1), added par. (3).
 
-    Subsec. (b)(6). [Pub. L. 100–607, § 301(d)(2)][/us/pl/100/607/s301/d/2], substituted “1990” for “1983”.
+    Subsec. (b)(6). [Pub. L. 100–607][/us/pl/100/607], § 301(d)(2), substituted “1990” for “1983”.
 
-    1984—Subsec. (a)(1)(B). [Pub. L. 98–555, § 5(b)][/us/pl/98/555/s5/b], substituted “preventive health and preventive health services programs in the State assisted by funds from allotments under this part, including a summary of the services which were provided, the providers of such services, and the individuals who received such services” for “activities of the State under this part”.
+    1984—Subsec. (a)(1)(B). [Pub. L. 98–555][/us/pl/98/555], § 5(b), substituted “preventive health and preventive health services programs in the State assisted by funds from allotments under this part, including a summary of the services which were provided, the providers of such services, and the individuals who received such services” for “activities of the State under this part”.
 
-    Subsec. (d). [Pub. L. 98–555, § 5(c)][/us/pl/98/555/s5/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–555][/us/pl/98/555], § 5(c), added subsec. (d).
 
 ----------
 
@@ -101,22 +101,22 @@
 [/us/usc/t42/s300w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934
 [/us/usc/t42/s300w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F540
-[/us/pl/98/555/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fb
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/stat/98/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2855
-[/us/pl/100/607/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fd
+[/us/pl/100/607/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIII
 [/us/stat/102/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3112
-[/us/pl/102/531/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs104
+[/us/pl/102/531/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtI
 [/us/stat/106/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3473
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F357
-[/us/pl/102/531/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs104%2Fb%2F1
-[/us/pl/102/531/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs104%2Fa
-[/us/pl/102/531/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs104%2Fb%2F2
-[/us/pl/100/607/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fd%2F1
-[/us/pl/100/607/s301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fd%2F2
-[/us/pl/98/555/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fb
-[/us/pl/98/555/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fc
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 
 

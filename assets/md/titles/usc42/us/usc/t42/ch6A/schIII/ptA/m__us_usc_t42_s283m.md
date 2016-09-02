@@ -221,7 +221,7 @@
 
             (C) the research status of such chimpanzees.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404K, formerly § 481C, as added [Pub. L. 106–551, § 2][/us/pl/106/551/s2], Dec. 20, 2000, [114 Stat. 2752][/us/stat/114/2752]; amended [Pub. L. 110–170, § 2(a)][/us/pl/110/170/s2/a], Dec. 26, 2007, [121 Stat. 2465][/us/stat/121/2465]; renumbered § 404K and amended [Pub. L. 112–74, div. F, title II, § 221(b)(3)][/us/pl/112/74/s221/b/3], Dec. 23, 2011, [125 Stat. 1088][/us/stat/125/1088]; [Pub. L. 113–55, title III, § 302(a)][/us/pl/113/55/s302/a], (c), Nov. 27, 2013, [127 Stat. 646][/us/stat/127/646], 647.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404K, formerly § 481C, as added [Pub. L. 106–551][/us/pl/106/551], § 2, Dec. 20, 2000, [114 Stat. 2752][/us/stat/114/2752]; amended [Pub. L. 110–170][/us/pl/110/170], § 2(a), Dec. 26, 2007, [121 Stat. 2465][/us/stat/121/2465]; renumbered § 404K and amended [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(b)(3), Dec. 23, 2011, [125 Stat. 1088][/us/stat/125/1088]; [Pub. L. 113–55, title III][/us/pl/113/55/tIII], § 302(a), (c), Nov. 27, 2013, [127 Stat. 646][/us/stat/127/646], 647.)
 
  __References in Text__ 
 
@@ -237,31 +237,31 @@
 
  __Amendments__ 
 
-    2013—Subsec. (g)(1). [Pub. L. 113–55, § 302(a)(1)][/us/pl/113/55/s302/a/1], amended par. (1) generally. Prior to amendment, text read as follows: “Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for which funds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system.”
+    2013—Subsec. (g)(1). [Pub. L. 113–55][/us/pl/113/55], § 302(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for which funds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system.”
 
-    Subsec. (g)(2). [Pub. L. 113–55, § 302(a)(4)][/us/pl/113/55/s302/a/4], substituted “With respect to amounts authorized to be appropriated by paragraph (1)” for “With respect to amounts reserved under paragraph (1)” and “Secretary in consultation with the board of directors” for “board of directors”.
+    Subsec. (g)(2). [Pub. L. 113–55][/us/pl/113/55], § 302(a)(4), substituted “With respect to amounts authorized to be appropriated by paragraph (1)” for “With respect to amounts reserved under paragraph (1)” and “Secretary in consultation with the board of directors” for “board of directors”.
 
-    [Pub. L. 113–55, § 302(a)(2)][/us/pl/113/55/s302/a/2], (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999.”
+    [Pub. L. 113–55][/us/pl/113/55], § 302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999.”
 
-    Subsec. (g)(3). [Pub. L. 113–55, § 302(c)][/us/pl/113/55/s302/c], added par. (3). Former par. (3) redesignated (2).
+    Subsec. (g)(3). [Pub. L. 113–55][/us/pl/113/55], § 302(c), added par. (3). Former par. (3) redesignated (2).
 
-    [Pub. L. 113–55, § 302(a)(3)][/us/pl/113/55/s302/a/3], redesignated par. (3) as (2).
+    [Pub. L. 113–55][/us/pl/113/55], § 302(a)(3), redesignated par. (3) as (2).
 
-    2011—Subsec. (d)(4)(A)(ii). [Pub. L. 112–74, § 221(b)(3)(B)][/us/pl/112/74/s221/b/3/B], substituted “that is carried out by the Director of NIH, acting through the Office of the Director of NIH,” for “that is carried out by the National Center for Research Resources”.
+    2011—Subsec. (d)(4)(A)(ii). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(3)(B), substituted “that is carried out by the Director of NIH, acting through the Office of the Director of NIH,” for “that is carried out by the National Center for Research Resources”.
 
-    2007—Subsec. (d)(2)(J). [Pub. L. 110–170, § 2(a)(1)][/us/pl/110/170/s2/a/1], struck out at end “If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility.”
+    2007—Subsec. (d)(2)(J). [Pub. L. 110–170][/us/pl/110/170], § 2(a)(1), struck out at end “If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility.”
 
-    Subsec. (d)(3)(A). [Pub. L. 110–170, § 2(a)(2)(A)][/us/pl/110/170/s2/a/2/A], substituted “except that the chimpanzee may be used for noninvasive behavioral studies” for “except as provided in clause (i) or (ii), as follows:
+    Subsec. (d)(3)(A). [Pub. L. 110–170][/us/pl/110/170], § 2(a)(2)(A), substituted “except that the chimpanzee may be used for noninvasive behavioral studies” for “except as provided in clause (i) or (ii), as follows:
 
     “(i) The chimpanzee may be used for noninvasive behavioral studies”
 
     and struck out cl. (ii) which related to findings necessary before a chimpanzee may be used in research.
 
-    Subsec. (d)(3)(B), (C). [Pub. L. 110–170, § 2(a)(2)(B)][/us/pl/110/170/s2/a/2/B]–(D), redesignated subpar. (C) as (B), substituted “under subparagraph (A)” for “under subparagraphs (A) and (B)”, and struck out former subpar. (B) which related to approval of research design.
+    Subsec. (d)(3)(B), (C). [Pub. L. 110–170][/us/pl/110/170], § 2(a)(2)(B)–(D), redesignated subpar. (C) as (B), substituted “under subparagraph (A)” for “under subparagraphs (A) and (B)”, and struck out former subpar. (B) which related to approval of research design.
 
  __Report to Congress Regarding Number of Chimpanzees and Funding for Care of Chimpanzees__ 
 
-    [Pub. L. 106–551, § 3][/us/pl/106/551/s3], Dec. 20, 2000, [114 Stat. 2759][/us/stat/114/2759], required the Secretary of Health and Human Services to submit a report to Congress, not later than 365 days after Dec. 20, 2000, about the chimpanzees that had been used, or bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government.
+    [Pub. L. 106–551][/us/pl/106/551], § 3, Dec. 20, 2000, [114 Stat. 2759][/us/stat/114/2759], required the Secretary of Health and Human Services to submit a report to Congress, not later than 365 days after Dec. 20, 2000, about the chimpanzees that had been used, or bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government.
 
 ----------
 
@@ -274,13 +274,13 @@
 [/us/usc/t7/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2131
 [/us/usc/t7/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2131
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/551/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F551%2Fs2
+[/us/pl/106/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F551
 [/us/stat/114/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2752
-[/us/pl/110/170/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170%2Fs2%2Fa
+[/us/pl/110/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170
 [/us/stat/121/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2465
-[/us/pl/112/74/s221/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F3
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1088
-[/us/pl/113/55/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs302%2Fa
+[/us/pl/113/55/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2FtIII
 [/us/stat/127/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F646
 [/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F350
@@ -288,16 +288,16 @@
 [/us/pl/106/551/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F551%2Fs3
 [/us/usc/t42/s287a–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a%E2%80%933a
 [/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
-[/us/pl/113/55/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs302%2Fa%2F1
-[/us/pl/113/55/s302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs302%2Fa%2F4
-[/us/pl/113/55/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs302%2Fa%2F2
-[/us/pl/113/55/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs302%2Fc
-[/us/pl/113/55/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs302%2Fa%2F3
-[/us/pl/112/74/s221/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F3%2FB
-[/us/pl/110/170/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170%2Fs2%2Fa%2F1
-[/us/pl/110/170/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170%2Fs2%2Fa%2F2%2FA
-[/us/pl/110/170/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170%2Fs2%2Fa%2F2%2FB
-[/us/pl/106/551/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F551%2Fs3
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/110/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170
+[/us/pl/110/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170
+[/us/pl/110/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F170
+[/us/pl/106/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F551
 [/us/stat/114/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2759
 
 

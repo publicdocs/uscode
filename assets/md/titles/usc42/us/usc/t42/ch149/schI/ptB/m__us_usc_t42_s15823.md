@@ -41,7 +41,7 @@
 
         For the purposes of this section there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 2006 through 2008.
 
-([Pub. L. 109–58, title I, § 126][/us/pl/109/58/s126], Aug. 8, 2005, [119 Stat. 618][/us/stat/119/618].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 126, Aug. 8, 2005, [119 Stat. 618][/us/stat/119/618].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/109/58/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs126
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F618
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

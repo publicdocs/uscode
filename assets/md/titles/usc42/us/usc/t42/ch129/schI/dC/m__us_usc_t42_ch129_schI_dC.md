@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    This division is comprised of subtitle C, §§ 121–141, of title I of [Pub. L. 101–610][/us/pl/101/610]. A prior part C (§ 12541 et seq.), comprised of subtitle C, §§ 120–135, of title I of [Pub. L. 101–610][/us/pl/101/610] was renumbered subtitle I, §§ 199A–199O, of title I of [Pub. L. 101–610][/us/pl/101/610] by [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], and transferred to division I of this subchapter.
+    This division is comprised of subtitle C, §§ 121–141, of title I of [Pub. L. 101–610][/us/pl/101/610]. A prior part C (§ 12541 et seq.), comprised of subtitle C, §§ 120–135, of title I of [Pub. L. 101–610][/us/pl/101/610] was renumbered subtitle I, §§ 199A–199O, of title I of [Pub. L. 101–610][/us/pl/101/610] by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], and transferred to division I of this subchapter.
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
 
 

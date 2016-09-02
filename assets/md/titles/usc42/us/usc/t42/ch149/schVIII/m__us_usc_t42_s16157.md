@@ -107,7 +107,7 @@
 
         (6) such sums as are necessary for each of fiscal years 2011 through 2020.
 
-([Pub. L. 109–58, title VIII, § 808][/us/pl/109/58/s808], Aug. 8, 2005, [119 Stat. 850][/us/stat/119/850].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 808, Aug. 8, 2005, [119 Stat. 850][/us/stat/119/850].)
 
 ----------
 
@@ -117,7 +117,7 @@
 ----------
 
 [/us/usc/t42/s16122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16122
-[/us/pl/109/58/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs808
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F850
 
 

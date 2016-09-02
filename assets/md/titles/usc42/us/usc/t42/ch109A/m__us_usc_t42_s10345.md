@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Director of the National Science Foundation, from sums otherwise authorized to be appropriated, $2,500,000 for fiscal year 1993, for carrying out this chapter.
 
-([Pub. L. 102–490, § 6][/us/pl/102/490/s6], Oct. 24, 1992, [106 Stat. 3143][/us/stat/106/3143].)
+([Pub. L. 102–490][/us/pl/102/490], § 6, Oct. 24, 1992, [106 Stat. 3143][/us/stat/106/3143].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/490/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490%2Fs6
+[/us/pl/102/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490
 [/us/stat/106/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3143
 
 

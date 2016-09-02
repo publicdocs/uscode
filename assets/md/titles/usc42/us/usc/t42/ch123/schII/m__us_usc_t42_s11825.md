@@ -49,7 +49,7 @@
 
         The appropriate Federal officer shall expedite the consideration of an application referred to in subsection (a) of this section if the applicant demonstrates, to the satisfaction of the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “the” probably should not appear. </sup></sup>  such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.
 
-([Pub. L. 100–690, title III, § 3515][/us/pl/100/690/s3515], Nov. 18, 1988, [102 Stat. 4257][/us/stat/102/4257]; [Pub. L. 101–204, title X, § 1001(b)][/us/pl/101/204/s1001/b], Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3515, Nov. 18, 1988, [102 Stat. 4257][/us/stat/102/4257]; [Pub. L. 101–204, title X][/us/pl/101/204/tX], § 1001(b), Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826].)
 
  __References in Text__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    1989—Subsec. (b)(1)(B). [Pub. L. 101–204, § 1001(b)(1)(A)][/us/pl/101/204/s1001/b/1/A], inserted “stating” before “the general criteria”.
+    1989—Subsec. (b)(1)(B). [Pub. L. 101–204][/us/pl/101/204], § 1001(b)(1)(A), inserted “stating” before “the general criteria”.
 
-    Subsec. (b)(1)(C). [Pub. L. 101–204, § 1001(b)(1)(B)][/us/pl/101/204/s1001/b/1/B], substituted “describing” for “a description of”.
+    Subsec. (b)(1)(C). [Pub. L. 101–204][/us/pl/101/204], § 1001(b)(1)(B), substituted “describing” for “a description of”.
 
-    Subsec. (c). [Pub. L. 101–204, § 1001(b)(2)][/us/pl/101/204/s1001/b/2], substituted “such officer” for “Administrator”.
+    Subsec. (c). [Pub. L. 101–204][/us/pl/101/204], § 1001(b)(2), substituted “such officer” for “Administrator”.
 
 ----------
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/100/690/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3515
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4257
-[/us/pl/101/204/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fb
+[/us/pl/101/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtX
 [/us/stat/103/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1826
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/101/204/s1001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fb%2F1%2FA
-[/us/pl/101/204/s1001/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fb%2F1%2FB
-[/us/pl/101/204/s1001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fb%2F2
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 
 

@@ -17,7 +17,7 @@
 
     For the purposes of this part, there is authorized to be appropriated to the Secretary not to exceed $98,000,000 for the period beginning October 1, 1978, and ending September 30, 1981.
 
-([Pub. L. 95–619, title V, § 569][/us/pl/95/619/s569], Nov. 9, 1978, [92 Stat. 3282][/us/stat/92/3282].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 569, Nov. 9, 1978, [92 Stat. 3282][/us/stat/92/3282].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/619/s569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs569
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3282
 
 

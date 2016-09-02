@@ -59,7 +59,7 @@
 
         (2) submit to Congress a report describing the results of the review.
 
-([Pub. L. 109–58, title IX, § 973][/us/pl/109/58/s973], Aug. 8, 2005, [119 Stat. 902][/us/stat/119/902].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 973, Aug. 8, 2005, [119 Stat. 902][/us/stat/119/902].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs973
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F902
 
 

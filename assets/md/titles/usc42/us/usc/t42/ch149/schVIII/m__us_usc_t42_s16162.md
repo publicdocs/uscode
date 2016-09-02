@@ -25,7 +25,7 @@
 
     (4) assess technical and commercial viability of technologies relating to the production, distribution, storage, and use of hydrogen energy and fuel cells.
 
-([Pub. L. 109–58, title VIII, § 813][/us/pl/109/58/s813], Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 813, Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs813
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F855
 
 

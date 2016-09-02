@@ -41,7 +41,7 @@
 
         (9) such other areas as the Secretary considers appropriate.
 
-([Pub. L. 110–140, title II, § 248][/us/pl/110/140/s248], Dec. 19, 2007, [121 Stat. 1548][/us/stat/121/1548].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 248, Dec. 19, 2007, [121 Stat. 1548][/us/stat/121/1548].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs248
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1548
 
 

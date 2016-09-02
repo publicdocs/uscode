@@ -57,11 +57,11 @@
 
         For the purposes of carrying out this section, there are authorized to be appropriated $50,000,000 for the fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330A–1, as added [Pub. L. 111–148, title V, § 5208(b)][/us/pl/111/148/s5208/b], Mar. 23, 2010, [124 Stat. 613][/us/stat/124/613].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330A–1, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5208(b), Mar. 23, 2010, [124 Stat. 613][/us/stat/124/613].)
 
  __Purpose__ 
 
-[Pub. L. 111–148, title V, § 5208(a)][/us/pl/111/148/s5208/a], Mar. 23, 2010, [124 Stat. 612][/us/stat/124/612], provided that: 
+[Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5208(a), Mar. 23, 2010, [124 Stat. 612][/us/stat/124/612], provided that: 
 
 > “The purpose of this section \[enacting this section\] is to fund the development and operation of nurse-managed health clinics.”
 
@@ -74,9 +74,9 @@
 
 [/us/usc/t42/s254b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fb%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5208%2Fb
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F613
-[/us/pl/111/148/s5208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5208%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F612
 
 

@@ -47,15 +47,15 @@
 
         There are authorized to be appropriated to the Trust Funds and the Federal Hospital Insurance Trust Fund for the fiscal year ending June 30, 1978, such sums as the Commissioner of Social Security and the Secretary jointly determine would place the Trust Funds and the Federal Hospital Insurance Trust Fund in the position in which they would have been if the preceding provisions of this section had not been enacted.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 231, as added [Pub. L. 92–603, title I, § 142(a)][/us/pl/92/603/s142/a], Oct. 30, 1972, [86 Stat. 1367][/us/stat/86/1367]; amended [Pub. L. 98–369, div. B, title VI, § 2663(j)(2)(A)(iii)][/us/pl/98/369/s2663/j/2/A/iii], July 18, 1984, [98 Stat. 1170][/us/stat/98/1170]; [Pub. L. 103–296, title I, § 107(a)(1)][/us/pl/103/296/s107/a/1], (4), (c), Aug. 15, 1994, [108 Stat. 1477][/us/stat/108/1477], 1478, 1481.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 231, as added [Pub. L. 92–603, title I][/us/pl/92/603/tI], § 142(a), Oct. 30, 1972, [86 Stat. 1367][/us/stat/86/1367]; amended [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(j)(2)(A)(iii), July 18, 1984, [98 Stat. 1170][/us/stat/98/1170]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(1), (4), (c), Aug. 15, 1994, [108 Stat. 1477][/us/stat/108/1477], 1478, 1481.)
 
  __Amendments__ 
 
-    1994—Subsec. (b)(3). [Pub. L. 103–296, § 107(a)(1)][/us/pl/103/296/s107/a/1], (4), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” after “an internee, the”, after “If the”, and after “so notify the”, substituted “the Commissioner” for “he” before “has been notified” and before “shall then ascertain”, and substituted “Commissioner of Social Security” for “Secretary” before “shall certify no”.
+    1994—Subsec. (b)(3). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(1), (4), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” after “an internee, the”, after “If the”, and after “so notify the”, substituted “the Commissioner” for “he” before “has been notified” and before “shall then ascertain”, and substituted “Commissioner of Social Security” for “Secretary” before “shall certify no”.
 
-    Subsec. (b)(4). [Pub. L. 103–296, § 107(a)(1)][/us/pl/103/296/s107/a/1], (4), substituted “Commissioner of Social Security, certify to the Commissioner, with respect to any individual who was an internee, such information as the Commissioner of Social Security deems necessary to carry out the Commissioner’s functions under paragraph (3) of this subsection” for “Secretary of Health and Human Services, certify to him, with respect to any individual who was an internee, such information as the Secretary deems necessary to carry out his functions under paragraph (3) of this subsection”.
+    Subsec. (b)(4). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(1), (4), substituted “Commissioner of Social Security, certify to the Commissioner, with respect to any individual who was an internee, such information as the Commissioner of Social Security deems necessary to carry out the Commissioner’s functions under paragraph (3) of this subsection” for “Secretary of Health and Human Services, certify to him, with respect to any individual who was an internee, such information as the Secretary deems necessary to carry out his functions under paragraph (3) of this subsection”.
 
-    Subsec. (c). [Pub. L. 103–296, § 107(c)][/us/pl/103/296/s107/c], substituted “Commissioner of Social Security and the Secretary jointly determine” for “Secretary determines”.
+    Subsec. (c). [Pub. L. 103–296][/us/pl/103/296], § 107(c), substituted “Commissioner of Social Security and the Secretary jointly determine” for “Secretary determines”.
 
     1984—Subsec. (b)(3), (4). [Pub. L. 98–369][/us/pl/98/369] substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
@@ -84,15 +84,15 @@
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t42/s416/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi%2F3
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs142%2Fa
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1367
-[/us/pl/98/369/s2663/j/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FA%2Fiii
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1170
-[/us/pl/103/296/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F1
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1477
-[/us/pl/103/296/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F1
-[/us/pl/103/296/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F1
-[/us/pl/103/296/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fc
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa

@@ -33,7 +33,7 @@
 
         (5) Maintenance of a minor activity, other than any construction or major renovation or a building or facility.
 
-([Pub. L. 109–58, title III, § 390][/us/pl/109/58/s390], Aug. 8, 2005, [119 Stat. 747][/us/stat/119/747].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 390, Aug. 8, 2005, [119 Stat. 747][/us/stat/119/747].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/109/58/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs390
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F747
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

@@ -17,7 +17,7 @@
 
     The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for a fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a]) specific identification, as a budgetary line item, of the amounts required to meet the pension obligations of the Department of Energy for contractor employees at each facility of the Department of Energy operated using amounts authorized to be appropriated for the Department of Energy.
 
-([Pub. L. 111–84, div. C, title XXXI, § 3143][/us/pl/111/84/s3143], Oct. 28, 2009, [123 Stat. 2716][/us/stat/123/2716].)
+([Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3143, Oct. 28, 2009, [123 Stat. 2716][/us/stat/123/2716].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/111/84/s3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3143
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2716
 
 

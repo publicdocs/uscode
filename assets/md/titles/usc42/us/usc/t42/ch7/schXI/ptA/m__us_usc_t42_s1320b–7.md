@@ -165,7 +165,7 @@
 
         Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under [section 1396b(v)(2) of this title][/us/usc/t42/s1396b/v/2].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1137, as added [Pub. L. 98–369, div. B, title VI, § 2651(a)][/us/pl/98/369/s2651/a], July 18, 1984, [98 Stat. 1147][/us/stat/98/1147]; amended [Pub. L. 99–509, title IX, § 9101][/us/pl/99/509/s9101], Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–603, title I, § 121(a)(1)][/us/pl/99/603/s121/a/1], Nov. 6, 1986, [100 Stat. 3384][/us/stat/100/3384]; [Pub. L. 100–360, title IV, § 411(k)(15)(A)][/us/pl/100/360/s411/k/15/A], July 1, 1988, [102 Stat. 799][/us/stat/102/799]; [Pub. L. 103–432, title II, § 231][/us/pl/103/432/s231], Oct. 31, 1994, [108 Stat. 4462][/us/stat/108/4462]; [Pub. L. 104–193, title I, § 108(g)(8)][/us/pl/104/193/s108/g/8], title III, § 313(c), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168], 2212; [Pub. L. 104–208, div. C, title V, § 507(a)][/us/pl/104/208/s507/a], Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 106–169, title IV, § 401(p)][/us/pl/106/169/s401/p], Dec. 14, 1999, [113 Stat. 1859][/us/stat/113/1859]; [Pub. L. 106–170, title IV, § 405(a)][/us/pl/106/170/s405/a], (b), Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 113–79, title IV, § 4030(q)][/us/pl/113/79/s4030/q], Feb. 7, 2014, [128 Stat. 815][/us/stat/128/815].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1137, as added [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2651(a), July 18, 1984, [98 Stat. 1147][/us/stat/98/1147]; amended [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9101, Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(a)(1), Nov. 6, 1986, [100 Stat. 3384][/us/stat/100/3384]; [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(k)(15)(A), July 1, 1988, [102 Stat. 799][/us/stat/102/799]; [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 231, Oct. 31, 1994, [108 Stat. 4462][/us/stat/108/4462]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(g)(8), title III, § 313(c), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168], 2212; [Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 507(a), Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 106–169, title IV][/us/pl/106/169/tIV], § 401(p), Dec. 14, 1999, [113 Stat. 1859][/us/stat/113/1859]; [Pub. L. 106–170, title IV][/us/pl/106/170/tIV], § 405(a), (b), Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(A), (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4030(q), Feb. 7, 2014, [128 Stat. 815][/us/stat/128/815].)
 
  __References in Text__ 
 
@@ -179,27 +179,27 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(5)(B). [Pub. L. 113–79, § 4030(q)(1)][/us/pl/113/79/s4030/q/1], which directed substitution of “supplemental nutrition assistance” for “food stamp”, could not be executed because the words “supplemental nutrition assistance” already appeared in text after the amendment by [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (2)(V). See 2008 Amendment note below.
+    2014—Subsec. (a)(5)(B). [Pub. L. 113–79][/us/pl/113/79], § 4030(q)(1), which directed substitution of “supplemental nutrition assistance” for “food stamp”, could not be executed because the words “supplemental nutrition assistance” already appeared in text after the amendment by [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (2)(V). See 2008 Amendment note below.
 
-    Subsec. (b)(4). [Pub. L. 113–79, § 4030(q)(2)][/us/pl/113/79/s4030/q/2], which directed substitution of “supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.)” for “food stamp program under the Food Stamp Act of 1977”, was executed by making the substitution for “supplemental nutrition assistance program under the Food and Nutrition Act of 2008”, to reflect the probable intent of Congress and the amendment by [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(V). See 2008 Amendment note below.
+    Subsec. (b)(4). [Pub. L. 113–79][/us/pl/113/79], § 4030(q)(2), which directed substitution of “supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.)” for “food stamp program under the Food Stamp Act of 1977”, was executed by making the substitution for “supplemental nutrition assistance program under the Food and Nutrition Act of 2008”, to reflect the probable intent of Congress and the amendment by [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(V). See 2008 Amendment note below.
 
-    2008—Subsec. (a)(2), (5)(B). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program”.
+    2008—Subsec. (a)(2), (5)(B). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-    Subsec. (b)(4). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    Subsec. (b)(4). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    1999—Subsec. (a)(3). [Pub. L. 106–170, § 405(b)(2)][/us/pl/106/170/s405/b/2], inserted “(as defined in [section 653a(a)(2)(B) of this title][/us/usc/t42/s653a/a/2/B])” after “employers”.
+    1999—Subsec. (a)(3). [Pub. L. 106–170][/us/pl/106/170], § 405(b)(2), inserted “(as defined in [section 653a(a)(2)(B) of this title][/us/usc/t42/s653a/a/2/B])” after “employers”.
 
-    [Pub. L. 106–170, § 405(b)(1)][/us/pl/106/170/s405/b/1], which directed striking out “(as defined in [section 653a(a)(2)(B)(iii) of this title][/us/usc/t42/s653a/a/2/B/iii])” after “labor organizations”, was executed by striking “(as defined in [section 653a(a)(2)(B)(ii) of this title][/us/usc/t42/s653a/a/2/B/ii])” to reflect the probable intent of Congress and the amendment by [Pub. L. 106–169][/us/pl/106/169].
+    [Pub. L. 106–170][/us/pl/106/170], § 405(b)(1), which directed striking out “(as defined in [section 653a(a)(2)(B)(iii) of this title][/us/usc/t42/s653a/a/2/B/iii])” after “labor organizations”, was executed by striking “(as defined in [section 653a(a)(2)(B)(ii) of this title][/us/usc/t42/s653a/a/2/B/ii])” to reflect the probable intent of Congress and the amendment by [Pub. L. 106–169][/us/pl/106/169].
 
-    [Pub. L. 106–170, § 405(a)][/us/pl/106/170/s405/a], inserted before semicolon at end: “, and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis”.
+    [Pub. L. 106–170][/us/pl/106/170], § 405(a), inserted before semicolon at end: “, and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis”.
 
     [Pub. L. 106–169][/us/pl/106/169], substituted “653a(a)(2)(B)(ii) of this title))” for “653a(a)(2)(B)(iii) of this title)”. See Effective Date of 1999 Amendment note below.
 
-    1996—Subsec. (a)(3). [Pub. L. 104–193, § 313(c)][/us/pl/104/193/s313/c], inserted “(including State and local governmental entities and labor organizations (as defined in [section 653a(a)(2)(B)(iii) of this title][/us/usc/t42/s653a/a/2/B/iii])” after “employers” and “, and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission” before semicolon at end.
+    1996—Subsec. (a)(3). [Pub. L. 104–193][/us/pl/104/193], § 313(c), inserted “(including State and local governmental entities and labor organizations (as defined in [section 653a(a)(2)(B)(iii) of this title][/us/usc/t42/s653a/a/2/B/iii])” after “employers” and “, and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission” before semicolon at end.
 
-    Subsec. (b)(1). [Pub. L. 104–193, § 108(g)(8)(A)][/us/pl/104/193/s108/g/8/A], added par. (1) and struck out former par. (1) which read as follows: “the aid to families with dependent children program under part A of subchapter IV of this chapter;”.
+    Subsec. (b)(1). [Pub. L. 104–193][/us/pl/104/193], § 108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows: “the aid to families with dependent children program under part A of subchapter IV of this chapter;”.
 
-    Subsec. (d)(1)(B). [Pub. L. 104–193, § 108(g)(8)(B)][/us/pl/104/193/s108/g/8/B], substituted “In this subsection, in” for “In this subsection—”, struck out “(ii) in” before “the case of the program described in subsection (b)(4)”, redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: “in the case of the program described in subsection (b)(1) of this section, any reference to an individual’s eligibility for benefits under the program shall be considered a reference to the individual’s being considered a dependent child or to the individual’s being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under [section 602(a)(7) of this title][/us/usc/t42/s602/a/7],”.
+    Subsec. (d)(1)(B). [Pub. L. 104–193][/us/pl/104/193], § 108(g)(8)(B), substituted “In this subsection, in” for “In this subsection—”, struck out “(ii) in” before “the case of the program described in subsection (b)(4)”, redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: “in the case of the program described in subsection (b)(1) of this section, any reference to an individual’s eligibility for benefits under the program shall be considered a reference to the individual’s being considered a dependent child or to the individual’s being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under [section 602(a)(7) of this title][/us/usc/t42/s602/a/7],”.
 
     Subsec. (d)(4)(B)(i). [Pub. L. 104–208][/us/pl/104/208] amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the State shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,”.
 
@@ -207,7 +207,7 @@
 
     1988—Subsec. (f). [Pub. L. 100–360][/us/pl/100/360] added subsec. (f).
 
-    1986—Subsec. (a). [Pub. L. 99–603, § 121(a)(1)(A)][/us/pl/99/603/s121/a/1/A], inserted “which meets the requirements of subsection (d) of this section and” after “system” in introductory text.
+    1986—Subsec. (a). [Pub. L. 99–603][/us/pl/99/603], § 121(a)(1)(A), inserted “which meets the requirements of subsection (d) of this section and” after “system” in introductory text.
 
     Subsec. (a)(2), (4)(B). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -215,11 +215,11 @@
 
     Subsec. (a)(5). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
-    Subsec. (b). [Pub. L. 99–603, § 121(a)(1)(B)][/us/pl/99/603/s121/a/1/B], substituted “income and eligibility verification system” for “income verification system” in introductory text.
+    Subsec. (b). [Pub. L. 99–603][/us/pl/99/603], § 121(a)(1)(B), substituted “income and eligibility verification system” for “income verification system” in introductory text.
 
     Subsecs. (b)(3), (c)(1). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Subsecs. (d), (e). [Pub. L. 99–603, § 121(a)(1)(C)][/us/pl/99/603/s121/a/1/C], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 99–603][/us/pl/99/603], § 121(a)(1)(C), added subsecs. (d) and (e).
 
  __Change of Name__ 
 
@@ -233,7 +233,7 @@
 
  __Effective Date of 1999 Amendments__ 
 
-[Pub. L. 106–170, title IV, § 405(c)][/us/pl/106/170/s405/c], Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911], provided that: 
+[Pub. L. 106–170, title IV][/us/pl/106/170/tIV], § 405(c), Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to wage reports required to be submitted on and after the date of the enactment of this Act \[Dec. 17, 1999\].”
 
@@ -247,13 +247,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–360, title IV, § 411(k)(15)(B)][/us/pl/100/360/s411/k/15/B], July 1, 1988, [102 Stat. 799][/us/stat/102/799], provided that: 
+[Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(k)(15)(B), July 1, 1988, [102 Stat. 799][/us/stat/102/799], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall apply as if it were included in the enactment of section 9406 of the Omnibus Budget Reconciliation Act of 1986 \[see [section 9406(c) of Pub. L. 99–509][/us/pl/99/509/s9406/c], set out as an Effective Date of 1986 Amendment note under [section 1396a of this title][/us/usc/t42/s1396a]\].”
 
  __Effective Date of 1986 Amendment; Use of Verification System__ 
 
-[Pub. L. 99–603, title I, § 121(c)(3)][/us/pl/99/603/s121/c/3], (4), Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391], 3392, provided that:
+[Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(c)(3), (4), Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391], 3392, provided that:
 
 >     “(3)  __Use of verification system required in fiscal year 1989__  __.—__ 
 
@@ -347,7 +347,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. B, title VI, § 2651][/us/pl/98/369/s2651](l), July 18, 1984, [98 Stat. 1151][/us/stat/98/1151], provided that:
+[Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2651(l), July 18, 1984, [98 Stat. 1151][/us/stat/98/1151], provided that:
 
 >     “(1) The amendments made by subsections (j) and (k) \[amending [section 1383 of this title][/us/usc/t42/s1383] and [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
@@ -363,13 +363,13 @@
 
  __Immigration and Naturalization Service To Establish Verification System by__  __October 1, 1987__ 
 
-[Pub. L. 99–603, title I, § 121(c)(1)][/us/pl/99/603/s121/c/1], Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391], provided that: 
+[Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(c)(1), Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391], provided that: 
 
 > “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[[42 U.S.C. 1320b–7(d)(3)][/us/usc/t42/s1320b–7/d/3], (4)(B)(i)\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
 
  __General Accounting Office Reports__ 
 
-    [Pub. L. 99–603, title I, § 121(d)][/us/pl/99/603/s121/d], Nov. 6, 1986, [100 Stat. 3393][/us/stat/100/3393], directed Comptroller General to examine current pilot projects relating to the System for Alien Verification of Eligibility (SAVE) operated by, or through cooperative agreements with, the Immigration and Naturalization Service, and report, not later than Oct. 1, 1987, to Congress and to Commissioner of Immigration and Naturalization Service concerning the effectiveness of such projects and any problems with the implementation of such projects, particularly as they may apply to implementation of the system, with Comptroller General to monitor and analyze the implementation of such system, report to Congress and to the appropriate Secretaries, by not later than Apr. 1, 1989, on such implementation, and include in such report recommendations for appropriate changes in the system.
+    [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(d), Nov. 6, 1986, [100 Stat. 3393][/us/stat/100/3393], directed Comptroller General to examine current pilot projects relating to the System for Alien Verification of Eligibility (SAVE) operated by, or through cooperative agreements with, the Immigration and Naturalization Service, and report, not later than Oct. 1, 1987, to Congress and to Commissioner of Immigration and Naturalization Service concerning the effectiveness of such projects and any problems with the implementation of such projects, particularly as they may apply to implementation of the system, with Comptroller General to monitor and analyze the implementation of such system, report to Congress and to the appropriate Secretaries, by not later than Apr. 1, 1989, on such implementation, and include in such report recommendations for appropriate changes in the system.
 
 ----------
 
@@ -382,31 +382,31 @@
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t42/s1396b/v/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fv%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/98/369/s2651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2651%2Fa
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1147
-[/us/pl/99/509/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9101
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1972
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/603/s121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fa%2F1
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3384
-[/us/pl/100/360/s411/k/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fk%2F15%2FA
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F799
-[/us/pl/103/432/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs231
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4462
-[/us/pl/104/193/s108/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fg%2F8
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2168
-[/us/pl/104/208/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs507%2Fa
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-673
-[/us/pl/106/169/s401/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Fp
+[/us/pl/106/169/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtIV
 [/us/stat/113/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1859
-[/us/pl/106/170/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs405%2Fa
+[/us/pl/106/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIV
 [/us/stat/113/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1911
-[/us/pl/110/234/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s4030/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fq
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F815
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
@@ -415,36 +415,36 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s4030/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fq%2F1
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/113/79/s4030/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fq%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/106/170/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs405%2Fb%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s653a/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653a%2Fa%2F2%2FB
-[/us/pl/106/170/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs405%2Fb%2F1
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s653a/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653a%2Fa%2F2%2FB%2Fiii
 [/us/usc/t42/s653a/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653a%2Fa%2F2%2FB%2Fii
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
-[/us/pl/106/170/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs405%2Fa
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
-[/us/pl/104/193/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs313%2Fc
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s653a/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653a%2Fa%2F2%2FB%2Fiii
-[/us/pl/104/193/s108/g/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fg%2F8%2FA
-[/us/pl/104/193/s108/g/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fg%2F8%2FB
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s602/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F7
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
-[/us/pl/99/603/s121/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fa%2F1%2FA
+[/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/603/s121/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fa%2F1%2FB
+[/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/603/s121/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fa%2F1%2FC
+[/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/110/246/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fc
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -455,7 +455,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/106/170/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs405%2Fc
+[/us/pl/106/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIV
 [/us/stat/113/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1911
 [/us/pl/106/169/s401/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Fp
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
@@ -467,11 +467,11 @@
 [/us/pl/104/193/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs313%2Fc
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/100/360/s411/k/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fk%2F15%2FB
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F799
 [/us/pl/99/509/s9406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9406%2Fc
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/99/603/s121/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fc%2F3
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3391
 [/us/usc/t42/s1436a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1436a
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
@@ -483,7 +483,7 @@
 [/us/usc/t42/s1436a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1436a
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/98/369/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2651
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1151
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
@@ -497,10 +497,10 @@
 [/us/pl/106/169/s121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs121%2Fc%2F1
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/99/603/s121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fc%2F1
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3391
 [/us/usc/t42/s1320b–7/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937%2Fd%2F3
-[/us/pl/99/603/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fd
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3393
 
 

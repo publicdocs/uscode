@@ -27,7 +27,7 @@
 
     (b) In determining whether to extend financial assistance under this section, the Secretary shall take into consideration, among other factors, (1) the suitability of the area to the types of dwellings which can feasibly be provided, and (2) the extent to which the assistance will (i) facilitate providing needed decent, safe, and sanitary housing, (ii) be utilized efficiently and expeditiously, and (iii) fulfill a need in the area which is not otherwise being met through other programs, including those being carried out by other Federal, State, or local agencies.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 524, as added [Pub. L. 91–152, title IV, § 413(f)(1)][/us/pl/91/152/s413/f/1], Dec. 24, 1969, [83 Stat. 399][/us/stat/83/399]; amended [Pub. L. 93–383, title V, § 513][/us/pl/93/383/s513], Aug. 22, 1974, [88 Stat. 696][/us/stat/88/696]; [Pub. L. 96–399, title V, § 507(f)][/us/pl/96/399/s507/f], Oct. 8, 1980, [94 Stat. 1670][/us/stat/94/1670]; [Pub. L. 102–550, title VII, § 715][/us/pl/102/550/s715], Oct. 28, 1992, [106 Stat. 3842][/us/stat/106/3842].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 524, as added [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 413(f)(1), Dec. 24, 1969, [83 Stat. 399][/us/stat/83/399]; amended [Pub. L. 93–383, title V][/us/pl/93/383/tV], § 513, Aug. 22, 1974, [88 Stat. 696][/us/stat/88/696]; [Pub. L. 96–399, title V][/us/pl/96/399/tV], § 507(f), Oct. 8, 1980, [94 Stat. 1670][/us/stat/94/1670]; [Pub. L. 102–550, title VII][/us/pl/102/550/tVII], § 715, Oct. 28, 1992, [106 Stat. 3842][/us/stat/106/3842].)
 
  __Amendments__ 
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/91/152/s413/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs413%2Ff%2F1
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F399
-[/us/pl/93/383/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs513
+[/us/pl/93/383/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtV
 [/us/stat/88/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F696
-[/us/pl/96/399/s507/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs507%2Ff
+[/us/pl/96/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtV
 [/us/stat/94/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1670
-[/us/pl/102/550/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs715
+[/us/pl/102/550/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVII
 [/us/stat/106/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3842
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399

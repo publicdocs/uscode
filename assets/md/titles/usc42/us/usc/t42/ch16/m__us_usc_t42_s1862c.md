@@ -83,7 +83,7 @@
 
         In conducting the activities under the Program, the Director shall consult with the Secretary of Education and the heads of other related agencies.
 
-([Pub. L. 100–570, title II, § 204][/us/pl/100/570/s204], Oct. 31, 1988, [102 Stat. 2875][/us/stat/102/2875].)
+([Pub. L. 100–570, title II][/us/pl/100/570/tII], § 204, Oct. 31, 1988, [102 Stat. 2875][/us/stat/102/2875].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 
 [/us/usc/t42/s1862b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862b%2Fc
 [/us/usc/t42/s1862b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862b%2Fc
-[/us/pl/100/570/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs204
+[/us/pl/100/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtII
 [/us/stat/102/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2875
 [/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
 [/us/stat/102/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2865

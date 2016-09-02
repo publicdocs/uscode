@@ -25,13 +25,13 @@
 
     (d) disposed of or relinquished by the Secretary of Housing and Urban Development prior to April 20, 1950, subject to such requirements or contractual obligations pursuant thereto, where the governing body of the municipality or county on or before December 31, 1950, adopts a resolution as provided in (c)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “subsection”. </sup></sup>  above; and any contract obligations to the Federal Government for the removal of such housing shall be relinquished upon the filing of such a resolution with the Secretary of Housing and Urban Development.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 602, as added [June 28, 1948, ch. 688, § 7][/us/act/1948-06-28/ch688/s7], as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended [Oct. 26, 1951, ch. 577, § 2][/us/act/1951-10-26/ch577/s2], [65 Stat. 648][/us/stat/65/648]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 602, as added [June 28, 1948, ch. 688][/us/act/1948-06-28/ch688], § 7, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended [Oct. 26, 1951, ch. 577][/us/act/1951-10-26/ch577], § 2, [65 Stat. 648][/us/stat/65/648]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __References in Text__ 
 
     [Section 1575 of this title][/us/usc/t42/s1575], referred to in subsec. (a), has been omitted from the Code.
 
-    Section 4 of the Housing and Rent Act of 1947, as amended, referred to in subsec. (c), is section 4 of [act June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], title I, [61 Stat. 195][/us/stat/61/195], which was formerly classified to section 1884 of the former Appendix to Title 50, War and National Defense, and has been omitted from the Code.
+    Section 4 of the Housing and Rent Act of 1947, as amended, referred to in subsec. (c), is section 4 of [act June 30, 1947, ch. 163, title I][/us/act/1947-06-30/ch163/tI], [61 Stat. 195][/us/stat/61/195], which was formerly classified to section 1884 of the former Appendix to Title 50, War and National Defense, and has been omitted from the Code.
 
  __Amendments__ 
 
@@ -53,15 +53,15 @@
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581
 [/us/usc/t42/s1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1524
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1948-06-28/ch688/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs7
+[/us/act/1948-06-28/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/act/1951-10-26/ch577/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch577%2Fs2
+[/us/act/1951-10-26/ch577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch577
 [/us/stat/65/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F648
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1575
-[/us/act/1947-06-30/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch163
+[/us/act/1947-06-30/ch163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch163%2FtI
 [/us/stat/61/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F195
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581
 

@@ -17,7 +17,7 @@
 
     The authority of the Secretary to enter into contracts under this chapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-([Pub. L. 91–616, title VI, § 604][/us/pl/91/616/s604], as added [Pub. L. 96–180, § 17][/us/pl/96/180/s17], Jan. 2, 1980, [93 Stat. 1306][/us/stat/93/1306].)
+([Pub. L. 91–616, title VI][/us/pl/91/616/tVI], § 604, as added [Pub. L. 96–180][/us/pl/96/180], § 17, Jan. 2, 1980, [93 Stat. 1306][/us/stat/93/1306].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/91/616/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs604
-[/us/pl/96/180/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs17
+[/us/pl/91/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtVI
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1306
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/stat/84/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1848

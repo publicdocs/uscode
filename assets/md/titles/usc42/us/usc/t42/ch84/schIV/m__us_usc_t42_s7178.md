@@ -45,7 +45,7 @@
 
         The Commission may waive all or part of any fee or annual charge assessed under this section for good cause shown.
 
-([Pub. L. 99–509, title III, § 3401][/us/pl/99/509/s3401], Oct. 21, 1986, [100 Stat. 1890][/us/stat/100/1890].)
+([Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3401, Oct. 21, 1986, [100 Stat. 1890][/us/stat/100/1890].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/99/509/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3401
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1890
 
 

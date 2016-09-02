@@ -139,7 +139,7 @@
 
             (B) is enforcing a State program approved under this section.
 
-([Pub. L. 89–272, title II, § 9004][/us/pl/89/272/s9004], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3282][/us/stat/98/3282]; amended [Pub. L. 99–499, title II, § 205(e)][/us/pl/99/499/s205/e], Oct. 17, 1986, [100 Stat. 1702][/us/stat/100/1702]; [Pub. L. 109–58, title XV][/us/pl/109/58], §§ 1522(a), (b), 1524(b), 1533(3), Aug. 8, 2005, [119 Stat. 1092][/us/stat/119/1092], 1093, 1096, 1105.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9004, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3282][/us/stat/98/3282]; amended [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 205(e), Oct. 17, 1986, [100 Stat. 1702][/us/stat/100/1702]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], §§ 1522(a), (b), 1524(b), 1533(3), Aug. 8, 2005, [119 Stat. 1092][/us/stat/119/1092], 1093, 1096, 1105.)
 
  __References in Text__ 
 
@@ -147,17 +147,17 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 1533(3)][/us/pl/109/58/s1533/3], substituted “in subparagraph (A) or (B) of section 6991(7)” for “in 6991(2)(A) or (B) or both”.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1533(3), substituted “in subparagraph (A) or (B) of section 6991(7)” for “in 6991(2)(A) or (B) or both”.
 
-    Subsec. (a)(9). [Pub. L. 109–58, § 1524(b)][/us/pl/109/58/s1524/b], added par. (9).
+    Subsec. (a)(9). [Pub. L. 109–58][/us/pl/109/58], § 1524(b), added par. (9).
 
-    Subsec. (c)(6). [Pub. L. 109–58, § 1522(b)][/us/pl/109/58/s1522/b], added par. (6).
+    Subsec. (c)(6). [Pub. L. 109–58][/us/pl/109/58], § 1522(b), added par. (6).
 
-    Subsec. (f). [Pub. L. 109–58, § 1522(a)][/us/pl/109/58/s1522/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 1522(a), added subsec. (f).
 
-    1986—Subsec. (c)(1). [Pub. L. 99–499, § 205(e)(1)][/us/pl/99/499/s205/e/1], struck out “financed by fees on tank owners and operators and” after “compensation programs”.
+    1986—Subsec. (c)(1). [Pub. L. 99–499][/us/pl/99/499], § 205(e)(1), struck out “financed by fees on tank owners and operators and” after “compensation programs”.
 
-    Subsec. (c)(2). [Pub. L. 99–499, § 205(e)(2)][/us/pl/99/499/s205/e/2], struck out “or” after “letter of credit,” and inserted “or any other method satisfactory to the Administrator” and “including the amount of coverage required for various classes and categories of underground storage tanks pursuant to [section 6991b(d)(5) of this title][/us/usc/t42/s6991b/d/5]”.
+    Subsec. (c)(2). [Pub. L. 99–499][/us/pl/99/499], § 205(e)(2), struck out “or” after “letter of credit,” and inserted “or any other method satisfactory to the Administrator” and “including the amount of coverage required for various classes and categories of underground storage tanks pursuant to [section 6991b(d)(5) of this title][/us/usc/t42/s6991b/d/5]”.
 
 ----------
 
@@ -179,19 +179,19 @@
 [/us/usc/t42/s6991m/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991m%2F2%2FA
 [/us/usc/t42/s6991b/h/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fh%2F7%2FA
 [/us/usc/t42/s6991b/h/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fh%2F7%2FA
-[/us/pl/89/272/s9004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9004
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3282
-[/us/pl/99/499/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fe
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1702
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1092
-[/us/pl/109/58/s1533/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1533%2F3
-[/us/pl/109/58/s1524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1524%2Fb
-[/us/pl/109/58/s1522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1522%2Fb
-[/us/pl/109/58/s1522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1522%2Fa
-[/us/pl/99/499/s205/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fe%2F1
-[/us/pl/99/499/s205/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fe%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s6991b/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fd%2F5
 
 

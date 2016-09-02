@@ -113,7 +113,7 @@
 
     (14) the term “replacement fuel” means the portion of any motor fuel that is methanol, ethanol, or other alcohols, natural gas, liquefied petroleum gas, hydrogen, coal derived liquid fuels, fuels (other than alcohol) derived from biological materials, electricity (including electricity from solar energy), ethers, or any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits.
 
-([Pub. L. 102–486, title III, § 301][/us/pl/102/486/s301], Oct. 24, 1992, [106 Stat. 2866][/us/stat/106/2866]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 122\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229; [Pub. L. 109–58, title VII, § 707][/us/pl/109/58/s707], Aug. 8, 2005, [119 Stat. 818][/us/stat/119/818]; [Pub. L. 110–181, div. B, title XXVIII, § 2862][/us/pl/110/181/s2862], Jan. 28, 2008, [122 Stat. 559][/us/stat/122/559].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 301, Oct. 24, 1992, [106 Stat. 2866][/us/stat/106/2866]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 122\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229; [Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 707, Aug. 8, 2005, [119 Stat. 818][/us/stat/119/818]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2862, Jan. 28, 2008, [122 Stat. 559][/us/stat/122/559].)
 
  __References in Text__ 
 
@@ -121,13 +121,13 @@
 
     Subchapter II of this chapter, referred to in introductory provisions, was in the original “title IV”, meaning title IV of [Pub. L. 102–486][/us/pl/102/486], Oct. 24, 1992, [106 Stat. 2875][/us/stat/106/2875], which enacted subchapter II (§ 13231 et seq.) of this chapter, amended sections 6374a and 6374b and former [section 6374c of this title][/us/usc/t42/s6374c] and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and [section 717 of Title 15][/us/usc/t15/s717], and repealed provisions set out as a note under [section 717c of Title 15][/us/usc/t15/s717c]. For complete classification of title IV to the Code, see Tables.
 
-    Paragraphs (7) and (8) of [section 32901(a) of title 49][/us/usc/t49/s32901/a], referred to in pars. (6)(A) and (8)(A), were redesignated as pars. (8) and (9), respectively, and a new par. (7) was enacted by [Pub. L. 110–140, title I, § 103(a)(2)][/us/pl/110/140/s103/a/2], (3), Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501].
+    Paragraphs (7) and (8) of [section 32901(a) of title 49][/us/usc/t49/s32901/a], referred to in pars. (6)(A) and (8)(A), were redesignated as pars. (8) and (9), respectively, and a new par. (7) was enacted by [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 103(a)(2), (3), Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501].
 
     The Outer Continental Shelf Lands Act, referred to in par. (7), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
  __Codification__ 
 
-    In pars. (6)(A) and (8)(A), “[section 32901(a)(7) of title 49][/us/usc/t49/s32901/a/7]” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information and Cost Savings Act” and “[section 32901(a)(8) of title 49][/us/usc/t49/s32901/a/8]” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In pars. (6)(A) and (8)(A), “[section 32901(a)(7) of title 49][/us/usc/t49/s32901/a/7]” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information and Cost Savings Act” and “[section 32901(a)(8) of title 49][/us/usc/t49/s32901/a/8]” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
@@ -148,13 +148,13 @@
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t42/s7550/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550%2F7
 [/us/usc/t42/s7550/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550%2F2
-[/us/pl/102/486/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs301
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2866
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/58/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs707
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F818
-[/us/pl/110/181/s2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2862
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F559
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2866
@@ -166,14 +166,14 @@
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s717c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717c
 [/us/usc/t49/s32901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa
-[/us/pl/110/140/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F2
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1501
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/usc/t49/s32901/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa%2F7
 [/us/usc/t49/s32901/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa%2F8
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

@@ -51,7 +51,7 @@
 
         The Director shall transmit to Congress, as part of the President’s annual budget submission under [section 1105 of title 31][/us/usc/t31/s1105], a report on the amounts allocated for support of research under this section for the fiscal year during which such report is submitted and the levels proposed for the fiscal year with respect to which the budget submission applies.
 
-([Pub. L. 110–69, title VII, § 7024(b)][/us/pl/110/69/s7024/b], Aug. 9, 2007, [121 Stat. 689][/us/stat/121/689].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7024(b), Aug. 9, 2007, [121 Stat. 689][/us/stat/121/689].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t15/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/110/69/s7024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fb
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F689
 [/us/pl/102/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194
 [/us/stat/105/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1594

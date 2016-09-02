@@ -1419,7 +1419,7 @@
 
         Notwithstanding any provision of the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board nothing in this section shall apply to heavy-duty engines in vehicles of more than 8,500 lbs. GVWR.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 243, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2514][/us/stat/104/2514].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 243, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2514][/us/stat/104/2514].)
 
 ----------
 
@@ -1435,7 +1435,7 @@
 [/us/usc/t42/s7582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7582
 [/us/usc/t42/s7582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7582
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2514
 
 

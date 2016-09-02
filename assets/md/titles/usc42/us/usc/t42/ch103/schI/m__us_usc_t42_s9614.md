@@ -55,13 +55,13 @@
 
         Except as provided in this subchapter, no owner or operator of a vessel or facility who establishes and maintains evidence of financial responsibility in accordance with this subchapter shall be required under any State or local law, rule, or regulation to establish or maintain any other evidence of financial responsibility in connection with liability for the release of a hazardous substance from such vessel or facility. Evidence of compliance with the financial responsibility requirements of this subchapter shall be accepted by a State in lieu of any other requirement of financial responsibility imposed by such State in connection with liability for the release of a hazardous substance from such vessel or facility.
 
-([Pub. L. 96–510, title I, § 114][/us/pl/96/510/s114], Dec. 11, 1980, [94 Stat. 2795][/us/stat/94/2795]; [Pub. L. 99–499, title I, § 114(a)][/us/pl/99/499/s114/a], Oct. 17, 1986, [100 Stat. 1652][/us/stat/100/1652].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 114, Dec. 11, 1980, [94 Stat. 2795][/us/stat/94/2795]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 114(a), Oct. 17, 1986, [100 Stat. 1652][/us/stat/100/1652].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§ 6921 et seq.) and IX (§ 6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§ 6921 et seq.) and IX (§ 6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
  __Amendments__ 
 
@@ -82,16 +82,16 @@
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s6935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
-[/us/pl/96/510/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs114
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2795
-[/us/pl/99/499/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs114%2Fa
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1652
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499

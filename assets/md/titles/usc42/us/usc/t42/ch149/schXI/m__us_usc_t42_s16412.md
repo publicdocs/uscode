@@ -43,7 +43,7 @@
 
         (2) consolidate training guidelines in existence on the date on which the guidelines under subsection (a) are developed relating to the construction, operation, maintenance, and inspection of nonnuclear electric generation, transmission, and distribution facilities, such as guidelines established by the National Electric Safety Code and other industry consensus standards.
 
-([Pub. L. 109–58, title XI, § 1103][/us/pl/109/58/s1103], Aug. 8, 2005, [119 Stat. 939][/us/stat/119/939].)
+([Pub. L. 109–58, title XI][/us/pl/109/58/tXI], § 1103, Aug. 8, 2005, [119 Stat. 939][/us/stat/119/939].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1103
+[/us/pl/109/58/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXI
 [/us/stat/119/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F939
 
 

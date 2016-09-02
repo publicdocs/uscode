@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title II, § 202, [60 Stat. 981][/us/stat/60/981], defined the term “Administrator” as used in certain sections of this chapter. See [section 1301 of this title][/us/usc/t42/s1301].
+    Section, [act Aug. 10, 1946, ch. 951, title II][/us/act/1946-08-10/ch951/tII], § 202, [60 Stat. 981][/us/stat/60/981], defined the term “Administrator” as used in certain sections of this chapter. See [section 1301 of this title][/us/usc/t42/s1301].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-10/ch951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-10%2Fch951
+[/us/act/1946-08-10/ch951/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-10%2Fch951%2FtII
 [/us/stat/60/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F981
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 

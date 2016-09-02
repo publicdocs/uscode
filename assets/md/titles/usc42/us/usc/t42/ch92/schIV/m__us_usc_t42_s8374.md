@@ -63,11 +63,11 @@
 
         Any order issued under this section shall be published in the Federal Register. To the greatest extent practicable, the President shall, before issuing any order under this section, but in no event later than 5 days after issuing such order, report to the Congress of his intention to issue such order and state his reasons therefor.
 
-([Pub. L. 95–620, title IV, § 404][/us/pl/95/620/s404], Nov. 9, 1978, [92 Stat. 3319][/us/stat/92/3319]; [Pub. L. 100–42, § 1(c)(15)][/us/pl/100/42/s1/c/15], May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
+([Pub. L. 95–620, title IV][/us/pl/95/620/tIV], § 404, Nov. 9, 1978, [92 Stat. 3319][/us/stat/92/3319]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(15), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
 
  __References in Text__ 
 
-    [Section 7410(d) of this title][/us/usc/t42/s7410/d], referred to in subsec. (b), was repealed by [Pub. L. 101–549, title I, § 101(d)(4)][/us/pl/101/549/s101/d/4], Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
+    [Section 7410(d) of this title][/us/usc/t42/s7410/d], referred to in subsec. (b), was repealed by [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(d)(4), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
 
     This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 95–620][/us/pl/95/620], Nov. 9, 1978, [92 Stat. 3289][/us/stat/92/3289], known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 8301 of this title][/us/usc/t42/s8301] and Tables.
 
@@ -89,12 +89,12 @@
 [/us/usc/t42/s7410/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Ff
 [/us/usc/t42/s6421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6421
 [/us/usc/t42/s6421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6421
-[/us/pl/95/620/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs404
+[/us/pl/95/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtIV
 [/us/stat/92/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3319
-[/us/pl/100/42/s1/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F15
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/usc/t42/s7410/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fd
-[/us/pl/101/549/s101/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F4
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

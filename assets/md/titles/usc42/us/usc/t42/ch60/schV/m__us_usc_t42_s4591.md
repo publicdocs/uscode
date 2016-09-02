@@ -17,7 +17,7 @@
 
     If any section, provision, or term of this chapter is adjudged invalid for any reason, such judgment shall not affect, impair, or invalidate any other section, provision, or term of this chapter, and the remaining sections, provisions, and terms shall be and remain in full force and effect.
 
-([Pub. L. 91–616, title VI, § 601][/us/pl/91/616/s601], formerly title V, § 501, Dec. 31, 1970, [84 Stat. 1854][/us/stat/84/1854], renumbered [Pub. L. 94–371, § 7][/us/pl/94/371/s7], July 26, 1976, [90 Stat. 1038][/us/stat/90/1038].)
+([Pub. L. 91–616, title VI][/us/pl/91/616/tVI], § 601, formerly title V, § 501, Dec. 31, 1970, [84 Stat. 1854][/us/stat/84/1854], renumbered [Pub. L. 94–371][/us/pl/94/371], § 7, July 26, 1976, [90 Stat. 1038][/us/stat/90/1038].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    [Pub. L. 94–371, § 7][/us/pl/94/371/s7], July 26, 1976, [90 Stat. 1038][/us/stat/90/1038], redesignated title V of [Pub. L. 91–616][/us/pl/91/616], which was classified to subchapter IV of this chapter, as title VI without renumbering the sections therein. [Section 501 of Pub. L. 91–616][/us/pl/91/616/s501] was renumbered 601, as the probable intent of Congress.
+    [Pub. L. 94–371][/us/pl/94/371], § 7, July 26, 1976, [90 Stat. 1038][/us/stat/90/1038], redesignated title V of [Pub. L. 91–616][/us/pl/91/616], which was classified to subchapter IV of this chapter, as title VI without renumbering the sections therein. [Section 501 of Pub. L. 91–616][/us/pl/91/616/s501] was renumbered 601, as the probable intent of Congress.
 
 ----------
 
@@ -34,14 +34,14 @@
 ----------
 ----------
 
-[/us/pl/91/616/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs601
+[/us/pl/91/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtVI
 [/us/stat/84/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1854
-[/us/pl/94/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs7
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1038
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/stat/84/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1848
 [/us/usc/t42/s4541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4541
-[/us/pl/94/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs7
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1038
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/pl/91/616/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs501

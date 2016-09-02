@@ -31,11 +31,11 @@
 
         The Secretary shall cause to be published in the Federal Register notice of all grant awards made pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.
 
-([Pub. L. 100–690, title V, § 5127][/us/pl/100/690/s5127], as added [Pub. L. 105–276, title V, § 586(g)][/us/pl/105/276/s586/g], Oct. 21, 1998, [112 Stat. 2649][/us/stat/112/2649].)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5127, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 586(g), Oct. 21, 1998, [112 Stat. 2649][/us/stat/112/2649].)
 
  __Prior Provisions__ 
 
-    A prior section 11906, [Pub. L. 100–690, title V, § 5127][/us/pl/100/690/s5127], Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303]; [Pub. L. 101–625, title V, § 581(a)][/us/pl/101/625/s581/a], Nov. 28, 1990, [104 Stat. 4248][/us/stat/104/4248], related to implementation of this subchapter, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276], §§ 503, 586(g), Oct. 21, 1998, [112 Stat. 2521][/us/stat/112/2521], 2649, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, except to extent otherwise provided, and with savings provision.
+    A prior section 11906, [Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5127, Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 581(a), Nov. 28, 1990, [104 Stat. 4248][/us/stat/104/4248], related to implementation of this subchapter, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276/tV], §§ 503, 586(g), Oct. 21, 1998, [112 Stat. 2521][/us/stat/112/2521], 2649, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, except to extent otherwise provided, and with savings provision.
 
  __Effective Date__ 
 
@@ -50,14 +50,14 @@
 
 [/us/usc/t42/s11904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11904%2Fa
 [/us/usc/t42/s11907/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11907%2Fb
-[/us/pl/100/690/s5127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5127
-[/us/pl/105/276/s586/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fg
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2649
-[/us/pl/100/690/s5127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5127
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4303
-[/us/pl/101/625/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs581%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4248
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2521
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

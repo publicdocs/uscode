@@ -151,11 +151,11 @@
 
         For the purposes of carrying out this chapter, there are authorized to be appropriated $125,000,000 for fiscal year 1993 and $250,000,000 for fiscal year 1994.
 
-([Pub. L. 102–550, title X, § 1011][/us/pl/102/550/s1011], Oct. 28, 1992, [106 Stat. 3901][/us/stat/106/3901]; [Pub. L. 103–233, title III, § 305(a)][/us/pl/103/233/s305/a], Apr. 11, 1994, [108 Stat. 370][/us/stat/108/370]; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 217\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–290; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1011, Oct. 28, 1992, [106 Stat. 3901][/us/stat/106/3901]; [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 305(a), Apr. 11, 1994, [108 Stat. 370][/us/stat/108/370]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II, § 217\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–290; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __References in Text__ 
 
-    [Section 12705(b)(16) of this title][/us/usc/t42/s12705/b/16], referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by [Pub. L. 105–276, title V, § 583(5)(B)][/us/pl/105/276/s583/5/B], Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
+    [Section 12705(b)(16) of this title][/us/usc/t42/s12705/b/16], referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 583(5)(B), Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
 
     This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X of [Pub. L. 102–550][/us/pl/102/550], Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897], known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under [section 4851 of this title][/us/usc/t42/s4851] and Tables.
 
@@ -169,9 +169,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 217\], substituted “hazards in housing” for “hazards in priority housing” and inserted at end “Grants shall only be made under this section to provide assistance for housing which meets the following criteria—” and pars. (1) to (3).
+    1996—Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 217\], substituted “hazards in housing” for “hazards in priority housing” and inserted at end “Grants shall only be made under this section to provide assistance for housing which meets the following criteria—” and pars. (1) to (3).
 
-    Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). [Pub. L. 104–134, § 101(e)][/us/pl/104/134/s101/e] \[title II, § 217(a)\], substituted “housing” for “priority housing”.
+    Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). [Pub. L. 104–134][/us/pl/104/134], § 101(e) \[title II, § 217(a)\], substituted “housing” for “priority housing”.
 
     1994—Subsecs. (o), (p). [Pub. L. 103–233][/us/pl/103/233] added subsec. (o) and redesignated former subsec. (o) as (p).
 
@@ -192,16 +192,16 @@
 [/us/usc/t42/s12838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12838
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
 [/us/stat/105/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F736
-[/us/pl/102/550/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1011
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3901
-[/us/pl/103/233/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs305%2Fa
+[/us/pl/103/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtIII
 [/us/stat/108/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F370
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/usc/t42/s12705/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F16
-[/us/pl/105/276/s583/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs583%2F5%2FB
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2644
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897
@@ -216,8 +216,8 @@
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
 [/us/stat/105/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F736
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 
 

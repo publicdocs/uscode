@@ -39,7 +39,7 @@
 
         Effective 1 year after December 20, 1993, the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3701][/us/usc/t42/s3701] et seq.\] that is not in compliance with the requirements of this subchapter.
 
-([Pub. L. 103–209, § 4][/us/pl/103/209/s4], Dec. 20, 1993, [107 Stat. 2493][/us/stat/107/2493]; [Pub. L. 103–322, title XXXII, § 320928(d)][/us/pl/103/322/s320928/d], Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132]; [Pub. L. 105–251, title II, § 222(c)][/us/pl/105/251/s222/c], Oct. 9, 1998, [112 Stat. 1885][/us/stat/112/1885].)
+([Pub. L. 103–209][/us/pl/103/209], § 4, Dec. 20, 1993, [107 Stat. 2493][/us/stat/107/2493]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320928(d), Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132]; [Pub. L. 105–251, title II][/us/pl/105/251/tII], § 222(c), Oct. 9, 1998, [112 Stat. 1885][/us/stat/112/1885].)
 
  __References in Text__ 
 
@@ -67,11 +67,11 @@
 ----------
 
 [/us/usc/t42/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3701
-[/us/pl/103/209/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209%2Fs4
+[/us/pl/103/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209
 [/us/stat/107/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2493
-[/us/pl/103/322/s320928/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fd
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2132
-[/us/pl/105/251/s222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs222%2Fc
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1885
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

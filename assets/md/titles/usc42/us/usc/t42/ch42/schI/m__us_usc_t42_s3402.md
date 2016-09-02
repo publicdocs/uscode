@@ -17,7 +17,7 @@
 
     The Surgeon General and the Attorney General are authorized to give representatives of States and local subdivisions thereof the benefit of their experience in the care, treatment, and rehabilitation of narcotic addicts so that each State may be encouraged to provide adequate facilities and personnel for the care and treatment of narcotic addicts in its jurisdiction.
 
-([Pub. L. 89–793, title VI, § 602][/us/pl/89/793/s602], Nov. 8, 1966, [80 Stat. 1450][/us/stat/80/1450].)
+([Pub. L. 89–793, title VI][/us/pl/89/793/tVI], § 602, Nov. 8, 1966, [80 Stat. 1450][/us/stat/80/1450].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/89/793/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs602
+[/us/pl/89/793/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2FtVI
 [/us/stat/80/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1450
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

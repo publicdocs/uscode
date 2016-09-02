@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this chapter $150,000,000 for fiscal year 1993 and $156,300,000 for fiscal year 1994.
 
-([Pub. L. 101–625, title VIII, § 863][/us/pl/101/625/s863], Nov. 28, 1990, [104 Stat. 4384][/us/stat/104/4384]; [Pub. L. 102–550, title VI, § 606(b)][/us/pl/102/550/s606/b], Oct. 28, 1992, [106 Stat. 3806][/us/stat/106/3806].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 863, Nov. 28, 1990, [104 Stat. 4384][/us/stat/104/4384]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(b), Oct. 28, 1992, [106 Stat. 3806][/us/stat/106/3806].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs863
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4384
-[/us/pl/102/550/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fb
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3806
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

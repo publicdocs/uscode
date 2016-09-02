@@ -59,7 +59,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated $3,000,000 for fiscal year 2005, and such sums as may be necessary for each of fiscal years 2006 through 2009.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377B, as added [Pub. L. 108–216, § 4][/us/pl/108/216/s4], Apr. 5, 2004, [118 Stat. 586][/us/stat/118/586].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377B, as added [Pub. L. 108–216][/us/pl/108/216], § 4, Apr. 5, 2004, [118 Stat. 586][/us/stat/118/586].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t42/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs273
 [/us/usc/t42/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs273
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/216/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216%2Fs4
+[/us/pl/108/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216
 [/us/stat/118/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F586
 
 

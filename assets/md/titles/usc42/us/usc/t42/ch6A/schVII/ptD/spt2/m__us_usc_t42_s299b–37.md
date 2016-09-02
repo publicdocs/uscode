@@ -53,7 +53,7 @@
 
         Agencies and instrumentalities of the Federal Government may enter into agreements with the Institute, and accept and retain funds, for the conduct and support of research described in this part, provided that the research to be conducted or supported under such agreements is authorized under the governing statutes of such agencies and instrumentalities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 937, as added [Pub. L. 111–148, title VI, § 6301(b)][/us/pl/111/148/s6301/b], Mar. 23, 2010, [124 Stat. 738][/us/stat/124/738].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 937, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(b), Mar. 23, 2010, [124 Stat. 738][/us/stat/124/738].)
 
  __Prior Provisions__ 
 
@@ -70,7 +70,7 @@
 [/us/usc/t42/s1320e/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%2Fd%2F8
 [/us/usc/t42/s1320e/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%2Fd%2F9
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s6301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fb
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F738
 [/us/usc/t42/s299c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%936
 

@@ -75,7 +75,7 @@
 
         (2) The term “program of excellence” means any program carried out by a designated biomedical and behavioral research institution with an award under subsection (a) of this section, if the program is for purposes for which the institution involved is authorized in subsection (b) of this section to expend the grant.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–4, formerly § 485F, as added [Pub. L. 106–525, title I, § 102][/us/pl/106/525/s102], Nov. 22, 2000, [114 Stat. 2501][/us/stat/114/2501]; amended [Pub. L. 109–482, title I, § 103(b)(45)][/us/pl/109/482/s103/b/45], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; renumbered § 464z–4 and amended [Pub. L. 111–148, title X, § 10334(c)(1)(D)(i)][/us/pl/111/148/s10334/c/1/D/i], (iii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–4, formerly § 485F, as added [Pub. L. 106–525, title I][/us/pl/106/525/tI], § 102, Nov. 22, 2000, [114 Stat. 2501][/us/stat/114/2501]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(45), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; renumbered § 464z–4 and amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(D)(i), (iii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973].)
 
  __Codification__ 
 
@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (a), (c)(3) to (f). [Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], substituted “Institute” for “Center” wherever appearing.
+    2010—Subsecs. (a), (c)(3) to (f). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), substituted “Institute” for “Center” wherever appearing.
 
     2007—Subsec. (h). [Pub. L. 109–482][/us/pl/109/482] struck out heading and text of subsec. (h). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
 
@@ -100,15 +100,15 @@
 
 [/us/usc/t42/s293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/525/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs102
+[/us/pl/106/525/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtI
 [/us/stat/114/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2501
-[/us/pl/109/482/s103/b/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F45
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/111/148/s10334/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fi
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 [/us/usc/t42/s287c–32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%9332
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109

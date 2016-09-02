@@ -41,7 +41,7 @@
 
         A copy of each permit application, compliance plan (including the schedule of compliance), emissions or compliance monitoring report, certification, and each permit issued under this subchapter, shall be available to the public. If an applicant or permittee is required to submit information entitled to protection from disclosure under [section 7414(c) of this title][/us/usc/t42/s7414/c], the applicant or permittee may submit such information separately. The requirements of [section 7414(c) of this title][/us/usc/t42/s7414/c] shall apply to such information. The contents of a permit shall not be entitled to protection under [section 7414(c) of this title][/us/usc/t42/s7414/c].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title V, § 503, as added [Pub. L. 101–549, title V, § 501][/us/pl/101/549/s501], Nov. 15, 1990, [104 Stat. 2641][/us/stat/104/2641].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title V, § 503, as added [Pub. L. 101–549, title V][/us/pl/101/549/tV], § 501, Nov. 15, 1990, [104 Stat. 2641][/us/stat/104/2641].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t42/s7414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7414%2Fc
 [/us/usc/t42/s7414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7414%2Fc
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs501
+[/us/pl/101/549/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtV
 [/us/stat/104/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2641
 
 

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe such procedural and administrative rules and regulations as he may deem necessary or appropriate to administer and manage the functions now or hereafter vested in him.
 
-([Pub. L. 95–91, title VI, § 644][/us/pl/95/91/s644], Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 644, Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs644
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F599
 
 

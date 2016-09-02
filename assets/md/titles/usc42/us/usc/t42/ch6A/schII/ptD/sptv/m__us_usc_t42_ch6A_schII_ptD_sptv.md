@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subpart VI, consisting of section 256a, related to health services for residents of public housing, prior to repeal by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+    A prior subpart VI, consisting of section 256a, related to health services for residents of public housing, prior to repeal by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 
 

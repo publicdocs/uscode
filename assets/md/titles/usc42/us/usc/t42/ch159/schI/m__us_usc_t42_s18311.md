@@ -23,11 +23,11 @@
 
         Congress reaffirms the policy stated in [section 70501(a) of title 51][/us/usc/t51/s70501/a], that the United States shall maintain an uninterrupted capability for human space flight and operations in low-Earth orbit, and beyond, as an essential instrument of national security and of the capacity to ensure continued United States participation and leadership in the exploration and utilization of space.
 
-([Pub. L. 111–267, title II, § 201][/us/pl/111/267/s201], Oct. 11, 2010, [124 Stat. 2811][/us/stat/124/2811].)
+([Pub. L. 111–267, title II][/us/pl/111/267/tII], § 201, Oct. 11, 2010, [124 Stat. 2811][/us/stat/124/2811].)
 
  __Codification__ 
 
-    In subsec. (b), “[section 70501(a) of title 51][/us/usc/t51/s70501/a]” substituted for “section 501(a) of the National Aeronautics and Space Administration Authorization Act of 2005 ([42 U.S.C. 16761(a)][/us/usc/t42/s16761/a])” on authority of [Pub. L. 111–314, § 5(e)][/us/pl/111/314/s5/e], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
+    In subsec. (b), “[section 70501(a) of title 51][/us/usc/t51/s70501/a]” substituted for “section 501(a) of the National Aeronautics and Space Administration Authorization Act of 2005 ([42 U.S.C. 16761(a)][/us/usc/t42/s16761/a])” on authority of [Pub. L. 111–314][/us/pl/111/314], § 5(e), Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
 
 ----------
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t51/s70501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70501%2Fa
-[/us/pl/111/267/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs201
+[/us/pl/111/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtII
 [/us/stat/124/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2811
 [/us/usc/t51/s70501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70501%2Fa
 [/us/usc/t42/s16761/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16761%2Fa
-[/us/pl/111/314/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs5%2Fe
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3443
 
 

@@ -17,7 +17,7 @@
 
     The Secretary, in coordination with the Director, shall monitor and evaluate the operation of projects receiving financial assistance under this part through methods provided for in [section 6867(a) of this title][/us/usc/t42/s6867/a], through onsite inspections, or through other means, in order to assure the effective provision of weatherization assistance for the dwelling units of low-income persons. The Secretary shall also carry out periodic evaluations of the program authorized by this part and projects receiving financial assistance under this part. The Secretary may provide technical assistance to any such project, directly and through persons and entities with a demonstrated capacity in developing and implementing appropriate technology for enhancing the effectiveness of the provision of weatherization assistance to the dwelling units of low-income persons, utilizing in any fiscal year not to exceed up to 20 percent of the sums appropriated for such year under this part.
 
-([Pub. L. 94–385, title IV, § 416][/us/pl/94/385/s416], Aug. 14, 1976, [90 Stat. 1156][/us/stat/90/1156]; [Pub. L. 96–294, title V, § 577(2)][/us/pl/96/294/s577/2], June 30, 1980, [94 Stat. 760][/us/stat/94/760]; [Pub. L. 111–5, div. A, title IV, § 407(d)][/us/pl/111/5/s407/d], Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 416, Aug. 14, 1976, [90 Stat. 1156][/us/stat/90/1156]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 577(2), June 30, 1980, [94 Stat. 760][/us/stat/94/760]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 407(d), Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/usc/t42/s6867/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6867%2Fa
-[/us/pl/94/385/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs416
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1156
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F760
-[/us/pl/111/5/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs407%2Fd
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F146
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294

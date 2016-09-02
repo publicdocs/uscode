@@ -17,7 +17,7 @@
 
     In time of war, or of emergency proclaimed by the President, he may utilize the Service to such extent and in such manner as shall in his judgment promote the public interest. In time of war, or of emergency involving the national defense proclaimed by the President, he may by Executive order declare the commissioned corps of the Service to be a military service. Upon such declaration, and during the period of such war or such emergency or such part thereof as the President shall prescribe, the commissioned corps (a) shall constitute a branch of the land and naval forces of the United States, (b) shall, to the extent prescribed by regulations of the President, be subject to the Uniform Code of Military Justice \[[10 U.S.C. 801][/us/usc/t10/s801] et seq.\], and (c) shall continue to operate as part of the Service except to the extent that the President may direct as Commander in Chief.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 216, [58 Stat. 690][/us/stat/58/690]; [Apr. 27, 1956, ch. 211, § 1][/us/act/1956-04-27/ch211/s1], [70 Stat. 116][/us/stat/70/116].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 216, [58 Stat. 690][/us/stat/58/690]; [Apr. 27, 1956, ch. 211][/us/act/1956-04-27/ch211], § 1, [70 Stat. 116][/us/stat/70/116].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F690
-[/us/act/1956-04-27/ch211/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211%2Fs1
+[/us/act/1956-04-27/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211
 [/us/stat/70/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F116
 [/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F334

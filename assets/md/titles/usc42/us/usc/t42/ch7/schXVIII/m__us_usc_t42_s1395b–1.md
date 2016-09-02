@@ -77,13 +77,13 @@
 
         In the case of any experiment or demonstration project under subsection (a) of this section, the Secretary may waive compliance with the requirements of this subchapter and subchapter XIX of this chapter insofar as such requirements relate to reimbursement or payment on the basis of reasonable cost, or (in the case of physicians) on the basis of reasonable charge, or to reimbursement or payment only for such services or items as may be specified in the experiment; and costs incurred in such experiment or demonstration project in excess of the costs which would otherwise be reimbursed or paid under such subchapters may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be engaged in or developed under subsection (a) of this section until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or demonstration project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct the proposed experiment or demonstration project, and its relationship to other similar experiments and projects already completed or in process.
 
-([Pub. L. 90–248, title IV, § 402(a)][/us/pl/90/248/s402/a], (b), Jan. 2, 1968, [81 Stat. 930][/us/stat/81/930], 931; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 222(b), 278(b)(2), Oct. 30, 1972, [86 Stat. 1391][/us/stat/86/1391], 1453; [Pub. L. 95–142, § 17(d)][/us/pl/95/142/s17/d], Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXI, § 2193(d)][/us/pl/97/35/s2193/d], Aug. 13, 1981, [95 Stat. 828][/us/stat/95/828]; [Pub. L. 97–248, title I, § 147][/us/pl/97/248/s147], Sept. 3, 1982, [96 Stat. 394][/us/stat/96/394]; [Pub. L. 98–369, div. B, title III, § 2331(b)][/us/pl/98/369/s2331/b], July 18, 1984, [98 Stat. 1088][/us/stat/98/1088].)
+([Pub. L. 90–248, title IV][/us/pl/90/248/tIV], § 402(a), (b), Jan. 2, 1968, [81 Stat. 930][/us/stat/81/930], 931; [Pub. L. 92–603, title II][/us/pl/92/603/tII], §§ 222(b), 278(b)(2), Oct. 30, 1972, [86 Stat. 1391][/us/stat/86/1391], 1453; [Pub. L. 95–142][/us/pl/95/142], § 17(d), Oct. 25, 1977, [91 Stat. 1202][/us/stat/91/1202]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(d), Aug. 13, 1981, [95 Stat. 828][/us/stat/95/828]; [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 147, Sept. 3, 1982, [96 Stat. 394][/us/stat/96/394]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2331(b), July 18, 1984, [98 Stat. 1088][/us/stat/98/1088].)
 
  __References in Text__ 
 
     Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(A), is [section 222(a) of Pub. L. 92–603][/us/pl/92/603/s222/a], Oct. 30, 1972, [86 Stat. 1329][/us/stat/86/1329], which is set out as a note below.
 
-    [Section 2691(c) of this title][/us/usc/t42/s2691/c], referred to in subsec. (a)(1)(B)(ii), was repealed by [Pub. L. 94–103, title III, § 302(c)][/us/pl/94/103/s302/c], Oct. 4, 1975, [89 Stat. 507][/us/stat/89/507].
+    [Section 2691(c) of this title][/us/usc/t42/s2691/c], referred to in subsec. (a)(1)(B)(ii), was repealed by [Pub. L. 94–103, title III][/us/pl/94/103/tIII], § 302(c), Oct. 4, 1975, [89 Stat. 507][/us/stat/89/507].
 
  __Codification__ 
 
@@ -97,17 +97,17 @@
 
     1982—Subsec. (a)(1)(K). [Pub. L. 97–248][/us/pl/97/248] added subpar. (K).
 
-    1981—Subsec. (a)(1). [Pub. L. 97–35, § 2193(d)(1)][/us/pl/97/35/s2193/d/1], substituted “this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
+    1981—Subsec. (a)(1). [Pub. L. 97–35][/us/pl/97/35], § 2193(d)(1), substituted “this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
 
-    Subsec. (a)(2). [Pub. L. 97–35, § 2193(d)(2)][/us/pl/97/35/s2193/d/2], substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter in two places.
+    Subsec. (a)(2). [Pub. L. 97–35][/us/pl/97/35], § 2193(d)(2), substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter in two places.
 
-    Subsec. (b). [Pub. L. 97–35, § 2193(d)(3)][/us/pl/97/35/s2193/d/3], substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2193(d)(3), substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter.
 
     1977—Subsec. (a)(1)(J). [Pub. L. 95–142][/us/pl/95/142] added subpar. (J).
 
     1972—Subsec. (a). [Pub. L. 92–603][/us/pl/92/603], §§ 222(b)(1), 278(b)(2), substituted provisions spelling out in detail the purposes for which experiments and demonstration projects may be carried out for a general statement setting out the increase in efficiency and economy of health services as the purpose of experiments selected by the Secretary, inserted references to demonstration projects, and inserted references to the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund.
 
-    Subsec. (b). [Pub. L. 92–603, § 222(b)(2)][/us/pl/92/603/s222/b/2], inserted references to demonstration projects and inserted “, or to reimbursement or payment only for such services or items as may be specified in the experiment”.
+    Subsec. (b). [Pub. L. 92–603][/us/pl/92/603], § 222(b)(2), inserted references to demonstration projects and inserted “, or to reimbursement or payment only for such services or items as may be specified in the experiment”.
 
  __Change of Name__ 
 
@@ -127,7 +127,7 @@
 
  __Community-Based Care Transitions Program__ 
 
-[Pub. L. 111–148, title III, § 3026][/us/pl/111/148/s3026], Mar. 23, 2010, [124 Stat. 413][/us/stat/124/413], provided that:
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3026, Mar. 23, 2010, [124 Stat. 413][/us/stat/124/413], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -237,7 +237,7 @@
 
  __Pilot Testing Pay-for-Performance Programs for Certain Medicare Providers__ 
 
-[Pub. L. 111–148, title X, § 10326][/us/pl/111/148/s10326], Mar. 23, 2010, [124 Stat. 961][/us/stat/124/961], provided that:
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10326, Mar. 23, 2010, [124 Stat. 961][/us/stat/124/961], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -283,7 +283,7 @@
 
  __Medicare Medical Home Demonstration Project__ 
 
-[Pub. L. 109–432, div. B, title II, § 204][/us/pl/109/432/s204], Dec. 20, 2006, [120 Stat. 2987][/us/stat/120/2987], as amended by [Pub. L. 110–275, title I, § 133(a)][/us/pl/110/275/s133/a], July 15, 2008, [122 Stat. 2531][/us/stat/122/2531], provided that:
+[Pub. L. 109–432, div. B, title II][/us/pl/109/432/dB/tII], § 204, Dec. 20, 2006, [120 Stat. 2987][/us/stat/120/2987], as amended by [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 133(a), July 15, 2008, [122 Stat. 2531][/us/stat/122/2531], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -395,7 +395,7 @@
 
  __Post-Acute Care Payment Reform Demonstration Program__ 
 
-[Pub. L. 109–171, title V, § 5008][/us/pl/109/171/s5008], Feb. 8, 2006, [120 Stat. 36][/us/stat/120/36], provided that:
+[Pub. L. 109–171, title V][/us/pl/109/171/tV], § 5008, Feb. 8, 2006, [120 Stat. 36][/us/stat/120/36], provided that:
 
 >     “(a) __Establishment.—__ 
 
@@ -425,7 +425,7 @@
 
  __Medicare Care Management Performance Demonstration__ 
 
-[Pub. L. 108–173, title VI, § 649][/us/pl/108/173/s649], Dec. 8, 2003, [117 Stat. 2329][/us/stat/117/2329], provided that:
+[Pub. L. 108–173, title VI][/us/pl/108/173/tVI], § 649, Dec. 8, 2003, [117 Stat. 2329][/us/stat/117/2329], provided that:
 
 >     “(a) __Establishment.—__ 
 
@@ -545,11 +545,11 @@
 
  __Demonstration Project for Disease Management for Severely Chronically Ill Medicare Beneficiaries__ 
 
-    [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 121\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–474, provided that the Secretary of Health and Human Services was to conduct a demonstration project under this section to demonstrate the impact on costs and health outcomes of applying disease management to medicare beneficiaries with diagnosed, advanced-stage congestive heart failure, diabetes, or coronary heart disease, that the project was to last for not longer than 3 years, and that the Secretary was to submit a final report to Congress not later than 6 months after the project’s completion.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title I, § 121\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–474, provided that the Secretary of Health and Human Services was to conduct a demonstration project under this section to demonstrate the impact on costs and health outcomes of applying disease management to medicare beneficiaries with diagnosed, advanced-stage congestive heart failure, diabetes, or coronary heart disease, that the project was to last for not longer than 3 years, and that the Secretary was to submit a final report to Congress not later than 6 months after the project’s completion.
 
  __Cancer Prevention and Treatment Demonstration for Ethnic and Racial Minorities__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 122\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–476, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title I, § 122\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–476, provided that:
 
 >     “(a) __Demonstration.—__ 
 
@@ -653,7 +653,7 @@
 
  __Lifestyle Modification Program Demonstration__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 128\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–480, as amended by [Pub. L. 108–173, title VII, § 736(b)(13)][/us/pl/108/173/s736/b/13], Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356], provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title I, § 128\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–480, as amended by [Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 736(b)(13), Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -681,7 +681,7 @@
 
  __Medicare Coordinated Care Demonstration Project__ 
 
-[Pub. L. 105–33, title IV, § 4016][/us/pl/105/33/s4016], Aug. 5, 1997, [111 Stat. 343][/us/stat/111/343], as amended by [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 535\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–390, provided that:
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4016, Aug. 5, 1997, [111 Stat. 343][/us/stat/111/343], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title V, § 535\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–390, provided that:
 
 >     “(a) __Demonstration Projects.—__ 
 
@@ -781,7 +781,7 @@
 
  __Informatics, Telemedicine, and Education Demonstration Project__ 
 
-[Pub. L. 105–33, title IV, § 4207][/us/pl/105/33/s4207], Aug. 5, 1997, [111 Stat. 379][/us/stat/111/379], as amended by [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 413\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–377; [Pub. L. 108–173, title IV, § 417][/us/pl/108/173/s417], Dec. 8, 2003, [117 Stat. 2282][/us/stat/117/2282], provided that:
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4207, Aug. 5, 1997, [111 Stat. 379][/us/stat/111/379], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title IV, § 413\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–377; [Pub. L. 108–173, title IV][/us/pl/108/173/tIV], § 417, Dec. 8, 2003, [117 Stat. 2282][/us/stat/117/2282], provided that:
 
 >     “(a) __Purpose and Authorization.—__ 
 
@@ -897,13 +897,13 @@
 
  __Clarification of Secretarial Waiver Authority for Rural Hospital Demonstrations__ 
 
-[Pub. L. 101–508, title IV, § 4008(i)(1)][/us/pl/101/508/s4008/i/1], Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], as amended by [Pub. L. 103–66, title XIII, § 13507][/us/pl/103/66/s13507], Aug. 10, 1993, [107 Stat. 579][/us/stat/107/579], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(i)(1), Nov. 5, 1990, [104 Stat. 1388–50][/us/stat/104/1388-50], as amended by [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13507, Aug. 10, 1993, [107 Stat. 579][/us/stat/107/579], provided that: 
 
 > “The Secretary of Health and Human Services is authorized to waive such provisions of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as are necessary to conduct any demonstration project for limited-service rural hospitals with respect to which the Secretary has entered into an agreement before the date of the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Dec. 19, 1989\]. The Secretary shall continue any such demonstration project until at least July 1, 1997.”
 
  __Volunteer Senior Aides Demonstration Projects for Basic Medical Assistance and Support to Families With Disabled or Ill Children__ 
 
-[Pub. L. 101–239, title X, § 10404][/us/pl/101/239/s10404], Dec. 19, 1989, [103 Stat. 2488][/us/stat/103/2488], provided that:
+[Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10404, Dec. 19, 1989, [103 Stat. 2488][/us/stat/103/2488], provided that:
 
 >     “(a)  __Number of Projects__  __.—__ 
 
@@ -941,7 +941,7 @@
 
  __Treatment of Certain Nursing Education Programs__ 
 
-[Pub. L. 100–647, title VIII, § 8411][/us/pl/100/647/s8411], Nov. 10, 1988, [102 Stat. 3800][/us/stat/102/3800], as amended by [Pub. L. 101–239, title VI, § 6205(a)(1)(B)][/us/pl/101/239/s6205/a/1/B], Dec. 19, 1989, [103 Stat. 2243][/us/stat/103/2243], provided that:
+[Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8411, Nov. 10, 1988, [102 Stat. 3800][/us/stat/102/3800], as amended by [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6205(a)(1)(B), Dec. 19, 1989, [103 Stat. 2243][/us/stat/103/2243], provided that:
 
 >     “(a) __Demonstration of Joint Nursing Graduate Education Programs.—__ 
 
@@ -969,7 +969,7 @@
 
  __Research on Long-Term Care Services for Medicare Beneficiaries__ 
 
-    [Pub. L. 100–360, title II, § 207][/us/pl/100/360/s207], July 1, 1988, [102 Stat. 732][/us/stat/102/732], which provided for research on issues relating to the delivery and financing of long-term care services for medicare beneficiaries, was repealed by [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981].
+    [Pub. L. 100–360, title II][/us/pl/100/360/tII], § 207, July 1, 1988, [102 Stat. 732][/us/stat/102/732], which provided for research on issues relating to the delivery and financing of long-term care services for medicare beneficiaries, was repealed by [Pub. L. 101–234, title II][/us/pl/101/234/tII], § 201(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981].
 
  __Adjustment of Contracts With Prepaid Health Plans__ 
 
@@ -977,7 +977,7 @@
 
  __Case Management Demonstration Projects__ 
 
-[Pub. L. 101–508, title IV, § 4207(f)][/us/pl/101/508/s4207/f], formerly § 4027(f), Nov. 5, 1990, [104 Stat. 1388–123][/us/stat/104/1388-123], as renumbered by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that:
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4207(f), formerly § 4027(f), Nov. 5, 1990, [104 Stat. 1388–123][/us/stat/104/1388-123], as renumbered by [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 160(d)(4), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1001,15 +1001,15 @@
 
 >     Notwithstanding section 425(g) of MCCA, there are authorized to be appropriated for administrative costs in carrying out the demonstration projects resumed pursuant to paragraph (1) $2,000,000 in each of fiscal years 1991 and 1992.”
 
-    [Pub. L. 100–360, title IV, § 425][/us/pl/100/360/s425], July 1, 1988, [102 Stat. 813][/us/stat/102/813], which directed Secretary of Health and Human Services to establish 4 demonstration projects under which an appropriate entity agreed to provide case management services, was repealed by [Pub. L. 101–234, title III, § 301(a)][/us/pl/101/234/s301/a], Dec. 13, 1989, [103 Stat. 1985][/us/stat/103/1985].
+    [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 425, July 1, 1988, [102 Stat. 813][/us/stat/102/813], which directed Secretary of Health and Human Services to establish 4 demonstration projects under which an appropriate entity agreed to provide case management services, was repealed by [Pub. L. 101–234, title III][/us/pl/101/234/tIII], § 301(a), Dec. 13, 1989, [103 Stat. 1985][/us/stat/103/1985].
 
  __Demonstration Projects With Respect to Chronic Ventilator-Dependent Units in Hospitals__ 
 
-    [Pub. L. 100–360, title IV, § 429][/us/pl/100/360/s429], July 1, 1988, [102 Stat. 817][/us/stat/102/817], as amended by [Pub. L. 100–647, title VIII, § 8404(a)][/us/pl/100/647/s8404/a], Nov. 10, 1988, [102 Stat. 3800][/us/stat/102/3800], directed Secretary of Health and Human Services, in consultation with the Prospective Payment Assessment Commission, to provide for at least 5 demonstration projects, for at least 3 years each, to review appropriateness of classifying chronic ventilator-dependent units in hospitals as rehabilitation units.
+    [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 429, July 1, 1988, [102 Stat. 817][/us/stat/102/817], as amended by [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8404(a), Nov. 10, 1988, [102 Stat. 3800][/us/stat/102/3800], directed Secretary of Health and Human Services, in consultation with the Prospective Payment Assessment Commission, to provide for at least 5 demonstration projects, for at least 3 years each, to review appropriateness of classifying chronic ventilator-dependent units in hospitals as rehabilitation units.
 
  __Research and Demonstration Projects on Rural and Inner-City Health Issues__ 
 
-[Pub. L. 100–203, title IV, § 4403][/us/pl/100/203/s4403], Dec. 22, 1987, 1330–226, as amended by [Pub. L. 100–360, title IV, § 411(m)(2)(A)][/us/pl/100/360/s411/m/2/A], July 1, 1988, [102 Stat. 806][/us/stat/102/806], provided that:
+[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4403, Dec. 22, 1987, 1330–226, as amended by [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(m)(2)(A), July 1, 1988, [102 Stat. 806][/us/stat/102/806], provided that:
 
 >     “(a)  __Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas__  __.—__ 
 
@@ -1023,7 +1023,7 @@
 
  __Alzheimer’s Disease Demonstration Projects__ 
 
-    [Pub. L. 99–509, title IX, § 9342][/us/pl/99/509/s9342], Oct. 21, 1986, [100 Stat. 2038][/us/stat/100/2038], as amended by [Pub. L. 101–508, title IV, § 4164(a)(2)][/us/pl/101/508/s4164/a/2], Nov. 5, 1990, [104 Stat. 1388–101][/us/stat/104/1388-101]; [Pub. L. 103–66, title XIII, § 13552][/us/pl/103/66/s13552], Aug. 10, 1993, [107 Stat. 591][/us/stat/107/591], required Secretary of Health and Human Services to conduct at least 5 (and not more than 10) demonstration projects, each over a period of 5 years, to determine effectiveness, cost, and impact on health status and functioning of providing comprehensive services for individuals entitled to benefits under this subchapter who are victims of Alzheimer’s disease or related disorders and to report to Congress upon completion of the projects.
+    [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9342, Oct. 21, 1986, [100 Stat. 2038][/us/stat/100/2038], as amended by [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4164(a)(2), Nov. 5, 1990, [104 Stat. 1388–101][/us/stat/104/1388-101]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13552, Aug. 10, 1993, [107 Stat. 591][/us/stat/107/591], required Secretary of Health and Human Services to conduct at least 5 (and not more than 10) demonstration projects, each over a period of 5 years, to determine effectiveness, cost, and impact on health status and functioning of providing comprehensive services for individuals entitled to benefits under this subchapter who are victims of Alzheimer’s disease or related disorders and to report to Congress upon completion of the projects.
 
  __Special Treatment of States Formerly Under Waiver__ 
 
@@ -1031,7 +1031,7 @@
 
  __Extension of Certain Medicare Municipal Health Services Demonstration Projects__ 
 
-[Pub. L. 99–272, title IX, § 9215][/us/pl/99/272/s9215], Apr. 7, 1986, [100 Stat. 180][/us/stat/100/180], as amended by [Pub. L. 101–239, title VI, § 6135][/us/pl/101/239/s6135], Dec. 19, 1989, [103 Stat. 2222][/us/stat/103/2222]; [Pub. L. 103–66, title XIII, § 13557][/us/pl/103/66/s13557], Aug. 10, 1993, [107 Stat. 592][/us/stat/107/592]; [Pub. L. 105–33, title IV, § 4017][/us/pl/105/33/s4017], Aug. 5, 1997, [111 Stat. 345][/us/stat/111/345]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 534\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–390; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 633\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–568; [Pub. L. 108–173, title II, § 235][/us/pl/108/173/s235], Dec. 8, 2003, [117 Stat. 2210][/us/stat/117/2210], provided that:
+[Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9215, Apr. 7, 1986, [100 Stat. 180][/us/stat/100/180], as amended by [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6135, Dec. 19, 1989, [103 Stat. 2222][/us/stat/103/2222]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13557, Aug. 10, 1993, [107 Stat. 592][/us/stat/107/592]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4017, Aug. 5, 1997, [111 Stat. 345][/us/stat/111/345]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title V, § 534\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–390; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, § 633\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–568; [Pub. L. 108–173, title II][/us/pl/108/173/tII], § 235, Dec. 8, 2003, [117 Stat. 2210][/us/stat/117/2210], provided that:
 
 >     “(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)][/us/usc/t42/s1395b–1/a]\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
@@ -1043,11 +1043,11 @@
 
  __Demonstration Program for Reduction of Disability and Dependency Through Provision of Preventive Health Services Under Medicare__ 
 
-    [Pub. L. 99–272, title IX, § 9314][/us/pl/99/272/s9314], Apr. 7, 1986, [100 Stat. 194][/us/stat/100/194], as amended by [Pub. L. 99–509, title IX, § 9344(d)][/us/pl/99/509/s9344/d], Oct. 21, 1986, [100 Stat. 2042][/us/stat/100/2042]; [Pub. L. 101–508, title IV, § 4164(a)(1)][/us/pl/101/508/s4164/a/1], Nov. 5, 1990, [104 Stat. 1388–100][/us/stat/104/1388-100], required Secretary of Health and Human Services to establish a 5-year demonstration program designed to reduce disability and dependency through the provision of preventive health services to individuals entitled to benefits under this subchapter and to submit reports to Congress including a final report on the project not later than April 1, 1995.
+    [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9314, Apr. 7, 1986, [100 Stat. 194][/us/stat/100/194], as amended by [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9344(d), Oct. 21, 1986, [100 Stat. 2042][/us/stat/100/2042]; [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4164(a)(1), Nov. 5, 1990, [104 Stat. 1388–100][/us/stat/104/1388-100], required Secretary of Health and Human Services to establish a 5-year demonstration program designed to reduce disability and dependency through the provision of preventive health services to individuals entitled to benefits under this subchapter and to submit reports to Congress including a final report on the project not later than April 1, 1995.
 
  __Payment for Costs of Hospital-Based Mobile Intensive Care Units__ 
 
-[Pub. L. 98–369, div. B, title III, § 2320][/us/pl/98/369/s2320], July 18, 1984, [98 Stat. 1083][/us/stat/98/1083], provided that:
+[Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2320, July 18, 1984, [98 Stat. 1083][/us/stat/98/1083], provided that:
 
 >     “(a)
 
@@ -1063,7 +1063,7 @@
 
  __Continuation of Secretary’s Authority Regarding Experiments and Demonstration Projects__ 
 
-[Pub. L. 98–21, title VI, § 603(b)][/us/pl/98/21/s603/b], Apr. 20, 1983, [97 Stat. 167][/us/stat/97/167], provided that:
+[Pub. L. 98–21, title VI][/us/pl/98/21/tVI], § 603(b), Apr. 20, 1983, [97 Stat. 167][/us/stat/97/167], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395oo, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under [section 1395x of this title][/us/usc/t42/s1395x]\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
@@ -1071,13 +1071,13 @@
 
  __Alternative Care Demonstration Projects in Hospitals Short of Skilled Nursing Facilities__ 
 
-[Pub. L. 98–21, title VI, § 603(d)][/us/pl/98/21/s603/d], Apr. 20, 1983, [97 Stat. 168][/us/stat/97/168], provided that: 
+[Pub. L. 98–21, title VI][/us/pl/98/21/tVI], § 603(d), Apr. 20, 1983, [97 Stat. 168][/us/stat/97/168], provided that: 
 
 > “The Secretary shall conduct demonstrations with hospitals in areas with critical shortages of skilled nursing facilities to study the feasibility of providing alternative systems of care or methods of payment.”
 
  __Continuation of Hospice Demonstration Projects; Report to Congress__ 
 
-[Pub. L. 97–248, title I, § 122(i)][/us/pl/97/248/s122/i], formerly § 122(h), Sept. 3, 1982, [96 Stat. 362][/us/stat/96/362], as redesignated and amended by [Pub. L. 97–448, title III, § 309(a)(6)][/us/pl/97/448/s309/a/6], (e), Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], 2410, provided that:
+[Pub. L. 97–248, title I][/us/pl/97/248/tI], § 122(i), formerly § 122(h), Sept. 3, 1982, [96 Stat. 362][/us/stat/96/362], as redesignated and amended by [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 309(a)(6), (e), Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], 2410, provided that:
 
 >     “(1) Notwithstanding any provision of law which has the effect of restricting the time period of a hospice demonstration project in effect on July 15, 1982, pursuant to section 402(a) of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)][/us/usc/t42/s1395b–1/a]\], the Secretary of Health and Human Services, upon request of the hospice involved, shall permit continuation of the project until November 1, 1983, or, if later, the date on which payments can first be made to any hospice program under the amendments made by this section.
 
@@ -1091,19 +1091,19 @@
 
  __State Medicare Hospital Reimbursement Demonstration Project Limitation__ 
 
-    [Pub. L. 96–499, title IX, § 903(c)][/us/pl/96/499/s903/c], Dec. 5, 1980, [94 Stat. 2615][/us/stat/94/2615], which provided for a maximum number of six Statewide medicare hospital reimbursement demonstration projects, was repealed by [Pub. L. 97–35, title XXI, § 2154][/us/pl/97/35/s2154], Aug. 13, 1981, [95 Stat. 802][/us/stat/95/802].
+    [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 903(c), Dec. 5, 1980, [94 Stat. 2615][/us/stat/94/2615], which provided for a maximum number of six Statewide medicare hospital reimbursement demonstration projects, was repealed by [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2154, Aug. 13, 1981, [95 Stat. 802][/us/stat/95/802].
 
  __Study of Need for Dual Participation of Skilled Nursing Facilities__ 
 
-    [Pub. L. 96–499, title IX, § 919][/us/pl/96/499/s919], Dec. 5, 1980, [94 Stat. 2627][/us/stat/94/2627], required study of need for dual participation of skilled nursing facilities and submission of a report and recommendations to Congress within one year after Dec. 5, 1980.
+    [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 919, Dec. 5, 1980, [94 Stat. 2627][/us/stat/94/2627], required study of need for dual participation of skilled nursing facilities and submission of a report and recommendations to Congress within one year after Dec. 5, 1980.
 
  __Demonstration Projects for Physician-Directed Clinics in Urban Medically Underserved Areas; Report Submitted No Later Than__  __January 1, 1981__ 
 
-    [Pub. L. 95–210, § 3][/us/pl/95/210/s3], Dec. 13, 1977, [91 Stat. 1489][/us/stat/91/1489], required the Secretary to provide, through demonstration projects, reimbursement on a cost basis for services provided by physician-directed clinics in urban medically underserved areas for which payment may be made under this subchapter and, notwithstanding any other provision of this subchapter, for services provided by a physician assistant or nurse practitioner employed by such clinics which would otherwise be covered under this subchapter if provided by a physician. The Secretary was to evaluate the relative advantages and disadvantages of reimbursement on the basis of costs and fee-for-service for physician-directed clinics employing a physician assistant or nurse practitioner, the appropriate method of determining the compensation for physician services on a cost basis for the purposes of reimbursement of services provided in such clinics, the appropriate definition for such clinics, the appropriate criteria to use for the purposes of designating urban medically underserved areas, and such other possible changes in the provisions of this subchapter as might be appropriate for the efficient and cost-effective reimbursement of services provided in such clinics. Grants, payments under contracts, and other expenditures made for demonstration projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund. The Secretary was to submit to the Congress, no later than Jan. 1, 1981, a complete detailed report on the demonstration projects.
+    [Pub. L. 95–210][/us/pl/95/210], § 3, Dec. 13, 1977, [91 Stat. 1489][/us/stat/91/1489], required the Secretary to provide, through demonstration projects, reimbursement on a cost basis for services provided by physician-directed clinics in urban medically underserved areas for which payment may be made under this subchapter and, notwithstanding any other provision of this subchapter, for services provided by a physician assistant or nurse practitioner employed by such clinics which would otherwise be covered under this subchapter if provided by a physician. The Secretary was to evaluate the relative advantages and disadvantages of reimbursement on the basis of costs and fee-for-service for physician-directed clinics employing a physician assistant or nurse practitioner, the appropriate method of determining the compensation for physician services on a cost basis for the purposes of reimbursement of services provided in such clinics, the appropriate definition for such clinics, the appropriate criteria to use for the purposes of designating urban medically underserved areas, and such other possible changes in the provisions of this subchapter as might be appropriate for the efficient and cost-effective reimbursement of services provided in such clinics. Grants, payments under contracts, and other expenditures made for demonstration projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund. The Secretary was to submit to the Congress, no later than Jan. 1, 1981, a complete detailed report on the demonstration projects.
 
  __Scope of Grants for Experiments and Demonstration Projects To Determine Methods for Prospective Payments to Hospitals, Skilled Nursing Facilities, and Other Providers of Services__ 
 
-[Pub. L. 94–182, title I, § 107][/us/pl/94/182/s107], Dec. 31, 1975, [89 Stat. 1053][/us/stat/89/1053], provided that: 
+[Pub. L. 94–182, title I][/us/pl/94/182/tI], § 107, Dec. 31, 1975, [89 Stat. 1053][/us/stat/89/1053], provided that: 
 
 > “Nothing contained in [section 222(a) of Public Law 92–603][/us/pl/92/603/s222/a] \[set out below\] shall be construed to preclude or prohibit the Secretary of Health, Education, and Welfare \[now Health and Human Services\] from including in any grant otherwise authorized to be made under such section moneys which are to be used for payments, to a participant in a demonstration or experiment with respect to which the grant is made, for or on account of costs incurred or services performed by such participant for a period prior to the date that the project of such participant is placed in operation, if—
 
@@ -1117,7 +1117,7 @@
 
  __Experiments and Demonstration Projects To Determine Methods for Prospective Payments to Hospitals, Skilled Nursing Facilities, and Other Providers of Services for Care and Services Furnished; Scope; Waiver of Payment Requirements; Source and Manner of Payments for Grants, etc.; Reports to Congress__ 
 
-[Pub. L. 92–603, title II, § 222(a)][/us/pl/92/603/s222/a], Oct. 30, 1972, [86 Stat. 1390][/us/stat/86/1390], as amended by [Pub. L. 97–35, title XXI, § 2193(e)][/us/pl/97/35/s2193/e], Aug. 13, 1981, [95 Stat. 828][/us/stat/95/828], provided that:
+[Pub. L. 92–603, title II][/us/pl/92/603/tII], § 222(a), Oct. 30, 1972, [86 Stat. 1390][/us/stat/86/1390], as amended by [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(e), Aug. 13, 1981, [95 Stat. 828][/us/stat/95/828], provided that:
 
 >     “(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\], directly or through contracts with, or grants to, public or private agencies or organizations, shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of various alternative methods of making payment on a prospective basis to hospitals, skilled nursing facilities, and other providers of services for care and services provided by them under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and under State plans approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], including alternative methods for classifying providers, for establishing prospective rates of payment, and for implementing on a gradual, selective, or other basis the establishment of a prospective payment system, in order to stimulate such providers through positive (or negative) financial incentives to use their facilities and personnel more efficiently and thereby to reduce the total costs of the health programs involved without adversely affecting the quality of services by containing or lowering the rate of increase in provider costs that has been and is being experienced under the existing system of retroactive cost reimbursement.
 
@@ -1138,34 +1138,34 @@
 
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
-[/us/pl/90/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs402%2Fa
+[/us/pl/90/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIV
 [/us/stat/81/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F930
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1391
-[/us/pl/95/142/s17/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs17%2Fd
+[/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1202
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/35/s2193/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fd
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F828
-[/us/pl/97/248/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs147
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F394
-[/us/pl/98/369/s2331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2331%2Fb
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1088
 [/us/pl/92/603/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fa
 [/us/stat/86/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1329
 [/us/usc/t42/s2691/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2691%2Fc
-[/us/pl/94/103/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F103%2Fs302%2Fc
+[/us/pl/94/103/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F103%2FtIII
 [/us/stat/89/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F507
 [/us/pl/90/248/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs402
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/35/s2193/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fd%2F1
-[/us/pl/97/35/s2193/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fd%2F2
-[/us/pl/97/35/s2193/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fd%2F3
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
-[/us/pl/92/603/s222/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fb%2F2
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -1177,7 +1177,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/111/148/s3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3026
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F413
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
@@ -1190,16 +1190,16 @@
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
-[/us/pl/111/148/s10326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10326
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F961
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/usc/t42/s1395x/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd%2F2
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/109/432/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs204
+[/us/pl/109/432/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtII
 [/us/stat/120/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2987
-[/us/pl/110/275/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs133%2Fa
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2531
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F1
@@ -1208,158 +1208,158 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
-[/us/pl/109/171/s5008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs5008
+[/us/pl/109/171/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtV
 [/us/stat/120/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F36
 [/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/pl/108/173/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs649
+[/us/pl/108/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVI
 [/us/stat/117/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2329
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s300u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%936
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s736/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs736%2Fb%2F13
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2356
-[/us/pl/105/33/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4016
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F343
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/pl/105/33/s4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4207
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F379
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/173/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs417
+[/us/pl/108/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIV
 [/us/stat/117/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2282
 [/us/usc/t42/s254b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fb%2F3
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
-[/us/pl/101/508/s4008/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fi%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-50
-[/us/pl/103/66/s13507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13507
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F579
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/101/239/s10404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10404
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2488
-[/us/pl/100/647/s8411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8411
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3800
-[/us/pl/101/239/s6205/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6205%2Fa%2F1%2FB
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2243
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/90/248/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs402
 [/us/pl/92/603/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/100/360/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs207
+[/us/pl/100/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtII
 [/us/stat/102/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F732
-[/us/pl/101/234/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs201%2Fa
+[/us/pl/101/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtII
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
 [/us/pl/92/603/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fa
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/360/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs222
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
-[/us/pl/101/508/s4207/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Ff
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-123
-[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
-[/us/pl/100/360/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs425
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F813
-[/us/pl/101/234/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs301%2Fa
+[/us/pl/101/234/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtIII
 [/us/stat/103/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1985
-[/us/pl/100/360/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs429
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F817
-[/us/pl/100/647/s8404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8404%2Fa
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3800
-[/us/pl/100/203/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4403
-[/us/pl/100/360/s411/m/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fm%2F2%2FA
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F806
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/99/509/s9342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9342
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2038
-[/us/pl/101/508/s4164/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4164%2Fa%2F2
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-101
-[/us/pl/103/66/s13552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13552
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F591
 [/us/pl/99/272/s9202/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9202%2Fj
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
-[/us/pl/99/272/s9215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9215
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F180
-[/us/pl/101/239/s6135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6135
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2222
-[/us/pl/103/66/s13557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13557
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F592
-[/us/pl/105/33/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4017
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F345
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs235
+[/us/pl/108/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtII
 [/us/stat/117/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2210
 [/us/usc/t42/s1395b–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931%2Fa
 [/us/pl/108/173/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201%2Fb
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/99/272/s9314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9314
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F194
-[/us/pl/99/509/s9344/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9344%2Fd
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2042
-[/us/pl/101/508/s4164/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4164%2Fa%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-100
-[/us/pl/98/369/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2320
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1083
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ww/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fc
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
-[/us/pl/98/21/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fb
+[/us/pl/98/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtVI
 [/us/stat/97/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F167
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395b–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931%2Fa
-[/us/pl/98/21/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fd
+[/us/pl/98/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtVI
 [/us/stat/97/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F168
-[/us/pl/97/248/s122/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs122%2Fi
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F362
-[/us/pl/97/448/s309/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fa%2F6
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
 [/us/usc/t42/s1395b–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931%2Fa
 [/us/usc/t42/s1395f/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fi
 [/us/usc/t42/s1395x/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t45/s231f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231f
-[/us/pl/96/499/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs903%2Fc
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2615
-[/us/pl/97/35/s2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2154
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F802
-[/us/pl/96/499/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs919
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2627
-[/us/pl/95/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F210%2Fs3
+[/us/pl/95/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F210
 [/us/stat/91/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1489
-[/us/pl/94/182/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F182%2Fs107
+[/us/pl/94/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F182%2FtI
 [/us/stat/89/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1053
 [/us/pl/92/603/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fa
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/92/603/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs222%2Fa
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1390
-[/us/pl/97/35/s2193/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fe
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F828
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

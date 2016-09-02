@@ -87,7 +87,7 @@
 
         Funding certified under [section 502(a) of this title][/us/usc/t42/s502/a] may be used for an approved demonstration project.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title III, § 305, as added [Pub. L. 112–96, title II, § 2102][/us/pl/112/96/s2102], Feb. 22, 2012, [126 Stat. 159][/us/stat/126/159].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title III, § 305, as added [Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2102, Feb. 22, 2012, [126 Stat. 159][/us/stat/126/159].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 [/us/usc/t42/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503%2Fa
 [/us/usc/t42/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs502%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/112/96/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2102
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F159
 
 

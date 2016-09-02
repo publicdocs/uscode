@@ -65,15 +65,15 @@
 
         (3) The mental health services of the centers are available and accessible promptly, as appropriate and in a manner which preserves human dignity and assures continuity and high quality care.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1913, as added [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 381][/us/stat/106/381].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1913, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 381][/us/stat/106/381].)
 
  __References in Text__ 
 
-    [Section 300x–1(b)(9) of this title][/us/usc/t42/s300x–1/b/9], referred to in subsec. (a)(1)(A), was repealed by [Pub. L. 106–310, div. B, title XXXII, § 3204(a)][/us/pl/106/310/s3204/a], Oct. 17, 2000, [114 Stat. 1192][/us/stat/114/1192]. Provisions relating to a system of integrated social services formerly contained in section 300x–1(b)(9) are now contained in [section 300x–1(b)(3) of this title][/us/usc/t42/s300x–1/b/3].
+    [Section 300x–1(b)(9) of this title][/us/usc/t42/s300x–1/b/9], referred to in subsec. (a)(1)(A), was repealed by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3204(a), Oct. 17, 2000, [114 Stat. 1192][/us/stat/114/1192]. Provisions relating to a system of integrated social services formerly contained in section 300x–1(b)(9) are now contained in [section 300x–1(b)(3) of this title][/us/usc/t42/s300x–1/b/3].
 
  __Prior Provisions__ 
 
-    A prior section 300x–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1914, formerly § 1913, as added Aug. 13, 1981, [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], [95 Stat. 545][/us/stat/95/545]; renumbered § 1914 and amended Oct. 19, 1984, [Pub. L. 98–509, title I, § 106(a)][/us/pl/98/509/s106/a], (c)–(e), (g), [98 Stat. 2358][/us/stat/98/2358], 2359; Nov. 18, 1988, [Pub. L. 100–690, title II, § 2022(e)][/us/pl/100/690/s2022/e], [102 Stat. 4197][/us/stat/102/4197]; Aug. 16, 1989, [Pub. L. 101–93, § 2(c)(1)][/us/pl/101/93/s2/c/1], [103 Stat. 605][/us/stat/103/605], related to payment to States of allotments of grants for alcohol, drug abuse, and mental health services, prior to repeal by [Pub. L. 102–321, § 201(2)][/us/pl/102/321/s201/2].
+    A prior section 300x–2, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1914, formerly § 1913, as added Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, [95 Stat. 545][/us/stat/95/545]; renumbered § 1914 and amended Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509/tI], § 106(a), (c)–(e), (g), [98 Stat. 2358][/us/stat/98/2358], 2359; Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2022(e), [102 Stat. 4197][/us/stat/102/4197]; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 2(c)(1), [103 Stat. 605][/us/stat/103/605], related to payment to States of allotments of grants for alcohol, drug abuse, and mental health services, prior to repeal by [Pub. L. 102–321][/us/pl/102/321], § 201(2).
 
     A prior section 1913 of act July 1, 1944, was classified to [section 300x–1b of this title][/us/usc/t42/s300x–1b] and repealed by [Pub. L. 102–321][/us/pl/102/321].
 
@@ -88,22 +88,22 @@
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/usc/t42/s300x–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F381
 [/us/usc/t42/s300x–1/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931%2Fb%2F9
-[/us/pl/106/310/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3204%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1192
 [/us/usc/t42/s300x–1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931%2Fb%2F3
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F545
-[/us/pl/98/509/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs106%2Fa
+[/us/pl/98/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtI
 [/us/stat/98/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2358
-[/us/pl/100/690/s2022/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2022%2Fe
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4197
-[/us/pl/101/93/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs2%2Fc%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F605
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s300x–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931b
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 

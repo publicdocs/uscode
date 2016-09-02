@@ -27,7 +27,7 @@
 
         Amounts available for carrying out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were made available.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487B, as added [Pub. L. 103–43, title X, § 1002][/us/pl/103/43/s1002], June 10, 1993, [107 Stat. 166][/us/stat/107/166]; amended [Pub. L. 105–392, title IV, § 410(b)][/us/pl/105/392/s410/b], Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 110–154, § 1(b)(8)][/us/pl/110/154/s1/b/8], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487B, as added [Pub. L. 103–43, title X][/us/pl/103/43/tX], § 1002, June 10, 1993, [107 Stat. 166][/us/stat/107/166]; amended [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 410(b), Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 110–154][/us/pl/110/154], § 1(b)(8), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1002
+[/us/pl/103/43/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtX
 [/us/stat/107/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F166
-[/us/pl/105/392/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs410%2Fb
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3589
-[/us/pl/110/154/s1/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fb%2F8
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392

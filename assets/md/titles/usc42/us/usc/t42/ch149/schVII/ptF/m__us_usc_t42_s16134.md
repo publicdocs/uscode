@@ -37,13 +37,13 @@
 
         (7) in the last report sent to Congress before January 1, 2016, an analysis of the need to continue the program, including an assessment of the size of the vehicle and engine fleet that could provide benefits from being retrofit under this program and a description of the number and types of applications that were not granted in the preceding year.
 
-([Pub. L. 109–58, title VII, § 794][/us/pl/109/58/s794], Aug. 8, 2005, [119 Stat. 843][/us/stat/119/843]; [Pub. L. 111–364, § 2(d)][/us/pl/111/364/s2/d], Jan. 4, 2011, [124 Stat. 4060][/us/stat/124/4060].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 794, Aug. 8, 2005, [119 Stat. 843][/us/stat/119/843]; [Pub. L. 111–364][/us/pl/111/364], § 2(d), Jan. 4, 2011, [124 Stat. 4060][/us/stat/124/4060].)
 
  __Amendments__ 
 
-    2011—Subsec. (b)(2) to (5). [Pub. L. 111–364, § 2(d)(1)][/us/pl/111/364/s2/d/1], inserted “, rebate,” after “grant” wherever appearing.
+    2011—Subsec. (b)(2) to (5). [Pub. L. 111–364][/us/pl/111/364], § 2(d)(1), inserted “, rebate,” after “grant” wherever appearing.
 
-    Subsec. (b)(7). [Pub. L. 111–364, § 2(d)(2)][/us/pl/111/364/s2/d/2]–(4), added par. (7).
+    Subsec. (b)(7). [Pub. L. 111–364][/us/pl/111/364], § 2(d)(2)–(4), added par. (7).
 
  __Effective Date of 2011 Amendment__ 
 
@@ -56,12 +56,12 @@
 ----------
 ----------
 
-[/us/pl/109/58/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs794
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F843
-[/us/pl/111/364/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fd
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/stat/124/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4060
-[/us/pl/111/364/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fd%2F1
-[/us/pl/111/364/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fd%2F2
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/pl/111/364/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs4
 [/us/usc/t42/s16131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16131

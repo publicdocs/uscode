@@ -17,7 +17,7 @@
 
     The provisions of this subchapter shall in no way expand or restrict the authority of parties other than the United States to enforce the legal rights which they may have pursuant to existing law with regard to institutionalized persons. In this regard, the fact that the Attorney General may be conducting an investigation or contemplating litigation pursuant to this subchapter shall not be grounds for delay of or prejudice to any litigation on behalf of parties other than the United States.
 
-([Pub. L. 96–247, § 12][/us/pl/96/247/s12], May 23, 1980, [94 Stat. 354][/us/stat/94/354].)
+([Pub. L. 96–247][/us/pl/96/247], § 12, May 23, 1980, [94 Stat. 354][/us/stat/94/354].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/247/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs12
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F354
 
 

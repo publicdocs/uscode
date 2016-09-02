@@ -81,7 +81,7 @@ SUBCHAPTER I–A—ENFORCEMENT OF VOTING RIGHTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1973h" data-uslm-ref="/us/usc/t42/s1973h">1973h</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1973" data-uslm-ref="/us/usc/t42/s1973">1973</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1973h" data-uslm-ref="/us/usc/t42/s1973h">1973h</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1973l" data-uslm-ref="/us/usc/t42/s1973l">1973l.</a>  </td>
 
     <td> Transferred.  </td>
 

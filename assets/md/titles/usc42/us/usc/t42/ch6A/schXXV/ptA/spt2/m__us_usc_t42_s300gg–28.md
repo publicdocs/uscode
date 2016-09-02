@@ -67,7 +67,7 @@
 
         this section shall apply to coverage of the child under the changed coverage for the remainder of the period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2728, formerly § 2707, as added [Pub. L. 110–381, § 2(b)(1)][/us/pl/110/381/s2/b/1], Oct. 9, 2008, [122 Stat. 4083][/us/stat/122/4083]; renumbered § 2728 and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(2), 1563(c)(6), formerly § 1562(c)(6), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 266, 911.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2728, formerly § 2707, as added [Pub. L. 110–381][/us/pl/110/381], § 2(b)(1), Oct. 9, 2008, [122 Stat. 4083][/us/stat/122/4083]; renumbered § 2728 and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(2), 1563(c)(6), formerly § 1562(c)(6), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 266, 911.)
 
  __Codification__ 
 
@@ -75,17 +75,17 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 1563(c)(6)(A)][/us/pl/111/148/s1563/c/6/A], formerly § 1562(c)(6)(A), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “individual health insurance coverage” for “health insurance coverage offered in connection with such plan” in introductory provisions.
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(6)(A), formerly § 1562(c)(6)(A), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “individual health insurance coverage” for “health insurance coverage offered in connection with such plan” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 111–148, § 1563(c)(6)(B)(i)][/us/pl/111/148/s1563/c/6/B/i], formerly § 1562(c)(6)(B)(i), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “or a health insurance issuer that offers group or individual health insurance coverage” for “or a health insurance issuer that provides health insurance coverage in connection with a group health plan” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(6)(B)(i), formerly § 1562(c)(6)(B)(i), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “or a health insurance issuer that offers group or individual health insurance coverage” for “or a health insurance issuer that provides health insurance coverage in connection with a group health plan” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 111–148, § 1563(c)(6)(B)(ii)][/us/pl/111/148/s1563/c/6/B/ii], formerly § 1562(c)(6)(B)(ii), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “individual health insurance coverage” for “health insurance coverage offered in connection with the plan” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(6)(B)(ii), formerly § 1562(c)(6)(B)(ii), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “individual health insurance coverage” for “health insurance coverage offered in connection with the plan” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 111–148, § 1563(c)(6)(B)(iii)][/us/pl/111/148/s1563/c/6/B/iii], formerly § 1562(c)(6)(B)(iii), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “individual health insurance coverage” for “health insurance coverage offered by an issuer in connection with such plan”.
+    Subsec. (b)(3). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(6)(B)(iii), formerly § 1562(c)(6)(B)(iii), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “individual health insurance coverage” for “health insurance coverage offered by an issuer in connection with such plan”.
 
-    Subsec. (c). [Pub. L. 111–148, § 1563(c)(6)(C)][/us/pl/111/148/s1563/c/6/C], formerly § 1562(c)(6)(C), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “health insurance issuer that offers group or individual health insurance coverage” for “health insurance issuer providing health insurance coverage in connection with a group health plan”.
+    Subsec. (c). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(6)(C), formerly § 1562(c)(6)(C), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “health insurance issuer that offers group or individual health insurance coverage” for “health insurance issuer providing health insurance coverage in connection with a group health plan”.
 
-    Subsec. (e)(1). [Pub. L. 111–148, § 1563(c)(6)(D)][/us/pl/111/148/s1563/c/6/D], formerly § 1562(c)(6)(D), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “individual health insurance coverage” for “health insurance coverage offered in connection with such a plan”.
+    Subsec. (e)(1). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(6)(D), formerly § 1562(c)(6)(D), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “individual health insurance coverage” for “health insurance coverage offered in connection with such a plan”.
 
  __Effective Date__ 
 
@@ -100,24 +100,24 @@
 
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/381/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381%2Fs2%2Fb%2F1
+[/us/pl/110/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381
 [/us/stat/122/4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4083
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%937
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s1563/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F6%2FA
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F6%2FB%2Fi
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F6%2FB%2Fii
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F6%2FB%2Fiii
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F6%2FC
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F6%2FD
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/381/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381%2Fs2%2Fd
 [/us/usc/t26/s9813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9813
 

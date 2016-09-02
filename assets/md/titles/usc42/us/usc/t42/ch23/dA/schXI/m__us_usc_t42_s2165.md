@@ -57,7 +57,7 @@
 
         Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b) of this section, to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 145, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 942][/us/stat/68/942]; amended [Pub. L. 85–681, § 5][/us/pl/85/681/s5], Aug. 19, 1958, [72 Stat. 633][/us/stat/72/633]; [Pub. L. 87–206, § 6][/us/pl/87/206/s6], Sept. 6, 1961, [75 Stat. 476][/us/stat/75/476]; [Pub. L. 87–615, § 10][/us/pl/87/615/s10], Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–65, div. C, title XXXI, § 3144(a)][/us/pl/106/65/s3144/a], Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934]; [Pub. L. 108–136, div. C, title XXXI, § 3131][/us/pl/108/136/s3131], Nov. 24, 2003, [117 Stat. 1749][/us/stat/117/1749].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 145, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 942][/us/stat/68/942]; amended [Pub. L. 85–681][/us/pl/85/681], § 5, Aug. 19, 1958, [72 Stat. 633][/us/stat/72/633]; [Pub. L. 87–206][/us/pl/87/206], § 6, Sept. 6, 1961, [75 Stat. 476][/us/stat/75/476]; [Pub. L. 87–615][/us/pl/87/615], § 10, Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3144(a), Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934]; [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3131, Nov. 24, 2003, [117 Stat. 1749][/us/stat/117/1749].)
 
  __Prior Provisions__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    2003—Subsec. (e)(2). [Pub. L. 108–136, § 3131(b)][/us/pl/108/136/s3131/b], struck out “or a Personnel Security and Assurance Program” after “Special Access Program”.
+    2003—Subsec. (e)(2). [Pub. L. 108–136][/us/pl/108/136], § 3131(b), struck out “or a Personnel Security and Assurance Program” after “Special Access Program”.
 
-    Subsec. (f). [Pub. L. 108–136, § 3131(a)][/us/pl/108/136/s3131/a], amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation.”
+    Subsec. (f). [Pub. L. 108–136][/us/pl/108/136], § 3131(a), amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation.”
 
     1999—Subsec. (e). [Pub. L. 106–65][/us/pl/106/65] designated existing provisions as par. (1) and added par. (2).
 
@@ -85,7 +85,7 @@
 
  __Implementation of Subsection (e)(2)__ 
 
-[Pub. L. 106–65, div. C, title XXXI, § 3144(b)][/us/pl/106/65/s3144/b], (c), Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934], provided that:
+[Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3144(b), (c), Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934], provided that:
 
 >     “(b)  __Compliance__  __.—__ 
 
@@ -125,24 +125,24 @@
 [/us/usc/t42/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2051
 [/us/usc/t42/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2061
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F942
-[/us/pl/85/681/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681%2Fs5
+[/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/stat/72/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F633
-[/us/pl/87/206/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs6
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F476
-[/us/pl/87/615/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs10
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F411
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/106/65/s3144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3144%2Fa
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F934
-[/us/pl/108/136/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3131
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1749
 [/us/usc/t42/s1810/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1810%2Fb%2F5
-[/us/pl/108/136/s3131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3131%2Fb
-[/us/pl/108/136/s3131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3131%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
@@ -150,7 +150,7 @@
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
-[/us/pl/106/65/s3144/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3144%2Fb
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F934
 [/us/usc/t42/s2165/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2165%2Fe%2F2
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

@@ -35,13 +35,13 @@
 
             The Director is authorized to establish the requirements for entities applying for grants under this subsection.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 911, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1656][/us/stat/113/1656].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 911, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1656][/us/stat/113/1656].)
 
  __Prior Provisions__ 
 
-    A prior section 299b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 911, as added [Pub. L. 101–239, title VI, § 6103(a)][/us/pl/101/239/s6103/a], Dec. 19, 1989, [103 Stat. 2192][/us/stat/103/2192]; amended [Pub. L. 102–410, § 5(b)][/us/pl/102/410/s5/b], Oct. 13, 1992, [106 Stat. 2097][/us/stat/106/2097], related to establishment of Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
+    A prior section 299b, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 911, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(a), Dec. 19, 1989, [103 Stat. 2192][/us/stat/103/2192]; amended [Pub. L. 102–410][/us/pl/102/410], § 5(b), Oct. 13, 1992, [106 Stat. 2097][/us/stat/106/2097], related to establishment of Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
 
-    Another prior section 299b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 902, as added Oct. 6, 1965, [Pub. L. 89–239, § 2][/us/pl/89/239/s2], [79 Stat. 927][/us/stat/79/927]; amended Oct. 15, 1968, [Pub. L. 90–574, title I, § 103][/us/pl/90/574/s103], [82 Stat. 1005][/us/stat/82/1005]; Oct. 30, 1970, [Pub. L. 91–515, title I][/us/pl/91/515], §§ 104, 111(b), [84 Stat. 1299][/us/stat/84/1299], 1301, defined terms for purposes of this subchapter, prior to repeal by [Pub. L. 99–117, § 12(d)][/us/pl/99/117/s12/d], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    Another prior section 299b, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 902, as added Oct. 6, 1965, [Pub. L. 89–239][/us/pl/89/239], § 2, [79 Stat. 927][/us/stat/79/927]; amended Oct. 15, 1968, [Pub. L. 90–574, title I][/us/pl/90/574/tI], § 103, [82 Stat. 1005][/us/stat/82/1005]; Oct. 30, 1970, [Pub. L. 91–515, title I][/us/pl/91/515/tI], §§ 104, 111(b), [84 Stat. 1299][/us/stat/84/1299], 1301, defined terms for purposes of this subchapter, prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(d), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
 ----------
 
@@ -51,22 +51,22 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1656
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fa
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2192
-[/us/pl/102/410/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs5%2Fb
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2097
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239%2Fs2
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/89/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239
 [/us/stat/79/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F927
-[/us/pl/90/574/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2Fs103
+[/us/pl/90/574/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2FtI
 [/us/stat/82/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1005
-[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtI
 [/us/stat/84/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1299
-[/us/pl/99/117/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fd
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 
 

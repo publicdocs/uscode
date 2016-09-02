@@ -55,7 +55,7 @@
 
             (B) during the period of such appointment, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter with which such person, during such period, is or was directly connected by reason of such appointment.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1114, as added [Pub. L. 87–543, title I, § 121][/us/pl/87/543/s121], July 25, 1962, [76 Stat. 190][/us/stat/76/190]; amended [Pub. L. 90–248, title IV, § 403(e)][/us/pl/90/248/s403/e], Jan. 2, 1968, [81 Stat. 932][/us/stat/81/932]; [Pub. L. 98–369, div. B, title VI, § 2663(e)(4)][/us/pl/98/369/s2663/e/4], (j)(2)(D)(iv), July 18, 1984, [98 Stat. 1168][/us/stat/98/1168], 1170; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 522(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–546; [Pub. L. 108–173, title IX, § 948(a)(1)(A)][/us/pl/108/173/s948/a/1/A], Dec. 8, 2003, [117 Stat. 2425][/us/stat/117/2425].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1114, as added [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 121, July 25, 1962, [76 Stat. 190][/us/stat/76/190]; amended [Pub. L. 90–248, title IV][/us/pl/90/248/tIV], § 403(e), Jan. 2, 1968, [81 Stat. 932][/us/stat/81/932]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(e)(4), (j)(2)(D)(iv), July 18, 1984, [98 Stat. 1168][/us/stat/98/1168], 1170; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title V, § 522(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–546; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 948(a)(1)(A), Dec. 8, 2003, [117 Stat. 2425][/us/stat/117/2425].)
 
  __Amendments__ 
 
@@ -63,25 +63,25 @@
 
     2000—Subsec. (i). [Pub. L. 106–554][/us/pl/106/554] added subsec. (i).
 
-    1984—Subsec. (c). [Pub. L. 98–369, § 2663(j)(2)(D)(iv)][/us/pl/98/369/s2663/j/2/D/iv], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(2)(D)(iv), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (g). [Pub. L. 98–369, § 2663(e)(4)(A)][/us/pl/98/369/s2663/e/4/A], made technical correction of typographical error resulting in no change in text.
+    Subsec. (g). [Pub. L. 98–369][/us/pl/98/369], § 2663(e)(4)(A), made technical correction of typographical error resulting in no change in text.
 
-    Subsec. (h)(1). [Pub. L. 98–369, § 2663(e)(4)(B)][/us/pl/98/369/s2663/e/4/B], substituted “sections 203, 205, and 209 of title 18” for “sections 281, 283, and 1914 of title 18 and section 190 of the Revised Statutes ([5 U.S.C. 99][/us/usc/t5/s99])”.
+    Subsec. (h)(1). [Pub. L. 98–369][/us/pl/98/369], § 2663(e)(4)(B), substituted “sections 203, 205, and 209 of title 18” for “sections 281, 283, and 1914 of title 18 and section 190 of the Revised Statutes ([5 U.S.C. 99][/us/usc/t5/s99])”.
 
-    1968—Subsecs. (b), (f). [Pub. L. 90–248, § 403(e)(1)][/us/pl/90/248/s403/e/1], (2), substituted “provisions of title 5, governing appointments in the competitive service” for “civil-service laws”.
+    1968—Subsecs. (b), (f). [Pub. L. 90–248][/us/pl/90/248], § 403(e)(1), (2), substituted “provisions of title 5, governing appointments in the competitive service” for “civil-service laws”.
 
-    Subsec. (g). [Pub. L. 90–248, § 403(e)(3)][/us/pl/90/248/s403/e/3], substituted “[section 5703 of title 5][/us/usc/t5/s5703]” for “section 5 of the Administrative Expenses Act of 1946 ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])”.
+    Subsec. (g). [Pub. L. 90–248][/us/pl/90/248], § 403(e)(3), substituted “[section 5703 of title 5][/us/usc/t5/s5703]” for “section 5 of the Administrative Expenses Act of 1946 ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])”.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–173, title IX, § 948(e)][/us/pl/108/173/s948/e], Dec. 8, 2003, [117 Stat. 2426][/us/stat/117/2426], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 948(e), Dec. 8, 2003, [117 Stat. 2426][/us/stat/117/2426], provided that: 
 
 > “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1320c–3, 1395w–22, 1395y, and 1395ff of this title\] shall be effective as if included in the enactment of BIPA \[the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted by [section 1(a)(6) of Public Law 106–554][/us/pl/106/554/s1/a/6]\].”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 522(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–547, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title V, § 522(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–547, provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395y and 1395ff of this title\] shall apply with respect to—
 
@@ -110,31 +110,31 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/87/543/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs121
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F190
-[/us/pl/90/248/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs403%2Fe
+[/us/pl/90/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIV
 [/us/stat/81/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F932
-[/us/pl/98/369/s2663/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fe%2F4
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1168
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s948/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs948%2Fa%2F1%2FA
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2425
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/98/369/s2663/j/2/D/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FD%2Fiv
-[/us/pl/98/369/s2663/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fe%2F4%2FA
-[/us/pl/98/369/s2663/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fe%2F4%2FB
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99
-[/us/pl/90/248/s403/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs403%2Fe%2F1
-[/us/pl/90/248/s403/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs403%2Fe%2F3
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
-[/us/pl/108/173/s948/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs948%2Fe
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2426
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb

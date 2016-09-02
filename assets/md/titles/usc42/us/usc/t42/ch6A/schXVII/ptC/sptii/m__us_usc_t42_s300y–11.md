@@ -77,31 +77,31 @@
 
         (3) The term “treatment program” means a public or nonprofit private program of treatment for dependence on heroin or other morphine-like drugs.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1976, as added [Pub. L. 102–321, title II, § 204][/us/pl/102/321/s204], July 10, 1992, [106 Stat. 412][/us/stat/106/412].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1976, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 204, July 10, 1992, [106 Stat. 412][/us/stat/106/412].)
 
  __Prior Provisions__ 
 
-    A prior section 300y–11, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1932, as added Aug. 13, 1981, [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], [95 Stat. 559][/us/stat/95/559]; amended Jan. 4, 1983, [Pub. L. 97–414, § 8(v)][/us/pl/97/414/s8/v], [96 Stat. 2063][/us/stat/96/2063], related to applicability of other provisions and promulgation of regulations, prior to repeal by [Pub. L. 99–280, § 5][/us/pl/99/280/s5], Apr. 24, 1986, [100 Stat. 400][/us/stat/100/400].
+    A prior section 300y–11, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1932, as added Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, [95 Stat. 559][/us/stat/95/559]; amended Jan. 4, 1983, [Pub. L. 97–414][/us/pl/97/414], § 8(v), [96 Stat. 2063][/us/stat/96/2063], related to applicability of other provisions and promulgation of regulations, prior to repeal by [Pub. L. 99–280][/us/pl/99/280], § 5, Apr. 24, 1986, [100 Stat. 400][/us/stat/100/400].
 
     Sections 300y–21 to 300y–27 terminated Jan. 1, 1991, pursuant to section 300y–27 and were omitted from the Code.
 
-    Section 300y–21, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1931, as added Nov. 4, 1988, [Pub. L. 100–607, title IV, § 408(a)][/us/pl/100/607/s408/a], [102 Stat. 3117][/us/stat/102/3117], provided definitions for this part.
+    Section 300y–21, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1931, as added Nov. 4, 1988, [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 408(a), [102 Stat. 3117][/us/stat/102/3117], provided definitions for this part.
 
-    A prior section 1931 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, as added Aug. 13, 1981, [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], [95 Stat. 559][/us/stat/95/559], provided criminal penalty for false statements and was classified to former [section 300y–10 of this title][/us/usc/t42/s300y–10], prior to repeal by [Pub. L. 99–280, § 5][/us/pl/99/280/s5], Apr. 24, 1986, [100 Stat. 400][/us/stat/100/400].
+    A prior section 1931 of [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], as added Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, [95 Stat. 559][/us/stat/95/559], provided criminal penalty for false statements and was classified to former [section 300y–10 of this title][/us/usc/t42/s300y–10], prior to repeal by [Pub. L. 99–280][/us/pl/99/280], § 5, Apr. 24, 1986, [100 Stat. 400][/us/stat/100/400].
 
-    Section 300y–22, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1932, as added Nov. 4, 1988, [Pub. L. 100–607, title IV, § 408(a)][/us/pl/100/607/s408/a], [102 Stat. 3117][/us/stat/102/3117], authorized appropriations for this part.
+    Section 300y–22, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1932, as added Nov. 4, 1988, [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 408(a), [102 Stat. 3117][/us/stat/102/3117], authorized appropriations for this part.
 
-    A prior section 1932 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, as added Aug. 13, 1981, [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], [95 Stat. 559][/us/stat/95/559]; amended Jan. 4, 1983, [Pub. L. 97–414, § 8(v)][/us/pl/97/414/s8/v], [96 Stat. 2063][/us/stat/96/2063], related to applicability of other provisions and promulgation of regulations and was classified to former [section 300y–11 of this title][/us/usc/t42/s300y–11], prior to repeal by [Pub. L. 99–280, § 5][/us/pl/99/280/s5], Apr. 24, 1986, [100 Stat. 400][/us/stat/100/400].
+    A prior section 1932 of [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], as added Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, [95 Stat. 559][/us/stat/95/559]; amended Jan. 4, 1983, [Pub. L. 97–414][/us/pl/97/414], § 8(v), [96 Stat. 2063][/us/stat/96/2063], related to applicability of other provisions and promulgation of regulations and was classified to former [section 300y–11 of this title][/us/usc/t42/s300y–11], prior to repeal by [Pub. L. 99–280][/us/pl/99/280], § 5, Apr. 24, 1986, [100 Stat. 400][/us/stat/100/400].
 
-    Section 300y–23, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1933, as added Nov. 4, 1988, [Pub. L. 100–607, title IV, § 408(a)][/us/pl/100/607/s408/a], [102 Stat. 3117][/us/stat/102/3117], provided for allotments under this part.
+    Section 300y–23, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1933, as added Nov. 4, 1988, [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 408(a), [102 Stat. 3117][/us/stat/102/3117], provided for allotments under this part.
 
-    Section 300y–24, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1934, as added Nov. 4, 1988, [Pub. L. 100–607, title IV, § 408(a)][/us/pl/100/607/s408/a], [102 Stat. 3118][/us/stat/102/3118], provided for payments under allotments to States.
+    Section 300y–24, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1934, as added Nov. 4, 1988, [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 408(a), [102 Stat. 3118][/us/stat/102/3118], provided for payments under allotments to States.
 
-    Section 300y–25, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1935, as added Nov. 4, 1988, [Pub. L. 100–607, title IV, § 408(a)][/us/pl/100/607/s408/a], [102 Stat. 3118][/us/stat/102/3118], specified use of allotments.
+    Section 300y–25, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1935, as added Nov. 4, 1988, [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 408(a), [102 Stat. 3118][/us/stat/102/3118], specified use of allotments.
 
-    Section 300y–26, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1936, as added Nov. 4, 1988, [Pub. L. 100–607, title IV, § 408(a)][/us/pl/100/607/s408/a], [102 Stat. 3119][/us/stat/102/3119], provided for applications, requirements of the application, and description of activities.
+    Section 300y–26, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1936, as added Nov. 4, 1988, [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 408(a), [102 Stat. 3119][/us/stat/102/3119], provided for applications, requirements of the application, and description of activities.
 
-    Section 300y–27, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1937, as added Nov. 4, 1988, [Pub. L. 100–607, title IV, § 408(a)][/us/pl/100/607/s408/a], [102 Stat. 3120][/us/stat/102/3120]; amended Aug. 16, 1989, [Pub. L. 101–93, § 5(f)(1)(B)][/us/pl/101/93/s5/f/1/B], [103 Stat. 612][/us/stat/103/612], provided for termination of this part effective Jan. 1, 1991.
+    Section 300y–27, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1937, as added Nov. 4, 1988, [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 408(a), [102 Stat. 3120][/us/stat/102/3120]; amended Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 5(f)(1)(B), [103 Stat. 612][/us/stat/103/612], provided for termination of this part effective Jan. 1, 1991.
 
  __Effective Date__ 
 
@@ -115,51 +115,51 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs204
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F412
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
-[/us/pl/97/414/s8/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fv
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2063
-[/us/pl/99/280/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280%2Fs5
+[/us/pl/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280
 [/us/stat/100/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F400
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs408%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3117
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
 [/us/usc/t42/s300y–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9310
-[/us/pl/99/280/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280%2Fs5
+[/us/pl/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280
 [/us/stat/100/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F400
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs408%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3117
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
-[/us/pl/97/414/s8/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fv
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2063
 [/us/usc/t42/s300y–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9311
-[/us/pl/99/280/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280%2Fs5
+[/us/pl/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280
 [/us/stat/100/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F400
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs408%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3117
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs408%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3118
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs408%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3118
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs408%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3119
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs408%2Fa
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3120
-[/us/pl/101/93/s5/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Ff%2F1%2FB
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

@@ -83,7 +83,7 @@
 
         Accredited agencies, approved persons, and other persons, including governmental authorities, providing adoption services in an intercountry adoption not subject to the Convention that involves the emigration of a child from the United States shall file information required by regulations jointly issued by the Attorney General and the Secretary of State for purposes of implementing [section 14912(e) of this title][/us/usc/t42/s14912/e].
 
-([Pub. L. 106–279, title III, § 303][/us/pl/106/279/s303], Oct. 6, 2000, [114 Stat. 839][/us/stat/114/839].)
+([Pub. L. 106–279, title III][/us/pl/106/279/tIII], § 303, Oct. 6, 2000, [114 Stat. 839][/us/stat/114/839].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 ----------
 
 [/us/usc/t42/s14912/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14912%2Fe
-[/us/pl/106/279/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs303
+[/us/pl/106/279/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtIII
 [/us/stat/114/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F839
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

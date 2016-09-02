@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptP/m__us_usc_t42_s14045b.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptP/m__us_usc_t42_s14045d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14045c)
 
-## § 14045c. Repealed. [Pub. L. 113–4, title IV, § 402(b)(2)][/us/pl/113/4/s402/b/2], Mar. 7, 2013, [127 Stat. 95][/us/stat/127/95]
+## § 14045c. Repealed. [Pub. L. 113–4, title IV][/us/pl/113/4/tIV], § 402(b)(2), Mar. 7, 2013, [127 Stat. 95][/us/stat/127/95]
 
-    Section, [Pub. L. 109–162, title IV, § 403][/us/pl/109/162/s403], Jan. 5, 2006, [119 Stat. 3023][/us/stat/119/3023], related to public awareness campaign.
+    Section, [Pub. L. 109–162, title IV][/us/pl/109/162/tIV], § 403, Jan. 5, 2006, [119 Stat. 3023][/us/stat/119/3023], related to public awareness campaign.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/113/4/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs402%2Fb%2F2
+[/us/pl/113/4/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIV
 [/us/stat/127/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F95
-[/us/pl/109/162/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs403
+[/us/pl/109/162/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIV
 [/us/stat/119/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3023
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

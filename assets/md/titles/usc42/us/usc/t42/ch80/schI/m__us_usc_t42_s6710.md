@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated not to exceed $6,000,000,000 for the period ending December 31, 1978, to carry out this chapter.
 
-([Pub. L. 94–369, title I, § 111][/us/pl/94/369/s111], July 22, 1976, [90 Stat. 1002][/us/stat/90/1002]; [Pub. L. 95–28, title I, § 109][/us/pl/95/28/s109], May 13, 1977, [91 Stat. 119][/us/stat/91/119].)
+([Pub. L. 94–369, title I][/us/pl/94/369/tI], § 111, July 22, 1976, [90 Stat. 1002][/us/stat/90/1002]; [Pub. L. 95–28, title I][/us/pl/95/28/tI], § 109, May 13, 1977, [91 Stat. 119][/us/stat/91/119].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Immediate Initiation of Construction on Certain Projects__ 
 
-    [Pub. L. 95–28, title I, § 111][/us/pl/95/28/s111], May 13, 1977, [91 Stat. 120][/us/stat/91/120], directed Secretary of Agriculture and Secretary of the Interior to immediately initiate construction of those Federal public works projects which are responsibility of their respective departments, which have been authorized, and which can be commenced within 60 days of May 13, 1977, and completed no later than 180th day after commencement of construction, with no funds authorized by this section used to carry out such works.
+    [Pub. L. 95–28, title I][/us/pl/95/28/tI], § 111, May 13, 1977, [91 Stat. 120][/us/stat/91/120], directed Secretary of Agriculture and Secretary of the Interior to immediately initiate construction of those Federal public works projects which are responsibility of their respective departments, which have been authorized, and which can be commenced within 60 days of May 13, 1977, and completed no later than 180th day after commencement of construction, with no funds authorized by this section used to carry out such works.
 
 ----------
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/94/369/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs111
+[/us/pl/94/369/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtI
 [/us/stat/90/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1002
-[/us/pl/95/28/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs109
+[/us/pl/95/28/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2FtI
 [/us/stat/91/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F119
 [/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
-[/us/pl/95/28/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs111
+[/us/pl/95/28/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2FtI
 [/us/stat/91/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F120
 
 

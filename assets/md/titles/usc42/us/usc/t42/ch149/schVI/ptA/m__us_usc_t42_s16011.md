@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to the Secretary for the purposes of carrying out this section not more than $100,000,000.
 
-([Pub. L. 109–58, title VI, § 634][/us/pl/109/58/s634], Aug. 8, 2005, [119 Stat. 790][/us/stat/119/790].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 634, Aug. 8, 2005, [119 Stat. 790][/us/stat/119/790].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs634
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F790
 
 

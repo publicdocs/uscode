@@ -17,9 +17,9 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 90–445, § 2][/us/pl/90/445/s2], as added [Pub. L. 92–381, § 1][/us/pl/92/381/s1], Aug. 14, 1972, [86 Stat. 532][/us/stat/86/532], which set out the Congressional findings and declaration of purpose for this chapter, was omitted in view of appropriations not being authorized for fiscal years after 1975.
+    Section, [Pub. L. 90–445][/us/pl/90/445], § 2, as added [Pub. L. 92–381][/us/pl/92/381], § 1, Aug. 14, 1972, [86 Stat. 532][/us/stat/86/532], which set out the Congressional findings and declaration of purpose for this chapter, was omitted in view of appropriations not being authorized for fiscal years after 1975.
 
-    A prior section 3801, [Pub. L. 90–445, § 2][/us/pl/90/445/s2], July 31, 1968, [82 Stat. 462][/us/stat/82/462], related to similar subject matter, prior to the general amendment of [Pub. L. 90–445][/us/pl/90/445] by [section 1 of Pub. L. 92–381][/us/pl/92/381/s1].
+    A prior section 3801, [Pub. L. 90–445][/us/pl/90/445], § 2, July 31, 1968, [82 Stat. 462][/us/stat/82/462], related to similar subject matter, prior to the general amendment of [Pub. L. 90–445][/us/pl/90/445] by [section 1 of Pub. L. 92–381][/us/pl/92/381/s1].
 
 ----------
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/90/445/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F445%2Fs2
-[/us/pl/92/381/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F381%2Fs1
+[/us/pl/90/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F445
+[/us/pl/92/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F381
 [/us/stat/86/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F532
-[/us/pl/90/445/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F445%2Fs2
+[/us/pl/90/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F445
 [/us/stat/82/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F462
 [/us/pl/90/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F445
 [/us/pl/92/381/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F381%2Fs1

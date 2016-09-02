@@ -27,7 +27,7 @@
 
     (b) It is the purpose of this part to promote the conservation of energy and reduce the rate of growth of energy demand by authorizing the Secretary to establish procedures and guidelines for the development and implementation of specific State energy conservation programs and to provide Federal financial and technical assistance to States in support of such programs.
 
-([Pub. L. 94–163, title III, § 361][/us/pl/94/163/s361], Dec. 22, 1975, [89 Stat. 932][/us/stat/89/932]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 361, Dec. 22, 1975, [89 Stat. 932][/us/stat/89/932]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Report on Coordination of Energy Conservation Programs__ 
 
-    [Pub. L. 95–619, title VI, § 623][/us/pl/95/619/s623], Nov. 9, 1978, [92 Stat. 3283][/us/stat/92/3283], provided that not later than 6 months after Nov. 9, 1978, the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
+    [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 623, Nov. 9, 1978, [92 Stat. 3283][/us/stat/92/3283], provided that not later than 6 months after Nov. 9, 1978, the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
 
 ----------
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/94/163/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs361
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F932
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/95/619/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs623
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3283
 
 

@@ -79,7 +79,7 @@
 
         There is hereby authorized for the Department of Defense for fiscal year 2002, $20,000,000 for the Defense Threat Reduction Agency for activities of the National Infrastructure Simulation and Analysis Center under this section in that fiscal year.
 
-([Pub. L. 107–56, title X, § 1016][/us/pl/107/56/s1016], Oct. 26, 2001, [115 Stat. 400][/us/stat/115/400].)
+([Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1016, Oct. 26, 2001, [115 Stat. 400][/us/stat/115/400].)
 
  __Codification__ 
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/107/56/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1016
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F400
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

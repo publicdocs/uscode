@@ -17,7 +17,7 @@
 
     The Chief Financial Officer of each affected agency shall submit to Congress an annual report containing, to the extent practicable, a detailed description of the compliance activities undertaken by the agency for mixed waste streams, and an accounting of the fines and penalties imposed on the agency for violations involving mixed waste.
 
-([Pub. L. 102–386, title I, § 110][/us/pl/102/386/s110], Oct. 6, 1992, [106 Stat. 1516][/us/stat/106/1516].)
+([Pub. L. 102–386, title I][/us/pl/102/386/tI], § 110, Oct. 6, 1992, [106 Stat. 1516][/us/stat/106/1516].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/386/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs110
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1516
 
 

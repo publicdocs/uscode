@@ -61,7 +61,7 @@
 
         There are authorized to be appropriated for the purposes of this section $5,000,000 to the Institute to support the activities required by this subsection  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section”. </sup></sup>  for each of fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title XIII, § 1305][/us/pl/110/140/s1305], Dec. 19, 2007, [121 Stat. 1787][/us/stat/121/1787].)
+([Pub. L. 110–140, title XIII][/us/pl/110/140/tXIII], § 1305, Dec. 19, 2007, [121 Stat. 1787][/us/stat/121/1787].)
 
  __Codification__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1305
+[/us/pl/110/140/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIII
 [/us/stat/121/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1787
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 

@@ -115,7 +115,7 @@
 
         A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
 
-([Pub. L. 89–272, title II, § 7002][/us/pl/89/272/s7002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2825][/us/stat/90/2825]; amended [Pub. L. 95–609, § 7(p)][/us/pl/95/609/s7/p], Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; [Pub. L. 98–616, title IV, § 401][/us/pl/98/616/s401], Nov. 8, 1984, [98 Stat. 3268][/us/stat/98/3268].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7002, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2825][/us/stat/90/2825]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(p), Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; [Pub. L. 98–616, title IV][/us/pl/98/616/tIV], § 401, Nov. 8, 1984, [98 Stat. 3268][/us/stat/98/3268].)
 
  __References in Text__ 
 
@@ -125,21 +125,21 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 401(a)][/us/pl/98/616/s401/a], (b), designated existing provisions of subsec. (a)(1) as subpar. (A) thereof, inserted “prohibition,” after “requirement,”, added subpar. (B), and in provisions following par. (2) inserted “or the alleged endangerment may occur” in first sentence and substituted “to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title” for “to enforce such regulation or order, or to order the Administrator to perform such act or duty as the case may be”.
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 401(a), (b), designated existing provisions of subsec. (a)(1) as subpar. (A) thereof, inserted “prohibition,” after “requirement,”, added subpar. (B), and in provisions following par. (2) inserted “or the alleged endangerment may occur” in first sentence and substituted “to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title” for “to enforce such regulation or order, or to order the Administrator to perform such act or duty as the case may be”.
 
-    Subsec. (b). [Pub. L. 98–616, § 401(d)][/us/pl/98/616/s401/d], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No action may be commenced under paragraph (a)(1) of this section—
+    Subsec. (b). [Pub. L. 98–616][/us/pl/98/616], § 401(d), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No action may be commenced under paragraph (a)(1) of this section—
 
     “(1) prior to sixty days after the plaintiff has given notice of the violation (A) to the Administrator; (B) to the State in which the alleged violation occurs; and (C) to any alleged violator of such permit, standard, regulation, condition, requirement, or order; or
 
     “(2) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States or a State to require compliance with such permit, standard, regulation, condition, requirement, or order: Provided, however, That in any such action in a court of the United States, any person may intervene as a matter of right.”
 
-    Subsec. (e). [Pub. L. 98–616, § 401(e)][/us/pl/98/616/s401/e], substituted “to the prevailing or substantially prevailing party” for “to any party” and inserted “or [section 6976 of this title][/us/usc/t42/s6976]”.
+    Subsec. (e). [Pub. L. 98–616][/us/pl/98/616], § 401(e), substituted “to the prevailing or substantially prevailing party” for “to any party” and inserted “or [section 6976 of this title][/us/usc/t42/s6976]”.
 
-    Subsec. (g). [Pub. L. 98–616, § 401(c)][/us/pl/98/616/s401/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–616][/us/pl/98/616], § 401(c), added subsec. (g).
 
-    1978—Subsec. (c). [Pub. L. 95–609, § 7(p)(1)][/us/pl/95/609/s7/p/1], substituted “subchapter III of this chapter” for “section 212 of this Act.”
+    1978—Subsec. (c). [Pub. L. 95–609][/us/pl/95/609], § 7(p)(1), substituted “subchapter III of this chapter” for “section 212 of this Act.”
 
-    Subsec. (e). [Pub. L. 95–609, § 7(p)(2)][/us/pl/95/609/s7/p/2], substituted “require” for “requiring”.
+    Subsec. (e). [Pub. L. 95–609][/us/pl/95/609], § 7(p)(2), substituted “require” for “requiring”.
 
  __Transfer of Functions__ 
 
@@ -163,23 +163,23 @@
 [/us/usc/t42/s9604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s6976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6976
-[/us/pl/89/272/s7002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7002
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2825
-[/us/pl/95/609/s7/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fp
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3083
-[/us/pl/98/616/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs401
+[/us/pl/98/616/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIV
 [/us/stat/98/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3268
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/98/616/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs401%2Fa
-[/us/pl/98/616/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs401%2Fd
-[/us/pl/98/616/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs401%2Fe
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/usc/t42/s6976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6976
-[/us/pl/98/616/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs401%2Fc
-[/us/pl/95/609/s7/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fp%2F1
-[/us/pl/95/609/s7/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fp%2F2
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 
 

@@ -23,7 +23,7 @@
 
         The Director, the Inspector General, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in subsection (a) of this section, have access for the purpose of audit and examination to any books, documents, papers, and records of such recipients which in the opinion of the Director, the Inspector General, or the Comptroller General may be related or pertinent to the grants, contracts, subcontracts, subgrants, or loans referred to in subsection (a) of this section.
 
-([Pub. L. 93–113, title IV, § 422][/us/pl/93/113/s422], Oct. 1, 1973, [87 Stat. 414][/us/stat/87/414]; [Pub. L. 103–82, title III, § 369][/us/pl/103/82/s369], Sept. 21, 1993, [107 Stat. 909][/us/stat/107/909].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 422, Oct. 1, 1973, [87 Stat. 414][/us/stat/87/414]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 369, Sept. 21, 1993, [107 Stat. 909][/us/stat/107/909].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 369(1)][/us/pl/103/82/s369/1], inserted “or the Inspector General” after “Director”.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 369(1), inserted “or the Inspector General” after “Director”.
 
-    Subsec. (b). [Pub. L. 103–82, § 369(2)][/us/pl/103/82/s369/2], inserted “, the Inspector General,” after “Director” in two places.
+    Subsec. (b). [Pub. L. 103–82][/us/pl/103/82], § 369(2), inserted “, the Inspector General,” after “Director” in two places.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/pl/93/113/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs422
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F414
-[/us/pl/103/82/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs369
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F909
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/103/82/s369/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs369%2F1
-[/us/pl/103/82/s369/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs369%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs392
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951

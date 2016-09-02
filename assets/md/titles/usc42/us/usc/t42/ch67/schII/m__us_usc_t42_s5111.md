@@ -91,17 +91,17 @@
 
         (3) demonstrate expeditious ways to free children for adoption for whom it has been determined that adoption is the appropriate plan.
 
-([Pub. L. 95–266, title II, § 201][/us/pl/95/266/s201], Apr. 24, 1978, [92 Stat. 208][/us/stat/92/208]; [Pub. L. 98–457, title II, § 201][/us/pl/98/457/s201], Oct. 9, 1984, [98 Stat. 1755][/us/stat/98/1755]; [Pub. L. 102–295, title IV, § 401][/us/pl/102/295/s401], May 28, 1992, [106 Stat. 211][/us/stat/106/211]; [Pub. L. 104–235, title II, § 211][/us/pl/104/235/s211], Oct. 3, 1996, [110 Stat. 3090][/us/stat/110/3090]; [Pub. L. 108–36, title II, § 201][/us/pl/108/36/s201], June 25, 2003, [117 Stat. 818][/us/stat/117/818]; [Pub. L. 111–320, title III, § 301(a)][/us/pl/111/320/s301/a], Dec. 20, 2010, [124 Stat. 3510][/us/stat/124/3510].)
+([Pub. L. 95–266, title II][/us/pl/95/266/tII], § 201, Apr. 24, 1978, [92 Stat. 208][/us/stat/92/208]; [Pub. L. 98–457, title II][/us/pl/98/457/tII], § 201, Oct. 9, 1984, [98 Stat. 1755][/us/stat/98/1755]; [Pub. L. 102–295, title IV][/us/pl/102/295/tIV], § 401, May 28, 1992, [106 Stat. 211][/us/stat/106/211]; [Pub. L. 104–235, title II][/us/pl/104/235/tII], § 211, Oct. 3, 1996, [110 Stat. 3090][/us/stat/110/3090]; [Pub. L. 108–36, title II][/us/pl/108/36/tII], § 201, June 25, 2003, [117 Stat. 818][/us/stat/117/818]; [Pub. L. 111–320, title III][/us/pl/111/320/tIII], § 301(a), Dec. 20, 2010, [124 Stat. 3510][/us/stat/124/3510].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–320, § 301(a)(1)][/us/pl/111/320/s301/a/1], added subsec. (a) and struck out former subsec. (a) which related to findings on children in institutions or foster homes.
+    2010—Subsec. (a). [Pub. L. 111–320][/us/pl/111/320], § 301(a)(1), added subsec. (a) and struck out former subsec. (a) which related to findings on children in institutions or foster homes.
 
-    Subsec. (b). [Pub. L. 111–320, § 301(a)(2)(A)][/us/pl/111/320/s301/a/2/A], inserted “older children, minority children, and” after “particularly” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–320][/us/pl/111/320], § 301(a)(2)(A), inserted “older children, minority children, and” after “particularly” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 111–320, § 301(a)(2)(B)][/us/pl/111/320/s301/a/2/B], added par. (2) and struck out former par. (2) which read as follows: “maintain an Internet-based national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and”.
+    Subsec. (b)(2). [Pub. L. 111–320][/us/pl/111/320], § 301(a)(2)(B), added par. (2) and struck out former par. (2) which read as follows: “maintain an Internet-based national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and”.
 
-    2003—Subsec. (a)(1) to (3). [Pub. L. 108–36, § 201(1)(A)][/us/pl/108/36/s201/1/A], added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+    2003—Subsec. (a)(1) to (3). [Pub. L. 108–36][/us/pl/108/36], § 201(1)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) the number of children in substitute care increased by nearly 61 percent between 1986 and 1994, as our Nation’s foster care population included more than 452,000 as of June 1994;
 
@@ -109,29 +109,29 @@
 
     “(3) an increasing number of infants are born to mothers who did not receive prenatal care, are born addicted to alcohol and other drugs, and exposed to infection with the etiologic agent for the human immunodeficiency virus, are medically fragile, and technology dependent;”.
 
-    Subsec. (a)(4). [Pub. L. 108–36, § 201(1)(A)][/us/pl/108/36/s201/1/A], (D), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and some such children are in need of placement in permanent, adoptive homes;”.
+    Subsec. (a)(4). [Pub. L. 108–36][/us/pl/108/36], § 201(1)(A), (D), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and some such children are in need of placement in permanent, adoptive homes;”.
 
-    Subsec. (a)(5). [Pub. L. 108–36, § 201(1)(D)][/us/pl/108/36/s201/1/D], redesignated par. (7) as (5). Former par. (5) redesignated (4).
+    Subsec. (a)(5). [Pub. L. 108–36][/us/pl/108/36], § 201(1)(D), redesignated par. (7) as (5). Former par. (5) redesignated (4).
 
-    Subsec. (a)(6). [Pub. L. 108–36, § 201(1)(B)][/us/pl/108/36/s201/1/B], (D), redesignated par. (8) as (6) and struck out former par. (6) which read as follows: “the majority of such children are of school age, members of sibling groups or disabled;”.
+    Subsec. (a)(6). [Pub. L. 108–36][/us/pl/108/36], § 201(1)(B), (D), redesignated par. (8) as (6) and struck out former par. (6) which read as follows: “the majority of such children are of school age, members of sibling groups or disabled;”.
 
-    Subsec. (a)(7). [Pub. L. 108–36, § 201(1)(D)][/us/pl/108/36/s201/1/D], redesignated par. (9) as (7). Former par. (7) redesignated (5).
+    Subsec. (a)(7). [Pub. L. 108–36][/us/pl/108/36], § 201(1)(D), redesignated par. (9) as (7). Former par. (7) redesignated (5).
 
-    Subsec. (a)(7)(A). [Pub. L. 108–36, § 201(1)(C)][/us/pl/108/36/s201/1/C], added subpar. (A) and struck out former subpar. (A) which read as follows: “currently, 40,000 children are free for adoption and awaiting placement;”.
+    Subsec. (a)(7)(A). [Pub. L. 108–36][/us/pl/108/36], § 201(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “currently, 40,000 children are free for adoption and awaiting placement;”.
 
-    Subsec. (a)(8) to (10). [Pub. L. 108–36, § 201(1)(D)][/us/pl/108/36/s201/1/D], redesignated pars. (8) to (10) as (6) to (8), respectively.
+    Subsec. (a)(8) to (10). [Pub. L. 108–36][/us/pl/108/36], § 201(1)(D), redesignated pars. (8) to (10) as (6) to (8), respectively.
 
-    Subsec. (b). [Pub. L. 108–36, § 201(2)(A)][/us/pl/108/36/s201/2/A], inserted “, including geographic barriers,” after “barriers” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–36][/us/pl/108/36], § 201(2)(A), inserted “, including geographic barriers,” after “barriers” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 108–36, § 201(2)(B)][/us/pl/108/36/s201/2/B], substituted “an Internet-based national” for “a national”.
+    Subsec. (b)(2). [Pub. L. 108–36][/us/pl/108/36], § 201(2)(B), substituted “an Internet-based national” for “a national”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–235, § 211(1)(A)][/us/pl/104/235/s211/1/A], substituted “61 percent between 1986 and 1994” for “50 percent between 1985 and 1990” and “452,000 as of June 1994” for “400,000 children at the end of June, 1990”.
+    1996—Subsec. (a)(1). [Pub. L. 104–235][/us/pl/104/235], § 211(1)(A), substituted “61 percent between 1986 and 1994” for “50 percent between 1985 and 1990” and “452,000 as of June 1994” for “400,000 children at the end of June, 1990”.
 
-    Subsec. (a)(5). [Pub. L. 104–235, § 211(1)(B)][/us/pl/104/235/s211/1/B], substituted “legal” for “local”.
+    Subsec. (a)(5). [Pub. L. 104–235][/us/pl/104/235], § 211(1)(B), substituted “legal” for “local”.
 
-    Subsec. (a)(7). [Pub. L. 104–235, § 211(1)(C)][/us/pl/104/235/s211/1/C], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “currently one-half of children free for adoption and awaiting placement are minorities;”.
+    Subsec. (a)(7). [Pub. L. 104–235][/us/pl/104/235], § 211(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “currently one-half of children free for adoption and awaiting placement are minorities;”.
 
-    Subsec. (b). [Pub. L. 104–235, § 211(2)][/us/pl/104/235/s211/2], substituted “conditions, by providing a mechanism to—” for “conditions, by—
+    Subsec. (b). [Pub. L. 104–235][/us/pl/104/235], § 211(2), substituted “conditions, by providing a mechanism to—” for “conditions, by—
 
     “(1) promoting model adoption legislation and procedures in the States and territories of the United States in order to eliminate jurisdictional and legal obstacles to adoption; and
 
@@ -141,13 +141,13 @@
 
     1992—[Pub. L. 102–295][/us/pl/102/295] amended section generally, designating existing provisions as subsecs. (a) and (b), inserting findings relating to the number of children in substitute care, foster care children with complex problems which require intensive services, infants born without prenatal care, addicted to alcohol or other drugs, or exposed to infection with the etiologic agent for human immunodeficiency virus, and percentage of children awaiting adoption who are minorities, inserting as purposes of this subchapter to provide a mechanism to recruit prospective parents for children awaiting adoption and to demonstrate expeditious ways to free children for adoption, and striking out as a purpose to provide a mechanism to coordinate with Federal departments and agencies to provide national adoption and foster care information data-gathering and analysis system.
 
-    1984—[Pub. L. 98–457, § 201(a)][/us/pl/98/457/s201/a], (b)(1), in provisions before par. (1), inserted “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and that some such children are in need of placement in permanent, adoptive homes, that” and substituted “should not have medically indicated treatment withheld from them, nor be maintained in foster care” for “should not be maintained in foster care” and “children with special needs, including disabled infants with life-threatening conditions, by” for “children with special needs by”.
+    1984—[Pub. L. 98–457][/us/pl/98/457], § 201(a), (b)(1), in provisions before par. (1), inserted “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and that some such children are in need of placement in permanent, adoptive homes, that” and substituted “should not have medically indicated treatment withheld from them, nor be maintained in foster care” for “should not be maintained in foster care” and “children with special needs, including disabled infants with life-threatening conditions, by” for “children with special needs by”.
 
-    Par. (2). [Pub. L. 98–457, § 201(b)(2)][/us/pl/98/457/s201/b/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing a mechanism for the Department of Health and Human Services to (A) promote quality standards for adoption services (including pre-placement, post-placement, and post-adoption counseling and standards to protect the rights of children in need of adoption), and (B) provide for a national adoption and foster care information data gathering and analysis system and a national adoption information exchange system to bring together children who would benefit by adoption and qualified prospective adoptive parents who are seeking such children.”
+    Par. (2). [Pub. L. 98–457][/us/pl/98/457], § 201(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing a mechanism for the Department of Health and Human Services to (A) promote quality standards for adoption services (including pre-placement, post-placement, and post-adoption counseling and standards to protect the rights of children in need of adoption), and (B) provide for a national adoption and foster care information data gathering and analysis system and a national adoption information exchange system to bring together children who would benefit by adoption and qualified prospective adoptive parents who are seeking such children.”
 
  __Study of Interjurisdictional Adoption Issues__ 
 
-[Pub. L. 105–89, title II, § 202(c)][/us/pl/105/89/s202/c], Nov. 19, 1997, [111 Stat. 2126][/us/stat/111/2126], provided that:
+[Pub. L. 105–89, title II][/us/pl/105/89/tII], § 202(c), Nov. 19, 1997, [111 Stat. 2126][/us/stat/111/2126], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -182,38 +182,38 @@
 ----------
 ----------
 
-[/us/pl/95/266/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs201
+[/us/pl/95/266/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2FtII
 [/us/stat/92/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F208
-[/us/pl/98/457/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs201
+[/us/pl/98/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtII
 [/us/stat/98/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1755
-[/us/pl/102/295/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs401
+[/us/pl/102/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIV
 [/us/stat/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F211
-[/us/pl/104/235/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs211
+[/us/pl/104/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtII
 [/us/stat/110/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3090
-[/us/pl/108/36/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201
+[/us/pl/108/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtII
 [/us/stat/117/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F818
-[/us/pl/111/320/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fa
+[/us/pl/111/320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtIII
 [/us/stat/124/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3510
-[/us/pl/111/320/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fa%2F1
-[/us/pl/111/320/s301/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fa%2F2%2FA
-[/us/pl/111/320/s301/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fa%2F2%2FB
-[/us/pl/108/36/s201/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F1%2FA
-[/us/pl/108/36/s201/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F1%2FA
-[/us/pl/108/36/s201/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F1%2FD
-[/us/pl/108/36/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F1%2FB
-[/us/pl/108/36/s201/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F1%2FD
-[/us/pl/108/36/s201/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F1%2FC
-[/us/pl/108/36/s201/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F1%2FD
-[/us/pl/108/36/s201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F2%2FA
-[/us/pl/108/36/s201/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs201%2F2%2FB
-[/us/pl/104/235/s211/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs211%2F1%2FA
-[/us/pl/104/235/s211/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs211%2F1%2FB
-[/us/pl/104/235/s211/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs211%2F1%2FC
-[/us/pl/104/235/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs211%2F2
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
 [/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
-[/us/pl/98/457/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs201%2Fa
-[/us/pl/98/457/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs201%2Fb%2F2
-[/us/pl/105/89/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs202%2Fc
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/105/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtII
 [/us/stat/111/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2126
 
 

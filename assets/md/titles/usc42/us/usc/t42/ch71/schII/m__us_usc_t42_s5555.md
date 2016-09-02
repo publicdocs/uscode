@@ -49,7 +49,7 @@
 
         (8) energy storage.
 
-([Pub. L. 93–473, § 6][/us/pl/93/473/s6], Oct. 26, 1974, [88 Stat. 1433][/us/stat/88/1433].)
+([Pub. L. 93–473][/us/pl/93/473], § 6, Oct. 26, 1974, [88 Stat. 1433][/us/stat/88/1433].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs6
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1433
 
 

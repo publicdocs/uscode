@@ -45,7 +45,7 @@
 
         (2) With respect to providing funds under subsection (a)(6) of this section for proposals to address the ethical issues associated with the genome project, paragraph (1) shall not apply for a fiscal year if the Director of the Institute certifies to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, that the Director has determined that an insufficient number of such proposals meet the applicable requirements of sections 289 and 289a of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–1, formerly § 485B, as added [Pub. L. 103–43, title XV, § 1521(2)][/us/pl/103/43/s1521/2], June 10, 1993, [107 Stat. 180][/us/stat/107/180]; renumbered § 464z–1 and amended [Pub. L. 109–482, title I, § 101(c)(4)][/us/pl/109/482/s101/c/4], Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–1, formerly § 485B, as added [Pub. L. 103–43, title XV][/us/pl/103/43/tXV], § 1521(2), June 10, 1993, [107 Stat. 180][/us/stat/107/180]; renumbered § 464z–1 and amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 101(c)(4), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681].)
 
  __Codification__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 109–482, § 101(c)(4)(C)][/us/pl/109/482/s101/c/4/C], substituted “Institute” for “Center” wherever appearing in section catchline and text.
+    2007—[Pub. L. 109–482][/us/pl/109/482], § 101(c)(4)(C), substituted “Institute” for “Center” wherever appearing in section catchline and text.
 
-    Subsec. (a). [Pub. L. 109–482, § 101(c)(4)(B)][/us/pl/109/482/s101/c/4/B], substituted “National Human Genome Research Institute” for “National Center for Human Genome Research” in introductory provisions.
+    Subsec. (a). [Pub. L. 109–482][/us/pl/109/482], § 101(c)(4)(B), substituted “National Human Genome Research Institute” for “National Center for Human Genome Research” in introductory provisions.
 
  __Change of Name__ 
 
@@ -76,14 +76,14 @@
 
 [/us/usc/t42/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1521/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1521%2F2
+[/us/pl/103/43/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXV
 [/us/stat/107/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F180
-[/us/pl/109/482/s101/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs101%2Fc%2F4
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3681
 [/us/usc/t42/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
-[/us/pl/109/482/s101/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs101%2Fc%2F4%2FC
-[/us/pl/109/482/s101/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs101%2Fc%2F4%2FB
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

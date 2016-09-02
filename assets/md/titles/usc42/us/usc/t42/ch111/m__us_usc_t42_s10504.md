@@ -23,7 +23,7 @@
 
         Paragraph (3) and paragraph (4) of [section 3789d(c) of this title][/us/usc/t42/s3789d/c] shall apply with respect to a violation of subsection (a) of this section, except that the terms “this section” and “paragraph (1)”, as such terms appear in such paragraphs, shall be deemed to be references to subsection (a) of this section, and a reference to the Office of Justice Programs in such paragraphs shall be deemed to be a reference to the Attorney General.
 
-([Pub. L. 98–473, title II, § 609P][/us/pl/98/473/s609P], Oct. 12, 1984, [98 Stat. 2105][/us/stat/98/2105].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609P, Oct. 12, 1984, [98 Stat. 2105][/us/stat/98/2105].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s3789d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789d%2Fc
-[/us/pl/98/473/s609P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609P
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2105
 
 

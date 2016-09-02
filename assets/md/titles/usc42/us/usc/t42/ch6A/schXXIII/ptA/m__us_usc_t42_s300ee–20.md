@@ -25,7 +25,7 @@
 
         (2) With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under [section 300ee–11(a) of this title][/us/usc/t42/s300ee–11/a] to the State by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2510, as added [Pub. L. 100–607, title II, § 221][/us/pl/100/607/s221], Nov. 4, 1988, [102 Stat. 3101][/us/stat/102/3101]; amended [Pub. L. 100–690, title II, § 2619(g)][/us/pl/100/690/s2619/g] \[(h)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93, § 5(e)(1)][/us/pl/101/93/s5/e/1], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2510, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 221, Nov. 4, 1988, [102 Stat. 3101][/us/stat/102/3101]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2619(g) \[(h)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93][/us/pl/101/93], § 5(e)(1), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
 
  __Prior Provisions__ 
 
@@ -48,11 +48,11 @@
 
 [/us/usc/t42/s300ee–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9311%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs221
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3101
-[/us/pl/100/690/s2619/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fg
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4243
-[/us/pl/101/93/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
 [/us/usc/t42/s238i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238i
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

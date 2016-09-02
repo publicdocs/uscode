@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services shall provide technical assistance to public and nonprofit private entities carrying out programs, projects, and activities relating to acquired immune deficiency syndrome.
 
-([Pub. L. 100–607, title II, § 255][/us/pl/100/607/s255], Nov. 4, 1988, [102 Stat. 3110][/us/stat/102/3110].)
+([Pub. L. 100–607, title II][/us/pl/100/607/tII], § 255, Nov. 4, 1988, [102 Stat. 3110][/us/stat/102/3110].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/607/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs255
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3110
 
 

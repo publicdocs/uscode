@@ -17,7 +17,7 @@
 
     Any sums in the Rural Housing Insurance Fund which the Secretary determines are in excess of amounts needed to meet the obligations and carry out the purposes of such Fund shall be returned to miscellaneous receipts of the Treasury.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 519, as added [Pub. L. 89–117, title X, § 1006][/us/pl/89/117/s1006], Aug. 10, 1965, [79 Stat. 501][/us/stat/79/501]; amended [Pub. L. 91–152, title IV, § 413(e)(4)][/us/pl/91/152/s413/e/4], Dec. 24, 1969, [83 Stat. 399][/us/stat/83/399].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 519, as added [Pub. L. 89–117, title X][/us/pl/89/117/tX], § 1006, Aug. 10, 1965, [79 Stat. 501][/us/stat/79/501]; amended [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 413(e)(4), Dec. 24, 1969, [83 Stat. 399][/us/stat/83/399].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/89/117/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1006
+[/us/pl/89/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtX
 [/us/stat/79/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F501
-[/us/pl/91/152/s413/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs413%2Fe%2F4
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F399
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 

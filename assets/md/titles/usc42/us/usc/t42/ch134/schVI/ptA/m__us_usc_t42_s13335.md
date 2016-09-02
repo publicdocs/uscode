@@ -35,7 +35,7 @@
 
         (6) the availability for commercial use of such technologies by the year 2000.
 
-([Pub. L. 102–486, title XIII, § 1305][/us/pl/102/486/s1305], Oct. 24, 1992, [106 Stat. 2973][/us/stat/106/2973].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1305, Oct. 24, 1992, [106 Stat. 2973][/us/stat/106/2973].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1305
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2973
 
 

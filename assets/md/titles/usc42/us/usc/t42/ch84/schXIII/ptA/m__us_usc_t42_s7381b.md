@@ -61,15 +61,15 @@
 
         The Secretary is authorized to accept non-Federal funds to finance education activities described in subsection (a) of this section.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3165][/us/pl/101/510/s3165], Nov. 5, 1990, [104 Stat. 1841][/us/stat/104/1841]; [Pub. L. 102–25, title VII, § 704(d)][/us/pl/102/25/s704/d], Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; [Pub. L. 109–58, title XI, § 1102(b)][/us/pl/109/58/s1102/b], Aug. 8, 2005, [119 Stat. 938][/us/stat/119/938].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3165, Nov. 5, 1990, [104 Stat. 1841][/us/stat/104/1841]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 704(d), Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; [Pub. L. 109–58, title XI][/us/pl/109/58/tXI], § 1102(b), Aug. 8, 2005, [119 Stat. 938][/us/stat/119/938].)
 
  __Amendments__ 
 
     2005—Subsec. (a)(14) to (17). [Pub. L. 109–58][/us/pl/109/58], which directed amendment of this section by adding pars. (14) to (17) at the end, was executed by making the addition at the end of subsec. (a), to reflect the probable intent of Congress.
 
-    1991—Subsec. (a). [Pub. L. 102–25, § 704(d)(1)][/us/pl/102/25/s704/d/1], redesignated subpars. (J) to (M) as pars. (10) to (13), respectively.
+    1991—Subsec. (a). [Pub. L. 102–25][/us/pl/102/25], § 704(d)(1), redesignated subpars. (J) to (M) as pars. (10) to (13), respectively.
 
-    Subsec. (b). [Pub. L. 102–25, § 704(d)(2)][/us/pl/102/25/s704/d/2], inserted “such” before “education activities” in second sentence.
+    Subsec. (b). [Pub. L. 102–25][/us/pl/102/25], § 704(d)(2), inserted “such” before “education activities” in second sentence.
 
  __Effective Date of 1991 Amendment__ 
 
@@ -82,15 +82,15 @@
 ----------
 ----------
 
-[/us/pl/101/510/s3165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3165
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1841
-[/us/pl/102/25/s704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fd
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F120
-[/us/pl/109/58/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1102%2Fb
+[/us/pl/109/58/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXI
 [/us/stat/119/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F938
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/102/25/s704/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fd%2F1
-[/us/pl/102/25/s704/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fd%2F2
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/102/25/s704/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fe

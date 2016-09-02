@@ -29,7 +29,7 @@
 
         A State or local entity may use not more than 5 percent of the funds it receives under this subchapter to develop an evaluation program under this section.
 
-([Pub. L. 90–351, title I, § 1606][/us/pl/90/351/s1606], as added [Pub. L. 102–521, § 4(a)(3)][/us/pl/102/521/s4/a/3], Oct. 25, 1992, [106 Stat. 3405][/us/stat/106/3405].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1606, as added [Pub. L. 102–521][/us/pl/102/521], § 4(a)(3), Oct. 25, 1992, [106 Stat. 3405][/us/stat/106/3405].)
 
  __Transfer of Functions__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1606
-[/us/pl/102/521/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs4%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3405
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741

@@ -17,7 +17,7 @@
 
     For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for fiscal year 2009, and such sums as may be necessary for each of fiscal years 2010 through 2015. Such authorization of appropriations is in addition to any other authorization of appropriations or amounts that are available for such purpose.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1245, as added [Pub. L. 102–321, title VI, § 601][/us/pl/102/321/s601], July 10, 1992, [106 Stat. 435][/us/stat/106/435]; amended [Pub. L. 111–148, title III, § 3505(a)(5)][/us/pl/111/148/s3505/a/5], Mar. 23, 2010, [124 Stat. 525][/us/stat/124/525].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1245, as added [Pub. L. 102–321, title VI][/us/pl/102/321/tVI], § 601, July 10, 1992, [106 Stat. 435][/us/stat/106/435]; amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3505(a)(5), Mar. 23, 2010, [124 Stat. 525][/us/stat/124/525].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs601
+[/us/pl/102/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtVI
 [/us/stat/106/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F435
-[/us/pl/111/148/s3505/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3505%2Fa%2F5
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F525
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

@@ -21,7 +21,7 @@
 
     (2) to apply to or to affect any requirement with respect to a portion of an advance directive that directs the purposeful causing of, or the purposeful assisting in causing, the death of any individual, such as by assisted suicide, euthanasia, or mercy killing.
 
-([Pub. L. 105–12, § 7][/us/pl/105/12/s7], Apr. 30, 1997, [111 Stat. 26][/us/stat/111/26].)
+([Pub. L. 105–12][/us/pl/105/12], § 7, Apr. 30, 1997, [111 Stat. 26][/us/stat/111/26].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s14402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14402%2Fb
-[/us/pl/105/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs7
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F26
 
 

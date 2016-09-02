@@ -31,7 +31,7 @@
 
     (b) The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than January 1, 1982.
 
-([Pub. L. 96–386, § 5][/us/pl/96/386/s5], Oct. 7, 1980, [94 Stat. 1541][/us/stat/94/1541].)
+([Pub. L. 96–386][/us/pl/96/386], § 5, Oct. 7, 1980, [94 Stat. 1541][/us/stat/94/1541].)
 
  __Change of Name__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/386/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs5
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1541
 
 

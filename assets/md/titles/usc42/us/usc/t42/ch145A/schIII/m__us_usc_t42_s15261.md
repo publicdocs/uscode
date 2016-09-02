@@ -29,7 +29,7 @@
 
         (3) provide staff support to the Federal Board and the State and Local Board to carry out the duties described in section 15243(b) and [section 15253(b) of this title][/us/usc/t42/s15253/b], respectively.
 
-([Pub. L. 110–298, title III, § 301][/us/pl/110/298/s301], July 31, 2008, [122 Stat. 2994][/us/stat/122/2994].)
+([Pub. L. 110–298, title III][/us/pl/110/298/tIII], § 301, July 31, 2008, [122 Stat. 2994][/us/stat/122/2994].)
 
 ----------
 
@@ -41,7 +41,7 @@
 [/us/usc/t42/s15243/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15243%2Fd%2F2
 [/us/usc/t42/s15253/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15253%2Fd%2F2
 [/us/usc/t42/s15253/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15253%2Fb
-[/us/pl/110/298/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs301
+[/us/pl/110/298/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtIII
 [/us/stat/122/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2994
 
 

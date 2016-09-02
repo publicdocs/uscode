@@ -17,7 +17,7 @@
 
     All agencies of the Federal Government shall review their present statutory authority, administrative regulations, and current policies and procedures for the purpose of determining whether there are any deficiencies or inconsistencies therein which prohibit full compliance with the purposes and provisions of this chapter and shall propose to the President not later than July 1, 1971, such measures as may be necessary to bring their authority and policies into conformity with the intent, purposes, and procedures set forth in this chapter.
 
-([Pub. L. 91–190, title I, § 103][/us/pl/91/190/s103], Jan. 1, 1970, [83 Stat. 854][/us/stat/83/854].)
+([Pub. L. 91–190, title I][/us/pl/91/190/tI], § 103, Jan. 1, 1970, [83 Stat. 854][/us/stat/83/854].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/190/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs103
+[/us/pl/91/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtI
 [/us/stat/83/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F854
 
 

@@ -53,7 +53,7 @@
 
     (12) the term “user” means a person or entity that purchases or leases an electric motor vehicle.
 
-([Pub. L. 102–486, title VI, § 601][/us/pl/102/486/s601], Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 601, Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899].)
 
 ----------
 
@@ -66,7 +66,7 @@
 [/us/usc/t42/s13283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13283
 [/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504
 [/us/usc/t42/s7550/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550%2F2
-[/us/pl/102/486/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs601
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2899
 
 

@@ -37,7 +37,7 @@
 
             Each State shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, America Samoa, Guam, and the Northern Mariana Islands each shall be allocated not less than 0.25 percent.
 
-([Pub. L. 107–56, title X, § 1014][/us/pl/107/56/s1014], Oct. 26, 2001, [115 Stat. 399][/us/stat/115/399]; [Pub. L. 107–273, div. C, title I, § 11003][/us/pl/107/273/s11003], Nov. 2, 2002, [116 Stat. 1816][/us/stat/116/1816].)
+([Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1014, Oct. 26, 2001, [115 Stat. 399][/us/stat/115/399]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11003, Nov. 2, 2002, [116 Stat. 1816][/us/stat/116/1816].)
 
  __Codification__ 
 
@@ -45,11 +45,11 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 11003(a)(1)][/us/pl/107/273/s11003/a/1], which directed amendment of subsec. (a) by substituting “Office for Domestic Preparedness” for “Office of State and Local Domestic Preparedness Support”, was executed by making the substitution for “Office for State and Local Domestic Preparedness Support” to reflect the probable intent of Congress.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 11003(a)(1), which directed amendment of subsec. (a) by substituting “Office for Domestic Preparedness” for “Office of State and Local Domestic Preparedness Support”, was executed by making the substitution for “Office for State and Local Domestic Preparedness Support” to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 107–273, § 11003(b)][/us/pl/107/273/s11003/b], inserted at end “In addition, grants under this section may be used to construct, develop, expand, modify, operate, or improve facilities to provide training or assistance to State and local first responders.”
+    Subsec. (b). [Pub. L. 107–273][/us/pl/107/273], § 11003(b), inserted at end “In addition, grants under this section may be used to construct, develop, expand, modify, operate, or improve facilities to provide training or assistance to State and local first responders.”
 
-    Subsec. (c)(3). [Pub. L. 107–273, § 11003(a)(2)][/us/pl/107/273/s11003/a/2], inserted “not less than” before “0.25 percent”.
+    Subsec. (c)(3). [Pub. L. 107–273][/us/pl/107/273], § 11003(a)(2), inserted “not less than” before “0.25 percent”.
 
  __Transfer of Functions__ 
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/107/56/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1014
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F399
-[/us/pl/107/273/s11003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11003
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1816
-[/us/pl/107/273/s11003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11003%2Fa%2F1
-[/us/pl/107/273/s11003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11003%2Fb
-[/us/pl/107/273/s11003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11003%2Fa%2F2
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

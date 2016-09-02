@@ -151,15 +151,15 @@
 
         (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-([Pub. L. 94–163, title III, § 400AA][/us/pl/94/163/s400AA], as added [Pub. L. 100–494, § 4(a)][/us/pl/100/494/s4/a], Oct. 14, 1988, [102 Stat. 2442][/us/stat/102/2442]; amended [Pub. L. 102–486, title III][/us/pl/102/486], §§ 302(a), 309, Oct. 24, 1992, [106 Stat. 2868][/us/stat/106/2868], 2874; [Pub. L. 104–66, title I][/us/pl/104/66], §§ 1051(a), 1052(e), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716], 718; [Pub. L. 105–388, § 5(a)(14)][/us/pl/105/388/s5/a/14], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479]; [Pub. L. 106–36, title I, § 1002(h)][/us/pl/106/36/s1002/h], June 25, 1999, [113 Stat. 134][/us/stat/113/134]; [Pub. L. 109–58, title VII, § 701][/us/pl/109/58/s701], Aug. 8, 2005, [119 Stat. 814][/us/stat/119/814].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400AA, as added [Pub. L. 100–494][/us/pl/100/494], § 4(a), Oct. 14, 1988, [102 Stat. 2442][/us/stat/102/2442]; amended [Pub. L. 102–486, title III][/us/pl/102/486/tIII], §§ 302(a), 309, Oct. 24, 1992, [106 Stat. 2868][/us/stat/106/2868], 2874; [Pub. L. 104–66, title I][/us/pl/104/66/tI], §§ 1051(a), 1052(e), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716], 718; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(14), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(h), June 25, 1999, [113 Stat. 134][/us/stat/113/134]; [Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 701, Aug. 8, 2005, [119 Stat. 814][/us/stat/119/814].)
 
  __References in Text__ 
 
-    Paragraphs (7) and (8) of [section 32901(a) of title 49][/us/usc/t49/s32901/a], referred to in subsec. (g)(4)(A), (5)(A), were redesignated (8) and (9), respectively, and a new par. (7) was enacted by [Pub. L. 110–140, title I, § 103(a)(2)][/us/pl/110/140/s103/a/2], (3), Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501].
+    Paragraphs (7) and (8) of [section 32901(a) of title 49][/us/usc/t49/s32901/a], referred to in subsec. (g)(4)(A), (5)(A), were redesignated (8) and (9), respectively, and a new par. (7) was enacted by [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 103(a)(2), (3), Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501].
 
  __Codification__ 
 
-    In subsec. (g)(4)(A), (5)(A), “[section 32901(a)(7) of title 49][/us/usc/t49/s32901/a/7]” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information Cost Savings Act” and “[section 32901(a)(8) of title 49][/us/usc/t49/s32901/a/8]” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act”, respectively, on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (g)(4)(A), (5)(A), “[section 32901(a)(7) of title 49][/us/usc/t49/s32901/a/7]” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information Cost Savings Act” and “[section 32901(a)(8) of title 49][/us/usc/t49/s32901/a/8]” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act”, respectively, on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
@@ -169,25 +169,25 @@
 
     1998—Subsecs. (h), (i). [Pub. L. 105–388][/us/pl/105/388] redesignated subsec. (i) as (h).
 
-    1995—Subsec. (b)(1)(B). [Pub. L. 104–66, § 1052(e)][/us/pl/104/66/s1052/e], struck out before period at end “, and annually thereafter”.
+    1995—Subsec. (b)(1)(B). [Pub. L. 104–66][/us/pl/104/66], § 1052(e), struck out before period at end “, and annually thereafter”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 104–66, § 1051(a)][/us/pl/104/66/s1051/a], redesignated par. (5) as (3) and struck out former par. (3) which directed Secretary to conduct study of heavy duty vehicles acquired under Department of Energy program and report results to Congress and par. (4) which directed Secretary to conduct study of advisability of heavy duty vehicle disposal and report results to Congress.
+    Subsec. (b)(3) to (5). [Pub. L. 104–66][/us/pl/104/66], § 1051(a), redesignated par. (5) as (3) and struck out former par. (3) which directed Secretary to conduct study of heavy duty vehicles acquired under Department of Energy program and report results to Congress and par. (4) which directed Secretary to conduct study of advisability of heavy duty vehicle disposal and report results to Congress.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–486, § 302(a)(1)][/us/pl/102/486/s302/a/1], substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under [section 13212 of this title][/us/usc/t42/s13212].” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
+    1992—Subsec. (a)(1). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under [section 13212 of this title][/us/usc/t42/s13212].” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
 
-    Subsec. (a)(3). [Pub. L. 102–486, § 302(a)(2)][/us/pl/102/486/s302/a/2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
+    Subsec. (a)(3). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
 
-    Subsec. (a)(4). [Pub. L. 102–486, § 302(a)(3)][/us/pl/102/486/s302/a/3], added par. (4).
+    Subsec. (a)(4). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(3), added par. (4).
 
-    Subsec. (b)(1)(A). [Pub. L. 102–486, § 309][/us/pl/102/486/s309], substituted “a representative sample of alternative fueled vehicles in Federal fleets” for “the vehicles acquired under subsection (a) of this section”.
+    Subsec. (b)(1)(A). [Pub. L. 102–486][/us/pl/102/486], § 309, substituted “a representative sample of alternative fueled vehicles in Federal fleets” for “the vehicles acquired under subsection (a) of this section”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 102–486, § 302(a)(4)][/us/pl/102/486/s302/a/4], added pars. (3) to (5).
+    Subsec. (b)(3) to (5). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(4), added pars. (3) to (5).
 
-    Subsec. (c). [Pub. L. 102–486, § 302(a)(5)][/us/pl/102/486/s302/a/5], in introductory provisions substituted “alternative fuels, such fuels” for “alcohol or natural gas, alcohol or natural gas” and in par. (1) substituted “alternative fuel” for “alcohol or natural gas”.
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(5), in introductory provisions substituted “alternative fuels, such fuels” for “alcohol or natural gas, alcohol or natural gas” and in par. (1) substituted “alternative fuel” for “alcohol or natural gas”.
 
-    Subsec. (d)(2)(B). [Pub. L. 102–486, § 302(a)(6)][/us/pl/102/486/s302/a/6], substituted “To the extent that appropriations are available for such purposes, the Secretary” for “The Secretary”.
+    Subsec. (d)(2)(B). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(6), substituted “To the extent that appropriations are available for such purposes, the Secretary” for “The Secretary”.
 
-    Subsec. (g)(2) to (6). [Pub. L. 102–486, § 302(a)(7)][/us/pl/102/486/s302/a/7], added pars. (2) to (6) and struck out former pars. (2) to (6) which read as follows:
+    Subsec. (g)(2) to (6). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(7), added pars. (2) to (6) and struck out former pars. (2) to (6) which read as follows:
 
     “(2) the term ‘alcohol’ means a mixture containing 85 percent or more by volume methanol, ethanol, or other alcohols, in any combination;
 
@@ -199,7 +199,7 @@
 
     “(6) the term ‘natural gas powered vehicle’ means a vehicle designed to operate exclusively on natural gas.”
 
-    Subsec. (i)(1). [Pub. L. 102–486, § 302(a)(8)][/us/pl/102/486/s302/a/8], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of this section, there are authorized to be appropriated for the fiscal year ending September 30, 1990, $5,000,000, for the fiscal year ending September 30, 1991, $3,000,000, for the fiscal year ending September 30, 1992, $2,000,000, and for the fiscal year ending September 30, 1993, $2,000,000.”
+    Subsec. (i)(1). [Pub. L. 102–486][/us/pl/102/486], § 302(a)(8), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of this section, there are authorized to be appropriated for the fiscal year ending September 30, 1990, $5,000,000, for the fiscal year ending September 30, 1991, $3,000,000, for the fiscal year ending September 30, 1992, $2,000,000, and for the fiscal year ending September 30, 1993, $2,000,000.”
 
  __Change of Name__ 
 
@@ -209,11 +209,11 @@
 
  __Termination Date__ 
 
-    [Pub. L. 100–494, § 4(b)][/us/pl/100/494/s4/b], Oct. 14, 1988, [102 Stat. 2448][/us/stat/102/2448], which provided that this section and the amendments made by this section (enacting this part) were to cease to be effective after Sept. 30, 1997, was repealed by [Pub. L. 102–486, title III, § 302(b)][/us/pl/102/486/s302/b], Oct. 24, 1992, [106 Stat. 2871][/us/stat/106/2871].
+    [Pub. L. 100–494][/us/pl/100/494], § 4(b), Oct. 14, 1988, [102 Stat. 2448][/us/stat/102/2448], which provided that this section and the amendments made by this section (enacting this part) were to cease to be effective after Sept. 30, 1997, was repealed by [Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 302(b), Oct. 24, 1992, [106 Stat. 2871][/us/stat/106/2871].
 
  __Findings__ 
 
-[Pub. L. 100–494, § 2][/us/pl/100/494/s2], Oct. 14, 1988, [102 Stat. 2441][/us/stat/102/2441], provided that: 
+[Pub. L. 100–494][/us/pl/100/494], § 2, Oct. 14, 1988, [102 Stat. 2441][/us/stat/102/2441], provided that: 
 
 > “The Congress finds and declares that—
 
@@ -237,7 +237,7 @@
 
  __Purpose__ 
 
-[Pub. L. 100–494, § 3][/us/pl/100/494/s3], Oct. 14, 1988, [102 Stat. 2442][/us/stat/102/2442], provided that: 
+[Pub. L. 100–494][/us/pl/100/494], § 3, Oct. 14, 1988, [102 Stat. 2442][/us/stat/102/2442], provided that: 
 
 > “The purpose of this Act \[see Short Title of 1988 Amendment note set out under [section 6201 of this title][/us/usc/t42/s6201]\] is to encourage—
 
@@ -247,7 +247,7 @@
 
  __Use of Nonstandard Fuels__ 
 
-[Pub. L. 100–494, § 5][/us/pl/100/494/s5], Oct. 14, 1988, [102 Stat. 2448][/us/stat/102/2448], provided that: 
+[Pub. L. 100–494][/us/pl/100/494], § 5, Oct. 14, 1988, [102 Stat. 2448][/us/stat/102/2448], provided that: 
 
 > “No guaranty or warranty with respect to any passenger automobile or light-duty truck acquired by the United States after October 1, 1989, shall be voided or reduced in effect by reason of the operation of such vehicle with any fuel for which a currently effective waiver, which includes a limitation regarding Reid vapor pressure with respect to such fuel, has been issued by the Administrator of the Environmental Protection Agency under section 211(f) of the Clean Air Act ([42 U.S.C. 7545(f)][/us/usc/t42/s7545/f]).”
 
@@ -262,54 +262,54 @@
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
 [/us/usc/t42/s13211/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13211%2F7
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
-[/us/pl/94/163/s400AA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400AA
-[/us/pl/100/494/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs4%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2442
-[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2868
-[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
-[/us/pl/105/388/s5/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F14
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
-[/us/pl/106/36/s1002/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fh
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F134
-[/us/pl/109/58/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs701
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F814
 [/us/usc/t49/s32901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa
-[/us/pl/110/140/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F2
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1501
 [/us/usc/t49/s32901/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa%2F7
 [/us/usc/t49/s32901/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa%2F8
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
-[/us/pl/104/66/s1052/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fe
-[/us/pl/104/66/s1051/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fa
-[/us/pl/102/486/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F1
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13212
-[/us/pl/102/486/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F2
-[/us/pl/102/486/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F3
-[/us/pl/102/486/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs309
-[/us/pl/102/486/s302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F4
-[/us/pl/102/486/s302/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F5
-[/us/pl/102/486/s302/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F6
-[/us/pl/102/486/s302/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F7
-[/us/pl/102/486/s302/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fa%2F8
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/100/494/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs4%2Fb
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2448
-[/us/pl/102/486/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs302%2Fb
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2871
-[/us/pl/100/494/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs2
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2441
-[/us/pl/100/494/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs3
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2442
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
-[/us/pl/100/494/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs5
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2448
 [/us/usc/t42/s7545/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545%2Ff
 

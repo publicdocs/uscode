@@ -41,7 +41,7 @@
 
             (B) sections 8, 9, 13 through 17, 20, and 21 of the Natural Gas Act \[[15 U.S.C. 717g][/us/usc/t15/s717g], 717h, 717l to 717p, 717s, 717t\].
 
-    (b) __Repealed.__  __[__  __Pub. L. 103–272, § 7(b)__  __][/us/pl/103/272/s7/b]__  __,__  __July 5, 1994__  __,__  __[__  __108 Stat. 1379__  __][/us/stat/108/1379]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 103–272__  __][/us/pl/103/272]__  __, § 7(b),__  __July 5, 1994__  __,__  __[__  __108 Stat. 1379__  __][/us/stat/108/1379]__ 
 
     (c) __Consideration of proposals made by Secretary to amend regulations issued under__  __[__  __section 753 of title 15__  __][/us/usc/t15/s753]__  __; exception__ 
 
@@ -75,7 +75,7 @@
 
         The Commission is authorized to prescribe rules, regulations, and statements of policy of general applicability with respect to any function under the jurisdiction of the Commission pursuant to this section.
 
-([Pub. L. 95–91, title IV, § 402][/us/pl/95/91/s402], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].)
+([Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402, Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
     Sections 753, 757, and 760a of title 15, referred to in subsec. (c), were omitted from the Code pursuant to [section 760g of Title 15][/us/usc/t15/s760g], which provided for the expiration of the President’s authority under those sections on Sept. 30, 1981.
 
-    [Section 6214 of this title][/us/usc/t42/s6214], referred to in subsec. (d), was repealed by [Pub. L. 106–469, title I, § 103(3)][/us/pl/106/469/s103/3], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].
+    [Section 6214 of this title][/us/usc/t42/s6214], referred to in subsec. (d), was repealed by [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(3), Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].
 
  __Amendments__ 
 
@@ -93,7 +93,7 @@
 
  __Oil Pipeline Regulatory Reform__ 
 
-[Pub. L. 102–486, title XVIII][/us/pl/102/486], Oct. 24, 1992, [106 Stat. 3010][/us/stat/106/3010], provided that:
+[Pub. L. 102–486, title XVIII][/us/pl/102/486/tXVIII], Oct. 24, 1992, [106 Stat. 3010][/us/stat/106/3010], provided that:
 
 > “SEC. 1801. __OIL PIPELINE RATEMAKING METHODOLOGY.__ 
 
@@ -224,7 +224,7 @@
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t16/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797
 [/us/usc/t15/s717g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717g
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/usc/t15/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs753
 [/us/usc/t42/s7174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7174
@@ -234,9 +234,9 @@
 [/us/usc/t42/s7174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7174
 [/us/usc/t42/s7174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7174
 [/us/usc/t5/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs704
-[/us/pl/95/91/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
@@ -246,11 +246,11 @@
 [/us/usc/t15/s717w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717w
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
 [/us/usc/t42/s6214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6214
-[/us/pl/106/469/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F3
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s60502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60502
-[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVIII
 [/us/stat/106/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3010
 [/us/usc/t49/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1%2F5
 [/us/usc/t49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1

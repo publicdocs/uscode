@@ -27,7 +27,7 @@
 
         In carrying out this section, the Secretary shall apply to State plans (or waivers) under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] the regulations promulgated pursuant to section 1886(d)(4)(D) of such Act ([42 U.S.C. 1395ww(d)(4)(D)][/us/usc/t42/s1395ww/d/4/D]) relating to the prohibition of payments based on the presence of a secondary diagnosis code specified by the Secretary in such regulations, as appropriate for the Medicaid program. The Secretary may exclude certain conditions identified under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for non-payment under title XIX of such Act when the Secretary finds the inclusion of such conditions to be inapplicable to beneficiaries under title XIX.
 
-([Pub. L. 111–148, title II, § 2702][/us/pl/111/148/s2702], Mar. 23, 2010, [124 Stat. 318][/us/stat/124/318].)
+([Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2702, Mar. 23, 2010, [124 Stat. 318][/us/stat/124/318].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395ww/d/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F4%2FD
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/111/148/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2702
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F318
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

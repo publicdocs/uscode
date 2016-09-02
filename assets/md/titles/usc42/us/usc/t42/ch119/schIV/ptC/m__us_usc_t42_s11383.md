@@ -105,7 +105,7 @@
 
         Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.
 
-([Pub. L. 100–77, title IV, § 423][/us/pl/100/77/s423], as added [Pub. L. 111–22, div. B, title III, § 1302][/us/pl/111/22/s1302], May 20, 2009, [123 Stat. 1684][/us/stat/123/1684]; amended [Pub. L. 114–94, div. G, title LXXIX, § 79001][/us/pl/114/94/s79001], Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 423, as added [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1302, May 20, 2009, [123 Stat. 1684][/us/stat/123/1684]; amended [Pub. L. 114–94, div. G, title LXXIX][/us/pl/114/94/dG/tLXXIX], § 79001, Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
 
  __References in Text__ 
 
@@ -113,9 +113,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 11383, [Pub. L. 100–77, title IV, § 423][/us/pl/100/77/s423], as added [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4015][/us/stat/106/4015]; amended [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 226\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–30; [Pub. L. 109–162, title VI, § 605(1)][/us/pl/109/162/s605/1], Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271, § 5(b)][/us/pl/109/271/s5/b], Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759], which related to eligible activities, was repealed by [Pub. L. 111–22, div. B, title III, § 1302][/us/pl/111/22/s1302], May 20, 2009, [123 Stat. 1684][/us/stat/123/1684].
+    A prior section 11383, [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 423, as added [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4015][/us/stat/106/4015]; amended [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 226\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–30; [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 605(1), Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271][/us/pl/109/271], § 5(b), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759], which related to eligible activities, was repealed by [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1302, May 20, 2009, [123 Stat. 1684][/us/stat/123/1684].
 
-    Another prior section 11383, [Pub. L. 100–77, title IV, § 423][/us/pl/100/77/s423], July 22, 1987, [101 Stat. 501][/us/stat/101/501]; [Pub. L. 100–628, title IV][/us/pl/100/628], §§ 441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, [102 Stat. 3233][/us/stat/102/3233], 3234; [Pub. L. 101–625, title VIII, § 833(c)][/us/pl/101/625/s833/c]–(e), (g), Nov. 28, 1990, [104 Stat. 4362][/us/stat/104/4362], 4363, which outlined types of assistance provided under the supportive housing demonstration program, was repealed by [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
+    Another prior section 11383, [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 423, July 22, 1987, [101 Stat. 501][/us/stat/101/501]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], §§ 441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, [102 Stat. 3233][/us/stat/102/3233], 3234; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 833(c)–(e), (g), Nov. 28, 1990, [104 Stat. 4362][/us/stat/104/4362], 4363, which outlined types of assistance provided under the supportive housing demonstration program, was repealed by [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
 
  __Amendments__ 
 
@@ -146,32 +146,32 @@
 [/us/usc/t42/s11382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11382
 [/us/usc/t26/s42/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fg
 [/us/usc/t42/s11386b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11386b
-[/us/pl/100/77/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs423
-[/us/pl/111/22/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1302
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1684
-[/us/pl/114/94/s79001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs79001
+[/us/pl/114/94/dG/tLXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXIX
 [/us/stat/129/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1792
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
-[/us/pl/100/77/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs423
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4015
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/109/162/s605/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs605%2F1
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3041
-[/us/pl/109/271/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Fb
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F759
-[/us/pl/111/22/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1302
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1684
-[/us/pl/100/77/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs423
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F501
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3233
-[/us/pl/101/625/s833/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs833%2Fc
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4362
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4013
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503

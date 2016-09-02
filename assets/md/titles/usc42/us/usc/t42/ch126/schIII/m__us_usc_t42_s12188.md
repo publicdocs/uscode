@@ -85,7 +85,7 @@
 
             In a civil action under paragraph (1)(B), the court, when considering what amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this chapter by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.
 
-([Pub. L. 101–336, title III, § 308][/us/pl/101/336/s308], July 26, 1990, [104 Stat. 363][/us/stat/104/363].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 308, July 26, 1990, [104 Stat. 363][/us/stat/104/363].)
 
  __References in Text__ 
 
@@ -108,7 +108,7 @@
 
 [/us/usc/t42/s2000a–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a%E2%80%933%2Fa
 [/us/usc/t42/s12183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12183
-[/us/pl/101/336/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs308
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F363
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

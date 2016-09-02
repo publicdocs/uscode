@@ -133,7 +133,51 @@
 
         (1) __Regulated lending institutions__ 
 
-            Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[[42 U.S.C. 4001][/us/usc/t42/s4001] et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+            (A) __Federal entities responsible for lending regulations__ 
+
+                Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (B), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.
+
+            (B) __Limitation__ 
+
+            Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lending institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A)—
+
+                (i)
+
+                 if—
+
+                    (I) the regulated lending institution has total assets of less than $1,000,000,000; and
+
+                    (II)
+
+                     on or before July 6, 2012, the regulated lending institution—
+
+                        (aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and
+
+                        (bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or
+
+                (ii)
+
+                 in the case of a loan that—
+
+                    (I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
+
+                    (II)
+
+                     is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
+
+                        (aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
+
+                        (bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and
+
+                        (cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;
+
+                    (III) is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;
+
+                    (IV) is a home equity line of credit;
+
+                    (V) is a nonperforming loan; or
+
+                    (VI) has a term of not longer than 12 months.
 
         (2) __Federal agency lenders__ 
 
@@ -283,59 +327,13 @@
 
             The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
 
-([Pub. L. 93–234, title I, § 102][/us/pl/93/234/s102], Dec. 31, 1973, [87 Stat. 978][/us/stat/87/978]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325], §§ 522–526, 531, 582(c), Sept. 23, 1994, [108 Stat. 2257–2262][/us/stat/108/2257-2262], 2267, 2287; [Pub. L. 110–289, div. A, title I, § 1161(e)][/us/pl/110/289/s1161/e], July 30, 2008, [122 Stat. 2780][/us/stat/122/2780]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, [126 Stat. 919][/us/stat/126/919], 920, 958, 966; [Pub. L. 112–281, § 1][/us/pl/112/281/s1], Jan. 14, 2013, [126 Stat. 2485][/us/stat/126/2485]; [Pub. L. 113–89][/us/pl/113/89], §§ 13(a), 25(a), Mar. 21, 2014, [128 Stat. 1026][/us/stat/128/1026], 1030.)
-
- __Amendment of Subsection (d)(1)__ 
-
-    [Pub. L. 112–141, div. F, title II, § 100209(a)][/us/pl/112/141/s100209/a], July 6, 2012, [126 Stat. 920][/us/stat/126/920]; [Pub. L. 112–281, § 1][/us/pl/112/281/s1], Jan. 14, 2013, [126 Stat. 2485][/us/stat/126/2485]; [Pub. L. 113–89, § 25(a)][/us/pl/113/89/s25/a], (b)(1), Mar. 21, 2014, [128 Stat. 1030][/us/stat/128/1030], provided that, applicable to any loan that is originated, refinanced, increased, extended, or renewed on or after Jan. 1, 2016, with provision for optional applicability, subsection (d)(1) of this section is amended to read as follows:
-
-    (1) Regulated lending institutions
-
-    (A) Federal entities responsible for lending regulations
-
-    Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (B), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.
-
-    (B) Limitation
-
-    Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lending institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A)—
-
-    (i) if—
-
-    (I) the regulated lending institution has total assets of less than $1,000,000,000; and
-
-    (II) on or before July 6, 2012, the regulated lending institution—
-
-    (aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and
-
-    (bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or
-
-    (ii) in the case of a loan that—
-
-    (I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
-
-    (II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
-
-    (aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
-
-    (bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and
-
-    (cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;
-
-    (III) is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;
-
-    (IV) is a home equity line of credit;
-
-    (V) is a nonperforming loan; or
-
-    (VI) has a term of not longer than 12 months.
-
-    See 2012, 2013, and 2014 Amendment notes below.
+([Pub. L. 93–234, title I][/us/pl/93/234/tI], § 102, Dec. 31, 1973, [87 Stat. 978][/us/stat/87/978]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], §§ 522–526, 531, 582(c), Sept. 23, 1994, [108 Stat. 2257–2262][/us/stat/108/2257-2262], 2267, 2287; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1161(e), July 30, 2008, [122 Stat. 2780][/us/stat/122/2780]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, [126 Stat. 919][/us/stat/126/919], 920, 958, 966; [Pub. L. 112–281][/us/pl/112/281], § 1, Jan. 14, 2013, [126 Stat. 2485][/us/stat/126/2485]; [Pub. L. 113–89][/us/pl/113/89], §§ 13(a), 25(a), Mar. 21, 2014, [128 Stat. 1026][/us/stat/128/1026], 1030.)
 
  __References in Text__ 
 
     The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], as amended, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
-    The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, [Pub. L. 95–630, title X][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694], which is classified principally to chapter 34 (§ 3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of Title 12][/us/usc/t12/s3301] and Tables.
+    The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, [Pub. L. 95–630, title X][/us/pl/95/630/tX], Nov. 10, 1978, [92 Stat. 3694][/us/stat/92/3694], which is classified principally to chapter 34 (§ 3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of Title 12][/us/usc/t12/s3301] and Tables.
 
     [Section 522(a) of Public Law 103–325][/us/pl/103/325/s522/a], referred to in subsec. (b)(4)(C), was in original “section 522(a) of such Act”, which generally amended subsec. (b) of this section.
 
@@ -347,59 +345,59 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(3). [Pub. L. 113–89, § 13(a)][/us/pl/113/89/s13/a], added par. (3).
+    2014—Subsec. (c)(3). [Pub. L. 113–89][/us/pl/113/89], § 13(a), added par. (3).
 
-    Subsec. (d)(1)(A). [Pub. L. 113–89, § 25(a)(1)][/us/pl/113/89/s25/a/1], substituted “subparagraph (B)” for “subparagraph (C)”.
+    Subsec. (d)(1)(A). [Pub. L. 113–89][/us/pl/113/89], § 25(a)(1), substituted “subparagraph (B)” for “subparagraph (C)”.
 
-    Subsec. (d)(1)(B). [Pub. L. 113–89, § 25(a)(2)][/us/pl/113/89/s25/a/2], substituted “under subparagraph (A)—” for “under subparagraph (A) or (B), if—” in introductory provisions, designated existing provisions as cl. (i) and inserted “if—” after cl. (i) designation, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (II), and added cl. (ii).
+    Subsec. (d)(1)(B). [Pub. L. 113–89][/us/pl/113/89], § 25(a)(2), substituted “under subparagraph (A)—” for “under subparagraph (A) or (B), if—” in introductory provisions, designated existing provisions as cl. (i) and inserted “if—” after cl. (i) designation, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (II), and added cl. (ii).
 
     2013—Subsec. (d)(1)(A). [Pub. L. 112–281][/us/pl/112/281] inserted “residential” before “improved real estate” in two places.
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b)(1). [Pub. L. 112–141, § 100239(a)(1)][/us/pl/112/141/s100239/a/1], substituted “; and” for period at end, substituted “institutions—” for “institutions”, inserted subpar. (A) designation before “not to make”, and added subpar. (B).
+    Subsec. (b)(1). [Pub. L. 112–141][/us/pl/112/141], § 100239(a)(1), substituted “; and” for period at end, substituted “institutions—” for “institutions”, inserted subpar. (A) designation before “not to make”, and added subpar. (B).
 
-    [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director”.
+    [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b)(2). [Pub. L. 112–141, § 100239(a)(2)][/us/pl/112/141/s100239/a/2], substituted “paragraph (1)(A)” for “paragraph (1)” in two places and inserted “Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence.” after first sentence.
+    Subsec. (b)(2). [Pub. L. 112–141][/us/pl/112/141], § 100239(a)(2), substituted “paragraph (1)(A)” for “paragraph (1)” in two places and inserted “Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence.” after first sentence.
 
-    [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director”.
+    [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b)(3). [Pub. L. 112–141, § 100239(a)(3)][/us/pl/112/141/s100239/a/3], substituted “paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance.” for “paragraph (1).” in concluding provisions.
+    Subsec. (b)(3). [Pub. L. 112–141][/us/pl/112/141], § 100239(a)(3), substituted “paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance.” for “paragraph (1).” in concluding provisions.
 
-    Subsec. (b)(3)(A). [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director”.
+    Subsec. (b)(3)(A). [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b)(5) to (7). [Pub. L. 112–141, § 100239(a)(4)][/us/pl/112/141/s100239/a/4], added pars. (5) to (7).
+    Subsec. (b)(5) to (7). [Pub. L. 112–141][/us/pl/112/141], § 100239(a)(4), added pars. (5) to (7).
 
-    Subsec. (c)(1). [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director” in two places.
+    Subsec. (c)(1). [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director” in two places.
 
-    Subsec. (d)(1). [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director”.
+    Subsec. (d)(1). [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director”.
 
-    [Pub. L. 112–141, § 100209(a)][/us/pl/112/141/s100209/a], amended par. (1) generally. Prior to amendment, text read as follows: “Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.”
+    [Pub. L. 112–141][/us/pl/112/141], § 100209(a), amended par. (1) generally. Prior to amendment, text read as follows: “Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.”
 
-    Subsec. (e)(1). [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director”.
+    Subsec. (e)(1). [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (e)(2). [Pub. L. 112–141, § 100244(a)(1)][/us/pl/112/141/s100244/a/1], substituted “purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount” for “purchasing the insurance”.
+    Subsec. (e)(2). [Pub. L. 112–141][/us/pl/112/141], § 100244(a)(1), substituted “purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount” for “purchasing the insurance”.
 
-    Subsec. (e)(3). [Pub. L. 112–141, § 100244(a)(3)][/us/pl/112/141/s100244/a/3], added par. (3). Former par. (3) redesignated (5).
+    Subsec. (e)(3). [Pub. L. 112–141][/us/pl/112/141], § 100244(a)(3), added par. (3). Former par. (3) redesignated (5).
 
-    Subsec. (e)(3). [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director” wherever appearing.
+    Subsec. (e)(3). [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director” wherever appearing.
 
-    Subsec. (e)(4) to (6). [Pub. L. 112–141, § 100244(a)(2)][/us/pl/112/141/s100244/a/2], (3), added par. (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+    Subsec. (e)(4) to (6). [Pub. L. 112–141][/us/pl/112/141], § 100244(a)(2), (3), added par. (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
-    Subsec. (f)(5). [Pub. L. 112–141, § 100208][/us/pl/112/141/s100208], substituted “$2,000” for “$350” and struck out at end “The total amount of penalties assessed under this subsection against any single regulated lending institution or enterprise during any calendar year may not exceed $100,000.”
+    Subsec. (f)(5). [Pub. L. 112–141][/us/pl/112/141], § 100208, substituted “$2,000” for “$350” and struck out at end “The total amount of penalties assessed under this subsection against any single regulated lending institution or enterprise during any calendar year may not exceed $100,000.”
 
-    Subsec. (h)(1)(B). [Pub. L. 112–141, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], substituted “Administrator” for “Director”.
+    Subsec. (h)(1)(B). [Pub. L. 112–141][/us/pl/112/141], § 100238(a)(1), substituted “Administrator” for “Director”.
 
     2008—Subsec. (f)(3)(A). [Pub. L. 110–289][/us/pl/110/289] substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
-    1994—[Pub. L. 103–325, § 531][/us/pl/103/325/s531], substituted section catchline for former section catchline.
+    1994—[Pub. L. 103–325][/us/pl/103/325], § 531, substituted section catchline for former section catchline.
 
-    Subsec. (a). [Pub. L. 103–325, § 582(c)][/us/pl/103/325/s582/c], struck out “, during the anticipated economic or useful life of the project,” before “covered by flood insurance” and inserted at end “The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
+    Subsec. (a). [Pub. L. 103–325][/us/pl/103/325], § 582(c), struck out “, during the anticipated economic or useful life of the project,” before “covered by flood insurance” and inserted at end “The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
 
-    Subsec. (b). [Pub. L. 103–325, § 522(a)][/us/pl/103/325/s522/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to the maximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
+    Subsec. (b). [Pub. L. 103–325][/us/pl/103/325], § 522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to the maximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
 
-    Subsec. (c). [Pub. L. 103–325, § 522(b)][/us/pl/103/325/s522/b], inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+    Subsec. (c). [Pub. L. 103–325][/us/pl/103/325], § 522(b), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
     Subsecs. (d) to (h). [Pub. L. 103–325][/us/pl/103/325], §§ 523–526, added subsecs. (d) to (h).
 
@@ -407,7 +405,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–89, § 25(b)(1)][/us/pl/113/89/s25/b/1], Mar. 21, 2014, [128 Stat. 1031][/us/stat/128/1031], provided that:
+[Pub. L. 113–89][/us/pl/113/89], § 25(b)(1), Mar. 21, 2014, [128 Stat. 1031][/us/stat/128/1031], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -447,7 +445,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-    [Pub. L. 112–141, div. F, title II, § 100209(b)][/us/pl/112/141/s100209/b], July 6, 2012, [126 Stat. 920][/us/stat/126/920], which provided that the amendment made to this section by [section 100209(a) of Pub. L. 112–141][/us/pl/112/141/s100209/a] would apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, was repealed by [Pub. L. 113–89, § 25(b)(2)][/us/pl/113/89/s25/b/2], Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032]. For effective date of amendment by [section 100209(a) of Pub. L. 112–141][/us/pl/112/141/s100209/a], see Effective Date of 2014 Amendment note above.
+    [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100209(b), July 6, 2012, [126 Stat. 920][/us/stat/126/920], which provided that the amendment made to this section by [section 100209(a) of Pub. L. 112–141][/us/pl/112/141/s100209/a] would apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, was repealed by [Pub. L. 113–89][/us/pl/113/89], § 25(b)(2), Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032]. For effective date of amendment by [section 100209(a) of Pub. L. 112–141][/us/pl/112/141/s100209/a], see Effective Date of 2014 Amendment note above.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -455,7 +453,7 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 113–89, § 25(b)(3)][/us/pl/113/89/s25/b/3], Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032], provided that: 
+[Pub. L. 113–89][/us/pl/113/89], § 25(b)(3), Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032], provided that: 
 
 > “Nothing in this section \[amending this section and enacting and repealing provisions set out as notes under this section\] or the amendments made by this section shall be construed to supersede, during the period beginning on July 6, 2012 and ending on December 31, 2015, the requirements under section 102(d)(1) of the Flood Disaster Protection Act of 1973 ([42 U.S.C. 4012a(d)(1)][/us/usc/t42/s4012a/d/1]), as in effect on July 5, 2012.”
 
@@ -467,7 +465,7 @@
 
  __Treatment of Floodproofed Residential Basements__ 
 
-[Pub. L. 113–89, § 21][/us/pl/113/89/s21], Mar. 21, 2014, [128 Stat. 1028][/us/stat/128/1028], provided that: 
+[Pub. L. 113–89][/us/pl/113/89], § 21, Mar. 21, 2014, [128 Stat. 1028][/us/stat/128/1028], provided that: 
 
 > “The Administrator \[of the Federal Emergency Management Agency\] shall continue to extend exceptions and variances for flood-proofed basements consistent with section 60.6 of title 44, Code of Federal Regulations, which are effective April 3, 2009; and section 60.3 of such title, which are effective April 3, 2009.”
 
@@ -482,7 +480,6 @@
 [/us/usc/t12/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3301
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/103/325/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs522%2Fa
-[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t12/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2609
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t42/s4104a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104a
@@ -490,66 +487,60 @@
 [/us/usc/t42/s4104a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104a
 [/us/usc/t42/s4101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101%2Ff
 [/us/usc/t42/s4101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101%2Fh
-[/us/pl/93/234/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs102
+[/us/pl/93/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtI
 [/us/stat/87/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F978
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2257-2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2257-2262
-[/us/pl/110/289/s1161/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fe
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2780
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F919
-[/us/pl/112/281/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F281%2Fs1
+[/us/pl/112/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F281
 [/us/stat/126/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2485
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1026
-[/us/pl/112/141/s100209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100209%2Fa
-[/us/stat/126/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F920
-[/us/pl/112/281/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F281%2Fs1
-[/us/stat/126/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2485
-[/us/pl/113/89/s25/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs25%2Fa
-[/us/stat/128/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1030
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtX
 [/us/stat/92/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3694
 [/us/usc/t12/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3301
 [/us/pl/103/325/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs522%2Fa
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F977
 [/us/usc/t42/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104
-[/us/pl/113/89/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs13%2Fa
-[/us/pl/113/89/s25/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs25%2Fa%2F1
-[/us/pl/113/89/s25/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs25%2Fa%2F2
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F281
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100239/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100239%2Fa%2F1
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100239/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100239%2Fa%2F2
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100239/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100239%2Fa%2F3
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100239/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100239%2Fa%2F4
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100209%2Fa
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100244%2Fa%2F1
-[/us/pl/112/141/s100244/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100244%2Fa%2F3
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
-[/us/pl/112/141/s100244/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100244%2Fa%2F2
-[/us/pl/112/141/s100208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100208
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/103/325/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs531
-[/us/pl/103/325/s582/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs582%2Fc
-[/us/pl/103/325/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs522%2Fa
-[/us/pl/103/325/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs522%2Fb
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/113/89/s25/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs25%2Fb%2F1
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1031
 [/us/usc/t42/s4012a/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fd%2F1
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -560,20 +551,20 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F920
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/112/141/s100209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100209%2Fb
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F920
 [/us/pl/112/141/s100209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100209%2Fa
-[/us/pl/113/89/s25/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs25%2Fb%2F2
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1032
 [/us/pl/112/141/s100209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100209%2Fa
 [/us/pl/103/325/s582/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs582%2Fc
 [/us/usc/t42/s5154a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5154a%2Fe
-[/us/pl/113/89/s25/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs25%2Fb%2F3
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1032
 [/us/usc/t42/s4012a/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fd%2F1
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/113/89/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs21
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1028
 
 

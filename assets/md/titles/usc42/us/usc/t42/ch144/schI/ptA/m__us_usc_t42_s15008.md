@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to preclude an entity funded under this subchapter from engaging in advocacy, capacity building, and systemic change activities for individuals with developmental disabilities that may also have a positive impact on individuals with other disabilities.
 
-([Pub. L. 106–402, title I, § 108][/us/pl/106/402/s108], Oct. 30, 2000, [114 Stat. 1692][/us/stat/114/1692].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 108, Oct. 30, 2000, [114 Stat. 1692][/us/stat/114/1692].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs108
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1692
 
 

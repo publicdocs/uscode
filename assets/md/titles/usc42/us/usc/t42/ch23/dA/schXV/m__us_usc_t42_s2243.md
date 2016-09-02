@@ -75,7 +75,7 @@
 
             (B) the maintenance of a reliable and economical domestic source of enrichment services.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 193, as added [Pub. L. 101–575, § 5(e)][/us/pl/101/575/s5/e], Nov. 15, 1990, [104 Stat. 2835][/us/stat/104/2835]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 104–134, title III, § 3116(b)(2)][/us/pl/104/134/s3116/b/2], Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 193, as added [Pub. L. 101–575][/us/pl/101/575], § 5(e), Nov. 15, 1990, [104 Stat. 2835][/us/stat/104/2835]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(b)(2), Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].)
 
  __References in Text__ 
 
@@ -99,11 +99,11 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/101/575/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs5%2Fe
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/stat/104/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2835
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/104/134/s3116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fb%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

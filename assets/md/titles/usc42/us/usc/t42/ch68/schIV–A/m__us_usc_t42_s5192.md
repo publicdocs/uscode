@@ -61,17 +61,17 @@
 
         The President shall promulgate and maintain guidelines to assist Governors in requesting the declaration of an emergency in advance of a natural or man-made disaster (including for the purpose of seeking assistance with special needs and other evacuation efforts) under this section by defining the types of assistance available to affected States and the circumstances under which such requests are likely to be approved.
 
-([Pub. L. 93–288, title V, § 502][/us/pl/93/288/s502], as added [Pub. L. 100–707, title I, § 107(a)][/us/pl/100/707/s107/a], Nov. 23, 1988, [102 Stat. 4706][/us/stat/102/4706]; amended [Pub. L. 106–390, title II, § 206(b)][/us/pl/106/390/s206/b], Oct. 30, 2000, [114 Stat. 1570][/us/stat/114/1570]; [Pub. L. 109–295, title VI, § 681(b)][/us/pl/109/295/s681/b], Oct. 4, 2006, [120 Stat. 1444][/us/stat/120/1444].)
+([Pub. L. 93–288, title V][/us/pl/93/288/tV], § 502, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 107(a), Nov. 23, 1988, [102 Stat. 4706][/us/stat/102/4706]; amended [Pub. L. 106–390, title II][/us/pl/106/390/tII], § 206(b), Oct. 30, 2000, [114 Stat. 1570][/us/stat/114/1570]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 681(b), Oct. 4, 2006, [120 Stat. 1444][/us/stat/120/1444].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–295, § 681(b)(1)(A)][/us/pl/109/295/s681/b/1/A], inserted “, including precautionary evacuations” before semicolon at end.
+    2006—Subsec. (a)(1). [Pub. L. 109–295][/us/pl/109/295], § 681(b)(1)(A), inserted “, including precautionary evacuations” before semicolon at end.
 
-    Subsec. (a)(8). [Pub. L. 109–295, § 681(b)(1)(B)][/us/pl/109/295/s681/b/1/B]–(D), added par. (8).
+    Subsec. (a)(8). [Pub. L. 109–295][/us/pl/109/295], § 681(b)(1)(B)–(D), added par. (8).
 
-    Subsec. (b). [Pub. L. 109–295, § 681(b)(2)][/us/pl/109/295/s681/b/2], inserted “, including precautionary evacuations” before period at end.
+    Subsec. (b). [Pub. L. 109–295][/us/pl/109/295], § 681(b)(2), inserted “, including precautionary evacuations” before period at end.
 
-    Subsec. (c). [Pub. L. 109–295, § 681(b)(3)][/us/pl/109/295/s681/b/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–295][/us/pl/109/295], § 681(b)(3), added subsec. (c).
 
     2000—Subsec. (a)(6). [Pub. L. 106–390][/us/pl/106/390] struck out “temporary housing” after “provide”.
 
@@ -88,17 +88,17 @@
 
 [/us/usc/t42/s5173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5173
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
-[/us/pl/93/288/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs502
-[/us/pl/100/707/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs107%2Fa
+[/us/pl/93/288/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4706
-[/us/pl/106/390/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs206%2Fb
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1570
-[/us/pl/109/295/s681/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fb
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1444
-[/us/pl/109/295/s681/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fb%2F1%2FA
-[/us/pl/109/295/s681/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fb%2F1%2FB
-[/us/pl/109/295/s681/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fb%2F2
-[/us/pl/109/295/s681/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fb%2F3
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
 [/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
 [/us/pl/106/390/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs206%2Fd

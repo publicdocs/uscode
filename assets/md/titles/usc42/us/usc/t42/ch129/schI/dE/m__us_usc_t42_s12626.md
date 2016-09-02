@@ -65,21 +65,21 @@
 
         The term “unit” means a unit of the Corps referred to in [section 12615(c) of this title][/us/usc/t42/s12615/c].
 
-([Pub. L. 101–610, title I, § 165][/us/pl/101/610/s165], formerly § 195O, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532]; renumbered § 166 and amended [Pub. L. 103–82, title I, § 104(b)][/us/pl/103/82/s104/b], (e)(2)(H), title IV, §§ 402(b)(2), 403(a)(4), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 919; [Pub. L. 105–244, title I, § 102(a)(13)(L)][/us/pl/105/244/s102/a/13/L], Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621]; renumbered § 165 and amended [Pub. L. 111–13, title I, § 1516][/us/pl/111/13/s1516], Apr. 21, 2009, [123 Stat. 1528][/us/stat/123/1528].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 165, formerly § 195O, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532]; renumbered § 166 and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(b), (e)(2)(H), title IV, §§ 402(b)(2), 403(a)(4), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 919; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(L), Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621]; renumbered § 165 and amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1516, Apr. 21, 2009, [123 Stat. 1528][/us/stat/123/1528].)
 
  __Codification__ 
 
-    Section was formerly classified to section 12653o of this title prior to renumbering by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b].
+    Section was formerly classified to section 12653o of this title prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 104(b).
 
  __Prior Provisions__ 
 
     A prior [section 165 of Pub. L. 101–610][/us/pl/101/610/s165] was classified to [section 12625 of this title][/us/usc/t42/s12625] prior to repeal by Pub. L. 111—13, title I, § 1515, Apr. 21, 2009, [123 Stat. 1528][/us/stat/123/1528], effective Oct. 1, 2009.
 
-    Another prior [section 165 of Pub. L. 101–610][/us/pl/101/610/s165] was classified to [section 12621 of this title][/us/usc/t42/s12621] prior to repeal by [Pub. L. 103–82, § 104(a)][/us/pl/103/82/s104/a].
+    Another prior [section 165 of Pub. L. 101–610][/us/pl/101/610/s165] was classified to [section 12621 of this title][/us/usc/t42/s12621] prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 104(a).
 
  __Amendments__ 
 
-    2009—Pars. (2) to (4). [Pub. L. 111–13, § 1516(2)(A)][/us/pl/111/13/s1516/2/A], (C), added pars. (2) to (4) and struck out former pars. (2) and (3) which read as follows:
+    2009—Pars. (2) to (4). [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(A), (C), added pars. (2) to (4) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) Corps.—The terms ‘Civilian Community Corps’ and ‘Corps’ mean the Civilian Community Corps required under [section 12615 of this title][/us/usc/t42/s12615] as part of the Civilian Community Corps Demonstration Program.
 
@@ -87,43 +87,43 @@
 
     Former par. (4) redesignated (5).
 
-    Par. (5). [Pub. L. 111–13, § 1516(2)(B)][/us/pl/111/13/s1516/2/B], (D), redesignated par. (4) as (5) and substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program”. Former par. (5) redesignated (6).
+    Par. (5). [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(B), (D), redesignated par. (4) as (5) and substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program”. Former par. (5) redesignated (6).
 
-    Par. (6). [Pub. L. 111–13, § 1516(2)(B)][/us/pl/111/13/s1516/2/B], (E), redesignated par. (5) as (6) and inserted “National” before “Civilian Community Corps”. Former par. (6) redesignated (7).
+    Par. (6). [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(B), (E), redesignated par. (5) as (6) and inserted “National” before “Civilian Community Corps”. Former par. (6) redesignated (7).
 
-    Par. (7). [Pub. L. 111–13, § 1516(2)(B)][/us/pl/111/13/s1516/2/B], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    Par. (7). [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    Par. (8). [Pub. L. 111–13, § 1516(2)(F)][/us/pl/111/13/s1516/2/F], which directed substitution of “The term ‘Program’ means the National Civilian Community Corps Program” for “ ‘The terms’ and all that follows through ‘Demonstration Program’ ”, was executed by making the substitution for “The terms ‘Civilian Community Corps Demonstration Program’ and ‘Program’ mean the Civilian Community Corps Demonstration Program” to reflect the probable intent of Congress.
+    Par. (8). [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(F), which directed substitution of “The term ‘Program’ means the National Civilian Community Corps Program” for “ ‘The terms’ and all that follows through ‘Demonstration Program’ ”, was executed by making the substitution for “The terms ‘Civilian Community Corps Demonstration Program’ and ‘Program’ mean the Civilian Community Corps Demonstration Program” to reflect the probable intent of Congress.
 
-    [Pub. L. 111–13, § 1516(2)(B)][/us/pl/111/13/s1516/2/B], redesignated par. (7) as (8). Former par. (8) redesignated (9).
+    [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-    Par. (9). [Pub. L. 111–13, § 1516(2)(G)][/us/pl/111/13/s1516/2/G], substituted “Service-learning” for “Service learning” in heading and “service-learning” for “service learning” in introductory provisions.
+    Par. (9). [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(G), substituted “Service-learning” for “Service learning” in heading and “service-learning” for “service learning” in introductory provisions.
 
-    [Pub. L. 111–13, § 1516(2)(A)][/us/pl/111/13/s1516/2/A], (B), redesignated par. (8) as (9) and struck out former par. (9). Text read as follows: “The term ‘superintendent’, with respect to a Corps camp, means the head of the camp under [section 12615(d) of this title][/us/usc/t42/s12615/d].”
+    [Pub. L. 111–13][/us/pl/111/13], § 1516(2)(A), (B), redesignated par. (8) as (9) and struck out former par. (9). Text read as follows: “The term ‘superintendent’, with respect to a Corps camp, means the head of the camp under [section 12615(d) of this title][/us/usc/t42/s12615/d].”
 
     1998—Par. (6). [Pub. L. 105–244][/us/pl/105/244] substituted “section 1001” for “section 1141(a)”.
 
-    1993—Par. (1). [Pub. L. 103–82, § 402(b)(2)][/us/pl/103/82/s402/b/2], substituted “Corporation” for “Commission on National and Community Service”.
+    1993—Par. (1). [Pub. L. 103–82][/us/pl/103/82], § 402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
 
-    Par. (2). [Pub. L. 103–82, § 104(e)(2)(H)(i)][/us/pl/103/82/s104/e/2/H/i], substituted “section 12615” for “section 12653d”.
+    Par. (2). [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(H)(i), substituted “section 12615” for “section 12653d”.
 
-    Par. (6). [Pub. L. 103–82, § 403(a)(4)][/us/pl/103/82/s403/a/4], which directed amendment of par. (6) of this section by striking par. (6) and redesignating par. (7) of this section as (6) was executed by redesignating par. (7) of this section as (6) and striking out former par. (6) which defined “Executive Director” as Executive Director of Commission on National and Community Service, to reflect the probable intent of Congress.
+    Par. (6). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(4), which directed amendment of par. (6) of this section by striking par. (6) and redesignating par. (7) of this section as (6) was executed by redesignating par. (7) of this section as (6) and striking out former par. (6) which defined “Executive Director” as Executive Director of Commission on National and Community Service, to reflect the probable intent of Congress.
 
-    Par. (7). [Pub. L. 103–82, § 403(a)(4)(B)][/us/pl/103/82/s403/a/4/B], which directed amendment of par. (6) of this section by redesignating par. (8) as (7) was executed by redesignating par. (8) of this section as (7), to reflect the probable intent of Congress. Former par. (7) redesignated (6).
+    Par. (7). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (8) as (7) was executed by redesignating par. (8) of this section as (7), to reflect the probable intent of Congress. Former par. (7) redesignated (6).
 
-    Par. (8). [Pub. L. 103–82, § 403(a)(4)(B)][/us/pl/103/82/s403/a/4/B], which directed amendment of par. (6) of this section by redesignating par. (9) as (8) was executed by redesignating par. (9) of this section as (8), to reflect the probable intent of Congress. Former par. (8) redesignated (7).
+    Par. (8). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (9) as (8) was executed by redesignating par. (9) of this section as (8), to reflect the probable intent of Congress. Former par. (8) redesignated (7).
 
-    [Pub. L. 103–82, § 104(e)(2)(H)(ii)][/us/pl/103/82/s104/e/2/H/ii], substituted “section 12612” for “section 12653a”.
+    [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(H)(ii), substituted “section 12612” for “section 12653a”.
 
-    Par. (9). [Pub. L. 103–82, § 403(a)(4)(B)][/us/pl/103/82/s403/a/4/B], which directed amendment of par. (6) of this section by redesignating par. (10) as (9) was executed by redesignating par. (10) of this section as (9), to reflect the probable intent of Congress. Former par. (9) redesignated (8).
+    Par. (9). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (10) as (9) was executed by redesignating par. (10) of this section as (9), to reflect the probable intent of Congress. Former par. (9) redesignated (8).
 
-    Par. (10). [Pub. L. 103–82, § 403(a)(4)(B)][/us/pl/103/82/s403/a/4/B], which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress. Former par. (10) redesignated (9).
+    Par. (10). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress. Former par. (10) redesignated (9).
 
-    [Pub. L. 103–82, § 104(e)(2)(H)(iii)][/us/pl/103/82/s104/e/2/H/iii], substituted “section 12615(d)” for “section 12653d(d)”.
+    [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(H)(iii), substituted “section 12615(d)” for “section 12653d(d)”.
 
-    Par. (11). [Pub. L. 103–82, § 403(a)(4)(B)][/us/pl/103/82/s403/a/4/B], which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress.
+    Par. (11). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress.
 
-    [Pub. L. 103–82, § 104(e)(2)(H)(iv)][/us/pl/103/82/s104/e/2/H/iv], substituted “section 12615(c)” for “section 12653d(c)”.
+    [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(H)(iv), substituted “section 12615(c)” for “section 12653d(c)”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -151,44 +151,44 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s12612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12612
 [/us/usc/t42/s12615/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12615%2Fc
-[/us/pl/101/610/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs165
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2532
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
-[/us/pl/105/244/s102/a/13/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FL
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1621
-[/us/pl/111/13/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1528
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs165
 [/us/usc/t42/s12625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12625
 [/us/stat/123/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1528
 [/us/pl/101/610/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs165
 [/us/usc/t42/s12621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12621
-[/us/pl/103/82/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fa
-[/us/pl/111/13/s1516/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FA
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12615
-[/us/pl/111/13/s1516/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FB
-[/us/pl/111/13/s1516/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FB
-[/us/pl/111/13/s1516/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FB
-[/us/pl/111/13/s1516/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FF
-[/us/pl/111/13/s1516/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FB
-[/us/pl/111/13/s1516/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FG
-[/us/pl/111/13/s1516/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1516%2F2%2FA
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12615/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12615%2Fd
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/103/82/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs402%2Fb%2F2
-[/us/pl/103/82/s104/e/2/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FH%2Fi
-[/us/pl/103/82/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F4
-[/us/pl/103/82/s403/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F4%2FB
-[/us/pl/103/82/s403/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F4%2FB
-[/us/pl/103/82/s104/e/2/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FH%2Fii
-[/us/pl/103/82/s403/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F4%2FB
-[/us/pl/103/82/s403/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F4%2FB
-[/us/pl/103/82/s104/e/2/H/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FH%2Fiii
-[/us/pl/103/82/s403/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F4%2FB
-[/us/pl/103/82/s104/e/2/H/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FH%2Fiv
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

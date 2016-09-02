@@ -79,7 +79,7 @@
 
             In carrying out paragraph (2), the Secretary may contract with an appropriate agent to implement the dispute resolution program established under paragraph (2), except that such agent shall not be a person or entity other than a government, nor an affiliate or subsidiary of such a person or entity, that has entered into a contract with the Secretary to implement any other regulatory program under this chapter.
 
-([Pub. L. 93–383, title VI, § 623][/us/pl/93/383/s623], Aug. 22, 1974, [88 Stat. 712][/us/stat/88/712]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III, § 339B(c)][/us/pl/97/35/s339B/c], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI][/us/pl/106/569], §§ 603(b)(5), 605(b), 610, Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999], 3008, 3011.)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 623, Aug. 22, 1974, [88 Stat. 712][/us/stat/88/712]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339B(c), Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], §§ 603(b)(5), 605(b), 610, Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999], 3008, 3011.)
 
  __Codification__ 
 
@@ -87,15 +87,15 @@
 
  __Amendments__ 
 
-    2000—Subsec. (c)(9). [Pub. L. 106–569, § 603(b)(5)][/us/pl/106/569/s603/b/5], substituted “retailers” for “dealers”.
+    2000—Subsec. (c)(9). [Pub. L. 106–569][/us/pl/106/569], § 603(b)(5), substituted “retailers” for “dealers”.
 
-    Subsec. (c)(11). [Pub. L. 106–569, § 605(b)(1)][/us/pl/106/569/s605/b/1], (3), added par. (11). Former par. (11) redesignated (13).
+    Subsec. (c)(11). [Pub. L. 106–569][/us/pl/106/569], § 605(b)(1), (3), added par. (11). Former par. (11) redesignated (13).
 
-    Subsec. (c)(12). [Pub. L. 106–569, § 610(1)][/us/pl/106/569/s610/1], added par. (12).
+    Subsec. (c)(12). [Pub. L. 106–569][/us/pl/106/569], § 610(1), added par. (12).
 
-    Subsec. (c)(13). [Pub. L. 106–569, § 605(b)(2)][/us/pl/106/569/s605/b/2], redesignated par. (11) as (13).
+    Subsec. (c)(13). [Pub. L. 106–569][/us/pl/106/569], § 605(b)(2), redesignated par. (11) as (13).
 
-    Subsec. (g). [Pub. L. 106–569, § 610(2)][/us/pl/106/569/s610/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–569][/us/pl/106/569], § 610(2), added subsec. (g).
 
     1980—Subsecs. (a), (b), (c)(2), (e), (f). [Pub. L. 96–399][/us/pl/96/399] substituted “manufactured home” for “mobile home” wherever appearing.
 
@@ -118,22 +118,22 @@
 [/us/usc/t42/s5414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5414
 [/us/usc/t42/s5404/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5404%2Fc%2F3
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/93/383/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs623
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F712
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
-[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2999
 [/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
 [/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
-[/us/pl/106/569/s603/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fb%2F5
-[/us/pl/106/569/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs605%2Fb%2F1
-[/us/pl/106/569/s610/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs610%2F1
-[/us/pl/106/569/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs605%2Fb%2F2
-[/us/pl/106/569/s610/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs610%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

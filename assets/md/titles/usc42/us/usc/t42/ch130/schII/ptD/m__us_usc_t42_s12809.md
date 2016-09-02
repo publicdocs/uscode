@@ -23,7 +23,7 @@
 
         The program shall target vacant properties for rehabilitation by nonprofit organizations.
 
-([Pub. L. 101–625, title II, § 259][/us/pl/101/625/s259], Nov. 28, 1990, [104 Stat. 4124][/us/stat/104/4124].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 259, Nov. 28, 1990, [104 Stat. 4124][/us/stat/104/4124].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs259
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4124
 
 

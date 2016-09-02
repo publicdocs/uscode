@@ -71,7 +71,7 @@
 
         If an individual or family who receives assistance under this part (not including residents of an emergency shelter) from a recipient violates program requirements, the recipient may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals receiving such assistance to due process of law, which may include a hearing.
 
-([Pub. L. 100–77, title IV, § 426][/us/pl/100/77/s426], as added [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4018][/us/stat/106/4018]; amended [Pub. L. 111–22, div. B, title III, § 1304][/us/pl/111/22/s1304], May 20, 2009, [123 Stat. 1688][/us/stat/123/1688].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 426, as added [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4018][/us/stat/106/4018]; amended [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1304, May 20, 2009, [123 Stat. 1688][/us/stat/123/1688].)
 
  __References in Text__ 
 
@@ -83,27 +83,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 11386, [Pub. L. 100–77, title IV, § 426][/us/pl/100/77/s426], July 22, 1987, [101 Stat. 503][/us/stat/101/503], related to establishment of guidelines for purposes of a supportive housing demonstration program, prior to repeal by [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
+    A prior section 11386, [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 426, July 22, 1987, [101 Stat. 503][/us/stat/101/503], related to establishment of guidelines for purposes of a supportive housing demonstration program, prior to repeal by [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
 
  __Amendments__ 
 
-    2009—Subsecs. (a), (b). [Pub. L. 111–22, § 1304(1)][/us/pl/111/22/s1304/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to applications and selection criteria, respectively.
+    2009—Subsecs. (a), (b). [Pub. L. 111–22][/us/pl/111/22], § 1304(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to applications and selection criteria, respectively.
 
-    Subsec. (c). [Pub. L. 111–22, § 1304(1)][/us/pl/111/22/s1304/1]–(3), redesignated subsec. (d) as (c), substituted “recipient or project sponsor” for “recipient” in first sentence, and struck out former subsec. (c) which related to required agreements.
+    Subsec. (c). [Pub. L. 111–22][/us/pl/111/22], § 1304(1)–(3), redesignated subsec. (d) as (c), substituted “recipient or project sponsor” for “recipient” in first sentence, and struck out former subsec. (c) which related to required agreements.
 
-    Subsec. (d). [Pub. L. 111–22, § 1304(5)][/us/pl/111/22/s1304/5], redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 111–22][/us/pl/111/22], § 1304(5), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 111–22, § 1304(4)][/us/pl/111/22/s1304/4]–(6), redesignated subsec. (g) as (e), substituted “recipient or project sponsor” for “recipient” in two places in first sentence, and struck out former subsec. (e). Text of subsec. (e) read as follows: “Each recipient shall be required to supplement the amount of assistance provided under paragraphs (1) and (2) of [section 11383(a) of this title][/us/usc/t42/s11383/a] with an equal amount of funds from sources other than this part.”
+    Subsec. (e). [Pub. L. 111–22][/us/pl/111/22], § 1304(4)–(6), redesignated subsec. (g) as (e), substituted “recipient or project sponsor” for “recipient” in two places in first sentence, and struck out former subsec. (e). Text of subsec. (e) read as follows: “Each recipient shall be required to supplement the amount of assistance provided under paragraphs (1) and (2) of [section 11383(a) of this title][/us/usc/t42/s11383/a] with an equal amount of funds from sources other than this part.”
 
-    Subsec. (f). [Pub. L. 111–22, § 1304(5)][/us/pl/111/22/s1304/5], redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
+    Subsec. (f). [Pub. L. 111–22][/us/pl/111/22], § 1304(5), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-    Subsec. (g). [Pub. L. 111–22, § 1304(8)][/us/pl/111/22/s1304/8], redesignated subsec. (j) as (g). Former subsec. (g) redesignated (e).
+    Subsec. (g). [Pub. L. 111–22][/us/pl/111/22], § 1304(8), redesignated subsec. (j) as (g). Former subsec. (g) redesignated (e).
 
-    Subsec. (h). [Pub. L. 111–22, § 1304(5)][/us/pl/111/22/s1304/5], redesignated subsec. (h) as (f).
+    Subsec. (h). [Pub. L. 111–22][/us/pl/111/22], § 1304(5), redesignated subsec. (h) as (f).
 
-    Subsec. (i). [Pub. L. 111–22, § 1304(7)][/us/pl/111/22/s1304/7], struck out subsec. (i). Text read as follows: “No recipient may use more than 5 percent of a grant received under this part for administrative purposes.”
+    Subsec. (i). [Pub. L. 111–22][/us/pl/111/22], § 1304(7), struck out subsec. (i). Text read as follows: “No recipient may use more than 5 percent of a grant received under this part for administrative purposes.”
 
-    Subsec. (j). [Pub. L. 111–22, § 1304(8)][/us/pl/111/22/s1304/8], redesignated subsec. (j) as (g).
+    Subsec. (j). [Pub. L. 111–22][/us/pl/111/22], § 1304(8), redesignated subsec. (j) as (g).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -128,10 +128,10 @@
 [/us/usc/t42/s11383/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11383%2Fa%2F11
 [/us/usc/t42/s11386d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11386d
 [/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
-[/us/pl/100/77/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs426
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4018
-[/us/pl/111/22/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1688
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
@@ -140,20 +140,20 @@
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/100/77/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs426
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F503
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4013
-[/us/pl/111/22/s1304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F1
-[/us/pl/111/22/s1304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F1
-[/us/pl/111/22/s1304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F5
-[/us/pl/111/22/s1304/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F4
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t42/s11383/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11383%2Fa
-[/us/pl/111/22/s1304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F5
-[/us/pl/111/22/s1304/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F8
-[/us/pl/111/22/s1304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F5
-[/us/pl/111/22/s1304/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F7
-[/us/pl/111/22/s1304/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1304%2F8
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

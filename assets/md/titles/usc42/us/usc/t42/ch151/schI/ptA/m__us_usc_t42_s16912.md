@@ -23,7 +23,7 @@
 
         The Attorney General shall issue guidelines and regulations to interpret and implement this subchapter.
 
-([Pub. L. 109–248, title I, § 112][/us/pl/109/248/s112], July 27, 2006, [120 Stat. 593][/us/stat/120/593].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 112, July 27, 2006, [120 Stat. 593][/us/stat/120/593].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs112
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F593
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

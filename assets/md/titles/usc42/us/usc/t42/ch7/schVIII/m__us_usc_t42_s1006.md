@@ -23,7 +23,7 @@
 
         The requirements prescribed by the Commissioner of Social Security under subsection (a) of this section shall preclude any determination of entitlement to benefits under this subchapter solely on the basis of declarations by the individual concerning qualifications or other material facts, and shall provide for verification of material information from independent or collateral sources, and the procurement of additional information as necessary in order to ensure that the benefits are provided only to qualified individuals (or their representative payees) in correct amounts.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 806, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1846][/us/stat/113/1846].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 806, as added [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(a), Dec. 14, 1999, [113 Stat. 1846][/us/stat/113/1846].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/169/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1846
 [/us/usc/t42/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1001
 

@@ -165,7 +165,7 @@
 
         The automated system required by this section shall be used, to the maximum extent feasible, to implement the expedited administrative procedures required by [section 666(c) of this title][/us/usc/t42/s666/c].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 454A, as added and amended [Pub. L. 104–193, title III][/us/pl/104/193], §§ 311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, [110 Stat. 2205][/us/stat/110/2205], 2208, 2226, 2235; [Pub. L. 105–34, title X, § 1090(a)(1)][/us/pl/105/34/s1090/a/1], Aug. 5, 1997, [111 Stat. 961][/us/stat/111/961]; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title VIII, § 805(a)(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–285; [Pub. L. 113–183, title III, § 306(a)][/us/pl/113/183/s306/a], Sept. 29, 2014, [128 Stat. 1949][/us/stat/128/1949].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 454A, as added and amended [Pub. L. 104–193, title III][/us/pl/104/193/tIII], §§ 311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, [110 Stat. 2205][/us/stat/110/2205], 2208, 2226, 2235; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1090(a)(1), Aug. 5, 1997, [111 Stat. 961][/us/stat/111/961]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title VIII, § 805(a)(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–285; [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 306(a), Sept. 29, 2014, [128 Stat. 1949][/us/stat/128/1949].)
 
  __References in Text__ 
 
@@ -173,23 +173,23 @@
 
  __Amendments__ 
 
-    2014—Subsec. (g)(1). [Pub. L. 113–183, § 306(a)(1)][/us/pl/113/183/s306/a/1], struck out “, to the maximum extent feasible,” after “this section” in introductory provisions.
+    2014—Subsec. (g)(1). [Pub. L. 113–183][/us/pl/113/183], § 306(a)(1), struck out “, to the maximum extent feasible,” after “this section” in introductory provisions.
 
-    Subsec. (g)(1)(A)(iii). [Pub. L. 113–183, § 306(a)(2)][/us/pl/113/183/s306/a/2], added cl. (iii).
+    Subsec. (g)(1)(A)(iii). [Pub. L. 113–183][/us/pl/113/183], § 306(a)(2), added cl. (iii).
 
     1999—Subsec. (f)(5). [Pub. L. 106–113][/us/pl/106/113] added par. (5).
 
     1997—Subsec. (e)(4)(D). [Pub. L. 105–34][/us/pl/105/34] substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”.
 
-    1996—Subsecs. (e), (f). [Pub. L. 104–193, § 311][/us/pl/104/193/s311], added subsecs. (e) and (f).
+    1996—Subsecs. (e), (f). [Pub. L. 104–193][/us/pl/104/193], § 311, added subsecs. (e) and (f).
 
-    Subsec. (g). [Pub. L. 104–193, § 312(c)][/us/pl/104/193/s312/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–193][/us/pl/104/193], § 312(c), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 104–193, § 325(b)][/us/pl/104/193/s325/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–193][/us/pl/104/193], § 325(b), added subsec. (h).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–183, title III, § 306(b)][/us/pl/113/183/s306/b], Sept. 29, 2014, [128 Stat. 1949][/us/stat/128/1949], provided that: 
+[Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 306(b), Sept. 29, 2014, [128 Stat. 1949][/us/stat/128/1949], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2015.”
 
@@ -207,7 +207,7 @@
 
  __Regulations__ 
 
-[Pub. L. 104–193, title III, § 344(a)(3)][/us/pl/104/193/s344/a/3], Aug. 22, 1996, [110 Stat. 2236][/us/stat/110/2236], provided that: 
+[Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 344(a)(3), Aug. 22, 1996, [110 Stat. 2236][/us/stat/110/2236], provided that: 
 
 > “The Secretary of Health and Human Services shall prescribe final regulations for implementation of section 454A of the Social Security Act \[[42 U.S.C. 654a][/us/usc/t42/s654a]\] not later than 2 years after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
@@ -228,22 +228,22 @@
 [/us/usc/t42/s666/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666%2Fc
 [/us/usc/t42/s666/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666%2Fc
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2205
-[/us/pl/105/34/s1090/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1090%2Fa%2F1
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F961
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/113/183/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs306%2Fa
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1949
-[/us/pl/113/183/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs306%2Fa%2F1
-[/us/pl/113/183/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs306%2Fa%2F2
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/104/193/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs311
-[/us/pl/104/193/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs312%2Fc
-[/us/pl/104/193/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs325%2Fb
-[/us/pl/113/183/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs306%2Fb
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1949
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1090/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1090%2Fa%2F4
@@ -254,7 +254,7 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/104/193/s344/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs344%2Fa%2F3
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2236
 [/us/usc/t42/s654a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654a
 

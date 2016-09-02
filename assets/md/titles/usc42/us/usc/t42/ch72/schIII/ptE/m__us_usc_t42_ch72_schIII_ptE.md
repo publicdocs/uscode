@@ -17,11 +17,11 @@
 
  __Prior Provisions__ 
 
-    A prior part E, consisting of sections 5714a and 5714b, was redesignated part F by [Pub. L. 106–71, § 3(n)(1)(B)][/us/pl/106/71/s3/n/1/B], Oct. 12, 1999, [113 Stat. 1040][/us/stat/113/1040].
+    A prior part E, consisting of sections 5714a and 5714b, was redesignated part F by [Pub. L. 106–71][/us/pl/106/71], § 3(n)(1)(B), Oct. 12, 1999, [113 Stat. 1040][/us/stat/113/1040].
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–71, § 3(n)(1)(C)][/us/pl/106/71/s3/n/1/C], Oct. 12, 1999, [113 Stat. 1040][/us/stat/113/1040], added part heading. Former part E redesignated F.
+    1999—[Pub. L. 106–71][/us/pl/106/71], § 3(n)(1)(C), Oct. 12, 1999, [113 Stat. 1040][/us/stat/113/1040], added part heading. Former part E redesignated F.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/106/71/s3/n/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fn%2F1%2FB
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1040
-[/us/pl/106/71/s3/n/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fn%2F1%2FC
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1040
 
 

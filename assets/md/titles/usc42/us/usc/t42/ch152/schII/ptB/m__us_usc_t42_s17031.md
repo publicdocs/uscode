@@ -23,7 +23,7 @@
 
         The Director of the National Institute of Standards and Technology, in consultation with the Secretary, shall make publicly available the physical property data and characterization of biodiesel and other biofuels as appropriate.
 
-([Pub. L. 110–140, title II, § 221][/us/pl/110/140/s221], Dec. 19, 2007, [121 Stat. 1533][/us/stat/121/1533].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 221, Dec. 19, 2007, [121 Stat. 1533][/us/stat/121/1533].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs221
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1533
 
 

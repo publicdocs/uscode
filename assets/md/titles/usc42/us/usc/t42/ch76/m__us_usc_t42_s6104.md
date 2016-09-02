@@ -45,7 +45,7 @@
 
         With respect to actions brought for relief based on an alleged violation of the provisions of this chapter, administrative remedies shall be deemed exhausted upon the expiration of 180 days from the filing of an administrative complaint during which time the Federal department or agency makes no finding with regard to the complaint, or upon the day that the Federal department or agency issues a finding in favor of the recipient of financial assistance, whichever occurs first.
 
-([Pub. L. 94–135, title III, § 305][/us/pl/94/135/s305], Nov. 28, 1975, [89 Stat. 730][/us/stat/89/730]; [Pub. L. 95–478, title IV, § 401(c)][/us/pl/95/478/s401/c], (d), Oct. 18, 1978, [92 Stat. 1555][/us/stat/92/1555], 1556; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 305, Nov. 28, 1975, [89 Stat. 730][/us/stat/89/730]; [Pub. L. 95–478, title IV][/us/pl/95/478/tIV], § 401(c), (d), Oct. 18, 1978, [92 Stat. 1555][/us/stat/92/1555], 1556; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    1978—Subsec. (b). [Pub. L. 95–478, § 401(d)][/us/pl/95/478/s401/d], authorized disbursement of withheld funds directly to organization or agency demonstrating ability to achieve the goals of the Federal statute authorizing the program or activity while complying with the regulations.
+    1978—Subsec. (b). [Pub. L. 95–478][/us/pl/95/478], § 401(d), authorized disbursement of withheld funds directly to organization or agency demonstrating ability to achieve the goals of the Federal statute authorizing the program or activity while complying with the regulations.
 
-    Subsec. (e). [Pub. L. 95–478, § 401(c)][/us/pl/95/478/s401/c], substituted provisions relating to injunctions, notice of violations, and costs for provision making this section the exclusive remedy for the enforcement of the provisions of this chapter.
+    Subsec. (e). [Pub. L. 95–478][/us/pl/95/478], § 401(c), substituted provisions relating to injunctions, notice of violations, and costs for provision making this section the exclusive remedy for the enforcement of the provisions of this chapter.
 
-    Subsec. (f). [Pub. L. 95–478, § 401(c)][/us/pl/95/478/s401/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–478][/us/pl/95/478], § 401(c), added subsec. (f).
 
  __Change of Name__ 
 
@@ -77,18 +77,18 @@
 [/us/usc/t42/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6103
 [/us/usc/t42/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6103
 [/us/usc/t42/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6103
-[/us/pl/94/135/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs305
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
 [/us/stat/89/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F730
-[/us/pl/95/478/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fc
+[/us/pl/95/478/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtIV
 [/us/stat/92/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1555
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F713
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/95/478/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fd
-[/us/pl/95/478/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fc
-[/us/pl/95/478/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fc
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478

@@ -35,7 +35,7 @@
 
         Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
 
-([Pub. L. 95–557, title VI, § 605][/us/pl/95/557/s605], Oct. 31, 1978, [92 Stat. 2116][/us/stat/92/2116]; [Pub. L. 108–199, div. G, title III][/us/pl/108/199],\[(1), (2)\], Jan. 23, 2004, [118 Stat. 413][/us/stat/118/413]; [Pub. L. 111–117, div. A, title III][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3108][/us/stat/123/3108].)
+([Pub. L. 95–557, title VI][/us/pl/95/557/tVI], § 605, Oct. 31, 1978, [92 Stat. 2116][/us/stat/92/2116]; [Pub. L. 108–199, div. G, title III][/us/pl/108/199/dG/tIII],\[(1), (2)\], Jan. 23, 2004, [118 Stat. 413][/us/stat/118/413]; [Pub. L. 111–117, div. A, title III][/us/pl/111/117/dA/tIII], Dec. 16, 2009, [123 Stat. 3108][/us/stat/123/3108].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 
     2009—Subsec. (a). [Pub. L. 111–117][/us/pl/111/117] inserted “, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule” before period at end of first sentence.
 
-    2004—Subsec. (a). [Pub. L. 108–199, title III][/us/pl/108/199], \[(2)\], added second sentence.
+    2004—Subsec. (a). [Pub. L. 108–199, title III][/us/pl/108/199/tIII], \[(2)\], added second sentence.
 
-    [Pub. L. 108–199, title III][/us/pl/108/199], \[(1)\], which directed the substitution of “salary” for “compensation”, was executed by making the substitution both places that “compensation” appeared to reflect the probable intent of Congress.
+    [Pub. L. 108–199, title III][/us/pl/108/199/tIII], \[(1)\], which directed the substitution of “salary” for “compensation”, was executed by making the substitution both places that “compensation” appeared to reflect the probable intent of Congress.
 
-    [Pub. L. 108–199, title III][/us/pl/108/199], \[(1)\], which directed substitution of “rate for level IV of the Executive Schedule” for “highest rate provided for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332] United States Code”, was executed by making the substitution for “highest rate provided for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code” to reflect the probable intent of Congress.
+    [Pub. L. 108–199, title III][/us/pl/108/199/tIII], \[(1)\], which directed substitution of “rate for level IV of the Executive Schedule” for “highest rate provided for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332] United States Code”, was executed by making the substitution for “highest rate provided for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code” to reflect the probable intent of Congress.
 
 ----------
 
@@ -58,16 +58,16 @@
 ----------
 ----------
 
-[/us/pl/95/557/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs605
+[/us/pl/95/557/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVI
 [/us/stat/92/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2116
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIII
 [/us/stat/118/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F413
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdA%2FtIII
 [/us/stat/123/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3108
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FtIII
+[/us/pl/108/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FtIII
+[/us/pl/108/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FtIII
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

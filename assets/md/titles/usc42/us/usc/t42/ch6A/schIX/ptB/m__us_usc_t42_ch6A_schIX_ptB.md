@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–278, title IV, § 403(b)(2)][/us/pl/94/278/s403/b/2], Apr. 22, 1976, [90 Stat. 409][/us/stat/90/409], redesignated part C heading as part B.
+    1976—[Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(b)(2), Apr. 22, 1976, [90 Stat. 409][/us/stat/90/409], redesignated part C heading as part B.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/278/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fb%2F2
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F409
 
 

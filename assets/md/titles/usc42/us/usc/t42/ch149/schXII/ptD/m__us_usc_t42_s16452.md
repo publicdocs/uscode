@@ -31,7 +31,7 @@
 
         No member, officer, or employee of the Commission shall divulge any fact or information that may come to his or her knowledge during the course of examination of books, accounts, memoranda, or other records as provided in this section, except as may be directed by the Commission or by a court of competent jurisdiction.
 
-([Pub. L. 109–58, title XII, § 1264][/us/pl/109/58/s1264], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1264, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1264
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 
 

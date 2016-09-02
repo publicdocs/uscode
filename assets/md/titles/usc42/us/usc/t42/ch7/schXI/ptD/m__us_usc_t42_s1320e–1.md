@@ -49,7 +49,7 @@
 
     (e) The Patient-Centered Outcomes Research Institute established under [section 1320e(b)(1) of this title][/us/usc/t42/s1320e/b/1] shall not develop or employ a dollars-per-quality adjusted life year (or similar measure that discounts the value of a life because of an individual’s disability) as a threshold to establish what type of health care is cost effective or recommended. The Secretary shall not utilize such an adjusted life year (or such a similar measure) as a threshold to determine coverage, reimbursement, or incentive programs under subchapter XVIII.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1182, as added [Pub. L. 111–148, title VI, § 6301(c)][/us/pl/111/148/s6301/c], Mar. 23, 2010, [124 Stat. 740][/us/stat/124/740].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1182, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(c), Mar. 23, 2010, [124 Stat. 740][/us/stat/124/740].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t42/s1320e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e
 [/us/usc/t42/s1320e/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%2Fb%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fc
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F740
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

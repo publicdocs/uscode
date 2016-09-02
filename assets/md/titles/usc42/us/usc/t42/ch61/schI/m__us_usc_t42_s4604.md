@@ -23,7 +23,7 @@
 
         (1) The head of the lead agency shall issue regulations to carry out this section.
 
-        (2) Repealed. [Pub. L. 104–66, title I, § 1121(f)][/us/pl/104/66/s1121/f], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].
+        (2) Repealed. [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(f), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].
 
         (3) Before making a determination regarding any State law under subsection (a) of this section, the head of the lead agency shall provide interested parties with an opportunity for public review and comment. In particular, the head of the lead agency shall consult with interested local general purpose governments within the State on the effects of such State law on the ability of local governments to carry out their responsibilities under this chapter.
 
@@ -33,7 +33,7 @@
 
         (2) After consultation with the head of the lead agency, the head of a Federal agency may rescind his acceptance of any certification under this section, in whole or in part, if the State agency fails to comply with such certification or with State law.
 
-([Pub. L. 91–646, title I, § 103][/us/pl/91/646/s103], as added [Pub. L. 100–17, title IV, § 403][/us/pl/100/17/s403], Apr. 2, 1987, [101 Stat. 248][/us/stat/101/248]; amended [Pub. L. 104–66, title I, § 1121(f)][/us/pl/104/66/s1121/f], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].)
+([Pub. L. 91–646, title I][/us/pl/91/646/tI], § 103, as added [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 403, Apr. 2, 1987, [101 Stat. 248][/us/stat/101/248]; amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(f), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].)
 
  __References in Text__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/104/66/s1121/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Ff
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
-[/us/pl/91/646/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs103
-[/us/pl/100/17/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs403
+[/us/pl/91/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtI
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F248
-[/us/pl/104/66/s1121/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Ff
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

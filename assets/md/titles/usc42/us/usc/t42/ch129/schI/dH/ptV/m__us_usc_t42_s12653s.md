@@ -97,7 +97,7 @@
 
         Of the amount authorized to provide financial assistance under this division, there shall be made available to carry out this section $5,000,000 for each of fiscal years 2010 through 2014.
 
-([Pub. L. 101–610, title I, § 198S][/us/pl/101/610/s198S], as added [Pub. L. 111–13, title I, § 1809][/us/pl/111/13/s1809], Apr. 21, 2009, [123 Stat. 1575][/us/stat/123/1575].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198S, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1809, Apr. 21, 2009, [123 Stat. 1575][/us/stat/123/1575].)
 
  __Effective Date__ 
 
@@ -112,8 +112,8 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs509%2Fa
-[/us/pl/101/610/s198S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198S
-[/us/pl/111/13/s1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1809
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1575
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -111,7 +111,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated, $71,800,000 for each of the fiscal years 2007 through 2009, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2671, as added and amended [Pub. L. 109–415, title IV, § 401][/us/pl/109/415/s401], title VII, § 703, Dec. 19, 2006, [120 Stat. 2810][/us/stat/120/2810], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), (e), 11, Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2886, 2895.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2671, as added and amended [Pub. L. 109–415, title IV][/us/pl/109/415/tIV], § 401, title VII, § 703, Dec. 19, 2006, [120 Stat. 2810][/us/stat/120/2810], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), (e), 11, Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2886, 2895.)
 
  __References in Text__ 
 
@@ -121,41 +121,41 @@
 
     Prior sections 300ff–71 to 300ff–78 were omitted in the general amendment of this part by [Pub. L. 109–415][/us/pl/109/415].
 
-    Section 300ff–71, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2671, as added [Pub. L. 101–381, title IV, § 401][/us/pl/101/381/s401], Aug. 18, 1990, [104 Stat. 617][/us/stat/104/617]; amended [Pub. L. 104–146, § 3(e)][/us/pl/104/146/s3/e], May 20, 1996, [110 Stat. 1358][/us/stat/110/1358]; [Pub. L. 106–345, title IV, § 401][/us/pl/106/345/s401], Oct. 20, 2000, [114 Stat. 1347][/us/stat/114/1347], related to grants for coordinated services and access to research for women, infants, children, and youth.
+    Section 300ff–71, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2671, as added [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 401, Aug. 18, 1990, [104 Stat. 617][/us/stat/104/617]; amended [Pub. L. 104–146][/us/pl/104/146], § 3(e), May 20, 1996, [110 Stat. 1358][/us/stat/110/1358]; [Pub. L. 106–345, title IV][/us/pl/106/345/tIV], § 401, Oct. 20, 2000, [114 Stat. 1347][/us/stat/114/1347], related to grants for coordinated services and access to research for women, infants, children, and youth.
 
-    Section 300ff–72, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2672, as added [Pub. L. 101–381, title IV, § 401][/us/pl/101/381/s401], Aug. 18, 1990, [104 Stat. 618][/us/stat/104/618], contained provisions relating to blood banks.
+    Section 300ff–72, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2672, as added [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 401, Aug. 18, 1990, [104 Stat. 618][/us/stat/104/618], contained provisions relating to blood banks.
 
-    Section 300ff–73, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2673, as added [Pub. L. 101–381, title IV, § 401][/us/pl/101/381/s401], Aug. 18, 1990, [104 Stat. 619][/us/stat/104/619]; amended [Pub. L. 106–345, title V, § 503(a)(2)][/us/pl/106/345/s503/a/2], Oct. 20, 2000, [114 Stat. 1354][/us/stat/114/1354], related to a research, evaluation, and assessment program.
+    Section 300ff–73, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2673, as added [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 401, Aug. 18, 1990, [104 Stat. 619][/us/stat/104/619]; amended [Pub. L. 106–345, title V][/us/pl/106/345/tV], § 503(a)(2), Oct. 20, 2000, [114 Stat. 1354][/us/stat/114/1354], related to a research, evaluation, and assessment program.
 
-    Section 300ff–74, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2674, as added [Pub. L. 101–381, title IV, § 401][/us/pl/101/381/s401], Aug. 18, 1990, [104 Stat. 620][/us/stat/104/620]; amended [Pub. L. 104–146, § 3(f)][/us/pl/104/146/s3/f], May 20, 1996, [110 Stat. 1362][/us/stat/110/1362]; [Pub. L. 106–345, title IV, § 411][/us/pl/106/345/s411], Oct. 20, 2000, [114 Stat. 1350][/us/stat/114/1350], related to evaluations and reports.
+    Section 300ff–74, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2674, as added [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 401, Aug. 18, 1990, [104 Stat. 620][/us/stat/104/620]; amended [Pub. L. 104–146][/us/pl/104/146], § 3(f), May 20, 1996, [110 Stat. 1362][/us/stat/110/1362]; [Pub. L. 106–345, title IV][/us/pl/106/345/tIV], § 411, Oct. 20, 2000, [114 Stat. 1350][/us/stat/114/1350], related to evaluations and reports.
 
-    Section 300ff–75, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2675, as added [Pub. L. 101–381, title IV, § 401][/us/pl/101/381/s401], Aug. 18, 1990, [104 Stat. 620][/us/stat/104/620]; amended [Pub. L. 102–531, title III, § 312(d)(34)][/us/pl/102/531/s312/d/34], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506]; [Pub. L. 106–345, title IV][/us/pl/106/345], §§ 413, 414, Oct. 20, 2000, [114 Stat. 1350][/us/stat/114/1350], 1351; [Pub. L. 108–173, title IX, § 900(e)(2)(G)][/us/pl/108/173/s900/e/2/G], Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372], related to coordination of Federal HIV programs. See [section 300ff–81 of this title][/us/usc/t42/s300ff–81].
+    Section 300ff–75, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2675, as added [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 401, Aug. 18, 1990, [104 Stat. 620][/us/stat/104/620]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(34), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506]; [Pub. L. 106–345, title IV][/us/pl/106/345/tIV], §§ 413, 414, Oct. 20, 2000, [114 Stat. 1350][/us/stat/114/1350], 1351; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(2)(G), Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372], related to coordination of Federal HIV programs. See [section 300ff–81 of this title][/us/usc/t42/s300ff–81].
 
-    Section 300ff–75a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2675A, as added [Pub. L. 106–345, title IV, § 415][/us/pl/106/345/s415], Oct. 20, 2000, [114 Stat. 1351][/us/stat/114/1351], related to audits. See [section 300ff–82 of this title][/us/usc/t42/s300ff–82].
+    Section 300ff–75a, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2675A, as added [Pub. L. 106–345, title IV][/us/pl/106/345/tIV], § 415, Oct. 20, 2000, [114 Stat. 1351][/us/stat/114/1351], related to audits. See [section 300ff–82 of this title][/us/usc/t42/s300ff–82].
 
-    Section 300ff–75b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2675B, as added [Pub. L. 106–345, title IV, § 416][/us/pl/106/345/s416], Oct. 20, 2000, [114 Stat. 1351][/us/stat/114/1351], related to administrative simplification.
+    Section 300ff–75b, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2675B, as added [Pub. L. 106–345, title IV][/us/pl/106/345/tIV], § 416, Oct. 20, 2000, [114 Stat. 1351][/us/stat/114/1351], related to administrative simplification.
 
-    Section 300ff–76, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2676, as added [Pub. L. 101–381, title IV, § 401][/us/pl/101/381/s401], Aug. 18, 1990, [104 Stat. 620][/us/stat/104/620]; amended [Pub. L. 104–146, § 12(a)][/us/pl/104/146/s12/a], (c)(8), May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], 1374, defined terms for this subchapter. See [section 300ff–88 of this title][/us/usc/t42/s300ff–88].
+    Section 300ff–76, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2676, as added [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 401, Aug. 18, 1990, [104 Stat. 620][/us/stat/104/620]; amended [Pub. L. 104–146][/us/pl/104/146], § 12(a), (c)(8), May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], 1374, defined terms for this subchapter. See [section 300ff–88 of this title][/us/usc/t42/s300ff–88].
 
-    Section 300ff–77, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2677, as added [Pub. L. 104–146, § 6(a)][/us/pl/104/146/s6/a], May 20, 1996, [110 Stat. 1367][/us/stat/110/1367]; amended [Pub. L. 106–345, title IV, § 417][/us/pl/106/345/s417], Oct. 20, 2000, [114 Stat. 1352][/us/stat/114/1352], authorized appropriations.
+    Section 300ff–77, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2677, as added [Pub. L. 104–146][/us/pl/104/146], § 6(a), May 20, 1996, [110 Stat. 1367][/us/stat/110/1367]; amended [Pub. L. 106–345, title IV][/us/pl/106/345/tIV], § 417, Oct. 20, 2000, [114 Stat. 1352][/us/stat/114/1352], authorized appropriations.
 
-    Section 300ff–78, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2678, as added [Pub. L. 104–146, § 10][/us/pl/104/146/s10], May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], prohibited promotion of certain activities. See [section 300ff–84 of this title][/us/usc/t42/s300ff–84].
+    Section 300ff–78, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2678, as added [Pub. L. 104–146][/us/pl/104/146], § 10, May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], prohibited promotion of certain activities. See [section 300ff–84 of this title][/us/usc/t42/s300ff–84].
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    Subsec. (a). [Pub. L. 111–87, § 11(b)][/us/pl/111/87/s11/b], substituted “(directly or through contracts or memoranda of understanding)” for “(directly or through contracts)”.
+    Subsec. (a). [Pub. L. 111–87][/us/pl/111/87], § 11(b), substituted “(directly or through contracts or memoranda of understanding)” for “(directly or through contracts)”.
 
-    Subsec. (g). [Pub. L. 111–87, § 11(a)(2)][/us/pl/111/87/s11/a/2], substituted “subsection (j)” for “subsection (i)”.
+    Subsec. (g). [Pub. L. 111–87][/us/pl/111/87], § 11(a)(2), substituted “subsection (j)” for “subsection (i)”.
 
-    Subsec. (i). [Pub. L. 111–87, § 11(a)(3)][/us/pl/111/87/s11/a/3], added subsec. (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 111–87][/us/pl/111/87], § 11(a)(3), added subsec. (i). Former subsec. (i) redesignated (j).
 
-    [Pub. L. 111–87, § 2(e)][/us/pl/111/87/s2/e], inserted “, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013” before period at end.
+    [Pub. L. 111–87][/us/pl/111/87], § 2(e), inserted “, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013” before period at end.
 
-    Subsec. (j). [Pub. L. 111–87, § 11(a)(1)][/us/pl/111/87/s11/a/1], redesignated subsec. (i) as (j).
+    Subsec. (j). [Pub. L. 111–87][/us/pl/111/87], § 11(a)(1), redesignated subsec. (i) as (j).
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -175,7 +175,7 @@
 [/us/usc/t42/s300ff–27/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9327%2Fb
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/415/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs401
+[/us/pl/109/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtIV
 [/us/stat/120/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2810
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
@@ -183,69 +183,69 @@
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs401
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F617
-[/us/pl/104/146/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fe
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1358
-[/us/pl/106/345/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs401
+[/us/pl/106/345/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIV
 [/us/stat/114/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1347
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs401
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F618
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs401
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F619
-[/us/pl/106/345/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs503%2Fa%2F2
+[/us/pl/106/345/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtV
 [/us/stat/114/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1354
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs401
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F620
-[/us/pl/104/146/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Ff
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1362
-[/us/pl/106/345/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs411
+[/us/pl/106/345/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIV
 [/us/stat/114/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1350
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs401
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F620
-[/us/pl/102/531/s312/d/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F34
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
-[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIV
 [/us/stat/114/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1350
-[/us/pl/108/173/s900/e/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F2%2FG
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2372
 [/us/usc/t42/s300ff–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9381
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/345/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs415
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/106/345/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIV
 [/us/stat/114/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1351
 [/us/usc/t42/s300ff–82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9382
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/345/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs416
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/106/345/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIV
 [/us/stat/114/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1351
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs401
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F620
-[/us/pl/104/146/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs12%2Fa
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1373
 [/us/usc/t42/s300ff–88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9388
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/146/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs6%2Fa
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1367
-[/us/pl/106/345/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs417
+[/us/pl/106/345/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIV
 [/us/stat/114/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1352
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/146/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs10
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1373
 [/us/usc/t42/s300ff–84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9384
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs11%2Fb
-[/us/pl/111/87/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs11%2Fa%2F2
-[/us/pl/111/87/s11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs11%2Fa%2F3
-[/us/pl/111/87/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fe
-[/us/pl/111/87/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs11%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

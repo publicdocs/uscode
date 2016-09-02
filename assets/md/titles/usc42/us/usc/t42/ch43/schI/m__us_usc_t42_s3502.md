@@ -17,15 +17,15 @@
 
     There shall be in the Department of Health and Human Services an Assistant Secretary of Health and Human Services for Administration who shall be appointed, with the approval of the President, by the Secretary of Health and Human Services under the classified civil service, who shall perform such duties as the Secretary shall prescribe.
 
-([Pub. L. 86–568, title II, § 202][/us/pl/86/568/s202], July 1, 1960, [74 Stat. 305][/us/stat/74/305]; [Pub. L. 88–426, title III][/us/pl/88/426], §§ 305(34), 307, Aug. 14, 1964, [78 Stat. 426][/us/stat/78/426], 432; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 86–568, title II][/us/pl/86/568/tII], § 202, July 1, 1960, [74 Stat. 305][/us/stat/74/305]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], §§ 305(34), 307, Aug. 14, 1964, [78 Stat. 426][/us/stat/78/426], 432; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Codification__ 
 
-    Section was formerly classified to section 623g of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 623g of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
-    1964—[Pub. L. 88–426, § 305(34)][/us/pl/88/426/s305/34], struck out provisions which prescribed compensation of Administrative Assistant Secretary.
+    1964—[Pub. L. 88–426][/us/pl/88/426], § 305(34), struck out provisions which prescribed compensation of Administrative Assistant Secretary.
 
  __Change of Name__ 
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/86/568/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2Fs202
+[/us/pl/86/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2FtII
 [/us/stat/74/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F305
-[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F426
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/88/426/s305/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F34
+[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/88/426/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs307

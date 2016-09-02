@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 303, formerly § 6, [54 Stat. 1127][/us/stat/54/1127]; renumbered title III, § 303, [June 28, 1941, ch. 260, § 4(b)][/us/act/1941-06-28/ch260/s4/b], [55 Stat. 363][/us/stat/55/363]; amended Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [July 7, 1943, ch. 196, § 3][/us/act/1943-07-07/ch196/s3], [57 Stat. 388][/us/stat/57/388]; [Feb. 18, 1946, ch. 30][/us/act/1946-02-18/ch30], title I, § 101, [60 Stat. 9][/us/stat/60/9]; [June 11, 1948, ch. 448][/us/act/1948-06-11/ch448], [62 Stat. 356][/us/stat/62/356]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73], which related to disposition of moneys derived from rentals or operations of acquired or constructed property and to establishment, limitations on, and termination of reserves, was omitted in view of the omission of [section 1541 of this title][/us/usc/t42/s1541].
+    Section, acts [Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 303, formerly § 6, [54 Stat. 1127][/us/stat/54/1127]; renumbered title III, § 303, [June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 4(b), [55 Stat. 363][/us/stat/55/363]; amended Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [July 7, 1943, ch. 196][/us/act/1943-07-07/ch196], § 3, [57 Stat. 388][/us/stat/57/388]; [Feb. 18, 1946, ch. 30][/us/act/1946-02-18/ch30], title I, § 101, [60 Stat. 9][/us/stat/60/9]; [June 11, 1948, ch. 448][/us/act/1948-06-11/ch448], [62 Stat. 356][/us/stat/62/356]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73], which related to disposition of moneys derived from rentals or operations of acquired or constructed property and to establishment, limitations on, and termination of reserves, was omitted in view of the omission of [section 1541 of this title][/us/usc/t42/s1541].
 
 ----------
 
@@ -28,9 +28,9 @@
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1127
-[/us/act/1941-06-28/ch260/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs4%2Fb
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F363
-[/us/act/1943-07-07/ch196/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch196%2Fs3
+[/us/act/1943-07-07/ch196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch196
 [/us/stat/57/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F388
 [/us/act/1946-02-18/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-18%2Fch30
 [/us/stat/60/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F9

@@ -39,7 +39,7 @@
 
         The Assistant Secretary shall encourage each State, area agency on aging, nonprofit organization, and tribal organization that receives a grant under subsection (a) of this section to coordinate activities provided under this section with activities provided by other area agencies on aging, tribal organizations, State adult protective service programs, private nonprofit organizations, and by other entities receiving funds under subchapter XI of this chapter.
 
-([Pub. L. 89–73, title IV, § 413][/us/pl/89/73/s413], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2259][/us/stat/114/2259].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 413, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2259][/us/stat/114/2259].)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs413
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2259
 
 

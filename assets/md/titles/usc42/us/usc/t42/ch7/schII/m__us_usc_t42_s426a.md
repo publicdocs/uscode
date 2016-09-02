@@ -63,13 +63,13 @@
 
         in order to place such Trust Fund in the same position at the end of such fiscal year in which it would have been if the preceding subsections of this section had not been enacted.
 
-([Pub. L. 89–97, title I, § 103][/us/pl/89/97/s103], July 30, 1965, [79 Stat. 333][/us/stat/79/333]; [Pub. L. 90–248, title I, § 139][/us/pl/90/248/s139], title IV, § 403(h), Jan. 2, 1968, [81 Stat. 854][/us/stat/81/854], 932.)
+([Pub. L. 89–97, title I][/us/pl/89/97/tI], § 103, July 30, 1965, [79 Stat. 333][/us/stat/79/333]; [Pub. L. 90–248, title I][/us/pl/90/248/tI], § 139, title IV, § 403(h), Jan. 2, 1968, [81 Stat. 854][/us/stat/81/854], 932.)
 
  __References in Text__ 
 
     Sections 228e(l) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(l) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by [Pub. L. 93–445][/us/pl/93/445], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305]. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.
 
-    [Section 410(a)(17) of this title][/us/usc/t42/s410/a/17], referred to in subsec. (b)(1), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(ii)][/us/pl/113/295/s221/a/99/C/ii], Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052].
+    [Section 410(a)(17) of this title][/us/usc/t42/s410/a/17], referred to in subsec. (b)(1), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(99)(C)(ii), Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052].
 
  __Codification__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    1968—Subsec. (a)(2)(B). [Pub. L. 90–248, § 139][/us/pl/90/248/s139], substituted “1966” for “1965”.
+    1968—Subsec. (a)(2)(B). [Pub. L. 90–248][/us/pl/90/248], § 139, substituted “1966” for “1965”.
 
-    Subsec. (b)(3)(A), (C). [Pub. L. 90–248, § 403(h)(1)][/us/pl/90/248/s403/h/1], (2), substituted “chapter 89 of title 5” and “such chapter” for “the Federal Employees Health Benefits Act of 1959” and “such Act” in subpars. (A) and (C), respectively.
+    Subsec. (b)(3)(A), (C). [Pub. L. 90–248][/us/pl/90/248], § 403(h)(1), (2), substituted “chapter 89 of title 5” and “such chapter” for “the Federal Employees Health Benefits Act of 1959” and “such Act” in subpars. (A) and (C), respectively.
 
 ----------
 
@@ -98,16 +98,16 @@
 [/us/usc/t42/s402/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fu
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
-[/us/pl/89/97/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs103
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F333
-[/us/pl/90/248/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs139
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F854
 [/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t42/s410/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fa%2F17
-[/us/pl/113/295/s221/a/99/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F99%2FC%2Fii
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
-[/us/pl/90/248/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs139
-[/us/pl/90/248/s403/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs403%2Fh%2F1
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 
 

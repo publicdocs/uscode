@@ -53,7 +53,7 @@
 
         in accordance with the provisions of subchapter II of this chapter.
 
-([Pub. L. 90–448, title XIII, § 1304][/us/pl/90/448/s1304], Aug. 1, 1968, [82 Stat. 574][/us/stat/82/574]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1), (2)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V, § 555(a)][/us/pl/103/325/s555/a], Sept. 23, 1994, [108 Stat. 2274][/us/stat/108/2274]; [Pub. L. 108–264, title I, § 105(a)][/us/pl/108/264/s105/a], June 30, 2004, [118 Stat. 723][/us/stat/118/723]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100225(f), 100238(b)(1), July 6, 2012, [126 Stat. 942][/us/stat/126/942], 958.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1304, Aug. 1, 1968, [82 Stat. 574][/us/stat/82/574]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1), (2)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 555(a), Sept. 23, 1994, [108 Stat. 2274][/us/stat/108/2274]; [Pub. L. 108–264, title I][/us/pl/108/264/tI], § 105(a), June 30, 2004, [118 Stat. 723][/us/stat/118/723]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100225(f), 100238(b)(1), July 6, 2012, [126 Stat. 942][/us/stat/126/942], 958.)
 
  __References in Text__ 
 
@@ -61,35 +61,35 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in concluding provisions.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in concluding provisions.
 
-    Subsec. (b)(3). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    Subsec. (b)(3). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b)(4)(B) to (E). [Pub. L. 112–141, § 100225(f)][/us/pl/112/141/s100225/f], redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which read as follows: “section 1368 (Repetitive Loss Priority Program and Individual Priority Property Program);”.
+    Subsec. (b)(4)(B) to (E). [Pub. L. 112–141][/us/pl/112/141], § 100225(f), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which read as follows: “section 1368 (Repetitive Loss Priority Program and Individual Priority Property Program);”.
 
-    Subsec. (c). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in introductory provisions.
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
 
-    2004—Subsec. (b). [Pub. L. 108–264, § 105(a)(1)(B)][/us/pl/108/264/s105/a/1/B], which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the second time appearing to reflect the probable intent of Congress.
+    2004—Subsec. (b). [Pub. L. 108–264][/us/pl/108/264], § 105(a)(1)(B), which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the second time appearing to reflect the probable intent of Congress.
 
-    [Pub. L. 108–264, § 105(a)(1)(A)][/us/pl/108/264/s105/a/1/A], substituted “implementing measures that are consistent” for “compliance” in introductory provisions.
+    [Pub. L. 108–264][/us/pl/108/264], § 105(a)(1)(A), substituted “implementing measures that are consistent” for “compliance” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 108–264, § 105(a)(2)][/us/pl/108/264/s105/a/2], substituted “are substantially damaged structures;” for “have flood damage in which the cost of repairs equals or exceeds 50 percent of the value of the structure at the time of the flood event; and”.
+    Subsec. (b)(2). [Pub. L. 108–264][/us/pl/108/264], § 105(a)(2), substituted “are substantially damaged structures;” for “have flood damage in which the cost of repairs equals or exceeds 50 percent of the value of the structure at the time of the flood event; and”.
 
-    Subsec. (b)(3). [Pub. L. 108–264, § 105(a)(3)][/us/pl/108/264/s105/a/3], which directed the substitution of “the implementation of such measures; and” for “compliance with land use and control measures.”, was executed by making the substitution for “compliance with the land use and control measures.”, to reflect the probable intent of Congress.
+    Subsec. (b)(3). [Pub. L. 108–264][/us/pl/108/264], § 105(a)(3), which directed the substitution of “the implementation of such measures; and” for “compliance with land use and control measures.”, was executed by making the substitution for “compliance with the land use and control measures.”, to reflect the probable intent of Congress.
 
-    Subsec. (b)(4). [Pub. L. 108–264, § 105(a)(4)][/us/pl/108/264/s105/a/4], added par. (4).
+    Subsec. (b)(4). [Pub. L. 108–264][/us/pl/108/264], § 105(a)(4), added par. (4).
 
     1994—Subsecs. (b), (c). [Pub. L. 103–325][/us/pl/103/325] added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    1983—Subsec. (a). [Pub. L. 98–181, § 451(d)(2)][/us/pl/98/181/s451/d/2], substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development”.
+    1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(2), substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development”.
 
-    Subsec. (b). [Pub. L. 98–181, § 451(d)(1)][/us/pl/98/181/s451/d/1], substituted “Director” for “Secretary”.
+    Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(1), substituted “Director” for “Secretary”.
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–325, title V, § 555(b)][/us/pl/103/325/s555/b], Sept. 23, 1994, [108 Stat. 2274][/us/stat/108/2274], provided that: 
+[Pub. L. 103–325, title V][/us/pl/103/325/tV], § 555(b), Sept. 23, 1994, [108 Stat. 2274][/us/stat/108/2274], provided that: 
 
 > “The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\].”
 
@@ -101,7 +101,7 @@
 
  __Flood in Progress Determinations__ 
 
-[Pub. L. 112–141, div. F, title II, § 100227][/us/pl/112/141/s100227], July 6, 2012, [126 Stat. 943][/us/stat/126/943], provided that:
+[Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100227, July 6, 2012, [126 Stat. 943][/us/stat/126/943], provided that:
 
 >     “(a) __Report.—__ 
 
@@ -147,7 +147,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 108–264, § 2][/us/pl/108/264/s2], June 30, 2004, [118 Stat. 712][/us/stat/118/712], provided that: 
+[Pub. L. 108–264][/us/pl/108/264], § 2, June 30, 2004, [118 Stat. 712][/us/stat/118/712], provided that: 
 
 > “The Congress finds that—
 
@@ -187,7 +187,7 @@
 
  __Miscellaneous Flood Insurance Provisions__ 
 
-[Pub. L. 108–264, title II][/us/pl/108/264], June 30, 2004, [118 Stat. 725][/us/stat/118/725], as amended by [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that:
+[Pub. L. 108–264, title II][/us/pl/108/264/tII], June 30, 2004, [118 Stat. 725][/us/stat/118/725], as amended by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that:
 
 > “SEC. 201. __DEFINITIONS.__ 
 
@@ -320,46 +320,46 @@
 [/us/usc/t42/s4104c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104c
 [/us/usc/t42/s5170c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170c
 [/us/usc/t42/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5133
-[/us/pl/90/448/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1304
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F574
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/103/325/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs555%2Fa
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2274
-[/us/pl/108/264/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fa
+[/us/pl/108/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2FtI
 [/us/stat/118/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F723
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F942
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100225/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Ff
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/108/264/s105/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fa%2F1%2FB
-[/us/pl/108/264/s105/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fa%2F1%2FA
-[/us/pl/108/264/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fa%2F2
-[/us/pl/108/264/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fa%2F3
-[/us/pl/108/264/s105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs105%2Fa%2F4
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/98/181/s451/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F2
-[/us/pl/98/181/s451/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F1
-[/us/pl/103/325/s555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs555%2Fb
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2274
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/141/s100227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100227
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F943
 [/us/usc/t42/s4013/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4013%2Fc
 [/us/pl/112/141/s100227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100227
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004
-[/us/pl/108/264/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs2
-[/us/stat/118/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F712
 [/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
+[/us/stat/118/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F712
+[/us/pl/108/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2FtII
 [/us/stat/118/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F725
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001

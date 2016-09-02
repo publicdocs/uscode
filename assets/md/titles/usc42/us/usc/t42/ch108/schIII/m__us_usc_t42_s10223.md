@@ -17,7 +17,7 @@
 
     The Secretary shall undertake a study with respect to alternative approaches to managing the construction and operation of all civilian radioactive waste management facilities, including the feasibility of establishing a private corporation for such purposes. In conducting such study, the Secretary shall consult with the Director of the Office of Management and Budget, the Chairman of the Commission, and such other Federal agency representatives as may be appropriate. Such study shall be completed, and a report containing the results of such study shall be submitted to the Congress, within 1 year after January 7, 1983.
 
-([Pub. L. 97–425, title III, § 303][/us/pl/97/425/s303], Jan. 7, 1983, [96 Stat. 2261][/us/stat/96/2261].)
+([Pub. L. 97–425, title III][/us/pl/97/425/tIII], § 303, Jan. 7, 1983, [96 Stat. 2261][/us/stat/96/2261].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs303
+[/us/pl/97/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIII
 [/us/stat/96/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2261
 
 

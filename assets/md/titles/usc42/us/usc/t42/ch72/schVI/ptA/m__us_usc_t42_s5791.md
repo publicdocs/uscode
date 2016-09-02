@@ -49,7 +49,7 @@
 
         Not later than March 1, 2005, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.
 
-([Pub. L. 108–21, title III, § 301][/us/pl/108/21/s301], Apr. 30, 2003, [117 Stat. 660][/us/stat/117/660].)
+([Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 301, Apr. 30, 2003, [117 Stat. 660][/us/stat/117/660].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/108/21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs301
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F660
 
 

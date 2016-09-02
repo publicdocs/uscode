@@ -301,7 +301,7 @@
 
         The Administrator shall conduct an evaluation of the effectiveness of the State loan funds through fiscal year 2001. The evaluation shall be submitted to the Congress at the same time as the President submits to the Congress, pursuant to [section 1108 of title 31][/us/usc/t31/s1108], an appropriations request for fiscal year 2003 relating to the budget of the Environmental Protection Agency.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1452, as added [Pub. L. 104–182, title I, § 130][/us/pl/104/182/s130], Aug. 6, 1996, [110 Stat. 1662][/us/stat/110/1662].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1452, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 130, Aug. 6, 1996, [110 Stat. 1662][/us/stat/110/1662].)
 
  __References in Text__ 
 
@@ -309,31 +309,31 @@
 
  __Combining Fund Assets for Enhancement of Lending Capacity__ 
 
-[Pub. L. 105–276, title III][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2498][/us/stat/112/2498], provided in part: 
+[Pub. L. 105–276, title III][/us/pl/105/276/tIII], Oct. 21, 1998, [112 Stat. 2498][/us/stat/112/2498], provided in part: 
 
 > “That, consistent with section 1452(g) of the Safe Drinking Water Act ([42 U.S.C. 300j–12(g)][/us/usc/t42/s300j–12/g]), section 302 of the Safe Drinking Water Act Amendments of 1996 ([Public Law 104–182][/us/pl/104/182]) \[set out as a note below\] and the accompanying joint explanatory statement of the committee of conference (H. Rept. No. 104–741 to accompany S. 1316, the Safe Drinking Water Act Amendments of 1996), and notwithstanding any other provision of law, beginning in fiscal year 1999 and thereafter, States may combine the assets of State Revolving Funds (SRFs) established under section 1452 of the Safe Drinking Water Act, as amended, and title VI of the Federal Water Pollution Control Act \[[33 U.S.C. 1381][/us/usc/t33/s1381] et seq.\], as amended, as security for bond issues to enhance the lending capacity of one or both SRFs, but not to acquire the state match for either program, provided that revenues from the bonds are allocated to the purposes of the Safe Drinking Water Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] and the Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] in the same portion as the funds are used as security for the bonds”.
 
  __Transfer of Funds__ 
 
-[Pub. L. 112–74, div. E, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1018][/us/stat/125/1018], provided in part: 
+[Pub. L. 112–74, div. E, title II][/us/pl/112/74/dE/tII], Dec. 23, 2011, [125 Stat. 1018][/us/stat/125/1018], provided in part: 
 
 > “That for fiscal year 2012 and hereafter, the Administrator may transfer funds provided for tribal set-asides through funds appropriated for the Clean Water State Revolving Funds and for the Drinking Water State Revolving Funds between those accounts in such manner as the Administrator deems appropriate, but not to exceed the transfer limits given to States under [section 302(a) of Public Law 104–182][/us/pl/104/182/s302/a] \[set out below\].”
 
-[Pub. L. 109–54, title II][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 530][/us/stat/119/530], provided in part: 
+[Pub. L. 109–54, title II][/us/pl/109/54/tII], Aug. 2, 2005, [119 Stat. 530][/us/stat/119/530], provided in part: 
 
 > “That for fiscal year 2006 and thereafter, State authority under [section 302(a) of Public Law 104–182][/us/pl/104/182/s302/a] \[set out as a note below\] shall remain in effect”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–447, div. I, title III][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3330][/us/stat/118/3330].
+    [Pub. L. 108–447, div. I, title III][/us/pl/108/447/dI/tIII], Dec. 8, 2004, [118 Stat. 3330][/us/stat/118/3330].
 
-    [Pub. L. 108–199, div. G, title III][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 406][/us/stat/118/406].
+    [Pub. L. 108–199, div. G, title III][/us/pl/108/199/dG/tIII], Jan. 23, 2004, [118 Stat. 406][/us/stat/118/406].
 
-    [Pub. L. 108–7, div. K, title III][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 512][/us/stat/117/512].
+    [Pub. L. 108–7, div. K, title III][/us/pl/108/7/dK/tIII], Feb. 20, 2003, [117 Stat. 512][/us/stat/117/512].
 
-    [Pub. L. 107–73, title III][/us/pl/107/73], Nov. 26, 2001, [115 Stat. 685][/us/stat/115/685].
+    [Pub. L. 107–73, title III][/us/pl/107/73/tIII], Nov. 26, 2001, [115 Stat. 685][/us/stat/115/685].
 
-[Pub. L. 104–182, title III, § 302][/us/pl/104/182/s302], Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683], provided that:
+[Pub. L. 104–182, title III][/us/pl/104/182/tIII], § 302, Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -390,33 +390,33 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s300j–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%931%2Fe
 [/us/usc/t31/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1108
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs130
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1662
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/stat/110/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1613
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIII
 [/us/stat/112/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2498
 [/us/usc/t42/s300j–12/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312%2Fg
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtII
 [/us/stat/125/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1018
 [/us/pl/104/182/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs302%2Fa
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtII
 [/us/stat/119/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F530
 [/us/pl/104/182/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs302%2Fa
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtIII
 [/us/stat/118/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3330
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIII
 [/us/stat/118/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F406
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIII
 [/us/stat/117/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F512
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtIII
 [/us/stat/115/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F685
-[/us/pl/104/182/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs302
+[/us/pl/104/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtIII
 [/us/stat/110/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1683
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t33/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1381

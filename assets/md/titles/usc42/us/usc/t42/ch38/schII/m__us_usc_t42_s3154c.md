@@ -31,7 +31,7 @@
 
         Under subsection (c) of this section, a recipient may not provide any grant to a private for-profit entity.
 
-([Pub. L. 89–136, title II, § 217][/us/pl/89/136/s217], as added [Pub. L. 108–373, title II, § 212(a)][/us/pl/108/373/s212/a], Oct. 27, 2004, [118 Stat. 1766][/us/stat/118/1766].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 217, as added [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 212(a), Oct. 27, 2004, [118 Stat. 1766][/us/stat/118/1766].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t42/s3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3149
-[/us/pl/89/136/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs217
-[/us/pl/108/373/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs212%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1766
 
 

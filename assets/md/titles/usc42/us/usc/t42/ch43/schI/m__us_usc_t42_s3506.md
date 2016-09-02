@@ -17,11 +17,11 @@
 
     To the extent and under the conditions provided by regulations of the Secretary, officers (including commissioned officers of the Public Health Service) and employees of the Department of Health and Human Services may on and after June 29, 1957, in connection with their attendance at meetings or in performing advisory services concerned with the functions or activities of the Department, be permitted to accept payment, in cash or in kind, from non-Federal agencies, organizations, and individuals, for travel and subsistence expenses, to be retained by them to cover the cost thereof or deposited to the credit of the appropriation from which the cost thereof is paid, as may be provided, in such regulations.
 
-([Pub. L. 85–67, title II, § 211][/us/pl/85/67/s211], June 29, 1957, [71 Stat. 224][/us/stat/71/224]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 85–67, title II][/us/pl/85/67/tII], § 211, June 29, 1957, [71 Stat. 224][/us/stat/71/224]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Codification__ 
 
-    Section was formerly classified to section 623f of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 623f of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Transfer of Functions__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/85/67/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F67%2Fs211
+[/us/pl/85/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F67%2FtII
 [/us/stat/71/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F224
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb

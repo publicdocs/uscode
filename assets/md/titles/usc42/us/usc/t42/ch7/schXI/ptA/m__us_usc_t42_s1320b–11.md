@@ -93,7 +93,7 @@
 
             The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1141, as added [Pub. L. 100–647, title VIII, § 8008(b)(1)][/us/pl/100/647/s8008/b/1], Nov. 10, 1988, [102 Stat. 3784][/us/stat/102/3784]; amended [Pub. L. 103–296, title I, § 108(b)(13)][/us/pl/103/296/s108/b/13], Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1141, as added [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8008(b)(1), Nov. 10, 1988, [102 Stat. 3784][/us/stat/102/3784]; amended [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(b)(13), Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484].)
 
  __References in Text__ 
 
@@ -101,17 +101,17 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 108(b)(13)(A)][/us/pl/103/296/s108/b/13/A], (C), substituted “The Commissioner of Social Security” for “The Secretary” and struck out “under the direction of the Commissioner of Social Security,” before “which shall be used”.
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(13)(A), (C), substituted “The Commissioner of Social Security” for “The Secretary” and struck out “under the direction of the Commissioner of Social Security,” before “which shall be used”.
 
-    Subsec. (b), (c). [Pub. L. 103–296, § 108(b)(13)(A)][/us/pl/103/296/s108/b/13/A], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    Subsec. (b), (c). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(13)(A), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (d). [Pub. L. 103–296, § 108(b)(13)(D)][/us/pl/103/296/s108/b/13/D], which directed amendment of par. (6) by substituting “Social Security Administration” for “Department of Health Services”, was executed by substituting “Social Security Administration” for “Department of Health and Human Services” in closing provisions to reflect the probable intent of Congress.
+    Subsec. (d). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(13)(D), which directed amendment of par. (6) by substituting “Social Security Administration” for “Department of Health Services”, was executed by substituting “Social Security Administration” for “Department of Health and Human Services” in closing provisions to reflect the probable intent of Congress.
 
-    [Pub. L. 103–296, § 108(b)(13)(A)][/us/pl/103/296/s108/b/13/A], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    [Pub. L. 103–296][/us/pl/103/296], § 108(b)(13)(A), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (e). [Pub. L. 103–296, § 108(b)(13)(A)][/us/pl/103/296/s108/b/13/A], (B), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “Commissioner’s” for “Secretary’s” in introductory provisions.
+    Subsec. (e). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(13)(A), (B), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “Commissioner’s” for “Secretary’s” in introductory provisions.
 
-    Subsecs. (f), (g), (h)(1)(B). [Pub. L. 103–296, § 108(b)(13)(A)][/us/pl/103/296/s108/b/13/A], substituted “Commissioner of Social Security” for “Secretary”.
+    Subsecs. (f), (g), (h)(1)(B). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(13)(A), substituted “Commissioner of Social Security” for “Secretary”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -123,7 +123,7 @@
 
  __Time Limit for Establishment of Blood Donor Locator Service__ 
 
-[Pub. L. 100–647, title VIII, § 8008(b)(2)][/us/pl/100/647/s8008/b/2], Nov. 10, 1988, [102 Stat. 3786][/us/stat/102/3786], provided that: 
+[Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8008(b)(2), Nov. 10, 1988, [102 Stat. 3786][/us/stat/102/3786], provided that: 
 
 > “The Secretary of Health and Human Services shall establish the Blood Donor Locator Service pursuant to section 1141 of the Social Security Act \[[42 U.S.C. 1320b–11][/us/usc/t42/s1320b–11]\] not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -135,21 +135,21 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/647/s8008/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8008%2Fb%2F1
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3784
-[/us/pl/103/296/s108/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F13
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1484
-[/us/pl/103/296/s108/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F13%2FA
-[/us/pl/103/296/s108/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F13%2FA
-[/us/pl/103/296/s108/b/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F13%2FD
-[/us/pl/103/296/s108/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F13%2FA
-[/us/pl/103/296/s108/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F13%2FA
-[/us/pl/103/296/s108/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F13%2FA
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/100/647/s8008/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8008%2Fb%2F2
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3786
 [/us/usc/t42/s1320b–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9311
 

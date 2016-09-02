@@ -19,7 +19,7 @@
 
         The Secretary is authorized to establish a partnership of Department of Energy laboratories, academic institutions, and private sector industries to conduct environmentally-related education programs, including programs involving environmentally conscious manufacturing and waste management activities that have undergraduate and graduate educational training as a component.
 
-([Pub. L. 103–382, title V, § 517][/us/pl/103/382/s517], Oct. 20, 1994, [108 Stat. 4044][/us/stat/108/4044].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 517, Oct. 20, 1994, [108 Stat. 4044][/us/stat/108/4044].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/103/382/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs517
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4044
 
 

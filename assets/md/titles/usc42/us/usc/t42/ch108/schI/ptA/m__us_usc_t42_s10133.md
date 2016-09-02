@@ -85,7 +85,7 @@
 
         Each activity of the Secretary under this section that is in compliance with the provisions of subsection (c) shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332(2)(C)][/us/usc/t42/s4332/2/C]), or to  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The word “to” probably should not appear. </sup></sup>  require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
 
-([Pub. L. 97–425, title I, § 113][/us/pl/97/425/s113], Jan. 7, 1983, [96 Stat. 2211][/us/stat/96/2211]; [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5011(e)][/us/pl/100/203/s5011/e]–(g), Dec. 22, 1987, [101 Stat. 1330–228][/us/stat/101/1330-228].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 113, Jan. 7, 1983, [96 Stat. 2211][/us/stat/96/2211]; [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5011(e)–(g), Dec. 22, 1987, [101 Stat. 1330–228][/us/stat/101/1330-228].)
 
  __References in Text__ 
 
@@ -95,21 +95,21 @@
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(e)(2)][/us/pl/100/203/s5011/e/2], which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through “geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under [section 10132 of this title][/us/usc/t42/s10132] and are located in various geologic media” as the probable intent of Congress.
+    1987—Subsec. (a). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through “geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under [section 10132 of this title][/us/usc/t42/s10132] and are located in various geologic media” as the probable intent of Congress.
 
-    [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(e)(1)][/us/pl/100/203/s5011/e/1], amended subsec. (a) identically, substituting “State of Nevada” for “State involved or the governing body of the affected Indian tribe involved”.
+    [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(e)(1), amended subsec. (a) identically, substituting “State of Nevada” for “State involved or the governing body of the affected Indian tribe involved”.
 
-    Subsec. (b)(1). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(f)(1)][/us/pl/100/203/s5011/f/1], amended par. (1) identically, substituting “the Yucca Mountain site” for “any candidate site” and “the Governor or legislature of the State of Nevada” for “either the Governor and legislature of the State in which such candidate site is located, or the governing body of the affected Indian tribe on whose reservation such candidate site is located, as the case may be”.
+    Subsec. (b)(1). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(f)(1), amended par. (1) identically, substituting “the Yucca Mountain site” for “any candidate site” and “the Governor or legislature of the State of Nevada” for “either the Governor and legislature of the State in which such candidate site is located, or the governing body of the affected Indian tribe on whose reservation such candidate site is located, as the case may be”.
 
-    Subsec. (b)(2). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(f)(2)][/us/pl/100/203/s5011/f/2], amended par. (2) identically, substituting “the Yucca Mountain site” for “any candidate site”.
+    Subsec. (b)(2). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(f)(2), amended par. (2) identically, substituting “the Yucca Mountain site” for “any candidate site”.
 
-    Subsec. (b)(3). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(f)(3)][/us/pl/100/203/s5011/f/3], amended par. (3) identically, substituting “the Yucca Mountain site” for “a candidate site”, striking “either” before “the Governor”, and substituting “the State of Nevada” for “the State in which such candidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be”.
+    Subsec. (b)(3). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(f)(3), amended par. (3) identically, substituting “the Yucca Mountain site” for “a candidate site”, striking “either” before “the Governor”, and substituting “the State of Nevada” for “the State in which such candidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be”.
 
-    Subsec. (c)(1). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(g)(1)][/us/pl/100/203/s5011/g/1], amended par. (1) identically, substituting “the Yucca Mountain site” for “any candidate site”, “suitability of such site” for “suitability of such candidate site”, and “repository at such site” for “repository at such candidate site”.
+    Subsec. (c)(1). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(g)(1), amended par. (1) identically, substituting “the Yucca Mountain site” for “any candidate site”, “suitability of such site” for “suitability of such candidate site”, and “repository at such site” for “repository at such candidate site”.
 
-    Subsec. (c)(2). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(g)(2)][/us/pl/100/203/s5011/g/2], amended par. (2) identically, striking out “candidate” before “site” in two places in subpar. (A) and in two places in subpar. (B).
+    Subsec. (c)(2). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(g)(2), amended par. (2) identically, striking out “candidate” before “site” in two places in subpar. (A) and in two places in subpar. (B).
 
-    Subsec. (c)(3), (4). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203, § 5011(g)(3)][/us/pl/100/203/s5011/g/3], amended subsec. (c) identically, adding par. (3) and striking out former pars. (3) and (4) which read as follows:
+    Subsec. (c)(3), (4). [Pub. L. 100–202][/us/pl/100/202] and [Pub. L. 100–203][/us/pl/100/203], § 5011(g)(3), amended subsec. (c) identically, adding par. (3) and striking out former pars. (3) and (4) which read as follows:
 
     “(3) If site characterization activities are terminated at a candidate site for any reason, the Secretary shall (A) notify the Congress, the Governors and legislatures of all States in which candidate sites are located, and the governing bodies of all affected Indian tribes where candidate sites are located, of such termination and the reasons for such termination; and (B) remove any high-level radioactive waste, spent nuclear fuel, or other radioactive materials at or in such candidate site as promptly as practicable.
 
@@ -126,32 +126,32 @@
 [/us/usc/t42/s10132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10132%2Fa
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
-[/us/pl/97/425/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs113
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2211
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5011/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Fe
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-228
 [/us/usc/t42/s10132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10132
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Fe%2F2
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t42/s10132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10132
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Fe%2F1
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Ff%2F1
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Ff%2F2
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Ff%2F3
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Fg%2F1
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Fg%2F2
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/203/s5011/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Fg%2F3
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 
 

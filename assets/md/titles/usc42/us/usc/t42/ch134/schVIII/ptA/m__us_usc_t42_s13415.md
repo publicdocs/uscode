@@ -57,7 +57,7 @@
 
             (E) development of new technology.
 
-([Pub. L. 102–486, title XX, § 2015][/us/pl/102/486/s2015], Oct. 24, 1992, [106 Stat. 3060][/us/stat/106/3060].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2015, Oct. 24, 1992, [106 Stat. 3060][/us/stat/106/3060].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2015
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3060
 
 

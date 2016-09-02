@@ -35,7 +35,7 @@
 
     (c) The Congress recognizes that each person should enjoy a healthful environment and that each person has a responsibility to contribute to the preservation and enhancement of the environment.
 
-([Pub. L. 91–190, title I, § 101][/us/pl/91/190/s101], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852].)
+([Pub. L. 91–190, title I][/us/pl/91/190/tI], § 101, Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852].)
 
  __Commission on Population Growth and the American Future__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/91/190/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs101
+[/us/pl/91/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtI
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/pl/91/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F213
 [/us/stat/84/67-69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F67-69

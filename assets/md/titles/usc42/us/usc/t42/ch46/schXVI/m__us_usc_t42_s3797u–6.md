@@ -23,7 +23,7 @@
 
         Unless one or more applications submitted by any State or unit of local government within such State (other than an Indian tribe) for a grant under this subchapter has been funded in any fiscal year, such State, together with eligible applicants within such State, shall be provided targeted technical assistance and training by the Bureau of Justice Assistance to assist such State and such eligible applicants to successfully compete for future funding under this subchapter, and to strengthen existing State drug court systems. In providing such technical assistance and training, the Bureau of Justice Assistance shall consider and respond to the unique needs of rural States, rural areas and rural communities.
 
-([Pub. L. 90–351, title I, § 2957][/us/pl/90/351/s2957], as added [Pub. L. 107–273, div. B, title II, § 2301(a)][/us/pl/107/273/s2301/a], Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797]; amended [Pub. L. 109–162, title XI, § 1142(a)][/us/pl/109/162/s1142/a], Jan. 5, 2006, [119 Stat. 3110][/us/stat/119/3110]; [Pub. L. 109–271, § 8][/us/pl/109/271/s8](l), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2957, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2301(a), Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1142(a), Jan. 5, 2006, [119 Stat. 3110][/us/stat/119/3110]; [Pub. L. 109–271][/us/pl/109/271], § 8(l), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
 
  __Amendments__ 
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2957
-[/us/pl/107/273/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1797
-[/us/pl/109/162/s1142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1142%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3110
-[/us/pl/109/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F767
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

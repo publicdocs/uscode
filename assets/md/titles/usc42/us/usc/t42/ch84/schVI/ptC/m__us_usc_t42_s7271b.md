@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7271a.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7271c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7271b)
 
-## § 7271b. Repealed. [Pub. L. 106–65, div. C, title XXXII, § 3294(f)][/us/pl/106/65/s3294/f], Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]
+## § 7271b. Repealed. [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3294(f), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]
 
-    Section, [Pub. L. 104–201, div. C, title XXXI, § 3155][/us/pl/104/201/s3155], Sept. 23, 1996, [110 Stat. 2841][/us/stat/110/2841], related to requirement for annual five-year budget for national security programs of Department of Energy.
+    Section, [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3155, Sept. 23, 1996, [110 Stat. 2841][/us/stat/110/2841], related to requirement for annual five-year budget for national security programs of Department of Energy.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3294/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Ff
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
-[/us/pl/104/201/s3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3155
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2841
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401

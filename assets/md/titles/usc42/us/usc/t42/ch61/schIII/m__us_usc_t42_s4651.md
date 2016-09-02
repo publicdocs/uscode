@@ -37,7 +37,7 @@
 
     (10) A person whose real property is being acquired in accordance with this subchapter may, after the person has been fully informed of his right to receive just compensation for such property, donate such property, and part thereof, any interest therein, or any compensation paid therefor to a Federal agency, as such person shall determine.
 
-([Pub. L. 91–646, title III, § 301][/us/pl/91/646/s301], Jan. 2, 1971, [84 Stat. 1904][/us/stat/84/1904]; [Pub. L. 100–17, title IV, § 416][/us/pl/100/17/s416], Apr. 2, 1987, [101 Stat. 255][/us/stat/101/255].)
+([Pub. L. 91–646, title III][/us/pl/91/646/tIII], § 301, Jan. 2, 1971, [84 Stat. 1904][/us/stat/84/1904]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 416, Apr. 2, 1987, [101 Stat. 255][/us/stat/101/255].)
 
  __References in Text__ 
 
@@ -49,15 +49,15 @@
 
  __Codification__ 
 
-    In par. (4), “section 3114(a) to (d) of title 40” substituted for “[section 1 of the Act of February 26, 1931][/us/act/1931-02-26/s1] ([46 Stat. 1421][/us/stat/46/1421]; [40 U.S.C. 258a][/us/usc/t40/s258a])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In par. (4), “section 3114(a) to (d) of title 40” substituted for “[section 1 of the Act of February 26, 1931][/us/act/1931-02-26/s1] ([46 Stat. 1421][/us/stat/46/1421]; [40 U.S.C. 258a][/us/usc/t40/s258a])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    1987—Par. (2). [Pub. L. 100–17, § 416(a)][/us/pl/100/17/s416/a], inserted provision respecting the waiver of appraisal in cases involving the acquisition of property with a low fair market value.
+    1987—Par. (2). [Pub. L. 100–17][/us/pl/100/17], § 416(a), inserted provision respecting the waiver of appraisal in cases involving the acquisition of property with a low fair market value.
 
-    Par. (9). [Pub. L. 100–17, § 416(b)][/us/pl/100/17/s416/b], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “If the acquisition of only part of a property would leave its owner with an uneconomic remnant, the head of the Federal agency concerned shall offer to acquire the entire property.”
+    Par. (9). [Pub. L. 100–17][/us/pl/100/17], § 416(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “If the acquisition of only part of a property would leave its owner with an uneconomic remnant, the head of the Federal agency concerned shall offer to acquire the entire property.”
 
-    Par. (10). [Pub. L. 100–17, § 416(c)][/us/pl/100/17/s416/c], added par. (10).
+    Par. (10). [Pub. L. 100–17][/us/pl/100/17], § 416(c), added par. (10).
 
  __Effective Date of 1987 Amendment__ 
 
@@ -65,7 +65,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 91–646, title III, § 306][/us/pl/91/646/s306], Jan. 2, 1971, [84 Stat. 1907][/us/stat/84/1907], provided in part that: 
+[Pub. L. 91–646, title III][/us/pl/91/646/tIII], § 306, Jan. 2, 1971, [84 Stat. 1907][/us/stat/84/1907], provided in part that: 
 
 > “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Act or portions thereof under this section \[repealing sections 3071 to 3073 of this title, [section 141 of Title 23][/us/usc/t23/s141], Highways, and [section 596 of Title 33][/us/usc/t33/s596], Navigation and Navigable Waters\].”
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/91/646/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs301
+[/us/pl/91/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtIII
 [/us/stat/84/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1904
-[/us/pl/100/17/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs416
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F255
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1895
@@ -91,17 +91,17 @@
 [/us/act/1931-02-26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-26%2Fs1
 [/us/stat/46/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1421
 [/us/usc/t40/s258a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs258a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/100/17/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs416%2Fa
-[/us/pl/100/17/s416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs416%2Fb
-[/us/pl/100/17/s416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs416%2Fc
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/usc/t42/s4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633
 [/us/pl/100/17/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs412
 [/us/pl/100/17/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs418
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/91/646/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs306
+[/us/pl/91/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtIII
 [/us/stat/84/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1907
 [/us/usc/t23/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs141
 [/us/usc/t33/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs596

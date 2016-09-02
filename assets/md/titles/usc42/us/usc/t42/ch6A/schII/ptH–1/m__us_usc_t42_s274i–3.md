@@ -17,7 +17,7 @@
 
     A medal under this part shall not be treated as valuable consideration for purposes of [section 274e(a) of this title][/us/usc/t42/s274e/a].
 
-([Pub. L. 110–413, § 5][/us/pl/110/413/s5], Oct. 14, 2008, [122 Stat. 4340][/us/stat/122/4340].)
+([Pub. L. 110–413][/us/pl/110/413], § 5, Oct. 14, 2008, [122 Stat. 4340][/us/stat/122/4340].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s274e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274e%2Fa
-[/us/pl/110/413/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413%2Fs5
+[/us/pl/110/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413
 [/us/stat/122/4340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4340
 
 

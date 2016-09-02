@@ -31,17 +31,17 @@
 
         The Administrator of the Substance Abuse and Mental Health Services Administration shall evaluate at least once every 3 years the expenditures of grants under this part by eligible entities in order to ensure that expenditures are consistent with the provisions of this part, and shall include in such evaluation recommendations regarding changes needed in program design or operations.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 528, as added [Pub. L. 100–77, title VI, § 611(3)][/us/pl/100/77/s611/3], July 22, 1987, [101 Stat. 520][/us/stat/101/520]; amended [Pub. L. 100–607, title VIII, § 812(b)][/us/pl/100/607/s812/b], Nov. 4, 1988, [102 Stat. 3170][/us/stat/102/3170]; [Pub. L. 100–628, title VI, § 612(b)][/us/pl/100/628/s612/b], Nov. 7, 1988, [102 Stat. 3243][/us/stat/102/3243]; [Pub. L. 100–690, title II, § 2614(a)][/us/pl/100/690/s2614/a], Nov. 18, 1988, [102 Stat. 4239][/us/stat/102/4239]; [Pub. L. 101–93, § 5(t)(1)][/us/pl/101/93/s5/t/1], Aug. 16, 1989, [103 Stat. 615][/us/stat/103/615]; [Pub. L. 101–645, title V, § 511][/us/pl/101/645/s511], Nov. 29, 1990, [104 Stat. 4730][/us/stat/104/4730]; [Pub. L. 102–321, title I, § 163(a)(1)][/us/pl/102/321/s163/a/1], formerly § 163(a)(2), July 10, 1992, [106 Stat. 375][/us/stat/106/375], renumbered § 163(a)(1), [Pub. L. 102–352, § 2(b)(2)][/us/pl/102/352/s2/b/2], Aug. 26, 1992, [106 Stat. 939][/us/stat/106/939]; [Pub. L. 104–316, title I, § 122(c)][/us/pl/104/316/s122/c], Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 528, as added [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 611(3), July 22, 1987, [101 Stat. 520][/us/stat/101/520]; amended [Pub. L. 100–607, title VIII][/us/pl/100/607/tVIII], § 812(b), Nov. 4, 1988, [102 Stat. 3170][/us/stat/102/3170]; [Pub. L. 100–628, title VI][/us/pl/100/628/tVI], § 612(b), Nov. 7, 1988, [102 Stat. 3243][/us/stat/102/3243]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2614(a), Nov. 18, 1988, [102 Stat. 4239][/us/stat/102/4239]; [Pub. L. 101–93][/us/pl/101/93], § 5(t)(1), Aug. 16, 1989, [103 Stat. 615][/us/stat/103/615]; [Pub. L. 101–645, title V][/us/pl/101/645/tV], § 511, Nov. 29, 1990, [104 Stat. 4730][/us/stat/104/4730]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(a)(1), formerly § 163(a)(2), July 10, 1992, [106 Stat. 375][/us/stat/106/375], renumbered § 163(a)(1), [Pub. L. 102–352][/us/pl/102/352], § 2(b)(2), Aug. 26, 1992, [106 Stat. 939][/us/stat/106/939]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(c), Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–316, § 122(c)(1)][/us/pl/104/316/s122/c/1], struck out “the Comptroller General of the United States, and” after “(after consultation with”.
+    1996—Subsec. (a). [Pub. L. 104–316][/us/pl/104/316], § 122(c)(1), struck out “the Comptroller General of the United States, and” after “(after consultation with”.
 
-    Subsec. (c). [Pub. L. 104–316, § 122(c)(2)][/us/pl/104/316/s122/c/2], struck out “Comptroller General of the United States in cooperation with the” before “Administrator” and struck out comma after “Administration”.
+    Subsec. (c). [Pub. L. 104–316][/us/pl/104/316], § 122(c)(2), struck out “Comptroller General of the United States in cooperation with the” before “Administrator” and struck out comma after “Administration”.
 
-    1992—Subsec. (a). [Pub. L. 102–321, § 163(a)(1)(A)][/us/pl/102/321/s163/a/1/A], as renumbered by [Pub. L. 102–352][/us/pl/102/352], substituted “and the Administrator of the Substance Abuse and Mental Health Services Administration” for “the National Institute of Mental Health, the National Institute on Alcohol Abuse and Alcoholism, and the National Institute on Drug Abuse”.
+    1992—Subsec. (a). [Pub. L. 102–321][/us/pl/102/321], § 163(a)(1)(A), as renumbered by [Pub. L. 102–352][/us/pl/102/352], substituted “and the Administrator of the Substance Abuse and Mental Health Services Administration” for “the National Institute of Mental Health, the National Institute on Alcohol Abuse and Alcoholism, and the National Institute on Drug Abuse”.
 
-    Subsec. (c). [Pub. L. 102–321, § 163(a)(1)(B)][/us/pl/102/321/s163/a/1/B], as renumbered by [Pub. L. 102–352][/us/pl/102/352], substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “National Institute of Mental Health”.
+    Subsec. (c). [Pub. L. 102–321][/us/pl/102/321], § 163(a)(1)(B), as renumbered by [Pub. L. 102–352][/us/pl/102/352], substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “National Institute of Mental Health”.
 
     1990—[Pub. L. 101–645][/us/pl/101/645] amended section generally, substituting provisions relating to requirement of reports by States for provisions relating to determination of amount of allotments.
 
@@ -74,29 +74,29 @@
 [/us/usc/t42/s290cc–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9321
 [/us/usc/t42/s290cc–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/77/s611/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs611%2F3
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F520
-[/us/pl/100/607/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs812%2Fb
+[/us/pl/100/607/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVIII
 [/us/stat/102/3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3170
-[/us/pl/100/628/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs612%2Fb
+[/us/pl/100/628/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVI
 [/us/stat/102/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3243
-[/us/pl/100/690/s2614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2614%2Fa
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4239
-[/us/pl/101/93/s5/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Ft%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F615
-[/us/pl/101/645/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs511
+[/us/pl/101/645/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtV
 [/us/stat/104/4730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4730
-[/us/pl/102/321/s163/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fa%2F1
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F375
-[/us/pl/102/352/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fb%2F2
-[/us/stat/106/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F939
-[/us/pl/104/316/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fc
-[/us/stat/110/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3836
-[/us/pl/104/316/s122/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fc%2F1
-[/us/pl/104/316/s122/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fc%2F2
-[/us/pl/102/321/s163/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fa%2F1%2FA
 [/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
-[/us/pl/102/321/s163/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fa%2F1%2FB
+[/us/stat/106/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F939
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
+[/us/stat/110/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3836
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/pl/101/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93

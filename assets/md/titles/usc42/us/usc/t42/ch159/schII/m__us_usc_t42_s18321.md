@@ -53,7 +53,7 @@
 
             (C) Such other technology elements the Administrator may consider appropriate, and which the Administrator shall specifically identify in the report.
 
-([Pub. L. 111–267, title III, § 301][/us/pl/111/267/s301], Oct. 11, 2010, [124 Stat. 2813][/us/stat/124/2813].)
+([Pub. L. 111–267, title III][/us/pl/111/267/tIII], § 301, Oct. 11, 2010, [124 Stat. 2813][/us/stat/124/2813].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs301
+[/us/pl/111/267/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIII
 [/us/stat/124/2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2813
 
 

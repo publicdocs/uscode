@@ -59,7 +59,7 @@
 
             (B) An eligible system shall have access to the type of records described in subparagraph (A) in accordance with the provisions of subsection (a) of this section and paragraphs (1) and (2) of subsection (b) of this section.
 
-([Pub. L. 99–319, title I, § 106][/us/pl/99/319/s106], May 23, 1986, [100 Stat. 481][/us/stat/100/481]; [Pub. L. 100–509, § 6(b)][/us/pl/100/509/s6/b], Oct. 20, 1988, [102 Stat. 2544][/us/stat/102/2544]; [Pub. L. 102–173, § 10(2)][/us/pl/102/173/s10/2], Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 106, May 23, 1986, [100 Stat. 481][/us/stat/100/481]; [Pub. L. 100–509][/us/pl/100/509], § 6(b), Oct. 20, 1988, [102 Stat. 2544][/us/stat/102/2544]; [Pub. L. 102–173][/us/pl/102/173], § 10(2), Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
 
  __Amendments__ 
 
@@ -78,11 +78,11 @@
 [/us/usc/t42/s10805/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10805%2Fa%2F4
 [/us/usc/t42/s10805/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10805%2Fa%2F4
 [/us/usc/t42/s10805/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10805%2Fa%2F4
-[/us/pl/99/319/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs106
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F481
-[/us/pl/100/509/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs6%2Fb
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2544
-[/us/pl/102/173/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F2
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1219
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509

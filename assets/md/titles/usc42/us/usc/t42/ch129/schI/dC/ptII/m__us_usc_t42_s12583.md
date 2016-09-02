@@ -95,7 +95,7 @@
 
         The Corporation may also require an assurance by the applicant that any national service program carried out by the applicant using assistance provided under [section 12571 of this title][/us/usc/t42/s12571] and any national service program supported by a grant made by the applicant using such assistance will select a portion of the participants for the program from among prospective participants recruited by the Corporation or State Commissions under [section 12592(d) of this title][/us/usc/t42/s12592/d]. The Corporation may specify a minimum percentage of participants to be selected from the national leadership pool established under [section 12592(e) of this title][/us/usc/t42/s12592/e] and may vary the percentage for different types of national service programs.
 
-([Pub. L. 101–610, title I, § 131][/us/pl/101/610/s131], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 803][/us/stat/107/803]; amended [Pub. L. 111–13, title I, § 1309][/us/pl/111/13/s1309], Apr. 21, 2009, [123 Stat. 1507][/us/stat/123/1507].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 131, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 803][/us/stat/107/803]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1309, Apr. 21, 2009, [123 Stat. 1507][/us/stat/123/1507].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (c)(1)(A). [Pub. L. 111–13, § 1309(1)][/us/pl/111/13/s1309/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “the community served and potential participants in the program; and”.
+    2009—Subsec. (c)(1)(A). [Pub. L. 111–13][/us/pl/111/13], § 1309(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the community served and potential participants in the program; and”.
 
-    Subsec. (c)(3). [Pub. L. 111–13, § 1309(2)][/us/pl/111/13/s1309/2], added par. (3) and struck out former par. (3) which read as follows: “in the case of a program that is not funded through a State, consult with and coordinate activities with the State Commission for the State in which the program operates.”
+    Subsec. (c)(3). [Pub. L. 111–13][/us/pl/111/13], § 1309(2), added par. (3) and struck out former par. (3) which read as follows: “in the case of a program that is not funded through a State, consult with and coordinate activities with the State Commission for the State in which the program operates.”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -143,18 +143,18 @@
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12592/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12592%2Fd
 [/us/usc/t42/s12592/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12592%2Fe
-[/us/pl/101/610/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs131
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F803
-[/us/pl/111/13/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1309
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1507
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/pl/101/610/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs131
 [/us/usc/t42/s12655j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655j
-[/us/pl/111/13/s1309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1309%2F1
-[/us/pl/111/13/s1309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1309%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

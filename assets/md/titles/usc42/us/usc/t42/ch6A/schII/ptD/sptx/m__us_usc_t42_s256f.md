@@ -17,7 +17,7 @@
 
     In this subpart, the term “designated dental health professional shortage area” means an area, population group, or facility that is designated by the Secretary as a dental health professional shortage area under [section 254e of this title][/us/usc/t42/s254e] or designated by the applicable State as having a dental health professional shortage.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340F, as added [Pub. L. 107–251, title IV, § 403][/us/pl/107/251/s403], Oct. 26, 2002, [116 Stat. 1660][/us/stat/116/1660].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340F, as added [Pub. L. 107–251, title IV][/us/pl/107/251/tIV], § 403, Oct. 26, 2002, [116 Stat. 1660][/us/stat/116/1660].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/251/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs403
+[/us/pl/107/251/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIV
 [/us/stat/116/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1660
 
 

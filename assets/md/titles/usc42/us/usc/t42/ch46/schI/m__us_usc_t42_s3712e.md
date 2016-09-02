@@ -59,7 +59,7 @@
 
         not  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 3712a(b) 1 of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
 
-([Pub. L. 90–351, title I, § 106][/us/pl/90/351/s106], as added [Pub. L. 109–162, title XI, § 1159(a)][/us/pl/109/162/s1159/a], Jan. 5, 2006, [119 Stat. 3116][/us/stat/119/3116]; amended [Pub. L. 109–271, § 8(f)][/us/pl/109/271/s8/f], Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 106, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1159(a), Jan. 5, 2006, [119 Stat. 3116][/us/stat/119/3116]; amended [Pub. L. 109–271][/us/pl/109/271], § 8(f), Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–162, title XI, § 1159(b)][/us/pl/109/162/s1159/b], Jan. 5, 2006, [119 Stat. 3117][/us/stat/119/3117], provided that: 
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1159(b), Jan. 5, 2006, [119 Stat. 3117][/us/stat/119/3117], provided that: 
 
 > “This section \[enacting this section\] and the amendment made by this section take effect 90 days after the date of the enactment of this Act \[Jan. 5, 2006\].”
 
@@ -84,16 +84,16 @@
 ----------
 ----------
 
-[/us/pl/90/351/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs106
-[/us/pl/109/162/s1159/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1159%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3116
-[/us/pl/109/271/s8/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Ff
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F766
 [/us/usc/t42/s3712a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712a%2Fb
 [/us/usc/t42/s3712h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712h%2Fb
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F217
-[/us/pl/109/162/s1159/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1159%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3117
 
 

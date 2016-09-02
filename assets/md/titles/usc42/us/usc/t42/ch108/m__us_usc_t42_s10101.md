@@ -131,7 +131,7 @@
 
     (34) The term “monitored retrievable storage facility” means the storage facility described in [section 10161(b)(1) of this title][/us/usc/t42/s10161/b/1].
 
-([Pub. L. 97–425, § 2][/us/pl/97/425/s2], Jan. 7, 1983, [96 Stat. 2202][/us/stat/96/2202]; [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5002][/us/pl/100/203/s5002], Dec. 22, 1987, [101 Stat. 1330–227][/us/stat/101/1330-227].)
+([Pub. L. 97–425][/us/pl/97/425], § 2, Jan. 7, 1983, [96 Stat. 2202][/us/stat/96/2202]; [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5002, Dec. 22, 1987, [101 Stat. 1330–227][/us/stat/101/1330-227].)
 
  __References in Text__ 
 
@@ -147,13 +147,13 @@
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121, and [Pub. L. 100–203, title V, § 5001][/us/pl/100/203/s5001], Dec. 22, 1987, [101 Stat. 1330–227][/us/stat/101/1330-227], provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121, and [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5001, Dec. 22, 1987, [101 Stat. 1330–227][/us/stat/101/1330-227], provided that: 
 
 > “This subtitle \[subtitle A (§§ 5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under [section 5841 of this title][/us/usc/t42/s5841]\] may be cited as the ‘Nuclear Waste Policy Amendments Act of 1987’.”
 
  __Short Title__ 
 
-[Pub. L. 97–425, § 1][/us/pl/97/425/s1], Jan. 7, 1983, [96 Stat. 2201][/us/stat/96/2201], provided that: 
+[Pub. L. 97–425][/us/pl/97/425], § 1, Jan. 7, 1983, [96 Stat. 2201][/us/stat/96/2201], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Nuclear Waste Policy Act of 1982’.”
 
@@ -163,7 +163,7 @@
 
  __Nuclear Waste Management Plan; Report__ 
 
-[Pub. L. 102–486, title VIII, § 803][/us/pl/102/486/s803], Oct. 24, 1992, [106 Stat. 2923][/us/stat/106/2923], provided that:
+[Pub. L. 102–486, title VIII][/us/pl/102/486/tVIII], § 803, Oct. 24, 1992, [106 Stat. 2923][/us/stat/106/2923], provided that:
 
 >     “(a)  __Preparation and Submission of Report__  __.—__ 
 
@@ -195,11 +195,11 @@
 [/us/usc/t42/s10222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10222%2Fc
 [/us/usc/t42/s10132/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10132%2Fb%2F1%2FB
 [/us/usc/t42/s10161/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10161%2Fb%2F1
-[/us/pl/97/425/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs2
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2202
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5002
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-227
 [/us/usc/t42/s10224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10224
 [/us/pl/97/425/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs305
@@ -216,15 +216,15 @@
 [/us/usc/t42/s10156/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10156%2Fc
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5001
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-227
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841
-[/us/pl/97/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs1
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2201
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/102/486/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs803
+[/us/pl/102/486/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVIII
 [/us/stat/106/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2923
 [/us/usc/t42/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101
 

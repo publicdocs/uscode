@@ -53,7 +53,7 @@
 
             The Secretary shall ensure that the National Oral Health Surveillance System include the measurement of early childhood caries.
 
-([Pub. L. 111–148, title IV, § 4102(d)][/us/pl/111/148/s4102/d], Mar. 23, 2010, [124 Stat. 552][/us/stat/124/552].)
+([Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4102(d), Mar. 23, 2010, [124 Stat. 552][/us/stat/124/552].)
 
  __Codification__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s4102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4102%2Fd
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F552
 
 

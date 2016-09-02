@@ -49,7 +49,7 @@
 
         (B) the planning or administration of such specialized studies.
 
-([Pub. L. 94–163, title III, § 400A][/us/pl/94/163/s400A], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3248][/us/stat/92/3248]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400A, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3248][/us/stat/92/3248]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Congressional Statement of Findings and Purposes__ 
 
-[Pub. L. 95–619, title III, § 310][/us/pl/95/619/s310], Nov. 9, 1978, [92 Stat. 3248][/us/stat/92/3248], provided that:
+[Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 310, Nov. 9, 1978, [92 Stat. 3248][/us/stat/92/3248], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -94,16 +94,16 @@
 [/us/usc/t42/s6862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6862
 [/us/usc/t42/s6371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371
 [/us/usc/t42/s300s–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300s%E2%80%933
-[/us/pl/94/163/s400A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400A
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3248
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/95/619/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fc
 [/us/usc/t42/s6371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371
-[/us/pl/95/619/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs310
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3248
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s6371j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371j

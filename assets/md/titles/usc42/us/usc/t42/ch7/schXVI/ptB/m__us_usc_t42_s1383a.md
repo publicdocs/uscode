@@ -55,21 +55,21 @@
 
         Any person or entity convicted of a violation of subsection (a) of this section or of [section 408 of this title][/us/usc/t42/s408] may not be certified as a representative payee under [section 1383(a)(2) of this title][/us/usc/t42/s1383/a/2].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1632, as added [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1478][/us/stat/86/1478]; amended [Pub. L. 98–460, § 16(c)(1)][/us/pl/98/460/s16/c/1], Oct. 9, 1984, [98 Stat. 1810][/us/stat/98/1810]; [Pub. L. 103–296, title II, § 206(c)(1)][/us/pl/103/296/s206/c/1], (2), Aug. 15, 1994, [108 Stat. 1513][/us/stat/108/1513]; [Pub. L. 108–203, title II, § 209(c)][/us/pl/108/203/s209/c], Mar. 2, 2004, [118 Stat. 515][/us/stat/118/515]; [Pub. L. 114–74, title VIII, § 813(a)(3)][/us/pl/114/74/s813/a/3], (b)(3), Nov. 2, 2015, [129 Stat. 603][/us/stat/129/603].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1632, as added [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 301, Oct. 30, 1972, [86 Stat. 1478][/us/stat/86/1478]; amended [Pub. L. 98–460][/us/pl/98/460], § 16(c)(1), Oct. 9, 1984, [98 Stat. 1810][/us/stat/98/1810]; [Pub. L. 103–296, title II][/us/pl/103/296/tII], § 206(c)(1), (2), Aug. 15, 1994, [108 Stat. 1513][/us/stat/108/1513]; [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 209(c), Mar. 2, 2004, [118 Stat. 515][/us/stat/118/515]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 813(a)(3), (b)(3), Nov. 2, 2015, [129 Stat. 603][/us/stat/129/603].)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–74, § 813(b)(3)][/us/pl/114/74/s813/b/3], inserted before period at end of concluding provisions “, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both”.
+    2015—Subsec. (a). [Pub. L. 114–74][/us/pl/114/74], § 813(b)(3), inserted before period at end of concluding provisions “, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both”.
 
-    Subsec. (a)(5). [Pub. L. 114–74, § 813(a)(3)][/us/pl/114/74/s813/a/3], added par. (5).
+    Subsec. (a)(5). [Pub. L. 114–74][/us/pl/114/74], § 813(a)(3), added par. (5).
 
-    2004—Subsec. (b). [Pub. L. 108–203, § 209(c)(2)][/us/pl/108/203/s209/c/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    2004—Subsec. (b). [Pub. L. 108–203][/us/pl/108/203], § 209(c)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 108–203, § 209(c)(1)][/us/pl/108/203/s209/c/1], (3), redesignated subsec. (b) as (c), struck out “(2)” before “Any person”, and struck out par (1) which read as follows: “If a person or entity violates subsection (a) of this section in the person’s or entity’s role as, or in applying to become, a representative payee under [section 1383(a)(2) of this title][/us/usc/t42/s1383/a/2] on behalf of another individual (other than the person’s eligible spouse), and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to such other individual.”
+    Subsec. (c). [Pub. L. 108–203][/us/pl/108/203], § 209(c)(1), (3), redesignated subsec. (b) as (c), struck out “(2)” before “Any person”, and struck out par (1) which read as follows: “If a person or entity violates subsection (a) of this section in the person’s or entity’s role as, or in applying to become, a representative payee under [section 1383(a)(2) of this title][/us/usc/t42/s1383/a/2] on behalf of another individual (other than the person’s eligible spouse), and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to such other individual.”
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 206(c)(1)][/us/pl/103/296/s206/c/1], inserted closing provisions and struck out former closing provisions which read as follows: “shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 206(c)(1), inserted closing provisions and struck out former closing provisions which read as follows: “shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
 
-    Subsec. (b). [Pub. L. 103–296, § 206(c)(2)][/us/pl/103/296/s206/c/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 103–296][/us/pl/103/296], § 206(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(b)(1) Any person or other entity who is convicted of a violation of any of the provisions of paragraphs (1) through (4) of subsection (a) of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a payee under [section 1383(a)(2) of this title][/us/usc/t42/s1383/a/2] on behalf of another individual (other than such person’s eligible spouse), in lieu of the penalty set forth in subsection (a) of this section—
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–296, title II, § 206(c)(3)][/us/pl/103/296/s206/c/3], Aug. 15, 1994, [108 Stat. 1514][/us/stat/108/1514], provided that: 
+[Pub. L. 103–296, title II][/us/pl/103/296/tII], § 206(c)(3), Aug. 15, 1994, [108 Stat. 1514][/us/stat/108/1514], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to conduct occurring on or after October 1, 1994.”
 
@@ -99,7 +99,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], provided that this section is effective Jan. 1, 1974.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 301, Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], provided that this section is effective Jan. 1, 1974.
 
  __Application to Northern Mariana Islands__ 
 
@@ -120,23 +120,23 @@
 [/us/usc/t42/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs408
 [/us/usc/t42/s1383/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1478
-[/us/pl/98/460/s16/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs16%2Fc%2F1
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1810
-[/us/pl/103/296/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs206%2Fc%2F1
+[/us/pl/103/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtII
 [/us/stat/108/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1513
-[/us/pl/108/203/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fc
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F515
-[/us/pl/114/74/s813/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fa%2F3
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F603
-[/us/pl/114/74/s813/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fb%2F3
-[/us/pl/114/74/s813/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fa%2F3
-[/us/pl/108/203/s209/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fc%2F2
-[/us/pl/108/203/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fc%2F1
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/usc/t42/s1383/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F2
-[/us/pl/103/296/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs206%2Fc%2F1
-[/us/pl/103/296/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs206%2Fc%2F2
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s1383/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F2
 [/us/usc/t42/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs408
 [/us/usc/t42/s1383/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F2
@@ -144,12 +144,12 @@
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/108/203/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fd
 [/us/usc/t42/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs408
-[/us/pl/103/296/s206/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs206%2Fc%2F3
+[/us/pl/103/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtII
 [/us/stat/108/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1514
 [/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/pl/98/460/s16/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs16%2Fd
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
-[/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603

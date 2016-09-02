@@ -231,31 +231,31 @@
 
             There is authorized to be appropriated to carry out this subsection, $10,000,000 for the period of fiscal years 2011 through 2013.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 753, as added [Pub. L. 105–392, title I, § 103][/us/pl/105/392/s103], Nov. 13, 1998, [112 Stat. 3544][/us/stat/112/3544]; amended [Pub. L. 107–205, title II, § 202(b)][/us/pl/107/205/s202/b], Aug. 1, 2002, [116 Stat. 817][/us/stat/116/817]; [Pub. L. 111–148, title V, § 5305(a)][/us/pl/111/148/s5305/a], (b), Mar. 23, 2010, [124 Stat. 622][/us/stat/124/622], 624; [Pub. L. 111–256, § 2(f)(5)][/us/pl/111/256/s2/f/5], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 753, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 103, Nov. 13, 1998, [112 Stat. 3544][/us/stat/112/3544]; amended [Pub. L. 107–205, title II][/us/pl/107/205/tII], § 202(b), Aug. 1, 2002, [116 Stat. 817][/us/stat/116/817]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5305(a), (b), Mar. 23, 2010, [124 Stat. 622][/us/stat/124/622], 624; [Pub. L. 111–256][/us/pl/111/256], § 2(f)(5), Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
 
  __Prior Provisions__ 
 
-    A prior section 294c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 765, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2047][/us/stat/106/2047], authorized appropriations for purpose of carrying out subpart I of this part, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
+    A prior section 294c, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 765, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2047][/us/stat/106/2047], authorized appropriations for purpose of carrying out subpart I of this part, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
 
-    Another prior section 294c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 730, as added Oct. 12, 1976, [Pub. L. 94–484, title IV, § 401(b)(3)][/us/pl/94/484/s401/b/3], [90 Stat. 2258][/us/stat/90/2258], related to sources of funds for eligible student loans, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292c of this title][/us/usc/t42/s292c].
+    Another prior section 294c, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 730, as added Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 401(b)(3), [90 Stat. 2258][/us/stat/90/2258], related to sources of funds for eligible student loans, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292c of this title][/us/usc/t42/s292c].
 
-    Another prior section 294c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 743, as added Sept. 24, 1963, [Pub. L. 88–129, § 2(b)][/us/pl/88/129/s2/b], [77 Stat. 172][/us/stat/77/172]; amended Oct. 22, 1965, [Pub. L. 89–290, § 4(d)][/us/pl/89/290/s4/d], [79 Stat. 1057][/us/stat/79/1057]; Nov. 3, 1966, [Pub. L. 89–751, § 5(c)(2)][/us/pl/89/751/s5/c/2], (3), [80 Stat. 1233][/us/stat/80/1233]; Aug. 16, 1968, [Pub. L. 90–490, title I, § 121(c)][/us/pl/90/490/s121/c], [82 Stat. 778][/us/stat/82/778]; July 9, 1971, [Pub. L. 92–52, § 1(b)][/us/pl/92/52/s1/b], [85 Stat. 144][/us/stat/85/144]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 105(e)(2)][/us/pl/92/157/s105/e/2], (f)(2), [85 Stat. 451][/us/stat/85/451]; Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484], §§ 405, 406(e), [90 Stat. 2267][/us/stat/90/2267], 2268, which related to the distribution of assets from loan funds, was transferred to [section 294p of this title][/us/usc/t42/s294p].
+    Another prior section 294c, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 743, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(b), [77 Stat. 172][/us/stat/77/172]; amended Oct. 22, 1965, [Pub. L. 89–290][/us/pl/89/290], § 4(d), [79 Stat. 1057][/us/stat/79/1057]; Nov. 3, 1966, [Pub. L. 89–751][/us/pl/89/751], § 5(c)(2), (3), [80 Stat. 1233][/us/stat/80/1233]; Aug. 16, 1968, [Pub. L. 90–490, title I][/us/pl/90/490/tI], § 121(c), [82 Stat. 778][/us/stat/82/778]; July 9, 1971, [Pub. L. 92–52][/us/pl/92/52], § 1(b), [85 Stat. 144][/us/stat/85/144]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 105(e)(2), (f)(2), [85 Stat. 451][/us/stat/85/451]; Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], §§ 405, 406(e), [90 Stat. 2267][/us/stat/90/2267], 2268, which related to the distribution of assets from loan funds, was transferred to [section 294p of this title][/us/usc/t42/s294p].
 
  __Amendments__ 
 
     2010—Subsec. (b)(2)(E). [Pub. L. 111–256][/us/pl/111/256] substituted “elderly individuals with intellectual disabilities” for “elderly mentally retarded individuals”.
 
-    Subsec. (c)(2) to (4). [Pub. L. 111–148, § 5305(b)(2)][/us/pl/111/148/s5305/b/2], added pars. (2) to (4) and struck out former pars. (2) and (3) which described eligible individuals and limitations for Geriatric Academic Career Awards. Former par. (4) redesignated (5).
+    Subsec. (c)(2) to (4). [Pub. L. 111–148][/us/pl/111/148], § 5305(b)(2), added pars. (2) to (4) and struck out former pars. (2) and (3) which described eligible individuals and limitations for Geriatric Academic Career Awards. Former par. (4) redesignated (5).
 
-    Subsec. (c)(5). [Pub. L. 111–148, § 5305(b)(1)][/us/pl/111/148/s5305/b/1], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (c)(5). [Pub. L. 111–148][/us/pl/111/148], § 5305(b)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (c)(5)(A). [Pub. L. 111–148, § 5305(b)(3)(A)][/us/pl/111/148/s5305/b/3/A], inserted “for individuals who are physicians” before “shall equal” and inserted at end “The Secretary shall determine the amount of an Award under this section for individuals who are not physicians.”
+    Subsec. (c)(5)(A). [Pub. L. 111–148][/us/pl/111/148], § 5305(b)(3)(A), inserted “for individuals who are physicians” before “shall equal” and inserted at end “The Secretary shall determine the amount of an Award under this section for individuals who are not physicians.”
 
-    Subsec. (c)(5)(C). [Pub. L. 111–148, § 5305(b)(3)(B)][/us/pl/111/148/s5305/b/3/B], added subpar. (C).
+    Subsec. (c)(5)(C). [Pub. L. 111–148][/us/pl/111/148], § 5305(b)(3)(B), added subpar. (C).
 
-    Subsec. (c)(6). [Pub. L. 111–148, § 5305(b)(1)][/us/pl/111/148/s5305/b/1], redesignated par. (5) as (6).
+    Subsec. (c)(6). [Pub. L. 111–148][/us/pl/111/148], § 5305(b)(1), redesignated par. (5) as (6).
 
-    Subsecs. (d), (e). [Pub. L. 111–148, § 5305(a)][/us/pl/111/148/s5305/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 111–148][/us/pl/111/148], § 5305(a), added subsecs. (d) and (e).
 
     2002—Subsec. (a)(1). [Pub. L. 107–205][/us/pl/107/205] substituted “, and [section 296(2) of this title][/us/usc/t42/s296/2],” for “, and [section 298b(2) of this title][/us/usc/t42/s298b/2],”.
 
@@ -273,46 +273,46 @@
 [/us/usc/t42/s295p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295p
 [/us/usc/t42/s296/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs103
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3544
-[/us/pl/107/205/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs202%2Fb
+[/us/pl/107/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2FtII
 [/us/stat/116/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F817
-[/us/pl/111/148/s5305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5305%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F622
-[/us/pl/111/256/s2/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Ff%2F5
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2047
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs401%2Fb%2F3
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2258
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s292c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292c
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F172
-[/us/pl/89/290/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290%2Fs4%2Fd
+[/us/pl/89/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290
 [/us/stat/79/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1057
-[/us/pl/89/751/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F751%2Fs5%2Fc%2F2
+[/us/pl/89/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F751
 [/us/stat/80/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1233
-[/us/pl/90/490/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs121%2Fc
+[/us/pl/90/490/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtI
 [/us/stat/82/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F778
-[/us/pl/92/52/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F52%2Fs1%2Fb
+[/us/pl/92/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F52
 [/us/stat/85/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F144
-[/us/pl/92/157/s105/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs105%2Fe%2F2
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F451
-[/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2267
 [/us/usc/t42/s294p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294p
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
-[/us/pl/111/148/s5305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5305%2Fb%2F2
-[/us/pl/111/148/s5305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5305%2Fb%2F1
-[/us/pl/111/148/s5305/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5305%2Fb%2F3%2FA
-[/us/pl/111/148/s5305/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5305%2Fb%2F3%2FB
-[/us/pl/111/148/s5305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5305%2Fb%2F1
-[/us/pl/111/148/s5305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5305%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
 [/us/usc/t42/s296/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296%2F2
 [/us/usc/t42/s298b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298b%2F2

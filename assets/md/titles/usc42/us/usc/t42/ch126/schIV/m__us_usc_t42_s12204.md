@@ -37,7 +37,7 @@
 
             With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.
 
-([Pub. L. 101–336, title V, § 504][/us/pl/101/336/s504], July 26, 1990, [104 Stat. 370][/us/stat/104/370]; [Pub. L. 113–287, § 5(k)(5)][/us/pl/113/287/s5/k/5], Dec. 19, 2014, [128 Stat. 3270][/us/stat/128/3270].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 504, July 26, 1990, [104 Stat. 370][/us/stat/104/370]; [Pub. L. 113–287][/us/pl/113/287], § 5(k)(5), Dec. 19, 2014, [128 Stat. 3270][/us/stat/128/3270].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/101/336/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs504
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F370
-[/us/pl/113/287/s5/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F5
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3270
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

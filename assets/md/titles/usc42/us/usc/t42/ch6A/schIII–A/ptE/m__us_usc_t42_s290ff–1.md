@@ -149,7 +149,7 @@
 
         The Secretary may waive one or more of the requirements of subsection (c) of this section for a public entity that is an Indian Tribe or tribal organization, or American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, or the United States Virgin Islands if the Secretary determines, after peer review, that the system of care is family-centered and uses the least restrictive environment that is clinically appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 562, as added [Pub. L. 102–321, title I, § 119][/us/pl/102/321/s119], July 10, 1992, [106 Stat. 351][/us/stat/106/351]; amended [Pub. L. 106–310, div. B, title XXXI, § 3105(b)][/us/pl/106/310/s3105/b], Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175]; [Pub. L. 108–446, title III, § 305(i)(4)][/us/pl/108/446/s305/i/4], Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 562, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 119, July 10, 1992, [106 Stat. 351][/us/stat/106/351]; amended [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3105(b), Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(i)(4), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
 
  __References in Text__ 
 
@@ -191,11 +191,11 @@
 [/us/usc/t42/s290ff/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290ff%2Fa
 [/us/usc/t42/s290ff–3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290ff%E2%80%933%2Fa%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs119
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F351
-[/us/pl/106/310/s3105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3105%2Fb
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1175
-[/us/pl/108/446/s305/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fi%2F4
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter $99,000,000 for each fiscal year 2006, 2007, 2008, 2009, and 2010.
 
-([Pub. L. 90–351, title I, § 2997][/us/pl/90/351/s2997], as added [Pub. L. 109–177, title VII, § 754][/us/pl/109/177/s754], Mar. 9, 2006, [120 Stat. 274][/us/stat/120/274].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2997, as added [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 754, Mar. 9, 2006, [120 Stat. 274][/us/stat/120/274].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2997
-[/us/pl/109/177/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs754
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F274
 
 

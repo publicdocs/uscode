@@ -3631,17 +3631,17 @@
 
         (2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
 
-([Pub. L. 94–163, title III, § 325][/us/pl/94/163/s325], Dec. 22, 1975, [89 Stat. 923][/us/stat/89/923]; [Pub. L. 94–385, title I, § 161][/us/pl/94/385/s161], Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140]; [Pub. L. 95–619, title IV, § 422][/us/pl/95/619/s422], Nov. 9, 1978, [92 Stat. 3259][/us/stat/92/3259]; [Pub. L. 100–12, § 5][/us/pl/100/12/s5], Mar. 17, 1987, [101 Stat. 107][/us/stat/101/107]; [Pub. L. 100–357, § 2(e)][/us/pl/100/357/s2/e], June 28, 1988, [102 Stat. 673][/us/stat/102/673]; [Pub. L. 102–486, title I, § 123(f)][/us/pl/102/486/s123/f], Oct. 24, 1992, [106 Stat. 2824][/us/stat/106/2824]; [Pub. L. 105–388, § 5(a)(5)][/us/pl/105/388/s5/a/5], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 135(c)][/us/pl/109/58/s135/c], Aug. 8, 2005, [119 Stat. 628][/us/stat/119/628]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; [Pub. L. 111–360, § 1][/us/pl/111/360/s1], Jan. 4, 2011, [124 Stat. 4051][/us/stat/124/4051]; [Pub. L. 112–210][/us/pl/112/210], §§ 3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1517, 1519, 1522, 1524, 1525; [Pub. L. 113–263, § 2][/us/pl/113/263/s2], Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937]; [Pub. L. 114–11, title II, § 201(1)][/us/pl/114/11/s201/1], Apr. 30, 2015, [129 Stat. 186][/us/stat/129/186].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 325, Dec. 22, 1975, [89 Stat. 923][/us/stat/89/923]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 161, Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 422, Nov. 9, 1978, [92 Stat. 3259][/us/stat/92/3259]; [Pub. L. 100–12][/us/pl/100/12], § 5, Mar. 17, 1987, [101 Stat. 107][/us/stat/101/107]; [Pub. L. 100–357][/us/pl/100/357], § 2(e), June 28, 1988, [102 Stat. 673][/us/stat/102/673]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(f), Oct. 24, 1992, [106 Stat. 2824][/us/stat/106/2824]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(5), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 135(c), Aug. 8, 2005, [119 Stat. 628][/us/stat/119/628]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; [Pub. L. 111–360][/us/pl/111/360], § 1, Jan. 4, 2011, [124 Stat. 4051][/us/stat/124/4051]; [Pub. L. 112–210][/us/pl/112/210], §§ 3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1517, 1519, 1522, 1524, 1525; [Pub. L. 113–263][/us/pl/113/263], § 2, Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937]; [Pub. L. 114–11, title II][/us/pl/114/11/tII], § 201(1), Apr. 30, 2015, [129 Stat. 186][/us/stat/129/186].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (f)(4)(D), (j)(3)(A)(iii), (k)(3)(A)(iii), and (ff)(6)(A), was in the original “this Act”, meaning [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    Subpar. (C) of [section 6294(a)(2) of this title][/us/usc/t42/s6294/a/2], referred to in subsec. (i)(5), was redesignated (D) and a new subpar. (C) was added by [Pub. L. 110–140, title III, § 324(d)][/us/pl/110/140/s324/d], Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
+    Subpar. (C) of [section 6294(a)(2) of this title][/us/usc/t42/s6294/a/2], referred to in subsec. (i)(5), was redesignated (D) and a new subpar. (C) was added by [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 324(d), Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
 
-    Paragraph (19) of [section 6292(a) of this title][/us/usc/t42/s6292/a], referred to in subsec. (l)(1), (2), was redesignated (20) and a new par. (19) was added by [Pub. L. 110–140, title III, § 324(b)][/us/pl/110/140/s324/b], Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
+    Paragraph (19) of [section 6292(a) of this title][/us/usc/t42/s6292/a], referred to in subsec. (l)(1), (2), was redesignated (20) and a new par. (19) was added by [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 324(b), Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
 
-    Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by [Pub. L. 110–140, title III, § 322(b)][/us/pl/110/140/s322/b], Dec. 19, 2007, [121 Stat. 1588][/us/stat/121/1588], by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
+    Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 322(b), Dec. 19, 2007, [121 Stat. 1588][/us/stat/121/1588], by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
 
  __Amendments__ 
 
@@ -3649,53 +3649,53 @@
 
     2014—Subsec. (u)(5). [Pub. L. 113–263][/us/pl/113/263] added par. (5).
 
-    2012—Subsec. (d)(4). [Pub. L. 112–210, § 5(a)][/us/pl/112/210/s5/a], added par. (4).
+    2012—Subsec. (d)(4). [Pub. L. 112–210][/us/pl/112/210], § 5(a), added par. (4).
 
-    Subsec. (e)(5). [Pub. L. 112–210, § 3][/us/pl/112/210/s3], added par. (5).
+    Subsec. (e)(5). [Pub. L. 112–210][/us/pl/112/210], § 3, added par. (5).
 
-    Subsec. (g)(8)(C)(ii). [Pub. L. 112–210, § 10(b)(1)][/us/pl/112/210/s10/b/1], substituted “negative 20°F” for “20°F”.
+    Subsec. (g)(8)(C)(ii). [Pub. L. 112–210][/us/pl/112/210], § 10(b)(1), substituted “negative 20°F” for “20°F”.
 
-    Subsec. (i)(1). [Pub. L. 112–210, § 10(a)(11)][/us/pl/112/210/s10/a/11], made technical amendment to directory language of [Pub. L. 110–140, § 322(b)][/us/pl/110/140/s322/b]. See 2007 Amendment note below.
+    Subsec. (i)(1). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(11), made technical amendment to directory language of [Pub. L. 110–140][/us/pl/110/140], § 322(b). See 2007 Amendment note below.
 
-    Subsec. (l)(4)(A). [Pub. L. 112–210, § 10(a)(8)][/us/pl/112/210/s10/a/8], struck out “only” before “in accordance with this paragraph”.
+    Subsec. (l)(4)(A). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(8), struck out “only” before “in accordance with this paragraph”.
 
-    Subsec. (n)(3) to (5). [Pub. L. 112–210, § 5(c)][/us/pl/112/210/s5/c], added pars. (3) and (4) and redesignated former par. (3) as (5).
+    Subsec. (n)(3) to (5). [Pub. L. 112–210][/us/pl/112/210], § 5(c), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-    Subsec. (u)(4). [Pub. L. 112–210, § 10(a)(1)][/us/pl/112/210/s10/a/1], redesignated par. (7) as (4) and substituted “supply is connected” for “supplies is connected”.
+    Subsec. (u)(4). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(1), redesignated par. (7) as (4) and substituted “supply is connected” for “supplies is connected”.
 
-    Subsec. (u)(7). [Pub. L. 112–210, § 10(a)(1)(A)][/us/pl/112/210/s10/a/1/A], redesignated par. (7) as (4).
+    Subsec. (u)(7). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(1)(A), redesignated par. (7) as (4).
 
-    2011—Subsec. (u)(3)(A). [Pub. L. 111–360, § 1(1)][/us/pl/111/360/s1/1], substituted “(E)” for “(D)”.
+    2011—Subsec. (u)(3)(A). [Pub. L. 111–360][/us/pl/111/360], § 1(1), substituted “(E)” for “(D)”.
 
-    Subsec. (u)(3)(E). [Pub. L. 111–360, § 1(2)][/us/pl/111/360/s1/2], added subpar. (E).
+    Subsec. (u)(3)(E). [Pub. L. 111–360][/us/pl/111/360], § 1(2), added subpar. (E).
 
-    2007—Subsec. (b)(4). [Pub. L. 110–140, § 311(a)(3)][/us/pl/110/140/s311/a/3], added par. (4).
+    2007—Subsec. (b)(4). [Pub. L. 110–140][/us/pl/110/140], § 311(a)(3), added par. (4).
 
-    Subsec. (f). [Pub. L. 110–140, § 303(1)][/us/pl/110/140/s303/1], inserted “and boilers” after “furnaces” in heading.
+    Subsec. (f). [Pub. L. 110–140][/us/pl/110/140], § 303(1), inserted “and boilers” after “furnaces” in heading.
 
-    Subsec. (f)(3), (4). [Pub. L. 110–140, § 303(2)][/us/pl/110/140/s303/2], (3), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (f)(3), (4). [Pub. L. 110–140][/us/pl/110/140], § 303(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (f)(4)(D). [Pub. L. 110–140, § 304][/us/pl/110/140/s304], substituted “not later than December 31, 2013, the Secretary shall” for “the Secretary may”.
+    Subsec. (f)(4)(D). [Pub. L. 110–140][/us/pl/110/140], § 304, substituted “not later than December 31, 2013, the Secretary shall” for “the Secretary may”.
 
-    Subsec. (g)(9), (10). [Pub. L. 110–140, § 311(a)(2)][/us/pl/110/140/s311/a/2], added pars. (9) and (10).
+    Subsec. (g)(9), (10). [Pub. L. 110–140][/us/pl/110/140], § 311(a)(2), added pars. (9) and (10).
 
-    Subsec. (i). [Pub. L. 110–140, § 321(a)(3)(A)(i)][/us/pl/110/140/s321/a/3/A/i], which directed amendment of subsec. (i) by inserting “, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps,” after “fluorescent lamps” in “section heading”, was executed by making the insertion in subsec. (i) heading to reflect the probable intent of Congress.
+    Subsec. (i). [Pub. L. 110–140][/us/pl/110/140], § 321(a)(3)(A)(i), which directed amendment of subsec. (i) by inserting “, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps,” after “fluorescent lamps” in “section heading”, was executed by making the insertion in subsec. (i) heading to reflect the probable intent of Congress.
 
-    Subsec. (i)(1). [Pub. L. 110–140, § 322(b)][/us/pl/110/140/s322/b], as amended by [Pub. L. 112–210, § 10(a)(11)][/us/pl/112/210/s10/a/11], added par. (1) and struck out former par. (1) which related to, in subpar. (A), lamp efficacy, new maximum wattage, and CRI standards for general service fluorescent lamps, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps, and incandescent reflector lamps, in subpar. (B), color rendering index requirements of certain general service or general illumination application lamps, in subpar. (C), maximum wattage of candelabra incandescent lamps and intermediate base incandescent lamps, in subpar. (D), petition for exemption from requirements, in subpar. (E), petition to establish standards, and, in subpar. (F), definition of effective date.
+    Subsec. (i)(1). [Pub. L. 110–140][/us/pl/110/140], § 322(b), as amended by [Pub. L. 112–210][/us/pl/112/210], § 10(a)(11), added par. (1) and struck out former par. (1) which related to, in subpar. (A), lamp efficacy, new maximum wattage, and CRI standards for general service fluorescent lamps, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps, and incandescent reflector lamps, in subpar. (B), color rendering index requirements of certain general service or general illumination application lamps, in subpar. (C), maximum wattage of candelabra incandescent lamps and intermediate base incandescent lamps, in subpar. (D), petition for exemption from requirements, in subpar. (E), petition to establish standards, and, in subpar. (F), definition of effective date.
 
-    [Pub. L. 110–140, § 321(a)(3)(A)(ii)][/us/pl/110/140/s321/a/3/A/ii], in subpar. (A), in introductory provisions, inserted “, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps,” after “fluorescent lamps” and “, new maximum wattage,” after “lamp efficacy”, inserted tables relating to general service incandescent lamps and modified spectrum general service incandescent lamps, added subpars. (B) to (F), and struck out former subpar. (B) which read as follows: “For the purposes of the tables set forth in subparagraph (A), the term ‘effective date’ means the last day of the month set forth in the table which follows October 24, 1992.”
+    [Pub. L. 110–140][/us/pl/110/140], § 321(a)(3)(A)(ii), in subpar. (A), in introductory provisions, inserted “, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps,” after “fluorescent lamps” and “, new maximum wattage,” after “lamp efficacy”, inserted tables relating to general service incandescent lamps and modified spectrum general service incandescent lamps, added subpars. (B) to (F), and struck out former subpar. (B) which read as follows: “For the purposes of the tables set forth in subparagraph (A), the term ‘effective date’ means the last day of the month set forth in the table which follows October 24, 1992.”
 
-    Subsec. (i)(5). [Pub. L. 110–140, § 321(a)(3)(A)(iii)][/us/pl/110/140/s321/a/3/A/iii], struck out “and general service incandescent lamps” after “general service fluorescent”.
+    Subsec. (i)(5). [Pub. L. 110–140][/us/pl/110/140], § 321(a)(3)(A)(iii), struck out “and general service incandescent lamps” after “general service fluorescent”.
 
-    Subsec. (i)(6) to (8). [Pub. L. 110–140, § 321(a)(3)(A)(iv)][/us/pl/110/140/s321/a/3/A/iv], (v), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+    Subsec. (i)(6) to (8). [Pub. L. 110–140][/us/pl/110/140], § 321(a)(3)(A)(iv), (v), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-    Subsec. (l)(4). [Pub. L. 110–140, § 321(a)(3)(B)][/us/pl/110/140/s321/a/3/B], added par. (4).
+    Subsec. (l)(4). [Pub. L. 110–140][/us/pl/110/140], § 321(a)(3)(B), added par. (4).
 
-    Subsec. (m). [Pub. L. 110–140, § 305(a)][/us/pl/110/140/s305/a], added subsec. (m) and struck out former subsec. (m) which related to further rulemaking.
+    Subsec. (m). [Pub. L. 110–140][/us/pl/110/140], § 305(a), added subsec. (m) and struck out former subsec. (m) which related to further rulemaking.
 
-    Subsec. (o)(6). [Pub. L. 110–140, § 306(a)][/us/pl/110/140/s306/a], added par. (6).
+    Subsec. (o)(6). [Pub. L. 110–140][/us/pl/110/140], § 306(a), added par. (6).
 
-    Subsec. (p)(1) to (3). [Pub. L. 110–140, § 307][/us/pl/110/140/s307], redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “The Secretary—
+    Subsec. (p)(1) to (3). [Pub. L. 110–140][/us/pl/110/140], § 307, redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “The Secretary—
 
     “(A) shall publish an advance notice of proposed rulemaking which specifies the type (or class) of covered products to which the rule may apply;
 
@@ -3703,115 +3703,115 @@
 
     “(C) may identify proposed or amended standards that may be prescribed.”
 
-    Subsec. (p)(4). [Pub. L. 110–140, § 308(a)][/us/pl/110/140/s308/a], added par. (4).
+    Subsec. (p)(4). [Pub. L. 110–140][/us/pl/110/140], § 308(a), added par. (4).
 
-    [Pub. L. 110–140, § 307(2)][/us/pl/110/140/s307/2], redesignated par. (4) as (3).
+    [Pub. L. 110–140][/us/pl/110/140], § 307(2), redesignated par. (4) as (3).
 
-    Subsec. (u)(1)(E). [Pub. L. 110–140, § 309(1)][/us/pl/110/140/s309/1], inserted heading.
+    Subsec. (u)(1)(E). [Pub. L. 110–140][/us/pl/110/140], § 309(1), inserted heading.
 
-    Subsec. (u)(1)(E)(i). [Pub. L. 110–140, § 309][/us/pl/110/140/s309], inserted cl. heading, designated existing provisions as subcl. (I), inserted subcl. heading, substituted “2 years” for “3 years”, struck out “battery chargers and” before “external power supplies” in two places, and added subcl. (II).
+    Subsec. (u)(1)(E)(i). [Pub. L. 110–140][/us/pl/110/140], § 309, inserted cl. heading, designated existing provisions as subcl. (I), inserted subcl. heading, substituted “2 years” for “3 years”, struck out “battery chargers and” before “external power supplies” in two places, and added subcl. (II).
 
-    Subsec. (u)(2) to (5). [Pub. L. 110–140, § 310(1)][/us/pl/110/140/s310/1], redesignated pars. (5) and (6) as (2) and (3), respectively, and struck out former pars. (2) to (4) which related to revision of test procedures and energy conservation standards with respect to covered products that were major sources of standby mode energy consumption, prohibition against proposal of a standard unless applicable test procedures had been issued, and applicability of standard to products manufactured or imported beginning 3 years after the date of issuance, respectively.
+    Subsec. (u)(2) to (5). [Pub. L. 110–140][/us/pl/110/140], § 310(1), redesignated pars. (5) and (6) as (2) and (3), respectively, and struck out former pars. (2) to (4) which related to revision of test procedures and energy conservation standards with respect to covered products that were major sources of standby mode energy consumption, prohibition against proposal of a standard unless applicable test procedures had been issued, and applicability of standard to products manufactured or imported beginning 3 years after the date of issuance, respectively.
 
-    Subsec. (u)(6). [Pub. L. 110–140, § 310(1)(B)][/us/pl/110/140/s310/1/B], redesignated par. (6) as (3).
+    Subsec. (u)(6). [Pub. L. 110–140][/us/pl/110/140], § 310(1)(B), redesignated par. (6) as (3).
 
-    [Pub. L. 110–140, § 301(c)][/us/pl/110/140/s301/c], added par. (6).
+    [Pub. L. 110–140][/us/pl/110/140], § 301(c), added par. (6).
 
-    Subsec. (u)(7). [Pub. L. 110–140, § 301(c)][/us/pl/110/140/s301/c], added par. (7).
+    Subsec. (u)(7). [Pub. L. 110–140][/us/pl/110/140], § 301(c), added par. (7).
 
-    Subsec. (v). [Pub. L. 110–140, § 316(d)(1)(A)][/us/pl/110/140/s316/d/1/A], struck out “Ceiling fans and” before “refrigerated beverage” in heading.
+    Subsec. (v). [Pub. L. 110–140][/us/pl/110/140], § 316(d)(1)(A), struck out “Ceiling fans and” before “refrigerated beverage” in heading.
 
-    Subsec. (v)(1) to (4). [Pub. L. 110–140, § 316(d)(1)(B)][/us/pl/110/140/s316/d/1/B], (C), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Not later than 1 year after August 8, 2005, the Secretary shall prescribe, by rule, test procedures and energy conservation standards for ceiling fans and ceiling fan light kits. If the Secretary sets such standards, the Secretary shall consider exempting or setting different standards for certain product classes for which the primary standards are not technically feasible or economically justified, and establishing separate or exempted product classes for highly decorative fans for which air movement performance is a secondary design feature.”
+    Subsec. (v)(1) to (4). [Pub. L. 110–140][/us/pl/110/140], § 316(d)(1)(B), (C), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Not later than 1 year after August 8, 2005, the Secretary shall prescribe, by rule, test procedures and energy conservation standards for ceiling fans and ceiling fan light kits. If the Secretary sets such standards, the Secretary shall consider exempting or setting different standards for certain product classes for which the primary standards are not technically feasible or economically justified, and establishing separate or exempted product classes for highly decorative fans for which air movement performance is a secondary design feature.”
 
-    Subsec. (cc)(2). [Pub. L. 110–140, § 311(a)(1)][/us/pl/110/140/s311/a/1], added par. (2) and struck out former par. (2) which directed the Secretary to publish a final rule not later than Oct. 1, 2009, which would determine whether standards established under par. (1) were to be amended, and directed that such rule was to contain any amendment by the Secretary and be applicable to products manufactured on or after Oct. 1, 2012, and further directed that, if the Secretary did not publish such an amendment, dehumidifiers manufactured on or after Oct. 1, 2012, would have an Energy Factor that would meet or exceed values provided in a table of product capacities and minimum Energy Factors.
+    Subsec. (cc)(2). [Pub. L. 110–140][/us/pl/110/140], § 311(a)(1), added par. (2) and struck out former par. (2) which directed the Secretary to publish a final rule not later than Oct. 1, 2009, which would determine whether standards established under par. (1) were to be amended, and directed that such rule was to contain any amendment by the Secretary and be applicable to products manufactured on or after Oct. 1, 2012, and further directed that, if the Secretary did not publish such an amendment, dehumidifiers manufactured on or after Oct. 1, 2012, would have an Energy Factor that would meet or exceed values provided in a table of product capacities and minimum Energy Factors.
 
-    Subsec. (ee). [Pub. L. 110–140, § 316(c)(2)][/us/pl/110/140/s316/c/2], inserted “(other than specialty application mercury vapor lamp ballasts)” before “shall”.
+    Subsec. (ee). [Pub. L. 110–140][/us/pl/110/140], § 316(c)(2), inserted “(other than specialty application mercury vapor lamp ballasts)” before “shall”.
 
-    Subsec. (ff)(1)(A)(iii), (iv). [Pub. L. 110–140, § 316(d)(2)(A)][/us/pl/110/140/s316/d/2/A], redesignated cl. (iv) as (iii), inserted “fans sold for” before “outdoor” in subcl. (II), and struck out former cl. (iii) which read as follows: “Adjustable speed controls (either more than 1 speed or variable speed).”
+    Subsec. (ff)(1)(A)(iii), (iv). [Pub. L. 110–140][/us/pl/110/140], § 316(d)(2)(A), redesignated cl. (iv) as (iii), inserted “fans sold for” before “outdoor” in subcl. (II), and struck out former cl. (iii) which read as follows: “Adjustable speed controls (either more than 1 speed or variable speed).”
 
-    Subsec. (ff)(4)(C). [Pub. L. 110–140, § 316(d)(2)(B)(i)][/us/pl/110/140/s316/d/2/B/i], substituted “date specified in subparagraph (A)” for “date specified in subparagraph (B)” in introductory provisions.
+    Subsec. (ff)(4)(C). [Pub. L. 110–140][/us/pl/110/140], § 316(d)(2)(B)(i), substituted “date specified in subparagraph (A)” for “date specified in subparagraph (B)” in introductory provisions.
 
-    Subsec. (ff)(4)(C)(ii). [Pub. L. 110–140, § 316(d)(2)(B)(ii)][/us/pl/110/140/s316/d/2/B/ii], added cl. (ii) and struck out former cl. (ii) which read as follows: “shall include the lamps described in clause (i) in the ceiling fan lighting kits.”
+    Subsec. (ff)(4)(C)(ii). [Pub. L. 110–140][/us/pl/110/140], § 316(d)(2)(B)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: “shall include the lamps described in clause (i) in the ceiling fan lighting kits.”
 
-    Subsec. (ff)(6)(B) to (D). [Pub. L. 110–140, § 316(d)(2)(C)][/us/pl/110/140/s316/d/2/C], redesignated subpars. (C) and (D) as cls. (i) and (ii), respectively, of subpar. (B).
+    Subsec. (ff)(6)(B) to (D). [Pub. L. 110–140][/us/pl/110/140], § 316(d)(2)(C), redesignated subpars. (C) and (D) as cls. (i) and (ii), respectively, of subpar. (B).
 
-    Subsec. (ff)(7). [Pub. L. 110–140, § 316(d)(2)(D)][/us/pl/110/140/s316/d/2/D], substituted “established under section 6294” for “established under section 6297”.
+    Subsec. (ff)(7). [Pub. L. 110–140][/us/pl/110/140], § 316(d)(2)(D), substituted “established under section 6294” for “established under section 6297”.
 
-    Subsec. (gg). [Pub. L. 110–140, § 310(3)][/us/pl/110/140/s310/3], added subsec. (gg). Former subsec. (gg) redesignated (hh).
+    Subsec. (gg). [Pub. L. 110–140][/us/pl/110/140], § 310(3), added subsec. (gg). Former subsec. (gg) redesignated (hh).
 
-    Subsec. (hh). [Pub. L. 110–140, § 324(e)(2)][/us/pl/110/140/s324/e/2], added subsec. (hh). Former subsec. (hh) redesignated (ii).
+    Subsec. (hh). [Pub. L. 110–140][/us/pl/110/140], § 324(e)(2), added subsec. (hh). Former subsec. (hh) redesignated (ii).
 
-    [Pub. L. 110–140, § 310(2)][/us/pl/110/140/s310/2], (4), redesignated subsec. (gg) as (hh) and substituted “(gg)” for “(ff)” in two places in par. (2).
+    [Pub. L. 110–140][/us/pl/110/140], § 310(2), (4), redesignated subsec. (gg) as (hh) and substituted “(gg)” for “(ff)” in two places in par. (2).
 
-    Subsec. (ii). [Pub. L. 110–140, § 324(e)(1)][/us/pl/110/140/s324/e/1], (3), redesignated subsec. (hh) as (ii) and substituted “(hh)” for “(gg)” in two places in par. (2).
+    Subsec. (ii). [Pub. L. 110–140][/us/pl/110/140], § 324(e)(1), (3), redesignated subsec. (hh) as (ii) and substituted “(hh)” for “(gg)” in two places in par. (2).
 
-    2005—Subsec. (f)(3)(D). [Pub. L. 109–58, § 135(c)(1)][/us/pl/109/58/s135/c/1], added subpar. (D).
+    2005—Subsec. (f)(3)(D). [Pub. L. 109–58][/us/pl/109/58], § 135(c)(1), added subpar. (D).
 
-    Subsec. (g)(6)(B). [Pub. L. 109–58, § 135(c)(2)(A)][/us/pl/109/58/s135/c/2/A], inserted “and labeled” after “designed”.
+    Subsec. (g)(6)(B). [Pub. L. 109–58][/us/pl/109/58], § 135(c)(2)(A), inserted “and labeled” after “designed”.
 
-    Subsec. (g)(8). [Pub. L. 109–58, § 135(c)(2)(B)][/us/pl/109/58/s135/c/2/B], added par. (8).
+    Subsec. (g)(8). [Pub. L. 109–58][/us/pl/109/58], § 135(c)(2)(B), added par. (8).
 
-    Subsec. (o)(5). [Pub. L. 109–58, § 135(c)(3)][/us/pl/109/58/s135/c/3], added par. (5).
+    Subsec. (o)(5). [Pub. L. 109–58][/us/pl/109/58], § 135(c)(3), added par. (5).
 
-    Subsecs. (u) to (gg). [Pub. L. 109–58, § 135(c)(4)][/us/pl/109/58/s135/c/4], added subsecs. (u) to (gg).
+    Subsecs. (u) to (gg). [Pub. L. 109–58][/us/pl/109/58], § 135(c)(4), added subsecs. (u) to (gg).
 
-    1998—Subsec. (e)(4)(A). [Pub. L. 105–388, § 5(a)(5)(A)][/us/pl/105/388/s5/a/5/A], substituted “paragraph” for “paragraphs”.
+    1998—Subsec. (e)(4)(A). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(5)(A), substituted “paragraph” for “paragraphs”.
 
-    Subsec. (g). [Pub. L. 105–388, § 5(a)(5)(B)][/us/pl/105/388/s5/a/5/B], substituted “ballasts” for “ballasts;” in heading.
+    Subsec. (g). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(5)(B), substituted “ballasts” for “ballasts;” in heading.
 
-    1992—Subsecs. (i) to (k). [Pub. L. 102–486, § 123(f)(2)][/us/pl/102/486/s123/f/2], added subsecs. (i) to (k). Former subsecs. (i) to (k) redesignated (l) to (n), respectively.
+    1992—Subsecs. (i) to (k). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(2), added subsecs. (i) to (k). Former subsecs. (i) to (k) redesignated (l) to (n), respectively.
 
-    Subsec. (l). [Pub. L. 102–486, § 123(f)(1)][/us/pl/102/486/s123/f/1], redesignated subsec. (i) as (l). Former subsec. (l) redesignated (o).
+    Subsec. (l). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(1), redesignated subsec. (i) as (l). Former subsec. (l) redesignated (o).
 
-    Subsec. (l)(1). [Pub. L. 102–486, § 123(f)(3)][/us/pl/102/486/s123/f/3], substituted “paragraph (19)” for “paragraph (14)” and “subsections (o) and (p)” for “subsections (l) and (m)”.
+    Subsec. (l)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(3), substituted “paragraph (19)” for “paragraph (14)” and “subsections (o) and (p)” for “subsections (l) and (m)”.
 
-    Subsec. (l)(2). [Pub. L. 102–486, § 123(f)(3)(A)][/us/pl/102/486/s123/f/3/A], substituted “(19)” for “(14)”.
+    Subsec. (l)(2). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(3)(A), substituted “(19)” for “(14)”.
 
-    Subsec. (l)(3). [Pub. L. 102–486, § 123(f)(3)(B)][/us/pl/102/486/s123/f/3/B], substituted “(o) and (p)” for “(l) and (m)”.
+    Subsec. (l)(3). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(3)(B), substituted “(o) and (p)” for “(l) and (m)”.
 
-    Subsec. (m). [Pub. L. 102–486, § 123(f)(1)][/us/pl/102/486/s123/f/1], (4), redesignated subsec. (j) as (m) and substituted “(i)” for “(h)” in introductory provisions. Former subsec. (m) redesignated (p).
+    Subsec. (m). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(1), (4), redesignated subsec. (j) as (m) and substituted “(i)” for “(h)” in introductory provisions. Former subsec. (m) redesignated (p).
 
-    Subsec. (n). [Pub. L. 102–486, § 123(f)(1)][/us/pl/102/486/s123/f/1], redesignated subsec. (k) as (n). Former subsec. (n) redesignated (q).
+    Subsec. (n). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(1), redesignated subsec. (k) as (n). Former subsec. (n) redesignated (q).
 
-    Subsec. (n)(1). [Pub. L. 102–486, § 123(f)(5)(A)][/us/pl/102/486/s123/f/5/A], substituted “, and in paragraphs (13) and (14)” for “and in paragraph (13)” and “subsections (b) through (i)” for “subsections (b) through (h)”.
+    Subsec. (n)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(5)(A), substituted “, and in paragraphs (13) and (14)” for “and in paragraph (13)” and “subsections (b) through (i)” for “subsections (b) through (h)”.
 
-    Subsec. (n)(2)(C). [Pub. L. 102–486, § 123(f)(5)(B)][/us/pl/102/486/s123/f/5/B], substituted “subsection (o)(2)(B)(i)(II)” for “subsection (l)(2)(B)(i)(II)”.
+    Subsec. (n)(2)(C). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(5)(B), substituted “subsection (o)(2)(B)(i)(II)” for “subsection (l)(2)(B)(i)(II)”.
 
-    Subsec. (n)(3)(B). [Pub. L. 102–486, § 123(f)(5)(C)][/us/pl/102/486/s123/f/5/C], inserted “general service fluorescent lamps, incandescent reflector lamps,” after “fluorescent lamp ballasts,”.
+    Subsec. (n)(3)(B). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(5)(C), inserted “general service fluorescent lamps, incandescent reflector lamps,” after “fluorescent lamp ballasts,”.
 
-    Subsec. (o). [Pub. L. 102–486, § 123(f)(1)][/us/pl/102/486/s123/f/1], redesignated subsec. (l) as (o). Former subsec. (o) redesignated (r).
+    Subsec. (o). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(1), redesignated subsec. (l) as (o). Former subsec. (o) redesignated (r).
 
-    Subsec. (o)(1). [Pub. L. 102–486, § 123(f)(6)(A)][/us/pl/102/486/s123/f/6/A], inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use,” after “energy use,”.
+    Subsec. (o)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(6)(A), inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use,” after “energy use,”.
 
-    Subsec. (o)(2)(A). [Pub. L. 102–486, § 123(f)(6)(B)][/us/pl/102/486/s123/f/6/B], inserted “, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency,” after “energy efficiency”.
+    Subsec. (o)(2)(A). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(6)(B), inserted “, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency,” after “energy efficiency”.
 
-    Subsec. (o)(2)(B)(i)(III). [Pub. L. 102–486, § 123(f)(6)(C)][/us/pl/102/486/s123/f/6/C], inserted “, or as applicable, water,” after “energy”.
+    Subsec. (o)(2)(B)(i)(III). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(6)(C), inserted “, or as applicable, water,” after “energy”.
 
-    Subsec. (o)(2)(B)(i)(VI). [Pub. L. 102–486, § 123(f)(6)(D)][/us/pl/102/486/s123/f/6/D], inserted “and water” after “energy”.
+    Subsec. (o)(2)(B)(i)(VI). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(6)(D), inserted “and water” after “energy”.
 
-    Subsec. (o)(2)(B)(iii). [Pub. L. 102–486, § 123(f)(6)(E)][/us/pl/102/486/s123/f/6/E], substituted “energy, and as applicable, water, savings” for “energy savings”.
+    Subsec. (o)(2)(B)(iii). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(6)(E), substituted “energy, and as applicable, water, savings” for “energy savings”.
 
-    Subsec. (o)(3)(B). [Pub. L. 102–486, § 123(f)(6)(F)][/us/pl/102/486/s123/f/6/F], inserted “, in the case of showerheads, faucets, water closets, or urinals, water, or” after “energy or”.
+    Subsec. (o)(3)(B). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(6)(F), inserted “, in the case of showerheads, faucets, water closets, or urinals, water, or” after “energy or”.
 
-    Subsec. (p). [Pub. L. 102–486, § 123(f)(1)][/us/pl/102/486/s123/f/1], redesignated subsec. (m) as (p). Former subsec. (p) redesignated (s).
+    Subsec. (p). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(1), redesignated subsec. (m) as (p). Former subsec. (p) redesignated (s).
 
-    Subsec. (p)(3)(A). [Pub. L. 102–486, § 123(f)(7)][/us/pl/102/486/s123/f/7], substituted “subsection (o)(2)” for “subsection (l)(2)” and “subsection (o)(4)” for “subsection (l)(4)”.
+    Subsec. (p)(3)(A). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(7), substituted “subsection (o)(2)” for “subsection (l)(2)” and “subsection (o)(4)” for “subsection (l)(4)”.
 
-    Subsecs. (q) to (t). [Pub. L. 102–486, § 123(f)(1)][/us/pl/102/486/s123/f/1], redesignated subsecs. (n) to (q) as (q) to (t), respectively.
+    Subsecs. (q) to (t). [Pub. L. 102–486][/us/pl/102/486], § 123(f)(1), redesignated subsecs. (n) to (q) as (q) to (t), respectively.
 
-    1988—Subsec. (e)(1)(C). [Pub. L. 100–357, § 2(e)(3)][/us/pl/100/357/s2/e/3], inserted “Volume” after “Rated Storage”.
+    1988—Subsec. (e)(1)(C). [Pub. L. 100–357][/us/pl/100/357], § 2(e)(3), inserted “Volume” after “Rated Storage”.
 
-    Subsec. (g). [Pub. L. 100–357, § 2(e)(1)(A)][/us/pl/100/357/s2/e/1/A], inserted “; fluorescent lamp ballasts;” in heading.
+    Subsec. (g). [Pub. L. 100–357][/us/pl/100/357], § 2(e)(1)(A), inserted “; fluorescent lamp ballasts;” in heading.
 
-    Subsec. (g)(5) to (7). [Pub. L. 100–357, § 2(e)(1)(B)][/us/pl/100/357/s2/e/1/B], added pars. (5) to (7).
+    Subsec. (g)(5) to (7). [Pub. L. 100–357][/us/pl/100/357], § 2(e)(1)(B), added pars. (5) to (7).
 
-    Subsec. (i)(1), (2). [Pub. L. 100–357, § 2(e)(2)][/us/pl/100/357/s2/e/2], substituted “(14)” for “(13)”.
+    Subsec. (i)(1), (2). [Pub. L. 100–357][/us/pl/100/357], § 2(e)(2), substituted “(14)” for “(13)”.
 
-    Subsec. (j)(B). [Pub. L. 100–357, § 2(e)(4)(A)][/us/pl/100/357/s2/e/4/A], inserted “fluorescent lamp ballasts,” after “clothes dryers,” and substituted “heating” for “hearing”.
+    Subsec. (j)(B). [Pub. L. 100–357][/us/pl/100/357], § 2(e)(4)(A), inserted “fluorescent lamp ballasts,” after “clothes dryers,” and substituted “heating” for “hearing”.
 
-    Subsec. (k)(1). [Pub. L. 100–357, § 2(e)(4)(B)(i)][/us/pl/100/357/s2/e/4/B/i], inserted “and in paragraph (13)” after “(11)”.
+    Subsec. (k)(1). [Pub. L. 100–357][/us/pl/100/357], § 2(e)(4)(B)(i), inserted “and in paragraph (13)” after “(11)”.
 
-    Subsec. (k)(3)(B). [Pub. L. 100–357, § 2(e)(4)(B)(ii)][/us/pl/100/357/s2/e/4/B/ii], inserted “fluorescent lamp ballasts,” after “clothes dryers,”.
+    Subsec. (k)(3)(B). [Pub. L. 100–357][/us/pl/100/357], § 2(e)(4)(B)(ii), inserted “fluorescent lamp ballasts,” after “clothes dryers,”.
 
     1987—[Pub. L. 100–12][/us/pl/100/12] amended section generally, revising and restating as subsecs. (a) to (q) provisions formerly contained in subsecs. (a) to (j).
 
@@ -3825,15 +3825,15 @@
 
     Subsecs. (e) to (j). [Pub. L. 95–619][/us/pl/95/619] added subsecs. (e) to (j).
 
-    1976—Subsec. (a)(1)(A). [Pub. L. 94–385, § 161(a)][/us/pl/94/385/s161/a], transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted 90 days after August 14, 1976, for 180 days after December 22, 1975, for the promulgation of rules by the Administrator.
+    1976—Subsec. (a)(1)(A). [Pub. L. 94–385][/us/pl/94/385], § 161(a), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted 90 days after August 14, 1976, for 180 days after December 22, 1975, for the promulgation of rules by the Administrator.
 
-    Subsec. (a)(2). [Pub. L. 94–385, § 161(b)][/us/pl/94/385/s161/b], transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted one year after August 14, 1976, for one year after December 22, 1975, for the promulgation of rules by the Administrator.
+    Subsec. (a)(2). [Pub. L. 94–385][/us/pl/94/385], § 161(b), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted one year after August 14, 1976, for one year after December 22, 1975, for the promulgation of rules by the Administrator.
 
  __Effective Date of 2012 Amendment__ 
 
     Amendment by section 10(a)(1), (8), (11) of [Pub. L. 112–210][/us/pl/112/210] effective as if included in the Energy Independence and Security Act of 2007, [Pub. L. 110–140][/us/pl/110/140], see [section 10(a)(13) of Pub. L. 112–210][/us/pl/112/210/s10/a/13], set out as a note under [section 6291 of this title][/us/usc/t42/s6291].
 
-[Pub. L. 112–210, § 10(b)(2)][/us/pl/112/210/s10/b/2], Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525], provided that: 
+[Pub. L. 112–210][/us/pl/112/210], § 10(b)(2), Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525], provided that: 
 
 > “This subsection \[amending this section\] and the amendment made by this subsection take effect as if included in the Energy Policy Act of 2005 ([Public Law 109–58][/us/pl/109/58]; [119 Stat. 594][/us/stat/119/594]).”
 
@@ -3843,7 +3843,7 @@
 
  __Lighting Technology Research and Development Program__ 
 
-[Pub. L. 110–140, title III, § 321(g)][/us/pl/110/140/s321/g], Dec. 19, 2007, [121 Stat. 1586][/us/stat/121/1586], provided that:
+[Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 321(g), Dec. 19, 2007, [121 Stat. 1586][/us/stat/121/1586], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -3897,126 +3897,126 @@
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6297
-[/us/pl/94/163/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs325
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F923
-[/us/pl/94/385/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs161
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1140
-[/us/pl/95/619/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs422
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3259
-[/us/pl/100/12/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs5
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F107
-[/us/pl/100/357/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F673
-[/us/pl/102/486/s123/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2824
-[/us/pl/105/388/s5/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F5
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
-[/us/pl/109/58/s135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fc
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F628
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1550
-[/us/pl/111/360/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F360%2Fs1
+[/us/pl/111/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F360
 [/us/stat/124/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4051
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1514
-[/us/pl/113/263/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263%2Fs2
+[/us/pl/113/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263
 [/us/stat/128/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2937
-[/us/pl/114/11/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs201%2F1
+[/us/pl/114/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtII
 [/us/stat/129/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F186
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s6294/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294%2Fa%2F2
-[/us/pl/110/140/s324/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fd
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1593
 [/us/usc/t42/s6292/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292%2Fa
-[/us/pl/110/140/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fb
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1593
-[/us/pl/110/140/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs322%2Fb
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1588
 [/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
 [/us/pl/113/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263
-[/us/pl/112/210/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fa
-[/us/pl/112/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs3
-[/us/pl/112/210/s10/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fb%2F1
-[/us/pl/112/210/s10/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F11
-[/us/pl/110/140/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs322%2Fb
-[/us/pl/112/210/s10/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F8
-[/us/pl/112/210/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fc
-[/us/pl/112/210/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F1
-[/us/pl/112/210/s10/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F1%2FA
-[/us/pl/111/360/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F360%2Fs1%2F1
-[/us/pl/111/360/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F360%2Fs1%2F2
-[/us/pl/110/140/s311/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs311%2Fa%2F3
-[/us/pl/110/140/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs303%2F1
-[/us/pl/110/140/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs303%2F2
-[/us/pl/110/140/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs304
-[/us/pl/110/140/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs311%2Fa%2F2
-[/us/pl/110/140/s321/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F3%2FA%2Fi
-[/us/pl/110/140/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs322%2Fb
-[/us/pl/112/210/s10/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F11
-[/us/pl/110/140/s321/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F3%2FA%2Fii
-[/us/pl/110/140/s321/a/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F3%2FA%2Fiii
-[/us/pl/110/140/s321/a/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F3%2FA%2Fiv
-[/us/pl/110/140/s321/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F3%2FB
-[/us/pl/110/140/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs305%2Fa
-[/us/pl/110/140/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fa
-[/us/pl/110/140/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs307
-[/us/pl/110/140/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs308%2Fa
-[/us/pl/110/140/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs307%2F2
-[/us/pl/110/140/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs309%2F1
-[/us/pl/110/140/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs309
-[/us/pl/110/140/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs310%2F1
-[/us/pl/110/140/s310/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs310%2F1%2FB
-[/us/pl/110/140/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs301%2Fc
-[/us/pl/110/140/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs301%2Fc
-[/us/pl/110/140/s316/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fd%2F1%2FA
-[/us/pl/110/140/s316/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fd%2F1%2FB
-[/us/pl/110/140/s311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs311%2Fa%2F1
-[/us/pl/110/140/s316/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fc%2F2
-[/us/pl/110/140/s316/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fd%2F2%2FA
-[/us/pl/110/140/s316/d/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fd%2F2%2FB%2Fi
-[/us/pl/110/140/s316/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fd%2F2%2FB%2Fii
-[/us/pl/110/140/s316/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fd%2F2%2FC
-[/us/pl/110/140/s316/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fd%2F2%2FD
-[/us/pl/110/140/s310/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs310%2F3
-[/us/pl/110/140/s324/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fe%2F2
-[/us/pl/110/140/s310/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs310%2F2
-[/us/pl/110/140/s324/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fe%2F1
-[/us/pl/109/58/s135/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fc%2F1
-[/us/pl/109/58/s135/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fc%2F2%2FA
-[/us/pl/109/58/s135/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fc%2F2%2FB
-[/us/pl/109/58/s135/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fc%2F3
-[/us/pl/109/58/s135/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fc%2F4
-[/us/pl/105/388/s5/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F5%2FA
-[/us/pl/105/388/s5/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F5%2FB
-[/us/pl/102/486/s123/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F2
-[/us/pl/102/486/s123/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F1
-[/us/pl/102/486/s123/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F3
-[/us/pl/102/486/s123/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F3%2FA
-[/us/pl/102/486/s123/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F3%2FB
-[/us/pl/102/486/s123/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F1
-[/us/pl/102/486/s123/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F1
-[/us/pl/102/486/s123/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F5%2FA
-[/us/pl/102/486/s123/f/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F5%2FB
-[/us/pl/102/486/s123/f/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F5%2FC
-[/us/pl/102/486/s123/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F1
-[/us/pl/102/486/s123/f/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F6%2FA
-[/us/pl/102/486/s123/f/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F6%2FB
-[/us/pl/102/486/s123/f/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F6%2FC
-[/us/pl/102/486/s123/f/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F6%2FD
-[/us/pl/102/486/s123/f/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F6%2FE
-[/us/pl/102/486/s123/f/6/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F6%2FF
-[/us/pl/102/486/s123/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F1
-[/us/pl/102/486/s123/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F7
-[/us/pl/102/486/s123/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Ff%2F1
-[/us/pl/100/357/s2/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe%2F3
-[/us/pl/100/357/s2/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe%2F1%2FA
-[/us/pl/100/357/s2/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe%2F1%2FB
-[/us/pl/100/357/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe%2F2
-[/us/pl/100/357/s2/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe%2F4%2FA
-[/us/pl/100/357/s2/e/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe%2F4%2FB%2Fi
-[/us/pl/100/357/s2/e/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fe%2F4%2FB%2Fii
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/111/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F360
+[/us/pl/111/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F360
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s6292/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292%2Fa%2F14
@@ -4024,20 +4024,20 @@
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/94/385/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs161%2Fa
-[/us/pl/94/385/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs161%2Fb
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/112/210/s10/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F13
 [/us/usc/t42/s6291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6291
-[/us/pl/112/210/s10/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fb%2F2
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1525
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s321/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fg
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1586
 
 

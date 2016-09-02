@@ -37,7 +37,7 @@
 
     (b) The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
-([Pub. L. 96–320, § 2][/us/pl/96/320/s2], Aug. 3, 1980, [94 Stat. 974][/us/stat/94/974]; [Pub. L. 98–623, title VI, § 602(a)(1)][/us/pl/98/623/s602/a/1], Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410].)
+([Pub. L. 96–320][/us/pl/96/320], § 2, Aug. 3, 1980, [94 Stat. 974][/us/stat/94/974]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(1), Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–320, § 1][/us/pl/96/320/s1], Aug. 3, 1980, [94 Stat. 974][/us/stat/94/974], provided: 
+[Pub. L. 96–320][/us/pl/96/320], § 1, Aug. 3, 1980, [94 Stat. 974][/us/stat/94/974], provided: 
 
 > “That this Act \[enacting this chapter and [section 1279c of Title 46][/us/usc/t46/s1279c], Appendix, Shipping, amending sections 1271, 1273, and 1274 of Title 46, Appendix, and enacting provisions set out as a note under [section 1273 of Title 46][/us/usc/t46/s1273], Appendix\] may be cited as the ‘Ocean Thermal Energy Conversion Act of 1980’.”
 
@@ -67,9 +67,9 @@
 ----------
 
 [/us/usc/t46/s1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1177
-[/us/pl/96/320/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs2
+[/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
-[/us/pl/98/623/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F1
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3410
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
@@ -79,7 +79,7 @@
 [/us/stat/120/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1555
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
-[/us/pl/96/320/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs1
+[/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
 [/us/usc/t46/s1279c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1279c
 [/us/usc/t46/s1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1273

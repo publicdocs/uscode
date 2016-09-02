@@ -47,7 +47,7 @@
 
         An ocean thermal energy conversion facility or plantship licensed under this subchapter shall be deemed not to be a “vessel or other floating craft” for the purposes of [section 1362(12)(B) of title 33][/us/usc/t33/s1362/12/B].
 
-([Pub. L. 96–320, title I, § 107][/us/pl/96/320/s107], Aug. 3, 1980, [94 Stat. 984][/us/stat/94/984].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 107, Aug. 3, 1980, [94 Stat. 984][/us/stat/94/984].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 [/us/usc/t42/s9112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9112%2Fd
 [/us/usc/t42/s9112/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9112%2Fg
 [/us/usc/t33/s1362/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362%2F12%2FB
-[/us/pl/96/320/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs107
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F984
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

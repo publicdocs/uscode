@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–392, title I, § 106(a)(2)(A)][/us/pl/105/392/s106/a/2/A], Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], redesignated part G as F.
+    1998—[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 106(a)(2)(A), Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], redesignated part G as F.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/392/s106/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs106%2Fa%2F2%2FA
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3557
 
 

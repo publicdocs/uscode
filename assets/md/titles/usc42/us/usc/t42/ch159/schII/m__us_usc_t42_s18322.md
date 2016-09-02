@@ -53,7 +53,7 @@
 
         (4) The capacity for efficient and timely evolution, including the incorporation of new technologies, competition of sub-elements, and commercial operations.
 
-([Pub. L. 111–267, title III, § 302][/us/pl/111/267/s302], Oct. 11, 2010, [124 Stat. 2814][/us/stat/124/2814].)
+([Pub. L. 111–267, title III][/us/pl/111/267/tIII], § 302, Oct. 11, 2010, [124 Stat. 2814][/us/stat/124/2814].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs302
+[/us/pl/111/267/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIII
 [/us/stat/124/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2814
 
 

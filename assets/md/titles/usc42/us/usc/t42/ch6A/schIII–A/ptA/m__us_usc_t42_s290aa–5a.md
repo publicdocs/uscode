@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated to carry out this section, $15,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 506A, as added [Pub. L. 106–310, div. B, title XXXIII, § 3306][/us/pl/106/310/s3306], Oct. 17, 2000, [114 Stat. 1215][/us/stat/114/1215].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 506A, as added [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3306, Oct. 17, 2000, [114 Stat. 1215][/us/stat/114/1215].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3306
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1215
 
 

@@ -169,7 +169,7 @@
 
         (2) on each aggrieved person on whose behalf the complaint was filed.
 
-([Pub. L. 90–284, title VIII, § 810][/us/pl/90/284/s810], as added [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2], Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 810, as added [Pub. L. 100–430][/us/pl/100/430], § 8(2), Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625].)
 
  __References in Text__ 
 
@@ -177,7 +177,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3610, [Pub. L. 90–284, title VIII, § 810][/us/pl/90/284/s810], Apr. 11, 1968, [82 Stat. 85][/us/stat/82/85], related to enforcement, prior to repeal by [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2].
+    A prior section 3610, [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 810, Apr. 11, 1968, [82 Stat. 85][/us/stat/82/85], related to enforcement, prior to repeal by [Pub. L. 100–430][/us/pl/100/430], § 8(2).
 
  __Effective Date__ 
 
@@ -195,12 +195,12 @@
 [/us/usc/t42/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3612
 [/us/usc/t42/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3614
 [/us/usc/t42/s3612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3612%2Fa
-[/us/pl/90/284/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs810
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1625
-[/us/pl/90/284/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs810
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F85
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 

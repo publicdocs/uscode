@@ -213,7 +213,7 @@
 
             The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
 
-([Pub. L. 109–58, title X, § 1008][/us/pl/109/58/s1008], Aug. 8, 2005, [119 Stat. 933][/us/stat/119/933]; [Pub. L. 110–140, title VI, § 654][/us/pl/110/140/s654], Dec. 19, 2007, [121 Stat. 1695][/us/stat/121/1695].)
+([Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1008, Aug. 8, 2005, [119 Stat. 933][/us/stat/119/933]; [Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 654, Dec. 19, 2007, [121 Stat. 1695][/us/stat/121/1695].)
 
  __Amendments__ 
 
@@ -232,9 +232,9 @@
 
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
-[/us/pl/109/58/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1008
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F933
-[/us/pl/110/140/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs654
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1695
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

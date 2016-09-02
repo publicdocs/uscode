@@ -23,7 +23,7 @@
 
     (3) remove the participating jurisdiction from participation in allocations or reallocations of funds made available under this part.
 
-([Pub. L. 101–625, title II, § 223][/us/pl/101/625/s223], Nov. 28, 1990, [104 Stat. 4112][/us/stat/104/4112].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 223, Nov. 28, 1990, [104 Stat. 4112][/us/stat/104/4112].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s12743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12743
-[/us/pl/101/625/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs223
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4112
 
 

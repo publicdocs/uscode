@@ -69,7 +69,7 @@
 
         The rights of individuals with developmental disabilities described in findings made in this section shall be considered to be in addition to any constitutional or other rights otherwise afforded to all individuals.
 
-([Pub. L. 106–402, title I, § 109][/us/pl/106/402/s109], Oct. 30, 2000, [114 Stat. 1692][/us/stat/114/1692].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 109, Oct. 30, 2000, [114 Stat. 1692][/us/stat/114/1692].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t42/s15001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001%2Fc
-[/us/pl/106/402/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs109
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1692
 
 

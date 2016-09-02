@@ -57,7 +57,7 @@
 
         The requirements of the Federal Advisory Committee Act shall not apply to a Review Panel established under this subchapter.
 
-([Pub. L. 97–425, title I, § 172][/us/pl/97/425/s172], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5031][/us/pl/100/203/s5031], Dec. 22, 1987, [101 Stat. 1330–239][/us/stat/101/1330-239].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 172, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5031, Dec. 22, 1987, [101 Stat. 1330–239][/us/stat/101/1330-239].)
 
  __References in Text__ 
 
@@ -75,10 +75,10 @@
 ----------
 
 [/us/usc/t42/s10173a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10173a%2Fb%2F1
-[/us/pl/97/425/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs172
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5031
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-239
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

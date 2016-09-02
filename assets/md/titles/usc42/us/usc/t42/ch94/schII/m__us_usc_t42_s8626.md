@@ -53,11 +53,11 @@
 
         (3) During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
 
-([Pub. L. 97–35, title XXVI, § 2607][/us/pl/97/35/s2607], Aug. 13, 1981, [95 Stat. 900][/us/stat/95/900]; [Pub. L. 98–558, title VI, § 606][/us/pl/98/558/s606], Oct. 30, 1984, [98 Stat. 2892][/us/stat/98/2892]; [Pub. L. 101–501, title VII, § 706][/us/pl/101/501/s706], Nov. 3, 1990, [104 Stat. 1260][/us/stat/104/1260]; [Pub. L. 103–252, title III, § 310][/us/pl/103/252/s310], May 18, 1994, [108 Stat. 661][/us/stat/108/661]; [Pub. L. 105–285, title III, § 307][/us/pl/105/285/s307], Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2607, Aug. 13, 1981, [95 Stat. 900][/us/stat/95/900]; [Pub. L. 98–558, title VI][/us/pl/98/558/tVI], § 606, Oct. 30, 1984, [98 Stat. 2892][/us/stat/98/2892]; [Pub. L. 101–501, title VII][/us/pl/101/501/tVII], § 706, Nov. 3, 1990, [104 Stat. 1260][/us/stat/104/1260]; [Pub. L. 103–252, title III][/us/pl/103/252/tIII], § 310, May 18, 1994, [108 Stat. 661][/us/stat/108/661]; [Pub. L. 105–285, title III][/us/pl/105/285/tIII], § 307, Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758].)
 
  __Codification__ 
 
-    In subsec. (a)(1), “[section 6503(a) of title 31][/us/usc/t31/s6503/a]” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 \[[42 U.S.C. 4213][/us/usc/t42/s4213]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a)(1), “[section 6503(a) of title 31][/us/usc/t31/s6503/a]” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 \[[42 U.S.C. 4213][/us/usc/t42/s4213]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -67,11 +67,11 @@
 
     1990—Subsec. (b)(2)(B). [Pub. L. 101–501][/us/pl/101/501] substituted “10 percent” for “15 percent”.
 
-    1984—Subsec. (b)(2)(A). [Pub. L. 98–558, § 606(a)][/us/pl/98/558/s606/a], inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year.” and “or the amount payable to” after “computing the allotment of”.
+    1984—Subsec. (b)(2)(A). [Pub. L. 98–558][/us/pl/98/558], § 606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year.” and “or the amount payable to” after “computing the allotment of”.
 
-    Subsec. (b)(2)(B). [Pub. L. 98–558, § 606(b)][/us/pl/98/558/s606/b], substituted “15 percent” for “25 percent”, “payable to such State for such prior fiscal year and not transferred pursuant to [section 8623(f) of this title][/us/usc/t42/s8623/f]” for “allotted to such State for such prior fiscal year”, and “payable to a State but not transferred by the State” for “allotted to a State” in second sentence.
+    Subsec. (b)(2)(B). [Pub. L. 98–558][/us/pl/98/558], § 606(b), substituted “15 percent” for “25 percent”, “payable to such State for such prior fiscal year and not transferred pursuant to [section 8623(f) of this title][/us/usc/t42/s8623/f]” for “allotted to such State for such prior fiscal year”, and “payable to a State but not transferred by the State” for “allotted to a State” in second sentence.
 
-    Subsec. (b)(2)(C). [Pub. L. 98–558, § 606(c)][/us/pl/98/558/s606/c], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 98–558][/us/pl/98/558], § 606(c), added subpar. (C).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -96,28 +96,28 @@
 [/us/usc/t31/s6503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503%2Fa
 [/us/usc/t42/s8623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623
 [/us/usc/t42/s8623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623
-[/us/pl/97/35/s2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2607
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F900
-[/us/pl/98/558/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs606
+[/us/pl/98/558/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVI
 [/us/stat/98/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2892
-[/us/pl/101/501/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs706
+[/us/pl/101/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtVII
 [/us/stat/104/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1260
-[/us/pl/103/252/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs310
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F661
-[/us/pl/105/285/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs307
+[/us/pl/105/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtIII
 [/us/stat/112/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2758
 [/us/usc/t31/s6503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503%2Fa
 [/us/usc/t42/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4213
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s8623/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623%2Ff
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/pl/98/558/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs606%2Fa
-[/us/pl/98/558/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs606%2Fb
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/usc/t42/s8623/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623%2Ff
-[/us/pl/98/558/s606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs606%2Fc
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs314
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621

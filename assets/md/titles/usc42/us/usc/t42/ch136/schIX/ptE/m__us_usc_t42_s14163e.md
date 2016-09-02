@@ -23,7 +23,7 @@
 
         Each State receiving a grant under this part shall allocate the funds equally between the uses described in [section 14163 of this title][/us/usc/t42/s14163] and the uses described in [section 14163a of this title][/us/usc/t42/s14163a], except as provided in [section 14163d(f) of this title][/us/usc/t42/s14163d/f].
 
-([Pub. L. 108–405, title IV, § 426][/us/pl/108/405/s426], Oct. 30, 2004, [118 Stat. 2292][/us/stat/118/2292].)
+([Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 426, Oct. 30, 2004, [118 Stat. 2292][/us/stat/118/2292].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s14163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163
 [/us/usc/t42/s14163a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163a
 [/us/usc/t42/s14163d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163d%2Ff
-[/us/pl/108/405/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs426
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2292
 
 

@@ -335,7 +335,7 @@
 
         (6) the bidding structure and number of contractors selected under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1847B, as added [Pub. L. 108–173, title III, § 303(d)(1)][/us/pl/108/173/s303/d/1], Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245]; amended [Pub. L. 109–432, div. B, title I, § 108(a)][/us/pl/109/432/s108/a], Dec. 20, 2006, [120 Stat. 2983][/us/stat/120/2983].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1847B, as added [Pub. L. 108–173, title III][/us/pl/108/173/tIII], § 303(d)(1), Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245]; amended [Pub. L. 109–432, div. B, title I][/us/pl/109/432/dB/tI], § 108(a), Dec. 20, 2006, [120 Stat. 2983][/us/stat/120/2983].)
 
  __References in Text__ 
 
@@ -345,17 +345,17 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(3)(A)(iii). [Pub. L. 109–432, § 108(a)(1)][/us/pl/109/432/s108/a/1], substituted “and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.” for “and biologicals—
+    2006—Subsec. (a)(3)(A)(iii). [Pub. L. 109–432][/us/pl/109/432], § 108(a)(1), substituted “and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.” for “and biologicals—
 
     “(I) shall be made only to such contractor; and
 
     “(II) shall be conditioned upon the administration of such drugs and biologicals.”
 
-    Subsec. (a)(3)(D). [Pub. L. 109–432, § 108(a)(2)][/us/pl/109/432/s108/a/2], added subpar. (D).
+    Subsec. (a)(3)(D). [Pub. L. 109–432][/us/pl/109/432], § 108(a)(2), added subpar. (D).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. B, title I, § 108(c)][/us/pl/109/432/s108/c], Dec. 20, 2006, [120 Stat. 2983][/us/stat/120/2983], provided that: 
+[Pub. L. 109–432, div. B, title I][/us/pl/109/432/dB/tI], § 108(c), Dec. 20, 2006, [120 Stat. 2983][/us/stat/120/2983], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to payment for drugs and biologicals supplied under section 1847B of the Social Security Act ([42 U.S.C. 1395w–3b][/us/usc/t42/s1395w–3b])—
 
@@ -365,7 +365,7 @@
 
  __Construction of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. B, title I, § 108(b)][/us/pl/109/432/s108/b], Dec. 20, 2006, [120 Stat. 2983][/us/stat/120/2983], provided that: 
+[Pub. L. 109–432, div. B, title I][/us/pl/109/432/dB/tI], § 108(b), Dec. 20, 2006, [120 Stat. 2983][/us/stat/120/2983], provided that: 
 
 > “Nothing in this section \[amending this section and enacting provisions set out as a note above\] shall be construed as—
 
@@ -375,7 +375,7 @@
 
  __Report__ 
 
-[Pub. L. 108–173, title III, § 303(d)(2)][/us/pl/108/173/s303/d/2], Dec. 8, 2003, [117 Stat. 2252][/us/stat/117/2252], provided that: 
+[Pub. L. 108–173, title III][/us/pl/108/173/tIII], § 303(d)(2), Dec. 8, 2003, [117 Stat. 2252][/us/stat/117/2252], provided that: 
 
 > “Not later than July 1, 2008, the Secretary \[of Health and Human Services\] shall submit to Congress a report on the program conducted under section 1847B of the Social Security Act \[[42 U.S.C. 1395w–3b][/us/usc/t42/s1395w–3b]\], as added by paragraph (1). Such report shall include information on savings, reductions in cost-sharing, access to competitively biddable drugs and biologicals, the range of choices of contractors available to physicians, the satisfaction of physicians and of individuals enrolled under this part \[probably means part B of title XVIII of the Social Security Act, [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], and information comparing prices for drugs and biologicals under such section and section 1847A of such Act \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\], as added by subsection (c).”
 
@@ -405,24 +405,24 @@
 [/us/usc/t42/s1395u/b/3/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F3%2FB%2Fii%2FIII
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s303/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fd%2F1
+[/us/pl/108/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIII
 [/us/stat/117/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2245
-[/us/pl/109/432/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs108%2Fa
+[/us/pl/109/432/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtI
 [/us/stat/120/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2983
 [/us/usc/t42/s1395ee/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ee%2Fb
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/109/432/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs108%2Fa%2F1
-[/us/pl/109/432/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs108%2Fa%2F2
-[/us/pl/109/432/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs108%2Fc
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtI
 [/us/stat/120/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2983
 [/us/usc/t42/s1395w–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933b
-[/us/pl/109/432/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs108%2Fb
+[/us/pl/109/432/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtI
 [/us/stat/120/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2983
 [/us/usc/t42/s1395w–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933b
-[/us/pl/108/173/s303/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fd%2F2
+[/us/pl/108/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIII
 [/us/stat/117/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2252
 [/us/usc/t42/s1395w–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933b
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j

@@ -65,11 +65,11 @@
 
         If the Assistant Secretary finds that any State has failed to carry out this subchapter in accordance with the assurances made and description provided under [section 3058d of this title][/us/usc/t42/s3058d], the Assistant Secretary shall withhold the allotment of funds to the State. The Assistant Secretary shall disburse the funds withheld directly to any public or nonprofit private institution or organization, agency, or political subdivision of the State submitting an approved plan containing the assurances and description.
 
-([Pub. L. 89–73, title VII, § 703][/us/pl/89/73/s703], as added [Pub. L. 102–375, title VII, § 701][/us/pl/102/375/s701], Sept. 30, 1992, [106 Stat. 1271][/us/stat/106/1271]; amended [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title VII, § 702][/us/pl/106/501/s702], title VIII, § 801(e)(1), Nov. 13, 2000, [114 Stat. 2289][/us/stat/114/2289], 2293.)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 703, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 701, Sept. 30, 1992, [106 Stat. 1271][/us/stat/106/1271]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title VII][/us/pl/106/501/tVII], § 702, title VIII, § 801(e)(1), Nov. 13, 2000, [114 Stat. 2289][/us/stat/114/2289], 2293.)
 
  __Prior Provisions__ 
 
-    A prior section 3058b, [Pub. L. 89–73, title VII, § 704][/us/pl/89/73/s704], as added [Pub. L. 98–459, title VII, § 701][/us/pl/98/459/s701], Oct. 9, 1984, [98 Stat. 1789][/us/stat/98/1789], related to older Americans personal health education and training program, prior to repeal by [Pub. L. 100–175, title I, § 181][/us/pl/100/175/s181], title VII, § 701(a), (b), Nov. 29, 1987, [101 Stat. 964][/us/stat/101/964], 983, effective Oct. 1, 1987, with certain exceptions.
+    A prior section 3058b, [Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 704, as added [Pub. L. 98–459, title VII][/us/pl/98/459/tVII], § 701, Oct. 9, 1984, [98 Stat. 1789][/us/stat/98/1789], related to older Americans personal health education and training program, prior to repeal by [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 181, title VII, § 701(a), (b), Nov. 29, 1987, [101 Stat. 964][/us/stat/101/964], 983, effective Oct. 1, 1987, with certain exceptions.
 
     A prior [section 703 of Pub. L. 89–73][/us/pl/89/73/s703] was classified to [section 3045b of this title][/us/usc/t42/s3045b] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
@@ -102,17 +102,17 @@
 [/us/usc/t42/s3058a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058a
 [/us/usc/t42/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024
 [/us/usc/t42/s3058d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058d
-[/us/pl/89/73/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs703
-[/us/pl/102/375/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs701
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1271
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/106/501/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs702
+[/us/pl/106/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVII
 [/us/stat/114/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2289
-[/us/pl/89/73/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs704
-[/us/pl/98/459/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs701
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/98/459/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtVII
 [/us/stat/98/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1789
-[/us/pl/100/175/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs181
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F964
 [/us/pl/89/73/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs703
 [/us/usc/t42/s3045b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3045b

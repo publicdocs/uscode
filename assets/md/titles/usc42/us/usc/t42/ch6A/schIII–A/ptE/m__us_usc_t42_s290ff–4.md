@@ -75,7 +75,7 @@
 
             Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 565, as added [Pub. L. 102–321, title I, § 119][/us/pl/102/321/s119], July 10, 1992, [106 Stat. 356][/us/stat/106/356]; amended [Pub. L. 103–43, title XX, § 2017(2)][/us/pl/103/43/s2017/2], June 10, 1993, [107 Stat. 218][/us/stat/107/218]; [Pub. L. 106–310, div. B, title XXXI, § 3105(c)][/us/pl/106/310/s3105/c], (d), Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 565, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 119, July 10, 1992, [106 Stat. 356][/us/stat/106/356]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2017(2), June 10, 1993, [107 Stat. 218][/us/stat/107/218]; [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3105(c), (d), Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175].)
 
  __References in Text__ 
 
@@ -83,13 +83,13 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–310, § 3105(c)][/us/pl/106/310/s3105/c], substituted “6 fiscal years” for “5 fiscal years”.
+    2000—Subsec. (a). [Pub. L. 106–310][/us/pl/106/310], § 3105(c), substituted “6 fiscal years” for “5 fiscal years”.
 
-    Subsec. (f)(1). [Pub. L. 106–310, § 3105(d)][/us/pl/106/310/s3105/d], substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994”.
+    Subsec. (f)(1). [Pub. L. 106–310][/us/pl/106/310], § 3105(d), substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994”.
 
-    1993—Subsec. (c)(1), (d), (f)(1). [Pub. L. 103–43, § 2017(2)(A)][/us/pl/103/43/s2017/2/A], (B), (C)(i), substituted “this part” for “this subpart”.
+    1993—Subsec. (c)(1), (d), (f)(1). [Pub. L. 103–43][/us/pl/103/43], § 2017(2)(A), (B), (C)(i), substituted “this part” for “this subpart”.
 
-    Subsec. (f)(2). [Pub. L. 103–43, § 2017(2)(C)(ii)][/us/pl/103/43/s2017/2/C/ii], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 for the purpose of carrying out subsection (b) of this section.”
+    Subsec. (f)(2). [Pub. L. 103–43][/us/pl/103/43], § 2017(2)(C)(ii), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 for the purpose of carrying out subsection (b) of this section.”
 
  __Effective Date__ 
 
@@ -111,19 +111,19 @@
 [/us/usc/t42/s290ff/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290ff%2Fa
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs119
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F356
-[/us/pl/103/43/s2017/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2017%2F2
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F218
-[/us/pl/106/310/s3105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3105%2Fc
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1175
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/106/310/s3105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3105%2Fc
-[/us/pl/106/310/s3105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3105%2Fd
-[/us/pl/103/43/s2017/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2017%2F2%2FA
-[/us/pl/103/43/s2017/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2017%2F2%2FC%2Fii
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
 

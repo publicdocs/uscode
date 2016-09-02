@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 109–482, title I, § 101(c)(1)][/us/pl/109/482/s101/c/1]–(3), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], redesignated subpart 3 of part E of this subchapter as this subpart.
+    2007—[Pub. L. 109–482, title I][/us/pl/109/482/tI], § 101(c)(1)–(3), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], redesignated subpart 3 of part E of this subchapter as this subpart.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/482/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs101%2Fc%2F1
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3681
 
 

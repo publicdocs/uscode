@@ -89,11 +89,11 @@
 
             If the Secretary determines and certifies to Congress by not later than September 30, 2004, that the number of individuals participating in the demonstration project established under this section is insufficient for purposes of performing the evaluation described in subsection (f)(1) of this section, the authorization of appropriations under paragraph (1) shall be extended to include fiscal year 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338L, as added [Pub. L. 107–251, title III, § 317][/us/pl/107/251/s317], Oct. 26, 2002, [116 Stat. 1653][/us/stat/116/1653].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338L, as added [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 317, Oct. 26, 2002, [116 Stat. 1653][/us/stat/116/1653].)
 
  __Prior Provisions__ 
 
-    A prior section 254t, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338L, as added [Pub. L. 101–527, § 8][/us/pl/101/527/s8], Nov. 6, 1990, [104 Stat. 2328][/us/stat/104/2328], related to demonstration grants to States for community scholarship programs, prior to repeal by [Pub. L. 107–251, title III, § 316][/us/pl/107/251/s316], Oct. 26, 2002, [116 Stat. 1653][/us/stat/116/1653].
+    A prior section 254t, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 338L, as added [Pub. L. 101–527][/us/pl/101/527], § 8, Nov. 6, 1990, [104 Stat. 2328][/us/stat/104/2328], related to demonstration grants to States for community scholarship programs, prior to repeal by [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 316, Oct. 26, 2002, [116 Stat. 1653][/us/stat/116/1653].
 
 ----------
 
@@ -105,12 +105,12 @@
 [/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/251/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs317
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1653
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/527/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527%2Fs8
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/101/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527
 [/us/stat/104/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2328
-[/us/pl/107/251/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs316
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1653
 
 

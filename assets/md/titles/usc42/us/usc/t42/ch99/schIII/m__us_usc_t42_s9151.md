@@ -27,7 +27,7 @@
 
     (5) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person subject to this section knowing that the other person has committed any act prohibited by this section.
 
-([Pub. L. 96–320, title III, § 301][/us/pl/96/320/s301], Aug. 3, 1980, [94 Stat. 994][/us/stat/94/994]; [Pub. L. 98–623, title VI, § 602(a)(9)][/us/pl/98/623/s602/a/9], Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
+([Pub. L. 96–320, title III][/us/pl/96/320/tIII], § 301, Aug. 3, 1980, [94 Stat. 994][/us/stat/94/994]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(9), Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/96/320/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs301
+[/us/pl/96/320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIII
 [/us/stat/94/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F994
-[/us/pl/98/623/s602/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F9
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3411
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

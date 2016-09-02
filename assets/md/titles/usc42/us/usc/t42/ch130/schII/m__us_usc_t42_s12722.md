@@ -51,7 +51,7 @@
 
     (13) to assist very low-income and low-income families to obtain the skills and knowledge necessary to become responsible homeowners and tenants.
 
-([Pub. L. 101–625, title II, § 203][/us/pl/101/625/s203], Nov. 28, 1990, [104 Stat. 4095][/us/stat/104/4095].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 203, Nov. 28, 1990, [104 Stat. 4095][/us/stat/104/4095].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs203
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4095
 
 

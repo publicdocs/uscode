@@ -505,47 +505,47 @@
 
             (ii) facilities that the President determines warrant particular consideration as identified by regulation, such as sites posing a threat to a sole-source drinking water aquifer or a sensitive ecosystem.
 
-([Pub. L. 96–510, title I, § 101][/us/pl/96/510/s101], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 99–499, title I][/us/pl/99/499], §§ 101, 114(b), 127(a), title V, § 517(c)(2), Oct. 17, 1986, [100 Stat. 1615][/us/stat/100/1615], 1652, 1692, 1774; [Pub. L. 100–707, title I, § 109(v)][/us/pl/100/707/s109/v], Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710]; [Pub. L. 103–429, § 7(e)(1)][/us/pl/103/429/s7/e/1], Oct. 31, 1994, [108 Stat. 4390][/us/stat/108/4390]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], title II, § 2502(b), Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, 3009–464; [Pub. L. 104–287, § 6(j)(1)][/us/pl/104/287/s6/j/1], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399]; [Pub. L. 106–74, title IV, § 427][/us/pl/106/74/s427], Oct. 20, 1999, [113 Stat. 1095][/us/stat/113/1095]; [Pub. L. 107–118, title II][/us/pl/107/118], §§ 211(a), 222(a), 223, 231(a), Jan. 11, 2002, [115 Stat. 2360][/us/stat/115/2360], 2370, 2372, 2375.)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 101, Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], §§ 101, 114(b), 127(a), title V, § 517(c)(2), Oct. 17, 1986, [100 Stat. 1615][/us/stat/100/1615], 1652, 1692, 1774; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(v), Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710]; [Pub. L. 103–429][/us/pl/103/429], § 7(e)(1), Oct. 31, 1994, [108 Stat. 4390][/us/stat/108/4390]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], title II, § 2502(b), Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, 3009–464; [Pub. L. 104–287][/us/pl/104/287], § 6(j)(1), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399]; [Pub. L. 106–74, title IV][/us/pl/106/74/tIV], § 427, Oct. 20, 1999, [113 Stat. 1095][/us/stat/113/1095]; [Pub. L. 107–118, title II][/us/pl/107/118/tII], §§ 211(a), 222(a), 223, 231(a), Jan. 11, 2002, [115 Stat. 2360][/us/stat/115/2360], 2370, 2372, 2375.)
 
  __References in Text__ 
 
     This chapter, referred to in pars. (5), (13), (20)(D), (G), (35)(C), (D), (39)(B)(iii), and (40)(G), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-    The Safe Drinking Water Act, referred to in pars. (7), (10), and (39)(B)(iv), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in pars. (7), (10), and (39)(B)(iv), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act ([16 U.S.C. 1811][/us/usc/t16/s1811]), which as amended generally by [Pub. L. 99–659, title I, § 101(b)][/us/pl/99/659/s101/b], Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706], relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in [section 1802 of Title 16][/us/usc/t16/s1802]. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16][/us/usc/t16/s1801] and Tables.
+    The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act ([16 U.S.C. 1811][/us/usc/t16/s1811]), which as amended generally by [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(b), Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706], relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in [section 1802 of Title 16][/us/usc/t16/s1802]. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16][/us/usc/t16/s1801] and Tables.
 
     The Clean Air Act, referred to in par. (10), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], as amended generally by [Pub. L. 88–206][/us/pl/88/206], Dec. 17, 1963, [77 Stat. 392][/us/stat/77/392], and later by [Pub. L. 95–95][/us/pl/95/95], Aug. 7, 1977, [91 Stat. 685][/us/stat/91/685]. The Clean Air Act was originally classified to chapter 15B (§ 1857 et seq.) of this title. On enactment of [Pub. L. 95–95][/us/pl/95/95], the Act was reclassified to chapter 85 (§ 7401 et seq.) of this title. Parts C and D of title I of the Clean Air Act are classified generally to parts C (§ 7470 et seq.) and D (§ 7501 et seq.), respectively, of subchapter I of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
-    The Atomic Energy Act of 1954, referred to in pars. (10) and (22), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in pars. (10) and (22), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
-    The Solid Waste Disposal Act, referred to in pars. (14), (39)(B)(iv), (vi)(I), (ix), and (41)(B)(i), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitles C and I of the Act are classified generally to subchapters III (§ 6921 et seq.) and IX (§ 6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in pars. (14), (39)(B)(iv), (vi)(I), (ix), and (41)(B)(i), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitles C and I of the Act are classified generally to subchapters III (§ 6921 et seq.) and IX (§ 6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     The Farm Credit Act of 1971, referred to in par. (20)(G)(iv)(III), is [Pub. L. 92–181][/us/pl/92/181], Dec. 10, 1971, [85 Stat. 583][/us/stat/85/583], as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12][/us/usc/t12/s2001] and Tables.
 
     The Disaster Relief and Emergency Assistance Act, referred to in par. (23), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title][/us/usc/t42/s5121] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in par. (39)(B)(iv), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Clean Water Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Section 311(c) of the Act was amended generally by [Pub. L. 101–380, title IV, § 4201(a)][/us/pl/101/380/s4201/a], Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], and no longer contains provisions directing the publishing of a National Contingency Plan. However, such provisions are contained in [section 1321(d) of Title 33][/us/usc/t33/s1321/d]. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in par. (39)(B)(iv), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Clean Water Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Section 311(c) of the Act was amended generally by [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4201(a), Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], and no longer contains provisions directing the publishing of a National Contingency Plan. However, such provisions are contained in [section 1321(d) of Title 33][/us/usc/t33/s1321/d]. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
     The Toxic Substances Control Act, referred to in par. (39)(B)(iv), (viii)(II), is [Pub. L. 94–469][/us/pl/94/469], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003], as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15][/us/usc/t15/s2601] and Tables.
 
  __Amendments__ 
 
-    2002—Par. (35)(A). [Pub. L. 107–118, § 223(1)][/us/pl/107/118/s223/1], in introductory provisions substituted “deeds, easements, leases, or” for “deeds or” and in concluding provisions substituted “the defendant has satisfied” for “he has satisfied” and inserted before period at end “, provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility), is in compliance with any land use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action”.
+    2002—Par. (35)(A). [Pub. L. 107–118][/us/pl/107/118], § 223(1), in introductory provisions substituted “deeds, easements, leases, or” for “deeds or” and in concluding provisions substituted “the defendant has satisfied” for “he has satisfied” and inserted before period at end “, provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility), is in compliance with any land use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action”.
 
-    Par. (35)(B). [Pub. L. 107–118, § 223(2)][/us/pl/107/118/s223/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “To establish that the defendant had no reason to know, as provided in clause (i) of subparagraph (A) of this paragraph, the defendant must have undertaken, at the time of acquisition, all appropriate inquiry into the previous ownership and uses of the property consistent with good commercial or customary practice in an effort to minimize liability. For purposes of the preceding sentence the court shall take into account any specialized knowledge or experience on the part of the defendant, the relationship of the purchase price to the value of the property if uncontaminated, commonly known or reasonably ascertainable information about the property, the obviousness of the presence or likely presence of contamination at the property, and the ability to detect such contamination by appropriate inspection.”
+    Par. (35)(B). [Pub. L. 107–118][/us/pl/107/118], § 223(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “To establish that the defendant had no reason to know, as provided in clause (i) of subparagraph (A) of this paragraph, the defendant must have undertaken, at the time of acquisition, all appropriate inquiry into the previous ownership and uses of the property consistent with good commercial or customary practice in an effort to minimize liability. For purposes of the preceding sentence the court shall take into account any specialized knowledge or experience on the part of the defendant, the relationship of the purchase price to the value of the property if uncontaminated, commonly known or reasonably ascertainable information about the property, the obviousness of the presence or likely presence of contamination at the property, and the ability to detect such contamination by appropriate inspection.”
 
-    Par. (39). [Pub. L. 107–118, § 211(a)][/us/pl/107/118/s211/a], added par. (39).
+    Par. (39). [Pub. L. 107–118][/us/pl/107/118], § 211(a), added par. (39).
 
-    Par. (40). [Pub. L. 107–118, § 222(a)][/us/pl/107/118/s222/a], added par. (40).
+    Par. (40). [Pub. L. 107–118][/us/pl/107/118], § 222(a), added par. (40).
 
-    Par. (41). [Pub. L. 107–118, § 231(a)][/us/pl/107/118/s231/a], added par. (41).
+    Par. (41). [Pub. L. 107–118][/us/pl/107/118], § 231(a), added par. (41).
 
     1999—Par. (20)(D). [Pub. L. 106–74][/us/pl/106/74], which directed the amendment of subpar. (D) by inserting “through seizure or otherwise in connection with law enforcement activity” before “involuntary” the first place it appears, could not be executed because the word “involuntary” does not appear in subpar. (D).
 
-    1996—Pars. (8), (16). [Pub. L. 104–208, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+    1996—Pars. (8), (16). [Pub. L. 104–208][/us/pl/104/208], § 101(a) \[title II, § 211(b)\], substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-    Par. (20)(E) to (G). [Pub. L. 104–208, § 2502(b)][/us/pl/104/208/s2502/b], added subpars. (E) to (G).
+    Par. (20)(E) to (G). [Pub. L. 104–208][/us/pl/104/208], § 2502(b), added subpars. (E) to (G).
 
     Par. (26). [Pub. L. 104–287][/us/pl/104/287] substituted “[section 60101(a) of title 49][/us/usc/t49/s60101/a]” for “the Pipeline Safety Act”.
 
@@ -553,69 +553,69 @@
 
     1988—Par. (23). [Pub. L. 100–707][/us/pl/100/707] substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
-    1986—[Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], struck out “, the term” after “subchapter” in introductory text.
+    1986—[Pub. L. 99–499][/us/pl/99/499], § 101(f), struck out “, the term” after “subchapter” in introductory text.
 
-    Pars. (1) to (10). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term” and substituted a period for the semicolon at end.
+    Pars. (1) to (10). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term” and substituted a period for the semicolon at end.
 
-    Par. (11). [Pub. L. 99–499, § 517(c)(2)][/us/pl/99/499/s517/c/2], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “The term ‘Fund’ or ‘Trust Fund’ means the Hazardous Substance Response Fund established by [section 9631 of this title][/us/usc/t42/s9631] or, in the case of a hazardous waste disposal facility for which liability has been transferred under [section 9607(k) of this title][/us/usc/t42/s9607/k], the Post-closure Liability Fund established by [section 9641 of this title][/us/usc/t42/s9641].”
+    Par. (11). [Pub. L. 99–499][/us/pl/99/499], § 517(c)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “The term ‘Fund’ or ‘Trust Fund’ means the Hazardous Substance Response Fund established by [section 9631 of this title][/us/usc/t42/s9631] or, in the case of a hazardous waste disposal facility for which liability has been transferred under [section 9607(k) of this title][/us/usc/t42/s9607/k], the Post-closure Liability Fund established by [section 9641 of this title][/us/usc/t42/s9641].”
 
-    [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term” and substituted a period for the semicolon at end.
+    [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term” and substituted a period for the semicolon at end.
 
-    Pars. (12) to (15). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term” and substituted a period for the semicolon at end.
+    Pars. (12) to (15). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term” and substituted a period for the semicolon at end.
 
-    Par. (16). [Pub. L. 99–499, § 101(a)][/us/pl/99/499/s101/a], (f), inserted “The term”, struck out “or” after “local government,” inserted “, any Indian tribe, or, if such resources are subject to a trust restriction on alienation, any member of an Indian tribe”, and substituted a period for the semicolon at end.
+    Par. (16). [Pub. L. 99–499][/us/pl/99/499], § 101(a), (f), inserted “The term”, struck out “or” after “local government,” inserted “, any Indian tribe, or, if such resources are subject to a trust restriction on alienation, any member of an Indian tribe”, and substituted a period for the semicolon at end.
 
-    Pars. (17) to (19). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term” and substituted a period for the semicolon at end.
+    Pars. (17) to (19). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term” and substituted a period for the semicolon at end.
 
-    Par. (20)(A). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term”.
+    Par. (20)(A). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term”.
 
-    [Pub. L. 99–499, § 101(b)(2)][/us/pl/99/499/s101/b/2], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “in the case of any abandoned facility, any person who owned, operated, or otherwise controlled activities at such facility immediately prior to such abandonment.”
+    [Pub. L. 99–499][/us/pl/99/499], § 101(b)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “in the case of any abandoned facility, any person who owned, operated, or otherwise controlled activities at such facility immediately prior to such abandonment.”
 
-    [Pub. L. 99–499, § 101(b)(3)][/us/pl/99/499/s101/b/3], in provisions following subcl. (iii), substituted a period for the semicolon at end.
+    [Pub. L. 99–499][/us/pl/99/499], § 101(b)(3), in provisions following subcl. (iii), substituted a period for the semicolon at end.
 
-    Par. (20)(B), (C). [Pub. L. 99–499, § 101(b)(3)][/us/pl/99/499/s101/b/3], substituted “In the case” for “in the case” and a period for the semicolon at end.
+    Par. (20)(B), (C). [Pub. L. 99–499][/us/pl/99/499], § 101(b)(3), substituted “In the case” for “in the case” and a period for the semicolon at end.
 
-    Par. (20)(D). [Pub. L. 99–499, § 101(b)(1)][/us/pl/99/499/s101/b/1], (f), added subpar. (D). The part of [§ 101(f) of Pub. L. 99–499][/us/pl/99/499/s101/f] which directed the amendment of par. (20) by changing the semicolon at end to a period could not be executed in view of the prior amendment of par. (20) by [§ 101(b)(1) of Pub. L. 99–499][/us/pl/99/499/s101/b/1] which added subpar. (D) ending in a period.
+    Par. (20)(D). [Pub. L. 99–499][/us/pl/99/499], § 101(b)(1), (f), added subpar. (D). The part of § 101(f) of [Pub. L. 99–499][/us/pl/99/499] which directed the amendment of par. (20) by changing the semicolon at end to a period could not be executed in view of the prior amendment of par. (20) by § 101(b)(1) of [Pub. L. 99–499][/us/pl/99/499] which added subpar. (D) ending in a period.
 
-    Par. (21). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term” and substituted a period for the semicolon at end.
+    Par. (21). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term” and substituted a period for the semicolon at end.
 
-    Par. (22). [Pub. L. 99–499, § 101(c)][/us/pl/99/499/s101/c], (f), inserted “The term” and “(including the abandonment or discarding of barrels, containers, and other closed receptacles containing any hazardous substance or pollutant or contaminant)”, substituted a period for the semicolon at end.
+    Par. (22). [Pub. L. 99–499][/us/pl/99/499], § 101(c), (f), inserted “The term” and “(including the abandonment or discarding of barrels, containers, and other closed receptacles containing any hazardous substance or pollutant or contaminant)”, substituted a period for the semicolon at end.
 
-    Par. (23). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The terms” and substituted a period for the semicolon at end.
+    Par. (23). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The terms” and substituted a period for the semicolon at end.
 
-    Par. (24). [Pub. L. 99–499, § 101(d)][/us/pl/99/499/s101/d], (f), inserted “The terms” and substituted “and associated contaminated materials” for “or contaminated materials” and “welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.” for “welfare. The term does not include offsite transport of hazardous substances, or the storage, treatment, destruction, or secure disposition offsite of such hazardous substances or contaminated materials unless the President determines that such actions (A) are more cost-effective than other remedial actions, (B) will create new capacity to manage, in compliance with subtitle C of the Solid Waste Disposal Act \[[42 U.S.C. 6921][/us/usc/t42/s6921] et seq.\], hazardous substances in addition to those located at the affected facility, or (C) are necessary to protect public health or welfare or the environment from a present or potential risk which may be created by further exposure to the continued presence of such substances or materials;”. The part of [§ 101(f) of Pub. L. 99–499][/us/pl/99/499/s101/f] which directed amendment of par. (24) by changing the semicolon at end to a period could not be executed in view of prior amendment of par. (24) by [§ 101(d) of Pub. L. 99–499][/us/pl/99/499/s101/d] which substituted language at end of par. (24) ending in a period for former language ending in a semicolon.
+    Par. (24). [Pub. L. 99–499][/us/pl/99/499], § 101(d), (f), inserted “The terms” and substituted “and associated contaminated materials” for “or contaminated materials” and “welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.” for “welfare. The term does not include offsite transport of hazardous substances, or the storage, treatment, destruction, or secure disposition offsite of such hazardous substances or contaminated materials unless the President determines that such actions (A) are more cost-effective than other remedial actions, (B) will create new capacity to manage, in compliance with subtitle C of the Solid Waste Disposal Act \[[42 U.S.C. 6921][/us/usc/t42/s6921] et seq.\], hazardous substances in addition to those located at the affected facility, or (C) are necessary to protect public health or welfare or the environment from a present or potential risk which may be created by further exposure to the continued presence of such substances or materials;”. The part of § 101(f) of [Pub. L. 99–499][/us/pl/99/499] which directed amendment of par. (24) by changing the semicolon at end to a period could not be executed in view of prior amendment of par. (24) by § 101(d) of [Pub. L. 99–499][/us/pl/99/499] which substituted language at end of par. (24) ending in a period for former language ending in a semicolon.
 
-    Par. (25). [Pub. L. 99–499, § 101(e)][/us/pl/99/499/s101/e], (f), inserted “The terms” and “, all such terms (including the terms ‘removal’ and ‘remedial action’) include enforcement activities related thereto.” The part of [§ 101(f) of Pub. L. 99–499][/us/pl/99/499/s101/f] which directed amendment of par. (25) by changing the semicolon at end to a period could not be executed in view of prior amendment of par. (25) by [§ 101(e) of Pub. L. 99–499][/us/pl/99/499/s101/e] inserting language and a period at end of par. (25).
+    Par. (25). [Pub. L. 99–499][/us/pl/99/499], § 101(e), (f), inserted “The terms” and “, all such terms (including the terms ‘removal’ and ‘remedial action’) include enforcement activities related thereto.” The part of § 101(f) of [Pub. L. 99–499][/us/pl/99/499] which directed amendment of par. (25) by changing the semicolon at end to a period could not be executed in view of prior amendment of par. (25) by § 101(e) of [Pub. L. 99–499][/us/pl/99/499] inserting language and a period at end of par. (25).
 
-    Pars. (26), (27). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The terms” and substituted a period for the semicolon at end.
+    Pars. (26), (27). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The terms” and substituted a period for the semicolon at end.
 
-    Par. (28). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term” and substituted a period for the semicolon at end.
+    Par. (28). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term” and substituted a period for the semicolon at end.
 
-    Par. (29). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The terms” and substituted a period for the semicolon at end.
+    Par. (29). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The terms” and substituted a period for the semicolon at end.
 
-    Par. (30). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The terms”.
+    Par. (30). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The terms”.
 
-    Par. (31). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The term” and substituted a period for “; and”.
+    Par. (31). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The term” and substituted a period for “; and”.
 
-    Par. (32). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], inserted “The terms”.
+    Par. (32). [Pub. L. 99–499][/us/pl/99/499], § 101(f), inserted “The terms”.
 
-    Pars. (33) to (36). [Pub. L. 99–499, § 101(f)][/us/pl/99/499/s101/f], added pars. (33) to (36).
+    Pars. (33) to (36). [Pub. L. 99–499][/us/pl/99/499], § 101(f), added pars. (33) to (36).
 
-    Par. (37). [Pub. L. 99–499, § 114(b)][/us/pl/99/499/s114/b], added par. (37).
+    Par. (37). [Pub. L. 99–499][/us/pl/99/499], § 114(b), added par. (37).
 
-    Par. (38). [Pub. L. 99–499, § 127(a)][/us/pl/99/499/s127/a], added par. (38).
+    Par. (38). [Pub. L. 99–499][/us/pl/99/499], § 127(a), added par. (38).
 
     1980—Pars. (8), (16). [Pub. L. 96–561][/us/pl/96/561] substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
     Amendment by [section 2502(b) of Pub. L. 104–208][/us/pl/104/208/s2502/b] applicable with respect to any claim that has not been finally adjudicated as of Sept. 30, 1996, see [section 2505 of Pub. L. 104–208][/us/pl/104/208/s2505], set out as a note under [section 6991b of this title][/us/usc/t42/s6991b].
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–499, § 4][/us/pl/99/499/s4], Oct. 17, 1986, [100 Stat. 1614][/us/stat/100/1614], provided that: 
+[Pub. L. 99–499][/us/pl/99/499], § 4, Oct. 17, 1986, [100 Stat. 1614][/us/stat/100/1614], provided that: 
 
 > “Except as otherwise specified in section 121(b) of this Act \[set out as an Effective Date note under [section 9621 of this title][/us/usc/t42/s9621]\] or in any other provision of titles I, II, III, and IV of this Act \[see Tables for classification\], the amendments made by titles I through IV of this Act \[enacting subchapter IV of this chapter and sections 9616 to 9626, 9658 to 9660, and 9661 of this title and sections 2701 to 2707 and 2810 of Title 10, Armed Forces, amending sections 6926, 6928, 6991 to 6991d, 6991g, 9601 to 9609, 9611 to 9614, 9631, 9651, 9656, and 9657 of this title and [section 1416 of Title 33][/us/usc/t33/s1416], Navigation and Navigable Waters, and renumbering former [section 2701 of Title 10][/us/usc/t10/s2701] as [section 2721 of Title 10][/us/usc/t10/s2721]\] shall take effect on the enactment of this Act \[Oct. 17, 1986\].”
 
@@ -623,43 +623,43 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
  __Short Title of 2002 Amendments__ 
 
-[Pub. L. 107–118, § 1][/us/pl/107/118/s1], Jan. 11, 2002, [115 Stat. 2356][/us/stat/115/2356], provided that: 
+[Pub. L. 107–118][/us/pl/107/118], § 1, Jan. 11, 2002, [115 Stat. 2356][/us/stat/115/2356], provided that: 
 
 > “This Act \[enacting [section 9628 of this title][/us/usc/t42/s9628], amending this section and sections 9604, 9605, 9607, and 9622 of this title, and enacting provisions set out as notes under this section and [section 9607 of this title][/us/usc/t42/s9607]\] may be cited as the ‘Small Business Liability Relief and Brownfields Revitalization Act’.”
 
-[Pub. L. 107–118, title I, § 101][/us/pl/107/118/s101], Jan. 11, 2002, [115 Stat. 2356][/us/stat/115/2356], provided that: 
+[Pub. L. 107–118, title I][/us/pl/107/118/tI], § 101, Jan. 11, 2002, [115 Stat. 2356][/us/stat/115/2356], provided that: 
 
 > “This title \[amending sections 9607 and 9622 of this title and enacting provisions set out as a note under [section 9607 of this title][/us/usc/t42/s9607]\] may be cited as the ‘Small Business Liability Protection Act’.”
 
-[Pub. L. 107–118, title II, § 201][/us/pl/107/118/s201], Jan. 11, 2002, [115 Stat. 2360][/us/stat/115/2360], provided that: 
+[Pub. L. 107–118, title II][/us/pl/107/118/tII], § 201, Jan. 11, 2002, [115 Stat. 2360][/us/stat/115/2360], provided that: 
 
 > “This title \[enacting [section 9628 of this title][/us/usc/t42/s9628] and amending this section and sections 9604, 9605, and 9607 of this title\] may be cited as the ‘Brownfields Revitalization and Environmental Restoration Act of 2001’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title II, § 2501][/us/pl/104/208/s2501], Sept. 30, 1996, [110 Stat. 3009–462][/us/stat/110/3009-462], provided that: 
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2501, Sept. 30, 1996, [110 Stat. 3009–462][/us/stat/110/3009-462], provided that: 
 
 > “This subtitle \[subtitle E (§§ 2501–2505) of title II of div. A of [Pub. L. 104–208][/us/pl/104/208], amending this section and sections 6991b and 9607 of this title and enacting provisions set out as a note under [section 6991b of this title][/us/usc/t42/s6991b]\] may be cited as the ‘Asset Conservation, Lender Liability, and Deposit Insurance Protection Act of 1996’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–426, § 1][/us/pl/102/426/s1], Oct. 19, 1992, [106 Stat. 2174][/us/stat/106/2174], provided that: 
+[Pub. L. 102–426][/us/pl/102/426], § 1, Oct. 19, 1992, [106 Stat. 2174][/us/stat/106/2174], provided that: 
 
 > “This Act \[amending [section 9620 of this title][/us/usc/t42/s9620] and enacting provisions set out as a note under [section 9620 of this title][/us/usc/t42/s9620]\] may be cited as the ‘Community Environmental Response Facilitation Act’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–499, § 1][/us/pl/99/499/s1], Oct. 17, 1986, [100 Stat. 1613][/us/stat/100/1613], provided that: 
+[Pub. L. 99–499][/us/pl/99/499], § 1, Oct. 17, 1986, [100 Stat. 1613][/us/stat/100/1613], provided that: 
 
 > “This Act \[enacting subchapter IV of this chapter and sections 9616 to 9626, 9658 to 9662, 11001 to 11005, 11021 to 11023, and 11041 to 11050 of this title, sections 2701 to 2707 and 2810 of Title 10, Armed Forces, and sections 59A, 4671, 4672, 9507, and 9508 of Title 26, Internal Revenue Code, amending this section, sections 6926, 6928, 6991 to 6991d, 6991g, 9602 to 9609, 9611 to 9614, 9631, 9651, 9656, and 9657 of this title, sections 26, 164, 275, 936, 1561, 4041, 4042, 4081, 4221, 4611, 4612, 4661, 4662, 6154, 6416, 6420, 6421, 6425, 6427, 6655, 9502, 9503, and 9506 of Title 26, and [section 1416 of Title 33][/us/usc/t33/s1416], Navigation and Navigable Waters, renumbering former [section 2701 of Title 10][/us/usc/t10/s2701] as [section 2721 of Title 10][/us/usc/t10/s2721], repealing sections 9631 to 9633, 9641, and 9653 of this title and sections 4681 and 4682 of Title 26, and enacting provisions set out as notes under this section, sections 6921, 6991b, 7401, 9620, 9621, 9658, 9660, 9661, and 11001 of this title, [section 2703 of Title 10][/us/usc/t10/s2703], sections 1, 26, 4041, 4611, 4661, 4671, 4681, 9507, and 9508 of Title 26, and [section 655 of Title 29][/us/usc/t29/s655], Labor\] may be cited as the ‘Superfund Amendments and Reauthorization Act of 1986’.”
 
  __Short Title__ 
 
-[Pub. L. 96–510, § 1][/us/pl/96/510/s1], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], provided: 
+[Pub. L. 96–510][/us/pl/96/510], § 1, Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], provided: 
 
 > “That this Act \[enacting this chapter, [section 6911a of this title][/us/usc/t42/s6911a], and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amending [section 6911 of this title][/us/usc/t42/s6911], [section 1364 of Title 33][/us/usc/t33/s1364], Navigation and Navigable Waters, and [section 11901 of Title 49][/us/usc/t49/s11901], Transportation, and enacting provisions set out as notes under [section 6911 of this title][/us/usc/t42/s6911] and sections 1 and 4611 of Title 26\] may be cited as the ‘Comprehensive Environmental Response, Compensation, and Liability Act of 1980’.”
 
@@ -673,7 +673,7 @@
 
  __Definitions__ 
 
-[Pub. L. 99–499, § 2][/us/pl/99/499/s2], Oct. 17, 1986, [100 Stat. 1614][/us/stat/100/1614], provided that: 
+[Pub. L. 99–499][/us/pl/99/499], § 2, Oct. 17, 1986, [100 Stat. 1614][/us/stat/100/1614], provided that: 
 
 > “As used in this Act \[see Short Title of 1986 Amendment note above\]—
 
@@ -755,33 +755,33 @@
 [/us/usc/t42/s6991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991
 [/us/usc/t26/s9508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9508
 [/us/usc/t42/s9628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9628
-[/us/pl/96/510/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs101
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1615
-[/us/pl/100/707/s109/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fv
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4710
-[/us/pl/103/429/s7/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fe%2F1
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4390
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/287/s6/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fj%2F1
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
-[/us/pl/106/74/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs427
+[/us/pl/106/74/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtIV
 [/us/stat/113/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1095
-[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
+[/us/pl/107/118/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtII
 [/us/stat/115/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2360
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1811
-[/us/pl/99/659/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fb
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3706
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
@@ -793,12 +793,12 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
@@ -808,70 +808,70 @@
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
-[/us/pl/101/380/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F523
 [/us/usc/t33/s1321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fd
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
-[/us/pl/107/118/s223/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs223%2F1
-[/us/pl/107/118/s223/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs223%2F2
-[/us/pl/107/118/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs211%2Fa
-[/us/pl/107/118/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs222%2Fa
-[/us/pl/107/118/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs231%2Fa
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
-[/us/pl/104/208/s2502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2502%2Fb
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s60101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101%2Fa
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s517/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fc%2F2
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9631
 [/us/usc/t42/s9607/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607%2Fk
 [/us/usc/t42/s9641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9641
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fa
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fb%2F2
-[/us/pl/99/499/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fb%2F3
-[/us/pl/99/499/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fb%2F3
-[/us/pl/99/499/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fb%2F1
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fb%2F1
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fc
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fd
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fd
-[/us/pl/99/499/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fe
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Fe
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs101%2Ff
-[/us/pl/99/499/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs114%2Fb
-[/us/pl/99/499/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fa
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/104/208/s2502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2502%2Fb
 [/us/pl/104/208/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2505
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b
-[/us/pl/99/499/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs4
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1614
 [/us/usc/t42/s9621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9621
 [/us/usc/t33/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1416
@@ -880,34 +880,34 @@
 [/us/pl/99/499/s517/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fc%2F2
 [/us/pl/99/499/s517/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fe
 [/us/usc/t26/s9507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9507
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/107/118/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs1
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
 [/us/stat/115/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2356
 [/us/usc/t42/s9628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9628
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/107/118/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs101
+[/us/pl/107/118/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtI
 [/us/stat/115/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2356
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/107/118/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs201
+[/us/pl/107/118/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtII
 [/us/stat/115/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2360
 [/us/usc/t42/s9628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9628
-[/us/pl/104/208/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2501
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-462
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b
-[/us/pl/102/426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F426%2Fs1
+[/us/pl/102/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F426
 [/us/stat/106/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2174
 [/us/usc/t42/s9620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620
 [/us/usc/t42/s9620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620
-[/us/pl/99/499/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs1
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613
 [/us/usc/t33/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1416
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
 [/us/usc/t10/s2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2721
 [/us/usc/t10/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2703
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
-[/us/pl/96/510/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs1
+[/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s6911a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6911a
 [/us/usc/t42/s6911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6911
@@ -917,7 +917,7 @@
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/99/499/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs2
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1614
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 

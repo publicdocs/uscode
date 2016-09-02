@@ -289,7 +289,7 @@
 
         The term “unserved and underserved” includes populations such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals who require assistive technology in order to participate in and contribute to community life.
 
-([Pub. L. 106–402, title I, § 102][/us/pl/106/402/s102], Oct. 30, 2000, [114 Stat. 1682][/us/stat/114/1682].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 102, Oct. 30, 2000, [114 Stat. 1682][/us/stat/114/1682].)
 
 ----------
 
@@ -300,7 +300,7 @@
 
 [/us/usc/t42/s15043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15043
 [/us/usc/t42/s15025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15025
-[/us/pl/106/402/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs102
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1682
 
 

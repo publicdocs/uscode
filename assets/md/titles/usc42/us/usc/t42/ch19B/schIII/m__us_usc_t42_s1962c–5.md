@@ -17,7 +17,7 @@
 
     For the purpose of this subchapter the term “State” means a State, the District of Columbia, Puerto Rico, the Virgin Islands or Guam.
 
-([Pub. L. 89–80, title III, § 306][/us/pl/89/80/s306], July 22, 1965, [79 Stat. 253][/us/stat/79/253]; [Pub. L. 94–285, § 2][/us/pl/94/285/s2], May 12, 1976, [90 Stat. 516][/us/stat/90/516].)
+([Pub. L. 89–80, title III][/us/pl/89/80/tIII], § 306, July 22, 1965, [79 Stat. 253][/us/stat/79/253]; [Pub. L. 94–285][/us/pl/94/285], § 2, May 12, 1976, [90 Stat. 516][/us/stat/90/516].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/80/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs306
+[/us/pl/89/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIII
 [/us/stat/79/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F253
-[/us/pl/94/285/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F285%2Fs2
+[/us/pl/94/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F285
 [/us/stat/90/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F516
 [/us/pl/94/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F285
 

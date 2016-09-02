@@ -33,11 +33,11 @@
 
     (7) recommend methods of coordinating and simplifying tax laws and administrative practices to achieve a more orderly and less competitive fiscal relationship between the levels of government and to reduce the burden of compliance for taxpayers.
 
-([Pub. L. 86–380, § 2][/us/pl/86/380/s2], Sept. 24, 1959, [73 Stat. 703][/us/stat/73/703].)
+([Pub. L. 86–380][/us/pl/86/380], § 2, Sept. 24, 1959, [73 Stat. 703][/us/stat/73/703].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 2372 of Title 5][/us/usc/t5/s2372] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2372 of Title 5][/us/usc/t5/s2372] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/86/380/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380%2Fs2
+[/us/pl/86/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380
 [/us/stat/73/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F703
 [/us/usc/t5/s2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2372
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

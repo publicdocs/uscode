@@ -47,7 +47,7 @@
 
         The term “station” means the portion of a property located appurtenant to a right-of-way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas, ticketing areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but such term does not include flag stops.
 
-([Pub. L. 101–336, title II, § 241][/us/pl/101/336/s241], July 26, 1990, [104 Stat. 346][/us/stat/104/346]; [Pub. L. 104–287, § 6(k)][/us/pl/104/287/s6/k], Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 241, July 26, 1990, [104 Stat. 346][/us/stat/104/346]; [Pub. L. 104–287][/us/pl/104/287], § 6(k), Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    In pars. (1) and (2), “[section 24102(4) of title 49][/us/usc/t49/s24102/4]” substituted for “section 103(8) of the Rail Passenger Service Act ([45 U.S.C. 502(8)][/us/usc/t45/s502/8])” and “[section 24102(5) of title 49][/us/usc/t49/s24102/5]” substituted for “section 103(9) of the Rail Passenger Service Act ([45 U.S.C. 502(9)][/us/usc/t45/s502/9])” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In pars. (1) and (2), “[section 24102(4) of title 49][/us/usc/t49/s24102/4]” substituted for “section 103(8) of the Rail Passenger Service Act ([45 U.S.C. 502(8)][/us/usc/t45/s502/8])” and “[section 24102(5) of title 49][/us/usc/t49/s24102/5]” substituted for “section 103(9) of the Rail Passenger Service Act ([45 U.S.C. 502(9)][/us/usc/t45/s502/9])” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–336, title II, § 246][/us/pl/101/336/s246], July 26, 1990, [104 Stat. 353][/us/stat/104/353], provided that:
+[Pub. L. 101–336, title II][/us/pl/101/336/tII], § 246, July 26, 1990, [104 Stat. 353][/us/stat/104/353], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -80,19 +80,19 @@
 ----------
 ----------
 
-[/us/pl/101/336/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs241
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F346
-[/us/pl/104/287/s6/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fk
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3400
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
 [/us/usc/t49/s24102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F4
 [/us/usc/t45/s502/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs502%2F8
 [/us/usc/t49/s24102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F5
 [/us/usc/t45/s502/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs502%2F9
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/101/336/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs246
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F353
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 

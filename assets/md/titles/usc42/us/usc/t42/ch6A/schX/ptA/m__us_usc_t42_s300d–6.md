@@ -121,21 +121,21 @@
 
         The Secretary shall, as appropriate, disseminate to the public and to the appropriate Committees of the Congress, the information contained in a report made under subsection (g).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1204, as added [Pub. L. 111–148, title III, § 3504(a)(2)][/us/pl/111/148/s3504/a/2], Mar. 23, 2010, [124 Stat. 518][/us/stat/124/518].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1204, as added [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3504(a)(2), Mar. 23, 2010, [124 Stat. 518][/us/stat/124/518].)
 
  __Prior Provisions__ 
 
-    A prior section 300d–6, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1202, formerly § 1207, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 602][/us/stat/87/602]; amended Oct. 21, 1976, [Pub. L. 94–573, § 8][/us/pl/94/573/s8], [90 Stat. 2714][/us/stat/90/2714]; Nov. 10, 1978, [Pub. L. 95–626, title II, § 210(d)][/us/pl/95/626/s210/d], [92 Stat. 3588][/us/stat/92/3588]; Dec. 12, 1979, [Pub. L. 96–142, title I, § 105][/us/pl/96/142/s105], [93 Stat. 1068][/us/stat/93/1068]; renumbered § 1202 and amended Aug. 13, 1981, [Pub. L. 97–35, title IX, § 902(d)(1)][/us/pl/97/35/s902/d/1], (4), [95 Stat. 560][/us/stat/95/560], authorized appropriations for purposes of this subchapter, prior to repeal by [Pub. L. 99–117, § 12(e)][/us/pl/99/117/s12/e], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    A prior section 300d–6, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1202, formerly § 1207, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 602][/us/stat/87/602]; amended Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], § 8, [90 Stat. 2714][/us/stat/90/2714]; Nov. 10, 1978, [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 210(d), [92 Stat. 3588][/us/stat/92/3588]; Dec. 12, 1979, [Pub. L. 96–142, title I][/us/pl/96/142/tI], § 105, [93 Stat. 1068][/us/stat/93/1068]; renumbered § 1202 and amended Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(d)(1), (4), [95 Stat. 560][/us/stat/95/560], authorized appropriations for purposes of this subchapter, prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(e), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
     A prior section 1204 of act July 1, 1944, was classified to [section 300d–3 of this title][/us/usc/t42/s300d–3] prior to repeal by [Pub. L. 97–35][/us/pl/97/35].
 
-    Prior sections 300d–7 to 300d–9 were repealed by [Pub. L. 97–35, title IX, § 902(d)(1)][/us/pl/97/35/s902/d/1], (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
+    Prior sections 300d–7 to 300d–9 were repealed by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(d)(1), (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
 
-    Section 300d–7, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1208, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 602][/us/stat/87/602]; amended Oct. 12, 1976, [Pub. L. 94–484, title VIII, § 801(b)][/us/pl/94/484/s801/b], [90 Stat. 2322][/us/stat/90/2322]; Oct. 21, 1976, [Pub. L. 94–573, § 9][/us/pl/94/573/s9], [90 Stat. 2715][/us/stat/90/2715], set forth provisions relating to administration of emergency medical services administrative unit.
+    Section 300d–7, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1208, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 602][/us/stat/87/602]; amended Oct. 12, 1976, [Pub. L. 94–484, title VIII][/us/pl/94/484/tVIII], § 801(b), [90 Stat. 2322][/us/stat/90/2322]; Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], § 9, [90 Stat. 2715][/us/stat/90/2715], set forth provisions relating to administration of emergency medical services administrative unit.
 
-    Section 300d–8, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1209, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 602][/us/stat/87/602]; amended Oct. 21, 1976, [Pub. L. 94–573, § 10][/us/pl/94/573/s10], [90 Stat. 2716][/us/stat/90/2716]; Oct. 17, 1979, [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], [93 Stat. 695][/us/stat/93/695]; Dec. 12, 1979, [Pub. L. 96–142, title I, § 106][/us/pl/96/142/s106], [93 Stat. 1069][/us/stat/93/1069], related to Interagency Committee on Emergency Medical Services.
+    Section 300d–8, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1209, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 602][/us/stat/87/602]; amended Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], § 10, [90 Stat. 2716][/us/stat/90/2716]; Oct. 17, 1979, [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), [93 Stat. 695][/us/stat/93/695]; Dec. 12, 1979, [Pub. L. 96–142, title I][/us/pl/96/142/tI], § 106, [93 Stat. 1069][/us/stat/93/1069], related to Interagency Committee on Emergency Medical Services.
 
-    Section 300d–9, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1210, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 603][/us/stat/87/603]; amended Oct. 21, 1976, [Pub. L. 94–573, § 11][/us/pl/94/573/s11], [90 Stat. 2717][/us/stat/90/2717], related to annual report to Congress.
+    Section 300d–9, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1210, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 603][/us/stat/87/603]; amended Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], § 11, [90 Stat. 2717][/us/stat/90/2717], related to annual report to Congress.
 
 ----------
 
@@ -147,45 +147,45 @@
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
 [/us/usc/t42/s254b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fb%2F3
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3504%2Fa%2F2
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F518
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F602
-[/us/pl/94/573/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs8
+[/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2714
-[/us/pl/95/626/s210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs210%2Fd
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3588
-[/us/pl/96/142/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2Fs105
+[/us/pl/96/142/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2FtI
 [/us/stat/93/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1068
-[/us/pl/97/35/s902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/pl/99/117/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fe
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/usc/t42/s300d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%933
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F602
-[/us/pl/94/484/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs801%2Fb
+[/us/pl/94/484/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtVIII
 [/us/stat/90/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2322
-[/us/pl/94/573/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs9
+[/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2715
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F602
-[/us/pl/94/573/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs10
+[/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2716
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/96/142/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2Fs106
+[/us/pl/96/142/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2FtI
 [/us/stat/93/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1069
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F603
-[/us/pl/94/573/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs11
+[/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2717
 
 

@@ -63,7 +63,7 @@
 
         (5) recommend to the Director of the National Vaccine Program research related to vaccine injuries which should be conducted to carry out this part.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2119, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3771][/us/stat/100/3771]; amended [Pub. L. 100–203, title IV, § 4302(b)(1)][/us/pl/100/203/s4302/b/1], Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221]; [Pub. L. 102–168, title II, § 201(g)][/us/pl/102/168/s201/g], Nov. 26, 1991, [105 Stat. 1104][/us/stat/105/1104]; [Pub. L. 102–531, title III, § 312(d)(14)][/us/pl/102/531/s312/d/14], Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2119, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3771][/us/stat/100/3771]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4302(b)(1), Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221]; [Pub. L. 102–168, title II][/us/pl/102/168/tII], § 201(g), Nov. 26, 1991, [105 Stat. 1104][/us/stat/105/1104]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(14), Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505].)
 
  __Codification__ 
 
@@ -81,7 +81,7 @@
 
     Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 776][/us/stat/86/776], set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -98,13 +98,13 @@
 [/us/usc/t42/s300aa–27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9327
 [/us/usc/t42/s300aa–25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9325%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3771
-[/us/pl/100/203/s4302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fb%2F1
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-221
-[/us/pl/102/168/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2Fs201%2Fg
+[/us/pl/102/168/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2FtII
 [/us/stat/105/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1104
-[/us/pl/102/531/s312/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F14
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
 [/us/pl/99/660/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs323
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931
@@ -113,7 +113,7 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

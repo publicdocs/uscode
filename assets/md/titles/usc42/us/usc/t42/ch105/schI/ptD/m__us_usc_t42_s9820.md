@@ -17,7 +17,7 @@
 
     In order to facilitate the purposes of this subchapter, the Secretary is authorized to provide financial assistance to any public or private nonprofit agency or organization for planning of community economic development programs and cooperative programs under this subchapter.
 
-([Pub. L. 97–35, title VI, § 631][/us/pl/97/35/s631], Aug. 13, 1981, [95 Stat. 498][/us/stat/95/498].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 631, Aug. 13, 1981, [95 Stat. 498][/us/stat/95/498].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs631
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F498
 
 

@@ -19,7 +19,7 @@
 
     (b) Not later than March 31 of each year (beginning in 1980), the Secretary of Health and Human Services shall compile the reports made pursuant to subsection (a) of this section and shall submit them to the Congress, together with an evaluation of the performance of each department or agency with respect to carrying out the provisions of [section 6102 of this title][/us/usc/t42/s6102].
 
-([Pub. L. 94–135, title III, § 308][/us/pl/94/135/s308], as added [Pub. L. 95–478, title IV, § 401(e)][/us/pl/95/478/s401/e], Oct. 18, 1978, [92 Stat. 1556][/us/stat/92/1556]; amended [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 308, as added [Pub. L. 95–478, title IV][/us/pl/95/478/tIV], § 401(e), Oct. 18, 1978, [92 Stat. 1556][/us/stat/92/1556]; amended [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Prior Provisions__ 
 
@@ -43,10 +43,10 @@
 [/us/usc/t42/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6102
 [/us/usc/t42/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6102
 [/us/usc/t42/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6102
-[/us/pl/94/135/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs308
-[/us/pl/95/478/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fe
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
+[/us/pl/95/478/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtIV
 [/us/stat/92/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1556
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/94/135/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs308
 [/us/usc/t42/s6107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6107

@@ -147,11 +147,11 @@
 
             In order to carry out the Urban Youth Corps or to support qualified urban youth corps under this section, the Secretaries shall be eligible to apply for and receive assistance under section 121(b) of the National and Community Service Act of 1990 \[[42 U.S.C. 12571(b)][/us/usc/t42/s12571/b]\].
 
-([Pub. L. 103–82, title I, § 106][/us/pl/103/82/s106], Sept. 21, 1993, [107 Stat. 854][/us/stat/107/854].)
+([Pub. L. 103–82, title I][/us/pl/103/82/tI], § 106, Sept. 21, 1993, [107 Stat. 854][/us/stat/107/854].)
 
  __References in Text__ 
 
-    Section 140(a)(3) of the National and Community Service Act of 1990, referred to in subsec. (e), was redesignated section 140(a)(2) of the Act by [Pub. L. 111–13, title I, § 1315(1)(C)][/us/pl/111/13/s1315/1/C], Apr. 21, 2009, [123 Stat. 1511][/us/stat/123/1511], and is classified to [section 12594(a)(2) of this title][/us/usc/t42/s12594/a/2].
+    Section 140(a)(3) of the National and Community Service Act of 1990, referred to in subsec. (e), was redesignated section 140(a)(2) of the Act by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1315(1)(C), Apr. 21, 2009, [123 Stat. 1511][/us/stat/123/1511], and is classified to [section 12594(a)(2) of this title][/us/usc/t42/s12594/a/2].
 
     The National and Community Service Act of 1990, referred to in subsecs. (e), (f), and (g)(1), is [Pub. L. 101–610][/us/pl/101/610], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127]. Subtitles C and D of title I of the Act are classified generally to divisions C (§ 12571 et seq.) and D (§ 12601 et seq.), respectively, of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title][/us/usc/t42/s12501] and Tables.
 
@@ -178,9 +178,9 @@
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/usc/t42/s12637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12637
 [/us/usc/t42/s12571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fb
-[/us/pl/103/82/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs106
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F854
-[/us/pl/111/13/s1315/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1315%2F1%2FC
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1511
 [/us/usc/t42/s12594/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12594%2Fa%2F2
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610

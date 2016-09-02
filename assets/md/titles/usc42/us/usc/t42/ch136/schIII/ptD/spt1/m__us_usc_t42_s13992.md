@@ -61,7 +61,7 @@
 
     (22) the extent to which addressing domestic violence and victim safety contributes to the efficient administration of justice;  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The semicolon probably should be a period. </sup></sup> 
 
-([Pub. L. 103–322, title IV, § 40412][/us/pl/103/322/s40412], Sept. 13, 1994, [108 Stat. 1943][/us/stat/108/1943]; [Pub. L. 106–386, div. B, title IV, § 1406(a)(1)][/us/pl/106/386/s1406/a/1], (d)(2), Oct. 28, 2000, [114 Stat. 1515][/us/stat/114/1515], 1517.)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40412, Sept. 13, 1994, [108 Stat. 1943][/us/stat/108/1943]; [Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1406(a)(1), (d)(2), Oct. 28, 2000, [114 Stat. 1515][/us/stat/114/1515], 1517.)
 
  __References in Text__ 
 
@@ -69,17 +69,17 @@
 
  __Amendments__ 
 
-    2000—Par. (10). [Pub. L. 106–386, § 1406(d)(2)(A)][/us/pl/106/386/s1406/d/2/A], inserted “and dating violence (as defined in [section 3796gg–2 of this title][/us/usc/t42/s3796gg–2])” before the semicolon.
+    2000—Par. (10). [Pub. L. 106–386][/us/pl/106/386], § 1406(d)(2)(A), inserted “and dating violence (as defined in [section 3796gg–2 of this title][/us/usc/t42/s3796gg–2])” before the semicolon.
 
-    Par. (11). [Pub. L. 106–386, § 1406(d)(2)(B)][/us/pl/106/386/s1406/d/2/B], inserted “and dating violence” after “domestic violence”.
+    Par. (11). [Pub. L. 106–386][/us/pl/106/386], § 1406(d)(2)(B), inserted “and dating violence” after “domestic violence”.
 
-    Par. (13). [Pub. L. 106–386, § 1406(d)(2)(C)][/us/pl/106/386/s1406/d/2/C], inserted “and dating violence” after “domestic violence” in two places.
+    Par. (13). [Pub. L. 106–386][/us/pl/106/386], § 1406(d)(2)(C), inserted “and dating violence” after “domestic violence” in two places.
 
-    Par. (17). [Pub. L. 106–386, § 1406(d)(2)(D)][/us/pl/106/386/s1406/d/2/D], inserted “or dating violence” after “domestic violence” in two places.
+    Par. (17). [Pub. L. 106–386][/us/pl/106/386], § 1406(d)(2)(D), inserted “or dating violence” after “domestic violence” in two places.
 
-    Par. (18). [Pub. L. 106–386, § 1406(d)(2)(E)][/us/pl/106/386/s1406/d/2/E], inserted “and dating violence” after “domestic violence”.
+    Par. (18). [Pub. L. 106–386][/us/pl/106/386], § 1406(d)(2)(E), inserted “and dating violence” after “domestic violence”.
 
-    Pars. (20) to (22). [Pub. L. 106–386, § 1406(a)(1)][/us/pl/106/386/s1406/a/1], added pars. (20) to (22).
+    Pars. (20) to (22). [Pub. L. 106–386][/us/pl/106/386], § 1406(a)(1), added pars. (20) to (22).
 
 ----------
 
@@ -88,18 +88,18 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40412
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1943
-[/us/pl/106/386/s1406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fa%2F1
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1515
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
-[/us/pl/106/386/s1406/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fd%2F2%2FA
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
-[/us/pl/106/386/s1406/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fd%2F2%2FB
-[/us/pl/106/386/s1406/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fd%2F2%2FC
-[/us/pl/106/386/s1406/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fd%2F2%2FD
-[/us/pl/106/386/s1406/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fd%2F2%2FE
-[/us/pl/106/386/s1406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fa%2F1
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 
 

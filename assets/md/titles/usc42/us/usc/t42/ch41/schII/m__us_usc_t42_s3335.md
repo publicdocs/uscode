@@ -47,21 +47,21 @@
 
         Nothing in this section shall authorize the Secretary to require (or condition the availability or amount of financial assistance authorized to be provided under this subchapter upon) the adoption by any community of a program to achieve a racial balance or to eliminate racial imbalance within school districts.
 
-([Pub. L. 89–754, title II, § 205][/us/pl/89/754/s205], Nov. 3, 1966, [80 Stat. 1263][/us/stat/80/1263]; [Pub. L. 90–448, title VI, § 602(d)][/us/pl/90/448/s602/d], Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532].)
+([Pub. L. 89–754, title II][/us/pl/89/754/tII], § 205, Nov. 3, 1966, [80 Stat. 1263][/us/stat/80/1263]; [Pub. L. 90–448, title VI][/us/pl/90/448/tVI], § 602(d), Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532].)
 
  __Amendments__ 
 
-    1968—Subsec. (a). [Pub. L. 90–448, § 602(d)(1)][/us/pl/90/448/s602/d/1], substituted “areawide development” for “metropolitan development”.
+    1968—Subsec. (a). [Pub. L. 90–448][/us/pl/90/448], § 602(d)(1), substituted “areawide development” for “metropolitan development”.
 
-    Subsec. (b). [Pub. L. 90–448, § 602(d)(1)][/us/pl/90/448/s602/d/1]–(3), substituted “areawide development projects in areas” for “metropolitan development projects in metropolitan areas”, “areawide comprehensive planning” for “metropolitanwide comprehensive planning” in three places, “public areawide” for “public metropolitanwide”, and “adequate areawide” for “adequate metropolitanwide”.
+    Subsec. (b). [Pub. L. 90–448][/us/pl/90/448], § 602(d)(1)–(3), substituted “areawide development projects in areas” for “metropolitan development projects in metropolitan areas”, “areawide comprehensive planning” for “metropolitanwide comprehensive planning” in three places, “public areawide” for “public metropolitanwide”, and “adequate areawide” for “adequate metropolitanwide”.
 
-    Subsec. (c). [Pub. L. 90–448, § 602(d)(3)][/us/pl/90/448/s602/d/3]–(5), substituted “public areawide” for “public metropolitanwide”, and “areawide planning” for “metropolitan planning” in two places, and inserted “where appropriate,” after “(B)”.
+    Subsec. (c). [Pub. L. 90–448][/us/pl/90/448], § 602(d)(3)–(5), substituted “public areawide” for “public metropolitanwide”, and “areawide planning” for “metropolitan planning” in two places, and inserted “where appropriate,” after “(B)”.
 
-    Subsec. (d). [Pub. L. 90–448, § 602(d)(2)][/us/pl/90/448/s602/d/2], substituted “programing for the area” for “programing for the metropolitan area”.
+    Subsec. (d). [Pub. L. 90–448][/us/pl/90/448], § 602(d)(2), substituted “programing for the area” for “programing for the metropolitan area”.
 
-    Subsec. (e). [Pub. L. 90–448, § 602(d)(1)][/us/pl/90/448/s602/d/1], substituted “areawide development project” for “metropolitan development project”.
+    Subsec. (e). [Pub. L. 90–448][/us/pl/90/448], § 602(d)(1), substituted “areawide development project” for “metropolitan development project”.
 
-    Subsec. (f). [Pub. L. 90–448, § 602(d)(6)][/us/pl/90/448/s602/d/6], struck out “within the metropolitanwide area” after “school districts”.
+    Subsec. (f). [Pub. L. 90–448][/us/pl/90/448], § 602(d)(6), struck out “within the metropolitanwide area” after “school districts”.
 
 ----------
 
@@ -72,15 +72,15 @@
 
 [/us/usc/t42/s3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3338
 [/us/usc/t42/s3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3338
-[/us/pl/89/754/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs205
+[/us/pl/89/754/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtII
 [/us/stat/80/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1263
-[/us/pl/90/448/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fd
+[/us/pl/90/448/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVI
 [/us/stat/82/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F532
-[/us/pl/90/448/s602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fd%2F1
-[/us/pl/90/448/s602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fd%2F1
-[/us/pl/90/448/s602/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fd%2F3
-[/us/pl/90/448/s602/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fd%2F2
-[/us/pl/90/448/s602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fd%2F1
-[/us/pl/90/448/s602/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fd%2F6
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
+[/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 
 

@@ -39,7 +39,7 @@
 
     (3) a summary of any incidents of noncompliance of the programs authorized under this subchapter with the provisions of this subchapter, and corrections made or actions taken to obtain compliance.
 
-([Pub. L. 106–402, title I, § 105][/us/pl/106/402/s105], Oct. 30, 2000, [114 Stat. 1690][/us/stat/114/1690].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 105, Oct. 30, 2000, [114 Stat. 1690][/us/stat/114/1690].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs105
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1690
 
 

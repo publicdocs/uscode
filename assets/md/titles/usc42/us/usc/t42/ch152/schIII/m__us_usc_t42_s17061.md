@@ -217,7 +217,7 @@
 
         (D) be economically viable.
 
-([Pub. L. 110–140, title IV, § 401][/us/pl/110/140/s401], Dec. 19, 2007, [121 Stat. 1596][/us/stat/121/1596].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 401, Dec. 19, 2007, [121 Stat. 1596][/us/stat/121/1596].)
 
  __References in Text__ 
 
@@ -251,7 +251,7 @@
 [/us/usc/t42/s8253/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253%2Fc
 [/us/usc/t42/s17081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17081%2Fa
 [/us/usc/t42/s17092/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092%2Fa
-[/us/pl/110/140/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs401
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1596
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1596

@@ -73,7 +73,7 @@
 
         (2) any power, jurisdiction, responsibility, or authority that a Federal, State, or local governmental agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to any project, plan, or program.
 
-([Pub. L. 114–94, div. D, title XLI, § 41007][/us/pl/114/94/s41007], Dec. 4, 2015, [129 Stat. 1758][/us/stat/129/1758].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41007, Dec. 4, 2015, [129 Stat. 1758][/us/stat/129/1758].)
 
  __References in Text__ 
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s41007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41007
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1758
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

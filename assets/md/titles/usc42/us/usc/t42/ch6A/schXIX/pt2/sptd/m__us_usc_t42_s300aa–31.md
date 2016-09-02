@@ -27,7 +27,7 @@
 
         The court, in issuing any final order in any action under this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any plaintiff who substantially prevails on one or more significant issues in the action.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2131, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3778][/us/stat/100/3778]; amended [Pub. L. 100–203, title IV, § 4305][/us/pl/100/203/s4305], Dec. 22, 1987, [101 Stat. 1330–224][/us/stat/101/1330-224].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2131, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3778][/us/stat/100/3778]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4305, Dec. 22, 1987, [101 Stat. 1330–224][/us/stat/101/1330-224].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3778
-[/us/pl/100/203/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4305
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-224
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/660/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs323

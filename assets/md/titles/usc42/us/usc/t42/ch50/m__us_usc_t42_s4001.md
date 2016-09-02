@@ -39,7 +39,7 @@
 
         The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
 
-([Pub. L. 90–448, title XIII, § 1302][/us/pl/90/448/s1302], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572]; [Pub. L. 91–152, title IV, § 409(a)][/us/pl/91/152/s409/a], Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 93–234, title I, § 108(a)][/us/pl/93/234/s108/a], Dec. 31, 1973, [87 Stat. 979][/us/stat/87/979]; [Pub. L. 103–325, title V, § 552(d)][/us/pl/103/325/s552/d], Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1302, Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 409(a), Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 93–234, title I][/us/pl/93/234/tI], § 108(a), Dec. 31, 1973, [87 Stat. 979][/us/stat/87/979]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 552(d), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269].)
 
  __References in Text__ 
 
@@ -57,89 +57,89 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–448, title XIII, § 1377][/us/pl/90/448/s1377], Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589], provided that: 
+[Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1377, Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589], provided that: 
 
 > “This title \[enacting this chapter, amending [section 2414 of this title][/us/usc/t42/s2414], repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–89, § 1(a)][/us/pl/113/89/s1/a], Mar. 21, 2014, [128 Stat. 1020][/us/stat/128/1020], provided that: 
+[Pub. L. 113–89][/us/pl/113/89], § 1(a), Mar. 21, 2014, [128 Stat. 1020][/us/stat/128/1020], provided that: 
 
 > “This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and [section 2604 of Title 12][/us/usc/t12/s2604], Banks and Banking, enacting provisions set out as notes under sections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under [section 4012a of this title][/us/usc/t42/s4012a]\] may be cited as the ‘Homeowner Flood Insurance Affordability Act of 2014’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–141, div. F, title II, § 100201][/us/pl/112/141/s100201], July 6, 2012, [126 Stat. 916][/us/stat/126/916], provided that: 
+[Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100201, July 6, 2012, [126 Stat. 916][/us/stat/126/916], provided that: 
 
 > “This subtitle \[subtitle A (§§ 100201–100249) of title II of div. F of [Pub. L. 112–141][/us/pl/112/141], see Tables for classification\] may be cited as the ‘Biggert-Waters Flood Insurance Reform Act of 2012’.”
 
-[Pub. L. 112–141, div. F, title II, § 100251][/us/pl/112/141/s100251], July 6, 2012, [126 Stat. 969][/us/stat/126/969], provided that: 
+[Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100251, July 6, 2012, [126 Stat. 969][/us/stat/126/969], provided that: 
 
 > “This subtitle \[subtitle B (§§ 100251–100253) of title II of div. F of [Pub. L. 112–141][/us/pl/112/141], enacting [section 4057 of this title][/us/usc/t42/s4057] and [section 3611 of Title 33][/us/usc/t33/s3611], Navigation and Navigable Waters\] may be cited as the ‘Consumer Option for an Alternative System to Allocate Losses Act of 2012’ or the ‘COASTAL Act of 2012’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–250, § 1][/us/pl/111/250/s1], Sept. 30, 2010, [124 Stat. 2630][/us/stat/124/2630], provided that: 
+[Pub. L. 111–250][/us/pl/111/250], § 1, Sept. 30, 2010, [124 Stat. 2630][/us/stat/124/2630], provided that: 
 
 > “This Act \[amending sections 4016 and 4026 of this title\] may be cited as the ‘National Flood Insurance Program Reextension Act of 2010’.”
 
-[Pub. L. 111–196, § 1][/us/pl/111/196/s1], July 2, 2010, [124 Stat. 1352][/us/stat/124/1352], provided that: 
+[Pub. L. 111–196][/us/pl/111/196], § 1, July 2, 2010, [124 Stat. 1352][/us/stat/124/1352], provided that: 
 
 > “This Act \[amending sections 4016 and 4026 of this title and enacting provisions set out as a note under [section 4016 of this title][/us/usc/t42/s4016]\] may be cited as the ‘National Flood Insurance Program Extension Act of 2010’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–208, § 1][/us/pl/109/208/s1], Mar. 23, 2006, [120 Stat. 317][/us/stat/120/317], provided that: 
+[Pub. L. 109–208][/us/pl/109/208], § 1, Mar. 23, 2006, [120 Stat. 317][/us/stat/120/317], provided that: 
 
 > “This Act \[amending [section 4016 of this title][/us/usc/t42/s4016]\] may be cited as the ‘National Flood Insurance Program Enhanced Borrowing Authority Act of 2006’.”
 
  __Short Title of 2005 Amendments__ 
 
-[Pub. L. 109–106, § 1][/us/pl/109/106/s1], Nov. 21, 2005, [119 Stat. 2288][/us/stat/119/2288], provided that: 
+[Pub. L. 109–106][/us/pl/109/106], § 1, Nov. 21, 2005, [119 Stat. 2288][/us/stat/119/2288], provided that: 
 
 > “This Act \[amending [section 4016 of this title][/us/usc/t42/s4016]\] may be cited as the ‘National Flood Insurance Program Further Enhanced Borrowing Authority Act of 2005’.”
 
-[Pub. L. 109–65, § 1][/us/pl/109/65/s1], Sept. 20, 2005, [119 Stat. 1998][/us/stat/119/1998], provided that: 
+[Pub. L. 109–65][/us/pl/109/65], § 1, Sept. 20, 2005, [119 Stat. 1998][/us/stat/119/1998], provided that: 
 
 > “This Act \[amending [section 4016 of this title][/us/usc/t42/s4016]\] may be cited as the ‘National Flood Insurance Program Enhanced Borrowing Authority Act of 2005’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–264, § 1(a)][/us/pl/108/264/s1/a], June 30, 2004, [118 Stat. 712][/us/stat/118/712], provided that: 
+[Pub. L. 108–264][/us/pl/108/264], § 1(a), June 30, 2004, [118 Stat. 712][/us/stat/118/712], provided that: 
 
 > “This Act \[enacting sections 4030 and 4102a of this title, amending sections 4011, 4015 to 4017, 4022, 4026, 4056, 4104c, 4104d, 4121, and 4127 of this title, and enacting provisions set out as notes under this section and sections 4011 and 4101 of this title\] may be cited as the ‘Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004’.”
 
  __Short Title of 2003 Amendments__ 
 
-[Pub. L. 108–171, § 1][/us/pl/108/171/s1], Dec. 6, 2003, [117 Stat. 2064][/us/stat/117/2064], provided that: 
+[Pub. L. 108–171][/us/pl/108/171], § 1, Dec. 6, 2003, [117 Stat. 2064][/us/stat/117/2064], provided that: 
 
 > “This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under [section 4016 of this title][/us/usc/t42/s4016]\] may be cited as the ‘National Flood Insurance Program Reauthorization Act of 2004’.”
 
-[Pub. L. 108–3, § 1][/us/pl/108/3/s1], Jan. 13, 2003, [117 Stat. 7][/us/stat/117/7], provided that: 
+[Pub. L. 108–3][/us/pl/108/3], § 1, Jan. 13, 2003, [117 Stat. 7][/us/stat/117/7], provided that: 
 
 > “This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under [section 4016 of this title][/us/usc/t42/s4016]\] may be cited as the ‘National Flood Insurance Program Reauthorization Act of 2003’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–325, title V, § 501][/us/pl/103/325/s501], Sept. 23, 1994, [108 Stat. 2255][/us/stat/108/2255], provided that: 
+[Pub. L. 103–325, title V][/us/pl/103/325/tV], § 501, Sept. 23, 1994, [108 Stat. 2255][/us/stat/108/2255], provided that: 
 
 > “This title \[enacting sections 4104b to 4104d and 5154a of this title, amending this section, sections 4003, 4011, 4012a, 4013, 4015, 4017, 4022, 4026, 4027, 4029, 4056, 4081, 4101, 4104a, 4106, 4121, and 5154 of this title, and sections 1784, 1820, 3305, and 4521 of Title 12, Banks and Banking, repealing [section 4103 of this title][/us/usc/t42/s4103], enacting provisions set out as notes under this section and sections 4011, 4013, 4014, 4101 to 4103, and 4104c of this title, and repealing provisions set out as a note under [section 4015 of this title][/us/usc/t42/s4015]\] may be cited as the ‘National Flood Insurance Reform Act of 1994’.”
 
  __Short Title of 1973 Amendment__ 
 
-[Pub. L. 93–234, § 1][/us/pl/93/234/s1], Dec. 31, 1973, [87 Stat. 975][/us/stat/87/975], provided: 
+[Pub. L. 93–234][/us/pl/93/234], § 1, Dec. 31, 1973, [87 Stat. 975][/us/stat/87/975], provided: 
 
 > “That this Act \[enacting sections 4002, 4003, 4012a, 4104, 4105 to 4107, and 4128 of this title, amending this section, sections 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title, and sections 24 and 1709–1 of Title 12, Banks and Banking, and repealing [section 4021 of this title][/us/usc/t42/s4021]\] may be cited as the ‘Flood Disaster Protection Act of 1973’.”
 
  __Short Title__ 
 
-[Pub. L. 90–448, title XIII, § 1301][/us/pl/90/448/s1301], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], provided that: 
+[Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1301, Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], provided that: 
 
 > “This title \[enacting this chapter, amending [section 2414 of this title][/us/usc/t42/s2414], repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘National Flood Insurance Act of 1968’.”
 
  __Regulations__ 
 
-[Pub. L. 103–325, title V, § 583][/us/pl/103/325/s583], Sept. 23, 1994, [108 Stat. 2287][/us/stat/108/2287], as amended by [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that: 
+[Pub. L. 103–325, title V][/us/pl/103/325/tV], § 583, Sept. 23, 1994, [108 Stat. 2287][/us/stat/108/2287], as amended by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that: 
 
 > “The Administrator of the Federal Emergency Management Agency and any appropriate Federal agency may each issue any regulations necessary to carry out the applicable provisions of this title \[see Short Title of 1994 Amendment note above\] and the applicable amendments made by this title.”
 
@@ -149,11 +149,11 @@
 
  __Evaluation of Erosion Hazards__ 
 
-    [Pub. L. 103–325, title V, § 577(a)][/us/pl/103/325/s577/a]–(g), Sept. 23, 1994, [108 Stat. 2281–2283][/us/stat/108/2281-2283], required the Director of the Federal Emergency Management Agency to submit a report no later than two years after Sept. 23, 1994, evaluating erosion hazards and estimating the impact of erosion on flood insurance claims.
+    [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 577(a)–(g), Sept. 23, 1994, [108 Stat. 2281–2283][/us/stat/108/2281-2283], required the Director of the Federal Emergency Management Agency to submit a report no later than two years after Sept. 23, 1994, evaluating erosion hazards and estimating the impact of erosion on flood insurance claims.
 
  __Relation of Title V of__  __[__  __Pub. L. 103–325__  __][/us/pl/103/325]__  __to State and Local Laws__ 
 
-[Pub. L. 103–325, title V, § 584][/us/pl/103/325/s584], Sept. 23, 1994, [108 Stat. 2287][/us/stat/108/2287], provided that: 
+[Pub. L. 103–325, title V][/us/pl/103/325/tV], § 584, Sept. 23, 1994, [108 Stat. 2287][/us/stat/108/2287], provided that: 
 
 > “This title \[see Short Title of 1994 Amendment note above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
 
@@ -168,13 +168,13 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1302
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
-[/us/pl/91/152/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs409%2Fa
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F397
-[/us/pl/93/234/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs108%2Fa
+[/us/pl/93/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtI
 [/us/stat/87/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F979
-[/us/pl/103/325/s552/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs552%2Fd
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2269
 [/us/pl/90/448/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1377
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
@@ -182,63 +182,63 @@
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
-[/us/pl/90/448/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1377
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F589
 [/us/usc/t42/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414
-[/us/pl/113/89/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs1%2Fa
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1020
 [/us/usc/t12/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2604
 [/us/usc/t42/s4012a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a
-[/us/pl/112/141/s100201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100201
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F916
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141/s100251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100251
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F969
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4057
 [/us/usc/t33/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3611
-[/us/pl/111/250/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F250%2Fs1
+[/us/pl/111/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F250
 [/us/stat/124/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2630
-[/us/pl/111/196/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F196%2Fs1
+[/us/pl/111/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F196
 [/us/stat/124/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1352
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
-[/us/pl/109/208/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F208%2Fs1
+[/us/pl/109/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F208
 [/us/stat/120/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F317
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
-[/us/pl/109/106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F106%2Fs1
+[/us/pl/109/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F106
 [/us/stat/119/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2288
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
-[/us/pl/109/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F65%2Fs1
+[/us/pl/109/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F65
 [/us/stat/119/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1998
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
-[/us/pl/108/264/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs1%2Fa
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
 [/us/stat/118/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F712
-[/us/pl/108/171/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F171%2Fs1
+[/us/pl/108/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F171
 [/us/stat/117/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2064
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
-[/us/pl/108/3/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F3%2Fs1
+[/us/pl/108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F3
 [/us/stat/117/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F7
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
-[/us/pl/103/325/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs501
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2255
 [/us/usc/t42/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4103
 [/us/usc/t42/s4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015
-[/us/pl/93/234/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs1
+[/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F975
 [/us/usc/t42/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4021
-[/us/pl/90/448/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1301
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414
-[/us/pl/103/325/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs583
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2287
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/103/325/s577/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs577%2Fa
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2281-2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2281-2283
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/103/325/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs584
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2287
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

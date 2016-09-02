@@ -31,7 +31,7 @@
 
         This section does not prevent any State or political subdivision thereof from regulating product labeling or information respecting products in any way not in conflict with regulations prescribed by the Administrator under this section.
 
-([Pub. L. 92–574, § 8][/us/pl/92/574/s8], Oct. 27, 1972, [86 Stat. 1241][/us/stat/86/1241].)
+([Pub. L. 92–574][/us/pl/92/574], § 8, Oct. 27, 1972, [86 Stat. 1241][/us/stat/86/1241].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s4905/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4905%2Fc%2F2
-[/us/pl/92/574/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs8
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1241
 
 

@@ -41,7 +41,7 @@
 
         Notwithstanding subsection (b), an organization or individual described in subsection (b)(6) or (b)(7) may opt to receive the notification described in that subsection no less frequently than once every five business days.
 
-([Pub. L. 109–248, title I, § 121][/us/pl/109/248/s121], July 27, 2006, [120 Stat. 597][/us/stat/120/597].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 121, July 27, 2006, [120 Stat. 597][/us/stat/120/597].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s5119a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5119a
-[/us/pl/109/248/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs121
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F597
 
 

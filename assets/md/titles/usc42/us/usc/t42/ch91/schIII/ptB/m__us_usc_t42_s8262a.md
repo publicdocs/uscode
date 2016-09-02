@@ -17,7 +17,7 @@
 
     Not later than one year after October 24, 1992, and annually thereafter, the Administrator of General Services shall report to the Committee on Governmental Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives on the activities of the General Services Administration conducted pursuant to this subtitle. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 102–486, title I, § 154][/us/pl/102/486/s154], Oct. 24, 1992, [106 Stat. 2852][/us/stat/106/2852].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 154, Oct. 24, 1992, [106 Stat. 2852][/us/stat/106/2852].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs154
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2852
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843

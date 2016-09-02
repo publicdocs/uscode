@@ -39,7 +39,7 @@
 
         Whenever a vacancy exists in any grade in a category the Surgeon General may increase by one the number fixed by him under subsection (c) of this section for the next lower grade in the same category, without regard to the numbers fixed in regulations under [section 207(d) of this title][/us/usc/t42/s207/d]; and in that event the vacancy in the higher grade shall not be filled except by a permanent promotion, and upon the making of such promotion the number for the next lower grade shall be reduced by one.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 209, as added [Feb. 28, 1948, ch. 83, § 5(i)][/us/act/1948-02-28/ch83/s5/i], [62 Stat. 41][/us/stat/62/41]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–76, title III, § 306][/us/pl/96/76/s306], Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 209, as added [Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 5(i), [62 Stat. 41][/us/stat/62/41]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 306, Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585].)
 
  __Prior Provisions__ 
 
@@ -74,10 +74,10 @@
 [/us/usc/t42/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209
 [/us/usc/t42/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs207%2Fd
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1948-02-28/ch83/s5/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs5%2Fi
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F41
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/76/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs306
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F585
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
 [/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76

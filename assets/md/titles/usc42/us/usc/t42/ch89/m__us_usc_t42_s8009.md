@@ -37,7 +37,7 @@
 
         The Secretary may issue regulations to carry out the provisions of this chapter.
 
-([Pub. L. 95–557, title IV, § 410][/us/pl/95/557/s410], Oct. 31, 1978, [92 Stat. 2109][/us/stat/92/2109].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 410, Oct. 31, 1978, [92 Stat. 2109][/us/stat/92/2109].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/95/557/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs410
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2109
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

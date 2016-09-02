@@ -51,11 +51,11 @@
 
         All amounts received by the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by the Secretary from operations under this section shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.
 
-([Pub. L. 96–294, title II, § 237][/us/pl/96/294/s237], June 30, 1980, [94 Stat. 703][/us/stat/94/703].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 237, June 30, 1980, [94 Stat. 703][/us/stat/94/703].)
 
  __References in Text__ 
 
-    The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1), is [Pub. L. 93–577][/us/pl/93/577], Dec. 31, 1974, [88 Stat. 1878][/us/stat/88/1878], which is classified generally to chapter 74 (§ 5901 et seq.) of this title. Section 19 of the Act was classified to [section 5919 of this title][/us/usc/t42/s5919] prior to repeal by [Pub. L. 109–58, title X, § 1009(b)(12)][/us/pl/109/58/s1009/b/12], Aug. 8, 2005, [119 Stat. 936][/us/stat/119/936]. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title][/us/usc/t42/s5901] and Tables.
+    The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1), is [Pub. L. 93–577][/us/pl/93/577], Dec. 31, 1974, [88 Stat. 1878][/us/stat/88/1878], which is classified generally to chapter 74 (§ 5901 et seq.) of this title. Section 19 of the Act was classified to [section 5919 of this title][/us/usc/t42/s5919] prior to repeal by [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(12), Aug. 8, 2005, [119 Stat. 936][/us/stat/119/936]. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title][/us/usc/t42/s5901] and Tables.
 
     This chapter, referred to in subsec. (d), was in the original “this title”, meaning title II of [Pub. L. 96–294][/us/pl/96/294], June 30, 1980, [94 Stat. 683][/us/stat/94/683], known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 8801 of this title][/us/usc/t42/s8801] and Tables.
 
@@ -68,12 +68,12 @@
 
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/usc/t42/s8831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8831%2Fa
-[/us/pl/96/294/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs237
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F703
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878
 [/us/usc/t42/s5919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5919
-[/us/pl/109/58/s1009/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F12
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F936
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294

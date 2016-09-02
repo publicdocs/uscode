@@ -47,7 +47,7 @@
 
         An application to be submitted to the Office under subsection (c) of this section shall first be submitted by the general local government or combination of such governments to the Governor for review, comments, and recommendations. The Governor may refer the application to the State office designated under subsection (b)(1) of this section for review. Comments and recommendations (if any) made as a result of the review and a statement by the general local government or combination of such governments that it has considered the comments and recommendations of the Governor shall accompany the application to the Office. The application need not be accompanied by the comments and recommendations of the Governor if the general local government or combination of such governments certifies to the Office that the application has been before the Governor for review and comment for a period of sixty days without comment by the Governor. An explanation in writing shall be sent to the Governor of a State by the Office whenever the Office does not concur with recommendations of the Governor in approving any local government applications.
 
-([Pub. L. 91–648, title III, § 303][/us/pl/91/648/s303], Jan. 5, 1971, [84 Stat. 1917][/us/stat/84/1917]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title III][/us/pl/91/648/tIII], § 303, Jan. 5, 1971, [84 Stat. 1917][/us/stat/84/1917]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 [/us/usc/t42/s4766/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4766%2Fa
 [/us/usc/t42/s4772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4772
 [/us/usc/t42/s4772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4772
-[/us/pl/91/648/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs303
+[/us/pl/91/648/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIII
 [/us/stat/84/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1917
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648

@@ -37,7 +37,7 @@
 
         (3) The term “qualified HUBZone small business concern” has the meaning given that term in [section 632(p) of title 15][/us/usc/t15/s632/p].
 
-([Pub. L. 102–486, title XXX, § 3021][/us/pl/102/486/s3021], Oct. 24, 1992, [106 Stat. 3133][/us/stat/106/3133]; [Pub. L. 105–135, title VI, § 604(g)][/us/pl/105/135/s604/g], Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634].)
+([Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3021, Oct. 24, 1992, [106 Stat. 3133][/us/stat/106/3133]; [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 604(g), Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634].)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 
  __Codification__ 
 
-    In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    1997—Subsec. (a)(4). [Pub. L. 105–135, § 604(g)(1)][/us/pl/105/135/s604/g/1], added par. (4).
+    1997—Subsec. (a)(4). [Pub. L. 105–135][/us/pl/105/135], § 604(g)(1), added par. (4).
 
-    Subsec. (b)(3). [Pub. L. 105–135, § 604(g)(2)][/us/pl/105/135/s604/g/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 105–135][/us/pl/105/135], § 604(g)(2), added par. (3).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -67,18 +67,18 @@
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
-[/us/pl/102/486/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3021
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3133
-[/us/pl/105/135/s604/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fg
+[/us/pl/105/135/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVI
 [/us/stat/111/2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2634
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
 [/us/usc/t42/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13201
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/105/135/s604/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fg%2F1
-[/us/pl/105/135/s604/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fg%2F2
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

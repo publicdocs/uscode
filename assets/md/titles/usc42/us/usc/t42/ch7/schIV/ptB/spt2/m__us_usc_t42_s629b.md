@@ -127,7 +127,7 @@
 
             Not later than September 30 of each year, the Secretary shall publish the compilation on the website of the Department of Health and Human Services in a location easily accessible by the public.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 432, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)][/us/pl/103/66/s13711/a/2], Aug. 10, 1993, [107 Stat. 651][/us/stat/107/651]; amended [Pub. L. 105–89, title III, § 305(b)(1)][/us/pl/105/89/s305/b/1], (c)(1), Nov. 19, 1997, [111 Stat. 2130][/us/stat/111/2130], 2131; [Pub. L. 105–200, title IV, § 410(c)][/us/pl/105/200/s410/c], July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 109–288][/us/pl/109/288], §§ 3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, [120 Stat. 1235][/us/stat/120/1235], 1243, 1244; [Pub. L. 112–34, title I, § 102(b)][/us/pl/112/34/s102/b], (e), (g)(1), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 372.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 432, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(a)(2), Aug. 10, 1993, [107 Stat. 651][/us/stat/107/651]; amended [Pub. L. 105–89, title III][/us/pl/105/89/tIII], § 305(b)(1), (c)(1), Nov. 19, 1997, [111 Stat. 2130][/us/stat/111/2130], 2131; [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 410(c), July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 109–288][/us/pl/109/288], §§ 3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, [120 Stat. 1235][/us/stat/120/1235], 1243, 1244; [Pub. L. 112–34, title I][/us/pl/112/34/tI], § 102(b), (e), (g)(1), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 372.)
 
  __Prior Provisions__ 
 
@@ -135,33 +135,33 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(8)(B)(i), (ii). [Pub. L. 112–34, § 102(g)(1)][/us/pl/112/34/s102/g/1], substituted “form CFS–101 (including all parts and any successor forms)” for “forms CFS 101–Part I and CFS 101–Part II (or any successor forms)”.
+    2011—Subsec. (a)(8)(B)(i), (ii). [Pub. L. 112–34][/us/pl/112/34], § 102(g)(1), substituted “form CFS–101 (including all parts and any successor forms)” for “forms CFS 101–Part I and CFS 101–Part II (or any successor forms)”.
 
-    Subsec. (a)(10). [Pub. L. 112–34, § 102(b)][/us/pl/112/34/s102/b], added par. (10).
+    Subsec. (a)(10). [Pub. L. 112–34][/us/pl/112/34], § 102(b), added par. (10).
 
-    Subsec. (c). [Pub. L. 112–34, § 102(e)][/us/pl/112/34/s102/e], designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+    Subsec. (c). [Pub. L. 112–34][/us/pl/112/34], § 102(e), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
-    2006—Subsec. (a)(8). [Pub. L. 109–288, § 3(e)(1)][/us/pl/109/288/s3/e/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    2006—Subsec. (a)(8). [Pub. L. 109–288][/us/pl/109/288], § 3(e)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (b)(2). [Pub. L. 109–288, § 5(b)(3)(A)(i)][/us/pl/109/288/s5/b/3/A/i], inserted “or tribal consortia” after “tribes” in heading.
+    Subsec. (b)(2). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(3)(A)(i), inserted “or tribal consortia” after “tribes” in heading.
 
-    Subsec. (b)(2)(A). [Pub. L. 109–288, § 5(c)][/us/pl/109/288/s5/c], substituted “the requirements of subsection (a)(4) of this section to the extent that the Secretary determines those requirements” for “any requirement of this section that the Secretary determines”.
+    Subsec. (b)(2)(A). [Pub. L. 109–288][/us/pl/109/288], § 5(c), substituted “the requirements of subsection (a)(4) of this section to the extent that the Secretary determines those requirements” for “any requirement of this section that the Secretary determines”.
 
-    [Pub. L. 109–288, § 5(b)(3)(A)(ii)][/us/pl/109/288/s5/b/3/A/ii], inserted “or tribal consortium” after “Indian tribe” wherever appearing.
+    [Pub. L. 109–288][/us/pl/109/288], § 5(b)(3)(A)(ii), inserted “or tribal consortium” after “Indian tribe” wherever appearing.
 
-    Subsec. (b)(2)(B). [Pub. L. 109–288, § 5(b)(3)(A)(iii)][/us/pl/109/288/s5/b/3/A/iii], inserted “or tribal consortium” after “Indian tribe” and “and tribal consortia” after “Indian tribes”.
+    Subsec. (b)(2)(B). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(3)(A)(iii), inserted “or tribal consortium” after “Indian tribe” and “and tribal consortia” after “Indian tribes”.
 
-    Subsec. (c). [Pub. L. 109–288, § 3(e)(2)][/us/pl/109/288/s3/e/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–288][/us/pl/109/288], § 3(e)(2), added subsec. (c).
 
     1998—Subsec. (a)(8). [Pub. L. 105–200][/us/pl/105/200] inserted “; and” at end.
 
-    1997—Subsec. (a)(4). [Pub. L. 105–89, § 305(b)(1)(A)(i)][/us/pl/105/89/s305/b/1/A/i], substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services,” for “and community-based family support services”.
+    1997—Subsec. (a)(4). [Pub. L. 105–89][/us/pl/105/89], § 305(b)(1)(A)(i), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services,” for “and community-based family support services”.
 
-    Subsec. (a)(5)(A). [Pub. L. 105–89, § 305(b)(1)(A)(ii)][/us/pl/105/89/s305/b/1/A/ii], substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services” for “and community-based family support services”.
+    Subsec. (a)(5)(A). [Pub. L. 105–89][/us/pl/105/89], § 305(b)(1)(A)(ii), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services” for “and community-based family support services”.
 
-    Subsec. (a)(9). [Pub. L. 105–89, § 305(c)(1)][/us/pl/105/89/s305/c/1], added par. (9).
+    Subsec. (a)(9). [Pub. L. 105–89][/us/pl/105/89], § 305(c)(1), added par. (9).
 
-    Subsec. (b)(1). [Pub. L. 105–89, § 305(b)(1)(B)][/us/pl/105/89/s305/b/1/B], substituted “, family support, time-limited family reunification, and adoption promotion and support” for “and family support”.
+    Subsec. (b)(1). [Pub. L. 105–89][/us/pl/105/89], § 305(b)(1)(B), substituted “, family support, time-limited family reunification, and adoption promotion and support” for “and family support”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -169,7 +169,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–288, § 3(e)(3)][/us/pl/109/288/s3/e/3], Sept. 28, 2006, [120 Stat. 1236][/us/stat/120/1236], provided that: 
+[Pub. L. 109–288][/us/pl/109/288], § 3(e)(3), Sept. 28, 2006, [120 Stat. 1236][/us/stat/120/1236], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 629 et seq.\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[[42 U.S.C. 629b(a)(8)(B)][/us/usc/t42/s629b/a/8/B]\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[[42 U.S.C. 629b(c)][/us/usc/t42/s629b/c]\] by September 30, 2007.”
 
@@ -190,36 +190,36 @@
 [/us/usc/t42/s629c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629c%2Fa
 [/us/usc/t42/s629c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629c%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fa%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F651
-[/us/pl/105/89/s305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fb%2F1
+[/us/pl/105/89/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIII
 [/us/stat/111/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2130
-[/us/pl/105/200/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs410%2Fc
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F673
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1235
-[/us/pl/112/34/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fb
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F371
 [/us/usc/t42/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs632
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/112/34/s102/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fg%2F1
-[/us/pl/112/34/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fb
-[/us/pl/112/34/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fe
-[/us/pl/109/288/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Fe%2F1
-[/us/pl/109/288/s5/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F3%2FA%2Fi
-[/us/pl/109/288/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fc
-[/us/pl/109/288/s5/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F3%2FA%2Fii
-[/us/pl/109/288/s5/b/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F3%2FA%2Fiii
-[/us/pl/109/288/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Fe%2F2
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
-[/us/pl/105/89/s305/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fb%2F1%2FA%2Fi
-[/us/pl/105/89/s305/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fb%2F1%2FA%2Fii
-[/us/pl/105/89/s305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fc%2F1
-[/us/pl/105/89/s305/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fb%2F1%2FB
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
-[/us/pl/109/288/s3/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Fe%2F3
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1236
 [/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/usc/t42/s629b/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629b%2Fa%2F8%2FB

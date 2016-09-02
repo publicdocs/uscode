@@ -17,7 +17,7 @@
 
     The amount of such financial assistance shall not exceed that portion of the reasonable cost of the construction project which is attributable to the Indian health needs, as determined by the Surgeon General: Provided, That in determining, for the purposes of this subchapter, the portion of the cost of the construction project attributable to Indian health needs, the Surgeon General shall take into account only those categories of Indians for which hospital and medical care, including outpatient care and field health services, is being provided by or at the expense of the Public Health Service on August 16, 1957.
 
-([Pub. L. 85–151, § 2][/us/pl/85/151/s2], Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
+([Pub. L. 85–151][/us/pl/85/151], § 2, Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/85/151/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151%2Fs2
+[/us/pl/85/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151
 [/us/stat/71/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F371
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

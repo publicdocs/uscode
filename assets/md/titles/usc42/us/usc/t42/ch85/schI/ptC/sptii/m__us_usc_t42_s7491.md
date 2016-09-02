@@ -89,7 +89,7 @@
 
         (7) the term “major stationary source” means the following types of stationary sources with the potential to emit 250 tons or more of any pollutant: fossil-fuel fired steam electric plants of more than 250 million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than 250 tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than 250 million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding 300,000 barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 169A, as added [Pub. L. 95–95, title I, § 128][/us/pl/95/95/s128], Aug. 7, 1977, [91 Stat. 742][/us/stat/91/742].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 169A, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 128, Aug. 7, 1977, [91 Stat. 742][/us/stat/91/742].)
 
  __Effective Date__ 
 
@@ -108,7 +108,7 @@
 [/us/usc/t42/s7604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7604%2Fa%2F2
 [/us/usc/t42/s7410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fc
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs128
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F742
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

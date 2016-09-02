@@ -41,23 +41,23 @@
 
         (4) protect interstate commerce.
 
-([Pub. L. 96–102, title II, § 201][/us/pl/96/102/s201], Nov. 5, 1979, [93 Stat. 757][/us/stat/93/757].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 201, Nov. 5, 1979, [93 Stat. 757][/us/stat/93/757].)
 
  __Effective Date__ 
 
-[Pub. L. 96–102, title III, § 302][/us/pl/96/102/s302], Nov. 5, 1979, [93 Stat. 770][/us/stat/93/770], provided that: 
+[Pub. L. 96–102, title III][/us/pl/96/102/tIII], § 302, Nov. 5, 1979, [93 Stat. 770][/us/stat/93/770], provided that: 
 
 > “The amendments made by this Act \[enacting this chapter, amending sections 6262, 6263, and 6422 of this title, and enacting provisions set out as notes under this section and [section 6261 of this title][/us/usc/t42/s6261]\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1979\].”
 
  __Short Title__ 
 
-[Pub. L. 96–102, § 1(a)][/us/pl/96/102/s1/a], Nov. 5, 1979, [93 Stat. 749][/us/stat/93/749], provided that: 
+[Pub. L. 96–102][/us/pl/96/102], § 1(a), Nov. 5, 1979, [93 Stat. 749][/us/stat/93/749], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 6261, 6262, 6263, and 6422 of this title, and enacting provisions set out as notes under this section and [section 6261 of this title][/us/usc/t42/s6261]\] may be cited as the ‘Emergency Energy Conservation Act of 1979’.”
 
  __Congressional Findings__ 
 
-[Pub. L. 96–102, title I, § 101][/us/pl/96/102/s101], Nov. 5, 1979, [93 Stat. 750][/us/stat/93/750], provided that: 
+[Pub. L. 96–102, title I][/us/pl/96/102/tI], § 101, Nov. 5, 1979, [93 Stat. 750][/us/stat/93/750], provided that: 
 
 > “The Congress finds that—
 
@@ -67,7 +67,7 @@
 
  __Funding for Fiscal Years 1979 and 1980__ 
 
-[Pub. L. 96–102, title III, § 301][/us/pl/96/102/s301], Nov. 5, 1979, [93 Stat. 769][/us/stat/93/769], provided that: 
+[Pub. L. 96–102, title III][/us/pl/96/102/tIII], § 301, Nov. 5, 1979, [93 Stat. 769][/us/stat/93/769], provided that: 
 
 > “For purposes of any law relating to appropriations or authorizations for appropriations as such law relates to the fiscal year ending September 30, 1979, or the fiscal year ending September 30, 1980, the provisions of this Act (including amendments made by this Act) \[see Short Title note above\] shall be treated as if it were a contingency plan under section 202 or 203 of the Energy Policy and Conservation Act \[former sections 6262 and 6263 of this title\] which was approved in accordance with the procedures under that Act \[see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201]\] or as otherwise provided by law, and funds made available pursuant to such appropriations shall be available to carry out the provisions of this Act and the amendments made by this Act.”
 
@@ -78,17 +78,17 @@
 ----------
 ----------
 
-[/us/pl/96/102/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs201
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F757
-[/us/pl/96/102/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs302
+[/us/pl/96/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtIII
 [/us/stat/93/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F770
 [/us/usc/t42/s6261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6261
-[/us/pl/96/102/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs1%2Fa
+[/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
 [/us/stat/93/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F749
 [/us/usc/t42/s6261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6261
-[/us/pl/96/102/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs101
+[/us/pl/96/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtI
 [/us/stat/93/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F750
-[/us/pl/96/102/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs301
+[/us/pl/96/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtIII
 [/us/stat/93/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F769
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 

@@ -67,7 +67,7 @@
 
             The Comptroller General of the United States, the Secretary, or the Inspector General of the Department of Housing and Urban Development may conduct an audit of any activity undertaken under paragraph (1) at any time.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 13, as added [Pub. L. 96–153, title II, § 209][/us/pl/96/153/s209], Dec. 21, 1979, [93 Stat. 1109][/us/stat/93/1109]; amended [Pub. L. 96–399, title II, § 202(b)][/us/pl/96/399/s202/b], Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629]; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 105–276, title V, § 515][/us/pl/105/276/s515], Oct. 21, 1998, [112 Stat. 2549][/us/stat/112/2549].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 13, as added [Pub. L. 96–153, title II][/us/pl/96/153/tII], § 209, Dec. 21, 1979, [93 Stat. 1109][/us/stat/93/1109]; amended [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 202(b), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 515, Oct. 21, 1998, [112 Stat. 2549][/us/stat/112/2549].)
 
  __Prior Provisions__ 
 
@@ -85,7 +85,7 @@
 
  __Energy Efficient Public Housing Demonstration__ 
 
-[Pub. L. 100–242, title I, § 125][/us/pl/100/242/s125], Feb. 5, 1988, [101 Stat. 1847][/us/stat/101/1847], provided that:
+[Pub. L. 100–242, title I][/us/pl/100/242/tI], § 125, Feb. 5, 1988, [101 Stat. 1847][/us/stat/101/1847], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -108,13 +108,13 @@
 
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/96/153/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs209
+[/us/pl/96/153/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtII
 [/us/stat/93/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1109
-[/us/pl/96/399/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs202%2Fb
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1629
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/105/276/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs515
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2549
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/stat/50/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F894
@@ -126,7 +126,7 @@
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/100/242/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs125
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1847
 
 

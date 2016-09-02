@@ -29,7 +29,7 @@
 
     (6) Omitted.
 
-([Pub. L. 93–409, § 3][/us/pl/93/409/s3], Sept. 3, 1974, [88 Stat. 1070][/us/stat/88/1070]; [Pub. L. 93–438, title I, § 104(f)][/us/pl/93/438/s104/f], title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238], 1250; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Pub. L. 93–409][/us/pl/93/409], § 3, Sept. 3, 1974, [88 Stat. 1070][/us/stat/88/1070]; [Pub. L. 93–438, title I][/us/pl/93/438/tI], § 104(f), title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238], 1250; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __Codification__ 
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/usc/t42/s5515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5515
-[/us/pl/93/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs3
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1070
-[/us/pl/93/438/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs104%2Ff
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1238
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438

@@ -45,11 +45,11 @@
 
         (4) establish as a national goal ten thousand megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems by the year 1999.
 
-([Pub. L. 96–310, § 2][/us/pl/96/310/s2], July 17, 1980, [94 Stat. 941][/us/stat/94/941].)
+([Pub. L. 96–310][/us/pl/96/310], § 2, July 17, 1980, [94 Stat. 941][/us/stat/94/941].)
 
  __Short Title__ 
 
-[Pub. L. 96–310, § 1][/us/pl/96/310/s1], July 17, 1980, [94 Stat. 941][/us/stat/94/941], provided: 
+[Pub. L. 96–310][/us/pl/96/310], § 1, July 17, 1980, [94 Stat. 941][/us/stat/94/941], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Ocean Thermal Energy Conversion Research, Development, and Demonstration Act’.”
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/96/310/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs2
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F941
-[/us/pl/96/310/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs1
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F941
 
 

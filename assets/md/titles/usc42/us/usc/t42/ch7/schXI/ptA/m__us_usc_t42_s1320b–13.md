@@ -61,33 +61,33 @@
 
         (2) The written notice provided to an individual pursuant to paragraph (1) shall include a form which, upon completion and signature by the individual, would constitute certification by the individual of receipt of the notice. The agency or instrumentality providing the notice to the individual shall require that the form be completed and signed by the individual and submitted to the agency or instrumentality and to the pension, annuity, retirement, or similar fund or system established by the governmental entity involved responsible for paying the monthly periodic payments or benefits, before commencement of service with the agency or instrumentality.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1143, formerly § 1142, as added [Pub. L. 101–239, title X, § 10308][/us/pl/101/239/s10308], Dec. 19, 1989, [103 Stat. 2485][/us/stat/103/2485]; renumbered § 1143 and amended [Pub. L. 101–508, title V, § 5111(a)][/us/pl/101/508/s5111/a], Nov. 5, 1990, [104 Stat. 1388–272][/us/stat/104/1388-272]; [Pub. L. 105–78, title VI, § 605][/us/pl/105/78/s605], Nov. 13, 1997, [111 Stat. 1521][/us/stat/111/1521]; [Pub. L. 108–203, title IV][/us/pl/108/203], §§ 419(a)–(c), 421, Mar. 2, 2004, [118 Stat. 533–535][/us/stat/118/533-535].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1143, formerly § 1142, as added [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10308, Dec. 19, 1989, [103 Stat. 2485][/us/stat/103/2485]; renumbered § 1143 and amended [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5111(a), Nov. 5, 1990, [104 Stat. 1388–272][/us/stat/104/1388-272]; [Pub. L. 105–78, title VI][/us/pl/105/78/tVI], § 605, Nov. 13, 1997, [111 Stat. 1521][/us/stat/111/1521]; [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], §§ 419(a)–(c), 421, Mar. 2, 2004, [118 Stat. 533–535][/us/stat/118/533-535].)
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–203, § 421(1)][/us/pl/108/203/s421/1], substituted “Commissioner of Social Security” for “Secretary”.
+    2004—Subsec. (a)(1). [Pub. L. 108–203][/us/pl/108/203], § 421(1), substituted “Commissioner of Social Security” for “Secretary”.
 
-    Subsec. (a)(2)(A) to (C). [Pub. L. 108–203, § 421(2)][/us/pl/108/203/s421/2], substituted “Commissioner” for “Secretary”.
+    Subsec. (a)(2)(A) to (C). [Pub. L. 108–203][/us/pl/108/203], § 421(2), substituted “Commissioner” for “Secretary”.
 
-    Subsec. (a)(2)(E). [Pub. L. 108–203, § 419(b)][/us/pl/108/203/s419/b], added subpar. (E).
+    Subsec. (a)(2)(E). [Pub. L. 108–203][/us/pl/108/203], § 419(b), added subpar. (E).
 
-    Subsec. (a)(3). [Pub. L. 108–203, § 419(a)(1)][/us/pl/108/203/s419/a/1], struck out “who” after “an individual” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 108–203][/us/pl/108/203], § 419(a)(1), struck out “who” after “an individual” in introductory provisions.
 
-    Subsec. (a)(3)(A), (B). [Pub. L. 108–203, § 419(a)(1)][/us/pl/108/203/s419/a/1], inserted “who” before “has”.
+    Subsec. (a)(3)(A), (B). [Pub. L. 108–203][/us/pl/108/203], § 419(a)(1), inserted “who” before “has”.
 
-    Subsec. (a)(3)(C). [Pub. L. 108–203, § 419(a)(2)][/us/pl/108/203/s419/a/2], (3), designated existing provisions as cl. (i), inserted “who” before “has wages”, and inserted “, or” and cl. (ii) before period.
+    Subsec. (a)(3)(C). [Pub. L. 108–203][/us/pl/108/203], § 419(a)(2), (3), designated existing provisions as cl. (i), inserted “who” before “has wages”, and inserted “, or” and cl. (ii) before period.
 
-    Subsecs. (b), (c). [Pub. L. 108–203, § 421(2)][/us/pl/108/203/s421/2], substituted “Commissioner” for “Secretary” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 108–203][/us/pl/108/203], § 421(2), substituted “Commissioner” for “Secretary” wherever appearing.
 
-    Subsec. (d). [Pub. L. 108–203, § 419(c)][/us/pl/108/203/s419/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–203][/us/pl/108/203], § 419(c), added subsec. (d).
 
     1997—Subsec. (a)(2)(B), (C). [Pub. L. 105–78][/us/pl/105/78] substituted “employer, employee,” for “employee”.
 
-    1990—Subsec. (c)(2). [Pub. L. 101–508, § 5111(a)(2)][/us/pl/101/508/s5111/a/2], substituted “an annual” for “a biennial”.
+    1990—Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 5111(a)(2), substituted “an annual” for “a biennial”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title IV, § 419(d)][/us/pl/108/203/s419/d], Mar. 2, 2004, [118 Stat. 534][/us/stat/118/534], provided that: 
+[Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 419(d), Mar. 2, 2004, [118 Stat. 534][/us/stat/118/534], provided that: 
 
 > “The amendments made by subsections (a) and (b) of this section \[amending this section\] shall apply with respect to social security account statements issued on or after January 1, 2007.”
 
@@ -103,25 +103,25 @@
 [/us/usc/t42/s415/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F7
 [/us/usc/t42/s402/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fk%2F5
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/239/s10308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10308
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2485
-[/us/pl/101/508/s5111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5111%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-272
-[/us/pl/105/78/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs605
+[/us/pl/105/78/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtVI
 [/us/stat/111/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1521
-[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/533-535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F533-535
-[/us/pl/108/203/s421/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs421%2F1
-[/us/pl/108/203/s421/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs421%2F2
-[/us/pl/108/203/s419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs419%2Fb
-[/us/pl/108/203/s419/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs419%2Fa%2F1
-[/us/pl/108/203/s419/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs419%2Fa%2F1
-[/us/pl/108/203/s419/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs419%2Fa%2F2
-[/us/pl/108/203/s421/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs421%2F2
-[/us/pl/108/203/s419/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs419%2Fc
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
-[/us/pl/101/508/s5111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5111%2Fa%2F2
-[/us/pl/108/203/s419/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs419%2Fd
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F534
 
 

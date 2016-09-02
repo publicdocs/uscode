@@ -15,7 +15,7 @@
 
 ## § 1395b–5. Beneficiary incentive programs
 
-    (a) __Repealed.__  __[__  __Pub. L. 105–33, title IV, § 4311(b)(2)__  __][/us/pl/105/33/s4311/b/2]__  __,__  __Aug. 5, 1997__  __,__  __[__  __111 Stat. 386__  __][/us/stat/111/386]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 105–33, title IV__  __][/us/pl/105/33/tIV]__  __, § 4311(b)(2),__  __Aug. 5, 1997__  __,__  __[__  __111 Stat. 386__  __][/us/stat/111/386]__ 
 
     (b) __Program to collect information on fraud and abuse__ 
 
@@ -37,7 +37,7 @@
 
             If an individual submits a suggestion to the Secretary under the program established under paragraph (1) which is adopted by the Secretary and which results in savings to the program, the Secretary may make a payment to the individual of such amount as the Secretary considers appropriate.
 
-([Pub. L. 104–191, title II, § 203][/us/pl/104/191/s203], Aug. 21, 1996, [110 Stat. 1998][/us/stat/110/1998]; [Pub. L. 105–33, title IV, § 4311(b)(2)][/us/pl/105/33/s4311/b/2], Aug. 5, 1997, [111 Stat. 386][/us/stat/111/386].)
+([Pub. L. 104–191, title II][/us/pl/104/191/tII], § 203, Aug. 21, 1996, [110 Stat. 1998][/us/stat/110/1998]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4311(b)(2), Aug. 5, 1997, [111 Stat. 386][/us/stat/111/386].)
 
  __References in Text__ 
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/105/33/s4311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fb%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F386
 [/us/usc/t42/s1320a–7b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937b
-[/us/pl/104/191/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs203
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1998
-[/us/pl/105/33/s4311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fb%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F386
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 

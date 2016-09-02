@@ -37,7 +37,7 @@
 
         (2) The National Board may not carry out programs directly.
 
-([Pub. L. 100–77, title III, § 313][/us/pl/100/77/s313], July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 313, July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs313
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F492
 
 

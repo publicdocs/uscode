@@ -163,15 +163,15 @@
 
         It is the sense of the Congress that every State have an area health education center program in effect under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 751, as added [Pub. L. 105–392, title I, § 103][/us/pl/105/392/s103], Nov. 13, 1998, [112 Stat. 3541][/us/stat/112/3541]; amended [Pub. L. 111–148, title V, § 5403(a)][/us/pl/111/148/s5403/a], Mar. 23, 2010, [124 Stat. 644][/us/stat/124/644]; [Pub. L. 113–128, title V, § 512(z)(2)][/us/pl/113/128/s512/z/2], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 751, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 103, Nov. 13, 1998, [112 Stat. 3541][/us/stat/112/3541]; amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5403(a), Mar. 23, 2010, [124 Stat. 644][/us/stat/124/644]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(z)(2), July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
 
  __Prior Provisions__ 
 
-    A prior section 294a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 762, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2046][/us/stat/106/2046], authorized grants and contracts for public health special projects, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
+    A prior section 294a, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 762, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2046][/us/stat/106/2046], authorized grants and contracts for public health special projects, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
 
-    Another prior section 294a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 728, as added Oct. 12, 1976, [Pub. L. 94–484, title IV, § 401(b)(3)][/us/pl/94/484/s401/b/3], [90 Stat. 2257][/us/stat/90/2257]; amended Dec. 19, 1977, [Pub. L. 95–215, § 4(e)(2)][/us/pl/95/215/s4/e/2]–(4), [91 Stat. 1506][/us/stat/91/1506]; Dec. 17, 1980, [Pub. L. 96–538, title IV, § 401][/us/pl/96/538/s401], [94 Stat. 3192][/us/stat/94/3192]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2726][/us/pl/97/35/s2726], [95 Stat. 916][/us/stat/95/916]; Oct. 22, 1985, [Pub. L. 99–129, title I, § 101][/us/pl/99/129/s101], title II, § 208(h), [99 Stat. 523][/us/stat/99/523], 532; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607], §§ 602(a)–(d), 636, title VII, § 707, [102 Stat. 3122][/us/stat/102/3122], 3149, 3159; Nov. 18, 1988, [Pub. L. 100–690, title II, § 2615(b)][/us/pl/100/690/s2615/b], [102 Stat. 4239][/us/stat/102/4239]; Aug. 16, 1989, [Pub. L. 101–93, § 5(g)(1)][/us/pl/101/93/s5/g/1], [103 Stat. 612][/us/stat/103/612], related to Federal student loan insurance program, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292a of this title][/us/usc/t42/s292a].
+    Another prior section 294a, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 728, as added Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 401(b)(3), [90 Stat. 2257][/us/stat/90/2257]; amended Dec. 19, 1977, [Pub. L. 95–215][/us/pl/95/215], § 4(e)(2)–(4), [91 Stat. 1506][/us/stat/91/1506]; Dec. 17, 1980, [Pub. L. 96–538, title IV][/us/pl/96/538/tIV], § 401, [94 Stat. 3192][/us/stat/94/3192]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2726, [95 Stat. 916][/us/stat/95/916]; Oct. 22, 1985, [Pub. L. 99–129, title I][/us/pl/99/129/tI], § 101, title II, § 208(h), [99 Stat. 523][/us/stat/99/523], 532; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], §§ 602(a)–(d), 636, title VII, § 707, [102 Stat. 3122][/us/stat/102/3122], 3149, 3159; Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2615(b), [102 Stat. 4239][/us/stat/102/4239]; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 5(g)(1), [103 Stat. 612][/us/stat/103/612], related to Federal student loan insurance program, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292a of this title][/us/usc/t42/s292a].
 
-    Another prior section 294a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 741, as added Sept. 24, 1963, [Pub. L. 88–129, § 2(b)][/us/pl/88/129/s2/b], [77 Stat. 171][/us/stat/77/171]; amended Oct. 13, 1964, [Pub. L. 88–654, § 1(c)][/us/pl/88/654/s1/c], (d), [78 Stat. 1086][/us/stat/78/1086]; Oct. 22, 1965, [Pub. L. 89–290, § 4(b)][/us/pl/89/290/s4/b], (f)(3), (4), (g)(1), [79 Stat. 1057][/us/stat/79/1057], 1058; Nov. 2, 1966, [Pub. L. 89–709, § 3(c)][/us/pl/89/709/s3/c], (d), [80 Stat. 1103][/us/stat/80/1103]; Nov. 3, 1966, [Pub. L. 89–751, § 4][/us/pl/89/751/s4], [80 Stat. 1230][/us/stat/80/1230]; Aug. 16, 1968, [Pub. L. 90–490, title I, § 121(a)(3)][/us/pl/90/490/s121/a/3], (4), (5)(A), [82 Stat. 777][/us/stat/82/777]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 105(b)][/us/pl/92/157/s105/b]–(d), (e)(4), (f)(2), [85 Stat. 449–451][/us/stat/85/449-451]; Oct. 27, 1972, [Pub. L. 92–585, § 4][/us/pl/92/585/s4], [86 Stat. 1293][/us/stat/86/1293]; Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484], §§ 403(a), (b), (d), 407(d)(1), [90 Stat. 2266][/us/stat/90/2266], 2279, which related to loan provisions, was transferred to [section 294n of this title][/us/usc/t42/s294n].
+    Another prior section 294a, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 741, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(b), [77 Stat. 171][/us/stat/77/171]; amended Oct. 13, 1964, [Pub. L. 88–654][/us/pl/88/654], § 1(c), (d), [78 Stat. 1086][/us/stat/78/1086]; Oct. 22, 1965, [Pub. L. 89–290][/us/pl/89/290], § 4(b), (f)(3), (4), (g)(1), [79 Stat. 1057][/us/stat/79/1057], 1058; Nov. 2, 1966, [Pub. L. 89–709][/us/pl/89/709], § 3(c), (d), [80 Stat. 1103][/us/stat/80/1103]; Nov. 3, 1966, [Pub. L. 89–751][/us/pl/89/751], § 4, [80 Stat. 1230][/us/stat/80/1230]; Aug. 16, 1968, [Pub. L. 90–490, title I][/us/pl/90/490/tI], § 121(a)(3), (4), (5)(A), [82 Stat. 777][/us/stat/82/777]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 105(b)–(d), (e)(4), (f)(2), [85 Stat. 449–451][/us/stat/85/449-451]; Oct. 27, 1972, [Pub. L. 92–585][/us/pl/92/585], § 4, [86 Stat. 1293][/us/stat/86/1293]; Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], §§ 403(a), (b), (d), 407(d)(1), [90 Stat. 2266][/us/stat/90/2266], 2279, which related to loan provisions, was transferred to [section 294n of this title][/us/usc/t42/s294n].
 
     A prior section 751 of act July 1, 1944, was classified to section 293o of this title prior to repeal by [Pub. L. 105–392][/us/pl/105/392].
 
@@ -191,15 +191,15 @@
 
  __Waiver of Requirements__ 
 
-[Pub. L. 114–113, div. H, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2600][/us/stat/129/2600], provided in part: 
+[Pub. L. 114–113, div. H, title II][/us/pl/114/113/dH/tII], Dec. 18, 2015, [129 Stat. 2600][/us/stat/129/2600], provided in part: 
 
 > “That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[[42 U.S.C. 294a][/us/usc/t42/s294a]\] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the ‘Secretary’) may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. G, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2467][/us/stat/128/2467].
+    [Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], Dec. 16, 2014, [128 Stat. 2467][/us/stat/128/2467].
 
-    [Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 363][/us/stat/128/363].
+    [Pub. L. 113–76, div. H, title II][/us/pl/113/76/dH/tII], Jan. 17, 2014, [128 Stat. 363][/us/stat/128/363].
 
 ----------
 
@@ -211,53 +211,53 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s295j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295j%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs103
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3541
-[/us/pl/111/148/s5403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5403%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F644
-[/us/pl/113/128/s512/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F2
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2046
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs401%2Fb%2F3
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2257
-[/us/pl/95/215/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215%2Fs4%2Fe%2F2
+[/us/pl/95/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215
 [/us/stat/91/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1506
-[/us/pl/96/538/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F538%2Fs401
+[/us/pl/96/538/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F538%2FtIV
 [/us/stat/94/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3192
-[/us/pl/97/35/s2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2726
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F916
-[/us/pl/99/129/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs101
+[/us/pl/99/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtI
 [/us/stat/99/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F523
-[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3122
-[/us/pl/100/690/s2615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2615%2Fb
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4239
-[/us/pl/101/93/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fg%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s292a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292a
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F171
-[/us/pl/88/654/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F654%2Fs1%2Fc
+[/us/pl/88/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F654
 [/us/stat/78/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1086
-[/us/pl/89/290/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290%2Fs4%2Fb
+[/us/pl/89/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290
 [/us/stat/79/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1057
-[/us/pl/89/709/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F709%2Fs3%2Fc
+[/us/pl/89/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F709
 [/us/stat/80/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1103
-[/us/pl/89/751/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F751%2Fs4
+[/us/pl/89/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F751
 [/us/stat/80/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1230
-[/us/pl/90/490/s121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs121%2Fa%2F3
+[/us/pl/90/490/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtI
 [/us/stat/82/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F777
-[/us/pl/92/157/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs105%2Fb
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/449-451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F449-451
-[/us/pl/92/585/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F585%2Fs4
+[/us/pl/92/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F585
 [/us/stat/86/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1293
-[/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2266
 [/us/usc/t42/s294n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
@@ -272,12 +272,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtII
 [/us/stat/129/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2600
 [/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2467
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtII
 [/us/stat/128/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F363
 
 

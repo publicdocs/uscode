@@ -41,7 +41,7 @@
 
         (2) The Secretary, within 60 days after the filing of a certification under paragraph (1), may require the owner or operator of such powerplant to provide such supporting documents as may be necessary to verify the certification.
 
-([Pub. L. 95–620, title II, § 201][/us/pl/95/620/s201], Nov. 9, 1978, [92 Stat. 3298][/us/stat/92/3298]; [Pub. L. 100–42, § 1(c)(4)(A)][/us/pl/100/42/s1/c/4/A], May 21, 1987, [101 Stat. 311][/us/stat/101/311].)
+([Pub. L. 95–620, title II][/us/pl/95/620/tII], § 201, Nov. 9, 1978, [92 Stat. 3298][/us/stat/92/3298]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(4)(A), May 21, 1987, [101 Stat. 311][/us/stat/101/311].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/95/620/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs201
+[/us/pl/95/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtII
 [/us/stat/92/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3298
-[/us/pl/100/42/s1/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F4%2FA
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F311
 [/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 

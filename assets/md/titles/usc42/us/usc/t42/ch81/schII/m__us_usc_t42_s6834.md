@@ -191,7 +191,7 @@
 
         Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992, shall remain in effect until the standards established under subsection (a) of this section become effective.
 
-([Pub. L. 94–385, title III, § 305][/us/pl/94/385/s305], as added [Pub. L. 102–486, title I, § 101(a)(2)][/us/pl/102/486/s101/a/2], Oct. 24, 1992, [106 Stat. 2784][/us/stat/106/2784]; amended [Pub. L. 109–58, title I, § 109][/us/pl/109/58/s109], Aug. 8, 2005, [119 Stat. 614][/us/stat/119/614]; [Pub. L. 110–140, title IV, § 433(a)][/us/pl/110/140/s433/a], title V, § 523, Dec. 19, 2007, [121 Stat. 1612][/us/stat/121/1612], 1662.)
+([Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 305, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 101(a)(2), Oct. 24, 1992, [106 Stat. 2784][/us/stat/106/2784]; amended [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 109, Aug. 8, 2005, [119 Stat. 614][/us/stat/119/614]; [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 433(a), title V, § 523, Dec. 19, 2007, [121 Stat. 1612][/us/stat/121/1612], 1662.)
 
  __Codification__ 
 
@@ -199,17 +199,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 6834, [Pub. L. 94–385, title III, § 305][/us/pl/94/385/s305], Aug. 14, 1976, [90 Stat. 1147][/us/stat/90/1147], related to availability or approval of Federal financial assistance for new construction, prior to repeal by [Pub. L. 97–35, title X, § 1041(b)][/us/pl/97/35/s1041/b], Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621].
+    A prior section 6834, [Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 305, Aug. 14, 1976, [90 Stat. 1147][/us/stat/90/1147], related to availability or approval of Federal financial assistance for new construction, prior to repeal by [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1041(b), Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621].
 
  __Amendments__ 
 
-    2007—Subsec. (a)(3)(A)(iii). [Pub. L. 110–140, § 523][/us/pl/110/140/s523], added cl. (iii).
+    2007—Subsec. (a)(3)(A)(iii). [Pub. L. 110–140][/us/pl/110/140], § 523, added cl. (iii).
 
-    Subsec. (a)(3)(D). [Pub. L. 110–140, § 433(a)][/us/pl/110/140/s433/a], added subpar. (D).
+    Subsec. (a)(3)(D). [Pub. L. 110–140][/us/pl/110/140], § 433(a), added subpar. (D).
 
-    2005—Subsec. (a)(2)(A). [Pub. L. 109–58, § 109(1)][/us/pl/109/58/s109/1], substituted “the 2004 International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1–2004” for “CABO Model Energy Code, 1992 (in the case of residential buildings) or ASHRAE Standard 90.1–1989”.
+    2005—Subsec. (a)(2)(A). [Pub. L. 109–58][/us/pl/109/58], § 109(1), substituted “the 2004 International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1–2004” for “CABO Model Energy Code, 1992 (in the case of residential buildings) or ASHRAE Standard 90.1–1989”.
 
-    Subsec. (a)(3). [Pub. L. 109–58, § 109(2)][/us/pl/109/58/s109/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 109–58][/us/pl/109/58], § 109(2), added par. (3).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -217,7 +217,7 @@
 
  __Revision of Federal Acquisition Regulation; Issuance of Guidance__ 
 
-[Pub. L. 110–140, title IV, § 433(c)][/us/pl/110/140/s433/c], (d), Dec. 19, 2007, [121 Stat. 1614][/us/stat/121/1614], provided that:
+[Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 433(c), (d), Dec. 19, 2007, [121 Stat. 1614][/us/stat/121/1614], provided that:
 
 >     “(c)  __Revision of Federal Acquisition Regulation__  __.—__ 
 
@@ -242,27 +242,27 @@
 [/us/usc/t42/s17092/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092%2Fh
 [/us/usc/t42/s17092/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092%2Fh
 [/us/usc/t42/s17092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092
-[/us/pl/94/385/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs305
-[/us/pl/102/486/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs101%2Fa%2F2
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2784
-[/us/pl/109/58/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs109
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F614
-[/us/pl/110/140/s433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs433%2Fa
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1612
 [/us/usc/t42/s6837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6837
 [/us/usc/t42/s6837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6837
-[/us/pl/94/385/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs305
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
 [/us/stat/90/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1147
-[/us/pl/97/35/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1041%2Fb
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F621
-[/us/pl/110/140/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs523
-[/us/pl/110/140/s433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs433%2Fa
-[/us/pl/109/58/s109/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs109%2F1
-[/us/pl/109/58/s109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs109%2F2
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s433/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs433%2Fc
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1614
 [/us/usc/t42/s6832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6832
 [/us/usc/t41/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421

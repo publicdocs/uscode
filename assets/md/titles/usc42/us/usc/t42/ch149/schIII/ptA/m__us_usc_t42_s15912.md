@@ -33,7 +33,7 @@
 
         The Secretary shall submit a report to Congress on the inventory of estimates and the analysis of restrictions or impediments, together with any recommendations, within 6 months of August 8, 2005. The report shall be publicly available and updated at least every 5 years.
 
-([Pub. L. 109–58, title III, § 357][/us/pl/109/58/s357], Aug. 8, 2005, [119 Stat. 720][/us/stat/119/720].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 357, Aug. 8, 2005, [119 Stat. 720][/us/stat/119/720].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs357
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F720
 
 

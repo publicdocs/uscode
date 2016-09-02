@@ -31,7 +31,7 @@
 
         The term “Task Force” means the Task Force on Aging Research established under [section 242q(a) of this title][/us/usc/t42/s242q/a].
 
-([Pub. L. 101–557, title III, § 304][/us/pl/101/557/s304], formerly § 305, Nov. 15, 1990, [104 Stat. 2770][/us/stat/104/2770]; renumbered § 304, [Pub. L. 109–482, title I, § 104(b)(3)(B)][/us/pl/109/482/s104/b/3/B], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].)
+([Pub. L. 101–557, title III][/us/pl/101/557/tIII], § 304, formerly § 305, Nov. 15, 1990, [104 Stat. 2770][/us/stat/104/2770]; renumbered § 304, [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(3)(B), Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].)
 
  __Codification__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t42/s242q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242q%2Fa
-[/us/pl/101/557/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs304
+[/us/pl/101/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2FtIII
 [/us/stat/104/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2770
-[/us/pl/109/482/s104/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F3%2FB
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3694
 [/us/pl/101/557/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs304
 [/us/usc/t42/s242q–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242q%E2%80%933

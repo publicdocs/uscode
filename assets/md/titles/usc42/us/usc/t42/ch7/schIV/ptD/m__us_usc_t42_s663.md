@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s660.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s664.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663)
+[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s661 _us_usc_t42_s662.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s664.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663)
 
 ## § 663. Use of Federal Parent Locator Service in connection with enforcement or determination of child custody in cases of parental kidnaping of child
 
@@ -65,41 +65,41 @@
 
         The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 463, as added [Pub. L. 96–611, § 9(b)][/us/pl/96/611/s9/b], Dec. 28, 1980, [94 Stat. 3572][/us/stat/94/3572]; amended [Pub. L. 100–300, § 11][/us/pl/100/300/s11], Apr. 29, 1988, [102 Stat. 441][/us/stat/102/441]; [Pub. L. 103–432, title II, § 214(a)][/us/pl/103/432/s214/a], (b), Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461]; [Pub. L. 104–193, title III][/us/pl/104/193], §§ 316(e)(1), 395(d)(1)(G), Aug. 22, 1996, [110 Stat. 2215][/us/stat/110/2215], 2259; [Pub. L. 105–33, title V, § 5534(b)][/us/pl/105/33/s5534/b], Aug. 5, 1997, [111 Stat. 629][/us/stat/111/629].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 463, as added [Pub. L. 96–611][/us/pl/96/611], § 9(b), Dec. 28, 1980, [94 Stat. 3572][/us/stat/94/3572]; amended [Pub. L. 100–300][/us/pl/100/300], § 11, Apr. 29, 1988, [102 Stat. 441][/us/stat/102/441]; [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 214(a), (b), Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], §§ 316(e)(1), 395(d)(1)(G), Aug. 22, 1996, [110 Stat. 2215][/us/stat/110/2215], 2259; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5534(b), Aug. 5, 1997, [111 Stat. 629][/us/stat/111/629].)
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 5534(b)(1)(A)][/us/pl/105/33/s5534/b/1/A], (5), in introductory provisions, substituted “every State” for “any State which is able and willing to do so,” and “each State” for “such State” and struck out “noncustodial” before “parent”.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(1)(A), (5), in introductory provisions, substituted “every State” for “any State which is able and willing to do so,” and “each State” for “such State” and struck out “noncustodial” before “parent”.
 
-    Subsec. (a)(2). [Pub. L. 105–33, § 5534(b)(1)(B)][/us/pl/105/33/s5534/b/1/B], inserted “or visitation” after “custody”.
+    Subsec. (a)(2). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(1)(B), inserted “or visitation” after “custody”.
 
-    Subsec. (b). [Pub. L. 105–33, § 5534(b)(5)][/us/pl/105/33/s5534/b/5], struck out “noncustodial” before “parent or child when” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(5), struck out “noncustodial” before “parent or child when” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 105–33, § 5534(b)(2)][/us/pl/105/33/s5534/b/2], inserted “or visitation” after “custody”.
+    Subsec. (b)(2). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(2), inserted “or visitation” after “custody”.
 
-    Subsec. (c). [Pub. L. 105–33, § 5534(b)(5)][/us/pl/105/33/s5534/b/5], struck out “noncustodial” before “parent”.
+    Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(5), struck out “noncustodial” before “parent”.
 
-    Subsec. (d)(1). [Pub. L. 105–33, § 5534(b)(3)(A)][/us/pl/105/33/s5534/b/3/A], inserted “or visitation” before “determination”.
+    Subsec. (d)(1). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(3)(A), inserted “or visitation” before “determination”.
 
-    Subsec. (d)(2)(A), (B). [Pub. L. 105–33, § 5534(b)(3)(B)][/us/pl/105/33/s5534/b/3/B], inserted “or visitation” after “custody”.
+    Subsec. (d)(2)(A), (B). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(3)(B), inserted “or visitation” after “custody”.
 
-    Subsec. (f)(2). [Pub. L. 105–33, § 5534(b)(4)][/us/pl/105/33/s5534/b/4], inserted “or visitation” after “custody”.
+    Subsec. (f)(2). [Pub. L. 105–33][/us/pl/105/33], § 5534(b)(4), inserted “or visitation” after “custody”.
 
     1996—Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], §§ 316(e)(1), 395(d)(1)(G), inserted “Federal” before “Parent Locator Service” and substituted “noncustodial parent” for “absent parent”.
 
-    Subsecs. (b), (c). [Pub. L. 104–193, § 395(d)(1)(G)][/us/pl/104/193/s395/d/1/G], substituted “noncustodial parent” for “absent parent”.
+    Subsecs. (b), (c). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(1)(G), substituted “noncustodial parent” for “absent parent”.
 
-    Subsecs. (e), (f). [Pub. L. 104–193, § 316(e)(1)][/us/pl/104/193/s316/e/1], inserted “Federal” before “Parent Locator Service” wherever appearing.
+    Subsecs. (e), (f). [Pub. L. 104–193][/us/pl/104/193], § 316(e)(1), inserted “Federal” before “Parent Locator Service” wherever appearing.
 
-    1994—Subsec. (c). [Pub. L. 103–432, § 214(b)][/us/pl/103/432/s214/b], substituted “subsection (a), (b), (e), or (f) of this section” for “subsection (a), (b), or (e) of this section”.
+    1994—Subsec. (c). [Pub. L. 103–432][/us/pl/103/432], § 214(b), substituted “subsection (a), (b), (e), or (f) of this section” for “subsection (a), (b), or (e) of this section”.
 
-    Subsec. (f). [Pub. L. 103–432, § 214(a)][/us/pl/103/432/s214/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–432][/us/pl/103/432], § 214(a), added subsec. (f).
 
-    1988—Subsec. (b). [Pub. L. 100–300, § 11(1)][/us/pl/100/300/s11/1], substituted “under subsection (a) of this section” for “under this section”.
+    1988—Subsec. (b). [Pub. L. 100–300][/us/pl/100/300], § 11(1), substituted “under subsection (a) of this section” for “under this section”.
 
-    Subsec. (c). [Pub. L. 100–300, § 11(2)][/us/pl/100/300/s11/2], substituted “under subsection (a), (b), or (e) of this section” for “under this section”.
+    Subsec. (c). [Pub. L. 100–300][/us/pl/100/300], § 11(2), substituted “under subsection (a), (b), or (e) of this section” for “under this section”.
 
-    Subsec. (e). [Pub. L. 100–300, § 11(3)][/us/pl/100/300/s11/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–300][/us/pl/100/300], § 11(3), added subsec. (e).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -111,19 +111,19 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–432, title II, § 214(c)][/us/pl/103/432/s214/c], Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461], provided that: 
+[Pub. L. 103–432, title II][/us/pl/103/432/tII], § 214(c), Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1995.”
 
  __Effective Date__ 
 
-[Pub. L. 96–611, § 9(d)][/us/pl/96/611/s9/d], Dec. 28, 1980, [94 Stat. 3573][/us/stat/94/3573], provided that: 
+[Pub. L. 96–611][/us/pl/96/611], § 9(d), Dec. 28, 1980, [94 Stat. 3573][/us/stat/94/3573], provided that: 
 
 > “No agreement entered into under section 463 of the Social Security Act \[[42 U.S.C. 663][/us/usc/t42/s663]\] shall become effective before the date on which [section 1738A of title 28][/us/usc/t28/s1738A], United States Code (as added by this title \[probably should be “as added by section 8(a) of this Act”\]) becomes effective.”
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s660.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s664.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663)
+[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s661 _us_usc_t42_s662.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptD/m__us_usc_t42_s664.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663)
 
 ----------
 ----------
@@ -137,32 +137,32 @@
 [/us/usc/t22/s9002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9002%2F1
 [/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/611/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs9%2Fb
+[/us/pl/96/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611
 [/us/stat/94/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3572
-[/us/pl/100/300/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs11
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F441
-[/us/pl/103/432/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs214%2Fa
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4461
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2215
-[/us/pl/105/33/s5534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F629
-[/us/pl/105/33/s5534/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F1%2FA
-[/us/pl/105/33/s5534/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F1%2FB
-[/us/pl/105/33/s5534/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F5
-[/us/pl/105/33/s5534/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F2
-[/us/pl/105/33/s5534/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F5
-[/us/pl/105/33/s5534/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F3%2FA
-[/us/pl/105/33/s5534/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F3%2FB
-[/us/pl/105/33/s5534/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5534%2Fb%2F4
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/104/193/s395/d/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F1%2FG
-[/us/pl/104/193/s316/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fe%2F1
-[/us/pl/103/432/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs214%2Fb
-[/us/pl/103/432/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs214%2Fa
-[/us/pl/100/300/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs11%2F1
-[/us/pl/100/300/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs11%2F2
-[/us/pl/100/300/s11/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs11%2F3
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5557
@@ -170,9 +170,9 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/103/432/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs214%2Fc
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4461
-[/us/pl/96/611/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs9%2Fd
+[/us/pl/96/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611
 [/us/stat/94/3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3573
 [/us/usc/t42/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663
 [/us/usc/t28/s1738A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1738A

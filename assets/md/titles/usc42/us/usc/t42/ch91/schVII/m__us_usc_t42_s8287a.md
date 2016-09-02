@@ -17,7 +17,7 @@
 
     Any amount paid by a Federal agency pursuant to any contract entered into under this subchapter may be paid only from funds appropriated or otherwise made available to the agency for fiscal year 1986 or any fiscal year thereafter for the payment of energy, water, or wastewater treatment expenses (and related operation and maintenance expenses).
 
-([Pub. L. 95–619, title VIII, § 802][/us/pl/95/619/s802], as added [Pub. L. 99–272, title VII, § 7201(a)][/us/pl/99/272/s7201/a], Apr. 7, 1986, [100 Stat. 142][/us/stat/100/142]; amended [Pub. L. 108–375, div. A, title X, § 1090(b)][/us/pl/108/375/s1090/b], Oct. 28, 2004, [118 Stat. 2067][/us/stat/118/2067].)
+([Pub. L. 95–619, title VIII][/us/pl/95/619/tVIII], § 802, as added [Pub. L. 99–272, title VII][/us/pl/99/272/tVII], § 7201(a), Apr. 7, 1986, [100 Stat. 142][/us/stat/100/142]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1090(b), Oct. 28, 2004, [118 Stat. 2067][/us/stat/118/2067].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/95/619/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs802
-[/us/pl/99/272/s7201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs7201%2Fa
+[/us/pl/95/619/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVIII
+[/us/pl/99/272/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVII
 [/us/stat/100/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F142
-[/us/pl/108/375/s1090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1090%2Fb
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2067
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

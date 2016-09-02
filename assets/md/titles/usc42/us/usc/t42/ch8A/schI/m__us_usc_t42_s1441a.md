@@ -27,7 +27,7 @@
 
         The Congress declares that if the national housing goal is to be achieved, a greater effort must be made to encourage the preservation of existing housing and neighborhoods through such measures as housing preservation, moderate rehabilitation, and improvements in housing management and maintenance, in conjunction with the provision of adequate municipal services. Such an effort should concentrate, to a greater extent than it has in the past, on housing and neighborhoods where deterioration is evident but has not yet become acute.
 
-([Pub. L. 90–448, title XVI, § 1601][/us/pl/90/448/s1601], Aug. 1, 1968, [82 Stat. 601][/us/stat/82/601]; [Pub. L. 93–383, title VIII, § 801(1)][/us/pl/93/383/s801/1], (2), Aug. 22, 1974, [88 Stat. 721][/us/stat/88/721].)
+([Pub. L. 90–448, title XVI][/us/pl/90/448/tXVI], § 1601, Aug. 1, 1968, [82 Stat. 601][/us/stat/82/601]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 801(1), (2), Aug. 22, 1974, [88 Stat. 721][/us/stat/88/721].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
-[/us/pl/90/448/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1601
+[/us/pl/90/448/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXVI
 [/us/stat/82/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F601
-[/us/pl/93/383/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs801%2F1
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F721
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

@@ -29,7 +29,7 @@
 
         Not later than 2 years after December 18, 2012, and biennially thereafter, the Secretary shall submit to Congress a report that describes actions taken to carry out subsection (a) and the results of those actions.
 
-([Pub. L. 112–210, § 6][/us/pl/112/210/s6], Dec. 18, 2012, [126 Stat. 1519][/us/stat/126/1519].)
+([Pub. L. 112–210][/us/pl/112/210], § 6, Dec. 18, 2012, [126 Stat. 1519][/us/stat/126/1519].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/112/210/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs6
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1519
 
 

@@ -31,7 +31,7 @@
 
         The Administrator may bring a civil action in the appropriate United States District Court (as determined under the provisions of title 28) to impose a civil penalty on any person who violates subsection (b) of this section. In any such action the court may impose on such person a civil penalty of not more than $5,000 ($50,000 in the case of a second or subsequent violation).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1463, as added [Pub. L. 100–572, § 2(a)][/us/pl/100/572/s2/a], Oct. 31, 1988, [102 Stat. 2885][/us/stat/102/2885]; amended [Pub. L. 104–182, title V, § 501(f)(9)][/us/pl/104/182/s501/f/9], Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1463, as added [Pub. L. 100–572][/us/pl/100/572], § 2(a), Oct. 31, 1988, [102 Stat. 2885][/us/stat/102/2885]; amended [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(f)(9), Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/572/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs2%2Fa
+[/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
 [/us/stat/102/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2885
-[/us/pl/104/182/s501/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F9
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1692
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 

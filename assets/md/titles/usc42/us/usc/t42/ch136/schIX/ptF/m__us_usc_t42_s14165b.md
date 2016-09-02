@@ -187,7 +187,7 @@
 
         Not later than 1 year after May 19, 2015, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
 
-([Pub. L. 114–12, § 4][/us/pl/114/12/s4], May 19, 2015, [129 Stat. 193][/us/stat/129/193].)
+([Pub. L. 114–12][/us/pl/114/12], § 4, May 19, 2015, [129 Stat. 193][/us/stat/129/193].)
 
  __Codification__ 
 
@@ -201,7 +201,7 @@
 ----------
 
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/114/12/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12%2Fs4
+[/us/pl/114/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12
 [/us/stat/129/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F193
 
 

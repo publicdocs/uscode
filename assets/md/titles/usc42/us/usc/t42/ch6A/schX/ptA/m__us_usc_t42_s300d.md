@@ -35,13 +35,13 @@
 
         The Secretary may make grants, and enter into cooperative agreements and contracts, for the purpose of carrying out subsection (a).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1201, as added [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2916][/us/stat/104/2916]; amended [Pub. L. 103–183, title VI, § 601(a)][/us/pl/103/183/s601/a], Dec. 14, 1993, [107 Stat. 2238][/us/stat/107/2238]; [Pub. L. 104–146, § 12(b)][/us/pl/104/146/s12/b], May 20, 1996, [110 Stat. 1373][/us/stat/110/1373]; [Pub. L. 110–23, § 2][/us/pl/110/23/s2], May 3, 2007, [121 Stat. 90][/us/stat/121/90].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1201, as added [Pub. L. 101–590][/us/pl/101/590], § 3, Nov. 16, 1990, [104 Stat. 2916][/us/stat/104/2916]; amended [Pub. L. 103–183, title VI][/us/pl/103/183/tVI], § 601(a), Dec. 14, 1993, [107 Stat. 2238][/us/stat/107/2238]; [Pub. L. 104–146][/us/pl/104/146], § 12(b), May 20, 1996, [110 Stat. 1373][/us/stat/110/1373]; [Pub. L. 110–23][/us/pl/110/23], § 2, May 3, 2007, [121 Stat. 90][/us/stat/121/90].)
 
  __Prior Provisions__ 
 
-    A prior section 300d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1201, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 594][/us/stat/87/594]; amended Oct. 12, 1976, [Pub. L. 94–484, title IX, § 905(b)(1)][/us/pl/94/484/s905/b/1], [90 Stat. 2325][/us/stat/90/2325]; Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], §§ 2, 14(2), [90 Stat. 2709][/us/stat/90/2709], 2718, defined terms applicable to this subchapter, prior to repeal by [Pub. L. 97–35, title IX, § 902(d)(1)][/us/pl/97/35/s902/d/1], (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
+    A prior section 300d, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1201, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 594][/us/stat/87/594]; amended Oct. 12, 1976, [Pub. L. 94–484, title IX][/us/pl/94/484/tIX], § 905(b)(1), [90 Stat. 2325][/us/stat/90/2325]; Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], §§ 2, 14(2), [90 Stat. 2709][/us/stat/90/2709], 2718, defined terms applicable to this subchapter, prior to repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(d)(1), (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
 
-    A prior section 1201 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, formerly § 1205, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 597][/us/stat/87/597], was classified to [section 300d–4 of this title][/us/usc/t42/s300d–4] prior to repeal by [Pub. L. 99–117, § 12(e)][/us/pl/99/117/s12/e], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    A prior section 1201 of [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], formerly § 1205, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 597][/us/stat/87/597], was classified to [section 300d–4 of this title][/us/usc/t42/s300d–4] prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(e), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 
     1996—Subsec. (a). [Pub. L. 104–146][/us/pl/104/146], in introductory provisions, substituted “The Secretary shall,” for “The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall,”.
 
-    1993—Subsec. (a). [Pub. L. 103–183, § 601(a)(1)][/us/pl/103/183/s601/a/1], in introductory provisions inserted “, acting through the Administrator of the Health Resources and Services Administration,” after “Secretary”.
+    1993—Subsec. (a). [Pub. L. 103–183][/us/pl/103/183], § 601(a)(1), in introductory provisions inserted “, acting through the Administrator of the Health Resources and Services Administration,” after “Secretary”.
 
-    Subsec. (c). [Pub. L. 103–183, § 601(a)(2)][/us/pl/103/183/s601/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–183][/us/pl/103/183], § 601(a)(2), added subsec. (c).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -59,7 +59,7 @@
 
  __Congressional Statement of Findings__ 
 
-[Pub. L. 101–590, § 2][/us/pl/101/590/s2], Nov. 16, 1990, [104 Stat. 2915][/us/stat/104/2915], provided that: 
+[Pub. L. 101–590][/us/pl/101/590], § 2, Nov. 16, 1990, [104 Stat. 2915][/us/stat/104/2915], provided that: 
 
 > “The Congress finds that—
 
@@ -85,37 +85,37 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs3
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2916
-[/us/pl/103/183/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Fa
+[/us/pl/103/183/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVI
 [/us/stat/107/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2238
-[/us/pl/104/146/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs12%2Fb
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1373
-[/us/pl/110/23/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23%2Fs2
+[/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F90
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F594
-[/us/pl/94/484/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs905%2Fb%2F1
+[/us/pl/94/484/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIX
 [/us/stat/90/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2325
 [/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2709
-[/us/pl/97/35/s902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F597
 [/us/usc/t42/s300d–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%934
-[/us/pl/99/117/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fe
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
-[/us/pl/103/183/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Fa%2F1
-[/us/pl/103/183/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Fa%2F2
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/104/146/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs13
 [/us/usc/t42/s300ff–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9311
-[/us/pl/101/590/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs2
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2915
 
 

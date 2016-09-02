@@ -51,7 +51,7 @@
 
         The Director may provide for a mechanism to educate and disseminate information on the existing and planned programs and research activities of the National Institutes of Health with respect to paralysis and through which the Director can receive comments from the public regarding such programs and activities.
 
-([Pub. L. 111–11, title XIV, § 14101][/us/pl/111/11/s14101], Mar. 30, 2009, [123 Stat. 1452][/us/stat/123/1452].)
+([Pub. L. 111–11, title XIV][/us/pl/111/11/tXIV], § 14101, Mar. 30, 2009, [123 Stat. 1452][/us/stat/123/1452].)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs14101
+[/us/pl/111/11/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXIV
 [/us/stat/123/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1452
 
 

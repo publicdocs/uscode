@@ -27,7 +27,7 @@
 
         The President shall undertake studies of the organization of housing and urban development functions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under chapter 2003 of title 54 or other functions carried out by the Bureau of Outdoor Recreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
 
-([Pub. L. 89–174, § 5][/us/pl/89/174/s5], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–448, title VIII, § 807(c)][/us/pl/90/448/s807/c], Aug. 1, 1968, [82 Stat. 544][/us/stat/82/544]; [Pub. L. 102–550, title XIII, § 1352][/us/pl/102/550/s1352], Oct. 28, 1992, [106 Stat. 3969][/us/stat/106/3969]; [Pub. L. 110–289, div. A, title I, § 1161(f)][/us/pl/110/289/s1161/f], July 30, 2008, [122 Stat. 2780][/us/stat/122/2780]; [Pub. L. 113–287, § 5(k)(3)][/us/pl/113/287/s5/k/3], Dec. 19, 2014, [128 Stat. 3270][/us/stat/128/3270].)
+([Pub. L. 89–174][/us/pl/89/174], § 5, Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–448, title VIII][/us/pl/90/448/tVIII], § 807(c), Aug. 1, 1968, [82 Stat. 544][/us/stat/82/544]; [Pub. L. 102–550, title XIII][/us/pl/102/550/tXIII], § 1352, Oct. 28, 1992, [106 Stat. 3969][/us/stat/106/3969]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1161(f), July 30, 2008, [122 Stat. 2780][/us/stat/122/2780]; [Pub. L. 113–287][/us/pl/113/287], § 5(k)(3), Dec. 19, 2014, [128 Stat. 3270][/us/stat/128/3270].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Codification__ 
 
-    In subsec. (c) “chapter 9 of title 5” substituted for “the Reorganization Act of 1949, as amended,” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (c) “chapter 9 of title 5” substituted for “the Reorganization Act of 1949, as amended,” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    Section was formerly classified to section 624c of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 624c of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Transfer of Functions__ 
 
-    [Pub. L. 89–174, § 9(c)][/us/pl/89/174/s9/c], Sept. 9, 1965, [79 Stat. 670][/us/stat/79/670], set out as a note under [section 3531 of this title][/us/usc/t42/s3531], provides that references to the Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean the Secretary of Housing and Urban Development, pursuant to the transfer of functions under this section, and that the Housing and Home Finance Agency and the Public Housing Administration, a constituent agency therein, have lapsed.
+    [Pub. L. 89–174][/us/pl/89/174], § 9(c), Sept. 9, 1965, [79 Stat. 670][/us/stat/79/670], set out as a note under [section 3531 of this title][/us/usc/t42/s3531], provides that references to the Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean the Secretary of Housing and Urban Development, pursuant to the transfer of functions under this section, and that the Housing and Home Finance Agency and the Public Housing Administration, a constituent agency therein, have lapsed.
 
 ----------
 
@@ -66,24 +66,24 @@
 ----------
 ----------
 
-[/us/pl/89/174/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F223
-[/us/pl/90/448/s807/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs807%2Fc
+[/us/pl/90/448/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVIII
 [/us/stat/82/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F544
-[/us/pl/102/550/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1352
+[/us/pl/102/550/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIII
 [/us/stat/106/3969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3969
-[/us/pl/110/289/s1161/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Ff
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2780
-[/us/pl/113/287/s5/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F3
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3270
 [/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F667
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
@@ -96,7 +96,7 @@
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/pl/90/448/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs808
 [/us/usc/t12/s1716b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716b
-[/us/pl/89/174/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs9%2Fc
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F670
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
 

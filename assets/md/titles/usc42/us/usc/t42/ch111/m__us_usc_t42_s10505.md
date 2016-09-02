@@ -25,7 +25,7 @@
 
     except that the terms “this chapter” and “this section”, as such terms appear in such [section 3789g of this title][/us/usc/t42/s3789g], shall be deemed to be references to this chapter and this section, respectively, and a reference to the Office of Justice Programs in such section 3789g shall be deemed to be a reference to the Attorney General.
 
-([Pub. L. 98–473, title II, § 609Q][/us/pl/98/473/s609Q], Oct. 12, 1984, [98 Stat. 2105][/us/stat/98/2105].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609Q, Oct. 12, 1984, [98 Stat. 2105][/us/stat/98/2105].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t42/s3789g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789g
 [/us/usc/t42/s3789g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789g
-[/us/pl/98/473/s609Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609Q
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2105
 
 

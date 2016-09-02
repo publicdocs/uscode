@@ -31,7 +31,7 @@
 
         (4) coordinate, as much as is practicable, efforts to gather biotechnology information on an international basis.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 478, as added [Pub. L. 100–607, title I, § 105][/us/pl/100/607/s105], Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052]; amended [Pub. L. 103–43, title XIV, § 1402(b)][/us/pl/103/43/s1402/b], June 10, 1993, [107 Stat. 171][/us/stat/107/171].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 478, as added [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 105, Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052]; amended [Pub. L. 103–43, title XIV][/us/pl/103/43/tXIV], § 1402(b), June 10, 1993, [107 Stat. 171][/us/stat/107/171].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t42/s286/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs286%2Fd
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs105
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3052
-[/us/pl/103/43/s1402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1402%2Fb
+[/us/pl/103/43/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIV
 [/us/stat/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F171
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

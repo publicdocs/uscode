@@ -39,7 +39,7 @@
 
             The cost to a Federal agency of providing the funds described in paragraph (1) shall be included as part of the cost of 1 or more programs or projects undertaken by the Federal agency or with Federal financial assistance that result in the displacement of persons or the acquisition of real property.
 
-([Pub. L. 91–646, title II, § 214][/us/pl/91/646/s214], as added [Pub. L. 112–141, div. A, title I, § 1521(e)][/us/pl/112/141/s1521/e], July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 214, as added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1521(e), July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 4634, [Pub. L. 91–646, title II, § 214][/us/pl/91/646/s214], Jan. 2, 1971, [84 Stat. 1901][/us/stat/84/1901], required head of each Federal agency to submit an annual report to the President respecting programs and policies established or authorized by this chapter, and the President to submit such reports to Congress, prior to repeal by [Pub. L. 100–17, title IV][/us/pl/100/17], §§ 415, 418, Apr. 2, 1987, [100 Stat. 255][/us/stat/100/255], 256, effective on effective date provided in regulations promulgated under [section 4633 of this title][/us/usc/t42/s4633] (as amended by [section 412 of Pub. L. 100–17][/us/pl/100/17/s412]), but not later than 2 years after Apr. 2, 1987.
+    A prior section 4634, [Pub. L. 91–646, title II][/us/pl/91/646/tII], § 214, Jan. 2, 1971, [84 Stat. 1901][/us/stat/84/1901], required head of each Federal agency to submit an annual report to the President respecting programs and policies established or authorized by this chapter, and the President to submit such reports to Congress, prior to repeal by [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], §§ 415, 418, Apr. 2, 1987, [100 Stat. 255][/us/stat/100/255], 256, effective on effective date provided in regulations promulgated under [section 4633 of this title][/us/usc/t42/s4633] (as amended by [section 412 of Pub. L. 100–17][/us/pl/100/17/s412]), but not later than 2 years after Apr. 2, 1987.
 
  __Effective Date__ 
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/91/646/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs214
-[/us/pl/112/141/s1521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fe
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F578
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/91/646/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs214
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1901
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/100/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F255
 [/us/usc/t42/s4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633
 [/us/pl/100/17/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs412

@@ -81,35 +81,35 @@
 
         (2) shall be subject to the orders and regulations issued by the Secretary of Energy under sections 2167 and 2168 of this title to prohibit dissemination of certain information.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 315, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)][/us/pl/100/456/s1441/a/1], Sept. 29, 1988, [102 Stat. 2080][/us/stat/102/2080]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 112–239, div. C, title XXXII, § 3202(c)][/us/pl/112/239/s3202/c], Jan. 2, 2013, [126 Stat. 2218][/us/stat/126/2218].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 315, as added [Pub. L. 100–456, div. A, title XIV][/us/pl/100/456/dA/tXIV], § 1441(a)(1), Sept. 29, 1988, [102 Stat. 2080][/us/stat/102/2080]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 112–239, div. C, title XXXII][/us/pl/112/239/dC/tXXXII], § 3202(c), Jan. 2, 2013, [126 Stat. 2218][/us/stat/126/2218].)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 3202(c)(1)(B)][/us/pl/112/239/s3202/c/1/B], added subsec. (a). Former subsec. (a) redesignated (b).
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(B), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], (C), redesignated subsec. (a) as (b) and amended it generally. Prior to amendment, text read as follows: “Subject to subsections (g) and (h) of this section and after receipt by the Secretary of Energy of any recommendations from the Board under [section 2286a of this title][/us/usc/t42/s2286a], the Board promptly shall make such recommendations available to the public in the Department of Energy’s regional public reading rooms and shall publish in the Federal Register such recommendations and a request for the submission to the Board of public comments on such recommendations. Interested persons shall have 30 days after the date of the publication of such notice in which to submit comments, data, views, or arguments to the Board concerning the recommendations.” Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), (C), redesignated subsec. (a) as (b) and amended it generally. Prior to amendment, text read as follows: “Subject to subsections (g) and (h) of this section and after receipt by the Secretary of Energy of any recommendations from the Board under [section 2286a of this title][/us/usc/t42/s2286a], the Board promptly shall make such recommendations available to the public in the Department of Energy’s regional public reading rooms and shall publish in the Federal Register such recommendations and a request for the submission to the Board of public comments on such recommendations. Interested persons shall have 30 days after the date of the publication of such notice in which to submit comments, data, views, or arguments to the Board concerning the recommendations.” Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], (2)(A), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)” in par. (1) and “subsection (i)” for “subsection (h)” in par. (2). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), (2)(A), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)” in par. (1) and “subsection (i)” for “subsection (h)” in par. (2). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], (2)(B), redesignated subsec. (c) as (d) and substituted “subsection (b) or (c)” for “subsection (a) or (b)”. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), (2)(B), redesignated subsec. (c) as (d) and substituted “subsection (b) or (c)” for “subsection (a) or (b)”. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], (2)(C), (F), redesignated subsec. (d) as (e) and substituted “subsection (c)(1)” for “subsection (b)(1)”, “subsection (i)” for “subsection (h)”, and “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives”. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), (2)(C), (F), redesignated subsec. (d) as (e) and substituted “subsection (c)(1)” for “subsection (b)(1)”, “subsection (i)” for “subsection (h)”, and “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives”. Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], (2)(F), redesignated subsec. (e) as (f) and substituted “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives”. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), (2)(F), redesignated subsec. (e) as (f) and substituted “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives”. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(1). [Pub. L. 112–239, § 3202(c)(2)(D)(i)][/us/pl/112/239/s3202/c/2/D/i], (F), substituted “subsection (f)” for “subsection (e)” and “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives”.
+    Subsec. (g)(1). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(2)(D)(i), (F), substituted “subsection (f)” for “subsection (e)” and “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives”.
 
-    Subsec. (g)(2). [Pub. L. 112–239, § 3202(c)(2)(D)(ii)][/us/pl/112/239/s3202/c/2/D/ii], substituted “and to such committees” for “, to the Committees on Armed Services and on Appropriations of the Senate, and to the Speaker of the House of Representatives”.
+    Subsec. (g)(2). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(2)(D)(ii), substituted “and to such committees” for “, to the Committees on Armed Services and on Appropriations of the Senate, and to the Speaker of the House of Representatives”.
 
-    Subsec. (h). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (h)(1). [Pub. L. 112–239, § 3202(c)(2)(E)(i)][/us/pl/112/239/s3202/c/2/E/i], substituted “through (e)” for “through (d)”.
+    Subsec. (h)(1). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(2)(E)(i), substituted “through (e)” for “through (d)”.
 
-    Subsec. (h)(3). [Pub. L. 112–239, § 3202(c)(2)(E)(ii)][/us/pl/112/239/s3202/c/2/E/ii], (F), substituted “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives” and struck out “and the Speaker” after “notify such committees”.
+    Subsec. (h)(3). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(2)(E)(ii), (F), substituted “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives” and struck out “and the Speaker” after “notify such committees”.
 
-    Subsec. (i). [Pub. L. 112–239, § 3202(c)(1)(A)][/us/pl/112/239/s3202/c/1/A], redesignated subsec. (h) as (i).
+    Subsec. (i). [Pub. L. 112–239][/us/pl/112/239], § 3202(c)(1)(A), redesignated subsec. (h) as (i).
 
 ----------
 
@@ -124,25 +124,25 @@
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/usc/t42/s2286a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286a
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/100/456/s1441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1441%2Fa%2F1
+[/us/pl/100/456/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXIV
 [/us/stat/102/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2080
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/112/239/s3202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc
+[/us/pl/112/239/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXII
 [/us/stat/126/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2218
-[/us/pl/112/239/s3202/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FB
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t42/s2286a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286a
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
-[/us/pl/112/239/s3202/c/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F2%2FD%2Fi
-[/us/pl/112/239/s3202/c/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F2%2FD%2Fii
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
-[/us/pl/112/239/s3202/c/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F2%2FE%2Fi
-[/us/pl/112/239/s3202/c/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F2%2FE%2Fii
-[/us/pl/112/239/s3202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fc%2F1%2FA
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

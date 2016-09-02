@@ -17,7 +17,7 @@
 
     A State that receives a grant under this subchapter shall prepare and submit to the Secretary, at the end of the grant period, a report containing the results of State efforts to develop and implement, or expand and enhance, a statewide system of family support services for families of children with disabilities.
 
-([Pub. L. 106–402, title II, § 208][/us/pl/106/402/s208], Oct. 30, 2000, [114 Stat. 1732][/us/stat/114/1732].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 208, Oct. 30, 2000, [114 Stat. 1732][/us/stat/114/1732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs208
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1732
 
 

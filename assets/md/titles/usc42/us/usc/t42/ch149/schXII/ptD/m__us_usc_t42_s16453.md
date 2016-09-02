@@ -41,7 +41,7 @@
 
         Any United States district court located in the State in which the State commission referred to in subsection (a) is located shall have jurisdiction to enforce compliance with this section.
 
-([Pub. L. 109–58, title XII, § 1265][/us/pl/109/58/s1265], Aug. 8, 2005, [119 Stat. 975][/us/stat/119/975].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1265, Aug. 8, 2005, [119 Stat. 975][/us/stat/119/975].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t16/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2601
-[/us/pl/109/58/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1265
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F975
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

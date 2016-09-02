@@ -61,7 +61,7 @@
 
         (2) each facility designated by the Governor or State emergency response commission under subsection (b)(2) of this section.
 
-([Pub. L. 99–499, title III, § 302][/us/pl/99/499/s302], Oct. 17, 1986, [100 Stat. 1730][/us/stat/100/1730].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 302, Oct. 17, 1986, [100 Stat. 1730][/us/stat/100/1730].)
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t42/s11004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11004
-[/us/pl/99/499/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs302
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1730
 
 

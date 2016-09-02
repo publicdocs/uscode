@@ -353,7 +353,7 @@
 
                     With respect to any fiscal year, no funds may be awarded for a cooperative agreement under subsection (g), unless at least $25,000,000 of the amount appropriated under paragraph (1) for that fiscal year is used by the Secretary for making grants under this section for that fiscal year.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 439, as added [Pub. L. 107–133, title I, § 121][/us/pl/107/133/s121], Jan. 17, 2002, [115 Stat. 2419][/us/stat/115/2419]; amended [Pub. L. 109–288, § 8][/us/pl/109/288/s8], Sept. 28, 2006, [120 Stat. 1249][/us/stat/120/1249].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 439, as added [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 121, Jan. 17, 2002, [115 Stat. 2419][/us/stat/115/2419]; amended [Pub. L. 109–288][/us/pl/109/288], § 8, Sept. 28, 2006, [120 Stat. 1249][/us/stat/120/1249].)
 
  __Codification__ 
 
@@ -365,29 +365,29 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–288, § 8(b)(2)(A)(i)][/us/pl/109/288/s8/b/2/A/i], substituted “purposes” for “purpose” in heading.
+    2006—Subsec. (a). [Pub. L. 109–288][/us/pl/109/288], § 8(b)(2)(A)(i), substituted “purposes” for “purpose” in heading.
 
-    Subsec. (a)(2). [Pub. L. 109–288, § 8(b)(2)(A)(ii)][/us/pl/109/288/s8/b/2/A/ii]–(iv), substituted “Purposes” for “Purpose” in heading, substituted “The purposes of this section are to authorize the Secretary—” for “The purpose of this section is to authorize the Secretary”, designated the remaining provisions as subpar. (A), and added subpar. (B).
+    Subsec. (a)(2). [Pub. L. 109–288][/us/pl/109/288], § 8(b)(2)(A)(ii)–(iv), substituted “Purposes” for “Purpose” in heading, substituted “The purposes of this section are to authorize the Secretary—” for “The purpose of this section is to authorize the Secretary”, designated the remaining provisions as subpar. (A), and added subpar. (B).
 
-    Subsec. (c). [Pub. L. 109–288, § 8(b)(2)(B)][/us/pl/109/288/s8/b/2/B], substituted “(i)” for “(h)” and “(i)(2)” for “(h)(2)”.
+    Subsec. (c). [Pub. L. 109–288][/us/pl/109/288], § 8(b)(2)(B), substituted “(i)” for “(h)” and “(i)(2)” for “(h)(2)”.
 
-    [Pub. L. 109–288, § 8(a)(1)][/us/pl/109/288/s8/a/1], substituted “2007 through 2011” for “2002 through 2006”.
+    [Pub. L. 109–288][/us/pl/109/288], § 8(a)(1), substituted “2007 through 2011” for “2002 through 2006”.
 
-    Subsec. (g). [Pub. L. 109–288, § 8(b)(1)(B)][/us/pl/109/288/s8/b/1/B], added subsec. (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 109–288][/us/pl/109/288], § 8(b)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 109–288, § 8(b)(2)(C)][/us/pl/109/288/s8/b/2/C], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary shall conduct an evaluation of the programs conducted pursuant to this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation.”
+    Subsec. (h). [Pub. L. 109–288][/us/pl/109/288], § 8(b)(2)(C), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary shall conduct an evaluation of the programs conducted pursuant to this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation.”
 
-    [Pub. L. 109–288, § 8(b)(1)(A)][/us/pl/109/288/s8/b/1/A], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    [Pub. L. 109–288][/us/pl/109/288], § 8(b)(1)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (h)(1). [Pub. L. 109–288, § 8(a)(2)(A)][/us/pl/109/288/s8/a/2/A], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “There are authorized to be appropriated to carry out this section $67,000,000 for each of fiscal years 2002 and 2003, and such sums as may be necessary for each succeeding fiscal year.”
+    Subsec. (h)(1). [Pub. L. 109–288][/us/pl/109/288], § 8(a)(2)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “There are authorized to be appropriated to carry out this section $67,000,000 for each of fiscal years 2002 and 2003, and such sums as may be necessary for each succeeding fiscal year.”
 
-    Subsec. (h)(2). [Pub. L. 109–288, § 8(a)(2)(B)][/us/pl/109/288/s8/a/2/B], substituted “4 percent” for “2.5 percent”.
+    Subsec. (h)(2). [Pub. L. 109–288][/us/pl/109/288], § 8(a)(2)(B), substituted “4 percent” for “2.5 percent”.
 
-    Subsec. (i). [Pub. L. 109–288, § 8(b)(2)(D)(i)][/us/pl/109/288/s8/b/2/D/i], substituted “reservations” for “reservation” in heading.
+    Subsec. (i). [Pub. L. 109–288][/us/pl/109/288], § 8(b)(2)(D)(i), substituted “reservations” for “reservation” in heading.
 
-    [Pub. L. 109–288, § 8(b)(1)(A)][/us/pl/109/288/s8/b/1/A], redesignated subsec. (h) as (i).
+    [Pub. L. 109–288][/us/pl/109/288], § 8(b)(1)(A), redesignated subsec. (h) as (i).
 
-    Subsec. (i)(2). [Pub. L. 109–288, § 8(b)(2)(D)(ii)][/us/pl/109/288/s8/b/2/D/ii], substituted “Reservations” for “Reservation” in heading, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (i)(2). [Pub. L. 109–288][/us/pl/109/288], § 8(b)(2)(D)(ii), substituted “Reservations” for “Reservation” in heading, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -406,25 +406,25 @@
 
 [/us/usc/t42/s671/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671%2Fa%2F20%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/107/133/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs121
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2419
-[/us/pl/109/288/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1249
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs639
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/109/288/s8/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F2%2FA%2Fi
-[/us/pl/109/288/s8/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F2%2FA%2Fii
-[/us/pl/109/288/s8/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F2%2FB
-[/us/pl/109/288/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fa%2F1
-[/us/pl/109/288/s8/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F1%2FB
-[/us/pl/109/288/s8/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F2%2FC
-[/us/pl/109/288/s8/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F1%2FA
-[/us/pl/109/288/s8/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fa%2F2%2FA
-[/us/pl/109/288/s8/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fa%2F2%2FB
-[/us/pl/109/288/s8/b/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F2%2FD%2Fi
-[/us/pl/109/288/s8/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F1%2FA
-[/us/pl/109/288/s8/b/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs8%2Fb%2F2%2FD%2Fii
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621

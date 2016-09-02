@@ -35,7 +35,7 @@
 
         (3) a nonprofit organization one of whose principal functions is to offer professional advisory, research, development, educational or related services to governments.
 
-([Pub. L. 91–648, title III, § 304][/us/pl/91/648/s304], Jan. 5, 1971, [84 Stat. 1919][/us/stat/84/1919]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title III][/us/pl/91/648/tIII], § 304, Jan. 5, 1971, [84 Stat. 1919][/us/stat/84/1919]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs304
+[/us/pl/91/648/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIII
 [/us/stat/84/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1919
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648

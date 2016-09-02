@@ -45,7 +45,7 @@
 
         There is authorized to be appropriated to the Secretary for activities under this section $5,000,000 for each of fiscal years 2006 through 2008.
 
-([Pub. L. 109–58, title X, § 1003][/us/pl/109/58/s1003], Aug. 8, 2005, [119 Stat. 929][/us/stat/119/929].)
+([Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1003, Aug. 8, 2005, [119 Stat. 929][/us/stat/119/929].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t15/s637/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa%2F4
-[/us/pl/109/58/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1003
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F929
 
 

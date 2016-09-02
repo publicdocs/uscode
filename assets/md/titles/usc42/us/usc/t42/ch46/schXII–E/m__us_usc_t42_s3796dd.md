@@ -163,7 +163,7 @@
 
         (3) __an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.__ 
 
-([Pub. L. 90–351, title I, § 1701][/us/pl/90/351/s1701], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808]; amended [Pub. L. 105–119, title I, § 119][/us/pl/105/119/s119], Nov. 26, 1997, [111 Stat. 2468][/us/stat/111/2468]; [Pub. L. 105–302, § 1(1)][/us/pl/105/302/s1/1], Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841]; [Pub. L. 108–21, title III, § 341][/us/pl/108/21/s341], Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665]; [Pub. L. 109–162, title XI, § 1163(a)][/us/pl/109/162/s1163/a], Jan. 5, 2006, [119 Stat. 3119][/us/stat/119/3119]; [Pub. L. 111–211, title II, § 243][/us/pl/111/211/s243], July 29, 2010, [124 Stat. 2292][/us/stat/124/2292]; [Pub. L. 114–22, title VI, § 601(1)][/us/pl/114/22/s601/1], title X, § 1002, May 29, 2015, [129 Stat. 258][/us/stat/129/258], 266.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1701, as added [Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10003(a)(3), Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808]; amended [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 119, Nov. 26, 1997, [111 Stat. 2468][/us/stat/111/2468]; [Pub. L. 105–302][/us/pl/105/302], § 1(1), Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841]; [Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 341, Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1163(a), Jan. 5, 2006, [119 Stat. 3119][/us/stat/119/3119]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 243, July 29, 2010, [124 Stat. 2292][/us/stat/124/2292]; [Pub. L. 114–22, title VI][/us/pl/114/22/tVI], § 601(1), title X, § 1002, May 29, 2015, [129 Stat. 258][/us/stat/129/258], 266.)
 
  __References in Text__ 
 
@@ -175,51 +175,51 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–22, § 601(1)][/us/pl/114/22/s601/1], substituted “where feasible, to an application—” for “where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.” and added pars. (1) and (2).
+    2015—Subsec. (c). [Pub. L. 114–22][/us/pl/114/22], § 601(1), substituted “where feasible, to an application—” for “where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.” and added pars. (1) and (2).
 
-    Subsec. (c)(3). [Pub. L. 114–22, § 1002][/us/pl/114/22/s1002], added par. (3).
+    Subsec. (c)(3). [Pub. L. 114–22][/us/pl/114/22], § 1002, added par. (3).
 
-    2010—Subsec. (b). [Pub. L. 111–211, § 243(1)(A)][/us/pl/111/211/s243/1/A], inserted “to” after each par. designation.
+    2010—Subsec. (b). [Pub. L. 111–211][/us/pl/111/211], § 243(1)(A), inserted “to” after each par. designation.
 
-    Subsec. (b)(1). [Pub. L. 111–211, § 243(1)(B)][/us/pl/111/211/s243/1/B], substituted “State, tribal, or” for “State and”.
+    Subsec. (b)(1). [Pub. L. 111–211][/us/pl/111/211], § 243(1)(B), substituted “State, tribal, or” for “State and”.
 
-    Subsec. (b)(5) to (8). [Pub. L. 111–211, § 243(1)(G)][/us/pl/111/211/s243/1/G], redesignated pars. (6) to (9) as (5) to (8), respectively.
+    Subsec. (b)(5) to (8). [Pub. L. 111–211][/us/pl/111/211], § 243(1)(G), redesignated pars. (6) to (9) as (5) to (8), respectively.
 
-    Subsec. (b)(9), (10). [Pub. L. 111–211, § 243(1)(G)][/us/pl/111/211/s243/1/G], redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
+    Subsec. (b)(9), (10). [Pub. L. 111–211][/us/pl/111/211], § 243(1)(G), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 
-    [Pub. L. 111–211, § 243(1)(C)][/us/pl/111/211/s243/1/C], inserted “, tribal,” after “State”.
+    [Pub. L. 111–211][/us/pl/111/211], § 243(1)(C), inserted “, tribal,” after “State”.
 
-    Subsec. (b)(11) to (14). [Pub. L. 111–211, § 243(1)(G)][/us/pl/111/211/s243/1/G], redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
+    Subsec. (b)(11) to (14). [Pub. L. 111–211][/us/pl/111/211], § 243(1)(G), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
-    Subsec. (b)(15). [Pub. L. 111–211, § 243(1)(G)][/us/pl/111/211/s243/1/G], redesignated par. (16) as (15). Former par. (15) redesignated (14).
+    Subsec. (b)(15). [Pub. L. 111–211][/us/pl/111/211], § 243(1)(G), redesignated par. (16) as (15). Former par. (15) redesignated (14).
 
-    [Pub. L. 111–211, § 243(1)(D)][/us/pl/111/211/s243/1/D], substituted “a State or Indian tribe in” for “a State in”, “the State or tribal community that” for “the State which”, and “a State, tribal, or local” for “a State or local”.
+    [Pub. L. 111–211][/us/pl/111/211], § 243(1)(D), substituted “a State or Indian tribe in” for “a State in”, “the State or tribal community that” for “the State which”, and “a State, tribal, or local” for “a State or local”.
 
-    Subsec. (b)(16), (17). [Pub. L. 111–211, § 243(1)(E)][/us/pl/111/211/s243/1/E]–(H), added par. (17) and redesignated former par. (17) as (16). Former par. (16) redesignated (15).
+    Subsec. (b)(16), (17). [Pub. L. 111–211][/us/pl/111/211], § 243(1)(E)–(H), added par. (17) and redesignated former par. (17) as (16). Former par. (16) redesignated (15).
 
-    Subsec. (i). [Pub. L. 111–211, § 243(2)][/us/pl/111/211/s243/2], substituted “Except as provided in subsection (j), the authority” for “The authority”.
+    Subsec. (i). [Pub. L. 111–211][/us/pl/111/211], § 243(2), substituted “Except as provided in subsection (j), the authority” for “The authority”.
 
-    Subsecs. (j), (k). [Pub. L. 111–211, § 243(3)][/us/pl/111/211/s243/3], added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 111–211][/us/pl/111/211], § 243(3), added subsecs. (j) and (k).
 
-    2006—Subsec. (a). [Pub. L. 109–162, § 1163(a)(1)][/us/pl/109/162/s1163/a/1], reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety.”
+    2006—Subsec. (a). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety.”
 
-    Subsec. (b). [Pub. L. 109–162, § 1163(a)(3)(A)][/us/pl/109/162/s1163/a/3/A], substituted “Uses of grant amounts” for “Additional grant projects” in subsec. heading and “The purposes for which grants made under subsection (a) of this section may be made are—” for “Grants made under subsection (a) of this section may include programs, projects, and other activities to—” in introductory provisions.
+    Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(3)(A), substituted “Uses of grant amounts” for “Additional grant projects” in subsec. heading and “The purposes for which grants made under subsection (a) of this section may be made are—” for “Grants made under subsection (a) of this section may include programs, projects, and other activities to—” in introductory provisions.
 
-    [Pub. L. 109–162, § 1163(a)(2)][/us/pl/109/162/s1163/a/2], (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to rehiring, hiring, and initial redeployment grant projects.
+    [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to rehiring, hiring, and initial redeployment grant projects.
 
-    Subsec. (b)(1) to (4). [Pub. L. 109–162, § 1163(a)(3)(C)][/us/pl/109/162/s1163/a/3/C], added pars. (1) to (4). Former pars. (1) to (4) redesignated (6) to (9), respectively.
+    Subsec. (b)(1) to (4). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(3)(C), added pars. (1) to (4). Former pars. (1) to (4) redesignated (6) to (9), respectively.
 
-    Subsec. (b)(5). [Pub. L. 109–162, § 1163(a)(3)(B)][/us/pl/109/162/s1163/a/3/B], redesignated par. (5) as (10).
+    Subsec. (b)(5). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(3)(B), redesignated par. (5) as (10).
 
-    Subsec. (b)(6) to (8). [Pub. L. 109–162, § 1163(a)(3)(B)][/us/pl/109/162/s1163/a/3/B], redesignated pars. (1) to (3) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (11) to (13), respectively.
+    Subsec. (b)(6) to (8). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(3)(B), redesignated pars. (1) to (3) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (11) to (13), respectively.
 
-    Subsec. (b)(9). [Pub. L. 109–162, § 1163(a)(3)(B)][/us/pl/109/162/s1163/a/3/B], (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: “develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;”. Former par. (9) redesignated (14).
+    Subsec. (b)(9). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(3)(B), (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: “develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;”. Former par. (9) redesignated (14).
 
-    Subsec. (b)(10) to (17). [Pub. L. 109–162, § 1163(a)(3)(B)][/us/pl/109/162/s1163/a/3/B], redesignated pars. (5) to (12) as (10) to (17), respectively.
+    Subsec. (b)(10) to (17). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(3)(B), redesignated pars. (5) to (12) as (10) to (17), respectively.
 
-    Subsec. (c). [Pub. L. 109–162, § 1163(a)(2)][/us/pl/109/162/s1163/a/2], (4), (5), redesignated subsec. (e) as (c), substituted “subsection (g) of this section” for “subsection (i) of this section”, and struck out former subsec. (c) which related to use of grants for troops-to-cops programs.
+    Subsec. (c). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(2), (4), (5), redesignated subsec. (e) as (c), substituted “subsection (g) of this section” for “subsection (i) of this section”, and struck out former subsec. (c) which related to use of grants for troops-to-cops programs.
 
-    Subsecs. (d) to (k). [Pub. L. 109–162, § 1163(a)(4)][/us/pl/109/162/s1163/a/4], redesignated subsecs. (f) to (k) as (d) to (i), respectively. Former subsecs. (d) and (e) redesignated (b) and (c), respectively.
+    Subsecs. (d) to (k). [Pub. L. 109–162][/us/pl/109/162], § 1163(a)(4), redesignated subsecs. (f) to (k) as (d) to (i), respectively. Former subsecs. (d) and (e) redesignated (b) and (c), respectively.
 
     2003—Subsec. (d)(10) to (12). [Pub. L. 108–21][/us/pl/108/21] added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
@@ -235,7 +235,7 @@
 
  __Purposes of 1994 Amendments__ 
 
-[Pub. L. 103–322, title I, § 10002][/us/pl/103/322/s10002], Sept. 13, 1994, [108 Stat. 1807][/us/stat/108/1807], provided that: 
+[Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10002, Sept. 13, 1994, [108 Stat. 1807][/us/stat/108/1807], provided that: 
 
 > “The purposes of this title \[see Short Title of 1994 Amendment note set out under [section 3711 of this title][/us/usc/t42/s3711]\] are to—
 
@@ -251,7 +251,7 @@
 
  __Improving Public Safety Presence in Rural Alaska__ 
 
-[Pub. L. 111–211, title II, § 247(a)][/us/pl/111/211/s247/a]–(d), July 29, 2010, [124 Stat. 2296][/us/stat/124/2296], 2297, provided that:
+[Pub. L. 111–211, title II][/us/pl/111/211/tII], § 247(a)–(d), July 29, 2010, [124 Stat. 2296][/us/stat/124/2296], 2297, provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -307,56 +307,56 @@
 [/us/usc/t42/s3796dd–1/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd%E2%80%931%2Fc%2F8
 [/us/usc/t42/s3793/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793%2Fa%2F11%2FB
 [/us/usc/t42/s3796dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd%E2%80%932
-[/us/pl/90/351/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1701
-[/us/pl/103/322/s10003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs10003%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtI
 [/us/stat/108/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1808
-[/us/pl/105/119/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs119
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2468
-[/us/pl/105/302/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F302%2Fs1%2F1
+[/us/pl/105/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F302
 [/us/stat/112/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2841
-[/us/pl/108/21/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs341
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F665
-[/us/pl/109/162/s1163/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3119
-[/us/pl/111/211/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2292
-[/us/pl/114/22/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs601%2F1
+[/us/pl/114/22/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtVI
 [/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1807
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 [/us/pl/90/351/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1701
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
-[/us/pl/114/22/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs601%2F1
-[/us/pl/114/22/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs1002
-[/us/pl/111/211/s243/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FA
-[/us/pl/111/211/s243/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FB
-[/us/pl/111/211/s243/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FG
-[/us/pl/111/211/s243/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FG
-[/us/pl/111/211/s243/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FC
-[/us/pl/111/211/s243/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FG
-[/us/pl/111/211/s243/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FG
-[/us/pl/111/211/s243/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FD
-[/us/pl/111/211/s243/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FE
-[/us/pl/111/211/s243/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F2
-[/us/pl/111/211/s243/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F3
-[/us/pl/109/162/s1163/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F1
-[/us/pl/109/162/s1163/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F3%2FA
-[/us/pl/109/162/s1163/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F2
-[/us/pl/109/162/s1163/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F3%2FC
-[/us/pl/109/162/s1163/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F3%2FB
-[/us/pl/109/162/s1163/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F3%2FB
-[/us/pl/109/162/s1163/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F3%2FB
-[/us/pl/109/162/s1163/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F3%2FB
-[/us/pl/109/162/s1163/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F2
-[/us/pl/109/162/s1163/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fa%2F4
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/105/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F302
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
-[/us/pl/103/322/s10002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs10002
+[/us/pl/103/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtI
 [/us/stat/108/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1807
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
-[/us/pl/111/211/s247/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs247%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2296
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s3796dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd

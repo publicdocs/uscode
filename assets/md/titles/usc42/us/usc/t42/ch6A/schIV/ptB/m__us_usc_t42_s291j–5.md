@@ -21,7 +21,7 @@
 
     (2) in the case of loans covered by allotments for the fiscal year ending June 30, 1971, $500,000,000; for the fiscal year ending June 30, 1972, $1,000,000,000; and for each of the fiscal years ending June 30, 1973, and June 30, 1974, $1,500,000,000.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 625, as added [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 347][/us/stat/84/347]; amended [Pub. L. 93–45, title I, § 108(b)(2)][/us/pl/93/45/s108/b/2], June 18, 1973, [87 Stat. 93][/us/stat/87/93].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 625, as added [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 347][/us/stat/84/347]; amended [Pub. L. 93–45, title I][/us/pl/93/45/tI], § 108(b)(2), June 18, 1973, [87 Stat. 93][/us/stat/87/93].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F347
-[/us/pl/93/45/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs108%2Fb%2F2
+[/us/pl/93/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2FtI
 [/us/stat/87/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F93
 [/us/pl/93/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45
 

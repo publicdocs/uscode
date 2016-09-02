@@ -17,7 +17,7 @@
 
     The Administrator shall coordinate with the Administrator of NOAA and the Director of the United States Geological Survey to establish a formal mechanism that plans, coordinates, and supports the transitioning of NASA research findings, assets, and capabilities to NOAA operations and United States Geological Survey operations. In defining this mechanism, NASA should consider the establishment of a formal or informal Interagency Transition Office. The Administrator of NASA shall provide an implementation plan for this mechanism to Congress within 90 days after October 11, 2010.
 
-([Pub. L. 111–267, title VII, § 703][/us/pl/111/267/s703], Oct. 11, 2010, [124 Stat. 2830][/us/stat/124/2830].)
+([Pub. L. 111–267, title VII][/us/pl/111/267/tVII], § 703, Oct. 11, 2010, [124 Stat. 2830][/us/stat/124/2830].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs703
+[/us/pl/111/267/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVII
 [/us/stat/124/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2830
 
 

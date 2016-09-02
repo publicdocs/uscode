@@ -17,7 +17,7 @@
 
     There is hereby established a photovoltaic energy commercialization program for the accelerated procurement and installation of photovoltaic solar electric systems for electric production in Federal facilities.
 
-([Pub. L. 95–619, title V, § 563][/us/pl/95/619/s563], Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 563, Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/619/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs563
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3280
 
 

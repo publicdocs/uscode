@@ -23,7 +23,7 @@
 
         The Website shall include relevant information for each sex offender and other person listed on a jurisdiction’s Internet site. The Website shall allow the public to obtain relevant information for each sex offender by a single query for any given zip code or geographical radius set by the user in a form and with such limitations as may be established by the Attorney General and shall have such other field search capabilities as the Attorney General may provide.
 
-([Pub. L. 109–248, title I, § 120][/us/pl/109/248/s120], July 27, 2006, [120 Stat. 597][/us/stat/120/597].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 120, July 27, 2006, [120 Stat. 597][/us/stat/120/597].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs120
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F597
 
 

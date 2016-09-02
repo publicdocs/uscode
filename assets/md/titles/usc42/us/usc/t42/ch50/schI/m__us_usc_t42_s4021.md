@@ -87,7 +87,7 @@
 
         For purposes of this section, the term “representatives of the Administrator” means representatives of the national flood insurance program who participate in the appeals process established under section 205 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 ([42 U.S.C. 4011][/us/usc/t42/s4011] note).
 
-([Pub. L. 90–448, title XIII, § 1314][/us/pl/90/448/s1314], as added [Pub. L. 112–141, div. F, title II, § 100223][/us/pl/112/141/s100223], July 6, 2012, [126 Stat. 934][/us/stat/126/934].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1314, as added [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100223, July 6, 2012, [126 Stat. 934][/us/stat/126/934].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 4021, [Pub. L. 90–448, title XIII, § 1314][/us/pl/90/448/s1314], Aug. 1, 1968, [82 Stat. 579][/us/stat/82/579], which denied Federal disaster assistance after Dec. 31, 1973, to persons who for a period of a year or more could have purchased flood insurance but did not do so, and defined “Federal disaster assistance” and “financial assistance”, was repealed by [Pub. L. 93–234, title II, § 203][/us/pl/93/234/s203], Dec. 31, 1973, [87 Stat. 982][/us/stat/87/982].
+    A prior section 4021, [Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1314, Aug. 1, 1968, [82 Stat. 579][/us/stat/82/579], which denied Federal disaster assistance after Dec. 31, 1973, to persons who for a period of a year or more could have purchased flood insurance but did not do so, and defined “Federal disaster assistance” and “financial assistance”, was repealed by [Pub. L. 93–234, title II][/us/pl/93/234/tII], § 203, Dec. 31, 1973, [87 Stat. 982][/us/stat/87/982].
 
 ----------
 
@@ -109,17 +109,17 @@
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
-[/us/pl/90/448/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1314
-[/us/pl/112/141/s100223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100223
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F934
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/108/264/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs205
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
-[/us/pl/90/448/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1314
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F579
-[/us/pl/93/234/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs203
+[/us/pl/93/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtII
 [/us/stat/87/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F982
 
 

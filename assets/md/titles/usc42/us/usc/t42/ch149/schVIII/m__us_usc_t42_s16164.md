@@ -17,7 +17,7 @@
 
     The costs of carrying out projects and activities under this subchapter shall be shared in accordance with [section 16352 of this title][/us/usc/t42/s16352].
 
-([Pub. L. 109–58, title VIII, § 815][/us/pl/109/58/s815], Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 815, Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/109/58/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs815
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F855
 
 

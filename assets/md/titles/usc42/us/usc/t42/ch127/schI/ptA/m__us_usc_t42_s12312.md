@@ -79,7 +79,7 @@
 
         In executing the duties and functions of the Administration under this subchapter and in carrying out the programs and activities authorized under this chapter, the Commissioner, in consultation with the Chief Executive Officer of the Corporation for National and Community Service, shall take necessary steps to coordinate with and seek the advice of voluntary agencies and organizations that provide services related to the purposes of this chapter.
 
-([Pub. L. 101–501, title IX, § 916][/us/pl/101/501/s916], Nov. 3, 1990, [104 Stat. 1263][/us/stat/104/1263]; [Pub. L. 103–82, title IV, § 405][/us/pl/103/82/s405](o), Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 916, Nov. 3, 1990, [104 Stat. 1263][/us/stat/104/1263]; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(o), Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922].)
 
  __Amendments__ 
 
@@ -96,9 +96,9 @@
 ----------
 ----------
 
-[/us/pl/101/501/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs916
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1263
-[/us/pl/103/82/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F922
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

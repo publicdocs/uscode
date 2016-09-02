@@ -71,13 +71,13 @@
 
         The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464H, as added and amended [Pub. L. 102–321, title I, § 122(a)][/us/pl/102/321/s122/a], (b), July 10, 1992, [106 Stat. 358][/us/stat/106/358], 359; [Pub. L. 102–352, § 2(a)(1)][/us/pl/102/352/s2/a/1], Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 109–482, title I, § 103(b)(32)][/us/pl/109/482/s103/b/32], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464H, as added and amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 122(a), (b), July 10, 1992, [106 Stat. 358][/us/stat/106/358], 359; [Pub. L. 102–352][/us/pl/102/352], § 2(a)(1), Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(32), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Codification__ 
 
-    [Section 290bb(b) of this title][/us/usc/t42/s290bb/b], which was transferred to subsec. (b) of this section and amended by [Pub. L. 102–321][/us/pl/102/321], was based on [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 510, formerly [Pub. L. 91–616, title V, § 501(b)][/us/pl/91/616/s501/b], as added [Pub. L. 94–371, § 7][/us/pl/94/371/s7], July 26, 1976, [90 Stat. 1038][/us/stat/90/1038]; amended [Pub. L. 95–622, title II, § 268(d)][/us/pl/95/622/s268/d], Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437]; [Pub. L. 96–180, § 14(b)][/us/pl/96/180/s14/b], Jan. 2, 1980, [93 Stat. 1305][/us/stat/93/1305]; renumbered § 510(b) of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24, § 2(b)(9)][/us/pl/98/24/s2/b/9], [97 Stat. 179][/us/stat/97/179]; Oct. 19, 1984, [Pub. L. 98–509, title II, § 205(a)(1)][/us/pl/98/509/s205/a/1], [98 Stat. 2361][/us/stat/98/2361].
+    [Section 290bb(b) of this title][/us/usc/t42/s290bb/b], which was transferred to subsec. (b) of this section and amended by [Pub. L. 102–321][/us/pl/102/321], was based on [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 510, formerly [Pub. L. 91–616, title V][/us/pl/91/616/tV], § 501(b), as added [Pub. L. 94–371][/us/pl/94/371], § 7, July 26, 1976, [90 Stat. 1038][/us/stat/90/1038]; amended [Pub. L. 95–622, title II][/us/pl/95/622/tII], § 268(d), Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437]; [Pub. L. 96–180][/us/pl/96/180], § 14(b), Jan. 2, 1980, [93 Stat. 1305][/us/stat/93/1305]; renumbered § 510(b) of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24][/us/pl/98/24], § 2(b)(9), [97 Stat. 179][/us/stat/97/179]; Oct. 19, 1984, [Pub. L. 98–509, title II][/us/pl/98/509/tII], § 205(a)(1), [98 Stat. 2361][/us/stat/98/2361].
 
-    In subsec. (b)(9), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(9), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -85,9 +85,9 @@
 
     1992—Subsec. (a). [Pub. L. 102–352][/us/pl/102/352] substituted “Institute on Alcohol” for “Institute of Alcohol”.
 
-    Subsec. (b). [Pub. L. 102–321, § 122(b)(1)][/us/pl/102/321/s122/b/1], (2)(A), transferred subsec. (b) of [section 290bb of this title][/us/usc/t42/s290bb] to subsec. (b) of this section, substituted “(b) Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
+    Subsec. (b). [Pub. L. 102–321][/us/pl/102/321], § 122(b)(1), (2)(A), transferred subsec. (b) of [section 290bb of this title][/us/usc/t42/s290bb] to subsec. (b) of this section, substituted “(b) Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
 
-    Subsecs. (c), (d). [Pub. L. 102–321, § 122(b)(2)(B)][/us/pl/102/321/s122/b/2/B], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 102–321][/us/pl/102/321], § 122(b)(2)(B), added subsecs. (c) and (d).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -95,7 +95,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–352, § 3][/us/pl/102/352/s3], Aug. 26, 1992, [106 Stat. 940][/us/stat/106/940], provided that: 
+[Pub. L. 102–352][/us/pl/102/352], § 3, Aug. 26, 1992, [106 Stat. 940][/us/stat/106/940], provided that: 
 
 > “The amendments made by—
 
@@ -109,15 +109,15 @@
 
  __Required Allocations for Health Services Research__ 
 
-    [Pub. L. 103–43, title XX, § 2016(b)][/us/pl/103/43/s2016/b], June 10, 1993, [107 Stat. 218][/us/stat/107/218], provided that, with respect to the allocation for health services research required in former subsec. (d)(2) of this section and former sections 285o(d)(2) and 285p(f)(2) of this title, the term “15 percent” appearing in each of such provisions was deemed to be 12 percent in the case of allocations for fiscal year 1993.
+    [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2016(b), June 10, 1993, [107 Stat. 218][/us/stat/107/218], provided that, with respect to the allocation for health services research required in former subsec. (d)(2) of this section and former sections 285o(d)(2) and 285p(f)(2) of this title, the term “15 percent” appearing in each of such provisions was deemed to be 12 percent in the case of allocations for fiscal year 1993.
 
  __Study on Fetal Alcohol Effect and Fetal Alcohol Syndrome__ 
 
-    [Pub. L. 102–321, title VII, § 705][/us/pl/102/321/s705], July 10, 1992, [106 Stat. 438][/us/stat/106/438], directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study on the prevalence of fetal alcohol effect and fetal alcohol syndrome in the general population of the United States and on the adequacy of Federal efforts to reduce the incidence of such conditions (including efforts regarding appropriate training for health care providers in identifying such effect or syndrome), and to ensure that a report outlining this study be submitted to Congress not later than 18 months after July 10, 1992.
+    [Pub. L. 102–321, title VII][/us/pl/102/321/tVII], § 705, July 10, 1992, [106 Stat. 438][/us/stat/106/438], directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study on the prevalence of fetal alcohol effect and fetal alcohol syndrome in the general population of the United States and on the adequacy of Federal efforts to reduce the incidence of such conditions (including efforts regarding appropriate training for health care providers in identifying such effect or syndrome), and to ensure that a report outlining this study be submitted to Congress not later than 18 months after July 10, 1992.
 
  __Alcoholism and Alcohol Abuse Treatment Study__ 
 
-    [Pub. L. 99–570, title IV, § 4022][/us/pl/99/570/s4022], Oct. 27, 1986, [100 Stat. 3207–124][/us/stat/100/3207-124], directed Secretary of Health and Human Services, acting through Director of National Institute on Alcohol Abuse and Alcoholism, to conduct a study of alternative approaches for alcoholism and alcohol abuse treatment and rehabilitation and of financing alternatives including policies and experiences of third party insurers and State and municipal governments; to recommend policies and programs for research, planning, administration, and reimbursement for treatment and rehabilitation; to request National Academy of Sciences to conduct such study in consultation with Director of National Institute on Alcohol Abuse and Alcoholism under an arrangement entered into with consent of Academy that actual expenses of Academy will be paid by Secretary and that Academy would submit a final report to Secretary no later than 24 months after the arrangement was entered into; and to transmit a final report to Congress no later than 30 days after receiving Academy’s report.
+    [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4022, Oct. 27, 1986, [100 Stat. 3207–124][/us/stat/100/3207-124], directed Secretary of Health and Human Services, acting through Director of National Institute on Alcohol Abuse and Alcoholism, to conduct a study of alternative approaches for alcoholism and alcohol abuse treatment and rehabilitation and of financing alternatives including policies and experiences of third party insurers and State and municipal governments; to recommend policies and programs for research, planning, administration, and reimbursement for treatment and rehabilitation; to request National Academy of Sciences to conduct such study in consultation with Director of National Institute on Alcohol Abuse and Alcoholism under an arrangement entered into with consent of Academy that actual expenses of Academy will be paid by Secretary and that Academy would submit a final report to Secretary no later than 24 months after the arrangement was entered into; and to transmit a final report to Congress no later than 30 days after receiving Academy’s report.
 
 ----------
 
@@ -128,52 +128,52 @@
 
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs122%2Fa
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F358
-[/us/pl/102/352/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F1
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F938
-[/us/pl/109/482/s103/b/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F32
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/usc/t42/s290bb/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%2Fb
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/616/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs501%2Fb
-[/us/pl/94/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs7
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/91/616/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtV
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1038
-[/us/pl/95/622/s268/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs268%2Fd
+[/us/pl/95/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtII
 [/us/stat/92/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3437
-[/us/pl/96/180/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs14%2Fb
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1305
-[/us/pl/98/24/s2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F9
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F179
-[/us/pl/98/509/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs205%2Fa%2F1
+[/us/pl/98/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtII
 [/us/stat/98/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2361
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
-[/us/pl/102/321/s122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs122%2Fb%2F1
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb
-[/us/pl/102/321/s122/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs122%2Fb%2F2%2FB
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/102/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs3
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F940
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
-[/us/pl/103/43/s2016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2016%2Fb
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F218
-[/us/pl/102/321/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs705
+[/us/pl/102/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtVII
 [/us/stat/106/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F438
-[/us/pl/99/570/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4022
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-124
 
 

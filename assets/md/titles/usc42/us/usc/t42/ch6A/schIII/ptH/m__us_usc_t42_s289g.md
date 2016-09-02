@@ -35,27 +35,27 @@
 
         or any successor to such regulations, the Secretary shall require that the risk standard (published in section 46.102(g) of such part 46 or any successor to such regulations) be the same for fetuses which are intended to be aborted and fetuses which are intended to be carried to term.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 877][/us/stat/99/877]; amended [Pub. L. 100–607, title I][/us/pl/100/607], §§ 156, 157(b), Nov. 4, 1988, [102 Stat. 3059][/us/stat/102/3059]; [Pub. L. 103–43, title I, § 121(b)(1)][/us/pl/103/43/s121/b/1], June 10, 1993, [107 Stat. 133][/us/stat/107/133].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 877][/us/stat/99/877]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], §§ 156, 157(b), Nov. 4, 1988, [102 Stat. 3059][/us/stat/102/3059]; [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 121(b)(1), June 10, 1993, [107 Stat. 133][/us/stat/107/133].)
 
  __Amendments__ 
 
     1993—Subsec. (c). [Pub. L. 103–43][/us/pl/103/43] struck out subsec. (c) which directed Biomedical Ethics Advisory Committee to conduct a study of the nature, advisability, and biomedical and ethical implications of exercising any waiver of the risk standard published in section 46.102(g) of part 46 of title 45 of the Code of Federal Regulations and to report its finding to the Biomedical Ethics Board not later than 24 months after Nov. 4, 1988, which report was to be then transmitted to specified Congressional committees.
 
-    1988—Subsec. (c)(1). [Pub. L. 100–607, § 157(b)][/us/pl/100/607/s157/b], substituted “24 months after November 4, 1988” for “thirty months after November 20, 1985”.
+    1988—Subsec. (c)(1). [Pub. L. 100–607][/us/pl/100/607], § 157(b), substituted “24 months after November 4, 1988” for “thirty months after November 20, 1985”.
 
-    Subsec. (c)(2). [Pub. L. 100–607, § 156(1)][/us/pl/100/607/s156/1], substituted “24-month period beginning on November 4, 1988” for “thirty-six month period beginning on November 20, 1985”.
+    Subsec. (c)(2). [Pub. L. 100–607][/us/pl/100/607], § 156(1), substituted “24-month period beginning on November 4, 1988” for “thirty-six month period beginning on November 20, 1985”.
 
-    Subsec. (c)(3). [Pub. L. 100–607, § 156(2)][/us/pl/100/607/s156/2], substituted “1990” for “1988”.
+    Subsec. (c)(3). [Pub. L. 100–607][/us/pl/100/607], § 156(2), substituted “1990” for “1988”.
 
  __Nullification of Certain Provisions__ 
 
-[Pub. L. 103–43, title I, § 121(c)][/us/pl/103/43/s121/c], June 10, 1993, [107 Stat. 133][/us/stat/107/133], provided that: 
+[Pub. L. 103–43, title I][/us/pl/103/43/tI], § 121(c), June 10, 1993, [107 Stat. 133][/us/stat/107/133], provided that: 
 
 > “The provisions of Executive Order 12806 (57 Fed. Reg. 21589 (May 21, 1992)) \[formerly set out below\] shall not have any legal effect. The provisions of section 204(d) of part 46 of title 45 of the Code of Federal Regulations (45 CFR 46.204(d)) shall not have any legal effect.”
 
  __Executive Order No. 12806. Establishment of Fetal Tissue Bank__ 
 
-    Ex. Ord. No. 12806, May 19, 1992, 57 F.R. 21589, which established a human fetal tissue bank, was nullified by [Pub. L. 103–43, title I, § 121(c)][/us/pl/103/43/s121/c], June 10, 1993, [107 Stat. 133][/us/stat/107/133], set out above.
+    Ex. Ord. No. 12806, May 19, 1992, 57 F.R. 21589, which established a human fetal tissue bank, was nullified by [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 121(c), June 10, 1993, [107 Stat. 133][/us/stat/107/133], set out above.
 
  __Federal Funding of Fetal Tissue Transplantation Research__ 
 
@@ -77,19 +77,19 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F877
-[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3059
-[/us/pl/103/43/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs121%2Fb%2F1
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F133
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/100/607/s157/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs157%2Fb
-[/us/pl/100/607/s156/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs156%2F1
-[/us/pl/100/607/s156/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs156%2F2
-[/us/pl/103/43/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs121%2Fc
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F133
-[/us/pl/103/43/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs121%2Fc
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F133
 
 

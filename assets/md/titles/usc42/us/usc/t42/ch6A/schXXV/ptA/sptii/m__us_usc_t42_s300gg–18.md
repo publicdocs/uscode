@@ -73,11 +73,11 @@
 
         Each hospital operating within the United States shall for each year establish (and update) and make public (in accordance with guidelines developed by the Secretary) a list of the hospital’s standard charges for items and services provided by the hospital, including for diagnosis-related groups established under [section 1395ww(d)(4) of this title][/us/usc/t42/s1395ww/d/4].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2718, as added and amended [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], title X, § 10101(f), Mar. 23, 2010, [124 Stat. 136][/us/stat/124/136], 885.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2718, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), title X, § 10101(f), Mar. 23, 2010, [124 Stat. 136][/us/stat/124/136], 885.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10101(f)][/us/pl/111/148/s10101/f], amended section generally. Prior to amendment, the section related to clear accounting for costs, ensuring that consumers receive value for premiums, standard hospital charges, and definitions.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10101(f), amended section generally. Prior to amendment, the section related to clear accounting for costs, ensuring that consumers receive value for premiums, standard hospital charges, and definitions.
 
  __Effective Date__ 
 
@@ -92,9 +92,9 @@
 
 [/us/usc/t42/s1395ww/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F136
-[/us/pl/111/148/s10101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Ff
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 

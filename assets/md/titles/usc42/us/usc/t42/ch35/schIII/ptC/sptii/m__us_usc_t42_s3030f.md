@@ -21,7 +21,7 @@
 
     (2) nutrition education, nutrition counseling, and other nutrition services, as appropriate, based on the needs of meal recipients.
 
-([Pub. L. 89–73, title III, § 336][/us/pl/89/73/s336], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1536][/us/stat/92/1536]; amended [Pub. L. 102–375, title III, § 314][/us/pl/102/375/s314], Sept. 30, 1992, [106 Stat. 1238][/us/stat/106/1238]; [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 109–365, title III, § 314][/us/pl/109/365/s314], Oct. 17, 2006, [120 Stat. 2548][/us/stat/120/2548].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 336, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1536][/us/stat/92/1536]; amended [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 314, Sept. 30, 1992, [106 Stat. 1238][/us/stat/106/1238]; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 314, Oct. 17, 2006, [120 Stat. 2548][/us/stat/120/2548].)
 
  __Amendments__ 
 
@@ -43,14 +43,14 @@
 ----------
 
 [/us/usc/t42/s3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027
-[/us/pl/89/73/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs336
-[/us/pl/95/478/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs103%2Fb
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1536
-[/us/pl/102/375/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs314
+[/us/pl/102/375/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIII
 [/us/stat/106/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1238
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/109/365/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs314
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2548
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/usc/t42/s3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027

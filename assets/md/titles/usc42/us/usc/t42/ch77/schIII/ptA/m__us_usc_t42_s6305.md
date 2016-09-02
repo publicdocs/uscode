@@ -59,17 +59,17 @@
 
         For purposes of this section, if a manufacturer or private labeler complied in good faith with a rule under this part, then he shall not be deemed to have violated any provision of this part by reason of the alleged invalidity of such rule.
 
-([Pub. L. 94–163, title III, § 335][/us/pl/94/163/s335], Dec. 22, 1975, [89 Stat. 930][/us/stat/89/930]; [Pub. L. 95–619, title IV, § 425(f)][/us/pl/95/619/s425/f], title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266][/us/stat/92/3266], 3288; [Pub. L. 100–12][/us/pl/100/12], §§ 8, 11(b)(7), Mar. 17, 1987, [101 Stat. 122][/us/stat/101/122], 126.)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 335, Dec. 22, 1975, [89 Stat. 930][/us/stat/89/930]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 425(f), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266][/us/stat/92/3266], 3288; [Pub. L. 100–12][/us/pl/100/12], §§ 8, 11(b)(7), Mar. 17, 1987, [101 Stat. 122][/us/stat/101/122], 126.)
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–12, § 8][/us/pl/100/12/s8], added par. (3) and inserted at end “The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in [section 6295 of this title][/us/usc/t42/s6295], the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary’s compliance with future deadlines for the same covered product.”
+    1987—Subsec. (a). [Pub. L. 100–12][/us/pl/100/12], § 8, added par. (3) and inserted at end “The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in [section 6295 of this title][/us/usc/t42/s6295], the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary’s compliance with future deadlines for the same covered product.”
 
-    Subsecs. (b) to (f). [Pub. L. 100–12, § 11(b)(7)][/us/pl/100/12/s11/b/7], inserted headings for subsecs. (b) to (f).
+    Subsecs. (b) to (f). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(7), inserted headings for subsecs. (b) to (f).
 
-    1978—Subsec. (a). [Pub. L. 95–619, § 425(f)][/us/pl/95/619/s425/f], struck out provision in par. (1) which excluded sections 6295 and 6302(a)(5) of this title and rules thereunder, struck out provision in par. (2) which excluded any act or duty under section 6295 or 6302(a)(5) of this title, and inserted provision giving district courts jurisdiction to order Federal agencies to perform particular acts or duties under this part.
+    1978—Subsec. (a). [Pub. L. 95–619][/us/pl/95/619], § 425(f), struck out provision in par. (1) which excluded sections 6295 and 6302(a)(5) of this title and rules thereunder, struck out provision in par. (2) which excluded any act or duty under section 6295 or 6302(a)(5) of this title, and inserted provision giving district courts jurisdiction to order Federal agencies to perform particular acts or duties under this part.
 
-    Subsecs. (b), (c), (e). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+    Subsecs. (b), (c), (e). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 ----------
 
@@ -80,16 +80,16 @@
 
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/94/163/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs335
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F930
-[/us/pl/95/619/s425/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Ff
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3266
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F122
-[/us/pl/100/12/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs8
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/100/12/s11/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F7
-[/us/pl/95/619/s425/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Ff
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 
 

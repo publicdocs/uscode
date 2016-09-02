@@ -31,13 +31,13 @@
 
         Nothing in this chapter shall be construed as affecting in any manner the rights and remedies afforded patients under any provision of Federal or State law to seek redress for any harm or injury suffered as a result of negligent treatment or care by any physician, health care practitioner, or health care entity, or as limiting any defenses or immunities available to any physician, health care practitioner, or health care entity.
 
-([Pub. L. 99–660, title IV, § 415][/us/pl/99/660/s415], Nov. 14, 1986, [100 Stat. 3787][/us/stat/100/3787]; [Pub. L. 100–177, title IV, § 402(c)][/us/pl/100/177/s402/c], as added [Pub. L. 101–239, title VI, § 6103(e)(6)(A)][/us/pl/101/239/s6103/e/6/A], Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 415, Nov. 14, 1986, [100 Stat. 3787][/us/stat/100/3787]; [Pub. L. 100–177, title IV][/us/pl/100/177/tIV], § 402(c), as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(e)(6)(A), Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208].)
 
  __Amendments__ 
 
-    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239] added [Pub. L. 100–177, § 402(c)][/us/pl/100/177/s402/c], see 1987 Amendment note below.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239] added [Pub. L. 100–177][/us/pl/100/177], § 402(c), see 1987 Amendment note below.
 
-    1987—Subsec. (a). [Pub. L. 100–177, § 402(c)][/us/pl/100/177/s402/c], as added by [Pub. L. 101–239][/us/pl/101/239], inserted before period at end “or as preempting or overriding any State law which provides incentives, immunities, or protection for those engaged in a professional review action that is in addition to or greater than that provided by this subchapter”.
+    1987—Subsec. (a). [Pub. L. 100–177][/us/pl/100/177], § 402(c), as added by [Pub. L. 101–239][/us/pl/101/239], inserted before period at end “or as preempting or overriding any State law which provides incentives, immunities, or protection for those engaged in a professional review action that is in addition to or greater than that provided by this subchapter”.
 
  __Effective Date of 1987 Amendment__ 
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/99/660/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs415
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3787
-[/us/pl/100/177/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fc
-[/us/pl/101/239/s6103/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F6%2FA
+[/us/pl/100/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtIV
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2208
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/177/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fc
-[/us/pl/100/177/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fc
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/100/177/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fd

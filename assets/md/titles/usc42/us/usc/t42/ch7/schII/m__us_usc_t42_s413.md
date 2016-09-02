@@ -73,15 +73,15 @@
 
             with such product, if not a multiple of $10, being rounded to the next higher multiple of $10 where such amount is a multiple of $5 but not of $10 and to the nearest multiple of $10 in any other case.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 213, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(a), [64 Stat. 492][/us/stat/64/492], 504; amended [July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], §§ 3(a), [66 Stat. 770][/us/stat/66/770]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, §§ 104(c), 106(a), 108(b), [68 Stat. 1078][/us/stat/68/1078], 1084; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 105(c), [70 Stat. 828][/us/stat/70/828]; [Pub. L. 85–840, title I, § 102(c)][/us/pl/85/840/s102/c], Aug. 28, 1958, [72 Stat. 1019][/us/stat/72/1019]; [Pub. L. 86–442, § 3][/us/pl/86/442/s3], Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82]; [Pub. L. 86–778, title II, § 206(a)][/us/pl/86/778/s206/a], Sept. 13, 1960, [74 Stat. 949][/us/stat/74/949]; [Pub. L. 87–64, title I, § 102(c)(2)(A)][/us/pl/87/64/s102/c/2/A], (3)(B), June 30, 1961, [75 Stat. 134][/us/stat/75/134], 135; [Pub. L. 89–97, title III, § 320(a)(3)][/us/pl/89/97/s320/a/3], July 30, 1965, [79 Stat. 393][/us/stat/79/393]; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 108(a)(3), 155(b)(1), Jan. 2, 1968, [81 Stat. 834][/us/stat/81/834], 865; [Pub. L. 92–5, title II, § 203(a)(3)][/us/pl/92/5/s203/a/3], Mar. 17, 1971, [85 Stat. 10][/us/stat/85/10]; [Pub. L. 92–336, title II, § 203(a)(3)][/us/pl/92/336/s203/a/3], July 1, 1972, [86 Stat. 418][/us/stat/86/418]; [Pub. L. 93–66, title II, § 203(a)(3)][/us/pl/93/66/s203/a/3], July 9, 1973, [87 Stat. 153][/us/stat/87/153]; [Pub. L. 93–233, § 5(a)(3)][/us/pl/93/233/s5/a/3], Dec. 31, 1973, [87 Stat. 953][/us/stat/87/953]; [Pub. L. 95–216, title III][/us/pl/95/216], §§ 351(c), 352(a), (b), Dec. 20, 1977, [91 Stat. 1550][/us/stat/91/1550], 1552; [Pub. L. 96–473, § 6(c)][/us/pl/96/473/s6/c], Oct. 19, 1980, [94 Stat. 2265][/us/stat/94/2265]; [Pub. L. 98–369, div. B, title VI, § 2663(a)(9)][/us/pl/98/369/s2663/a/9], July 18, 1984, [98 Stat. 1164][/us/stat/98/1164]; [Pub. L. 101–239, title X, § 10208(b)(2)(A)][/us/pl/101/239/s10208/b/2/A], (B), (d)(2)(A)(i), Dec. 19, 1989, [103 Stat. 2477][/us/stat/103/2477], 2478, 2480; [Pub. L. 101–508, title V, § 5117(c)(1)][/us/pl/101/508/s5117/c/1], Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(a)(15), (e)(2)(A), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1536, 1539.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 213, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(a), [64 Stat. 492][/us/stat/64/492], 504; amended [July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], §§ 3(a), [66 Stat. 770][/us/stat/66/770]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, §§ 104(c), 106(a), 108(b), [68 Stat. 1078][/us/stat/68/1078], 1084; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 105(c), [70 Stat. 828][/us/stat/70/828]; [Pub. L. 85–840, title I][/us/pl/85/840/tI], § 102(c), Aug. 28, 1958, [72 Stat. 1019][/us/stat/72/1019]; [Pub. L. 86–442][/us/pl/86/442], § 3, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82]; [Pub. L. 86–778, title II][/us/pl/86/778/tII], § 206(a), Sept. 13, 1960, [74 Stat. 949][/us/stat/74/949]; [Pub. L. 87–64, title I][/us/pl/87/64/tI], § 102(c)(2)(A), (3)(B), June 30, 1961, [75 Stat. 134][/us/stat/75/134], 135; [Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 320(a)(3), July 30, 1965, [79 Stat. 393][/us/stat/79/393]; [Pub. L. 90–248, title I][/us/pl/90/248/tI], §§ 108(a)(3), 155(b)(1), Jan. 2, 1968, [81 Stat. 834][/us/stat/81/834], 865; [Pub. L. 92–5, title II][/us/pl/92/5/tII], § 203(a)(3), Mar. 17, 1971, [85 Stat. 10][/us/stat/85/10]; [Pub. L. 92–336, title II][/us/pl/92/336/tII], § 203(a)(3), July 1, 1972, [86 Stat. 418][/us/stat/86/418]; [Pub. L. 93–66, title II][/us/pl/93/66/tII], § 203(a)(3), July 9, 1973, [87 Stat. 153][/us/stat/87/153]; [Pub. L. 93–233][/us/pl/93/233], § 5(a)(3), Dec. 31, 1973, [87 Stat. 953][/us/stat/87/953]; [Pub. L. 95–216, title III][/us/pl/95/216/tIII], §§ 351(c), 352(a), (b), Dec. 20, 1977, [91 Stat. 1550][/us/stat/91/1550], 1552; [Pub. L. 96–473][/us/pl/96/473], § 6(c), Oct. 19, 1980, [94 Stat. 2265][/us/stat/94/2265]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(a)(9), July 18, 1984, [98 Stat. 1164][/us/stat/98/1164]; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10208(b)(2)(A), (B), (d)(2)(A)(i), Dec. 19, 1989, [103 Stat. 2477][/us/stat/103/2477], 2478, 2480; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5117(c)(1), Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), title III, § 321(a)(15), (e)(2)(A), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1536, 1539.)
 
  __Amendments__ 
 
-    1994—Subsec. (c). [Pub. L. 103–296, § 321(a)(15)][/us/pl/103/296/s321/a/15], substituted “sections” for “section” before “414(a) and 415(d) of this title”.
+    1994—Subsec. (c). [Pub. L. 103–296][/us/pl/103/296], § 321(a)(15), substituted “sections” for “section” before “414(a) and 415(d) of this title”.
 
-    Subsec. (d)(2). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in introductory provisions.
 
-    Subsec. (d)(2)(B). [Pub. L. 103–296, § 321(e)(2)(A)][/us/pl/103/296/s321/e/2/A], substituted “national average wage index” for “deemed average total wages” before “(as defined in” and “the national average wage index (as so defined) for 1976,” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1]) reported to the Secretary of the Treasury or his delegate for 1976 (as published in the Federal Register in accordance with [section 415(a)(1)(D) of this title][/us/usc/t42/s415/a/1/D]),”.
+    Subsec. (d)(2)(B). [Pub. L. 103–296][/us/pl/103/296], § 321(e)(2)(A), substituted “national average wage index” for “deemed average total wages” before “(as defined in” and “the national average wage index (as so defined) for 1976,” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1]) reported to the Secretary of the Treasury or his delegate for 1976 (as published in the Federal Register in accordance with [section 415(a)(1)(D) of this title][/us/usc/t42/s415/a/1/D]),”.
 
     1990—Subsec. (c). [Pub. L. 101–508][/us/pl/101/508] inserted “and 415(d)” after “section 414(a)” and substituted “except where such individual is not a fully insured individual on the basis of the number of quarters of coverage so derived plus the number of quarters of coverage derived from the wages and self-employment income credited to such individual for periods after 1950.” for “except where—
 
@@ -89,41 +89,41 @@
 
     “(2) such individual’s elapsed years (for purposes of [section 414(a)(1) of this title][/us/usc/t42/s414/a/1]) are less than 7.”
 
-    1989—Subsec. (d)(2)(B). [Pub. L. 101–239, § 10208(b)(2)(A)][/us/pl/101/239/s10208/b/2/A], (B), substituted “the deemed average total wages (as defined in [section 409(k)(1) of this title][/us/usc/t42/s409/k/1])” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1]) reported to the Secretary of the Treasury or his delegate” and “(as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1])” for “(as so defined and computed)”.
+    1989—Subsec. (d)(2)(B). [Pub. L. 101–239][/us/pl/101/239], § 10208(b)(2)(A), (B), substituted “the deemed average total wages (as defined in [section 409(k)(1) of this title][/us/usc/t42/s409/k/1])” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1]) reported to the Secretary of the Treasury or his delegate” and “(as defined in regulations of the Secretary and computed without regard to the limitations specified in [section 409(a)(1) of this title][/us/usc/t42/s409/a/1])” for “(as so defined and computed)”.
 
-    [Pub. L. 101–239, § 10208(d)(2)(A)(i)][/us/pl/101/239/s10208/d/2/A/i], substituted “409(a)(1)” for “409(a)”.
+    [Pub. L. 101–239][/us/pl/101/239], § 10208(d)(2)(A)(i), substituted “409(a)(1)” for “409(a)”.
 
-    1984—Subsec. (a)(1). [Pub. L. 98–369, § 2663(a)(9)(A)][/us/pl/98/369/s2663/a/9/A], substituted “mean” for “means”.
+    1984—Subsec. (a)(1). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(9)(A), substituted “mean” for “means”.
 
-    Subsec. (a)(2)(B)(ii). [Pub. L. 98–369, § 2663(a)(9)(B)][/us/pl/98/369/s2663/a/9/B], substituted “equal $3,000” for “equal to $3,000”.
+    Subsec. (a)(2)(B)(ii). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(9)(B), substituted “equal $3,000” for “equal to $3,000”.
 
     1980—Subsec. (a)(2)(A). [Pub. L. 96–473][/us/pl/96/473] substituted reference to quarter of coverage, for reference to quarters of coverage.
 
     1977—Subsec. (a)(2). [Pub. L. 95–216][/us/pl/95/216], §§ 351(c), 352(a), substituted provisions relating to factors respecting definition of “quarters of coverage” for calendar years before 1978, subject to the provisions of subpar. (B) of this par., and for calendar years after 1977, subject to the provisions of subpar. (B) of this par., for provisions relating to factors respecting definition of “quarter of coverage” as a quarter in which the individual has been paid $50 or more in wages (except wages for agricultural labor paid after 1954) or for which he has been credited (as determined under [section 412 of this title][/us/usc/t42/s412]) with $100 or more of self-employment income.
 
-    Subsec. (d). [Pub. L. 95–216, § 352(b)][/us/pl/95/216/s352/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–216][/us/pl/95/216], § 352(b), added subsec. (d).
 
     1973—Subsec. (a)(2)(ii), (iii). [Pub. L. 93–233][/us/pl/93/233] substituted “$13,200” for “$12,600”.
 
     [Pub. L. 93–66][/us/pl/93/66] substituted “$12,600” for “$12,000”, in cls. (ii) and (iii).
 
-    1972—Subsec. (a)(2)(ii). [Pub. L. 92–336, § 203(a)(3)(A)][/us/pl/92/336/s203/a/3/A], inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base in the case of any calendar year after 1974 with respect to which such contribution and benefit base is effective.
+    1972—Subsec. (a)(2)(ii). [Pub. L. 92–336][/us/pl/92/336], § 203(a)(3)(A), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base in the case of any calendar year after 1974 with respect to which such contribution and benefit base is effective.
 
-    Subsec. (a)(2)(iii). [Pub. L. 92–336, § 203(a)(3)(B)][/us/pl/92/336/s203/a/3/B], inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974.
+    Subsec. (a)(2)(iii). [Pub. L. 92–336][/us/pl/92/336], § 203(a)(3)(B), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974.
 
-    1971—Subsec. (a)(2)(ii). [Pub. L. 92–5, § 203(a)(3)(A)][/us/pl/92/5/s203/a/3/A], substituted “after 1967 and before 1972, or $9,000 in the case of a calendar year after 1971” for “after 1967”.
+    1971—Subsec. (a)(2)(ii). [Pub. L. 92–5][/us/pl/92/5], § 203(a)(3)(A), substituted “after 1967 and before 1972, or $9,000 in the case of a calendar year after 1971” for “after 1967”.
 
-    Subsec. (a)(2)(iii). [Pub. L. 92–5, § 203(a)(3)(B)][/us/pl/92/5/s203/a/3/B], substituted “after 1967 and beginning before 1972, or $9,000 in the case of a taxable year beginning after 1971” for “after 1967”.
+    Subsec. (a)(2)(iii). [Pub. L. 92–5][/us/pl/92/5], § 203(a)(3)(B), substituted “after 1967 and beginning before 1972, or $9,000 in the case of a taxable year beginning after 1971” for “after 1967”.
 
-    1968—Subsec. (a)(2)(ii). [Pub. L. 90–248, § 108(a)(3)(A)][/us/pl/90/248/s108/a/3/A], inserted “and before 1968, or $7,800 in the case of a calendar year after 1967” after “1965”.
+    1968—Subsec. (a)(2)(ii). [Pub. L. 90–248][/us/pl/90/248], § 108(a)(3)(A), inserted “and before 1968, or $7,800 in the case of a calendar year after 1967” after “1965”.
 
-    Subsec. (a)(2)(iii). [Pub. L. 90–248, § 108(a)(3)(B)][/us/pl/90/248/s108/a/3/B], inserted “and before 1968, or $7,800 in the case of a taxable year ending after 1967” after “1965”.
+    Subsec. (a)(2)(iii). [Pub. L. 90–248][/us/pl/90/248], § 108(a)(3)(B), inserted “and before 1968, or $7,800 in the case of a taxable year ending after 1967” after “1965”.
 
-    Subsec. (c). [Pub. L. 90–248, § 155(b)(1)][/us/pl/90/248/s155/b/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 90–248][/us/pl/90/248], § 155(b)(1), added subsec. (c).
 
-    1965—Subsec. (a)(2)(ii). [Pub. L. 89–97, § 320(a)(3)(A)][/us/pl/89/97/s320/a/3/A], substituted “after 1958 and before 1966, or $6,600 in the case of a calendar year after 1965” for “after 1958”.
+    1965—Subsec. (a)(2)(ii). [Pub. L. 89–97][/us/pl/89/97], § 320(a)(3)(A), substituted “after 1958 and before 1966, or $6,600 in the case of a calendar year after 1965” for “after 1958”.
 
-    Subsec. (a)(2)(iii). [Pub. L. 89–97, § 320(a)(3)(B)][/us/pl/89/97/s320/a/3/B], substituted “after 1958 and before 1966, or $6,600 in the case of a taxable year ending after 1965” for “after 1958”.
+    Subsec. (a)(2)(iii). [Pub. L. 89–97][/us/pl/89/97], § 320(a)(3)(B), substituted “after 1958 and before 1966, or $6,600 in the case of a taxable year ending after 1965” for “after 1958”.
 
     1961—Subsec. (a). [Pub. L. 87–64][/us/pl/87/64] substituted “has attained age 62” for “has attained retirement age”, and “who attained age 62 (if a woman) or age 65 (if a man)” for “who attained retirement age”.
 
@@ -155,7 +155,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title V, § 5117(c)(3)][/us/pl/101/508/s5117/c/3], Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5117(c)(3), Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278], provided that: 
 
 > “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall apply only with respect to individuals who—
 
@@ -175,7 +175,7 @@
 
     Amendment by [section 351(c) of Pub. L. 95–216][/us/pl/95/216/s351/c] effective Jan. 1, 1978, see [section 351(d) of Pub. L. 95–216][/us/pl/95/216/s351/d], set out as a note under [section 409 of this title][/us/usc/t42/s409].
 
-[Pub. L. 95–216, title III, § 352(c)][/us/pl/95/216/s352/c], Dec. 20, 1977, [91 Stat. 1552][/us/stat/91/1552], provided that: 
+[Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 352(c), Dec. 20, 1977, [91 Stat. 1552][/us/stat/91/1552], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective January 1, 1978.”
 
@@ -197,7 +197,7 @@
 
     Amendment by [section 108(a)(3)(A) of Pub. L. 90–248][/us/pl/90/248/s108/a/3/A] applicable only with respect to remuneration paid after December 1967, and amendment by section 108(a)(3)(B) applicable only with respect to taxable years ending after 1967, see [section 108(c) of Pub. L. 90–248][/us/pl/90/248/s108/c], set out as a note under [section 409 of this title][/us/usc/t42/s409].
 
-[Pub. L. 90–248, title I, § 155(b)(2)][/us/pl/90/248/s155/b/2], Jan. 2, 1968, [81 Stat. 866][/us/stat/81/866], as amended by [Pub. L. 101–508, title V, § 5117(c)(2)][/us/pl/101/508/s5117/c/2], Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278], provided that: 
+[Pub. L. 90–248, title I][/us/pl/90/248/tI], § 155(b)(2), Jan. 2, 1968, [81 Stat. 866][/us/stat/81/866], as amended by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5117(c)(2), Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply only in the case of an individual who applies for benefits under section 202(a) of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a]\] after the date of the enactment of this Act \[Jan. 2, 1968\], or who dies without being entitled to benefits under section 202(a) or 223 of the Social Security Act \[[42 U.S.C. 402(a)][/us/usc/t42/s402/a], 423\].”
 
@@ -211,7 +211,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–778, title II, § 206(b)][/us/pl/86/778/s206/b], Sept. 13, 1960, [74 Stat. 949][/us/stat/74/949], provided that:
+[Pub. L. 86–778, title II][/us/pl/86/778/tII], § 206(b), Sept. 13, 1960, [74 Stat. 949][/us/stat/74/949], provided that:
 
 >     “(1)
 
@@ -235,23 +235,23 @@
 
 >     “(3) Notwithstanding any other provisions of this subsection, in the case of any individual who would not be a fully insured individual under section 214(a) of the Social Security Act \[[42 U.S.C. 414(a)][/us/usc/t42/s414/a]\] except for the enactment of this section, no benefits shall be payable on the basis of his wages and self-employment income for any month prior to the month in which this Act is enacted \[September 1960\].”
 
-[Pub. L. 86–442, § 3][/us/pl/86/442/s3], Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82], provided in part that: 
+[Pub. L. 86–442][/us/pl/86/442], § 3, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82], provided in part that: 
 
 > “This amendment \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1957, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month; the requirements for filing applications for such benefits and payments within certain time limits, as prescribed in sections 202(i) and 202(j) of such title \[[42 U.S.C. 402(i)][/us/usc/t42/s402/i], (j)\], shall not apply if an application is filed within the one-year period beginning with the first day of the month after the month in which this Act is enacted \[April 1960\].”
 
  __Effective Date of 1954 Amendment__ 
 
-[Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(h), [68 Stat. 1083][/us/stat/68/1083], provided that: 
+[Act Sept. 1, 1954, ch. 1206, title I][/us/act/1954-09-01/ch1206/tI], § 106(h), [68 Stat. 1083][/us/stat/68/1083], provided that: 
 
 > “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\], the amendments made by subsections (a), (b), (c), (d), (e), and (f) of this section \[amending this section and sections 414 to 417 of this title and [section 228e of Title 45][/us/usc/t45/s228e], Railroads\] shall apply with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1955, and with respect to lump-sum death payments under such title in the case of deaths occurring after June 1955; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\].”
 
  __Effective and Termination Date of 1952 Amendment__ 
 
-[Act July 18, 1952, ch. 945, § 3(f)][/us/act/1952-07-18/ch945/s3/f], [66 Stat. 773][/us/stat/66/773], provided that: 
+[Act July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], § 3(f), [66 Stat. 773][/us/stat/66/773], provided that: 
 
 > “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[[42 U.S.C. 415(f)(1)][/us/usc/t42/s415/f/1]\], the amendments made by subsections (a), (b), (c), and (d) of this section \[amending this section and sections 414 to 416, 420, and 421 of this title\] shall apply to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1953, and to lump-sum death payments under such title in the case of deaths occurring after June 1953; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\].”
 
-[Act July 18, 1952, ch. 945, § 3(g)][/us/act/1952-07-18/ch945/s3/g], [66 Stat. 773][/us/stat/66/773], provided that: 
+[Act July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], § 3(g), [66 Stat. 773][/us/stat/66/773], provided that: 
 
 > “Notwithstanding the preceding provisions of this section and the amendments made thereby \[amending this section and sections 414 to 416, 420, and 421 of this title\], such provisions and amendments shall cease to be in effect at the close of June 30, 1953, and after such amendments cease to be in effect any provision of law amended thereby shall be in full force and effect as though this Act had not been enacted.”
 
@@ -282,67 +282,67 @@
 [/us/stat/68/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1078
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F828
-[/us/pl/85/840/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs102%2Fc
+[/us/pl/85/840/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtI
 [/us/stat/72/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1019
-[/us/pl/86/442/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F442%2Fs3
+[/us/pl/86/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F442
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
-[/us/pl/86/778/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs206%2Fa
+[/us/pl/86/778/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtII
 [/us/stat/74/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F949
-[/us/pl/87/64/s102/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fc%2F2%2FA
+[/us/pl/87/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2FtI
 [/us/stat/75/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F134
-[/us/pl/89/97/s320/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs320%2Fa%2F3
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F393
-[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F834
-[/us/pl/92/5/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs203%2Fa%2F3
+[/us/pl/92/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2FtII
 [/us/stat/85/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F10
-[/us/pl/92/336/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs203%2Fa%2F3
+[/us/pl/92/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2FtII
 [/us/stat/86/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F418
-[/us/pl/93/66/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs203%2Fa%2F3
+[/us/pl/93/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2FtII
 [/us/stat/87/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F153
-[/us/pl/93/233/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs5%2Fa%2F3
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F953
-[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1550
-[/us/pl/96/473/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473%2Fs6%2Fc
+[/us/pl/96/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473
 [/us/stat/94/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2265
-[/us/pl/98/369/s2663/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F9
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1164
-[/us/pl/101/239/s10208/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F2%2FA
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2477
-[/us/pl/101/508/s5117/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5117%2Fc%2F1
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-278
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/103/296/s321/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fa%2F15
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fe%2F2%2FA
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa%2F1
 [/us/usc/t42/s415/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fa%2F1%2FD
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa%2F1
-[/us/pl/101/239/s10208/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fb%2F2%2FA
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t42/s409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa%2F1
 [/us/usc/t42/s409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa%2F1
-[/us/pl/101/239/s10208/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fd%2F2%2FA%2Fi
-[/us/pl/98/369/s2663/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F9%2FA
-[/us/pl/98/369/s2663/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F9%2FB
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/usc/t42/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs412
-[/us/pl/95/216/s352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs352%2Fb
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/pl/93/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66
-[/us/pl/92/336/s203/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs203%2Fa%2F3%2FA
-[/us/pl/92/336/s203/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs203%2Fa%2F3%2FB
-[/us/pl/92/5/s203/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs203%2Fa%2F3%2FA
-[/us/pl/92/5/s203/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs203%2Fa%2F3%2FB
-[/us/pl/90/248/s108/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs108%2Fa%2F3%2FA
-[/us/pl/90/248/s108/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs108%2Fa%2F3%2FB
-[/us/pl/90/248/s155/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs155%2Fb%2F1
-[/us/pl/89/97/s320/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs320%2Fa%2F3%2FA
-[/us/pl/89/97/s320/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs320%2Fa%2F3%2FB
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5
+[/us/pl/92/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F442
@@ -350,7 +350,7 @@
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/101/508/s5117/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5117%2Fc%2F3
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-278
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs427
@@ -363,7 +363,7 @@
 [/us/pl/95/216/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs351%2Fc
 [/us/pl/95/216/s351/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs351%2Fd
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
-[/us/pl/95/216/s352/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs352%2Fc
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1552
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/pl/93/233/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs5%2Fe
@@ -382,9 +382,9 @@
 [/us/pl/90/248/s108/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs108%2Fa%2F3%2FA
 [/us/pl/90/248/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs108%2Fc
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
-[/us/pl/90/248/s155/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs155%2Fb%2F2
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F866
-[/us/pl/101/508/s5117/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5117%2Fc%2F2
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-278
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
 [/us/usc/t42/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fa
@@ -396,7 +396,7 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/86/778/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs206%2Fb
+[/us/pl/86/778/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtII
 [/us/stat/74/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F949
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -412,22 +412,22 @@
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa
-[/us/pl/86/442/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F442%2Fs3
+[/us/pl/86/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F442
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fi
-[/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
+[/us/act/1954-09-01/ch1206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206%2FtI
 [/us/stat/68/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1083
 [/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t45/s228e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228e
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
-[/us/act/1952-07-18/ch945/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Ff
+[/us/act/1952-07-18/ch945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945
 [/us/stat/66/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F773
 [/us/usc/t42/s415/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff%2F1
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
-[/us/act/1952-07-18/ch945/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Fg
+[/us/act/1952-07-18/ch945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945
 [/us/stat/66/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F773
 
 

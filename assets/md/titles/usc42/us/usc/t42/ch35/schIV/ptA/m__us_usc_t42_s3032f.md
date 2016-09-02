@@ -119,7 +119,7 @@
 
                 (ii) individuals in younger generations.
 
-([Pub. L. 89–73, title IV, § 417][/us/pl/89/73/s417], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2261][/us/stat/114/2261]; amended [Pub. L. 109–365, title IV, § 406][/us/pl/109/365/s406], Oct. 17, 2006, [120 Stat. 2555][/us/stat/120/2555].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 417, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2261][/us/stat/114/2261]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 406, Oct. 17, 2006, [120 Stat. 2555][/us/stat/120/2555].)
 
  __Amendments__ 
 
@@ -132,10 +132,10 @@
 ----------
 ----------
 
-[/us/pl/89/73/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs417
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2261
-[/us/pl/109/365/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs406
+[/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2555
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 

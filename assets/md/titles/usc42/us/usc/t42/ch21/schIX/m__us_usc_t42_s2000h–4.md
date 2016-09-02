@@ -17,7 +17,7 @@
 
     Nothing contained in any title of this Act shall be construed as indicating an intent on the part of Congress to occupy the field in which any such title operates to the exclusion of State laws on the same subject matter, nor shall any provision of this Act be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this Act, or any provision thereof.
 
-([Pub. L. 88–352, title XI, § 1104][/us/pl/88/352/s1104], July 2, 1964, [78 Stat. 268][/us/stat/78/268].)
+([Pub. L. 88–352, title XI][/us/pl/88/352/tXI], § 1104, July 2, 1964, [78 Stat. 268][/us/stat/78/268].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs1104
+[/us/pl/88/352/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtXI
 [/us/stat/78/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F268
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

@@ -53,13 +53,13 @@
 
             Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338F, as added [Pub. L. 101–597, title II, § 204][/us/pl/101/597/s204], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338F, as added [Pub. L. 101–597, title II][/us/pl/101/597/tII], § 204, Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027].)
 
  __Prior Provisions__ 
 
     A prior section 338F of act July 1, 1944, was renumbered section 338G by [Pub. L. 101–597][/us/pl/101/597] and is classified to [section 254p of this title][/us/usc/t42/s254p].
 
-    Another prior section 338F of act July 1, 1944, was renumbered section 338G by [section 201(2) of Pub. L. 100–177][/us/pl/100/177/s201/2] and classified to [section 254q of this title][/us/usc/t42/s254q], prior to repeal by [Pub. L. 100–177, title II, § 203][/us/pl/100/177/s203], Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999].
+    Another prior section 338F of act July 1, 1944, was renumbered section 338G by [section 201(2) of Pub. L. 100–177][/us/pl/100/177/s201/2] and classified to [section 254q of this title][/us/usc/t42/s254q], prior to repeal by [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 203, Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999].
 
 ----------
 
@@ -71,13 +71,13 @@
 [/us/usc/t42/s254q–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254q%E2%80%931
 [/us/usc/t42/s254f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/597/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs204
+[/us/pl/101/597/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtII
 [/us/stat/104/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3027
 [/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t42/s254p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254p
 [/us/pl/100/177/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs201%2F2
 [/us/usc/t42/s254q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254q
-[/us/pl/100/177/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs203
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F999
 
 

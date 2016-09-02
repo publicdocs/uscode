@@ -81,7 +81,7 @@
 
         (B) the reuse or recycling of a substance.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 601, as added [Pub. L. 101–549, title VI, § 602(a)][/us/pl/101/549/s602/a], Nov. 15, 1990, [104 Stat. 2649][/us/stat/104/2649].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 601, as added [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 602(a), Nov. 15, 1990, [104 Stat. 2649][/us/stat/104/2649].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 [/us/usc/t42/s7671a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7671a%2Fb
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs602%2Fa
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2649
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

@@ -55,7 +55,7 @@
 
         (2) The Secretary concerned shall ensure that the lender bears a reasonable degree of risk in the financing of such project.
 
-([Pub. L. 96–294, title II][/us/pl/96/294] § 214, June 30, 1980, [94 Stat. 690][/us/stat/94/690].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII] § 214, June 30, 1980, [94 Stat. 690][/us/stat/94/690].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Defaulted Loans Under Department of Energy Alcohol Fuels Loan Guarantee Program; Sale of Assets; Unobligated Funds__ 
 
-[Pub. L. 101–121, title II][/us/pl/101/121], Oct. 23, 1989, [103 Stat. 732][/us/stat/103/732], provided that:
+[Pub. L. 101–121, title II][/us/pl/101/121/tII], Oct. 23, 1989, [103 Stat. 732][/us/stat/103/732], provided that:
 
 >     “Notwithstanding [31 U.S.C. 3302][/us/usc/t31/s3302], funds derived from the sale of assets as a result of defaulted loans made under the Department of Energy Alcohol Fuels Loan Guarantee program, or any other funds received in connection with this program, shall hereafter be credited to the Biomass Energy Development account, and shall be available solely for payment of the guaranteed portion of defaulted loans and associated costs of the Department of Energy Alcohol Fuels Loan Guarantee program for loans guaranteed prior to January 1, 1987.
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t12/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2281
-[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F690
 [/us/pl/93/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F224
 [/us/stat/87/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F937
@@ -87,7 +87,7 @@
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683
 [/us/usc/t42/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8801
-[/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
+[/us/pl/101/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtII
 [/us/stat/103/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F732
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 

@@ -157,7 +157,7 @@
 
             For fiscal year 2004, 50 percent or more of the funds appropriated under paragraph (1) shall be used to award grants to political subdivisions or consortia of political subdivisions under subsection (b) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317S, as added [Pub. L. 108–75, § 2(2)][/us/pl/108/75/s2/2], Aug. 15, 2003, [117 Stat. 898][/us/stat/117/898].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317S, as added [Pub. L. 108–75][/us/pl/108/75], § 2(2), Aug. 15, 2003, [117 Stat. 898][/us/stat/117/898].)
 
  __References in Text__ 
 
@@ -171,7 +171,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/75/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F75%2Fs2%2F2
+[/us/pl/108/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F75
 [/us/stat/117/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F898
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/stat/116/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F594

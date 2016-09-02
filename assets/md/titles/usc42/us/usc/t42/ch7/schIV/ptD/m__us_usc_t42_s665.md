@@ -33,11 +33,11 @@
 
         The Secretary of Defense, in the case of the Army, Navy, Air Force, and Marine Corps, and the Secretary concerned (as defined in [section 101(5) of title 37][/us/usc/t37/s101/5]) in the case of each of the other uniformed services, shall each issue regulations applicable to allotments to be made under this section, designating the officials to whom notice of failure to make support payments, or notice to discontinue or adjust an allotment, should be given, prescribing the form and content of the notice and specifying any other rules necessary for such Secretary to implement this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 465, as added [Pub. L. 97–248, title I, § 172(a)][/us/pl/97/248/s172/a], Sept. 3, 1982, [96 Stat. 401][/us/stat/96/401]; amended [Pub. L. 109–241, title II, § 218(b)(2)][/us/pl/109/241/s218/b/2], July 11, 2006, [120 Stat. 526][/us/stat/120/526].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 465, as added [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 172(a), Sept. 3, 1982, [96 Stat. 401][/us/stat/96/401]; amended [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 218(b)(2), July 11, 2006, [120 Stat. 526][/us/stat/120/526].)
 
  __References in Text__ 
 
-    [Section 801(11) of title 10][/us/usc/t10/s801/11], referred to in subsec. (a)(2), was repealed by [Pub. L. 109–241, title II, § 218(a)(1)][/us/pl/109/241/s218/a/1], July 11, 2006, [120 Stat. 526][/us/stat/120/526]. However, “judge advocate” is defined elsewhere in that section.
+    [Section 801(11) of title 10][/us/usc/t10/s801/11], referred to in subsec. (a)(2), was repealed by [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 218(a)(1), July 11, 2006, [120 Stat. 526][/us/stat/120/526]. However, “judge advocate” is defined elsewhere in that section.
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title I, § 172(b)][/us/pl/97/248/s172/b], Sept. 3, 1982, [96 Stat. 403][/us/stat/96/403], provided that: 
+[Pub. L. 97–248, title I][/us/pl/97/248/tI], § 172(b), Sept. 3, 1982, [96 Stat. 403][/us/stat/96/403], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall become effective on October 1, 1982.”
 
@@ -66,15 +66,15 @@
 [/us/usc/t37/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F5
 [/us/usc/t37/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F5
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/248/s172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs172%2Fa
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F401
-[/us/pl/109/241/s218/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs218%2Fb%2F2
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F526
 [/us/usc/t10/s801/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801%2F11
-[/us/pl/109/241/s218/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs218%2Fa%2F1
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F526
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/97/248/s172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs172%2Fb
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F403
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

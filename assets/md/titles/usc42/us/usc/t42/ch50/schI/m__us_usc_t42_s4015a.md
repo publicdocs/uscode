@@ -37,7 +37,7 @@
 
         Subsections (a) and (b) shall cease to apply on the date on which the chargeable risk premium rate for flood insurance under this chapter for each property covered by flood insurance under this chapter, other than properties for which premiums are calculated under subsection (e) or (f) of [section 4014 of this title][/us/usc/t42/s4014] or [section 4056 of this title][/us/usc/t42/s4056] or under section 100230 of the Biggert-Waters Flood Insurance Reform Act of 2012 ([42 U.S.C. 4014][/us/usc/t42/s4014] note), is not less than the applicable estimated risk premium rate under [section 4014(a)(1) of this title][/us/usc/t42/s4014/a/1] for such property.
 
-([Pub. L. 90–448, title XIII, § 1308A][/us/pl/90/448/s1308A], as added [Pub. L. 113–89, § 8(a)][/us/pl/113/89/s8/a], Mar. 21, 2014, [128 Stat. 1023][/us/stat/128/1023].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1308A, as added [Pub. L. 113–89][/us/pl/113/89], § 8(a), Mar. 21, 2014, [128 Stat. 1023][/us/stat/128/1023].)
 
  __References in Text__ 
 
@@ -57,8 +57,8 @@
 [/us/usc/t42/s4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4056
 [/us/usc/t42/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014
 [/us/usc/t42/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fa%2F1
-[/us/pl/90/448/s1308A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1308A
-[/us/pl/113/89/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs8%2Fa
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1023
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

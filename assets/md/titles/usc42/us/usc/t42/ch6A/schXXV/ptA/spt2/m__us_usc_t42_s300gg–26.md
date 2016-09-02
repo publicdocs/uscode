@@ -183,7 +183,7 @@
 
             The term “substance use disorder benefits” means benefits with respect to services for substance use disorders, as defined under the terms of the plan and in accordance with applicable Federal and State law.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2726, formerly § 2705, as added [Pub. L. 104–204, title VII, § 703(a)][/us/pl/104/204/s703/a], Sept. 26, 1996, [110 Stat. 2947][/us/stat/110/2947]; amended [Pub. L. 107–116, title VII, § 701(b)][/us/pl/107/116/s701/b], Jan. 10, 2002, [115 Stat. 2228][/us/stat/115/2228]; [Pub. L. 107–313, § 2(b)][/us/pl/107/313/s2/b], Dec. 2, 2002, [116 Stat. 2457][/us/stat/116/2457]; [Pub. L. 108–197, § 2(b)][/us/pl/108/197/s2/b], Dec. 19, 2003, [117 Stat. 2898][/us/stat/117/2898]; [Pub. L. 108–311, title III, § 302(c)][/us/pl/108/311/s302/c], Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179]; [Pub. L. 109–151, § 1(b)][/us/pl/109/151/s1/b], Dec. 30, 2005, [119 Stat. 2886][/us/stat/119/2886]; [Pub. L. 109–432, div. A, title I, § 115(c)][/us/pl/109/432/s115/c], Dec. 20, 2006, [120 Stat. 2941][/us/stat/120/2941]; [Pub. L. 110–245, title IV, § 401(c)][/us/pl/110/245/s401/c], June 17, 2008, [122 Stat. 1650][/us/stat/122/1650]; [Pub. L. 110–343, div. C, title V, § 512(b)][/us/pl/110/343/s512/b], (g)(2), Oct. 3, 2008, [122 Stat. 3885][/us/stat/122/3885], 3892; renumbered § 2726 and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(2), 1563(c)(4), formerly § 1562(c)(4), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2726, formerly § 2705, as added [Pub. L. 104–204, title VII][/us/pl/104/204/tVII], § 703(a), Sept. 26, 1996, [110 Stat. 2947][/us/stat/110/2947]; amended [Pub. L. 107–116, title VII][/us/pl/107/116/tVII], § 701(b), Jan. 10, 2002, [115 Stat. 2228][/us/stat/115/2228]; [Pub. L. 107–313][/us/pl/107/313], § 2(b), Dec. 2, 2002, [116 Stat. 2457][/us/stat/116/2457]; [Pub. L. 108–197][/us/pl/108/197], § 2(b), Dec. 19, 2003, [117 Stat. 2898][/us/stat/117/2898]; [Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 302(c), Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179]; [Pub. L. 109–151][/us/pl/109/151], § 1(b), Dec. 30, 2005, [119 Stat. 2886][/us/stat/119/2886]; [Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 115(c), Dec. 20, 2006, [120 Stat. 2941][/us/stat/120/2941]; [Pub. L. 110–245, title IV][/us/pl/110/245/tIV], § 401(c), June 17, 2008, [122 Stat. 1650][/us/stat/122/1650]; [Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 512(b), (g)(2), Oct. 3, 2008, [122 Stat. 3885][/us/stat/122/3885], 3892; renumbered § 2726 and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(2), 1563(c)(4), formerly § 1562(c)(4), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911.)
 
  __Codification__ 
 
@@ -191,37 +191,37 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (a), (b). [Pub. L. 111–148, § 1563(c)(4)(A)][/us/pl/111/148/s1563/c/4/A], (B), formerly § 1562(c)(4)(A), (B), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “or a health insurance issuer offering group or individual health insurance coverage” for “(or health insurance coverage offered in connection with such a plan)” wherever appearing.
+    2010—Subsecs. (a), (b). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(4)(A), (B), formerly § 1562(c)(4)(A), (B), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “or a health insurance issuer offering group or individual health insurance coverage” for “(or health insurance coverage offered in connection with such a plan)” wherever appearing.
 
-    Subsec. (c)(1). [Pub. L. 111–148, § 1563(c)(4)(C)(i)][/us/pl/111/148/s1563/c/4/C/i], formerly § 1562(c)(4)(C)(i), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “and a health insurance issuer offering group or individual health insurance coverage” for “(and group health insurance coverage offered in connection with a group health plan)”.
+    Subsec. (c)(1). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(4)(C)(i), formerly § 1562(c)(4)(C)(i), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “and a health insurance issuer offering group or individual health insurance coverage” for “(and group health insurance coverage offered in connection with a group health plan)”.
 
-    Subsec. (c)(2)(A). [Pub. L. 111–148, § 1563(c)(4)(C)(ii)][/us/pl/111/148/s1563/c/4/C/ii], formerly § 1562(c)(4)(C)(ii), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “or a health insurance issuer offering group or individual health insurance coverage” for “(or health insurance coverage offered in connection with such a plan)”.
+    Subsec. (c)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(4)(C)(ii), formerly § 1562(c)(4)(C)(ii), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “or a health insurance issuer offering group or individual health insurance coverage” for “(or health insurance coverage offered in connection with such a plan)”.
 
-    2008—[Pub. L. 110–343, § 512(g)(2)][/us/pl/110/343/s512/g/2], amended section catchline generally. Prior to amendment, catchline read as follows: “Parity in application of certain limits to mental health benefits”.
+    2008—[Pub. L. 110–343][/us/pl/110/343], § 512(g)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Parity in application of certain limits to mental health benefits”.
 
-    Subsec. (a)(1), (2). [Pub. L. 110–343, § 512(b)(7)][/us/pl/110/343/s512/b/7], substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
+    Subsec. (a)(1), (2). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 
-    [Pub. L. 110–343, § 512(b)(6)][/us/pl/110/343/s512/b/6], substituted “mental health and substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
+    [Pub. L. 110–343][/us/pl/110/343], § 512(b)(6), substituted “mental health and substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
 
-    Subsec. (a)(3) to (5). [Pub. L. 110–343, § 512(b)(1)][/us/pl/110/343/s512/b/1], added pars. (3) to (5).
+    Subsec. (a)(3) to (5). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(1), added pars. (3) to (5).
 
-    Subsec. (b)(1). [Pub. L. 110–343, § 512(b)(7)][/us/pl/110/343/s512/b/7], substituted “mental health or substance use disorder benefits” for “mental health benefits”.
+    Subsec. (b)(1). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
-    Subsec. (b)(2). [Pub. L. 110–343, § 512(b)(2)][/us/pl/110/343/s512/b/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan or coverage, except as specifically provided in subsection (a) of this section (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
+    Subsec. (b)(2). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan or coverage, except as specifically provided in subsection (a) of this section (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
 
-    Subsec. (c)(1). [Pub. L. 110–343, § 512(b)(3)(A)][/us/pl/110/343/s512/b/3/A], inserted “(as defined in [section 300gg–91(e)(4) of this title][/us/usc/t42/s300gg–91/e/4], except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual)” before period at end.
+    Subsec. (c)(1). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(3)(A), inserted “(as defined in [section 300gg–91(e)(4) of this title][/us/usc/t42/s300gg–91/e/4], except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual)” before period at end.
 
-    Subsec. (c)(2). [Pub. L. 110–343, § 512(b)(3)(B)][/us/pl/110/343/s512/b/3/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent.”
+    Subsec. (c)(2). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent.”
 
-    Subsec. (e)(3). [Pub. L. 110–343, § 512(b)(7)][/us/pl/110/343/s512/b/7], substituted “mental health or substance use disorder benefits” for “mental health benefits”.
+    Subsec. (e)(3). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
-    Subsec. (e)(4). [Pub. L. 110–343, § 512(b)(7)][/us/pl/110/343/s512/b/7], which directed substitution of “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in this section (other than in any provision amended by [section 512(b)(6) of Pub. L. 110–343][/us/pl/110/343/s512/b/6]), was not executed to par. (4) as added by [Pub. L. 110–343, § 512(b)(4)][/us/pl/110/343/s512/b/4], to reflect the probable intent of Congress. See below.
+    Subsec. (e)(4). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(7), which directed substitution of “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in this section (other than in any provision amended by [section 512(b)(6) of Pub. L. 110–343][/us/pl/110/343/s512/b/6]), was not executed to par. (4) as added by [Pub. L. 110–343][/us/pl/110/343], § 512(b)(4), to reflect the probable intent of Congress. See below.
 
-    [Pub. L. 110–343, § 512(b)(4)][/us/pl/110/343/s512/b/4], added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘mental health benefits’ means benefits with respect to mental health services, as defined under the terms of the plan or coverage (as the case may be), but does not include benefits with respect to treatment of substance abuse or chemical dependency.”
+    [Pub. L. 110–343][/us/pl/110/343], § 512(b)(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘mental health benefits’ means benefits with respect to mental health services, as defined under the terms of the plan or coverage (as the case may be), but does not include benefits with respect to treatment of substance abuse or chemical dependency.”
 
-    Subsec. (e)(5). [Pub. L. 110–343, § 512(b)(4)][/us/pl/110/343/s512/b/4], added par. (5).
+    Subsec. (e)(5). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(4), added par. (5).
 
-    Subsec. (f). [Pub. L. 110–343, § 512(b)(5)][/us/pl/110/343/s512/b/5], struck out subsec. (f). Text read as follows: “This section shall not apply to benefits for services furnished—
+    Subsec. (f). [Pub. L. 110–343][/us/pl/110/343], § 512(b)(5), struck out subsec. (f). Text read as follows: “This section shall not apply to benefits for services furnished—
 
     “(1) on or after January 1, 2008, and before June 17, 2008, and
 
@@ -243,7 +243,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. C, title V, § 512(e)][/us/pl/110/343/s512/e], Oct. 3, 2008, [122 Stat. 3891][/us/stat/122/3891], as amended by [Pub. L. 110–460, § 1][/us/pl/110/460/s1], Dec. 23, 2008, [122 Stat. 5123][/us/stat/122/5123], provided that:
+[Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 512(e), Oct. 3, 2008, [122 Stat. 3891][/us/stat/122/3891], as amended by [Pub. L. 110–460][/us/pl/110/460], § 1, Dec. 23, 2008, [122 Stat. 5123][/us/stat/122/5123], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -261,19 +261,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–204, title VII, § 703(b)][/us/pl/104/204/s703/b], Sept. 26, 1996, [110 Stat. 2950][/us/stat/110/2950], provided that: 
+[Pub. L. 104–204, title VII][/us/pl/104/204/tVII], § 703(b), Sept. 26, 1996, [110 Stat. 2950][/us/stat/110/2950], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
  __Regulations__ 
 
-[Pub. L. 110–343, div. C, title V, § 512(d)][/us/pl/110/343/s512/d], Oct. 3, 2008, [122 Stat. 3891][/us/stat/122/3891], provided that: 
+[Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 512(d), Oct. 3, 2008, [122 Stat. 3891][/us/stat/122/3891], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Oct. 3, 2008\], the Secretaries of Labor, Health and Human Services, and the Treasury shall issue regulations to carry out the amendments made by subsections (a), (b), and (c) \[amending this section, [section 9812 of Title 26][/us/usc/t26/s9812], Internal Revenue Code, and [section 1185a of Title 29][/us/usc/t29/s1185a], Labor\], respectively.”
 
  __Assuring Coordination__ 
 
-[Pub. L. 110–343, div. C, title V, § 512(f)][/us/pl/110/343/s512/f], Oct. 3, 2008, [122 Stat. 3892][/us/stat/122/3892], provided that: 
+[Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 512(f), Oct. 3, 2008, [122 Stat. 3892][/us/stat/122/3892], provided that: 
 
 > “The Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury may ensure, through the execution or revision of an interagency memorandum of understanding among such Secretaries, that—
 
@@ -290,50 +290,50 @@
 
 [/us/usc/t42/s300gg–91/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fe%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/204/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs703%2Fa
+[/us/pl/104/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVII
 [/us/stat/110/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2947
-[/us/pl/107/116/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs701%2Fb
+[/us/pl/107/116/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtVII
 [/us/stat/115/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2228
-[/us/pl/107/313/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F313%2Fs2%2Fb
+[/us/pl/107/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F313
 [/us/stat/116/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2457
-[/us/pl/108/197/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F197%2Fs2%2Fb
+[/us/pl/108/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F197
 [/us/stat/117/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2898
-[/us/pl/108/311/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs302%2Fc
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1179
-[/us/pl/109/151/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F151%2Fs1%2Fb
+[/us/pl/109/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F151
 [/us/stat/119/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2886
-[/us/pl/109/432/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs115%2Fc
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2941
-[/us/pl/110/245/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs401%2Fc
+[/us/pl/110/245/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtIV
 [/us/stat/122/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1650
-[/us/pl/110/343/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3885
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%935
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s1563/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F4%2FA
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F4%2FC%2Fi
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F4%2FC%2Fii
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/110/343/s512/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fg%2F2
-[/us/pl/110/343/s512/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F7
-[/us/pl/110/343/s512/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F6
-[/us/pl/110/343/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F1
-[/us/pl/110/343/s512/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F7
-[/us/pl/110/343/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F2
-[/us/pl/110/343/s512/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F3%2FA
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/usc/t42/s300gg–91/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fe%2F4
-[/us/pl/110/343/s512/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F3%2FB
-[/us/pl/110/343/s512/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F7
-[/us/pl/110/343/s512/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F7
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/343/s512/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F6
-[/us/pl/110/343/s512/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F4
-[/us/pl/110/343/s512/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F4
-[/us/pl/110/343/s512/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F4
-[/us/pl/110/343/s512/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fb%2F5
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F151
@@ -341,21 +341,21 @@
 [/us/pl/108/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F197
 [/us/pl/107/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F313
 [/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
-[/us/pl/110/343/s512/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fe
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3891
-[/us/pl/110/460/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F460%2Fs1
+[/us/pl/110/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F460
 [/us/stat/122/5123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5123
 [/us/usc/t26/s9812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9812
 [/us/usc/t29/s1185a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185a
 [/us/usc/t26/s9812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9812
 [/us/usc/t29/s1185a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185a
-[/us/pl/104/204/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs703%2Fb
+[/us/pl/104/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVII
 [/us/stat/110/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2950
-[/us/pl/110/343/s512/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Fd
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3891
 [/us/usc/t26/s9812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9812
 [/us/usc/t29/s1185a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185a
-[/us/pl/110/343/s512/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs512%2Ff
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3892
 [/us/usc/t26/s9812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9812
 [/us/usc/t29/s1185a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185a

@@ -125,15 +125,15 @@
 
         (2) The Secretary may take such action, consistent with State law respecting foreclosure procedures, as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this part or under subchapter IV of this chapter, including selling real property pledged as security for such a loan or loan guarantee and for a reasonable period of time taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1602, formerly § 1622, as added [Pub. L. 93–641, § 4][/us/pl/93/641/s4], Jan. 4, 1975, [88 Stat. 2265][/us/stat/88/2265]; amended [Pub. L. 95–83, title I, § 106(x)(2)][/us/pl/95/83/s106/x/2], (y), Aug. 1, 1977, [91 Stat. 385][/us/stat/91/385]; renumbered § 1602 and amended [Pub. L. 96–79, title II][/us/pl/96/79], §§ 201(b)(2), (3), 203(a)(1), (3), (g), Oct. 4, 1979, [93 Stat. 631][/us/stat/93/631], 635; [Pub. L. 97–414, § 8(q)][/us/pl/97/414/s8/q], Jan. 4, 1983, [96 Stat. 2062][/us/stat/96/2062]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1602, formerly § 1622, as added [Pub. L. 93–641][/us/pl/93/641], § 4, Jan. 4, 1975, [88 Stat. 2265][/us/stat/88/2265]; amended [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 106(x)(2), (y), Aug. 1, 1977, [91 Stat. 385][/us/stat/91/385]; renumbered § 1602 and amended [Pub. L. 96–79, title II][/us/pl/96/79/tII], §§ 201(b)(2), (3), 203(a)(1), (3), (g), Oct. 4, 1979, [93 Stat. 631][/us/stat/93/631], 635; [Pub. L. 97–414][/us/pl/97/414], § 8(q), Jan. 4, 1983, [96 Stat. 2062][/us/stat/96/2062]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Codification__ 
 
-    In subsec. (d), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act” and “that Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act” and “that Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Prior Provisions__ 
 
-    A prior section 1602 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, as added Jan. 4, 1975, [Pub. L. 93–641, § 4][/us/pl/93/641/s4], [88 Stat. 2258][/us/stat/88/2258]; amended Aug. 1, 1977, [Pub. L. 95–83, title I, § 106(r)][/us/pl/95/83/s106/r], (s), [91 Stat. 385][/us/stat/91/385], was classified to section 300o–1 of this title, prior to repeal by [Pub. L. 96–79, title II, § 202(a)][/us/pl/96/79/s202/a], Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].
+    A prior section 1602 of [act July 1, 1944, ch. 373, title XVI][/us/act/1944-07-01/ch373/tXVI], as added Jan. 4, 1975, [Pub. L. 93–641][/us/pl/93/641], § 4, [88 Stat. 2258][/us/stat/88/2258]; amended Aug. 1, 1977, [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 106(r), (s), [91 Stat. 385][/us/stat/91/385], was classified to section 300o–1 of this title, prior to repeal by [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 202(a), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].
 
  __Amendments__ 
 
@@ -141,19 +141,19 @@
 
     1983—Subsec. (f)(2). [Pub. L. 97–414][/us/pl/97/414] inserted “selling real property pledged as security for such a loan or loan guarantee and” after “including”.
 
-    1979—Subsec. (b)(2)(D). [Pub. L. 96–79, § 201(b)(2)][/us/pl/96/79/s201/b/2], substituted “minus any interest subsidy made in accordance with [section 300q(a)(2)(B) of this title][/us/usc/t42/s300q/a/2/B] (with respect to a loan made for a project located in an urban or rural poverty area” for “minus 3 per centum per annum”.
+    1979—Subsec. (b)(2)(D). [Pub. L. 96–79][/us/pl/96/79], § 201(b)(2), substituted “minus any interest subsidy made in accordance with [section 300q(a)(2)(B) of this title][/us/usc/t42/s300q/a/2/B] (with respect to a loan made for a project located in an urban or rural poverty area” for “minus 3 per centum per annum”.
 
-    Subsec. (d)(1). [Pub. L. 96–79, § 203(a)(3)][/us/pl/96/79/s203/a/3], (g)(2), substituted in subpar. (C) reference to section “300q(a)(2)(B)” for “300q(b)(2)” of this title, and added subpar. (F).
+    Subsec. (d)(1). [Pub. L. 96–79][/us/pl/96/79], § 203(a)(3), (g)(2), substituted in subpar. (C) reference to section “300q(a)(2)(B)” for “300q(b)(2)” of this title, and added subpar. (F).
 
-    Subsec. (d)(2). [Pub. L. 96–79, § 203(a)(3)][/us/pl/96/79/s203/a/3], (g)(3), substituted in subpar. (A) reference to section “300q(a)(2)(B)” for “300q(b)(2)” of this title, and added subpar. (F).
+    Subsec. (d)(2). [Pub. L. 96–79][/us/pl/96/79], § 203(a)(3), (g)(3), substituted in subpar. (A) reference to section “300q(a)(2)(B)” for “300q(b)(2)” of this title, and added subpar. (F).
 
-    Subsec. (e)(2). [Pub. L. 96–79, § 201(b)(3)][/us/pl/96/79/s201/b/3], authorized appropriations for fiscal years ending Sept. 30, 1979 through 1982.
+    Subsec. (e)(2). [Pub. L. 96–79][/us/pl/96/79], § 201(b)(3), authorized appropriations for fiscal years ending Sept. 30, 1979 through 1982.
 
-    Subsec. (f). [Pub. L. 96–79, § 203(g)(1)][/us/pl/96/79/s203/g/1], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–79][/us/pl/96/79], § 203(g)(1), added subsec. (f).
 
-    1977—Subsec. (c)(5). [Pub. L. 95–83, § 106(y)][/us/pl/95/83/s106/y], added subsec. (c)(5).
+    1977—Subsec. (c)(5). [Pub. L. 95–83][/us/pl/95/83], § 106(y), added subsec. (c)(5).
 
-    Subsec. (e)(2). [Pub. L. 95–83, § 106(x)(2)][/us/pl/95/83/s106/x/2], substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year ending June 30, 1977.
+    Subsec. (e)(2). [Pub. L. 95–83][/us/pl/95/83], § 106(x)(2), substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year ending June 30, 1977.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -172,35 +172,35 @@
 [/us/usc/t42/s300q/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q%2Fa%2F2%2FB
 [/us/usc/t42/s291j–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%936
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2265
-[/us/pl/95/83/s106/x/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs106%2Fx%2F2
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F385
-[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F631
-[/us/pl/97/414/s8/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fq
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2062
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/act/1944-07-01/ch373/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXVI
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2258
-[/us/pl/95/83/s106/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs106%2Fr
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F385
-[/us/pl/96/79/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fa
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
-[/us/pl/96/79/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs201%2Fb%2F2
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/usc/t42/s300q/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q%2Fa%2F2%2FB
-[/us/pl/96/79/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Fa%2F3
-[/us/pl/96/79/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Fa%2F3
-[/us/pl/96/79/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs201%2Fb%2F3
-[/us/pl/96/79/s203/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Fg%2F1
-[/us/pl/95/83/s106/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs106%2Fy
-[/us/pl/95/83/s106/x/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs106%2Fx%2F2
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
+[/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/pl/96/79/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs204
 [/us/usc/t42/s300q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q

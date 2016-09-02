@@ -71,15 +71,15 @@
 
         The Director, in carrying out this subchapter, may accept voluntary and uncompensated services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 946, formerly § 926, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1668][/us/stat/113/1668]; renumbered § 936, [Pub. L. 109–41, § 2(a)(3)][/us/pl/109/41/s2/a/3], July 29, 2005, [119 Stat. 424][/us/stat/119/424]; renumbered § 946, [Pub. L. 111–148, title III, § 3013(a)(2)][/us/pl/111/148/s3013/a/2], Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 946, formerly § 926, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1668][/us/stat/113/1668]; renumbered § 936, [Pub. L. 109–41][/us/pl/109/41], § 2(a)(3), July 29, 2005, [119 Stat. 424][/us/stat/119/424]; renumbered § 946, [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3013(a)(2), Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
 
  __Codification__ 
 
-    In subsec. (b)(1), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b)(1), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Prior Provisions__ 
 
-    A prior section 299c–5, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 926, as added [Pub. L. 101–239, title VI, § 6103(c)][/us/pl/101/239/s6103/c], Dec. 19, 1989, [103 Stat. 2204][/us/stat/103/2204]; amended [Pub. L. 101–381, title I, § 102(7)][/us/pl/101/381/s102/7], Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; [Pub. L. 102–410, § 10][/us/pl/102/410/s10], Oct. 13, 1992, [106 Stat. 2101][/us/stat/106/2101]; [Pub. L. 103–43, title XX, § 2010(b)(8)][/us/pl/103/43/s2010/b/8], June 10, 1993, [107 Stat. 214][/us/stat/107/214], authorized appropriations to carry out this subchapter, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–6 of this title][/us/usc/t42/s299c–6].
+    A prior section 299c–5, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 926, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(c), Dec. 19, 1989, [103 Stat. 2204][/us/stat/103/2204]; amended [Pub. L. 101–381, title I][/us/pl/101/381/tI], § 102(7), Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; [Pub. L. 102–410][/us/pl/102/410], § 10, Oct. 13, 1992, [106 Stat. 2101][/us/stat/106/2101]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2010(b)(8), June 10, 1993, [107 Stat. 214][/us/stat/107/214], authorized appropriations to carry out this subchapter, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–6 of this title][/us/usc/t42/s299c–6].
 
 ----------
 
@@ -92,24 +92,24 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1668
-[/us/pl/109/41/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F3
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
-[/us/pl/111/148/s3013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3013%2Fa%2F2
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F381
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fc
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2204
-[/us/pl/101/381/s102/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs102%2F7
+[/us/pl/101/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtI
 [/us/stat/104/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F586
-[/us/pl/102/410/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs10
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2101
-[/us/pl/103/43/s2010/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fb%2F8
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F214
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/usc/t42/s299c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%936

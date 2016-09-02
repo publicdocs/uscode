@@ -31,7 +31,7 @@
 
         There is authorized to be appropriated for the cost of activities required under subsections (b) and (c) $2,500,000 for fiscal year 2009 and $900,000 for each of fiscal years 2010 through 2013.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 36, as added [Pub. L. 110–289, div. B, title VIII, § 2835(d)][/us/pl/110/289/s2835/d], July 30, 2008, [122 Stat. 2874][/us/stat/122/2874].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 36, as added [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2835(d), July 30, 2008, [122 Stat. 2874][/us/stat/122/2874].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/110/289/s2835/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2835%2Fd
+[/us/pl/110/289/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVIII
 [/us/stat/122/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2874
 
 

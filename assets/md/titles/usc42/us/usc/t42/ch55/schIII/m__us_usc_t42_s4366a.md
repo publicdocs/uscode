@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 101–617, § 4][/us/pl/101/617/s4], Nov. 16, 1990, [104 Stat. 3287][/us/stat/104/3287], which related to development of data base of environmental research articles indexed by geographic location, expired 10 years after Nov. 16, 1990, pursuant to [section 6 of Pub. L. 101–617][/us/pl/101/617/s6], formerly set out as a Termination Date note under this section.
+    Section, [Pub. L. 101–617][/us/pl/101/617], § 4, Nov. 16, 1990, [104 Stat. 3287][/us/stat/104/3287], which related to development of data base of environmental research articles indexed by geographic location, expired 10 years after Nov. 16, 1990, pursuant to [section 6 of Pub. L. 101–617][/us/pl/101/617/s6], formerly set out as a Termination Date note under this section.
 
  __Termination Date__ 
 
-    [Pub. L. 101–617, § 6][/us/pl/101/617/s6], Nov. 16, 1990, [104 Stat. 3287][/us/stat/104/3287], provided that [Pub. L. 101–617][/us/pl/101/617], which enacted this section and provisions formerly set out under this section, was to expire 10 years after Nov. 16, 1990.
+    [Pub. L. 101–617][/us/pl/101/617], § 6, Nov. 16, 1990, [104 Stat. 3287][/us/stat/104/3287], provided that [Pub. L. 101–617][/us/pl/101/617], which enacted this section and provisions formerly set out under this section, was to expire 10 years after Nov. 16, 1990.
 
  __Short Title; Findings; Purpose; Authorization__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/101/617/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F617%2Fs4
+[/us/pl/101/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F617
 [/us/stat/104/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3287
 [/us/pl/101/617/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F617%2Fs6
-[/us/pl/101/617/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F617%2Fs6
+[/us/pl/101/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F617
 [/us/stat/104/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3287
 [/us/pl/101/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F617
 [/us/pl/101/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F617

@@ -29,7 +29,7 @@
 
         Not later than 2 years after December 18, 2014, the Secretary of Health and Human Services shall submit to Congress a report that includes a description of any activities that are being carried out by agencies within the Department of Health and Human Services, including the Centers for Disease Control and Prevention and the National Institutes of Health, related to stillbirth, sudden unexpected infant death, and sudden unexplained death in childhood, including those activities identified under subsection (a).
 
-([Pub. L. 113–236, § 2][/us/pl/113/236/s2], Dec. 18, 2014, [128 Stat. 2831][/us/stat/128/2831].)
+([Pub. L. 113–236][/us/pl/113/236], § 2, Dec. 18, 2014, [128 Stat. 2831][/us/stat/128/2831].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/113/236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F236%2Fs2
+[/us/pl/113/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F236
 [/us/stat/128/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2831
 
 

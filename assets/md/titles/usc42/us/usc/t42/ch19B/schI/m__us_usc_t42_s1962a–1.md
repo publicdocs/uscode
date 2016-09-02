@@ -21,7 +21,7 @@
 
     (b) maintain a continuing study of the relation of regional or river basin plans and programs to the requirements of larger regions of the Nation and of the adequacy of administrative and statutory means for the coordination of the water and related land resources policies and programs of the several Federal agencies; it shall appraise the adequacy of existing and proposed policies and programs to meet such requirements; and it shall make recommendations to the President with respect to Federal policies and programs.
 
-([Pub. L. 89–80, title I, § 102][/us/pl/89/80/s102], July 22, 1965, [79 Stat. 245][/us/stat/79/245].)
+([Pub. L. 89–80, title I][/us/pl/89/80/tI], § 102, July 22, 1965, [79 Stat. 245][/us/stat/79/245].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs102
+[/us/pl/89/80/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtI
 [/us/stat/79/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F245
 
 

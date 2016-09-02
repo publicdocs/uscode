@@ -65,7 +65,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
-([Pub. L. 89–73, title IV, § 411][/us/pl/89/73/s411], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2257][/us/stat/114/2257]; amended [Pub. L. 109–365, title IV, § 402][/us/pl/109/365/s402], Oct. 17, 2006, [120 Stat. 2552][/us/stat/120/2552].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 411, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2257][/us/stat/114/2257]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 402, Oct. 17, 2006, [120 Stat. 2552][/us/stat/120/2552].)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 3032, [Pub. L. 89–73, title IV, § 412][/us/pl/89/73/s412], as added [Pub. L. 97–115, § 11(a)][/us/pl/97/115/s11/a], Dec. 29, 1981, [95 Stat. 1601][/us/stat/95/1601]; amended [Pub. L. 98–459, title IV, § 404][/us/pl/98/459/s404], Oct. 9, 1984, [98 Stat. 1782][/us/stat/98/1782]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 105(e)(2), 134(c)(4), 146(c), 156(b), Nov. 29, 1987, [101 Stat. 930][/us/stat/101/930], 941, 950, 954; [Pub. L. 102–375, title I, § 102(b)(10)(I)][/us/pl/102/375/s102/b/10/I], title IV, § 405, title IX, § 904(a)(17), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1245, 1308; [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990], related to establishment and support of multidisciplinary centers of gerontology and gerontology centers of special emphasis, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
+    A prior section 3032, [Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 412, as added [Pub. L. 97–115][/us/pl/97/115], § 11(a), Dec. 29, 1981, [95 Stat. 1601][/us/stat/95/1601]; amended [Pub. L. 98–459, title IV][/us/pl/98/459/tIV], § 404, Oct. 9, 1984, [98 Stat. 1782][/us/stat/98/1782]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 105(e)(2), 134(c)(4), 146(c), 156(b), Nov. 29, 1987, [101 Stat. 930][/us/stat/101/930], 941, 950, 954; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(10)(I), title IV, § 405, title IX, § 904(a)(17), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1245, 1308; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990], related to establishment and support of multidisciplinary centers of gerontology and gerontology centers of special emphasis, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
 
-    Another prior section 3032, [Pub. L. 89–73, title IV, § 402][/us/pl/89/73/s402], as added [Pub. L. 93–29, title IV, § 401][/us/pl/93/29/s401], May 3, 1973, [87 Stat. 45][/us/stat/87/45]; amended [Pub. L. 95–478, title I, § 104(a)(2)][/us/pl/95/478/s104/a/2], Oct. 18, 1978, [92 Stat. 1537][/us/stat/92/1537], related to appraisal and assessment of personnel needs of field of aging, prior to the general amendment of this subchapter by [Pub. L. 97–115][/us/pl/97/115].
+    Another prior section 3032, [Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 402, as added [Pub. L. 93–29, title IV][/us/pl/93/29/tIV], § 401, May 3, 1973, [87 Stat. 45][/us/stat/87/45]; amended [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 104(a)(2), Oct. 18, 1978, [92 Stat. 1537][/us/stat/92/1537], related to appraisal and assessment of personnel needs of field of aging, prior to the general amendment of this subchapter by [Pub. L. 97–115][/us/pl/97/115].
 
-Another prior section 3032, [Pub. L. 89–73, title IV, § 402][/us/pl/89/73/s402], July 14, 1965, [79 Stat. 224][/us/stat/79/224], related to payments of grants, providing in: subsec. (a) for contribution by recipients; subsec. (b) adjustments, advances or reimbursement, installments and conditions; and subsec. (c) consultation of Secretary with State agency prior to making grants or contracts, prior to repeal by [Pub. L. 93–29, title IV, § 401][/us/pl/93/29/s401], May 3, 1973, [87 Stat. 45][/us/stat/87/45].
+Another prior section 3032, [Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 402, July 14, 1965, [79 Stat. 224][/us/stat/79/224], related to payments of grants, providing in: subsec. (a) for contribution by recipients; subsec. (b) adjustments, advances or reimbursement, installments and conditions; and subsec. (c) consultation of Secretary with State agency prior to making grants or contracts, prior to repeal by [Pub. L. 93–29, title IV][/us/pl/93/29/tIV], § 401, May 3, 1973, [87 Stat. 45][/us/stat/87/45].
 
     A prior [section 411 of Pub. L. 89–73][/us/pl/89/73/s411] was classified to [section 3031 of this title][/us/usc/t42/s3031], prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
 
@@ -85,9 +85,9 @@ Another prior section 3032, [Pub. L. 89–73, title IV, § 402][/us/pl/89/73/s
 
  __Amendments__ 
 
-    2006—Subsec. (a)(9) to (13). [Pub. L. 109–365, § 402(1)][/us/pl/109/365/s402/1], added pars. (9) to (12) and redesignated former par. (9) as (13).
+    2006—Subsec. (a)(9) to (13). [Pub. L. 109–365][/us/pl/109/365], § 402(1), added pars. (9) to (12) and redesignated former par. (9) as (13).
 
-    Subsec. (b). [Pub. L. 109–365, § 402(2)][/us/pl/109/365/s402/2], substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for subsequent fiscal years”.
+    Subsec. (b). [Pub. L. 109–365][/us/pl/109/365], § 402(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for subsequent fiscal years”.
 
 ----------
 
@@ -98,35 +98,35 @@ Another prior section 3032, [Pub. L. 89–73, title IV, § 402][/us/pl/89/73/s
 
 [/us/usc/t29/s721/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2%2FA%2Fi
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/89/73/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs411
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2257
-[/us/pl/109/365/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs402
+[/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2552
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/89/73/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs412
-[/us/pl/97/115/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs11%2Fa
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1601
-[/us/pl/98/459/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs404
+[/us/pl/98/459/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtIV
 [/us/stat/98/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1782
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F930
-[/us/pl/102/375/s102/b/10/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FI
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1202
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
-[/us/pl/89/73/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs402
-[/us/pl/93/29/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/93/29/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIV
 [/us/stat/87/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F45
-[/us/pl/95/478/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs104%2Fa%2F2
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1537
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
-[/us/pl/89/73/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs402
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
 [/us/stat/79/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F224
-[/us/pl/93/29/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs401
+[/us/pl/93/29/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIV
 [/us/stat/87/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F45
 [/us/pl/89/73/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs411
 [/us/usc/t42/s3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3031
@@ -134,7 +134,7 @@ Another prior section 3032, [Pub. L. 89–73, title IV, § 402][/us/pl/89/73/s
 [/us/pl/89/73/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs411
 [/us/usc/t42/s3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
-[/us/pl/109/365/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs402%2F1
-[/us/pl/109/365/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs402%2F2
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

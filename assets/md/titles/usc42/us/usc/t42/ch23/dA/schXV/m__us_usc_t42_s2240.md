@@ -17,7 +17,7 @@
 
     No report by any licensee of any incident arising out of or in connection with a licensed activity made pursuant to any requirement of the Commission shall be admitted as evidence in any suit or action for damages growing out of any matter mentioned in such report.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 190, as added [Pub. L. 87–206, § 16][/us/pl/87/206/s16], Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 190, as added [Pub. L. 87–206][/us/pl/87/206], § 16, Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
 ----------
 
@@ -27,9 +27,9 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/87/206/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs16
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F479
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 
 

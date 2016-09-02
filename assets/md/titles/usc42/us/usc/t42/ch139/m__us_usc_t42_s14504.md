@@ -29,7 +29,7 @@
 
             For purposes of determining the amount of noneconomic loss allocated to a defendant who is a volunteer under this section, the trier of fact shall determine the percentage of responsibility of that defendant for the claimant’s harm.
 
-([Pub. L. 105–19, § 5][/us/pl/105/19/s5], June 18, 1997, [111 Stat. 221][/us/stat/111/221].)
+([Pub. L. 105–19][/us/pl/105/19], § 5, June 18, 1997, [111 Stat. 221][/us/stat/111/221].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/19/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19%2Fs5
+[/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F221
 
 

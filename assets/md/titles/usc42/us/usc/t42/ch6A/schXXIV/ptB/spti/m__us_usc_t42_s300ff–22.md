@@ -113,7 +113,7 @@
 
         A State may not use amounts received under a grant awarded under [section 300ff–21 of this title][/us/usc/t42/s300ff–21] to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2612, as added [Pub. L. 101–381, title II, § 201][/us/pl/101/381/s201], Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; amended [Pub. L. 104–146, § 3(c)(2)][/us/pl/104/146/s3/c/2], May 20, 1996, [110 Stat. 1354][/us/stat/110/1354]; [Pub. L. 106–345, title II, § 202][/us/pl/106/345/s202], title V, § 503(b), Oct. 20, 2000, [114 Stat. 1330][/us/stat/114/1330], 1355; [Pub. L. 109–415, title II, § 201(a)][/us/pl/109/415/s201/a], title VII, § 703, Dec. 19, 2006, [120 Stat. 2785][/us/stat/120/2785], 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2612, as added [Pub. L. 101–381, title II][/us/pl/101/381/tII], § 201, Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; amended [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2), May 20, 1996, [110 Stat. 1354][/us/stat/110/1354]; [Pub. L. 106–345, title II][/us/pl/106/345/tII], § 202, title V, § 503(b), Oct. 20, 2000, [114 Stat. 1330][/us/stat/114/1330], 1355; [Pub. L. 109–415, title II][/us/pl/109/415/tII], § 201(a), title VII, § 703, Dec. 19, 2006, [120 Stat. 2785][/us/stat/120/2785], 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __References in Text__ 
 
@@ -129,21 +129,21 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    [Pub. L. 109–415, § 201(a)][/us/pl/109/415/s201/a], reenacted section catchline without change and amended text generally, substituting provisions relating to general use of grants, required funding for core medical services, support and early intervention services, priority for women, infants, children, and youth, and prohibition against use of amounts for real property improvement or to make cash payments, for provisions relating to general use of grants, support services and outreach, early intervention services, and establishment of a quality management program in each State.
+    [Pub. L. 109–415][/us/pl/109/415], § 201(a), reenacted section catchline without change and amended text generally, substituting provisions relating to general use of grants, required funding for core medical services, support and early intervention services, priority for women, infants, children, and youth, and prohibition against use of amounts for real property improvement or to make cash payments, for provisions relating to general use of grants, support services and outreach, early intervention services, and establishment of a quality management program in each State.
 
-    2000—[Pub. L. 106–345, § 202(1)][/us/pl/106/345/s202/1], designated existing provisions as subsec. (a) and inserted heading.
+    2000—[Pub. L. 106–345][/us/pl/106/345], § 202(1), designated existing provisions as subsec. (a) and inserted heading.
 
-    Subsec. (a)(1). [Pub. L. 106–345, § 503(b)][/us/pl/106/345/s503/b], made technical amendment to directory language of [Pub. L. 104–146, § 3(c)(2)(A)(iii)][/us/pl/104/146/s3/c/2/A/iii]. See 1996 Amendment note below.
+    Subsec. (a)(1). [Pub. L. 106–345][/us/pl/106/345], § 503(b), made technical amendment to directory language of [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2)(A)(iii). See 1996 Amendment note below.
 
-    Subsec. (b) to (d). [Pub. L. 106–345, § 202(2)][/us/pl/106/345/s202/2], added subsecs. (b) to (d).
+    Subsec. (b) to (d). [Pub. L. 106–345][/us/pl/106/345], § 202(2), added subsecs. (b) to (d).
 
-    1996—[Pub. L. 104–146, § 3(c)(2)(A)][/us/pl/104/146/s3/c/2/A], as amended by [Pub. L. 106–345, § 503(b)][/us/pl/106/345/s503/b], struck out “(a) In general” before “A State may use amounts”, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, substituted “therapeutics to treat HIV disease” for “treatments, that have been determined to prolong life or prevent serious deterioration of health,” in par. (5), and inserted after par. (5) “Services described in paragraph (1) shall be delivered through consortia designed as described in paragraph (2), where such consortia exist, unless the State demonstrates to the Secretary that delivery of such services would be more effective when other delivery mechanisms are used. In making a determination regarding the delivery of services, the State shall consult with appropriate representatives of service providers and recipients of services who would be affected by such determination, and shall include in its demonstration to the Secretary the findings of the State regarding such consultation.”
+    1996—[Pub. L. 104–146][/us/pl/104/146], § 3(c)(2)(A), as amended by [Pub. L. 106–345][/us/pl/106/345], § 503(b), struck out “(a) In general” before “A State may use amounts”, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, substituted “therapeutics to treat HIV disease” for “treatments, that have been determined to prolong life or prevent serious deterioration of health,” in par. (5), and inserted after par. (5) “Services described in paragraph (1) shall be delivered through consortia designed as described in paragraph (2), where such consortia exist, unless the State demonstrates to the Secretary that delivery of such services would be more effective when other delivery mechanisms are used. In making a determination regarding the delivery of services, the State shall consult with appropriate representatives of service providers and recipients of services who would be affected by such determination, and shall include in its demonstration to the Secretary the findings of the State regarding such consultation.”
 
-    Subsec. (b). [Pub. L. 104–146, § 3(c)(2)(B)][/us/pl/104/146/s3/c/2/B], struck out heading and text of subsec. (b). Text read as follows: “A State shall use not less than 15 percent of funds allocated under this part to provide health and support services to infants, children, women, and families with HIV disease.”
+    Subsec. (b). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2)(B), struck out heading and text of subsec. (b). Text read as follows: “A State shall use not less than 15 percent of funds allocated under this part to provide health and support services to infants, children, women, and families with HIV disease.”
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -176,15 +176,15 @@
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs201
+[/us/pl/101/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtII
 [/us/stat/104/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F586
-[/us/pl/104/146/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1354
-[/us/pl/106/345/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs202
+[/us/pl/106/345/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtII
 [/us/stat/114/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1330
-[/us/pl/109/415/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fa
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2785
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -193,17 +193,17 @@
 [/us/usc/t42/s300ff–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9323
 [/us/usc/t42/s238k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238k
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fa
-[/us/pl/106/345/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs202%2F1
-[/us/pl/106/345/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs503%2Fb
-[/us/pl/104/146/s3/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2%2FA%2Fiii
-[/us/pl/106/345/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs202%2F2
-[/us/pl/104/146/s3/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2%2FA
-[/us/pl/106/345/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs503%2Fb
-[/us/pl/104/146/s3/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2%2FB
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

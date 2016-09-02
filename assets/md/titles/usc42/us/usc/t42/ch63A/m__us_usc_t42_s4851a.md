@@ -31,7 +31,7 @@
 
     (7) to educate the public concerning the hazards and sources of lead-based paint poisoning and steps to reduce and eliminate such hazards.
 
-([Pub. L. 102–550, title X, § 1003][/us/pl/102/550/s1003], Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1003, Oct. 28, 1992, [106 Stat. 3897][/us/stat/106/3897].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1003
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897

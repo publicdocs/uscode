@@ -23,7 +23,7 @@
 
         The Council shall develop standards and criteria for economic evaluation of water resource projects. For the purpose of those standards and criteria, the primary direct navigation benefits of a water resource project are defined as the product of the savings to shippers using the waterway and the estimated traffic that would use the waterway. “Savings to shippers” means the difference between (1) the freight rates or charges prevailing at the time of the study for the movement by the alternative means, and (2) those which would be charged on the proposed waterway. Estimated traffic that would use the waterway will be based on those freight rates, taking into account projections of the economic growth of the area.
 
-([Pub. L. 89–80, title I, § 103][/us/pl/89/80/s103], July 22, 1965, [79 Stat. 245][/us/stat/79/245]; [Pub. L. 97–449, § 4(a)][/us/pl/97/449/s4/a], Jan. 12, 1983, [96 Stat. 2441][/us/stat/96/2441].)
+([Pub. L. 89–80, title I][/us/pl/89/80/tI], § 103, July 22, 1965, [79 Stat. 245][/us/stat/79/245]; [Pub. L. 97–449][/us/pl/97/449], § 4(a), Jan. 12, 1983, [96 Stat. 2441][/us/stat/96/2441].)
 
  __Amendments__ 
 
@@ -35,11 +35,11 @@
 
  __Computation of Prices for Agricultural Commodities for Use in Evaluation of Water Resources Development Projects__ 
 
-[Pub. L. 100–460, title VI, § 632][/us/pl/100/460/s632], Oct. 1, 1988, [102 Stat. 2262][/us/stat/102/2262], provided that: 
+[Pub. L. 100–460, title VI][/us/pl/100/460/tVI], § 632, Oct. 1, 1988, [102 Stat. 2262][/us/stat/102/2262], provided that: 
 
 > “Hereafter, none of the funds appropriated in this or any other Act shall be used to alter the method of computing normalized prices for agricultural commodities for use by any Federal agency in evaluating water resources development projects to be undertaken in whole or in part with Federal funds that was in effect as of January 1, 1986.”
 
-    Similar provisions were contained in [Pub. L. 100–202, § 101(k)][/us/pl/100/202/s101/k] \[title VI, § 634\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–357.
+    Similar provisions were contained in [Pub. L. 100–202][/us/pl/100/202], § 101(k) \[title VI, § 634\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–357.
 
 ----------
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/89/80/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs103
+[/us/pl/89/80/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtI
 [/us/stat/79/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F245
-[/us/pl/97/449/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs4%2Fa
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2441
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/usc/t42/s1962a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962a%E2%80%933
-[/us/pl/100/460/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2Fs632
+[/us/pl/100/460/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F460%2FtVI
 [/us/stat/102/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2262
-[/us/pl/100/202/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fk
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-322
 
 

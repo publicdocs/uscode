@@ -57,7 +57,7 @@
 
         For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 2005 through 2009.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377, as added [Pub. L. 101–616, title II, § 206(a)][/us/pl/101/616/s206/a], Nov. 16, 1990, [104 Stat. 3285][/us/stat/104/3285]; amended [Pub. L. 108–216, § 3][/us/pl/108/216/s3], Apr. 5, 2004, [118 Stat. 584][/us/stat/118/584].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377, as added [Pub. L. 101–616, title II][/us/pl/101/616/tII], § 206(a), Nov. 16, 1990, [104 Stat. 3285][/us/stat/104/3285]; amended [Pub. L. 108–216][/us/pl/108/216], § 3, Apr. 5, 2004, [118 Stat. 584][/us/stat/118/584].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t42/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs273
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/616/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs206%2Fa
+[/us/pl/101/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtII
 [/us/stat/104/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3285
-[/us/pl/108/216/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216%2Fs3
+[/us/pl/108/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216
 [/us/stat/118/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F584
 [/us/pl/108/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216
 

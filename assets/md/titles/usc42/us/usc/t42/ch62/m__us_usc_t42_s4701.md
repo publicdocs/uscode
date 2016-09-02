@@ -37,11 +37,11 @@
 
     That Federal financial and technical assistance to State and local governments for strengthening their personnel administration in a manner consistent with these principles is in the national interest.
 
-([Pub. L. 91–648, § 2][/us/pl/91/648/s2], Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909].)
+([Pub. L. 91–648][/us/pl/91/648], § 2, Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909].)
 
  __Short Title__ 
 
-[Pub. L. 91–648, § 1][/us/pl/91/648/s1], Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909], provided: 
+[Pub. L. 91–648][/us/pl/91/648], § 1, Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909], provided: 
 
 > “That this Act \[enacting this chapter and sections 3371 to 3376 of Title 5, Government Organization and Employees, amending [section 246(f) of this title][/us/usc/t42/s246/f], [section 1304 of Title 5][/us/usc/t5/s1304], repealing sections 1881 to 1888 of Title 7, Agriculture, and [section 869b of Title 20][/us/usc/t20/s869b], Education, and enacting provisions set out as notes under [section 3371 of Title 5][/us/usc/t5/s3371]\] may be cited as the ‘Intergovernmental Personnel Act of 1970’.”
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/91/648/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs2
+[/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
 [/us/stat/84/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1909
-[/us/pl/91/648/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs1
+[/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
 [/us/stat/84/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1909
 [/us/usc/t42/s246/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246%2Ff
 [/us/usc/t5/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1304

@@ -43,7 +43,7 @@
 
         After October 21, 1976, the Administrator shall not construct or operate any full-scale facility (except by contract with public agencies or authorities or private persons).
 
-([Pub. L. 89–272, title II, § 8004][/us/pl/89/272/s8004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2836][/us/stat/90/2836]; amended [Pub. L. 95–609, § 7(v)][/us/pl/95/609/s7/v], Nov. 8, 1978, [92 Stat. 3084][/us/stat/92/3084]; [Pub. L. 98–616, title V, § 502(f)][/us/pl/98/616/s502/f], Nov. 8, 1984, [98 Stat. 3276][/us/stat/98/3276].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 8004, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2836][/us/stat/90/2836]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(v), Nov. 8, 1978, [92 Stat. 3084][/us/stat/92/3084]; [Pub. L. 98–616, title V][/us/pl/98/616/tV], § 502(f), Nov. 8, 1984, [98 Stat. 3276][/us/stat/98/3276].)
 
  __Amendments__ 
 
@@ -65,12 +65,12 @@
 [/us/usc/t42/s6981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6981
 [/us/usc/t42/s6907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6907
 [/us/usc/t42/s6981/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6981%2Fc%2F3
-[/us/pl/89/272/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs8004
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2836
-[/us/pl/95/609/s7/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fv
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3084
-[/us/pl/98/616/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs502%2Ff
+[/us/pl/98/616/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtV
 [/us/stat/98/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3276
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609

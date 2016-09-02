@@ -17,7 +17,7 @@
 
     Nothing in this subchapter amends the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-([Pub. L. 114–94, div. D, title XLI, § 41012][/us/pl/114/94/s41012], Dec. 4, 2015, [129 Stat. 1761][/us/stat/129/1761].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41012, Dec. 4, 2015, [129 Stat. 1761][/us/stat/129/1761].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s41012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41012
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1761
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

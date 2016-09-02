@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development may use for the purposes of this subchapter any of the funds or authorizations heretofore or hereafter made available to it.
 
-([June 28, 1940, ch. 440][/us/act/1940-06-28/ch440], title II, § 205, [54 Stat. 683][/us/stat/54/683]; 1947 Reorg. Plan No. 3, § 4(a), eff. July 27, 1947, 12 F.R. 4981, [61 Stat. 955][/us/stat/61/955]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([June 28, 1940, ch. 440][/us/act/1940-06-28/ch440], title II, § 205, [54 Stat. 683][/us/stat/54/683]; 1947 Reorg. Plan No. 3, § 4(a), eff. July 27, 1947, 12 F.R. 4981, [61 Stat. 955][/us/stat/61/955]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __Transfer of Functions__ 
 
@@ -25,7 +25,7 @@
 
  __Provisions Inapplicable to This Subchapter__ 
 
-[Act June 28, 1940, ch. 440][/us/act/1940-06-28/ch440], title II, § 205, [54 Stat. 683][/us/stat/54/683], provided in part: 
+[Act June 28, 1940, ch. 440, title II][/us/act/1940-06-28/ch440/tII], § 205, [54 Stat. 683][/us/stat/54/683], provided in part: 
 
 > “The provisions of title I of this Act shall not apply to this title \[this subchapter\].”
 
@@ -41,10 +41,10 @@
 [/us/act/1940-06-28/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch440
 [/us/stat/54/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F683
 [/us/stat/61/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F955
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1501
-[/us/act/1940-06-28/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch440
+[/us/act/1940-06-28/ch440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch440%2FtII
 [/us/stat/54/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F683
 
 

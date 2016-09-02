@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary to carry out this part $90,000,000 for each of the fiscal years 2008 through 2012, of which $10,000,000 for each fiscal year shall be for carrying out [section 17195 of this title][/us/usc/t42/s17195]. There are also authorized to be appropriated to the Secretary for the Intermountain West Geothermal Consortium $5,000,000 for each of the fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title VI, § 623][/us/pl/110/140/s623], Dec. 19, 2007, [121 Stat. 1684][/us/stat/121/1684].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 623, Dec. 19, 2007, [121 Stat. 1684][/us/stat/121/1684].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s17195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17195
-[/us/pl/110/140/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs623
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1684
 
 

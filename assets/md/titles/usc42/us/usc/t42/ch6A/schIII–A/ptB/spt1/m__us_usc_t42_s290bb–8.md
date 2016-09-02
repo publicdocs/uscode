@@ -51,11 +51,11 @@
 
         There are authorized to be appropriated to carry out this section, $20,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 514A, as added [Pub. L. 106–310, div. B, title XXXI, § 3104(a)][/us/pl/106/310/s3104/a], Oct. 17, 2000, [114 Stat. 1172][/us/stat/114/1172].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 514A, as added [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3104(a), Oct. 17, 2000, [114 Stat. 1172][/us/stat/114/1172].)
 
  __References in Text__ 
 
-    [Section 8801 of title 20][/us/usc/t20/s8801], referred to in subsec. (a), was repealed by [Pub. L. 107–110, title X, § 1011(5)(C)][/us/pl/107/110/s1011/5/C], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]. See [section 7801 of Title 20][/us/usc/t20/s7801], Education.
+    [Section 8801 of title 20][/us/usc/t20/s8801], referred to in subsec. (a), was repealed by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1011(5)(C), Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]. See [section 7801 of Title 20][/us/usc/t20/s7801], Education.
 
 ----------
 
@@ -66,10 +66,10 @@
 
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3104%2Fa
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1172
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
-[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 

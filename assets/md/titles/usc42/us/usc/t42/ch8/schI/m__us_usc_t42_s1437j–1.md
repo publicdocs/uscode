@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437j.md) | [Next](./../../../../..//us/usc/t42/ch8/schI/m__us_usc_t42_s1437k.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437j%E2%80%931)
 
-## § 1437j–1. Repealed. [Pub. L. 105–276, title V, § 582(a)(5)][/us/pl/105/276/s582/a/5], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643]
+## § 1437j–1. Repealed. [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(5), Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643]
 
-    Section, [Pub. L. 97–35, title III, § 329A][/us/pl/97/35/s329A], Aug. 13, 1981, [95 Stat. 409][/us/stat/95/409], related to payment for development managers of projects assisted under this chapter.
+    Section, [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 329A, Aug. 13, 1981, [95 Stat. 409][/us/stat/95/409], related to payment for development managers of projects assisted under this chapter.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/105/276/s582/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F5
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2643
-[/us/pl/97/35/s329A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs329A
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F409
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

@@ -35,11 +35,11 @@
 
         (3) may not include punitive damages.
 
-([Pub. L. 102–166, title III, § 302][/us/pl/102/166/s302], Nov. 21, 1991, [105 Stat. 1088][/us/stat/105/1088]; [Pub. L. 104–1, title V, § 504(a)(1)][/us/pl/104/1/s504/a/1], Jan. 23, 1995, [109 Stat. 40][/us/stat/109/40].)
+([Pub. L. 102–166, title III][/us/pl/102/166/tIII], § 302, Nov. 21, 1991, [105 Stat. 1088][/us/stat/105/1088]; [Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(a)(1), Jan. 23, 1995, [109 Stat. 40][/us/stat/109/40].)
 
  __References in Text__ 
 
-    [Section 1219 of title 2][/us/usc/t2/s1219], referred to in text, was repealed by [Pub. L. 104–331, § 5(a)][/us/pl/104/331/s5/a], Oct. 26, 1996, [110 Stat. 4072][/us/stat/110/4072].
+    [Section 1219 of title 2][/us/usc/t2/s1219], referred to in text, was repealed by [Pub. L. 104–331][/us/pl/104/331], § 5(a), Oct. 26, 1996, [110 Stat. 4072][/us/stat/110/4072].
 
  __Codification__ 
 
@@ -71,12 +71,12 @@
 [/us/usc/t29/s633a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs633a
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t29/s633a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs633a%2Fc
-[/us/pl/102/166/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs302
+[/us/pl/102/166/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtIII
 [/us/stat/105/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1088
-[/us/pl/104/1/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fa%2F1
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F40
 [/us/usc/t2/s1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1219
-[/us/pl/104/331/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs5%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4072
 [/us/usc/t2/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1202
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1

@@ -77,7 +77,7 @@
 
                 Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 1 percent for evaluations of projects carried out under subsection (a). Each such evaluation shall include a determination of whether such projects have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330H, as added [Pub. L. 106–310, div. A, title XV, § 1501][/us/pl/106/310/s1501], Oct. 17, 2000, [114 Stat. 1146][/us/stat/114/1146]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–339, § 2][/us/pl/110/339/s2], Oct. 3, 2008, [122 Stat. 3733][/us/stat/122/3733].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330H, as added [Pub. L. 106–310, div. A, title XV][/us/pl/106/310/dA/tXV], § 1501, Oct. 17, 2000, [114 Stat. 1146][/us/stat/114/1146]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–339][/us/pl/110/339], § 2, Oct. 3, 2008, [122 Stat. 3733][/us/stat/122/3733].)
 
  __References in Text__ 
 
@@ -87,13 +87,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(3). [Pub. L. 110–339, § 2(b)(1)][/us/pl/110/339/s2/b/1], struck out par. (3). Text read as follows: “Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.”
+    2008—Subsec. (a)(3). [Pub. L. 110–339][/us/pl/110/339], § 2(b)(1), struck out par. (3). Text read as follows: “Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.”
 
-    Subsec. (b). [Pub. L. 110–339, § 2(a)][/us/pl/110/339/s2/a], substituted “Considerations in making grants” for “Requirements for making grants” in heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
+    Subsec. (b). [Pub. L. 110–339][/us/pl/110/339], § 2(a), substituted “Considerations in making grants” for “Requirements for making grants” in heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
 
-    Subsec. (e). [Pub. L. 110–339, § 2(b)(2)][/us/pl/110/339/s2/b/2], (c), added subsec. (e) and struck out former subsec. (e) which related to additional services for at-risk pregnant women and infants.
+    Subsec. (e). [Pub. L. 110–339][/us/pl/110/339], § 2(b)(2), (c), added subsec. (e) and struck out former subsec. (e) which related to additional services for at-risk pregnant women and infants.
 
-    Subsec. (f). [Pub. L. 110–339, § 2(b)(2)][/us/pl/110/339/s2/b/2], struck out subsec. (f) which related to funding of program and additional services for at-risk pregnant women and infants.
+    Subsec. (f). [Pub. L. 110–339][/us/pl/110/339], § 2(b)(2), struck out subsec. (f) which related to funding of program and additional services for at-risk pregnant women and infants.
 
     2004—Subsec. (e)(3). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in heading.
 
@@ -109,20 +109,20 @@
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1501
+[/us/pl/106/310/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXV
 [/us/stat/114/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1146
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/339/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339%2Fs2
+[/us/pl/110/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339
 [/us/stat/122/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3733
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/110/339/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339%2Fs2%2Fb%2F1
-[/us/pl/110/339/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339%2Fs2%2Fa
-[/us/pl/110/339/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339%2Fs2%2Fb%2F2
-[/us/pl/110/339/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339%2Fs2%2Fb%2F2
+[/us/pl/110/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339
+[/us/pl/110/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339
+[/us/pl/110/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339
+[/us/pl/110/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F339
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 
 

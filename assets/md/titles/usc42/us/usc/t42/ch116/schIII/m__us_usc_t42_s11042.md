@@ -111,7 +111,7 @@
 
         Notwithstanding any limitatio  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “limitation”. </sup></sup>  contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available to a duly authorized committee of the Congress upon written request by such a committee.
 
-([Pub. L. 99–499, title III, § 322][/us/pl/99/499/s322], Oct. 17, 1986, [100 Stat. 1747][/us/stat/100/1747].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 322, Oct. 17, 1986, [100 Stat. 1747][/us/stat/100/1747].)
 
 ----------
 
@@ -124,7 +124,7 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
 [/us/usc/t42/s11023/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11023%2Fj
-[/us/pl/99/499/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs322
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1747
 
 

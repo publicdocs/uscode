@@ -105,7 +105,7 @@
 
                 (iii) The term “noneconomic losses” means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 248, as added [Pub. L. 106–505, title IV, § 404][/us/pl/106/505/s404], Nov. 13, 2000, [114 Stat. 2338][/us/stat/114/2338].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 248, as added [Pub. L. 106–505, title IV][/us/pl/106/505/tIV], § 404, Nov. 13, 2000, [114 Stat. 2338][/us/stat/114/2338].)
 
  __References in Text__ 
 
@@ -122,7 +122,7 @@
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs404
+[/us/pl/106/505/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtIV
 [/us/stat/114/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2338
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

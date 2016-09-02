@@ -43,7 +43,7 @@
 
         (4) the ICCVAM test recommendation is unacceptable for satisfactorily fulfilling the test needs for that particular agency and its respective congressional mandate.
 
-([Pub. L. 106–545, § 4][/us/pl/106/545/s4], Dec. 19, 2000, [114 Stat. 2723][/us/stat/114/2723].)
+([Pub. L. 106–545][/us/pl/106/545], § 4, Dec. 19, 2000, [114 Stat. 2723][/us/stat/114/2723].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/106/545/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F545%2Fs4
+[/us/pl/106/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F545
 [/us/stat/114/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2723
 
 

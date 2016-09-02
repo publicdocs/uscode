@@ -27,11 +27,11 @@
 
     (5) the administration of radiologic procedures and the effect on individuals of such procedures have a substantial and direct effect upon United States interstate commerce.
 
-([Pub. L. 97–35, title IX, § 976][/us/pl/97/35/s976], Aug. 13, 1981, [95 Stat. 598][/us/stat/95/598].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 976, Aug. 13, 1981, [95 Stat. 598][/us/stat/95/598].)
 
  __Short Title__ 
 
-[Pub. L. 97–35, title IX, § 975][/us/pl/97/35/s975], Aug. 13, 1981, [95 Stat. 598][/us/stat/95/598], provided that: 
+[Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 975, Aug. 13, 1981, [95 Stat. 598][/us/stat/95/598], provided that: 
 
 > “This subtitle \[subtitle I (§§ 975–983) of title IX of [Pub. L. 97–35][/us/pl/97/35], enacting this chapter\] may be cited as the ‘Consumer-Patient Radiation Health and Safety Act of 1981’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs976
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F598
-[/us/pl/97/35/s975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs975
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F598
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 

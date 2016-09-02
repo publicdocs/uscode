@@ -105,7 +105,7 @@
 
         The President may provide not more than 25 percent of the amount of the estimated cost of hazard mitigation measures to a State grantee eligible for a grant under this section before eligible costs are incurred.
 
-([Pub. L. 93–288, title IV, § 404][/us/pl/93/288/s404], as added [Pub. L. 100–707, title I, § 106(a)(3)][/us/pl/100/707/s106/a/3], Nov. 23, 1988, [102 Stat. 4698][/us/stat/102/4698]; amended [Pub. L. 103–181][/us/pl/103/181], §§ 2(a), 3, Dec. 3, 1993, [107 Stat. 2054][/us/stat/107/2054]; [Pub. L. 106–390, title I, § 104(c)(1)][/us/pl/106/390/s104/c/1], title II, § 204, Oct. 30, 2000, [114 Stat. 1559][/us/stat/114/1559], 1561; [Pub. L. 108–7, div. K, title IV, § 417][/us/pl/108/7/s417], Feb. 20, 2003, [117 Stat. 525][/us/stat/117/525]; [Pub. L. 109–295, title VI, § 684][/us/pl/109/295/s684], Oct. 4, 2006, [120 Stat. 1447][/us/stat/120/1447]; [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864]; [Pub. L. 113–2, div. B, § 1104(a)][/us/pl/113/2/s1104/a], (b), Jan. 29, 2013, [127 Stat. 43][/us/stat/127/43].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 404, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(a)(3), Nov. 23, 1988, [102 Stat. 4698][/us/stat/102/4698]; amended [Pub. L. 103–181][/us/pl/103/181], §§ 2(a), 3, Dec. 3, 1993, [107 Stat. 2054][/us/stat/107/2054]; [Pub. L. 106–390, title I][/us/pl/106/390/tI], § 104(c)(1), title II, § 204, Oct. 30, 2000, [114 Stat. 1559][/us/stat/114/1559], 1561; [Pub. L. 108–7, div. K, title IV][/us/pl/108/7/dK/tIV], § 417, Feb. 20, 2003, [117 Stat. 525][/us/stat/117/525]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 684, Oct. 4, 2006, [120 Stat. 1447][/us/stat/120/1447]; [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864]; [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1104(a), (b), Jan. 29, 2013, [127 Stat. 43][/us/stat/127/43].)
 
  __References in Text__ 
 
@@ -121,9 +121,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(2). [Pub. L. 113–2, § 1104(b)][/us/pl/113/2/s1104/b], inserted “Until such time as the Administrator promulgates regulations to implement this paragraph, the Administrator may waive notice and comment rulemaking, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program.” after “applications submitted under paragraph (1).” in introductory provisions.
+    2013—Subsec. (c)(2). [Pub. L. 113–2][/us/pl/113/2], § 1104(b), inserted “Until such time as the Administrator promulgates regulations to implement this paragraph, the Administrator may waive notice and comment rulemaking, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program.” after “applications submitted under paragraph (1).” in introductory provisions.
 
-    Subsecs. (d), (e). [Pub. L. 113–2, § 1104(a)][/us/pl/113/2/s1104/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 113–2][/us/pl/113/2], § 1104(a), added subsecs. (d) and (e).
 
     2011—Subsec. (b)(1), (2). [Pub. L. 111–351][/us/pl/111/351] substituted “Administrator” for “Director” wherever appearing.
 
@@ -131,15 +131,15 @@
 
     2003—Subsec. (a). [Pub. L. 108–7][/us/pl/108/7] substituted “7.5 percent” for “15 percent”.
 
-    2000—Subsec. (a). [Pub. L. 106–390, § 104(c)(1)][/us/pl/106/390/s104/c/1], substituted “section 5165” for “section 5176” in second sentence and “Subject to [section 5165 of this title][/us/usc/t42/s5165], the total” for “The total” in third sentence.
+    2000—Subsec. (a). [Pub. L. 106–390][/us/pl/106/390], § 104(c)(1), substituted “section 5165” for “section 5176” in second sentence and “Subject to [section 5165 of this title][/us/usc/t42/s5165], the total” for “The total” in third sentence.
 
-    Subsec. (c). [Pub. L. 106–390, § 204][/us/pl/106/390/s204], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–390][/us/pl/106/390], § 204, added subsec. (c).
 
     1993—[Pub. L. 103–181][/us/pl/103/181] designated existing provisions as subsec. (a), inserted heading, substituted “75 percent” for “50 percent” in first sentence, substituted “15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster” for “10 percent of the estimated aggregate amounts of grants to be made under [section 5172 of this title][/us/usc/t42/s5172] with respect to such major disaster” in last sentence, and added subsec. (b).
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–2, div. B, § 1104(c)][/us/pl/113/2/s1104/c], Jan. 29, 2013, [127 Stat. 43][/us/stat/127/43], provided that: 
+[Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1104(c), Jan. 29, 2013, [127 Stat. 43][/us/stat/127/43], provided that: 
 
 > “The authority under the amendments made by this section \[amending this section\] shall apply to—
 
@@ -149,7 +149,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–181, § 2(b)][/us/pl/103/181/s2/b], Dec. 3, 1993, [107 Stat. 2054][/us/stat/107/2054], provided that: 
+[Pub. L. 103–181][/us/pl/103/181], § 2(b), Dec. 3, 1993, [107 Stat. 2054][/us/stat/107/2054], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any major disaster declared by the President pursuant to The \[the\] Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.) on or after June 10, 1993.”
 
@@ -171,20 +171,20 @@
 [/us/usc/t42/s5165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/93/288/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs404
-[/us/pl/100/707/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fa%2F3
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4698
 [/us/pl/103/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F181
 [/us/stat/107/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2054
-[/us/pl/106/390/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs104%2Fc%2F1
+[/us/pl/106/390/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtI
 [/us/stat/114/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1559
-[/us/pl/108/7/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs417
+[/us/pl/108/7/dK/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIV
 [/us/stat/117/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F525
-[/us/pl/109/295/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs684
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1447
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
-[/us/pl/113/2/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1104%2Fa
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F43
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -200,20 +200,20 @@
 [/us/pl/93/288/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs404
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/113/2/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1104%2Fb
-[/us/pl/113/2/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1104%2Fa
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/106/390/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs104%2Fc%2F1
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
 [/us/usc/t42/s5165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165
-[/us/pl/106/390/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs204
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
 [/us/pl/103/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F181
 [/us/usc/t42/s5172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5172
-[/us/pl/113/2/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1104%2Fc
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F43
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/103/181/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F181%2Fs2%2Fb
+[/us/pl/103/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F181
 [/us/stat/107/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2054
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1

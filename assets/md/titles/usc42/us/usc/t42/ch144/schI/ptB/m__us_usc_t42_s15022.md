@@ -115,7 +115,7 @@
 
             Any amount reallotted to a State under this subsection for a fiscal year shall be deemed to be a part of the allotment of the State under subsection (a) of this section for such fiscal year.
 
-([Pub. L. 106–402, title I, § 122][/us/pl/106/402/s122], Oct. 30, 2000, [114 Stat. 1693][/us/stat/114/1693]; [Pub. L. 108–154, § 3(a)][/us/pl/108/154/s3/a], Dec. 3, 2003, [117 Stat. 1934][/us/stat/117/1934].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 122, Oct. 30, 2000, [114 Stat. 1693][/us/stat/114/1693]; [Pub. L. 108–154][/us/pl/108/154], § 3(a), Dec. 3, 2003, [117 Stat. 1934][/us/stat/117/1934].)
 
  __Amendments__ 
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–154, § 3(b)][/us/pl/108/154/s3/b], Dec. 3, 2003, [117 Stat. 1934][/us/stat/117/1934], provided that: 
+[Pub. L. 108–154][/us/pl/108/154], § 3(b), Dec. 3, 2003, [117 Stat. 1934][/us/stat/117/1934], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2003 and apply to allotments beginning in fiscal year 2004.”
 
@@ -146,12 +146,12 @@
 [/us/usc/t42/s15029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15029
 [/us/usc/t42/s15029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15029
 [/us/usc/t42/s15024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15024
-[/us/pl/106/402/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs122
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1693
-[/us/pl/108/154/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs3%2Fa
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
 [/us/stat/117/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1934
 [/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
-[/us/pl/108/154/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs3%2Fb
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
 [/us/stat/117/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1934
 
 

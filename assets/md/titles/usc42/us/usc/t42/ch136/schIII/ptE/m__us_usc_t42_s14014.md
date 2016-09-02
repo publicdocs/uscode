@@ -27,7 +27,7 @@
 
         The Attorney General may use the National Institute of Justice and the Office for Victims of Crime in carrying out this section.
 
-([Pub. L. 103–322, title IV, § 40508][/us/pl/103/322/s40508], Sept. 13, 1994, [108 Stat. 1950][/us/stat/108/1950].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40508, Sept. 13, 1994, [108 Stat. 1950][/us/stat/108/1950].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40508
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1950
 
 

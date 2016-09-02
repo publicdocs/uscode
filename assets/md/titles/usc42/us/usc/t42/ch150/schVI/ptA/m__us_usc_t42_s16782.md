@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 109–155, title VI, § 602][/us/pl/109/155/s602], Dec. 30, 2005, [119 Stat. 2931][/us/stat/119/2931], which related to secondary payload capability, was transferred and is set out as a note under [section 70304 of Title 51][/us/usc/t51/s70304], National and Commercial Space Programs.
+    Section, [Pub. L. 109–155, title VI][/us/pl/109/155/tVI], § 602, Dec. 30, 2005, [119 Stat. 2931][/us/stat/119/2931], which related to secondary payload capability, was transferred and is set out as a note under [section 70304 of Title 51][/us/usc/t51/s70304], National and Commercial Space Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/155/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs602
+[/us/pl/109/155/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtVI
 [/us/stat/119/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2931
 [/us/usc/t51/s70304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70304
 

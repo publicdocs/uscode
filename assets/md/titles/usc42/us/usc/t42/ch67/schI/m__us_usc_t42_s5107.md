@@ -25,7 +25,7 @@
 
     (b) There is authorized to be appropriated to carry out this section $12,000,000 for each of the fiscal years 1982 and 1983. Of the amounts appropriated under this subsection for any fiscal year, not less than $2,000,000 shall be available to carry out title II of the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978 \[[42 U.S.C. 5111][/us/usc/t42/s5111] et seq.\].
 
-([Pub. L. 97–35, title VI, § 610][/us/pl/97/35/s610], Aug. 13, 1981, [95 Stat. 488][/us/stat/95/488].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 610, Aug. 13, 1981, [95 Stat. 488][/us/stat/95/488].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s5101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101%2Fa
 [/us/usc/t42/s5101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101%2Fb
 [/us/usc/t42/s5111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5111
-[/us/pl/97/35/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs610
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F488
 [/us/pl/95/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266
 [/us/stat/92/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F205

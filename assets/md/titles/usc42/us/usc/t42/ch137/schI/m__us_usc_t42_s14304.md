@@ -63,7 +63,7 @@
 
         when such chemical contents make the sale, offering for sale, or offering for promotional purposes of such battery unlawful under subchapter III of this chapter.
 
-([Pub. L. 104–142, § 5][/us/pl/104/142/s5], May 13, 1996, [110 Stat. 1331][/us/stat/110/1331].)
+([Pub. L. 104–142][/us/pl/104/142], § 5, May 13, 1996, [110 Stat. 1331][/us/stat/110/1331].)
 
 ----------
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t42/s14323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14323
-[/us/pl/104/142/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs5
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1331
 
 

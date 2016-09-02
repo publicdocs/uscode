@@ -37,7 +37,7 @@
 
         As a part of the first report to be submitted pursuant to [section 8262a of this title][/us/usc/t42/s8262a], the Administrator shall set forth the schedule for the regional energy management workshops to be conducted under this section. Not less than five such workshops shall be held by September 30, 1993, and at least one such workshop shall be held in each of the 10 Federal regions every two years beginning on September 30, 1993.
 
-([Pub. L. 102–486, title I, § 156][/us/pl/102/486/s156], Oct. 24, 1992, [106 Stat. 2855][/us/stat/106/2855].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 156, Oct. 24, 1992, [106 Stat. 2855][/us/stat/106/2855].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s8262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262a
-[/us/pl/102/486/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs156
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2855
 
 

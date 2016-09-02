@@ -161,7 +161,7 @@
 
             The Trust may make assistance payments under subparagraphs (A) and (B) of paragraph (3) with respect to a single mortgage of a homebuyer.
 
-([Pub. L. 101–625, title III, § 303][/us/pl/101/625/s303], Nov. 28, 1990, [104 Stat. 4130][/us/stat/104/4130]; [Pub. L. 102–550, title I, § 182(c)][/us/pl/102/550/s182/c]–(e), Oct. 28, 1992, [106 Stat. 3737][/us/stat/106/3737], 3738.)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 303, Nov. 28, 1990, [104 Stat. 4130][/us/stat/104/4130]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 182(c)–(e), Oct. 28, 1992, [106 Stat. 3737][/us/stat/106/3737], 3738.)
 
  __References in Text__ 
 
@@ -169,13 +169,13 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a)(3). [Pub. L. 102–550, § 182(c)(2)][/us/pl/102/550/s182/c/2], added par. (3).
+    1992—Subsec. (a)(3). [Pub. L. 102–550][/us/pl/102/550], § 182(c)(2), added par. (3).
 
-    Subsec. (a)(4), (5). [Pub. L. 102–550, § 182(e)][/us/pl/102/550/s182/e], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 102–550][/us/pl/102/550], § 182(e), added pars. (4) and (5).
 
-    Subsec. (b)(1)(D). [Pub. L. 102–550, § 182(d)][/us/pl/102/550/s182/d], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 102–550][/us/pl/102/550], § 182(d), added subpar. (D).
 
-    Subsec. (e). [Pub. L. 102–550, § 182(c)(1)][/us/pl/102/550/s182/c/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 182(c)(1), added subsec. (e).
 
 ----------
 
@@ -188,16 +188,16 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t26/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143
 [/us/usc/t26/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25
-[/us/pl/101/625/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs303
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4130
-[/us/pl/102/550/s182/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs182%2Fc
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3737
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/102/550/s182/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs182%2Fc%2F2
-[/us/pl/102/550/s182/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs182%2Fe
-[/us/pl/102/550/s182/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs182%2Fd
-[/us/pl/102/550/s182/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs182%2Fc%2F1
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

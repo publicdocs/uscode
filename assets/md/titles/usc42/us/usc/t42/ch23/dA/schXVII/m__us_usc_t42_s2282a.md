@@ -51,23 +51,23 @@
 
         (2) For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 234A, as added [Pub. L. 100–408, § 17][/us/pl/100/408/s17], Aug. 20, 1988, [102 Stat. 1081][/us/stat/102/1081]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 106–65, div. C, title XXXI, § 3147(c)][/us/pl/106/65/s3147/c], Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938]; [Pub. L. 109–58, title VI, § 610(a)][/us/pl/109/58/s610/a], (b), Aug. 8, 2005, [119 Stat. 781][/us/stat/119/781].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 234A, as added [Pub. L. 100–408][/us/pl/100/408], § 17, Aug. 20, 1988, [102 Stat. 1081][/us/stat/102/1081]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3147(c), Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 610(a), (b), Aug. 8, 2005, [119 Stat. 781][/us/stat/119/781].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
-    2005—Subsec. (b)(2). [Pub. L. 109–58, § 610(a)][/us/pl/109/58/s610/a], struck out at end “In implementing this section, the Secretary shall determine by rule whether nonprofit educational institutions should receive automatic remission of any penalty under this section.”
+    2005—Subsec. (b)(2). [Pub. L. 109–58][/us/pl/109/58], § 610(a), struck out at end “In implementing this section, the Secretary shall determine by rule whether nonprofit educational institutions should receive automatic remission of any penalty under this section.”
 
-    Subsec. (d). [Pub. L. 109–58, § 610(b)][/us/pl/109/58/s610/b], amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that the provisions of this section would not apply to the University of Chicago for activities associated with Argonne National Laboratory; the University of California for activities associated with Los Alamos National Laboratory, Lawrence Livermore National Laboratory, and Lawrence Berkeley National Laboratory; American Telephone and Telegraph Company and its subsidiaries for activities associated with Sandia National Laboratories; Universities Research Association, Inc. for activities associated with FERMI National Laboratory; Princeton University for activities associated with Princeton Plasma Physics Laboratory; the Associated Universities, Inc. for activities associated with the Brookhaven National Laboratory; and Battelle Memorial Institute for activities associated with Pacific Northwest Laboratory.
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 610(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that the provisions of this section would not apply to the University of Chicago for activities associated with Argonne National Laboratory; the University of California for activities associated with Los Alamos National Laboratory, Lawrence Livermore National Laboratory, and Lawrence Berkeley National Laboratory; American Telephone and Telegraph Company and its subsidiaries for activities associated with Sandia National Laboratories; Universities Research Association, Inc. for activities associated with FERMI National Laboratory; Princeton University for activities associated with Princeton Plasma Physics Laboratory; the Associated Universities, Inc. for activities associated with the Brookhaven National Laboratory; and Battelle Memorial Institute for activities associated with Pacific Northwest Laboratory.
 
     1999—[Pub. L. 106–65][/us/pl/106/65] inserted “safety” before “regulations” in section catchline.
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title VI, § 610(c)][/us/pl/109/58/s610/c], Aug. 8, 2005, [119 Stat. 782][/us/stat/119/782], provided that: 
+[Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 610(c), Aug. 8, 2005, [119 Stat. 782][/us/stat/119/782], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall not apply to any violation of the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.) occurring under a contract entered into before the date of enactment of this section \[Aug. 8, 2005\].”
 
@@ -85,22 +85,22 @@
 [/us/usc/t42/s2210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210%2Fd
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/100/408/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs17
+[/us/pl/100/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408
 [/us/stat/102/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1081
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/106/65/s3147/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3147%2Fc
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F938
-[/us/pl/109/58/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs610%2Fa
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F781
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/109/58/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs610%2Fa
-[/us/pl/109/58/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs610%2Fb
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/109/58/s610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs610%2Fc
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F782
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/100/408/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F408%2Fs20

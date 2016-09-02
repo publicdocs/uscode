@@ -27,7 +27,7 @@
 
         (2) is revised at such times and to such extent as the Secretary may require to reflect changes in circumstances.
 
-([Pub. L. 95–620, title II, § 214][/us/pl/95/620/s214], Nov. 9, 1978, [92 Stat. 3304][/us/stat/92/3304]; [Pub. L. 100–42, § 1(c)(8)][/us/pl/100/42/s1/c/8], May 21, 1987, [101 Stat. 312][/us/stat/101/312].)
+([Pub. L. 95–620, title II][/us/pl/95/620/tII], § 214, Nov. 9, 1978, [92 Stat. 3304][/us/stat/92/3304]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(8), May 21, 1987, [101 Stat. 312][/us/stat/101/312].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/95/620/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs214
+[/us/pl/95/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtII
 [/us/stat/92/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3304
-[/us/pl/100/42/s1/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F8
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F312
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

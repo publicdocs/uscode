@@ -17,7 +17,7 @@
 
     The Secretary shall, not later than January 31 of each year, prepare and transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives an annual report on the social and economic conditions of American Indians, Native Hawaiians, other Native American Pacific Islanders (including American Samoan Natives), and Alaska Natives, together with such recommendations to Congress as the Secretary considers to be appropriate.
 
-([Pub. L. 88–452, title VIII, § 811A][/us/pl/88/452/s811A], as added [Pub. L. 102–375, title VIII, § 822(12)][/us/pl/102/375/s822/12], Sept. 30, 1992, [106 Stat. 1299][/us/stat/106/1299].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 811A, as added [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(12), Sept. 30, 1992, [106 Stat. 1299][/us/stat/106/1299].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/88/452/s811A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs811A
-[/us/pl/102/375/s822/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F12
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1299
 
 

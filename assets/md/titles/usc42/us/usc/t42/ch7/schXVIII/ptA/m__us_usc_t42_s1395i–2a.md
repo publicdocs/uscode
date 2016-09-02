@@ -89,17 +89,17 @@
 
         (2) The provisions of subsections (d) through (f) of [section 1395i–2 of this title][/us/usc/t42/s1395i–2] (relating to premiums) shall apply to individuals enrolled under this section in the same manner as they apply to individuals enrolled under that section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1818A, as added [Pub. L. 101–239, title VI, § 6012(a)(2)][/us/pl/101/239/s6012/a/2], Dec. 19, 1989, [103 Stat. 2161][/us/stat/103/2161]; amended [Pub. L. 101–508, title IV, § 4008(m)(3)(C)][/us/pl/101/508/s4008/m/3/C], Nov. 5, 1990, [104 Stat. 1388–54][/us/stat/104/1388-54].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1818A, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6012(a)(2), Dec. 19, 1989, [103 Stat. 2161][/us/stat/103/2161]; amended [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4008(m)(3)(C), Nov. 5, 1990, [104 Stat. 1388–54][/us/stat/104/1388-54].)
 
  __Amendments__ 
 
-    1990—Subsec. (d)(1)(A). [Pub. L. 101–508, § 4008(m)(3)(C)(i)][/us/pl/101/508/s4008/m/3/C/i], inserted “for enrollment under this section” after “Premiums”.
+    1990—Subsec. (d)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 4008(m)(3)(C)(i), inserted “for enrollment under this section” after “Premiums”.
 
-    Subsec. (d)(1)(C). [Pub. L. 101–508, § 4008(m)(3)(C)(ii)][/us/pl/101/508/s4008/m/3/C/ii], struck out subpar. (C) which read as follows: “For purposes of applying [section 1395r(g) of this title][/us/usc/t42/s1395r/g] and section 59B(f)(1)(B)(i) of the Internal Revenue Code of 1986, any reference to [section 1395i–2 of this title][/us/usc/t42/s1395i–2] shall be deemed to include a reference to this section.”
+    Subsec. (d)(1)(C). [Pub. L. 101–508][/us/pl/101/508], § 4008(m)(3)(C)(ii), struck out subpar. (C) which read as follows: “For purposes of applying [section 1395r(g) of this title][/us/usc/t42/s1395r/g] and section 59B(f)(1)(B)(i) of the Internal Revenue Code of 1986, any reference to [section 1395i–2 of this title][/us/usc/t42/s1395i–2] shall be deemed to include a reference to this section.”
 
  __Effective Date__ 
 
-[Pub. L. 101–239, title VI, § 6012(b)][/us/pl/101/239/s6012/b], Dec. 19, 1989, [103 Stat. 2163][/us/stat/103/2163], provided that: 
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6012(b), Dec. 19, 1989, [103 Stat. 2163][/us/stat/103/2163], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 1395i–2 of this title][/us/usc/t42/s1395i–2]\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not apply so as to provide for coverage under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for any month before July 1990.”
 
@@ -121,15 +121,15 @@
 [/us/usc/t42/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fb
 [/us/usc/t42/s1395i–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/239/s6012/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6012%2Fa%2F2
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2161
-[/us/pl/101/508/s4008/m/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F3%2FC
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-54
-[/us/pl/101/508/s4008/m/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F3%2FC%2Fi
-[/us/pl/101/508/s4008/m/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4008%2Fm%2F3%2FC%2Fii
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s1395r/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fg
 [/us/usc/t42/s1395i–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932
-[/us/pl/101/239/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6012%2Fb
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2163
 [/us/usc/t42/s1395i–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%932
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c

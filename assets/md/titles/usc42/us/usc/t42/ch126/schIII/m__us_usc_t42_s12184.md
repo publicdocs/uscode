@@ -71,7 +71,7 @@
 
                 (ii) embodies, or is being restored to embody, the distinctive characteristics of a type of rail passenger car used in the past, or to represent a time period which has passed.
 
-([Pub. L. 101–336, title III, § 304][/us/pl/101/336/s304], July 26, 1990, [104 Stat. 359][/us/stat/104/359].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 304, July 26, 1990, [104 Stat. 359][/us/stat/104/359].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t42/s12182/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12182%2Fb%2F2%2FA
 [/us/usc/t42/s12183/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12183%2Fa%2F2
 [/us/usc/t42/s12186/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12186%2Fa%2F2
-[/us/pl/101/336/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs304
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F359
 [/us/pl/101/336/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs310
 [/us/usc/t42/s12181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181

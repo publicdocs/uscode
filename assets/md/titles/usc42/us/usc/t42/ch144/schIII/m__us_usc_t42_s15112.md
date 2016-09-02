@@ -29,11 +29,11 @@
 
         The term “Secretary” means the Secretary of Health and Human Services.
 
-([Pub. L. 106–402, title III, § 302][/us/pl/106/402/s302], Oct. 30, 2000, [114 Stat. 1734][/us/stat/114/1734].)
+([Pub. L. 106–402, title III][/us/pl/106/402/tIII], § 302, Oct. 30, 2000, [114 Stat. 1734][/us/stat/114/1734].)
 
  __References in Text__ 
 
-    [Section 1141 of title 20][/us/usc/t20/s1141], referred to in par. (2), was repealed by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in [section 1001 of Title 20][/us/usc/t20/s1001], Education.
+    [Section 1141 of title 20][/us/usc/t20/s1141], referred to in par. (2), was repealed by [Pub. L. 105–244][/us/pl/105/244], § 3, title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in [section 1001 of Title 20][/us/usc/t20/s1001], Education.
 
 ----------
 
@@ -43,10 +43,10 @@
 ----------
 
 [/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
-[/us/pl/106/402/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs302
+[/us/pl/106/402/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIII
 [/us/stat/114/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1734
 [/us/usc/t20/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1141
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 

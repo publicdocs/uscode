@@ -111,7 +111,7 @@
 
             If the Secretary conducts the review under paragraph (1), the Secretary shall, not later than 36 months after April 23, 2008, submit to Congress a report describing the findings of the Secretary in conducting such review.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393D, as added [Pub. L. 110–202, § 2(2)][/us/pl/110/202/s2/2], Apr. 23, 2008, [122 Stat. 697][/us/stat/122/697].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393D, as added [Pub. L. 110–202][/us/pl/110/202], § 2(2), Apr. 23, 2008, [122 Stat. 697][/us/stat/122/697].)
 
 ----------
 
@@ -121,7 +121,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/202/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F202%2Fs2%2F2
+[/us/pl/110/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F202
 [/us/stat/122/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F697
 
 

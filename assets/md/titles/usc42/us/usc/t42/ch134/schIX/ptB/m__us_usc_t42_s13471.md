@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section, including all solar energy programs (other than activities under [section 13431 of this title][/us/usc/t42/s13431]), geothermal systems, electric energy systems, and energy storage systems, $208,975,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
 
-([Pub. L. 102–486, title XXI, § 2111][/us/pl/102/486/s2111], Oct. 24, 1992, [106 Stat. 3072][/us/stat/106/3072].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2111, Oct. 24, 1992, [106 Stat. 3072][/us/stat/106/3072].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s13401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13401%2F3
 [/us/usc/t42/s13382/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13382%2Fa%2F4
 [/us/usc/t42/s13431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13431
-[/us/pl/102/486/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2111
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3072
 
 

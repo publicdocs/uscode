@@ -39,7 +39,7 @@
 
         Special nuclear material, as defined in [section 2014 of this title][/us/usc/t42/s2014], produced in facilities licensed under section 2133 or 2134 of this title may not be transferred, reprocessed, used, or otherwise made available by any instrumentality of the United States or any other person for nuclear explosive purposes.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 57, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 932][/us/stat/68/932]; amended [Pub. L. 88–489, § 12][/us/pl/88/489/s12], Aug. 26, 1964, [78 Stat. 605][/us/stat/78/605]; [Pub. L. 93–377, § 3][/us/pl/93/377/s3], Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; [Pub. L. 95–242, title III, § 302][/us/pl/95/242/s302], Mar. 10, 1978, [92 Stat. 126][/us/stat/92/126]; [Pub. L. 97–415, § 14][/us/pl/97/415/s14], Jan. 4, 1983, [96 Stat. 2075][/us/stat/96/2075]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 105–277, div. G, title XII, § 1225(d)(1)][/us/pl/105/277/s1225/d/1], Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774]; [Pub. L. 108–458, title VI, § 6803(a)][/us/pl/108/458/s6803/a], Dec. 17, 2004, [118 Stat. 3768][/us/stat/118/3768].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 57, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 932][/us/stat/68/932]; amended [Pub. L. 88–489][/us/pl/88/489], § 12, Aug. 26, 1964, [78 Stat. 605][/us/stat/78/605]; [Pub. L. 93–377][/us/pl/93/377], § 3, Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; [Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 302, Mar. 10, 1978, [92 Stat. 126][/us/stat/92/126]; [Pub. L. 97–415][/us/pl/97/415], § 14, Jan. 4, 1983, [96 Stat. 2075][/us/stat/96/2075]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(d)(1), Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6803(a), Dec. 17, 2004, [118 Stat. 3768][/us/stat/118/3768].)
 
  __Prior Provisions__ 
 
@@ -87,21 +87,21 @@
 [/us/usc/t42/s2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2073
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F932
-[/us/pl/88/489/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs12
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/stat/78/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F605
-[/us/pl/93/377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377%2Fs3
+[/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/stat/88/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F475
-[/us/pl/95/242/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs302
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F126
-[/us/pl/97/415/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs14
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2075
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/105/277/s1225/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F1
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-774
-[/us/pl/108/458/s6803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3768
 [/us/usc/t42/s1805/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805%2Fa%2F3
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

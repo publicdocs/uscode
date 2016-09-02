@@ -35,7 +35,7 @@
 
         (2) such sums as are necessary for each of fiscal years 2013 through 2022.
 
-([Pub. L. 110–140, title VIII, § 807][/us/pl/110/140/s807], Dec. 19, 2007, [121 Stat. 1723][/us/stat/121/1723].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 807, Dec. 19, 2007, [121 Stat. 1723][/us/stat/121/1723].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs807
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1723
 
 

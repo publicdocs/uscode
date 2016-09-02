@@ -61,7 +61,7 @@
 
         Subject to [section 11042 of this title][/us/usc/t42/s11042], the Administrator shall make data collected under this section publicly available in the same manner as the data collected under [section 11023 of this title][/us/usc/t42/s11023].
 
-([Pub. L. 101–508, title VI, § 6607][/us/pl/101/508/s6607], Nov. 5, 1990, [104 Stat. 1388–324][/us/stat/104/1388-324].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6607, Nov. 5, 1990, [104 Stat. 1388–324][/us/stat/104/1388-324].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 [/us/usc/t42/s11023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11023
 [/us/usc/t42/s11042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11042
 [/us/usc/t42/s11023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11023
-[/us/pl/101/508/s6607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6607
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-324
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613

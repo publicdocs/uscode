@@ -37,19 +37,19 @@
 
         The purpose of this subchapter is to reduce the adverse effects of acid deposition through reductions in annual emissions of sulfur dioxide of ten million tons from 1980 emission levels, and, in combination with other provisions of this chapter, of nitrogen oxides emissions of approximately two million tons from 1980 emission levels, in the forty-eight contiguous States and the District of Columbia. It is the intent of this subchapter to effectuate such reductions by requiring compliance by affected sources with prescribed emission limitations by specified deadlines, which limitations may be met through alternative methods of compliance provided by an emission allocation and transfer system. It is also the purpose of this subchapter to encourage energy conservation, use of renewable and clean alternative technologies, and pollution prevention as a long-range strategy, consistent with the provisions of this subchapter, for reducing air pollution and other adverse impacts of energy production and use.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 401, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2584][/us/stat/104/2584].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 401, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2584][/us/stat/104/2584].)
 
  __Codification__ 
 
-    Another section 401 of act July 14, 1955, as added by [Pub. L. 91–604, § 14][/us/pl/91/604/s14], Dec. 31, 1970, [84 Stat. 1709][/us/stat/84/1709], is set out as a Short Title note under [section 7401 of this title][/us/usc/t42/s7401].
+    Another section 401 of act July 14, 1955, as added by [Pub. L. 91–604][/us/pl/91/604], § 14, Dec. 31, 1970, [84 Stat. 1709][/us/stat/84/1709], is set out as a Short Title note under [section 7401 of this title][/us/usc/t42/s7401].
 
  __Acid Deposition Standards__ 
 
-    [Pub. L. 101–549, title IV, § 404][/us/pl/101/549/s404], Nov. 15, 1990, [104 Stat. 2632][/us/stat/104/2632], directed Administrator of Environmental Protection Agency, not later than 36 months after Nov. 15, 1990, to transmit to Congress a report on the feasibility and effectiveness of an acid deposition standard or standards to protect sensitive and critically sensitive aquatic and terrestrial resources.
+    [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 404, Nov. 15, 1990, [104 Stat. 2632][/us/stat/104/2632], directed Administrator of Environmental Protection Agency, not later than 36 months after Nov. 15, 1990, to transmit to Congress a report on the feasibility and effectiveness of an acid deposition standard or standards to protect sensitive and critically sensitive aquatic and terrestrial resources.
 
  __Industrial SO__  __2__  __Emissions__ 
 
-[Pub. L. 101–549, title IV, § 406][/us/pl/101/549/s406], Nov. 15, 1990, [104 Stat. 2632][/us/stat/104/2632], provided that:
+[Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 406, Nov. 15, 1990, [104 Stat. 2632][/us/stat/104/2632], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -67,13 +67,13 @@
 
  __Sense of Congress on Emission Reductions Costs__ 
 
-[Pub. L. 101–549, title IV, § 407][/us/pl/101/549/s407], Nov. 15, 1990, [104 Stat. 2633][/us/stat/104/2633], provided that: 
+[Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 407, Nov. 15, 1990, [104 Stat. 2633][/us/stat/104/2633], provided that: 
 
 > “It is the sense of the Congress that the Clean Air Act Amendments of 1990 \[[Pub. L. 101–549][/us/pl/101/549], see Tables for classification\], through the allowance program, allocates the costs of achieving the required reductions in emissions of sulfur dioxide and oxides of nitrogen among sources in the United States. Broad based taxes and emissions fees that would provide for payment of the costs of achieving required emissions reductions by any party or parties other than the sources required to achieve the reductions are undesirable.”
 
  __Monitoring of Acid Rain Program in Canada__ 
 
-[Pub. L. 101–549, title IV, § 408][/us/pl/101/549/s408], Nov. 15, 1990, [104 Stat. 2633][/us/stat/104/2633], provided that:
+[Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 408, Nov. 15, 1990, [104 Stat. 2633][/us/stat/104/2633], provided that:
 
 >     “(a)  __Reports to Congress__  __.—__ 
 
@@ -95,14 +95,14 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2584
-[/us/pl/91/604/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs14
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1709
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/101/549/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs404
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2632
-[/us/pl/101/549/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs406
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2632
 [/us/usc/t42/s7651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651
 [/us/usc/t42/s7651d/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651d%2Fg%2F6
@@ -115,10 +115,10 @@
 [/us/pl/101/549/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs406%2Fa
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/549/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs407
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2633
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/101/549/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs408
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2633
 
 

@@ -101,7 +101,7 @@
 
             There is authorized to be appropriated $25,000,000 for each of fiscal years 2011 through 2015.
 
-([Pub. L. 93–415, title V, § 504][/us/pl/93/415/s504], as added [Pub. L. 107–273, div. C, title II, § 12222(a)][/us/pl/107/273/s12222/a], Nov. 2, 2002, [116 Stat. 1895][/us/stat/116/1895]; amended [Pub. L. 111–211, title II, § 246(a)][/us/pl/111/211/s246/a], July 29, 2010, [124 Stat. 2295][/us/stat/124/2295].)
+([Pub. L. 93–415, title V][/us/pl/93/415/tV], § 504, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12222(a), Nov. 2, 2002, [116 Stat. 1895][/us/stat/116/1895]; amended [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 246(a), July 29, 2010, [124 Stat. 2295][/us/stat/124/2295].)
 
  __References in Text__ 
 
@@ -113,13 +113,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 5783, [Pub. L. 93–415, title V, § 504][/us/pl/93/415/s504], as added [Pub. L. 102–586, § 5(a)][/us/pl/102/586/s5/a], Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], set out the duties and functions of the Administrator, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
+    A prior section 5783, [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 504, as added [Pub. L. 102–586][/us/pl/102/586], § 5(a), Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], set out the duties and functions of the Administrator, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 246(a)(1)][/us/pl/111/211/s246/a/1], inserted “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)” in introductory provisions.
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 246(a)(1), inserted “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 111–211, § 246(a)(2)][/us/pl/111/211/s246/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–211][/us/pl/111/211], § 246(a)(2), added subsec. (d).
 
 ----------
 
@@ -128,10 +128,10 @@
 ----------
 ----------
 
-[/us/pl/93/415/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs504
-[/us/pl/107/273/s12222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12222%2Fa
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1895
-[/us/pl/111/211/s246/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs246%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2295
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
@@ -140,11 +140,11 @@
 [/us/usc/t18/s5034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5034
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/93/415/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs504
-[/us/pl/93/415/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs504
-[/us/pl/102/586/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs5%2Fa
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5027
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/111/211/s246/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs246%2Fa%2F1
-[/us/pl/111/211/s246/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs246%2Fa%2F2
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

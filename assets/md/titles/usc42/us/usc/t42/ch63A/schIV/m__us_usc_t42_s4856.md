@@ -51,7 +51,7 @@
 
             (F) include any additional information that the Secretary deems appropriate.
 
-([Pub. L. 102–550, title X, § 1061][/us/pl/102/550/s1061], Oct. 28, 1992, [106 Stat. 3926][/us/stat/106/3926].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1061, Oct. 28, 1992, [106 Stat. 3926][/us/stat/106/3926].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t42/s4852d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4852d
-[/us/pl/102/550/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1061
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3926
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897

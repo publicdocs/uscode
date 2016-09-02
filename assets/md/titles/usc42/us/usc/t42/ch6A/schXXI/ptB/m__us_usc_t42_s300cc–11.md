@@ -43,7 +43,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2311, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3066][/us/stat/102/3066]; amended [Pub. L. 103–43, title XVIII, § 1811(2)][/us/pl/103/43/s1811/2], June 10, 1993,[107 Stat. 199][/us/stat/107/199].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2311, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3066][/us/stat/102/3066]; amended [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1811(2), June 10, 1993,[107 Stat. 199][/us/stat/107/199].)
 
  __Prior Provisions__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3066
-[/us/pl/103/43/s1811/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F2
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F199
 [/us/usc/t42/s238i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238i
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43

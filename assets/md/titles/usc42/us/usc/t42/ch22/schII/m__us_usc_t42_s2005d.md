@@ -17,7 +17,7 @@
 
     Neither assistance provided under this subchapter for meeting part of the cost of construction of a hospital project, nor the giving of any assurance required as a condition of such assistance, shall be construed as affecting in any way the eligibility of such project for aid under title VI of the Public Health Service Act \[[42 U.S.C. 291][/us/usc/t42/s291] et seq.\] or any other Federal Act authorizing financial aid in the construction of such project, but construction costs met with Federal funds made available under this subchapter shall not be included in the cost of construction in which the Federal Government shares under such title VI or other Federal Act.
 
-([Pub. L. 85–151, § 5][/us/pl/85/151/s5], Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
+([Pub. L. 85–151][/us/pl/85/151], § 5, Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
-[/us/pl/85/151/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151%2Fs5
+[/us/pl/85/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151
 [/us/stat/71/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F371
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

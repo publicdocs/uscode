@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out this section $6,000,000 for each of the fiscal years 2006 through 2008, to remain available until expended. For any fiscal year in which funds are expended under this section, the Secretary shall provide one-third of the total amount to the lead university described in subsection (b), and provide the remaining two-thirds to the other participants referred to in subsection (b) on an equal basis.
 
-([Pub. L. 109–58, title I, § 107][/us/pl/109/58/s107], Aug. 8, 2005, [119 Stat. 612][/us/stat/119/612].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 107, Aug. 8, 2005, [119 Stat. 612][/us/stat/119/612].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs107
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F612
 
 

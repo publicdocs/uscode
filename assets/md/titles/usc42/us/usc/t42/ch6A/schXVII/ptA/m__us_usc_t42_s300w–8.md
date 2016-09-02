@@ -23,7 +23,7 @@
 
     shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1909, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 542][/us/stat/95/542].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1909, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 542][/us/stat/95/542].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F542
 
 

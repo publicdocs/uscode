@@ -25,11 +25,11 @@
 
     (4) a pilot program that placed elementary and secondary school mathematics and science teachers in professional staff positions in the Senate and the House of Representatives has proven successful and demonstrated the value of expanding the program.
 
-([Pub. L. 103–382, title V, § 512][/us/pl/103/382/s512], Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 512, Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042].)
 
  __Short Title__ 
 
-[Pub. L. 103–382, title V, § 511][/us/pl/103/382/s511], Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042], provided that: 
+[Pub. L. 103–382, title V][/us/pl/103/382/tV], § 511, Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042], provided that: 
 
 > “This part \[part A (§§ 511–518) of title V of [Pub. L. 103–382][/us/pl/103/382], enacting this subchapter\] may be cited as the ‘Albert Einstein Distinguished Educator Fellowship Act of 1994’.”
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/103/382/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs512
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4042
-[/us/pl/103/382/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs511
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4042
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

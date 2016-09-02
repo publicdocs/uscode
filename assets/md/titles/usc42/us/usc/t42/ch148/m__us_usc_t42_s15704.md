@@ -63,7 +63,7 @@
 
         An Advisory Committee member shall recuse himself from any Advisory Committee activity in which he has an actual pecuniary interest.
 
-([Pub. L. 108–360, title II, § 205][/us/pl/108/360/s205], Oct. 25, 2004, [118 Stat. 1678][/us/stat/118/1678]; [Pub. L. 114–52, § 4][/us/pl/114/52/s4], Sept. 30, 2015, [129 Stat. 499][/us/stat/129/499].)
+([Pub. L. 108–360, title II][/us/pl/108/360/tII], § 205, Oct. 25, 2004, [118 Stat. 1678][/us/stat/118/1678]; [Pub. L. 114–52][/us/pl/114/52], § 4, Sept. 30, 2015, [129 Stat. 499][/us/stat/129/499].)
 
  __References in Text__ 
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/108/360/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs205
+[/us/pl/108/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtII
 [/us/stat/118/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1678
-[/us/pl/114/52/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs4
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
 [/us/stat/129/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F499
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52

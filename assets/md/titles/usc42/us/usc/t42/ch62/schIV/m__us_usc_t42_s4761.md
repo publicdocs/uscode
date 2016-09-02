@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to provide for the general administration of subchapters I, II, III, and IV of this chapter (hereinafter referred to as “this chapter”), and to provide for the establishment of certain advisory committees.
 
-([Pub. L. 91–648, title V, § 501][/us/pl/91/648/s501], Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 501, Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs501
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1925
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648

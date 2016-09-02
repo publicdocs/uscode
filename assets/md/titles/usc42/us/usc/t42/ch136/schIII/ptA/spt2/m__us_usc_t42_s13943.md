@@ -17,7 +17,7 @@
 
     The Attorney General shall compile information regarding sex offender treatment programs and ensure that information regarding community treatment programs in the community into which a convicted sex offender is released is made available to each person serving a sentence of imprisonment in a Federal penal or correctional institution for a commission of an offense under chapter 109A of title 18 or for the commission of a similar offense, including halfway houses and psychiatric institutions.
 
-([Pub. L. 103–322, title IV, § 40154][/us/pl/103/322/s40154], Sept. 13, 1994, [108 Stat. 1922][/us/stat/108/1922].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40154, Sept. 13, 1994, [108 Stat. 1922][/us/stat/108/1922].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40154
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1922
 
 

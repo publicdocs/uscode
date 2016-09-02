@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch155/schIII/m__us_usc_t42_s17733.md) | [Next](./../../../../..//us/usc/t42/ch155/schIV/m__us_usc_t42_ch155_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17734)
 
-## § 17734. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
+## § 17734. Repealed. [Pub. L. 111–314][/us/pl/111/314], § 6, Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
-    Section, [Pub. L. 110–422, title IV, § 407][/us/pl/110/422/s407], Oct. 15, 2008, [122 Stat. 4790][/us/stat/122/4790], related to discussions of common docking system standard among spacefaring nations to facilitate exploration crew rescue. See [section 71301 of Title 51][/us/usc/t51/s71301], National and Commercial Space Programs.
+    Section, [Pub. L. 110–422, title IV][/us/pl/110/422/tIV], § 407, Oct. 15, 2008, [122 Stat. 4790][/us/stat/122/4790], related to discussions of common docking system standard among spacefaring nations to facilitate exploration crew rescue. See [section 71301 of Title 51][/us/usc/t51/s71301], National and Commercial Space Programs.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/110/422/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs407
+[/us/pl/110/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2FtIV
 [/us/stat/122/4790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4790
 [/us/usc/t51/s71301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs71301
 

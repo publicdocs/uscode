@@ -19,7 +19,7 @@
 
     (b) The officer or employee of the Department of Health and Human Services designated by the Secretary to carry out the provisions of this subchapter shall report directly to the Assistant Secretary for Health with respect to the activities of such officer or employee in carrying out such provisions.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2009, as added [Pub. L. 97–35, title IX, § 955(a)][/us/pl/97/35/s955/a], Aug. 13, 1981, [95 Stat. 591][/us/stat/95/591].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2009, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(a), Aug. 13, 1981, [95 Stat. 591][/us/stat/95/591].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F591
 
 

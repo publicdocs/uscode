@@ -41,7 +41,7 @@
 
         The Secretary shall, by January 1, 1982, submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report characterizing the study and the resulting conclusions and recommendations.
 
-([Pub. L. 96–567, § 5][/us/pl/96/567/s5], Dec. 22, 1980, [94 Stat. 3331][/us/stat/94/3331].)
+([Pub. L. 96–567][/us/pl/96/567], § 5, Dec. 22, 1980, [94 Stat. 3331][/us/stat/94/3331].)
 
  __Change of Name__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/96/567/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs5
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3331
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841

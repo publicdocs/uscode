@@ -117,7 +117,7 @@
 
         (4) the content and duration of recruitment, retention, and counseling programs and the means and devices used to publicize such programs.
 
-([Pub. L. 103–322, title III, § 30801][/us/pl/103/322/s30801], Sept. 13, 1994, [108 Stat. 1857][/us/stat/108/1857].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30801, Sept. 13, 1994, [108 Stat. 1857][/us/stat/108/1857].)
 
 ----------
 
@@ -126,7 +126,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s30801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30801
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1857
 
 

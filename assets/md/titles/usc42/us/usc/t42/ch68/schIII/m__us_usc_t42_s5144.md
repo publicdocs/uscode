@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5143.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5147.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5144)
+[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5143.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5145 _us_usc_t42_s5146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5144)
 
 ## § 5144. Emergency support and response teams
 
@@ -43,7 +43,7 @@
 
             The Administrator shall evaluate team readiness on a regular basis and report team readiness levels in the report required under [section 752(a) of title 6][/us/usc/t6/s752/a].
 
-([Pub. L. 93–288, title III, § 303][/us/pl/93/288/s303], formerly § 304, May 22, 1974, [88 Stat. 148][/us/stat/88/148]; renumbered § 303, [Pub. L. 100–707, title I, § 105(c)][/us/pl/100/707/s105/c], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; amended [Pub. L. 109–295, title VI, § 633][/us/pl/109/295/s633], Oct. 4, 2006, [120 Stat. 1421][/us/stat/120/1421]; [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 303, formerly § 304, May 22, 1974, [88 Stat. 148][/us/stat/88/148]; renumbered § 303, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(c), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 633, Oct. 4, 2006, [120 Stat. 1421][/us/stat/120/1421]; [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __References in Text__ 
 
@@ -59,15 +59,9 @@
 
     2006—[Pub. L. 109–295][/us/pl/109/295] substituted “Emergency support and response teams” for “Emergency support teams” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
-§§ 5145, 5146. __Repealed.__  __[__  __Pub. L. 100–707, title I, § 105(d)__  __][/us/pl/100/707/s105/d]__  __,__  __Nov. 23, 1988__  __,__  __[__  __102 Stat. 4691__  __][/us/stat/102/4691]__ 
-
-    Section 5145, [Pub. L. 93–288, title III, § 305][/us/pl/93/288/s305], May 22, 1974, [88 Stat. 148][/us/stat/88/148], related to authority of President to provide assistance in an emergency.
-
-    Section 5146, [Pub. L. 93–288, title III, § 306][/us/pl/93/288/s306], May 22, 1974, [88 Stat. 148][/us/stat/88/148], related to cooperation of Federal agencies in rendering disaster assistance.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5143.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5147.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5144)
+[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5143.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5145 _us_usc_t42_s5146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5144)
 
 ----------
 ----------
@@ -75,13 +69,13 @@
 [/us/usc/t6/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs317
 [/us/usc/t6/s746/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs746%2Fa
 [/us/usc/t6/s752/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs752%2Fa
-[/us/pl/93/288/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs303
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F148
-[/us/pl/100/707/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fc
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
-[/us/pl/109/295/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs633
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1421
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -91,11 +85,5 @@
 [/us/usc/t42/s5143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5143
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
-[/us/pl/100/707/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fd
-[/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
-[/us/pl/93/288/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs305
-[/us/stat/88/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F148
-[/us/pl/93/288/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs306
-[/us/stat/88/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F148
 
 

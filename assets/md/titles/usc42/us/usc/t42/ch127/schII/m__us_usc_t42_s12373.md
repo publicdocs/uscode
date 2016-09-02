@@ -45,7 +45,7 @@
 
         (6) to the extent practicable, current and adequate statistical data (including decennial census data) and other information on the well-being of young individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to children and youth. In carrying out this subparagraph, the Secretary may make grants to, and enter into contracts with, public agencies and nonprofit private organizations.
 
-([Pub. L. 101–501, title IX, § 984][/us/pl/101/501/s984], Nov. 3, 1990, [104 Stat. 1281][/us/stat/104/1281].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 984, Nov. 3, 1990, [104 Stat. 1281][/us/stat/104/1281].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs984
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1281
 
 

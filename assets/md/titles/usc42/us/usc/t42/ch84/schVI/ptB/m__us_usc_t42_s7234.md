@@ -17,7 +17,7 @@
 
     The Secretary is authorized to establish in accordance with the Federal Advisory Committee Act such advisory committees as he may deem appropriate to assist in the performance of his functions. Members of such advisory committees, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise serving at the request of the Secretary while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703] for individuals in the Government serving without pay.
 
-([Pub. L. 95–91, title VI, § 624][/us/pl/95/91/s624], Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598]; [Pub. L. 105–28, § 2(b)(1)][/us/pl/105/28/s2/b/1], July 18, 1997, [111 Stat. 245][/us/stat/111/245].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 624, Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598]; [Pub. L. 105–28][/us/pl/105/28], § 2(b)(1), July 18, 1997, [111 Stat. 245][/us/stat/111/245].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Department of Energy Project Review Groups not Subject to Federal Advisory Committee Act by Reason of Inclusion of Employees of Department of Energy Management and Operating Contractors__ 
 
-[Pub. L. 108–136, div. C, title XXXI, § 3112][/us/pl/108/136/s3112], Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], provided that: 
+[Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3112, Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], provided that: 
 
 > “An officer or employee of a management and operating contractor of the Department of Energy, when serving as a member of a group reviewing or advising on matters related to any one or more management and operating contracts of the Department, shall be treated as an officer or employee of the Department for purposes of determining whether the group is an advisory committee within the meaning of section 3 of the Federal Advisory Committee Act (5 U.S.C. App.).”
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/95/91/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs624
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F598
-[/us/pl/105/28/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs2%2Fb%2F1
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
 [/us/stat/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F245
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -56,7 +56,7 @@
 [/us/usc/t5/s552b/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b%2Fc%2F4
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/108/136/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3112
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1743
 
 

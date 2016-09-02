@@ -37,7 +37,7 @@
 
         Adequate opportunity shall be provided for public comment on the reports required by this section before they are submitted to the Congress, and a summary of such comments shall be attached to such reports.
 
-([Pub. L. 94–163, title III, § 400EE][/us/pl/94/163/s400EE], as added [Pub. L. 100–494, § 4(a)][/us/pl/100/494/s4/a], Oct. 14, 1988, [102 Stat. 2447][/us/stat/102/2447].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400EE, as added [Pub. L. 100–494][/us/pl/100/494], § 4(a), Oct. 14, 1988, [102 Stat. 2447][/us/stat/102/2447].)
 
  __References in Text__ 
 
@@ -60,8 +60,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s400EE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400EE
-[/us/pl/100/494/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs4%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2447
 [/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2441

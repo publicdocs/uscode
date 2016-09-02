@@ -41,11 +41,11 @@
 
         Each member of the Committee who is not an officer of the Federal Government shall, while serving on business of the Committee, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], including traveltime, and while so serving away from his home or regular place of business he may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as the expenses authorized by section 5703(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5 for persons in Government service employed intermittently.
 
-([Pub. L. 94–282, title III, § 302][/us/pl/94/282/s302], May 11, 1976, [90 Stat. 468][/us/stat/90/468].)
+([Pub. L. 94–282, title III][/us/pl/94/282/tIII], § 302, May 11, 1976, [90 Stat. 468][/us/stat/90/468].)
 
  __References in Text__ 
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (d), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 95][/us/stat/89/95], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (d), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 95][/us/stat/89/95], and, as so amended, does not contain a subsec. (b).
 
  __Abolition of President’s Committee on Science and Technology; Transfer of Functions__ 
 
@@ -64,10 +64,10 @@
 
 [/us/usc/t42/s6612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6612
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/94/282/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs302
+[/us/pl/94/282/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIII
 [/us/stat/90/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F468
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F95
 [/us/usc/t42/s6631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6631
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

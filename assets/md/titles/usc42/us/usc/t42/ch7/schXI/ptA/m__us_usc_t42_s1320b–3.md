@@ -33,7 +33,7 @@
 
         a State plan for medical assistance, approved under subchapter XIX of this chapter, under which medical assistance is available to such individual only for periods for which such individual is a recipient of aid, assistance, or benefits described in subsection (a) of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1133, as added [Pub. L. 96–272, title III, § 310(a)(1)][/us/pl/96/272/s310/a/1], June 17, 1980, [94 Stat. 532][/us/stat/94/532]; amended [Pub. L. 102–54, § 13(q)(3)(B)(iii)][/us/pl/102/54/s13/q/3/B/iii], June 13, 1991, [105 Stat. 279][/us/stat/105/279]; [Pub. L. 104–193, title I, § 108(g)(6)][/us/pl/104/193/s108/g/6], Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1133, as added [Pub. L. 96–272, title III][/us/pl/96/272/tIII], § 310(a)(1), June 17, 1980, [94 Stat. 532][/us/stat/94/532]; amended [Pub. L. 102–54][/us/pl/102/54], § 13(q)(3)(B)(iii), June 13, 1991, [105 Stat. 279][/us/stat/105/279]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(g)(6), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–272, title III, § 310(a)(2)][/us/pl/96/272/s310/a/2], June 17, 1980, [94 Stat. 532][/us/stat/94/532], provided that: 
+[Pub. L. 96–272, title III][/us/pl/96/272/tIII], § 310(a)(2), June 17, 1980, [94 Stat. 532][/us/stat/94/532], provided that: 
 
 > “The amendment made by paragraph (1) \[enacting this section\] shall be effective on and after January 1, 1979; except that nothing contained in such amendment shall be construed to authorize or require any payment (or increase in payment) of any aid or assistance or benefits referred to in section 1133(a) of the Social Security Act \[[42 U.S.C. 1320b–3(a)][/us/usc/t42/s1320b–3/a]\] (as added by paragraph (1)) for any benefit period which begins prior to the date of enactment of this Act \[June 17, 1980\].”
 
  __Continuing Medicaid Eligibility for Certain Recipients of Veterans’ Administration Pensions__ 
 
-[Pub. L. 96–272, title III, § 310(b)(2)][/us/pl/96/272/s310/b/2], June 17, 1980, [94 Stat. 533][/us/stat/94/533], provided that:
+[Pub. L. 96–272, title III][/us/pl/96/272/tIII], § 310(b)(2), June 17, 1980, [94 Stat. 533][/us/stat/94/533], provided that:
 
 >     “(A) The Administrator shall provide to each individual to whom section 1133 of the Social Security Act (as added by subsection (a)(1) of this section) \[[42 U.S.C. 1320b–3][/us/usc/t42/s1320b–3]\] applies and who is eligible to make or has made an election under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978 \[[Pub. L. 95–588][/us/pl/95/588], set out as a note under [section 1521 of Title 38][/us/usc/t38/s1521], Veterans’ Benefits\], a written notice, in clear and understandable language, which (i) describes the consequences to such individual (and possibly to such individual’s family), in terms of a determination or possible determination of ineligibility for medical assistance under a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], of making an election with respect to pension under such section 306, (ii) describes the provisions of subparagraph (B) of this paragraph and subsection (a) of this section, (iii) sets forth other relevant information that would be helpful to such individual in making an informed decision concerning such an election or the disaffirmation thereof, and (iv) in the case of any individual who has made such an election, is accompanied by a form prepared for the purpose of enabling such individual to file with the Administrator a written disaffirmation of such an election.
 
@@ -83,11 +83,11 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/272/s310/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs310%2Fa%2F1
+[/us/pl/96/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtIII
 [/us/stat/94/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F532
-[/us/pl/102/54/s13/q/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F3%2FB%2Fiii
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F279
-[/us/pl/104/193/s108/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fg%2F6
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2168
 [/us/pl/95/588/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs306
 [/us/stat/92/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2508
@@ -97,10 +97,10 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/96/272/s310/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs310%2Fa%2F2
+[/us/pl/96/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtIII
 [/us/stat/94/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F532
 [/us/usc/t42/s1320b–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%933%2Fa
-[/us/pl/96/272/s310/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs310%2Fb%2F2
+[/us/pl/96/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtIII
 [/us/stat/94/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F533
 [/us/usc/t42/s1320b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%933
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588

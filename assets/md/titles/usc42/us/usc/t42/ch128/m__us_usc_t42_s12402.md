@@ -25,7 +25,7 @@
 
         (2) recommendations of the Hydrogen Technical Advisory Panel for any improvements in the program that are needed, including recommendations for additional legislation.
 
-([Pub. L. 101–566, § 103][/us/pl/101/566/s103], Nov. 15, 1990, [104 Stat. 2797][/us/stat/104/2797]; [Pub. L. 104–271, title I, § 102(a)][/us/pl/104/271/s102/a], Oct. 9, 1996, [110 Stat. 3304][/us/stat/110/3304].)
+([Pub. L. 101–566][/us/pl/101/566], § 103, Nov. 15, 1990, [104 Stat. 2797][/us/stat/104/2797]; [Pub. L. 104–271, title I][/us/pl/104/271/tI], § 102(a), Oct. 9, 1996, [110 Stat. 3304][/us/stat/110/3304].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t42/s12407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12407
-[/us/pl/101/566/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566%2Fs103
+[/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566
 [/us/stat/104/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2797
-[/us/pl/104/271/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2Fs102%2Fa
+[/us/pl/104/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2FtI
 [/us/stat/110/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3304
 [/us/pl/104/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271
 

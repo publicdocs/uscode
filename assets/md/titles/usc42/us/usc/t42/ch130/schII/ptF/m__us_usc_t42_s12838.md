@@ -47,7 +47,7 @@
 
         In the case of assistance to units of general local government from a State, the State shall perform those actions of the Secretary described in subsection (b) of this section and the performance of such actions shall be deemed to satisfy the Secretary’s responsibilities referred to in the second sentence of such subsection.
 
-([Pub. L. 101–625, title II, § 288][/us/pl/101/625/s288], Nov. 28, 1990, [104 Stat. 4127][/us/stat/104/4127]; [Pub. L. 103–233, title II, § 206][/us/pl/103/233/s206], Apr. 11, 1994, [108 Stat. 365][/us/stat/108/365]; [Pub. L. 104–330, title V, § 505(a)(2)][/us/pl/104/330/s505/a/2], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 288, Nov. 28, 1990, [104 Stat. 4127][/us/stat/104/4127]; [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 206, Apr. 11, 1994, [108 Stat. 365][/us/stat/108/365]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 505(a)(2), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044].)
 
  __References in Text__ 
 
@@ -55,11 +55,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–330, § 505(a)(2)(A)][/us/pl/104/330/s505/a/2/A], struck out “, Indian tribes,” after “projects to jurisdictions” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–330][/us/pl/104/330], § 505(a)(2)(A), struck out “, Indian tribes,” after “projects to jurisdictions” in introductory provisions.
 
-    Subsecs. (b), (c)(4). [Pub. L. 104–330, § 505(a)(2)(B)][/us/pl/104/330/s505/a/2/B], (C), struck out “, Indian tribe,” after “the jurisdiction”.
+    Subsecs. (b), (c)(4). [Pub. L. 104–330][/us/pl/104/330], § 505(a)(2)(B), (C), struck out “, Indian tribe,” after “the jurisdiction”.
 
-    1994—Subsec. (a). [Pub. L. 103–233, § 206(1)][/us/pl/103/233/s206/1], substituted “jurisdictions, Indian tribes, or insular areas” for “participating jurisdictions” and inserted before period at end “The regulations shall provide—
+    1994—Subsec. (a). [Pub. L. 103–233][/us/pl/103/233], § 206(1), substituted “jurisdictions, Indian tribes, or insular areas” for “participating jurisdictions” and inserted before period at end “The regulations shall provide—
 
     “(1) for the monitoring of the environmental reviews performed under this section;
 
@@ -69,11 +69,11 @@
 
     The Secretary’s duty under the preceding sentence shall not be construed to limit or reduce any responsibility assumed by a State or unit of general local government with respect to any particular release of funds.”
 
-    Subsec. (b). [Pub. L. 103–233, § 206(2)][/us/pl/103/233/s206/2], substituted “jurisdiction, Indian tribe, or insular area” for “participating jurisdiction”.
+    Subsec. (b). [Pub. L. 103–233][/us/pl/103/233], § 206(2), substituted “jurisdiction, Indian tribe, or insular area” for “participating jurisdiction”.
 
-    Subsec. (c)(4)(B). [Pub. L. 103–233, § 206(3)][/us/pl/103/233/s206/3], substituted “jurisdiction, Indian tribe, or insular area” for “participating jurisdiction”.
+    Subsec. (c)(4)(B). [Pub. L. 103–233][/us/pl/103/233], § 206(3), substituted “jurisdiction, Indian tribe, or insular area” for “participating jurisdiction”.
 
-    Subsec. (d). [Pub. L. 103–233, § 206(4)][/us/pl/103/233/s206/4], substituted “Assistance to units of general local government from a State” for “Assistance to a State” in heading and “In the case of assistance to units of general local government from a State” for “In the case of assistance to States” in text.
+    Subsec. (d). [Pub. L. 103–233][/us/pl/103/233], § 206(4), substituted “Assistance to units of general local government from a State” for “Assistance to a State” in heading and “In the case of assistance to units of general local government from a State” for “In the case of assistance to States” in text.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -95,21 +95,21 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/101/625/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs288
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4127
-[/us/pl/103/233/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs206
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F365
-[/us/pl/104/330/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fa%2F2
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/104/330/s505/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fa%2F2%2FA
-[/us/pl/104/330/s505/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fa%2F2%2FB
-[/us/pl/103/233/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs206%2F1
-[/us/pl/103/233/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs206%2F2
-[/us/pl/103/233/s206/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs206%2F3
-[/us/pl/103/233/s206/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs206%2F4
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101

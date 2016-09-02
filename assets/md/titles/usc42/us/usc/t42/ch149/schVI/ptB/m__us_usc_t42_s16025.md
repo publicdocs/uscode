@@ -49,7 +49,7 @@
 
         (2) such sums as are necessary for each of fiscal years 2016 through 2021.
 
-([Pub. L. 109–58, title VI, § 645][/us/pl/109/58/s645], Aug. 8, 2005, [119 Stat. 798][/us/stat/119/798].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 645, Aug. 8, 2005, [119 Stat. 798][/us/stat/119/798].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s16024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16024
-[/us/pl/109/58/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs645
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F798
 
 

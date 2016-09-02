@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, shall establish an office for the purpose of ensuring that, in carrying out the duties of the Secretary with respect to prevention of acquired immune deficiency syndrome, the Secretary develops and implements prevention programs targeted at minority populations and provides appropriate technical assistance in the implementation of such programs.
 
-([Pub. L. 100–607, title II, § 252][/us/pl/100/607/s252], Nov. 4, 1988, [102 Stat. 3108][/us/stat/102/3108]; [Pub. L. 102–531, title III, § 312(e)(2)][/us/pl/102/531/s312/e/2], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506].)
+([Pub. L. 100–607, title II][/us/pl/100/607/tII], § 252, Nov. 4, 1988, [102 Stat. 3108][/us/stat/102/3108]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(e)(2), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Requirement of Study With Respect to Minority Health and Acquired Immune Deficiency Syndrome__ 
 
-[Section 251 of Pub. L. 100–607][/us/pl/100/607/s251], as amended by [Pub. L. 100–690, title II, § 2602(b)][/us/pl/100/690/s2602/b], Nov. 18, 1988, [102 Stat. 4234][/us/stat/102/4234], provided that:
+[Section 251 of Pub. L. 100–607][/us/pl/100/607/s251], as amended by [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2602(b), Nov. 18, 1988, [102 Stat. 4234][/us/stat/102/4234], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/100/607/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs252
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3108
-[/us/pl/102/531/s312/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fe%2F2
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/100/607/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs251
-[/us/pl/100/690/s2602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2602%2Fb
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4234
 
 

@@ -23,7 +23,7 @@
 
         The Attorney General shall ensure (through the National Sex Offender Registry or otherwise) that updated information about a sex offender is immediately transmitted by electronic forwarding to all relevant jurisdictions.
 
-([Pub. L. 109–248, title I, § 119][/us/pl/109/248/s119], July 27, 2006, [120 Stat. 596][/us/stat/120/596].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 119, July 27, 2006, [120 Stat. 596][/us/stat/120/596].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs119
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F596
 
 

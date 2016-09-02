@@ -361,7 +361,7 @@
 
         The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer’s costs for maintenance and any other relevant information pursuant to subsection (e) of this section. The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992, the Secretary shall update the standards for hardboard siding.
 
-([Pub. L. 93–383, title VI, § 604][/us/pl/93/383/s604], Aug. 22, 1974, [88 Stat. 701][/us/stat/88/701]; [Pub. L. 95–128, title IX, § 902(a)][/us/pl/95/128/s902/a], Oct. 12, 1977, [91 Stat. 1149][/us/stat/91/1149]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 98–479, title II, § 204][/us/pl/98/479/s204](l), Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233]; [Pub. L. 100–242, title V, § 568][/us/pl/100/242/s568], Feb. 5, 1988, [101 Stat. 1948][/us/stat/101/1948]; [Pub. L. 102–550, title IX, § 907][/us/pl/102/550/s907], Oct. 28, 1992, [106 Stat. 3873][/us/stat/106/3873]; [Pub. L. 106–569, title VI, § 604][/us/pl/106/569/s604], Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 604, Aug. 22, 1974, [88 Stat. 701][/us/stat/88/701]; [Pub. L. 95–128, title IX][/us/pl/95/128/tIX], § 902(a), Oct. 12, 1977, [91 Stat. 1149][/us/stat/91/1149]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(l), Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 568, Feb. 5, 1988, [101 Stat. 1948][/us/stat/101/1948]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 907, Oct. 28, 1992, [106 Stat. 3873][/us/stat/106/3873]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 604, Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
 
  __References in Text__ 
 
@@ -369,27 +369,27 @@
 
  __Codification__ 
 
-    In subsec. (a)(2)(B), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4 of the Office of Federal Procurement Policy Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(2)(B), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4 of the Office of Federal Procurement Policy Act” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–569, § 604(1)][/us/pl/106/569/s604/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary, after consultation with the Consumer Product Safety Commission, shall establish by order appropriate Federal manufactured home construction and safety standards. Each such Federal manufactured home standard shall be reasonable and shall meet the highest standards of protection, taking into account existing State and local laws relating to manufactured home safety and construction.”
+    2000—Subsec. (a). [Pub. L. 106–569][/us/pl/106/569], § 604(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary, after consultation with the Consumer Product Safety Commission, shall establish by order appropriate Federal manufactured home construction and safety standards. Each such Federal manufactured home standard shall be reasonable and shall meet the highest standards of protection, taking into account existing State and local laws relating to manufactured home safety and construction.”
 
-    Subsec. (b). [Pub. L. 106–569, § 604(1)][/us/pl/106/569/s604/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “All orders issued under this section shall be issued after notice and an opportunity for interested persons to participate are provided in accordance with the provisions of [section 553 of title 5][/us/usc/t5/s553].”
+    Subsec. (b). [Pub. L. 106–569][/us/pl/106/569], § 604(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “All orders issued under this section shall be issued after notice and an opportunity for interested persons to participate are provided in accordance with the provisions of [section 553 of title 5][/us/usc/t5/s553].”
 
-    Subsec. (d). [Pub. L. 106–569, § 604(2)][/us/pl/106/569/s604/2], inserted at end “Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to [section 5404 of this title][/us/usc/t42/s5404], there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.”
+    Subsec. (d). [Pub. L. 106–569][/us/pl/106/569], § 604(2), inserted at end “Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to [section 5404 of this title][/us/usc/t42/s5404], there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.”
 
-    Subsec. (e). [Pub. L. 106–569, § 604(3)][/us/pl/106/569/s604/3], (4), redesignated subsec. (f) as (e), inserted heading, substituted “The consensus committee, in recommending standards, regulations, and interpretations, and the Secretary, in establishing standards or regulations or issuing interpretations under this section, shall—” for “In establishing standards under this section, the Secretary shall—” in introductory provisions, and struck out former subsec. (e) which read as follows: “The Secretary may by order amend or revoke any Federal manufactured home construction or safety standard established under this section. Such order shall specify the date on which such amendment or revocation is to take effect, which shall not be sooner than one hundred and eighty days or later than one year from the date the order is issued, unless the Secretary finds, for good cause shown, that an earlier or later date is in the public interest, and publishes his reasons for such finding.”
+    Subsec. (e). [Pub. L. 106–569][/us/pl/106/569], § 604(3), (4), redesignated subsec. (f) as (e), inserted heading, substituted “The consensus committee, in recommending standards, regulations, and interpretations, and the Secretary, in establishing standards or regulations or issuing interpretations under this section, shall—” for “In establishing standards under this section, the Secretary shall—” in introductory provisions, and struck out former subsec. (e) which read as follows: “The Secretary may by order amend or revoke any Federal manufactured home construction or safety standard established under this section. Such order shall specify the date on which such amendment or revocation is to take effect, which shall not be sooner than one hundred and eighty days or later than one year from the date the order is issued, unless the Secretary finds, for good cause shown, that an earlier or later date is in the public interest, and publishes his reasons for such finding.”
 
-    Subsec. (f). [Pub. L. 106–569, § 604(7)][/us/pl/106/569/s604/7], redesignated subsec. (h) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 106–569][/us/pl/106/569], § 604(7), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 106–569, § 604(5)][/us/pl/106/569/s604/5], (7), redesignated subsec. (i) as (g) and struck out former subsec. (g) which read as follows: “The Secretary shall issue an order establishing initial Federal manufactured home construction and safety standards not later than one year after August 22, 1974.”
+    Subsec. (g). [Pub. L. 106–569][/us/pl/106/569], § 604(5), (7), redesignated subsec. (i) as (g) and struck out former subsec. (g) which read as follows: “The Secretary shall issue an order establishing initial Federal manufactured home construction and safety standards not later than one year after August 22, 1974.”
 
-    Subsec. (h). [Pub. L. 106–569, § 604(7)][/us/pl/106/569/s604/7], redesignated subsec. (j) as (h). Former subsec. (h) redesignated (f).
+    Subsec. (h). [Pub. L. 106–569][/us/pl/106/569], § 604(7), redesignated subsec. (j) as (h). Former subsec. (h) redesignated (f).
 
-    Subsec. (i). [Pub. L. 106–569, § 604(7)][/us/pl/106/569/s604/7], redesignated subsec. (i) as (g).
+    Subsec. (i). [Pub. L. 106–569][/us/pl/106/569], § 604(7), redesignated subsec. (i) as (g).
 
-    Subsec. (j). [Pub. L. 106–569, § 604(6)][/us/pl/106/569/s604/6], (7), substituted “subsection (e) of this section” for “subsection (f) of this section” and redesignated subsec. (j) as (h).
+    Subsec. (j). [Pub. L. 106–569][/us/pl/106/569], § 604(6), (7), substituted “subsection (e) of this section” for “subsection (f) of this section” and redesignated subsec. (j) as (h).
 
     1992—Subsec. (j). [Pub. L. 102–550][/us/pl/102/550] added subsec. (j).
 
@@ -407,7 +407,7 @@
 
  __Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards__ 
 
-[Pub. L. 102–486, title I, § 104(c)][/us/pl/102/486/s104/c], Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792], provided that: 
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 104(c), Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792], provided that: 
 
 > “If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5403][/us/usc/t42/s5403]) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled ‘Energy Efficient Design of Low-Rise Residential Buildings’ and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act.”
 
@@ -428,37 +428,37 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5404
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
-[/us/pl/93/383/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs604
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F701
-[/us/pl/95/128/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs902%2Fa
+[/us/pl/95/128/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIX
 [/us/stat/91/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1149
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/98/479/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2233
-[/us/pl/100/242/s568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs568
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1948
-[/us/pl/102/550/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs907
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3873
-[/us/pl/106/569/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2999
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/106/569/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F1
-[/us/pl/106/569/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F1
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/106/569/s604/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t42/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5404
-[/us/pl/106/569/s604/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F3
-[/us/pl/106/569/s604/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F7
-[/us/pl/106/569/s604/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F5
-[/us/pl/106/569/s604/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F7
-[/us/pl/106/569/s604/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F7
-[/us/pl/106/569/s604/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs604%2F6
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
@@ -468,7 +468,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/106/569/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs612
 [/us/usc/t42/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5401
-[/us/pl/102/486/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs104%2Fc
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2792
 [/us/usc/t42/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403
 

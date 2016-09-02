@@ -273,7 +273,7 @@
 
                 For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340E, as added [Pub. L. 106–129, § 4][/us/pl/106/129/s4], Dec. 6, 1999, [113 Stat. 1671][/us/stat/113/1671]; amended [Pub. L. 106–310, div. A, title XX, § 2001][/us/pl/106/310/s2001], Oct. 17, 2000, [114 Stat. 1155][/us/stat/114/1155]; [Pub. L. 108–490, § 1(a)][/us/pl/108/490/s1/a], Dec. 23, 2004, [118 Stat. 3972][/us/stat/118/3972]; [Pub. L. 109–307, § 2][/us/pl/109/307/s2], Oct. 6, 2006, [120 Stat. 1721][/us/stat/120/1721]; [Pub. L. 113–98][/us/pl/113/98], §§ 2, 3, Apr. 7, 2014, [128 Stat. 1140][/us/stat/128/1140].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340E, as added [Pub. L. 106–129][/us/pl/106/129], § 4, Dec. 6, 1999, [113 Stat. 1671][/us/stat/113/1671]; amended [Pub. L. 106–310, div. A, title XX][/us/pl/106/310/dA/tXX], § 2001, Oct. 17, 2000, [114 Stat. 1155][/us/stat/114/1155]; [Pub. L. 108–490][/us/pl/108/490], § 1(a), Dec. 23, 2004, [118 Stat. 3972][/us/stat/118/3972]; [Pub. L. 109–307][/us/pl/109/307], § 2, Oct. 6, 2006, [120 Stat. 1721][/us/stat/120/1721]; [Pub. L. 113–98][/us/pl/113/98], §§ 2, 3, Apr. 7, 2014, [128 Stat. 1140][/us/stat/128/1140].)
 
  __References in Text__ 
 
@@ -281,59 +281,59 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–98, § 2(a)(1)][/us/pl/113/98/s2/a/1], substituted “through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018” for “through 2005 and each of fiscal years 2007 through 2011”.
+    2014—Subsec. (a). [Pub. L. 113–98][/us/pl/113/98], § 2(a)(1), substituted “through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018” for “through 2005 and each of fiscal years 2007 through 2011”.
 
-    Subsec. (b)(3)(D). [Pub. L. 113–98, § 2(b)][/us/pl/113/98/s2/b], substituted “Not later than the end of fiscal year 2018” for “Not later than the end of fiscal year 2011” in introductory provisions.
+    Subsec. (b)(3)(D). [Pub. L. 113–98][/us/pl/113/98], § 2(b), substituted “Not later than the end of fiscal year 2018” for “Not later than the end of fiscal year 2011” in introductory provisions.
 
-    Subsec. (f)(1)(A)(v). [Pub. L. 113–98, § 2(a)(2)(A)][/us/pl/113/98/s2/a/2/A], added cl. (v).
+    Subsec. (f)(1)(A)(v). [Pub. L. 113–98][/us/pl/113/98], § 2(a)(2)(A), added cl. (v).
 
-    Subsec. (f)(2)(E). [Pub. L. 113–98, § 2(a)(2)(B)][/us/pl/113/98/s2/a/2/B], added subpar. (E).
+    Subsec. (f)(2)(E). [Pub. L. 113–98][/us/pl/113/98], § 2(a)(2)(B), added subpar. (E).
 
-    Subsec. (h). [Pub. L. 113–98, § 3][/us/pl/113/98/s3], added subsec. (h).
+    Subsec. (h). [Pub. L. 113–98][/us/pl/113/98], § 3, added subsec. (h).
 
-    2006—Subsec. (a). [Pub. L. 109–307, § 2(a)(1)][/us/pl/109/307/s2/a/1], inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
+    2006—Subsec. (a). [Pub. L. 109–307][/us/pl/109/307], § 2(a)(1), inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
 
-    Subsec. (b)(1). [Pub. L. 109–307, § 2(b)(1)][/us/pl/109/307/s2/b/1], substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 109–307][/us/pl/109/307], § 2(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 109–307, § 2(b)(2)][/us/pl/109/307/s2/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 109–307][/us/pl/109/307], § 2(b)(2), added par. (3).
 
-    Subsec. (c)(2)(E)(ii). [Pub. L. 109–307, § 2(c)(1)][/us/pl/109/307/s2/c/1], substituted “applied under [section 1395ww(d)(3)(E) of this title][/us/usc/t42/s1395ww/d/3/E] for discharges occurring during the preceding fiscal year” for “described in subparagraph (C)(ii)”.
+    Subsec. (c)(2)(E)(ii). [Pub. L. 109–307][/us/pl/109/307], § 2(c)(1), substituted “applied under [section 1395ww(d)(3)(E) of this title][/us/usc/t42/s1395ww/d/3/E] for discharges occurring during the preceding fiscal year” for “described in subparagraph (C)(ii)”.
 
-    Subsec. (e)(1). [Pub. L. 109–307, § 2(a)(2)][/us/pl/109/307/s2/a/2], substituted “12” for “26”.
+    Subsec. (e)(1). [Pub. L. 109–307][/us/pl/109/307], § 2(a)(2), substituted “12” for “26”.
 
-    Subsec. (e)(2). [Pub. L. 109–307, § 2(c)(2)][/us/pl/109/307/s2/c/2], struck out first sentence which read as follows: “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1).”
+    Subsec. (e)(2). [Pub. L. 109–307][/us/pl/109/307], § 2(c)(2), struck out first sentence which read as follows: “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1).”
 
-    Subsec. (e)(3). [Pub. L. 109–307, § 2(c)(3)][/us/pl/109/307/s2/c/3], substituted “made and pay” for “made to pay”.
+    Subsec. (e)(3). [Pub. L. 109–307][/us/pl/109/307], § 2(c)(3), substituted “made and pay” for “made to pay”.
 
-    Subsec. (f)(1)(A)(iv). [Pub. L. 109–307, § 2(a)(3)][/us/pl/109/307/s2/a/3], added cl. (iv).
+    Subsec. (f)(1)(A)(iv). [Pub. L. 109–307][/us/pl/109/307], § 2(a)(3), added cl. (iv).
 
-    Subsec. (f)(2). [Pub. L. 109–307, § 2(a)(4)(A)][/us/pl/109/307/s2/a/4/A], substituted “subsection (b)(1)(B)” for “subsection (b)(1)(A)” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 109–307][/us/pl/109/307], § 2(a)(4)(A), substituted “subsection (b)(1)(B)” for “subsection (b)(1)(A)” in introductory provisions.
 
-    Subsec. (f)(2)(D). [Pub. L. 109–307, § 2(a)(4)(B)][/us/pl/109/307/s2/a/4/B]–(D), added subpar. (D).
+    Subsec. (f)(2)(D). [Pub. L. 109–307][/us/pl/109/307], § 2(a)(4)(B)–(D), added subpar. (D).
 
-    2004—Subsec. (d)(1). [Pub. L. 108–490, § 1(a)(1)][/us/pl/108/490/s1/a/1], substituted “costs associated with” for “costs related to”.
+    2004—Subsec. (d)(1). [Pub. L. 108–490][/us/pl/108/490], § 1(a)(1), substituted “costs associated with” for “costs related to”.
 
-    Subsec. (d)(2)(A). [Pub. L. 108–490, § 1(a)(2)][/us/pl/108/490/s1/a/2], inserted “ratio of the” after “hospitals and the” and “to beds (but excluding beds or bassinets assigned to healthy newborn infants)” before semicolon.
+    Subsec. (d)(2)(A). [Pub. L. 108–490][/us/pl/108/490], § 1(a)(2), inserted “ratio of the” after “hospitals and the” and “to beds (but excluding beds or bassinets assigned to healthy newborn infants)” before semicolon.
 
-    2000—Subsec. (a). [Pub. L. 106–310, § 2001(a)][/us/pl/106/310/s2001/a], substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”.
+    2000—Subsec. (a). [Pub. L. 106–310][/us/pl/106/310], § 2001(a), substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”.
 
-    Subsec. (c)(2)(F). [Pub. L. 106–310, § 2001(b)][/us/pl/106/310/s2001/b], substituted “Federal fiscal year for which payments are made” for “hospital’s cost reporting period that begins during fiscal year 2000”.
+    Subsec. (c)(2)(F). [Pub. L. 106–310][/us/pl/106/310], § 2001(b), substituted “Federal fiscal year for which payments are made” for “hospital’s cost reporting period that begins during fiscal year 2000”.
 
-    Subsec. (e)(1). [Pub. L. 106–310, § 2001(c)][/us/pl/106/310/s2001/c], inserted at end “Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital’s most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital’s most recently completed Medicare cost report filing period.”
+    Subsec. (e)(1). [Pub. L. 106–310][/us/pl/106/310], § 2001(c), inserted at end “Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital’s most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital’s most recently completed Medicare cost report filing period.”
 
-    Subsec. (e)(2). [Pub. L. 106–310, § 2001(d)][/us/pl/106/310/s2001/d], inserted “and indirect” after “interim installment for direct” and inserted at end “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis.”
+    Subsec. (e)(2). [Pub. L. 106–310][/us/pl/106/310], § 2001(d), inserted “and indirect” after “interim installment for direct” and inserted at end “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis.”
 
-    Subsec. (e)(3). [Pub. L. 106–310, § 2001(e)][/us/pl/106/310/s2001/e], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “At the end of each fiscal year for which payments may be made under this section, the hospital shall submit to the Secretary such information as the Secretary determines to be necessary to determine the percent (if any) of the total amount withheld under paragraph (2) that is due under this section for the hospital for the fiscal year. Based on such determination, the Secretary shall recoup any overpayments made, or pay any balance due. The amount so determined shall be considered a final intermediary determination for purposes of applying section 1395oo of this title and shall be subject to review under that section in the same manner as the amount of payment under [section 1395ww(d) of this title][/us/usc/t42/s1395ww/d] is subject to review under such section.”
+    Subsec. (e)(3). [Pub. L. 106–310][/us/pl/106/310], § 2001(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “At the end of each fiscal year for which payments may be made under this section, the hospital shall submit to the Secretary such information as the Secretary determines to be necessary to determine the percent (if any) of the total amount withheld under paragraph (2) that is due under this section for the hospital for the fiscal year. Based on such determination, the Secretary shall recoup any overpayments made, or pay any balance due. The amount so determined shall be considered a final intermediary determination for purposes of applying section 1395oo of this title and shall be subject to review under that section in the same manner as the amount of payment under [section 1395ww(d) of this title][/us/usc/t42/s1395ww/d] is subject to review under such section.”
 
-    Subsec. (f)(1)(A)(iii). [Pub. L. 106–310, § 2001(f)(1)][/us/pl/106/310/s2001/f/1], added cl. (iii).
+    Subsec. (f)(1)(A)(iii). [Pub. L. 106–310][/us/pl/106/310], § 2001(f)(1), added cl. (iii).
 
-    Subsec. (f)(2)(C). [Pub. L. 106–310, § 2001(f)(2)][/us/pl/106/310/s2001/f/2], added subpar. (C).
+    Subsec. (f)(2)(C). [Pub. L. 106–310][/us/pl/106/310], § 2001(f)(2), added subpar. (C).
 
-    Subsec. (g)(2). [Pub. L. 106–310, § 2001(g)][/us/pl/106/310/s2001/g], substituted “with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to [section 1395ww(d)(1)(B)(iii) of this title][/us/usc/t42/s1395ww/d/1/B/iii] and its accompanying regulations” for “described in [section 1395ww(d)(1)(B)(iii) of this title][/us/usc/t42/s1395ww/d/1/B/iii]”.
+    Subsec. (g)(2). [Pub. L. 106–310][/us/pl/106/310], § 2001(g), substituted “with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to [section 1395ww(d)(1)(B)(iii) of this title][/us/usc/t42/s1395ww/d/1/B/iii] and its accompanying regulations” for “described in [section 1395ww(d)(1)(B)(iii) of this title][/us/usc/t42/s1395ww/d/1/B/iii]”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–490, § 1(b)][/us/pl/108/490/s1/b], Dec. 23, 2004, [118 Stat. 3972][/us/stat/118/3972], provided that: 
+[Pub. L. 108–490][/us/pl/108/490], § 1(b), Dec. 23, 2004, [118 Stat. 3972][/us/stat/118/3972], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to payments for periods beginning with fiscal year 2005.”
 
@@ -356,48 +356,48 @@
 [/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
 [/us/usc/t42/s1395ww/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs4
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1671
-[/us/pl/106/310/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001
+[/us/pl/106/310/dA/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXX
 [/us/stat/114/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1155
-[/us/pl/108/490/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490%2Fs1%2Fa
+[/us/pl/108/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490
 [/us/stat/118/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3972
-[/us/pl/109/307/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
 [/us/stat/120/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1721
 [/us/pl/113/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98
 [/us/stat/128/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1140
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
-[/us/pl/113/98/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fa%2F1
-[/us/pl/113/98/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fb
-[/us/pl/113/98/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fa%2F2%2FA
-[/us/pl/113/98/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fa%2F2%2FB
-[/us/pl/113/98/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs3
-[/us/pl/109/307/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fa%2F1
-[/us/pl/109/307/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fb%2F1
-[/us/pl/109/307/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fb%2F2
-[/us/pl/109/307/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fc%2F1
+[/us/pl/113/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98
+[/us/pl/113/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98
+[/us/pl/113/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98
+[/us/pl/113/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98
+[/us/pl/113/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
 [/us/usc/t42/s1395ww/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F3%2FE
-[/us/pl/109/307/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fa%2F2
-[/us/pl/109/307/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fc%2F2
-[/us/pl/109/307/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fc%2F3
-[/us/pl/109/307/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fa%2F3
-[/us/pl/109/307/s2/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fa%2F4%2FA
-[/us/pl/109/307/s2/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fa%2F4%2FB
-[/us/pl/108/490/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490%2Fs1%2Fa%2F1
-[/us/pl/108/490/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490%2Fs1%2Fa%2F2
-[/us/pl/106/310/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Fa
-[/us/pl/106/310/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Fb
-[/us/pl/106/310/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Fc
-[/us/pl/106/310/s2001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Fd
-[/us/pl/106/310/s2001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Fe
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/109/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307
+[/us/pl/108/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490
+[/us/pl/108/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
-[/us/pl/106/310/s2001/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Ff%2F1
-[/us/pl/106/310/s2001/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Ff%2F2
-[/us/pl/106/310/s2001/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2001%2Fg
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s1395ww/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiii
 [/us/usc/t42/s1395ww/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiii
-[/us/pl/108/490/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490%2Fs1%2Fb
+[/us/pl/108/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F490
 [/us/stat/118/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3972
 
 

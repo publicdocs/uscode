@@ -51,7 +51,7 @@
 
             (D) the current status of each facility and infrastructure project compared to the original baseline cost, schedule, and scope.
 
-([Pub. L. 109–58, title IX, § 993][/us/pl/109/58/s993], Aug. 8, 2005, [119 Stat. 913][/us/stat/119/913].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 993, Aug. 8, 2005, [119 Stat. 913][/us/stat/119/913].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs993
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F913
 
 

@@ -79,7 +79,7 @@
 
             The term “discriminatory practice” means the discrimination described in paragraph (1), or the discrimination or the violation described in paragraph (2), of subsection (a) of this section.
 
-(R.S. § 1977A, as added [Pub. L. 102–166, title I, § 102][/us/pl/102/166/s102], Nov. 21, 1991, [105 Stat. 1072][/us/stat/105/1072].)
+(R.S. § 1977A, as added [Pub. L. 102–166, title I][/us/pl/102/166/tI], § 102, Nov. 21, 1991, [105 Stat. 1072][/us/stat/105/1072].)
 
  __References in Text__ 
 
@@ -116,7 +116,7 @@
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
 [/us/usc/t29/s794a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794a%2Fa%2F1
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
-[/us/pl/102/166/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs102
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1072
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

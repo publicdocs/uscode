@@ -11,47 +11,23 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_ch1A.md) | [Next](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71r.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71m)
+[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71...71l.md) | [Next](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71n...71q.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71m)
 
 ## § 71m. Omitted
 
  __Codification__ 
 
-    Section, [act Apr. 9, 1930, ch. 125, § 10(a)][/us/act/1930-04-09/ch125/s10/a], [46 Stat. 152][/us/stat/46/152], which provided for repeal of limitation upon number of senior surgeons and Assistant Surgeons General at large of Public Health Service on active duty, was executed to [section 34 of this title][/us/usc/t42/s34].
-
-§§ 71n to 71q. __Transferred__ 
-
- __Codification__ 
-
-    Section 71n, [act Apr. 9, 1930, ch. 125, § 10(b)][/us/act/1930-04-09/ch125/s10/b], [46 Stat. 152][/us/stat/46/152], which provided for pay and allowances of Surgeon General and for reversion in grade on expiration of term, was transferred to [section 11a of this title][/us/usc/t42/s11a].
-
-    Section 71o, [act Apr. 9, 1930, ch. 125, § 10(c)][/us/act/1930-04-09/ch125/s10/c], [46 Stat. 152][/us/stat/46/152], which provided for a Chief of the Narcotics Division, was transferred to [section 28a of this title][/us/usc/t42/s28a].
-
-    Section 71p, [act Aug. 9, 1930, ch. 125, § 11][/us/act/1930-08-09/ch125/s11], [46 Stat. 152][/us/stat/46/152], which provided for appointment and qualifications of employees other than commissioned officers, was transferred to [section 40 of this title][/us/usc/t42/s40].
-
-    Section 71q, [act Apr. 9, 1930, ch. 125, § 12][/us/act/1930-04-09/ch125/s12], [46 Stat. 152][/us/stat/46/152], which provided for medical and hospital services to officers disabled by sickness or injury, was transferred to [section 42 of this title][/us/usc/t42/s42].
+    Section, [act Apr. 9, 1930, ch. 125][/us/act/1930-04-09/ch125], § 10(a), [46 Stat. 152][/us/stat/46/152], which provided for repeal of limitation upon number of senior surgeons and Assistant Surgeons General at large of Public Health Service on active duty, was executed to [section 34 of this title][/us/usc/t42/s34].
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_ch1A.md) | [Next](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71r.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71m)
+[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71...71l.md) | [Next](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71n...71q.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71m)
 
 ----------
 ----------
 
-[/us/act/1930-04-09/ch125/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-09%2Fch125%2Fs10%2Fa
+[/us/act/1930-04-09/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-09%2Fch125
 [/us/stat/46/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F152
 [/us/usc/t42/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs34
-[/us/act/1930-04-09/ch125/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-09%2Fch125%2Fs10%2Fb
-[/us/stat/46/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F152
-[/us/usc/t42/s11a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11a
-[/us/act/1930-04-09/ch125/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-09%2Fch125%2Fs10%2Fc
-[/us/stat/46/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F152
-[/us/usc/t42/s28a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs28a
-[/us/act/1930-08-09/ch125/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-08-09%2Fch125%2Fs11
-[/us/stat/46/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F152
-[/us/usc/t42/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs40
-[/us/act/1930-04-09/ch125/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-09%2Fch125%2Fs12
-[/us/stat/46/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F152
-[/us/usc/t42/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs42
 
 

@@ -23,7 +23,7 @@
 
         The Administrator shall include, as part of the biennial report submitted under subsection (a) of this section, a chapter reporting on the effects on the flood insurance program observed through implementation of requirements under the Riegle Community Development and Regulatory Improvement Act of 1994.
 
-([Pub. L. 90–448, title XIII, § 1320][/us/pl/90/448/s1320], Aug. 1, 1968, [82 Stat. 581][/us/stat/82/581]; [Pub. L. 96–470, title II, § 205(b)][/us/pl/96/470/s205/b], Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V, § 581][/us/pl/103/325/s581], Sept. 23, 1994, [108 Stat. 2286][/us/stat/108/2286]; [Pub. L. 112–141, div. F, title II, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1320, Aug. 1, 1968, [82 Stat. 581][/us/stat/82/581]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 205(b), Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 581, Sept. 23, 1994, [108 Stat. 2286][/us/stat/108/2286]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(b)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __References in Text__ 
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1320
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F581
-[/us/pl/96/470/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs205%2Fb
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2244
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/103/325/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs581
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2286
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

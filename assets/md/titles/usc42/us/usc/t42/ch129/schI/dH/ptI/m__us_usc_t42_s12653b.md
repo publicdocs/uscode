@@ -259,13 +259,13 @@
 
         A fellow who serves in a service project under this section shall be considered to have served in an approved national service position and, upon meeting the requirements of [section 12603 of this title][/us/usc/t42/s12603] for full-time or part-time national service, shall be eligible for a national service educational award described in such section. The Corporation shall transfer an appropriate amount of funds to the National Service Trust to provide for the national service educational award for such fellow.
 
-([Pub. L. 101–610, title I, § 198B][/us/pl/101/610/s198B], as added [Pub. L. 111–13, title I, § 1805][/us/pl/111/13/s1805], Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198B, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1805, Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554].)
 
  __Prior Provisions__ 
 
-    A prior section 12653b, [Pub. L. 101–610, title I, § 198B][/us/pl/101/610/s198B], as added [Pub. L. 103–82, title I, § 104(c)][/us/pl/103/82/s104/c], Sept. 21, 1993, [107 Stat. 843][/us/stat/107/843], which related to Presidential awards for service to individuals providing significant service and to outstanding service programs, was renumbered [section 198A of Pub. L. 101–610][/us/pl/101/610/s198A] by [Pub. L. 111–13, title I, § 1803(b)][/us/pl/111/13/s1803/b], Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554], and transferred to [section 12653a of this title][/us/usc/t42/s12653a].
+    A prior section 12653b, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198B, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(c), Sept. 21, 1993, [107 Stat. 843][/us/stat/107/843], which related to Presidential awards for service to individuals providing significant service and to outstanding service programs, was renumbered [section 198A of Pub. L. 101–610][/us/pl/101/610/s198A] by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1803(b), Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554], and transferred to [section 12653a of this title][/us/usc/t42/s12653a].
 
-    Another prior section 12653b, [Pub. L. 101–610, title I, § 195B][/us/pl/101/610/s195B], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2523][/us/stat/106/2523], which related to national service program component of Civilian Community Corps Demonstration Program, was renumbered [section 153 of Pub. L. 101–610][/us/pl/101/610/s153] by [Pub. L. 103–82, title I, § 104(b)][/us/pl/103/82/s104/b], Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], and transferred to [section 12613 of this title][/us/usc/t42/s12613].
+    Another prior section 12653b, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195B, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2523][/us/stat/106/2523], which related to national service program component of Civilian Community Corps Demonstration Program, was renumbered [section 153 of Pub. L. 101–610][/us/pl/101/610/s153] by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], and transferred to [section 12613 of this title][/us/usc/t42/s12613].
 
  __Effective Date__ 
 
@@ -283,21 +283,21 @@
 [/us/usc/t42/s4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4955
 [/us/usc/t42/s12584/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12584%2Fa
 [/us/usc/t42/s12603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12603
-[/us/pl/101/610/s198B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198B
-[/us/pl/111/13/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1805
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1554
-[/us/pl/101/610/s198B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198B
-[/us/pl/103/82/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fc
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F843
 [/us/pl/101/610/s198A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198A
-[/us/pl/111/13/s1803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1803%2Fb
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1554
 [/us/usc/t42/s12653a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653a
-[/us/pl/101/610/s195B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195B
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2523
 [/us/pl/101/610/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs153
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
 [/us/usc/t42/s12613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12613
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa

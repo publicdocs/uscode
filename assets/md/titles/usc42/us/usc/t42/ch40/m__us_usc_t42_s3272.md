@@ -27,7 +27,7 @@
 
     The provision by the Secretary of such assistance shall not interfere with the furnishing of engineering services by private engineering firms or consultants for on-site sampling and testing of sites or for design and construction of specific engineering works.
 
-([Pub. L. 89–560, § 2][/us/pl/89/560/s2], Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
+([Pub. L. 89–560][/us/pl/89/560], § 2, Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/560/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560%2Fs2
+[/us/pl/89/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560
 [/us/stat/80/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F706
 
 

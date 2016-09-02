@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Secretary for fiscal year 1979 $11,900,000, to carry out the provisions of this chapter (other than provisions for which an appropriations authorization is otherwise expressly provided in this chapter) and [section 792 of title 15][/us/usc/t15/s792].
 
-([Pub. L. 95–620, title VII, § 751][/us/pl/95/620/s751], Nov. 9, 1978, [92 Stat. 3344][/us/stat/92/3344].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 751, Nov. 9, 1978, [92 Stat. 3344][/us/stat/92/3344].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792
-[/us/pl/95/620/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs751
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3344
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

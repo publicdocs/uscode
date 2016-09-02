@@ -61,7 +61,7 @@
 
         The liability under this chapter of a contractor, subcontractor, or subordinate contractor engaged in public work under paragraphs (1), (2), (3), and (4) of subsection (a) of this section or in any work under paragraph (5) of subsection (a) of this section does not apply with respect to any person who is a prisoner of war or a protected person under the Geneva Conventions of 1949 and who is detained or utilized by the United States.
 
-([Aug. 16, 1941, ch. 357, § 1][/us/act/1941-08-16/ch357/s1], [55 Stat. 622][/us/stat/55/622]; [Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title III, § 301, [56 Stat. 1035][/us/stat/56/1035]; 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, [60 Stat. 1352][/us/stat/60/1352]; [June 30, 1953, ch. 176, § 4][/us/act/1953-06-30/ch176/s4], [67 Stat. 135][/us/stat/67/135]; [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(a), June 30, 1958, [72 Stat. 272][/us/stat/72/272]; [Pub. L. 85–608, title II, § 201][/us/pl/85/608/s201], Aug. 8, 1958, [72 Stat. 537][/us/stat/72/537]; [Pub. L. 86–70, § 40][/us/pl/86/70/s40], June 25, 1959, [73 Stat. 150][/us/stat/73/150]; [Pub. L. 86–108][/us/pl/86/108], ch. VII, § 701(a), July 24, 1959, [73 Stat. 257][/us/stat/73/257]; [Pub. L. 87–195][/us/pl/87/195], pt. IV, § 701, Sept. 4, 1961, [75 Stat. 463][/us/stat/75/463]; [Pub. L. 98–426, § 27(d)(2)][/us/pl/98/426/s27/d/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Aug. 16, 1941, ch. 357][/us/act/1941-08-16/ch357], § 1, [55 Stat. 622][/us/stat/55/622]; [Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title III, § 301, [56 Stat. 1035][/us/stat/56/1035]; 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, [60 Stat. 1352][/us/stat/60/1352]; [June 30, 1953, ch. 176][/us/act/1953-06-30/ch176], § 4, [67 Stat. 135][/us/stat/67/135]; [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(a), June 30, 1958, [72 Stat. 272][/us/stat/72/272]; [Pub. L. 85–608, title II][/us/pl/85/608/tII], § 201, Aug. 8, 1958, [72 Stat. 537][/us/stat/72/537]; [Pub. L. 86–70][/us/pl/86/70], § 40, June 25, 1959, [73 Stat. 150][/us/stat/73/150]; [Pub. L. 86–108][/us/pl/86/108], ch. VII, § 701(a), July 24, 1959, [73 Stat. 257][/us/stat/73/257]; [Pub. L. 87–195][/us/pl/87/195], pt. IV, § 701, Sept. 4, 1961, [75 Stat. 463][/us/stat/75/463]; [Pub. L. 98–426][/us/pl/98/426], § 27(d)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
     For definition of Canal Zone, referred to in subsec. (a)(2), (3), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
-    The Mutual Security Act of 1954, referred to in subsecs. (a)(5) and (e), is [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], as amended by acts [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], [69 Stat. 283][/us/stat/69/283]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], §§ 2–11, [70 Stat. 555][/us/stat/70/555]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], [71 Stat. 355][/us/stat/71/355]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. 1, §§ 101–103, ch. II, §§ 201–205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, [72 Stat. 261][/us/stat/72/261]; July 24, 1959, [Pub. L. 86–108, § 2][/us/pl/86/108/s2], ch. 1, § 101, ch. II, §§ 201 to 205(a)–(i), (k)–(n), ch. III, § 301, ch. IV, § 401(a)–(k), (m), [73 Stat. 246][/us/stat/73/246]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], chs. I to V, [74 Stat. 134][/us/stat/74/134], which was principally classified to chapter 24 (§ 1750 et seq.) of Title 22, and which was repealed by acts [July 18, 1956, ch. 627, § 8(m)][/us/act/1956-07-18/ch627/s8/m], [70 Stat. 559][/us/stat/70/559]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], §§ 2(e), 3, 4(b), 11(d), [71 Stat. 356][/us/stat/71/356]; July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], ch. II, § 205(j), ch. IV, § 401(1), [73 Stat. 250][/us/stat/73/250]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. II, §§ 203(d), 204(k), [74 Stat. 138][/us/stat/74/138]; Sept. 4, 1961, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), [75 Stat. 460][/us/stat/75/460]; June 30, 1976, [Pub. L. 94–329, title II, § 212(b)(1)][/us/pl/94/329/s212/b/1], [90 Stat. 745][/us/stat/90/745]; Apr. 4, 1996, [Pub. L. 104–127, title II, § 228][/us/pl/104/127/s228], [110 Stat. 963][/us/stat/110/963], except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of Title 22][/us/usc/t22/s1754] and Tables.
+    The Mutual Security Act of 1954, referred to in subsecs. (a)(5) and (e), is [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], as amended by acts [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], [69 Stat. 283][/us/stat/69/283]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], §§ 2–11, [70 Stat. 555][/us/stat/70/555]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], [71 Stat. 355][/us/stat/71/355]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. 1, §§ 101–103, ch. II, §§ 201–205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, [72 Stat. 261][/us/stat/72/261]; July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a)–(i), (k)–(n), ch. III, § 301, ch. IV, § 401(a)–(k), (m), [73 Stat. 246][/us/stat/73/246]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], chs. I to V, [74 Stat. 134][/us/stat/74/134], which was principally classified to chapter 24 (§ 1750 et seq.) of Title 22, and which was repealed by acts [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], § 8(m), [70 Stat. 559][/us/stat/70/559]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], §§ 2(e), 3, 4(b), 11(d), [71 Stat. 356][/us/stat/71/356]; July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], ch. II, § 205(j), ch. IV, § 401(1), [73 Stat. 250][/us/stat/73/250]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. II, §§ 203(d), 204(k), [74 Stat. 138][/us/stat/74/138]; Sept. 4, 1961, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), [75 Stat. 460][/us/stat/75/460]; June 30, 1976, [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 212(b)(1), [90 Stat. 745][/us/stat/90/745]; Apr. 4, 1996, [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 228, [110 Stat. 963][/us/stat/110/963], except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of Title 22][/us/usc/t22/s1754] and Tables.
 
     Title II of Chapter II of the Mutual Security Act of 1954, referred to in subsec. (a)(5), which was classified generally to sections 1870 to 1876 of Title 22, was repealed by [Pub. L. 87–195][/us/pl/87/195], Pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460].
 
@@ -81,31 +81,31 @@
 
     1984—Subsecs. (a), (d). [Pub. L. 98–426][/us/pl/98/426] substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen’s and Harbor Workers’ Compensation Act”.
 
-    1961—Subsec. (a)(5). [Pub. L. 87–195, § 701(1)][/us/pl/87/195/s701/1], extended coverage in those cases where the Secretary of Labor, upon the recommendation of the head of any department or other agency of the United States, determines a contract financed under a successor provision of any successor act to the Mutual Security Act of 1954 should be covered by this section.
+    1961—Subsec. (a)(5). [Pub. L. 87–195][/us/pl/87/195], § 701(1), extended coverage in those cases where the Secretary of Labor, upon the recommendation of the head of any department or other agency of the United States, determines a contract financed under a successor provision of any successor act to the Mutual Security Act of 1954 should be covered by this section.
 
-    Subsec. (e). [Pub. L. 87–195, § 701(2)][/us/pl/87/195/s701/2], substituted “but not completed on the date of enactment of any successor act to the Mutual Security Act of 1954, as amended” for “June 30, 1958, but not completed on July 24, 1959”.
+    Subsec. (e). [Pub. L. 87–195][/us/pl/87/195], § 701(2), substituted “but not completed on the date of enactment of any successor act to the Mutual Security Act of 1954, as amended” for “June 30, 1958, but not completed on July 24, 1959”.
 
-    1959—Subsec. (a)(2), (3). [Pub. L. 86–70, § 40(a)][/us/pl/86/70/s40/a], struck out “Alaska;” before “the United States Naval Operating Base”.
+    1959—Subsec. (a)(2), (3). [Pub. L. 86–70][/us/pl/86/70], § 40(a), struck out “Alaska;” before “the United States Naval Operating Base”.
 
-    Subsec. (a)(6). [Pub. L. 86–70, § 40(b)][/us/pl/86/70/s40/b], struck out “or in Alaska or the Canal Zone” after “continental United States”.
+    Subsec. (a)(6). [Pub. L. 86–70][/us/pl/86/70], § 40(b), struck out “or in Alaska or the Canal Zone” after “continental United States”.
 
-    Subsec. (b)(4). [Pub. L. 86–70, § 40(c)][/us/pl/86/70/s40/c], added par. (4).
+    Subsec. (b)(4). [Pub. L. 86–70][/us/pl/86/70], § 40(c), added par. (4).
 
     Subsec. (e). [Pub. L. 86–108][/us/pl/86/108] provided that the liability under this chapter of a contractor, subcontractor, or subordinate contractor engaged in performance of contracts, subcontracts, or subordinate contracts specified in subsec. (a)(5) of this section, and the conditions set forth therein, shall be applicable to the remaining terms of such contracts, subcontracts, and subordinate contracts entered into prior to June 30, 1958, but not completed on July 24, 1959.
 
-    1958—Subsec. (a)(5). [Pub. L. 85–477, § 502(a)(1)][/us/pl/85/477/s502/a/1], added par. (5).
+    1958—Subsec. (a)(5). [Pub. L. 85–477][/us/pl/85/477], § 502(a)(1), added par. (5).
 
-    Subsec. (a)(6). [Pub. L. 85–608, § 201(a)][/us/pl/85/608/s201/a], added par. (6).
+    Subsec. (a)(6). [Pub. L. 85–608][/us/pl/85/608], § 201(a), added par. (6).
 
-    Subsec. (b). [Pub. L. 85–608, § 201(b)][/us/pl/85/608/s201/b], inserted “whether or not fixed,” after “any project” and substituted “projects or operations under service contracts and projects in connection with the national defense or with war activities” for “projects in connection with the war effort” in definition of “public work”, and inserted definitions of “allies” and “war activities”.
+    Subsec. (b). [Pub. L. 85–608][/us/pl/85/608], § 201(b), inserted “whether or not fixed,” after “any project” and substituted “projects or operations under service contracts and projects in connection with the national defense or with war activities” for “projects in connection with the war effort” in definition of “public work”, and inserted definitions of “allies” and “war activities”.
 
-    Subsec. (e). [Pub. L. 85–608, § 201(c)][/us/pl/85/608/s201/c], substituted “may waive the application of this section with respect to any contract” for “may waive the application of the provisions of subparagraphs (3), (4), or (5) of subdivision (a) of this section, with respect to any contract”, and inserted provisions authorizing the Secretary to waive the application of this section to any employee or class of employees of an employer referred to in paragraph (6) of subsection (a) of this section upon recommendation of the employer.
+    Subsec. (e). [Pub. L. 85–608][/us/pl/85/608], § 201(c), substituted “may waive the application of this section with respect to any contract” for “may waive the application of the provisions of subparagraphs (3), (4), or (5) of subdivision (a) of this section, with respect to any contract”, and inserted provisions authorizing the Secretary to waive the application of this section to any employee or class of employees of an employer referred to in paragraph (6) of subsection (a) of this section upon recommendation of the employer.
 
-    [Pub. L. 85–477, § 502(a)(2)][/us/pl/85/477/s502/a/2], substituted “provisions of subparagraphs (3), (4), or (5)” for “provisions of subparagraphs (3) or (4)”.
+    [Pub. L. 85–477][/us/pl/85/477], § 502(a)(2), substituted “provisions of subparagraphs (3), (4), or (5)” for “provisions of subparagraphs (3) or (4)”.
 
-    Subsec. (f). [Pub. L. 85–602, § 201(d)][/us/pl/85/602/s201/d], substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected persons and who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
+    Subsec. (f). [Pub. L. 85–602][/us/pl/85/602], § 201(d), substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected persons and who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
 
-    [Pub. L. 85–477, § 502(a)(3)][/us/pl/85/477/s502/a/3], inserted “or any work under subparagraph (5) of subsection (a) of this section” before “shall not apply”.
+    [Pub. L. 85–477][/us/pl/85/477], § 502(a)(3), inserted “or any work under subparagraph (5) of subsection (a) of this section” before “shall not apply”.
 
     1953—Subsec. (f). Act June 30, 1953, added subsec. (f).
 
@@ -117,19 +117,19 @@
 
  __Effective Date of 1959 Amendment__ 
 
-[Pub. L. 86–70, § 47(g)][/us/pl/86/70/s47/g], June 25, 1959, [73 Stat. 154][/us/stat/73/154], provided that: 
+[Pub. L. 86–70][/us/pl/86/70], § 47(g), June 25, 1959, [73 Stat. 154][/us/stat/73/154], provided that: 
 
 > “The amendments in sections 40 and 42 \[amending this section and sections 1701, 1704, and 1711 of this title\] shall take effect when enacted \[June 25, 1959\]: Provided, however, That with respect to injuries or deaths occurring on or after January 3, 1959, and prior to the effective date of these amendments, claims filed by employees engaged in the State of Alaska in any of the employments covered by the Defense Base Act \[this chapter\] (and their dependents) may be adjudicated under the Workmen’s Compensation Act of Alaska instead of the Defense Base Act.”
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–608, title IV, § 402][/us/pl/85/608/s402], Aug. 8, 1958, [72 Stat. 539][/us/stat/72/539], provided that: 
+[Pub. L. 85–608, title IV][/us/pl/85/608/tIV], § 402, Aug. 8, 1958, [72 Stat. 539][/us/stat/72/539], provided that: 
 
 > “The effective date of this Act \[amending this section, sections 1701, 1702, 1704, 1711, and 1716 of this title, and sections 751 and 790 of former Title 5, Executive Departments and Government Officers and Employees, repealing section 801 of former Title 5, and enacting provisions set out as notes under this section and [section 1701 of this title][/us/usc/t42/s1701]\] is June 30, 1958. Persons are entitled to the benefits of this Act notwithstanding the fact that an injury, disability, or death occurred after June 30, 1958, and before the date of enactment of this Act \[Aug. 8, 1958\].”
 
  __Short Title__ 
 
-Section 5 of act Aug. 16, 1941, as added by [Pub. L. 85–608, title II, § 202][/us/pl/85/608/s202], Aug. 8, 1958, [72 Stat. 538][/us/stat/72/538], provided that: 
+Section 5 of act Aug. 16, 1941, as added by [Pub. L. 85–608, title II][/us/pl/85/608/tII], § 202, Aug. 8, 1958, [72 Stat. 538][/us/stat/72/538], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Defense Base Act’.”
 
@@ -151,24 +151,24 @@ Section 5 of act Aug. 16, 1941, as added by [Pub. L. 85–608, title II, § 20
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
-[/us/act/1941-08-16/ch357/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-16%2Fch357%2Fs1
+[/us/act/1941-08-16/ch357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-16%2Fch357
 [/us/stat/55/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F622
 [/us/act/1942-12-02/ch668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-02%2Fch668
 [/us/stat/56/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1035
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/act/1953-06-30/ch176/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch176%2Fs4
+[/us/act/1953-06-30/ch176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch176
 [/us/stat/67/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F135
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/stat/72/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F272
-[/us/pl/85/608/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs201
+[/us/pl/85/608/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2FtII
 [/us/stat/72/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F537
-[/us/pl/86/70/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs40
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F150
 [/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/stat/73/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F257
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F463
-[/us/pl/98/426/s27/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fd%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
@@ -184,11 +184,11 @@ Section 5 of act Aug. 16, 1941, as added by [Pub. L. 85–608, title II, § 20
 [/us/stat/71/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F355
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/stat/72/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F261
-[/us/pl/86/108/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108%2Fs2
+[/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/stat/73/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F246
 [/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
 [/us/stat/74/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F134
-[/us/act/1956-07-18/ch627/s8/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627%2Fs8%2Fm
+[/us/act/1956-07-18/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627
 [/us/stat/70/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F559
 [/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 [/us/stat/71/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F356
@@ -198,9 +198,9 @@ Section 5 of act Aug. 16, 1941, as added by [Pub. L. 85–608, title II, § 20
 [/us/stat/74/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F138
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
-[/us/pl/94/329/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs212%2Fb%2F1
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F745
-[/us/pl/104/127/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs228
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F963
 [/us/usc/t22/s1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1754
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -208,28 +208,28 @@ Section 5 of act Aug. 16, 1941, as added by [Pub. L. 85–608, title II, § 20
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
-[/us/pl/87/195/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs701%2F1
-[/us/pl/87/195/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs701%2F2
-[/us/pl/86/70/s40/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs40%2Fa
-[/us/pl/86/70/s40/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs40%2Fb
-[/us/pl/86/70/s40/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs40%2Fc
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
-[/us/pl/85/477/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477%2Fs502%2Fa%2F1
-[/us/pl/85/608/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs201%2Fa
-[/us/pl/85/608/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs201%2Fb
-[/us/pl/85/608/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs201%2Fc
-[/us/pl/85/477/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477%2Fs502%2Fa%2F2
-[/us/pl/85/602/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602%2Fs201%2Fd
-[/us/pl/85/477/s502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477%2Fs502%2Fa%2F3
+[/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
+[/us/pl/85/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F602
+[/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
-[/us/pl/86/70/s47/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fg
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F154
-[/us/pl/85/608/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs402
+[/us/pl/85/608/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2FtIV
 [/us/stat/72/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F539
 [/us/usc/t42/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1701
-[/us/pl/85/608/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs202
+[/us/pl/85/608/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2FtII
 [/us/stat/72/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F538
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F463

@@ -61,23 +61,23 @@
 
             (C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 426, as added [Pub. L. 90–248, title II, § 240(c)][/us/pl/90/248/s240/c], Jan. 2, 1968, [81 Stat. 915][/us/stat/81/915]; amended [Pub. L. 100–203, title IX, § 9137][/us/pl/100/203/s9137], Dec. 22, 1987, [101 Stat. 1330–319][/us/stat/101/1330-319]; [Pub. L. 103–432, title II, § 205(b)][/us/pl/103/432/s205/b], Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457]; [Pub. L. 109–288][/us/pl/109/288], §§ 6(f)(2), 11(b), Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247], 1255.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 426, as added [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 240(c), Jan. 2, 1968, [81 Stat. 915][/us/stat/81/915]; amended [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9137, Dec. 22, 1987, [101 Stat. 1330–319][/us/stat/101/1330-319]; [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 205(b), Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457]; [Pub. L. 109–288][/us/pl/109/288], §§ 6(f)(2), 11(b), Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247], 1255.)
 
  __References in Text__ 
 
-    [Section 628a of this title][/us/usc/t42/s628a], referred to in subsec. (a)(1)(C), was transferred and redesignated as subsec. (c) of this section by [Pub. L. 109–288, § 6(f)(2)][/us/pl/109/288/s6/f/2], Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247].
+    [Section 628a of this title][/us/usc/t42/s628a], referred to in subsec. (a)(1)(C), was transferred and redesignated as subsec. (c) of this section by [Pub. L. 109–288][/us/pl/109/288], § 6(f)(2), Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247].
 
  __Codification__ 
 
-    [Section 628a of this title][/us/usc/t42/s628a], which was transferred and redesignated as subsec. (c) of this section by [Pub. L. 109–288][/us/pl/109/288], was based on [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 429, as added [Pub. L. 103–432, title II, § 205(a)][/us/pl/103/432/s205/a], Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456].
+    [Section 628a of this title][/us/usc/t42/s628a], which was transferred and redesignated as subsec. (c) of this section by [Pub. L. 109–288][/us/pl/109/288], was based on [act Aug. 14, 1935, ch. 531, title IV][/us/act/1935-08-14/ch531/tIV], § 429, as added [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 205(a), Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456].
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–288, § 11(b)][/us/pl/109/288/s11/b], redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
+    2006—Subsec. (b). [Pub. L. 109–288][/us/pl/109/288], § 11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
 
-    Subsec. (c). [Pub. L. 109–288, § 6(f)(2)][/us/pl/109/288/s6/f/2], amended section as amended by [Pub. L. 109–288, § 11(b)][/us/pl/109/288/s11/b], by transferring [section 628a of this title][/us/usc/t42/s628a] and redesignating it as subsec. (c) of this section. See Codification note above.
+    Subsec. (c). [Pub. L. 109–288][/us/pl/109/288], § 6(f)(2), amended section as amended by [Pub. L. 109–288][/us/pl/109/288], § 11(b), by transferring [section 628a of this title][/us/usc/t42/s628a] and redesignating it as subsec. (c) of this section. See Codification note above.
 
-    [Pub. L. 109–288, § 11(b)][/us/pl/109/288/s11/b], redesignated subsec. (c) as (b).
+    [Pub. L. 109–288][/us/pl/109/288], § 11(b), redesignated subsec. (c) as (b).
 
     1994—Subsec. (a)(1)(C). [Pub. L. 103–432][/us/pl/103/432] inserted “described in [section 628a of this title][/us/usc/t42/s628a]” after “including traineeships”.
 
@@ -89,13 +89,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–432, title II, § 205(c)][/us/pl/103/432/s205/c], Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457], provided that: 
+[Pub. L. 103–432, title II][/us/pl/103/432/tII], § 205(c), Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457], provided that: 
 
 > “The amendments made by this section \[enacting [section 628a of this title][/us/usc/t42/s628a] and amending this section\] shall apply to grants awarded on or after October 1, 1995.”
 
  __Appropriations or Grants__ 
 
-    [Pub. L. 90–248, title II, § 240(g)][/us/pl/90/248/s240/g], Jan. 2, 1968, [81 Stat. 916][/us/stat/81/916], provided that any appropriations or grants made pursuant to [section 726 of this title][/us/usc/t42/s726], as in effect prior to Jan. 2, 1968, were to be deemed to have been appropriated or made under this section.
+    [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 240(g), Jan. 2, 1968, [81 Stat. 916][/us/stat/81/916], provided that any appropriations or grants made pursuant to [section 726 of this title][/us/usc/t42/s726], as in effect prior to Jan. 2, 1968, were to be deemed to have been appropriated or made under this section.
 
 ----------
 
@@ -105,37 +105,37 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s240/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fc
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F915
-[/us/pl/100/203/s9137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9137
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-319
-[/us/pl/103/432/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs205%2Fb
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4457
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1247
 [/us/usc/t42/s628a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs628a
-[/us/pl/109/288/s6/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F2
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1247
 [/us/usc/t42/s628a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs628a
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/432/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs205%2Fa
+[/us/act/1935-08-14/ch531/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIV
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4456
-[/us/pl/109/288/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs11%2Fb
-[/us/pl/109/288/s6/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F2
-[/us/pl/109/288/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs11%2Fb
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s628a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs628a
-[/us/pl/109/288/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs11%2Fb
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t42/s628a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs628a
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621
-[/us/pl/103/432/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs205%2Fc
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4457
 [/us/usc/t42/s628a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs628a
-[/us/pl/90/248/s240/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fg
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F916
 [/us/usc/t42/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs726
 

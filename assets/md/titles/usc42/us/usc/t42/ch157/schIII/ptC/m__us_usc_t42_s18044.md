@@ -49,11 +49,11 @@
 
         (13) benefit plan material or information.
 
-([Pub. L. 111–148, title I, § 1324][/us/pl/111/148/s1324], title X, § 10104(n), Mar. 23, 2010, [124 Stat. 199][/us/stat/124/199], 902.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1324, title X, § 10104(n), Mar. 23, 2010, [124 Stat. 199][/us/stat/124/199], 902.)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 10104(n)][/us/pl/111/148/s10104/n], substituted “, or a multi-State qualified health plan under [section 18054 of this title][/us/usc/t42/s18054]” for “, a community health insurance option under [section 18043 of this title][/us/usc/t42/s18043], or a nationwide qualified health plan under [section 18053(b) of this title][/us/usc/t42/s18053/b]”.
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 10104(n), substituted “, or a multi-State qualified health plan under [section 18054 of this title][/us/usc/t42/s18054]” for “, a community health insurance option under [section 18043 of this title][/us/usc/t42/s18043], or a nationwide qualified health plan under [section 18053(b) of this title][/us/usc/t42/s18053/b]”.
 
 ----------
 
@@ -64,9 +64,9 @@
 
 [/us/usc/t42/s18042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18042
 [/us/usc/t42/s18054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18054
-[/us/pl/111/148/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1324
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F199
-[/us/pl/111/148/s10104/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fn
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s18054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18054
 [/us/usc/t42/s18043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18043
 [/us/usc/t42/s18053/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18053%2Fb

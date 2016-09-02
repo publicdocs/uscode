@@ -17,7 +17,7 @@
 
     During the course of the study and investigation authorized by sections 1962d–7 to 1962d–11 of this title, the Secretary may submit to the President for transmission to the Congress such interim reports as the Secretary may consider desirable. The Secretary shall submit a final report to the President for transmission to the Congress not more than six years after October 4, 1966.
 
-([Pub. L. 89–618, § 2][/us/pl/89/618/s2], Oct. 4, 1966, [80 Stat. 870][/us/stat/80/870].)
+([Pub. L. 89–618][/us/pl/89/618], § 2, Oct. 4, 1966, [80 Stat. 870][/us/stat/80/870].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/618/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618%2Fs2
+[/us/pl/89/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618
 [/us/stat/80/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F870
 
 

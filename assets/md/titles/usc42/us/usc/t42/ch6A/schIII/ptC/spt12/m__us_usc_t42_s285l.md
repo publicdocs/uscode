@@ -17,7 +17,7 @@
 
     The general purpose of the National Institute of Environmental Health Sciences (in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to factors in the environment that affect human health, directly or indirectly.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 463, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 857][/us/stat/99/857]; amended [Pub. L. 103–43, title XIII, § 1301(b)][/us/pl/103/43/s1301/b], June 10, 1993, [107 Stat. 170][/us/stat/107/170].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 463, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 857][/us/stat/99/857]; amended [Pub. L. 103–43, title XIII][/us/pl/103/43/tXIII], § 1301(b), June 10, 1993, [107 Stat. 170][/us/stat/107/170].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F857
-[/us/pl/103/43/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1301%2Fb
+[/us/pl/103/43/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIII
 [/us/stat/107/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F170
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

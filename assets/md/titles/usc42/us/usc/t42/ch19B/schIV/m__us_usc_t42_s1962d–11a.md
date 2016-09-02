@@ -29,7 +29,7 @@
 
         Except as may be provided in the agreement referred to in subsection (a)(2) of this section, nothing in this section shall alter any riparian rights or other authority of the State of Maryland, or any political subdivision thereof, the Commonwealth of Virginia, or any political subdivision thereof, or the District of Columbia, or authority of the Corps of Engineers existing on October 22, 1976, relative to the appropriation of water from, or the use of, the Potomac River.
 
-([Pub. L. 94–587, § 181][/us/pl/94/587/s181], Oct. 22, 1976, [90 Stat. 2939][/us/stat/90/2939]; [Pub. L. 96–292, § 2][/us/pl/96/292/s2], June 28, 1980, [94 Stat. 609][/us/stat/94/609].)
+([Pub. L. 94–587][/us/pl/94/587], § 181, Oct. 22, 1976, [90 Stat. 2939][/us/stat/90/2939]; [Pub. L. 96–292][/us/pl/96/292], § 2, June 28, 1980, [94 Stat. 609][/us/stat/94/609].)
 
  __Codification__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t33/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs401
-[/us/pl/94/587/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs181
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2939
-[/us/pl/96/292/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F292%2Fs2
+[/us/pl/96/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F292
 [/us/stat/94/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F609
 [/us/pl/96/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F292
 

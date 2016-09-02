@@ -101,7 +101,7 @@
 
             There is authorized to be appropriated to carry out subsection (e) $10,000,000 for the period of fiscal years 2009 through 2013, to remain available until expended.
 
-([Pub. L. 111–11, title IX, § 9506][/us/pl/111/11/s9506], Mar. 30, 2009, [123 Stat. 1338][/us/stat/123/1338].)
+([Pub. L. 111–11, title IX][/us/pl/111/11/tIX], § 9506, Mar. 30, 2009, [123 Stat. 1338][/us/stat/123/1338].)
 
 ----------
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s9506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9506
+[/us/pl/111/11/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIX
 [/us/stat/123/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1338
 
 

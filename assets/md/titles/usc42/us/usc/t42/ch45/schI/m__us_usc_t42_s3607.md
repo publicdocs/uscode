@@ -67,7 +67,7 @@
 
                 (ii) the facility or community has stated formally, in writing, that the facility or community complies with the requirements for such exemption.
 
-([Pub. L. 90–284, title VIII, § 807][/us/pl/90/284/s807], Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 100–430, § 6(d)][/us/pl/100/430/s6/d], Sept. 13, 1988, [102 Stat. 1622][/us/stat/102/1622]; [Pub. L. 104–76][/us/pl/104/76], §§ 2, 3, Dec. 28, 1995, [109 Stat. 787][/us/stat/109/787].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 807, Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 100–430][/us/pl/100/430], § 6(d), Sept. 13, 1988, [102 Stat. 1622][/us/stat/102/1622]; [Pub. L. 104–76][/us/pl/104/76], §§ 2, 3, Dec. 28, 1995, [109 Stat. 787][/us/stat/109/787].)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 
  __Amendments__ 
 
-    1995—Subsec. (b)(2)(C). [Pub. L. 104–76, § 2][/us/pl/104/76/s2], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “intended and operated for occupancy by at least one person 55 years of age or older per unit. In determining whether housing qualifies as housing for older persons under this subsection, the Secretary shall develop regulations which require at least the following factors:
+    1995—Subsec. (b)(2)(C). [Pub. L. 104–76][/us/pl/104/76], § 2, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “intended and operated for occupancy by at least one person 55 years of age or older per unit. In determining whether housing qualifies as housing for older persons under this subsection, the Secretary shall develop regulations which require at least the following factors:
 
     “(i) the existence of significant facilities and services specifically designed to meet the physical or social needs of older persons, or if the provision of such facilities and services is not practicable, that such housing is necessary to provide important housing opportunities for older persons; and
 
@@ -83,7 +83,7 @@
 
     “(iii) the publication of, and adherence to, policies and procedures which demonstrate an intent by the owner or manager to provide housing for persons 55 years of age or older.”
 
-    Subsec. (b)(5). [Pub. L. 104–76, § 3][/us/pl/104/76/s3], added par. (5).
+    Subsec. (b)(5). [Pub. L. 104–76][/us/pl/104/76], § 3, added par. (5).
 
     1988—[Pub. L. 100–430][/us/pl/100/430] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -93,7 +93,7 @@
 
  __Regulations__ 
 
-[Pub. L. 102–550, title IX, § 919][/us/pl/102/550/s919], Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883], provided that: 
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 919, Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883], provided that: 
 
 > “The Secretary of Housing and Urban Development shall, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 1992\], make rules defining what are ‘significant facilities and services especially designed to meet the physical or social needs of older persons’ required under section 807(b)(2) of the Fair Housing Act \[[42 U.S.C. 3607(b)(2)][/us/usc/t42/s3607/b/2]\] to meet the definition of the term ‘housing for older persons’ in such section.”
 
@@ -105,20 +105,20 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/90/284/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs807
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F84
-[/us/pl/100/430/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs6%2Fd
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1622
 [/us/pl/104/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F76
 [/us/stat/109/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F787
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
-[/us/pl/104/76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F76%2Fs2
-[/us/pl/104/76/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F76%2Fs3
+[/us/pl/104/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F76
+[/us/pl/104/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F76
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/102/550/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs919
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3883
 [/us/usc/t42/s3607/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3607%2Fb%2F2
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch81/schII/m__us_usc_t42_s6837.md) | [Next](./../../../../..//us/usc/t42/ch81/schIII/m__us_usc_t42_s6851.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch81%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch81/schII/m__us_usc_t42_s6838...6840.md) | [Next](./../../../../..//us/usc/t42/ch81/schIII/m__us_usc_t42_s6851.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch81%2FschIII)
 
 ### SUBCHAPTER III—ENERGY CONSERVATION AND RENEWABLE-RESOURCE ASSISTANCE FOR EXISTING BUILDINGS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch81/schII/m__us_usc_t42_s6837.md) | [Next](./../../../../..//us/usc/t42/ch81/schIII/m__us_usc_t42_s6851.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch81%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch81/schII/m__us_usc_t42_s6838...6840.md) | [Next](./../../../../..//us/usc/t42/ch81/schIII/m__us_usc_t42_s6851.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch81%2FschIII)
 
 ----------
 ----------

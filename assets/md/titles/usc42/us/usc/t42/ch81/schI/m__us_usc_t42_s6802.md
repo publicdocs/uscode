@@ -31,7 +31,7 @@
 
     (7) The term “utility regulatory commission” means any State agency or Federal agency which has authority to fix, modify, approve, or disapprove rates for the sale of electric energy by any electric utility (other than by such agency).
 
-([Pub. L. 94–385, title II, § 202][/us/pl/94/385/s202], Aug. 14, 1976, [90 Stat. 1142][/us/stat/90/1142]; [Pub. L. 95–617, title I, § 143][/us/pl/95/617/s143], Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134]; [Pub. L. 105–388, § 5(b)(2)][/us/pl/105/388/s5/b/2], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
+([Pub. L. 94–385, title II][/us/pl/94/385/tII], § 202, Aug. 14, 1976, [90 Stat. 1142][/us/stat/90/1142]; [Pub. L. 95–617, title I][/us/pl/95/617/tI], § 143, Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134]; [Pub. L. 105–388][/us/pl/105/388], § 5(b)(2), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/94/385/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs202
+[/us/pl/94/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtII
 [/us/stat/90/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1142
-[/us/pl/95/617/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs143
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3134
-[/us/pl/105/388/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fb%2F2
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617

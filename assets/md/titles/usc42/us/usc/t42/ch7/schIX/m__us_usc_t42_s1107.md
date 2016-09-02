@@ -37,15 +37,15 @@
 
         There are hereby authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter such sums, not to exceed $5,000,000, as may be necessary to carry out the purposes of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 907, as added [Pub. L. 91–373, title I, § 141][/us/pl/91/373/s141], Aug. 10, 1970, [84 Stat. 705][/us/stat/84/705].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 907, as added [Pub. L. 91–373, title I][/us/pl/91/373/tI], § 141, Aug. 10, 1970, [84 Stat. 705][/us/stat/84/705].)
 
  __References in Text__ 
 
-    [Section 869b of title 20][/us/usc/t20/s869b], referred to in subsec. (c), was repealed by [Pub. L. 91–648, title IV, § 403][/us/pl/91/648/s403], Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925]. Provisions relating to assignment of personnel to and from State and local governments are covered by section 3371 et seq. of Title 5, Government Organization and Employees.
+    [Section 869b of title 20][/us/usc/t20/s869b], referred to in subsec. (c), was repealed by [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 403, Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925]. Provisions relating to assignment of personnel to and from State and local governments are covered by section 3371 et seq. of Title 5, Government Organization and Employees.
 
  __Prior Provisions__ 
 
-    A prior section 1107, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 907, [49 Stat. 642][/us/stat/49/642]; [June 25, 1938, ch. 680, § 13(a)][/us/act/1938-06-25/ch680/s13/a], [52 Stat. 1110][/us/stat/52/1110], related to definitions. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
+    A prior section 1107, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 907, [49 Stat. 642][/us/stat/49/642]; [June 25, 1938, ch. 680][/us/act/1938-06-25/ch680], § 13(a), [52 Stat. 1110][/us/stat/52/1110], related to definitions. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
 
 ----------
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/91/373/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs141
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F705
 [/us/usc/t20/s869b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs869b
-[/us/pl/91/648/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs403
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1925
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F642
-[/us/act/1938-06-25/ch680/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch680%2Fs13%2Fa
+[/us/act/1938-06-25/ch680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch680
 [/us/stat/52/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1110
 [/us/usc/t42/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101
 

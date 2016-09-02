@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated such sums as may be necessary for the administration of this subchapter.
 
-([Pub. L. 94–369, title II, § 214][/us/pl/94/369/s214], July 22, 1976, [90 Stat. 1010][/us/stat/90/1010].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 214, July 22, 1976, [90 Stat. 1010][/us/stat/90/1010].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/369/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs214
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1010
 
 

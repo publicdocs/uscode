@@ -29,7 +29,7 @@
 
     (6) “Secretary” means the Secretary of Energy.
 
-([Pub. L. 95–590, § 3][/us/pl/95/590/s3], Nov. 4, 1978, [92 Stat. 2515][/us/stat/92/2515].)
+([Pub. L. 95–590][/us/pl/95/590], § 3, Nov. 4, 1978, [92 Stat. 2515][/us/stat/92/2515].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/95/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs3
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2515
 
 

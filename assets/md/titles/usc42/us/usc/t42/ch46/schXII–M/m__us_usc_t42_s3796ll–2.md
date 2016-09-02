@@ -35,7 +35,7 @@
 
     (6) the term “law enforcement officer” means any officer, agent, or employee of a State, unit of local government, or Indian tribe authorized by law or by a government agency to engage in or supervise the prevention, detection, or investigation of any violation of criminal law, or authorized by law to supervise sentenced criminal offenders.
 
-([Pub. L. 90–351, title I, § 2503][/us/pl/90/351/s2503], as added [Pub. L. 105–181, § 3(a)(3)][/us/pl/105/181/s3/a/3], June 16, 1998, [112 Stat. 514][/us/stat/112/514]; amended [Pub. L. 106–517, § 3(d)][/us/pl/106/517/s3/d], Nov. 13, 2000, [114 Stat. 2408][/us/stat/114/2408].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2503, as added [Pub. L. 105–181][/us/pl/105/181], § 3(a)(3), June 16, 1998, [112 Stat. 514][/us/stat/112/514]; amended [Pub. L. 106–517][/us/pl/106/517], § 3(d), Nov. 13, 2000, [114 Stat. 2408][/us/stat/114/2408].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Interim Definition of Armor Vest__ 
 
-[Pub. L. 106–517, § 3(e)][/us/pl/106/517/s3/e], Nov. 13, 2000, [114 Stat. 2408][/us/stat/114/2408], provided that: 
+[Pub. L. 106–517][/us/pl/106/517], § 3(e), Nov. 13, 2000, [114 Stat. 2408][/us/stat/114/2408], provided that: 
 
 > “For purposes of part Y of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3796][/us/usc/t42/s3796]ll et seq.\], as amended by this Act, the meaning of the term ‘armor vest’ (as defined in section 2503 of such Act ([42 U.S.C. 3796][/us/usc/t42/s3796]ll–2)) shall, until the date on which a final NIJ Standard 0115.00 is first fully approved and implemented, also include body armor which has been found to meet or exceed the requirements for protection against stabbing established by the State in which the grantee is located.”
 
@@ -55,13 +55,13 @@
 ----------
 
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/90/351/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2503
-[/us/pl/105/181/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181%2Fs3%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/105/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181
 [/us/stat/112/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F514
-[/us/pl/106/517/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517%2Fs3%2Fd
+[/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
 [/us/stat/114/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2408
 [/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
-[/us/pl/106/517/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517%2Fs3%2Fe
+[/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
 [/us/stat/114/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2408
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796

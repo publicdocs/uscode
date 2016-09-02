@@ -37,7 +37,7 @@
 
         There is authorized to be appropriated to carry out this section $1,500,000 for each of fiscal years 2007 through 2010.
 
-([Pub. L. 109–58, title IX, § 986A][/us/pl/109/58/s986A], Aug. 8, 2005, [119 Stat. 910][/us/stat/119/910].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 986A, Aug. 8, 2005, [119 Stat. 910][/us/stat/119/910].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s986A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs986A
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F910
 
 

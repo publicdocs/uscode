@@ -17,7 +17,7 @@
 
     Pursuant to regulations prescribed by the President, and to the extent consistent with the other provisions of this chapter, where funds are provided for a single project by more than one Federal agency to an agency or organization assisted under this chapter, the Federal agency principally involved may be designated to act for all in administering the funds provided, and, notwithstanding any other provision of law, in such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each agency. When the principal agency involved is the Corporation, it may waive any grant or contract requirement (as defined by such regulations) under or pursuant to any law other than this chapter, which requirement is inconsistent with the similar requirements under or pursuant to this chapter.
 
-([Pub. L. 93–113, title IV, § 408][/us/pl/93/113/s408], Oct. 1, 1973, [87 Stat. 410][/us/stat/87/410]; [Pub. L. 103–82, title IV, § 405(a)(8)][/us/pl/103/82/s405/a/8], Sept. 21, 1993, [107 Stat. 920][/us/stat/107/920].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 408, Oct. 1, 1973, [87 Stat. 410][/us/stat/87/410]; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(a)(8), Sept. 21, 1993, [107 Stat. 920][/us/stat/107/920].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/93/113/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs408
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F410
-[/us/pl/103/82/s405/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F8
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F920
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

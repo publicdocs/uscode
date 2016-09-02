@@ -161,13 +161,13 @@
 
         The Secretary shall issue such regulations as may be necessary to carry out the provisions of this section. Such regulations may establish any additional terms and conditions for homeownership or resident management under this section that are determined by the Secretary to be appropriate.
 
-    (f) __Repealed.__  __[__  __Pub. L. 104–66, title I, § 1071(a)__  __][/us/pl/104/66/s1071/a]__  __,__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 720__  __][/us/stat/109/720]__ 
+    (f) __Repealed.__  __[__  __Pub. L. 104–66, title I__  __][/us/pl/104/66/tI]__  __, § 1071(a),__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 720__  __][/us/stat/109/720]__ 
 
     (g) __Limitation__ 
 
         Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 21, as added [Pub. L. 100–242, title I, § 123][/us/pl/100/242/s123], Feb. 5, 1988, [101 Stat. 1842][/us/stat/101/1842]; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; amended [Pub. L. 101–625, title IV, § 416][/us/pl/101/625/s416], title V, § 572(1), Nov. 28, 1990, [104 Stat. 4161][/us/stat/104/4161], 4236; [Pub. L. 102–550, title I, § 118][/us/pl/102/550/s118], Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; [Pub. L. 104–66, title I, § 1071(a)][/us/pl/104/66/s1071/a], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720]; [Pub. L. 105–276, title V][/us/pl/105/276], §§ 518(a)(2)(A), 532(b), Oct. 21, 1998, [112 Stat. 2551][/us/stat/112/2551], 2575.)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 21, as added [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 123, Feb. 5, 1988, [101 Stat. 1842][/us/stat/101/1842]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; amended [Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 416, title V, § 572(1), Nov. 28, 1990, [104 Stat. 4161][/us/stat/104/4161], 4236; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 118, Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1071(a), Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], §§ 518(a)(2)(A), 532(b), Oct. 21, 1998, [112 Stat. 2551][/us/stat/112/2551], 2575.)
 
  __References in Text__ 
 
@@ -175,19 +175,19 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(2)(A). [Pub. L. 105–276, § 532(b)(1)(A)][/us/pl/105/276/s532/b/1/A], substituted “assistance from the Capital Fund” for “comprehensive improvement assistance under section 1437l of this title”.
+    1998—Subsec. (a)(2)(A). [Pub. L. 105–276][/us/pl/105/276], § 532(b)(1)(A), substituted “assistance from the Capital Fund” for “comprehensive improvement assistance under section 1437l of this title”.
 
-    Subsec. (a)(3)(A)(v). [Pub. L. 105–276, § 532(b)(1)(B)][/us/pl/105/276/s532/b/1/B], substituted “housing quality standards applicable under [section 1437d(f) of this title][/us/usc/t42/s1437d/f]” for “minimum safety and livability standards applicable under section 1437l of this title”.
+    Subsec. (a)(3)(A)(v). [Pub. L. 105–276][/us/pl/105/276], § 532(b)(1)(B), substituted “housing quality standards applicable under [section 1437d(f) of this title][/us/usc/t42/s1437d/f]” for “minimum safety and livability standards applicable under section 1437l of this title”.
 
-    Subsec. (a)(7). [Pub. L. 105–276, § 532(b)(1)(C)][/us/pl/105/276/s532/b/1/C], in heading, substituted “Capital and operating assistance” for “Annual contributions”, in first sentence, substituted “provide assistance under [section 1437g of this title][/us/usc/t42/s1437g]” for “pay annual contributions”, and at end, substituted “Such assistance may not exceed the allocation for the project under [section 1437g of this title][/us/usc/t42/s1437g]” for “Such contributions may not exceed the maximum contributions authorized in [section 1437c(a) of this title][/us/usc/t42/s1437c/a].”
+    Subsec. (a)(7). [Pub. L. 105–276][/us/pl/105/276], § 532(b)(1)(C), in heading, substituted “Capital and operating assistance” for “Annual contributions”, in first sentence, substituted “provide assistance under [section 1437g of this title][/us/usc/t42/s1437g]” for “pay annual contributions”, and at end, substituted “Such assistance may not exceed the allocation for the project under [section 1437g of this title][/us/usc/t42/s1437g]” for “Such contributions may not exceed the maximum contributions authorized in [section 1437c(a) of this title][/us/usc/t42/s1437c/a].”
 
-    Subsec. (a)(8). [Pub. L. 105–276, § 532(b)(1)(D)][/us/pl/105/276/s532/b/1/D], in heading substituted “fund allocation” for “subsidies” and in text substituted “Amounts from the Operating Fund” for “Operating subsidies”.
+    Subsec. (a)(8). [Pub. L. 105–276][/us/pl/105/276], § 532(b)(1)(D), in heading substituted “fund allocation” for “subsidies” and in text substituted “Amounts from the Operating Fund” for “Operating subsidies”.
 
-    Subsec. (b)(3). [Pub. L. 105–276, § 532(b)(2)][/us/pl/105/276/s532/b/2], in first sentence, substituted “tenant-based assistance” for “a certificate under [section 1437f(b)(1) of this title][/us/usc/t42/s1437f/b/1] or a housing voucher” and, in second sentence, substituted “payment standard for such assistance” for “fair market rent for such certificate”.
+    Subsec. (b)(3). [Pub. L. 105–276][/us/pl/105/276], § 532(b)(2), in first sentence, substituted “tenant-based assistance” for “a certificate under [section 1437f(b)(1) of this title][/us/usc/t42/s1437f/b/1] or a housing voucher” and, in second sentence, substituted “payment standard for such assistance” for “fair market rent for such certificate”.
 
-    Subsec. (d). [Pub. L. 105–276, § 532(b)(3)][/us/pl/105/276/s532/b/3], inserted “, as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998,” after “[section 1437d(c)(4)(D) of this title][/us/usc/t42/s1437d/c/4/D]”.
+    Subsec. (d). [Pub. L. 105–276][/us/pl/105/276], § 532(b)(3), inserted “, as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998,” after “[section 1437d(c)(4)(D) of this title][/us/usc/t42/s1437d/c/4/D]”.
 
-    [Pub. L. 105–276, § 518(a)(2)(A)][/us/pl/105/276/s518/a/2/A], struck out “[section 1437c(h) of this title][/us/usc/t42/s1437c/h] or” after “program established under”.
+    [Pub. L. 105–276][/us/pl/105/276], § 518(a)(2)(A), struck out “[section 1437c(h) of this title][/us/usc/t42/s1437c/h] or” after “program established under”.
 
     1995—Subsec. (f). [Pub. L. 104–66][/us/pl/104/66] struck out heading and text of subsec. (f). Text read as follows: “The Secretary shall annually submit to the Congress a report setting forth—
 
@@ -209,15 +209,15 @@
 
     1992—Subsec. (a)(2)(C), (3)(C). [Pub. L. 102–550][/us/pl/102/550] substituted “February 4, 1991” for “the effective date of the regulations implementing subchapter II–A of this chapter” and “after such date” for “after such effective date” and made technical amendment to reference to November 28, 1990, to reflect correction of corresponding provisions of original act.
 
-    1990—Subsec. (a). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], which directed substitution of “low-income families” for “lower income families”, was executed by substituting “Low-income families” for “Lower income families” in introductory provisions to reflect the probable intent of Congress.
+    1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625], § 572(1), which directed substitution of “low-income families” for “lower income families”, was executed by substituting “Low-income families” for “Lower income families” in introductory provisions to reflect the probable intent of Congress.
 
-    Subsec. (a)(2)(B). [Pub. L. 101–625, § 416(1)][/us/pl/101/625/s416/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The Secretary, and the public housing agency owning and operating a public housing project, shall provide such training, technical assistance, and educational assistance as the Secretary determines to be necessary to prepare the families residing in the project, and any resident management corporation established under paragraph (1), for homeownership.”
+    Subsec. (a)(2)(B). [Pub. L. 101–625][/us/pl/101/625], § 416(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The Secretary, and the public housing agency owning and operating a public housing project, shall provide such training, technical assistance, and educational assistance as the Secretary determines to be necessary to prepare the families residing in the project, and any resident management corporation established under paragraph (1), for homeownership.”
 
-    Subsec. (a)(2)(C). [Pub. L. 101–625, § 416(2)][/us/pl/101/625/s416/2], substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The Secretary may not provide financial assistance under subparagraph (B), after such effective date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
+    Subsec. (a)(2)(C). [Pub. L. 101–625][/us/pl/101/625], § 416(2), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The Secretary may not provide financial assistance under subparagraph (B), after such effective date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
 
-    Subsec. (a)(3)(C). [Pub. L. 101–625, § 416(3)][/us/pl/101/625/s416/3], substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
+    Subsec. (a)(3)(C). [Pub. L. 101–625][/us/pl/101/625], § 416(3), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
 
-    Subsec. (f)(7). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families”.
+    Subsec. (f)(7). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -238,44 +238,44 @@
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa%2F1
 [/us/usc/t42/s1437d/c/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fc%2F4%2FD
-[/us/pl/104/66/s1071/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F720
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/100/242/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs123
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1842
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/101/625/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs416
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4161
-[/us/pl/102/550/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs118
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3695
-[/us/pl/104/66/s1071/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F720
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2551
 [/us/pl/105/276/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503%2Fa
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s532/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fb%2F1%2FA
-[/us/pl/105/276/s532/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fb%2F1%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Ff
-[/us/pl/105/276/s532/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fb%2F1%2FC
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fa
-[/us/pl/105/276/s532/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fb%2F1%2FD
-[/us/pl/105/276/s532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fb%2F2
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437f/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fb%2F1
-[/us/pl/105/276/s532/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fb%2F3
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437d/c/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fc%2F4%2FD
-[/us/pl/105/276/s518/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs518%2Fa%2F2%2FA
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s416/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs416%2F1
-[/us/pl/101/625/s416/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs416%2F2
-[/us/pl/101/625/s416/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs416%2F3
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

@@ -25,7 +25,7 @@
 
     (b) Nothing in this section shall be construed to require any Federal agency to establish any new acid precipitation monitoring site.
 
-([Pub. L. 100–685, title IV, § 414][/us/pl/100/685/s414], Nov. 17, 1988, [102 Stat. 4101][/us/stat/102/4101].)
+([Pub. L. 100–685, title IV][/us/pl/100/685/tIV], § 414, Nov. 17, 1988, [102 Stat. 4101][/us/stat/102/4101].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/100/685/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs414
+[/us/pl/100/685/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2FtIV
 [/us/stat/102/4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4101
 
 

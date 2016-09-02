@@ -33,15 +33,15 @@
 
         Notwithstanding any other provision of law, the Secretary may enter into an agreement with a State agency, acting on the request of a school food service authority, under which funds payable to the State under section 1753 or 1759a of this title may be used by the Secretary for the purpose of purchasing commodities for use by the school food service authority in meals served under the school lunch program under this chapter.
 
-([June 4, 1946, ch. 281, § 7][/us/act/1946-06-04/ch281/s7], [60 Stat. 232][/us/stat/60/232]; [Pub. L. 91–248, § 4][/us/pl/91/248/s4], May 14, 1970, [84 Stat. 209][/us/stat/84/209]; [Pub. L. 92–433, § 10][/us/pl/92/433/s10], Sept. 26, 1972, [86 Stat. 731][/us/stat/86/731]; [Pub. L. 94–105, § 5][/us/pl/94/105/s5], Oct. 7, 1975, [89 Stat. 511][/us/stat/89/511]; [Pub. L. 95–166, § 19(b)][/us/pl/95/166/s19/b], Nov. 10, 1977, [91 Stat. 1345][/us/stat/91/1345]; [Pub. L. 97–35, title VIII, § 804][/us/pl/97/35/s804], Aug. 13, 1981, [95 Stat. 526][/us/stat/95/526]; [Pub. L. 101–147, title III, § 303][/us/pl/101/147/s303], Nov. 10, 1989, [103 Stat. 913][/us/stat/103/913]; [Pub. L. 103–448, title I, § 104][/us/pl/103/448/s104], Nov. 2, 1994, [108 Stat. 4701][/us/stat/108/4701].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 7, [60 Stat. 232][/us/stat/60/232]; [Pub. L. 91–248][/us/pl/91/248], § 4, May 14, 1970, [84 Stat. 209][/us/stat/84/209]; [Pub. L. 92–433][/us/pl/92/433], § 10, Sept. 26, 1972, [86 Stat. 731][/us/stat/86/731]; [Pub. L. 94–105][/us/pl/94/105], § 5, Oct. 7, 1975, [89 Stat. 511][/us/stat/89/511]; [Pub. L. 95–166][/us/pl/95/166], § 19(b), Nov. 10, 1977, [91 Stat. 1345][/us/stat/91/1345]; [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 804, Aug. 13, 1981, [95 Stat. 526][/us/stat/95/526]; [Pub. L. 101–147, title III][/us/pl/101/147/tIII], § 303, Nov. 10, 1989, [103 Stat. 913][/us/stat/103/913]; [Pub. L. 103–448, title I][/us/pl/103/448/tI], § 104, Nov. 2, 1994, [108 Stat. 4701][/us/stat/108/4701].)
 
  __Amendments__ 
 
     1994—Subsec. (d). [Pub. L. 103–448][/us/pl/103/448] added subsec. (d).
 
-    1989—[Pub. L. 101–147, § 303(a)][/us/pl/101/147/s303/a], inserted “Payments to States” as section catchline.
+    1989—[Pub. L. 101–147][/us/pl/101/147], § 303(a), inserted “Payments to States” as section catchline.
 
-    Subsec. (a)(2). [Pub. L. 101–147, § 303(b)][/us/pl/101/147/s303/b], substituted “the” for “the the” before “school year beginning”.
+    Subsec. (a)(2). [Pub. L. 101–147][/us/pl/101/147], § 303(b), substituted “the” for “the the” before “school year beginning”.
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] designated existing provisions as subsec. (a) and substituted provisions relating to funds appropriated to carry out [section 1753 of this title][/us/usc/t42/s1753] during any fiscal year, for provisions relating to funds appropriated to carry out sections 1753 and 1754 of this title during any fiscal year.
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–166, § 19][/us/pl/95/166/s19], Nov. 10, 1977, [91 Stat. 1345][/us/stat/91/1345], provided that the amendment made by that section is effective July 1, 1977.
+    [Pub. L. 95–166][/us/pl/95/166], § 19, Nov. 10, 1977, [91 Stat. 1345][/us/stat/91/1345], provided that the amendment made by that section is effective July 1, 1977.
 
 ----------
 
@@ -77,25 +77,25 @@
 [/us/usc/t42/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1753
 [/us/usc/t42/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1753
 [/us/usc/t42/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1753
-[/us/act/1946-06-04/ch281/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs7
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F232
-[/us/pl/91/248/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248%2Fs4
+[/us/pl/91/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248
 [/us/stat/84/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F209
-[/us/pl/92/433/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs10
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/stat/86/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F731
-[/us/pl/94/105/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs5
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
 [/us/stat/89/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F511
-[/us/pl/95/166/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166%2Fs19%2Fb
+[/us/pl/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166
 [/us/stat/91/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1345
-[/us/pl/97/35/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs804
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F526
-[/us/pl/101/147/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs303
+[/us/pl/101/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtIII
 [/us/stat/103/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F913
-[/us/pl/103/448/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs104
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4701
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
-[/us/pl/101/147/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs303%2Fa
-[/us/pl/101/147/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs303%2Fb
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1753
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -110,7 +110,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s820/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs820%2Fa%2F2
 [/us/usc/t42/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1753
-[/us/pl/95/166/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166%2Fs19
+[/us/pl/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166
 [/us/stat/91/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1345
 
 

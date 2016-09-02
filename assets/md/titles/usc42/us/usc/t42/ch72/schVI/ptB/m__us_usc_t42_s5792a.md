@@ -39,7 +39,7 @@
 
         (8) Documenting the incident.
 
-([Pub. L. 108–21, title III, § 363][/us/pl/108/21/s363], Apr. 30, 2003, [117 Stat. 666][/us/stat/117/666].)
+([Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 363, Apr. 30, 2003, [117 Stat. 666][/us/stat/117/666].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/21/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs363
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F666
 
 

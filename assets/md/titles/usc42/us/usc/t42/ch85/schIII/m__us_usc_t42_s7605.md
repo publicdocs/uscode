@@ -23,7 +23,7 @@
 
         In the event the Attorney General agrees to appear and represent the Administrator in any such action, such representation shall be conducted in accordance with, and shall include participation by, attorneys appointed by the Administrator to the extent authorized by, the memorandum of understanding between the Department of Justice and the Environmental Protection Agency, dated June 13, 1977, respecting representation of the agency by the department in civil litigation.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 305, as added [Pub. L. 91–604, § 12(a)][/us/pl/91/604/s12/a], Dec. 31, 1970, [84 Stat. 1707][/us/stat/84/1707]; amended [Pub. L. 95–95, title III, § 304(a)][/us/pl/95/95/s304/a], Aug. 7, 1977, [91 Stat. 772][/us/stat/91/772].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 305, as added [Pub. L. 91–604][/us/pl/91/604], § 12(a), Dec. 31, 1970, [84 Stat. 1707][/us/stat/84/1707]; amended [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 304(a), Aug. 7, 1977, [91 Stat. 772][/us/stat/91/772].)
 
  __Codification__ 
 
@@ -31,9 +31,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 305 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148, § 2][/us/pl/90/148/s2], [81 Stat. 505][/us/stat/81/505], was renumbered section 312 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7612 of this title][/us/usc/t42/s7612].
+    A prior section 305 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148][/us/pl/90/148], § 2, [81 Stat. 505][/us/stat/81/505], was renumbered section 312 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7612 of this title][/us/usc/t42/s7612].
 
-    Another prior section 305 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, formerly § 12, as added Dec. 17, 1963, [Pub. L. 88–206, § 1][/us/pl/88/206/s1], [77 Stat. 401][/us/stat/77/401], was renumbered section 305 by [Pub. L. 89–272][/us/pl/89/272], renumbered section 308 by [Pub. L. 90–148][/us/pl/90/148], and renumbered section 315 by [Pub. L. 91–604][/us/pl/91/604], and is classified to [section 7615 of this title][/us/usc/t42/s7615].
+    Another prior section 305 of [act July 14, 1955, ch. 360, title III][/us/act/1955-07-14/ch360/tIII], formerly § 12, as added Dec. 17, 1963, [Pub. L. 88–206][/us/pl/88/206], § 1, [77 Stat. 401][/us/stat/77/401], was renumbered section 305 by [Pub. L. 89–272][/us/pl/89/272], renumbered section 308 by [Pub. L. 90–148][/us/pl/90/148], and renumbered section 315 by [Pub. L. 91–604][/us/pl/91/604], and is classified to [section 7615 of this title][/us/usc/t42/s7615].
 
  __Amendments__ 
 
@@ -59,17 +59,17 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs12%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1707
-[/us/pl/95/95/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs304%2Fa
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F772
 [/us/usc/t42/s1857h–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857h%E2%80%933
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F505
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7612
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/act/1955-07-14/ch360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtIII
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F401
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148

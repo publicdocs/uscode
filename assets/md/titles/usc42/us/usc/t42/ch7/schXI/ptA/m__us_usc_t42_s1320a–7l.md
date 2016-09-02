@@ -213,7 +213,7 @@
 
                 The Secretary may reserve not more than $3,000,000 of the amount transferred under subparagraph (A) to provide for the conduct of the evaluation under subsection (a)(7)(A).
 
-([Pub. L. 111–148, title VI, § 6201][/us/pl/111/148/s6201], Mar. 23, 2010, [124 Stat. 721][/us/stat/124/721].)
+([Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6201, Mar. 23, 2010, [124 Stat. 721][/us/stat/124/721].)
 
  __References in Text__ 
 
@@ -227,7 +227,7 @@
 
  __Pilot Program__ 
 
-[Pub. L. 108–173, title III, § 307][/us/pl/108/173/s307], Dec. 8, 2003, [117 Stat. 2257][/us/stat/117/2257], provided that:
+[Pub. L. 108–173, title III][/us/pl/108/173/tIII], § 307, Dec. 8, 2003, [117 Stat. 2257][/us/stat/117/2257], provided that:
 
 >     “(a)  __Authority To Conduct Program__  __.—__ 
 
@@ -475,13 +475,13 @@
 [/us/usc/t42/s1395x/dd/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fdd%2F1
 [/us/usc/t42/s1395ww/d/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiv
 [/us/usc/t42/s1396d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fd
-[/us/pl/111/148/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6201
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F721
 [/us/pl/108/173/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs307
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/108/173/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs307
+[/us/pl/108/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIII
 [/us/stat/117/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2257
 [/us/usc/t42/s1320a–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937e
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937

@@ -49,13 +49,13 @@
 
             The term “Indian” means a member of an Indian tribe or of a tribal organization.
 
-([Pub. L. 97–35, title VI, § 677][/us/pl/97/35/s677], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2741][/us/stat/112/2741].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 677, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2741][/us/stat/112/2741].)
 
  __Prior Provisions__ 
 
-    A prior section 9911, [Pub. L. 97–35, title VI, § 683][/us/pl/97/35/s683], formerly § 682, as added [Pub. L. 101–501, title IV, § 407(a)][/us/pl/101/501/s407/a], Nov. 3, 1990, [104 Stat. 1254][/us/stat/104/1254]; amended [Pub. L. 103–171, § 7(b)][/us/pl/103/171/s7/b], Dec. 2, 1993, [107 Stat. 1993][/us/stat/107/1993]; renumbered § 683, [Pub. L. 103–252, title II, § 205(1)][/us/pl/103/252/s205/1], May 18, 1994, [108 Stat. 655][/us/stat/108/655], related to annual reports by Secretary, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9911, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683, formerly § 682, as added [Pub. L. 101–501, title IV][/us/pl/101/501/tIV], § 407(a), Nov. 3, 1990, [104 Stat. 1254][/us/stat/104/1254]; amended [Pub. L. 103–171][/us/pl/103/171], § 7(b), Dec. 2, 1993, [107 Stat. 1993][/us/stat/107/1993]; renumbered § 683, [Pub. L. 103–252, title II][/us/pl/103/252/tII], § 205(1), May 18, 1994, [108 Stat. 655][/us/stat/108/655], related to annual reports by Secretary, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
-    Another prior section 9911, [Pub. L. 97–35, title VI, § 682][/us/pl/97/35/s682], Aug. 13, 1981, [95 Stat. 518][/us/stat/95/518]; [Pub. L. 97–115, § 17(c)][/us/pl/97/115/s17/c], Dec. 29, 1981, [95 Stat. 1609][/us/stat/95/1609]; [Pub. L. 97–274][/us/pl/97/274], Sept. 30, 1982, [96 Stat. 1183][/us/stat/96/1183], related to transition provisions, prior to repeal by [Pub. L. 101–501, § 407(a)][/us/pl/101/501/s407/a].
+    Another prior section 9911, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 682, Aug. 13, 1981, [95 Stat. 518][/us/stat/95/518]; [Pub. L. 97–115][/us/pl/97/115], § 17(c), Dec. 29, 1981, [95 Stat. 1609][/us/stat/95/1609]; [Pub. L. 97–274][/us/pl/97/274], Sept. 30, 1982, [96 Stat. 1183][/us/stat/96/1183], related to transition provisions, prior to repeal by [Pub. L. 101–501][/us/pl/101/501], § 407(a).
 
     A prior [section 677 of Pub. L. 97–35][/us/pl/97/35/s677] was classified to [section 9906 of this title][/us/usc/t42/s9906], prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
@@ -67,24 +67,24 @@
 ----------
 
 [/us/usc/t42/s9906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9906
-[/us/pl/97/35/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs677
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2741
-[/us/pl/97/35/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683
-[/us/pl/101/501/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs407%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/101/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIV
 [/us/stat/104/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1254
-[/us/pl/103/171/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs7%2Fb
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1993
-[/us/pl/103/252/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs205%2F1
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F655
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
-[/us/pl/97/35/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs682
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F518
-[/us/pl/97/115/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs17%2Fc
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1609
 [/us/pl/97/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F274
 [/us/stat/96/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1183
-[/us/pl/101/501/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs407%2Fa
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/97/35/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs677
 [/us/usc/t42/s9906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9906
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285

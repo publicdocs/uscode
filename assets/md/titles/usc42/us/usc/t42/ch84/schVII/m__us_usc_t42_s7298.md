@@ -17,7 +17,7 @@
 
     Except as provided in subchapter IV of this chapter, nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of, or authority available to, the President which he had immediately before October 1, 1977; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
 
-([Pub. L. 95–91, title VII, § 708][/us/pl/95/91/s708], Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
+([Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 708, Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs708
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F607
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

@@ -31,7 +31,7 @@
 
         Procedures shall be established to insure that changes in the membership of the professional assessment committee are consistent with the requirements of [section 8002(7) of this title][/us/usc/t42/s8002/7].
 
-([Pub. L. 95–557, title IV, § 406][/us/pl/95/557/s406], Oct. 31, 1978, [92 Stat. 2107][/us/stat/92/2107].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 406, Oct. 31, 1978, [92 Stat. 2107][/us/stat/92/2107].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s8002/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8002%2F7
-[/us/pl/95/557/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs406
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2107
 
 

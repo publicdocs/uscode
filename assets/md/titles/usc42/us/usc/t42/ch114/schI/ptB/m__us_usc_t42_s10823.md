@@ -17,7 +17,7 @@
 
     For each fiscal year, the Secretary shall make payments to each eligible system from its allotment under this subchapter. Any amount paid to an eligible system for a fiscal year and remaining unobligated at the end of such year shall remain available to such system for the next fiscal year for the purposes for which it was made.
 
-([Pub. L. 99–319, title I, § 113][/us/pl/99/319/s113], May 23, 1986, [100 Stat. 484][/us/stat/100/484].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 113, May 23, 1986, [100 Stat. 484][/us/stat/100/484].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/319/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs113
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F484
 
 

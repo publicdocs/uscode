@@ -123,25 +123,25 @@
 
         Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2014.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 427, as added [Pub. L. 110–351, title I, § 102(a)][/us/pl/110/351/s102/a], Oct. 7, 2008, [122 Stat. 3953][/us/stat/122/3953]; amended [Pub. L. 113–183, title II, § 221(a)][/us/pl/113/183/s221/a]—(d), Sept. 29, 2014, [128 Stat. 1942][/us/stat/128/1942], 1943.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 427, as added [Pub. L. 110–351, title I][/us/pl/110/351/tI], § 102(a), Oct. 7, 2008, [122 Stat. 3953][/us/stat/122/3953]; amended [Pub. L. 113–183, title II][/us/pl/113/183/tII], § 221(a)—(d), Sept. 29, 2014, [128 Stat. 1942][/us/stat/128/1942], 1943.)
 
  __Prior Provisions__ 
 
-    A prior section 627, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 427, as added June 17, 1980, [Pub. L. 96–272, title I, § 103(b)][/us/pl/96/272/s103/b], [94 Stat. 519][/us/stat/94/519]; amended Dec. 19, 1989, [Pub. L. 101–239, title X, § 10401(a)][/us/pl/101/239/s10401/a], [103 Stat. 2487][/us/stat/103/2487], related to foster care protection required for additional payments, prior to repeal by [Pub. L. 103–432, title II, § 202(c)][/us/pl/103/432/s202/c], (e), Oct. 31, 1994, [108 Stat. 4454][/us/stat/108/4454], effective with respect to fiscal years beginning on or after Apr. 1, 1996.
+    A prior section 627, [act Aug. 14, 1935, ch. 531, title IV][/us/act/1935-08-14/ch531/tIV], § 427, as added June 17, 1980, [Pub. L. 96–272, title I][/us/pl/96/272/tI], § 103(b), [94 Stat. 519][/us/stat/94/519]; amended Dec. 19, 1989, [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10401(a), [103 Stat. 2487][/us/stat/103/2487], related to foster care protection required for additional payments, prior to repeal by [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 202(c), (e), Oct. 31, 1994, [108 Stat. 4454][/us/stat/108/4454], effective with respect to fiscal years beginning on or after Apr. 1, 1996.
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–183, § 221(b)][/us/pl/113/183/s221/b], struck out “and” before “private” and inserted “and institutions of higher education (as defined under [section 1001 of title 20][/us/usc/t20/s1001]),” after “arrangements,” in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–183][/us/pl/113/183], § 221(b), struck out “and” before “private” and inserted “and institutions of higher education (as defined under [section 1001 of title 20][/us/usc/t20/s1001]),” after “arrangements,” in introductory provisions.
 
-    Subsec. (a)(1)(E). [Pub. L. 113–183, § 221(c)][/us/pl/113/183/s221/c], inserted “and other individuals who are willing and able to be foster parents for children in foster care under the responsibility of the State who are themselves parents” after “kinship care families”.
+    Subsec. (a)(1)(E). [Pub. L. 113–183][/us/pl/113/183], § 221(c), inserted “and other individuals who are willing and able to be foster parents for children in foster care under the responsibility of the State who are themselves parents” after “kinship care families”.
 
-    Subsec. (g)(1) to (3). [Pub. L. 113–183, § 221(d)][/us/pl/113/183/s221/d], redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “The Secretary shall reserve $5,000,000 of the funds made available under subsection (h) for each fiscal year for grants to implement kinship navigator programs described in subsection (a)(1).”
+    Subsec. (g)(1) to (3). [Pub. L. 113–183][/us/pl/113/183], § 221(d), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “The Secretary shall reserve $5,000,000 of the funds made available under subsection (h) for each fiscal year for grants to implement kinship navigator programs described in subsection (a)(1).”
 
-    Subsec. (h). [Pub. L. 113–183, § 221(a)][/us/pl/113/183/s221/a], substituted “2014” for “2013”.
+    Subsec. (h). [Pub. L. 113–183][/us/pl/113/183], § 221(a), substituted “2014” for “2013”.
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–183, title II, § 221(e)][/us/pl/113/183/s221/e], Sept. 29, 2014, [128 Stat. 1943][/us/stat/128/1943], provided that: 
+[Pub. L. 113–183, title II][/us/pl/113/183/tII], § 221(e), Sept. 29, 2014, [128 Stat. 1943][/us/stat/128/1943], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as if enacted on October 1, 2013.”
 
@@ -158,23 +158,23 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/110/351/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs102%2Fa
+[/us/pl/110/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2FtI
 [/us/stat/122/3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3953
-[/us/pl/113/183/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs221%2Fa
+[/us/pl/113/183/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtII
 [/us/stat/128/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1942
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/272/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs103%2Fb
+[/us/act/1935-08-14/ch531/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIV
+[/us/pl/96/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtI
 [/us/stat/94/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F519
-[/us/pl/101/239/s10401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10401%2Fa
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2487
-[/us/pl/103/432/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs202%2Fc
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4454
-[/us/pl/113/183/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs221%2Fb
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/113/183/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs221%2Fc
-[/us/pl/113/183/s221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs221%2Fd
-[/us/pl/113/183/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs221%2Fa
-[/us/pl/113/183/s221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs221%2Fe
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtII
 [/us/stat/128/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1943
 [/us/pl/110/351/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs601
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671

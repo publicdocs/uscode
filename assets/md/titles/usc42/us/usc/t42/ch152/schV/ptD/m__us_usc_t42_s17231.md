@@ -347,7 +347,7 @@
 
         (6) the secondary applications and disposal of electric drive vehicle batteries program under subsection (k) $5,000,000 for each of fiscal years 2009 through 2018.
 
-([Pub. L. 110–140, title VI, § 641][/us/pl/110/140/s641], Dec. 19, 2007, [121 Stat. 1688][/us/stat/121/1688].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 641, Dec. 19, 2007, [121 Stat. 1688][/us/stat/121/1688].)
 
  __References in Text__ 
 
@@ -368,7 +368,7 @@
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
 [/us/usc/t42/s16353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16353
-[/us/pl/110/140/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs641
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1688
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

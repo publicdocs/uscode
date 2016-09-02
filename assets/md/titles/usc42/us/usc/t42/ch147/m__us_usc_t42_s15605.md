@@ -125,7 +125,7 @@
 
             Of amounts made available for grants under this section, not less than 50 percent shall be available only for activities specified in paragraph (1) of subsection (b).
 
-([Pub. L. 108–79, § 6][/us/pl/108/79/s6], Sept. 4, 2003, [117 Stat. 978][/us/stat/117/978].)
+([Pub. L. 108–79][/us/pl/108/79], § 6, Sept. 4, 2003, [117 Stat. 978][/us/stat/117/978].)
 
 ----------
 
@@ -135,7 +135,7 @@
 ----------
 
 [/us/usc/t42/s15604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15604
-[/us/pl/108/79/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs6
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F978
 
 

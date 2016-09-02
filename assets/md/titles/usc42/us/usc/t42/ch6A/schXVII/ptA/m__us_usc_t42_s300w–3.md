@@ -63,7 +63,7 @@
 
         Of the amount paid to any State under [section 300w–2 of this title][/us/usc/t42/s300w–2], not more than 10 percent paid from each of its allotments under subsections (a) and (b) of [section 300w–1 of this title][/us/usc/t42/s300w–1] may be used for administering the funds made available under [section 300w–2 of this title][/us/usc/t42/s300w–2]. The State will pay from non-Federal sources the remaining costs of administering such funds.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1904, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 537][/us/stat/95/537]; amended [Pub. L. 97–414, § 8(s)][/us/pl/97/414/s8/s], Jan. 4, 1983, [96 Stat. 2062][/us/stat/96/2062]; [Pub. L. 99–646, § 87(d)(1)(A)][/us/pl/99/646/s87/d/1/A], Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654, § 3(b)(1)(A)][/us/pl/99/654/s3/b/1/A], Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 100–607, title III, § 301(b)][/us/pl/100/607/s301/b], Nov. 4, 1988, [102 Stat. 3111][/us/stat/102/3111]; [Pub. L. 102–531, title I, § 102][/us/pl/102/531/s102], Oct. 27, 1992, [106 Stat. 3470][/us/stat/106/3470]; [Pub. L. 106–310, div. A, title V, § 511][/us/pl/106/310/s511], Oct. 17, 2000, [114 Stat. 1116][/us/stat/114/1116].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1904, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 537][/us/stat/95/537]; amended [Pub. L. 97–414][/us/pl/97/414], § 8(s), Jan. 4, 1983, [96 Stat. 2062][/us/stat/96/2062]; [Pub. L. 99–646][/us/pl/99/646], § 87(d)(1)(A), Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654][/us/pl/99/654], § 3(b)(1)(A), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 100–607, title III][/us/pl/100/607/tIII], § 301(b), Nov. 4, 1988, [102 Stat. 3111][/us/stat/102/3111]; [Pub. L. 102–531, title I][/us/pl/102/531/tI], § 102, Oct. 27, 1992, [106 Stat. 3470][/us/stat/106/3470]; [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 511, Oct. 17, 2000, [114 Stat. 1116][/us/stat/114/1116].)
 
  __References in Text__ 
 
@@ -71,25 +71,25 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1)(E). [Pub. L. 106–310, § 511(3)][/us/pl/106/310/s511/3], added subpar. (E). Former subpar. (E) redesignated (F).
+    2000—Subsec. (a)(1)(E). [Pub. L. 106–310][/us/pl/106/310], § 511(3), added subpar. (E). Former subpar. (E) redesignated (F).
 
-    Subsec. (a)(1)(F). [Pub. L. 106–310, § 511(1)][/us/pl/106/310/s511/1], (4), redesignated subpar. (E) as (F) and substituted “subparagraphs (A) through (E)” for “subparagraphs (A) through (D)”. Former subpar. (F) redesignated (G).
+    Subsec. (a)(1)(F). [Pub. L. 106–310][/us/pl/106/310], § 511(1), (4), redesignated subpar. (E) as (F) and substituted “subparagraphs (A) through (E)” for “subparagraphs (A) through (D)”. Former subpar. (F) redesignated (G).
 
-    Subsec. (a)(1)(G). [Pub. L. 106–310, § 511(1)][/us/pl/106/310/s511/1], (2), (5), redesignated subpar. (F) as (G) and substituted “subparagraphs (A) through (F).” for “subparagraphs (A) through (E)”.
+    Subsec. (a)(1)(G). [Pub. L. 106–310][/us/pl/106/310], § 511(1), (2), (5), redesignated subpar. (F) as (G) and substituted “subparagraphs (A) through (F).” for “subparagraphs (A) through (E)”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–531, § 102(a)][/us/pl/102/531/s102/a], amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs. (b) and (c), use of the amounts paid to a State under [section 300w–2 of this title][/us/usc/t42/s300w–2] from its allotment under [section 300w–1(a) of this title][/us/usc/t42/s300w–1/a] and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
+    1992—Subsec. (a)(1). [Pub. L. 102–531][/us/pl/102/531], § 102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs. (b) and (c), use of the amounts paid to a State under [section 300w–2 of this title][/us/usc/t42/s300w–2] from its allotment under [section 300w–1(a) of this title][/us/usc/t42/s300w–1/a] and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
 
-    Subsec. (c). [Pub. L. 102–531, § 102(b)][/us/pl/102/531/s102/b], substituted “part B” for “parts B and C”.
+    Subsec. (c). [Pub. L. 102–531][/us/pl/102/531], § 102(b), substituted “part B” for “parts B and C”.
 
-    1988—Subsec. (a)(1)(B). [Pub. L. 100–607, § 301(b)(1)][/us/pl/100/607/s301/b/1], inserted “and elevated serum cholesterol” before period at end.
+    1988—Subsec. (a)(1)(B). [Pub. L. 100–607][/us/pl/100/607], § 301(b)(1), inserted “and elevated serum cholesterol” before period at end.
 
-    Subsec. (a)(1)(C). [Pub. L. 100–607, § 301(b)(2)][/us/pl/100/607/s301/b/2], inserted “, including programs designed to reduce the incidence of chronic diseases” before period at end.
+    Subsec. (a)(1)(C). [Pub. L. 100–607][/us/pl/100/607], § 301(b)(2), inserted “, including programs designed to reduce the incidence of chronic diseases” before period at end.
 
-    Subsec. (a)(1)(D). [Pub. L. 100–607, § 301(b)(3)][/us/pl/100/607/s301/b/3], inserted “, including immunization services” before period at end.
+    Subsec. (a)(1)(D). [Pub. L. 100–607][/us/pl/100/607], § 301(b)(3), inserted “, including immunization services” before period at end.
 
-    Subsec. (a)(1)(F). [Pub. L. 100–607, § 301(b)(4)][/us/pl/100/607/s301/b/4], substituted “systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems” for “systems (other than systems with respect to which grants were made as prescribed by [section 300w–4(c)(2) of this title][/us/usc/t42/s300w–4/c/2])”.
+    Subsec. (a)(1)(F). [Pub. L. 100–607][/us/pl/100/607], § 301(b)(4), substituted “systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems” for “systems (other than systems with respect to which grants were made as prescribed by [section 300w–4(c)(2) of this title][/us/usc/t42/s300w–4/c/2])”.
 
-    Subsec. (a)(1)(H). [Pub. L. 100–607, § 301(b)(5)][/us/pl/100/607/s301/b/5], added subpar. (H).
+    Subsec. (a)(1)(H). [Pub. L. 100–607][/us/pl/100/607], § 301(b)(5), added subpar. (H).
 
     1986—Subsec. (a)(1)(G). [Pub. L. 99–646][/us/pl/99/646] and [Pub. L. 99–654][/us/pl/99/654] amended subpar. (G) identically, substituting “victims of sex offenses and for prevention of sex offenses” for “rape victims and for rape prevention”.
 
@@ -117,36 +117,36 @@
 [/us/usc/t42/s300w–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%931
 [/us/usc/t42/s300w–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F537
-[/us/pl/97/414/s8/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fs
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2062
-[/us/pl/99/646/s87/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fd%2F1%2FA
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3623
-[/us/pl/99/654/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fb%2F1%2FA
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3663
-[/us/pl/100/607/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fb
+[/us/pl/100/607/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIII
 [/us/stat/102/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3111
-[/us/pl/102/531/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs102
+[/us/pl/102/531/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtI
 [/us/stat/106/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3470
-[/us/pl/106/310/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs511
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1116
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/106/310/s511/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs511%2F3
-[/us/pl/106/310/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs511%2F1
-[/us/pl/106/310/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs511%2F1
-[/us/pl/102/531/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs102%2Fa
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/usc/t42/s300w–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%932
 [/us/usc/t42/s300w–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%931%2Fa
-[/us/pl/102/531/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs102%2Fb
-[/us/pl/100/607/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fb%2F1
-[/us/pl/100/607/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fb%2F2
-[/us/pl/100/607/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fb%2F3
-[/us/pl/100/607/s301/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fb%2F4
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s300w–4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934%2Fc%2F2
-[/us/pl/100/607/s301/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fb%2F5
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414

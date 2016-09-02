@@ -37,7 +37,7 @@
 
         Such penalty shall apply to the person who intentionally destroyed, altered, falsified, or concealed such record or report, to the person who directed that such record or report be destroyed, altered, falsified, or concealed, and to the vaccine manufacturer for which such person is an agent, employee, or representative. Each act of destruction, alteration, falsification, or concealment shall be treated as a separate occurrence.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2128, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3777][/us/stat/100/3777]; amended [Pub. L. 100–203, title IV, § 4302(b)(1)][/us/pl/100/203/s4302/b/1], Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2128, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3777][/us/stat/100/3777]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4302(b)(1), Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221].)
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3777
-[/us/pl/100/203/s4302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fb%2F1
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-221
 [/us/pl/99/660/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs323
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931

@@ -39,7 +39,7 @@
 
         The Administrator of the General Service Administration shall provide suitable office space for the operation of the Commission. The facilities shall serve as the headquarters of the Commission and shall include all necessary equipment and incidentals required for proper functioning.
 
-([Pub. L. 103–322, title XXVII, § 270006][/us/pl/103/322/s270006], Sept. 13, 1994, [108 Stat. 2094][/us/stat/108/2094].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270006, Sept. 13, 1994, [108 Stat. 2094][/us/stat/108/2094].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/103/322/s270006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270006
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2094
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 

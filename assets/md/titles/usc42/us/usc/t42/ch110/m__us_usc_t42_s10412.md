@@ -73,11 +73,11 @@
 
         Each entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
-([Pub. L. 98–457, title III, § 312][/us/pl/98/457/s312], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3503][/us/stat/124/3503].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 312, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3503][/us/stat/124/3503].)
 
  __Prior Provisions__ 
 
-    A prior section 10412, [Pub. L. 98–457, title III, § 312][/us/pl/98/457/s312], Oct. 9, 1984, [98 Stat. 1764][/us/stat/98/1764]; [Pub. L. 102–295, title III, § 318][/us/pl/102/295/s318], May 28, 1992, [106 Stat. 208][/us/stat/106/208]; [Pub. L. 108–36, title IV, § 408][/us/pl/108/36/s408], June 25, 2003, [117 Stat. 827][/us/stat/117/827], related to authority of Secretary, construction with State and local law, and funding for evaluation, monitoring, and other administrative costs, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
+    A prior section 10412, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 312, Oct. 9, 1984, [98 Stat. 1764][/us/stat/98/1764]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 318, May 28, 1992, [106 Stat. 208][/us/stat/106/208]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 408, June 25, 2003, [117 Stat. 827][/us/stat/117/827], related to authority of Secretary, construction with State and local law, and funding for evaluation, monitoring, and other administrative costs, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
     A prior [section 312 of Pub. L. 98–457][/us/pl/98/457/s312], which was classified to [section 10411 of this title][/us/usc/t42/s10411], was repealed by [section 303(a) of Pub. L. 100–294][/us/pl/100/294/s303/a].
 
@@ -88,14 +88,14 @@
 ----------
 ----------
 
-[/us/pl/98/457/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs312
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3503
-[/us/pl/98/457/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs312
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1764
-[/us/pl/102/295/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs318
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F208
-[/us/pl/108/36/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs408
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F827
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/pl/98/457/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs312

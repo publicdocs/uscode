@@ -43,7 +43,7 @@
 
         The President shall issue regulations describing the terms and conditions under which any loan or advance authorized by this section may be made.
 
-([Pub. L. 93–288, title III, § 319][/us/pl/93/288/s319], as added [Pub. L. 100–707, title I, § 105(m)(1)][/us/pl/100/707/s105/m/1], Nov. 23, 1988, [102 Stat. 4695][/us/stat/102/4695].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 319, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(m)(1), Nov. 23, 1988, [102 Stat. 4695][/us/stat/102/4695].)
 
  __References in Text__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs319
-[/us/pl/100/707/s105/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fm%2F1
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4695
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

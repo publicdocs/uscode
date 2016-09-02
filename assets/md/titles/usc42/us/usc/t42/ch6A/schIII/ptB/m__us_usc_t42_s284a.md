@@ -111,39 +111,39 @@
 
             (B) This section applies to the advisory council to the National Heart, Lung, and Blood Institute, except that the advisory council shall meet at least four times each fiscal year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 406, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 828][/us/stat/99/828]; amended [Pub. L. 100–607, title I, § 117][/us/pl/100/607/s117], Nov. 4, 1988, [102 Stat. 3053][/us/stat/102/3053]; [Pub. L. 101–381, title I, § 102(1)][/us/pl/101/381/s102/1], Aug. 18, 1990, [104 Stat. 585][/us/stat/104/585]; [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 103–43, title II, § 210(a)][/us/pl/103/43/s210/a], title XX, §§ 2008(b)(1), 2010(b)(2), June 10, 1993, [107 Stat. 149][/us/stat/107/149], 210, 214; [Pub. L. 105–245, title III, § 309(b)(2)(C)][/us/pl/105/245/s309/b/2/C], Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 406, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 828][/us/stat/99/828]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 117, Nov. 4, 1988, [102 Stat. 3053][/us/stat/102/3053]; [Pub. L. 101–381, title I][/us/pl/101/381/tI], § 102(1), Aug. 18, 1990, [104 Stat. 585][/us/stat/104/585]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 103–43, title II][/us/pl/103/43/tII], § 210(a), title XX, §§ 2008(b)(1), 2010(b)(2), June 10, 1993, [107 Stat. 149][/us/stat/107/149], 210, 214; [Pub. L. 105–245, title III][/us/pl/105/245/tIII], § 309(b)(2)(C), Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
 
  __References in Text__ 
 
-    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (g), was repealed by [Pub. L. 109–482, title I, § 104(b)(1)(C)][/us/pl/109/482/s104/b/1/C], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
+    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (g), was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(C), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
 
  __Amendments__ 
 
     1998—Subsec. (h)(2)(A)(v). [Pub. L. 105–245][/us/pl/105/245] substituted “Science of the Department of Energy” for “Energy Research of the Department of Energy”.
 
-    1993—Subsec. (a)(2). [Pub. L. 103–43, § 2010(b)(2)][/us/pl/103/43/s2010/b/2], substituted “section 238” for “section 300aaa”.
+    1993—Subsec. (a)(2). [Pub. L. 103–43][/us/pl/103/43], § 2010(b)(2), substituted “section 238” for “section 300aaa”.
 
-    Subsec. (b)(2)(A). [Pub. L. 103–43, § 2008(b)(1)(A)][/us/pl/103/43/s2008/b/1/A], substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
+    Subsec. (b)(2)(A). [Pub. L. 103–43][/us/pl/103/43], § 2008(b)(1)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 
-    Subsec. (c). [Pub. L. 103–43, § 210(a)][/us/pl/103/43/s210/a], substituted “for 180 days after the date of such expiration” for “until a successor has taken office”.
+    Subsec. (c). [Pub. L. 103–43][/us/pl/103/43], § 210(a), substituted “for 180 days after the date of such expiration” for “until a successor has taken office”.
 
-    Subsec. (h)(2)(A)(v). [Pub. L. 103–43, § 2008(b)(1)(B)][/us/pl/103/43/s2008/b/1/B], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    Subsec. (h)(2)(A)(v). [Pub. L. 103–43][/us/pl/103/43], § 2008(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
     1992—Subsecs. (b)(2)(A), (h)(2)(A)(v). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
     1990—Subsec. (a)(2). [Pub. L. 101–381][/us/pl/101/381] made technical amendment to reference to [section 300aaa of this title][/us/usc/t42/s300aaa] to reflect renumbering of corresponding section of original act.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–607, § 117(a)][/us/pl/100/607/s117/a], inserted at end “The ex officio members shall be nonvoting members.”
+    1988—Subsec. (b)(1). [Pub. L. 100–607][/us/pl/100/607], § 117(a), inserted at end “The ex officio members shall be nonvoting members.”
 
-    Subsec. (b)(3)(A). [Pub. L. 100–607, § 117(b)][/us/pl/100/607/s117/b], inserted “not less than two individuals who are leaders in the fields of” after “(including”.
+    Subsec. (b)(3)(A). [Pub. L. 100–607][/us/pl/100/607], § 117(b), inserted “not less than two individuals who are leaders in the fields of” after “(including”.
 
-    Subsec. (h)(2)(A)(v). [Pub. L. 100–607, § 117(c)][/us/pl/100/607/s117/c], inserted “shall be nonvoting members and” after “Board” and substituted “the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Energy Research of the Department of Energy” for “and the Assistant Secretary of Defense for Health Affairs”.
+    Subsec. (h)(2)(A)(v). [Pub. L. 100–607][/us/pl/100/607], § 117(c), inserted “shall be nonvoting members and” after “Board” and substituted “the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Energy Research of the Department of Energy” for “and the Assistant Secretary of Defense for Health Affairs”.
 
  __Termination of Advisory Councils__ 
 
     Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -160,35 +160,35 @@
 [/us/usc/t42/s289a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%2Fb%2F2
 [/us/usc/t42/s284/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284%2Fb%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F828
-[/us/pl/100/607/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs117
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3053
-[/us/pl/101/381/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs102%2F1
+[/us/pl/101/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtI
 [/us/stat/104/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F585
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/103/43/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs210%2Fa
+[/us/pl/103/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtII
 [/us/stat/107/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F149
-[/us/pl/105/245/s309/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2Fs309%2Fb%2F2%2FC
+[/us/pl/105/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2FtIII
 [/us/stat/112/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1853
 [/us/usc/t42/s284b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284b
-[/us/pl/109/482/s104/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FC
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/105/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245
-[/us/pl/103/43/s2010/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fb%2F2
-[/us/pl/103/43/s2008/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F1%2FA
-[/us/pl/103/43/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs210%2Fa
-[/us/pl/103/43/s2008/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F1%2FB
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/101/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381
 [/us/usc/t42/s300aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aaa
-[/us/pl/100/607/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs117%2Fa
-[/us/pl/100/607/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs117%2Fb
-[/us/pl/100/607/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs117%2Fc
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

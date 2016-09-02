@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as are necessary for fiscal years 2007 through 2011.
 
-([Pub. L. 109–248, title VI, § 630][/us/pl/109/248/s630], July 27, 2006, [120 Stat. 640][/us/stat/120/640].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 630, July 27, 2006, [120 Stat. 640][/us/stat/120/640].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs630
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F640
 
 

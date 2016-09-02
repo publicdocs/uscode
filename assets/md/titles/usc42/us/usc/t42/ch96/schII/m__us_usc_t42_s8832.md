@@ -35,7 +35,7 @@
 
         A loan may not be made under this section unless the person applying for such loan has established to the satisfaction of the Secretary of Energy that the applicant is unable without such a loan to obtain sufficient credit elsewhere at reasonable rates and terms, taking into consideration prevailing market rates and terms for loans for similar periods of time, to finance the construction of the project for which such loan is sought.
 
-([Pub. L. 96–294, title II, § 232][/us/pl/96/294/s232], June 30, 1980, [94 Stat. 697][/us/stat/94/697].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 232, June 30, 1980, [94 Stat. 697][/us/stat/94/697].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs232
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F697
 
 

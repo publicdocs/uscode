@@ -47,7 +47,7 @@
 
         (4) to invoke the sweep of congressional authority, including the power to enforce the fourteenth amendment and to regulate commerce, in order to address the major areas of discrimination faced day-to-day by people with disabilities.
 
-([Pub. L. 101–336, § 2][/us/pl/101/336/s2], July 26, 1990, [104 Stat. 328][/us/stat/104/328]; [Pub. L. 110–325, § 3][/us/pl/110/325/s3], Sept. 25, 2008, [122 Stat. 3554][/us/stat/122/3554].)
+([Pub. L. 101–336][/us/pl/101/336], § 2, July 26, 1990, [104 Stat. 328][/us/stat/104/328]; [Pub. L. 110–325][/us/pl/110/325], § 3, Sept. 25, 2008, [122 Stat. 3554][/us/stat/122/3554].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–325, § 3(1)][/us/pl/110/325/s3/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “some 43,000,000 Americans have one or more physical or mental disabilities, and this number is increasing as the population as a whole is growing older;”.
+    2008—Subsec. (a)(1). [Pub. L. 110–325][/us/pl/110/325], § 3(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “some 43,000,000 Americans have one or more physical or mental disabilities, and this number is increasing as the population as a whole is growing older;”.
 
-    Subsec. (a)(7) to (9). [Pub. L. 110–325, § 3(2)][/us/pl/110/325/s3/2], (3), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “individuals with disabilities are a discrete and insular minority who have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;”.
+    Subsec. (a)(7) to (9). [Pub. L. 110–325][/us/pl/110/325], § 3(2), (3), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “individuals with disabilities are a discrete and insular minority who have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -65,19 +65,19 @@
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–325, § 1][/us/pl/110/325/s1], Sept. 25, 2008, [122 Stat. 3553][/us/stat/122/3553], provided that: 
+[Pub. L. 110–325][/us/pl/110/325], § 1, Sept. 25, 2008, [122 Stat. 3553][/us/stat/122/3553], provided that: 
 
 > “This Act \[enacting sections 12103 and 12205a of this title, amending this section, sections 12102, 12111 to 12114, 12201, and 12206 to 12213 of this title, section 705 and former [section 706 of Title 29][/us/usc/t29/s706], Labor, and enacting provisions set out as notes under this section and [section 705 of Title 29][/us/usc/t29/s705]\] may be cited as the ‘ADA Amendments Act of 2008’.”
 
  __Short Title__ 
 
-[Pub. L. 101–336, § 1(a)][/us/pl/101/336/s1/a], July 26, 1990, [104 Stat. 327][/us/stat/104/327], provided that: 
+[Pub. L. 101–336][/us/pl/101/336], § 1(a), July 26, 1990, [104 Stat. 327][/us/stat/104/327], provided that: 
 
 > “This Act \[enacting this chapter and [section 225 of Title 47][/us/usc/t47/s225], Telecommunications, amending [section 706 of Title 29][/us/usc/t29/s706], Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out as notes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
 
  __Findings and Purposes of__  __[__  __Pub. L. 110–325__  __][/us/pl/110/325]__ 
 
-[Pub. L. 110–325, § 2][/us/pl/110/325/s2], Sept. 25, 2008, [122 Stat. 3553][/us/stat/122/3553], provided that:
+[Pub. L. 110–325][/us/pl/110/325], § 2, Sept. 25, 2008, [122 Stat. 3553][/us/stat/122/3553], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -117,7 +117,7 @@
 
  __Study by General Accounting Office of Existing Disability-Related Employment Incentives__ 
 
-    [Pub. L. 106–170, title III, § 303(a)][/us/pl/106/170/s303/a], Dec. 17, 1999, [113 Stat. 1903][/us/stat/113/1903], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study to assess existing tax credits and other disability-related employment incentives under the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) and other Federal laws, specifically addressing the extent to which such credits and other incentives would encourage employers to hire and retain individuals with disabilities; and that, not later than 3 years after Dec. 17, 1999, the Comptroller General was to transmit to the appropriate congressional committees a written report presenting the results of the study and any appropriate recommendations for legislative or administrative changes.
+    [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 303(a), Dec. 17, 1999, [113 Stat. 1903][/us/stat/113/1903], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study to assess existing tax credits and other disability-related employment incentives under the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) and other Federal laws, specifically addressing the extent to which such credits and other incentives would encourage employers to hire and retain individuals with disabilities; and that, not later than 3 years after Dec. 17, 1999, the Comptroller General was to transmit to the appropriate congressional committees a written report presenting the results of the study and any appropriate recommendations for legislative or administrative changes.
 
 ----------
 
@@ -126,31 +126,31 @@
 ----------
 ----------
 
-[/us/pl/101/336/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs2
+[/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F328
-[/us/pl/110/325/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs3
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3554
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
-[/us/pl/110/325/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs3%2F1
-[/us/pl/110/325/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs3%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/pl/110/325/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs8
 [/us/usc/t29/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705
-[/us/pl/110/325/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs1
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3553
 [/us/usc/t29/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706
 [/us/usc/t29/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705
-[/us/pl/101/336/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs1%2Fa
+[/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t47/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs225
 [/us/usc/t29/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706
 [/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
-[/us/pl/110/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3553
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/106/170/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs303%2Fa
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1903
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 

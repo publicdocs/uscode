@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 623 of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 623 of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Transfer of Functions__ 
 
@@ -43,7 +43,7 @@
 
  __Data Collection Relating to Race or Ethnicity__ 
 
-[Pub. L. 106–525, title III, § 301][/us/pl/106/525/s301], Nov. 22, 2000, [114 Stat. 2507][/us/stat/114/2507], provided that:
+[Pub. L. 106–525, title III][/us/pl/106/525/tIII], § 301, Nov. 22, 2000, [114 Stat. 2507][/us/stat/114/2507], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -67,7 +67,7 @@
 
  __Under Secretary Retitled Deputy Secretary__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, provided that: 
 
 > “The position of Under Secretary of Health and Human Services, established by section 2 of Reorganization Plan No. 1 of 1953 ([67 Stat. 631][/us/stat/67/631]) \[set out below\], is retitled the Deputy Secretary of Health and Human Services.”
 
@@ -75,11 +75,11 @@
 
  __Investigation of Youth Camp Safety__ 
 
-    [Pub. L. 92–318, title VI][/us/pl/92/318], §§ 601–603, June 23, 1972, [86 Stat. 353][/us/stat/86/353], 354, authorized the Secretary of Health, Education, and Welfare to make a study of the field of youth camp safety to determine the need for Federal legislation, required the Secretary to submit a report on his investigation to the Congress before Mar. 1, 1973, and authorized $300,000 in appropriations to carry out the study.
+    [Pub. L. 92–318, title VI][/us/pl/92/318/tVI], §§ 601–603, June 23, 1972, [86 Stat. 353][/us/stat/86/353], 354, authorized the Secretary of Health, Education, and Welfare to make a study of the field of youth camp safety to determine the need for Federal legislation, required the Secretary to submit a report on his investigation to the Congress before Mar. 1, 1973, and authorized $300,000 in appropriations to carry out the study.
 
  __REORGANIZATION PLAN NO. 1 OF 1953__ 
 
- __Eff.__  __Apr. 11, 1953__  __, 18 F.R. 2053,__  __[__  __67 Stat. 631__  __][/us/stat/67/631]__  __, as amended__  __Sept. 11, 1967__  __,__  __[__  __Pub. L. 90–83, § 10(c)__  __][/us/pl/90/83/s10/c]__  __,__  __[__  __81 Stat. 224__  __][/us/stat/81/224]__ 
+ __Eff.__  __Apr. 11, 1953__  __, 18 F.R. 2053,__  __[__  __67 Stat. 631__  __][/us/stat/67/631]__  __, as amended__  __Sept. 11, 1967__  __,__  __[__  __Pub. L. 90–83__  __][/us/pl/90/83]__  __, § 10(c),__  __[__  __81 Stat. 224__  __][/us/stat/81/224]__ 
 
     Prepared by the President and transmitted to the Senate and to the House of Representatives in Congress assembled, March 12, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see [5 U.S.C. 901][/us/usc/t5/s901] et seq.\].
 
@@ -95,7 +95,7 @@
 
  __Sec. 3. Special Assistant__ 
 
-    \[Repealed. [Pub. L. 90–83, § 10(c)][/us/pl/90/83/s10/c], Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224]. Section provided for the appointment of Special Assistant to the Secretary (Health and Medical Affairs).\]
+    \[Repealed. [Pub. L. 90–83][/us/pl/90/83], § 10(c), Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224]. Section provided for the appointment of Special Assistant to the Secretary (Health and Medical Affairs).\]
 
  __Sec. 4. Commissioner of Social Security__ 
 
@@ -411,26 +411,26 @@ In the interest of economy and efficiency the Secretary may from time to time es
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t5/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs913
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
-[/us/pl/106/525/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs301
+[/us/pl/106/525/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtIII
 [/us/stat/114/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2507
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t20/s3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3404
-[/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
+[/us/pl/92/318/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtVI
 [/us/stat/86/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F353
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/90/83/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fc
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F224
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
-[/us/pl/90/83/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fc
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F224
 [/us/stat/53/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1423
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095

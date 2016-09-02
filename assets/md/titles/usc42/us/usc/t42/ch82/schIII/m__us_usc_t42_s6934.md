@@ -53,7 +53,7 @@
 
         The Administrator may commence a civil action against any person who fails or refuses to comply with any order issued under this section. Such action shall be brought in the United States district court in which the defendant is located, resides, or is doing business. Such court shall have jurisdiction to require compliance with such order and to assess a civil penalty of not to exceed $5,000 for each day during which such failure or refusal occurs.
 
-([Pub. L. 89–272, title II, § 3013][/us/pl/89/272/s3013], as added [Pub. L. 96–482, § 17(a)][/us/pl/96/482/s17/a], Oct. 21, 1980, [94 Stat. 2344][/us/stat/94/2344].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3013, as added [Pub. L. 96–482][/us/pl/96/482], § 17(a), Oct. 21, 1980, [94 Stat. 2344][/us/stat/94/2344].)
 
  __Transfer of Functions__ 
 
@@ -67,8 +67,8 @@
 ----------
 
 [/us/usc/t42/s6927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6927
-[/us/pl/89/272/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3013
-[/us/pl/96/482/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs17%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2344
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

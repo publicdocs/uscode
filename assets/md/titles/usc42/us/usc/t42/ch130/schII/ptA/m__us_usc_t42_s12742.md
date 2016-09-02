@@ -117,7 +117,7 @@
 
         A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
 
-([Pub. L. 101–625, title II, § 212][/us/pl/101/625/s212], Nov. 28, 1990, [104 Stat. 4097][/us/stat/104/4097]; [Pub. L. 102–550, title II][/us/pl/102/550], §§ 203(a), 204–207(b), (d), title X, § 1012(e), Oct. 28, 1992, [106 Stat. 3752–3754][/us/stat/106/3752-3754], 3905; [Pub. L. 105–276, title V, § 522(b)(5)][/us/pl/105/276/s522/b/5], Oct. 21, 1998, [112 Stat. 2565][/us/stat/112/2565].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 212, Nov. 28, 1990, [104 Stat. 4097][/us/stat/104/4097]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], §§ 203(a), 204–207(b), (d), title X, § 1012(e), Oct. 28, 1992, [106 Stat. 3752–3754][/us/stat/106/3752-3754], 3905; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(b)(5), Oct. 21, 1998, [112 Stat. 2565][/us/stat/112/2565].)
 
  __References in Text__ 
 
@@ -125,39 +125,39 @@
 
     [Section 1437g(d)(1) of this title][/us/usc/t42/s1437g/d/1], referred to in subsec. (d)(5), was in the original “section 9(d)(1) of the Housing Act of 1937”, and was translated as reading “section 9(d)(1) of the United States Housing Act of 1937”, [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], to reflect the probable intent of Congress.
 
-    The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(6), is title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [102 Stat. 1877][/us/stat/102/1877], as amended, which was classified principally as a note under section 1715l of Title 12, Banks and Banking. Title II of [Pub. L. 100–242][/us/pl/100/242], was amended generally by [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to chapter 42 (§ 4101 et seq.) of Title 12. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 12][/us/usc/t12/s4101] and Tables.
+    The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(6), is title II of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [102 Stat. 1877][/us/stat/102/1877], as amended, which was classified principally as a note under section 1715l of Title 12, Banks and Banking. Title II of [Pub. L. 100–242][/us/pl/100/242], was amended generally by [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to chapter 42 (§ 4101 et seq.) of Title 12. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 12][/us/usc/t12/s4101] and Tables.
 
  __Amendments__ 
 
     1998—Subsec. (d)(5). [Pub. L. 105–276][/us/pl/105/276] substituted “section 1437g(d)(1)” for “section 1437l”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–550, § 207(a)][/us/pl/102/550/s207/a], inserted “to provide for the payment of reasonable administrative and planning costs, to provide for the payment of operating expenses of community housing development organizations,” after “or organizations,”.
+    1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550], § 207(a), inserted “to provide for the payment of reasonable administrative and planning costs, to provide for the payment of operating expenses of community housing development organizations,” after “or organizations,”.
 
-    [Pub. L. 102–550, § 205][/us/pl/102/550/s205], inserted at end “For the purpose of this part, the term ‘affordable housing’ includes permanent housing for disabled homeless persons, transitional housing, and single room occupancy housing.”
+    [Pub. L. 102–550][/us/pl/102/550], § 205, inserted at end “For the purpose of this part, the term ‘affordable housing’ includes permanent housing for disabled homeless persons, transitional housing, and single room occupancy housing.”
 
-    Subsec. (a)(2). [Pub. L. 102–550, § 203(a)(1)][/us/pl/102/550/s203/a/1], struck out “under paragraph (3) of this subsection or” after “authorized” in concluding provisions.
+    Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550], § 203(a)(1), struck out “under paragraph (3) of this subsection or” after “authorized” in concluding provisions.
 
-    Subsec. (a)(3). [Pub. L. 102–550, § 204(b)][/us/pl/102/550/s204/b], added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read as follows: “the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences.”
+    Subsec. (a)(3). [Pub. L. 102–550][/us/pl/102/550], § 204(b), added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read as follows: “the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences.”
 
-    [Pub. L. 102–550, § 204(a)][/us/pl/102/550/s204/a], added subpar. (E).
+    [Pub. L. 102–550][/us/pl/102/550], § 204(a), added subpar. (E).
 
-    [Pub. L. 102–550, § 203(a)(2)][/us/pl/102/550/s203/a/2], (3), redesignated par. (4) as (3) and struck out former par. (3) which provided for conditions for new construction of housing.
+    [Pub. L. 102–550][/us/pl/102/550], § 203(a)(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which provided for conditions for new construction of housing.
 
-    Subsec. (a)(4). [Pub. L. 102–550, § 203(a)(3)][/us/pl/102/550/s203/a/3], redesignated par. (4) as (3).
+    Subsec. (a)(4). [Pub. L. 102–550][/us/pl/102/550], § 203(a)(3), redesignated par. (4) as (3).
 
-    Subsec. (a)(5). [Pub. L. 102–550, § 1012(e)][/us/pl/102/550/s1012/e], added par. (5).
+    Subsec. (a)(5). [Pub. L. 102–550][/us/pl/102/550], § 1012(e), added par. (5).
 
-    Subsec. (c). [Pub. L. 102–550, § 207(b)(3)][/us/pl/102/550/s207/b/3], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 207(b)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    [Pub. L. 102–550, § 207(b)(1)][/us/pl/102/550/s207/b/1], inserted before comma at end of par. (1) “that exceed the amount specified under subsection (c) of this section”.
+    [Pub. L. 102–550][/us/pl/102/550], § 207(b)(1), inserted before comma at end of par. (1) “that exceed the amount specified under subsection (c) of this section”.
 
-    Subsec. (d). [Pub. L. 102–550, § 207(b)(2)][/us/pl/102/550/s207/b/2], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 207(b)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    [Pub. L. 102–550, § 206][/us/pl/102/550/s206], inserted after first sentence of par. (1) “For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs.”
+    [Pub. L. 102–550][/us/pl/102/550], § 206, inserted after first sentence of par. (1) “For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs.”
 
-    Subsecs. (e), (f). [Pub. L. 102–550, § 207(b)(2)][/us/pl/102/550/s207/b/2], redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (e), (f). [Pub. L. 102–550][/us/pl/102/550], § 207(b)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-    Subsec. (g). [Pub. L. 102–550, § 207(d)][/us/pl/102/550/s207/d], added subsec. (g).
+    Subsec. (g). [Pub. L. 102–550][/us/pl/102/550], § 207(d), added subsec. (g).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -183,11 +183,11 @@
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/usc/t42/s3545/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3545%2Fd
-[/us/pl/101/625/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs212
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4097
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3752-3754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3752-3754
-[/us/pl/105/276/s522/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fb%2F5
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2565
 [/us/usc/t42/s1437d/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fc%2F4%2FA
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
@@ -196,24 +196,24 @@
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/102/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1877
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4249
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/102/550/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs207%2Fa
-[/us/pl/102/550/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs205
-[/us/pl/102/550/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fa%2F1
-[/us/pl/102/550/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs204%2Fb
-[/us/pl/102/550/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs204%2Fa
-[/us/pl/102/550/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fa%2F2
-[/us/pl/102/550/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fa%2F3
-[/us/pl/102/550/s1012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fe
-[/us/pl/102/550/s207/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs207%2Fb%2F3
-[/us/pl/102/550/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs207%2Fb%2F1
-[/us/pl/102/550/s207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs207%2Fb%2F2
-[/us/pl/102/550/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs206
-[/us/pl/102/550/s207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs207%2Fb%2F2
-[/us/pl/102/550/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs207%2Fd
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

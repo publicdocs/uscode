@@ -57,7 +57,7 @@
 
         (2) any person who files a petition under [section 6295(n) of this title][/us/usc/t42/s6295/n] which is denied by the Secretary.
 
-([Pub. L. 94–163, title III, § 336][/us/pl/94/163/s336], Dec. 22, 1975, [89 Stat. 930][/us/stat/89/930]; [Pub. L. 95–619, title IV][/us/pl/95/619], §§ 425(g), 427, title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266][/us/stat/92/3266], 3267, 3288; [Pub. L. 100–12, § 9][/us/pl/100/12/s9], Mar. 17, 1987, [101 Stat. 123][/us/stat/101/123]; [Pub. L. 105–388, § 5(a)(6)][/us/pl/105/388/s5/a/6], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 336, Dec. 22, 1975, [89 Stat. 930][/us/stat/89/930]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], §§ 425(g), 427, title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266][/us/stat/92/3266], 3267, 3288; [Pub. L. 100–12][/us/pl/100/12], § 9, Mar. 17, 1987, [101 Stat. 123][/us/stat/101/123]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(6), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478].)
 
  __Amendments__ 
 
@@ -99,11 +99,11 @@
 
     1978—Subsec. (a). [Pub. L. 95–619][/us/pl/95/619], §§ 425(g)(1)–(3), 691(b)(2), struck out par. designation “(1)” before “Rules” and substituted reference to section “6295(a)” for “6295(a)(1), (2), or (3)” in first sentence; redesignated subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B) as pars. (1) and (2) and subpars. (A) and (B) of par. (2), respectively; struck out “paragraph (1), (2), or (3) of” before “section 6295(a)” in par. (2) as so redesignated; directed the substitution of “paragraph (1)” for “subparagraph (A)” in par. (2)(B) as so redesignated, which was executed to par. (2)(A) as so redesignated to reflect the probable intent of Congress; substituted “subsection” for “paragraph” in last sentence; and substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-    Par. (2), which provided that subsecs. (c) and (d) of [section 57a of title 15][/us/usc/t15/s57a] shall apply to rules under [section 6295 of this title][/us/usc/t42/s6295] (other than subsecs. (a)(1), (2), and (3)) to the same extent that such subsecs. apply to rules under [section 57a(a)(1)(B) of title 15][/us/usc/t15/s57a/a/1/B], was struck out to reflect the probable intent of Congress in view of the amendment by [Pub. L. 95–619, § 425(g)(1)][/us/pl/95/619/s425/g/1], which struck out designation “(1)” after subsection (a) designation, and in view of the amendment by [Pub. L. 95–619, § 422][/us/pl/95/619/s422], to [section 6295(a) of this title][/us/usc/t42/s6295/a], which struck out pars. (3) to (5) therefrom.
+    Par. (2), which provided that subsecs. (c) and (d) of [section 57a of title 15][/us/usc/t15/s57a] shall apply to rules under [section 6295 of this title][/us/usc/t42/s6295] (other than subsecs. (a)(1), (2), and (3)) to the same extent that such subsecs. apply to rules under [section 57a(a)(1)(B) of title 15][/us/usc/t15/s57a/a/1/B], was struck out to reflect the probable intent of Congress in view of the amendment by [Pub. L. 95–619][/us/pl/95/619], § 425(g)(1), which struck out designation “(1)” after subsection (a) designation, and in view of the amendment by [Pub. L. 95–619][/us/pl/95/619], § 422, to [section 6295(a) of this title][/us/usc/t42/s6295/a], which struck out pars. (3) to (5) therefrom.
 
-    Subsec. (b). [Pub. L. 95–619, § 425(g)(4)][/us/pl/95/619/s425/g/4], (5), substituted “section 6293, 6294, or 6295” for “section 6293 or 6294” in pars. (1) and (2) and struck out former par. (5) which related to the application of [section 57a(e) of title 15][/us/usc/t15/s57a/e] to rules under [section 6295 of this title][/us/usc/t42/s6295].
+    Subsec. (b). [Pub. L. 95–619][/us/pl/95/619], § 425(g)(4), (5), substituted “section 6293, 6294, or 6295” for “section 6293 or 6294” in pars. (1) and (2) and struck out former par. (5) which related to the application of [section 57a(e) of title 15][/us/usc/t15/s57a/e] to rules under [section 6295 of this title][/us/usc/t42/s6295].
 
-    Subsec. (c). [Pub. L. 95–619, § 427][/us/pl/95/619/s427], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–619][/us/pl/95/619], § 427, added subsec. (c).
 
 ----------
 
@@ -117,13 +117,13 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t42/s6295/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fn
-[/us/pl/94/163/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs336
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F930
-[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3266
-[/us/pl/100/12/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs9
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F123
-[/us/pl/105/388/s5/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F6
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
@@ -137,12 +137,12 @@
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
 [/us/usc/t15/s57a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fa%2F1%2FB
-[/us/pl/95/619/s425/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fg%2F1
-[/us/pl/95/619/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs422
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s6295/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fa
-[/us/pl/95/619/s425/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fg%2F4
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t15/s57a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fe
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/95/619/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs427
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 
 

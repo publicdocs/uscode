@@ -17,7 +17,7 @@
 
     The amount of the increase provided to a State under the covered formula grants under this part shall be equal to not more than 10 percent of the average of the total amount of funding provided to the State under the covered formula grants under the 3 most recent awards to the State.
 
-([Pub. L. 114–22, title IV, § 406][/us/pl/114/22/s406], May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 406, May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs406
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F257
 
 

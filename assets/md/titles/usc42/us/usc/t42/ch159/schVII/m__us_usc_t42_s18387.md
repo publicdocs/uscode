@@ -23,11 +23,11 @@
 
         The Director of the OSTP shall implement, before September 30, 2012, a policy for notifying Federal agencies and relevant emergency response institutions of an impending near-Earth object threat if near-term public safety is at risk, and assign a Federal agency or agencies to be responsible for protecting the United States and working with the international community on such threats.
 
-([Pub. L. 111–267, title VIII, § 808][/us/pl/111/267/s808], Oct. 11, 2010, [124 Stat. 2834][/us/stat/124/2834].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 808, Oct. 11, 2010, [124 Stat. 2834][/us/stat/124/2834].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 20102(g) of title 51][/us/usc/t51/s20102/g]” substituted for “section 102(g) of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2451(g)][/us/usc/t42/s2451/g])” on authority of [Pub. L. 111–314, § 5(e)][/us/pl/111/314/s5/e], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
+    In subsec. (a), “[section 20102(g) of title 51][/us/usc/t51/s20102/g]” substituted for “section 102(g) of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2451(g)][/us/usc/t42/s2451/g])” on authority of [Pub. L. 111–314][/us/pl/111/314], § 5(e), Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
 
 ----------
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t51/s20102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20102%2Fg
-[/us/pl/111/267/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs808
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2834
 [/us/usc/t51/s20102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20102%2Fg
 [/us/usc/t42/s2451/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2451%2Fg
-[/us/pl/111/314/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs5%2Fe
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3443
 
 

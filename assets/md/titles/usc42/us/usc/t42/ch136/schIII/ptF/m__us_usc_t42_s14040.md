@@ -21,7 +21,7 @@
 
     (2) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
 
-([Pub. L. 103–322, title IV, § 40611][/us/pl/103/322/s40611], Sept. 13, 1994, [108 Stat. 1952][/us/stat/108/1952].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40611, Sept. 13, 1994, [108 Stat. 1952][/us/stat/108/1952].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40611
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1952
 
 

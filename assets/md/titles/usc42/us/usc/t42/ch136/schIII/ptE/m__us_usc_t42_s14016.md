@@ -31,7 +31,7 @@
 
         The Attorney General shall ensure that the Department of Justice’s Violence Against Women initiative addresses the issue of statutory rape, particularly the commission of statutory rape by predatory older men committing repeat offenses.
 
-([Pub. L. 104–193, title IX, § 906][/us/pl/104/193/s906], Aug. 22, 1996, [110 Stat. 2349][/us/stat/110/2349].)
+([Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 906, Aug. 22, 1996, [110 Stat. 2349][/us/stat/110/2349].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/104/193/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs906
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2349
 
 

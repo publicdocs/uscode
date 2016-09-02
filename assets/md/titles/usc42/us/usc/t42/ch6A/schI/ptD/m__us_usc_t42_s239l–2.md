@@ -91,7 +91,7 @@
 
         A medical, dental, physician assistant, pharmacy, behavioral and mental health, public health, or nursing student who, under regulations prescribed by the Surgeon General, is dropped from the Track in an affiliated school for deficiency in conduct or studies, or for other reasons, shall be liable to the United States for all tuition and stipend support provided to the student.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 273, as added [Pub. L. 111–148, title V, § 5315][/us/pl/111/148/s5315], Mar. 23, 2010, [124 Stat. 639][/us/stat/124/639].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 273, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5315, Mar. 23, 2010, [124 Stat. 639][/us/stat/124/639].)
 
 ----------
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5315
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F639
 
 

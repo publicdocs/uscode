@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this chapter (other than for research and development) $15,000,000 for the fiscal year ending September 30, 1979.
 
-([Pub. L. 92–574, § 19][/us/pl/92/574/s19], Oct. 27, 1972, [86 Stat. 1250][/us/stat/86/1250]; [Pub. L. 94–301, § 2][/us/pl/94/301/s2], May 31, 1976, [90 Stat. 590][/us/stat/90/590]; [Pub. L. 95–609, § 6][/us/pl/95/609/s6], Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081].)
+([Pub. L. 92–574][/us/pl/92/574], § 19, Oct. 27, 1972, [86 Stat. 1250][/us/stat/86/1250]; [Pub. L. 94–301][/us/pl/94/301], § 2, May 31, 1976, [90 Stat. 590][/us/stat/90/590]; [Pub. L. 95–609][/us/pl/95/609], § 6, Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/92/574/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs19
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1250
-[/us/pl/94/301/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F301%2Fs2
+[/us/pl/94/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F301
 [/us/stat/90/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F590
-[/us/pl/95/609/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs6
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3081
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/pl/94/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F301

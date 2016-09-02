@@ -99,7 +99,7 @@
 
         The Secretary shall not accept and use more than $100,000,000 under subsection (c)(1) for the period encompassing fiscal years 2006 through 2015.
 
-([Pub. L. 109–58, title XII, § 1222][/us/pl/109/58/s1222], Aug. 8, 2005, [119 Stat. 952][/us/stat/119/952].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1222, Aug. 8, 2005, [119 Stat. 952][/us/stat/119/952].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 [/us/usc/t16/s824p/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824p%2Fa
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/58/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1222
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F952
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

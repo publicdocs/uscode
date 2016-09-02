@@ -23,7 +23,7 @@
 
         The Secretary shall seek to ensure that no local educational agency penalizes a teacher who elects to participate in the Program.
 
-([Pub. L. 103–382, title V, § 516][/us/pl/103/382/s516], Oct. 20, 1994, [108 Stat. 4044][/us/stat/108/4044].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 516, Oct. 20, 1994, [108 Stat. 4044][/us/stat/108/4044].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/382/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs516
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4044
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

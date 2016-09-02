@@ -19,7 +19,7 @@
 
     (b) Within 1 year after October 24, 1992, the Secretary shall submit a report to the Congress on the results of the study undertaken under subsection (a) of this section.
 
-([Pub. L. 102–486, title XII, § 1205][/us/pl/102/486/s1205], Oct. 24, 1992, [106 Stat. 2962][/us/stat/106/2962].)
+([Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1205, Oct. 24, 1992, [106 Stat. 2962][/us/stat/106/2962].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1205
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2962
 
 

@@ -17,7 +17,7 @@
 
     The provisions of this subchapter are subject to [section 10107 of this title][/us/usc/t42/s10107] and shall not apply to facilities that are used for the disposal of high-level radioactive waste, low-level radioactive waste, transuranic waste, or spent nuclear fuel resulting from atomic energy defense activities.
 
-([Pub. L. 97–425, title II, § 212][/us/pl/97/425/s212], Jan. 7, 1983, [96 Stat. 2245][/us/stat/96/2245].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 212, Jan. 7, 1983, [96 Stat. 2245][/us/stat/96/2245].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s10107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10107
-[/us/pl/97/425/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs212
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2245
 
 

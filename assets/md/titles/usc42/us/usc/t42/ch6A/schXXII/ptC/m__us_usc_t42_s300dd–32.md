@@ -65,15 +65,15 @@
 
         (4) Paragraph (3) may not be construed to prohibit a counselor who has already performed the counseling of an individual required by paragraph (2), to provide accurate information about means to reduce an individual’s risk of exposure to, or the transmission of, the etiologic agent for acquired immune deficiency syndrome, provided that any informational materials used are not obscene.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIV, § 2432, as added [Pub. L. 100–607, title II, § 211][/us/pl/100/607/s211], Nov. 4, 1988, [102 Stat. 3090][/us/stat/102/3090]; amended [Pub. L. 100–690, title II, § 2618(i)][/us/pl/100/690/s2618/i], Nov. 18, 1988, [102 Stat. 4242][/us/stat/102/4242]; [Pub. L. 102–321, title I, § 118(b)(1)(B)][/us/pl/102/321/s118/b/1/B], July 10, 1992, [106 Stat. 348][/us/stat/106/348].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIV, § 2432, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 211, Nov. 4, 1988, [102 Stat. 3090][/us/stat/102/3090]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2618(i), Nov. 18, 1988, [102 Stat. 4242][/us/stat/102/4242]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 118(b)(1)(B), July 10, 1992, [106 Stat. 348][/us/stat/106/348].)
 
  __Amendments__ 
 
     1992—Subsec. (a). [Pub. L. 102–321][/us/pl/102/321], which directed the substitution of “part” for “subpart” wherever appearing in subsec. (a), could not be executed because the word “subpart” does not appear in subsec. (a).
 
-    1988—Subsec. (c). [Pub. L. 100–690, § 2618(i)(1)][/us/pl/100/690/s2618/i/1], substituted “indicate that an individual” for “indicate that the individual” in introductory provisions and “paragraph (5)” for “paragraph (4)” in par. (6).
+    1988—Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 2618(i)(1), substituted “indicate that an individual” for “indicate that the individual” in introductory provisions and “paragraph (5)” for “paragraph (4)” in par. (6).
 
-    Subsec. (e)(1) to (3). [Pub. L. 100–690, § 2618(i)(2)][/us/pl/100/690/s2618/i/2], substituted “subpart” for “part”.
+    Subsec. (e)(1) to (3). [Pub. L. 100–690][/us/pl/100/690], § 2618(i)(2), substituted “subpart” for “part”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -95,15 +95,15 @@
 [/us/usc/t42/s300dd–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300dd%E2%80%9331
 [/us/usc/t42/s300dd–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300dd%E2%80%9331
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs211
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3090
-[/us/pl/100/690/s2618/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fi
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4242
-[/us/pl/102/321/s118/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs118%2Fb%2F1%2FB
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F348
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/pl/100/690/s2618/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fi%2F1
-[/us/pl/100/690/s2618/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fi%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

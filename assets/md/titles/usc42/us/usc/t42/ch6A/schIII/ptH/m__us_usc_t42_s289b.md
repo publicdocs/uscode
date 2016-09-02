@@ -75,7 +75,7 @@
 
             The Secretary shall by regulation establish remedies for noncompliance by an entity, its officials or agents, which has engaged in retaliation in violation of the standards established under paragraph (1). Such remedies may include termination of funding provided by the Secretary for such project or recovery of funding being provided by the Secretary for such project, or other actions as appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 493, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 874][/us/stat/99/874]; amended [Pub. L. 103–43, title I][/us/pl/103/43], §§ 161, 163, June 10, 1993, [107 Stat. 140][/us/stat/107/140], 142.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 493, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 874][/us/stat/99/874]; amended [Pub. L. 103–43, title I][/us/pl/103/43/tI], §§ 161, 163, June 10, 1993, [107 Stat. 140][/us/stat/107/140], 142.)
 
  __Codification__ 
 
@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–43, § 161][/us/pl/103/43/s161], amended section generally. Prior to amendment, section read as follows:
+    1993—[Pub. L. 103–43][/us/pl/103/43], § 161, amended section generally. Prior to amendment, section read as follows:
 
     “(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that such entity—
 
@@ -93,11 +93,11 @@
 
     “(b) The Director of NIH shall establish a process for the prompt and appropriate response to information provided the Director of NIH respecting scientific fraud in connection with projects for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such fraud.”
 
-    Subsec. (e). [Pub. L. 103–43, § 163][/us/pl/103/43/s163], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–43][/us/pl/103/43], § 163, added subsec. (e).
 
  __Regulations__ 
 
-[Pub. L. 103–43, title I, § 165][/us/pl/103/43/s165], June 10, 1993, [107 Stat. 143][/us/stat/107/143], provided that:
+[Pub. L. 103–43, title I][/us/pl/103/43/tI], § 165, June 10, 1993, [107 Stat. 143][/us/stat/107/143], provided that:
 
 >     “(a) __Issuance of Final Rules.—__ 
 
@@ -131,14 +131,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F874
-[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F140
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/103/43/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs161
-[/us/pl/103/43/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs163
-[/us/pl/103/43/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs165
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F143
 [/us/usc/t42/s289b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289b
 [/us/stat/107/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F142

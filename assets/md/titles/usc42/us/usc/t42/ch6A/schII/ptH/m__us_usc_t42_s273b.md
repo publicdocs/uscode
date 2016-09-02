@@ -17,7 +17,7 @@
 
     Not later than 1 year after December 21, 2007, and annually thereafter, the Secretary of Health and Human Services shall submit to the appropriate committees of Congress a report that details the progress made towards understanding the long-term health effects of living organ donation.
 
-([Pub. L. 110–144, § 3][/us/pl/110/144/s3], Dec. 21, 2007, [121 Stat. 1814][/us/stat/121/1814].)
+([Pub. L. 110–144][/us/pl/110/144], § 3, Dec. 21, 2007, [121 Stat. 1814][/us/stat/121/1814].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/144/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs3
+[/us/pl/110/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144
 [/us/stat/121/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1814
 
 

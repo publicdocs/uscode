@@ -135,7 +135,7 @@
 
         For purposes of carrying out the pilot program, the Secretary shall issue regulations defining any term, as the Secretary determines to be necessary.
 
-([Pub. L. 109–58, title VII, § 721][/us/pl/109/58/s721], Aug. 8, 2005, [119 Stat. 818][/us/stat/119/818].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 721, Aug. 8, 2005, [119 Stat. 818][/us/stat/119/818].)
 
 ----------
 
@@ -144,7 +144,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs721
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F818
 
 

@@ -33,7 +33,7 @@
 
         In carrying out the responsibilities under this section, the Secretary is not subject to the requirements of [section 553 of title 5][/us/usc/t5/s553] or [section 7191 of this title][/us/usc/t42/s7191].
 
-([Pub. L. 96–345, § 5][/us/pl/96/345/s5], Sept. 8, 1980, [94 Stat. 1141][/us/stat/94/1141].)
+([Pub. L. 96–345][/us/pl/96/345], § 5, Sept. 8, 1980, [94 Stat. 1141][/us/stat/94/1141].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s7191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191
-[/us/pl/96/345/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs5
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1141
 
 

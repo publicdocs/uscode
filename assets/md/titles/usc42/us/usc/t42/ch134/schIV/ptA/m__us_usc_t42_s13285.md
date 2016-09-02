@@ -29,7 +29,7 @@
 
         (3) include recommendations for legislative and administrative measures to encourage the purchase and use of electric motor vehicles.
 
-([Pub. L. 102–486, title VI, § 615][/us/pl/102/486/s615], Oct. 24, 1992, [106 Stat. 2903][/us/stat/106/2903].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 615, Oct. 24, 1992, [106 Stat. 2903][/us/stat/106/2903].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs615
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2903
 
 

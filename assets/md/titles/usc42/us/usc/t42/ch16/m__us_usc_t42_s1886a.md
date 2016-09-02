@@ -17,7 +17,7 @@
 
     The National Science Foundation shall continue to collect statistically reliable data on the field of degree of college-educated individuals to fulfill obligations under [section 1863(j)(1) of this title][/us/usc/t42/s1863/j/1] and the Science and Engineering Equal Opportunities Act \[[42 U.S.C. 1885][/us/usc/t42/s1885] et seq.\]. If the Director of the Foundation determines that there is a legal impediment to the continued collection of this data, he shall inform the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after December 30, 2005.
 
-([Pub. L. 109–155, title VII, § 721][/us/pl/109/155/s721], Dec. 30, 2005, [119 Stat. 2938][/us/stat/119/2938].)
+([Pub. L. 109–155, title VII][/us/pl/109/155/tVII], § 721, Dec. 30, 2005, [119 Stat. 2938][/us/stat/119/2938].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s1863/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863%2Fj%2F1
 [/us/usc/t42/s1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885
-[/us/pl/109/155/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs721
+[/us/pl/109/155/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtVII
 [/us/stat/119/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2938
 [/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010

@@ -55,7 +55,7 @@
 
         (6) the impact of the award on the overall geographic distribution of awards made under the Program, with the objective of avoiding undue concentration of awards.
 
-([Pub. L. 100–570, title II, § 203][/us/pl/100/570/s203], Oct. 31, 1988, [102 Stat. 2874][/us/stat/102/2874].)
+([Pub. L. 100–570, title II][/us/pl/100/570/tII], § 203, Oct. 31, 1988, [102 Stat. 2874][/us/stat/102/2874].)
 
  __Codification__ 
 
@@ -63,11 +63,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1862b, [Pub. L. 100–418, title VI, § 6403][/us/pl/100/418/s6403], Aug. 23, 1988, [102 Stat. 1544][/us/stat/102/1544], related to establishment of National Science Foundation College Science Instrumentation Program, prior to repeal by [Pub. L. 100–570, § 206][/us/pl/100/570/s206].
+    A prior section 1862b, [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6403, Aug. 23, 1988, [102 Stat. 1544][/us/stat/102/1544], related to establishment of National Science Foundation College Science Instrumentation Program, prior to repeal by [Pub. L. 100–570][/us/pl/100/570], § 206.
 
  __Major Research Instrumentation__ 
 
-    [Pub. L. 107–368, § 13][/us/pl/107/368/s13], Dec. 19, 2002, [116 Stat. 3055][/us/stat/116/3055], required Director of the National Science Foundation to conduct a review and assessment of the major research instrumentation program and, not later than 1 year after Dec. 19, 2002, submit a report, including specified estimates, descriptions and analyses, of findings and recommendations to certain Congressional committees, and also required the Director to enter into an arrangement with the National Academy of Sciences to assess the need for an interagency program to establish and support fully equipped, state-of-the-art university-based centers for interdisciplinary research and advanced instrumentation development, and not later than 15 months after Dec. 19, 2002, to transmit to the committees the assessment conducted by the National Academy of Sciences together with the Foundation’s reaction to the assessment.
+    [Pub. L. 107–368][/us/pl/107/368], § 13, Dec. 19, 2002, [116 Stat. 3055][/us/stat/116/3055], required Director of the National Science Foundation to conduct a review and assessment of the major research instrumentation program and, not later than 1 year after Dec. 19, 2002, submit a report, including specified estimates, descriptions and analyses, of findings and recommendations to certain Congressional committees, and also required the Director to enter into an arrangement with the National Academy of Sciences to assess the need for an interagency program to establish and support fully equipped, state-of-the-art university-based centers for interdisciplinary research and advanced instrumentation development, and not later than 15 months after Dec. 19, 2002, to transmit to the committees the assessment conducted by the National Academy of Sciences together with the Foundation’s reaction to the assessment.
 
 ----------
 
@@ -78,12 +78,12 @@
 
 [/us/usc/t42/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862
 [/us/usc/t42/s1862c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862c
-[/us/pl/100/570/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs203
+[/us/pl/100/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtII
 [/us/stat/102/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2874
-[/us/pl/100/418/s6403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6403
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1544
-[/us/pl/100/570/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs206
-[/us/pl/107/368/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs13
+[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3055
 
 

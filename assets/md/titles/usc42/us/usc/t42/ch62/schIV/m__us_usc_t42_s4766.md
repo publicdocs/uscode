@@ -35,7 +35,7 @@
 
         Notwithstanding the other provisions of this section, the total of the payments from the appropriations for any fiscal year under this chapter made with respect to programs or projects in any one State may not exceed an amount equal to 12½ per centum of such appropriation.
 
-([Pub. L. 91–648, title V, § 506][/us/pl/91/648/s506], Jan. 5, 1971, [84 Stat. 1927][/us/stat/84/1927]; [Pub. L. 95–454, title VI, § 602(e)][/us/pl/95/454/s602/e], Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 506, Jan. 5, 1971, [84 Stat. 1927][/us/stat/84/1927]; [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 602(e), Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/91/648/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs506
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1927
-[/us/pl/95/454/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs602%2Fe
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1189
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761

@@ -27,7 +27,7 @@
 
         In disbursing funds under this part, the Attorney General shall ensure the distribution of awards equitably on a geographic basis, including urban and rural areas of varying population and geographic size.
 
-([Pub. L. 103–322, title III, § 30302][/us/pl/103/322/s30302], Sept. 13, 1994, [108 Stat. 1845][/us/stat/108/1845].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30302, Sept. 13, 1994, [108 Stat. 1845][/us/stat/108/1845].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s30302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30302
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1845
 
 

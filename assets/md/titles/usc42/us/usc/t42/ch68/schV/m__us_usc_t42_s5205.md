@@ -53,7 +53,7 @@
 
         (3) the purpose of the grant was accomplished.
 
-([Pub. L. 93–288, title VII, § 705][/us/pl/93/288/s705], as added [Pub. L. 106–390, title III, § 304][/us/pl/106/390/s304], Oct. 30, 2000, [114 Stat. 1573][/us/stat/114/1573].)
+([Pub. L. 93–288, title VII][/us/pl/93/288/tVII], § 705, as added [Pub. L. 106–390, title III][/us/pl/106/390/tIII], § 304, Oct. 30, 2000, [114 Stat. 1573][/us/stat/114/1573].)
 
  __References in Text__ 
 
@@ -66,8 +66,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs705
-[/us/pl/106/390/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs304
+[/us/pl/93/288/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVII
+[/us/pl/106/390/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtIII
 [/us/stat/114/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1573
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall take effect one hundred and twenty days after the Secretary first takes office, or on such earlier date as the President may prescribe and publish in the Federal Register, except that at any time after August 4, 1977, (1) any of the officers provided for in subchapters II and IV of this chapter may be nominated and appointed, as provided in those subchapters, and (2) the Secretary and the Commission may promulgate regulations pursuant to [section 7295(b)(2) of this title][/us/usc/t42/s7295/b/2] at any time after August 4, 1977. Funds available to any department or agency (or any official or component thereof), functions of which are transferred to the Secretary or the Commission by this chapter, may with the approval of the Director of the Office of Management and Budget, be used to pay the compensation and expenses of any officer appointed pursuant to this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  until such time as funds for that purpose are otherwise available.
 
-([Pub. L. 95–91, title IX, § 901][/us/pl/95/91/s901], Aug. 4, 1977, [91 Stat. 612][/us/stat/91/612].)
+([Pub. L. 95–91, title IX][/us/pl/95/91/tIX], § 901, Aug. 4, 1977, [91 Stat. 612][/us/stat/91/612].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s7295/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7295%2Fb%2F2
-[/us/pl/95/91/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs901
+[/us/pl/95/91/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIX
 [/us/stat/91/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F612
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

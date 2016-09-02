@@ -17,7 +17,7 @@
 
     Where any Federal agency has funds for the provision of housing in connection with national-defense activities it may, in its discretion, make transfers of those funds, in whole or in part, to the Secretary of Housing and Urban Development, and the funds so transferred shall be available for, but only for, any or all of the objects and purposes of and in accordance with all the authority and limitations contained in subchapters II to VII of this chapter, and for administrative expenses in connection therewith.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 302, formerly § 5, [54 Stat. 1127][/us/stat/54/1127]; renumbered title III, § 302, [June 28, 1941, ch. 260, § 4(b)][/us/act/1941-06-28/ch260/s4/b], [55 Stat. 363][/us/stat/55/363]; amended Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 302, formerly § 5, [54 Stat. 1127][/us/stat/54/1127]; renumbered title III, § 302, [June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 4(b), [55 Stat. 363][/us/stat/55/363]; amended Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __References in Text__ 
 
@@ -42,11 +42,11 @@
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1127
-[/us/act/1941-06-28/ch260/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs4%2Fb
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F363
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F73
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522

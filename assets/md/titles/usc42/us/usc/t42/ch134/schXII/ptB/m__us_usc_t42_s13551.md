@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch134/schXII/ptB/m__us_usc_t42_ch134_schXII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch134/schXII/ptB/m__us_usc_t42_s13552.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13551)
 
-## § 13551. Repealed. [Pub. L. 104–182, title III, § 301][/us/pl/104/182/s301], Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683]
+## § 13551. Repealed. [Pub. L. 104–182, title III][/us/pl/104/182/tIII], § 301, Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683]
 
-    Section, [Pub. L. 102–486, title XXX, § 3013][/us/pl/102/486/s3013], Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128], related to geothermal heat pumps.
+    Section, [Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3013, Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128], related to geothermal heat pumps.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/182/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs301
+[/us/pl/104/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtIII
 [/us/stat/110/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1683
-[/us/pl/102/486/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3013
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3128
 
 

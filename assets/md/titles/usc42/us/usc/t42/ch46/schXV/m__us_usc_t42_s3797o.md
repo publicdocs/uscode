@@ -35,15 +35,15 @@
 
         (2) a summary of the information provided under subsection (a) of this section.
 
-([Pub. L. 90–351, title I, § 2806][/us/pl/90/351/s2806], as added [Pub. L. 106–561, § 2(c)(1)][/us/pl/106/561/s2/c/1], Dec. 21, 2000, [114 Stat. 2790][/us/stat/114/2790]; amended [Pub. L. 107–273, div. B, title V, § 5001(b)(5)][/us/pl/107/273/s5001/b/5], Nov. 2, 2002, [116 Stat. 1814][/us/stat/116/1814].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2806, as added [Pub. L. 106–561][/us/pl/106/561], § 2(c)(1), Dec. 21, 2000, [114 Stat. 2790][/us/stat/114/2790]; amended [Pub. L. 107–273, div. B, title V][/us/pl/107/273/dB/tV], § 5001(b)(5), Nov. 2, 2002, [116 Stat. 1814][/us/stat/116/1814].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 5001(b)(5)(A)][/us/pl/107/273/s5001/b/5/A], inserted “or unit of local government” after “each State” in introductory provisions.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 5001(b)(5)(A), inserted “or unit of local government” after “each State” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 107–273, § 5001(b)(5)(B)][/us/pl/107/273/s5001/b/5/B], inserted “, which shall include a comparison of pre-grant and post-grant forensic science capabilities” before semicolon at end.
+    Subsec. (a)(1). [Pub. L. 107–273][/us/pl/107/273], § 5001(b)(5)(B), inserted “, which shall include a comparison of pre-grant and post-grant forensic science capabilities” before semicolon at end.
 
-    Subsec. (a)(3), (4). [Pub. L. 107–273, § 5001(b)(5)(C)][/us/pl/107/273/s5001/b/5/C]–(E), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 107–273][/us/pl/107/273], § 5001(b)(5)(C)–(E), added par. (3) and redesignated former par. (3) as (4).
 
 ----------
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2806
-[/us/pl/106/561/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs2%2Fc%2F1
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2790
-[/us/pl/107/273/s5001/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F5
+[/us/pl/107/273/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtV
 [/us/stat/116/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1814
-[/us/pl/107/273/s5001/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F5%2FA
-[/us/pl/107/273/s5001/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F5%2FB
-[/us/pl/107/273/s5001/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F5%2FC
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 
 

@@ -17,7 +17,7 @@
 
     Unless specifically provided for otherwise, the definitions contained in [section 300gg–91 of this title][/us/usc/t42/s300gg–91] shall apply with respect to this title. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 111–148, title I, § 1551][/us/pl/111/148/s1551], Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1551, Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s300gg–91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391
-[/us/pl/111/148/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1551
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F258
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130

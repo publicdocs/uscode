@@ -55,7 +55,7 @@
 
         (5) A plan to improve federally supported or conducted organ donation and recovery activities, including, when appropriate, the establishment of baselines and benchmarks to measure overall outcomes of these programs. Such plan shall provide for the ongoing coordination of federally supported or conducted organ donation and research activities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377D, as added [Pub. L. 108–216, § 6][/us/pl/108/216/s6], Apr. 5, 2004, [118 Stat. 588][/us/stat/118/588].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377D, as added [Pub. L. 108–216][/us/pl/108/216], § 6, Apr. 5, 2004, [118 Stat. 588][/us/stat/118/588].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/216/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216%2Fs6
+[/us/pl/108/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216
 [/us/stat/118/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F588
 
 

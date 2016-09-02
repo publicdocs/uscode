@@ -17,7 +17,7 @@
 
     For the purpose of carrying out this part, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2003 through 2007, to remain available until expended, including administrative costs and costs of provision and payment of benefits. The Secretary’s payment of any benefit under section 239c, 239d, or 239e of this title shall be subject to the availability of appropriations under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 268, as added [Pub. L. 108–20, § 2][/us/pl/108/20/s2], Apr. 30, 2003, [117 Stat. 645][/us/stat/117/645].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 268, as added [Pub. L. 108–20][/us/pl/108/20], § 2, Apr. 30, 2003, [117 Stat. 645][/us/stat/117/645].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/20/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs2
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/stat/117/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F645
 
 

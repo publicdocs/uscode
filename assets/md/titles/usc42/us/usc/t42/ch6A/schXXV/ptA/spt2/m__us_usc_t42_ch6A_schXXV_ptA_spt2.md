@@ -17,13 +17,13 @@
 
  __Codification__ 
 
-    This subpart 2 designation and heading was transferred along with sections 300gg–21 to 300gg–23 of this title to appear before [section 300gg–25 of this title][/us/usc/t42/s300gg–25] to reflect the renumbering of the sections in the original act by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(4), 1563(c)(12)(D), (13)(C), (14)(B), formerly § 1562(c)(12)(D), (13)(C), (14)(B), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 269, 911.
+    This subpart 2 designation and heading was transferred along with sections 300gg–21 to 300gg–23 of this title to appear before [section 300gg–25 of this title][/us/usc/t42/s300gg–25] to reflect the renumbering of the sections in the original act by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(4), 1563(c)(12)(D), (13)(C), (14)(B), formerly § 1562(c)(12)(D), (13)(C), (14)(B), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 269, 911.
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title I, § 1563(c)(11)][/us/pl/111/148/s1563/c/11], formerly § 1562(c)(11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 268][/us/stat/124/268], 911, redesignated subpart 4 as subpart 2.
+    2010—[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563(c)(11), formerly § 1562(c)(11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 268][/us/stat/124/268], 911, redesignated subpart 4 as subpart 2.
 
-    1996—[Pub. L. 104–204, title VI, § 604(a)(2)][/us/pl/104/204/s604/a/2], Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939], redesignated subpart 3 as 4.
+    1996—[Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 604(a)(2), Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939], redesignated subpart 3 as 4.
 
 ----------
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/usc/t42/s300gg–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9325
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/111/148/s1563/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F11
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F268
-[/us/pl/104/204/s604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs604%2Fa%2F2
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2939
 
 

@@ -149,7 +149,7 @@
 
         The Secretary may not make an award under this section prior to January 1, 2010.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3014, as added [Pub. L. 111–5, div. A, title XIII, § 13301][/us/pl/111/5/s13301], Feb. 17, 2009, [123 Stat. 253][/us/stat/123/253].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3014, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13301, Feb. 17, 2009, [123 Stat. 253][/us/stat/123/253].)
 
  __References in Text__ 
 
@@ -169,7 +169,7 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s300jj–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9314
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13301
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F253
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203

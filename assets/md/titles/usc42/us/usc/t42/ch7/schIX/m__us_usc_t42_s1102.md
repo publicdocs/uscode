@@ -31,11 +31,11 @@
 
         Whenever the Secretary of Labor has reason to believe that in the next fiscal year the employment security administration account will reach the limit provided for such account in [section 1101(f)(3)(A) of this title][/us/usc/t42/s1101/f/3/A], and the Federal unemployment account will reach the limit provided for such account in subsection (a) of this section, and the extended unemployment compensation account will reach the limit provided for such account in [section 1105(b)(2) of this title][/us/usc/t42/s1105/b/2], he shall, after consultation with the Secretary of the Treasury, so report to the Congress with a recommendation for appropriate action by the Congress.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 902, as added [Aug. 5, 1954, ch. 657, § 2][/us/act/1954-08-05/ch657/s2], [68 Stat. 669][/us/stat/68/669]; amended [Pub. L. 86–778, title V, § 521][/us/pl/86/778/s521], Sept. 13, 1960, [74 Stat. 974][/us/stat/74/974]; [Pub. L. 91–373, title III, § 304(a)][/us/pl/91/373/s304/a], (b), Aug. 10, 1970, [84 Stat. 715][/us/stat/84/715], 716; [Pub. L. 100–203, title IX, § 9154(b)(1)][/us/pl/100/203/s9154/b/1], Dec. 22, 1987, [101 Stat. 1330–326][/us/stat/101/1330-326]; [Pub. L. 102–318, title V, § 531(b)][/us/pl/102/318/s531/b], July 3, 1992, [106 Stat. 316][/us/stat/106/316]; [Pub. L. 105–33, title V, § 5402(a)][/us/pl/105/33/s5402/a], Aug. 5, 1997, [111 Stat. 603][/us/stat/111/603].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 902, as added [Aug. 5, 1954, ch. 657][/us/act/1954-08-05/ch657], § 2, [68 Stat. 669][/us/stat/68/669]; amended [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 521, Sept. 13, 1960, [74 Stat. 974][/us/stat/74/974]; [Pub. L. 91–373, title III][/us/pl/91/373/tIII], § 304(a), (b), Aug. 10, 1970, [84 Stat. 715][/us/stat/84/715], 716; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9154(b)(1), Dec. 22, 1987, [101 Stat. 1330–326][/us/stat/101/1330-326]; [Pub. L. 102–318, title V][/us/pl/102/318/tV], § 531(b), July 3, 1992, [106 Stat. 316][/us/stat/106/316]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5402(a), Aug. 5, 1997, [111 Stat. 603][/us/stat/111/603].)
 
  __Prior Provisions__ 
 
-    A prior section 1102, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 902, [49 Stat. 639][/us/stat/49/639], related to credit against tax. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
+    A prior section 1102, [act Aug. 14, 1935, ch. 531, title IX][/us/act/1935-08-14/ch531/tIX], § 902, [49 Stat. 639][/us/stat/49/639], related to credit against tax. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
 
  __Amendments__ 
 
@@ -45,15 +45,15 @@
 
     1987—Subsec. (a)(2). [Pub. L. 100–203][/us/pl/100/203] substituted “five-eighths” for “one-eighth”.
 
-    1970—Subsec. (a). [Pub. L. 91–373, § 304(a)][/us/pl/91/373/s304/a], inserted, in provisions preceding par. (1), reference to the retention of the entire amount of the excess in the employment security administration account or the transfer to the extended unemployment compensation account as provided in [section 1101(f)(3) of this title][/us/usc/t42/s1101/f/3] and, in par. (2), substituted “one-eighth of 1 percent” for “four-tenths of 1 per centum”.
+    1970—Subsec. (a). [Pub. L. 91–373][/us/pl/91/373], § 304(a), inserted, in provisions preceding par. (1), reference to the retention of the entire amount of the excess in the employment security administration account or the transfer to the extended unemployment compensation account as provided in [section 1101(f)(3) of this title][/us/usc/t42/s1101/f/3] and, in par. (2), substituted “one-eighth of 1 percent” for “four-tenths of 1 per centum”.
 
-    Subsec. (c). [Pub. L. 91–373, § 304(b)][/us/pl/91/373/s304/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 91–373][/us/pl/91/373], § 304(b), added subsec. (c).
 
     1960—[Pub. L. 86–778][/us/pl/86/778] substituted provisions for transfers between Federal unemployment account and employment security administration account for former provisions crediting the Federal unemployment account with funds and defining “adjusted balance”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5402(b)][/us/pl/105/33/s5402/b], Aug. 5, 1997, [111 Stat. 603][/us/stat/111/603], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5402(b), Aug. 5, 1997, [111 Stat. 603][/us/stat/111/603], provided that: 
 
 > “This section \[amending this section\] and the amendment made by this section—
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–318, title V, § 531(e)][/us/pl/102/318/s531/e], July 3, 1992, [106 Stat. 317][/us/stat/106/317], provided that:
+[Pub. L. 102–318, title V][/us/pl/102/318/tV], § 531(e), July 3, 1992, [106 Stat. 317][/us/stat/106/317], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -85,31 +85,31 @@
 [/us/usc/t42/s1101/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101%2Ff%2F3%2FA
 [/us/usc/t42/s1105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1105%2Fb%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/act/1954-08-05/ch657/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657%2Fs2
+[/us/act/1954-08-05/ch657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657
 [/us/stat/68/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F669
-[/us/pl/86/778/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs521
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F974
-[/us/pl/91/373/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs304%2Fa
+[/us/pl/91/373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtIII
 [/us/stat/84/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F715
-[/us/pl/100/203/s9154/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9154%2Fb%2F1
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-326
-[/us/pl/102/318/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs531%2Fb
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F316
-[/us/pl/105/33/s5402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5402%2Fa
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F603
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIX
 [/us/stat/49/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F639
 [/us/usc/t42/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/91/373/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs304%2Fa
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t42/s1101/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101%2Ff%2F3
-[/us/pl/91/373/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs304%2Fb
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
-[/us/pl/105/33/s5402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5402%2Fb
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F603
-[/us/pl/102/318/s531/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs531%2Fe
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F317
 [/us/usc/t42/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1110
 [/us/usc/t42/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1105

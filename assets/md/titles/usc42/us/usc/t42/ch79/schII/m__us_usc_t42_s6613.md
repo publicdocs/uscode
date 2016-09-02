@@ -29,7 +29,7 @@
 
         (4) assist the President in providing general leadership and coordination of the research and development programs of the Federal Government.
 
-([Pub. L. 94–282, title II, § 204][/us/pl/94/282/s204], May 11, 1976, [90 Stat. 463][/us/stat/90/463]; [Pub. L. 107–296, title XVII, § 1712(1)][/us/pl/107/296/s1712/1], Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320].)
+([Pub. L. 94–282, title II][/us/pl/94/282/tII], § 204, May 11, 1976, [90 Stat. 463][/us/stat/90/463]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1712(1), Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/94/282/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs204
+[/us/pl/94/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtII
 [/us/stat/90/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F463
-[/us/pl/107/296/s1712/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1712%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2320
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

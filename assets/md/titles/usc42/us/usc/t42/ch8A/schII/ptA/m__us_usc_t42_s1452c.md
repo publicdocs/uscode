@@ -39,11 +39,11 @@
 
         (2) The term “single family mortgage” means a mortgage that covers property that includes a 1- to 4-family residence.
 
-([Pub. L. 101–235, title VII, § 701][/us/pl/101/235/s701], Dec. 15, 1989, [103 Stat. 2055][/us/stat/103/2055].)
+([Pub. L. 101–235, title VII][/us/pl/101/235/tVII], § 701, Dec. 15, 1989, [103 Stat. 2055][/us/stat/103/2055].)
 
  __References in Text__ 
 
-    [Section 1452b of this title][/us/usc/t42/s1452b], referred to in subsecs. (a) and (b), was repealed by [Pub. L. 101–625, title II, § 289(b)(1)][/us/pl/101/625/s289/b/1], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    [Section 1452b of this title][/us/usc/t42/s1452b], referred to in subsecs. (a) and (b), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b)(1), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
  __Codification__ 
 
@@ -56,10 +56,10 @@
 ----------
 ----------
 
-[/us/pl/101/235/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs701
+[/us/pl/101/235/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtVII
 [/us/stat/103/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2055
 [/us/usc/t42/s1452b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1452b
-[/us/pl/101/625/s289/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb%2F1
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 
 

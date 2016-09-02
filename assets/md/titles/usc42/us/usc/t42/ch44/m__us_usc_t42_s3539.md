@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development is authorized to establish a fund and to transfer to such fund from appropriations or funds available to the Department of Housing and Urban Development, such amounts as may be necessary to provide disaster assistance for which the Secretary has been requested by the President to make resources available pursuant to the authority of the Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\].
 
-([Pub. L. 92–383, title IV, § 406][/us/pl/92/383/s406], Aug. 14, 1972, [86 Stat. 553][/us/stat/86/553]; 1973 Reorg. Plan No. 1, §§ 1, 3(a)(1), eff. July 1, 1973, 38 F.R. 9579, [87 Stat. 1089][/us/stat/87/1089]; Ex. Ord. No. 11749, § 2(1), Dec. 10, 1973, 38 F.R. 34177; Ex. Ord. No. 12148, § 4–201, July 20, 1979, 44 F.R. 43239; [Pub. L. 100–707, title I, § 109(s)][/us/pl/100/707/s109/s], Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710].)
+([Pub. L. 92–383, title IV][/us/pl/92/383/tIV], § 406, Aug. 14, 1972, [86 Stat. 553][/us/stat/86/553]; 1973 Reorg. Plan No. 1, §§ 1, 3(a)(1), eff. July 1, 1973, 38 F.R. 9579, [87 Stat. 1089][/us/stat/87/1089]; Ex. Ord. No. 11749, § 2(1), Dec. 10, 1973, 38 F.R. 34177; Ex. Ord. No. 12148, § 4–201, July 20, 1979, 44 F.R. 43239; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(s), Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710].)
 
  __References in Text__ 
 
@@ -57,10 +57,10 @@
 ----------
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/92/383/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F383%2Fs406
+[/us/pl/92/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F383%2FtIV
 [/us/stat/86/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F553
 [/us/stat/87/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1089
-[/us/pl/100/707/s109/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fs
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4710
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

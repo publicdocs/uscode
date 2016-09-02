@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed to restrict or bias the grant selection process against funding other areas of research deemed by the Foundation to be consistent with its mandate nor to change the core mission of the Foundation.
 
-([Pub. L. 110–69, title VII, § 7018][/us/pl/110/69/s7018], Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7018, Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7018
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F684
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

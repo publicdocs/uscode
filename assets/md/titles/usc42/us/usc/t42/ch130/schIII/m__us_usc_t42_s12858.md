@@ -27,7 +27,7 @@
 
         Upon a determination by the Secretary of Housing and Urban Development that the National Homeownership Trust Fund is no longer necessary, the Secretary shall certify any amounts remaining in the Fund to the Secretary of the Treasury and the Secretary of the Treasury shall deposit into the general fund of the Treasury as miscellaneous receipts any amounts remaining in the Fund.
 
-([Pub. L. 101–625, title III, § 309][/us/pl/101/625/s309], Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 309, Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s12859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12859
-[/us/pl/101/625/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs309
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4133
 
 

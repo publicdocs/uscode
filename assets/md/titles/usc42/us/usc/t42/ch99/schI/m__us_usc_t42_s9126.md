@@ -23,7 +23,7 @@
 
         The provisions of this subchapter shall not apply to ownership, construction, or operation of any ocean thermal energy conversion facility or plantship which the Secretary of Energy has designated in writing as a demonstration proj­ect for the development of alternative energy sources for the United States which is conducted by, participated in, or approved by the Department of Energy. The Secretary of Energy, after consultation with the Administrator, shall require such demonstration projects to abide by as many of the substantive requirements of this subchapter as he deems to be practicable without damaging the nature of or unduly delaying such projects.
 
-([Pub. L. 96–320, title I, § 116][/us/pl/96/320/s116], Aug. 3, 1980, [94 Stat. 991][/us/stat/94/991]; [Pub. L. 98–623, title VI, § 602(e)(4)][/us/pl/98/623/s602/e/4], Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 116, Aug. 3, 1980, [94 Stat. 991][/us/stat/94/991]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(e)(4), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/96/320/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs116
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F991
-[/us/pl/98/623/s602/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F4
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3412
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 

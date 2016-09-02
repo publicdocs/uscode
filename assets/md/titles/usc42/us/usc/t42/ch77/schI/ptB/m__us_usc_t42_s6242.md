@@ -17,7 +17,7 @@
 
     No quantitative restriction on the importation of any petroleum product into the United States imposed by law shall apply to volumes of any such petroleum product imported into the United States for storage in the Reserve.
 
-([Pub. L. 94–163, title I, § 162][/us/pl/94/163/s162], Dec. 22, 1975, [89 Stat. 889][/us/stat/89/889].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 162, Dec. 22, 1975, [89 Stat. 889][/us/stat/89/889].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs162
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F889
 
 

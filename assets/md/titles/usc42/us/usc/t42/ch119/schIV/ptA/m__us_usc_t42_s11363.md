@@ -17,7 +17,7 @@
 
     In the course of awarding grants or implementing programs under this subchapter, the Secretary shall instruct any victim service provider that is a recipient or subgrantee not to disclose for purposes of the Homeless Management Information System any personally identifying information about any client. The Secretary may, after public notice and comment, require or ask such recipients and subgrantees to disclose for purposes of the Homeless Management Information System non-personally identifying information that has been de-identified, encrypted, or otherwise encoded. Nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this subsection for victims of domestic violence, dating violence, sexual assault, or stalking.
 
-([Pub. L. 100–77, title IV, § 407][/us/pl/100/77/s407], as added [Pub. L. 111–22, div. B, title I, § 1104][/us/pl/111/22/s1104], May 20, 2009, [123 Stat. 1677][/us/stat/123/1677].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 407, as added [Pub. L. 111–22, div. B, title I][/us/pl/111/22/dB/tI], § 1104, May 20, 2009, [123 Stat. 1677][/us/stat/123/1677].)
 
  __Codification__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/100/77/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs407
-[/us/pl/111/22/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1104
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtI
 [/us/stat/123/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1677
 [/us/pl/111/22/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1104
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77

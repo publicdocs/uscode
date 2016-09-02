@@ -17,7 +17,7 @@
 
     Any organization or agency that receives a grant under this chapter shall submit to the Secretary, for any fiscal year in which the organization or agency receives a grant under this chapter, a report describing the use of the amounts received, which shall include the number of individuals assisted, the types of assistance provided, and any other information that the Secretary determines to be appropriate.
 
-([Pub. L. 101–625, title VIII, § 862][/us/pl/101/625/s862], Nov. 28, 1990, [104 Stat. 4384][/us/stat/104/4384].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 862, Nov. 28, 1990, [104 Stat. 4384][/us/stat/104/4384].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs862
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4384
 
 

@@ -33,13 +33,13 @@
 
         The Surgeon General shall designate the Assistant Surgeon General who shall serve as Surgeon General in case of absence or disability, or vacancy in the offices, of both the Surgeon General and the Deputy Surgeon General.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 205, [58 Stat. 684][/us/stat/58/684]; [Feb. 28, 1948, ch. 83, § 3][/us/act/1948-02-28/ch83/s3], [62 Stat. 39][/us/stat/62/39]; [June 16, 1948, ch. 481, § 6(b)][/us/act/1948-06-16/ch481/s6/b], [62 Stat. 469][/us/stat/62/469]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–76, title III][/us/pl/96/76], §§ 302(b), 303, Sept. 29, 1979, [93 Stat. 584][/us/stat/93/584].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 205, [58 Stat. 684][/us/stat/58/684]; [Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 3, [62 Stat. 39][/us/stat/62/39]; [June 16, 1948, ch. 481][/us/act/1948-06-16/ch481], § 6(b), [62 Stat. 469][/us/stat/62/469]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], §§ 302(b), 303, Sept. 29, 1979, [93 Stat. 584][/us/stat/93/584].)
 
  __Amendments__ 
 
-    1979—Subsec. (b). [Pub. L. 96–76, § 302(b)][/us/pl/96/76/s302/b], inserted provisions relating to assignment of Chief Nurse Officer and Chief Pharmacist Officer, and substituted “eight” for “six”.
+    1979—Subsec. (b). [Pub. L. 96–76][/us/pl/96/76], § 302(b), inserted provisions relating to assignment of Chief Nurse Officer and Chief Pharmacist Officer, and substituted “eight” for “six”.
 
-    Subsec. (c). [Pub. L. 96–76, § 303][/us/pl/96/76/s303], designated existing provisions as par. (1), struck out provisions relating to maximum number of special temporary positions, and added par. (2).
+    Subsec. (c). [Pub. L. 96–76][/us/pl/96/76], § 303, designated existing provisions as par. (1), struck out provisions relating to maximum number of special temporary positions, and added par. (2).
 
     1948—Subsec. (b). Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–76, title III, § 314][/us/pl/96/76/s314], Sept. 29, 1979, [93 Stat. 587][/us/stat/93/587], provided that: 
+[Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 314, Sept. 29, 1979, [93 Stat. 587][/us/stat/93/587], provided that: 
 
 > “The amendments made by sections 303, 304, 305, 306, 307, and 313 \[amending this section, sections 207, 209, 210b, and 211 of this title, and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on October 1, 1979.”
 
@@ -68,16 +68,16 @@
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F684
-[/us/act/1948-02-28/ch83/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs3
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F39
-[/us/act/1948-06-16/ch481/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch481%2Fs6%2Fb
+[/us/act/1948-06-16/ch481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch481
 [/us/stat/62/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F469
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F584
-[/us/pl/96/76/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs302%2Fb
-[/us/pl/96/76/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs303
-[/us/pl/96/76/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs314
+[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
+[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F587
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610

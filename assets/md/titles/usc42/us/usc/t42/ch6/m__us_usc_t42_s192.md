@@ -17,7 +17,7 @@
 
     The Children’s Bureau shall be under the direction of a chief, to be appointed by the President, by and with the advice and consent of the Senate. The said bureau shall investigate and report to the Secretary of Health and Human Services, upon all matters pertaining to the welfare of children and child life among all classes of our people, and shall especially investigate the questions of infant mortality, the birth rate, orphanage, juvenile courts, desertion, dangerous occupations, accidents and diseases of children, employment, legislation affecting children in the several States and Territories. But no official, or agent, or representative of said bureau shall, over the objection of the head of the family, enter any house used exclusively as a family residence. The chief of said bureau may from time to time publish the results of these investigations in such manner and to such extent as may be prescribed by the Secretary.
 
-([Apr. 9, 1912, ch. 73, § 2][/us/act/1912-04-09/ch73/s2], [37 Stat. 79][/us/stat/37/79]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], §§ 3, 6, [37 Stat. 737][/us/stat/37/737], 738; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Apr. 9, 1912, ch. 73][/us/act/1912-04-09/ch73], § 2, [37 Stat. 79][/us/stat/37/79]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], §§ 3, 6, [37 Stat. 737][/us/stat/37/737], 738; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Codification__ 
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/act/1912-04-09/ch73/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-09%2Fch73%2Fs2
+[/us/act/1912-04-09/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-09%2Fch73
 [/us/stat/37/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F79
 [/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/stat/43/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1050
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972

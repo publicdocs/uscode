@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, unless enacted in express and specific limitation of the provisions of this section, funds appropriated for any fiscal year to carry out any program under this chapter or any predecessor authority shall remain available, in accordance with the provisions of this chapter, for obligation and expenditure until expended.
 
-([Pub. L. 93–113, title V, § 505][/us/pl/93/113/s505], Oct. 1, 1973, [87 Stat. 416][/us/stat/87/416].)
+([Pub. L. 93–113, title V][/us/pl/93/113/tV], § 505, Oct. 1, 1973, [87 Stat. 416][/us/stat/87/416].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/113/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs505
+[/us/pl/93/113/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtV
 [/us/stat/87/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F416
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

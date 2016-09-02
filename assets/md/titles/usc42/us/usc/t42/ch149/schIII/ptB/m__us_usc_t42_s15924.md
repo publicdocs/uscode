@@ -123,7 +123,7 @@
 
         (2) any delegation of authority made by the head of a Federal agency whose employees are participating in the Project.
 
-([Pub. L. 109–58, title III, § 365][/us/pl/109/58/s365], Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723]; [Pub. L. 113–69, § 1][/us/pl/113/69/s1], Dec. 26, 2013, [127 Stat. 1207][/us/stat/127/1207]; [Pub. L. 113–291, div. B, title XXX, § 3021(a)][/us/pl/113/291/s3021/a], Dec. 19, 2014, [128 Stat. 3759][/us/stat/128/3759].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 365, Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723]; [Pub. L. 113–69][/us/pl/113/69], § 1, Dec. 26, 2013, [127 Stat. 1207][/us/stat/127/1207]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3021(a), Dec. 19, 2014, [128 Stat. 3759][/us/stat/128/3759].)
 
  __References in Text__ 
 
@@ -143,29 +143,29 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, § 3021(a)(1)][/us/pl/113/291/s3021/a/1], struck out “Pilot” before “Project” in section catchline.
+    2014—[Pub. L. 113–291][/us/pl/113/291], § 3021(a)(1), struck out “Pilot” before “Project” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project” in two places.
+    Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(2), substituted “Project” for “Pilot Project” in two places.
 
-    Subsec. (b)(2). [Pub. L. 113–291, § 3021(a)(3)][/us/pl/113/291/s3021/a/3], substituted “the States in which Project offices are located” for “Wyoming, Montana, Colorado, Utah, and New Mexico”.
+    Subsec. (b)(2). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(3), substituted “the States in which Project offices are located” for “Wyoming, Montana, Colorado, Utah, and New Mexico”.
 
-    Subsec. (d). [Pub. L. 113–291, § 3021(a)(4)(A)][/us/pl/113/291/s3021/a/4/A], struck out “Pilot” before “Project” in heading.
+    Subsec. (d). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(4)(A), struck out “Pilot” before “Project” in heading.
 
-    [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project” in introductory provisions.
+    [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(2), substituted “Project” for “Pilot Project” in introductory provisions.
 
-    Subsec. (d)(8). [Pub. L. 113–291, § 3021(a)(4)(B)][/us/pl/113/291/s3021/a/4/B], added par. (8).
+    Subsec. (d)(8). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(4)(B), added par. (8).
 
-    Subsec. (e). [Pub. L. 113–291, § 3021(a)(5)][/us/pl/113/291/s3021/a/5], added subsec. (e) and struck out former subsec. (e) which required the Secretary to submit to Congress a report about the Pilot Project not later than 3 years after Aug. 8, 2005.
+    Subsec. (e). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(5), added subsec. (e) and struck out former subsec. (e) which required the Secretary to submit to Congress a report about the Pilot Project not later than 3 years after Aug. 8, 2005.
 
-    Subsecs. (e)(1), (2), (f)(1), (h). [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project”.
+    Subsecs. (e)(1), (2), (f)(1), (h). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(2), substituted “Project” for “Pilot Project”.
 
-    Subsec. (h)(6). [Pub. L. 113–291, § 3021(a)(6)][/us/pl/113/291/s3021/a/6], added par. (6) and struck out former par. (6) which read as follows: “the States of Wyoming, Montana, Colorado, Utah, and New Mexico.”
+    Subsec. (h)(6). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(6), added par. (6) and struck out former par. (6) which read as follows: “the States of Wyoming, Montana, Colorado, Utah, and New Mexico.”
 
-    Subsec. (i). [Pub. L. 113–291, § 3021(a)(7)][/us/pl/113/291/s3021/a/7], (8), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “During the period in which the Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations.”
+    Subsec. (i). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(7), (8), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “During the period in which the Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations.”
 
-    [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project”.
+    [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(2), substituted “Project” for “Pilot Project”.
 
-    Subsec. (j)(2). [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project”.
+    Subsec. (j)(2). [Pub. L. 113–291][/us/pl/113/291], § 3021(a)(2), substituted “Project” for “Pilot Project”.
 
     2013—Subsec. (d). [Pub. L. 113–69][/us/pl/113/69] added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
 
@@ -196,11 +196,11 @@
 [/us/usc/t16/s472a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F723
-[/us/pl/113/69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F69%2Fs1
+[/us/pl/113/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F69
 [/us/stat/127/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1207
-[/us/pl/113/291/s3021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3759
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
@@ -218,18 +218,18 @@
 [/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
 [/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
-[/us/pl/113/291/s3021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F1
-[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
-[/us/pl/113/291/s3021/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F3
-[/us/pl/113/291/s3021/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F4%2FA
-[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
-[/us/pl/113/291/s3021/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F4%2FB
-[/us/pl/113/291/s3021/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F5
-[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
-[/us/pl/113/291/s3021/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F6
-[/us/pl/113/291/s3021/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F7
-[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
-[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F69
 
 

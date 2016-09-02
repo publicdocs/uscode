@@ -47,7 +47,7 @@
 
         (2) Grants to such medical libraries or related instrumentalities under this section shall be in such amounts as the Secretary may by regulation prescribe with a view to assuring adequate continuing financial support for such libraries or instrumentalities from other sources during and after the period for which grants are provided, except that in no case shall any grant under this section to a medical library or related instrumentality for any fiscal year exceed $1,000,000.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 474, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 861][/us/stat/99/861]; amended [Pub. L. 100–607, title I, § 146(b)][/us/pl/100/607/s146/b], Nov. 4, 1988, [102 Stat. 3058][/us/stat/102/3058]; [Pub. L. 103–43, title XIV, § 1401(b)][/us/pl/103/43/s1401/b], June 10, 1993, [107 Stat. 170][/us/stat/107/170].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 474, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 861][/us/stat/99/861]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 146(b), Nov. 4, 1988, [102 Stat. 3058][/us/stat/102/3058]; [Pub. L. 103–43, title XIV][/us/pl/103/43/tXIV], § 1401(b), June 10, 1993, [107 Stat. 170][/us/stat/107/170].)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F861
-[/us/pl/100/607/s146/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs146%2Fb
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3058
-[/us/pl/103/43/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1401%2Fb
+[/us/pl/103/43/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIV
 [/us/stat/107/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F170
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607

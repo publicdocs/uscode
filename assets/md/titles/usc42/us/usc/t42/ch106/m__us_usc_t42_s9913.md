@@ -47,7 +47,7 @@
 
             Eligible entities, organizations, or associations described in this paragraph shall be eligible entities, or statewide or local organizations or associations, with demonstrated expertise in providing training to individuals and organizations on methods of effectively addressing the needs of low-income families and communities.
 
-([Pub. L. 97–35, title VI, § 678A][/us/pl/97/35/s678A], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2742][/us/stat/112/2742].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 678A, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2742][/us/stat/112/2742].)
 
 ----------
 
@@ -58,8 +58,8 @@
 
 [/us/usc/t42/s9903/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9903%2Fb%2F2
 [/us/usc/t42/s9903/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9903%2Fb%2F2%2FA
-[/us/pl/97/35/s678A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs678A
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2742
 
 

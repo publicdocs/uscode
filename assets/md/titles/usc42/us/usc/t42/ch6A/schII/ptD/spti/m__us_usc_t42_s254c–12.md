@@ -25,7 +25,7 @@
 
         The term “Secretary” means the Secretary of Health and Human Services.
 
-([Pub. L. 106–505, title V, § 524][/us/pl/106/505/s524], Nov. 13, 2000, [114 Stat. 2344][/us/stat/114/2344].)
+([Pub. L. 106–505, title V][/us/pl/106/505/tV], § 524, Nov. 13, 2000, [114 Stat. 2344][/us/stat/114/2344].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/106/505/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs524
+[/us/pl/106/505/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtV
 [/us/stat/114/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2344
 
 

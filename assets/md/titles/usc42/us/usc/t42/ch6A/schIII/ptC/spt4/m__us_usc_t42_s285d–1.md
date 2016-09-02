@@ -37,13 +37,13 @@
 
         The Director of the Institute shall carry out the national arthritis and musculoskeletal and skin diseases program in accordance with the plan prepared under subsection (a) of this section and any revisions of such plan made under such subsection.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 436, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 848][/us/stat/99/848]; amended [Pub. L. 100–607, title I, § 136][/us/pl/100/607/s136], Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; [Pub. L. 103–43, title VII, § 701(b)][/us/pl/103/43/s701/b], June 10, 1993, [107 Stat. 162][/us/stat/107/162].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 436, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 848][/us/stat/99/848]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 136, Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; [Pub. L. 103–43, title VII][/us/pl/103/43/tVII], § 701(b), June 10, 1993, [107 Stat. 162][/us/stat/107/162].)
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–43, § 701(b)(1)][/us/pl/103/43/s701/b/1], inserted after second sentence “The plan shall place particular emphasis upon expanding research into better understanding the causes and the development of effective treatments for arthritis affecting children.”
+    1993—Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 701(b)(1), inserted after second sentence “The plan shall place particular emphasis upon expanding research into better understanding the causes and the development of effective treatments for arthritis affecting children.”
 
-    Subsec. (b)(5). [Pub. L. 103–43, § 701(b)(2)][/us/pl/103/43/s701/b/2], added par. (5).
+    Subsec. (b)(5). [Pub. L. 103–43][/us/pl/103/43], § 701(b)(2), added par. (5).
 
     1988—[Pub. L. 100–607][/us/pl/100/607] inserted “and skin” after “musculoskeletal” in section catchline and wherever appearing in text.
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F848
-[/us/pl/100/607/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs136
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3056
-[/us/pl/103/43/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fb
+[/us/pl/103/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVII
 [/us/stat/107/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F162
-[/us/pl/103/43/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fb%2F1
-[/us/pl/103/43/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fb%2F2
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 
 

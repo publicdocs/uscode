@@ -27,7 +27,7 @@
 
         The Secretary shall not provide financial assistance for any program, project, or activity under this subchapter unless the grant or contract relating to the financial assistance specifically provides that no person with responsibilities in the operation of the program, project, or activity will discriminate against any individual because of a handicapping condition in violation of [section 794 of title 29][/us/usc/t29/s794].
 
-([Pub. L. 97–35, title VI, § 654][/us/pl/97/35/s654], Aug. 13, 1981, [95 Stat. 507][/us/stat/95/507].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 654, Aug. 13, 1981, [95 Stat. 507][/us/stat/95/507].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s2000d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%931
 [/us/usc/t42/s2000d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%932
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/97/35/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs654
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F507
 
 

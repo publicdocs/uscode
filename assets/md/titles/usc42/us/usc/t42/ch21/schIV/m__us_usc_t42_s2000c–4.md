@@ -25,7 +25,7 @@
 
     (b) In determining whether to make a grant, and in fixing the amount thereof and the terms and conditions on which it will be made, the Secretary shall take into consideration the amount available for grants under this section and the other applications which are pending before him; the financial condition of the applicant and the other resources available to it; the nature, extent, and gravity of its problems incident to desegregation; and such other factors as he finds relevant.
 
-([Pub. L. 88–352, title IV, § 405][/us/pl/88/352/s405], July 2, 1964, [78 Stat. 247][/us/stat/78/247]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 88–352, title IV][/us/pl/88/352/tIV], § 405, July 2, 1964, [78 Stat. 247][/us/stat/78/247]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Transfer of Functions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/88/352/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs405
+[/us/pl/88/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIV
 [/us/stat/78/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F247
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 

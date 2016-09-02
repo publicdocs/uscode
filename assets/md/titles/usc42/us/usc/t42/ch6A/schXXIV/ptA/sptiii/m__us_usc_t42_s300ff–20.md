@@ -117,17 +117,17 @@
 
         Paragraphs (1) and (2) of subsection (c) apply with respect to each series of fiscal years during which a metropolitan area is an eligible area under subpart I or a transitional area under [section 300ff–19 of this title][/us/usc/t42/s300ff–19] for a fiscal year and then for a subsequent fiscal year ceases to be such an area by reason of section 300ff–11(b) or 300ff–19(c)(2) of this title, respectively, rather than applying to a single such series. Paragraph (3) of subsection (c) applies with respect to each series of fiscal years during which a metropolitan area is a transitional area under [section 300ff–19 of this title][/us/usc/t42/s300ff–19] for a fiscal year and then for a subsequent fiscal year becomes an eligible area under subpart I, rather than applying to a single such series.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2610, as added and amended [Pub. L. 109–415, title I, § 108][/us/pl/109/415/s108], title VII, § 703, Dec. 19, 2006, [120 Stat. 2783][/us/stat/120/2783], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), (b), 4(b), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2889.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2610, as added and amended [Pub. L. 109–415, title I][/us/pl/109/415/tI], § 108, title VII, § 703, Dec. 19, 2006, [120 Stat. 2783][/us/stat/120/2783], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), (b), 4(b), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2889.)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    Subsec. (a). [Pub. L. 111–87, § 2(b)][/us/pl/111/87/s2/b], substituted “$649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013” for “and $649,500,000 for fiscal year 2009”.
+    Subsec. (a). [Pub. L. 111–87][/us/pl/111/87], § 2(b), substituted “$649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013” for “and $649,500,000 for fiscal year 2009”.
 
-    Subsec. (c)(2)(B). [Pub. L. 111–87, § 4(b)][/us/pl/111/87/s4/b], designated existing provisions as cl. (i), inserted “subject to clause (ii),” before “an amount equal to the amount”, and added cl. (ii).
+    Subsec. (c)(2)(B). [Pub. L. 111–87][/us/pl/111/87], § 4(b), designated existing provisions as cl. (i), inserted “subject to clause (ii),” before “an amount equal to the amount”, and added cl. (ii).
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -166,16 +166,16 @@
 [/us/usc/t42/s300ff–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9319
 [/us/usc/t42/s300ff–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9319
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/415/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs108
+[/us/pl/109/415/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtI
 [/us/stat/120/2783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2783
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fb
-[/us/pl/111/87/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs4%2Fb
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

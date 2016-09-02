@@ -67,7 +67,7 @@
 
             Not later than 2 years after December 18, 2014, the Attorney General shall prepare and submit to Congress a report that contains the findings of the study required by paragraph (1).
 
-([Pub. L. 113–242, § 2][/us/pl/113/242/s2], Dec. 18, 2014, [128 Stat. 2860][/us/stat/128/2860].)
+([Pub. L. 113–242][/us/pl/113/242], § 2, Dec. 18, 2014, [128 Stat. 2860][/us/stat/128/2860].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
 [/us/usc/t42/s3791/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3791%2Fa
 [/us/usc/t42/s13727a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13727a%2Fa
-[/us/pl/113/242/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F242%2Fs2
+[/us/pl/113/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F242
 [/us/stat/128/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2860
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

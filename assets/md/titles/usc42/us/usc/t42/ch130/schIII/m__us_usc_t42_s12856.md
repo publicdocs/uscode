@@ -17,7 +17,7 @@
 
     The Board of Directors shall submit to the Congress, not later than the expiration of the 90-day period beginning on the date of the termination of the Trust under [section 12859 of this title][/us/usc/t42/s12859], a report containing a description of the activities of the Trust and an analysis of the effectiveness of the Trust in assisting first-time homebuyers.
 
-([Pub. L. 101–625, title III, § 307][/us/pl/101/625/s307], Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 307, Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s12859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12859
-[/us/pl/101/625/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs307
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4133
 
 

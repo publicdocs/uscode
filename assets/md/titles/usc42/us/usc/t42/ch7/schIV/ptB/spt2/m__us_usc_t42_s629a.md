@@ -117,7 +117,7 @@
 
         For other definitions of other terms used in this subpart, see [section 675 of this title][/us/usc/t42/s675].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 431, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)][/us/pl/103/66/s13711/a/2], Aug. 10, 1993, [107 Stat. 650][/us/stat/107/650]; amended [Pub. L. 105–89, title III, § 305(b)(2)][/us/pl/105/89/s305/b/2], (c)(2), (d)(1), Nov. 19, 1997, [111 Stat. 2131][/us/stat/111/2131], 2132; [Pub. L. 106–169, title IV, § 401(e)][/us/pl/106/169/s401/e], Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 107–133, title I, § 102][/us/pl/107/133/s102], Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415]; [Pub. L. 109–288, § 11(c)][/us/pl/109/288/s11/c], Sept. 28, 2006, [120 Stat. 1255][/us/stat/120/1255]; [Pub. L. 112–34, title I, § 102(c)][/us/pl/112/34/s102/c], (d), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 372.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 431, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(a)(2), Aug. 10, 1993, [107 Stat. 650][/us/stat/107/650]; amended [Pub. L. 105–89, title III][/us/pl/105/89/tIII], § 305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, [111 Stat. 2131][/us/stat/111/2131], 2132; [Pub. L. 106–169, title IV][/us/pl/106/169/tIV], § 401(e), Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 102, Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415]; [Pub. L. 109–288][/us/pl/109/288], § 11(c), Sept. 28, 2006, [120 Stat. 1255][/us/stat/120/1255]; [Pub. L. 112–34, title I][/us/pl/112/34/tI], § 102(c), (d), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 372.)
 
  __Prior Provisions__ 
 
@@ -125,33 +125,33 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(2). [Pub. L. 112–34, § 102(c)(1)][/us/pl/112/34/s102/c/1], amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘family support services’ means community-based services to promote the safety and well-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents’ confidence and competence in their parenting abilities, to afford children a safe, stable, and supportive family environment, to strengthen parental relationships and promote healthy marriages, and otherwise to enhance child development.”
+    2011—Subsec. (a)(2). [Pub. L. 112–34][/us/pl/112/34], § 102(c)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘family support services’ means community-based services to promote the safety and well-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents’ confidence and competence in their parenting abilities, to afford children a safe, stable, and supportive family environment, to strengthen parental relationships and promote healthy marriages, and otherwise to enhance child development.”
 
-    Subsec. (a)(5), (6). [Pub. L. 112–34, § 102(d)][/us/pl/112/34/s102/d], added pars. (5) and (6) and struck out former pars. (5) and (6) which read as follows:
+    Subsec. (a)(5), (6). [Pub. L. 112–34][/us/pl/112/34], § 102(d), added pars. (5) and (6) and struck out former pars. (5) and (6) which read as follows:
 
     “(5) Tribal organization.—The term ‘tribal organization’ means the recognized governing body of any Indian tribe.
 
     “(6) Indian tribe.—The term ‘Indian tribe’ means any Indian tribe (as defined in [section 682(i)(5) of this title][/us/usc/t42/s682/i/5], as in effect before August 22, 1996) and any Alaska Native organization (as defined in [section 682(i)(7)(A) of this title][/us/usc/t42/s682/i/7/A], as so in effect).”
 
-    Subsec. (a)(7)(B)(vi) to (viii). [Pub. L. 112–34, § 102(c)(2)][/us/pl/112/34/s102/c/2], added cls. (vi) and (vii) and redesignated former cl. (vi) as (viii).
+    Subsec. (a)(7)(B)(vi) to (viii). [Pub. L. 112–34][/us/pl/112/34], § 102(c)(2), added cls. (vi) and (vii) and redesignated former cl. (vi) as (viii).
 
     2006—Subsec. (a)(6). [Pub. L. 109–288][/us/pl/109/288] substituted “1996” for “1986”.
 
-    2002—Subsec. (a)(1)(F). [Pub. L. 107–133, § 102(a)][/us/pl/107/133/s102/a], added subpar. (F).
+    2002—Subsec. (a)(1)(F). [Pub. L. 107–133][/us/pl/107/133], § 102(a), added subpar. (F).
 
-    Subsec. (a)(2). [Pub. L. 107–133, § 102(b)][/us/pl/107/133/s102/b], inserted “to strengthen parental relationships and promote healthy marriages,” after “environment,”.
+    Subsec. (a)(2). [Pub. L. 107–133][/us/pl/107/133], § 102(b), inserted “to strengthen parental relationships and promote healthy marriages,” after “environment,”.
 
     1999—Subsec. (a)(6). [Pub. L. 106–169][/us/pl/106/169] inserted “, as in effect before August 22, 1986” after “682(i)(5) of this title” and “, as so in effect” after “682(i)(7)(A) of this title”.
 
-    1997—Subsec. (a)(1)(A). [Pub. L. 105–89, § 305(c)(2)(A)(i)][/us/pl/105/89/s305/c/2/A/i], inserted “safe and” before “appropriate” in cls. (i) and (ii).
+    1997—Subsec. (a)(1)(A). [Pub. L. 105–89][/us/pl/105/89], § 305(c)(2)(A)(i), inserted “safe and” before “appropriate” in cls. (i) and (ii).
 
-    Subsec. (a)(1)(B). [Pub. L. 105–89, § 305(c)(2)(A)(ii)][/us/pl/105/89/s305/c/2/A/ii], inserted “safely” after “remain”.
+    Subsec. (a)(1)(B). [Pub. L. 105–89][/us/pl/105/89], § 305(c)(2)(A)(ii), inserted “safely” after “remain”.
 
-    Subsec. (a)(2). [Pub. L. 105–89, § 305(c)(2)(B)][/us/pl/105/89/s305/c/2/B], inserted “safety and” before “well-being of children” and substituted “safe, stable, and supportive family” for “stable and supportive family”.
+    Subsec. (a)(2). [Pub. L. 105–89][/us/pl/105/89], § 305(c)(2)(B), inserted “safety and” before “well-being of children” and substituted “safe, stable, and supportive family” for “stable and supportive family”.
 
-    Subsec. (a)(7), (8). [Pub. L. 105–89, § 305(b)(2)][/us/pl/105/89/s305/b/2], added pars. (7) and (8).
+    Subsec. (a)(7), (8). [Pub. L. 105–89][/us/pl/105/89], § 305(b)(2), added pars. (7) and (8).
 
-    Subsec. (a)(9). [Pub. L. 105–89, § 305(d)(1)][/us/pl/105/89/s305/d/1], added par. (9).
+    Subsec. (a)(9). [Pub. L. 105–89][/us/pl/105/89], § 305(d)(1), added par. (9).
 
  __Effective Date of 2011 Amendment__ 
 
@@ -173,7 +173,7 @@
 
     Amendment by section 305(b)(2), (c)(2) of [Pub. L. 105–89][/us/pl/105/89] effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see [section 501 of Pub. L. 105–89][/us/pl/105/89/s501], set out as a note under [section 622 of this title][/us/usc/t42/s622].
 
-[Pub. L. 105–89, title III, § 305(d)(2)][/us/pl/105/89/s305/d/2], Nov. 19, 1997, [111 Stat. 2132][/us/stat/111/2132], provided that: 
+[Pub. L. 105–89, title III][/us/pl/105/89/tIII], § 305(d)(2), Nov. 19, 1997, [111 Stat. 2132][/us/stat/111/2132], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] takes effect as if included in the enactment of section 13711 of the Omnibus Budget Reconciliation Act of 1993 ([Public Law 103–33][/us/pl/103/33] \[103–66\]; [107 Stat. 649][/us/stat/107/649]).”
 
@@ -190,34 +190,34 @@
 [/us/usc/t42/s675/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FF
 [/us/usc/t42/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fa%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F650
-[/us/pl/105/89/s305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fb%2F2
+[/us/pl/105/89/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIII
 [/us/stat/111/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2131
-[/us/pl/106/169/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Fe
+[/us/pl/106/169/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtIV
 [/us/stat/113/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1858
-[/us/pl/107/133/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs102
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2415
-[/us/pl/109/288/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs11%2Fc
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1255
-[/us/pl/112/34/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fc
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F371
 [/us/usc/t42/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs631
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/112/34/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fc%2F1
-[/us/pl/112/34/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fd
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/usc/t42/s682/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs682%2Fi%2F5
 [/us/usc/t42/s682/i/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs682%2Fi%2F7%2FA
-[/us/pl/112/34/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fc%2F2
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
-[/us/pl/107/133/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs102%2Fa
-[/us/pl/107/133/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs102%2Fb
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
-[/us/pl/105/89/s305/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fc%2F2%2FA%2Fi
-[/us/pl/105/89/s305/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fc%2F2%2FA%2Fii
-[/us/pl/105/89/s305/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fc%2F2%2FB
-[/us/pl/105/89/s305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fb%2F2
-[/us/pl/105/89/s305/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fd%2F1
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
+[/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
@@ -234,7 +234,7 @@
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/105/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs501
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
-[/us/pl/105/89/s305/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fd%2F2
+[/us/pl/105/89/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIII
 [/us/stat/111/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2132
 [/us/pl/103/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F33
 [/us/stat/107/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F649

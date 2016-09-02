@@ -17,7 +17,7 @@
 
     Recipients of grants made under this part shall submit to the Administrator such reports as may be reasonably requested by the Administrator to describe progress achieved in carrying out the projects for which such grants are made.
 
-([Pub. L. 93–415, title II, § 264][/us/pl/93/415/s264], as added [Pub. L. 107–273, div. C, title II, § 12212][/us/pl/107/273/s12212], Nov. 2, 2002, [116 Stat. 1891][/us/stat/116/1891].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 264, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12212, Nov. 2, 2002, [116 Stat. 1891][/us/stat/116/1891].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/415/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs264
-[/us/pl/107/273/s12212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12212
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1891
 
 

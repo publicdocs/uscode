@@ -23,17 +23,17 @@
 
     (3) supplemental supportive services, available on a secure and continuing basis, are essential to a successful congregate housing program.
 
-([Pub. L. 95–557, title IV, § 402][/us/pl/95/557/s402], Oct. 31, 1978, [92 Stat. 2104][/us/stat/92/2104].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 402, Oct. 31, 1978, [92 Stat. 2104][/us/stat/92/2104].)
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 111–374, § 1(a)][/us/pl/111/374/s1/a], Jan. 4, 2011, [124 Stat. 4089][/us/stat/124/4089], provided that: 
+[Pub. L. 111–374][/us/pl/111/374], § 1(a), Jan. 4, 2011, [124 Stat. 4089][/us/stat/124/4089], provided that: 
 
 > “This Act \[amending [section 8013 of this title][/us/usc/t42/s8013] and enacting provisions set out as a note under [section 8013 of this title][/us/usc/t42/s8013]\] may be cited as the ‘Frank Melville Supportive Housing Investment Act of 2010’.”
 
  __Short Title__ 
 
-[Pub. L. 95–557, title IV, § 401][/us/pl/95/557/s401], Oct. 31, 1978, [92 Stat. 2104][/us/stat/92/2104], provided that: 
+[Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 401, Oct. 31, 1978, [92 Stat. 2104][/us/stat/92/2104], provided that: 
 
 > “This title \[enacting this chapter and amending [section 1437e of this title][/us/usc/t42/s1437e]\] may be cited as the ‘Congregate Housing Services Act of 1978’.”
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/95/557/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs402
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2104
-[/us/pl/111/374/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F374%2Fs1%2Fa
+[/us/pl/111/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F374
 [/us/stat/124/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4089
 [/us/usc/t42/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013
 [/us/usc/t42/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013
-[/us/pl/95/557/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs401
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2104
 [/us/usc/t42/s1437e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437e
 

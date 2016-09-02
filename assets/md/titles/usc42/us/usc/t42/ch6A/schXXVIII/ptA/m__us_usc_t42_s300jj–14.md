@@ -47,7 +47,7 @@
 
             The Secretary shall adopt additional standards, implementation specifications, and certification criteria as necessary and consistent with the schedule published under section 300jj–13(b)(2)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be a reference to section 300jj–13(b)(3). </sup></sup>  of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3004, as added [Pub. L. 111–5, div. A, title XIII, § 13101][/us/pl/111/5/s13101], Feb. 17, 2009, [123 Stat. 240][/us/stat/123/240].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3004, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13101, Feb. 17, 2009, [123 Stat. 240][/us/stat/123/240].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s300jj–12/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9312%2Fb%2F2%2FB
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F240
 
 

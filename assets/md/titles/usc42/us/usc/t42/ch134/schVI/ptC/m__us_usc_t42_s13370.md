@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary for carrying out this part, other than section 13362  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, such sums as may be necessary for fiscal years 1993 through 1998.
 
-([Pub. L. 102–486, title XIII, § 1341][/us/pl/102/486/s1341], Oct. 24, 1992, [106 Stat. 2993][/us/stat/106/2993].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1341, Oct. 24, 1992, [106 Stat. 2993][/us/stat/106/2993].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1341
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2993
 [/us/usc/t42/s13362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13362
 [/us/pl/102/486/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1332

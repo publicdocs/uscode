@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person to violate any provision of section 13251, 13253(b), 13257, or 13263a of this title, or any regulation issued under such sections.
 
-([Pub. L. 102–486, title V, § 511][/us/pl/102/486/s511], Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899]; [Pub. L. 109–58, title VII, § 703(b)][/us/pl/109/58/s703/b], Aug. 8, 2005, [119 Stat. 816][/us/stat/119/816].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 511, Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899]; [Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 703(b), Aug. 8, 2005, [119 Stat. 816][/us/stat/119/816].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/486/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs511
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2899
-[/us/pl/109/58/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs703%2Fb
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F816
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

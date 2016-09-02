@@ -65,7 +65,7 @@
 
             A State may not use more than 5 percent of the amount received by the State under this section for each fiscal year for administrative expenses.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393A, formerly § 393B, as added [Pub. L. 106–386, div. B, title IV, § 1401(a)][/us/pl/106/386/s1401/a], Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512]; amended [Pub. L. 109–162, title III, § 302][/us/pl/109/162/s302], Jan. 5, 2006, [119 Stat. 3004][/us/stat/119/3004]; renumbered § 393C, [Pub. L. 110–202, § 2(1)][/us/pl/110/202/s2/1], Apr. 23, 2008, [122 Stat. 697][/us/stat/122/697]; renumbered § 393A, [Pub. L. 110–206, § 2(1)][/us/pl/110/206/s2/1], Apr. 28, 2008, [122 Stat. 714][/us/stat/122/714]; [Pub. L. 113–4, title III, § 301][/us/pl/113/4/s301], Mar. 7, 2013, [127 Stat. 84][/us/stat/127/84].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393A, formerly § 393B, as added [Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1401(a), Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512]; amended [Pub. L. 109–162, title III][/us/pl/109/162/tIII], § 302, Jan. 5, 2006, [119 Stat. 3004][/us/stat/119/3004]; renumbered § 393C, [Pub. L. 110–202][/us/pl/110/202], § 2(1), Apr. 23, 2008, [122 Stat. 697][/us/stat/122/697]; renumbered § 393A, [Pub. L. 110–206][/us/pl/110/206], § 2(1), Apr. 28, 2008, [122 Stat. 714][/us/stat/122/714]; [Pub. L. 113–4, title III][/us/pl/113/4/tIII], § 301, Mar. 7, 2013, [127 Stat. 84][/us/stat/127/84].)
 
  __Codification__ 
 
@@ -77,13 +77,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–4, § 301(1)(A)][/us/pl/113/4/s301/1/A], inserted “, territorial or tribal” after “crisis centers, State” in introductory provisions.
+    2013—Subsec. (a). [Pub. L. 113–4][/us/pl/113/4], § 301(1)(A), inserted “, territorial or tribal” after “crisis centers, State” in introductory provisions.
 
-    Subsec. (a)(6). [Pub. L. 113–4, § 301(1)(B)][/us/pl/113/4/s301/1/B], inserted “and alcohol” after “about drugs”.
+    Subsec. (a)(6). [Pub. L. 113–4][/us/pl/113/4], § 301(1)(B), inserted “and alcohol” after “about drugs”.
 
-    Subsec. (c)(1). [Pub. L. 113–4, § 301(2)(A)][/us/pl/113/4/s301/2/A], substituted “$50,000,000 for each of fiscal years 2014 through 2018” for “$80,000,000 for each of fiscal years 2007 through 2011”.
+    Subsec. (c)(1). [Pub. L. 113–4][/us/pl/113/4], § 301(2)(A), substituted “$50,000,000 for each of fiscal years 2014 through 2018” for “$80,000,000 for each of fiscal years 2007 through 2011”.
 
-    Subsec. (c)(3). [Pub. L. 113–4, § 301(2)(B)][/us/pl/113/4/s301/2/B], added par. (3).
+    Subsec. (c)(3). [Pub. L. 113–4][/us/pl/113/4], § 301(2)(B), added par. (3).
 
     2006—Subsec. (c). [Pub. L. 109–162][/us/pl/109/162] reenacted heading without change and amended text generally. Prior to amendment, text contained provisions in par. (1) authorizing appropriations for fiscal years 2001 through 2005 and in par. (2) directing an allotment under subsec. (b) of this section.
 
@@ -100,25 +100,25 @@
 
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/386/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1401%2Fa
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1512
-[/us/pl/109/162/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs302
+[/us/pl/109/162/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIII
 [/us/stat/119/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3004
-[/us/pl/110/202/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F202%2Fs2%2F1
+[/us/pl/110/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F202
 [/us/stat/122/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F697
-[/us/pl/110/206/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs2%2F1
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/stat/122/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F714
-[/us/pl/113/4/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs301
+[/us/pl/113/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIII
 [/us/stat/127/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F84
 [/us/usc/t42/s280b–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%931c
 [/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/usc/t42/s280b–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%931c
 [/us/pl/110/202/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F202%2Fs2%2F1
 [/us/usc/t42/s280b–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%931c
-[/us/pl/113/4/s301/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs301%2F1%2FA
-[/us/pl/113/4/s301/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs301%2F1%2FB
-[/us/pl/113/4/s301/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs301%2F2%2FA
-[/us/pl/113/4/s301/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs301%2F2%2FB
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4

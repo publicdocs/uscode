@@ -19,7 +19,7 @@
 
     (b) The total amount allocated to any State under subsection (a) of this section in any year shall not exceed 10 percent of the total amount allocated to all the States in such year under such subsection (a) of this section. Except for the District of Columbia, Puerto Rico, Guam, American Samoa, and the Virgin Islands, not less than 0.5 percent of such total allocation to all States for that year shall be allocated in such year for the total of grants in each State which has an approved State plan under this part.
 
-([Pub. L. 94–163, title III, § 400H][/us/pl/94/163/s400H], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3253][/us/stat/92/3253].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400H, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3253][/us/stat/92/3253].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s400H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400H
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3253
 
 

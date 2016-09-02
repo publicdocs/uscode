@@ -17,7 +17,7 @@
 
     The Director may not reduce the activities, projects, or volunteers funded under the other parts of this subchapter in order to support projects under this part.
 
-([Pub. L. 93–113, title II, § 232][/us/pl/93/113/s232], as added [Pub. L. 103–82, title III, § 351][/us/pl/103/82/s351], Sept. 21, 1993, [107 Stat. 907][/us/stat/107/907].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 232, as added [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 351, Sept. 21, 1993, [107 Stat. 907][/us/stat/107/907].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/113/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs232
-[/us/pl/103/82/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs351
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F907
 
 

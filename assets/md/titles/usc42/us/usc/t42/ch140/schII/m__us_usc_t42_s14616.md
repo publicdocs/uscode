@@ -411,7 +411,7 @@ ARTICLE XI—ADJUDICATION OF DISPUTES
 
     The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriate district court of the United States in the manner provided by [section 1446 of title 28][/us/usc/t28/s1446], United States Code, or other statutory authority.
 
-([Pub. L. 105–251, title II, § 217][/us/pl/105/251/s217], Oct. 9, 1998, [112 Stat. 1876][/us/stat/112/1876].)
+([Pub. L. 105–251, title II][/us/pl/105/251/tII], § 217, Oct. 9, 1998, [112 Stat. 1876][/us/stat/112/1876].)
 
  __References in Text__ 
 
@@ -433,7 +433,7 @@ ARTICLE XI—ADJUDICATION OF DISPUTES
 [/us/pl/92/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544
 [/us/pl/92/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
-[/us/pl/105/251/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs217
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1876
 [/us/pl/93/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F579
 [/us/stat/88/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1896

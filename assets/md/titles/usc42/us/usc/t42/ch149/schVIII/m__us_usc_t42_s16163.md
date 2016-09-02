@@ -29,7 +29,7 @@
 
         Nothing in this subchapter shall be construed to alter the regulatory authority of the Department.
 
-([Pub. L. 109–58, title VIII, § 814][/us/pl/109/58/s814], Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 814, Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs814
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F855
 
 

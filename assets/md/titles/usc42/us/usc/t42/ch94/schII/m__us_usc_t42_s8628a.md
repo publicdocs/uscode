@@ -33,7 +33,7 @@
 
     (b) No provision of this section shall be construed to prevent the Secretary from making a grant pursuant to subsection (a) of this section to one or more private nonprofit organizations that apply jointly with a business concern to receive such grant.
 
-([Pub. L. 97–35, title XXVI, § 2609A][/us/pl/97/35/s2609A], as added [Pub. L. 99–425, title V, § 505(a)][/us/pl/99/425/s505/a], Sept. 30, 1986, [100 Stat. 975][/us/stat/100/975]; amended [Pub. L. 103–252, title III, § 311(a)(3)][/us/pl/103/252/s311/a/3], May 18, 1994, [108 Stat. 661][/us/stat/108/661]; [Pub. L. 105–285, title III, § 309][/us/pl/105/285/s309], Oct. 27, 1998, [112 Stat. 2759][/us/stat/112/2759].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2609A, as added [Pub. L. 99–425, title V][/us/pl/99/425/tV], § 505(a), Sept. 30, 1986, [100 Stat. 975][/us/stat/100/975]; amended [Pub. L. 103–252, title III][/us/pl/103/252/tIII], § 311(a)(3), May 18, 1994, [108 Stat. 661][/us/stat/108/661]; [Pub. L. 105–285, title III][/us/pl/105/285/tIII], § 309, Oct. 27, 1998, [112 Stat. 2759][/us/stat/112/2759].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–285, § 309(b)][/us/pl/105/285/s309/b], substituted “Technical assistance, training, and compliance reviews” for “Technical assistance and training” as section catchline.
+    1998—[Pub. L. 105–285][/us/pl/105/285], § 309(b), substituted “Technical assistance, training, and compliance reviews” for “Technical assistance and training” as section catchline.
 
-    Subsec. (a). [Pub. L. 105–285, § 309(a)][/us/pl/105/285/s309/a], substituted “$300,000” for “$250,000” in introductory provisions, designated existing provisions as par. (1) and inserted “to—”, redesignated former par. (1) as subpar. (A), realigned margin, and substituted “make grants” for “to make grants”, redesignated former par. (2) as subpar. (B), realigned margin, substituted “enter into” for “to enter into” and inserted “or interagency agreements” after “cooperative arrangements” and “(including Federal agencies)” after “public agencies”, realigned margin of concluding provisions and substituted “; or” for period at end, and added par. (2).
+    Subsec. (a). [Pub. L. 105–285][/us/pl/105/285], § 309(a), substituted “$300,000” for “$250,000” in introductory provisions, designated existing provisions as par. (1) and inserted “to—”, redesignated former par. (1) as subpar. (A), realigned margin, and substituted “make grants” for “to make grants”, redesignated former par. (2) as subpar. (B), realigned margin, substituted “enter into” for “to enter into” and inserted “or interagency agreements” after “cooperative arrangements” and “(including Federal agencies)” after “public agencies”, realigned margin of concluding provisions and substituted “; or” for period at end, and added par. (2).
 
     1994—Subsec. (a). [Pub. L. 103–252][/us/pl/103/252] substituted “$250,000” for “$500,000” in introductory provisions.
 
@@ -63,16 +63,16 @@
 ----------
 
 [/us/usc/t42/s8621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621%2Fb
-[/us/pl/97/35/s2609A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2609A
-[/us/pl/99/425/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs505%2Fa
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
+[/us/pl/99/425/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtV
 [/us/stat/100/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F975
-[/us/pl/103/252/s311/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fa%2F3
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F661
-[/us/pl/105/285/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs309
+[/us/pl/105/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtIII
 [/us/stat/112/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2759
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/105/285/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs309%2Fb
-[/us/pl/105/285/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs309%2Fa
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs314

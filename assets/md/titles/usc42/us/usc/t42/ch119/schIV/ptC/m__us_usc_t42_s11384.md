@@ -107,17 +107,17 @@
 
         A collaborative applicant designated as a high-performing community under this section shall cooperate with the Secretary in distributing information about successful efforts within the geographic area represented by the collaborative applicant to reduce homelessness.
 
-([Pub. L. 100–77, title IV, § 424][/us/pl/100/77/s424], as added [Pub. L. 111–22, div. B, title III, § 1303][/us/pl/111/22/s1303], May 20, 2009, [123 Stat. 1687][/us/stat/123/1687].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 424, as added [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1303, May 20, 2009, [123 Stat. 1687][/us/stat/123/1687].)
 
  __References in Text__ 
 
-    The effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (a)(3), is the effective date under [section 1503 of title V of div. B of Pub. L. 111–22][/us/pl/111/22/s1503], set out as an Effective Date of 2009 Amendment note under [section 11302 of this title][/us/usc/t42/s11302].
+    The effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (a)(3), is the effective date under [section 1503 of title V of div. B of Pub. L. 111–22][/us/pl/111/22/dB/tV/s1503], set out as an Effective Date of 2009 Amendment note under [section 11302 of this title][/us/usc/t42/s11302].
 
  __Prior Provisions__ 
 
-    A prior section 11384, [Pub. L. 100–77, title IV, § 424][/us/pl/100/77/s424], as added [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4016][/us/stat/106/4016], which related to supportive housing, was repealed by [Pub. L. 111–22, div. B, title III, § 1303][/us/pl/111/22/s1303], May 20, 2009, [123 Stat. 1687][/us/stat/123/1687].
+    A prior section 11384, [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 424, as added [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4016][/us/stat/106/4016], which related to supportive housing, was repealed by [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1303, May 20, 2009, [123 Stat. 1687][/us/stat/123/1687].
 
-    Another prior section 11384, [Pub. L. 100–77, title IV, § 424][/us/pl/100/77/s424], July 22, 1987, [101 Stat. 501][/us/stat/101/501]; [Pub. L. 100–628, title IV][/us/pl/100/628], §§ 442(b)(2), 448(b), 450(a)(1), (b), 451, Nov. 7, 1988, [102 Stat. 3233–3235][/us/stat/102/3233-3235]; [Pub. L. 101–625, title VIII, § 833(f)][/us/pl/101/625/s833/f], (h)–(j), (k)(2), Nov. 28, 1990, [104 Stat. 4363–4365][/us/stat/104/4363-4365], which provided for applications, selection criteria, and other program requirements for assistance under the supportive housing demonstration program, was repealed by [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
+    Another prior section 11384, [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 424, July 22, 1987, [101 Stat. 501][/us/stat/101/501]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], §§ 442(b)(2), 448(b), 450(a)(1), (b), 451, Nov. 7, 1988, [102 Stat. 3233–3235][/us/stat/102/3233-3235]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 833(f), (h)–(j), (k)(2), Nov. 28, 1990, [104 Stat. 4363–4365][/us/stat/104/4363-4365], which provided for applications, selection criteria, and other program requirements for assistance under the supportive housing demonstration program, was repealed by [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
 
  __Effective Date__ 
 
@@ -136,23 +136,23 @@
 [/us/usc/t42/s11382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11382%2Fa
 [/us/usc/t42/s11374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374%2Fa
 [/us/usc/t42/s11382/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11382%2Fj
-[/us/pl/100/77/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs424
-[/us/pl/111/22/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1303
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1687
-[/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
+[/us/pl/111/22/dB/tV/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtV%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
-[/us/pl/100/77/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs424
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4016
-[/us/pl/111/22/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1303
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1687
-[/us/pl/100/77/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs424
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F501
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3233-3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3233-3235
-[/us/pl/101/625/s833/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs833%2Ff
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4363-4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4363-4365
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4013
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

@@ -155,7 +155,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 109–58, title VI, § 638][/us/pl/109/58/s638], Aug. 8, 2005, [119 Stat. 791][/us/stat/119/791].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 638, Aug. 8, 2005, [119 Stat. 791][/us/stat/119/791].)
 
 ----------
 
@@ -165,7 +165,7 @@
 ----------
 
 [/us/usc/t2/s661a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5%2FC
-[/us/pl/109/58/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs638
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F791
 
 

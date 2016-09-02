@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch15/schIII/m__us_usc_t42_ch15_schIII.md) | [Next](./../../../..//us/usc/t42/ch15A/schI/m__us_usc_t42_ch15A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15A)
+[Previous](./../../../..//us/usc/t42/ch15/schIII/m__us_usc_t42_s1855aaa...1855nnn.md) | [Next](./../../../..//us/usc/t42/ch15A/schI/m__us_usc_t42_ch15A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15A)
 
 ## CHAPTER 15A—RECIPROCAL FIRE PROTECTION AGREEMENTS
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856" data-uslm-ref="/us/usc/t42/s1856">1856</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856o" data-uslm-ref="/us/usc/t42/s1856o">1856o.</a>  </td>
 
     <td> Funds.  </td>
 
@@ -139,7 +139,7 @@ SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch15/schIII/m__us_usc_t42_ch15_schIII.md) | [Next](./../../../..//us/usc/t42/ch15A/schI/m__us_usc_t42_ch15A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15A)
+[Previous](./../../../..//us/usc/t42/ch15/schIII/m__us_usc_t42_s1855aaa...1855nnn.md) | [Next](./../../../..//us/usc/t42/ch15A/schI/m__us_usc_t42_ch15A_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15A)
 
 ----------
 ----------

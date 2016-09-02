@@ -17,7 +17,7 @@
 
     No cause of action shall exist and no claim may be brought against the United States for violation of any notification requirement imposed upon the United States by this subtitle or any amendment made by this subtitle.
 
-([Pub. L. 112–141, div. F, title II, § 100249][/us/pl/112/141/s100249], July 6, 2012, [126 Stat. 969][/us/stat/126/969].)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100249, July 6, 2012, [126 Stat. 969][/us/stat/126/969].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s100249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100249
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F969
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001

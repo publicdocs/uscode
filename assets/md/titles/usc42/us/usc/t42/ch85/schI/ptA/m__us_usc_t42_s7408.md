@@ -131,7 +131,7 @@
 
         The Administrator shall make information regarding emission control technology available to the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 108, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678]; amended [Pub. L. 95–95, title I][/us/pl/95/95], §§ 104, 105, title IV, § 401(a), Aug. 7, 1977, [91 Stat. 689][/us/stat/91/689], 790; [Pub. L. 101–549, title I][/us/pl/101/549], §§ 108(a)–(c), (o), 111, Nov. 15, 1990, [104 Stat. 2465][/us/stat/104/2465], 2466, 2469, 2470; [Pub. L. 105–362, title XV, § 1501(b)][/us/pl/105/362/s1501/b], Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 108, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678]; amended [Pub. L. 95–95, title I][/us/pl/95/95/tI], §§ 104, 105, title IV, § 401(a), Aug. 7, 1977, [91 Stat. 689][/us/stat/91/689], 790; [Pub. L. 101–549, title I][/us/pl/101/549/tI], §§ 108(a)–(c), (o), 111, Nov. 15, 1990, [104 Stat. 2465][/us/stat/104/2465], 2466, 2469, 2470; [Pub. L. 105–362, title XV][/us/pl/105/362/tXV], § 1501(b), Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].)
 
  __Codification__ 
 
@@ -147,25 +147,25 @@
 
     1998—Subsec. (f)(3), (4). [Pub. L. 105–362][/us/pl/105/362] struck out par. (3), which required reports by the Secretary of Transportation and the Administrator to be submitted to Congress by Jan. 1, 1993, and every 3 years thereafter, reviewing and analyzing existing State and local air quality related transportation programs, evaluating achievement of goals, and recommending changes to existing programs, and par. (4), which required that in each report after the first report the Secretary of Transportation include a description of the actions taken to implement the changes recommended in the preceding report.
 
-    1990—Subsec. (e). [Pub. L. 101–549, § 108(a)][/us/pl/101/549/s108/a], inserted first sentence and struck out former first sentence which read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under [section 7505 of this title][/us/usc/t42/s7505].”
+    1990—Subsec. (e). [Pub. L. 101–549][/us/pl/101/549], § 108(a), inserted first sentence and struck out former first sentence which read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under [section 7505 of this title][/us/usc/t42/s7505].”
 
-    Subsec. (f)(1). [Pub. L. 101–549, § 108(b)][/us/pl/101/549/s108/b], in introductory provisions, substituted present provisions for provisions relating to Federal agencies, States, and air pollution control agencies within either 6 months or one year after Aug. 7, 1977.
+    Subsec. (f)(1). [Pub. L. 101–549][/us/pl/101/549], § 108(b), in introductory provisions, substituted present provisions for provisions relating to Federal agencies, States, and air pollution control agencies within either 6 months or one year after Aug. 7, 1977.
 
-    Subsec. (f)(1)(A). [Pub. L. 101–549, § 108(b)][/us/pl/101/549/s108/b], substituted present provisions for provisions relating to information prepared in cooperation with Secretary of Transportation, regarding processes, procedures, and methods to reduce certain pollutants.
+    Subsec. (f)(1)(A). [Pub. L. 101–549][/us/pl/101/549], § 108(b), substituted present provisions for provisions relating to information prepared in cooperation with Secretary of Transportation, regarding processes, procedures, and methods to reduce certain pollutants.
 
-    Subsec. (f)(3), (4). [Pub. L. 101–549, § 111][/us/pl/101/549/s111], added pars. (3) and (4).
+    Subsec. (f)(3), (4). [Pub. L. 101–549][/us/pl/101/549], § 111, added pars. (3) and (4).
 
-    Subsec. (g). [Pub. L. 101–549, § 108][/us/pl/101/549/s108](o), added subsec. (g).
+    Subsec. (g). [Pub. L. 101–549][/us/pl/101/549], § 108(o), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 101–549, § 108(c)][/us/pl/101/549/s108/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–549][/us/pl/101/549], § 108(c), added subsec. (h).
 
-    1977—Subsec. (a)(1)(A). [Pub. L. 95–95, § 401(a)][/us/pl/95/95/s401/a], substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for “which in his judgment has an adverse effect on public health or welfare”.
+    1977—Subsec. (a)(1)(A). [Pub. L. 95–95][/us/pl/95/95], § 401(a), substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for “which in his judgment has an adverse effect on public health or welfare”.
 
-    Subsec. (b)(1). [Pub. L. 95–95, § 104(a)][/us/pl/95/95/s104/a], substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
+    Subsec. (b)(1). [Pub. L. 95–95][/us/pl/95/95], § 104(a), substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
 
-    Subsec. (c). [Pub. L. 95–95, § 104(b)][/us/pl/95/95/s104/b], inserted provision directing the Administrator, not later than six months after Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO2 over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
+    Subsec. (c). [Pub. L. 95–95][/us/pl/95/95], § 104(b), inserted provision directing the Administrator, not later than six months after Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO2 over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
 
-    Subsecs. (e), (f). [Pub. L. 95–95, § 105][/us/pl/95/95/s105], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 95–95][/us/pl/95/95], § 105, added subsecs. (e) and (f).
 
  __Effective Date of 1977 Amendment__ 
 
@@ -183,30 +183,30 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1678
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F689
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2465
-[/us/pl/105/362/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1501%2Fb
+[/us/pl/105/362/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXV
 [/us/stat/112/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3294
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s1857c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%933
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7415
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/101/549/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fa
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7505
-[/us/pl/101/549/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fb
-[/us/pl/101/549/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fb
-[/us/pl/101/549/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs111
-[/us/pl/101/549/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108
-[/us/pl/101/549/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fc
-[/us/pl/95/95/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs401%2Fa
-[/us/pl/95/95/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs104%2Fa
-[/us/pl/95/95/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs104%2Fb
-[/us/pl/95/95/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs105
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

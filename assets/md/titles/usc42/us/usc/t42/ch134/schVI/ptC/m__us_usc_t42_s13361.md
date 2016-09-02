@@ -89,7 +89,7 @@
 
         Within 180 days after the Secretary submits the report to the Congress as required by [section 409 of Public Law 101–549][/us/pl/101/549/s409], the Secretary, acting through the CCT Subgroup, shall provide to the appropriate committees of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, a plan which details actions to be taken in order to address those recommendations and findings made in the report submitted pursuant to [section 409 of Public Law 101–549][/us/pl/101/549/s409]. As a part of the plan required by this subsection, the Secretary, acting through the CCT Subgroup, shall specifically address the adequacy of financial assistance available from Federal departments and agencies and international financing organizations to aid in the financing of prefeasibility and feasibility studies and projects that would use a clean coal technology in developing countries and countries making the transition from nonmarket to market economies.
 
-([Pub. L. 102–486, title XIII, § 1331][/us/pl/102/486/s1331], Oct. 24, 1992, [106 Stat. 2977][/us/stat/106/2977].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1331, Oct. 24, 1992, [106 Stat. 2977][/us/stat/106/2977].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 [/us/usc/t42/s13331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13331%2Fa
 [/us/pl/101/549/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs409
 [/us/pl/101/549/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs409
-[/us/pl/102/486/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1331
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2977
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933

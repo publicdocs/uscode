@@ -137,11 +137,11 @@
 
         Each organization entering into a cooperative agreement under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe activities that have been carried out with the funds made available through the agreement, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require. The Secretary shall make the evaluations received under this subsection publicly available on the Department of Health and Human Services website. The reports shall also be submitted to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-([Pub. L. 98–457, title III, § 314][/us/pl/98/457/s314], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3507][/us/stat/124/3507].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 314, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3507][/us/stat/124/3507].)
 
  __Prior Provisions__ 
 
-    A prior section 10414, [Pub. L. 98–457, title III, § 314][/us/pl/98/457/s314], as added [Pub. L. 102–295, title III, § 320][/us/pl/102/295/s320], May 28, 1992, [106 Stat. 209][/us/stat/106/209], related to grants for public information campaigns, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
+    A prior section 10414, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 314, as added [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 320, May 28, 1992, [106 Stat. 209][/us/stat/106/209], related to grants for public information campaigns, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
  __Change of Name__ 
 
@@ -154,11 +154,11 @@
 ----------
 ----------
 
-[/us/pl/98/457/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs314
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3507
-[/us/pl/98/457/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs314
-[/us/pl/102/295/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs320
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F209
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 

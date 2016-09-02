@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_s293m.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschV%2FptD)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_s293n...293p.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschV%2FptD)
 
 #### Part D—Interdisciplinary, Community-Based Linkages
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_s293m.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschV%2FptD)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_s293n...293p.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschV%2FptD)
 
 ----------
 ----------

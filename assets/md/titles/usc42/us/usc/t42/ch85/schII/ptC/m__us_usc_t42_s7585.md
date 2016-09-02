@@ -27,7 +27,7 @@
 
         (3) Any revised less stringent standards promulgated as provided in this subsection shall require at least a 30 percent reduction in lieu of the 50 percent reduction referred to in paragraph (1).
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 245, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2519][/us/stat/104/2519].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 245, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2519][/us/stat/104/2519].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2519
 
 

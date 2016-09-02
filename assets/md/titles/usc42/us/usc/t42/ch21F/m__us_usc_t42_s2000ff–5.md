@@ -45,7 +45,7 @@
 
         With respect to the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act ([42 U.S.C. 1320d][/us/usc/t42/s1320d] et seq.) and section 264 of the Health Insurance Portability and Accountability Act of 1996 ([42 U.S.C. 1320d–2][/us/usc/t42/s1320d–2] note), this chapter does not prohibit a covered entity under such regulations from any use or disclosure of health information that is authorized for the covered entity under such regulations. The previous sentence does not affect the authority of such Secretary to modify such regulations.
 
-([Pub. L. 110–233, title II, § 206][/us/pl/110/233/s206], May 21, 2008, [122 Stat. 913][/us/stat/122/913].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 206, May 21, 2008, [122 Stat. 913][/us/stat/122/913].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t42/s2000ff/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%2F4%2FA%2Fiii
 [/us/usc/t42/s1320d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
-[/us/pl/110/233/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs206
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F913
 [/us/usc/t42/s12112/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12112%2Fd%2F3%2FB
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531

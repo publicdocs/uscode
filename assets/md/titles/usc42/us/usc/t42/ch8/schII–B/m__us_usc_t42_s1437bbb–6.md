@@ -17,7 +17,7 @@
 
     The Secretary, in consultation with representatives of public and assisted housing interests, may provide training and technical assistance relating to providing assistance under this subchapter and may conduct detailed evaluations of up to 30 jurisdictions for the purpose of identifying replicable program models that are successful at carrying out the purposes of this subchapter.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 407, as added [Pub. L. 105–276, title V, § 561][/us/pl/105/276/s561], Oct. 21, 1998, [112 Stat. 2623][/us/stat/112/2623].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 407, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 561, Oct. 21, 1998, [112 Stat. 2623][/us/stat/112/2623].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs561
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2623
 
 

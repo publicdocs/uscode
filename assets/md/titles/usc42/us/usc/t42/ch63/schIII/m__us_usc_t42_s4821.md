@@ -19,7 +19,7 @@
 
     (b) The Chairman of the Consumer Product Safety Commission shall conduct appropriate research on multiple layers of dried paint film, containing the various lead compounds commonly used, in order to ascertain the safe level of lead in residential paint products. No later than December 31, 1974, the Chairman shall submit to Congress a full and complete report of his findings and recommendations as developed pursuant to such programs, together with a statement of any legislation which should be enacted or any changes in existing law which should be made in order to carry out such recommendations.
 
-([Pub. L. 91–695, title III, § 301][/us/pl/91/695/s301], Jan. 13, 1971, [84 Stat. 2079][/us/stat/84/2079]; [Pub. L. 93–151, § 3][/us/pl/93/151/s3], Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–695, title III][/us/pl/91/695/tIII], § 301, Jan. 13, 1971, [84 Stat. 2079][/us/stat/84/2079]; [Pub. L. 93–151][/us/pl/93/151], § 3, Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/91/695/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs301
+[/us/pl/91/695/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2FtIII
 [/us/stat/84/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2079
-[/us/pl/93/151/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs3
+[/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/stat/87/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F566
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151

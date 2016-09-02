@@ -33,7 +33,7 @@
 
         A funding agreement for a grant under [section 300x–21 of this title][/us/usc/t42/s300x–21] is that the State involved, in providing amounts from the grant to any entity for treatment services for intravenous drug abuse, will require the entity to carry out activities to encourage individuals in need of such treatment to undergo treatment.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1923, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 390][/us/stat/106/390].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1923, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 390][/us/stat/106/390].)
 
  __Prior Provisions__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F390
 [/us/usc/t42/s300x–9b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%939b
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321

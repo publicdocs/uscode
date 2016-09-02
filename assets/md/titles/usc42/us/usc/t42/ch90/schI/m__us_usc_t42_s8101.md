@@ -25,17 +25,17 @@
 
     (b) The purpose of this subchapter is to establish a public corporation which will continue the joint efforts of the Federal financial supervisory agencies and the Department of Housing and Urban Development to promote reinvestment in older neighborhoods by local financial institutions working cooperatively with community people and local government, and which will continue the nonbureaucratic approach of the Urban Reinvestment Task Force, relying largely on local initiative for the specific design of local programs.
 
-([Pub. L. 95–557, title VI, § 602][/us/pl/95/557/s602], Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115].)
+([Pub. L. 95–557, title VI][/us/pl/95/557/tVI], § 602, Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115].)
 
  __Short Title__ 
 
-[Pub. L. 95–557, title VI, § 601][/us/pl/95/557/s601], Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115], provided that: 
+[Pub. L. 95–557, title VI][/us/pl/95/557/tVI], § 601, Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Neighborhood Reinvestment Corporation Act’.”
 
-    [Pub. L. 95–557, title VII, § 701][/us/pl/95/557/s701], Oct. 31, 1978, [92 Stat. 2119][/us/stat/92/2119], which provided that such title, which was classified to subchapter II of this chapter, was to be cited as the “Neighborhood Self-Help Development Act of 1978”, was repealed by [Pub. L. 97–35, title III, § 313(a)][/us/pl/97/35/s313/a], Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
+    [Pub. L. 95–557, title VII][/us/pl/95/557/tVII], § 701, Oct. 31, 1978, [92 Stat. 2119][/us/stat/92/2119], which provided that such title, which was classified to subchapter II of this chapter, was to be cited as the “Neighborhood Self-Help Development Act of 1978”, was repealed by [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 313(a), Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
 
-[Pub. L. 95–557, title VIII, § 801][/us/pl/95/557/s801], Oct. 31, 1978, [92 Stat. 2122][/us/stat/92/2122], provided that: 
+[Pub. L. 95–557, title VIII][/us/pl/95/557/tVIII], § 801, Oct. 31, 1978, [92 Stat. 2122][/us/stat/92/2122], provided that: 
 
 > “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Livable Cities Act of 1978’.”
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/pl/95/557/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs602
+[/us/pl/95/557/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVI
 [/us/stat/92/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2115
-[/us/pl/95/557/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs601
+[/us/pl/95/557/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVI
 [/us/stat/92/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2115
-[/us/pl/95/557/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs701
+[/us/pl/95/557/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVII
 [/us/stat/92/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2119
-[/us/pl/97/35/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs313%2Fa
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F398
-[/us/pl/95/557/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs801
+[/us/pl/95/557/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVIII
 [/us/stat/92/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2122
 
 

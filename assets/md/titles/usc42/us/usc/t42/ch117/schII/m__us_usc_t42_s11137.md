@@ -45,19 +45,19 @@
 
         In interpreting information reported under this subchapter, a payment in settlement of a medical malpractice action or claim shall not be construed as creating a presumption that medical malpractice has occurred.
 
-([Pub. L. 99–660, title IV, § 427][/us/pl/99/660/s427], Nov. 14, 1986, [100 Stat. 3791][/us/stat/100/3791]; [Pub. L. 100–177, title IV, § 402(a)][/us/pl/100/177/s402/a], (b), Dec. 1, 1987, [101 Stat. 1007][/us/stat/101/1007].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 427, Nov. 14, 1986, [100 Stat. 3791][/us/stat/100/3791]; [Pub. L. 100–177, title IV][/us/pl/100/177/tIV], § 402(a), (b), Dec. 1, 1987, [101 Stat. 1007][/us/stat/101/1007].)
 
  __Amendments__ 
 
-    1987—Subsec. (b)(1). [Pub. L. 100–177, § 402(a)(1)][/us/pl/100/177/s402/a/1], substituted “as necessary to carry out subsections (b) and (c) of [section 11135 of this title][/us/usc/t42/s11135] (as specified in regulations by the Secretary)” for “with respect to medical malpractice actions” and inserted at end “Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under [section 11134(b) of this title][/us/usc/t42/s11134/b]), on application by any person, shall prepare such information in such form and shall disclose such information in such form.”
+    1987—Subsec. (b)(1). [Pub. L. 100–177][/us/pl/100/177], § 402(a)(1), substituted “as necessary to carry out subsections (b) and (c) of [section 11135 of this title][/us/usc/t42/s11135] (as specified in regulations by the Secretary)” for “with respect to medical malpractice actions” and inserted at end “Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under [section 11134(b) of this title][/us/usc/t42/s11134/b]), on application by any person, shall prepare such information in such form and shall disclose such information in such form.”
 
-    Subsec. (b)(4). [Pub. L. 100–177, § 402(b)][/us/pl/100/177/s402/b], added par. (4).
+    Subsec. (b)(4). [Pub. L. 100–177][/us/pl/100/177], § 402(b), added par. (4).
 
-    Subsec. (c). [Pub. L. 100–177, § 402(a)(2)][/us/pl/100/177/s402/a/2], inserted “(including the agency designated under [section 11134(b) of this title][/us/usc/t42/s11134/b])” after “entity” and “(including information provided under subsection (a) of this section” after “subchapter”.
+    Subsec. (c). [Pub. L. 100–177][/us/pl/100/177], § 402(a)(2), inserted “(including the agency designated under [section 11134(b) of this title][/us/usc/t42/s11134/b])” after “entity” and “(including information provided under subsection (a) of this section” after “subchapter”.
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–177, title IV, § 402(d)][/us/pl/100/177/s402/d], formerly § 402(c), Dec. 1, 1987, [101 Stat. 1007][/us/stat/101/1007], as renumbered and amended by [Pub. L. 101–239, title VI, § 6103(e)(6)][/us/pl/101/239/s6103/e/6], Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208], provided that:
+[Pub. L. 100–177, title IV][/us/pl/100/177/tIV], § 402(d), formerly § 402(c), Dec. 1, 1987, [101 Stat. 1007][/us/stat/101/1007], as renumbered and amended by [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(e)(6), Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -82,19 +82,19 @@
 [/us/usc/t42/s11136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11136
 [/us/usc/t42/s11134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134%2Fb
 [/us/usc/t42/s11134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134%2Fb
-[/us/pl/99/660/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs427
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3791
-[/us/pl/100/177/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fa
+[/us/pl/100/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtIV
 [/us/stat/101/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1007
-[/us/pl/100/177/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fa%2F1
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/usc/t42/s11135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11135
 [/us/usc/t42/s11134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134%2Fb
-[/us/pl/100/177/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fb
-[/us/pl/100/177/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fa%2F2
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/usc/t42/s11134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134%2Fb
-[/us/pl/100/177/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fd
+[/us/pl/100/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtIV
 [/us/stat/101/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1007
-[/us/pl/101/239/s6103/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F6
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2208
 
 

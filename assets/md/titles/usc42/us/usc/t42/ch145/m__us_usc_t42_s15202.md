@@ -79,7 +79,7 @@
 
         The Board shall not disclose any information which may compromise an ongoing law enforcement investigation or is otherwise required by law to be kept confidential.
 
-([Pub. L. 107–12, § 3][/us/pl/107/12/s3], May 30, 2001, [115 Stat. 20][/us/stat/115/20]; [Pub. L. 109–162, title XI, § 1112][/us/pl/109/162/s1112], Jan. 5, 2006, [119 Stat. 3103][/us/stat/119/3103].)
+([Pub. L. 107–12][/us/pl/107/12], § 3, May 30, 2001, [115 Stat. 20][/us/stat/115/20]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1112, Jan. 5, 2006, [119 Stat. 3103][/us/stat/119/3103].)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 ----------
 
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
-[/us/pl/107/12/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs3
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F20
-[/us/pl/109/162/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1112
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3103
 [/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F20

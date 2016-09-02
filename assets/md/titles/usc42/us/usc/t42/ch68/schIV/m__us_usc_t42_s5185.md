@@ -17,7 +17,7 @@
 
     The President is authorized during, or in anticipation of, an emergency or major disaster to establish temporary communications systems and to make such communications available to State and local government officials and other persons as he deems appropriate.
 
-([Pub. L. 93–288, title IV, § 418][/us/pl/93/288/s418], formerly § 415, May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 418, [Pub. L. 100–707, title I, § 106(j)][/us/pl/100/707/s106/j], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 418, formerly § 415, May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 418, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(j), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs418
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F158
-[/us/pl/100/707/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fj
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
 [/us/pl/93/288/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs418
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707

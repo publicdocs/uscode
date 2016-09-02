@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 94–566, title V, § 508(b)][/us/pl/94/566/s508/b], Oct. 20, 1976, [90 Stat. 2689][/us/stat/90/2689]; [Pub. L. 104–193, title I, § 110(a)][/us/pl/104/193/s110/a], Aug. 22, 1996, [110 Stat. 2171][/us/stat/110/2171], which related to reimbursement to State employment offices for expenses incurred for furnishing information requested of such offices by State or local agency administering this part, was transferred to [section 655a of this title][/us/usc/t42/s655a].
+    Section, [Pub. L. 94–566, title V][/us/pl/94/566/tV], § 508(b), Oct. 20, 1976, [90 Stat. 2689][/us/stat/90/2689]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(a), Aug. 22, 1996, [110 Stat. 2171][/us/stat/110/2171], which related to reimbursement to State employment offices for expenses incurred for furnishing information requested of such offices by State or local agency administering this part, was transferred to [section 655a of this title][/us/usc/t42/s655a].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/94/566/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs508%2Fb
+[/us/pl/94/566/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtV
 [/us/stat/90/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2689
-[/us/pl/104/193/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fa
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2171
 [/us/usc/t42/s655a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655a
 

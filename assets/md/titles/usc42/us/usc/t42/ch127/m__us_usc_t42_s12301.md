@@ -45,7 +45,7 @@
 
         (F) comprehensive community services that are efficient, coordinated, readily available, and involve families of young individuals.
 
-([Pub. L. 101–501, title IX, § 902][/us/pl/101/501/s902], Nov. 3, 1990, [104 Stat. 1262][/us/stat/104/1262].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 902, Nov. 3, 1990, [104 Stat. 1262][/us/stat/104/1262].)
 
  __Effective Date__ 
 
@@ -53,21 +53,21 @@
 
  __Short Title__ 
 
-[Pub. L. 101–501, title IX, § 901][/us/pl/101/501/s901], Nov. 3, 1990, [104 Stat. 1262][/us/stat/104/1262], provided that: 
+[Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 901, Nov. 3, 1990, [104 Stat. 1262][/us/stat/104/1262], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Claude Pepper Young Americans Act of 1990’.”
 
-[Pub. L. 101–501, title IX, § 955][/us/pl/101/501/s955], Nov. 3, 1990, [104 Stat. 1278][/us/stat/104/1278], provided that: 
+[Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 955, Nov. 3, 1990, [104 Stat. 1278][/us/stat/104/1278], provided that: 
 
 > “This chapter \[chapter 3 (§§ 955–960) of subtitle A of title IX of [Pub. L. 101–501][/us/pl/101/501], enacting part C of subchapter I of this chapter\] may be cited as the ‘Family Resource Act’.”
 
-[Pub. L. 101–501, title IX, § 981][/us/pl/101/501/s981], Nov. 3, 1990, [104 Stat. 1280][/us/stat/104/1280], provided that: 
+[Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 981, Nov. 3, 1990, [104 Stat. 1280][/us/stat/104/1280], provided that: 
 
 > “This subtitle \[subtitle B (§§ 981–988) of title IX of [Pub. L. 101–501][/us/pl/101/501], enacting subchapter II of this chapter\] may be cited as the ‘1993 White House Conference on Children, Youth, and Families’.”
 
  __Performance Partnership Pilots__ 
 
-[Pub. L. 113–76, div. H, title V, § 526][/us/pl/113/76/s526], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided that:
+[Pub. L. 113–76, div. H, title V][/us/pl/113/76/dH/tV], § 526, Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -197,7 +197,7 @@
 
  __Commission on Child and Family Welfare__ 
 
-    [Pub. L. 102–521, § 5][/us/pl/102/521/s5], Oct. 25, 1992, [106 Stat. 3406][/us/stat/106/3406], provided for establishment, membership, etc., of a Commission on Child and Family Welfare, specified that among other duties the Commission compile information and data on the issues that affect the best interests of children, including domestic issues such as abuse, family relations, services and agencies for children and families, family courts, and juvenile courts, directed Commission to submit to President and Congress an interim report no later than Jan. 1, 1994, and a final report no later than Jan. 1, 1995, containing a detailed statement of the findings and conclusions of the Commission, together with recommendations for such legislation and administrative actions as considered appropriate, and directed that the Commission terminate 90 days after the date it submitted its final report.
+    [Pub. L. 102–521][/us/pl/102/521], § 5, Oct. 25, 1992, [106 Stat. 3406][/us/stat/106/3406], provided for establishment, membership, etc., of a Commission on Child and Family Welfare, specified that among other duties the Commission compile information and data on the issues that affect the best interests of children, including domestic issues such as abuse, family relations, services and agencies for children and families, family courts, and juvenile courts, directed Commission to submit to President and Congress an interim report no later than Jan. 1, 1994, and a final report no later than Jan. 1, 1995, containing a detailed statement of the findings and conclusions of the Commission, together with recommendations for such legislation and administrative actions as considered appropriate, and directed that the Commission terminate 90 days after the date it submitted its final report.
 
  __Ex. Ord. No. 13459. Improving the Coordination and Effectiveness of Youth Programs__ 
 
@@ -284,22 +284,22 @@
 ----------
 ----------
 
-[/us/pl/101/501/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs902
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1262
 [/us/pl/101/501/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs1001%2Fa
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/101/501/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs901
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1262
-[/us/pl/101/501/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs955
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1278
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/pl/101/501/s981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs981
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1280
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/pl/113/76/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs526
+[/us/pl/113/76/dH/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtV
 [/us/stat/128/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F413
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/102/521/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs5
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3406
 
 

@@ -121,17 +121,17 @@
 
                 (ii) ensure, to the maximum extent feasible, the continuing independence of older individuals who are residing in the area.
 
-([Pub. L. 89–73, title IV, § 419][/us/pl/89/73/s419], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2264][/us/stat/114/2264]; amended [Pub. L. 109–365, title IV, § 408][/us/pl/109/365/s408], Oct. 17, 2006, [120 Stat. 2557][/us/stat/120/2557].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 419, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2264][/us/stat/114/2264]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 408, Oct. 17, 2006, [120 Stat. 2557][/us/stat/120/2557].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–365, § 408(1)][/us/pl/109/365/s408/1]–(6), substituted “Multidisciplinary centers and multidisciplinary systems” for “Multidisciplinary centers” in section catchline, redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a), in subsec. (a) inserted heading, redesignated former pars. and subpars. as subpars. and cls., respectively, made conforming amendments to internal references, and realigned margins.
+    2006—[Pub. L. 109–365][/us/pl/109/365], § 408(1)–(6), substituted “Multidisciplinary centers and multidisciplinary systems” for “Multidisciplinary centers” in section catchline, redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a), in subsec. (a) inserted heading, redesignated former pars. and subpars. as subpars. and cls., respectively, made conforming amendments to internal references, and realigned margins.
 
-    Subsec. (a)(1). [Pub. L. 109–365, § 408(7)(A)][/us/pl/109/365/s408/7/A], inserted “diverse populations of older individuals residing in urban communities,” after “minority populations,”.
+    Subsec. (a)(1). [Pub. L. 109–365][/us/pl/109/365], § 408(7)(A), inserted “diverse populations of older individuals residing in urban communities,” after “minority populations,”.
 
-    Subsec. (a)(2). [Pub. L. 109–365, § 408(7)(B)][/us/pl/109/365/s408/7/B], (C), in cl. (v) inserted “, including information about best practices in long-term care service delivery, housing, and transportation” before semicolon at end, in cl. (vi) substituted “information and other technical assistance” for “consultation and information”, and added cl. (viii).
+    Subsec. (a)(2). [Pub. L. 109–365][/us/pl/109/365], § 408(7)(B), (C), in cl. (v) inserted “, including information about best practices in long-term care service delivery, housing, and transportation” before semicolon at end, in cl. (vi) substituted “information and other technical assistance” for “consultation and information”, and added cl. (viii).
 
-    Subsec. (b). [Pub. L. 109–365, § 408(8)][/us/pl/109/365/s408/8], added subsec. (b). Former subsec. (b) redesignated (a)(2).
+    Subsec. (b). [Pub. L. 109–365][/us/pl/109/365], § 408(8), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
 ----------
 
@@ -140,14 +140,14 @@
 ----------
 ----------
 
-[/us/pl/89/73/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs419
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2264
-[/us/pl/109/365/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs408
+[/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2557
-[/us/pl/109/365/s408/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs408%2F1
-[/us/pl/109/365/s408/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs408%2F7%2FA
-[/us/pl/109/365/s408/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs408%2F7%2FB
-[/us/pl/109/365/s408/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs408%2F8
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

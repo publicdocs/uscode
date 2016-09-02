@@ -21,7 +21,7 @@
 
     (2) the term “abuse” means physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child.
 
-([Pub. L. 90–351, title I, § 1409][/us/pl/90/351/s1409], as added [Pub. L. 101–647, title II, § 241(a)(2)][/us/pl/101/647/s241/a/2], Nov. 29, 1990, [104 Stat. 4813][/us/stat/104/4813].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1409, as added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(a)(2), Nov. 29, 1990, [104 Stat. 4813][/us/stat/104/4813].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1409
-[/us/pl/101/647/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4813
 
 

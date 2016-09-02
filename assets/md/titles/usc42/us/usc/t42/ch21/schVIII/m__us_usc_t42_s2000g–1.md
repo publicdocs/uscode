@@ -17,7 +17,7 @@
 
     It shall be the function of the Service to provide assistance to communities and persons therein in resolving disputes, disagreements, or difficulties relating to discriminatory practices based on race, color, or national origin which impair the rights of persons in such communities under the Constitution or laws of the United States or which affect or may affect interstate commerce. The Service may offer its services in cases of such disputes, disagreements, or difficulties whenever, in its judgment, peaceful relations among the citizens of the community involved are threatened thereby, and it may offer its services either upon its own motion or upon the request of an appropriate State or local official or other interested person.
 
-([Pub. L. 88–352, title X, § 1002][/us/pl/88/352/s1002], July 2, 1964, [78 Stat. 267][/us/stat/78/267].)
+([Pub. L. 88–352, title X][/us/pl/88/352/tX], § 1002, July 2, 1964, [78 Stat. 267][/us/stat/78/267].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs1002
+[/us/pl/88/352/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtX
 [/us/stat/78/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F267
 
 

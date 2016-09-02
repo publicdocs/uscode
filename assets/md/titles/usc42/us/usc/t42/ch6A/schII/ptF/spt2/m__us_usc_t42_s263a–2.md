@@ -163,7 +163,7 @@
 
         The term of a certification issued by a State or an accreditation organization in a State shall be prescribed by the Secretary in the certification program and shall be valid for a period of time to be defined by the Secretary through the public comment process described in subsection (h)(2)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be subsection “(g)(2)”. </sup></sup>  of this section. The Secretary shall provide an application for recertification to be submitted at the time of changes in the ownership of a certified laboratory or changes in the administration of such a laboratory.
 
-([Pub. L. 102–493, § 3][/us/pl/102/493/s3], Oct. 24, 1992, [106 Stat. 3146][/us/stat/106/3146].)
+([Pub. L. 102–493][/us/pl/102/493], § 3, Oct. 24, 1992, [106 Stat. 3146][/us/stat/106/3146].)
 
  __Codification__ 
 
@@ -171,7 +171,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
  __Effective Date__ 
 
@@ -190,9 +190,9 @@
 [/us/usc/t42/s263a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%933
 [/us/usc/t42/s263a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%933
 [/us/usc/t42/s263a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%933
-[/us/pl/102/493/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs3
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3146
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/pl/102/493/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs9
 [/us/usc/t42/s263a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%931

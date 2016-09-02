@@ -69,7 +69,7 @@
 
         The National High-Performance Computing Program established by [section 5511 of title 15][/us/usc/t15/s5511] shall include Federal research and development programs related to health information technology.
 
-([Pub. L. 111–5, div. A, title XIII, § 13202][/us/pl/111/5/s13202], Feb. 17, 2009, [123 Stat. 245][/us/stat/123/245].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13202, Feb. 17, 2009, [123 Stat. 245][/us/stat/123/245].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t15/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511
-[/us/pl/111/5/s13202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13202
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F245
 
 

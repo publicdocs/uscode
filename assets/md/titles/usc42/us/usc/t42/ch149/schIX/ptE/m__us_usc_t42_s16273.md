@@ -31,7 +31,7 @@
 
         The Secretary shall submit, as part of the annual budget submission of the Department, a report on the activities of the program.
 
-([Pub. L. 109–58, title IX, § 953][/us/pl/109/58/s953], Aug. 8, 2005, [119 Stat. 886][/us/stat/119/886].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 953, Aug. 8, 2005, [119 Stat. 886][/us/stat/119/886].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs953
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F886
 
 

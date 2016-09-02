@@ -17,11 +17,11 @@
 
     No action involving the obligation or expenditure of funds may be taken under one of the national service laws (as defined in section 12511(15)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) unless and until the Corporation for National and Community Service has sufficient appropriations available at the time such action is taken to satisfy the obligation to be incurred or make the expenditure to be made.
 
-([Pub. L. 103–82, title II, § 205][/us/pl/103/82/s205], Sept. 21, 1993, [107 Stat. 897][/us/stat/107/897].)
+([Pub. L. 103–82, title II][/us/pl/103/82/tII], § 205, Sept. 21, 1993, [107 Stat. 897][/us/stat/107/897].)
 
  __References in Text__ 
 
-    [Section 12511(15) of this title][/us/usc/t42/s12511/15], referred to in text, was redesignated section 12511(26) by [Pub. L. 111–13, title I, § 1102(b)(1)][/us/pl/111/13/s1102/b/1], Apr. 21, 2009, [123 Stat. 1467][/us/stat/123/1467].
+    [Section 12511(15) of this title][/us/usc/t42/s12511/15], referred to in text, was redesignated section 12511(26) by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1102(b)(1), Apr. 21, 2009, [123 Stat. 1467][/us/stat/123/1467].
 
  __Codification__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/103/82/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs205
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F897
 [/us/usc/t42/s12511/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12511%2F15
-[/us/pl/111/13/s1102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fb%2F1
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1467
 
 

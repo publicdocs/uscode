@@ -27,7 +27,7 @@
 
     (b) Any Federal agency (including any wholly owned Government corporation) having under its jurisdiction lands across which run any part of a utility system for housing under the jurisdiction of the Secretary is authorized to grant to the Secretary, or to the purchasers or transferees of such housing, easements (which may be perpetual) on such land for utility purposes.
 
-([June 28, 1948, ch. 688, § 2][/us/act/1948-06-28/ch688/s2], [62 Stat. 1063][/us/stat/62/1063]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([June 28, 1948, ch. 688][/us/act/1948-06-28/ch688], § 2, [62 Stat. 1063][/us/stat/62/1063]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Transfer of Functions__ 
 
-    Functions of Public Housing Administration and Housing and Home Finance Agency (of which Public Housing Administration was a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669], which is classified to [section 3534(a) of this title][/us/usc/t42/s3534/a]. Section 9(c) of such act, set out as a note under [section 3531 of this title][/us/usc/t42/s3531], provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
+    Functions of Public Housing Administration and Housing and Home Finance Agency (of which Public Housing Administration was a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669], which is classified to [section 3534(a) of this title][/us/usc/t42/s3534/a]. Section 9(c) of such act, set out as a note under [section 3531 of this title][/us/usc/t42/s3531], provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
 
 ----------
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/act/1948-06-28/ch688/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs2
+[/us/act/1948-06-28/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688
 [/us/stat/62/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1063
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/act/1948-06-28/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch440
 [/us/stat/54/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F681
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s3534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3534%2Fa
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531

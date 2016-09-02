@@ -49,7 +49,7 @@
 
         In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
 
-([Pub. L. 94–163, title III, § 381][/us/pl/94/163/s381], Dec. 22, 1975, [89 Stat. 939][/us/stat/89/939]; [Pub. L. 95–619, title V, § 501][/us/pl/95/619/s501], title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3275][/us/stat/92/3275], 3288; [Pub. L. 100–615, § 2(b)][/us/pl/100/615/s2/b], Nov. 5, 1988, [102 Stat. 3189][/us/stat/102/3189].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 381, Dec. 22, 1975, [89 Stat. 939][/us/stat/89/939]; [Pub. L. 95–619, title V][/us/pl/95/619/tV], § 501, title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3275][/us/stat/92/3275], 3288; [Pub. L. 100–615][/us/pl/100/615], § 2(b), Nov. 5, 1988, [102 Stat. 3189][/us/stat/102/3189].)
 
  __Codification__ 
 
@@ -59,9 +59,9 @@
 
     1988—Subsec. (c). [Pub. L. 100–615][/us/pl/100/615] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The President shall submit to the Congress an annual report concerning all steps taken under subsections (a) and (b) of this section.”
 
-    1978—Subsec. (b). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+    1978—Subsec. (b). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-    Subsecs. (d), (e). [Pub. L. 95–619, § 501][/us/pl/95/619/s501], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 95–619][/us/pl/95/619], § 501, added subsecs. (d) and (e).
 
  __Transfer of Functions__ 
 
@@ -107,18 +107,18 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/94/163/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs381
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F939
-[/us/pl/95/619/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs501
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3275
-[/us/pl/100/615/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fb
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3189
 [/us/usc/t42/s8258/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fb
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs501
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s7159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7159
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 

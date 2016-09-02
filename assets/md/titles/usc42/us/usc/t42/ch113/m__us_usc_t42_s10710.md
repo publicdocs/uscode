@@ -31,7 +31,7 @@
 
         Non-Federal funds received by the Institute, and funds received for projects funded in part by the Institute or by any recipient from a source other than the Institute, shall be accounted for and reported as receipts and disbursements separate and distinct from Federal funds.
 
-([Pub. L. 98–620, title II, § 211][/us/pl/98/620/s211], Nov. 8, 1984, [98 Stat. 3344][/us/stat/98/3344].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 211, Nov. 8, 1984, [98 Stat. 3344][/us/stat/98/3344].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs211
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3344
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336

@@ -21,7 +21,7 @@
 
     (b) such sums, not exceeding $100,000,000, as may be necessary for carrying out the provisions and purposes of this subchapter relating to housing in critical defense housing areas.
 
-([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 313, [65 Stat. 308][/us/stat/65/308]; [July 14, 1952, ch. 723, § 4][/us/act/1952-07-14/ch723/s4], [66 Stat. 602][/us/stat/66/602].)
+([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 313, [65 Stat. 308][/us/stat/65/308]; [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 4, [66 Stat. 602][/us/stat/66/602].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F308
-[/us/act/1952-07-14/ch723/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs4
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F602
 
 

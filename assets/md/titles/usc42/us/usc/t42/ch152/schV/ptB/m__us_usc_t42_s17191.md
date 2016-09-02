@@ -51,7 +51,7 @@
 
         The term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.
 
-([Pub. L. 110–140, title VI, § 612][/us/pl/110/140/s612], Dec. 19, 2007, [121 Stat. 1679][/us/stat/121/1679].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 612, Dec. 19, 2007, [121 Stat. 1679][/us/stat/121/1679].)
 
  __Short Title__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs612
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1679
 [/us/usc/t42/s17001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17001
 

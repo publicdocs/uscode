@@ -17,7 +17,7 @@
 
     There is established in the Executive Office of the President an Office of Science and Technology Policy (hereinafter referred to in this subchapter as the “Office”).
 
-([Pub. L. 94–282, title II, § 202][/us/pl/94/282/s202], May 11, 1976, [90 Stat. 463][/us/stat/90/463].)
+([Pub. L. 94–282, title II][/us/pl/94/282/tII], § 202, May 11, 1976, [90 Stat. 463][/us/stat/90/463].)
 
  __Short Title__ 
 
@@ -25,7 +25,7 @@
 
  __High-Resolution Information System Advisory Board__ 
 
-    [Pub. L. 102–245, title V, § 501][/us/pl/102/245/s501], Feb. 14, 1992, [106 Stat. 22][/us/stat/106/22], authorized the Director of the Office of Science and Technology Policy to establish within that office a High-Resolution Information Systems Advisory Board to monitor and, as appropriate, foster the development and competitiveness of United States-based high-resolution information systems industries, further provided that “high-resolution information systems” means equipment and techniques required to create, store, recover, and play back high-resolution images and accompanying sound, further provided for functions of the Board, including provision of guidance and advice relating to establishment of such industries as well as transfer of Federal technologies to the private sector, further provided for membership and procedures of the Board, including submission of annual report of its activities to the President and Congress, and further provided for limitation on functions of Board and appropriations through fiscal year 1993.
+    [Pub. L. 102–245, title V][/us/pl/102/245/tV], § 501, Feb. 14, 1992, [106 Stat. 22][/us/stat/106/22], authorized the Director of the Office of Science and Technology Policy to establish within that office a High-Resolution Information Systems Advisory Board to monitor and, as appropriate, foster the development and competitiveness of United States-based high-resolution information systems industries, further provided that “high-resolution information systems” means equipment and techniques required to create, store, recover, and play back high-resolution images and accompanying sound, further provided for functions of the Board, including provision of guidance and advice relating to establishment of such industries as well as transfer of Federal technologies to the private sector, further provided for membership and procedures of the Board, including submission of annual report of its activities to the President and Congress, and further provided for limitation on functions of Board and appropriations through fiscal year 1993.
 
 ----------
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/94/282/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs202
+[/us/pl/94/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtII
 [/us/stat/90/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F463
 [/us/pl/94/282/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs201
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601
-[/us/pl/102/245/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs501
+[/us/pl/102/245/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtV
 [/us/stat/106/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F22
 
 

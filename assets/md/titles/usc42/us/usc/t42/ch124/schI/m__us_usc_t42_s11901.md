@@ -33,15 +33,15 @@
 
     (8) anti-crime strategies should be improved through the expansion of community-oriented policing initiatives.
 
-([Pub. L. 100–690, title V, § 5122][/us/pl/100/690/s5122], Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301]; [Pub. L. 101–625, title V, § 581(a)][/us/pl/101/625/s581/a], Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245]; [Pub. L. 105–276, title V, § 586(b)][/us/pl/105/276/s586/b], Oct. 21, 1998, [112 Stat. 2646][/us/stat/112/2646].)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5122, Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 581(a), Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 586(b), Oct. 21, 1998, [112 Stat. 2646][/us/stat/112/2646].)
 
  __Amendments__ 
 
-    1998—Par. (2). [Pub. L. 105–276, § 586(b)(1)][/us/pl/105/276/s586/b/1], inserted “or violent” after “drug-related”.
+    1998—Par. (2). [Pub. L. 105–276][/us/pl/105/276], § 586(b)(1), inserted “or violent” after “drug-related”.
 
-    Par. (4). [Pub. L. 105–276, § 586(b)(2)(A)][/us/pl/105/276/s586/b/2/A], inserted “and violent” after “drug-related”.
+    Par. (4). [Pub. L. 105–276][/us/pl/105/276], § 586(b)(2)(A), inserted “and violent” after “drug-related”.
 
-    Pars. (6) to (8). [Pub. L. 105–276, § 586(b)(2)(B)][/us/pl/105/276/s586/b/2/B], (3), (4), added pars. (6) to (8).
+    Pars. (6) to (8). [Pub. L. 105–276][/us/pl/105/276], § 586(b)(2)(B), (3), (4), added pars. (6) to (8).
 
     1990—[Pub. L. 101–625][/us/pl/101/625] amended section generally. Prior to amendment, section read as follows: “The Congress finds that—
 
@@ -61,23 +61,23 @@
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–276, title V, § 586(a)][/us/pl/105/276/s586/a], Oct. 21, 1998, [112 Stat. 2646][/us/stat/112/2646], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 586(a), Oct. 21, 1998, [112 Stat. 2646][/us/stat/112/2646], provided that: 
 
 > “This section \[enacting sections 11906 to 11908 of this title, amending this section and sections 11902, 11903, 11904, and 11905 of this title, and repealing sections 11906 to 11909 of this title\] may be cited as the ‘Public and Assisted Housing Drug Elimination Program Amendments of 1998’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–227, title X, § 1051][/us/pl/103/227/s1051], Mar. 31, 1994, [108 Stat. 274][/us/stat/108/274], provided that: 
+[Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1051, Mar. 31, 1994, [108 Stat. 274][/us/stat/108/274], provided that: 
 
 > “This part \[part D (§§ 1051–1053) of title X of [Pub. L. 103–227][/us/pl/103/227], amending [section 11903a of this title][/us/usc/t42/s11903a]\] may be cited as the ‘Midnight Basketball League Training and Partnership Act’.”
 
  __Short Title__ 
 
-[Pub. L. 100–690, title V, § 5121][/us/pl/100/690/s5121], Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301], as amended by [Pub. L. 101–625, title V, § 581(a)][/us/pl/101/625/s581/a], Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245], provided that: 
+[Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5121, Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301], as amended by [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 581(a), Nov. 28, 1990, [104 Stat. 4245][/us/stat/104/4245], provided that: 
 
 > “This chapter \[chapter 2 (§§ 5121–5130) of subtitle C of title V of [Pub. L. 100–690][/us/pl/100/690], enacting this subchapter\] may be cited as the ‘Public and Assisted Housing Drug Elimination Act of 1990’.”
 
-[Pub. L. 100–690, title V, § 5141][/us/pl/100/690/s5141], Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303], provided that: 
+[Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5141, Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303], provided that: 
 
 > “This chapter \[chapter 3 (§§ 5141–5146) of subtitle C of title V of [Pub. L. 100–690][/us/pl/100/690], enacting subchapter II of this chapter\] may be cited as the ‘Drug-Free Public Housing Act of 1988’.”
 
@@ -88,31 +88,31 @@
 ----------
 ----------
 
-[/us/pl/100/690/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5122
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4301
-[/us/pl/101/625/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs581%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4245
-[/us/pl/105/276/s586/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2646
-[/us/pl/105/276/s586/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fb%2F1
-[/us/pl/105/276/s586/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fb%2F2%2FA
-[/us/pl/105/276/s586/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fb%2F2%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s586/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2646
-[/us/pl/103/227/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1051
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F274
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/usc/t42/s11903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11903a
-[/us/pl/100/690/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5121
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4301
-[/us/pl/101/625/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs581%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4245
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/690/s5141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5141
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4303
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

@@ -47,7 +47,7 @@
 
                 The Secretary shall apply the cost share under [section 1962d–16(b) of this title][/us/usc/t42/s1962d–16/b] to any activities carried out under this subsection.
 
-([Pub. L. 113–121, title III, § 3014][/us/pl/113/121/s3014], June 10, 2014, [128 Stat. 1287][/us/stat/128/1287].)
+([Pub. L. 113–121, title III][/us/pl/113/121/tIII], § 3014, June 10, 2014, [128 Stat. 1287][/us/stat/128/1287].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
 [/us/usc/t42/s1962d–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9316
 [/us/usc/t42/s1962d–16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9316%2Fb
-[/us/pl/113/121/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3014
+[/us/pl/113/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtIII
 [/us/stat/128/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1287
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

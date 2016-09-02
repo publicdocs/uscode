@@ -17,7 +17,7 @@
 
     Any standard or requirement adopted by a State pursuant to this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or any amendment made by this title, <sup>\[1\]</sup>  shall be applied uniformly to all health plans in each insurance market to which the standard and requirements apply. The preceding sentence shall also apply to a State standard or requirement relating to the standard or requirement required by this title  <sup>\[1\]</sup>  (or any such amendment) that is not the same as the standard or requirement but that is not preempted under [section 18041(d) of this title][/us/usc/t42/s18041/d].
 
-([Pub. L. 111–148, title I, § 1252][/us/pl/111/148/s1252], Mar. 23, 2010, [124 Stat. 162][/us/stat/124/162].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1252, Mar. 23, 2010, [124 Stat. 162][/us/stat/124/162].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s18041/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18041%2Fd
-[/us/pl/111/148/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1252
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F162
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130

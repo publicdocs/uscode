@@ -27,7 +27,7 @@
 
         The Secretary shall have adequate staff to support the Secretary in carrying out the Secretary’s responsibilities under this section.
 
-([Pub. L. 95–91, title II, § 213][/us/pl/95/91/s213], as added [Pub. L. 106–65, div. C, title XXXII, § 3203(a)][/us/pl/106/65/s3203/a], Oct. 5, 1999, [113 Stat. 954][/us/stat/113/954].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 213, as added [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3203(a), Oct. 5, 1999, [113 Stat. 954][/us/stat/113/954].)
 
  __Effective Date__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/95/91/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs213
-[/us/pl/106/65/s3203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3203%2Fa
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F954
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401

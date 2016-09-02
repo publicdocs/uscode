@@ -45,7 +45,7 @@
 
         (5) establish procedures to ensure that residential buildings can receive an energy efficiency rating at the time of sale and that such rating is communicated to potential buyers.
 
-([Pub. L. 95–619, title II, § 271][/us/pl/95/619/s271], as added [Pub. L. 102–486, title I, § 102(a)][/us/pl/102/486/s102/a], Oct. 24, 1992, [106 Stat. 2787][/us/stat/106/2787].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 271, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 102(a), Oct. 24, 1992, [106 Stat. 2787][/us/stat/106/2787].)
 
  __References in Text__ 
 
@@ -61,8 +61,8 @@
 ----------
 
 [/us/usc/t42/s12712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12712
-[/us/pl/95/619/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs271
-[/us/pl/102/486/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs102%2Fa
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2787
 [/us/pl/101/625/s946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs946
 [/us/usc/t42/s12712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12712

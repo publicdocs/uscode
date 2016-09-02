@@ -63,7 +63,7 @@
 
         For purposes of this section, the terms “Director of NIH”, “national research institute”, and “national center” have the meanings given such terms in [section 281 of this title][/us/usc/t42/s281].
 
-([Pub. L. 109–482, title I, § 105][/us/pl/109/482/s105], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].)
+([Pub. L. 109–482, title I][/us/pl/109/482/tI], § 105, Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].)
 
  __Codification__ 
 
@@ -87,7 +87,7 @@
 [/us/usc/t42/s289a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a
 [/us/usc/t42/s282/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fk
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/109/482/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs105
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3694
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281

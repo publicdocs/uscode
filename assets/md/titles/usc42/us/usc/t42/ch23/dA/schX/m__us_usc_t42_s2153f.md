@@ -27,7 +27,7 @@
 
     (b) Nothing in this Act shall affect the procedures or requirements applicable to agreements for cooperation entered into pursuant to sections 2121(c), 2164(b), or 2164(c) of this title or arrangements pursuant thereto as it was in effect immediately prior to March 10, 1978.
 
-([Pub. L. 95–242, title VI, § 603(a)][/us/pl/95/242/s603/a], (b), Mar. 10, 1978, [92 Stat. 152][/us/stat/92/152].)
+([Pub. L. 95–242, title VI][/us/pl/95/242/tVI], § 603(a), (b), Mar. 10, 1978, [92 Stat. 152][/us/stat/92/152].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/95/242/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fa
+[/us/pl/95/242/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtVI
 [/us/stat/92/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F152
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

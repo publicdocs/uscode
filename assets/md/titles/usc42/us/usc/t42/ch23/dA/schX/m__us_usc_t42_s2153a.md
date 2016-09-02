@@ -19,7 +19,7 @@
 
     (b) In addition to other requirements of law, no major critical component of any uranium enrichment, nuclear fuel reprocessing, or heavy water production facility shall be exported under any agreement for cooperation (except an agreement for cooperation pursuant to section 2121(c), 2164(b), or 2164(c) of this title) unless such agreement for cooperation specifically designates such components as items to be exported pursuant to the agreement for cooperation. For purposes of this subsection, the term “major critical component” means any component part or group of component parts which the President determines to be essential to the operation of a complete uranium enrichment, nuclear fuel reprocessing, or heavy water production facility.
 
-([Pub. L. 95–242, title IV, § 402][/us/pl/95/242/s402], Mar. 10, 1978, [92 Stat. 145][/us/stat/92/145].)
+([Pub. L. 95–242, title IV][/us/pl/95/242/tIV], § 402, Mar. 10, 1978, [92 Stat. 145][/us/stat/92/145].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160
-[/us/pl/95/242/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs402
+[/us/pl/95/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIV
 [/us/stat/92/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F145
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201

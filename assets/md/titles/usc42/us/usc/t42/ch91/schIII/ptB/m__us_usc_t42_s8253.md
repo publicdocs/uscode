@@ -569,7 +569,7 @@
 
             Not later than 1 year after December 19, 2007, the Director of the Office of Management and Budget shall evaluate and report to Congress on the compliance of each agency with this subsection.
 
-([Pub. L. 95–619, title V, § 543][/us/pl/95/619/s543], Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185]; [Pub. L. 102–486, title I, § 152(b)][/us/pl/102/486/s152/b], (c), Oct. 24, 1992, [106 Stat. 2844][/us/stat/106/2844], 2845; [Pub. L. 104–66, title I, § 1052(b)][/us/pl/104/66/s1052/b], Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718]; [Pub. L. 109–58, title I][/us/pl/109/58], §§ 102(a)(1), (b)–(e), 103, Aug. 8, 2005, [119 Stat. 606–608][/us/stat/119/606-608]; [Pub. L. 110–140, title IV][/us/pl/110/140], §§ 431, 432, 434, Dec. 19, 2007, [121 Stat. 1607][/us/stat/121/1607], 1614; [Pub. L. 112–210][/us/pl/112/210], §§ 8, 9, Dec. 18, 2012, [126 Stat. 1521][/us/stat/126/1521], 1522.)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 543, Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(b), (c), Oct. 24, 1992, [106 Stat. 2844][/us/stat/106/2844], 2845; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(b), Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], §§ 102(a)(1), (b)–(e), 103, Aug. 8, 2005, [119 Stat. 606–608][/us/stat/119/606-608]; [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], §§ 431, 432, 434, Dec. 19, 2007, [121 Stat. 1607][/us/stat/121/1607], 1614; [Pub. L. 112–210][/us/pl/112/210], §§ 8, 9, Dec. 18, 2012, [126 Stat. 1521][/us/stat/126/1521], 1522.)
 
  __References in Text__ 
 
@@ -579,11 +579,11 @@
 
  __Amendments__ 
 
-    2012—Subsec. (e)(3), (4). [Pub. L. 112–210, § 8][/us/pl/112/210/s8], added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: “Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under [section 8258(a) of this title][/us/usc/t42/s8258/a], each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable.”
+    2012—Subsec. (e)(3), (4). [Pub. L. 112–210][/us/pl/112/210], § 8, added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: “Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under [section 8258(a) of this title][/us/usc/t42/s8258/a], each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable.”
 
-    Subsec. (f). [Pub. L. 112–210, § 9(1)][/us/pl/112/210/s9/1], redesignated subsec. (f) relating to large capital energy investments as (g).
+    Subsec. (f). [Pub. L. 112–210][/us/pl/112/210], § 9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
 
-    Subsec. (f)(7)(A). [Pub. L. 112–210, § 9(2)][/us/pl/112/210/s9/2], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B) to certify compliance with the requirements for—
+    Subsec. (f)(7)(A). [Pub. L. 112–210][/us/pl/112/210], § 9(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B) to certify compliance with the requirements for—
 
     “(i) energy and water evaluations under paragraph (3);
 
@@ -591,43 +591,43 @@
 
     “(iii) follow-up on implemented measures under paragraph (5).”
 
-    Subsec. (g). [Pub. L. 112–210, § 9(1)][/us/pl/112/210/s9/1], redesignated subsec. (f) relating to large capital energy investments as (g).
+    Subsec. (g). [Pub. L. 112–210][/us/pl/112/210], § 9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
 
-    2007—Subsec. (a)(1). [Pub. L. 110–140, § 431][/us/pl/110/140/s431], added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percent for fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
+    2007—Subsec. (a)(1). [Pub. L. 110–140][/us/pl/110/140], § 431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percent for fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
 
-    Subsec. (e)(1). [Pub. L. 110–140, § 434(b)][/us/pl/110/140/s434/b], inserted after second sentence “Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2).”
+    Subsec. (e)(1). [Pub. L. 110–140][/us/pl/110/140], § 434(b), inserted after second sentence “Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2).”
 
-    Subsec. (f). [Pub. L. 110–140, § 434(a)][/us/pl/110/140/s434/a], added subsec. (f) relating to large capital energy investments.
+    Subsec. (f). [Pub. L. 110–140][/us/pl/110/140], § 434(a), added subsec. (f) relating to large capital energy investments.
 
-    [Pub. L. 110–140, § 432][/us/pl/110/140/s432], added subsec. (f) relating to use of energy and water efficiency measures in Federal buildings.
+    [Pub. L. 110–140][/us/pl/110/140], § 432, added subsec. (f) relating to use of energy and water efficiency measures in Federal buildings.
 
-    2005—Subsec. (a)(1). [Pub. L. 109–58, § 102(a)(1)][/us/pl/109/58/s102/a/1], substituted provisions relating to reduction of energy consumption in fiscal years 2006 to 2015 as compared to consumption in fiscal year 2003 and table of percentages specifying amount of reduction in each fiscal year for provisions relating to energy consumption during fiscal year 1995 at least 10 percent less than consumption during fiscal year 1985 and energy consumption during fiscal year 2000 at least 20 percent less than consumption during fiscal year 1985.
+    2005—Subsec. (a)(1). [Pub. L. 109–58][/us/pl/109/58], § 102(a)(1), substituted provisions relating to reduction of energy consumption in fiscal years 2006 to 2015 as compared to consumption in fiscal year 2003 and table of percentages specifying amount of reduction in each fiscal year for provisions relating to energy consumption during fiscal year 1995 at least 10 percent less than consumption during fiscal year 1985 and energy consumption during fiscal year 2000 at least 20 percent less than consumption during fiscal year 1985.
 
-    Subsec. (a)(3). [Pub. L. 109–58, § 102(b)][/us/pl/109/58/s102/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 109–58][/us/pl/109/58], § 102(b), added par. (3).
 
-    Subsec. (c)(1). [Pub. L. 109–58, § 102(c)][/us/pl/109/58/s102/c], added par. (1) and struck out former par. (1) which read as follows: “An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) of this section and the requirements of subsection (b)(1) of this section, any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments.”
+    Subsec. (c)(1). [Pub. L. 109–58][/us/pl/109/58], § 102(c), added par. (1) and struck out former par. (1) which read as follows: “An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) of this section and the requirements of subsection (b)(1) of this section, any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments.”
 
-    Subsec. (c)(2). [Pub. L. 109–58, § 102(d)][/us/pl/109/58/s102/d], substituted “standards for exclusion” for “impracticability standards”, “the exclusion” for “a finding of impracticability”, and “requirements of subsections (a) and (b)(1) of this section” for “energy consumption requirements”.
+    Subsec. (c)(2). [Pub. L. 109–58][/us/pl/109/58], § 102(d), substituted “standards for exclusion” for “impracticability standards”, “the exclusion” for “a finding of impracticability”, and “requirements of subsections (a) and (b)(1) of this section” for “energy consumption requirements”.
 
-    Subsec. (c)(3). [Pub. L. 109–58, § 102(e)][/us/pl/109/58/s102/e], added par. (3).
+    Subsec. (c)(3). [Pub. L. 109–58][/us/pl/109/58], § 102(e), added par. (3).
 
-    Subsec. (e). [Pub. L. 109–58, § 103][/us/pl/109/58/s103], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 103, added subsec. (e).
 
     1995—Subsec. (b)(2). [Pub. L. 104–66][/us/pl/104/66] in last sentence inserted “, as part of the report required under [section 8258(b) of this title][/us/usc/t42/s8258/b],” after “the Secretary shall” and struck out “promptly” after “Congress”.
 
-    1992—[Pub. L. 102–486, § 152(b)(1)][/us/pl/102/486/s152/b/1], substituted “requirements” for “goals” in section catchline.
+    1992—[Pub. L. 102–486][/us/pl/102/486], § 152(b)(1), substituted “requirements” for “goals” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–486, § 152(b)(2)][/us/pl/102/486/s152/b/2], (3), in heading substituted “requirement” for “goal” and in par. (1) inserted before period at end “and so that the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 2000 is at least 20 percent less than the energy consumption per gross square foot of its Federal buildings in use during fiscal year 1985”.
+    Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 152(b)(2), (3), in heading substituted “requirement” for “goal” and in par. (1) inserted before period at end “and so that the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 2000 is at least 20 percent less than the energy consumption per gross square foot of its Federal buildings in use during fiscal year 1985”.
 
-    Subsecs. (b), (c). [Pub. L. 102–486, § 152(b)(4)][/us/pl/102/486/s152/b/4], added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 102–486][/us/pl/102/486], § 152(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
 
-    Subsec. (d). [Pub. L. 102–486, § 152(b)(4)][/us/pl/102/486/s152/b/4], (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
+    Subsec. (d). [Pub. L. 102–486][/us/pl/102/486], § 152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
 
-    Subsec. (d)(1). [Pub. L. 102–486, § 152(c)(2)][/us/pl/102/486/s152/c/2], added par. (1) and struck out former par. (1) which read as follows: “prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
+    Subsec. (d)(1). [Pub. L. 102–486][/us/pl/102/486], § 152(c)(2), added par. (1) and struck out former par. (1) which read as follows: “prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
 
-    Subsec. (d)(2). [Pub. L. 102–486, § 152(c)(3)][/us/pl/102/486/s152/c/3], inserted before semicolon at end “and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to [section 8258b of this title][/us/usc/t42/s8258b]”.
+    Subsec. (d)(2). [Pub. L. 102–486][/us/pl/102/486], § 152(c)(3), inserted before semicolon at end “and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to [section 8258b of this title][/us/usc/t42/s8258b]”.
 
-    Subsec. (d)(3) to (5). [Pub. L. 102–486, § 152(c)(4)][/us/pl/102/486/s152/c/4], (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
+    Subsec. (d)(3) to (5). [Pub. L. 102–486][/us/pl/102/486], § 152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
 
     1988—[Pub. L. 100–615][/us/pl/100/615] amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
 
@@ -637,13 +637,13 @@
 
  __Reporting Baseline__ 
 
-[Pub. L. 109–58, title I, § 102(a)(2)][/us/pl/109/58/s102/a/2], Aug. 8, 2005, [119 Stat. 606][/us/stat/119/606], provided that: 
+[Pub. L. 109–58, title I][/us/pl/109/58/tI], § 102(a)(2), Aug. 8, 2005, [119 Stat. 606][/us/stat/119/606], provided that: 
 
 > “The energy reduction goals and baseline established in paragraph (1) of section 543(a) of the National Energy Conservation Policy Act ([42 U.S.C. 8253(a)(1)][/us/usc/t42/s8253/a/1]), as amended by this subsection, supersede all previous goals and baselines under such paragraph, and related reporting requirements.”
 
  __Survey of Energy Saving Potential__ 
 
-    [Pub. L. 100–615, § 3][/us/pl/100/615/s3], Nov. 5, 1988, [102 Stat. 3189][/us/stat/102/3189], which authorized Secretary of Energy to carry out an energy survey to determine maximum potential cost effective energy savings in federally used buildings and recommend cost effective energy efficiency and renewable energy improvements in those buildings, devise a plan for implementing such survey, and report its findings and conclusions to Congress, was repealed by [Pub. L. 102–486, title I, § 152(i)(3)][/us/pl/102/486/s152/i/3], Oct. 24, 1992, [106 Stat. 2851][/us/stat/106/2851].
+    [Pub. L. 100–615][/us/pl/100/615], § 3, Nov. 5, 1988, [102 Stat. 3189][/us/stat/102/3189], which authorized Secretary of Energy to carry out an energy survey to determine maximum potential cost effective energy savings in federally used buildings and recommend cost effective energy efficiency and renewable energy improvements in those buildings, devise a plan for implementing such survey, and report its findings and conclusions to Congress, was repealed by [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(i)(3), Oct. 24, 1992, [106 Stat. 2851][/us/stat/106/2851].
 
 ----------
 
@@ -660,17 +660,17 @@
 [/us/usc/t42/s8254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8254
 [/us/usc/t42/s8258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fa
 [/us/usc/t42/s8254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8254
-[/us/pl/95/619/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs543
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3277
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3185
-[/us/pl/102/486/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2844
-[/us/pl/104/66/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F718
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/606-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F606-608
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1607
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1521
@@ -680,41 +680,41 @@
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
 [/us/usc/t42/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13201
-[/us/pl/112/210/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs8
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/usc/t42/s8258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fa
-[/us/pl/112/210/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs9%2F1
-[/us/pl/112/210/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs9%2F2
-[/us/pl/112/210/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs9%2F1
-[/us/pl/110/140/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs431
-[/us/pl/110/140/s434/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs434%2Fb
-[/us/pl/110/140/s434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs434%2Fa
-[/us/pl/110/140/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs432
-[/us/pl/109/58/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fa%2F1
-[/us/pl/109/58/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fb
-[/us/pl/109/58/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fc
-[/us/pl/109/58/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fd
-[/us/pl/109/58/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fe
-[/us/pl/109/58/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs103
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t42/s8258/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fb
-[/us/pl/102/486/s152/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fb%2F1
-[/us/pl/102/486/s152/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fb%2F2
-[/us/pl/102/486/s152/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fb%2F4
-[/us/pl/102/486/s152/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fb%2F4
-[/us/pl/102/486/s152/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fc%2F2
-[/us/pl/102/486/s152/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fc%2F3
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s8258b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258b
-[/us/pl/102/486/s152/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fc%2F4
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/109/58/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fa%2F2
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F606
 [/us/usc/t42/s8253/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253%2Fa%2F1
-[/us/pl/100/615/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs3
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3189
-[/us/pl/102/486/s152/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fi%2F3
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2851
 
 

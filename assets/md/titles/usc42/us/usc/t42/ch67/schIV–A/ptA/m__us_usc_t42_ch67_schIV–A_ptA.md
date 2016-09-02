@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–236, § 7][/us/pl/102/236/s7], Dec. 12, 1991, [105 Stat. 1816][/us/stat/105/1816], substituted “Projects Regarding Abandonment of Infants and Young Children in Hospitals” for “Foster Care and Residential Care of Infants and Young Children Abandoned in Hospitals” in part heading.
+    1991—[Pub. L. 102–236][/us/pl/102/236], § 7, Dec. 12, 1991, [105 Stat. 1816][/us/stat/105/1816], substituted “Projects Regarding Abandonment of Infants and Young Children in Hospitals” for “Foster Care and Residential Care of Infants and Young Children Abandoned in Hospitals” in part heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/236/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs7
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
 [/us/stat/105/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1816
 
 

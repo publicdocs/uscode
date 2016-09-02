@@ -17,7 +17,7 @@
 
     The Secretary shall submit an annual report to the Committee on Energy and Commerce of the United States House of Representatives and to the Committee on Energy and Natural Resources of the Senate concerning the status of energy export development in Latin America and efforts by the Secretary and other departments and agencies of the United States to promote energy integration with Latin America. The report shall contain a detailed analysis of the status of energy export development in Mexico and a description of all significant efforts by the Secretary and other departments and agencies to promote a constructive relationship with Mexico regarding the development of that nation’s energy capacity. In particular this report shall outline efforts the Secretary and other departments and agencies have made to ensure that regulatory approval and oversight of United States/Mexico border projects that result in the expansion of Mexican energy capacity are effectively coordinated across departments and with the Mexican government.
 
-([Pub. L. 109–58, title XVIII, § 1807][/us/pl/109/58/s1807], Aug. 8, 2005, [119 Stat. 1124][/us/stat/119/1124].)
+([Pub. L. 109–58, title XVIII][/us/pl/109/58/tXVIII], § 1807, Aug. 8, 2005, [119 Stat. 1124][/us/stat/119/1124].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1807
+[/us/pl/109/58/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVIII
 [/us/stat/119/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1124
 
 

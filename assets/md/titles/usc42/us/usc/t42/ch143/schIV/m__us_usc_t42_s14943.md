@@ -31,7 +31,7 @@
 
         (2) Fees collected under paragraph (1) shall be retained and deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing such services. Such fees shall remain available for obligation until expended.
 
-([Pub. L. 106–279, title IV, § 403][/us/pl/106/279/s403], Oct. 6, 2000, [114 Stat. 841][/us/stat/114/841]; [Pub. L. 107–228, div. A, title II, § 211(a)][/us/pl/107/228/s211/a], Sept. 30, 2002, [116 Stat. 1365][/us/stat/116/1365]; [Pub. L. 112–276, § 3(a)][/us/pl/112/276/s3/a], Jan. 14, 2013, [126 Stat. 2467][/us/stat/126/2467].)
+([Pub. L. 106–279, title IV][/us/pl/106/279/tIV], § 403, Oct. 6, 2000, [114 Stat. 841][/us/stat/114/841]; [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 211(a), Sept. 30, 2002, [116 Stat. 1365][/us/stat/116/1365]; [Pub. L. 112–276][/us/pl/112/276], § 3(a), Jan. 14, 2013, [126 Stat. 2467][/us/stat/126/2467].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
     2013—Subsec. (c). [Pub. L. 112–276][/us/pl/112/276] struck out subsec. (c). Text read as follows: “No funds collected under the authority of this section may be made available to an accrediting entity to carry out the purposes of this chapter.”
 
-    2002—Subsec. (b)(2). [Pub. L. 107–228, § 211(a)(1)][/us/pl/107/228/s211/a/1], inserted “Such fees shall remain available for obligation until expended.” at end.
+    2002—Subsec. (b)(2). [Pub. L. 107–228][/us/pl/107/228], § 211(a)(1), inserted “Such fees shall remain available for obligation until expended.” at end.
 
-    Subsec. (b)(3). [Pub. L. 107–228, § 211(a)(2)][/us/pl/107/228/s211/a/2], struck out par. (3) which read as follows: “Fees authorized under this section shall be available for obligation only to the extent and in the amount provided in advance in appropriations Acts.”
+    Subsec. (b)(3). [Pub. L. 107–228][/us/pl/107/228], § 211(a)(2), struck out par. (3) which read as follows: “Fees authorized under this section shall be available for obligation only to the extent and in the amount provided in advance in appropriations Acts.”
 
  __Effective Date__ 
 
@@ -56,18 +56,18 @@
 ----------
 ----------
 
-[/us/pl/106/279/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs403
+[/us/pl/106/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtIV
 [/us/stat/114/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F841
-[/us/pl/107/228/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs211%2Fa
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1365
-[/us/pl/112/276/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276%2Fs3%2Fa
+[/us/pl/112/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276
 [/us/stat/126/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2467
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901
 [/us/pl/112/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276
-[/us/pl/107/228/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs211%2Fa%2F1
-[/us/pl/107/228/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs211%2Fa%2F2
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901
 

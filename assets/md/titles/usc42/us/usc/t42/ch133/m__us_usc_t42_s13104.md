@@ -41,7 +41,7 @@
 
         States receiving grants under this section shall make information generated under the grants available to the Administrator.
 
-([Pub. L. 101–508, title VI, § 6605][/us/pl/101/508/s6605], Nov. 5, 1990, [104 Stat. 1388–323][/us/stat/104/1388-323].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6605, Nov. 5, 1990, [104 Stat. 1388–323][/us/stat/104/1388-323].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/508/s6605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6605
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-323
 
 

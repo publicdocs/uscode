@@ -61,15 +61,15 @@
 
         (3) The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made in proportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able to use during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) of this section for such fiscal year.
 
-([Pub. L. 99–319, title I, § 112][/us/pl/99/319/s112], May 23, 1986, [100 Stat. 483][/us/stat/100/483]; [Pub. L. 100–509, § 7(e)][/us/pl/100/509/s7/e], Oct. 20, 1988, [102 Stat. 2545][/us/stat/102/2545]; [Pub. L. 106–310, div. B, title XXXII, § 3206(d)][/us/pl/106/310/s3206/d], (e), Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194], 1195.)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 112, May 23, 1986, [100 Stat. 483][/us/stat/100/483]; [Pub. L. 100–509][/us/pl/100/509], § 7(e), Oct. 20, 1988, [102 Stat. 2545][/us/stat/102/2545]; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(d), (e), Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194], 1195.)
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1)(B). [Pub. L. 106–310, § 3206(e)(1)][/us/pl/106/310/s3206/e/1], substituted “Marshall Islands, the Federated States of Micronesia, the Republic of Palau” for “Trust Territory of the Pacific Islands”.
+    2000—Subsec. (a)(1)(B). [Pub. L. 106–310][/us/pl/106/310], § 3206(e)(1), substituted “Marshall Islands, the Federated States of Micronesia, the Republic of Palau” for “Trust Territory of the Pacific Islands”.
 
-    Subsec. (a)(2). [Pub. L. 106–310, § 3206(d)][/us/pl/106/310/s3206/d], amended par. (2) generally. Prior to amendment, par. (2) specified minimum amounts of allotments to eligible systems of each State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands based on whether the total amount appropriated in a fiscal year was at least $13,000,000 or less than $13,000,000.
+    Subsec. (a)(2). [Pub. L. 106–310][/us/pl/106/310], § 3206(d), amended par. (2) generally. Prior to amendment, par. (2) specified minimum amounts of allotments to eligible systems of each State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands based on whether the total amount appropriated in a fiscal year was at least $13,000,000 or less than $13,000,000.
 
-    Subsec. (a)(3). [Pub. L. 106–310, § 3206(e)(2)][/us/pl/106/310/s3206/e/2], struck out par. (3) which read as follows: “In any case in which the total amount appropriated under [section 10827 of this title][/us/usc/t42/s10827] for a fiscal year exceeds the total amount appropriated under such section, as in effect on October 19, 1988, for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under [section 720(c)(1) of title 29][/us/usc/t29/s720/c/1], the Secretary shall increase each of the allotments under clauses (i)(II) and (ii)(II) of subparagraph (A) and clauses (i) and (ii) of subparagraph (B) of paragraph (2) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
+    Subsec. (a)(3). [Pub. L. 106–310][/us/pl/106/310], § 3206(e)(2), struck out par. (3) which read as follows: “In any case in which the total amount appropriated under [section 10827 of this title][/us/usc/t42/s10827] for a fiscal year exceeds the total amount appropriated under such section, as in effect on October 19, 1988, for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under [section 720(c)(1) of title 29][/us/usc/t29/s720/c/1], the Secretary shall increase each of the allotments under clauses (i)(II) and (ii)(II) of subparagraph (A) and clauses (i) and (ii) of subparagraph (B) of paragraph (2) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
 
     “(A) the total amount appropriated under [section 10827 of this title][/us/usc/t42/s10827] for the fiscal year for which the increase in minimum allotment is made, minus;
 
@@ -77,13 +77,13 @@
 
     bears to the total amount appropriated under [section 10827 of this title][/us/usc/t42/s10827] for such preceding fiscal year.”
 
-    1988—Subsec. (a)(2). [Pub. L. 100–509, § 7(e)(1)][/us/pl/100/509/s7/e/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding paragraph (1) and subject to the availability of appropriations under [section 10827 of this title][/us/usc/t42/s10827]—
+    1988—Subsec. (a)(2). [Pub. L. 100–509][/us/pl/100/509], § 7(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding paragraph (1) and subject to the availability of appropriations under [section 10827 of this title][/us/usc/t42/s10827]—
 
     “(A) the amount of the allotment of the eligible system of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico shall not be less than $125,000; and
 
     “(B) the amount of the allotment of the eligible system of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands shall not be less than $67,000.”
 
-    Subsec. (a)(3). [Pub. L. 100–509, § 7(e)(2)][/us/pl/100/509/s7/e/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 100–509][/us/pl/100/509], § 7(e)(2), added par. (3).
 
 ----------
 
@@ -97,22 +97,22 @@
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
-[/us/pl/99/319/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs112
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F483
-[/us/pl/100/509/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fe
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2545
-[/us/pl/106/310/s3206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fd
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1194
-[/us/pl/106/310/s3206/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fe%2F1
-[/us/pl/106/310/s3206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fd
-[/us/pl/106/310/s3206/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fe%2F2
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
 [/us/usc/t29/s720/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720%2Fc%2F1
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
-[/us/pl/100/509/s7/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fe%2F1
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/usc/t42/s10827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10827
-[/us/pl/100/509/s7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fe%2F2
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 
 

@@ -45,7 +45,7 @@
 
         (4) the policies and procedures of this chapter will be administered in a manner which is consistent with fair housing requirements and which assures all persons their rights under title VIII of the Act of April 11, 1968 ([Public Law 90–284][/us/pl/90/284]), commonly known as the Civil Rights Act of 1968 \[[42 U.S.C. 3601][/us/usc/t42/s3601] et seq.\], and title VI of the Civil Rights Act of 1964 \[[42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.\].
 
-([Pub. L. 91–646, title II, § 201][/us/pl/91/646/s201], Jan. 2, 1971, [84 Stat. 1895][/us/stat/84/1895]; [Pub. L. 100–17, title IV, § 404][/us/pl/100/17/s404], Apr. 2, 1987, [101 Stat. 248][/us/stat/101/248].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 201, Jan. 2, 1971, [84 Stat. 1895][/us/stat/84/1895]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 404, Apr. 2, 1987, [101 Stat. 248][/us/stat/101/248].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 91–646, title II, § 220(b)][/us/pl/91/646/s220/b], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903], provided that: 
+[Pub. L. 91–646, title II][/us/pl/91/646/tII], § 220(b), Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903], provided that: 
 
 > “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions thereof under subsection (a) of this section \[repealing sections 1415(7)(b)(iii), (8) second sentence, 1465, 2473(b)(14), 3074, and 3307(b), (c) of this title, [section 2680 of Title 10][/us/usc/t10/s2680], Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and section 1606(b) of former Title 49, Transportation, and provisions set out as notes under sections 501 and 511 of Title 23\].”
 
@@ -81,9 +81,9 @@
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/91/646/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs201
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1895
-[/us/pl/100/17/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs404
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F248
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
@@ -103,7 +103,7 @@
 [/us/pl/100/17/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs412
 [/us/pl/100/17/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs418
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/91/646/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fb
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
 [/us/usc/t10/s2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2680
 

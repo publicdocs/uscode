@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subchapter is based on part Z, formerly part M, of title I of [Pub. L. 90–351][/us/pl/90/351], as added by [Pub. L. 96–157, § 2][/us/pl/96/157/s2], and redesignated by [Pub. L. 99–570, § 1552(a)(1)][/us/pl/99/570/s1552/a/1], [Pub. L. 101–647][/us/pl/101/647], §§ 241(a)(1)(A), 801(a)(1), [Pub. L. 102–521, § 4(a)(1)][/us/pl/102/521/s4/a/1], [Pub. L. 103–322][/us/pl/103/322], §§ 10003(a)(1), 20201(a)(1), 32101(a)(1), 40121(a)(1), 40231(a)(1), 50001(a)(1), 210201(a)(1), 210302(c)(1)(A), and [Pub. L. 105–181, § 3(a)(1)][/us/pl/105/181/s3/a/1].
+    Subchapter is based on part Z, formerly part M, of title I of [Pub. L. 90–351][/us/pl/90/351], as added by [Pub. L. 96–157][/us/pl/96/157], § 2, and redesignated by [Pub. L. 99–570][/us/pl/99/570], § 1552(a)(1), [Pub. L. 101–647][/us/pl/101/647], §§ 241(a)(1)(A), 801(a)(1), [Pub. L. 102–521][/us/pl/102/521], § 4(a)(1), [Pub. L. 103–322][/us/pl/103/322], §§ 10003(a)(1), 20201(a)(1), 32101(a)(1), 40121(a)(1), 40231(a)(1), 50001(a)(1), 210201(a)(1), 210302(c)(1)(A), and [Pub. L. 105–181][/us/pl/105/181], § 3(a)(1).
 
 ----------
 
@@ -27,11 +27,11 @@
 ----------
 
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
-[/us/pl/99/570/s1552/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1552%2Fa%2F1
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/102/521/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs4%2Fa%2F1
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/105/181/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181%2Fs3%2Fa%2F1
+[/us/pl/105/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181
 
 

@@ -121,11 +121,11 @@
 
             (D) Notwithstanding any of the preceding provisions of this subsection, if a House has approved a resolution with respect to a rationing contingency plan, then it shall not be in order to consider in that House any other resolution under this section with respect to the approval of such plan.
 
-([Pub. L. 94–163, title V, § 552][/us/pl/94/163/s552], Dec. 22, 1975, [89 Stat. 967][/us/stat/89/967]; [Pub. L. 96–102, title I][/us/pl/96/102], §§ 103(b)(2), 105(a)(4), (b)(6), Nov. 5, 1979, [93 Stat. 753][/us/stat/93/753], 756; [Pub. L. 105–388, § 5(a)(16)][/us/pl/105/388/s5/a/16], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 552, Dec. 22, 1975, [89 Stat. 967][/us/stat/89/967]; [Pub. L. 96–102, title I][/us/pl/96/102/tI], §§ 103(b)(2), 105(a)(4), (b)(6), Nov. 5, 1979, [93 Stat. 753][/us/stat/93/753], 756; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(16), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
 
  __References in Text__ 
 
-    [Section 6261 of this title][/us/usc/t42/s6261], referred to in subsecs. (a), (b)(1), (2)(A), and (d)(2)(B), was repealed by [Pub. L. 106–469, title I, § 104(1)][/us/pl/106/469/s104/1], Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].
+    [Section 6261 of this title][/us/usc/t42/s6261], referred to in subsecs. (a), (b)(1), (2)(A), and (d)(2)(B), was repealed by [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 104(1), Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].
 
  __Amendments__ 
 
@@ -133,17 +133,17 @@
 
     1979—Subsec. (b). [Pub. L. 96–102][/us/pl/96/102], §§ 103(b)(2)(A), 105(b)(6), designated existing provisions as par. (1) and substituted “No such energy conservation contingency plan” for “No such contingency plan”, “section 6261(b)” for “section 6261(a)(2)”, and “subsection (d)(2)(A)” for “subsection (d)(2)”, and added par. (2).
 
-    Subsec. (c)(2). [Pub. L. 96–102, § 103(b)(2)(B)][/us/pl/96/102/s103/b/2/B], substituted “calendar-day period involved” for “60-calendar-day period”.
+    Subsec. (c)(2). [Pub. L. 96–102][/us/pl/96/102], § 103(b)(2)(B), substituted “calendar-day period involved” for “60-calendar-day period”.
 
     Subsec. (d)(2). [Pub. L. 96–102][/us/pl/96/102], §§ 103(b)(2)(C), 105(a)(4), designated existing provisions as subpar. (A), substituted “For purposes of applying this section with respect to any energy conservation contingency plan” for “For purposes of this subsection” and “energy conservation contingency plan” for “contingency plan” in two places, and added subpar. (B).
 
-    Subsec. (d)(4)(A). [Pub. L. 96–102, § 103(b)(2)(D)][/us/pl/96/102/s103/b/2/D], inserted “in the case of any energy conservation contingency plan or at the end of 10 calendar days after its referral in the case of any rationing contingency plan” after “after its referral”.
+    Subsec. (d)(4)(A). [Pub. L. 96–102][/us/pl/96/102], § 103(b)(2)(D), inserted “in the case of any energy conservation contingency plan or at the end of 10 calendar days after its referral in the case of any rationing contingency plan” after “after its referral”.
 
-    Subsec. (d)(4)(B). [Pub. L. 96–102, § 103(b)(2)(E)][/us/pl/96/102/s103/b/2/E], substituted “Except to the extent provided in paragraph (7)(A), an amendment” for “An amendment”.
+    Subsec. (d)(4)(B). [Pub. L. 96–102][/us/pl/96/102], § 103(b)(2)(E), substituted “Except to the extent provided in paragraph (7)(A), an amendment” for “An amendment”.
 
-    Subsec. (d)(5)(B). [Pub. L. 96–102, § 103(b)(2)(F)][/us/pl/96/102/s103/b/2/F], substituted “Except to the extent provided in paragraph (7)(B), an amendment” for “An amendment”.
+    Subsec. (d)(5)(B). [Pub. L. 96–102][/us/pl/96/102], § 103(b)(2)(F), substituted “Except to the extent provided in paragraph (7)(B), an amendment” for “An amendment”.
 
-    Subsec. (d)(7). [Pub. L. 96–102, § 103(b)(2)(G)][/us/pl/96/102/s103/b/2/G], added par. (7).
+    Subsec. (d)(7). [Pub. L. 96–102][/us/pl/96/102], § 103(b)(2)(G), added par. (7).
 
  __Effective Date of 1979 Amendment__ 
 
@@ -156,23 +156,23 @@
 ----------
 ----------
 
-[/us/pl/94/163/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs552
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F967
-[/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
+[/us/pl/96/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtI
 [/us/stat/93/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F753
-[/us/pl/105/388/s5/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F16
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
 [/us/usc/t42/s6261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6261
-[/us/pl/106/469/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs104%2F1
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2033
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
-[/us/pl/96/102/s103/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs103%2Fb%2F2%2FB
 [/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
-[/us/pl/96/102/s103/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs103%2Fb%2F2%2FD
-[/us/pl/96/102/s103/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs103%2Fb%2F2%2FE
-[/us/pl/96/102/s103/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs103%2Fb%2F2%2FF
-[/us/pl/96/102/s103/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs103%2Fb%2F2%2FG
+[/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
+[/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
+[/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
+[/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
+[/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
 [/us/pl/96/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102
 [/us/pl/96/102/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs302
 [/us/usc/t42/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8501

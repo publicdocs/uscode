@@ -53,11 +53,11 @@
 
         (3) to accelerate the growth of a commercially viable and competitive industry to make wind energy systems available to the general public as an option in order to reduce national consumption of fossil fuel.
 
-([Pub. L. 96–345, § 2][/us/pl/96/345/s2], Sept. 8, 1980, [94 Stat. 1139][/us/stat/94/1139].)
+([Pub. L. 96–345][/us/pl/96/345], § 2, Sept. 8, 1980, [94 Stat. 1139][/us/stat/94/1139].)
 
  __Short Title__ 
 
-[Pub. L. 96–345, § 1][/us/pl/96/345/s1], Sept. 8, 1980, [94 Stat. 1139][/us/stat/94/1139], provided: 
+[Pub. L. 96–345][/us/pl/96/345], § 1, Sept. 8, 1980, [94 Stat. 1139][/us/stat/94/1139], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Wind Energy Systems Act of 1980’.”
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/96/345/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs2
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1139
-[/us/pl/96/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs1
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1139
 
 

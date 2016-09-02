@@ -31,7 +31,7 @@
 
         (D) to carry out sections 6991i, 6991j, 6991k, and 6991l of this title $55,000,000 for each of fiscal years 2006 through 2011.
 
-([Pub. L. 89–272, title II, § 9014][/us/pl/89/272/s9014], as added [Pub. L. 109–58, title XV, § 1531(a)][/us/pl/109/58/s1531/a], Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104]; amended [Pub. L. 109–168, § 1(a)(3)][/us/pl/109/168/s1/a/3], Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580]; [Pub. L. 109–432, div. A, title II, § 210(b)][/us/pl/109/432/s210/b], Dec. 20, 2006, [120 Stat. 2947][/us/stat/120/2947]; [Pub. L. 109–433, § 1(b)][/us/pl/109/433/s1/b], Dec. 20, 2006, [120 Stat. 3196][/us/stat/120/3196].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9014, as added [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1531(a), Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104]; amended [Pub. L. 109–168][/us/pl/109/168], § 1(a)(3), Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580]; [Pub. L. 109–432, div. A, title II][/us/pl/109/432/dA/tII], § 210(b), Dec. 20, 2006, [120 Stat. 2947][/us/stat/120/2947]; [Pub. L. 109–433][/us/pl/109/433], § 1(b), Dec. 20, 2006, [120 Stat. 3196][/us/stat/120/3196].)
 
  __Amendments__ 
 
@@ -49,14 +49,14 @@
 [/us/usc/t42/s6991b/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fh
 [/us/usc/t42/s6991b/h/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fh%2F12
 [/us/usc/t42/s6991b/h/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fh%2F12
-[/us/pl/89/272/s9014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9014
-[/us/pl/109/58/s1531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1531%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1104
-[/us/pl/109/168/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168%2Fs1%2Fa%2F3
+[/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 [/us/stat/119/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3580
-[/us/pl/109/432/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs210%2Fb
+[/us/pl/109/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtII
 [/us/stat/120/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2947
-[/us/pl/109/433/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F433%2Fs1%2Fb
+[/us/pl/109/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F433
 [/us/stat/120/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3196
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F433

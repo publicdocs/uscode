@@ -113,7 +113,7 @@
 
         The Secretary may provide technical assistance to States in planning and carrying out activities under this subchapter.
 
-([Pub. L. 97–35, title VI, § 670D][/us/pl/97/35/s670D], as added [Pub. L. 98–558, title I, § 109][/us/pl/98/558/s109], Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880]; amended [Pub. L. 99–425, title III, § 302][/us/pl/99/425/s302], Sept. 30, 1986, [100 Stat. 967][/us/stat/100/967]; [Pub. L. 101–501, title III][/us/pl/101/501], §§ 302, 303, 305(a), Nov. 3, 1990, [104 Stat. 1249][/us/stat/104/1249], 1250.)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 670D, as added [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 109, Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880]; amended [Pub. L. 99–425, title III][/us/pl/99/425/tIII], § 302, Sept. 30, 1986, [100 Stat. 967][/us/stat/100/967]; [Pub. L. 101–501, title III][/us/pl/101/501/tIII], §§ 302, 303, 305(a), Nov. 3, 1990, [104 Stat. 1249][/us/stat/104/1249], 1250.)
 
  __References in Text__ 
 
@@ -125,29 +125,29 @@
 
     Subsec. (b)(1). [Pub. L. 101–501][/us/pl/101/501], §§ 303(a)(2), (3), 305(a)(2), struck out “for fiscal year 1985 and fiscal year 1986” before “may be used”, inserted “operation,” after “establishment,”, struck out “in public or private school facilities or in community centers in communities” after “before and after school”, and inserted at end “Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.”
 
-    Subsec. (b)(2)(D). [Pub. L. 101–501, § 305(a)(3)(A)][/us/pl/101/501/s305/a/3/A], inserted “school-age children,” after “diverse” and inserted comma after last reference to “children”.
+    Subsec. (b)(2)(D). [Pub. L. 101–501][/us/pl/101/501], § 305(a)(3)(A), inserted “school-age children,” after “diverse” and inserted comma after last reference to “children”.
 
-    Subsec. (b)(2)(F). [Pub. L. 101–501, § 305(a)(3)(B)][/us/pl/101/501/s305/a/3/B], substituted “chief executive officer of the State” for “Governor” and struck out “the provisions of” before “this Act”.
+    Subsec. (b)(2)(F). [Pub. L. 101–501][/us/pl/101/501], § 305(a)(3)(B), substituted “chief executive officer of the State” for “Governor” and struck out “the provisions of” before “this Act”.
 
-    Subsec. (c). [Pub. L. 101–501, § 302][/us/pl/101/501/s302], designated existing provision as par. (1), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “Except as provided in paragraph (2), of” for “Of”, and added par. (2).
+    Subsec. (c). [Pub. L. 101–501][/us/pl/101/501], § 302, designated existing provision as par. (1), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “Except as provided in paragraph (2), of” for “Of”, and added par. (2).
 
-    Subsec. (d). [Pub. L. 101–501, § 303(b)][/us/pl/101/501/s303/b], redesignated pars. (2), (4), and (5) as (1), (2), and (3), respectively, and struck out former pars. (1) and (3) which read as follows:
+    Subsec. (d). [Pub. L. 101–501][/us/pl/101/501], § 303(b), redesignated pars. (2), (4), and (5) as (1), (2), and (3), respectively, and struck out former pars. (1) and (3) which read as follows:
 
     “(1) pay the costs of operation of any resource and referral system or before or after school child care program established, expanded, or improved under subsection (a) of this section;
 
     “(3) subsidize the direct provision of dependent care services including child care services;”.
 
-    Subsec. (d)(1). [Pub. L. 101–501, § 305(a)(4)][/us/pl/101/501/s305/a/4], which directed the substitution of “subsections (a) and (b) of this section” for “subsection (a) of this section”, could not be executed because of the intervening amendment by [Pub. L. 101–501, § 303(b)][/us/pl/101/501/s303/b], see above.
+    Subsec. (d)(1). [Pub. L. 101–501][/us/pl/101/501], § 305(a)(4), which directed the substitution of “subsections (a) and (b) of this section” for “subsection (a) of this section”, could not be executed because of the intervening amendment by [Pub. L. 101–501][/us/pl/101/501], § 303(b), see above.
 
     Subsec. (f). [Pub. L. 101–501][/us/pl/101/501], §§ 303(a)(4), 305(a)(5), inserted “operate,” after “expand,” and substituted “which are provided before October 30, 1984,” for “, which prior to October 30, 1984, are provided”.
 
-    Subsec. (g). [Pub. L. 101–501, § 305(a)(6)][/us/pl/101/501/s305/a/6], substituted “carrying out activities” for “operating activities to be carried out”.
+    Subsec. (g). [Pub. L. 101–501][/us/pl/101/501], § 305(a)(6), substituted “carrying out activities” for “operating activities to be carried out”.
 
-    1986—Subsec. (a). [Pub. L. 99–425, § 302(a)][/us/pl/99/425/s302/a], designated existing provisions as par. (1), substituted “system may include” for “system shall include”, redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: “In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided”, and added par. (2).
+    1986—Subsec. (a). [Pub. L. 99–425][/us/pl/99/425], § 302(a), designated existing provisions as par. (1), substituted “system may include” for “system shall include”, redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: “In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided”, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 99–425, § 302(b)(1)][/us/pl/99/425/s302/b/1], struck out “where school facilities are not available” after “centers in communities”.
+    Subsec. (b)(1). [Pub. L. 99–425][/us/pl/99/425], § 302(b)(1), struck out “where school facilities are not available” after “centers in communities”.
 
-    Subsec. (b)(2)(E). [Pub. L. 99–425, § 302(b)(2)][/us/pl/99/425/s302/b/2], inserted “child care” before “licensing laws”.
+    Subsec. (b)(2)(E). [Pub. L. 99–425][/us/pl/99/425], § 302(b)(2), inserted “child care” before “licensing laws”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -168,28 +168,28 @@
 [/us/usc/t42/s9872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9872
 [/us/usc/t42/s9873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9873
 [/us/usc/t42/s9872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9872
-[/us/pl/97/35/s670D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs670D
-[/us/pl/98/558/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs109
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2880
-[/us/pl/99/425/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs302
+[/us/pl/99/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIII
 [/us/stat/100/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F967
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIII
 [/us/stat/104/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1249
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/pl/101/501/s305/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs305%2Fa%2F3%2FA
-[/us/pl/101/501/s305/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs305%2Fa%2F3%2FB
-[/us/pl/101/501/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs302
-[/us/pl/101/501/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs303%2Fb
-[/us/pl/101/501/s305/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs305%2Fa%2F4
-[/us/pl/101/501/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs303%2Fb
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/pl/101/501/s305/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs305%2Fa%2F6
-[/us/pl/99/425/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs302%2Fa
-[/us/pl/99/425/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs302%2Fb%2F1
-[/us/pl/99/425/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs302%2Fb%2F2
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/101/501/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs1001%2Fa
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621

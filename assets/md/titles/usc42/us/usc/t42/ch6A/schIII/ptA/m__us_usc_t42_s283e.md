@@ -63,7 +63,7 @@
 
             (B) representatives of the Environmental Protection Agency, the Food and Drug Administration, the Consumer Product Safety Commission, the National Science Foundation, and such additional agencies as the Director of NIH determines to be appropriate, which representatives shall include not less than one veterinarian with expertise in laboratory-animal medicine.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404C, as added [Pub. L. 103–43, title II, § 205(a)][/us/pl/103/43/s205/a], June 10, 1993, [107 Stat. 146][/us/stat/107/146]; amended [Pub. L. 112–74, div. F, title II, § 221(d)(2)][/us/pl/112/74/s221/d/2], Dec. 23, 2011, [125 Stat. 1090][/us/stat/125/1090].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404C, as added [Pub. L. 103–43, title II][/us/pl/103/43/tII], § 205(a), June 10, 1993, [107 Stat. 146][/us/stat/107/146]; amended [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(d)(2), Dec. 23, 2011, [125 Stat. 1090][/us/stat/125/1090].)
 
  __Amendments__ 
 
@@ -84,9 +84,9 @@
 
 [/us/usc/t42/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs205%2Fa
+[/us/pl/103/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtII
 [/us/stat/107/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F146
-[/us/pl/112/74/s221/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fd%2F2
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1090
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa

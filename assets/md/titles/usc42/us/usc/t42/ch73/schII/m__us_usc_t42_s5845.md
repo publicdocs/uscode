@@ -49,7 +49,7 @@
 
         The Commission shall develop a long-term plan for projects for the development of new or improved safety systems for nuclear powerplants.
 
-([Pub. L. 93–438, title II, § 205][/us/pl/93/438/s205], Oct. 11, 1974, [88 Stat. 1246][/us/stat/88/1246]; [Pub. L. 95–209, § 4(a)][/us/pl/95/209/s4/a], Dec. 13, 1977, [91 Stat. 1482][/us/stat/91/1482].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 205, Oct. 11, 1974, [88 Stat. 1246][/us/stat/88/1246]; [Pub. L. 95–209][/us/pl/95/209], § 4(a), Dec. 13, 1977, [91 Stat. 1482][/us/stat/91/1482].)
 
  __References in Text__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t42/s5849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5849
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841
-[/us/pl/93/438/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs205
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
 [/us/stat/88/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1246
-[/us/pl/95/209/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209%2Fs4%2Fa
+[/us/pl/95/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209
 [/us/stat/91/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1482
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233

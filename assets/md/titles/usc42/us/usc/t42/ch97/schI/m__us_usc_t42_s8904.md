@@ -27,7 +27,7 @@
 
     (b) Nothing in this subchapter shall be deemed to grant any new regulatory authority or to limit, expand, or otherwise modify any regulatory authority under existing law, or to establish new criteria, standards, or requirements for regulation under existing law.
 
-([Pub. L. 96–294, title VII, § 705][/us/pl/96/294/s705], June 30, 1980, [94 Stat. 773][/us/stat/94/773].)
+([Pub. L. 96–294, title VII][/us/pl/96/294/tVII], § 705, June 30, 1980, [94 Stat. 773][/us/stat/94/773].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t42/s8903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8903%2Fb
 [/us/usc/t42/s8905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8905
 [/us/usc/t42/s8903/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8903%2Fe
-[/us/pl/96/294/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs705
+[/us/pl/96/294/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVII
 [/us/stat/94/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F773
 
 

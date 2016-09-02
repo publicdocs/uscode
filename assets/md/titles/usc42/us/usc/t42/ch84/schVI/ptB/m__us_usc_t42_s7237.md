@@ -61,7 +61,7 @@
 
         (3) job placement assistance, including assistance provided through cooperative arrangements with State and local employment services offices.
 
-([Pub. L. 104–206, title III, § 301][/us/pl/104/206/s301], Sept. 30, 1996, [110 Stat. 2999][/us/stat/110/2999].)
+([Pub. L. 104–206, title III][/us/pl/104/206/tIII], § 301, Sept. 30, 1996, [110 Stat. 2999][/us/stat/110/2999].)
 
  __Codification__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t5/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3502
 [/us/usc/t5/s3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3595
-[/us/pl/104/206/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2Fs301
+[/us/pl/104/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2FtIII
 [/us/stat/110/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2999
 
 

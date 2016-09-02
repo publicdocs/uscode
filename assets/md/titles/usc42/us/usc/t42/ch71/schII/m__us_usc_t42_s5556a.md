@@ -51,7 +51,7 @@
 
     (b) For technology development, particularly for engineering design and development of the manufacturing process of solar photovoltaic energy systems (primarily for the implementation of automated processes and other cost reducing production technologies), the sum of $6,000,000 is hereby authorized by this Act to be appropriated for the fiscal year ending September 30, 1978.
 
-([Pub. L. 95–238, title II, § 208][/us/pl/95/238/s208], Feb. 25, 1978, [92 Stat. 75][/us/stat/92/75].)
+([Pub. L. 95–238, title II][/us/pl/95/238/tII], § 208, Feb. 25, 1978, [92 Stat. 75][/us/stat/92/75].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/95/238/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs208
+[/us/pl/95/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtII
 [/us/stat/92/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F75
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/stat/92/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F47

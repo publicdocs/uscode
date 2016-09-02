@@ -25,7 +25,7 @@
 
         The term “Secretary” means the Secretary of Housing and Urban Development.
 
-([Pub. L. 100–690, title V, § 5145][/us/pl/100/690/s5145], Nov. 18, 1988, [102 Stat. 4304][/us/stat/102/4304].)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5145, Nov. 18, 1988, [102 Stat. 4304][/us/stat/102/4304].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/100/690/s5145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5145
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4304
 
 

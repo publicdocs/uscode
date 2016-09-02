@@ -17,7 +17,7 @@
 
     Whenever any proposed action by the Department conflicts with the energy plan of any State, the Department shall give due consideration to the needs of such State, and where practicable, shall attempt to resolve such conflict through consultations with appropriate State officials. Nothing in this chapter shall affect the authority of any State over matters exclusively within its jurisdiction.
 
-([Pub. L. 95–91, title I, § 103][/us/pl/95/91/s103], Aug. 4, 1977, [91 Stat. 569][/us/stat/91/569].)
+([Pub. L. 95–91, title I][/us/pl/95/91/tI], § 103, Aug. 4, 1977, [91 Stat. 569][/us/stat/91/569].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs103
+[/us/pl/95/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtI
 [/us/stat/91/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F569
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

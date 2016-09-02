@@ -27,7 +27,7 @@
 
     (5) sell, exchange, or otherwise dispose of petroleum distillate from the Reserve established under this part, including to maintain the quality or quantity of the petroleum distillate in the Reserve or to maintain the operational capability of the Reserve.
 
-([Pub. L. 94–163, title I, § 182][/us/pl/94/163/s182], as added [Pub. L. 106–469, title II, § 201(a)(3)][/us/pl/106/469/s201/a/3], Nov. 9, 2000, [114 Stat. 2034][/us/stat/114/2034].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 182, as added [Pub. L. 106–469, title II][/us/pl/106/469/tII], § 201(a)(3), Nov. 9, 2000, [114 Stat. 2034][/us/stat/114/2034].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs182
-[/us/pl/106/469/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs201%2Fa%2F3
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/106/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtII
 [/us/stat/114/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2034
 
 

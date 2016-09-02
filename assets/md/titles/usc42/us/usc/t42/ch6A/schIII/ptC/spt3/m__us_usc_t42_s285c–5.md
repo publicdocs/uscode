@@ -97,7 +97,7 @@
 
         Insofar as practicable, centers developed or expanded under this section should be geographically dispersed throughout the United States and in environments with proven research capabilities. Support of a center under this section may be for a period of not to exceed five years and such period may be extended by the Director of the Institute for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 431, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 846][/us/stat/99/846]; amended [Pub. L. 103–43, title VI, § 601(b)][/us/pl/103/43/s601/b], June 10, 1993, [107 Stat. 161][/us/stat/107/161].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 431, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 846][/us/stat/99/846]; amended [Pub. L. 103–43, title VI][/us/pl/103/43/tVI], § 601(b), June 10, 1993, [107 Stat. 161][/us/stat/107/161].)
 
  __Amendments__ 
 
@@ -111,9 +111,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F846
-[/us/pl/103/43/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs601%2Fb
+[/us/pl/103/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVI
 [/us/stat/107/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F161
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

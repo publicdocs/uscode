@@ -67,7 +67,7 @@
 
         No more than 10 per centum of the funds appropriated for any fiscal year under [section 8146 of this title][/us/usc/t42/s8146] shall be available for administrative expenses.
 
-([Pub. L. 95–557, title VIII, § 805][/us/pl/95/557/s805], Oct. 31, 1978, [92 Stat. 2123][/us/stat/92/2123].)
+([Pub. L. 95–557, title VIII][/us/pl/95/557/tVIII], § 805, Oct. 31, 1978, [92 Stat. 2123][/us/stat/92/2123].)
 
 ----------
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t42/s8146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8146
-[/us/pl/95/557/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs805
+[/us/pl/95/557/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVIII
 [/us/stat/92/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2123
 
 

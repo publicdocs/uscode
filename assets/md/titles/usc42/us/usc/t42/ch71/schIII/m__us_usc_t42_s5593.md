@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to negate, duplicate, or otherwise affect the provisions of part C subchapter III of chapter 91 of this title, and such part C shall be exempted fully from the provisions of this subchapter and any regulations, guidelines, or criteria pursuant thereto.
 
-([Pub. L. 95–590, § 14][/us/pl/95/590/s14], Nov. 4, 1978, [92 Stat. 2521][/us/stat/92/2521].)
+([Pub. L. 95–590][/us/pl/95/590], § 14, Nov. 4, 1978, [92 Stat. 2521][/us/stat/92/2521].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/590/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs14
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2521
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/stat/92/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3206

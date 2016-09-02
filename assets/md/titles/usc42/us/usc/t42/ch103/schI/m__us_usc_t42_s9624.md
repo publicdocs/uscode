@@ -35,7 +35,7 @@
 
         In the case of any release or threatened release referred to in paragraph (1), the owner or operator of the equipment described in subsection (a) of this section shall be liable under this chapter only for costs or damages primarily caused by the activities of such owner or operator.
 
-([Pub. L. 96–510, title I, § 124][/us/pl/96/510/s124], as added [Pub. L. 99–499, title I, § 124(a)][/us/pl/99/499/s124/a], Oct. 17, 1986, [100 Stat. 1688][/us/stat/100/1688].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 124, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 124(a), Oct. 17, 1986, [100 Stat. 1688][/us/stat/100/1688].)
 
  __References in Text__ 
 
@@ -52,8 +52,8 @@
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
 [/us/usc/t42/s9606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9606
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/96/510/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs124
-[/us/pl/99/499/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs124%2Fa
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1688
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

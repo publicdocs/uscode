@@ -27,7 +27,7 @@
 
         (2) work in cooperation with other Federal, State, and private agencies, and nonprofit organizations, which serve blind or disabled individuals and have knowledge of potential recipients of supplemental security income benefits, and with agencies and organizations (including school systems and public and private social service agencies) which focus on the needs of children.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1635, as added [Pub. L. 101–239, title VIII, § 8008(a)][/us/pl/101/239/s8008/a], Dec. 19, 1989, [103 Stat. 2463][/us/stat/103/2463]; amended [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1635, as added [Pub. L. 101–239, title VIII][/us/pl/101/239/tVIII], § 8008(a), Dec. 19, 1989, [103 Stat. 2463][/us/stat/103/2463]; amended [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–239, title VIII, § 8008(b)][/us/pl/101/239/s8008/b], Dec. 19, 1989, [103 Stat. 2463][/us/stat/103/2463], provided that: 
+[Pub. L. 101–239, title VIII][/us/pl/101/239/tVIII], § 8008(b), Dec. 19, 1989, [103 Stat. 2463][/us/stat/103/2463], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect 3 months after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
@@ -55,15 +55,15 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/239/s8008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs8008%2Fa
+[/us/pl/101/239/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVIII
 [/us/stat/103/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2463
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/101/239/s8008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs8008%2Fb
+[/us/pl/101/239/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVIII
 [/us/stat/103/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2463
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 

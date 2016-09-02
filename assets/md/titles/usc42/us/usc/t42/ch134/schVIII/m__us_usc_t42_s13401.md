@@ -33,7 +33,7 @@
 
     (8) to consider the contribution of a given activity to fundamental scientific knowledge.
 
-([Pub. L. 102–486, title XX, § 2001][/us/pl/102/486/s2001], Oct. 24, 1992, [106 Stat. 3057][/us/stat/106/3057].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2001, Oct. 24, 1992, [106 Stat. 3057][/us/stat/106/3057].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2001
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3057
 
 

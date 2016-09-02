@@ -79,7 +79,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 109–58, title III, § 348][/us/pl/109/58/s348], Aug. 8, 2005, [119 Stat. 708][/us/stat/119/708].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 348, Aug. 8, 2005, [119 Stat. 708][/us/stat/119/708].)
 
 ----------
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs348
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F708
 
 

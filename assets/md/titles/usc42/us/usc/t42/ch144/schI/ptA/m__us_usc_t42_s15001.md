@@ -139,15 +139,15 @@
 
         (12) individuals with developmental disabilities need to have access to and use of recreational, leisure, and social opportunities in the most integrated settings, in order to enrich their participation in community life.
 
-([Pub. L. 106–402, title I, § 101][/us/pl/106/402/s101], Oct. 30, 2000, [114 Stat. 1678][/us/stat/114/1678].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 101, Oct. 30, 2000, [114 Stat. 1678][/us/stat/114/1678].)
 
  __Short Title__ 
 
-[Pub. L. 106–402, § 1(a)][/us/pl/106/402/s1/a], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], provided that: 
+[Pub. L. 106–402][/us/pl/106/402], § 1(a), Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Developmental Disabilities Assistance and Bill of Rights Act of 2000’.”
 
-[Pub. L. 106–402, title II, § 201][/us/pl/106/402/s201], Oct. 30, 2000, [114 Stat. 1728][/us/stat/114/1728], provided that: 
+[Pub. L. 106–402, title II][/us/pl/106/402/tII], § 201, Oct. 30, 2000, [114 Stat. 1728][/us/stat/114/1728], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Families of Children With Disabilities Support Act of 2000’.”
 
@@ -389,11 +389,11 @@
 ----------
 
 [/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
-[/us/pl/106/402/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs101
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1678
-[/us/pl/106/402/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs1%2Fa
+[/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
-[/us/pl/106/402/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs201
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1728
 [/us/pl/108/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F406
 [/us/stat/118/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2294

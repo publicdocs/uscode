@@ -61,23 +61,23 @@
 
     (11) the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific.
 
-([Pub. L. 103–209, § 5][/us/pl/103/209/s5], Dec. 20, 1993, [107 Stat. 2493][/us/stat/107/2493]; [Pub. L. 103–322, title XXXII, § 320928(a)(3)][/us/pl/103/322/s320928/a/3], (j), Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132], 2133; [Pub. L. 107–110, title X, § 1075][/us/pl/107/110/s1075], Jan. 8, 2002, [115 Stat. 2090][/us/stat/115/2090].)
+([Pub. L. 103–209][/us/pl/103/209], § 5, Dec. 20, 1993, [107 Stat. 2493][/us/stat/107/2493]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320928(a)(3), (j), Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132], 2133; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1075, Jan. 8, 2002, [115 Stat. 2090][/us/stat/115/2090].)
 
  __Amendments__ 
 
-    2002—Par. (9)(A)(i). [Pub. L. 107–110, § 1075(1)][/us/pl/107/110/s1075/1], inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
+    2002—Par. (9)(A)(i). [Pub. L. 107–110][/us/pl/107/110], § 1075(1), inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
 
-    Par. (9)(B)(i). [Pub. L. 107–110, § 1075(2)][/us/pl/107/110/s1075/2], inserted before semicolon at end “(including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
+    Par. (9)(B)(i). [Pub. L. 107–110][/us/pl/107/110], § 1075(2), inserted before semicolon at end “(including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
 
-    1994—Par. (5). [Pub. L. 103–322, § 320928(a)(3)(A)][/us/pl/103/322/s320928/a/3/A], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
+    1994—Par. (5). [Pub. L. 103–322][/us/pl/103/322], § 320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
 
-    Pars. (6), (7). [Pub. L. 103–322, § 320928(j)(2)][/us/pl/103/322/s320928/j/2], added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
+    Pars. (6), (7). [Pub. L. 103–322][/us/pl/103/322], § 320928(j)(2), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
 
-    Par. (8). [Pub. L. 103–322, § 320928(j)(1)][/us/pl/103/322/s320928/j/1], redesignated par. (6) as (8). Former par. (8) redesignated (10).
+    Par. (8). [Pub. L. 103–322][/us/pl/103/322], § 320928(j)(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
 
-    [Pub. L. 103–322, § 320928(a)(3)(B)][/us/pl/103/322/s320928/a/3/B], substituted “care” for “child care” wherever appearing.
+    [Pub. L. 103–322][/us/pl/103/322], § 320928(a)(3)(B), substituted “care” for “child care” wherever appearing.
 
-    Pars. (9) to (11). [Pub. L. 103–322, § 320928(j)(1)][/us/pl/103/322/s320928/j/1], redesignated pars. (7) to (9) as (9) to (11), respectively.
+    Pars. (9) to (11). [Pub. L. 103–322][/us/pl/103/322], § 320928(j)(1), redesignated pars. (7) to (9) as (9) to (11), respectively.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -94,19 +94,19 @@
 ----------
 ----------
 
-[/us/pl/103/209/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209%2Fs5
+[/us/pl/103/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209
 [/us/stat/107/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2493
-[/us/pl/103/322/s320928/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fa%2F3
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2132
-[/us/pl/107/110/s1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1075
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2090
-[/us/pl/107/110/s1075/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1075%2F1
-[/us/pl/107/110/s1075/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1075%2F2
-[/us/pl/103/322/s320928/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fa%2F3%2FA
-[/us/pl/103/322/s320928/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fj%2F2
-[/us/pl/103/322/s320928/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fj%2F1
-[/us/pl/103/322/s320928/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fa%2F3%2FB
-[/us/pl/103/322/s320928/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fj%2F1
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

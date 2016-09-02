@@ -49,7 +49,7 @@
 
         (C) an unresolved area of noncompliance.
 
-    (3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801])), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+    (3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
 
     (4)
 
@@ -93,7 +93,7 @@
 
             (ii)
 
-                (I) who is a Native American (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801])), an Alaska Native, or a native resident of an outlying area (as defined in such section 9101); and
+                (I) who is a Native American (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]), an Alaska Native, or a native resident of an outlying area (as defined in such section 8101); and
 
                 (II) who comes from an environment where a language other than English has had a significant impact on the child’s level of English language proficiency; or
 
@@ -223,7 +223,7 @@
 
     (26) The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to [section 9836a(c) of this title][/us/usc/t42/s9836a/c].
 
-([Pub. L. 97–35, title VI, § 637][/us/pl/97/35/s637], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499]; [Pub. L. 98–558, title I, § 101][/us/pl/98/558/s101], Oct. 30, 1984, [98 Stat. 2878][/us/stat/98/2878]; [Pub. L. 101–501, title I][/us/pl/101/501], §§ 104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, [104 Stat. 1228][/us/stat/104/1228], 1232, 1233, 1237; [Pub. L. 103–252, title I, § 102][/us/pl/103/252/s102], May 18, 1994, [108 Stat. 624][/us/stat/108/624]; [Pub. L. 105–285, title I, § 103][/us/pl/105/285/s103], Oct. 27, 1998, [112 Stat. 2703][/us/stat/112/2703]; [Pub. L. 110–134, § 3][/us/pl/110/134/s3], Dec. 12, 2007, [121 Stat. 1364][/us/stat/121/1364].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 637, Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499]; [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 101, Oct. 30, 1984, [98 Stat. 2878][/us/stat/98/2878]; [Pub. L. 101–501, title I][/us/pl/101/501/tI], §§ 104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, [104 Stat. 1228][/us/stat/104/1228], 1232, 1233, 1237; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 102, May 18, 1994, [108 Stat. 624][/us/stat/108/624]; [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 103, Oct. 27, 1998, [112 Stat. 2703][/us/stat/112/2703]; [Pub. L. 110–134][/us/pl/110/134], § 3, Dec. 12, 2007, [121 Stat. 1364][/us/stat/121/1364]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(nn)(1), Dec. 10, 2015, [129 Stat. 2176][/us/stat/129/2176].)
 
  __References in Text__ 
 
@@ -233,81 +233,89 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–134, § 3(b)(2)][/us/pl/110/134/s3/b/2], rearranged pars. into numerical order.
+    2015—Par. (3). [Pub. L. 114–95][/us/pl/114/95], § 9215(nn)(1)(A), substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801])”.
 
-    [Pub. L. 110–134, § 3(b)(1)][/us/pl/110/134/s3/b/1], which directed amendment of this section by redesignating pars. (1) to (23) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, was executed by redesignating pars. (1) to (26) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, to reflect the probable intent of Congress.
+    Par. (15)(A)(ii)(I). [Pub. L. 114–95][/us/pl/114/95], § 9215(nn)(1)(B), substituted “(as defined in section 8101 of the Elementary and Secondary Education Act of 1965), an Alaska Native, or a native resident of an outlying area (as defined in such section 8101);” for “(as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801])), an Alaska Native, or a native resident of an outlying area (as defined in such section 9101);”.
 
-    Par. (2). [Pub. L. 110–134, § 3(a)(1)][/us/pl/110/134/s3/a/1], inserted “(including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]))” after “nonprofit”.
+    2007—[Pub. L. 110–134][/us/pl/110/134], § 3(b)(2), rearranged pars. into numerical order.
 
-    Par. (3)(C). [Pub. L. 110–134, § 3(a)(2)][/us/pl/110/134/s3/a/2], inserted “, and financial literacy.” after “self-sufficiency”.
+    [Pub. L. 110–134][/us/pl/110/134], § 3(b)(1), which directed amendment of this section by redesignating pars. (1) to (23) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, was executed by redesignating pars. (1) to (26) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, to reflect the probable intent of Congress.
 
-    Par. (12). [Pub. L. 110–134, § 3(a)(3)][/us/pl/110/134/s3/a/3], substituted “migrant or seasonal Head Start program” for “migrant and seasonal Head Start program”.
+    Par. (2). [Pub. L. 110–134][/us/pl/110/134], § 3(a)(1), inserted “(including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]))” after “nonprofit”.
 
-    Par. (17). [Pub. L. 110–134, § 3(a)(4)][/us/pl/110/134/s3/a/4], added par. (17) and struck out former par. (17) which read as follows: “The term ‘State’ means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in [section 9835(a)(2)(B)(iii) of this title][/us/usc/t42/s9835/a/2/B/iii] has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
+    Par. (3)(C). [Pub. L. 110–134][/us/pl/110/134], § 3(a)(2), inserted “, and financial literacy.” after “self-sufficiency”.
 
-    Pars. (18) to (26). [Pub. L. 110–134, § 3(a)(5)][/us/pl/110/134/s3/a/5], added pars. (18) to (26).
+    Par. (12). [Pub. L. 110–134][/us/pl/110/134], § 3(a)(3), substituted “migrant or seasonal Head Start program” for “migrant and seasonal Head Start program”.
 
-    1998—Pars. (1), (2). [Pub. L. 105–285, § 103(2)][/us/pl/105/285/s103/2], added pars. (1) and (2). Former pars. (1) and (2) redesignated (16) and (17), respectively.
+    Par. (17). [Pub. L. 110–134][/us/pl/110/134], § 3(a)(4), added par. (17) and struck out former par. (17) which read as follows: “The term ‘State’ means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in [section 9835(a)(2)(B)(iii) of this title][/us/usc/t42/s9835/a/2/B/iii] has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
 
-    Pars. (3), (4). [Pub. L. 105–285, § 103(3)][/us/pl/105/285/s103/3]–(5), added par. (3), redesignated former par. (3) as (4), and struck out former par. (4) which read as follows: “The term ‘family literacy services’ means services and activities that include interactive literacy activities between parents and their children, training for parents on techniques for being the primary teacher of their children and full partners in the education of their children, parent literacy training (including training in English as a second language), and early childhood education.”
+    Pars. (18) to (26). [Pub. L. 110–134][/us/pl/110/134], § 3(a)(5), added pars. (18) to (26).
 
-    Par. (6). [Pub. L. 105–285, § 103(6)][/us/pl/105/285/s103/6], inserted at end “Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendance for more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child.”
+    1998—Pars. (1), (2). [Pub. L. 105–285][/us/pl/105/285], § 103(2), added pars. (1) and (2). Former pars. (1) and (2) redesignated (16) and (17), respectively.
 
-    Par. (12). [Pub. L. 105–285, § 103(7)][/us/pl/105/285/s103/7], added par. (12) and struck out former par. (12) which read as follows: “The term ‘migrant Head Start program’ means a Head Start program that serves families who are engaged in agricultural work and who have changed their residence from one geographical location to another in the preceding 2-year period.”
+    Pars. (3), (4). [Pub. L. 105–285][/us/pl/105/285], § 103(3)–(5), added par. (3), redesignated former par. (3) as (4), and struck out former par. (4) which read as follows: “The term ‘family literacy services’ means services and activities that include interactive literacy activities between parents and their children, training for parents on techniques for being the primary teacher of their children and full partners in the education of their children, parent literacy training (including training in English as a second language), and early childhood education.”
 
-    Par. (15). [Pub. L. 105–285, § 103(8)][/us/pl/105/285/s103/8], added par. (15).
+    Par. (6). [Pub. L. 105–285][/us/pl/105/285], § 103(6), inserted at end “Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendance for more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child.”
 
-    Par. (16). [Pub. L. 105–285, § 103(1)][/us/pl/105/285/s103/1], redesignated par. (1) as (16) and transferred it to appear after par. (15).
+    Par. (12). [Pub. L. 105–285][/us/pl/105/285], § 103(7), added par. (12) and struck out former par. (12) which read as follows: “The term ‘migrant Head Start program’ means a Head Start program that serves families who are engaged in agricultural work and who have changed their residence from one geographical location to another in the preceding 2-year period.”
 
-    Par. (17). [Pub. L. 105–285, § 103(9)(B)][/us/pl/105/285/s103/9/B], (C), substituted “Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in [section 9835(a)(2)(B)(iii) of this title][/us/usc/t42/s9835/a/2/B/iii] has not been enacted before September 30, 2001), also means” for “Virgin Islands,” and “and the Republic of Palau” for “Palau, and the Commonwealth of the Northern Mariana Islands”.
+    Par. (15). [Pub. L. 105–285][/us/pl/105/285], § 103(8), added par. (15).
 
-    [Pub. L. 105–285, § 103(9)(A)][/us/pl/105/285/s103/9/A], which directed substitution of “term” for “Term”, could not be executed because “Term” does not appear in par. (17).
+    Par. (16). [Pub. L. 105–285][/us/pl/105/285], § 103(1), redesignated par. (1) as (16) and transferred it to appear after par. (15).
 
-    [Pub. L. 105–285, § 103(1)][/us/pl/105/285/s103/1], redesignated par. (2) as (17) and transferred it to appear after par. (16).
+    Par. (17). [Pub. L. 105–285][/us/pl/105/285], § 103(9)(B), (C), substituted “Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in [section 9835(a)(2)(B)(iii) of this title][/us/usc/t42/s9835/a/2/B/iii] has not been enacted before September 30, 2001), also means” for “Virgin Islands,” and “and the Republic of Palau” for “Palau, and the Commonwealth of the Northern Mariana Islands”.
 
-    1994—Par. (4). [Pub. L. 103–252, § 102(1)][/us/pl/103/252/s102/1], (4), (5)(A), redesignated par. (12) as (4) and struck out former par. (4) which defined “adjusted appropriation”.
+    [Pub. L. 105–285][/us/pl/105/285], § 103(9)(A), which directed substitution of “term” for “Term”, could not be executed because “Term” does not appear in par. (17).
 
-    Par. (5). [Pub. L. 103–252, § 102(1)][/us/pl/103/252/s102/1], (4), (5)(B), redesignated par. (10) as (5) and struck out former par. (5) which defined “quality improvement funds”.
+    [Pub. L. 105–285][/us/pl/105/285], § 103(1), redesignated par. (2) as (17) and transferred it to appear after par. (16).
 
-    Par. (6). [Pub. L. 103–252, § 102(4)][/us/pl/103/252/s102/4], (5)(B), redesignated par. (11) as (6). Former par. (6) redesignated (7).
+    1994—Par. (4). [Pub. L. 103–252][/us/pl/103/252], § 102(1), (4), (5)(A), redesignated par. (12) as (4) and struck out former par. (4) which defined “adjusted appropriation”.
 
-    Pars. (7), (8). [Pub. L. 103–252, § 102(4)][/us/pl/103/252/s102/4], redesignated pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+    Par. (5). [Pub. L. 103–252][/us/pl/103/252], § 102(1), (4), (5)(B), redesignated par. (10) as (5) and struck out former par. (5) which defined “quality improvement funds”.
 
-    Par. (9). [Pub. L. 103–252, § 102(4)][/us/pl/103/252/s102/4], redesignated par. (8) as (9). Former par. (9) redesignated (14).
+    Par. (6). [Pub. L. 103–252][/us/pl/103/252], § 102(4), (5)(B), redesignated par. (11) as (6). Former par. (6) redesignated (7).
 
-    [Pub. L. 103–252, § 102(2)][/us/pl/103/252/s102/2], added par. (9) and struck out former par. (9) which defined “poverty line”.
+    Pars. (7), (8). [Pub. L. 103–252][/us/pl/103/252], § 102(4), redesignated pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
 
-    Par. (10). [Pub. L. 103–252, § 102(4)][/us/pl/103/252/s102/4], (5)(C), redesignated par. (13) as (10). Former par. (10) redesignated (5).
+    Par. (9). [Pub. L. 103–252][/us/pl/103/252], § 102(4), redesignated par. (8) as (9). Former par. (9) redesignated (14).
 
-    Par. (11). [Pub. L. 103–252, § 102(5)(D)][/us/pl/103/252/s102/5/D], added par. (11). Former par. (11) redesignated (6).
+    [Pub. L. 103–252][/us/pl/103/252], § 102(2), added par. (9) and struck out former par. (9) which defined “poverty line”.
 
-    Par. (12). [Pub. L. 103–252, § 102(5)(D)][/us/pl/103/252/s102/5/D], added par. (12). Former par. (12) redesignated (4).
+    Par. (10). [Pub. L. 103–252][/us/pl/103/252], § 102(4), (5)(C), redesignated par. (13) as (10). Former par. (10) redesignated (5).
 
-    [Pub. L. 103–252, § 102(3)][/us/pl/103/252/s102/3], (4), added par. (12) and redesignated it as (4).
+    Par. (11). [Pub. L. 103–252][/us/pl/103/252], § 102(5)(D), added par. (11). Former par. (11) redesignated (6).
 
-    Par. (13). [Pub. L. 103–252, § 102(5)(D)][/us/pl/103/252/s102/5/D], added par. (13). Former par. (13) redesignated (10).
+    Par. (12). [Pub. L. 103–252][/us/pl/103/252], § 102(5)(D), added par. (12). Former par. (12) redesignated (4).
 
-    [Pub. L. 103–252, § 102(3)][/us/pl/103/252/s102/3], (4), added par. (13) and redesignated it as (10).
+    [Pub. L. 103–252][/us/pl/103/252], § 102(3), (4), added par. (12) and redesignated it as (4).
 
-    Par. (14). [Pub. L. 103–252, § 102(4)][/us/pl/103/252/s102/4], redesignated par. (9) as (14).
+    Par. (13). [Pub. L. 103–252][/us/pl/103/252], § 102(5)(D), added par. (13). Former par. (13) redesignated (10).
 
-    1990—Par. (2). [Pub. L. 101–501, § 104(b)(1)][/us/pl/101/501/s104/b/1], substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “the Trust Territory of the Pacific Islands”.
+    [Pub. L. 103–252][/us/pl/103/252], § 102(3), (4), added par. (13) and redesignated it as (10).
 
-    Pars. (4), (5). [Pub. L. 101–501, § 104(b)(2)][/us/pl/101/501/s104/b/2], added pars. (4) and (5).
+    Par. (14). [Pub. L. 103–252][/us/pl/103/252], § 102(4), redesignated par. (9) as (14).
 
-    Par. (6). [Pub. L. 101–501, § 116(b)][/us/pl/101/501/s116/b], added par. (6).
+    1990—Par. (2). [Pub. L. 101–501][/us/pl/101/501], § 104(b)(1), substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “the Trust Territory of the Pacific Islands”.
 
-    Pars. (7), (8). [Pub. L. 101–501, § 117(b)][/us/pl/101/501/s117/b], added pars. (7) and (8).
+    Pars. (4), (5). [Pub. L. 101–501][/us/pl/101/501], § 104(b)(2), added pars. (4) and (5).
 
-    Par. (9). [Pub. L. 101–501, § 121(b)][/us/pl/101/501/s121/b], added par. (9).
+    Par. (6). [Pub. L. 101–501][/us/pl/101/501], § 116(b), added par. (6).
 
-    Pars. (10), (11). [Pub. L. 101–501, § 123(a)][/us/pl/101/501/s123/a], added pars. (10) and (11).
+    Pars. (7), (8). [Pub. L. 101–501][/us/pl/101/501], § 117(b), added pars. (7) and (8).
+
+    Par. (9). [Pub. L. 101–501][/us/pl/101/501], § 121(b), added par. (9).
+
+    Pars. (10), (11). [Pub. L. 101–501][/us/pl/101/501], § 123(a), added pars. (10) and (11).
 
     1984—Par. (2). [Pub. L. 98–558][/us/pl/98/558] inserted “the Commonwealth of” before “the Northern Mariana Islands”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–252, title I, § 127][/us/pl/103/252/s127], May 18, 1994, [108 Stat. 651][/us/stat/108/651], provided that:
+[Pub. L. 103–252, title I][/us/pl/103/252/tI], § 127, May 18, 1994, [108 Stat. 651][/us/stat/108/651], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -342,64 +350,73 @@
 [/us/usc/t42/s9836a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa%2F1
 [/us/usc/t42/s9835/a/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FB%2Fv
 [/us/usc/t42/s9836a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc
-[/us/pl/97/35/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs637
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
-[/us/pl/98/558/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs101
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2878
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtI
 [/us/stat/104/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1228
-[/us/pl/103/252/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F624
-[/us/pl/105/285/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2703
-[/us/pl/110/134/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1364
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2176
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/110/134/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3%2Fb%2F2
-[/us/pl/110/134/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3%2Fb%2F1
-[/us/pl/110/134/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3%2Fa%2F1
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/110/134/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3%2Fa%2F2
-[/us/pl/110/134/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3%2Fa%2F3
-[/us/pl/110/134/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3%2Fa%2F4
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t42/s9835/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FB%2Fiii
-[/us/pl/110/134/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs3%2Fa%2F5
-[/us/pl/105/285/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F2
-[/us/pl/105/285/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F3
-[/us/pl/105/285/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F6
-[/us/pl/105/285/s103/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F7
-[/us/pl/105/285/s103/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F8
-[/us/pl/105/285/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F1
-[/us/pl/105/285/s103/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F9%2FB
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9835/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FB%2Fiii
-[/us/pl/105/285/s103/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F9%2FA
-[/us/pl/105/285/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs103%2F1
-[/us/pl/103/252/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F1
-[/us/pl/103/252/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F1
-[/us/pl/103/252/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F4
-[/us/pl/103/252/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F4
-[/us/pl/103/252/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F4
-[/us/pl/103/252/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F2
-[/us/pl/103/252/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F4
-[/us/pl/103/252/s102/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F5%2FD
-[/us/pl/103/252/s102/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F5%2FD
-[/us/pl/103/252/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F3
-[/us/pl/103/252/s102/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F5%2FD
-[/us/pl/103/252/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F3
-[/us/pl/103/252/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs102%2F4
-[/us/pl/101/501/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fb%2F1
-[/us/pl/101/501/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs104%2Fb%2F2
-[/us/pl/101/501/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs116%2Fb
-[/us/pl/101/501/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs117%2Fb
-[/us/pl/101/501/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs121%2Fb
-[/us/pl/101/501/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs123%2Fa
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
-[/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F651
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831

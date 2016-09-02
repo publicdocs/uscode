@@ -43,11 +43,11 @@
 
         In subsection (a)(2), the term “State” does not include any jurisdiction specified in subsection (a)(1).
 
-([Pub. L. 98–457, title III, § 305][/us/pl/98/457/s305], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3488][/us/stat/124/3488].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 305, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3488][/us/stat/124/3488].)
 
  __Prior Provisions__ 
 
-    A prior section 10405, [Pub. L. 98–457, title III, § 306][/us/pl/98/457/s306], Oct. 9, 1984, [98 Stat. 1760][/us/stat/98/1760]; [Pub. L. 102–295, title III, § 314][/us/pl/102/295/s314], May 28, 1992, [106 Stat. 204][/us/stat/106/204]; [Pub. L. 108–36, title IV, § 403][/us/pl/108/36/s403], June 25, 2003, [117 Stat. 825][/us/stat/117/825], related to evaluation of the effectiveness of the programs administered and operated pursuant to this chapter, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10404(c) of this title][/us/usc/t42/s10404/c].
+    A prior section 10405, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 306, Oct. 9, 1984, [98 Stat. 1760][/us/stat/98/1760]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 314, May 28, 1992, [106 Stat. 204][/us/stat/106/204]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 403, June 25, 2003, [117 Stat. 825][/us/stat/117/825], related to evaluation of the effectiveness of the programs administered and operated pursuant to this chapter, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10404(c) of this title][/us/usc/t42/s10404/c].
 
     A prior [section 305 of Pub. L. 98–457][/us/pl/98/457/s305] was classified to [section 10404 of this title][/us/usc/t42/s10404] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -70,14 +70,14 @@
 [/us/usc/t42/s10406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fa
 [/us/usc/t42/s10414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10414
 [/us/usc/t42/s10414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10414
-[/us/pl/98/457/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs305
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3488
-[/us/pl/98/457/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs306
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1760
-[/us/pl/102/295/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs314
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F204
-[/us/pl/108/36/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs403
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F825
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s10404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10404%2Fc

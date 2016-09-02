@@ -61,7 +61,7 @@
 
         The term “Space Launch System” means the follow-on government-owned civil launch system developed, managed, and operated by NASA to serve as a key component to expand human presence beyond low-Earth orbit.
 
-([Pub. L. 111–267, § 3][/us/pl/111/267/s3], Oct. 11, 2010, [124 Stat. 2808][/us/stat/124/2808].)
+([Pub. L. 111–267][/us/pl/111/267], § 3, Oct. 11, 2010, [124 Stat. 2808][/us/stat/124/2808].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs3
+[/us/pl/111/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267
 [/us/stat/124/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2808
 
 

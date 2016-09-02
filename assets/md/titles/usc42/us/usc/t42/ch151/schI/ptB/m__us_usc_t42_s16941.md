@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated such sums as may be necessary for fiscal years 2007 through 2009 to implement this section.
 
-([Pub. L. 109–248, title I, § 142][/us/pl/109/248/s142], July 27, 2006, [120 Stat. 604][/us/stat/120/604].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 142, July 27, 2006, [120 Stat. 604][/us/stat/120/604].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t28/s566/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs566%2Fe%2F1%2FB
-[/us/pl/109/248/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs142
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F604
 
 

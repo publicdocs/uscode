@@ -17,7 +17,7 @@
 
     Whenever an action has been commenced in any court of the United States seeking relief from the denial of equal protection of the laws under the fourteenth amendment to the Constitution on account of race, color, religion, sex or national origin, the Attorney General for or in the name of the United States may intervene in such action upon timely application if the Attorney General certifies that the case is of general public importance. In such action the United States shall be entitled to the same relief as if it had instituted the action.
 
-([Pub. L. 88–352, title IX, § 902][/us/pl/88/352/s902], July 2, 1964, [78 Stat. 266][/us/stat/78/266]; [Pub. L. 92–318, title IX, § 906(a)][/us/pl/92/318/s906/a], June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
+([Pub. L. 88–352, title IX][/us/pl/88/352/tIX], § 902, July 2, 1964, [78 Stat. 266][/us/stat/78/266]; [Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 906(a), June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/88/352/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs902
+[/us/pl/88/352/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIX
 [/us/stat/78/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F266
-[/us/pl/92/318/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs906%2Fa
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F375
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 

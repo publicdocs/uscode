@@ -91,15 +91,15 @@
 
             Amounts provided under grants or contracts under this section may be used for the operation of programs designed to award traineeships to students in accredited schools of public health who enter educational programs in fields where there is a severe shortage of public health professionals, including epidemiology, biostatistics, environmental health, toxicology, public health nursing, nutrition, preventive medicine, maternal and child health, and behavioral and mental health professions.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 765, as added [Pub. L. 105–392, title I, § 105][/us/pl/105/392/s105], Nov. 13, 1998, [112 Stat. 3553][/us/stat/112/3553]; amended [Pub. L. 111–148, title V, § 5206(a)][/us/pl/111/148/s5206/a], Mar. 23, 2010, [124 Stat. 611][/us/stat/124/611].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 765, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 105, Nov. 13, 1998, [112 Stat. 3553][/us/stat/112/3553]; amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5206(a), Mar. 23, 2010, [124 Stat. 611][/us/stat/124/611].)
 
  __Prior Provisions__ 
 
-    A prior section 295, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 781, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2055][/us/stat/106/2055]; amended [Pub. L. 105–12, § 12(b)][/us/pl/105/12/s12/b], Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29], authorized grants and contracts for research on certain health professions issues, prior to repeal by [Pub. L. 105–392, title I, § 106(a)(1)][/us/pl/105/392/s106/a/1], Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557].
+    A prior section 295, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 781, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2055][/us/stat/106/2055]; amended [Pub. L. 105–12][/us/pl/105/12], § 12(b), Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29], authorized grants and contracts for research on certain health professions issues, prior to repeal by [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 106(a)(1), Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557].
 
-    Another prior section 295, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 761, as added Dec. 25, 1970, [Pub. L. 91–696, § 101][/us/pl/91/696/s101], [84 Stat. 2080–1][/us/stat/84/2080-1]; amended Oct. 17, 1979, [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, [93 Stat. 677][/us/stat/93/677], 692, provided Congressional declaration of purpose for former part D of this subchapter, prior to repeal by [Pub. L. 99–129, title II, § 220(c)][/us/pl/99/129/s220/c], Oct. 22, 1985, [99 Stat. 544][/us/stat/99/544].
+    Another prior section 295, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 761, as added Dec. 25, 1970, [Pub. L. 91–696][/us/pl/91/696], § 101, [84 Stat. 2080–1][/us/stat/84/2080-1]; amended Oct. 17, 1979, [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, [93 Stat. 677][/us/stat/93/677], 692, provided Congressional declaration of purpose for former part D of this subchapter, prior to repeal by [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 220(c), Oct. 22, 1985, [99 Stat. 544][/us/stat/99/544].
 
-    Another prior section 295, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 761, as added Oct. 31, 1963, [Pub. L. 88–164, title I, § 101][/us/pl/88/164/s101], [77 Stat. 282][/us/stat/77/282], related to authorization of appropriations respecting grants for construction of mental retardation facilities, prior to the general amendment of former part D of this subchapter by [section 101 of Pub. L. 91–696][/us/pl/91/696/s101].
+    Another prior section 295, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 761, as added Oct. 31, 1963, [Pub. L. 88–164, title I][/us/pl/88/164/tI], § 101, [77 Stat. 282][/us/stat/77/282], related to authorization of appropriations respecting grants for construction of mental retardation facilities, prior to the general amendment of former part D of this subchapter by [section 101 of Pub. L. 91–696][/us/pl/91/696/s101].
 
     A prior section 765 of act July 1, 1944, was classified to [section 294c of this title][/us/usc/t42/s294c] prior to the general amendment of part D of this subchapter by [Pub. L. 105–392][/us/pl/105/392].
 
@@ -119,26 +119,26 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs105
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3553
-[/us/pl/111/148/s5206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5206%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F611
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2055
-[/us/pl/105/12/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs12%2Fb
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F29
-[/us/pl/105/392/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs106%2Fa%2F1
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3557
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/696/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696%2Fs101
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/91/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696
 [/us/stat/84/2080-1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2080-1
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/99/129/s220/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs220%2Fc
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F544
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs101
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2FtI
 [/us/stat/77/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F282
 [/us/pl/91/696/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F696%2Fs101
 [/us/usc/t42/s294c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294c

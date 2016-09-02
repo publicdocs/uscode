@@ -19,7 +19,7 @@
 
         The Secretary may drawdown and sell petroleum products in the Reserve only in accordance with the provisions of this section.
 
-    (b) __, (c) Repealed.__  __[__  __Pub. L. 106–469, title I, § 103(15)(C)__  __][/us/pl/106/469/s103/15/C]__  __,__  __Nov. 9, 2000__  __,__  __[__  __114 Stat. 2031__  __][/us/stat/114/2031]__ 
+    (b) __, (c) Repealed.__  __[__  __Pub. L. 106–469, title I__  __][/us/pl/106/469/tI]__  __, § 103(15)(C),__  __Nov. 9, 2000__  __,__  __[__  __114 Stat. 2031__  __][/us/stat/114/2031]__ 
 
     (d) __Presidential finding prerequisite to drawdown and sale__ 
 
@@ -41,13 +41,13 @@
 
         (2) The Secretary may cancel in whole or in part any offer to sell petroleum products as part of any drawdown and sale under this section.
 
-    (f) __Repealed.__  __[__  __Pub. L. 106–469, title I, § 103(15)(C)__  __][/us/pl/106/469/s103/15/C]__  __,__  __Nov. 9, 2000__  __,__  __[__  __114 Stat. 2031__  __][/us/stat/114/2031]__ 
+    (f) __Repealed.__  __[__  __Pub. L. 106–469, title I__  __][/us/pl/106/469/tI]__  __, § 103(15)(C),__  __Nov. 9, 2000__  __,__  __[__  __114 Stat. 2031__  __][/us/stat/114/2031]__ 
 
     (g) __Directive to carry out test drawdown and sale__ 
 
         (1) The Secretary shall conduct a continuing evaluation of the drawdown and sales procedures. In the conduct of an evaluation, the Secretary is authorized to carry out a test drawdown and sale or exchange of petroleum products from the Reserve. Such a test drawdown and sale or exchange may not exceed 5,000,000 barrels of petroleum products.
 
-        (2) Repealed. [Pub. L. 106–469, title I, § 103(15)(F)(ii)][/us/pl/106/469/s103/15/F/ii], Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031].
+        (2) Repealed. [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(15)(F)(ii), Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031].
 
         (3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
 
@@ -227,7 +227,7 @@
 
             At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-([Pub. L. 94–163, title I, § 161][/us/pl/94/163/s161], Dec. 22, 1975, [89 Stat. 888][/us/stat/89/888]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 99–58, title I, § 103(a)][/us/pl/99/58/s103/a], (b)(2), July 2, 1985, [99 Stat. 103][/us/stat/99/103], 104; [Pub. L. 101–383][/us/pl/101/383], §§ 3(b), 8, 10, Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727], 735; [Pub. L. 102–486, title XIV, § 1401][/us/pl/102/486/s1401], Oct. 24, 1992, [106 Stat. 2993][/us/stat/106/2993]; [Pub. L. 105–388, § 9(a)][/us/pl/105/388/s9/a], Nov. 13, 1998, [112 Stat. 3482][/us/stat/112/3482]; [Pub. L. 106–469, title I, § 103(15)][/us/pl/106/469/s103/15], Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031]; [Pub. L. 114–74, title IV, § 401(a)][/us/pl/114/74/s401/a], Nov. 2, 2015, [129 Stat. 588][/us/stat/129/588].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 161, Dec. 22, 1975, [89 Stat. 888][/us/stat/89/888]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 99–58, title I][/us/pl/99/58/tI], § 103(a), (b)(2), July 2, 1985, [99 Stat. 103][/us/stat/99/103], 104; [Pub. L. 101–383][/us/pl/101/383], §§ 3(b), 8, 10, Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727], 735; [Pub. L. 102–486, title XIV][/us/pl/102/486/tXIV], § 1401, Oct. 24, 1992, [106 Stat. 2993][/us/stat/106/2993]; [Pub. L. 105–388][/us/pl/105/388], § 9(a), Nov. 13, 1998, [112 Stat. 3482][/us/stat/112/3482]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(15), Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031]; [Pub. L. 114–74, title IV][/us/pl/114/74/tIV], § 401(a), Nov. 2, 2015, [129 Stat. 588][/us/stat/129/588].)
 
  __References in Text__ 
 
@@ -237,65 +237,65 @@
 
     2015—Subsec. (g)(8). [Pub. L. 114–74][/us/pl/114/74] added par. (8) and struck out former par. (8) which read as follows: “The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under [section 6245 of this title][/us/usc/t42/s6245].”
 
-    2000—[Pub. L. 106–469, § 103(15)(A)][/us/pl/106/469/s103/15/A], substituted “sale of petroleum products” for “distribution of the Reserve” in section catchline.
+    2000—[Pub. L. 106–469][/us/pl/106/469], § 103(15)(A), substituted “sale of petroleum products” for “distribution of the Reserve” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–469, § 103(15)(B)][/us/pl/106/469/s103/15/B], substituted “drawdown and sell petroleum products in” for “drawdown and distribute”.
+    Subsec. (a). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(B), substituted “drawdown and sell petroleum products in” for “drawdown and distribute”.
 
-    Subsec. (b). [Pub. L. 106–469, § 103(15)(C)][/us/pl/106/469/s103/15/C], struck out subsec. (b) which read as follows: “Except as provided in subsections (c), (f), and (g) of this section, no drawdown and distribution of the Reserve may be made except in accordance with the provisions of the Distribution Plan contained in the Strategic Petroleum Reserve Plan which has taken effect pursuant to [section 6239(a) of this title][/us/usc/t42/s6239/a].”
+    Subsec. (b). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(C), struck out subsec. (b) which read as follows: “Except as provided in subsections (c), (f), and (g) of this section, no drawdown and distribution of the Reserve may be made except in accordance with the provisions of the Distribution Plan contained in the Strategic Petroleum Reserve Plan which has taken effect pursuant to [section 6239(a) of this title][/us/usc/t42/s6239/a].”
 
-    Subsec. (c). [Pub. L. 106–469, § 103(15)(C)][/us/pl/106/469/s103/15/C], struck out subsec. (c) which read as follows: “Drawdown and distribution of the Early Storage Reserve may be made in accordance with the provisions of the Distribution Plan contained in the Early Storage Reserve Plan until the Strategic Petroleum Reserve Plan has taken effect pursuant to [section 6239(a) of this title][/us/usc/t42/s6239/a].”
+    Subsec. (c). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(C), struck out subsec. (c) which read as follows: “Drawdown and distribution of the Early Storage Reserve may be made in accordance with the provisions of the Distribution Plan contained in the Early Storage Reserve Plan until the Strategic Petroleum Reserve Plan has taken effect pursuant to [section 6239(a) of this title][/us/usc/t42/s6239/a].”
 
-    Subsec. (d)(1). [Pub. L. 106–469, § 103(15)(D)][/us/pl/106/469/s103/15/D], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Neither the Distribution Plan contained in the Strategic Petroleum Reserve Plan nor the Distribution Plan contained in the Early Storage Reserve Plan may be implemented, and no drawdown and distribution of the Reserve or the Early Storage Reserve may be made, unless the President has found that implementation of either such Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
+    Subsec. (d)(1). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Neither the Distribution Plan contained in the Strategic Petroleum Reserve Plan nor the Distribution Plan contained in the Early Storage Reserve Plan may be implemented, and no drawdown and distribution of the Reserve or the Early Storage Reserve may be made, unless the President has found that implementation of either such Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
 
-    Subsec. (e). [Pub. L. 106–469, § 103(15)(E)][/us/pl/106/469/s103/15/E], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary may, by rule, provide for the allocation of any petroleum product withdrawn from the Strategic Petroleum Reserve in amounts specified in (or determined in a manner prescribed by) and at prices specified in (or determined in a manner prescribed by) such rules. Such price levels and allocation procedures shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in [section 753(b)(1) of title 15][/us/usc/t15/s753/b/1].”
+    Subsec. (e). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(E), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary may, by rule, provide for the allocation of any petroleum product withdrawn from the Strategic Petroleum Reserve in amounts specified in (or determined in a manner prescribed by) and at prices specified in (or determined in a manner prescribed by) such rules. Such price levels and allocation procedures shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in [section 753(b)(1) of title 15][/us/usc/t15/s753/b/1].”
 
-    Subsec. (f). [Pub. L. 106–469, § 103(15)(C)][/us/pl/106/469/s103/15/C], struck out subsec. (f) which read as follows: “The Secretary may permit any importer or refiner who owns any petroleum products stored in the Industrial Petroleum Reserve pursuant to [section 6236 of this title][/us/usc/t42/s6236] to remove or otherwise dispose of such products upon such terms and conditions as the Secretary may prescribe.”
+    Subsec. (f). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(C), struck out subsec. (f) which read as follows: “The Secretary may permit any importer or refiner who owns any petroleum products stored in the Industrial Petroleum Reserve pursuant to [section 6236 of this title][/us/usc/t42/s6236] to remove or otherwise dispose of such products upon such terms and conditions as the Secretary may prescribe.”
 
-    Subsec. (g)(1). [Pub. L. 106–469, § 103(15)(F)(i)][/us/pl/106/469/s103/15/F/i], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall conduct a continuing evaluation of the Distribution Plan. In the conduct of such evaluation, the Secretary is authorized to carry out test drawdown and distribution of crude oil from the Reserve. If any such test drawdown includes the sale or exchange of crude oil, then the aggregate quantity of crude oil withdrawn from the Reserve may not exceed 5,000,000 barrels during any such test drawdown or distribution.”
+    Subsec. (g)(1). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(F)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall conduct a continuing evaluation of the Distribution Plan. In the conduct of such evaluation, the Secretary is authorized to carry out test drawdown and distribution of crude oil from the Reserve. If any such test drawdown includes the sale or exchange of crude oil, then the aggregate quantity of crude oil withdrawn from the Reserve may not exceed 5,000,000 barrels during any such test drawdown or distribution.”
 
-    Subsec. (g)(2). [Pub. L. 106–469, § 103(15)(F)(ii)][/us/pl/106/469/s103/15/F/ii], struck out par. (2) which read as follows: “The Secretary shall carry out such drawdown and distribution in accordance with the Distribution Plan and implementing regulations and contract provisions, modified as the Secretary considers appropriate taking into consideration the artificialities of a test and the absence of a severe energy supply interruption. To meet the requirements of subsections (d) and (e) of [section 6239 of this title][/us/usc/t42/s6239], the Secretary shall transmit any such modification of the Plan, along with explanatory and supporting material, to both Houses of the Congress no later than 15 calendar days prior to the offering of any crude oil for sale under this subsection.”
+    Subsec. (g)(2). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(F)(ii), struck out par. (2) which read as follows: “The Secretary shall carry out such drawdown and distribution in accordance with the Distribution Plan and implementing regulations and contract provisions, modified as the Secretary considers appropriate taking into consideration the artificialities of a test and the absence of a severe energy supply interruption. To meet the requirements of subsections (d) and (e) of [section 6239 of this title][/us/usc/t42/s6239], the Secretary shall transmit any such modification of the Plan, along with explanatory and supporting material, to both Houses of the Congress no later than 15 calendar days prior to the offering of any crude oil for sale under this subsection.”
 
-    Subsec. (g)(4). [Pub. L. 106–469, § 103(15)(F)(iii)][/us/pl/106/469/s103/15/F/iii], substituted “95 percent” for “90 percent”.
+    Subsec. (g)(4). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(F)(iii), substituted “95 percent” for “90 percent”.
 
-    Subsec. (g)(5). [Pub. L. 106–469, § 103(15)(F)(iv)][/us/pl/106/469/s103/15/F/iv], substituted “test” for “drawdown and distribution”.
+    Subsec. (g)(5). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(F)(iv), substituted “test” for “drawdown and distribution”.
 
-    Subsec. (g)(6). [Pub. L. 106–469, § 103(15)(F)(v)][/us/pl/106/469/s103/15/F/v], amended par. (6) generally. Prior to amendment, par. (6) read as follows:
+    Subsec. (g)(6). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(F)(v), amended par. (6) generally. Prior to amendment, par. (6) read as follows:
 
     “(6)(A) The minimum required fill rate in effect for any fiscal year shall be reduced by the amount of any crude oil drawdown from the Reserve under this subsection during such fiscal year.
 
     “(B) In the case of a sale of any crude oil under this subsection, the Secretary shall, to the extent funds are available in the SPR Petroleum Account as a result of such sale, acquire crude oil for the Reserve within the 12-month period beginning after the completion of the sale. Such acquisition shall be in addition to any acquisition of crude oil for the Reserve required as part of a fill rate established by any other provision of law.”
 
-    Subsec. (g)(8). [Pub. L. 106–469, § 103(15)(F)(vi)][/us/pl/106/469/s103/15/F/vi], substituted “test” for “drawdown and distribution”.
+    Subsec. (g)(8). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(F)(vi), substituted “test” for “drawdown and distribution”.
 
-    Subsec. (h)(1). [Pub. L. 106–469, § 103(15)(G)(i)][/us/pl/106/469/s103/15/G/i], substituted “sell petroleum products from” for “distribute” in concluding provisions.
+    Subsec. (h)(1). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(G)(i), substituted “sell petroleum products from” for “distribute” in concluding provisions.
 
-    Subsec. (h)(1)(C). [Pub. L. 106–469, § 103(15)(G)(ii)][/us/pl/106/469/s103/15/G/ii], added subpar. (C).
+    Subsec. (h)(1)(C). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(G)(ii), added subpar. (C).
 
-    Subsec. (h)(2). [Pub. L. 106–469, § 103(15)(G)(iii)][/us/pl/106/469/s103/15/G/iii], substituted “Petroleum products from the Reserve may not” for “In no case may the Reserve” in introductory provisions.
+    Subsec. (h)(2). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(G)(iii), substituted “Petroleum products from the Reserve may not” for “In no case may the Reserve” in introductory provisions.
 
-    Subsec. (h)(3). [Pub. L. 106–469, § 103(15)(G)(iv)][/us/pl/106/469/s103/15/G/iv], substituted “sale” for “distribution” in two places.
+    Subsec. (h)(3). [Pub. L. 106–469][/us/pl/106/469], § 103(15)(G)(iv), substituted “sale” for “distribution” in two places.
 
     1998—Subsec. (j). [Pub. L. 105–388][/us/pl/105/388] added subsec. (j).
 
-    1992—Subsec. (d). [Pub. L. 102–486, § 1401(1)][/us/pl/102/486/s1401/1], designated existing provisions as par. (1) and added par. (2).
+    1992—Subsec. (d). [Pub. L. 102–486][/us/pl/102/486], § 1401(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (h)(1)(A). [Pub. L. 102–486, § 1401(2)][/us/pl/102/486/s1401/2], inserted “or international” after “domestic”.
+    Subsec. (h)(1)(A). [Pub. L. 102–486][/us/pl/102/486], § 1401(2), inserted “or international” after “domestic”.
 
-    1990—Subsec. (g)(1). [Pub. L. 101–383, § 8][/us/pl/101/383/s8], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
+    1990—Subsec. (g)(1). [Pub. L. 101–383][/us/pl/101/383], § 8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
 
-    Subsec. (h). [Pub. L. 101–383, § 3(b)][/us/pl/101/383/s3/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–383][/us/pl/101/383], § 3(b), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 101–383, § 10][/us/pl/101/383/s10], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–383][/us/pl/101/383], § 10, added subsec. (i).
 
-    1985—Subsec. (b). [Pub. L. 99–58, § 103(b)(2)][/us/pl/99/58/s103/b/2], inserted reference to subsec. (g) of this section.
+    1985—Subsec. (b). [Pub. L. 99–58][/us/pl/99/58], § 103(b)(2), inserted reference to subsec. (g) of this section.
 
-    Subsec. (g). [Pub. L. 99–58, § 103(a)][/us/pl/99/58/s103/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–58][/us/pl/99/58], § 103(a), added subsec. (g).
 
     1978—Subsecs. (a), (e), (f). [Pub. L. 95–619][/us/pl/95/619] substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–388, § 9(c)][/us/pl/105/388/s9/c], Nov. 13, 1998, [112 Stat. 3484][/us/stat/112/3484], provided that: 
+[Pub. L. 105–388][/us/pl/105/388], § 9(c), Nov. 13, 1998, [112 Stat. 3484][/us/stat/112/3484], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on the earlier of—
 
@@ -305,7 +305,7 @@
 
  __Regulations__ 
 
-[Pub. L. 105–388, § 9(b)][/us/pl/105/388/s9/b], Nov. 13, 1998, [112 Stat. 3484][/us/stat/112/3484], provided that:
+[Pub. L. 105–388][/us/pl/105/388], § 9(b), Nov. 13, 1998, [112 Stat. 3484][/us/stat/112/3484], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Strategic Petroleum Reserve Drawdown and Sale__ 
 
-[Pub. L. 114–94, div. C, title XXXII, § 32204][/us/pl/114/94/s32204], Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740], provided that:
+[Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32204, Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740], provided that:
 
 >     “(a) __Drawdown and Sale.—__ 
 
@@ -355,7 +355,7 @@
 
 >         The Secretary of Energy shall not drawdown or conduct sales of crude oil under this section after the date on which a total of $6,200,000,000 has been deposited in the general fund of the Treasury from sales authorized under this section.”
 
-[Pub. L. 114–74, title IV, § 403][/us/pl/114/74/s403], Nov. 2, 2015, [129 Stat. 589][/us/stat/129/589], provided that:
+[Pub. L. 114–74, title IV][/us/pl/114/74/tIV], § 403, Nov. 2, 2015, [129 Stat. 589][/us/stat/129/589], provided that:
 
 >     “(a)  __Drawdown and Sale__  __.—__ 
 
@@ -392,79 +392,79 @@
 ----------
 ----------
 
-[/us/pl/106/469/s103/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FC
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2031
 [/us/usc/t42/s6202/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6202%2F8
-[/us/pl/106/469/s103/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FC
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2031
-[/us/pl/106/469/s103/15/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FF%2Fii
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2031
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
 [/us/usc/t42/s6393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6393
 [/us/usc/t42/s6245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6245
-[/us/pl/94/163/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs161
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F888
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/99/58/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs103%2Fa
+[/us/pl/99/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2FtI
 [/us/stat/99/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F103
 [/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/stat/104/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F727
-[/us/pl/102/486/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1401
+[/us/pl/102/486/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIV
 [/us/stat/106/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2993
-[/us/pl/105/388/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs9%2Fa
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3482
-[/us/pl/106/469/s103/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2031
-[/us/pl/114/74/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs401%2Fa
+[/us/pl/114/74/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtIV
 [/us/stat/129/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F588
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/usc/t42/s6245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6245
-[/us/pl/106/469/s103/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FA
-[/us/pl/106/469/s103/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FB
-[/us/pl/106/469/s103/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FC
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/usc/t42/s6239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239%2Fa
-[/us/pl/106/469/s103/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FC
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/usc/t42/s6239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239%2Fa
-[/us/pl/106/469/s103/15/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FD
-[/us/pl/106/469/s103/15/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FE
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/usc/t15/s753/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs753%2Fb%2F1
-[/us/pl/106/469/s103/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FC
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/usc/t42/s6236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6236
-[/us/pl/106/469/s103/15/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FF%2Fi
-[/us/pl/106/469/s103/15/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FF%2Fii
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/usc/t42/s6239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239
-[/us/pl/106/469/s103/15/F/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FF%2Fiii
-[/us/pl/106/469/s103/15/F/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FF%2Fiv
-[/us/pl/106/469/s103/15/F/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FF%2Fv
-[/us/pl/106/469/s103/15/F/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FF%2Fvi
-[/us/pl/106/469/s103/15/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FG%2Fi
-[/us/pl/106/469/s103/15/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FG%2Fii
-[/us/pl/106/469/s103/15/G/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FG%2Fiii
-[/us/pl/106/469/s103/15/G/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FG%2Fiv
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
-[/us/pl/102/486/s1401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1401%2F1
-[/us/pl/102/486/s1401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1401%2F2
-[/us/pl/101/383/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs8
-[/us/pl/101/383/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs3%2Fb
-[/us/pl/101/383/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs10
-[/us/pl/99/58/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs103%2Fb%2F2
-[/us/pl/99/58/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs103%2Fa
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/105/388/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs9%2Fc
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3484
-[/us/pl/105/388/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs9%2Fb
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3484
 [/us/usc/t42/s6393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6393
 [/us/usc/t42/s7191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191
-[/us/pl/114/94/s32204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32204
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1740
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
 [/us/usc/t42/s6241/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241%2Fh
-[/us/pl/114/74/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs403
+[/us/pl/114/74/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtIV
 [/us/stat/129/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F589
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
 [/us/usc/t42/s6241/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241%2Fh

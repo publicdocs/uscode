@@ -39,15 +39,15 @@
 
         For purposes of subsection (a)(2) of this section, a service has actually been provided when the task described by the service has been accomplished.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 469, as added [Pub. L. 100–485, title I, § 129][/us/pl/100/485/s129], Oct. 13, 1988, [102 Stat. 2356][/us/stat/102/2356]; amended [Pub. L. 100–647, title VIII, § 8105(6)][/us/pl/100/647/s8105/6], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 104–193, title I, § 108(c)(16)][/us/pl/104/193/s108/c/16], title III, § 395(d)(2)(E), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2260; [Pub. L. 105–200, title IV, § 407(a)][/us/pl/105/200/s407/a], July 16, 1998, [112 Stat. 672][/us/stat/112/672].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 469, as added [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 129, Oct. 13, 1988, [102 Stat. 2356][/us/stat/102/2356]; amended [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8105(6), Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(c)(16), title III, § 395(d)(2)(E), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2260; [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 407(a), July 16, 1998, [112 Stat. 672][/us/stat/112/672].)
 
  __Amendments__ 
 
     1998—[Pub. L. 105–200][/us/pl/105/200] reenacted section catchline without change, added subsecs. (a) to (c), redesignated former subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
 
-    1996—Subsec. (a). [Pub. L. 104–193, § 108(c)(16)][/us/pl/104/193/s108/c/16], substituted “assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)” for “aid under plans approved under part A of this subchapter and for families not receiving such aid)”.
+    1996—Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], § 108(c)(16), substituted “assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)” for “aid under plans approved under part A of this subchapter and for families not receiving such aid)”.
 
-    Subsec. (b)(2), (4). [Pub. L. 104–193, § 395(d)(2)(E)][/us/pl/104/193/s395/d/2/E], substituted “a noncustodial parent” for “an absent parent”.
+    Subsec. (b)(2), (4). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(2)(E), substituted “a noncustodial parent” for “an absent parent”.
 
     1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647] made technical amendment to references to part A of this subchapter and to this part involving underlying provisions of original act and requiring no change in text.
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–647, title VIII, § 8105][/us/pl/100/647/s8105], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797], provided that the amendment made by that section is effective on date of enactment of Family Support Act of 1988, [Pub. L. 100–485][/us/pl/100/485], which was approved Oct. 13, 1988.
+    [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8105, Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797], provided that the amendment made by that section is effective on date of enactment of Family Support Act of 1988, [Pub. L. 100–485][/us/pl/100/485], which was approved Oct. 13, 1988.
 
 ----------
 
@@ -73,17 +73,17 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/485/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs129
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2356
-[/us/pl/100/647/s8105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8105%2F6
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3797
-[/us/pl/104/193/s108/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F16
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2166
-[/us/pl/105/200/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs407%2Fa
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F672
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
-[/us/pl/104/193/s108/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F16
-[/us/pl/104/193/s395/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F2%2FE
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
 [/us/pl/105/200/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs407%2Fc
@@ -94,7 +94,7 @@
 [/us/pl/104/193/s395/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F2%2FE
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/100/647/s8105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8105
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3797
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 

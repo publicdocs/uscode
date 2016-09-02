@@ -31,11 +31,11 @@
 
     The Council shall not disapprove any program without first giving reasonable notice and opportunity for hearing to the State agency administering such program.
 
-([Pub. L. 89–80, title III, § 303][/us/pl/89/80/s303], July 22, 1965, [79 Stat. 252][/us/stat/79/252]; [Pub. L. 113–287, § 5(k)(1)][/us/pl/113/287/s5/k/1], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
+([Pub. L. 89–80, title III][/us/pl/89/80/tIII], § 303, July 22, 1965, [79 Stat. 252][/us/stat/79/252]; [Pub. L. 113–287][/us/pl/113/287], § 5(k)(1), Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
  __References in Text__ 
 
-    Section 701 of the Housing Act of 1954, referred to in par. (2), is section 701 of [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], [68 Stat. 640][/us/stat/68/640], which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by [Pub. L. 97–35, title III, § 313(b)][/us/pl/97/35/s313/b], Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
+    Section 701 of the Housing Act of 1954, referred to in par. (2), is section 701 of [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], [68 Stat. 640][/us/stat/68/640], which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 313(b), Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/89/80/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs303
+[/us/pl/89/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIII
 [/us/stat/79/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F252
-[/us/pl/113/287/s5/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F1
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F640
-[/us/pl/97/35/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs313%2Fb
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F398
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 

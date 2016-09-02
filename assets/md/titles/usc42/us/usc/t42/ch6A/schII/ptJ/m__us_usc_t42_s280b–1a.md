@@ -41,7 +41,7 @@
 
     (b) For purposes of this part, the term “interpersonal violence within families and among acquaintances” includes behavior commonly referred to as domestic violence, sexual assault, spousal abuse, woman battering, partner abuse, elder abuse, and acquaintance rape.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393, as added [Pub. L. 103–183, title II, § 201(2)][/us/pl/103/183/s201/2], Dec. 14, 1993, [107 Stat. 2231][/us/stat/107/2231].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393, as added [Pub. L. 103–183, title II][/us/pl/103/183/tII], § 201(2), Dec. 14, 1993, [107 Stat. 2231][/us/stat/107/2231].)
 
  __Prior Provisions__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/183/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs201%2F2
+[/us/pl/103/183/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtII
 [/us/stat/107/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2231
 [/us/usc/t42/s280b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%932
 [/us/usc/t42/s280b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%934

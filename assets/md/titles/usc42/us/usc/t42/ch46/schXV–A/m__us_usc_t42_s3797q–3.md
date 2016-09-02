@@ -29,7 +29,7 @@
 
             Not more than 50 percent of the amount provided by a recipient of a grant under this subchapter to meet the matching requirement under subsection (a) may be provided through in-kind contributions under paragraph (1).
 
-([Pub. L. 90–351, title I, § 2904][/us/pl/90/351/s2904], as added [Pub. L. 110–199, title I, § 112(a)][/us/pl/110/199/s112/a], Apr. 9, 2008, [122 Stat. 673][/us/stat/122/673].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2904, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 112(a), Apr. 9, 2008, [122 Stat. 673][/us/stat/122/673].)
 
  __Construction of 2008 Amendment__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2904
-[/us/pl/110/199/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs112%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F673
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504

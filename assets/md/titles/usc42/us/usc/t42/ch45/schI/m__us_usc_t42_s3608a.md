@@ -23,7 +23,7 @@
 
         The Secretary of Agriculture shall include in the annual report of such Secretary to the Congress a summary and evaluation of the data collected by such Secretary under subsection (a) of this section during the preceding year.
 
-([Pub. L. 100–242, title V, § 562][/us/pl/100/242/s562], Feb. 5, 1988, [101 Stat. 1944][/us/stat/101/1944]; [Pub. L. 104–66, title I, § 1071(e)][/us/pl/104/66/s1071/e], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].)
+([Pub. L. 100–242, title V][/us/pl/100/242/tV], § 562, Feb. 5, 1988, [101 Stat. 1944][/us/stat/101/1944]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1071(e), Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    1995—Subsec. (a). [Pub. L. 104–66, § 1071(e)(1)][/us/pl/104/66/s1071/e/1], struck out “the Secretary of Housing and Urban Development and” before “the Secretary of Agriculture”, “each” before “collect, not less than annually”, and “involved” before “determines such collection”.
+    1995—Subsec. (a). [Pub. L. 104–66][/us/pl/104/66], § 1071(e)(1), struck out “the Secretary of Housing and Urban Development and” before “the Secretary of Agriculture”, “each” before “collect, not less than annually”, and “involved” before “determines such collection”.
 
-    Subsec. (b). [Pub. L. 104–66, § 1071(e)(2)][/us/pl/104/66/s1071/e/2], substituted “The” for “The Secretary of Housing and Urban Development and the” before “Secretary of Agriculture” and struck out “each” before “include in the”.
+    Subsec. (b). [Pub. L. 104–66][/us/pl/104/66], § 1071(e)(2), substituted “The” for “The Secretary of Housing and Urban Development and the” before “Secretary of Agriculture” and struck out “each” before “include in the”.
 
 ----------
 
@@ -52,9 +52,9 @@
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/100/242/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs562
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1944
-[/us/pl/104/66/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fe
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F720
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
@@ -65,7 +65,7 @@
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
-[/us/pl/104/66/s1071/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fe%2F1
-[/us/pl/104/66/s1071/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fe%2F2
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 
 

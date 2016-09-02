@@ -43,7 +43,7 @@
 
         Any acceptance of funds or reimbursements made by the Secretary before February 7, 2014, that otherwise would have been authorized under this section shall be considered to have been made in accordance with this section.
 
-([Pub. L. 113–79, title VIII, § 8304][/us/pl/113/79/s8304], Feb. 7, 2014, [128 Stat. 924][/us/stat/128/924].)
+([Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8304, Feb. 7, 2014, [128 Stat. 924][/us/stat/128/924].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8304
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F924
 [/us/pl/113/79/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8304
 [/us/pl/113/79/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8304

@@ -41,11 +41,11 @@
 
             The Secretary may not make payments under [section 290cc–21 of this title][/us/usc/t42/s290cc–21] unless the services to be provided pursuant to the description required in subsection (a) of this section have been considered in the preparation of, have been included in, and are consistent with, the State comprehensive mental health services plan referred to in paragraph (1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 527, as added [Pub. L. 100–77, title VI, § 611(3)][/us/pl/100/77/s611/3], July 22, 1987, [101 Stat. 520][/us/stat/101/520]; amended [Pub. L. 101–645, title V, § 511][/us/pl/101/645/s511], Nov. 29, 1990, [104 Stat. 4730][/us/stat/104/4730].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 527, as added [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 611(3), July 22, 1987, [101 Stat. 520][/us/stat/101/520]; amended [Pub. L. 101–645, title V][/us/pl/101/645/tV], § 511, Nov. 29, 1990, [104 Stat. 4730][/us/stat/104/4730].)
 
  __References in Text__ 
 
-    Subpart 2 of part B of subchapter XVII of this chapter, referred to in subsec. (c)(1), which related to State comprehensive mental health services plans and which was classified to section 300x–10 et seq. of this title, was repealed by [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 378][/us/stat/106/378], and a new subpart 2 of part B of subchapter XVII of this chapter, relating to block grants for prevention and treatment of substance abuse, was added by [section 202 of Pub. L. 102–321][/us/pl/102/321/s202] and classified to section 300x–21 et seq. of this title.
+    Subpart 2 of part B of subchapter XVII of this chapter, referred to in subsec. (c)(1), which related to State comprehensive mental health services plans and which was classified to section 300x–10 et seq. of this title, was repealed by [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 378][/us/stat/106/378], and a new subpart 2 of part B of subchapter XVII of this chapter, relating to block grants for prevention and treatment of substance abuse, was added by [section 202 of Pub. L. 102–321][/us/pl/102/321/s202] and classified to section 300x–21 et seq. of this title.
 
  __Prior Provisions__ 
 
@@ -69,11 +69,11 @@
 [/us/usc/t42/s290cc–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9321
 [/us/usc/t42/s290cc–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/77/s611/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs611%2F3
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F520
-[/us/pl/101/645/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs511
+[/us/pl/101/645/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtV
 [/us/stat/104/4730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4730
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F378
 [/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
 [/us/pl/100/77/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs611%2F2

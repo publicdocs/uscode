@@ -19,7 +19,7 @@
 
     (b) In carrying out the provisions of this chapter, the Secretary is authorized to enter into contracts only to such extent or in such amounts as may be provided in advance in appropriations Acts.
 
-([Pub. L. 96–386, § 13][/us/pl/96/386/s13], Oct. 7, 1980, [94 Stat. 1544][/us/stat/94/1544].)
+([Pub. L. 96–386][/us/pl/96/386], § 13, Oct. 7, 1980, [94 Stat. 1544][/us/stat/94/1544].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t42/s7270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7270
-[/us/pl/96/386/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs13
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1544
 
 

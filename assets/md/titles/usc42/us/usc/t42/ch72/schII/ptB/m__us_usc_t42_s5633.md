@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_s5632.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptC/m__us_usc_t42_ch72_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633)
+[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_s5632.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_s5634...5639.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633)
 
 ## § 5633. State plans
 
@@ -405,49 +405,49 @@
 
             (E) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
 
-([Pub. L. 93–415, title II, § 223][/us/pl/93/415/s223], Sept. 7, 1974, [88 Stat. 1119][/us/stat/88/1119]; [Pub. L. 94–503, title I, § 130(b)][/us/pl/94/503/s130/b], Oct. 15, 1976, [90 Stat. 2425][/us/stat/90/2425]; [Pub. L. 95–115][/us/pl/95/115], §§ 3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1051–1054; [Pub. L. 96–509][/us/pl/96/509], §§ 11, 19(g), Dec. 8, 1980, [94 Stat. 2755][/us/stat/94/2755], 2764; [Pub. L. 98–473, title II, § 626][/us/pl/98/473/s626], Oct. 12, 1984, [98 Stat. 2111][/us/stat/98/2111]; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7258, 7263(b)(1), Nov. 18, 1988, [102 Stat. 4439][/us/stat/102/4439], 4447; [Pub. L. 102–586, § 2(f)(3)(A)][/us/pl/102/586/s2/f/3/A], Nov. 4, 1992, [106 Stat. 4987][/us/stat/106/4987]; [Pub. L. 103–322, title XI, § 110201(d)][/us/pl/103/322/s110201/d], Sept. 13, 1994, [108 Stat. 2012][/us/stat/108/2012]; [Pub. L. 104–294, title VI, § 604(b)(28)][/us/pl/104/294/s604/b/28], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 129(a)(2)(C)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–76; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 142\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235; [Pub. L. 107–273, div. C, title II, § 12209][/us/pl/107/273/s12209], Nov. 2, 2002, [116 Stat. 1873][/us/stat/116/1873]; [Pub. L. 109–162, title III, § 305][/us/pl/109/162/s305], Jan. 5, 2006, [119 Stat. 3016][/us/stat/119/3016].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 223, Sept. 7, 1974, [88 Stat. 1119][/us/stat/88/1119]; [Pub. L. 94–503, title I][/us/pl/94/503/tI], § 130(b), Oct. 15, 1976, [90 Stat. 2425][/us/stat/90/2425]; [Pub. L. 95–115][/us/pl/95/115], §§ 3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1051–1054; [Pub. L. 96–509][/us/pl/96/509], §§ 11, 19(g), Dec. 8, 1980, [94 Stat. 2755][/us/stat/94/2755], 2764; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 626, Oct. 12, 1984, [98 Stat. 2111][/us/stat/98/2111]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7258, 7263(b)(1), Nov. 18, 1988, [102 Stat. 4439][/us/stat/102/4439], 4447; [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A), Nov. 4, 1992, [106 Stat. 4987][/us/stat/106/4987]; [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110201(d), Sept. 13, 1994, [108 Stat. 2012][/us/stat/108/2012]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(28), Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 129(a)(2)(C)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–76; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 142\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12209, Nov. 2, 2002, [116 Stat. 1873][/us/stat/116/1873]; [Pub. L. 109–162, title III][/us/pl/109/162/tIII], § 305, Jan. 5, 2006, [119 Stat. 3016][/us/stat/119/3016].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a)(18), was in the original “this Act”, meaning [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title][/us/usc/t42/s5601] and Tables.
 
-    [Section 3785 of this title][/us/usc/t42/s3785], referred to in subsec. (d), was repealed by [Pub. L. 109–162, title XI, § 1155(3)][/us/pl/109/162/s1155/3], Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114].
+    [Section 3785 of this title][/us/usc/t42/s3785], referred to in subsec. (d), was repealed by [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1155(3), Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114].
 
  __Amendments__ 
 
     2006—Subsec. (a)(7)(B)(i) to (iv). [Pub. L. 109–162][/us/pl/109/162] added cl. (i) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 12209(1)(A)][/us/pl/107/273/s12209/1/A], substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(A), substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 107–273, § 12209(1)(B)(i)][/us/pl/107/273/s12209/1/B/i], substituted “that—” for “, which—” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(B)(i), substituted “that—” for “, which—” in introductory provisions.
 
-    Subsec. (a)(3)(A)(i). [Pub. L. 107–273, § 12209(1)(B)(ii)][/us/pl/107/273/s12209/1/B/ii], substituted “, the administration of juvenile justice, or the reduction of juvenile delinquency” for “or the administration of juvenile justice”.
+    Subsec. (a)(3)(A)(i). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(B)(ii), substituted “, the administration of juvenile justice, or the reduction of juvenile delinquency” for “or the administration of juvenile justice”.
 
-    Subsec. (a)(3)(D)(i). [Pub. L. 107–273, § 12209(1)(B)(iii)(I)][/us/pl/107/273/s12209/1/B/iii/I], inserted “and” at end.
+    Subsec. (a)(3)(D)(i). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(B)(iii)(I), inserted “and” at end.
 
-    Subsec. (a)(3)(D)(ii). [Pub. L. 107–273, § 12209(1)(B)(iii)(II)][/us/pl/107/273/s12209/1/B/iii/II], substituted “paragraphs (11), (12), and (13)” for “paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter”.
+    Subsec. (a)(3)(D)(ii). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(B)(iii)(II), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter”.
 
-    Subsec. (a)(5). [Pub. L. 107–273, § 12209(1)(C)(i)][/us/pl/107/273/s12209/1/C/i], substituted “reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding” for “, other than” in introductory provisions.
+    Subsec. (a)(5). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(C)(i), substituted “reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding” for “, other than” in introductory provisions.
 
-    Subsec. (a)(5)(C). [Pub. L. 107–273, § 12209(1)(C)(ii)][/us/pl/107/273/s12209/1/C/ii], substituted “paragraphs (11), (12), and (13)” for “paragraphs (12)(A), (13), and (14)”.
+    Subsec. (a)(5)(C). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(C)(ii), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12)(A), (13), and (14)”.
 
-    Subsec. (a)(6). [Pub. L. 107–273, § 12209(1)(D)][/us/pl/107/273/s12209/1/D], (S), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government’s part of a State plan, or for the supervision of the preparation and administration of the local government’s part of the State plan, to that agency within the local government’s structure or to a regional planning agency (hereinafter in this part referred to as the ‘local agency’) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;”.
+    Subsec. (a)(6). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(D), (S), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government’s part of a State plan, or for the supervision of the preparation and administration of the local government’s part of the State plan, to that agency within the local government’s structure or to a regional planning agency (hereinafter in this part referred to as the ‘local agency’) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;”.
 
-    Subsec. (a)(7). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (8) as (7). Former par. (7) redesignated (6).
+    Subsec. (a)(7). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-    [Pub. L. 107–273, § 12209(1)(E)][/us/pl/107/273/s12209/1/E], inserted “, including in rural areas” before semicolon at end.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(E), inserted “, including in rural areas” before semicolon at end.
 
-    Subsec. (a)(8). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (9) as (8). Former par. (8) redesignated (7).
+    Subsec. (a)(8). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (9) as (8). Former par. (8) redesignated (7).
 
-    Subsec. (a)(8)(A). [Pub. L. 107–273, § 12209(1)(F)(i)][/us/pl/107/273/s12209/1/F/i], substituted “for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State” for “for (i) an analysis of juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) within the relevant jurisdiction” and “of the State; and” for “of the jurisdiction; (ii) an indication of the manner in which the programs relate to other similar State or local programs which are intended to address the same or similar problems; and (iii) a plan for the concentration of State efforts which shall coordinate all State juvenile delinquency programs with respect to overall policy and development of objectives and priorities for all State juvenile delinquency programs and activities, including provision for regular meetings of State officials with responsibility in the area of juvenile justice and delinquency prevention;”.
+    Subsec. (a)(8)(A). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(F)(i), substituted “for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State” for “for (i) an analysis of juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) within the relevant jurisdiction” and “of the State; and” for “of the jurisdiction; (ii) an indication of the manner in which the programs relate to other similar State or local programs which are intended to address the same or similar problems; and (iii) a plan for the concentration of State efforts which shall coordinate all State juvenile delinquency programs with respect to overall policy and development of objectives and priorities for all State juvenile delinquency programs and activities, including provision for regular meetings of State officials with responsibility in the area of juvenile justice and delinquency prevention;”.
 
-    Subsec. (a)(8)(B). [Pub. L. 107–273, § 12209(1)(F)(ii)][/us/pl/107/273/s12209/1/F/ii], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “contain—
+    Subsec. (a)(8)(B). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(F)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “contain—
 
     “(i) an analysis of gender-specific services for the prevention and treatment of juvenile delinquency, including the types of such services available and the need for such services for females; and
 
     “(ii) a plan for providing needed gender-specific services for the prevention and treatment of juvenile delinquency;”.
 
-    Subsec. (a)(8)(C), (D). [Pub. L. 107–273, § 12209(1)(F)(iii)][/us/pl/107/273/s12209/1/F/iii], struck out subpars. (C) and (D) which read as follows:
+    Subsec. (a)(8)(C), (D). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(F)(iii), struck out subpars. (C) and (D) which read as follows:
 
     “(C) contain—
 
@@ -461,17 +461,17 @@
 
     “(ii) a plan for providing needed mental health services to juveniles in the juvenile justice system;”.
 
-    Subsec. (a)(9). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (10) as (9). Former par. (9) redesignated (8).
+    Subsec. (a)(9). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
-    [Pub. L. 107–273, § 12209(1)(G)][/us/pl/107/273/s12209/1/G], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(G), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;”.
 
-    Subsec. (a)(10). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (11) as (10). Former par. (10) redesignated (9).
+    Subsec. (a)(10). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (11) as (10). Former par. (10) redesignated (9).
 
-    Subsec. (a)(10)(A). [Pub. L. 107–273, § 12209(1)(H)(i)][/us/pl/107/273/s12209/1/H/i], substituted “including” for “, specifically” in introductory provisions, redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;”.
+    Subsec. (a)(10)(A). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(i), substituted “including” for “, specifically” in introductory provisions, redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;”.
 
-    Subsec. (a)(10)(D). [Pub. L. 107–273, § 12209(1)(H)(ii)][/us/pl/107/273/s12209/1/H/ii], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;”.
+    Subsec. (a)(10)(D). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;”.
 
-    Subsec. (a)(10)(E). [Pub. L. 107–273, § 12209(1)(H)(iii)][/us/pl/107/273/s12209/1/H/iii], substituted “juveniles—” for “juveniles, provided equitably regardless of sex, race, or family income, designed to—” in introductory provisions, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
+    Subsec. (a)(10)(E). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(iii), substituted “juveniles—” for “juveniles, provided equitably regardless of sex, race, or family income, designed to—” in introductory provisions, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
 
     “(I) education in settings that promote experiential, individualized learning and exploration of academic and career options;
 
@@ -481,49 +481,49 @@
 
     “(IV) programs to counsel delinquent juveniles and other juveniles regarding the opportunities that education provides; and”.
 
-    Subsec. (a)(10)(F). [Pub. L. 107–273, § 12209(1)(H)(iv)][/us/pl/107/273/s12209/1/H/iv], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allow youth to remain at home with their families as an alternative to incarceration or institutionalization;”.
+    Subsec. (a)(10)(F). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(iv), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allow youth to remain at home with their families as an alternative to incarceration or institutionalization;”.
 
-    Subsec. (a)(10)(G). [Pub. L. 107–273, § 12209(1)(H)(v)][/us/pl/107/273/s12209/1/H/v], amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “youth-initiated outreach programs designed to assist youth (including youth with limited proficiency in English) who otherwise would not be reached by traditional youth assistance programs;”.
+    Subsec. (a)(10)(G). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(v), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “youth-initiated outreach programs designed to assist youth (including youth with limited proficiency in English) who otherwise would not be reached by traditional youth assistance programs;”.
 
-    Subsec. (a)(10)(H). [Pub. L. 107–273, § 12209(1)(H)(vii)][/us/pl/107/273/s12209/1/H/vii], substituted “juveniles with disabilities” for “handicapped youth”.
+    Subsec. (a)(10)(H). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(vii), substituted “juveniles with disabilities” for “handicapped youth”.
 
-    Subsec. (a)(10)(K). [Pub. L. 107–273, § 12209(1)(H)(viii)][/us/pl/107/273/s12209/1/H/viii], (xiii), redesignated subpar. (L) as (K) and struck out former subpar. (K) which read as follows: “law-related education programs (and projects) for delinquent and at-risk youth designed to prevent juvenile delinquency;”.
+    Subsec. (a)(10)(K). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(viii), (xiii), redesignated subpar. (L) as (K) and struck out former subpar. (K) which read as follows: “law-related education programs (and projects) for delinquent and at-risk youth designed to prevent juvenile delinquency;”.
 
-    Subsec. (a)(10)(L). [Pub. L. 107–273, § 12209(1)(H)(xiii)][/us/pl/107/273/s12209/1/H/xiii], redesignated subpar. (M) as (L). Former subpar. (L) redesignated (K).
+    Subsec. (a)(10)(L). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(xiii), redesignated subpar. (M) as (L). Former subpar. (L) redesignated (K).
 
-    Subsec. (a)(10)(L)(vi). [Pub. L. 107–273, § 12209(1)(H)(ix)][/us/pl/107/273/s12209/1/H/ix], struck out cl. (vi) which read as follows: “a sense of competence and mastery including health and physical competence, personal and social competence, cognitive and creative competence, vocational competence, and citizenship competence, including ethics and participation;”.
+    Subsec. (a)(10)(L)(vi). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(ix), struck out cl. (vi) which read as follows: “a sense of competence and mastery including health and physical competence, personal and social competence, cognitive and creative competence, vocational competence, and citizenship competence, including ethics and participation;”.
 
-    Subsec. (a)(10)(M). [Pub. L. 107–273, § 12209(1)(H)(xiii)][/us/pl/107/273/s12209/1/H/xiii], redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
+    Subsec. (a)(10)(M). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(xiii), redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
 
-    Subsec. (a)(10)(M)(i). [Pub. L. 107–273, § 12209(1)(H)(x)][/us/pl/107/273/s12209/1/H/x], struck out “boot camps” after “electronic monitoring,”.
+    Subsec. (a)(10)(M)(i). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(x), struck out “boot camps” after “electronic monitoring,”.
 
-    Subsec. (a)(10)(N). [Pub. L. 107–273, § 12209(1)(H)(xiii)][/us/pl/107/273/s12209/1/H/xiii], redesignated subpar. (O) as (N). Former subpar. (N) redesignated (M).
+    Subsec. (a)(10)(N). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(xiii), redesignated subpar. (O) as (N). Former subpar. (N) redesignated (M).
 
-    [Pub. L. 107–273, § 12209(1)(H)(xi)][/us/pl/107/273/s12209/1/H/xi], amended subpar. (N) generally. Prior to amendment, subpar. (N) read as follows: “programs designed to prevent and reduce hate crimes committed by juveniles, including educational programs and sentencing programs designed specifically for juveniles who commit hate crimes and that provide alternatives to incarceration; and”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(xi), amended subpar. (N) generally. Prior to amendment, subpar. (N) read as follows: “programs designed to prevent and reduce hate crimes committed by juveniles, including educational programs and sentencing programs designed specifically for juveniles who commit hate crimes and that provide alternatives to incarceration; and”.
 
-    Subsec. (a)(10)(O). [Pub. L. 107–273, § 12209(1)(H)(xiv)][/us/pl/107/273/s12209/1/H/xiv], added subpar. (O). Former subpar. (O) redesignated (N).
+    Subsec. (a)(10)(O). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(xiv), added subpar. (O). Former subpar. (O) redesignated (N).
 
-    [Pub. L. 107–273, § 12209(1)(H)(xii)][/us/pl/107/273/s12209/1/H/xii], substituted “other barriers” for “cultural barriers” and semicolon for period at end.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(xii), substituted “other barriers” for “cultural barriers” and semicolon for period at end.
 
-    Subsec. (a)(10)(P) to (S). [Pub. L. 107–273, § 12209(1)(H)(xiv)][/us/pl/107/273/s12209/1/H/xiv], added subpars. (P) to (S).
+    Subsec. (a)(10)(P) to (S). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(H)(xiv), added subpars. (P) to (S).
 
-    Subsec. (a)(11). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (12) as (11). Former par. (11) redesignated (10).
+    Subsec. (a)(11). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-    Subsec. (a)(12). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (13) as (12). Former par. (12) redesignated (11).
+    Subsec. (a)(12). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (13) as (12). Former par. (12) redesignated (11).
 
-    [Pub. L. 107–273, § 12209(1)(I)][/us/pl/107/273/s12209/1/I], amended par. (12) generally. Prior to amendment, par. (12) read as follows:
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(I), amended par. (12) generally. Prior to amendment, par. (12) read as follows:
 
     “(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of [section 922(x) of title 18][/us/usc/t18/s922/x] or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
 
     “(B) provide that the State shall submit annual reports to the Administrator containing a review of the progress made by the State to achieve the deinstitutionalization of juveniles described in subparagraph (A) and a review of the progress made by the State to provide that such juveniles, if placed in facilities, are placed in facilities which (i) are the least restrictive alternatives appropriate to the needs of the child and the community; (ii) are in reasonable proximity to the family and the home communities of such juveniles; and (iii) provide the services described in [section 5603(1) of this title][/us/usc/t42/s5603/1];”.
 
-    Subsec. (a)(13). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (14) as (13). Former par. (13) redesignated (12).
+    Subsec. (a)(13). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
-    [Pub. L. 107–273, § 12209(1)(J)][/us/pl/107/273/s12209/1/J], amended par. (13) generally. Prior to amendment, par. (13) read as follows: “provide that juveniles alleged to be or found to be delinquent and youths within the purview of paragraph (12) shall not be detained or confined in any institution in which they have contact with adult persons incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults;”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(J), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “provide that juveniles alleged to be or found to be delinquent and youths within the purview of paragraph (12) shall not be detained or confined in any institution in which they have contact with adult persons incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults;”.
 
-    Subsec. (a)(14). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (15) as (14). Former par. (14) redesignated (13).
+    Subsec. (a)(14). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (15) as (14). Former par. (14) redesignated (13).
 
-    [Pub. L. 107–273, § 12209(1)(K)][/us/pl/107/273/s12209/1/K], amended par. (14) generally. Prior to amendment, par. (14) read as follows: “provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(K), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
 
     “(A)(i) are outside a Standard Metropolitan Statistical Area; and
 
@@ -533,19 +533,19 @@
 
     “(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;”.
 
-    Subsec. (a)(15). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (16) as (15). Former par. (15) redesignated (14).
+    Subsec. (a)(15). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (16) as (15). Former par. (15) redesignated (14).
 
-    [Pub. L. 107–273, § 12209(1)(L)][/us/pl/107/273/s12209/1/L], substituted “paragraphs (11), (12), and (13)” for “paragraph (12)(A), paragraph (13), and paragraph (14)” and “paragraphs (11) and (12)” for “paragraph (12)(A) and paragraph (13)”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(L), substituted “paragraphs (11), (12), and (13)” for “paragraph (12)(A), paragraph (13), and paragraph (14)” and “paragraphs (11) and (12)” for “paragraph (12)(A) and paragraph (13)”.
 
-    Subsec. (a)(16). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (17) as (16). Former par. (16) redesignated (15).
+    Subsec. (a)(16). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (17) as (16). Former par. (16) redesignated (15).
 
-    [Pub. L. 107–273, § 12209(1)(M)][/us/pl/107/273/s12209/1/M], substituted “disability” for “mentally, emotionally, or physically handicapping conditions”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(M), substituted “disability” for “mentally, emotionally, or physically handicapping conditions”.
 
-    Subsec. (a)(17), (18). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated pars. (18) and (19) as (17) and (18), respectively. Former par. (17) redesignated (16).
+    Subsec. (a)(17), (18). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated pars. (18) and (19) as (17) and (18), respectively. Former par. (17) redesignated (16).
 
-    Subsec. (a)(19). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (20) as (19). Former par. (19) redesignated (18).
+    Subsec. (a)(19). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
-    [Pub. L. 107–273, § 12209(1)(N)][/us/pl/107/273/s12209/1/N], amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
 
     “(A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements or otherwise;
 
@@ -557,29 +557,29 @@
 
     “(E) training or retraining programs;”.
 
-    Subsec. (a)(20), (21). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated pars. (21) and (22) as (20) and (21), respectively. Former par. (20) redesignated (19).
+    Subsec. (a)(20), (21). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated pars. (21) and (22) as (20) and (21), respectively. Former par. (20) redesignated (19).
 
-    Subsec. (a)(22). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (23) as (22). Former par. (22) redesignated (21).
+    Subsec. (a)(22). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (23) as (22). Former par. (22) redesignated (21).
 
-    [Pub. L. 107–273, § 12209(1)(O)][/us/pl/107/273/s12209/1/O], amended par. (22) generally. Prior to amendment, par. (22) read as follows: “provide that the State agency designated under paragraph (1) will from time to time, but not less often than annually, review its plan and submit to the Administrator an analysis and evaluation of the effectiveness of the programs and activities carried out under the plan, and any modifications in the plan, including the survey of State and local needs, which it considers necessary;”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(O), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “provide that the State agency designated under paragraph (1) will from time to time, but not less often than annually, review its plan and submit to the Administrator an analysis and evaluation of the effectiveness of the programs and activities carried out under the plan, and any modifications in the plan, including the survey of State and local needs, which it considers necessary;”.
 
-    Subsec. (a)(23). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (24) as (23). Former par. (23) redesignated (22).
+    Subsec. (a)(23). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (24) as (23). Former par. (23) redesignated (22).
 
-    [Pub. L. 107–273, § 12209(1)(P)][/us/pl/107/273/s12209/1/P], amended par. (23) generally. Prior to amendment, par. (23) read as follows: “address efforts to reduce the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups if such proportion exceeds the proportion such groups represent in the general population;”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(P), amended par. (23) generally. Prior to amendment, par. (23) read as follows: “address efforts to reduce the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups if such proportion exceeds the proportion such groups represent in the general population;”.
 
-    Subsec. (a)(24). [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (25) as (24). Former par. (24) redesignated (23).
+    Subsec. (a)(24). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (25) as (24). Former par. (24) redesignated (23).
 
-    [Pub. L. 107–273, § 12209(1)(Q)][/us/pl/107/273/s12209/1/Q], amended par. (24) generally. Prior to amendment, par. (24) read as follows: “contain such other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of the programs assisted under this subchapter; and”.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(Q), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “contain such other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of the programs assisted under this subchapter; and”.
 
-    Subsec. (a)(25). [Pub. L. 107–273, § 12209(1)(T)][/us/pl/107/273/s12209/1/T], added par. (25).
+    Subsec. (a)(25). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(T), added par. (25).
 
-    [Pub. L. 107–273, § 12209(1)(S)][/us/pl/107/273/s12209/1/S], redesignated par. (25) as (24).
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(S), redesignated par. (25) as (24).
 
-    [Pub. L. 107–273, § 12209(1)(R)][/us/pl/107/273/s12209/1/R], substituted “fiscal year 2000” for “fiscal year 1992” and a semicolon for period at end.
+    [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(R), substituted “fiscal year 2000” for “fiscal year 1992” and a semicolon for period at end.
 
-    Subsec. (a)(26) to (28). [Pub. L. 107–273, § 12209(1)(T)][/us/pl/107/273/s12209/1/T], added pars. (26) to (28).
+    Subsec. (a)(26) to (28). [Pub. L. 107–273][/us/pl/107/273], § 12209(1)(T), added pars. (26) to (28).
 
-    Subsec. (c). [Pub. L. 107–273, § 12209(2)][/us/pl/107/273/s12209/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+    Subsec. (c). [Pub. L. 107–273][/us/pl/107/273], § 12209(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
     “(1) Subject to paragraph (2), the Administrator shall approve any State plan and any modification thereof that meets the requirements of this section.
 
@@ -599,41 +599,41 @@
 
     “(II) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time.”
 
-    Subsec. (d). [Pub. L. 107–273, § 12209(3)][/us/pl/107/273/s12209/3], substituted “allocation” for “allotment” and substituted “paragraphs (11), (12), (13), and (22) of subsection (a)” for “subsection (a)(12)(A), (13), (14) and (23)” in two places.
+    Subsec. (d). [Pub. L. 107–273][/us/pl/107/273], § 12209(3), substituted “allocation” for “allotment” and substituted “paragraphs (11), (12), (13), and (22) of subsection (a)” for “subsection (a)(12)(A), (13), (14) and (23)” in two places.
 
-    Subsecs. (e), (f). [Pub. L. 107–273, § 12209(4)][/us/pl/107/273/s12209/4], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 107–273][/us/pl/107/273], § 12209(4), added subsecs. (e) and (f).
 
     2000—Subsec. (a)(14). [Pub. L. 106–554][/us/pl/106/554] inserted “(except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002)” after “twenty-four hours” in introductory provisions.
 
-    1998—Subsec. (a)(4). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 129(a)(2)(C)(i)\], substituted “units of local government” for “units of general local government” after “participation of” and “units of local government” for “local governments” after “requests of”.
+    1998—Subsec. (a)(4). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 129(a)(2)(C)(i)\], substituted “units of local government” for “units of general local government” after “participation of” and “units of local government” for “local governments” after “requests of”.
 
-    Subsec. (a)(5). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 129(a)(2)(C)(ii)\], substituted “units of local government” for “units of general local government” in subpar. (A) and “unit of local government” for “unit of general local government” in subpar. (B).
+    Subsec. (a)(5). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 129(a)(2)(C)(ii)\], substituted “units of local government” for “units of general local government” in subpar. (A) and “unit of local government” for “unit of general local government” in subpar. (B).
 
-    Subsec. (a)(6). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 129(a)(2)(C)(iii)\], substituted “unit of local government” for “unit of general local government”.
+    Subsec. (a)(6). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 129(a)(2)(C)(iii)\], substituted “unit of local government” for “unit of general local government”.
 
-    Subsec. (a)(10). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 129(a)(2)(C)(iv)\], substituted “unit of local government” for “unit of general local government” in introductory provisions.
+    Subsec. (a)(10). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 129(a)(2)(C)(iv)\], substituted “unit of local government” for “unit of general local government” in introductory provisions.
 
     1996—Subsec. (a)(12)(A). [Pub. L. 104–294][/us/pl/104/294] substituted “similar State law)” for “similar State law).”
 
     1994—Subsec. (a)(12)(A). [Pub. L. 103–322][/us/pl/103/322] substituted “(other than an offense that constitutes a violation of a valid court order or a violation of [section 922(x) of title 18][/us/usc/t18/s922/x] or a similar State law).” for “which do not constitute violations of valid court orders”.
 
-    1992—Subsec. (a). [Pub. L. 102–586, § 2(f)(3)(A)(i)(I)][/us/pl/102/586/s2/f/3/A/i/I], substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
+    1992—Subsec. (a). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 102–586, § 2(f)(3)(A)(i)(II)][/us/pl/102/586/s2/f/3/A/i/II], made technical amendment to reference to [section 5671 of this title][/us/usc/t42/s5671] to reflect renumbering of corresponding section of original act.
+    Subsec. (a)(1). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(II), made technical amendment to reference to [section 5671 of this title][/us/usc/t42/s5671] to reflect renumbering of corresponding section of original act.
 
-    Subsec. (a)(3). [Pub. L. 102–586, § 2(f)(3)(A)(i)(III)][/us/pl/102/586/s2/f/3/A/i/III], amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
+    Subsec. (a)(3). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
 
-    Subsec. (a)(8). [Pub. L. 102–586, § 2(f)(3)(A)(i)(IV)][/us/pl/102/586/s2/f/3/A/i/IV], designated existing provisions as subpar. (A), redesignated former cls. (A) to (C) as (i) to (iii), respectively, inserted “(including educational needs)” after “delinquency prevention needs” in two places in cl. (i), and added subpars. (B) to (D).
+    Subsec. (a)(8). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(IV), designated existing provisions as subpar. (A), redesignated former cls. (A) to (C) as (i) to (iii), respectively, inserted “(including educational needs)” after “delinquency prevention needs” in two places in cl. (i), and added subpars. (B) to (D).
 
-    Subsec. (a)(9). [Pub. L. 102–586, § 2(f)(3)(A)(i)(V)][/us/pl/102/586/s2/f/3/A/i/V], inserted “recreation,” after “special education,”.
+    Subsec. (a)(9). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(V), inserted “recreation,” after “special education,”.
 
-    Subsec. (a)(10). [Pub. L. 102–586, § 2(f)(3)(A)(i)(VI)][/us/pl/102/586/s2/f/3/A/i/VI], amended par. (10) generally, revising and restating as introductory provisions and subpars. (A) to (O) provisions of former introductory provisions and subpars. (A) to (L).
+    Subsec. (a)(10). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(VI), amended par. (10) generally, revising and restating as introductory provisions and subpars. (A) to (O) provisions of former introductory provisions and subpars. (A) to (L).
 
-    Subsec. (a)(12)(A). [Pub. L. 102–586, § 2(f)(3)(A)(i)(VII)][/us/pl/102/586/s2/f/3/A/i/VII], inserted “or alien juveniles in custody,” after “court orders,”.
+    Subsec. (a)(12)(A). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(VII), inserted “or alien juveniles in custody,” after “court orders,”.
 
-    Subsec. (a)(13). [Pub. L. 102–586, § 2(f)(3)(A)(i)(VIII)][/us/pl/102/586/s2/f/3/A/i/VIII], struck out “regular” before “contact with” and inserted “or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults”.
+    Subsec. (a)(13). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(VIII), struck out “regular” before “contact with” and inserted “or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults”.
 
-    Subsec. (a)(14). [Pub. L. 102–586, § 2(f)(3)(A)(i)(IX)(bb)][/us/pl/102/586/s2/f/3/A/i/IX/bb], (cc), in introductory provisions substituted “1997” for “1993” and “areas that are in compliance with paragraph (13) and” for “areas which”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+    Subsec. (a)(14). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(IX)(bb), (cc), in introductory provisions substituted “1997” for “1993” and “areas that are in compliance with paragraph (13) and” for “areas which”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) are outside a Standard Metropolitan Statistical Area,
 
@@ -641,185 +641,185 @@
 
     “(C) are in compliance with the provisions of paragraph (13);”.
 
-    [Pub. L. 102–586, § 2(f)(3)(A)(i)(IX)(aa)][/us/pl/102/586/s2/f/3/A/i/IX/aa], which directed the amendment of par. (14) by striking out “; beginning after the five-year period following December 8, 1980,” was executed by striking out “, beginning after the five-year period following December 8, 1980,” after “provide that” to reflect the probable intent of Congress.
+    [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(IX)(aa), which directed the amendment of par. (14) by striking out “; beginning after the five-year period following December 8, 1980,” was executed by striking out “, beginning after the five-year period following December 8, 1980,” after “provide that” to reflect the probable intent of Congress.
 
-    Subsec. (a)(16). [Pub. L. 102–586, § 2(f)(3)(A)(i)(X)][/us/pl/102/586/s2/f/3/A/i/X], amended par. (16) generally. Prior to amendment, par. (16) read as follows: “provide assurance that assistance will be available on an equitable basis to deal with disadvantaged youth including, but not limited to, females, minority youth, and mentally retarded and emotionally or physically handicapped youth;”.
+    Subsec. (a)(16). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(X), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “provide assurance that assistance will be available on an equitable basis to deal with disadvantaged youth including, but not limited to, females, minority youth, and mentally retarded and emotionally or physically handicapped youth;”.
 
-    Subsec. (a)(17). [Pub. L. 102–586, § 2(f)(3)(A)(i)(XI)][/us/pl/102/586/s2/f/3/A/i/XI], substituted “the families” for “and maintain the family units” and “delinquency (which” for “delinquency. Such” and inserted before semicolon “and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible)”.
+    Subsec. (a)(17). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(XI), substituted “the families” for “and maintain the family units” and “delinquency (which” for “delinquency. Such” and inserted before semicolon “and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible)”.
 
-    Subsec. (a)(25). [Pub. L. 102–586, § 2(f)(3)(A)(i)(XII)][/us/pl/102/586/s2/f/3/A/i/XII]–(XIV), added par. (25).
+    Subsec. (a)(25). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(i)(XII)–(XIV), added par. (25).
 
-    Subsec. (c). [Pub. L. 102–586, § 2(f)(3)(A)(ii)][/us/pl/102/586/s2/f/3/A/ii], amended subsec. (c) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) to (4).
+    Subsec. (c). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(ii), amended subsec. (c) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) to (4).
 
-    Subsec. (d). [Pub. L. 102–586, § 2(f)(3)(A)(iii)][/us/pl/102/586/s2/f/3/A/iii], inserted “, excluding funds the Administrator shall make available to satisfy the requirement specified in [section 5632(d) of this title][/us/usc/t42/s5632/d],” and substituted “activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23) of this section” for “the purposes of subsection (a)(12)(A) of this section, subsection (a)(13) of this section, or subsection (a)(14) of this section” and “subsection (a)(12)(A), (13), (14) and (23) of this section” for “subsection (a)(12)(A) of this section and subsection (a)(13) of this section”.
+    Subsec. (d). [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(A)(iii), inserted “, excluding funds the Administrator shall make available to satisfy the requirement specified in [section 5632(d) of this title][/us/usc/t42/s5632/d],” and substituted “activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23) of this section” for “the purposes of subsection (a)(12)(A) of this section, subsection (a)(13) of this section, or subsection (a)(14) of this section” and “subsection (a)(12)(A), (13), (14) and (23) of this section” for “subsection (a)(12)(A) of this section and subsection (a)(13) of this section”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–690, § 6263(b)(1)][/us/pl/100/690/s6263/b/1], made technical amendment to reference to [section 5671 of this title][/us/usc/t42/s5671] to reflect renumbering of corresponding section of original act.
+    1988—Subsec. (a)(1). [Pub. L. 100–690][/us/pl/100/690], § 6263(b)(1), made technical amendment to reference to [section 5671 of this title][/us/usc/t42/s5671] to reflect renumbering of corresponding section of original act.
 
-    Subsec. (a)(5). [Pub. L. 100–690, § 7258(a)(1)][/us/pl/100/690/s7258/a/1], substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out “and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
+    Subsec. (a)(5). [Pub. L. 100–690][/us/pl/100/690], § 7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out “and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
 
-    Subsec. (a)(8)(A). [Pub. L. 100–690, § 7258(a)(2)][/us/pl/100/690/s7258/a/2], substituted “relevant jurisdiction (including any geographical area in which an Indian tribe performs law enforcement functions)” for “relevant jurisdiction” and “juvenile crime problems (including the joining of gangs that commit crimes)” for “juvenile crime problems” in two places.
+    Subsec. (a)(8)(A). [Pub. L. 100–690][/us/pl/100/690], § 7258(a)(2), substituted “relevant jurisdiction (including any geographical area in which an Indian tribe performs law enforcement functions)” for “relevant jurisdiction” and “juvenile crime problems (including the joining of gangs that commit crimes)” for “juvenile crime problems” in two places.
 
-    Subsec. (a)(14). [Pub. L. 100–690, § 7258(b)][/us/pl/100/690/s7258/b], substituted “1993” for “1989”, substituted a semicolon for the period at end of subpar. (iii), and redesignated subpars. (i) to (iii) as subpars. (A) to (C), respectively.
+    Subsec. (a)(14). [Pub. L. 100–690][/us/pl/100/690], § 7258(b), substituted “1993” for “1989”, substituted a semicolon for the period at end of subpar. (iii), and redesignated subpars. (i) to (iii) as subpars. (A) to (C), respectively.
 
-    Subsec. (a)(23), (24). [Pub. L. 100–690, § 7258(c)][/us/pl/100/690/s7258/c], added par. (23) and redesignated former par. (23) as (24).
+    Subsec. (a)(23), (24). [Pub. L. 100–690][/us/pl/100/690], § 7258(c), added par. (23) and redesignated former par. (23) as (24).
 
-    Subsec. (c)(1). [Pub. L. 100–690, § 7258(d)(1)][/us/pl/100/690/s7258/d/1]–(3), designated existing provisions as par. (1), substituted “part” for “subpart”, and struck out last sentence which read as follows: “Failure to achieve compliance with the requirements of subsection (a)(14) of this section, within the 5-year time limitation shall terminate any State’s eligibility for funding under this subpart, unless the Administrator determines that (1) the State is in substantial compliance with such requirements through the achievement of not less than 75 percent removal of juveniles from jails and lockups for adults; and (2) the State has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time, not to exceed 3 additional years.”
+    Subsec. (c)(1). [Pub. L. 100–690][/us/pl/100/690], § 7258(d)(1)–(3), designated existing provisions as par. (1), substituted “part” for “subpart”, and struck out last sentence which read as follows: “Failure to achieve compliance with the requirements of subsection (a)(14) of this section, within the 5-year time limitation shall terminate any State’s eligibility for funding under this subpart, unless the Administrator determines that (1) the State is in substantial compliance with such requirements through the achievement of not less than 75 percent removal of juveniles from jails and lockups for adults; and (2) the State has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time, not to exceed 3 additional years.”
 
-    Subsec. (c)(2) to (4). [Pub. L. 100–690, § 7258(d)(4)][/us/pl/100/690/s7258/d/4], added pars. (2) to (4).
+    Subsec. (c)(2) to (4). [Pub. L. 100–690][/us/pl/100/690], § 7258(d)(4), added pars. (2) to (4).
 
-    1984—Subsec. (a). [Pub. L. 98–473, § 626(a)(9)][/us/pl/98/473/s626/a/9], (10), struck out provision after numbered paragraphs which read as follows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in [section 3743 of this title][/us/usc/t42/s3743]. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
+    1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(9), (10), struck out provision after numbered paragraphs which read as follows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in [section 3743 of this title][/us/usc/t42/s3743]. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
 
-    Subsec. (a)(1). [Pub. L. 98–473, § 626(a)(1)][/us/pl/98/473/s626/a/1], substituted “agency described in [section 5671(c)(1) of this title][/us/usc/t42/s5671/c/1]” for “criminal justice council established by the State under [section 3742(b)(1) of this title][/us/usc/t42/s3742/b/1]”.
+    Subsec. (a)(1). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(1), substituted “agency described in [section 5671(c)(1) of this title][/us/usc/t42/s5671/c/1]” for “criminal justice council established by the State under [section 3742(b)(1) of this title][/us/usc/t42/s3742/b/1]”.
 
-    Subsec. (a)(2). [Pub. L. 98–473, § 626(a)(2)][/us/pl/98/473/s626/a/2], struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
+    Subsec. (a)(2). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
 
-    Subsec. (a)(3)(C). [Pub. L. 98–473, § 626(a)(3)(A)][/us/pl/98/473/s626/a/3/A], in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
+    Subsec. (a)(3)(C). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
 
-    Subsec. (a)(3)(F). [Pub. L. 98–473, § 626(a)(3)(B)(i)][/us/pl/98/473/s626/a/3/B/i], substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
+    Subsec. (a)(3)(F). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
 
-    Subsec. (a)(3)(F)(ii). [Pub. L. 98–473, § 626(a)(3)(B)(ii)][/us/pl/98/473/s626/a/3/B/ii], substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)”.
+    Subsec. (a)(3)(F)(ii). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(3)(B)(ii), substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)”.
 
-    Subsec. (a)(3)(F)(iv). [Pub. L. 98–473, § 626(a)(3)(B)(iii)][/us/pl/98/473/s626/a/3/B/iii], substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)” and struck out “in advising on the State’s maintenance of effort under [section 3793a of this title][/us/usc/t42/s3793a],” before “and in review”.
+    Subsec. (a)(3)(F)(iv). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(3)(B)(iii), substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)” and struck out “in advising on the State’s maintenance of effort under [section 3793a of this title][/us/usc/t42/s3793a],” before “and in review”.
 
-    Subsec. (a)(9). [Pub. L. 98–473, § 626(a)(4)][/us/pl/98/473/s626/a/4], inserted “special education,”.
+    Subsec. (a)(9). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(4), inserted “special education,”.
 
-    Subsec. (a)(10). [Pub. L. 98–473, § 626(a)(5)(A)][/us/pl/98/473/s626/a/5/A], in provisions preceding subpar. (A), substituted “programs for juveniles, including those processed in the criminal justice system,” for “programs for juveniles” and “provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems” for “and provide for effective rehabilitation”.
+    Subsec. (a)(10). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(A), in provisions preceding subpar. (A), substituted “programs for juveniles, including those processed in the criminal justice system,” for “programs for juveniles” and “provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems” for “and provide for effective rehabilitation”.
 
-    Subsec. (a)(10)(E). [Pub. L. 98–473, § 626(a)(5)(B)][/us/pl/98/473/s626/a/5/B], inserted “, including programs to counsel delinquent youth and other youth regarding the opportunities which education provides”.
+    Subsec. (a)(10)(E). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(B), inserted “, including programs to counsel delinquent youth and other youth regarding the opportunities which education provides”.
 
-    Subsec. (a)(10)(F). [Pub. L. 98–473, § 626(a)(5)(C)][/us/pl/98/473/s626/a/5/C], inserted “and their families”.
+    Subsec. (a)(10)(F). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(C), inserted “and their families”.
 
-    Subsec. (a)(10)(H)(iii). [Pub. L. 98–473, § 626(a)(5)(D)(i)][/us/pl/98/473/s626/a/5/D/i], substituted “National Advisory Committee for Juvenile Justice and Delinquency Prevention made before October 12, 1984, standards for the improvement of juvenile justice within the State;” for “Advisory Committee, standards for the improvement of juvenile justice within the State; or”.
+    Subsec. (a)(10)(H)(iii). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(D)(i), substituted “National Advisory Committee for Juvenile Justice and Delinquency Prevention made before October 12, 1984, standards for the improvement of juvenile justice within the State;” for “Advisory Committee, standards for the improvement of juvenile justice within the State; or”.
 
-    Subsec. (a)(10)(H)(v). [Pub. L. 98–473, § 626(a)(5)(D)(ii)][/us/pl/98/473/s626/a/5/D/ii], (iii), added cl. (v).
+    Subsec. (a)(10)(H)(v). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(D)(ii), (iii), added cl. (v).
 
-    Subsec. (a)(10)(I). [Pub. L. 98–473, § 626(a)(5)(E)][/us/pl/98/473/s626/a/5/E], struck out “and” at end.
+    Subsec. (a)(10)(I). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(E), struck out “and” at end.
 
-    Subsec. (a)(10)(J). [Pub. L. 98–473, § 626(a)(5)(F)][/us/pl/98/473/s626/a/5/F], struck out “juvenile gangs and their members” and inserted “gangs whose membership is substantially composed of juveniles”.
+    Subsec. (a)(10)(J). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(F), struck out “juvenile gangs and their members” and inserted “gangs whose membership is substantially composed of juveniles”.
 
-    Subsec. (a)(10)(K), (L). [Pub. L. 98–473, § 626(a)(5)(G)][/us/pl/98/473/s626/a/5/G], added subpars. (K) and (L).
+    Subsec. (a)(10)(K), (L). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(5)(G), added subpars. (K) and (L).
 
-    Subsec. (a)(14). [Pub. L. 98–473, § 626(a)(6)][/us/pl/98/473/s626/a/6], in amending par. (14) generally, inserted “, through 1989,” after “shall” and substituted provisions relating to exceptions for former provisions which related to the special needs of areas characterized by low population density with respect to the detention of juveniles and exceptions for temporary detention in adult facilities of juveniles accused of serious crimes against persons.
+    Subsec. (a)(14). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(6), in amending par. (14) generally, inserted “, through 1989,” after “shall” and substituted provisions relating to exceptions for former provisions which related to the special needs of areas characterized by low population density with respect to the detention of juveniles and exceptions for temporary detention in adult facilities of juveniles accused of serious crimes against persons.
 
-    Subsec. (a)(17), (18). [Pub. L. 98–473, § 626(a)(11)][/us/pl/98/473/s626/a/11], (12), added par. (17) and redesignated former par. (17) as (18). Former par. (18) redesignated (19).
+    Subsec. (a)(17), (18). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(11), (12), added par. (17) and redesignated former par. (17) as (18). Former par. (18) redesignated (19).
 
-    Subsec. (a)(19). [Pub. L. 98–473, § 626(a)(11)][/us/pl/98/473/s626/a/11], redesignated par. (18) as (19). Former par. (19) redesignated (20).
+    Subsec. (a)(19). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(11), redesignated par. (18) as (19). Former par. (19) redesignated (20).
 
-    [Pub. L. 98–473, § 626(a)(7)][/us/pl/98/473/s626/a/7], in provisions preceding (A), substituted “shall be” for “are” after “arrangements” and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
+    [Pub. L. 98–473][/us/pl/98/473], § 626(a)(7), in provisions preceding (A), substituted “shall be” for “are” after “arrangements” and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
 
-    Subsec. (a)(20), (21). [Pub. L. 98–473, § 626(a)(11)][/us/pl/98/473/s626/a/11], redesignated pars. (19) and (20) as (20) and (21), respectively. Former par. (21) redesignated (22).
+    Subsec. (a)(20), (21). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(11), redesignated pars. (19) and (20) as (20) and (21), respectively. Former par. (21) redesignated (22).
 
-    Subsec. (a)(22). [Pub. L. 98–473, § 626(a)(11)][/us/pl/98/473/s626/a/11], redesignated par. (21) as (22). Former par. (22) redesignated (23).
+    Subsec. (a)(22). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(11), redesignated par. (21) as (22). Former par. (22) redesignated (23).
 
-    [Pub. L. 98–473, § 626(a)(8)][/us/pl/98/473/s626/a/8], substituted “agency designated under paragraph (1)” for “criminal justice council”.
+    [Pub. L. 98–473][/us/pl/98/473], § 626(a)(8), substituted “agency designated under paragraph (1)” for “criminal justice council”.
 
-    Subsec. (a)(23). [Pub. L. 98–473, § 626(a)(11)][/us/pl/98/473/s626/a/11], redesignated par. (22) as (23).
+    Subsec. (a)(23). [Pub. L. 98–473][/us/pl/98/473], § 626(a)(11), redesignated par. (22) as (23).
 
-    Subsec. (b). [Pub. L. 98–473, § 626(b)][/us/pl/98/473/s626/b], substituted “agency designated under subsection (a)(1) of this section” for “criminal justice council designated pursuant to [section 5633(a) of this title][/us/usc/t42/s5633/a]” and “subsection (a) of this section” for “[section 5633(a) of this title][/us/usc/t42/s5633/a]”.
+    Subsec. (b). [Pub. L. 98–473][/us/pl/98/473], § 626(b), substituted “agency designated under subsection (a)(1) of this section” for “criminal justice council designated pursuant to [section 5633(a) of this title][/us/usc/t42/s5633/a]” and “subsection (a) of this section” for “[section 5633(a) of this title][/us/usc/t42/s5633/a]”.
 
-    Subsec. (c). [Pub. L. 98–473, § 626(c)][/us/pl/98/473/s626/c], substituted “3” for “2” before “additional years”.
+    Subsec. (c). [Pub. L. 98–473][/us/pl/98/473], § 626(c), substituted “3” for “2” before “additional years”.
 
-    Subsec. (d). [Pub. L. 98–473, § 626(d)][/us/pl/98/473/s626/d], made a conforming amendment to the reference to sections 3783, 3784, and 3785 of this title to reflect the renumbering of the corresponding sections of the original act.
+    Subsec. (d). [Pub. L. 98–473][/us/pl/98/473], § 626(d), made a conforming amendment to the reference to sections 3783, 3784, and 3785 of this title to reflect the renumbering of the corresponding sections of the original act.
 
-    1980—Subsec. (a). [Pub. L. 96–509, § 11(a)(1)][/us/pl/96/509/s11/a/1], in provisions preceding par. (1), provided for 3-year, rather than annual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
+    1980—Subsec. (a). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(1), in provisions preceding par. (1), provided for 3-year, rather than annual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
 
     [Pub. L. 96–509][/us/pl/96/509], §§ 11(a)(15)(B), 19(g)(11), in provisions following par. (22), substituted reference to [section 3743 of this title][/us/usc/t42/s3743] for reference to [section 3733(a) of this title][/us/usc/t42/s3733/a] and inserted provision that plans be modified by States as soon as possible after Dec. 8, 1980, in order to comply with the requirements of par. (14).
 
-    Subsec. (a)(1). [Pub. L. 96–509, § 19(g)(1)][/us/pl/96/509/s19/g/1], substituted “State criminal justice council established by the State under [section 3742(b)(1) of this title][/us/usc/t42/s3742/b/1]” for “State planning agency established by the State under [section 3723 of this title][/us/usc/t42/s3723]”.
+    Subsec. (a)(1). [Pub. L. 96–509][/us/pl/96/509], § 19(g)(1), substituted “State criminal justice council established by the State under [section 3742(b)(1) of this title][/us/usc/t42/s3742/b/1]” for “State planning agency established by the State under [section 3723 of this title][/us/usc/t42/s3723]”.
 
-    Subsec. (a)(2). [Pub. L. 96–509, § 19(g)(2)][/us/pl/96/509/s19/g/2], substituted “criminal justice council” for “planning agency”.
+    Subsec. (a)(2). [Pub. L. 96–509][/us/pl/96/509], § 19(g)(2), substituted “criminal justice council” for “planning agency”.
 
     Subsec. (a)(3)(A). [Pub. L. 96–509][/us/pl/96/509], §§ 11(a)(2), 19(g)(3), provided that State advisory groups shall consist of between 15 and 33 members rather than between 21 and 33 members and substituted “juvenile delinquency” for “a juvenile delinquency”.
 
-    Subsec. (a)(3)(B). [Pub. L. 96–509, § 11(a)(3)][/us/pl/96/509/s11/a/3], provided that locally elected officials be included on State advisory groups and made clear that special education departments be included along with other public agencies for representation on State advisory groups.
+    Subsec. (a)(3)(B). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(3), provided that locally elected officials be included on State advisory groups and made clear that special education departments be included along with other public agencies for representation on State advisory groups.
 
-    Subsec. (a)(3)(E). [Pub. L. 96–509, § 11(a)(4)][/us/pl/96/509/s11/a/4], provided that one-fifth of the members of State advisory groups be under 24 years of age at the time of their appointment, rather than one-third under 26 years of age.
+    Subsec. (a)(3)(E). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(4), provided that one-fifth of the members of State advisory groups be under 24 years of age at the time of their appointment, rather than one-third under 26 years of age.
 
     Subsec. (a)(3)(F). [Pub. L. 96–509][/us/pl/96/509], §§ 11(a)(5), (6), 19(g)(4), substituted in cl. (i) “criminal justice council” for “planning agency”, in cl. (ii) provision that the State advisory groups submit recommendations to the Governor and the legislature at least annually regarding matters related to its functions for provision that the State advisory groups advise the Governor and the legislature on matters related to its functions as requested, in cl. (iii) “criminal justice council” for “planning agency other than those subject to review by the State’s judicial planning committee established pursuant to [section 3723(c) of this title][/us/usc/t42/s3723/c]”, in cl. (iv) “criminal justice council and local criminal justice advisory” for “planning agency and regional planning unit supervisory” and “[section 3793a of this title][/us/usc/t42/s3793a]” for “sections 3768(b) and 5671(b) of this title”, and added cl. (v).
 
-    Subsec. (a)(8). [Pub. L. 96–509, § 11(a)(7)][/us/pl/96/509/s11/a/7], provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
+    Subsec. (a)(8). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
 
-    Subsec. (a)(10). [Pub. L. 96–509, § 11(a)(8)(A)][/us/pl/96/509/s11/a/8/A]–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
+    Subsec. (a)(10). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
 
-    Subsec. (a)(10)(A). [Pub. L. 96–509, § 11(a)(9)][/us/pl/96/509/s11/a/9], inserted provisions for inclusion of education and special education programs among community-based programs and services.
+    Subsec. (a)(10)(A). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
 
-    Subsec. (a)(10)(E). [Pub. L. 96–509, § 11(a)(10)][/us/pl/96/509/s11/a/10], clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
+    Subsec. (a)(10)(E). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(10), clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
 
-    Subsec. (a)(10)(H). [Pub. L. 96–509, § 11(a)(11)][/us/pl/96/509/s11/a/11], provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
+    Subsec. (a)(10)(H). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
 
-    Subsec. (a)(10)(I). [Pub. L. 96–509, § 11(a)(12)][/us/pl/96/509/s11/a/12], revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
+    Subsec. (a)(10)(I). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(12), revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
 
-    Subsec. (a)(10)(J). [Pub. L. 96–509, § 11(a)(8)(D)][/us/pl/96/509/s11/a/8/D], added subpar. (J).
+    Subsec. (a)(10)(J). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(8)(D), added subpar. (J).
 
-    Subsec. (a)(11). [Pub. L. 96–509, § 19(g)(5)][/us/pl/96/509/s19/g/5], substituted “provide” for “provides”.
+    Subsec. (a)(11). [Pub. L. 96–509][/us/pl/96/509], § 19(g)(5), substituted “provide” for “provides”.
 
-    Subsec. (a)(12)(A). [Pub. L. 96–509, § 11(a)(13)][/us/pl/96/509/s11/a/13], clarified that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult shall not be placed in secure detention facilities or secure correctional facilities rather than simply, as formerly, juvenile detention or correctional facilities.
+    Subsec. (a)(12)(A). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(13), clarified that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult shall not be placed in secure detention facilities or secure correctional facilities rather than simply, as formerly, juvenile detention or correctional facilities.
 
-    Subsec. (a)(12)(B). [Pub. L. 96–509, § 19(g)(6)][/us/pl/96/509/s19/g/6], substituted “Administrator” for “Associate Administrator”.
+    Subsec. (a)(12)(B). [Pub. L. 96–509][/us/pl/96/509], § 19(g)(6), substituted “Administrator” for “Associate Administrator”.
 
-    Subsec. (a)(14). [Pub. L. 96–509, § 11(a)(15)(A)][/us/pl/96/509/s11/a/15/A], added par. (14). Former par. (14) redesignated (15).
+    Subsec. (a)(14). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(15)(A), added par. (14). Former par. (14) redesignated (15).
 
     Subsec. (a)(15). [Pub. L. 96–509][/us/pl/96/509], §§ 11(a)(14), (15)(A), 19(g)(7), redesignated former par. (14) as (15) and in par. (15) as so redesignated, provided that the annual reporting requirements of the results of the monitoring required by this section can be waived for States which have complied with the requirements of par. (12)(A), par. (13), and par. (14), and which have enacted legislation, conforming to those requirements, which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively and substituted “to the Administrator” for “to the Associate Administrator”. Former par. (15) redesignated (16).
 
-    Subsec. (a)(16), (17). [Pub. L. 96–509, § 11(a)(15)(A)][/us/pl/96/509/s11/a/15/A], redesignated former pars. (15) and (16) as (16) and (17), respectively. Former par. (17) redesignated (18).
+    Subsec. (a)(16), (17). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(15)(A), redesignated former pars. (15) and (16) as (16) and (17), respectively. Former par. (17) redesignated (18).
 
     Subsec. (a)(18). [Pub. L. 96–509][/us/pl/96/509], §§ 11(a)(15)(A), 19(g)(8), redesignated former par. (17) as (18) and, in subpar. (A) of par. (18) as so redesignated, substituted “preservation of rights” for “preservation or rights”. Former par. (18) redesignated (19).
 
-    Subsec. (a)(19), (20). [Pub. L. 96–509, § 11(a)(15)(A)][/us/pl/96/509/s11/a/15/A], redesignated former pars. (18) and (19) as (19) and (20), respectively.
+    Subsec. (a)(19), (20). [Pub. L. 96–509][/us/pl/96/509], § 11(a)(15)(A), redesignated former pars. (18) and (19) as (19) and (20), respectively.
 
     Subsec. (a)(21). [Pub. L. 96–509][/us/pl/96/509], §§ 11(a)(15)(A), 19(g)(9), redesignated former par. (20) as (21) and substituted “State criminal justice council will from time to time, but not less often than annually, review its plan and submit to the Administrator” for “State planning agency will from time to time, but not less often than annually, review its plan and submit to the Associate Administrator”. Former par. (21) redesignated (22).
 
     Subsec. (a)(22). [Pub. L. 96–509][/us/pl/96/509], §§ 11(a)(15)(A), 19(g)(10), redesignated former par. (21) as (22) and substituted “Administrator” for “Associate Administrator”.
 
-    Subsec. (b). [Pub. L. 96–509, § 19(g)(12)][/us/pl/96/509/s19/g/12], substituted “criminal justice council” for “planning agency”.
+    Subsec. (b). [Pub. L. 96–509][/us/pl/96/509], § 19(g)(12), substituted “criminal justice council” for “planning agency”.
 
-    Subsec. (c). [Pub. L. 96–509, § 11(b)][/us/pl/96/509/s11/b], made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
+    Subsec. (c). [Pub. L. 96–509][/us/pl/96/509], § 11(b), made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
 
     Subsec. (d). [Pub. L. 96–509][/us/pl/96/509], §§ 11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
 
-    1977—Subsec. (a)(3). [Pub. L. 95–115, § 4(c)(1)][/us/pl/95/115/s4/c/1], in introductory text substituted provisions relating to functions under subpar. (F) and participation in the development and review of the plan, for provisions relating to advisement of the State planning agency and its supervisory board, in subpar. (C) inserted provision relating to representatives from business groups and businesses, and in subpar. (E) inserted requirement for at least three of the members to be or have been under the jurisdiction of the juvenile justice system, and added subpar. (F).
+    1977—Subsec. (a)(3). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(1), in introductory text substituted provisions relating to functions under subpar. (F) and participation in the development and review of the plan, for provisions relating to advisement of the State planning agency and its supervisory board, in subpar. (C) inserted provision relating to representatives from business groups and businesses, and in subpar. (E) inserted requirement for at least three of the members to be or have been under the jurisdiction of the juvenile justice system, and added subpar. (F).
 
     Subsec. (a)(4). [Pub. L. 95–115][/us/pl/95/115]. § 4(c)(2), inserted provisions relating to grants or contracts with local private agencies or the advisory group, and substituted “units of general local government or combinations thereof in” for “local governments in”.
 
-    Subsec. (a)(5). [Pub. L. 95–115, § 4(c)(3)][/us/pl/95/115/s4/c/3], substituted provisions relating to requirements respecting expenditure of funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
+    Subsec. (a)(5). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(3), substituted provisions relating to requirements respecting expenditure of funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
 
-    Subsec. (a)(6). [Pub. L. 95–115, § 4(c)(4)][/us/pl/95/115/s4/c/4], inserted provision relating to regional planning agency and “unit of general” before “local government”.
+    Subsec. (a)(6). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(4), inserted provision relating to regional planning agency and “unit of general” before “local government”.
 
-    Subsec. (a)(8). [Pub. L. 95–115, § 4(c)(5)][/us/pl/95/115/s4/c/5], inserted provisions relating to programs and projects developed under the study.
+    Subsec. (a)(8). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(5), inserted provisions relating to programs and projects developed under the study.
 
-    Subsec. (a)(10). [Pub. L. 95–115, § 4(c)(6)(A)(i)][/us/pl/95/115/s4/c/6/A/i], (B), inserted provisions relating to availability of funds to the State advisory group and provisions expanding authorized use of funds to include encouragement of diversity of alternatives within the juvenile justice system and adoption of juvenile justice standards, and substituted reference to unit of general local government or combination of such unit with the State, for reference to local government.
+    Subsec. (a)(10). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(A)(i), (B), inserted provisions relating to availability of funds to the State advisory group and provisions expanding authorized use of funds to include encouragement of diversity of alternatives within the juvenile justice system and adoption of juvenile justice standards, and substituted reference to unit of general local government or combination of such unit with the State, for reference to local government.
 
-    Subsec. (a)(10)(A). [Pub. L. 95–115, § 4(c)(6)(A)(ii)][/us/pl/95/115/s4/c/6/A/ii], inserted “twenty-four hour intake screening, volunteer and crisis home programs, day treatment, and home probation,” after “health services,”.
+    Subsec. (a)(10)(A). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(A)(ii), inserted “twenty-four hour intake screening, volunteer and crisis home programs, day treatment, and home probation,” after “health services,”.
 
-    Subsec. (a)(10)(C). [Pub. L. 95–115, § 4(c)(6)(A)(iii)][/us/pl/95/115/s4/c/6/A/iii], substituted “other youth to help prevent delinquency” for “youth in danger of becoming delinquent”.
+    Subsec. (a)(10)(C). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(A)(iii), substituted “other youth to help prevent delinquency” for “youth in danger of becoming delinquent”.
 
-    Subsec. (a)(10)(D). [Pub. L. 95–115, § 4(c)(6)(A)(iv)][/us/pl/95/115/s4/c/6/A/iv], substituted provisions relating to programs stressing advocacy activities, for provisions relating to programs of drug and alcohol abuse education and prevention and programs for treatment and rehabilitation of drug addicted youth and drug dependent youth as defined in [section 201(q) of this title][/us/usc/t42/s201/q].
+    Subsec. (a)(10)(D). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(A)(iv), substituted provisions relating to programs stressing advocacy activities, for provisions relating to programs of drug and alcohol abuse education and prevention and programs for treatment and rehabilitation of drug addicted youth and drug dependent youth as defined in [section 201(q) of this title][/us/usc/t42/s201/q].
 
-    Subsec. (a)(10)(G). [Pub. L. 95–115, § 4(c)(6)(A)(v)][/us/pl/95/115/s4/c/6/A/v], inserted “traditional youth” after “reached by”.
+    Subsec. (a)(10)(G). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(A)(v), inserted “traditional youth” after “reached by”.
 
-    Subsec. (a)(10)(H). [Pub. L. 95–115, § 4(c)(6)(A)(vi)][/us/pl/95/115/s4/c/6/A/vi], substituted “are” for “that may include but are not limited to programs”.
+    Subsec. (a)(10)(H). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(A)(vi), substituted “are” for “that may include but are not limited to programs”.
 
-    Subsec. (a)(10)(I). [Pub. L. 95–115, § 4(c)(6)(A)(vii)][/us/pl/95/115/s4/c/6/A/vii], added subpar. (I).
+    Subsec. (a)(10)(I). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(A)(vii), added subpar. (I).
 
-    Subsec. (a)(12). [Pub. L. 95–115, § 4(c)(7)][/us/pl/95/115/s4/c/7], redesignated existing provisions as subpar. (A), substituted provisions relating to detention requirements respecting programs within three years after submission of the initial plan, for provisions relating to detention requirements respecting programs within two years after submission of the plan, and added subpar. (B).
+    Subsec. (a)(12). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(7), redesignated existing provisions as subpar. (A), substituted provisions relating to detention requirements respecting programs within three years after submission of the initial plan, for provisions relating to detention requirements respecting programs within two years after submission of the plan, and added subpar. (B).
 
-    Subsec. (a)(13). [Pub. L. 95–115, § 4(c)(8)][/us/pl/95/115/s4/c/8], inserted “and youths within the purview of paragraph (12)” after “delinquent”.
+    Subsec. (a)(13). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(8), inserted “and youths within the purview of paragraph (12)” after “delinquent”.
 
     Subsec. (a)(14). [Pub. L. 95–115][/us/pl/95/115], §§ 3(a)(3)(B), 4(c)(9), inserted “(A)” after “(12)” and “Associate” before “Administrator” and substituted “facilities, correctional facilities, and non-secure facilities” for “facilities, and correctional facilities”.
 
-    Subsec. (a)(15). [Pub. L. 95–115, § 4(c)(10)][/us/pl/95/115/s4/c/10], struck out “all” before “disadvantaged”.
+    Subsec. (a)(15). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(10), struck out “all” before “disadvantaged”.
 
-    Subsec. (a)(19). [Pub. L. 95–115, § 4(c)(11)][/us/pl/95/115/s4/c/11], struck out “, to the extent feasible and practical” before “the level”.
+    Subsec. (a)(19). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(11), struck out “, to the extent feasible and practical” before “the level”.
 
-    Subsec. (a)(20), (21). [Pub. L. 95–115, § 3(a)(3)(B)][/us/pl/95/115/s3/a/3/B], inserted “Associate” before “Administrator” wherever appearing.
+    Subsec. (a)(20), (21). [Pub. L. 95–115][/us/pl/95/115], § 3(a)(3)(B), inserted “Associate” before “Administrator” wherever appearing.
 
-    Subsec. (b). [Pub. L. 95–115, § 4(c)(12)][/us/pl/95/115/s4/c/12], substituted provisions relating to advice and recommendations for provisions relating to consultations.
+    Subsec. (b). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(12), substituted provisions relating to advice and recommendations for provisions relating to consultations.
 
-    Subsec. (c). [Pub. L. 95–115, § 4(c)(13)][/us/pl/95/115/s4/c/13], inserted provisions relating to failure to achieve compliance with the requirements of subsec. (a)(12)(A) within the three-year time limitation.
+    Subsec. (c). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(13), inserted provisions relating to failure to achieve compliance with the requirements of subsec. (a)(12)(A) within the three-year time limitation.
 
-    Subsec. (d). [Pub. L. 95–115, § 4(c)(14)][/us/pl/95/115/s4/c/14], inserted provision relating to the State choosing not to submit a plan and provision relating to reallocation of funds by the Administrator.
+    Subsec. (d). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(14), inserted provision relating to the State choosing not to submit a plan and provision relating to reallocation of funds by the Administrator.
 
-    Subsec. (e). [Pub. L. 95–115, § 4(c)(15)][/us/pl/95/115/s4/c/15], struck out subsec. (e) which related to reallotment of funds in a State where the State plan fails to meet the requirements of this section as a result of oversight or neglect.
+    Subsec. (e). [Pub. L. 95–115][/us/pl/95/115], § 4(c)(15), struck out subsec. (e) which related to reallotment of funds in a State where the State plan fails to meet the requirements of this section as a result of oversight or neglect.
 
     1976—Subsec. (a). [Pub. L. 94–503][/us/pl/94/503] substituted “(15), and (17)” for “and (15)” in provisions preceding par. (1).
 
@@ -843,13 +843,13 @@
 
     Amendment by [Pub. L. 95–115][/us/pl/95/115] effective Oct. 1, 1977, see [section 263(c) of Pub. L. 93–415][/us/pl/93/415/s263/c], as added by [Pub. L. 95–115][/us/pl/95/115], formerly set out as a note under [section 5601 of this title][/us/usc/t42/s5601].
 
-    [Pub. L. 95–115, § 4(c)(3)(B)][/us/pl/95/115/s4/c/3/B], Oct. 3, 1977, [91 Stat. 1052][/us/stat/91/1052], provided in part that the amendment of subsec. (a)(5) of this section, which substituted “5632(d)” for “5632(e)”, by [section 4(c)(3)(B) of Pub. L. 95–115][/us/pl/95/115/s4/c/3/B] is effective Oct. 1, 1978.
+    [Pub. L. 95–115][/us/pl/95/115], § 4(c)(3)(B), Oct. 3, 1977, [91 Stat. 1052][/us/stat/91/1052], provided in part that the amendment of subsec. (a)(5) of this section, which substituted “5632(d)” for “5632(e)”, by [section 4(c)(3)(B) of Pub. L. 95–115][/us/pl/95/115/s4/c/3/B] is effective Oct. 1, 1978.
 
-    [Pub. L. 95–115, § 4(c)(6)(B)][/us/pl/95/115/s4/c/6/B], Oct. 3, 1977, [91 Stat. 1053][/us/stat/91/1053], provided in part that the amendment of subsec. (a)(10) of this section, which substituted “5632(d)” for “5632(e)”, by [section 4(c)(6)(B) of Pub. L. 95–115][/us/pl/95/115/s4/c/6/B] is effective Oct. 1, 1978.
+    [Pub. L. 95–115][/us/pl/95/115], § 4(c)(6)(B), Oct. 3, 1977, [91 Stat. 1053][/us/stat/91/1053], provided in part that the amendment of subsec. (a)(10) of this section, which substituted “5632(d)” for “5632(e)”, by [section 4(c)(6)(B) of Pub. L. 95–115][/us/pl/95/115/s4/c/6/B] is effective Oct. 1, 1978.
 
  __Savings Provision__ 
 
-    [Pub. L. 102–586, § 2(f)(3)(B)][/us/pl/102/586/s2/f/3/B], Nov. 4, 1992, [106 Stat. 4994][/us/stat/106/4994], provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5633(c)(3)][/us/usc/t42/s5633/c/3]), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State’s eligibility for funding under this part unless the Administrator waives the termination of the State’s eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of [section 5632 of this title][/us/usc/t42/s5632] and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
+    [Pub. L. 102–586][/us/pl/102/586], § 2(f)(3)(B), Nov. 4, 1992, [106 Stat. 4994][/us/stat/106/4994], provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5633(c)(3)][/us/usc/t42/s5633/c/3]), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State’s eligibility for funding under this part unless the Administrator waives the termination of the State’s eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of [section 5632 of this title][/us/usc/t42/s5632] and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
 
  __Termination of Advisory Committees__ 
 
@@ -857,29 +857,11 @@
 
  __Costs and Implications of Removal of Juveniles From Adults in Jails; Report to Congress__ 
 
-    [Pub. L. 96–509, § 17][/us/pl/96/509/s17], Dec. 8, 1980, [94 Stat. 2761][/us/stat/94/2761], provided that the Administrator of the Office of Juvenile Justice and Delinquency Prevention, not later than 18 months after Dec. 8, 1980, submit a report to the Congress relating to the cost and implications of any requirement added to the Juvenile Justice and Delinquency Prevention Act of 1974 which would mandate the removal of juveniles from adults in all jails and lockups, such report to include an estimate of the costs likely to be incurred by the States, an analysis of the experience of States which required the removal of juveniles from adults in all jails and lockups, an analysis of possible adverse ramifications which might result from such requirement of removal, and recommendations for such legislative or administrative action as the Administrator considers appropriate.
-
-§§ 5634 to 5639. __Repealed.__  __[__  __Pub. L. 100–690, title VII, § 7263(a)(1)(B)__  __][/us/pl/100/690/s7263/a/1/B]__  __,__  __Nov. 18, 1988__  __,__  __[__  __102 Stat. 4443__  __][/us/stat/102/4443]__ 
-
-    Section 5634, [Pub. L. 93–415, title II, § 224][/us/pl/93/415/s224], Sept. 7, 1974, [88 Stat. 1122][/us/stat/88/1122]; [Pub. L. 95–115, § 4(d)][/us/pl/95/115/s4/d], Oct. 3, 1977, [91 Stat. 1054][/us/stat/91/1054]; [Pub. L. 96–509][/us/pl/96/509], §§ 12, 19(h), Dec. 8, 1980, [94 Stat. 2759][/us/stat/94/2759], 2765; [Pub. L. 98–473, title II, § 627][/us/pl/98/473/s627], Oct. 12, 1984, [98 Stat. 2114][/us/stat/98/2114], related to funding of special emphasis prevention and treatment programs through grants and contracts.
-
-    Section 5635, [Pub. L. 93–415, title II, § 225][/us/pl/93/415/s225], Sept. 7, 1974, [88 Stat. 1123][/us/stat/88/1123]; [Pub. L. 94–503, title I, § 130(c)][/us/pl/94/503/s130/c], Oct. 15, 1976, [90 Stat. 2425][/us/stat/90/2425]; [Pub. L. 95–115, § 4(e)][/us/pl/95/115/s4/e], Oct. 3, 1977, [91 Stat. 1055][/us/stat/91/1055]; [Pub. L. 98–473, title II, § 628][/us/pl/98/473/s628], Oct. 12, 1984, [98 Stat. 2116][/us/stat/98/2116], related to applications for grants and contracts under [section 5634 of this title][/us/usc/t42/s5634].
-
-    Section 5636, [Pub. L. 93–415, title II, § 226][/us/pl/93/415/s226], Sept. 7, 1974, [88 Stat. 1124][/us/stat/88/1124], provided for proceedings by Administrator in the case of noncompliance of program or activity with this subchapter.
-
-    Section 5637, [Pub. L. 93–415, title II, § 227][/us/pl/93/415/s227], Sept. 7, 1974, [88 Stat. 1124][/us/stat/88/1124]; [Pub. L. 95–115, § 4(f)][/us/pl/95/115/s4/f], Oct. 3, 1977, [91 Stat. 1055][/us/stat/91/1055]; [Pub. L. 96–509, § 13(a)][/us/pl/96/509/s13/a], Dec. 8, 1980, [94 Stat. 2759][/us/stat/94/2759]; [Pub. L. 98–473, title II, § 629][/us/pl/98/473/s629], Oct. 12, 1984, [98 Stat. 2117][/us/stat/98/2117], related to use of funds paid pursuant to this subchapter.
-
-    Section 5638, [Pub. L. 93–415, title II, § 228][/us/pl/93/415/s228], Sept. 7, 1974, [88 Stat. 1124][/us/stat/88/1124]; [Pub. L. 95–115, § 4(g)(1)][/us/pl/95/115/s4/g/1], (2), (3)(A), Oct. 3, 1977, [91 Stat. 1055][/us/stat/91/1055], 1056; [Pub. L. 96–509][/us/pl/96/509], §§ 14, 19(i), Dec. 8, 1980, [94 Stat. 2760][/us/stat/94/2760], 2765; [Pub. L. 98–473, title II, § 630][/us/pl/98/473/s630], Oct. 12, 1984, [98 Stat. 2117][/us/stat/98/2117], related to continuing financial assistance for programs.
-
-    Section 5639, [Pub. L. 93–415, title II, § 229][/us/pl/93/415/s229], as added [Pub. L. 95–115, § 4(h)][/us/pl/95/115/s4/h], Oct. 3, 1977, [91 Stat. 1056][/us/stat/91/1056], provided for confidentiality of program records.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1988, see [section 7296(a) of Pub. L. 100–690][/us/pl/100/690/s7296/a], set out as an Effective Date of 1988 Amendment note under [section 5601 of this title][/us/usc/t42/s5601].
+    [Pub. L. 96–509][/us/pl/96/509], § 17, Dec. 8, 1980, [94 Stat. 2761][/us/stat/94/2761], provided that the Administrator of the Office of Juvenile Justice and Delinquency Prevention, not later than 18 months after Dec. 8, 1980, submit a report to the Congress relating to the cost and implications of any requirement added to the Juvenile Justice and Delinquency Prevention Act of 1974 which would mandate the removal of juveniles from adults in all jails and lockups, such report to include an estimate of the costs likely to be incurred by the States, an analysis of the experience of States which required the removal of juveniles from adults in all jails and lockups, an analysis of possible adverse ramifications which might result from such requirement of removal, and recommendations for such legislative or administrative action as the Administrator considers appropriate.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_s5632.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptC/m__us_usc_t42_ch72_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633)
+[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_s5632.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_s5634...5639.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633)
 
 ----------
 ----------
@@ -900,226 +882,226 @@
 [/us/usc/t42/s5632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5632
 [/us/usc/t42/s5632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5632%2Fa
 [/us/usc/t42/s5632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5632%2Fd
-[/us/pl/93/415/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs223
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1119
-[/us/pl/94/503/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2Fs130%2Fb
+[/us/pl/94/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2FtI
 [/us/stat/90/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2425
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1048
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2755
-[/us/pl/98/473/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2111
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4439
-[/us/pl/102/586/s2/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/4987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4987
-[/us/pl/103/322/s110201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110201%2Fd
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2012
-[/us/pl/104/294/s604/b/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F28
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3508
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/273/s12209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1873
-[/us/pl/109/162/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs305
+[/us/pl/109/162/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIII
 [/us/stat/119/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3016
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 [/us/usc/t42/s3785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3785
-[/us/pl/109/162/s1155/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1155%2F3
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3114
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/107/273/s12209/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FA
-[/us/pl/107/273/s12209/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FB%2Fi
-[/us/pl/107/273/s12209/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FB%2Fii
-[/us/pl/107/273/s12209/1/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FB%2Fiii%2FI
-[/us/pl/107/273/s12209/1/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FB%2Fiii%2FII
-[/us/pl/107/273/s12209/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FC%2Fi
-[/us/pl/107/273/s12209/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FC%2Fii
-[/us/pl/107/273/s12209/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FD
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FE
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FF%2Fi
-[/us/pl/107/273/s12209/1/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FF%2Fii
-[/us/pl/107/273/s12209/1/F/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FF%2Fiii
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FG
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fi
-[/us/pl/107/273/s12209/1/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fii
-[/us/pl/107/273/s12209/1/H/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fiii
-[/us/pl/107/273/s12209/1/H/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fiv
-[/us/pl/107/273/s12209/1/H/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fv
-[/us/pl/107/273/s12209/1/H/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fvii
-[/us/pl/107/273/s12209/1/H/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fviii
-[/us/pl/107/273/s12209/1/H/xiii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fxiii
-[/us/pl/107/273/s12209/1/H/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fix
-[/us/pl/107/273/s12209/1/H/xiii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fxiii
-[/us/pl/107/273/s12209/1/H/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fx
-[/us/pl/107/273/s12209/1/H/xiii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fxiii
-[/us/pl/107/273/s12209/1/H/xi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fxi
-[/us/pl/107/273/s12209/1/H/xiv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fxiv
-[/us/pl/107/273/s12209/1/H/xii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fxii
-[/us/pl/107/273/s12209/1/H/xiv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FH%2Fxiv
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FI
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t18/s922/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922%2Fx
 [/us/usc/t42/s5603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5603%2F1
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FJ
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FK
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FL
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FM
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FN
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FO
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FP
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FQ
-[/us/pl/107/273/s12209/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FT
-[/us/pl/107/273/s12209/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FS
-[/us/pl/107/273/s12209/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FR
-[/us/pl/107/273/s12209/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F1%2FT
-[/us/pl/107/273/s12209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F2
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t42/s5632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5632
-[/us/pl/107/273/s12209/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F3
-[/us/pl/107/273/s12209/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12209%2F4
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t18/s922/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922%2Fx
-[/us/pl/102/586/s2/f/3/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FI
-[/us/pl/102/586/s2/f/3/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FII
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/usc/t42/s5671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5671
-[/us/pl/102/586/s2/f/3/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FIII
-[/us/pl/102/586/s2/f/3/A/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FIV
-[/us/pl/102/586/s2/f/3/A/i/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FV
-[/us/pl/102/586/s2/f/3/A/i/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FVI
-[/us/pl/102/586/s2/f/3/A/i/VII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FVII
-[/us/pl/102/586/s2/f/3/A/i/VIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FVIII
-[/us/pl/102/586/s2/f/3/A/i/IX/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FIX%2Fbb
-[/us/pl/102/586/s2/f/3/A/i/IX/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FIX%2Faa
-[/us/pl/102/586/s2/f/3/A/i/X]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FX
-[/us/pl/102/586/s2/f/3/A/i/XI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FXI
-[/us/pl/102/586/s2/f/3/A/i/XII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fi%2FXII
-[/us/pl/102/586/s2/f/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fii
-[/us/pl/102/586/s2/f/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FA%2Fiii
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/usc/t42/s5632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5632%2Fd
-[/us/pl/100/690/s6263/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6263%2Fb%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s5671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5671
-[/us/pl/100/690/s7258/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7258%2Fa%2F1
-[/us/pl/100/690/s7258/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7258%2Fa%2F2
-[/us/pl/100/690/s7258/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7258%2Fb
-[/us/pl/100/690/s7258/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7258%2Fc
-[/us/pl/100/690/s7258/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7258%2Fd%2F1
-[/us/pl/100/690/s7258/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7258%2Fd%2F4
-[/us/pl/98/473/s626/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F9
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3743
-[/us/pl/98/473/s626/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F1
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s5671/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5671%2Fc%2F1
 [/us/usc/t42/s3742/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3742%2Fb%2F1
-[/us/pl/98/473/s626/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F2
-[/us/pl/98/473/s626/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F3%2FA
-[/us/pl/98/473/s626/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F3%2FB%2Fi
-[/us/pl/98/473/s626/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F3%2FB%2Fii
-[/us/pl/98/473/s626/a/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F3%2FB%2Fiii
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s3793a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793a
-[/us/pl/98/473/s626/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F4
-[/us/pl/98/473/s626/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FA
-[/us/pl/98/473/s626/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FB
-[/us/pl/98/473/s626/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FC
-[/us/pl/98/473/s626/a/5/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FD%2Fi
-[/us/pl/98/473/s626/a/5/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FD%2Fii
-[/us/pl/98/473/s626/a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FE
-[/us/pl/98/473/s626/a/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FF
-[/us/pl/98/473/s626/a/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F5%2FG
-[/us/pl/98/473/s626/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F6
-[/us/pl/98/473/s626/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F11
-[/us/pl/98/473/s626/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F11
-[/us/pl/98/473/s626/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F7
-[/us/pl/98/473/s626/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F11
-[/us/pl/98/473/s626/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F11
-[/us/pl/98/473/s626/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F8
-[/us/pl/98/473/s626/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fa%2F11
-[/us/pl/98/473/s626/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fb
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s5633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633%2Fa
 [/us/usc/t42/s5633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633%2Fa
-[/us/pl/98/473/s626/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fc
-[/us/pl/98/473/s626/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs626%2Fd
-[/us/pl/96/509/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F1
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/usc/t42/s3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3743
 [/us/usc/t42/s3733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3733%2Fa
-[/us/pl/96/509/s19/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fg%2F1
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/usc/t42/s3742/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3742%2Fb%2F1
 [/us/usc/t42/s3723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3723
-[/us/pl/96/509/s19/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fg%2F2
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/pl/96/509/s11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F3
-[/us/pl/96/509/s11/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F4
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/usc/t42/s3723/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3723%2Fc
 [/us/usc/t42/s3793a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793a
-[/us/pl/96/509/s11/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F7
-[/us/pl/96/509/s11/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F8%2FA
-[/us/pl/96/509/s11/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F9
-[/us/pl/96/509/s11/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F10
-[/us/pl/96/509/s11/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F11
-[/us/pl/96/509/s11/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F12
-[/us/pl/96/509/s11/a/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F8%2FD
-[/us/pl/96/509/s19/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fg%2F5
-[/us/pl/96/509/s11/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F13
-[/us/pl/96/509/s19/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fg%2F6
-[/us/pl/96/509/s11/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F15%2FA
-[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/pl/96/509/s11/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F15%2FA
-[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/pl/96/509/s11/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fa%2F15%2FA
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/pl/96/509/s19/g/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fg%2F12
-[/us/pl/96/509/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs11%2Fb
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/pl/95/115/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F1
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
-[/us/pl/95/115/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F3
-[/us/pl/95/115/s4/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F4
-[/us/pl/95/115/s4/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F5
-[/us/pl/95/115/s4/c/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FA%2Fi
-[/us/pl/95/115/s4/c/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FA%2Fii
-[/us/pl/95/115/s4/c/6/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FA%2Fiii
-[/us/pl/95/115/s4/c/6/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FA%2Fiv
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/usc/t42/s201/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201%2Fq
-[/us/pl/95/115/s4/c/6/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FA%2Fv
-[/us/pl/95/115/s4/c/6/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FA%2Fvi
-[/us/pl/95/115/s4/c/6/A/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FA%2Fvii
-[/us/pl/95/115/s4/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F7
-[/us/pl/95/115/s4/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F8
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
-[/us/pl/95/115/s4/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F10
-[/us/pl/95/115/s4/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F11
-[/us/pl/95/115/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F3%2FB
-[/us/pl/95/115/s4/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F12
-[/us/pl/95/115/s4/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F13
-[/us/pl/95/115/s4/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F14
-[/us/pl/95/115/s4/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F15
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/pl/94/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/273/s12223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12223
@@ -1138,61 +1120,19 @@
 [/us/pl/93/415/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs263%2Fc
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/95/115/s4/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F3%2FB
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1052
 [/us/pl/95/115/s4/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F3%2FB
-[/us/pl/95/115/s4/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FB
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1053
 [/us/pl/95/115/s4/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fc%2F6%2FB
-[/us/pl/102/586/s2/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Ff%2F3%2FB
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/4994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4994
 [/us/usc/t42/s5633/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633%2Fc%2F3
 [/us/usc/t42/s5632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5632
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/96/509/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs17
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2761
-[/us/pl/100/690/s7263/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7263%2Fa%2F1%2FB
-[/us/stat/102/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4443
-[/us/pl/93/415/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs224
-[/us/stat/88/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1122
-[/us/pl/95/115/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fd
-[/us/stat/91/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1054
-[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/stat/94/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2759
-[/us/pl/98/473/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs627
-[/us/stat/98/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2114
-[/us/pl/93/415/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs225
-[/us/stat/88/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1123
-[/us/pl/94/503/s130/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2Fs130%2Fc
-[/us/stat/90/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2425
-[/us/pl/95/115/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fe
-[/us/stat/91/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1055
-[/us/pl/98/473/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs628
-[/us/stat/98/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2116
-[/us/usc/t42/s5634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5634
-[/us/pl/93/415/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs226
-[/us/stat/88/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1124
-[/us/pl/93/415/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs227
-[/us/stat/88/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1124
-[/us/pl/95/115/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Ff
-[/us/stat/91/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1055
-[/us/pl/96/509/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs13%2Fa
-[/us/stat/94/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2759
-[/us/pl/98/473/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs629
-[/us/stat/98/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2117
-[/us/pl/93/415/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs228
-[/us/stat/88/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1124
-[/us/pl/95/115/s4/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fg%2F1
-[/us/stat/91/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1055
-[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
-[/us/stat/94/2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2760
-[/us/pl/98/473/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs630
-[/us/stat/98/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2117
-[/us/pl/93/415/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs229
-[/us/pl/95/115/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs4%2Fh
-[/us/stat/91/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1056
-[/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
-[/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 
 

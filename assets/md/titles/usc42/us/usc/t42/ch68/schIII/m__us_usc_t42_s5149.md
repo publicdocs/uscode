@@ -29,7 +29,7 @@
 
         (3) to incur obligations on behalf of the United States by contract or otherwise for the acquisition, rental, or hire of equipment, services, materials, and supplies for shipping, drayage, travel, and communications, and for the supervision and administration of such activities. Such obligations, including obligations arising out of the temporary employment of additional personnel, may be incurred by an agency in such amount as may be made available to it by the President.
 
-([Pub. L. 93–288, title III, § 306][/us/pl/93/288/s306], formerly § 309, May 22, 1974, [88 Stat. 149][/us/stat/88/149]; renumbered § 306, [Pub. L. 100–707, title I, § 105(d)][/us/pl/100/707/s105/d], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 306, formerly § 309, May 22, 1974, [88 Stat. 149][/us/stat/88/149]; renumbered § 306, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(d), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs306
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F149
-[/us/pl/100/707/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fd
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

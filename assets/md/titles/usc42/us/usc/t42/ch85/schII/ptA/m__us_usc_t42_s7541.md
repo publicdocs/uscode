@@ -435,7 +435,7 @@
 
             Subparagraph (A) of subsection (b)(2) of this section shall apply only where the Administrator has made a determination that the instructions concerned conform to the requirements of subsection (c)(3) of this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 207, as added [Pub. L. 91–604, § 8(a)][/us/pl/91/604/s8/a], Dec. 31, 1970, [84 Stat. 1696][/us/stat/84/1696]; amended [Pub. L. 95–95, title II][/us/pl/95/95], §§ 205, 208–210, 212, Aug. 7, 1977, [91 Stat. 754–756][/us/stat/91/754-756], 758; [Pub. L. 95–190, § 14(a)(70)][/us/pl/95/190/s14/a/70]–(72), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title II][/us/pl/101/549], §§ 209, 210, 230(9), Nov. 15, 1990, [104 Stat. 2484][/us/stat/104/2484], 2485, 2529; [Pub. L. 113–109, § 1][/us/pl/113/109/s1], June 9, 2014, [128 Stat. 1170][/us/stat/128/1170].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 207, as added [Pub. L. 91–604][/us/pl/91/604], § 8(a), Dec. 31, 1970, [84 Stat. 1696][/us/stat/84/1696]; amended [Pub. L. 95–95, title II][/us/pl/95/95/tII], §§ 205, 208–210, 212, Aug. 7, 1977, [91 Stat. 754–756][/us/stat/91/754-756], 758; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(70)–(72), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title II][/us/pl/101/549/tII], §§ 209, 210, 230(9), Nov. 15, 1990, [104 Stat. 2484][/us/stat/104/2484], 2485, 2529; [Pub. L. 113–109][/us/pl/113/109], § 1, June 9, 2014, [128 Stat. 1170][/us/stat/128/1170].)
 
  __Codification__ 
 
@@ -449,35 +449,35 @@
 
     2014—Subsec. (h). [Pub. L. 113–109][/us/pl/113/109] redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “Upon the sale of each new light-duty motor vehicle by a dealer, the dealer shall furnish to the purchaser a certificate that such motor vehicle conforms to the applicable regulations under [section 7521 of this title][/us/usc/t42/s7521], including notice of the purchaser’s rights under paragraph (2).”
 
-    1990—Subsec. (a)(1). [Pub. L. 101–549, § 209(4)][/us/pl/101/549/s209/4], inserted at end “In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.”
+    1990—Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 209(4), inserted at end “In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.”
 
-    Subsec. (b). [Pub. L. 101–549, § 209(1)][/us/pl/101/549/s209/1], (2), substituted “the warranty period (as determined under subsection (i) of this section)” for “useful life (as determined under [section 7521(d) of this title][/us/usc/t42/s7521/d])” in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: “For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term ‘emission control device or system’ means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968.”
+    Subsec. (b). [Pub. L. 101–549][/us/pl/101/549], § 209(1), (2), substituted “the warranty period (as determined under subsection (i) of this section)” for “useful life (as determined under [section 7521(d) of this title][/us/usc/t42/s7521/d])” in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: “For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term ‘emission control device or system’ means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968.”
 
-    Subsec. (c)(4) to (6). [Pub. L. 101–549, § 210][/us/pl/101/549/s210], added pars. (4) to (6).
+    Subsec. (c)(4) to (6). [Pub. L. 101–549][/us/pl/101/549], § 210, added pars. (4) to (6).
 
-    Subsec. (g). [Pub. L. 101–549, § 230(9)][/us/pl/101/549/s230/9], substituted “the last sentence of subsection (a)(3) of this section)” for “the last three sentences of subsection (a)(1) of this section”.
+    Subsec. (g). [Pub. L. 101–549][/us/pl/101/549], § 230(9), substituted “the last sentence of subsection (a)(3) of this section)” for “the last three sentences of subsection (a)(1) of this section”.
 
-    Subsec. (i). [Pub. L. 101–549, § 209(3)][/us/pl/101/549/s209/3], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–549][/us/pl/101/549], § 209(3), added subsec. (i).
 
-    1977—Subsec. (a). [Pub. L. 95–190, § 14(a)(70)][/us/pl/95/190/s14/a/70], designated provisions contained in cl. (3) of subsec. (a), formerly set out as containing cls. (1), (2), and (3), to be par. (3) of subsec. (a) after the amendment by [Pub. L. 95–95, § 209(b)][/us/pl/95/95/s209/b], which designated provisions of former subsec. (a) as par. (1) and former cls. (1) and (2) as (A) and (B) of par. (1) and added a new par. (2).
+    1977—Subsec. (a). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(70), designated provisions contained in cl. (3) of subsec. (a), formerly set out as containing cls. (1), (2), and (3), to be par. (3) of subsec. (a) after the amendment by [Pub. L. 95–95][/us/pl/95/95], § 209(b), which designated provisions of former subsec. (a) as par. (1) and former cls. (1) and (2) as (A) and (B) of par. (1) and added a new par. (2).
 
-    [Pub. L. 95–95, § 205][/us/pl/95/95/s205], added cl. (3).
+    [Pub. L. 95–95][/us/pl/95/95], § 205, added cl. (3).
 
-    Subsec. (b). [Pub. L. 95–95, § 209(a)][/us/pl/95/95/s209/a], (c), inserted provisions to par. (2) that no warranty be held invalid on the basis of any part used in the maintenance or repair of a vehicle or engine if the part was certified as provided in subsec. (a)(2) of this section, and, following par. (2), inserted provisions defining “emission control device or system”.
+    Subsec. (b). [Pub. L. 95–95][/us/pl/95/95], § 209(a), (c), inserted provisions to par. (2) that no warranty be held invalid on the basis of any part used in the maintenance or repair of a vehicle or engine if the part was certified as provided in subsec. (a)(2) of this section, and, following par. (2), inserted provisions defining “emission control device or system”.
 
-    Subsec. (c)(3). [Pub. L. 95–95, § 208][/us/pl/95/95/s208], designated existing provisions as subpars. (A) and (C), added requirement for the bold face printing of a required notice on the first page of the written maintenance instructions in subpar. (A), and added subpar. (B).
+    Subsec. (c)(3). [Pub. L. 95–95][/us/pl/95/95], § 208, designated existing provisions as subpars. (A) and (C), added requirement for the bold face printing of a required notice on the first page of the written maintenance instructions in subpar. (A), and added subpar. (B).
 
-    Subsec. (f). [Pub. L. 95–190, § 14(a)(71)][/us/pl/95/190/s14/a/71], redesignated subsec. (f) as added by [Pub. L. 95–95, § 212][/us/pl/95/95/s212], as (h).
+    Subsec. (f). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(71), redesignated subsec. (f) as added by [Pub. L. 95–95][/us/pl/95/95], § 212, as (h).
 
-    Subsec. (g). [Pub. L. 95–95, § 210][/us/pl/95/95/s210], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–95][/us/pl/95/95], § 210, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 95–190, § 14(a)(71)][/us/pl/95/190/s14/a/71], redesignated subsec. (f) as added by [Pub. L. 95–95, § 212][/us/pl/95/95/s212], as (h).
+    Subsec. (h). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(71), redesignated subsec. (f) as added by [Pub. L. 95–95][/us/pl/95/95], § 212, as (h).
 
-    Subsec. (h)(2). [Pub. L. 95–190, § 14(a)(72)][/us/pl/95/190/s14/a/72], substituted “determined under” for “determined and”.
+    Subsec. (h)(2). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(72), substituted “determined under” for “determined and”.
 
  __Effective Date of 1990 Amendment__ 
 
-    [Pub. L. 101–549, title II, § 209][/us/pl/101/549/s209], Nov. 15, 1990, [104 Stat. 2484][/us/stat/104/2484], provided that the amendments made by that section are effective with respect to new motor vehicles and engines manufactured in model year 1995 and thereafter.
+    [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 209, Nov. 15, 1990, [104 Stat. 2484][/us/stat/104/2484], provided that the amendments made by that section are effective with respect to new motor vehicles and engines manufactured in model year 1995 and thereafter.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -519,39 +519,39 @@
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/usc/t42/s7543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs8%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1696
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/754-756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F754-756
-[/us/pl/95/190/s14/a/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F70
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1403
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2484
-[/us/pl/113/109/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F109%2Fs1
+[/us/pl/113/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F109
 [/us/stat/128/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1170
 [/us/usc/t42/s1857f–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%935a
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7542
 [/us/pl/113/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F109
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
-[/us/pl/101/549/s209/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs209%2F4
-[/us/pl/101/549/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs209%2F1
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fd
-[/us/pl/101/549/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs210
-[/us/pl/101/549/s230/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F9
-[/us/pl/101/549/s209/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs209%2F3
-[/us/pl/95/190/s14/a/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F70
-[/us/pl/95/95/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs209%2Fb
-[/us/pl/95/95/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs205
-[/us/pl/95/95/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs209%2Fa
-[/us/pl/95/95/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs208
-[/us/pl/95/190/s14/a/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F71
-[/us/pl/95/95/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs212
-[/us/pl/95/95/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs210
-[/us/pl/95/190/s14/a/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F71
-[/us/pl/95/95/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs212
-[/us/pl/95/190/s14/a/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F72
-[/us/pl/101/549/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs209
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2484
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd

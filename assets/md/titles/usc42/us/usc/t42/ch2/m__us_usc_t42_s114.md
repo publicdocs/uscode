@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s113.md) | [Next](./../../../..//us/usc/t42/ch3/m__us_usc_t42_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs114)
 
-## § 114. Repealed. [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
+## § 114. Repealed. [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
 
     Section, R.S. § 4800, related to removal of prisoners during an epidemic.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 
 

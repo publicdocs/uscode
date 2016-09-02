@@ -23,13 +23,13 @@
 
         The Assistant Secretary shall provide technical assistance and training (by contract, grant, or otherwise) to persons and entities that administer programs established under this subchapter.
 
-([Pub. L. 89–73, title VII, § 763][/us/pl/89/73/s763], as added [Pub. L. 102–375, title VII, § 707][/us/pl/102/375/s707], Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; amended [Pub. L. 103–171, § 3(a)(11)][/us/pl/103/171/s3/a/11], (13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 763, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 707, Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(11), (13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990].)
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], substituted “Assistant Secretary” for “Commissioner”.
+    1993—Subsec. (a). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 
-    Subsec. (b). [Pub. L. 103–171, § 13(a)(11)][/us/pl/103/171/s13/a/11], (13), substituted “Assistant Secretary” for “Commissioner” in heading and text.
+    Subsec. (b). [Pub. L. 103–171][/us/pl/103/171], § 13(a)(11), (13), substituted “Assistant Secretary” for “Commissioner” in heading and text.
 
 ----------
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/89/73/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs763
-[/us/pl/102/375/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs707
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1291
-[/us/pl/103/171/s3/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F11
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
-[/us/pl/103/171/s13/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs13%2Fa%2F11
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 
 

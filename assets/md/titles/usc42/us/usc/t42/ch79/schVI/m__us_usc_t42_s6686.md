@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_ch79_schVI.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
+[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6681...6685.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
 
 ## § 6686. Science and Technology Policy Institute
 
@@ -63,7 +63,7 @@
 
         (2) The Director of the National Science Foundation, in consultation with the Director of Office of Science and Technology Policy, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the Director of Office of Science and Technology Policy may specify consistent with the duties referred to in subsection (c) of this section. The sponsoring agreement shall be consistent with the general requirements prescribed for such a sponsoring agreement by the Administrator for Federal Procurement Policy.
 
-([Pub. L. 101–510, div. A, title VIII, § 822][/us/pl/101/510/s822], Nov. 5, 1990, [104 Stat. 1598][/us/stat/104/1598]; [Pub. L. 102–25, title VII, § 704(a)(5)][/us/pl/102/25/s704/a/5], Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118]; [Pub. L. 102–190, div. A, title VIII, § 822(c)(1)][/us/pl/102/190/s822/c/1], Dec. 5, 1991, [105 Stat. 1433][/us/stat/105/1433]; [Pub. L. 103–160, div. A, title VIII, § 803][/us/pl/103/160/s803], Nov. 30, 1993, [107 Stat. 1701][/us/stat/107/1701]; [Pub. L. 104–201, div. A, title X, § 1073(e)(1)(C)][/us/pl/104/201/s1073/e/1/C], Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658]; [Pub. L. 105–207, title II, § 208(a)][/us/pl/105/207/s208/a], July 29, 1998, [112 Stat. 877][/us/stat/112/877].)
+([Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 822, Nov. 5, 1990, [104 Stat. 1598][/us/stat/104/1598]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 704(a)(5), Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118]; [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 822(c)(1), Dec. 5, 1991, [105 Stat. 1433][/us/stat/105/1433]; [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 803, Nov. 30, 1993, [107 Stat. 1701][/us/stat/107/1701]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1073(e)(1)(C), Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 208(a), July 29, 1998, [112 Stat. 877][/us/stat/112/877].)
 
  __References in Text__ 
 
@@ -75,13 +75,13 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–207, § 208(a)(1)][/us/pl/105/207/s208/a/1], substituted “Science and Technology Policy Institute” for “Critical Technologies Institute” in section catchline.
+    1998—[Pub. L. 105–207][/us/pl/105/207], § 208(a)(1), substituted “Science and Technology Policy Institute” for “Critical Technologies Institute” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–207, § 208(a)(1)][/us/pl/105/207/s208/a/1], substituted “Science and Technology Policy Institute” for “Critical Technologies Institute”.
+    Subsec. (a). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(1), substituted “Science and Technology Policy Institute” for “Critical Technologies Institute”.
 
-    Subsec. (b). [Pub. L. 105–207, § 208(a)(2)][/us/pl/105/207/s208/a/2], substituted “The” for “As determined by the chairman of the committee referred to in subsection (c) of this section, the”.
+    Subsec. (b). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(2), substituted “The” for “As determined by the chairman of the committee referred to in subsection (c) of this section, the”.
 
-    Subsec. (c). [Pub. L. 105–207, § 208(a)(3)][/us/pl/105/207/s208/a/3], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows:
+    Subsec. (c). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows:
 
     “(1) The Institute shall have an Operating Committee composed of six members as follows:
 
@@ -99,27 +99,27 @@
 
     “(2) The Operating Committee shall meet not less than four times each year.”
 
-    Subsec. (c)(1). [Pub. L. 105–207, § 208(a)(4)(A)][/us/pl/105/207/s208/a/4/A]–(C), inserted “science and” after “developments and trends in”, substituted “including” for “with particular emphasis on”, and inserted before period at end “and developing and maintaining relevant informational and analytical tools”.
+    Subsec. (c)(1). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(4)(A)–(C), inserted “science and” after “developments and trends in”, substituted “including” for “with particular emphasis on”, and inserted before period at end “and developing and maintaining relevant informational and analytical tools”.
 
-    Subsec. (c)(2). [Pub. L. 105–207, § 208(a)(4)(D)][/us/pl/105/207/s208/a/4/D], substituted “with particular attention to the scope and content of the Federal science and technology research and development portfolio as it affects interagency and national issues” for “to determine whether such developments and trends are likely to affect United States technology policies”.
+    Subsec. (c)(2). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(4)(D), substituted “with particular attention to the scope and content of the Federal science and technology research and development portfolio as it affects interagency and national issues” for “to determine whether such developments and trends are likely to affect United States technology policies”.
 
-    Subsec. (c)(3). [Pub. L. 105–207, § 208(a)(4)(E)][/us/pl/105/207/s208/a/4/E], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Initiation of studies and analyses (including systems analyses and technology assessments) of alternatives available for ensuring long-term leadership by the United States in the development and application of the technologies referred to in paragraph (1), including appropriate roles for the Federal Government, State governments, private industry, and institutions of higher education in the development and application of such technologies.”
+    Subsec. (c)(3). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Initiation of studies and analyses (including systems analyses and technology assessments) of alternatives available for ensuring long-term leadership by the United States in the development and application of the technologies referred to in paragraph (1), including appropriate roles for the Federal Government, State governments, private industry, and institutions of higher education in the development and application of such technologies.”
 
-    Subsec. (c)(4). [Pub. L. 105–207, § 208(a)(4)(F)][/us/pl/105/207/s208/a/4/F], (G), inserted “science and” after “Executive branch on” in subpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.”
+    Subsec. (c)(4). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(4)(F), (G), inserted “science and” after “Executive branch on” in subpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.”
 
-    Subsec. (d). [Pub. L. 105–207, § 208(a)(3)][/us/pl/105/207/s208/a/3], (5), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)” in introductory provisions. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(3), (5), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)” in introductory provisions. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 105–207, § 208(a)(6)][/us/pl/105/207/s208/a/6], which directed the substitution of “Institute” for “Committee” each place appearing, was executed by making the substitution for “committee” in two places to reflect the probable intent of Congress.
+    Subsec. (e). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(6), which directed the substitution of “Institute” for “Committee” each place appearing, was executed by making the substitution for “committee” in two places to reflect the probable intent of Congress.
 
-    [Pub. L. 105–207, § 208(a)(3)][/us/pl/105/207/s208/a/3], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    [Pub. L. 105–207][/us/pl/105/207], § 208(a)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 105–207, § 208(a)(3)][/us/pl/105/207/s208/a/3], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (f)(2). [Pub. L. 105–207, § 208(a)(8)][/us/pl/105/207/s208/a/8], which directed the substitution of “Director of Office of Science and Technology Policy” for “Chairman of Committee” each place appearing, was executed by making the substitution for “chairman of the committee” in two places to reflect the probable intent of Congress.
+    Subsec. (f)(2). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(8), which directed the substitution of “Director of Office of Science and Technology Policy” for “Chairman of Committee” each place appearing, was executed by making the substitution for “chairman of the committee” in two places to reflect the probable intent of Congress.
 
-    [Pub. L. 105–207, § 208(a)(7)][/us/pl/105/207/s208/a/7], substituted “subsection (c)” for “subsection (d)”.
+    [Pub. L. 105–207][/us/pl/105/207], § 208(a)(7), substituted “subsection (c)” for “subsection (d)”.
 
-    Subsec. (g). [Pub. L. 105–207, § 208(a)(3)][/us/pl/105/207/s208/a/3], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 105–207][/us/pl/105/207], § 208(a)(3), redesignated subsec. (g) as (f).
 
     1996—Subsec. (c)(1)(D). [Pub. L. 104–201][/us/pl/104/201] inserted “Defense” before “Advanced Research Projects Agency”.
 
@@ -127,13 +127,13 @@
 
     1991—[Pub. L. 102–190][/us/pl/102/190] amended section generally, substituting present provisions for provisions establishing “Critical Technologies Institute” and providing for incorporation, Board of Trustees, duties of Institute, sponsorship of Institute, deadline for certain actions, and funding.
 
-    Subsec. (g)(1). [Pub. L. 102–25, § 704(a)(5)(A)][/us/pl/102/25/s704/a/5/A], substituted “appropriated pursuant to this Act” for “available for the Department of Defense” and struck out “in the first fiscal year in which the Institute begins operations” after “activities of the Institute”.
+    Subsec. (g)(1). [Pub. L. 102–25][/us/pl/102/25], § 704(a)(5)(A), substituted “appropriated pursuant to this Act” for “available for the Department of Defense” and struck out “in the first fiscal year in which the Institute begins operations” after “activities of the Institute”.
 
-    Subsec. (g)(2). [Pub. L. 102–25, § 704(a)(5)(B)][/us/pl/102/25/s704/a/5/B], struck out “for each fiscal year after the fiscal year referred to in paragraph (1)” after “for the Institute”.
+    Subsec. (g)(2). [Pub. L. 102–25][/us/pl/102/25], § 704(a)(5)(B), struck out “for each fiscal year after the fiscal year referred to in paragraph (1)” after “for the Institute”.
 
  __Effective Date of 1991 Amendments__ 
 
-[Pub. L. 102–190, title VIII, § 822(c)(2)][/us/pl/102/190/s822/c/2], (3), Dec. 5, 1991, [105 Stat. 1435][/us/stat/105/1435], provided that:
+[Pub. L. 102–190, title VIII][/us/pl/102/190/tVIII], § 822(c)(2), (3), Dec. 5, 1991, [105 Stat. 1435][/us/stat/105/1435], provided that:
 
 >     “(2) The amendment made by paragraph (1) \[amending this section\] shall take effect as of November 5, 1990.
 
@@ -143,66 +143,66 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 102–190, title VIII, § 822(d)(2)][/us/pl/102/190/s822/d/2], Dec. 5, 1991, [105 Stat. 1435][/us/stat/105/1435], provided that: 
+[Pub. L. 102–190, title VIII][/us/pl/102/190/tVIII], § 822(d)(2), Dec. 5, 1991, [105 Stat. 1435][/us/stat/105/1435], provided that: 
 
 > “There is authorized to be appropriated for each fiscal year after fiscal year 1991 for the Institute such sums as may be necessary for the operation of the Institute.”
 
  __References to Critical Technologies Institute__ 
 
-[Pub. L. 105–207, title II, § 208(b)][/us/pl/105/207/s208/b], July 29, 1998, [112 Stat. 878][/us/stat/112/878], provided that: 
+[Pub. L. 105–207, title II][/us/pl/105/207/tII], § 208(b), July 29, 1998, [112 Stat. 878][/us/stat/112/878], provided that: 
 
 > “All references in Federal law or regulations to the Critical Technologies Institute shall be considered to be references to the Science and Technology Policy Institute.”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_ch79_schVI.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
+[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6681...6685.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
 
 ----------
 ----------
 
-[/us/pl/101/510/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs822
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1598
-[/us/pl/102/25/s704/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fa%2F5
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F118
-[/us/pl/102/190/s822/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs822%2Fc%2F1
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1433
-[/us/pl/103/160/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs803
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1701
-[/us/pl/104/201/s1073/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1073%2Fe%2F1%2FC
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2658
-[/us/pl/105/207/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F877
 [/us/usc/t42/s6683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683
-[/us/pl/105/207/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F1
-[/us/pl/105/207/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F1
-[/us/pl/105/207/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F2
-[/us/pl/105/207/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F3
-[/us/pl/105/207/s208/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F4%2FA
-[/us/pl/105/207/s208/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F4%2FD
-[/us/pl/105/207/s208/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F4%2FE
-[/us/pl/105/207/s208/a/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F4%2FF
-[/us/pl/105/207/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F3
-[/us/pl/105/207/s208/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F6
-[/us/pl/105/207/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F3
-[/us/pl/105/207/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F3
-[/us/pl/105/207/s208/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F8
-[/us/pl/105/207/s208/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F7
-[/us/pl/105/207/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fa%2F3
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/102/25/s704/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fa%2F5%2FA
-[/us/pl/102/25/s704/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fa%2F5%2FB
-[/us/pl/102/190/s822/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs822%2Fc%2F2
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/190/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FtVIII
 [/us/stat/105/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1435
 [/us/pl/101/510/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs822
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/102/25/s704/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fe
 [/us/usc/t10/s12321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12321
-[/us/pl/102/190/s822/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs822%2Fd%2F2
+[/us/pl/102/190/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FtVIII
 [/us/stat/105/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1435
-[/us/pl/105/207/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs208%2Fb
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F878
 
 

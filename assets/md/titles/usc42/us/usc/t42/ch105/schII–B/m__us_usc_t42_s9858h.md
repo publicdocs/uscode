@@ -33,17 +33,17 @@
 
         Payments to a State from the allotment under [section 9858m of this title][/us/usc/t42/s9858m] for any fiscal year may be obligated by the State in that fiscal year or in the succeeding fiscal year.
 
-([Pub. L. 97–35, title VI, § 658J][/us/pl/97/35/s658J], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–243][/us/stat/104/1388-243]; amended [Pub. L. 102–27, title III, § 310][/us/pl/102/27/s310], Apr. 10, 1991, [105 Stat. 153][/us/stat/105/153]; [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(a)][/us/pl/102/586/s8/a], (c)(1), Nov. 4, 1992, [106 Stat. 5035][/us/stat/106/5035], 5036; [Pub. L. 103–171, § 8][/us/pl/103/171/s8], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 104–193, title VI, § 610][/us/pl/104/193/s610], Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 658J, as added [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–243][/us/stat/104/1388-243]; amended [Pub. L. 102–27, title III][/us/pl/102/27/tIII], § 310, Apr. 10, 1991, [105 Stat. 153][/us/stat/105/153]; [Pub. L. 102–401][/us/pl/102/401], § 3(a), Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586][/us/pl/102/586], § 8(a), (c)(1), Nov. 4, 1992, [106 Stat. 5035][/us/stat/106/5035], 5036; [Pub. L. 103–171][/us/pl/103/171], § 8, Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 104–193, title VI][/us/pl/104/193/tVI], § 610, Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284].)
 
  __Amendments__ 
 
     1996—Subsec. (c). [Pub. L. 104–193][/us/pl/104/193] substituted “obligated” for “expended” and “succeeding fiscal year” for “succeeding 3 fiscal years”.
 
-    1993—Subsec. (c). [Pub. L. 103–171][/us/pl/103/171] made technical correction to directory language of [Pub. L. 102–586, § 8(a)][/us/pl/102/586/s8/a]. See 1992 Amendment note below.
+    1993—Subsec. (c). [Pub. L. 103–171][/us/pl/103/171] made technical correction to directory language of [Pub. L. 102–586][/us/pl/102/586], § 8(a). See 1992 Amendment note below.
 
-    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], made identical technical corrections to directory language of [Pub. L. 101–508, § 5082(2)][/us/pl/101/508/s5082/2], which added this section.
+    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586], § 8(c)(1), made identical technical corrections to directory language of [Pub. L. 101–508][/us/pl/101/508], § 5082(2), which added this section.
 
-    Subsec. (c). [Pub. L. 102–586, § 8(a)][/us/pl/102/586/s8/a], as amended by [Pub. L. 103–171][/us/pl/103/171], substituted “expended” for “obligated” and “succeeding 3 fiscal years” for “succeeding fiscal year”.
+    Subsec. (c). [Pub. L. 102–586][/us/pl/102/586], § 8(a), as amended by [Pub. L. 103–171][/us/pl/103/171], substituted “expended” for “obligated” and “succeeding 3 fiscal years” for “succeeding fiscal year”.
 
     1991—Subsec. (c). [Pub. L. 102–27][/us/pl/102/27] substituted “obligated” for “expended”.
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–586, § 8(d)][/us/pl/102/586/s8/d], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036], provided that:
+[Pub. L. 102–586][/us/pl/102/586], § 8(d), Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -74,32 +74,32 @@
 [/us/usc/t42/s9858m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858m
 [/us/usc/t42/s9858c/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F3
 [/us/usc/t42/s9858m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858m
-[/us/pl/97/35/s658J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658J
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-243
-[/us/pl/102/27/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2Fs310
+[/us/pl/102/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2FtIII
 [/us/stat/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F153
-[/us/pl/102/401/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs3%2Fa
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
-[/us/pl/102/586/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5035
-[/us/pl/103/171/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs8
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1994
-[/us/pl/104/193/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs610
+[/us/pl/104/193/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVI
 [/us/stat/110/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2284
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
-[/us/pl/102/586/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
-[/us/pl/102/586/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fc%2F1
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
-[/us/pl/102/586/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/102/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs615
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
-[/us/pl/102/586/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fd
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
 [/us/usc/t42/s9858q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858q
 [/us/usc/t42/s9858n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n

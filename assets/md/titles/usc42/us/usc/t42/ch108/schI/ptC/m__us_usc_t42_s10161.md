@@ -99,7 +99,7 @@
 
         Any facility authorized pursuant to this section shall be subject to the provisions of sections 10135, 10136(a), 10136(b), 10136(d), 10137, and 10138 of this title. For purposes of carrying out the provisions of this subsection, any reference in sections 10135 through 10138 of this title to a repository shall be considered to refer to a monitored retrievable storage facility.
 
-([Pub. L. 97–425, title I, § 141][/us/pl/97/425/s141], Jan. 7, 1983, [96 Stat. 2241][/us/stat/96/2241].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 141, Jan. 7, 1983, [96 Stat. 2241][/us/stat/96/2241].)
 
  __References in Text__ 
 
@@ -118,7 +118,7 @@
 [/us/usc/t42/s5842/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842%2F3
 [/us/usc/t42/s10222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10222%2Fc
 [/us/usc/t42/s10132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10132
-[/us/pl/97/425/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs141
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2241
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

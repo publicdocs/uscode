@@ -23,7 +23,7 @@
 
         In providing services under subsection (a) of this section, a tribal organization shall meet the requirements specified for an area agency on aging and for a State in the provisions of subsections (c), (d), and (e) of [section 3030s–1 of this title][/us/usc/t42/s3030s–1] and of [section 3030s–2 of this title][/us/usc/t42/s3030s–2]. For purposes of this subsection, references in such provisions to a State program shall be considered to be references to a tribal program under this part.
 
-([Pub. L. 89–73, title VI, § 631][/us/pl/89/73/s631], as added [Pub. L. 106–501, title VI, § 604(3)][/us/pl/106/501/s604/3], Nov. 13, 2000, [114 Stat. 2288][/us/stat/114/2288].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 631, as added [Pub. L. 106–501, title VI][/us/pl/106/501/tVI], § 604(3), Nov. 13, 2000, [114 Stat. 2288][/us/stat/114/2288].)
 
  __Prior Provisions__ 
 
@@ -40,8 +40,8 @@
 [/us/usc/t42/s3030s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%931
 [/us/usc/t42/s3030s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%931
 [/us/usc/t42/s3030s–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%932
-[/us/pl/89/73/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs631
-[/us/pl/106/501/s604/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs604%2F3
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/106/501/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVI
 [/us/stat/114/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2288
 [/us/pl/89/73/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs631
 

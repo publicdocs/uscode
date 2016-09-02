@@ -83,7 +83,7 @@
 
             The Corporation and program agencies shall establish standards and enforcement procedures concerning the health and safety of participants for all projects, consistent with Federal, State, and local health and safety standards.
 
-([Pub. L. 101–610, title I, § 199K][/us/pl/101/610/s199K], formerly § 133, Nov. 16, 1990, [104 Stat. 3147][/us/stat/104/3147]; [Pub. L. 102–10, § 5(6)][/us/pl/102/10/s5/6], Mar. 12, 1991, [105 Stat. 30][/us/stat/105/30]; renumbered § 199M, renumbered § 199K, and amended [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], (d), (e)(1), (8)(B), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 814–816.)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199K, formerly § 133, Nov. 16, 1990, [104 Stat. 3147][/us/stat/104/3147]; [Pub. L. 102–10][/us/pl/102/10], § 5(6), Mar. 12, 1991, [105 Stat. 30][/us/stat/105/30]; renumbered § 199M, renumbered § 199K, and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), (d), (e)(1), (8)(B), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 814–816.)
 
  __References in Text__ 
 
@@ -91,17 +91,17 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 12553 of this title][/us/usc/t42/s12553] prior to renumbering by [Pub. L. 103–82, § 101(a)][/us/pl/103/82/s101/a].
+    Section was formerly classified to [section 12553 of this title][/us/usc/t42/s12553] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 101(a).
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 101(d)][/us/pl/103/82/s101/d], added pars. (1) to (5) and struck out former pars. (1) and (2) which read as follows:
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 101(d), added pars. (1) to (5) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) In general.—From assistance provided under this part, each participant in a full-time youth corps program that receives assistance under this part shall receive a living allowance of not more than an amount equal to 100 percent of the poverty line for a family of two (as defined in [section 9902(2) of this title][/us/usc/t42/s9902/2]).
 
     “(2) Non-federal sources.—Notwithstanding paragraph (1), a program agency may provide participants with additional amounts that are made available from non-Federal sources.”
 
-    Subsec. (d)(4)(A), (B), (5). [Pub. L. 103–82, § 101(e)(1)][/us/pl/103/82/s101/e/1], substituted “Corporation” for “Commission”.
+    Subsec. (d)(4)(A), (B), (5). [Pub. L. 103–82][/us/pl/103/82], § 101(e)(1), substituted “Corporation” for “Commission”.
 
     1991—Subsec. (d)(1). [Pub. L. 102–10][/us/pl/102/10] substituted “subsection (a)” for “subsections (a) and (c)”.
 
@@ -121,20 +121,20 @@
 [/us/usc/t42/s4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4955
 [/us/usc/t42/s4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4955
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/pl/101/610/s199K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199K
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3147
-[/us/pl/102/10/s5/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs5%2F6
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F30
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t42/s12553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12553
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
-[/us/pl/103/82/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fd
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/103/82/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fe%2F1
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs123

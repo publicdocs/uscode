@@ -27,7 +27,7 @@
 
         When he finds it is in the public interest the Administrator may waive reimbursement or fees for outside use of Agency facilities by nonprofit private or public entities.
 
-([Pub. L. 96–229, § 5][/us/pl/96/229/s5], Apr. 7, 1980, [94 Stat. 328][/us/stat/94/328].)
+([Pub. L. 96–229][/us/pl/96/229], § 5, Apr. 7, 1980, [94 Stat. 328][/us/stat/94/328].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/229/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F229%2Fs5
+[/us/pl/96/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F229
 [/us/stat/94/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F328
 
 

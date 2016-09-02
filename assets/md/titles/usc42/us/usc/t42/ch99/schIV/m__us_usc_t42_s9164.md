@@ -23,7 +23,7 @@
 
         The Secretary of Energy, in cooperation with other interested Federal agencies and departments, is authorized and directed to report to the Congress within 60 days after August 3, 1980, on appropriations and staffing needed to monitor submarine electric transmission cables and equipment subject to the jurisdiction of the United States so as to assure that they meet all applicable standards for construction, operation, and maintenance.
 
-([Pub. L. 96–320, title IV, § 404][/us/pl/96/320/s404], Aug. 3, 1980, [94 Stat. 999][/us/stat/94/999].)
+([Pub. L. 96–320, title IV][/us/pl/96/320/tIV], § 404, Aug. 3, 1980, [94 Stat. 999][/us/stat/94/999].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs404
+[/us/pl/96/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIV
 [/us/stat/94/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F999
 
 

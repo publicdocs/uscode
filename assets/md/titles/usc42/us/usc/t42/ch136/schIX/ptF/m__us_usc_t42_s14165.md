@@ -47,7 +47,7 @@
 
         The term “State” means each of the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 114–12, § 2][/us/pl/114/12/s2], May 19, 2015, [129 Stat. 192][/us/stat/129/192].)
+([Pub. L. 114–12][/us/pl/114/12], § 2, May 19, 2015, [129 Stat. 192][/us/stat/129/192].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t42/s14165b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14165b%2Fa
 [/us/usc/t42/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b
 [/us/usc/t42/s14165a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14165a
-[/us/pl/114/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12%2Fs2
+[/us/pl/114/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12
 [/us/stat/129/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F192
 
 

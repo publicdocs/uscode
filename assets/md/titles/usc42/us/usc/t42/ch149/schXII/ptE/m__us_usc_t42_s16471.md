@@ -47,7 +47,7 @@
 
             The terms “electric consumer” and “electric utility” have the meanings given those terms in [section 2602 of title 16][/us/usc/t16/s2602].
 
-([Pub. L. 109–58, title XII, § 1287][/us/pl/109/58/s1287], Aug. 8, 2005, [119 Stat. 981][/us/stat/119/981].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1287, Aug. 8, 2005, [119 Stat. 981][/us/stat/119/981].)
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t16/s796/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F21
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
-[/us/pl/109/58/s1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1287
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F981
 
 

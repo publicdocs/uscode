@@ -39,7 +39,7 @@
 
         Within 120 days after October 11, 2010, the Administrator and the Secretary of Energy shall submit a joint report to the appropriate committees of Congress on coordinated agreements, planned implementation, and anticipated schedule, production quantities, and mission applications under this section.
 
-([Pub. L. 111–267, title VIII, § 806][/us/pl/111/267/s806], Oct. 11, 2010, [124 Stat. 2833][/us/stat/124/2833].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 806, Oct. 11, 2010, [124 Stat. 2833][/us/stat/124/2833].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs806
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2833
 
 

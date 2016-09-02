@@ -41,7 +41,7 @@
 
         The term “resident” means an older individual who resides in a long-term care facility.
 
-([Pub. L. 89–73, title VII, § 711][/us/pl/89/73/s711], as added [Pub. L. 102–375, title VII, § 702][/us/pl/102/375/s702], Sept. 30, 1992, [106 Stat. 1275][/us/stat/106/1275].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 711, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 702, Sept. 30, 1992, [106 Stat. 1275][/us/stat/106/1275].)
 
 ----------
 
@@ -56,8 +56,8 @@
 [/us/usc/t42/s3058g/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fa%2F5%2FB
 [/us/usc/t42/s3058g/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fa%2F1%2FB
 [/us/usc/t42/s3058g/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fa%2F5%2FA
-[/us/pl/89/73/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs711
-[/us/pl/102/375/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs702
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1275
 
 

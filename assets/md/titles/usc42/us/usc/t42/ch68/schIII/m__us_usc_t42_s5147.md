@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5144.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5148.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5147)
+[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5145 _us_usc_t42_s5146.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5148.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5147)
 
 ## § 5147. Reimbursement of Federal agencies
 
     Federal agencies may be reimbursed for expenditures under this chapter from funds appropriated for the purposes of this chapter. Any funds received by Federal agencies as reimbursement for services or supplies furnished under the authority of this chapter shall be deposited to the credit of the appropriation or appropriations currently available for such services or supplies.
 
-([Pub. L. 93–288, title III, § 304][/us/pl/93/288/s304], formerly § 307, May 22, 1974, [88 Stat. 149][/us/stat/88/149]; renumbered § 304, [Pub. L. 100–707, title I, § 105(d)][/us/pl/100/707/s105/d], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 304, formerly § 307, May 22, 1974, [88 Stat. 149][/us/stat/88/149]; renumbered § 304, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(d), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
 
  __References in Text__ 
 
@@ -29,14 +29,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5144.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5148.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5147)
+[Previous](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5145 _us_usc_t42_s5146.md) | [Next](./../../../../..//us/usc/t42/ch68/schIII/m__us_usc_t42_s5148.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5147)
 
 ----------
 ----------
 
-[/us/pl/93/288/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs304
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F149
-[/us/pl/100/707/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fd
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

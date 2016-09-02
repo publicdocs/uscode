@@ -21,7 +21,7 @@
 
     (2) reviewing applications for grants under 2 or more of such parts in a single, consolidated application review process.
 
-([Pub. L. 93–415, title III, § 385][/us/pl/93/415/s385], as added [Pub. L. 106–71, § 3][/us/pl/106/71/s3](o), Oct. 12, 1999, [113 Stat. 1041][/us/stat/113/1041].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 385, as added [Pub. L. 106–71][/us/pl/106/71], § 3(o), Oct. 12, 1999, [113 Stat. 1041][/us/stat/113/1041].)
 
  __Prior Provisions__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/93/415/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs385
-[/us/pl/106/71/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1041
 [/us/pl/93/415/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs385
 [/us/usc/t42/s5751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5751

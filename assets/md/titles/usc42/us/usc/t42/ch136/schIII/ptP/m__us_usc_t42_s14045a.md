@@ -97,13 +97,13 @@
 
         In this section the definitions and grant conditions in [section 13925 of this title][/us/usc/t42/s13925] shall apply.
 
-([Pub. L. 109–162, title I, § 121][/us/pl/109/162/s121], Jan. 5, 2006, [119 Stat. 2991][/us/stat/119/2991]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(3), 2(k), Aug. 12, 2006, [120 Stat. 751][/us/stat/120/751], 753; [Pub. L. 113–4, title I, § 109][/us/pl/113/4/s109], Mar. 7, 2013, [127 Stat. 80][/us/stat/127/80].)
+([Pub. L. 109–162, title I][/us/pl/109/162/tI], § 121, Jan. 5, 2006, [119 Stat. 2991][/us/stat/119/2991]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(3), 2(k), Aug. 12, 2006, [120 Stat. 751][/us/stat/120/751], 753; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 109, Mar. 7, 2013, [127 Stat. 80][/us/stat/127/80].)
 
  __References in Text__ 
 
     [Section 3796gg–6 of this title][/us/usc/t42/s3796gg–6], referred to in subsec. (a)(2)(B), was in the original “Section 14201 of division B of the Victims of Trafficking and Violence Protection Act of 2000 ([42 U.S.C. 3796gg–6][/us/usc/t42/s3796gg–6])”, which was translated as meaning “Section 1201 of division B of the Victims of Trafficking and Violence Protection Act of 2000 ([42 U.S.C. 3796gg–6][/us/usc/t42/s3796gg–6])” to reflect the probable intent of Congress.
 
-    The parenthetical reference “(Enhanced Training and Services to End Violence Against Women Later in Life)” appearing after “[Section 14041a of this title][/us/usc/t42/s14041a]” in subsec. (a)(2)(D), probably should be “(Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life)”. [Section 14041a of this title][/us/usc/t42/s14041a] was omitted in the general amendment of Part G of subchapter III of this chapter by [Pub. L. 113–4, title II, § 204(a)][/us/pl/113/4/s204/a], Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].
+    The parenthetical reference “(Enhanced Training and Services to End Violence Against Women Later in Life)” appearing after “[Section 14041a of this title][/us/usc/t42/s14041a]” in subsec. (a)(2)(D), probably should be “(Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life)”. [Section 14041a of this title][/us/usc/t42/s14041a] was omitted in the general amendment of Part G of subchapter III of this chapter by [Pub. L. 113–4, title II][/us/pl/113/4/tII], § 204(a), Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].
 
     This Act, referred to in subsecs. (b)(3) and (g), is [Pub. L. 109–162][/us/pl/109/162], Jan. 5, 2006, [119 Stat. 2960][/us/stat/119/2960], known as the Violence Against Women and Department of Justice Reauthorization Act of 2005. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under [section 13701 of this title][/us/usc/t42/s13701] and Tables.
 
@@ -113,17 +113,17 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–4, § 109(1)][/us/pl/113/4/s109/1]–(3), struck out “and linguistically” after “culturally” in section catchline and wherever appearing in text and struck out “and linguistic” after “cultural” in subsecs. (b)(2) and (f).
+    2013—[Pub. L. 113–4][/us/pl/113/4], § 109(1)–(3), struck out “and linguistically” after “culturally” in section catchline and wherever appearing in text and struck out “and linguistic” after “cultural” in subsecs. (b)(2) and (f).
 
-    Subsec. (a)(2). [Pub. L. 113–4, § 109(4)][/us/pl/113/4/s109/4], added par. (2) and struck out former par. (2) which related to covered programs.
+    Subsec. (a)(2). [Pub. L. 113–4][/us/pl/113/4], § 109(4), added par. (2) and struck out former par. (2) which related to covered programs.
 
-    Subsec. (g). [Pub. L. 113–4, § 109(5)][/us/pl/113/4/s109/5], struck out “linguistic and” before “culturally”.
+    Subsec. (g). [Pub. L. 113–4][/us/pl/113/4], § 109(5), struck out “linguistic and” before “culturally”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–271, § 2(k)(1)][/us/pl/109/271/s2/k/1], inserted “The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.” at end.
+    2006—Subsec. (a)(1). [Pub. L. 109–271][/us/pl/109/271], § 2(k)(1), inserted “The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.” at end.
 
-    Subsec. (b)(2). [Pub. L. 109–271, § 2(k)(2)][/us/pl/109/271/s2/k/2], which directed substituting “, including—” and subpars. (A) to (H) for the period, was executed by making the substitution for the period at the end to reflect the probable intent of Congress.
+    Subsec. (b)(2). [Pub. L. 109–271][/us/pl/109/271], § 2(k)(2), which directed substituting “, including—” and subpars. (A) to (H) for the period, was executed by making the substitution for the period at the end to reflect the probable intent of Congress.
 
-    Subsec. (h). [Pub. L. 109–271, § 1(c)(3)][/us/pl/109/271/s1/c/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–271][/us/pl/109/271], § 1(c)(3), added subsec. (h).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -146,28 +146,28 @@
 [/us/usc/t42/s14041a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14041a
 [/us/usc/t42/s3796gg–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%937
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
-[/us/pl/109/162/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs121
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2991
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F751
-[/us/pl/113/4/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs109
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F80
 [/us/usc/t42/s3796gg–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%936
 [/us/usc/t42/s3796gg–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%936
 [/us/usc/t42/s3796gg–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%936
 [/us/usc/t42/s14041a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14041a
 [/us/usc/t42/s14041a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14041a
-[/us/pl/113/4/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs204%2Fa
+[/us/pl/113/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtII
 [/us/stat/127/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F82
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/stat/119/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2960
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
-[/us/pl/113/4/s109/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs109%2F1
-[/us/pl/113/4/s109/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs109%2F4
-[/us/pl/113/4/s109/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs109%2F5
-[/us/pl/109/271/s2/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fk%2F1
-[/us/pl/109/271/s2/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fk%2F2
-[/us/pl/109/271/s1/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs1%2Fc%2F3
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

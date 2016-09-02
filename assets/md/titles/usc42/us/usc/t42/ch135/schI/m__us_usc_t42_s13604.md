@@ -27,7 +27,7 @@
 
         An owner of federally assisted housing may not require any individual or family applying for occupancy in the housing to provide the information described in subsection (a) of this section.
 
-([Pub. L. 102–550, title VI, § 644][/us/pl/102/550/s644], Oct. 28, 1992, [106 Stat. 3823][/us/stat/106/3823].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 644, Oct. 28, 1992, [106 Stat. 3823][/us/stat/106/3823].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs644
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3823
 
 

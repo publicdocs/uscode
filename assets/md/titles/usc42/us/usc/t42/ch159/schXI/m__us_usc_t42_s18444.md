@@ -87,7 +87,7 @@
 
         Within one year after October 11, 2010, the Administrator shall report on the progress of implementing this section to the appropriate committees of Congress.
 
-([Pub. L. 111–267, title XII, § 1206][/us/pl/111/267/s1206], Oct. 11, 2010, [124 Stat. 2843][/us/stat/124/2843].)
+([Pub. L. 111–267, title XII][/us/pl/111/267/tXII], § 1206, Oct. 11, 2010, [124 Stat. 2843][/us/stat/124/2843].)
 
 ----------
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs1206
+[/us/pl/111/267/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtXII
 [/us/stat/124/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2843
 
 

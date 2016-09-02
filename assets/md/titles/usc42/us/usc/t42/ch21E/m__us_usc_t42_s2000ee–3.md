@@ -103,7 +103,7 @@
 
             (B) updated not less frequently than annually thereafter, to include any activity to use or develop data mining engaged in after the date of the prior report submitted under subparagraph (A).2
 
-([Pub. L. 110–53, title VIII, § 804][/us/pl/110/53/s804], Aug. 3, 2007, [121 Stat. 362][/us/stat/121/362].)
+([Pub. L. 110–53, title VIII][/us/pl/110/53/tVIII], § 804, Aug. 3, 2007, [121 Stat. 362][/us/stat/121/362].)
 
  __References in Text__ 
 
@@ -118,7 +118,7 @@
 
 [/us/usc/t18/s1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1839
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/110/53/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs804
+[/us/pl/110/53/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVIII
 [/us/stat/121/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F362
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

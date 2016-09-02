@@ -17,7 +17,7 @@
 
     In carrying out their respective authorities under this chapter, the Secretary of Housing and Urban Development and the Secretary of Health and Human Services shall each cooperate with and seek the advice of the heads of any other departments or agencies regarding any programs under their respective responsibilities which are related to, or would be affected by, such authority.
 
-([Pub. L. 91–695, title V, § 502][/us/pl/91/695/s502], Jan. 13, 1971, [84 Stat. 2080][/us/stat/84/2080]; [Pub. L. 94–317, title II, § 204(d)][/us/pl/94/317/s204/d], June 23, 1976, [90 Stat. 706][/us/stat/90/706]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–695, title V][/us/pl/91/695/tV], § 502, Jan. 13, 1971, [84 Stat. 2080][/us/stat/84/2080]; [Pub. L. 94–317, title II][/us/pl/94/317/tII], § 204(d), June 23, 1976, [90 Stat. 706][/us/stat/90/706]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/91/695/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs502
+[/us/pl/91/695/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2FtV
 [/us/stat/84/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2080
-[/us/pl/94/317/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs204%2Fd
+[/us/pl/94/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtII
 [/us/stat/90/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F706
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb

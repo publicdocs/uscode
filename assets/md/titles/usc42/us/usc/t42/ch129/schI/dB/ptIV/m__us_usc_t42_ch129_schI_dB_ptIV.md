@@ -15,7 +15,7 @@
 
 ##### Part IV—Repealed
 
-    Part related to service-learning impact study, prior to repeal by [Pub. L. 113–188, title III, § 301(a)][/us/pl/113/188/s301/a], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].
+    Part related to service-learning impact study, prior to repeal by [Pub. L. 113–188, title III][/us/pl/113/188/tIII], § 301(a), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].
 
 ----------
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/113/188/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs301%2Fa
+[/us/pl/113/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtIII
 [/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 
 

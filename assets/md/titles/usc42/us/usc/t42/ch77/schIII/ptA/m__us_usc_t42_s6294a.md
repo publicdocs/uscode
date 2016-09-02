@@ -61,7 +61,7 @@
 
         (2) not later than January 1, 2008, for clothes washers, effective beginning July 1, 2009.
 
-([Pub. L. 94–163, title III, § 324A][/us/pl/94/163/s324A], as added [Pub. L. 109–58, title I, § 131(a)][/us/pl/109/58/s131/a], Aug. 8, 2005, [119 Stat. 620][/us/stat/119/620]; amended [Pub. L. 110–140, title III, § 311(b)][/us/pl/110/140/s311/b], Dec. 19, 2007, [121 Stat. 1564][/us/stat/121/1564].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 324A, as added [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 131(a), Aug. 8, 2005, [119 Stat. 620][/us/stat/119/620]; amended [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 311(b), Dec. 19, 2007, [121 Stat. 1564][/us/stat/121/1564].)
 
  __Amendments__ 
 
@@ -78,10 +78,10 @@
 ----------
 ----------
 
-[/us/pl/94/163/s324A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs324A
-[/us/pl/109/58/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs131%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F620
-[/us/pl/110/140/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs311%2Fb
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1564
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

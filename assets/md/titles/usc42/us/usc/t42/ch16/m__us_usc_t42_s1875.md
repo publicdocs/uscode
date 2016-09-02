@@ -11,25 +11,25 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1880.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1876...1879.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
 
 ## § 1875. Appropriations
 
     To enable the Foundation to carry out its powers and duties, only such sums may be appropriated as the Congress may authorize by law.
 
-([May 10, 1950, ch. 171, § 16][/us/act/1950-05-10/ch171/s16], [64 Stat. 157][/us/stat/64/157]; [Aug. 8, 1953, ch. 377][/us/act/1953-08-08/ch377], [67 Stat. 488][/us/stat/67/488]; renumbered § 17, [Pub. L. 85–510, § 2][/us/pl/85/510/s2], July 11, 1958, [72 Stat. 353][/us/stat/72/353]; renumbered § 16 and amended [Pub. L. 90–407][/us/pl/90/407], §§ 11(2), (14), July 18, 1968, [82 Stat. 365][/us/stat/82/365], 366; [Pub. L. 96–516, § 21(c)][/us/pl/96/516/s21/c], Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 16, [64 Stat. 157][/us/stat/64/157]; [Aug. 8, 1953, ch. 377][/us/act/1953-08-08/ch377], [67 Stat. 488][/us/stat/67/488]; renumbered § 17, [Pub. L. 85–510][/us/pl/85/510], § 2, July 11, 1958, [72 Stat. 353][/us/stat/72/353]; renumbered § 16 and amended [Pub. L. 90–407][/us/pl/90/407], §§ 11(2), (14), July 18, 1968, [82 Stat. 365][/us/stat/82/365], 366; [Pub. L. 96–516][/us/pl/96/516], § 21(c), Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010].)
 
  __Amendments__ 
 
     1980—[Pub. L. 96–516][/us/pl/96/516] amended subsec. (a) generally, striking out specific dollar amounts for fiscal years ending June 30, 1969, and June 30, 1970, reference to subsequent fiscal years, and provisions relating to sums as additional to sums under [section 1122(b)(1) of title 33][/us/usc/t33/s1122/b/1], and struck out subsec. (b) which related to availability of sums for obligation and expenditure.
 
-    1968—Subsec. (a). [Pub. L. 90–407, § 14][/us/pl/90/407/s14], substituted provisions authorizing the appropriation of funds for the fiscal year ending June 30, 1969, June 30, 1970, and each subsequent fiscal year, such sums to be in addition to sums authorized by [section 1122(b)(1) of title 33][/us/usc/t33/s1122/b/1], for provisions authorizing the appropriation of such sums as may be necessary to carry out the provisions of this chapter out of any money in the Treasury not otherwise appropriated.
+    1968—Subsec. (a). [Pub. L. 90–407][/us/pl/90/407], § 14, substituted provisions authorizing the appropriation of funds for the fiscal year ending June 30, 1969, June 30, 1970, and each subsequent fiscal year, such sums to be in addition to sums authorized by [section 1122(b)(1) of title 33][/us/usc/t33/s1122/b/1], for provisions authorizing the appropriation of such sums as may be necessary to carry out the provisions of this chapter out of any money in the Treasury not otherwise appropriated.
 
     1953—Subsec. (a). Act Aug. 8, 1953, removed the $15 million limitation on the amount of the annual appropriations.
 
  __Drug-Free Workplace__ 
 
-[Pub. L. 100–570, title I, § 118][/us/pl/100/570/s118], Oct. 31, 1988, [102 Stat. 2873][/us/stat/102/2873], provided that:
+[Pub. L. 100–570, title I][/us/pl/100/570/tI], § 118, Oct. 31, 1988, [102 Stat. 2873][/us/stat/102/2873], provided that:
 
 >     “(a) No funds authorized to be appropriated under this Act, or under any other Act authorizing appropriations for fiscal year 1989 through 1993 for the Foundation, shall be obligated or expended unless the Foundation has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\]) by the officers and employees of the Foundation.
 
@@ -41,38 +41,28 @@
 
     Amendment by [Pub. L. 90–407][/us/pl/90/407] intended to continue in effect the existing offices, procedures, and organization of the Foundation, see [section 16 of Pub. L. 90–407][/us/pl/90/407/s16], set out as a note under [section 1862 of this title][/us/usc/t42/s1862].
 
-§§ 1876 to 1879. __Repealed.__  __[__  __Pub. L. 99–383, § 11__  __][/us/pl/99/383/s11]__  __,__  __Aug. 21, 1986__  __,__  __[__  __100 Stat. 817__  __][/us/stat/100/817]__ 
-
-    Section 1876, [Pub. L. 85–864, title IX, § 901][/us/pl/85/864/s901], Sept. 2, 1958, [72 Stat. 1601][/us/stat/72/1601], authorized establishment of a Science Information Service by National Science Foundation.
-
-    Section 1877, [Pub. L. 85–864, title IX, § 902][/us/pl/85/864/s902], Sept. 2, 1958, [72 Stat. 1601][/us/stat/72/1601]; [Pub. L. 90–407, § 15(b)][/us/pl/90/407/s15/b], July 18, 1968, [82 Stat. 367][/us/stat/82/367], authorized establishment of a Science Information Council within National Science Foundation.
-
-    Section 1878, [Pub. L. 85–864, title IX, § 903][/us/pl/85/864/s903], Sept. 2, 1958, [72 Stat. 1601][/us/stat/72/1601], provided National Science Foundation with same power and authority in carrying out its functions under sections 1876 to 1879 of this title as it had in carrying out its functions under this chapter.
-
-    Section 1879, [Pub. L. 85–864, title IX, § 904][/us/pl/85/864/s904], Sept. 2, 1958, [72 Stat. 1602][/us/stat/72/1602], authorized appropriations to carry out programs of the Science Information Service and the Science Information Council.
-
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1880.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1876...1879.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
 
 ----------
 ----------
 
-[/us/act/1950-05-10/ch171/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs16
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F157
 [/us/act/1953-08-08/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch377
 [/us/stat/67/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F488
-[/us/pl/85/510/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F510%2Fs2
+[/us/pl/85/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F510
 [/us/stat/72/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F353
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F365
-[/us/pl/96/516/s21/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs21%2Fc
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
 [/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/usc/t33/s1122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1122%2Fb%2F1
-[/us/pl/90/407/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs14
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/usc/t33/s1122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1122%2Fb%2F1
-[/us/pl/100/570/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs118
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2873
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/100/570/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs118
@@ -81,17 +71,5 @@
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/90/407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs16
 [/us/usc/t42/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862
-[/us/pl/99/383/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383%2Fs11
-[/us/stat/100/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F817
-[/us/pl/85/864/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs901
-[/us/stat/72/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1601
-[/us/pl/85/864/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs902
-[/us/stat/72/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1601
-[/us/pl/90/407/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs15%2Fb
-[/us/stat/82/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F367
-[/us/pl/85/864/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs903
-[/us/stat/72/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1601
-[/us/pl/85/864/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs904
-[/us/stat/72/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1602
 
 

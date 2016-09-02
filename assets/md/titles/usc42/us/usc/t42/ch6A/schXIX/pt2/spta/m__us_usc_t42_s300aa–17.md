@@ -23,7 +23,7 @@
 
         Amounts recovered under subsection (a) of this section shall be collected on behalf of, and deposited in, the Vaccine Injury Compensation Trust Fund established under [section 9510 of title 26][/us/usc/t26/s9510].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2117, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3770][/us/stat/100/3770]; amended [Pub. L. 100–203, title IV, § 4307(7)][/us/pl/100/203/s4307/7], Dec. 22, 1987, [101 Stat. 1330–225][/us/stat/101/1330-225]; [Pub. L. 101–239, title VI, § 6601(m)(2)][/us/pl/101/239/s6601/m/2], Dec. 19, 1989, [103 Stat. 2291][/us/stat/103/2291].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2117, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3770][/us/stat/100/3770]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4307(7), Dec. 22, 1987, [101 Stat. 1330–225][/us/stat/101/1330-225]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6601(m)(2), Dec. 19, 1989, [103 Stat. 2291][/us/stat/103/2291].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 
 [/us/usc/t26/s9510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9510
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3770
-[/us/pl/100/203/s4307/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4307%2F7
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-225
-[/us/pl/101/239/s6601/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fm%2F2
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2291
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s9510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9510

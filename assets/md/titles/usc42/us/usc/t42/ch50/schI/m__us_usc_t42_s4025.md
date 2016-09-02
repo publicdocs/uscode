@@ -37,7 +37,7 @@
 
         Members of the committee shall, while attending conferences or meetings thereof, be entitled to receive compensation at a rate fixed by the Administrator but not exceeding $100 per day, including traveltime, and while so serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under [section 5703 of title 5][/us/usc/t5/s5703] for persons in the Government service employed intermittently.
 
-([Pub. L. 90–448, title XIII, § 1318][/us/pl/90/448/s1318], Aug. 1, 1968, [82 Stat. 581][/us/stat/82/581]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1318, Aug. 1, 1968, [82 Stat. 581][/us/stat/82/581]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(b)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __References in Text__ 
 
@@ -67,11 +67,11 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/90/448/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1318
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F581
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

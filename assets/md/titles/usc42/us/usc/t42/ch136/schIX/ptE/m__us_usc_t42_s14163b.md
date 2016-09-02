@@ -51,7 +51,7 @@
 
                 (ii) allocated in accordance with [section 14163e(b) of this title][/us/usc/t42/s14163e/b].
 
-([Pub. L. 108–405, title IV, § 423][/us/pl/108/405/s423], Oct. 30, 2004, [118 Stat. 2288][/us/stat/118/2288].)
+([Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 423, Oct. 30, 2004, [118 Stat. 2288][/us/stat/118/2288].)
 
  __Codification__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t42/s14163/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163%2Fe%2F1%2FC
 [/us/usc/t42/s14163e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163e%2Fb
-[/us/pl/108/405/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs423
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2288
 
 

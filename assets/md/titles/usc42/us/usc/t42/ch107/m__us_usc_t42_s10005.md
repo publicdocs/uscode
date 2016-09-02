@@ -21,7 +21,7 @@
 
     (2) any educational requirements for certification of individuals to perform radiologic procedures shall be limited to educational programs accredited by the State.
 
-([Pub. L. 97–35, title IX, § 980][/us/pl/97/35/s980], Aug. 13, 1981, [95 Stat. 600][/us/stat/95/600].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 980, Aug. 13, 1981, [95 Stat. 600][/us/stat/95/600].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs980
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F600
 
 

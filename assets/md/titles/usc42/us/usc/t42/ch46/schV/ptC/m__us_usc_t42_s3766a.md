@@ -19,7 +19,7 @@
 
     (b) The functions, powers, and duties specified in this subchapter to be carried out by the Bureau shall not be transferred elsewhere in the Department of Justice unless specifically hereafter authorized by the Congress by law.
 
-([Pub. L. 90–351, title I, § 521][/us/pl/90/351/s521], as added [Pub. L. 100–690, title VI, § 6091(a)][/us/pl/100/690/s6091/a], Nov. 18, 1988, [102 Stat. 4337][/us/stat/102/4337].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 521, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4337][/us/stat/102/4337].)
 
  __Prior Provisions__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs521
-[/us/pl/100/690/s6091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6091%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4337
 [/us/pl/90/351/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs521
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

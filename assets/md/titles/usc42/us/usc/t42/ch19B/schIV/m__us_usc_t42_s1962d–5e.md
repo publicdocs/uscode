@@ -33,7 +33,7 @@
 
         In the computation of benefits and cost of any water resources development project the benefits of establishing of any wetland area shall be deemed to be at least equal to the cost of establishing such area. All costs of establishing a wetland area shall be borne by the United States.
 
-([Pub. L. 94–587, § 150][/us/pl/94/587/s150], Oct. 22, 1976, [90 Stat. 2931][/us/stat/90/2931].)
+([Pub. L. 94–587][/us/pl/94/587], § 150, Oct. 22, 1976, [90 Stat. 2931][/us/stat/90/2931].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/94/587/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs150
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2931
 
 

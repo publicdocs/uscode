@@ -103,7 +103,7 @@
 
         (4) The determination of whether an individual is a husband or wife for any month shall be made under subsection (h) of [section 416 of this title][/us/usc/t42/s416] without regard to subsections (b) and (f) of [section 416 of this title][/us/usc/t42/s416].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 228, as added [Pub. L. 89–368, title III, § 302(a)][/us/pl/89/368/s302/a], Mar. 15, 1966, [80 Stat. 67][/us/stat/80/67]; amended [Pub. L. 90–248, title I, § 102(b)][/us/pl/90/248/s102/b], title II, § 241(a) Jan. 2, 1968, [81 Stat. 827][/us/stat/81/827], 916; [Pub. L. 91–172, title X, § 1003(b)][/us/pl/91/172/s1003/b], Dec. 30, 1969, [83 Stat. 740][/us/stat/83/740]; [Pub. L. 92–5, title II, § 202(b)][/us/pl/92/5/s202/b], Mar. 17, 1971, [85 Stat. 10][/us/stat/85/10]; [Pub. L. 92–336, title II, § 201(g)(2)][/us/pl/92/336/s201/g/2], July 1, 1972, [86 Stat. 411][/us/stat/86/411]; [Pub. L. 93–233][/us/pl/93/233], §§ 2(b)(1), 18(c), Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], 968; [Pub. L. 98–21, title III, § 305(a)][/us/pl/98/21/s305/a]–(d), Apr. 20, 1983, [97 Stat. 113][/us/stat/97/113]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2662(e), 2663(j)(3)(A)(iv), July 18, 1984, [98 Stat. 1159][/us/stat/98/1159], 1170; [Pub. L. 101–508, title V, § 5114(a)][/us/pl/101/508/s5114/a], Nov. 5, 1990, [104 Stat. 1388–273][/us/stat/104/1388-273]; [Pub. L. 102–54, § 13(q)(3)(B)(i)][/us/pl/102/54/s13/q/3/B/i], June 13, 1991, [105 Stat. 279][/us/stat/105/279]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 104–193, title I, § 108(a)(2)][/us/pl/104/193/s108/a/2], Aug. 22, 1996, [110 Stat. 2165][/us/stat/110/2165].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 228, as added [Pub. L. 89–368, title III][/us/pl/89/368/tIII], § 302(a), Mar. 15, 1966, [80 Stat. 67][/us/stat/80/67]; amended [Pub. L. 90–248, title I][/us/pl/90/248/tI], § 102(b), title II, § 241(a) Jan. 2, 1968, [81 Stat. 827][/us/stat/81/827], 916; [Pub. L. 91–172, title X][/us/pl/91/172/tX], § 1003(b), Dec. 30, 1969, [83 Stat. 740][/us/stat/83/740]; [Pub. L. 92–5, title II][/us/pl/92/5/tII], § 202(b), Mar. 17, 1971, [85 Stat. 10][/us/stat/85/10]; [Pub. L. 92–336, title II][/us/pl/92/336/tII], § 201(g)(2), July 1, 1972, [86 Stat. 411][/us/stat/86/411]; [Pub. L. 93–233][/us/pl/93/233], §§ 2(b)(1), 18(c), Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], 968; [Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 305(a)–(d), Apr. 20, 1983, [97 Stat. 113][/us/stat/97/113]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], §§ 2662(e), 2663(j)(3)(A)(iv), July 18, 1984, [98 Stat. 1159][/us/stat/98/1159], 1170; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5114(a), Nov. 5, 1990, [104 Stat. 1388–273][/us/stat/104/1388-273]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(3)(B)(i), June 13, 1991, [105 Stat. 279][/us/stat/105/279]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(a)(2), Aug. 22, 1996, [110 Stat. 2165][/us/stat/110/2165].)
 
  __References in Text__ 
 
@@ -121,69 +121,69 @@
 
     1990—Subsec. (a)(2). [Pub. L. 101–508][/us/pl/101/508] substituted “(B)(i) attained such age after 1967 and before 1972, and (ii)” for “(B)”.
 
-    1984—Subsec. (c)(4)(C). [Pub. L. 98–369, § 2662(e)][/us/pl/98/369/s2662/e], amended directory language of [Pub. L. 98–21, § 305(d)(2)][/us/pl/98/21/s305/d/2]. See 1983 Amendment note below.
+    1984—Subsec. (c)(4)(C). [Pub. L. 98–369][/us/pl/98/369], § 2662(e), amended directory language of [Pub. L. 98–21][/us/pl/98/21], § 305(d)(2). See 1983 Amendment note below.
 
-    Subsec. (g). [Pub. L. 98–369, § 2663(j)(3)(A)(iv)][/us/pl/98/369/s2663/j/3/A/iv], struck out “of Health, Education, and Welfare” after “Secretary”.
+    Subsec. (g). [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(3)(A)(iv), struck out “of Health, Education, and Welfare” after “Secretary”.
 
-    1983—Subsec. (a). [Pub. L. 98–21, § 305(d)(1)][/us/pl/98/21/s305/d/1], substituted “he or she” for “he” wherever appearing.
+    1983—Subsec. (a). [Pub. L. 98–21][/us/pl/98/21], § 305(d)(1), substituted “he or she” for “he” wherever appearing.
 
-    Subsec. (b). [Pub. L. 98–21, § 305(a)][/us/pl/98/21/s305/a], substituted “The” for “(1) Except as provided in paragraph (2), the” and struck out par. (2), which had provided that if both husband and wife were entitled or would have been entitled upon application to benefits under this section for any month, the amount of the husband’s benefit for such month would be the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i], and the amount of the wife’s benefit for such month the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i].
+    Subsec. (b). [Pub. L. 98–21][/us/pl/98/21], § 305(a), substituted “The” for “(1) Except as provided in paragraph (2), the” and struck out par. (2), which had provided that if both husband and wife were entitled or would have been entitled upon application to benefits under this section for any month, the amount of the husband’s benefit for such month would be the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i], and the amount of the wife’s benefit for such month the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i].
 
-    Subsec. (c)(1). [Pub. L. 98–21, § 305(d)(1)][/us/pl/98/21/s305/d/1], substituted “he or she” for “he”.
+    Subsec. (c)(1). [Pub. L. 98–21][/us/pl/98/21], § 305(d)(1), substituted “he or she” for “he”.
 
-    Subsec. (c)(2). [Pub. L. 98–21, § 305(b)][/us/pl/98/21/s305/b], substituted “(B) the benefit amount as determined without regard to this subsection” for “(B) the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]”.
+    Subsec. (c)(2). [Pub. L. 98–21][/us/pl/98/21], § 305(b), substituted “(B) the benefit amount as determined without regard to this subsection” for “(B) the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]”.
 
-    Subsec. (c)(3). [Pub. L. 98–21, § 305(c)][/us/pl/98/21/s305/c], amended par. (3) generally, substituting provisions relating to either a husband or wife for provision that the benefit amount of the wife, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the husband was eligible for such month, over (ii) the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i], and that the benefit amount of the husband, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the wife was eligible for such month, over (ii) the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i].
+    Subsec. (c)(3). [Pub. L. 98–21][/us/pl/98/21], § 305(c), amended par. (3) generally, substituting provisions relating to either a husband or wife for provision that the benefit amount of the wife, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the husband was eligible for such month, over (ii) the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i], and that the benefit amount of the husband, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the wife was eligible for such month, over (ii) the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i].
 
-    Subsec. (c)(4)(C). [Pub. L. 98–21, § 305(d)(2)][/us/pl/98/21/s305/d/2], as amended by [Pub. L. 98–369, § 2662(e)][/us/pl/98/369/s2662/e], substituted “his or her” for “his” wherever appearing.
+    Subsec. (c)(4)(C). [Pub. L. 98–21][/us/pl/98/21], § 305(d)(2), as amended by [Pub. L. 98–369][/us/pl/98/369], § 2662(e), substituted “his or her” for “his” wherever appearing.
 
-    1973—Subsec. (b). [Pub. L. 93–233, § 2(b)(1)][/us/pl/93/233/s2/b/1], substituted “the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$58.00” in pars. (1) and (2) and “the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$29.00” in par. (2).
+    1973—Subsec. (b). [Pub. L. 93–233][/us/pl/93/233], § 2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$58.00” in pars. (1) and (2) and “the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$29.00” in par. (2).
 
-    Subsec. (c). [Pub. L. 93–233, § 2(b)(1)][/us/pl/93/233/s2/b/1], substituted “the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$58.00” in par. (3), subpar. (A) and “the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$29.00” in par. (2) and par. (3) subpar. (B).
+    Subsec. (c). [Pub. L. 93–233][/us/pl/93/233], § 2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$58.00” in par. (3), subpar. (A) and “the larger of $32.20 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$29.00” in par. (2) and par. (3) subpar. (B).
 
-    Subsec. (d). [Pub. L. 93–233, § 18(c)][/us/pl/93/233/s18/c] provided for elimination of benefits at age 72 for uninsured individuals receiving supplemental security income benefits.
+    Subsec. (d). [Pub. L. 93–233][/us/pl/93/233], § 18(c) provided for elimination of benefits at age 72 for uninsured individuals receiving supplemental security income benefits.
 
-    1972—Subsec. (b)(1). [Pub. L. 92–336, § 201(g)(2)(A)][/us/pl/92/336/s201/g/2/A], substituted “$58.00” for “$48.30”.
+    1972—Subsec. (b)(1). [Pub. L. 92–336][/us/pl/92/336], § 201(g)(2)(A), substituted “$58.00” for “$48.30”.
 
-    Subsec. (b)(2). [Pub. L. 92–336, § 201(g)(2)(B)][/us/pl/92/336/s201/g/2/B], substituted “$58.00” for “$48.30” and “$29.00” for “$24.20”.
+    Subsec. (b)(2). [Pub. L. 92–336][/us/pl/92/336], § 201(g)(2)(B), substituted “$58.00” for “$48.30” and “$29.00” for “$24.20”.
 
-    Subsec. (c)(2). [Pub. L. 92–336, § 201(g)(2)(C)][/us/pl/92/336/s201/g/2/C], substituted “$29.00” for “$24.20”.
+    Subsec. (c)(2). [Pub. L. 92–336][/us/pl/92/336], § 201(g)(2)(C), substituted “$29.00” for “$24.20”.
 
-    Subsec. (c)(3)(A). [Pub. L. 92–336, § 201(g)(2)(D)][/us/pl/92/336/s201/g/2/D], substituted “$58.00” for “$48.30”.
+    Subsec. (c)(3)(A). [Pub. L. 92–336][/us/pl/92/336], § 201(g)(2)(D), substituted “$58.00” for “$48.30”.
 
-    Subsec. (c)(3)(B). [Pub. L. 92–336, § 201(g)(2)(E)][/us/pl/92/336/s201/g/2/E], substituted “$29.00” for “$24.20”.
+    Subsec. (c)(3)(B). [Pub. L. 92–336][/us/pl/92/336], § 201(g)(2)(E), substituted “$29.00” for “$24.20”.
 
-    1971—Subsec. (b)(1). [Pub. L. 92–5, § 202(b)(1)][/us/pl/92/5/s202/b/1], substituted “$48.30” for “$46”.
+    1971—Subsec. (b)(1). [Pub. L. 92–5][/us/pl/92/5], § 202(b)(1), substituted “$48.30” for “$46”.
 
-    Subsec. (b)(2). [Pub. L. 92–5, § 202(b)(2)][/us/pl/92/5/s202/b/2], substituted “$48.30” for “$46” and “$24.20” for “$23”.
+    Subsec. (b)(2). [Pub. L. 92–5][/us/pl/92/5], § 202(b)(2), substituted “$48.30” for “$46” and “$24.20” for “$23”.
 
-    Subsec. (c)(2). [Pub. L. 92–5, § 202(b)(3)][/us/pl/92/5/s202/b/3], substituted “$24.20” for “$23”.
+    Subsec. (c)(2). [Pub. L. 92–5][/us/pl/92/5], § 202(b)(3), substituted “$24.20” for “$23”.
 
-    Subsec. (c)(3)(A). [Pub. L. 92–5, § 202(b)(4)][/us/pl/92/5/s202/b/4], substituted “$48.30” for “$46”.
+    Subsec. (c)(3)(A). [Pub. L. 92–5][/us/pl/92/5], § 202(b)(4), substituted “$48.30” for “$46”.
 
-    Subsec. (c)(3)(B). [Pub. L. 92–5, § 202(b)(5)][/us/pl/92/5/s202/b/5], substituted “$24.20” for “$23”.
+    Subsec. (c)(3)(B). [Pub. L. 92–5][/us/pl/92/5], § 202(b)(5), substituted “$24.20” for “$23”.
 
-    1969—Subsec. (b)(1). [Pub. L. 91–172, § 1003(b)(1)][/us/pl/91/172/s1003/b/1], substituted “$46” for “$40”.
+    1969—Subsec. (b)(1). [Pub. L. 91–172][/us/pl/91/172], § 1003(b)(1), substituted “$46” for “$40”.
 
-    Subsec. (b)(2). [Pub. L. 91–172, § 1003(b)(2)][/us/pl/91/172/s1003/b/2], substituted “$46” for “$40” and “$23” for “$20”.
+    Subsec. (b)(2). [Pub. L. 91–172][/us/pl/91/172], § 1003(b)(2), substituted “$46” for “$40” and “$23” for “$20”.
 
-    Subsec. (c)(2). [Pub. L. 91–172, § 1003(b)(3)][/us/pl/91/172/s1003/b/3], substituted “$23” for “$20”.
+    Subsec. (c)(2). [Pub. L. 91–172][/us/pl/91/172], § 1003(b)(3), substituted “$23” for “$20”.
 
-    Subsec. (c)(3)(A). [Pub. L. 91–172, § 1003(b)(4)][/us/pl/91/172/s1003/b/4], substituted “$46” for “$40”.
+    Subsec. (c)(3)(A). [Pub. L. 91–172][/us/pl/91/172], § 1003(b)(4), substituted “$46” for “$40”.
 
-    Subsec. (c)(3)(B). [Pub. L. 91–172, § 1003(b)(5)][/us/pl/91/172/s1003/b/5], substituted “$23” for “$20”.
+    Subsec. (c)(3)(B). [Pub. L. 91–172][/us/pl/91/172], § 1003(b)(5), substituted “$23” for “$20”.
 
-    1968—Subsec. (b)(1). [Pub. L. 90–248, § 102(b)(1)][/us/pl/90/248/s102/b/1], substituted “$40” for “$35”.
+    1968—Subsec. (b)(1). [Pub. L. 90–248][/us/pl/90/248], § 102(b)(1), substituted “$40” for “$35”.
 
-    Subsec. (b)(2). [Pub. L. 90–248, § 102(b)(2)][/us/pl/90/248/s102/b/2], substituted “$40” for “$35” and “$20” for $17.50”.
+    Subsec. (b)(2). [Pub. L. 90–248][/us/pl/90/248], § 102(b)(2), substituted “$40” for “$35” and “$20” for $17.50”.
 
-    Subsec. (c)(2). [Pub. L. 90–248, § 102(b)(3)][/us/pl/90/248/s102/b/3], substituted “$20” for “$17.50”.
+    Subsec. (c)(2). [Pub. L. 90–248][/us/pl/90/248], § 102(b)(3), substituted “$20” for “$17.50”.
 
-    Subsec. (c)(3)(A). [Pub. L. 90–248, § 102(b)(4)][/us/pl/90/248/s102/b/4], substituted “$40” for “$35”.
+    Subsec. (c)(3)(A). [Pub. L. 90–248][/us/pl/90/248], § 102(b)(4), substituted “$40” for “$35”.
 
-    Subsec. (c)(3)(B). [Pub. L. 90–248, § 102(b)(5)][/us/pl/90/248/s102/b/5], substituted “$20” for “$17.50”.
+    Subsec. (c)(3)(B). [Pub. L. 90–248][/us/pl/90/248], § 102(b)(5), substituted “$20” for “$17.50”.
 
-    Subsec. (d)(1). [Pub. L. 90–248, § 241(a)][/us/pl/90/248/s241/a], struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XVI of this chapter,”.
+    Subsec. (d)(1). [Pub. L. 90–248][/us/pl/90/248], § 241(a), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XVI of this chapter,”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -195,7 +195,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title V, § 5114(b)][/us/pl/101/508/s5114/b], Nov. 5, 1990, [104 Stat. 1388–274][/us/stat/104/1388-274], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5114(b), Nov. 5, 1990, [104 Stat. 1388–274][/us/stat/104/1388-274], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect \[to\] benefits payable on the basis of applications filed after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -211,7 +211,7 @@
 
  __Effective Date of 1973 Amendment__ 
 
-    [Pub. L. 93–233, § 2(b)(1)][/us/pl/93/233/s2/b/1], Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], provided that the amendment made by that section is effective June 1, 1974.
+    [Pub. L. 93–233][/us/pl/93/233], § 2(b)(1), Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], provided that the amendment made by that section is effective June 1, 1974.
 
     Amendment by [section 2(b)(1) of Pub. L. 93–233][/us/pl/93/233/s2/b/1] applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under [section 402(i) of this title][/us/usc/t42/s402/i], see [section 2(c) of Pub. L. 93–233][/us/pl/93/233/s2/c], set out as a note under [section 415 of this title][/us/usc/t42/s415].
 
@@ -233,7 +233,7 @@
 
  __Repeal of Amendment of Subsecs. (b)(1), (2) and (c)(3)(A), (B) Prior to Effective Date__ 
 
-    [Pub. L. 92–336, title II, § 202(a)(4)][/us/pl/92/336/s202/a/4], July 1, 1972, [86 Stat. 416][/us/stat/86/416], which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$58.00” and “the larger of $29.00 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$29.00”, was repealed prior to its effective date by [Pub. L. 93–233, § 2(b)(2)][/us/pl/93/233/s2/b/2], Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under [section 402(i) of this title][/us/usc/t42/s402/i]. See [section 2(c) of Pub. L. 93–233][/us/pl/93/233/s2/c], set out as an Effective Date of 1973 Amendment note under [section 415 of this title][/us/usc/t42/s415].
+    [Pub. L. 92–336, title II][/us/pl/92/336/tII], § 202(a)(4), July 1, 1972, [86 Stat. 416][/us/stat/86/416], which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$58.00” and “the larger of $29.00 or the amount most recently established in lieu thereof under [section 415(i) of this title][/us/usc/t42/s415/i]” for “$29.00”, was repealed prior to its effective date by [Pub. L. 93–233][/us/pl/93/233], § 2(b)(2), Dec. 31, 1973, [87 Stat. 952][/us/stat/87/952], applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under [section 402(i) of this title][/us/usc/t42/s402/i]. See [section 2(c) of Pub. L. 93–233][/us/pl/93/233/s2/c], set out as an Effective Date of 1973 Amendment note under [section 415 of this title][/us/usc/t42/s415].
 
  __Application to Northern Mariana Islands__ 
 
@@ -241,7 +241,7 @@
 
  __Increases To Take Into Account General Benefit Increases__ 
 
-[Pub. L. 98–21, title III, § 305(e)][/us/pl/98/21/s305/e], Apr. 20, 1983, [97 Stat. 113][/us/stat/97/113], provided that: 
+[Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 305(e), Apr. 20, 1983, [97 Stat. 113][/us/stat/97/113], provided that: 
 
 > “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[[42 U.S.C. 415(i)(3)][/us/usc/t42/s415/i/3]\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
 
@@ -251,7 +251,7 @@
 
  __Applications for Transitional Coverage of Uninsured Individuals for Hospital Insurance Benefits__ 
 
-[Pub. L. 89–368, title III, § 302(b)][/us/pl/89/368/s302/b], Mar. 15, 1966, [80 Stat. 70][/us/stat/80/70], provided that: 
+[Pub. L. 89–368, title III][/us/pl/89/368/tIII], § 302(b), Mar. 15, 1966, [80 Stat. 70][/us/stat/80/70], provided that: 
 
 > “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[[42 U.S.C. 428(a)(4)][/us/usc/t42/s428/a/4]\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under [section 426 of this title][/us/usc/t42/s426]\] before July 1966 shall be regarded as an application under such section 228 \[[42 U.S.C. 428][/us/usc/t42/s428]\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
 
@@ -272,29 +272,29 @@
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/368/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2Fs302%2Fa
+[/us/pl/89/368/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2FtIII
 [/us/stat/80/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F67
-[/us/pl/90/248/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fb
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F827
-[/us/pl/91/172/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1003%2Fb
+[/us/pl/91/172/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtX
 [/us/stat/83/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F740
-[/us/pl/92/5/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs202%2Fb
+[/us/pl/92/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2FtII
 [/us/stat/85/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F10
-[/us/pl/92/336/s201/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fg%2F2
+[/us/pl/92/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2FtII
 [/us/stat/86/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F411
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F952
-[/us/pl/98/21/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fa
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F113
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1159
-[/us/pl/101/508/s5114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5114%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-273
-[/us/pl/102/54/s13/q/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F3%2FB%2Fi
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F279
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/104/193/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fa%2F2
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2165
 [/us/pl/93/66/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs211
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
@@ -306,56 +306,56 @@
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/98/369/s2662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fe
-[/us/pl/98/21/s305/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fd%2F2
-[/us/pl/98/369/s2663/j/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F3%2FA%2Fiv
-[/us/pl/98/21/s305/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fd%2F1
-[/us/pl/98/21/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/98/21/s305/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fd%2F1
-[/us/pl/98/21/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fb
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/98/21/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fc
-[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/98/21/s305/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fd%2F2
-[/us/pl/98/369/s2662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fe
-[/us/pl/93/233/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs2%2Fb%2F1
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/93/233/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs2%2Fb%2F1
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/93/233/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs18%2Fc
-[/us/pl/92/336/s201/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fg%2F2%2FA
-[/us/pl/92/336/s201/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fg%2F2%2FB
-[/us/pl/92/336/s201/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fg%2F2%2FC
-[/us/pl/92/336/s201/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fg%2F2%2FD
-[/us/pl/92/336/s201/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs201%2Fg%2F2%2FE
-[/us/pl/92/5/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs202%2Fb%2F1
-[/us/pl/92/5/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs202%2Fb%2F2
-[/us/pl/92/5/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs202%2Fb%2F3
-[/us/pl/92/5/s202/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs202%2Fb%2F4
-[/us/pl/92/5/s202/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs202%2Fb%2F5
-[/us/pl/91/172/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1003%2Fb%2F1
-[/us/pl/91/172/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1003%2Fb%2F2
-[/us/pl/91/172/s1003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1003%2Fb%2F3
-[/us/pl/91/172/s1003/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1003%2Fb%2F4
-[/us/pl/91/172/s1003/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs1003%2Fb%2F5
-[/us/pl/90/248/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fb%2F1
-[/us/pl/90/248/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fb%2F2
-[/us/pl/90/248/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fb%2F3
-[/us/pl/90/248/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fb%2F4
-[/us/pl/90/248/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fb%2F5
-[/us/pl/90/248/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs241%2Fa
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
+[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
+[/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336
+[/us/pl/92/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5
+[/us/pl/92/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5
+[/us/pl/92/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5
+[/us/pl/92/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5
+[/us/pl/92/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/101/508/s5114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5114%2Fb
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-274
 [/us/pl/98/369/s2662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fe
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
@@ -367,7 +367,7 @@
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/98/21/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs310
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/93/233/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs2%2Fb%2F1
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F952
 [/us/pl/93/233/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs2%2Fb%2F1
 [/us/usc/t42/s402/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fi
@@ -385,22 +385,22 @@
 [/us/pl/90/248/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fb
 [/us/pl/90/248/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs102%2Fc
 [/us/usc/t42/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs427
-[/us/pl/92/336/s202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2Fs202%2Fa%2F4
+[/us/pl/92/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F336%2FtII
 [/us/stat/86/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F416
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/93/233/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs2%2Fb%2F2
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F952
 [/us/usc/t42/s402/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fi
 [/us/pl/93/233/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs2%2Fc
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
-[/us/pl/98/21/s305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs305%2Fe
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F113
 [/us/usc/t42/s415/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F3
 [/us/pl/94/12/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs702
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/89/368/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2Fs302%2Fb
+[/us/pl/89/368/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2FtIII
 [/us/stat/80/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F70
 [/us/usc/t42/s428/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428%2Fa%2F4
 [/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426

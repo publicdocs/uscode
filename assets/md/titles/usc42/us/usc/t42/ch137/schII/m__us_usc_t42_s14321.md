@@ -21,7 +21,7 @@
 
     (2) encouraging voluntary industry programs by eliminating barriers to funding the collection and recycling or proper disposal of used rechargeable batteries.
 
-([Pub. L. 104–142, title I, § 102][/us/pl/104/142/s102], May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
+([Pub. L. 104–142, title I][/us/pl/104/142/tI], § 102, May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs102
+[/us/pl/104/142/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2FtI
 [/us/stat/110/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1332
 
 

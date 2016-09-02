@@ -167,7 +167,7 @@
 
             Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317D, as added [Pub. L. 102–531, title III, § 308][/us/pl/102/531/s308], Oct. 27, 1992, [106 Stat. 3495][/us/stat/106/3495]; amended [Pub. L. 103–43, title XX, § 2010(i)(1)(B)(iv)][/us/pl/103/43/s2010/i/1/B/iv], June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 103–183, title VII, § 705(b)][/us/pl/103/183/s705/b], Dec. 14, 1993, [107 Stat. 2241][/us/stat/107/2241]; [Pub. L. 105–392, title IV, § 401(a)(3)][/us/pl/105/392/s401/a/3], Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; [Pub. L. 106–505, title VI, § 602(a)][/us/pl/106/505/s602/a], Nov. 13, 2000, [114 Stat. 2345][/us/stat/114/2345].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317D, as added [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 308, Oct. 27, 1992, [106 Stat. 3495][/us/stat/106/3495]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2010(i)(1)(B)(iv), June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 103–183, title VII][/us/pl/103/183/tVII], § 705(b), Dec. 14, 1993, [107 Stat. 2241][/us/stat/107/2241]; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 401(a)(3), Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; [Pub. L. 106–505, title VI][/us/pl/106/505/tVI], § 602(a), Nov. 13, 2000, [114 Stat. 2345][/us/stat/114/2345].)
 
  __References in Text__ 
 
@@ -175,7 +175,7 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–505, § 602(a)(1)][/us/pl/106/505/s602/a/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
+    2000—Subsec. (a). [Pub. L. 106–505][/us/pl/106/505], § 602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
 
     “(1) to screen men for prostate cancer as a preventive health measure;
 
@@ -189,11 +189,11 @@
 
     “(6) to evaluate activities conducted under paragraphs (1) through (5) through appropriate surveillance or program monitoring activities.”
 
-    Subsec. (l)(1). [Pub. L. 106–505, § 602(a)(2)][/us/pl/106/505/s602/a/2], substituted “2004” for “1998”.
+    Subsec. (l)(1). [Pub. L. 106–505][/us/pl/106/505], § 602(a)(2), substituted “2004” for “1998”.
 
     1998—Subsec. (l)(1). [Pub. L. 105–392][/us/pl/105/392] made technical amendment to directory language of [Pub. L. 103–183][/us/pl/103/183]. See 1993 Amendment note below.
 
-    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531, § 308][/us/pl/102/531/s308], which enacted this section.
+    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531][/us/pl/102/531], § 308, which enacted this section.
 
     Subsec. (l)(1). [Pub. L. 103–183][/us/pl/103/183], as amended by [Pub. L. 105–392][/us/pl/105/392], substituted “through 1998” for “through 1996”.
 
@@ -211,25 +211,25 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs308
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3495
-[/us/pl/103/43/s2010/i/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fi%2F1%2FB%2Fiv
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F213
-[/us/pl/103/183/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs705%2Fb
+[/us/pl/103/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVII
 [/us/stat/107/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2241
-[/us/pl/105/392/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fa%2F3
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3587
-[/us/pl/106/505/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs602%2Fa
+[/us/pl/106/505/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtVI
 [/us/stat/114/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2345
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/106/505/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs602%2Fa%2F1
-[/us/pl/106/505/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs602%2Fa%2F2
+[/us/pl/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505
+[/us/pl/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/102/531/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs308
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392

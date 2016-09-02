@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 110–422, title VI, § 613][/us/pl/110/422/s613], Oct. 15, 2008, [122 Stat. 4799][/us/stat/122/4799], which related to Space Shuttle transition and disposition of program-related assets, and provided for Space Shuttle Transition Liaison Office, was transferred and is set out as a note under [section 70501 of Title 51][/us/usc/t51/s70501], National and Commercial Space Programs.
+    Section, [Pub. L. 110–422, title VI][/us/pl/110/422/tVI], § 613, Oct. 15, 2008, [122 Stat. 4799][/us/stat/122/4799], which related to Space Shuttle transition and disposition of program-related assets, and provided for Space Shuttle Transition Liaison Office, was transferred and is set out as a note under [section 70501 of Title 51][/us/usc/t51/s70501], National and Commercial Space Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/422/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs613
+[/us/pl/110/422/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2FtVI
 [/us/stat/122/4799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4799
 [/us/usc/t51/s70501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70501
 

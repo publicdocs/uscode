@@ -57,7 +57,7 @@
 
         The Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this chapter that are consistent with the Agreement on Subsidies and Countervailing Measures referred to in [section 3511(d)(12) of title 19][/us/usc/t19/s3511/d/12].
 
-([Pub. L. 101–566, § 104][/us/pl/101/566/s104], Nov. 15, 1990, [104 Stat. 2798][/us/stat/104/2798]; [Pub. L. 104–271, title I, § 103(a)][/us/pl/104/271/s103/a], Oct. 9, 1996, [110 Stat. 3305][/us/stat/110/3305].)
+([Pub. L. 101–566][/us/pl/101/566], § 104, Nov. 15, 1990, [104 Stat. 2798][/us/stat/104/2798]; [Pub. L. 104–271, title I][/us/pl/104/271/tI], § 103(a), Oct. 9, 1996, [110 Stat. 3305][/us/stat/110/3305].)
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Fuel Cells__ 
 
-[Pub. L. 104–271, title II][/us/pl/104/271], Oct. 9, 1996, [110 Stat. 3307][/us/stat/110/3307], provided that:
+[Pub. L. 104–271, title II][/us/pl/104/271/tII], Oct. 9, 1996, [110 Stat. 3307][/us/stat/110/3307], provided that:
 
 > “SEC. 201. __INTEGRATION OF FUEL CELLS WITH HYDROGEN PRODUCTION SYSTEMS.__ 
 
@@ -104,12 +104,12 @@
 
 [/us/usc/t42/s12405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12405
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
-[/us/pl/101/566/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566%2Fs104
+[/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566
 [/us/stat/104/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2798
-[/us/pl/104/271/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2Fs103%2Fa
+[/us/pl/104/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2FtI
 [/us/stat/110/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3305
 [/us/pl/104/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271
-[/us/pl/104/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271
+[/us/pl/104/271/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2FtII
 [/us/stat/110/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3307
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
 

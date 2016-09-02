@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 110–422, title IV, § 405][/us/pl/110/422/s405], Oct. 15, 2008, [122 Stat. 4789][/us/stat/122/4789], which related to exploration technology development, was repealed in part and transferred in part. Subsec. (b) was repealed and reenacted as [section 70506 of Title 51][/us/usc/t51/s70506], National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314], §§ 3, 6, Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328], 3444, which Act enacted Title 51. Subsec. (a) was transferred and is set out as a note under [section 70506 of Title 51][/us/usc/t51/s70506].
+    Section, [Pub. L. 110–422, title IV][/us/pl/110/422/tIV], § 405, Oct. 15, 2008, [122 Stat. 4789][/us/stat/122/4789], which related to exploration technology development, was repealed in part and transferred in part. Subsec. (b) was repealed and reenacted as [section 70506 of Title 51][/us/usc/t51/s70506], National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314], §§ 3, 6, Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328], 3444, which Act enacted Title 51. Subsec. (a) was transferred and is set out as a note under [section 70506 of Title 51][/us/usc/t51/s70506].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/422/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs405
+[/us/pl/110/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2FtIV
 [/us/stat/122/4789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4789
 [/us/usc/t51/s70506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70506
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314

@@ -27,11 +27,11 @@
 
         The guidelines of the model program shall generally comport with the additional protections and restrictions specified under section 1437o(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 101–625, title II, § 253][/us/pl/101/625/s253], Nov. 28, 1990, [104 Stat. 4121][/us/stat/104/4121].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 253, Nov. 28, 1990, [104 Stat. 4121][/us/stat/104/4121].)
 
  __References in Text__ 
 
-    Section 1437o of this title, referred to in subsec. (c), was repealed by [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    Section 1437o of this title, referred to in subsec. (c), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs253
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4121
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 
 

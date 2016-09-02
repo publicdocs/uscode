@@ -149,25 +149,25 @@
 
             The information under paragraph (1) shall include information on children who are enrolled in managed care plans and other private health plans and contracts with such plans under this subchapter shall provide for the reporting of such information by such plans to the State.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2108, as added [Pub. L. 105–33, title IV, § 4901(a)][/us/pl/105/33/s4901/a], Aug. 5, 1997, [111 Stat. 566][/us/stat/111/566]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 703(b), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–401; [Pub. L. 111–3, title II, § 201(b)(2)(B)(ii)][/us/pl/111/3/s201/b/2/B/ii], title IV, § 402(a), title V, § 501(e)(2), title VI, §§ 603, 604, Feb. 4, 2009, [123 Stat. 39][/us/stat/123/39], 82, 87, 99; [Pub. L. 111–8, div. G, title I, § 1301(e)][/us/pl/111/8/s1301/e], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 111–148, title IV, § 4302(b)(1)(B)][/us/pl/111/148/s4302/b/1/B], Mar. 23, 2010, [124 Stat. 581][/us/stat/124/581].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2108, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4901(a), Aug. 5, 1997, [111 Stat. 566][/us/stat/111/566]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VII, § 703(b), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–401; [Pub. L. 111–3, title II][/us/pl/111/3/tII], § 201(b)(2)(B)(ii), title IV, § 402(a), title V, § 501(e)(2), title VI, §§ 603, 604, Feb. 4, 2009, [123 Stat. 39][/us/stat/123/39], 82, 87, 99; [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(e), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4302(b)(1)(B), Mar. 23, 2010, [124 Stat. 581][/us/stat/124/581].)
 
  __Amendments__ 
 
-    2010—Subsec. (e)(7). [Pub. L. 111–148][/us/pl/111/148], which directed amendment of subsec. (e) by adding par. (7) at end, was executed to the subsec. (e) added by [Pub. L. 111–3, § 402(a)(2)][/us/pl/111/3/s402/a/2], relating to information required for inclusion in State annual report, to reflect the probable intent of Congress.
+    2010—Subsec. (e)(7). [Pub. L. 111–148][/us/pl/111/148], which directed amendment of subsec. (e) by adding par. (7) at end, was executed to the subsec. (e) added by [Pub. L. 111–3][/us/pl/111/3], § 402(a)(2), relating to information required for inclusion in State annual report, to reflect the probable intent of Congress.
 
-    2009—Subsec. (a). [Pub. L. 111–3, § 402(a)(1)][/us/pl/111/3/s402/a/1], substituted “Subject to subsection (e), the State” for “The State” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–3][/us/pl/111/3], § 402(a)(1), substituted “Subject to subsection (e), the State” for “The State” in introductory provisions.
 
-    Subsec. (c)(3)(B). [Pub. L. 111–3, § 201(b)(2)(B)(ii)][/us/pl/111/3/s201/b/2/B/ii], inserted “(such as through community health workers and others)” after “including practices”.
+    Subsec. (c)(3)(B). [Pub. L. 111–3][/us/pl/111/3], § 201(b)(2)(B)(ii), inserted “(such as through community health workers and others)” after “including practices”.
 
-    Subsec. (c)(5). [Pub. L. 111–3, § 603][/us/pl/111/3/s603], added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.”
+    Subsec. (c)(5). [Pub. L. 111–3][/us/pl/111/3], § 603, added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.”
 
     Subsec. (d). [Pub. L. 111–8][/us/pl/111/8] struck out “and GAO report” after “Inspector General audit” in heading and struck out par. (3) which related to duty of Comptroller General to monitor Inspector General audits and report to Congress on audit results.
 
-    [Pub. L. 111–3, § 604][/us/pl/111/3/s604], amended subsec. (d) generally. Prior to amendment, subsec. related to Inspector General audits of certain States.
+    [Pub. L. 111–3][/us/pl/111/3], § 604, amended subsec. (d) generally. Prior to amendment, subsec. related to Inspector General audits of certain States.
 
-    Subsec. (e). [Pub. L. 111–3, § 501(e)(2)][/us/pl/111/3/s501/e/2], added subsec. (e) relating to information on dental care for children.
+    Subsec. (e). [Pub. L. 111–3][/us/pl/111/3], § 501(e)(2), added subsec. (e) relating to information on dental care for children.
 
-    [Pub. L. 111–3, § 402(a)(2)][/us/pl/111/3/s402/a/2], added subsec. (e) relating to information required for inclusion in State annual report.
+    [Pub. L. 111–3][/us/pl/111/3], § 402(a)(2), added subsec. (e) relating to information required for inclusion in State annual report.
 
     1999—Subsecs. (c), (d). [Pub. L. 106–113][/us/pl/106/113] added subsecs. (c) and (d).
 
@@ -179,7 +179,7 @@
 
  __Standardized Reporting Format__ 
 
-[Pub. L. 111–3, title IV, § 402(b)][/us/pl/111/3/s402/b], Feb. 4, 2009, [123 Stat. 83][/us/stat/123/83], provided that:
+[Pub. L. 111–3, title IV][/us/pl/111/3/tIV], § 402(b), Feb. 4, 2009, [123 Stat. 83][/us/stat/123/83], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -200,25 +200,25 @@
 [/us/usc/t42/s1396d/r/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fr%2F3
 [/us/usc/t42/s1396a/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F43
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4901%2Fa
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F566
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/111/3/s201/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs201%2Fb%2F2%2FB%2Fii
+[/us/pl/111/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtII
 [/us/stat/123/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F39
-[/us/pl/111/8/s1301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Fe
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
-[/us/pl/111/148/s4302/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4302%2Fb%2F1%2FB
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F581
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/3/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs402%2Fa%2F2
-[/us/pl/111/3/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs402%2Fa%2F1
-[/us/pl/111/3/s201/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs201%2Fb%2F2%2FB%2Fii
-[/us/pl/111/3/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs603
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
-[/us/pl/111/3/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs604
-[/us/pl/111/3/s501/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fe%2F2
-[/us/pl/111/3/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs402%2Fa%2F2
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
@@ -226,7 +226,7 @@
 [/us/pl/111/3/s501/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fe%2F2
 [/us/pl/111/3/s501/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fe%2F3
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/111/3/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs402%2Fb
+[/us/pl/111/3/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIV
 [/us/stat/123/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F83
 [/us/usc/t42/s1397hh/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397hh%2Fe
 [/us/usc/t42/s1397hh/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397hh%2Fa

@@ -23,7 +23,7 @@
 
     (3) consulted with the chief law enforcement officer of the law enforcement agency responsible for the security needs of the judicial branch of the State, unit, or tribe, as the case may be.
 
-([Pub. L. 110–177, title III, § 302(c)][/us/pl/110/177/s302/c], Jan. 7, 2008, [121 Stat. 2539][/us/stat/121/2539].)
+([Pub. L. 110–177, title III][/us/pl/110/177/tIII], § 302(c), Jan. 7, 2008, [121 Stat. 2539][/us/stat/121/2539].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/177/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs302%2Fc
+[/us/pl/110/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtIII
 [/us/stat/121/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2539
 
 

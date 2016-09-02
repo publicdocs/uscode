@@ -27,7 +27,7 @@
 
         In the case of settlement described in subsection (a)(2) of this section, a jurisdiction may use funds provided under this Act to carry out housing remedies with eligible activities.
 
-([Pub. L. 101–625, title II, § 224][/us/pl/101/625/s224], Nov. 28, 1990, [104 Stat. 4113][/us/stat/104/4113].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 224, Nov. 28, 1990, [104 Stat. 4113][/us/stat/104/4113].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/101/625/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs224
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4113
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079

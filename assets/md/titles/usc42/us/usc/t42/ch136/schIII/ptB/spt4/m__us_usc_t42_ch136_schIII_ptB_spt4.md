@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–4, title VI, § 602(1)][/us/pl/113/4/s602/1], Mar. 7, 2013, [127 Stat. 109][/us/stat/127/109], substituted “VICTIMS OF DOMESTIC VIOLENCE, DATING VIOLENCE, SEXUAL ASSAULT, OR STALKING” for “CHILD VICTIMS OF DOMESTIC VIOLENCE, STALKING, OR SEXUAL ASSAULT” in heading.
+    2013—[Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 602(1), Mar. 7, 2013, [127 Stat. 109][/us/stat/127/109], substituted “VICTIMS OF DOMESTIC VIOLENCE, DATING VIOLENCE, SEXUAL ASSAULT, OR STALKING” for “CHILD VICTIMS OF DOMESTIC VIOLENCE, STALKING, OR SEXUAL ASSAULT” in heading.
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/113/4/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F1
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F109
 
 

@@ -17,11 +17,11 @@
 
     In reviewing an application for assistance under this part, the Director shall not deny such assistance to any project or program, or any public or private nonprofit organization, solely on the basis of the duration of the assistance such project, program, or organization has received under this part prior to the date of submission of the application. The Director shall grant assistance under this part on the basis of merit and to accomplish the goals of the VISTA program, and shall consider the needs and requirements of projects in existence on such date as well as potential new projects.
 
-([Pub. L. 93–113, title I, § 109][/us/pl/93/113/s109], formerly § 110, as added [Pub. L. 101–204, title I, § 103][/us/pl/101/204/s103], Dec. 7, 1989, [103 Stat. 1812][/us/stat/103/1812]; amended [Pub. L. 103–82, title III, § 328][/us/pl/103/82/s328], Sept. 21, 1993, [107 Stat. 902][/us/stat/107/902]; renumbered § 109, [Pub. L. 111–13, title II, § 2105][/us/pl/111/13/s2105], Apr. 21, 2009, [123 Stat. 1583][/us/stat/123/1583].)
+([Pub. L. 93–113, title I][/us/pl/93/113/tI], § 109, formerly § 110, as added [Pub. L. 101–204, title I][/us/pl/101/204/tI], § 103, Dec. 7, 1989, [103 Stat. 1812][/us/stat/103/1812]; amended [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 328, Sept. 21, 1993, [107 Stat. 902][/us/stat/107/902]; renumbered § 109, [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2105, Apr. 21, 2009, [123 Stat. 1583][/us/stat/123/1583].)
 
  __Prior Provisions__ 
 
-    A prior [section 109 of Pub. L. 93–113][/us/pl/93/113/s109] was classified to [section 4959 of this title][/us/usc/t42/s4959], prior to repeal by [Pub. L. 111–13, title II, § 2104][/us/pl/111/13/s2104], Apr. 21, 2009, [123 Stat. 1583][/us/stat/123/1583], effective Oct. 1, 2009.
+    A prior [section 109 of Pub. L. 93–113][/us/pl/93/113/s109] was classified to [section 4959 of this title][/us/usc/t42/s4959], prior to repeal by [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2104, Apr. 21, 2009, [123 Stat. 1583][/us/stat/123/1583], effective Oct. 1, 2009.
 
  __Amendments__ 
 
@@ -38,16 +38,16 @@
 ----------
 ----------
 
-[/us/pl/93/113/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs109
-[/us/pl/101/204/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs103
+[/us/pl/93/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtI
+[/us/pl/101/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtI
 [/us/stat/103/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1812
-[/us/pl/103/82/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs328
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F902
-[/us/pl/111/13/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2105
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1583
 [/us/pl/93/113/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs109
 [/us/usc/t42/s4959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4959
-[/us/pl/111/13/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2104
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1583
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

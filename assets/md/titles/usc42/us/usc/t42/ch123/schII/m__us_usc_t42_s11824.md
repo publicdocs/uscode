@@ -35,7 +35,7 @@
 
         (6) provide for such fiscal control and fund accounting procedures as may be necessary to ensure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter.
 
-([Pub. L. 100–690, title III, § 3514][/us/pl/100/690/s3514], Nov. 18, 1988, [102 Stat. 4256][/us/stat/102/4256].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3514, Nov. 18, 1988, [102 Stat. 4256][/us/stat/102/4256].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s3514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3514
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4256
 
 

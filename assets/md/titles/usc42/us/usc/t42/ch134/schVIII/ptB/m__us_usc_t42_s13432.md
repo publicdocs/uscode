@@ -27,7 +27,7 @@
 
         Within 1 year after October 24, 1992, the Secretary shall solicit proposals for conducting activities under this section, making a special effort to involve small businesses in the program.
 
-([Pub. L. 102–486, title XX, § 2022][/us/pl/102/486/s2022], Oct. 24, 1992, [106 Stat. 3061][/us/stat/106/3061].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2022, Oct. 24, 1992, [106 Stat. 3061][/us/stat/106/3061].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2022
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3061
 
 

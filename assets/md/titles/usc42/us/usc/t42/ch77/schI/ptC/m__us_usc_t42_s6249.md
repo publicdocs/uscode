@@ -55,7 +55,7 @@
 
         The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a) of this section, and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
 
-([Pub. L. 94–163, title I, § 171][/us/pl/94/163/s171], as added [Pub. L. 101–383, § 6(a)(4)][/us/pl/101/383/s6/a/4], Sept. 15, 1990, [104 Stat. 729][/us/stat/104/729]; amended [Pub. L. 102–486, title XIV, § 1403][/us/pl/102/486/s1403], Oct. 24, 1992, [106 Stat. 2994][/us/stat/106/2994]; [Pub. L. 106–469, title I, § 103(20)][/us/pl/106/469/s103/20], Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 171, as added [Pub. L. 101–383][/us/pl/101/383], § 6(a)(4), Sept. 15, 1990, [104 Stat. 729][/us/stat/104/729]; amended [Pub. L. 102–486, title XIV][/us/pl/102/486/tXIV], § 1403, Oct. 24, 1992, [106 Stat. 2994][/us/stat/106/2994]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(20), Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].)
 
  __Prior Provisions__ 
 
@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b)(2)(B). [Pub. L. 106–469, § 103(20)(A)][/us/pl/106/469/s103/20/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Secretary notifies each House of the Congress of such determination and includes in such notification the same information required under [section 6234(e) of this title][/us/usc/t42/s6234/e] with regard to storage and related facilities proposed to be included, or petroleum product proposed to be stored, in the Reserve.”
+    2000—Subsec. (b)(2)(B). [Pub. L. 106–469][/us/pl/106/469], § 103(20)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Secretary notifies each House of the Congress of such determination and includes in such notification the same information required under [section 6234(e) of this title][/us/usc/t42/s6234/e] with regard to storage and related facilities proposed to be included, or petroleum product proposed to be stored, in the Reserve.”
 
-    Subsec. (b)(3). [Pub. L. 106–469, § 103(20)(B)][/us/pl/106/469/s103/20/B], substituted “sale of petroleum products from” for “distribution of”.
+    Subsec. (b)(3). [Pub. L. 106–469][/us/pl/106/469], § 103(20)(B), substituted “sale of petroleum products from” for “distribution of”.
 
     1992—Subsec. (f). [Pub. L. 102–486][/us/pl/102/486] added subsec. (f).
 
@@ -76,19 +76,19 @@
 ----------
 ----------
 
-[/us/pl/94/163/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs171
-[/us/pl/101/383/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs6%2Fa%2F4
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/stat/104/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F729
-[/us/pl/102/486/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1403
+[/us/pl/102/486/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIV
 [/us/stat/106/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2994
-[/us/pl/106/469/s103/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F20
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2033
 [/us/pl/94/163/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs171
 [/us/usc/t42/s6251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6251
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/106/469/s103/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F20%2FA
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/usc/t42/s6234/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6234%2Fe
-[/us/pl/106/469/s103/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F20%2FB
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 
 

@@ -37,7 +37,7 @@
 
         The Comptroller General shall periodically conduct such additional studies and submit reports to Congress on changes to Medicare payments policies, methodologies, and rates and coverage policies and methodologies as the Comptroller General determines appropriate, in consultation with the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate.
 
-([Pub. L. 111–148, title III, § 3403(b)][/us/pl/111/148/s3403/b], title X, § 10320(b), Mar. 23, 2010, [124 Stat. 506][/us/stat/124/506], 952.)
+([Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3403(b), title X, § 10320(b), Mar. 23, 2010, [124 Stat. 506][/us/stat/124/506], 952.)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395kkk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk
-[/us/pl/111/148/s3403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3403%2Fb
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F506
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated, without fiscal year limitation, such sums as may be necessary to carry out the programs authorized by this chapter.
 
-([Pub. L. 91–648, title V, § 509][/us/pl/91/648/s509], Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 509, Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs509
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1928
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761
 

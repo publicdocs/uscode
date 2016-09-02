@@ -17,7 +17,7 @@
 
     The Secretary of State, in cooperation with the Administrator and the Secretary of the department in which the Coast Guard is operating, shall seek effective international action and cooperation in support of the policy and purposes of this chapter and may initiate and conduct negotiations for the purpose of entering into international agreements designed to guarantee noninterference of ocean thermal energy conversion facilities and plantships with the thermal gradients used by other such facilities and plantships, to assure protection of such facilities and plantships and of navigational safety in the vicinity thereof, and to resolve such other matters relating to ocean thermal energy conversion facilities and plantships as need to be resolved in international agreements.
 
-([Pub. L. 96–320, title IV, § 402][/us/pl/96/320/s402], Aug. 3, 1980, [94 Stat. 998][/us/stat/94/998].)
+([Pub. L. 96–320, title IV][/us/pl/96/320/tIV], § 402, Aug. 3, 1980, [94 Stat. 998][/us/stat/94/998].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs402
+[/us/pl/96/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIV
 [/us/stat/94/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F998
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

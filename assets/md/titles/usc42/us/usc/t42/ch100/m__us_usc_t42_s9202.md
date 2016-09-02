@@ -31,7 +31,7 @@
 
     (7) the term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 96–345, § 3][/us/pl/96/345/s3], Sept. 8, 1980, [94 Stat. 1140][/us/stat/94/1140].)
+([Pub. L. 96–345][/us/pl/96/345], § 3, Sept. 8, 1980, [94 Stat. 1140][/us/stat/94/1140].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/345/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs3
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1140
 
 

@@ -85,13 +85,13 @@
 
         An institution may pay off the outstanding principal and interest owed by the borrowers of such institution who have defaulted on loans made under this subpart in order to reduce the risk category of the institution.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 708, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2004][/us/stat/106/2004].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 708, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2004][/us/stat/106/2004].)
 
  __Prior Provisions__ 
 
-    A prior section 292g, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 707, as added Oct. 12, 1976, [Pub. L. 94–484, title II, § 205][/us/pl/94/484/s205], [90 Stat. 2249][/us/stat/90/2249]; amended Aug. 1, 1977, [Pub. L. 95–83, title III, § 307(r)][/us/pl/95/83/s307/r], [91 Stat. 395][/us/stat/91/395], related to delegation of authority by the Secretary, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
+    A prior section 292g, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 707, as added Oct. 12, 1976, [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 205, [90 Stat. 2249][/us/stat/90/2249]; amended Aug. 1, 1977, [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 307(r), [91 Stat. 395][/us/stat/91/395], related to delegation of authority by the Secretary, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
-    Another prior section 292g, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 708, as added [July 30, 1956, ch. 779, § 2][/us/act/1956-07-30/ch779/s2], [70 Stat. 720][/us/stat/70/720]; amended Oct. 5, 1961, [Pub. L. 87–395, § 8(d)][/us/pl/87/395/s8/d], [75 Stat. 827][/us/stat/75/827]; Sept. 24, 1963, [Pub. L. 88–129, § 2(a)][/us/pl/88/129/s2/a], [77 Stat. 164][/us/stat/77/164], prohibited Federal interference with administration of institutions where grants were made for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II, § 201(a)][/us/pl/94/484/s201/a], Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
+    Another prior section 292g, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 708, as added [July 30, 1956, ch. 779][/us/act/1956-07-30/ch779], § 2, [70 Stat. 720][/us/stat/70/720]; amended Oct. 5, 1961, [Pub. L. 87–395][/us/pl/87/395], § 8(d), [75 Stat. 827][/us/stat/75/827]; Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(a), [77 Stat. 164][/us/stat/77/164], prohibited Federal interference with administration of institutions where grants were made for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(a), Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
 
     A prior section 708 of act July 1, 1944, was classified to [section 292h of this title][/us/usc/t42/s292h] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
@@ -107,22 +107,22 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2004
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs205
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2249
-[/us/pl/95/83/s307/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs307%2Fr
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F395
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1956-07-30/ch779/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs2
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/act/1956-07-30/ch779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779
 [/us/stat/70/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F720
-[/us/pl/87/395/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs8%2Fd
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
 [/us/stat/75/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F827
-[/us/pl/88/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fa
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F164
-[/us/pl/94/484/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fa
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2246
 [/us/usc/t42/s292h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292h
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408

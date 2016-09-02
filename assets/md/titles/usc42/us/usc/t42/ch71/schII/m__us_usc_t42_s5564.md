@@ -19,7 +19,7 @@
 
     (b) The Chairman shall transmit such comprehensive program definition to the President and to each House of the Congress. An interim report shall be transmitted not later than March 1, 1975. The comprehensive program definition shall be transmitted as soon as possible thereafter, but in any case not later than June 30, 1975.
 
-([Pub. L. 93–473, § 15][/us/pl/93/473/s15], Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
+([Pub. L. 93–473][/us/pl/93/473], § 15, Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs15
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1437
 
 

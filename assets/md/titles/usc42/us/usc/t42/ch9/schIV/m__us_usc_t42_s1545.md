@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 305, formerly § 8, [54 Stat. 1127][/us/stat/54/1127]; renumbered title III, § 305, [June 28, 1941, ch. 260, § 4(b)][/us/act/1941-06-28/ch260/s4/b], [55 Stat. 363][/us/stat/55/363]; amended [Jan. 21, 1942, ch. 14, § 7][/us/act/1942-01-21/ch14/s7], [56 Stat. 12][/us/stat/56/12]; Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73], which related to utilization of Federal and local agencies and private services, was omitted in view of the omission of [section 1541 of this title][/us/usc/t42/s1541].
+    Section, acts [Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 305, formerly § 8, [54 Stat. 1127][/us/stat/54/1127]; renumbered title III, § 305, [June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 4(b), [55 Stat. 363][/us/stat/55/363]; amended [Jan. 21, 1942, ch. 14][/us/act/1942-01-21/ch14], § 7, [56 Stat. 12][/us/stat/56/12]; Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73], which related to utilization of Federal and local agencies and private services, was omitted in view of the omission of [section 1541 of this title][/us/usc/t42/s1541].
 
 ----------
 
@@ -28,9 +28,9 @@
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1127
-[/us/act/1941-06-28/ch260/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs4%2Fb
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F363
-[/us/act/1942-01-21/ch14/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14%2Fs7
+[/us/act/1942-01-21/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14
 [/us/stat/56/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F12
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F73

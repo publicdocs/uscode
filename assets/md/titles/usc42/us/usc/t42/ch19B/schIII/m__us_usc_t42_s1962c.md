@@ -19,11 +19,11 @@
 
     (b) The Council, with the approval of the President, shall prescribe such rules, establish such procedures, and make such arrangements and provisions relating to the performance of its functions under this subchapter, and the use of funds available therefor, as may be necessary in order to assure (1) coordination of the program authorized by this subchapter with related Federal planning assistance programs, including the program authorized under section 701 of the Housing Act of 1954  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and (2) appropriate utilization of other Federal agencies administering programs which may contribute to achieving the purpose of this chapter.
 
-([Pub. L. 89–80, title III, § 301][/us/pl/89/80/s301], July 22, 1965, [79 Stat. 251][/us/stat/79/251]; [Pub. L. 94–112, § 1(d)][/us/pl/94/112/s1/d], Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575]; [Pub. L. 95–404, § 1(d)][/us/pl/95/404/s1/d], Sept. 30, 1978, [92 Stat. 864][/us/stat/92/864].)
+([Pub. L. 89–80, title III][/us/pl/89/80/tIII], § 301, July 22, 1965, [79 Stat. 251][/us/stat/79/251]; [Pub. L. 94–112][/us/pl/94/112], § 1(d), Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575]; [Pub. L. 95–404][/us/pl/95/404], § 1(d), Sept. 30, 1978, [92 Stat. 864][/us/stat/92/864].)
 
  __References in Text__ 
 
-    Section 701 of the Housing Act of 1954, referred to in subsec. (b), is section 701 of [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], [68 Stat. 640][/us/stat/68/640], which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by [Pub. L. 97–35, title III, § 313(b)][/us/pl/97/35/s313/b], Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
+    Section 701 of the Housing Act of 1954, referred to in subsec. (b), is section 701 of [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], [68 Stat. 640][/us/stat/68/640], which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 313(b), Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
 
  __Amendments__ 
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/pl/89/80/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs301
+[/us/pl/89/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIII
 [/us/stat/79/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F251
-[/us/pl/94/112/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112%2Fs1%2Fd
+[/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112
 [/us/stat/89/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F575
-[/us/pl/95/404/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404%2Fs1%2Fd
+[/us/pl/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404
 [/us/stat/92/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F864
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F640
-[/us/pl/97/35/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs313%2Fb
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F398
 [/us/pl/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404
 [/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112

@@ -37,7 +37,7 @@
 
         (2) Upon the request of the Governor, the Secretary may make grants to a State for up to 100 percent of the costs of any preliminary energy audits and energy audits, subject to the requirements of [section 6371g(a)(3) of this title][/us/usc/t42/s6371g/a/3].
 
-([Pub. L. 94–163, title III, § 393][/us/pl/94/163/s393], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3242][/us/stat/92/3242].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 393, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3242][/us/stat/92/3242].)
 
 ----------
 
@@ -50,8 +50,8 @@
 [/us/usc/t42/s6371a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371a%2Fa%2F1
 [/us/usc/t42/s6371a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371a%2Fa%2F2
 [/us/usc/t42/s6371g/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371g%2Fa%2F3
-[/us/pl/94/163/s393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs393
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3242
 
 

@@ -33,7 +33,7 @@
 
             Information required to be reported under [section 11133(b) of this title][/us/usc/t42/s11133/b] shall also be reported to the appropriate State licensing board in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b) of this section.
 
-([Pub. L. 99–660, title IV, § 424][/us/pl/99/660/s424], Nov. 14, 1986, [100 Stat. 3790][/us/stat/100/3790].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 424, Nov. 14, 1986, [100 Stat. 3790][/us/stat/100/3790].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t42/s11131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11131
 [/us/usc/t42/s11133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11133%2Fb
-[/us/pl/99/660/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs424
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3790
 
 

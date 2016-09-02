@@ -25,7 +25,7 @@
 
         The provisions of subsection (a) of this section shall take effect with respect to violations that occur in whole or in part after October 21, 1986.
 
-([Pub. L. 99–506, title X, § 1003][/us/pl/99/506/s1003], Oct. 21, 1986, [100 Stat. 1845][/us/stat/100/1845].)
+([Pub. L. 99–506, title X][/us/pl/99/506/tX], § 1003, Oct. 21, 1986, [100 Stat. 1845][/us/stat/100/1845].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/99/506/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1003
+[/us/pl/99/506/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtX
 [/us/stat/100/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1845
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/stat/86/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F235

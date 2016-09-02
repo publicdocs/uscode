@@ -47,7 +47,7 @@
 
         Any officer or employee who is subject to, and knowingly violates, this section shall be fined not more than $2,500 or imprisoned not more than one year, or both.
 
-([Pub. L. 89–272, title II, § 1007][/us/pl/89/272/s1007], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2802][/us/stat/90/2802].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1007, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2802][/us/stat/90/2802].)
 
  __Termination of Reporting Requirements__ 
 
@@ -64,8 +64,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1007
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2802
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

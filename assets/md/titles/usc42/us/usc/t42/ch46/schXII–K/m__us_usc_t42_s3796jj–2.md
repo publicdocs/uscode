@@ -59,7 +59,7 @@
 
         (10) Technical assistance and training to support any or all of the services described in paragraphs (1), (2), (3), (4), (5), (6), (7), (8), and (9).
 
-([Pub. L. 90–351, title I, § 2303][/us/pl/90/351/s2303], as added [Pub. L. 103–322, title XXI, § 210201(a)(3)][/us/pl/103/322/s210201/a/3], Sept. 13, 1994, [108 Stat. 2062][/us/stat/108/2062].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2303, as added [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210201(a)(3), Sept. 13, 1994, [108 Stat. 2062][/us/stat/108/2062].)
 
  __References in Text__ 
 
@@ -72,8 +72,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2303
-[/us/pl/103/322/s210201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210201%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2062
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 

@@ -43,7 +43,7 @@
 
         (3) For purposes of this subsection, the term “section 314(a) State health planning agency” means the agency of a State which administers or supervises the administration of a State’s health planning functions under a State plan approved under section 314(a) of the Public Health Service Act (referred to in paragraph (2) as a “section 314(a) plan”); and the term “section 314(b) areawide health planning agency” means a public or nonprofit private agency or organization which has developed a comprehensive regional, metropolitan, or other local area plan or plans referred to in section 314(b) of that Act (referred to in paragraph (2) as a “section 314(b) plan”).
 
-([Pub. L. 93–155, title VIII, § 818(a)][/us/pl/93/155/s818/a], (b), Nov. 16, 1973, [87 Stat. 622][/us/stat/87/622]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 818(a), (b), Nov. 16, 1973, [87 Stat. 622][/us/stat/87/622]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those comprising this section were contained in [Pub. L. 92–585, § 3][/us/pl/92/585/s3], Oct. 27, 1972, [86 Stat. 1292][/us/stat/86/1292], setting out procedure to be followed in closing or transferring control of hospitals or other health care delivery facilities of Public Health Service, prior to repeal by [Pub. L. 93–155, § 818(c)][/us/pl/93/155/s818/c].
+    Provisions similar to those comprising this section were contained in [Pub. L. 92–585][/us/pl/92/585], § 3, Oct. 27, 1972, [86 Stat. 1292][/us/stat/86/1292], setting out procedure to be followed in closing or transferring control of hospitals or other health care delivery facilities of Public Health Service, prior to repeal by [Pub. L. 93–155][/us/pl/93/155], § 818(c).
 
  __Change of Name__ 
 
@@ -68,14 +68,14 @@
 ----------
 ----------
 
-[/us/pl/93/155/s818/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs818%2Fa
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F622
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
-[/us/pl/92/585/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F585%2Fs3
+[/us/pl/92/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F585
 [/us/stat/86/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1292
-[/us/pl/93/155/s818/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs818%2Fc
+[/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 

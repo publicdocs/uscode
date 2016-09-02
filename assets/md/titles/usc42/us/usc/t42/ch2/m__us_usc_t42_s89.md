@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4794 derived from [act Feb. 23, 1799, ch. 12, § 3][/us/act/1799-02-23/ch12/s3], [1 Stat. 620][/us/stat/1/620].
+    R.S. § 4794 derived from [act Feb. 23, 1799, ch. 12][/us/act/1799-02-23/ch12], § 3, [1 Stat. 620][/us/stat/1/620].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1799-02-23/ch12/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1799-02-23%2Fch12%2Fs3
+[/us/act/1799-02-23/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1799-02-23%2Fch12
 [/us/stat/1/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F620
 
 

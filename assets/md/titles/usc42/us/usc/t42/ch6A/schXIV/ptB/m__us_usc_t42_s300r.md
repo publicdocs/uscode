@@ -53,21 +53,21 @@
 
         (3) There are authorized to be appropriated for grants under paragraph (1) $15,000,000 for the fiscal year ending September 30, 1981, and $15,000,000 for the fiscal year ending September 30, 1982.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1610, formerly § 1625, as added [Pub. L. 93–641, § 4][/us/pl/93/641/s4], Jan. 4, 1975, [88 Stat. 2268][/us/stat/88/2268]; amended [Pub. L. 95–83, title I, § 103(b)][/us/pl/95/83/s103/b], Aug. 1, 1977, [91 Stat. 383][/us/stat/91/383]; renumbered § 1610 and amended [Pub. L. 96–79, title II][/us/pl/96/79], §§ 201(c), 203(b), Oct. 4, 1979, [93 Stat. 631][/us/stat/93/631], 635.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1610, formerly § 1625, as added [Pub. L. 93–641][/us/pl/93/641], § 4, Jan. 4, 1975, [88 Stat. 2268][/us/stat/88/2268]; amended [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 103(b), Aug. 1, 1977, [91 Stat. 383][/us/stat/91/383]; renumbered § 1610 and amended [Pub. L. 96–79, title II][/us/pl/96/79/tII], §§ 201(c), 203(b), Oct. 4, 1979, [93 Stat. 631][/us/stat/93/631], 635.)
 
  __Prior Provisions__ 
 
-    A prior section 1610 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, as added Jan. 4, 1975, [Pub. L. 93–641, § 4][/us/pl/93/641/s4], [88 Stat. 2262][/us/stat/88/2262]; amended Aug. 1, 1977, [Pub. L. 95–83, title I, § 106(w)][/us/pl/95/83/s106/w], [91 Stat. 385][/us/stat/91/385], was classified to [section 300p of this title][/us/usc/t42/s300p], prior to repeal by [Pub. L. 96–79, title II, § 201(a)][/us/pl/96/79/s201/a], Oct. 4, 1979, [93 Stat. 630][/us/stat/93/630].
+    A prior section 1610 of [act July 1, 1944, ch. 373, title XVI][/us/act/1944-07-01/ch373/tXVI], as added Jan. 4, 1975, [Pub. L. 93–641][/us/pl/93/641], § 4, [88 Stat. 2262][/us/stat/88/2262]; amended Aug. 1, 1977, [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 106(w), [91 Stat. 385][/us/stat/91/385], was classified to [section 300p of this title][/us/usc/t42/s300p], prior to repeal by [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 201(a), Oct. 4, 1979, [93 Stat. 630][/us/stat/93/630].
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–79, § 201(c)][/us/pl/96/79/s201/c], incorporated existing provisions in par. (1); inserted in subpar. (A) in cls. (i) and (ii) the phrases “in medical facilities” and “by medical facilities”; substituted in subpar. (B)(i) “for any medical facility owned or operated by the State or political subdivision” for “for a project described in the preceding sentence for any medical facility owned or operated by it”; added cl. (a)(1)(B)(ii); redesignated former subsec. (c) as par. (2); and added par. (3).
+    1979—Subsec. (a). [Pub. L. 96–79][/us/pl/96/79], § 201(c), incorporated existing provisions in par. (1); inserted in subpar. (A) in cls. (i) and (ii) the phrases “in medical facilities” and “by medical facilities”; substituted in subpar. (B)(i) “for any medical facility owned or operated by the State or political subdivision” for “for a project described in the preceding sentence for any medical facility owned or operated by it”; added cl. (a)(1)(B)(ii); redesignated former subsec. (c) as par. (2); and added par. (3).
 
-    Subsec. (b). [Pub. L. 96–79, § 201(c)][/us/pl/96/79/s201/c], inserted provisions respecting projects for medically underserved populations and struck out provisions respecting criteria for approval of applications under former section 300o–3 of this title.
+    Subsec. (b). [Pub. L. 96–79][/us/pl/96/79], § 201(c), inserted provisions respecting projects for medically underserved populations and struck out provisions respecting criteria for approval of applications under former section 300o–3 of this title.
 
-    Subsec. (c). [Pub. L. 96–79, § 201(c)][/us/pl/96/79/s201/c], redesignated subsec. (c) as par. (2) of subsec. (a).
+    Subsec. (c). [Pub. L. 96–79][/us/pl/96/79], § 201(c), redesignated subsec. (c) as par. (2) of subsec. (a).
 
-    Subsec. (d). [Pub. L. 96–79, § 201(c)][/us/pl/96/79/s201/c], struck out subsec. (d) which related to provisions making available 22 per centum of sums appropriated under former [section 300p–3 of this title][/us/usc/t42/s300p–3] for subsec. (a) grants, including an additional appropriations authorization of $67,500,000 for such grants for fiscal year ending Sept. 30, 1978.
+    Subsec. (d). [Pub. L. 96–79][/us/pl/96/79], § 201(c), struck out subsec. (d) which related to provisions making available 22 per centum of sums appropriated under former [section 300p–3 of this title][/us/usc/t42/s300p–3] for subsec. (a) grants, including an additional appropriations authorization of $67,500,000 for such grants for fiscal year ending Sept. 30, 1978.
 
     1977—Subsec. (d). [Pub. L. 95–83][/us/pl/95/83] authorized additional grant appropriations of $67,500,000 for fiscal year ending Sept. 30, 1978.
 
@@ -83,24 +83,24 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2268
-[/us/pl/95/83/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs103%2Fb
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F383
-[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F631
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/act/1944-07-01/ch373/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXVI
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2262
-[/us/pl/95/83/s106/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs106%2Fw
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F385
 [/us/usc/t42/s300p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300p
-[/us/pl/96/79/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs201%2Fa
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F630
-[/us/pl/96/79/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs201%2Fc
-[/us/pl/96/79/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs201%2Fc
-[/us/pl/96/79/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs201%2Fc
-[/us/pl/96/79/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs201%2Fc
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/usc/t42/s300p–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300p%E2%80%933
 [/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79

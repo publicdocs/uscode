@@ -177,21 +177,21 @@
 
                 (ii) If the Administrator objects to the variance, the date on which the State makes the recommended modifications or responds in writing to each objection.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1415, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1669][/us/stat/88/1669]; amended [Pub. L. 99–339, title I, § 104][/us/pl/99/339/s104], June 19, 1986, [100 Stat. 649][/us/stat/100/649]; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 102(c)(1), 115, 116, title V, § 501(a)(3), Aug. 6, 1996, [110 Stat. 1621][/us/stat/110/1621], 1641, 1691.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1415, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1669][/us/stat/88/1669]; amended [Pub. L. 99–339, title I][/us/pl/99/339/tI], § 104, June 19, 1986, [100 Stat. 649][/us/stat/100/649]; [Pub. L. 104–182, title I][/us/pl/104/182/tI], §§ 102(c)(1), 115, 116, title V, § 501(a)(3), Aug. 6, 1996, [110 Stat. 1621][/us/stat/110/1621], 1641, 1691.)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1)(A). [Pub. L. 104–182, § 501(a)(3)][/us/pl/104/182/s501/a/3], inserted “the” before “time the variance is granted,” in introductory provisions.
+    1996—Subsec. (a)(1)(A). [Pub. L. 104–182][/us/pl/104/182], § 501(a)(3), inserted “the” before “time the variance is granted,” in introductory provisions.
 
-    [Pub. L. 104–182, § 115][/us/pl/104/182/s115], in second sentence, substituted “be issued to a system on condition that the system install” for “only be issued to a system after the system’s application of” and inserted “, and based upon an evaluation satisfactory to the State that indicates that alternative sources of water are not reasonably available to the system” after “(taking costs into consideration)”.
+    [Pub. L. 104–182][/us/pl/104/182], § 115, in second sentence, substituted “be issued to a system on condition that the system install” for “only be issued to a system after the system’s application of” and inserted “, and based upon an evaluation satisfactory to the State that indicates that alternative sources of water are not reasonably available to the system” after “(taking costs into consideration)”.
 
-    Subsec. (d). [Pub. L. 104–182, § 102(c)(1)][/us/pl/104/182/s102/c/1], substituted “section 300g–1(b)” for “section 300g–1(b)(3)”.
+    Subsec. (d). [Pub. L. 104–182][/us/pl/104/182], § 102(c)(1), substituted “section 300g–1(b)” for “section 300g–1(b)(3)”.
 
-    Subsec. (e). [Pub. L. 104–182, § 116][/us/pl/104/182/s116], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–182][/us/pl/104/182], § 116, added subsec. (e).
 
-    1986—Subsec. (a)(1)(A). [Pub. L. 99–339, § 104(1)][/us/pl/99/339/s104/1]–(3), substituted “such drinking water regulation. A variance may only be issued to a system after the system’s application” for “such drinking water regulation despite application”, struck out “generally” after “finds are”, inserted provisions relating to proposal and promulgation by Administrator of a finding on best available technology, treatment techniques or other means available for each contaminant at time of proposal and promulgation of maximum contaminant levels, and substituted “at the time” for “within one year of the date”.
+    1986—Subsec. (a)(1)(A). [Pub. L. 99–339][/us/pl/99/339], § 104(1)–(3), substituted “such drinking water regulation. A variance may only be issued to a system after the system’s application” for “such drinking water regulation despite application”, struck out “generally” after “finds are”, inserted provisions relating to proposal and promulgation by Administrator of a finding on best available technology, treatment techniques or other means available for each contaminant at time of proposal and promulgation of maximum contaminant levels, and substituted “at the time” for “within one year of the date”.
 
-    Subsec. (a)(1)(A)(ii). [Pub. L. 99–339, § 104(4)][/us/pl/99/339/s104/4], substituted “water system of such additional control” for “water system of such control”.
+    Subsec. (a)(1)(A)(ii). [Pub. L. 99–339][/us/pl/99/339], § 104(4), substituted “water system of such additional control” for “water system of such control”.
 
 ----------
 
@@ -217,17 +217,17 @@
 [/us/usc/t42/s300g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%932
 [/us/usc/t42/s300g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1669
-[/us/pl/99/339/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs104
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F649
-[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1621
-[/us/pl/104/182/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Fa%2F3
-[/us/pl/104/182/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs115
-[/us/pl/104/182/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs102%2Fc%2F1
-[/us/pl/104/182/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs116
-[/us/pl/99/339/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs104%2F1
-[/us/pl/99/339/s104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs104%2F4
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 
 

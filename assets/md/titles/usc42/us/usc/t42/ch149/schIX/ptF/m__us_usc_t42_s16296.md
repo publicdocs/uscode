@@ -61,7 +61,7 @@
 
         The Secretary may use the data collected and analyzed under this section to produce maps and literature to disseminate to States to promote conservation of natural gas reserves.
 
-([Pub. L. 109–58, title IX, § 966][/us/pl/109/58/s966], Aug. 8, 2005, [119 Stat. 893][/us/stat/119/893].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 966, Aug. 8, 2005, [119 Stat. 893][/us/stat/119/893].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs966
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F893
 
 

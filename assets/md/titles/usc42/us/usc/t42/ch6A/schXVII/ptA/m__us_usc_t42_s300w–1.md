@@ -85,19 +85,19 @@
 
         Before June 30, 1982, the Secretary shall submit a report to the Congress respecting the development of a formula and make such recommendations as the Secretary may deem appropriate in order to ensure the most equitable distribution of funds under allotments under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1902, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1902, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535].)
 
  __References in Text__ 
 
-    [Section 247b–1 of this title][/us/usc/t42/s247b–1], referred to in subsec. (a)(2)(D), was in the original a reference to section 401 of the Health Services and Centers Amendments of 1978, [Pub. L. 95–626][/us/pl/95/626], which was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX, § 902(a)][/us/pl/97/35/s902/a], (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561. [Pub. L. 100–572, § 3][/us/pl/100/572/s3], Oct. 31, 1988, [102 Stat. 2887][/us/stat/102/2887], enacted section 317A of act July 1, 1944, which is classified to [section 247b–1 of this title][/us/usc/t42/s247b–1].
+    [Section 247b–1 of this title][/us/usc/t42/s247b–1], referred to in subsec. (a)(2)(D), was in the original a reference to section 401 of the Health Services and Centers Amendments of 1978, [Pub. L. 95–626][/us/pl/95/626], which was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(a), (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561. [Pub. L. 100–572][/us/pl/100/572], § 3, Oct. 31, 1988, [102 Stat. 2887][/us/stat/102/2887], enacted section 317A of act July 1, 1944, which is classified to [section 247b–1 of this title][/us/usc/t42/s247b–1].
 
-    [Section 247b–2 of this title][/us/usc/t42/s247b–2], referred to in subsec. (a)(2)(D), was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX, § 902(a)][/us/pl/97/35/s902/a], (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561.
+    [Section 247b–2 of this title][/us/usc/t42/s247b–2], referred to in subsec. (a)(2)(D), was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(a), (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561.
 
-    [Section 246(d) of this title][/us/usc/t42/s246/d], referred to in subsec. (a)(2)(E), was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX, § 902(b)][/us/pl/97/35/s902/b], (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561.
+    [Section 246(d) of this title][/us/usc/t42/s246/d], referred to in subsec. (a)(2)(E), was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(b), (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561.
 
-    [Section 255 of this title][/us/usc/t42/s255], referred to in subsec. (a)(2)(F), was in the original a reference to section 339 of act July 1, 1944, which was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX, § 902(b)][/us/pl/97/35/s902/b], (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561. [Pub. L. 97–414, § 6(a)][/us/pl/97/414/s6/a], Jan. 4, 1983, [96 Stat. 2057][/us/stat/96/2057], added a new section 339 of act July 1, 1944, which is classified to [section 255 of this title][/us/usc/t42/s255].
+    [Section 255 of this title][/us/usc/t42/s255], referred to in subsec. (a)(2)(F), was in the original a reference to section 339 of act July 1, 1944, which was repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(b), (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561. [Pub. L. 97–414][/us/pl/97/414], § 6(a), Jan. 4, 1983, [96 Stat. 2057][/us/stat/96/2057], added a new section 339 of act July 1, 1944, which is classified to [section 255 of this title][/us/usc/t42/s255].
 
-    Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. (a)(2)(G), were in the original references to sections 1202, 1203, and 1204, respectively, of act July 1, 1944, which were repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX, § 902(d)(1)][/us/pl/97/35/s902/d/1], (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561. [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2916–2918][/us/stat/104/2916-2918], enacted new sections 1202, 1203, and 1204 of act July 1, 1944, which were classified to sections 300d–1, 300d–2, and 300d–3, respectively, of this title. [Pub. L. 103–183, title VI, § 601(b)][/us/pl/103/183/s601/b], Dec. 14, 1983, [107 Stat. 2238][/us/stat/107/2238], repealed section 1202 and renumbered sections 1203 and 1204 as 1202 and 1203, respectively. [Pub. L. 110–23][/us/pl/110/23], §§ 3, 5, May 3, 2007, [121 Stat. 90][/us/stat/121/90], 91, repealed section 1202, renumbered section 1203 as 1202, and enacted new section 1203 of act July 1, 1944, which is classified to [section 300d–5 of this title][/us/usc/t42/s300d–5].
+    Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. (a)(2)(G), were in the original references to sections 1202, 1203, and 1204, respectively, of act July 1, 1944, which were repealed effective Oct. 1, 1981, by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(d)(1), (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561. [Pub. L. 101–590][/us/pl/101/590], § 3, Nov. 16, 1990, [104 Stat. 2916–2918][/us/stat/104/2916-2918], enacted new sections 1202, 1203, and 1204 of act July 1, 1944, which were classified to sections 300d–1, 300d–2, and 300d–3, respectively, of this title. [Pub. L. 103–183, title VI][/us/pl/103/183/tVI], § 601(b), Dec. 14, 1983, [107 Stat. 2238][/us/stat/107/2238], repealed section 1202 and renumbered sections 1203 and 1204 as 1202 and 1203, respectively. [Pub. L. 110–23][/us/pl/110/23], §§ 3, 5, May 3, 2007, [121 Stat. 90][/us/stat/121/90], 91, repealed section 1202, renumbered section 1203 as 1202, and enacted new section 1203 of act July 1, 1944, which is classified to [section 300d–5 of this title][/us/usc/t42/s300d–5].
 
     [Section 450b of title 25][/us/usc/t25/s450b], referred to in subsec. (d)(5), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
@@ -117,32 +117,32 @@
 [/us/usc/t42/s300w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934
 [/us/usc/t42/s300w–5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%935%2Fb%2F3
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F535
 [/us/usc/t42/s247b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%931
 [/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
-[/us/pl/97/35/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
-[/us/pl/100/572/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs3
+[/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
 [/us/stat/102/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2887
 [/us/usc/t42/s247b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%931
 [/us/usc/t42/s247b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%932
-[/us/pl/97/35/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
 [/us/usc/t42/s246/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246%2Fd
-[/us/pl/97/35/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
 [/us/usc/t42/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs255
-[/us/pl/97/35/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
-[/us/pl/97/414/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs6%2Fa
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2057
 [/us/usc/t42/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs255
-[/us/pl/97/35/s902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/pl/101/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs3
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2916-2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2916-2918
-[/us/pl/103/183/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Fb
+[/us/pl/103/183/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVI
 [/us/stat/107/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2238
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F90

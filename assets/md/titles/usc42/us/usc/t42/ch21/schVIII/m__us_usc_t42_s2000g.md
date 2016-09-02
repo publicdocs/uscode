@@ -17,11 +17,11 @@
 
     There is hereby established in and as a part of the Department of Commerce a Community Relations Service (hereinafter referred to as the “Service”), which shall be headed by a Director who shall be appointed by the President with the advice and consent of the Senate for a term of four years. The Director is authorized to appoint, subject to the civil service laws and regulations, such other personnel as may be necessary to enable the Service to carry out its functions and duties, and to fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
-([Pub. L. 88–352, title X, § 1001(a)][/us/pl/88/352/s1001/a], July 2, 1964, [78 Stat. 267][/us/stat/78/267]; [Pub. L. 95–624, § 5][/us/pl/95/624/s5], Nov. 9, 1978, [92 Stat. 3462][/us/stat/92/3462].)
+([Pub. L. 88–352, title X][/us/pl/88/352/tX], § 1001(a), July 2, 1964, [78 Stat. 267][/us/stat/78/267]; [Pub. L. 95–624][/us/pl/95/624], § 5, Nov. 9, 1978, [92 Stat. 3462][/us/stat/92/3462].)
 
  __Codification__ 
 
-    References to “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5][/us/usc/t5/s3109]” substituted in text for “the Classification Act of 1949, as amended” and “[section 15 of the Act of August 2, 1946][/us/act/1946-08-02/s15] ([60 Stat. 810][/us/stat/60/810]; [5 U.S.C. 55a][/us/usc/t5/s55a])”, respectively, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    References to “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5][/us/usc/t5/s3109]” substituted in text for “the Classification Act of 1949, as amended” and “[section 15 of the Act of August 2, 1946][/us/act/1946-08-02/s15] ([60 Stat. 810][/us/stat/60/810]; [5 U.S.C. 55a][/us/usc/t5/s55a])”, respectively, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -112,15 +112,15 @@
 ----------
 ----------
 
-[/us/pl/88/352/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs1001%2Fa
+[/us/pl/88/352/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtX
 [/us/stat/78/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F267
-[/us/pl/95/624/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624%2Fs5
+[/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/stat/92/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3462
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/act/1946-08-02/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fs15
 [/us/stat/60/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F810
 [/us/usc/t5/s55a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs55a
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/stat/80/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1607

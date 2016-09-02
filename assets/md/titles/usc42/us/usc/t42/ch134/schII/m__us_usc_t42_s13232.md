@@ -23,7 +23,7 @@
 
         The Secretary shall provide technical assistance to the Federal Trade Commission in developing labeling requirements under subsection (a) of this section. The Secretary shall coordinate activities under this section with activities under [section 13231 of this title][/us/usc/t42/s13231].
 
-([Pub. L. 102–486, title IV, § 406][/us/pl/102/486/s406], Oct. 24, 1992, [106 Stat. 2880][/us/stat/106/2880].)
+([Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 406, Oct. 24, 1992, [106 Stat. 2880][/us/stat/106/2880].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s13231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13231
-[/us/pl/102/486/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs406
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2880
 
 

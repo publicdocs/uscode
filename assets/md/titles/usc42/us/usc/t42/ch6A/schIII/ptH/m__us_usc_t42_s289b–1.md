@@ -53,7 +53,7 @@
 
         (2) The term “assistance”, with respect to conducting a project of research, means a grant, contract, or cooperative agreement.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 493A, as added [Pub. L. 103–43, title I, § 164][/us/pl/103/43/s164], June 10, 1993, [107 Stat. 142][/us/stat/107/142].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 493A, as added [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 164, June 10, 1993, [107 Stat. 142][/us/stat/107/142].)
 
  __Regulations__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs164
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F142
 [/us/pl/103/43/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs165
 [/us/usc/t42/s289b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289b

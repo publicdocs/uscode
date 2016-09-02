@@ -111,21 +111,21 @@
 
         (3) Any amount made available for use under paragraph (2) shall remain available until expended.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 149, as added [Pub. L. 99–399, title VI, § 606(a)][/us/pl/99/399/s606/a], Aug. 27, 1986, [100 Stat. 876][/us/stat/100/876]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI, § 652][/us/pl/109/58/s652], Aug. 8, 2005, [119 Stat. 810][/us/stat/119/810].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 149, as added [Pub. L. 99–399, title VI][/us/pl/99/399/tVI], § 606(a), Aug. 27, 1986, [100 Stat. 876][/us/stat/100/876]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 652, Aug. 8, 2005, [119 Stat. 810][/us/stat/119/810].)
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 652(1)][/us/pl/109/58/s652/1], revised and restructured provisions of subsec. (a). Prior to amendment, subsec. (a) read as follows: “The Nuclear Regulatory Commission (in this section referred to as the ‘Commission’) shall require each licensee or applicant for a license to operate a utilization facility under section 2133 or 2134(b) of this title to fingerprint each individual who is permitted unescorted access to the facility or is permitted access to safeguards information under [section 2167 of this title][/us/usc/t42/s2167]. All fingerprints obtained by a licensee or applicant as required in the preceding sentence shall be submitted to the Attorney General of the United States through the Commission for identification and a criminal history records check. The costs of any identification and records check conducted pursuant to the preceding sentence shall be paid by the licensee or applicant. Notwithstanding any other provision of law, the Attorney General may provide all the results of the search to the Commission, and, in accordance with regulations prescribed under this section, the Commission may provide such results to the licensee or applicant submitting such fingerprints.” Amendment by [Pub. L. 109–58, § 652(1)(D)][/us/pl/109/58/s652/1/D], which misquoted the sentence to be stricken by leaving out the word “the” before “licensee”, was nevertheless executed to reflect the probable intent of Congress.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 652(1), revised and restructured provisions of subsec. (a). Prior to amendment, subsec. (a) read as follows: “The Nuclear Regulatory Commission (in this section referred to as the ‘Commission’) shall require each licensee or applicant for a license to operate a utilization facility under section 2133 or 2134(b) of this title to fingerprint each individual who is permitted unescorted access to the facility or is permitted access to safeguards information under [section 2167 of this title][/us/usc/t42/s2167]. All fingerprints obtained by a licensee or applicant as required in the preceding sentence shall be submitted to the Attorney General of the United States through the Commission for identification and a criminal history records check. The costs of any identification and records check conducted pursuant to the preceding sentence shall be paid by the licensee or applicant. Notwithstanding any other provision of law, the Attorney General may provide all the results of the search to the Commission, and, in accordance with regulations prescribed under this section, the Commission may provide such results to the licensee or applicant submitting such fingerprints.” Amendment by [Pub. L. 109–58][/us/pl/109/58], § 652(1)(D), which misquoted the sentence to be stricken by leaving out the word “the” before “licensee”, was nevertheless executed to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 109–58, § 652(2)(A)][/us/pl/109/58/s652/2/A], substituted “requirements—” for “, subject to public notice and comment, regulations—” in introductory provisions.
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 652(2)(A), substituted “requirements—” for “, subject to public notice and comment, regulations—” in introductory provisions.
 
-    Subsec. (c)(2)(B). [Pub. L. 109–58, § 652(2)(B)][/us/pl/109/58/s652/2/B], substituted “unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) of this section” for “unescorted access to the facility of a licensee or applicant”.
+    Subsec. (c)(2)(B). [Pub. L. 109–58][/us/pl/109/58], § 652(2)(B), substituted “unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) of this section” for “unescorted access to the facility of a licensee or applicant”.
 
-    Subsecs. (d), (e). [Pub. L. 109–58, § 652(3)][/us/pl/109/58/s652/3], (4), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 109–58][/us/pl/109/58], § 652(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date__ 
 
-[Pub. L. 99–399, title VI, § 606(b)][/us/pl/99/399/s606/b], Aug. 27, 1986, [100 Stat. 877][/us/stat/100/877], provided that: 
+[Pub. L. 99–399, title VI][/us/pl/99/399/tVI], § 606(b), Aug. 27, 1986, [100 Stat. 877][/us/stat/100/877], provided that: 
 
 > “The provisions of subsection a. of section 149 of the Atomic Energy Act of 1954 \[subsec. (a) of this section\], as added by this Act, shall take effect upon the promulgation of regulations by the Nuclear Regulatory Commission as set forth in subsection c. of such section \[subsec. (c) of this section\]. Such regulations shall be promulgated not later than 6 months after the date of the enactment of this Act \[Aug. 27, 1986\].”
 
@@ -140,19 +140,19 @@
 [/us/usc/t42/s2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2167
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/99/399/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs606%2Fa
+[/us/pl/99/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVI
 [/us/stat/100/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F876
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/109/58/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs652
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F810
-[/us/pl/109/58/s652/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs652%2F1
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2167
-[/us/pl/109/58/s652/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs652%2F1%2FD
-[/us/pl/109/58/s652/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs652%2F2%2FA
-[/us/pl/109/58/s652/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs652%2F2%2FB
-[/us/pl/109/58/s652/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs652%2F3
-[/us/pl/99/399/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs606%2Fb
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/99/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVI
 [/us/stat/100/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F877
 
 

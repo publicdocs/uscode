@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this part, any repository constructed on a site approved under this part shall be designed and constructed to permit the retrieval of any spent nuclear fuel placed in such repository, during an appropriate period of operation of the facility, for any reason pertaining to the public health and safety, or the environment, or for the purpose of permitting the recovery of the economically valuable contents of such spent fuel. The Secretary shall specify the appropriate period of retrievability with respect to any repository at the time of design of such repository, and such aspect of such repository shall be subject to approval or disapproval by the Commission as part of the construction authorization process under subsections (b) through (d) of [section 10134 of this title][/us/usc/t42/s10134].
 
-([Pub. L. 97–425, title I, § 122][/us/pl/97/425/s122], Jan. 7, 1983, [96 Stat. 2228][/us/stat/96/2228].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 122, Jan. 7, 1983, [96 Stat. 2228][/us/stat/96/2228].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s10134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10134
-[/us/pl/97/425/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs122
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2228
 
 

@@ -25,7 +25,7 @@
 
     (d) as authorizing any entity established or acting under the provisions hereof to study, plan, or recommend the transfer of waters between areas under the jurisdiction of more than one river basin commission or entity performing the function of a river basin commission.
 
-([Pub. L. 89–80, § 3][/us/pl/89/80/s3], July 22, 1965, [79 Stat. 244][/us/stat/79/244].)
+([Pub. L. 89–80][/us/pl/89/80], § 3, July 22, 1965, [79 Stat. 244][/us/stat/79/244].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs3
+[/us/pl/89/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80
 [/us/stat/79/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F244
 [/us/stat/36/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F2448
 

@@ -27,11 +27,11 @@
 
         The Attorney General shall ensure that no later than 1 year after September 13, 1994, the study required under subsection (a) of this section is completed and a report describing the findings made is submitted to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
-([Pub. L. 103–322, title IV, § 40291][/us/pl/103/322/s40291], Sept. 13, 1994, [108 Stat. 1939][/us/stat/108/1939].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40291, Sept. 13, 1994, [108 Stat. 1939][/us/stat/108/1939].)
 
  __Development of Research Agenda Identified by the Violence Against Women Act of 1994__ 
 
-[Pub. L. 106–386, div. B, title IV, § 1404][/us/pl/106/386/s1404], Oct. 28, 2000, [114 Stat. 1514][/us/stat/114/1514], provided that:
+[Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1404, Oct. 28, 2000, [114 Stat. 1514][/us/stat/114/1514], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40291
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1939
-[/us/pl/106/386/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1404
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1514
 
 

@@ -19,7 +19,7 @@
 
     (b) If the President determines it necessary in order to achieve such purposes the President may, in accordance with the provisions of chapter 9 of title 5, provide for a reorganization, including any required realignment of the respective programs of the Secretaries under this subchapter.
 
-([Pub. L. 96–294, title II, § 219][/us/pl/96/294/s219], June 30, 1980, [94 Stat. 695][/us/stat/94/695].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 219, June 30, 1980, [94 Stat. 695][/us/stat/94/695].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs219
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F695
 
 

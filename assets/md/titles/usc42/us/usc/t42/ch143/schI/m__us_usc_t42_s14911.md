@@ -33,7 +33,7 @@
 
         Except as otherwise provided in this chapter, the Secretary may prescribe such regulations as may be necessary to carry out central authority functions on behalf of the United States.
 
-([Pub. L. 106–279, title I, § 101][/us/pl/106/279/s101], Oct. 6, 2000, [114 Stat. 827][/us/stat/114/827].)
+([Pub. L. 106–279, title I][/us/pl/106/279/tI], § 101, Oct. 6, 2000, [114 Stat. 827][/us/stat/114/827].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/279/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs101
+[/us/pl/106/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtI
 [/us/stat/114/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F827
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

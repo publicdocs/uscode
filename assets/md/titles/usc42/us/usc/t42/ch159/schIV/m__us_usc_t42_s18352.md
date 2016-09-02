@@ -35,7 +35,7 @@
 
             The operations, management, and utilization of the ISS shall be conducted in a manner that provides opportunities for collaboration with other research programs and objectives of the United States Government in cooperation with commercial suppliers, users, and developers.
 
-([Pub. L. 111–267, title V, § 502][/us/pl/111/267/s502], Oct. 11, 2010, [124 Stat. 2823][/us/stat/124/2823].)
+([Pub. L. 111–267, title V][/us/pl/111/267/tV], § 502, Oct. 11, 2010, [124 Stat. 2823][/us/stat/124/2823].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s18354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18354
-[/us/pl/111/267/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs502
+[/us/pl/111/267/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtV
 [/us/stat/124/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2823
 
 

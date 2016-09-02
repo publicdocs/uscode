@@ -31,11 +31,11 @@
 
         (2) submit to Congress a report that describes the results of each evaluation.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3195][/us/pl/101/510/s3195], as added [Pub. L. 110–69, title V, § 5003(d)(3)][/us/pl/110/69/s5003/d/3], Aug. 9, 2007, [121 Stat. 611][/us/stat/121/611]; amended [Pub. L. 111–358, title IX, § 901(c)(2)][/us/pl/111/358/s901/c/2], Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3195, as added [Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5003(d)(3), Aug. 9, 2007, [121 Stat. 611][/us/stat/121/611]; amended [Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 901(c)(2), Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
 
  __References in Text__ 
 
-    Subparts 3 and 4, referred to in subsec. (b), relate to Centers of Excellence and summer institutes, respectively. Prior to amendment by [Pub. L. 111–358][/us/pl/111/358], subsec. (b) also contained reference to subpart 1, which related to specialty schools for science and mathematics and was repealed by [Pub. L. 111–358, title IX, § 901(c)(1)][/us/pl/111/358/s901/c/1], Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044]. See 2011 Amendment note below.
+    Subparts 3 and 4, referred to in subsec. (b), relate to Centers of Excellence and summer institutes, respectively. Prior to amendment by [Pub. L. 111–358][/us/pl/111/358], subsec. (b) also contained reference to subpart 1, which related to specialty schools for science and mathematics and was repealed by [Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 901(c)(1), Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044]. See 2011 Amendment note below.
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/101/510/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3195
-[/us/pl/110/69/s5003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fd%2F3
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F611
-[/us/pl/111/358/s901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs901%2Fc%2F2
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4044
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
-[/us/pl/111/358/s901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs901%2Fc%2F1
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4044
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 

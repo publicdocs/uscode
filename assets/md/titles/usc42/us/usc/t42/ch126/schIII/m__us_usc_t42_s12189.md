@@ -17,7 +17,7 @@
 
     Any person that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes shall offer such examinations or courses in a place and manner accessible to persons with disabilities or offer alternative accessible arrangements for such individuals.
 
-([Pub. L. 101–336, title III, § 309][/us/pl/101/336/s309], July 26, 1990, [104 Stat. 365][/us/stat/104/365].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 309, July 26, 1990, [104 Stat. 365][/us/stat/104/365].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/336/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs309
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F365
 [/us/pl/101/336/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs310%2Fa
 [/us/usc/t42/s12181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181

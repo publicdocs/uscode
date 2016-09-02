@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This part, originally designated part E and subsequently redesignated part F by [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3267][/us/stat/92/3267], was changed to part D for purposes of codification.
+    This part, originally designated part E and subsequently redesignated part F by [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3267][/us/stat/92/3267], was changed to part D for purposes of codification.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3267
 
 

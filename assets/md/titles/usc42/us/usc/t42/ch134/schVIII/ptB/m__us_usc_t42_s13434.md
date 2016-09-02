@@ -25,7 +25,7 @@
 
         (2) the establishment of a mobile small-scale oilseed pressing and esterification unit and a stationary small-scale commercial oilseed pressing and esterification unit.
 
-([Pub. L. 102–486, title XX, § 2024][/us/pl/102/486/s2024], Oct. 24, 1992, [106 Stat. 3062][/us/stat/106/3062].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2024, Oct. 24, 1992, [106 Stat. 3062][/us/stat/106/3062].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2024
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3062
 
 

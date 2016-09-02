@@ -89,7 +89,7 @@
 
             There are authorized to be appropriated to carry out this paragraph, for each of fiscal years 2011 through 2014, $5,000,000.
 
-([Pub. L. 111–148, title VI, § 6703(b)(1)][/us/pl/111/148/s6703/b/1], (2), Mar. 23, 2010, [124 Stat. 798][/us/stat/124/798], 799.)
+([Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(b)(1), (2), Mar. 23, 2010, [124 Stat. 798][/us/stat/124/798], 799.)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–148, title VI, § 6702][/us/pl/111/148/s6702], Mar. 23, 2010, [124 Stat. 782][/us/stat/124/782], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6702, Mar. 23, 2010, [124 Stat. 782][/us/stat/124/782], provided that: 
 
 > “Except as otherwise specifically provided, any term that is defined in section 2011 of the Social Security Act \[[42 U.S.C. 1397j][/us/usc/t42/s1397j]\] (as added by section 6703(a)) and is used in this subtitle \[subtitle H (§§ 6701–6703) of title VI of [Pub. L. 111–148][/us/pl/111/148], enacting this section and sections 1320b–25, 1397j, 1397j–1, 1397k to 1397k–3, 1397l, and 1397m to 1397m–5 of this title, amending sections 602, 604, 622, 671 to 673, 1320a–7, 1320a–7a, 1397, 1397a, 1397c to 1397e, and 1397g of this title, and enacting provisions set out as notes under sections 602 and 1305 of this title\] has the meaning given such term by such section.”
 
@@ -115,12 +115,12 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
-[/us/pl/111/148/s6703/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fb%2F1
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F798
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/148/s6702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6702
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F782
 [/us/usc/t42/s1397j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397j
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

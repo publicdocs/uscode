@@ -51,7 +51,7 @@
 
     (17) Samantha Runnion, who was 5 years old, was abducted, sexually assaulted, and murdered in California on July 15, 2002.
 
-([Pub. L. 109–248, title I, § 102][/us/pl/109/248/s102], July 27, 2006, [120 Stat. 590][/us/stat/120/590].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 102, July 27, 2006, [120 Stat. 590][/us/stat/120/590].)
 
  __References in Text__ 
 
@@ -59,23 +59,23 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–22, title V, § 501][/us/pl/114/22/s501], May 29, 2015, [129 Stat. 258][/us/stat/129/258], provided that: 
+[Pub. L. 114–22, title V][/us/pl/114/22/tV], § 501, May 29, 2015, [129 Stat. 258][/us/stat/129/258], provided that: 
 
 > “This title \[enacting [section 16928a of this title][/us/usc/t42/s16928a]\] may be cited as the ‘Military Sex Offender Reporting Act of 2015’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–400, § 1][/us/pl/110/400/s1], Oct. 13, 2008, [122 Stat. 4224][/us/stat/122/4224], provided that: 
+[Pub. L. 110–400][/us/pl/110/400], § 1, Oct. 13, 2008, [122 Stat. 4224][/us/stat/122/4224], provided that: 
 
 > “This Act \[enacting sections 16915a and 16915b of this title, amending [section 16981 of this title][/us/usc/t42/s16981], and enacting provisions set out as a note under [section 16981 of this title][/us/usc/t42/s16981]\] may be cited as the ‘Keeping the Internet Devoid of Sexual Predators Act of 2008’ or the ‘KIDS Act of 2008’.”
 
  __Short Title__ 
 
-[Pub. L. 109–248, § 1(a)][/us/pl/109/248/s1/a], July 27, 2006, [120 Stat. 587][/us/stat/120/587], provided that: 
+[Pub. L. 109–248][/us/pl/109/248], § 1(a), July 27, 2006, [120 Stat. 587][/us/stat/120/587], provided that: 
 
 > “This Act \[enacting this chapter, sections 3765, 3797ee, and 3797ee–1 of this title, chapter 109B and sections 2252C, 2257A, 2260A, 3299, and 4248 of Title 18, Crimes and Criminal Procedure, amending sections 671, 5772, 5780, 13032, and 14135a of this title, [section 1101 of Title 8][/us/usc/t8/s1101], Aliens and Nationality, sections 1001, 1153, 1154, 1201, 1227, 1466, 1467, 1591, 2241, 2242, 2243, 2244, 2245, 2251, 2252, 2252A, 2252B, 2253, 2254, 2255, 2257, 2258, 2260, 2422, 2423, 3142, 3509, 3559, 3563, 3583, 3592, 3621, 3771, 4042, 4209, 4241, and 4247 of Title 18, [section 841 of Title 21][/us/usc/t21/s841], Food and Drugs, [section 534 of Title 28][/us/usc/t28/s534], Judiciary and Judicial Procedure, repealing sections 14071 to 14073 of this title, enacting provisions set out as notes under sections 671, 5611, 13701, and 14071 of this title, sections 2251 and 2257 of Title 18, and provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], and amending provisions set out as notes under [section 13751 of this title][/us/usc/t42/s13751] and [section 951 of Title 10][/us/usc/t10/s951], Armed Forces\] may be cited as the ‘Adam Walsh Child Protection and Safety Act of 2006’.”
 
-[Pub. L. 109–248, title I, § 101][/us/pl/109/248/s101], July 27, 2006, [120 Stat. 590][/us/stat/120/590], provided that: 
+[Pub. L. 109–248, title I][/us/pl/109/248/tI], § 101, July 27, 2006, [120 Stat. 590][/us/stat/120/590], provided that: 
 
 > “This title \[enacting this subchapter and chapter 109B of Title 18, Crimes and Criminal Procedure, amending sections 671, 5772, 5780, 13032, and 14135a of this title, sections 1001, 3563, 3583, 4042, and 4209 of Title 18, and [section 534 of Title 28][/us/usc/t28/s534], Judiciary and Judicial Procedure, repealing sections 14071 to 14073 of this title, enacting provisions set out as notes under sections 671 and 14071 of this title and provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], and amending provisions set out as a note under [section 951 of Title 10][/us/usc/t10/s951], Armed Forces\] may be cited as the ‘Sex Offender Registration and Notification Act’.”
 
@@ -86,18 +86,18 @@
 ----------
 ----------
 
-[/us/pl/109/248/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs102
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587
-[/us/pl/114/22/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs501
+[/us/pl/114/22/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtV
 [/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
 [/us/usc/t42/s16928a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16928a
-[/us/pl/110/400/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400%2Fs1
+[/us/pl/110/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400
 [/us/stat/122/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4224
 [/us/usc/t42/s16981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16981
 [/us/usc/t42/s16981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16981
-[/us/pl/109/248/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs1%2Fa
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
@@ -105,7 +105,7 @@
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t42/s13751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13751
 [/us/usc/t10/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs951
-[/us/pl/109/248/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs101
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994

@@ -341,7 +341,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 351A, as added [Pub. L. 107–188, title II, § 201(a)][/us/pl/107/188/s201/a], June 12, 2002, [116 Stat. 637][/us/stat/116/637]; amended [Pub. L. 107–296, title XVII, § 1709(a)][/us/pl/107/296/s1709/a], Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 351A, as added [Pub. L. 107–188, title II][/us/pl/107/188/tII], § 201(a), June 12, 2002, [116 Stat. 637][/us/stat/116/637]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1709(a), Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318].)
 
  __References in Text__ 
 
@@ -363,19 +363,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–188, title II, § 203(b)][/us/pl/107/188/s203/b], June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
+[Pub. L. 107–188, title II][/us/pl/107/188/tII], § 203(b), June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
 
 > “Subsection (h) of section 351A of the Public Health Service Act \[[42 U.S.C. 262a(h)][/us/usc/t42/s262a/h]\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[[Pub. L. 104–132][/us/pl/104/132], Apr. 24, 1996, [110 Stat. 1214][/us/stat/110/1214]\].”
 
  __Regulations__ 
 
-[Pub. L. 107–188, title II, § 203(a)][/us/pl/107/188/s203/a], June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
+[Pub. L. 107–188, title II][/us/pl/107/188/tII], § 203(a), June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that: 
 
 > “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[[Pub. L. 104–132][/us/pl/104/132], [42 U.S.C. 262][/us/usc/t42/s262] note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[[42 U.S.C. 262a][/us/usc/t42/s262a]\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
 
  __National Science Advisory Board for Biosecurity__ 
 
-[Pub. L. 109–417, title II, § 205][/us/pl/109/417/s205], Dec. 19, 2006, [120 Stat. 2851][/us/stat/120/2851], provided that: 
+[Pub. L. 109–417, title II][/us/pl/109/417/tII], § 205, Dec. 19, 2006, [120 Stat. 2851][/us/stat/120/2851], provided that: 
 
 > “The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
 
@@ -385,11 +385,11 @@
 
  __Report to Congress__ 
 
-    [Pub. L. 107–188, title II, § 201(b)][/us/pl/107/188/s201/b], June 12, 2002, [116 Stat. 646][/us/stat/116/646], required the Secretary of Health and Human Services to report to Congress not later than one year after June 12, 2002, on the implementation, compliance, and future plans under this section.
+    [Pub. L. 107–188, title II][/us/pl/107/188/tII], § 201(b), June 12, 2002, [116 Stat. 646][/us/stat/116/646], required the Secretary of Health and Human Services to report to Congress not later than one year after June 12, 2002, on the implementation, compliance, and future plans under this section.
 
  __Implementation by Department of Health and Human Services__ 
 
-[Pub. L. 107–188, title II, § 202][/us/pl/107/188/s202], June 12, 2002, [116 Stat. 646][/us/stat/116/646], provided that:
+[Pub. L. 107–188, title II][/us/pl/107/188/tII], § 202, June 12, 2002, [116 Stat. 646][/us/stat/116/646], provided that:
 
 >     “(a)  __Date Certain for Notice of Possession__  __.—__ 
 
@@ -567,9 +567,9 @@ Sec. 6. Coordination of Federal Oversight for BSAT Security. To ensure that the 
 [/us/usc/t7/s8401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401%2Fa%2F1
 [/us/usc/t18/s175b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs201%2Fa
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F637
-[/us/pl/107/296/s1709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1709%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2318
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -586,21 +586,21 @@ Sec. 6. Coordination of Federal Oversight for BSAT Security. To ensure that the 
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/188/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs203%2Fb
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F647
 [/us/usc/t42/s262a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fh
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/stat/110/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1214
-[/us/pl/107/188/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs203%2Fa
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F647
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
-[/us/pl/109/417/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs205
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2851
-[/us/pl/107/188/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs201%2Fb
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F646
-[/us/pl/107/188/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs202
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F646
 [/us/usc/t42/s262a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fg
 [/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a

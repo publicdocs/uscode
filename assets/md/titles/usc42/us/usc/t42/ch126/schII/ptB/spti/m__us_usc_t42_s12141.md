@@ -41,11 +41,11 @@
 
         The term “Secretary” means the Secretary of Transportation.
 
-([Pub. L. 101–336, title II, § 221][/us/pl/101/336/s221], July 26, 1990, [104 Stat. 338][/us/stat/104/338].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 221, July 26, 1990, [104 Stat. 338][/us/stat/104/338].)
 
  __Effective Date__ 
 
-[Pub. L. 101–336, title II, § 231][/us/pl/101/336/s231], July 26, 1990, [104 Stat. 346][/us/stat/104/346], provided that:
+[Pub. L. 101–336, title II][/us/pl/101/336/tII], § 231, July 26, 1990, [104 Stat. 346][/us/stat/104/346], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t42/s12161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12161
-[/us/pl/101/336/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs221
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F338
-[/us/pl/101/336/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F346
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 

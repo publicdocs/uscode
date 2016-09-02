@@ -153,7 +153,7 @@
 
         Each grantee shall submit an annual performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the grantee and subgrantee activities that have been carried out with grant funds made available under subsection (a) or [section 10409 of this title][/us/usc/t42/s10409], contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
-([Pub. L. 98–457, title III, § 306][/us/pl/98/457/s306], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3489][/us/stat/124/3489].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 306, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3489][/us/stat/124/3489].)
 
  __References in Text__ 
 
@@ -165,7 +165,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 10406, [Pub. L. 98–457, title III, § 307][/us/pl/98/457/s307], Oct. 9, 1984, [98 Stat. 1761][/us/stat/98/1761], related to prohibition of discrimination, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See subsec. (c)(2) of this section.
+    A prior section 10406, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 307, Oct. 9, 1984, [98 Stat. 1761][/us/stat/98/1761], related to prohibition of discrimination, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See subsec. (c)(2) of this section.
 
     A prior [section 306 of Pub. L. 98–457][/us/pl/98/457/s306] was classified to [section 10405 of this title][/us/usc/t42/s10405] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -192,8 +192,8 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
 [/us/usc/t42/s10409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10409
-[/us/pl/98/457/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs306
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3489
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728
@@ -204,7 +204,7 @@
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/pl/98/457/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs307
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1761
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/pl/98/457/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs306

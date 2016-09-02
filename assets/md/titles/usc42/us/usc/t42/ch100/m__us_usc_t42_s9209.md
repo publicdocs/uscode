@@ -17,7 +17,7 @@
 
     The Secretary shall utilize the technological and management capabilities, equipment, and facilities of the National Aeronautics and Space Administration to the maximum extent practicable in carrying out his duties under this chapter, and shall enter into such additional agreements with the Administrator of such Administration as may be necessary for this purpose.
 
-([Pub. L. 96–345, § 10][/us/pl/96/345/s10], Sept. 8, 1980, [94 Stat. 1145][/us/stat/94/1145].)
+([Pub. L. 96–345][/us/pl/96/345], § 10, Sept. 8, 1980, [94 Stat. 1145][/us/stat/94/1145].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/345/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs10
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1145
 
 

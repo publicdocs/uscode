@@ -17,7 +17,7 @@
 
     The President shall establish within the Executive Office of the President a President’s Committee on Science and Technology (hereinafter referred to as the “Committee”).
 
-([Pub. L. 94–282, title III, § 301][/us/pl/94/282/s301], May 11, 1976, [90 Stat. 468][/us/stat/90/468].)
+([Pub. L. 94–282, title III][/us/pl/94/282/tIII], § 301, May 11, 1976, [90 Stat. 468][/us/stat/90/468].)
 
  __Abolition of President’s Committee on Science and Technology; Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/282/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs301
+[/us/pl/94/282/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIII
 [/us/stat/90/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F468
 [/us/stat/91/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1634
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601

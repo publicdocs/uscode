@@ -45,15 +45,15 @@
 
         Contract authority under this division shall be subject to the availability of appropriations. Assistance made available under this division shall only be used for activities that are in addition to those which would otherwise be carried out in the area in the absence of such funds.
 
-([Pub. L. 101–610, title I, § 199M][/us/pl/101/610/s199M], formerly § 135, Nov. 16, 1990, [104 Stat. 3149][/us/stat/104/3149]; renumbered § 199O, renumbered § 199M, [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], (e)(8)(B), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 816, as amended [Pub. L. 103–304, § 3(b)(1)][/us/pl/103/304/s3/b/1], Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199M, formerly § 135, Nov. 16, 1990, [104 Stat. 3149][/us/stat/104/3149]; renumbered § 199O, renumbered § 199M, [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), (e)(8)(B), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 816, as amended [Pub. L. 103–304][/us/pl/103/304], § 3(b)(1), Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 12555 of this title][/us/usc/t42/s12555] prior to renumbering by [Pub. L. 103–82, § 101(a)][/us/pl/103/82/s101/a].
+    Section was formerly classified to [section 12555 of this title][/us/usc/t42/s12555] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 101(a).
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–304][/us/pl/103/304] amended directory language of [Pub. L. 103–82, § 101(a)(3)][/us/pl/103/82/s101/a/3], which renumbered [section 135 of Pub. L. 101–610][/us/pl/101/610/s135] as section 199O.
+    1994—[Pub. L. 103–304][/us/pl/103/304] amended directory language of [Pub. L. 103–82][/us/pl/103/82], § 101(a)(3), which renumbered [section 135 of Pub. L. 101–610][/us/pl/101/610/s135] as section 199O.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -72,16 +72,16 @@
 
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/usc/t5/s5911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5911
-[/us/pl/101/610/s199M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199M
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3149
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
-[/us/pl/103/304/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F1
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1567
 [/us/usc/t42/s12555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12555
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
-[/us/pl/103/82/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa%2F3
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs135
 [/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/pl/103/304/s3/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F10%2FB

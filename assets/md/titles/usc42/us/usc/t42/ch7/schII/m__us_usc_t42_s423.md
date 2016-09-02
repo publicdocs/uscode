@@ -343,225 +343,225 @@
 
         For provisions relating to limitation on payments to prisoners, see [section 402(x) of this title][/us/usc/t42/s402/x].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 223, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(a), [70 Stat. 815][/us/stat/70/815]; amended [Pub. L. 85–840, title II][/us/pl/85/840], §§ 202, 204(b), Aug. 28, 1958, [72 Stat. 1020][/us/stat/72/1020], 1021; [Pub. L. 86–778, title III, § 303(f)][/us/pl/86/778/s303/f], title IV, §§ 401(a), (b), 402(a)–(d), 403(b), Sept. 13, 1960, [74 Stat. 964][/us/stat/74/964], 967, 969; [Pub. L. 87–64, title I, § 102(b)(2)(B)][/us/pl/87/64/s102/b/2/B], (C), (c)(2)(C), (3)(D), (E), June 30, 1961, [75 Stat. 134][/us/stat/75/134], 135; [Pub. L. 89–97, title III][/us/pl/89/97], §§ 302(e), 303(a)(2), (b)(3), (4), (c), 304(m), (n), 328(c), 344(b)–(d), July 30, 1965, [79 Stat. 366][/us/stat/79/366], 367, 370, 400, 413; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 105(b), 158(a), (b), (c)(6)–(8), Jan. 2, 1968, [81 Stat. 833][/us/stat/81/833], 867–869; [Pub. L. 92–603, title I][/us/pl/92/603], §§ 104(c), (d), 116(a), 117(b), 118(a), Oct. 30, 1972, [86 Stat. 1340][/us/stat/86/1340], 1350, 1351; [Pub. L. 95–216, title III, § 335][/us/pl/95/216/s335], Dec. 20, 1977, [91 Stat. 1547][/us/stat/91/1547]; [Pub. L. 96–265, title I, § 102(b)][/us/pl/96/265/s102/b], title III, §§ 302(a)(1), 303(b)(1)(A), (2)(A), 306(c), 309(a), June 9, 1980, [94 Stat. 443][/us/stat/94/443], 450, 451, 453, 458, 459; [Pub. L. 96–473, § 5(a)(1)][/us/pl/96/473/s5/a/1], (c), Oct. 19, 1980, [94 Stat. 2264][/us/stat/94/2264], 2265; [Pub. L. 97–123, § 6][/us/pl/97/123/s6], Dec. 29, 1981, [95 Stat. 1664][/us/stat/95/1664]; [Pub. L. 97–455, § 2][/us/pl/97/455/s2], Jan. 12, 1983, [96 Stat. 2498][/us/stat/96/2498]; [Pub. L. 98–21, title II, § 201(c)(1)(E)][/us/pl/98/21/s201/c/1/E], (3), title III, §§ 309(o), 332(b), 339(b), Apr. 20, 1983, [97 Stat. 109][/us/stat/97/109], 117, 129, 134; [Pub. L. 98–118, § 2][/us/pl/98/118/s2], Oct. 11, 1983, [97 Stat. 803][/us/stat/97/803]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2661(m), 2662(c)(2), (i), 2663(a)(16), July 18, 1984, [98 Stat. 1158–1160][/us/stat/98/1158-1160], 1165; [Pub. L. 98–460][/us/pl/98/460], §§ 2(a), 3(a)(1), 4(a)(1), 7(a), 9(b)(1), Oct. 9, 1984, [98 Stat. 1794][/us/stat/98/1794], 1799, 1800, 1803, 1805; [Pub. L. 99–272, title XII, § 12107(b)][/us/pl/99/272/s12107/b], Apr. 7, 1986, [100 Stat. 286][/us/stat/100/286]; [Pub. L. 99–514, title XVIII, § 1883(a)(10)][/us/pl/99/514/s1883/a/10], Oct. 22, 1986, [100 Stat. 2916][/us/stat/100/2916]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9009, 9010(a), (e)(2), Dec. 22, 1987, [101 Stat. 1330–293][/us/stat/101/1330-293], 1330–294; [Pub. L. 100–647, title VIII][/us/pl/100/647], §§ 8001(a), 8006, Nov. 10, 1988, [102 Stat. 3778][/us/stat/102/3778], 3781; [Pub. L. 101–239, title X][/us/pl/101/239], §§ 10101, 10305(c), (d), Dec. 19, 1989, [103 Stat. 2471][/us/stat/103/2471], 2483; [Pub. L. 101–508, title V][/us/pl/101/508], §§ 5102, 5103(a), (b)(2)–(5), 5118(a), Nov. 5, 1990, [104 Stat. 1388–250][/us/stat/104/1388-250], 1388–251, 1388–278; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title II, § 201(a)(4)(A), title III, § 321(a)(19), (f)(1), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1499, 1537, 1540; [Pub. L. 104–121, title I][/us/pl/104/121], §§ 102(b)(2), 105(a)(1), Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848], 852; [Pub. L. 106–170, title I, § 112(a)][/us/pl/106/170/s112/a], Dec. 17, 1999, [113 Stat. 1881][/us/stat/113/1881]; [Pub. L. 108–203, title II, § 211(b)][/us/pl/108/203/s211/b], Mar. 2, 2004, [118 Stat. 518][/us/stat/118/518]; [Pub. L. 114–74, title VIII][/us/pl/114/74], §§ 812(a), 825(a), Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], 610.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 223, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(a), [70 Stat. 815][/us/stat/70/815]; amended [Pub. L. 85–840, title II][/us/pl/85/840/tII], §§ 202, 204(b), Aug. 28, 1958, [72 Stat. 1020][/us/stat/72/1020], 1021; [Pub. L. 86–778, title III][/us/pl/86/778/tIII], § 303(f), title IV, §§ 401(a), (b), 402(a)–(d), 403(b), Sept. 13, 1960, [74 Stat. 964][/us/stat/74/964], 967, 969; [Pub. L. 87–64, title I][/us/pl/87/64/tI], § 102(b)(2)(B), (C), (c)(2)(C), (3)(D), (E), June 30, 1961, [75 Stat. 134][/us/stat/75/134], 135; [Pub. L. 89–97, title III][/us/pl/89/97/tIII], §§ 302(e), 303(a)(2), (b)(3), (4), (c), 304(m), (n), 328(c), 344(b)–(d), July 30, 1965, [79 Stat. 366][/us/stat/79/366], 367, 370, 400, 413; [Pub. L. 90–248, title I][/us/pl/90/248/tI], §§ 105(b), 158(a), (b), (c)(6)–(8), Jan. 2, 1968, [81 Stat. 833][/us/stat/81/833], 867–869; [Pub. L. 92–603, title I][/us/pl/92/603/tI], §§ 104(c), (d), 116(a), 117(b), 118(a), Oct. 30, 1972, [86 Stat. 1340][/us/stat/86/1340], 1350, 1351; [Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 335, Dec. 20, 1977, [91 Stat. 1547][/us/stat/91/1547]; [Pub. L. 96–265, title I][/us/pl/96/265/tI], § 102(b), title III, §§ 302(a)(1), 303(b)(1)(A), (2)(A), 306(c), 309(a), June 9, 1980, [94 Stat. 443][/us/stat/94/443], 450, 451, 453, 458, 459; [Pub. L. 96–473][/us/pl/96/473], § 5(a)(1), (c), Oct. 19, 1980, [94 Stat. 2264][/us/stat/94/2264], 2265; [Pub. L. 97–123][/us/pl/97/123], § 6, Dec. 29, 1981, [95 Stat. 1664][/us/stat/95/1664]; [Pub. L. 97–455][/us/pl/97/455], § 2, Jan. 12, 1983, [96 Stat. 2498][/us/stat/96/2498]; [Pub. L. 98–21, title II][/us/pl/98/21/tII], § 201(c)(1)(E), (3), title III, §§ 309(o), 332(b), 339(b), Apr. 20, 1983, [97 Stat. 109][/us/stat/97/109], 117, 129, 134; [Pub. L. 98–118][/us/pl/98/118], § 2, Oct. 11, 1983, [97 Stat. 803][/us/stat/97/803]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], §§ 2661(m), 2662(c)(2), (i), 2663(a)(16), July 18, 1984, [98 Stat. 1158–1160][/us/stat/98/1158-1160], 1165; [Pub. L. 98–460][/us/pl/98/460], §§ 2(a), 3(a)(1), 4(a)(1), 7(a), 9(b)(1), Oct. 9, 1984, [98 Stat. 1794][/us/stat/98/1794], 1799, 1800, 1803, 1805; [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12107(b), Apr. 7, 1986, [100 Stat. 286][/us/stat/100/286]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1883(a)(10), Oct. 22, 1986, [100 Stat. 2916][/us/stat/100/2916]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], §§ 9009, 9010(a), (e)(2), Dec. 22, 1987, [101 Stat. 1330–293][/us/stat/101/1330-293], 1330–294; [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], §§ 8001(a), 8006, Nov. 10, 1988, [102 Stat. 3778][/us/stat/102/3778], 3781; [Pub. L. 101–239, title X][/us/pl/101/239/tX], §§ 10101, 10305(c), (d), Dec. 19, 1989, [103 Stat. 2471][/us/stat/103/2471], 2483; [Pub. L. 101–508, title V][/us/pl/101/508/tV], §§ 5102, 5103(a), (b)(2)–(5), 5118(a), Nov. 5, 1990, [104 Stat. 1388–250][/us/stat/104/1388-250], 1388–251, 1388–278; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), title II, § 201(a)(4)(A), title III, § 321(a)(19), (f)(1), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1499, 1537, 1540; [Pub. L. 104–121, title I][/us/pl/104/121/tI], §§ 102(b)(2), 105(a)(1), Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848], 852; [Pub. L. 106–170, title I][/us/pl/106/170/tI], § 112(a), Dec. 17, 1999, [113 Stat. 1881][/us/stat/113/1881]; [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 211(b), Mar. 2, 2004, [118 Stat. 518][/us/stat/118/518]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], §§ 812(a), 825(a), Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], 610.)
 
  __References in Text__ 
 
-    Section 102 of the Senior Citizens’ Right to Work Act of 1996, referred to in subsec. (d)(4)(A), is [section 102 of title I of Pub. L. 104–121][/us/pl/104/121/s102], which amended this section and [section 403 of this title][/us/usc/t42/s403] and enacted provisions set out as a note under [section 403 of this title][/us/usc/t42/s403].
+    Section 102 of the Senior Citizens’ Right to Work Act of 1996, referred to in subsec. (d)(4)(A), is [section 102 of title I of Pub. L. 104–121][/us/pl/104/121/tI/s102], which amended this section and [section 403 of this title][/us/usc/t42/s403] and enacted provisions set out as a note under [section 403 of this title][/us/usc/t42/s403].
 
  __Amendments__ 
 
-    2015—Subsec. (d)(4)(C). [Pub. L. 114–74, § 825(a)][/us/pl/114/74/s825/a], added subpar. (C).
+    2015—Subsec. (d)(4)(C). [Pub. L. 114–74][/us/pl/114/74], § 825(a), added subpar. (C).
 
-    Subsec. (d)(5)(C). [Pub. L. 114–74, § 812(a)][/us/pl/114/74/s812/a], added subpar. (C).
+    Subsec. (d)(5)(C). [Pub. L. 114–74][/us/pl/114/74], § 812(a), added subpar. (C).
 
     2004—Subsec. (a)(1)(C) to (E). [Pub. L. 108–203][/us/pl/108/203] added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
     1999—Subsecs. (i), (j). [Pub. L. 106–170][/us/pl/106/170] added subsec. (i) and redesignated former subsec. (i) as (j).
 
-    1996—Subsec. (d)(2)(C). [Pub. L. 104–121, § 105(a)(1)][/us/pl/104/121/s105/a/1], added subpar. (C).
+    1996—Subsec. (d)(2)(C). [Pub. L. 104–121][/us/pl/104/121], § 105(a)(1), added subpar. (C).
 
-    Subsec. (d)(4)(A). [Pub. L. 104–121, § 102(b)(2)][/us/pl/104/121/s102/b/2], substituted “an amount equal to the exempt amount which would be applicable under [section 403(f)(8) of this title][/us/usc/t42/s403/f/8], to individuals described in subparagraph (D) thereof, if section 102 of the Senior Citizens’ Right to Work Act of 1996 had not been enacted” for “the exempt amount under [section 403(f)(8) of this title][/us/usc/t42/s403/f/8] which is applicable to individuals described in subparagraph (D) thereof”.
+    Subsec. (d)(4)(A). [Pub. L. 104–121][/us/pl/104/121], § 102(b)(2), substituted “an amount equal to the exempt amount which would be applicable under [section 403(f)(8) of this title][/us/usc/t42/s403/f/8], to individuals described in subparagraph (D) thereof, if section 102 of the Senior Citizens’ Right to Work Act of 1996 had not been enacted” for “the exempt amount under [section 403(f)(8) of this title][/us/usc/t42/s403/f/8] which is applicable to individuals described in subparagraph (D) thereof”.
 
-    1994—Subsecs. (b), (d)(2)(B). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    1994—Subsecs. (b), (d)(2)(B). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (d)(4). [Pub. L. 103–296, § 201(a)(4)(A)][/us/pl/103/296/s201/a/4/A], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (d)(4). [Pub. L. 103–296][/us/pl/103/296], § 201(a)(4)(A), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], in par. (4) as amended by [Pub. L. 103–296, § 201(a)(4)(A)][/us/pl/103/296/s201/a/4/A], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), in par. (4) as amended by [Pub. L. 103–296][/us/pl/103/296], § 201(a)(4)(A), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (d)(5). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    Subsec. (d)(5). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (f). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” in two places in closing provisions.
+    Subsec. (f). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places in closing provisions.
 
-    Subsec. (f)(2)(A). [Pub. L. 103–296, § 321(f)(1)(A)][/us/pl/103/296/s321/f/1/A], struck out “(in a case to which clause (ii)(II) does not apply)” after “new medical evidence and” in introductory provisions.
+    Subsec. (f)(2)(A). [Pub. L. 103–296][/us/pl/103/296], § 321(f)(1)(A), struck out “(in a case to which clause (ii)(II) does not apply)” after “new medical evidence and” in introductory provisions.
 
-    Subsec. (f)(2)(B)(ii). [Pub. L. 103–296, § 321(f)(1)(B)][/us/pl/103/296/s321/f/1/B], added cl. (ii) and struck out former cl. (ii) which read as follows: “the requirements of subclause (I) or (II) of subparagraph (A)(ii) are met; or”.
+    Subsec. (f)(2)(B)(ii). [Pub. L. 103–296][/us/pl/103/296], § 321(f)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “the requirements of subclause (I) or (II) of subparagraph (A)(ii) are met; or”.
 
-    Subsecs. (g), (h). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner’s” for “his” in subsec. (h)(1), and “Commissioner’s” for “Secretary’s” in subsec. (h)(2).
+    Subsecs. (g), (h). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner’s” for “his” in subsec. (h)(1), and “Commissioner’s” for “Secretary’s” in subsec. (h)(2).
 
-    Subsec. (i). [Pub. L. 103–296, § 321(a)(19)][/us/pl/103/296/s321/a/19], inserted heading.
+    Subsec. (i). [Pub. L. 103–296][/us/pl/103/296], § 321(a)(19), inserted heading.
 
-    1990—Subsec. (d)(2)(A). [Pub. L. 101–508, § 5103(a)(1)][/us/pl/101/508/s5103/a/1], struck out “(except a widow, surviving divorced wife, widower, or surviving divorced husband for purposes of section 402(e) or (f) of this title)” after “An individual”.
+    1990—Subsec. (d)(2)(A). [Pub. L. 101–508][/us/pl/101/508], § 5103(a)(1), struck out “(except a widow, surviving divorced wife, widower, or surviving divorced husband for purposes of section 402(e) or (f) of this title)” after “An individual”.
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 101–508, § 5103(a)(2)][/us/pl/101/508/s5103/a/2], (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “A widow, surviving divorced wife, widower, or surviving divorced husband shall not be determined to be under a disability (for purposes of section 402(e) or (f) of this title) unless his or her physical or mental impairment or impairments are of a level of severity which under regulations prescribed by the Secretary is deemed to be sufficient to preclude an individual from engaging in any gainful activity.”
+    Subsec. (d)(2)(B), (C). [Pub. L. 101–508][/us/pl/101/508], § 5103(a)(2), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “A widow, surviving divorced wife, widower, or surviving divorced husband shall not be determined to be under a disability (for purposes of section 402(e) or (f) of this title) unless his or her physical or mental impairment or impairments are of a level of severity which under regulations prescribed by the Secretary is deemed to be sufficient to preclude an individual from engaging in any gainful activity.”
 
-    Subsec. (e). [Pub. L. 101–508, § 5118(a)][/us/pl/101/508/s5118/a], designated existing provision as par. (1) and added par. (2).
+    Subsec. (e). [Pub. L. 101–508][/us/pl/101/508], § 5118(a), designated existing provision as par. (1) and added par. (2).
 
-    Subsec. (f). [Pub. L. 101–508, § 5103(b)(5)][/us/pl/101/508/s5103/b/5], struck out “(or gainful activity in the case of a widow, surviving divorced wife, widower, or surviving divorced husband),” after “gainful activity” in two places in first sentence following par. (4).
+    Subsec. (f). [Pub. L. 101–508][/us/pl/101/508], § 5103(b)(5), struck out “(or gainful activity in the case of a widow, surviving divorced wife, widower, or surviving divorced husband),” after “gainful activity” in two places in first sentence following par. (4).
 
-    Subsec. (f)(1)(B). [Pub. L. 101–508, § 5103(b)(2)][/us/pl/101/508/s5103/b/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+    Subsec. (f)(1)(B). [Pub. L. 101–508][/us/pl/101/508], § 5103(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
     “(B)(i) the individual is now able to engage in substantial gainful activity, or
 
     “(ii) if the individual is a widow or surviving divorced wife under [section 402(e) of this title][/us/usc/t42/s402/e] or a widower or surviving divorced husband under [section 402(f) of this title][/us/usc/t42/s402/f], the severity of his or her impairment or impairments is no longer deemed, under regulations prescribed by the Secretary, sufficient to preclude the individual from engaging in gainful activity; or”.
 
-    Subsec. (f)(2)(A)(ii). [Pub. L. 101–508, § 5103(b)(3)][/us/pl/101/508/s5103/b/3], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows:
+    Subsec. (f)(2)(A)(ii). [Pub. L. 101–508][/us/pl/101/508], § 5103(b)(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows:
 
     “(ii)(I) the individual is now able to engage in substantial gainful activity, or
 
     “(II) if the individual is a widow or surviving divorced wife under [section 402(e) of this title][/us/usc/t42/s402/e] or a widower or surviving divorced husband under [section 402(f) of this title][/us/usc/t42/s402/f], the severity of his or her impairment or impairments is no longer deemed under regulations prescribed by the Secretary sufficient to preclude the individual from engaging in gainful activity, or”.
 
-    Subsec. (f)(3). [Pub. L. 101–508, § 5103(b)(4)][/us/pl/101/508/s5103/b/4], substituted “therefore the individual is able to engage in substantial gainful activity; or” for “therefore—” and subpars. (A) and (B) which read as follows:
+    Subsec. (f)(3). [Pub. L. 101–508][/us/pl/101/508], § 5103(b)(4), substituted “therefore the individual is able to engage in substantial gainful activity; or” for “therefore—” and subpars. (A) and (B) which read as follows:
 
     “(A) the individual is able to engage in substantial gainful activity, or
 
     “(B) if the individual is a widow or surviving divorced wife under [section 402(e) of this title][/us/usc/t42/s402/e] or a widower or surviving divorced husband under [section 402(f) of this title][/us/usc/t42/s402/f], the severity of his or her impairment or impairments is not deemed under regulations prescribed by the Secretary sufficient to preclude the individual from engaging in gainful activity; or”.
 
-    Subsec. (g)(1). [Pub. L. 101–508, § 5102(1)][/us/pl/101/508/s5102/1], inserted “or” before “(ii)” and substituted “pending” for “pending, or (iii) June 1991” before period at end.
+    Subsec. (g)(1). [Pub. L. 101–508][/us/pl/101/508], § 5102(1), inserted “or” before “(ii)” and substituted “pending” for “pending, or (iii) June 1991” before period at end.
 
-    Subsec. (g)(3). [Pub. L. 101–508, § 5102(2)][/us/pl/101/508/s5102/2], struck out par. (3) which read as follows: “The provisions of paragraphs (1) and (2) shall apply with respect to determinations (that individuals are not entitled to benefits) which are made—
+    Subsec. (g)(3). [Pub. L. 101–508][/us/pl/101/508], § 5102(2), struck out par. (3) which read as follows: “The provisions of paragraphs (1) and (2) shall apply with respect to determinations (that individuals are not entitled to benefits) which are made—
 
     “(A) on or after January 12, 1983, or prior to such date but only on the basis of a timely request for a hearing under [section 421(d) of this title][/us/usc/t42/s421/d], or for an administrative review prior to such hearing, and
 
     “(B) prior to January 1, 1991.”
 
-    1989—Subsec. (f). [Pub. L. 101–239, § 10305(c)][/us/pl/101/239/s10305/c], inserted after first sentence of concluding provisions “In making for purposes of the preceding sentence any determination relating to fraudulent behavior by any individual or failure by any individual without good cause to cooperate or to take any required action, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
+    1989—Subsec. (f). [Pub. L. 101–239][/us/pl/101/239], § 10305(c), inserted after first sentence of concluding provisions “In making for purposes of the preceding sentence any determination relating to fraudulent behavior by any individual or failure by any individual without good cause to cooperate or to take any required action, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
 
-    Subsec. (g)(1)(iii). [Pub. L. 101–239, § 10101(1)][/us/pl/101/239/s10101/1], substituted “1991” for “1990”.
+    Subsec. (g)(1)(iii). [Pub. L. 101–239][/us/pl/101/239], § 10101(1), substituted “1991” for “1990”.
 
-    Subsec. (g)(2)(B). [Pub. L. 101–239, § 10305(d)][/us/pl/101/239/s10305/d], inserted at end “In making for purposes of this subparagraph any determination of whether any individual’s appeal is made in good faith, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
+    Subsec. (g)(2)(B). [Pub. L. 101–239][/us/pl/101/239], § 10305(d), inserted at end “In making for purposes of this subparagraph any determination of whether any individual’s appeal is made in good faith, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
 
-    Subsec. (g)(3)(B). [Pub. L. 101–239, § 10101(2)][/us/pl/101/239/s10101/2], substituted “1991” for “1990”.
+    Subsec. (g)(3)(B). [Pub. L. 101–239][/us/pl/101/239], § 10101(2), substituted “1991” for “1990”.
 
-    1988—Subsec. (g)(1)(iii). [Pub. L. 100–647, § 8006(1)][/us/pl/100/647/s8006/1], substituted “June 1990” for “June 1989”.
+    1988—Subsec. (g)(1)(iii). [Pub. L. 100–647][/us/pl/100/647], § 8006(1), substituted “June 1990” for “June 1989”.
 
-    Subsec. (g)(3)(B). [Pub. L. 100–647, § 8006(2)][/us/pl/100/647/s8006/2], substituted “January 1, 1990” for “January 1, 1989”.
+    Subsec. (g)(3)(B). [Pub. L. 100–647][/us/pl/100/647], § 8006(2), substituted “January 1, 1990” for “January 1, 1989”.
 
-    Subsecs. (h), (i). [Pub. L. 100–647, § 8001(a)][/us/pl/100/647/s8001/a], added subsec. (h) and redesignated former subsec. (h) as (i).
+    Subsecs. (h), (i). [Pub. L. 100–647][/us/pl/100/647], § 8001(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-    1987—Subsec. (a)(1). [Pub. L. 100–203, § 9010(a)][/us/pl/100/203/s9010/a], substituted “36 months” for “15 months”.
+    1987—Subsec. (a)(1). [Pub. L. 100–203][/us/pl/100/203], § 9010(a), substituted “36 months” for “15 months”.
 
-    Subsec. (e). [Pub. L. 100–203, § 9010(e)(2)][/us/pl/100/203/s9010/e/2], substituted “36-month period” for “15-month period”.
+    Subsec. (e). [Pub. L. 100–203][/us/pl/100/203], § 9010(e)(2), substituted “36-month period” for “15-month period”.
 
-    Subsec. (g)(1). [Pub. L. 100–203, § 9009(1)][/us/pl/100/203/s9009/1], substituted “June 1989” for “June 1988” in cl. (iii) at end.
+    Subsec. (g)(1). [Pub. L. 100–203][/us/pl/100/203], § 9009(1), substituted “June 1989” for “June 1988” in cl. (iii) at end.
 
-    Subsec. (g)(3)(B). [Pub. L. 100–203, § 9009(2)][/us/pl/100/203/s9009/2], substituted “January 1, 1989” for “January 1, 1988”.
+    Subsec. (g)(3)(B). [Pub. L. 100–203][/us/pl/100/203], § 9009(2), substituted “January 1, 1989” for “January 1, 1988”.
 
     1986—Subsec. (e). [Pub. L. 99–272][/us/pl/99/272] inserted “(d)(6)(A)(ii), (d)(6)(B),” after “(d)(1)(B)(ii)”.
 
     Subsec. (g)(1). [Pub. L. 99–514][/us/pl/99/514] struck out second comma after “payment of such benefits” in provisions following subpar. (C).
 
-    1984—Subsec. (a)(1)(B). [Pub. L. 98–369, § 2662(c)(2)][/us/pl/98/369/s2662/c/2], made a clarifying amendment to [Pub. L. 98–21, § 201(c)(3)][/us/pl/98/21/s201/c/3]. See 1983 Amendment note below.
+    1984—Subsec. (a)(1)(B). [Pub. L. 98–369][/us/pl/98/369], § 2662(c)(2), made a clarifying amendment to [Pub. L. 98–21][/us/pl/98/21], § 201(c)(3). See 1983 Amendment note below.
 
-    Subsec. (c)(1)(B). [Pub. L. 98–369, § 2661(m)][/us/pl/98/369/s2661/m], realigned margins of subpar. (B).
+    Subsec. (c)(1)(B). [Pub. L. 98–369][/us/pl/98/369], § 2661(m), realigned margins of subpar. (B).
 
-    Subsec. (d)(2)(A). [Pub. L. 98–369, § 2663(a)(16)][/us/pl/98/369/s2663/a/16], substituted “An individual” for “an individual”.
+    Subsec. (d)(2)(A). [Pub. L. 98–369][/us/pl/98/369], § 2663(a)(16), substituted “An individual” for “an individual”.
 
-    Subsec. (d)(2)(C). [Pub. L. 98–460, § 4(a)(1)][/us/pl/98/460/s4/a/1], added subpar. (C).
+    Subsec. (d)(2)(C). [Pub. L. 98–460][/us/pl/98/460], § 4(a)(1), added subpar. (C).
 
-    Subsec. (d)(5). [Pub. L. 98–460, § 9(b)(1)][/us/pl/98/460/s9/b/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (d)(5). [Pub. L. 98–460][/us/pl/98/460], § 9(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    [Pub. L. 98–460, § 3(a)(1)][/us/pl/98/460/s3/a/1], inserted provisions requiring, in making determinations as to whether an individual is under a disability, that subjective statements as to pain or other symptoms alleged to be disabling be supplemented by, and considered together with, objective medical evidence of those symptoms showing the existence of a medical impairment resulting from anatomical, physiological, or psychological abnormalities.
+    [Pub. L. 98–460][/us/pl/98/460], § 3(a)(1), inserted provisions requiring, in making determinations as to whether an individual is under a disability, that subjective statements as to pain or other symptoms alleged to be disabling be supplemented by, and considered together with, objective medical evidence of those symptoms showing the existence of a medical impairment resulting from anatomical, physiological, or psychological abnormalities.
 
-    Subsec. (f). [Pub. L. 98–460, § 2(a)][/us/pl/98/460/s2/a], amended subsec. (f) generally, substituting provisions relating to the standard of review for termination of disability benefits for provisions relating to suspension of benefits for inmates of penal institutions.
+    Subsec. (f). [Pub. L. 98–460][/us/pl/98/460], § 2(a), amended subsec. (f) generally, substituting provisions relating to the standard of review for termination of disability benefits for provisions relating to suspension of benefits for inmates of penal institutions.
 
-    Subsec. (g)(1). [Pub. L. 98–460, § 7(a)(1)][/us/pl/98/460/s7/a/1], in provisions following subpar. (C) substituted reference to benefits under this subchapter for reference to benefits under this chapter, inserted references to the payment of mother’s or father’s insurance benefits to such individual’s mother or father based on the disability of such individual as a child who has attained age 16, substituted reference to benefits under subchapter XVIII of this chapter based on such individual’s disability for reference to benefits under subchapter XVIII of this chapter, and substituted “June 1988” for “June 1984” in cl. (iii).
+    Subsec. (g)(1). [Pub. L. 98–460][/us/pl/98/460], § 7(a)(1), in provisions following subpar. (C) substituted reference to benefits under this subchapter for reference to benefits under this chapter, inserted references to the payment of mother’s or father’s insurance benefits to such individual’s mother or father based on the disability of such individual as a child who has attained age 16, substituted reference to benefits under subchapter XVIII of this chapter based on such individual’s disability for reference to benefits under subchapter XVIII of this chapter, and substituted “June 1988” for “June 1984” in cl. (iii).
 
-    Subsec. (g)(3)(B). [Pub. L. 98–460, § 7(a)(2)][/us/pl/98/460/s7/a/2], substituted “January 1, 1988” for “December 7, 1983”.
+    Subsec. (g)(3)(B). [Pub. L. 98–460][/us/pl/98/460], § 7(a)(2), substituted “January 1, 1988” for “December 7, 1983”.
 
-    Subsec. (h). [Pub. L. 98–369, § 2662(i)][/us/pl/98/369/s2662/i], amended [Pub. L. 98–21, § 339(b)][/us/pl/98/21/s339/b], resulting in addition of subsec. (h) of this section. See 1983 Amendment note below.
+    Subsec. (h). [Pub. L. 98–369][/us/pl/98/369], § 2662(i), amended [Pub. L. 98–21][/us/pl/98/21], § 339(b), resulting in addition of subsec. (h) of this section. See 1983 Amendment note below.
 
-    1983—Subsec. (a)(1). [Pub. L. 98–21, § 201(c)(1)(E)][/us/pl/98/21/s201/c/1/E], substituted “retirement age (as defined in section 416(l) of this title)” for “age 65”.
+    1983—Subsec. (a)(1). [Pub. L. 98–21][/us/pl/98/21], § 201(c)(1)(E), substituted “retirement age (as defined in section 416(l) of this title)” for “age 65”.
 
-    Subsec. (a)(1)(B). [Pub. L. 98–21, § 201(c)(3)][/us/pl/98/21/s201/c/3], as amended by [Pub. L. 98–369, § 2662(c)(2)][/us/pl/98/369/s2662/c/2], substituted “retirement age (as defined in section 416(l) of this title)” for “the age of sixty-five”.
+    Subsec. (a)(1)(B). [Pub. L. 98–21][/us/pl/98/21], § 201(c)(3), as amended by [Pub. L. 98–369][/us/pl/98/369], § 2662(c)(2), substituted “retirement age (as defined in section 416(l) of this title)” for “the age of sixty-five”.
 
-    Subsec. (c)(1)(B)(iii). [Pub. L. 98–21, § 332(b)][/us/pl/98/21/s332/b], added cl. (iii).
+    Subsec. (c)(1)(B)(iii). [Pub. L. 98–21][/us/pl/98/21], § 332(b), added cl. (iii).
 
-    Subsec. (d)(2). [Pub. L. 98–21, § 309][/us/pl/98/21/s309](o), substituted “widower, or surviving divorced husband” for “or widower” wherever appearing.
+    Subsec. (d)(2). [Pub. L. 98–21][/us/pl/98/21], § 309(o), substituted “widower, or surviving divorced husband” for “or widower” wherever appearing.
 
-    Subsec. (f). [Pub. L. 98–21, § 339(b)][/us/pl/98/21/s339/b], before amendment by [Pub. L. 98–369, § 2662(i)][/us/pl/98/369/s2662/i], struck out subsec. (f) relating to suspension of benefits for inmates of penal institutions. See note below for subsec. (h).
+    Subsec. (f). [Pub. L. 98–21][/us/pl/98/21], § 339(b), before amendment by [Pub. L. 98–369][/us/pl/98/369], § 2662(i), struck out subsec. (f) relating to suspension of benefits for inmates of penal institutions. See note below for subsec. (h).
 
     Subsec. (g). [Pub. L. 97–455][/us/pl/97/455] added subsec. (g).
 
     Subsec. (g)(3)(B). [Pub. L. 98–118][/us/pl/98/118] substituted “December 7, 1983” for “October 1, 1983”.
 
-    Subsec. (h). [Pub. L. 98–21, § 339(b)][/us/pl/98/21/s339/b], as amended by [Pub. L. 98–369, § 2662(i)][/us/pl/98/369/s2662/i], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–21][/us/pl/98/21], § 339(b), as amended by [Pub. L. 98–369][/us/pl/98/369], § 2662(i), added subsec. (h).
 
     1981—Subsec. (f)(3). [Pub. L. 97–123][/us/pl/97/123] added par. (3).
 
-    1980—Subsec. (a)(1). [Pub. L. 96–265, § 303(b)(1)(A)][/us/pl/96/265/s303/b/1/A], inserted reference to subsec. (e) of this section and provisions relating to an individual’s termination month.
+    1980—Subsec. (a)(1). [Pub. L. 96–265][/us/pl/96/265], § 303(b)(1)(A), inserted reference to subsec. (e) of this section and provisions relating to an individual’s termination month.
 
-    Subsec. (a)(2). [Pub. L. 96–265, § 102(b)][/us/pl/96/265/s102/b], substituted “Except as provided in section 402(q) and [section 415(b)(2)(A)(ii) of this title][/us/usc/t42/s415/b/2/A/ii]” for “Except as provided in [section 402(q) of this title][/us/usc/t42/s402/q]”.
+    Subsec. (a)(2). [Pub. L. 96–265][/us/pl/96/265], § 102(b), substituted “Except as provided in section 402(q) and [section 415(b)(2)(A)(ii) of this title][/us/usc/t42/s415/b/2/A/ii]” for “Except as provided in [section 402(q) of this title][/us/usc/t42/s402/q]”.
 
-    Subsec. (b). [Pub. L. 96–265, § 306(c)][/us/pl/96/265/s306/c], inserted provisions relating to limitations on the prospective effect of applications.
+    Subsec. (b). [Pub. L. 96–265][/us/pl/96/265], § 306(c), inserted provisions relating to limitations on the prospective effect of applications.
 
-    Subsec. (d)(4). [Pub. L. 96–265, § 302(a)(1)][/us/pl/96/265/s302/a/1], inserted provisions relating to extraordinary work expenses due to severe disability.
+    Subsec. (d)(4). [Pub. L. 96–265][/us/pl/96/265], § 302(a)(1), inserted provisions relating to extraordinary work expenses due to severe disability.
 
-    Subsec. (d)(5). [Pub. L. 96–265, § 309(a)][/us/pl/96/265/s309/a], inserted provisions relating to payment for existing medical evidence.
+    Subsec. (d)(5). [Pub. L. 96–265][/us/pl/96/265], § 309(a), inserted provisions relating to payment for existing medical evidence.
 
-    Subsec. (d)(6). [Pub. L. 96–473, § 5(a)(1)][/us/pl/96/473/s5/a/1], added par. (6).
+    Subsec. (d)(6). [Pub. L. 96–473][/us/pl/96/473], § 5(a)(1), added par. (6).
 
-    Subsec. (e). [Pub. L. 96–265, § 303(b)(2)(A)][/us/pl/96/265/s303/b/2/A], added subsec. (e).
+    Subsec. (e). [Pub. L. 96–265][/us/pl/96/265], § 303(b)(2)(A), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 96–473, § 5(c)][/us/pl/96/473/s5/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–473][/us/pl/96/473], § 5(c), added subsec. (f).
 
     1977—Subsec. (d)(4). [Pub. L. 95–216][/us/pl/95/216] inserted provisions relating to activities of blind individuals.
 
-    1972—Subsec. (a)(1). [Pub. L. 92–603, § 118(a)(1)][/us/pl/92/603/s118/a/1], inserted provision for filing of an application for disability insurance benefits after death of insured individual.
+    1972—Subsec. (a)(1). [Pub. L. 92–603][/us/pl/92/603], § 118(a)(1), inserted provision for filing of an application for disability insurance benefits after death of insured individual.
 
     Subsec. (a)(2). [Pub. L. 92–603][/us/pl/92/603], §§ 104(c), 118(a)(2). struck out “(if a woman) or age 65 (if a man)” after “attained age 62” and substituted “an individual” for “a woman”, “in which he attained age 62” for “in which she attained age 62”, and “the application for disability insurance benefits was filed and he was” for “he filed his application for disability insurance benefits and was”.
 
-    Subsec. (b). [Pub. L. 92–603, § 118(a)(3)][/us/pl/92/603/s118/a/3], substituted “if such application is filed” for “if he files such application”.
+    Subsec. (b). [Pub. L. 92–603][/us/pl/92/603], § 118(a)(3), substituted “if such application is filed” for “if he files such application”.
 
     Subsec. (c)(1). [Pub. L. 92–603][/us/pl/92/603], §§ 104(d), 117(b), struck out “(if a woman) or age 65 (if a man)” after “attained age 62” in subpar. (A) and in provisions following subpar. (B) inserted provisions eliminating the disability insured status requirement of substantial recent covered work in the case of individuals who are blind.
 
     Subsec. (c)(2). [Pub. L. 92–603][/us/pl/92/603], §§ 116(a), 118(a)(4), substituted “five consecutive calendar months” for “six consecutive calendar months” in provisions preceding subpar. (A), substituted “with respect to whom such application is filed” for “who files such application” in subpar. (A), and substituted “seventeenth” for “eighteenth” in subpar. (B).
 
-    1968—Subsec. (a)(1). [Pub. L. 90–248, § 158(c)(6)][/us/pl/90/248/s158/c/6]–(8), substituted in subpar. (D) reference to “subsection (d)” for “subsection (c)(2)”, in text of first sentence following subpar. (D) reference to “subsection (c)(2)” for “subsection (c)(3)”, and in last sentence following subpar. (D) reference to “subsection (d) except for paragraph (1)(B) thereof” for “subsection (c)(2) except for subparagraph (B) thereof”, respectively.
+    1968—Subsec. (a)(1). [Pub. L. 90–248][/us/pl/90/248], § 158(c)(6)–(8), substituted in subpar. (D) reference to “subsection (d)” for “subsection (c)(2)”, in text of first sentence following subpar. (D) reference to “subsection (c)(2)” for “subsection (c)(3)”, and in last sentence following subpar. (D) reference to “subsection (d) except for paragraph (1)(B) thereof” for “subsection (c)(2) except for subparagraph (B) thereof”, respectively.
 
-    Subsec. (c). [Pub. L. 90–248, § 158(a)][/us/pl/90/248/s158/a], restricted heading to definitions of “insured status” and “waiting period”, struck out former par. (2) defining “disability” and requiring medical and other evidence of disability, now incorporated in subsec. (d)(1)(A), (5) of this section, and redesignated former par. (3) as (2).
+    Subsec. (c). [Pub. L. 90–248][/us/pl/90/248], § 158(a), restricted heading to definitions of “insured status” and “waiting period”, struck out former par. (2) defining “disability” and requiring medical and other evidence of disability, now incorporated in subsec. (d)(1)(A), (5) of this section, and redesignated former par. (3) as (2).
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 90–248, § 105(b)][/us/pl/90/248/s105/b], substituted in cl. (ii) “before the quarter in which he attains” for “before he attains” and struck out “and he is under a disability by reason of blindness (as defined in [section 416(i)(1) of this title][/us/usc/t42/s416/i/1])” after “age 31”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 90–248][/us/pl/90/248], § 105(b), substituted in cl. (ii) “before the quarter in which he attains” for “before he attains” and struck out “and he is under a disability by reason of blindness (as defined in [section 416(i)(1) of this title][/us/usc/t42/s416/i/1])” after “age 31”.
 
-    Subsec. (d). [Pub. L. 90–248, § 158(b)][/us/pl/90/248/s158/b], redesignated former first sentence of former subsec. (c)(2), comprising subpars. (A) and (B), as par. (1)(A), (B), added pars. (2) to (4), and redesignated former second sentence of former subsec. (c)(2) as par. (5).
+    Subsec. (d). [Pub. L. 90–248][/us/pl/90/248], § 158(b), redesignated former first sentence of former subsec. (c)(2), comprising subpars. (A) and (B), as par. (1)(A), (B), added pars. (2) to (4), and redesignated former second sentence of former subsec. (c)(2) as par. (5).
 
     1965—Subsec. (a)(1). [Pub. L. 89–97][/us/pl/89/97], §§ 303(b)(3), 344(c), struck out from subpar. (D) “at the time such application is filed,” after parenthetical provision and from provisions following subpar. (D) “the first month for which he is entitled to old-age insurance benefits” after “age 65,”; and prohibit payment to an individual who would not meet the definition of disability in subsec. (c)(2) except for subpar. (B) thereof for any month in which he engages in substantial gainful activity, and payment for such month under subsec. (b), (c), or (d) of [section 402 of this title][/us/usc/t42/s402] to any person on the basis of the wages and self-employment income of such individual, respectively.
 
     Subsec. (a)(2). [Pub. L. 89–97][/us/pl/89/97], §§ 302(e), 304(m), inserted in first sentence “and was entitled to an old-age insurance benefit for each month for which (pursuant to subsection (b) of this section) he was entitled to a disability insurance benefit” and “Except as provided in [section 402(q) of this title][/us/usc/t42/s402/q]” and in last sentence substituted “shall not include the year” for “shall not include the first year” and struck out “both was fully insured and had” before “attained age 62” in two places, respectively.
 
-    Subsec. (a)(3). [Pub. L. 89–97, § 304(n)][/us/pl/89/97/s304/n], repealed par. (3) which prohibited an individual from becoming entitled to disability insurance benefits if he is entitled to a widow’s, widower’s, or parent’s insurance benefit, or an old-age, wife’s or husband’s insurance benefit.
+    Subsec. (a)(3). [Pub. L. 89–97][/us/pl/89/97], § 304(n), repealed par. (3) which prohibited an individual from becoming entitled to disability insurance benefits if he is entitled to a widow’s, widower’s, or parent’s insurance benefit, or an old-age, wife’s or husband’s insurance benefit.
 
     Subsec. (b). [Pub. L. 89–97][/us/pl/89/97], §§ 303(c), 328(c), struck out from last sentence “after June 1957” after “for any months” and substituted “before” for “prior to” where first appearing and “if he files such application before the end of the 12th month immediately succeeding such month” for “if he is continuously under a disability after such month and until he files application therefor and he files said application prior to the end of the twelfth month immediately succeeding such month”; and substituted provisions calling for an application for benefits filed before the first month in which the applicant satisfies the requirements for such benefits to be deemed a valid application only if the applicant satisfies the requirements before the Secretary makes a final decision on the application and calling for the application to be deemed filed in the first month if the applicant is found to satisfy the requirements for provisions placing an outer limit on the time prior to entitlement during which an application would be deemed filed during the first month prior to entitlement, respectively.
 
-    Subsec. (c)(1). [Pub. L. 89–97, § 344(b)][/us/pl/89/97/s344/b], removed from existing subpar. (B) provision prohibiting the inclusion, as part of such 40-quarter period, of any quarter any part of which was included in a prior period of disability unless such quarter was a quarter of coverage, and designated such subpar., as so amended as subpar. (B)(i), added subpar. (B)(ii), and added the material following subpar. (B)(ii) prohibiting inclusion of any quarter as part of any period if any part of such quarter was included in a prior period of disability unless such quarter was a quarter of coverage and calling for reduction by one of the number of quarters in any period whenever such number of quarters is an odd number.
+    Subsec. (c)(1). [Pub. L. 89–97][/us/pl/89/97], § 344(b), removed from existing subpar. (B) provision prohibiting the inclusion, as part of such 40-quarter period, of any quarter any part of which was included in a prior period of disability unless such quarter was a quarter of coverage, and designated such subpar., as so amended as subpar. (B)(i), added subpar. (B)(ii), and added the material following subpar. (B)(ii) prohibiting inclusion of any quarter as part of any period if any part of such quarter was included in a prior period of disability unless such quarter was a quarter of coverage and calling for reduction by one of the number of quarters in any period whenever such number of quarters is an odd number.
 
-    Subsec. (c)(2)(A). [Pub. L. 89–97, § 303(a)(2)][/us/pl/89/97/s303/a/2], designated existing provisions as subpar. (A) and substituted “which has lasted or can be expected to last for a continuous period of not less than 12 months; or” for “to be of long-continued and indefinite duration”.
+    Subsec. (c)(2)(A). [Pub. L. 89–97][/us/pl/89/97], § 303(a)(2), designated existing provisions as subpar. (A) and substituted “which has lasted or can be expected to last for a continuous period of not less than 12 months; or” for “to be of long-continued and indefinite duration”.
 
-    Subsec. (c)(2)(B). [Pub. L. 89–97, § 344(d)][/us/pl/89/97/s344/d], added subpar. (B).
+    Subsec. (c)(2)(B). [Pub. L. 89–97][/us/pl/89/97], § 344(d), added subpar. (B).
 
-    Subsec. (c)(3)(A). [Pub. L. 89–97, § 303(b)(4)][/us/pl/89/97/s303/b/4], struck out “which continues until such application is filed” after “disability”.
+    Subsec. (c)(3)(A). [Pub. L. 89–97][/us/pl/89/97], § 303(b)(4), struck out “which continues until such application is filed” after “disability”.
 
-    1961—Subsec. (a)(1). [Pub. L. 87–64, § 102(b)(2)(C)][/us/pl/87/64/s102/b/2/C], substituted “the month in which he attains age 65, the first month for which he is entitled to old-age insurance benefits” for “the month in which he attains the age of sixty-five”.
+    1961—Subsec. (a)(1). [Pub. L. 87–64][/us/pl/87/64], § 102(b)(2)(C), substituted “the month in which he attains age 65, the first month for which he is entitled to old-age insurance benefits” for “the month in which he attains the age of sixty-five”.
 
-    Subsec. (a)(2). [Pub. L. 87–64, § 102(c)(2)(C)][/us/pl/87/64/s102/c/2/C], (3)(D), substituted “as though he had attained age 62 (if a woman) or age 65 (if a man)” for “as though he had attained retirement age”, and “fully insured and had attained age 62” for “fully insured and had attained retirement age”, in two places.
+    Subsec. (a)(2). [Pub. L. 87–64][/us/pl/87/64], § 102(c)(2)(C), (3)(D), substituted “as though he had attained age 62 (if a woman) or age 65 (if a man)” for “as though he had attained retirement age”, and “fully insured and had attained age 62” for “fully insured and had attained retirement age”, in two places.
 
-    Subsec. (a)(3). [Pub. L. 87–64, § 102(b)(2)(B)][/us/pl/87/64/s102/b/2/B], added par. (3).
+    Subsec. (a)(3). [Pub. L. 87–64][/us/pl/87/64], § 102(b)(2)(B), added par. (3).
 
-    Subsec. (c)(1)(A). [Pub. L. 87–64, § 102(c)(3)(E)][/us/pl/87/64/s102/c/3/E], substituted “attained age 62 (if a woman) or age 65 (if a man)” for “attained retirement age”.
+    Subsec. (c)(1)(A). [Pub. L. 87–64][/us/pl/87/64], § 102(c)(3)(E), substituted “attained age 62 (if a woman) or age 65 (if a man)” for “attained retirement age”.
 
     1960—Subsec. (a)(1). [Pub. L. 86–778][/us/pl/86/778], §§ 401(a), 402(a), 403(b), struck out provisions from cl. (B) which required an individual to have attained the age of 50, inserted provisions authorizing payment of benefits to an individual for each month beginning with the first month during all of which he is under a disability and in which he becomes so entitled to such insurance benefits, but only if he was entitled to disability insurance benefits which terminated, or had a period of disability which ceased, within the 60-month period preceding the first month in which he is under such disability, and substituted provisions requiring benefits to end with the month preceding whichever of the following is the earliest: the month in which he dies, the month in which he attains the age of 65, or the third month following the month in which his disability ceases for provisions which required the benefits to end with the month preceding the first month in which any of the following occurs: his disability ceases, he dies, or he attains the age of 65.
 
-    Subsec. (a)(2). [Pub. L. 86–778, § 303(f)][/us/pl/86/778/s303/f], amended generally subsec. (a)(2), as amended by [section 402(b) of Pub. L. 86–778][/us/pl/86/778/s402/b] which read as follows: “Such individual’s disability insurance benefit for any month shall be equal to his primary insurance amount for such month determined under [section 415 of this title][/us/usc/t42/s415] as though he became entitled to old-age insurance benefits in—
+    Subsec. (a)(2). [Pub. L. 86–778][/us/pl/86/778], § 303(f), amended generally subsec. (a)(2), as amended by [section 402(b) of Pub. L. 86–778][/us/pl/86/778/s402/b] which read as follows: “Such individual’s disability insurance benefit for any month shall be equal to his primary insurance amount for such month determined under [section 415 of this title][/us/usc/t42/s415] as though he became entitled to old-age insurance benefits in—
 
     “(A) the first month of his waiting period, or
 
     “(B) in any case in which clause (ii) of paragraph (1) of this subsection is applicable, the first month for which he becomes so entitled to such disability insurance benefits.”
 
-    [Pub. L. 86–778, § 402(b)][/us/pl/86/778/s402/b], amended subsec. (a)(2) generally. Prior to amendment, subsec. (a)(2) read as follows: “Such individual’s disability insurance benefit for any month shall be equal to his primary insurance amount for such month determined under [section 415 of this title][/us/usc/t42/s415] as though he became entitled to old-age insurance benefits in the first month of his waiting period.”
+    [Pub. L. 86–778][/us/pl/86/778], § 402(b), amended subsec. (a)(2) generally. Prior to amendment, subsec. (a)(2) read as follows: “Such individual’s disability insurance benefit for any month shall be equal to his primary insurance amount for such month determined under [section 415 of this title][/us/usc/t42/s415] as though he became entitled to old-age insurance benefits in the first month of his waiting period.”
 
-    Subsec. (b). [Pub. L. 86–778, § 402(c)][/us/pl/86/778/s402/c], (d), prohibited acceptance of an application, in any case in which cl. (ii) of par. (1) of subsec. (a) of this section is applicable, if it is filed more than six months before the first month for which the applicant becomes entitled to benefits, inserted provisions requiring any application filed within the nine months’ period or six months’ period, as the case may be, to be deemed to have been filed in such first month, and substituted “if he is continuously under a disability after such month and until he files application therefor, and he files such application” for “if he files application therefor”.
+    Subsec. (b). [Pub. L. 86–778][/us/pl/86/778], § 402(c), (d), prohibited acceptance of an application, in any case in which cl. (ii) of par. (1) of subsec. (a) of this section is applicable, if it is filed more than six months before the first month for which the applicant becomes entitled to benefits, inserted provisions requiring any application filed within the nine months’ period or six months’ period, as the case may be, to be deemed to have been filed in such first month, and substituted “if he is continuously under a disability after such month and until he files application therefor, and he files such application” for “if he files application therefor”.
 
-    Subsec. (c)(3). [Pub. L. 86–778, § 401(b)][/us/pl/86/778/s401/b], struck out provisions which prohibited a waiting period for any individual from beginning before the first day of the sixth month before the month in which he attains the age of 50.
+    Subsec. (c)(3). [Pub. L. 86–778][/us/pl/86/778], § 401(b), struck out provisions which prohibited a waiting period for any individual from beginning before the first day of the sixth month before the month in which he attains the age of 50.
 
-    1958—Subsec. (b). [Pub. L. 85–840, § 202(a)][/us/pl/85/840/s202/a], provided that individuals who would have been entitled to disability insurance benefits for any month after June 1957 had they filed application therefor prior to the end of such month shall be entitled to disability benefits for such month if they file application therefor prior to the end of the twelfth month immediately succeeding such month.
+    1958—Subsec. (b). [Pub. L. 85–840][/us/pl/85/840], § 202(a), provided that individuals who would have been entitled to disability insurance benefits for any month after June 1957 had they filed application therefor prior to the end of such month shall be entitled to disability benefits for such month if they file application therefor prior to the end of the twelfth month immediately succeeding such month.
 
-    Subsec. (c)(1). [Pub. L. 85–840, § 204(b)][/us/pl/85/840/s204/b], substituted “fully insured” for “fully and currently insured” in cl. (A).
+    Subsec. (c)(1). [Pub. L. 85–840][/us/pl/85/840], § 204(b), substituted “fully insured” for “fully and currently insured” in cl. (A).
 
-    Subsec. (c)(3). [Pub. L. 85–840, § 202(b)][/us/pl/85/840/s202/b], inserted “which continues until such application is filed” after “under a disability” in cl. (A), and substituted “eighteenth month” for “sixth month” in three instances in cl. (B).
+    Subsec. (c)(3). [Pub. L. 85–840][/us/pl/85/840], § 202(b), inserted “which continues until such application is filed” after “under a disability” in cl. (A), and substituted “eighteenth month” for “sixth month” in three instances in cl. (B).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–74, title VIII, § 812(c)][/us/pl/114/74/s812/c], Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 812(c), Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations of disability made on or after the earlier of—
 
@@ -569,7 +569,7 @@
 
 >     “(2) one year after the date of the enactment of this Act \[Nov. 2, 2015\].”
 
-[Pub. L. 114–74, title VIII, § 825(b)][/us/pl/114/74/s825/b], Nov. 2, 2015, [129 Stat. 611][/us/stat/129/611], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 825(b), Nov. 2, 2015, [129 Stat. 611][/us/stat/129/611], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 2, 2015\], or as soon as practicable thereafter.”
 
@@ -579,7 +579,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title I, § 112(c)][/us/pl/106/170/s112/c], Dec. 17, 1999, [113 Stat. 1886][/us/stat/113/1886], provided that:
+[Pub. L. 106–170, title I][/us/pl/106/170/tI], § 112(c), Dec. 17, 1999, [113 Stat. 1886][/us/stat/113/1886], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -605,7 +605,7 @@
 
     Amendment by section 5103(a), (b)(2)–(5) of [Pub. L. 101–508][/us/pl/101/508] applicable with respect to monthly insurance benefits for months after December 1990 for which applications are filed on or after Jan. 1, 1991, or are pending on such date, see [section 5103(e) of Pub. L. 101–508][/us/pl/101/508/s5103/e], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
-[Pub. L. 101–508, title V, § 5118(b)][/us/pl/101/508/s5118/b], Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5118(b), Nov. 5, 1990, [104 Stat. 1388–278][/us/stat/104/1388-278], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits for months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -615,7 +615,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VIII, § 8001(c)][/us/pl/100/647/s8001/c], Nov. 10, 1988, [102 Stat. 3779][/us/stat/102/3779], provided that: 
+[Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8001(c), Nov. 10, 1988, [102 Stat. 3779][/us/stat/102/3779], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall apply to determinations by administrative law judges of entitlement to benefits made after 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -629,7 +629,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–460, § 2(d)][/us/pl/98/460/s2/d], Oct. 9, 1984, [98 Stat. 1797][/us/stat/98/1797], provided that:
+[Pub. L. 98–460][/us/pl/98/460], § 2(d), Oct. 9, 1984, [98 Stat. 1797][/us/stat/98/1797], provided that:
 
 >     “(1) The amendments made by this section \[amending this section and sections 416 and 1382c of this title and enacting provisions set out as notes under this section\] shall apply only as provided in this subsection.
 
@@ -663,15 +663,15 @@
 
 >     “(6) For purposes of this subsection, the term ‘action relating to medical improvement’ means an action raising the issue of whether an individual who has had his entitlement to benefits under title II, XVI, or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq., 1395 et seq.\] based on disability terminated (or period of disability ended) should not have had such entitlement terminated (or period of disability ended) without consideration of whether there has been medical improvement in the condition of such individual (or another individual on whose disability such entitlement is based) since the time of a prior determination that the individual was under a disability.”
 
-[Pub. L. 98–460, § 3(a)(3)][/us/pl/98/460/s3/a/3], Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 3(a)(3), Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) \[amending this section and [section 1382c of this title][/us/usc/t42/s1382c]\] shall apply to determinations made prior to January 1, 1987.”
 
-[Pub. L. 98–460, § 4(c)][/us/pl/98/460/s4/c], Oct. 9, 1984, [98 Stat. 1801][/us/stat/98/1801], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 4(c), Oct. 9, 1984, [98 Stat. 1801][/us/stat/98/1801], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 416 and 1382c of this title\] shall apply with respect to determinations made on or after the first day of the first month beginning after 30 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
-[Pub. L. 98–460, § 9(b)(2)][/us/pl/98/460/s9/b/2], Oct. 9, 1984, [98 Stat. 1805][/us/stat/98/1805], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 9(b)(2), Oct. 9, 1984, [98 Stat. 1805][/us/stat/98/1805], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to determinations made on or after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
@@ -693,7 +693,7 @@
 
     For effective date of amendment by [section 102(b) of Pub. L. 96–265][/us/pl/96/265/s102/b], see [section 102(c) of Pub. L. 96–265][/us/pl/96/265/s102/c], set out as a note under [section 415 of this title][/us/usc/t42/s415].
 
-[Pub. L. 96–265, title III, § 302(c)][/us/pl/96/265/s302/c], June 9, 1980, [94 Stat. 451][/us/stat/94/451], provided that: 
+[Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 302(c), June 9, 1980, [94 Stat. 451][/us/stat/94/451], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1382a and 1382c of this title\] shall apply with respect to expenses incurred on or after the first day of the sixth month which begins after the date of the enactment of this Act \[June 9, 1980\].”
 
@@ -701,7 +701,7 @@
 
     Amendment by [section 306(c) of Pub. L. 96–265][/us/pl/96/265/s306/c] applicable to applications filed after June 1980, see [section 306(d) of Pub. L. 96–265][/us/pl/96/265/s306/d], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 
-[Pub. L. 96–265, title III, § 309(b)][/us/pl/96/265/s309/b], June 9, 1980, [94 Stat. 459][/us/stat/94/459], provided that: 
+[Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 309(b), June 9, 1980, [94 Stat. 459][/us/stat/94/459], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to evidence requested on or after the first day of the sixth month which begins after the date of the enactment of this Act \[June 9, 1980\].”
 
@@ -709,7 +709,7 @@
 
     Amendment by section 104(c), (d) of [Pub. L. 92–603][/us/pl/92/603] applicable only in the case of a man who attains (or would attain) age 62 after Dec. 1974, with the figure “65” in subsec. (c)(1)(A) of this section to be deemed to read “64” in the case of a man who attains age 62 in 1973, and deemed to read “63” in the case of a man who attains age 62 in 1974, see [section 104(j) of Pub. L. 92–603][/us/pl/92/603/s104/j], set out as an Effective Date of 1972 Amendment note under [section 414 of this title][/us/usc/t42/s414].
 
-[Pub. L. 92–603, title I, § 116(e)][/us/pl/92/603/s116/e], Oct. 30, 1972, [86 Stat. 1350][/us/stat/86/1350], provided that: 
+[Pub. L. 92–603, title I][/us/pl/92/603/tI], § 116(e), Oct. 30, 1972, [86 Stat. 1350][/us/stat/86/1350], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 402 and 416 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], applications for widow’s and widower’s insurance benefits based on disability under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\], and applications for disability determinations under section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], filed—
 
@@ -725,7 +725,7 @@
 
 >     except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for any month before January 1973.”
 
-[Pub. L. 92–603, title I, § 117(c)][/us/pl/92/603/s117/c], Oct. 30, 1972, [86 Stat. 1351][/us/stat/86/1351], provided that: 
+[Pub. L. 92–603, title I][/us/pl/92/603/tI], § 117(c), Oct. 30, 1972, [86 Stat. 1351][/us/stat/86/1351], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], and for disability determinations under section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], filed—
 
@@ -747,7 +747,7 @@
 
     Amendment by [section 105(b) of Pub. L. 90–248][/us/pl/90/248/s105/b] applicable with respect to monthly benefits under this subchapter for months after January 1968, but only on the basis of applications for such benefits filed in or after January 1968, see [section 105(c) of Pub. L. 90–248][/us/pl/90/248/s105/c], set out as a note under [section 416 of this title][/us/usc/t42/s416].
 
-[Pub. L. 90–248, title I, § 158(e)][/us/pl/90/248/s158/e], Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869], provided that: 
+[Pub. L. 90–248, title I][/us/pl/90/248/tI], § 158(e), Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 402, 416, 421, 422, and 425 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], and for disability determinations under section 216(i) of such Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\], filed—
 
@@ -765,7 +765,7 @@
 
     Amendment by [section 302(e) of Pub. L. 89–97][/us/pl/89/97/s302/e] applicable in the case of individuals who become entitled to disability insurance benefits under this section after December 1965, see [section 302(f)(5) of Pub. L. 89–97][/us/pl/89/97/s302/f/5], set out as a note under [section 415 of this title][/us/usc/t42/s415].
 
-[Pub. L. 89–97, title III, § 303(f)(1)][/us/pl/89/97/s303/f/1], July 30, 1965, [79 Stat. 368][/us/stat/79/368], provided that: 
+[Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 303(f)(1), July 30, 1965, [79 Stat. 368][/us/stat/79/368], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 416 of this title][/us/usc/t42/s416]\], paragraphs (3) and (4) of subsection (b) \[amending this section\], and subsections (c) and (d) \[amending this section and [section 402 of this title][/us/usc/t42/s402]\], and the provisions of subparagraphs (B) and (E) of section 216(i)(2) of the Social Security Act \[[42 U.S.C. 416(i)(2)][/us/usc/t42/s416/i/2]\] (as amended by subsection (b)(1) of this section), shall be effective with respect to applications for disability insurance benefits under section 223 \[[42 U.S.C. 423][/us/usc/t42/s423]\], and for disability determinations under section 216(i), of the Social Security Act filed—
 
@@ -793,13 +793,13 @@
 
  __Effective Date of 1960 Amendment__ 
 
-    [Pub. L. 86–778, title III, § 303(f)][/us/pl/86/778/s303/f], Sept. 13, 1960, [74 Stat. 964][/us/stat/74/964], provided that the amendment made by such section 303(f) is effective with respect to individuals who become entitled to benefits under this section after 1960.
+    [Pub. L. 86–778, title III][/us/pl/86/778/tIII], § 303(f), Sept. 13, 1960, [74 Stat. 964][/us/stat/74/964], provided that the amendment made by such section 303(f) is effective with respect to individuals who become entitled to benefits under this section after 1960.
 
-[Pub. L. 86–778, title IV, § 401(c)][/us/pl/86/778/s401/c], Sept. 13, 1960, [74 Stat. 967][/us/stat/74/967], provided that: 
+[Pub. L. 86–778, title IV][/us/pl/86/778/tIV], § 401(c), Sept. 13, 1960, [74 Stat. 967][/us/stat/74/967], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits under sections 202 and 223 of the Social Security Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] for months after the month following the month in which this Act is enacted \[September 1960\] which are based on the wages and self-employment income of an individual who did not attain the age of fifty in or prior to the month following the month in which this Act is enacted, but only where applications for such benefits are filed in or after the month in which this Act is enacted.”
 
-[Pub. L. 86–778, title IV, § 402(f)][/us/pl/86/778/s402/f], Sept. 13, 1960, [74 Stat. 968][/us/stat/74/968], provided that: 
+[Pub. L. 86–778, title IV][/us/pl/86/778/tIV], § 402(f), Sept. 13, 1960, [74 Stat. 968][/us/stat/74/968], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to benefits under section 223 of the Social Security Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] for the month in which this Act is enacted \[September 1960\] and subsequent months. The amendment made by subsection (c) \[amending this section\] shall apply only in the case of applications for benefits under such section 223 filed after the seventh month before the month in which this Act is enacted. The amendment made by subsection (d) \[amending this section\] shall apply only in the case of applications for benefits under such section 223 filed in or after the month in which this Act is enacted. The amendment made by subsection (e) \[amending [section 416 of this title][/us/usc/t42/s416]\] shall apply only in the case of individuals who become entitled to benefits under such section 223 in or after the month in which this Act is enacted.”
 
@@ -813,7 +813,7 @@
 
  __Effective Date__ 
 
-[Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(d), [70 Stat. 818][/us/stat/70/818], provided that:
+[Act Aug. 1, 1956, ch. 836, title I][/us/act/1956-08-01/ch836/tI], § 103(d), [70 Stat. 818][/us/stat/70/818], provided that:
 
 >     “(1) The amendment made by subsection (a) \[enacting this section and sections 424 and 425 of this title\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for months after June 1957.
 
@@ -821,13 +821,13 @@
 
  __Regulations__ 
 
-[Pub. L. 114–74, title VIII, § 812(b)][/us/pl/114/74/s812/b], Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 812(b), Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Nov. 2, 2015\], the Commissioner of Social Security shall issue regulations to carry out the amendment made by subsection (a) \[amending this section\].”
 
  __Electronic Reporting of Earnings__ 
 
-[Pub. L. 114–74, title VIII, § 826][/us/pl/114/74/s826], Nov. 2, 2015, [129 Stat. 611][/us/stat/129/611], provided that:
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 826, Nov. 2, 2015, [129 Stat. 611][/us/stat/129/611], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -843,7 +843,7 @@
 
  __Election of Payments__ 
 
-[Pub. L. 98–460, § 2(e)][/us/pl/98/460/s2/e], Oct. 9, 1984, [98 Stat. 1798][/us/stat/98/1798], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 2(e), Oct. 9, 1984, [98 Stat. 1798][/us/stat/98/1798], provided that: 
 
 > “Any individual whose case is remanded to the Secretary pursuant to subsection (d) \[set out as a note above\] or whose request for a review is made in a timely manner pursuant to subsection (d), may elect, in accordance with section 223(g) or 1631(a)(7) of the Social Security Act \[[42 U.S.C. 423(g)][/us/usc/t42/s423/g], 1383(a)(7)\], to have payments made beginning with the month in which he makes such election, and ending as under such section 223(g) or 1631(a)(7). Notwithstanding such section 223(g) or 1631(a)(7), such payments (if elected)—
 
@@ -853,19 +853,19 @@
 
  __Retroactive Benefits__ 
 
-[Pub. L. 98–460, § 2(f)][/us/pl/98/460/s2/f], Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 2(f), Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
 
 > “In the case of any individual who is found to be under a disability after a review required under this section, such individual shall be entitled to retroactive benefits beginning with benefits payable for the first month to which the most recent termination of benefits applied.”
 
  __Promulgation of Regulations__ 
 
-[Pub. L. 98–460, § 2(g)][/us/pl/98/460/s2/g], Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 2(g), Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that: 
 
 > “The Secretary of Health and Human Services shall prescribe regulations necessary to implement the amendments made by this section \[amending this section and sections 416 and 1382c of this title and enacting provisions set out as notes under this section\] not later than 180 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
  __Commission on Evaluation of Pain__ 
 
-[Pub. L. 98–460, § 3(b)][/us/pl/98/460/s3/b], Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that:
+[Pub. L. 98–460][/us/pl/98/460], § 3(b), Oct. 9, 1984, [98 Stat. 1799][/us/stat/98/1799], provided that:
 
 >     “(1) The Secretary of Health and Human Services shall appoint a Commission on the Evaluation of Pain (hereafter in this section referred to as the ‘Commission’) to conduct a study concerning the evaluation of pain in determining under titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] whether an individual is under a disability. Such study shall be conducted in consultation with the National Academy of Sciences.
 
@@ -881,7 +881,7 @@
 
  __Study and Report to Congressional Committees on Effect of Continued Payment of Disability Benefits During Appeal on Trust Fund Expenditures and the Rate of Appeals__ 
 
-[Pub. L. 98–460, § 7(c)][/us/pl/98/460/s7/c], Oct. 9, 1984, [98 Stat. 1804][/us/stat/98/1804], provided that:
+[Pub. L. 98–460][/us/pl/98/460], § 7(c), Oct. 9, 1984, [98 Stat. 1804][/us/stat/98/1804], provided that:
 
 >     “(1) The Secretary of Health and Human Services shall, as soon as practicable after the date of the enactment of this Act \[Oct. 9, 1984\], conduct a study concerning the effect which the enactment and continued operation of section 223(g) of the Social Security Act \[[42 U.S.C. 423(g)][/us/usc/t42/s423/g]\] is having on expenditures from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the Federal Supplementary Medical Insurance Trust Fund, and the rate of appeals to administrative law judges of unfavorable determinations relating to disability or periods of disability.
 
@@ -893,7 +893,7 @@
 
  __Lump-Sum Payment of Disability Insurance Benefits for Period Beginning After 1959 and Ending Prior to 1964; Filing of Application__ 
 
-[Pub. L. 92–603, title I, § 133][/us/pl/92/603/s133], Oct. 30, 1972, [86 Stat. 1361][/us/stat/86/1361], provided that:
+[Pub. L. 92–603, title I][/us/pl/92/603/tI], § 133, Oct. 30, 1972, [86 Stat. 1361][/us/stat/86/1361], provided that:
 
 >     “(a)
 
@@ -954,186 +954,186 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F815
-[/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
+[/us/pl/85/840/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtII
 [/us/stat/72/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1020
-[/us/pl/86/778/s303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs303%2Ff
+[/us/pl/86/778/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtIII
 [/us/stat/74/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F964
-[/us/pl/87/64/s102/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fb%2F2%2FB
+[/us/pl/87/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2FtI
 [/us/stat/75/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F134
-[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F366
-[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F833
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1340
-[/us/pl/95/216/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs335
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1547
-[/us/pl/96/265/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs102%2Fb
+[/us/pl/96/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtI
 [/us/stat/94/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F443
-[/us/pl/96/473/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473%2Fs5%2Fa%2F1
+[/us/pl/96/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473
 [/us/stat/94/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2264
-[/us/pl/97/123/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123%2Fs6
+[/us/pl/97/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123
 [/us/stat/95/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1664
-[/us/pl/97/455/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455%2Fs2
+[/us/pl/97/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455
 [/us/stat/96/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2498
-[/us/pl/98/21/s201/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs201%2Fc%2F1%2FE
+[/us/pl/98/21/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtII
 [/us/stat/97/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F109
-[/us/pl/98/118/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118%2Fs2
+[/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
 [/us/stat/97/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F803
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1158-1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1158-1160
 [/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1794
-[/us/pl/99/272/s12107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12107%2Fb
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F286
-[/us/pl/99/514/s1883/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1883%2Fa%2F10
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2916
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-293
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3778
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2471
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-250
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F848
-[/us/pl/106/170/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs112%2Fa
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1881
-[/us/pl/108/203/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fb
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F518
-[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F602
-[/us/pl/104/121/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs102
+[/us/pl/104/121/tI/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI%2Fs102
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
-[/us/pl/114/74/s825/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs825%2Fa
-[/us/pl/114/74/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs812%2Fa
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/104/121/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs105%2Fa%2F1
-[/us/pl/104/121/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs102%2Fb%2F2
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/usc/t42/s403/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Ff%2F8
 [/us/usc/t42/s403/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Ff%2F8
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s201/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F4%2FA
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s201/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F4%2FA
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F1%2FA
-[/us/pl/103/296/s321/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F1%2FB
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fa%2F19
-[/us/pl/101/508/s5103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5103%2Fa%2F1
-[/us/pl/101/508/s5103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5103%2Fa%2F2
-[/us/pl/101/508/s5118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5118%2Fa
-[/us/pl/101/508/s5103/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5103%2Fb%2F5
-[/us/pl/101/508/s5103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5103%2Fb%2F2
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fe
 [/us/usc/t42/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Ff
-[/us/pl/101/508/s5103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5103%2Fb%2F3
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fe
 [/us/usc/t42/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Ff
-[/us/pl/101/508/s5103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5103%2Fb%2F4
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fe
 [/us/usc/t42/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Ff
-[/us/pl/101/508/s5102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5102%2F1
-[/us/pl/101/508/s5102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5102%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s421/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fd
-[/us/pl/101/239/s10305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10305%2Fc
-[/us/pl/101/239/s10101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10101%2F1
-[/us/pl/101/239/s10305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10305%2Fd
-[/us/pl/101/239/s10101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10101%2F2
-[/us/pl/100/647/s8006/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8006%2F1
-[/us/pl/100/647/s8006/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8006%2F2
-[/us/pl/100/647/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8001%2Fa
-[/us/pl/100/203/s9010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9010%2Fa
-[/us/pl/100/203/s9010/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9010%2Fe%2F2
-[/us/pl/100/203/s9009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9009%2F1
-[/us/pl/100/203/s9009/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9009%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s2662/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fc%2F2
-[/us/pl/98/21/s201/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs201%2Fc%2F3
-[/us/pl/98/369/s2661/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2661%2Fm
-[/us/pl/98/369/s2663/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F16
-[/us/pl/98/460/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs4%2Fa%2F1
-[/us/pl/98/460/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs9%2Fb%2F1
-[/us/pl/98/460/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs3%2Fa%2F1
-[/us/pl/98/460/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Fa
-[/us/pl/98/460/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs7%2Fa%2F1
-[/us/pl/98/460/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs7%2Fa%2F2
-[/us/pl/98/369/s2662/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fi
-[/us/pl/98/21/s339/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs339%2Fb
-[/us/pl/98/21/s201/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs201%2Fc%2F1%2FE
-[/us/pl/98/21/s201/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs201%2Fc%2F3
-[/us/pl/98/369/s2662/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fc%2F2
-[/us/pl/98/21/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs332%2Fb
-[/us/pl/98/21/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs309
-[/us/pl/98/21/s339/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs339%2Fb
-[/us/pl/98/369/s2662/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fi
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455
 [/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
-[/us/pl/98/21/s339/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs339%2Fb
-[/us/pl/98/369/s2662/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fi
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123
-[/us/pl/96/265/s303/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs303%2Fb%2F1%2FA
-[/us/pl/96/265/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs102%2Fb
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
 [/us/usc/t42/s415/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F2%2FA%2Fii
 [/us/usc/t42/s402/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fq
-[/us/pl/96/265/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs306%2Fc
-[/us/pl/96/265/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs302%2Fa%2F1
-[/us/pl/96/265/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs309%2Fa
-[/us/pl/96/473/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473%2Fs5%2Fa%2F1
-[/us/pl/96/265/s303/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs303%2Fb%2F2%2FA
-[/us/pl/96/473/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473%2Fs5%2Fc
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
-[/us/pl/92/603/s118/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs118%2Fa%2F1
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
-[/us/pl/92/603/s118/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs118%2Fa%2F3
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
-[/us/pl/90/248/s158/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fc%2F6
-[/us/pl/90/248/s158/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fa
-[/us/pl/90/248/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs105%2Fb
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/usc/t42/s416/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi%2F1
-[/us/pl/90/248/s158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fb
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/usc/t42/s402/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fq
-[/us/pl/89/97/s304/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs304%2Fn
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
-[/us/pl/89/97/s344/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs344%2Fb
-[/us/pl/89/97/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs303%2Fa%2F2
-[/us/pl/89/97/s344/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs344%2Fd
-[/us/pl/89/97/s303/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs303%2Fb%2F4
-[/us/pl/87/64/s102/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fb%2F2%2FC
-[/us/pl/87/64/s102/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fc%2F2%2FC
-[/us/pl/87/64/s102/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fb%2F2%2FB
-[/us/pl/87/64/s102/c/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs102%2Fc%2F3%2FE
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
+[/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
+[/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
+[/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
-[/us/pl/86/778/s303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs303%2Ff
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/778/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs402%2Fb
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
-[/us/pl/86/778/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs402%2Fb
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
-[/us/pl/86/778/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs402%2Fc
-[/us/pl/86/778/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs401%2Fb
-[/us/pl/85/840/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs202%2Fa
-[/us/pl/85/840/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs204%2Fb
-[/us/pl/85/840/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs202%2Fb
-[/us/pl/114/74/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs812%2Fc
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
+[/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
+[/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
+[/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F602
-[/us/pl/114/74/s825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs825%2Fb
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F611
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/108/203/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fc
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
-[/us/pl/106/170/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs112%2Fc
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1886
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
@@ -1154,12 +1154,12 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s5103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5103%2Fe
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/101/508/s5118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5118%2Fb
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-278
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s10305/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10305%2Ff
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
-[/us/pl/100/647/s8001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8001%2Fc
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3779
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -1171,18 +1171,18 @@
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272/s12107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12107%2Fc
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/98/460/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Fd
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1797
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/98/460/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs3%2Fa%2F3
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
 [/us/usc/t42/s1382c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c
-[/us/pl/98/460/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs4%2Fc
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1801
-[/us/pl/98/460/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs9%2Fb%2F2
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1805
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
@@ -1206,7 +1206,7 @@
 [/us/pl/96/265/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs102%2Fb
 [/us/pl/96/265/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs102%2Fc
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
-[/us/pl/96/265/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs302%2Fc
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F451
 [/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
 [/us/pl/96/265/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs303%2Fd
@@ -1214,19 +1214,19 @@
 [/us/pl/96/265/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs306%2Fc
 [/us/pl/96/265/s306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs306%2Fd
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/96/265/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs309%2Fb
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F459
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/92/603/s104/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs104%2Fj
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
-[/us/pl/92/603/s116/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs116%2Fe
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1350
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fg
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/92/603/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs117%2Fc
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1351
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
@@ -1239,7 +1239,7 @@
 [/us/pl/90/248/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs105%2Fb
 [/us/pl/90/248/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs105%2Fc
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
-[/us/pl/90/248/s158/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fe
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F869
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
@@ -1247,7 +1247,7 @@
 [/us/pl/89/97/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs302%2Fe
 [/us/pl/89/97/s302/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs302%2Ff%2F5
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
-[/us/pl/89/97/s303/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs303%2Ff%2F1
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F368
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -1271,12 +1271,12 @@
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/86/778/s303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs303%2Ff
+[/us/pl/86/778/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtIII
 [/us/stat/74/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F964
-[/us/pl/86/778/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs401%2Fc
+[/us/pl/86/778/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtIV
 [/us/stat/74/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F967
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/86/778/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs402%2Ff
+[/us/pl/86/778/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtIV
 [/us/stat/74/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F968
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
@@ -1289,34 +1289,34 @@
 [/us/pl/85/840/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs204%2Fb
 [/us/pl/85/840/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs207%2Fa
 [/us/usc/t42/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416
-[/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
+[/us/act/1956-08-01/ch836/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836%2FtI
 [/us/stat/70/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F818
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/114/74/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs812%2Fb
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F602
-[/us/pl/114/74/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs826
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F611
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
-[/us/pl/98/460/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Fe
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1798
 [/us/usc/t42/s423/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fg
-[/us/pl/98/460/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Ff
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
-[/us/pl/98/460/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs2%2Fg
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
-[/us/pl/98/460/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs3%2Fb
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1799
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/98/460/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs7%2Fc
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1804
 [/us/usc/t42/s423/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fg
 [/us/pl/94/12/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs702
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/92/603/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs133
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1361
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423

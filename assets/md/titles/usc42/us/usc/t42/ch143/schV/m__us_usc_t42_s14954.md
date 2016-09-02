@@ -17,7 +17,7 @@
 
     The Convention and this chapter shall not be construed to create a private right of action to seek administrative or judicial relief, except to the extent expressly provided in this chapter.
 
-([Pub. L. 106–279, title V, § 504][/us/pl/106/279/s504], Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
+([Pub. L. 106–279, title V][/us/pl/106/279/tV], § 504, Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/279/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs504
+[/us/pl/106/279/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtV
 [/us/stat/114/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F843
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

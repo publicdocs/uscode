@@ -23,7 +23,7 @@
 
     (3) have the authority to participate in the planning activities of relevant Department of Energy programs.
 
-([Pub. L. 102–486, title XVI, § 1603][/us/pl/102/486/s1603], Oct. 24, 1992, [106 Stat. 3001][/us/stat/106/3001].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1603, Oct. 24, 1992, [106 Stat. 3001][/us/stat/106/3001].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/pl/101/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606
 [/us/usc/t15/s2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2921
-[/us/pl/102/486/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1603
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
 [/us/stat/106/3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3001
 [/us/pl/101/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606
 [/us/stat/104/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3096

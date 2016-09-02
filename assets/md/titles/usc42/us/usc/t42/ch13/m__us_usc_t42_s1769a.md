@@ -53,7 +53,7 @@
 
             (B) to the maximum extent practicable, give the highest priority to schools with the highest proportion of children who are eligible for free or reduced price meals under this chapter;
 
-            (C) ensure that each school selected is an elementary school (as defined in [section 7801 of title 20][/us/usc/t20/s7801]);
+            (C) ensure that each school selected is an elementary school (as defined in section 7801  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 20);
 
             (D)
 
@@ -167,11 +167,13 @@
 
                 A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.
 
-([June 4, 1946, ch. 281, § 19][/us/act/1946-06-04/ch281/s19], as added [Pub. L. 110–234, title IV, § 4304(a)(1)][/us/pl/110/234/s4304/a/1], May 22, 2008, [122 Stat. 1127][/us/stat/122/1127], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4304(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1888.)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 19, as added [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4304(a)(1), May 22, 2008, [122 Stat. 1127][/us/stat/122/1127], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4304(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1888.)
 
  __References in Text__ 
 
     Section 4304(a)(2) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(1), is [section 4304(a)(2) of Pub. L. 110–246][/us/pl/110/246/s4304/a/2], which is set out as a note below.
+
+    [Section 7801 of title 20][/us/usc/t20/s7801], referred to in subsec. (d)(1)(C), was in the original a reference to [section 9101 of Pub. L. 89–10][/us/pl/89/10/s9101], which was renumbered [section 8101 of Pub. L. 89–10][/us/pl/89/10/s8101] by [Pub. L. 114–95, title VIII][/us/pl/114/95/tVIII], § 8001(a)(1), Dec. 10, 2015, [129 Stat. 2089][/us/stat/129/2089].
 
     The Child Nutrition Act of 1966, referred to in subsec. (g), is [Pub. L. 89–642][/us/pl/89/642], Oct. 11, 1966, [80 Stat. 885][/us/stat/80/885], which is classified generally to chapter 13A (§ 1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of this title][/us/usc/t42/s1771] and Tables.
 
@@ -183,7 +185,7 @@
 
  __Prior Provisions__ 
 
-     A prior section 1769a, [act June 4, 1946, ch. 281, § 19][/us/act/1946-06-04/ch281/s19], formerly § 21, as added Nov. 10, 1977, [Pub. L. 95–166, § 13][/us/pl/95/166/s13], [91 Stat. 1338][/us/stat/91/1338]; renumbered § 19, Oct. 18, 1986, [Pub. L. 99–500, title III, § 371(c)(1)][/us/pl/99/500/s371/c/1], [100 Stat. 1783–368][/us/stat/100/1783-368], and Oct. 30, 1986, [Pub. L. 99–591, title III, § 371(c)(1)][/us/pl/99/591/s371/c/1], [100 Stat. 3341–372][/us/stat/100/3341-372]; renumbered § 19, Nov. 14, 1986, [Pub. L. 99–661, div. D, title V, § 4501(c)(1)][/us/pl/99/661/s4501/c/1], [100 Stat. 4080][/us/stat/100/4080]; Nov. 10, 1989, [Pub. L. 101–147, title I, § 108][/us/pl/101/147/s108], [103 Stat. 887][/us/stat/103/887]; Nov. 2, 1994, [Pub. L. 103–448, title I, § 119][/us/pl/103/448/s119], [108 Stat. 4726][/us/stat/108/4726], directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), prior to repeal by [Pub. L. 104–193, title VII, § 710][/us/pl/104/193/s710], Aug. 22, 1996, [110 Stat. 2301][/us/stat/110/2301].
+     A prior section 1769a, [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 19, formerly § 21, as added Nov. 10, 1977, [Pub. L. 95–166][/us/pl/95/166], § 13, [91 Stat. 1338][/us/stat/91/1338]; renumbered § 19, Oct. 18, 1986, [Pub. L. 99–500, title III][/us/pl/99/500/tIII], § 371(c)(1), [100 Stat. 1783–368][/us/stat/100/1783-368], and Oct. 30, 1986, [Pub. L. 99–591, title III][/us/pl/99/591/tIII], § 371(c)(1), [100 Stat. 3341–372][/us/stat/100/3341-372]; renumbered § 19, Nov. 14, 1986, [Pub. L. 99–661, div. D, title V][/us/pl/99/661/dD/tV], § 4501(c)(1), [100 Stat. 4080][/us/stat/100/4080]; Nov. 10, 1989, [Pub. L. 101–147, title I][/us/pl/101/147/tI], § 108, [103 Stat. 887][/us/stat/103/887]; Nov. 2, 1994, [Pub. L. 103–448, title I][/us/pl/103/448/tI], § 119, [108 Stat. 4726][/us/stat/108/4726], directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), prior to repeal by [Pub. L. 104–193, title VII][/us/pl/104/193/tVII], § 710, Aug. 22, 1996, [110 Stat. 2301][/us/stat/110/2301].
 
  __Change of Name__ 
 
@@ -197,7 +199,7 @@
 
  __Pilot Project for Canned, Frozen, or Dried Fruits and Vegetables__ 
 
-[Pub. L. 113–79, title IV, § 4214][/us/pl/113/79/s4214], Feb. 7, 2014, [128 Stat. 831][/us/stat/128/831], provided that:
+[Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4214, Feb. 7, 2014, [128 Stat. 831][/us/stat/128/831], provided that:
 
 >     “(a)  __In general__  __.—__ 
 
@@ -245,7 +247,7 @@
 
  __Transition of Existing Schools__ 
 
-[Pub. L. 110–234, title IV, § 4304(a)(2)][/us/pl/110/234/s4304/a/2], May 22, 2008, [122 Stat. 1130][/us/stat/122/1130], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4304(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1891, provided that:
+[Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4304(a)(2), May 22, 2008, [122 Stat. 1130][/us/stat/122/1130], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4304(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1891, provided that:
 
 >     “(A)  __Existing secondary schools__  __.—__ 
 
@@ -268,17 +270,21 @@
 ----------
 ----------
 
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t7/s612c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%936
 [/us/usc/t42/s1769/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769%2Ff
 [/us/usc/t7/s612c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%936
-[/us/act/1946-06-04/ch281/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs19
-[/us/pl/110/234/s4304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4304%2Fa%2F1
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1127
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246/s4304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4304%2Fa%2F2
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/89/10/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs9101
+[/us/pl/89/10/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs8101
+[/us/pl/114/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVIII
+[/us/stat/129/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2089
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
@@ -287,21 +293,21 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1946-06-04/ch281/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs19
-[/us/pl/95/166/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166%2Fs13
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166
 [/us/stat/91/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1338
-[/us/pl/99/500/s371/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs371%2Fc%2F1
+[/us/pl/99/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2FtIII
 [/us/stat/100/1783-368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-368
-[/us/pl/99/591/s371/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs371%2Fc%2F1
+[/us/pl/99/591/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtIII
 [/us/stat/100/3341-372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-372
-[/us/pl/99/661/s4501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4501%2Fc%2F1
+[/us/pl/99/661/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdD%2FtV
 [/us/stat/100/4080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4080
-[/us/pl/101/147/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs108
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F887
-[/us/pl/103/448/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs119
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4726
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/pl/104/193/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs710
+[/us/pl/104/193/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVII
 [/us/stat/110/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2301
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -310,13 +316,13 @@
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/113/79/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4214
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F831
 [/us/usc/t42/s1769a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769a
 [/us/usc/t7/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5341
-[/us/pl/110/234/s4304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4304%2Fa%2F2
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1130
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t42/s1769a/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769a%2Fd%2F1%2FC
 [/us/usc/t42/s1769/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769%2Ff

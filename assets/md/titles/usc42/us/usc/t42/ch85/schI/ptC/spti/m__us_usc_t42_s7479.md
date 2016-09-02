@@ -31,19 +31,19 @@
 
     (4) The term “baseline concentration” means, with respect to a pollutant, the ambient concentration levels which exist at the time of the first application for a permit in an area subject to this part, based on air quality data available in the Environmental Protection Agency or a State air pollution control agency and on such monitoring data as the permit applicant is required to submit. Such ambient concentration levels shall take into account all projected emissions in, or which may affect, such area from any major emitting facility on which construction commenced prior to January 6, 1975, but which has not begun operation by the date of the baseline air quality concentration determination. Emissions of sulfur oxides and particulate matter from any major emitting facility on which construction commenced after January 6, 1975, shall not be included in the baseline and shall be counted against the maximum allowable increases in pollutant concentrations established under this part.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 169, as added [Pub. L. 95–95, title I, § 127(a)][/us/pl/95/95/s127/a], Aug. 7, 1977, [91 Stat. 740][/us/stat/91/740]; amended [Pub. L. 95–190, § 14(a)(54)][/us/pl/95/190/s14/a/54], Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402]; [Pub. L. 101–549, title III, § 305(b)][/us/pl/101/549/s305/b], title IV, § 403(d), Nov. 15, 1990, [104 Stat. 2583][/us/stat/104/2583], 2631.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 169, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 127(a), Aug. 7, 1977, [91 Stat. 740][/us/stat/91/740]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(54), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402]; [Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 305(b), title IV, § 403(d), Nov. 15, 1990, [104 Stat. 2583][/us/stat/104/2583], 2631.)
 
  __Amendments__ 
 
-    1990—Par. (1). [Pub. L. 101–549, § 305(b)][/us/pl/101/549/s305/b], struck out “two hundred and” after “municipal incinerators capable of charging more than”.
+    1990—Par. (1). [Pub. L. 101–549][/us/pl/101/549], § 305(b), struck out “two hundred and” after “municipal incinerators capable of charging more than”.
 
-    Par. (3). [Pub. L. 101–549, § 403(d)][/us/pl/101/549/s403/d], directed the insertion of “, clean fuels,” after “including fuel cleaning,”, which was executed by making the insertion after “including fuel cleaning” to reflect the probable intent of Congress, and inserted at end “Emissions from any source utilizing clean fuels, or any other means, to comply with this paragraph shall not be allowed to increase above levels that would have been required under this paragraph as it existed prior to November 15, 1990.”
+    Par. (3). [Pub. L. 101–549][/us/pl/101/549], § 403(d), directed the insertion of “, clean fuels,” after “including fuel cleaning,”, which was executed by making the insertion after “including fuel cleaning” to reflect the probable intent of Congress, and inserted at end “Emissions from any source utilizing clean fuels, or any other means, to comply with this paragraph shall not be allowed to increase above levels that would have been required under this paragraph as it existed prior to November 15, 1990.”
 
     1977—Par. (2)(C). [Pub. L. 95–190][/us/pl/95/190] added subpar. (C).
 
  __Study of Major Emitting Facilities With Potential of Emitting 250 Tons Per Year__ 
 
-    [Pub. L. 95–95, title I, § 127(b)][/us/pl/95/95/s127/b], Aug. 7, 1977, [91 Stat. 741][/us/stat/91/741], directed Administrator, within 1 year after Aug. 7, 1977, to report to Congress on consequences of that portion of definition of “major emitting facility” under this subpart which applies to facilities with potential to emit 250 tons per year or more.
+    [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 127(b), Aug. 7, 1977, [91 Stat. 741][/us/stat/91/741], directed Administrator, within 1 year after Aug. 7, 1977, to report to Congress on consequences of that portion of definition of “major emitting facility” under this subpart which applies to facilities with potential to emit 250 tons per year or more.
 
 ----------
 
@@ -54,16 +54,16 @@
 
 [/us/usc/t42/s7411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs127%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F740
-[/us/pl/95/190/s14/a/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F54
-[/us/stat/91/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1402
-[/us/pl/101/549/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs305%2Fb
-[/us/stat/104/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2583
-[/us/pl/101/549/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs305%2Fb
-[/us/pl/101/549/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs403%2Fd
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
-[/us/pl/95/95/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs127%2Fb
+[/us/stat/91/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1402
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
+[/us/stat/104/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2583
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F741
 
 

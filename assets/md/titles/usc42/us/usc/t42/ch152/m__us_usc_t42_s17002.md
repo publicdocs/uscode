@@ -17,7 +17,7 @@
 
     Except to the extent expressly provided in this Act or an amendment made by this Act, nothing in this Act or an amendment made by this Act supersedes, limits the authority provided or responsibility conferred by, or authorizes any violation of any provision of law (including a regulation), including any energy or environmental law or regulation.
 
-([Pub. L. 110–140, § 3][/us/pl/110/140/s3], Dec. 19, 2007, [121 Stat. 1498][/us/stat/121/1498].)
+([Pub. L. 110–140][/us/pl/110/140], § 3, Dec. 19, 2007, [121 Stat. 1498][/us/stat/121/1498].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs3
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1498
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492

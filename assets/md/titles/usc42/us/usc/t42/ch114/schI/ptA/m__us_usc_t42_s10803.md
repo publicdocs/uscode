@@ -27,7 +27,7 @@
 
         (B) investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred.
 
-([Pub. L. 99–319, title I, § 103][/us/pl/99/319/s103], May 23, 1986, [100 Stat. 479][/us/stat/100/479]; [Pub. L. 102–173, § 10(2)][/us/pl/102/173/s10/2], Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 103, May 23, 1986, [100 Stat. 479][/us/stat/100/479]; [Pub. L. 102–173][/us/pl/102/173], § 10(2), Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t42/s10805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10805
-[/us/pl/99/319/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs103
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F479
-[/us/pl/102/173/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F2
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1219
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 

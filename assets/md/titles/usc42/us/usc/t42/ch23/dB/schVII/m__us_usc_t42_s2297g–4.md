@@ -17,7 +17,7 @@
 
     Within 3 years after October 24, 1992, and at least once every 3 years thereafter, the Secretary shall report to the Congress on progress under this subchapter. The 5th report submitted under this section shall contain recommendations of the Secretary for the reauthorization of the program and Fund under this division.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1805, as added [Pub. L. 102–486, title XI, § 1101][/us/pl/102/486/s1101], Oct. 24, 1992, [106 Stat. 2955][/us/stat/106/2955].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1805, as added [Pub. L. 102–486, title XI][/us/pl/102/486/tXI], § 1101, Oct. 24, 1992, [106 Stat. 2955][/us/stat/106/2955].)
 
  __Termination of Reporting Requirements__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/102/486/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1101
+[/us/pl/102/486/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXI
 [/us/stat/106/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2955
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

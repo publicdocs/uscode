@@ -171,7 +171,7 @@
 
             (E) is determined under this section to meet the criteria in this paragraph.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1881A, as added [Pub. L. 111–148, title X, § 10323(a)][/us/pl/111/148/s10323/a], Mar. 23, 2010, [124 Stat. 954][/us/stat/124/954].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1881A, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10323(a), Mar. 23, 2010, [124 Stat. 954][/us/stat/124/954].)
 
  __References in Text__ 
 
@@ -192,7 +192,7 @@
 [/us/usc/t42/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg
 [/us/usc/t42/s9604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s10323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10323%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F954
 
 

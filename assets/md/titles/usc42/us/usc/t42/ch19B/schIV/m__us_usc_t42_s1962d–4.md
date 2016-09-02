@@ -27,7 +27,7 @@
 
         Each reservoir included in the plan authorized by this section shall be considered as a component of a comprehensive plan for the optimum development of the river basin in which it is situated, as well as a component of the plan established in accordance with this section.
 
-([Pub. L. 89–298, title I, § 101][/us/pl/89/298/s101], Oct. 27, 1965, [79 Stat. 1073][/us/stat/79/1073].)
+([Pub. L. 89–298, title I][/us/pl/89/298/tI], § 101, Oct. 27, 1965, [79 Stat. 1073][/us/stat/79/1073].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962
-[/us/pl/89/298/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs101
+[/us/pl/89/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtI
 [/us/stat/79/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1073
 [/us/pl/89/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80
 [/us/stat/79/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F244

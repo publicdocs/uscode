@@ -117,23 +117,23 @@
 
                 A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to grandparents and older individuals who are relative caregivers of a child who is not more than 18 years of age.
 
-([Pub. L. 89–73, title III, § 373][/us/pl/89/73/s373], as added [Pub. L. 106–501, title III, § 316(2)][/us/pl/106/501/s316/2], Nov. 13, 2000, [114 Stat. 2254][/us/stat/114/2254]; amended [Pub. L. 109–365, title III, § 321][/us/pl/109/365/s321], Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 373, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 316(2), Nov. 13, 2000, [114 Stat. 2254][/us/stat/114/2254]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 321, Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551].)
 
  __Amendments__ 
 
-    2006—Subsec. (b)(3). [Pub. L. 109–365, § 321(1)][/us/pl/109/365/s321/1], substituted “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;” for “caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;”.
+    2006—Subsec. (b)(3). [Pub. L. 109–365][/us/pl/109/365], § 321(1), substituted “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;” for “caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;”.
 
-    Subsec. (c)(1)(B). [Pub. L. 109–365, § 321(2)(A)][/us/pl/109/365/s321/2/A], substituted “subparagraph (A)(i) or (B) of section 3002(22)” for “subparagraph (A)(i) or (B) of section 3002(28)”.
+    Subsec. (c)(1)(B). [Pub. L. 109–365][/us/pl/109/365], § 321(2)(A), substituted “subparagraph (A)(i) or (B) of section 3002(22)” for “subparagraph (A)(i) or (B) of section 3002(28)”.
 
-    Subsec. (c)(2). [Pub. L. 109–365, § 321(2)(B)][/us/pl/109/365/s321/2/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In providing services under this subpart, the State shall give priority for services to older individuals with greatest social and economic need, (with particular attention to low-income older individuals) and older individuals providing care and support to persons with mental retardation and related developmental disabilities (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6001][/us/usc/t42/s6001])) (referred to in this subpart as ‘developmental disabilities’).”
+    Subsec. (c)(2). [Pub. L. 109–365][/us/pl/109/365], § 321(2)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In providing services under this subpart, the State shall give priority for services to older individuals with greatest social and economic need, (with particular attention to low-income older individuals) and older individuals providing care and support to persons with mental retardation and related developmental disabilities (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6001][/us/usc/t42/s6001])) (referred to in this subpart as ‘developmental disabilities’).”
 
-    Subsec. (d). [Pub. L. 109–365, § 321(3)][/us/pl/109/365/s321/3], amended subsec. (d) generally. Prior to amendment, text read as follows: “In carrying out this subpart, each area agency on aging shall coordinate the activities of the agency, or entity that such agency has contracted with, with the activities of other community agencies and voluntary organizations providing the types of services described in subsection (b) of this section.”
+    Subsec. (d). [Pub. L. 109–365][/us/pl/109/365], § 321(3), amended subsec. (d) generally. Prior to amendment, text read as follows: “In carrying out this subpart, each area agency on aging shall coordinate the activities of the agency, or entity that such agency has contracted with, with the activities of other community agencies and voluntary organizations providing the types of services described in subsection (b) of this section.”
 
-    Subsec. (e)(3). [Pub. L. 109–365, § 321(4)][/us/pl/109/365/s321/4], inserted at end “The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.”
+    Subsec. (e)(3). [Pub. L. 109–365][/us/pl/109/365], § 321(4), inserted at end “The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.”
 
-    Subsec. (f)(1)(A). [Pub. L. 109–365, § 321(5)][/us/pl/109/365/s321/5], substituted “2007, 2008, 2009, 2010, and 2011” for “2001 through 2005”.
+    Subsec. (f)(1)(A). [Pub. L. 109–365][/us/pl/109/365], § 321(5), substituted “2007, 2008, 2009, 2010, and 2011” for “2001 through 2005”.
 
-    Subsec. (g)(2)(C). [Pub. L. 109–365, § 321(6)][/us/pl/109/365/s321/6], inserted “of a child who is not more than 18 years of age” before period at end.
+    Subsec. (g)(2)(C). [Pub. L. 109–365][/us/pl/109/365], § 321(6), inserted “of a child who is not more than 18 years of age” before period at end.
 
 ----------
 
@@ -149,18 +149,18 @@
 [/us/usc/t42/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023
 [/us/usc/t42/s3023/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fc%2F1
 [/us/usc/t42/s3024/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024%2Fd%2F1%2FD
-[/us/pl/89/73/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs373
-[/us/pl/106/501/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs316%2F2
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2254
-[/us/pl/109/365/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2551
-[/us/pl/109/365/s321/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321%2F1
-[/us/pl/109/365/s321/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321%2F2%2FA
-[/us/pl/109/365/s321/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321%2F2%2FB
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/usc/t42/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6001
-[/us/pl/109/365/s321/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321%2F3
-[/us/pl/109/365/s321/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321%2F4
-[/us/pl/109/365/s321/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321%2F5
-[/us/pl/109/365/s321/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs321%2F6
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

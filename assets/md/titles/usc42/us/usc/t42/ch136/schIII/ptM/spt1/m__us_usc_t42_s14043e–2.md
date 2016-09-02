@@ -79,7 +79,7 @@
 
     (9) the term “tribally designated housing entity” means a housing entity described in the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(21)][/us/usc/t25/s4103/21]);  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The semicolon probably should be a period. </sup></sup> 
 
-([Pub. L. 103–322, title IV, § 41403][/us/pl/103/322/s41403], as added [Pub. L. 109–162, title VI, § 601][/us/pl/109/162/s601], Jan. 5, 2006, [119 Stat. 3031][/us/stat/119/3031]; amended [Pub. L. 113–4, title VI, § 601(a)(3)][/us/pl/113/4/s601/a/3], Mar. 7, 2013, [127 Stat. 102][/us/stat/127/102].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41403, as added [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 601, Jan. 5, 2006, [119 Stat. 3031][/us/stat/119/3031]; amended [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 601(a)(3), Mar. 7, 2013, [127 Stat. 102][/us/stat/127/102].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
     The Housing and Community Development Act of 1974, referred to in par. (1)(G), is [Pub. L. 93–383][/us/pl/93/383], Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633], as amended. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title][/us/usc/t42/s5301] and Tables.
 
-    The Native American Housing Assistance and Self-Determination Act of 1996, referred to in pars. (8) and (9), is [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. Par. (21) of [section 4103 of Title 25][/us/usc/t25/s4103] was redesignated par. (22) by [Pub. L. 110–411, § 3(2)][/us/pl/110/411/s3/2], Oct. 14, 2008, [122 Stat. 4320][/us/stat/122/4320]. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25][/us/usc/t25/s4101] and Tables.
+    The Native American Housing Assistance and Self-Determination Act of 1996, referred to in pars. (8) and (9), is [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. Par. (21) of [section 4103 of Title 25][/us/usc/t25/s4103] was redesignated par. (22) by [Pub. L. 110–411][/us/pl/110/411], § 3(2), Oct. 14, 2008, [122 Stat. 4320][/us/stat/122/4320]. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25][/us/usc/t25/s4101] and Tables.
 
  __Amendments__ 
 
@@ -113,10 +113,10 @@
 [/us/usc/t20/s6399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6399
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/usc/t25/s4103/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4103%2F21
-[/us/pl/103/322/s41403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41403
-[/us/pl/109/162/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs601
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3031
-[/us/pl/113/4/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fa%2F3
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F102
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
@@ -127,7 +127,7 @@
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4103
-[/us/pl/110/411/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs3%2F2
+[/us/pl/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411
 [/us/stat/122/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4320
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4

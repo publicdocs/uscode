@@ -17,7 +17,7 @@
 
     The Secretary is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Federal Government, information, suggestions, estimates, and statistics for the purpose of sections 1962d–7 to 1962d–11 of this title, and each department, bureau, agency, board, commission, office, independent establishment, or instrumentality is authorized and directed to furnish such information, suggestions, estimates, and statistics, to the Secretary upon his or his designee’s request.
 
-([Pub. L. 89–618, § 3][/us/pl/89/618/s3], Oct. 4, 1966, [80 Stat. 870][/us/stat/80/870].)
+([Pub. L. 89–618][/us/pl/89/618], § 3, Oct. 4, 1966, [80 Stat. 870][/us/stat/80/870].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/618/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618%2Fs3
+[/us/pl/89/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618
 [/us/stat/80/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F870
 
 

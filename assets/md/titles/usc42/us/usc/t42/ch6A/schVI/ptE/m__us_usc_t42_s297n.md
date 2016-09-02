@@ -143,17 +143,17 @@
 
             Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) of this section and the program under subsection (d) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 846, as added [Pub. L. 102–408, title II, § 211(a)(3)][/us/pl/102/408/s211/a/3], Oct. 13, 1992, [106 Stat. 2078][/us/stat/106/2078]; amended [Pub. L. 105–392, title I, § 133(d)][/us/pl/105/392/s133/d], Nov. 13, 1998, [112 Stat. 3576][/us/stat/112/3576]; [Pub. L. 107–205, title I, § 103][/us/pl/107/205/s103], Aug. 1, 2002, [116 Stat. 813][/us/stat/116/813]; [Pub. L. 111–148, title V, § 5310(a)][/us/pl/111/148/s5310/a], Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 846, as added [Pub. L. 102–408, title II][/us/pl/102/408/tII], § 211(a)(3), Oct. 13, 1992, [106 Stat. 2078][/us/stat/106/2078]; amended [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 133(d), Nov. 13, 1998, [112 Stat. 3576][/us/stat/112/3576]; [Pub. L. 107–205, title I][/us/pl/107/205/tI], § 103, Aug. 1, 2002, [116 Stat. 813][/us/stat/116/813]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5310(a), Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631].)
 
  __References in Text__ 
 
-    Subpart II, referred to in subsec. (a)(2), probably should be “this part” to reflect the redesignation of subpart II of former part B of this subchapter as part E of this subchapter by [Pub. L. 105–392, title I, § 123(2)][/us/pl/105/392/s123/2], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562].
+    Subpart II, referred to in subsec. (a)(2), probably should be “this part” to reflect the redesignation of subpart II of former part B of this subchapter as part E of this subchapter by [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(2), Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562].
 
-    [Section 298b–7(c) of this title][/us/usc/t42/s298b–7/c], referred to in subsec. (f), was repealed by [Pub. L. 105–392, title I, § 123(1)][/us/pl/105/392/s123/1], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562].
+    [Section 298b–7(c) of this title][/us/usc/t42/s298b–7/c], referred to in subsec. (f), was repealed by [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(1), Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562].
 
  __Prior Provisions__ 
 
-    A prior section 297n, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 847, as added Nov. 4, 1988, [Pub. L. 100–607, title VII, § 716][/us/pl/100/607/s716], [102 Stat. 3163][/us/stat/102/3163]; amended Nov. 18, 1988, [Pub. L. 100–690, title II, § 2616(b)][/us/pl/100/690/s2616/b], [102 Stat. 4240][/us/stat/102/4240], established a demonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by [Pub. L. 102–408, title II, § 210][/us/pl/102/408/s210], Oct. 13, 1992, [106 Stat. 2078][/us/stat/106/2078].
+    A prior section 297n, [act July 1, 1944, ch. 373, title VIII][/us/act/1944-07-01/ch373/tVIII], § 847, as added Nov. 4, 1988, [Pub. L. 100–607, title VII][/us/pl/100/607/tVII], § 716, [102 Stat. 3163][/us/stat/102/3163]; amended Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2616(b), [102 Stat. 4240][/us/stat/102/4240], established a demonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by [Pub. L. 102–408, title II][/us/pl/102/408/tII], § 210, Oct. 13, 1992, [106 Stat. 2078][/us/stat/106/2078].
 
     A prior section 846 of act July 1, 1944, was classified to [section 297k of this title][/us/usc/t42/s297k] and was repealed by [Pub. L. 97–35][/us/pl/97/35].
 
@@ -161,25 +161,25 @@
 
     2010—Subsec. (a)(3). [Pub. L. 111–148][/us/pl/111/148] inserted “, or in a accredited school of nursing, as defined by [section 296(2) of this title][/us/usc/t42/s296/2], as nurse faculty” before semicolon at end.
 
-    2002—[Pub. L. 107–205, § 103(b)(1)][/us/pl/107/205/s103/b/1], substituted “Loan repayment and scholarship programs” for “Loan repayment program” in section catchline.
+    2002—[Pub. L. 107–205][/us/pl/107/205], § 103(b)(1), substituted “Loan repayment and scholarship programs” for “Loan repayment program” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–205, § 103(a)(2)][/us/pl/107/205/s103/a/2], inserted at end of concluding provisions “After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.”
+    Subsec. (a). [Pub. L. 107–205][/us/pl/107/205], § 103(a)(2), inserted at end of concluding provisions “After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.”
 
-    Subsec. (a)(3). [Pub. L. 107–205, § 103(a)(1)][/us/pl/107/205/s103/a/1], substituted “at a health care facility with a critical shortage of nurses” for “in an Indian Health Service health center, in a Native Hawaiian health center, in a public hospital, in a migrant health center, in a community health center, in a rural health clinic, or in a public or nonprofit private health facility determined by the Secretary to have a critical shortage of nurses”.
+    Subsec. (a)(3). [Pub. L. 107–205][/us/pl/107/205], § 103(a)(1), substituted “at a health care facility with a critical shortage of nurses” for “in an Indian Health Service health center, in a Native Hawaiian health center, in a public hospital, in a migrant health center, in a community health center, in a rural health clinic, or in a public or nonprofit private health facility determined by the Secretary to have a critical shortage of nurses”.
 
-    Subsec. (d). [Pub. L. 107–205, § 103(b)(4)][/us/pl/107/205/s103/b/4], added subsec. (d). Former subsec. (d) redesignated (f).
+    Subsec. (d). [Pub. L. 107–205][/us/pl/107/205], § 103(b)(4), added subsec. (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (e). [Pub. L. 107–205, § 103(c)][/us/pl/107/205/s103/c], substituted “under subsection (a) or (d) of this section, the Secretary shall give preference to qualified applicants with the greatest financial need.” for “under subsection (a) of this section, the Secretary shall give preference—
+    Subsec. (e). [Pub. L. 107–205][/us/pl/107/205], § 103(c), substituted “under subsection (a) or (d) of this section, the Secretary shall give preference to qualified applicants with the greatest financial need.” for “under subsection (a) of this section, the Secretary shall give preference—
 
     “(1) to qualified applicants with the greatest financial need; and
 
     “(2) to qualified applicants that, with respect to health facilities described in such subsection, agree to serve in such health facilities located in geographic areas with a shortage of and need for nurses, as determined by the Secretary.”
 
-    Subsec. (f). [Pub. L. 107–205, § 103(b)(2)][/us/pl/107/205/s103/b/2], (3), redesignated subsec. (d) as (f) and transferred it to appear after subsec. (e). Former subsec. (f) redesignated (h).
+    Subsec. (f). [Pub. L. 107–205][/us/pl/107/205], § 103(b)(2), (3), redesignated subsec. (d) as (f) and transferred it to appear after subsec. (e). Former subsec. (f) redesignated (h).
 
-    Subsec. (g). [Pub. L. 107–205, § 103(b)(2)][/us/pl/107/205/s103/b/2], (3), redesignated subsec. (h) as (g) and transferred it to appear after subsec. (f). Former subsec. (g) redesignated (i).
+    Subsec. (g). [Pub. L. 107–205][/us/pl/107/205], § 103(b)(2), (3), redesignated subsec. (h) as (g) and transferred it to appear after subsec. (f). Former subsec. (g) redesignated (i).
 
-    Subsec. (h). [Pub. L. 107–205, § 103(b)(2)][/us/pl/107/205/s103/b/2], (d), redesignated subsec. (f) as (h) and amended it generally. Prior to amendment, text of subsec. read as follows: “For purposes of this section:
+    Subsec. (h). [Pub. L. 107–205][/us/pl/107/205], § 103(b)(2), (d), redesignated subsec. (f) as (h) and amended it generally. Prior to amendment, text of subsec. read as follows: “For purposes of this section:
 
     “(1) The term ‘community health center’ has the meaning given such term in [section 254c(a) of this title][/us/usc/t42/s254c/a].
 
@@ -189,7 +189,7 @@
 
     Former subsec. (h) redesignated (g).
 
-    Subsec. (i). [Pub. L. 107–205, § 103(b)(2)][/us/pl/107/205/s103/b/2], (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
+    Subsec. (i). [Pub. L. 107–205][/us/pl/107/205], § 103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
 
     1998—Subsec. (h). [Pub. L. 105–392][/us/pl/105/392] added subsec. (h).
 
@@ -206,42 +206,42 @@
 
 [/us/usc/t42/s296/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s211/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs211%2Fa%2F3
+[/us/pl/102/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtII
 [/us/stat/106/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2078
-[/us/pl/105/392/s133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs133%2Fd
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3576
-[/us/pl/107/205/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103
+[/us/pl/107/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2FtI
 [/us/stat/116/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F813
-[/us/pl/111/148/s5310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5310%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F631
-[/us/pl/105/392/s123/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F2
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
 [/us/usc/t42/s298b–7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298b%E2%80%937%2Fc
-[/us/pl/105/392/s123/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F1
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs716
+[/us/act/1944-07-01/ch373/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVIII
+[/us/pl/100/607/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVII
 [/us/stat/102/3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3163
-[/us/pl/100/690/s2616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2616%2Fb
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4240
-[/us/pl/102/408/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs210
+[/us/pl/102/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtII
 [/us/stat/106/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2078
 [/us/usc/t42/s297k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297k
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s296/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296%2F2
-[/us/pl/107/205/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fb%2F1
-[/us/pl/107/205/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fa%2F2
-[/us/pl/107/205/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fa%2F1
-[/us/pl/107/205/s103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fb%2F4
-[/us/pl/107/205/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fc
-[/us/pl/107/205/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fb%2F2
-[/us/pl/107/205/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fb%2F2
-[/us/pl/107/205/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fb%2F2
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
 [/us/usc/t42/s254c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%2Fa
 [/us/usc/t42/s254b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fa%2F1
 [/us/usc/t42/s1395x/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F2
-[/us/pl/107/205/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs103%2Fb%2F2
+[/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b

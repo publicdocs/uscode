@@ -23,7 +23,7 @@
 
         The Secretary of Agriculture shall utilize funds appropriated under [section 612c of title 7][/us/usc/t7/s612c], to purchase food commodities necessary to provide adequate supplies for use in any area of the United States in the event of a major disaster or emergency in such area.
 
-([Pub. L. 93–288, title IV, § 413][/us/pl/93/288/s413], formerly § 410, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 413, [Pub. L. 100–707, title I, § 106(h)][/us/pl/100/707/s106/h], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 413, formerly § 410, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 413, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(h), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
 
  __Prior Provisions__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/93/288/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs413
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F157
-[/us/pl/100/707/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fh
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
 [/us/pl/93/288/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs413
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707

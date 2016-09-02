@@ -19,7 +19,7 @@
 
     (b) Within twelve months after August 13, 1981, the Secretary, in consultation with the Radiation Policy Council, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, interested agencies of the States, and appropriate professional organizations, shall by regulation promulgate minimum standards for the certification of persons who administer radiologic procedures. Such standards shall distinguish between certification of (1) medical radiologic technologists (including radiographers), (2) dental auxiliaries (including dental hygienists and assistants), (3) radiation therapy technologists, (4) nuclear medicine technologists, and (5) such other kinds of health auxiliaries who administer radiologic procedures as the Secretary determines appropriate. Such standards shall include minimum certification criteria for individuals with regard to accredited education, practical experience, successful passage of required examinations, and such other criteria as the Secretary shall deem necessary for the adequate qualification of individuals to administer radiologic procedures. Such standards shall not apply to practitioners.
 
-([Pub. L. 97–35, title IX, § 979][/us/pl/97/35/s979], Aug. 13, 1981, [95 Stat. 599][/us/stat/95/599]; [Pub. L. 102–54, § 13(q)(13)(A)][/us/pl/102/54/s13/q/13/A], June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 979, Aug. 13, 1981, [95 Stat. 599][/us/stat/95/599]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(13)(A), June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs979
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F599
-[/us/pl/102/54/s13/q/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F13%2FA
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 

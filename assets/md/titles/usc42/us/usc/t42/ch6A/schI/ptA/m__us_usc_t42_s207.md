@@ -43,7 +43,7 @@
 
         The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Reserve Corps shall have the suffix “Reserve”.
 
-    (c) __Repealed.__  __[__  __Pub. L. 96–76, title III, § 304(b)__  __][/us/pl/96/76/s304/b]__  __,__  __Sept. 29, 1979__  __,__  __[__  __93 Stat. 584__  __][/us/stat/93/584]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 96–76, title III__  __][/us/pl/96/76/tIII]__  __, § 304(b),__  __Sept. 29, 1979__  __,__  __[__  __93 Stat. 584__  __][/us/stat/93/584]__ 
 
     (d) __Maximum number in grade for each fiscal year__ 
 
@@ -57,7 +57,7 @@
 
         In computing the maximum number of commissioned officers of the Public Health Service authorized by law or administrative determination to serve on active duty, there may be excluded from such computation officers who are assigned to duty in the Department of Defense.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 206, [58 Stat. 684][/us/stat/58/684]; [Feb. 28, 1948, ch. 83, § 4][/us/act/1948-02-28/ch83/s4], [62 Stat. 39][/us/stat/62/39]; [Oct. 31, 1951, ch. 653][/us/act/1951-10-31/ch653], [65 Stat. 700][/us/stat/65/700]; [July 17, 1952, ch. 931][/us/act/1952-07-17/ch931], [66 Stat. 758][/us/stat/66/758]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 87–649, § 11(1)][/us/pl/87/649/s11/1], Sept. 7, 1962, [76 Stat. 497][/us/stat/76/497]; [Pub. L. 95–215, § 8(b)][/us/pl/95/215/s8/b], Dec. 19, 1977, [91 Stat. 1507][/us/stat/91/1507]; [Pub. L. 96–76, title III, § 304][/us/pl/96/76/s304], Sept. 29, 1979, [93 Stat. 584][/us/stat/93/584]; [Pub. L. 99–117, § 9][/us/pl/99/117/s9], Oct. 7, 1985, [99 Stat. 494][/us/stat/99/494]; [Pub. L. 101–93, § 5(p)][/us/pl/101/93/s5/p], Aug. 16, 1989, [103 Stat. 614][/us/stat/103/614]; [Pub. L. 101–502, § 5(k)(1)][/us/pl/101/502/s5/k/1], Nov. 3, 1990, [104 Stat. 1289][/us/stat/104/1289]; [Pub. L. 104–201, div. A, title V, § 582][/us/pl/104/201/s582], Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 206, [58 Stat. 684][/us/stat/58/684]; [Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 4, [62 Stat. 39][/us/stat/62/39]; [Oct. 31, 1951, ch. 653][/us/act/1951-10-31/ch653], [65 Stat. 700][/us/stat/65/700]; [July 17, 1952, ch. 931][/us/act/1952-07-17/ch931], [66 Stat. 758][/us/stat/66/758]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 87–649][/us/pl/87/649], § 11(1), Sept. 7, 1962, [76 Stat. 497][/us/stat/76/497]; [Pub. L. 95–215][/us/pl/95/215], § 8(b), Dec. 19, 1977, [91 Stat. 1507][/us/stat/91/1507]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 304, Sept. 29, 1979, [93 Stat. 584][/us/stat/93/584]; [Pub. L. 99–117][/us/pl/99/117], § 9, Oct. 7, 1985, [99 Stat. 494][/us/stat/99/494]; [Pub. L. 101–93][/us/pl/101/93], § 5(p), Aug. 16, 1989, [103 Stat. 614][/us/stat/103/614]; [Pub. L. 101–502][/us/pl/101/502], § 5(k)(1), Nov. 3, 1990, [104 Stat. 1289][/us/stat/104/1289]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 582, Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538].)
 
  __Amendments__ 
 
@@ -69,11 +69,11 @@
 
     1985—Subsec. (e). [Pub. L. 99–117][/us/pl/99/117] added subsec. (e).
 
-    1979—Subsec. (a). [Pub. L. 96–76, § 304(a)][/us/pl/96/76/s304/a], added pars. (7) to (10).
+    1979—Subsec. (a). [Pub. L. 96–76][/us/pl/96/76], § 304(a), added pars. (7) to (10).
 
-    Subsec. (c). [Pub. L. 96–76, § 304(b)][/us/pl/96/76/s304/b], struck out subsec. (c) setting forth the grade and pay and allowances as director for a commissioned officer below the grade of director assigned to serve as chief of a division.
+    Subsec. (c). [Pub. L. 96–76][/us/pl/96/76], § 304(b), struck out subsec. (c) setting forth the grade and pay and allowances as director for a commissioned officer below the grade of director assigned to serve as chief of a division.
 
-    Subsec. (d). [Pub. L. 96–76, § 304(c)][/us/pl/96/76/s304/c], substituted “warrant officer (W–1)” for “junior assistant”.
+    Subsec. (d). [Pub. L. 96–76][/us/pl/96/76], § 304(c), substituted “warrant officer (W–1)” for “junior assistant”.
 
     1977—Subsec. (b)(6). [Pub. L. 95–215][/us/pl/95/215] substituted “junior assistant” for “senior assistant”.
 
@@ -120,38 +120,38 @@
 
 [/us/usc/t42/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs206
 [/us/usc/t42/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs206
-[/us/pl/96/76/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs304%2Fb
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F584
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F684
-[/us/act/1948-02-28/ch83/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs4
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F39
 [/us/act/1951-10-31/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch653
 [/us/stat/65/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F700
 [/us/act/1952-07-17/ch931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch931
 [/us/stat/66/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F758
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/87/649/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs11%2F1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F497
-[/us/pl/95/215/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215%2Fs8%2Fb
+[/us/pl/95/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215
 [/us/stat/91/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1507
-[/us/pl/96/76/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs304
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F584
-[/us/pl/99/117/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs9
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F494
-[/us/pl/101/93/s5/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fp
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F614
-[/us/pl/101/502/s5/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fk%2F1
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1289
-[/us/pl/104/201/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs582
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2538
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
-[/us/pl/96/76/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs304%2Fa
-[/us/pl/96/76/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs304%2Fb
-[/us/pl/96/76/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs304%2Fc
+[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
+[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
+[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
 [/us/pl/95/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502

@@ -41,7 +41,7 @@
 
         (4) ensure that the operation and maintenance procedures applied under this section are continued.
 
-([Pub. L. 102–486, title I, § 166][/us/pl/102/486/s166], Oct. 24, 1992, [106 Stat. 2861][/us/stat/106/2861].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 166, Oct. 24, 1992, [106 Stat. 2861][/us/stat/106/2861].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t42/s8262i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262i
 [/us/usc/t42/s8262i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262i
 [/us/usc/t42/s8254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8254
-[/us/pl/102/486/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs166
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2861
 
 

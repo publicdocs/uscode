@@ -81,7 +81,7 @@
 
         The regulations under this section shall take effect 3 years after October 28, 1992.
 
-([Pub. L. 102–550, title X, § 1018][/us/pl/102/550/s1018], Oct. 28, 1992, [106 Stat. 3910][/us/stat/106/3910].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1018, Oct. 28, 1992, [106 Stat. 3910][/us/stat/106/3910].)
 
  __References in Text__ 
 
@@ -100,7 +100,7 @@
 [/us/usc/t15/s2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2689
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
 [/us/usc/t15/s2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2615
-[/us/pl/102/550/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1018
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3910
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003

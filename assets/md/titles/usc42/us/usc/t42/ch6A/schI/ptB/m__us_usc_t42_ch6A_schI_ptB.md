@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This part was classified to subchapter XXV (§ 300aaa et seq.) of this chapter prior to its renumbering by [Pub. L. 103–43, title XX, § 2010(a)(1)][/us/pl/103/43/s2010/a/1]–(3), June 10, 1993, [107 Stat. 213][/us/stat/107/213].
+    This part was classified to subchapter XXV (§ 300aaa et seq.) of this chapter prior to its renumbering by [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2010(a)(1)–(3), June 10, 1993, [107 Stat. 213][/us/stat/107/213].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/43/s2010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fa%2F1
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F213
 
 

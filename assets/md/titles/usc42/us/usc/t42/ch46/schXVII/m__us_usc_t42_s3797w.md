@@ -311,7 +311,7 @@
 
                 The Attorney General shall ensure that grants awarded under this section are equitably distributed among the geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
 
-([Pub. L. 90–351, title I, § 2976][/us/pl/90/351/s2976], as added [Pub. L. 107–273, div. B, title II, § 2421(a)][/us/pl/107/273/s2421/a], Nov. 2, 2002, [116 Stat. 1801][/us/stat/116/1801]; amended [Pub. L. 110–199, title I, § 101][/us/pl/110/199/s101], Apr. 9, 2008, [122 Stat. 661][/us/stat/122/661].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2976, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2421(a), Nov. 2, 2002, [116 Stat. 1801][/us/stat/116/1801]; amended [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 101, Apr. 9, 2008, [122 Stat. 661][/us/stat/122/661].)
 
  __References in Text__ 
 
@@ -319,9 +319,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–199, § 101(d)][/us/pl/110/199/s101/d], substituted “States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.” for “States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects.”
+    2008—Subsec. (a). [Pub. L. 110–199][/us/pl/110/199], § 101(d), substituted “States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.” for “States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects.”
 
-    Subsec. (b)(1) to (7). [Pub. L. 110–199, § 101(a)][/us/pl/110/199/s101/a], added pars. (1) to (7) and struck out former pars. (1) to (4) which read as follows:
+    Subsec. (b)(1) to (7). [Pub. L. 110–199][/us/pl/110/199], § 101(a), added pars. (1) to (7) and struck out former pars. (1) to (4) which read as follows:
 
     “(1) oversight/monitoring of released offenders;
 
@@ -331,7 +331,7 @@
 
     “(4) establishing and implementing graduated sanctions and incentives.”
 
-    Subsec. (c). [Pub. L. 110–199, § 101(b)][/us/pl/110/199/s101/b], substituted “may be expended for any activity described in subsection (b).” for “may be expended for—
+    Subsec. (c). [Pub. L. 110–199][/us/pl/110/199], § 101(b), substituted “may be expended for any activity described in subsection (b).” for “may be expended for—
 
     “(1) providing returning juvenile offenders with drug and alcohol testing and treatment and mental and medical health assessment and services;
 
@@ -341,11 +341,11 @@
 
     “(4) providing for the planning of reentry services when the youth is initially incarcerated and coordinating the delivery of community-based services, such as education, family involvement and support, and other services as needed.”
 
-    Subsecs. (d) to (o). [Pub. L. 110–199, § 101(c)][/us/pl/110/199/s101/c], added subsecs. (d) to (n), redesignated former subsec. (h) as (o), and struck out former subsecs. (d) to (g) which related to submission of application, applicant requirements, matching funds, and reports, respectively.
+    Subsecs. (d) to (o). [Pub. L. 110–199][/us/pl/110/199], § 101(c), added subsecs. (d) to (n), redesignated former subsec. (h) as (o), and struck out former subsecs. (d) to (g) which related to submission of application, applicant requirements, matching funds, and reports, respectively.
 
-    Subsec. (o)(1). [Pub. L. 110–199, § 101(e)(1)][/us/pl/110/199/s101/e/1], substituted “$55,000,000 for each of fiscal years 2009 and 2010” for “$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005”.
+    Subsec. (o)(1). [Pub. L. 110–199][/us/pl/110/199], § 101(e)(1), substituted “$55,000,000 for each of fiscal years 2009 and 2010” for “$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005”.
 
-    Subsec. (o)(2). [Pub. L. 110–199, § 101(e)(2)][/us/pl/110/199/s101/e/2], amended par. (2) generally. Prior to amendment, text read as follows: “Of the amount made available to carry out this section in any fiscal year—
+    Subsec. (o)(2). [Pub. L. 110–199][/us/pl/110/199], § 101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Of the amount made available to carry out this section in any fiscal year—
 
     “(A) not more than 2 percent or less than 1 percent may be used by the Attorney General for salaries and administrative expenses; and
 
@@ -362,21 +362,21 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2976
-[/us/pl/107/273/s2421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2421%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1801
-[/us/pl/110/199/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs101
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F661
 [/us/usc/t42/s17541/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17541%2Fd%2F3%2FB
 [/us/pl/110/199/s231/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs231%2Fd%2F3%2FB
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/pl/110/199/s231/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs231%2Fd%2F3%2FB
-[/us/pl/110/199/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs101%2Fd
-[/us/pl/110/199/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs101%2Fa
-[/us/pl/110/199/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs101%2Fb
-[/us/pl/110/199/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs101%2Fc
-[/us/pl/110/199/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs101%2Fe%2F1
-[/us/pl/110/199/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs101%2Fe%2F2
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504
 

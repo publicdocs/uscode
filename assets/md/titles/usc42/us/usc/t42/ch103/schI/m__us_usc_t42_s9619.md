@@ -175,13 +175,13 @@
 
         (5) This subsection shall not apply to bonds executed before October 17, 1990.
 
-([Pub. L. 96–510, title I, § 119][/us/pl/96/510/s119], as added [Pub. L. 99–499, title I, § 119][/us/pl/99/499/s119], Oct. 17, 1986, [100 Stat. 1662][/us/stat/100/1662]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–198; [Pub. L. 101–584, § 1][/us/pl/101/584/s1], Nov. 15, 1990, [104 Stat. 2872][/us/stat/104/2872]; [Pub. L. 102–484, div. A, title III, § 331(a)][/us/pl/102/484/s331/a], Oct. 23, 1992, [106 Stat. 2373][/us/stat/106/2373]; [Pub. L. 105–276, title III][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2497][/us/stat/112/2497].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 119, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 119, Oct. 17, 1986, [100 Stat. 1662][/us/stat/100/1662]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–198; [Pub. L. 101–584][/us/pl/101/584], § 1, Nov. 15, 1990, [104 Stat. 2872][/us/stat/104/2872]; [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 331(a), Oct. 23, 1992, [106 Stat. 2373][/us/stat/106/2373]; [Pub. L. 105–276, title III][/us/pl/105/276/tIII], Oct. 21, 1998, [112 Stat. 2497][/us/stat/112/2497].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (b)(1), (e)(1), (2)(A)(iii), and (f), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     [Section 9660a of this title][/us/usc/t42/s9660a], referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning [section 126 of Pub. L. 99–499][/us/pl/99/499/s126], title I, Oct. 17, 1986, [100 Stat. 1690][/us/stat/100/1690]. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under [section 655 of Title 29][/us/usc/t29/s655], Labor. Subsec. (g) of section 126, which relates to grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to [section 9660a of this title][/us/usc/t42/s9660a].
 
@@ -189,9 +189,9 @@
 
  __Codification__ 
 
-    In subsec. (c)(3), “section 6301(a) and (b) of title 41” substituted for “section 3732 of the Revised Statutes ([41 U.S.C. 11][/us/usc/t41/s11])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(3), “section 6301(a) and (b) of title 41” substituted for “section 3732 of the Revised Statutes ([41 U.S.C. 11][/us/usc/t41/s11])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d]), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “[section 3134 of title 40][/us/usc/t40/s3134]” substituted for “the Act of April 29, 1941 ([40 U.S.C. 270e–270f][/us/usc/t40/s270e–270f])”, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d]), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “[section 3134 of title 40][/us/usc/t40/s3134]” substituted for “the Act of April 29, 1941 ([40 U.S.C. 270e–270f][/us/usc/t40/s270e–270f])”, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -199,15 +199,15 @@
 
     Subsec. (g)(5). [Pub. L. 105–276][/us/pl/105/276] struck out “, or after December 31, 1995” before period at end.
 
-    1992—Subsec. (e)(2)(C). [Pub. L. 102–484, § 321(a)(1)(A)][/us/pl/102/484/s321/a/1/A], substituted “January 1, 1996,” for “January 1, 1993”.
+    1992—Subsec. (e)(2)(C). [Pub. L. 102–484][/us/pl/102/484], § 321(a)(1)(A), substituted “January 1, 1996,” for “January 1, 1993”.
 
-    Subsec. (g)(1). [Pub. L. 102–484, § 331(a)(2)][/us/pl/102/484/s331/a/2], substituted “the Act of August 24, 1935 ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d]), commonly referred to as the ‘Miller Act’,” for “the Miller Act, 40 U.S.C. sections 270a–270f,”, inserted “and are not waived pursuant to the Act of April 29, 1941 ([40 U.S.C. 270e–270f][/us/usc/t40/s270e–270f])”, and substituted “in accordance with such Act of August 24, 1935.” for “in accordance with 40 U.S.C. sections 270a–270d.”
+    Subsec. (g)(1). [Pub. L. 102–484][/us/pl/102/484], § 331(a)(2), substituted “the Act of August 24, 1935 ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d]), commonly referred to as the ‘Miller Act’,” for “the Miller Act, 40 U.S.C. sections 270a–270f,”, inserted “and are not waived pursuant to the Act of April 29, 1941 ([40 U.S.C. 270e–270f][/us/usc/t40/s270e–270f])”, and substituted “in accordance with such Act of August 24, 1935.” for “in accordance with 40 U.S.C. sections 270a–270d.”
 
-    Subsec. (g)(5). [Pub. L. 102–484, § 331(a)(1)(B)][/us/pl/102/484/s331/a/1/B], substituted “December 31, 1995” for “December 31, 1992”.
+    Subsec. (g)(5). [Pub. L. 102–484][/us/pl/102/484], § 331(a)(1)(B), substituted “December 31, 1995” for “December 31, 1992”.
 
-    1990—Subsec. (e)(2)(C). [Pub. L. 101–584, § 1(1)][/us/pl/101/584/s1/1], (2), added subpar. (C).
+    1990—Subsec. (e)(2)(C). [Pub. L. 101–584][/us/pl/101/584], § 1(1), (2), added subpar. (C).
 
-    Subsec. (g). [Pub. L. 101–584, § 1(3)][/us/pl/101/584/s1/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–584][/us/pl/101/584], § 1(3), added subsec. (g).
 
     1987—Subsec. (e)(2)(A)(iii). [Pub. L. 100–202][/us/pl/100/202] added cl. (iii).
 
@@ -237,25 +237,25 @@
 [/us/usc/t42/s9604/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fd%2F1
 [/us/usc/t42/s9660/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9660%2Fb
 [/us/usc/t40/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3134
-[/us/pl/96/510/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs119
-[/us/pl/99/499/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs119
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1662
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
-[/us/pl/101/584/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F584%2Fs1
+[/us/pl/101/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F584
 [/us/stat/104/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2872
-[/us/pl/102/484/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs331%2Fa
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2373
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIII
 [/us/stat/112/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2497
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s9660a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9660a
@@ -269,22 +269,22 @@
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
 [/us/usc/t41/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs11
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
 [/us/usc/t40/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3134
 [/us/usc/t40/s270e–270f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270e%E2%80%93270f
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/102/484/s321/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs321%2Fa%2F1%2FA
-[/us/pl/102/484/s331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs331%2Fa%2F2
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
 [/us/usc/t40/s270e–270f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270e%E2%80%93270f
-[/us/pl/102/484/s331/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs331%2Fa%2F1%2FB
-[/us/pl/101/584/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F584%2Fs1%2F1
-[/us/pl/101/584/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F584%2Fs1%2F3
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/101/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F584
+[/us/pl/101/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F584
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499

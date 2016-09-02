@@ -29,7 +29,7 @@
 
         (3) Within two years of October 7, 1980, the Secretary shall transmit to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources the results of such examinations and explorations with his recommendations for construction of a national or international fusion engineering device: Provided, however, That such examinations and explorations shall not have the effect of delaying design activities related to a national fusion engineering device.
 
-([Pub. L. 96–386, § 9][/us/pl/96/386/s9], Oct. 7, 1980, [94 Stat. 1543][/us/stat/94/1543].)
+([Pub. L. 96–386][/us/pl/96/386], § 9, Oct. 7, 1980, [94 Stat. 1543][/us/stat/94/1543].)
 
  __Change of Name__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/96/386/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs9
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1543
 
 

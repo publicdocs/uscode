@@ -25,7 +25,7 @@
 
     (4) to the National Science Foundation for the fiscal year ending June 30, 1975, not to exceed $2,000,000 to be made available for use in the preparation of the comprehensive program definition under [section 5564 of this title][/us/usc/t42/s5564].
 
-([Pub. L. 93–473, § 17][/us/pl/93/473/s17], Oct. 26, 1974, [88 Stat. 1438][/us/stat/88/1438].)
+([Pub. L. 93–473][/us/pl/93/473], § 17, Oct. 26, 1974, [88 Stat. 1438][/us/stat/88/1438].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t42/s5556/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5556%2Ff
 [/us/usc/t42/s5564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5564
-[/us/pl/93/473/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs17
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1438
 
 

@@ -43,7 +43,7 @@
 
         This section may be cited as the “Donald J. Cohen National Child Traumatic Stress Initiative”.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 582, as added [Pub. L. 106–310, div. B, title XXXI, § 3101][/us/pl/106/310/s3101], Oct. 17, 2000, [114 Stat. 1169][/us/stat/114/1169]; amended [Pub. L. 107–116, title II, § 218][/us/pl/107/116/s218], Jan. 10, 2002, [115 Stat. 2201][/us/stat/115/2201]; [Pub. L. 107–188, title I, § 155][/us/pl/107/188/s155], June 12, 2002, [116 Stat. 633][/us/stat/116/633].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 582, as added [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3101, Oct. 17, 2000, [114 Stat. 1169][/us/stat/114/1169]; amended [Pub. L. 107–116, title II][/us/pl/107/116/tII], § 218, Jan. 10, 2002, [115 Stat. 2201][/us/stat/115/2201]; [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 155, June 12, 2002, [116 Stat. 633][/us/stat/116/633].)
 
  __Codification__ 
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3101
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1169
-[/us/pl/107/116/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs218
+[/us/pl/107/116/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtII
 [/us/stat/115/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2201
-[/us/pl/107/188/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs155
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F633
 [/us/usc/t42/s290kk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290kk%E2%80%931
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188

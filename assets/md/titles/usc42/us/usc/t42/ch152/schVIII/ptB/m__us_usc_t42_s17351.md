@@ -29,7 +29,7 @@
 
         The term “Foundation” means the International Clean Energy Foundation established by [section 17352(a) of this title][/us/usc/t42/s17352/a].
 
-([Pub. L. 110–140, title IX, § 921][/us/pl/110/140/s921], Dec. 19, 2007, [121 Stat. 1732][/us/stat/121/1732].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 921, Dec. 19, 2007, [121 Stat. 1732][/us/stat/121/1732].)
 
 ----------
 
@@ -41,7 +41,7 @@
 [/us/usc/t42/s17352/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17352%2Fc
 [/us/usc/t42/s17352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17352%2Fb
 [/us/usc/t42/s17352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17352%2Fa
-[/us/pl/110/140/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs921
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1732
 
 

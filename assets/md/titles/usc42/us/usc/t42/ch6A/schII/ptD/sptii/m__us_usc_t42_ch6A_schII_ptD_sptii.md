@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–484, title IV, § 407(b)(3)][/us/pl/94/484/s407/b/3], Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268], added heading “Subpart II—National Health Service Corps Program”.
+    1976—[Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(3), Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268], added heading “Subpart II—National Health Service Corps Program”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/484/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F3
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
 
 

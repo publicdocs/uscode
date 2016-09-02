@@ -17,7 +17,7 @@
 
     Nothing in this part shall be construed as waiving, modifying, or superseding the applicability of any requirement under any environmental or other Federal or State law. To the extent that activities authorized in this part take place in coastal and ocean areas, the Secretary shall consult with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, regarding the potential marine environmental impacts and measures to address such impacts.
 
-([Pub. L. 110–140, title VI, § 622][/us/pl/110/140/s622], Dec. 19, 2007, [121 Stat. 1684][/us/stat/121/1684].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 622, Dec. 19, 2007, [121 Stat. 1684][/us/stat/121/1684].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs622
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1684
 
 

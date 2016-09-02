@@ -17,7 +17,7 @@
 
     The requirement in any water resources development project under the jurisdiction of the Secretary of the Army, that non-Federal interests hold and save the United States free from damages due to the construction, operation, and maintenance of the project, does not include damages due to the fault or negligence of the United States or its contractors.
 
-([Pub. L. 93–251, title I, § 9][/us/pl/93/251/s9], Mar. 7, 1974, [88 Stat. 16][/us/stat/88/16].)
+([Pub. L. 93–251, title I][/us/pl/93/251/tI], § 9, Mar. 7, 1974, [88 Stat. 16][/us/stat/88/16].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/251/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs9
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F16
 
 

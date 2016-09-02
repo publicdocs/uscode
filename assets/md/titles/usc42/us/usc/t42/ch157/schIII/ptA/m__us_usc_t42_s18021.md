@@ -73,7 +73,7 @@
 
             The term “group health plan” has the meaning given such term by [section 300gg–91(a) of this title][/us/usc/t42/s300gg–91/a].
 
-([Pub. L. 111–148, title I, § 1301][/us/pl/111/148/s1301], title X, § 10104(a), Mar. 23, 2010, [124 Stat. 162][/us/stat/124/162], 896.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1301, title X, § 10104(a), Mar. 23, 2010, [124 Stat. 162][/us/stat/124/162], 896.)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2) to (4). [Pub. L. 111–148, § 10104(a)][/us/pl/111/148/s10104/a], added pars. (2) to (4) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Any reference in this title to a qualified health plan shall be deemed to include a qualified health plan offered through the CO-OP program under [section 18042 of this title][/us/usc/t42/s18042] or a community health insurance option under [section 18043 of this title][/us/usc/t42/s18043], unless specifically provided for otherwise.”
+    2010—Subsec. (a)(2) to (4). [Pub. L. 111–148][/us/pl/111/148], § 10104(a), added pars. (2) to (4) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Any reference in this title to a qualified health plan shall be deemed to include a qualified health plan offered through the CO-OP program under [section 18042 of this title][/us/usc/t42/s18042] or a community health insurance option under [section 18043 of this title][/us/usc/t42/s18043], unless specifically provided for otherwise.”
 
 ----------
 
@@ -99,11 +99,11 @@
 [/us/usc/t29/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144
 [/us/usc/t42/s300gg–91/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fb
 [/us/usc/t42/s300gg–91/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fa
-[/us/pl/111/148/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1301
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F162
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/111/148/s10104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s18042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18042
 [/us/usc/t42/s18043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18043
 

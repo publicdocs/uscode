@@ -37,7 +37,7 @@
 
             (B) shall maintain communications with all relevant Public Health Service agencies and with various other departments of the Federal Government, to ensure the timely transmission of information concerning advances in AIDS research and the clinical treatment of acquired immune deficiency syndrome and its related conditions, between these various agencies for dissemination to affected communities and health care providers.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2351, as added [Pub. L. 103–43, title XVIII, § 1801(a)(3)][/us/pl/103/43/s1801/a/3], June 10, 1993, [107 Stat. 192][/us/stat/107/192].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2351, as added [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1801(a)(3), June 10, 1993, [107 Stat. 192][/us/stat/107/192].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s300cc–40c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%9340c
 [/us/usc/t42/s300cc–40b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%9340b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fa%2F3
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F192
 
 

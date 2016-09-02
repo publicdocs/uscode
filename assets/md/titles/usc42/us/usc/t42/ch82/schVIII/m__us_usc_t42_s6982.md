@@ -247,27 +247,27 @@
 
         The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October 1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
 
-([Pub. L. 89–272, title II, § 8002][/us/pl/89/272/s8002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2831][/us/stat/90/2831]; amended [Pub. L. 95–609, § 7(t)][/us/pl/95/609/s7/t], Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; H. Res. 549, Mar. 25, 1980; [Pub. L. 96–482, § 29][/us/pl/96/482/s29], Oct. 21, 1980, [94 Stat. 2349][/us/stat/94/2349]; [Pub. L. 98–616, title II, § 224(c)][/us/pl/98/616/s224/c], title VII, § 702, Nov. 8, 1984, [98 Stat. 3253][/us/stat/98/3253], 3289.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 8002, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2831][/us/stat/90/2831]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(t), Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083]; H. Res. 549, Mar. 25, 1980; [Pub. L. 96–482][/us/pl/96/482], § 29, Oct. 21, 1980, [94 Stat. 2349][/us/stat/94/2349]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 224(c), title VII, § 702, Nov. 8, 1984, [98 Stat. 3253][/us/stat/98/3253], 3289.)
 
  __Amendments__ 
 
-    1984—Subsec. (r). [Pub. L. 98–616, § 224(c)][/us/pl/98/616/s224/c], added subsec. (r).
+    1984—Subsec. (r). [Pub. L. 98–616][/us/pl/98/616], § 224(c), added subsec. (r).
 
-    Subsec. (s). [Pub. L. 98–616, § 702][/us/pl/98/616/s702], added subsec. (s).
+    Subsec. (s). [Pub. L. 98–616][/us/pl/98/616], § 702, added subsec. (s).
 
-    1980—Subsec. (f). [Pub. L. 96–482, § 29(1)][/us/pl/96/482/s29/1], required publication of report no later than thirty-six months after Oct. 21, 1980, and its submission to Senate Committee on Environment and Public Works and House Committee on Energy and Commerce.
+    1980—Subsec. (f). [Pub. L. 96–482][/us/pl/96/482], § 29(1), required publication of report no later than thirty-six months after Oct. 21, 1980, and its submission to Senate Committee on Environment and Public Works and House Committee on Energy and Commerce.
 
-    Subsecs. (m) to (q). [Pub. L. 96–482, § 29(2)][/us/pl/96/482/s29/2], added subsecs. (m) to (p) and redesignated former subsec. (m) as (q).
+    Subsecs. (m) to (q). [Pub. L. 96–482][/us/pl/96/482], § 29(2), added subsecs. (m) to (p) and redesignated former subsec. (m) as (q).
 
-    1978—Subsec. (g)(1). [Pub. L. 95–609, § 7(t)(1)][/us/pl/95/609/s7/t/1], substituted “shale, liquefaction” for “shale liquefaction”.
+    1978—Subsec. (g)(1). [Pub. L. 95–609][/us/pl/95/609], § 7(t)(1), substituted “shale, liquefaction” for “shale liquefaction”.
 
-    Subsec. (j)(1). [Pub. L. 95–609, § 7(t)(2)][/us/pl/95/609/s7/t/2], enacted a provision adding the Secretary of Energy and the Chairman of the Council of Economic Advisors to the Committee.
+    Subsec. (j)(1). [Pub. L. 95–609][/us/pl/95/609], § 7(t)(2), enacted a provision adding the Secretary of Energy and the Chairman of the Council of Economic Advisors to the Committee.
 
-    Subsec. (j)(2). [Pub. L. 95–609, § 7(t)(3)][/us/pl/95/609/s7/t/3], substituted “paragraph (1)(D)” for “paragraph (2)(D)”.
+    Subsec. (j)(2). [Pub. L. 95–609][/us/pl/95/609], § 7(t)(3), substituted “paragraph (1)(D)” for “paragraph (2)(D)”.
 
-    Subsec. (j)(3). [Pub. L. 95–609, § 7(t)(4)][/us/pl/95/609/s7/t/4], substituted “paragraph (1)” for “paragraph (2)(D)”.
+    Subsec. (j)(3). [Pub. L. 95–609][/us/pl/95/609], § 7(t)(4), substituted “paragraph (1)” for “paragraph (2)(D)”.
 
-    Subsec. (l). [Pub. L. 95–609, § 7(t)(5)][/us/pl/95/609/s7/t/5], struck out requirement of submission of reports under subsec. (j) of this section.
+    Subsec. (l). [Pub. L. 95–609][/us/pl/95/609], § 7(t)(5), struck out requirement of submission of reports under subsec. (j) of this section.
 
  __Change of Name__ 
 
@@ -285,24 +285,24 @@
 ----------
 
 [/us/usc/t42/s6902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6902
-[/us/pl/89/272/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs8002
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2831
-[/us/pl/95/609/s7/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Ft
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3083
-[/us/pl/96/482/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs29
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2349
-[/us/pl/98/616/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs224%2Fc
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3253
-[/us/pl/98/616/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs224%2Fc
-[/us/pl/98/616/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs702
-[/us/pl/96/482/s29/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs29%2F1
-[/us/pl/96/482/s29/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs29%2F2
-[/us/pl/95/609/s7/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Ft%2F1
-[/us/pl/95/609/s7/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Ft%2F2
-[/us/pl/95/609/s7/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Ft%2F3
-[/us/pl/95/609/s7/t/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Ft%2F4
-[/us/pl/95/609/s7/t/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Ft%2F5
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

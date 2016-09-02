@@ -37,7 +37,7 @@
 
         For the purpose of determining average indexed monthly earnings, average monthly wage, and quarters of coverage in the case of any individual who elects the option described in clause (ii) or (iv) in the matter following [section 411(a)(16) of this title][/us/usc/t42/s411/a/16] for any taxable year that does not begin with or during a particular calendar year and end with or during such year, the self-employment income of such individual deemed to be derived during such taxable year shall be allocated to the two calendar years, portions of which are included within such taxable year, in the same proportion to the total of such deemed self-employment income as the sum of the amounts applicable under [section 413(d) of this title][/us/usc/t42/s413/d] for the calendar quarters ending with or within each such calendar year bears to the lower limit for such taxable year specified in [section 411(k)(1) of this title][/us/usc/t42/s411/k/1].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 212, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(a), [64 Stat. 492][/us/stat/64/492], 504; amended [Pub. L. 95–216, title III, § 351(b)][/us/pl/95/216/s351/b], Dec. 20, 1977, [91 Stat. 1549][/us/stat/91/1549]; [Pub. L. 110–234, title XV, § 15352(b)(3)][/us/pl/110/234/s15352/b/3], May 22, 2008, [122 Stat. 1526][/us/stat/122/1526]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15352(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2288.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 212, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(a), [64 Stat. 492][/us/stat/64/492], 504; amended [Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 351(b), Dec. 20, 1977, [91 Stat. 1549][/us/stat/91/1549]; [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15352(b)(3), May 22, 2008, [122 Stat. 1526][/us/stat/122/1526]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15352(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2288.)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–246, § 15352(b)(3)(A)][/us/pl/110/246/s15352/b/3/A], substituted “Except as provided in subsection (c), for the purposes” for “For the purposes” in introductory provisions.
+    2008—Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 15352(b)(3)(A), substituted “Except as provided in subsection (c), for the purposes” for “For the purposes” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 110–246, § 15352(b)(3)(B)][/us/pl/110/246/s15352/b/3/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 15352(b)(3)(B), added subsec. (c).
 
     1977—[Pub. L. 95–216][/us/pl/95/216] designated existing provisions as subsec. (a), substituted provisions relating to crediting of self-employment income to calendar years for provisions relating to crediting of self-employment income to calendar quarters, and added subsec. (b).
 
@@ -74,18 +74,18 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F492
-[/us/pl/95/216/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs351%2Fb
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1549
-[/us/pl/110/234/s15352/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15352%2Fb%2F3
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1526
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s15352/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15352%2Fb%2F3%2FA
-[/us/pl/110/246/s15352/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15352%2Fb%2F3%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

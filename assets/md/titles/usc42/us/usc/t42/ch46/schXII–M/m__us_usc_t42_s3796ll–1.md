@@ -35,7 +35,7 @@
 
         (2) expressly assumes the obligation to carry out the transaction, regardless of whether such amounts are received.
 
-([Pub. L. 90–351, title I, § 2502][/us/pl/90/351/s2502], as added [Pub. L. 105–181, § 3(a)(3)][/us/pl/105/181/s3/a/3], June 16, 1998, [112 Stat. 514][/us/stat/112/514]; amended [Pub. L. 106–517, § 3(c)][/us/pl/106/517/s3/c], Nov. 13, 2000, [114 Stat. 2408][/us/stat/114/2408].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2502, as added [Pub. L. 105–181][/us/pl/105/181], § 3(a)(3), June 16, 1998, [112 Stat. 514][/us/stat/112/514]; amended [Pub. L. 106–517][/us/pl/106/517], § 3(c), Nov. 13, 2000, [114 Stat. 2408][/us/stat/114/2408].)
 
  __References in Text__ 
 
@@ -57,10 +57,10 @@
 ----------
 
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
-[/us/pl/90/351/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2502
-[/us/pl/105/181/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181%2Fs3%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/105/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181
 [/us/stat/112/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F514
-[/us/pl/106/517/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517%2Fs3%2Fc
+[/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
 [/us/stat/114/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2408
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/stat/111/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2440

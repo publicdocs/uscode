@@ -45,7 +45,7 @@
 
             (B) the duties of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.).
 
-([Pub. L. 101–610, title I, § 183][/us/pl/101/610/s183], Nov. 16, 1990, [104 Stat. 3167][/us/stat/104/3167]; [Pub. L. 103–82, title I, § 121(a)][/us/pl/103/82/s121/a], Sept. 21, 1993, [107 Stat. 866][/us/stat/107/866]; [Pub. L. 111–13, title I, § 1611][/us/pl/111/13/s1611], Apr. 21, 2009, [123 Stat. 1537][/us/stat/123/1537].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 183, Nov. 16, 1990, [104 Stat. 3167][/us/stat/104/3167]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 121(a), Sept. 21, 1993, [107 Stat. 866][/us/stat/107/866]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1611, Apr. 21, 2009, [123 Stat. 1537][/us/stat/123/1537].)
 
  __References in Text__ 
 
@@ -55,11 +55,11 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1611(1)][/us/pl/111/13/s1611/1], substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory,” after “local government,” in par. (1).
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1611(1), substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory,” after “local government,” in par. (1).
 
-    Subsec. (b). [Pub. L. 111–13, § 1611(2)][/us/pl/111/13/s1611/2], substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory” after “local government,” in par. (1).
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1611(2), substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory” after “local government,” in par. (1).
 
-    Subsec. (c). [Pub. L. 111–13, § 1611(3)][/us/pl/111/13/s1611/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–13][/us/pl/111/13], § 1611(3), added subsec. (c).
 
     1993—[Pub. L. 103–82][/us/pl/103/82] amended section generally, substituting provision relating to rights of access, examination, and copying for provision relating to service as tutors.
 
@@ -78,20 +78,20 @@
 ----------
 ----------
 
-[/us/pl/101/610/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs183
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3167
-[/us/pl/103/82/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs121%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F866
-[/us/pl/111/13/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1611
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1537
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/111/13/s1611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1611%2F1
-[/us/pl/111/13/s1611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1611%2F2
-[/us/pl/111/13/s1611/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1611%2F3
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa

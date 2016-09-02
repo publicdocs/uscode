@@ -41,7 +41,7 @@
 
         The Director, in his capacity as ex officio member of the Board, shall, except with respect to compensation and tenure, be coordinate with the other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as Chairman or Vice Chairman of the Board.
 
-([May 10, 1950, ch. 171, § 5][/us/act/1950-05-10/ch171/s5], [64 Stat. 151][/us/stat/64/151]; [Pub. L. 86–232, § 3][/us/pl/86/232/s3], Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; [Pub. L. 90–407, § 3][/us/pl/90/407/s3], July 18, 1968, [82 Stat. 362][/us/stat/82/362]; [Pub. L. 99–159, title I, § 109(b)][/us/pl/99/159/s109/b], Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889]; [Pub. L. 103–437, § 15(c)(1)][/us/pl/103/437/s15/c/1], Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591]; [Pub. L. 105–207, title II, § 202(a)(2)][/us/pl/105/207/s202/a/2], July 29, 1998, [112 Stat. 873][/us/stat/112/873].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 5, [64 Stat. 151][/us/stat/64/151]; [Pub. L. 86–232][/us/pl/86/232], § 3, Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; [Pub. L. 90–407][/us/pl/90/407], § 3, July 18, 1968, [82 Stat. 362][/us/stat/82/362]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(b), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889]; [Pub. L. 103–437][/us/pl/103/437], § 15(c)(1), Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(a)(2), July 29, 1998, [112 Stat. 873][/us/stat/112/873].)
 
  __Amendments__ 
 
@@ -77,17 +77,17 @@
 
  __Study on Research and Development Funding Data Discrepancies__ 
 
-    [Pub. L. 107–368, § 25][/us/pl/107/368/s25], Dec. 19, 2002, [116 Stat. 3067][/us/stat/116/3067], required the Director of the National Science Foundation to enter into an agreement with the National Academy of Sciences to conduct a comprehensive study to determine the source of discrepancies in Federal reports on obligations and actual expenditures of Federal research and development funding and to submit a report on the results of the study to committees of Congress within one year after Dec. 19, 2002, and required the Director of the Office of Science and Technology Policy to submit to those committees a plan for implementation of the recommendations of the study, within 6 months after the completion of the study.
+    [Pub. L. 107–368][/us/pl/107/368], § 25, Dec. 19, 2002, [116 Stat. 3067][/us/stat/116/3067], required the Director of the National Science Foundation to enter into an agreement with the National Academy of Sciences to conduct a comprehensive study to determine the source of discrepancies in Federal reports on obligations and actual expenditures of Federal research and development funding and to submit a report on the results of the study to committees of Congress within one year after Dec. 19, 2002, and required the Director of the Office of Science and Technology Policy to submit to those committees a plan for implementation of the recommendations of the study, within 6 months after the completion of the study.
 
  __Research Purposes of Grants; Brief Statement in Titles__ 
 
-[Pub. L. 96–516, § 20][/us/pl/96/516/s20], Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010], provided that: 
+[Pub. L. 96–516][/us/pl/96/516], § 20, Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010], provided that: 
 
 > “The Director of the National Science Foundation shall require the titles of all its grants to contain a brief statement of the purpose of the research being undertaken. Insofar as possible such statements shall be in layman’s language.”
 
  __Feasibility Study of Solar Energy Transmission to Earth__ 
 
-[Pub. L. 95–434, § 8][/us/pl/95/434/s8], Oct. 10, 1978, [92 Stat. 1050][/us/stat/92/1050], provided that:
+[Pub. L. 95–434][/us/pl/95/434], § 8, Oct. 10, 1978, [92 Stat. 1050][/us/stat/92/1050], provided that:
 
 >     “(a) The Director of the National Science Foundation, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and technical experts in public agencies, private organizations, and academic institutions, is authorized to determine the need to provide support under this Act for a study of the feasibility of transmitting solar energy to Earth by using orbital structures manufactured from lunar or asteroidal materials, and the impact of such a feasibility study, if any, on existing National Science Foundation programs.
 
@@ -101,17 +101,17 @@
 
  __Feasibility Study of the Operation of the Peer Review System in the Evaluation of Grant Proposals__ 
 
-[Pub. L. 94–471, § 2(f)][/us/pl/94/471/s2/f], Oct. 11, 1976, [90 Stat. 2053][/us/stat/90/2053], provided that: 
+[Pub. L. 94–471][/us/pl/94/471], § 2(f), Oct. 11, 1976, [90 Stat. 2053][/us/stat/90/2053], provided that: 
 
 > “The Director of the National Science Foundation is authorized and directed to conduct a feasibility study of operating the peer review system used in the evaluation of grant proposals within the Foundation so as to assure that the identity of the proposer is not known to the reviewers of the proposal. Any such system shall be considered to supplement and not to supplant the peer review system in operation in the Foundation on the date of enactment of this Act \[Oct. 11, 1976\].”
 
  __Science for Citizens Program; Preparation and Submission of Plan to Committees of Congress__ 
 
-    [Pub. L. 94–86, § 3][/us/pl/94/86/s3], Aug. 9, 1975, [89 Stat. 429][/us/stat/89/429], directed the Director of the National Science Foundation to prepare a comprehensive plan for the establishment and conduct of a “Science for Citizens Program” and, within six months from Aug. 9, 1975, submit the plan to specific committees of the House of Representatives and Senate. See [section 5 of Pub. L. 94–471][/us/pl/94/471/s5], set out as a note under [section 1862 of this title][/us/usc/t42/s1862].
+    [Pub. L. 94–86][/us/pl/94/86], § 3, Aug. 9, 1975, [89 Stat. 429][/us/stat/89/429], directed the Director of the National Science Foundation to prepare a comprehensive plan for the establishment and conduct of a “Science for Citizens Program” and, within six months from Aug. 9, 1975, submit the plan to specific committees of the House of Representatives and Senate. See [section 5 of Pub. L. 94–471][/us/pl/94/471/s5], set out as a note under [section 1862 of this title][/us/usc/t42/s1862].
 
  __Participation of Public in Conduct of Foundation Programs; Preparation and Submission of Plan to Committees of Congress__ 
 
-    [Pub. L. 94–86, § 4][/us/pl/94/86/s4], Aug. 9, 1975, [89 Stat. 430][/us/stat/89/430], authorized the Director of the National Science Foundation to prepare a comprehensive plan to facilitate the participation of members of the public in the formulation, development, and conduct of National Science Foundation programs, policies, and priorities and to submit the resulting recommendations, plans, or other findings to specific committees of the House of Representatives and the Senate within 120 days from Aug. 9, 1975.
+    [Pub. L. 94–86][/us/pl/94/86], § 4, Aug. 9, 1975, [89 Stat. 430][/us/stat/89/430], authorized the Director of the National Science Foundation to prepare a comprehensive plan to facilitate the participation of members of the public in the formulation, development, and conduct of National Science Foundation programs, policies, and priorities and to submit the resulting recommendations, plans, or other findings to specific committees of the House of Representatives and the Senate within 120 days from Aug. 9, 1975.
 
  __Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation__ 
 
@@ -126,17 +126,17 @@
 
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t42/s1870/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1870%2Fc
-[/us/act/1950-05-10/ch171/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs5
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F151
-[/us/pl/86/232/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs3
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F467
-[/us/pl/90/407/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs3
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F362
-[/us/pl/99/159/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fb
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F889
-[/us/pl/103/437/s15/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fc%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4591
-[/us/pl/105/207/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fa%2F2
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F873
 [/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
@@ -151,19 +151,19 @@
 [/us/stat/79/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1323
 [/us/stat/76/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1253
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/pl/107/368/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs25
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3067
-[/us/pl/96/516/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs20
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
-[/us/pl/95/434/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F434%2Fs8
+[/us/pl/95/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F434
 [/us/stat/92/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1050
-[/us/pl/94/471/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs2%2Ff
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2053
-[/us/pl/94/86/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86%2Fs3
+[/us/pl/94/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86
 [/us/stat/89/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F429
 [/us/pl/94/471/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs5
 [/us/usc/t42/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862
-[/us/pl/94/86/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86%2Fs4
+[/us/pl/94/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86
 [/us/stat/89/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F430
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/90/407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs16

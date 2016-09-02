@@ -31,17 +31,17 @@
 
     (b) The head of any Federal agency may, upon application by a mortgagee, insure any mortgage (including advances during construction) on a comparable replacement dwelling executed by a displaced person assisted under this section, which mortgage is eligible for insurance under any Federal law administered by such agency notwithstanding any requirements under such law relating to age, physical condition, or other personal characteristics of eligible mortgagors, and may make commitments for the insurance of such mortgage prior to the date of execution of the mortgage.
 
-([Pub. L. 91–646, title II, § 203][/us/pl/91/646/s203], Jan. 2, 1971, [84 Stat. 1896][/us/stat/84/1896]; [Pub. L. 100–17, title IV, § 406][/us/pl/100/17/s406], Apr. 2, 1987, [101 Stat. 251][/us/stat/101/251]; [Pub. L. 112–141, div. A, title I, § 1521(b)][/us/pl/112/141/s1521/b], July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 203, Jan. 2, 1971, [84 Stat. 1896][/us/stat/84/1896]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 406, Apr. 2, 1987, [101 Stat. 251][/us/stat/101/251]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1521(b), July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
 
  __Amendments__ 
 
     2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], in first sentence, substituted “$31,000, as adjusted by regulation, in accordance with 4633(d) of this title,” for “$22,500” and “90 days before” for “one hundred and eighty days prior to”.
 
-    1987—Subsec. (a)(1). [Pub. L. 100–17, § 406(1)][/us/pl/100/17/s406/1]–(3), substituted “displacing agency” for “Federal agency” and “$22,500” for “$15,000” in introductory provisions, and in subpar. (A) “acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling” for “acquired by the Federal agency, equals the reasonable cost of a comparable replacement dwelling which is a decent, safe, and sanitary dwelling adequate to accommodate such displaced person, reasonably accessible to public services and places of employment and available on the private market. All determinations required to carry out this subparagraph shall be made in accordance with standards established by the head of the Federal agency making the additional payment”.
+    1987—Subsec. (a)(1). [Pub. L. 100–17][/us/pl/100/17], § 406(1)–(3), substituted “displacing agency” for “Federal agency” and “$22,500” for “$15,000” in introductory provisions, and in subpar. (A) “acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling” for “acquired by the Federal agency, equals the reasonable cost of a comparable replacement dwelling which is a decent, safe, and sanitary dwelling adequate to accommodate such displaced person, reasonably accessible to public services and places of employment and available on the private market. All determinations required to carry out this subparagraph shall be made in accordance with standards established by the head of the Federal agency making the additional payment”.
 
-    Subsec. (a)(1)(B). [Pub. L. 100–17, § 406(4)][/us/pl/100/17/s406/4], added subpar. (B) and struck out former subpar. (B) which read as follows: “The amount, if any, which will compensate such displaced person for any increased interest costs which such person is required to pay for financing the acquisition of any such comparable replacement dwelling. Such amount shall be paid only if the dwelling acquired by the Federal agency was encumbered by a bona fide mortgage which was a valid lien on such dwelling for not less than one hundred and eighty days prior to the initiation of negotiations for the acquisition of such dwelling. Such amount shall be equal to the excess in the aggregate interest and other debt service costs of that amount of the principal of the mortgage on the replacement dwelling which is equal to the unpaid balance of the mortgage on the acquired dwelling, over the remainder term of the mortgage on the acquired dwelling, reduced to discounted present value. The discount rate shall be the prevailing interest rate paid on savings deposits by commercial banks in the general area in which the replacement dwelling is located.”
+    Subsec. (a)(1)(B). [Pub. L. 100–17][/us/pl/100/17], § 406(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “The amount, if any, which will compensate such displaced person for any increased interest costs which such person is required to pay for financing the acquisition of any such comparable replacement dwelling. Such amount shall be paid only if the dwelling acquired by the Federal agency was encumbered by a bona fide mortgage which was a valid lien on such dwelling for not less than one hundred and eighty days prior to the initiation of negotiations for the acquisition of such dwelling. Such amount shall be equal to the excess in the aggregate interest and other debt service costs of that amount of the principal of the mortgage on the replacement dwelling which is equal to the unpaid balance of the mortgage on the acquired dwelling, over the remainder term of the mortgage on the acquired dwelling, reduced to discounted present value. The discount rate shall be the prevailing interest rate paid on savings deposits by commercial banks in the general area in which the replacement dwelling is located.”
 
-    Subsec. (a)(2). [Pub. L. 100–17, § 406(5)][/us/pl/100/17/s406/5], added par. (2) and struck out former par. (2) which read as follows: “The additional payment authorized by this subsection shall be made only to such a displaced person who purchases and occupies a replacement dwelling which is decent, safe, and sanitary not later than the end of the one year period beginning on the date on which he receives from the Federal agency final payment of all costs of the acquired dwelling, or on the date on which he moves from the acquired dwelling, whichever is the later date.”
+    Subsec. (a)(2). [Pub. L. 100–17][/us/pl/100/17], § 406(5), added par. (2) and struck out former par. (2) which read as follows: “The additional payment authorized by this subsection shall be made only to such a displaced person who purchases and occupies a replacement dwelling which is decent, safe, and sanitary not later than the end of the one year period beginning on the date on which he receives from the Federal agency final payment of all costs of the acquired dwelling, or on the date on which he moves from the acquired dwelling, whichever is the later date.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -59,16 +59,16 @@
 ----------
 
 [/us/usc/t42/s4625/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4625%2Fc%2F3
-[/us/pl/91/646/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs203
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1896
-[/us/pl/100/17/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs406
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F251
-[/us/pl/112/141/s1521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fb
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F578
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/100/17/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs406%2F1
-[/us/pl/100/17/s406/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs406%2F4
-[/us/pl/100/17/s406/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs406%2F5
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s1521/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fg

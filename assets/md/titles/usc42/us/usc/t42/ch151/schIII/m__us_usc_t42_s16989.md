@@ -45,7 +45,7 @@
 
         Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.
 
-([Pub. L. 109–248, title VI, § 632][/us/pl/109/248/s632], July 27, 2006, [120 Stat. 641][/us/stat/120/641].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 632, July 27, 2006, [120 Stat. 641][/us/stat/120/641].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs632
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F641
 
 

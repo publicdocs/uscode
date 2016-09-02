@@ -17,7 +17,7 @@
 
     For the purpose of affording adequate notice of funding available under this subchapter, appropriations for carrying out this subchapter are authorized to be included in an appropriation Act for the fiscal year preceding the fiscal year for which they are available for obligation.
 
-([Pub. L. 97–35, title VI, § 657][/us/pl/97/35/s657], Aug. 13, 1981, [95 Stat. 508][/us/stat/95/508].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 657, Aug. 13, 1981, [95 Stat. 508][/us/stat/95/508].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs657
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F508
 
 

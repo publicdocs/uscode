@@ -31,7 +31,7 @@
 
         Nothing in this title 1 (or an amendment made by this title,1 unless specified by direct statutory reference) shall be construed to modify any existing Federal requirement concerning the State agency responsible for determining eligibility for programs identified in [section 18083 of this title][/us/usc/t42/s18083].
 
-([Pub. L. 111–148, title I, § 1560][/us/pl/111/148/s1560], Mar. 23, 2010, [124 Stat. 261][/us/stat/124/261].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1560, Mar. 23, 2010, [124 Stat. 261][/us/stat/124/261].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t42/s18083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18083
-[/us/pl/111/148/s1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1560
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F261
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130

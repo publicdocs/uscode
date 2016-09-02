@@ -17,7 +17,7 @@
 
     The general purpose of the National Institute on Deafness and Other Communication Disorders (hereafter referred to in this subpart as the “Institute”) is the conduct and support of research and training, the dissemination of health information, and other programs with respect to disorders of hearing and other communication processes, including diseases affecting hearing, balance, voice, speech, language, taste, and smell.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464, as added [Pub. L. 100–553, § 2(4)][/us/pl/100/553/s2/4], Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769], and [Pub. L. 100–607, title I, § 101(4)][/us/pl/100/607/s101/4], Nov. 4, 1988, [102 Stat. 3049][/us/stat/102/3049]; amended [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464, as added [Pub. L. 100–553][/us/pl/100/553], § 2(4), Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769], and [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 101(4), Nov. 4, 1988, [102 Stat. 3049][/us/stat/102/3049]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Effect of Enactment of Similar Provisions__ 
 
-[Pub. L. 100–690, title II, § 2613(b)][/us/pl/100/690/s2613/b], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238], provided that:
+[Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238], provided that:
 
 >     “(1) Paragraphs (2) and (3) shall take effect immediately after the enactment of both the bill, S. 1727, of the One Hundredth Congress \[[Pub. L. 100–553][/us/pl/100/553], approved Oct. 28, 1988\], and the Health Omnibus Programs Extension of 1988 \[[Pub. L. 100–607][/us/pl/100/607], approved Nov. 4, 1988\].
 
@@ -53,7 +53,7 @@
 
  __Transitional and Savings Provisions__ 
 
-[Pub. L. 100–553, § 3][/us/pl/100/553/s3], Oct. 28, 1988, [102 Stat. 2774][/us/stat/102/2774], provided that:
+[Pub. L. 100–553][/us/pl/100/553], § 3, Oct. 28, 1988, [102 Stat. 2774][/us/stat/102/2774], provided that:
 
 >     “(a)  __Transfer of Personnel, Assets, and Liabilities__  __.—__ 
 
@@ -63,7 +63,7 @@
 
 >     With respect to functions vested under section 1 \[probably means section 2, enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, all orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents, that have been issued, made, granted, or allowed to become effective, and that are effective on the date of the enactment of this Act \[Oct. 28, 1988\], shall continue in effect according to their terms unless changed pursuant to law.”
 
-    [Pub. L. 100–690, title II, § 2613(a)(2)][/us/pl/100/690/s2613/a/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238], which enacted provisions that were substantially identical to the transitional and savings provisions above, was repealed by [section 2613(b)(3) of Pub. L. 100–690][/us/pl/100/690/s2613/b/3].
+    [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(a)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238], which enacted provisions that were substantially identical to the transitional and savings provisions above, was repealed by [section 2613(b)(3) of Pub. L. 100–690][/us/pl/100/690/s2613/b/3].
 
 ----------
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/553/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs2%2F4
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2769
-[/us/pl/100/607/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs101%2F4
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3049
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
@@ -86,15 +86,15 @@
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/553/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs1
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/100/690/s2613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s281/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281%2Fb%2F1
 [/us/usc/t42/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285
-[/us/pl/100/553/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs3
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2774
-[/us/pl/100/690/s2613/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
 [/us/pl/100/690/s2613/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F3
 

@@ -111,7 +111,7 @@
 
                     (V) The Director of the Office of Science and Technology Policy.
 
-([Pub. L. 103–382, title V, § 515][/us/pl/103/382/s515], Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 515, Oct. 20, 1994, [108 Stat. 4042][/us/stat/108/4042].)
 
 ----------
 
@@ -120,7 +120,7 @@
 ----------
 ----------
 
-[/us/pl/103/382/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs515
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4042
 
 

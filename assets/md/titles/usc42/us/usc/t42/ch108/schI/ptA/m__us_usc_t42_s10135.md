@@ -111,7 +111,7 @@
 
         In considering any notice of disapproval submitted to the Congress under section 10136 or 10138 of this title, the Congress may obtain any comments of the Commission with respect to such notice of disapproval. The provision of such comments by the Commission shall not be construed as binding the Commission with respect to any licensing or authorization action concerning the repository involved.
 
-([Pub. L. 97–425, title I, § 115][/us/pl/97/425/s115], Jan. 7, 1983, [96 Stat. 2217][/us/stat/96/2217].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 115, Jan. 7, 1983, [96 Stat. 2217][/us/stat/96/2217].)
 
  __Yucca Mountain, Nevada Repository Site__ 
 
@@ -128,7 +128,7 @@
 
 [/us/usc/t42/s10134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10134
 [/us/usc/t42/s10134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10134
-[/us/pl/97/425/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs115
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2217
 [/us/pl/107/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F200
 [/us/stat/116/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F735

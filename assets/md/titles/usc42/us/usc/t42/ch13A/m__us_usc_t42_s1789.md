@@ -35,7 +35,7 @@
 
         The Secretary of Agriculture shall provide the Secretary of Defense with technical assistance in the administration of the school breakfast programs authorized by this section.
 
-([Pub. L. 89–642, § 20][/us/pl/89/642/s20], as added [Pub. L. 95–561, title XIV, § 1408(b)(2)][/us/pl/95/561/s1408/b/2], Nov. 1, 1978, [92 Stat. 2368][/us/stat/92/2368]; amended [Pub. L. 99–500, title III, § 328(b)][/us/pl/99/500/s328/b], Oct. 18, 1986, [100 Stat. 1783–362][/us/stat/100/1783-362], and [Pub. L. 99–591, title III, § 328(b)][/us/pl/99/591/s328/b], Oct. 30, 1986, [100 Stat. 3341–365][/us/stat/100/3341-365]; [Pub. L. 99–661, div. D, title II, § 4208(b)][/us/pl/99/661/s4208/b], Nov. 14, 1986, [100 Stat. 4073][/us/stat/100/4073].)
+([Pub. L. 89–642][/us/pl/89/642], § 20, as added [Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1408(b)(2), Nov. 1, 1978, [92 Stat. 2368][/us/stat/92/2368]; amended [Pub. L. 99–500, title III][/us/pl/99/500/tIII], § 328(b), Oct. 18, 1986, [100 Stat. 1783–362][/us/stat/100/1783-362], and [Pub. L. 99–591, title III][/us/pl/99/591/tIII], § 328(b), Oct. 30, 1986, [100 Stat. 3341–365][/us/stat/100/3341-365]; [Pub. L. 99–661, div. D, title II][/us/pl/99/661/dD/tII], § 4208(b), Nov. 14, 1986, [100 Stat. 4073][/us/stat/100/4073].)
 
  __Codification__ 
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/89/642/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs20
-[/us/pl/95/561/s1408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1408%2Fb%2F2
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2368
-[/us/pl/99/500/s328/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs328%2Fb
+[/us/pl/99/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2FtIII
 [/us/stat/100/1783-362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-362
-[/us/pl/99/591/s328/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs328%2Fb
+[/us/pl/99/591/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtIII
 [/us/stat/100/3341-365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-365
-[/us/pl/99/661/s4208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4208%2Fb
+[/us/pl/99/661/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdD%2FtII
 [/us/stat/100/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4073
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500

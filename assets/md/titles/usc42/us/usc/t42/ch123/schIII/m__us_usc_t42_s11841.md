@@ -103,7 +103,7 @@
 
          programs for unsupervised children before and after school, including—
 
-            (A) education and instruction consistent with title IV of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7101][/us/usc/t20/s7101] et seq.\];
+            (A) education and instruction consistent with part A of title IV of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7101][/us/usc/t20/s7101] et seq.\];
 
             (B) athletic activities;
 
@@ -147,23 +147,29 @@
 
         To carry out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1989, $55,000,000 for fiscal year 1990, $60,000,000 for fiscal year 1991, $66,550,000 for fiscal year 1992, and $73,205,000 for fiscal year 1993.
 
-([Pub. L. 100–690, title III, § 3521][/us/pl/100/690/s3521], Nov. 18, 1988, [102 Stat. 4258][/us/stat/102/4258]; [Pub. L. 101–93, § 4(1)][/us/pl/101/93/s4/1], Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 101–226, § 23][/us/pl/101/226/s23], Dec. 12, 1989, [103 Stat. 1941][/us/stat/103/1941]; [Pub. L. 103–382, title III, § 394(b)][/us/pl/103/382/s394/b], Oct. 20, 1994, [108 Stat. 4027][/us/stat/108/4027]; [Pub. L. 105–285, title II, § 202(d)][/us/pl/105/285/s202/d], Oct. 27, 1998, [112 Stat. 2755][/us/stat/112/2755].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3521, Nov. 18, 1988, [102 Stat. 4258][/us/stat/102/4258]; [Pub. L. 101–93][/us/pl/101/93], § 4(1), Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 101–226][/us/pl/101/226], § 23, Dec. 12, 1989, [103 Stat. 1941][/us/stat/103/1941]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 394(b), Oct. 20, 1994, [108 Stat. 4027][/us/stat/108/4027]; [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 202(d), Oct. 27, 1998, [112 Stat. 2755][/us/stat/112/2755]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(k), Dec. 10, 2015, [129 Stat. 2168][/us/stat/129/2168].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended generally. Title IV of the Act is classified generally to subchapter IV (§ 7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title IV of the Act is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(8)(A). [Pub. L. 114–95][/us/pl/114/95] substituted “education and instruction consistent with part A of title IV of the Elementary and Secondary Education Act of 1965” for “education and instruction consistent with title IV of the Elementary and Secondary Education Act of 1965”.
 
     1998—Subsec. (c)(2). [Pub. L. 105–285][/us/pl/105/285] struck out “, such as activities authorized by [section 9910(a)(2)(F) of this title][/us/usc/t42/s9910/a/2/F],” after “national significance”.
 
     1994—Subsec. (d)(8)(A). [Pub. L. 103–382][/us/pl/103/382] substituted “title IV of the Elementary and Secondary Education Act of 1965” for “the Drug-Free Schools and Communities Act of 1986”.
 
-    1989—Subsec. (b)(2). [Pub. L. 101–93, § 4(1)(A)][/us/pl/101/93/s4/1/A], substituted “subsection (e)” for “subsections (c)(3)(B) and (e)”.
+    1989—Subsec. (b)(2). [Pub. L. 101–93][/us/pl/101/93], § 4(1)(A), substituted “subsection (e)” for “subsections (c)(3)(B) and (e)”.
 
-    Subsec. (c)(3)(A). [Pub. L. 101–93, § 4(1)(B)][/us/pl/101/93/s4/1/B], substituted “subsection (g)” for “subsection (h)”.
+    Subsec. (c)(3)(A). [Pub. L. 101–93][/us/pl/101/93], § 4(1)(B), substituted “subsection (g)” for “subsection (h)”.
 
     Subsec. (d). [Pub. L. 101–226][/us/pl/101/226], which directed amendment of section 3521(d) of the National Narcotics Leadership Act of 1988 by adding par. (8) and redesignating former par. (8) as (9), was executed to [section 3521(d) of Pub. L. 100–690][/us/pl/100/690/s3521/d], the Anti-Drug Abuse Act of 1988, as the probable intent of Congress. Subtitle A (§§ 1001–1012) of title I of [Pub. L. 100–690][/us/pl/100/690] is the National Narcotics Leadership Act of 1988.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -177,27 +183,33 @@
 ----------
 
 [/us/usc/t20/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7101
-[/us/pl/100/690/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3521
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4258
-[/us/pl/101/93/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs4%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F611
-[/us/pl/101/226/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F226%2Fs23
+[/us/pl/101/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F226
 [/us/stat/103/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1941
-[/us/pl/103/382/s394/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fb
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4027
-[/us/pl/105/285/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs202%2Fd
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2755
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2168
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9910/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910%2Fa%2F2%2FF
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/101/93/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs4%2F1%2FA
-[/us/pl/101/93/s4/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs4%2F1%2FB
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/pl/101/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F226
 [/us/pl/100/690/s3521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3521%2Fd
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

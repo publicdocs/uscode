@@ -29,7 +29,7 @@
 
         (3) containing no other provisions.
 
-([Pub. L. 105–19, § 3][/us/pl/105/19/s3], June 18, 1997, [111 Stat. 219][/us/stat/111/219].)
+([Pub. L. 105–19][/us/pl/105/19], § 3, June 18, 1997, [111 Stat. 219][/us/stat/111/219].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/19/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19%2Fs3
+[/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F219
 
 

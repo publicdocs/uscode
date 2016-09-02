@@ -71,7 +71,7 @@
 
         (3) In addition to the ex officio members specified in [section 284a(b)(2) of this title][/us/usc/t42/s284a/b/2], the ex officio members of the advisory council shall include the Director of the Centers for Disease Control and Prevention, the Director of the National Science Foundation, and the Director of the National Institute of Standards and Technology (or the designees of such officers).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z, as added [Pub. L. 106–580, § 3(a)][/us/pl/106/580/s3/a], Dec. 29, 2000, [114 Stat. 3089][/us/stat/114/3089]; amended [Pub. L. 109–482, title I, § 103(b)(37)][/us/pl/109/482/s103/b/37], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z, as added [Pub. L. 106–580][/us/pl/106/580], § 3(a), Dec. 29, 2000, [114 Stat. 3089][/us/stat/114/3089]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(37), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -83,13 +83,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–580, § 4][/us/pl/106/580/s4], Dec. 29, 2000, [114 Stat. 3092][/us/stat/114/3092], provided that: 
+[Pub. L. 106–580][/us/pl/106/580], § 4, Dec. 29, 2000, [114 Stat. 3092][/us/stat/114/3092], provided that: 
 
 > “This Act \[enacting this subpart, amending [section 281 of this title][/us/usc/t42/s281], and enacting provisions set out as notes under this section and [section 201 of this title][/us/usc/t42/s201]\] takes effect October 1, 2000, or upon the date of the enactment of this Act \[Dec. 29, 2000\], whichever occurs later.”
 
  __Findings__ 
 
-[Pub. L. 106–580, § 2][/us/pl/106/580/s2], Dec. 29, 2000, [114 Stat. 3088][/us/stat/114/3088], provided that: 
+[Pub. L. 106–580][/us/pl/106/580], § 2, Dec. 29, 2000, [114 Stat. 3088][/us/stat/114/3088], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -111,7 +111,7 @@
 
  __Establishment of Institute and Advisory Council__ 
 
-[Pub. L. 106–580, § 3(b)][/us/pl/106/580/s3/b]–(d), Dec. 29, 2000, [114 Stat. 3091][/us/stat/114/3091], provided that:
+[Pub. L. 106–580][/us/pl/106/580], § 3(b)–(d), Dec. 29, 2000, [114 Stat. 3091][/us/stat/114/3091], provided that:
 
 >     “(b)  __Use of Existing Resources__  __.—__ 
 
@@ -141,21 +141,21 @@
 [/us/usc/t42/s284a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a
 [/us/usc/t42/s284a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a%2Fb%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/580/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580%2Fs3%2Fa
+[/us/pl/106/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580
 [/us/stat/114/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3089
-[/us/pl/109/482/s103/b/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F37
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/106/580/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580%2Fs4
+[/us/pl/106/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580
 [/us/stat/114/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3092
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/106/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580%2Fs2
+[/us/pl/106/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580
 [/us/stat/114/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3088
-[/us/pl/106/580/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580%2Fs3%2Fb
+[/us/pl/106/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F580
 [/us/stat/114/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3091
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201

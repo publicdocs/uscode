@@ -127,7 +127,7 @@
 
         Notwithstanding [section 10101 of this title][/us/usc/t42/s10101], radioactive material resulting from the production of medical isotopes that has been permanently removed from a reactor or subcritical assembly and for which there is no further use shall be considered low-level radioactive waste if the material is acceptable under Federal requirements for disposal as low-level radioactive waste.
 
-([Pub. L. 112–239, div. C, title XXXI, § 3173][/us/pl/112/239/s3173], Jan. 2, 2013, [126 Stat. 2211][/us/stat/126/2211].)
+([Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3173, Jan. 2, 2013, [126 Stat. 2211][/us/stat/126/2211].)
 
  __References in Text__ 
 
@@ -139,7 +139,7 @@
 
  __Definitions__ 
 
-[Pub. L. 112–239, div. C, title XXXI, § 3172][/us/pl/112/239/s3172], Jan. 2, 2013, [126 Stat. 2211][/us/stat/126/2211], provided that: 
+[Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3172, Jan. 2, 2013, [126 Stat. 2211][/us/stat/126/2211], provided that: 
 
 > “In this subtitle \[subtitle F (§§ 3171–3178), see Short Title of 2013 Amendment note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables\]:
 
@@ -168,11 +168,11 @@
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
 [/us/usc/t42/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101
-[/us/pl/112/239/s3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3173
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2211
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/112/239/s3172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3172
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2211
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 

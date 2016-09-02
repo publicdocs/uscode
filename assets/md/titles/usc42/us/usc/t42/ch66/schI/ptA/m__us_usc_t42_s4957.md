@@ -17,7 +17,7 @@
 
     In carrying out this part and part C of this subchapter, the Director shall take necessary steps, including the development of special projects, where appropriate, to encourage the fullest participation of individuals 18 through 27 years of age, and individuals 55 years of age and older, in the various programs and activities authorized under such parts.
 
-([Pub. L. 93–113, title I, § 107][/us/pl/93/113/s107], Oct. 1, 1973, [87 Stat. 399][/us/stat/87/399]; [Pub. L. 103–82, title III, § 326][/us/pl/103/82/s326], Sept. 21, 1993, [107 Stat. 901][/us/stat/107/901].)
+([Pub. L. 93–113, title I][/us/pl/93/113/tI], § 107, Oct. 1, 1973, [87 Stat. 399][/us/stat/87/399]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 326, Sept. 21, 1993, [107 Stat. 901][/us/stat/107/901].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/113/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs107
+[/us/pl/93/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtI
 [/us/stat/87/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F399
-[/us/pl/103/82/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs326
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F901
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

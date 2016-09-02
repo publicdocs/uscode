@@ -29,7 +29,7 @@
 
     (6) facilitate the establishment and efficient operation of land bank programs, under which title to vacant and abandoned parcels of real estate located in or causing blighted neighborhoods is cleared for use consistent with the purposes of this subchapter.
 
-([Pub. L. 101–625, title II, § 242][/us/pl/101/625/s242], Nov. 28, 1990, [104 Stat. 4118][/us/stat/104/4118]; [Pub. L. 102–550, title II, § 214(a)][/us/pl/102/550/s214/a], Oct. 28, 1992, [106 Stat. 3759][/us/stat/106/3759].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 242, Nov. 28, 1990, [104 Stat. 4118][/us/stat/104/4118]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 214(a), Oct. 28, 1992, [106 Stat. 3759][/us/stat/106/3759].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t42/s12781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12781
-[/us/pl/101/625/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs242
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4118
-[/us/pl/102/550/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs214%2Fa
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3759
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

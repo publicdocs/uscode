@@ -33,7 +33,7 @@
 
         A participating jurisdiction shall provide assistance using amounts received pursuant to this subchapter in the manner set forth in the plan of the jurisdiction approved by the Secretary under [section 1437bbb–5(a)(2) of this title][/us/usc/t42/s1437bbb–5/a/2].
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 405, as added [Pub. L. 105–276, title V, § 561][/us/pl/105/276/s561], Oct. 21, 1998, [112 Stat. 2619][/us/stat/112/2619].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 405, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 561, Oct. 21, 1998, [112 Stat. 2619][/us/stat/112/2619].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s1437p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437p
 [/us/usc/t42/s1437bbb–5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437bbb%E2%80%935%2Fa%2F2
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs561
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2619
 
 

@@ -59,7 +59,7 @@
 
         There is authorized to be appropriated to the Secretary to carry out this section $200,000,000 per year for fiscal years 2009 through 2013.
 
-([Pub. L. 110–140, title VII, § 703][/us/pl/110/140/s703], Dec. 19, 2007, [121 Stat. 1708][/us/stat/121/1708].)
+([Pub. L. 110–140, title VII][/us/pl/110/140/tVII], § 703, Dec. 19, 2007, [121 Stat. 1708][/us/stat/121/1708].)
 
  __Short Title__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t42/s16293/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16293%2Fc%2F3
 [/us/usc/t42/s16293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16293
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/110/140/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs703
+[/us/pl/110/140/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVII
 [/us/stat/121/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1708
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t42/s17001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17001

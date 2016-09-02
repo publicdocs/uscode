@@ -33,7 +33,7 @@
 
         Assistance may be provided under this section to an office of consumer services established by the Tennessee Valley Authority, if such office is operated independently of the Tennessee Valley Authority.
 
-([Pub. L. 94–385, title II, § 205][/us/pl/94/385/s205], Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144]; [Pub. L. 95–617, title I, § 143][/us/pl/95/617/s143], Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134].)
+([Pub. L. 94–385, title II][/us/pl/94/385/tII], § 205, Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144]; [Pub. L. 95–617, title I][/us/pl/95/617/tI], § 143, Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/94/385/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs205
+[/us/pl/94/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtII
 [/us/stat/90/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1144
-[/us/pl/95/617/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs143
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3134
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 

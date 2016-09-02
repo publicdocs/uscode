@@ -31,13 +31,13 @@
 
         A regulated lending institution or Federal agency lender may make loans secured by structures which are not eligible for flood insurance by reason of this section: Provided, That prior to making such a loan, such institution determines that the loans or structures securing the loan are within the Floodway.
 
-([Pub. L. 90–448, title XIII, § 1322][/us/pl/90/448/s1322], as added [Pub. L. 99–450, § 12][/us/pl/99/450/s12], Oct. 8, 1986, [100 Stat. 1135][/us/stat/100/1135]; amended [Pub. L. 100–242, title V, § 545(e)][/us/pl/100/242/s545/e], Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 103–325, title V, § 512(b)][/us/pl/103/325/s512/b], Sept. 23, 1994, [108 Stat. 2257][/us/stat/108/2257].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1322, as added [Pub. L. 99–450][/us/pl/99/450], § 12, Oct. 8, 1986, [100 Stat. 1135][/us/stat/100/1135]; amended [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 545(e), Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 512(b), Sept. 23, 1994, [108 Stat. 2257][/us/stat/108/2257].)
 
  __References in Text__ 
 
     The National Flood Insurance Act, referred to in subsec. (a), probably means the National Flood Insurance Act of 1968, title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], as amended, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
-    [Section 1600c(b)(2) of title 43][/us/usc/t43/s1600c/b/2], referred to in subsecs. (a) and (c), was struck out and former subsec. (b)(1)(ii) redesignated (b)(2) of section 1600c by [Pub. L. 105–362, title IX, § 901(d)(1)][/us/pl/105/362/s901/d/1], Nov. 10, 1998, [112 Stat. 3289][/us/stat/112/3289]. As amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
+    [Section 1600c(b)(2) of title 43][/us/usc/t43/s1600c/b/2], referred to in subsecs. (a) and (c), was struck out and former subsec. (b)(1)(ii) redesignated (b)(2) of section 1600c by [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(d)(1), Nov. 10, 1998, [112 Stat. 3289][/us/stat/112/3289]. As amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
 
     This chapter, referred to in subsec. (b), was in the original a reference to “this title” meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
@@ -57,18 +57,18 @@
 [/us/usc/t43/s1600c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1600c
 [/us/usc/t43/s1600c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1600c
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/90/448/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1322
-[/us/pl/99/450/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F450%2Fs12
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/99/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F450
 [/us/stat/100/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1135
-[/us/pl/100/242/s545/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs545%2Fe
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1942
-[/us/pl/103/325/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs512%2Fb
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2257
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t43/s1600c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1600c%2Fb%2F2
-[/us/pl/105/362/s901/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fd%2F1
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3289
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

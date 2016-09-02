@@ -577,7 +577,7 @@
 
                 (ii) notwithstanding any statute of limitations under [section 9613 of this title][/us/usc/t42/s9613], recovery of all response costs incurred at the facility.
 
-([Pub. L. 96–510, title I, § 107][/us/pl/96/510/s107], Dec. 11, 1980, [94 Stat. 2781][/us/stat/94/2781]; [Pub. L. 99–499, title I][/us/pl/99/499], §§ 107(a)–(d)(2), (e), (f), 127(b), (e), title II, §§ 201, 207(c), Oct. 17, 1986, [100 Stat. 1628–1630][/us/stat/100/1628-1630], 1692, 1693, 1705; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–429, § 7(e)(2)][/us/pl/103/429/s7/e/2], Oct. 31, 1994, [108 Stat. 4390][/us/stat/108/4390]; [Pub. L. 104–208, div. A, title II, § 2502(a)][/us/pl/104/208/s2502/a], Sept. 30, 1996, [110 Stat. 3009–462][/us/stat/110/3009-462]; [Pub. L. 104–287, § 6(j)(2)][/us/pl/104/287/s6/j/2], Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400]; [Pub. L. 107–118, title I, § 102(a)][/us/pl/107/118/s102/a], title II, §§ 221, 222(b), Jan. 11, 2002, [115 Stat. 2356][/us/stat/115/2356], 2368, 2371.)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 107, Dec. 11, 1980, [94 Stat. 2781][/us/stat/94/2781]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], §§ 107(a)–(d)(2), (e), (f), 127(b), (e), title II, §§ 201, 207(c), Oct. 17, 1986, [100 Stat. 1628–1630][/us/stat/100/1628-1630], 1692, 1693, 1705; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–429][/us/pl/103/429], § 7(e)(2), Oct. 31, 1994, [108 Stat. 4390][/us/stat/108/4390]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2502(a), Sept. 30, 1996, [110 Stat. 3009–462][/us/stat/110/3009-462]; [Pub. L. 104–287][/us/pl/104/287], § 6(j)(2), Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400]; [Pub. L. 107–118, title I][/us/pl/107/118/tI], § 102(a), title II, §§ 221, 222(b), Jan. 11, 2002, [115 Stat. 2356][/us/stat/115/2356], 2368, 2371.)
 
  __References in Text__ 
 
@@ -589,23 +589,23 @@
 
     The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (i), is [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], as amended generally by [Pub. L. 92–516][/us/pl/92/516], Oct. 21, 1972, [86 Stat. 973][/us/stat/86/973], which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7][/us/usc/t7/s136] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (k)(1), (3), (6)(E)(i), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§ 6921 et seq.) and IX (§ 6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (k)(1), (3), (6)(E)(i), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§ 6921 et seq.) and IX (§ 6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
-    [Section 9641 of this title][/us/usc/t42/s9641], referred to in subsec. (k), was repealed by [Pub. L. 99–499, title V, § 514(b)][/us/pl/99/499/s514/b], Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767].
+    [Section 9641 of this title][/us/usc/t42/s9641], referred to in subsec. (k), was repealed by [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 514(b), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767].
 
-    Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in the original “title II of this Act”, meaning title II of [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2796][/us/stat/94/2796], known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of [Pub. L. 96–510][/us/pl/96/510], which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by [Pub. L. 99–499, title V][/us/pl/99/499], §§ 514(b), 517(c)(1), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1] and Tables.
+    Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in the original “title II of this Act”, meaning title II of [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2796][/us/stat/94/2796], known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of [Pub. L. 96–510][/us/pl/96/510], which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by [Pub. L. 99–499, title V][/us/pl/99/499/tV], §§ 514(b), 517(c)(1), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1] and Tables.
 
     The Hazardous and Solid Waste Amendments of 1984, referred to in subsec. (k)(6)(A), (E), is [Pub. L. 98–616][/us/pl/98/616], Nov. 8, 1984, [98 Stat. 3221][/us/stat/98/3221]. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
-    The Small Business Act, referred to in subsec. (p)(1), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (p)(1), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
  __Amendments__ 
 
-    2002—Subsecs. (o), (p). [Pub. L. 107–118, § 102(a)][/us/pl/107/118/s102/a], added subsecs. (o) and (p).
+    2002—Subsecs. (o), (p). [Pub. L. 107–118][/us/pl/107/118], § 102(a), added subsecs. (o) and (p).
 
-    Subsec. (q). [Pub. L. 107–118, § 221][/us/pl/107/118/s221], added subsec. (q).
+    Subsec. (q). [Pub. L. 107–118][/us/pl/107/118], § 221, added subsec. (q).
 
-    Subsec. (r). [Pub. L. 107–118, § 222(b)][/us/pl/107/118/s222/b], added subsec. (r).
+    Subsec. (r). [Pub. L. 107–118][/us/pl/107/118], § 222(b), added subsec. (r).
 
     1996—Subsec. (c)(1)(C). [Pub. L. 104–287][/us/pl/104/287] substituted “[section 60101(a) of title 49][/us/usc/t49/s60101/a]” for “the Hazardous Liquid Pipeline Safety Act of 1979”.
 
@@ -615,51 +615,51 @@
 
     1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], in penultimate sentence, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    [Pub. L. 99–499, § 107(b)][/us/pl/99/499/s107/b], inserted concluding provisions relating to accrual and rate of interest on amounts recoverable under this section.
+    [Pub. L. 99–499][/us/pl/99/499], § 107(b), inserted concluding provisions relating to accrual and rate of interest on amounts recoverable under this section.
 
-    Subsec. (a)(1). [Pub. L. 99–499, § 107(a)][/us/pl/99/499/s107/a], struck out “(otherwise subject to the jurisdiction of the United States)” after “vessel”.
+    Subsec. (a)(1). [Pub. L. 99–499][/us/pl/99/499], § 107(a), struck out “(otherwise subject to the jurisdiction of the United States)” after “vessel”.
 
-    Subsec. (a)(3). [Pub. L. 99–499, § 127(b)(1)][/us/pl/99/499/s127/b/1], inserted “or incineration vessel” after “facility”.
+    Subsec. (a)(3). [Pub. L. 99–499][/us/pl/99/499], § 127(b)(1), inserted “or incineration vessel” after “facility”.
 
     Subsec. (a)(4). [Pub. L. 99–499][/us/pl/99/499], §§ 107(b), 127(b)(2), 207(c)(1), in introductory provisions, inserted “, incineration vessels” after “vessels”, in subpar. (A), inserted “or an Indian tribe” after “State”, and added subpar. (D).
 
-    Subsec. (c)(1)(A). [Pub. L. 99–499, § 127(b)(3)][/us/pl/99/499/s127/b/3], inserted “, other than an incineration vessel,” after “vessel”.
+    Subsec. (c)(1)(A). [Pub. L. 99–499][/us/pl/99/499], § 127(b)(3), inserted “, other than an incineration vessel,” after “vessel”.
 
-    Subsec. (c)(1)(B). [Pub. L. 99–499, § 127(b)(4)][/us/pl/99/499/s127/b/4], inserted “other than an incineration vessel,” after “other vessel,”.
+    Subsec. (c)(1)(B). [Pub. L. 99–499][/us/pl/99/499], § 127(b)(4), inserted “other than an incineration vessel,” after “other vessel,”.
 
-    Subsec. (c)(1)(D). [Pub. L. 99–499, § 127(b)(5)][/us/pl/99/499/s127/b/5], inserted “any incineration vessel or” before “any facility”.
+    Subsec. (c)(1)(D). [Pub. L. 99–499][/us/pl/99/499], § 127(b)(5), inserted “any incineration vessel or” before “any facility”.
 
-    Subsec. (d). [Pub. L. 99–499, § 107(c)][/us/pl/99/499/s107/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No person shall be liable under this subchapter for damages as a result of actions taken or omitted in the course of rendering care, assistance, or advice in accordance with the national contingency plan or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any release of a hazardous substance or the threat thereof. This subsection shall not preclude liability for damages as the result of gross negligence or intentional misconduct on the part of such person. For the purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.”
+    Subsec. (d). [Pub. L. 99–499][/us/pl/99/499], § 107(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No person shall be liable under this subchapter for damages as a result of actions taken or omitted in the course of rendering care, assistance, or advice in accordance with the national contingency plan or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any release of a hazardous substance or the threat thereof. This subsection shall not preclude liability for damages as the result of gross negligence or intentional misconduct on the part of such person. For the purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.”
 
-    Subsec. (f)(1). [Pub. L. 99–499, § 107(d)(1)][/us/pl/99/499/s107/d/1], designated existing provisions as par. (1) and added heading.
+    Subsec. (f)(1). [Pub. L. 99–499][/us/pl/99/499], § 107(d)(1), designated existing provisions as par. (1) and added heading.
 
-    [Pub. L. 99–499, § 207(c)(2)(A)][/us/pl/99/499/s207/c/2/A], inserted “and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation” after third reference to “State”.
+    [Pub. L. 99–499][/us/pl/99/499], § 207(c)(2)(A), inserted “and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation” after third reference to “State”.
 
-    [Pub. L. 99–499, § 207(c)(2)(B)][/us/pl/99/499/s207/c/2/B], inserted “or Indian tribe” after fourth reference to “State”.
+    [Pub. L. 99–499][/us/pl/99/499], § 207(c)(2)(B), inserted “or Indian tribe” after fourth reference to “State”.
 
-    [Pub. L. 99–499, § 207(c)(2)(C)][/us/pl/99/499/s207/c/2/C], inserted in first sentence “, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe”.
+    [Pub. L. 99–499][/us/pl/99/499], § 207(c)(2)(C), inserted in first sentence “, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe”.
 
-    [Pub. L. 99–499, § 107(d)(2)][/us/pl/99/499/s107/d/2], substituted “Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource” for “Sums recovered shall be available for use to restore, rehabilitate, or acquire the equivalent of such natural resources by the appropriate agencies of the Federal Government or the State government, but the measure of such damages shall not be limited by the sums which can be used to restore or replace such resources”.
+    [Pub. L. 99–499][/us/pl/99/499], § 107(d)(2), substituted “Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource” for “Sums recovered shall be available for use to restore, rehabilitate, or acquire the equivalent of such natural resources by the appropriate agencies of the Federal Government or the State government, but the measure of such damages shall not be limited by the sums which can be used to restore or replace such resources”.
 
-    [Pub. L. 99–499, § 207(c)(2)(D)][/us/pl/99/499/s207/c/2/D], which directed the insertion of “or the Indian tribe” after “State government”, could not be executed because the prior amendment by [section 107(d)(2) of Pub. L. 99–499][/us/pl/99/499/s107/d/2], struck out third sentence referring to “State government”.
+    [Pub. L. 99–499][/us/pl/99/499], § 207(c)(2)(D), which directed the insertion of “or the Indian tribe” after “State government”, could not be executed because the prior amendment by [section 107(d)(2) of Pub. L. 99–499][/us/pl/99/499/s107/d/2], struck out third sentence referring to “State government”.
 
-    Subsec. (f)(2). [Pub. L. 99–499, § 107(d)(1)][/us/pl/99/499/s107/d/1], added par. (2).
+    Subsec. (f)(2). [Pub. L. 99–499][/us/pl/99/499], § 107(d)(1), added par. (2).
 
-    Subsec. (g). [Pub. L. 99–499, § 107(e)][/us/pl/99/499/s107/e], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Each department, agency, or instrumentality of the executive, legislative, and judicial branches of the Federal Government shall be subject to, and comply with, this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under this section.”
+    Subsec. (g). [Pub. L. 99–499][/us/pl/99/499], § 107(e), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Each department, agency, or instrumentality of the executive, legislative, and judicial branches of the Federal Government shall be subject to, and comply with, this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under this section.”
 
-    Subsec. (h). [Pub. L. 99–499, § 127(e)][/us/pl/99/499/s127/e], inserted “, under maritime tort law,” after “with this section” and inserted “or the absence of any physical damage to the proprietary interest of the claimant” before the period at end.
+    Subsec. (h). [Pub. L. 99–499][/us/pl/99/499], § 127(e), inserted “, under maritime tort law,” after “with this section” and inserted “or the absence of any physical damage to the proprietary interest of the claimant” before the period at end.
 
-    Subsec. (i). [Pub. L. 99–499, § 207(c)(3)][/us/pl/99/499/s207/c/3], inserted “or Indian tribe” after “State”.
+    Subsec. (i). [Pub. L. 99–499][/us/pl/99/499], § 207(c)(3), inserted “or Indian tribe” after “State”.
 
-    Subsec. (j). [Pub. L. 99–499, § 207(c)(4)][/us/pl/99/499/s207/c/4], inserted “or Indian tribe” after first reference to “State”.
+    Subsec. (j). [Pub. L. 99–499][/us/pl/99/499], § 207(c)(4), inserted “or Indian tribe” after first reference to “State”.
 
-    Subsec. (k)(5), (6). [Pub. L. 99–499, § 201][/us/pl/99/499/s201], added pars. (5) and (6).
+    Subsec. (k)(5), (6). [Pub. L. 99–499][/us/pl/99/499], § 201, added pars. (5) and (6).
 
-    Subsec. (l). [Pub. L. 99–499, § 107(f)][/us/pl/99/499/s107/f], added subsec. (l).
+    Subsec. (l). [Pub. L. 99–499][/us/pl/99/499], § 107(f), added subsec. (l).
 
     Subsec. (l)(3). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (m). [Pub. L. 99–499, § 107(f)][/us/pl/99/499/s107/f], added subsec. (m).
+    Subsec. (m). [Pub. L. 99–499][/us/pl/99/499], § 107(f), added subsec. (m).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -667,45 +667,45 @@
 
  __Effect on Concluded Actions__ 
 
-[Pub. L. 107–118, title I, § 103][/us/pl/107/118/s103], Jan. 11, 2002, [115 Stat. 2360][/us/stat/115/2360], provided that: 
+[Pub. L. 107–118, title I][/us/pl/107/118/tI], § 103, Jan. 11, 2002, [115 Stat. 2360][/us/stat/115/2360], provided that: 
 
 > “The amendments made by this title \[amending this section and [section 9622 of this title][/us/usc/t42/s9622]\] shall not apply to or in any way affect any settlement lodged in, or judgment issued by, a United States District Court, or any administrative settlement or order entered into or issued by the United States or any State, before the date of the enactment of this Act \[Jan. 11, 2002\].”
 
  __Central Hazardous Materials Fund__ 
 
-[Pub. L. 110–161, div. F, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2116][/us/stat/121/2116], as amended by [Pub. L. 111–88, div. A, title I][/us/pl/111/88], Oct. 30, 2009, [123 Stat. 2924][/us/stat/123/2924], provided in part: 
+[Pub. L. 110–161, div. F, title I][/us/pl/110/161/dF/tI], Dec. 26, 2007, [121 Stat. 2116][/us/stat/121/2116], as amended by [Pub. L. 111–88, div. A, title I][/us/pl/111/88/dA/tI], Oct. 30, 2009, [123 Stat. 2924][/us/stat/123/2924], provided in part: 
 
 > “That hereafter, notwithstanding [31 U.S.C. 3302][/us/usc/t31/s3302], sums recovered from or paid by a party including any fines or penalties, shall be credited to this account, to be available until expended without further appropriation: Provided further, That hereafter such sums recovered from or paid by any party are not limited to monetary payments and may include stocks, bonds or other personal or real property, which may be retained, liquidated, or otherwise disposed of by the Secretary and which shall be credited to this account.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 109–54, title I][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 518][/us/stat/119/518].
+    [Pub. L. 109–54, title I][/us/pl/109/54/tI], Aug. 2, 2005, [119 Stat. 518][/us/stat/119/518].
 
-    [Pub. L. 108–447, div. E, title I][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3041][/us/stat/118/3041].
+    [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], Dec. 8, 2004, [118 Stat. 3041][/us/stat/118/3041].
 
-    [Pub. L. 108–108, title I, § 310][/us/pl/108/108/s310], Nov. 10, 2003, [117 Stat. 1243][/us/stat/117/1243].
+    [Pub. L. 108–108, title I][/us/pl/108/108/tI], § 310, Nov. 10, 2003, [117 Stat. 1243][/us/stat/117/1243].
 
-    [Pub. L. 108–7, div. F, title I][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 218][/us/stat/117/218].
+    [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], Feb. 20, 2003, [117 Stat. 218][/us/stat/117/218].
 
-    [Pub. L. 107–63, title I][/us/pl/107/63], Nov. 5, 2001, [115 Stat. 416][/us/stat/115/416].
+    [Pub. L. 107–63, title I][/us/pl/107/63/tI], Nov. 5, 2001, [115 Stat. 416][/us/stat/115/416].
 
-    [Pub. L. 106–291, title I][/us/pl/106/291], Oct. 11, 2000, [114 Stat. 923][/us/stat/114/923].
+    [Pub. L. 106–291, title I][/us/pl/106/291/tI], Oct. 11, 2000, [114 Stat. 923][/us/stat/114/923].
 
-    [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–136.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–136.
 
-    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–233.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–233.
 
-    [Pub. L. 105–83, title I][/us/pl/105/83], Nov. 14, 1997, [111 Stat. 1544][/us/stat/111/1544].
+    [Pub. L. 105–83, title I][/us/pl/105/83/tI], Nov. 14, 1997, [111 Stat. 1544][/us/stat/111/1544].
 
-    [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–182.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–182.
 
-    [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title I\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–157; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title I\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–157; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 103–332, title I][/us/pl/103/332], Sept. 30, 1994, [108 Stat. 2500][/us/stat/108/2500].
+    [Pub. L. 103–332, title I][/us/pl/103/332/tI], Sept. 30, 1994, [108 Stat. 2500][/us/stat/108/2500].
 
  __Recovery of Costs__ 
 
-[Pub. L. 104–303, title II, § 209][/us/pl/104/303/s209], Oct. 12, 1996, [110 Stat. 3681][/us/stat/110/3681], provided that: 
+[Pub. L. 104–303, title II][/us/pl/104/303/tII], § 209, Oct. 12, 1996, [110 Stat. 3681][/us/stat/110/3681], provided that: 
 
 > “Amounts recovered under section 107 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9607][/us/usc/t42/s9607]) for any response action taken by the Secretary in support of the civil works program of the Department of the Army and any other amounts recovered by the Secretary from a contractor, insurer, surety, or other person to reimburse the Department of the Army for any expenditure for environmental response activities in support of the Army civil works program shall be credited to the appropriate trust fund account from which the cost of such response action has been paid or will be charged.”
 
@@ -754,19 +754,19 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s9601/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F40
 [/us/usc/t42/s9613/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9613%2Ff
 [/us/usc/t42/s9613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9613
-[/us/pl/96/510/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs107
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2781
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1628-1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1628-1630
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/429/s7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fe%2F2
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4390
-[/us/pl/104/208/s2502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2502%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-462
-[/us/pl/104/287/s6/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fj%2F2
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3400
-[/us/pl/107/118/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs102%2Fa
+[/us/pl/107/118/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtI
 [/us/stat/115/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2356
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -786,94 +786,94 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s9641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9641
-[/us/pl/99/499/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs514%2Fb
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2796
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/stat/98/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3221
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/107/118/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs102%2Fa
-[/us/pl/107/118/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs221
-[/us/pl/107/118/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs222%2Fb
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
+[/us/pl/107/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s60101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101%2Fa
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/499/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fb
-[/us/pl/99/499/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fa
-[/us/pl/99/499/s127/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fb%2F1
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
-[/us/pl/99/499/s127/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fb%2F3
-[/us/pl/99/499/s127/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fb%2F4
-[/us/pl/99/499/s127/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fb%2F5
-[/us/pl/99/499/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fc
-[/us/pl/99/499/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fd%2F1
-[/us/pl/99/499/s207/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs207%2Fc%2F2%2FA
-[/us/pl/99/499/s207/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs207%2Fc%2F2%2FB
-[/us/pl/99/499/s207/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs207%2Fc%2F2%2FC
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499/s107/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fd%2F2
-[/us/pl/99/499/s207/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs207%2Fc%2F2%2FD
-[/us/pl/99/499/s107/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fd%2F2
-[/us/pl/99/499/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fd%2F1
-[/us/pl/99/499/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fe
-[/us/pl/99/499/s127/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fe
-[/us/pl/99/499/s207/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs207%2Fc%2F3
-[/us/pl/99/499/s207/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs207%2Fc%2F4
-[/us/pl/99/499/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs201
-[/us/pl/99/499/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Ff
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/499/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Ff
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2505
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b
-[/us/pl/107/118/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2Fs103
+[/us/pl/107/118/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F118%2FtI
 [/us/stat/115/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2360
 [/us/usc/t42/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9622
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtI
 [/us/stat/121/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2116
-[/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
+[/us/pl/111/88/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtI
 [/us/stat/123/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2924
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F518
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3041
-[/us/pl/108/108/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs310
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1243
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F218
-[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F416
-[/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F923
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1544
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332
+[/us/pl/103/332/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332%2FtI
 [/us/stat/108/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2500
-[/us/pl/104/303/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs209
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3681
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499

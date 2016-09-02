@@ -27,7 +27,7 @@
 
         Nothing in this subchapter shall constitute a waiver of any privilege otherwise applicable to an individual with respect to the protected health information of such individual.
 
-([Pub. L. 111–5, div. A, title XIII, § 13421][/us/pl/111/5/s13421], Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13421, Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t42/s1320d–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%937
 [/us/usc/t42/s1320d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d
 [/us/usc/t42/s1320d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%931
-[/us/pl/111/5/s13421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13421
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F276
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258

@@ -155,7 +155,7 @@
 
         Funds made available under this section shall be used to supplement and not supplant other Federal, State, and local funds available for respite care services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIX, § 2902, as added [Pub. L. 109–442, § 2][/us/pl/109/442/s2], Dec. 21, 2006, [120 Stat. 3292][/us/stat/120/3292].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIX, § 2902, as added [Pub. L. 109–442][/us/pl/109/442], § 2, Dec. 21, 2006, [120 Stat. 3292][/us/stat/120/3292].)
 
 ----------
 
@@ -165,7 +165,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F442%2Fs2
+[/us/pl/109/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F442
 [/us/stat/120/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3292
 
 

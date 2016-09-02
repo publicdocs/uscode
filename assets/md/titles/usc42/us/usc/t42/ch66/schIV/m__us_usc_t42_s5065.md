@@ -23,13 +23,13 @@
 
     that an entity is affiliated with, funded by, or operating under the authority of the Corporation, VISTA, or any of the programs of the National Senior Service Corps may be enjoined under an action filed by the Attorney General, on a complaint by the Director.
 
-([Pub. L. 93–113, title IV, § 425][/us/pl/93/113/s425], as added and amended [Pub. L. 103–82, title III, § 370][/us/pl/103/82/s370], title IV, § 405(a)(11), Sept. 21, 1993, [107 Stat. 909][/us/stat/107/909], 921; [Pub. L. 111–13, title II, § 2155][/us/pl/111/13/s2155], Apr. 21, 2009, [123 Stat. 1592][/us/stat/123/1592].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 425, as added and amended [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 370, title IV, § 405(a)(11), Sept. 21, 1993, [107 Stat. 909][/us/stat/107/909], 921; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2155, Apr. 21, 2009, [123 Stat. 1592][/us/stat/123/1592].)
 
  __Amendments__ 
 
     2009—[Pub. L. 111–13][/us/pl/111/13] substituted “Service Corps” for “Volunteer Corps” in concluding provisions.
 
-    1993—[Pub. L. 103–82, § 405(a)(11)][/us/pl/103/82/s405/a/11], substituted “the Corporation” for “ACTION” in concluding provisions.
+    1993—[Pub. L. 103–82][/us/pl/103/82], § 405(a)(11), substituted “the Corporation” for “ACTION” in concluding provisions.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/93/113/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs425
-[/us/pl/103/82/s370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs370
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F909
-[/us/pl/111/13/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2155
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1592
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
-[/us/pl/103/82/s405/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F11
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

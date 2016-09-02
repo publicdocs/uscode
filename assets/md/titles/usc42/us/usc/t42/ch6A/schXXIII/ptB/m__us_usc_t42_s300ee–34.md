@@ -25,7 +25,7 @@
 
         (2) After consultation with the Director of the Office of Minority Health and with the Indian Health Service, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, not later than 90 days after November 4, 1988, publish guidelines to provide procedures for applications for funding pursuant to paragraph (1) and for public comment.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2524, as added [Pub. L. 100–607, title II, § 221][/us/pl/100/607/s221], Nov. 4, 1988, [102 Stat. 3103][/us/stat/102/3103]; amended [Pub. L. 100–690, title II, § 2619(i)][/us/pl/100/690/s2619/i] \[(j)\], Nov. 18, 1988, [102 Stat. 4244][/us/stat/102/4244]; renumbered title XXV, [Pub. L. 101–93, § 5(e)(1)][/us/pl/101/93/s5/e/1], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612]; [Pub. L. 102–531, title III, § 312(d)(24)][/us/pl/102/531/s312/d/24], Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2524, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 221, Nov. 4, 1988, [102 Stat. 3103][/us/stat/102/3103]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2619(i) \[(j)\], Nov. 18, 1988, [102 Stat. 4244][/us/stat/102/4244]; renumbered title XXV, [Pub. L. 101–93][/us/pl/101/93], § 5(e)(1), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(24), Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505].)
 
  __Amendments__ 
 
@@ -46,13 +46,13 @@
 
 [/us/usc/t42/s300ee–32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9332
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs221
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3103
-[/us/pl/100/690/s2619/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fi
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4244
-[/us/pl/101/93/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
-[/us/pl/102/531/s312/d/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F24
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

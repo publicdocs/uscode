@@ -55,33 +55,33 @@
 
         For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see [section 1645 of title 25][/us/usc/t25/s1645]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1880, as added [Pub. L. 94–437, title IV, § 401(b)][/us/pl/94/437/s401/b], Sept. 30, 1976, [90 Stat. 1408][/us/stat/90/1408]; amended [Pub. L. 102–573, title VII, § 701(d)][/us/pl/102/573/s701/d], Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572]; [Pub. L. 106–417, § 3(b)(1)][/us/pl/106/417/s3/b/1], Nov. 1, 2000, [114 Stat. 1815][/us/stat/114/1815]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 432(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–525; [Pub. L. 108–173, title VI, § 630][/us/pl/108/173/s630], Dec. 8, 2003, [117 Stat. 2321][/us/stat/117/2321]; [Pub. L. 111–148, title II, § 2902(a)][/us/pl/111/148/s2902/a], title X, § 10221(a), (b)(4), Mar. 23, 2010, [124 Stat. 333][/us/stat/124/333], 935, 936.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1880, as added [Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 401(b), Sept. 30, 1976, [90 Stat. 1408][/us/stat/90/1408]; amended [Pub. L. 102–573, title VII][/us/pl/102/573/tVII], § 701(d), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572]; [Pub. L. 106–417][/us/pl/106/417], § 3(b)(1), Nov. 1, 2000, [114 Stat. 1815][/us/stat/114/1815]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IV, § 432(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–525; [Pub. L. 108–173, title VI][/us/pl/108/173/tVI], § 630, Dec. 8, 2003, [117 Stat. 2321][/us/stat/117/2321]; [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2902(a), title X, § 10221(a), (b)(4), Mar. 23, 2010, [124 Stat. 333][/us/stat/124/333], 935, 936.)
 
  __References in Text__ 
 
-    [Section 1645 of title 25][/us/usc/t25/s1645], referred to in subsec. (f), was amended generally by [section 10221(a) of title X of Pub. L. 111–148][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains provisions relating to direct billing of medicare, medicaid, and other third party payors.
+    [Section 1645 of title 25][/us/usc/t25/s1645], referred to in subsec. (f), was amended generally by [section 10221(a) of title X of Pub. L. 111–148][/us/pl/111/148/tX/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and, as so amended, no longer contains provisions relating to direct billing of medicare, medicaid, and other third party payors.
 
  __Codification__ 
 
-    [Pub. L. 111–148, § 10221(a)][/us/pl/111/148/s10221/a], enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, “\[e\]xcept as provided in” [section 10221(b) of Pub. L. 111–148][/us/pl/111/148/s10221/b]. Section 201(a) of S. 1790 would have amended this section but was stricken out by [section 10221(b)(4) of Pub. L. 111–148][/us/pl/111/148/s10221/b/4].
+    [Pub. L. 111–148][/us/pl/111/148], § 10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, “\[e\]xcept as provided in” [section 10221(b) of Pub. L. 111–148][/us/pl/111/148/s10221/b]. Section 201(a) of S. 1790 would have amended this section but was stricken out by [section 10221(b)(4) of Pub. L. 111–148][/us/pl/111/148/s10221/b/4].
 
  __Amendments__ 
 
-    2010—Subsec. (e)(1)(A). [Pub. L. 111–148, § 2902(a)][/us/pl/111/148/s2902/a], substituted “on or after” for “during the 5-year period beginning on”.
+    2010—Subsec. (e)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 2902(a), substituted “on or after” for “during the 5-year period beginning on”.
 
     2003—Subsec. (e)(1)(A). [Pub. L. 108–173][/us/pl/108/173] inserted “(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter)” after “for services described in paragraph (2)”.
 
-    2000—Subsec. (e). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 432(a)(2)\], added subsec. (e). Former subsec. (e) redesignated (f).
+    2000—Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IV, § 432(a)(2)\], added subsec. (e). Former subsec. (e) redesignated (f).
 
     [Pub. L. 106–417][/us/pl/106/417] added subsec. (e).
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 432(a)(1)\], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IV, § 432(a)(1)\], redesignated subsec. (e) as (f).
 
     1992—Subsec. (d). [Pub. L. 102–573][/us/pl/102/573] made technical amendment to the reference to [section 1671 of title 25][/us/usc/t25/s1671] to reflect renumbering of corresponding section of original act.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title II, § 2902(b)][/us/pl/111/148/s2902/b], Mar. 23, 2010, [124 Stat. 333][/us/stat/124/333], provided that: 
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2902(b), Mar. 23, 2010, [124 Stat. 333][/us/stat/124/333], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to items or services furnished on or after January 1, 2010.”
 
@@ -93,11 +93,11 @@
 
  __Medicare Payments Not Considered in Determining Appropriations for Indian Health Care__ 
 
-    [Pub. L. 94–437, title IV, § 401(c)][/us/pl/94/437/s401/c], Sept. 30, 1976, [90 Stat. 1409][/us/stat/90/1409], provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of [section 401 of Pub. L. 94–437][/us/pl/94/437/s401] by [Pub. L. 102–573, title IV, § 401(a)][/us/pl/102/573/s401/a], Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]. Similar provisions are contained in [section 401(a) of Pub. L. 94–437][/us/pl/94/437/s401/a], which is classified to [section 1641(a) of Title 25][/us/usc/t25/s1641/a], Indians.
+    [Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 401(c), Sept. 30, 1976, [90 Stat. 1409][/us/stat/90/1409], provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of [section 401 of Pub. L. 94–437][/us/pl/94/437/s401] by [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 401(a), Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]. Similar provisions are contained in [section 401(a) of Pub. L. 94–437][/us/pl/94/437/s401/a], which is classified to [section 1641(a) of Title 25][/us/usc/t25/s1641/a], Indians.
 
  __Preference in Services for Indians With Medicare Coverage Not Authorized__ 
 
-    [Pub. L. 94–437, title IV, § 401(d)][/us/pl/94/437/s401/d], Sept. 30, 1976, [90 Stat. 1409][/us/stat/90/1409], which provided that nothing in this section authorized the Secretary to provide services to an Indian beneficiary with coverage under this subchapter, in preference to an Indian beneficiary without such coverage, prior to the general amendment of [section 401 of Pub. L. 94–437][/us/pl/94/437/s401] by [Pub. L. 102–573, title IV, § 401(a)][/us/pl/102/573/s401/a], Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]. Similar provisions are contained in [section 401(b) of Pub. L. 94–437][/us/pl/94/437/s401/b], which is classified to [section 1641(b) of Title 25][/us/usc/t25/s1641/b], Indians.
+    [Pub. L. 94–437, title IV][/us/pl/94/437/tIV], § 401(d), Sept. 30, 1976, [90 Stat. 1409][/us/stat/90/1409], which provided that nothing in this section authorized the Secretary to provide services to an Indian beneficiary with coverage under this subchapter, in preference to an Indian beneficiary without such coverage, prior to the general amendment of [section 401 of Pub. L. 94–437][/us/pl/94/437/s401] by [Pub. L. 102–573, title IV][/us/pl/102/573/tIV], § 401(a), Oct. 29, 1992, [106 Stat. 4565][/us/stat/106/4565]. Similar provisions are contained in [section 401(b) of Pub. L. 94–437][/us/pl/94/437/s401/b], which is classified to [section 1641(b) of Title 25][/us/usc/t25/s1641/b], Indians.
 
 ----------
 
@@ -115,32 +115,32 @@
 [/us/usc/t42/s1395x/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fp
 [/us/usc/t25/s1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1645
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/94/437/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401%2Fb
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
 [/us/stat/90/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1408
-[/us/pl/102/573/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs701%2Fd
+[/us/pl/102/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtVII
 [/us/stat/106/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4572
-[/us/pl/106/417/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs3%2Fb%2F1
+[/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/stat/114/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1815
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs630
+[/us/pl/108/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVI
 [/us/stat/117/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2321
-[/us/pl/111/148/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2902%2Fa
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F333
 [/us/usc/t25/s1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1645
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX%2Fs10221%2Fa
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s10221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb
 [/us/pl/111/148/s10221/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fb%2F4
-[/us/pl/111/148/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2902%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
 [/us/usc/t25/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1671
-[/us/pl/111/148/s2902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2902%2Fb
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F333
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
@@ -148,17 +148,17 @@
 [/us/pl/106/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417
 [/us/pl/106/417/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F417%2Fs3%2Fc
 [/us/usc/t25/s1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1645
-[/us/pl/94/437/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401%2Fc
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
 [/us/stat/90/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1409
 [/us/pl/94/437/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401
-[/us/pl/102/573/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs401%2Fa
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4565
 [/us/pl/94/437/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401%2Fa
 [/us/usc/t25/s1641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1641%2Fa
-[/us/pl/94/437/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401%2Fd
+[/us/pl/94/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2FtIV
 [/us/stat/90/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1409
 [/us/pl/94/437/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401
-[/us/pl/102/573/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs401%2Fa
+[/us/pl/102/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2FtIV
 [/us/stat/106/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4565
 [/us/pl/94/437/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs401%2Fb
 [/us/usc/t25/s1641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1641%2Fb

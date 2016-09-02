@@ -85,7 +85,7 @@
 
         There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340G–1, as added [Pub. L. 111–148, title V, § 5304][/us/pl/111/148/s5304], Mar. 23, 2010, [124 Stat. 621][/us/stat/124/621].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340G–1, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5304, Mar. 23, 2010, [124 Stat. 621][/us/stat/124/621].)
 
 ----------
 
@@ -96,7 +96,7 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5304
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F621
 
 

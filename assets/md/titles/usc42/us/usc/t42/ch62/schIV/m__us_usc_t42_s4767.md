@@ -23,7 +23,7 @@
 
     the Office shall notify the State or general local government of its findings and no further payments may be made to such government by the Office until it is satisfied that such noncompliance has been, or will promptly be, corrected. However, the Office may authorize the continuance of payments to those projects approved under this chapter which are not involved in the noncompliance.
 
-([Pub. L. 91–648, title V, § 507][/us/pl/91/648/s507], Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 507, Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs507
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1928
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761

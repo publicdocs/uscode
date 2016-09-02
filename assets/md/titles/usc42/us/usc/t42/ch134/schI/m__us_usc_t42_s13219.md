@@ -37,7 +37,7 @@
 
         (6) The contribution to the reduction in the consumption of oil in the transportation sector.
 
-([Pub. L. 102–486, title III, § 311][/us/pl/102/486/s311], Oct. 24, 1992, [106 Stat. 2874][/us/stat/106/2874].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 311, Oct. 24, 1992, [106 Stat. 2874][/us/stat/106/2874].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs311
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2874
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/stat/104/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2399

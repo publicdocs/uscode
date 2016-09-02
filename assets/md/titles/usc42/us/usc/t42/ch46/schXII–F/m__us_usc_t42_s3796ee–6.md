@@ -17,7 +17,7 @@
 
     Funds or a portion of funds allocated under this subchapter may be used by a State or unit of local government that receives a grant under this subchapter to contract with private, nonprofit entities, or community-based organizations to carry out the purposes specified under [section 3796ee(b) of this title][/us/usc/t42/s3796ee/b].
 
-([Pub. L. 90–351, title I, § 1806][/us/pl/90/351/s1806], as added [Pub. L. 107–273, div. C, title II, § 12102(a)][/us/pl/107/273/s12102/a], Nov. 2, 2002, [116 Stat. 1866][/us/stat/116/1866].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1806, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1866][/us/stat/116/1866].)
 
  __Prior Provisions__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t42/s3796ee/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%2Fb
-[/us/pl/90/351/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1806
-[/us/pl/107/273/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1866
 [/us/pl/90/351/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1806
 [/us/usc/t42/s3796ee–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%935

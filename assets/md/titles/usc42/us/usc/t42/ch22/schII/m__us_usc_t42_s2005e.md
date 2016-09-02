@@ -31,7 +31,7 @@
 
     (d) “Construction” means construction of new buildings, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings (including medical transportation facilities), including architects and engineering fees, but excluding legal fees, the cost of off-site improvements and the cost of the acquisition of land.
 
-([Pub. L. 85–151, § 6][/us/pl/85/151/s6], Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
+([Pub. L. 85–151][/us/pl/85/151], § 6, Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/85/151/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151%2Fs6
+[/us/pl/85/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151
 [/us/stat/71/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F371
 
 

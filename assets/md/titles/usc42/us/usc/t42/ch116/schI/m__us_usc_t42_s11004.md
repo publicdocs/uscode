@@ -91,7 +91,7 @@
 
         The exemption provided in [section 11047 of this title][/us/usc/t42/s11047] (relating to transportation) does not apply to this section.
 
-([Pub. L. 99–499, title III, § 304][/us/pl/99/499/s304], Oct. 17, 1986, [100 Stat. 1733][/us/stat/100/1733].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 304, Oct. 17, 1986, [100 Stat. 1733][/us/stat/100/1733].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 [/us/usc/t42/s11001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001%2Fc
 [/us/usc/t42/s11002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11002%2Fa
 [/us/usc/t42/s11047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11047
-[/us/pl/99/499/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs304
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1733
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

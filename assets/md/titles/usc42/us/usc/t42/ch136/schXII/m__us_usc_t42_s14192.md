@@ -39,7 +39,7 @@
 
         (4) At least 1 member of the Commission appointed by the President, at least 2 members of the Commission appointed by the President pro tempore of the Senate, and at least 2 members of the Commission appointed by the Speaker of the House of Representatives shall be persons well-qualified to participate in the Commission’s examination of the subject area of violence against women, as survivors of violence, or as persons with education, training, expertise, or experience in such areas as law enforcement, law, judicial administration, prosecution, defense, victim services or advocacy in sexual assault or domestic violence cases (including medical services and counseling), and protection of victims’ rights.
 
-([Pub. L. 103–322, title XXVII, § 270002][/us/pl/103/322/s270002], Sept. 13, 1994, [108 Stat. 2089][/us/stat/108/2089].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270002, Sept. 13, 1994, [108 Stat. 2089][/us/stat/108/2089].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t42/s14194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14194
-[/us/pl/103/322/s270002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270002
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2089
 
 

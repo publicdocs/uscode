@@ -69,7 +69,7 @@
 
         For the purposes of this section, the term “Federal science agency” means any Federal agency with an annual extramural research expenditure of over $100,000,000.
 
-([Pub. L. 111–358, title I, § 103][/us/pl/111/358/s103], Jan. 4, 2011, [124 Stat. 3986][/us/stat/124/3986].)
+([Pub. L. 111–358, title I][/us/pl/111/358/tI], § 103, Jan. 4, 2011, [124 Stat. 3986][/us/stat/124/3986].)
 
  __Codification__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs103
+[/us/pl/111/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtI
 [/us/stat/124/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3986
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621

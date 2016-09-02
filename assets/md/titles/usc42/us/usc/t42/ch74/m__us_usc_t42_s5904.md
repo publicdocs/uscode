@@ -51,7 +51,7 @@
 
             (F) The magnitude of the investment appears to exceed the financial capabilities of potential non-Federal participants in the research to support effective efforts.
 
-([Pub. L. 93–577, § 5][/us/pl/93/577/s5], Dec. 31, 1974, [88 Stat. 1880][/us/stat/88/1880]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
+([Pub. L. 93–577][/us/pl/93/577], § 5, Dec. 31, 1974, [88 Stat. 1880][/us/stat/88/1880]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
 
  __Transfer of Functions__ 
 
@@ -59,7 +59,7 @@
 
  __National Alcohol Fuels Commission__ 
 
-    [Pub. L. 95–599, title I, § 170][/us/pl/95/599/s170], Nov. 6, 1978, [92 Stat. 2724][/us/stat/92/2724], as amended by [Pub. L. 96–106, § 20][/us/pl/96/106/s20], Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799], established the National Alcohol Fuels Commission, directed the Commission to make a full and complete investigation and study of the long- and short-term potential for alcohol fuels, from biomass (including but not limited to, animal, crop and wood waste, municipal and industrial waste, sewage sludge, and ocean and terrestrial crops) and coal, to contribute to meeting the Nation’s energy needs, and provided that, not later than eighteen months after being established, the Commission submit to the President and the Congress its final report including its recommendations and findings, with the Commission to cease to exist six months after submission of such report.
+    [Pub. L. 95–599, title I][/us/pl/95/599/tI], § 170, Nov. 6, 1978, [92 Stat. 2724][/us/stat/92/2724], as amended by [Pub. L. 96–106][/us/pl/96/106], § 20, Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799], established the National Alcohol Fuels Commission, directed the Commission to make a full and complete investigation and study of the long- and short-term potential for alcohol fuels, from biomass (including but not limited to, animal, crop and wood waste, municipal and industrial waste, sewage sludge, and ocean and terrestrial crops) and coal, to contribute to meeting the Nation’s energy needs, and provided that, not later than eighteen months after being established, the Commission submit to the President and the Congress its final report including its recommendations and findings, with the Commission to cease to exist six months after submission of such report.
 
 ----------
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/usc/t42/s5912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5912
-[/us/pl/93/577/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs5
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1880
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
-[/us/pl/95/599/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs170
+[/us/pl/95/599/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtI
 [/us/stat/92/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2724
-[/us/pl/96/106/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs20
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F799
 
 

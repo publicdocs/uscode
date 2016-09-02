@@ -39,7 +39,7 @@
 
     (8) an assurance that the State or unit of local government will spend amounts received under this subchapter only in accordance with the laws and procedures applicable to the expenditure of its own revenues.
 
-([Pub. L. 94–369, title II, § 205][/us/pl/94/369/s205], July 22, 1976, [90 Stat. 1006][/us/stat/90/1006].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 205, July 22, 1976, [90 Stat. 1006][/us/stat/90/1006].)
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/usc/t42/s6727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6727
 [/us/usc/t42/s6728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6728
 [/us/usc/t42/s6729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6729
-[/us/pl/94/369/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs205
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1006
 
 

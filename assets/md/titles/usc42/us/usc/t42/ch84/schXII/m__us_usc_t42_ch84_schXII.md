@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXI/m__us_usc_t42_ch84_schXI.md) | [Next](./../../../../..//us/usc/t42/ch84/schXII/m__us_usc_t42_s7371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXII)
+[Previous](./../../../../..//us/usc/t42/ch84/schXI/m__us_usc_t42_s7361...7364.md) | [Next](./../../../../..//us/usc/t42/ch84/schXII/m__us_usc_t42_s7371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXII)
 
 ### SUBCHAPTER XII—RENEWABLE ENERGY INITIATIVES
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXI/m__us_usc_t42_ch84_schXI.md) | [Next](./../../../../..//us/usc/t42/ch84/schXII/m__us_usc_t42_s7371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXII)
+[Previous](./../../../../..//us/usc/t42/ch84/schXI/m__us_usc_t42_s7361...7364.md) | [Next](./../../../../..//us/usc/t42/ch84/schXII/m__us_usc_t42_s7371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXII)
 
 ----------
 ----------

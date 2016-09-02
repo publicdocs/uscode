@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part D, consisting of sections 5667 to 5667b, related to gang-free schools and communities and gang intervention, prior to repeal by [Pub. L. 107–273, div. C, title II, § 12210(1)][/us/pl/107/273/s12210/1], Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
+    A prior part D, consisting of sections 5667 to 5667b, related to gang-free schools and communities and gang intervention, prior to repeal by [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12210(1), Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s12210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12210%2F1
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1880
 
 

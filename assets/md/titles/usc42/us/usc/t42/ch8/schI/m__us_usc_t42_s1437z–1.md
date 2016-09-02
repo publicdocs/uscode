@@ -149,11 +149,11 @@
 
         (2) the term “knowing” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 29, as added [Pub. L. 105–65, title V, § 562(a)(2)][/us/pl/105/65/s562/a/2], Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 29, as added [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 562(a)(2), Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416].)
 
  __Effective Date__ 
 
-[Pub. L. 105–65, title V, § 562(b)][/us/pl/105/65/s562/b], Oct. 27, 1997, [111 Stat. 1419][/us/stat/111/1419], provided that: 
+[Pub. L. 105–65, title V][/us/pl/105/65/tV], § 562(b), Oct. 27, 1997, [111 Stat. 1419][/us/stat/111/1419], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section and amending [section 1437z of this title][/us/usc/t42/s1437z]\] shall apply only with respect to—
 
@@ -163,7 +163,7 @@
 
  __Regulations__ 
 
-[Pub. L. 105–65, title V, § 562(c)][/us/pl/105/65/s562/c], Oct. 27, 1997, [111 Stat. 1419][/us/stat/111/1419], provided that:
+[Pub. L. 105–65, title V][/us/pl/105/65/tV], § 562(c), Oct. 27, 1997, [111 Stat. 1419][/us/stat/111/1419], provided that:
 
 >     “(1) __Regulations.—__ 
 
@@ -192,12 +192,12 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/65/s562/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs562%2Fa%2F2
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1416
-[/us/pl/105/65/s562/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs562%2Fb
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1419
 [/us/usc/t42/s1437z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437z
-[/us/pl/105/65/s562/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs562%2Fc
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1419
 [/us/usc/t42/s1437z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437z
 

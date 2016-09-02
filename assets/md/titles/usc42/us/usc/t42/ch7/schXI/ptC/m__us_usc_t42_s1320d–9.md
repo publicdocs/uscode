@@ -59,7 +59,7 @@
 
         In addition to any other sanctions or remedies that may be available under law, a covered entity that is a group health plan, health insurance issuer, or issuer of a medicare supplemental policy and that violates the HIPAA privacy regulation (as revised under subsection (a) or otherwise) with respect to the use or disclosure of genetic information shall be subject to the penalties described in sections 1320d–5 and 1320d–6 of this title in the same manner and to the same extent that such penalties apply to violations of this part.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1180, as added [Pub. L. 110–233, title I, § 105(a)][/us/pl/110/233/s105/a], May 21, 2008, [122 Stat. 903][/us/stat/122/903].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1180, as added [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 105(a), May 21, 2008, [122 Stat. 903][/us/stat/122/903].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–233, title I, § 105(b)(2)][/us/pl/110/233/s105/b/2], May 21, 2008, [122 Stat. 905][/us/stat/122/905], provided that: 
+[Pub. L. 110–233, title I][/us/pl/110/233/tI], § 105(b)(2), May 21, 2008, [122 Stat. 905][/us/stat/122/905], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
 
  __Regulations__ 
 
-[Pub. L. 110–233, title I, § 105(b)(1)][/us/pl/110/233/s105/b/1], May 21, 2008, [122 Stat. 905][/us/stat/122/905], provided that: 
+[Pub. L. 110–233, title I][/us/pl/110/233/tI], § 105(b)(1), May 21, 2008, [122 Stat. 905][/us/stat/122/905], provided that: 
 
 > “Not later than 12 months after the date of the enactment of this Act \[May 21, 2008\], the Secretary of Health and Human Services shall issue final regulations to carry out the revision required by section 1180(a) of the Social Security Act \[[42 U.S.C. 1320d–9(a)][/us/usc/t42/s1320d–9/a]\], as added by subsection (a). The Secretary has the sole authority to promulgate such regulations, but shall promulgate such regulations in consultation with the Secretaries of Labor and the Treasury.”
 
@@ -92,16 +92,16 @@
 [/us/usc/t42/s1395ss/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fg
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/110/233/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs105%2Fa
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F903
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/stat/122/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F881
 [/us/usc/t42/s2000ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ff
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
-[/us/pl/110/233/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs105%2Fb%2F2
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F905
-[/us/pl/110/233/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs105%2Fb%2F1
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F905
 [/us/usc/t42/s1320d–9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%939%2Fa
 

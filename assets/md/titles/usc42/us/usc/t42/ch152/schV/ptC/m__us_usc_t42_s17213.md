@@ -35,7 +35,7 @@
 
         When applying for a grant under this section, an applicant shall include a description of why Federal support is necessary for the Center, including evidence that the research of the Center will not be conducted in the absence of Federal support.
 
-([Pub. L. 110–140, title VI, § 634][/us/pl/110/140/s634], Dec. 19, 2007, [121 Stat. 1687][/us/stat/121/1687].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 634, Dec. 19, 2007, [121 Stat. 1687][/us/stat/121/1687].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs634
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1687
 
 

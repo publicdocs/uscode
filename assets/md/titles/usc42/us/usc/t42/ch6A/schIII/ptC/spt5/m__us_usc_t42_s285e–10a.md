@@ -27,7 +27,7 @@
 
         Research shall be carried out under awards made under subsection (b) of this section in environments of demonstrated excellence in neuroscience, neurobiology, geriatric medicine, and psychiatry and shall foster innovation and integration of such disciplines or other environments determined suitable by the Director of the Institute.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445I, as added [Pub. L. 106–505, title VIII, § 801(2)][/us/pl/106/505/s801/2], Nov. 13, 2000, [114 Stat. 2349][/us/stat/114/2349]; amended [Pub. L. 109–482, title I, § 103(b)(25)][/us/pl/109/482/s103/b/25], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445I, as added [Pub. L. 106–505, title VIII][/us/pl/106/505/tVIII], § 801(2), Nov. 13, 2000, [114 Stat. 2349][/us/stat/114/2349]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(25), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Prior Provisions__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s801/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs801%2F2
+[/us/pl/106/505/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtVIII
 [/us/stat/114/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2349
-[/us/pl/109/482/s103/b/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F25
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/usc/t42/s285e–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%9311
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

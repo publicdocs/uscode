@@ -43,7 +43,7 @@
 
         In the report following the first biennial report provided for under this subsection, paragraphs (3) through (9) may be included at the discretion of the Administrator.
 
-([Pub. L. 101–508, title VI, § 6608][/us/pl/101/508/s6608], Nov. 5, 1990, [104 Stat. 1388–326][/us/stat/104/1388-326].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6608, Nov. 5, 1990, [104 Stat. 1388–326][/us/stat/104/1388-326].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t42/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13106
 [/us/usc/t42/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13106
-[/us/pl/101/508/s6608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6608
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-326
 [/us/usc/t42/s13103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13103%2Fb
 [/us/pl/101/508/s6604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6604%2Fb

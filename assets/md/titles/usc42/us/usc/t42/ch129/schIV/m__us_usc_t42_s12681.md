@@ -131,7 +131,7 @@
 
         Funds appropriated under this section shall remain available until expended.
 
-([Pub. L. 101–610, title V, § 501][/us/pl/101/610/s501], Nov. 16, 1990, [104 Stat. 3185][/us/stat/104/3185]; [Pub. L. 102–384, § 11][/us/pl/102/384/s11], Oct. 5, 1992, [106 Stat. 1459][/us/stat/106/1459]; [Pub. L. 103–82, title III, § 301(a)][/us/pl/103/82/s301/a], Sept. 21, 1993, [107 Stat. 897][/us/stat/107/897]; [Pub. L. 111–13, title I, § 1841][/us/pl/111/13/s1841], Apr. 21, 2009, [123 Stat. 1579][/us/stat/123/1579].)
+([Pub. L. 101–610, title V][/us/pl/101/610/tV], § 501, Nov. 16, 1990, [104 Stat. 3185][/us/stat/104/3185]; [Pub. L. 102–384][/us/pl/102/384], § 11, Oct. 5, 1992, [106 Stat. 1459][/us/stat/106/1459]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 301(a), Sept. 21, 1993, [107 Stat. 897][/us/stat/107/897]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1841, Apr. 21, 2009, [123 Stat. 1579][/us/stat/123/1579].)
 
  __References in Text__ 
 
@@ -143,15 +143,15 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1841(1)][/us/pl/111/13/s1841/1], added subsec. (a) and struck out former subsec. (a) which authorized appropriations for subchapter I of this chapter.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1841(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for subchapter I of this chapter.
 
-    Subsecs. (b) to (d). [Pub. L. 111–13, § 1841(2)][/us/pl/111/13/s1841/2], (3), redesignated subsec. (c) as (b) and struck out former subsec. (b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
+    Subsecs. (b) to (d). [Pub. L. 111–13][/us/pl/111/13], § 1841(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
 
     1993—[Pub. L. 103–82][/us/pl/103/82] amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized appropriations to carry out subchapter I for fiscal year 1993 and subchapter II for fiscal years 1991 to 1993.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–384, § 11(a)][/us/pl/102/384/s11/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to carry out subchapter I of this chapter, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992, and $105,000,000 for fiscal year 1993.”
+    1992—Subsec. (a)(1). [Pub. L. 102–384][/us/pl/102/384], § 11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to carry out subchapter I of this chapter, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992, and $105,000,000 for fiscal year 1993.”
 
-    Subsec. (a)(2). [Pub. L. 102–384, § 11(b)][/us/pl/102/384/s11/b], substituted “paragraph (1)(A)” for “paragraph (1)” in introductory provisions, redesignated subpars. (B) to (D) as (A) to (C), respectively, added subpar. (D), and struck out former subpar. (A) which read as follows: “$2,000,000 shall be made available to carry out part G of subchapter I of this chapter in each such fiscal year;”.
+    Subsec. (a)(2). [Pub. L. 102–384][/us/pl/102/384], § 11(b), substituted “paragraph (1)(A)” for “paragraph (1)” in introductory provisions, redesignated subpars. (B) to (D) as (A) to (C), respectively, added subpar. (D), and struck out former subpar. (A) which read as follows: “$2,000,000 shall be made available to carry out part G of subchapter I of this chapter in each such fiscal year;”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -159,7 +159,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–82, title III, § 301(b)][/us/pl/103/82/s301/b], Sept. 21, 1993, [107 Stat. 898][/us/stat/107/898], provided that: 
+[Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 301(b), Sept. 21, 1993, [107 Stat. 898][/us/stat/107/898], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1993.”
 
@@ -186,13 +186,13 @@
 [/us/usc/t42/s12576/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12576%2Fa
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
 [/us/usc/t42/s12639a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12639a
-[/us/pl/101/610/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs501
+[/us/pl/101/610/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtV
 [/us/stat/104/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3185
-[/us/pl/102/384/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs11
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1459
-[/us/pl/103/82/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs301%2Fa
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F897
-[/us/pl/111/13/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1841
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1579
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
@@ -201,15 +201,15 @@
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/111/13/s1841/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1841%2F1
-[/us/pl/111/13/s1841/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1841%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/102/384/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs11%2Fa
-[/us/pl/102/384/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs11%2Fb
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/103/82/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs301%2Fb
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F898
 
 

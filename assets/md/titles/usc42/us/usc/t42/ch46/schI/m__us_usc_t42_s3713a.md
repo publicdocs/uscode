@@ -61,7 +61,7 @@
 
                 Of the amount made available to carry out this subsection in any fiscal year, not more than 3 percent may be used by the Attorney General for salaries and administrative expenses.
 
-([Pub. L. 110–403, title IV, § 401][/us/pl/110/403/s401], Oct. 13, 2008, [122 Stat. 4271][/us/stat/122/4271].)
+([Pub. L. 110–403, title IV][/us/pl/110/403/tIV], § 401, Oct. 13, 2008, [122 Stat. 4271][/us/stat/122/4271].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
-[/us/pl/110/403/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs401
+[/us/pl/110/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIV
 [/us/stat/122/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4271
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

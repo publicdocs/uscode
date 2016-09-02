@@ -21,7 +21,7 @@
 
     (3) There are authorized to be appropriated to carry out the provisions of this section not to exceed $25,000,000.
 
-([Pub. L. 95–619, title II, § 251(b)][/us/pl/95/619/s251/b], Nov. 9, 1978, [92 Stat. 3235][/us/stat/92/3235]; [Pub. L. 105–388, § 5(c)(3)][/us/pl/105/388/s5/c/3], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 251(b), Nov. 9, 1978, [92 Stat. 3235][/us/stat/92/3235]; [Pub. L. 105–388][/us/pl/105/388], § 5(c)(3), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 [/us/usc/t12/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703%2Fa
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
-[/us/pl/95/619/s251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs251%2Fb
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3235
-[/us/pl/105/388/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fc%2F3
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/usc/t12/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703%2Fa

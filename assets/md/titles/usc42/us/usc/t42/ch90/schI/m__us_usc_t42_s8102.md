@@ -31,7 +31,7 @@
 
         The corporation, including its franchise, activities, assets, and income, shall be exempt from all taxation now or hereafter imposed by the United States, by any territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority, except that any real property of the corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
-([Pub. L. 95–557, title VI, § 603][/us/pl/95/557/s603], Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115]; [Pub. L. 96–399, title III, § 315(1)][/us/pl/96/399/s315/1], Oct. 8, 1980, [94 Stat. 1645][/us/stat/94/1645].)
+([Pub. L. 95–557, title VI][/us/pl/95/557/tVI], § 603, Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 315(1), Oct. 8, 1980, [94 Stat. 1645][/us/stat/94/1645].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/95/557/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs603
+[/us/pl/95/557/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVI
 [/us/stat/92/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2115
-[/us/pl/96/399/s315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs315%2F1
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1645
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 

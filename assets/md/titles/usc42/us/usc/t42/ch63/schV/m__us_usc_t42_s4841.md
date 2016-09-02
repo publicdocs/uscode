@@ -31,7 +31,7 @@
 
             (ii) Unless the definition of the term “lead-based paint” has been established by a determination of the Consumer Product Safety Commission pursuant to clause (i) of this subparagraph, the term “lead-based paint” means, with respect to paint which is manufactured after the expiration of the twelve-month period beginning on such date of enactment, paint containing more than six one-hundredths of 1 per centum lead by weight (calculated as lead metal) in the total nonvolatile content of the paint, or the equivalent measure of lead in the dried film of paint already applied, or both.
 
-([Pub. L. 91–695, title V, § 501][/us/pl/91/695/s501], Jan. 13, 1971, [84 Stat. 2080][/us/stat/84/2080]; [Pub. L. 93–151, § 6][/us/pl/93/151/s6], Nov. 9, 1973, [87 Stat. 567][/us/stat/87/567]; [Pub. L. 94–317, title II, § 204(c)][/us/pl/94/317/s204/c], June 23, 1976, [90 Stat. 706][/us/stat/90/706]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–531, title III, § 312(g)][/us/pl/102/531/s312/g], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506].)
+([Pub. L. 91–695, title V][/us/pl/91/695/tV], § 501, Jan. 13, 1971, [84 Stat. 2080][/us/stat/84/2080]; [Pub. L. 93–151][/us/pl/93/151], § 6, Nov. 9, 1973, [87 Stat. 567][/us/stat/87/567]; [Pub. L. 94–317, title II][/us/pl/94/317/tII], § 204(c), June 23, 1976, [90 Stat. 706][/us/stat/90/706]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(g), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506].)
 
  __References in Text__ 
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/91/695/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs501
+[/us/pl/91/695/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2FtV
 [/us/stat/84/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2080
-[/us/pl/93/151/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs6
+[/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/stat/87/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F567
-[/us/pl/94/317/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs204%2Fc
+[/us/pl/94/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtII
 [/us/stat/90/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F706
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/531/s312/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fg
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
 [/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/stat/90/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F695

@@ -77,11 +77,11 @@
 
         In the case of any provision of this chapter in which costs are expressly required to be taken into account, the adequacy or inadequacy of any assessment required under this section may be taken into consideration, but shall not be treated for purposes of judicial review of any such provision as conclusive with respect to compliance or noncompliance with the requirement of such provision to take cost into account.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 317, as added [Pub. L. 95–95, title III, § 307][/us/pl/95/95/s307], Aug. 7, 1977, [91 Stat. 778][/us/stat/91/778]; amended [Pub. L. 95–623, § 13(d)][/us/pl/95/623/s13/d], Nov. 9, 1978, [92 Stat. 3458][/us/stat/92/3458].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 317, as added [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 307, Aug. 7, 1977, [91 Stat. 778][/us/stat/91/778]; amended [Pub. L. 95–623][/us/pl/95/623], § 13(d), Nov. 9, 1978, [92 Stat. 3458][/us/stat/92/3458].)
 
  __References in Text__ 
 
-    Part B of subchapter I of this chapter, referred to in subsec. (a)(3), was repealed by [Pub. L. 101–549, title VI, § 601][/us/pl/101/549/s601], Nov. 15, 1990, [104 Stat. 2648][/us/stat/104/2648]. See subchapter VI (§ 7671 et seq.) of this chapter.
+    Part B of subchapter I of this chapter, referred to in subsec. (a)(3), was repealed by [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 601, Nov. 15, 1990, [104 Stat. 2648][/us/stat/104/2648]. See subchapter VI (§ 7671 et seq.) of this chapter.
 
  __Codification__ 
 
@@ -111,11 +111,11 @@
 [/us/usc/t42/s7607/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7607%2Fd%2F4
 [/us/usc/t42/s7604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7604%2Fa%2F2
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs307
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F778
-[/us/pl/95/623/s13/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs13%2Fd
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3458
-[/us/pl/101/549/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs601
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2648
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623

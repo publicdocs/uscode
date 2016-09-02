@@ -75,7 +75,7 @@
 
         The Administrator shall report annually to the Congress all contributions made pursuant to this section.
 
-([Pub. L. 93–288, title VI, § 613][/us/pl/93/288/s613], as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)][/us/pl/103/337/s3411/a/3], Oct. 5, 1994, [108 Stat. 3106][/us/stat/108/3106]; amended [Pub. L. 107–188, title I, § 151][/us/pl/107/188/s151], June 12, 2002, [116 Stat. 630][/us/stat/116/630]; [Pub. L. 109–295, title VI, § 631][/us/pl/109/295/s631], Oct. 4, 2006, [120 Stat. 1420][/us/stat/120/1420]; [Pub. L. 109–308, § 2][/us/pl/109/308/s2], Oct. 6, 2006, [120 Stat. 1725][/us/stat/120/1725]; [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 613, as added [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(3), Oct. 5, 1994, [108 Stat. 3106][/us/stat/108/3106]; amended [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 151, June 12, 2002, [116 Stat. 630][/us/stat/116/630]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 631, Oct. 4, 2006, [120 Stat. 1420][/us/stat/120/1420]; [Pub. L. 109–308][/us/pl/109/308], § 2, Oct. 6, 2006, [120 Stat. 1725][/us/stat/120/1725]; [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __Codification__ 
 
@@ -83,23 +83,23 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 2286 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2286 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 3412(a).
 
  __Amendments__ 
 
     2011—[Pub. L. 111–351][/us/pl/111/351] substituted “Administrator” for “Director” wherever appearing.
 
-    2006—Subsec. (b)(3). [Pub. L. 109–295, § 631(1)][/us/pl/109/295/s631/1], inserted “including a catastrophic incident annex,” after “plans,”.
+    2006—Subsec. (b)(3). [Pub. L. 109–295][/us/pl/109/295], § 631(1), inserted “including a catastrophic incident annex,” after “plans,”.
 
-    Subsecs. (c) to (f). [Pub. L. 109–295, § 631(2)][/us/pl/109/295/s631/2], (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
+    Subsecs. (c) to (f). [Pub. L. 109–295][/us/pl/109/295], § 631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
 
-    Subsec. (g). [Pub. L. 109–308, § 2(2)][/us/pl/109/308/s2/2], added subsec. (g). Former subsec. (g) relating to submission of plan redesignated (h).
+    Subsec. (g). [Pub. L. 109–308][/us/pl/109/308], § 2(2), added subsec. (g). Former subsec. (g) relating to submission of plan redesignated (h).
 
-    [Pub. L. 109–295, § 631(2)][/us/pl/109/295/s631/2], redesignated subsec. (f) as (g). Former subsec. (g) relating to annual reports redesignated (h). See Codification note above.
+    [Pub. L. 109–295][/us/pl/109/295], § 631(2), redesignated subsec. (f) as (g). Former subsec. (g) relating to annual reports redesignated (h). See Codification note above.
 
-    Subsec. (h). [Pub. L. 109–308, § 2(1)][/us/pl/109/308/s2/1], redesignated subsec. (g) relating to submission of plan as (h).
+    Subsec. (h). [Pub. L. 109–308][/us/pl/109/308], § 2(1), redesignated subsec. (g) relating to submission of plan as (h).
 
-    [Pub. L. 109–295, § 631(2)][/us/pl/109/295/s631/2], redesignated subsec. (g) relating to annual reports as (h). See Codification note above.
+    [Pub. L. 109–295][/us/pl/109/295], § 631(2), redesignated subsec. (g) relating to annual reports as (h). See Codification note above.
 
     2002—Subsec. (b)(7). [Pub. L. 107–188][/us/pl/107/188] added par. (7).
 
@@ -118,26 +118,26 @@
 
 [/us/usc/t42/s5196/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5196%2Fh
 [/us/usc/t6/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs743
-[/us/pl/93/288/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs613
-[/us/pl/103/337/s3411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F3
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3106
-[/us/pl/107/188/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs151
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F630
-[/us/pl/109/295/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1420
-[/us/pl/109/308/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs2
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
 [/us/stat/120/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1725
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/pl/109/295/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631%2F2
-[/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
-[/us/pl/109/295/s631/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631%2F1
-[/us/pl/109/295/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631%2F2
-[/us/pl/109/308/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs2%2F2
-[/us/pl/109/295/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631%2F2
-[/us/pl/109/308/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs2%2F1
-[/us/pl/109/295/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631%2F2
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

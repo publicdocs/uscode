@@ -17,7 +17,7 @@
 
     The policies and goals set forth in this chapter are supplementary to those set forth in existing authorizations of Federal agencies.
 
-([Pub. L. 91–190, title I, § 105][/us/pl/91/190/s105], Jan. 1, 1970, [83 Stat. 854][/us/stat/83/854].)
+([Pub. L. 91–190, title I][/us/pl/91/190/tI], § 105, Jan. 1, 1970, [83 Stat. 854][/us/stat/83/854].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/190/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs105
+[/us/pl/91/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtI
 [/us/stat/83/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F854
 
 

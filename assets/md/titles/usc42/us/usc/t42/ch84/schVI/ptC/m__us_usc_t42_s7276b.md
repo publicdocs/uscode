@@ -73,7 +73,7 @@
 
         Within 1 year after January 1, 1999, and at appropriate intervals thereafter, the Administrator shall initiate a public process to review the program established by this section. The Administrator is authorized at that time to revise the criteria set forth in subsection (b) of this section to reflect changes, if any, in technology, needs, or other developments.
 
-([Pub. L. 98–381, title II, § 204][/us/pl/98/381/s204], as added [Pub. L. 102–486, title I, § 114][/us/pl/102/486/s114], Oct. 24, 1992, [106 Stat. 2800][/us/stat/106/2800].)
+([Pub. L. 98–381, title II][/us/pl/98/381/tII], § 204, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 114, Oct. 24, 1992, [106 Stat. 2800][/us/stat/106/2800].)
 
  __Codification__ 
 
@@ -87,8 +87,8 @@
 ----------
 
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
-[/us/pl/98/381/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2Fs204
-[/us/pl/102/486/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs114
+[/us/pl/98/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2FtII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2800
 
 

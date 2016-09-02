@@ -39,7 +39,7 @@
 
         (2) The commencement of judicial proceedings under this section shall stay the Secretary’s action for a period of 30 days, and the court may thereafter grant interim relief if warranted, including a further stay of the Secretary’s action and including such other relief as may be necessary to preserve status or rights.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title III, § 304, as added [Pub. L. 91–373, title I, § 131(a)][/us/pl/91/373/s131/a], Aug. 10, 1970, [84 Stat. 703][/us/stat/84/703]; amended [Pub. L. 96–249, title I, § 127(b)(2)][/us/pl/96/249/s127/b/2], May 26, 1980, [94 Stat. 367][/us/stat/94/367]; [Pub. L. 96–265, title IV, § 408(b)(2)][/us/pl/96/265/s408/b/2], June 9, 1980, [94 Stat. 469][/us/stat/94/469]; [Pub. L. 96–473, § 6(e)(2)][/us/pl/96/473/s6/e/2], Oct. 19, 1980, [94 Stat. 2265][/us/stat/94/2265]; [Pub. L. 98–620, title IV, § 402(39)][/us/pl/98/620/s402/39], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 100–485, title I, § 124(b)(2)][/us/pl/100/485/s124/b/2], Oct. 13, 1988, [102 Stat. 2353][/us/stat/102/2353]; [Pub. L. 100–628, title IX, § 904(c)(1)(B)][/us/pl/100/628/s904/c/1/B], Nov. 7, 1988, [102 Stat. 3261][/us/stat/102/3261]; [Pub. L. 103–152, § 4(a)(2)][/us/pl/103/152/s4/a/2], Nov. 24, 1993, [107 Stat. 1517][/us/stat/107/1517].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title III, § 304, as added [Pub. L. 91–373, title I][/us/pl/91/373/tI], § 131(a), Aug. 10, 1970, [84 Stat. 703][/us/stat/84/703]; amended [Pub. L. 96–249, title I][/us/pl/96/249/tI], § 127(b)(2), May 26, 1980, [94 Stat. 367][/us/stat/94/367]; [Pub. L. 96–265, title IV][/us/pl/96/265/tIV], § 408(b)(2), June 9, 1980, [94 Stat. 469][/us/stat/94/469]; [Pub. L. 96–473][/us/pl/96/473], § 6(e)(2), Oct. 19, 1980, [94 Stat. 2265][/us/stat/94/2265]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(39), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 124(b)(2), Oct. 13, 1988, [102 Stat. 2353][/us/stat/102/2353]; [Pub. L. 100–628, title IX][/us/pl/100/628/tIX], § 904(c)(1)(B), Nov. 7, 1988, [102 Stat. 3261][/us/stat/102/3261]; [Pub. L. 103–152][/us/pl/103/152], § 4(a)(2), Nov. 24, 1993, [107 Stat. 1517][/us/stat/107/1517].)
 
  __Amendments__ 
 
@@ -88,21 +88,21 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t42/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs502
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/91/373/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs131%2Fa
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F703
-[/us/pl/96/249/s127/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F249%2Fs127%2Fb%2F2
+[/us/pl/96/249/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F249%2FtI
 [/us/stat/94/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F367
-[/us/pl/96/265/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs408%2Fb%2F2
+[/us/pl/96/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIV
 [/us/stat/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F469
-[/us/pl/96/473/s6/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473%2Fs6%2Fe%2F2
+[/us/pl/96/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F473
 [/us/stat/94/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2265
-[/us/pl/98/620/s402/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F39
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
-[/us/pl/100/485/s124/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs124%2Fb%2F2
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2353
-[/us/pl/100/628/s904/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs904%2Fc%2F1%2FB
+[/us/pl/100/628/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIX
 [/us/stat/102/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3261
-[/us/pl/103/152/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs4%2Fa%2F2
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/stat/107/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1517
 [/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628

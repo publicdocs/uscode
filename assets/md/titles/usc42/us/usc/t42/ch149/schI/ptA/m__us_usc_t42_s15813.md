@@ -27,7 +27,7 @@
 
         To the extent practicable, the Secretary of the Interior, the Secretary of Commerce, and the Secretary of Agriculture shall seek to use energy efficient motor vehicles, including vehicles equipped with biodiesel or hybrid engine technologies, in the management of the National Park System, National Wildlife Refuge System, National Forest System, National Marine Sanctuaries System, and other public lands and resources managed by the Secretaries.
 
-([Pub. L. 109–58, title I, § 111][/us/pl/109/58/s111], Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 111, Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs111
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F615
 
 

@@ -219,21 +219,21 @@
 
             (F) not less than 10 percent shall be used for grants for culturally specific programs addressing sexual assault under subsection (c).
 
-([Pub. L. 103–322, title IV, § 41601][/us/pl/103/322/s41601], as added [Pub. L. 109–271, § 3(b)][/us/pl/109/271/s3/b], Aug. 12, 2006, [120 Stat. 754][/us/stat/120/754]; amended [Pub. L. 113–4, title II, § 201][/us/pl/113/4/s201], Mar. 7, 2013, [127 Stat. 80][/us/stat/127/80].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41601, as added [Pub. L. 109–271][/us/pl/109/271], § 3(b), Aug. 12, 2006, [120 Stat. 754][/us/stat/120/754]; amended [Pub. L. 113–4, title II][/us/pl/113/4/tII], § 201, Mar. 7, 2013, [127 Stat. 80][/us/stat/127/80].)
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–4, § 201(a)(1)][/us/pl/113/4/s201/a/1], substituted “other nongovernmental or tribal programs and projects to assist individuals who have been victimized by sexual assault, without regard to the age of the individual.” for “other programs and projects to assist those victimized by sexual assault.”
+    2013—Subsec. (b)(1). [Pub. L. 113–4][/us/pl/113/4], § 201(a)(1), substituted “other nongovernmental or tribal programs and projects to assist individuals who have been victimized by sexual assault, without regard to the age of the individual.” for “other programs and projects to assist those victimized by sexual assault.”
 
-    Subsec. (b)(2)(B). [Pub. L. 113–4, § 201(a)(2)(A)][/us/pl/113/4/s201/a/2/A], inserted “or tribal programs and activities” after “nongovernmental organizations”.
+    Subsec. (b)(2)(B). [Pub. L. 113–4][/us/pl/113/4], § 201(a)(2)(A), inserted “or tribal programs and activities” after “nongovernmental organizations”.
 
-    Subsec. (b)(2)(C)(v). [Pub. L. 113–4, § 201(a)(2)(B)][/us/pl/113/4/s201/a/2/B], struck out “linguistically and” before “culturally”.
+    Subsec. (b)(2)(C)(v). [Pub. L. 113–4][/us/pl/113/4], § 201(a)(2)(B), struck out “linguistically and” before “culturally”.
 
-    Subsec. (b)(4). [Pub. L. 113–4, § 201(a)(3)(B)][/us/pl/113/4/s201/a/3/B], which directed striking out “the District of Columbia, Puerto Rico,” after “Guam”, was executed by striking out such phrase after “Guam,” to reflect the probable intent of Congress.
+    Subsec. (b)(4). [Pub. L. 113–4][/us/pl/113/4], § 201(a)(3)(B), which directed striking out “the District of Columbia, Puerto Rico,” after “Guam”, was executed by striking out such phrase after “Guam,” to reflect the probable intent of Congress.
 
-    [Pub. L. 113–4, § 201(a)(3)(A)][/us/pl/113/4/s201/a/3/A], (C), (D), inserted “(including the District of Columbia and Puerto Rico)” after “The Attorney General shall allocate to each State”, substituted “0.25 percent” for “0.125 percent”, and struck out at end “The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula.”
+    [Pub. L. 113–4][/us/pl/113/4], § 201(a)(3)(A), (C), (D), inserted “(including the District of Columbia and Puerto Rico)” after “The Attorney General shall allocate to each State”, substituted “0.25 percent” for “0.125 percent”, and struck out at end “The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula.”
 
-    Subsec. (f)(1). [Pub. L. 113–4, § 201(b)][/us/pl/113/4/s201/b], substituted “$40,000,000 to remain available until expended for each of fiscal years 2014 through 2018” for “$50,000,000 to remain available until expended for each of the fiscal years 2007 through 2011”.
+    Subsec. (f)(1). [Pub. L. 113–4][/us/pl/113/4], § 201(b), substituted “$40,000,000 to remain available until expended for each of fiscal years 2014 through 2018” for “$50,000,000 to remain available until expended for each of the fiscal years 2007 through 2011”.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -246,17 +246,17 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41601
-[/us/pl/109/271/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs3%2Fb
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F754
-[/us/pl/113/4/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201
+[/us/pl/113/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtII
 [/us/stat/127/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F80
-[/us/pl/113/4/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F1
-[/us/pl/113/4/s201/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F2%2FA
-[/us/pl/113/4/s201/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F2%2FB
-[/us/pl/113/4/s201/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F3%2FB
-[/us/pl/113/4/s201/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fa%2F3%2FA
-[/us/pl/113/4/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs201%2Fb
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

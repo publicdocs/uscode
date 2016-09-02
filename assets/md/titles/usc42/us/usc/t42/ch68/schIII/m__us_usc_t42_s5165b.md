@@ -27,7 +27,7 @@
 
         The President shall review the management cost rates established under subsection (b) of this section not later than 3 years after the date of establishment of the rates and periodically thereafter.
 
-([Pub. L. 93–288, title III, § 324][/us/pl/93/288/s324], as added [Pub. L. 106–390, title II, § 202(a)][/us/pl/106/390/s202/a], Oct. 30, 2000, [114 Stat. 1560][/us/stat/114/1560].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 324, as added [Pub. L. 106–390, title II][/us/pl/106/390/tII], § 202(a), Oct. 30, 2000, [114 Stat. 1560][/us/stat/114/1560].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–390, title II, § 202(b)][/us/pl/106/390/s202/b], Oct. 30, 2000, [114 Stat. 1560][/us/stat/114/1560], provided that:
+[Pub. L. 106–390, title II][/us/pl/106/390/tII], § 202(b), Oct. 30, 2000, [114 Stat. 1560][/us/stat/114/1560], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/93/288/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs324
-[/us/pl/106/390/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs202%2Fa
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1560
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/106/390/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs202%2Fb
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1560
 [/us/usc/t42/s5165b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165b%2Fa
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121

@@ -105,7 +105,7 @@
 
         (7) Not later than 90 days after June 30, 1980, the Secretary of Energy shall prescribe, by rule, the manner of determining the fuel displaced by the sale of any biomass energy, and the price of the fuel displaced.
 
-([Pub. L. 96–294, title II, § 234][/us/pl/96/294/s234], June 30, 1980, [94 Stat. 699][/us/stat/94/699].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 234, June 30, 1980, [94 Stat. 699][/us/stat/94/699].)
 
 ----------
 
@@ -114,7 +114,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs234
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F699
 
 

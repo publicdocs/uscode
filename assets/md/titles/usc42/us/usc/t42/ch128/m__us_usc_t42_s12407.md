@@ -39,7 +39,7 @@
 
         The Secretary shall provide such staff, funds and other support as may be necessary to enable the technical panel to carry out the functions described in this section.
 
-([Pub. L. 101–566, § 108][/us/pl/101/566/s108], Nov. 15, 1990, [104 Stat. 2800][/us/stat/104/2800]; [Pub. L. 104–271, title I, § 102(b)][/us/pl/104/271/s102/b], Oct. 9, 1996, [110 Stat. 3305][/us/stat/110/3305].)
+([Pub. L. 101–566][/us/pl/101/566], § 108, Nov. 15, 1990, [104 Stat. 2800][/us/stat/104/2800]; [Pub. L. 104–271, title I][/us/pl/104/271/tI], § 102(b), Oct. 9, 1996, [110 Stat. 3305][/us/stat/110/3305].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/101/566/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566%2Fs108
+[/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566
 [/us/stat/104/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2800
-[/us/pl/104/271/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2Fs102%2Fb
+[/us/pl/104/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2FtI
 [/us/stat/110/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3305
 [/us/pl/104/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271
 [/us/usc/t42/s12402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12402

@@ -23,7 +23,7 @@
 
     Amounts in the Account may be obligated by the Secretary of Energy for the acquisition, transportation, and injection of petroleum products into the Strategic Petroleum Reserve, for test sales of petroleum products from the Reserve, and for the drawdown, sale, and delivery of petroleum products from the Reserve—
 
-        (1) Repealed. [Pub. L. 106–469, title I, § 103(19)(A)(ii)][/us/pl/106/469/s103/19/A/ii], Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033];
+        (1) Repealed. [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(19)(A)(ii), Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033];
 
         (2) in the case of any fiscal year, subject to [section 7270 of this title][/us/usc/t42/s7270], in such aggregate amounts as may be appropriated in advance in appropriation Acts; and
 
@@ -43,7 +43,7 @@
 
         (2) shall not be deemed to be budget authority, spending authority, budget outlays, or Federal revenues for purposes of title III of [Public Law 93–344][/us/pl/93/344], as amended \[[2 U.S.C. 631][/us/usc/t2/s631] et seq.\].
 
-([Pub. L. 94–163, title I, § 167][/us/pl/94/163/s167], as added [Pub. L. 97–35, title X, § 1034(a)(1)][/us/pl/97/35/s1034/a/1], Aug. 13, 1981, [95 Stat. 619][/us/stat/95/619]; amended [Pub. L. 97–229, § 4(b)(2)(A)][/us/pl/97/229/s4/b/2/A], Aug. 3, 1982, [96 Stat. 251][/us/stat/96/251]; [Pub. L. 99–58, title I, § 103(b)(3)][/us/pl/99/58/s103/b/3], (4), July 2, 1985, [99 Stat. 104][/us/stat/99/104]; [Pub. L. 101–383, § 5(b)(1)][/us/pl/101/383/s5/b/1], (2), Sept. 15, 1990, [104 Stat. 729][/us/stat/104/729]; [Pub. L. 102–486, title XIV, § 1404(b)(1)][/us/pl/102/486/s1404/b/1], Oct. 24, 1992, [106 Stat. 2995][/us/stat/106/2995]; [Pub. L. 106–469, title I, § 103(19)][/us/pl/106/469/s103/19], Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 167, as added [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1034(a)(1), Aug. 13, 1981, [95 Stat. 619][/us/stat/95/619]; amended [Pub. L. 97–229][/us/pl/97/229], § 4(b)(2)(A), Aug. 3, 1982, [96 Stat. 251][/us/stat/96/251]; [Pub. L. 99–58, title I][/us/pl/99/58/tI], § 103(b)(3), (4), July 2, 1985, [99 Stat. 104][/us/stat/99/104]; [Pub. L. 101–383][/us/pl/101/383], § 5(b)(1), (2), Sept. 15, 1990, [104 Stat. 729][/us/stat/104/729]; [Pub. L. 102–486, title XIV][/us/pl/102/486/tXIV], § 1404(b)(1), Oct. 24, 1992, [106 Stat. 2995][/us/stat/106/2995]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(19), Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–469, § 103(19)(A)(i)][/us/pl/106/469/s103/19/A/i], substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
+    2000—Subsec. (b). [Pub. L. 106–469][/us/pl/106/469], § 103(19)(A)(i), substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 106–469, § 103(19)(A)(ii)][/us/pl/106/469/s103/19/A/ii], struck out par. (1) which read as follows: “in the case of fiscal year 1982, in an aggregate amount, not to exceed $3,900,000,000, as may be provided in advance in appropriation Acts;”.
+    Subsec. (b)(1). [Pub. L. 106–469][/us/pl/106/469], § 103(19)(A)(ii), struck out par. (1) which read as follows: “in the case of fiscal year 1982, in an aggregate amount, not to exceed $3,900,000,000, as may be provided in advance in appropriation Acts;”.
 
-    Subsec. (b)(2). [Pub. L. 106–469, § 103(19)(A)(iii)][/us/pl/106/469/s103/19/A/iii], struck out “after fiscal year 1982” after “any fiscal year”.
+    Subsec. (b)(2). [Pub. L. 106–469][/us/pl/106/469], § 103(19)(A)(iii), struck out “after fiscal year 1982” after “any fiscal year”.
 
-    Subsec. (e). [Pub. L. 106–469, § 103(19)(B)][/us/pl/106/469/s103/19/B], struck out subsec. (e) which read as follows:
+    Subsec. (e). [Pub. L. 106–469][/us/pl/106/469], § 103(19)(B), struck out subsec. (e) which read as follows:
 
     “(1) Except as provided in paragraph (2), nothing in this part shall be construed to limit the Account from being used to meet expenses relating to interim storage facilities for the storage of petroleum products for the Strategic Petroleum Reserve.
 
@@ -65,13 +65,13 @@
 
     1992—Subsec. (d). [Pub. L. 102–486][/us/pl/102/486] substituted “under subsection (g)” for “subsection (g)”.
 
-    1990—Subsec. (b)(3). [Pub. L. 101–383, § 5(b)(1)][/us/pl/101/383/s5/b/1], inserted before period at end “, or from the sale of petroleum products under [section 6240(f) of this title][/us/usc/t42/s6240/f]”.
+    1990—Subsec. (b)(3). [Pub. L. 101–383][/us/pl/101/383], § 5(b)(1), inserted before period at end “, or from the sale of petroleum products under [section 6240(f) of this title][/us/usc/t42/s6240/f]”.
 
-    Subsec. (d). [Pub. L. 101–383, § 5(b)(2)][/us/pl/101/383/s5/b/2], inserted “, and from the sale of petroleum products under [section 6240(f) of this title][/us/usc/t42/s6240/f]” after “subsection (g) of such section”.
+    Subsec. (d). [Pub. L. 101–383][/us/pl/101/383], § 5(b)(2), inserted “, and from the sale of petroleum products under [section 6240(f) of this title][/us/usc/t42/s6240/f]” after “subsection (g) of such section”.
 
-    1985—Subsec. (b)(3). [Pub. L. 99–58, § 103(b)(3)][/us/pl/99/58/s103/b/3], inserted “, including a drawdown and distribution carried out under subsection (g) of such section” after “[section 6241 of this title][/us/usc/t42/s6241]”.
+    1985—Subsec. (b)(3). [Pub. L. 99–58][/us/pl/99/58], § 103(b)(3), inserted “, including a drawdown and distribution carried out under subsection (g) of such section” after “[section 6241 of this title][/us/usc/t42/s6241]”.
 
-    Subsec. (d). [Pub. L. 99–58, § 103(b)(4)][/us/pl/99/58/s103/b/4], inserted “, including a drawdown and distribution carried out subsection (g) of such section” after “[section 6241 of this title][/us/usc/t42/s6241]” in provisions preceding par. (1).
+    Subsec. (d). [Pub. L. 99–58][/us/pl/99/58], § 103(b)(4), inserted “, including a drawdown and distribution carried out subsection (g) of such section” after “[section 6241 of this title][/us/usc/t42/s6241]” in provisions preceding par. (1).
 
     1982—Subsec. (e). [Pub. L. 97–229][/us/pl/97/229] added subsec. (e).
 
@@ -81,13 +81,13 @@
 
  __Transfer of Funds to SPR Petroleum Account for Drawdown and Sale Operations__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–180, provided in part: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–180, provided in part: 
 
 > “That the Secretary of Energy hereafter may transfer to the SPR Petroleum Account such funds as may be necessary to carry out drawdown and sale operations of the Strategic Petroleum Reserve initiated under section 161 of the Energy Policy and Conservation Act ([42 U.S.C. 6241][/us/usc/t42/s6241]) from any funds available to the Department of Energy under this or any other Act: Provided further, That all funds transferred pursuant to this authority must be replenished as promptly as possible from oil sale receipts pursuant to the drawdown and sale.”
 
  __Acquisition, Transportation, and Injection of Petroleum Products for SPR; Applicability of Subsec. (d)__ 
 
-[Pub. L. 97–35, title X, § 1034(c)][/us/pl/97/35/s1034/c], Aug. 13, 1981, [95 Stat. 620][/us/stat/95/620], provided that: 
+[Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1034(c), Aug. 13, 1981, [95 Stat. 620][/us/stat/95/620], provided that: 
 
 > “The provisions of section 167(d) of such Act, as added by subsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account.”
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/106/469/s103/19/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F19%2FA%2Fii
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2033
 [/us/usc/t42/s7270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7270
 [/us/usc/t42/s7270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7270
@@ -108,43 +108,43 @@
 [/us/usc/t42/s6240/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6240%2Ff
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/usc/t2/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs631
-[/us/pl/94/163/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs167
-[/us/pl/97/35/s1034/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1034%2Fa%2F1
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F619
-[/us/pl/97/229/s4/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs4%2Fb%2F2%2FA
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/stat/96/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F251
-[/us/pl/99/58/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs103%2Fb%2F3
+[/us/pl/99/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2FtI
 [/us/stat/99/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F104
-[/us/pl/101/383/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs5%2Fb%2F1
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/stat/104/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F729
-[/us/pl/102/486/s1404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1404%2Fb%2F1
+[/us/pl/102/486/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIV
 [/us/stat/106/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2995
-[/us/pl/106/469/s103/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F19
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2033
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
-[/us/pl/106/469/s103/19/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F19%2FA%2Fi
-[/us/pl/106/469/s103/19/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F19%2FA%2Fii
-[/us/pl/106/469/s103/19/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F19%2FA%2Fiii
-[/us/pl/106/469/s103/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F19%2FB
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/101/383/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs5%2Fb%2F1
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/usc/t42/s6240/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6240%2Ff
-[/us/pl/101/383/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs5%2Fb%2F2
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/usc/t42/s6240/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6240%2Ff
-[/us/pl/99/58/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs103%2Fb%2F3
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
-[/us/pl/99/58/s103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs103%2Fb%2F4
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
 [/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/pl/97/35/s1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1038
 [/us/usc/t42/s6240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6240
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
-[/us/pl/97/35/s1034/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1034%2Fc
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F620
 
 

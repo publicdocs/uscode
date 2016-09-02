@@ -91,17 +91,17 @@
 
             The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1856, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 317][/us/stat/111/317]; amended [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, §§ 612(a), 614(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–560; [Pub. L. 108–173, title II, § 232(a)][/us/pl/108/173/s232/a], Dec. 8, 2003, [117 Stat. 2208][/us/stat/117/2208].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1856, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4001, Aug. 5, 1997, [111 Stat. 317][/us/stat/111/317]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, §§ 612(a), 614(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–560; [Pub. L. 108–173, title II][/us/pl/108/173/tII], § 232(a), Dec. 8, 2003, [117 Stat. 2208][/us/stat/117/2208].)
 
  __Amendments__ 
 
     2003—Subsec. (b)(3). [Pub. L. 108–173][/us/pl/108/173] reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) stating general rule and listing standards specifically superseded.
 
-    2000—Subsec. (b)(3)(B)(i). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 614(a)(1)\], inserted “(including cost-sharing requirements)” after “Benefit requirements”.
+    2000—Subsec. (b)(3)(B)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, § 614(a)(1)\], inserted “(including cost-sharing requirements)” after “Benefit requirements”.
 
-    Subsec. (b)(3)(B)(iv). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 614(a)(2)\], added cl. (iv).
+    Subsec. (b)(3)(B)(iv). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, § 614(a)(2)\], added cl. (iv).
 
-    Subsec. (b)(4). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 612(a)\], added par. (4).
+    Subsec. (b)(4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, § 612(a)\], added par. (4).
 
  __Change of Name__ 
 
@@ -109,11 +109,11 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 612(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–560, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, § 612(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–560, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 614(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–561, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, § 614(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–561, provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
 
@@ -128,21 +128,21 @@
 [/us/usc/t5/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs564%2Fa
 [/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4001
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F317
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs232%2Fa
+[/us/pl/108/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtII
 [/us/stat/117/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2208
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/108/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

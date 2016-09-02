@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for assistance payments under this subchapter $520,665,600 for fiscal year 1993 and $542,533,555 for fiscal year 1994, of which such sums as may be necessary shall be available in each such fiscal year for use under [section 12852(e) of this title][/us/usc/t42/s12852/e]. Any amount appropriated under this section shall be deposited in the Fund and shall remain available until expended, subject to the provisions of section 12858  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 101–625, title III, § 308][/us/pl/101/625/s308], Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133]; [Pub. L. 102–550, title I, § 182(b)][/us/pl/102/550/s182/b], Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 308, Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 182(b), Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t42/s12852/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12852%2Fe
-[/us/pl/101/625/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs308
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4133
-[/us/pl/102/550/s182/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs182%2Fb
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3736
 [/us/usc/t42/s12858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12858
 [/us/pl/101/625/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs309

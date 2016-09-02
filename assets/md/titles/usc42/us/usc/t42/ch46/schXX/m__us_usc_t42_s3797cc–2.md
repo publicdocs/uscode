@@ -31,7 +31,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 and 2009. Amounts appropriated under the preceding sentence shall remain available until expended.
 
-([Pub. L. 109–177, title VII, § 755][/us/pl/109/177/s755], Mar. 9, 2006, [120 Stat. 275][/us/stat/120/275]; [Pub. L. 110–161, div. B, title II, § 220(b)][/us/pl/110/161/s220/b], Dec. 26, 2007, [121 Stat. 1916][/us/stat/121/1916]; [Pub. L. 110–345, § 2][/us/pl/110/345/s2], Oct. 7, 2008, [122 Stat. 3938][/us/stat/122/3938].)
+([Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 755, Mar. 9, 2006, [120 Stat. 275][/us/stat/120/275]; [Pub. L. 110–161, div. B, title II][/us/pl/110/161/dB/tII], § 220(b), Dec. 26, 2007, [121 Stat. 1916][/us/stat/121/1916]; [Pub. L. 110–345][/us/pl/110/345], § 2, Oct. 7, 2008, [122 Stat. 3938][/us/stat/122/3938].)
 
  __Codification__ 
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t42/s3797d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797d
-[/us/pl/109/177/s755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs755
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F275
-[/us/pl/110/161/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs220%2Fb
+[/us/pl/110/161/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtII
 [/us/stat/121/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1916
-[/us/pl/110/345/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F345%2Fs2
+[/us/pl/110/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F345
 [/us/stat/122/3938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3938
 [/us/pl/110/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F345
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161

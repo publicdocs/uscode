@@ -21,7 +21,7 @@
 
     (2) the terms “child”, “youth”, and “young individual” means  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “mean”. </sup></sup>  an individual who is less than 21 years of age.
 
-([Pub. L. 101–501, title IX, § 987][/us/pl/101/501/s987], Nov. 3, 1990, [104 Stat. 1283][/us/stat/104/1283].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 987, Nov. 3, 1990, [104 Stat. 1283][/us/stat/104/1283].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs987
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1283
 
 

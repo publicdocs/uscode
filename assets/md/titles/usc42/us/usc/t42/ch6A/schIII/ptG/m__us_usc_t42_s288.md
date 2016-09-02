@@ -107,7 +107,7 @@
 
             (B) The Secretary shall by regulation provide for the waiver or suspension of any such obligation applicable to any individual whenever compliance by such individual is impossible or would involve substantial hardship to such individual or would be against equity and good conscience.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 869][/us/stat/99/869]; amended [Pub. L. 100–607, title I, § 151][/us/pl/100/607/s151], title VI, § 635, Nov. 4, 1988, [102 Stat. 3058][/us/stat/102/3058], 3148; [Pub. L. 101–93, § 5(d)][/us/pl/101/93/s5/d], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612]; [Pub. L. 101–239, title VI, § 6103(e)(7)][/us/pl/101/239/s6103/e/7], Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208]; [Pub. L. 102–321, title I, § 163(b)(4)][/us/pl/102/321/s163/b/4], July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 103–43, title XVI][/us/pl/103/43], §§ 1601, 1602, 1632, 1641, title XX, § 2008(b)(14), June 10, 1993, [107 Stat. 181][/us/stat/107/181], 186, 211; [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 107–206, title I, § 804(a)][/us/pl/107/206/s804/a], (b), Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874]; [Pub. L. 109–482, title I, § 103(b)(47)][/us/pl/109/482/s103/b/47], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 869][/us/stat/99/869]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 151, title VI, § 635, Nov. 4, 1988, [102 Stat. 3058][/us/stat/102/3058], 3148; [Pub. L. 101–93][/us/pl/101/93], § 5(d), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(e)(7), Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(b)(4), July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 103–43, title XVI][/us/pl/103/43/tXVI], §§ 1601, 1602, 1632, 1641, title XX, § 2008(b)(14), June 10, 1993, [107 Stat. 181][/us/stat/107/181], 186, 211; [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 107–206, title I][/us/pl/107/206/tI], § 804(a), (b), Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(47), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -117,17 +117,17 @@
 
     1999—Subsec. (d)(3). [Pub. L. 106–129][/us/pl/106/129] substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”.
 
-    1993—Subsec. (a)(1)(C). [Pub. L. 103–43, § 1632][/us/pl/103/43/s1632], added subpar. (C).
+    1993—Subsec. (a)(1)(C). [Pub. L. 103–43][/us/pl/103/43], § 1632, added subpar. (C).
 
-    Subsec. (a)(4). [Pub. L. 103–43, § 1601][/us/pl/103/43/s1601], added par. (4).
+    Subsec. (a)(4). [Pub. L. 103–43][/us/pl/103/43], § 1601, added par. (4).
 
-    Subsec. (c)(1), (2). [Pub. L. 103–43, § 1602][/us/pl/103/43/s1602], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (c)(1), (2). [Pub. L. 103–43][/us/pl/103/43], § 1602, added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) Each individual who is awarded a National Research Service Award (other than an individual who is a pre-baccalaureate student who is awarded a National Research Service Award for research training) shall, in accordance with paragraph (3), engage in health research or teaching or any combination thereof which is in accordance with the usual patterns of academic employment, for a period computed in accordance with paragraph (2).
 
     “(2) For each month for which an individual receives a National Research Service Award which is made for a period in excess of twelve months, such individual shall engage in one month of health research or teaching or any combination thereof which is in accordance with the usual patterns of academic employment.”
 
-    Subsec. (d). [Pub. L. 103–43, § 1641(1)][/us/pl/103/43/s1641/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “For the purpose of making payments under National Research Service Awards and under grants for such Awards, there are authorized to be appropriated $300,000,000 for fiscal year 1989 and such sums as may be necessary for fiscal year 1990.”
+    Subsec. (d). [Pub. L. 103–43][/us/pl/103/43], § 1641(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “For the purpose of making payments under National Research Service Awards and under grants for such Awards, there are authorized to be appropriated $300,000,000 for fiscal year 1989 and such sums as may be necessary for fiscal year 1990.”
 
     Subsec. (d)(3). [Pub. L. 103–43][/us/pl/103/43], §§ 1641(2), 2008(b)(14), substituted “1 percent” for “one-half of one percent” in two places, “293k, 293l, or 293m” for “295g, 295g–4, or 295g–6”, and “242b(a)” for “242b(a)(3)”.
 
@@ -137,13 +137,13 @@
 
     Subsec. (d)(3)(B). [Pub. L. 101–239][/us/pl/101/239] substituted “Agency for Health Care Policy and Research” for “National Center for Health Services Research and Health Care Technology Assessment”.
 
-    1988—Subsec. (d). [Pub. L. 100–607, § 151(1)][/us/pl/100/607/s151/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to make payments under National Research Service Awards and under grants for such awards $244,000,000 for fiscal year 1986, $260,000,000 for fiscal year 1987, and $275,000,000 for fiscal year 1988.”
+    1988—Subsec. (d). [Pub. L. 100–607][/us/pl/100/607], § 151(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to make payments under National Research Service Awards and under grants for such awards $244,000,000 for fiscal year 1986, $260,000,000 for fiscal year 1987, and $275,000,000 for fiscal year 1988.”
 
     Subsec. (d)(3). [Pub. L. 100–607][/us/pl/100/607], §§ 151(2), 635, made identical amendments, inserting “to the Secretary, acting through the Administrator of the Health Resources and Services Administration,” after first reference to “available”.
 
  __Change of Name__ 
 
-[Pub. L. 107–206, title I, § 804(c)][/us/pl/107/206/s804/c], Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874], provided that: 
+[Pub. L. 107–206, title I][/us/pl/107/206/tI], § 804(c), Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874], provided that: 
 
 > “Any reference in any law (other than this Act \[see Tables for classification\]), regulation, document, record, map, or other paper of the United States to ‘National Research Service Awards’ shall be considered to be a reference to ‘Ruth L. Kirschstein National Research Service Awards’.”
 
@@ -163,39 +163,39 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F869
-[/us/pl/100/607/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs151
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3058
-[/us/pl/101/93/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fd
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
-[/us/pl/101/239/s6103/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F7
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2208
-[/us/pl/102/321/s163/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F4
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F376
-[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVI
 [/us/stat/107/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F181
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
-[/us/pl/107/206/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs804%2Fa
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F874
-[/us/pl/109/482/s103/b/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F47
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/pl/103/43/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1632
-[/us/pl/103/43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1601
-[/us/pl/103/43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1602
-[/us/pl/103/43/s1641/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1641%2F1
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/607/s151/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs151%2F1
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/107/206/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs804%2Fc
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F874
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109

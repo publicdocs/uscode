@@ -27,7 +27,7 @@
 
         For the purpose of carrying out this section, there is authorized to be appropriated $400,000 for each of the fiscal years 2008 though 2012.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1251, as added [Pub. L. 102–408, title III, § 304][/us/pl/102/408/s304], Oct. 13, 1992, [106 Stat. 2084][/us/stat/106/2084]; amended [Pub. L. 110–23, § 13][/us/pl/110/23/s13], May 3, 2007, [121 Stat. 98][/us/stat/121/98].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1251, as added [Pub. L. 102–408, title III][/us/pl/102/408/tIII], § 304, Oct. 13, 1992, [106 Stat. 2084][/us/stat/106/2084]; amended [Pub. L. 110–23][/us/pl/110/23], § 13, May 3, 2007, [121 Stat. 98][/us/stat/121/98].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs304
+[/us/pl/102/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtIII
 [/us/stat/106/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2084
-[/us/pl/110/23/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23%2Fs13
+[/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F98
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 

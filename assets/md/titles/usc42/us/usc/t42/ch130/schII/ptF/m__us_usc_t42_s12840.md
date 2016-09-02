@@ -17,7 +17,7 @@
 
     For funds designated under this subchapter by a recipient to address the damage in an area for which the President has declared a disaster under title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5170][/us/usc/t42/s5170] et seq.\], the Secretary may suspend all statutory requirements for purposes of assistance under this subchapter for that area, except for those related to public notice of funding availability, nondiscrimination, fair housing, labor standards, environmental standards, and low-income housing affordability.
 
-([Pub. L. 101–625, title II, § 290][/us/pl/101/625/s290], as added [Pub. L. 103–233, title II, § 208][/us/pl/103/233/s208], Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 290, as added [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 208, Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366].)
 
  __References in Text__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
-[/us/pl/101/625/s290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs290
-[/us/pl/103/233/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs208
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F366
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

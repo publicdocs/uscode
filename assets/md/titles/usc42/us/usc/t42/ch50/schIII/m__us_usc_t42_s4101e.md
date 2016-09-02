@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, a requester shall be exempt from submitting a review or processing fee for a request for a flood insurance rate map change based on a habitat restoration project that is funded in whole or in part with Federal or State funds, including dam removal, culvert redesign or installation, or the installation of fish passage.
 
-([Pub. L. 113–89, § 22][/us/pl/113/89/s22], Mar. 21, 2014, [128 Stat. 1028][/us/stat/128/1028].)
+([Pub. L. 113–89][/us/pl/113/89], § 22, Mar. 21, 2014, [128 Stat. 1028][/us/stat/128/1028].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/89/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs22
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1028
 
 

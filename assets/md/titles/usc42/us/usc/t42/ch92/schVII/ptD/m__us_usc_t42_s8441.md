@@ -103,7 +103,7 @@
 
         Any action by the Commission under this section is subject to judicial review in accordance with chapter 7 of title 5.
 
-([Pub. L. 95–620, title VII, § 731][/us/pl/95/620/s731], Nov. 9, 1978, [92 Stat. 3336][/us/stat/92/3336]; [Pub. L. 100–42, § 1(c)(21)][/us/pl/100/42/s1/c/21], May 21, 1987, [101 Stat. 314][/us/stat/101/314].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 731, Nov. 9, 1978, [92 Stat. 3336][/us/stat/92/3336]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(21), May 21, 1987, [101 Stat. 314][/us/stat/101/314].)
 
  __References in Text__ 
 
@@ -111,11 +111,11 @@
 
  __Amendments__ 
 
-    1987—Subsec. (a)(1). [Pub. L. 100–42, § 1(c)(21)(A)][/us/pl/100/42/s1/c/21/A], struck out reference to subchapter II of this chapter.
+    1987—Subsec. (a)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(21)(A), struck out reference to subchapter II of this chapter.
 
-    Subsec. (e)(1). [Pub. L. 100–42, § 1(c)(21)(B)][/us/pl/100/42/s1/c/21/B], struck out “or major fuel-burning installation” after “powerplant” in subpar. (A) and “or major fuel-burning installation” after “powerplant” in last sentence.
+    Subsec. (e)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(21)(B), struck out “or major fuel-burning installation” after “powerplant” in subpar. (A) and “or major fuel-burning installation” after “powerplant” in last sentence.
 
-    Subsec. (g)(3). [Pub. L. 100–42, § 1(c)(21)(A)][/us/pl/100/42/s1/c/21/A], struck out reference to subchapter II of this chapter.
+    Subsec. (g)(3). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(21)(A), struck out reference to subchapter II of this chapter.
 
 ----------
 
@@ -128,15 +128,15 @@
 [/us/usc/t15/s717c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717c
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/620/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs731
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3336
-[/us/pl/100/42/s1/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F21
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F314
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821
 [/us/usc/t15/s717w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717w
-[/us/pl/100/42/s1/c/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F21%2FA
-[/us/pl/100/42/s1/c/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F21%2FB
-[/us/pl/100/42/s1/c/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F21%2FA
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 
 

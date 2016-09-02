@@ -57,15 +57,15 @@
 
         (3) The term “valuable consideration” does not include reasonable payments associated with the transportation, implantation, processing, preservation, quality control, or storage of human fetal tissue.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498B, as added [Pub. L. 103–43, title I, § 112][/us/pl/103/43/s112], June 10, 1993, [107 Stat. 131][/us/stat/107/131]; amended [Pub. L. 109–242, § 2][/us/pl/109/242/s2], July 19, 2006, [120 Stat. 570][/us/stat/120/570].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498B, as added [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 112, June 10, 1993, [107 Stat. 131][/us/stat/107/131]; amended [Pub. L. 109–242][/us/pl/109/242], § 2, July 19, 2006, [120 Stat. 570][/us/stat/120/570].)
 
  __Amendments__ 
 
-    2006—Subsec. (c). [Pub. L. 109–242, § 2(2)][/us/pl/109/242/s2/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    2006—Subsec. (c). [Pub. L. 109–242][/us/pl/109/242], § 2(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 109–242, § 2(1)][/us/pl/109/242/s2/1], (3), redesignated subsec. (c) as (d) and substituted “(a), (b), or (c)” for “(a) or (b)” in par. (1). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 109–242][/us/pl/109/242], § 2(1), (3), redesignated subsec. (c) as (d) and substituted “(a), (b), or (c)” for “(a) or (b)” in par. (1). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 109–242, § 2(1)][/us/pl/109/242/s2/1], (4), redesignated subsec. (d) as (e) and substituted “section 289g–1(g)” for “section 289g–1(f)” in par. (1).
+    Subsec. (e). [Pub. L. 109–242][/us/pl/109/242], § 2(1), (4), redesignated subsec. (d) as (e) and substituted “section 289g–1(g)” for “section 289g–1(f)” in par. (1).
 
 ----------
 
@@ -77,12 +77,12 @@
 [/us/usc/t42/s289g–1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%931%2Fg
 [/us/usc/t21/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs112
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F131
-[/us/pl/109/242/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242%2Fs2
+[/us/pl/109/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242
 [/us/stat/120/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F570
-[/us/pl/109/242/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242%2Fs2%2F2
-[/us/pl/109/242/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242%2Fs2%2F1
-[/us/pl/109/242/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242%2Fs2%2F1
+[/us/pl/109/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242
+[/us/pl/109/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242
+[/us/pl/109/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F242
 
 

@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    [Pub. L. 113–4, title II, § 204(a)][/us/pl/113/4/s204/a], Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82], substituted “ENHANCED TRAINING AND SERVICES TO END ABUSE LATER IN LIFE” for “ELDER ABUSE, NEGLECT, AND EXPLOITATION, INCLUDING DOMESTIC VIOLENCE AND SEXUAL ASSAULT AGAINST OLDER OR DISABLED INDIVIDUALS” in heading.
+    [Pub. L. 113–4, title II][/us/pl/113/4/tII], § 204(a), Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82], substituted “ENHANCED TRAINING AND SERVICES TO END ABUSE LATER IN LIFE” for “ELDER ABUSE, NEGLECT, AND EXPLOITATION, INCLUDING DOMESTIC VIOLENCE AND SEXUAL ASSAULT AGAINST OLDER OR DISABLED INDIVIDUALS” in heading.
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/113/4/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs204%2Fa
+[/us/pl/113/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtII
 [/us/stat/127/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F82
 
 

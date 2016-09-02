@@ -17,7 +17,7 @@
 
     The Secretary, in cooperation with other Federal agencies, shall conduct research on strategies to reduce the risk of lead exposure from other sources, including exterior soil and interior lead dust in carpets, furniture, and forced air ducts.
 
-([Pub. L. 102–550, title X, § 1051][/us/pl/102/550/s1051], Oct. 28, 1992, [106 Stat. 3925][/us/stat/106/3925].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1051, Oct. 28, 1992, [106 Stat. 3925][/us/stat/106/3925].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1051
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3925
 
 

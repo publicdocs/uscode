@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the acquisition by the Secretary of Housing and Urban Development of any real property pursuant to subchapters II to VII of this chapter shall not deprive any State or political subdivision thereof, including any Territory or possession of the United States, of its civil and criminal jurisdiction in and over such property, or impair the civil rights under the State or local law of the inhabitants on such property. As used in this section the term “State” shall include the District of Columbia.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 307, formerly § 10, [54 Stat. 1128][/us/stat/54/1128]; renumbered title III, § 307, and amended [June 28, 1941, ch. 260, § 4(b)][/us/act/1941-06-28/ch260/s4/b], [55 Stat. 363][/us/stat/55/363]; Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [Apr. 10, 1942, ch. 239, § 3(b)][/us/act/1942-04-10/ch239/s3/b], [56 Stat. 212][/us/stat/56/212]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 307, formerly § 10, [54 Stat. 1128][/us/stat/54/1128]; renumbered title III, § 307, and amended [June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 4(b), [55 Stat. 363][/us/stat/55/363]; Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; [Apr. 10, 1942, ch. 239][/us/act/1942-04-10/ch239], § 3(b), [56 Stat. 212][/us/stat/56/212]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Words “including any Territory or possession of the United States” were inserted upon authority of [act June 28, 1941, ch. 260, § 4(b)][/us/act/1941-06-28/ch260/s4/b], [55 Stat. 363][/us/stat/55/363], which provided that when used in this section the term “ ‘State’ includes any Territory or possession of the United States”.
+    Words “including any Territory or possession of the United States” were inserted upon authority of [act June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 4(b), [55 Stat. 363][/us/stat/55/363], which provided that when used in this section the term “ ‘State’ includes any Territory or possession of the United States”.
 
  __Amendments__ 
 
@@ -48,16 +48,16 @@
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1128
-[/us/act/1941-06-28/ch260/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs4%2Fb
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F363
-[/us/act/1942-04-10/ch239/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-10%2Fch239%2Fs3%2Fb
+[/us/act/1942-04-10/ch239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-10%2Fch239
 [/us/stat/56/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F212
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F73
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
-[/us/act/1941-06-28/ch260/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs4%2Fb
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F363
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 

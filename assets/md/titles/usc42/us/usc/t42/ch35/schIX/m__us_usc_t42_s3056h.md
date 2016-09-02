@@ -17,7 +17,7 @@
 
     Eligible individuals under this subchapter may be considered by local workforce development boards and one-stop operators established under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] to satisfy the requirements for receiving services under such title that are applicable to adults.
 
-([Pub. L. 89–73, title V, § 510][/us/pl/89/73/s510], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2580][/us/stat/120/2580]; amended [Pub. L. 113–128, title V, § 512(w)(6)][/us/pl/113/128/s512/w/6], July 22, 2014, [128 Stat. 1715][/us/stat/128/1715].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 510, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2580][/us/stat/120/2580]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(w)(6), July 22, 2014, [128 Stat. 1715][/us/stat/128/1715].)
 
  __References in Text__ 
 
@@ -25,9 +25,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 3056h, [Pub. L. 89–73, title V, § 510][/us/pl/89/73/s510], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2280][/us/stat/114/2280], related to eligibility for workforce investment activities, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
+    A prior section 3056h, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 510, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2280][/us/stat/114/2280], related to eligibility for workforce investment activities, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
 
-    Another prior section 3056h, [Pub. L. 89–73, title V, § 510][/us/pl/89/73/s510], as added [Pub. L. 102–375, title V, § 506][/us/pl/102/375/s506], Sept. 30, 1992, [106 Stat. 1269][/us/stat/106/1269]; amended [Pub. L. 103–171, § 2(20)][/us/pl/103/171/s2/20], Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(33)(D), (f)(25)(D)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–433, related to dual eligibility, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
+    Another prior section 3056h, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 510, as added [Pub. L. 102–375, title V][/us/pl/102/375/tV], § 506, Sept. 30, 1992, [106 Stat. 1269][/us/stat/106/1269]; amended [Pub. L. 103–171][/us/pl/103/171], § 2(20), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(33)(D), (f)(25)(D)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–433, related to dual eligibility, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
 
  __Amendments__ 
 
@@ -45,24 +45,24 @@
 ----------
 
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
-[/us/pl/89/73/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs510
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2580
-[/us/pl/113/128/s512/w/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F6
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1715
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/89/73/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs510
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2280
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
-[/us/pl/89/73/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs510
-[/us/pl/102/375/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs506
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/102/375/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtV
 [/us/stat/106/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1269
-[/us/pl/103/171/s2/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F20
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1989
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

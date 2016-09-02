@@ -107,11 +107,11 @@
 
         There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
 
-([Pub. L. 94–163, title III, § 375][/us/pl/94/163/s375], as added [Pub. L. 110–140, title IV, § 451(a)][/us/pl/110/140/s451/a], Dec. 19, 2007, [121 Stat. 1632][/us/stat/121/1632].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 375, as added [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 451(a), Dec. 19, 2007, [121 Stat. 1632][/us/stat/121/1632].)
 
  __Prior Provisions__ 
 
-    A prior section 6345, [Pub. L. 94–163, title III, § 375][/us/pl/94/163/s375], Dec. 22, 1975, [89 Stat. 937][/us/stat/89/937]; [Pub. L. 95–619, title VI, § 601(b)][/us/pl/95/619/s601/b], Nov. 9, 1978, [92 Stat. 3282][/us/stat/92/3282], required reports on progress made in improving energy efficiency and achievement of energy efficiency improvement targets, prior to repeal by [Pub. L. 99–509, title III, § 3101(b)][/us/pl/99/509/s3101/b], Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888].
+    A prior section 6345, [Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 375, Dec. 22, 1975, [89 Stat. 937][/us/stat/89/937]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 601(b), Nov. 9, 1978, [92 Stat. 3282][/us/stat/92/3282], required reports on progress made in improving energy efficiency and achievement of energy efficiency improvement targets, prior to repeal by [Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3101(b), Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888].
 
  __Effective Date__ 
 
@@ -124,14 +124,14 @@
 ----------
 ----------
 
-[/us/pl/94/163/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs375
-[/us/pl/110/140/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs451%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1632
-[/us/pl/94/163/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs375
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F937
-[/us/pl/95/619/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs601%2Fb
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3282
-[/us/pl/99/509/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3101%2Fb
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1888
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

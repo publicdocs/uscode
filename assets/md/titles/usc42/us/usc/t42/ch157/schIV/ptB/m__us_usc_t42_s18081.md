@@ -303,7 +303,7 @@
 
             Not later than January 1, 2013, the Secretary of Health and Human Services shall report the results of the study conducted under paragraph (1), including any recommendations for legislative changes, to the Committees on Finance and Health, Education, Labor and Pensions of the Senate and the Committees of Education and Labor and Ways and Means of the House of Representatives.
 
-([Pub. L. 111–148, title I, § 1411][/us/pl/111/148/s1411], Mar. 23, 2010, [124 Stat. 224][/us/stat/124/224].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1411, Mar. 23, 2010, [124 Stat. 224][/us/stat/124/224].)
 
  __References in Text__ 
 
@@ -319,7 +319,7 @@
 
  __Verification of Household Income and Other Qualifications for the Provision of ACA Premium and Cost-Sharing Subsidies__ 
 
-[Pub. L. 113–46, div. B, § 1001][/us/pl/113/46/s1001], Oct. 17, 2013, [127 Stat. 566][/us/stat/127/566], provided that:
+[Pub. L. 113–46, div. B][/us/pl/113/46/dB], § 1001, Oct. 17, 2013, [127 Stat. 566][/us/stat/127/566], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -366,13 +366,13 @@
 [/us/usc/t26/s4980H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4980H
 [/us/usc/t26/s6662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6662
 [/us/usc/t26/s4980H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4980H
-[/us/pl/111/148/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1411
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F224
 [/us/usc/t26/s5000A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5000A
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/pl/111/148/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1513
-[/us/pl/113/46/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs1001
+[/us/pl/113/46/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2FdB
 [/us/stat/127/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F566
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071

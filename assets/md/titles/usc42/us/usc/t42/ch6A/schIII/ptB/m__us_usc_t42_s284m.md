@@ -141,7 +141,7 @@
 
             Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409I, as added [Pub. L. 107–109, § 3(3)][/us/pl/107/109/s3/3], Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408]; amended [Pub. L. 108–155, § 3(b)(6)][/us/pl/108/155/s3/b/6], Dec. 3, 2003, [117 Stat. 1942][/us/stat/117/1942]; [Pub. L. 109–482, title I, § 103(b)(14)][/us/pl/109/482/s103/b/14], Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687]; [Pub. L. 110–85, title V, § 502(b)][/us/pl/110/85/s502/b], Sept. 27, 2007, [121 Stat. 886][/us/stat/121/886]; [Pub. L. 111–148, title VII, § 7002(g)(2)(A)][/us/pl/111/148/s7002/g/2/A], Mar. 23, 2010, [124 Stat. 820][/us/stat/124/820]; [Pub. L. 112–144, title V][/us/pl/112/144], §§ 507(d), 509(d), July 9, 2012, [126 Stat. 1045][/us/stat/126/1045], 1049; [Pub. L. 113–5, title III, § 307(b)][/us/pl/113/5/s307/b], Mar. 13, 2013, [127 Stat. 192][/us/stat/127/192].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409I, as added [Pub. L. 107–109][/us/pl/107/109], § 3(3), Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408]; amended [Pub. L. 108–155][/us/pl/108/155], § 3(b)(6), Dec. 3, 2003, [117 Stat. 1942][/us/stat/117/1942]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(14), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687]; [Pub. L. 110–85, title V][/us/pl/110/85/tV], § 502(b), Sept. 27, 2007, [121 Stat. 886][/us/stat/121/886]; [Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(g)(2)(A), Mar. 23, 2010, [124 Stat. 820][/us/stat/124/820]; [Pub. L. 112–144, title V][/us/pl/112/144/tV], §§ 507(d), 509(d), July 9, 2012, [126 Stat. 1045][/us/stat/126/1045], 1049; [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 307(b), Mar. 13, 2013, [127 Stat. 192][/us/stat/127/192].)
 
  __References in Text__ 
 
@@ -149,7 +149,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 113–5, § 307(b)(1)][/us/pl/113/5/s307/b/1], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In developing and prioritizing the list under paragraph (1), the Secretary shall consider—
+    2013—Subsec. (a)(2). [Pub. L. 113–5][/us/pl/113/5], § 307(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In developing and prioritizing the list under paragraph (1), the Secretary shall consider—
 
     “(A) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
 
@@ -157,17 +157,17 @@
 
     “(C) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators.”
 
-    Subsec. (b). [Pub. L. 113–5, § 307(b)(2)][/us/pl/113/5/s307/b/2], substituted “paragraphs (1) and (2)(A) of subsection (a)” for “subsection (a)”.
+    Subsec. (b). [Pub. L. 113–5][/us/pl/113/5], § 307(b)(2), substituted “paragraphs (1) and (2)(A) of subsection (a)” for “subsection (a)”.
 
-    2012—Subsec. (c)(1). [Pub. L. 112–144, § 509(d)(1)(A)][/us/pl/112/144/s509/d/1/A], inserted “or [section 262(m) of this title][/us/usc/t42/s262/m],” after “Cosmetic Act,”.
+    2012—Subsec. (c)(1). [Pub. L. 112–144][/us/pl/112/144], § 509(d)(1)(A), inserted “or [section 262(m) of this title][/us/usc/t42/s262/m],” after “Cosmetic Act,”.
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 112–144, § 509(d)(1)(B)][/us/pl/112/144/s509/d/1/B], inserted “or [section 262(k) of this title][/us/usc/t42/s262/k]” after “Cosmetic Act”.
+    Subsec. (c)(1)(A)(i). [Pub. L. 112–144][/us/pl/112/144], § 509(d)(1)(B), inserted “or [section 262(k) of this title][/us/usc/t42/s262/k]” after “Cosmetic Act”.
 
-    Subsec. (c)(1)(B). [Pub. L. 112–144, § 509(d)(1)(C)][/us/pl/112/144/s509/d/1/C], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and”.
+    Subsec. (c)(1)(B). [Pub. L. 112–144][/us/pl/112/144], § 509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and”.
 
-    Subsec. (c)(2). [Pub. L. 112–144, § 509(d)(2)][/us/pl/112/144/s509/d/2], struck out “for drugs lacking exclusivity” after “applications” in heading, and in text struck out “under section 505 of the Federal Food, Drug, and Cosmetic Act” after “for the drug” and substituted “505A of the Federal Food, Drug, and Cosmetic Act or [section 262(m) of this title][/us/usc/t42/s262/m]” for “505A of such Act”.
+    Subsec. (c)(2). [Pub. L. 112–144][/us/pl/112/144], § 509(d)(2), struck out “for drugs lacking exclusivity” after “applications” in heading, and in text struck out “under section 505 of the Federal Food, Drug, and Cosmetic Act” after “for the drug” and substituted “505A of the Federal Food, Drug, and Cosmetic Act or [section 262(m) of this title][/us/usc/t42/s262/m]” for “505A of such Act”.
 
-    Subsec. (e)(1). [Pub. L. 112–144, § 507(d)][/us/pl/112/144/s507/d], substituted “to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017.” for “to carry out this section—
+    Subsec. (e)(1). [Pub. L. 112–144][/us/pl/112/144], § 507(d), substituted “to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017.” for “to carry out this section—
 
     “(A) $200,000,000 for fiscal year 2008; and
 
@@ -213,33 +213,33 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/109/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs3%2F3
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1408
-[/us/pl/108/155/s3/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F6
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/stat/117/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1942
-[/us/pl/109/482/s103/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F14
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/110/85/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs502%2Fb
+[/us/pl/110/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtV
 [/us/stat/121/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F886
-[/us/pl/111/148/s7002/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fg%2F2%2FA
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F820
-[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1045
-[/us/pl/113/5/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs307%2Fb
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F192
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/113/5/s307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs307%2Fb%2F1
-[/us/pl/113/5/s307/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs307%2Fb%2F2
-[/us/pl/112/144/s509/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fd%2F1%2FA
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t42/s262/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fm
-[/us/pl/112/144/s509/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fd%2F1%2FB
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
-[/us/pl/112/144/s509/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fd%2F1%2FC
-[/us/pl/112/144/s509/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fd%2F2
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t42/s262/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fm
-[/us/pl/112/144/s507/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs507%2Fd
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

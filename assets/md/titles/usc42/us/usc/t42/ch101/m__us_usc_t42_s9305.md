@@ -43,7 +43,7 @@
 
         The Secretary shall submit not later than July 1, 1981, a report to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources characterizing the plan and setting forth the steps necessary for implementation of the plan, including any steps already implemented.
 
-([Pub. L. 96–386, § 6][/us/pl/96/386/s6], Oct. 7, 1980, [94 Stat. 1541][/us/stat/94/1541].)
+([Pub. L. 96–386][/us/pl/96/386], § 6, Oct. 7, 1980, [94 Stat. 1541][/us/stat/94/1541].)
 
  __Change of Name__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/96/386/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs6
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1541
 
 

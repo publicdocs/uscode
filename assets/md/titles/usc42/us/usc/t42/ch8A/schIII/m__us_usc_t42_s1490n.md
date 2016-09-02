@@ -31,7 +31,7 @@
 
         The Secretary shall include with each rule or regulation required to be transmitted to the Committees under this section a detailed summary of all changes required by the Office of Management and Budget that prohibit, modify, postpone, or disapprove such rule or regulation in whole or part.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 534, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 523\], Nov. 30, 1983, [97 Stat. 1254][/us/stat/97/1254]; amended [Pub. L. 100–242, title V, § 563(b)][/us/pl/100/242/s563/b], Feb. 5, 1988, [101 Stat. 1944][/us/stat/101/1944].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 534, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 523\], Nov. 30, 1983, [97 Stat. 1254][/us/stat/97/1254]; amended [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 563(b), Feb. 5, 1988, [101 Stat. 1944][/us/stat/101/1944].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1254
-[/us/pl/100/242/s563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs563%2Fb
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1944
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa

@@ -55,13 +55,13 @@
 
         The Secretary shall determine the share of each State of the amounts made available under this section based on the formula described in subsection (c) of this section and the State reports. The Secretary shall promulgate regulations for the calculation of the leveraged resources of the State and for the submission of supporting documentation. The Secretary may request any documentation that the Secretary determines necessary for the verification of the application of the State for assistance under this section.
 
-([Pub. L. 97–35, title XXVI, § 2607A][/us/pl/97/35/s2607A], as added [Pub. L. 101–501, title VII, § 707(a)][/us/pl/101/501/s707/a], Nov. 3, 1990, [104 Stat. 1260][/us/stat/104/1260]; amended [Pub. L. 103–252, title III, § 311(a)(2)][/us/pl/103/252/s311/a/2], (c)(6), May 18, 1994, [108 Stat. 661][/us/stat/108/661], 662.)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2607A, as added [Pub. L. 101–501, title VII][/us/pl/101/501/tVII], § 707(a), Nov. 3, 1990, [104 Stat. 1260][/us/stat/104/1260]; amended [Pub. L. 103–252, title III][/us/pl/103/252/tIII], § 311(a)(2), (c)(6), May 18, 1994, [108 Stat. 661][/us/stat/108/661], 662.)
 
  __Amendments__ 
 
-    1994—Subsec. (c)(2). [Pub. L. 103–252, § 311(c)(6)][/us/pl/103/252/s311/c/6], substituted “0.08 percent” for “.0008 percent”.
+    1994—Subsec. (c)(2). [Pub. L. 103–252][/us/pl/103/252], § 311(c)(6), substituted “0.08 percent” for “.0008 percent”.
 
-    Subsec. (e). [Pub. L. 103–252, § 311(a)(2)][/us/pl/103/252/s311/a/2], substituted “2 months after the close of the fiscal year during which the State provided leveraged resources to eligible households, as described in subsection (b) of this section” for “July 31, of each year”.
+    Subsec. (e). [Pub. L. 103–252][/us/pl/103/252], § 311(a)(2), substituted “2 months after the close of the fiscal year during which the State provided leveraged resources to eligible households, as described in subsection (b) of this section” for “July 31, of each year”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -80,13 +80,13 @@
 
 [/us/usc/t42/s8621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621%2Fd
 [/us/usc/t42/s8624/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624%2Fc%2F1%2FA
-[/us/pl/97/35/s2607A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2607A
-[/us/pl/101/501/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs707%2Fa
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
+[/us/pl/101/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtVII
 [/us/stat/104/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1260
-[/us/pl/103/252/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fa%2F2
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F661
-[/us/pl/103/252/s311/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fc%2F6
-[/us/pl/103/252/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fa%2F2
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs314
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621

@@ -39,15 +39,15 @@
 
         Non-Federal contributions required in subsection (b) of this section may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 398A, formerly § 399, as added [Pub. L. 100–175, title VI, § 602][/us/pl/100/175/s602], Nov. 29, 1987, [101 Stat. 982][/us/stat/101/982]; renumbered § 398A, [Pub. L. 102–321, title V, § 502(1)][/us/pl/102/321/s502/1], July 10, 1992, [106 Stat. 427][/us/stat/106/427]; amended [Pub. L. 105–392, title III, § 302(b)][/us/pl/105/392/s302/b], Nov. 13, 1998, [112 Stat. 3586][/us/stat/112/3586].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 398A, formerly § 399, as added [Pub. L. 100–175, title VI][/us/pl/100/175/tVI], § 602, Nov. 29, 1987, [101 Stat. 982][/us/stat/101/982]; renumbered § 398A, [Pub. L. 102–321, title V][/us/pl/102/321/tV], § 502(1), July 10, 1992, [106 Stat. 427][/us/stat/106/427]; amended [Pub. L. 105–392, title III][/us/pl/105/392/tIII], § 302(b), Nov. 13, 1998, [112 Stat. 3586][/us/stat/112/3586].)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–392, § 302(b)(1)][/us/pl/105/392/s302/b/1], substituted “Requirement of matching funds” for “Limitation on duration of grant and requirement of matching funds” in section catchline.
+    1998—[Pub. L. 105–392][/us/pl/105/392], § 302(b)(1), substituted “Requirement of matching funds” for “Limitation on duration of grant and requirement of matching funds” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–392, § 302(b)(2)][/us/pl/105/392/s302/b/2]–(4), redesignated subsec. (b) as (a), substituted “third or subsequent year” for “third year” in pars. (1)(C) and (2)(C), and struck out heading and text of former subsec. (a). Text read as follows: “The period during which payments are made to a State from a grant under [section 280c–3(a) of this title][/us/usc/t42/s280c–3/a] may not exceed 3 years. Such payments shall be subject to annual evaluation by the Secretary.”
+    Subsec. (a). [Pub. L. 105–392][/us/pl/105/392], § 302(b)(2)–(4), redesignated subsec. (b) as (a), substituted “third or subsequent year” for “third year” in pars. (1)(C) and (2)(C), and struck out heading and text of former subsec. (a). Text read as follows: “The period during which payments are made to a State from a grant under [section 280c–3(a) of this title][/us/usc/t42/s280c–3/a] may not exceed 3 years. Such payments shall be subject to annual evaluation by the Secretary.”
 
-    Subsecs. (b), (c). [Pub. L. 105–392, § 302(b)(3)][/us/pl/105/392/s302/b/3], redesignated subsecs. (b) and (c) as (a) and (b), respectively.
+    Subsecs. (b), (c). [Pub. L. 105–392][/us/pl/105/392], § 302(b)(3), redesignated subsecs. (b) and (c) as (a) and (b), respectively.
 
 ----------
 
@@ -59,15 +59,15 @@
 [/us/usc/t42/s280c–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280c%E2%80%933%2Fa
 [/us/usc/t42/s280c–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280c%E2%80%933%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/175/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs602
+[/us/pl/100/175/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtVI
 [/us/stat/101/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F982
-[/us/pl/102/321/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs502%2F1
+[/us/pl/102/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtV
 [/us/stat/106/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F427
-[/us/pl/105/392/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs302%2Fb
+[/us/pl/105/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIII
 [/us/stat/112/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3586
-[/us/pl/105/392/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs302%2Fb%2F1
-[/us/pl/105/392/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs302%2Fb%2F2
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/usc/t42/s280c–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280c%E2%80%933%2Fa
-[/us/pl/105/392/s302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs302%2Fb%2F3
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 
 

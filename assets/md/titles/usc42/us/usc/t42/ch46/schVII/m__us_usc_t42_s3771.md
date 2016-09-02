@@ -45,7 +45,7 @@
 
         (2) the term “railroad police officer” means a peace officer who is commissioned in his or her State of legal residence or State of primary employment and employed by a rail carrier to enforce State laws for the protection of railroad property, personnel, passengers, or cargo.
 
-([Pub. L. 90–351, title I, § 701][/us/pl/90/351/s701], as added [Pub. L. 98–473, title II, § 609A(a)][/us/pl/98/473/s609A/a], Oct. 12, 1984, [98 Stat. 2090][/us/stat/98/2090]; amended [Pub. L. 106–110, § 1][/us/pl/106/110/s1], Nov. 24, 1999, [113 Stat. 1497][/us/stat/113/1497].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 701, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609A(a), Oct. 12, 1984, [98 Stat. 2090][/us/stat/98/2090]; amended [Pub. L. 106–110][/us/pl/106/110], § 1, Nov. 24, 1999, [113 Stat. 1497][/us/stat/113/1497].)
 
  __Codification__ 
 
@@ -53,37 +53,37 @@
 
  __Prior Provisions__ 
 
-    A prior section 3771, [Pub. L. 90–351, title I, § 701][/us/pl/90/351/s701], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1198][/us/stat/93/1198], contained Congressional statement of purpose for training and manpower development, prior to the general amendment of this subchapter by [Pub. L. 98–473][/us/pl/98/473].
+    A prior section 3771, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 701, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1198][/us/stat/93/1198], contained Congressional statement of purpose for training and manpower development, prior to the general amendment of this subchapter by [Pub. L. 98–473][/us/pl/98/473].
 
     For another prior section 3771, see note set out preceding [section 3750 of this title][/us/usc/t42/s3750].
 
-    A prior [section 701 of Pub. L. 90–351][/us/pl/90/351/s701], title I, as added [Pub. L. 94–430, § 2][/us/pl/94/430/s2], Sept. 29, 1976, [90 Stat. 1346][/us/stat/90/1346], provided for payments of Public safety officers’ death benefits and was classified to former [section 3796 of this title][/us/usc/t42/s3796], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    A prior [section 701 of Pub. L. 90–351][/us/pl/90/351/s701], title I, as added [Pub. L. 94–430][/us/pl/94/430], § 2, Sept. 29, 1976, [90 Stat. 1346][/us/stat/90/1346], provided for payments of Public safety officers’ death benefits and was classified to former [section 3796 of this title][/us/usc/t42/s3796], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
-    Prior sections 3772 to 3775 were omitted in the general revision of this subchapter by [Pub. L. 98–473, title II, § 609A(a)][/us/pl/98/473/s609A/a], Oct. 12, 1984, [98 Stat. 2090][/us/stat/98/2090].
+    Prior sections 3772 to 3775 were omitted in the general revision of this subchapter by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609A(a), Oct. 12, 1984, [98 Stat. 2090][/us/stat/98/2090].
 
-    Section 3772, [Pub. L. 90–351, title I, § 702][/us/pl/90/351/s702], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1198][/us/stat/93/1198], provided for a program to train prosecuting attorneys.
+    Section 3772, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 702, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1198][/us/stat/93/1198], provided for a program to train prosecuting attorneys.
 
-    A prior [section 702 of Pub. L. 90–351][/us/pl/90/351/s702], title I, as added [Pub. L. 94–430, § 2][/us/pl/94/430/s2], Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], provided limits on the payment of public safety officers’ death benefits and was classified to former [section 3796a of this title][/us/usc/t42/s3796a], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    A prior [section 702 of Pub. L. 90–351][/us/pl/90/351/s702], title I, as added [Pub. L. 94–430][/us/pl/94/430], § 2, Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], provided limits on the payment of public safety officers’ death benefits and was classified to former [section 3796a of this title][/us/usc/t42/s3796a], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
-    Section 3773, [Pub. L. 90–351, title I, § 703][/us/pl/90/351/s703], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1198][/us/stat/93/1198], provided for a program to train State and local criminal justice personnel.
+    Section 3773, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 703, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1198][/us/stat/93/1198], provided for a program to train State and local criminal justice personnel.
 
-    A prior [section 703 of Pub. L. 90–351][/us/pl/90/351/s703], as added [Pub. L. 94–430, § 2][/us/pl/94/430/s2], Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], defined the terms used in the provisions for public safety officers’ death benefits and was classified to former [section 3796b of this title][/us/usc/t42/s3796b], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    A prior [section 703 of Pub. L. 90–351][/us/pl/90/351/s703], as added [Pub. L. 94–430][/us/pl/94/430], § 2, Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], defined the terms used in the provisions for public safety officers’ death benefits and was classified to former [section 3796b of this title][/us/usc/t42/s3796b], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
-    Section 3774, [Pub. L. 90–351, title I, § 704][/us/pl/90/351/s704], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1199][/us/stat/93/1199], related to the training of State and local criminal justice personnel by the Federal Bureau of Investigation.
+    Section 3774, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 704, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1199][/us/stat/93/1199], related to the training of State and local criminal justice personnel by the Federal Bureau of Investigation.
 
-    A prior [section 704 of Pub. L. 96–351][/us/pl/96/351/s704], title I, as added [Pub. L. 94–430, § 2][/us/pl/94/430/s2], Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], provided for the administration of the program of public safety officers’ death benefits and was classified to former [section 3796c of this title][/us/usc/t42/s3796c], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    A prior [section 704 of Pub. L. 96–351][/us/pl/96/351/s704], title I, as added [Pub. L. 94–430][/us/pl/94/430], § 2, Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], provided for the administration of the program of public safety officers’ death benefits and was classified to former [section 3796c of this title][/us/usc/t42/s3796c], prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
-    Section 3775, [Pub. L. 90–351, title I, § 705][/us/pl/90/351/s705], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1199][/us/stat/93/1199]; amended [Pub. L. 96–88, title III][/us/pl/96/88], §§ 301(a)(1), 305, title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 680, 692, authorized a criminal justice education program.
+    Section 3775, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 705, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1199][/us/stat/93/1199]; amended [Pub. L. 96–88, title III][/us/pl/96/88/tIII], §§ 301(a)(1), 305, title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 680, 692, authorized a criminal justice education program.
 
     For other prior sections 3772 to 3774, see note set out preceding [section 3750 of this title][/us/usc/t42/s3750].
 
  __Amendments__ 
 
-    1999—Subsec. (a)(1). [Pub. L. 106–110, § 1(a)(1)][/us/pl/106/110/s1/a/1], substituted “State, unit of local government, or rail carrier” for “State or unit of local government” and inserted “, including railroad police officers” before semicolon at end.
+    1999—Subsec. (a)(1). [Pub. L. 106–110][/us/pl/106/110], § 1(a)(1), substituted “State, unit of local government, or rail carrier” for “State or unit of local government” and inserted “, including railroad police officers” before semicolon at end.
 
-    Subsec. (a)(3). [Pub. L. 106–110, § 1(a)(2)][/us/pl/106/110/s1/a/2], substituted “State, unit of local government, or rail carrier” for “State or unit of local government”, “State or such unit”, and “State or unit” and inserted “railroad police officer,” after “deputies,”.
+    Subsec. (a)(3). [Pub. L. 106–110][/us/pl/106/110], § 1(a)(2), substituted “State, unit of local government, or rail carrier” for “State or unit of local government”, “State or such unit”, and “State or unit” and inserted “railroad police officer,” after “deputies,”.
 
-    Subsecs. (d), (e). [Pub. L. 106–110, § 1(b)][/us/pl/106/110/s1/b], (c), added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 106–110][/us/pl/106/110], § 1(b), (c), added subsecs. (d) and (e).
 
  __Effective Date__ 
 
@@ -95,7 +95,7 @@
 
  __Employment of Annuitants by Federal Law Enforcement Training Center__ 
 
-[Pub. L. 107–206, title I, § 1202][/us/pl/107/206/s1202], Aug. 2, 2002, [116 Stat. 887][/us/stat/116/887], as amended by [Pub. L. 109–295, title IV][/us/pl/109/295], Oct. 4, 2006, [120 Stat. 1374][/us/stat/120/1374]; [Pub. L. 110–161, div. E, title IV][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2068][/us/stat/121/2068]; [Pub. L. 110–329, div. D, title IV][/us/pl/110/329], Sept. 30, 2008, [122 Stat. 3677][/us/stat/122/3677]; [Pub. L. 111–83, title IV][/us/pl/111/83], Oct. 28, 2009, [123 Stat. 2166][/us/stat/123/2166]; [Pub. L. 112–74, div. D, title IV][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 966][/us/stat/125/966]; [Pub. L. 113–6, div. D, title IV][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 364][/us/stat/127/364]; [Pub. L. 113–76, div. F, title IV][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 266][/us/stat/128/266]; [Pub. L. 114–4, title IV][/us/pl/114/4], Mar. 4, 2015, [129 Stat. 59][/us/stat/129/59]; [Pub. L. 114–113, div. F, title IV][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2509][/us/stat/129/2509], provided that:
+[Pub. L. 107–206, title I][/us/pl/107/206/tI], § 1202, Aug. 2, 2002, [116 Stat. 887][/us/stat/116/887], as amended by [Pub. L. 109–295, title IV][/us/pl/109/295/tIV], Oct. 4, 2006, [120 Stat. 1374][/us/stat/120/1374]; [Pub. L. 110–161, div. E, title IV][/us/pl/110/161/dE/tIV], Dec. 26, 2007, [121 Stat. 2068][/us/stat/121/2068]; [Pub. L. 110–329, div. D, title IV][/us/pl/110/329/dD/tIV], Sept. 30, 2008, [122 Stat. 3677][/us/stat/122/3677]; [Pub. L. 111–83, title IV][/us/pl/111/83/tIV], Oct. 28, 2009, [123 Stat. 2166][/us/stat/123/2166]; [Pub. L. 112–74, div. D, title IV][/us/pl/112/74/dD/tIV], Dec. 23, 2011, [125 Stat. 966][/us/stat/125/966]; [Pub. L. 113–6, div. D, title IV][/us/pl/113/6/dD/tIV], Mar. 26, 2013, [127 Stat. 364][/us/stat/127/364]; [Pub. L. 113–76, div. F, title IV][/us/pl/113/76/dF/tIV], Jan. 17, 2014, [128 Stat. 266][/us/stat/128/266]; [Pub. L. 114–4, title IV][/us/pl/114/4/tIV], Mar. 4, 2015, [129 Stat. 59][/us/stat/129/59]; [Pub. L. 114–113, div. F, title IV][/us/pl/114/113/dF/tIV], Dec. 18, 2015, [129 Stat. 2509][/us/stat/129/2509], provided that:
 
 >     “(a) The Federal Law Enforcement Training Center may, for a period ending not later than December 31, 2018, appoint and maintain a cadre of up to 350 Federal annuitants: (1) without regard to any provision of title 5, United States Code, which might otherwise require the application of competitive hiring procedures; and (2) who shall not be subject to any reduction in pay (for annuity allocable to the period of actual employment) under the provisions of section 8344 or 8468 of such title 5 or similar provision of any other retirement system for employees. A reemployed Federal annuitant as to whom a waiver of reduction under paragraph (2) applies shall not, for any period during which such waiver is in effect, be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in paragraph (2)) as may apply.
 
@@ -113,17 +113,17 @@
 
  __Annual Outstanding Student Award__ 
 
-    [Pub. L. 107–67, title I][/us/pl/107/67], Nov. 12, 2001, [115 Stat. 516][/us/stat/115/516], and similar provisions authorizing the Federal Law Enforcement Training Center to use gifts of property for authorized purposes, including funding of an annual gift to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, were transferred to a note set out under [section 464 of Title 6][/us/usc/t6/s464], Domestic Security.
+    [Pub. L. 107–67, title I][/us/pl/107/67/tI], Nov. 12, 2001, [115 Stat. 516][/us/stat/115/516], and similar provisions authorizing the Federal Law Enforcement Training Center to use gifts of property for authorized purposes, including funding of an annual gift to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, were transferred to a note set out under [section 464 of Title 6][/us/usc/t6/s464], Domestic Security.
 
  __Travel and Subsistence Expenses of State and Local Law Enforcement Officers Attending Meetings, Courses, Etc., at FBI National Academy__ 
 
-[Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title II\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–48, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title II\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–48, provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title II\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–48, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title II\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–48, provided that: 
 
 > “Notwithstanding [section 1345 of title 31][/us/usc/t31/s1345], United States Code, funds made available to the Drug Enforcement Administration in any fiscal year may be used for travel, transportation, and subsistence expenses of State, county, and local law enforcement officers attending conferences, meetings, and training courses at the FBI Academy, Quantico, Virginia.”
 
  __Fees To Provide Training for State and Local Law Enforcement Officers at FBI National Academy; Prohibition; Reimbursement__ 
 
-[Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title II, § 210\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–56, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title II, § 210\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–56, provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title II, § 210\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–56, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title II, § 210\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–56, provided that: 
 
 > “The Director of the Federal Bureau of Investigation and the Administrator of the Drug Enforcement Administration shall not establish and collect fees to provide training to State and local law enforcement officers at the FBI National Academy. Any fees collected for training of State and local law enforcement officers, which occurred at the National Academy on or after October 1, 1986, shall be reimbursed to the appropriate official or agency. In addition, the Director of the National Institute of Corrections shall not establish and collect fees to provide training to State and local officers which was not provided on a reimbursable basis prior to October 1, 1986.”
 
@@ -135,92 +135,92 @@
 ----------
 
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/90/351/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs701
-[/us/pl/98/473/s609A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609A%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2090
-[/us/pl/106/110/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110%2Fs1
+[/us/pl/106/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110
 [/us/stat/113/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1497
 [/us/pl/90/351/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs701
 [/us/stat/82/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F210
-[/us/pl/90/351/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs701
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1198
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
 [/us/pl/90/351/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs701
-[/us/pl/94/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430%2Fs2
+[/us/pl/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430
 [/us/stat/90/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1346
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
-[/us/pl/98/473/s609A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609A%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2090
-[/us/pl/90/351/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs702
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1198
 [/us/pl/90/351/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs702
-[/us/pl/94/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430%2Fs2
+[/us/pl/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430
 [/us/stat/90/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1347
 [/us/usc/t42/s3796a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796a
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
-[/us/pl/90/351/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs703
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1198
 [/us/pl/90/351/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs703
-[/us/pl/94/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430%2Fs2
+[/us/pl/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430
 [/us/stat/90/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1347
 [/us/usc/t42/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
-[/us/pl/90/351/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs704
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1199
 [/us/pl/96/351/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F351%2Fs704
-[/us/pl/94/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430%2Fs2
+[/us/pl/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430
 [/us/stat/90/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1347
 [/us/usc/t42/s3796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796c
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
-[/us/pl/90/351/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs705
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1199
-[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
-[/us/pl/106/110/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110%2Fs1%2Fa%2F1
-[/us/pl/106/110/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110%2Fs1%2Fa%2F2
-[/us/pl/106/110/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110%2Fs1%2Fb
+[/us/pl/106/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110
+[/us/pl/106/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110
+[/us/pl/106/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110
 [/us/pl/98/473/s609AA/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609AA%2Fa
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/206/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs1202
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F887
-[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtIV
 [/us/stat/120/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1374
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtIV
 [/us/stat/121/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2068
-[/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
+[/us/pl/110/329/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdD%2FtIV
 [/us/stat/122/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3677
-[/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
+[/us/pl/111/83/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtIV
 [/us/stat/123/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2166
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtIV
 [/us/stat/125/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F966
-[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/pl/113/6/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtIV
 [/us/stat/127/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F364
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdF%2FtIV
 [/us/stat/128/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F266
-[/us/pl/114/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4
+[/us/pl/114/4/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2FtIV
 [/us/stat/129/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F59
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdF%2FtIV
 [/us/stat/129/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2509
-[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtI
 [/us/stat/115/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F516
 [/us/usc/t6/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs464
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 [/us/usc/t31/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1345
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 
 

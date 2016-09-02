@@ -39,7 +39,7 @@
 
             In the case of a family in which more than 1 member is an organ donor, a medal may be presented for each such organ donor.
 
-([Pub. L. 110–413, § 2][/us/pl/110/413/s2], Oct. 14, 2008, [122 Stat. 4338][/us/stat/122/4338].)
+([Pub. L. 110–413][/us/pl/110/413], § 2, Oct. 14, 2008, [122 Stat. 4338][/us/stat/122/4338].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t42/s274i–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274i%E2%80%932
-[/us/pl/110/413/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413%2Fs2
+[/us/pl/110/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413
 [/us/stat/122/4338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4338
 
 

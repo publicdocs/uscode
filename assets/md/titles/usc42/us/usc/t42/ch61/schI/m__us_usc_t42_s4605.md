@@ -45,7 +45,7 @@
 
         Nothing in this section affects any right available to a displaced person under any other provision of Federal or State law.
 
-([Pub. L. 91–646, title I, § 104][/us/pl/91/646/s104], as added [Pub. L. 105–117, § 1][/us/pl/105/117/s1], Nov. 21, 1997, [111 Stat. 2384][/us/stat/111/2384].)
+([Pub. L. 91–646, title I][/us/pl/91/646/tI], § 104, as added [Pub. L. 105–117][/us/pl/105/117], § 1, Nov. 21, 1997, [111 Stat. 2384][/us/stat/111/2384].)
 
  __References in Text__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/91/646/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs104
-[/us/pl/105/117/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F117%2Fs1
+[/us/pl/91/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtI
+[/us/pl/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F117
 [/us/stat/111/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2384
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

@@ -35,7 +35,7 @@
 
         With the approval of the Council, the Executive Director of the Council may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b].
 
-([Pub. L. 100–77, title II, § 204][/us/pl/100/77/s204], July 22, 1987, [101 Stat. 488][/us/stat/101/488].)
+([Pub. L. 100–77, title II][/us/pl/100/77/tII], § 204, July 22, 1987, [101 Stat. 488][/us/stat/101/488].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t42/s11312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11312%2Fc
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/100/77/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs204
+[/us/pl/100/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtII
 [/us/stat/101/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F488
 
 

@@ -47,7 +47,7 @@
 
         (2) such person relied in good faith upon rules, regulations, or ruling in effect on the date of the violation interpreting such rules or regulations.
 
-([Pub. L. 95–91, title V, § 503][/us/pl/95/91/s503], Aug. 4, 1977, [91 Stat. 590][/us/stat/91/590]; [Pub. L. 95–620, title VIII, § 805][/us/pl/95/620/s805], Nov. 9, 1978, [92 Stat. 3348][/us/stat/92/3348].)
+([Pub. L. 95–91, title V][/us/pl/95/91/tV], § 503, Aug. 4, 1977, [91 Stat. 590][/us/stat/91/590]; [Pub. L. 95–620, title VIII][/us/pl/95/620/tVIII], § 805, Nov. 9, 1978, [92 Stat. 3348][/us/stat/92/3348].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    1978—Subsecs. (e), (f). [Pub. L. 95–620, § 805(b)][/us/pl/95/620/s805/b], inserted “preceding provisions of” before “this section”.
+    1978—Subsecs. (e), (f). [Pub. L. 95–620][/us/pl/95/620], § 805(b), inserted “preceding provisions of” before “this section”.
 
-    Subsec. (g). [Pub. L. 95–620, § 805(a)][/us/pl/95/620/s805/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–620][/us/pl/95/620], § 805(a), added subsec. (g).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -72,15 +72,15 @@
 
 [/us/usc/t42/s7191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191%2Fa
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
-[/us/pl/95/91/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs503
+[/us/pl/95/91/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtV
 [/us/stat/91/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F590
-[/us/pl/95/620/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs805
+[/us/pl/95/620/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVIII
 [/us/stat/92/3348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3348
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
-[/us/pl/95/620/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs805%2Fb
-[/us/pl/95/620/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs805%2Fa
+[/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
+[/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301

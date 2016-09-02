@@ -25,7 +25,7 @@
 
         To identify, coordinate, and develop housing assistance resources (including conducting preliminary research and making expenditures necessary to determine the feasibility of specific housing-related initiatives) for eligible persons.
 
-([Pub. L. 101–625, title VIII, § 857][/us/pl/101/625/s857], Nov. 28, 1990, [104 Stat. 4379][/us/stat/104/4379]; [Pub. L. 102–550, title VI, § 606(j)(11)(B)][/us/pl/102/550/s606/j/11/B], Oct. 28, 1992, [106 Stat. 3811][/us/stat/106/3811].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 857, Nov. 28, 1990, [104 Stat. 4379][/us/stat/104/4379]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(j)(11)(B), Oct. 28, 1992, [106 Stat. 3811][/us/stat/106/3811].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs857
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4379
-[/us/pl/102/550/s606/j/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F11%2FB
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3811
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

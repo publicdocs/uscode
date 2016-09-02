@@ -17,7 +17,7 @@
 
     The Trust shall terminate September 30, 1994.
 
-([Pub. L. 101–625, title III, § 310][/us/pl/101/625/s310], Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133]; [Pub. L. 102–550, title I, § 182(a)][/us/pl/102/550/s182/a], Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 310, Nov. 28, 1990, [104 Stat. 4133][/us/stat/104/4133]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 182(a), Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs310
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4133
-[/us/pl/102/550/s182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs182%2Fa
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3736
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

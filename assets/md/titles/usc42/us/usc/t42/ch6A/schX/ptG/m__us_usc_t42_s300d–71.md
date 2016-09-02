@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2015 through 2019 for the maintenance of the nationwide toll free phone number under subsection (a).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1271, as added [Pub. L. 108–194, § 3][/us/pl/108/194/s3], Dec. 19, 2003, [117 Stat. 2889][/us/stat/117/2889]; amended [Pub. L. 110–377, § 3][/us/pl/110/377/s3], Oct. 8, 2008, [122 Stat. 4064][/us/stat/122/4064]; [Pub. L. 113–77, § 2][/us/pl/113/77/s2], Jan. 24, 2014, [128 Stat. 644][/us/stat/128/644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1271, as added [Pub. L. 108–194][/us/pl/108/194], § 3, Dec. 19, 2003, [117 Stat. 2889][/us/stat/117/2889]; amended [Pub. L. 110–377][/us/pl/110/377], § 3, Oct. 8, 2008, [122 Stat. 4064][/us/stat/122/4064]; [Pub. L. 113–77][/us/pl/113/77], § 2, Jan. 24, 2014, [128 Stat. 644][/us/stat/128/644].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Findings__ 
 
-[Pub. L. 110–377, § 2][/us/pl/110/377/s2], Oct. 8, 2008, [122 Stat. 4063][/us/stat/122/4063], provided that: 
+[Pub. L. 110–377][/us/pl/110/377], § 2, Oct. 8, 2008, [122 Stat. 4063][/us/stat/122/4063], provided that: 
 
 > “Congress makes the following findings:
 
@@ -53,7 +53,7 @@
 
 >     “(8) In the event of a terrorist event, poison control centers will be relied upon as a critical source for accurate medical information and public health emergency response concerning the treatment of patients who have had an exposure to a chemical, radiological, or biological agent.”
 
-[Pub. L. 108–194, § 2][/us/pl/108/194/s2], Dec. 19, 2003, [117 Stat. 2888][/us/stat/117/2888], provided that: 
+[Pub. L. 108–194][/us/pl/108/194], § 2, Dec. 19, 2003, [117 Stat. 2888][/us/stat/117/2888], provided that: 
 
 > “The Congress finds the following:
 
@@ -77,20 +77,20 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194%2Fs3
+[/us/pl/108/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194
 [/us/stat/117/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2889
-[/us/pl/110/377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377%2Fs3
+[/us/pl/110/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377
 [/us/stat/122/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4064
-[/us/pl/113/77/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs2
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
 [/us/stat/128/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F644
 [/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
 [/us/pl/110/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377
-[/us/pl/110/377/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377%2Fs2
+[/us/pl/110/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377
 [/us/stat/122/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4063
 [/us/pl/108/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/108/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194
-[/us/pl/108/194/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194%2Fs2
+[/us/pl/108/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194
 [/us/stat/117/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2888
 
 

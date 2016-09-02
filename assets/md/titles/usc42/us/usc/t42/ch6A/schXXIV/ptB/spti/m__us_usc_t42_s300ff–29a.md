@@ -73,7 +73,7 @@
 
         The authority to make grants under this section applies beginning with the first fiscal year for which amounts are made available for such grants under [section 300ff–31b(b)(1) of this title][/us/usc/t42/s300ff–31b/b/1].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2620, as added and amended [Pub. L. 109–415, title II, § 205(2)][/us/pl/109/415/s205/2], title VII, § 703, Dec. 19, 2006, [120 Stat. 2797][/us/stat/120/2797], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), 5(c)(2), 8(a)(2), (b)(2)(D), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2891, 2893, 2894.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2620, as added and amended [Pub. L. 109–415, title II][/us/pl/109/415/tII], § 205(2), title VII, § 703, Dec. 19, 2006, [120 Stat. 2797][/us/stat/120/2797], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), 5(c)(2), 8(a)(2), (b)(2)(D), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2891, 2893, 2894.)
 
  __Prior Provisions__ 
 
@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
     Subsec. (a)(2). [Pub. L. 111–87][/us/pl/111/87], §§ 5(c)(2), 8(a)(2), (b)(2)(D), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)”, “5 percent” for “2 percent”, and “canceled, offset under [section 300ff–31a(e) of this title][/us/usc/t42/s300ff–31a/e],” for “canceled”.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -113,19 +113,19 @@
 [/us/usc/t42/s300ff–28/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9328%2Fa%2F1
 [/us/usc/t42/s300ff–31b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9331b%2Fb%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/415/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs205%2F2
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2797
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/usc/t42/s300ff–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9330
 [/us/usc/t42/s300ff–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9330
 [/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/usc/t42/s300ff–31a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9331a%2Fe
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

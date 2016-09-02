@@ -25,7 +25,7 @@
 
     (b) The National Science Foundation is authorized to encourage, to the maximum extent practicable and consistent with the other objectives of this subchapter, international participation and cooperation in the development and maintenance of programs of education to carry out the policy set forth in [section 5558 of this title][/us/usc/t42/s5558].
 
-([Pub. L. 93–473, § 11][/us/pl/93/473/s11], Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
+([Pub. L. 93–473][/us/pl/93/473], § 11, Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
 
  __Transfer of Functions__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s5558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5558
-[/us/pl/93/473/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs11
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1437
 [/us/usc/t42/s5814/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5814%2Ff
 

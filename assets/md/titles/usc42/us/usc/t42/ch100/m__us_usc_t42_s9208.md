@@ -31,7 +31,7 @@
 
         The Secretary shall assure, subject to [section 552 of title 5][/us/usc/t5/s552] and [section 1905 of title 18][/us/usc/t18/s1905], that full and complete information with respect to any program, project, or other activity conducted under this chapter is made available to Federal, State, and local authorities, relevant segments of the economy, the scientific community, and the public so that the early, widespread, and practical use of wind energy throughout the United States is promoted to the maximum extent feasible.
 
-([Pub. L. 96–345, § 9][/us/pl/96/345/s9], Sept. 8, 1980, [94 Stat. 1144][/us/stat/94/1144]; [Pub. L. 104–66, title I, § 1051(b)][/us/pl/104/66/s1051/b], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
+([Pub. L. 96–345][/us/pl/96/345], § 9, Sept. 8, 1980, [94 Stat. 1144][/us/stat/94/1144]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(b), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/96/345/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs9
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1144
-[/us/pl/104/66/s1051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 

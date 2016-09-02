@@ -27,7 +27,7 @@
 
         In the case of a nonattainment area that is included within more than one State, the affected States may jointly, through interstate compact or otherwise, undertake and implement all or part of the planning procedures described in this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 174, as added [Pub. L. 95–95, title I, § 129(b)][/us/pl/95/95/s129/b], Aug. 7, 1977, [91 Stat. 748][/us/stat/91/748]; amended [Pub. L. 101–549, title I, § 102(d)][/us/pl/101/549/s102/d], Nov. 15, 1990, [104 Stat. 2417][/us/stat/104/2417].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 174, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(b), Aug. 7, 1977, [91 Stat. 748][/us/stat/91/748]; amended [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 102(d), Nov. 15, 1990, [104 Stat. 2417][/us/stat/104/2417].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 [/us/usc/t42/s7408/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408%2Fe
 [/us/usc/t23/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F748
-[/us/pl/101/549/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Fd
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2417
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 

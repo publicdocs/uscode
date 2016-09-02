@@ -17,7 +17,7 @@
 
     A petition for review of a regulation under this part may be filed in a court of appeals of the United States within 60 days from the date of the promulgation of the regulation or after such date if such petition is based solely on grounds arising after such 60th day.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2132, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3778][/us/stat/100/3778].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2132, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3778][/us/stat/100/3778].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3778
 
 

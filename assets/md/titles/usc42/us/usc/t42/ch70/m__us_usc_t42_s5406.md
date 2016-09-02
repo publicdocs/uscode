@@ -31,19 +31,19 @@
 
         Nothing in this section shall be construed to restrict the authority of the Secretary to obtain or require submission of information under any other provision of this chapter.
 
-([Pub. L. 93–383, title VI, § 607][/us/pl/93/383/s607], Aug. 22, 1974, [88 Stat. 703][/us/stat/88/703]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI, § 606][/us/pl/106/569/s606], Dec. 27, 2000, [114 Stat. 3009][/us/stat/114/3009].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 607, Aug. 22, 1974, [88 Stat. 703][/us/stat/88/703]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 606, Dec. 27, 2000, [114 Stat. 3009][/us/stat/114/3009].)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–569, § 606(1)][/us/pl/106/569/s606/1], inserted “to the Secretary” after “manufacturer shall submit” and inserted at end “The Secretary shall submit such cost and other information to the consensus committee for evaluation.”
+    2000—Subsec. (a). [Pub. L. 106–569][/us/pl/106/569], § 606(1), inserted “to the Secretary” after “manufacturer shall submit” and inserted at end “The Secretary shall submit such cost and other information to the consensus committee for evaluation.”
 
-    Subsec. (c). [Pub. L. 106–569, § 606(3)][/us/pl/106/569/s606/3], redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Secretary proposes to establish, amend, or revoke a Federal manufactured home construction and safety standard under [section 5403 of this title][/us/usc/t42/s5403] on the basis of information submitted pursuant to subsection (a) of this section, he shall publish a notice of such proposed action, together with the reasons therefor, in the Federal Register at least thirty days in advance of making a final determination, in order to allow interested parties an opportunity to comment.”
+    Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 606(3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Secretary proposes to establish, amend, or revoke a Federal manufactured home construction and safety standard under [section 5403 of this title][/us/usc/t42/s5403] on the basis of information submitted pursuant to subsection (a) of this section, he shall publish a notice of such proposed action, together with the reasons therefor, in the Federal Register at least thirty days in advance of making a final determination, in order to allow interested parties an opportunity to comment.”
 
-    Subsec. (d). [Pub. L. 106–569, § 606(3)][/us/pl/106/569/s606/3], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 106–569][/us/pl/106/569], § 606(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    [Pub. L. 106–569, § 606(2)][/us/pl/106/569/s606/2], inserted “, the consensus committee,” after “permit the public”.
+    [Pub. L. 106–569][/us/pl/106/569], § 606(2), inserted “, the consensus committee,” after “permit the public”.
 
-    Subsec. (e). [Pub. L. 106–569, § 606(3)][/us/pl/106/569/s606/3], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 106–569][/us/pl/106/569], § 606(3), redesignated subsec. (e) as (d).
 
     1980—Subsec. (c). [Pub. L. 96–399][/us/pl/96/399] substituted “manufactured home” for “mobile home”.
 
@@ -59,18 +59,18 @@
 ----------
 
 [/us/usc/t42/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403
-[/us/pl/93/383/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs607
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F703
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/106/569/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs606
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3009
-[/us/pl/106/569/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs606%2F1
-[/us/pl/106/569/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs606%2F3
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t42/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403
-[/us/pl/106/569/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs606%2F3
-[/us/pl/106/569/s606/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs606%2F2
-[/us/pl/106/569/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs606%2F3
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

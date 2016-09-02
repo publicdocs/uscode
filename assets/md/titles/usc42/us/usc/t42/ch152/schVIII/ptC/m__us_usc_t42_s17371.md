@@ -79,7 +79,7 @@
 
         (3) the number and qualification of personnel in each embassy (or relevant foreign posting) of the United States whose work is dedicated exclusively to energy matters.
 
-([Pub. L. 110–140, title IX, § 931][/us/pl/110/140/s931], Dec. 19, 2007, [121 Stat. 1739][/us/stat/121/1739].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 931, Dec. 19, 2007, [121 Stat. 1739][/us/stat/121/1739].)
 
 ----------
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs931
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1739
 
 

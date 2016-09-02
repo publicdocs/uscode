@@ -69,7 +69,7 @@
 
             On and after the effective date of the Manufactured Housing Improvement Act of 2000, the Secretary shall continue to fund the States having approved State plans in the amounts which are not less than the allocated amounts, based on the fee distribution system in effect on the day before such effective date.
 
-([Pub. L. 93–383, title VI, § 620][/us/pl/93/383/s620], Aug. 22, 1974, [88 Stat. 712][/us/stat/88/712]; [Pub. L. 96–153, title III, § 320][/us/pl/96/153/s320], Dec. 21, 1979, [93 Stat. 1119][/us/stat/93/1119]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI, § 609][/us/pl/106/569/s609], Dec. 27, 2000, [114 Stat. 3010][/us/stat/114/3010].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 620, Aug. 22, 1974, [88 Stat. 712][/us/stat/88/712]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 320, Dec. 21, 1979, [93 Stat. 1119][/us/stat/93/1119]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 609, Dec. 27, 2000, [114 Stat. 3010][/us/stat/114/3010].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Manufactured Housing__ 
 
-[Pub. L. 107–18, § 1][/us/pl/107/18/s1], July 5, 2001, [115 Stat. 152][/us/stat/115/152], provided that:
+[Pub. L. 107–18][/us/pl/107/18], § 1, July 5, 2001, [115 Stat. 152][/us/stat/115/152], provided that:
 
 >     “(a)  __Availability of Fees__  __.—__ 
 
@@ -114,13 +114,13 @@
 [/us/usc/t42/s5422/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5422%2Fc%2F12
 [/us/usc/t42/s5422/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5422%2Fg%2F2
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/93/383/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs620
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F712
-[/us/pl/96/153/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs320
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1119
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/106/569/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs609
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3010
 [/us/pl/106/569/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs612
 [/us/usc/t42/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5401
@@ -132,7 +132,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/106/569/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs612
 [/us/usc/t42/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5401
-[/us/pl/107/18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F18%2Fs1
+[/us/pl/107/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F18
 [/us/stat/115/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F152
 [/us/usc/t42/s5419/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5419%2Fe%2F2
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701

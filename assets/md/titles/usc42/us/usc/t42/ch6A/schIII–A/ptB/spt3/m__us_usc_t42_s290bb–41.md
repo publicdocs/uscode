@@ -55,7 +55,7 @@
 
             There is authorized to be appropriated to carry out this subsection, $25,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520J, as added [Pub. L. 106–310, div. B, title XXXII, § 3213][/us/pl/106/310/s3213], Oct. 17, 2000, [114 Stat. 1206][/us/stat/114/1206].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520J, as added [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3213, Oct. 17, 2000, [114 Stat. 1206][/us/stat/114/1206].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3213
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1206
 
 

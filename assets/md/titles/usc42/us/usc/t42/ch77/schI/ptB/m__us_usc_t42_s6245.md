@@ -39,7 +39,7 @@
 
     (11) any recommendations for supplemental legislation or policy or operational changes the Secretary considers necessary or appropriate to implement this part.
 
-([Pub. L. 94–163, title I, § 165][/us/pl/94/163/s165], Dec. 22, 1975, [89 Stat. 889][/us/stat/89/889]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 97–35, title X, § 1035(a)][/us/pl/97/35/s1035/a], Aug. 13, 1981, [95 Stat. 620][/us/stat/95/620]; [Pub. L. 99–509, title III, § 3203][/us/pl/99/509/s3203], Oct. 21, 1986, [100 Stat. 1890][/us/stat/100/1890]; [Pub. L. 104–66, title I, § 1051(j)][/us/pl/104/66/s1051/j], Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717]; [Pub. L. 106–469, title I, § 103(17)][/us/pl/106/469/s103/17], Nov. 9, 2000, [114 Stat. 2032][/us/stat/114/2032].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 165, Dec. 22, 1975, [89 Stat. 889][/us/stat/89/889]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1035(a), Aug. 13, 1981, [95 Stat. 620][/us/stat/95/620]; [Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3203, Oct. 21, 1986, [100 Stat. 1890][/us/stat/100/1890]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(j), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(17), Nov. 9, 2000, [114 Stat. 2032][/us/stat/114/2032].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Reports to Congress on Petroleum Supply Interruptions__ 
 
-[Pub. L. 97–229, § 6][/us/pl/97/229/s6], Aug. 3, 1982, [96 Stat. 253][/us/stat/96/253], provided that:
+[Pub. L. 97–229][/us/pl/97/229], § 6, Aug. 3, 1982, [96 Stat. 253][/us/stat/96/253], provided that:
 
 >     “(a)  __Impact Analysis__  __.—__ 
 
@@ -114,17 +114,17 @@
 ----------
 ----------
 
-[/us/pl/94/163/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs165
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F889
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/97/35/s1035/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1035%2Fa
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F620
-[/us/pl/99/509/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3203
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1890
-[/us/pl/104/66/s1051/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fj
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F717
-[/us/pl/106/469/s103/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F17
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2032
 [/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
@@ -134,7 +134,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1038
 [/us/usc/t42/s6240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6240
-[/us/pl/97/229/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs6
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/stat/96/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F253
 [/us/pl/97/229/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs4%2Fc
 [/us/usc/t42/s6234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6234

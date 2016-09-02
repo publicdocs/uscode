@@ -17,7 +17,7 @@
 
     The Administrator, when authorized in an appropriation Act, may, in any fiscal year, transfer funds from one appropriation to another within the Administration; except, that no appropriation shall be either increased or decreased pursuant to this section by more than 5 per centum of the appropriation for such fiscal year.
 
-([Pub. L. 93–438, title III, § 309][/us/pl/93/438/s309], Oct. 11, 1974, [88 Stat. 1252][/us/stat/88/1252].)
+([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 309, Oct. 11, 1974, [88 Stat. 1252][/us/stat/88/1252].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs309
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1252
 
 

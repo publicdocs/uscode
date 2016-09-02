@@ -31,7 +31,7 @@
 
         The allotments of any State under subsection (a) of this section for the fiscal year ending June 30, 1971, and the succeeding fiscal year shall also be available to guarantee loans with respect to any project, for modernization or construction of a nonprofit private hospital or other health facility referred to in [section 291j–1(a)(1) of this title][/us/usc/t42/s291j–1/a/1], if the modernization or construction of such facility was not commenced earlier than January 1, 1968, and if the State certifies and the Secretary finds that without such guaranteed loan such facility could not be completed and begin to operate or could not continue to operate, but with such guaranteed loan would be able to do so: Provided, That this subsection shall not apply to more than two projects in any one State.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 622, as added [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 345][/us/stat/84/345].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 622, as added [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 345][/us/stat/84/345].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t42/s291j–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%931%2Fa
 [/us/usc/t42/s291j–1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%931%2Fa%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F345
 
 

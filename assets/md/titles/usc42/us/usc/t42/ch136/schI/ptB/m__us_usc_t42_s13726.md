@@ -27,7 +27,7 @@
 
     (5) While most governmental entities may prefer to use, and will continue to use, fully trained and sworn law enforcement officers when transporting violent prisoners, fiscal or logistical concerns may make the use of highly specialized private prisoner transport companies an option. Nothing in sections 13726 to 13726c of this title should be construed to mean that governmental entities should contract with private prisoner transport companies to move violent prisoners; however when a government entity opts to use a private prisoner transport company to move violent prisoners, then the company should be subject to regulation in order to enhance public safety.
 
-([Pub. L. 106–560, § 2][/us/pl/106/560/s2], Dec. 21, 2000, [114 Stat. 2784][/us/stat/114/2784].)
+([Pub. L. 106–560][/us/pl/106/560], § 2, Dec. 21, 2000, [114 Stat. 2784][/us/stat/114/2784].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/560/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560%2Fs2
+[/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2784
 [/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2784

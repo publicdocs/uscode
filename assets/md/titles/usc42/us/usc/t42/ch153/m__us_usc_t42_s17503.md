@@ -17,7 +17,7 @@
 
     Not later than January 31 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives each report required by the Attorney General under this Act or an amendment made by this Act during the preceding year.
 
-([Pub. L. 110–199, § 5][/us/pl/110/199/s5], Apr. 9, 2008, [122 Stat. 660][/us/stat/122/660].)
+([Pub. L. 110–199][/us/pl/110/199], § 5, Apr. 9, 2008, [122 Stat. 660][/us/stat/122/660].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@ This Act, referred to in text, is [Pub. L. 110–199][/us/pl/110/199], Apr. 9, 2
 ----------
 ----------
 
-[/us/pl/110/199/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs5
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F660
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F657

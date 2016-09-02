@@ -35,7 +35,7 @@
 
         The Attorney General may make such rules and regulations as may be necessary to carry out this Act.
 
-([Pub. L. 106–468, § 2][/us/pl/106/468/s2], Nov. 9, 2000, [114 Stat. 2027][/us/stat/114/2027].)
+([Pub. L. 106–468][/us/pl/106/468], § 2, Nov. 9, 2000, [114 Stat. 2027][/us/stat/114/2027].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 106–468, § 3][/us/pl/106/468/s3], Nov. 9, 2000, [114 Stat. 2028][/us/stat/114/2028], provided that: 
+[Pub. L. 106–468][/us/pl/106/468], § 3, Nov. 9, 2000, [114 Stat. 2028][/us/stat/114/2028], provided that: 
 
 > “There are authorized to be appropriated to carry out this Act \[enacting this section and provisions set out as a note under [section 14661 of this title][/us/usc/t42/s14661]\] $1,000,000 each year for fiscal years 2001 through 2004.”
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/106/468/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F468%2Fs2
+[/us/pl/106/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F468
 [/us/stat/114/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2027
 [/us/pl/106/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F468
 [/us/stat/114/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2027
 [/us/usc/t42/s14661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14661
-[/us/pl/106/468/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F468%2Fs3
+[/us/pl/106/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F468
 [/us/stat/114/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2028
 [/us/usc/t42/s14661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14661
 

@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $50,000,000 for each of the fiscal years 2006, 2007, 2008, 2009, and 2010.
 
-([Pub. L. 109–58, title VII, § 758][/us/pl/109/58/s758], Aug. 8, 2005, [119 Stat. 833][/us/stat/119/833].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 758, Aug. 8, 2005, [119 Stat. 833][/us/stat/119/833].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs758
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F833
 
 

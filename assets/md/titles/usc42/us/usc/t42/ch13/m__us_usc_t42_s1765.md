@@ -19,7 +19,7 @@
 
     (b) When such payments are made, the State educational agency shall promptly and equitably disburse any cash it receives in lieu of commodities to eligible schools and institutions, and such disbursements shall be used by such schools and institutions to purchase United States agricultural commodities and other foods for their food service programs.
 
-([June 4, 1946, ch. 281, § 16][/us/act/1946-06-04/ch281/s16], as added [Pub. L. 94–105, § 12][/us/pl/94/105/s12], Oct. 7, 1975, [89 Stat. 515][/us/stat/89/515]; amended [Pub. L. 101–147, title III, § 309][/us/pl/101/147/s309], Nov. 10, 1989, [103 Stat. 915][/us/stat/103/915]; [Pub. L. 105–336, title I, § 101(b)][/us/pl/105/336/s101/b], Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 16, as added [Pub. L. 94–105][/us/pl/94/105], § 12, Oct. 7, 1975, [89 Stat. 515][/us/stat/89/515]; amended [Pub. L. 101–147, title III][/us/pl/101/147/tIII], § 309, Nov. 10, 1989, [103 Stat. 915][/us/stat/103/915]; [Pub. L. 105–336, title I][/us/pl/105/336/tI], § 101(b), Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144].)
 
  __References in Text__ 
 
@@ -44,12 +44,12 @@
 
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t42/s1755/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755%2Fc
-[/us/act/1946-06-04/ch281/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs16
-[/us/pl/94/105/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs12
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
 [/us/stat/89/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F515
-[/us/pl/101/147/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs309
+[/us/pl/101/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtIII
 [/us/stat/103/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F915
-[/us/pl/105/336/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs101%2Fb
+[/us/pl/105/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2FtI
 [/us/stat/112/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3144
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885

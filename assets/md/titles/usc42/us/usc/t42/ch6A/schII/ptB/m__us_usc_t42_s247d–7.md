@@ -53,7 +53,7 @@
 
         There is authorized to be appropriated to carry out this section $6,000,000 for fiscal year 2001, and such sums as may be necessary through fiscal year 2006.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319G, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2323][/us/stat/114/2323]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319G, as added [Pub. L. 106–505, title I][/us/pl/106/505/tI], § 102, Nov. 13, 2000, [114 Stat. 2323][/us/stat/114/2323]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/pl/106/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtI
 [/us/stat/114/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2323
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

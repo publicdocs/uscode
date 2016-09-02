@@ -37,7 +37,7 @@
 
         (4) initial capital where it is determined by the Secretary that the poverty of the families participating in the program and the social conditions of the rural area require such assistance.
 
-([Pub. L. 97–35, title VI, § 621][/us/pl/97/35/s621], Aug. 13, 1981, [95 Stat. 493][/us/stat/95/493].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 621, Aug. 13, 1981, [95 Stat. 493][/us/stat/95/493].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs621
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F493
 
 

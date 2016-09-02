@@ -57,7 +57,7 @@
 
         The Administrator, in coordination with the Department of Commerce and industry stakeholders, shall inform foreign countries with air quality problems of the potential of technology developed or used in the United States to provide emission reductions in those countries.
 
-([Pub. L. 109–58, title VII, § 795][/us/pl/109/58/s795], Aug. 8, 2005, [119 Stat. 843][/us/stat/119/843].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 795, Aug. 8, 2005, [119 Stat. 843][/us/stat/119/843].)
 
 ----------
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
-[/us/pl/109/58/s795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs795
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F843
 
 

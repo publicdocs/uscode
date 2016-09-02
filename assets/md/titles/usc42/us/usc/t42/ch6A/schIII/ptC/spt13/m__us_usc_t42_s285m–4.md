@@ -75,13 +75,13 @@
 
         In carrying out its functions, the Advisory Board may establish subcommittees, convene workshops and conferences, and collect data. Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
 
-    (j) __Repealed.__  __[__  __Pub. L. 109–482, title I, § 104(b)(1)(J)__  __][/us/pl/109/482/s104/b/1/J]__  __,__  __Jan. 15, 2007__  __,__  __[__  __120 Stat. 3693__  __][/us/stat/120/3693]__ 
+    (j) __Repealed.__  __[__  __Pub. L. 109–482, title I__  __][/us/pl/109/482/tI]__  __, § 104(b)(1)(J),__  __Jan. 15, 2007__  __,__  __[__  __120 Stat. 3693__  __][/us/stat/120/3693]__ 
 
     (k) __Commencement of existence__ 
 
         The National Deafness and Other Communication Disorders Advisory Board shall be established not later than April 1, 1989.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464D, as added [Pub. L. 100–553, § 2(4)][/us/pl/100/553/s2/4], Oct. 28, 1988, [102 Stat. 2772][/us/stat/102/2772], and [Pub. L. 100–690, title II, § 2613(a)(1)][/us/pl/100/690/s2613/a/1], Nov. 18, 1988, [102 Stat. 4235][/us/stat/102/4235]; amended [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 101–93, § 5(b)][/us/pl/101/93/s5/b], Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 102–531, title III, § 312(d)(8)][/us/pl/102/531/s312/d/8], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–43, title XX, § 2008(b)(8)][/us/pl/103/43/s2008/b/8], June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 109–482, title I, § 104(b)(1)(J)][/us/pl/109/482/s104/b/1/J], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464D, as added [Pub. L. 100–553][/us/pl/100/553], § 2(4), Oct. 28, 1988, [102 Stat. 2772][/us/stat/102/2772], and [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(a)(1), Nov. 18, 1988, [102 Stat. 4235][/us/stat/102/4235]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 101–93][/us/pl/101/93], § 5(b), Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(8), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(b)(8), June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(J), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 
  __Codification__ 
 
@@ -107,7 +107,7 @@
 
     1989—Subsec. (k). [Pub. L. 101–93][/us/pl/101/93] substituted “April 1, 1989” for “90 days after the date of the enactment of the National Institute on Deafness and Other Communication Disorders Act”.
 
-    1988—[Pub. L. 100–690, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], amended this section to read as if the amendments made by [Pub. L. 100–690, § 2613(a)(1)][/us/pl/100/690/s2613/a/1], which enacted this section, had not been enacted. See Codification note above.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 2613(b)(2), amended this section to read as if the amendments made by [Pub. L. 100–690][/us/pl/100/690], § 2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -121,7 +121,7 @@
 
     Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -135,24 +135,24 @@
 ----------
 
 [/us/usc/t42/s285m–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285m%E2%80%931%2Fa
-[/us/pl/109/482/s104/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FJ
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/553/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs2%2F4
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2772
-[/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4235
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
-[/us/pl/101/93/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fb
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F611
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/102/531/s312/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F8
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/103/43/s2008/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F8
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F211
-[/us/pl/109/482/s104/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FJ
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
@@ -162,8 +162,8 @@
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
-[/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
@@ -172,7 +172,7 @@
 [/us/usc/t42/s285m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285m
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

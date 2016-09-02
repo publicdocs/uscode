@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Attorney General to carry out sections 17551, 17552, 17553, and 17554 of this title, $10,000,000 for each of the fiscal years 2009 and 2010.
 
-([Pub. L. 110–199, title II, § 245][/us/pl/110/199/s245], Apr. 9, 2008, [122 Stat. 692][/us/stat/122/692].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 245, Apr. 9, 2008, [122 Stat. 692][/us/stat/122/692].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/199/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs245
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F692
 
 

@@ -19,7 +19,7 @@
 
     (b) Nothing in this Act shall affect the authority to include dispute settlement provisions, including arbitration, in any agreement made pursuant to an Agreement for Cooperation.
 
-([Pub. L. 95–242, title IV, § 405][/us/pl/95/242/s405], Mar. 10, 1978, [92 Stat. 148][/us/stat/92/148].)
+([Pub. L. 95–242, title IV][/us/pl/95/242/tIV], § 405, Mar. 10, 1978, [92 Stat. 148][/us/stat/92/148].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
-[/us/pl/95/242/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs405
+[/us/pl/95/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIV
 [/us/stat/92/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F148
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

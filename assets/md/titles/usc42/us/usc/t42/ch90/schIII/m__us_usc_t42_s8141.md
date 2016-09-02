@@ -23,7 +23,7 @@
 
     (3) that the encouragement and support of local initiatives to develop or preserve such resources, particularly in connection with federally assisted housing or community development activities or in communities with a high proportion of low-income residents, is an appropriate function of the Federal Government.
 
-([Pub. L. 95–557, title VIII, § 802][/us/pl/95/557/s802], Oct. 31, 1978, [92 Stat. 2122][/us/stat/92/2122].)
+([Pub. L. 95–557, title VIII][/us/pl/95/557/tVIII], § 802, Oct. 31, 1978, [92 Stat. 2122][/us/stat/92/2122].)
 
  __Short Title__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/557/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs802
+[/us/pl/95/557/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVIII
 [/us/stat/92/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2122
 [/us/pl/95/557/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs801
 [/us/usc/t42/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8101

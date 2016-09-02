@@ -169,13 +169,13 @@
 
             The Secretary may designate up to 1 percent of the funds appropriated for carrying out this part for analysis and evaluation activities under this subsection.
 
-([Pub. L. 109–58, title IX, § 931][/us/pl/109/58/s931], Aug. 8, 2005, [119 Stat. 868][/us/stat/119/868]; [Pub. L. 110–140, title II, § 231][/us/pl/110/140/s231], Dec. 19, 2007, [121 Stat. 1536][/us/stat/121/1536].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 931, Aug. 8, 2005, [119 Stat. 868][/us/stat/119/868]; [Pub. L. 110–140, title II][/us/pl/110/140/tII], § 231, Dec. 19, 2007, [121 Stat. 1536][/us/stat/121/1536].)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(4). [Pub. L. 110–140, § 231(1)][/us/pl/110/140/s231/1], added par. (4).
+    2007—Subsec. (b)(4). [Pub. L. 110–140][/us/pl/110/140], § 231(1), added par. (4).
 
-    Subsec. (c)(2) to (4). [Pub. L. 110–140, § 231(2)][/us/pl/110/140/s231/2], in par. (2), substituted “$377,000,000” for “$251,000,000”, in par. (3), substituted “$398,000,000” for “$274,000,000”, and added par. (4).
+    Subsec. (c)(2) to (4). [Pub. L. 110–140][/us/pl/110/140], § 231(2), in par. (2), substituted “$377,000,000” for “$251,000,000”, in par. (3), substituted “$398,000,000” for “$274,000,000”, and added par. (4).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -197,12 +197,12 @@
 [/us/usc/t42/s16235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16235
 [/us/usc/t42/s16235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16235
 [/us/usc/t20/s1059c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c%2Fb
-[/us/pl/109/58/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs931
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F868
-[/us/pl/110/140/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs231
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1536
-[/us/pl/110/140/s231/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs231%2F1
-[/us/pl/110/140/s231/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs231%2F2
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

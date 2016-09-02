@@ -25,7 +25,7 @@
 
     (4) the term “exercise of religion” means religious exercise, as defined in [section 2000cc–5 of this title][/us/usc/t42/s2000cc–5].
 
-([Pub. L. 103–141, § 5][/us/pl/103/141/s5], Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489]; [Pub. L. 106–274, § 7(a)][/us/pl/106/274/s7/a], Sept. 22, 2000, [114 Stat. 806][/us/stat/114/806].)
+([Pub. L. 103–141][/us/pl/103/141], § 5, Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489]; [Pub. L. 106–274][/us/pl/106/274], § 7(a), Sept. 22, 2000, [114 Stat. 806][/us/stat/114/806].)
 
  __References in Text__ 
 
@@ -33,11 +33,11 @@
 
  __Amendments__ 
 
-    2000—Par. (1). [Pub. L. 106–274, § 7(a)(1)][/us/pl/106/274/s7/a/1], substituted “or of a covered entity” for “a State, or a subdivision of a State”.
+    2000—Par. (1). [Pub. L. 106–274][/us/pl/106/274], § 7(a)(1), substituted “or of a covered entity” for “a State, or a subdivision of a State”.
 
-    Par. (2). [Pub. L. 106–274, § 7(a)(2)][/us/pl/106/274/s7/a/2], substituted “term ‘covered entity’ means” for “term ‘State’ includes”.
+    Par. (2). [Pub. L. 106–274][/us/pl/106/274], § 7(a)(2), substituted “term ‘covered entity’ means” for “term ‘State’ includes”.
 
-    Par. (4). [Pub. L. 106–274, § 7(a)(3)][/us/pl/106/274/s7/a/3], substituted “religious exercise, as defined in [section 2000cc–5 of this title][/us/usc/t42/s2000cc–5]” for “the exercise of religion under the First Amendment to the Constitution”.
+    Par. (4). [Pub. L. 106–274][/us/pl/106/274], § 7(a)(3), substituted “religious exercise, as defined in [section 2000cc–5 of this title][/us/usc/t42/s2000cc–5]” for “the exercise of religion under the First Amendment to the Constitution”.
 
 ----------
 
@@ -47,16 +47,16 @@
 ----------
 
 [/us/usc/t42/s2000cc–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000cc%E2%80%935
-[/us/pl/103/141/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs5
+[/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1489
-[/us/pl/106/274/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs7%2Fa
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F806
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488
 [/us/usc/t42/s2000bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000bb
-[/us/pl/106/274/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs7%2Fa%2F1
-[/us/pl/106/274/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs7%2Fa%2F2
-[/us/pl/106/274/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs7%2Fa%2F3
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/usc/t42/s2000cc–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000cc%E2%80%935
 
 

@@ -17,11 +17,11 @@
 
     For the purpose of enabling each State to furnish financial assistance, as far as practicable under the conditions in such State, to needy individuals eighteen years of age and older who are permanently and totally disabled, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans for aid to the permanently and totally disabled.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1401, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 555][/us/stat/64/555]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 314(a), [70 Stat. 849][/us/stat/70/849]; [Pub. L. 87–543, title I, § 104(c)(4)][/us/pl/87/543/s104/c/4], July 25, 1962, [76 Stat. 186][/us/stat/76/186]; [Pub. L. 97–35, title XXI, § 2184(c)(1)][/us/pl/97/35/s2184/c/1], Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1401, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 555][/us/stat/64/555]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 314(a), [70 Stat. 849][/us/stat/70/849]; [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 104(c)(4), July 25, 1962, [76 Stat. 186][/us/stat/76/186]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(c)(1), Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F849
-[/us/pl/87/543/s104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs104%2Fc%2F4
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F186
-[/us/pl/97/35/s2184/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fc%2F1
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F817
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543

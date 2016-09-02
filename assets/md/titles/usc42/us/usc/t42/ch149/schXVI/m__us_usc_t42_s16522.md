@@ -73,7 +73,7 @@
 
         For purposes of this section, the term “GIS” means geographic information systems technology that facilitates the organization and management of data with a geographic component.
 
-([Pub. L. 109–58, title XVIII, § 1808][/us/pl/109/58/s1808], Aug. 8, 2005, [119 Stat. 1124][/us/stat/119/1124].)
+([Pub. L. 109–58, title XVIII][/us/pl/109/58/tXVIII], § 1808, Aug. 8, 2005, [119 Stat. 1124][/us/stat/119/1124].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1808
+[/us/pl/109/58/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVIII
 [/us/stat/119/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1124
 
 

@@ -23,7 +23,7 @@
 
         If an owner of a covered section 8 housing project in which elderly families are given a preference for occupancy pursuant to [section 13611 of this title][/us/usc/t42/s13611] determines (in accordance with regulations established by the Secretary) that there are insufficient numbers of disabled families who are not elderly or near-elderly families and have applied for occupancy in the housing to fill all the units in the project reserved under [section 13612 of this title][/us/usc/t42/s13612], the owner may give preference for occupancy of units so reserved to disabled families who are near-elderly families and have applied for occupancy in the housing.
 
-([Pub. L. 102–550, title VI, § 653][/us/pl/102/550/s653], Oct. 28, 1992, [106 Stat. 3824][/us/stat/106/3824].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 653, Oct. 28, 1992, [106 Stat. 3824][/us/stat/106/3824].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/usc/t42/s13612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13612
 [/us/usc/t42/s13611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13611
 [/us/usc/t42/s13612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13612
-[/us/pl/102/550/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs653
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3824
 [/us/usc/t42/s13619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13619
 

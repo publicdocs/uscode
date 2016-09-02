@@ -19,7 +19,7 @@
 
     (b) Eligibility for assistance under other Federal programs shall not be denied to any applicant on the ground that it is a community development corporation or any other entity assisted under this subchapter.
 
-([Pub. L. 97–35, title VI, § 629][/us/pl/97/35/s629], Aug. 13, 1981, [95 Stat. 497][/us/stat/95/497].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 629, Aug. 13, 1981, [95 Stat. 497][/us/stat/95/497].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs629
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F497
 
 

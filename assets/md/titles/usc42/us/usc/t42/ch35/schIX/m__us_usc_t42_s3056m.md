@@ -49,11 +49,11 @@
 
         The Secretary shall annually submit such a report to the appropriate committees of Congress.
 
-([Pub. L. 89–73, title V, § 515][/us/pl/89/73/s515], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2587][/us/stat/120/2587].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 515, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2587][/us/stat/120/2587].)
 
  __Prior Provisions__ 
 
-    A prior section 3056m, [Pub. L. 89–73, title V, § 515][/us/pl/89/73/s515], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2286][/us/stat/114/2286], related to authorization of appropriations, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365]. See section 3056o of this title.
+    A prior section 3056m, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 515, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2286][/us/stat/114/2286], related to authorization of appropriations, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365]. See section 3056o of this title.
 
 ----------
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/89/73/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs515
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2587
-[/us/pl/89/73/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs515
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2286
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 

@@ -17,7 +17,7 @@
 
     Whoever, with intent to injure the United States or with intent to secure an advantage to any foreign nation, acquires, or attempts or conspires to acquire any document, writing, sketch, photograph, plan, model, instrument, appliance, note, or information involving or incorporating Restricted Data, shall upon conviction thereof, be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $100,000 or both.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 225, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 959][/us/stat/68/959]; amended [Pub. L. 91–161, § 3(b)][/us/pl/91/161/s3/b], Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–65, div. C, title XXXI, § 3148(b)][/us/pl/106/65/s3148/b], Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 225, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 959][/us/stat/68/959]; amended [Pub. L. 91–161][/us/pl/91/161], § 3(b), Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3148(b), Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938].)
 
  __Amendments__ 
 
@@ -37,13 +37,13 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F959
-[/us/pl/91/161/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161%2Fs3%2Fb
+[/us/pl/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161
 [/us/stat/83/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F444
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/106/65/s3148/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3148%2Fb
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F938
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161

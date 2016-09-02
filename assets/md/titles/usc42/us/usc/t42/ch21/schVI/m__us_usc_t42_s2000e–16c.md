@@ -61,7 +61,7 @@
 
         If the individual referred to in subsection (a) of this section is the prevailing party in a proceeding under this subsection, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  attorney’s fees may be allowed by the court in accordance with the standards prescribed under [section 2000e–5(k) of this title][/us/usc/t42/s2000e–5/k].
 
-([Pub. L. 102–166, title III, § 304][/us/pl/102/166/s304], formerly § 321, Nov. 21, 1991, [105 Stat. 1097][/us/stat/105/1097]; renumbered § 304 and amended [Pub. L. 104–1, title V, § 504(a)(3)][/us/pl/104/1/s504/a/3], (4), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41].)
+([Pub. L. 102–166, title III][/us/pl/102/166/tIII], § 304, formerly § 321, Nov. 21, 1991, [105 Stat. 1097][/us/stat/105/1097]; renumbered § 304 and amended [Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(a)(3), (4), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41].)
 
  __Codification__ 
 
@@ -73,7 +73,7 @@
 
  __Amendments__ 
 
-    1995—Subsec. (a). [Pub. L. 104–1, § 504(a)(4)][/us/pl/104/1/s504/a/4], struck out “and 1207(h) of title 2” before “shall apply” in introductory provisions.
+    1995—Subsec. (a). [Pub. L. 104–1][/us/pl/104/1], § 504(a)(4), struck out “and 1207(h) of title 2” before “shall apply” in introductory provisions.
 
  __Effective Date__ 
 
@@ -89,15 +89,15 @@
 [/us/usc/t42/s2000e–16b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316b
 [/us/usc/t42/s2000e–5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Fd
 [/us/usc/t42/s2000e–5/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Fk
-[/us/pl/102/166/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs304
+[/us/pl/102/166/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtIII
 [/us/stat/105/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1097
-[/us/pl/104/1/s504/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fa%2F3
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F41
 [/us/usc/t2/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1220
 [/us/pl/102/166/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs304
 [/us/usc/t2/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1204
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
-[/us/pl/104/1/s504/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fa%2F4
+[/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/pl/102/166/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs402
 [/us/usc/t42/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981
 

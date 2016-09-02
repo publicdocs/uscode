@@ -17,7 +17,7 @@
 
     The Surgeon General shall be appointed from the Regular Corps for a four-year term by the President by and with the advice and consent of the Senate. The Surgeon General shall be appointed from individuals who (1) are members of the Regular Corps, and (2) have specialized training or significant experience in public health programs. Upon the expiration of such term the Surgeon General, unless reappointed, shall revert to the grade and number in the Regular or Reserve Corps that he would have occupied had he not served as Surgeon General.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 204, [58 Stat. 684][/us/stat/58/684]; [Pub. L. 97–25, title III, § 303(a)][/us/pl/97/25/s303/a], July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–35, title XXVII, § 2765(b)][/us/pl/97/35/s2765/b], Aug. 13, 1981, [95 Stat. 932][/us/stat/95/932].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 204, [58 Stat. 684][/us/stat/58/684]; [Pub. L. 97–25, title III][/us/pl/97/25/tIII], § 303(a), July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2765(b), Aug. 13, 1981, [95 Stat. 932][/us/stat/95/932].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F684
-[/us/pl/97/25/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs303%2Fa
+[/us/pl/97/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtIII
 [/us/stat/95/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F145
-[/us/pl/97/35/s2765/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2765%2Fb
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F932
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25

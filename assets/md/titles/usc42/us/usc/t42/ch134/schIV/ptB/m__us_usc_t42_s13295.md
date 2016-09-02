@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch134/schIV/ptB/m__us_usc_t42_s13294.md) | [Next](./../../../../../..//us/usc/t42/ch134/schIV/ptB/m__us_usc_t42_s13296.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13295)
 
-## § 13295. Repealed. [Pub. L. 105–362, title IV, § 401(b)][/us/pl/105/362/s401/b], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282]
+## § 13295. Repealed. [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 401(b), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282]
 
-    Section, [Pub. L. 102–486, title VI, § 625][/us/pl/102/486/s625], Oct. 24, 1992, [106 Stat. 2905][/us/stat/106/2905], related to electric utility participation study.
+    Section, [Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 625, Oct. 24, 1992, [106 Stat. 2905][/us/stat/106/2905], related to electric utility participation study.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/105/362/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs401%2Fb
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
-[/us/pl/102/486/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs625
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2905
 
 

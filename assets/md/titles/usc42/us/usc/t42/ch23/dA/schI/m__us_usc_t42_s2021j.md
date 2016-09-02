@@ -27,7 +27,7 @@
 
         Such standards and procedures shall provide that, upon receipt of a petition to exempt a specific radioactive waste stream from regulation by the Commission, the Commission shall determine in an expeditious manner whether the concentration or quantity of radionuclides present in such waste stream requires regulation by the Commission in order to protect the public health and safety. Where the Commission determines that regulation of a radioactive waste stream is not necessary to protect the public health and safety, the Commission shall take such steps as may be necessary, in an expeditious manner, to exempt the disposal of such radioactive waste from regulation by the Commission.
 
-([Pub. L. 96–573, § 10][/us/pl/96/573/s10], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1859][/us/stat/99/1859].)
+([Pub. L. 96–573][/us/pl/96/573], § 10, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1859][/us/stat/99/1859].)
 
  __Codification__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/96/573/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs10
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1859
 
 

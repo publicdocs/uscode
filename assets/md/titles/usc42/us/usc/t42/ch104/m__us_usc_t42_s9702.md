@@ -25,7 +25,7 @@
 
     (4) the term “Advisory Committee” means the Advisory Committee on Reactor Safeguards established by [section 2039 of this title][/us/usc/t42/s2039].
 
-([Pub. L. 96–567, § 3][/us/pl/96/567/s3], Dec. 22, 1980, [94 Stat. 3329][/us/stat/94/3329].)
+([Pub. L. 96–567][/us/pl/96/567], § 3, Dec. 22, 1980, [94 Stat. 3329][/us/stat/94/3329].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2039
-[/us/pl/96/567/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs3
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3329
 
 

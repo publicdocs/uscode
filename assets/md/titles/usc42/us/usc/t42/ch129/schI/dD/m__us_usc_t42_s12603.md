@@ -35,25 +35,25 @@
 
         An individual described in [section 12602(a) of this title][/us/usc/t42/s12602/a] who successfully completes a required silver scholar term shall receive a silver scholar educational award having a value of $1,000.
 
-([Pub. L. 101–610, title I, § 147][/us/pl/101/610/s147], as added [Pub. L. 103–82, title I, § 102(a)][/us/pl/103/82/s102/a], Sept. 21, 1993, [107 Stat. 819][/us/stat/107/819]; amended [Pub. L. 111–13, title I, § 1404][/us/pl/111/13/s1404], Apr. 21, 2009, [123 Stat. 1515][/us/stat/123/1515].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 147, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 102(a), Sept. 21, 1993, [107 Stat. 819][/us/stat/107/819]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1404, Apr. 21, 2009, [123 Stat. 1515][/us/stat/123/1515].)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 1404(1)][/us/pl/111/13/s1404/1], substituted section catchline for former section catchline.
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 1404(1), substituted section catchline for former section catchline.
 
-    Subsec. (a). [Pub. L. 111–13, § 1404(2)][/us/pl/111/13/s1404/2], amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as provided in subsection (c) of this section, an individual described in [section 12602(a) of this title][/us/usc/t42/s12602/a] who successfully completes a required term of full-time national service in an approved national service position shall receive a national service educational award having a value, for each of not more than 2 of such terms of service, equal to 90 percent of—
+    Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1404(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as provided in subsection (c) of this section, an individual described in [section 12602(a) of this title][/us/usc/t42/s12602/a] who successfully completes a required term of full-time national service in an approved national service position shall receive a national service educational award having a value, for each of not more than 2 of such terms of service, equal to 90 percent of—
 
     “(1) one-half of an amount equal to the aggregate basic educational assistance allowance provided in [section 3015(b)(1) of title 38][/us/usc/t38/s3015/b/1] (as in effect on July 28, 1993), for the period referred to in section 3013(a)(1) of such title (as in effect on July 28, 1993), for a member of the Armed Forces who is entitled to such an allowance under section 3011 of such title and whose initial obligated period of active duty is 2 years; less
 
     “(2) one-half of the aggregate basic contribution required to be made by the member in section 3011(b) of such title (as in effect on July 28, 1993).”
 
-    Subsec. (b). [Pub. L. 111–13, § 1404(3)][/us/pl/111/13/s1404/3], struck out “, for each of not more than 2 of such terms of service,” after “having a value”.
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1404(3), struck out “, for each of not more than 2 of such terms of service,” after “having a value”.
 
-    Subsecs. (d), (e). [Pub. L. 111–13, § 1404(4)][/us/pl/111/13/s1404/4], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 111–13][/us/pl/111/13], § 1404(4), added subsecs. (d) and (e).
 
  __Prior Provisions__ 
 
-    A prior [section 147 of Pub. L. 101–610][/us/pl/101/610/s147] was classified to [section 12577 of this title][/us/usc/t42/s12577] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior [section 147 of Pub. L. 101–610][/us/pl/101/610/s147] was classified to [section 12577 of this title][/us/usc/t42/s12577] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -72,21 +72,21 @@
 [/us/usc/t42/s12593/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12593%2Fc%2F1%2FA
 [/us/usc/t42/s12602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa
 [/us/usc/t42/s12602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa
-[/us/pl/101/610/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs147
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F819
-[/us/pl/111/13/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1404
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1515
-[/us/pl/111/13/s1404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1404%2F1
-[/us/pl/111/13/s1404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1404%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa
 [/us/usc/t38/s3015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3015%2Fb%2F1
-[/us/pl/111/13/s1404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1404%2F3
-[/us/pl/111/13/s1404/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1404%2F4
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/101/610/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs147
 [/us/usc/t42/s12577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12577
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

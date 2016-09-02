@@ -99,7 +99,7 @@
 
         This section shall not be construed to create any liability. Nothing in this section shall be construed to supercede State or local health regulations.
 
-([Pub. L. 89–642, § 22][/us/pl/89/642/s22], formerly [Pub. L. 101–610, title IV, § 402][/us/pl/101/610/s402], Nov. 16, 1990, [104 Stat. 3183][/us/stat/104/3183]; renumbered § 22 and amended [Pub. L. 104–210, § 1(a)(2)][/us/pl/104/210/s1/a/2], (b), Oct. 1, 1996, [110 Stat. 3011][/us/stat/110/3011], 3012.)
+([Pub. L. 89–642][/us/pl/89/642], § 22, formerly [Pub. L. 101–610, title IV][/us/pl/101/610/tIV], § 402, Nov. 16, 1990, [104 Stat. 3183][/us/stat/104/3183]; renumbered § 22 and amended [Pub. L. 104–210][/us/pl/104/210], § 1(a)(2), (b), Oct. 1, 1996, [110 Stat. 3011][/us/stat/110/3011], 3012.)
 
  __Codification__ 
 
@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–210, § 1(a)(2)(A)][/us/pl/104/210/s1/a/2/A], substituted “Bill Emerson” for “Model” in section catchline.
+    1996—[Pub. L. 104–210][/us/pl/104/210], § 1(a)(2)(A), substituted “Bill Emerson” for “Model” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–210, § 1(a)(2)(B)][/us/pl/104/210/s1/a/2/B], inserted “Bill Emerson” before “Good”.
+    Subsec. (a). [Pub. L. 104–210][/us/pl/104/210], § 1(a)(2)(B), inserted “Bill Emerson” before “Good”.
 
-    Subsec. (b)(7). [Pub. L. 104–210, § 1(a)(2)(C)][/us/pl/104/210/s1/a/2/C], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘gross negligence’ means voluntary and conscious conduct by a person with knowledge (at the time of the conduct) that the conduct is likely to be harmful to the health or well-being of another person.”
+    Subsec. (b)(7). [Pub. L. 104–210][/us/pl/104/210], § 1(a)(2)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘gross negligence’ means voluntary and conscious conduct by a person with knowledge (at the time of the conduct) that the conduct is likely to be harmful to the health or well-being of another person.”
 
-    Subsec. (c). [Pub. L. 104–210, § 1(a)(2)(D)][/us/pl/104/210/s1/a/2/D], added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person or gleaner shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals, except that this paragraph shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the donor constituting gross negligence or intentional misconduct.”
+    Subsec. (c). [Pub. L. 104–210][/us/pl/104/210], § 1(a)(2)(D), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person or gleaner shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals, except that this paragraph shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the donor constituting gross negligence or intentional misconduct.”
 
-    Subsec. (f). [Pub. L. 104–210, § 1(a)(2)(E)][/us/pl/104/210/s1/a/2/E], inserted at end “Nothing in this section shall be construed to supercede State or local health regulations.”
+    Subsec. (f). [Pub. L. 104–210][/us/pl/104/210], § 1(a)(2)(E), inserted at end “Nothing in this section shall be construed to supercede State or local health regulations.”
 
 ----------
 
@@ -124,17 +124,17 @@
 ----------
 ----------
 
-[/us/pl/89/642/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs22
-[/us/pl/101/610/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs402
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
+[/us/pl/101/610/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtIV
 [/us/stat/104/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3183
-[/us/pl/104/210/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210%2Fs1%2Fa%2F2
+[/us/pl/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210
 [/us/stat/110/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3011
 [/us/usc/t42/s12672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12672
 [/us/pl/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210
-[/us/pl/104/210/s1/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210%2Fs1%2Fa%2F2%2FA
-[/us/pl/104/210/s1/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210%2Fs1%2Fa%2F2%2FB
-[/us/pl/104/210/s1/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210%2Fs1%2Fa%2F2%2FC
-[/us/pl/104/210/s1/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210%2Fs1%2Fa%2F2%2FD
-[/us/pl/104/210/s1/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210%2Fs1%2Fa%2F2%2FE
+[/us/pl/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210
+[/us/pl/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210
+[/us/pl/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210
+[/us/pl/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210
+[/us/pl/104/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F210
 
 

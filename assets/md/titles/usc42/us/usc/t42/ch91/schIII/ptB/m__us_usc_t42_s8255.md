@@ -21,7 +21,7 @@
 
     (2) compliance with the provisions of this part, the Energy Policy and Conservation Act ([42 U.S.C. 6201][/us/usc/t42/s6201] et seq.), and all applicable Executive orders, including Executive Order 12003 ([42 U.S.C. 6201][/us/usc/t42/s6201] note) and Executive Order 12759 (56 Fed. Reg. 16257).
 
-([Pub. L. 95–619, title V, § 545][/us/pl/95/619/s545], Nov. 9, 1978, [92 Stat. 3278][/us/stat/92/3278]; [Pub. L. 96–294, title IV, § 405][/us/pl/96/294/s405], June 30, 1980, [94 Stat. 716][/us/stat/94/716]; [Pub. L. 99–509, title III, § 3301][/us/pl/99/509/s3301], Oct. 21, 1986, [100 Stat. 1890][/us/stat/100/1890]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3186][/us/stat/102/3186]; [Pub. L. 102–486, title I, § 152(e)][/us/pl/102/486/s152/e], Oct. 24, 1992, [106 Stat. 2846][/us/stat/106/2846].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 545, Nov. 9, 1978, [92 Stat. 3278][/us/stat/92/3278]; [Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 405, June 30, 1980, [94 Stat. 716][/us/stat/94/716]; [Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3301, Oct. 21, 1986, [100 Stat. 1890][/us/stat/100/1890]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3186][/us/stat/102/3186]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(e), Oct. 24, 1992, [106 Stat. 2846][/us/stat/106/2846].)
 
  __References in Text__ 
 
@@ -51,15 +51,15 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
-[/us/pl/95/619/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs545
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3278
-[/us/pl/96/294/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs405
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F716
-[/us/pl/99/509/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3301
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1890
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3186
-[/us/pl/102/486/s152/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fe
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2846
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

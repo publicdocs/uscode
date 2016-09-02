@@ -33,7 +33,7 @@
 
         The memorandum of understanding shall establish a joint data retrieval system that is capable of tracking lease and permit applications and providing to the applicant information as to their status within the Departments of the Interior and Agriculture, including an estimate of the time required for administrative action.
 
-([Pub. L. 109–58, title II, § 225][/us/pl/109/58/s225], Aug. 8, 2005, [119 Stat. 665][/us/stat/119/665].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 225, Aug. 8, 2005, [119 Stat. 665][/us/stat/119/665].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/109/58/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs225
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F665
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566

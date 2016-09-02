@@ -17,7 +17,7 @@
 
     Interest accrued on the balance of any grant to the National Board shall be available to the National Board for reallocation, and total administrative costs shall be determined based on total amount of funds available, including interest and any private contributions that are made to the National Board.
 
-([Pub. L. 100–77, title III, § 312][/us/pl/100/77/s312], July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 312, July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs312
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F492
 
 

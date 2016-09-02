@@ -35,7 +35,7 @@
 
         (3) in the case of shares beneficially held in the ordinary course of business for others, any commercial bank, broker-dealer, or clearing agency.
 
-([Pub. L. 104–134, title III, § 3111][/us/pl/104/134/s3111], Apr. 26, 1996, [110 Stat. 1321–343][/us/stat/110/1321-343].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3111, Apr. 26, 1996, [110 Stat. 1321–343][/us/stat/110/1321-343].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/134/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3111
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-343
 
 

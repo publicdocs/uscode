@@ -99,7 +99,7 @@
 
         Amounts appropriated for a fiscal year for scholarships under this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487D, as added [Pub. L. 103–43, title XVI, § 1631][/us/pl/103/43/s1631], June 10, 1993, [107 Stat. 183][/us/stat/107/183].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487D, as added [Pub. L. 103–43, title XVI][/us/pl/103/43/tXVI], § 1631, June 10, 1993, [107 Stat. 183][/us/stat/107/183].)
 
 ----------
 
@@ -110,7 +110,7 @@
 
 [/us/usc/t42/s288/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%2Fa%2F1%2FC
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1631
+[/us/pl/103/43/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVI
 [/us/stat/107/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F183
 
 

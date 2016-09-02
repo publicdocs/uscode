@@ -67,7 +67,7 @@
 
             The Secretary shall submit to Congress reports describing the results of all the reviews and assessments.
 
-([Pub. L. 109–58, title IX, § 990][/us/pl/109/58/s990], Aug. 8, 2005, [119 Stat. 912][/us/stat/119/912].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 990, Aug. 8, 2005, [119 Stat. 912][/us/stat/119/912].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t42/s16181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16181
 [/us/usc/t42/s16181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16181
-[/us/pl/109/58/s990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs990
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F912
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

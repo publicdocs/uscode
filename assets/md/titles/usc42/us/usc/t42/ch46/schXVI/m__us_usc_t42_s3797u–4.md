@@ -17,7 +17,7 @@
 
     To request funds under this subchapter, the chief executive or the chief justice of a State or the chief executive or judge of a unit of local government or Indian tribal government, or the chief judge of a State court or the judge of a local court or Indian tribal court shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
 
-([Pub. L. 90–351, title I, § 2955][/us/pl/90/351/s2955], as added [Pub. L. 107–273, div. B, title II, § 2301(a)][/us/pl/107/273/s2301/a], Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2955, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2301(a), Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2955
-[/us/pl/107/273/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1797
 
 

@@ -315,7 +315,7 @@
 
         The term “veteran” has the meaning given the term in [section 101 of title 38][/us/usc/t38/s101].
 
-([Pub. L. 101–610, title I, § 101][/us/pl/101/610/s101], Nov. 16, 1990, [104 Stat. 3129][/us/stat/104/3129]; [Pub. L. 102–10, § 3][/us/pl/102/10/s3], Mar. 12, 1991, [105 Stat. 29][/us/stat/105/29]; [Pub. L. 102–384, § 3][/us/pl/102/384/s3], Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455]; [Pub. L. 103–82, title I, § 111(a)][/us/pl/103/82/s111/a], Sept. 21, 1993, [107 Stat. 857][/us/stat/107/857]; [Pub. L. 103–382, title III, § 394(h)(1)][/us/pl/103/382/s394/h/1], Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028]; [Pub. L. 105–220, title IV, § 414(g)][/us/pl/105/220/s414/g], Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242]; [Pub. L. 105–244, title I, § 102(a)(13)(K)][/us/pl/105/244/s102/a/13/K], Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621]; [Pub. L. 107–110, title X, § 1076(ff)][/us/pl/107/110/s1076/ff], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 108–446, title III, § 305(m)][/us/pl/108/446/s305/m], Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 111–13, title I, § 1102][/us/pl/111/13/s1102], Apr. 21, 2009, [123 Stat. 1464][/us/stat/123/1464].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 101, Nov. 16, 1990, [104 Stat. 3129][/us/stat/104/3129]; [Pub. L. 102–10][/us/pl/102/10], § 3, Mar. 12, 1991, [105 Stat. 29][/us/stat/105/29]; [Pub. L. 102–384][/us/pl/102/384], § 3, Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 111(a), Sept. 21, 1993, [107 Stat. 857][/us/stat/107/857]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 394(h)(1), Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028]; [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 414(g), Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(K), Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(ff), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(m), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1102, Apr. 21, 2009, [123 Stat. 1464][/us/stat/123/1464]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(bbb)(1), Dec. 10, 2015, [129 Stat. 2184][/us/stat/129/2184].)
 
  __References in Text__ 
 
@@ -331,23 +331,25 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 1102(b)][/us/pl/111/13/s1102/b], redesignated pars. (1) to (49) as (1), (3), (8), (9), (10), (12), (14), (15), (19), (20), (21), (22), (23), (24), (26), (29), (30), (31), (34), (35), (37), (39), (40), (41), (42), (43), (44), (45), (46), (2), (4), (5), (6), (7), (11), (13), (16), (17), (18), (25), (27), (28), (32), (33), (36), (38), (47), (48), and (49), respectively, and rearranged pars. in numerical order.
+    2015—Pars. (15), (24), (39), (45). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
 
-    Par. (3). [Pub. L. 111–13, § 1102(a)(1)][/us/pl/111/13/s1102/a/1], struck out “described in [section 12572 of this title][/us/usc/t42/s12572]” after “service program”.
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 1102(b), redesignated pars. (1) to (49) as (1), (3), (8), (9), (10), (12), (14), (15), (19), (20), (21), (22), (23), (24), (26), (29), (30), (31), (34), (35), (37), (39), (40), (41), (42), (43), (44), (45), (46), (2), (4), (5), (6), (7), (11), (13), (16), (17), (18), (25), (27), (28), (32), (33), (36), (38), (47), (48), and (49), respectively, and rearranged pars. in numerical order.
 
-    Par. (13). [Pub. L. 111–13, § 1102(a)(2)][/us/pl/111/13/s1102/a/2], which directed substitution of “sections 1001(a) and 1002(a)(1) of title 20” for “[section 1001(a) of title 20][/us/usc/t20/s1001/a]”, was executed by making the substitution for “[section 1001 of title 20][/us/usc/t20/s1001]” to reflect the probable intent of Congress.
+    Par. (3). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(1), struck out “described in [section 12572 of this title][/us/usc/t42/s12572]” after “service program”.
 
-    Par. (17)(B). [Pub. L. 111–13, § 1102(a)(3)][/us/pl/111/13/s1102/a/3], substituted “organization receiving assistance under the national service laws through which the participant is engaging in service” for “program in which the participant is enrolled”.
+    Par. (13). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(2), which directed substitution of “sections 1001(a) and 1002(a)(1) of title 20” for “[section 1001(a) of title 20][/us/usc/t20/s1001/a]”, was executed by making the substitution for “[section 1001 of title 20][/us/usc/t20/s1001]” to reflect the probable intent of Congress.
 
-    Par. (19). [Pub. L. 111–13, § 1102(a)(4)][/us/pl/111/13/s1102/a/4], substituted “[section 12523(a) of this title][/us/usc/t42/s12523/a]” for “[section 12521(a) of this title][/us/usc/t42/s12521/a]”, struck out “12542(a),” after “(3)(B) of such section),”, substituted “12561a, or 12561(b)(1), or subsection (a), (b), or (c) of [section 12572 of this title][/us/usc/t42/s12572],” for “12561(b)(1), or 12572(a) of this title,”, inserted “[section 12653b of this title][/us/usc/t42/s12653b], 12653c of this title, 198G, 12653h of this title, or 12653k of this title,” after “[section 12612(b) of this title][/us/usc/t42/s12612/b],”, and substituted “12639a, 12653, 12653o, 12653p, or 12657” for “12653, 12653c, or 12653d”.
+    Par. (17)(B). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(3), substituted “organization receiving assistance under the national service laws through which the participant is engaging in service” for “program in which the participant is enrolled”.
 
-    Par. (21)(B). [Pub. L. 111–13, § 1102(a)(5)][/us/pl/111/13/s1102/a/5], substituted “602(3)” for “602” and “1401(3)” for “1401”.
+    Par. (19). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(4), substituted “[section 12523(a) of this title][/us/usc/t42/s12523/a]” for “[section 12521(a) of this title][/us/usc/t42/s12521/a]”, struck out “12542(a),” after “(3)(B) of such section),”, substituted “12561a, or 12561(b)(1), or subsection (a), (b), or (c) of [section 12572 of this title][/us/usc/t42/s12572],” for “12561(b)(1), or 12572(a) of this title,”, inserted “[section 12653b of this title][/us/usc/t42/s12653b], 12653c of this title, 198G, 12653h of this title, or 12653k of this title,” after “[section 12612(b) of this title][/us/usc/t42/s12612/b],”, and substituted “12639a, 12653, 12653o, 12653p, or 12657” for “12653, 12653c, or 12653d”.
 
-    Par. (24). [Pub. L. 111–13, § 1102(a)(6)][/us/pl/111/13/s1102/a/6], substituted “[section 12523 of this title][/us/usc/t42/s12523]” for “[section 12521 of this title][/us/usc/t42/s12521]”.
+    Par. (21)(B). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(5), substituted “602(3)” for “602” and “1401(3)” for “1401”.
 
-    Par. (26). [Pub. L. 111–13, § 1102(a)(7)][/us/pl/111/13/s1102/a/7], struck out “The term also includes Palau, until such time as the Compact of Free Association is ratified.” at end.
+    Par. (24). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(6), substituted “[section 12523 of this title][/us/usc/t42/s12523]” for “[section 12521 of this title][/us/usc/t42/s12521]”.
 
-    Pars. (30) to (49). [Pub. L. 111–13, § 1102(a)(8)][/us/pl/111/13/s1102/a/8], added pars. (30) to (49).
+    Par. (26). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(7), struck out “The term also includes Palau, until such time as the Compact of Free Association is ratified.” at end.
+
+    Pars. (30) to (49). [Pub. L. 111–13][/us/pl/111/13], § 1102(a)(8), added pars. (30) to (49).
 
     2004—Par. (21)(B). [Pub. L. 108–446][/us/pl/108/446] substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
 
@@ -357,43 +359,47 @@
 
     Par. (13). [Pub. L. 105–244][/us/pl/105/244] substituted “section 1001” for “section 1141(a)”.
 
-    1994—Par. (8). [Pub. L. 103–382, § 394(h)(1)(A)][/us/pl/103/382/s394/h/1/A], substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(8) of title 20][/us/usc/t20/s2891/8]”.
+    1994—Par. (8). [Pub. L. 103–382][/us/pl/103/382], § 394(h)(1)(A), substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(8) of title 20][/us/usc/t20/s2891/8]”.
 
-    Par. (14). [Pub. L. 103–382, § 394(h)(1)(B)][/us/pl/103/382/s394/h/1/B], substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(12) of title 20][/us/usc/t20/s2891/12]”.
+    Par. (14). [Pub. L. 103–382][/us/pl/103/382], § 394(h)(1)(B), substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(12) of title 20][/us/usc/t20/s2891/12]”.
 
-    Par. (22). [Pub. L. 103–382, § 394(h)(1)(C)][/us/pl/103/382/s394/h/1/C], substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(21) of title 20][/us/usc/t20/s2891/21]”.
+    Par. (22). [Pub. L. 103–382][/us/pl/103/382], § 394(h)(1)(C), substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(21) of title 20][/us/usc/t20/s2891/21]”.
 
-    Par. (28). [Pub. L. 103–382, § 394(h)(1)(D)][/us/pl/103/382/s394/h/1/D], substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(23) of title 20][/us/usc/t20/s2891/23]”.
+    Par. (28). [Pub. L. 103–382][/us/pl/103/382], § 394(h)(1)(D), substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “[section 2891(23) of title 20][/us/usc/t20/s2891/23]”.
 
     1993—[Pub. L. 103–82][/us/pl/103/82] amended section generally, substituting provisions consisting of 29 definitions of terms used in this subchapter for former provisions consisting of 30 definitions.
 
-    1992—Par. (29). [Pub. L. 102–384, § 3(1)][/us/pl/102/384/s3/1], added par. (29) and struck out former par. (29) which read as follows: “The term ‘summer program’ means a youth corps program authorized under this subchapter that is limited to the months of June, July, and August.”
+    1992—Par. (29). [Pub. L. 102–384][/us/pl/102/384], § 3(1), added par. (29) and struck out former par. (29) which read as follows: “The term ‘summer program’ means a youth corps program authorized under this subchapter that is limited to the months of June, July, and August.”
 
-    Par. (30). [Pub. L. 102–384, § 3(2)][/us/pl/102/384/s3/2], substituted “living allowances” for “stipends”.
+    Par. (30). [Pub. L. 102–384][/us/pl/102/384], § 3(2), substituted “living allowances” for “stipends”.
 
-    1991—Par. (7). [Pub. L. 102–10, § 3(1)][/us/pl/102/10/s3/1], added par. (7). Former par. (7) redesignated (8).
+    1991—Par. (7). [Pub. L. 102–10][/us/pl/102/10], § 3(1), added par. (7). Former par. (7) redesignated (8).
 
-    Par. (8). [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], (3), redesignated par. (7) as (8) and inserted “an Indian or” before “Indian tribes” in two places. Former par. (8) redesignated (9).
+    Par. (8). [Pub. L. 102–10][/us/pl/102/10], § 3(2), (3), redesignated par. (7) as (8) and inserted “an Indian or” before “Indian tribes” in two places. Former par. (8) redesignated (9).
 
-    Pars. (9) to (13). [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], redesignated pars. (8) to (12) as (9) to (13), respectively. Former par. (13) redesignated (14).
+    Pars. (9) to (13). [Pub. L. 102–10][/us/pl/102/10], § 3(2), redesignated pars. (8) to (12) as (9) to (13), respectively. Former par. (13) redesignated (14).
 
-    Par. (14). [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], (4), redesignated par. (13) as (14) and inserted at end “Participants shall not be considered employees of the program.” Former par. (14) redesignated (15).
+    Par. (14). [Pub. L. 102–10][/us/pl/102/10], § 3(2), (4), redesignated par. (13) as (14) and inserted at end “Participants shall not be considered employees of the program.” Former par. (14) redesignated (15).
 
-    Pars. (15) to (22). [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], redesignated pars. (14) to (21) as (15) to (22), respectively. Former par. (22) redesignated (23).
+    Pars. (15) to (22). [Pub. L. 102–10][/us/pl/102/10], § 3(2), redesignated pars. (14) to (21) as (15) to (22), respectively. Former par. (22) redesignated (23).
 
-    Par. (23). [Pub. L. 102–10, § 3(5)][/us/pl/102/10/s3/5], which directed the substitution of “participants” for “students or out of school youth”, was executed by making the substitution for “students or out-of-school youth” to reflect the probable intent of Congress.
+    Par. (23). [Pub. L. 102–10][/us/pl/102/10], § 3(5), which directed the substitution of “participants” for “students or out of school youth”, was executed by making the substitution for “students or out-of-school youth” to reflect the probable intent of Congress.
 
-    [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], redesignated par. (22) as (23). Former par. (23) redesignated (24).
+    [Pub. L. 102–10][/us/pl/102/10], § 3(2), redesignated par. (22) as (23). Former par. (23) redesignated (24).
 
-    Par. (24). [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], (6), redesignated par. (23) as (24) and in heading and text substituted “participant” for “member”. Former par. (24) redesignated (25).
+    Par. (24). [Pub. L. 102–10][/us/pl/102/10], § 3(2), (6), redesignated par. (23) as (24) and in heading and text substituted “participant” for “member”. Former par. (24) redesignated (25).
 
-    Pars. (25) to (29). [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], redesignated pars. (24) to (28) as (25) to (29), respectively. Former par. (29) redesignated (30).
+    Pars. (25) to (29). [Pub. L. 102–10][/us/pl/102/10], § 3(2), redesignated pars. (24) to (28) as (25) to (29), respectively. Former par. (29) redesignated (30).
 
-    Par. (30). [Pub. L. 102–10, § 3(2)][/us/pl/102/10/s3/2], (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
+    Par. (30). [Pub. L. 102–10][/us/pl/102/10], § 3(2), (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
 
  __Change of Name__ 
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -454,26 +460,28 @@
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/101/610/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs101
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3129
-[/us/pl/102/10/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F29
-[/us/pl/102/384/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs3
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1455
-[/us/pl/103/82/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs111%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F857
-[/us/pl/103/382/s394/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fh%2F1
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4028
-[/us/pl/105/220/s414/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs414%2Fg
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1242
-[/us/pl/105/244/s102/a/13/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FK
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1621
-[/us/pl/107/110/s1076/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fff
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
-[/us/pl/108/446/s305/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fm
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
-[/us/pl/111/13/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1464
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2184
 [/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
@@ -487,25 +495,27 @@
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/111/13/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fb
-[/us/pl/111/13/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F1
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572
-[/us/pl/111/13/s1102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/111/13/s1102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F3
-[/us/pl/111/13/s1102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F4
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523%2Fa
 [/us/usc/t42/s12521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12521%2Fa
 [/us/usc/t42/s12572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572
 [/us/usc/t42/s12653b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653b
 [/us/usc/t42/s12612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12612%2Fb
-[/us/pl/111/13/s1102/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F5
-[/us/pl/111/13/s1102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F6
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12523
 [/us/usc/t42/s12521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12521
-[/us/pl/111/13/s1102/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F7
-[/us/pl/111/13/s1102/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1102%2Fa%2F8
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
@@ -514,31 +524,34 @@
 [/us/usc/t29/s705/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F20%2FB
 [/us/usc/t29/s706/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706%2F8%2FB
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/103/382/s394/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fh%2F1%2FA
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
 [/us/usc/t20/s2891/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2891%2F8
-[/us/pl/103/382/s394/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fh%2F1%2FB
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
 [/us/usc/t20/s2891/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2891%2F12
-[/us/pl/103/382/s394/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fh%2F1%2FC
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
 [/us/usc/t20/s2891/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2891%2F21
-[/us/pl/103/382/s394/h/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fh%2F1%2FD
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
 [/us/usc/t20/s2891/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2891%2F23
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/102/384/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs3%2F1
-[/us/pl/102/384/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs3%2F2
-[/us/pl/102/10/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F1
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
-[/us/pl/102/10/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F5
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
-[/us/pl/102/10/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs3%2F2
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

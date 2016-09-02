@@ -33,23 +33,23 @@
 
     (8) ensure that public health and medical information distributed by the Department of Health and Human Services during a public health emergency is delivered in a manner that takes into account the range of communication needs of the intended recipients, including at-risk individuals.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2814, as added [Pub. L. 109–417, title I, § 102(d)][/us/pl/109/417/s102/d], Dec. 19, 2006, [120 Stat. 2834][/us/stat/120/2834]; amended [Pub. L. 113–5, title I, § 101(b)][/us/pl/113/5/s101/b], Mar. 13, 2013, [127 Stat. 163][/us/stat/127/163].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2814, as added [Pub. L. 109–417, title I][/us/pl/109/417/tI], § 102(d), Dec. 19, 2006, [120 Stat. 2834][/us/stat/120/2834]; amended [Pub. L. 113–5, title I][/us/pl/113/5/tI], § 101(b), Mar. 13, 2013, [127 Stat. 163][/us/stat/127/163].)
 
  __Amendments__ 
 
-    2013—Par. (1). [Pub. L. 113–5, § 101(b)(4)][/us/pl/113/5/s101/b/4], added par. (1). Former par. (1) redesignated (2).
+    2013—Par. (1). [Pub. L. 113–5][/us/pl/113/5], § 101(b)(4), added par. (1). Former par. (1) redesignated (2).
 
-    Par. (2). [Pub. L. 113–5, § 101(b)(3)][/us/pl/113/5/s101/b/3], (5), redesignated par. (1) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: “oversee the implementation of the National Preparedness goal of taking into account the public health and medical needs of at-risk individuals in the event of a public health emergency, as described in [section 300hh–1(b)(4) of this title][/us/usc/t42/s300hh–1/b/4];”. Former par. (2) redesignated (3).
+    Par. (2). [Pub. L. 113–5][/us/pl/113/5], § 101(b)(3), (5), redesignated par. (1) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: “oversee the implementation of the National Preparedness goal of taking into account the public health and medical needs of at-risk individuals in the event of a public health emergency, as described in [section 300hh–1(b)(4) of this title][/us/usc/t42/s300hh–1/b/4];”. Former par. (2) redesignated (3).
 
-    Par. (3). [Pub. L. 113–5, § 101(b)(3)][/us/pl/113/5/s101/b/3], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Par. (3). [Pub. L. 113–5][/us/pl/113/5], § 101(b)(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Par. (4). [Pub. L. 113–5, § 101(b)(3)][/us/pl/113/5/s101/b/3], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Par. (4). [Pub. L. 113–5][/us/pl/113/5], § 101(b)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    [Pub. L. 113–5, § 101(b)(2)][/us/pl/113/5/s101/b/2], substituted “300hh–1(b)(4)(B)” for “300hh–10(b)(3)(B)”.
+    [Pub. L. 113–5][/us/pl/113/5], § 101(b)(2), substituted “300hh–1(b)(4)(B)” for “300hh–10(b)(3)(B)”.
 
-    Par. (5). [Pub. L. 113–5, § 101(b)(1)][/us/pl/113/5/s101/b/1], (3), redesignated par. (4) as (5) and struck out former par. (5) which read as follows: “oversee the progress of the Advisory Committee on At-Risk Individuals and Public Health Emergencies established under [section 247d–6(b)(2) of this title][/us/usc/t42/s247d–6/b/2] and make recommendations with a focus on opportunities for action based on the work of the Committee;”.
+    Par. (5). [Pub. L. 113–5][/us/pl/113/5], § 101(b)(1), (3), redesignated par. (4) as (5) and struck out former par. (5) which read as follows: “oversee the progress of the Advisory Committee on At-Risk Individuals and Public Health Emergencies established under [section 247d–6(b)(2) of this title][/us/usc/t42/s247d–6/b/2] and make recommendations with a focus on opportunities for action based on the work of the Committee;”.
 
-    Pars. (7), (8). [Pub. L. 113–5, § 101(b)(1)][/us/pl/113/5/s101/b/1], (6), added pars. (7) and (8) and struck out former pars. (7) and (8) which read as follows:
+    Pars. (7), (8). [Pub. L. 113–5][/us/pl/113/5], § 101(b)(1), (6), added pars. (7) and (8) and struck out former pars. (7) and (8) which read as follows:
 
     “(7) disseminate novel and best practices of outreach to and care of at-risk individuals before, during, and following public health emergencies; and
 
@@ -69,18 +69,18 @@
 [/us/usc/t42/s300hh–1/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931%2Fb%2F4%2FB
 [/us/usc/t42/s247d–6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fa%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fd
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2834
-[/us/pl/113/5/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb
+[/us/pl/113/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtI
 [/us/stat/127/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F163
-[/us/pl/113/5/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb%2F4
-[/us/pl/113/5/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb%2F3
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s300hh–1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931%2Fb%2F4
-[/us/pl/113/5/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb%2F3
-[/us/pl/113/5/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb%2F3
-[/us/pl/113/5/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb%2F2
-[/us/pl/113/5/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb%2F1
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s247d–6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fb%2F2
-[/us/pl/113/5/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs101%2Fb%2F1
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 
 

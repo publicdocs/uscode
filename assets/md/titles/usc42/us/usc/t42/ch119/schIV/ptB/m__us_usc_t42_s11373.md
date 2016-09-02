@@ -39,7 +39,7 @@
 
         In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
 
-([Pub. L. 100–77, title IV, § 414][/us/pl/100/77/s414], formerly § 413, July 22, 1987, [101 Stat. 496][/us/stat/101/496]; [Pub. L. 100–628, title IV, § 421][/us/pl/100/628/s421], Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII, § 832(f)(3)][/us/pl/101/625/s832/f/3]–(5), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V, § 506(a)(3)][/us/pl/104/330/s506/a/3], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 414 and amended [Pub. L. 111–22, div. B, title II, § 1201(3)][/us/pl/111/22/s1201/3], (5), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1679; [Pub. L. 114–94, div. G, title LXXIX, § 79002][/us/pl/114/94/s79002], Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 414, formerly § 413, July 22, 1987, [101 Stat. 496][/us/stat/101/496]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 421, Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(f)(3)–(5), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(3), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 414 and amended [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(3), (5), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1679; [Pub. L. 114–94, div. G, title LXXIX][/us/pl/114/94/dG/tLXXIX], § 79002, Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
 
  __Prior Provisions__ 
 
@@ -49,25 +49,25 @@
 
     2015—Subsec. (d)(1). [Pub. L. 114–94][/us/pl/114/94] substituted “once” for “twice”.
 
-    2009—Subsec. (b). [Pub. L. 111–22, § 1201(5)][/us/pl/111/22/s1201/5], substituted “amounts appropriated under [section 11364 of this title][/us/usc/t42/s11364] and made available to carry out this part for any” for “amounts appropriated to carry out this part for any”.
+    2009—Subsec. (b). [Pub. L. 111–22][/us/pl/111/22], § 1201(5), substituted “amounts appropriated under [section 11364 of this title][/us/usc/t42/s11364] and made available to carry out this part for any” for “amounts appropriated to carry out this part for any”.
 
-    1996—Subsec. (a). [Pub. L. 104–330, § 506(a)(3)(A)][/us/pl/104/330/s506/a/3/A], struck out “, and to Indian tribes,” after “in the States)” and “, or for Indian tribes” after “or urban county” in two places.
+    1996—Subsec. (a). [Pub. L. 104–330][/us/pl/104/330], § 506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and “, or for Indian tribes” after “or urban county” in two places.
 
-    Subsec. (c). [Pub. L. 104–330, § 506(a)(3)(B)][/us/pl/104/330/s506/a/3/B], struck out “or Indian tribe” after “Any local government”.
+    Subsec. (c). [Pub. L. 104–330][/us/pl/104/330], § 506(a)(3)(B), struck out “or Indian tribe” after “Any local government”.
 
-    Subsec. (d)(3). [Pub. L. 104–330, § 506(a)(3)(C)(ii)][/us/pl/104/330/s506/a/3/C/ii], struck out “, or other Indian tribes,” after “cities and counties”.
+    Subsec. (d)(3). [Pub. L. 104–330][/us/pl/104/330], § 506(a)(3)(C)(ii), struck out “, or other Indian tribes,” after “cities and counties”.
 
-    [Pub. L. 104–330, § 506(a)(3)(C)(i)][/us/pl/104/330/s506/a/3/C/i], which directed amendment of par. (3) by striking “, or Indian tribe” each place it appeared, was executed by striking “or Indian tribe” after “State” in two places to reflect the probable intent of Congress.
+    [Pub. L. 104–330][/us/pl/104/330], § 506(a)(3)(C)(i), which directed amendment of par. (3) by striking “, or Indian tribe” each place it appeared, was executed by striking “or Indian tribe” after “State” in two places to reflect the probable intent of Congress.
 
-    1990—Subsec. (a). [Pub. L. 101–625, § 832(f)(3)][/us/pl/101/625/s832/f/3], inserted “, and to Indian tribes,” after “States)” and “, or for Indian tribes” after “urban county” in two places.
+    1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625], § 832(f)(3), inserted “, and to Indian tribes,” after “States)” and “, or for Indian tribes” after “urban county” in two places.
 
-    Subsec. (c). [Pub. L. 101–625, § 832(f)(4)][/us/pl/101/625/s832/f/4], inserted “or Indian tribe” after “local government”.
+    Subsec. (c). [Pub. L. 101–625][/us/pl/101/625], § 832(f)(4), inserted “or Indian tribe” after “local government”.
 
-    Subsec. (d)(3). [Pub. L. 101–625, § 832(f)(5)][/us/pl/101/625/s832/f/5], inserted “or Indian tribe” after “State” in two places and “, or other Indian tribes, as applicable,” after “counties”.
+    Subsec. (d)(3). [Pub. L. 101–625][/us/pl/101/625], § 832(f)(5), inserted “or Indian tribe” after “State” in two places and “, or other Indian tribes, as applicable,” after “counties”.
 
-    1988—Subsec. (a). [Pub. L. 100–628, § 421(a)][/us/pl/100/628/s421/a], inserted “and private nonprofit organizations” after “local governments”.
+    1988—Subsec. (a). [Pub. L. 100–628][/us/pl/100/628], § 421(a), inserted “and private nonprofit organizations” after “local governments”.
 
-    Subsec. (c). [Pub. L. 100–628, § 421(b)][/us/pl/100/628/s421/b], inserted at end “Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.”
+    Subsec. (c). [Pub. L. 100–628][/us/pl/100/628], § 421(b), inserted at end “Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -92,33 +92,33 @@
 
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/usc/t42/s11364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11364
-[/us/pl/100/77/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs414
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F496
-[/us/pl/100/628/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs421
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3231
-[/us/pl/101/625/s832/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Ff%2F3
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4361
-[/us/pl/104/330/s506/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F3
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
-[/us/pl/111/22/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F3
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
-[/us/pl/114/94/s79002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs79002
+[/us/pl/114/94/dG/tLXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXIX
 [/us/stat/129/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1792
 [/us/pl/100/77/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs414
 [/us/usc/t42/s11374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/111/22/s1201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F5
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t42/s11364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11364
-[/us/pl/104/330/s506/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F3%2FA
-[/us/pl/104/330/s506/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F3%2FB
-[/us/pl/104/330/s506/a/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F3%2FC%2Fii
-[/us/pl/104/330/s506/a/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F3%2FC%2Fi
-[/us/pl/101/625/s832/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Ff%2F3
-[/us/pl/101/625/s832/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Ff%2F4
-[/us/pl/101/625/s832/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Ff%2F5
-[/us/pl/100/628/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs421%2Fa
-[/us/pl/100/628/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs421%2Fb
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

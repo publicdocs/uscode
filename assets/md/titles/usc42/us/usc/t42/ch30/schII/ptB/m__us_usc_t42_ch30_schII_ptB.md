@@ -11,51 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_s2588.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptC/m__us_usc_t42_ch30_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_s2588.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_s2601...2603.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptB)
 
 #### Part B—Duties of the Secretary of Health, Education, and Welfare
 
-§§ 2601 to 2603. __Repealed.__  __[__  __Pub. L. 93–203, title VII, § 714__  __][/us/pl/93/203/s714]__  __, formerly title VI, § 614,__  __Dec. 28, 1973__  __,__  __[__  __87 Stat. 883__  __][/us/stat/87/883]__  __; renumbered title VII, § 714,__  __[__  __Pub. L. 93–567, title I, § 101__  __][/us/pl/93/567/s101]__  __,__  __Dec. 31, 1974__  __,__  __[__  __88 Stat. 1845__  __][/us/stat/88/1845]__ 
-
-    Section 2601, [Pub. L. 87–415, title II, § 231][/us/pl/87/415/s231], Mar. 15, 1962, [76 Stat. 30][/us/stat/76/30]; [Pub. L. 88–214, § 6][/us/pl/88/214/s6], Dec. 19, 1963, [77 Stat. 424][/us/stat/77/424]; [Pub. L. 89–15, § 8][/us/pl/89/15/s8], Apr. 26, 1965, [79 Stat. 78][/us/stat/79/78]; [Pub. L. 89–792, § 5][/us/pl/89/792/s5], Nov. 7, 1966, [80 Stat. 1436][/us/stat/80/1436]; [Pub. L. 90–636][/us/pl/90/636], §§ 3(b), 5(b), 7, Oct. 24, 1968, [82 Stat. 1353][/us/stat/82/1353], set out general responsibility of Secretary of Health, Education, and Welfare in areas of training and skill development programs.
-
-    Section 2602, [Pub. L. 87–415, title II, § 232][/us/pl/87/415/s232], Mar. 15, 1962, [76 Stat. 30][/us/stat/76/30], empowered Secretary of Health, Education, and Welfare to promulgate rules and regulations.
-
-    Section 2603, [Pub. L. 87–415, title II, § 233][/us/pl/87/415/s233], as added [Pub. L. 89–792, § 8(b)][/us/pl/89/792/s8/b], Nov. 7, 1966, [80 Stat. 1437][/us/stat/80/1437], directed Secretary of Health, Education, and Welfare to make an annual report to Congress.
-
- __Effective Date of Repeal__ 
-
-    [Pub. L. 93–203, title VII, § 714][/us/pl/93/203/s714], formerly title VI, § 614, Dec. 28, 1973, [87 Stat. 883][/us/stat/87/883]; renumbered title VII, § 714, [Pub. L. 93–567, title I, § 101][/us/pl/93/567/s101], Dec. 31, 1974, [88 Stat. 1845][/us/stat/88/1845], provided that the repeal is effective with respect to fiscal years after June 30, 1974.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_s2588.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptC/m__us_usc_t42_ch30_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_s2588.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_s2601...2603.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptB)
 
 ----------
 ----------
 
-[/us/pl/93/203/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs714
-[/us/stat/87/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F883
-[/us/pl/93/567/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2Fs101
-[/us/stat/88/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1845
-[/us/pl/87/415/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs231
-[/us/stat/76/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F30
-[/us/pl/88/214/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F214%2Fs6
-[/us/stat/77/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F424
-[/us/pl/89/15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F15%2Fs8
-[/us/stat/79/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F78
-[/us/pl/89/792/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F792%2Fs5
-[/us/stat/80/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1436
-[/us/pl/90/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F636
-[/us/stat/82/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1353
-[/us/pl/87/415/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs232
-[/us/stat/76/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F30
-[/us/pl/87/415/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs233
-[/us/pl/89/792/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F792%2Fs8%2Fb
-[/us/stat/80/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1437
-[/us/pl/93/203/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs714
-[/us/stat/87/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F883
-[/us/pl/93/567/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2Fs101
-[/us/stat/88/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1845
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch23/dA/schVIII/m__us_usc_t42_s2122.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schVIII/m__us_usc_t42_s2123.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2122a)
 
-## § 2122a. Repealed. [Pub. L. 106–65, div. C, title XXXII, § 3294(e)(1)(A)][/us/pl/106/65/s3294/e/1/A], Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]
+## § 2122a. Repealed. [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3294(e)(1)(A), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]
 
-    Section, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 93, as added [Pub. L. 103–160, div. C, title XXXI, § 3156(a)][/us/pl/103/160/s3156/a], Nov. 30, 1993, [107 Stat. 1953][/us/stat/107/1953], related to congressional oversight of special access programs. See [section 2426 of Title 50][/us/usc/t50/s2426], War and National Defense.
+    Section, [act Aug. 1, 1946, ch. 724, title I][/us/act/1946-08-01/ch724/tI], § 93, as added [Pub. L. 103–160, div. C, title XXXI][/us/pl/103/160/dC/tXXXI], § 3156(a), Nov. 30, 1993, [107 Stat. 1953][/us/stat/107/1953], related to congressional oversight of special access programs. See [section 2426 of Title 50][/us/usc/t50/s2426], War and National Defense.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3294/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fe%2F1%2FA
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
-[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/103/160/s3156/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3156%2Fa
+[/us/act/1946-08-01/ch724/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724%2FtI
+[/us/pl/103/160/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXI
 [/us/stat/107/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1953
 [/us/usc/t50/s2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2426
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299

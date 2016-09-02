@@ -27,7 +27,7 @@
 
         The Secretary of Energy may obligate amounts in the Account to carry out activities under this part without the need for further appropriation, and amounts available to the Secretary of Energy for obligation under this section shall remain available without fiscal year limitation.
 
-([Pub. L. 94–163, title I, § 184][/us/pl/94/163/s184], as added [Pub. L. 106–469, title II, § 201(a)(3)][/us/pl/106/469/s201/a/3], Nov. 9, 2000, [114 Stat. 2036][/us/stat/114/2036].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 184, as added [Pub. L. 106–469, title II][/us/pl/106/469/tII], § 201(a)(3), Nov. 9, 2000, [114 Stat. 2036][/us/stat/114/2036].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs184
-[/us/pl/106/469/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs201%2Fa%2F3
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/106/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtII
 [/us/stat/114/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2036
 
 

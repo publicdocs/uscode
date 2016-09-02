@@ -17,7 +17,7 @@
 
     A service and supply fund of $250,000 is established, without fiscal year limitation, for the payment of salaries, travel, and other expenses necessary to the maintenance and operation of (1) a supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, materials, equipment, and blank forms, for which stocks may be maintained to meet, in whole or in part, requirements of the Public Health Service and requisitions of other Government Offices, and (2) such other services as the Surgeon General, with the approval of the Secretary of Health and Human Services, determines may be performed more advantageously as central services; said fund to be reimbursed from applicable appropriations or funds available when services are performed or stock furnished, or in advance, on a basis of rates which shall include estimated or actual charges for personal services, materials, equipment (including maintenance, repairs, and depreciation), and other expenses.
 
-([July 3, 1945, ch. 263][/us/act/1945-07-03/ch263], title II, [59 Stat. 370][/us/stat/59/370]; 1953 Reorg. Plan No. 1, §§ 5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–414, § 9(i)][/us/pl/97/414/s9/i], Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064].)
+([July 3, 1945, ch. 263][/us/act/1945-07-03/ch263], title II, [59 Stat. 370][/us/stat/59/370]; 1953 Reorg. Plan No. 1, §§ 5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–414][/us/pl/97/414], § 9(i), Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064].)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 [/us/act/1945-07-03/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-03%2Fch263
 [/us/stat/59/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F370
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/414/s9/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fi
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2064
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610

@@ -15,7 +15,7 @@
 
 ## § 16832. Omitted
 
-    Section, [Pub. L. 109–155, title VII, § 722][/us/pl/109/155/s722], Dec. 30, 2005, [119 Stat. 2939][/us/stat/119/2939], which related to National Science Foundation major research equipment and facilities and required review of facilities and development plan to be transmitted to congressional committees not later than June 30, 2006, was omitted from the Code following the enactment of Title 51, National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314].
+    Section, [Pub. L. 109–155, title VII][/us/pl/109/155/tVII], § 722, Dec. 30, 2005, [119 Stat. 2939][/us/stat/119/2939], which related to National Science Foundation major research equipment and facilities and required review of facilities and development plan to be transmitted to congressional committees not later than June 30, 2006, was omitted from the Code following the enactment of Title 51, National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314].
 
 ----------
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/109/155/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs722
+[/us/pl/109/155/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtVII
 [/us/stat/119/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2939
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 

@@ -79,7 +79,7 @@
 
         There is authorized to be appropriated the sum of $500,000 to implement this section.
 
-([Pub. L. 102–386, title I, § 109][/us/pl/102/386/s109], Oct. 6, 1992, [106 Stat. 1515][/us/stat/106/1515].)
+([Pub. L. 102–386, title I][/us/pl/102/386/tI], § 109, Oct. 6, 1992, [106 Stat. 1515][/us/stat/106/1515].)
 
  __Codification__ 
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/102/386/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs109
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1515
 
 

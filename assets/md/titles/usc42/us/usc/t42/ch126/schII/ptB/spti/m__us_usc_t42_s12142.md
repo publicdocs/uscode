@@ -45,7 +45,7 @@
 
                 For purposes of this paragraph and [section 12148(b) of this title][/us/usc/t42/s12148/b], a vehicle of historic character shall be defined by the regulations issued by the Secretary to carry out this subsection.
 
-([Pub. L. 101–336, title II, § 222][/us/pl/101/336/s222], July 26, 1990, [104 Stat. 339][/us/stat/104/339].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 222, July 26, 1990, [104 Stat. 339][/us/stat/104/339].)
 
  __Effective Date__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t42/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12132
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12148/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12148%2Fb
-[/us/pl/101/336/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs222
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F339
 [/us/pl/101/336/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231%2Fb
 [/us/usc/t42/s12141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12141

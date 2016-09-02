@@ -37,7 +37,7 @@
 
         (5) Such other functions as the Attorney General may delegate.
 
-([Pub. L. 98–473, title II, § 1411][/us/pl/98/473/s1411], as added [Pub. L. 100–690, title VII, § 7123(a)][/us/pl/100/690/s7123/a], Nov. 18, 1988, [102 Stat. 4420][/us/stat/102/4420]; amended [Pub. L. 112–166, § 2(h)(5)][/us/pl/112/166/s2/h/5], Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1411, as added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7123(a), Nov. 18, 1988, [102 Stat. 4420][/us/stat/102/4420]; amended [Pub. L. 112–166][/us/pl/112/166], § 2(h)(5), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
 
  __References in Text__ 
 
@@ -64,10 +64,10 @@
 
 [/us/usc/t42/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601
 [/us/usc/t42/s10603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603%2Fc
-[/us/pl/98/473/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1411
-[/us/pl/100/690/s7123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7123%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4420
-[/us/pl/112/166/s2/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fh%2F5
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1285
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

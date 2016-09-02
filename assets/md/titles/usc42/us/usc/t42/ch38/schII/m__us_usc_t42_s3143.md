@@ -69,23 +69,23 @@
 
             Each State that receives assistance for the development of a plan under this subsection shall submit to the Secretary an annual report on the planning process assisted under this subsection.
 
-([Pub. L. 89–136, title II, § 203][/us/pl/89/136/s203], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3602][/us/stat/112/3602]; amended [Pub. L. 108–373, title II, § 201][/us/pl/108/373/s201], Oct. 27, 2004, [118 Stat. 1759][/us/stat/118/1759].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 203, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3602][/us/stat/112/3602]; amended [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 201, Oct. 27, 2004, [118 Stat. 1759][/us/stat/118/1759].)
 
  __Prior Provisions__ 
 
-    A prior section 3143, [Pub. L. 89–136, title II, § 203][/us/pl/89/136/s203], Aug. 26, 1965, [79 Stat. 558][/us/stat/79/558]; [Pub. L. 94–273, § 2(25)][/us/pl/94/273/s2/25], Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376], directed deposit of funds into Economic Development Revolving Fund, prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior section 3143, [Pub. L. 89–136, title II][/us/pl/89/136/tII], § 203, Aug. 26, 1965, [79 Stat. 558][/us/stat/79/558]; [Pub. L. 94–273][/us/pl/94/273], § 2(25), Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376], directed deposit of funds into Economic Development Revolving Fund, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
  __Amendments__ 
 
-    2004—Subsec. (d)(1). [Pub. L. 108–373, § 201(1)][/us/pl/108/373/s201/1], inserted “, to the maximum extent practicable,” after “shall be developed”.
+    2004—Subsec. (d)(1). [Pub. L. 108–373][/us/pl/108/373], § 201(1), inserted “, to the maximum extent practicable,” after “shall be developed”.
 
-    Subsec. (d)(3). [Pub. L. 108–373, § 201(2)][/us/pl/108/373/s201/2], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “On completion of a State plan developed with assistance under this section, the State shall—
+    Subsec. (d)(3). [Pub. L. 108–373][/us/pl/108/373], § 201(2), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “On completion of a State plan developed with assistance under this section, the State shall—
 
     “(A) certify to the Secretary that, in the development of the State plan, local and economic development district plans were considered and, to the maximum extent practicable, the State plan is consistent with the local and economic development district plans; and
 
     “(B) identify any inconsistencies between the State plan and the local and economic development district plans and provide a justification for each inconsistency.”
 
-    Subsec. (d)(4)(D) to (F). [Pub. L. 108–373, § 201(3)][/us/pl/108/373/s201/3], added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+    Subsec. (d)(4)(D) to (F). [Pub. L. 108–373][/us/pl/108/373], § 201(3), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
 ----------
 
@@ -94,18 +94,18 @@
 ----------
 ----------
 
-[/us/pl/89/136/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs203
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3602
-[/us/pl/108/373/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs201
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1759
-[/us/pl/89/136/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs203
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
 [/us/stat/79/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F558
-[/us/pl/94/273/s2/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F25
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F376
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
-[/us/pl/108/373/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs201%2F1
-[/us/pl/108/373/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs201%2F2
-[/us/pl/108/373/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs201%2F3
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

@@ -181,7 +181,7 @@
 
         For purposes of the provisions of this section and [section 7420 of this title][/us/usc/t42/s7420], the term “operator”, as used in such provisions, shall include any person who is senior management personnel or a corporate officer. Except in the case of knowing and willful violations, such term shall not include any person who is a stationary engineer or technician responsible for the operation, maintenance, repair, or monitoring of equipment and facilities and who often has supervisory and training duties but who is not senior management personnel or a corporate officer. Except in the case of knowing and willful violations, for purposes of subsection (c)(4) of this section, the term “a person” shall not include an employee who is carrying out his normal activities and who is not a part of senior management personnel or a corporate officer. Except in the case of knowing and willful violations, for purposes of paragraphs (1), (2), (3), and (5) of subsection (c) of this section the term “a person” shall not include an employee who is carrying out his normal activities and who is acting under orders from the employer.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 113, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1686][/us/stat/84/1686]; amended [Pub. L. 92–157, title III, § 302(b)][/us/pl/92/157/s302/b], (c), Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 93–319, § 6(a)(1)][/us/pl/93/319/s6/a/1]–(3), June 22, 1974, [88 Stat. 259][/us/stat/88/259]; [Pub. L. 95–95, title I][/us/pl/95/95], §§ 111, 112(a), Aug. 7, 1977, [91 Stat. 704][/us/stat/91/704], 705; [Pub. L. 95–190, § 14(a)(10)][/us/pl/95/190/s14/a/10]–(21), (b)(1), Nov. 16, 1977, [91 Stat. 1400][/us/stat/91/1400], 1404; [Pub. L. 97–23, § 2][/us/pl/97/23/s2], July 17, 1981, [95 Stat. 139][/us/stat/95/139]; [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 113, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1686][/us/stat/84/1686]; amended [Pub. L. 92–157, title III][/us/pl/92/157/tIII], § 302(b), (c), Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 93–319][/us/pl/93/319], § 6(a)(1)–(3), June 22, 1974, [88 Stat. 259][/us/stat/88/259]; [Pub. L. 95–95, title I][/us/pl/95/95/tI], §§ 111, 112(a), Aug. 7, 1977, [91 Stat. 704][/us/stat/91/704], 705; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(10)–(21), (b)(1), Nov. 16, 1977, [91 Stat. 1400][/us/stat/91/1400], 1404; [Pub. L. 97–23][/us/pl/97/23], § 2, July 17, 1981, [95 Stat. 139][/us/stat/95/139]; [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672].)
 
  __Codification__ 
 
@@ -193,45 +193,45 @@
 
     1981—Subsec. (e). [Pub. L. 97–23][/us/pl/97/23] added subsec. (e).
 
-    1977—Subsec. (a)(5). [Pub. L. 95–95, § 111(a)][/us/pl/95/95/s111/a], added par. (5).
+    1977—Subsec. (a)(5). [Pub. L. 95–95][/us/pl/95/95], § 111(a), added par. (5).
 
-    Subsec. (b). [Pub. L. 95–95, § 111(b)][/us/pl/95/95/s111/b], (c), substituted “shall, in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, commence a civil action for a permanent or temporary injunction, or to assess and recover a civil penalty of not more than $25,000 per day of violation, or both, whenever such person” for “may commence a civil action for appropriate relief, including a permanent or temporary injunction, whenever any person” in provisions preceding par. (1), inserted references to subsec. (d)(5) of this section, sections 7419 and 7620 of this title, and regulations under part in par. (3), inserted reference to subsec. (d) of this section in par. (4), added par. (5), and, in provisions following par. (5), authorized the commencement of civil actions to recover noncompliance penalties and nonpayment penalties under [section 7420 of this title][/us/usc/t42/s7420], expanded jurisdictional provisions to authorize actions in districts in which the violation occurred and to authorize the district court to restrain violations, to require compliance, to assess civil penalties, and to collect penalties under [section 7420 of this title][/us/usc/t42/s7420], enumerated factors to be taken into consideration in determining the amount of civil penalties, and authorized awarding of costs to the party or parties against whom the action was brought in cases where the court finds that the action was unreasonable.
+    Subsec. (b). [Pub. L. 95–95][/us/pl/95/95], § 111(b), (c), substituted “shall, in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, commence a civil action for a permanent or temporary injunction, or to assess and recover a civil penalty of not more than $25,000 per day of violation, or both, whenever such person” for “may commence a civil action for appropriate relief, including a permanent or temporary injunction, whenever any person” in provisions preceding par. (1), inserted references to subsec. (d)(5) of this section, sections 7419 and 7620 of this title, and regulations under part in par. (3), inserted reference to subsec. (d) of this section in par. (4), added par. (5), and, in provisions following par. (5), authorized the commencement of civil actions to recover noncompliance penalties and nonpayment penalties under [section 7420 of this title][/us/usc/t42/s7420], expanded jurisdictional provisions to authorize actions in districts in which the violation occurred and to authorize the district court to restrain violations, to require compliance, to assess civil penalties, and to collect penalties under [section 7420 of this title][/us/usc/t42/s7420], enumerated factors to be taken into consideration in determining the amount of civil penalties, and authorized awarding of costs to the party or parties against whom the action was brought in cases where the court finds that the action was unreasonable.
 
-    Subsec. (b)(3). [Pub. L. 95–190, § 14(a)(10)][/us/pl/95/190/s14/a/10], (11), inserted “or” after “ozone);”, and substituted “7624” for “7620”, “conversion), section” for “conversion) section”, and “orders), or” for “orders) or”.
+    Subsec. (b)(3). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(10), (11), inserted “or” after “ozone);”, and substituted “7624” for “7620”, “conversion), section” for “conversion) section”, and “orders), or” for “orders) or”.
 
-    Subsec. (c)(1). [Pub. L. 95–95, § 111(d)(1)][/us/pl/95/95/s111/d/1], (2), substituted “any order issued under [section 7419 of this title][/us/usc/t42/s7419] or under subsection (a) or (d) of this section” for “any order issued by the Administrator under subsection (a) of this section” in subpar. (B), struck out reference to section 119(g) (as in effect before the date of the enactment of [Pub. L. 95–95][/us/pl/95/95]) in subpar. (C), and added subpar. (D).
+    Subsec. (c)(1). [Pub. L. 95–95][/us/pl/95/95], § 111(d)(1), (2), substituted “any order issued under [section 7419 of this title][/us/usc/t42/s7419] or under subsection (a) or (d) of this section” for “any order issued by the Administrator under subsection (a) of this section” in subpar. (B), struck out reference to section 119(g) (as in effect before the date of the enactment of [Pub. L. 95–95][/us/pl/95/95]) in subpar. (C), and added subpar. (D).
 
-    Subsec. (c)(1)(B). [Pub. L. 95–190, § 14(a)(12)][/us/pl/95/190/s14/a/12], inserted “or” after “section,”.
+    Subsec. (c)(1)(B). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(12), inserted “or” after “section,”.
 
-    Subsec. (c)(1)(D). [Pub. L. 95–190, § 14(a)(13)][/us/pl/95/190/s14/a/13], substituted “1977 subsection” for “1977) subsection” and “penalties), or” for “penalties) or”.
+    Subsec. (c)(1)(D). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(13), substituted “1977 subsection” for “1977) subsection” and “penalties), or” for “penalties) or”.
 
-    Subsec. (c)(3). [Pub. L. 95–95, § 111(d)(3)][/us/pl/95/95/s111/d/3], added par. (3).
+    Subsec. (c)(3). [Pub. L. 95–95][/us/pl/95/95], § 111(d)(3), added par. (3).
 
-    Subsec. (d). [Pub. L. 95–95, § 112(a)][/us/pl/95/95/s112/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–95][/us/pl/95/95], § 112(a), added subsec. (d).
 
-    Subsec. (d)(1). [Pub. L. 95–190, § 14(a)(14)][/us/pl/95/190/s14/a/14], substituted “to any stationary source which is unable to comply with any requirement of an applicable implementation plan an order” for “an order for any stationary source” and “such requirement” for “any requirement of an applicable implementation plan”.
+    Subsec. (d)(1). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(14), substituted “to any stationary source which is unable to comply with any requirement of an applicable implementation plan an order” for “an order for any stationary source” and “such requirement” for “any requirement of an applicable implementation plan”.
 
-    Subsec. (d)(1)(E). [Pub. L. 95–190, § 14(a)(15)][/us/pl/95/190/s14/a/15], inserted provision relating to exemption under section 7420(a)(2)(B) or (C) of this title, provision relating to noncompliance penalties effective July 1, 1979, and reference to subsec. (b)(3) or (g) of [section 7420 of this title][/us/usc/t42/s7420].
+    Subsec. (d)(1)(E). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(15), inserted provision relating to exemption under section 7420(a)(2)(B) or (C) of this title, provision relating to noncompliance penalties effective July 1, 1979, and reference to subsec. (b)(3) or (g) of [section 7420 of this title][/us/usc/t42/s7420].
 
-    Subsec. (d)(2). [Pub. L. 95–190, § 14(a)(16)][/us/pl/95/190/s14/a/16], inserted provisions relating to determinations by the Administrator of compliance with requirements of this chapter of State orders issued under this subsection.
+    Subsec. (d)(2). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(16), inserted provisions relating to determinations by the Administrator of compliance with requirements of this chapter of State orders issued under this subsection.
 
-    Subsec. (d)(4)(A). [Pub. L. 95–190, § 14(a)(17)][/us/pl/95/190/s14/a/17], substituted “title) upon” for “title upon”.
+    Subsec. (d)(4)(A). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(17), substituted “title) upon” for “title upon”.
 
-    Subsec. (d)(5)(A). [Pub. L. 95–190, § 14(a)(18)][/us/pl/95/190/s14/a/18], substituted “an additional period for” for “an additional period of”.
+    Subsec. (d)(5)(A). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(18), substituted “an additional period for” for “an additional period of”.
 
-    Subsec. (d)(8). [Pub. L. 95–190, § 14(a)(19)][/us/pl/95/190/s14/a/19], struck out reference to par. (3) of this subsection.
+    Subsec. (d)(8). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(19), struck out reference to par. (3) of this subsection.
 
-    Subsec. (d)(10). [Pub. L. 95–190, § 14(a)(20)][/us/pl/95/190/s14/a/20], substituted “in effect” for “issued”, “Federal” for “other”, and “and no action under” for “or”.
+    Subsec. (d)(10). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(20), substituted “in effect” for “issued”, “Federal” for “other”, and “and no action under” for “or”.
 
-    Subsec. (d)(11). [Pub. L. 95–190, § 14(a)(21)][/us/pl/95/190/s14/a/21], substituted “and in effect” for “(and approved by the Administrator)”.
+    Subsec. (d)(11). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(21), substituted “and in effect” for “(and approved by the Administrator)”.
 
-    1974—Subsec. (a)(3). [Pub. L. 93–319, § 6(a)(1)][/us/pl/93/319/s6/a/1], inserted reference to [section 1857c–10(g) of this title][/us/usc/t42/s1857c–10/g] (relating to energy-related authorities).
+    1974—Subsec. (a)(3). [Pub. L. 93–319][/us/pl/93/319], § 6(a)(1), inserted reference to [section 1857c–10(g) of this title][/us/usc/t42/s1857c–10/g] (relating to energy-related authorities).
 
-    Subsecs. (b)(3), (c)(1)(C). [Pub. L. 93–319, § 6(a)(2)][/us/pl/93/319/s6/a/2], (3), inserted reference to [section 1857c–10(g) of this title][/us/usc/t42/s1857c–10/g].
+    Subsecs. (b)(3), (c)(1)(C). [Pub. L. 93–319][/us/pl/93/319], § 6(a)(2), (3), inserted reference to [section 1857c–10(g) of this title][/us/usc/t42/s1857c–10/g].
 
-    1971—Subsec. (b)(2). [Pub. L. 92–157, § 302(b)][/us/pl/92/157/s302/b], inserted “(A)” before “during” and “, or (B)” after “assumed enforcement”.
+    1971—Subsec. (b)(2). [Pub. L. 92–157][/us/pl/92/157], § 302(b), inserted “(A)” before “during” and “, or (B)” after “assumed enforcement”.
 
-    Subsec. (c)(1)(A). [Pub. L. 92–157, § 302(c)][/us/pl/92/157/s302/c], inserted “(i)” before “during” and “, or (ii)” after “assumed enforcement”.
+    Subsec. (c)(1)(A). [Pub. L. 92–157][/us/pl/92/157], § 302(c), inserted “(i)” before “during” and “, or (ii)” after “assumed enforcement”.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -285,50 +285,50 @@
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1686
-[/us/pl/92/157/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs302%2Fb
+[/us/pl/92/157/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtIII
 [/us/stat/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F464
-[/us/pl/93/319/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs6%2Fa%2F1
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F259
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F704
-[/us/pl/95/190/s14/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F10
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1400
-[/us/pl/97/23/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23%2Fs2
+[/us/pl/97/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23
 [/us/stat/95/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F139
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/usc/t42/s1857c–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%938
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/97/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23
-[/us/pl/95/95/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs111%2Fa
-[/us/pl/95/95/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs111%2Fb
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
-[/us/pl/95/190/s14/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F10
-[/us/pl/95/95/s111/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs111%2Fd%2F1
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
-[/us/pl/95/190/s14/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F12
-[/us/pl/95/190/s14/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F13
-[/us/pl/95/95/s111/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs111%2Fd%2F3
-[/us/pl/95/95/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fa
-[/us/pl/95/190/s14/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F14
-[/us/pl/95/190/s14/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F15
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
-[/us/pl/95/190/s14/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F16
-[/us/pl/95/190/s14/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F17
-[/us/pl/95/190/s14/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F18
-[/us/pl/95/190/s14/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F19
-[/us/pl/95/190/s14/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F20
-[/us/pl/95/190/s14/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F21
-[/us/pl/93/319/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs6%2Fa%2F1
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t42/s1857c–10/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310%2Fg
-[/us/pl/93/319/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs6%2Fa%2F2
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t42/s1857c–10/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310%2Fg
-[/us/pl/92/157/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs302%2Fb
-[/us/pl/92/157/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs302%2Fc
+[/us/pl/92/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157
+[/us/pl/92/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

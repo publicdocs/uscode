@@ -177,7 +177,7 @@
 
             (B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 459, as added [Pub. L. 93–647, § 101(a)][/us/pl/93/647/s101/a], Jan. 4, 1975, [88 Stat. 2357][/us/stat/88/2357]; amended [Pub. L. 95–30, title V, § 501(a)][/us/pl/95/30/s501/a], (b), May 23, 1977, [91 Stat. 157][/us/stat/91/157]; [Pub. L. 98–21, title III, § 335(b)(1)][/us/pl/98/21/s335/b/1], Apr. 20, 1983, [97 Stat. 130][/us/stat/97/130]; [Pub. L. 104–193, title III, § 362(a)][/us/pl/104/193/s362/a], Aug. 22, 1996, [110 Stat. 2242][/us/stat/110/2242]; [Pub. L. 105–33, title V, § 5542(a)][/us/pl/105/33/s5542/a], (b), Aug. 5, 1997, [111 Stat. 631][/us/stat/111/631]; [Pub. L. 106–169, title II, § 251(b)(3)][/us/pl/106/169/s251/b/3], Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 459, as added [Pub. L. 93–647][/us/pl/93/647], § 101(a), Jan. 4, 1975, [88 Stat. 2357][/us/stat/88/2357]; amended [Pub. L. 95–30, title V][/us/pl/95/30/tV], § 501(a), (b), May 23, 1977, [91 Stat. 157][/us/stat/91/157]; [Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 335(b)(1), Apr. 20, 1983, [97 Stat. 130][/us/stat/97/130]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 362(a), Aug. 22, 1996, [110 Stat. 2242][/us/stat/110/2242]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5542(a), (b), Aug. 5, 1997, [111 Stat. 631][/us/stat/111/631]; [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(b)(3), Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
  __References in Text__ 
 
@@ -189,25 +189,25 @@
 
     1999—Subsec. (h)(1)(A)(v). [Pub. L. 106–169][/us/pl/106/169] added cl. (v).
 
-    1997—Subsec. (c)(2)(C). [Pub. L. 105–33, § 5542(a)][/us/pl/105/33/s5542/a], substituted “withhold available sums in response to the order or process, or answer the interrogatory” for “respond to the order, process, or interrogatory”.
+    1997—Subsec. (c)(2)(C). [Pub. L. 105–33][/us/pl/105/33], § 5542(a), substituted “withhold available sums in response to the order or process, or answer the interrogatory” for “respond to the order, process, or interrogatory”.
 
-    Subsec. (h)(1). [Pub. L. 105–33, § 5542(b)(1)][/us/pl/105/33/s5542/b/1], struck out “paid or” after “moneys” in introductory provisions.
+    Subsec. (h)(1). [Pub. L. 105–33][/us/pl/105/33], § 5542(b)(1), struck out “paid or” after “moneys” in introductory provisions.
 
-    Subsec. (h)(1)(A)(i). [Pub. L. 105–33, § 5542(b)(1)][/us/pl/105/33/s5542/b/1], struck out “paid or” before “payable”.
+    Subsec. (h)(1)(A)(i). [Pub. L. 105–33][/us/pl/105/33], § 5542(b)(1), struck out “paid or” before “payable”.
 
-    Subsec. (h)(1)(A)(iii). [Pub. L. 105–33, § 5542(b)(2)(B)(i)][/us/pl/105/33/s5542/b/2/B/i], inserted “or payable” after “paid”.
+    Subsec. (h)(1)(A)(iii). [Pub. L. 105–33][/us/pl/105/33], § 5542(b)(2)(B)(i), inserted “or payable” after “paid”.
 
-    Subsec. (h)(1)(A)(iv). [Pub. L. 105–33, § 5542(b)(2)(A)][/us/pl/105/33/s5542/b/2/A], (B)(ii), (C), added cl. (iv).
+    Subsec. (h)(1)(A)(iv). [Pub. L. 105–33][/us/pl/105/33], § 5542(b)(2)(A), (B)(ii), (C), added cl. (iv).
 
-    Subsec. (h)(1)(B)(iii). [Pub. L. 105–33, § 5542(b)(3)][/us/pl/105/33/s5542/b/3], added cl. (iii).
+    Subsec. (h)(1)(B)(iii). [Pub. L. 105–33][/us/pl/105/33], § 5542(b)(3), added cl. (iii).
 
     1996—[Pub. L. 104–193][/us/pl/104/193] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to use of legal process to collect money payable to an individual as remuneration for employment by the United States or the District of Columbia for purpose of enforcing individual’s legal obligation to provide child support or make alimony payments.
 
     1983—Subsec. (a). [Pub. L. 98–21][/us/pl/98/21] inserted reference to [section 407 of this title][/us/usc/t42/s407].
 
-    1977—Subsec. (a). [Pub. L. 95–30, § 501(a)][/us/pl/95/30/s501/a], (b)(1), designated existing provisions as subsec. (a) and substituted “or the District of Columbia (including any agency, subdivision, or instrumentality thereof)” for “(including any agency or instrumentality thereof and any wholly owned Federal Corporation)” and “as if the United States or the District of Columbia were a private person” for “as if the United States were a private person”.
+    1977—Subsec. (a). [Pub. L. 95–30][/us/pl/95/30], § 501(a), (b)(1), designated existing provisions as subsec. (a) and substituted “or the District of Columbia (including any agency, subdivision, or instrumentality thereof)” for “(including any agency or instrumentality thereof and any wholly owned Federal Corporation)” and “as if the United States or the District of Columbia were a private person” for “as if the United States were a private person”.
 
-    Subsecs. (b) to (f). [Pub. L. 95–30, § 501(b)(2)][/us/pl/95/30/s501/b/2], added subsecs. (b) to (f).
+    Subsecs. (b) to (f). [Pub. L. 95–30][/us/pl/95/30], § 501(b)(2), added subsecs. (b) to (f).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -215,7 +215,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–193, title III, § 362(d)][/us/pl/104/193/s362/d], Aug. 22, 1996, [110 Stat. 2247][/us/stat/110/2247], provided that: 
+[Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 362(d), Aug. 22, 1996, [110 Stat. 2247][/us/stat/110/2247], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 5520a of Title 5][/us/usc/t5/s5520a], Government Organization and Employees, and [section 1408 of Title 10][/us/usc/t10/s1408], Armed Forces, and repealing sections 661 and 662 of this title\] shall become effective 6 months after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
@@ -353,38 +353,38 @@
 [/us/usc/t42/s428/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs428%2Fh%2F3
 [/us/usc/t37/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F5
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/647/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs101%2Fa
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2357
-[/us/pl/95/30/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fa
+[/us/pl/95/30/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtV
 [/us/stat/91/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F157
-[/us/pl/98/21/s335/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs335%2Fb%2F1
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F130
-[/us/pl/104/193/s362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fa
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2242
-[/us/pl/105/33/s5542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5542%2Fa
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F631
-[/us/pl/106/169/s251/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F3
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1855
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
-[/us/pl/105/33/s5542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5542%2Fa
-[/us/pl/105/33/s5542/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5542%2Fb%2F1
-[/us/pl/105/33/s5542/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5542%2Fb%2F1
-[/us/pl/105/33/s5542/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5542%2Fb%2F2%2FB%2Fi
-[/us/pl/105/33/s5542/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5542%2Fb%2F2%2FA
-[/us/pl/105/33/s5542/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5542%2Fb%2F3
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/usc/t42/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407
-[/us/pl/95/30/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fa
-[/us/pl/95/30/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fb%2F2
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5557
 [/us/usc/t42/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs608
-[/us/pl/104/193/s362/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fd
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2247
 [/us/usc/t5/s5520a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5520a
 [/us/usc/t10/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408

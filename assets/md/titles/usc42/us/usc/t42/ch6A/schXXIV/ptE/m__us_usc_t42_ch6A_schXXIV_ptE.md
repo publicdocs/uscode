@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Part E of title XXVI of the Public Health Service Act, comprising this part, was originally added to [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], by [Pub. L. 101–381, title IV, § 411(a)][/us/pl/101/381/s411/a], Aug. 18, 1990, [104 Stat. 622][/us/stat/104/622], and amended by [Pub. L. 104–146][/us/pl/104/146], May 20, 1996, [110 Stat. 1346][/us/stat/110/1346]. Part E is shown herein, however, as having been added by [Pub. L. 109–415, title IV, § 501][/us/pl/109/415/s501], Dec. 19, 2006, [120 Stat. 2812][/us/stat/120/2812], without reference to the intervening amendments because of the extensive revision of part E by [Pub. L. 109–415][/us/pl/109/415].
+    Part E of title XXVI of the Public Health Service Act, comprising this part, was originally added to [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], by [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 411(a), Aug. 18, 1990, [104 Stat. 622][/us/stat/104/622], and amended by [Pub. L. 104–146][/us/pl/104/146], May 20, 1996, [110 Stat. 1346][/us/stat/110/1346]. Part E is shown herein, however, as having been added by [Pub. L. 109–415, title IV][/us/pl/109/415/tIV], § 501, Dec. 19, 2006, [120 Stat. 2812][/us/stat/120/2812], without reference to the intervening amendments because of the extensive revision of part E by [Pub. L. 109–415][/us/pl/109/415].
 
  __Prior Provisions__ 
 
-    A prior section 300ff–80, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2680, as added [Pub. L. 101–381, title IV, § 411(a)][/us/pl/101/381/s411/a], Aug. 18, 1990, [104 Stat. 622][/us/stat/104/622], related to grants for implementation of recommendations in guidelines and model curriculum.
+    A prior section 300ff–80, [act July 1, 1944, ch. 373, title XXVI][/us/act/1944-07-01/ch373/tXXVI], § 2680, as added [Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 411(a), Aug. 18, 1990, [104 Stat. 622][/us/stat/104/622], related to grants for implementation of recommendations in guidelines and model curriculum.
 
 ----------
 
@@ -31,15 +31,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs411%2Fa
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F622
 [/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1346
-[/us/pl/109/415/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs501
+[/us/pl/109/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtIV
 [/us/stat/120/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2812
 [/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs411%2Fa
+[/us/act/1944-07-01/ch373/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVI
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F622
 
 

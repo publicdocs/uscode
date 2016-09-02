@@ -79,19 +79,19 @@
 
         Nothing in this section shall preclude Federal participation in, and support for, joint university-industry nonnuclear energy research efforts.
 
-([Pub. L. 93–577, § 7][/us/pl/93/577/s7], Dec. 31, 1974, [88 Stat. 1883][/us/stat/88/1883]; [Pub. L. 95–238, title II, § 207(a)][/us/pl/95/238/s207/a], Feb. 25, 1978, [92 Stat. 61][/us/stat/92/61]; [Pub. L. 99–386, title I, § 104(a)][/us/pl/99/386/s104/a], Aug. 22, 1986, [100 Stat. 821][/us/stat/100/821]; [Pub. L. 109–58, title X, § 1009(b)(5)][/us/pl/109/58/s1009/b/5], Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
+([Pub. L. 93–577][/us/pl/93/577], § 7, Dec. 31, 1974, [88 Stat. 1883][/us/stat/88/1883]; [Pub. L. 95–238, title II][/us/pl/95/238/tII], § 207(a), Feb. 25, 1978, [92 Stat. 61][/us/stat/92/61]; [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 104(a), Aug. 22, 1986, [100 Stat. 821][/us/stat/100/821]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(5), Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
 
  __Codification__ 
 
-    [Section 5919 of this title][/us/usc/t42/s5919], referred to in subsec. (a)(7), was in the original “section 19” and has been editorially translated as [section 5919 of this title][/us/usc/t42/s5919] which related to loan guarantees prior to repeal by [Pub. L. 109–58, title X, § 1009(b)(12)][/us/pl/109/58/s1009/b/12], Aug. 8, 2005, [119 Stat. 936][/us/stat/119/936], to reflect the probable intent of Congress, notwithstanding enactment of another section 19 which was classified to [section 5918 of this title][/us/usc/t42/s5918] and related to organizational conflicts prior to repeal by [Pub. L. 104–106, div. D, title XLIII, § 4304(b)(5)][/us/pl/104/106/s4304/b/5], Feb. 10, 1996, [110 Stat. 664][/us/stat/110/664].
+    [Section 5919 of this title][/us/usc/t42/s5919], referred to in subsec. (a)(7), was in the original “section 19” and has been editorially translated as [section 5919 of this title][/us/usc/t42/s5919] which related to loan guarantees prior to repeal by [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(12), Aug. 8, 2005, [119 Stat. 936][/us/stat/119/936], to reflect the probable intent of Congress, notwithstanding enactment of another section 19 which was classified to [section 5918 of this title][/us/usc/t42/s5918] and related to organizational conflicts prior to repeal by [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4304(b)(5), Feb. 10, 1996, [110 Stat. 664][/us/stat/110/664].
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 1009(b)(5)(A)][/us/pl/109/58/s1009/b/5/A], substituted “Secretary” for “Administrator” in introductory provisions.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(5)(A), substituted “Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 109–58, § 1009(b)(5)(B)][/us/pl/109/58/s1009/b/5/B], substituted “of this section” for “of the section”.
+    Subsec. (a)(4). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(5)(B), substituted “of this section” for “of the section”.
 
-    Subsecs. (b), (c). [Pub. L. 109–58, § 1009(b)(5)(A)][/us/pl/109/58/s1009/b/5/A], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(5)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
     1986—Subsec. (b)(7). [Pub. L. 99–386][/us/pl/99/386] struck out subpar. (A) which related to submission of a report by Secretary to House and Senate, prior to establishment of any joint Federal-industry corporation pursuant to this chapter, setting forth in detail consistency of establishment of corporation with this section and [section 5904 of this title][/us/usc/t42/s5904], and proposed purpose and activities of corporation, and struck out subpar. (B) designation.
 
@@ -103,7 +103,7 @@
 
  __Price-Support Program To Demonstrate Municipal Solid Waste Reprocessing for Production of Fuels and Energy Intensive Products__ 
 
-    [Pub. L. 95–39, title I, § 107][/us/pl/95/39/s107], June 3, 1977, [91 Stat. 185][/us/stat/91/185], authorized Administrator, subject to the appropriation of funds pursuant to [section 101(7)(I) of Pub. L. 95–39][/us/pl/95/39/s101/7/I], to establish and implement, under subsection (a)(4) of this section and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility and the necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
+    [Pub. L. 95–39, title I][/us/pl/95/39/tI], § 107, June 3, 1977, [91 Stat. 185][/us/stat/91/185], authorized Administrator, subject to the appropriation of funds pursuant to [section 101(7)(I) of Pub. L. 95–39][/us/pl/95/39/s101/7/I], to establish and implement, under subsection (a)(4) of this section and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility and the necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
 
 ----------
 
@@ -113,24 +113,24 @@
 ----------
 
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
-[/us/pl/93/577/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs7
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1883
-[/us/pl/95/238/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs207%2Fa
+[/us/pl/95/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtII
 [/us/stat/92/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F61
-[/us/pl/99/386/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs104%2Fa
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F821
-[/us/pl/109/58/s1009/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F5
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F935
 [/us/usc/t42/s5919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5919
 [/us/usc/t42/s5919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5919
-[/us/pl/109/58/s1009/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F12
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F936
 [/us/usc/t42/s5918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5918
-[/us/pl/104/106/s4304/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4304%2Fb%2F5
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F664
-[/us/pl/109/58/s1009/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F5%2FA
-[/us/pl/109/58/s1009/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F5%2FB
-[/us/pl/109/58/s1009/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F5%2FA
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
 [/us/usc/t42/s5904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5904
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
@@ -138,7 +138,7 @@
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/95/238/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs209
 [/us/usc/t42/s5821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5821
-[/us/pl/95/39/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs107
+[/us/pl/95/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtI
 [/us/stat/91/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F185
 [/us/pl/95/39/s101/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs101%2F7%2FI
 

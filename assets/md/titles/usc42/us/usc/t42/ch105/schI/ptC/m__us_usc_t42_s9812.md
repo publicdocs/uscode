@@ -39,13 +39,13 @@
 
         (3) The Community Development Loan Fund shall consist of such amounts as may be deposited in such fund by the Secretary out of funds made available from appropriations for purposes of carrying out this subchapter. The Secretary may make deposits in the Community Development Loan Fund in any fiscal year in which the Secretary has made available for grants to community development corporations under this subchapter not less than $60,000,000 out of funds made available from appropriations for purposes of carrying out this subchapter.
 
-([Pub. L. 97–35, title VI, § 623][/us/pl/97/35/s623], Aug. 13, 1981, [95 Stat. 494][/us/stat/95/494]; [Pub. L. 101–624, title XXIII, § 2303(f)(1)][/us/pl/101/624/s2303/f/1], Nov. 28, 1990, [104 Stat. 3981][/us/stat/104/3981].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 623, Aug. 13, 1981, [95 Stat. 494][/us/stat/95/494]; [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2303(f)(1), Nov. 28, 1990, [104 Stat. 3981][/us/stat/104/3981].)
 
  __References in Text__ 
 
     Chapter 106 of this title, referred to in subsec. (a), was in the original “subtitle B of this title”, meaning subtitle B (§ 671 et seq.) of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title][/us/usc/t42/s9901] and Tables.
 
-    The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Part A of title III of the Economic Opportunity Act of 1964 was classified generally to part A (§ 2841 et seq.) of subchapter III of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Part A of title III of the Economic Opportunity Act of 1964 was classified generally to part A (§ 2841 et seq.) of subchapter III of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -63,16 +63,16 @@
 ----------
 
 [/us/usc/t42/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2841
-[/us/pl/97/35/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs623
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F494
-[/us/pl/101/624/s2303/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2303%2Ff%2F1
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3981
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/99/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F609

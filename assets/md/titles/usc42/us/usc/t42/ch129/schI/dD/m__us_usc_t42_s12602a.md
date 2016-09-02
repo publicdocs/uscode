@@ -23,7 +23,7 @@
 
         If the Corporation determines that the certification under subsection (a) is erroneous or incorrect, the Corporation shall assess against the national service program a charge for the amount of any associated payment or potential payment from the National Service Trust. In assessing the amount of the charge, the Corporation shall consider the full facts and circumstances surrounding the erroneous or incorrect certification.
 
-([Pub. L. 101–610, title I, § 146A][/us/pl/101/610/s146A], as added [Pub. L. 111–13, title I, § 1403][/us/pl/111/13/s1403], Apr. 21, 2009, [123 Stat. 1514][/us/stat/123/1514].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 146A, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1403, Apr. 21, 2009, [123 Stat. 1514][/us/stat/123/1514].)
 
  __Effective Date__ 
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t42/s12604/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12604%2Ff%2F8
 [/us/usc/t42/s12602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602
-[/us/pl/101/610/s146A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs146A
-[/us/pl/111/13/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1403
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1514
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

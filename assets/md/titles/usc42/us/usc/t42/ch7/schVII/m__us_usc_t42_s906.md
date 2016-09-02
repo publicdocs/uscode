@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s904.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905 _us_usc_t42_s905a.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
 
 ## § 906. Training grants for public welfare personnel
 
@@ -43,33 +43,33 @@
 
         (3) The Secretary may, to the extent he finds such action to be necessary, prescribe requirements to assure that any individual will repay the amount of his fellowship or traineeship received under this subsection to the extent such individual fails to serve, for the period prescribed by the Secretary, with a State or political subdivision thereof, or with the Federal Government, in connection with administration of any State or local public assistance program. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to the extent that requirement of such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the public welfare programs established by this chapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 705, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 332, [70 Stat. 851][/us/stat/70/851]; amended [Pub. L. 87–31, § 3][/us/pl/87/31/s3], May 8, 1961, [75 Stat. 77][/us/stat/75/77]; [Pub. L. 87–543, title I, § 123][/us/pl/87/543/s123] (a)–(c), July 25, 1962, [76 Stat. 192][/us/stat/76/192].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 705, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 332, [70 Stat. 851][/us/stat/70/851]; amended [Pub. L. 87–31][/us/pl/87/31], § 3, May 8, 1961, [75 Stat. 77][/us/stat/75/77]; [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 123 (a)–(c), July 25, 1962, [76 Stat. 192][/us/stat/76/192].)
 
  __Amendments__ 
 
-    1962—Subsec. (a). [Pub. L. 87–543, § 123(a)][/us/pl/87/543/s123/a], substituted “for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000” for “for the fiscal year ending June 30, 1958, the sum of $5,000,000, and for each of the five succeeding fiscal years such sums as the Congress may determine”.
+    1962—Subsec. (a). [Pub. L. 87–543][/us/pl/87/543], § 123(a), substituted “for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000” for “for the fiscal year ending June 30, 1958, the sum of $5,000,000, and for each of the five succeeding fiscal years such sums as the Congress may determine”.
 
-    Subsec. (b). [Pub. L. 87–543, § 123(b)][/us/pl/87/543/s123/b], required appropriated moneys to be made available for carrying out subsec. (f) of this section.
+    Subsec. (b). [Pub. L. 87–543][/us/pl/87/543], § 123(b), required appropriated moneys to be made available for carrying out subsec. (f) of this section.
 
-    Subsec. (f). [Pub. L. 87–543, § 123(c)][/us/pl/87/543/s123/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 87–543][/us/pl/87/543], § 123(c), added subsec. (f).
 
-    1961—Subsec. (a). [Pub. L. 87–31, § 3(a)][/us/pl/87/31/s3/a], substituted “five” for “four”.
+    1961—Subsec. (a). [Pub. L. 87–31][/us/pl/87/31], § 3(a), substituted “five” for “four”.
 
-    Subsec. (c). [Pub. L. 87–31, § 3(b)][/us/pl/87/31/s3/b], substituted “its costs of carrying out the purposes of this section” for “80 per centum of the total of its expenditures in carrying out the purposes of this section”.
+    Subsec. (c). [Pub. L. 87–31][/us/pl/87/31], § 3(b), substituted “its costs of carrying out the purposes of this section” for “80 per centum of the total of its expenditures in carrying out the purposes of this section”.
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–543, title II, § 202(b)][/us/pl/87/543/s202/b], July 25, 1962, [76 Stat. 208][/us/stat/76/208], provided that: 
+[Pub. L. 87–543, title II][/us/pl/87/543/tII], § 202(b), July 25, 1962, [76 Stat. 208][/us/stat/76/208], provided that: 
 
 > “The amendments made by sections 102(c), 123, and 132(d) \[enacting [section 727 of this title][/us/usc/t42/s727], amending this section and sections 722 and 726 of this title, and repealing credits to [section 1308 of this title][/us/usc/t42/s1308] and provisions set out as notes under [section 1308 of this title][/us/usc/t42/s1308]\] shall be applicable in the case of fiscal years beginning after June 30, 1962.”
 
  __Effective Date of 1961 Amendment__ 
 
-    [Pub. L. 87–31, § 3(b)][/us/pl/87/31/s3/b], May 8, 1961, [75 Stat. 77][/us/stat/75/77], provided that the amendment made by that section is effective with respect to payments from allotments from appropriations made for fiscal years beginning after June 30, 1961.
+    [Pub. L. 87–31][/us/pl/87/31], § 3(b), May 8, 1961, [75 Stat. 77][/us/stat/75/77], provided that the amendment made by that section is effective with respect to payments from allotments from appropriations made for fiscal years beginning after June 30, 1961.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s904.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905 _us_usc_t42_s905a.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
 
 ----------
 ----------
@@ -77,21 +77,21 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F851
-[/us/pl/87/31/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31%2Fs3
+[/us/pl/87/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31
 [/us/stat/75/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F77
-[/us/pl/87/543/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs123
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F192
-[/us/pl/87/543/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs123%2Fa
-[/us/pl/87/543/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs123%2Fb
-[/us/pl/87/543/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs123%2Fc
-[/us/pl/87/31/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31%2Fs3%2Fa
-[/us/pl/87/31/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31%2Fs3%2Fb
-[/us/pl/87/543/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs202%2Fb
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31
+[/us/pl/87/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31
+[/us/pl/87/543/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtII
 [/us/stat/76/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F208
 [/us/usc/t42/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs727
 [/us/usc/t42/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1308
 [/us/usc/t42/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1308
-[/us/pl/87/31/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31%2Fs3%2Fb
+[/us/pl/87/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31
 [/us/stat/75/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F77
 
 

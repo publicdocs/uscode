@@ -17,7 +17,7 @@
 
     Each regulation, standard, rule, notice, order and guidance promulgated or issued by the Administrator under this chapter, as in effect before November 15, 1990, shall remain in effect according to its terms, except to the extent otherwise provided under this chapter, inconsistent with any provision of this chapter, or revised by the Administrator. No control requirement in effect, or required to be adopted by an order, settlement agreement, or plan in effect before November 15, 1990, in any area which is a nonattainment area for any air pollutant may be modified after November 15, 1990, in any manner unless the modification insures equivalent or greater emission reductions of such air pollutant.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 193, as added [Pub. L. 101–549, title I, § 108][/us/pl/101/549/s108](l), Nov. 15, 1990, [104 Stat. 2469][/us/stat/104/2469].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 193, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 108(l), Nov. 15, 1990, [104 Stat. 2469][/us/stat/104/2469].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2469
 
 

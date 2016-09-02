@@ -105,21 +105,21 @@
 
             The term “sanctions” means tangible, proportional consequences that hold the juvenile offender accountable for the offense committed. A sanction may include counseling, restitution, community service, a fine, supervised probation, or confinement.
 
-([Pub. L. 90–351, title I, § 1802][/us/pl/90/351/s1802], as added [Pub. L. 107–273, div. C, title II, § 12102(a)][/us/pl/107/273/s12102/a], Nov. 2, 2002, [116 Stat. 1861][/us/stat/116/1861]; amended [Pub. L. 109–162, title XI, § 1168(a)][/us/pl/109/162/s1168/a], formerly § 1168, Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122], renumbered § 1168(a), [Pub. L. 109–271, § 8(n)(5)(A)][/us/pl/109/271/s8/n/5/A], Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1802, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1861][/us/stat/116/1861]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1168(a), formerly § 1168, Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122], renumbered § 1168(a), [Pub. L. 109–271][/us/pl/109/271], § 8(n)(5)(A), Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768].)
 
  __Prior Provisions__ 
 
-    A prior section 3796ee–2, [Pub. L. 90–351, title I, § 1803][/us/pl/90/351/s1803], as added [Pub. L. 103–322, title II, § 20201(a)(3)][/us/pl/103/322/s20201/a/3], Sept. 13, 1994, [108 Stat. 1820][/us/stat/108/1820], related to review of State applications, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
+    A prior section 3796ee–2, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1803, as added [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20201(a)(3), Sept. 13, 1994, [108 Stat. 1820][/us/stat/108/1820], related to review of State applications, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
     A prior [section 1802 of Pub. L. 90–351][/us/pl/90/351/s1802] was classified to [section 3796ee–1 of this title][/us/usc/t42/s3796ee–1] prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
  __Amendments__ 
 
-    2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). [Pub. L. 109–162, § 1168(a)][/us/pl/109/162/s1168/a], formerly § 1168, as renumbered by [Pub. L. 109–271][/us/pl/109/271], inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
+    2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). [Pub. L. 109–162][/us/pl/109/162], § 1168(a), formerly § 1168, as renumbered by [Pub. L. 109–271][/us/pl/109/271], inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–162, title XI, § 1168(b)][/us/pl/109/162/s1168/b], as added by [Pub. L. 109–271, § 8(n)(5)(B)][/us/pl/109/271/s8/n/5/B], Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that: 
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1168(b), as added by [Pub. L. 109–271][/us/pl/109/271], § 8(n)(5)(B), Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2006.”
 
@@ -132,24 +132,24 @@
 
 [/us/usc/t42/s3796ee–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%933%2Fb
 [/us/usc/t42/s3796ee–3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%933%2Fe
-[/us/pl/90/351/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1802
-[/us/pl/107/273/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1861
-[/us/pl/109/162/s1168/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1168%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3122
-[/us/pl/109/271/s8/n/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fn%2F5%2FA
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F768
-[/us/pl/90/351/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1803
-[/us/pl/103/322/s20201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20201%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1820
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/90/351/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1802
 [/us/usc/t42/s3796ee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%931
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/109/162/s1168/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1168%2Fa
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s1168/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1168%2Fb
-[/us/pl/109/271/s8/n/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fn%2F5%2FB
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F768
 
 

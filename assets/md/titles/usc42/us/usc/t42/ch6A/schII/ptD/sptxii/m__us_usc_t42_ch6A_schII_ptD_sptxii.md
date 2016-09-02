@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subpart is comprised of subpart XI of part D of title III of act July 1, 1944, as added by [Pub. L. 111–148, title X, § 10333][/us/pl/111/148/s10333], Mar. 23, 2010, [124 Stat. 970][/us/stat/124/970]. Another subpart XI of part D of title III of the Act was added by [Pub. L. 111–148, title V, § 5508(c)][/us/pl/111/148/s5508/c], Mar. 23, 2010, [124 Stat. 670][/us/stat/124/670], and is classified to subpart XI (§ 256h) of this part.
+    Subpart is comprised of subpart XI of part D of title III of act July 1, 1944, as added by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10333, Mar. 23, 2010, [124 Stat. 970][/us/stat/124/970]. Another subpart XI of part D of title III of the Act was added by [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5508(c), Mar. 23, 2010, [124 Stat. 670][/us/stat/124/670], and is classified to subpart XI (§ 256h) of this part.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/111/148/s10333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10333
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F970
-[/us/pl/111/148/s5508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5508%2Fc
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F670
 
 

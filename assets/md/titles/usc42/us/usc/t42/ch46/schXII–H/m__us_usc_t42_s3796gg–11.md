@@ -63,7 +63,7 @@
 
             (E) development, implementation, and maintenance of tribal electronic databases for tribal protection order registries.
 
-([Pub. L. 90–351, title I, § 2016][/us/pl/90/351/s2016], formerly § 2008, as added [Pub. L. 109–162, title IX, § 907][/us/pl/109/162/s907], Jan. 5, 2006, [119 Stat. 3082][/us/stat/119/3082]; renumbered § 2016 and amended [Pub. L. 109–271, § 7(a)(1)(B)][/us/pl/109/271/s7/a/1/B], (C), (4), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763], 764.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2016, formerly § 2008, as added [Pub. L. 109–162, title IX][/us/pl/109/162/tIX], § 907, Jan. 5, 2006, [119 Stat. 3082][/us/stat/119/3082]; renumbered § 2016 and amended [Pub. L. 109–271][/us/pl/109/271], § 7(a)(1)(B), (C), (4), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763], 764.)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1)(I). [Pub. L. 109–271, § 7(a)(4)][/us/pl/109/271/s7/a/4], inserted “that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law” after “technical assistance”.
+    2006—Subsec. (b)(1)(I). [Pub. L. 109–271][/us/pl/109/271], § 7(a)(4), inserted “that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law” after “technical assistance”.
 
  __Effective Date__ 
 
@@ -94,10 +94,10 @@
 [/us/stat/108/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1902
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1491
-[/us/pl/90/351/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2016
-[/us/pl/109/162/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs907
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIX
 [/us/stat/119/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3082
-[/us/pl/109/271/s7/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fa%2F1%2FB
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F763
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197
@@ -111,7 +111,7 @@
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1491
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
-[/us/pl/109/271/s7/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fa%2F4
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/109/162/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs4
 [/us/usc/t42/s3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793
 

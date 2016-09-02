@@ -49,11 +49,11 @@
 
         Upon timely application, the Attorney General may intervene in such civil action, if the Attorney General certifies that the case is of general public importance. Upon such intervention the Attorney General may obtain such relief as would be available to the Attorney General under [section 3614(e) of this title][/us/usc/t42/s3614/e] in a civil action to which such section applies.
 
-([Pub. L. 90–284, title VIII, § 813][/us/pl/90/284/s813], as added [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2], Sept. 13, 1988, [102 Stat. 1633][/us/stat/102/1633].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 813, as added [Pub. L. 100–430][/us/pl/100/430], § 8(2), Sept. 13, 1988, [102 Stat. 1633][/us/stat/102/1633].)
 
  __Prior Provisions__ 
 
-    A prior section 3613, [Pub. L. 90–284, title VIII, § 813][/us/pl/90/284/s813], Apr. 11, 1968, [82 Stat. 88][/us/stat/82/88], related to enforcement by Attorney General by bringing civil action requesting preventive relief, prior to repeal by [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2].
+    A prior section 3613, [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 813, Apr. 11, 1968, [82 Stat. 88][/us/stat/82/88], related to enforcement by Attorney General by bringing civil action requesting preventive relief, prior to repeal by [Pub. L. 100–430][/us/pl/100/430], § 8(2).
 
  __Effective Date__ 
 
@@ -68,12 +68,12 @@
 
 [/us/usc/t42/s3610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3610%2Fa
 [/us/usc/t42/s3614/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3614%2Fe
-[/us/pl/90/284/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs813
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1633
-[/us/pl/90/284/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs813
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F88
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 

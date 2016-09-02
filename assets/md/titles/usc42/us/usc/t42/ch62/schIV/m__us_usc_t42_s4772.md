@@ -17,7 +17,7 @@
 
     Grant provisions of this chapter shall become effective one hundred and eighty days following January 5, 1971.
 
-([Pub. L. 91–648, title V, § 513][/us/pl/91/648/s513], Jan. 5, 1971, [84 Stat. 1929][/us/stat/84/1929].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 513, Jan. 5, 1971, [84 Stat. 1929][/us/stat/84/1929].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs513
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1929
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761
 

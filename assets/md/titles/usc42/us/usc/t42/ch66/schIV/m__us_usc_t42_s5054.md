@@ -17,7 +17,7 @@
 
     The Director shall adopt appropriate administrative measures to assure that the benefits of and services under this chapter will be distributed equitably between residents of rural and urban areas.
 
-([Pub. L. 93–113, title IV, § 414][/us/pl/93/113/s414], Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 414, Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Rural Program Report__ 
 
-    [Pub. L. 96–143, § 16][/us/pl/96/143/s16], Dec. 13, 1979, [93 Stat. 1082][/us/stat/93/1082], provided that not later than Feb. 1, 1980, the Director of the ACTION Agency was to submit to appropriate committees of Congress a report specifying special needs and circumstances to be addressed in designing programs under Domestic Volunteer Service Act of 1973 \[this chapter\] for implementation in rural areas, such report to include a detailed statement of manner in which Director intended to address such needs and circumstances, together with a timetable for designing and implementing such programs.
+    [Pub. L. 96–143][/us/pl/96/143], § 16, Dec. 13, 1979, [93 Stat. 1082][/us/stat/93/1082], provided that not later than Feb. 1, 1980, the Director of the ACTION Agency was to submit to appropriate committees of Congress a report specifying special needs and circumstances to be addressed in designing programs under Domestic Volunteer Service Act of 1973 \[this chapter\] for implementation in rural areas, such report to include a detailed statement of manner in which Director intended to address such needs and circumstances, together with a timetable for designing and implementing such programs.
 
 ----------
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/93/113/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs414
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F411
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/96/143/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs16
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1082
 
 

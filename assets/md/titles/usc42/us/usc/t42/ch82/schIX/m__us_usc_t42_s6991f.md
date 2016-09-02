@@ -41,7 +41,7 @@
 
             This subsection does not relieve any person from any obligation or requirement under this subchapter.
 
-([Pub. L. 89–272, title II, § 9007][/us/pl/89/272/s9007], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3286][/us/stat/98/3286]; amended [Pub. L. 109–58, title XV, § 1528][/us/pl/109/58/s1528], Aug. 8, 2005, [119 Stat. 1100][/us/stat/119/1100].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9007, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3286][/us/stat/98/3286]; amended [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1528, Aug. 8, 2005, [119 Stat. 1100][/us/stat/119/1100].)
 
  __Amendments__ 
 
@@ -54,10 +54,10 @@
 ----------
 ----------
 
-[/us/pl/89/272/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9007
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3286
-[/us/pl/109/58/s1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1528
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1100
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

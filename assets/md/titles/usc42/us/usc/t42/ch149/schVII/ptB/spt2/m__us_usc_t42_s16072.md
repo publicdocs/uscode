@@ -33,7 +33,7 @@
 
         (2) an estimate of the potential benefits to the environment to be derived from widespread application of alternative fueled vehicles and ultra-low sulfur diesel vehicles.
 
-([Pub. L. 109–58, title VII, § 722][/us/pl/109/58/s722], Aug. 8, 2005, [119 Stat. 820][/us/stat/119/820].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 722, Aug. 8, 2005, [119 Stat. 820][/us/stat/119/820].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs722
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F820
 
 

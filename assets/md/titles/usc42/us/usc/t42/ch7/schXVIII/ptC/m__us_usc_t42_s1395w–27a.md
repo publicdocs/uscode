@@ -179,7 +179,7 @@
 
             In applying paragraph (1) in the case of an MA organization that meets the requirements of [section 1395w–25(a)(1) of this title][/us/usc/t42/s1395w–25/a/1] with respect to more than one State in a region, the organization shall select, in a manner specified by the Secretary among such States, one State the rules of which shall apply in the case of the States described in paragraph (1)(B).
 
-    (e) __Repealed.__  __[__  __Pub. L. 111–148, title X, § 10327(c)(1)__  __][/us/pl/111/148/s10327/c/1]__  __,__  __Mar. 23, 2010__  __,__  __[__  __124 Stat. 964__  __][/us/stat/124/964]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 111–148, title X__  __][/us/pl/111/148/tX]__  __, § 10327(c)(1),__  __Mar. 23, 2010__  __,__  __[__  __124 Stat. 964__  __][/us/stat/124/964]__ 
 
     (f) __Computation of applicable MA region-specific non-drug monthly benchmark amounts__ 
 
@@ -309,17 +309,17 @@
 
             In this subsection, the term “essential hospital” means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in [section 1395ww(d) of this title][/us/usc/t42/s1395ww/d]) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1858, as added [Pub. L. 108–173, title II, § 221(c)][/us/pl/108/173/s221/c], Dec. 8, 2003, [117 Stat. 2181][/us/stat/117/2181]; amended [Pub. L. 109–432, div. B, title III, § 301][/us/pl/109/432/s301], Dec. 20, 2006, [120 Stat. 2990][/us/stat/120/2990]; [Pub. L. 110–48, § 3][/us/pl/110/48/s3], July 18, 2007, [121 Stat. 244][/us/stat/121/244]; [Pub. L. 110–173, title I, § 110][/us/pl/110/173/s110], Dec. 29, 2007, [121 Stat. 2497][/us/stat/121/2497]; [Pub. L. 110–275, title I, § 166][/us/pl/110/275/s166], July 15, 2008, [122 Stat. 2575][/us/stat/122/2575]; [Pub. L. 111–8, div. G, title I, § 1301(f)][/us/pl/111/8/s1301/f], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 111–148, title III, § 3201(a)(2)(C)][/us/pl/111/148/s3201/a/2/C], (f)(2), title X, § 10327(c)(1), Mar. 23, 2010, [124 Stat. 444][/us/stat/124/444], 450, 964; [Pub. L. 111–152, title I, § 1102(a)][/us/pl/111/152/s1102/a], Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1858, as added [Pub. L. 108–173, title II][/us/pl/108/173/tII], § 221(c), Dec. 8, 2003, [117 Stat. 2181][/us/stat/117/2181]; amended [Pub. L. 109–432, div. B, title III][/us/pl/109/432/dB/tIII], § 301, Dec. 20, 2006, [120 Stat. 2990][/us/stat/120/2990]; [Pub. L. 110–48][/us/pl/110/48], § 3, July 18, 2007, [121 Stat. 244][/us/stat/121/244]; [Pub. L. 110–173, title I][/us/pl/110/173/tI], § 110, Dec. 29, 2007, [121 Stat. 2497][/us/stat/121/2497]; [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 166, July 15, 2008, [122 Stat. 2575][/us/stat/122/2575]; [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(f), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3201(a)(2)(C), (f)(2), title X, § 10327(c)(1), Mar. 23, 2010, [124 Stat. 444][/us/stat/124/444], 450, 964; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1102(a), Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040].)
 
  __Amendments__ 
 
-    2010—Subsec. (e). [Pub. L. 111–148, § 10327(c)(1)][/us/pl/111/148/s10327/c/1], struck out subsec. (e) which related to the MA Regional Plan Stabilization Fund.
+    2010—Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 10327(c)(1), struck out subsec. (e) which related to the MA Regional Plan Stabilization Fund.
 
-    Subsec. (f)(1). [Pub. L. 111–148, § 3201(a)(2)(C)(i)][/us/pl/111/148/s3201/a/2/C/i], (f)(2)(A), which directed substitution of “1395w–23(j)(1)(B)” for “1395w–23(j)(2)” and “subsections (e) and (i)” for “subsection (e)”, respectively, was repealed by [Pub. L. 111–152, § 1102(a)][/us/pl/111/152/s1102/a]. See Effective Date of 2010 Amendment note below.
+    Subsec. (f)(1). [Pub. L. 111–148][/us/pl/111/148], § 3201(a)(2)(C)(i), (f)(2)(A), which directed substitution of “1395w–23(j)(1)(B)” for “1395w–23(j)(2)” and “subsections (e) and (i)” for “subsection (e)”, respectively, was repealed by [Pub. L. 111–152][/us/pl/111/152], § 1102(a). See Effective Date of 2010 Amendment note below.
 
-    Subsec. (f)(3)(A). [Pub. L. 111–148, § 3201(a)(2)(C)(ii)][/us/pl/111/148/s3201/a/2/C/ii], which directed substitution of “1395w–23(j)(1)(A)(i)” for “1395w–23(j)(1)(A)”, was repealed by [Pub. L. 111–152, § 1102(a)][/us/pl/111/152/s1102/a]. See Effective Date of 2010 Amendment note below.
+    Subsec. (f)(3)(A). [Pub. L. 111–148][/us/pl/111/148], § 3201(a)(2)(C)(ii), which directed substitution of “1395w–23(j)(1)(A)(i)” for “1395w–23(j)(1)(A)”, was repealed by [Pub. L. 111–152][/us/pl/111/152], § 1102(a). See Effective Date of 2010 Amendment note below.
 
-    Subsec. (i). [Pub. L. 111–148, § 3201(f)(2)(B)][/us/pl/111/148/s3201/f/2/B], which directed addition of subsec. (i), was repealed by [Pub. L. 111–152, § 1102(a)][/us/pl/111/152/s1102/a]. As enacted, text read as follows: “For years beginning with 2014, the Secretary shall apply the performance bonuses under [section 1395w–23(n) of this title][/us/usc/t42/s1395w–23/n] (relating to bonuses for care coordination and management, quality performance, and new and low enrollment MA plans) to MA regional plans in a similar manner as such performance bonuses apply to MA plans under such subsection.” See Effective Date of 2010 Amendment note below.
+    Subsec. (i). [Pub. L. 111–148][/us/pl/111/148], § 3201(f)(2)(B), which directed addition of subsec. (i), was repealed by [Pub. L. 111–152][/us/pl/111/152], § 1102(a). As enacted, text read as follows: “For years beginning with 2014, the Secretary shall apply the performance bonuses under [section 1395w–23(n) of this title][/us/usc/t42/s1395w–23/n] (relating to bonuses for care coordination and management, quality performance, and new and low enrollment MA plans) to MA regional plans in a similar manner as such performance bonuses apply to MA plans under such subsection.” See Effective Date of 2010 Amendment note below.
 
     2009—Subsec. (e)(7). [Pub. L. 111–8][/us/pl/111/8] struck out par. (7) which related to biennial GAO reports to be submitted by the Comptroller General to the Secretary and Congress.
 
@@ -353,7 +353,7 @@
 
  __Elimination of MA Regional Plan Stabilization Fund; Transition__ 
 
-[Pub. L. 111–148, title X, § 10327(c)(2)][/us/pl/111/148/s10327/c/2], Mar. 23, 2010, [124 Stat. 964][/us/stat/124/964], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10327(c)(2), Mar. 23, 2010, [124 Stat. 964][/us/stat/124/964], provided that: 
 
 > “Any amount contained in the MA Regional Plan Stabilization Fund as of the date of the enactment of this Act \[Mar. 23, 2010\] shall be transferred to the Federal Supplementary Medical Insurance Trust Fund.”
 
@@ -375,7 +375,7 @@
 [/us/usc/t42/s1395w–27/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9327%2Fd%2F2%2FB
 [/us/usc/t42/s1395w–25/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9325%2Fa%2F1
 [/us/usc/t42/s1395w–25/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9325%2Fa%2F1
-[/us/pl/111/148/s10327/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10327%2Fc%2F1
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F964
 [/us/usc/t42/s1395w–23/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323%2Fj%2F2
 [/us/usc/t42/s1395w–21/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fe%2F3%2FB
@@ -386,29 +386,29 @@
 [/us/usc/t42/s1395ww/b/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fb%2F3%2FB%2Fiii
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs221%2Fc
+[/us/pl/108/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtII
 [/us/stat/117/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2181
-[/us/pl/109/432/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs301
+[/us/pl/109/432/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtIII
 [/us/stat/120/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2990
-[/us/pl/110/48/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F48%2Fs3
+[/us/pl/110/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F48
 [/us/stat/121/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F244
-[/us/pl/110/173/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs110
+[/us/pl/110/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2FtI
 [/us/stat/121/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2497
-[/us/pl/110/275/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs166
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2575
-[/us/pl/111/8/s1301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Ff
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
-[/us/pl/111/148/s3201/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3201%2Fa%2F2%2FC
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F444
-[/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1040
-[/us/pl/111/148/s10327/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10327%2Fc%2F1
-[/us/pl/111/148/s3201/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3201%2Fa%2F2%2FC%2Fi
-[/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa
-[/us/pl/111/148/s3201/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3201%2Fa%2F2%2FC%2Fii
-[/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa
-[/us/pl/111/148/s3201/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3201%2Ff%2F2%2FB
-[/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t42/s1395w–23/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323%2Fn
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
@@ -421,7 +421,7 @@
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/108/173/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs223%2Fa
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/111/148/s10327/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10327%2Fc%2F2
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F964
 
 

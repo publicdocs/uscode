@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated for the purposes of this section such sums as are necessary to the Secretary to support the operations of the Smart Grid Advisory Committee and Smart Grid Task Force for each of fiscal years 2008 through 2020.
 
-([Pub. L. 110–140, title XIII, § 1303][/us/pl/110/140/s1303], Dec. 19, 2007, [121 Stat. 1784][/us/stat/121/1784].)
+([Pub. L. 110–140, title XIII][/us/pl/110/140/tXIII], § 1303, Dec. 19, 2007, [121 Stat. 1784][/us/stat/121/1784].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1303
+[/us/pl/110/140/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIII
 [/us/stat/121/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1784
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -61,7 +61,7 @@
 
         (5) establish mechanisms to ensure that postadoption services meet the needs of the individual families and develop models to reduce the disruption rates of adoption.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 435, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)][/us/pl/103/66/s13711/a/2], Aug. 10, 1993, [107 Stat. 654][/us/stat/107/654]; amended [Pub. L. 107–133, title I, § 105][/us/pl/107/133/s105], Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415]; [Pub. L. 109–288][/us/pl/109/288], §§ 4(c), 5(b)(3)(C), Sept. 28, 2006, [120 Stat. 1242][/us/stat/120/1242], 1243.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 435, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(a)(2), Aug. 10, 1993, [107 Stat. 654][/us/stat/107/654]; amended [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 105, Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415]; [Pub. L. 109–288][/us/pl/109/288], §§ 4(c), 5(b)(3)(C), Sept. 28, 2006, [120 Stat. 1242][/us/stat/120/1242], 1243.)
 
  __Prior Provisions__ 
 
@@ -69,17 +69,17 @@
 
  __Amendments__ 
 
-    2006—Subsec. (c). [Pub. L. 109–288, § 4(c)][/us/pl/109/288/s4/c], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to topics for research and evaluation.
+    2006—Subsec. (c). [Pub. L. 109–288][/us/pl/109/288], § 4(c), amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to topics for research and evaluation.
 
-    Subsec. (d). [Pub. L. 109–288, § 5(b)(3)(C)][/us/pl/109/288/s5/b/3/C], inserted “or tribal consortia” after “Indian tribes” in introductory provisions.
+    Subsec. (d). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(3)(C), inserted “or tribal consortia” after “Indian tribes” in introductory provisions.
 
-    2002—[Pub. L. 107–133, § 105(1)][/us/pl/107/133/s105/1], substituted “Evaluations; research; technical assistance” for “Evaluations” in section catchline.
+    2002—[Pub. L. 107–133][/us/pl/107/133], § 105(1), substituted “Evaluations; research; technical assistance” for “Evaluations” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 107–133, § 105(1)][/us/pl/107/133/s105/1], substituted “The Secretary shall evaluate and report to the Congress biennially on” for “The Secretary shall evaluate”.
+    Subsec. (a)(1). [Pub. L. 107–133][/us/pl/107/133], § 105(1), substituted “The Secretary shall evaluate and report to the Congress biennially on” for “The Secretary shall evaluate”.
 
-    Subsec. (a)(3). [Pub. L. 107–133, § 105(2)][/us/pl/107/133/s105/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 107–133][/us/pl/107/133], § 105(2), added par. (3).
 
-    Subsecs. (c), (d). [Pub. L. 107–133, § 105(3)][/us/pl/107/133/s105/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 107–133][/us/pl/107/133], § 105(3), added subsecs. (c) and (d).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -100,20 +100,20 @@
 [/us/usc/t42/s629f/b/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629f%2Fb%2F4%2FB%2Fi
 [/us/usc/t42/s629g/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629g%2Ff
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fa%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F654
-[/us/pl/107/133/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs105
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2415
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1242
 [/us/usc/t42/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs635
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/109/288/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fc
-[/us/pl/109/288/s5/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F3%2FC
-[/us/pl/107/133/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs105%2F1
-[/us/pl/107/133/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs105%2F1
-[/us/pl/107/133/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs105%2F2
-[/us/pl/107/133/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs105%2F3
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621

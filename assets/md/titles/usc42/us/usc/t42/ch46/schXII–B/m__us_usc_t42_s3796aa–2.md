@@ -21,7 +21,7 @@
 
     (2) a certification that funds required to pay the non-Federal portion of the cost of equipment and personnel training for which such grant is made shall be in addition to funds that would otherwise be made available by the recipients of grant funds for criminal proceedings for the violation of laws relating to the abuse of children.
 
-([Pub. L. 90–351, title I, § 1403][/us/pl/90/351/s1403], as added [Pub. L. 101–647, title II, § 241(a)(2)][/us/pl/101/647/s241/a/2], Nov. 29, 1990, [104 Stat. 4810][/us/stat/104/4810]; amended [Pub. L. 103–322, title IV, § 40156(c)(3)][/us/pl/103/322/s40156/c/3], Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1403, as added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(a)(2), Nov. 29, 1990, [104 Stat. 4810][/us/stat/104/4810]; amended [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(c)(3), Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923].)
 
  __Amendments__ 
 
@@ -44,10 +44,10 @@
 
 [/us/usc/t42/s3796aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%931
 [/us/usc/t42/s3796aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%931
-[/us/pl/90/351/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1403
-[/us/pl/101/647/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4810
-[/us/pl/103/322/s40156/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F3
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1923
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

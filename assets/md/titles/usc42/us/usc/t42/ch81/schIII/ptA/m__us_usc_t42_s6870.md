@@ -27,7 +27,7 @@
 
         (3) take such other action as may be authorized by law.
 
-([Pub. L. 94–385, title IV, § 420][/us/pl/94/385/s420], Aug. 14, 1976, [90 Stat. 1158][/us/stat/90/1158]; [Pub. L. 96–294, title V, § 577(2)][/us/pl/96/294/s577/2], June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 420, Aug. 14, 1976, [90 Stat. 1158][/us/stat/90/1158]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 577(2), June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/94/385/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs420
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1158
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F760
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

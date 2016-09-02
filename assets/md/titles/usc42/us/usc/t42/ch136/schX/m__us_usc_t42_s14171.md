@@ -121,7 +121,7 @@
 
         (3) $1,800,000 for fiscal year 1998.
 
-([Pub. L. 103–322, title XXII, § 220002][/us/pl/103/322/s220002], Sept. 13, 1994, [108 Stat. 2074][/us/stat/108/2074].)
+([Pub. L. 103–322, title XXII][/us/pl/103/322/tXXII], § 220002, Sept. 13, 1994, [108 Stat. 2074][/us/stat/108/2074].)
 
  __Short Title__ 
 
@@ -134,7 +134,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s220002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs220002
+[/us/pl/103/322/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXII
 [/us/stat/108/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2074
 [/us/pl/103/322/s220001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs220001
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701

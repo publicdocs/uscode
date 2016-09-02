@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated to carry out this section $1,000,000 for fiscal year 1996.
 
-([Pub. L. 103–322, title XV, § 150008][/us/pl/103/322/s150008], Sept. 13, 1994, [108 Stat. 2036][/us/stat/108/2036].)
+([Pub. L. 103–322, title XV][/us/pl/103/322/tXV], § 150008, Sept. 13, 1994, [108 Stat. 2036][/us/stat/108/2036].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s150008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs150008
+[/us/pl/103/322/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXV
 [/us/stat/108/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2036
 
 

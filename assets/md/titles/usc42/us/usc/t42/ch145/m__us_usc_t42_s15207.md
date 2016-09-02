@@ -17,7 +17,7 @@
 
     The Board shall consult with the Institute of Heraldry within the Department of Defense regarding the design and artistry of the Medal of Valor. The Board may also consider suggestions received by the Department of Justice regarding the design of the medal, including those made by persons not employed by the Department.
 
-([Pub. L. 107–12, § 9][/us/pl/107/12/s9], May 30, 2001, [115 Stat. 22][/us/stat/115/22].)
+([Pub. L. 107–12][/us/pl/107/12], § 9, May 30, 2001, [115 Stat. 22][/us/stat/115/22].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/12/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs9
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F22
 
 

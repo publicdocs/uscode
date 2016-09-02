@@ -57,7 +57,7 @@
 
             (B) For purposes of subparagraph (A), the conditions referred to in such subparagraph shall be applied with respect to graduates of the school involved whose date of graduation occurred approximately 3 years before June 30 of the fiscal year preceding the fiscal year for which the Federal capital contribution involved is made.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 735, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2021][/us/stat/106/2021]; amended [Pub. L. 102–531, title III, § 313(a)(1)][/us/pl/102/531/s313/a/1], Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507]; [Pub. L. 103–43, title XX, § 2014(d)][/us/pl/103/43/s2014/d], June 10, 1993, [107 Stat. 217][/us/stat/107/217]; [Pub. L. 105–392, title I, § 134(c)][/us/pl/105/392/s134/c], Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 735, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2021][/us/stat/106/2021]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 313(a)(1), Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2014(d), June 10, 1993, [107 Stat. 217][/us/stat/107/217]; [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 134(c), Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578].)
 
  __Prior Provisions__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–531, title III, § 313(c)][/us/pl/102/531/s313/c], Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507], provided that: 
+[Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 313(c), Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507], provided that: 
 
 > “The amendments described in this section \[amending this section and sections 293j, 293l, 294n, 295j, 295l, 295n, 295o, 296k, and 298b–7 of this title, repealing [section 297j of this title][/us/usc/t42/s297j], redesignating subpart IV of part B of subchapter VI of this chapter as subpart III, and amending provisions set out as a note under [section 295k of this title][/us/usc/t42/s295k]\] are made, and take effect, immediately after the enactment of the bill, H.R. 3508, of the One Hundred Second Congress \[[Pub. L. 102–408][/us/pl/102/408], approved Oct. 13, 1992\].”
 
@@ -90,20 +90,20 @@
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q
 [/us/usc/t42/s292s/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292s%2Fb%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2021
-[/us/pl/102/531/s313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs313%2Fa%2F1
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3507
-[/us/pl/103/43/s2014/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fd
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F217
-[/us/pl/105/392/s134/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fc
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3578
 [/us/usc/t42/s294h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294h
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/102/531/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs313%2Fc
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3507
 [/us/usc/t42/s297j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297j
 [/us/usc/t42/s295k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295k

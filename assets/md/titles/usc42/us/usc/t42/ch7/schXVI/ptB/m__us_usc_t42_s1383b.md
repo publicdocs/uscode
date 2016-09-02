@@ -55,7 +55,7 @@
 
             (B) In carrying out subparagraph (A), the Commissioner of Social Security shall, to the extent feasible, select for review the determinations which the Commissioner of Social Security identifies as being the most likely to be incorrect.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1633, as added [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1478][/us/stat/86/1478]; amended [Pub. L. 93–66, title II, § 214][/us/pl/93/66/s214], July 9, 1973, [87 Stat. 158][/us/stat/87/158]; [Pub. L. 98–460, § 6(b)][/us/pl/98/460/s6/b], Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title II, § 203(a), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1508; [Pub. L. 106–170, title I, § 101(b)(2)(D)][/us/pl/106/170/s101/b/2/D], Dec. 17, 1999, [113 Stat. 1874][/us/stat/113/1874]; [Pub. L. 109–171, title VII, § 7501][/us/pl/109/171/s7501], Feb. 8, 2006, [120 Stat. 154][/us/stat/120/154].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1633, as added [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 301, Oct. 30, 1972, [86 Stat. 1478][/us/stat/86/1478]; amended [Pub. L. 93–66, title II][/us/pl/93/66/tII], § 214, July 9, 1973, [87 Stat. 158][/us/stat/87/158]; [Pub. L. 98–460][/us/pl/98/460], § 6(b), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), title II, § 203(a), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1508; [Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(b)(2)(D), Dec. 17, 1999, [113 Stat. 1874][/us/stat/113/1874]; [Pub. L. 109–171, title VII][/us/pl/109/171/tVII], § 7501, Feb. 8, 2006, [120 Stat. 154][/us/stat/120/154].)
 
  __Amendments__ 
 
@@ -63,19 +63,19 @@
 
     1999—Subsec. (c). [Pub. L. 106–170][/us/pl/106/170] designated existing provisions as par. (1) and added par. (2).
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner’s” for “his”.
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner’s” for “his”.
 
-    Subsec. (c). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” in two places.
+    Subsec. (c). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
-    Subsec. (d). [Pub. L. 103–296, § 203(a)][/us/pl/103/296/s203/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–296][/us/pl/103/296], § 203(a), added subsec. (d).
 
-    [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], in subsec. (d) as added by [Pub. L. 103–296, § 203(a)][/us/pl/103/296/s203/a], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), in subsec. (d) as added by [Pub. L. 103–296][/us/pl/103/296], § 203(a), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
     1984—Subsec. (c). [Pub. L. 98–460][/us/pl/98/460] added subsec. (c).
 
-    1973—Subsec. (a). [Pub. L. 93–66, § 214(1)][/us/pl/93/66/s214/1], (2), designated existing provisions as subsec. (a) and made the authority of the Secretary subject to subsec. (b) of this section.
+    1973—Subsec. (a). [Pub. L. 93–66][/us/pl/93/66], § 214(1), (2), designated existing provisions as subsec. (a) and made the authority of the Secretary subject to subsec. (b) of this section.
 
-    Subsec. (b). [Pub. L. 93–66, § 214(3)][/us/pl/93/66/s214/3], added subsec. (b).
+    Subsec. (b). [Pub. L. 93–66][/us/pl/93/66], § 214(3), added subsec. (b).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -89,13 +89,13 @@
 
     Amendment by [section 107(a)(4) of Pub. L. 103–296][/us/pl/103/296/s107/a/4] effective Mar. 31, 1995, see [section 110(a) of Pub. L. 103–296][/us/pl/103/296/s110/a], set out as a note under [section 401 of this title][/us/usc/t42/s401].
 
-[Pub. L. 103–296, title II, § 203(b)][/us/pl/103/296/s203/b], Aug. 15, 1994, [108 Stat. 1508][/us/stat/108/1508], provided that: 
+[Pub. L. 103–296, title II][/us/pl/103/296/tII], § 203(b), Aug. 15, 1994, [108 Stat. 1508][/us/stat/108/1508], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995.”
 
  __Effective Date__ 
 
-    [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], provided that this section is effective Jan. 1, 1974.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 301, Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], provided that this section is effective Jan. 1, 1974.
 
  __Institution of Notification System__ 
 
@@ -103,7 +103,7 @@
 
  __Federal Program of Supplemental Security Income; Preference for Present State and Local Employees__ 
 
-[Pub. L. 93–66, title II, § 213][/us/pl/93/66/s213], July 9, 1973, [87 Stat. 158][/us/stat/87/158], provided that: 
+[Pub. L. 93–66, title II][/us/pl/93/66/tII], § 213, July 9, 1973, [87 Stat. 158][/us/stat/87/158], provided that: 
 
 > “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program.”
 
@@ -128,28 +128,28 @@
 [/us/usc/t42/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421
 [/us/usc/t42/s1320b–19/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fi
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1478
-[/us/pl/93/66/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs214
+[/us/pl/93/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2FtII
 [/us/stat/87/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F158
-[/us/pl/98/460/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs6%2Fb
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1802
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/106/170/s101/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F2%2FD
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1874
-[/us/pl/109/171/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7501
+[/us/pl/109/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVII
 [/us/stat/120/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F154
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs203%2Fa
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs203%2Fa
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
-[/us/pl/93/66/s214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs214%2F1
-[/us/pl/93/66/s214/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs214%2F3
+[/us/pl/93/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66
+[/us/pl/93/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7701
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
@@ -160,13 +160,13 @@
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/103/296/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs203%2Fb
+[/us/pl/103/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtII
 [/us/stat/108/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1508
-[/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
 [/us/pl/98/460/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs6%2Fc
 [/us/usc/t42/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421
-[/us/pl/93/66/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs213
+[/us/pl/93/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2FtII
 [/us/stat/87/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F158
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801

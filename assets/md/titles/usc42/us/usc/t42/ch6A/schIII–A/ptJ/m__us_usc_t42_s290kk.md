@@ -39,7 +39,7 @@
 
         (6) The term “religious organization” means a nonprofit religious organization.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 581, as added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 144\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–619.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 581, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 144\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–619.)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s290hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290hh
 

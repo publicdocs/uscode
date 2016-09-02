@@ -25,7 +25,7 @@
 
     (4) recommend to the Director and to the National Science Board such changes in the procedures and practices of the Foundation as may be required to enable the Foundation to draw fully on the resources of the small business research and development community.
 
-([Pub. L. 94–471, § 8][/us/pl/94/471/s8], Oct. 11, 1976, [90 Stat. 2057][/us/stat/90/2057]; [Pub. L. 99–386, title I, § 108][/us/pl/99/386/s108], Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
+([Pub. L. 94–471][/us/pl/94/471], § 8, Oct. 11, 1976, [90 Stat. 2057][/us/stat/90/2057]; [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 108, Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/94/471/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs8
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2057
-[/us/pl/99/386/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs108
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F822
 [/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2053

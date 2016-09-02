@@ -41,31 +41,31 @@
 
     (f) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  term “continental United States” means the States and the District of Columbia.
 
-([Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title II, § 201, [56 Stat. 1033][/us/stat/56/1033]; 1946 Reorg. Plan No. 2, § 3, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [June 30, 1953, ch. 176][/us/act/1953-06-30/ch176] § 1, [67 Stat. 134][/us/stat/67/134]; [June 30, 1954, ch. 431, § 1][/us/act/1954-06-30/ch431/s1], [68 Stat. 336][/us/stat/68/336]; [June 30, 1955, ch. 257, § 1][/us/act/1955-06-30/ch257/s1], [69 Stat. 241][/us/stat/69/241]; [July 9, 1956, ch. 537, § 1][/us/act/1956-07-09/ch537/s1], [70 Stat. 519][/us/stat/70/519]; [Pub. L. 85–70][/us/pl/85/70], June 29, 1957, [71 Stat. 242][/us/stat/71/242]; [Pub. L. 85–608, title I][/us/pl/85/608], §§ 103, 104, Aug. 8, 1958, [72 Stat. 537][/us/stat/72/537]; [Pub. L. 86–70, § 42(c)][/us/pl/86/70/s42/c], June 25, 1959, [73 Stat. 151][/us/stat/73/151].)
+([Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title II, § 201, [56 Stat. 1033][/us/stat/56/1033]; 1946 Reorg. Plan No. 2, § 3, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [June 30, 1953, ch. 176][/us/act/1953-06-30/ch176] § 1, [67 Stat. 134][/us/stat/67/134]; [June 30, 1954, ch. 431][/us/act/1954-06-30/ch431], § 1, [68 Stat. 336][/us/stat/68/336]; [June 30, 1955, ch. 257][/us/act/1955-06-30/ch257], § 1, [69 Stat. 241][/us/stat/69/241]; [July 9, 1956, ch. 537][/us/act/1956-07-09/ch537], § 1, [70 Stat. 519][/us/stat/70/519]; [Pub. L. 85–70][/us/pl/85/70], June 29, 1957, [71 Stat. 242][/us/stat/71/242]; [Pub. L. 85–608, title I][/us/pl/85/608/tI], §§ 103, 104, Aug. 8, 1958, [72 Stat. 537][/us/stat/72/537]; [Pub. L. 86–70][/us/pl/86/70], § 42(c), June 25, 1959, [73 Stat. 151][/us/stat/73/151].)
 
  __Codification__ 
 
-    In the original of [act Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title II, § 201, [56 Stat. 1033][/us/stat/56/1033], the opening clause read “When used in this Act (except when used in title III)—”. Title III of such Act amended [section 1651 of this title][/us/usc/t42/s1651] which is not in this chapter. Therefore, because of the use of the restrictive term “this chapter”, in this section, the words in parenthesis “except when used in title III” were omitted as unnecessary. This chapter comprises the remainder of such Act.
+    In the original of [act Dec. 2, 1942, ch. 668, title II][/us/act/1942-12-02/ch668/tII], § 201, [56 Stat. 1033][/us/stat/56/1033], the opening clause read “When used in this Act (except when used in title III)—”. Title III of such Act amended [section 1651 of this title][/us/usc/t42/s1651] which is not in this chapter. Therefore, because of the use of the restrictive term “this chapter”, in this section, the words in parenthesis “except when used in title III” were omitted as unnecessary. This chapter comprises the remainder of such Act.
 
  __Amendments__ 
 
     1959—Subsec. (f). [Pub. L. 86–70][/us/pl/86/70] added subsec. (f).
 
-    1958—Subsec. (b). [Pub. L. 85–608, § 103(a)][/us/pl/85/608/s103/a], struck out provisions which defined “war-risk hazard” to mean hazards arising after Dec. 6, 1941, and prior to July 1, 1958, and inserted provisions redefining term to include hazards arising during a war or an armed conflict in which the United States is engaged, and hazards arising during a war or armed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving.
+    1958—Subsec. (b). [Pub. L. 85–608][/us/pl/85/608], § 103(a), struck out provisions which defined “war-risk hazard” to mean hazards arising after Dec. 6, 1941, and prior to July 1, 1958, and inserted provisions redefining term to include hazards arising during a war or an armed conflict in which the United States is engaged, and hazards arising during a war or armed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving.
 
-    Subsec. (b)(1). [Pub. L. 85–608, § 104][/us/pl/85/608/s104], substituted “a hostile force or person” for “an enemy” in two places.
+    Subsec. (b)(1). [Pub. L. 85–608][/us/pl/85/608], § 104, substituted “a hostile force or person” for “an enemy” in two places.
 
-    Subsec. (b)(2). [Pub. L. 85–608, § 104][/us/pl/85/608/s104], substituted “a hostile force or person” for “the enemy”.
+    Subsec. (b)(2). [Pub. L. 85–608][/us/pl/85/608], § 104, substituted “a hostile force or person” for “the enemy”.
 
-    Subsec. (b)(3). [Pub. L. 85–608, § 103(b)][/us/pl/85/608/s103/b], substituted “a war or armed conflict with a hostile force or person as defined herein” for “the national war effort”, and excepted employees of transporters of munitions during the transportation thereof or while the munitions are stored on the premises of the transporter.
+    Subsec. (b)(3). [Pub. L. 85–608][/us/pl/85/608], § 103(b), substituted “a war or armed conflict with a hostile force or person as defined herein” for “the national war effort”, and excepted employees of transporters of munitions during the transportation thereof or while the munitions are stored on the premises of the transporter.
 
-    Subsec. (c). [Pub. L. 85–608, § 103(c)][/us/pl/85/608/s103/c], substituted provisions defining “hostile force or person” for provisions which defined “enemy” to mean any nation, government, or force engaged in armed conflict with the Armed Forces of the United States or of any of its allies.
+    Subsec. (c). [Pub. L. 85–608][/us/pl/85/608], § 103(c), substituted provisions defining “hostile force or person” for provisions which defined “enemy” to mean any nation, government, or force engaged in armed conflict with the Armed Forces of the United States or of any of its allies.
 
-    Subsec. (d). [Pub. L. 85–608, § 103(d)][/us/pl/85/608/s103/d], substituted provisions redefining “allies” to mean any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance for provisions which defined the term as meaning any nation, government, or force participating with the United States in any armed conflict.
+    Subsec. (d). [Pub. L. 85–608][/us/pl/85/608], § 103(d), substituted provisions redefining “allies” to mean any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance for provisions which defined the term as meaning any nation, government, or force participating with the United States in any armed conflict.
 
-    Subsec. (e). [Pub. L. 85–608, § 103(e)][/us/pl/85/608/s103/e], substituted definition of “war activities” for provisions defining “national war effort” and “war effort”.
+    Subsec. (e). [Pub. L. 85–608][/us/pl/85/608], § 103(e), substituted definition of “war activities” for provisions defining “national war effort” and “war effort”.
 
-    Subsec. (f). [Pub. L. 85–608, § 103(f)][/us/pl/85/608/s103/f], repealed subsec. (f) which defined “war activities”, now covered by subsec. (e) of this section.
+    Subsec. (f). [Pub. L. 85–608][/us/pl/85/608], § 103(f), repealed subsec. (f) which defined “war activities”, now covered by subsec. (e) of this section.
 
     1957—Subsec. (b). [Pub. L. 85–70][/us/pl/85/70] substituted “July 1, 1958” for “July 1, 1957”.
 
@@ -106,30 +106,30 @@
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/act/1953-06-30/ch176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch176
 [/us/stat/67/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F134
-[/us/act/1954-06-30/ch431/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch431%2Fs1
+[/us/act/1954-06-30/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-30%2Fch431
 [/us/stat/68/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F336
-[/us/act/1955-06-30/ch257/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch257%2Fs1
+[/us/act/1955-06-30/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch257
 [/us/stat/69/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F241
-[/us/act/1956-07-09/ch537/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch537%2Fs1
+[/us/act/1956-07-09/ch537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch537
 [/us/stat/70/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F519
 [/us/pl/85/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F70
 [/us/stat/71/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F242
-[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2FtI
 [/us/stat/72/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F537
-[/us/pl/86/70/s42/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs42%2Fc
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F151
-[/us/act/1942-12-02/ch668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-02%2Fch668
+[/us/act/1942-12-02/ch668/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-02%2Fch668%2FtII
 [/us/stat/56/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1033
 [/us/usc/t42/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1651
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
-[/us/pl/85/608/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs103%2Fa
-[/us/pl/85/608/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs104
-[/us/pl/85/608/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs104
-[/us/pl/85/608/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs103%2Fb
-[/us/pl/85/608/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs103%2Fc
-[/us/pl/85/608/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs103%2Fd
-[/us/pl/85/608/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs103%2Fe
-[/us/pl/85/608/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs103%2Ff
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
 [/us/pl/85/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F70
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fg

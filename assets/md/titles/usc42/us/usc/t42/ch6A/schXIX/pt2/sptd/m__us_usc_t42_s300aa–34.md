@@ -211,7 +211,7 @@
 
         </table>
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2134, as added [Pub. L. 100–203, title IV, § 4303(f)][/us/pl/100/203/s4303/f], Dec. 22, 1987, [101 Stat. 1330–222][/us/stat/101/1330-222].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2134, as added [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4303(f), Dec. 22, 1987, [101 Stat. 1330–222][/us/stat/101/1330-222].)
 
  __Codification__ 
 
@@ -229,7 +229,7 @@
 [/us/usc/t42/s300aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311
 [/us/usc/t42/s300aa–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/203/s4303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4303%2Ff
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-222
 [/us/pl/99/660/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs323
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931

@@ -27,7 +27,7 @@
 
         A grant for a period exceeding 1 year may be renewed as provided in this section, except that the total duration of such a grant including any renewals may not exceed 3 years, or 5 years if it is a grant made for hiring or rehiring additional career law enforcement officers.
 
-([Pub. L. 90–351, title I, § 1703][/us/pl/90/351/s1703], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1812][/us/stat/108/1812].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1703, as added [Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10003(a)(3), Sept. 13, 1994, [108 Stat. 1812][/us/stat/108/1812].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1703
-[/us/pl/103/322/s10003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs10003%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtI
 [/us/stat/108/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1812
 
 

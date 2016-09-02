@@ -35,13 +35,13 @@
 
         Any contract made under this section may be made without regard to [section 6101 of title 41][/us/usc/t41/s6101], upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable.
 
-([Pub. L. 85–846, § 6][/us/pl/85/846/s6], Aug. 28, 1958, [72 Stat. 1085][/us/stat/72/1085].)
+([Pub. L. 85–846][/us/pl/85/846], § 6, Aug. 28, 1958, [72 Stat. 1085][/us/stat/72/1085].)
 
  __Codification__ 
 
-    In subsec. (d), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “section 3679 of the Revised Statutes, as amended \[[31 U.S.C. 665][/us/usc/t31/s665]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “section 3679 of the Revised Statutes, as amended \[[31 U.S.C. 665][/us/usc/t31/s665]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    In subsec. (e), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was enacted as part of the EURATOM Cooperation Act of 1958 which comprises this subchapter, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
@@ -55,13 +55,13 @@
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/usc/t42/s2291/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2291%2Fc
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/85/846/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846%2Fs6
+[/us/pl/85/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846
 [/us/stat/72/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1085
 [/us/usc/t31/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

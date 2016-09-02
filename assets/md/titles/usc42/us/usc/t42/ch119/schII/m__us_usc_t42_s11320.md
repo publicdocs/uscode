@@ -23,11 +23,11 @@
 
         Each State is encouraged to establish a State interagency council on the homeless or designate a lead agency for the State for the purpose of assuming primary responsibility for coordinating and interacting with the Council and State and local agencies as necessary.
 
-([Pub. L. 100–77, title II, § 210][/us/pl/100/77/s210], as added [Pub. L. 100–628, title II, § 206(a)][/us/pl/100/628/s206/a], Nov. 7, 1988, [102 Stat. 3229][/us/stat/102/3229].)
+([Pub. L. 100–77, title II][/us/pl/100/77/tII], § 210, as added [Pub. L. 100–628, title II][/us/pl/100/628/tII], § 206(a), Nov. 7, 1988, [102 Stat. 3229][/us/stat/102/3229].)
 
  __References in Text__ 
 
-    Par. (7) of [section 11313(a) of this title][/us/usc/t42/s11313/a], referred to in subsec. (a), was redesignated par. (11) of section 11313(a) by [Pub. L. 111–22, div. B, § 1004(a)(3)(A)][/us/pl/111/22/s1004/a/3/A], May 20, 2009, [123 Stat. 1667][/us/stat/123/1667].
+    Par. (7) of [section 11313(a) of this title][/us/usc/t42/s11313/a], referred to in subsec. (a), was redesignated par. (11) of section 11313(a) by [Pub. L. 111–22, div. B][/us/pl/111/22/dB], § 1004(a)(3)(A), May 20, 2009, [123 Stat. 1667][/us/stat/123/1667].
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/100/77/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs210
-[/us/pl/100/628/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs206%2Fa
+[/us/pl/100/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtII
+[/us/pl/100/628/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtII
 [/us/stat/102/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3229
 [/us/usc/t42/s11313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11313%2Fa
-[/us/pl/111/22/s1004/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F3%2FA
+[/us/pl/111/22/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB
 [/us/stat/123/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1667
 
 

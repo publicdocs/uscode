@@ -223,11 +223,11 @@
 
             Of the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall determine the allocation of each Center receiving a grant under this section, but in no case may the allocation be more than $5,000,000, except that the Secretary may allocate not more than $10,000,000 to the coordinating center.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520B, as added [Pub. L. 111–148, title X, § 10410(b)][/us/pl/111/148/s10410/b], Mar. 23, 2010, [124 Stat. 984][/us/stat/124/984].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520B, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10410(b), Mar. 23, 2010, [124 Stat. 984][/us/stat/124/984].)
 
  __Prior Provisions__ 
 
-    A prior section 290bb–33, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520B, formerly title XXIV, § 2441, as added [Pub. L. 100–607, title II, § 211][/us/pl/100/607/s211], Nov. 4, 1988, [102 Stat. 3092][/us/stat/102/3092]; renumbered title V, § 520B, and amended [Pub. L. 102–321, title I, § 118(a)][/us/pl/102/321/s118/a], (b)(2), July 10, 1992, [106 Stat. 348][/us/stat/106/348], 349, related to demonstration projects for individuals with positive test results, prior to repeal by [Pub. L. 106–310, div. B, title XXXII, § 3201(b)(2)][/us/pl/106/310/s3201/b/2], Oct. 17, 2000, [114 Stat. 1190][/us/stat/114/1190].
+    A prior section 290bb–33, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 520B, formerly title XXIV, § 2441, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 211, Nov. 4, 1988, [102 Stat. 3092][/us/stat/102/3092]; renumbered title V, § 520B, and amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 118(a), (b)(2), July 10, 1992, [106 Stat. 348][/us/stat/106/348], 349, related to demonstration projects for individuals with positive test results, prior to repeal by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3201(b)(2), Oct. 17, 2000, [114 Stat. 1190][/us/stat/114/1190].
 
 ----------
 
@@ -237,14 +237,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10410%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F984
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs211
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3092
-[/us/pl/102/321/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs118%2Fa
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F348
-[/us/pl/106/310/s3201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3201%2Fb%2F2
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1190
 
 

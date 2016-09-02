@@ -37,7 +37,7 @@
 
             Nothing in this subsection shall prohibit an Indian tribal government from receiving assistance under this subchapter through a declaration made by the President at the request of a State under subsection (a) if the President does not make a declaration under this subsection for the same incident.
 
-([Pub. L. 93–288, title V, § 501][/us/pl/93/288/s501], as added [Pub. L. 100–707, title I, § 107(a)][/us/pl/100/707/s107/a], Nov. 23, 1988, [102 Stat. 4706][/us/stat/102/4706]; amended [Pub. L. 113–2, div. B, § 1110(b)][/us/pl/113/2/s1110/b], Jan. 29, 2013, [127 Stat. 48][/us/stat/127/48].)
+([Pub. L. 93–288, title V][/us/pl/93/288/tV], § 501, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 107(a), Nov. 23, 1988, [102 Stat. 4706][/us/stat/102/4706]; amended [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1110(b), Jan. 29, 2013, [127 Stat. 48][/us/stat/127/48].)
 
  __References in Text__ 
 
@@ -60,10 +60,10 @@
 
 [/us/usc/t42/s5192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5192
 [/us/usc/t42/s5193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5193
-[/us/pl/93/288/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs501
-[/us/pl/100/707/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs107%2Fa
+[/us/pl/93/288/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4706
-[/us/pl/113/2/s1110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fb
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F48
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

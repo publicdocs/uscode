@@ -31,7 +31,7 @@
 
         (4) bring electrical power and service to Indian land and the homes of tribal members located on Indian lands or acquired, constructed, or improved (in whole or in part) with Federal funds.
 
-([Pub. L. 95–91, title II, § 217][/us/pl/95/91/s217], as added [Pub. L. 109–58, title V, § 502(a)][/us/pl/109/58/s502/a], Aug. 8, 2005, [119 Stat. 763][/us/stat/119/763].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 217, as added [Pub. L. 109–58, title V][/us/pl/109/58/tV], § 502(a), Aug. 8, 2005, [119 Stat. 763][/us/stat/119/763].)
 
  __References in Text__ 
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/95/91/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs217
-[/us/pl/109/58/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs502%2Fa
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F763
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

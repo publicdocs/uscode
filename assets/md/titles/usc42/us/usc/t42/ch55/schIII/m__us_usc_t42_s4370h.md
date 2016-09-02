@@ -17,7 +17,7 @@
 
     For fiscal year 2009 and thereafter, the Science and Technology, Environmental Programs and Management, Office of Inspector General, Hazardous Substance Superfund, and Leaking Underground Storage Tank Trust Fund Program Accounts, are available for the construction, alteration, repair, rehabilitation, and renovation of facilities provided that the cost does not exceed $85,000 per project.
 
-([Pub. L. 111–8, div. E, title II][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 729][/us/stat/123/729].)
+([Pub. L. 111–8, div. E, title II][/us/pl/111/8/dE/tII], Mar. 11, 2009, [123 Stat. 729][/us/stat/123/729].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtII
 [/us/stat/123/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F729
 
 

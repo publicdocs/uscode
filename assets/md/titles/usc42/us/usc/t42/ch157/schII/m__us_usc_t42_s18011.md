@@ -69,7 +69,7 @@
 
         In this title,1 the term “grandfathered health plan” means any group health plan or health insurance coverage to which this section applies.
 
-([Pub. L. 111–148, title I, § 1251][/us/pl/111/148/s1251], title X, § 10103(d), Mar. 23, 2010, [124 Stat. 161][/us/stat/124/161], 895; [Pub. L. 111–152, title II, § 2301(a)][/us/pl/111/152/s2301/a], Mar. 30, 2010, [124 Stat. 1081][/us/stat/124/1081].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1251, title X, § 10103(d), Mar. 23, 2010, [124 Stat. 161][/us/stat/124/161], 895; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2301(a), Mar. 30, 2010, [124 Stat. 1081][/us/stat/124/1081].)
 
  __References in Text__ 
 
@@ -85,9 +85,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–148, § 10103(d)(1)][/us/pl/111/148/s10103/d/1], substituted “Except as provided in paragraph (3), with” for “With”.
+    2010—Subsec. (a)(2). [Pub. L. 111–148][/us/pl/111/148], § 10103(d)(1), substituted “Except as provided in paragraph (3), with” for “With”.
 
-    Subsec. (a)(3). [Pub. L. 111–148, § 10103(d)(2)][/us/pl/111/148/s10103/d/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 111–148][/us/pl/111/148], § 10103(d)(2), added par. (3).
 
     Subsec. (a)(4). [Pub. L. 111–152][/us/pl/111/152] added par. (4).
 
@@ -113,9 +113,9 @@
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
 [/us/usc/t42/s300gg–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9314
 [/us/usc/t26/s5000A/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5000A%2Ff%2F2
-[/us/pl/111/148/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1251
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F161
-[/us/pl/111/152/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2301%2Fa
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1081
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
@@ -133,8 +133,8 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/111/148/s10103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10103%2Fd%2F1
-[/us/pl/111/148/s10103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10103%2Fd%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t42/s18011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18011
 [/us/pl/111/148/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1255

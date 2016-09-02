@@ -47,11 +47,11 @@
 
         The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 97–35, title VI, § 673][/us/pl/97/35/s673], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2729][/us/stat/112/2729].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 673, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2729][/us/stat/112/2729].)
 
  __Prior Provisions__ 
 
-    A prior section 9902, [Pub. L. 97–35, title VI, § 673][/us/pl/97/35/s673], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511]; [Pub. L. 97–115, § 17(a)(1)][/us/pl/97/115/s17/a/1], Dec. 29, 1981, [95 Stat. 1609][/us/stat/95/1609]; [Pub. L. 98–288, § 31(a)][/us/pl/98/288/s31/a], May 21, 1984, [98 Stat. 197][/us/stat/98/197]; [Pub. L. 98–558, title II, § 202][/us/pl/98/558/s202], Oct. 30, 1984, [98 Stat. 2884][/us/stat/98/2884]; [Pub. L. 99–425, title IV, § 402][/us/pl/99/425/s402], Sept. 30, 1986, [100 Stat. 968][/us/stat/100/968]; [Pub. L. 101–501, title IV][/us/pl/101/501], §§ 402, 408, Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251], 1255; [Pub. L. 103–171, § 7(c)(1)][/us/pl/103/171/s7/c/1], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994], defined terms used in this chapter, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9902, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 673, Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511]; [Pub. L. 97–115][/us/pl/97/115], § 17(a)(1), Dec. 29, 1981, [95 Stat. 1609][/us/stat/95/1609]; [Pub. L. 98–288][/us/pl/98/288], § 31(a), May 21, 1984, [98 Stat. 197][/us/stat/98/197]; [Pub. L. 98–558, title II][/us/pl/98/558/tII], § 202, Oct. 30, 1984, [98 Stat. 2884][/us/stat/98/2884]; [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 402, Sept. 30, 1986, [100 Stat. 968][/us/stat/100/968]; [Pub. L. 101–501, title IV][/us/pl/101/501/tIV], §§ 402, 408, Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251], 1255; [Pub. L. 103–171][/us/pl/103/171], § 7(c)(1), Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994], defined terms used in this chapter, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
 ----------
 
@@ -64,22 +64,22 @@
 [/us/usc/t42/s9910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910
 [/us/usc/t42/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9832
 [/us/usc/t42/s9920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9920
-[/us/pl/97/35/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs673
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2729
-[/us/pl/97/35/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs673
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
-[/us/pl/97/115/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs17%2Fa%2F1
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1609
-[/us/pl/98/288/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs31%2Fa
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F197
-[/us/pl/98/558/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs202
+[/us/pl/98/558/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtII
 [/us/stat/98/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2884
-[/us/pl/99/425/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs402
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F968
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIV
 [/us/stat/104/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1251
-[/us/pl/103/171/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs7%2Fc%2F1
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1994
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 

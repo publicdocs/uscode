@@ -61,7 +61,7 @@
 
         Not later than 365 days after August 8, 2005, the Secretary, in consultation with the Secretary of Energy, shall carry out a review of, and submit to Congress a report on, further opportunities to enhance production of natural gas from gas hydrate resources on the outer Continental Shelf and on Federal lands in Alaska through the provision of other production incentives or through technical or financial assistance.
 
-([Pub. L. 109–58, title III, § 353][/us/pl/109/58/s353], Aug. 8, 2005, [119 Stat. 714][/us/stat/119/714].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 353, Aug. 8, 2005, [119 Stat. 714][/us/stat/119/714].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/109/58/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs353
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F714
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462

@@ -97,7 +97,7 @@
 
             The Advanced Manufacturing Partnership Steering Committee of the President’s Council of Advisors on Science and Technology shall provide input, perspective, and recommendations to assist in the development and updates of the strategic plan under this subsection.
 
-([Pub. L. 111–358, title I, § 102][/us/pl/111/358/s102], Jan. 4, 2011, [124 Stat. 3985][/us/stat/124/3985]; [Pub. L. 113–235, div. B, title VII, § 704][/us/pl/113/235/s704], Dec. 16, 2014, [128 Stat. 2229][/us/stat/128/2229].)
+([Pub. L. 111–358, title I][/us/pl/111/358/tI], § 102, Jan. 4, 2011, [124 Stat. 3985][/us/stat/124/3985]; [Pub. L. 113–235, div. B, title VII][/us/pl/113/235/dB/tVII], § 704, Dec. 16, 2014, [128 Stat. 2229][/us/stat/128/2229].)
 
  __Codification__ 
 
@@ -105,11 +105,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–235, § 704(1)][/us/pl/113/235/s704/1], inserted at end “In furtherance of the Committee’s work, the Committee shall consult with the National Economic Council.”
+    2014—Subsec. (a). [Pub. L. 113–235][/us/pl/113/235], § 704(1), inserted at end “In furtherance of the Committee’s work, the Committee shall consult with the National Economic Council.”
 
-    Subsec. (b)(7). [Pub. L. 113–235, § 704(2)][/us/pl/113/235/s704/2], added par. (7) and struck out former par. (7), which related to development and updating strategic plan to guide Federal programs and activities in support of advanced manufacturing research and development.
+    Subsec. (b)(7). [Pub. L. 113–235][/us/pl/113/235], § 704(2), added par. (7) and struck out former par. (7), which related to development and updating strategic plan to guide Federal programs and activities in support of advanced manufacturing research and development.
 
-    Subsec. (c). [Pub. L. 113–235, § 704(3)][/us/pl/113/235/s704/3], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Not later than 1 year after January 4, 2011, the Director shall transmit the strategic plan developed under subsection (b)(7) to the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Science and Technology, and shall transmit subsequent updates to those committees as appropriate.”
+    Subsec. (c). [Pub. L. 113–235][/us/pl/113/235], § 704(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Not later than 1 year after January 4, 2011, the Director shall transmit the strategic plan developed under subsection (b)(7) to the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Science and Technology, and shall transmit subsequent updates to those committees as appropriate.”
 
  __Change of Name__ 
 
@@ -127,13 +127,13 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/111/358/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs102
+[/us/pl/111/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtI
 [/us/stat/124/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3985
-[/us/pl/113/235/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs704
+[/us/pl/113/235/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVII
 [/us/stat/128/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2229
-[/us/pl/113/235/s704/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs704%2F1
-[/us/pl/113/235/s704/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs704%2F2
-[/us/pl/113/235/s704/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs704%2F3
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621
 

@@ -43,7 +43,7 @@
 
         The Director shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
 
-([Pub. L. 93–113, title IV, § 417][/us/pl/93/113/s417], Oct. 1, 1973, [87 Stat. 413][/us/stat/87/413]; [Pub. L. 96–143, § 12][/us/pl/96/143/s12], Dec. 13, 1979, [93 Stat. 1079][/us/stat/93/1079]; [Pub. L. 97–35, title VI, § 608(f)(3)][/us/pl/97/35/s608/f/3], Aug. 13, 1981, [95 Stat. 488][/us/stat/95/488]; [Pub. L. 98–288, § 30(a)][/us/pl/98/288/s30/a], May 21, 1984, [98 Stat. 197][/us/stat/98/197]; [Pub. L. 103–82, title III, § 367][/us/pl/103/82/s367], Sept. 21, 1993, [107 Stat. 908][/us/stat/107/908].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 417, Oct. 1, 1973, [87 Stat. 413][/us/stat/87/413]; [Pub. L. 96–143][/us/pl/96/143], § 12, Dec. 13, 1979, [93 Stat. 1079][/us/stat/93/1079]; [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 608(f)(3), Aug. 13, 1981, [95 Stat. 488][/us/stat/95/488]; [Pub. L. 98–288][/us/pl/98/288], § 30(a), May 21, 1984, [98 Stat. 197][/us/stat/98/197]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 367, Sept. 21, 1993, [107 Stat. 908][/us/stat/107/908].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
     1981—Subsec. (c)(2). [Pub. L. 97–35][/us/pl/97/35] substituted reference to the Secretary of Health and Human Services for references to the Secretary of Health and Human Resources and the Secretary of Health, Education, and Welfare.
 
-    1979—Subsec. (a). [Pub. L. 96–143, § 12(a)][/us/pl/96/143/s12/a], inserted “handicap,” after “age,” and inserted provisions requiring that for purposes of this subsection, and for purposes of title VI of the Civil Rights Act of 1964, [section 794 of title 29][/us/usc/t29/s794], and the Age Discrimination Act of 1975, any program, project, or activity to which volunteers are assigned under this chapter be deemed to be receiving Federal financial assistance.
+    1979—Subsec. (a). [Pub. L. 96–143][/us/pl/96/143], § 12(a), inserted “handicap,” after “age,” and inserted provisions requiring that for purposes of this subsection, and for purposes of title VI of the Civil Rights Act of 1964, [section 794 of title 29][/us/usc/t29/s794], and the Age Discrimination Act of 1975, any program, project, or activity to which volunteers are assigned under this chapter be deemed to be receiving Federal financial assistance.
 
-    Subsec. (c). [Pub. L. 96–143, § 12(b)][/us/pl/96/143/s12/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–143][/us/pl/96/143], § 12(b), added subsec. (c).
 
  __Effective Date of 1993 Amendment__ 
 
@@ -83,15 +83,15 @@
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
-[/us/pl/93/113/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs417
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F413
-[/us/pl/96/143/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs12
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1079
-[/us/pl/97/35/s608/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs608%2Ff%2F3
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F488
-[/us/pl/98/288/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs30%2Fa
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F197
-[/us/pl/103/82/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs367
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F908
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -109,9 +109,9 @@
 [/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/96/143/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs12%2Fa
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/96/143/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs12%2Fb
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs392
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951

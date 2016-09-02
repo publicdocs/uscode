@@ -19,7 +19,7 @@
 
     (b) Nothing contained in this chapter shall be construed, interpreted or applied to supplant, displace, preempt or otherwise diminish the responsibilities and liabilities under other State or Federal law, whether statutory or common.
 
-([Pub. L. 101–508, title VI, § 6609][/us/pl/101/508/s6609], Nov. 5, 1990, [104 Stat. 1388–327][/us/stat/104/1388-327].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6609, Nov. 5, 1990, [104 Stat. 1388–327][/us/stat/104/1388-327].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001
-[/us/pl/101/508/s6609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6609
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-327
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1728

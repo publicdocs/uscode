@@ -59,7 +59,7 @@
 
         (2) recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate to improve the ability described in paragraph (1).
 
-([Pub. L. 109–164, title II, § 204][/us/pl/109/164/s204], Jan. 10, 2006, [119 Stat. 3571][/us/stat/119/3571]; [Pub. L. 110–457, title III, § 302(5)][/us/pl/110/457/s302/5], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII, § 1242][/us/pl/113/4/s1242], Mar. 7, 2013, [127 Stat. 153][/us/stat/127/153].)
+([Pub. L. 109–164, title II][/us/pl/109/164/tII], § 204, Jan. 10, 2006, [119 Stat. 3571][/us/stat/119/3571]; [Pub. L. 110–457, title III][/us/pl/110/457/tIII], § 302(5), Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1242, Mar. 7, 2013, [127 Stat. 153][/us/stat/127/153].)
 
  __Codification__ 
 
@@ -67,15 +67,15 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1)(A). [Pub. L. 113–4, § 1242(1)(A)][/us/pl/113/4/s1242/1/A], struck out “, which involve United States citizens, or aliens admitted for permanent residence, and” after “related offenses”.
+    2013—Subsec. (a)(1)(A). [Pub. L. 113–4][/us/pl/113/4], § 1242(1)(A), struck out “, which involve United States citizens, or aliens admitted for permanent residence, and” after “related offenses”.
 
-    Subsec. (a)(1)(B) to (E). [Pub. L. 113–4, § 1242(1)(B)][/us/pl/113/4/s1242/1/B]–(D), added subpar. (B), redesignated former subpars. (B) to (D) as (C) to (E), respectively, and in subpar. (C) inserted “and prioritize the investigations and prosecutions of those cases involving minor victims” after “commercial sex acts”.
+    Subsec. (a)(1)(B) to (E). [Pub. L. 113–4][/us/pl/113/4], § 1242(1)(B)–(D), added subpar. (B), redesignated former subpars. (B) to (D) as (C) to (E), respectively, and in subpar. (C) inserted “and prioritize the investigations and prosecutions of those cases involving minor victims” after “commercial sex acts”.
 
-    Subsec. (d). [Pub. L. 113–4, § 1242(3)][/us/pl/113/4/s1242/3], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 113–4][/us/pl/113/4], § 1242(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 113–4, § 1242(2)][/us/pl/113/4/s1242/2], (4), redesignated subsec. (d) as (e) and substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$20,000,000 for each of the fiscal years 2008 through 2011”.
+    Subsec. (e). [Pub. L. 113–4][/us/pl/113/4], § 1242(2), (4), redesignated subsec. (d) as (e) and substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$20,000,000 for each of the fiscal years 2008 through 2011”.
 
-    Subsec. (f). [Pub. L. 113–4, § 1242(5)][/us/pl/113/4/s1242/5], added subsec. (f).
+    Subsec. (f). [Pub. L. 113–4][/us/pl/113/4], § 1242(5), added subsec. (f).
 
     2008—Subsec. (d). [Pub. L. 110–457][/us/pl/110/457] substituted “$20,000,000 for each of the fiscal years 2008 through 2011” for “$25,000,000 for each of the fiscal years 2006 and 2007”.
 
@@ -87,17 +87,17 @@
 ----------
 
 [/us/usc/t42/s14044a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14044a
-[/us/pl/109/164/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs204
+[/us/pl/109/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtII
 [/us/stat/119/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3571
-[/us/pl/110/457/s302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs302%2F5
+[/us/pl/110/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIII
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
-[/us/pl/113/4/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1242
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F153
-[/us/pl/113/4/s1242/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1242%2F1%2FA
-[/us/pl/113/4/s1242/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1242%2F1%2FB
-[/us/pl/113/4/s1242/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1242%2F3
-[/us/pl/113/4/s1242/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1242%2F2
-[/us/pl/113/4/s1242/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1242%2F5
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 
 

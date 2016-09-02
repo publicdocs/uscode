@@ -47,7 +47,7 @@
 
         The President shall promote public access to policies governing the implementation of the public assistance program.
 
-([Pub. L. 93–288, title III, § 325][/us/pl/93/288/s325], as added [Pub. L. 106–390, title II, § 203][/us/pl/106/390/s203], Oct. 30, 2000, [114 Stat. 1560][/us/stat/114/1560].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 325, as added [Pub. L. 106–390, title II][/us/pl/106/390/tII], § 203, Oct. 30, 2000, [114 Stat. 1560][/us/stat/114/1560].)
 
  __References in Text__ 
 
@@ -66,8 +66,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs325
-[/us/pl/106/390/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs203
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1560
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

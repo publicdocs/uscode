@@ -17,7 +17,7 @@
 
     For purposes of sections 3712a and 3712b of this title, the term “State” includes an Indian tribal government.
 
-([Pub. L. 90–351, title I, § 105][/us/pl/90/351/s105], as added [Pub. L. 109–162, title XI, § 1121(a)][/us/pl/109/162/s1121/a], Jan. 5, 2006, [119 Stat. 3107][/us/stat/119/3107].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 105, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1121(a), Jan. 5, 2006, [119 Stat. 3107][/us/stat/119/3107].)
 
  __Codification__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs105
-[/us/pl/109/162/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1121%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3107
 [/us/pl/90/351/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs105
 [/us/usc/t42/s3712h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712h

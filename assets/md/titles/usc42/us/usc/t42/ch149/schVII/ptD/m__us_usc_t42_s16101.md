@@ -29,11 +29,11 @@
 
         (3) $30,000,000 for fiscal year 2008.
 
-([Pub. L. 109–58, title VII, § 751][/us/pl/109/58/s751], Aug. 8, 2005, [119 Stat. 826][/us/stat/119/826].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 751, Aug. 8, 2005, [119 Stat. 826][/us/stat/119/826].)
 
  __Advanced Technology Locomotive Grant Pilot Program__ 
 
-[Pub. L. 110–140, title XI, § 1111][/us/pl/110/140/s1111], Dec. 19, 2007, [121 Stat. 1757][/us/stat/121/1757], provided that:
+[Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1111, Dec. 19, 2007, [121 Stat. 1757][/us/stat/121/1757], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -88,9 +88,9 @@
 ----------
 ----------
 
-[/us/pl/109/58/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs751
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F826
-[/us/pl/110/140/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1111
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1757
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 

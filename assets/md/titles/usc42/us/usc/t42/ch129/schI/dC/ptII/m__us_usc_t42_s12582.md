@@ -133,7 +133,7 @@
 
         Unless specifically authorized by law, the Corporation may not provide more than 1 grant under the national service laws for a fiscal year to support the same project under the national service laws.
 
-([Pub. L. 101–610, title I, § 130][/us/pl/101/610/s130], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 800][/us/stat/107/800]; amended [Pub. L. 111–13, title I, § 1308][/us/pl/111/13/s1308], Apr. 21, 2009, [123 Stat. 1505][/us/stat/123/1505].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 130, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 800][/us/stat/107/800]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1308, Apr. 21, 2009, [123 Stat. 1505][/us/stat/123/1505].)
 
  __Prior Provisions__ 
 
@@ -141,35 +141,35 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1308(1)][/us/pl/111/13/s1308/1], substituted “section 12571(a)” for “section 12571”, inserted “territory,” after “assistance, a State,”, and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1308(1), substituted “section 12571(a)” for “section 12571”, inserted “territory,” after “assistance, a State,”, and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
 
-    Subsec. (b)(9). [Pub. L. 111–13, § 1308(2)(A)][/us/pl/111/13/s1308/2/A], substituted “section 12572(f)” for “section 12572(c)”.
+    Subsec. (b)(9). [Pub. L. 111–13][/us/pl/111/13], § 1308(2)(A), substituted “section 12572(f)” for “section 12572(c)”.
 
-    Subsec. (b)(12). [Pub. L. 111–13, § 1308(2)(B)][/us/pl/111/13/s1308/2/B], inserted “municipalities and governments of counties in which such a community is located,” after “providing services,”.
+    Subsec. (b)(12). [Pub. L. 111–13][/us/pl/111/13], § 1308(2)(B), inserted “municipalities and governments of counties in which such a community is located,” after “providing services,”.
 
-    Subsec. (c)(1). [Pub. L. 111–13, § 1308(3)(A)][/us/pl/111/13/s1308/3/A], substituted “proposed positions” for “jobs or positions” and a period for “, including descriptions of specific tasks to be performed by such participants.”
+    Subsec. (c)(1). [Pub. L. 111–13][/us/pl/111/13], § 1308(3)(A), substituted “proposed positions” for “jobs or positions” and a period for “, including descriptions of specific tasks to be performed by such participants.”
 
-    Subsec. (c)(2). [Pub. L. 111–13, § 1308(3)(B)][/us/pl/111/13/s1308/3/B], inserted “proposed” before “minimum”.
+    Subsec. (c)(2). [Pub. L. 111–13][/us/pl/111/13], § 1308(3)(B), inserted “proposed” before “minimum”.
 
-    Subsec. (c)(3). [Pub. L. 111–13, § 1308(3)(C)][/us/pl/111/13/s1308/3/C], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–13][/us/pl/111/13], § 1308(3)(C), added par. (3).
 
-    Subsec. (d). [Pub. L. 111–13, § 1308(5)][/us/pl/111/13/s1308/5], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsec. (d). [Pub. L. 111–13][/us/pl/111/13], § 1308(5), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    Subsec. (d)(1). [Pub. L. 111–13, § 1308(4)][/us/pl/111/13/s1308/4], substituted “section 12571(a)” for “subsection (a) or (b) of section 12571” in subpars. (A) and (B) and “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” in subpar. (B).
+    Subsec. (d)(1). [Pub. L. 111–13][/us/pl/111/13], § 1308(4), substituted “section 12571(a)” for “subsection (a) or (b) of section 12571” in subpars. (A) and (B) and “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” in subpar. (B).
 
-    Subsecs. (e), (f). [Pub. L. 111–13, § 1308(5)][/us/pl/111/13/s1308/5], redesignated subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
+    Subsecs. (e), (f). [Pub. L. 111–13][/us/pl/111/13], § 1308(5), redesignated subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(2). [Pub. L. 111–13, § 1308(6)][/us/pl/111/13/s1308/6], which directed substitution of “were or will be selected” for “were selected” in par. (2)(A), was executed by making the substitution in par. (2) to reflect the probable intent of Congress because par. (2) does not contain subpars.
+    Subsec. (f)(2). [Pub. L. 111–13][/us/pl/111/13], § 1308(6), which directed substitution of “were or will be selected” for “were selected” in par. (2)(A), was executed by making the substitution in par. (2) to reflect the probable intent of Congress because par. (2) does not contain subpars.
 
-    Subsec. (g). [Pub. L. 111–13, § 1308(5)][/us/pl/111/13/s1308/5], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 111–13][/us/pl/111/13], § 1308(5), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(1). [Pub. L. 111–13, § 1308(7)(A)][/us/pl/111/13/s1308/7/A], substituted “an applicant” for “a program applicant”.
+    Subsec. (g)(1). [Pub. L. 111–13][/us/pl/111/13], § 1308(7)(A), substituted “an applicant” for “a program applicant”.
 
-    Subsec. (g)(2). [Pub. L. 111–13, § 1308(7)(B)(i)][/us/pl/111/13/s1308/7/B/i], (ii), substituted “Applicant” for “Program applicant” in heading and “applicant” for “program applicant” in introductory provisions.
+    Subsec. (g)(2). [Pub. L. 111–13][/us/pl/111/13], § 1308(7)(B)(i), (ii), substituted “Applicant” for “Program applicant” in heading and “applicant” for “program applicant” in introductory provisions.
 
-    Subsec. (g)(2)(A), (B). [Pub. L. 111–13, § 1308(7)(B)(iii)][/us/pl/111/13/s1308/7/B/iii], (iv), inserted “territory,” after “subdivision of a State,” and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+    Subsec. (g)(2)(A), (B). [Pub. L. 111–13][/us/pl/111/13], § 1308(7)(B)(iii), (iv), inserted “territory,” after “subdivision of a State,” and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
 
-    Subsec. (h). [Pub. L. 111–13, § 1308(5)][/us/pl/111/13/s1308/5], (8), redesignated subsec. (g) as (h) and amended subsec. (h) generally. Prior to amendment, text read as follows: “The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation.”
+    Subsec. (h). [Pub. L. 111–13][/us/pl/111/13], § 1308(5), (8), redesignated subsec. (g) as (h) and amended subsec. (h) generally. Prior to amendment, text read as follows: “The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation.”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -197,28 +197,28 @@
 [/us/usc/t42/s12571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fa
 [/us/usc/t42/s12571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fa
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
-[/us/pl/101/610/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs130
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F800
-[/us/pl/111/13/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1505
 [/us/pl/101/610/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs130
 [/us/usc/t42/s12655i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655i
-[/us/pl/111/13/s1308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F1
-[/us/pl/111/13/s1308/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F2%2FA
-[/us/pl/111/13/s1308/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F2%2FB
-[/us/pl/111/13/s1308/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F3%2FA
-[/us/pl/111/13/s1308/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F3%2FB
-[/us/pl/111/13/s1308/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F3%2FC
-[/us/pl/111/13/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F5
-[/us/pl/111/13/s1308/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F4
-[/us/pl/111/13/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F5
-[/us/pl/111/13/s1308/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F6
-[/us/pl/111/13/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F5
-[/us/pl/111/13/s1308/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F7%2FA
-[/us/pl/111/13/s1308/7/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F7%2FB%2Fi
-[/us/pl/111/13/s1308/7/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F7%2FB%2Fiii
-[/us/pl/111/13/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1308%2F5
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

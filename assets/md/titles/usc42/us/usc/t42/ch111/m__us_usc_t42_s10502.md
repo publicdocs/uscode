@@ -61,7 +61,7 @@
 
     (4) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 98–473, title II, § 609N][/us/pl/98/473/s609N], Oct. 12, 1984, [98 Stat. 2104][/us/stat/98/2104]; [Pub. L. 107–296, title XI, § 1112][/us/pl/107/296/s1112](o), Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278]; [Pub. L. 109–177, title V, § 506(a)(11)][/us/pl/109/177/s506/a/11], Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609N, Oct. 12, 1984, [98 Stat. 2104][/us/stat/98/2104]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(o), Nov. 25, 2002, [116 Stat. 2278][/us/stat/116/2278]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(11), Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248].)
 
  __References in Text__ 
 
@@ -100,11 +100,11 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609N
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2104
-[/us/pl/107/296/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2278
-[/us/pl/109/177/s506/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F11
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F248
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177

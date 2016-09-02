@@ -139,7 +139,7 @@
 
         There is authorized to be appropriated to carry out this section $350,000,000, to remain available until expended.
 
-([Pub. L. 111–11, title IX, § 9504][/us/pl/111/11/s9504], Mar. 30, 2009, [123 Stat. 1334][/us/stat/123/1334]; [Pub. L. 113–235, div. D, title II, § 203][/us/pl/113/235/s203], Dec. 16, 2014, [128 Stat. 2311][/us/stat/128/2311]; [Pub. L. 114–113, div. D, title II, § 206][/us/pl/114/113/s206], Dec. 18, 2015, [129 Stat. 2407][/us/stat/129/2407].)
+([Pub. L. 111–11, title IX][/us/pl/111/11/tIX], § 9504, Mar. 30, 2009, [123 Stat. 1334][/us/stat/123/1334]; [Pub. L. 113–235, div. D, title II][/us/pl/113/235/dD/tII], § 203, Dec. 16, 2014, [128 Stat. 2311][/us/stat/128/2311]; [Pub. L. 114–113, div. D, title II][/us/pl/114/113/dD/tII], § 206, Dec. 18, 2015, [129 Stat. 2407][/us/stat/129/2407].)
 
  __References in Text__ 
 
@@ -161,11 +161,11 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t43/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs391
-[/us/pl/111/11/s9504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9504
+[/us/pl/111/11/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIX
 [/us/stat/123/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1334
-[/us/pl/113/235/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs203
+[/us/pl/113/235/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdD%2FtII
 [/us/stat/128/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2311
-[/us/pl/114/113/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs206
+[/us/pl/114/113/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdD%2FtII
 [/us/stat/129/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2407
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

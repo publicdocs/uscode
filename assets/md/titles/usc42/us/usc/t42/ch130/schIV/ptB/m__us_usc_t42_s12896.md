@@ -57,13 +57,13 @@
 
             (ii) is pregnant.
 
-([Pub. L. 101–625, title IV, § 446][/us/pl/101/625/s446], Nov. 28, 1990, [104 Stat. 4179][/us/stat/104/4179]; [Pub. L. 102–550, title I, § 181(g)(2)][/us/pl/102/550/s181/g/2], (h), Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 446, Nov. 28, 1990, [104 Stat. 4179][/us/stat/104/4179]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 181(g)(2), (h), Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
 
  __References in Text__ 
 
-    The United States Housing Act of 1937, referred to in par. (4), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in par. (4), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
-    Section 3(b)(11) of the United States Housing Act of 1937, referred to in par. (7), was classified to [section 1437a(b)(11) of this title][/us/usc/t42/s1437a/b/11] prior to repeal by [Pub. L. 104–330, title V, § 501(b)(1)(D)][/us/pl/104/330/s501/b/1/D], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by [Pub. L. 105–276, title V, § 506(4)][/us/pl/105/276/s506/4], Oct. 21, 1998, [112 Stat. 2524][/us/stat/112/2524].
+    Section 3(b)(11) of the United States Housing Act of 1937, referred to in par. (7), was classified to [section 1437a(b)(11) of this title][/us/usc/t42/s1437a/b/11] prior to repeal by [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(1)(D), Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 506(4), Oct. 21, 1998, [112 Stat. 2524][/us/stat/112/2524].
 
  __Amendments__ 
 
@@ -81,18 +81,18 @@
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
 [/us/usc/t42/s1437a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F2
 [/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
-[/us/pl/101/625/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs446
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4179
-[/us/pl/102/550/s181/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fg%2F2
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3736
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437a/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F11
-[/us/pl/104/330/s501/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F1%2FD
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
-[/us/pl/105/276/s506/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs506%2F4
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2524
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

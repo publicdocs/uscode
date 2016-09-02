@@ -471,19 +471,19 @@
 
             The Secretary shall establish a limitation on the amount of Federal medical assistance available to any State during the State’s election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1929, as added [Pub. L. 101–508, title IV, § 4711(b)][/us/pl/101/508/s4711/b], Nov. 5, 1990, [104 Stat. 1388–174][/us/stat/104/1388-174]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(v)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1929, as added [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4711(b), Nov. 5, 1990, [104 Stat. 1388–174][/us/stat/104/1388-174]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, § 608(v)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398.)
 
  __Codification__ 
 
-    [Pub. L. 101–508, title IV, § 4711(b)(1)][/us/pl/101/508/s4711/b/1], Nov. 5, 1990, [104 Stat. 1388–174][/us/stat/104/1388-174], which directed renumbering of section 1929 of the Social Security Act, act Aug. 14, 1935, as section 1930, could not be executed because there was no section 1929.
+    [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4711(b)(1), Nov. 5, 1990, [104 Stat. 1388–174][/us/stat/104/1388-174], which directed renumbering of section 1929 of the Social Security Act, act Aug. 14, 1935, as section 1930, could not be executed because there was no section 1929.
 
  __Amendments__ 
 
-    1999—Subsec. (c)(2)(E)(i), (ii). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(v)(1)\], realigned margins.
+    1999—Subsec. (c)(2)(E)(i), (ii). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(v)(1)\], realigned margins.
 
-    Subsec. (k)(1)(A)(i). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(v)(2)\], substituted “large community care settings),” for “large community care settings,”.
+    Subsec. (k)(1)(A)(i). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(v)(2)\], substituted “large community care settings),” for “large community care settings,”.
 
-    Subsec. (l). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(v)(3)\], substituted “Statewideness” for “State wideness”.
+    Subsec. (l). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(v)(3)\], substituted “Statewideness” for “State wideness”.
 
  __Effective Date__ 
 
@@ -523,15 +523,15 @@
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/usc/t42/s1396a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/508/s4711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4711%2Fb
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-174
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/101/508/s4711/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4711%2Fb%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-174
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/101/508/s4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4711
 [/us/pl/101/508/s4711/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4711%2Fe
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a

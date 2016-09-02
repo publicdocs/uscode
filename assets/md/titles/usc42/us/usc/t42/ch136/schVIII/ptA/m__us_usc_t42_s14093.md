@@ -17,7 +17,7 @@
 
     There is established in the Department of Justice, under the general authority of the Attorney General, an Office of the Police Corps and Law Enforcement Education.
 
-([Pub. L. 103–322, title XX, § 200104][/us/pl/103/322/s200104], Sept. 13, 1994, [108 Stat. 2050][/us/stat/108/2050].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200104, Sept. 13, 1994, [108 Stat. 2050][/us/stat/108/2050].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s200104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200104
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2050
 
 

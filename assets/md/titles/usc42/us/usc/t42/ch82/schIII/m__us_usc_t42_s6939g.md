@@ -309,7 +309,7 @@
 
         There are authorized to be appropriated $2,000,000 for each of fiscal years 2013 through 2015 for start-up activities to carry out this section, to be offset by collection of user fees under subsection (c) such that all such appropriated funds are offset by fees as provided in subsection (c).
 
-([Pub. L. 89–272, title II, § 3024][/us/pl/89/272/s3024], as added [Pub. L. 112–195, § 2(a)][/us/pl/112/195/s2/a], Oct. 5, 2012, [126 Stat. 1452][/us/stat/126/1452].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3024, as added [Pub. L. 112–195][/us/pl/112/195], § 2(a), Oct. 5, 2012, [126 Stat. 1452][/us/stat/126/1452].)
 
  __References in Text__ 
 
@@ -331,8 +331,8 @@
 [/us/usc/t31/s3515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515%2Fc
 [/us/usc/t42/s6922/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6922%2Fa%2F6
 [/us/usc/t42/s6923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6923
-[/us/pl/89/272/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3024
-[/us/pl/112/195/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F195%2Fs2%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/112/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F195
 [/us/stat/126/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1452
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/stat/104/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2838

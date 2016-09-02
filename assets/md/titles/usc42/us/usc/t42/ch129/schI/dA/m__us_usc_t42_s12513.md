@@ -49,7 +49,7 @@
 
             The term “program” means an entire program carried out by the Corporation under the national service laws, such as the entire AmeriCorps program carried out under subtitle C. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 111–13, title I, § 1712][/us/pl/111/13/s1712], Apr. 21, 2009, [123 Stat. 1551][/us/stat/123/1551].)
+([Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1712, Apr. 21, 2009, [123 Stat. 1551][/us/stat/123/1551].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t42/s12511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12511
-[/us/pl/111/13/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1712
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1551
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa

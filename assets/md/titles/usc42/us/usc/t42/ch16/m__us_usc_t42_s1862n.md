@@ -133,11 +133,11 @@
 
                  serve teachers who—
 
-                    (I) are considered highly qualified (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]);
+                    (I) are considered highly qualified (as defined in section 9101  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]);
 
                     (II) teach high-need subjects in science, technology, engineering, or mathematics; and
 
-                    (III) teach in high-need schools (as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6314(a)(1)][/us/usc/t20/s6314/a/1]\]);
+                    (III) teach in high-need schools (as described in section 1114(a)(1)(A) 1);
 
                 (iv) focus on the priorities developed by the Director in consultation with a broad group of relevant educational organizations;
 
@@ -237,7 +237,7 @@
 
         (4) __Report on coordination__ 
 
-            The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6661][/us/usc/t20/s6661] et seq.\]. The report under this paragraph shall be submitted along with the President’s annual budget request.
+            The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with other programs with similar purposes. The report under this paragraph shall be submitted along with the President’s annual budget request.
 
         (5) __Technical assistance__ 
 
@@ -255,11 +255,15 @@
 
         (2) the term “science”, in the context of elementary and secondary education, includes technology and pre-engineering.
 
-([Pub. L. 107–368, § 9][/us/pl/107/368/s9], Dec. 19, 2002, [116 Stat. 3044][/us/stat/116/3044]; [Pub. L. 110–69, title VII][/us/pl/110/69], §§ 7028, 7029, Aug. 9, 2007, [121 Stat. 696][/us/stat/121/696], 697.)
+([Pub. L. 107–368][/us/pl/107/368], § 9, Dec. 19, 2002, [116 Stat. 3044][/us/stat/116/3044]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], §§ 7028, 7029, Aug. 9, 2007, [121 Stat. 696][/us/stat/121/696], 697; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ggg)(2), Dec. 10, 2015, [129 Stat. 2186][/us/stat/129/2186].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§ 6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
+    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(10)(A)(iii)(I), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. For reference to such term as defined in section 9101 of the Act to mean section 9101 as in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95], see [section 9214(a)(2) of Pub. L. 114–95][/us/pl/114/95/s9214/a/2], set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of Title 20][/us/usc/t20/s1070g–2], Education.
+
+    Section 1114(a)(1)(A), referred to in subsec. (a)(10)(A)(iii)(III), probably means section 1114(a)(1)(A) of the Elementary and Secondary Education Act of 1965, which is classified to [section 6314(a)(1)(A) of Title 20][/us/usc/t20/s6314/a/1/A], Education.
+
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
  __Codification__ 
 
@@ -267,29 +271,33 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(2)(A). [Pub. L. 110–69, § 7028(1)][/us/pl/110/69/s7028/1], substituted “the department, college, or program of education at an institution of higher education, a State educational agency,” for “a State educational agency”.
+    2015—Subsec. (a)(10)(A)(iii)(III). [Pub. L. 114–95][/us/pl/114/95], § 9215(ggg)(2)(A), which directed substitution of “(as described in section 1114(a)(1)(A))” for “(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6314(a)(1)][/us/usc/t20/s6314/a/1])” was executed by making the substitution for “(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965)” to reflect the probable intent of Congress.
 
-    Subsec. (a)(3)(B). [Pub. L. 110–69, § 7028(2)][/us/pl/110/69/s7028/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;”.
+    Subsec. (c)(4). [Pub. L. 114–95][/us/pl/114/95], § 9215(ggg)(2)(B), which directed substitution of “other programs with similar purposes” for “the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6601][/us/usc/t20/s6601] et seq.)”, was executed by making the substitution for “the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965” to reflect the probable intent of Congress.
 
-    Subsec. (a)(3)(C). [Pub. L. 110–69, § 7028(3)][/us/pl/110/69/s7028/3], inserted “and laboratory experiences” after “technology” and “and laboratory” after “provide technical”.
+    2007—Subsec. (a)(2)(A). [Pub. L. 110–69][/us/pl/110/69], § 7028(1), substituted “the department, college, or program of education at an institution of higher education, a State educational agency,” for “a State educational agency”.
 
-    Subsec. (a)(3)(I). [Pub. L. 110–69, § 7028(4)][/us/pl/110/69/s7028/4], inserted “including the use of induction programs, as defined in [section 9813(h) of title 20][/us/usc/t20/s9813/h], for teachers in their first 2 years of teaching,” after “and science,”.
+    Subsec. (a)(3)(B). [Pub. L. 110–69][/us/pl/110/69], § 7028(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;”.
 
-    Subsec. (a)(3)(K). [Pub. L. 110–69, § 7028(5)][/us/pl/110/69/s7028/5], added subpar. (K) and struck out former subpar. (K) which read as follows: “developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;”.
+    Subsec. (a)(3)(C). [Pub. L. 110–69][/us/pl/110/69], § 7028(3), inserted “and laboratory experiences” after “technology” and “and laboratory” after “provide technical”.
 
-    Subsec. (a)(8), (9). [Pub. L. 110–69, § 7028(6)][/us/pl/110/69/s7028/6], added pars. (8) and (9).
+    Subsec. (a)(3)(I). [Pub. L. 110–69][/us/pl/110/69], § 7028(4), inserted “including the use of induction programs, as defined in [section 9813(h) of title 20][/us/usc/t20/s9813/h], for teachers in their first 2 years of teaching,” after “and science,”.
 
-    Subsec. (a)(10). [Pub. L. 110–69, § 7029][/us/pl/110/69/s7029], added par. (10).
+    Subsec. (a)(3)(K). [Pub. L. 110–69][/us/pl/110/69], § 7028(5), added subpar. (K) and struck out former subpar. (K) which read as follows: “developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;”.
 
-    Subsec. (b)(2)(E) to (G). [Pub. L. 110–69, § 7028(7)][/us/pl/110/69/s7028/7], added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+    Subsec. (a)(8), (9). [Pub. L. 110–69][/us/pl/110/69], § 7028(6), added pars. (8) and (9).
 
-    Subsec. (c)(2). [Pub. L. 110–69, § 7028(8)][/us/pl/110/69/s7028/8], added par. (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
+    Subsec. (a)(10). [Pub. L. 110–69][/us/pl/110/69], § 7029, added par. (10).
+
+    Subsec. (b)(2)(E) to (G). [Pub. L. 110–69][/us/pl/110/69], § 7028(7), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+    Subsec. (c)(2). [Pub. L. 110–69][/us/pl/110/69], § 7028(8), added par. (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
 
     “(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
     “(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public.”
 
-    Subsec. (d). [Pub. L. 110–69, § 7028(9)][/us/pl/110/69/s7028/9], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–69][/us/pl/110/69], § 7028(9), added subsec. (d).
 
  __Change of Name__ 
 
@@ -297,9 +305,13 @@
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
  __Findings__ 
 
-[Pub. L. 107–368, § 2][/us/pl/107/368/s2], Dec. 19, 2002, [116 Stat. 3034][/us/stat/116/3034], provided that: 
+[Pub. L. 107–368][/us/pl/107/368], § 2, Dec. 19, 2002, [116 Stat. 3034][/us/stat/116/3034], provided that: 
 
 > “Congress finds the following:
 
@@ -319,11 +331,11 @@
 
  __Report on Foundation Budgetary and Programmatic Expansion__ 
 
-    [Pub. L. 107–368, § 22][/us/pl/107/368/s22], Dec. 19, 2002, [116 Stat. 3065][/us/stat/116/3065], provided for a National Science Board report to address and examine specified issues concerning the National Science Foundation’s budgetary and programmatic growth provided for by [Pub. L. 107–368][/us/pl/107/368] and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
+    [Pub. L. 107–368][/us/pl/107/368], § 22, Dec. 19, 2002, [116 Stat. 3065][/us/stat/116/3065], provided for a National Science Board report to address and examine specified issues concerning the National Science Foundation’s budgetary and programmatic growth provided for by [Pub. L. 107–368][/us/pl/107/368] and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
 
  __Definitions__ 
 
-[Pub. L. 107–368, § 4][/us/pl/107/368/s4], Dec. 19, 2002, [116 Stat. 3035][/us/stat/116/3035], provided that: 
+[Pub. L. 107–368][/us/pl/107/368], § 4, Dec. 19, 2002, [116 Stat. 3035][/us/stat/116/3035], as amended by [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ggg)(1), Dec. 10, 2015, [129 Stat. 2186][/us/stat/129/2186], provided that: 
 
 > “In this Act \[see Short Title of 2002 Amendment note set out under [section 1861 of this title][/us/usc/t42/s1861]\]:
 
@@ -337,7 +349,7 @@
 
 >     “(3)  __Community college__  __.—__ 
 
->     The term ‘community college’ has the meaning given such term in section 3301(3) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7011(3)][/us/usc/t20/s7011/3]).
+>     The term ‘community college’ means an institution of higher education as defined in section 101 of the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001]\] that provides not less than a 2-year degree that is acceptable for full credit toward a bachelor’s degree, including institutions of higher education receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 \[probably means [Pub. L. 95–471][/us/pl/95/471], [25 U.S.C. 1801][/us/usc/t25/s1801] et seq.\].
 
 >     “(4)  __Director__  __.—__ 
 
@@ -345,7 +357,7 @@
 
 >     “(5)  __Elementary school__  __.—__ 
 
->     The term ‘elementary school’ has the meaning given that term by section 9101(18) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(18)][/us/usc/t20/s7801/18]).
+>     The term ‘elementary school’ has the meaning given that term by section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
 >     “(6)  __Eligible nonprofit organization__  __.—__ 
 
@@ -377,7 +389,7 @@
 
 >     “(10)  __Local educational agency__  __.—__ 
 
->     The term ‘local educational agency’ has the meaning given such term by section 9101(26) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(26)][/us/usc/t20/s7801/26]).
+>     The term ‘local educational agency’ has the meaning given such term by section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
 >     “(11)  __Master teacher__  __.—__ 
 
@@ -399,7 +411,7 @@
 
 >     “(13)  __Secondary school__  __.—__ 
 
->     The term ‘secondary school’ has the meaning given that term by section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38]).
+>     The term ‘secondary school’ has the meaning given that term by section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
 >     “(14)  __State__  __.—__ 
 
@@ -407,7 +419,7 @@
 
 >     “(15)  __State educational agency__  __.—__ 
 
->     The term ‘State educational agency’ has the meaning given such term by section 9101(41) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(41)][/us/usc/t20/s7801/41]).
+>     The term ‘State educational agency’ has the meaning given such term by section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
 >     “(16)  __United states__  __.—__ 
 
@@ -422,44 +434,60 @@
 
 [/us/usc/t20/s9813/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9813%2Fh
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t20/s6314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6314%2Fa%2F1
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
-[/us/usc/t20/s6661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6661
-[/us/pl/107/368/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs9
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3044
-[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F696
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2186
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s9214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9214%2Fa%2F2
+[/us/usc/t20/s1070g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932
+[/us/usc/t20/s6314/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6314%2Fa%2F1%2FA
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/110/69/s7028/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F1
-[/us/pl/110/69/s7028/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F2
-[/us/pl/110/69/s7028/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F3
-[/us/pl/110/69/s7028/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F4
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6314%2Fa%2F1
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6601
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/usc/t20/s9813/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9813%2Fh
-[/us/pl/110/69/s7028/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F5
-[/us/pl/110/69/s7028/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F6
-[/us/pl/110/69/s7029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7029
-[/us/pl/110/69/s7028/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F7
-[/us/pl/110/69/s7028/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F8
-[/us/pl/110/69/s7028/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7028%2F9
-[/us/pl/107/368/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs2
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3034
-[/us/pl/107/368/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs22
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3065
 [/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
-[/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3035
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2186
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/usc/t20/s7011/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7011%2F3
+[/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
+[/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/usc/t20/s7801/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F18
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/usc/t20/s7801/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F26
-[/us/usc/t20/s7801/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F38
-[/us/usc/t20/s7801/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F41
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 
 

@@ -145,7 +145,7 @@
 
         This section may be cited as the “Welfare Indicators Act of 1994”.
 
-([Pub. L. 103–432, title II, § 232][/us/pl/103/432/s232], Oct. 31, 1994, [108 Stat. 4462][/us/stat/108/4462]; [Pub. L. 105–200, title IV, § 410(h)][/us/pl/105/200/s410/h], July 16, 1998, [112 Stat. 674][/us/stat/112/674]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(X), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(X), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
+([Pub. L. 103–432, title II][/us/pl/103/432/tII], § 232, Oct. 31, 1994, [108 Stat. 4462][/us/stat/108/4462]; [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 410(h), July 16, 1998, [112 Stat. 674][/us/stat/112/674]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(A), (B), (2)(X), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(X), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
 
  __References in Text__ 
 
@@ -159,11 +159,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(2). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(X), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    2008—Subsec. (d)(2). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(X), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    1998—Subsec. (b)(3)(D). [Pub. L. 105–200, § 410(h)(1)][/us/pl/105/200/s410/h/1], struck out “Energy and” before “Commerce”.
+    1998—Subsec. (b)(3)(D). [Pub. L. 105–200][/us/pl/105/200], § 410(h)(1), struck out “Energy and” before “Commerce”.
 
-    Subsec. (d)(4). [Pub. L. 105–200, § 410(h)(2)][/us/pl/105/200/s410/h/2], substituted “subsection (b)(3) of this section” for “subsection (b)(3)(C) of this section”.
+    Subsec. (d)(4). [Pub. L. 105–200][/us/pl/105/200], § 410(h)(2), substituted “subsection (b)(3) of this section” for “subsection (b)(3)(C) of this section”.
 
  __Change of Name__ 
 
@@ -186,13 +186,13 @@
 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/103/432/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs232
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4462
-[/us/pl/105/200/s410/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs410%2Fh
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F674
-[/us/pl/110/234/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
@@ -201,9 +201,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/105/200/s410/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs410%2Fh%2F1
-[/us/pl/105/200/s410/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs410%2Fh%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

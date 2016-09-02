@@ -73,7 +73,7 @@
 
     “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
-([Pub. L. 103–322, title III, § 31903][/us/pl/103/322/s31903], Sept. 13, 1994, [108 Stat. 1893][/us/stat/108/1893].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31903, Sept. 13, 1994, [108 Stat. 1893][/us/stat/108/1893].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31903
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1893
 
 

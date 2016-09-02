@@ -41,7 +41,7 @@
 
             Notwithstanding the provisions of paragraph (2)(D), the Secretary may reduce local contributions to not less than 25 percent of the amount of the line of credit requested by the community development corporation if the Secretary determines such to be appropriate in accordance with [section 13826 of this title][/us/usc/t42/s13826].
 
-([Pub. L. 103–322, title III, § 31112][/us/pl/103/322/s31112], Sept. 13, 1994, [108 Stat. 1882][/us/stat/108/1882].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31112, Sept. 13, 1994, [108 Stat. 1882][/us/stat/108/1882].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s13826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13826
-[/us/pl/103/322/s31112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31112
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1882
 
 

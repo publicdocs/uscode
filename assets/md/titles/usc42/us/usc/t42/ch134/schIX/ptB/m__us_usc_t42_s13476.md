@@ -23,7 +23,7 @@
 
         The Secretary shall aggressively pursue the development and implementation of long-term missions for the Fast Flux Test Facility. Within 6 months after October 24, 1992, the Secretary shall submit to the Congress a report on the progress made in carrying out this subsection.
 
-([Pub. L. 102–486, title XXI, § 2116][/us/pl/102/486/s2116], Oct. 24, 1992, [106 Stat. 3075][/us/stat/106/3075].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2116, Oct. 24, 1992, [106 Stat. 3075][/us/stat/106/3075].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2116
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3075
 
 

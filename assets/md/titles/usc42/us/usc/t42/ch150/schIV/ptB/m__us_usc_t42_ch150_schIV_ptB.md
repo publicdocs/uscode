@@ -11,55 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptA/m__us_usc_t42_s16712.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptC/m__us_usc_t42_ch150_schIV_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptA/m__us_usc_t42_s16712.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptB/m__us_usc_t42_s16721...16727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptB)
 
 #### Part B—High Priority Aeronautics Research and Development Programs
 
-§§ 16721 to 16727. __Repealed.__  __[__  __Pub. L. 111–314, § 6__  __][/us/pl/111/314/s6]__  __,__  __Dec. 18, 2010__  __,__  __[__  __124 Stat. 3444__  __][/us/stat/124/3444]__ 
-
-    Section 16721, [Pub. L. 109–155, title IV, § 421][/us/pl/109/155/s421], Dec. 30, 2005, [119 Stat. 2924][/us/stat/119/2924], related to long-term fundamental research program in aeronautics. Subsecs. (a) and (b) were reenacted as [section 40111 of Title 51][/us/usc/t51/s40111], National and Commercial Space Programs.
-
-    Section 16722, [Pub. L. 109–155, title IV, § 422][/us/pl/109/155/s422], Dec. 30, 2005, [119 Stat. 2924][/us/stat/119/2924], related to research and technology programs for environmental aircraft, supersonic transport, rotorcraft and other runway-independent air vehicles, hypersonics, revolutionary aeronautical concepts, fuel cell-powered aircraft, and Mars aircraft. See sections 40112 and 40701 of Title 51.
-
-    Section 16723, [Pub. L. 109–155, title IV, § 423][/us/pl/109/155/s423], Dec. 30, 2005, [119 Stat. 2925][/us/stat/119/2925], related to Airspace Systems Research program. See [section 40113 of Title 51][/us/usc/t51/s40113].
-
-    Section 16724, [Pub. L. 109–155, title IV, § 424][/us/pl/109/155/s424], Dec. 30, 2005, [119 Stat. 2926][/us/stat/119/2926], related to Aviation Safety and Security Research program. See [section 40114 of Title 51][/us/usc/t51/s40114].
-
-    Section 16725, [Pub. L. 109–155, title IV, § 425][/us/pl/109/155/s425], Dec. 30, 2005, [119 Stat. 2926][/us/stat/119/2926], related to aviation weather research. See [section 40115 of Title 51][/us/usc/t51/s40115].
-
-    Section 16726, [Pub. L. 109–155, title IV, § 426][/us/pl/109/155/s426], Dec. 30, 2005, [119 Stat. 2926][/us/stat/119/2926], related to assessment of wake turbulence research and development program and required report to Congress no later than two years after Dec. 30, 2005.
-
-    Section 16727, [Pub. L. 109–155, title IV, § 427][/us/pl/109/155/s427], Dec. 30, 2005, [119 Stat. 2926][/us/stat/119/2926]; [Pub. L. 110–422, title III, § 308][/us/pl/110/422/s308], Oct. 15, 2008, [122 Stat. 4788][/us/stat/122/4788], related to university-based Centers for Research on Aviation Training. See [section 40116 of Title 51][/us/usc/t51/s40116].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptA/m__us_usc_t42_s16712.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptC/m__us_usc_t42_ch150_schIV_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptA/m__us_usc_t42_s16712.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptB/m__us_usc_t42_s16721...16727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptB)
 
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
-[/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/109/155/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs421
-[/us/stat/119/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2924
-[/us/usc/t51/s40111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40111
-[/us/pl/109/155/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs422
-[/us/stat/119/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2924
-[/us/pl/109/155/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs423
-[/us/stat/119/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2925
-[/us/usc/t51/s40113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40113
-[/us/pl/109/155/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs424
-[/us/stat/119/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2926
-[/us/usc/t51/s40114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40114
-[/us/pl/109/155/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs425
-[/us/stat/119/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2926
-[/us/usc/t51/s40115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40115
-[/us/pl/109/155/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs426
-[/us/stat/119/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2926
-[/us/pl/109/155/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs427
-[/us/stat/119/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2926
-[/us/pl/110/422/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs308
-[/us/stat/122/4788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4788
-[/us/usc/t51/s40116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40116
 
 

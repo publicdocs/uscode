@@ -103,15 +103,15 @@
 
                 as determined by the Secretary after providing the notice and opportunity described in subsection (a)(3) of this section.
 
-([Pub. L. 97–35, title VI, § 646][/us/pl/97/35/s646], Aug. 13, 1981, [95 Stat. 504][/us/stat/95/504]; [Pub. L. 101–501, title I, § 115][/us/pl/101/501/s115], Nov. 3, 1990, [104 Stat. 1232][/us/stat/104/1232]; [Pub. L. 103–252, title I, § 113][/us/pl/103/252/s113], May 18, 1994, [108 Stat. 641][/us/stat/108/641]; [Pub. L. 110–134, § 16][/us/pl/110/134/s16], Dec. 12, 2007, [121 Stat. 1421][/us/stat/121/1421].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 646, Aug. 13, 1981, [95 Stat. 504][/us/stat/95/504]; [Pub. L. 101–501, title I][/us/pl/101/501/tI], § 115, Nov. 3, 1990, [104 Stat. 1232][/us/stat/104/1232]; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 113, May 18, 1994, [108 Stat. 641][/us/stat/108/641]; [Pub. L. 110–134][/us/pl/110/134], § 16, Dec. 12, 2007, [121 Stat. 1421][/us/stat/121/1421].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–134, § 16(1)][/us/pl/110/134/s16/1], struck out “procedures to assure that” after “prescribe” in introductory provisions.
+    2007—Subsec. (a). [Pub. L. 110–134][/us/pl/110/134], § 16(1), struck out “procedures to assure that” after “prescribe” in introductory provisions.
 
-    Subsec. (a)(1), (2). [Pub. L. 110–134, § 16(2)][/us/pl/110/134/s16/2], inserted “procedures to assure that” after the par. designation.
+    Subsec. (a)(1), (2). [Pub. L. 110–134][/us/pl/110/134], § 16(2), inserted “procedures to assure that” after the par. designation.
 
-    Subsec. (a)(3) to (6). [Pub. L. 110–134, § 16(3)][/us/pl/110/134/s16/3], added pars. (3) to (6) and struck out former pars. (3) and (4) which read as follows:
+    Subsec. (a)(3) to (6). [Pub. L. 110–134][/us/pl/110/134], § 16(3), added pars. (3) to (6) and struck out former pars. (3) and (4) which read as follows:
 
     “(3) financial assistance under this subchapter shall not be terminated or reduced, an application for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than 30 days, unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing; and
 
@@ -125,13 +125,13 @@
 
     “(B) avoid the need for an administrative hearing on an adverse action.”
 
-    1994—Subsec. (a)(4). [Pub. L. 103–252, § 113(a)][/us/pl/103/252/s113/a], added par. (4).
+    1994—Subsec. (a)(4). [Pub. L. 103–252][/us/pl/103/252], § 113(a), added par. (4).
 
-    Subsecs. (b) to (e). [Pub. L. 103–252, § 113(b)][/us/pl/103/252/s113/b], added subsecs. (b) to (e) and struck out former subsec. (b) which read as follows: “The Secretary may not prescribe any procedure that would modify the operation of section 1303.21 or 1303.33, or any of subdivisions (a) through (f) of section 1303.35, of title 45 of the Code of Federal Regulations as in effect on April 1, 1990.”
+    Subsecs. (b) to (e). [Pub. L. 103–252][/us/pl/103/252], § 113(b), added subsecs. (b) to (e) and struck out former subsec. (b) which read as follows: “The Secretary may not prescribe any procedure that would modify the operation of section 1303.21 or 1303.33, or any of subdivisions (a) through (f) of section 1303.35, of title 45 of the Code of Federal Regulations as in effect on April 1, 1990.”
 
-    1990—Subsec. (a). [Pub. L. 101–501, § 115(1)][/us/pl/101/501/s115/1], (2), designated existing provisions as subsec. (a) and inserted “or reduced” after “terminated” in par. (3).
+    1990—Subsec. (a). [Pub. L. 101–501][/us/pl/101/501], § 115(1), (2), designated existing provisions as subsec. (a) and inserted “or reduced” after “terminated” in par. (3).
 
-    Subsec. (b). [Pub. L. 101–501, § 115(3)][/us/pl/101/501/s115/3], added subsec. (b).
+    Subsec. (b). [Pub. L. 101–501][/us/pl/101/501], § 115(3), added subsec. (b).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -150,21 +150,21 @@
 
 [/us/usc/t42/s9836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836
 [/us/usc/t42/s9836a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa%2F1
-[/us/pl/97/35/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs646
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F504
-[/us/pl/101/501/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs115
+[/us/pl/101/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtI
 [/us/stat/104/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1232
-[/us/pl/103/252/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs113
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F641
-[/us/pl/110/134/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs16
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1421
-[/us/pl/110/134/s16/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs16%2F1
-[/us/pl/110/134/s16/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs16%2F2
-[/us/pl/110/134/s16/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs16%2F3
-[/us/pl/103/252/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs113%2Fa
-[/us/pl/103/252/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs113%2Fb
-[/us/pl/101/501/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs115%2F1
-[/us/pl/101/501/s115/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs115%2F3
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127

@@ -29,11 +29,11 @@
 
     (6) State capacity to improve the quality and quantity of legal services provided to older individuals.
 
-([Pub. L. 89–73, title VII, § 731][/us/pl/89/73/s731], as added [Pub. L. 106–501, title VII, § 706][/us/pl/106/501/s706], Nov. 13, 2000, [114 Stat. 2291][/us/stat/114/2291].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 731, as added [Pub. L. 106–501, title VII][/us/pl/106/501/tVII], § 706, Nov. 13, 2000, [114 Stat. 2291][/us/stat/114/2291].)
 
  __Prior Provisions__ 
 
-    A prior section 3058j, [Pub. L. 89–73, title VII, § 731][/us/pl/89/73/s731], as added [Pub. L. 102–375, title VII, § 704][/us/pl/102/375/s704], Sept. 30, 1992, [106 Stat. 1285][/us/stat/106/1285], related to State elder rights and legal assistance development, prior to repeal by [Pub. L. 106–501, title VII, § 706][/us/pl/106/501/s706], Nov. 13, 2000, [114 Stat. 2291][/us/stat/114/2291].
+    A prior section 3058j, [Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 731, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 704, Sept. 30, 1992, [106 Stat. 1285][/us/stat/106/1285], related to State elder rights and legal assistance development, prior to repeal by [Pub. L. 106–501, title VII][/us/pl/106/501/tVII], § 706, Nov. 13, 2000, [114 Stat. 2291][/us/stat/114/2291].
 
 ----------
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/89/73/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs731
-[/us/pl/106/501/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs706
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/106/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVII
 [/us/stat/114/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2291
-[/us/pl/89/73/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs731
-[/us/pl/102/375/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs704
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1285
-[/us/pl/106/501/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs706
+[/us/pl/106/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVII
 [/us/stat/114/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2291
 
 

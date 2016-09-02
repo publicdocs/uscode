@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–22, div. B, title III, § 1301(1)][/us/pl/111/22/s1301/1], May 20, 2009, [123 Stat. 1680][/us/stat/123/1680], substituted “Continuum of Care Program” for “Supportive Housing Program” in heading.
+    2009—[Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1301(1), May 20, 2009, [123 Stat. 1680][/us/stat/123/1680], substituted “Continuum of Care Program” for “Supportive Housing Program” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/22/s1301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1301%2F1
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1680
 
 

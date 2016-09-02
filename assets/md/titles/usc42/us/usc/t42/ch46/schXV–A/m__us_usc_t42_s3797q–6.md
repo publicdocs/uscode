@@ -43,7 +43,7 @@
 
             (ii) has been found to be in need of substance abuse treatment because that individual has a history of substance abuse that is a significant contributing factor to the criminal conduct of that individual.
 
-([Pub. L. 90–351, title I, § 2907][/us/pl/90/351/s2907], as added [Pub. L. 110–199, title I, § 112(a)][/us/pl/110/199/s112/a], Apr. 9, 2008, [122 Stat. 674][/us/stat/122/674].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2907, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 112(a), Apr. 9, 2008, [122 Stat. 674][/us/stat/122/674].)
 
  __Construction of 2008 Amendment__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2907
-[/us/pl/110/199/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs112%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F674
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504

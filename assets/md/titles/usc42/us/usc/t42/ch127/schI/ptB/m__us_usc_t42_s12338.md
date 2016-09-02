@@ -53,7 +53,7 @@
 
             (L) prevent the abuse, neglect, or exploitation of young individuals.
 
-([Pub. L. 101–501, title IX, § 932][/us/pl/101/501/s932], Nov. 3, 1990, [104 Stat. 1273][/us/stat/104/1273].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 932, Nov. 3, 1990, [104 Stat. 1273][/us/stat/104/1273].)
 
 ----------
 
@@ -65,7 +65,7 @@
 [/us/usc/t42/s12336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12336
 [/us/usc/t42/s12337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12337
 [/us/usc/t42/s12337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12337
-[/us/pl/101/501/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs932
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1273
 
 

@@ -39,7 +39,7 @@
 
         A State to which this part applies that fails to comply with any requirement of this part, including a failure to provide appropriate training and certification, shall not be eligible for participation in any program supported in whole or in part by funds appropriated under this chapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 595B, as added [Pub. L. 106–310, div. B, title XXXII, § 3208][/us/pl/106/310/s3208], Oct. 17, 2000, [114 Stat. 1199][/us/stat/114/1199].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 595B, as added [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3208, Oct. 17, 2000, [114 Stat. 1199][/us/stat/114/1199].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s290jj–1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290jj%E2%80%931%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3208
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1199
 
 

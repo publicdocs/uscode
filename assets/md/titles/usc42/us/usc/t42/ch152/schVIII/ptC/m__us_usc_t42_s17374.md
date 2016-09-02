@@ -53,7 +53,7 @@
 
         There is authorized to be appropriated $3,000,000 for the purposes of United States contributions to the Multi-Donor Trust Fund of the EITI.
 
-([Pub. L. 110–140, title IX, § 935][/us/pl/110/140/s935], Dec. 19, 2007, [121 Stat. 1748][/us/stat/121/1748].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 935, Dec. 19, 2007, [121 Stat. 1748][/us/stat/121/1748].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs935
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1748
 
 

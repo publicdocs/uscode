@@ -35,7 +35,7 @@
 
         Reports filed pursuant to subsection (c) of this section, and applications to which access is provided under subsection (d) of this section, shall be kept in confidence by the Commission, and no information concerning the same given without authority of the inventor or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commission.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 151, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 943][/us/stat/68/943]; amended [Pub. L. 87–206][/us/pl/87/206], §§ 7–9, Sept. 6, 1961, [75 Stat. 477][/us/stat/75/477]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(18)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 151, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 943][/us/stat/68/943]; amended [Pub. L. 87–206][/us/pl/87/206], §§ 7–9, Sept. 6, 1961, [75 Stat. 477][/us/stat/75/477]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(18)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
 
  __Prior Provisions__ 
 
@@ -45,11 +45,11 @@
 
     1999—Subsecs. (c), (d). [Pub. L. 106–113][/us/pl/106/113] substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents”.
 
-    1961—[Pub. L. 87–206, § 7][/us/pl/87/206/s7], substituted provision concerning inventions relating to atomic weapons and filing of reports for provision relating to military utilization in section catchline.
+    1961—[Pub. L. 87–206][/us/pl/87/206], § 7, substituted provision concerning inventions relating to atomic weapons and filing of reports for provision relating to military utilization in section catchline.
 
-    Subsec. (c). [Pub. L. 87–206, § 8][/us/pl/87/206/s8], struck out designation as cl. (1) of provision relating to production or utilization of special nuclear material or atomic energy and cls. (2) and (3) relating to utilization of special nuclear material in an atomic weapon and utilization of atomic energy in an atomic weapon, respectively, and substituted “the one hundred and eightieth day” for “whichever of the following is the later: either the ninetieth day after completion of such invention or discovery; or the ninetieth day”.
+    Subsec. (c). [Pub. L. 87–206][/us/pl/87/206], § 8, struck out designation as cl. (1) of provision relating to production or utilization of special nuclear material or atomic energy and cls. (2) and (3) relating to utilization of special nuclear material in an atomic weapon and utilization of atomic energy in an atomic weapon, respectively, and substituted “the one hundred and eightieth day” for “whichever of the following is the later: either the ninetieth day after completion of such invention or discovery; or the ninetieth day”.
 
-    Subsec. (e). [Pub. L. 87–206, § 9][/us/pl/87/206/s9], added subsec. (e).
+    Subsec. (e). [Pub. L. 87–206][/us/pl/87/206], § 9, added subsec. (e).
 
  __Effective Date of 1999 Amendment__ 
 
@@ -67,19 +67,19 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F943
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F477
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1811%2Fa
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/87/206/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs7
-[/us/pl/87/206/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs8
-[/us/pl/87/206/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs9
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1

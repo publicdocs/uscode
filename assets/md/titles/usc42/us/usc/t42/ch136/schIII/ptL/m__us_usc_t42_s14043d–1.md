@@ -29,7 +29,7 @@
 
     (6) encourage collaboration among community-based organizations and governmental agencies serving children and youth, providers of health and mental health services and providers of domestic violence, dating violence, sexual assault, and stalking victim services to prevent violence against women and children.
 
-([Pub. L. 103–322, title IV, § 41302][/us/pl/103/322/s41302], as added [Pub. L. 109–162, title IV, § 401][/us/pl/109/162/s401], Jan. 5, 2006, [119 Stat. 3018][/us/stat/119/3018].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41302, as added [Pub. L. 109–162, title IV][/us/pl/109/162/tIV], § 401, Jan. 5, 2006, [119 Stat. 3018][/us/stat/119/3018].)
 
 ----------
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41302
-[/us/pl/109/162/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs401
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIV
 [/us/stat/119/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3018
 
 

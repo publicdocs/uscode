@@ -17,7 +17,7 @@
 
     The Secretary shall coordinate the administration of the provisions of this subchapter in cooperation with other Federal agencies and assure that projects assisted under this subchapter are coordinated with efforts undertaken by State and local public and private entities, including arts organizations.
 
-([Pub. L. 95–557, title VIII, § 806][/us/pl/95/557/s806], Oct. 31, 1978, [92 Stat. 2124][/us/stat/92/2124].)
+([Pub. L. 95–557, title VIII][/us/pl/95/557/tVIII], § 806, Oct. 31, 1978, [92 Stat. 2124][/us/stat/92/2124].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/557/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs806
+[/us/pl/95/557/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVIII
 [/us/stat/92/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2124
 
 

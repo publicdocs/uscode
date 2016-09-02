@@ -137,7 +137,7 @@
 
         No board member of a collaborative applicant may participate in decisions of the collaborative applicant concerning the award of a grant, or provision of other financial benefits, to such member or the organization that such member represents.
 
-([Pub. L. 100–77, title IV, § 402][/us/pl/100/77/s402], as added [Pub. L. 111–22, div. B, title I, § 1102][/us/pl/111/22/s1102], May 20, 2009, [123 Stat. 1674][/us/stat/123/1674].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 402, as added [Pub. L. 111–22, div. B, title I][/us/pl/111/22/dB/tI], § 1102, May 20, 2009, [123 Stat. 1674][/us/stat/123/1674].)
 
  __References in Text__ 
 
@@ -161,8 +161,8 @@
 [/us/usc/t42/s11382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11382%2Fc
 [/us/usc/t42/s11386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11386
 [/us/usc/t42/s11386a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11386a
-[/us/pl/100/77/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs402
-[/us/pl/111/22/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1102
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtI
 [/us/stat/123/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1674
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482

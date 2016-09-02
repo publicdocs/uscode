@@ -93,7 +93,7 @@
 
         (6) award grants and enter into cooperative agreements or contracts pursuant to [section 10705(a) of this title][/us/usc/t42/s10705/a].
 
-([Pub. L. 98–620, title II, § 204][/us/pl/98/620/s204], Nov. 8, 1984, [98 Stat. 3337][/us/stat/98/3337]; [Pub. L. 102–572, title VIII, § 803(a)][/us/pl/102/572/s803/a], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–372, § 3(c)][/us/pl/108/372/s3/c], Oct. 25, 2004, [118 Stat. 1754][/us/stat/118/1754].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 204, Nov. 8, 1984, [98 Stat. 3337][/us/stat/98/3337]; [Pub. L. 102–572, title VIII][/us/pl/102/572/tVIII], § 803(a), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–372][/us/pl/108/372], § 3(c), Oct. 25, 2004, [118 Stat. 1754][/us/stat/118/1754].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–572, title VIII, § 804][/us/pl/102/572/s804], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], provided that: 
+[Pub. L. 102–572, title VIII][/us/pl/102/572/tVIII], § 804, Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], provided that: 
 
 > “The provisions of this title \[amending this section and sections 10705 and 10713 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
 
@@ -120,18 +120,18 @@
 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/usc/t42/s10705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10705%2Fa
-[/us/pl/98/620/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs204
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3337
-[/us/pl/102/572/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs803%2Fa
+[/us/pl/102/572/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtVIII
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/108/372/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372%2Fs3%2Fc
+[/us/pl/108/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372
 [/us/stat/118/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1754
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336
 [/us/usc/t42/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10701
 [/us/pl/108/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/102/572/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs804
+[/us/pl/102/572/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtVIII
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 
 

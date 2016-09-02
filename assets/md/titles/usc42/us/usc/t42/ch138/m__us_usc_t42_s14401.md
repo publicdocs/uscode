@@ -31,7 +31,7 @@
 
         It is the principal purpose of this chapter to continue current Federal policy by providing explicitly that Federal funds may not be used to pay for items and services (including assistance) the purpose of which is to cause (or assist in causing) the suicide, euthanasia, or mercy killing of any individual.
 
-([Pub. L. 105–12, § 2][/us/pl/105/12/s2], Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23].)
+([Pub. L. 105–12][/us/pl/105/12], § 2, Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–12, § 11][/us/pl/105/12/s11], Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29], provided that:
+[Pub. L. 105–12][/us/pl/105/12], § 11, Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -51,13 +51,13 @@
 
  __Short Title__ 
 
-[Pub. L. 105–12, § 1(a)][/us/pl/105/12/s1/a], Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23], provided that: 
+[Pub. L. 105–12][/us/pl/105/12], § 1(a), Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23], provided that: 
 
 > “This Act \[enacting this chapter, section 238o of this title, [section 1621x of Title 25][/us/usc/t25/s1621x], Indians, and [section 1707 of Title 38][/us/usc/t38/s1707], Veterans’ Benefits, amending sections 295, 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, [section 8902 of Title 5][/us/usc/t5/s8902], Government Organization and Employees, [section 1073 of Title 10][/us/usc/t10/s1073], Armed Forces, [section 4005 of Title 18][/us/usc/t18/s4005], Crimes and Criminal Procedure, [section 2504 of Title 22][/us/usc/t22/s2504], Foreign Relations and Intercourse, and [section 794e of Title 29][/us/usc/t29/s794e], Labor, and enacting provisions set out as notes under this section and [section 295 of this title][/us/usc/t42/s295]\] may be cited as the ‘Assisted Suicide Funding Restriction Act of 1997’.”
 
  __Construction of Conforming Amendments__ 
 
-[Pub. L. 105–12, § 9(p)][/us/pl/105/12/s9/p], Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29], provided that: 
+[Pub. L. 105–12][/us/pl/105/12], § 9(p), Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29], provided that: 
 
 > “The fact that a law is not amended under this section \[enacting section 238o of this title, [section 1621x of Title 25][/us/usc/t25/s1621x], Indians, and [section 1707 of Title 38][/us/usc/t38/s1707], Veterans’ Benefits, amending sections 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, [section 8902 of Title 5][/us/usc/t5/s8902], Government Organization and Employees, [section 1073 of Title 10][/us/usc/t10/s1073], Armed Forces, [section 4005 of Title 18][/us/usc/t18/s4005], Crimes and Criminal Procedure, [section 2504 of Title 22][/us/usc/t22/s2504], Foreign Relations and Intercourse, and [section 794e of Title 29][/us/usc/t29/s794e], Labor\] shall not be construed as indicating that the provisions of this Act \[see Short Title note above\] do not apply to such a law.”
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/105/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs2
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
-[/us/pl/105/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs11
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F29
-[/us/pl/105/12/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs1%2Fa
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/usc/t25/s1621x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621x
 [/us/usc/t38/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1707
@@ -84,7 +84,7 @@
 [/us/usc/t22/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504
 [/us/usc/t29/s794e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794e
 [/us/usc/t42/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295
-[/us/pl/105/12/s9/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9%2Fp
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F29
 [/us/usc/t25/s1621x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621x
 [/us/usc/t38/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1707

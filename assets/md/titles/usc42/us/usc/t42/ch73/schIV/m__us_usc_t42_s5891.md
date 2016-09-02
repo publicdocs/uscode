@@ -17,7 +17,7 @@
 
     No person shall on the ground of sex be excluded from participation in, be denied a license under, be denied the benefits of, or be subjected to discrimination under any program or activity carried on or receiving Federal assistance under any subchapter of this chapter. This provision will be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[[42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.
 
-([Pub. L. 93–438, title IV, § 401][/us/pl/93/438/s401], Oct. 11, 1974, [88 Stat. 1254][/us/stat/88/1254].)
+([Pub. L. 93–438, title IV][/us/pl/93/438/tIV], § 401, Oct. 11, 1974, [88 Stat. 1254][/us/stat/88/1254].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/93/438/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs401
+[/us/pl/93/438/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIV
 [/us/stat/88/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1254
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233

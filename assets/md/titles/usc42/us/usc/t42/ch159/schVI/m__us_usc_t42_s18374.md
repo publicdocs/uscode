@@ -17,7 +17,7 @@
 
     The Administrator shall pursue innovative ways to fly instrument-level payloads for early demonstration or as co-manifested payloads. The Congress encourages the use of the ISS as an accessible platform for the conduct of such activities. Additionally, in order to address the cost and schedule challenges associated with large flight systems, NASA should pursue smaller systems where practicable and warranted.
 
-([Pub. L. 111–267, title VII, § 706][/us/pl/111/267/s706], Oct. 11, 2010, [124 Stat. 2831][/us/stat/124/2831].)
+([Pub. L. 111–267, title VII][/us/pl/111/267/tVII], § 706, Oct. 11, 2010, [124 Stat. 2831][/us/stat/124/2831].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs706
+[/us/pl/111/267/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVII
 [/us/stat/124/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2831
 
 

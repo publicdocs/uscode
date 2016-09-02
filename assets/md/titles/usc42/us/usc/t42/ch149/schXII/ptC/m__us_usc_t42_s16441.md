@@ -23,7 +23,7 @@
 
     (3) are otherwise consistent with sections 824d and 824e of title 16.
 
-([Pub. L. 109–58, title XII, § 1242][/us/pl/109/58/s1242], Aug. 8, 2005, [119 Stat. 962][/us/stat/119/962].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1242, Aug. 8, 2005, [119 Stat. 962][/us/stat/119/962].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1242
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F962
 
 

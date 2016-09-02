@@ -17,7 +17,7 @@
 
     The Secretary of Energy shall, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  include, in the report required by section 204(b) of the Department of Energy Act of 1978—Civilian Applications ([42 U.S.C. 7256][/us/usc/t42/s7256], note; [92 Stat. 60][/us/stat/92/60]), information detailing the extent to which small business and nonprofit organizations are being funded by the nonnuclear research, development, and demonstration programs of the Secretary of Energy, and the extent to which small business involvement pursuant to [section 5801(d) of this title][/us/usc/t42/s5801/d] is being encouraged by the Secretary of Energy.
 
-([Pub. L. 94–187, title III, § 308][/us/pl/94/187/s308], Dec. 31, 1975, [89 Stat. 1074][/us/stat/89/1074]; [Pub. L. 96–470, title II, § 203(e)][/us/pl/96/470/s203/e], Oct. 19, 1980, [94 Stat. 2243][/us/stat/94/2243].)
+([Pub. L. 94–187, title III][/us/pl/94/187/tIII], § 308, Dec. 31, 1975, [89 Stat. 1074][/us/stat/89/1074]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 203(e), Oct. 19, 1980, [94 Stat. 2243][/us/stat/94/2243].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 [/us/usc/t42/s7256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256
 [/us/stat/92/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F60
 [/us/usc/t42/s5801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801%2Fd
-[/us/pl/94/187/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187%2Fs308
+[/us/pl/94/187/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187%2FtIII
 [/us/stat/89/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1074
-[/us/pl/96/470/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs203%2Fe
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2243
 [/us/usc/t42/s7256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256
 [/us/stat/92/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F60

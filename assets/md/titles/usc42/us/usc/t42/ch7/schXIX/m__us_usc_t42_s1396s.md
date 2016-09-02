@@ -217,7 +217,7 @@
 
         (9) The terms “vaccine-eligible child”, “federally vaccine-eligible child”, and “State vaccine-eligible child” have the meaning given such terms in subsection (b) of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1928, as added [Pub. L. 103–66, title XIII, § 13631(b)(2)][/us/pl/103/66/s13631/b/2], Aug. 10, 1993, [107 Stat. 637][/us/stat/107/637].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1928, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13631(b)(2), Aug. 10, 1993, [107 Stat. 637][/us/stat/107/637].)
 
  __References in Text__ 
 
@@ -229,7 +229,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1396s, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1928, formerly § 1920, as added Apr. 7, 1986, [Pub. L. 99–272, title IX, § 9526][/us/pl/99/272/s9526], [100 Stat. 218][/us/stat/100/218], and renumbered and amended, which related to references to laws directly affecting medicaid program, was renumbered section 1931 of act Aug. 14, 1935, by [Pub. L. 103–66, title XIII, § 13631(b)(1)][/us/pl/103/66/s13631/b/1], Aug. 10, 1993, [107 Stat. 637][/us/stat/107/637], and transferred to [section 1396v of this title][/us/usc/t42/s1396v].
+    A prior section 1396s, [act Aug. 14, 1935, ch. 531, title XIX][/us/act/1935-08-14/ch531/tXIX], § 1928, formerly § 1920, as added Apr. 7, 1986, [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9526, [100 Stat. 218][/us/stat/100/218], and renumbered and amended, which related to references to laws directly affecting medicaid program, was renumbered section 1931 of act Aug. 14, 1935, by [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13631(b)(1), Aug. 10, 1993, [107 Stat. 637][/us/stat/107/637], and transferred to [section 1396v of this title][/us/usc/t42/s1396v].
 
  __Effective Date__ 
 
@@ -253,7 +253,7 @@
 [/us/usc/t42/s1396a/a/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F62
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13631/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Fb%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F637
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
@@ -261,10 +261,10 @@
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/99/272/s9526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9526
+[/us/act/1935-08-14/ch531/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXIX
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F218
-[/us/pl/103/66/s13631/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Fb%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F637
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
 [/us/pl/103/66/s13631/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13631%2Fi

@@ -89,7 +89,7 @@
 
         The Administrator pursuant to subsection (c)(1) of this section shall, within 12 months, establish a visibility transport commission for the region affecting the visibility of the Grand Canyon National Park.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 169B, as added [Pub. L. 101–549, title VIII, § 816][/us/pl/101/549/s816], Nov. 15, 1990, [104 Stat. 2695][/us/stat/104/2695].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 169B, as added [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 816, Nov. 15, 1990, [104 Stat. 2695][/us/stat/104/2695].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 [/us/usc/t42/s7491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7491
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs816
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2695
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/stat/104/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2399

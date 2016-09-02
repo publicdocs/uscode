@@ -39,7 +39,7 @@
 
         (4) International programs and international policy functions, including those functions which assist in carrying out the international energy purposes described in [section 7112 of this title][/us/usc/t42/s7112].
 
-        (5) Repealed. [Pub. L. 106–65, div. C, title XXXII, § 3294(b)][/us/pl/106/65/s3294/b], Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970].
+        (5) Repealed. [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3294(b), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970].
 
         (6) Intergovernmental policies and relations, including responsibilities for assuring that national energy policies are reflective of and responsible to the needs of State and local governments, and for assuring that other components of the Department coordinate their activities with State and local governments, where appropriate, and develop intergovernmental communications with State and local governments.
 
@@ -73,7 +73,7 @@
 
     (b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
 
-([Pub. L. 95–91, title II, § 203][/us/pl/95/91/s203], Aug. 4, 1977, [91 Stat. 570][/us/stat/91/570]; [Pub. L. 106–65, div. C, title XXXII, § 3294(a)(2)][/us/pl/106/65/s3294/a/2], (b), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]; [Pub. L. 109–58, title X, § 1006(b)(1)][/us/pl/109/58/s1006/b/1], Aug. 8, 2005, [119 Stat. 931][/us/stat/119/931]; [Pub. L. 111–11, title XIII, § 13004(a)][/us/pl/111/11/s13004/a], Mar. 30, 2009, [123 Stat. 1449][/us/stat/123/1449].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 203, Aug. 4, 1977, [91 Stat. 570][/us/stat/91/570]; [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3294(a)(2), (b), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1006(b)(1), Aug. 8, 2005, [119 Stat. 931][/us/stat/119/931]; [Pub. L. 111–11, title XIII][/us/pl/111/11/tXIII], § 13004(a), Mar. 30, 2009, [123 Stat. 1449][/us/stat/123/1449].)
 
  __References in Text__ 
 
@@ -85,9 +85,9 @@
 
     2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58] substituted “7” for “six” in introductory provisions.
 
-    1999—Subsec. (a). [Pub. L. 106–65, § 3294(a)(2)][/us/pl/106/65/s3294/a/2], substituted “six” for “eight” in introductory provisions.
+    1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65], § 3294(a)(2), substituted “six” for “eight” in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 106–65, § 3294(b)][/us/pl/106/65/s3294/b], struck out par. (5) which read as follows: “National security functions, including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.”
+    Subsec. (a)(5). [Pub. L. 106–65][/us/pl/106/65], § 3294(b), struck out par. (5) which read as follows: “National security functions, including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.”
 
  __Effective Date of 1999 Amendment__ 
 
@@ -95,11 +95,11 @@
 
  __Federal Power Marketing Administration Employment Levels__ 
 
-    [Pub. L. 101–514, title V, § 510][/us/pl/101/514/s510], Nov. 5, 1990, [104 Stat. 2098][/us/stat/104/2098], provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by [Pub. L. 104–46, title V, § 501][/us/pl/104/46/s501], Nov. 13, 1995, [109 Stat. 419][/us/stat/109/419].
+    [Pub. L. 101–514, title V][/us/pl/101/514/tV], § 510, Nov. 5, 1990, [104 Stat. 2098][/us/stat/104/2098], provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by [Pub. L. 104–46, title V][/us/pl/104/46/tV], § 501, Nov. 13, 1995, [109 Stat. 419][/us/stat/109/419].
 
  __Marketing and Exchange of Surplus Electricity From Navajo Generating Station__ 
 
-[Pub. L. 98–381, title I, § 107][/us/pl/98/381/s107], Aug. 17, 1984, [98 Stat. 1339][/us/stat/98/1339], provided that:
+[Pub. L. 98–381, title I][/us/pl/98/381/tI], § 107, Aug. 17, 1984, [98 Stat. 1339][/us/stat/98/1339], provided that:
 
 >     “(a) Subject to the provisions of any existing layoff contracts, electrical capacity and energy associated with the United States’ interest in the Navajo generating station which is in excess of the pumping requirements of the Central Arizona project and any such needs for desalting and protective pumping facilities as may be required under section 101(b)(2)(B) of the Colorado River Basin Salinity Control Act of 1974, as amended \[[43 U.S.C. 1571(b)(2)(B)][/us/usc/t43/s1571/b/2/B]\] (hereinafter in this Act referred to as ‘Navajo surplus’) shall be marketed and exchanged by the Secretary of Energy pursuant to this section.
 
@@ -120,31 +120,31 @@
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t42/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7112
-[/us/pl/106/65/s3294/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fb
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
-[/us/pl/95/91/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs203
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
 [/us/stat/91/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F570
-[/us/pl/106/65/s3294/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fa%2F2
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
-[/us/pl/109/58/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1006%2Fb%2F1
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F931
-[/us/pl/111/11/s13004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs13004%2Fa
+[/us/pl/111/11/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXIII
 [/us/stat/123/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1449
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/106/65/s3294/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fa%2F2
-[/us/pl/106/65/s3294/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fb
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
-[/us/pl/101/514/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F514%2Fs510
+[/us/pl/101/514/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F514%2FtV
 [/us/stat/104/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2098
-[/us/pl/104/46/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F46%2Fs501
+[/us/pl/104/46/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F46%2FtV
 [/us/stat/109/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F419
-[/us/pl/98/381/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2Fs107
+[/us/pl/98/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2FtI
 [/us/stat/98/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1339
 [/us/usc/t43/s1571/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1571%2Fb%2F2%2FB
 [/us/usc/t43/s485h/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs485h%2Fc

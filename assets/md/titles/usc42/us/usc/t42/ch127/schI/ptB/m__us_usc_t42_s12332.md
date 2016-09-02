@@ -71,7 +71,7 @@
 
         The term “outreach services” means services provided to ensure (through home visits or other methods) that parents are aware of and able to participate in family resource and support program activities.
 
-([Pub. L. 101–501, title IX, § 926][/us/pl/101/501/s926], Nov. 3, 1990, [104 Stat. 1268][/us/stat/104/1268].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 926, Nov. 3, 1990, [104 Stat. 1268][/us/stat/104/1268].)
 
 ----------
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t42/s12336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12336
-[/us/pl/101/501/s926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs926
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1268
 
 

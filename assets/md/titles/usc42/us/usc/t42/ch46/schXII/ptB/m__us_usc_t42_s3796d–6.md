@@ -29,7 +29,7 @@
 
         (B) is eligible to participate in programs under title IV of such Act \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq. and [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\].
 
-([Pub. L. 90–351, title I, § 1217][/us/pl/90/351/s1217], as added [Pub. L. 104–238, § 2(2)][/us/pl/104/238/s2/2], Oct. 3, 1996, [110 Stat. 3116][/us/stat/110/3116]; amended [Pub. L. 105–390, § 2(6)][/us/pl/105/390/s2/6], Nov. 13, 1998, [112 Stat. 3496][/us/stat/112/3496]; [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(K)][/us/pl/112/239/s1086/b/1/K], Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1217, as added [Pub. L. 104–238][/us/pl/104/238], § 2(2), Oct. 3, 1996, [110 Stat. 3116][/us/stat/110/3116]; amended [Pub. L. 105–390][/us/pl/105/390], § 2(6), Nov. 13, 1998, [112 Stat. 3496][/us/stat/112/3496]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1086(b)(1)(K), Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
 
  __References in Text__ 
 
@@ -55,12 +55,12 @@
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/90/351/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1217
-[/us/pl/104/238/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238%2Fs2%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/104/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238
 [/us/stat/110/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3116
-[/us/pl/105/390/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390%2Fs2%2F6
+[/us/pl/105/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390
 [/us/stat/112/3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3496
-[/us/pl/112/239/s1086/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F1%2FK
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1968
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

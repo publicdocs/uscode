@@ -2821,27 +2821,27 @@
 
         (2) for any activity (including cost-effective contracts with local agencies) approved by the Secretary, whether or not the expenditures for the activity are eligible for reimbursement under this part, which may contribute to improving the effectiveness or efficiency of the State program operated under this part.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 458, formerly § 458A, as added and renumbered § 458, [Pub. L. 105–200, title II, § 201(a)][/us/pl/105/200/s201/a], (f)(2)(A), July 16, 1998, [112 Stat. 648][/us/stat/112/648], 658.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 458, formerly § 458A, as added and renumbered § 458, [Pub. L. 105–200, title II][/us/pl/105/200/tII], § 201(a), (f)(2)(A), July 16, 1998, [112 Stat. 648][/us/stat/112/648], 658.)
 
  __Effective Date__ 
 
-[Pub. L. 105–200, title II, § 201(g)][/us/pl/105/200/s201/g], July 16, 1998, [112 Stat. 658][/us/stat/112/658], provided that: 
+[Pub. L. 105–200, title II][/us/pl/105/200/tII], § 201(g), July 16, 1998, [112 Stat. 658][/us/stat/112/658], provided that: 
 
 > “Except as otherwise provided in this section \[enacting this section, amending this section and sections 652, 655, and 658 of this title, repealing [section 658 of this title][/us/usc/t42/s658], enacting provisions set out as notes under this section and sections 652 and 655 of this title, amending provisions set out as notes under this section and sections 652 and 658 of this title, and repealing provisions set out as a note under [section 658 of this title][/us/usc/t42/s658]\], the amendments made by this section shall take effect on October 1, 1999.”
 
  __Regulations__ 
 
-[Pub. L. 105–200, title II, § 201(c)][/us/pl/105/200/s201/c], July 16, 1998, [112 Stat. 656][/us/stat/112/656], provided that: 
+[Pub. L. 105–200, title II][/us/pl/105/200/tII], § 201(c), July 16, 1998, [112 Stat. 656][/us/stat/112/656], provided that: 
 
 > “Within 9 months after the date of the enactment of this section \[July 16, 1998\], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A \[now 458\] of the Social Security Act \[[42 U.S.C. 658a][/us/usc/t42/s658a]\] when such section takes effect and the implementation of subsection (b) of this section \[formerly set out as a note below\].”
 
  __Transition Rule__ 
 
-    [Pub. L. 105–200, title II, § 201(b)][/us/pl/105/200/s201/b], July 16, 1998, [112 Stat. 656][/us/stat/112/656], provided for reductions by the Secretary of the amount otherwise payable to a State under this section and former [section 658 of this title][/us/usc/t42/s658] for fiscal years 2000 and 2001.
+    [Pub. L. 105–200, title II][/us/pl/105/200/tII], § 201(b), July 16, 1998, [112 Stat. 656][/us/stat/112/656], provided for reductions by the Secretary of the amount otherwise payable to a State under this section and former [section 658 of this title][/us/usc/t42/s658] for fiscal years 2000 and 2001.
 
  __Studies__ 
 
-[Pub. L. 105–200, title II, § 201(d)][/us/pl/105/200/s201/d], (f)(2)(C), July 16, 1998, [112 Stat. 656][/us/stat/112/656], 658, provided that:
+[Pub. L. 105–200, title II][/us/pl/105/200/tII], § 201(d), (f)(2)(C), July 16, 1998, [112 Stat. 656][/us/stat/112/656], 658, provided that:
 
 >     “(1) __General review of new incentive payment system.—__ 
 
@@ -2886,19 +2886,19 @@
 [/us/usc/t42/s652/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652%2Fg%2F2%2FB
 [/us/usc/t42/s655/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655%2Fe
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/200/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fa
+[/us/pl/105/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtII
 [/us/stat/112/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F648
-[/us/pl/105/200/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fg
+[/us/pl/105/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtII
 [/us/stat/112/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F658
 [/us/usc/t42/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658
 [/us/usc/t42/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658
-[/us/pl/105/200/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fc
+[/us/pl/105/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtII
 [/us/stat/112/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F656
 [/us/usc/t42/s658a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658a
-[/us/pl/105/200/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fb
+[/us/pl/105/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtII
 [/us/stat/112/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F656
 [/us/usc/t42/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658
-[/us/pl/105/200/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs201%2Fd
+[/us/pl/105/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtII
 [/us/stat/112/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F656
 [/us/usc/t42/s658a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs658a
 [/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651

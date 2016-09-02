@@ -83,7 +83,7 @@
 
         There is authorized to be appropriated to provide grants to each Institute selected under this section $10,000,000 for each of fiscal years 2008 through 2010.
 
-([Pub. L. 110–69, title V, § 5008][/us/pl/110/69/s5008], Aug. 9, 2007, [121 Stat. 618][/us/stat/121/618].)
+([Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5008, Aug. 9, 2007, [121 Stat. 618][/us/stat/121/618].)
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s5008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5008
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F618
 
 

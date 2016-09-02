@@ -17,7 +17,7 @@
 
     The Farm Credit Administration shall encourage production credit associations, Federal land banks, and banks for cooperatives to use existing authorities to make loans to eligible persons for commercially feasible biomass energy projects.
 
-([Pub. L. 96–294, title II, § 258][/us/pl/96/294/s258], June 30, 1980, [94 Stat. 709][/us/stat/94/709].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 258, June 30, 1980, [94 Stat. 709][/us/stat/94/709].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs258
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F709
 
 

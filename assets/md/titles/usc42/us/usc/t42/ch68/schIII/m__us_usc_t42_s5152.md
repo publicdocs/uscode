@@ -19,7 +19,7 @@
 
     (b) The President is authorized to enter into agreements with the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief or disaster assistance organizations under which the disaster relief activities of such organizations may be coordinated by the Federal coordinating officer whenever such organizations are engaged in providing relief during and after a major disaster or emergency. Any such agreement shall include provisions assuring that use of Federal facilities, supplies, and services will be in compliance with regulations prohibiting duplication of benefits and guaranteeing nondiscrimination promulgated by the President under this chapter, and such other regulation as the President may require.
 
-([Pub. L. 93–288, title III, § 309][/us/pl/93/288/s309], formerly § 312, May 22, 1974, [88 Stat. 150][/us/stat/88/150]; renumbered § 309, [Pub. L. 100–707, title I, § 105(f)][/us/pl/100/707/s105/f], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 309, formerly § 312, May 22, 1974, [88 Stat. 150][/us/stat/88/150]; renumbered § 309, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(f), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
 
  __References in Text__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs309
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F150
-[/us/pl/100/707/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Ff
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

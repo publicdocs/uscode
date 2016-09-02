@@ -31,7 +31,7 @@
 
         (4) to build upon the cooperative and mutually beneficial framework established by the ISS partnership agreements and experience in developing and undertaking programs and meeting objectives designed to realize the goal of human space flight set forth in subsection (a).
 
-([Pub. L. 111–267, title II, § 202][/us/pl/111/267/s202], Oct. 11, 2010, [124 Stat. 2812][/us/stat/124/2812].)
+([Pub. L. 111–267, title II][/us/pl/111/267/tII], § 202, Oct. 11, 2010, [124 Stat. 2812][/us/stat/124/2812].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs202
+[/us/pl/111/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtII
 [/us/stat/124/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2812
 
 

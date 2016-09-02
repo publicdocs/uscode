@@ -283,7 +283,7 @@
 
         Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary of Education, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and [section 1862n–1a of this title][/us/usc/t42/s1862n–1a] have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
 
-([Pub. L. 107–368, § 10][/us/pl/107/368/s10], Dec. 19, 2002, [116 Stat. 3049][/us/stat/116/3049]; [Pub. L. 110–69, title VII, § 7030][/us/pl/110/69/s7030], Aug. 9, 2007, [121 Stat. 698][/us/stat/121/698]; [Pub. L. 114–59, § 4(b)][/us/pl/114/59/s4/b], Oct. 7, 2015, [129 Stat. 541][/us/stat/129/541].)
+([Pub. L. 107–368][/us/pl/107/368], § 10, Dec. 19, 2002, [116 Stat. 3049][/us/stat/116/3049]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7030, Aug. 9, 2007, [121 Stat. 698][/us/stat/121/698]; [Pub. L. 114–59][/us/pl/114/59], § 4(b), Oct. 7, 2015, [129 Stat. 541][/us/stat/129/541].)
 
  __References in Text__ 
 
@@ -327,11 +327,11 @@
 [/us/usc/t42/s1862n–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931a
 [/us/usc/t42/s1862n–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931a
 [/us/usc/t42/s1862n–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931a
-[/us/pl/107/368/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs10
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3049
-[/us/pl/110/69/s7030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7030
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F698
-[/us/pl/114/59/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fb
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
 [/us/stat/129/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F541
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

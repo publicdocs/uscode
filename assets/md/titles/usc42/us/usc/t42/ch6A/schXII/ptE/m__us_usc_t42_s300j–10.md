@@ -17,7 +17,7 @@
 
     To the extent that the Administrator of the Environmental Protection Agency deems such action necessary to the discharge of his functions under title XIV of the Public Health Service Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] (relating to safe drinking water) and under other provisions of law, he may appoint personnel to fill not more than thirty scientific, engineering, professional, legal, and administrative positions within the Environmental Protection Agency without regard to the civil service laws and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].
 
-([Pub. L. 95–190, § 11(b)][/us/pl/95/190/s11/b], Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398].)
+([Pub. L. 95–190][/us/pl/95/190], § 11(b), Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/95/190/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs11%2Fb
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1398
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

@@ -49,7 +49,7 @@
 
         For purposes of this section, the term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma including near drowning. The Secretary may revise the definition of such term as the Secretary determines necessary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393C–1, as added [Pub. L. 110–206, § 4][/us/pl/110/206/s4], Apr. 28, 2008, [122 Stat. 715][/us/stat/122/715].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393C–1, as added [Pub. L. 110–206][/us/pl/110/206], § 4, Apr. 28, 2008, [122 Stat. 715][/us/stat/122/715].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/206/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs4
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/stat/122/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F715
 
 

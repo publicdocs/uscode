@@ -27,13 +27,13 @@
 
         A representative of the Department of Housing and Urban Development shall be included on the National Asthma Education Prevention Program Coordinating Committee for the purpose of performing the tasks described in subsection (a) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 424B, as added [Pub. L. 106–310, div. A, title V, § 521][/us/pl/106/310/s521], Oct. 17, 2000, [114 Stat. 1116][/us/stat/114/1116]; amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(19), 104(b)(1)(G), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3693.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 424B, as added [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 521, Oct. 17, 2000, [114 Stat. 1116][/us/stat/114/1116]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 103(b)(19), 104(b)(1)(G), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3693.)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 109–482, § 104(b)(1)(G)][/us/pl/109/482/s104/b/1/G], inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “not later than 12 months after October 17, 2000, submit recommendations to the appropriate committees of the Congress on ways to strengthen and improve the coordination of asthma-related activities of the Federal Government.”
+    2007—Subsec. (a). [Pub. L. 109–482][/us/pl/109/482], § 104(b)(1)(G), inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “not later than 12 months after October 17, 2000, submit recommendations to the appropriate committees of the Congress on ways to strengthen and improve the coordination of asthma-related activities of the Federal Government.”
 
-    Subsec. (c). [Pub. L. 109–482, § 103(b)(19)][/us/pl/109/482/s103/b/19], struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+    Subsec. (c). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(19), struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
 
  __Effective Date of 2007 Amendment__ 
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs521
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1116
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/109/482/s104/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FG
-[/us/pl/109/482/s103/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F19
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281

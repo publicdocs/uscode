@@ -49,7 +49,7 @@
 
             Use of the investment tax credit described in paragraph (1) does not prohibit the use of other clean coal program funding.
 
-([Pub. L. 109–58, title IV, § 411][/us/pl/109/58/s411], Aug. 8, 2005, [119 Stat. 754][/us/stat/119/754].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 411, Aug. 8, 2005, [119 Stat. 754][/us/stat/119/754].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t42/s15962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962%2Fb
 [/us/usc/t26/s48A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48A
-[/us/pl/109/58/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs411
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F754
 
 

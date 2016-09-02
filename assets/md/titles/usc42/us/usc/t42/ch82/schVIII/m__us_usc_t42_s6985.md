@@ -47,7 +47,7 @@
 
         Section 6981(b) and (c) of this title shall be applicable to investigations, studies, and projects carried out under this section.
 
-([Pub. L. 89–272, title II, § 8005][/us/pl/89/272/s8005], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2837][/us/stat/90/2837].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 8005, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2837][/us/stat/90/2837].)
 
  __Prior Provisions__ 
 
@@ -64,8 +64,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s8005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs8005
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2837
 [/us/usc/t42/s3253a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3253a
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580

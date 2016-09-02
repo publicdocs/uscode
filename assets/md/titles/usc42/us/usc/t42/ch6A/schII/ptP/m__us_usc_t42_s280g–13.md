@@ -65,7 +65,7 @@
 
         (2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–2, as added [Pub. L. 111–148, title X, § 10411(b)(1)][/us/pl/111/148/s10411/b/1], Mar. 23, 2010, [124 Stat. 988][/us/stat/124/988].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–2, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10411(b)(1), Mar. 23, 2010, [124 Stat. 988][/us/stat/124/988].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10411%2Fb%2F1
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F988
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

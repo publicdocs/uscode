@@ -33,7 +33,7 @@
 
         Nothing in this section shall be construed to prohibit expenditures by States and such tribal organizations for disaster relief for older individuals in excess of amounts reimbursable under this section, by using funds made available to them under other sections of this chapter or under other provisions of Federal or State law, or from private sources.
 
-([Pub. L. 89–73, title III, § 310][/us/pl/89/73/s310], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1533][/us/stat/92/1533]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 11(b)(2), Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1606; [Pub. L. 100–707, title I, § 109(q)][/us/pl/100/707/s109/q], Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 102–375, title I, § 102(b)(10)(A)][/us/pl/102/375/s102/b/10/A], title III, § 309, Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1235; [Pub. L. 103–171][/us/pl/103/171], §§ 2(10), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990; [Pub. L. 106–501, title III, § 308][/us/pl/106/501/s308], Nov. 13, 2000, [114 Stat. 2246][/us/stat/114/2246].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 310, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1533][/us/stat/92/1533]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 11(b)(2), Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1606; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(q), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(10)(A), title III, § 309, Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1235; [Pub. L. 103–171][/us/pl/103/171], §§ 2(10), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 308, Nov. 13, 2000, [114 Stat. 2246][/us/stat/114/2246].)
 
  __References in Text__ 
 
@@ -41,33 +41,33 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–501, § 308(1)(A)][/us/pl/106/501/s308/1/A], inserted “(or to any tribal organization receiving a grant under subchapter X of this chapter)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
+    2000—Subsec. (a)(1). [Pub. L. 106–501][/us/pl/106/501], § 308(1)(A), inserted “(or to any tribal organization receiving a grant under subchapter X of this chapter)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
 
-    Subsec. (a)(2). [Pub. L. 106–501, § 308(1)(B)][/us/pl/106/501/s308/1/B], inserted “and such tribal organizations” after “States”.
+    Subsec. (a)(2). [Pub. L. 106–501][/us/pl/106/501], § 308(1)(B), inserted “and such tribal organizations” after “States”.
 
-    Subsec. (a)(3). [Pub. L. 106–501, § 308(1)(C)][/us/pl/106/501/s308/1/C], inserted “or such tribal organization” after “State” in two places.
+    Subsec. (a)(3). [Pub. L. 106–501][/us/pl/106/501], § 308(1)(C), inserted “or such tribal organization” after “State” in two places.
 
-    Subsecs. (b)(1), (c). [Pub. L. 106–501, § 308(2)][/us/pl/106/501/s308/2], inserted “and such tribal organizations” after “States”.
+    Subsecs. (b)(1), (c). [Pub. L. 106–501][/us/pl/106/501], § 308(2), inserted “and such tribal organizations” after “States”.
 
-    1993—[Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], substituted “Assistant Secretary” for “Commissioner” wherever appearing in subsecs. (a)(1), (3) and (b)(1).
+    1993—[Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing in subsecs. (a)(1), (3) and (b)(1).
 
-    Subsec. (a)(1). [Pub. L. 103–171, § 2(10)][/us/pl/103/171/s2/10], substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act” for “Disaster Relief and Emergency Assistance Act”.
+    Subsec. (a)(1). [Pub. L. 103–171][/us/pl/103/171], § 2(10), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act” for “Disaster Relief and Emergency Assistance Act”.
 
     1992—Subsec. (a)(1). [Pub. L. 102–375][/us/pl/102/375], §§ 102(b)(10)(A), 309(1)(A), substituted “area agencies on aging” for “area agencies” and inserted “(and related supplies)” after “supportive services”.
 
-    Subsec. (a)(2). [Pub. L. 102–375, § 309(2)][/us/pl/102/375/s309/2], substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
+    Subsec. (a)(2). [Pub. L. 102–375][/us/pl/102/375], § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
 
-    Subsec. (a)(3). [Pub. L. 102–375, § 309(1)(B)][/us/pl/102/375/s309/1/B], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–375][/us/pl/102/375], § 309(1)(B), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 102–375, § 309(2)][/us/pl/102/375/s309/2], substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
+    Subsec. (b)(1). [Pub. L. 102–375][/us/pl/102/375], § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
 
-    Subsec. (b)(2). [Pub. L. 102–375, § 309(2)(B)][/us/pl/102/375/s309/2/B], substituted “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
+    Subsec. (b)(2). [Pub. L. 102–375][/us/pl/102/375], § 309(2)(B), substituted “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title][/us/usc/t42/s3035a]”.
 
     1988—Subsec. (a)(1). [Pub. L. 100–707][/us/pl/100/707] substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
-    1981—Subsec. (a)(1). [Pub. L. 97–115, § 3(d)][/us/pl/97/115/s3/d], substituted “supportive services” for “social services”.
+    1981—Subsec. (a)(1). [Pub. L. 97–115][/us/pl/97/115], § 3(d), substituted “supportive services” for “social services”.
 
-    Subsecs. (a)(2), (b)(1), (2). [Pub. L. 97–115, § 11(b)(2)][/us/pl/97/115/s11/b/2], substituted reference to [section 3035a of this title][/us/usc/t42/s3035a] for reference to [section 3035b of this title][/us/usc/t42/s3035b].
+    Subsecs. (a)(2), (b)(1), (2). [Pub. L. 97–115][/us/pl/97/115], § 11(b)(2), substituted reference to [section 3035a of this title][/us/usc/t42/s3035a] for reference to [section 3035b of this title][/us/usc/t42/s3035b].
 
  __Effective Date__ 
 
@@ -81,39 +81,39 @@
 ----------
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/89/73/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs310
-[/us/pl/95/478/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs103%2Fb
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1533
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1597
-[/us/pl/100/707/s109/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fq
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4709
-[/us/pl/102/375/s102/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FA
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1202
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1989
-[/us/pl/106/501/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs308
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2246
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/106/501/s308/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs308%2F1%2FA
-[/us/pl/106/501/s308/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs308%2F1%2FB
-[/us/pl/106/501/s308/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs308%2F1%2FC
-[/us/pl/106/501/s308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs308%2F2
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
-[/us/pl/103/171/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F10
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
-[/us/pl/102/375/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs309%2F2
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3035a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035a
-[/us/pl/102/375/s309/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs309%2F1%2FB
-[/us/pl/102/375/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs309%2F2
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3035a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035a
-[/us/pl/102/375/s309/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs309%2F2%2FB
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3035a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035a
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
-[/us/pl/97/115/s11/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs11%2Fb%2F2
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/usc/t42/s3035a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035a
 [/us/usc/t42/s3035b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035b
 [/us/pl/95/478/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs504

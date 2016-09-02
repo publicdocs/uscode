@@ -77,7 +77,7 @@
 
         (2) Subsection (b)(13) of this section shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of law (relating to or involving a department or agency) which specifies (A) procurement practices for the selection, award, or management of contracts or grants by such department or agency, or (B) program activities, limitations, obligations, or responsibilities of such department or agency.
 
-([Pub. L. 96–294, title VII, § 704][/us/pl/96/294/s704], June 30, 1980, [94 Stat. 771][/us/stat/94/771].)
+([Pub. L. 96–294, title VII][/us/pl/96/294/tVII], § 704, June 30, 1980, [94 Stat. 771][/us/stat/94/771].)
 
  __Termination of Reporting Requirements__ 
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs704
+[/us/pl/96/294/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVII
 [/us/stat/94/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F771
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

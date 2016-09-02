@@ -31,7 +31,7 @@
 
         In carrying out this section, the Secretary shall recommend the imposition of requirements proportionately on all appropriate fuel suppliers and purchasers of motor fuels and suppliers and purchasers of motor vehicles in a fair and equitable manner.
 
-([Pub. L. 102–486, title V, § 509][/us/pl/102/486/s509], Oct. 24, 1992, [106 Stat. 2898][/us/stat/106/2898].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 509, Oct. 24, 1992, [106 Stat. 2898][/us/stat/106/2898].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s13257/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13257%2Ff
 [/us/usc/t42/s13257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13257
-[/us/pl/102/486/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs509
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2898
 
 

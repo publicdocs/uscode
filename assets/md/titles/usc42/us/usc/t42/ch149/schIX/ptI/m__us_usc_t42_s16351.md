@@ -17,7 +17,7 @@
 
     Funds authorized to be appropriated to the Department under this Act or an amendment made by this Act shall remain available until expended.
 
-([Pub. L. 109–58, title IX, § 987][/us/pl/109/58/s987], Aug. 8, 2005, [119 Stat. 910][/us/stat/119/910].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 987, Aug. 8, 2005, [119 Stat. 910][/us/stat/119/910].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs987
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F910
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594

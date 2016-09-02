@@ -161,7 +161,7 @@
 
         There is authorized to be appropriated to carry out this section $20,000,000 for the period of fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title VII, § 712][/us/pl/110/140/s712], Dec. 19, 2007, [121 Stat. 1713][/us/stat/121/1713].)
+([Pub. L. 110–140, title VII][/us/pl/110/140/tVII], § 712, Dec. 19, 2007, [121 Stat. 1713][/us/stat/121/1713].)
 
 ----------
 
@@ -170,7 +170,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs712
+[/us/pl/110/140/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVII
 [/us/stat/121/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1713
 
 

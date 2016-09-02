@@ -23,7 +23,7 @@
 
         The Administrator and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examinations to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this chapter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 311, formerly § 11, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 401][/us/stat/77/401]; renumbered § 304, [Pub. L. 89–272, title I, § 101(4)][/us/pl/89/272/s101/4], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 505][/us/stat/81/505]; renumbered § 311 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 12(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], 1713.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 311, formerly § 11, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 401][/us/stat/77/401]; renumbered § 304, [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(4), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 505][/us/stat/81/505]; renumbered § 311 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 12(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], 1713.)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare”.
+    1970—[Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare”.
 
     1967—[Pub. L. 90–148][/us/pl/90/148] reenacted section without change.
 
@@ -47,16 +47,16 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F401
-[/us/pl/89/272/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F4
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F505
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1705
 [/us/usc/t42/s1857j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857j
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95

@@ -17,7 +17,7 @@
 
     The President shall immediately commence (1) a study of the nature and gravity of the hazards to human health and safety created by air, water, and other common environmental pollution, (2) a survey of the medical and other assistance available to persons affected by such pollution, especially when such pollution reaches emergency levels, and (3) a survey of the measures, other than those relating solely to abatement of the pollution, that may be taken to avoid or reduce the effects of such pollution on the health of individuals.
 
-([Pub. L. 91–515, title V, § 501(b)][/us/pl/91/515/s501/b], Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310].)
+([Pub. L. 91–515, title V][/us/pl/91/515/tV], § 501(b), Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/515/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs501%2Fb
+[/us/pl/91/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtV
 [/us/stat/84/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1310
 
 

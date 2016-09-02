@@ -39,7 +39,7 @@
 
         (3) any fees charged be based on the income of the individual receiving the home repair services.
 
-([Pub. L. 101–625, title II, § 256][/us/pl/101/625/s256], Nov. 28, 1990, [104 Stat. 4122][/us/stat/104/4122].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 256, Nov. 28, 1990, [104 Stat. 4122][/us/stat/104/4122].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs256
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4122
 
 

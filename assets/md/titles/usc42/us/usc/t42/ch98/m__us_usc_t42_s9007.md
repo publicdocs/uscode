@@ -61,7 +61,7 @@
 
         The Secretary shall provide sufficient staff, funds, and other support as necessary to enable the Technical Panel to carry out the functions described in this section.
 
-([Pub. L. 96–310, § 8][/us/pl/96/310/s8], July 17, 1980, [94 Stat. 945][/us/stat/94/945].)
+([Pub. L. 96–310][/us/pl/96/310], § 8, July 17, 1980, [94 Stat. 945][/us/stat/94/945].)
 
  __Termination of Advisory Panels__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t42/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9002
-[/us/pl/96/310/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs8
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F945
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

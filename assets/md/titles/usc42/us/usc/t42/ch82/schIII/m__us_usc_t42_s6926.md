@@ -59,7 +59,7 @@
 
         In the case of used oil which is not listed or identified under this subchapter as a hazardous waste but which is regulated under [section 6935 of this title][/us/usc/t42/s6935], the provisions of this section regarding State programs shall apply in the same manner and to the same extent as such provisions apply to hazardous waste identified or listed under this subchapter.
 
-([Pub. L. 89–272, title II, § 3006][/us/pl/89/272/s3006], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2809][/us/stat/90/2809]; amended [Pub. L. 95–609, § 7(i)][/us/pl/95/609/s7/i], Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 98–616, title II][/us/pl/98/616], §§ 225, 226(a), 227, 228, 241(b)(2), Nov. 8, 1984, [98 Stat. 3254][/us/stat/98/3254], 3255, 3260; [Pub. L. 99–499, title II, § 205(j)][/us/pl/99/499/s205/j], Oct. 17, 1986, [100 Stat. 1703][/us/stat/100/1703].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3006, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2809][/us/stat/90/2809]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(i), Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], §§ 225, 226(a), 227, 228, 241(b)(2), Nov. 8, 1984, [98 Stat. 3254][/us/stat/98/3254], 3255, 3260; [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 205(j), Oct. 17, 1986, [100 Stat. 1703][/us/stat/100/1703].)
 
  __References in Text__ 
 
@@ -73,19 +73,19 @@
 
     1984—Subsec. (b). [Pub. L. 98–616][/us/pl/98/616], §§ 225, 241(b)(2), inserted “(and to enforce permits deemed to have been issued under [section 6935(d)(1) of this title][/us/usc/t42/s6935/d/1])”, and inserted provision at end that in authorizing a State program, the Administrator may base his findings on the Federal program in effect one year prior to submission of a State’s application or in effect on January 26, 1983, whichever is later.
 
-    Subsec. (c)(1). [Pub. L. 98–616, § 227(1)][/us/pl/98/616/s227/1], (2), designated existing provisions as par. (1) and substituted “period ending no later than January 31, 1986” for “twenty-four month period beginning on the date six months after the date of promulgation of regulations under sections 6922 through 6925 of this title”.
+    Subsec. (c)(1). [Pub. L. 98–616][/us/pl/98/616], § 227(1), (2), designated existing provisions as par. (1) and substituted “period ending no later than January 31, 1986” for “twenty-four month period beginning on the date six months after the date of promulgation of regulations under sections 6922 through 6925 of this title”.
 
-    Subsec. (c)(2) to (4). [Pub. L. 98–616, § 227(3)][/us/pl/98/616/s227/3], added pars. (2) to (4).
+    Subsec. (c)(2) to (4). [Pub. L. 98–616][/us/pl/98/616], § 227(3), added pars. (2) to (4).
 
-    Subsec. (f). [Pub. L. 98–616, § 226(a)][/us/pl/98/616/s226/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 98–616][/us/pl/98/616], § 226(a), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 98–616, § 228][/us/pl/98/616/s228], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–616][/us/pl/98/616], § 228, added subsec. (g).
 
     1978—Subsec. (c). [Pub. L. 95–609][/us/pl/95/609] substituted “of” for “required for” wherever appearing and “may submit” for “submit”.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–616, title II, § 226(b)][/us/pl/98/616/s226/b], Nov. 8, 1984, [98 Stat. 3254][/us/stat/98/3254], provided that: 
+[Pub. L. 98–616, title II][/us/pl/98/616/tII], § 226(b), Nov. 8, 1984, [98 Stat. 3254][/us/stat/98/3254], provided that: 
 
 > “The amendment made by subsection (a) \[enacting subsec. (f) of this section\] shall apply with respect to State programs authorized under section 3006 \[this section\] before, on, or after the date of enactment of the Hazardous and Solid Waste Amendments of 1984 \[Nov. 8, 1984\].”
 
@@ -101,14 +101,14 @@
 ----------
 
 [/us/usc/t42/s6935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935
-[/us/pl/89/272/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3006
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2809
-[/us/pl/95/609/s7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fi
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3082
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3254
-[/us/pl/99/499/s205/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fj
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1703
 [/us/usc/t42/s6935/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935%2Fd%2F1
 [/us/pl/89/272/s3012/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3012%2Fd%2F1
@@ -121,12 +121,12 @@
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/usc/t42/s6935/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935%2Fd%2F1
-[/us/pl/98/616/s227/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs227%2F1
-[/us/pl/98/616/s227/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs227%2F3
-[/us/pl/98/616/s226/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs226%2Fa
-[/us/pl/98/616/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs228
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
-[/us/pl/98/616/s226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs226%2Fb
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3254
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

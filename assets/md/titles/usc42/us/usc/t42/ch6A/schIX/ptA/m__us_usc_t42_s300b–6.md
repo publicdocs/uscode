@@ -25,7 +25,7 @@
 
     In carrying out this section, the Secretary may, from funds allotted for use under [section 702(a) of this title][/us/usc/t42/s702/a], make grants to or contracts with public or nonprofit private entities (including grants and contracts for demonstration projects).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1107, as added [Pub. L. 95–626, title II, § 205(d)(1)][/us/pl/95/626/s205/d/1], Nov. 10, 1978, [92 Stat. 3584][/us/stat/92/3584]; amended [Pub. L. 97–35, title XXI, § 2193(b)(5)][/us/pl/97/35/s2193/b/5], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1107, as added [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 205(d)(1), Nov. 10, 1978, [92 Stat. 3584][/us/stat/92/3584]; amended [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(b)(5), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t42/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/626/s205/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs205%2Fd%2F1
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3584
-[/us/pl/97/35/s2193/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F5
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa

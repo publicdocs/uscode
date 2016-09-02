@@ -27,11 +27,11 @@
 
         For purposes of this section, the term “breast implant” means a breast prosthesis that is implanted to augment or reconstruct the female breast.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498C, as added [Pub. L. 107–250, title II, § 215(b)][/us/pl/107/250/s215/b], Oct. 26, 2002, [116 Stat. 1615][/us/stat/116/1615].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498C, as added [Pub. L. 107–250, title II][/us/pl/107/250/tII], § 215(b), Oct. 26, 2002, [116 Stat. 1615][/us/stat/116/1615].)
 
  __Breast Implants; Study by Comptroller General__ 
 
-    [Pub. L. 107–250, title II, § 214][/us/pl/107/250/s214], Oct. 26, 2002, [116 Stat. 1615][/us/stat/116/1615], which provided that the Comptroller General was to conduct a study of information typically provided by health professionals to women on breast implant surgery and to report the findings of the study to Congress, was repealed by [Pub. L. 111–8, div. G, title I, § 1301(g)][/us/pl/111/8/s1301/g], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829].
+    [Pub. L. 107–250, title II][/us/pl/107/250/tII], § 214, Oct. 26, 2002, [116 Stat. 1615][/us/stat/116/1615], which provided that the Comptroller General was to conduct a study of information typically provided by health professionals to women on breast implant surgery and to report the findings of the study to Congress, was repealed by [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(g), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829].
 
 ----------
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/250/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs215%2Fb
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1615
-[/us/pl/107/250/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs214
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1615
-[/us/pl/111/8/s1301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Fg
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
 
 

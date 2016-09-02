@@ -65,7 +65,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $5,000,000 for each of the fiscal years 1993, 1994, and 1995.
 
-([Pub. L. 95–619, title V, § 549][/us/pl/95/619/s549], as added [Pub. L. 102–486, title I, § 152(h)(2)][/us/pl/102/486/s152/h/2], Oct. 24, 1992, [106 Stat. 2848][/us/stat/106/2848].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 549, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(h)(2), Oct. 24, 1992, [106 Stat. 2848][/us/stat/106/2848].)
 
  __Prior Provisions__ 
 
@@ -82,8 +82,8 @@
 ----------
 ----------
 
-[/us/pl/95/619/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs549
-[/us/pl/102/486/s152/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fh%2F2
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2848
 [/us/pl/95/619/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs549
 [/us/usc/t42/s8259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259

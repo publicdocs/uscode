@@ -117,7 +117,7 @@
 
         The term “voting security” means any security presently entitling the owner or holder thereof to vote in the direction or management of the affairs of a company.
 
-([Pub. L. 109–58, title XII, § 1262][/us/pl/109/58/s1262], Aug. 8, 2005, [119 Stat. 972][/us/stat/119/972].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1262, Aug. 8, 2005, [119 Stat. 972][/us/stat/119/972].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–58, title XII, § 1274][/us/pl/109/58/s1274], Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977], provided that:
+[Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1274, Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -148,14 +148,14 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1262
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972
 [/us/usc/t16/s825q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825q
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
-[/us/pl/109/58/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1274
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F977
 [/us/usc/t42/s16460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16460
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

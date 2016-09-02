@@ -33,7 +33,7 @@
 
         Consistent with subsection (b) and section 12(d) of the National Technology Transfer and Advancement Act of 1995 ([15 U.S.C. 272][/us/usc/t15/s272] note), the Secretary shall establish a grant and technical assistance program to support the development of voluntary consensus-based standards for high performance buildings.
 
-([Pub. L. 109–58, title IX, § 914][/us/pl/109/58/s914], Aug. 8, 2005, [119 Stat. 861][/us/stat/119/861].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 914, Aug. 8, 2005, [119 Stat. 861][/us/stat/119/861].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
-[/us/pl/109/58/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs914
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F861
 [/us/pl/104/113/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fd
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272

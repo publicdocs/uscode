@@ -111,13 +111,13 @@
 
         (3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of that portion of the standby Federal conservation plan for which authority is delegated to that State under subsection (f) of this section.
 
-([Pub. L. 96–102, title II, § 213][/us/pl/96/102/s213], Nov. 5, 1979, [93 Stat. 762][/us/stat/93/762].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 213, Nov. 5, 1979, [93 Stat. 762][/us/stat/93/762].)
 
  __References in Text__ 
 
     [Section 753 of title 15][/us/usc/t15/s753], referred to in subsec. (a)(2), was omitted from the Code pursuant to [section 760g of Title 15][/us/usc/t15/s760g], Commerce and Trade, which provided for the expiration of the President’s authority under that section on Sept. 30, 1981.
 
-    [Section 6263 of this title][/us/usc/t42/s6263], referred to in subsec. (h)(3)(D), was repealed by [Pub. L. 106–469, title I, § 104(1)][/us/pl/106/469/s104/1], Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].
+    [Section 6263 of this title][/us/usc/t42/s6263], referred to in subsec. (h)(3)(D), was repealed by [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 104(1), Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].
 
 ----------
 
@@ -136,12 +136,12 @@
 [/us/usc/t42/s8512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8512
 [/us/usc/t42/s8512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8512%2Fc
 [/us/usc/t42/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511
-[/us/pl/96/102/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs213
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F762
 [/us/usc/t15/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs753
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
 [/us/usc/t42/s6263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6263
-[/us/pl/106/469/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs104%2F1
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2033
 
 

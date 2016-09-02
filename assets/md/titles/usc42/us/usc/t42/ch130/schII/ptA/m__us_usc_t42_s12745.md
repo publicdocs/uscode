@@ -97,7 +97,7 @@
 
         (4) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with [section 12709 of this title][/us/usc/t42/s12709].
 
-([Pub. L. 101–625, title II, § 215][/us/pl/101/625/s215], Nov. 28, 1990, [104 Stat. 4101][/us/stat/104/4101]; [Pub. L. 102–550, title II][/us/pl/102/550], §§ 208, 209, Oct. 28, 1992, [106 Stat. 3754][/us/stat/106/3754]; [Pub. L. 103–233, title II, § 203][/us/pl/103/233/s203], Apr. 11, 1994, [108 Stat. 364][/us/stat/108/364]; [Pub. L. 105–276, title V, § 599B(b)][/us/pl/105/276/s599B/b], Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660]; [Pub. L. 106–569, title IX, § 904][/us/pl/106/569/s904], Dec. 27, 2000, [114 Stat. 3027][/us/stat/114/3027].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 215, Nov. 28, 1990, [104 Stat. 4101][/us/stat/104/4101]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], §§ 208, 209, Oct. 28, 1992, [106 Stat. 3754][/us/stat/106/3754]; [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 203, Apr. 11, 1994, [108 Stat. 364][/us/stat/108/364]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599B(b), Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660]; [Pub. L. 106–569, title IX][/us/pl/106/569/tIX], § 904, Dec. 27, 2000, [114 Stat. 3027][/us/stat/114/3027].)
 
  __References in Text__ 
 
@@ -109,19 +109,19 @@
 
     1998—Subsec. (b)(2). [Pub. L. 105–276][/us/pl/105/276] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
 
-    1994—Subsec. (b)(3). [Pub. L. 103–233, § 203(a)][/us/pl/103/233/s203/a], redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “is made available for initial purchase only to first-time homebuyers;”.
+    1994—Subsec. (b)(3). [Pub. L. 103–233][/us/pl/103/233], § 203(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “is made available for initial purchase only to first-time homebuyers;”.
 
-    Subsec. (b)(3)(B). [Pub. L. 103–233, § 203(b)][/us/pl/103/233/s203/b], substituted “subchapter” for “subsection” after “requirements of this”.
+    Subsec. (b)(3)(B). [Pub. L. 103–233][/us/pl/103/233], § 203(b), substituted “subchapter” for “subsection” after “requirements of this”.
 
-    Subsec. (b)(4), (5). [Pub. L. 103–233, § 203(a)(2)][/us/pl/103/233/s203/a/2], redesignated pars. (4) and (5) as (3) and (4), respectively.
+    Subsec. (b)(4), (5). [Pub. L. 103–233][/us/pl/103/233], § 203(a)(2), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–550, § 208(a)(1)][/us/pl/102/550/s208/a/1], substituted “number of bedrooms in the unit” for “smaller and larger families”.
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 208(a)(1), substituted “number of bedrooms in the unit” for “smaller and larger families”.
 
-    Subsec. (a)(1)(E). [Pub. L. 102–550, § 208(b)][/us/pl/102/550/s208/b], inserted before semicolon “, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary”.
+    Subsec. (a)(1)(E). [Pub. L. 102–550][/us/pl/102/550], § 208(b), inserted before semicolon “, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary”.
 
-    Subsec. (a)(3). [Pub. L. 102–550, § 208(a)(2)][/us/pl/102/550/s208/a/2], (3), substituted “the lesser of the amount payable by the tenant under State or local law or” for “not less than” in second sentence and inserted at end “The preceding sentence shall not apply with respect to funds made available under this Act for units that have been allocated a low-income housing tax credit by a housing credit agency pursuant to [section 42 of title 26][/us/usc/t26/s42].”
+    Subsec. (a)(3). [Pub. L. 102–550][/us/pl/102/550], § 208(a)(2), (3), substituted “the lesser of the amount payable by the tenant under State or local law or” for “not less than” in second sentence and inserted at end “The preceding sentence shall not apply with respect to funds made available under this Act for units that have been allocated a low-income housing tax credit by a housing credit agency pursuant to [section 42 of title 26][/us/usc/t26/s42].”
 
-    Subsec. (b)(4). [Pub. L. 102–550, § 209][/us/pl/102/550/s209], added par. (4) and struck out former par. (4) which read as follows: “is made available for subsequent purchase only—
+    Subsec. (b)(4). [Pub. L. 102–550][/us/pl/102/550], § 209, added par. (4) and struck out former par. (4) which read as follows: “is made available for subsequent purchase only—
 
     “(A) to persons who meet the qualifications specified under paragraph (2), and
 
@@ -145,7 +145,7 @@
 
  __HOME Investment Partnerships Program__ 
 
-[Pub. L. 114–113, div. L, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2878][/us/stat/129/2878], provided in part: 
+[Pub. L. 114–113, div. L, title II][/us/pl/114/113/dL/tII], Dec. 18, 2015, [129 Stat. 2878][/us/stat/129/2878], provided in part: 
 
 > “That with respect to funds made available under this heading \[home investment partnerships program, see [129 Stat. 2878][/us/stat/129/2878]\] pursuant to such Act \[probably means title II of [Pub. L. 101–625][/us/pl/101/625]\] and funds provided in prior and subsequent appropriations acts that were or are used by community land trusts for the development of affordable homeownership housing pursuant to section 215(b) of such Act \[[42 U.S.C. 12745(b)][/us/usc/t42/s12745/b]\], such community land trusts, notwithstanding section 215(b)(3)(A) of such Act \[[42 U.S.C. 12745(b)(3)(A)][/us/usc/t42/s12745/b/3/A]\], may hold and exercise purchase options, rights of first refusal or other preemptive rights to purchase the housing to preserve affordability, including but not limited to the right to purchase the housing in lieu of foreclosure”.
 
@@ -164,29 +164,29 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s12709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12709
-[/us/pl/101/625/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs215
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4101
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3754
-[/us/pl/103/233/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs203
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F364
-[/us/pl/105/276/s599B/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599B%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2660
-[/us/pl/106/569/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs904
+[/us/pl/106/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtIX
 [/us/stat/114/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3027
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/103/233/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs203%2Fa
-[/us/pl/103/233/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs203%2Fb
-[/us/pl/103/233/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs203%2Fa%2F2
-[/us/pl/102/550/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs208%2Fa%2F1
-[/us/pl/102/550/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs208%2Fb
-[/us/pl/102/550/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs208%2Fa%2F2
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
-[/us/pl/102/550/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs209
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s599B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599B%2Fc
 [/us/usc/t42/s12744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12744
@@ -196,7 +196,7 @@
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtII
 [/us/stat/129/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2878
 [/us/stat/129/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2878
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625

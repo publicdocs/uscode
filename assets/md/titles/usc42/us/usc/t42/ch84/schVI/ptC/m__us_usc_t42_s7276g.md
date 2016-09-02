@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of [section 2 of the Act of June 18, 1954][/us/act/1954-06-18/s2] ([68 Stat. 255][/us/stat/68/255]) as amended, and [section 3302 of title 31][/us/usc/t31/s3302], all funds collected by the Western Area Power Administration from the sale of power and related services from the Falcon and Amistad Dams that are applicable to the repayment of the annual expenses of the hydroelectric facilities of these Dams and associated Western Area Power Administration activities in this and subsequent fiscal years shall be credited to this account as discretionary offsetting collections for the sole purpose of funding such expenses, with such funds remaining available until expended: Provided further, That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred.
 
-([Pub. L. 111–85, title III][/us/pl/111/85], Oct. 28, 2009, [123 Stat. 2871][/us/stat/123/2871].)
+([Pub. L. 111–85, title III][/us/pl/111/85/tIII], Oct. 28, 2009, [123 Stat. 2871][/us/stat/123/2871].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 [/us/act/1954-06-18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-18%2Fs2
 [/us/stat/68/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F255
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/111/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtIII
 [/us/stat/123/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2871
 [/us/act/1954-06-18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-18%2Fs2
 [/us/stat/68/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F255

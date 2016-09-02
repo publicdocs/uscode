@@ -85,7 +85,7 @@
 
         (2) any Federal or State law requiring the labeling or disclosure of the maximum price per gallon of any fuel.
 
-([Pub. L. 96–102, title II, § 221][/us/pl/96/102/s221], Nov. 5, 1979, [93 Stat. 765][/us/stat/93/765].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 221, Nov. 5, 1979, [93 Stat. 765][/us/stat/93/765].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
-[/us/pl/96/102/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs221
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F765
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628

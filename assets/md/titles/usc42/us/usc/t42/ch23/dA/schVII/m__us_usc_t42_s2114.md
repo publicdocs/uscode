@@ -39,19 +39,19 @@
 
         In the case of sites at which ores are processed primarily for their source material content or which are used for the disposal of byproduct material as defined in [section 2014(e)(2) of this title][/us/usc/t42/s2014/e/2], a licensee may propose alternatives to specific requirements adopted and enforced by the Commission under this chapter. Such alternative proposals may take into account local or regional conditions, including geology, topography, hydrology and meteorology. The Commission may treat such alternatives as satisfying Commission requirements if the Commission determines that such alternatives will achieve a level of stabilization and containment of the sites concerned, and a level of protection for public health, safety, and the environment from radiological and nonradiological hazards associated with such sites, which is equivalent to, to the extent practicable, or more stringent than the level which would be achieved by standards and requirements adopted and enforced by the Commission for the same purpose and any final standards promulgated by the Administrator of the Environmental Protection Agency in accordance with [section 2022 of this title][/us/usc/t42/s2022].
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 84, as added [Pub. L. 95–604, title II, § 205(a)][/us/pl/95/604/s205/a], Nov. 8, 1978, [92 Stat. 3039][/us/stat/92/3039]; amended [Pub. L. 97–415][/us/pl/97/415], §§ 20, 22(a), Jan. 4, 1983, [96 Stat. 2079][/us/stat/96/2079], 2080; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 84, as added [Pub. L. 95–604, title II][/us/pl/95/604/tII], § 205(a), Nov. 8, 1978, [92 Stat. 3039][/us/stat/92/3039]; amended [Pub. L. 97–415][/us/pl/97/415], §§ 20, 22(a), Jan. 4, 1983, [96 Stat. 2079][/us/stat/96/2079], 2080; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is title II of [Pub. L. 89–272][/us/pl/89/272], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is title II of [Pub. L. 89–272][/us/pl/89/272], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
-    This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
-    1983—Subsec. (a)(1). [Pub. L. 97–415, § 22(a)][/us/pl/97/415/s22/a], inserted provision that the Commission is to take into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
+    1983—Subsec. (a)(1). [Pub. L. 97–415][/us/pl/97/415], § 22(a), inserted provision that the Commission is to take into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
 
-    Subsec. (c). [Pub. L. 97–415, § 20][/us/pl/97/415/s20], added subsec. (c).
+    Subsec. (c). [Pub. L. 97–415][/us/pl/97/415], § 20, added subsec. (c).
 
  __Effective Date__ 
 
@@ -73,22 +73,22 @@
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/usc/t42/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2022
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/604/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs205%2Fa
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3039
 [/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2079
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/97/415/s22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs22%2Fa
-[/us/pl/97/415/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs20
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/pl/95/604/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs208
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
 

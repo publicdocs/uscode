@@ -19,7 +19,7 @@
 
     (b) No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, be subjected to discrimination under, or be denied employment in connection with any program or activity receiving assistance under this subchapter. The Secretary shall enforce the provisions of the preceding sentence in accordance with [section 2000d–1 of this title][/us/usc/t42/s2000d–1]. [Section 2000d–2 of this title][/us/usc/t42/s2000d–2] shall apply with respect to any action taken by the Secretary to enforce such sentence. This section shall not be construed as affecting any other legal remedy that a person may have if such person is excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in connection with, any program, project, or activity receiving assistance under this subchapter.
 
-([Pub. L. 97–35, title VI, § 632][/us/pl/97/35/s632], Aug. 13, 1981, [95 Stat. 498][/us/stat/95/498].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 632, Aug. 13, 1981, [95 Stat. 498][/us/stat/95/498].)
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/usc/t42/s2000d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%931
 [/us/usc/t42/s2000d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%932
-[/us/pl/97/35/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs632
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F498
 
 

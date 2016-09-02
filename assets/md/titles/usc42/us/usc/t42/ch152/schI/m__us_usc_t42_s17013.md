@@ -167,7 +167,7 @@
 
         (3) The Secretary may retain such consultants as the Secretary deems necessary to the discharge of the functions required by this section, pursuant to [section 1901 of title 41][/us/usc/t41/s1901].
 
-([Pub. L. 110–140, title I, § 136][/us/pl/110/140/s136], Dec. 19, 2007, [121 Stat. 1514][/us/stat/121/1514]; [Pub. L. 110–329, div. A, § 129(c)][/us/pl/110/329/s129/c], Sept. 30, 2008, [122 Stat. 3578][/us/stat/122/3578]; [Pub. L. 111–85, title III, § 312(a)][/us/pl/111/85/s312/a], Oct. 28, 2009, [123 Stat. 2874][/us/stat/123/2874].)
+([Pub. L. 110–140, title I][/us/pl/110/140/tI], § 136, Dec. 19, 2007, [121 Stat. 1514][/us/stat/121/1514]; [Pub. L. 110–329, div. A][/us/pl/110/329/dA], § 129(c), Sept. 30, 2008, [122 Stat. 3578][/us/stat/122/3578]; [Pub. L. 111–85, title III][/us/pl/111/85/tIII], § 312(a), Oct. 28, 2009, [123 Stat. 2874][/us/stat/123/2874].)
 
  __References in Text__ 
 
@@ -177,33 +177,33 @@
 
  __Codification__ 
 
-    In subsec. (j)(3), “[section 1901 of title 41][/us/usc/t41/s1901]” substituted for “section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427][/us/usc/t41/s427])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (j)(3), “[section 1901 of title 41][/us/usc/t41/s1901]” substituted for “section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427][/us/usc/t41/s427])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–85, § 312(a)(1)(A)][/us/pl/111/85/s312/a/1/A], inserted “an ultra efficient vehicle or” after “means” in introductory provisions.
+    2009—Subsec. (a)(1). [Pub. L. 111–85][/us/pl/111/85], § 312(a)(1)(A), inserted “an ultra efficient vehicle or” after “means” in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 111–85, § 312(a)(1)(B)][/us/pl/111/85/s312/a/1/B], added par. (5).
+    Subsec. (a)(5). [Pub. L. 111–85][/us/pl/111/85], § 312(a)(1)(B), added par. (5).
 
-    Subsec. (b). [Pub. L. 111–85, § 312(a)(2)(A)][/us/pl/111/85/s312/a/2/A], inserted “, ultra efficient vehicle manufacturers,” after “automobile manufacturers” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–85][/us/pl/111/85], § 312(a)(2)(A), inserted “, ultra efficient vehicle manufacturers,” after “automobile manufacturers” in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–85, § 312(a)(2)(B)][/us/pl/111/85/s312/a/2/B], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 111–85][/us/pl/111/85], § 312(a)(2)(B), added subpar. (C).
 
-    Subsec. (b)(2). [Pub. L. 111–85, § 312(a)(2)(C)][/us/pl/111/85/s312/a/2/C], inserted “, ultra efficient vehicles,” after “qualifying vehicles”.
+    Subsec. (b)(2). [Pub. L. 111–85][/us/pl/111/85], § 312(a)(2)(C), inserted “, ultra efficient vehicles,” after “qualifying vehicles”.
 
-    Subsec. (g). [Pub. L. 111–85, § 312(a)(3)][/us/pl/111/85/s312/a/3], inserted “or are utilized primarily for the manufacture of ultra efficient vehicles” after “20 years”.
+    Subsec. (g). [Pub. L. 111–85][/us/pl/111/85], § 312(a)(3), inserted “or are utilized primarily for the manufacture of ultra efficient vehicles” after “20 years”.
 
-    Subsec. (h)(1)(B). [Pub. L. 111–85, § 312(a)(4)][/us/pl/111/85/s312/a/4], substituted “ultra efficient vehicles, automobiles,” for “automobiles”.
+    Subsec. (h)(1)(B). [Pub. L. 111–85][/us/pl/111/85], § 312(a)(4), substituted “ultra efficient vehicles, automobiles,” for “automobiles”.
 
-    2008—Subsec. (d)(1). [Pub. L. 110–329, § 129(c)(1)][/us/pl/110/329/s129/c/1], inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
+    2008—Subsec. (d)(1). [Pub. L. 110–329][/us/pl/110/329], § 129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
 
-    Subsec. (e). [Pub. L. 110–329, § 129(c)(2)][/us/pl/110/329/s129/c/2], substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
+    Subsec. (e). [Pub. L. 110–329][/us/pl/110/329], § 129(c)(2), substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
 
-    Subsec. (j). [Pub. L. 110–329, § 129(c)(3)][/us/pl/110/329/s129/c/3], added subsec. (j).
+    Subsec. (j). [Pub. L. 110–329][/us/pl/110/329], § 129(c)(3), added subsec. (j).
 
  __Reconsideration of Prior Applications__ 
 
-[Pub. L. 111–85, title III, § 312(b)][/us/pl/111/85/s312/b], Oct. 28, 2009, [123 Stat. 2875][/us/stat/123/2875], provided that: 
+[Pub. L. 111–85, title III][/us/pl/111/85/tIII], § 312(b), Oct. 28, 2009, [123 Stat. 2875][/us/stat/123/2875], provided that: 
 
 > “The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 ([42 U.S.C. 17013][/us/usc/t42/s17013]) that were—
 
@@ -226,30 +226,30 @@
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t5/s3304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304%2Fa%2F3
 [/us/usc/t41/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1901
-[/us/pl/110/140/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs136
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1514
-[/us/pl/110/329/s129/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs129%2Fc
+[/us/pl/110/329/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdA
 [/us/stat/122/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3578
-[/us/pl/111/85/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa
+[/us/pl/111/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtIII
 [/us/stat/123/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2874
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t41/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1901
 [/us/usc/t41/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs427
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/111/85/s312/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa%2F1%2FA
-[/us/pl/111/85/s312/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa%2F1%2FB
-[/us/pl/111/85/s312/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa%2F2%2FA
-[/us/pl/111/85/s312/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa%2F2%2FB
-[/us/pl/111/85/s312/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa%2F2%2FC
-[/us/pl/111/85/s312/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa%2F3
-[/us/pl/111/85/s312/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fa%2F4
-[/us/pl/110/329/s129/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs129%2Fc%2F1
-[/us/pl/110/329/s129/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs129%2Fc%2F2
-[/us/pl/110/329/s129/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs129%2Fc%2F3
-[/us/pl/111/85/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs312%2Fb
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
+[/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
+[/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
+[/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
+[/us/pl/111/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtIII
 [/us/stat/123/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2875
 [/us/usc/t42/s17013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17013
 

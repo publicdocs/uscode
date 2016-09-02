@@ -17,7 +17,7 @@
 
     Within 90 days of December 23, 2011, the Defense Nuclear Facilities Safety Board shall enter into an agreement for inspector general services with the Office of Inspector General for the Nuclear Regulatory Commission for fiscal years 2012 and 2013: Provided, That at the expiration of such agreement, the Defense Nuclear Facilities Safety Board shall procure inspector general services annually thereafter.
 
-([Pub. L. 112–74, div. B, title IV][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 880][/us/stat/125/880].)
+([Pub. L. 112–74, div. B, title IV][/us/pl/112/74/dB/tIV], Dec. 23, 2011, [125 Stat. 880][/us/stat/125/880].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtIV
 [/us/stat/125/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F880
 
 

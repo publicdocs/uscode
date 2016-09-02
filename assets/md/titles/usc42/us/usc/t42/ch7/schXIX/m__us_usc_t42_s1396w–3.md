@@ -59,7 +59,7 @@
 
             Nothing in paragraph (1) shall limit or modify the requirement that the State assess an individual for purposes of providing home and community-based services under the State plan or under any waiver of such plan for individuals described in subsection (a)(10)(A)(ii)(VI). <sup>\[2\]</sup>  <sup><sup> 2 Probably means subsection (a)(10)(A)(ii)(VI) of [section 1396a of this title][/us/usc/t42/s1396a]. </sup></sup> 
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1943, as added [Pub. L. 111–148, title II, § 2201][/us/pl/111/148/s2201], Mar. 23, 2010, [124 Stat. 289][/us/stat/124/289].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1943, as added [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2201, Mar. 23, 2010, [124 Stat. 289][/us/stat/124/289].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 [/us/usc/t42/s18031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18031
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2201
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F289
 
 

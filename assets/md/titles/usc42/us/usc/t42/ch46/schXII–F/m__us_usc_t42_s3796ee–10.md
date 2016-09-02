@@ -39,7 +39,7 @@
 
         Of the amounts appropriated under subsection (a) of this section, 2 percent shall be made available for programs that receive grants under [section 3796ee–1 of this title][/us/usc/t42/s3796ee–1].
 
-([Pub. L. 90–351, title I, § 1810][/us/pl/90/351/s1810], as added [Pub. L. 107–273, div. C, title II, § 12102(a)][/us/pl/107/273/s12102/a], Nov. 2, 2002, [116 Stat. 1868][/us/stat/116/1868]; amended [Pub. L. 109–162, title XI, § 1166][/us/pl/109/162/s1166], Jan. 5, 2006, [119 Stat. 3121][/us/stat/119/3121].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1810, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1868][/us/stat/116/1868]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1166, Jan. 5, 2006, [119 Stat. 3121][/us/stat/119/3121].)
 
  __Amendments__ 
 
@@ -54,10 +54,10 @@
 
 [/us/usc/t42/s5665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5665
 [/us/usc/t42/s3796ee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%931
-[/us/pl/90/351/s1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1810
-[/us/pl/107/273/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1868
-[/us/pl/109/162/s1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1166
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3121
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 

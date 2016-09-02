@@ -51,7 +51,7 @@
 
                 The Desert Peak, Nevada, site, where a Department of Energy and industry cooperative enhanced geothermal systems project is already underway, may be considered for inclusion among the sites selected under subparagraph (A).
 
-([Pub. L. 110–140, title VI, § 615][/us/pl/110/140/s615], Dec. 19, 2007, [121 Stat. 1680][/us/stat/121/1680].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 615, Dec. 19, 2007, [121 Stat. 1680][/us/stat/121/1680].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs615
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1680
 
 

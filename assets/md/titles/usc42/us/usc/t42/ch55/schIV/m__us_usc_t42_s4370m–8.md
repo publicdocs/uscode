@@ -61,7 +61,7 @@
 
             Appropriations under title 23 and appropriations for the civil works program of the Army Corps of Engineers shall not be available for transfer under paragraph (1).
 
-([Pub. L. 114–94, div. D, title XLI, § 41009][/us/pl/114/94/s41009], Dec. 4, 2015, [129 Stat. 1760][/us/stat/129/1760].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41009, Dec. 4, 2015, [129 Stat. 1760][/us/stat/129/1760].)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t42/s4370m–1/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fb%2F2%2FB
 [/us/usc/t42/s4370m–1/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fb%2F2%2FB
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/114/94/s41009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41009
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1760
 
 

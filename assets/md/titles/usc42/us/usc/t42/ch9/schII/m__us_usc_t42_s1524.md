@@ -17,7 +17,7 @@
 
     It is declared to be the policy of this subchapter to further the national defense by providing housing in those areas where it cannot otherwise be provided by private enterprise when needed, and that such housing may be sold and disposed of as expeditiously as possible: Provided, That in disposing of said housing consideration shall be given to its full market value and said housing or any part thereof shall not, unless specifically authorized by Congress, be conveyed to any public or private agency organized for slum clearance or to provide subsidized housing for persons of low income: Provided further, That the Secretary of Housing and Urban Development may, in his discretion, upon the request of the Secretaries of the Army, Air Force or Navy transfer to the jurisdiction of the Army, Air Force or Navy Departments such housing constructed under the provisions of subchapters II to VII of this chapter as may be considered to be permanently useful to the Army, Air Force or Navy: Provided further, That whenever the Secretary of Housing and Urban Development disposes of any permanent house or structure containing not more than four family dwelling units under authority of this subchapter by offering such house or structure for sale on an individual basis, he shall, when the purchaser is a veteran buying for his own occupancy, sell any such house or structure (1) at a purchase price not in excess of the apportioned cost of such house or structure and of the land and appurtenances allocated thereto, together with the apportioned share of the cost of all utilities and other facilities provided for and common to the project of which such house or structure is a part, or (2) at a purchase price not in excess of such considered full market value of such house or structure and the land, appurtenances, utilities and facilities allocated thereto, whichever purchase price is the less: Provided further, That, for the purposes of this section, housing constructed or acquired under the provisions of Public Law 781, Seventy-sixth Congress, approved September 9, 1940, or Public Law 9, 73, or 353, Seventy-seventh Congress, approved, respectively, March 1, 1941, May 24, 1941, and December 17, 1941, shall be deemed to be housing constructed or acquired under subchapters II to VII of this chapter.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title I, § 4, as added [Jan. 21, 1942, ch. 14, § 4][/us/act/1942-01-21/ch14/s4], [56 Stat. 12][/us/stat/56/12]; amended Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1259; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, §§ 205(a), 207(a), (f), [61 Stat. 501–503][/us/stat/61/501-503]; [June 19, 1948, ch. 520][/us/act/1948-06-19/ch520], [62 Stat. 492][/us/stat/62/492]; [June 28, 1948, ch. 688, § 3][/us/act/1948-06-28/ch688/s3], [62 Stat. 1064][/us/stat/62/1064]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title I, § 4, as added [Jan. 21, 1942, ch. 14][/us/act/1942-01-21/ch14], § 4, [56 Stat. 12][/us/stat/56/12]; amended Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1259; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, §§ 205(a), 207(a), (f), [61 Stat. 501–503][/us/stat/61/501-503]; [June 19, 1948, ch. 520][/us/act/1948-06-19/ch520], [62 Stat. 492][/us/stat/62/492]; [June 28, 1948, ch. 688][/us/act/1948-06-28/ch688], § 3, [62 Stat. 1064][/us/stat/62/1064]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 204, [64 Stat. 73][/us/stat/64/73]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@ Public Laws 9, 73, or 353, Seventy-seventh Congress, referred to in text, refer 
 
  __Change of Name__ 
 
-    Department of the Air Force inserted to conform to [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 207(a), (f), [61 Stat. 502][/us/stat/61/502], 503, and Secretary of Defense Transfer Orders No. 14, eff. July 1, 1948, and No. 40 \[App. B(126)\], July 29, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641]. [Act Aug. 10, 1956, ch. 1041, § 1][/us/act/1956-08-10/ch1041/s1], [70A Stat. 1][/us/stat/70A/1], enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
+    Department of the Air Force inserted to conform to [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], § 207(a), (f), [61 Stat. 502][/us/stat/61/502], 503, and Secretary of Defense Transfer Orders No. 14, eff. July 1, 1948, and No. 40 \[App. B(126)\], July 29, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], § 205(a), [61 Stat. 501][/us/stat/61/501]. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641]. [Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 1, [70A Stat. 1][/us/stat/70A/1], enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
 
  __Transfer of Functions__ 
 
@@ -53,17 +53,17 @@ Public Laws 9, 73, or 353, Seventy-seventh Congress, referred to in text, refer 
 ----------
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1942-01-21/ch14/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14%2Fs4
+[/us/act/1942-01-21/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14
 [/us/stat/56/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F12
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501-503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501-503
 [/us/act/1948-06-19/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch520
 [/us/stat/62/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F492
-[/us/act/1948-06-28/ch688/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs3
+[/us/act/1948-06-28/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688
 [/us/stat/62/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1064
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F73
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 [/us/act/1940-09-09/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-09-09%2Fch717
@@ -75,13 +75,13 @@ Public Laws 9, 73, or 353, Seventy-seventh Congress, referred to in text, refer 
 [/us/act/1941-12-17/ch591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-17%2Fch591
 [/us/stat/55/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F810
 [/us/usc/t42/s1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1523
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F502
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/act/1956-08-10/ch1041/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs1
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F1
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 

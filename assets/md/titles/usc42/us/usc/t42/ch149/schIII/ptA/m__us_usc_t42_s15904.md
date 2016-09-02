@@ -61,7 +61,7 @@
 
         The Secretary may place limitations on the royalty relief granted under this section based on market price. The royalty relief granted under this section shall not apply to a lease for which deep water royalty relief is available.
 
-([Pub. L. 109–58, title III, § 344][/us/pl/109/58/s344], Aug. 8, 2005, [119 Stat. 702][/us/stat/119/702].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 344, Aug. 8, 2005, [119 Stat. 702][/us/stat/119/702].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/109/58/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs344
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F702
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462

@@ -147,11 +147,11 @@
 
         There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title III, § 351][/us/pl/109/58/s351], Aug. 8, 2005, [119 Stat. 711][/us/stat/119/711].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 351, Aug. 8, 2005, [119 Stat. 711][/us/stat/119/711].)
 
  __References in Text__ 
 
-    The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is [Pub. L. 102–285][/us/pl/102/285], May 18, 1992, [106 Stat. 166][/us/stat/106/166], which is classified principally to sections 31a to 31h of Title 43, Public Lands. Par. (3) of section 5(b) of the Act was redesignated par. (4) by [Pub. L. 111–11, title XI, § 11001(f)(2)(B)][/us/pl/111/11/s11001/f/2/B], Mar. 30, 2009, [123 Stat. 1415][/us/stat/123/1415], and is now classified to [section 31d(b)(4) of Title 43][/us/usc/t43/s31d/b/4]. For complete classification of this Act to the Code, see Short Title note set out under [section 31a of Title 43][/us/usc/t43/s31a] and Tables.
+    The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is [Pub. L. 102–285][/us/pl/102/285], May 18, 1992, [106 Stat. 166][/us/stat/106/166], which is classified principally to sections 31a to 31h of Title 43, Public Lands. Par. (3) of section 5(b) of the Act was redesignated par. (4) by [Pub. L. 111–11, title XI][/us/pl/111/11/tXI], § 11001(f)(2)(B), Mar. 30, 2009, [123 Stat. 1415][/us/stat/123/1415], and is now classified to [section 31d(b)(4) of Title 43][/us/usc/t43/s31d/b/4]. For complete classification of this Act to the Code, see Short Title note set out under [section 31a of Title 43][/us/usc/t43/s31a] and Tables.
 
 ----------
 
@@ -164,11 +164,11 @@
 [/us/usc/t43/s31d/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31d%2Fb%2F3
 [/us/usc/t43/s31g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31g
 [/us/usc/t43/s31d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31d
-[/us/pl/109/58/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs351
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F711
 [/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F166
-[/us/pl/111/11/s11001/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs11001%2Ff%2F2%2FB
+[/us/pl/111/11/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXI
 [/us/stat/123/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1415
 [/us/usc/t43/s31d/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31d%2Fb%2F4
 [/us/usc/t43/s31a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31a

@@ -33,7 +33,7 @@
 
     (5) The applicant will, at each site at which the applicant provides services under [section 254c–9(a) of this title][/us/usc/t42/s254c–9/a], post a conspicuous notice informing individuals who receive the services of any Federal policies that apply to the applicant with respect to the imposition of charges on such individuals.
 
-([Pub. L. 106–505, title V, § 522][/us/pl/106/505/s522], Nov. 13, 2000, [114 Stat. 2344][/us/stat/114/2344].)
+([Pub. L. 106–505, title V][/us/pl/106/505/tV], § 522, Nov. 13, 2000, [114 Stat. 2344][/us/stat/114/2344].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s254c–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%939
 [/us/usc/t42/s254c–9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%939%2Fa
 [/us/usc/t42/s254c–9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%939%2Fa
-[/us/pl/106/505/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs522
+[/us/pl/106/505/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtV
 [/us/stat/114/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2344
 
 

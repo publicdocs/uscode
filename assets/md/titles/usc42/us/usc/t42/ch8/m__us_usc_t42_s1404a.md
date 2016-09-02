@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_ch8.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1404a)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1401...1404.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1405 _us_usc_t42_s1406.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1404a)
 
 ## § 1404a. Secretary of Housing and Urban Development; right to sue; expenses
 
     The Secretary of Housing and Urban Development may sue and be sued only with respect to its functions under the United States Housing Act of 1937, as amended \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\], and title II of Public Law 671, Seventy-sixth Congress, approved June 28, 1940, as amended \[[42 U.S.C. 1501][/us/usc/t42/s1501] et seq.\]. Funds made available for carrying out the functions, powers, and duties of the Secretary of Housing and Urban Development (including appropriations therefor, which are authorized) shall be available, in such amounts as may from year to year be authorized by the Congress, for the administrative expenses of the Secretary of Housing and Urban Development. Notwithstanding any other provisions of law except provisions of law enacted after August 10, 1948 expressly in limitation hereof, the Secretary of Housing and Urban Development, or any State or local public agency administering a low-rent housing project assisted pursuant to the United States Housing Act of 1937 or title II of Public Law 671, Seventy-sixth Congress, approved June 28, 1940, shall continue to have the right to maintain an action or proceeding to recover possession of any housing accommodations operated by it where such action is authorized by the statute or regulations under which such housing accommodations are administered, and, in determining net income for the purposes of tenant eligibility with respect to low-rent housing projects assisted pursuant to said Acts, the Secretary of Housing and Urban Development is authorized, where it finds such action equitable and in the public interest, to exclude amounts or portions thereof paid by the United States Government for disability or death occurring in connection with military service.
 
-([Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title V, § 502(b), [62 Stat. 1284][/us/stat/62/1284]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 90–19, § 5(d)(4)][/us/pl/90/19/s5/d/4]–(7), May 25, 1967, [81 Stat. 21][/us/stat/81/21]; [Pub. L. 100–242, title V, § 570(a)(2)][/us/pl/100/242/s570/a/2], Feb. 5, 1988, [101 Stat. 1949][/us/stat/101/1949].)
+([Aug. 10, 1948, ch. 832][/us/act/1948-08-10/ch832], title V, § 502(b), [62 Stat. 1284][/us/stat/62/1284]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 90–19][/us/pl/90/19], § 5(d)(4)–(7), May 25, 1967, [81 Stat. 21][/us/stat/81/21]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 570(a)(2), Feb. 5, 1988, [101 Stat. 1949][/us/stat/101/1949].)
 
  __References in Text__ 
 
-    The United States Housing Act of 1937, referred to in text, is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to this chapter (§ 1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in text, is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to this chapter (§ 1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
     Public Law 671, Seventy-sixth Congress, approved June 28, 1940, referred to in text, is [act June 28, 1940, ch. 440][/us/act/1940-06-28/ch440], [54 Stat. 676][/us/stat/54/676], as amended. Title II of that Act is classified generally to subchapter I (§ 1501 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -43,15 +43,9 @@
 
     [Act Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], cited as a credit to this section, was repealed (subject to a savings clause) by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, § 8, [80 Stat. 632][/us/stat/80/632], 655.
 
-§§ 1405, 1406. __Omitted__ 
-
-    Section 1405, acts [Sept. 1, 1937, ch. 896, § 5][/us/act/1937-09-01/ch896/s5], [50 Stat. 890][/us/stat/50/890]; May 25, 1967, [Pub. L. 90–19, § 2(d)][/us/pl/90/19/s2/d], (e), [81 Stat. 20][/us/stat/81/20], which enumerated miscellaneous powers and functions of the Authority, was omitted in the general revision of the United States Housing Act of 1937 by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653].
-
-    Section 1406, acts [Sept. 1, 1937, ch. 896, § 6][/us/act/1937-09-01/ch896/s6], [50 Stat. 890][/us/stat/50/890]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title III, § 307(c), [63 Stat. 429][/us/stat/63/429]; [Oct. 31, 1951, ch. 654, § 1(112)][/us/act/1951-10-31/ch654/s1/112], [65 Stat. 705][/us/stat/65/705]; May 25, 1967, [Pub. L. 90–19, § 2(a)][/us/pl/90/19/s2/a], [81 Stat. 19][/us/stat/81/19], which enumerated financial provisions applicable to the Authority, was omitted in the general revision of the United States Housing Act of 1937 by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]. Subsec. (b) of this section, which provided that section 5 of former title 41 not apply to contracts for services or to purchases of supplies except when the aggregate amount involved was less than $300, was repealed by [act Oct. 31, 1951, ch. 654, § 1(112)][/us/act/1951-10-31/ch654/s1/112], [65 Stat. 705][/us/stat/65/705].
-
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_ch8.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1404a)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1401...1404.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1405 _us_usc_t42_s1406.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1404a)
 
 ----------
 ----------
@@ -62,12 +56,12 @@
 [/us/stat/62/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1284
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/90/19/s5/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs5%2Fd%2F4
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F21
-[/us/pl/100/242/s570/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fa%2F2
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1949
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/act/1940-06-28/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch440
@@ -78,23 +72,5 @@
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/act/1937-09-01/ch896/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896%2Fs5
-[/us/stat/50/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F890
-[/us/pl/90/19/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs2%2Fd
-[/us/stat/81/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F20
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
-[/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
-[/us/act/1937-09-01/ch896/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896%2Fs6
-[/us/stat/50/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F890
-[/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/stat/63/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F429
-[/us/act/1951-10-31/ch654/s1/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F112
-[/us/stat/65/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F705
-[/us/pl/90/19/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs2%2Fa
-[/us/stat/81/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F19
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
-[/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
-[/us/act/1951-10-31/ch654/s1/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F112
-[/us/stat/65/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F705
 
 

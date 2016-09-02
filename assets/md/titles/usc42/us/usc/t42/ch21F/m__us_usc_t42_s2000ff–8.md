@@ -77,7 +77,7 @@
 
         With respect to a group health plan, or a health insurance issuer offering group health insurance coverage in connection with a group health plan, this chapter does not prohibit any activity of such plan or issuer that is authorized for the plan or issuer under any provision of law referred to in clauses (i) through (iv) of subsection (a)(2)(B).
 
-([Pub. L. 110–233, title II, § 209][/us/pl/110/233/s209], May 21, 2008, [122 Stat. 918][/us/stat/122/918].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 209, May 21, 2008, [122 Stat. 918][/us/stat/122/918].)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 
     Title I, referred to in subsecs. (a)(2)(B)(i) and (c), means title I of [Pub. L. 110–233][/us/pl/110/233]. For complete classification of title I to the Code, see Tables.
 
-    Section 2701 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(iii)(I), is section 2701 of act July 1, 1944, which was classified to [section 300gg of this title][/us/usc/t42/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3]. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t42/s300gg].
+    Section 2701 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(iii)(I), is section 2701 of act July 1, 1944, which was classified to [section 300gg of this title][/us/usc/t42/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3]. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t42/s300gg].
 
-    Section 2702 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(iii)(II), (III), is section 2702 of act July 1, 1944, which was classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1], was amended by [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and was transferred to subsecs. (d) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4], effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1].
+    Section 2702 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(iii)(II), (III), is section 2702 of act July 1, 1944, which was classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1], was amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(3), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and was transferred to subsecs. (d) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4], effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1].
 
 ----------
 
@@ -107,7 +107,7 @@
 [/us/usc/t26/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9801
 [/us/usc/t26/s9802/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9802%2Fa%2F1%2FF
 [/us/usc/t26/s9802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9802%2Fb%2F1
-[/us/pl/110/233/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs209
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F918
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
@@ -117,17 +117,17 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F155
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
-[/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F156
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
 

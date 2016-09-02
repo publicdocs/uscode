@@ -55,7 +55,7 @@
 
         For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see [section 1320b–17 of this title][/us/usc/t42/s1320b–17].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 808, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1850][/us/stat/113/1850]; amended [Pub. L. 108–203, title II, § 210(b)(2)][/us/pl/108/203/s210/b/2], Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 808, as added [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(a), Dec. 14, 1999, [113 Stat. 1850][/us/stat/113/1850]; amended [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 210(b)(2), Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517].)
 
  __Prior Provisions__ 
 
@@ -63,15 +63,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–203, § 210(b)(2)(A)][/us/pl/108/203/s210/b/2/A], substituted “any payment” for “any payment—”, struck out “(A)” before “under this subchapter”, substituted “[section 3720A of title 31][/us/usc/t31/s3720A].” for “[section 3720A of title 31][/us/usc/t31/s3720A]; or”, and struck out subpar. (B) which read as follows: “under subchapter II of this chapter to recover the amount in excess of the correct amount, if the person is not currently eligible for payment under this subchapter.”
+    2004—Subsec. (a)(1). [Pub. L. 108–203][/us/pl/108/203], § 210(b)(2)(A), substituted “any payment” for “any payment—”, struck out “(A)” before “under this subchapter”, substituted “[section 3720A of title 31][/us/usc/t31/s3720A].” for “[section 3720A of title 31][/us/usc/t31/s3720A]; or”, and struck out subpar. (B) which read as follows: “under subchapter II of this chapter to recover the amount in excess of the correct amount, if the person is not currently eligible for payment under this subchapter.”
 
-    Subsec. (b) to (d). [Pub. L. 108–203, § 210(b)(2)(B)][/us/pl/108/203/s210/b/2/B], redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out heading and text of subsec. (b). Text read as follows: “In any case in which the Commissioner of Social Security takes action in accordance with subsection (a)(1)(B) of this section to recover an amount incorrectly paid to an individual, that individual shall not, as a result of such action—
+    Subsec. (b) to (d). [Pub. L. 108–203][/us/pl/108/203], § 210(b)(2)(B), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out heading and text of subsec. (b). Text read as follows: “In any case in which the Commissioner of Social Security takes action in accordance with subsection (a)(1)(B) of this section to recover an amount incorrectly paid to an individual, that individual shall not, as a result of such action—
 
     “(1) become qualified for benefits under this subchapter; or
 
     “(2) if such individual is otherwise so qualified, become qualified for increased benefits under this subchapter.”
 
-    Subsec. (e). [Pub. L. 108–203, § 210(b)(2)(B)][/us/pl/108/203/s210/b/2/B], (C), added subsec. (e) and redesignated former subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 108–203][/us/pl/108/203], § 210(b)(2)(B), (C), added subsec. (e) and redesignated former subsec. (e) as (d).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -88,16 +88,16 @@
 [/us/usc/t42/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1007
 [/us/usc/t42/s1320b–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9317
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/169/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1850
-[/us/pl/108/203/s210/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fb%2F2
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F517
 [/us/usc/t42/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1001
-[/us/pl/108/203/s210/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fb%2F2%2FA
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/usc/t31/s3720A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720A
 [/us/usc/t31/s3720A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720A
-[/us/pl/108/203/s210/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fb%2F2%2FB
-[/us/pl/108/203/s210/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fb%2F2%2FB
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/108/203/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fc
 [/us/usc/t42/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404

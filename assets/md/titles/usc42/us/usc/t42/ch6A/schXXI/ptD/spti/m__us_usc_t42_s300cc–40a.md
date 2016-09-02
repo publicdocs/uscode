@@ -33,15 +33,15 @@
 
         (3) health advocates.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2351A, as added [Pub. L. 110–293, title II, § 203(b)][/us/pl/110/293/s203/b], July 30, 2008, [122 Stat. 2940][/us/stat/122/2940].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2351A, as added [Pub. L. 110–293, title II][/us/pl/110/293/tII], § 203(b), July 30, 2008, [122 Stat. 2940][/us/stat/122/2940].)
 
  __Prior Provisions__ 
 
-    A prior section 300cc–40a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2352, as added [Pub. L. 103–43, title XVIII, § 1801(a)(3)][/us/pl/103/43/s1801/a/3], June 10, 1993, [107 Stat. 193][/us/stat/107/193], which required the establishment of an advisory council and coordinating committees, was transferred to [section 300cc–40b of this title][/us/usc/t42/s300cc–40b].
+    A prior section 300cc–40a, [act July 1, 1944, ch. 373, title XXIII][/us/act/1944-07-01/ch373/tXXIII], § 2352, as added [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1801(a)(3), June 10, 1993, [107 Stat. 193][/us/stat/107/193], which required the establishment of an advisory council and coordinating committees, was transferred to [section 300cc–40b of this title][/us/usc/t42/s300cc–40b].
 
  __Sense of Congress__ 
 
-[Pub. L. 110–293, title II, § 203(a)][/us/pl/110/293/s203/a], July 30, 2008, [122 Stat. 2940][/us/stat/122/2940], provided that: 
+[Pub. L. 110–293, title II][/us/pl/110/293/tII], § 203(a), July 30, 2008, [122 Stat. 2940][/us/stat/122/2940], provided that: 
 
 > “Congress recognizes the need and urgency to expand the range of interventions for preventing the transmission of human immunodeficiency virus (HIV), including nonvaccine prevention methods that can be controlled by women.”
 
@@ -54,13 +54,13 @@
 
 [/us/usc/t42/s283/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/293/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs203%2Fb
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2940
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fa%2F3
+[/us/act/1944-07-01/ch373/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXIII
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F193
 [/us/usc/t42/s300cc–40b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%9340b
-[/us/pl/110/293/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs203%2Fa
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2940
 
 

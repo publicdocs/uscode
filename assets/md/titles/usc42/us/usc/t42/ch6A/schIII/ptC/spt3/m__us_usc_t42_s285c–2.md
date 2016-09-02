@@ -39,7 +39,7 @@
 
         (2) establish programs of evaluation, planning, and dissemination of knowledge related to such research and training.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 428, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 842][/us/stat/99/842]; amended [Pub. L. 103–43, title XX, § 2008(b)(4)][/us/pl/103/43/s2008/b/4], June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 107–206, title I, § 804(c)][/us/pl/107/206/s804/c], Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 428, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 842][/us/stat/99/842]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(b)(4), June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 107–206, title I][/us/pl/107/206/tI], § 804(c), Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 
 [/us/usc/t42/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F842
-[/us/pl/103/43/s2008/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F4
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F211
-[/us/pl/107/206/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs804%2Fc
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F874
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43

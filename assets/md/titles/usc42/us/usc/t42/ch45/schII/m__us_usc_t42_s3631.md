@@ -31,17 +31,17 @@
 
     shall be fined under title 18 or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under title 18 or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under title 18 or imprisoned for any term of years or for life, or both.
 
-([Pub. L. 90–284, title IX, § 901][/us/pl/90/284/s901], Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; [Pub. L. 93–383, title VIII, § 808(b)(4)][/us/pl/93/383/s808/b/4], Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 100–430, § 9][/us/pl/100/430/s9], Sept. 13, 1988, [102 Stat. 1635][/us/stat/102/1635]; [Pub. L. 103–322, title XXXII, § 320103(e)][/us/pl/103/322/s320103/e], Sept. 13, 1994, [108 Stat. 2110][/us/stat/108/2110]; [Pub. L. 104–294, title VI, § 604(b)(15)][/us/pl/104/294/s604/b/15], (27), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507], 3508.)
+([Pub. L. 90–284, title IX][/us/pl/90/284/tIX], § 901, Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 808(b)(4), Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 100–430][/us/pl/100/430], § 9, Sept. 13, 1988, [102 Stat. 1635][/us/stat/102/1635]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320103(e), Sept. 13, 1994, [108 Stat. 2110][/us/stat/108/2110]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(15), (27), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507], 3508.)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294, § 604(b)(27)][/us/pl/104/294/s604/b/27], substituted “under title 18” for “under this title” wherever appearing in closing provisions.
+    1996—[Pub. L. 104–294][/us/pl/104/294], § 604(b)(27), substituted “under title 18” for “under this title” wherever appearing in closing provisions.
 
-    [Pub. L. 104–294, § 604(b)(15)][/us/pl/104/294/s604/b/15], made technical amendment to directory language of [Pub. L. 103–322, § 320103(e)][/us/pl/103/322/s320103/e]. See 1994 Amendment note below.
+    [Pub. L. 104–294][/us/pl/104/294], § 604(b)(15), made technical amendment to directory language of [Pub. L. 103–322][/us/pl/103/322], § 320103(e). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–322, § 320103(e)(1)][/us/pl/103/322/s320103/e/1], as amended by [Pub. L. 104–294, § 604(b)(15)][/us/pl/104/294/s604/b/15], which directed amendment in the caption by striking “bodily injury; death;”, could not be executed because the words “bodily injury; death;” do not appear in the section catchline in the original.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 320103(e)(1), as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(15), which directed amendment in the caption by striking “bodily injury; death;”, could not be executed because the words “bodily injury; death;” do not appear in the section catchline in the original.
 
-    [Pub. L. 103–322, § 320103(e)(2)][/us/pl/103/322/s320103/e/2]–(7), as amended by [Pub. L. 104–294, § 604(b)(15)][/us/pl/104/294/s604/b/15], in concluding provisions, substituted “under this title” for “not more than $1,000,” before “or imprisoned not more than one year”, inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results”, substituted “under this title” for “not more than $10,000,” before “or imprisoned not more than ten years”, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results”, substituted “fined under this title or imprisoned” for “subject to imprisonment” before “for any term of years”, and inserted “, or both” before period at end.
+    [Pub. L. 103–322][/us/pl/103/322], § 320103(e)(2)–(7), as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(15), in concluding provisions, substituted “under this title” for “not more than $1,000,” before “or imprisoned not more than one year”, inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results”, substituted “under this title” for “not more than $10,000,” before “or imprisoned not more than ten years”, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results”, substituted “fined under this title or imprisoned” for “subject to imprisonment” before “for any term of years”, and inserted “, or both” before period at end.
 
     1988—Cls. (a), (b)(1), (c). [Pub. L. 100–430][/us/pl/100/430] inserted “, handicap (as such term is defined in [section 3602 of this title][/us/usc/t42/s3602]), familial status (as such term is defined in [section 3602 of this title][/us/usc/t42/s3602]),” after “sex”.
 
@@ -72,23 +72,23 @@
 [/us/usc/t42/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3602
 [/us/usc/t42/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3602
 [/us/usc/t42/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3602
-[/us/pl/90/284/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs901
+[/us/pl/90/284/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtIX
 [/us/stat/82/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F89
-[/us/pl/93/383/s808/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs808%2Fb%2F4
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F729
-[/us/pl/100/430/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs9
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1635
-[/us/pl/103/322/s320103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fe
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2110
-[/us/pl/104/294/s604/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F15
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3507
-[/us/pl/104/294/s604/b/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F27
-[/us/pl/104/294/s604/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F15
-[/us/pl/103/322/s320103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fe
-[/us/pl/103/322/s320103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fe%2F1
-[/us/pl/104/294/s604/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F15
-[/us/pl/103/322/s320103/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fe%2F2
-[/us/pl/104/294/s604/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F15
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/usc/t42/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3602
 [/us/usc/t42/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3602

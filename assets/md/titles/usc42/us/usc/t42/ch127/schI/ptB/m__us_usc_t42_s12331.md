@@ -17,7 +17,7 @@
 
     It is the purpose of this part to encourage and assist State and local agencies to coordinate resources, reduce barriers to services, and develop new capacities to ensure that State and community services designed to serve children, youth, and families are more effective and comprehensive.
 
-([Pub. L. 101–501, title IX, § 925][/us/pl/101/501/s925], Nov. 3, 1990, [104 Stat. 1268][/us/stat/104/1268].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 925, Nov. 3, 1990, [104 Stat. 1268][/us/stat/104/1268].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs925
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1268
 
 

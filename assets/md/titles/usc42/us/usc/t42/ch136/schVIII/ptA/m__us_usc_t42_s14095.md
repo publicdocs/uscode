@@ -121,7 +121,7 @@
 
         Each participant desiring a scholarship or payment under this section shall submit an application as prescribed by the Director in such manner and accompanied by such information as the Director may reasonably require.
 
-([Pub. L. 103–322, title XX, § 200106][/us/pl/103/322/s200106], Sept. 13, 1994, [108 Stat. 2050][/us/stat/108/2050]; [Pub. L. 107–273, div. C, title I, § 11006(1)][/us/pl/107/273/s11006/1], Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200106, Sept. 13, 1994, [108 Stat. 2050][/us/stat/108/2050]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11006(1), Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817].)
 
  __Amendments__ 
 
@@ -136,9 +136,9 @@
 
 [/us/usc/t42/s14097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14097
 [/us/usc/t42/s14097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14097
-[/us/pl/103/322/s200106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200106
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2050
-[/us/pl/107/273/s11006/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11006%2F1
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1817
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 

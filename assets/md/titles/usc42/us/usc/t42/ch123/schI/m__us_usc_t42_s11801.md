@@ -41,7 +41,7 @@
 
     (8) to provide technical assistance to eligible organizations in planning and implementing drug abuse education, prevention, rehabilitation, and referral programs for youth who are members of gangs that commit drug-related crimes.
 
-([Pub. L. 100–690, title III, § 3501][/us/pl/100/690/s3501], Nov. 18, 1988, [102 Stat. 4254][/us/stat/102/4254]; [Pub. L. 102–132, § 1(a)][/us/pl/102/132/s1/a], Oct. 18, 1991, [105 Stat. 630][/us/stat/105/630].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3501, Nov. 18, 1988, [102 Stat. 4254][/us/stat/102/4254]; [Pub. L. 102–132][/us/pl/102/132], § 1(a), Oct. 18, 1991, [105 Stat. 630][/us/stat/105/630].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–132, § 3][/us/pl/102/132/s3], Oct. 18, 1991, [105 Stat. 631][/us/stat/105/631], provided that: 
+[Pub. L. 102–132][/us/pl/102/132], § 3, Oct. 18, 1991, [105 Stat. 631][/us/stat/105/631], provided that: 
 
 > “This Act \[enacting [section 11806 of this title][/us/usc/t42/s11806] and amending this section and sections 11805 and 11823 of this title\] shall take effect on October 1, 1991.”
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/pl/100/690/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3501
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4254
-[/us/pl/102/132/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132%2Fs1%2Fa
+[/us/pl/102/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132
 [/us/stat/105/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F630
 [/us/pl/102/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132
-[/us/pl/102/132/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132%2Fs3
+[/us/pl/102/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F132
 [/us/stat/105/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F631
 [/us/usc/t42/s11806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11806
 

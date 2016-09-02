@@ -75,11 +75,11 @@
 
         For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Service shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular or Reserve Corps of the Service.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 211, [58 Stat. 688][/us/stat/58/688]; [Feb. 28, 1948, ch. 83, § 7][/us/act/1948-02-28/ch83/s7], [62 Stat. 46][/us/stat/62/46]; [Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 521(d), [63 Stat. 835][/us/stat/63/835]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Apr. 27, 1956, ch. 211, § 5(a)][/us/act/1956-04-27/ch211/s5/a]–(c), [70 Stat. 117][/us/stat/70/117]; [Aug. 10, 1956, ch. 1041, § 5][/us/act/1956-08-10/ch1041/s5], [70A Stat. 620][/us/stat/70A/620]; [Pub. L. 86–415, § 4][/us/pl/86/415/s4], Apr. 8, 1960, [74 Stat. 33][/us/stat/74/33]; [Pub. L. 91–253, § 1][/us/pl/91/253/s1], May 14, 1970, [84 Stat. 216][/us/stat/84/216]; [Pub. L. 96–76, title III, § 308][/us/pl/96/76/s308], Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585]; [Pub. L. 96–342, title VIII, § 813(h)(2)][/us/pl/96/342/s813/h/2], Sept. 8, 1980, [94 Stat. 1110][/us/stat/94/1110]; [Pub. L. 97–25, title III, § 303(b)][/us/pl/97/25/s303/b], July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–35, title XXVII, § 2765(a)][/us/pl/97/35/s2765/a], Aug. 13, 1981, [95 Stat. 932][/us/stat/95/932]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 922(d), 923(f), Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642], 643; [Pub. L. 99–348, title II, § 207(b)][/us/pl/99/348/s207/b], July 1, 1986, [100 Stat. 702][/us/stat/100/702]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title III, § 304(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1464; [Pub. L. 114–92, div. A, title VI, § 631(c)(4)][/us/pl/114/92/s631/c/4], Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 211, [58 Stat. 688][/us/stat/58/688]; [Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 7, [62 Stat. 46][/us/stat/62/46]; [Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 521(d), [63 Stat. 835][/us/stat/63/835]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Apr. 27, 1956, ch. 211][/us/act/1956-04-27/ch211], § 5(a)–(c), [70 Stat. 117][/us/stat/70/117]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 5, [70A Stat. 620][/us/stat/70A/620]; [Pub. L. 86–415][/us/pl/86/415], § 4, Apr. 8, 1960, [74 Stat. 33][/us/stat/74/33]; [Pub. L. 91–253][/us/pl/91/253], § 1, May 14, 1970, [84 Stat. 216][/us/stat/84/216]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 308, Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(h)(2), Sept. 8, 1980, [94 Stat. 1110][/us/stat/94/1110]; [Pub. L. 97–25, title III][/us/pl/97/25/tIII], § 303(b), July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2765(a), Aug. 13, 1981, [95 Stat. 932][/us/stat/95/932]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], §§ 922(d), 923(f), Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642], 643; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 207(b), July 1, 1986, [100 Stat. 702][/us/stat/100/702]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title III, § 304(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1464; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 631(c)(4), Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845].)
 
  __Amendment of Subsection (a)(4)__ 
 
-    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 631(c)(4), 635, Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(4) of this section is amended as follows:
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], §§ 631(c)(4), 635, Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(4) of this section is amended as follows:
 
     (1) in the matter preceding subparagraph (A), by striking “at the rate of 2 ½ per centum of the basic pay of the highest grade held by him as such officer” and inserting “calculated by multiplying the retired pay base determined under [section 1406 of title 10][/us/usc/t10/s1406] by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph”;
 
@@ -91,31 +91,31 @@
 
  __Codification__ 
 
-    In subsec. (a)(4), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a)(4), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(4). [Pub. L. 114–92, § 631(c)(4)(A)][/us/pl/114/92/s631/c/4/A], substituted “calculated by multiplying the retired pay base determined under [section 1406 of title 10][/us/usc/t10/s1406] by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph” for “at the rate of 2½ per centum of the basic pay of the highest grade held by him as such officer”.
+    2015—Subsec. (a)(4). [Pub. L. 114–92][/us/pl/114/92], § 631(c)(4)(A), substituted “calculated by multiplying the retired pay base determined under [section 1406 of title 10][/us/usc/t10/s1406] by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph” for “at the rate of 2½ per centum of the basic pay of the highest grade held by him as such officer”.
 
-    Subsec. (a)(4)(E). [Pub. L. 114–92, § 631(c)(4)(B)][/us/pl/114/92/s631/c/4/B], added subpar. (E).
+    Subsec. (a)(4)(E). [Pub. L. 114–92][/us/pl/114/92], § 631(c)(4)(B), added subpar. (E).
 
     1990—Subsec. (d)(4). [Pub. L. 101–509][/us/pl/101/509] added par. (4).
 
     1986—Subsec. (a)(6). [Pub. L. 99–348][/us/pl/99/348] amended par. (6) generally. Prior to amendment, par. (6) read as follows: “In computing retired pay under paragraph (4) or (5) in the case of any commissioned officer who first became a member of a uniformed service on or after September 8, 1980, the monthly retired pay base computed under [section 1407(h) of title 10][/us/usc/t10/s1407/h] shall be used in lieu of using the basic pay of the highest grade held by him as such officer.”
 
-    1983—Subsec. (a)(7). [Pub. L. 98–94, § 922(d)][/us/pl/98/94/s922/d], added par. (7).
+    1983—Subsec. (a)(7). [Pub. L. 98–94][/us/pl/98/94], § 922(d), added par. (7).
 
-    Subsec. (e). [Pub. L. 98–94, § 923(f)][/us/pl/98/94/s923/f], substituted “each full month of service that is in addition to the number of full years of service credited to an officer is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year, and a part of a year that is less than six months is disregarded”.
+    Subsec. (e). [Pub. L. 98–94][/us/pl/98/94], § 923(f), substituted “each full month of service that is in addition to the number of full years of service credited to an officer is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year, and a part of a year that is less than six months is disregarded”.
 
     1981—Subsec. (a)(1). [Pub. L. 97–35][/us/pl/97/35] substituted “shall, if he applies for retirement, be retired on or after” for “shall be retired on”, and substituted provisions relating to involuntary retirement as a result of age, for provisions relating to inapplicability to the Surgeon General.
 
     [Pub. L. 97–25][/us/pl/97/25] inserted provision that this paragraph does not apply to Surgeon General.
 
-    1980—Subsec. (a)(4). [Pub. L. 96–342, § 813(h)(2)(A)][/us/pl/96/342/s813/h/2/A], substituted “Except as provided in paragraph (6), a” for “A”.
+    1980—Subsec. (a)(4). [Pub. L. 96–342][/us/pl/96/342], § 813(h)(2)(A), substituted “Except as provided in paragraph (6), a” for “A”.
 
-    Subsec. (a)(5). [Pub. L. 96–342, § 813(h)(2)(B)][/us/pl/96/342/s813/h/2/B], substituted “except as provided in paragraph (6), his” for “his”.
+    Subsec. (a)(5). [Pub. L. 96–342][/us/pl/96/342], § 813(h)(2)(B), substituted “except as provided in paragraph (6), his” for “his”.
 
-    Subsec. (a)(6). [Pub. L. 96–342, § 813(h)(2)(C)][/us/pl/96/342/s813/h/2/C], added par. (6).
+    Subsec. (a)(6). [Pub. L. 96–342][/us/pl/96/342], § 813(h)(2)(C), added par. (6).
 
     1979—Subsec. (e). [Pub. L. 96–76][/us/pl/96/76] struck out requirement respecting active service for purposes of credit.
 
@@ -151,7 +151,7 @@
 
  __Change of Name__ 
 
-    Senior Biomedical Research Service changed to Silvio O. Conte Senior Biomedical Research Service by [Pub. L. 103–43, title XX, § 2001][/us/pl/103/43/s2001], June 10, 1993, [107 Stat. 208][/us/stat/107/208]. See [section 237 of this title][/us/usc/t42/s237].
+    Senior Biomedical Research Service changed to Silvio O. Conte Senior Biomedical Research Service by [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2001, June 10, 1993, [107 Stat. 208][/us/stat/107/208]. See [section 237 of this title][/us/usc/t42/s237].
 
  __Effective Date of 2015 Amendment; Implementation__ 
 
@@ -171,13 +171,13 @@ Section 529 \[title III, § 304(c)\] of [Pub. L. 101–509][/us/pl/101/509] pr
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–253, § 2][/us/pl/91/253/s2], May 14, 1970, [84 Stat. 217][/us/stat/84/217], provided that: 
+[Pub. L. 91–253][/us/pl/91/253], § 2, May 14, 1970, [84 Stat. 217][/us/stat/84/217], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall apply in the case of retired pay for any period after the month in which this Act is enacted \[May 1970\].”
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–415, § 8(b)][/us/pl/86/415/s8/b], Apr. 8, 1960, [74 Stat. 36][/us/stat/74/36], provided that: 
+[Pub. L. 86–415][/us/pl/86/415], § 8(b), Apr. 8, 1960, [74 Stat. 36][/us/stat/74/36], provided that: 
 
 > “The amendment made by section 4 \[amending this section\] shall become effective on the date of enactment of this Act \[Apr. 8, 1960\] in the case of commissioned officers of the Regular Corps of the Public Health Service, and on July 1, 1960, in the case of commissioned officers of the Reserve Corps of the Public Health Service.”
 
@@ -187,7 +187,7 @@ Section 529 \[title III, § 304(c)\] of [Pub. L. 101–509][/us/pl/101/509] pr
 
  __Savings Provision__ 
 
-[Pub. L. 86–415, § 8(c)][/us/pl/86/415/s8/c], (d), Apr. 8, 1960, [74 Stat. 36][/us/stat/74/36], provided that:
+[Pub. L. 86–415][/us/pl/86/415], § 8(c), (d), Apr. 8, 1960, [74 Stat. 36][/us/stat/74/36], provided that:
 
 >     “(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act \[[42 U.S.C. 212][/us/usc/t42/s212]\], as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
 
@@ -221,58 +221,58 @@ Section 529 \[title III, § 304(c)\] of [Pub. L. 101–509][/us/pl/101/509] pr
 [/us/usc/t42/s211/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs211%2Fg%2F3
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F688
-[/us/act/1948-02-28/ch83/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs7
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F46
 [/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
 [/us/stat/63/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F835
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/act/1956-04-27/ch211/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211%2Fs5%2Fa
+[/us/act/1956-04-27/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211
 [/us/stat/70/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F117
-[/us/act/1956-08-10/ch1041/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs5
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F620
-[/us/pl/86/415/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs4
+[/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/stat/74/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F33
-[/us/pl/91/253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F253%2Fs1
+[/us/pl/91/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F253
 [/us/stat/84/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F216
-[/us/pl/96/76/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs308
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F585
-[/us/pl/96/342/s813/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fh%2F2
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1110
-[/us/pl/97/25/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs303%2Fb
+[/us/pl/97/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtIII
 [/us/stat/95/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F145
-[/us/pl/97/35/s2765/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2765%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F932
-[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F642
-[/us/pl/99/348/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs207%2Fb
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F702
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/114/92/s631/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F4
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F845
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F845
 [/us/usc/t10/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406
 [/us/usc/t10/s1409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409%2Fb
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/114/92/s631/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F4%2FA
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406
-[/us/pl/114/92/s631/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F4%2FB
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1407/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Fh
-[/us/pl/98/94/s922/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fd
-[/us/pl/98/94/s923/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Ff
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25
-[/us/pl/96/342/s813/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fh%2F2%2FA
-[/us/pl/96/342/s813/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fh%2F2%2FB
-[/us/pl/96/342/s813/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fh%2F2%2FC
+[/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
+[/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
+[/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
 [/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
 [/us/pl/91/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F253
 [/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
-[/us/pl/103/43/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2001
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F208
 [/us/usc/t42/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs237
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
@@ -286,12 +286,12 @@ Section 529 \[title III, § 304(c)\] of [Pub. L. 101–509][/us/pl/101/509] pr
 [/us/pl/98/94/s923/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Ff
 [/us/pl/98/94/s923/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fg
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
-[/us/pl/91/253/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F253%2Fs2
+[/us/pl/91/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F253
 [/us/stat/84/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F217
-[/us/pl/86/415/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs8%2Fb
+[/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/stat/74/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F36
 [/us/usc/t33/s854a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a
-[/us/pl/86/415/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs8%2Fc
+[/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/stat/74/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F36
 [/us/usc/t42/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212
 [/us/usc/t42/s212/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212%2Ff

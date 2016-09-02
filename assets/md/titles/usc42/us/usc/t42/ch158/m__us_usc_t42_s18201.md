@@ -53,7 +53,7 @@
 
         The term “violence” means actual violence and the risk or threat of violence.
 
-([Pub. L. 111–148, title X, § 10211][/us/pl/111/148/s10211], Mar. 23, 2010, [124 Stat. 931][/us/stat/124/931].)
+([Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10211, Mar. 23, 2010, [124 Stat. 931][/us/stat/124/931].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/111/148/s10211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10211
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F931
 
 

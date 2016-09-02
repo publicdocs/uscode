@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch92/schVII/ptE/m__us_usc_t42_s8451.md) | [Next](./../../../../../..//us/usc/t42/ch92/schVII/ptE/m__us_usc_t42_s8453.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8452)
 
-## § 8452. Repealed. [Pub. L. 97–375, title I, § 106(d)][/us/pl/97/375/s106/d], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]
+## § 8452. Repealed. [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 106(d), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]
 
-    Section, [Pub. L. 95–620, title VII, § 742][/us/pl/95/620/s742], Nov. 9, 1978, [92 Stat. 3341][/us/stat/92/3341], related to an investigation by the Secretary of the performance and competition of the coal industry, to be reported to Congress in interim reports with a final report to be submitted not later than eighteen months after Nov. 9, 1978.
+    Section, [Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 742, Nov. 9, 1978, [92 Stat. 3341][/us/stat/92/3341], related to an investigation by the Secretary of the performance and competition of the coal industry, to be reported to Congress in interim reports with a final report to be submitted not later than eighteen months after Nov. 9, 1978.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/97/375/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs106%2Fd
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/pl/95/620/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs742
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3341
 
 

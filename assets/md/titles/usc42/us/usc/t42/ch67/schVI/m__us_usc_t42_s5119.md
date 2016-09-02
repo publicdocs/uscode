@@ -69,7 +69,7 @@
 
         (2) Not later than 2 years after December 20, 1993, the Administrator shall submit a report to the Chairman of the Committee on the Judiciary of the Senate and the Chairman of the Committee on the Judiciary of the House of Representatives containing a description of and a summary of the results of the study conducted pursuant to paragraph (1).
 
-([Pub. L. 103–209, § 2][/us/pl/103/209/s2], Dec. 20, 1993, [107 Stat. 2490][/us/stat/107/2490]; [Pub. L. 103–322, title XXXII, § 320928(b)][/us/pl/103/322/s320928/b], (h), (i), Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132], 2133.)
+([Pub. L. 103–209][/us/pl/103/209], § 2, Dec. 20, 1993, [107 Stat. 2490][/us/stat/107/2490]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320928(b), (h), (i), Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132], 2133.)
 
  __References in Text__ 
 
@@ -77,11 +77,11 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 320928(b)][/us/pl/103/322/s320928/b], inserted at end “A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.”
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 320928(b), inserted at end “A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.”
 
-    Subsec. (b)(2)(A). [Pub. L. 103–322, § 320928(i)][/us/pl/103/322/s320928/i], substituted “5 years after” for “3 years after”.
+    Subsec. (b)(2)(A). [Pub. L. 103–322][/us/pl/103/322], § 320928(i), substituted “5 years after” for “3 years after”.
 
-    Subsec. (f)(2). [Pub. L. 103–322, § 320928(h)][/us/pl/103/322/s320928/h], substituted “2 years” for “1 year”.
+    Subsec. (f)(2). [Pub. L. 103–322][/us/pl/103/322], § 320928(h), substituted “2 years” for “1 year”.
 
  __Short Title__ 
 
@@ -89,7 +89,7 @@
 
  __Guidelines for Adoption of Safeguards by Care Providers and States for Protecting Children, the Elderly, or Individuals With Disabilities From Abuse__ 
 
-[Pub. L. 103–322, title XXXII, § 320928(g)][/us/pl/103/322/s320928/g], Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132], provided that:
+[Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320928(g), Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -110,19 +110,19 @@
 ----------
 ----------
 
-[/us/pl/103/209/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209%2Fs2
+[/us/pl/103/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209
 [/us/stat/107/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2490
-[/us/pl/103/322/s320928/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fb
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2132
 [/us/pl/103/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209
 [/us/stat/107/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2490
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
-[/us/pl/103/322/s320928/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fb
-[/us/pl/103/322/s320928/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fi
-[/us/pl/103/322/s320928/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fh
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209%2Fs1
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
-[/us/pl/103/322/s320928/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fg
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2132
 
 

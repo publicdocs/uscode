@@ -31,7 +31,7 @@
 
         Whenever the Secretary after reasonable notice and opportunity for hearing to any unit of local government or public care institution receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the unit of local government or public care institution that further assistance will not be made available to such unit of local government or public care institution under this part until he is satisfied that there is no longer any failure to comply. Until he is so satisfied, no further assistance shall be made to such unit of local government or public care institution under this part.
 
-([Pub. L. 94–163, title III, § 400E][/us/pl/94/163/s400E], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3252][/us/stat/92/3252].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400E, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3252][/us/stat/92/3252].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t42/s6372c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372c
-[/us/pl/94/163/s400E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400E
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3252
 
 

@@ -43,7 +43,7 @@
 
             (B) otherwise complies with the Interstate Compact on the Placement of Children as entered into by such other State.
 
-([Pub. L. 93–415, title II, § 299C][/us/pl/93/415/s299C], formerly § 294, as added [Pub. L. 100–690, title VII, § 7266(4)][/us/pl/100/690/s7266/4], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449]; renumbered § 299C, [Pub. L. 102–586, § 2(i)(1)(B)][/us/pl/102/586/s2/i/1/B], Nov. 4, 1992, [106 Stat. 5006][/us/stat/106/5006]; [Pub. L. 107–273, div. C, title II, § 12215][/us/pl/107/273/s12215], Nov. 2, 2002, [116 Stat. 1892][/us/stat/116/1892].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 299C, formerly § 294, as added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7266(4), Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449]; renumbered § 299C, [Pub. L. 102–586][/us/pl/102/586], § 2(i)(1)(B), Nov. 4, 1992, [106 Stat. 5006][/us/stat/106/5006]; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12215, Nov. 2, 2002, [116 Stat. 1892][/us/stat/116/1892].)
 
  __Amendments__ 
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/93/415/s299C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs299C
-[/us/pl/100/690/s7266/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7266%2F4
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4449
-[/us/pl/102/586/s2/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fi%2F1%2FB
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5006
-[/us/pl/107/273/s12215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12215
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1892
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t42/s5633/a/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633%2Fa%2F10%2FD

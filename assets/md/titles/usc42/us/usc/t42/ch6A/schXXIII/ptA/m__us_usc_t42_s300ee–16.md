@@ -89,11 +89,11 @@
 
         For purposes of subsection (a)(5) of this section, the term “significant percentage” means at least a percentage of 1 percent of the number of reported cases of acquired immune deficiency syndrome in the United States.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2506, as added [Pub. L. 100–607, title II, § 221][/us/pl/100/607/s221], Nov. 4, 1988, [102 Stat. 3097][/us/stat/102/3097]; amended [Pub. L. 100–690, title II, § 2619(d)][/us/pl/100/690/s2619/d] \[(e)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93, § 5(e)(1)][/us/pl/101/93/s5/e/1], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2506, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 221, Nov. 4, 1988, [102 Stat. 3097][/us/stat/102/3097]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2619(d) \[(e)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93][/us/pl/101/93], § 5(e)(1), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
 
  __References in Text__ 
 
-    Sections 254b and 254c of this title, referred to in subsec. (a)(5)(A)(i), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+    Sections 254b and 254c of this title, referred to in subsec. (a)(5)(A)(i), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
  __Prior Provisions__ 
 
@@ -101,15 +101,15 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 2619(d)(1)][/us/pl/100/690/s2619/d/1] \[(e)(1)\], designated existing provisions as subsec. (a).
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 2619(d)(1) \[(e)(1)\], designated existing provisions as subsec. (a).
 
-    Subsec. (a)(5). [Pub. L. 100–690, § 2619(d)(2)][/us/pl/100/690/s2619/d/2] \[(e)(2)\], struck out concluding provisions which read as follows: “(For purposes of this section, the term ‘significant percentage’ means at least a percentage of 1 percent of the number of reported cases of such syndrome in the United States);”.
+    Subsec. (a)(5). [Pub. L. 100–690][/us/pl/100/690], § 2619(d)(2) \[(e)(2)\], struck out concluding provisions which read as follows: “(For purposes of this section, the term ‘significant percentage’ means at least a percentage of 1 percent of the number of reported cases of such syndrome in the United States);”.
 
-    Subsec. (a)(8). [Pub. L. 100–690, § 2619(d)(3)][/us/pl/100/690/s2619/d/3] \[(e)(3)\], substituted “funds from payments” for “funds from to payments” and struck out “and” after semicolon.
+    Subsec. (a)(8). [Pub. L. 100–690][/us/pl/100/690], § 2619(d)(3) \[(e)(3)\], substituted “funds from payments” for “funds from to payments” and struck out “and” after semicolon.
 
-    Subsec. (a)(9). [Pub. L. 100–690, § 2619(d)(4)][/us/pl/100/690/s2619/d/4] \[(e)(4)\], substituted “[section 300ee–18(e) of this title][/us/usc/t42/s300ee–18/e]” for “[section 300ee–19(e) of this title][/us/usc/t42/s300ee–19/e]”.
+    Subsec. (a)(9). [Pub. L. 100–690][/us/pl/100/690], § 2619(d)(4) \[(e)(4)\], substituted “[section 300ee–18(e) of this title][/us/usc/t42/s300ee–18/e]” for “[section 300ee–19(e) of this title][/us/usc/t42/s300ee–19/e]”.
 
-    Subsec. (b). [Pub. L. 100–690, § 2619(d)(5)][/us/pl/100/690/s2619/d/5] \[(e)(5)\], added subsec. (b).
+    Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 2619(d)(5) \[(e)(5)\], added subsec. (b).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -137,23 +137,23 @@
 [/us/usc/t42/s300ee–18/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9318%2Fe
 [/us/usc/t42/s300ee–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9311
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs221
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3097
-[/us/pl/100/690/s2619/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fd
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4243
-[/us/pl/101/93/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/usc/t42/s238e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238e
-[/us/pl/100/690/s2619/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fd%2F1
-[/us/pl/100/690/s2619/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fd%2F2
-[/us/pl/100/690/s2619/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fd%2F3
-[/us/pl/100/690/s2619/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fd%2F4
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s300ee–18/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9318%2Fe
 [/us/usc/t42/s300ee–19/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9319%2Fe
-[/us/pl/100/690/s2619/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Fd%2F5
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/100/690/s2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2600

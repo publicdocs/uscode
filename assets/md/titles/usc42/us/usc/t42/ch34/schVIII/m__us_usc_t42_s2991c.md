@@ -23,13 +23,13 @@
 
     (3) upon denial of a grant application, technical assistance to a potential grantee in revising a grant proposal.
 
-([Pub. L. 88–452, title VIII, § 804][/us/pl/88/452/s804], as added [Pub. L. 102–375, title VIII, § 822(4)][/us/pl/102/375/s822/4], Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 804, as added [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(4), Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
 
  __Prior Provisions__ 
 
-    A prior section 2991c, [Pub. L. 88–452, title VIII, § 804][/us/pl/88/452/s804], as added [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], authorized Secretary to provide technical assistance and training in developing, conducting, and administering projects under this subchapter and short-term in-service training for specialized personnel, prior to repeal by [Pub. L. 102–375, § 822(4)][/us/pl/102/375/s822/4].
+    A prior section 2991c, [Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 804, as added [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], authorized Secretary to provide technical assistance and training in developing, conducting, and administering projects under this subchapter and short-term in-service training for specialized personnel, prior to repeal by [Pub. L. 102–375][/us/pl/102/375], § 822(4).
 
-    Another prior section 2991c, [Pub. L. 88–452, title VIII, § 804][/us/pl/88/452/s804], as added [Pub. L. 89–794, title VIII, § 801][/us/pl/89/794/s801], Nov. 8, 1966, [80 Stat. 1473][/us/stat/80/1473]; amended [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224], provided for applicability of specified Federal laws, oath or affirmation, and status of volunteers as Federal employees and as persons employed in executive branch of Federal Government, prior to the general amendment of this subchapter by [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722].
+    Another prior section 2991c, [Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 804, as added [Pub. L. 89–794, title VIII][/us/pl/89/794/tVIII], § 801, Nov. 8, 1966, [80 Stat. 1473][/us/stat/80/1473]; amended [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224], provided for applicability of specified Federal laws, oath or affirmation, and status of volunteers as Federal employees and as persons employed in executive branch of Federal Government, prior to the general amendment of this subchapter by [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 110, Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722].
 
 ----------
 
@@ -38,19 +38,19 @@
 ----------
 ----------
 
-[/us/pl/88/452/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs804
-[/us/pl/102/375/s822/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F4
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1298
-[/us/pl/88/452/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs804
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2324
-[/us/pl/102/375/s822/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F4
-[/us/pl/88/452/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs804
-[/us/pl/89/794/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs801
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/89/794/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2FtVIII
 [/us/stat/80/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1473
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F224
-[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F722
 
 

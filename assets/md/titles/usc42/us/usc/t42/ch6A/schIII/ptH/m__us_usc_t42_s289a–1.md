@@ -105,7 +105,7 @@
 
             For purposes of this subsection, the term “ethical considerations” means considerations as to whether the nature of the research involved is such that it is unethical to conduct or support the research.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 492A, as added [Pub. L. 103–43, title I, § 101][/us/pl/103/43/s101], June 10, 1993, [107 Stat. 126][/us/stat/107/126]; amended [Pub. L. 109–482, title I, § 102(e)][/us/pl/109/482/s102/e], Jan. 15, 2007, [120 Stat. 3684][/us/stat/120/3684].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 492A, as added [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 101, June 10, 1993, [107 Stat. 126][/us/stat/107/126]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 102(e), Jan. 15, 2007, [120 Stat. 3684][/us/stat/120/3684].)
 
  __Amendments__ 
 
@@ -137,9 +137,9 @@
 [/us/usc/t42/s284a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a
 [/us/usc/t42/s282/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fk
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs101
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F126
-[/us/pl/109/482/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fe
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3684
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/usc/t42/s284a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a

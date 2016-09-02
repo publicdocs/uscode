@@ -41,7 +41,7 @@
 
         (2) Notwithstanding any other provision of law, a person enrolled for full-time service as a volunteer under subchapter I of this chapter who was otherwise entitled to receive assistance or services under any governmental program prior to such volunteer’s enrollment shall not be denied such assistance or services because of such volunteer’s failure or refusal to register for, seek, or accept employment or training during the period of such service.
 
-([Pub. L. 93–113, title IV, § 404][/us/pl/93/113/s404], Oct. 1, 1973, [87 Stat. 408][/us/stat/87/408]; [Pub. L. 96–143, § 9][/us/pl/96/143/s9], Dec. 13, 1979, [93 Stat. 1077][/us/stat/93/1077]; [Pub. L. 98–288, § 19][/us/pl/98/288/s19], May 21, 1984, [98 Stat. 195][/us/stat/98/195]; [Pub. L. 99–551, § 10(i)(7)][/us/pl/99/551/s10/i/7], Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 103–82, title III, § 364][/us/pl/103/82/s364], Sept. 21, 1993, [107 Stat. 908][/us/stat/107/908]; [Pub. L. 111–13, title II, § 2151][/us/pl/111/13/s2151], Apr. 21, 2009, [123 Stat. 1591][/us/stat/123/1591].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 404, Oct. 1, 1973, [87 Stat. 408][/us/stat/87/408]; [Pub. L. 96–143][/us/pl/96/143], § 9, Dec. 13, 1979, [93 Stat. 1077][/us/stat/93/1077]; [Pub. L. 98–288][/us/pl/98/288], § 19, May 21, 1984, [98 Stat. 195][/us/stat/98/195]; [Pub. L. 99–551][/us/pl/99/551], § 10(i)(7), Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 364, Sept. 21, 1993, [107 Stat. 908][/us/stat/107/908]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2151, Apr. 21, 2009, [123 Stat. 1591][/us/stat/123/1591].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
     2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13] inserted “or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 ([42 U.S.C. 12501][/us/usc/t42/s12501] et seq.)),” after “employed workers” in two places.
 
-    1993—Subsec. (c). [Pub. L. 103–82, § 364(1)][/us/pl/103/82/s364/1], inserted “from such volunteers or from beneficiaries” after “compensation”.
+    1993—Subsec. (c). [Pub. L. 103–82][/us/pl/103/82], § 364(1), inserted “from such volunteers or from beneficiaries” after “compensation”.
 
-    Subsecs. (f), (g). [Pub. L. 103–82, § 364(2)][/us/pl/103/82/s364/2], (3), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding any other provision of law, the Director shall assign or delegate any substantial responsibility for carrying out programs under this chapter only to persons appointed or employed pursuant to clauses (1) and (2) of [section 5042 of this title][/us/usc/t42/s5042], and persons assigned or delegated such substantial responsibilities on October 1, 1973, and who are receiving compensation in accordance with provisions of law other than the applicable provisions of title 5 on such date shall, by operation of law on such date, be assigned a grade level pursuant to such latter provisions so as to fix the compensation of such persons under such authority at no less than their compensation rate on the day preceding such date.”
+    Subsecs. (f), (g). [Pub. L. 103–82][/us/pl/103/82], § 364(2), (3), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding any other provision of law, the Director shall assign or delegate any substantial responsibility for carrying out programs under this chapter only to persons appointed or employed pursuant to clauses (1) and (2) of [section 5042 of this title][/us/usc/t42/s5042], and persons assigned or delegated such substantial responsibilities on October 1, 1973, and who are receiving compensation in accordance with provisions of law other than the applicable provisions of title 5 on such date shall, by operation of law on such date, be assigned a grade level pursuant to such latter provisions so as to fix the compensation of such persons under such authority at no less than their compensation rate on the day preceding such date.”
 
     1986—Subsec. (e). [Pub. L. 99–551][/us/pl/99/551] substituted “the Director” for “he” before “determines will”.
 
@@ -87,17 +87,17 @@
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/pl/93/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs404
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F408
-[/us/pl/96/143/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs9
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1077
-[/us/pl/98/288/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs19
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F195
-[/us/pl/99/551/s10/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs10%2Fi%2F7
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3078
-[/us/pl/103/82/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs364
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F908
-[/us/pl/111/13/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2151
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1591
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -110,8 +110,8 @@
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
-[/us/pl/103/82/s364/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs364%2F1
-[/us/pl/103/82/s364/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs364%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s5042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5042
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288

@@ -29,7 +29,7 @@
 
         For purposes of subsection (a) of this section, the term “domestic companies” means entities which are substantially involved in the United States in the domestic production of motor vehicles for sale in the United States and have a substantial percentage of their production facilities in the United States.
 
-([Pub. L. 102–486, title VI, § 623][/us/pl/102/486/s623], Oct. 24, 1992, [106 Stat. 2904][/us/stat/106/2904].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 623, Oct. 24, 1992, [106 Stat. 2904][/us/stat/106/2904].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/102/486/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs623
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2904
 
 

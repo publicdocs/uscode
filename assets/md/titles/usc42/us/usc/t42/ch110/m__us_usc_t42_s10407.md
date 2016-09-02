@@ -75,11 +75,11 @@
 
             The Secretary shall suspend funding for an approved application if the applicant fails to submit an annual performance report under [section 10406(d) of this title][/us/usc/t42/s10406/d], or if funds are expended for purposes other than those set forth in [section 10406(b) of this title][/us/usc/t42/s10406/b], after following the procedures set forth in paragraphs (1), (2), and (3).
 
-([Pub. L. 98–457, title III, § 307][/us/pl/98/457/s307], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3493][/us/stat/124/3493].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 307, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3493][/us/stat/124/3493].)
 
  __Prior Provisions__ 
 
-    A prior section 10407, [Pub. L. 98–457, title III, § 308][/us/pl/98/457/s308], Oct. 9, 1984, [98 Stat. 1761][/us/stat/98/1761]; [Pub. L. 102–295, title III, § 315][/us/pl/102/295/s315], May 28, 1992, [106 Stat. 204][/us/stat/106/204]; [Pub. L. 103–322, title IV, § 40272(b)][/us/pl/103/322/s40272/b], Sept. 13, 1994, [108 Stat. 1937][/us/stat/108/1937]; [Pub. L. 108–36, title IV, § 404][/us/pl/108/36/s404], June 25, 2003, [117 Stat. 826][/us/stat/117/826], related to information and technical assistance centers, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10410 of this title][/us/usc/t42/s10410].
+    A prior section 10407, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 308, Oct. 9, 1984, [98 Stat. 1761][/us/stat/98/1761]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 315, May 28, 1992, [106 Stat. 204][/us/stat/106/204]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40272(b), Sept. 13, 1994, [108 Stat. 1937][/us/stat/108/1937]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 404, June 25, 2003, [117 Stat. 826][/us/stat/117/826], related to information and technical assistance centers, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10410 of this title][/us/usc/t42/s10410].
 
     A prior [section 307 of Pub. L. 98–457][/us/pl/98/457/s307] was classified to [section 10406 of this title][/us/usc/t42/s10406] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -105,16 +105,16 @@
 [/us/usc/t42/s10411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10411
 [/us/usc/t42/s10406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fd
 [/us/usc/t42/s10406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fb
-[/us/pl/98/457/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs307
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3493
-[/us/pl/98/457/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs308
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1761
-[/us/pl/102/295/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs315
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F204
-[/us/pl/103/322/s40272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40272%2Fb
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1937
-[/us/pl/108/36/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs404
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F826
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s10410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10410

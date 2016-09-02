@@ -59,7 +59,7 @@
 
         (2) A person who, without authorization, knowingly obtains DNA samples or individually identifiable DNA information indexed in a database created or maintained by any Federal law enforcement agency shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both.
 
-([Pub. L. 103–322, title XXI, § 210305][/us/pl/103/322/s210305], Sept. 13, 1994, [108 Stat. 2070][/us/stat/108/2070]; [Pub. L. 106–546, § 8(c)][/us/pl/106/546/s8/c], Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735]; [Pub. L. 108–405, title II, § 203(e)(1)][/us/pl/108/405/s203/e/1], Oct. 30, 2004, [118 Stat. 2270][/us/stat/118/2270].)
+([Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210305, Sept. 13, 1994, [108 Stat. 2070][/us/stat/108/2070]; [Pub. L. 106–546][/us/pl/106/546], § 8(c), Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735]; [Pub. L. 108–405, title II][/us/pl/108/405/tII], § 203(e)(1), Oct. 30, 2004, [118 Stat. 2270][/us/stat/118/2270].)
 
  __Amendments__ 
 
@@ -75,11 +75,11 @@
 ----------
 
 [/us/usc/t42/s14131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14131
-[/us/pl/103/322/s210305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210305
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2070
-[/us/pl/106/546/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs8%2Fc
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2735
-[/us/pl/108/405/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fe%2F1
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2270
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 [/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546

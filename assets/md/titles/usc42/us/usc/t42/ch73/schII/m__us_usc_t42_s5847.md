@@ -31,7 +31,7 @@
 
         (4) A report of the results of the survey shall be published and transmitted to the Congress and the Council on Environmental Quality not later than one year from October 11, 1974, and shall be made available to the public, and shall be updated from time to time thereafter as the Commission, in its discretion, deems advisable. The report shall include the Commission’s evaluation of the results of the survey and any conclusions and recommendations, including recommendations for legislation, which the Commission may have concerning the feasibility and practicality of locating nuclear power reactors and/or other elements of the nuclear fuel cycle on nuclear energy center sites. The Commission is authorized to adopt policies which will encourage the location of nuclear power reactors and related fuel cycle facilities on nuclear energy center sites insofar as practicable.
 
-([Pub. L. 93–438, title II, § 207][/us/pl/93/438/s207], Oct. 11, 1974, [88 Stat. 1247][/us/stat/88/1247].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 207, Oct. 11, 1974, [88 Stat. 1247][/us/stat/88/1247].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs207
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
 [/us/stat/88/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1247
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841

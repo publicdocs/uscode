@@ -275,7 +275,7 @@
 
             For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
-([Pub. L. 99–499, title III, § 313][/us/pl/99/499/s313], Oct. 17, 1986, [100 Stat. 1741][/us/stat/100/1741].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 313, Oct. 17, 1986, [100 Stat. 1741][/us/stat/100/1741].)
 
  __Expediting Community Right-to-Know Initiatives__ 
 
@@ -312,7 +312,7 @@ So that consideration of these issues can be fully accomplished during this Admi
 [/us/usc/t42/s11044/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11044%2Fa
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/99/499/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs313
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1741
 [/us/usc/t42/s11001–110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11001%E2%80%93110
 [/us/usc/t42/s13101–131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13101%E2%80%93131

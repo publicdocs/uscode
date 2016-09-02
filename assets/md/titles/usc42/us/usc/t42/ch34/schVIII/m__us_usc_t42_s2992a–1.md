@@ -17,7 +17,7 @@
 
     In all personnel actions of the Administration, preference shall be given to individuals who are eligible for assistance under this subchapter. Such preference shall be implemented in the same fashion as the preference given to veterans referred to in [section 2108(3)(C) of title 5][/us/usc/t5/s2108/3/C]. The Commissioner shall take such additional actions as may be necessary to promote recruitment of such individuals for employment in the Administration.
 
-([Pub. L. 88–452, title VIII, § 812A][/us/pl/88/452/s812A], as added [Pub. L. 102–375, title VIII, § 822(13)][/us/pl/102/375/s822/13], Sept. 30, 1992, [106 Stat. 1299][/us/stat/106/1299].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 812A, as added [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(13), Sept. 30, 1992, [106 Stat. 1299][/us/stat/106/1299].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t5/s2108/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3%2FC
-[/us/pl/88/452/s812A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs812A
-[/us/pl/102/375/s822/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F13
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1299
 
 

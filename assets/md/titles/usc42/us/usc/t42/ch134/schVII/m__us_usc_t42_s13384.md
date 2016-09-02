@@ -23,7 +23,7 @@
 
     (3) Various Federal and voluntary incentives programs.
 
-([Pub. L. 102–486, title XVI, § 1604][/us/pl/102/486/s1604], Oct. 24, 1992, [106 Stat. 3002][/us/stat/106/3002].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1604, Oct. 24, 1992, [106 Stat. 3002][/us/stat/106/3002].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1604
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
 [/us/stat/106/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3002
 
 

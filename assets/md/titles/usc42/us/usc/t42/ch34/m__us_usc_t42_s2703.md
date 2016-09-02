@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
+[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702a _us_usc_t42_s2702b.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
 
-## § 2703. Repealed. [Pub. L. 93–644, § 16(b)][/us/pl/93/644/s16/b], Jan. 4, 1975, [88 Stat. 2330][/us/stat/88/2330]
+## § 2703. Repealed. [Pub. L. 93–644][/us/pl/93/644], § 16(b), Jan. 4, 1975, [88 Stat. 2330][/us/stat/88/2330]
 
-    Section, [Pub. L. 90–222, title III, § 301][/us/pl/90/222/s301], Dec. 23, 1967, [81 Stat. 728][/us/stat/81/728], set out criminal provisions covering operations of antipoverty agencies.
-
-----------
-
-[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
+    Section, [Pub. L. 90–222, title III][/us/pl/90/222/tIII], § 301, Dec. 23, 1967, [81 Stat. 728][/us/stat/81/728], set out criminal provisions covering operations of antipoverty agencies.
 
 ----------
+
+[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702a _us_usc_t42_s2702b.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
+
+----------
 ----------
 
-[/us/pl/93/644/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs16%2Fb
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2330
-[/us/pl/90/222/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs301
+[/us/pl/90/222/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtIII
 [/us/stat/81/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F728
 
 

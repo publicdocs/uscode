@@ -17,7 +17,7 @@
 
     The Secretary, in coordination with industry leaders in extended research drilling technology, shall establish a Complex Well Technology Testing Facility at the Rocky Mountain Oilfield Testing Center to increase the range of extended drilling technologies.
 
-([Pub. L. 109–58, title IX, § 967][/us/pl/109/58/s967], Aug. 8, 2005, [119 Stat. 894][/us/stat/119/894].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 967, Aug. 8, 2005, [119 Stat. 894][/us/stat/119/894].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs967
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F894
 
 

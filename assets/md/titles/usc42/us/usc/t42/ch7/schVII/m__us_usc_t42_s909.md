@@ -27,7 +27,7 @@
 
         For purposes of computing the “OASDI trust fund ratio” under section 401(l) of this title, the “OASDI fund ratio” under [section 415(i) of this title][/us/usc/t42/s415/i], and the “balance ratio” under [section 910(b) of this title][/us/usc/t42/s910/b], benefit checks delivered before the end of the month for which they are issued by reason of subsection (a) of this section shall be deemed to have been delivered on the regularly designated delivery date.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 708, as added [Pub. L. 95–216, title III, § 333(a)][/us/pl/95/216/s333/a], Dec. 20, 1977, [91 Stat. 1543][/us/stat/91/1543]; amended [Pub. L. 99–272, title XII, § 12111(a)][/us/pl/99/272/s12111/a], Apr. 7, 1986, [100 Stat. 287][/us/stat/100/287]; [Pub. L. 106–169, title II, § 251(b)(5)][/us/pl/106/169/s251/b/5], Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 708, as added [Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 333(a), Dec. 20, 1977, [91 Stat. 1543][/us/stat/91/1543]; amended [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12111(a), Apr. 7, 1986, [100 Stat. 287][/us/stat/100/287]; [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(b)(5), Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855].)
 
  __Amendments__ 
 
@@ -37,19 +37,19 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title XII, § 12111(c)][/us/pl/99/272/s12111/c], Apr. 7, 1986, [100 Stat. 288][/us/stat/100/288], provided that: 
+[Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12111(c), Apr. 7, 1986, [100 Stat. 288][/us/stat/100/288], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 86 of Title 26][/us/usc/t26/s86], Internal Revenue Code\] shall apply with respect to benefit checks issued for months ending after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
  __Effective Date__ 
 
-[Pub. L. 95–216, title III, § 333(b)][/us/pl/95/216/s333/b], Dec. 20, 1977, [91 Stat. 1544][/us/stat/91/1544], provided that: 
+[Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 333(b), Dec. 20, 1977, [91 Stat. 1544][/us/stat/91/1544], provided that: 
 
 > “The amendment made by subsection (a) of this section \[enacting this section\] shall apply with respect to benefit checks the regularly designated day for delivery of which occurs on or after the thirtieth day after the date of the enactment of this Act \[Dec. 20, 1977\].”
 
  __Timing of Delivery of__  __October 1, 2000__  __, SSI Benefit Payments__ 
 
-    [Pub. L. 105–33, title V, § 5527][/us/pl/105/33/s5527], Aug. 5, 1997, [111 Stat. 625][/us/stat/111/625], provided that, notwithstanding the provisions of [section 908(a) of this title][/us/usc/t42/s908/a], the day designated for delivery of benefit payments under subchapter XVI of this chapter for October 2000 would be the second day of that month, prior to repeal by [Pub. L. 106–246, div. B, title V, § 5105][/us/pl/106/246/s5105], July 13, 2000, [114 Stat. 582][/us/stat/114/582].
+    [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5527, Aug. 5, 1997, [111 Stat. 625][/us/stat/111/625], provided that, notwithstanding the provisions of [section 908(a) of this title][/us/usc/t42/s908/a], the day designated for delivery of benefit payments under subchapter XVI of this chapter for October 2000 would be the second day of that month, prior to repeal by [Pub. L. 106–246, div. B, title V][/us/pl/106/246/dB/tV], § 5105, July 13, 2000, [114 Stat. 582][/us/stat/114/582].
 
 ----------
 
@@ -62,23 +62,23 @@
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t42/s910/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs910%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/95/216/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs333%2Fa
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1543
-[/us/pl/99/272/s12111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12111%2Fa
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F287
-[/us/pl/106/169/s251/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F5
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1855
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/99/272/s12111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12111%2Fc
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F288
 [/us/usc/t26/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs86
-[/us/pl/95/216/s333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs333%2Fb
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1544
-[/us/pl/105/33/s5527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5527
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F625
 [/us/usc/t42/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs908%2Fa
-[/us/pl/106/246/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs5105
+[/us/pl/106/246/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtV
 [/us/stat/114/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F582
 
 

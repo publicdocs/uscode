@@ -17,7 +17,7 @@
 
     The President is authorized to delegate and assign any duties or powers imposed upon or assigned to him and to promulgate any regulations necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 96–510, title I, § 115][/us/pl/96/510/s115], Dec. 11, 1980, [94 Stat. 2796][/us/stat/94/2796].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 115, Dec. 11, 1980, [94 Stat. 2796][/us/stat/94/2796].)
 
  __Ex. Ord. No. 12580. Superfund Implementation__ 
 
@@ -212,7 +212,7 @@ By the authority vested in me as President of the United States of America by Se
 ----------
 ----------
 
-[/us/pl/96/510/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs115
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2796
 [/us/usc/t42/s9615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9615
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

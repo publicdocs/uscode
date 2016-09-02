@@ -91,7 +91,7 @@
 
         (C) the use of a health care provider’s hands or fingers and the use of instruments to perform body cavity searches in order to maintain security and safety within the prison or detention facility, provided that the search is conducted in a manner consistent with constitutional requirements.
 
-([Pub. L. 108–79, § 10][/us/pl/108/79/s10], Sept. 4, 2003, [117 Stat. 987][/us/stat/117/987].)
+([Pub. L. 108–79][/us/pl/108/79], § 10, Sept. 4, 2003, [117 Stat. 987][/us/stat/117/987].)
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/108/79/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs10
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F987
 
 

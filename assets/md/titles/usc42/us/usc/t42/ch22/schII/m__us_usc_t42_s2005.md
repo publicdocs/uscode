@@ -17,7 +17,7 @@
 
     Whenever the Surgeon General of the Public Health Service, in carrying out his functions under subchapter I of this chapter with respect to the provision of health services to Indians in any particular area, determines, after consultation with such Indians, that the provision of financial assistance to one or more public or other nonprofit agencies or organizations for the construction of a community hospital constitutes a method of making needed hospital facilities available for such Indians which is more desirable and effective than direct Federal construction, he may provide such financial assistance from funds available for the construction of Indian health facilities for such Indians.
 
-([Pub. L. 85–151, § 1][/us/pl/85/151/s1], Aug. 16, 1957, [71 Stat. 370][/us/stat/71/370].)
+([Pub. L. 85–151][/us/pl/85/151], § 1, Aug. 16, 1957, [71 Stat. 370][/us/stat/71/370].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/85/151/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151%2Fs1
+[/us/pl/85/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151
 [/us/stat/71/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F370
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

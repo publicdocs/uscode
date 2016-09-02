@@ -85,7 +85,7 @@
 
             (C) The term “household” shall be defined under rules of the Secretary.
 
-([Pub. L. 94–163, title III, § 322][/us/pl/94/163/s322], Dec. 22, 1975, [89 Stat. 918][/us/stat/89/918]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 100–12][/us/pl/100/12], §§ 3, 11(b)(1), Mar. 17, 1987, [101 Stat. 105][/us/stat/101/105], 125; [Pub. L. 100–357, § 2(b)][/us/pl/100/357/s2/b], June 28, 1988, [102 Stat. 672][/us/stat/102/672]; [Pub. L. 102–486, title I, § 123(c)][/us/pl/102/486/s123/c], Oct. 24, 1992, [106 Stat. 2821][/us/stat/106/2821]; [Pub. L. 105–388, § 5(a)(3)][/us/pl/105/388/s5/a/3], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 321(a)(2), 324(b), Dec. 19, 2007, [121 Stat. 1577][/us/stat/121/1577], 1593.)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 322, Dec. 22, 1975, [89 Stat. 918][/us/stat/89/918]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 100–12][/us/pl/100/12], §§ 3, 11(b)(1), Mar. 17, 1987, [101 Stat. 105][/us/stat/101/105], 125; [Pub. L. 100–357][/us/pl/100/357], § 2(b), June 28, 1988, [102 Stat. 672][/us/stat/102/672]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(c), Oct. 24, 1992, [106 Stat. 2821][/us/stat/106/2821]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(3), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 321(a)(2), 324(b), Dec. 19, 2007, [121 Stat. 1577][/us/stat/121/1577], 1593.)
 
  __References in Text__ 
 
@@ -93,9 +93,9 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(14). [Pub. L. 110–140, § 321(a)(2)][/us/pl/110/140/s321/a/2], inserted “, general service incandescent lamps,” after “fluorescent lamps”.
+    2007—Subsec. (a)(14). [Pub. L. 110–140][/us/pl/110/140], § 321(a)(2), inserted “, general service incandescent lamps,” after “fluorescent lamps”.
 
-    Subsec. (a)(19), (20). [Pub. L. 110–140, § 324(b)][/us/pl/110/140/s324/b], added par. (19) and redesignated former par. (19) as (20).
+    Subsec. (a)(19), (20). [Pub. L. 110–140][/us/pl/110/140], § 324(b), added par. (19) and redesignated former par. (19) as (20).
 
     1998—Subsec. (b)(2)(A). [Pub. L. 105–388][/us/pl/105/388] inserted closing quotation marks after “type of product”.
 
@@ -103,7 +103,7 @@
 
     1988—Subsec. (a)(13), (14). [Pub. L. 100–357][/us/pl/100/357] added par. (13) and redesignated former par. (13) as (14).
 
-    1987—Subsec. (a). [Pub. L. 100–12, § 3][/us/pl/100/12/s3], inserted heading and amended text generally. Prior to amendment, text read as follows: “A consumer product is a covered product if it is one of the following types (or is designed to perform a function which is the principal function of any of the following types):
+    1987—Subsec. (a). [Pub. L. 100–12][/us/pl/100/12], § 3, inserted heading and amended text generally. Prior to amendment, text read as follows: “A consumer product is a covered product if it is one of the following types (or is designed to perform a function which is the principal function of any of the following types):
 
     “(1) Refrigerators and refrigerator-freezers.
 
@@ -133,7 +133,7 @@
 
     “(14) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b) of this section.”
 
-    Subsec. (b). [Pub. L. 100–12, § 11(b)(1)][/us/pl/100/12/s11/b/1], inserted heading.
+    Subsec. (b). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(1), inserted heading.
 
     1978—Subsecs. (a)(14), (b)(1), (2)(C). [Pub. L. 95–619][/us/pl/95/619] substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
@@ -143,7 +143,7 @@
 
  __Energy Efficiency Labeling for Windows and Window Systems__ 
 
-[Pub. L. 102–486, title I, § 121][/us/pl/102/486/s121], Oct. 24, 1992, [106 Stat. 2805][/us/stat/106/2805], provided that:
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 121, Oct. 24, 1992, [106 Stat. 2805][/us/stat/106/2805], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -175,7 +175,7 @@
 
  __Energy Efficiency Information for Commercial Office Equipment__ 
 
-[Pub. L. 102–486, title I, § 125][/us/pl/102/486/s125], Oct. 24, 1992, [106 Stat. 2833][/us/stat/106/2833], provided that:
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 125, Oct. 24, 1992, [106 Stat. 2833][/us/stat/106/2833], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -209,7 +209,7 @@
 
  __Energy Efficiency Information for Luminaires__ 
 
-[Pub. L. 102–486, title I, § 126][/us/pl/102/486/s126], Oct. 24, 1992, [106 Stat. 2834][/us/stat/106/2834], provided that:
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 126, Oct. 24, 1992, [106 Stat. 2834][/us/stat/106/2834], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -243,7 +243,7 @@
 
  __Report on Potential of Cooperative Advanced Appliance Development__ 
 
-[Pub. L. 102–486, title I, § 127][/us/pl/102/486/s127], Oct. 24, 1992, [106 Stat. 2835][/us/stat/106/2835], provided that:
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 127, Oct. 24, 1992, [106 Stat. 2835][/us/stat/106/2835], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -277,7 +277,7 @@
 
  __Evaluation of Utility Early Replacement Programs for Appliances__ 
 
-[Pub. L. 102–486, title I, § 128][/us/pl/102/486/s128], Oct. 24, 1992, [106 Stat. 2836][/us/stat/106/2836], provided that: 
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 128, Oct. 24, 1992, [106 Stat. 2836][/us/stat/106/2836], provided that: 
 
 > “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[[42 U.S.C. 6292(a)][/us/usc/t42/s6292/a]\].”
 
@@ -288,55 +288,55 @@
 ----------
 ----------
 
-[/us/pl/94/163/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs322
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F918
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F105
-[/us/pl/100/357/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fb
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F672
-[/us/pl/102/486/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fc
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2821
-[/us/pl/105/388/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F3
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1577
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
-[/us/pl/110/140/s321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F2
-[/us/pl/110/140/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fb
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
-[/us/pl/100/12/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs3
-[/us/pl/100/12/s11/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F1
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/102/486/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs121
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2805
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292
-[/us/pl/102/486/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs125
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2833
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292
-[/us/pl/102/486/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs126
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2834
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292
-[/us/pl/102/486/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs127
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2835
-[/us/pl/102/486/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs128
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2836
 [/us/usc/t42/s6292/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292%2Fa
 

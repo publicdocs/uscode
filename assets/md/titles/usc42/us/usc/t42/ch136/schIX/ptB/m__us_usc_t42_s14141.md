@@ -23,7 +23,7 @@
 
         Whenever the Attorney General has reasonable cause to believe that a violation of paragraph (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (a) of this section”. </sup></sup>  has occurred, the Attorney General, for or in the name of the United States, may in a civil action obtain appropriate equitable and declaratory relief to eliminate the pattern or practice.
 
-([Pub. L. 103–322, title XXI, § 210401][/us/pl/103/322/s210401], Sept. 13, 1994, [108 Stat. 2071][/us/stat/108/2071].)
+([Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210401, Sept. 13, 1994, [108 Stat. 2071][/us/stat/108/2071].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s210401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210401
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2071
 
 

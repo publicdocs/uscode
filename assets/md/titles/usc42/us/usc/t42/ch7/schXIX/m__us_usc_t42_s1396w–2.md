@@ -55,11 +55,11 @@
 
         The limitations and requirements that apply to disclosure pursuant to this section shall not be construed to prohibit the conveyance or disclosure of data or information otherwise permitted under Federal law (without regard to this section).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1942, as added [Pub. L. 111–3, title II, § 203(d)(1)][/us/pl/111/3/s203/d/1], Feb. 4, 2009, [123 Stat. 47][/us/stat/123/47].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1942, as added [Pub. L. 111–3, title II][/us/pl/111/3/tII], § 203(d)(1), Feb. 4, 2009, [123 Stat. 47][/us/stat/123/47].)
 
  __Authorization for States Electing Express Lane Option To Receive Certain Data Directly Relevant to Determining Eligibility and Correct Amount of Assistance__ 
 
-[Pub. L. 111–3, title II, § 203(e)][/us/pl/111/3/s203/e], Feb. 4, 2009, [123 Stat. 49][/us/stat/123/49], provided that: 
+[Pub. L. 111–3, title II][/us/pl/111/3/tII], § 203(e), Feb. 4, 2009, [123 Stat. 49][/us/stat/123/49], provided that: 
 
 > “The Secretary shall enter into such agreements as are necessary to permit a State that elects the Express Lane option under section 1902(e)(13) of the Social Security Act \[[42 U.S.C. 1396a(e)(13)][/us/usc/t42/s1396a/e/13]\] to receive data directly relevant to eligibility determinations and determining the correct amount of benefits under a State child health plan under CHIP or a State plan under Medicaid from the following:
 
@@ -81,9 +81,9 @@
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/3/s203/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs203%2Fd%2F1
+[/us/pl/111/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtII
 [/us/stat/123/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F47
-[/us/pl/111/3/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs203%2Fe
+[/us/pl/111/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtII
 [/us/stat/123/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F49
 [/us/usc/t42/s1396a/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fe%2F13
 [/us/usc/t42/s653/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653%2Fi

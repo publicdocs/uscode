@@ -35,11 +35,11 @@
 
         The provisions of this section shall not apply with respect to benefits on account of any injury or death occurring within any State.
 
-([Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title I, § 104, [56 Stat. 1031][/us/stat/56/1031]; [Pub. L. 85–608, title I, § 104][/us/pl/85/608/s104], Aug. 8, 1958, [72 Stat. 537][/us/stat/72/537]; [Pub. L. 86–70, § 42(b)][/us/pl/86/70/s42/b], June 25, 1959, [73 Stat. 151][/us/stat/73/151].)
+([Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title I, § 104, [56 Stat. 1031][/us/stat/56/1031]; [Pub. L. 85–608, title I][/us/pl/85/608/tI], § 104, Aug. 8, 1958, [72 Stat. 537][/us/stat/72/537]; [Pub. L. 86–70][/us/pl/86/70], § 42(b), June 25, 1959, [73 Stat. 151][/us/stat/73/151].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 8147 of title 5][/us/usc/t5/s8147]” substituted for “section 35 of such Act of September 7, 1916, as amended”, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a), “[section 8147 of title 5][/us/usc/t5/s8147]” substituted for “section 35 of such Act of September 7, 1916, as amended”, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -70,12 +70,12 @@
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
 [/us/act/1942-12-02/ch668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-02%2Fch668
 [/us/stat/56/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1031
-[/us/pl/85/608/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs104
+[/us/pl/85/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2FtI
 [/us/stat/72/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F537
-[/us/pl/86/70/s42/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs42%2Fb
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F151
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608

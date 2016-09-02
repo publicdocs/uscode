@@ -117,7 +117,7 @@
 
             Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to [section 292q of this title][/us/usc/t42/s292q] that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 722, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2012][/us/stat/106/2012]; amended [Pub. L. 103–43, title XX, § 2014(b)][/us/pl/103/43/s2014/b], June 10, 1993, [107 Stat. 215][/us/stat/107/215]; [Pub. L. 105–392, title I, § 134(a)][/us/pl/105/392/s134/a], (b)(1), Nov. 13, 1998, [112 Stat. 3577][/us/stat/112/3577], 3578.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 722, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2012][/us/stat/106/2012]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2014(b), June 10, 1993, [107 Stat. 215][/us/stat/107/215]; [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 134(a), (b)(1), Nov. 13, 1998, [112 Stat. 3577][/us/stat/112/3577], 3578.)
 
  __References in Text__ 
 
@@ -129,31 +129,31 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–392, § 134(a)(1)][/us/pl/105/392/s134/a/1], substituted “the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution).” for “the sum of—
+    1998—Subsec. (a)(1). [Pub. L. 105–392][/us/pl/105/392], § 134(a)(1), substituted “the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution).” for “the sum of—
 
     “(A) the cost of tuition for such year at such school, and
 
     “(B) $2,500.”
 
-    Subsec. (a)(2). [Pub. L. 105–392, § 134(a)(2)][/us/pl/105/392/s134/a/2], substituted “the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary” for “the amount $2,500 may, in the case of the third or fourth year of a student at school of medicine or osteopathic medicine, be increased to the extent necessary (including such $2,500)”.
+    Subsec. (a)(2). [Pub. L. 105–392][/us/pl/105/392], § 134(a)(2), substituted “the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary” for “the amount $2,500 may, in the case of the third or fourth year of a student at school of medicine or osteopathic medicine, be increased to the extent necessary (including such $2,500)”.
 
-    Subsec. (c). [Pub. L. 105–392, § 134(a)(3)][/us/pl/105/392/s134/a/3], in heading, substituted “repayment” for “ten-year” and, in introductory provisions, substituted “period of not less than 10 years nor more than 25 years, at the discretion of the institution, which begins” for “ten-year period which begins” and “such period” for “such ten-year period”.
+    Subsec. (c). [Pub. L. 105–392][/us/pl/105/392], § 134(a)(3), in heading, substituted “repayment” for “ten-year” and, in introductory provisions, substituted “period of not less than 10 years nor more than 25 years, at the discretion of the institution, which begins” for “ten-year period which begins” and “such period” for “such ten-year period”.
 
-    Subsec. (j). [Pub. L. 105–392, § 134(a)(4)][/us/pl/105/392/s134/a/4], substituted “$40” for “$15”.
+    Subsec. (j). [Pub. L. 105–392][/us/pl/105/392], § 134(a)(4), substituted “$40” for “$15”.
 
-    Subsec. (m). [Pub. L. 105–392, § 134(b)(1)][/us/pl/105/392/s134/b/1], added subsec. (m).
+    Subsec. (m). [Pub. L. 105–392][/us/pl/105/392], § 134(b)(1), added subsec. (m).
 
-    1993—Subsec. (a). [Pub. L. 103–43, § 2014(b)(1)][/us/pl/103/43/s2014/b/1], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Loans from a student loan fund (established under an agreement with a school under [section 292q of this title][/us/usc/t42/s292q]) may not exceed for any student for each school year (or its equivalent) the sum of—
+    1993—Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 2014(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Loans from a student loan fund (established under an agreement with a school under [section 292q of this title][/us/usc/t42/s292q]) may not exceed for any student for each school year (or its equivalent) the sum of—
 
     “(1) the cost of tuition for such year at such school, and
 
     “(2) $2,500.”
 
-    Subsec. (b)(2), (3). [Pub. L. 103–43, § 2014(b)(2)][/us/pl/103/43/s2014/b/2], redesignated par. (3) as (2) and struck out former par. (2), which read as follows: “who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and”.
+    Subsec. (b)(2), (3). [Pub. L. 103–43][/us/pl/103/43], § 2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: “who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and”.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–392, title I, § 134(b)(2)][/us/pl/105/392/s134/b/2], Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578], provided that: 
+[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 134(b)(2), Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to actions pending on or after the date of enactment of this Act \[Nov. 13, 1998\].”
 
@@ -172,26 +172,26 @@
 [/us/usc/t5/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2012
-[/us/pl/103/43/s2014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fb
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F215
-[/us/pl/105/392/s134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fa
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3577
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t42/s293b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293b
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/pl/105/392/s134/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fa%2F1
-[/us/pl/105/392/s134/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fa%2F2
-[/us/pl/105/392/s134/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fa%2F3
-[/us/pl/105/392/s134/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fa%2F4
-[/us/pl/105/392/s134/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fb%2F1
-[/us/pl/103/43/s2014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fb%2F1
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q
-[/us/pl/103/43/s2014/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fb%2F2
-[/us/pl/105/392/s134/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs134%2Fb%2F2
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3578
 
 

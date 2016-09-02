@@ -23,7 +23,7 @@
 
         Before the end of the 180-day period beginning on the date the first allocation of funds is made under [section 12747 of this title][/us/usc/t42/s12747], the Secretary shall submit to the Congress a report containing a description of the actions taken by each participating jurisdiction pursuant to subsection (a) of this section and such recommendations for administrative and legislative action as the Secretary may determine to be appropriate to carry out the purposes of such subsection.
 
-([Pub. L. 101–625, title II, § 281][/us/pl/101/625/s281], Nov. 28, 1990, [104 Stat. 4125][/us/stat/104/4125].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 281, Nov. 28, 1990, [104 Stat. 4125][/us/stat/104/4125].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s12747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747
-[/us/pl/101/625/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs281
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4125
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079

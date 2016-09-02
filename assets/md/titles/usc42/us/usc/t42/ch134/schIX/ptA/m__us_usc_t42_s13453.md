@@ -23,7 +23,7 @@
 
         Within 180 days after October 24, 1992, the Secretary shall solicit proposals for conducting activities under this section.
 
-([Pub. L. 102–486, title XXI, § 2103][/us/pl/102/486/s2103], Oct. 24, 1992, [106 Stat. 3069][/us/stat/106/3069].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2103, Oct. 24, 1992, [106 Stat. 3069][/us/stat/106/3069].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2103
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3069
 
 

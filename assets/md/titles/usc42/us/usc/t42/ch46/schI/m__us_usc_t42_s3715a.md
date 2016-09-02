@@ -49,7 +49,7 @@
 
             (B) subsections (b) and (c) of this section, the consolidation of operations shall be initiated not later than September 30, 2006, and shall be carried out by the Office of Administration, in consultation with the Chief Information Officer and the Office of Audit, Assessment, and Management.
 
-([Pub. L. 109–162, title XI, § 1162][/us/pl/109/162/s1162], Jan. 5, 2006, [119 Stat. 3118][/us/stat/119/3118].)
+([Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1162, Jan. 5, 2006, [119 Stat. 3118][/us/stat/119/3118].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/109/162/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1162
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3118
 
 

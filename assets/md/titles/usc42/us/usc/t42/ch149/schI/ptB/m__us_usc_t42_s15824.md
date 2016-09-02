@@ -45,7 +45,7 @@
 
         There are authorized to carry out this section such sums as are necessary for each of fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title I, § 127][/us/pl/109/58/s127], Aug. 8, 2005, [119 Stat. 619][/us/stat/119/619].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 127, Aug. 8, 2005, [119 Stat. 619][/us/stat/119/619].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs127
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F619
 
 

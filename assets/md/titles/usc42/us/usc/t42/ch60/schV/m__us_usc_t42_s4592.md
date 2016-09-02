@@ -19,7 +19,7 @@
 
     (b) The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of such recipients that are pertinent to the grants or contracts entered into under the provisions of this chapter under other than competitive bidding procedures.
 
-([Pub. L. 91–616, title VI, § 602][/us/pl/91/616/s602], formerly title V, § 502, Dec. 31, 1970, [84 Stat. 1854][/us/stat/84/1854], renumbered [Pub. L. 94–371, § 7][/us/pl/94/371/s7], July 26, 1976, [90 Stat. 1038][/us/stat/90/1038].)
+([Pub. L. 91–616, title VI][/us/pl/91/616/tVI], § 602, formerly title V, § 502, Dec. 31, 1970, [84 Stat. 1854][/us/stat/84/1854], renumbered [Pub. L. 94–371][/us/pl/94/371], § 7, July 26, 1976, [90 Stat. 1038][/us/stat/90/1038].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    [Pub. L. 94–371, § 7][/us/pl/94/371/s7], July 26, 1976, [90 Stat. 1038][/us/stat/90/1038], redesignated title V of [Pub. L. 91–616][/us/pl/91/616], which was classified to subchapter IV of this chapter, as title VI without renumbering the sections therein. [Section 502 of Pub. L. 91–616][/us/pl/91/616/s502] was renumbered 602, as the probable intent of Congress.
+    [Pub. L. 94–371][/us/pl/94/371], § 7, July 26, 1976, [90 Stat. 1038][/us/stat/90/1038], redesignated title V of [Pub. L. 91–616][/us/pl/91/616], which was classified to subchapter IV of this chapter, as title VI without renumbering the sections therein. [Section 502 of Pub. L. 91–616][/us/pl/91/616/s502] was renumbered 602, as the probable intent of Congress.
 
 ----------
 
@@ -36,14 +36,14 @@
 ----------
 ----------
 
-[/us/pl/91/616/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs602
+[/us/pl/91/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtVI
 [/us/stat/84/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1854
-[/us/pl/94/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs7
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1038
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/stat/84/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1848
 [/us/usc/t42/s4541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4541
-[/us/pl/94/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs7
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1038
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/pl/91/616/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs502

@@ -145,7 +145,7 @@
 
         This section shall apply only with respect to violations that occur on or after December, 15, 1989.
 
-([Pub. L. 89–174, § 12][/us/pl/89/174/s12], as added [Pub. L. 101–235, title I, § 103][/us/pl/101/235/s103], Dec. 15, 1989, [103 Stat. 1995][/us/stat/103/1995].)
+([Pub. L. 89–174][/us/pl/89/174], § 12, as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 103, Dec. 15, 1989, [103 Stat. 1995][/us/stat/103/1995].)
 
 ----------
 
@@ -155,8 +155,8 @@
 ----------
 
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/89/174/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs12
-[/us/pl/101/235/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs103
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1995
 
 

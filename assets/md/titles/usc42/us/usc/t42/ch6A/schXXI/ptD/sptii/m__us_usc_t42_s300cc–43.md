@@ -89,7 +89,7 @@
 
             Amounts appropriated for the Fund are available until expended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2356, as added [Pub. L. 103–43, title XVIII, § 1802][/us/pl/103/43/s1802], June 10, 1993, [107 Stat. 196][/us/stat/107/196]; amended [Pub. L. 109–482, title I, § 104(b)(2)(E)][/us/pl/109/482/s104/b/2/E], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2356, as added [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1802, June 10, 1993, [107 Stat. 196][/us/stat/107/196]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(2)(E), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 
  __Amendments__ 
 
@@ -108,9 +108,9 @@
 
 [/us/usc/t42/s300cc–40b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%9340b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1802
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F196
-[/us/pl/109/482/s104/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F2%2FE
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

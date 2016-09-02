@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_ch42_schIII.md) | [Next](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_s3442.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3441)
 
-## § 3441. Repealed. [Pub. L. 106–310, div. B, title XXXIV, § 3405(b)][/us/pl/106/310/s3405/b], Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221]
+## § 3441. Repealed. [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3405(b), Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221]
 
-    Section, [Pub. L. 89–793, title IV, § 401][/us/pl/89/793/s401], Nov. 8, 1966, [80 Stat. 1448][/us/stat/80/1448], related to establishment of outpatient services.
+    Section, [Pub. L. 89–793, title IV][/us/pl/89/793/tIV], § 401, Nov. 8, 1966, [80 Stat. 1448][/us/stat/80/1448], related to establishment of outpatient services.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/106/310/s3405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3405%2Fb
+[/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1221
-[/us/pl/89/793/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs401
+[/us/pl/89/793/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2FtIV
 [/us/stat/80/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1448
 
 

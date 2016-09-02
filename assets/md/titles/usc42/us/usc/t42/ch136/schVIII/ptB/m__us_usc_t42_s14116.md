@@ -49,7 +49,7 @@
 
         (9) contain assurances that the State will promote cooperative agreements with educational and law enforcement agencies to enhance law enforcement personnel recruitment efforts in institutions of higher education.
 
-([Pub. L. 103–322, title XX, § 200207][/us/pl/103/322/s200207], Sept. 13, 1994, [108 Stat. 2059][/us/stat/108/2059].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200207, Sept. 13, 1994, [108 Stat. 2059][/us/stat/108/2059].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s14112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14112
-[/us/pl/103/322/s200207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200207
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2059
 
 

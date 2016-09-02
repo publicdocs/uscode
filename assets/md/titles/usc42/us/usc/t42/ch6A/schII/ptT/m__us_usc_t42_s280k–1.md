@@ -35,7 +35,7 @@
 
         The Secretary shall utilize information generated from grantees under this section in planning and implementing the public education campaign under [section 280k of this title][/us/usc/t42/s280k].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399LL–1, as added [Pub. L. 111–148, title IV, § 4102(a)][/us/pl/111/148/s4102/a], Mar. 23, 2010, [124 Stat. 551][/us/stat/124/551].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399LL–1, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4102(a), Mar. 23, 2010, [124 Stat. 551][/us/stat/124/551].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
 [/us/usc/t42/s280k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280k
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4102%2Fa
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F551
 
 

@@ -45,7 +45,7 @@
 
         (2) There are hereby authorized to be appropriated to the Federal Old-Age and Survivors Insurance Trust Fund for each fiscal year (commencing with the fiscal year ending June 30, 1974) such sums as the Commissioner of Social Security deems necessary on account of additional administrative expenses resulting from the enactment of the provisions of subsection (a) of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1131, as added [Pub. L. 93–406, title II, § 1032][/us/pl/93/406/s1032], Sept. 2, 1974, [88 Stat. 947][/us/stat/88/947]; amended [Pub. L. 98–369, div. B, title VI, § 2663(e)(7)][/us/pl/98/369/s2663/e/7], July 18, 1984, [98 Stat. 1168][/us/stat/98/1168]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I, § 108(b)(11)][/us/pl/103/296/s108/b/11], Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1131, as added [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1032, Sept. 2, 1974, [88 Stat. 947][/us/stat/88/947]; amended [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(e)(7), July 18, 1984, [98 Stat. 1168][/us/stat/98/1168]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(b)(11), Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484].)
 
  __References in Text__ 
 
@@ -53,21 +53,21 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 108(b)(11)(A)][/us/pl/103/296/s108/b/11/A], (G), in closing provisions substituted “the Commissioner of Social Security shall transmit” for “he shall transmit”, “paragraph (1) or (2)” for “paragraph (1)”, “paragraph (3)” for “paragraph (2)”, “Commissioner of Social Security pursuant to” for “Secretary pursuant to”, and “paragraph (1), (2), or (3)(A)” for “paragraph (1) or (2)(A)”.
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(11)(A), (G), in closing provisions substituted “the Commissioner of Social Security shall transmit” for “he shall transmit”, “paragraph (1) or (2)” for “paragraph (1)”, “paragraph (3)” for “paragraph (2)”, “Commissioner of Social Security pursuant to” for “Secretary pursuant to”, and “paragraph (1), (2), or (3)(A)” for “paragraph (1) or (2)(A)”.
 
-    Subsec. (a)(1). [Pub. L. 103–296, § 108(b)(11)(A)][/us/pl/103/296/s108/b/11/A]–(D), substituted “Commissioner of Social Security” for “Secretary” in introductory provisions, inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the entitlement under [section 426 of this title][/us/usc/t42/s426] of any individual to hospital insurance benefits under part A of subchapter XVIII of this chapter, or”.
+    Subsec. (a)(1). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(11)(A)–(D), substituted “Commissioner of Social Security” for “Secretary” in introductory provisions, inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the entitlement under [section 426 of this title][/us/usc/t42/s426] of any individual to hospital insurance benefits under part A of subchapter XVIII of this chapter, or”.
 
-    Subsec. (a)(2). [Pub. L. 103–296, § 108(b)(11)(F)][/us/pl/103/296/s108/b/11/F], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(11)(F), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 103–296, § 108(b)(11)(A)][/us/pl/103/296/s108/b/11/A], (E), redesignated par. (2) as (3) and substituted “Commissioner of Social Security” for “Secretary” in introductory provisions and in subpar. (A).
+    Subsec. (a)(3). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(11)(A), (E), redesignated par. (2) as (3) and substituted “Commissioner of Social Security” for “Secretary” in introductory provisions and in subpar. (A).
 
-    Subsec. (b)(2). [Pub. L. 103–296, § 108(b)(11)(A)][/us/pl/103/296/s108/b/11/A], substituted “Commissioner of Social Security” for “Secretary”.
+    Subsec. (b)(2). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(11)(A), substituted “Commissioner of Social Security” for “Secretary”.
 
     1986—Subsec. (a)(2)(A). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 2663(e)(7)(B)][/us/pl/98/369/s2663/e/7/B], realigned margin of provisions following par. (2)(B).
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 2663(e)(7)(B), realigned margin of provisions following par. (2)(B).
 
-    Subsec. (a)(2)(B). [Pub. L. 98–369, § 2663(e)(7)(A)][/us/pl/98/369/s2663/e/7/A], substituted a comma for the period after “[section 404(d) of this title][/us/usc/t42/s404/d]”.
+    Subsec. (a)(2)(B). [Pub. L. 98–369][/us/pl/98/369], § 2663(e)(7)(A), substituted a comma for the period after “[section 404(d) of this title][/us/usc/t42/s404/d]”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -93,23 +93,23 @@
 [/us/usc/t42/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404%2Fd
 [/us/usc/t42/s401/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fg%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/406/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1032
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F947
-[/us/pl/98/369/s2663/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fe%2F7
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1168
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
-[/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/296/s108/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F11
-[/us/stat/108/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1484
-[/us/pl/103/296/s108/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F11%2FA
-[/us/pl/103/296/s108/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F11%2FA
-[/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
-[/us/pl/103/296/s108/b/11/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F11%2FF
-[/us/pl/103/296/s108/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F11%2FA
-[/us/pl/103/296/s108/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F11%2FA
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s2663/e/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fe%2F7%2FB
-[/us/pl/98/369/s2663/e/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fe%2F7%2FA
+[/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
+[/us/stat/108/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1484
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t42/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404%2Fd
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa

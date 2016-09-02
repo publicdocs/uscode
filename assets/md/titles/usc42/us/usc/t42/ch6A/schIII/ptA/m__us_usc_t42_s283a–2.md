@@ -27,7 +27,7 @@
 
             Each institution described in subsection (a) shall provide to each student submitting an application for a program of graduate study at such institution the information described in paragraphs (1) and (2) of such subsection with respect to the program or programs to which such student has applied.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403C, as added [Pub. L. 109–482, title I, § 104(a)(3)][/us/pl/109/482/s104/a/3], Jan. 15, 2007, [120 Stat. 3692][/us/stat/120/3692]; amended [Pub. L. 110–85, title XI, § 1104(5)][/us/pl/110/85/s1104/5], Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403C, as added [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(a)(3), Jan. 15, 2007, [120 Stat. 3692][/us/stat/120/3692]; amended [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1104(5), Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
 
  __Prior Provisions__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–85, § 1104(5)(A)][/us/pl/110/85/s1104/5/A], substituted “graduate students supported by the National Institutes of Health” for “each degree-granting program” in introductory provisions.
+    2007—Subsec. (a). [Pub. L. 110–85][/us/pl/110/85], § 1104(5)(A), substituted “graduate students supported by the National Institutes of Health” for “each degree-granting program” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 110–85, § 1104(5)(B)][/us/pl/110/85/s1104/5/B], inserted “such” after “percentage of”.
+    Subsec. (a)(1). [Pub. L. 110–85][/us/pl/110/85], § 1104(5)(B), inserted “such” after “percentage of”.
 
-    Subsec. (a)(2). [Pub. L. 110–85, § 1104(5)(C)][/us/pl/110/85/s1104/5/C], inserted “(not including any leaves of absence)” after “average time”.
+    Subsec. (a)(2). [Pub. L. 110–85][/us/pl/110/85], § 1104(5)(C), inserted “(not including any leaves of absence)” after “average time”.
 
  __Effective Date__ 
 
@@ -53,14 +53,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/482/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fa%2F3
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3692
-[/us/pl/110/85/s1104/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F5
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F975
 [/us/usc/t42/s283a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283a%E2%80%933
-[/us/pl/110/85/s1104/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F5%2FA
-[/us/pl/110/85/s1104/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F5%2FB
-[/us/pl/110/85/s1104/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F5%2FC
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 

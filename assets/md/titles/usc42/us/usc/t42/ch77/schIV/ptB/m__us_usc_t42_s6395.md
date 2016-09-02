@@ -51,13 +51,13 @@
 
             (F) [Section 6391 of this title][/us/usc/t42/s6391] (relating to prohibition on certain actions).
 
-([Pub. L. 94–163, title V, § 525][/us/pl/94/163/s525], Dec. 22, 1975, [89 Stat. 963][/us/stat/89/963].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 525, Dec. 22, 1975, [89 Stat. 963][/us/stat/89/963].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (d) and (e), was in the original “this Act”, meaning [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    [Section 6262 of this title][/us/usc/t42/s6262], referred to in subsec. (e)(2)(A), was repealed by [Pub. L. 106–469, title I, § 104(1)][/us/pl/106/469/s104/1], Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].
+    [Section 6262 of this title][/us/usc/t42/s6262], referred to in subsec. (e)(2)(A), was repealed by [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 104(1), Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033].
 
 ----------
 
@@ -77,13 +77,13 @@
 [/us/usc/t42/s6273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6273
 [/us/usc/t42/s6274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6274
 [/us/usc/t42/s6391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6391
-[/us/pl/94/163/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs525
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F963
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s6262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6262
-[/us/pl/106/469/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs104%2F1
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2033
 
 

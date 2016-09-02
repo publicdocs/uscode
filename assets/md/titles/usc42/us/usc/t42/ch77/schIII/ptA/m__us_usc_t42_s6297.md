@@ -215,59 +215,59 @@
 
         Any disclosure with respect to energy use, energy efficiency, or estimated annual operating cost which is required to be made under the provisions of this part shall not create an express or implied warranty under State or Federal law that such energy efficiency will be achieved or that such energy use or estimated annual operating cost will not be exceeded under conditions of actual use.
 
-([Pub. L. 94–163, title III, § 327][/us/pl/94/163/s327], Dec. 22, 1975, [89 Stat. 926][/us/stat/89/926]; [Pub. L. 95–619, title IV, § 424][/us/pl/95/619/s424], Nov. 9, 1978, [92 Stat. 3263][/us/stat/92/3263]; [Pub. L. 100–12, § 7][/us/pl/100/12/s7], Mar. 17, 1987, [101 Stat. 117][/us/stat/101/117]; [Pub. L. 100–357, § 2(f)][/us/pl/100/357/s2/f], June 28, 1988, [102 Stat. 674][/us/stat/102/674]; [Pub. L. 102–486, title I, § 123(h)][/us/pl/102/486/s123/h], Oct. 24, 1992, [106 Stat. 2829][/us/stat/106/2829]; [Pub. L. 109–58, title I, § 135(d)][/us/pl/109/58/s135/d], Aug. 8, 2005, [119 Stat. 634][/us/stat/119/634]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 321(d), 324(f), Dec. 19, 2007, [121 Stat. 1585][/us/stat/121/1585], 1594; [Pub. L. 112–210, § 10(a)(9)][/us/pl/112/210/s10/a/9], Dec. 18, 2012, [126 Stat. 1524][/us/stat/126/1524].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 327, Dec. 22, 1975, [89 Stat. 926][/us/stat/89/926]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 424, Nov. 9, 1978, [92 Stat. 3263][/us/stat/92/3263]; [Pub. L. 100–12][/us/pl/100/12], § 7, Mar. 17, 1987, [101 Stat. 117][/us/stat/101/117]; [Pub. L. 100–357][/us/pl/100/357], § 2(f), June 28, 1988, [102 Stat. 674][/us/stat/102/674]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(h), Oct. 24, 1992, [106 Stat. 2829][/us/stat/106/2829]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 135(d), Aug. 8, 2005, [119 Stat. 634][/us/stat/119/634]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 321(d), 324(f), Dec. 19, 2007, [121 Stat. 1585][/us/stat/121/1585], 1594; [Pub. L. 112–210][/us/pl/112/210], § 10(a)(9), Dec. 18, 2012, [126 Stat. 1524][/us/stat/126/1524].)
 
  __Amendments__ 
 
     2012—Subsec. (b)(1)(B). [Pub. L. 112–210][/us/pl/112/210] inserted “and” after the semicolon in cl. (i), substituted a period for “; and” in cl. (ii), and struck out cl. (iii) which read as follows: “all other States may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards and effective dates.”
 
-    2007—Subsec. (b)(1). [Pub. L. 110–140, § 321(d)][/us/pl/110/140/s321/d], designated existing provisions as subpar. (A) and added subpar. (B).
+    2007—Subsec. (b)(1). [Pub. L. 110–140][/us/pl/110/140], § 321(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (c)(9). [Pub. L. 110–140, § 324(f)][/us/pl/110/140/s324/f], added par. (9).
+    Subsec. (c)(9). [Pub. L. 110–140][/us/pl/110/140], § 324(f), added par. (9).
 
     2005—Subsec. (c)(7), (8). [Pub. L. 109–58][/us/pl/109/58] added pars. (7) and (8).
 
-    1992—Subsec. (a)(1). [Pub. L. 102–486, § 123(h)(1)(A)][/us/pl/102/486/s123/h/1/A]–(C), in introductory provisions inserted “or water use” after “energy consumption”, in par. (A) inserted “, water use,” after “energy consumption”, and in par. (B) substituted “, energy efficiency, or water use” for “or energy efficiency”.
+    1992—Subsec. (a)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(1)(A)–(C), in introductory provisions inserted “or water use” after “energy consumption”, in par. (A) inserted “, water use,” after “energy consumption”, and in par. (B) substituted “, energy efficiency, or water use” for “or energy efficiency”.
 
-    Subsec. (a)(2). [Pub. L. 102–486, § 123(h)(1)(D)][/us/pl/102/486/s123/h/1/D], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘State regulation’ means a law, regulation, or other requirement of a State or its political subdivisions.”
+    Subsec. (a)(2). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(1)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘State regulation’ means a law, regulation, or other requirement of a State or its political subdivisions.”
 
-    Subsec. (b). [Pub. L. 102–486, § 123(h)(2)(A)][/us/pl/102/486/s123/h/2/A], substituted “, energy use, or water use of the covered product” for “or energy use of the covered product”.
+    Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(2)(A), substituted “, energy use, or water use of the covered product” for “or energy use of the covered product”.
 
-    Subsec. (b)(1). [Pub. L. 102–486, § 123(h)(2)(B)][/us/pl/102/486/s123/h/2/B], inserted before semicolon at end “, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992”.
+    Subsec. (b)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(2)(B), inserted before semicolon at end “, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992”.
 
-    Subsec. (b)(4). [Pub. L. 102–486, § 123(h)(2)(C)][/us/pl/102/486/s123/h/2/C], inserted before semicolon at end “, or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which [section 6295(i) of this title][/us/usc/t42/s6295/i] is applicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which [section 6295(j) of this title][/us/usc/t42/s6295/j] is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which [section 6295(k) of this title][/us/usc/t42/s6295/k] is applicable”.
+    Subsec. (b)(4). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(2)(C), inserted before semicolon at end “, or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which [section 6295(i) of this title][/us/usc/t42/s6295/i] is applicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which [section 6295(j) of this title][/us/usc/t42/s6295/j] is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which [section 6295(k) of this title][/us/usc/t42/s6295/k] is applicable”.
 
-    Subsec. (b)(7). [Pub. L. 102–486, § 123(h)(2)(D)][/us/pl/102/486/s123/h/2/D]–(F), added par. (7).
+    Subsec. (b)(7). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(2)(D)–(F), added par. (7).
 
-    Subsec. (c). [Pub. L. 102–486, § 123(h)(3)(A)][/us/pl/102/486/s123/h/3/A], inserted “, subparagraphs (B) and (C) of [section 6295(j)(3) of this title][/us/usc/t42/s6295/j/3], and subparagraphs (B) and (C) of [section 6295(k)(3) of this title][/us/usc/t42/s6295/k/3]” after “[section 6295(b)(3)(A)(ii) of this title][/us/usc/t42/s6295/b/3/A/ii]” and substituted “, energy use, or water use” for “or energy use”.
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(3)(A), inserted “, subparagraphs (B) and (C) of [section 6295(j)(3) of this title][/us/usc/t42/s6295/j/3], and subparagraphs (B) and (C) of [section 6295(k)(3) of this title][/us/usc/t42/s6295/k/3]” after “[section 6295(b)(3)(A)(ii) of this title][/us/usc/t42/s6295/b/3/A/ii]” and substituted “, energy use, or water use” for “or energy use”.
 
-    Subsec. (c)(1). [Pub. L. 102–486, § 123(h)(3)(B)][/us/pl/102/486/s123/h/3/B] inserted before semicolon at end “, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which [section 6295(i) of this title][/us/usc/t42/s6295/i] is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps”.
+    Subsec. (c)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(3)(B) inserted before semicolon at end “, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which [section 6295(i) of this title][/us/usc/t42/s6295/i] is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps”.
 
-    Subsec. (c)(4) to (6). [Pub. L. 102–486, § 123(h)(3)(C)][/us/pl/102/486/s123/h/3/C]–(E), added pars. (4) to (6).
+    Subsec. (c)(4) to (6). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(3)(C)–(E), added pars. (4) to (6).
 
-    Subsec. (d)(1)(A). [Pub. L. 102–486, § 123(h)(4)(A)][/us/pl/102/486/s123/h/4/A], inserted “or river basin commission” after “Any State” and substituted “, energy efficiency, or water use” for “or energy efficiency”.
+    Subsec. (d)(1)(A). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(4)(A), inserted “or river basin commission” after “Any State” and substituted “, energy efficiency, or water use” for “or energy efficiency”.
 
-    Subsec. (d)(1)(B). [Pub. L. 102–486, § 123(h)(4)(B)][/us/pl/102/486/s123/h/4/B], substituted “State or river basin commission has” for “State has” and inserted “or water” after “energy”.
+    Subsec. (d)(1)(B). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(4)(B), substituted “State or river basin commission has” for “State has” and inserted “or water” after “energy”.
 
-    Subsec. (d)(1)(C). [Pub. L. 102–486, § 123(h)(4)(C)][/us/pl/102/486/s123/h/4/C], in introductory provisions and cl. (ii) inserted “or water” after “energy” wherever appearing and in closing provisions inserted before period at end “, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development”.
+    Subsec. (d)(1)(C). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(4)(C), in introductory provisions and cl. (ii) inserted “or water” after “energy” wherever appearing and in closing provisions inserted before period at end “, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development”.
 
-    Subsec. (d)(5)(B)(i). [Pub. L. 102–486, § 123(h)(5)][/us/pl/102/486/s123/h/5], added cl. (i) and struck out former cl. (i) which read as follows: “an energy emergency condition exists within the State which—
+    Subsec. (d)(5)(B)(i). [Pub. L. 102–486][/us/pl/102/486], § 123(h)(5), added cl. (i) and struck out former cl. (i) which read as follows: “an energy emergency condition exists within the State which—
 
     “(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gas or electric energy to its residents at less than prohibitive costs; and
 
     “(II) cannot be substantially alleviated by the importation of energy or the use of interconnection agreements; and”.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–357, § 2(f)(1)][/us/pl/100/357/s2/f/1], inserted before semicolon “, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988”.
+    1988—Subsec. (b)(1). [Pub. L. 100–357][/us/pl/100/357], § 2(f)(1), inserted before semicolon “, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988”.
 
-    Subsec. (b)(4). [Pub. L. 100–357, § 2(f)(2)][/us/pl/100/357/s2/f/2], inserted before semicolon “, or is a regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of [section 6295(g) of this title][/us/usc/t42/s6295/g] is applicable”.
+    Subsec. (b)(4). [Pub. L. 100–357][/us/pl/100/357], § 2(f)(2), inserted before semicolon “, or is a regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of [section 6295(g) of this title][/us/usc/t42/s6295/g] is applicable”.
 
-    Subsec. (c)(1). [Pub. L. 100–357, § 2(f)(3)][/us/pl/100/357/s2/f/3], inserted before semicolon “, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of [section 6295(g) of this title][/us/usc/t42/s6295/g] is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts”.
+    Subsec. (c)(1). [Pub. L. 100–357][/us/pl/100/357], § 2(f)(3), inserted before semicolon “, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of [section 6295(g) of this title][/us/usc/t42/s6295/g] is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts”.
 
     1987—[Pub. L. 100–12][/us/pl/100/12] amended section generally, revising and restating as subsecs. (a) to (g) provisions formerly contained in subsecs. (a) to (e).
 
-    1978—Subsec. (a)(2). [Pub. L. 95–619, § 424(b)][/us/pl/95/619/s424/b], substituted “other requirement” for “similar requirement”.
+    1978—Subsec. (a)(2). [Pub. L. 95–619][/us/pl/95/619], § 424(b), substituted “other requirement” for “similar requirement”.
 
-    Subsec. (b). [Pub. L. 95–619, § 424(a)][/us/pl/95/619/s424/a], in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
+    Subsec. (b). [Pub. L. 95–619][/us/pl/95/619], § 424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -316,54 +316,54 @@
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/94/163/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs327
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F926
-[/us/pl/95/619/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs424
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3263
-[/us/pl/100/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs7
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F117
-[/us/pl/100/357/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Ff
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F674
-[/us/pl/102/486/s123/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2829
-[/us/pl/109/58/s135/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fd
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F634
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1585
-[/us/pl/112/210/s10/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F9
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1524
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
-[/us/pl/110/140/s321/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fd
-[/us/pl/110/140/s324/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Ff
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/102/486/s123/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F1%2FA
-[/us/pl/102/486/s123/h/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F1%2FD
-[/us/pl/102/486/s123/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F2%2FA
-[/us/pl/102/486/s123/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F2%2FB
-[/us/pl/102/486/s123/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F2%2FC
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s6295/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fi
 [/us/usc/t42/s6295/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fj
 [/us/usc/t42/s6295/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fk
-[/us/pl/102/486/s123/h/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F2%2FD
-[/us/pl/102/486/s123/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F3%2FA
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s6295/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fj%2F3
 [/us/usc/t42/s6295/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fk%2F3
 [/us/usc/t42/s6295/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fb%2F3%2FA%2Fii
-[/us/pl/102/486/s123/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F3%2FB
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s6295/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fi
-[/us/pl/102/486/s123/h/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F3%2FC
-[/us/pl/102/486/s123/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F4%2FA
-[/us/pl/102/486/s123/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F4%2FB
-[/us/pl/102/486/s123/h/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F4%2FC
-[/us/pl/102/486/s123/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fh%2F5
-[/us/pl/100/357/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Ff%2F1
-[/us/pl/100/357/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Ff%2F2
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/usc/t42/s6295/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fg
-[/us/pl/100/357/s2/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Ff%2F3
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/usc/t42/s6295/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fg
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
-[/us/pl/95/619/s424/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs424%2Fb
-[/us/pl/95/619/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs424%2Fa
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/112/210/s10/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F13

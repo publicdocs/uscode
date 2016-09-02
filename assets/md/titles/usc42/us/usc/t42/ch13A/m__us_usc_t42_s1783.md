@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated for any fiscal year such sums as may be necessary to the Secretary for the Secretary’s administrative expense under this chapter.
 
-([Pub. L. 89–642, § 14][/us/pl/89/642/s14], Oct. 11, 1966, [80 Stat. 889][/us/stat/80/889]; [Pub. L. 101–147, title III, § 324][/us/pl/101/147/s324], Nov. 10, 1989, [103 Stat. 917][/us/stat/103/917].)
+([Pub. L. 89–642][/us/pl/89/642], § 14, Oct. 11, 1966, [80 Stat. 889][/us/stat/80/889]; [Pub. L. 101–147, title III][/us/pl/101/147/tIII], § 324, Nov. 10, 1989, [103 Stat. 917][/us/stat/103/917].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/642/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs14
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F889
-[/us/pl/101/147/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs324
+[/us/pl/101/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtIII
 [/us/stat/103/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F917
 [/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
 

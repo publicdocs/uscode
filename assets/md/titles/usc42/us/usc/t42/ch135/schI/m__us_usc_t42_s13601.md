@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development shall require owners of federally assisted housing (as such term is defined in [section 13641(2) of this title][/us/usc/t42/s13641/2]), as a condition of receiving housing assistance for such housing, to comply with the procedures and requirements established under this subchapter.
 
-([Pub. L. 102–550, title VI, § 641][/us/pl/102/550/s641], Oct. 28, 1992, [106 Stat. 3820][/us/stat/106/3820].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 641, Oct. 28, 1992, [106 Stat. 3820][/us/stat/106/3820].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
-[/us/pl/102/550/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs641
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3820
 [/us/usc/t42/s13642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13642
 

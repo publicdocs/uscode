@@ -21,7 +21,7 @@
 
     (2) require that services for participants, when necessary and appropriate, be transferred from programs funded under this Act or the amendment made by this Act, respectively, to State and community-based programs not funded under this Act or the amendment made by this Act, respectively, before the expiration of the grant.
 
-([Pub. L. 110–199, § 6][/us/pl/110/199/s6], Apr. 9, 2008, [122 Stat. 660][/us/stat/122/660].)
+([Pub. L. 110–199][/us/pl/110/199], § 6, Apr. 9, 2008, [122 Stat. 660][/us/stat/122/660].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@ This Act, referred to in text, is [Pub. L. 110–199][/us/pl/110/199], Apr. 9, 2
 [/us/usc/t42/s17521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17521
 [/us/usc/t42/s17531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17531
 [/us/usc/t42/s17532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17532
-[/us/pl/110/199/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs6
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F660
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F657

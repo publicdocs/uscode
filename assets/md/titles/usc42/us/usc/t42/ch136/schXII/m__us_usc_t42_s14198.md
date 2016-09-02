@@ -17,7 +17,7 @@
 
     Not later than 2 years after the date on which the Commission is fully constituted under [section 14191 of this title][/us/usc/t42/s14191], the Commission shall submit a detailed report to the Congress and the President containing its findings and recommendations. The Commission shall terminate 30 days after the submission of its report.
 
-([Pub. L. 103–322, title XXVII, § 270008][/us/pl/103/322/s270008], Sept. 13, 1994, [108 Stat. 2095][/us/stat/108/2095].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270008, Sept. 13, 1994, [108 Stat. 2095][/us/stat/108/2095].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s14191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14191
-[/us/pl/103/322/s270008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270008
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2095
 
 

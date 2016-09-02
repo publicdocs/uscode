@@ -103,7 +103,7 @@
 
             Subsection (e) shall take effect on December 26, 2013.
 
-([Pub. L. 113–67, div. A, title II, § 203][/us/pl/113/67/s203], Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177].)
+([Pub. L. 113–67, div. A, title II][/us/pl/113/67/dA/tII], § 203, Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t42/s405/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fr
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/113/67/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs203
+[/us/pl/113/67/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtII
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
 
 

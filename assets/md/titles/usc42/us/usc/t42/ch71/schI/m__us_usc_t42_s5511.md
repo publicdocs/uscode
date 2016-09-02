@@ -37,11 +37,11 @@
 
         As used in subsection (a) of this section, the term “federally constructed housing” means (1) residential or multifamily housing which is constructed by agencies of the Federal Government to provide dwelling accommodations for particular types or classes of persons under programs administered by such Federal agencies (including all housing constructed by the Department of Defense to provide dwelling accommodations for personnel of the armed services or for such personnel and their families), and (2) residential or multifamily housing which is constructed by agencies of State or local government, with financial assistance in any form from the Federal Government, to provide dwelling accommodations for particular types or classes of persons under programs administered by such State or local agencies.
 
-([Pub. L. 93–409, § 13][/us/pl/93/409/s13], Sept. 3, 1974, [88 Stat. 1076][/us/stat/88/1076].)
+([Pub. L. 93–409][/us/pl/93/409], § 13, Sept. 3, 1974, [88 Stat. 1076][/us/stat/88/1076].)
 
  __References in Text__ 
 
-    [Section 1602(f) of title 15][/us/usc/t15/s1602/f], referred to in subsec. (b)(4), was redesignated [section 1602(g) of title 15][/us/usc/t15/s1602/g] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(f) of title 15][/us/usc/t15/s1602/f], referred to in subsec. (b)(4), was redesignated [section 1602(g) of title 15][/us/usc/t15/s1602/g] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
 ----------
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/93/409/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs13
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1076
 [/us/usc/t15/s1602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Ff
 [/us/usc/t15/s1602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fg
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 
 

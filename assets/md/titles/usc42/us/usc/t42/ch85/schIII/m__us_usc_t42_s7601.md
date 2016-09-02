@@ -63,7 +63,7 @@
 
         (5) Until such time as the Administrator promulgates regulations pursuant to this subsection, the Administrator may continue to provide financial assistance to eligible Indian tribes under [section 7405 of this title][/us/usc/t42/s7405].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 301, formerly § 8, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 400][/us/stat/77/400], renumbered [Pub. L. 89–272, title I, § 101(4)][/us/pl/89/272/s101/4], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 504][/us/stat/81/504]; [Pub. L. 91–604][/us/pl/91/604], §§ 3(b)(2), 15(c)(2), Dec. 31, 1970, [84 Stat. 1677][/us/stat/84/1677], 1713; [Pub. L. 95–95, title III, § 305(e)][/us/pl/95/95/s305/e], Aug. 7, 1977, [91 Stat. 776][/us/stat/91/776]; [Pub. L. 101–549, title I][/us/pl/101/549], §§ 107(d), 108(i), Nov. 15, 1990, [104 Stat. 2464][/us/stat/104/2464], 2467.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 301, formerly § 8, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 400][/us/stat/77/400], renumbered [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(4), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 504][/us/stat/81/504]; [Pub. L. 91–604][/us/pl/91/604], §§ 3(b)(2), 15(c)(2), Dec. 31, 1970, [84 Stat. 1677][/us/stat/84/1677], 1713; [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 305(e), Aug. 7, 1977, [91 Stat. 776][/us/stat/91/776]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], §§ 107(d), 108(i), Nov. 15, 1990, [104 Stat. 2464][/us/stat/104/2464], 2467.)
 
  __Codification__ 
 
@@ -71,17 +71,17 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1). [Pub. L. 101–549, § 108(i)][/us/pl/101/549/s108/i], inserted “subject to [section 7607(d) of this title][/us/usc/t42/s7607/d]” after “regulations”.
+    1990—Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 108(i), inserted “subject to [section 7607(d) of this title][/us/usc/t42/s7607/d]” after “regulations”.
 
-    Subsec. (d). [Pub. L. 101–549, § 107(d)][/us/pl/101/549/s107/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–549][/us/pl/101/549], § 107(d), added subsec. (d).
 
     1977—Subsec. (a). [Pub. L. 95–95][/us/pl/95/95] designated existing provisions as par. (1) and added par. (2).
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
 
-    Subsec. (b). [Pub. L. 91–604, § 3(b)(2)][/us/pl/91/604/s3/b/2], substituted “Environmental Protection Agency” for “Public Health Service” and struck out provisions covering the payment of salaries and allowances.
+    Subsec. (b). [Pub. L. 91–604][/us/pl/91/604], § 3(b)(2), substituted “Environmental Protection Agency” for “Public Health Service” and struck out provisions covering the payment of salaries and allowances.
 
-    Subsec. (c). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary”.
+    Subsec. (c). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary”.
 
     1967—[Pub. L. 90–148][/us/pl/90/148] reenacted section without change.
 
@@ -95,7 +95,7 @@
 
  __Disadvantaged Business Concerns; Use of Quotas Prohibited__ 
 
-[Pub. L. 101–549, title X][/us/pl/101/549], Nov. 15, 1990, [104 Stat. 2708][/us/stat/104/2708], provided that:
+[Pub. L. 101–549, title X][/us/pl/101/549/tX], Nov. 15, 1990, [104 Stat. 2708][/us/stat/104/2708], provided that:
 
 > “SEC. 1001. __DISADVANTAGED BUSINESS CONCERNS.__ 
 
@@ -172,26 +172,26 @@
 [/us/usc/t42/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7405
 [/us/usc/t42/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7405
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F400
-[/us/pl/89/272/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F4
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F504
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1677
-[/us/pl/95/95/s305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs305%2Fe
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F776
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2464
 [/us/usc/t42/s1857g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857g
-[/us/pl/101/549/s108/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fi
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7607/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7607%2Fd
-[/us/pl/101/549/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs107%2Fd
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs3%2Fb%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
@@ -200,7 +200,7 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fb
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtX
 [/us/stat/104/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2708
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221

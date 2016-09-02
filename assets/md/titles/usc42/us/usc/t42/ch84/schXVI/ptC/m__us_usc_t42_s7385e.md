@@ -21,7 +21,7 @@
 
     (2) shall not be included as income or resources for purposes of determining eligibility to receive benefits described in [section 3803(c)(2)(C) of title 31][/us/usc/t31/s3803/c/2/C] or the amount of such benefits.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3646\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–510; [Pub. L. 108–375, div. C, title XXXI, § 3162(e)][/us/pl/108/375/s3162/e], Oct. 28, 2004, [118 Stat. 2186][/us/stat/118/2186].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3646\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–510; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3162(e), Oct. 28, 2004, [118 Stat. 2186][/us/stat/118/2186].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t31/s3803/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fc%2F2%2FC
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s3162/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3162%2Fe
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2186
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

@@ -225,7 +225,7 @@
 
             The Comptroller General shall, not later than December 31 of each even-numbered year (beginning with 2014), report to the appropriate committees of the Congress the results of the study conducted under paragraph (1), including any recommendations for administrative or legislative changes the Comptroller General determines necessary or appropriate to increase competition in the health insurance market.
 
-([Pub. L. 111–148, title I, § 1322][/us/pl/111/148/s1322], title X, § 10104(l), Mar. 23, 2010, [124 Stat. 187][/us/stat/124/187], 902.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1322, title X, § 10104(l), Mar. 23, 2010, [124 Stat. 187][/us/stat/124/187], 902.)
 
  __References in Text__ 
 
@@ -243,11 +243,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(3), (4). [Pub. L. 111–148, § 10104][/us/pl/111/148/s10104](l), added par. (3) and redesignated former par. (3) as (4).
+    2010—Subsec. (b)(3), (4). [Pub. L. 111–148][/us/pl/111/148], § 10104(l), added par. (3) and redesignated former par. (3) as (4).
 
  __Consumer Operated and Oriented Plan Program Contingency Fund__ 
 
-[Pub. L. 112–240, title VI, § 644][/us/pl/112/240/s644], Jan. 2, 2013, [126 Stat. 2362][/us/stat/126/2362], provided that:
+[Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 644, Jan. 2, 2013, [126 Stat. 2362][/us/stat/126/2362], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -276,7 +276,7 @@
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/111/148/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1322
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F187
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -294,8 +294,8 @@
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
 [/us/pl/111/148/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1322
 [/us/pl/111/148/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1322
-[/us/pl/111/148/s10104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104
-[/us/pl/112/240/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs644
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2362
 [/us/usc/t42/s18042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18042
 [/us/usc/t42/s18042/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18042%2Fg

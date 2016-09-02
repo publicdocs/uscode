@@ -17,7 +17,7 @@
 
     This chapter shall not impair or affect the ability of a government officer or employee, pursuant to otherwise applicable law, to conduct searches and seizures at the borders of, or at international points of, entry into the United States in order to enforce the customs laws of the United States.
 
-([Pub. L. 96–440, title I, § 105][/us/pl/96/440/s105], Oct. 13, 1980, [94 Stat. 1880][/us/stat/94/1880].)
+([Pub. L. 96–440, title I][/us/pl/96/440/tI], § 105, Oct. 13, 1980, [94 Stat. 1880][/us/stat/94/1880].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/440/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs105
+[/us/pl/96/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2FtI
 [/us/stat/94/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1880
 
 

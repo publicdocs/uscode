@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 109–155, title III, § 321][/us/pl/109/155/s321], Dec. 30, 2005, [119 Stat. 2922][/us/stat/119/2922], which related to the George E. Brown, Jr. Near-Earth Object Survey, was transferred and is set out as a note preceding [section 71101 of Title 51][/us/usc/t51/s71101], National and Commercial Space Programs.
+    Section, [Pub. L. 109–155, title III][/us/pl/109/155/tIII], § 321, Dec. 30, 2005, [119 Stat. 2922][/us/stat/119/2922], which related to the George E. Brown, Jr. Near-Earth Object Survey, was transferred and is set out as a note preceding [section 71101 of Title 51][/us/usc/t51/s71101], National and Commercial Space Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/155/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs321
+[/us/pl/109/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtIII
 [/us/stat/119/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2922
 [/us/usc/t51/s71101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs71101
 

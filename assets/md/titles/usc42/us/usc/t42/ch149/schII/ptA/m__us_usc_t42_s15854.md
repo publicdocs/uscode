@@ -53,7 +53,7 @@
 
         There is authorized to be appropriated to carry out this section $36,000,000, to remain available until expended.
 
-([Pub. L. 109–58, title II, § 208][/us/pl/109/58/s208], Aug. 8, 2005, [119 Stat. 656][/us/stat/119/656].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 208, Aug. 8, 2005, [119 Stat. 656][/us/stat/119/656].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t7/s7272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7272
-[/us/pl/109/58/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs208
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F656
 
 

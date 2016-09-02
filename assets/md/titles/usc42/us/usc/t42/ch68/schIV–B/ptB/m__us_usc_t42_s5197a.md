@@ -37,11 +37,11 @@
 
         After appointment and qualification for office, the director of emergency preparedness of any State, and any subordinate emergency preparedness officer within such State designated by the director in writing, shall be qualified to administer any such oath within such State under such regulations as the director shall prescribe. Any person who shall be found guilty of having falsely taken such oath shall be punished as provided in [section 1621 of title 18][/us/usc/t18/s1621].
 
-([Pub. L. 93–288, title VI, § 622][/us/pl/93/288/s622], as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)][/us/pl/103/337/s3411/a/3], Oct. 5, 1994, [108 Stat. 3108][/us/stat/108/3108]; amended [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 622, as added [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(3), Oct. 5, 1994, [108 Stat. 3108][/us/stat/108/3108]; amended [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 2255 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2255 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 3412(a).
 
  __Amendments__ 
 
@@ -66,12 +66,12 @@
 
 [/us/usc/t42/s5197/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5197%2Fb
 [/us/usc/t18/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1621
-[/us/pl/93/288/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs622
-[/us/pl/103/337/s3411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F3
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3108
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
-[/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351

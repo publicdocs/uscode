@@ -43,7 +43,7 @@
 
         (6) the actual quantities acquired of products described in paragraph (5).
 
-([Pub. L. 102–486, title I, § 161][/us/pl/102/486/s161], Oct. 24, 1992, [106 Stat. 2858][/us/stat/106/2858]; [Pub. L. 104–66, title I, § 1052(c)][/us/pl/104/66/s1052/c], Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 161, Oct. 24, 1992, [106 Stat. 2858][/us/stat/106/2858]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(c), Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718].)
 
  __Codification__ 
 
@@ -71,9 +71,9 @@
 [/us/usc/t42/s8254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8254
 [/us/usc/t42/s8258/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fb
 [/us/usc/t12/s1701j–2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701j%E2%80%932%2Fh
-[/us/pl/102/486/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs161
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2858
-[/us/pl/104/66/s1052/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F718
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t42/s8258/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fb

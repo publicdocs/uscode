@@ -45,7 +45,7 @@
 
         (2) to provide more efficient coordination among science, mathematics, and engineering education programs.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3162][/us/pl/101/510/s3162], Nov. 5, 1990, [104 Stat. 1840][/us/stat/104/1840].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3162, Nov. 5, 1990, [104 Stat. 1840][/us/stat/104/1840].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
  __Short Title__ 
 
-[Pub. L. 101–510, div. C, title XXXI, § 3161][/us/pl/101/510/s3161], Nov. 5, 1990, [104 Stat. 1840][/us/stat/104/1840], provided that: 
+[Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3161, Nov. 5, 1990, [104 Stat. 1840][/us/stat/104/1840], provided that: 
 
 > “This part \[part E (§§ 3161–3168) of title XXXI of div. C of [Pub. L. 101–510][/us/pl/101/510], enacting this subchapter and amending [section 7112 of this title][/us/usc/t42/s7112]\] may be cited as the ‘Department of Energy Science Education Enhancement Act’.”
 
  __University-Based Research Collaboration Program__ 
 
-    [Pub. L. 105–85, div. C, title XXXI, § 3155][/us/pl/105/85/s3155], Nov. 18, 1997, [111 Stat. 2044][/us/stat/111/2044], which was formerly set out as a note under this section, was renumbered [section 4814 of Pub. L. 107–314][/us/pl/107/314/s4814], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(9)(A)][/us/pl/108/136/s3141/k/9/A]–(C), Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785], and is classified to [section 2795 of Title 50][/us/usc/t50/s2795], War and National Defense.
+    [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3155, Nov. 18, 1997, [111 Stat. 2044][/us/stat/111/2044], which was formerly set out as a note under this section, was renumbered [section 4814 of Pub. L. 107–314][/us/pl/107/314/s4814], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(9)(A)–(C), Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785], and is classified to [section 2795 of Title 50][/us/usc/t50/s2795], War and National Defense.
 
 ----------
 
@@ -68,17 +68,17 @@
 ----------
 ----------
 
-[/us/pl/101/510/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3162
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1840
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/510/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3161
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1840
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t42/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7112
-[/us/pl/105/85/s3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3155
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2044
 [/us/pl/107/314/s4814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4814
-[/us/pl/108/136/s3141/k/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F9%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1785
 [/us/usc/t50/s2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2795
 

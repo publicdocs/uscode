@@ -29,7 +29,7 @@
 
         Each Committee shall be composed of the Directors of each of the national research institutes and divisions involved in research with respect to the diseases for which the Committee is established, the Division Director of the Institute for the diseases for which the Committee is established, the Under Secretary for Health of the Department of Veterans Affairs, and the Assistant Secretary of Defense for Health Affairs (or the designees of such officers) and shall include representation from all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, as determined by the Secretary. Each Committee shall be chaired by the Director of NIH (or the designee of the Director). Each Committee shall meet at the call of the chairman, but not less often than four times a year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 429, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 843][/us/stat/99/843]; amended [Pub. L. 100–527, § 10(4)][/us/pl/100/527/s10/4], Oct. 25, 1988, [102 Stat. 2641][/us/stat/102/2641]; [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 108–362, § 3][/us/pl/108/362/s3], Oct. 25, 2004, [118 Stat. 1703][/us/stat/118/1703]; [Pub. L. 109–482, title I, § 104(b)(1)(H)][/us/pl/109/482/s104/b/1/H], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 429, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 843][/us/stat/99/843]; amended [Pub. L. 100–527][/us/pl/100/527], § 10(4), Oct. 25, 1988, [102 Stat. 2641][/us/stat/102/2641]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 108–362][/us/pl/108/362], § 3, Oct. 25, 2004, [118 Stat. 1703][/us/stat/118/1703]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(H), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 
  __Amendments__ 
 
@@ -57,15 +57,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F843
-[/us/pl/100/527/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10%2F4
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2641
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/108/362/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362%2Fs3
+[/us/pl/108/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362
 [/us/stat/118/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1703
-[/us/pl/109/482/s104/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FH
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/108/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362

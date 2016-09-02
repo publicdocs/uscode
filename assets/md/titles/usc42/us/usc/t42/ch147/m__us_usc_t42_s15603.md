@@ -151,13 +151,13 @@
 
         There are authorized to be appropriated $15,000,000 for each of fiscal years 2004 through 2010 to carry out this section.
 
-([Pub. L. 108–79, § 4][/us/pl/108/79/s4], Sept. 4, 2003, [117 Stat. 975][/us/stat/117/975]; [Pub. L. 109–108, title I, § 113(a)][/us/pl/109/108/s113/a], Nov. 22, 2005, [119 Stat. 2305][/us/stat/119/2305].)
+([Pub. L. 108–79][/us/pl/108/79], § 4, Sept. 4, 2003, [117 Stat. 975][/us/stat/117/975]; [Pub. L. 109–108, title I][/us/pl/109/108/tI], § 113(a), Nov. 22, 2005, [119 Stat. 2305][/us/stat/119/2305].)
 
  __Amendments__ 
 
-    2005—Subsec. (a)(5). [Pub. L. 109–108, § 113(a)(1)][/us/pl/109/108/s113/a/1], inserted “, except as authorized in paragraph (7)” before period at end.
+    2005—Subsec. (a)(5). [Pub. L. 109–108][/us/pl/109/108], § 113(a)(1), inserted “, except as authorized in paragraph (7)” before period at end.
 
-    Subsec. (a)(7). [Pub. L. 109–108, § 113(a)(2)][/us/pl/109/108/s113/a/2], added par. (7).
+    Subsec. (a)(7). [Pub. L. 109–108][/us/pl/109/108], § 113(a)(2), added par. (7).
 
 ----------
 
@@ -166,11 +166,11 @@
 ----------
 ----------
 
-[/us/pl/108/79/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs4
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F975
-[/us/pl/109/108/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs113%2Fa
+[/us/pl/109/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2FtI
 [/us/stat/119/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2305
-[/us/pl/109/108/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs113%2Fa%2F1
-[/us/pl/109/108/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs113%2Fa%2F2
+[/us/pl/109/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108
+[/us/pl/109/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108
 
 

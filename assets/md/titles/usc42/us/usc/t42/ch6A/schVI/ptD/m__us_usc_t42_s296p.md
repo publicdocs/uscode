@@ -81,7 +81,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 831, as added [Pub. L. 105–392, title I, § 123(4)][/us/pl/105/392/s123/4], Nov. 13, 1998, [112 Stat. 3568][/us/stat/112/3568]; amended [Pub. L. 107–205, title II, § 201][/us/pl/107/205/s201], Aug. 1, 2002, [116 Stat. 815][/us/stat/116/815]; [Pub. L. 111–148, title V, § 5309(a)][/us/pl/111/148/s5309/a], Mar. 23, 2010, [124 Stat. 629][/us/stat/124/629].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 831, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(4), Nov. 13, 1998, [112 Stat. 3568][/us/stat/112/3568]; amended [Pub. L. 107–205, title II][/us/pl/107/205/tII], § 201, Aug. 1, 2002, [116 Stat. 815][/us/stat/116/815]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5309(a), Mar. 23, 2010, [124 Stat. 629][/us/stat/124/629].)
 
  __Prior Provisions__ 
 
@@ -89,15 +89,15 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 5309(a)(1)][/us/pl/111/148/s5309/a/1], substituted “quality” for “retention” in section catchline.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 5309(a)(1), substituted “quality” for “retention” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–148, § 5309(a)(2)][/us/pl/111/148/s5309/a/2], in par. (1), inserted “or” at end, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “developing and implementing internship and residency programs to encourage mentoring and the development of specialties; or”.
+    Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 5309(a)(2), in par. (1), inserted “or” at end, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “developing and implementing internship and residency programs to encourage mentoring and the development of specialties; or”.
 
-    Subsec. (b)(3). [Pub. L. 111–148, § 5309(a)(3)][/us/pl/111/148/s5309/a/3], substituted “coordinated care” for “managed care, quality improvement”.
+    Subsec. (b)(3). [Pub. L. 111–148][/us/pl/111/148], § 5309(a)(3), substituted “coordinated care” for “managed care, quality improvement”.
 
-    Subsec. (g). [Pub. L. 111–148, § 5309(a)(4)][/us/pl/111/148/s5309/a/4], inserted “, as defined in [section 296(2) of this title][/us/usc/t42/s296/2],” after “school of nursing”.
+    Subsec. (g). [Pub. L. 111–148][/us/pl/111/148], § 5309(a)(4), inserted “, as defined in [section 296(2) of this title][/us/usc/t42/s296/2],” after “school of nursing”.
 
-    Subsec. (h). [Pub. L. 111–148, § 5309(a)(5)][/us/pl/111/148/s5309/a/5], substituted “2010 through 2014” for “2003 through 2007”.
+    Subsec. (h). [Pub. L. 111–148][/us/pl/111/148], § 5309(a)(5), substituted “2010 through 2014” for “2003 through 2007”.
 
     2002—[Pub. L. 107–205][/us/pl/107/205] amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -130,20 +130,20 @@
 
 [/us/usc/t42/s296/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s123/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3568
-[/us/pl/107/205/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs201
+[/us/pl/107/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2FtII
 [/us/stat/116/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F815
-[/us/pl/111/148/s5309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5309%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F629
 [/us/usc/t42/s297–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297%E2%80%931
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/pl/111/148/s5309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5309%2Fa%2F1
-[/us/pl/111/148/s5309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5309%2Fa%2F2
-[/us/pl/111/148/s5309/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5309%2Fa%2F3
-[/us/pl/111/148/s5309/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5309%2Fa%2F4
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s296/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296%2F2
-[/us/pl/111/148/s5309/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5309%2Fa%2F5
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
 
 

@@ -23,11 +23,11 @@
 
         The Associate Director for Prevention shall prepare for inclusion in the biennial report made under section 284b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title a description of the prevention activities of the Institute, including a description of the staff and resources allocated to those activities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464I, as added [Pub. L. 102–321, title I, § 122(c)][/us/pl/102/321/s122/c], July 10, 1992, [106 Stat. 359][/us/stat/106/359].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464I, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 122(c), July 10, 1992, [106 Stat. 359][/us/stat/106/359].)
 
  __References in Text__ 
 
-    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (b), was repealed by [Pub. L. 109–482, title I, § 104(b)(1)(C)][/us/pl/109/482/s104/b/1/C], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
+    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (b), was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(C), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
 
  __Effective Date__ 
 
@@ -41,10 +41,10 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs122%2Fc
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F359
 [/us/usc/t42/s284b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284b
-[/us/pl/109/482/s104/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FC
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

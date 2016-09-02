@@ -17,7 +17,7 @@
 
     The Administrator of the Environmental Protection Agency shall establish a separately identified program of continuing, long-term environmental research and development for each activity listed in section 2(a) of this Act. Unless otherwise specified by law, at least 15 per centum of funds appropriated to the Administrator for environmental research and development for each activity listed in section 2(a) of this Act shall be obligated and expended for such long-term environmental research and development under this section.
 
-([Pub. L. 96–569, § 2(f)][/us/pl/96/569/s2/f], Dec. 22, 1980, [94 Stat. 3337][/us/stat/94/3337].)
+([Pub. L. 96–569][/us/pl/96/569], § 2(f), Dec. 22, 1980, [94 Stat. 3337][/us/stat/94/3337].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
 Provisions similar to those in this section were contained in the following prior authorization acts:
 
-    1980—[Pub. L. 96–229, § 2(e)][/us/pl/96/229/s2/e], Apr. 7, 1980, [94 Stat. 327][/us/stat/94/327].
+    1980—[Pub. L. 96–229][/us/pl/96/229], § 2(e), Apr. 7, 1980, [94 Stat. 327][/us/stat/94/327].
 
-    1977—[Pub. L. 95–155, § 6][/us/pl/95/155/s6], Nov. 8, 1977, [91 Stat. 1259][/us/stat/91/1259].
+    1977—[Pub. L. 95–155][/us/pl/95/155], § 6, Nov. 8, 1977, [91 Stat. 1259][/us/stat/91/1259].
 
 ----------
 
@@ -42,13 +42,13 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/96/569/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F569%2Fs2%2Ff
+[/us/pl/96/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F569
 [/us/stat/94/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3337
 [/us/pl/96/569/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F569%2Fs2%2Fa
 [/us/stat/94/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3335
-[/us/pl/96/229/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F229%2Fs2%2Fe
+[/us/pl/96/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F229
 [/us/stat/94/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F327
-[/us/pl/95/155/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155%2Fs6
+[/us/pl/95/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155
 [/us/stat/91/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1259
 
 

@@ -19,7 +19,7 @@
 
     (b) Judicial proceedings provided under sections 18 and 21 of the Longshore and Harbor Workers’ Compensation Act \[[33 U.S.C. 918][/us/usc/t33/s918], 921\] in respect to a compensation order made pursuant to this chapter shall be instituted in the United States district court of the judicial district wherein is located the office of the deputy commissioner whose compensation order is involved if his office is located in a judicial district, and if not so located, such judicial proceedings shall be instituted in the judicial district nearest the base at which the injury or death occurs.
 
-([Aug. 16, 1941, ch. 357, § 3][/us/act/1941-08-16/ch357/s3], [55 Stat. 623][/us/stat/55/623]; 1946 Reorg. Plan No. 2, § 3, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Pub. L. 98–426, § 27(d)(2)][/us/pl/98/426/s27/d/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Aug. 16, 1941, ch. 357][/us/act/1941-08-16/ch357], § 3, [55 Stat. 623][/us/stat/55/623]; 1946 Reorg. Plan No. 2, § 3, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Pub. L. 98–426][/us/pl/98/426], § 27(d)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
 [/us/usc/t33/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs918
-[/us/act/1941-08-16/ch357/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-16%2Fch357%2Fs3
+[/us/act/1941-08-16/ch357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-16%2Fch357
 [/us/stat/55/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F623
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
-[/us/pl/98/426/s27/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fd%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424

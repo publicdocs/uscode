@@ -23,7 +23,7 @@
 
         For purposes of this section, the terms “catastrophic injury”, “public agency”, and “public safety officer” have the same meanings given such terms in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b][/us/usc/t42/s3796b]).
 
-([Pub. L. 107–56, title VI, § 611][/us/pl/107/56/s611], Oct. 26, 2001, [115 Stat. 369][/us/stat/115/369]; [Pub. L. 112–239, div. A, title X, § 1086(b)(2)][/us/pl/112/239/s1086/b/2], Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
+([Pub. L. 107–56, title VI][/us/pl/107/56/tVI], § 611, Oct. 26, 2001, [115 Stat. 369][/us/stat/115/369]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1086(b)(2), Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
 
  __References in Text__ 
 
@@ -52,9 +52,9 @@
 [/us/usc/t42/s3796b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b%2F7%2FB
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
 [/us/usc/t42/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b
-[/us/pl/107/56/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs611
+[/us/pl/107/56/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVI
 [/us/stat/115/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F369
-[/us/pl/112/239/s1086/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F2
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1968
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

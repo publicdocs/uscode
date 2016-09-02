@@ -33,7 +33,7 @@
 
     (8) to make and furnish such studies, reports thereon, and recommendations with respect to matters of policy and legislation as the President may request.
 
-([Pub. L. 91–190, title II, § 204][/us/pl/91/190/s204], Jan. 1, 1970, [83 Stat. 855][/us/stat/83/855].)
+([Pub. L. 91–190, title II][/us/pl/91/190/tII], § 204, Jan. 1, 1970, [83 Stat. 855][/us/stat/83/855].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/91/190/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs204
+[/us/pl/91/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtII
 [/us/stat/83/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F855
 [/us/usc/t42/s4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4341
 [/us/stat/84/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2086

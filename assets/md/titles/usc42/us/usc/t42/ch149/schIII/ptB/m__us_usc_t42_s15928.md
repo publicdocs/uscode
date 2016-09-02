@@ -81,7 +81,7 @@
 
         (3) for the generation, transmission, and distribution of electric energy.
 
-([Pub. L. 109–58, title III, § 372][/us/pl/109/58/s372], Aug. 8, 2005, [119 Stat. 734][/us/stat/119/734].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 372, Aug. 8, 2005, [119 Stat. 734][/us/stat/119/734].)
 
 ----------
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs372
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F734
 
 

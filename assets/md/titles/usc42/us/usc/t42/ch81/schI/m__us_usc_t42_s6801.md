@@ -19,19 +19,19 @@
 
     (b) It is the purpose of this subchapter to require the Secretary to develop proposals for improvement of electric utility rate design and transmit such proposals to Congress; to fund electric utility rate demonstration projects; to intervene or participate, upon request, in the proceedings of utility regulatory commissions; and to provide financial assistance to State offices of consumer services to facilitate presentation of consumer interests before such commissions.
 
-([Pub. L. 94–385, title II, § 201][/us/pl/94/385/s201], Aug. 14, 1976, [90 Stat. 1142][/us/stat/90/1142]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
+([Pub. L. 94–385, title II][/us/pl/94/385/tII], § 201, Aug. 14, 1976, [90 Stat. 1142][/us/stat/90/1142]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
 
  __Short Title__ 
 
-[Pub. L. 94–385, § 1][/us/pl/94/385/s1], Aug. 14, 1976, [90 Stat. 1125][/us/stat/90/1125], provided: 
+[Pub. L. 94–385][/us/pl/94/385], § 1, Aug. 14, 1976, [90 Stat. 1125][/us/stat/90/1125], provided: 
 
 > “That this Act \[enacting this chapter, [section 6327 of this title][/us/usc/t42/s6327], [section 1701z–8 of Title 12][/us/usc/t12/s1701z–8], Banks and Banking, sections 787 and 790 to 790h of Title 15, Commerce and Trade, amending sections 5818, 6211, 6295, 6323, 6325, and 6326 of this title and sections 757, 764, 766, 772, 774, 777 and 784 of Title 15, and enacting provisions set out as notes under sections 6801, 6831, and 6851 of this title, and sections 753, 757, 761, and 790 of Title 15\] may be cited as the ‘Energy Conservation and Production Act’.”
 
-[Pub. L. 94–385, title III, § 301][/us/pl/94/385/s301], Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144], provided that: 
+[Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 301, Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Energy Conservation Standards for New Buildings Act of 1976’.”
 
-[Pub. L. 94–385, title IV, § 401][/us/pl/94/385/s401], Aug. 14, 1976, [90 Stat. 1150][/us/stat/90/1150], provided that: 
+[Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 401, Aug. 14, 1976, [90 Stat. 1150][/us/stat/90/1150], provided that: 
 
 > “This title \[enacting subchapter III of this chapter, [section 6327 of this title][/us/usc/t42/s6327], and [section 1701z–8 of Title 12][/us/usc/t12/s1701z–8], Banks and Banking, and amending sections 6323, 6325, and 6326 of this title\] may be cited as the ‘Energy Conservation in Existing Buildings Act of 1976’.”
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/pl/94/385/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs201
+[/us/pl/94/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtII
 [/us/stat/90/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1142
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/94/385/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs1
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1125
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
 [/us/usc/t12/s1701z–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%938
-[/us/pl/94/385/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs301
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
 [/us/stat/90/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1144
-[/us/pl/94/385/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs401
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1150
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
 [/us/usc/t12/s1701z–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%938

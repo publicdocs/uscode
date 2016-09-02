@@ -31,7 +31,7 @@
 
         The amounts authorized to be appropriated to carry out the purposes of this subchapter by the Secretary, the Administrator, the Commission, and the Secretary of the Interior shall not exceed such amounts as are established in annual authorization Acts for fiscal year 1979 and each fiscal year thereafter applicable to the Department of Energy. Any sums appropriated for the purposes of this subchapter shall be available until expended.
 
-([Pub. L. 95–604, title I, § 112][/us/pl/95/604/s112], Nov. 8, 1978, [92 Stat. 3031][/us/stat/92/3031]; [Pub. L. 100–616, § 3][/us/pl/100/616/s3], Nov. 5, 1988, [102 Stat. 3193][/us/stat/102/3193]; [Pub. L. 102–486, title X, § 1031][/us/pl/102/486/s1031], Oct. 24, 1992, [106 Stat. 2951][/us/stat/106/2951]; [Pub. L. 104–259, § 2][/us/pl/104/259/s2], Oct. 9, 1996, [110 Stat. 3173][/us/stat/110/3173].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 112, Nov. 8, 1978, [92 Stat. 3031][/us/stat/92/3031]; [Pub. L. 100–616][/us/pl/100/616], § 3, Nov. 5, 1988, [102 Stat. 3193][/us/stat/102/3193]; [Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1031, Oct. 24, 1992, [106 Stat. 2951][/us/stat/106/2951]; [Pub. L. 104–259][/us/pl/104/259], § 2, Oct. 9, 1996, [110 Stat. 3173][/us/stat/110/3173].)
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
-[/us/pl/95/604/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs112
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3031
-[/us/pl/100/616/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F616%2Fs3
+[/us/pl/100/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F616
 [/us/stat/102/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3193
-[/us/pl/102/486/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1031
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2951
-[/us/pl/104/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs2
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
 [/us/stat/110/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3173
 [/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

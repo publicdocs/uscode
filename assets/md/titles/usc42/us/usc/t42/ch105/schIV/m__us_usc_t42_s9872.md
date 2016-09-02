@@ -19,7 +19,7 @@
 
     (b) For the purpose of the exception contained in subsection (a) of this section, the term “State” does not include Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 97–35, title VI, § 670B][/us/pl/97/35/s670B], as added [Pub. L. 98–558, title I, § 109][/us/pl/98/558/s109], Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 670B, as added [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 109, Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t42/s9871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9871
-[/us/pl/97/35/s670B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs670B
-[/us/pl/98/558/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs109
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2880
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

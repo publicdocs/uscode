@@ -19,7 +19,7 @@
 
     (b) Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Council may accept and employ voluntary and uncompensated services in furtherance of the purposes of the Council.
 
-([Pub. L. 91–190, title II, § 203][/us/pl/91/190/s203], Jan. 1, 1970, [83 Stat. 855][/us/stat/83/855]; [Pub. L. 94–52, § 2][/us/pl/94/52/s2], July 3, 1975, [89 Stat. 258][/us/stat/89/258].)
+([Pub. L. 91–190, title II][/us/pl/91/190/tII], § 203, Jan. 1, 1970, [83 Stat. 855][/us/stat/83/855]; [Pub. L. 94–52][/us/pl/94/52], § 2, July 3, 1975, [89 Stat. 258][/us/stat/89/258].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -42,16 +42,16 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/91/190/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs203
+[/us/pl/91/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtII
 [/us/stat/83/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F855
-[/us/pl/94/52/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F52%2Fs2
+[/us/pl/94/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F52
 [/us/stat/89/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F258
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/94/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F52
 

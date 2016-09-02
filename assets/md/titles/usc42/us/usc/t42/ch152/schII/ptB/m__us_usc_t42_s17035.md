@@ -51,7 +51,7 @@
 
             The term “urbanized area” has the meaning as defined by the U.S. Bureau of the Census.
 
-([Pub. L. 110–140, title II, § 234][/us/pl/110/140/s234], Dec. 19, 2007, [121 Stat. 1538][/us/stat/121/1538].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 234, Dec. 19, 2007, [121 Stat. 1538][/us/stat/121/1538].)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t42/s15823/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15823%2Fc
 [/us/usc/t42/s16181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16181
-[/us/pl/110/140/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs234
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1538
 
 

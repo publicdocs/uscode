@@ -17,7 +17,7 @@
 
     The Secretary shall make assistance under this subchapter available to participating jurisdictions, through the Office of the Assistant Secretary for Housing-FHA Commissioner of the Department of Housing and Urban Development, to the maximum extent practicable, in coordination with mortgage insurance, rental assistance, and other housing assistance appropriate to the efficient and timely completion of activities under this subchapter.
 
-([Pub. L. 101–625, title II, § 204][/us/pl/101/625/s204], Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 204, Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs204
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4096
 
 

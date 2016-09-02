@@ -17,7 +17,7 @@
 
     None of the funds appropriated under this subchapter shall be used in programs where abortion is a method of family planning.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title X, § 1008, as added [Pub. L. 91–572, § 6(c)][/us/pl/91/572/s6/c], Dec. 24, 1970, [84 Stat. 1508][/us/stat/84/1508].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title X, § 1008, as added [Pub. L. 91–572][/us/pl/91/572], § 6(c), Dec. 24, 1970, [84 Stat. 1508][/us/stat/84/1508].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/572/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F572%2Fs6%2Fc
+[/us/pl/91/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F572
 [/us/stat/84/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1508
 
 

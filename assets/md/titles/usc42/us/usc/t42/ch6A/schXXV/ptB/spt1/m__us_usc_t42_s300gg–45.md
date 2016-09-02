@@ -149,7 +149,7 @@
 
             The term “State” means any of the 50 States and the District of Columbia and includes Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2745, as added [Pub. L. 107–210, div. A, title II, § 201(b)][/us/pl/107/210/s201/b], Aug. 6, 2002, [116 Stat. 959][/us/stat/116/959]; amended [Pub. L. 109–172, § 2][/us/pl/109/172/s2], Feb. 10, 2006, [120 Stat. 185][/us/stat/120/185].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2745, as added [Pub. L. 107–210, div. A, title II][/us/pl/107/210/dA/tII], § 201(b), Aug. 6, 2002, [116 Stat. 959][/us/stat/116/959]; amended [Pub. L. 109–172][/us/pl/109/172], § 2, Feb. 10, 2006, [120 Stat. 185][/us/stat/120/185].)
 
  __Amendments__ 
 
@@ -169,9 +169,9 @@
 [/us/usc/t42/s300gg–44/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9344%2Fc%2F2
 [/us/usc/t42/s300gg–44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9344
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/210/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs201%2Fb
+[/us/pl/107/210/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtII
 [/us/stat/116/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F959
-[/us/pl/109/172/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F172%2Fs2
+[/us/pl/109/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F172
 [/us/stat/120/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F185
 [/us/pl/109/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F172
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210

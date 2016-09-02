@@ -147,7 +147,7 @@
 
         (5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]; amended [Pub. L. 97–248, title I, § 137(b)(1)][/us/pl/97/248/s137/b/1], (2), Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–369, div. B, title III, § 2372(a)][/us/pl/98/369/s2372/a], July 18, 1984, [98 Stat. 1110][/us/stat/98/1110]; [Pub. L. 99–272, title IX, § 9527(a)][/us/pl/99/272/s9527/a]–(c), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX, § 9441(a)][/us/pl/99/509/s9441/a], Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 100–203, title IV, § 4118(p)(8)][/us/pl/100/203/s4118/p/8], Dec. 22, 1987, [101 Stat. 1330–159][/us/stat/101/1330-159]; [Pub. L. 101–239, title VI, § 6501(a)][/us/pl/101/239/s6501/a], Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 103–432, title II, § 201][/us/pl/103/432/s201], Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453]; [Pub. L. 105–12, § 9(d)][/us/pl/105/12/s9/d], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 921(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584; [Pub. L. 109–171, title VI, § 6064][/us/pl/109/171/s6064], Feb. 8, 2006, [120 Stat. 100][/us/stat/120/100]; [Pub. L. 111–148, title V, § 5507(b)][/us/pl/111/148/s5507/b], Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668]; [Pub. L. 112–240, title VI, § 624][/us/pl/112/240/s624], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1203][/us/pl/113/67/s1203], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199]; [Pub. L. 113–93, title II, § 207][/us/pl/113/93/s207], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 216][/us/pl/114/10/s216], Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, as added [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(a), Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]; amended [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 137(b)(1), (2), Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2372(a), July 18, 1984, [98 Stat. 1110][/us/stat/98/1110]; [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9527(a)–(c), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9441(a), Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4118(p)(8), Dec. 22, 1987, [101 Stat. 1330–159][/us/stat/101/1330-159]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6501(a), Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 201, Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453]; [Pub. L. 105–12][/us/pl/105/12], § 9(d), Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 921(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584; [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6064, Feb. 8, 2006, [120 Stat. 100][/us/stat/120/100]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5507(b), Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668]; [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 624, Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II][/us/pl/113/67/dB/tII], § 1203, Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199]; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 207, Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 216, Apr. 16, 2015, [129 Stat. 153][/us/stat/129/153].)
 
  __References in Text__ 
 
@@ -155,21 +155,21 @@
 
     The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is [Pub. L. 105–12][/us/pl/105/12], Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23], which is classified principally to chapter 138 (§ 14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 14401 of this title][/us/usc/t42/s14401] and Tables.
 
-    [Section 1320b–6 of this title][/us/usc/t42/s1320b–6], referred to in subsec. (a)(3)(C), was repealed by [Pub. L. 104–193, title I, § 108(g)(7)][/us/pl/104/193/s108/g/7], Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].
+    [Section 1320b–6 of this title][/us/usc/t42/s1320b–6], referred to in subsec. (a)(3)(C), was repealed by [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(g)(7), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].
 
     Section 6506(a) of the Omnibus Budget Reconciliation Act of 1989, referred to in subsec. (a)(3)(C), is [section 6506(a) of Pub. L. 101–239][/us/pl/101/239/s6506/a] which is set out below.
 
-    Sections 247a, 300b, 300c–11, and 300c–21 of this title, referred to in subsec. (b)(1)(C), were repealed by [Pub. L. 97–35, § 2193(b)(1)][/us/pl/97/35/s2193/b/1], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]. See Effective Date, Savings, and Transitional Provisions note set out below.
+    Sections 247a, 300b, 300c–11, and 300c–21 of this title, referred to in subsec. (b)(1)(C), were repealed by [Pub. L. 97–35][/us/pl/97/35], § 2193(b)(1), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]. See Effective Date, Savings, and Transitional Provisions note set out below.
 
-    The Health Services and Centers Amendments of 1978, referred to in subsec. (b)(1)(D), is [Pub. L. 95–626][/us/pl/95/626], Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551]. Title VI of the Health Services and Centers Amendments of 1978 was classified generally to part A (§ 300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by [Pub. L. 97–35, title IX, § 955(b)][/us/pl/97/35/s955/b], title XXI, § 2193(f), Aug. 13, 1981, [95 Stat. 592][/us/stat/95/592], 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Health Services and Centers Amendments of 1978, referred to in subsec. (b)(1)(D), is [Pub. L. 95–626][/us/pl/95/626], Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551]. Title VI of the Health Services and Centers Amendments of 1978 was classified generally to part A (§ 300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(b), title XXI, § 2193(f), Aug. 13, 1981, [95 Stat. 592][/us/stat/95/592], 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 701, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 921][/us/stat/81/921]; amended Aug. 1, 1977, [Pub. L. 95–83, title III, § 309(a)][/us/pl/95/83/s309/a], [91 Stat. 396][/us/stat/91/396]; Aug. 13, 1981, [Pub. L. 97–35, title XXI, § 2193(a)(3)][/us/pl/97/35/s2193/a/3], [95 Stat. 827][/us/stat/95/827], provided for authorization of appropriations, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out below.
+    A prior section 701, [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], § 501, as added Jan. 2, 1968, [Pub. L. 90–248, title III][/us/pl/90/248/tIII], § 301, [81 Stat. 921][/us/stat/81/921]; amended Aug. 1, 1977, [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 309(a), [91 Stat. 396][/us/stat/91/396]; Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(a)(3), [95 Stat. 827][/us/stat/95/827], provided for authorization of appropriations, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out below.
 
-    Another prior section 701, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, [49 Stat. 629][/us/stat/49/629]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 501, [53 Stat. 1380][/us/stat/53/1380]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(1), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(a), pt. 6, § 361(e), [64 Stat. 551][/us/stat/64/551], 558; Aug. 28, 1958, [Pub. L. 85–840, title VI, § 602(a)][/us/pl/85/840/s602/a], [72 Stat. 1054][/us/stat/72/1054]; Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(a)(1)(A)][/us/pl/86/778/s707/a/1/A], [74 Stat. 995][/us/stat/74/995]; Oct. 24, 1963, [Pub. L. 88–156, § 2(a)][/us/pl/88/156/s2/a], [77 Stat. 273][/us/stat/77/273]; July 30, 1965, [Pub. L. 89–97, title II, § 201(a)][/us/pl/89/97/s201/a], [79 Stat. 353][/us/stat/79/353], authorized appropriations, for maternal and child health services, of $25,000,000; $30,000,000; $35,000,000; $45,000,000; $50,000,000; $55,000,000; $55,000,000; and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and each fiscal year thereafter, respectively, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
+    Another prior section 701, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, [49 Stat. 629][/us/stat/49/629]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 501, [53 Stat. 1380][/us/stat/53/1380]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(1), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(a), pt. 6, § 361(e), [64 Stat. 551][/us/stat/64/551], 558; Aug. 28, 1958, [Pub. L. 85–840, title VI][/us/pl/85/840/tVI], § 602(a), [72 Stat. 1054][/us/stat/72/1054]; Sept. 13, 1960, [Pub. L. 86–778, title VII][/us/pl/86/778/tVII], § 707(a)(1)(A), [74 Stat. 995][/us/stat/74/995]; Oct. 24, 1963, [Pub. L. 88–156][/us/pl/88/156], § 2(a), [77 Stat. 273][/us/stat/77/273]; July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97/tII], § 201(a), [79 Stat. 353][/us/stat/79/353], authorized appropriations, for maternal and child health services, of $25,000,000; $30,000,000; $35,000,000; $45,000,000; $50,000,000; $55,000,000; $55,000,000; and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and each fiscal year thereafter, respectively, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248][/us/pl/90/248], § 301.
 
-    Provisions similar to those comprising former section 701 were contained in section 511 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, [49 Stat. 631][/us/stat/49/631], as amended (formerly classified to [section 711 of this title][/us/usc/t42/s711], and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, as added Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274]; amended July 30, 1965, [Pub. L. 89–97, title II, § 205(3)][/us/pl/89/97/s205/3], [79 Stat. 354][/us/stat/79/354]; Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274]; renumbered July 30, 1965, [Pub. L. 89–97, title II, § 205(2)][/us/pl/89/97/s205/2], [79 Stat. 354][/us/stat/79/354] (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
+    Provisions similar to those comprising former section 701 were contained in section 511 of [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], [49 Stat. 631][/us/stat/49/631], as amended (formerly classified to [section 711 of this title][/us/usc/t42/s711], and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], as added Oct. 24, 1963, [Pub. L. 88–156][/us/pl/88/156], § 4, [77 Stat. 274][/us/stat/77/274]; amended July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97/tII], § 205(3), [79 Stat. 354][/us/stat/79/354]; Oct. 24, 1963, [Pub. L. 88–156][/us/pl/88/156], § 4, [77 Stat. 274][/us/stat/77/274]; renumbered July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97/tII], § 205(2), [79 Stat. 354][/us/stat/79/354] (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248][/us/pl/90/248], § 301.
 
  __Amendments__ 
 
@@ -191,29 +191,29 @@
 
     1994—Subsec. (a). [Pub. L. 103–432][/us/pl/103/432] substituted “$705,000,000 for fiscal year 1994” for “$686,000,000 for fiscal year 1990” in introductory provisions.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 6501(a)(1)][/us/pl/101/239/s6501/a/1], amended subsec. (a) generally, substituting pars. (1) to (3) for former pars. (1) to (4) and concluding provisions.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 6501(a)(1), amended subsec. (a) generally, substituting pars. (1) to (3) for former pars. (1) to (4) and concluding provisions.
 
-    Subsec. (b)(3), (4). [Pub. L. 101–239, § 6501(a)(2)][/us/pl/101/239/s6501/a/2], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 101–239][/us/pl/101/239], § 6501(a)(2), added pars. (3) and (4).
 
     1987—Subsec. (b)(2). [Pub. L. 100–203][/us/pl/100/203] struck out “nonform” after “below the”.
 
     1986—Subsec. (a). [Pub. L. 99–509][/us/pl/99/509] substituted “$553,000,000 for fiscal year 1987, $557,000,000 for fiscal year 1988, and $561,000,000 for fiscal year 1989” for “$478,000,000 for fiscal year 1984” in concluding provisions.
 
-    [Pub. L. 99–272, § 9527(b)][/us/pl/99/272/s9527/b], substituted “children with special health care needs” for “crippled children” in concluding provisions.
+    [Pub. L. 99–272][/us/pl/99/272], § 9527(b), substituted “children with special health care needs” for “crippled children” in concluding provisions.
 
-    Subsec. (a)(4). [Pub. L. 99–272, § 9527(a)][/us/pl/99/272/s9527/a], substituted “children who are ‘children with special health care needs’ or who are suffering from conditions leading to such status” for “children who are crippled or who are suffering from conditions leading to crippling”.
+    Subsec. (a)(4). [Pub. L. 99–272][/us/pl/99/272], § 9527(a), substituted “children who are ‘children with special health care needs’ or who are suffering from conditions leading to such status” for “children who are crippled or who are suffering from conditions leading to crippling”.
 
-    Subsec. (b)(1)(A). [Pub. L. 99–272, § 9527(c)][/us/pl/99/272/s9527/c], substituted “services for children with special health care needs” for “crippled children’s services”.
+    Subsec. (b)(1)(A). [Pub. L. 99–272][/us/pl/99/272], § 9527(c), substituted “services for children with special health care needs” for “crippled children’s services”.
 
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] substituted “$478,000,000 for fiscal year 1984 and each fiscal year thereafter” for “$373,000,000 for fiscal year 1982 and for each fiscal year thereafter”.
 
-    1982—Subsec. (b)(1)(D). [Pub. L. 97–248, § 137(b)(1)][/us/pl/97/248/s137/b/1], substituted “title VI” for “title IV”.
+    1982—Subsec. (b)(1)(D). [Pub. L. 97–248][/us/pl/97/248], § 137(b)(1), substituted “title VI” for “title IV”.
 
-    Subsec. (b)(2). [Pub. L. 97–248, § 137(b)(2)][/us/pl/97/248/s137/b/2], substituted “section 9902(2)” for “section 2971d”.
+    Subsec. (b)(2). [Pub. L. 97–248][/us/pl/97/248], § 137(b)(2), substituted “section 9902(2)” for “section 2971d”.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 921(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 921(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2000.”
 
@@ -223,7 +223,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VI, § 6510][/us/pl/101/239/s6510], Dec. 19, 1989, [103 Stat. 2284][/us/stat/103/2284], provided that:
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6510, Dec. 19, 1989, [103 Stat. 2284][/us/stat/103/2284], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -239,7 +239,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title III, § 2372(b)][/us/pl/98/369/s2372/b], July 18, 1984, [98 Stat. 1111][/us/stat/98/1111], provided that: 
+[Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2372(b), July 18, 1984, [98 Stat. 1111][/us/stat/98/1111], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983.”
 
@@ -249,7 +249,7 @@
 
  __Effective Date, Savings, and Transitional Provisions__ 
 
-[Pub. L. 97–35, title XXI, § 2194][/us/pl/97/35/s2194], Aug. 13, 1981, [95 Stat. 828][/us/stat/95/828], provided that:
+[Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2194, Aug. 13, 1981, [95 Stat. 828][/us/stat/95/828], provided that:
 
 >     “(a)
 
@@ -321,11 +321,11 @@
 
  __Development of Model Applications for Maternal and Child Assistance Programs__ 
 
-    [Pub. L. 101–239, title VI, § 6506(a)][/us/pl/101/239/s6506/a], Dec. 19, 1989, [103 Stat. 2281][/us/stat/103/2281], directed Secretary of Health and Human Services to develop, not later than one year after Dec. 19, 1989, a model application form for use in applying for assistance for pregnant women and for children less than 6 years old under maternal and child assistance programs and required publication of model form in Federal Register and dissemination of form to State agencies.
+    [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6506(a), Dec. 19, 1989, [103 Stat. 2281][/us/stat/103/2281], directed Secretary of Health and Human Services to develop, not later than one year after Dec. 19, 1989, a model application form for use in applying for assistance for pregnant women and for children less than 6 years old under maternal and child assistance programs and required publication of model form in Federal Register and dissemination of form to State agencies.
 
  __Research on Infant Mortality and Medicaid Services__ 
 
-[Pub. L. 101–239, title VI, § 6507][/us/pl/101/239/s6507], Dec. 19, 1989, [103 Stat. 2282][/us/stat/103/2282], provided that: 
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6507, Dec. 19, 1989, [103 Stat. 2282][/us/stat/103/2282], provided that: 
 
 > “The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
 
@@ -337,11 +337,11 @@
 
  __Demonstration Project on Health Insurance for Medically Uninsurable Children__ 
 
-    [Pub. L. 101–239, title VI, § 6508][/us/pl/101/239/s6508], Dec. 19, 1989, [103 Stat. 2283][/us/stat/103/2283], authorized Secretary of Health and Human Services to conduct not more than 4 demonstration projects to provide health insurance coverage through eligible plans to medically uninsurable children under 19 years of age, further provided for definition of eligible plan, requirements for demonstration projects, including guarantee of insurance coverage for at least two years, provision of non-Federal funds, as well as further restrictions on insurance plans, and further provided for applications for projects, evaluation of projects by Secretary and report to Congress, and authorization of appropriations for each of fiscal years 1991, 1992, and 1993.
+    [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6508, Dec. 19, 1989, [103 Stat. 2283][/us/stat/103/2283], authorized Secretary of Health and Human Services to conduct not more than 4 demonstration projects to provide health insurance coverage through eligible plans to medically uninsurable children under 19 years of age, further provided for definition of eligible plan, requirements for demonstration projects, including guarantee of insurance coverage for at least two years, provision of non-Federal funds, as well as further restrictions on insurance plans, and further provided for applications for projects, evaluation of projects by Secretary and report to Congress, and authorization of appropriations for each of fiscal years 1991, 1992, and 1993.
 
  __Maternal and Child Health Handbook__ 
 
-[Pub. L. 101–239, title VI, § 6509][/us/pl/101/239/s6509], Dec. 19, 1989, [103 Stat. 2284][/us/stat/103/2284], provided that:
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6509, Dec. 19, 1989, [103 Stat. 2284][/us/stat/103/2284], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -379,37 +379,37 @@
 [/us/usc/t42/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa%2F1
 [/us/usc/t42/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs702%2Fa%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
-[/us/pl/97/248/s137/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fb%2F1
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F376
-[/us/pl/98/369/s2372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2372%2Fa
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1110
-[/us/pl/99/272/s9527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9527%2Fa
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F219
-[/us/pl/99/509/s9441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9441%2Fa
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2071
-[/us/pl/100/203/s4118/p/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4118%2Fp%2F8
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-159
-[/us/pl/101/239/s6501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6501%2Fa
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2273
-[/us/pl/103/432/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs201
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4453
-[/us/pl/105/12/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9%2Fd
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F27
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/171/s6064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6064
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F100
-[/us/pl/111/148/s5507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5507%2Fb
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F668
-[/us/pl/112/240/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs624
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2352
-[/us/pl/113/67/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1203
+[/us/pl/113/67/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdB%2FtII
 [/us/stat/127/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1199
-[/us/pl/113/93/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs207
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
-[/us/pl/114/10/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs216
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F153
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
@@ -418,22 +418,22 @@
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
 [/us/usc/t42/s1320b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%936
-[/us/pl/104/193/s108/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fg%2F7
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2168
 [/us/pl/101/239/s6506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6506%2Fa
-[/us/pl/97/35/s2193/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F1
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
 [/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/stat/92/3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3551
-[/us/pl/97/35/s955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F592
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/90/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIII
 [/us/stat/81/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F921
-[/us/pl/95/83/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs309%2Fa
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F396
-[/us/pl/97/35/s2193/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F3
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
 [/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
@@ -446,28 +446,28 @@
 [/us/stat/60/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F986
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F551
-[/us/pl/85/840/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs602%2Fa
+[/us/pl/85/840/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtVI
 [/us/stat/72/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1054
-[/us/pl/86/778/s707/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs707%2Fa%2F1%2FA
+[/us/pl/86/778/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVII
 [/us/stat/74/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F995
-[/us/pl/88/156/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs2%2Fa
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F273
-[/us/pl/89/97/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs201%2Fa
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F353
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
 [/us/stat/49/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F631
 [/us/usc/t42/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs711
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/88/156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs4
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F274
-[/us/pl/89/97/s205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs205%2F3
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
-[/us/pl/88/156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs4
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F274
-[/us/pl/89/97/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs205%2F2
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
@@ -477,32 +477,32 @@
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
-[/us/pl/101/239/s6501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6501%2Fa%2F1
-[/us/pl/101/239/s6501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6501%2Fa%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
-[/us/pl/99/272/s9527/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9527%2Fb
-[/us/pl/99/272/s9527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9527%2Fa
-[/us/pl/99/272/s9527/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9527%2Fc
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/97/248/s137/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fb%2F1
-[/us/pl/97/248/s137/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fb%2F2
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/pl/105/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs11
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
-[/us/pl/101/239/s6510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6510
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2284
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706
-[/us/pl/98/369/s2372/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2372%2Fb
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1111
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/248/s137/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fd%2F2
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F828
 [/us/usc/t42/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706
 [/us/usc/t42/s1382d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382d
@@ -523,14 +523,14 @@
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/usc/t31/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1243
 [/us/usc/t42/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706%2Fb
-[/us/pl/101/239/s6506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6506%2Fa
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2281
-[/us/pl/101/239/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6507
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2282
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/101/239/s6508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6508
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2283
-[/us/pl/101/239/s6509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6509
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2284
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b

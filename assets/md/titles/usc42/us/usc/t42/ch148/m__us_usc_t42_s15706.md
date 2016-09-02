@@ -55,7 +55,7 @@
 
         (3) $2,266,000 for fiscal year 2017.
 
-([Pub. L. 108–360, title II, § 207][/us/pl/108/360/s207], Oct. 25, 2004, [118 Stat. 1679][/us/stat/118/1679]; [Pub. L. 114–52, § 5][/us/pl/114/52/s5], Sept. 30, 2015, [129 Stat. 500][/us/stat/129/500].)
+([Pub. L. 108–360, title II][/us/pl/108/360/tII], § 207, Oct. 25, 2004, [118 Stat. 1679][/us/stat/118/1679]; [Pub. L. 114–52][/us/pl/114/52], § 5, Sept. 30, 2015, [129 Stat. 500][/us/stat/129/500].)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/108/360/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs207
+[/us/pl/108/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtII
 [/us/stat/118/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1679
-[/us/pl/114/52/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52%2Fs5
+[/us/pl/114/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F52
 [/us/stat/129/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F500
 [/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675

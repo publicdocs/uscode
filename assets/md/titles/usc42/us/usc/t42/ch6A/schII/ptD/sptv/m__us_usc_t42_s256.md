@@ -239,19 +239,19 @@
 
         Funds may not be appropriated to carry out this section after September 30, 2006.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340, as added [Pub. L. 107–251, title IV, § 402][/us/pl/107/251/s402], Oct. 26, 2002, [116 Stat. 1655][/us/stat/116/1655].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340, as added [Pub. L. 107–251, title IV][/us/pl/107/251/tIV], § 402, Oct. 26, 2002, [116 Stat. 1655][/us/stat/116/1655].)
 
  __Prior Provisions__ 
 
-    A prior section 256, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340, as added July 22, 1987, [Pub. L. 100–77, title VI, § 601][/us/pl/100/77/s601], [101 Stat. 511][/us/stat/101/511]; amended Nov. 4, 1988, [Pub. L. 100–607, title VIII][/us/pl/100/607], §§ 801(a), (c), 802(a), (b)(1), 803, 804, [102 Stat. 3168][/us/stat/102/3168], 3169; Nov. 7, 1988, [Pub. L. 100–628, title VI][/us/pl/100/628], §§ 601(a), (c), 602(a), (b)(1), 603, 604, [102 Stat. 3241][/us/stat/102/3241], 3242; Aug. 16, 1989, [Pub. L. 101–93, § 5(t)(1)][/us/pl/101/93/s5/t/1], (3), [103 Stat. 615][/us/stat/103/615]; Nov. 29, 1990, [Pub. L. 101–645, title V][/us/pl/101/645], §§ 501–503, [104 Stat. 4724][/us/stat/104/4724]; Oct. 27, 1992, [Pub. L. 102–531, title III, § 309(c)][/us/pl/102/531/s309/c], [106 Stat. 3501][/us/stat/106/3501], related to grant program for certain health services for the homeless, prior to repeal by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645], eff. Oct. 1, 1996.
+    A prior section 256, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 340, as added July 22, 1987, [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 601, [101 Stat. 511][/us/stat/101/511]; amended Nov. 4, 1988, [Pub. L. 100–607, title VIII][/us/pl/100/607/tVIII], §§ 801(a), (c), 802(a), (b)(1), 803, 804, [102 Stat. 3168][/us/stat/102/3168], 3169; Nov. 7, 1988, [Pub. L. 100–628, title VI][/us/pl/100/628/tVI], §§ 601(a), (c), 602(a), (b)(1), 603, 604, [102 Stat. 3241][/us/stat/102/3241], 3242; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 5(t)(1), (3), [103 Stat. 615][/us/stat/103/615]; Nov. 29, 1990, [Pub. L. 101–645, title V][/us/pl/101/645/tV], §§ 501–503, [104 Stat. 4724][/us/stat/104/4724]; Oct. 27, 1992, [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 309(c), [106 Stat. 3501][/us/stat/106/3501], related to grant program for certain health services for the homeless, prior to repeal by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645], eff. Oct. 1, 1996.
 
-    Another prior section 256, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340, as added Nov. 10, 1978, [Pub. L. 95–626, title I, § 115(2)][/us/pl/95/626/s115/2], [92 Stat. 3567][/us/stat/92/3567]; amended Dec. 12, 1979, [Pub. L. 96–142, title III, § 301(a)][/us/pl/96/142/s301/a], [93 Stat. 1073][/us/stat/93/1073]; Aug. 13, 1981, [Pub. L. 97–35, title IX, § 903(b)(1)][/us/pl/97/35/s903/b/1], [95 Stat. 561][/us/stat/95/561]; Jan. 4, 1983, [Pub. L. 97–414, § 8(h)][/us/pl/97/414/s8/h], [96 Stat. 2061][/us/stat/96/2061], related to primary care research and demonstration projects to serve medically underserved population, prior to repeal by [Pub. L. 97–35, title IX, § 903(c)][/us/pl/97/35/s903/c], Aug. 13, 1981, [95 Stat. 561][/us/stat/95/561], eff. Oct. 1, 1982.
+    Another prior section 256, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 340, as added Nov. 10, 1978, [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 115(2), [92 Stat. 3567][/us/stat/92/3567]; amended Dec. 12, 1979, [Pub. L. 96–142, title III][/us/pl/96/142/tIII], § 301(a), [93 Stat. 1073][/us/stat/93/1073]; Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 903(b)(1), [95 Stat. 561][/us/stat/95/561]; Jan. 4, 1983, [Pub. L. 97–414][/us/pl/97/414], § 8(h), [96 Stat. 2061][/us/stat/96/2061], related to primary care research and demonstration projects to serve medically underserved population, prior to repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 903(c), Aug. 13, 1981, [95 Stat. 561][/us/stat/95/561], eff. Oct. 1, 1982.
 
-    Another prior section 256, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340, formerly § 332, [58 Stat. 698][/us/stat/58/698]; renumbered § 340, Oct. 12, 1976, [Pub. L. 94–484, title IV, § 407(b)(2)][/us/pl/94/484/s407/b/2], [90 Stat. 2268][/us/stat/90/2268], related to apprehension, detention, treatment, and release of persons being treated for leprosy, prior to repeal by [Pub. L. 95–626, title I, § 105(b)][/us/pl/95/626/s105/b], Nov. 10, 1978, [92 Stat. 3560][/us/stat/92/3560].
+    Another prior section 256, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 340, formerly § 332, [58 Stat. 698][/us/stat/58/698]; renumbered § 340, Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(2), [90 Stat. 2268][/us/stat/90/2268], related to apprehension, detention, treatment, and release of persons being treated for leprosy, prior to repeal by [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 105(b), Nov. 10, 1978, [92 Stat. 3560][/us/stat/92/3560].
 
  __Demonstration Project To Provide Access to Affordable Care__ 
 
-[Pub. L. 111–148, title X, § 10504][/us/pl/111/148/s10504], Mar. 23, 2010, [124 Stat. 1004][/us/stat/124/1004], provided that:
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10504, Mar. 23, 2010, [124 Stat. 1004][/us/stat/124/1004], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -267,7 +267,7 @@
 
  __Purpose__ 
 
-[Pub. L. 107–251, title IV, § 401][/us/pl/107/251/s401], Oct. 26, 2002, [116 Stat. 1655][/us/stat/116/1655], provided that: 
+[Pub. L. 107–251, title IV][/us/pl/107/251/tIV], § 401, Oct. 26, 2002, [116 Stat. 1655][/us/stat/116/1655], provided that: 
 
 > “The purpose of this title \[enacting this subpart and subpart X (§ 256f et seq.) of this part and provisions set out as a note under [section 1396a of this title][/us/usc/t42/s1396a]\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
 
@@ -287,43 +287,43 @@
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/usc/t42/s1396r–4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Fb%2F3
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/251/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs402
+[/us/pl/107/251/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIV
 [/us/stat/116/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1655
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/77/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs601
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F511
-[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVIII
 [/us/stat/102/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3168
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVI
 [/us/stat/102/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3241
-[/us/pl/101/93/s5/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Ft%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F615
-[/us/pl/101/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645
+[/us/pl/101/645/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtV
 [/us/stat/104/4724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4724
-[/us/pl/102/531/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs309%2Fc
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3501
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/626/s115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs115%2F2
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3567
-[/us/pl/96/142/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2Fs301%2Fa
+[/us/pl/96/142/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2FtIII
 [/us/stat/93/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1073
-[/us/pl/97/35/s903/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs903%2Fb%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F561
-[/us/pl/97/414/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fh
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2061
-[/us/pl/97/35/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs903%2Fc
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F561
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/stat/58/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F698
-[/us/pl/94/484/s407/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F2
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
-[/us/pl/95/626/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs105%2Fb
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3560
-[/us/pl/111/148/s10504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10504
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1004
-[/us/pl/107/251/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs401
+[/us/pl/107/251/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIV
 [/us/stat/116/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1655
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 

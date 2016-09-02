@@ -17,7 +17,7 @@
 
     Each State energy conservation plan with respect to which assistance is made available under this part on or after August 8, 2005, shall contain a goal, consisting of an improvement of 25 percent or more in the efficiency of use of energy in the State concerned in calendar year 2012 as compared to calendar year 1990, and may contain interim goals.
 
-([Pub. L. 94–163, title III, § 364][/us/pl/94/163/s364], Dec. 22, 1975, [89 Stat. 935][/us/stat/89/935]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440, § 2(a)(1)][/us/pl/101/440/s2/a/1], Oct. 18, 1990, [104 Stat. 1006][/us/stat/104/1006]; [Pub. L. 109–58, title I, § 123(b)][/us/pl/109/58/s123/b], Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 364, Dec. 22, 1975, [89 Stat. 935][/us/stat/89/935]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440][/us/pl/101/440], § 2(a)(1), Oct. 18, 1990, [104 Stat. 1006][/us/stat/104/1006]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 123(b), Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616].)
 
  __Amendments__ 
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/94/163/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs364
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F935
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/101/440/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs2%2Fa%2F1
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1006
-[/us/pl/109/58/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs123%2Fb
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F616
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440

@@ -17,7 +17,7 @@
 
     For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible for assistance under the State’s plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 470, as added [Pub. L. 96–272, title I, § 101(a)(1)][/us/pl/96/272/s101/a/1], June 17, 1980, [94 Stat. 501][/us/stat/94/501]; amended [Pub. L. 99–272, title XII, § 12307(d)][/us/pl/99/272/s12307/d], Apr. 7, 1986, [100 Stat. 297][/us/stat/100/297]; [Pub. L. 99–514, title XVII, § 1711(c)(1)][/us/pl/99/514/s1711/c/1], Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784]; [Pub. L. 104–193, title I, § 108(d)(1)][/us/pl/104/193/s108/d/1], Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 470, as added [Pub. L. 96–272, title I][/us/pl/96/272/tI], § 101(a)(1), June 17, 1980, [94 Stat. 501][/us/stat/94/501]; amended [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12307(d), Apr. 7, 1986, [100 Stat. 297][/us/stat/100/297]; [Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1711(c)(1), Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(d)(1), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVII, § 1711(d)][/us/pl/99/514/s1711/d], Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784], provided that: 
+[Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1711(d), Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 671, 673, and 675 of this title\] shall apply only with respect to expenditures made after December 31, 1986.”
 
@@ -375,15 +375,15 @@
 
  __Entitlement Funding for State Courts To Assess and Improve Handling of Proceedings Relating to Foster Care and Adoption__ 
 
-    [Pub. L. 103–66, title XIII, § 13712][/us/pl/103/66/s13712], Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655], as amended by [Pub. L. 105–89, title III, § 305(a)(3)][/us/pl/105/89/s305/a/3], Nov. 19, 1997, [111 Stat. 2130][/us/stat/111/2130]; [Pub. L. 107–133, title I, § 107(a)][/us/pl/107/133/s107/a]–(d), Jan. 17, 2002, [115 Stat. 2418][/us/stat/115/2418], which was formerly set out as a note under this section, was renumbered section 438 of the Social Security Act by [Pub. L. 107–133, title I, § 107(e)][/us/pl/107/133/s107/e], Jan. 17, 2002, [115 Stat. 2419][/us/stat/115/2419], and is classified to [section 629h of this title][/us/usc/t42/s629h].
+    [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13712, Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655], as amended by [Pub. L. 105–89, title III][/us/pl/105/89/tIII], § 305(a)(3), Nov. 19, 1997, [111 Stat. 2130][/us/stat/111/2130]; [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 107(a)–(d), Jan. 17, 2002, [115 Stat. 2418][/us/stat/115/2418], which was formerly set out as a note under this section, was renumbered section 438 of the Social Security Act by [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 107(e), Jan. 17, 2002, [115 Stat. 2419][/us/stat/115/2419], and is classified to [section 629h of this title][/us/usc/t42/s629h].
 
  __Abandoned Infants Assistance__ 
 
-    [Pub. L. 100–505][/us/pl/100/505], Oct. 18, 1988, [102 Stat. 2533][/us/stat/102/2533], as amended by [Pub. L. 102–236][/us/pl/102/236], §§ 2–8, Dec. 12, 1991, [105 Stat. 1812–1816][/us/stat/105/1812-1816]; [Pub. L. 104–235, title II][/us/pl/104/235], §§ 221, 222, Oct. 3, 1996, [110 Stat. 3091][/us/stat/110/3091], 3092; [Pub. L. 108–36, title III][/us/pl/108/36], §§ 301–305, June 25, 2003, [117 Stat. 822–824][/us/stat/117/822-824], known as the Abandoned Infants Assistance Act of 1988, and formerly set out as a note under this section, provided temporary authority for the Secretary of Health and Human Services to make grants to public and nonprofit private entities for the purpose of developing, implementing, and operating projects to prevent the abandonment of infants and young children and required the Secretary to provide for evaluations of those projects. As amended by [Pub. L. 102–236, § 8][/us/pl/102/236/s8], the program became permanent, and [Pub. L. 100–505][/us/pl/100/505], except title II, was transferred to subchapter IV–A (§ 5117aa et seq.) of chapter 67 of this title. Subsequently, title II of [Pub. L. 100–505][/us/pl/100/505] was repealed by [Pub. L. 111–320, title IV, § 401(b)][/us/pl/111/320/s401/b], Dec. 20, 2010, [124 Stat. 3513][/us/stat/124/3513].
+    [Pub. L. 100–505][/us/pl/100/505], Oct. 18, 1988, [102 Stat. 2533][/us/stat/102/2533], as amended by [Pub. L. 102–236][/us/pl/102/236], §§ 2–8, Dec. 12, 1991, [105 Stat. 1812–1816][/us/stat/105/1812-1816]; [Pub. L. 104–235, title II][/us/pl/104/235/tII], §§ 221, 222, Oct. 3, 1996, [110 Stat. 3091][/us/stat/110/3091], 3092; [Pub. L. 108–36, title III][/us/pl/108/36/tIII], §§ 301–305, June 25, 2003, [117 Stat. 822–824][/us/stat/117/822-824], known as the Abandoned Infants Assistance Act of 1988, and formerly set out as a note under this section, provided temporary authority for the Secretary of Health and Human Services to make grants to public and nonprofit private entities for the purpose of developing, implementing, and operating projects to prevent the abandonment of infants and young children and required the Secretary to provide for evaluations of those projects. As amended by [Pub. L. 102–236][/us/pl/102/236], § 8, the program became permanent, and [Pub. L. 100–505][/us/pl/100/505], except title II, was transferred to subchapter IV–A (§ 5117aa et seq.) of chapter 67 of this title. Subsequently, title II of [Pub. L. 100–505][/us/pl/100/505] was repealed by [Pub. L. 111–320, title IV][/us/pl/111/320/tIV], § 401(b), Dec. 20, 2010, [124 Stat. 3513][/us/stat/124/3513].
 
  __Study of Foster Care and Adoption Assistance Programs; Report to Congress Not Later Than__  __October 1, 1983__ 
 
-    [Pub. L. 96–272, title I, § 101(b)][/us/pl/96/272/s101/b], June 17, 1980, [94 Stat. 513][/us/stat/94/513], directed the Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act ([42 U.S.C. 670][/us/usc/t42/s670] et seq.) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
+    [Pub. L. 96–272, title I][/us/pl/96/272/tI], § 101(b), June 17, 1980, [94 Stat. 513][/us/stat/94/513], directed the Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act ([42 U.S.C. 670][/us/usc/t42/s670] et seq.) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
 
 ----------
 
@@ -393,13 +393,13 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/272/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs101%2Fa%2F1
+[/us/pl/96/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtI
 [/us/stat/94/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F501
-[/us/pl/99/272/s12307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12307%2Fd
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F297
-[/us/pl/99/514/s1711/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1711%2Fc%2F1
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2784
-[/us/pl/104/193/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fd%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2166
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -407,7 +407,7 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/99/514/s1711/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1711%2Fd
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2784
 [/us/pl/106/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F314
 [/us/stat/114/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1266
@@ -428,29 +428,29 @@
 [/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/stat/111/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2115
-[/us/pl/103/66/s13712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13712
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F655
-[/us/pl/105/89/s305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs305%2Fa%2F3
+[/us/pl/105/89/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIII
 [/us/stat/111/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2130
-[/us/pl/107/133/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs107%2Fa
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2418
-[/us/pl/107/133/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs107%2Fe
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2419
 [/us/usc/t42/s629h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629h
 [/us/pl/100/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505
 [/us/stat/102/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2533
 [/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
 [/us/stat/105/1812-1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1812-1816
-[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtII
 [/us/stat/110/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3091
-[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIII
 [/us/stat/117/822-824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F822-824
-[/us/pl/102/236/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs8
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
 [/us/pl/100/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505
 [/us/pl/100/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505
-[/us/pl/111/320/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs401%2Fb
+[/us/pl/111/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtIV
 [/us/stat/124/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3513
-[/us/pl/96/272/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs101%2Fb
+[/us/pl/96/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtI
 [/us/stat/94/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F513
 [/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 

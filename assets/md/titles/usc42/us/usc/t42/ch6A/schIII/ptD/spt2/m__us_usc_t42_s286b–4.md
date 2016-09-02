@@ -47,7 +47,7 @@
 
             (B) enhancing and improving the capabilities of health professionals regarding research and teaching.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 473, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 861][/us/stat/99/861]; amended [Pub. L. 103–43, title XIV, § 1411][/us/pl/103/43/s1411], June 10, 1993, [107 Stat. 171][/us/stat/107/171].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 473, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 861][/us/stat/99/861]; amended [Pub. L. 103–43, title XIV][/us/pl/103/43/tXIV], § 1411, June 10, 1993, [107 Stat. 171][/us/stat/107/171].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F861
-[/us/pl/103/43/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1411
+[/us/pl/103/43/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIV
 [/us/stat/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F171
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

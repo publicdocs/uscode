@@ -27,7 +27,7 @@
 
     (5) include the therapeutic application of radiation to individuals in the treatment of disease, including nuclear medicine applications.
 
-([Pub. L. 97–35, title IX, § 982][/us/pl/97/35/s982], Aug. 13, 1981, [95 Stat. 601][/us/stat/95/601]; [Pub. L. 102–54, § 13(q)(13)(B)][/us/pl/102/54/s13/q/13/B], June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 982, Aug. 13, 1981, [95 Stat. 601][/us/stat/95/601]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(13)(B), June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs982
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F601
-[/us/pl/102/54/s13/q/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F13%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 

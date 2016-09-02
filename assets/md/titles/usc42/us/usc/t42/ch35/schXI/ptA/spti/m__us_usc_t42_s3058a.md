@@ -27,11 +27,11 @@
 
         There are authorized to be appropriated to carry out subpart IV of this part, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.
 
-([Pub. L. 89–73, title VII, § 702][/us/pl/89/73/s702], as added [Pub. L. 102–375, title VII, § 701][/us/pl/102/375/s701], Sept. 30, 1992, [106 Stat. 1271][/us/stat/106/1271]; amended [Pub. L. 106–501, title VII, § 701][/us/pl/106/501/s701], Nov. 13, 2000, [114 Stat. 2289][/us/stat/114/2289]; [Pub. L. 109–365, title VII, § 701][/us/pl/109/365/s701], Oct. 17, 2006, [120 Stat. 2591][/us/stat/120/2591].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 702, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 701, Sept. 30, 1992, [106 Stat. 1271][/us/stat/106/1271]; amended [Pub. L. 106–501, title VII][/us/pl/106/501/tVII], § 701, Nov. 13, 2000, [114 Stat. 2289][/us/stat/114/2289]; [Pub. L. 109–365, title VII][/us/pl/109/365/tVII], § 701, Oct. 17, 2006, [120 Stat. 2591][/us/stat/120/2591].)
 
  __Prior Provisions__ 
 
-    A prior section 3058a, [Pub. L. 89–73, title VII, § 703][/us/pl/89/73/s703], as added [Pub. L. 98–459, title VII, § 701][/us/pl/98/459/s701], Oct. 9, 1984, [98 Stat. 1789][/us/stat/98/1789], related to statement of purposes, prior to repeal by [Pub. L. 100–175, title I, § 181][/us/pl/100/175/s181], title VIII, § 701(a), (b), Nov. 29, 1987, [101 Stat. 964][/us/stat/101/964], 983, effective Oct. 1, 1987, with certain exceptions.
+    A prior section 3058a, [Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 703, as added [Pub. L. 98–459, title VII][/us/pl/98/459/tVII], § 701, Oct. 9, 1984, [98 Stat. 1789][/us/stat/98/1789], related to statement of purposes, prior to repeal by [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 181, title VIII, § 701(a), (b), Nov. 29, 1987, [101 Stat. 964][/us/stat/101/964], 983, effective Oct. 1, 1987, with certain exceptions.
 
     A prior [section 702 of Pub. L. 89–73][/us/pl/89/73/s702] was classified to [section 3045a of this title][/us/usc/t42/s3045a] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
@@ -48,17 +48,17 @@
 ----------
 ----------
 
-[/us/pl/89/73/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs702
-[/us/pl/102/375/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs701
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1271
-[/us/pl/106/501/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs701
+[/us/pl/106/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVII
 [/us/stat/114/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2289
-[/us/pl/109/365/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs701
+[/us/pl/109/365/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtVII
 [/us/stat/120/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2591
-[/us/pl/89/73/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs703
-[/us/pl/98/459/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs701
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/98/459/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtVII
 [/us/stat/98/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1789
-[/us/pl/100/175/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs181
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F964
 [/us/pl/89/73/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs702
 [/us/usc/t42/s3045a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3045a

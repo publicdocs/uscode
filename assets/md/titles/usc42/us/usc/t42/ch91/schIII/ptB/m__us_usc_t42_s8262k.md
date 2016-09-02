@@ -23,7 +23,7 @@
 
         The criteria established under subsection (a) of this section shall be used to encourage Federal contractors, and their subcontractors, which manage and operate federally-owned facilities, to adopt and utilize energy conservation measures designed to reduce energy costs in Government-owned and contractor-operated facilities and which are ultimately borne by the Federal Government.
 
-([Pub. L. 102–486, title I, § 167][/us/pl/102/486/s167], Oct. 24, 1992, [106 Stat. 2862][/us/stat/106/2862].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 167, Oct. 24, 1992, [106 Stat. 2862][/us/stat/106/2862].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs167
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2862
 
 

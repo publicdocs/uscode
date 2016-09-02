@@ -51,7 +51,7 @@
 
         No grant shall be made under this chapter for any project for which the applicant does not give assurances satisfactory to the Secretary that the project will be designed and constructed in accordance with the standards for accessibility for public buildings and facilities to the handicapped and elderly under the Act entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 ([42 U.S.C. 4151][/us/usc/t42/s4151] et seq.). The Architectural and Transportation Barriers Compliance Board established by the Rehabilitation Act of 1973 ([P.L. 93–112][/us/pl/93/112]) \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\] is authorized to insure that any construction and renovation done pursuant to any grant made under this chapter complies with the accessibility standards for public bunldings  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “buildings”. </sup></sup>  and facilities issued under the Act of August 12, 1968.
 
-([Pub. L. 94–369, title I, § 106][/us/pl/94/369/s106], July 22, 1976, [90 Stat. 1000][/us/stat/90/1000]; [Pub. L. 95–28, title I, § 103][/us/pl/95/28/s103], May 13, 1977, [91 Stat. 116][/us/stat/91/116].)
+([Pub. L. 94–369, title I][/us/pl/94/369/tI], § 106, July 22, 1976, [90 Stat. 1000][/us/stat/90/1000]; [Pub. L. 95–28, title I][/us/pl/95/28/tI], § 103, May 13, 1977, [91 Stat. 116][/us/stat/91/116].)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t42/s4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4151
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/94/369/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs106
+[/us/pl/94/369/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtI
 [/us/stat/90/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1000
-[/us/pl/95/28/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2Fs103
+[/us/pl/95/28/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2FtI
 [/us/stat/91/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F116
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

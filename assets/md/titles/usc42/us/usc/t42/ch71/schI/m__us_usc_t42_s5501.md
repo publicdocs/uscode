@@ -43,21 +43,21 @@
 
     (b) It is therefore declared to be the policy of the United States and the purpose of this subchapter to provide for the demonstration within a three-year period of the practical use of solar heating technology, and to provide for the development and demonstration within a five-year period of the practical use of combined heating and cooling technology.
 
-([Pub. L. 93–409, § 2][/us/pl/93/409/s2], Sept. 3, 1974, [88 Stat. 1069][/us/stat/88/1069].)
+([Pub. L. 93–409][/us/pl/93/409], § 2, Sept. 3, 1974, [88 Stat. 1069][/us/stat/88/1069].)
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–590, § 1][/us/pl/95/590/s1], Nov. 4, 1978, [92 Stat. 2513][/us/stat/92/2513], provided: 
+[Pub. L. 95–590][/us/pl/95/590], § 1, Nov. 4, 1978, [92 Stat. 2513][/us/stat/92/2513], provided: 
 
 > “That this Act \[enacting subchapter III of this chapter\] may be cited as the ‘Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978’.”
 
  __Short Title__ 
 
-[Pub. L. 93–409, § 1][/us/pl/93/409/s1], Sept. 3, 1974, [88 Stat. 1069][/us/stat/88/1069], provided: 
+[Pub. L. 93–409][/us/pl/93/409], § 1, Sept. 3, 1974, [88 Stat. 1069][/us/stat/88/1069], provided: 
 
 > “That this Act \[enacting this subchapter and amending [section 2473 of this title][/us/usc/t42/s2473]\] may be cited as the ‘Solar Heating and Cooling Demonstration Act of 1974’.”
 
-[Pub. L. 93–473, § 1][/us/pl/93/473/s1], Oct. 26, 1974, [88 Stat. 1431][/us/stat/88/1431], provided: 
+[Pub. L. 93–473][/us/pl/93/473], § 1, Oct. 26, 1974, [88 Stat. 1431][/us/stat/88/1431], provided: 
 
 > “That this Act \[enacting subchapter II of this chapter\] may be cited as the ‘Solar Energy Research, Development, and Demonstration Act of 1974’.”
 
@@ -68,14 +68,14 @@
 ----------
 ----------
 
-[/us/pl/93/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs2
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1069
-[/us/pl/95/590/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs1
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2513
-[/us/pl/93/409/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs1
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1069
 [/us/usc/t42/s2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473
-[/us/pl/93/473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs1
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1431
 
 

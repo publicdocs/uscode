@@ -31,11 +31,11 @@
 
         There are hereby authorized to be appropriated $3,500,000 to carry out the provisions of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 643A, formerly § 623A, as added [Pub. L. 90–174, § 11][/us/pl/90/174/s11], Dec. 5, 1967, [81 Stat. 541][/us/stat/81/541], and renumbered § 643A, [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 344][/us/stat/84/344].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 643A, formerly § 623A, as added [Pub. L. 90–174][/us/pl/90/174], § 11, Dec. 5, 1967, [81 Stat. 541][/us/stat/81/541], and renumbered § 643A, [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 344][/us/stat/84/344].)
 
  __References in Text__ 
 
-    [Section 291n of this title][/us/usc/t42/s291n], referred to in subsec. (a), was repealed by [Pub. L. 90–174, § 3(b)(1)][/us/pl/90/174/s3/b/1], Dec. 5, 1967, [81 Stat. 535][/us/stat/81/535].
+    [Section 291n of this title][/us/usc/t42/s291n], referred to in subsec. (a), was repealed by [Pub. L. 90–174][/us/pl/90/174], § 3(b)(1), Dec. 5, 1967, [81 Stat. 535][/us/stat/81/535].
 
 ----------
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/174/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs11
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F541
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F344
 [/us/usc/t42/s291n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291n
-[/us/pl/90/174/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs3%2Fb%2F1
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F535
 
 

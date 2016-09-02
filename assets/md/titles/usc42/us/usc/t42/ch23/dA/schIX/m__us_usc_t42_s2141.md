@@ -19,7 +19,7 @@
 
     (b) The Department of Energy shall not distribute any special nuclear material or source material under section 2074 or 2094 of this title other than under an export license issued by the Nuclear Regulatory Commission until (1) the Department has obtained the concurrence of the Department of State and has consulted with the Nuclear Regulatory Commission and the Department of Defense under mutually agreed procedures which shall be established within not more than ninety days after March 10, 1978, and (2) the Department finds based on a reasonable judgment of the assurances provided and the information available to the United States Government, that the criteria in [section 2156 of this title][/us/usc/t42/s2156] or their equivalent and any applicable criteria in [section 2157 of this title][/us/usc/t42/s2157] are met, and that the proposed distribution would not be inimical to the common defense and security.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 111, as added [Pub. L. 95–242, title III, § 301(c)][/us/pl/95/242/s301/c], Mar. 10, 1978, [92 Stat. 125][/us/stat/92/125]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 105–277, div. G, title XII, § 1225(d)(3)][/us/pl/105/277/s1225/d/3], Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 111, as added [Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 301(c), Mar. 10, 1978, [92 Stat. 125][/us/stat/92/125]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(d)(3), Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774].)
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 [/us/usc/t42/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2156
 [/us/usc/t42/s2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2157
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/242/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs301%2Fc
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F125
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/105/277/s1225/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F3
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-774
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

@@ -75,7 +75,7 @@
 
         (4) the right of Indians to practice their religions under any Federal or State law.
 
-([Pub. L. 95–341, § 3][/us/pl/95/341/s3], as added [Pub. L. 103–344, § 2][/us/pl/103/344/s2], Oct. 6, 1994, [108 Stat. 3125][/us/stat/108/3125].)
+([Pub. L. 95–341][/us/pl/95/341], § 3, as added [Pub. L. 103–344][/us/pl/103/344], § 2, Oct. 6, 1994, [108 Stat. 3125][/us/stat/108/3125].)
 
  __References in Text__ 
 
@@ -99,8 +99,8 @@
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/usc/t42/s2000bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000bb%E2%80%931
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/95/341/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341%2Fs3
-[/us/pl/103/344/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F344%2Fs2
+[/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
+[/us/pl/103/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F344
 [/us/stat/108/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3125
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488

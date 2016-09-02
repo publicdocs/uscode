@@ -113,11 +113,11 @@
 
         To carry out this section, the Secretary of Health and Human Services shall promulgate interim final regulations by not later than the date that is 180 days after February 17, 2009. The provisions of this section shall apply to breaches that are discovered on or after the date that is 30 days after the date of publication of such interim final regulations.
 
-([Pub. L. 111–5, div. A, title XIII, § 13402][/us/pl/111/5/s13402], Feb. 17, 2009, [123 Stat. 260][/us/stat/123/260].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13402, Feb. 17, 2009, [123 Stat. 260][/us/stat/123/260].)
 
  __References in Text__ 
 
-    Section 13101 of this Act, referred to in subsec. (h)(2), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/s13101].
+    Section 13101 of this Act, referred to in subsec. (h)(2), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13101].
 
 ----------
 
@@ -128,8 +128,8 @@
 
 [/us/usc/t42/s17937/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17937%2Ff%2F3
 [/us/usc/t42/s300jj–12/b/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9312%2Fb%2F2%2FB%2Fvi
-[/us/pl/111/5/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13402
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F260
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13101
 
 

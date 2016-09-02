@@ -23,7 +23,7 @@
 
         The Attorney General may consult with the Ounce of Prevention Council in making grants under subsection (a) of this section.
 
-([Pub. L. 103–322, title III, § 31701][/us/pl/103/322/s31701], Sept. 13, 1994, [108 Stat. 1890][/us/stat/108/1890].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31701, Sept. 13, 1994, [108 Stat. 1890][/us/stat/108/1890].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31701
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1890
 
 

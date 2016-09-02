@@ -43,7 +43,7 @@
 
         The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding [section 1342 of title 31][/us/usc/t31/s1342]. Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
 
-([Pub. L. 90–351, title I, § 807][/us/pl/90/351/s807], as added [Pub. L. 98–473, title II, § 609B(g)][/us/pl/98/473/s609B/g], Oct. 12, 1984, [98 Stat. 2094][/us/stat/98/2094].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 807, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609B(g), Oct. 12, 1984, [98 Stat. 2094][/us/stat/98/2094].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3788, [Pub. L. 90–351, title I, § 810][/us/pl/90/351/s810], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1204][/us/stat/93/1204], contained in part provisions similar to subsec. (a) of this section, prior to repeal by [section 609B(e) of Pub. L. 98–473][/us/pl/98/473/s609B/e].
+    A prior section 3788, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 810, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1204][/us/stat/93/1204], contained in part provisions similar to subsec. (a) of this section, prior to repeal by [section 609B(e) of Pub. L. 98–473][/us/pl/98/473/s609B/e].
 
     A prior [section 807 of Pub. L. 90–351][/us/pl/90/351/s807] was classified to [section 3787 of this title][/us/usc/t42/s3787] prior to repeal by [section 609B(e) of Pub. L. 98–473][/us/pl/98/473/s609B/e].
 
@@ -83,13 +83,13 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t31/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1345
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/90/351/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs807
-[/us/pl/98/473/s609B/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fg
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2094
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/90/351/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs810
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1204
 [/us/pl/98/473/s609B/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fe
 [/us/pl/90/351/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs807

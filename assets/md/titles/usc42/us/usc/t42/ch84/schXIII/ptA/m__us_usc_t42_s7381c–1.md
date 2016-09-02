@@ -59,7 +59,7 @@
 
         Not later than 2 years after August 8, 2005, the Secretary shall submit to Congress a report describing the activities carried out under this section.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3167][/us/pl/101/510/s3167], as added [Pub. L. 109–58, title XI, § 1105(b)(2)][/us/pl/109/58/s1105/b/2], Aug. 8, 2005, [119 Stat. 940][/us/stat/119/940]; amended [Pub. L. 110–315, title IX, § 941(k)(2)(M)][/us/pl/110/315/s941/k/2/M], Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3167, as added [Pub. L. 109–58, title XI][/us/pl/109/58/tXI], § 1105(b)(2), Aug. 8, 2005, [119 Stat. 940][/us/stat/119/940]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(M), Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
 
  __Prior Provisions__ 
 
@@ -81,10 +81,10 @@
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
 [/us/usc/t42/s16182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16182
 [/us/usc/t25/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa
-[/us/pl/101/510/s3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3167
-[/us/pl/109/58/s1105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1105%2Fb%2F2
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
+[/us/pl/109/58/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXI
 [/us/stat/119/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F940
-[/us/pl/110/315/s941/k/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FM
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3467
 [/us/pl/101/510/s3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3167
 [/us/usc/t42/s7381d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7381d

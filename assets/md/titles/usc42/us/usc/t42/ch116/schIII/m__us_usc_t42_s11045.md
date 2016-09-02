@@ -79,7 +79,7 @@
 
         (2) The Administrator may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this section. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-([Pub. L. 99–499, title III, § 325][/us/pl/99/499/s325], Oct. 17, 1986, [100 Stat. 1753][/us/stat/100/1753].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 325, Oct. 17, 1986, [100 Stat. 1753][/us/stat/100/1753].)
 
 ----------
 
@@ -102,7 +102,7 @@
 [/us/usc/t42/s11042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11042
 [/us/usc/t42/s11043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11043
 [/us/usc/t42/s11043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11043
-[/us/pl/99/499/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs325
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1753
 
 

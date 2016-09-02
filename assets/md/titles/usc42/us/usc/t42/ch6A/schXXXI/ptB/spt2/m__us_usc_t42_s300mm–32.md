@@ -75,7 +75,7 @@
 
             Any cancer (or type of cancer) or other condition added to the list in [section 300mm–22(a)(3) of this title][/us/usc/t42/s300mm–22/a/3] pursuant to paragraph (5) or (6) of [section 300mm–22(a) of this title][/us/usc/t42/s300mm–22/a], as such provisions are applied under subsection (a) with respect to certified-eligible WTC survivors.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3322, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3652][/us/stat/124/3652].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3322, as added [Pub. L. 111–347, title I][/us/pl/111/347/tI], § 101, Jan. 2, 2011, [124 Stat. 3652][/us/stat/124/3652].)
 
 ----------
 
@@ -87,7 +87,7 @@
 [/us/usc/t42/s300mm–22/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fa%2F3
 [/us/usc/t42/s300mm–22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
+[/us/pl/111/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtI
 [/us/stat/124/3652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3652
 
 

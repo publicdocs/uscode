@@ -103,11 +103,11 @@
 
         (3) disseminate such effective strategies throughout the health care industry.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 912, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1656][/us/stat/113/1656]; amended [Pub. L. 109–41, § 2(a)(1)][/us/pl/109/41/s2/a/1], July 29, 2005, [119 Stat. 424][/us/stat/119/424].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 912, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1656][/us/stat/113/1656]; amended [Pub. L. 109–41][/us/pl/109/41], § 2(a)(1), July 29, 2005, [119 Stat. 424][/us/stat/119/424].)
 
  __Prior Provisions__ 
 
-    A prior section 299b–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 912, as added [Pub. L. 101–239, title VI, § 6103(a)][/us/pl/101/239/s6103/a], Dec. 19, 1989, [103 Stat. 2192][/us/stat/103/2192]; amended [Pub. L. 102–410][/us/pl/102/410], §§ 5(a)(1), (c)(1), 6(b), Oct. 13, 1992, [106 Stat. 2096][/us/stat/106/2096], 2097, 2100, related to the duties of the Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
+    A prior section 299b–1, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 912, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(a), Dec. 19, 1989, [103 Stat. 2192][/us/stat/103/2192]; amended [Pub. L. 102–410][/us/pl/102/410], §§ 5(a)(1), (c)(1), 6(b), Oct. 13, 1992, [106 Stat. 2096][/us/stat/106/2096], 2097, 2100, related to the duties of the Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
 
  __Amendments__ 
 
@@ -121,12 +121,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1656
-[/us/pl/109/41/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F1
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fa
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2192
 [/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2096

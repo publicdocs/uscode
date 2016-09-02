@@ -55,15 +55,15 @@
 
         Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to [section 552(a)(4)(B) of title 5][/us/usc/t5/s552/a/4/B].
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 148, as added [Pub. L. 97–90, title II, § 210(a)(1)][/us/pl/97/90/s210/a/1], Dec. 4, 1981, [95 Stat. 1169][/us/stat/95/1169]; amended [Pub. L. 97–415, § 17][/us/pl/97/415/s17], Jan. 4, 1983, [96 Stat. 2076][/us/stat/96/2076]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXI, § 3134(c)][/us/pl/112/239/s3134/c], Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 148, as added [Pub. L. 97–90, title II][/us/pl/97/90/tII], § 210(a)(1), Dec. 4, 1981, [95 Stat. 1169][/us/stat/95/1169]; amended [Pub. L. 97–415][/us/pl/97/415], § 17, Jan. 4, 1983, [96 Stat. 2076][/us/stat/96/2076]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3134(c), Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193].)
 
  __Amendments__ 
 
     2013—Subsec. (e). [Pub. L. 112–239][/us/pl/112/239] struck out subsec. (e), which related to quarterly reports for interested persons.
 
-    1983—Subsec. (a)(1). [Pub. L. 97–415, § 17(a)][/us/pl/97/415/s17/a], inserted “, with respect to atomic energy defense programs,” after “(hereinafter in this section referred to as the ‘Secretary’)”.
+    1983—Subsec. (a)(1). [Pub. L. 97–415][/us/pl/97/415], § 17(a), inserted “, with respect to atomic energy defense programs,” after “(hereinafter in this section referred to as the ‘Secretary’)”.
 
-    Subsecs. (d), (e). [Pub. L. 97–415, § 17(b)][/us/pl/97/415/s17/b], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 97–415][/us/pl/97/415], § 17(b), added subsecs. (d) and (e).
 
 ----------
 
@@ -79,16 +79,16 @@
 [/us/usc/t42/s2201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201%2Fb
 [/us/usc/t5/s552/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F4%2FB
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/97/90/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2Fs210%2Fa%2F1
+[/us/pl/97/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2FtII
 [/us/stat/95/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1169
-[/us/pl/97/415/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs17
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2076
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/112/239/s3134/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fc
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2193
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/97/415/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs17%2Fa
-[/us/pl/97/415/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs17%2Fb
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 
 

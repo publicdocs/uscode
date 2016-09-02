@@ -33,25 +33,25 @@
 
         (B) The term “Vaccine Injury Table” means the table set out in [section 300aa–14 of this title][/us/usc/t42/s300aa–14].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2133, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3778][/us/stat/100/3778]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296], §§ 1714–1716, Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320], 2321; [Pub. L. 108–7, div. L, § 102(a)][/us/pl/108/7/s102/a], Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2133, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3778][/us/stat/100/3778]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], §§ 1714–1716, Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320], 2321; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 102(a), Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528].)
 
  __Amendments__ 
 
     2003—Pars. (3), (5), (7). [Pub. L. 108–7][/us/pl/108/7] repealed [Pub. L. 107–296][/us/pl/107/296], §§ 1714–1717, and provided that this chapter shall be applied as if the sections repealed had never been enacted. See 2002 Amendment notes below.
 
-    2002—Par. (3). [Pub. L. 107–296, § 1714][/us/pl/107/296/s1714], which directed amendment of first sentence by substituting “any vaccine set forth in the Vaccine Injury table, including any component or ingredient of any such vaccine” for “under its label any vaccine set forth in the Vaccine Injury Table” and of second sentence by inserting “including any component or ingredient of any such vaccine” before period at end, was repealed by [Pub. L. 108–7][/us/pl/108/7].
+    2002—Par. (3). [Pub. L. 107–296][/us/pl/107/296], § 1714, which directed amendment of first sentence by substituting “any vaccine set forth in the Vaccine Injury table, including any component or ingredient of any such vaccine” for “under its label any vaccine set forth in the Vaccine Injury Table” and of second sentence by inserting “including any component or ingredient of any such vaccine” before period at end, was repealed by [Pub. L. 108–7][/us/pl/108/7].
 
-    Par. (5). [Pub. L. 107–296, § 1715][/us/pl/107/296/s1715], which directed insertion of “For purposes of the preceding sentence, an adulterant or contaminant shall not include any component or ingredient listed in a vaccine’s product license application or product label.” at end, was repealed by [Pub. L. 108–7][/us/pl/108/7].
+    Par. (5). [Pub. L. 107–296][/us/pl/107/296], § 1715, which directed insertion of “For purposes of the preceding sentence, an adulterant or contaminant shall not include any component or ingredient listed in a vaccine’s product license application or product label.” at end, was repealed by [Pub. L. 108–7][/us/pl/108/7].
 
-    Par. (7). [Pub. L. 107–296, § 1716][/us/pl/107/296/s1716], which directed addition of par. (7), was repealed by [Pub. L. 108–7, § 102(a)][/us/pl/108/7/s102/a]. Par. (7) read as follows: “The term ‘vaccine’ means any preparation or suspension, including but not limited to a preparation or suspension containing an attenuated or inactive microorganism or subunit thereof or toxin, developed or administered to produce or enhance the body’s immune response to a disease or diseases and includes all components and ingredients listed in the vaccines’s product license application and product label.”
+    Par. (7). [Pub. L. 107–296][/us/pl/107/296], § 1716, which directed addition of par. (7), was repealed by [Pub. L. 108–7][/us/pl/108/7], § 102(a). Par. (7) read as follows: “The term ‘vaccine’ means any preparation or suspension, including but not limited to a preparation or suspension containing an attenuated or inactive microorganism or subunit thereof or toxin, developed or administered to produce or enhance the body’s immune response to a disease or diseases and includes all components and ingredients listed in the vaccines’s product license application and product label.”
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–296, title XVII, § 1717][/us/pl/107/296/s1717], Nov. 25, 2002, [116 Stat. 2321][/us/stat/116/2321], which provided that the amendments made by sections 1714, 1715, and 1716 (amending this section) shall apply to all actions or proceedings pending on or after Nov. 25, 2002, unless a court of competent jurisdiction has entered judgment (regardless of whether the time for appeal has expired) in such action or proceeding disposing of the entire action or proceeding, was repealed by [Pub. L. 108–7, div. L, § 102(a)][/us/pl/108/7/s102/a], Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528].
+    [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1717, Nov. 25, 2002, [116 Stat. 2321][/us/stat/116/2321], which provided that the amendments made by sections 1714, 1715, and 1716 (amending this section) shall apply to all actions or proceedings pending on or after Nov. 25, 2002, unless a court of competent jurisdiction has entered judgment (regardless of whether the time for appeal has expired) in such action or proceeding disposing of the entire action or proceeding, was repealed by [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 102(a), Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528].
 
  __Construction of Amendments__ 
 
-[Pub. L. 108–7, div. L, § 102(b)][/us/pl/108/7/s102/b], (c), Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528], provided that:
+[Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 102(b), (c), Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528], provided that:
 
 >     “(b)  __Application of the Public Health Service Act__  __.—__ 
 
@@ -72,25 +72,25 @@
 [/us/usc/t42/s300aa–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9319
 [/us/usc/t42/s300aa–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9314
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3778
-[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2320
-[/us/pl/108/7/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs102%2Fa
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F528
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/296/s1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1714
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/107/296/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1715
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/107/296/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1716
-[/us/pl/108/7/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs102%2Fa
-[/us/pl/107/296/s1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1717
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2321
-[/us/pl/108/7/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs102%2Fa
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F528
-[/us/pl/108/7/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs102%2Fb
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F528
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

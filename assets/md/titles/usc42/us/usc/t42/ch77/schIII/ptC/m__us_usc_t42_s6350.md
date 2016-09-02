@@ -27,7 +27,7 @@
 
         The Secretary shall conduct a program of educational and technical assistance to promote the use of the voluntary guidelines established under subsection (a) of this section.
 
-([Pub. L. 102–486, title I, § 133][/us/pl/102/486/s133], Oct. 24, 1992, [106 Stat. 2840][/us/stat/106/2840]; [Pub. L. 104–66, title I, § 1052(a)(2)][/us/pl/104/66/s1052/a/2], Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717]; [Pub. L. 105–362, title IV, § 401(e)][/us/pl/105/362/s401/e], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 133, Oct. 24, 1992, [106 Stat. 2840][/us/stat/106/2840]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(a)(2), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717]; [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 401(e), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282].)
 
  __Codification__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/102/486/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs133
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2840
-[/us/pl/104/66/s1052/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fa%2F2
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F717
-[/us/pl/105/362/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs401%2Fe
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/usc/t42/s6349/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6349%2Fd

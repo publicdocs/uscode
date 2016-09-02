@@ -31,7 +31,7 @@
 
         If the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, after reviewing the President’s annual report or any proposed legislation, determines that it is in the interest of United States non-proliferation objectives to take any action with respect to such requirements or export policy goals, it shall report a joint resolution to implement such determination. Any joint resolution so reported shall be considered in the Senate and the House of Representatives, respectively, under applicable procedures provided for the consideration of resolutions pursuant to subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  130 b. through g. of the 1954 Act \[[42 U.S.C. 2159(b)][/us/usc/t42/s2159/b] through (g)\].
 
-([Pub. L. 95–242, title IV, § 404][/us/pl/95/242/s404], Mar. 10, 1978, [92 Stat. 147][/us/stat/92/147]; [Pub. L. 103–437, § 15(g)][/us/pl/103/437/s15/g], Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593].)
+([Pub. L. 95–242, title IV][/us/pl/95/242/tIV], § 404, Mar. 10, 1978, [92 Stat. 147][/us/stat/92/147]; [Pub. L. 103–437][/us/pl/103/437], § 15(g), Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593].)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t42/s2153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153%2Fa
 [/us/usc/t42/s2153b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153b
 [/us/usc/t42/s2159/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159%2Fb
-[/us/pl/95/242/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs404
+[/us/pl/95/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIV
 [/us/stat/92/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F147
-[/us/pl/103/437/s15/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fg
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4593
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

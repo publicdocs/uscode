@@ -21,7 +21,7 @@
 
     (2) is adversely affected by the Administrator’s action.
 
-([Pub. L. 96–320, title I, § 115][/us/pl/96/320/s115], Aug. 3, 1980, [94 Stat. 990][/us/stat/94/990].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 115, Aug. 3, 1980, [94 Stat. 990][/us/stat/94/990].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs115
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F990
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

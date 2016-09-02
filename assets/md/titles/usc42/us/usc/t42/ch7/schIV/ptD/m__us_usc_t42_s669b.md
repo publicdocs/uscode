@@ -55,7 +55,7 @@
 
         (3) shall monitor, evaluate, and report on such programs in accordance with regulations prescribed by the Secretary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 469B, as added [Pub. L. 104–193, title III, § 391][/us/pl/104/193/s391], Aug. 22, 1996, [110 Stat. 2258][/us/stat/110/2258].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 469B, as added [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 391, Aug. 22, 1996, [110 Stat. 2258][/us/stat/110/2258].)
 
  __Effective Date__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs391
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2258
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654

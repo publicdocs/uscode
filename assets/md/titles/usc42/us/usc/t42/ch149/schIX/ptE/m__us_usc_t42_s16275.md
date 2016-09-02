@@ -53,7 +53,7 @@
 
         Not later than 1 year after August 8, 2005, the Secretary shall transmit the plan under subsection (c) to Congress.
 
-([Pub. L. 109–58, title IX, § 955][/us/pl/109/58/s955], Aug. 8, 2005, [119 Stat. 887][/us/stat/119/887].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 955, Aug. 8, 2005, [119 Stat. 887][/us/stat/119/887].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs955
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F887
 
 

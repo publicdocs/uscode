@@ -23,7 +23,7 @@
 
     “young violent offenders” means individuals, ages 7 through 22, who have committed crimes of violence, weapons offenses, drug distribution, hate crimes and civil rights violations, and offenses against personal property of another.
 
-([Pub. L. 103–322, title III, § 31708][/us/pl/103/322/s31708], Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31708, Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/103/322/s31708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31708
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1892
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

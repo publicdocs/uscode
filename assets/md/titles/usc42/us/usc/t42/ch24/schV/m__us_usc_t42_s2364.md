@@ -27,9 +27,9 @@
 
  __Amendments__ 
 
-    1962—Subsec. (a). [Pub. L. 87–719, § 18][/us/pl/87/719/s18], inserted “or four thousand six hundred and twenty in the case of Los Alamos” after “Richland”.
+    1962—Subsec. (a). [Pub. L. 87–719][/us/pl/87/719], § 18, inserted “or four thousand six hundred and twenty in the case of Los Alamos” after “Richland”.
 
-    Subsec. (b). [Pub. L. 87–719, § 19][/us/pl/87/719/s19], inserted “or eleven thousand seven hundred and sixty-nine in the case of Los Alamos” after “Richland”.
+    Subsec. (b). [Pub. L. 87–719][/us/pl/87/719], § 19, inserted “or eleven thousand seven hundred and sixty-nine in the case of Los Alamos” after “Richland”.
 
  __Transfer of Functions__ 
 
@@ -47,7 +47,7 @@
 [/us/stat/69/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F479
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F666
-[/us/pl/87/719/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs18
-[/us/pl/87/719/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs19
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 
 

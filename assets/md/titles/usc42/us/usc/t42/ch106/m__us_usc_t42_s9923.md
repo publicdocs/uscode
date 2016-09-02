@@ -71,11 +71,11 @@
 
         There are authorized to be appropriated $15,000,000 for each of fiscal years 1999 through 2003 for grants to carry out this section.
 
-([Pub. L. 97–35, title VI, § 682][/us/pl/97/35/s682], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2753][/us/stat/112/2753]; amended [Pub. L. 107–110, title X, § 1076(ee)][/us/pl/107/110/s1076/ee], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 682, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2753][/us/stat/112/2753]; amended [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(ee), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(t), Dec. 10, 2015, [129 Stat. 2171][/us/stat/129/2171].)
 
  __References in Text__ 
 
-    [Section 1141(a) of title 20][/us/usc/t20/s1141/a], referred to in subsec. (b), was repealed by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in [section 1001 of Title 20][/us/usc/t20/s1001], Education.
+    [Section 1141(a) of title 20][/us/usc/t20/s1141/a], referred to in subsec. (b), was repealed by [Pub. L. 105–244][/us/pl/105/244], § 3, title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in [section 1001 of Title 20][/us/usc/t20/s1001], Education.
 
  __Prior Provisions__ 
 
@@ -87,7 +87,13 @@
 
  __Amendments__ 
 
+    2015—Subsec. (b)(4). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
+
     2002—Subsec. (b)(4). [Pub. L. 107–110][/us/pl/107/110] substituted “7801” for “8801”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -101,13 +107,15 @@
 ----------
 
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/97/35/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs682
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2753
-[/us/pl/107/110/s1076/ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fee
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2171
 [/us/usc/t20/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1141%2Fa
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/97/35/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs682
@@ -119,7 +127,12 @@
 [/us/pl/97/35/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs682
 [/us/usc/t42/s9911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9911
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

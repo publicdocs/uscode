@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated to the Secretary for the fiscal year 1979 not to exceed $500,000 to carry out the provisions of this section.
 
-([Pub. L. 95–620, title VII, § 744][/us/pl/95/620/s744], Nov. 9, 1978, [92 Stat. 3343][/us/stat/92/3343].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 744, Nov. 9, 1978, [92 Stat. 3343][/us/stat/92/3343].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/95/620/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs744
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3343
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

@@ -163,19 +163,19 @@
 
             The Comptroller General shall submit a report on the results of the study to Congress with appropriate recommendations within 12 months after October 17, 1986.
 
-([Pub. L. 96–510, title III, § 301][/us/pl/96/510/s301], Dec. 11, 1980, [94 Stat. 2805][/us/stat/94/2805]; [Pub. L. 99–499, title I, § 107(d)(3)][/us/pl/99/499/s107/d/3], title II, §§ 208, 212, Oct. 17, 1986, [100 Stat. 1630][/us/stat/100/1630], 1707, 1726; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 301, Dec. 11, 1980, [94 Stat. 2805][/us/stat/94/2805]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 107(d)(3), title II, §§ 208, 212, Oct. 17, 1986, [100 Stat. 1630][/us/stat/100/1630], 1707, 1726; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(1)(A), (E), (G), (c)(1), and (g), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which enacted this chapter, [section 6911a of this title][/us/usc/t42/s6911a], and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amended [section 6911 of this title][/us/usc/t42/s6911], [section 1364 of Title 33][/us/usc/t33/s1364], Navigation and Navigable Waters, and [section 11901 of Title 49][/us/usc/t49/s11901], Transportation, and enacted provisions set out as notes under [section 6911 of this title][/us/usc/t42/s6911] and sections 1 and 4611 of Title 26. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
-    Subchapter II of this chapter, referred to in subsec. (a)(1)(F), was in the original “title II of this Act”, meaning title II of [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2796][/us/stat/94/2796], known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26. Sections 221 to 223 and 232 of [Pub. L. 96–510][/us/pl/96/510], which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by [Pub. L. 99–499, title V][/us/pl/99/499], §§ 514(b), 517(c)(1), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1] and Tables.
+    Subchapter II of this chapter, referred to in subsec. (a)(1)(F), was in the original “title II of this Act”, meaning title II of [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2796][/us/stat/94/2796], known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26. Sections 221 to 223 and 232 of [Pub. L. 96–510][/us/pl/96/510], which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by [Pub. L. 99–499, title V][/us/pl/99/499/tV], §§ 514(b), 517(c)(1), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1] and Tables.
 
     For effective date of this chapter, referred to in subsec. (a)(2), see [section 9652 of this title][/us/usc/t42/s9652].
 
     Subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposal Act of 1980, referred to in subsec. (a)(2), probably mean section 3001(b)(2)(B) and (3)(A) of the Solid Waste Disposal Act, as amended by the Solid Waste Disposal Act Amendments of 1980, which enacted section 6921(b)(2)(B) and (3)(A) of this title.
 
-    The Solid Waste Disposal Act, referred to in subsecs. (a)(2) and (d)(C), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsecs. (a)(2) and (d)(C), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
  __Codification__ 
 
@@ -185,11 +185,11 @@
 
     1986—Subsec. (a)(1)(H). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (c)(1). [Pub. L. 99–499, § 107(d)(3)][/us/pl/99/499/s107/d/3], inserted at end “Notwithstanding the failure of the President to promulgate the regulations required under this subsection on the required date, the President shall promulgate such regulations not later than 6 months after October 17, 1986.”
+    Subsec. (c)(1). [Pub. L. 99–499][/us/pl/99/499], § 107(d)(3), inserted at end “Notwithstanding the failure of the President to promulgate the regulations required under this subsection on the required date, the President shall promulgate such regulations not later than 6 months after October 17, 1986.”
 
-    Subsec. (g). [Pub. L. 99–499, § 208][/us/pl/99/499/s208], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–499][/us/pl/99/499], § 208, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 99–499, § 212][/us/pl/99/499/s212], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–499][/us/pl/99/499], § 212, added subsec. (h).
 
 ----------
 
@@ -205,11 +205,11 @@
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
 [/us/usc/t42/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
-[/us/pl/96/510/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs301
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2805
-[/us/pl/99/499/s107/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fd%2F3
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1630
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -222,20 +222,20 @@
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2796
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t42/s9652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9652
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/499/s107/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs107%2Fd%2F3
-[/us/pl/99/499/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs208
-[/us/pl/99/499/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs212
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 
 

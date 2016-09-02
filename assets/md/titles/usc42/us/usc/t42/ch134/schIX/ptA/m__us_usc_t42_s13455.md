@@ -23,7 +23,7 @@
 
         Within 1 year after October 24, 1992, the Secretary shall solicit proposals for projects under this section.
 
-([Pub. L. 102–486, title XXI, § 2105][/us/pl/102/486/s2105], Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2105, Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2105
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3070
 
 

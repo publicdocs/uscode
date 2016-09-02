@@ -27,11 +27,11 @@
 
         Such executive order shall specify the alcohol-gasoline mixture or mixtures which shall constitute “gasohol” for purposes of such order, as well as specifications for its use.
 
-([Pub. L. 96–294, title II, § 271][/us/pl/96/294/s271], June 30, 1980, [94 Stat. 710][/us/stat/94/710].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 271, June 30, 1980, [94 Stat. 710][/us/stat/94/710].)
 
  __Report on Exemptions and Sense of Congress Regarding Purchase of Domestic Gasohol__ 
 
-[Pub. L. 102–190, div. A, title VIII, § 841(c)][/us/pl/102/190/s841/c], (d), Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449], provided that:
+[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 841(c), (d), Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449], provided that:
 
 >     “(c)  __Report on Exemptions__  __.—__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/96/294/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs271
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F710
-[/us/pl/102/190/s841/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs841%2Fc
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1449
 [/us/usc/t10/s2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2398
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294

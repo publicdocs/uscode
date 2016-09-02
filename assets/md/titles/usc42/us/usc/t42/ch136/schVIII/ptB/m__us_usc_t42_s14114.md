@@ -23,7 +23,7 @@
 
         Each individual awarded a scholarship under this part may use the scholarship for educational expenses at an institution of higher education.
 
-([Pub. L. 103–322, title XX, § 200205][/us/pl/103/322/s200205], Sept. 13, 1994, [108 Stat. 2059][/us/stat/108/2059].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200205, Sept. 13, 1994, [108 Stat. 2059][/us/stat/108/2059].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s200205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200205
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2059
 
 

@@ -21,7 +21,7 @@
 
     (2) the term “law enforcement personnel” means individuals employed by Federal, State, and local law enforcement agencies.
 
-([Pub. L. 90–351, title I, § 2308][/us/pl/90/351/s2308], as added [Pub. L. 103–322, title XXI, § 210201(a)(3)][/us/pl/103/322/s210201/a/3], Sept. 13, 1994, [108 Stat. 2064][/us/stat/108/2064].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2308, as added [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210201(a)(3), Sept. 13, 1994, [108 Stat. 2064][/us/stat/108/2064].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2308
-[/us/pl/103/322/s210201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210201%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2064
 
 

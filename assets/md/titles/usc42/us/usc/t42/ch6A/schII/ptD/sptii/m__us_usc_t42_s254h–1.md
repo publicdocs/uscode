@@ -103,15 +103,15 @@
 
         (3) the appropriate conditions for the assignment and utilization in health manpower shortage areas of certified nurse practitioners, certified nurse midwives, and physician assistants.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 336, as added [Pub. L. 97–35, title XXVII, § 2706(b)][/us/pl/97/35/s2706/b], Aug. 13, 1981, [95 Stat. 907][/us/stat/95/907]; amended [Pub. L. 100–177, title II, § 202(d)][/us/pl/100/177/s202/d], Dec. 1, 1987, [101 Stat. 997][/us/stat/101/997]; [Pub. L. 101–597, title I, § 107][/us/pl/101/597/s107], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3018][/us/stat/104/3018], 3035; [Pub. L. 107–251, title III, § 307(a)][/us/pl/107/251/s307/a], Oct. 26, 2002, [116 Stat. 1649][/us/stat/116/1649]; [Pub. L. 110–355, § 3(d)][/us/pl/110/355/s3/d], Oct. 8, 2008, [122 Stat. 3993][/us/stat/122/3993].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 336, as added [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2706(b), Aug. 13, 1981, [95 Stat. 907][/us/stat/95/907]; amended [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 202(d), Dec. 1, 1987, [101 Stat. 997][/us/stat/101/997]; [Pub. L. 101–597, title I][/us/pl/101/597/tI], § 107, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3018][/us/stat/104/3018], 3035; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 307(a), Oct. 26, 2002, [116 Stat. 1649][/us/stat/116/1649]; [Pub. L. 110–355][/us/pl/110/355], § 3(d), Oct. 8, 2008, [122 Stat. 3993][/us/stat/122/3993].)
 
  __References in Text__ 
 
-    [Section 294b of this title][/us/usc/t42/s294b], referred to in subsec. (d)(2), was repealed and a new section 294b enacted by [Pub. L. 111–148, title V, § 5403(b)][/us/pl/111/148/s5403/b], Mar. 23, 2010, [124 Stat. 648][/us/stat/124/648], and, as so enacted, no longer relates to health education and training centers.
+    [Section 294b of this title][/us/usc/t42/s294b], referred to in subsec. (d)(2), was repealed and a new section 294b enacted by [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5403(b), Mar. 23, 2010, [124 Stat. 648][/us/stat/124/648], and, as so enacted, no longer relates to health education and training centers.
 
  __Prior Provisions__ 
 
-    A prior section 336 of act July 1, 1944, was renumbered section 336A by [Pub. L. 97–35, § 2706(a)][/us/pl/97/35/s2706/a], and is classified to [section 254i of this title][/us/usc/t42/s254i].
+    A prior section 336 of act July 1, 1944, was renumbered section 336A by [Pub. L. 97–35][/us/pl/97/35], § 2706(a), and is classified to [section 254i of this title][/us/usc/t42/s254i].
 
  __Amendments__ 
 
@@ -119,13 +119,13 @@
 
     2002—Subsecs. (c), (f)(1). [Pub. L. 107–251][/us/pl/107/251] substituted “health professional shortage areas” for “health manpower shortage areas”.
 
-    1990—[Pub. L. 101–597, § 107][/us/pl/101/597/s107], amended section generally. Prior to amendment, section read as follows:
+    1990—[Pub. L. 101–597][/us/pl/101/597], § 107, amended section generally. Prior to amendment, section read as follows:
 
     “(a) The Secretary may make grants to and enter into contracts with public and private nonprofit entities for the conduct of programs which are designed to prepare individuals subject to a service obligation under the National Health Service Corps Scholarship Program or Loan Repayment Program to effectively provide health services in the health manpower shortage area to which they are assigned.
 
     “(b) No grant may be made or contract entered into under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe.”
 
-    Subsec. (a). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted “health professional shortage area” for “health manpower shortage area”.
+    Subsec. (a). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted “health professional shortage area” for “health manpower shortage area”.
 
     1987—Subsec. (a). [Pub. L. 100–177][/us/pl/100/177] substituted “Scholarship Program or Loan Repayment Program” for “scholarship program”.
 
@@ -145,26 +145,26 @@
 [/us/usc/t42/s254f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f
 [/us/usc/t42/s254k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254k
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s2706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2706%2Fb
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F907
-[/us/pl/100/177/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fd
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F997
-[/us/pl/101/597/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs107
+[/us/pl/101/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtI
 [/us/stat/104/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3018
-[/us/pl/107/251/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs307%2Fa
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1649
-[/us/pl/110/355/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355%2Fs3%2Fd
+[/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/stat/122/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3993
 [/us/usc/t42/s294b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294b
-[/us/pl/111/148/s5403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5403%2Fb
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F648
-[/us/pl/97/35/s2706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2706%2Fa
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s254i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254i
 [/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/usc/t42/s295g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295g%E2%80%931
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
-[/us/pl/101/597/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs107
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 
 

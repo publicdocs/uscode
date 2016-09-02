@@ -17,7 +17,7 @@
 
     The Administrators of the Western Area Power Administration, the Southwestern Power Administration, and the Southeastern Power Administration may each carry out programs to reduce vandalism, theft, and destruction of property that is under their jurisdiction.
 
-([Pub. L. 107–78, § 1][/us/pl/107/78/s1], Nov. 28, 2001, [115 Stat. 808][/us/stat/115/808].)
+([Pub. L. 107–78][/us/pl/107/78], § 1, Nov. 28, 2001, [115 Stat. 808][/us/stat/115/808].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/78/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F78%2Fs1
+[/us/pl/107/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F78
 [/us/stat/115/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F808
 
 

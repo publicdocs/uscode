@@ -35,7 +35,7 @@
 
         The Office shall insure that the report, in the form approved by the President, is printed and made available as a public document.
 
-([Pub. L. 94–282, title II, § 206][/us/pl/94/282/s206], May 11, 1976, [90 Stat. 466][/us/stat/90/466]; [Pub. L. 97–375, title II, § 215(3)][/us/pl/97/375/s215/3], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826].)
+([Pub. L. 94–282, title II][/us/pl/94/282/tII], § 206, May 11, 1976, [90 Stat. 466][/us/stat/90/466]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 215(3), Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 6618 of this title][/us/usc/t42/s6618], [Pub. L. 94–282, title II, § 209][/us/pl/94/282/s209], May 11, 1976, [90 Stat. 468][/us/stat/90/468], prior to repeal by [Pub. L. 97–375, title II, § 215(1)][/us/pl/97/375/s215/1], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826].
+    Provisions similar to those in this section were contained in [section 6618 of this title][/us/usc/t42/s6618], [Pub. L. 94–282, title II][/us/pl/94/282/tII], § 209, May 11, 1976, [90 Stat. 468][/us/stat/90/468], prior to repeal by [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 215(1), Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826].
 
  __Amendments__ 
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/94/282/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs206
+[/us/pl/94/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtII
 [/us/stat/90/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F466
-[/us/pl/97/375/s215/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs215%2F3
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
 [/us/stat/91/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1633
 [/us/usc/t42/s6618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6618
-[/us/pl/94/282/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs209
+[/us/pl/94/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtII
 [/us/stat/90/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F468
-[/us/pl/97/375/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs215%2F1
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

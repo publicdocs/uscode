@@ -19,7 +19,7 @@
 
     (b) The Secretary of Veterans Affairs, through the Under Secretary for Health of the Department of Veterans Affairs, shall, to the maximum extent feasible consistent with the responsibilities of such Secretary and Under Secretary for Health under title 38, prescribe regulations making the standards promulgated pursuant to this chapter applicable to the provision of radiologic procedures in facilities over which that Secretary has jurisdiction. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall consult with the Secretary in order to achieve the maximum possible coordination of the regulations, standards, and guidelines, and the implementation thereof, which the Secretary and the Secretary of Veterans Affairs prescribe under this chapter.
 
-([Pub. L. 97–35, title IX, § 983][/us/pl/97/35/s983], Aug. 13, 1981, [95 Stat. 601][/us/stat/95/601]; [Pub. L. 102–54, § 13(q)(13)(C)][/us/pl/102/54/s13/q/13/C], June 13, 1991, [105 Stat. 282][/us/stat/105/282]; [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 983, Aug. 13, 1981, [95 Stat. 601][/us/stat/95/601]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(13)(C), June 13, 1991, [105 Stat. 282][/us/stat/105/282]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/97/35/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs983
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F601
-[/us/pl/102/54/s13/q/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F13%2FC
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F282
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54

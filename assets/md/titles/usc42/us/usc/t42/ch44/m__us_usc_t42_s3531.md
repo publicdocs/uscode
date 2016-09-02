@@ -19,15 +19,15 @@
 
     To carry out such purpose, and in recognition of the increasing importance of housing and urban development in our national life, the Congress finds that establishment of an executive department is desirable to achieve the best administration of the principal programs of the Federal Government which provide assistance for housing and for the development of the Nation’s communities; to assist the President in achieving maximum coordination of the various Federal activities which have a major effect upon urban community, suburban, or metropolitan development; to encourage the solution of problems of housing, urban development, and mass transportation through State, county, town, village, or other local and private action, including promotion of interstate, regional, and metropolitan cooperation; to encourage the maximum contributions that may be made by vigorous private homebuilding and mortgage lending industries to housing, urban development, and the national economy; and to provide for full and appropriate consideration, at the national level, of the needs and interests of the Nation’s communities and of the people who live and work in them.
 
-([Pub. L. 89–174, § 2][/us/pl/89/174/s2], Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667].)
+([Pub. L. 89–174][/us/pl/89/174], § 2, Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667].)
 
  __Codification__ 
 
-    Section was formerly classified to section 624 of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 624 of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Effective Date: Interim Appointments__ 
 
-[Pub. L. 89–174, § 11][/us/pl/89/174/s11], Sept. 9, 1965, [79 Stat. 671][/us/stat/79/671], provided that:
+[Pub. L. 89–174][/us/pl/89/174], § 11, Sept. 9, 1965, [79 Stat. 671][/us/stat/79/671], provided that:
 
 >     “(a) The provisions of this Act \[see Short Title note below\] shall take effect upon the expiration of the first period of sixty calendar days following the date on which this Act is approved by the President \[Sept. 9, 1965\], or on such earlier date as the President shall specify by Executive order published in the Federal Register, except that any of the officers provided for in sections 3(a), 4(a), and 4(b) of this Act \[sections 3532(a), 3533(a), and 3533(b) of this title\] may be nominated and appointed, as provided in such sections, at any time after the date this Act is approved by the President \[Sept. 9, 1965\].
 
@@ -35,19 +35,19 @@
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–235, § 1(a)][/us/pl/101/235/s1/a], Dec. 15, 1989, [103 Stat. 1987][/us/stat/103/1987], provided that: 
+[Pub. L. 101–235][/us/pl/101/235], § 1(a), Dec. 15, 1989, [103 Stat. 1987][/us/stat/103/1987], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Department of Housing and Urban Development Reform Act of 1989’.”
 
  __Short Title__ 
 
-[Pub. L. 89–174, § 1][/us/pl/89/174/s1], Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667], provided: 
+[Pub. L. 89–174][/us/pl/89/174], § 1, Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667], provided: 
 
 > “That this Act \[enacting this chapter, amending [section 1451 of this title][/us/usc/t42/s1451], sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), [section 19 of Title 3][/us/usc/t3/s19], The President, and [section 1723 of Title 12][/us/usc/t12/s1723], Banks and Banking, and enacting provisions set out as notes under this section\] may be cited as the ‘Department of Housing and Urban Development Act’.”
 
  __Savings Provision: Abatement of Actions; Continuation of Rules, Regulations, Etc.; References in Other Laws to Housing and Home Finance Agency; Lapse of Agencies__ 
 
-[Pub. L. 89–174, § 9][/us/pl/89/174/s9], Sept. 9, 1965, [79 Stat. 670][/us/stat/79/670], provided that:
+[Pub. L. 89–174][/us/pl/89/174], § 9, Sept. 9, 1965, [79 Stat. 670][/us/stat/79/670], provided that:
 
 >     “(a) No cause of action by or against any agency whose functions are transferred by this Act \[see Short Title note above and [section 3534 of this title][/us/usc/t42/s3534]\], or by or against any officer of any agency in his official capacity, shall abate by reason of this enactment. Such causes of action may be asserted by or against the United States or such official of the Department as may be appropriate.
 
@@ -96,20 +96,20 @@ Sec. 3. Activities of the Center. The activities of the Center should be develop
 ----------
 ----------
 
-[/us/pl/89/174/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs2
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F667
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/89/174/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs11
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F671
-[/us/pl/101/235/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs1%2Fa
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
 [/us/stat/103/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1987
-[/us/pl/89/174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs1
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F667
 [/us/usc/t42/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1451
 [/us/usc/t3/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs19
 [/us/usc/t12/s1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723
-[/us/pl/89/174/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs9
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F670
 [/us/usc/t42/s3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3534
 [/us/usc/t42/s3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3534

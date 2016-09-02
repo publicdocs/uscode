@@ -27,7 +27,7 @@
 
     (b) The provisions of subsection (a) of this section shall be enforced by the Secretary in the same manner and in accordance with the same procedures as are required by sections 6701(a)(2), (3), 6716–6720, 6721, and 6723(f) of title 31  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to enforce compliance with section 6716(a)–(c) of title 31. <sup>\[1\]</sup>  The Attorney General shall have the same authority, functions, and duties with respect to funds made available under this subchapter as the Attorney General has under sections 6716(d), 6720, and 6721(d) of title 31  <sup>\[1\]</sup>  with respect to funds made available under chapter 67 of title 31. <sup>\[1\]</sup>  Any person aggrieved by a violation of subsection (a) of this section shall have the same rights and remedies as a person aggrieved by a violation of section 6716(a)–(c) of title 31, <sup>\[1\]</sup>  including the rights provided under [section 6721(d) of title 31][/us/usc/t31/s6721/d]. <sup>\[1\]</sup> 
 
-([Pub. L. 94–369, title II, § 207][/us/pl/94/369/s207], July 22, 1976, [90 Stat. 1007][/us/stat/90/1007]; [Pub. L. 95–30, title VI, § 605][/us/pl/95/30/s605], May 23, 1977, [91 Stat. 166][/us/stat/91/166].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 207, July 22, 1976, [90 Stat. 1007][/us/stat/90/1007]; [Pub. L. 95–30, title VI][/us/pl/95/30/tVI], § 605, May 23, 1977, [91 Stat. 166][/us/stat/91/166].)
 
  __References in Text__ 
 
@@ -37,11 +37,11 @@
 
     Act of April 11, 1968, referred to in subsec. (a)(1), is [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 73][/us/stat/82/73], as amended, known as the Civil Rights Act of 1968. Title VIII of [Pub. L. 90–284][/us/pl/90/284], known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of this title.
 
-    Chapter 67 of title 31, including sections 6701, 6716–6720, 6721, and 6723, referred to in subsec. (b), was repealed by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327]. See, also, Codification note below.
+    Chapter 67 of title 31, including sections 6701, 6716–6720, 6721, and 6723, referred to in subsec. (b), was repealed by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327]. See, also, Codification note below.
 
  __Codification__ 
 
-    In subsec. (b), “sections 6701(a)(2), (3), 6716–6720, 6721, and 6723(f) of title 31” substituted for “sections 122, 124, and 125 of the State and Local Fiscal Assistance Act of 1972 \[[31 U.S.C. 1242][/us/usc/t31/s1242], 1244, 1245\]”, “section 6716(a)–(c) of title 31” substituted for “section 122(a) of such Act” and also for “subsection (a) of section 122 of such Act” \[[31 U.S.C. 1242(a)][/us/usc/t31/s1242/a]\], “sections 6716(d), 6720, and 6721(d) of title 31” substituted for “sections 122(g) and (h) and 124(c) of such Act \[[31 U.S.C. 1242(g)][/us/usc/t31/s1242/g], (h), 1244(c)\]”, and “chapter 67 of title 31” substituted for “that Act \[[31 U.S.C. 1221][/us/usc/t31/s1221] et seq.\]”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
+    In subsec. (b), “sections 6701(a)(2), (3), 6716–6720, 6721, and 6723(f) of title 31” substituted for “sections 122, 124, and 125 of the State and Local Fiscal Assistance Act of 1972 \[[31 U.S.C. 1242][/us/usc/t31/s1242], 1244, 1245\]”, “section 6716(a)–(c) of title 31” substituted for “section 122(a) of such Act” and also for “subsection (a) of section 122 of such Act” \[[31 U.S.C. 1242(a)][/us/usc/t31/s1242/a]\], “sections 6716(d), 6720, and 6721(d) of title 31” substituted for “sections 122(g) and (h) and 124(c) of such Act \[[31 U.S.C. 1242(g)][/us/usc/t31/s1242/g], (h), 1244(c)\]”, and “chapter 67 of title 31” substituted for “that Act \[[31 U.S.C. 1221][/us/usc/t31/s1221] et seq.\]”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t31/s6721/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6721%2Fd
-[/us/pl/94/369/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs207
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1007
-[/us/pl/95/30/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs605
+[/us/pl/95/30/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtVI
 [/us/stat/91/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F166
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728
@@ -72,13 +72,13 @@
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F73
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 [/us/usc/t31/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1242
 [/us/usc/t31/s1242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1242%2Fa
 [/us/usc/t31/s1242/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1242%2Fg
 [/us/usc/t31/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1221
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 

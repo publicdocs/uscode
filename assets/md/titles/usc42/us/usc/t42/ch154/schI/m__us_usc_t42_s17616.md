@@ -135,7 +135,7 @@
 
             (B) the number of Federal and State investigations, prosecutions, and convictions in the prior 12-month period related to child exploitation.
 
-([Pub. L. 110–401, title I, § 106][/us/pl/110/401/s106], Oct. 13, 2008, [122 Stat. 4238][/us/stat/122/4238].)
+([Pub. L. 110–401, title I][/us/pl/110/401/tI], § 106, Oct. 13, 2008, [122 Stat. 4238][/us/stat/122/4238].)
 
  __References in Text__ 
 
@@ -152,7 +152,7 @@
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t42/s17612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17612
-[/us/pl/110/401/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs106
+[/us/pl/110/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtI
 [/us/stat/122/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4238
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285

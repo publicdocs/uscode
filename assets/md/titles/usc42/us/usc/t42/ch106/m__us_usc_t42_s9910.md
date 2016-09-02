@@ -51,21 +51,21 @@
 
         (2) another mechanism specified by the State to assure decisionmaking and participation by low-income individuals in the development, planning, implementation, and evaluation of programs funded under this chapter.
 
-([Pub. L. 97–35, title VI, § 676B][/us/pl/97/35/s676B], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2740][/us/stat/112/2740].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 676B, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2740][/us/stat/112/2740].)
 
  __Prior Provisions__ 
 
     Prior sections 9910 and 9910a were omitted in the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
-    Section 9910, [Pub. L. 97–35, title VI, § 681][/us/pl/97/35/s681], Aug. 13, 1981, [95 Stat. 518][/us/stat/95/518]; [Pub. L. 98–558, title II, § 204][/us/pl/98/558/s204], Oct. 30, 1984, [98 Stat. 2886][/us/stat/98/2886]; [Pub. L. 99–425, title IV, § 405(a)][/us/pl/99/425/s405/a], (b), Sept. 30, 1986, [100 Stat. 969][/us/stat/100/969], 970; [Pub. L. 101–501, title IV][/us/pl/101/501], §§ 405, 407(b), Nov. 3, 1990, [104 Stat. 1252][/us/stat/104/1252], 1255; [Pub. L. 103–171, § 7(a)][/us/pl/103/171/s7/a], Dec. 2, 1993, [107 Stat. 1993][/us/stat/107/1993]; [Pub. L. 103–252, title II, § 203][/us/pl/103/252/s203], May 18, 1994, [108 Stat. 654][/us/stat/108/654], related to the discretionary authority of the Secretary.
+    Section 9910, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 681, Aug. 13, 1981, [95 Stat. 518][/us/stat/95/518]; [Pub. L. 98–558, title II][/us/pl/98/558/tII], § 204, Oct. 30, 1984, [98 Stat. 2886][/us/stat/98/2886]; [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 405(a), (b), Sept. 30, 1986, [100 Stat. 969][/us/stat/100/969], 970; [Pub. L. 101–501, title IV][/us/pl/101/501/tIV], §§ 405, 407(b), Nov. 3, 1990, [104 Stat. 1252][/us/stat/104/1252], 1255; [Pub. L. 103–171][/us/pl/103/171], § 7(a), Dec. 2, 1993, [107 Stat. 1993][/us/stat/107/1993]; [Pub. L. 103–252, title II][/us/pl/103/252/tII], § 203, May 18, 1994, [108 Stat. 654][/us/stat/108/654], related to the discretionary authority of the Secretary.
 
-    Section 9910a, [Pub. L. 97–35, title VI, § 681A][/us/pl/97/35/s681A], as added [Pub. L. 98–558, title II, § 206][/us/pl/98/558/s206], Oct. 30, 1984, [98 Stat. 2886][/us/stat/98/2886]; amended [Pub. L. 99–425, title IV, § 406][/us/pl/99/425/s406], Sept. 30, 1986, [100 Stat. 970][/us/stat/100/970]; [Pub. L. 101–501, title IV][/us/pl/101/501], §§ 401(b), 406, Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251], 1253; [Pub. L. 103–171, § 7(c)(4)][/us/pl/103/171/s7/c/4], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 103–252, title II, § 204][/us/pl/103/252/s204], May 18, 1994, [108 Stat. 655][/us/stat/108/655], related to community food and nutrition.
+    Section 9910a, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 681A, as added [Pub. L. 98–558, title II][/us/pl/98/558/tII], § 206, Oct. 30, 1984, [98 Stat. 2886][/us/stat/98/2886]; amended [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 406, Sept. 30, 1986, [100 Stat. 970][/us/stat/100/970]; [Pub. L. 101–501, title IV][/us/pl/101/501/tIV], §§ 401(b), 406, Nov. 3, 1990, [104 Stat. 1251][/us/stat/104/1251], 1253; [Pub. L. 103–171][/us/pl/103/171], § 7(c)(4), Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 103–252, title II][/us/pl/103/252/tII], § 204, May 18, 1994, [108 Stat. 655][/us/stat/108/655], related to community food and nutrition.
 
-    A prior section 9910b, [Pub. L. 99–425, title IV, § 408][/us/pl/99/425/s408], Sept. 30, 1986, [100 Stat. 972][/us/stat/100/972], as amended, which related to demonstration partnership agreements addressing needs of poor, was transferred to [section 9925 of this title][/us/usc/t42/s9925].
+    A prior section 9910b, [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 408, Sept. 30, 1986, [100 Stat. 972][/us/stat/100/972], as amended, which related to demonstration partnership agreements addressing needs of poor, was transferred to [section 9925 of this title][/us/usc/t42/s9925].
 
-    A prior section 9910c, [Pub. L. 97–35, title VI, § 682][/us/pl/97/35/s682], as added [Pub. L. 103–252, title II, § 205(2)][/us/pl/103/252/s205/2], May 18, 1994, [108 Stat. 655][/us/stat/108/655]; amended [Pub. L. 105–244, title I, § 102(a)(13)(I)][/us/pl/105/244/s102/a/13/I], Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621], related to national or regional programs designed to provide instructional activities for low-income youth, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9910c, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 682, as added [Pub. L. 103–252, title II][/us/pl/103/252/tII], § 205(2), May 18, 1994, [108 Stat. 655][/us/stat/108/655]; amended [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(I), Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621], related to national or regional programs designed to provide instructional activities for low-income youth, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
-    A prior section 9910d, [Pub. L. 100–485, title V, § 505][/us/pl/100/485/s505], Oct. 13, 1988, [102 Stat. 2404][/us/stat/102/2404], as amended, which related to demonstration partnership agreements addressing needs of poor, was transferred to [section 9926 of this title][/us/usc/t42/s9926].
+    A prior section 9910d, [Pub. L. 100–485, title V][/us/pl/100/485/tV], § 505, Oct. 13, 1988, [102 Stat. 2404][/us/stat/102/2404], as amended, which related to demonstration partnership agreements addressing needs of poor, was transferred to [section 9926 of this title][/us/usc/t42/s9926].
 
 ----------
 
@@ -76,43 +76,43 @@
 
 [/us/usc/t42/s9902/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F1
 [/us/usc/t42/s9902/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F1
-[/us/pl/97/35/s676B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs676B
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2740
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
-[/us/pl/97/35/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs681
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F518
-[/us/pl/98/558/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs204
+[/us/pl/98/558/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtII
 [/us/stat/98/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2886
-[/us/pl/99/425/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs405%2Fa
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F969
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIV
 [/us/stat/104/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1252
-[/us/pl/103/171/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs7%2Fa
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1993
-[/us/pl/103/252/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs203
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F654
-[/us/pl/97/35/s681A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs681A
-[/us/pl/98/558/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs206
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/98/558/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtII
 [/us/stat/98/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2886
-[/us/pl/99/425/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs406
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F970
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIV
 [/us/stat/104/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1251
-[/us/pl/103/171/s7/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs7%2Fc%2F4
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1994
-[/us/pl/103/252/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs204
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F655
-[/us/pl/99/425/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs408
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F972
 [/us/usc/t42/s9925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9925
-[/us/pl/97/35/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs682
-[/us/pl/103/252/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs205%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F655
-[/us/pl/105/244/s102/a/13/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1621
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
-[/us/pl/100/485/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs505
+[/us/pl/100/485/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtV
 [/us/stat/102/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2404
 [/us/usc/t42/s9926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9926
 

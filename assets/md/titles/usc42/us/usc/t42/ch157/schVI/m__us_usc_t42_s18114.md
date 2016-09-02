@@ -29,7 +29,7 @@
 
     (6) limits the availability of health care treatment for the full duration of a patient’s medical needs.
 
-([Pub. L. 111–148, title I, § 1554][/us/pl/111/148/s1554], Mar. 23, 2010, [124 Stat. 259][/us/stat/124/259].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1554, Mar. 23, 2010, [124 Stat. 259][/us/stat/124/259].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1554
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F259
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

@@ -45,7 +45,7 @@
 
         (5) evaluation results of programs and projects and State strategy implementation.
 
-([Pub. L. 90–351, title I, § 522][/us/pl/90/351/s522], as added [Pub. L. 100–690, title VI, § 6091(a)][/us/pl/100/690/s6091/a], Nov. 18, 1988, [102 Stat. 4337][/us/stat/102/4337]; amended [Pub. L. 109–162, title XI, § 1111(c)(2)(C)][/us/pl/109/162/s1111/c/2/C], Jan. 5, 2006, [119 Stat. 3101][/us/stat/119/3101].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 522, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4337][/us/stat/102/4337]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(c)(2)(C), Jan. 5, 2006, [119 Stat. 3101][/us/stat/119/3101].)
 
  __Prior Provisions__ 
 
@@ -71,10 +71,10 @@
 ----------
 
 [/us/usc/t42/s3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3755
-[/us/pl/90/351/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs522
-[/us/pl/100/690/s6091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6091%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4337
-[/us/pl/109/162/s1111/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FC
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3101
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

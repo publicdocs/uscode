@@ -39,7 +39,7 @@
 
         (3) shall report annually to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives on the progress of, and future plans for, exploration of the reserve.
 
-([Pub. L. 94–258, title I, § 104][/us/pl/94/258/s104], Apr. 5, 1976, [90 Stat. 304][/us/stat/90/304]; [Pub. L. 98–366, § 4(b)][/us/pl/98/366/s4/b], July 17, 1984, [98 Stat. 470][/us/stat/98/470]; [Pub. L. 103–437, § 15(q)][/us/pl/103/437/s15/q], Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594]; [Pub. L. 109–58, title III, § 347(c)][/us/pl/109/58/s347/c], Aug. 8, 2005, [119 Stat. 708][/us/stat/119/708].)
+([Pub. L. 94–258, title I][/us/pl/94/258/tI], § 104, Apr. 5, 1976, [90 Stat. 304][/us/stat/90/304]; [Pub. L. 98–366][/us/pl/98/366], § 4(b), July 17, 1984, [98 Stat. 470][/us/stat/98/470]; [Pub. L. 103–437][/us/pl/103/437], § 15(q), Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 347(c), Aug. 8, 2005, [119 Stat. 708][/us/stat/119/708].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-    [Pub. L. 98–366, § 4(b)][/us/pl/98/366/s4/b], July 17, 1984, [98 Stat. 470][/us/stat/98/470], provided that the amendment made by that section is effective Oct. 1, 1984.
+    [Pub. L. 98–366][/us/pl/98/366], § 4(b), July 17, 1984, [98 Stat. 470][/us/stat/98/470], provided that the amendment made by that section is effective Oct. 1, 1984.
 
 ----------
 
@@ -66,13 +66,13 @@
 
 [/us/usc/t42/s6503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6503%2Fa
 [/us/usc/t42/s6503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6503%2Fa
-[/us/pl/94/258/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs104
+[/us/pl/94/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtI
 [/us/stat/90/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F304
-[/us/pl/98/366/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F366%2Fs4%2Fb
+[/us/pl/98/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F366
 [/us/stat/98/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F470
-[/us/pl/103/437/s15/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fq
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4594
-[/us/pl/109/58/s347/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs347%2Fc
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F708
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
 [/us/stat/90/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F303
@@ -82,7 +82,7 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/98/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F366
-[/us/pl/98/366/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F366%2Fs4%2Fb
+[/us/pl/98/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F366
 [/us/stat/98/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F470
 
 

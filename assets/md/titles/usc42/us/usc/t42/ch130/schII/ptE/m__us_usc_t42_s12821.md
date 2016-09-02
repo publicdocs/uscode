@@ -147,7 +147,7 @@
 
         There is authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2004 through 2007.
 
-([Pub. L. 101–625, title II, § 271][/us/pl/101/625/s271], Nov. 28, 1990, [104 Stat. 4124][/us/stat/104/4124]; [Pub. L. 108–186, title I, § 102][/us/pl/108/186/s102], Dec. 16, 2003, [117 Stat. 2686][/us/stat/117/2686]; [Pub. L. 111–8, div. I, title II, § 229(4)][/us/pl/111/8/s229/4], Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 271, Nov. 28, 1990, [104 Stat. 4124][/us/stat/104/4124]; [Pub. L. 108–186, title I][/us/pl/108/186/tI], § 102, Dec. 16, 2003, [117 Stat. 2686][/us/stat/117/2686]; [Pub. L. 111–8, div. I, title II][/us/pl/111/8/dI/tII], § 229(4), Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
 
  __References in Text__ 
 
@@ -170,11 +170,11 @@
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/101/625/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs271
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4124
-[/us/pl/108/186/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs102
+[/us/pl/108/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtI
 [/us/stat/117/2686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2686
-[/us/pl/111/8/s229/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs229%2F4
+[/us/pl/111/8/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdI%2FtII
 [/us/stat/123/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F978
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

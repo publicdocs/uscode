@@ -41,7 +41,7 @@
 
                 (ii) assisting Head Start agencies in ensuring the school readiness of children; and
 
-                (iii) activities that supplement those funded with amounts provided under [section 9835(a)(5)(B) of this title][/us/usc/t42/s9835/a/5/B] to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities, and for activities described in [section 6372(d) of title 20][/us/usc/t20/s6372/d]), and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
+                (iii) activities that supplement those funded with amounts provided under [section 9835(a)(5)(B) of this title][/us/usc/t42/s9835/a/5/B] to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
 
             (B)
 
@@ -259,57 +259,59 @@
 
             A student at an institution receiving a grant under this subsection who receives assistance under a program funded under this subsection shall teach in a center-based Head Start program for a period of time equivalent to the period for which they received assistance or shall repay such assistance.
 
-([Pub. L. 97–35, title VI, § 648][/us/pl/97/35/s648], Aug. 13, 1981, [95 Stat. 505][/us/stat/95/505]; [Pub. L. 98–558, title I, § 106][/us/pl/98/558/s106], Oct. 30, 1984, [98 Stat. 2879][/us/stat/98/2879]; [Pub. L. 101–501, title I, § 116(a)][/us/pl/101/501/s116/a], Nov. 3, 1990, [104 Stat. 1232][/us/stat/104/1232]; [Pub. L. 102–586, § 7(b)][/us/pl/102/586/s7/b], Nov. 4, 1992, [106 Stat. 5035][/us/stat/106/5035]; [Pub. L. 103–252, title I, § 114][/us/pl/103/252/s114], May 18, 1994, [108 Stat. 642][/us/stat/108/642]; [Pub. L. 105–285, title I, § 114][/us/pl/105/285/s114], Oct. 27, 1998, [112 Stat. 2721][/us/stat/112/2721]; [Pub. L. 110–134, § 18][/us/pl/110/134/s18], Dec. 12, 2007, [121 Stat. 1423][/us/stat/121/1423].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 648, Aug. 13, 1981, [95 Stat. 505][/us/stat/95/505]; [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 106, Oct. 30, 1984, [98 Stat. 2879][/us/stat/98/2879]; [Pub. L. 101–501, title I][/us/pl/101/501/tI], § 116(a), Nov. 3, 1990, [104 Stat. 1232][/us/stat/104/1232]; [Pub. L. 102–586][/us/pl/102/586], § 7(b), Nov. 4, 1992, [106 Stat. 5035][/us/stat/106/5035]; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 114, May 18, 1994, [108 Stat. 642][/us/stat/108/642]; [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 114, Oct. 27, 1998, [112 Stat. 2721][/us/stat/112/2721]; [Pub. L. 110–134][/us/pl/110/134], § 18, Dec. 12, 2007, [121 Stat. 1423][/us/stat/121/1423]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(nn)(5), Dec. 10, 2015, [129 Stat. 2177][/us/stat/129/2177].)
 
  __Amendments__ 
 
+    2015—Subsec. (a)(3)(A)(iii). [Pub. L. 114–95][/us/pl/114/95] struck out “, and for activities described in [section 6372(d) of title 20][/us/usc/t20/s6372/d]),” after “children with disabilities”.
+
     2007—[Pub. L. 110–134][/us/pl/110/134] amended section generally. Prior to amendment, section related to, in subsec. (a), technical assistance and personnel training, in subsec. (b), consideration of local needs, in subsec. (c), prioritization of resource allocation, in subsec. (d), training in performing and visual arts and electronic media, and, in subsec. (e), child development and assessment program.
 
-    1998—Subsec. (b)(3). [Pub. L. 105–285, § 114(a)(1)][/us/pl/105/285/s114/a/1], added par. (3).
+    1998—Subsec. (b)(3). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(1), added par. (3).
 
-    Subsec. (c)(1). [Pub. L. 105–285, § 114(a)(2)(A)][/us/pl/105/285/s114/a/2/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority consideration to activities to correct program and management deficiencies identified through reviews pursuant to [section 9836a(c) of this title][/us/usc/t42/s9836a/c] (including the provision of assistance to local programs in the development of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2]);”.
+    Subsec. (c)(1). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority consideration to activities to correct program and management deficiencies identified through reviews pursuant to [section 9836a(c) of this title][/us/usc/t42/s9836a/c] (including the provision of assistance to local programs in the development of quality improvement plans under [section 9836a(d)(2) of this title][/us/usc/t42/s9836a/d/2]);”.
 
-    Subsec. (c)(2). [Pub. L. 105–285, § 114(a)(2)(B)][/us/pl/105/285/s114/a/2/B], inserted “supplement amounts provided under [section 9835(a)(3)(C)(ii) of this title][/us/usc/t42/s9835/a/3/C/ii] in order to” after “(2)”.
+    Subsec. (c)(2). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(B), inserted “supplement amounts provided under [section 9835(a)(3)(C)(ii) of this title][/us/usc/t42/s9835/a/3/C/ii] in order to” after “(2)”.
 
-    Subsec. (c)(3). [Pub. L. 105–285, § 114(a)(2)(G)][/us/pl/105/285/s114/a/2/G], added par. (3). Former par. (3) redesignated (5).
+    Subsec. (c)(3). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(G), added par. (3). Former par. (3) redesignated (5).
 
-    Subsec. (c)(4). [Pub. L. 105–285, § 114(a)(2)(G)][/us/pl/105/285/s114/a/2/G], added par. (4). Former par. (4) redesignated (6).
+    Subsec. (c)(4). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(G), added par. (4). Former par. (4) redesignated (6).
 
-    [Pub. L. 105–285, § 114(a)(2)(C)][/us/pl/105/285/s114/a/2/C], inserted “and implementing” after “developing” and substituted “the day, and assist the agencies and programs in expediting the sharing of information about innovative models for providing full-working-day, full calendar year services for children” for “a longer day” before semicolon.
+    [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(C), inserted “and implementing” after “developing” and substituted “the day, and assist the agencies and programs in expediting the sharing of information about innovative models for providing full-working-day, full calendar year services for children” for “a longer day” before semicolon.
 
-    Subsec. (c)(5), (6). [Pub. L. 105–285, § 114(a)(2)(F)][/us/pl/105/285/s114/a/2/F], redesignated pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+    Subsec. (c)(5), (6). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(F), redesignated pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
-    Subsec. (c)(7). [Pub. L. 105–285, § 114(a)(2)(F)][/us/pl/105/285/s114/a/2/F], redesignated par. (5) as (7). Former par. (7) redesignated (9).
+    Subsec. (c)(7). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(F), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 
-    [Pub. L. 105–285, § 114(a)(2)(D)][/us/pl/105/285/s114/a/2/D], struck out “and” at end.
+    [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(D), struck out “and” at end.
 
-    Subsec. (c)(8). [Pub. L. 105–285, § 114(a)(2)(F)][/us/pl/105/285/s114/a/2/F], redesignated par. (6) as (8). Former par. (8) redesignated (10).
+    Subsec. (c)(8). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(F), redesignated par. (6) as (8). Former par. (8) redesignated (10).
 
-    [Pub. L. 105–285, § 114(a)(2)(E)][/us/pl/105/285/s114/a/2/E], substituted “; and” for period at end.
+    [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(E), substituted “; and” for period at end.
 
-    Subsec. (c)(9), (10). [Pub. L. 105–285, § 114(a)(2)(F)][/us/pl/105/285/s114/a/2/F], redesignated pars. (7) and (8) as (9) and (10), respectively.
+    Subsec. (c)(9), (10). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(F), redesignated pars. (7) and (8) as (9) and (10), respectively.
 
-    Subsec. (c)(11). [Pub. L. 105–285, § 114(a)(2)(H)][/us/pl/105/285/s114/a/2/H], added par. (11).
+    Subsec. (c)(11). [Pub. L. 105–285][/us/pl/105/285], § 114(a)(2)(H), added par. (11).
 
-    Subsec. (e). [Pub. L. 105–285, § 114(b)][/us/pl/105/285/s114/b], inserted “(including services to promote the acquisition of the English language)” after “non-English language background children”.
+    Subsec. (e). [Pub. L. 105–285][/us/pl/105/285], § 114(b), inserted “(including services to promote the acquisition of the English language)” after “non-English language background children”.
 
-    1994—[Pub. L. 103–252, § 114(1)][/us/pl/103/252/s114/1], substituted “Technical assistance and training” for “Technical assistance, training, and staff qualifications” in section catchline.
+    1994—[Pub. L. 103–252][/us/pl/103/252], § 114(1), substituted “Technical assistance and training” for “Technical assistance, training, and staff qualifications” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–252, § 114(3)(A)][/us/pl/103/252/s114/3/A], redesignated as subsec. (e) the last sentence which read as follows: “The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled children.”
+    Subsec. (a). [Pub. L. 103–252][/us/pl/103/252], § 114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: “The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled children.”
 
-    [Pub. L. 103–252, § 114(2)][/us/pl/103/252/s114/2], substituted “(2) training for specialized or other personnel needed in connection with Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements,” for “(2) training for specialized or other personnel needed in connection with Head Start programs, including”.
+    [Pub. L. 103–252][/us/pl/103/252], § 114(2), substituted “(2) training for specialized or other personnel needed in connection with Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements,” for “(2) training for specialized or other personnel needed in connection with Head Start programs, including”.
 
-    Subsec. (b). [Pub. L. 103–252, § 114(4)][/us/pl/103/252/s114/4], (5), added subsec. (b) and struck out former subsec. (b) which related to teacher qualifications and waiver of same.
+    Subsec. (b). [Pub. L. 103–252][/us/pl/103/252], § 114(4), (5), added subsec. (b) and struck out former subsec. (b) which related to teacher qualifications and waiver of same.
 
-    Subsec. (c). [Pub. L. 103–252, § 114(4)][/us/pl/103/252/s114/4], (5), added subsec. (c) and struck out former subsec. (c) which related to Secretary developing systematic approach to training Head Start personnel and reporting on such approach to Congress.
+    Subsec. (c). [Pub. L. 103–252][/us/pl/103/252], § 114(4), (5), added subsec. (c) and struck out former subsec. (c) which related to Secretary developing systematic approach to training Head Start personnel and reporting on such approach to Congress.
 
-    Subsec. (d). [Pub. L. 103–252, § 114(6)][/us/pl/103/252/s114/6], inserted at end “Special consideration shall be given to entities that have demonstrated effectiveness in educational programming for preschool children that includes components for parental involvement, care provider training, and developmentally appropriate related activities.”
+    Subsec. (d). [Pub. L. 103–252][/us/pl/103/252], § 114(6), inserted at end “Special consideration shall be given to entities that have demonstrated effectiveness in educational programming for preschool children that includes components for parental involvement, care provider training, and developmentally appropriate related activities.”
 
-    Subsec. (e). [Pub. L. 103–252, § 114(3)][/us/pl/103/252/s114/3], redesignated last sentence of subsec. (a) as (e).
+    Subsec. (e). [Pub. L. 103–252][/us/pl/103/252], § 114(3), redesignated last sentence of subsec. (a) as (e).
 
-    1992—Subsec. (a)(2). [Pub. L. 102–586, § 7(b)(1)][/us/pl/102/586/s7/b/1], substituted “funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled” for “a centralized child development training and national assessment program which may be administered at the State or local level leading to recognized credentials for such personnel, training for personnel providing services to non-English language background children, and resource access projects for personnel of handicapped”.
+    1992—Subsec. (a)(2). [Pub. L. 102–586][/us/pl/102/586], § 7(b)(1), substituted “funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled” for “a centralized child development training and national assessment program which may be administered at the State or local level leading to recognized credentials for such personnel, training for personnel providing services to non-English language background children, and resource access projects for personnel of handicapped”.
 
-    Subsecs. (c), (d). [Pub. L. 102–586, § 7(b)(2)][/us/pl/102/586/s7/b/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 102–586][/us/pl/102/586], § 7(b)(2), added subsecs. (c) and (d).
 
     1990—[Pub. L. 101–501][/us/pl/101/501] substituted “Technical assistance, training, and staff qualifications” for “Technical assistance and training” in section catchline, designated existing provisions as subsec. (a), inserted “training for personnel providing services to non-English language background children,” after “such personnel,” in cl. (2), and added subsec. (b).
 
@@ -318,6 +320,10 @@
  __Change of Name__ 
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -329,7 +335,7 @@
 
  __Head Start Training Improvement__ 
 
-[Pub. L. 102–586, § 7(a)][/us/pl/102/586/s7/a], Nov. 4, 1992, [106 Stat. 5034][/us/stat/106/5034], provided that: 
+[Pub. L. 102–586][/us/pl/102/586], § 7(a), Nov. 4, 1992, [106 Stat. 5034][/us/stat/106/5034], provided that: 
 
 > “It is the purpose of this section—
 
@@ -352,7 +358,6 @@
 [/us/usc/t42/s9836a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc
 [/us/usc/t42/s9836a/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fd%2F2
 [/us/usc/t42/s9835/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F5%2FB
-[/us/usc/t20/s6372/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6372%2Fd
 [/us/usc/t42/s9840/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F5
 [/us/usc/t42/s9836a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa
 [/us/usc/t42/s9836a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc
@@ -369,49 +374,56 @@
 [/us/usc/t20/s1101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a
 [/us/usc/t20/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061%2F2
 [/us/usc/t20/s1059c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c%2Fb
-[/us/pl/97/35/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs648
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F505
-[/us/pl/98/558/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs106
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2879
-[/us/pl/101/501/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs116%2Fa
+[/us/pl/101/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtI
 [/us/stat/104/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1232
-[/us/pl/102/586/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs7%2Fb
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5035
-[/us/pl/103/252/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F642
-[/us/pl/105/285/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2721
-[/us/pl/110/134/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs18
-[/us/stat/121/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1423
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
-[/us/pl/105/285/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F1
-[/us/pl/105/285/s114/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FA
+[/us/stat/121/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1423
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2177
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6372/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6372%2Fd
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9836a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc
 [/us/usc/t42/s9836a/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fd%2F2
-[/us/pl/105/285/s114/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FB
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9835/a/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F3%2FC%2Fii
-[/us/pl/105/285/s114/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FG
-[/us/pl/105/285/s114/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FG
-[/us/pl/105/285/s114/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FC
-[/us/pl/105/285/s114/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FF
-[/us/pl/105/285/s114/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FF
-[/us/pl/105/285/s114/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FD
-[/us/pl/105/285/s114/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FF
-[/us/pl/105/285/s114/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FE
-[/us/pl/105/285/s114/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FF
-[/us/pl/105/285/s114/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fa%2F2%2FH
-[/us/pl/105/285/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs114%2Fb
-[/us/pl/103/252/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114%2F1
-[/us/pl/103/252/s114/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114%2F3%2FA
-[/us/pl/103/252/s114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114%2F2
-[/us/pl/103/252/s114/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114%2F4
-[/us/pl/103/252/s114/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114%2F4
-[/us/pl/103/252/s114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114%2F6
-[/us/pl/103/252/s114/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs114%2F3
-[/us/pl/102/586/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs7%2Fb%2F1
-[/us/pl/102/586/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs7%2Fb%2F2
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
@@ -419,7 +431,7 @@
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/101/501/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs1001%2Fa
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/102/586/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs7%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5034
 
 

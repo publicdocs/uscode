@@ -39,11 +39,11 @@
 
         If a spouse or child of a Department of Energy contractor employee applies for benefits under this part, the Secretary shall make a determination under this section with respect to that employee without regard to whether the spouse is a “covered spouse”, or the child is a “covered child”, under this part.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3675\], as added [Pub. L. 108–375, div. C, title XXXI, § 3161][/us/pl/108/375/s3161], Oct. 28, 2004, [118 Stat. 2181][/us/stat/118/2181].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3675\], as added [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3161, Oct. 28, 2004, [118 Stat. 2181][/us/stat/118/2181].)
 
  __References in Text__ 
 
-    Section 7385o of this title, referred to in subsec. (b), was repealed by [Pub. L. 108–375, div. C, title XXXI, § 3162(i)][/us/pl/108/375/s3162/i], Oct. 28, 2004, [118 Stat. 2186][/us/stat/118/2186].
+    Section 7385o of this title, referred to in subsec. (b), was repealed by [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3162(i), Oct. 28, 2004, [118 Stat. 2186][/us/stat/118/2186].
 
 ----------
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/375/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3161
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2181
-[/us/pl/108/375/s3162/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3162%2Fi
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2186
 
 

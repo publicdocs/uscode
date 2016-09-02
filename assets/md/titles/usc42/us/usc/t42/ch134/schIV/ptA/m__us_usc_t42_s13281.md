@@ -35,7 +35,7 @@
 
         (3) The solicitation for proposals under this subsection shall establish a closing date for receipt of proposals. The Secretary may, if necessary, extend the closing date for receipt of proposals for a period not to exceed 90 days.
 
-([Pub. L. 102–486, title VI, § 611][/us/pl/102/486/s611], Oct. 24, 1992, [106 Stat. 2900][/us/stat/106/2900].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 611, Oct. 24, 1992, [106 Stat. 2900][/us/stat/106/2900].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs611
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2900
 
 

@@ -93,7 +93,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520E–2, as added [Pub. L. 108–355, § 3(d)][/us/pl/108/355/s3/d], Oct. 21, 2004, [118 Stat. 1413][/us/stat/118/1413].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520E–2, as added [Pub. L. 108–355][/us/pl/108/355], § 3(d), Oct. 21, 2004, [118 Stat. 1413][/us/stat/118/1413].)
 
 ----------
 
@@ -104,7 +104,7 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/355/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fd
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
 [/us/stat/118/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1413
 
 

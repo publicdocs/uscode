@@ -67,7 +67,7 @@
 
         The Administrator may, on a case-by-case basis, waive any requirement applicable to any Serious Area under this subpart where the Administrator determines that anthropogenic sources of PM–10 do not contribute significantly to the violation of the PM–10 standard in the area. The Administrator may also waive a specific date for attainment of the standard where the Administrator determines that nonanthropogenic sources of PM–10 contribute significantly to the violation of the PM–10 standard in the area.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 188, as added [Pub. L. 101–549, title I, § 105(a)][/us/pl/101/549/s105/a], Nov. 15, 1990, [104 Stat. 2458][/us/stat/104/2458].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 188, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 105(a), Nov. 15, 1990, [104 Stat. 2458][/us/stat/104/2458].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t42/s7407/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd%2F4
 [/us/usc/t42/s7407/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd%2F4
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs105%2Fa
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2458
 
 

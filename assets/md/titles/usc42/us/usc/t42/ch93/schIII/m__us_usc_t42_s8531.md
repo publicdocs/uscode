@@ -29,7 +29,7 @@
 
         (3) contain such findings and recommendations for legislation and administrative action as the Secretary considers appropriate, including recommendations for improving the availability and quality of data concerning such storage.
 
-([Pub. L. 96–102, title II, § 241][/us/pl/96/102/s241], Nov. 5, 1979, [93 Stat. 768][/us/stat/93/768].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 241, Nov. 5, 1979, [93 Stat. 768][/us/stat/93/768].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/102/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs241
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F768
 
 

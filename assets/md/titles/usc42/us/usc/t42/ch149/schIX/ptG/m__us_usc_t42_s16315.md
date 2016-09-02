@@ -17,7 +17,7 @@
 
     The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under [section 16192 of this title][/us/usc/t42/s16192].
 
-([Pub. L. 109–58, title IX, § 975][/us/pl/109/58/s975], Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 975, Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s16192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16192
-[/us/pl/109/58/s975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs975
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F903
 
 

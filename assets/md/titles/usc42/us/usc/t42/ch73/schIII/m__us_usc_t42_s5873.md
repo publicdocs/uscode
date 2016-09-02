@@ -17,7 +17,7 @@
 
     The Director of the Office of Management and Budget is authorized to make such additional incidental dispositions of personnel, personnel positions, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to or to be made available in connection with functions transferred by this chapter, as he may deem necessary or appropriate to accomplish the intent and purpose of this chapter.
 
-([Pub. L. 93–438, title III, § 303][/us/pl/93/438/s303], Oct. 11, 1974, [88 Stat. 1250][/us/stat/88/1250].)
+([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 303, Oct. 11, 1974, [88 Stat. 1250][/us/stat/88/1250].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs303
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1250
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233

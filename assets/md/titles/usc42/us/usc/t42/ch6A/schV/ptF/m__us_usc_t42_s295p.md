@@ -169,41 +169,41 @@
 
     The term “rural health clinic” has the meaning given that term in [section 1395x(aa) of this title][/us/usc/t42/s1395x/aa].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 799B, formerly § 799, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2066][/us/stat/106/2066]; renumbered § 799B and amended [Pub. L. 105–392, title I][/us/pl/105/392], §§ 106(a)(2)(E), 108, Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], 3560; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 111–148, title V, § 5002(b)][/us/pl/111/148/s5002/b], Mar. 23, 2010, [124 Stat. 590][/us/stat/124/590]; [Pub. L. 113–128, title V, § 512(z)(3)][/us/pl/113/128/s512/z/3], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 799B, formerly § 799, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2066][/us/stat/106/2066]; renumbered § 799B and amended [Pub. L. 105–392, title I][/us/pl/105/392/tI], §§ 106(a)(2)(E), 108, Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], 3560; [Pub. L. 107–251, title VI][/us/pl/107/251/tVI], § 601(a), Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5002(b), Mar. 23, 2010, [124 Stat. 590][/us/stat/124/590]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(z)(3), July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
 
  __References in Text__ 
 
-    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing and the reference to [section 254c of this title][/us/usc/t42/s254c], referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing and the reference to [section 254c of this title][/us/usc/t42/s254c], referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
-    [Section 256a of this title][/us/usc/t42/s256a], referred to in par. (6)(B), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+    [Section 256a of this title][/us/usc/t42/s256a], referred to in par. (6)(B), was repealed by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
  __Amendments__ 
 
     2014—Par. (23). [Pub. L. 113–128][/us/pl/113/128] substituted “one-stop delivery system described in [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “one-stop delivery system described in [section 2864(c) of title 29][/us/usc/t29/s2864/c]”.
 
-    2010—Par. (3). [Pub. L. 111–148, § 5002(b)(1)][/us/pl/111/148/s5002/b/1], added par. (3) and struck out former par. (3) which defined “program for the training of physician assistants” by describing its objective, duration, minimum enrollment, and specific areas of instruction.
+    2010—Par. (3). [Pub. L. 111–148][/us/pl/111/148], § 5002(b)(1), added par. (3) and struck out former par. (3) which defined “program for the training of physician assistants” by describing its objective, duration, minimum enrollment, and specific areas of instruction.
 
-    Pars. (12) to (26). [Pub. L. 111–148, § 5002(b)(2)][/us/pl/111/148/s5002/b/2], added pars. (12) to (26).
+    Pars. (12) to (26). [Pub. L. 111–148][/us/pl/111/148], § 5002(b)(2), added pars. (12) to (26).
 
     2002—Par. (6)(B). [Pub. L. 107–251][/us/pl/107/251] substituted “254b(h)” for “256”.
 
-    1998—Par. (1)(C). [Pub. L. 105–392, § 108(b)(1)(A)][/us/pl/105/392/s108/b/1/A], inserted “and ‘graduate program in professional counseling’ ” before “mean an” and “and a concentration leading to a graduate degree in counseling” before period at end.
+    1998—Par. (1)(C). [Pub. L. 105–392][/us/pl/105/392], § 108(b)(1)(A), inserted “and ‘graduate program in professional counseling’ ” before “mean an” and “and a concentration leading to a graduate degree in counseling” before period at end.
 
-    Par. (1)(D). [Pub. L. 105–392, § 108(a)][/us/pl/105/392/s108/a], (b)(1)(B), inserted “behavioral health and” before “mental”, “behavioral health and mental health practice,” before “clinical”, and “professional counseling,” after “social work,”.
+    Par. (1)(D). [Pub. L. 105–392][/us/pl/105/392], § 108(a), (b)(1)(B), inserted “behavioral health and” before “mental”, “behavioral health and mental health practice,” before “clinical”, and “professional counseling,” after “social work,”.
 
-    Par. (1)(E). [Pub. L. 105–392, § 108(b)(1)(C)][/us/pl/105/392/s108/b/1/C], inserted “professional counseling,” after “social work,”.
+    Par. (1)(E). [Pub. L. 105–392][/us/pl/105/392], § 108(b)(1)(C), inserted “professional counseling,” after “social work,”.
 
-    Par. (3). [Pub. L. 105–392, § 108(d)][/us/pl/105/392/s108/d], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘program for the training of physician assistants’ means an educational program that—
+    Par. (3). [Pub. L. 105–392][/us/pl/105/392], § 108(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘program for the training of physician assistants’ means an educational program that—
 
     “(A) has as its objective the education of individuals who will, upon completion of their studies in the program, be qualified to provide primary health care under the supervision of a physician; and
 
     “(B) meets regulations prescribed by the Secretary in accordance with [section 293n(b) of this title][/us/usc/t42/s293n/b].”
 
-    Par. (5)(C). [Pub. L. 105–392, § 108(b)(2)][/us/pl/105/392/s108/b/2], inserted “or a degree in counseling or an equivalent degree” before period at end.
+    Par. (5)(C). [Pub. L. 105–392][/us/pl/105/392], § 108(b)(2), inserted “or a degree in counseling or an equivalent degree” before period at end.
 
-    Par. (6)(D). [Pub. L. 105–392, § 108(c)][/us/pl/105/392/s108/c], added subpar. (D).
+    Par. (6)(D). [Pub. L. 105–392][/us/pl/105/392], § 108(c), added subpar. (D).
 
-    Par. (11). [Pub. L. 105–392, § 108(e)][/us/pl/105/392/s108/e], added par. (11).
+    Par. (11). [Pub. L. 105–392][/us/pl/105/392], § 108(e), added par. (11).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -239,38 +239,38 @@
 [/us/usc/t42/s300u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%936
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2066
-[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3557
-[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
+[/us/pl/107/251/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtVI
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
-[/us/pl/111/148/s5002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fb
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F590
-[/us/pl/113/128/s512/z/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F3
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/pl/111/148/s5002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fb%2F1
-[/us/pl/111/148/s5002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fb%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
-[/us/pl/105/392/s108/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fb%2F1%2FA
-[/us/pl/105/392/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fa
-[/us/pl/105/392/s108/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fb%2F1%2FC
-[/us/pl/105/392/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fd
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/usc/t42/s293n/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293n%2Fb
-[/us/pl/105/392/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fb%2F2
-[/us/pl/105/392/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fc
-[/us/pl/105/392/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fe
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

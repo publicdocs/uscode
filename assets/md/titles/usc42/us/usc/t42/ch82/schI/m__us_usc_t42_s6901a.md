@@ -25,7 +25,7 @@
 
     that, therefore, it is in the national interest to recycle used oil in a manner which does not constitute a threat to public health and the environment and which conserves energy and materials.
 
-([Pub. L. 96–463, § 2][/us/pl/96/463/s2], Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055].)
+([Pub. L. 96–463][/us/pl/96/463], § 2, Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/463/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs2
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2055
 
 

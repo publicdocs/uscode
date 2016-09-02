@@ -193,11 +193,11 @@
 
             In this section, the term “covered ozone nonattainment area” means a Serious Area, as classified under [section 7511 of this title][/us/usc/t42/s7511] as of October 27, 1998.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 183, as added [Pub. L. 101–549, title I, § 103][/us/pl/101/549/s103], Nov. 15, 1990, [104 Stat. 2443][/us/stat/104/2443]; amended [Pub. L. 105–286, § 2][/us/pl/105/286/s2], Oct. 27, 1998, [112 Stat. 2773][/us/stat/112/2773].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 183, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 103, Nov. 15, 1990, [104 Stat. 2443][/us/stat/104/2443]; amended [Pub. L. 105–286][/us/pl/105/286], § 2, Oct. 27, 1998, [112 Stat. 2773][/us/stat/112/2773].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
  __Amendments__ 
 
@@ -205,7 +205,7 @@
 
  __Effective Date of 1998 Amendment; Publication of Prohibition__ 
 
-[Pub. L. 105–286, § 3][/us/pl/105/286/s3], Oct. 27, 1998, [112 Stat. 2774][/us/stat/112/2774], provided that:
+[Pub. L. 105–286][/us/pl/105/286], § 3, Oct. 27, 1998, [112 Stat. 2774][/us/stat/112/2774], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -243,17 +243,17 @@
 [/us/usc/t42/s7411/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411%2Fe
 [/us/usc/t42/s7511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs103
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2443
-[/us/pl/105/286/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F286%2Fs2
+[/us/pl/105/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F286
 [/us/stat/112/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2773
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/105/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F286
-[/us/pl/105/286/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F286%2Fs3
+[/us/pl/105/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F286
 [/us/stat/112/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2774
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

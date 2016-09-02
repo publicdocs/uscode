@@ -259,25 +259,25 @@
 
             The term “qualified retiree prescription drug plan” has the meaning given such term in [section 1395w–132(a)(2) of this title][/us/usc/t42/s1395w–132/a/2].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1860D–14A, as added [Pub. L. 111–148, title III, § 3301(b)][/us/pl/111/148/s3301/b], Mar. 23, 2010, [124 Stat. 462][/us/stat/124/462]; amended [Pub. L. 111–152, title I, § 1101(b)(2)][/us/pl/111/152/s1101/b/2], Mar. 30, 2010, [124 Stat. 1037][/us/stat/124/1037].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1860D–14A, as added [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3301(b), Mar. 23, 2010, [124 Stat. 462][/us/stat/124/462]; amended [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1101(b)(2), Mar. 30, 2010, [124 Stat. 1037][/us/stat/124/1037].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–152, § 1101(b)(2)(A)][/us/pl/111/152/s1101/b/2/A], substituted “January 1, 2011” for “July 1, 2010” and “180 days after March 23, 2010” for “April 1, 2010”.
+    2010—Subsec. (a). [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(A), substituted “January 1, 2011” for “July 1, 2010” and “180 days after March 23, 2010” for “April 1, 2010”.
 
-    Subsec. (b)(1)(C)(i). [Pub. L. 111–152, § 1101(b)(2)(B)(i)][/us/pl/111/152/s1101/b/2/B/i], which directed the amendment of subpar. (C) by striking out “2010 and” in the heading, was executed by striking “2010 and” before “2011” in cl. (i) heading to reflect the probable intent of Congress.
+    Subsec. (b)(1)(C)(i). [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(B)(i), which directed the amendment of subpar. (C) by striking out “2010 and” in the heading, was executed by striking “2010 and” before “2011” in cl. (i) heading to reflect the probable intent of Congress.
 
-    [Pub. L. 111–152, § 1101(b)(2)(B)(ii)][/us/pl/111/152/s1101/b/2/B/ii], (iii), substituted “January 1, 2011” for “July 1, 2010” and “not later than 30 days after the date of the establishment of a model agreement under subsection (a)” for “May 1, 2010”.
+    [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(B)(ii), (iii), substituted “January 1, 2011” for “July 1, 2010” and “not later than 30 days after the date of the establishment of a model agreement under subsection (a)” for “May 1, 2010”.
 
-    Subsec. (c)(1)(A)(iii). [Pub. L. 111–152, § 1101(b)(2)(C)(i)][/us/pl/111/152/s1101/b/2/C/i], substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2011”.
+    Subsec. (c)(1)(A)(iii). [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(C)(i), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2011”.
 
-    Subsec. (c)(2). [Pub. L. 111–152, § 1101(b)(2)(C)(ii)][/us/pl/111/152/s1101/b/2/C/ii], substituted “2011” for “2010”.
+    Subsec. (c)(2). [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(C)(ii), substituted “2011” for “2010”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–152, § 1101(b)(2)(D)][/us/pl/111/152/s1101/b/2/D], substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2010”.
+    Subsec. (d)(2)(B). [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(D), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2010”.
 
-    Subsec. (g)(1). [Pub. L. 111–152, § 1101(b)(2)(E)(i)][/us/pl/111/152/s1101/b/2/E/i], substituted “a covered part D drug” for “an applicable drug” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(E)(i), substituted “a covered part D drug” for “an applicable drug” in introductory provisions.
 
-    Subsec. (g)(1)(C) to (E). [Pub. L. 111–152, § 1101(b)(2)(E)(ii)][/us/pl/111/152/s1101/b/2/E/ii]–(iv), inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “is not subject to a reduction in premium subsidy under [section 1395r(i) of this title][/us/usc/t42/s1395r/i]; and”.
+    Subsec. (g)(1)(C) to (E). [Pub. L. 111–152][/us/pl/111/152], § 1101(b)(2)(E)(ii)–(iv), inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “is not subject to a reduction in premium subsidy under [section 1395r(i) of this title][/us/usc/t42/s1395r/i]; and”.
 
 ----------
 
@@ -297,18 +297,18 @@
 [/us/usc/t42/s1395w–102/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93102%2Fb%2F4%2FB
 [/us/usc/t42/s1395w–132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93132%2Fa%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s3301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fb
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F462
-[/us/pl/111/152/s1101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1037
-[/us/pl/111/152/s1101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FA
-[/us/pl/111/152/s1101/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FB%2Fi
-[/us/pl/111/152/s1101/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FB%2Fii
-[/us/pl/111/152/s1101/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FC%2Fi
-[/us/pl/111/152/s1101/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FC%2Fii
-[/us/pl/111/152/s1101/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FD
-[/us/pl/111/152/s1101/b/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FE%2Fi
-[/us/pl/111/152/s1101/b/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fb%2F2%2FE%2Fii
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t42/s1395r/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fi
 
 

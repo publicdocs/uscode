@@ -23,11 +23,11 @@
 
         In the event a State enters into a contract in accordance with subsection (a) of this section, the Federal share of the expenditures made to the contracting organization for its costs in the performance of its functions under the State plan shall be 75 percent (as provided in [section 1396b(a)(3)(C) of this title][/us/usc/t42/s1396b/a/3/C]).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1158, as added [Pub. L. 97–248, title I, § 143][/us/pl/97/248/s143], Sept. 3, 1982, [96 Stat. 390][/us/stat/96/390]; amended [Pub. L. 112–40, title II, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1158, as added [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 143, Sept. 3, 1982, [96 Stat. 390][/us/stat/96/390]; amended [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 261(a)(2)(C), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
 
  __Prior Provisions__ 
 
-    A prior section 1320c–7, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1158, as added Oct. 30, 1972, [Pub. L. 92–603, title II, § 249F(b)][/us/pl/92/603/s249F/b], [86 Stat. 1437][/us/stat/86/1437]; amended Oct. 25, 1977, [Pub. L. 95–142][/us/pl/95/142], §§ 5(d)(1), 22(a), [91 Stat. 1185][/us/stat/91/1185], 1208; Dec. 5, 1980, [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 902(a)(3), 931(h), [94 Stat. 2613][/us/stat/94/2613], 2634; Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2113(e), 2121(g), [95 Stat. 794][/us/stat/95/794], 796, related to review approval as a condition of payment of claims, prior to the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
+    A prior section 1320c–7, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1158, as added Oct. 30, 1972, [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 249F(b), [86 Stat. 1437][/us/stat/86/1437]; amended Oct. 25, 1977, [Pub. L. 95–142][/us/pl/95/142], §§ 5(d)(1), 22(a), [91 Stat. 1185][/us/stat/91/1185], 1208; Dec. 5, 1980, [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], §§ 902(a)(3), 931(h), [94 Stat. 2613][/us/stat/94/2613], 2634; Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], §§ 2113(e), 2121(g), [95 Stat. 794][/us/stat/95/794], 796, related to review approval as a condition of payment of claims, prior to the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
 
  __Amendments__ 
 
@@ -48,18 +48,18 @@
 [/us/usc/t42/s1395y/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fg
 [/us/usc/t42/s1396b/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa%2F3%2FC
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/248/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs143
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F390
-[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F423
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s249F/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249F%2Fb
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1437
 [/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1185
-[/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2613
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F794
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40

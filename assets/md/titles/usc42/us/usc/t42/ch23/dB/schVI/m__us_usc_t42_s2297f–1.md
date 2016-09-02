@@ -23,7 +23,7 @@
 
         The Corporation shall provide for the costs of decontamination and decommissioning of any Corporation facilities described in subsection (a) of this section in accordance with the requirements of the amendments made by section 5 of the Solar, Wind, Waste, and Geothermal Power Production Act of 1990.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1702, as added [Pub. L. 102–486, title XI, § 1101][/us/pl/102/486/s1101], Oct. 24, 1992, [106 Stat. 2953][/us/stat/106/2953]; amended [Pub. L. 104–134, title III, § 3116(b)(4)][/us/pl/104/134/s3116/b/4], Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1702, as added [Pub. L. 102–486, title XI][/us/pl/102/486/tXI], § 1101, Oct. 24, 1992, [106 Stat. 2953][/us/stat/106/2953]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(b)(4), Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/102/486/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1101
+[/us/pl/102/486/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXI
 [/us/stat/106/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2953
-[/us/pl/104/134/s3116/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fb%2F4
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
 [/us/pl/101/575/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs5
 [/us/stat/104/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2835

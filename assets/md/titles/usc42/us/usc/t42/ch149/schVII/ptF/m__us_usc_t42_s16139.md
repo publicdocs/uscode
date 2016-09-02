@@ -17,7 +17,7 @@
 
     In any settlement agreement regarding alleged violations of environmental law in which a defendant agrees to perform a diesel emissions reduction Supplemental Environmental Project, the Administrator of the Environmental Protection Agency shall require the defendant to include in the settlement documents a certification under penalty of law that the defendant would have agreed to perform a comparably valued, alternative project other than a diesel emissions reduction Supplemental Environmental Project if the Administrator were precluded by law from accepting a diesel emission reduction Supplemental Environmental Project. A failure by the Administrator to include this language in such a settlement agreement shall not create a cause of action against the United States under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\] or any other law or create a basis for overturning a settlement agreement entered into by the United States.
 
-([Pub. L. 110–255, § 2][/us/pl/110/255/s2], June 30, 2008, [122 Stat. 2423][/us/stat/122/2423].)
+([Pub. L. 110–255][/us/pl/110/255], § 2, June 30, 2008, [122 Stat. 2423][/us/stat/122/2423].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/110/255/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs2
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
 [/us/stat/122/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2423
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

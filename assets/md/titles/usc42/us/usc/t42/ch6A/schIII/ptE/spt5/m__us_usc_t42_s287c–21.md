@@ -75,31 +75,31 @@
 
         Amounts appropriated to carry out this section for fiscal year 1999 are available for obligation through September 30, 2001. Amounts appropriated to carry out this section for fiscal year 2000 are available for obligation through September 30, 2001.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 485D, as added [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VI, § 601(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–387; amended [Pub. L. 113–235, div. G, title II, § 224][/us/pl/113/235/s224], Dec. 16, 2014, [128 Stat. 2490][/us/stat/128/2490].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 485D, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VI, § 601(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–387; amended [Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], § 224, Dec. 16, 2014, [128 Stat. 2490][/us/stat/128/2490].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–235, § 224(1)][/us/pl/113/235/s224/1], (3), substituted “National Center for Complementary and Integrative Health” for “National Center for Complementary and Alternative Medicine” and “complementary and integrative health” for “complementary and alternative treatment”.
+    2014—Subsec. (a). [Pub. L. 113–235][/us/pl/113/235], § 224(1), (3), substituted “National Center for Complementary and Integrative Health” for “National Center for Complementary and Alternative Medicine” and “complementary and integrative health” for “complementary and alternative treatment”.
 
-    Subsec. (b). [Pub. L. 113–235, § 224(2)][/us/pl/113/235/s224/2], substituted “integrative health” for “alternative medicine”.
+    Subsec. (b). [Pub. L. 113–235][/us/pl/113/235], § 224(2), substituted “integrative health” for “alternative medicine”.
 
-    Subsec. (c). [Pub. L. 113–235, § 224(5)][/us/pl/113/235/s224/5], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In carrying out subsection (a) of this section, the Director of the Center shall, as appropriate, study the integration of alternative treatment, diagnostic and prevention systems, modalities, and disciplines with the practice of conventional medicine as a complement to such medicine and into health care delivery systems in the United States.”
+    Subsec. (c). [Pub. L. 113–235][/us/pl/113/235], § 224(5), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In carrying out subsection (a) of this section, the Director of the Center shall, as appropriate, study the integration of alternative treatment, diagnostic and prevention systems, modalities, and disciplines with the practice of conventional medicine as a complement to such medicine and into health care delivery systems in the United States.”
 
-    Subsec. (d). [Pub. L. 113–235, § 224(2)][/us/pl/113/235/s224/2], substituted “integrative health” for “alternative medicine”.
+    Subsec. (d). [Pub. L. 113–235][/us/pl/113/235], § 224(2), substituted “integrative health” for “alternative medicine”.
 
-    Subsec. (e). [Pub. L. 113–235, § 224(3)][/us/pl/113/235/s224/3], substituted “complementary and integrative health” for “alternative and complementary medical treatment”.
+    Subsec. (e). [Pub. L. 113–235][/us/pl/113/235], § 224(3), substituted “complementary and integrative health” for “alternative and complementary medical treatment”.
 
-    Subsec. (g)(1). [Pub. L. 113–235, § 224(3)][/us/pl/113/235/s224/3], substituted “complementary and integrative health” for “complementary and alternative treatment”.
+    Subsec. (g)(1). [Pub. L. 113–235][/us/pl/113/235], § 224(3), substituted “complementary and integrative health” for “complementary and alternative treatment”.
 
-    Subsec. (g)(2). [Pub. L. 113–235, § 224(4)][/us/pl/113/235/s224/4], substituted “integrative health treatment” for “alternative medical treatment”.
+    Subsec. (g)(2). [Pub. L. 113–235][/us/pl/113/235], § 224(4), substituted “integrative health treatment” for “alternative medical treatment”.
 
-    Subsec. (h). [Pub. L. 113–235, § 224(2)][/us/pl/113/235/s224/2], (3), substituted “complementary and integrative health,” for “complementary and alternative treatment,” and “integrative health research” for “alternative medicine research”.
+    Subsec. (h). [Pub. L. 113–235][/us/pl/113/235], § 224(2), (3), substituted “complementary and integrative health,” for “complementary and alternative treatment,” and “integrative health research” for “alternative medicine research”.
 
  __Termination of Advisory Councils__ 
 
     Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __Executive Order No. 13147__ 
 
@@ -114,21 +114,21 @@
 
 [/us/usc/t42/s284a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/235/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2490
-[/us/pl/113/235/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F1
-[/us/pl/113/235/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F2
-[/us/pl/113/235/s224/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F5
-[/us/pl/113/235/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F2
-[/us/pl/113/235/s224/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F3
-[/us/pl/113/235/s224/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F3
-[/us/pl/113/235/s224/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F4
-[/us/pl/113/235/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F2
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

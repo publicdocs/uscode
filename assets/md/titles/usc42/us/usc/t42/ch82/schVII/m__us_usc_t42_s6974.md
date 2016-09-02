@@ -33,7 +33,7 @@
 
             If within 45 days the Administrator receives written notice of opposition to the agency’s intention to issue such permit and a request for a hearing, or if the Administrator determines on his own initiative, he shall hold an informal public hearing (including an opportunity for presentation of written and oral views) on whether he should issue a permit for the proposed facility. Whenever possible the Administrator shall schedule such hearing at a location convenient to the nearest population center to such proposed facility and give notice in the aforementioned manner of the date, time, and subject matter of such hearing. No State program which provides for the issuance of permits referred to in this paragraph may be authorized by the Administrator under [section 6926 of this title][/us/usc/t42/s6926] unless such program provides for the notice and hearing required by the paragraph.
 
-([Pub. L. 89–272, title II, § 7004][/us/pl/89/272/s7004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2826][/us/stat/90/2826]; amended [Pub. L. 96–482, § 26][/us/pl/96/482/s26], Oct. 21, 1980, [94 Stat. 2348][/us/stat/94/2348].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7004, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2826][/us/stat/90/2826]; amended [Pub. L. 96–482][/us/pl/96/482], § 26, Oct. 21, 1980, [94 Stat. 2348][/us/stat/94/2348].)
 
  __Amendments__ 
 
@@ -52,10 +52,10 @@
 
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
 [/us/usc/t42/s6926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6926
-[/us/pl/89/272/s7004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7004
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2826
-[/us/pl/96/482/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs26
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2348
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

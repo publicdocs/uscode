@@ -39,15 +39,15 @@
 
         (2) In the case of any grant or contract under [section 300 of this title][/us/usc/t42/s300], such assurances shall provide for the review and approval of the suitability of such materials, prior to their distribution, by an advisory committee established by the grantee or contractor in accordance with the Secretary’s regulations. Such a committee shall include individuals broadly representative of the population or community to which the materials are to be made available.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title X, § 1006, as added [Pub. L. 91–572, § 6(c)][/us/pl/91/572/s6/c], Dec. 24, 1970, [84 Stat. 1507][/us/stat/84/1507]; amended [Pub. L. 94–63, title II, § 204(c)][/us/pl/94/63/s204/c], (d), July 29, 1975, [89 Stat. 308][/us/stat/89/308]; [Pub. L. 95–613, § 1(a)(2)][/us/pl/95/613/s1/a/2], Nov. 8, 1978, [92 Stat. 3093][/us/stat/92/3093].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title X, § 1006, as added [Pub. L. 91–572][/us/pl/91/572], § 6(c), Dec. 24, 1970, [84 Stat. 1507][/us/stat/84/1507]; amended [Pub. L. 94–63, title II][/us/pl/94/63/tII], § 204(c), (d), July 29, 1975, [89 Stat. 308][/us/stat/89/308]; [Pub. L. 95–613][/us/pl/95/613], § 1(a)(2), Nov. 8, 1978, [92 Stat. 3093][/us/stat/92/3093].)
 
  __Amendments__ 
 
     1978—[Pub. L. 95–613][/us/pl/95/613] added subsec. (d).
 
-    1975—Subsec. (a). [Pub. L. 94–63, § 204(c)][/us/pl/94/63/s204/c], inserted provisions relating to amount of grants authorized pursuant to sections of this subchapter.
+    1975—Subsec. (a). [Pub. L. 94–63][/us/pl/94/63], § 204(c), inserted provisions relating to amount of grants authorized pursuant to sections of this subchapter.
 
-    Subsec. (c). [Pub. L. 94–63, § 204(d)][/us/pl/94/63/s204/d], inserted provision relating to economic status as part of the criteria to be included within definition of “low-income family”.
+    Subsec. (c). [Pub. L. 94–63][/us/pl/94/63], § 204(d), inserted provision relating to economic status as part of the criteria to be included within definition of “low-income family”.
 
  __Effective Date of 1975 Amendment__ 
 
@@ -62,15 +62,15 @@
 
 [/us/usc/t42/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/572/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F572%2Fs6%2Fc
+[/us/pl/91/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F572
 [/us/stat/84/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1507
-[/us/pl/94/63/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs204%2Fc
+[/us/pl/94/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtII
 [/us/stat/89/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F308
-[/us/pl/95/613/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F613%2Fs1%2Fa%2F2
+[/us/pl/95/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F613
 [/us/stat/92/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3093
 [/us/pl/95/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F613
-[/us/pl/94/63/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs204%2Fc
-[/us/pl/94/63/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs204%2Fd
+[/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
+[/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
 [/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
 [/us/pl/94/63/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs608
 [/us/usc/t42/s247b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b

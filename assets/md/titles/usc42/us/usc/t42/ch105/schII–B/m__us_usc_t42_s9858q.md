@@ -17,11 +17,11 @@
 
     Notwithstanding any other law, the value of any child care provided or arranged (or any amount received as payment for such care or reimbursement for costs incurred for such care) under this subchapter shall not be treated as income for purposes of any other Federal or Federally-assisted program that bases eligibility, or the amount of benefits, on need.
 
-([Pub. L. 97–35, title VI, § 658S][/us/pl/97/35/s658S], as added [Pub. L. 102–586, § 8(b)][/us/pl/102/586/s8/b], Nov. 4, 1992, [106 Stat. 5035][/us/stat/106/5035]; amended [Pub. L. 103–171, § 8][/us/pl/103/171/s8], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 658S, as added [Pub. L. 102–586][/us/pl/102/586], § 8(b), Nov. 4, 1992, [106 Stat. 5035][/us/stat/106/5035]; amended [Pub. L. 103–171][/us/pl/103/171], § 8, Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994].)
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–171][/us/pl/103/171] made technical correction to directory language of [Pub. L. 102–586, § 8(b)][/us/pl/102/586/s8/b], which added this section.
+    1993—[Pub. L. 103–171][/us/pl/103/171] made technical correction to directory language of [Pub. L. 102–586][/us/pl/102/586], § 8(b), which added this section.
 
  __Effective Date__ 
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/97/35/s658S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658S
-[/us/pl/102/586/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fb
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5035
-[/us/pl/103/171/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs8
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1994
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
-[/us/pl/102/586/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fb
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/pl/102/586/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fd
 [/us/usc/t42/s9858h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858h
 

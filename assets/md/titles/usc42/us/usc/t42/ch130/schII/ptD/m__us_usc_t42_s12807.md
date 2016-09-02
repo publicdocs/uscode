@@ -37,7 +37,7 @@
 
         (3) reasonable steps to ensure that any units so repaired will remain occupied by persons or families eligible for assistance under this subchapter.
 
-([Pub. L. 101–625, title II, § 257][/us/pl/101/625/s257], Nov. 28, 1990, [104 Stat. 4122][/us/stat/104/4122].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 257, Nov. 28, 1990, [104 Stat. 4122][/us/stat/104/4122].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
-[/us/pl/101/625/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs257
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4122
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1142

@@ -99,7 +99,7 @@
 
         (2) the costs of carrying out projects and activities under this section are shared in accordance with [section 16352 of this title][/us/usc/t42/s16352].
 
-([Pub. L. 109–58, title IX, § 915][/us/pl/109/58/s915], Aug. 8, 2005, [119 Stat. 861][/us/stat/119/861].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 915, Aug. 8, 2005, [119 Stat. 861][/us/stat/119/861].)
 
 ----------
 
@@ -109,7 +109,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/109/58/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs915
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F861
 
 

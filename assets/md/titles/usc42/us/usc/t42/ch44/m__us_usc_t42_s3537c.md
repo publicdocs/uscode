@@ -23,7 +23,7 @@
 
     (3) any incidental expenses related to paragraph (1) or (2).
 
-([Pub. L. 89–174, § 14][/us/pl/89/174/s14], as added [Pub. L. 102–550, title IX, § 922][/us/pl/102/550/s922], Oct. 28, 1992, [106 Stat. 3884][/us/stat/106/3884].)
+([Pub. L. 89–174][/us/pl/89/174], § 14, as added [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 922, Oct. 28, 1992, [106 Stat. 3884][/us/stat/106/3884].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/89/174/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs14
-[/us/pl/102/550/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs922
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3884
 
 

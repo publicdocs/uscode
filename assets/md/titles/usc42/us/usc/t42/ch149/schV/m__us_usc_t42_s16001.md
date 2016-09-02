@@ -23,7 +23,7 @@
 
     (3) the use and implementation of such other similar technologies and innovations as the Secretary of Housing and Urban Development considers to be appropriate.
 
-([Pub. L. 109–58, title V, § 506(a)][/us/pl/109/58/s506/a], Aug. 8, 2005, [119 Stat. 779][/us/stat/119/779].)
+([Pub. L. 109–58, title V][/us/pl/109/58/tV], § 506(a), Aug. 8, 2005, [119 Stat. 779][/us/stat/119/779].)
 
  __Short Title__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs506%2Fa
+[/us/pl/109/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtV
 [/us/stat/119/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F779
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs501

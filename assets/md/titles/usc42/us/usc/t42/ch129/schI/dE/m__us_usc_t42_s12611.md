@@ -27,15 +27,15 @@
 
     (5) urban and rural development.
 
-([Pub. L. 101–610, title I, § 151][/us/pl/101/610/s151], formerly § 195, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2522][/us/stat/106/2522]; renumbered § 151, [Pub. L. 103–82, title I, § 104(b)][/us/pl/103/82/s104/b], Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840]; amended [Pub. L. 111–13, title I, § 1501][/us/pl/111/13/s1501], Apr. 21, 2009, [123 Stat. 1521][/us/stat/123/1521].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 151, formerly § 195, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2522][/us/stat/106/2522]; renumbered § 151, [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1501, Apr. 21, 2009, [123 Stat. 1521][/us/stat/123/1521].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 12653 of this title][/us/usc/t42/s12653] prior to renumbering by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b].
+    Section was formerly classified to [section 12653 of this title][/us/usc/t42/s12653] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 104(b).
 
  __Prior Provisions__ 
 
-    A prior section 12611, [Pub. L. 101–610, title I, § 160][/us/pl/101/610/s160], Nov. 16, 1990, [104 Stat. 3157][/us/stat/104/3157], authorized Commission to make grants to Directors of Peace Corps and ACTION to carry out training and educational benefits demonstration programs, prior to repeal by [Pub. L. 103–82, § 104(a)][/us/pl/103/82/s104/a].
+    A prior section 12611, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 160, Nov. 16, 1990, [104 Stat. 3157][/us/stat/104/3157], authorized Commission to make grants to Directors of Peace Corps and ACTION to carry out training and educational benefits demonstration programs, prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 104(a).
 
  __Amendments__ 
 
@@ -52,18 +52,18 @@
 ----------
 ----------
 
-[/us/pl/101/610/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs151
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2522
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
-[/us/pl/111/13/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1501
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1521
 [/us/usc/t42/s12653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
-[/us/pl/101/610/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs160
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3157
-[/us/pl/103/82/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa

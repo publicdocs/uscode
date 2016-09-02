@@ -39,7 +39,7 @@
 
         If the low-level radioactive waste involved is the result of a licensed activity to recover zirconium, hafnium, and rare earths from source material, the Secretary, upon request of the owner of the site involved, shall assume title and custody of such waste and the land on which it is disposed when such site has been decontaminated and stabilized in accordance with the requirements established by the Commission and when such owner has made adequate financial arrangements approved by the Commission for the long-term maintenance and monitoring of such site.
 
-([Pub. L. 97–425, title I, § 151][/us/pl/97/425/s151], Jan. 7, 1983, [96 Stat. 2244][/us/stat/96/2244].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 151, Jan. 7, 1983, [96 Stat. 2244][/us/stat/96/2244].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2231
 [/us/usc/t42/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021
-[/us/pl/97/425/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs151
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2244
 
 

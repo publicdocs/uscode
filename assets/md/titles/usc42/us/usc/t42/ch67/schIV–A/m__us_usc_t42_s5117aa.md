@@ -33,53 +33,53 @@
 
     (8) private, Federal, State, and local resources should be coordinated to establish and maintain services described in paragraph (7) and to ensure the optimal use of all such resources.
 
-([Pub. L. 100–505, § 2][/us/pl/100/505/s2], Oct. 18, 1988, [102 Stat. 2533][/us/stat/102/2533]; [Pub. L. 102–236, § 2][/us/pl/102/236/s2], Dec. 12, 1991, [105 Stat. 1812][/us/stat/105/1812]; [Pub. L. 108–36, title III, § 301][/us/pl/108/36/s301], June 25, 2003, [117 Stat. 822][/us/stat/117/822]; [Pub. L. 111–320, title IV, § 401(a)][/us/pl/111/320/s401/a], Dec. 20, 2010, [124 Stat. 3513][/us/stat/124/3513].)
+([Pub. L. 100–505][/us/pl/100/505], § 2, Oct. 18, 1988, [102 Stat. 2533][/us/stat/102/2533]; [Pub. L. 102–236][/us/pl/102/236], § 2, Dec. 12, 1991, [105 Stat. 1812][/us/stat/105/1812]; [Pub. L. 108–36, title III][/us/pl/108/36/tIII], § 301, June 25, 2003, [117 Stat. 822][/us/stat/117/822]; [Pub. L. 111–320, title IV][/us/pl/111/320/tIV], § 401(a), Dec. 20, 2010, [124 Stat. 3513][/us/stat/124/3513].)
 
  __Amendments__ 
 
-    2010—Par. (4). [Pub. L. 111–320, § 401(a)(1)][/us/pl/111/320/s401/a/1], substituted “including those with HIV/AIDS” for “including those who are infected with the human immunodeficiency virus (commonly known as ‘HIV’), those who have acquired immune deficiency syndrome (commonly known as ‘AIDS’)”.
+    2010—Par. (4). [Pub. L. 111–320][/us/pl/111/320], § 401(a)(1), substituted “including those with HIV/AIDS” for “including those who are infected with the human immunodeficiency virus (commonly known as ‘HIV’), those who have acquired immune deficiency syndrome (commonly known as ‘AIDS’)”.
 
-    Par. (5). [Pub. L. 111–320, § 401(a)(2)][/us/pl/111/320/s401/a/2], substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
+    Par. (5). [Pub. L. 111–320][/us/pl/111/320], § 401(a)(2), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
 
-    2003—Par. (1). [Pub. L. 108–36, § 301(1)][/us/pl/108/36/s301/1], (8), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;”.
+    2003—Par. (1). [Pub. L. 108–36][/us/pl/108/36], § 301(1), (8), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;”.
 
-    Par. (2). [Pub. L. 108–36, § 301(8)][/us/pl/108/36/s301/8], redesignated par. (3) as (2). Former par. (2) redesignated (1).
+    Par. (2). [Pub. L. 108–36][/us/pl/108/36], § 301(8), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-    [Pub. L. 108–36, § 301(2)][/us/pl/108/36/s301/2], substituted “studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants” for “the inability of parents who abuse drugs to provide adequate care for such infants”.
+    [Pub. L. 108–36][/us/pl/108/36], § 301(2), substituted “studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants” for “the inability of parents who abuse drugs to provide adequate care for such infants”.
 
-    Pars. (3), (4). [Pub. L. 108–36, § 301(8)][/us/pl/108/36/s301/8], redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+    Pars. (3), (4). [Pub. L. 108–36][/us/pl/108/36], § 301(8), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-    Par. (5). [Pub. L. 108–36, § 301(8)][/us/pl/108/36/s301/8], redesignated par. (8) as (5). Former par. (5) redesignated (4).
+    Par. (5). [Pub. L. 108–36][/us/pl/108/36], § 301(8), redesignated par. (8) as (5). Former par. (5) redesignated (4).
 
-    [Pub. L. 108–36, § 301(3)][/us/pl/108/36/s301/3], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “training is inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;”.
+    [Pub. L. 108–36][/us/pl/108/36], § 301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “training is inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;”.
 
-    Pars. (6), (7). [Pub. L. 108–36, § 301(4)][/us/pl/108/36/s301/4], (8), redesignated pars. (9) and (10) as (6) and (7), respectively, and struck out former pars. (6) and (7) which read as follows:
+    Pars. (6), (7). [Pub. L. 108–36][/us/pl/108/36], § 301(4), (8), redesignated pars. (9) and (10) as (6) and (7), respectively, and struck out former pars. (6) and (7) which read as follows:
 
     “(6) a particularly devastating development is the increase in the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;
 
     “(7) many such infants and young children have at least one parent who is an intravenous drug abuser;”.
 
-    Par. (8). [Pub. L. 108–36, § 301(9)][/us/pl/108/36/s301/9], added par. (8). Former par. (8) redesignated (5).
+    Par. (8). [Pub. L. 108–36][/us/pl/108/36], § 301(9), added par. (8). Former par. (8) redesignated (5).
 
-    [Pub. L. 108–36, § 301(5)][/us/pl/108/36/s301/5], substituted “infants and young children who are abandoned in hospitals” for “such infants and young children” and inserted “by parents abusing drugs,” after “deficiency syndrome,”.
+    [Pub. L. 108–36][/us/pl/108/36], § 301(5), substituted “infants and young children who are abandoned in hospitals” for “such infants and young children” and inserted “by parents abusing drugs,” after “deficiency syndrome,”.
 
-    Par. (9). [Pub. L. 108–36, § 301(8)][/us/pl/108/36/s301/8], redesignated par. (9) as (6).
+    Par. (9). [Pub. L. 108–36][/us/pl/108/36], § 301(8), redesignated par. (9) as (6).
 
-    [Pub. L. 108–36, § 301(6)][/us/pl/108/36/s301/6], substituted “comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
+    [Pub. L. 108–36][/us/pl/108/36], § 301(6), substituted “comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
 
-    Par. (10). [Pub. L. 108–36, § 301(8)][/us/pl/108/36/s301/8], redesignated par. (10) as (7).
+    Par. (10). [Pub. L. 108–36][/us/pl/108/36], § 301(8), redesignated par. (10) as (7).
 
-    Par. (11). [Pub. L. 108–36, § 301(7)][/us/pl/108/36/s301/7], struck out par. (11) which read as follows: “there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.”
+    Par. (11). [Pub. L. 108–36][/us/pl/108/36], § 301(7), struck out par. (11) which read as follows: “there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.”
 
-    1991—Par. (3). [Pub. L. 102–236, § 2(1)][/us/pl/102/236/s2/1], substituted “an unacceptable number” for “the vast majority”.
+    1991—Par. (3). [Pub. L. 102–236][/us/pl/102/236], § 2(1), substituted “an unacceptable number” for “the vast majority”.
 
-    Par. (6). [Pub. L. 102–236, § 2(2)][/us/pl/102/236/s2/2], substituted “the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;” for “the number of cases of acquired immune deficiency syndrome in infants and young children, and the number of such cases has doubled within the last 13 months;”.
+    Par. (6). [Pub. L. 102–236][/us/pl/102/236], § 2(2), substituted “the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;” for “the number of cases of acquired immune deficiency syndrome in infants and young children, and the number of such cases has doubled within the last 13 months;”.
 
-    Par. (7). [Pub. L. 102–236, § 2(3)][/us/pl/102/236/s2/3], substituted “many such” for “more than 80 percent of” and struck out “with acquired immune deficiency syndrome” after “young children”.
+    Par. (7). [Pub. L. 102–236][/us/pl/102/236], § 2(3), substituted “many such” for “more than 80 percent of” and struck out “with acquired immune deficiency syndrome” after “young children”.
 
-    Par. (8). [Pub. L. 102–236, § 2(4)][/us/pl/102/236/s2/4], substituted “such infants and young children” for “infants and young children with acquired immune deficiency syndrome”.
+    Par. (8). [Pub. L. 102–236][/us/pl/102/236], § 2(4), substituted “such infants and young children” for “infants and young children with acquired immune deficiency syndrome”.
 
-    Pars. (10), (11). [Pub. L. 102–236, § 2(5)][/us/pl/102/236/s2/5], added par. (10) and redesignated former par. (10) as (11).
+    Pars. (10), (11). [Pub. L. 102–236][/us/pl/102/236], § 2(5), added par. (10) and redesignated former par. (10) as (11).
 
  __Short Title__ 
 
@@ -92,34 +92,34 @@
 ----------
 ----------
 
-[/us/pl/100/505/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505%2Fs2
+[/us/pl/100/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505
 [/us/stat/102/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2533
-[/us/pl/102/236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs2
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
 [/us/stat/105/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1812
-[/us/pl/108/36/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301
+[/us/pl/108/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIII
 [/us/stat/117/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F822
-[/us/pl/111/320/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs401%2Fa
+[/us/pl/111/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtIV
 [/us/stat/124/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3513
-[/us/pl/111/320/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs401%2Fa%2F1
-[/us/pl/111/320/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs401%2Fa%2F2
-[/us/pl/108/36/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F1
-[/us/pl/108/36/s301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F8
-[/us/pl/108/36/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F2
-[/us/pl/108/36/s301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F8
-[/us/pl/108/36/s301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F8
-[/us/pl/108/36/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F3
-[/us/pl/108/36/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F4
-[/us/pl/108/36/s301/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F9
-[/us/pl/108/36/s301/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F5
-[/us/pl/108/36/s301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F8
-[/us/pl/108/36/s301/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F6
-[/us/pl/108/36/s301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F8
-[/us/pl/108/36/s301/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs301%2F7
-[/us/pl/102/236/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs2%2F1
-[/us/pl/102/236/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs2%2F2
-[/us/pl/102/236/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs2%2F3
-[/us/pl/102/236/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs2%2F4
-[/us/pl/102/236/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs2%2F5
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
 [/us/pl/100/505/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505%2Fs1
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
 

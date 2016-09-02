@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1956—[Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(i), [70 Stat. 824][/us/stat/70/824], included disability insurance benefits in subchapter heading.
+    1956—[Act Aug. 1, 1956, ch. 836, title I][/us/act/1956-08-01/ch836/tI], § 103(i), [70 Stat. 824][/us/stat/70/824], included disability insurance benefits in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
+[/us/act/1956-08-01/ch836/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836%2FtI
 [/us/stat/70/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F824
 
 

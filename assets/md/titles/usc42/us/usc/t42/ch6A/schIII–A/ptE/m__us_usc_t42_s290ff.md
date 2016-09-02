@@ -89,7 +89,7 @@
 
             (B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 561, as added [Pub. L. 102–321, title I, § 119][/us/pl/102/321/s119], July 10, 1992, [106 Stat. 349][/us/stat/106/349]; amended [Pub. L. 103–43, title XX, § 2017(1)][/us/pl/103/43/s2017/1], June 10, 1993, [107 Stat. 218][/us/stat/107/218]; [Pub. L. 106–310, div. B, title XXXI, § 3105(a)][/us/pl/106/310/s3105/a], Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 561, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 119, July 10, 1992, [106 Stat. 349][/us/stat/106/349]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2017(1), June 10, 1993, [107 Stat. 218][/us/stat/107/218]; [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3105(a), Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175].)
 
  __References in Text__ 
 
@@ -99,15 +99,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 290ff, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 561, as added Nov. 18, 1988, [Pub. L. 100–690, title II, § 2081(a)][/us/pl/100/690/s2081/a], [102 Stat. 4216][/us/stat/102/4216], which related to action by National Institute on Drug Abuse and States concerning military facilities, was renumbered section 513 of act July 1, 1944, by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 290bb–6 of this title][/us/usc/t42/s290bb–6].
+    A prior section 290ff, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 561, as added Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2081(a), [102 Stat. 4216][/us/stat/102/4216], which related to action by National Institute on Drug Abuse and States concerning military facilities, was renumbered section 513 of act July 1, 1944, by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 290bb–6 of this title][/us/usc/t42/s290bb–6].
 
  __Amendments__ 
 
     2000—Subsec. (c)(1)(D). [Pub. L. 106–310][/us/pl/106/310] substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”.
 
-    1993—Subsec. (a)(2). [Pub. L. 103–43, § 2017(1)(A)][/us/pl/103/43/s2017/1/A], substituted “this part” for “this subpart”.
+    1993—Subsec. (a)(2). [Pub. L. 103–43][/us/pl/103/43], § 2017(1)(A), substituted “this part” for “this subpart”.
 
-    Subsec. (b)(1)(B), (C). [Pub. L. 103–43, § 2017(1)(B)][/us/pl/103/43/s2017/1/B], substituted “is such a grantee” for “is receiving such payments”.
+    Subsec. (b)(1)(B), (C). [Pub. L. 103–43][/us/pl/103/43], § 2017(1)(B), substituted “is such a grantee” for “is receiving such payments”.
 
  __Effective Date__ 
 
@@ -115,7 +115,7 @@
 
  __Current Grantees__ 
 
-[Pub. L. 106–310, div. B, title XXXI, § 3105(e)][/us/pl/106/310/s3105/e], Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175], provided that:
+[Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3105(e), Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -135,28 +135,28 @@
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs119
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F349
-[/us/pl/103/43/s2017/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2017%2F1
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F218
-[/us/pl/106/310/s3105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3105%2Fa
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1175
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/690/s2081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2081%2Fa
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4216
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290bb–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%936
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/103/43/s2017/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2017%2F1%2FA
-[/us/pl/103/43/s2017/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2017%2F1%2FB
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
-[/us/pl/106/310/s3105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3105%2Fe
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1175
 [/us/usc/t42/s290ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290ff
 [/us/usc/t42/s290aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%933

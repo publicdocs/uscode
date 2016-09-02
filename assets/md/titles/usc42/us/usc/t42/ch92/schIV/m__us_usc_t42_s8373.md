@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_ch92_schIV.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
+[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8371 _us_usc_t42_s8372.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
 
 ## § 8373. Conservation in Federal facilities, contracts, and financial assistance programs
 
@@ -49,7 +49,7 @@
 
         (3) The President or any Federal agency may not use the authority granted under paragraph (1) to require compliance, including the use of coal, by any person or facility with any prohibition under other sections of this chapter if such person or facility has been specifically determined by the Secretary as subject to such prohibition or has been exempted from the application of such prohibition.
 
-([Pub. L. 95–620, title IV, § 403][/us/pl/95/620/s403], Nov. 9, 1978, [92 Stat. 3317][/us/stat/92/3317]; [Pub. L. 100–42, § 1(c)(14)][/us/pl/100/42/s1/c/14], May 21, 1987, [101 Stat. 313][/us/stat/101/313]; [Pub. L. 102–486, title XXX, § 3011][/us/pl/102/486/s3011], Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128].)
+([Pub. L. 95–620, title IV][/us/pl/95/620/tIV], § 403, Nov. 9, 1978, [92 Stat. 3317][/us/stat/92/3317]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(14), May 21, 1987, [101 Stat. 313][/us/stat/101/313]; [Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3011, Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128].)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
     1992—Subsec. (c). [Pub. L. 102–486][/us/pl/102/486] struck out subsec. (c), which read as follows: “The President shall annually submit a detailed report to each House of the Congress on the actions taken by the President and each Federal agency to implement this section, including the progress and problems associated with implementation of this section.”
 
-    1987—Subsec. (a)(1). [Pub. L. 100–42, § 1(c)(14)(A)][/us/pl/100/42/s1/c/14/A], struck out “, major fuel-burning installation, or other unit” after “electric powerplant” and “, installation, or unit” after “such powerplant”.
+    1987—Subsec. (a)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(14)(A), struck out “, major fuel-burning installation, or other unit” after “electric powerplant” and “, installation, or unit” after “such powerplant”.
 
-    Subsec. (a)(2). [Pub. L. 100–42, § 1(c)(14)(B)][/us/pl/100/42/s1/c/14/B], (C), struck out “, installation, or other unit” after “powerplant” in introductory provisions, “, installation, or unit” after “powerplant” in subpar. (A), and last sentence which read as follows: “Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary.”
+    Subsec. (a)(2). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(14)(B), (C), struck out “, installation, or other unit” after “powerplant” in introductory provisions, “, installation, or unit” after “powerplant” in subpar. (A), and last sentence which read as follows: “Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary.”
 
-    Subsec. (a)(3). [Pub. L. 100–42, § 1(c)(14)(D)][/us/pl/100/42/s1/c/14/D], struck out par. (3) which read as follows: “Any powerplant, installation, or unit owned or operated by any such Federal agency shall be entitled to any exemption by the Secretary to the same extent, in the same manner, and under the same terms and conditions as would apply if it were owned or operated by a nongovernmental person.”
+    Subsec. (a)(3). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(14)(D), struck out par. (3) which read as follows: “Any powerplant, installation, or unit owned or operated by any such Federal agency shall be entitled to any exemption by the Secretary to the same extent, in the same manner, and under the same terms and conditions as would apply if it were owned or operated by a nongovernmental person.”
 
  __Termination of Reporting Requirements__ 
 
@@ -115,16 +115,16 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_ch92_schIV.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
+[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8371 _us_usc_t42_s8372.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
 
 ----------
 ----------
 
-[/us/pl/95/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs403
+[/us/pl/95/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtIV
 [/us/stat/92/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3317
-[/us/pl/100/42/s1/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F14
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
-[/us/pl/102/486/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3011
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3128
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289
@@ -133,9 +133,9 @@
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/100/42/s1/c/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F14%2FA
-[/us/pl/100/42/s1/c/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F14%2FB
-[/us/pl/100/42/s1/c/14/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F14%2FD
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -17,7 +17,7 @@
 
     If the Secretary determines that the utilization of a clean coal technology is not practicable for a proposed project and that a United States conventional coal technology would constitute a substantial improvement in efficiency, costs, and environmental performance relative to the technology being used in a developing country or country making the transition from nonmarket to market economies, with significant indigenous coal resources, such technology shall, for purposes of sections 13361 and 13362  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, be considered a clean coal technology. In the case of combustion technologies, only the retrofit, repowering, or replacement of a conventional technology shall constitute a substantial improvement for purposes of this section. In carrying out this section, the Secretary shall give highest priority to promoting the most environmentally sound and energy efficient technologies.
 
-([Pub. L. 102–486, title XIII, § 1333][/us/pl/102/486/s1333], Oct. 24, 1992, [106 Stat. 2984][/us/stat/106/2984].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1333, Oct. 24, 1992, [106 Stat. 2984][/us/stat/106/2984].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1333
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2984
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

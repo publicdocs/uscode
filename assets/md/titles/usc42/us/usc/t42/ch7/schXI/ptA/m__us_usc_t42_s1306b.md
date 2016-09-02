@@ -17,7 +17,7 @@
 
     Whenever the Commissioner of Social Security requests information from a State for the purpose of ascertaining an individual’s eligibility for benefits (or the correct amount of such benefits) under subchapter II or XVI of this chapter, the standards of the Commissioner promulgated pursuant to [section 1306 of this title][/us/usc/t42/s1306] or any other Federal law for the use, safeguarding, and disclosure of information are deemed to meet any standards of the State that would otherwise apply to the disclosure of information by the State to the Commissioner.
 
-([Pub. L. 106–169, title II, § 209][/us/pl/106/169/s209], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842].)
+([Pub. L. 106–169, title II][/us/pl/106/169/tII], § 209, Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1306
-[/us/pl/106/169/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs209
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1842
 
 

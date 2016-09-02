@@ -39,7 +39,7 @@
 
         (2) Programs designed to be completed in less than six months.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3016, as added [Pub. L. 111–5, div. A, title XIII, § 13301][/us/pl/111/5/s13301], Feb. 17, 2009, [123 Stat. 257][/us/stat/123/257].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3016, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13301, Feb. 17, 2009, [123 Stat. 257][/us/stat/123/257].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13301
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F257
 
 

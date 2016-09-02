@@ -39,7 +39,7 @@
 
         [Section 7234 of this title][/us/usc/t42/s7234] shall be applicable to the Committee, except as inconsistent with this section.
 
-([Pub. L. 95–590, § 9][/us/pl/95/590/s9], Nov. 4, 1978, [92 Stat. 2518][/us/stat/92/2518].)
+([Pub. L. 95–590][/us/pl/95/590], § 9, Nov. 4, 1978, [92 Stat. 2518][/us/stat/92/2518].)
 
  __Termination of Advisory Committees__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s7234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7234
 [/us/usc/t42/s7234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7234
-[/us/pl/95/590/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs9
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2518
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

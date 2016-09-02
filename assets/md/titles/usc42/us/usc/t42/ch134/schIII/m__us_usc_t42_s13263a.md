@@ -49,7 +49,7 @@
 
         (2) may impose on the State or covered person a penalty under [section 13262 of this title][/us/usc/t42/s13262].
 
-([Pub. L. 102–486, title V, § 514][/us/pl/102/486/s514], as added [Pub. L. 109–58, title VII, § 703(a)(2)][/us/pl/109/58/s703/a/2], Aug. 8, 2005, [119 Stat. 815][/us/stat/119/815].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 514, as added [Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 703(a)(2), Aug. 8, 2005, [119 Stat. 815][/us/stat/119/815].)
 
  __References in Text__ 
 
@@ -71,8 +71,8 @@
 [/us/usc/t42/s13258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13258
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s13262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13262
-[/us/pl/102/486/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs514
-[/us/pl/109/58/s703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs703%2Fa%2F2
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F815
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

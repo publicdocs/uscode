@@ -383,7 +383,7 @@
 
             (B) if the Secretary determines, based on a finding of the Secretary or other information available to the Secretary, that a public housing agency is not complying with the applicable public housing agency plan, take such actions as the Secretary determines to be appropriate to ensure such compliance.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 5A, as added [Pub. L. 105–276, title V, § 511(a)][/us/pl/105/276/s511/a], Oct. 21, 1998, [112 Stat. 2531][/us/stat/112/2531]; amended [Pub. L. 109–162, title VI, § 603][/us/pl/109/162/s603], Jan. 5, 2006, [119 Stat. 3040][/us/stat/119/3040]; [Pub. L. 110–289, div. B, title VII, § 2702][/us/pl/110/289/s2702], July 30, 2008, [122 Stat. 2863][/us/stat/122/2863].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 5A, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 511(a), Oct. 21, 1998, [112 Stat. 2531][/us/stat/112/2531]; amended [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 603, Jan. 5, 2006, [119 Stat. 3040][/us/stat/119/3040]; [Pub. L. 110–289, div. B, title VII][/us/pl/110/289/dB/tVII], § 2702, July 30, 2008, [122 Stat. 2863][/us/stat/122/2863].)
 
  __References in Text__ 
 
@@ -397,29 +397,29 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3). [Pub. L. 110–289, § 2702(a)][/us/pl/110/289/s2702/a], added par. (3).
+    2008—Subsec. (b)(3). [Pub. L. 110–289][/us/pl/110/289], § 2702(a), added par. (3).
 
-    Subsec. (e)(4). [Pub. L. 110–289, § 2702(b)(1)][/us/pl/110/289/s2702/b/1], added par. (4).
+    Subsec. (e)(4). [Pub. L. 110–289][/us/pl/110/289], § 2702(b)(1), added par. (4).
 
-    Subsec. (f). [Pub. L. 110–289, § 2702(b)(1)][/us/pl/110/289/s2702/b/1], inserted subsec. designation and heading.
+    Subsec. (f). [Pub. L. 110–289][/us/pl/110/289], § 2702(b)(1), inserted subsec. designation and heading.
 
-    Subsec. (f)(5). [Pub. L. 110–289, § 2702(b)(2)][/us/pl/110/289/s2702/b/2], added par. (5).
+    Subsec. (f)(5). [Pub. L. 110–289][/us/pl/110/289], § 2702(b)(2), added par. (5).
 
-    2006—Subsec. (a)(1). [Pub. L. 109–162, § 603(1)(A)][/us/pl/109/162/s603/1/A], substituted “paragraph (3)” for “paragraph (2)”.
+    2006—Subsec. (a)(1). [Pub. L. 109–162][/us/pl/109/162], § 603(1)(A), substituted “paragraph (3)” for “paragraph (2)”.
 
-    Subsec. (a)(2), (3). [Pub. L. 109–162, § 603(1)(B)][/us/pl/109/162/s603/1/B], (C), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 109–162][/us/pl/109/162], § 603(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (d)(13) to (19). [Pub. L. 109–162, § 603(2)][/us/pl/109/162/s603/2], (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
+    Subsec. (d)(13) to (19). [Pub. L. 109–162][/us/pl/109/162], § 603(2), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
  __Effective Date__ 
 
-[Pub. L. 105–276, title V, § 511(e)][/us/pl/105/276/s511/e], Oct. 21, 1998, [112 Stat. 2539][/us/stat/112/2539], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 511(e), Oct. 21, 1998, [112 Stat. 2539][/us/stat/112/2539], provided that: 
 
 > “This section \[enacting this section, amending [section 1437d of this title][/us/usc/t42/s1437d], and enacting provisions set out as notes under this section\] shall take effect, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
  __Regulations__ 
 
-[Pub. L. 105–276, title V, § 511(b)][/us/pl/105/276/s511/b], Oct. 21, 1998, [112 Stat. 2538][/us/stat/112/2538], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 511(b), Oct. 21, 1998, [112 Stat. 2538][/us/stat/112/2538], provided that:
 
 >     “(1)  __Interim rule__  __.—__ 
 
@@ -449,7 +449,7 @@
 
  __Audit and Review; Report__ 
 
-[Pub. L. 105–276, title V, § 511(c)][/us/pl/105/276/s511/c], Oct. 21, 1998, [112 Stat. 2538][/us/stat/112/2538], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 511(c), Oct. 21, 1998, [112 Stat. 2538][/us/stat/112/2538], provided that:
 
 >     “(1)  __Audit and review__  __.—__ 
 
@@ -500,11 +500,11 @@
 [/us/usc/t42/s1437d/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj%2F2
 [/us/usc/t42/s1437d/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj%2F2
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs511%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2531
-[/us/pl/109/162/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs603
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3040
-[/us/pl/110/289/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2702
+[/us/pl/110/289/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVII
 [/us/stat/122/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2863
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
@@ -518,22 +518,22 @@
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/110/289/s2702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2702%2Fa
-[/us/pl/110/289/s2702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2702%2Fb%2F1
-[/us/pl/110/289/s2702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2702%2Fb%2F1
-[/us/pl/110/289/s2702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2702%2Fb%2F2
-[/us/pl/109/162/s603/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs603%2F1%2FA
-[/us/pl/109/162/s603/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs603%2F1%2FB
-[/us/pl/109/162/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs603%2F2
-[/us/pl/105/276/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs511%2Fe
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2539
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
-[/us/pl/105/276/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs511%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2538
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
-[/us/pl/105/276/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs511%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2538
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931

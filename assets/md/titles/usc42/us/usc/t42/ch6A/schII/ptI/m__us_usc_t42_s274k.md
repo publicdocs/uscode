@@ -337,7 +337,7 @@
 
         Any person who discloses the content of any record referred to in subsection (d)(4)(D) or (f)(5)(A) of this section without the prior written consent of the donor or potential donor with respect to whom the record is maintained, or in violation of the standards described in subsection (f)(5)(B) of this section, shall be imprisoned for not more than 2 years or fined in accordance with title 18, or both.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 379, as added [Pub. L. 101–616, title I, § 101(a)(2)][/us/pl/101/616/s101/a/2], Nov. 16, 1990, [104 Stat. 3279][/us/stat/104/3279]; amended [Pub. L. 105–196, § 2(a)][/us/pl/105/196/s2/a], (b)(1), (c)–(g), July 16, 1998, [112 Stat. 631–635][/us/stat/112/631-635]; [Pub. L. 109–129, § 3(a)][/us/pl/109/129/s3/a], Dec. 20, 2005, [119 Stat. 2553][/us/stat/119/2553]; [Pub. L. 111–264, § 2(b)][/us/pl/111/264/s2/b], Oct. 8, 2010, [124 Stat. 2791][/us/stat/124/2791]; [Pub. L. 114–104, § 2(a)][/us/pl/114/104/s2/a], Dec. 18, 2015, [129 Stat. 2216][/us/stat/129/2216].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 379, as added [Pub. L. 101–616, title I][/us/pl/101/616/tI], § 101(a)(2), Nov. 16, 1990, [104 Stat. 3279][/us/stat/104/3279]; amended [Pub. L. 105–196][/us/pl/105/196], § 2(a), (b)(1), (c)–(g), July 16, 1998, [112 Stat. 631–635][/us/stat/112/631-635]; [Pub. L. 109–129][/us/pl/109/129], § 3(a), Dec. 20, 2005, [119 Stat. 2553][/us/stat/119/2553]; [Pub. L. 111–264][/us/pl/111/264], § 2(b), Oct. 8, 2010, [124 Stat. 2791][/us/stat/124/2791]; [Pub. L. 114–104][/us/pl/114/104], § 2(a), Dec. 18, 2015, [129 Stat. 2216][/us/stat/129/2216].)
 
  __References in Text__ 
 
@@ -347,23 +347,23 @@
 
     2015—Subsec. (d)(2)(B). [Pub. L. 114–104][/us/pl/114/104] substituted “collection of high quality cord blood units, including remote collection,” for “remote collection of high quality cord blood units,”.
 
-    2010—Subsec. (a)(6). [Pub. L. 111–264, § 2(b)(1)][/us/pl/111/264/s2/b/1], added par. (6) and struck out former par. (6) which read as follows: “The Secretary, acting through the Advisory Council, shall submit to the Congress—
+    2010—Subsec. (a)(6). [Pub. L. 111–264][/us/pl/111/264], § 2(b)(1), added par. (6) and struck out former par. (6) which read as follows: “The Secretary, acting through the Advisory Council, shall submit to the Congress—
 
     “(A) an annual report on the activities carried out under this section; and
 
     “(B) not later than 6 months after December 20, 2005, a report of recommendations on the scientific factors necessary to define a cord blood unit as a high-quality unit.”
 
-    Subsec. (d)(2). [Pub. L. 111–264, § 2(b)(2)(A)][/us/pl/111/264/s2/b/2/A], designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (H) as cls. (i) to (viii), respectively, of subpar. (A), added cl. (iv) and struck out former cl. (iv) which related to studies and demonstration and outreach projects for the purpose of increasing cord blood donation, and added subpars. (B) and (C).
+    Subsec. (d)(2). [Pub. L. 111–264][/us/pl/111/264], § 2(b)(2)(A), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (H) as cls. (i) to (viii), respectively, of subpar. (A), added cl. (iv) and struck out former cl. (iv) which related to studies and demonstration and outreach projects for the purpose of increasing cord blood donation, and added subpars. (B) and (C).
 
-    Subsec. (d)(3)(A). [Pub. L. 111–264, § 2(b)(2)(B)][/us/pl/111/264/s2/b/2/B], substituted “(2)(A)(i)” for “(2)(A)”.
+    Subsec. (d)(3)(A). [Pub. L. 111–264][/us/pl/111/264], § 2(b)(2)(B), substituted “(2)(A)(i)” for “(2)(A)”.
 
-    Subsec. (f)(5)(A). [Pub. L. 111–264, § 2(b)(3)][/us/pl/111/264/s2/b/3], added subpar. (A) and struck out former subpar. (A) which read as follows: “require the establishment of a system of strict confidentiality of records relating to the identity, address, HLA type, and managing marrow donor center for marrow donors and potential marrow donors; and”.
+    Subsec. (f)(5)(A). [Pub. L. 111–264][/us/pl/111/264], § 2(b)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “require the establishment of a system of strict confidentiality of records relating to the identity, address, HLA type, and managing marrow donor center for marrow donors and potential marrow donors; and”.
 
     2005—[Pub. L. 109–129][/us/pl/109/129] amended section generally, substituting provisions relating to the C.W. Bill Young Cell Transplantation Program for provisions relating to the National Bone Marrow Donor Registry.
 
-    1998—Subsec. (a). [Pub. L. 105–196, § 2(a)][/us/pl/105/196/s2/a], substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public.”
+    1998—Subsec. (a). [Pub. L. 105–196][/us/pl/105/196], § 2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public.”
 
-    Subsec. (b)(2) to (8). [Pub. L. 105–196, § 2(b)(1)][/us/pl/105/196/s2/b/1], added pars. (2) to (7), redesignated former par. (7) as (8), and struck out former pars. (2) to (6) which read as follows:
+    Subsec. (b)(2) to (8). [Pub. L. 105–196][/us/pl/105/196], § 2(b)(1), added pars. (2) to (7), redesignated former par. (7) as (8), and struck out former pars. (2) to (6) which read as follows:
 
     “(2) establish a system for patient advocacy, separate from mechanisms for donor advocacy, that directly assists patients, their families, and their physicians in the search for an unrelated marrow donor;
 
@@ -375,11 +375,11 @@
 
     “(6) collect, analyze, and publish data concerning bone marrow donation and transplantation; and”.
 
-    Subsecs. (c), (d). [Pub. L. 105–196, § 2(c)][/us/pl/105/196/s2/c], (d), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+    Subsecs. (c), (d). [Pub. L. 105–196][/us/pl/105/196], § 2(c), (d), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-    Subsec. (e). [Pub. L. 105–196, § 2(c)][/us/pl/105/196/s2/c], redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+    Subsec. (e). [Pub. L. 105–196][/us/pl/105/196], § 2(c), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-    Subsec. (e)(4). [Pub. L. 105–196, § 2(e)][/us/pl/105/196/s2/e], added par. (4) and struck out former par. (4) which read as follows: “standards that require the provision of information to patients, their families, and their physicians at the start of the search process concerning—
+    Subsec. (e)(4). [Pub. L. 105–196][/us/pl/105/196], § 2(e), added par. (4) and struck out former par. (4) which read as follows: “standards that require the provision of information to patients, their families, and their physicians at the start of the search process concerning—
 
     “(A) the resources available through the Registry;
 
@@ -391,25 +391,25 @@
 
     “(ii) the success rates of individual marrow transplant centers;”.
 
-    Subsec. (f). [Pub. L. 105–196, § 2(c)][/us/pl/105/196/s2/c], (g)(1), redesignated subsec. (d) as (f) and substituted “subsection (e)” for “subsection (c)”. Former subsec. (f) redesignated (h).
+    Subsec. (f). [Pub. L. 105–196][/us/pl/105/196], § 2(c), (g)(1), redesignated subsec. (d) as (f) and substituted “subsection (e)” for “subsection (c)”. Former subsec. (f) redesignated (h).
 
-    Subsecs. (g) to (i). [Pub. L. 105–196, § 2(c)][/us/pl/105/196/s2/c], redesignated subsecs. (e) to (g) as (g) to (i), respectively. Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
+    Subsecs. (g) to (i). [Pub. L. 105–196][/us/pl/105/196], § 2(c), redesignated subsecs. (e) to (g) as (g) to (i), respectively. Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
 
-    Subsec. (j). [Pub. L. 105–196, § 2(c)][/us/pl/105/196/s2/c], redesignated subsec. (h) as (j) and struck out heading and text of former subsec. (j). Text read as follows: “There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1991 and such sums as may be necessary for each of fiscal years 1992 and 1993.”
+    Subsec. (j). [Pub. L. 105–196][/us/pl/105/196], § 2(c), redesignated subsec. (h) as (j) and struck out heading and text of former subsec. (j). Text read as follows: “There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1991 and such sums as may be necessary for each of fiscal years 1992 and 1993.”
 
-    Subsec. (k). [Pub. L. 105–196, § 2(c)][/us/pl/105/196/s2/c], (g)(2), redesignated subsec. (i) as (k) and substituted “subsection (e)(5)(A)” for “subsection (c)(5)(A)” and “subsection (e)(5)(B)” for “subsection (c)(5)(B)”.
+    Subsec. (k). [Pub. L. 105–196][/us/pl/105/196], § 2(c), (g)(2), redesignated subsec. (i) as (k) and substituted “subsection (e)(5)(A)” for “subsection (c)(5)(A)” and “subsection (e)(5)(B)” for “subsection (c)(5)(B)”.
 
-    Subsec. (l). [Pub. L. 105–196, § 2(f)][/us/pl/105/196/s2/f], added subsec. (l).
+    Subsec. (l). [Pub. L. 105–196][/us/pl/105/196], § 2(f), added subsec. (l).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–196, § 7][/us/pl/105/196/s7], July 16, 1998, [112 Stat. 637][/us/stat/112/637], provided that: 
+[Pub. L. 105–196][/us/pl/105/196], § 7, July 16, 1998, [112 Stat. 637][/us/stat/112/637], provided that: 
 
 > “This Act \[see Short Title of 1998 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] takes effect October 1, 1998, or upon the date of the enactment of this Act \[July 16, 1998\], whichever occurs later.”
 
  __Savings Provision__ 
 
-[Pub. L. 101–616, title I, § 102][/us/pl/101/616/s102], Nov. 16, 1990, [104 Stat. 3282][/us/stat/104/3282], provided that:
+[Pub. L. 101–616, title I][/us/pl/101/616/tI], § 102, Nov. 16, 1990, [104 Stat. 3282][/us/stat/104/3282], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -425,7 +425,7 @@
 
  __Cord Blood Inventory__ 
 
-[Pub. L. 109–129, § 2][/us/pl/109/129/s2], Dec. 20, 2005, [119 Stat. 2550][/us/stat/119/2550], as amended by [Pub. L. 111–264, § 2(a)][/us/pl/111/264/s2/a], Oct. 8, 2010, [124 Stat. 2789][/us/stat/124/2789]; [Pub. L. 114–104, § 3][/us/pl/114/104/s3], Dec. 18, 2015, [129 Stat. 2217][/us/stat/129/2217], provided that:
+[Pub. L. 109–129][/us/pl/109/129], § 2, Dec. 20, 2005, [119 Stat. 2550][/us/stat/119/2550], as amended by [Pub. L. 111–264][/us/pl/111/264], § 2(a), Oct. 8, 2010, [124 Stat. 2789][/us/stat/124/2789]; [Pub. L. 114–104][/us/pl/114/104], § 3, Dec. 18, 2015, [129 Stat. 2217][/us/stat/129/2217], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -521,15 +521,15 @@
 
  __Report of Inspector General; Plan Regarding Relationship Between Registry and Donor Centers__ 
 
-    [Pub. L. 105–196, § 2(b)(2)][/us/pl/105/196/s2/b/2], July 16, 1998, [112 Stat. 632][/us/stat/112/632], directed the Secretary of Health and Human Services to ensure that, not later than 1 year after July 16, 1998, the National Bone Marrow Donor Registry (under this section) developed, evaluated, and implemented a plan to effectuate efficiencies in the relationship between such Registry and donor centers.
+    [Pub. L. 105–196][/us/pl/105/196], § 2(b)(2), July 16, 1998, [112 Stat. 632][/us/stat/112/632], directed the Secretary of Health and Human Services to ensure that, not later than 1 year after July 16, 1998, the National Bone Marrow Donor Registry (under this section) developed, evaluated, and implemented a plan to effectuate efficiencies in the relationship between such Registry and donor centers.
 
  __Study by GAO__ 
 
-    [Pub. L. 105–196, § 5][/us/pl/105/196/s5], July 16, 1998, [112 Stat. 636][/us/stat/112/636], provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in [section 2(b)(2) of Pub. L. 105–196][/us/pl/105/196/s2/b/2] ([42 U.S.C. 274k][/us/usc/t42/s274k] note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+    [Pub. L. 105–196][/us/pl/105/196], § 5, July 16, 1998, [112 Stat. 636][/us/stat/112/636], provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in [section 2(b)(2) of Pub. L. 105–196][/us/pl/105/196/s2/b/2] ([42 U.S.C. 274k][/us/usc/t42/s274k] note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
  __Compliance With New Requirements for Office of Patient Advocacy__ 
 
-    [Pub. L. 105–196, § 6][/us/pl/105/196/s6], July 16, 1998, [112 Stat. 636][/us/stat/112/636], provided that with respect to requirements for the office of patient advocacy under subsec. (d) of this section, the Secretary of Health and Human Services was to ensure that, not later than 180 days after Oct. 1, 1998, such office was in compliance with all requirements that were additional to the requirements under this section in effect with respect to patient advocacy on the day before July 16, 1998.
+    [Pub. L. 105–196][/us/pl/105/196], § 6, July 16, 1998, [112 Stat. 636][/us/stat/112/636], provided that with respect to requirements for the office of patient advocacy under subsec. (d) of this section, the Secretary of Health and Human Services was to ensure that, not later than 180 days after Oct. 1, 1998, such office was in compliance with all requirements that were additional to the requirements under this section in effect with respect to patient advocacy on the day before July 16, 1998.
 
 ----------
 
@@ -539,46 +539,46 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/616/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs101%2Fa%2F2
+[/us/pl/101/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtI
 [/us/stat/104/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3279
-[/us/pl/105/196/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fa
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
 [/us/stat/112/631-635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F631-635
-[/us/pl/109/129/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129%2Fs3%2Fa
+[/us/pl/109/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129
 [/us/stat/119/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2553
-[/us/pl/111/264/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264%2Fs2%2Fb
+[/us/pl/111/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264
 [/us/stat/124/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2791
-[/us/pl/114/104/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104%2Fs2%2Fa
+[/us/pl/114/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104
 [/us/stat/129/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2216
 [/us/pl/109/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129%2Fs2
 [/us/stat/119/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2550
 [/us/pl/114/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104
-[/us/pl/111/264/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264%2Fs2%2Fb%2F1
-[/us/pl/111/264/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264%2Fs2%2Fb%2F2%2FA
-[/us/pl/111/264/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264%2Fs2%2Fb%2F2%2FB
-[/us/pl/111/264/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264%2Fs2%2Fb%2F3
+[/us/pl/111/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264
+[/us/pl/111/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264
+[/us/pl/111/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264
+[/us/pl/111/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264
 [/us/pl/109/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129
-[/us/pl/105/196/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fa
-[/us/pl/105/196/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fb%2F1
-[/us/pl/105/196/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fc
-[/us/pl/105/196/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fc
-[/us/pl/105/196/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fe
-[/us/pl/105/196/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fc
-[/us/pl/105/196/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fc
-[/us/pl/105/196/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fc
-[/us/pl/105/196/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fc
-[/us/pl/105/196/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Ff
-[/us/pl/105/196/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs7
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
 [/us/stat/112/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F637
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/101/616/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs102
+[/us/pl/101/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtI
 [/us/stat/104/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3282
 [/us/usc/t42/s274a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274a
 [/us/usc/t42/s274a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274a%2Fb
-[/us/pl/109/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129%2Fs2
+[/us/pl/109/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129
 [/us/stat/119/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2550
-[/us/pl/111/264/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264%2Fs2%2Fa
+[/us/pl/111/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F264
 [/us/stat/124/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2789
-[/us/pl/114/104/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104%2Fs3
+[/us/pl/114/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104
 [/us/stat/129/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2217
 [/us/usc/t42/s274k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k%2Fc
 [/us/usc/t42/s274k/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k%2Fd%2F3
@@ -586,13 +586,13 @@
 [/us/usc/t42/s274k/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k%2Fd%2F4
 [/us/usc/t42/s274k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k
 [/us/usc/t42/s274k/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k%2Fd%2F4
-[/us/pl/105/196/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fb%2F2
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
 [/us/stat/112/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F632
-[/us/pl/105/196/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs5
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
 [/us/stat/112/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F636
 [/us/pl/105/196/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs2%2Fb%2F2
 [/us/usc/t42/s274k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k
-[/us/pl/105/196/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs6
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
 [/us/stat/112/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F636
 
 

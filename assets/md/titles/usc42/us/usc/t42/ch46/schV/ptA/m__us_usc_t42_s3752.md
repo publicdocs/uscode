@@ -43,7 +43,7 @@
 
         (D) the applicant will comply with all provisions of this part and all other applicable Federal laws.
 
-([Pub. L. 90–351, title I, § 502][/us/pl/90/351/s502], as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)][/us/pl/109/162/s1111/a/2/C], Jan. 5, 2006, [119 Stat. 3096][/us/stat/119/3096]; amended [Pub. L. 109–271, § 8(i)][/us/pl/109/271/s8/i], Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 502, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(a)(2)(C), Jan. 5, 2006, [119 Stat. 3096][/us/stat/119/3096]; amended [Pub. L. 109–271][/us/pl/109/271], § 8(i), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
 
  __Prior Provisions__ 
 
@@ -64,10 +64,10 @@
 ----------
 ----------
 
-[/us/pl/90/351/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs502
-[/us/pl/109/162/s1111/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fa%2F2%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3096
-[/us/pl/109/271/s8/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fi
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F767
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

@@ -35,7 +35,7 @@
 
     (b) Each State plan submitted under this section shall be reviewed and approved or disapproved by the Secretary not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section, the Secretary shall approve the plan. If a State plan submitted within the 90 day period specified in subsection (a) of this section has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
 
-([Pub. L. 94–163, title III, § 400D][/us/pl/94/163/s400D], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3251][/us/stat/92/3251]; amended [Pub. L. 105–388, § 5(a)(12)][/us/pl/105/388/s5/a/12], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400D, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3251][/us/stat/92/3251]; amended [Pub. L. 105–388][/us/pl/105/388], § 5(a)(12), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
 
  __Amendments__ 
 
@@ -54,10 +54,10 @@
 
 [/us/usc/t42/s6372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372a
 [/us/usc/t42/s6372a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372a%2Fa%2F1
-[/us/pl/94/163/s400D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400D
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3251
-[/us/pl/105/388/s5/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F12
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388

@@ -227,7 +227,7 @@
 
             The total of the amount paid to such individual or such individual’s alternative representative payee under paragraph (1) and the amount paid under subsection (i) of this section may not exceed the total benefit amount misused by the representative payee with respect to such individual.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 807, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1846][/us/stat/113/1846]; amended [Pub. L. 108–203, title I][/us/pl/108/203], §§ 101(b), 102(b)(2), 103(b), 105(b), 106(b), Mar. 2, 2004, [118 Stat. 495][/us/stat/118/495], 499, 501, 504, 506.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 807, as added [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(a), Dec. 14, 1999, [113 Stat. 1846][/us/stat/113/1846]; amended [Pub. L. 108–203, title I][/us/pl/108/203/tI], §§ 101(b), 102(b)(2), 103(b), 105(b), 106(b), Mar. 2, 2004, [118 Stat. 495][/us/stat/118/495], 499, 501, 504, 506.)
 
  __References in Text__ 
 
@@ -239,23 +239,23 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–203, § 101(b)(3)][/us/pl/108/203/s101/b/3], substituted “for his or her use and benefit” for “for his or her benefit”.
+    2004—Subsec. (a). [Pub. L. 108–203][/us/pl/108/203], § 101(b)(3), substituted “for his or her use and benefit” for “for his or her benefit”.
 
-    Subsec. (b)(2)(D) to (F). [Pub. L. 108–203, § 103(b)(1)][/us/pl/108/203/s103/b/1], added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+    Subsec. (b)(2)(D) to (F). [Pub. L. 108–203][/us/pl/108/203], § 103(b)(1), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
-    Subsec. (b)(3). [Pub. L. 108–203, § 103(b)(2)][/us/pl/108/203/s103/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 108–203][/us/pl/108/203], § 103(b)(2), added par. (3).
 
-    Subsec. (d)(1)(D), (E). [Pub. L. 108–203, § 103(b)(3)][/us/pl/108/203/s103/b/3], added subpars. (D) and (E).
+    Subsec. (d)(1)(D), (E). [Pub. L. 108–203][/us/pl/108/203], § 103(b)(3), added subpars. (D) and (E).
 
-    Subsec. (h)(3) to (5). [Pub. L. 108–203, § 106(b)][/us/pl/108/203/s106/b], added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (h)(3) to (5). [Pub. L. 108–203][/us/pl/108/203], § 106(b), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-    Subsec. (i). [Pub. L. 108–203, § 101(b)(1)][/us/pl/108/203/s101/b/1], inserted second and third sentences.
+    Subsec. (i). [Pub. L. 108–203][/us/pl/108/203], § 101(b)(1), inserted second and third sentences.
 
-    Subsec. (j). [Pub. L. 108–203, § 101(b)(2)][/us/pl/108/203/s101/b/2], added subsec. (j).
+    Subsec. (j). [Pub. L. 108–203][/us/pl/108/203], § 101(b)(2), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 108–203, § 102(b)(2)][/us/pl/108/203/s102/b/2], added subsec. (k).
+    Subsec. (k). [Pub. L. 108–203][/us/pl/108/203], § 102(b)(2), added subsec. (k).
 
-    Subsec. (l). [Pub. L. 108–203, § 105(b)][/us/pl/108/203/s105/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 108–203][/us/pl/108/203], § 105(b), added subsec. (l).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -294,20 +294,20 @@
 [/us/usc/t42/s405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fj
 [/us/usc/t42/s1383/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/169/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1846
-[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtI
 [/us/stat/118/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F495
 [/us/usc/t42/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1001
-[/us/pl/108/203/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs101%2Fb%2F3
-[/us/pl/108/203/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs103%2Fb%2F1
-[/us/pl/108/203/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs103%2Fb%2F2
-[/us/pl/108/203/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs103%2Fb%2F3
-[/us/pl/108/203/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs106%2Fb
-[/us/pl/108/203/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs101%2Fb%2F1
-[/us/pl/108/203/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs101%2Fb%2F2
-[/us/pl/108/203/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs102%2Fb%2F2
-[/us/pl/108/203/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs105%2Fb
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/108/203/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs101%2Fb
 [/us/pl/108/203/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs101%2Fd
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405

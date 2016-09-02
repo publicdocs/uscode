@@ -63,7 +63,7 @@
 
         For purposes of this section, the term “new drug” has the meaning given such term in [section 321 of title 21][/us/usc/t21/s321].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2312, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3066][/us/stat/102/3066]; amended [Pub. L. 103–43, title XX, § 2008(d)(2)][/us/pl/103/43/s2008/d/2], June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2312, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3066][/us/stat/102/3066]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(d)(2), June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
 
  __Prior Provisions__ 
 
@@ -85,9 +85,9 @@
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3066
-[/us/pl/103/43/s2008/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fd%2F2
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F212
 [/us/usc/t42/s238j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238j
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43

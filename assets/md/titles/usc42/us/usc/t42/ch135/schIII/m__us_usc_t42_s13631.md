@@ -75,7 +75,7 @@
 
             (C) disseminates the information provided by appropriate means, and in determining such appropriate means, the Secretary shall consider on-site presentations at federally assisted housing, public service announcements, a printed manual or pamphlet, an Internet website, and telephone outreach to residents whose names appear on “mooch lists” confiscated from fraudulent telemarketers.
 
-([Pub. L. 102–550, title VI, § 671][/us/pl/102/550/s671], Oct. 28, 1992, [106 Stat. 3826][/us/stat/106/3826]; [Pub. L. 106–569, title VIII, § 851(b)][/us/pl/106/569/s851/b], (c)(2), Dec. 27, 2000, [114 Stat. 3024][/us/stat/114/3024].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 671, Oct. 28, 1992, [106 Stat. 3826][/us/stat/106/3826]; [Pub. L. 106–569, title VIII][/us/pl/106/569/tVIII], § 851(b), (c)(2), Dec. 27, 2000, [114 Stat. 3024][/us/stat/114/3024].)
 
  __References in Text__ 
 
@@ -83,15 +83,15 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–569, § 851(b)(1)][/us/pl/106/569/s851/b/1], in first sentence, substituted “for providing service coordinators under this section,” for “to carry out this subtitle pursuant to the amendments made by this subtitle,”.
+    2000—Subsec. (a). [Pub. L. 106–569][/us/pl/106/569], § 851(b)(1), in first sentence, substituted “for providing service coordinators under this section,” for “to carry out this subtitle pursuant to the amendments made by this subtitle,”.
 
-    Subsec. (c). [Pub. L. 106–569, § 851(c)(2)(A)][/us/pl/106/569/s851/c/2/A], in first sentence, inserted “education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section,” after “response,”.
+    Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 851(c)(2)(A), in first sentence, inserted “education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section,” after “response,”.
 
-    Subsec. (d). [Pub. L. 106–569, § 851(b)(2)][/us/pl/106/569/s851/b/2], inserted closing parenthesis after “[section 13641(2) of this title][/us/usc/t42/s13641/2]”.
+    Subsec. (d). [Pub. L. 106–569][/us/pl/106/569], § 851(b)(2), inserted closing parenthesis after “[section 13641(2) of this title][/us/usc/t42/s13641/2]”.
 
-    Subsec. (e). [Pub. L. 106–569, § 851(b)(3)][/us/pl/106/569/s851/b/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–569][/us/pl/106/569], § 851(b)(3), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 106–569, § 851(c)(2)(B)][/us/pl/106/569/s851/c/2/B], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–569][/us/pl/106/569], § 851(c)(2)(B), added subsec. (f).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -107,20 +107,20 @@
 [/us/usc/t42/s8011/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8011%2Fd%2F4
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
-[/us/pl/102/550/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs671
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3826
-[/us/pl/106/569/s851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fb
+[/us/pl/106/569/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVIII
 [/us/stat/114/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3024
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3826
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/106/569/s851/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fb%2F1
-[/us/pl/106/569/s851/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fc%2F2%2FA
-[/us/pl/106/569/s851/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fb%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
-[/us/pl/106/569/s851/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fb%2F3
-[/us/pl/106/569/s851/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fc%2F2%2FB
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/106/569/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs803
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q

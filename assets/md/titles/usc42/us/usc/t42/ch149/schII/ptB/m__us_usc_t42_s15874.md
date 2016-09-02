@@ -37,7 +37,7 @@
 
         The Secretary, acting through the Idaho National Laboratory and subject to the availability of appropriations, will provide financial assistance to Boise State University for expenditure under contracts with members of the consortium to carry out the activities of the consortium.
 
-([Pub. L. 109–58, title II, § 237][/us/pl/109/58/s237], Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 237, Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs237
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F673
 
 

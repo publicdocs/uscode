@@ -19,7 +19,7 @@
 
     (b) Payments under this section may be made in installments, in advance, or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments.
 
-([Pub. L. 93–415, title III, § 383][/us/pl/93/415/s383], formerly § 316, Sept. 7, 1974, [88 Stat. 1132][/us/stat/88/1132]; renumbered § 318, [Pub. L. 98–473, title II, § 655(1)][/us/pl/98/473/s655/1], Oct. 12, 1984, [98 Stat. 2124][/us/stat/98/2124]; renumbered § 362 and amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7271(c)(6), 7273(e)(2), Nov. 18, 1988, [102 Stat. 4454][/us/stat/102/4454], 4455; renumbered § 382, [Pub. L. 102–586, § 3(g)(1)(A)(ii)][/us/pl/102/586/s3/g/1/A/ii], Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; renumbered § 383, [Pub. L. 106–71, § 3(q)][/us/pl/106/71/s3/q], Oct. 12, 1999, [113 Stat. 1042][/us/stat/113/1042].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 383, formerly § 316, Sept. 7, 1974, [88 Stat. 1132][/us/stat/88/1132]; renumbered § 318, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 655(1), Oct. 12, 1984, [98 Stat. 2124][/us/stat/98/2124]; renumbered § 362 and amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7271(c)(6), 7273(e)(2), Nov. 18, 1988, [102 Stat. 4454][/us/stat/102/4454], 4455; renumbered § 382, [Pub. L. 102–586][/us/pl/102/586], § 3(g)(1)(A)(ii), Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; renumbered § 383, [Pub. L. 106–71][/us/pl/106/71], § 3(q), Oct. 12, 1999, [113 Stat. 1042][/us/stat/113/1042].)
 
  __Prior Provisions__ 
 
@@ -27,7 +27,7 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 7271(c)(6)][/us/pl/100/690/s7271/c/6], struck out “acquisition and” before “renovation”.
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(6), struck out “acquisition and” before “renovation”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -40,19 +40,19 @@
 ----------
 ----------
 
-[/us/pl/93/415/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs383
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
 [/us/stat/88/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1132
-[/us/pl/98/473/s655/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs655%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2124
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4454
-[/us/pl/102/586/s3/g/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fg%2F1%2FA%2Fii
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5022
-[/us/pl/106/71/s3/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fq
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1042
 [/us/pl/93/415/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs383
 [/us/usc/t42/s5731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5731
-[/us/pl/100/690/s7271/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F6
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

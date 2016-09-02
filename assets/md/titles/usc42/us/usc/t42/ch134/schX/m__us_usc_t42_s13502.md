@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived from sums authorized under [section 13451(e) of this title][/us/usc/t42/s13451/e], including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section.
 
-([Pub. L. 102–486, title XXII, § 2202][/us/pl/102/486/s2202], Oct. 24, 1992, [106 Stat. 3086][/us/stat/106/3086].)
+([Pub. L. 102–486, title XXII][/us/pl/102/486/tXXII], § 2202, Oct. 24, 1992, [106 Stat. 3086][/us/stat/106/3086].)
 
  __Termination of Reporting Requirements__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s13451/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13451%2Fe
-[/us/pl/102/486/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2202
+[/us/pl/102/486/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXII
 [/us/stat/106/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3086
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

@@ -35,7 +35,7 @@
 
         The Secretary may place limitations on royalty relief granted under this section based on market price.
 
-([Pub. L. 109–58, title III, § 345][/us/pl/109/58/s345], Aug. 8, 2005, [119 Stat. 703][/us/stat/119/703].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 345, Aug. 8, 2005, [119 Stat. 703][/us/stat/119/703].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t43/s1337/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337%2Fa%2F1%2FH
-[/us/pl/109/58/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs345
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F703
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462

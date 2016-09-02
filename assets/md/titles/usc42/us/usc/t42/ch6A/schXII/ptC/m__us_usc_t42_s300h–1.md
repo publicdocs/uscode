@@ -59,13 +59,13 @@
 
         An Indian Tribe may assume primary enforcement responsibility for underground injection control under this section consistent with such regulations as the Administrator has prescribed pursuant to this part and [section 300j–11 of this title][/us/usc/t42/s300j–11]. The area over which such Indian Tribe exercises governmental jurisdiction need not have been listed under subsection (a) of this section, and such Tribe need not submit an application to assume primary enforcement responsibility within the 270-day deadline noted in subsection (b)(1)(A) of this section. Until an Indian Tribe assumes primary enforcement responsibility, the currently applicable underground injection control program shall continue to apply. If an applicable underground injection control program does not exist for an Indian Tribe, the Administrator shall prescribe such a program pursuant to subsection (c) of this section, and consistent with [section 300h(b) of this title][/us/usc/t42/s300h/b], within 270 days after June 19, 1986, unless an Indian Tribe first obtains approval to assume primary enforcement responsibility for underground injection control.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1422, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1676][/us/stat/88/1676]; amended [Pub. L. 95–190, § 6(a)][/us/pl/95/190/s6/a], Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396]; [Pub. L. 99–339, title II, § 201(a)][/us/pl/99/339/s201/a], title III, § 302(c), June 19, 1986, [100 Stat. 653][/us/stat/100/653], 666.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1422, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1676][/us/stat/88/1676]; amended [Pub. L. 95–190][/us/pl/95/190], § 6(a), Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396]; [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 201(a), title III, § 302(c), June 19, 1986, [100 Stat. 653][/us/stat/100/653], 666.)
 
  __Amendments__ 
 
-    1986—Subsec. (c)(1). [Pub. L. 99–339, § 201(a)][/us/pl/99/339/s201/a], inserted “or natural gas storage operations, or” after “production”.
+    1986—Subsec. (c)(1). [Pub. L. 99–339][/us/pl/99/339], § 201(a), inserted “or natural gas storage operations, or” after “production”.
 
-    Subsec. (e). [Pub. L. 99–339, § 302(c)][/us/pl/99/339/s302/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–339][/us/pl/99/339], § 302(c), added subsec. (e).
 
     1977—Subsec. (b)(1)(A). [Pub. L. 95–190][/us/pl/95/190] inserted provisions relating to extension of date for submission of applications by any State.
 
@@ -83,14 +83,14 @@
 [/us/usc/t42/s300j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9311
 [/us/usc/t42/s300h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1676
-[/us/pl/95/190/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs6%2Fa
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1396
-[/us/pl/99/339/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fa
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F653
-[/us/pl/99/339/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fa
-[/us/pl/99/339/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs302%2Fc
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

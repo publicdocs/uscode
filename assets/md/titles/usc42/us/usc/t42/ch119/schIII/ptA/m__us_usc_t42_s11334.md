@@ -31,7 +31,7 @@
 
         The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access to any books, documents, papers, and records of the National Board and recipients for such purpose.
 
-([Pub. L. 100–77, title III, § 304][/us/pl/100/77/s304], July 22, 1987, [101 Stat. 491][/us/stat/101/491].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 304, July 22, 1987, [101 Stat. 491][/us/stat/101/491].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s11335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11335
-[/us/pl/100/77/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs304
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F491
 
 

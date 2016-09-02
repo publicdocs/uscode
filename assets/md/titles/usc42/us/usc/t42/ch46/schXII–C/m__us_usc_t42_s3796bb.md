@@ -31,7 +31,7 @@
 
     (b) For the purpose of this section, the term “rural State” means a State that has a population density of fifty-two or fewer persons per square mile or a State in which the largest county has fewer than one hundred and fifty thousand people, based on the decennial census of 1990 through fiscal year 1997.
 
-([Pub. L. 90–351, title I, § 1501][/us/pl/90/351/s1501], as added [Pub. L. 101–647, title VIII, § 801(a)(3)][/us/pl/101/647/s801/a/3], Nov. 29, 1990, [104 Stat. 4825][/us/stat/104/4825]; amended [Pub. L. 103–322, title XVIII, § 180101(b)][/us/pl/103/322/s180101/b], (c), Sept. 13, 1994, [108 Stat. 2045][/us/stat/108/2045].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1501, as added [Pub. L. 101–647, title VIII][/us/pl/101/647/tVIII], § 801(a)(3), Nov. 29, 1990, [104 Stat. 4825][/us/stat/104/4825]; amended [Pub. L. 103–322, title XVIII][/us/pl/103/322/tXVIII], § 180101(b), (c), Sept. 13, 1994, [108 Stat. 2045][/us/stat/108/2045].)
 
  __Prior Provisions__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2)(A). [Pub. L. 103–322, § 180101(b)][/us/pl/103/322/s180101/b], substituted “$250,000” for “$100,000”.
+    1994—Subsec. (a)(2)(A). [Pub. L. 103–322][/us/pl/103/322], § 180101(b), substituted “$250,000” for “$100,000”.
 
-    Subsec. (b). [Pub. L. 103–322, § 180101(c)][/us/pl/103/322/s180101/c], inserted before period at end “, based on the decennial census of 1990 through fiscal year 1997”.
+    Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 180101(c), inserted before period at end “, based on the decennial census of 1990 through fiscal year 1997”.
 
 ----------
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1501
-[/us/pl/101/647/s801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs801%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtVIII
 [/us/stat/104/4825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4825
-[/us/pl/103/322/s180101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180101%2Fb
+[/us/pl/103/322/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVIII
 [/us/stat/108/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2045
 [/us/pl/90/351/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1501
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
 [/us/pl/90/351/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1501
 [/us/stat/82/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F238
-[/us/pl/103/322/s180101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180101%2Fb
-[/us/pl/103/322/s180101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180101%2Fc
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 
 

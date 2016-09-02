@@ -53,7 +53,7 @@
 
         Nothing in this section applies to any underground storage tank that is located in an area under the jurisdiction of a State, or that is subject to regulation by a State, as of August 8, 2005.
 
-([Pub. L. 89–272, title II, § 9013][/us/pl/89/272/s9013], as added [Pub. L. 109–58, title XV, § 1529(a)][/us/pl/109/58/s1529/a], Aug. 8, 2005, [119 Stat. 1101][/us/stat/119/1101].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9013, as added [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1529(a), Aug. 8, 2005, [119 Stat. 1101][/us/stat/119/1101].)
 
 ----------
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s9013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9013
-[/us/pl/109/58/s1529/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1529%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1101
 
 

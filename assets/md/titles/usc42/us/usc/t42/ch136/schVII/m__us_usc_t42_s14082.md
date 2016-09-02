@@ -33,7 +33,7 @@
 
         (5) $1,000,000 for fiscal year 2000.
 
-([Pub. L. 103–322, title XVIII, § 180103][/us/pl/103/322/s180103], Sept. 13, 1994, [108 Stat. 2046][/us/stat/108/2046].)
+([Pub. L. 103–322, title XVIII][/us/pl/103/322/tXVIII], § 180103, Sept. 13, 1994, [108 Stat. 2046][/us/stat/108/2046].)
 
  __Transfer of Functions__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s180103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180103
+[/us/pl/103/322/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVIII
 [/us/stat/108/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2046
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

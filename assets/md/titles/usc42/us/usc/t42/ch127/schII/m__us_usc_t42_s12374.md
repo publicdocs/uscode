@@ -31,7 +31,7 @@
 
         Members of any committee established under this section (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily rate payable for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332] (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
 
-([Pub. L. 101–501, title IX, § 985][/us/pl/101/501/s985], Nov. 3, 1990, [104 Stat. 1282][/us/stat/104/1282].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 985, Nov. 3, 1990, [104 Stat. 1282][/us/stat/104/1282].)
 
  __Termination of Advisory Committees__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/101/501/s985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs985
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1282
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

@@ -23,7 +23,7 @@
 
         For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2006.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330L, as added [Pub. L. 108–163, § 2(e)(1)][/us/pl/108/163/s2/e/1], Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330L, as added [Pub. L. 108–163][/us/pl/108/163], § 2(e)(1), Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/163/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fe%2F1
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2021
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3

@@ -269,7 +269,7 @@
 
             (C) states the portion of its request for appropriations allocated to each element of the Program.
 
-([Pub. L. 95–124, § 5][/us/pl/95/124/s5], Oct. 7, 1977, [91 Stat. 1099][/us/stat/91/1099]; [Pub. L. 96–472, title I, § 101][/us/pl/96/472/s101], Oct. 19, 1980, [94 Stat. 2257][/us/stat/94/2257]; [Pub. L. 99–105][/us/pl/99/105], §§ 5, 6, Sept. 30, 1985, [99 Stat. 475][/us/stat/99/475]; [Pub. L. 100–252, § 2][/us/pl/100/252/s2], Feb. 29, 1988, [102 Stat. 18][/us/stat/102/18]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 100–707, title I, § 109(u)][/us/pl/100/707/s109/u], Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710]; [Pub. L. 101–614, § 5][/us/pl/101/614/s5], Nov. 16, 1990, [104 Stat. 3232][/us/stat/104/3232]; [Pub. L. 105–47, § 3][/us/pl/105/47/s3], Oct. 1, 1997, [111 Stat. 1162][/us/stat/111/1162]; [Pub. L. 106–503, title II][/us/pl/106/503], §§ 206, 208, Nov. 13, 2000, [114 Stat. 2307][/us/stat/114/2307]; [Pub. L. 108–360, title I, § 103][/us/pl/108/360/s103], Oct. 25, 2004, [118 Stat. 1669][/us/stat/118/1669]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 95–124][/us/pl/95/124], § 5, Oct. 7, 1977, [91 Stat. 1099][/us/stat/91/1099]; [Pub. L. 96–472, title I][/us/pl/96/472/tI], § 101, Oct. 19, 1980, [94 Stat. 2257][/us/stat/94/2257]; [Pub. L. 99–105][/us/pl/99/105], §§ 5, 6, Sept. 30, 1985, [99 Stat. 475][/us/stat/99/475]; [Pub. L. 100–252][/us/pl/100/252], § 2, Feb. 29, 1988, [102 Stat. 18][/us/stat/102/18]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(u), Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710]; [Pub. L. 101–614][/us/pl/101/614], § 5, Nov. 16, 1990, [104 Stat. 3232][/us/stat/104/3232]; [Pub. L. 105–47][/us/pl/105/47], § 3, Oct. 1, 1997, [111 Stat. 1162][/us/stat/111/1162]; [Pub. L. 106–503, title II][/us/pl/106/503/tII], §§ 206, 208, Nov. 13, 2000, [114 Stat. 2307][/us/stat/114/2307]; [Pub. L. 108–360, title I][/us/pl/108/360/tI], § 103, Oct. 25, 2004, [118 Stat. 1669][/us/stat/118/1669]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __References in Text__ 
 
@@ -277,51 +277,51 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–360, § 103(1)][/us/pl/108/360/s103/1], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established a National Earthquake Hazards Reduction Program.”
+    2004—Subsec. (a). [Pub. L. 108–360][/us/pl/108/360], § 103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established a National Earthquake Hazards Reduction Program.”
 
-    Subsec. (b)(1). [Pub. L. 108–360, § 103(2)(A)(i)][/us/pl/108/360/s103/2/A/i], (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
+    Subsec. (b)(1). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
 
-    Subsec. (b)(1)(B). [Pub. L. 108–360, § 103(2)(A)(ii)][/us/pl/108/360/s103/2/A/ii], (iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “prepare, in conjunction with the other Program agencies, a written plan for the Program, which shall include specific tasks and milestones for each Program agency, and which shall be submitted to the Congress and updated at such times as may be required by significant Program events, but in no event less frequently than every 3 years;”.
+    Subsec. (b)(1)(B). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(A)(ii), (iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “prepare, in conjunction with the other Program agencies, a written plan for the Program, which shall include specific tasks and milestones for each Program agency, and which shall be submitted to the Congress and updated at such times as may be required by significant Program events, but in no event less frequently than every 3 years;”.
 
-    Subsec. (b)(1)(C). [Pub. L. 108–360, § 103(2)(A)(ii)][/us/pl/108/360/s103/2/A/ii], redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “prepare, in conjunction with the other Program agencies, a biennial report, to be submitted to the Congress within 90 days after the end of each even-numbered fiscal year, which shall describe the activities and achievements of the Program during the preceding two fiscal years;”.
+    Subsec. (b)(1)(C). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(A)(ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “prepare, in conjunction with the other Program agencies, a biennial report, to be submitted to the Congress within 90 days after the end of each even-numbered fiscal year, which shall describe the activities and achievements of the Program during the preceding two fiscal years;”.
 
-    Subsec. (b)(1)(D), (E). [Pub. L. 108–360, § 103(2)(A)(ii)][/us/pl/108/360/s103/2/A/ii], (v), redesignated subpar. (E) as (D) and substituted “Federal Emergency Management Agency, the National Science Foundation” for “National Science Foundation, the National Institute of Standards and Technology”. Former subpar. (D) redesignated (C).
+    Subsec. (b)(1)(D), (E). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(A)(ii), (v), redesignated subpar. (E) as (D) and substituted “Federal Emergency Management Agency, the National Science Foundation” for “National Science Foundation, the National Institute of Standards and Technology”. Former subpar. (D) redesignated (C).
 
-    Subsec. (b)(2). [Pub. L. 108–360, § 103(2)(B)][/us/pl/108/360/s103/2/B], inserted heading, struck out former heading “Federal Emergency Management Agency”, added subpar. (A), and struck out heading and text of former subpar. (A) which related to earthquake program responsibilities of the Director of the Federal Emergency Management Agency.
+    Subsec. (b)(2). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(B), inserted heading, struck out former heading “Federal Emergency Management Agency”, added subpar. (A), and struck out heading and text of former subpar. (A) which related to earthquake program responsibilities of the Director of the Federal Emergency Management Agency.
 
-    Subsec. (b)(3). [Pub. L. 108–360, § 103(2)(C)(i)][/us/pl/108/360/s103/2/C/i], inserted “and other activities” after “shall conduct research” in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(C)(i), inserted “and other activities” after “shall conduct research” in introductory provisions.
 
-    Subsec. (b)(3)(C). [Pub. L. 108–360, § 103(2)(C)(ii)][/us/pl/108/360/s103/2/C/ii], substituted “the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology” for “the Agency”.
+    Subsec. (b)(3)(C). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(C)(ii), substituted “the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology” for “the Agency”.
 
-    Subsec. (b)(3)(D). [Pub. L. 108–360, § 103(2)(C)(iii)][/us/pl/108/360/s103/2/C/iii], substituted “the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology” for “the Director of the Agency”.
+    Subsec. (b)(3)(D). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(C)(iii), substituted “the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology” for “the Director of the Agency”.
 
-    Subsec. (b)(3)(E). [Pub. L. 108–360, § 103(2)(C)(iv)][/us/pl/108/360/s103/2/C/iv], substituted “operate, using the National Earthquake Information Center, a forum for the international exchange of earthquake information” for “establish, using existing facilities, a Center for the International Exchange of Earthquake Information” in introductory provisions.
+    Subsec. (b)(3)(E). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(C)(iv), substituted “operate, using the National Earthquake Information Center, a forum for the international exchange of earthquake information” for “establish, using existing facilities, a Center for the International Exchange of Earthquake Information” in introductory provisions.
 
-    Subsec. (b)(3)(F). [Pub. L. 108–360, § 103(2)(C)(v)][/us/pl/108/360/s103/2/C/v], substituted “System” for “Network”.
+    Subsec. (b)(3)(F). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(C)(v), substituted “System” for “Network”.
 
-    Subsec. (b)(3)(I), (J). [Pub. L. 108–360, § 103(2)(C)(vi)][/us/pl/108/360/s103/2/C/vi], added subpars. (I) and (J).
+    Subsec. (b)(3)(I), (J). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(C)(vi), added subpars. (I) and (J).
 
-    Subsec. (b)(4)(D) to (H). [Pub. L. 108–360, § 103(2)(D)][/us/pl/108/360/s103/2/D], added subpars. (D) and (G) and redesignated former subpars. (D), (E), and (F) as (E), (F), and (H), respectively.
+    Subsec. (b)(4)(D) to (H). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(D), added subpars. (D) and (G) and redesignated former subpars. (D), (E), and (F) as (E), (F), and (H), respectively.
 
-    Subsec. (b)(5). [Pub. L. 108–360, § 103(2)(E)][/us/pl/108/360/s103/2/E], in introductory provisions, substituted “In addition to the lead agency responsibilities described under paragraph (1), the National” for “The National”.
+    Subsec. (b)(5). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(E), in introductory provisions, substituted “In addition to the lead agency responsibilities described under paragraph (1), the National” for “The National”.
 
-    Subsec. (b)(5)(D), (E). [Pub. L. 108–360, § 103(2)(F)][/us/pl/108/360/s103/2/F], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (b)(5)(D), (E). [Pub. L. 108–360][/us/pl/108/360], § 103(2)(F), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (c)(1). [Pub. L. 108–360, § 103(3)][/us/pl/108/360/s103/3], substituted “Interagency Coordinating Committee” for “Agency”.
+    Subsec. (c)(1). [Pub. L. 108–360][/us/pl/108/360], § 103(3), substituted “Interagency Coordinating Committee” for “Agency”.
 
-    2000—Subsec. (b)(1). [Pub. L. 106–503, § 206(1)][/us/pl/106/503/s206/1], redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “prepare, in conjunction with the other Program agencies, an annual budget for the Program to be submitted to the Office of Management and Budget;”.
+    2000—Subsec. (b)(1). [Pub. L. 106–503][/us/pl/106/503], § 206(1), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “prepare, in conjunction with the other Program agencies, an annual budget for the Program to be submitted to the Office of Management and Budget;”.
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 106–503, § 208][/us/pl/106/503/s208], inserted before semicolon at end “, and development of means of increasing public access to available locality-specific information that may assist the public in preparing for or responding to earthquakes”.
+    Subsec. (b)(2)(A)(ii). [Pub. L. 106–503][/us/pl/106/503], § 208, inserted before semicolon at end “, and development of means of increasing public access to available locality-specific information that may assist the public in preparing for or responding to earthquakes”.
 
-    Subsec. (c). [Pub. L. 106–503, § 206(2)][/us/pl/106/503/s206/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–503][/us/pl/106/503], § 206(2), added subsec. (c).
 
-    1997—Subsec. (b)(1)(F). [Pub. L. 105–47, § 3(b)][/us/pl/105/47/s3/b], added subpar. (F).
+    1997—Subsec. (b)(1)(F). [Pub. L. 105–47][/us/pl/105/47], § 3(b), added subpar. (F).
 
-    Subsec. (b)(3)(H). [Pub. L. 105–47, § 3(c)][/us/pl/105/47/s3/c], added subpar. (H).
+    Subsec. (b)(3)(H). [Pub. L. 105–47][/us/pl/105/47], § 3(c), added subpar. (H).
 
-    Subsec. (b)(4)(F). [Pub. L. 105–47, § 3(a)][/us/pl/105/47/s3/a], added subpar. (F).
+    Subsec. (b)(4)(F). [Pub. L. 105–47][/us/pl/105/47], § 3(a), added subpar. (F).
 
-    Subsec. (b)(5)(D). [Pub. L. 105–47, § 3(d)][/us/pl/105/47/s3/d], added subpar. (D).
+    Subsec. (b)(5)(D). [Pub. L. 105–47][/us/pl/105/47], § 3(d), added subpar. (D).
 
     1990—[Pub. L. 101–614][/us/pl/101/614] amended section generally, substituting present provisions consisting of subsecs. (a) and (b) for former provisions which provided for: in subsec. (a), establishment of program; in subsec. (b), duties of President and Director of Federal Emergency Management Agency; in subsec. (c), objectives of program; in subsec. (d), Federal participation; in subsec. (e), research elements; in subsec. (f), mitigation elements; in subsec. (g), State assistance; in subsec. (h), non-Federal participation; in subsec. (i), study and recommendations on disaster relief; and in subsec. (j), cost sharing.
 
@@ -331,21 +331,21 @@
 
     Subsec. (j). [Pub. L. 100–252][/us/pl/100/252] added subsec. (j).
 
-    1985—Subsec. (b)(2)(E). [Pub. L. 99–105, § 5][/us/pl/99/105/s5], amended subpar. (E) generally, substituting “to be submitted to the Congress and updated at such times as may be required by significant program events, but in no event less frequently than every three years;” for “which plan will recommend base and incremental budget options for the agencies to carry out the elements and programs specified through at least 1985, and which plan shall be completed by September 30, 1981, and transmitted to the Congress and shall be updated annually; and”.
+    1985—Subsec. (b)(2)(E). [Pub. L. 99–105][/us/pl/99/105], § 5, amended subpar. (E) generally, substituting “to be submitted to the Congress and updated at such times as may be required by significant program events, but in no event less frequently than every three years;” for “which plan will recommend base and incremental budget options for the agencies to carry out the elements and programs specified through at least 1985, and which plan shall be completed by September 30, 1981, and transmitted to the Congress and shall be updated annually; and”.
 
-    Subsec. (b)(2)(F), (G). [Pub. L. 99–105, § 6][/us/pl/99/105/s6], added subpar. (F) and redesignated former subpar. (F) as (G).
+    Subsec. (b)(2)(F), (G). [Pub. L. 99–105][/us/pl/99/105], § 6, added subpar. (F) and redesignated former subpar. (F) as (G).
 
-    1980—Subsec. (a). [Pub. L. 96–472, § 101(a)][/us/pl/96/472/s101/a], inserted provisions relating to non-Federal participation in par. (2), and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
+    1980—Subsec. (a). [Pub. L. 96–472][/us/pl/96/472], § 101(a), inserted provisions relating to non-Federal participation in par. (2), and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
 
-    Subsec. (b). [Pub. L. 96–472, § 101(b)][/us/pl/96/472/s101/b], substituted provisions setting forth the duties of the President and the Director of the Federal Emergency Management Agency with respect to the Program for provisions setting forth the duties of the President with respect to the program and plan.
+    Subsec. (b). [Pub. L. 96–472][/us/pl/96/472], § 101(b), substituted provisions setting forth the duties of the President and the Director of the Federal Emergency Management Agency with respect to the Program for provisions setting forth the duties of the President with respect to the program and plan.
 
-    Subsec. (d). [Pub. L. 96–472, § 101(c)][/us/pl/96/472/s101/c], substituted “(1)(A)” for “(3)(B)”, “Department of Commerce” for “National Bureau of Standards”, and “Federal Emergency Management Agency” for “National Fire Prevention and Control Administration”.
+    Subsec. (d). [Pub. L. 96–472][/us/pl/96/472], § 101(c), substituted “(1)(A)” for “(3)(B)”, “Department of Commerce” for “National Bureau of Standards”, and “Federal Emergency Management Agency” for “National Fire Prevention and Control Administration”.
 
-    Subsec. (e)(6). [Pub. L. 96–472, § 101(d)][/us/pl/96/472/s101/d], substituted “potential” for “political”.
+    Subsec. (e)(6). [Pub. L. 96–472][/us/pl/96/472], § 101(d), substituted “potential” for “political”.
 
-    Subsec. (f). [Pub. L. 96–472, § 101(e)][/us/pl/96/472/s101/e], substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1), substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees of Congress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
+    Subsec. (f). [Pub. L. 96–472][/us/pl/96/472], § 101(e), substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1), substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees of Congress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
 
-    Subsec. (i). [Pub. L. 96–472, § 101(f)][/us/pl/96/472/s101/f], added subsec. (i).
+    Subsec. (i). [Pub. L. 96–472][/us/pl/96/472], § 101(f), added subsec. (i).
 
  __Change of Name__ 
 
@@ -363,17 +363,17 @@
 
  __Real-Time Public Availability of Raw Seismological Data__ 
 
-[Pub. L. 107–228, div. B, title XVI, § 1602][/us/pl/107/228/s1602], Sept. 30, 2002, [116 Stat. 1460][/us/stat/116/1460], provided that: 
+[Pub. L. 107–228, div. B, title XVI][/us/pl/107/228/dB/tXVI], § 1602, Sept. 30, 2002, [116 Stat. 1460][/us/stat/116/1460], provided that: 
 
 > “The head of the Air Force Technical Applications Center shall make available to the public, immediately upon receipt or as soon after receipt as is practicable, all raw seismological data provided to the United States Government by any international monitoring organization that is directly responsible for seismological monitoring.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1116\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1116\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489, provided that: 
 
 > “The United States Government shall, to the maximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring.”
 
  __Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities__ 
 
-[Pub. L. 105–47, § 2][/us/pl/105/47/s2], Oct. 1, 1997, [111 Stat. 1160][/us/stat/111/1160], as amended by [Pub. L. 106–503, title II, § 202(c)][/us/pl/106/503/s202/c], Nov. 13, 2000, [114 Stat. 2305][/us/stat/114/2305]; [Pub. L. 107–110, title X, § 1076(cc)][/us/pl/107/110/s1076/cc], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093], provided that:
+[Pub. L. 105–47][/us/pl/105/47], § 2, Oct. 1, 1997, [111 Stat. 1160][/us/stat/111/1160], as amended by [Pub. L. 106–503, title II][/us/pl/106/503/tII], § 202(c), Nov. 13, 2000, [114 Stat. 2305][/us/stat/114/2305]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(cc), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(aa), Dec. 10, 2015, [129 Stat. 2172][/us/stat/129/2172], provided that:
 
 >     “(a) __Automatic Seismic Warning System Development.—__ 
 
@@ -465,7 +465,7 @@
 
 >             “(A)  __Local educational agency__  __.—__ 
 
->             The term ‘local educational agency’ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
+>             The term ‘local educational agency’ has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
 >             “(B)  __School__  __.—__ 
 
@@ -513,11 +513,11 @@
 
  __Studies on Economic Impact of Catastrophic Earthquakes and Improving Earthquake Mitigation__ 
 
-    [Pub. L. 101–614, § 14][/us/pl/101/614/s14], Nov. 16, 1990, [104 Stat. 3242][/us/stat/104/3242], directed Director of Federal Emergency Management Agency to submit two reports to Congress within 12 months after Nov. 16, 1990, one report outlining results of a study on impact and repercussions of a catastrophic earthquake on local, regional, and national economies, and the other report outlining results of a study on adequacy of preparation and response capabilities for reducing and recovering from losses caused by a catastrophic earthquake.
+    [Pub. L. 101–614][/us/pl/101/614], § 14, Nov. 16, 1990, [104 Stat. 3242][/us/stat/104/3242], directed Director of Federal Emergency Management Agency to submit two reports to Congress within 12 months after Nov. 16, 1990, one report outlining results of a study on impact and repercussions of a catastrophic earthquake on local, regional, and national economies, and the other report outlining results of a study on adequacy of preparation and response capabilities for reducing and recovering from losses caused by a catastrophic earthquake.
 
  __Earthquake Engineering Research__ 
 
-    [Pub. L. 100–570, title I, § 115][/us/pl/100/570/s115], Oct. 31, 1988, [102 Stat. 2871][/us/stat/102/2871], directed National Academy of Sciences to conduct a study of earthquake engineering activities being carried out by the Foundation and other Federal agencies under the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7701][/us/usc/t42/s7701] et seq.), such study to include (1) an assessment of adequacy of each agency’s current Federal earthquake engineering efforts, including those designed to increase the implementation of new techniques; the need for specialized research facilities, including large-scale facilities; the division of responsibilities among the various Federal agencies; and recommended levels of funding that the Foundation and other agencies should provide, in the form of grants to individuals, groups, and centers, to non-Federal researchers principally engaged in earthquake engineering research; and (2) recommendations, if any, of the National Academy of Sciences for improvements in the current Federal efforts in the area of earthquake engineering research, with results of the study to be reported to Congress on or before expiration of 12-month period following Oct. 31, 1988.
+    [Pub. L. 100–570, title I][/us/pl/100/570/tI], § 115, Oct. 31, 1988, [102 Stat. 2871][/us/stat/102/2871], directed National Academy of Sciences to conduct a study of earthquake engineering activities being carried out by the Foundation and other Federal agencies under the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7701][/us/usc/t42/s7701] et seq.), such study to include (1) an assessment of adequacy of each agency’s current Federal earthquake engineering efforts, including those designed to increase the implementation of new techniques; the need for specialized research facilities, including large-scale facilities; the division of responsibilities among the various Federal agencies; and recommended levels of funding that the Foundation and other agencies should provide, in the form of grants to individuals, groups, and centers, to non-Federal researchers principally engaged in earthquake engineering research; and (2) recommendations, if any, of the National Academy of Sciences for improvements in the current Federal efforts in the area of earthquake engineering research, with results of the study to be reported to Congress on or before expiration of 12-month period following Oct. 31, 1988.
 
  __Ex. Ord. No. 12699. Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction__ 
 
@@ -567,64 +567,64 @@
 [/us/usc/t42/s7707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7707
 [/us/usc/t42/s7708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7708
 [/us/usc/t5/s7342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342%2Fa%2F1
-[/us/pl/95/124/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs5
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
 [/us/stat/91/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1099
-[/us/pl/96/472/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs101
+[/us/pl/96/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2FtI
 [/us/stat/94/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2257
 [/us/pl/99/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F105
 [/us/stat/99/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F475
-[/us/pl/100/252/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F252%2Fs2
+[/us/pl/100/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F252
 [/us/stat/102/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F18
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/100/707/s109/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fu
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4710
-[/us/pl/101/614/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs5
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3232
-[/us/pl/105/47/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47%2Fs3
+[/us/pl/105/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47
 [/us/stat/111/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1162
-[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2307
-[/us/pl/108/360/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103
+[/us/pl/108/360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtI
 [/us/stat/118/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1669
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
-[/us/pl/108/360/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F1
-[/us/pl/108/360/s103/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FA%2Fi
-[/us/pl/108/360/s103/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FA%2Fii
-[/us/pl/108/360/s103/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FA%2Fii
-[/us/pl/108/360/s103/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FA%2Fii
-[/us/pl/108/360/s103/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FB
-[/us/pl/108/360/s103/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FC%2Fi
-[/us/pl/108/360/s103/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FC%2Fii
-[/us/pl/108/360/s103/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FC%2Fiii
-[/us/pl/108/360/s103/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FC%2Fiv
-[/us/pl/108/360/s103/2/C/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FC%2Fv
-[/us/pl/108/360/s103/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FC%2Fvi
-[/us/pl/108/360/s103/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FD
-[/us/pl/108/360/s103/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FE
-[/us/pl/108/360/s103/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F2%2FF
-[/us/pl/108/360/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs103%2F3
-[/us/pl/106/503/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs206%2F1
-[/us/pl/106/503/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs208
-[/us/pl/106/503/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs206%2F2
-[/us/pl/105/47/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47%2Fs3%2Fb
-[/us/pl/105/47/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47%2Fs3%2Fc
-[/us/pl/105/47/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47%2Fs3%2Fa
-[/us/pl/105/47/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47%2Fs3%2Fd
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/105/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47
+[/us/pl/105/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47
+[/us/pl/105/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47
+[/us/pl/105/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47
 [/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/100/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F252
-[/us/pl/99/105/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F105%2Fs5
-[/us/pl/99/105/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F105%2Fs6
-[/us/pl/96/472/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs101%2Fa
-[/us/pl/96/472/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs101%2Fb
-[/us/pl/96/472/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs101%2Fc
-[/us/pl/96/472/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs101%2Fd
-[/us/pl/96/472/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs101%2Fe
-[/us/pl/96/472/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs101%2Ff
+[/us/pl/99/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F105
+[/us/pl/99/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F105
+[/us/pl/96/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472
+[/us/pl/96/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472
+[/us/pl/96/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472
+[/us/pl/96/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472
+[/us/pl/96/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472
+[/us/pl/96/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
@@ -632,23 +632,25 @@
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/228/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1602
+[/us/pl/107/228/dB/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXVI
 [/us/stat/116/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1460
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/105/47/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47%2Fs2
+[/us/pl/105/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47
 [/us/stat/111/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1160
-[/us/pl/106/503/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs202%2Fc
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2305
-[/us/pl/107/110/s1076/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fcc
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2172
 [/us/usc/t42/s7706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7706%2Fb
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t42/s7704/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704%2Fb%2F4
 [/us/usc/t42/s7706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7706%2Fc
-[/us/pl/101/614/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs14
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3242
-[/us/pl/100/570/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs115
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2871
 [/us/usc/t42/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7701
 [/us/usc/t42/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7701

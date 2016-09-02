@@ -21,7 +21,7 @@
 
     (b) __Omitted__ 
 
-([Pub. L. 96–102, title II, § 215][/us/pl/96/102/s215], Nov. 5, 1979, [93 Stat. 765][/us/stat/93/765].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 215, Nov. 5, 1979, [93 Stat. 765][/us/stat/93/765].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/102/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs215
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F765
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

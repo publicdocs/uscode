@@ -17,7 +17,7 @@
 
     In order to assist in the provision of adequate emergency room service in various communities of the Nation for treatment of accident victims and handling of other medical emergencies through special project grants for the construction or modernization of emergency rooms of general hospitals, there are authorized to be appropriated $20,000,000 each for the fiscal year ending June 30, 1971, and the next two fiscal years.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 631, as added [Pub. L. 91–296, title III, § 301][/us/pl/91/296/s301], June 30, 1970, [84 Stat. 351][/us/stat/84/351].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 631, as added [Pub. L. 91–296, title III][/us/pl/91/296/tIII], § 301, June 30, 1970, [84 Stat. 351][/us/stat/84/351].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/296/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs301
+[/us/pl/91/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtIII
 [/us/stat/84/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F351
 
 

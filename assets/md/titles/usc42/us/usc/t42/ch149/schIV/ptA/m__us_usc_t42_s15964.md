@@ -23,7 +23,7 @@
 
         The Secretary shall award grants under this section to institutions of higher education that show the greatest potential for advancing new clean coal technologies.
 
-([Pub. L. 109–58, title IV, § 404][/us/pl/109/58/s404], Aug. 8, 2005, [119 Stat. 753][/us/stat/119/753].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 404, Aug. 8, 2005, [119 Stat. 753][/us/stat/119/753].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs404
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F753
 
 

@@ -77,7 +77,7 @@
 
         In such regulations the Secretary may provide for the transfer of funds by any State between the programs authorized under this chapter and the Richard B. Russell National School Lunch Act \[[42 U.S.C. 1751][/us/usc/t42/s1751] et seq.\] on the basis of an approved State plan of operation for the use of the funds and may provide for the reserve of up to 1 per centum of the funds available for apportionment to any State to carry out special developmental projects.
 
-([Pub. L. 89–642, § 10][/us/pl/89/642/s10], Oct. 11, 1966, [80 Stat. 889][/us/stat/80/889]; [Pub. L. 91–248, § 8][/us/pl/91/248/s8], May 14, 1970, [84 Stat. 212][/us/stat/84/212]; [Pub. L. 92–433, § 7][/us/pl/92/433/s7], Sept. 26, 1972, [86 Stat. 729][/us/stat/86/729]; [Pub. L. 95–166, § 17][/us/pl/95/166/s17], Nov. 10, 1977, [91 Stat. 1345][/us/stat/91/1345]; [Pub. L. 101–147, title III, § 323][/us/pl/101/147/s323], Nov. 10, 1989, [103 Stat. 916][/us/stat/103/916]; [Pub. L. 103–448, title II, § 203][/us/pl/103/448/s203], Nov. 2, 1994, [108 Stat. 4738][/us/stat/108/4738]; [Pub. L. 104–193, title VII, § 725][/us/pl/104/193/s725], Aug. 22, 1996, [110 Stat. 2302][/us/stat/110/2302]; [Pub. L. 106–78, title VII, § 752(b)(16)][/us/pl/106/78/s752/b/16], Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170]; [Pub. L. 111–296, title II, § 208][/us/pl/111/296/s208], Dec. 13, 2010, [124 Stat. 3221][/us/stat/124/3221].)
+([Pub. L. 89–642][/us/pl/89/642], § 10, Oct. 11, 1966, [80 Stat. 889][/us/stat/80/889]; [Pub. L. 91–248][/us/pl/91/248], § 8, May 14, 1970, [84 Stat. 212][/us/stat/84/212]; [Pub. L. 92–433][/us/pl/92/433], § 7, Sept. 26, 1972, [86 Stat. 729][/us/stat/86/729]; [Pub. L. 95–166][/us/pl/95/166], § 17, Nov. 10, 1977, [91 Stat. 1345][/us/stat/91/1345]; [Pub. L. 101–147, title III][/us/pl/101/147/tIII], § 323, Nov. 10, 1989, [103 Stat. 916][/us/stat/103/916]; [Pub. L. 103–448, title II][/us/pl/103/448/tII], § 203, Nov. 2, 1994, [108 Stat. 4738][/us/stat/108/4738]; [Pub. L. 104–193, title VII][/us/pl/104/193/tVII], § 725, Aug. 22, 1996, [110 Stat. 2302][/us/stat/110/2302]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(16), Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170]; [Pub. L. 111–296, title II][/us/pl/111/296/tII], § 208, Dec. 13, 2010, [124 Stat. 3221][/us/stat/124/3221].)
 
  __References in Text__ 
 
@@ -127,23 +127,23 @@
 [/us/usc/t7/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5341
 [/us/usc/t7/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5341
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/89/642/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs10
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F889
-[/us/pl/91/248/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248%2Fs8
+[/us/pl/91/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248
 [/us/stat/84/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F212
-[/us/pl/92/433/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs7
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/stat/86/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F729
-[/us/pl/95/166/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166%2Fs17
+[/us/pl/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166
 [/us/stat/91/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1345
-[/us/pl/101/147/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs323
+[/us/pl/101/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtIII
 [/us/stat/103/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F916
-[/us/pl/103/448/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs203
+[/us/pl/103/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtII
 [/us/stat/108/4738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4738
-[/us/pl/104/193/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs725
+[/us/pl/104/193/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVII
 [/us/stat/110/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2302
-[/us/pl/106/78/s752/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F16
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1170
-[/us/pl/111/296/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs208
+[/us/pl/111/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtII
 [/us/stat/124/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3221
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230

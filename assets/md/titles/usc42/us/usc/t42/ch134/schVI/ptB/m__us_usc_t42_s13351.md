@@ -23,7 +23,7 @@
 
         In conducting the Clean Coal Program established by [Public Law 98–473][/us/pl/98/473], the Secretary shall consider the potential benefits of conducting additional solicitations pursuant to such program and, based on the results of that consideration, may carry out such additional solicitations, which shall be similar in scope and percentage of Federal cost sharing as that provided by [Public Law 101–121][/us/pl/101/121].
 
-([Pub. L. 102–486, title XIII, § 1321][/us/pl/102/486/s1321], Oct. 24, 1992, [106 Stat. 2976][/us/stat/106/2976].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1321, Oct. 24, 1992, [106 Stat. 2976][/us/stat/106/2976].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
-[/us/pl/102/486/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1321
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2976
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

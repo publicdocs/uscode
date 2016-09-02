@@ -45,7 +45,7 @@
 
             (C) $150,000,000 for each of fiscal years 2004 through 2017.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330C, as added [Pub. L. 105–33, title IV, § 4922][/us/pl/105/33/s4922], Aug. 5, 1997, [111 Stat. 574][/us/stat/111/574]; amended [Pub. L. 105–174, title III, § 3001][/us/pl/105/174/s3001], May 1, 1998, [112 Stat. 82][/us/stat/112/82]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 931(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 107–360, § 1(b)][/us/pl/107/360/s1/b], Dec. 17, 2002, [116 Stat. 3019][/us/stat/116/3019]; [Pub. L. 110–173, title III, § 302(b)][/us/pl/110/173/s302/b], Dec. 29, 2007, [121 Stat. 2515][/us/stat/121/2515]; [Pub. L. 110–275, title III, § 303(b)][/us/pl/110/275/s303/b], July 15, 2008, [122 Stat. 2594][/us/stat/122/2594]; [Pub. L. 111–309, title I, § 112(2)][/us/pl/111/309/s112/2], Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–240, title VI, § 625(b)][/us/pl/112/240/s625/b], Jan. 2, 2013, [126 Stat. 2353][/us/stat/126/2353]; [Pub. L. 113–93, title II, § 204(b)][/us/pl/113/93/s204/b], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II, § 213(b)][/us/pl/114/10/s213/b], Apr. 16, 2015, [129 Stat. 152][/us/stat/129/152].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330C, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4922, Aug. 5, 1997, [111 Stat. 574][/us/stat/111/574]; amended [Pub. L. 105–174, title III][/us/pl/105/174/tIII], § 3001, May 1, 1998, [112 Stat. 82][/us/stat/112/82]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 931(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 107–360][/us/pl/107/360], § 1(b), Dec. 17, 2002, [116 Stat. 3019][/us/stat/116/3019]; [Pub. L. 110–173, title III][/us/pl/110/173/tIII], § 302(b), Dec. 29, 2007, [121 Stat. 2515][/us/stat/121/2515]; [Pub. L. 110–275, title III][/us/pl/110/275/tIII], § 303(b), July 15, 2008, [122 Stat. 2594][/us/stat/122/2594]; [Pub. L. 111–309, title I][/us/pl/111/309/tI], § 112(2), Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 625(b), Jan. 2, 2013, [126 Stat. 2353][/us/stat/126/2353]; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 204(b), Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 213(b), Apr. 16, 2015, [129 Stat. 152][/us/stat/129/152].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Funds Available Until Expended__ 
 
-    [Pub. L. 108–7, div. F, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 261][/us/stat/117/261], provided in part “That funds appropriated under the Special Diabetes Program for Indians ([42 U.S.C. 254c–3(c)][/us/usc/t42/s254c–3/c]) for fiscal year 2003 and thereafter for the purpose of making grants shall remain available until expended”.
+    [Pub. L. 108–7, div. F, title II][/us/pl/108/7/dF/tII], Feb. 20, 2003, [117 Stat. 261][/us/stat/117/261], provided in part “That funds appropriated under the Special Diabetes Program for Indians ([42 U.S.C. 254c–3(c)][/us/usc/t42/s254c–3/c]) for fiscal year 2003 and thereafter for the purpose of making grants shall remain available until expended”.
 
 ----------
 
@@ -88,25 +88,25 @@
 [/us/usc/t25/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1651
 [/us/usc/t42/s1397dd/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/33/s4922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4922
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F574
-[/us/pl/105/174/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2Fs3001
+[/us/pl/105/174/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2FtIII
 [/us/stat/112/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F82
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/360/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F360%2Fs1%2Fb
+[/us/pl/107/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F360
 [/us/stat/116/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3019
-[/us/pl/110/173/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs302%2Fb
+[/us/pl/110/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2FtIII
 [/us/stat/121/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2515
-[/us/pl/110/275/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs303%2Fb
+[/us/pl/110/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtIII
 [/us/stat/122/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2594
-[/us/pl/111/309/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs112%2F2
+[/us/pl/111/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2FtI
 [/us/stat/124/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3289
-[/us/pl/112/240/s625/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs625%2Fb
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2353
-[/us/pl/113/93/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs204%2Fb
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
-[/us/pl/114/10/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs213%2Fb
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F152
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
@@ -123,7 +123,7 @@
 [/us/pl/107/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F360
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtII
 [/us/stat/117/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F261
 [/us/usc/t42/s254c–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%933%2Fc
 

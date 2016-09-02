@@ -65,11 +65,11 @@
 
         There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2002 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 313, as added [Pub. L. 107–188, title I, § 159(c)][/us/pl/107/188/s159/c], June 12, 2002, [116 Stat. 636][/us/stat/116/636].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 313, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 159(c), June 12, 2002, [116 Stat. 636][/us/stat/116/636].)
 
  __Prior Provisions__ 
 
-    A prior section 245, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 313, [58 Stat. 693][/us/stat/58/693]; Oct. 30, 1970, [Pub. L. 91–515, title II, § 282][/us/pl/91/515/s282], [84 Stat. 1308][/us/stat/84/1308], provided for collection of vital statistics, prior to repeal by [Pub. L. 93–353, title I, § 102(a)][/us/pl/93/353/s102/a], July 23, 1974, [88 Stat. 362][/us/stat/88/362]. See [section 242k(g) of this title][/us/usc/t42/s242k/g].
+    A prior section 245, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 313, [58 Stat. 693][/us/stat/58/693]; Oct. 30, 1970, [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 282, [84 Stat. 1308][/us/stat/84/1308], provided for collection of vital statistics, prior to repeal by [Pub. L. 93–353, title I][/us/pl/93/353/tI], § 102(a), July 23, 1974, [88 Stat. 362][/us/stat/88/362]. See [section 242k(g) of this title][/us/usc/t42/s242k/g].
 
     A prior section 313 of act July 1, 1944, was classified to [section 245a of this title][/us/usc/t42/s245a] prior to repeal by [Pub. L. 94–484][/us/pl/94/484].
 
@@ -81,13 +81,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s159/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs159%2Fc
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F636
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F693
-[/us/pl/91/515/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs282
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1308
-[/us/pl/93/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Fa
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F362
 [/us/usc/t42/s242k/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242k%2Fg
 [/us/usc/t42/s245a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs245a

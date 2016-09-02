@@ -17,7 +17,7 @@
 
     In carrying out the study and investigation authorized by sections 1962d–7 to 1962d–11 of this title, the Secretary is authorized to cooperate with other Federal, State, and local agencies now engaged in comprehensive planning for water resource use and development in the Delmarva Peninsula area by making available to those agencies his findings and to cooperate with those agencies in the Northeastern United States Water Supply Study as authorized by [section 1962d–4 of this title][/us/usc/t42/s1962d–4].
 
-([Pub. L. 89–618, § 4][/us/pl/89/618/s4], Oct. 4, 1966, [80 Stat. 871][/us/stat/80/871].)
+([Pub. L. 89–618][/us/pl/89/618], § 4, Oct. 4, 1966, [80 Stat. 871][/us/stat/80/871].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s1962d–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%934
-[/us/pl/89/618/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618%2Fs4
+[/us/pl/89/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618
 [/us/stat/80/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F871
 
 

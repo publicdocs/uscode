@@ -179,11 +179,11 @@
 
             (B) to provide funding for State energy office functions under this section, $5,000,000.
 
-([Pub. L. 94–163, title III, § 372][/us/pl/94/163/s372], as added [Pub. L. 110–140, title IV, § 451(a)][/us/pl/110/140/s451/a], Dec. 19, 2007, [121 Stat. 1624][/us/stat/121/1624].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 372, as added [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 451(a), Dec. 19, 2007, [121 Stat. 1624][/us/stat/121/1624].)
 
  __Prior Provisions__ 
 
-    A prior section 6342, [Pub. L. 94–163, title III, § 372][/us/pl/94/163/s372], Dec. 22, 1975, [89 Stat. 936][/us/stat/89/936]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288], related to establishment and maintenance of an energy efficiency program, prior to repeal by [Pub. L. 99–509, title III, § 3101(b)][/us/pl/99/509/s3101/b], Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888].
+    A prior section 6342, [Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 372, Dec. 22, 1975, [89 Stat. 936][/us/stat/89/936]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288], related to establishment and maintenance of an energy efficiency program, prior to repeal by [Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3101(b), Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888].
 
  __Effective Date__ 
 
@@ -200,16 +200,16 @@
 [/us/usc/t42/s6344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6344
 [/us/usc/t42/s6344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6344
 [/us/usc/t42/s8258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fa
-[/us/pl/94/163/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs372
-[/us/pl/110/140/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs451%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1624
-[/us/pl/94/163/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs372
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F936
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/99/509/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3101%2Fb
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1888
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

@@ -103,7 +103,7 @@
 
         Nothing in this section shall be construed to preempt any provision of a State constitution or State statute that prohibits or restricts the expenditure of State funds in or by religious organizations.
 
-([Pub. L. 104–193, title I, § 104][/us/pl/104/193/s104], Aug. 22, 1996, [110 Stat. 2161][/us/stat/110/2161].)
+([Pub. L. 104–193, title I][/us/pl/104/193/tI], § 104, Aug. 22, 1996, [110 Stat. 2161][/us/stat/110/2161].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 ----------
 
 [/us/usc/t42/s2000e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%931
-[/us/pl/104/193/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs104
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2161
 [/us/pl/104/193/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193

@@ -461,7 +461,7 @@
 
         The Secretary may reserve not more than 5 percent of the amounts made available in each fiscal year to supplement grants awarded to owners under this section when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible residents.
 
-([Pub. L. 101–625, title VIII, § 802][/us/pl/101/625/s802], Nov. 28, 1990, [104 Stat. 4304][/us/stat/104/4304]; [Pub. L. 102–550, title VI][/us/pl/102/550], §§ 604(a), (b), 672, Oct. 28, 1992, [106 Stat. 3805][/us/stat/106/3805], 3826; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098, 1109, 1110; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857–1859, 1870, 1871.)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 802, Nov. 28, 1990, [104 Stat. 4304][/us/stat/104/4304]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], §§ 604(a), (b), 672, Oct. 28, 1992, [106 Stat. 3805][/us/stat/106/3805], 3826; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098, 1109, 1110; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857–1859, 1870, 1871.)
 
  __References in Text__ 
 
@@ -471,9 +471,9 @@
 
     The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is [act June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], [52 Stat. 1060][/us/stat/52/1060], as amended, which is classified principally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29][/us/usc/t29/s201] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended. Title II of the Act, which was classified generally to subchapter II (§ 1437aa et seq.) of chapter 8 of this title, was repealed by [Pub. L. 104–330, title V, § 501(a)][/us/pl/104/330/s501/a], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]. For complete classification of this Act to the Code, see Short title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended. Title II of the Act, which was classified generally to subchapter II (§ 1437aa et seq.) of chapter 8 of this title, was repealed by [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(a), Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]. For complete classification of this Act to the Code, see Short title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
-    Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to [section 1437f(b)(2) of this title][/us/usc/t42/s1437f/b/2] and was repealed by [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 209(a)(2)\], Nov. 30, 1983, [97 Stat. 1183][/us/stat/97/1183].
+    Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to [section 1437f(b)(2) of this title][/us/usc/t42/s1437f/b/2] and was repealed by [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 209(a)(2)\], Nov. 30, 1983, [97 Stat. 1183][/us/stat/97/1183].
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (k)(9), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
@@ -489,19 +489,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(2)(A). [Pub. L. 110–246, § 4002(b)(1)(N)][/us/pl/110/246/s4002/b/1/N], (2)(LL), substituted “Supplemental nutrition assistance program benefits” for “Food stamps” in heading.
+    2008—Subsec. (d)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(N), (2)(LL), substituted “Supplemental nutrition assistance program benefits” for “Food stamps” in heading.
 
-    Subsec. (d)(2)(A)(i)(I). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(LL), made technical amendment to reference in original act which appears in text as reference to [section 2018 of title 7][/us/usc/t7/s2018].
+    Subsec. (d)(2)(A)(i)(I). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(LL), made technical amendment to reference in original act which appears in text as reference to [section 2018 of title 7][/us/usc/t7/s2018].
 
-    Subsec. (d)(2)(A)(i)(II). [Pub. L. 110–246, § 4115(c)(2)(I)][/us/pl/110/246/s4115/c/2/I], struck out “(as defined in [section 2012(e) of title 7][/us/usc/t7/s2012/e])” after “benefits”.
+    Subsec. (d)(2)(A)(i)(II). [Pub. L. 110–246][/us/pl/110/246], § 4115(c)(2)(I), struck out “(as defined in [section 2012(e) of title 7][/us/usc/t7/s2012/e])” after “benefits”.
 
-    [Pub. L. 110–246, § 4115(c)(1)(A)(i)][/us/pl/110/246/s4115/c/1/A/i], (B)(vi), substituted “benefits” for “coupons”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4115(c)(1)(A)(i), (B)(vi), substituted “benefits” for “coupons”.
 
-    1992—Subsec. (d)(4). [Pub. L. 102–550, § 672][/us/pl/102/550/s672], inserted after first sentence of concluding provisions “Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues.”
+    1992—Subsec. (d)(4). [Pub. L. 102–550][/us/pl/102/550], § 672, inserted after first sentence of concluding provisions “Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues.”
 
-    Subsec. (i)(1)(B)(i). [Pub. L. 102–550, § 604(b)][/us/pl/102/550/s604/b], substituted “6-year” for “3-year” in two places.
+    Subsec. (i)(1)(B)(i). [Pub. L. 102–550][/us/pl/102/550], § 604(b), substituted “6-year” for “3-year” in two places.
 
-    Subsec. (n)(1). [Pub. L. 102–550, § 604(a)][/us/pl/102/550/s604/a], in introductory provisions, substituted provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations of $25,000,000 for fiscal year 1991 and $26,100,000 for fiscal year 1992.
+    Subsec. (n)(1). [Pub. L. 102–550][/us/pl/102/550], § 604(a), in introductory provisions, substituted provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations of $25,000,000 for fiscal year 1991 and $26,100,000 for fiscal year 1992.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -515,11 +515,11 @@
 
  __Effective Date__ 
 
-    This section was enacted as part of [Pub. L. 101–625][/us/pl/101/625], which was approved Nov. 28, 1990. However, this section was deemed enacted as of Nov. 5, 1990, by [Pub. L. 101–507, title II][/us/pl/101/507], Nov. 5, 1990, [104 Stat. 1358][/us/stat/104/1358], set out as an Effective Date of 1990 Amendment note under [section 1701q of Title 12][/us/usc/t12/s1701q], Banks and Banking.
+    This section was enacted as part of [Pub. L. 101–625][/us/pl/101/625], which was approved Nov. 28, 1990. However, this section was deemed enacted as of Nov. 5, 1990, by [Pub. L. 101–507, title II][/us/pl/101/507/tII], Nov. 5, 1990, [104 Stat. 1358][/us/stat/104/1358], set out as an Effective Date of 1990 Amendment note under [section 1701q of Title 12][/us/usc/t12/s1701q], Banks and Banking.
 
  __Regulations__ 
 
-[Pub. L. 102–550, title VI, § 604(c)][/us/pl/102/550/s604/c], Oct. 28, 1992, [106 Stat. 3805][/us/stat/106/3805], provided that:
+[Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 604(c), Oct. 28, 1992, [106 Stat. 3805][/us/stat/106/3805], provided that:
 
 >     “(1)  __Interim regulations__  __.—__ 
 
@@ -565,13 +565,13 @@
 [/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
 [/us/usc/t42/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013
 [/us/usc/t42/s8012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8012
-[/us/pl/101/625/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs802
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4304
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3805
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
@@ -583,13 +583,13 @@
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
-[/us/pl/104/330/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fa
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437f/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fb%2F2
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1183
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
@@ -601,15 +601,15 @@
 [/us/pl/101/625/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs802
 [/us/pl/101/625/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs802
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/110/246/s4002/b/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FN
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018
-[/us/pl/110/246/s4115/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FI
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fe
-[/us/pl/110/246/s4115/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F1%2FA%2Fi
-[/us/pl/102/550/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs672
-[/us/pl/102/550/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs604%2Fb
-[/us/pl/102/550/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs604%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -621,10 +621,10 @@
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s13642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13642
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
+[/us/pl/101/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507%2FtII
 [/us/stat/104/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1358
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/102/550/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs604%2Fc
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3805
 [/us/usc/t42/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8011
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

@@ -43,7 +43,7 @@
 
             There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title IV, § 447][/us/pl/89/329/s447], as added [Pub. L. 92–318, title I, § 135F][/us/pl/92/318/s135F], June 23, 1972, [86 Stat. 271][/us/stat/86/271]; amended [Pub. L. 94–482, title I, § 128(d)][/us/pl/94/482/s128/d], Oct. 12, 1976, [90 Stat. 2143][/us/stat/90/2143]; [Pub. L. 96–374, title IV, § 436][/us/pl/96/374/s436], title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1436][/us/stat/94/1436], 1503; [Pub. L. 99–498, title IV, § 403(a)][/us/pl/99/498/s403/a], Oct. 17, 1986, [100 Stat. 1436][/us/stat/100/1436]; [Pub. L. 102–325, title IV, § 446(a)][/us/pl/102/325/s446/a], (b), July 23, 1992, [106 Stat. 567][/us/stat/106/567]; [Pub. L. 110–315, title IV, § 446][/us/pl/110/315/s446], Aug. 14, 2008, [122 Stat. 3260][/us/stat/122/3260].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 447, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 135F, June 23, 1972, [86 Stat. 271][/us/stat/86/271]; amended [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 128(d), Oct. 12, 1976, [90 Stat. 2143][/us/stat/90/2143]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 436, title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1436][/us/stat/94/1436], 1503; [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 403(a), Oct. 17, 1986, [100 Stat. 1436][/us/stat/100/1436]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 446(a), (b), July 23, 1992, [106 Stat. 567][/us/stat/106/567]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 446, Aug. 14, 2008, [122 Stat. 3260][/us/stat/122/3260].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
     1980—Subsec. (a). [Pub. L. 96–374][/us/pl/96/374], §§ 436, 1391(a)(1), substituted “$25,000” for “$15,000” and “Secretary” for “Commissioner”.
 
-    Subsec. (b)(7). [Pub. L. 96–374, § 1391(a)(1)][/us/pl/96/374/s1391/a/1], substituted “Secretary” for “Commissioner”.
+    Subsec. (b)(7). [Pub. L. 96–374][/us/pl/96/374], § 1391(a)(1), substituted “Secretary” for “Commissioner”.
 
     1976—Subsec. (a). [Pub. L. 94–482][/us/pl/94/482] substituted provisions authorizing agreements for job location and development programs by Commissioner, for provisions setting forth statement of purpose of community service learning programs.
 
@@ -98,18 +98,18 @@
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t42/s2753/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2753%2Fb%2F2%2FA
 [/us/usc/t42/s2753/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2753%2Fb%2F2%2FA
-[/us/pl/89/329/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs447
-[/us/pl/92/318/s135F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs135F
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F271
-[/us/pl/94/482/s128/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs128%2Fd
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2143
-[/us/pl/96/374/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs436
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1436
-[/us/pl/99/498/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs403%2Fa
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1436
-[/us/pl/102/325/s446/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs446%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F567
-[/us/pl/110/315/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs446
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3260
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
@@ -123,7 +123,7 @@
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/usc/t42/s2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/96/374/s1391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1391%2Fa%2F1
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482
 [/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482
 [/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482

@@ -53,7 +53,7 @@
 
     (13) the long-term success of efforts to provide more affordable housing depends upon tenants and homeowners being fiscally responsible and able managers.
 
-([Pub. L. 101–625, title II, § 202][/us/pl/101/625/s202], Nov. 28, 1990, [104 Stat. 4094][/us/stat/104/4094].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 202, Nov. 28, 1990, [104 Stat. 4094][/us/stat/104/4094].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
-[/us/pl/101/625/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs202
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4094
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

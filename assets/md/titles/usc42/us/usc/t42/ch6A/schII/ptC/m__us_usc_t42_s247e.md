@@ -35,7 +35,7 @@
 
         The Secretary shall make payments to the Board of Health of the State of Hawaii for the care and treatment (including outpatient care) in its facilities of persons suffering from Hansen’s disease at a rate determined by the Secretary. The rate shall be approximately equal to the operating cost per patient of such facilities, except that the rate may not exceed the comparable costs per patient with Hansen’s disease for care and treatment provided by the Center referred to in subsection (a) of this section. Payments under this subsection are subject to the availability of appropriations for such purpose.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 320, formerly § 331, [58 Stat. 698][/us/stat/58/698]; [June 25, 1948, ch. 654, § 4][/us/act/1948-06-25/ch654/s4], [62 Stat. 1018][/us/stat/62/1018]; [June 25, 1952, ch. 460][/us/act/1952-06-25/ch460], [66 Stat. 157][/us/stat/66/157]; [Pub. L. 86–624, § 29(b)][/us/pl/86/624/s29/b], July 12, 1960, [74 Stat. 419][/us/stat/74/419]; renumbered § 339, [Pub. L. 94–484, title IV, § 407(b)(2)][/us/pl/94/484/s407/b/2], Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268]; renumbered § 320, and amended [Pub. L. 95–626, title I, § 105(a)][/us/pl/95/626/s105/a], Nov. 10, 1978, [92 Stat. 3560][/us/stat/92/3560]; [Pub. L. 96–32, § 7(b)][/us/pl/96/32/s7/b], July 10, 1979, [93 Stat. 84][/us/stat/93/84]; [Pub. L. 99–117, § 2(a)][/us/pl/99/117/s2/a], Oct. 7, 1985, [99 Stat. 491][/us/stat/99/491]; [Pub. L. 105–78, title II, § 211(h)][/us/pl/105/78/s211/h], Nov. 13, 1997, [111 Stat. 1494][/us/stat/111/1494]; [Pub. L. 107–220, § 1(a)][/us/pl/107/220/s1/a], Aug. 21, 2002, [116 Stat. 1332][/us/stat/116/1332].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 320, formerly § 331, [58 Stat. 698][/us/stat/58/698]; [June 25, 1948, ch. 654][/us/act/1948-06-25/ch654], § 4, [62 Stat. 1018][/us/stat/62/1018]; [June 25, 1952, ch. 460][/us/act/1952-06-25/ch460], [66 Stat. 157][/us/stat/66/157]; [Pub. L. 86–624][/us/pl/86/624], § 29(b), July 12, 1960, [74 Stat. 419][/us/stat/74/419]; renumbered § 339, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(2), Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268]; renumbered § 320, and amended [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 105(a), Nov. 10, 1978, [92 Stat. 3560][/us/stat/92/3560]; [Pub. L. 96–32][/us/pl/96/32], § 7(b), July 10, 1979, [93 Stat. 84][/us/stat/93/84]; [Pub. L. 99–117][/us/pl/99/117], § 2(a), Oct. 7, 1985, [99 Stat. 491][/us/stat/99/491]; [Pub. L. 105–78, title II][/us/pl/105/78/tII], § 211(h), Nov. 13, 1997, [111 Stat. 1494][/us/stat/111/1494]; [Pub. L. 107–220][/us/pl/107/220], § 1(a), Aug. 21, 2002, [116 Stat. 1332][/us/stat/116/1332].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Relocation of National Hansen’s Disease Programs Center__ 
 
-[Pub. L. 105–78, title II, § 211(a)][/us/pl/105/78/s211/a]–(g), Nov. 13, 1997, [111 Stat. 1489][/us/stat/111/1489], as amended by [Pub. L. 107–220, § 1(b)][/us/pl/107/220/s1/b], Aug. 21, 2002, [116 Stat. 1332][/us/stat/116/1332], provided that:
+[Pub. L. 105–78, title II][/us/pl/105/78/tII], § 211(a)–(g), Nov. 13, 1997, [111 Stat. 1489][/us/stat/111/1489], as amended by [Pub. L. 107–220][/us/pl/107/220], § 1(b), Aug. 21, 2002, [116 Stat. 1332][/us/stat/116/1332], provided that:
 
 >     “(a) The Secretary of Health and Human Services may in accordance with this section provide for the relocation of the Federal facility known as the National Hansen’s Disease Programs Center (located in the vicinity of Carville, in the State of Louisiana), including the relocation of the patients of the Center.
 
@@ -242,23 +242,23 @@
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F698
-[/us/act/1948-06-25/ch654/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654%2Fs4
+[/us/act/1948-06-25/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654
 [/us/stat/62/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1018
 [/us/act/1952-06-25/ch460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-25%2Fch460
 [/us/stat/66/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F157
-[/us/pl/86/624/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs29%2Fb
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F419
-[/us/pl/94/484/s407/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F2
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
-[/us/pl/95/626/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs105%2Fa
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3560
-[/us/pl/96/32/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs7%2Fb
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F84
-[/us/pl/99/117/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs2%2Fa
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F491
-[/us/pl/105/78/s211/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs211%2Fh
+[/us/pl/105/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtII
 [/us/stat/111/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1494
-[/us/pl/107/220/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F220%2Fs1%2Fa
+[/us/pl/107/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F220
 [/us/stat/116/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1332
 [/us/pl/105/78/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs211
 [/us/usc/t42/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs255
@@ -279,9 +279,9 @@
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/624/s47/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs47%2Ff
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/105/78/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs211%2Fa
+[/us/pl/105/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtII
 [/us/stat/111/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1489
-[/us/pl/107/220/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F220%2Fs1%2Fb
+[/us/pl/107/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F220
 [/us/stat/116/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1332
 [/us/usc/t42/s210/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210%2Fe
 [/us/usc/t5/s5545/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fd

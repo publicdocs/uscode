@@ -41,11 +41,11 @@
 
         Notwithstanding the provisions of this section or [section 2996g of this title][/us/usc/t42/s2996g], neither the Corporation nor the Comptroller General shall have access to any reports or records subject to the attorney-client privilege.
 
-([Pub. L. 88–452, title X, § 1009][/us/pl/88/452/s1009], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 387][/us/stat/88/387]; amended [Pub. L. 95–222, § 14][/us/pl/95/222/s14], Dec. 28, 1977, [91 Stat. 1623][/us/stat/91/1623]; [Pub. L. 104–66, title II, § 2111][/us/pl/104/66/s2111], Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1009, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 387][/us/stat/88/387]; amended [Pub. L. 95–222][/us/pl/95/222], § 14, Dec. 28, 1977, [91 Stat. 1623][/us/stat/91/1623]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2111, Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Codification__ 
 
-    In subsec. (b)(2), “[section 3523(c) of title 31][/us/usc/t31/s3523/c]” substituted for “section 117(b) of the Accounting and Auditing Act of 1950 ([31 U.S.C. 67(b)][/us/usc/t31/s67/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(2), “[section 3523(c) of title 31][/us/usc/t31/s3523/c]” substituted for “section 117(b) of the Accounting and Auditing Act of 1950 ([31 U.S.C. 67(b)][/us/usc/t31/s67/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -68,18 +68,18 @@
 
 [/us/usc/t31/s3523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523%2Fc
 [/us/usc/t42/s2996g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996g
-[/us/pl/88/452/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1009
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F387
-[/us/pl/95/222/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs14
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1623
-[/us/pl/104/66/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2111
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F730
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t31/s3523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523%2Fc
 [/us/usc/t31/s67/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs67%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

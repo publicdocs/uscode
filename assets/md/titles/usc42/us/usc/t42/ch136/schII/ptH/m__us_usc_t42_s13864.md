@@ -27,7 +27,7 @@
 
         (2) the Attorney General determines that an additional grant is necessary to implement the community prosecution program described in the comprehensive plan required by [section 13863 of this title][/us/usc/t42/s13863].
 
-([Pub. L. 103–322, title III, § 31704][/us/pl/103/322/s31704], Sept. 13, 1994, [108 Stat. 1891][/us/stat/108/1891].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31704, Sept. 13, 1994, [108 Stat. 1891][/us/stat/108/1891].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s13863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13863
-[/us/pl/103/322/s31704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31704
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1891
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

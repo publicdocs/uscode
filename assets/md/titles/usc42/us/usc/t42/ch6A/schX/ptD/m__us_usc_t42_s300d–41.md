@@ -79,7 +79,7 @@
 
         (2) has policies in place to assist patients who cannot pay for part or all of the care they receive, including a sliding fee scale, and to ensure fair billing and collection practices.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1241, as added [Pub. L. 102–321, title VI, § 601][/us/pl/102/321/s601], July 10, 1992, [106 Stat. 433][/us/stat/106/433]; amended [Pub. L. 111–148, title III, § 3505(a)(1)][/us/pl/111/148/s3505/a/1], Mar. 23, 2010, [124 Stat. 522][/us/stat/124/522].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1241, as added [Pub. L. 102–321, title VI][/us/pl/102/321/tVI], § 601, July 10, 1992, [106 Stat. 433][/us/stat/106/433]; amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3505(a)(1), Mar. 23, 2010, [124 Stat. 522][/us/stat/124/522].)
 
  __References in Text__ 
 
@@ -104,9 +104,9 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs601
+[/us/pl/102/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtVI
 [/us/stat/106/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F433
-[/us/pl/111/148/s3505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3505%2Fa%2F1
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F522
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

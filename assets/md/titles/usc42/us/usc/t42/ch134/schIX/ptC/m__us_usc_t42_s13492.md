@@ -67,7 +67,7 @@
 
         In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies. The Secretary shall update the program plan annually and submit such update to Congress. Each such update shall describe any activities that are behind schedule, any funding shortfalls, and any other circumstances that might affect the ability of the Secretary to meet the goals set forth in subsection (b) of this section.
 
-([Pub. L. 102–486, title XXI, § 2122][/us/pl/102/486/s2122], Oct. 24, 1992, [106 Stat. 3082][/us/stat/106/3082].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2122, Oct. 24, 1992, [106 Stat. 3082][/us/stat/106/3082].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
-[/us/pl/102/486/s2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2122
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3082
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

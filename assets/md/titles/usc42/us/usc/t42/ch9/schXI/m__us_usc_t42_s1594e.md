@@ -19,7 +19,7 @@
 
     (b) Wherever the term “armed services” appears in this subchapter it shall be deemed to include the United States Coast Guard.
 
-([Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 409, [69 Stat. 654][/us/stat/69/654]; [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 90–19, § 12(g)][/us/pl/90/19/s12/g], May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
+([Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 409, [69 Stat. 654][/us/stat/69/654]; [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 90–19][/us/pl/90/19], § 12(g), May 25, 1967, [81 Stat. 24][/us/stat/81/24].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
-    Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
+    Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
 
 ----------
 
@@ -47,9 +47,9 @@
 [/us/usc/t12/s1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F654
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
-[/us/pl/90/19/s12/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs12%2Fg
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F24
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F646
@@ -59,7 +59,7 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F2
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3

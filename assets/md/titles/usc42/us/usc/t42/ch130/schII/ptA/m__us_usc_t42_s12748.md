@@ -57,13 +57,13 @@
 
         The Secretary shall keep each participating jurisdiction informed of the status of its HOME Investment Trust Fund, including the status of amounts under various stages of commitment.
 
-([Pub. L. 101–625, title II, § 218][/us/pl/101/625/s218], Nov. 28, 1990, [104 Stat. 4109][/us/stat/104/4109]; [Pub. L. 102–550, title II][/us/pl/102/550], §§ 203(c), 221, Oct. 28, 1992, [106 Stat. 3752][/us/stat/106/3752], 3762.)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 218, Nov. 28, 1990, [104 Stat. 4109][/us/stat/104/4109]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], §§ 203(c), 221, Oct. 28, 1992, [106 Stat. 3752][/us/stat/106/3752], 3762.)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 221][/us/pl/102/550/s221], inserted “or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions” after “boundaries”.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 221, inserted “or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions” after “boundaries”.
 
-    Subsec. (g). [Pub. L. 102–550, § 203(c)][/us/pl/102/550/s203/c], substituted “If” for “Except as provided in [section 12747(b)(1)(A)(ii) of this title][/us/usc/t42/s12747/b/1/A/ii], if”.
+    Subsec. (g). [Pub. L. 102–550][/us/pl/102/550], § 203(c), substituted “If” for “Except as provided in [section 12747(b)(1)(A)(ii) of this title][/us/usc/t42/s12747/b/1/A/ii], if”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -80,12 +80,12 @@
 [/us/usc/t42/s12747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747
 [/us/usc/t42/s12749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12749
 [/us/usc/t42/s12747/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747%2Fd
-[/us/pl/101/625/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs218
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4109
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3752
-[/us/pl/102/550/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs221
-[/us/pl/102/550/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fc
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s12747/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747%2Fb%2F1%2FA%2Fii
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223

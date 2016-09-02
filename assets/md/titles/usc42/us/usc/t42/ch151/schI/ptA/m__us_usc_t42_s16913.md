@@ -39,7 +39,7 @@
 
         Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminal penalty that includes a maximum term of imprisonment that is greater than 1 year for the failure of a sex offender to comply with the requirements of this subchapter.
 
-([Pub. L. 109–248, title I, § 113][/us/pl/109/248/s113], July 27, 2006, [120 Stat. 593][/us/stat/120/593].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 113, July 27, 2006, [120 Stat. 593][/us/stat/120/593].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs113
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F593
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

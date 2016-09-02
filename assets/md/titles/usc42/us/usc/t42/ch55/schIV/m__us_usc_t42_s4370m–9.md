@@ -21,7 +21,7 @@
 
     (2) an application or other request for a Federal authorization is pending before a Federal agency 90 days after December 4, 2015.
 
-([Pub. L. 114–94, div. D, title XLI, § 41010][/us/pl/114/94/s41010], Dec. 4, 2015, [129 Stat. 1761][/us/stat/129/1761].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41010, Dec. 4, 2015, [129 Stat. 1761][/us/stat/129/1761].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s4370m–2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932%2Fa%2F1
-[/us/pl/114/94/s41010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41010
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1761
 
 

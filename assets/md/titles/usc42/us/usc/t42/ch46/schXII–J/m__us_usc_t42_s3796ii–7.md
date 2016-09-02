@@ -27,13 +27,13 @@
 
         The technical assistance, training, and evaluations authorized by this section may be carried out directly by the Attorney General, in collaboration with the Secretary of Health and Human Services, or through grants, contracts, or other cooperative arrangements with other entities.
 
-([Pub. L. 90–351, title I, § 2208][/us/pl/90/351/s2208], as added [Pub. L. 106–515, § 3(a)][/us/pl/106/515/s3/a], Nov. 13, 2000, [114 Stat. 2402][/us/stat/114/2402].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2208, as added [Pub. L. 106–515][/us/pl/106/515], § 3(a), Nov. 13, 2000, [114 Stat. 2402][/us/stat/114/2402].)
 
  __Prior Provisions__ 
 
-    A prior section 3796ii–7, [Pub. L. 90–351, title I, § 2208][/us/pl/90/351/s2208], as added [Pub. L. 103–322, title V, § 50001(a)(3)][/us/pl/103/322/s50001/a/3], Sept. 13, 1994, [108 Stat. 1957][/us/stat/108/1957], required reports by entities receiving funds, prior to repeal by [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(b)(1)(A)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    A prior section 3796ii–7, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2208, as added [Pub. L. 103–322, title V][/us/pl/103/322/tV], § 50001(a)(3), Sept. 13, 1994, [108 Stat. 1957][/us/stat/108/1957], required reports by entities receiving funds, prior to repeal by [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(b)(1)(A)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    A prior section 3796ii–8, [Pub. L. 90–351, title I, § 2209][/us/pl/90/351/s2209], as added [Pub. L. 103–322, title V, § 50001(a)(3)][/us/pl/103/322/s50001/a/3], Sept. 13, 1994, [108 Stat. 1958][/us/stat/108/1958], related to technical assistance, training, and evaluation, prior to repeal by [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(b)(1)(A)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    A prior section 3796ii–8, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2209, as added [Pub. L. 103–322, title V][/us/pl/103/322/tV], § 50001(a)(3), Sept. 13, 1994, [108 Stat. 1958][/us/stat/108/1958], related to technical assistance, training, and evaluation, prior to repeal by [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(b)(1)(A)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
 ----------
 
@@ -42,22 +42,22 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2208
-[/us/pl/106/515/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F515%2Fs3%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F515
 [/us/stat/114/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2402
-[/us/pl/90/351/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2208
-[/us/pl/103/322/s50001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs50001%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtV
 [/us/stat/108/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1957
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/90/351/s2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2209
-[/us/pl/103/322/s50001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs50001%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtV
 [/us/stat/108/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1958
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

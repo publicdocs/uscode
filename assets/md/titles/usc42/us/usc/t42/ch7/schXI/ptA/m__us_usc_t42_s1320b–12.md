@@ -171,27 +171,27 @@
 
                 (iv) education and information dissemination.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1142, as added [Pub. L. 101–239, title VI, § 6103(b)(1)][/us/pl/101/239/s6103/b/1], Dec. 19, 1989, [103 Stat. 2195][/us/stat/103/2195]; amended [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 108–173, title IX, § 900(e)(1)(C)][/us/pl/108/173/s900/e/1/C], Dec. 8, 2003, [117 Stat. 2371][/us/stat/117/2371].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1142, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(b)(1), Dec. 19, 1989, [103 Stat. 2195][/us/stat/103/2195]; amended [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(1)(C), Dec. 8, 2003, [117 Stat. 2371][/us/stat/117/2371].)
 
  __References in Text__ 
 
-    Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1653][/us/stat/113/1653]. [Section 2(a) of Pub. L. 106–129][/us/pl/106/129/s2/a] enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
+    Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1653][/us/stat/113/1653]. [Section 2(a) of Pub. L. 106–129][/us/pl/106/129/s2/a] enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
 
  __Codification__ 
 
     Subsec. (h) of this section, which required the Secretary to report biennially to Congress on the progress of the activities under this section during the preceding 2 fiscal years, including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of this chapter), terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, item 10 on page 94 of House Document No. 103–7.
 
-    Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by [Pub. L. 101–508, title V, § 5111(a)(1)][/us/pl/101/508/s5111/a/1], Nov. 5, 1990, [104 Stat. 1388–272][/us/stat/104/1388-272], and is classified to [section 1320b–13 of this title][/us/usc/t42/s1320b–13].
+    Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5111(a)(1), Nov. 5, 1990, [104 Stat. 1388–272][/us/stat/104/1388-272], and is classified to [section 1320b–13 of this title][/us/usc/t42/s1320b–13].
 
  __Amendments__ 
 
-    2003—Subsec. (b)(3). [Pub. L. 108–173, § 900(e)(1)(C)][/us/pl/108/173/s900/e/1/C], substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
+    2003—Subsec. (b)(3). [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(C), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
 
     1999—Subsec. (a)(1). [Pub. L. 106–129][/us/pl/106/129] substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research” in introductory provisions.
 
  __AHCPR Study on Effect of Credentialing of Technologists and Sonographers on Quality of Ultrasound__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 229(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–357, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title II, § 229(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–357, provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -203,7 +203,7 @@
 
  __Report on Linkage of Public and Private Research Related Data__ 
 
-[Pub. L. 101–239, title VI, § 6103(b)(2)][/us/pl/101/239/s6103/b/2], Dec. 19, 1989, [103 Stat. 2198][/us/stat/103/2198], provided that: 
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(b)(2), Dec. 19, 1989, [103 Stat. 2198][/us/stat/103/2198], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[[42 U.S.C. 1320b–12(d)][/us/usc/t42/s1320b–12/d]\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
 
@@ -219,26 +219,26 @@
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/239/s6103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fb%2F1
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2195
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
-[/us/pl/108/173/s900/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FC
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2371
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1653
 [/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/508/s5111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5111%2Fa%2F1
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-272
 [/us/usc/t42/s1320b–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9313
-[/us/pl/108/173/s900/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FC
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/101/239/s6103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fb%2F2
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2198
 [/us/usc/t42/s1320b–12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9312%2Fd
 

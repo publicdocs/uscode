@@ -17,7 +17,7 @@
 
     The Secretary may require the payment of fees for the purpose of, and in an amount sufficient to cover the cost of, administering sections 263a–1 to 263a–7 of this title. A State operating a program under [section 263a–2 of this title][/us/usc/t42/s263a–2] may require the payment of fees for the purpose of, and in an amount sufficient to cover the costs of, administering its program.
 
-([Pub. L. 102–493, § 7][/us/pl/102/493/s7], Oct. 24, 1992, [106 Stat. 3151][/us/stat/106/3151].)
+([Pub. L. 102–493][/us/pl/102/493], § 7, Oct. 24, 1992, [106 Stat. 3151][/us/stat/106/3151].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s263a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%932
-[/us/pl/102/493/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs7
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3151
 [/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3146

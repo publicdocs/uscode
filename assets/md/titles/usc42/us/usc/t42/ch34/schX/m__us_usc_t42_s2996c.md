@@ -47,13 +47,13 @@
 
         The Board shall meet at least four times during each calendar year.
 
-([Pub. L. 88–452, title X, § 1004][/us/pl/88/452/s1004], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 379][/us/stat/88/379]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 3, 4, Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1004, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 379][/us/stat/88/379]; amended [Pub. L. 95–222][/us/pl/95/222], §§ 3, 4, Dec. 28, 1977, [91 Stat. 1619][/us/stat/91/1619].)
 
  __Amendments__ 
 
-    1977—Subsec. (a). [Pub. L. 95–222, § 3][/us/pl/95/222/s3], inserted provision relating to appointments made after Dec. 28, 1977.
+    1977—Subsec. (a). [Pub. L. 95–222][/us/pl/95/222], § 3, inserted provision relating to appointments made after Dec. 28, 1977.
 
-    Subsec. (g). [Pub. L. 95–222, § 4][/us/pl/95/222/s4], substituted provisions relating to applicability of [section 552b of title 5][/us/usc/t5/s552b], for provisions setting forth requirements respecting availability of minutes of public meetings.
+    Subsec. (g). [Pub. L. 95–222][/us/pl/95/222], § 4, substituted provisions relating to applicability of [section 552b of title 5][/us/usc/t5/s552b], for provisions setting forth requirements respecting availability of minutes of public meetings.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -61,7 +61,7 @@
 
  __Compensation of Members of Board of Directors__ 
 
-[Pub. L. 97–377, title I, § 101(d)][/us/pl/97/377/s101/d], Dec. 21, 1982, [96 Stat. 1876][/us/stat/96/1876], provided: 
+[Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(d), Dec. 21, 1982, [96 Stat. 1876][/us/stat/96/1876], provided: 
 
 > “That no member of the Board of Directors of the Legal Services Corporation shall be compensated for his services to the Corporation except for the payment of an attendance fee at meetings of the Board at a rate not to exceed the highest daily rate for grade fifteen (15) of the General Schedule and necessary travel expenses to attend Board meetings in accordance with the Standard Government Travel Regulations.”
 
@@ -73,18 +73,18 @@
 ----------
 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/88/452/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1004
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F379
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1619
-[/us/pl/95/222/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs3
-[/us/pl/95/222/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs4
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/95/222/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs17%2Fb
 [/us/usc/t42/s2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996
-[/us/pl/97/377/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fd
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1876
 
 

@@ -27,19 +27,19 @@
 
         For any federally assisted housing project described in subparagraph (B), (C), (D), (E), (F), or (G) of [section 13641(2) of this title][/us/usc/t42/s13641/2] that does not receive a grant under this section, the cost of employing or otherwise retaining the services of one or more service coordinators under [section 13631 of this title][/us/usc/t42/s13631] and not more than 15 percent of the cost of providing services to the residents of the project shall be considered an eligible project expense, but only to the extent that amounts are available from project rent and other income for such costs.
 
-([Pub. L. 102–550, title VI, § 676][/us/pl/102/550/s676], Oct. 28, 1992, [106 Stat. 3828][/us/stat/106/3828]; [Pub. L. 106–569, title VIII, § 851(a)][/us/pl/106/569/s851/a], Dec. 27, 2000, [114 Stat. 3023][/us/stat/114/3023].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 676, Oct. 28, 1992, [106 Stat. 3828][/us/stat/106/3828]; [Pub. L. 106–569, title VIII][/us/pl/106/569/tVIII], § 851(a), Dec. 27, 2000, [114 Stat. 3023][/us/stat/114/3023].)
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–569, § 851(a)(1)][/us/pl/106/569/s851/a/1], substituted “certain federally assisted housing” for “multifamily housing assisted under National Housing Act” in section catchline.
+    2000—[Pub. L. 106–569][/us/pl/106/569], § 851(a)(1), substituted “certain federally assisted housing” for “multifamily housing assisted under National Housing Act” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–569, § 851(a)(2)][/us/pl/106/569/s851/a/2], substituted “subparagraphs (B), (C), (D), (E), (F), and (G) of [section 13641(2) of this title][/us/usc/t42/s13641/2]” for “subparagraphs (E) and (F) of [section 13641(2) of this title][/us/usc/t42/s13641/2]”, made technical amendment to reference in original act which appears in text as reference to [section 13631 of this title][/us/usc/t42/s13631], and inserted at end “A service coordinator funded with a grant under this section for a project may provide services to low-income elderly or disabled families living in the vicinity of such project.”
+    Subsec. (a). [Pub. L. 106–569][/us/pl/106/569], § 851(a)(2), substituted “subparagraphs (B), (C), (D), (E), (F), and (G) of [section 13641(2) of this title][/us/usc/t42/s13641/2]” for “subparagraphs (E) and (F) of [section 13641(2) of this title][/us/usc/t42/s13641/2]”, made technical amendment to reference in original act which appears in text as reference to [section 13631 of this title][/us/usc/t42/s13631], and inserted at end “A service coordinator funded with a grant under this section for a project may provide services to low-income elderly or disabled families living in the vicinity of such project.”
 
-    Subsec. (c). [Pub. L. 106–569, § 851(a)(4)][/us/pl/106/569/s851/a/4], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “There are authorized to be appropriated for fiscal years 1993 and 1994 such sums as may be necessary for grants under this section.”
+    Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 851(a)(4), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “There are authorized to be appropriated for fiscal years 1993 and 1994 such sums as may be necessary for grants under this section.”
 
-    Subsec. (d). [Pub. L. 106–569, § 851(a)(4)][/us/pl/106/569/s851/a/4], redesignated subsec. (d) as (c).
+    Subsec. (d). [Pub. L. 106–569][/us/pl/106/569], § 851(a)(4), redesignated subsec. (d) as (c).
 
-    [Pub. L. 106–569, § 851(a)(3)][/us/pl/106/569/s851/a/3], substituted “subparagraph (B), (C), (D), (E), (F), or (G) of [section 13641(2) of this title][/us/usc/t42/s13641/2]” for “subparagraph (E) or (F) of [section 13641(2) of this title][/us/usc/t42/s13641/2]” and made technical amendment to reference in original act which appears in text as reference to [section 13631 of this title][/us/usc/t42/s13631].
+    [Pub. L. 106–569][/us/pl/106/569], § 851(a)(3), substituted “subparagraph (B), (C), (D), (E), (F), or (G) of [section 13641(2) of this title][/us/usc/t42/s13641/2]” for “subparagraph (E) or (F) of [section 13641(2) of this title][/us/usc/t42/s13641/2]” and made technical amendment to reference in original act which appears in text as reference to [section 13631 of this title][/us/usc/t42/s13631].
 
  __Effective Date of 2000 Amendment__ 
 
@@ -57,18 +57,18 @@
 [/us/usc/t42/s13641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
 [/us/usc/t42/s13631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13631
-[/us/pl/102/550/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs676
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3828
-[/us/pl/106/569/s851/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fa
+[/us/pl/106/569/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVIII
 [/us/stat/114/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3023
-[/us/pl/106/569/s851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fa%2F1
-[/us/pl/106/569/s851/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fa%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
 [/us/usc/t42/s13631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13631
-[/us/pl/106/569/s851/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fa%2F4
-[/us/pl/106/569/s851/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fa%2F4
-[/us/pl/106/569/s851/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs851%2Fa%2F3
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
 [/us/usc/t42/s13641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13641%2F2
 [/us/usc/t42/s13631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13631

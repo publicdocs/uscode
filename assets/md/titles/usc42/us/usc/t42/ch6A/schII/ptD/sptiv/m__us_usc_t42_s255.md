@@ -87,17 +87,17 @@
 
         For purposes of this section, the term “home health services” has the meaning prescribed for the term by [section 1395x(m) of this title][/us/usc/t42/s1395x/m].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 339, as added [Pub. L. 97–414, § 6(a)][/us/pl/97/414/s6/a], Jan. 4, 1983, [96 Stat. 2057][/us/stat/96/2057]; amended [Pub. L. 98–555, § 6][/us/pl/98/555/s6], Oct. 30, 1984, [98 Stat. 2856][/us/stat/98/2856].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 339, as added [Pub. L. 97–414][/us/pl/97/414], § 6(a), Jan. 4, 1983, [96 Stat. 2057][/us/stat/96/2057]; amended [Pub. L. 98–555][/us/pl/98/555], § 6, Oct. 30, 1984, [98 Stat. 2856][/us/stat/98/2856].)
 
  __References in Text__ 
 
-    Subsections (a) and (b) of this section (as such subsections were in effect prior to October 1, 1981), referred to in subsec. (c)(1), mean subsections (a) and (b) of [section 255 of this title][/us/usc/t42/s255] prior to repeal of section 255 by [Pub. L. 97–35, title IX, § 902(b)][/us/pl/97/35/s902/b], Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], effective Oct. 1, 1981.
+    Subsections (a) and (b) of this section (as such subsections were in effect prior to October 1, 1981), referred to in subsec. (c)(1), mean subsections (a) and (b) of [section 255 of this title][/us/usc/t42/s255] prior to repeal of section 255 by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(b), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], effective Oct. 1, 1981.
 
  __Prior Provisions__ 
 
-    A prior section 255, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 339, as added Nov. 10, 1978, [Pub. L. 95–626, title II, § 207(a)][/us/pl/95/626/s207/a], [92 Stat. 3585][/us/stat/92/3585], related to grant authority, etc., for home health services, prior to repeal by [Pub. L. 97–35, title IX, § 902(b)][/us/pl/97/35/s902/b], (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561, eff. Oct. 1, 1981.
+    A prior section 255, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 339, as added Nov. 10, 1978, [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 207(a), [92 Stat. 3585][/us/stat/92/3585], related to grant authority, etc., for home health services, prior to repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(b), (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561, eff. Oct. 1, 1981.
 
-    Another prior section 339 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, formerly § 331, [58 Stat. 698][/us/stat/58/698]; [June 25, 1948, ch. 654, § 4][/us/act/1948-06-25/ch654/s4], [62 Stat. 1018][/us/stat/62/1018]; [June 25, 1952, ch. 460][/us/act/1952-06-25/ch460], [66 Stat. 157][/us/stat/66/157]; July 12, 1960, [Pub. L. 86–624, § 29(b)][/us/pl/86/624/s29/b], [74 Stat. 419][/us/stat/74/419]; renumbered § 339, Oct. 12, 1976, [Pub. L. 94–484, title IV, § 407(b)(2)][/us/pl/94/484/s407/b/2], [90 Stat. 2268][/us/stat/90/2268], which related to reception of persons suffering from leprosy in any hospital, was renumbered section 320 of act July 1, 1944, and transferred to [section 247e of this title][/us/usc/t42/s247e].
+    Another prior section 339 of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], formerly § 331, [58 Stat. 698][/us/stat/58/698]; [June 25, 1948, ch. 654][/us/act/1948-06-25/ch654], § 4, [62 Stat. 1018][/us/stat/62/1018]; [June 25, 1952, ch. 460][/us/act/1952-06-25/ch460], [66 Stat. 157][/us/stat/66/157]; July 12, 1960, [Pub. L. 86–624][/us/pl/86/624], § 29(b), [74 Stat. 419][/us/stat/74/419]; renumbered § 339, Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(2), [90 Stat. 2268][/us/stat/90/2268], which related to reception of persons suffering from leprosy in any hospital, was renumbered section 320 of act July 1, 1944, and transferred to [section 247e of this title][/us/usc/t42/s247e].
 
  __Amendments__ 
 
@@ -111,7 +111,7 @@
 
  __Report to Congress Concerning Results of Studies Evaluating Home and Community Based Health Services; Studies of Reimbursement Methodologies; Investigation of Fraud; Demonstration Projects; Home Health Services, Defined__ 
 
-    [Pub. L. 97–414, § 6(b)][/us/pl/97/414/s6/b]–(f), Jan. 4, 1983, [96 Stat. 2058][/us/stat/96/2058], 2059, directed Secretary of Health and Human Services to report results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and extent to which such methods are applied and to report results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan. 1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined “home health services” for purposes of this section.
+    [Pub. L. 97–414][/us/pl/97/414], § 6(b)–(f), Jan. 4, 1983, [96 Stat. 2058][/us/stat/96/2058], 2059, directed Secretary of Health and Human Services to report results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and extent to which such methods are applied and to report results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan. 1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined “home health services” for purposes of this section.
 
 ----------
 
@@ -122,33 +122,33 @@
 
 [/us/usc/t42/s1395x/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fm
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/414/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs6%2Fa
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2057
-[/us/pl/98/555/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs6
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/stat/98/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2856
 [/us/usc/t42/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs255
-[/us/pl/97/35/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/626/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs207%2Fa
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3585
-[/us/pl/97/35/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/stat/58/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F698
-[/us/act/1948-06-25/ch654/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654%2Fs4
+[/us/act/1948-06-25/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654
 [/us/stat/62/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1018
 [/us/act/1952-06-25/ch460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-25%2Fch460
 [/us/stat/66/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F157
-[/us/pl/86/624/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs29%2Fb
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F419
-[/us/pl/94/484/s407/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F2
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
 [/us/usc/t42/s247e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247e
 [/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/97/414/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs6%2Fb
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2058
 
 

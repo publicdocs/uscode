@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch92/schVIII/m__us_usc_t42_ch92_schVIII.md) | [Next](./../../../../..//us/usc/t42/ch92/schVIII/m__us_usc_t42_s8482.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8481)
 
-## § 8481. Repealed. [Pub. L. 100–42, § 1(a)(7)][/us/pl/100/42/s1/a/7], May 21, 1987, [101 Stat. 310][/us/stat/101/310]
+## § 8481. Repealed. [Pub. L. 100–42][/us/pl/100/42], § 1(a)(7), May 21, 1987, [101 Stat. 310][/us/stat/101/310]
 
-    Section, [Pub. L. 95–620, title VIII, § 801][/us/pl/95/620/s801], Nov. 9, 1978, [92 Stat. 3346][/us/stat/92/3346], required annual disclosure of extent, characteristics, and productive capacity of coal reserves, and of interests held therein, with discretionary exception for small reserves, and publication of such information by Secretary.
+    Section, [Pub. L. 95–620, title VIII][/us/pl/95/620/tVIII], § 801, Nov. 9, 1978, [92 Stat. 3346][/us/stat/92/3346], required annual disclosure of extent, characteristics, and productive capacity of coal reserves, and of interests held therein, with discretionary exception for small reserves, and publication of such information by Secretary.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/100/42/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fa%2F7
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F310
-[/us/pl/95/620/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs801
+[/us/pl/95/620/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVIII
 [/us/stat/92/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3346
 
 

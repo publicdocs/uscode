@@ -419,53 +419,53 @@
 
         (2) For purposes of this subsection, the term “military munitions” includes chemical and conventional munitions.
 
-([Pub. L. 89–272, title II, § 3004][/us/pl/89/272/s3004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2807][/us/stat/90/2807]; amended [Pub. L. 96–482, § 9][/us/pl/96/482/s9], Oct. 21, 1980, [94 Stat. 2338][/us/stat/94/2338]; [Pub. L. 98–616, title II][/us/pl/98/616], §§ 201(a), 202(a), 203, 204(b)(1), 205–209, Nov. 8, 1984, [98 Stat. 3226][/us/stat/98/3226], 3233, 3234, 3236, 3238–3240; [Pub. L. 102–386, title I, § 107][/us/pl/102/386/s107], Oct. 6, 1992, [106 Stat. 1513][/us/stat/106/1513]; [Pub. L. 104–119][/us/pl/104/119], §§ 2, 4(2)–(5), Mar. 26, 1996, [110 Stat. 830][/us/stat/110/830], 833.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3004, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2807][/us/stat/90/2807]; amended [Pub. L. 96–482][/us/pl/96/482], § 9, Oct. 21, 1980, [94 Stat. 2338][/us/stat/94/2338]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], §§ 201(a), 202(a), 203, 204(b)(1), 205–209, Nov. 8, 1984, [98 Stat. 3226][/us/stat/98/3226], 3233, 3234, 3236, 3238–3240; [Pub. L. 102–386, title I][/us/pl/102/386/tI], § 107, Oct. 6, 1992, [106 Stat. 1513][/us/stat/106/1513]; [Pub. L. 104–119][/us/pl/104/119], §§ 2, 4(2)–(5), Mar. 26, 1996, [110 Stat. 830][/us/stat/110/830], 833.)
 
  __References in Text__ 
 
-    [Section 6922(5) of this title][/us/usc/t42/s6922/5], referred to in subsec. (a)(2), was redesignated [section 6922(a)(5) of this title][/us/usc/t42/s6922/a/5], by [Pub. L. 98–616, title II, § 224(a)(1)][/us/pl/98/616/s224/a/1], Nov. 8, 1984, [98 Stat. 3253][/us/stat/98/3253].
+    [Section 6922(5) of this title][/us/usc/t42/s6922/5], referred to in subsec. (a)(2), was redesignated [section 6922(a)(5) of this title][/us/usc/t42/s6922/a/5], by [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 224(a)(1), Nov. 8, 1984, [98 Stat. 3253][/us/stat/98/3253].
 
-    The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    [Section 6979a of this title][/us/usc/t42/s6979a], referred to in subsec. (f)(4), was in the original a reference to [section 7010 of Pub. L. 89–272][/us/pl/89/272/s7010], which was renumbered [section 3020 of Pub. L. 89–272][/us/pl/89/272/s3020] by [Pub. L. 99–339, title II, § 201(c)][/us/pl/99/339/s201/c], June 19, 1986, [100 Stat. 654][/us/stat/100/654], and transferred to [section 6939b of this title][/us/usc/t42/s6939b].
+    [Section 6979a of this title][/us/usc/t42/s6979a], referred to in subsec. (f)(4), was in the original a reference to [section 7010 of Pub. L. 89–272][/us/pl/89/272/s7010], which was renumbered [section 3020 of Pub. L. 89–272][/us/pl/89/272/s3020] by [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 201(c), June 19, 1986, [100 Stat. 654][/us/stat/100/654], and transferred to [section 6939b of this title][/us/usc/t42/s6939b].
 
-    The Paperwork Reduction Act of 1980, referred to in subsec. (g)(3), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
+    The Paperwork Reduction Act of 1980, referred to in subsec. (g)(3), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
 
     The Federal Bankruptcy Code, referred to in subsec. (t)(2), probably means a reference to Title 11, Bankruptcy.
 
  __Amendments__ 
 
-    1996—Subsec. (g)(5). [Pub. L. 104–119, § 4(3)][/us/pl/104/119/s4/3], substituted “subparagraphs (A) through (C)” for “subparagraph (A) through (C)”.
+    1996—Subsec. (g)(5). [Pub. L. 104–119][/us/pl/104/119], § 4(3), substituted “subparagraphs (A) through (C)” for “subparagraph (A) through (C)”.
 
-    Subsec. (g)(7) to (11). [Pub. L. 104–119, § 2][/us/pl/104/119/s2], added pars. (7) to (11).
+    Subsec. (g)(7) to (11). [Pub. L. 104–119][/us/pl/104/119], § 2, added pars. (7) to (11).
 
-    Subsec. (q)(1)(C). [Pub. L. 104–119, § 4(2)][/us/pl/104/119/s4/2], inserted a semicolon at end of subpar. (C).
+    Subsec. (q)(1)(C). [Pub. L. 104–119][/us/pl/104/119], § 4(2), inserted a semicolon at end of subpar. (C).
 
-    Subsec. (r)(2)(C). [Pub. L. 104–119, § 4(4)][/us/pl/104/119/s4/4], substituted “petroleum-derived” for “pertroleum-derived”.
+    Subsec. (r)(2)(C). [Pub. L. 104–119][/us/pl/104/119], § 4(4), substituted “petroleum-derived” for “pertroleum-derived”.
 
-    Subsec. (r)(3). [Pub. L. 104–119, § 4(5)][/us/pl/104/119/s4/5], inserted “Industrial” after “Standard”.
+    Subsec. (r)(3). [Pub. L. 104–119][/us/pl/104/119], § 4(5), inserted “Industrial” after “Standard”.
 
     1992—Subsec. (y). [Pub. L. 102–386][/us/pl/102/386] added subsec. (y).
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 201(a)][/us/pl/98/616/s201/a], designated existing provisions as subsec. (a).
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 201(a), designated existing provisions as subsec. (a).
 
-    Subsec. (a)(6). [Pub. L. 98–616, § 208][/us/pl/98/616/s208], inserted “(including financial responsibility for corrective action)”.
+    Subsec. (a)(6). [Pub. L. 98–616][/us/pl/98/616], § 208, inserted “(including financial responsibility for corrective action)”.
 
-    Subsecs. (b) to (n). [Pub. L. 98–616, § 201(a)][/us/pl/98/616/s201/a], added subsecs. (b) to (n).
+    Subsecs. (b) to (n). [Pub. L. 98–616][/us/pl/98/616], § 201(a), added subsecs. (b) to (n).
 
-    Subsec. (o). [Pub. L. 98–616, § 202(a)][/us/pl/98/616/s202/a], added subsec. (o).
+    Subsec. (o). [Pub. L. 98–616][/us/pl/98/616], § 202(a), added subsec. (o).
 
-    Subsec. (p). [Pub. L. 98–616, § 203][/us/pl/98/616/s203], added subsec. (p).
+    Subsec. (p). [Pub. L. 98–616][/us/pl/98/616], § 203, added subsec. (p).
 
-    Subsecs. (q) to (s). [Pub. L. 98–616, § 204(b)(1)][/us/pl/98/616/s204/b/1], added subsecs. (q) to (s).
+    Subsecs. (q) to (s). [Pub. L. 98–616][/us/pl/98/616], § 204(b)(1), added subsecs. (q) to (s).
 
-    Subsec. (t). [Pub. L. 98–616, § 205][/us/pl/98/616/s205], added subsec. (t).
+    Subsec. (t). [Pub. L. 98–616][/us/pl/98/616], § 205, added subsec. (t).
 
-    Subsec. (u). [Pub. L. 98–616, § 206][/us/pl/98/616/s206], added subsec. (u).
+    Subsec. (u). [Pub. L. 98–616][/us/pl/98/616], § 206, added subsec. (u).
 
-    Subsecs. (v), (w). [Pub. L. 98–616, § 207][/us/pl/98/616/s207], added subsecs. (v) and (w).
+    Subsecs. (v), (w). [Pub. L. 98–616][/us/pl/98/616], § 207, added subsecs. (v) and (w).
 
-    Subsec. (x). [Pub. L. 98–616, § 209][/us/pl/98/616/s209], added subsec. (x).
+    Subsec. (x). [Pub. L. 98–616][/us/pl/98/616], § 209, added subsec. (x).
 
     1980—[Pub. L. 96–482][/us/pl/96/482] required standards regulations to reflect distinction in requirements appropriate for new facilities and for facilities in existence on date of promulgation of the regulations.
 
@@ -521,51 +521,51 @@
 [/us/usc/t42/s6930/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6930%2Fb
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b
 [/us/usc/t42/s6925/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fj
-[/us/pl/89/272/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3004
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2807
-[/us/pl/96/482/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs9
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2338
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3226
-[/us/pl/102/386/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs107
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1513
 [/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/stat/110/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F830
 [/us/usc/t42/s6922/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6922%2F5
 [/us/usc/t42/s6922/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6922%2Fa%2F5
-[/us/pl/98/616/s224/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs224%2Fa%2F1
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3253
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s6979a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6979a
 [/us/pl/89/272/s7010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7010
 [/us/pl/89/272/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3020
-[/us/pl/99/339/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fc
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F654
 [/us/usc/t42/s6939b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6939b
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
-[/us/pl/104/119/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F3
-[/us/pl/104/119/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs2
-[/us/pl/104/119/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F2
-[/us/pl/104/119/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F4
-[/us/pl/104/119/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F5
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/pl/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386
-[/us/pl/98/616/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs201%2Fa
-[/us/pl/98/616/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs208
-[/us/pl/98/616/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs201%2Fa
-[/us/pl/98/616/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs202%2Fa
-[/us/pl/98/616/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs203
-[/us/pl/98/616/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs204%2Fb%2F1
-[/us/pl/98/616/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs205
-[/us/pl/98/616/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs206
-[/us/pl/98/616/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs207
-[/us/pl/98/616/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs209
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

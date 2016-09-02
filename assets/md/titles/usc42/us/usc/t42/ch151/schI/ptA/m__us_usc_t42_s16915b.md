@@ -129,7 +129,7 @@
 
             Nothing in this section shall be construed to require any Internet website, including a social networking website, to use the system, and no Federal or State liability, or any other actionable adverse consequence, shall be imposed on such website based on its decision not to do so.
 
-([Pub. L. 110–400, § 3][/us/pl/110/400/s3], Oct. 13, 2008, [122 Stat. 4225][/us/stat/122/4225].)
+([Pub. L. 110–400][/us/pl/110/400], § 3, Oct. 13, 2008, [122 Stat. 4225][/us/stat/122/4225].)
 
  __References in Text__ 
 
@@ -146,7 +146,7 @@
 ----------
 ----------
 
-[/us/pl/110/400/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400%2Fs3
+[/us/pl/110/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400
 [/us/stat/122/4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4225
 [/us/pl/110/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400
 [/us/stat/122/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4224

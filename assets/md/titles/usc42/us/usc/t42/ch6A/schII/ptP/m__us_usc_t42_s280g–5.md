@@ -59,11 +59,11 @@
 
         There is authorized to be appropriated to carry out this section $1,900,000 for each of fiscal years 2014 through 2018.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399Q, as added [Pub. L. 109–450, § 4(2)][/us/pl/109/450/s4/2], Dec. 22, 2006, [120 Stat. 3342][/us/stat/120/3342]; amended [Pub. L. 113–55, title I, § 103(b)][/us/pl/113/55/s103/b], Nov. 27, 2013, [127 Stat. 642][/us/stat/127/642].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399Q, as added [Pub. L. 109–450][/us/pl/109/450], § 4(2), Dec. 22, 2006, [120 Stat. 3342][/us/stat/120/3342]; amended [Pub. L. 113–55, title I][/us/pl/113/55/tI], § 103(b), Nov. 27, 2013, [127 Stat. 642][/us/stat/127/642].)
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–55, § 103(b)(1)(A)][/us/pl/113/55/s103/b/1/A], added subpars. (A) to (F) and struck out former subpars. (A) to (F) which read as follows:
+    2013—Subsec. (b)(1). [Pub. L. 113–55][/us/pl/113/55], § 103(b)(1)(A), added subpars. (A) to (F) and struck out former subpars. (A) to (F) which read as follows:
 
     “(A) the signs of preterm labor, updated as new research results become available;
 
@@ -77,9 +77,9 @@
 
     “(F) appropriate prenatal care;”.
 
-    Subsec. (b)(2). [Pub. L. 113–55, § 103(b)(1)(B)][/us/pl/113/55/s103/b/1/B], added par. (2) and struck out former par. (2) which read as follows: “programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;”.
+    Subsec. (b)(2). [Pub. L. 113–55][/us/pl/113/55], § 103(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;”.
 
-    Subsec. (c). [Pub. L. 113–55, § 103(b)(2)][/us/pl/113/55/s103/b/2], substituted “$1,900,000 for each of fiscal years 2014 through 2018.” for “$5,000,000 for each of fiscal years 2007 through 2011.”
+    Subsec. (c). [Pub. L. 113–55][/us/pl/113/55], § 103(b)(2), substituted “$1,900,000 for each of fiscal years 2014 through 2018.” for “$5,000,000 for each of fiscal years 2007 through 2011.”
 
 ----------
 
@@ -89,12 +89,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/450/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs4%2F2
+[/us/pl/109/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450
 [/us/stat/120/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3342
-[/us/pl/113/55/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb
+[/us/pl/113/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2FtI
 [/us/stat/127/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F642
-[/us/pl/113/55/s103/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb%2F1%2FA
-[/us/pl/113/55/s103/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb%2F1%2FB
-[/us/pl/113/55/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb%2F2
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
 
 

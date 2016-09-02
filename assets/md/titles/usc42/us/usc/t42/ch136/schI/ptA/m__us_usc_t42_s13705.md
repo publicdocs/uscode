@@ -47,11 +47,11 @@
 
         For purposes of this part, “part 1 violent crime” means a part 1 violent crime as defined in section 13701(3)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “13701(2)”. </sup></sup>  of this title, or a crime in a reasonably comparable class of serious violent crimes as approved by the Attorney General.
 
-([Pub. L. 103–322, title II, § 20105][/us/pl/103/322/s20105], as added [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–17; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 105–277, div. E, § 3][/us/pl/105/277/s3], Oct. 21, 1998, [112 Stat. 2681–760][/us/stat/112/2681-760]; [Pub. L. 107–273, div. A, title III, § 307][/us/pl/107/273/s307], Nov. 2, 2002, [116 Stat. 1783][/us/stat/116/1783].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20105, as added [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–17; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 105–277, div. E][/us/pl/105/277/dE], § 3, Oct. 21, 1998, [112 Stat. 2681–760][/us/stat/112/2681-760]; [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 307, Nov. 2, 2002, [116 Stat. 1783][/us/stat/116/1783].)
 
  __Prior Provisions__ 
 
-    A prior section 13705, [Pub. L. 103–322, title II, § 20105][/us/pl/103/322/s20105], Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], related to rules and regulations prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
+    A prior section 13705, [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20105, Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], related to rules and regulations prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
 
  __Amendments__ 
 
@@ -68,16 +68,16 @@
 
 [/us/usc/t42/s13706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13706
 [/us/usc/t42/s13702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13702
-[/us/pl/103/322/s20105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20105
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/277/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs3
+[/us/pl/105/277/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdE
 [/us/stat/112/2681-760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-760
-[/us/pl/107/273/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs307
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1783
-[/us/pl/103/322/s20105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20105
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1818
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

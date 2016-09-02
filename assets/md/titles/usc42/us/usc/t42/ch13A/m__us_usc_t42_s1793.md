@@ -127,7 +127,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2010 through 2015.
 
-([Pub. L. 89–642, § 23][/us/pl/89/642/s23], as added [Pub. L. 111–296, title I, § 105][/us/pl/111/296/s105], Dec. 13, 2010, [124 Stat. 3201][/us/stat/124/3201].)
+([Pub. L. 89–642][/us/pl/89/642], § 23, as added [Pub. L. 111–296, title I][/us/pl/111/296/tI], § 105, Dec. 13, 2010, [124 Stat. 3201][/us/stat/124/3201].)
 
  __References in Text__ 
 
@@ -146,8 +146,8 @@
 
 [/us/usc/t42/s1773/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773%2Fd%2F1
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/89/642/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs23
-[/us/pl/111/296/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs105
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
+[/us/pl/111/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtI
 [/us/stat/124/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3201
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230

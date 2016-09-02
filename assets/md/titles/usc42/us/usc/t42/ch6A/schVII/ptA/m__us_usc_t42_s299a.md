@@ -63,11 +63,11 @@
 
         Nothing in this section shall be construed to imply that the Agency’s role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 902, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1654][/us/stat/113/1654]; amended [Pub. L. 106–525, title II, § 201(a)(1)][/us/pl/106/525/s201/a/1], Nov. 22, 2000, [114 Stat. 2505][/us/stat/114/2505].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 902, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1654][/us/stat/113/1654]; amended [Pub. L. 106–525, title II][/us/pl/106/525/tII], § 201(a)(1), Nov. 22, 2000, [114 Stat. 2505][/us/stat/114/2505].)
 
  __References in Text__ 
 
-    [Section 288(d)(3) of this title][/us/usc/t42/s288/d/3], referred to in subsec. (b)(1), was repealed by [Pub. L. 109–482, title I, § 103(b)(47)][/us/pl/109/482/s103/b/47], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].
+    [Section 288(d)(3) of this title][/us/usc/t42/s288/d/3], referred to in subsec. (b)(1), was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(47), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].
 
     The Social Security Act, referred to in subsec. (d), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -75,9 +75,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 299a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 902, as added [Pub. L. 101–239, title VI, § 6103(a)][/us/pl/101/239/s6103/a], Dec. 19, 1989, [103 Stat. 2189][/us/stat/103/2189]; amended [Pub. L. 101–639, § 3(d)][/us/pl/101/639/s3/d], Nov. 28, 1990, [104 Stat. 4603][/us/stat/104/4603]; [Pub. L. 102–410, § 2(b)][/us/pl/102/410/s2/b], Oct. 13, 1992, [106 Stat. 2094][/us/stat/106/2094], required Administrator to conduct and support research, demonstration projects, evaluations, training, guideline development, and dissemination of information on health care services and on systems for delivery of such services, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
+    A prior section 299a, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 902, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(a), Dec. 19, 1989, [103 Stat. 2189][/us/stat/103/2189]; amended [Pub. L. 101–639][/us/pl/101/639], § 3(d), Nov. 28, 1990, [104 Stat. 4603][/us/stat/104/4603]; [Pub. L. 102–410][/us/pl/102/410], § 2(b), Oct. 13, 1992, [106 Stat. 2094][/us/stat/106/2094], required Administrator to conduct and support research, demonstration projects, evaluations, training, guideline development, and dissemination of information on health care services and on systems for delivery of such services, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
 
-    Another prior section 299a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 901, as added Oct. 6, 1965, [Pub. L. 89–239, § 2][/us/pl/89/239/s2], [79 Stat. 926][/us/stat/79/926]; amended Oct. 15, 1968, [Pub. L. 90–574, title I][/us/pl/90/574], §§ 101, 102, 107, [82 Stat. 1005][/us/stat/82/1005], 1006; June 30, 1970, [Pub. L. 91–296, title IV, § 401(b)(1)(F)][/us/pl/91/296/s401/b/1/F], [84 Stat. 352][/us/stat/84/352]; Oct. 30, 1970, [Pub. L. 91–515, title I, § 103][/us/pl/91/515/s103], [84 Stat. 1298][/us/stat/84/1298]; June 18, 1973, [Pub. L. 93–45, title I, § 110][/us/pl/93/45/s110], [87 Stat. 93][/us/stat/87/93], authorized appropriations for grants and contracts to carry out purposes of this subchapter and set forth extent of and limitations on grants, prior to repeal by [Pub. L. 99–117, § 12(d)][/us/pl/99/117/s12/d], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    Another prior section 299a, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 901, as added Oct. 6, 1965, [Pub. L. 89–239][/us/pl/89/239], § 2, [79 Stat. 926][/us/stat/79/926]; amended Oct. 15, 1968, [Pub. L. 90–574, title I][/us/pl/90/574/tI], §§ 101, 102, 107, [82 Stat. 1005][/us/stat/82/1005], 1006; June 30, 1970, [Pub. L. 91–296, title IV][/us/pl/91/296/tIV], § 401(b)(1)(F), [84 Stat. 352][/us/stat/84/352]; Oct. 30, 1970, [Pub. L. 91–515, title I][/us/pl/91/515/tI], § 103, [84 Stat. 1298][/us/stat/84/1298]; June 18, 1973, [Pub. L. 93–45, title I][/us/pl/93/45/tI], § 110, [87 Stat. 93][/us/stat/87/93], authorized appropriations for grants and contracts to carry out purposes of this subchapter and set forth extent of and limitations on grants, prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(d), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
     A prior section 902 of act July 1, 1944, was classified to [section 299b of this title][/us/usc/t42/s299b] prior to repeal by [Pub. L. 99–117][/us/pl/99/117].
 
@@ -87,7 +87,7 @@
 
  __Reducing Administrative Health Care Costs__ 
 
-[Pub. L. 103–43, title XIX, § 1909][/us/pl/103/43/s1909], June 10, 1993, [107 Stat. 205][/us/stat/107/205], as amended by [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 108–173, title IX, § 900(e)(6)(F)][/us/pl/108/173/s900/e/6/F], Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374], provided that: 
+[Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1909, June 10, 1993, [107 Stat. 205][/us/stat/107/205], as amended by [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(6)(F), Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374], provided that: 
 
 > “The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Centers for Medicare & Medicaid Services, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
 
@@ -124,12 +124,12 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1320b–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9312
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1654
-[/us/pl/106/525/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs201%2Fa%2F1
+[/us/pl/106/525/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtII
 [/us/stat/114/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2505
 [/us/usc/t42/s288/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%2Fd%2F3
-[/us/pl/109/482/s103/b/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F47
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -137,35 +137,35 @@
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/stat/81/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F821
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fa
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2189
-[/us/pl/101/639/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639%2Fs3%2Fd
+[/us/pl/101/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639
 [/us/stat/104/4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4603
-[/us/pl/102/410/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs2%2Fb
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2094
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239%2Fs2
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/89/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239
 [/us/stat/79/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F926
-[/us/pl/90/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574
+[/us/pl/90/574/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2FtI
 [/us/stat/82/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1005
-[/us/pl/91/296/s401/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs401%2Fb%2F1%2FF
+[/us/pl/91/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtIV
 [/us/stat/84/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F352
-[/us/pl/91/515/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs103
+[/us/pl/91/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtI
 [/us/stat/84/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1298
-[/us/pl/93/45/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs110
+[/us/pl/93/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2FtI
 [/us/stat/87/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F93
-[/us/pl/99/117/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fd
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/usc/t42/s299b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/pl/106/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525
-[/us/pl/103/43/s1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1909
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F205
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
-[/us/pl/108/173/s900/e/6/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F6%2FF
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2374
 
 

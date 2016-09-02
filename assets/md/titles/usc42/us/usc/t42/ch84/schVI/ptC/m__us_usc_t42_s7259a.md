@@ -63,11 +63,11 @@
 
         This section does not apply to the practice of the Department of Energy with respect to user fees at Department facilities.
 
-([Pub. L. 105–261, div. C, title XXXI, § 3137][/us/pl/105/261/s3137], Oct. 17, 1998, [112 Stat. 2248][/us/stat/112/2248].)
+([Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3137, Oct. 17, 1998, [112 Stat. 2248][/us/stat/112/2248].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(A), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(A), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The Energy Reorganization Act of 1974, referred to in subsec. (a)(2)(B), is [Pub. L. 93–438][/us/pl/93/438], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], as amended, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title][/us/usc/t42/s5801] and Tables.
 
@@ -88,10 +88,10 @@
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/usc/t42/s2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2053
-[/us/pl/105/261/s3137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3137
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2248
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438

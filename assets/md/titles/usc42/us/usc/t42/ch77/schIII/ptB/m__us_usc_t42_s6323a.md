@@ -17,7 +17,7 @@
 
     For the base State Energy Conservation Program (part D of the Energy Policy and Conservation Act, sections 361 through 366 \[[42 U.S.C. 6321–632][/us/usc/t42/s6321–632]6\]), each State will hereafter match in cash or in kind not less than 20 percent of the Federal contribution.
 
-([Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title II\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1861.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(c) \[title II\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1861.)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
     Provisions similar to those in this section were contained in the following prior appropriation act:
 
-    [Pub. L. 98–146, title II][/us/pl/98/146], Nov. 4, 1983, [97 Stat. 942][/us/stat/97/942].
+    [Pub. L. 98–146, title II][/us/pl/98/146/tII], Nov. 4, 1983, [97 Stat. 942][/us/stat/97/942].
 
 ----------
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/usc/t42/s6321–632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6321%E2%80%93632
-[/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
+[/us/pl/98/146/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2FtII
 [/us/stat/97/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F942
 
 

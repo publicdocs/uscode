@@ -67,7 +67,7 @@
 
         (I) the number of claims involving damages in excess of the maximum amount of flood insurance available under the National Flood Insurance Program and the sum of the amount of all damages in excess of such amount.
 
-([Pub. L. 112–141, div. F, title II, § 100231(b)][/us/pl/112/141/s100231/b], July 6, 2012, [126 Stat. 950][/us/stat/126/950].)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100231(b), July 6, 2012, [126 Stat. 950][/us/stat/126/950].)
 
  __References in Text__ 
 
@@ -90,7 +90,7 @@
 
 [/us/usc/t42/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4017
 [/us/usc/t42/s4104c/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104c%2Fc%2F4
-[/us/pl/112/141/s100231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100231%2Fb
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F950
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F405

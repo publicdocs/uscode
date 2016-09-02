@@ -49,7 +49,7 @@
 
         (3) The Secretary, after reviewing any other comments made by such agencies and revising the mission plan to the extent that the Secretary may consider to be appropriate, shall submit the mission plan to the appropriate committees of the Congress not later than 17 months after January 7, 1983. The mission plan shall be used by the Secretary at the end of the first period of 30 calendar days (not including any day on which either House of Congress is not in session because of adjournment of more than 3 calendar days to a day certain) following receipt of the mission plan by the Congress.
 
-([Pub. L. 97–425, title III, § 301][/us/pl/97/425/s301], Jan. 7, 1983, [96 Stat. 2255][/us/stat/96/2255].)
+([Pub. L. 97–425, title III][/us/pl/97/425/tIII], § 301, Jan. 7, 1983, [96 Stat. 2255][/us/stat/96/2255].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s10132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10132%2Fa
-[/us/pl/97/425/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs301
+[/us/pl/97/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIII
 [/us/stat/96/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2255
 
 

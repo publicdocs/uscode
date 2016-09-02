@@ -17,7 +17,7 @@
 
     None of the funds provided under this Act or an amendment made by this Act shall be used to provide individuals with hypodermic needles or syringes so that such individuals may use illegal drugs, unless the Surgeon General of the Public Health Service determines that a demonstration needle exchange program would be effective in reducing drug abuse and the risk that the public will become infected with the etiologic agent for acquired immune deficiency syndrome.
 
-([Pub. L. 100–607, title II, § 256(b)][/us/pl/100/607/s256/b], Nov. 4, 1988, [102 Stat. 3110][/us/stat/102/3110]; [Pub. L. 100–690, title II, § 2602(d)(1)][/us/pl/100/690/s2602/d/1], Nov. 18, 1988, [102 Stat. 4234][/us/stat/102/4234].)
+([Pub. L. 100–607, title II][/us/pl/100/607/tII], § 256(b), Nov. 4, 1988, [102 Stat. 3110][/us/stat/102/3110]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2602(d)(1), Nov. 18, 1988, [102 Stat. 4234][/us/stat/102/4234].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/100/607/s256/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs256%2Fb
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3110
-[/us/pl/100/690/s2602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2602%2Fd%2F1
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4234
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/stat/102/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3048

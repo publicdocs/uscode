@@ -99,7 +99,7 @@
 
         (4) such other information as the Secretary may require.
 
-([Pub. L. 106–402, title III, § 304][/us/pl/106/402/s304], Oct. 30, 2000, [114 Stat. 1735][/us/stat/114/1735].)
+([Pub. L. 106–402, title III][/us/pl/106/402/tIII], § 304, Oct. 30, 2000, [114 Stat. 1735][/us/stat/114/1735].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
 [/us/usc/t42/s15009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15009
 [/us/usc/t20/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1451
-[/us/pl/106/402/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs304
+[/us/pl/106/402/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIII
 [/us/stat/114/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1735
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–1.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2 _us_usc_t42_s247d–3.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
 
 ## § 247d–3a. Improving State and local public health security
 
@@ -51,7 +51,7 @@
 
                 (vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders in public health emergency preparedness and response;
 
-                (vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in [section 7801(41) of title 20][/us/usc/t20/s7801/41]) and State child care lead agencies (designated under [section 9858b of this title][/us/usc/t42/s9858b]);
+                (vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in [section 7801 of title 20][/us/usc/t20/s7801]) and State child care lead agencies (designated under [section 9858b of this title][/us/usc/t42/s9858b]);
 
                 (viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
 
@@ -319,7 +319,7 @@
 
         The Secretary shall compile the data submitted under this section and make such data available in a timely manner on an appropriate Internet website in a format that is useful to the public and to other entities and that provides information on what activities are best contributing to the achievement of the outcome goals described in subsection (g).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319C–1, as added [Pub. L. 107–188, title I, § 131(a)][/us/pl/107/188/s131/a], June 12, 2002, [116 Stat. 617][/us/stat/116/617]; amended [Pub. L. 109–417, title II, § 201][/us/pl/109/417/s201], Dec. 19, 2006, [120 Stat. 2837][/us/stat/120/2837]; [Pub. L. 113–5, title II][/us/pl/113/5], §§ 202(a), (c)(1), 204(b), Mar. 13, 2013, [127 Stat. 173][/us/stat/127/173], 175, 179.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319C–1, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 131(a), June 12, 2002, [116 Stat. 617][/us/stat/116/617]; amended [Pub. L. 109–417, title II][/us/pl/109/417/tII], § 201, Dec. 19, 2006, [120 Stat. 2837][/us/stat/120/2837]; [Pub. L. 113–5, title II][/us/pl/113/5/tII], §§ 202(a), (c)(1), 204(b), Mar. 13, 2013, [127 Stat. 173][/us/stat/127/173], 175, 179; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(kkk)(1), Dec. 10, 2015, [129 Stat. 2187][/us/stat/129/2187].)
 
  __Codification__ 
 
@@ -327,75 +327,81 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1)(B). [Pub. L. 113–5, § 202(c)(1)][/us/pl/113/5/s202/c/1], substituted “subsection (h)(4)” for “subsection (i)(4)”.
+    2015—Subsec. (b)(2)(A)(vii). [Pub. L. 114–95][/us/pl/114/95] substituted “including State educational agencies (as defined in [section 7801 of title 20][/us/usc/t20/s7801])” for “including State educational agencies (as defined in [section 7801(41) of title 20][/us/usc/t20/s7801/41])”.
 
-    Subsec. (b)(1)(C). [Pub. L. 113–5, § 202(a)(1)][/us/pl/113/5/s202/a/1], substituted “consortium of States” for “consortium of entities described in subparagraph (A)”.
+    2013—Subsec. (b)(1)(B). [Pub. L. 113–5][/us/pl/113/5], § 202(c)(1), substituted “subsection (h)(4)” for “subsection (i)(4)”.
 
-    Subsec. (b)(2)(A)(i), (ii). [Pub. L. 113–5, § 202(a)(2)(A)(i)][/us/pl/113/5/s202/a/2/A/i], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+    Subsec. (b)(1)(C). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(1), substituted “consortium of States” for “consortium of entities described in subparagraph (A)”.
+
+    Subsec. (b)(2)(A)(i), (ii). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(2)(A)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) a description of the activities such entity will carry out under the agreement to meet the goals identified under [section 300hh–1 of this title][/us/usc/t42/s300hh–1];
 
     “(ii) a pandemic influenza plan consistent with the requirements of paragraphs (2) and (5) of subsection (g);”.
 
-    Subsec. (b)(2)(A)(vi) to (ix). [Pub. L. 113–5, § 202(a)(2)(A)(ii)][/us/pl/113/5/s202/a/2/A/ii], (iii), added cls. (vi) to (ix).
+    Subsec. (b)(2)(A)(vi) to (ix). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(2)(A)(ii), (iii), added cls. (vi) to (ix).
 
-    Subsec. (b)(2)(C). [Pub. L. 113–5, § 202(a)(2)(B)][/us/pl/113/5/s202/a/2/B], inserted “, including addressing the needs of at-risk individuals,” after “capabilities of such entity”.
+    Subsec. (b)(2)(C). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(2)(B), inserted “, including addressing the needs of at-risk individuals,” after “capabilities of such entity”.
 
-    Subsec. (b)(2)(D). [Pub. L. 113–5, § 204(b)][/us/pl/113/5/s204/b], substituted “section 247d–4(c)(3)” for “section 247d–4(d)(3)”.
+    Subsec. (b)(2)(D). [Pub. L. 113–5][/us/pl/113/5], § 204(b), substituted “section 247d–4(c)(3)” for “section 247d–4(d)(3)”.
 
-    Subsec. (f)(2) to (4). [Pub. L. 113–5, § 202(a)(3)][/us/pl/113/5/s202/a/3], inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “disseminate such recommendations and guidance, including through expanding existing lessons learned information systems to create a single Internet-based point of access for sharing and distributing medical and public health best practices and lessons learned from drills, exercises, disasters, and other emergencies.”
+    Subsec. (f)(2) to (4). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(3), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “disseminate such recommendations and guidance, including through expanding existing lessons learned information systems to create a single Internet-based point of access for sharing and distributing medical and public health best practices and lessons learned from drills, exercises, disasters, and other emergencies.”
 
-    Subsec. (g)(1)(A). [Pub. L. 113–5, § 202(a)(4)(A)][/us/pl/113/5/s202/a/4/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “include outcome goals representing operational achievement of the National Preparedness Goals developed under [section 300hh–1(b) of this title][/us/usc/t42/s300hh–1/b]; and”.
+    Subsec. (g)(1)(A). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(4)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “include outcome goals representing operational achievement of the National Preparedness Goals developed under [section 300hh–1(b) of this title][/us/usc/t42/s300hh–1/b]; and”.
 
-    Subsec. (g)(2)(A). [Pub. L. 113–5, § 202(a)(4)(B)][/us/pl/113/5/s202/a/4/B], inserted at end “The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1).”
+    Subsec. (g)(2)(A). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(4)(B), inserted at end “The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1).”
 
-    Subsec. (h). [Pub. L. 113–5, § 202(a)(5)][/us/pl/113/5/s202/a/5], (6), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to grants for real-time disease detection improvement.
+    Subsec. (h). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to grants for real-time disease detection improvement.
 
-    Subsec. (h)(1)(A). [Pub. L. 113–5, § 202(a)(7)(A)(i)][/us/pl/113/5/s202/a/7/A/i], substituted “$641,900,000 for fiscal year 2014” for “$824,000,000 for fiscal year 2007, of which $35,000,000 shall be used to carry out subsection (h),” and “$641,900,000 for each of fiscal years 2015 through 2018” for “such sums as may be necessary for each of fiscal years 2008 through 2011”.
+    Subsec. (h)(1)(A). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(7)(A)(i), substituted “$641,900,000 for fiscal year 2014” for “$824,000,000 for fiscal year 2007, of which $35,000,000 shall be used to carry out subsection (h),” and “$641,900,000 for each of fiscal years 2015 through 2018” for “such sums as may be necessary for each of fiscal years 2008 through 2011”.
 
-    Subsec. (h)(1)(B) to (D). [Pub. L. 113–5, § 202(a)(7)(A)(ii)][/us/pl/113/5/s202/a/7/A/ii]–(iv), redesignated subpars. (C) and (D) as (B) and (C), respectively, substituted “subparagraph (B)” for “subparagraph (C)” in subpar. (C), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “There are authorized to be appropriated, $10,000,000 for fiscal year 2007 to carry out subsection (f)(4) of this section and [section 300hh–16 of this title][/us/usc/t42/s300hh–16].”
+    Subsec. (h)(1)(B) to (D). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(7)(A)(ii)–(iv), redesignated subpars. (C) and (D) as (B) and (C), respectively, substituted “subparagraph (B)” for “subparagraph (C)” in subpar. (C), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “There are authorized to be appropriated, $10,000,000 for fiscal year 2007 to carry out subsection (f)(4) of this section and [section 300hh–16 of this title][/us/usc/t42/s300hh–16].”
 
-    Subsec. (h)(3)(C), (D). [Pub. L. 113–5, § 202(a)(7)(B)][/us/pl/113/5/s202/a/7/B], substituted “paragraph (1)(A)” for “paragraph (1)(A)(i)(I)” wherever appearing.
+    Subsec. (h)(3)(C), (D). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(7)(B), substituted “paragraph (1)(A)” for “paragraph (1)(A)(i)(I)” wherever appearing.
 
-    Subsec. (h)(4)(B). [Pub. L. 113–5, § 202(a)(7)(C)][/us/pl/113/5/s202/a/7/C], substituted “subsection (b)” for “subsection (c)”.
+    Subsec. (h)(4)(B). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(7)(C), substituted “subsection (b)” for “subsection (c)”.
 
-    Subsec. (h)(7). [Pub. L. 113–5, § 202(a)(7)(D)][/us/pl/113/5/s202/a/7/D], added par. (7).
+    Subsec. (h)(7). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(7)(D), added par. (7).
 
-    Subsec. (i). [Pub. L. 113–5, § 202(a)(6)][/us/pl/113/5/s202/a/6], redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(6), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-    Subsec. (i)(1)(E). [Pub. L. 113–5, § 202(a)(8)(A)][/us/pl/113/5/s202/a/8/A], substituted “subsection (j)” for “subsection (k)”.
+    Subsec. (i)(1)(E). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(8)(A), substituted “subsection (j)” for “subsection (k)”.
 
-    Subsec. (i)(3). [Pub. L. 113–5, § 202(a)(8)(B)][/us/pl/113/5/s202/a/8/B], struck out par. (3) which related to maximum amount of an award under this section that may be carried over to the succeeding fiscal year.
+    Subsec. (i)(3). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(8)(B), struck out par. (3) which related to maximum amount of an award under this section that may be carried over to the succeeding fiscal year.
 
-    Subsecs. (j), (k). [Pub. L. 113–5, § 202(a)(6)][/us/pl/113/5/s202/a/6], redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+    Subsecs. (j), (k). [Pub. L. 113–5][/us/pl/113/5], § 202(a)(6), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-    2006—[Pub. L. 109–417, § 201(1)][/us/pl/109/417/s201/1], substituted “Improving State and local public health security” for “Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
+    2006—[Pub. L. 109–417][/us/pl/109/417], § 201(1), substituted “Improving State and local public health security” for “Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
 
-    Subsecs. (a) to (h). [Pub. L. 109–417, § 201(2)][/us/pl/109/417/s201/2], added subsecs. (a) to (h) and struck out former subsecs. (a) to (h) which related to grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies.
+    Subsecs. (a) to (h). [Pub. L. 109–417][/us/pl/109/417], § 201(2), added subsecs. (a) to (h) and struck out former subsecs. (a) to (h) which related to grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies.
 
-    Subsec. (i). [Pub. L. 109–417, § 201(3)][/us/pl/109/417/s201/3], redesignated subsec. (j) as (i).
+    Subsec. (i). [Pub. L. 109–417][/us/pl/109/417], § 201(3), redesignated subsec. (j) as (i).
 
-    [Pub. L. 109–417, § 201(2)][/us/pl/109/417/s201/2], struck out subsec. (i) which defined “eligible entity”.
+    [Pub. L. 109–417][/us/pl/109/417], § 201(2), struck out subsec. (i) which defined “eligible entity”.
 
-    Subsec. (i)(1) to (3)(A). [Pub. L. 109–417, § 201(4)(A)][/us/pl/109/417/s201/4/A], added pars. (1) to (3)(A) and struck out former pars. (1) to (3)(A) which related to appropriations for fiscal years 2003 through 2006, use of amounts to supplement and not supplant other funds, and conditions for receipt of award in fiscal year 2003.
+    Subsec. (i)(1) to (3)(A). [Pub. L. 109–417][/us/pl/109/417], § 201(4)(A), added pars. (1) to (3)(A) and struck out former pars. (1) to (3)(A) which related to appropriations for fiscal years 2003 through 2006, use of amounts to supplement and not supplant other funds, and conditions for receipt of award in fiscal year 2003.
 
-    Subsec. (i)(4)(A). [Pub. L. 109–417, § 201(4)(B)][/us/pl/109/417/s201/4/B], substituted “fiscal year 2007” for “fiscal year 2003” and struck out “(A)(i)(I)” after “paragraph (1)”.
+    Subsec. (i)(4)(A). [Pub. L. 109–417][/us/pl/109/417], § 201(4)(B), substituted “fiscal year 2007” for “fiscal year 2003” and struck out “(A)(i)(I)” after “paragraph (1)”.
 
-    Subsec. (i)(4)(D). [Pub. L. 109–417, § 201(4)(C)][/us/pl/109/417/s201/4/C], substituted “fiscal year 2006” for “fiscal year 2002”.
+    Subsec. (i)(4)(D). [Pub. L. 109–417][/us/pl/109/417], § 201(4)(C), substituted “fiscal year 2006” for “fiscal year 2002”.
 
-    Subsec. (i)(5)(A). [Pub. L. 109–417, § 201(4)(D)][/us/pl/109/417/s201/4/D], in introductory provisions, substituted “fiscal year 2007” for “fiscal year 2003” and struck out “(A)(i)(I)” after “paragraph (1)”.
+    Subsec. (i)(5)(A). [Pub. L. 109–417][/us/pl/109/417], § 201(4)(D), in introductory provisions, substituted “fiscal year 2007” for “fiscal year 2003” and struck out “(A)(i)(I)” after “paragraph (1)”.
 
-    Subsec. (i)(6). [Pub. L. 109–417, § 201(4)(E)][/us/pl/109/417/s201/4/E], added par. (6) and struck out heading and text of former par. (6). Text read as follows: “For fiscal year 2003, the Secretary shall in making awards under this section ensure that appropriate portions of such awards are made available to political subdivisions, local departments of public health, hospitals (including children’s hospitals), clinics, health centers, or primary care facilities, or consortia of such entities.”
+    Subsec. (i)(6). [Pub. L. 109–417][/us/pl/109/417], § 201(4)(E), added par. (6) and struck out heading and text of former par. (6). Text read as follows: “For fiscal year 2003, the Secretary shall in making awards under this section ensure that appropriate portions of such awards are made available to political subdivisions, local departments of public health, hospitals (including children’s hospitals), clinics, health centers, or primary care facilities, or consortia of such entities.”
 
-    Subsec. (j). [Pub. L. 109–417, § 201(5)][/us/pl/109/417/s201/5], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–417][/us/pl/109/417], § 201(5), added subsec. (j).
 
-    [Pub. L. 109–417, § 201(3)][/us/pl/109/417/s201/3], redesignated subsec. (j) as (i).
+    [Pub. L. 109–417][/us/pl/109/417], § 201(3), redesignated subsec. (j) as (i).
 
-    Subsec. (k). [Pub. L. 109–417, § 201(5)][/us/pl/109/417/s201/5], added subsec. (k).
+    Subsec. (k). [Pub. L. 109–417][/us/pl/109/417], § 201(5), added subsec. (k).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Emergency Medical and Public Health Communications Pilot Projects__ 
 
-[Pub. L. 110–53, title XXII, § 2201(d)][/us/pl/110/53/s2201/d], Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that:
+[Pub. L. 110–53, title XXII][/us/pl/110/53/tXXII], § 2201(d), Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -423,13 +429,13 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–1.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2 _us_usc_t42_s247d–3.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
 
 ----------
 ----------
 
 [/us/usc/t42/s300hh–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931
-[/us/usc/t20/s7801/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F41
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t42/s9858b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858b
 [/us/usc/t42/s247d–4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%934%2Fc%2F3
 [/us/usc/t42/s247d–7b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937b
@@ -452,48 +458,56 @@
 [/us/usc/t42/s247d–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933b
 [/us/usc/t42/s247d–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs131%2Fa
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F617
-[/us/pl/109/417/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2837
-[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtII
 [/us/stat/127/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F173
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2187
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
-[/us/pl/113/5/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fc%2F1
-[/us/pl/113/5/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F1
-[/us/pl/113/5/s202/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F2%2FA%2Fi
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F41
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s300hh–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931
-[/us/pl/113/5/s202/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F2%2FA%2Fii
-[/us/pl/113/5/s202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F2%2FB
-[/us/pl/113/5/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fb
-[/us/pl/113/5/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F3
-[/us/pl/113/5/s202/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F4%2FA
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s300hh–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931%2Fb
-[/us/pl/113/5/s202/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F4%2FB
-[/us/pl/113/5/s202/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F5
-[/us/pl/113/5/s202/a/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F7%2FA%2Fi
-[/us/pl/113/5/s202/a/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F7%2FA%2Fii
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s300hh–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9316
-[/us/pl/113/5/s202/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F7%2FB
-[/us/pl/113/5/s202/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F7%2FC
-[/us/pl/113/5/s202/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F7%2FD
-[/us/pl/113/5/s202/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F6
-[/us/pl/113/5/s202/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F8%2FA
-[/us/pl/113/5/s202/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F8%2FB
-[/us/pl/113/5/s202/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fa%2F6
-[/us/pl/109/417/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F1
-[/us/pl/109/417/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F2
-[/us/pl/109/417/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F3
-[/us/pl/109/417/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F2
-[/us/pl/109/417/s201/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F4%2FA
-[/us/pl/109/417/s201/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F4%2FB
-[/us/pl/109/417/s201/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F4%2FC
-[/us/pl/109/417/s201/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F4%2FD
-[/us/pl/109/417/s201/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F4%2FE
-[/us/pl/109/417/s201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F5
-[/us/pl/109/417/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F3
-[/us/pl/109/417/s201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs201%2F5
-[/us/pl/110/53/s2201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2201%2Fd
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/110/53/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXII
 [/us/stat/121/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F541
 
 

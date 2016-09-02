@@ -61,25 +61,25 @@
 
         (2) No provision of this subchapter shall be construed as prohibiting a State agency or area agency on aging from providing services by using funds from sources not described in paragraph (1).
 
-([Pub. L. 89–73, title III, § 301][/us/pl/89/73/s301], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1516][/us/stat/92/1516]; amended [Pub. L. 97–115, § 3(a)][/us/pl/97/115/s3/a], (d), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596], 1597; [Pub. L. 98–459, title III, § 301][/us/pl/98/459/s301], Oct. 9, 1984, [98 Stat. 1771][/us/stat/98/1771]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 104(b), 105(c), 121, 129(a), Nov. 29, 1987, [101 Stat. 929][/us/stat/101/929], 930, 933, 934; [Pub. L. 100–628, title VII, § 705(3)][/us/pl/100/628/s705/3], Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–54, § 13(q)(9)(B)][/us/pl/102/54/s13/q/9/B], June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 102–321, title I, § 163(c)(2)(B)][/us/pl/102/321/s163/c/2/B], July 10, 1992, [106 Stat. 377][/us/stat/106/377]; [Pub. L. 102–375, title I, § 102(b)(1)(A)][/us/pl/102/375/s102/b/1/A], title III, § 301, title VII, § 708(a)(2)(B), Sept. 30, 1992, [106 Stat. 1200][/us/stat/106/1200], 1219, 1292; [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III, § 301][/us/pl/106/501/s301], title VIII, § 801(c)(1), Nov. 13, 2000, [114 Stat. 2238][/us/stat/114/2238], 2292; [Pub. L. 109–365, title III, § 301][/us/pl/109/365/s301], Oct. 17, 2006, [120 Stat. 2538][/us/stat/120/2538].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 301, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1516][/us/stat/92/1516]; amended [Pub. L. 97–115][/us/pl/97/115], § 3(a), (d), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596], 1597; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 301, Oct. 9, 1984, [98 Stat. 1771][/us/stat/98/1771]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 104(b), 105(c), 121, 129(a), Nov. 29, 1987, [101 Stat. 929][/us/stat/101/929], 930, 933, 934; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(3), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(9)(B), June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(c)(2)(B), July 10, 1992, [106 Stat. 377][/us/stat/106/377]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(1)(A), title III, § 301, title VII, § 708(a)(2)(B), Sept. 30, 1992, [106 Stat. 1200][/us/stat/106/1200], 1219, 1292; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 301, title VIII, § 801(c)(1), Nov. 13, 2000, [114 Stat. 2238][/us/stat/114/2238], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 301, Oct. 17, 2006, [120 Stat. 2538][/us/stat/120/2538].)
 
  __Prior Provisions__ 
 
-    A prior section 3021, [Pub. L. 89–73, title III, § 301][/us/pl/89/73/s301], as added [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 36][/us/stat/87/36], related to the purpose of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478].
+    A prior section 3021, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 301, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 36][/us/stat/87/36], related to the purpose of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478].
 
-    Another prior section 3021, [Pub. L. 89–73, title III, § 301][/us/pl/89/73/s301], July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 90–42, § 2(a)][/us/pl/90/42/s2/a], July 1, 1967, [81 Stat. 106][/us/stat/81/106]; [Pub. L. 91–69, § 2(a)][/us/pl/91/69/s2/a], Sept. 17, 1969, [83 Stat. 108][/us/stat/83/108], related to a description of activities and authorized appropriations for fiscal years ending June 30, 1966, through 1972, prior to repeal by [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 36][/us/stat/87/36].
+    Another prior section 3021, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 301, July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 90–42][/us/pl/90/42], § 2(a), July 1, 1967, [81 Stat. 106][/us/stat/81/106]; [Pub. L. 91–69][/us/pl/91/69], § 2(a), Sept. 17, 1969, [83 Stat. 108][/us/stat/83/108], related to a description of activities and authorized appropriations for fiscal years ending June 30, 1966, through 1972, prior to repeal by [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 36][/us/stat/87/36].
 
  __Amendments__ 
 
     2006—Subsec. (a)(2)(F). [Pub. L. 109–365][/us/pl/109/365] added subpar. (F).
 
-    2000—Subsec. (c). [Pub. L. 106–501, § 801(c)(1)][/us/pl/106/501/s801/c/1], substituted “3027(a)(9)” for “3027(a)(12)”.
+    2000—Subsec. (c). [Pub. L. 106–501][/us/pl/106/501], § 801(c)(1), substituted “3027(a)(9)” for “3027(a)(12)”.
 
-    Subsec. (d). [Pub. L. 106–501, § 301][/us/pl/106/501/s301], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–501][/us/pl/106/501], § 301, added subsec. (d).
 
     1993—Subsecs. (b), (c). [Pub. L. 103–171][/us/pl/103/171] substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-    1992—Subsec. (a). [Pub. L. 102–375, § 301][/us/pl/102/375/s301], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems to serve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
+    1992—Subsec. (a). [Pub. L. 102–375][/us/pl/102/375], § 301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems to serve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
 
     “(1) secure and maintain maximum independence and dignity in a home environment for older individuals capable of self care with appropriate supportive services;
 
@@ -87,29 +87,29 @@
 
     “(3) provide a continuum of care for the vulnerable elderly.”
 
-    Subsec. (b)(1). [Pub. L. 102–375, § 102(b)(1)(A)][/us/pl/102/375/s102/b/1/A], substituted “Administration” for “Administration on Aging”.
+    Subsec. (b)(1). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(1)(A), substituted “Administration” for “Administration on Aging”.
 
     Subsec. (b)(2). [Pub. L. 102–321][/us/pl/102/321] substituted “the Substance Abuse and Mental Health Services Administration” for “the Alcohol, Drug Abuse, and Mental Health Administration”.
 
-    Subsec. (c). [Pub. L. 102–375, § 708(a)(2)(B)][/us/pl/102/375/s708/a/2/B], substituted “in accordance with [section 3058g of this title][/us/usc/t42/s3058g], and to individuals within such programs designated under [section 3058g of this title][/us/usc/t42/s3058g]” for “, and to individuals designated under such section”.
+    Subsec. (c). [Pub. L. 102–375][/us/pl/102/375], § 708(a)(2)(B), substituted “in accordance with [section 3058g of this title][/us/usc/t42/s3058g], and to individuals within such programs designated under [section 3058g of this title][/us/usc/t42/s3058g]” for “, and to individuals designated under such section”.
 
     1991—Subsec. (b)(2). [Pub. L. 102–54][/us/pl/102/54] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
     1988—Subsec. (a). [Pub. L. 100–628][/us/pl/100/628] substituted “Native Hawaiian organizations,” for “Native Hawaiian organizations,,”.
 
-    1987—Subsec. (a). [Pub. L. 100–175, § 121][/us/pl/100/175/s121], inserted “, with Indian tribes, tribal organizations, and Native Hawaiian organizations,” after second reference to “agencies”.
+    1987—Subsec. (a). [Pub. L. 100–175][/us/pl/100/175], § 121, inserted “, with Indian tribes, tribal organizations, and Native Hawaiian organizations,” after second reference to “agencies”.
 
-    Subsec. (b)(2). [Pub. L. 100–175, § 105(c)][/us/pl/100/175/s105/c], inserted “the Alcohol, Drug Abuse, and Mental Health Administration,” after “Veterans’ Administration,”.
+    Subsec. (b)(2). [Pub. L. 100–175][/us/pl/100/175], § 105(c), inserted “the Alcohol, Drug Abuse, and Mental Health Administration,” after “Veterans’ Administration,”.
 
-    [Pub. L. 100–175, § 104(b)][/us/pl/100/175/s104/b], inserted “, the Veterans’ Administration,” after “Office of Community Services”.
+    [Pub. L. 100–175][/us/pl/100/175], § 104(b), inserted “, the Veterans’ Administration,” after “Office of Community Services”.
 
-    Subsec. (c). [Pub. L. 100–175, § 129(a)][/us/pl/100/175/s129/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–175][/us/pl/100/175], § 129(a), added subsec. (c).
 
     1984—Subsec. (a). [Pub. L. 98–459][/us/pl/98/459] substituted “area agencies” for “local agencies” in two places, inserted “and implementation”, inserted “, including voluntary organizations,”, and struck out “for the provision of” after “planning”.
 
-    1981—Subsec. (a). [Pub. L. 97–115, § 3(d)][/us/pl/97/115/s3/d], substituted “supportive services” for “social services” in two places.
+    1981—Subsec. (a). [Pub. L. 97–115][/us/pl/97/115], § 3(d), substituted “supportive services” for “social services” in two places.
 
-    Subsec. (b)(2). [Pub. L. 97–115, § 3(a)][/us/pl/97/115/s3/a], substituted “cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, and such other agencies and departments” for “cooperation of the Department of Labor, the Community Services Administration, the Department of Housing and Urban Development, the Department of Transportation, and such other agencies and departments”.
+    Subsec. (b)(2). [Pub. L. 97–115][/us/pl/97/115], § 3(a), substituted “cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, and such other agencies and departments” for “cooperation of the Department of Labor, the Community Services Administration, the Department of Housing and Urban Development, the Department of Transportation, and such other agencies and departments”.
 
  __Effective Date of 1992 Amendments__ 
 
@@ -133,7 +133,7 @@
 
  __Coordination and Consolidation of Services Under Chapter__ 
 
-[Pub. L. 95–478, title I, § 103(a)][/us/pl/95/478/s103/a], Oct. 18, 1978, [92 Stat. 1516][/us/stat/92/1516], provided that:
+[Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(a), Oct. 18, 1978, [92 Stat. 1516][/us/stat/92/1516], provided that:
 
 >     “(1)
 
@@ -161,60 +161,60 @@
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
 [/us/usc/t42/s3024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024%2Fa
 [/us/usc/t42/s3024/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024%2Fd
-[/us/pl/89/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs301
-[/us/pl/95/478/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs103%2Fb
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1516
-[/us/pl/97/115/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fa
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1596
-[/us/pl/98/459/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs301
+[/us/pl/98/459/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtIII
 [/us/stat/98/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1771
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F929
-[/us/pl/100/628/s705/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F3
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3247
-[/us/pl/102/54/s13/q/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F9%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
-[/us/pl/102/321/s163/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fc%2F2%2FB
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F377
-[/us/pl/102/375/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F1%2FA
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1200
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/106/501/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs301
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2238
-[/us/pl/109/365/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs301
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2538
-[/us/pl/89/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs301
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F36
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/89/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
 [/us/stat/79/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F220
-[/us/pl/90/42/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42%2Fs2%2Fa
+[/us/pl/90/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42
 [/us/stat/81/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F106
-[/us/pl/91/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F69%2Fs2%2Fa
+[/us/pl/91/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F69
 [/us/stat/83/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F108
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F36
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
-[/us/pl/106/501/s801/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fc%2F1
-[/us/pl/106/501/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs301
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
-[/us/pl/102/375/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs301
-[/us/pl/102/375/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F1%2FA
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/pl/102/375/s708/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs708%2Fa%2F2%2FB
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/pl/100/175/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs121
-[/us/pl/100/175/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs105%2Fc
-[/us/pl/100/175/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs104%2Fb
-[/us/pl/100/175/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs129%2Fa
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
-[/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
-[/us/pl/97/115/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fa
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/pl/102/375/s708/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs708%2Fa%2F2%2FB
 [/us/pl/103/171/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs4%2Fb
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
@@ -234,7 +234,7 @@
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/95/478/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs504
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/95/478/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs103%2Fa
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1516
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 

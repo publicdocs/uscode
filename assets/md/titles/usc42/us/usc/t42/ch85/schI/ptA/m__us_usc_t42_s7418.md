@@ -37,7 +37,7 @@
 
         (3) another method approved by the vehicle inspection and maintenance program administrator.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 118, formerly, § 7, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 399][/us/stat/77/399]; renumbered § 107, [Pub. L. 89–272, title I, § 101(3)][/us/pl/89/272/s101/3], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; renumbered § 111 and amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499]; renumbered § 118 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 4(a), 5, Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678], 1689; [Pub. L. 95–95, title I, § 116][/us/pl/95/95/s116], Aug. 7, 1977, [91 Stat. 711][/us/stat/91/711]; [Pub. L. 101–549, title I, § 101(e)][/us/pl/101/549/s101/e], title II, § 235, title III, § 302(d), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409], 2530, 2574.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 118, formerly, § 7, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 399][/us/stat/77/399]; renumbered § 107, [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(3), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; renumbered § 111 and amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499]; renumbered § 118 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 4(a), 5, Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678], 1689; [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 116, Aug. 7, 1977, [91 Stat. 711][/us/stat/91/711]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(e), title II, § 235, title III, § 302(d), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409], 2530, 2574.)
 
  __Codification__ 
 
@@ -45,19 +45,19 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–549, § 235][/us/pl/101/549/s235], inserted heading.
+    1990—Subsec. (a). [Pub. L. 101–549][/us/pl/101/549], § 235, inserted heading.
 
-    [Pub. L. 101–549, § 101(e)][/us/pl/101/549/s101/e], amended second sentence generally. Prior to amendment, second sentence read as follows: “The preceding sentence shall apply (A) to any requirement whether substantive or procedural (including any recordkeeping or reporting requirement, any requirement respecting permits and any other requirement whatsoever), (B) to the exercise of any Federal, State, or local administrative authority, and (C) to any process and sanction, whether enforced in Federal, State, or local courts or in any other manner.”
+    [Pub. L. 101–549][/us/pl/101/549], § 101(e), amended second sentence generally. Prior to amendment, second sentence read as follows: “The preceding sentence shall apply (A) to any requirement whether substantive or procedural (including any recordkeeping or reporting requirement, any requirement respecting permits and any other requirement whatsoever), (B) to the exercise of any Federal, State, or local administrative authority, and (C) to any process and sanction, whether enforced in Federal, State, or local courts or in any other manner.”
 
-    Subsec. (b). [Pub. L. 101–549, § 302(d)][/us/pl/101/549/s302/d], substituted “[section 7412(i)(4) of this title][/us/usc/t42/s7412/i/4]” for “[section 7412(c) of this title][/us/usc/t42/s7412/c]”.
+    Subsec. (b). [Pub. L. 101–549][/us/pl/101/549], § 302(d), substituted “[section 7412(i)(4) of this title][/us/usc/t42/s7412/i/4]” for “[section 7412(c) of this title][/us/usc/t42/s7412/c]”.
 
-    Subsecs. (c), (d). [Pub. L. 101–549, § 235][/us/pl/101/549/s235], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 101–549][/us/pl/101/549], § 235, added subsecs. (c) and (d).
 
-    1977—Subsec. (a). [Pub. L. 95–95, § 116(a)][/us/pl/95/95/s116/a], designated existing first sentence as subsec. (a) and inserted provisions enumerating the legal and administrative areas to which the compliance requirements apply and directing that agencies, officers, agents, and employees not be immune and that officers, agents, or employees of the United States not be personally liable for civil penalties for which they are not otherwise liable.
+    1977—Subsec. (a). [Pub. L. 95–95][/us/pl/95/95], § 116(a), designated existing first sentence as subsec. (a) and inserted provisions enumerating the legal and administrative areas to which the compliance requirements apply and directing that agencies, officers, agents, and employees not be immune and that officers, agents, or employees of the United States not be personally liable for civil penalties for which they are not otherwise liable.
 
-    Subsec. (b). [Pub. L. 95–95, § 116(b)][/us/pl/95/95/s116/b], designated second and following existing sentences as subsec. (b) and inserted provisions authorizing the President to exempt weaponry, equipment, aircraft, vehicles, and other classes and categories of property of the Armed Forces and the National Guard from compliance but to reconsider the need for such an exemption at three-year intervals.
+    Subsec. (b). [Pub. L. 95–95][/us/pl/95/95], § 116(b), designated second and following existing sentences as subsec. (b) and inserted provisions authorizing the President to exempt weaponry, equipment, aircraft, vehicles, and other classes and categories of property of the Armed Forces and the National Guard from compliance but to reconsider the need for such an exemption at three-year intervals.
 
-    1970—[Pub. L. 91–604, § 5][/us/pl/91/604/s5], struck out lettered designations (a) and (b), and, as so redesignated, substituted provisions requiring Federal facilities to comply with Federal, State, local, and interstate air pollution control and abatement requirements and provisions authorizing the President to exempt, under the specified terms and conditions, any emission source of any department, etc., in the executive branch from compliance with control and abatement requirements, for provisions requiring, to the extent practicable and consistent with the interests of the United States and within any available appropriations, Federal facilities to cooperate with the Department of Health, Education, and Welfare and with any air pollution control agency to prevent and control air pollution and provisions authorizing the Secretary to establish classes of potential pollution sources for which any Federal department or agency having jurisdiction over any facility was required to obtain a permit, under the specified terms and conditions, for the discharge of any matter into the air of the United States.
+    1970—[Pub. L. 91–604][/us/pl/91/604], § 5, struck out lettered designations (a) and (b), and, as so redesignated, substituted provisions requiring Federal facilities to comply with Federal, State, local, and interstate air pollution control and abatement requirements and provisions authorizing the President to exempt, under the specified terms and conditions, any emission source of any department, etc., in the executive branch from compliance with control and abatement requirements, for provisions requiring, to the extent practicable and consistent with the interests of the United States and within any available appropriations, Federal facilities to cooperate with the Department of Health, Education, and Welfare and with any air pollution control agency to prevent and control air pollution and provisions authorizing the Secretary to establish classes of potential pollution sources for which any Federal department or agency having jurisdiction over any facility was required to obtain a permit, under the specified terms and conditions, for the discharge of any matter into the air of the United States.
 
     1967—[Pub. L. 90–148][/us/pl/90/148] reenacted section without change.
 
@@ -100,28 +100,28 @@
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/usc/t42/s7412/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412%2Fi%2F4
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F399
-[/us/pl/89/272/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F3
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F499
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1678
-[/us/pl/95/95/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs116
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F711
-[/us/pl/101/549/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fe
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
 [/us/usc/t42/s1857f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f
-[/us/pl/101/549/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs235
-[/us/pl/101/549/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fe
-[/us/pl/101/549/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fd
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7412/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412%2Fi%2F4
 [/us/usc/t42/s7412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412%2Fc
-[/us/pl/101/549/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs235
-[/us/pl/95/95/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs116%2Fa
-[/us/pl/95/95/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs116%2Fb
-[/us/pl/91/604/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs5
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd

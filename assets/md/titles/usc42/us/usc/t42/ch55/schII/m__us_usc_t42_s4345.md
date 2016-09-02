@@ -21,7 +21,7 @@
 
     (2) utilize, to the fullest extent possible, the services, facilities, and information (including statistical information) of public and private agencies and organizations, and individuals, in order that duplication of effort and expense may be avoided, thus assuring that the Council’s activities will not unnecessarily overlap or conflict with similar activities authorized by law and performed by established agencies.
 
-([Pub. L. 91–190, title II, § 205][/us/pl/91/190/s205], Jan. 1, 1970, [83 Stat. 855][/us/stat/83/855].)
+([Pub. L. 91–190, title II][/us/pl/91/190/tII], § 205, Jan. 1, 1970, [83 Stat. 855][/us/stat/83/855].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/91/190/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs205
+[/us/pl/91/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtII
 [/us/stat/83/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F855
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

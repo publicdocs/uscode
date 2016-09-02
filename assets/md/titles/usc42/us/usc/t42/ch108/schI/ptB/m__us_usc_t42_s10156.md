@@ -95,7 +95,7 @@
 
         (6) Any appropriations made available to the Storage Fund for any purpose described in subsection (d) of this section shall be repaid into the general fund of the Treasury, together with interest from the date of availability of the appropriations until the date of repayment. Such interest shall be paid on the cumulative amount of appropriations available to the Storage Fund, less the average undisbursed cash balance in the Storage Fund account during the fiscal year involved. The rate of such interest shall be determined by the Secretary of the Treasury taking into consideration the average market yield during the month preceding each fiscal year on outstanding marketable obligations of the United States of comparable maturity. Interest payments may be deferred with the approval of the Secretary of the Treasury, but any interest payments so deferred shall themselves bear interest.
 
-([Pub. L. 97–425, title I, § 136][/us/pl/97/425/s136], Jan. 7, 1983, [96 Stat. 2237][/us/stat/96/2237].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 136, Jan. 7, 1983, [96 Stat. 2237][/us/stat/96/2237].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t42/s10155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10155%2Fa
 [/us/usc/t42/s10157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10157
 [/us/usc/t42/s10155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10155
-[/us/pl/97/425/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs136
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2237
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

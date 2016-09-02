@@ -67,7 +67,7 @@
 
         There are authorized to be appropriated such sums as are necessary to provide the cost of a direct loan under subsection (b).
 
-([Pub. L. 109–58, title IV, § 412][/us/pl/109/58/s412], Aug. 8, 2005, [119 Stat. 754][/us/stat/119/754].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 412, Aug. 8, 2005, [119 Stat. 754][/us/stat/119/754].)
 
 ----------
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t2/s661a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5%2FB
-[/us/pl/109/58/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs412
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F754
 
 

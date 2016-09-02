@@ -47,7 +47,7 @@
 
         Nothing in subsection (c) shall apply to or affect any capability authorized by any other subchapter of this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
-([Pub. L. 111–267, title II, § 203][/us/pl/111/267/s203], Oct. 11, 2010, [124 Stat. 2812][/us/stat/124/2812]; [Pub. L. 112–273, § 2][/us/pl/112/273/s2], Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454].)
+([Pub. L. 111–267, title II][/us/pl/111/267/tII], § 203, Oct. 11, 2010, [124 Stat. 2812][/us/stat/124/2812]; [Pub. L. 112–273][/us/pl/112/273], § 2, Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/111/267/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs203
+[/us/pl/111/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtII
 [/us/stat/124/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2812
-[/us/pl/112/273/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273%2Fs2
+[/us/pl/112/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273
 [/us/stat/126/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2454
 [/us/pl/112/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273
 [/us/pl/111/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267

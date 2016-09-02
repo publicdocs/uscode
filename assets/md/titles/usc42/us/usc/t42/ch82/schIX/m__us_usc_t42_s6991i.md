@@ -81,7 +81,7 @@
 
             (B) a requirement or standard of a State program approved under [section 6991c of this title][/us/usc/t42/s6991c].
 
-([Pub. L. 89–272, title II, § 9010][/us/pl/89/272/s9010], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3287][/us/stat/98/3287]; amended [Pub. L. 109–58, title XV, § 1524(a)][/us/pl/109/58/s1524/a], Aug. 8, 2005, [119 Stat. 1095][/us/stat/119/1095].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9010, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3287][/us/stat/98/3287]; amended [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1524(a), Aug. 8, 2005, [119 Stat. 1095][/us/stat/119/1095].)
 
  __References in Text__ 
 
@@ -100,10 +100,10 @@
 
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b
 [/us/usc/t42/s6991c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991c
-[/us/pl/89/272/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9010
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3287
-[/us/pl/109/58/s1524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1524%2Fa
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1095
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

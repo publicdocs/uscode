@@ -21,7 +21,7 @@
 
     (c) For the expenses of the Secretary in administering the provisions of this part, there are hereby authorized to be appropriated such sums as may be necessary for each fiscal year in the two consecutive fiscal year periods ending September 30, 1979, such funds to remain available until expended.
 
-([Pub. L. 94–163, title III, § 400G][/us/pl/94/163/s400G], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3253][/us/stat/92/3253].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400G, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3253][/us/stat/92/3253].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s400G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400G
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3253
 
 

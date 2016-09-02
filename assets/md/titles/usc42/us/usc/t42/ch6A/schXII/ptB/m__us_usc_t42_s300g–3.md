@@ -277,19 +277,19 @@
 
         (4) a requirement of, or permit issued under, an applicable State program for which the Administrator has made a determination that the requirements of [section 300g–2 of this title][/us/usc/t42/s300g–2] have been satisfied, or an applicable State program approved pursuant to this part.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1414, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1666][/us/stat/88/1666]; amended [Pub. L. 95–190, § 12(b)][/us/pl/95/190/s12/b], Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398]; [Pub. L. 99–339, title I][/us/pl/99/339], §§ 102, 103, June 19, 1986, [100 Stat. 647][/us/stat/100/647], 648; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 113(a), 114(a), Aug. 6, 1996, [110 Stat. 1634][/us/stat/110/1634], 1636; [Pub. L. 107–188, title IV, § 403(1)][/us/pl/107/188/s403/1], June 12, 2002, [116 Stat. 687][/us/stat/116/687].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1414, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1666][/us/stat/88/1666]; amended [Pub. L. 95–190][/us/pl/95/190], § 12(b), Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398]; [Pub. L. 99–339, title I][/us/pl/99/339/tI], §§ 102, 103, June 19, 1986, [100 Stat. 647][/us/stat/100/647], 648; [Pub. L. 104–182, title I][/us/pl/104/182/tI], §§ 113(a), 114(a), Aug. 6, 1996, [110 Stat. 1634][/us/stat/110/1634], 1636; [Pub. L. 107–188, title IV][/us/pl/107/188/tIV], § 403(1), June 12, 2002, [116 Stat. 687][/us/stat/116/687].)
 
  __Amendments__ 
 
     2002—Subsec. (i)(1). [Pub. L. 107–188][/us/pl/107/188] inserted “300i–2” after “300g–6”.
 
-    1996—Subsec. (a)(1)(A). [Pub. L. 104–182, § 113(a)(1)(A)(i)(II)][/us/pl/104/182/s113/a/1/A/i/II], substituted “with the requirement” for “with such regulation or requirement” in concluding provisions.
+    1996—Subsec. (a)(1)(A). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(1)(A)(i)(II), substituted “with the requirement” for “with such regulation or requirement” in concluding provisions.
 
-    Subsec. (a)(1)(A)(i). [Pub. L. 104–182, § 113(a)(1)(A)(i)(I)][/us/pl/104/182/s113/a/1/A/i/I], substituted “any applicable requirement” for “any national primary drinking water regulation in effect under [section 300g–1 of this title][/us/usc/t42/s300g–1]”.
+    Subsec. (a)(1)(A)(i). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(1)(A)(i)(I), substituted “any applicable requirement” for “any national primary drinking water regulation in effect under [section 300g–1 of this title][/us/usc/t42/s300g–1]”.
 
-    Subsec. (a)(1)(B). [Pub. L. 104–182, § 113(a)(1)(A)(ii)][/us/pl/104/182/s113/a/1/A/ii], substituted “such applicable requirement” for “such regulation or requirement”.
+    Subsec. (a)(1)(B). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(1)(A)(ii), substituted “such applicable requirement” for “such regulation or requirement”.
 
-    Subsec. (a)(2). [Pub. L. 104–182, § 113(a)(1)(B)][/us/pl/104/182/s113/a/1/B], added par. (2) and struck out former par. (2) which read as follows: “Whenever, on the basis of information available to him, the Administrator finds during a period during which a State does not have primary enforcement responsibility for public water systems that a public water system in such State—
+    Subsec. (a)(2). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “Whenever, on the basis of information available to him, the Administrator finds during a period during which a State does not have primary enforcement responsibility for public water systems that a public water system in such State—
 
     “(A) for which a variance under section 300g–4(a)(2) or an exemption under [section 300g–5(f) of this title][/us/usc/t42/s300g–5/f] is not in effect, does not comply with any national primary drinking water regulation in effect under [section 300g–1 of this title][/us/usc/t42/s300g–1], or
 
@@ -297,33 +297,33 @@
 
     the Administrator shall issue an order under subsection (g) of this section requiring the public water system to comply with such regulation or requirement or the Administrator shall commence a civil action under subsection (b) of this section.”
 
-    Subsec. (b). [Pub. L. 104–182, § 113(a)(2)][/us/pl/104/182/s113/a/2], substituted “any applicable requirement” for “a national primary drinking water regulation” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(2), substituted “any applicable requirement” for “a national primary drinking water regulation” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 104–182, § 114(a)][/us/pl/104/182/s114/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) related to notice of owner or operator of public water system to persons served, regulations for form, manner, and frequency of notice, amendment of regulations to provide different types and frequencies of notice, and penalties.
+    Subsec. (c). [Pub. L. 104–182][/us/pl/104/182], § 114(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to notice of owner or operator of public water system to persons served, regulations for form, manner, and frequency of notice, amendment of regulations to provide different types and frequencies of notice, and penalties.
 
-    Subsec. (g)(1). [Pub. L. 104–182, § 113(a)(3)(A)][/us/pl/104/182/s113/a/3/A], substituted “applicable requirement” for “regulation, schedule, or other requirement” in two places.
+    Subsec. (g)(1). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(3)(A), substituted “applicable requirement” for “regulation, schedule, or other requirement” in two places.
 
-    Subsec. (g)(2). [Pub. L. 104–182, § 113(a)(3)(B)][/us/pl/104/182/s113/a/3/B], substituted “effect, in the case” for “effect until after notice and opportunity for public hearing and, in the case” and “regarding the order” for “regarding the proposed order” and struck out “proposed to be” after “A copy of any order”.
+    Subsec. (g)(2). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(3)(B), substituted “effect, in the case” for “effect until after notice and opportunity for public hearing and, in the case” and “regarding the order” for “regarding the proposed order” and struck out “proposed to be” after “A copy of any order”.
 
-    Subsec. (g)(3)(B). [Pub. L. 104–182, § 113(a)(3)(C)(i)][/us/pl/104/182/s113/a/3/C/i], added subpar. (B) and struck out former subpar. (B) which read as follows: “Whenever any civil penalty sought by the Administrator under this paragraph does not exceed a total of $5,000, the penalty shall be assessed by the Administrator after notice and opportunity for a hearing on the record in accordance with [section 554 of title 5][/us/usc/t5/s554].”
+    Subsec. (g)(3)(B). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(3)(C)(i), added subpar. (B) and struck out former subpar. (B) which read as follows: “Whenever any civil penalty sought by the Administrator under this paragraph does not exceed a total of $5,000, the penalty shall be assessed by the Administrator after notice and opportunity for a hearing on the record in accordance with [section 554 of title 5][/us/usc/t5/s554].”
 
-    Subsec. (g)(3)(C). [Pub. L. 104–182, § 113(a)(3)(C)(ii)][/us/pl/104/182/s113/a/3/C/ii], substituted “subsection for a violation of an applicable requirement exceeds $25,000” for “paragraph exceeds $5,000”.
+    Subsec. (g)(3)(C). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(3)(C)(ii), substituted “subsection for a violation of an applicable requirement exceeds $25,000” for “paragraph exceeds $5,000”.
 
-    Subsecs. (h), (i). [Pub. L. 104–182, § 113(a)(4)][/us/pl/104/182/s113/a/4], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 104–182][/us/pl/104/182], § 113(a)(4), added subsecs. (h) and (i).
 
-    1986—[Pub. L. 99–339, § 102(d)(2)][/us/pl/99/339/s102/d/2], substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
+    1986—[Pub. L. 99–339][/us/pl/99/339], § 102(d)(2), substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
 
-    Subsec. (a)(1)(A). [Pub. L. 99–339, § 102(a)][/us/pl/99/339/s102/a], inserted “and such public water system” after “notify the State” in provisions following cl. (ii).
+    Subsec. (a)(1)(A). [Pub. L. 99–339][/us/pl/99/339], § 102(a), inserted “and such public water system” after “notify the State” in provisions following cl. (ii).
 
-    Subsec. (a)(1)(B). [Pub. L. 99–339, § 102(b)(1)][/us/pl/99/339/s102/b/1], amended subpar. (B) generally, substituting provisions which relate to issuance of an order to public water system to comply with regulations, or commencement of civil action if the State has not commenced appropriate enforcement action for provisions which related to public notice of noncompliance and commencement of civil action by Administrator if State failed to take steps to obtain compliance by public water system.
+    Subsec. (a)(1)(B). [Pub. L. 99–339][/us/pl/99/339], § 102(b)(1), amended subpar. (B) generally, substituting provisions which relate to issuance of an order to public water system to comply with regulations, or commencement of civil action if the State has not commenced appropriate enforcement action for provisions which related to public notice of noncompliance and commencement of civil action by Administrator if State failed to take steps to obtain compliance by public water system.
 
-    Subsec. (a)(2). [Pub. L. 99–339, § 102(b)(2)][/us/pl/99/339/s102/b/2], substituted “the Administrator shall issue an order under subsection (g) of this section requiring the public water system to comply with such regulation or requirement or the Administrator shall commence a civil action under subsection (b) of this section” for “he may commence a civil action under subsection (b) of this section”.
+    Subsec. (a)(2). [Pub. L. 99–339][/us/pl/99/339], § 102(b)(2), substituted “the Administrator shall issue an order under subsection (g) of this section requiring the public water system to comply with such regulation or requirement or the Administrator shall commence a civil action under subsection (b) of this section” for “he may commence a civil action under subsection (b) of this section”.
 
-    Subsec. (b). [Pub. L. 99–339, § 102(c)][/us/pl/99/339/s102/c], inserted “, with an order issued under subsection (g) of this section,” before “or with any schedule” and substituted “there has been a violation” for “there has been a willful violation” and “$25,000” for “$5,000”.
+    Subsec. (b). [Pub. L. 99–339][/us/pl/99/339], § 102(c), inserted “, with an order issued under subsection (g) of this section,” before “or with any schedule” and substituted “there has been a violation” for “there has been a willful violation” and “$25,000” for “$5,000”.
 
-    Subsec. (c). [Pub. L. 99–339, § 103][/us/pl/99/339/s103], substituted provisions relating to amendment of regulations within fifteen months after June 19, 1986, to provide different types and frequencies of notice based on the differences between violations which are intermittent or continuous, manner and content of notices, notice required to public served by owner or operator of public water system, and civil penalty of $25,000, for provisions relating to form, manner, and frequency of notice based on three month billing period for water bills, notice required to public served by owner or operator of public water system, and civil penalty of $5,000.
+    Subsec. (c). [Pub. L. 99–339][/us/pl/99/339], § 103, substituted provisions relating to amendment of regulations within fifteen months after June 19, 1986, to provide different types and frequencies of notice based on the differences between violations which are intermittent or continuous, manner and content of notices, notice required to public served by owner or operator of public water system, and civil penalty of $25,000, for provisions relating to form, manner, and frequency of notice based on three month billing period for water bills, notice required to public served by owner or operator of public water system, and civil penalty of $5,000.
 
-    Subsec. (g). [Pub. L. 99–339, § 102(d)][/us/pl/99/339/s102/d], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–339][/us/pl/99/339], § 102(d), added subsec. (g).
 
     1977—Subsec. (c). [Pub. L. 95–190][/us/pl/95/190] inserted provisions relating to frequency of required notice, and notice respecting contaminant levels, and substituted “issued under this subsection” for “thereunder”.
 
@@ -355,40 +355,40 @@
 [/us/usc/t42/s300g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%932
 [/us/usc/t42/s300g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1666
-[/us/pl/95/190/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs12%2Fb
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1398
-[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F647
-[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1634
-[/us/pl/107/188/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F1
+[/us/pl/107/188/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIV
 [/us/stat/116/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F687
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
-[/us/pl/104/182/s113/a/1/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F1%2FA%2Fi%2FII
-[/us/pl/104/182/s113/a/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F1%2FA%2Fi%2FI
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
-[/us/pl/104/182/s113/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F1%2FA%2Fii
-[/us/pl/104/182/s113/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F1%2FB
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300g–5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%935%2Ff
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
 [/us/usc/t42/s300g–5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%935%2Ff
-[/us/pl/104/182/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F2
-[/us/pl/104/182/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs114%2Fa
-[/us/pl/104/182/s113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F3%2FA
-[/us/pl/104/182/s113/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F3%2FB
-[/us/pl/104/182/s113/a/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F3%2FC%2Fi
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/104/182/s113/a/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F3%2FC%2Fii
-[/us/pl/104/182/s113/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fa%2F4
-[/us/pl/99/339/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs102%2Fd%2F2
-[/us/pl/99/339/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs102%2Fa
-[/us/pl/99/339/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs102%2Fb%2F1
-[/us/pl/99/339/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs102%2Fb%2F2
-[/us/pl/99/339/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs102%2Fc
-[/us/pl/99/339/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs103
-[/us/pl/99/339/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs102%2Fd
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

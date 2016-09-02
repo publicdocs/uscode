@@ -39,11 +39,11 @@
 
         (5) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning legal and ethical issues, including issues associated with special care units, facing individuals with Alzheimer’s disease and related dementias and facing their families.
 
-([Pub. L. 99–660, title IX, § 934][/us/pl/99/660/s934], as added [Pub. L. 102–507, § 7(b)(1)(B)][/us/pl/102/507/s7/b/1/B], Oct. 24, 1992, [106 Stat. 3285][/us/stat/106/3285]; amended [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670].)
+([Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 934, as added [Pub. L. 102–507][/us/pl/102/507], § 7(b)(1)(B), Oct. 24, 1992, [106 Stat. 3285][/us/stat/106/3285]; amended [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670].)
 
  __Prior Provisions__ 
 
-    A prior section 11261, [Pub. L. 99–660, title IX, § 934][/us/pl/99/660/s934], formerly § 947, Nov. 14, 1986, [100 Stat. 3811][/us/stat/100/3811]; renumbered § 934, [Pub. L. 100–607, title I, § 142(c)(2)(B)][/us/pl/100/607/s142/c/2/B], Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057]; [Pub. L. 102–54, § 13(q)(14)(B)][/us/pl/102/54/s13/q/14/B], June 13, 1991, [105 Stat. 282][/us/stat/105/282], related to research relevant to appropriate services for individuals with Alzheimer’s disease and related dementias, prior to repeal by [Pub. L. 102–507, § 7(b)(1)(B)][/us/pl/102/507/s7/b/1/B].
+    A prior section 11261, [Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 934, formerly § 947, Nov. 14, 1986, [100 Stat. 3811][/us/stat/100/3811]; renumbered § 934, [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 142(c)(2)(B), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(14)(B), June 13, 1991, [105 Stat. 282][/us/stat/105/282], related to research relevant to appropriate services for individuals with Alzheimer’s disease and related dementias, prior to repeal by [Pub. L. 102–507][/us/pl/102/507], § 7(b)(1)(B).
 
  __Amendments__ 
 
@@ -56,18 +56,18 @@
 ----------
 ----------
 
-[/us/pl/99/660/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs934
-[/us/pl/102/507/s7/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fb%2F1%2FB
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3285
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
-[/us/pl/99/660/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs934
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3811
-[/us/pl/100/607/s142/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fc%2F2%2FB
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
-[/us/pl/102/54/s13/q/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F14%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F282
-[/us/pl/102/507/s7/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fb%2F1%2FB
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 
 

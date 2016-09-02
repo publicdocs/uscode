@@ -27,7 +27,7 @@
 
         The dates set forth in subsections (a) and (b) of this section shall not be subject to change by virtue of the provisions of [section 1589a of this title][/us/usc/t42/s1589a].
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 614, as added [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title IV, § 407(a), [70 Stat. 1106][/us/stat/70/1106]; amended [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 614, as added [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title IV, § 407(a), [70 Stat. 1106][/us/stat/70/1106]; amended [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __Transfer of Functions__ 
 
@@ -46,7 +46,7 @@
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1106
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581
 

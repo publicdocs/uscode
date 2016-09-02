@@ -161,7 +161,7 @@
 
         (2) an identification of all other applicants that submitted applications under the program.
 
-([Pub. L. 109–58, title VII, § 756][/us/pl/109/58/s756], Aug. 8, 2005, [119 Stat. 829][/us/stat/119/829].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 756, Aug. 8, 2005, [119 Stat. 829][/us/stat/119/829].)
 
  __References in Text__ 
 
@@ -179,7 +179,7 @@
 ----------
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/109/58/s756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs756
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F829
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

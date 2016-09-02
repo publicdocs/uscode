@@ -17,7 +17,7 @@
 
     Payments under this subchapter pursuant to a grant or contract may be made (after necessary adjustment, in the case of grants, on account of previously made overpayments or underpayments) in advance or by way of reimbursement, in such installments and on such conditions, as the Director may determine.
 
-([Pub. L. 93–113, title II, § 222][/us/pl/93/113/s222], Oct. 1, 1973, [87 Stat. 403][/us/stat/87/403].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 222, Oct. 1, 1973, [87 Stat. 403][/us/stat/87/403].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/113/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs222
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
 [/us/stat/87/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F403
 
 

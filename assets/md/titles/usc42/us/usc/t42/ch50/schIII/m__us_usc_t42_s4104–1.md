@@ -109,7 +109,7 @@
 
         (2) flood insurance shall continue to be made available to the property owners and residents of the participating community.
 
-([Pub. L. 90–448, title XIII, § 1363A][/us/pl/90/448/s1363A], as added [Pub. L. 112–141, div. F, title II, § 100218(a)][/us/pl/112/141/s100218/a], July 6, 2012, [126 Stat. 930][/us/stat/126/930].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1363A, as added [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100218(a), July 6, 2012, [126 Stat. 930][/us/stat/126/930].)
 
 ----------
 
@@ -123,8 +123,8 @@
 [/us/usc/t42/s4101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101%2Ff
 [/us/usc/t42/s4104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%2Fb
 [/us/usc/t42/s4104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%2Fg
-[/us/pl/90/448/s1363A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1363A
-[/us/pl/112/141/s100218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100218%2Fa
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F930
 
 

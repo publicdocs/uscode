@@ -43,19 +43,19 @@
 
             To the maximum extent practicable, a plan submitted under this paragraph shall be consistent and coordinated with any existing comprehensive economic development strategy for the area.
 
-([Pub. L. 89–136, title III, § 302][/us/pl/89/136/s302], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3608][/us/stat/112/3608]; amended [Pub. L. 108–373, title III, § 302][/us/pl/108/373/s302], Oct. 27, 2004, [118 Stat. 1767][/us/stat/118/1767].)
+([Pub. L. 89–136, title III][/us/pl/89/136/tIII], § 302, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3608][/us/stat/112/3608]; amended [Pub. L. 108–373, title III][/us/pl/108/373/tIII], § 302, Oct. 27, 2004, [118 Stat. 1767][/us/stat/118/1767].)
 
  __Prior Provisions__ 
 
-    A prior section 3162, [Pub. L. 89–136, title IV, § 402][/us/pl/89/136/s402], Aug. 26, 1965, [79 Stat. 561][/us/stat/79/561]; [Pub. L. 92–65, title I, § 107][/us/pl/92/65/s107], Aug. 5, 1971, [85 Stat. 167][/us/stat/85/167], required annual review of area eligibility, prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior section 3162, [Pub. L. 89–136, title IV][/us/pl/89/136/tIV], § 402, Aug. 26, 1965, [79 Stat. 561][/us/stat/79/561]; [Pub. L. 92–65, title I][/us/pl/92/65/tI], § 107, Aug. 5, 1971, [85 Stat. 167][/us/stat/85/167], required annual review of area eligibility, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
-    A prior [section 302 of Pub. L. 89–136][/us/pl/89/136/s302] was classified to [section 3151a of this title][/us/usc/t42/s3151a] prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior [section 302 of Pub. L. 89–136][/us/pl/89/136/s302] was classified to [section 3151a of this title][/us/usc/t42/s3151a] prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
  __Amendments__ 
 
-    2004—Subsec. (a)(3)(A). [Pub. L. 108–373, § 302(a)][/us/pl/108/373/s302/a], inserted “maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications),” after “access,”.
+    2004—Subsec. (a)(3)(A). [Pub. L. 108–373][/us/pl/108/373], § 302(a), inserted “maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications),” after “access,”.
 
-    Subsec. (c). [Pub. L. 108–373, § 302(b)][/us/pl/108/373/s302/b], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (c). [Pub. L. 108–373][/us/pl/108/373], § 302(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 ----------
 
@@ -65,20 +65,20 @@
 ----------
 
 [/us/usc/t42/s3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3149
-[/us/pl/89/136/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs302
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtIII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3608
-[/us/pl/108/373/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs302
+[/us/pl/108/373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtIII
 [/us/stat/118/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1767
-[/us/pl/89/136/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs402
+[/us/pl/89/136/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtIV
 [/us/stat/79/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F561
-[/us/pl/92/65/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2Fs107
+[/us/pl/92/65/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2FtI
 [/us/stat/85/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F167
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/pl/89/136/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs302
 [/us/usc/t42/s3151a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3151a
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
-[/us/pl/108/373/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs302%2Fa
-[/us/pl/108/373/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs302%2Fb
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

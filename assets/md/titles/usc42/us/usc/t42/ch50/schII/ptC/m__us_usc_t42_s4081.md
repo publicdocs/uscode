@@ -35,7 +35,7 @@
 
         The Administrator may secure reinsurance of coverage provided by the flood insurance program from the private reinsurance and capital markets at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
 
-([Pub. L. 90–448, title XIII, § 1345][/us/pl/90/448/s1345], Aug. 1, 1968, [82 Stat. 585][/us/stat/82/585]; [Pub. L. 97–35, title III, § 341(e)][/us/pl/97/35/s341/e], Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V, § 574][/us/pl/103/325/s574], Sept. 23, 1994, [108 Stat. 2278][/us/stat/108/2278]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100238(b)(1), 100245, July 6, 2012, [126 Stat. 958][/us/stat/126/958], 966; [Pub. L. 113–89, § 10][/us/pl/113/89/s10], Mar. 21, 2014, [128 Stat. 1025][/us/stat/128/1025].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1345, Aug. 1, 1968, [82 Stat. 585][/us/stat/82/585]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 341(e), Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 574, Sept. 23, 1994, [108 Stat. 2278][/us/stat/108/2278]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100238(b)(1), 100245, July 6, 2012, [126 Stat. 958][/us/stat/126/958], 966; [Pub. L. 113–89][/us/pl/113/89], § 10, Mar. 21, 2014, [128 Stat. 1025][/us/stat/128/1025].)
 
  __References in Text__ 
 
@@ -45,15 +45,15 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
     2014—Subsec. (e). [Pub. L. 113–89][/us/pl/113/89] added subsec. (e).
 
-    2012—Subsecs. (a), (c). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” wherever appearing.
+    2012—Subsecs. (a), (c). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
-    Subsec. (d). [Pub. L. 112–141, § 100245][/us/pl/112/141/s100245], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 100245, added subsec. (d).
 
     1994—Subsec. (b). [Pub. L. 103–325][/us/pl/103/325] inserted before period at end “and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
@@ -73,7 +73,7 @@
 
  __Oversight and Expense Reimbursements of Insurance Companies__ 
 
-[Pub. L. 112–141, div. F, title II, § 100224][/us/pl/112/141/s100224], July 6, 2012, [126 Stat. 936][/us/stat/126/936], provided that:
+[Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100224, July 6, 2012, [126 Stat. 936][/us/stat/126/936], provided that:
 
 >     “(a) __Submission of Biennial Reports.—__ 
 
@@ -158,17 +158,17 @@
 
 [/us/usc/t42/s4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4018
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/90/448/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1345
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F585
-[/us/pl/97/35/s341/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs341%2Fe
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F419
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/103/325/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs574
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2278
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
-[/us/pl/113/89/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs10
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1025
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -177,11 +177,11 @@
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100245
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -190,7 +190,7 @@
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/141/s100224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100224
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F936
 [/us/pl/112/141/s100224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100224
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004

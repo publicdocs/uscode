@@ -17,7 +17,7 @@
 
     Payments pursuant to a grant or contract under this subchapter may be made (after necessary adjustments on account of previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments, as the Secretary may determine.
 
-([Pub. L. 88–352, title IV, § 406][/us/pl/88/352/s406], July 2, 1964, [78 Stat. 248][/us/stat/78/248]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 88–352, title IV][/us/pl/88/352/tIV], § 406, July 2, 1964, [78 Stat. 248][/us/stat/78/248]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Transfer of Functions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/88/352/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs406
+[/us/pl/88/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIV
 [/us/stat/78/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F248
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 

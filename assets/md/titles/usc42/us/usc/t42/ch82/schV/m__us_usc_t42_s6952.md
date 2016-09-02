@@ -17,7 +17,7 @@
 
     The Secretary of Commerce, acting through the National Institute of Standards and Technology, and in conjunction with national standards-setting organizations in resource recovery, shall, after public hearings, and not later than two years after September 1, 1979, publish guidelines for the development of specifications for the classification of materials recovered from waste which were destined for disposal. The specifications shall pertain to the physical and chemical properties and characteristics of such materials with regard to their use in replacing virgin materials in various industrial, commercial, and governmental uses. In establishing such guidelines the Secretary shall also, to the extent feasible, provide such information as may be necessary to assist Federal agencies with procurement of items containing recovered materials. The Secretary shall continue to cooperate with national standards-setting organizations, as may be necessary, to encourage the publication, promulgation and updating of standards for recovered materials and for the use of recovered materials in various industrial, commercial, and governmental uses.
 
-([Pub. L. 89–272, title II, § 5002][/us/pl/89/272/s5002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2820][/us/stat/90/2820]; amended [Pub. L. 96–482, § 21(a)][/us/pl/96/482/s21/a], Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 5002, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2820][/us/stat/90/2820]; amended [Pub. L. 96–482][/us/pl/96/482], § 21(a), Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __Amendments__ 
 
@@ -32,12 +32,12 @@
 ----------
 ----------
 
-[/us/pl/89/272/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs5002
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2820
-[/us/pl/96/482/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs21%2Fa
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2346
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482

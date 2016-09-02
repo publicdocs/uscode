@@ -27,7 +27,7 @@
 
     (5) $1,400,000,000 for fiscal year 2012.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
 
-([Pub. L. 94–385, title IV, § 422][/us/pl/94/385/s422], Aug. 14, 1976, [90 Stat. 1158][/us/stat/90/1158]; [Pub. L. 95–619, title II, § 231(d)][/us/pl/95/619/s231/d], Nov. 9, 1978, [92 Stat. 3226][/us/stat/92/3226]; [Pub. L. 96–294, title V, § 576][/us/pl/96/294/s576], June 30, 1980, [94 Stat. 760][/us/stat/94/760]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 464\], Nov. 30, 1983, [97 Stat. 1235][/us/stat/97/1235]; [Pub. L. 101–440, § 8(c)][/us/pl/101/440/s8/c], Oct. 18, 1990, [104 Stat. 1016][/us/stat/104/1016]; [Pub. L. 105–388, § 3][/us/pl/105/388/s3], Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477]; [Pub. L. 109–58, title I, § 122(a)][/us/pl/109/58/s122/a], Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616]; [Pub. L. 110–140, title IV, § 411(a)][/us/pl/110/140/s411/a], Dec. 19, 2007, [121 Stat. 1600][/us/stat/121/1600].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 422, Aug. 14, 1976, [90 Stat. 1158][/us/stat/90/1158]; [Pub. L. 95–619, title II][/us/pl/95/619/tII], § 231(d), Nov. 9, 1978, [92 Stat. 3226][/us/stat/92/3226]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 576, June 30, 1980, [94 Stat. 760][/us/stat/94/760]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 464\], Nov. 30, 1983, [97 Stat. 1235][/us/stat/97/1235]; [Pub. L. 101–440][/us/pl/101/440], § 8(c), Oct. 18, 1990, [104 Stat. 1016][/us/stat/104/1016]; [Pub. L. 105–388][/us/pl/105/388], § 3, Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 122(a), Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616]; [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 411(a), Dec. 19, 2007, [121 Stat. 1600][/us/stat/121/1600].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Sustainable Energy Resources for Consumers Grants__ 
 
-[Pub. L. 110–140, title IV, § 411(b)][/us/pl/110/140/s411/b], Dec. 19, 2007, [121 Stat. 1600][/us/stat/121/1600], provided that:
+[Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 411(b), Dec. 19, 2007, [121 Stat. 1600][/us/stat/121/1600], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -90,21 +90,21 @@
 ----------
 ----------
 
-[/us/pl/94/385/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs422
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1158
-[/us/pl/95/619/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs231%2Fd
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3226
-[/us/pl/96/294/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs576
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F760
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1235
-[/us/pl/101/440/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs8%2Fc
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1016
-[/us/pl/105/388/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs3
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3477
-[/us/pl/109/58/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs122%2Fa
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F616
-[/us/pl/110/140/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs411%2Fa
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1600
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
@@ -118,7 +118,7 @@
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs411%2Fb
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1600
 [/us/usc/t42/s6872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6872
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861

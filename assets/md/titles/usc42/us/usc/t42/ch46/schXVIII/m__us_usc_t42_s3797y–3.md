@@ -33,7 +33,7 @@
 
         Beginning in the third year of the program, States must certify that the local grantee’s project funded under the community grant is generally consistent with statewide strategic goals and objectives, and performance targets and measures.
 
-([Pub. L. 90–351, title I, § 2988][/us/pl/90/351/s2988], as added [Pub. L. 107–273, div. C, title I, § 11027(b)][/us/pl/107/273/s11027/b], Nov. 2, 2002, [116 Stat. 1835][/us/stat/116/1835].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2988, as added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11027(b), Nov. 2, 2002, [116 Stat. 1835][/us/stat/116/1835].)
 
 ----------
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2988
-[/us/pl/107/273/s11027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11027%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1835
 
 

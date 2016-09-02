@@ -31,7 +31,7 @@
 
         In the work of the commission every reasonable endeavor shall be made to arrive at a consensus of all members on all issues; but failing this, full opportunity shall be afforded each member for the presentation and report of individual views: Provided, That at any time the commission fails to act by reason of absence of consensus, the position of the chairman, acting in behalf of the Federal members, and the vice chairman, acting upon instructions of the State members, shall be set forth in the record: Provided further, That the chairman, in consultation with the vice chairman, shall have the final authority, in the absence of an applicable by-law adopted by the commission or in the absence of a consensus, to fix the times and places for meetings, to set deadlines for the submission of annual and other reports, to establish subcommittees, and to decide such other procedural questions as may be necessary for the commission to perform its functions.
 
-([Pub. L. 89–80, title II, § 203][/us/pl/89/80/s203], July 22, 1965, [79 Stat. 248][/us/stat/79/248].)
+([Pub. L. 89–80, title II][/us/pl/89/80/tII], § 203, July 22, 1965, [79 Stat. 248][/us/stat/79/248].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs203
+[/us/pl/89/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtII
 [/us/stat/79/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F248
 
 

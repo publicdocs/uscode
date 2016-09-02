@@ -107,23 +107,23 @@
 
         There are authorized to be appropriated to the Secretary such sums as are necessary for the administration of this section and the grants to be made pursuant to this section for fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title XIII, § 1306][/us/pl/110/140/s1306], Dec. 19, 2007, [121 Stat. 1789][/us/stat/121/1789]; [Pub. L. 111–5, div. A, title IV, § 405(5)][/us/pl/111/5/s405/5]–(8), Feb. 17, 2009, [123 Stat. 144][/us/stat/123/144].)
+([Pub. L. 110–140, title XIII][/us/pl/110/140/tXIII], § 1306, Dec. 19, 2007, [121 Stat. 1789][/us/stat/121/1789]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 405(5)–(8), Feb. 17, 2009, [123 Stat. 144][/us/stat/123/144].)
 
  __References in Text__ 
 
     The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871]. Part B of title III of the Act is classified generally to part A (§ 6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    [Section 2621(d)(17) of title 16][/us/usc/t16/s2621/d/17], referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by [Pub. L. 111–5, div. A, title IV, § 408(a)][/us/pl/111/5/s408/a], Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].
+    [Section 2621(d)(17) of title 16][/us/usc/t16/s2621/d/17], referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 408(a), Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–5, § 405(5)][/us/pl/111/5/s405/5], substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
+    2009—Subsec. (a). [Pub. L. 111–5][/us/pl/111/5], § 405(5), substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
 
-    Subsec. (b)(9). [Pub. L. 111–5, § 405(6)][/us/pl/111/5/s405/6], struck out last sentence which read as follows: “In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.”
+    Subsec. (b)(9). [Pub. L. 111–5][/us/pl/111/5], § 405(6), struck out last sentence which read as follows: “In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.”
 
-    Subsec. (c)(1). [Pub. L. 111–5, § 405(7)][/us/pl/111/5/s405/7], substituted “utilize” for “are eligible for”.
+    Subsec. (c)(1). [Pub. L. 111–5][/us/pl/111/5], § 405(7), substituted “utilize” for “are eligible for”.
 
-    Subsec. (e). [Pub. L. 111–5, § 405(8)][/us/pl/111/5/s405/8], amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
+    Subsec. (e). [Pub. L. 111–5][/us/pl/111/5], § 405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
 
 ----------
 
@@ -133,19 +133,19 @@
 ----------
 
 [/us/usc/t42/s6291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6291
-[/us/pl/110/140/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1306
+[/us/pl/110/140/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIII
 [/us/stat/121/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1789
-[/us/pl/111/5/s405/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F5
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F144
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t16/s2621/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F17
-[/us/pl/111/5/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs408%2Fa
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F146
-[/us/pl/111/5/s405/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F5
-[/us/pl/111/5/s405/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F6
-[/us/pl/111/5/s405/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F7
-[/us/pl/111/5/s405/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F8
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 
 

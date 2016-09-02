@@ -17,7 +17,7 @@
 
     Graduates of colleges of osteopathy whose graduates are eligible for licensure to practice medicine or osteopathy in a majority of the States of the United States, or approved by a body or bodies acceptable to the Secretary, shall be eligible, subject to the other provisions of this Act, for appointment as commissioned medical officers in the Public Health Service.
 
-([Feb. 28, 1948, ch. 83, § 5(b)][/us/act/1948-02-28/ch83/s5/b], [62 Stat. 40][/us/stat/62/40]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631].)
+([Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 5(b), [62 Stat. 40][/us/stat/62/40]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1948-02-28/ch83/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs5%2Fb
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F40
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83

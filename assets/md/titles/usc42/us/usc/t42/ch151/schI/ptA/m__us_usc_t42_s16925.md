@@ -45,7 +45,7 @@
 
         The provisions of this subchapter that are cast as directions to jurisdictions or their officials constitute, in relation to States, only conditions required to avoid the reduction of Federal funding under this section.
 
-([Pub. L. 109–248, title I, § 125][/us/pl/109/248/s125], July 27, 2006, [120 Stat. 598][/us/stat/120/598].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 125, July 27, 2006, [120 Stat. 598][/us/stat/120/598].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
-[/us/pl/109/248/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs125
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F598
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

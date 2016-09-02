@@ -19,11 +19,11 @@
 
     (b) The Commissioner shall establish an overall plan to govern the approval of research, demonstration, and pilot projects and the use of all research authority under this subchapter. The plan shall set forth specific objectives to be achieved and priorities among such objectives.
 
-([Pub. L. 88–452, title VIII, § 805][/us/pl/88/452/s805], as added [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324]; amended [Pub. L. 102–375, title VIII, § 822(5)][/us/pl/102/375/s822/5], Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 805, as added [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324]; amended [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(5), Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
 
  __Prior Provisions__ 
 
-    A prior section 2991d, [Pub. L. 88–452, title VIII, § 805][/us/pl/88/452/s805], as added [Pub. L. 89–794, title VIII, § 801][/us/pl/89/794/s801], Nov. 8, 1966, [80 Stat. 1474][/us/stat/80/1474], provided for special programs and projects and placing limitations on the use of appropriated funds, prior to the general amendment of this subchapter by [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722].
+    A prior section 2991d, [Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 805, as added [Pub. L. 89–794, title VIII][/us/pl/89/794/tVIII], § 801, Nov. 8, 1966, [80 Stat. 1474][/us/stat/80/1474], provided for special programs and projects and placing limitations on the use of appropriated funds, prior to the general amendment of this subchapter by [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 110, Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722].
 
  __Amendments__ 
 
@@ -36,15 +36,15 @@
 ----------
 ----------
 
-[/us/pl/88/452/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs805
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2324
-[/us/pl/102/375/s822/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F5
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1298
-[/us/pl/88/452/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs805
-[/us/pl/89/794/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs801
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/89/794/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2FtVIII
 [/us/stat/80/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1474
-[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F722
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 

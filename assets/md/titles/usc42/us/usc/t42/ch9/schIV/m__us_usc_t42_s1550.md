@@ -17,7 +17,7 @@
 
     If any provision of subchapters II to VII of this chapter, or the application thereof to any persons or circumstances, is held invalid, the remainder of said subchapters, or application of such provision to other persons or circumstances shall not be affected thereby.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 310, formerly § 13, [54 Stat. 1128][/us/stat/54/1128]; renumbered title III, § 310, [June 28, 1941, ch. 260, § 4(b)][/us/act/1941-06-28/ch260/s4/b], [55 Stat. 363][/us/stat/55/363].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 310, formerly § 13, [54 Stat. 1128][/us/stat/54/1128]; renumbered title III, § 310, [June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 4(b), [55 Stat. 363][/us/stat/55/363].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1128
-[/us/act/1941-06-28/ch260/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs4%2Fb
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F363
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 

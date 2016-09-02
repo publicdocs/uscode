@@ -43,7 +43,7 @@
 
             (D) the employees of the Department responsible for the administration of the contract for the operation of each national laboratory or facility that is a subject of the report, for consideration in the administration and review of that contract.
 
-([Pub. L. 106–404, § 11][/us/pl/106/404/s11], Nov. 1, 2000, [114 Stat. 1749][/us/stat/114/1749].)
+([Pub. L. 106–404][/us/pl/106/404], § 11, Nov. 1, 2000, [114 Stat. 1749][/us/stat/114/1749].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/106/404/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs11
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1749
 
 

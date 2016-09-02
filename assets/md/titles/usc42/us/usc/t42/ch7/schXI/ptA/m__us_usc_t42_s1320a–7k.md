@@ -145,7 +145,7 @@
 
         The Secretary shall promulgate a regulation that requires, not later than January 1, 2011, all providers of medical or other items or services and suppliers under the programs under subchapters XVIII and XIX that qualify for a national provider identifier to include their national provider identifier on all applications to enroll in such programs and on all claims for payment submitted under such programs.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128J, as added [Pub. L. 111–148, title VI, § 6402(a)][/us/pl/111/148/s6402/a], Mar. 23, 2010, [124 Stat. 753][/us/stat/124/753].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128J, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6402(a), Mar. 23, 2010, [124 Stat. 753][/us/stat/124/753].)
 
  __References in Text__ 
 
@@ -168,7 +168,7 @@
 [/us/usc/t42/s1395w–28/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fa%2F1
 [/us/usc/t42/s1395w–151/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93151%2Fa%2F13
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fa
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F753
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936

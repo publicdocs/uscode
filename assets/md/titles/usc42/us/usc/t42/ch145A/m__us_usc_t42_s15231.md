@@ -91,11 +91,11 @@
 
             (ii) the protection of Federal, State, local, or foreign government officials against threats to personal safety.
 
-([Pub. L. 110–298, § 2][/us/pl/110/298/s2], July 31, 2008, [122 Stat. 2985][/us/stat/122/2985].)
+([Pub. L. 110–298][/us/pl/110/298], § 2, July 31, 2008, [122 Stat. 2985][/us/stat/122/2985].)
 
  __Short Title__ 
 
-[Pub. L. 110–298, § 1][/us/pl/110/298/s1], July 31, 2008, [122 Stat. 2985][/us/stat/122/2985], provided that: 
+[Pub. L. 110–298][/us/pl/110/298], § 1, July 31, 2008, [122 Stat. 2985][/us/stat/122/2985], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Law Enforcement Congressional Badge of Bravery Act of 2008’.”
 
@@ -113,9 +113,9 @@
 [/us/usc/t42/s15253/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15253%2Fa
 [/us/usc/t42/s15253/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15253%2Fc
 [/us/usc/t42/s15251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15251
-[/us/pl/110/298/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs2
+[/us/pl/110/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298
 [/us/stat/122/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2985
-[/us/pl/110/298/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs1
+[/us/pl/110/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298
 [/us/stat/122/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2985
 
 

@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated $750,000 for each of the fiscal years 1978 and 1979 to carry out this section.
 
-([Pub. L. 89–272, title II, § 2004][/us/pl/89/272/s2004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2805][/us/stat/90/2805].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2004, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2805][/us/stat/90/2805].)
 
  __Transfer of Functions__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2004
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2805
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

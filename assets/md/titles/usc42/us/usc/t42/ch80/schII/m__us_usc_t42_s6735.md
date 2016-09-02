@@ -31,7 +31,7 @@
 
         The results of such investigation shall be submitted to the Congress not later than March 1, 1978, in order that such results may be available during congressional consideration of any extension of this chapter beyond the fiscal year ending September 30, 1978.
 
-([Pub. L. 94–369, title II, § 215][/us/pl/94/369/s215], July 22, 1976, [90 Stat. 1010][/us/stat/90/1010]; [Pub. L. 95–30, title VI, § 606][/us/pl/95/30/s606], May 23, 1977, [91 Stat. 167][/us/stat/91/167].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 215, July 22, 1976, [90 Stat. 1010][/us/stat/90/1010]; [Pub. L. 95–30, title VI][/us/pl/95/30/tVI], § 606, May 23, 1977, [91 Stat. 167][/us/stat/91/167].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/94/369/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs215
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1010
-[/us/pl/95/30/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs606
+[/us/pl/95/30/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtVI
 [/us/stat/91/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F167
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

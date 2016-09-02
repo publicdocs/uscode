@@ -209,7 +209,7 @@
 
         Not later than 6 months after June 10, 1993, the Director of NIH, acting through the Office of the Director of NIH, after consultation with the Council, shall issue guidelines with respect to grants under subsection (a) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404I, formerly § 481A, as added [Pub. L. 103–43, title XV, § 1502][/us/pl/103/43/s1502], June 10, 1993, [107 Stat. 173][/us/stat/107/173]; amended [Pub. L. 105–392, title I, § 101(c)][/us/pl/105/392/s101/c], Nov. 13, 1998, [112 Stat. 3537][/us/stat/112/3537]; [Pub. L. 106–505, title III, § 303][/us/pl/106/505/s303], Nov. 13, 2000, [114 Stat. 2330][/us/stat/114/2330]; [Pub. L. 108–276, § 2(b)][/us/pl/108/276/s2/b], July 21, 2004, [118 Stat. 841][/us/stat/118/841]; [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(40), 104(b)(1)(M), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3693; renumbered § 404I and amended [Pub. L. 112–74, div. F, title II, § 221(b)(1)][/us/pl/112/74/s221/b/1], Dec. 23, 2011, [125 Stat. 1087][/us/stat/125/1087].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404I, formerly § 481A, as added [Pub. L. 103–43, title XV][/us/pl/103/43/tXV], § 1502, June 10, 1993, [107 Stat. 173][/us/stat/107/173]; amended [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 101(c), Nov. 13, 1998, [112 Stat. 3537][/us/stat/112/3537]; [Pub. L. 106–505, title III][/us/pl/106/505/tIII], § 303, Nov. 13, 2000, [114 Stat. 2330][/us/stat/114/2330]; [Pub. L. 108–276][/us/pl/108/276], § 2(b), July 21, 2004, [118 Stat. 841][/us/stat/118/841]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 103(b)(40), 104(b)(1)(M), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3693; renumbered § 404I and amended [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(b)(1), Dec. 23, 2011, [125 Stat. 1087][/us/stat/125/1087].)
 
  __References in Text__ 
 
@@ -221,83 +221,83 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1). [Pub. L. 112–74, § 221(b)(1)(B)(i)][/us/pl/112/74/s221/b/1/B/i], substituted “acting through the Office of the Director of NIH or the Director of the National Institute of Allergy and Infectious Diseases” for “acting through the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
+    2011—Subsec. (a)(1). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(i), substituted “acting through the Office of the Director of NIH or the Director of the National Institute of Allergy and Infectious Diseases” for “acting through the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
 
-    Subsec. (b)(1)(A). [Pub. L. 112–74, § 221(b)(1)(B)(vi)(I)][/us/pl/112/74/s221/b/1/B/vi/I], struck out “within the Center” after “established”.
+    Subsec. (b)(1)(A). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(vi)(I), struck out “within the Center” after “established”.
 
-    Subsec. (b)(1)(B). [Pub. L. 112–74, § 221(b)(1)(B)(v)][/us/pl/112/74/s221/b/1/B/v], substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+    Subsec. (b)(1)(B). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
 
-    Subsec. (b)(2)(A). [Pub. L. 112–74, § 221(b)(1)(B)(vi)(II)(aa)][/us/pl/112/74/s221/b/1/B/vi/II/aa], substituted “and the Council of Councils established under section 282(l) of this title (in this section referred to as the ‘Council’)” for “and the advisory council established under [section 287a of this title][/us/usc/t42/s287a] (in this section referred to as the ‘Advisory Council’)”.
+    Subsec. (b)(2)(A). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(vi)(II)(aa), substituted “and the Council of Councils established under section 282(l) of this title (in this section referred to as the ‘Council’)” for “and the advisory council established under [section 287a of this title][/us/usc/t42/s287a] (in this section referred to as the ‘Advisory Council’)”.
 
-    [Pub. L. 112–74, § 221(b)(1)(B)(iii)][/us/pl/112/74/s221/b/1/B/iii], substituted “Director of NIH” for “Director of the Center”.
+    [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(iii), substituted “Director of NIH” for “Director of the Center”.
 
-    Subsec. (b)(2)(B). [Pub. L. 112–74, § 221(b)(1)(B)(vi)(II)(bb)][/us/pl/112/74/s221/b/1/B/vi/II/bb], struck out “Advisory” before “Council”.
+    Subsec. (b)(2)(B). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(vi)(II)(bb), struck out “Advisory” before “Council”.
 
-    [Pub. L. 112–74, § 221(b)(1)(B)(iii)][/us/pl/112/74/s221/b/1/B/iii], substituted “Director of NIH” for “Director of the Center”.
+    [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(iii), substituted “Director of NIH” for “Director of the Center”.
 
-    Subsec. (b)(2)(C). [Pub. L. 112–74, § 221(b)(1)(B)(vi)(II)(bb)][/us/pl/112/74/s221/b/1/B/vi/II/bb], struck out “Advisory” before “Council”.
+    Subsec. (b)(2)(C). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(vi)(II)(bb), struck out “Advisory” before “Council”.
 
-    Subsec. (b)(2)(D). [Pub. L. 112–74, § 221(b)(1)(B)(vi)(II)(bb)][/us/pl/112/74/s221/b/1/B/vi/II/bb], struck out “Advisory” before “Council”.
+    Subsec. (b)(2)(D). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(vi)(II)(bb), struck out “Advisory” before “Council”.
 
-    [Pub. L. 112–74, § 221(b)(1)(B)(iii)][/us/pl/112/74/s221/b/1/B/iii], substituted “Director of NIH” for “Director of the Center” in introductory provisions and cl. (ii).
+    [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(iii), substituted “Director of NIH” for “Director of the Center” in introductory provisions and cl. (ii).
 
-    Subsec. (b)(3)(A). [Pub. L. 112–74, § 221(b)(1)(B)(v)][/us/pl/112/74/s221/b/1/B/v], substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places.
+    Subsec. (b)(3)(A). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places.
 
-    [Pub. L. 112–74, § 221(b)(1)(B)(iv)][/us/pl/112/74/s221/b/1/B/iv], struck out comma after “Director of the Center” the first place appearing.
+    [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(iv), struck out comma after “Director of the Center” the first place appearing.
 
-    Subsec. (b)(4). [Pub. L. 112–74, § 221(b)(1)(B)(v)][/us/pl/112/74/s221/b/1/B/v], substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places in introductory provisions.
+    Subsec. (b)(4). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places in introductory provisions.
 
-    Subsec. (b)(6)(B). [Pub. L. 112–74, § 221(b)(1)(B)(v)][/us/pl/112/74/s221/b/1/B/v], substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+    Subsec. (b)(6)(B). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
 
-    Subsec. (c)(1). [Pub. L. 112–74, § 221(b)(1)(B)(ii)][/us/pl/112/74/s221/b/1/B/ii], substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 112–74, § 221(b)(1)(B)(v)][/us/pl/112/74/s221/b/1/B/v], substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places in introductory provisions.
 
-    Subsec. (d). [Pub. L. 112–74, § 221(b)(1)(B)(ii)][/us/pl/112/74/s221/b/1/B/ii], substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
+    Subsec. (d). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
 
-    Subsec. (e). [Pub. L. 112–74, § 221(b)(1)(B)(ii)][/us/pl/112/74/s221/b/1/B/ii], substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases” wherever appearing.
+    Subsec. (e). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases” wherever appearing.
 
-    Subsec. (f)(1). [Pub. L. 112–74, § 221(b)(1)(B)(v)][/us/pl/112/74/s221/b/1/B/v], substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+    Subsec. (f)(1). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
 
-    [Pub. L. 112–74, § 221(b)(1)(B)(iv)][/us/pl/112/74/s221/b/1/B/iv], struck out comma after “Director of the Center”.
+    [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(iv), struck out comma after “Director of the Center”.
 
-    Subsec. (f)(2). [Pub. L. 112–74, § 221(b)(1)(B)(ii)][/us/pl/112/74/s221/b/1/B/ii], substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
+    Subsec. (f)(2). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
 
-    Subsec. (g). [Pub. L. 112–74, § 221(b)(1)(B)(vii)][/us/pl/112/74/s221/b/1/B/vii], substituted “after consultation with the Council” for “after consultation with the Advisory Council”.
+    Subsec. (g). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(vii), substituted “after consultation with the Council” for “after consultation with the Advisory Council”.
 
-    [Pub. L. 112–74, § 221(b)(1)(B)(v)][/us/pl/112/74/s221/b/1/B/v], substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+    [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
 
-    [Pub. L. 112–74, § 221(b)(1)(B)(iv)][/us/pl/112/74/s221/b/1/B/iv], struck out comma after “Director of the Center”.
+    [Pub. L. 112–74][/us/pl/112/74], § 221(b)(1)(B)(iv), struck out comma after “Director of the Center”.
 
-    2007—Subsec. (c)(2). [Pub. L. 109–482, § 103(b)(40)(A)][/us/pl/109/482/s103/b/40/A], in introductory provisions, substituted “to carry out this section for a fiscal year up to” for “under subsection (i)(1) of this section for a fiscal year up to” and “to carry out this section for a fiscal year that” for “under such subsection for a fiscal year that”.
+    2007—Subsec. (c)(2). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(40)(A), in introductory provisions, substituted “to carry out this section for a fiscal year up to” for “under subsection (i)(1) of this section for a fiscal year up to” and “to carry out this section for a fiscal year that” for “under such subsection for a fiscal year that”.
 
-    Subsec. (h). [Pub. L. 109–482, § 104(b)(1)(M)][/us/pl/109/482/s104/b/1/M], struck out subsec. (h) which required biennial report concerning the status of biomedical and behavioral research facilities and the availability and condition of laboratory equipment.
+    Subsec. (h). [Pub. L. 109–482][/us/pl/109/482], § 104(b)(1)(M), struck out subsec. (h) which required biennial report concerning the status of biomedical and behavioral research facilities and the availability and condition of laboratory equipment.
 
-    Subsec. (i). [Pub. L. 109–482, § 103(b)(40)(B)][/us/pl/109/482/s103/b/40/B], struck out subsec. (i) which authorized appropriations for the National Center for Research Resources and the National Institute of Allergy and Infectious Diseases.
+    Subsec. (i). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(40)(B), struck out subsec. (i) which authorized appropriations for the National Center for Research Resources and the National Institute of Allergy and Infectious Diseases.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–276, § 2(b)(1)][/us/pl/108/276/s2/b/1], inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+    2004—Subsec. (a)(1). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(1), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
 
-    Subsec. (c)(1). [Pub. L. 108–276, § 2(b)(2)(A)][/us/pl/108/276/s2/b/2/A], inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+    Subsec. (c)(1). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(2)(A), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
 
-    Subsec. (c)(2). [Pub. L. 108–276, § 2(b)(2)(B)][/us/pl/108/276/s2/b/2/B], substituted “subsection (i)(1)” for “subsection (i)” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(2)(B), substituted “subsection (i)(1)” for “subsection (i)” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 108–276, § 2(b)(3)][/us/pl/108/276/s2/b/3], inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+    Subsec. (d). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(3), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
 
-    Subsec. (e)(1). [Pub. L. 108–276, § 2(b)(4)(A)(i)][/us/pl/108/276/s2/b/4/A/i], inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(4)(A)(i), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center” in introductory provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 108–276, § 2(b)(4)(A)(ii)][/us/pl/108/276/s2/b/4/A/ii], inserted “(or, in the case of the Institute, 75 percent)” after “50 percent”.
+    Subsec. (e)(1)(A). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(4)(A)(ii), inserted “(or, in the case of the Institute, 75 percent)” after “50 percent”.
 
-    Subsec. (e)(1)(B). [Pub. L. 108–276, § 2(b)(4)(A)(iii)][/us/pl/108/276/s2/b/4/A/iii], inserted “(or, in the case of the Institute, 75 percent)” after “40 percent”.
+    Subsec. (e)(1)(B). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(4)(A)(iii), inserted “(or, in the case of the Institute, 75 percent)” after “40 percent”.
 
-    Subsec. (e)(2). [Pub. L. 108–276, § 2(b)(4)(B)][/us/pl/108/276/s2/b/4/B], inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+    Subsec. (e)(2). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(4)(B), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
 
     Subsec. (e)(4). Pub. L.108–276, § 2(b)(4)(C), inserted “of the Center or the Director of the National Institute of Allergy and Infectious Diseases” after “Director”.
 
-    Subsec. (f)(1). [Pub. L. 108–276, § 2(b)(5)(A)][/us/pl/108/276/s2/b/5/A], inserted “in the case of an award by the Director of the Center,” before “the applicant”.
+    Subsec. (f)(1). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(5)(A), inserted “in the case of an award by the Director of the Center,” before “the applicant”.
 
-    Subsec. (f)(2). [Pub. L. 108–276, § 2(b)(5)(B)][/us/pl/108/276/s2/b/5/B], inserted “of the Center or the Director of the National Institute of Allergy and Infectious Diseases” after “Director”.
+    Subsec. (f)(2). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(5)(B), inserted “of the Center or the Director of the National Institute of Allergy and Infectious Diseases” after “Director”.
 
-    Subsec. (i). [Pub. L. 108–276, § 2(b)(6)][/us/pl/108/276/s2/b/6], designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section with respect to the Center,” for “For the purpose of carrying out this section,”, and added par. (2).
+    Subsec. (i). [Pub. L. 108–276][/us/pl/108/276], § 2(b)(6), designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section with respect to the Center,” for “For the purpose of carrying out this section,”, and added par. (2).
 
     2000—[Pub. L. 106–505][/us/pl/106/505] amended section generally, adding provisions requiring the Director to provide Congress with biennial status reports.
 
@@ -309,7 +309,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–505, title III, § 302][/us/pl/106/505/s302], Nov. 13, 2000, [114 Stat. 2330][/us/stat/114/2330], provided that: 
+[Pub. L. 106–505, title III][/us/pl/106/505/tIII], § 302, Nov. 13, 2000, [114 Stat. 2330][/us/stat/114/2330], provided that: 
 
 > “Congress finds that—
 
@@ -338,67 +338,67 @@
 
 [/us/usc/t42/s289a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1502
+[/us/pl/103/43/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXV
 [/us/stat/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F173
-[/us/pl/105/392/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs101%2Fc
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3537
-[/us/pl/106/505/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs303
+[/us/pl/106/505/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtIII
 [/us/stat/114/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2330
-[/us/pl/108/276/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F841
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/112/74/s221/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1087
 [/us/usc/t42/s293c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293c
 [/us/usc/t42/s293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293
 [/us/usc/t42/s287a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a%E2%80%932
-[/us/pl/112/74/s221/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fi
-[/us/pl/112/74/s221/b/1/B/vi/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fvi%2FI
-[/us/pl/112/74/s221/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fv
-[/us/pl/112/74/s221/b/1/B/vi/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fvi%2FII%2Faa
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t42/s287a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a
-[/us/pl/112/74/s221/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fiii
-[/us/pl/112/74/s221/b/1/B/vi/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fvi%2FII%2Fbb
-[/us/pl/112/74/s221/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fiii
-[/us/pl/112/74/s221/b/1/B/vi/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fvi%2FII%2Fbb
-[/us/pl/112/74/s221/b/1/B/vi/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fvi%2FII%2Fbb
-[/us/pl/112/74/s221/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fiii
-[/us/pl/112/74/s221/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fv
-[/us/pl/112/74/s221/b/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fiv
-[/us/pl/112/74/s221/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fv
-[/us/pl/112/74/s221/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fv
-[/us/pl/112/74/s221/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fii
-[/us/pl/112/74/s221/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fv
-[/us/pl/112/74/s221/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fii
-[/us/pl/112/74/s221/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fii
-[/us/pl/112/74/s221/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fv
-[/us/pl/112/74/s221/b/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fiv
-[/us/pl/112/74/s221/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fii
-[/us/pl/112/74/s221/b/1/B/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fvii
-[/us/pl/112/74/s221/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fv
-[/us/pl/112/74/s221/b/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F1%2FB%2Fiv
-[/us/pl/109/482/s103/b/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F40%2FA
-[/us/pl/109/482/s104/b/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FM
-[/us/pl/109/482/s103/b/40/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F40%2FB
-[/us/pl/108/276/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F1
-[/us/pl/108/276/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F2%2FA
-[/us/pl/108/276/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F2%2FB
-[/us/pl/108/276/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F3
-[/us/pl/108/276/s2/b/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F4%2FA%2Fi
-[/us/pl/108/276/s2/b/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F4%2FA%2Fii
-[/us/pl/108/276/s2/b/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F4%2FA%2Fiii
-[/us/pl/108/276/s2/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F4%2FB
-[/us/pl/108/276/s2/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F5%2FA
-[/us/pl/108/276/s2/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F5%2FB
-[/us/pl/108/276/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fb%2F6
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/pl/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/usc/t42/s293c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293c
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/106/505/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs302
+[/us/pl/106/505/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtIII
 [/us/stat/114/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2330
 
 

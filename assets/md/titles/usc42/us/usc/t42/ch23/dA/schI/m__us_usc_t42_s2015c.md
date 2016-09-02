@@ -39,7 +39,7 @@
 
         (2) to conduct research in the field of science, engineering, or law, or any other field that the Commission determines is important to the work of the Commission.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 244, as added [Pub. L. 109–58, title VI, § 651(c)(4)(A)][/us/pl/109/58/s651/c/4/A], Aug. 8, 2005, [119 Stat. 802][/us/stat/119/802]; amended [Pub. L. 110–315, title IX, § 941(k)(2)(L)][/us/pl/110/315/s941/k/2/L], Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 244, as added [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 651(c)(4)(A), Aug. 8, 2005, [119 Stat. 802][/us/stat/119/802]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(L), Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
 [/us/usc/t25/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/109/58/s651/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fc%2F4%2FA
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F802
-[/us/pl/110/315/s941/k/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FL
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3467
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t25/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa

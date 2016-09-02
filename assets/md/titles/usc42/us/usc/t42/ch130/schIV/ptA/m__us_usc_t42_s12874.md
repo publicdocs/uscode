@@ -83,7 +83,7 @@
 
             The recipient shall also inform each such tenant that if the tenant chooses to move, the recipient will pay relocation assistance in accordance with the approved homeownership program.
 
-([Pub. L. 101–625, title IV, § 424][/us/pl/101/625/s424], Nov. 28, 1990, [104 Stat. 4166][/us/stat/104/4166].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 424, Nov. 28, 1990, [104 Stat. 4166][/us/stat/104/4166].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/101/625/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs424
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4166
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

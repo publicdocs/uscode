@@ -39,7 +39,7 @@
 
         Subsequent to March 24, 1972, the Commission shall have authority to investigate and act on a charge of a pattern or practice of discrimination, whether filed by or on behalf of a person claiming to be aggrieved or by a member of the Commission. All such actions shall be conducted in accordance with the procedures set forth in [section 2000e–5 of this title][/us/usc/t42/s2000e–5].
 
-([Pub. L. 88–352, title VII, § 707][/us/pl/88/352/s707], July 2, 1964, [78 Stat. 261][/us/stat/78/261]; [Pub. L. 92–261, § 5][/us/pl/92/261/s5], Mar. 24, 1972, [86 Stat. 107][/us/stat/86/107].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 707, July 2, 1964, [78 Stat. 261][/us/stat/78/261]; [Pub. L. 92–261][/us/pl/92/261], § 5, Mar. 24, 1972, [86 Stat. 107][/us/stat/86/107].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@ By virtue of the authority vested in me as President of the United States by the
 ----------
 
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
-[/us/pl/88/352/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs707
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F261
-[/us/pl/92/261/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs5
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F107
 [/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781

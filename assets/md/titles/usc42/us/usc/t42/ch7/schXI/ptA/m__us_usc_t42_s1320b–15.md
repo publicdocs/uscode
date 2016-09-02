@@ -41,11 +41,11 @@
 
         (4) the Federal Supplementary Medical Insurance Trust Fund.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1145, as added [Pub. L. 104–121, title I, § 107(a)][/us/pl/104/121/s107/a], Mar. 29, 1996, [110 Stat. 856][/us/stat/110/856].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1145, as added [Pub. L. 104–121, title I][/us/pl/104/121/tI], § 107(a), Mar. 29, 1996, [110 Stat. 856][/us/stat/110/856].)
 
  __Effective Date__ 
 
-[Pub. L. 104–121, title I, § 107(b)][/us/pl/104/121/s107/b], Mar. 29, 1996, [110 Stat. 857][/us/stat/110/857], provided that: 
+[Pub. L. 104–121, title I][/us/pl/104/121/tI], § 107(b), Mar. 29, 1996, [110 Stat. 857][/us/stat/110/857], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\].”
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/121/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs107%2Fa
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F856
-[/us/pl/104/121/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs107%2Fb
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F857
 
 

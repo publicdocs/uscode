@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to reaffirm the principle that decent affordable shelter is a basic necessity, and the general welfare of the Nation and the health and living standards of its people require better coordination and training in drug prevention programs among the public officials and agencies responsible for administering the public housing programs of the Nation.
 
-([Pub. L. 100–690, title V, § 5142][/us/pl/100/690/s5142], Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303].)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5142, Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s5142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5142
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4303
 
 

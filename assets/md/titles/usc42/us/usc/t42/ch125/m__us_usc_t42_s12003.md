@@ -133,13 +133,13 @@
 
         Each of the President’s annual budget requests submitted to Congress after December 11, 1989, shall include as separate line items each of the categories of renewable energy programs described in this subsection.
 
-([Pub. L. 101–218, § 4][/us/pl/101/218/s4], Dec. 11, 1989, [103 Stat. 1860][/us/stat/103/1860]; [Pub. L. 102–486, title XII, § 1202(b)][/us/pl/102/486/s1202/b], title XXI, § 2125(1)–(3), Oct. 24, 1992, [106 Stat. 2958][/us/stat/106/2958], 3085.)
+([Pub. L. 101–218][/us/pl/101/218], § 4, Dec. 11, 1989, [103 Stat. 1860][/us/stat/103/1860]; [Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1202(b), title XXI, § 2125(1)–(3), Oct. 24, 1992, [106 Stat. 2958][/us/stat/106/2958], 3085.)
 
  __Amendments__ 
 
-    1992—Subsec. (a)(4), (5). [Pub. L. 102–486, § 1202(b)(1)][/us/pl/102/486/s1202/b/1], added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”.
+    1992—Subsec. (a)(4), (5). [Pub. L. 102–486][/us/pl/102/486], § 1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”.
 
-    Subsec. (c)(3). [Pub. L. 102–486, § 2125(1)][/us/pl/102/486/s2125/1]–(3), struck out par. (3) which read as follows: “not to exceed $124,000,000 for fiscal year 1993, of which—
+    Subsec. (c)(3). [Pub. L. 102–486][/us/pl/102/486], § 2125(1)–(3), struck out par. (3) which read as follows: “not to exceed $124,000,000 for fiscal year 1993, of which—
 
     “(A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;
 
@@ -157,11 +157,11 @@
 [/us/usc/t42/s12006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12006
 [/us/usc/t42/s12006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12006
 [/us/usc/t42/s12001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12001%2Fb
-[/us/pl/101/218/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs4
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1860
-[/us/pl/102/486/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fb
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2958
-[/us/pl/102/486/s1202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fb%2F1
-[/us/pl/102/486/s2125/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2125%2F1
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 
 

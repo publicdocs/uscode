@@ -287,17 +287,17 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 519, formerly title III, § 399D, as added [Pub. L. 102–321, title IV, § 401(a)][/us/pl/102/321/s401/a], July 10, 1992, [106 Stat. 419][/us/stat/106/419]; renumbered § 399A, renumbered title V, § 519, and amended [Pub. L. 106–310, div. A, title V, § 502(1)][/us/pl/106/310/s502/1], div. B, title XXXI, § 3106(a)–(m), Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115], 1175–1179; [Pub. L. 108–446, title III, § 305(i)(1)][/us/pl/108/446/s305/i/1], (3), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 519, formerly title III, § 399D, as added [Pub. L. 102–321, title IV][/us/pl/102/321/tIV], § 401(a), July 10, 1992, [106 Stat. 419][/us/stat/106/419]; renumbered § 399A, renumbered title V, § 519, and amended [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 502(1), div. B, title XXXI, § 3106(a)–(m), Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115], 1175–1179; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(i)(1), (3), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (a)(3)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
-    Subparagraph (A)(ii), referred to in subsec. (a)(3)(B)(i), meaning subsec. (a)(3)(A)(ii) of this section was redesignated as subsec. (a)(3)(A)(i)(II) and a new subsec. (a)(3)(A)(ii) was added by [Pub. L. 106–310, div. B, title XXXI, § 3106(a)(3)(B)(i)][/us/pl/106/310/s3106/a/3/B/i], (C), Oct. 17, 2000, [114 Stat. 1176][/us/stat/114/1176].
+    Subparagraph (A)(ii), referred to in subsec. (a)(3)(B)(i), meaning subsec. (a)(3)(A)(ii) of this section was redesignated as subsec. (a)(3)(A)(i)(II) and a new subsec. (a)(3)(A)(ii) was added by [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3106(a)(3)(B)(i), (C), Oct. 17, 2000, [114 Stat. 1176][/us/stat/114/1176].
 
     The Head Start Act, referred to in subsec. (b)(7)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title][/us/usc/t42/s9801] and Tables.
 
-    The Individuals with Disabilities Education Act, referred to in subsecs. (b)(8) and (h)(2), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Part H of the Act was classified generally to subchapter VIII (§ 1471 et seq.) of chapter 33 of Title 20, prior to repeal by [Pub. L. 105–17, title II, § 203(b)][/us/pl/105/17/s203/b], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
+    The Individuals with Disabilities Education Act, referred to in subsecs. (b)(8) and (h)(2), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Part H of the Act was classified generally to subchapter VIII (§ 1471 et seq.) of chapter 33 of Title 20, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(b), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (n)(3), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
@@ -307,107 +307,107 @@
 
  __Amendments__ 
 
-    2004—Subsecs. (b)(8), (f). [Pub. L. 108–446, § 305(i)(1)][/us/pl/108/446/s305/i/1], (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
+    2004—Subsecs. (b)(8), (f). [Pub. L. 108–446][/us/pl/108/446], § 305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
-    2000—[Pub. L. 106–310, § 3106(a)][/us/pl/106/310/s3106/a]–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by [section 502(1) of Pub. L. 106–310][/us/pl/106/310/s502/1]. See source credit above and notes below.
+    2000—[Pub. L. 106–310][/us/pl/106/310], § 3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by [section 502(1) of Pub. L. 106–310][/us/pl/106/310/s502/1]. See source credit above and notes below.
 
-    Subsec. (a)(1). [Pub. L. 106–310, § 3106(a)(1)(A)][/us/pl/106/310/s3106/a/1/A], substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Health Resources and Services Administration” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 106–310][/us/pl/106/310], § 3106(a)(1)(A), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Health Resources and Services Administration” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 106–310, § 3106(a)(2)(A)][/us/pl/106/310/s3106/a/2/A], struck out “and” at end.
+    Subsec. (a)(1)(B). [Pub. L. 106–310][/us/pl/106/310], § 3106(a)(2)(A), struck out “and” at end.
 
-    Subsec. (a)(1)(C). [Pub. L. 106–310, § 3106(a)(2)(B)][/us/pl/106/310/s3106/a/2/B], substituted “through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and” for period at end.
+    Subsec. (a)(1)(C). [Pub. L. 106–310][/us/pl/106/310], § 3106(a)(2)(B), substituted “through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and” for period at end.
 
-    Subsec. (a)(1)(D). [Pub. L. 106–310, § 3106(a)(2)(C)][/us/pl/106/310/s3106/a/2/C], added subpar. (D).
+    Subsec. (a)(1)(D). [Pub. L. 106–310][/us/pl/106/310], § 3106(a)(2)(C), added subpar. (D).
 
-    Subsec. (a)(2). [Pub. L. 106–310, § 3106(a)(1)(B)][/us/pl/106/310/s3106/a/1/B], substituted “Administrator of the Health Resources and Services Administration” for “Administrator of the Substance Abuse and Mental Health Services Administration”.
+    Subsec. (a)(2). [Pub. L. 106–310][/us/pl/106/310], § 3106(a)(1)(B), substituted “Administrator of the Health Resources and Services Administration” for “Administrator of the Substance Abuse and Mental Health Services Administration”.
 
-    Subsec. (a)(3)(A). [Pub. L. 106–310, § 3106(a)(3)][/us/pl/106/310/s3106/a/3], redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added cl. (ii).
+    Subsec. (a)(3)(A). [Pub. L. 106–310][/us/pl/106/310], § 3106(a)(3), redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added cl. (ii).
 
-    Subsec. (b). [Pub. L. 106–310, § 3106(b)(3)][/us/pl/106/310/s3106/b/3], inserted concluding provisions.
+    Subsec. (b). [Pub. L. 106–310][/us/pl/106/310], § 3106(b)(3), inserted concluding provisions.
 
-    Subsec. (b)(1). [Pub. L. 106–310, § 3106(b)(1)][/us/pl/106/310/s3106/b/1], inserted “alcohol and drug,” after “psychological,”.
+    Subsec. (b)(1). [Pub. L. 106–310][/us/pl/106/310], § 3106(b)(1), inserted “alcohol and drug,” after “psychological,”.
 
-    Subsec. (b)(5). [Pub. L. 106–310, § 3106(b)(2)][/us/pl/106/310/s3106/b/2], added par. (5) and struck out former par. (5) relating to preventive counseling services.
+    Subsec. (b)(5). [Pub. L. 106–310][/us/pl/106/310], § 3106(b)(2), added par. (5) and struck out former par. (5) relating to preventive counseling services.
 
-    Subsec. (c)(1). [Pub. L. 106–310, § 3106(c)(1)(A)][/us/pl/106/310/s3106/c/1/A], inserted “, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements” before colon in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 106–310][/us/pl/106/310], § 3106(c)(1)(A), inserted “, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements” before colon in introductory provisions.
 
-    Subsec. (c)(1)(D), (E). [Pub. L. 106–310, § 3106(c)(1)(B)][/us/pl/106/310/s3106/c/1/B], added subpars. (D) and (E).
+    Subsec. (c)(1)(D), (E). [Pub. L. 106–310][/us/pl/106/310], § 3106(c)(1)(B), added subpars. (D) and (E).
 
-    Subsec. (c)(2)(A). [Pub. L. 106–310, § 3106(c)(2)(A)][/us/pl/106/310/s3106/c/2/A], added subpar. (A) and struck out former subpar. (A) relating to encouragement to participate in and referrals to appropriate substance abuse treatment.
+    Subsec. (c)(2)(A). [Pub. L. 106–310][/us/pl/106/310], § 3106(c)(2)(A), added subpar. (A) and struck out former subpar. (A) relating to encouragement to participate in and referrals to appropriate substance abuse treatment.
 
-    Subsec. (c)(2)(C). [Pub. L. 106–310, § 3106(c)(2)(B)][/us/pl/106/310/s3106/c/2/B], which directed substitution of “and counseling on the human immunodeficiency virus and acquired immune deficiency syndrome” for “, including educational and career planning”, was executed by making the substitution for “, including education and career planning” to reflect the probable intent of Congress.
+    Subsec. (c)(2)(C). [Pub. L. 106–310][/us/pl/106/310], § 3106(c)(2)(B), which directed substitution of “and counseling on the human immunodeficiency virus and acquired immune deficiency syndrome” for “, including educational and career planning”, was executed by making the substitution for “, including education and career planning” to reflect the probable intent of Congress.
 
-    Subsec. (c)(2)(D). [Pub. L. 106–310, § 3106(c)(2)(C)][/us/pl/106/310/s3106/c/2/C], struck out “conflict and” before “violence”.
+    Subsec. (c)(2)(D). [Pub. L. 106–310][/us/pl/106/310], § 3106(c)(2)(C), struck out “conflict and” before “violence”.
 
-    Subsec. (c)(2)(E). [Pub. L. 106–310, § 3106(c)(2)(D)][/us/pl/106/310/s3106/c/2/D], substituted “Career planning and education services” for “Remedial education services”.
+    Subsec. (c)(2)(E). [Pub. L. 106–310][/us/pl/106/310], § 3106(c)(2)(D), substituted “Career planning and education services” for “Remedial education services”.
 
-    Subsec. (c)(3)(D). [Pub. L. 106–310, § 3106(c)(3)][/us/pl/106/310/s3106/c/3], inserted “which include child abuse and neglect prevention techniques” before period at end.
+    Subsec. (c)(3)(D). [Pub. L. 106–310][/us/pl/106/310], § 3106(c)(3), inserted “which include child abuse and neglect prevention techniques” before period at end.
 
-    Subsec. (d). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsec. (d). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    [Pub. L. 106–310, § 3106(d)(1)][/us/pl/106/310/s3106/d/1], substituted “Eligible entities” for “Considerations in making grants” in heading and “The Secretary shall distribute the grants through the following types of entities:” for “In making grants under subsection (a) of this section, the Secretary shall ensure that the grants are reasonably distributed among the following types of entities:” in introductory provisions.
+    [Pub. L. 106–310][/us/pl/106/310], § 3106(d)(1), substituted “Eligible entities” for “Considerations in making grants” in heading and “The Secretary shall distribute the grants through the following types of entities:” for “In making grants under subsection (a) of this section, the Secretary shall ensure that the grants are reasonably distributed among the following types of entities:” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 106–310, § 3106(d)(2)][/us/pl/106/310/s3106/d/2], substituted “drug early intervention, prevention or treatment programs” for “drug treatment programs”.
+    Subsec. (d)(1). [Pub. L. 106–310][/us/pl/106/310], § 3106(d)(2), substituted “drug early intervention, prevention or treatment programs” for “drug treatment programs”.
 
-    Subsec. (d)(2)(A). [Pub. L. 106–310, § 3106(d)(3)(A)][/us/pl/106/310/s3106/d/3/A], substituted “; or” for “; and”.
+    Subsec. (d)(2)(A). [Pub. L. 106–310][/us/pl/106/310], § 3106(d)(3)(A), substituted “; or” for “; and”.
 
-    Subsec. (d)(2)(B). [Pub. L. 106–310, § 3106(d)(3)(B)][/us/pl/106/310/s3106/d/3/B], inserted “or pediatric health or mental health providers and family mental health providers” before period at end.
+    Subsec. (d)(2)(B). [Pub. L. 106–310][/us/pl/106/310], § 3106(d)(3)(B), inserted “or pediatric health or mental health providers and family mental health providers” before period at end.
 
-    Subsec. (e). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(1), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f) relating to coordination with other providers.
+    Subsec. (f). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(1), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f) relating to coordination with other providers.
 
-    Subsec. (h)(2). [Pub. L. 106–310, § 3106(e)(1)][/us/pl/106/310/s3106/e/1], inserted “including maternal and child health” before “mental health”, struck out “treatment programs” after “substance abuse”, and substituted “, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H of the Individuals with Disabilities Education Act; and” for “and the State agency responsible for administering public maternal and child health services”.
+    Subsec. (h)(2). [Pub. L. 106–310][/us/pl/106/310], § 3106(e)(1), inserted “including maternal and child health” before “mental health”, struck out “treatment programs” after “substance abuse”, and substituted “, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H of the Individuals with Disabilities Education Act; and” for “and the State agency responsible for administering public maternal and child health services”.
 
-    Subsec. (h)(3), (4). [Pub. L. 106–310, § 3106(e)(2)][/us/pl/106/310/s3106/e/2], redesignated par. (4) as (3) and struck out former par. (3) relating to requirement to submit to Secretary information demonstrating that the applicant has established a collaborative relationship with child welfare agencies and child protective services.
+    Subsec. (h)(3), (4). [Pub. L. 106–310][/us/pl/106/310], § 3106(e)(2), redesignated par. (4) as (3) and struck out former par. (3) relating to requirement to submit to Secretary information demonstrating that the applicant has established a collaborative relationship with child welfare agencies and child protective services.
 
-    Subsec. (i)(6)(B). [Pub. L. 106–310, § 3106(f)(1)][/us/pl/106/310/s3106/f/1], inserted “and” at end.
+    Subsec. (i)(6)(B). [Pub. L. 106–310][/us/pl/106/310], § 3106(f)(1), inserted “and” at end.
 
-    Subsec. (i)(6)(C). [Pub. L. 106–310, § 3106(f)(2)][/us/pl/106/310/s3106/f/2], added subpar. (C) and struck out former subpar. (C) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under section.
+    Subsec. (i)(6)(C). [Pub. L. 106–310][/us/pl/106/310], § 3106(f)(2), added subpar. (C) and struck out former subpar. (C) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under section.
 
-    Subsec. (i)(6)(D), (E). [Pub. L. 106–310, § 3106(f)(2)][/us/pl/106/310/s3106/f/2], struck out subpars. (D) and (E) relating to the number of children described in subparagraph (C) who were reunited with their families and the number of children described in subparagraph (C) for whom a permanent plan has not been made or for whom the permanent plan is other than family reunification, respectively.
+    Subsec. (i)(6)(D), (E). [Pub. L. 106–310][/us/pl/106/310], § 3106(f)(2), struck out subpars. (D) and (E) relating to the number of children described in subparagraph (C) who were reunited with their families and the number of children described in subparagraph (C) for whom a permanent plan has not been made or for whom the permanent plan is other than family reunification, respectively.
 
-    Subsec. (k). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(2), (3), redesignated subsec. (l) as (k) and struck out former subsec. (k) relating to peer review.
+    Subsec. (k). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(2), (3), redesignated subsec. (l) as (k) and struck out former subsec. (k) relating to peer review.
 
-    Subsec. (k)(2). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(5), which directed amendment of subsec. (k)(2) of this section by substituting “(i)” for “(h)”, could not be executed because “(h)” does not appear in subsec. (k)(2).
+    Subsec. (k)(2). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(5), which directed amendment of subsec. (k)(2) of this section by substituting “(i)” for “(h)”, could not be executed because “(h)” does not appear in subsec. (k)(2).
 
-    Subsec. (l). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3), redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
+    Subsec. (l). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3), redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
 
-    Subsec. (l)(3). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(6), which directed substitution of “(e)” for “(d)” in subsec. (m)(3)(E), was executed by making the substitution in concluding provisions of subsec. (l)(3) to reflect the probable intent of Congress and the amendment by [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3). See above.
+    Subsec. (l)(3). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(6), which directed substitution of “(e)” for “(d)” in subsec. (m)(3)(E), was executed by making the substitution in concluding provisions of subsec. (l)(3) to reflect the probable intent of Congress and the amendment by [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3). See above.
 
-    [Pub. L. 106–310, § 3106(g)(1)][/us/pl/106/310/s3106/g/1], inserted “and” at end.
+    [Pub. L. 106–310][/us/pl/106/310], § 3106(g)(1), inserted “and” at end.
 
-    Subsec. (l)(4). [Pub. L. 106–310, § 3106(g)(2)][/us/pl/106/310/s3106/g/2], substituted “, including increased participation in work or employment-related activities and decreased participation in welfare programs.” for semicolon at end.
+    Subsec. (l)(4). [Pub. L. 106–310][/us/pl/106/310], § 3106(g)(2), substituted “, including increased participation in work or employment-related activities and decreased participation in welfare programs.” for semicolon at end.
 
-    Subsec. (l)(5), (6). [Pub. L. 106–310, § 3106(g)(3)][/us/pl/106/310/s3106/g/3], struck out pars. (5) and (6) relating to reducing the incidence of out-of-home placement for children whose parents receive services under the program and facilitating the reunification of families after children have been placed in out-of-home care, respectively.
+    Subsec. (l)(5), (6). [Pub. L. 106–310][/us/pl/106/310], § 3106(g)(3), struck out pars. (5) and (6) relating to reducing the incidence of out-of-home placement for children whose parents receive services under the program and facilitating the reunification of families after children have been placed in out-of-home care, respectively.
 
-    Subsec. (m). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (l).
+    Subsec. (m). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (l).
 
-    Subsec. (m)(2). [Pub. L. 106–310, § 3106(h)(1)][/us/pl/106/310/s3106/h/1], inserted “and” at end.
+    Subsec. (m)(2). [Pub. L. 106–310][/us/pl/106/310], § 3106(h)(1), inserted “and” at end.
 
-    Subsec. (m)(3)(A). [Pub. L. 106–310, § 3106(h)(2)(A)][/us/pl/106/310/s3106/h/2/A], inserted “and” at end.
+    Subsec. (m)(3)(A). [Pub. L. 106–310][/us/pl/106/310], § 3106(h)(2)(A), inserted “and” at end.
 
-    Subsec. (m)(3)(B). [Pub. L. 106–310, § 3106(h)(2)(B)][/us/pl/106/310/s3106/h/2/B], substituted period for semicolon at end.
+    Subsec. (m)(3)(B). [Pub. L. 106–310][/us/pl/106/310], § 3106(h)(2)(B), substituted period for semicolon at end.
 
-    Subsec. (m)(3)(C) to (E). [Pub. L. 106–310, § 3106(h)(2)(C)][/us/pl/106/310/s3106/h/2/C], struck out subpars. (C) to (E) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under this section, the number of children described in subparagraph (C) who were reunited with their families, and the number of children described in subparagraph (C) who were permanently placed in out-of-home care, respectively.
+    Subsec. (m)(3)(C) to (E). [Pub. L. 106–310][/us/pl/106/310], § 3106(h)(2)(C), struck out subpars. (C) to (E) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under this section, the number of children described in subparagraph (C) who were reunited with their families, and the number of children described in subparagraph (C) who were permanently placed in out-of-home care, respectively.
 
-    Subsec. (m)(4). [Pub. L. 106–310, § 3106(h)(3)][/us/pl/106/310/s3106/h/3], struck out par. (4) relating to an analysis of the access provided to, and use of, related services and alcohol and drug treatment through programs carried out under this section.
+    Subsec. (m)(4). [Pub. L. 106–310][/us/pl/106/310], § 3106(h)(3), struck out par. (4) relating to an analysis of the access provided to, and use of, related services and alcohol and drug treatment through programs carried out under this section.
 
-    Subsec. (m)(5). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(6), which directed amendment of subsec. (m)(5) by substituting “(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by [Pub. L. 106–310, § 3106(h)(3)][/us/pl/106/310/s3106/h/3], (l)(3). See notes above and below.
+    Subsec. (m)(5). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(6), which directed amendment of subsec. (m)(5) by substituting “(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by [Pub. L. 106–310][/us/pl/106/310], § 3106(h)(3), (l)(3). See notes above and below.
 
-    [Pub. L. 106–310, § 3106(h)(3)][/us/pl/106/310/s3106/h/3], struck out par. (5) relating to a comparison of the costs of providing services through each of the types of entities described in subsection (d) of this section.
+    [Pub. L. 106–310][/us/pl/106/310], § 3106(h)(3), struck out par. (5) relating to a comparison of the costs of providing services through each of the types of entities described in subsection (d) of this section.
 
-    Subsec. (n). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
+    Subsec. (n). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
-    [Pub. L. 106–310, § 3106(i)][/us/pl/106/310/s3106/i], inserted at end “The periodic report shall include a quantitative estimate of the prevalence of alcohol and drug problems in families involved in the child welfare system, the barriers to treatment and prevention services facing these families, and policy recommendations for removing the identified barriers, including training for child welfare workers.”
+    [Pub. L. 106–310][/us/pl/106/310], § 3106(i), inserted at end “The periodic report shall include a quantitative estimate of the prevalence of alcohol and drug problems in families involved in the child welfare system, the barriers to treatment and prevention services facing these families, and policy recommendations for removing the identified barriers, including training for child welfare workers.”
 
-    Subsec. (o). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3), redesignated subsec. (p) as (o). Former subsec. (o) redesignated (n).
+    Subsec. (o). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3), redesignated subsec. (p) as (o). Former subsec. (o) redesignated (n).
 
-    Subsec. (o)(2)(B). [Pub. L. 106–310, § 3106(j)][/us/pl/106/310/s3106/j], struck out “dangerous” before “drugs”.
+    Subsec. (o)(2)(B). [Pub. L. 106–310][/us/pl/106/310], § 3106(j), struck out “dangerous” before “drugs”.
 
-    Subsec. (p). [Pub. L. 106–310, § 3106][/us/pl/106/310/s3106](l)(3), redesignated subsec. (p) as (o).
+    Subsec. (p). [Pub. L. 106–310][/us/pl/106/310], § 3106(l)(3), redesignated subsec. (p) as (o).
 
-    [Pub. L. 106–310, § 3106(k)][/us/pl/106/310/s3106/k], amended heading and text of subsec. (p) generally, substituting provisions relating to authorization of appropriations for provisions relating to funding for carrying out section.
+    [Pub. L. 106–310][/us/pl/106/310], § 3106(k), amended heading and text of subsec. (p) generally, substituting provisions relating to authorization of appropriations for provisions relating to funding for carrying out section.
 
  __Change of Name__ 
 
@@ -421,7 +421,7 @@
 
  __Construction__ 
 
-[Pub. L. 102–321, title IV, § 401(b)][/us/pl/102/321/s401/b], July 10, 1992, [106 Stat. 426][/us/stat/106/426], provided that: 
+[Pub. L. 102–321, title IV][/us/pl/102/321/tIV], § 401(b), July 10, 1992, [106 Stat. 426][/us/stat/106/426], provided that: 
 
 > “With respect to the program established in section 399D \[now 519\] of the Public Health Service Act \[[42 U.S.C. 290bb–25][/us/usc/t42/s290bb–25]\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs.”
 
@@ -442,88 +442,88 @@
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs401%2Fa
+[/us/pl/102/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtIV
 [/us/stat/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F419
-[/us/pl/106/310/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs502%2F1
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1115
-[/us/pl/108/446/s305/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fi%2F1
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/106/310/s3106/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa%2F3%2FB%2Fi
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1176
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
-[/us/pl/105/17/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fb
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t42/s280d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280d
-[/us/pl/108/446/s305/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fi%2F1
-[/us/pl/106/310/s3106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/106/310/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs502%2F1
-[/us/pl/106/310/s3106/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa%2F1%2FA
-[/us/pl/106/310/s3106/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa%2F2%2FA
-[/us/pl/106/310/s3106/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa%2F2%2FB
-[/us/pl/106/310/s3106/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa%2F2%2FC
-[/us/pl/106/310/s3106/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa%2F1%2FB
-[/us/pl/106/310/s3106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fa%2F3
-[/us/pl/106/310/s3106/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fb%2F3
-[/us/pl/106/310/s3106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fb%2F1
-[/us/pl/106/310/s3106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fb%2F2
-[/us/pl/106/310/s3106/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fc%2F1%2FA
-[/us/pl/106/310/s3106/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fc%2F1%2FB
-[/us/pl/106/310/s3106/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fc%2F2%2FA
-[/us/pl/106/310/s3106/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fc%2F2%2FB
-[/us/pl/106/310/s3106/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fc%2F2%2FC
-[/us/pl/106/310/s3106/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fc%2F2%2FD
-[/us/pl/106/310/s3106/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fc%2F3
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fd%2F1
-[/us/pl/106/310/s3106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fd%2F2
-[/us/pl/106/310/s3106/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fd%2F3%2FA
-[/us/pl/106/310/s3106/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fd%2F3%2FB
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fe%2F1
-[/us/pl/106/310/s3106/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fe%2F2
-[/us/pl/106/310/s3106/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Ff%2F1
-[/us/pl/106/310/s3106/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Ff%2F2
-[/us/pl/106/310/s3106/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Ff%2F2
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fg%2F1
-[/us/pl/106/310/s3106/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fg%2F2
-[/us/pl/106/310/s3106/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fg%2F3
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fh%2F1
-[/us/pl/106/310/s3106/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fh%2F2%2FA
-[/us/pl/106/310/s3106/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fh%2F2%2FB
-[/us/pl/106/310/s3106/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fh%2F2%2FC
-[/us/pl/106/310/s3106/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fh%2F3
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fh%2F3
-[/us/pl/106/310/s3106/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fh%2F3
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fi
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fj
-[/us/pl/106/310/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106
-[/us/pl/106/310/s3106/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3106%2Fk
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
-[/us/pl/102/321/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs401%2Fb
+[/us/pl/102/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtIV
 [/us/stat/106/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F426
 [/us/usc/t42/s290bb–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9325
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc

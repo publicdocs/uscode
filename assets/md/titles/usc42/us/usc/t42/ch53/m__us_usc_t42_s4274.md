@@ -35,11 +35,11 @@
 
         Thirteen members of the Commission shall constitute a quorum, but two or more members shall constitute a quorum for the purpose of conducting hearings.
 
-([Pub. L. 86–380, § 4][/us/pl/86/380/s4], Sept. 24, 1959, [73 Stat. 705][/us/stat/73/705].)
+([Pub. L. 86–380][/us/pl/86/380], § 4, Sept. 24, 1959, [73 Stat. 705][/us/stat/73/705].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 2374 of Title 5][/us/usc/t5/s2374] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2374 of Title 5][/us/usc/t5/s2374] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -50,10 +50,10 @@
 
 [/us/usc/t42/s4273/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4273%2Fa
 [/us/usc/t42/s4273/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4273%2Fa
-[/us/pl/86/380/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380%2Fs4
+[/us/pl/86/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380
 [/us/stat/73/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F705
 [/us/usc/t5/s2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2374
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

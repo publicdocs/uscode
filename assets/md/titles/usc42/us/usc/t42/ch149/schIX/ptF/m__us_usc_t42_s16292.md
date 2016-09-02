@@ -99,7 +99,7 @@
 
             The demonstrations referred to in paragraph (1) shall include solid oxide fuel cell technology for commercial, residential, and transportation applications, and distributed generation systems, using improved manufacturing production and processes.
 
-([Pub. L. 109–58, title IX, § 962][/us/pl/109/58/s962], Aug. 8, 2005, [119 Stat. 890][/us/stat/119/890].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 962, Aug. 8, 2005, [119 Stat. 890][/us/stat/119/890].)
 
  __References in Text__ 
 
@@ -112,7 +112,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs962
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F890
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F749

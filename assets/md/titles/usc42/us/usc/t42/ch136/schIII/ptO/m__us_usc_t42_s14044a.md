@@ -221,7 +221,7 @@
 
         (2) recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate.
 
-([Pub. L. 109–164, title II, § 202][/us/pl/109/164/s202], Jan. 10, 2006, [119 Stat. 3569][/us/stat/119/3569]; [Pub. L. 110–457, title III, § 302(3)][/us/pl/110/457/s302/3], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII, § 1241(a)][/us/pl/113/4/s1241/a], Mar. 7, 2013, [127 Stat. 149][/us/stat/127/149].)
+([Pub. L. 109–164, title II][/us/pl/109/164/tII], § 202, Jan. 10, 2006, [119 Stat. 3569][/us/stat/119/3569]; [Pub. L. 110–457, title III][/us/pl/110/457/tIII], § 302(3), Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1241(a), Mar. 7, 2013, [127 Stat. 149][/us/stat/127/149].)
 
  __Amendment of Section__ 
 
@@ -239,7 +239,7 @@
 
  __Effective and Termination Dates of 2013 Amendment__ 
 
-[Pub. L. 113–4, title XII, § 1241(b)][/us/pl/113/4/s1241/b], Mar. 7, 2013, [127 Stat. 153][/us/stat/127/153], provided that: 
+[Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1241(b), Mar. 7, 2013, [127 Stat. 153][/us/stat/127/153], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective during the 4-year period beginning on the date of the enactment of this Act \[March 7, 2013\].”
 
@@ -253,16 +253,16 @@
 [/us/usc/t18/s1591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1591%2Fa
 [/us/usc/t18/s1591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1591%2Fa
 [/us/usc/t42/s14044c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14044c
-[/us/pl/109/164/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs202
+[/us/pl/109/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtII
 [/us/stat/119/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3569
-[/us/pl/110/457/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs302%2F3
+[/us/pl/110/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIII
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
-[/us/pl/113/4/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1241%2Fa
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F149
 [/us/pl/113/4/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1241%2Fb
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
-[/us/pl/113/4/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1241%2Fb
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F153
 
 

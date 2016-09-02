@@ -17,11 +17,11 @@
 
     Under terms and conditions determined by the Secretary, the Secretary may accept the certifications of an applicant for assistance under this chapter that the applicant meets the requirements of this chapter.
 
-([Pub. L. 89–136, title VI, § 610][/us/pl/89/136/s610], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3616][/us/stat/112/3616].)
+([Pub. L. 89–136, title VI][/us/pl/89/136/tVI], § 610, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3616][/us/stat/112/3616].)
 
  __Prior Provisions__ 
 
-    A prior section 3220, [Pub. L. 89–136, title VII, § 710][/us/pl/89/136/s710], Aug. 26, 1965, [79 Stat. 574][/us/stat/79/574], set forth penalties for false statements, securities overvaluation, embezzlement, misapplication of funds, false book entries, schemes to defraud, and speculation, prior to repeal by [Pub. L. 105–393, title I, § 102(b)(3)][/us/pl/105/393/s102/b/3], Nov. 13, 1998, [112 Stat. 3617][/us/stat/112/3617].
+    A prior section 3220, [Pub. L. 89–136, title VII][/us/pl/89/136/tVII], § 710, Aug. 26, 1965, [79 Stat. 574][/us/stat/79/574], set forth penalties for false statements, securities overvaluation, embezzlement, misapplication of funds, false book entries, schemes to defraud, and speculation, prior to repeal by [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(b)(3), Nov. 13, 1998, [112 Stat. 3617][/us/stat/112/3617].
 
 ----------
 
@@ -30,12 +30,12 @@
 ----------
 ----------
 
-[/us/pl/89/136/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs610
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVI
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3616
-[/us/pl/89/136/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs710
+[/us/pl/89/136/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVII
 [/us/stat/79/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F574
-[/us/pl/105/393/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fb%2F3
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3617
 
 

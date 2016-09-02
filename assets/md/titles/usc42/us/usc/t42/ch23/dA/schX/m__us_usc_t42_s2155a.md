@@ -21,7 +21,7 @@
 
     (c) The procedures to be established pursuant to subsection (b) of this section shall constitute the exclusive basis for hearings in nuclear export licensing proceedings before the Commission and, notwithstanding section 189 a. of the 1954 Act \[[42 U.S.C. 2239(a)][/us/usc/t42/s2239/a]\], shall not require the Commission to grant any person an on-the-record hearing in such a proceeding.
 
-([Pub. L. 95–242, title III, § 304(b)][/us/pl/95/242/s304/b], (c), Mar. 10, 1978, [92 Stat. 135][/us/stat/92/135].)
+([Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 304(b), (c), Mar. 10, 1978, [92 Stat. 135][/us/stat/92/135].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t42/s2239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2239%2Fa
-[/us/pl/95/242/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs304%2Fb
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F135
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

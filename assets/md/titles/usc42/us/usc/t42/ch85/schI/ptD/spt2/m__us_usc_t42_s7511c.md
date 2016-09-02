@@ -65,7 +65,7 @@
 
         For purposes of this section, not later than 6 months after November 15, 1990, the Administrator shall promulgate criteria for purposes of determining the contribution of sources in one area to concentrations of ozone in another area which is a nonattainment area for ozone. Such criteria shall require that the best available air quality monitoring and modeling techniques be used for purposes of making such determinations.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 184, as added [Pub. L. 101–549, title I, § 103][/us/pl/101/549/s103], Nov. 15, 1990, [104 Stat. 2448][/us/stat/104/2448].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 184, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 103, Nov. 15, 1990, [104 Stat. 2448][/us/stat/104/2448].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t42/s7410/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fk%2F5
 [/us/usc/t42/s7410/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fa%2F2%2FD
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs103
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2448
 
 

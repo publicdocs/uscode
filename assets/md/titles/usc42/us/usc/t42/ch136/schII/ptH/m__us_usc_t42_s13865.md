@@ -21,7 +21,7 @@
 
     (2) The Attorney General shall attempt, to the extent practicable, to achieve an equitable geographic distribution of grant awards.
 
-([Pub. L. 103–322, title III, § 31705][/us/pl/103/322/s31705], Sept. 13, 1994, [108 Stat. 1891][/us/stat/108/1891].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31705, Sept. 13, 1994, [108 Stat. 1891][/us/stat/108/1891].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s13863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13863
-[/us/pl/103/322/s31705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31705
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1891
 
 

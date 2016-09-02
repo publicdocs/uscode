@@ -81,7 +81,7 @@
 
         The President shall, within one year after October 24, 1992, report to the Committee on Energy and Commerce and the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Energy and Natural Resources and the Committee on Foreign Relations of the Senate, on the progress toward the establishment of the Commission and achievement of the purposes of this section.
 
-([Pub. L. 102–486, title XXX, § 3020][/us/pl/102/486/s3020], Oct. 24, 1992, [106 Stat. 3131][/us/stat/106/3131].)
+([Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3020, Oct. 24, 1992, [106 Stat. 3131][/us/stat/106/3131].)
 
  __Change of Name__ 
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3020
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3131
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

@@ -87,7 +87,7 @@
 
         (2) With respect to any obligation issued by a State housing finance or State development agency for which the issuer has elected to receive the benefits of the assistance provided under this section, the interest paid on such obligation and received by the purchaser thereof (or his successor in interest) shall be included in gross income for the purposes of chapter 1 of title 26.
 
-([Pub. L. 93–383, title VIII, § 802(a)][/us/pl/93/383/s802/a]–(h), Aug. 22, 1974, [88 Stat. 722–724][/us/stat/88/722-724]; [Pub. L. 98–479, title II, § 203][/us/pl/98/479/s203](l)(4), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231].)
+([Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 802(a)–(h), Aug. 22, 1974, [88 Stat. 722–724][/us/stat/88/722-724]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(l)(4), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Codification__ 
 
-    In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
     Section was enacted as part of the Housing and Community Development Act of 1974, and not as part of the United States Housing Act of 1937 which comprises this chapter.
 
@@ -115,9 +115,9 @@
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/93/383/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs802%2Fa
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/722-724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F722-724
-[/us/pl/98/479/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2231
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
@@ -127,7 +127,7 @@
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 

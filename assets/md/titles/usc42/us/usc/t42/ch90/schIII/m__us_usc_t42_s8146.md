@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for carrying out the purposes of this subchapter not to exceed $5,000,000 for fiscal year 1979, and not to exceed $5,000,000 for fiscal year 1980. Any amounts appropriated under this section shall remain available until expended.
 
-([Pub. L. 95–557, title VIII, § 807][/us/pl/95/557/s807], Oct. 31, 1978, [92 Stat. 2124][/us/stat/92/2124]; [Pub. L. 96–153, title I, § 108][/us/pl/96/153/s108], Dec. 21, 1979, [93 Stat. 1105][/us/stat/93/1105].)
+([Pub. L. 95–557, title VIII][/us/pl/95/557/tVIII], § 807, Oct. 31, 1978, [92 Stat. 2124][/us/stat/92/2124]; [Pub. L. 96–153, title I][/us/pl/96/153/tI], § 108, Dec. 21, 1979, [93 Stat. 1105][/us/stat/93/1105].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/557/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs807
+[/us/pl/95/557/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVIII
 [/us/stat/92/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2124
-[/us/pl/96/153/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs108
+[/us/pl/96/153/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtI
 [/us/stat/93/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1105
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 

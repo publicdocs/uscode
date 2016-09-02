@@ -43,7 +43,7 @@
 
             The conduct of a prospective adoptive parent on his or her own behalf in the case, to the extent not prohibited by the law of the State in which the prospective adoptive parent resides.
 
-([Pub. L. 106–279, title II, § 201][/us/pl/106/279/s201], Oct. 6, 2000, [114 Stat. 830][/us/stat/114/830].)
+([Pub. L. 106–279, title II][/us/pl/106/279/tII], § 201, Oct. 6, 2000, [114 Stat. 830][/us/stat/114/830].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/106/279/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs201
+[/us/pl/106/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtII
 [/us/stat/114/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F830
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F830

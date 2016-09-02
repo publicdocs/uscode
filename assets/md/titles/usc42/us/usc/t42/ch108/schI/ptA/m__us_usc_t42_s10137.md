@@ -55,7 +55,7 @@
 
         The Secretary shall offer to any State, Indian tribe or unit of local government within whose jurisdiction a site for a repository or monitored retrievable storage facility is located under this subchapter an opportunity to designate a representative to conduct on-site oversight activities at such site. Reasonable expenses of such representatives shall be paid out of the Waste Fund.
 
-([Pub. L. 97–425, title I, § 117][/us/pl/97/425/s117], Jan. 7, 1983, [96 Stat. 2222][/us/stat/96/2222]; [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5011(m)][/us/pl/100/203/s5011/m], Dec. 22, 1987, [101 Stat. 1330–231][/us/stat/101/1330-231]; [Pub. L. 104–66, title I, § 1051(i)][/us/pl/104/66/s1051/i], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 117, Jan. 7, 1983, [96 Stat. 2222][/us/stat/96/2222]; [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5011(m), Dec. 22, 1987, [101 Stat. 1330–231][/us/stat/101/1330-231]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(i), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
 
  __Amendments__ 
 
@@ -75,13 +75,13 @@
 [/us/usc/t42/s10136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10136%2Fa
 [/us/usc/t42/s10136/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10136%2Fc
 [/us/usc/t42/s10138/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10138%2Fb
-[/us/pl/97/425/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs117
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2222
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5011/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5011%2Fm
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-231
-[/us/pl/104/66/s1051/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fi
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202

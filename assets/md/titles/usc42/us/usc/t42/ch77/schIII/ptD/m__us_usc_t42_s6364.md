@@ -99,7 +99,7 @@
 
         This subsection shall apply with respect to fiscal year 2016 and each succeeding fiscal year.
 
-([Pub. L. 114–94, div. A, title I, § 1413(c)][/us/pl/114/94/s1413/c], Dec. 4, 2015, [129 Stat. 1418][/us/stat/129/1418].)
+([Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1413(c), Dec. 4, 2015, [129 Stat. 1418][/us/stat/129/1418].)
 
  __Codification__ 
 
@@ -120,7 +120,7 @@
 [/us/usc/t2/s2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2170
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102
-[/us/pl/114/94/s1413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1413%2Fc
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1418
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

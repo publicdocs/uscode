@@ -85,7 +85,7 @@
 
         The term “educated health care consumer” means an individual who is knowledgeable about the health care system, and has background or experience in making informed decisions regarding health, medical, and scientific matters.
 
-([Pub. L. 111–148, title I, § 1304][/us/pl/111/148/s1304], title X, § 10104(d), Mar. 23, 2010, [124 Stat. 171][/us/stat/124/171], 900; [Pub. L. 114–60, § 2(a)][/us/pl/114/60/s2/a], Oct. 7, 2015, [129 Stat. 543][/us/stat/129/543].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1304, title X, § 10104(d), Mar. 23, 2010, [124 Stat. 171][/us/stat/124/171], 900; [Pub. L. 114–60][/us/pl/114/60], § 2(a), Oct. 7, 2015, [129 Stat. 543][/us/stat/129/543].)
 
  __References in Text__ 
 
@@ -93,13 +93,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–60, § 2(a)(1)][/us/pl/114/60/s2/a/1], substituted “51” for “101”.
+    2015—Subsec. (b)(1). [Pub. L. 114–60][/us/pl/114/60], § 2(a)(1), substituted “51” for “101”.
 
-    Subsec. (b)(2). [Pub. L. 114–60, § 2(a)(2)][/us/pl/114/60/s2/a/2], substituted “50” for “100”.
+    Subsec. (b)(2). [Pub. L. 114–60][/us/pl/114/60], § 2(a)(2), substituted “50” for “100”.
 
-    Subsec. (b)(3). [Pub. L. 114–60, § 2(a)(3)][/us/pl/114/60/s2/a/3], amended par. (3) generally. Prior to amendment, text read as follows: “In the case of plan years beginning before January 1, 2016, a State may elect to apply this subsection by substituting ‘51 employees’ for ‘101 employees’ in paragraph (1) and by substituting ‘50 employees’ for ‘100 employees’ in paragraph (2).”
+    Subsec. (b)(3). [Pub. L. 114–60][/us/pl/114/60], § 2(a)(3), amended par. (3) generally. Prior to amendment, text read as follows: “In the case of plan years beginning before January 1, 2016, a State may elect to apply this subsection by substituting ‘51 employees’ for ‘101 employees’ in paragraph (1) and by substituting ‘50 employees’ for ‘100 employees’ in paragraph (2).”
 
-    2010—Subsec. (e). [Pub. L. 111–148, § 10104(d)][/us/pl/111/148/s10104/d], added subsec. (e).
+    2010—Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 10104(d), added subsec. (e).
 
 ----------
 
@@ -109,15 +109,15 @@
 ----------
 
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
-[/us/pl/111/148/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1304
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F171
-[/us/pl/114/60/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
 [/us/stat/129/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F543
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/114/60/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa%2F1
-[/us/pl/114/60/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa%2F2
-[/us/pl/114/60/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa%2F3
-[/us/pl/111/148/s10104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fd
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

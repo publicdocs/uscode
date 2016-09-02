@@ -57,7 +57,7 @@
 
             Not later than 1 year after December 20, 2010, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1) and any recommendations for statutory or regulatory changes the Secretary determines appropriate. Such report may be submitted electronically.
 
-([Pub. L. 93–247, title I, § 110][/us/pl/93/247/s110], formerly § 13, as added [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 116][/us/stat/102/116]; renumbered title I, § 112, and amended [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), (b)(6), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765; renumbered § 110 and amended [Pub. L. 104–235, title I, § 113(a)(1)(B)][/us/pl/104/235/s113/a/1/B], (3), Oct. 3, 1996, [110 Stat. 3079][/us/stat/110/3079]; [Pub. L. 108–36, title I, § 118][/us/pl/108/36/s118], June 25, 2003, [117 Stat. 813][/us/stat/117/813]; [Pub. L. 111–320, title I, § 118][/us/pl/111/320/s118], Dec. 20, 2010, [124 Stat. 3475][/us/stat/124/3475].)
+([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 110, formerly § 13, as added [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 116][/us/stat/102/116]; renumbered title I, § 112, and amended [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), (b)(6), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765; renumbered § 110 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], § 113(a)(1)(B), (3), Oct. 3, 1996, [110 Stat. 3079][/us/stat/110/3079]; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 118, June 25, 2003, [117 Stat. 813][/us/stat/117/813]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 118, Dec. 20, 2010, [124 Stat. 3475][/us/stat/124/3475].)
 
  __Prior Provisions__ 
 
@@ -65,17 +65,17 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–320, § 118(a)][/us/pl/111/320/s118/a], added subsec. (a) and struck out former subsec. (a) which required the Secretary to submit to the appropriate committees of Congress a biennial report on efforts to coordinate the objectives and activities of agencies and organizations which are responsible for programs and activities related to child abuse and neglect.
+    2010—Subsec. (a). [Pub. L. 111–320][/us/pl/111/320], § 118(a), added subsec. (a) and struck out former subsec. (a) which required the Secretary to submit to the appropriate committees of Congress a biennial report on efforts to coordinate the objectives and activities of agencies and organizations which are responsible for programs and activities related to child abuse and neglect.
 
-    Subsec. (b). [Pub. L. 111–320, § 118(a)][/us/pl/111/320/s118/a], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than two years after the first fiscal year for which funds are obligated under [section 10603a of this title][/us/usc/t42/s10603a], the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of assisted programs in achieving the objectives of [section 5106c of this title][/us/usc/t42/s5106c].”
+    Subsec. (b). [Pub. L. 111–320][/us/pl/111/320], § 118(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than two years after the first fiscal year for which funds are obligated under [section 10603a of this title][/us/usc/t42/s10603a], the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of assisted programs in achieving the objectives of [section 5106c of this title][/us/usc/t42/s5106c].”
 
-    Subsec. (c). [Pub. L. 111–320, § 118(b)][/us/pl/111/320/s118/b], amended subsec. (c) generally. Prior to amendment, text read as follows:
+    Subsec. (c). [Pub. L. 111–320][/us/pl/111/320], § 118(b), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
     “(1) Study.—The Secretary shall conduct a study by random sample of the effectiveness of the citizen review panels established under [section 5106a(c) of this title][/us/usc/t42/s5106a/c].
 
     “(2) Report.—Not later than 3 years after June 25, 2003, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that contains the results of the study conducted under paragraph (1).”
 
-    Subsec. (d). [Pub. L. 111–320, § 118(c)][/us/pl/111/320/s118/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–320][/us/pl/111/320], § 118(c), added subsec. (d).
 
     2003—Subsec. (c). [Pub. L. 108–36][/us/pl/108/36] added subsec. (c).
 
@@ -85,7 +85,7 @@
 
     “(2) the technical assistance provided under [section 5106b of this title][/us/usc/t42/s5106b]”.
 
-    1989—Subsec. (b). [Pub. L. 101–126, § 3(b)(6)][/us/pl/101/126/s3/b/6], made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
+    1989—Subsec. (b). [Pub. L. 101–126][/us/pl/101/126], § 3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
 
  __Change of Name__ 
 
@@ -104,31 +104,31 @@
 [/us/usc/t42/s5106a/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fc%2F4%2FA
 [/us/usc/t42/s5106a/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fc%2F4%2FA
 [/us/usc/t42/s5106a/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fc%2F6
-[/us/pl/93/247/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs110
-[/us/pl/100/294/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs101
+[/us/pl/93/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtI
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F116
-[/us/pl/101/126/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fa%2F1
+[/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/stat/103/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F764
-[/us/pl/104/235/s113/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs113%2Fa%2F1%2FB
+[/us/pl/104/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtI
 [/us/stat/110/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3079
-[/us/pl/108/36/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs118
+[/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F813
-[/us/pl/111/320/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs118
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3475
 [/us/pl/93/247/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs110
 [/us/usc/t42/s5106d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106d
-[/us/pl/111/320/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs118%2Fa
-[/us/pl/111/320/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs118%2Fa
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s10603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603a
 [/us/usc/t42/s5106c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106c
-[/us/pl/111/320/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs118%2Fb
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s5106a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fc
-[/us/pl/111/320/s118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs118%2Fc
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
 [/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
 [/us/usc/t42/s5106c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106c
 [/us/usc/t42/s5106c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106c
 [/us/usc/t42/s5106b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106b
-[/us/pl/101/126/s3/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fb%2F6
+[/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 
 

@@ -17,7 +17,7 @@
 
     Any covered product offered for importation in violation of [section 6302 of this title][/us/usc/t42/s6302] shall be refused admission into the customs territory of the United States under rules issued by the Secretary of the Treasury, except that the Secretary of the Treasury may, by such rules, authorize the importation of such covered product upon such terms and conditions (including the furnishing of a bond) as may appear to him appropriate to ensure that such covered product will not violate [section 6302 of this title][/us/usc/t42/s6302], or will be exported or abandoned to the United States. The Secretary of the Treasury shall prescribe rules under this section not later than 180 days after December 22, 1975.
 
-([Pub. L. 94–163, title III, § 331][/us/pl/94/163/s331], Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 331, Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t42/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302
 [/us/usc/t42/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302
-[/us/pl/94/163/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs331
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F928
 
 

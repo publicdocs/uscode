@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283f.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283g)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283f.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283h _us_usc_t42_s283i.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283g)
 
 ## § 283g. Muscular dystrophy; initiative through Director of National Institutes of Health
 
@@ -123,7 +123,7 @@
 
         The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emerging therapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404E, as added [Pub. L. 107–84, § 3][/us/pl/107/84/s3], Dec. 18, 2001, [115 Stat. 824][/us/stat/115/824]; amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(4), 104(b)(1)(A), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3692; [Pub. L. 110–154, § 1(b)(3)][/us/pl/110/154/s1/b/3], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 110–361, § 2][/us/pl/110/361/s2], Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010]; [Pub. L. 113–166, § 2][/us/pl/113/166/s2], Sept. 26, 2014, [128 Stat. 1879][/us/stat/128/1879].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404E, as added [Pub. L. 107–84][/us/pl/107/84], § 3, Dec. 18, 2001, [115 Stat. 824][/us/stat/115/824]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 103(b)(4), 104(b)(1)(A), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3692; [Pub. L. 110–154][/us/pl/110/154], § 1(b)(3), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 110–361][/us/pl/110/361], § 2, Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010]; [Pub. L. 113–166][/us/pl/113/166], § 2, Sept. 26, 2014, [128 Stat. 1879][/us/stat/128/1879].)
 
  __References in Text__ 
 
@@ -131,121 +131,97 @@
 
  __Prior Provisions__ 
 
-    A prior section 283g, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404E, as added [Pub. L. 103–43, title II, § 209][/us/pl/103/43/s209], June 10, 1993, [107 Stat. 149][/us/stat/107/149], related to Office of Alternative Medicine, prior to repeal by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VI, § 601(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–387.
+    A prior section 283g, [act July 1, 1944, ch. 373, title IV][/us/act/1944-07-01/ch373/tIV], § 404E, as added [Pub. L. 103–43, title II][/us/pl/103/43/tII], § 209, June 10, 1993, [107 Stat. 149][/us/stat/107/149], related to Office of Alternative Medicine, prior to repeal by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VI, § 601(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–387.
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–166, § 2(1)][/us/pl/113/166/s2/1], substituted “Musculoskeletal” for “Muscoskeletal” and inserted “Becker, congenital muscular dystrophy, limb-girdle muscular dystrophy,” after “Duchenne,”.
+    2014—Subsec. (a)(1). [Pub. L. 113–166][/us/pl/113/166], § 2(1), substituted “Musculoskeletal” for “Muscoskeletal” and inserted “Becker, congenital muscular dystrophy, limb-girdle muscular dystrophy,” after “Duchenne,”.
 
-    Subsec. (b)(2). [Pub. L. 113–166, § 2(2)(A)][/us/pl/113/166/s2/2/A], substituted “cardiac and pulmonary function, and pharmacological” for “genetics, pharmacological”.
+    Subsec. (b)(2). [Pub. L. 113–166][/us/pl/113/166], § 2(2)(A), substituted “cardiac and pulmonary function, and pharmacological” for “genetics, pharmacological”.
 
-    Subsec. (b)(3). [Pub. L. 113–166, § 2(2)(B)][/us/pl/113/166/s2/2/B], inserted “and sharing of data” after “regular communication”.
+    Subsec. (b)(3). [Pub. L. 113–166][/us/pl/113/166], § 2(2)(B), inserted “and sharing of data” after “regular communication”.
 
-    Subsec. (d)(2). [Pub. L. 113–166, § 2(3)(A)(i)][/us/pl/113/166/s2/3/A/i], substituted “18” for “15” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 113–166][/us/pl/113/166], § 2(3)(A)(i), substituted “18” for “15” in introductory provisions.
 
-    Subsec. (d)(2)(A). [Pub. L. 113–166, § 2(3)(A)(ii)][/us/pl/113/166/s2/3/A/ii], substituted “, the Food and Drug Administration, and the Administration for Community Living” for “and the Food and Drug Administration” and “including the Department of Education and the Social Security Administration” for “such as the Department of Education” and inserted “and adults” after “children”.
+    Subsec. (d)(2)(A). [Pub. L. 113–166][/us/pl/113/166], § 2(3)(A)(ii), substituted “, the Food and Drug Administration, and the Administration for Community Living” for “and the Food and Drug Administration” and “including the Department of Education and the Social Security Administration” for “such as the Department of Education” and inserted “and adults” after “children”.
 
-    Subsec. (d)(4)(B). [Pub. L. 113–166, § 2(3)(B)][/us/pl/113/166/s2/3/B], inserted “, but shall meet no fewer than two times per calendar year” before period at end.
+    Subsec. (d)(4)(B). [Pub. L. 113–166][/us/pl/113/166], § 2(3)(B), inserted “, but shall meet no fewer than two times per calendar year” before period at end.
 
-    Subsec. (e)(1). [Pub. L. 113–166, § 2(4)(A)(i)][/us/pl/113/166/s2/4/A/i], substituted “through the agencies represented on the Coordinating Committee pursuant to subsection (d)(2)(A)” for “through the national research institutes” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 113–166][/us/pl/113/166], § 2(4)(A)(i), substituted “through the agencies represented on the Coordinating Committee pursuant to subsection (d)(2)(A)” for “through the national research institutes” in introductory provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 113–166, § 2(4)(A)(ii)][/us/pl/113/166/s2/4/A/ii], inserted “public services,” after “psychosocial,” and “, studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy” after “including studies of the impact of such diseases in rural and underserved communities”.
+    Subsec. (e)(1)(A). [Pub. L. 113–166][/us/pl/113/166], § 2(4)(A)(ii), inserted “public services,” after “psychosocial,” and “, studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy” after “including studies of the impact of such diseases in rural and underserved communities”.
 
-    Subsec. (e)(2)(D). [Pub. L. 113–166, § 2(4)(B)][/us/pl/113/166/s2/4/B], inserted “and new clinical interventions to improve the health of those with muscular dystrophy” after “including new biological agents”.
+    Subsec. (e)(2)(D). [Pub. L. 113–166][/us/pl/113/166], § 2(4)(B), inserted “and new clinical interventions to improve the health of those with muscular dystrophy” after “including new biological agents”.
 
-    2008—Subsec. (a)(1). [Pub. L. 110–361, § 2(b)(1)][/us/pl/110/361/s2/b/1], inserted “the National Heart, Lung, and Blood Institute,” after “the Eunice Kennedy Shriver National Institute of Child Health and Human Development,”.
+    2008—Subsec. (a)(1). [Pub. L. 110–361][/us/pl/110/361], § 2(b)(1), inserted “the National Heart, Lung, and Blood Institute,” after “the Eunice Kennedy Shriver National Institute of Child Health and Human Development,”.
 
-    Subsec. (b)(1). [Pub. L. 110–361, § 2(b)(2)][/us/pl/110/361/s2/b/2], inserted at end “Such centers of excellence shall be known as the ‘Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers’.”
+    Subsec. (b)(1). [Pub. L. 110–361][/us/pl/110/361], § 2(b)(2), inserted at end “Such centers of excellence shall be known as the ‘Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers’.”
 
-    Subsec. (f). [Pub. L. 110–361, § 2(a)][/us/pl/110/361/s2/a], struck out subsec. (f) which related to reports.
+    Subsec. (f). [Pub. L. 110–361][/us/pl/110/361], § 2(a), struck out subsec. (f) which related to reports.
 
-    Subsec. (g). [Pub. L. 110–361, § 2(a)][/us/pl/110/361/s2/a], (b)(3), added subsec. (g) and redesignated former subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 110–361][/us/pl/110/361], § 2(a), (b)(3), added subsec. (g) and redesignated former subsec. (g) as (f).
 
-    2007—[Pub. L. 109–482, § 104(b)(1)(A)(ii)][/us/pl/109/482/s104/b/1/A/ii], which directed amendment of subsec. (b) by striking subsec. (f) and redesignating subsec. (g) as (f), could not literally be executed and was not executed in view of amendments by [Pub. L. 110–361][/us/pl/110/361]. See 2008 Amendment notes above.
+    2007—[Pub. L. 109–482][/us/pl/109/482], § 104(b)(1)(A)(ii), which directed amendment of subsec. (b) by striking subsec. (f) and redesignating subsec. (g) as (f), could not literally be executed and was not executed in view of amendments by [Pub. L. 110–361][/us/pl/110/361]. See 2008 Amendment notes above.
 
     Subsec. (a)(1). [Pub. L. 110–154][/us/pl/110/154] substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
-    Subsec. (b)(3). [Pub. L. 109–482, § 104(b)(1)(A)(i)][/us/pl/109/482/s104/b/1/A/i], amended heading and text of par. (3) generally. Text read as follows: “The Director of NIH—
+    Subsec. (b)(3). [Pub. L. 109–482][/us/pl/109/482], § 104(b)(1)(A)(i), amended heading and text of par. (3) generally. Text read as follows: “The Director of NIH—
 
     “(A) shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers; and
 
     “(B) shall require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.”
 
-    Subsec. (h). [Pub. L. 109–482, § 103(b)(4)][/us/pl/109/482/s103/b/4], struck out heading and text of subsec. (h). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.”
+    Subsec. (h). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(4), struck out heading and text of subsec. (h). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.”
 
  __Effective Date of 2007 Amendment__ 
 
     Amendment by [Pub. L. 109–482][/us/pl/109/482] applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see [section 109 of Pub. L. 109–482][/us/pl/109/482/s109], set out as a note under [section 281 of this title][/us/usc/t42/s281].
 
-§§ 283h, 283i. __Transferred__ 
-
- __Codification__ 
-
-    Section 283h, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404F, as added [Pub. L. 107–280, § 3][/us/pl/107/280/s3], Nov. 6, 2002, [116 Stat. 1989][/us/stat/116/1989]; amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(5), 104(b)(1)(B), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3693, which related to the Office of Rare Diseases, was renumbered section 481 of act July 1, 1944, by [Pub. L. 112–74, div. F, title II, § 221(c)(2)(A)(i)][/us/pl/112/74/s221/c/2/A/i], Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089], and transferred to [section 287a–1 of this title][/us/usc/t42/s287a–1].
-
-    Section 283i, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404G, as added [Pub. L. 107–280, § 4][/us/pl/107/280/s4], Nov. 6, 2002, [116 Stat. 1990][/us/stat/116/1990]; amended [Pub. L. 109–482, title I, § 103(b)(6)][/us/pl/109/482/s103/b/6], Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], which related to rare disease regional centers of excellence, was renumbered section 481A of act July 1, 1944, by [Pub. L. 112–74, div. F, title II, § 221(c)(3)][/us/pl/112/74/s221/c/3], Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089], and transferred to [section 287a–2 of this title][/us/usc/t42/s287a–2].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283f.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283g)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283f.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptA/m__us_usc_t42_s283h _us_usc_t42_s283i.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283g)
 
 ----------
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/84/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs3
+[/us/pl/107/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84
 [/us/stat/115/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F824
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/110/154/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fb%2F3
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
-[/us/pl/110/361/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2
+[/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
 [/us/stat/122/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4010
-[/us/pl/113/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
 [/us/stat/128/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1879
 [/us/pl/107/84/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs6
 [/us/usc/t42/s247b–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9318
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs209
+[/us/act/1944-07-01/ch373/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIV
+[/us/pl/103/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtII
 [/us/stat/107/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F149
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/166/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F1
-[/us/pl/113/166/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F2%2FA
-[/us/pl/113/166/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F2%2FB
-[/us/pl/113/166/s2/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F3%2FA%2Fi
-[/us/pl/113/166/s2/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F3%2FA%2Fii
-[/us/pl/113/166/s2/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F3%2FB
-[/us/pl/113/166/s2/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F4%2FA%2Fi
-[/us/pl/113/166/s2/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F4%2FA%2Fii
-[/us/pl/113/166/s2/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F4%2FB
-[/us/pl/110/361/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2%2Fb%2F1
-[/us/pl/110/361/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2%2Fb%2F2
-[/us/pl/110/361/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2%2Fa
-[/us/pl/110/361/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2%2Fa
-[/us/pl/109/482/s104/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FA%2Fii
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
+[/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
+[/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
+[/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
+[/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
-[/us/pl/109/482/s104/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FA%2Fi
-[/us/pl/109/482/s103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F4
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/280/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F280%2Fs3
-[/us/stat/116/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1989
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
-[/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/112/74/s221/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F2%2FA%2Fi
-[/us/stat/125/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1089
-[/us/usc/t42/s287a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a%E2%80%931
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/280/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F280%2Fs4
-[/us/stat/116/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1990
-[/us/pl/109/482/s103/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F6
-[/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/112/74/s221/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F3
-[/us/stat/125/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1089
-[/us/usc/t42/s287a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a%E2%80%932
 
 

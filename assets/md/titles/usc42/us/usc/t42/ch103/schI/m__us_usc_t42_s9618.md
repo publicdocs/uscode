@@ -17,7 +17,7 @@
 
     For purposes of taking action under section 9604 or 9606 of this title and listing facilities on the National Priorities List, the President shall give a high priority to facilities where the release of hazardous substances or pollutants or contaminants has resulted in the closing of drinking water wells or has contaminated a principal drinking water supply.
 
-([Pub. L. 96–510, title I, § 118][/us/pl/96/510/s118], as added [Pub. L. 99–499, title I, § 118(a)][/us/pl/99/499/s118/a], Oct. 17, 1986, [100 Stat. 1655][/us/stat/100/1655].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 118, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 118(a), Oct. 17, 1986, [100 Stat. 1655][/us/stat/100/1655].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/96/510/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs118
-[/us/pl/99/499/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs118%2Fa
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1655
 
 

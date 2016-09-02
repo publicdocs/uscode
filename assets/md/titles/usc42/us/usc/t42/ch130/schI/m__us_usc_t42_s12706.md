@@ -17,7 +17,7 @@
 
     The Secretary shall, by regulation or otherwise, as deemed by the Secretary to be appropriate, require any application for housing assistance under subchapter II of this chapter, assistance under the Housing and Community Development Act of 1974, or assistance under the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11301][/us/usc/t42/s11301] et seq.\], to contain or be accompanied by a certification by an appropriate State or local public official that the proposed housing activities are consistent with the housing strategy of the jurisdiction to be served.
 
-([Pub. L. 101–625, title I, § 106][/us/pl/101/625/s106], Nov. 28, 1990, [104 Stat. 4091][/us/stat/104/4091]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 106, Nov. 28, 1990, [104 Stat. 4091][/us/stat/104/4091]; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
-[/us/pl/101/625/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs106
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4091
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

@@ -27,7 +27,7 @@
 
         The Secretary may promulgate regulations to implement this section.
 
-([Pub. L. 111–148, title I, § 1557][/us/pl/111/148/s1557], Mar. 23, 2010, [124 Stat. 260][/us/stat/124/260].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1557, Mar. 23, 2010, [124 Stat. 260][/us/stat/124/260].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
-[/us/pl/111/148/s1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1557
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F260
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130

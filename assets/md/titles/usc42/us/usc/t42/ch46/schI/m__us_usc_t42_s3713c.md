@@ -43,7 +43,7 @@
 
         (2) enable relevant units of the Department of Justice, including units responsible for investigating computer hacking or intellectual property crimes, to procure advanced tools of forensic science and expert computer forensic assistance, including from non-governmental entities, to investigate, prosecute, and study such crimes.
 
-([Pub. L. 110–403, title IV, § 403][/us/pl/110/403/s403], Oct. 13, 2008, [122 Stat. 4273][/us/stat/122/4273].)
+([Pub. L. 110–403, title IV][/us/pl/110/403/tIV], § 403, Oct. 13, 2008, [122 Stat. 4273][/us/stat/122/4273].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/403/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs403
+[/us/pl/110/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIV
 [/us/stat/122/4273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4273
 
 

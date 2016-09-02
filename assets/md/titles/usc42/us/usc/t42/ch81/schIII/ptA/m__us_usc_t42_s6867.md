@@ -31,7 +31,7 @@
 
         Payments under this part may be made in installments and in advance, or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments.
 
-([Pub. L. 94–385, title IV, § 417][/us/pl/94/385/s417], Aug. 14, 1976, [90 Stat. 1156][/us/stat/90/1156]; [Pub. L. 96–294, title V, § 577(2)][/us/pl/96/294/s577/2], June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 417, Aug. 14, 1976, [90 Stat. 1156][/us/stat/90/1156]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 577(2), June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/94/385/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs417
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1156
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F760
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 

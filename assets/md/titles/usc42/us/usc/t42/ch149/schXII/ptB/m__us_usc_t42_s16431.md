@@ -91,7 +91,7 @@
 
             (B) authorize abrogation of any contract or treaty obligation.
 
-([Pub. L. 109–58, title XII, § 1232][/us/pl/109/58/s1232], Aug. 8, 2005, [119 Stat. 956][/us/stat/119/956].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1232, Aug. 8, 2005, [119 Stat. 956][/us/stat/119/956].)
 
  __Codification__ 
 
@@ -106,7 +106,7 @@
 
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796
-[/us/pl/109/58/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1232
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F956
 [/us/pl/109/58/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1232
 [/us/pl/109/58/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1232

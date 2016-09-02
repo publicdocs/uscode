@@ -121,7 +121,7 @@
 
     (25) The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
 
-([Pub. L. 101–625, title I, § 104][/us/pl/101/625/s104], Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085]; [Pub. L. 102–229, title I][/us/pl/102/229], Dec. 12, 1991, [105 Stat. 1709][/us/stat/105/1709]; [Pub. L. 101–230, § 2][/us/pl/101/230/s2], Dec. 12, 1991, [105 Stat. 1720][/us/stat/105/1720]; [Pub. L. 102–486, title I, § 105(a)][/us/pl/102/486/s105/a], Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792]; [Pub. L. 102–550, title II][/us/pl/102/550], §§ 211(a)(1), 217(a), 218, 219, title IX, § 914(a), Oct. 28, 1992, [106 Stat. 3756][/us/stat/106/3756], 3760, 3761, 3877; [Pub. L. 103–233, title II, § 201][/us/pl/103/233/s201], Apr. 11, 1994, [108 Stat. 363][/us/stat/108/363].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 104, Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085]; [Pub. L. 102–229, title I][/us/pl/102/229/tI], Dec. 12, 1991, [105 Stat. 1709][/us/stat/105/1709]; [Pub. L. 101–230][/us/pl/101/230], § 2, Dec. 12, 1991, [105 Stat. 1720][/us/stat/105/1720]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 105(a), Oct. 24, 1992, [106 Stat. 2792][/us/stat/106/2792]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], §§ 211(a)(1), 217(a), 218, 219, title IX, § 914(a), Oct. 28, 1992, [106 Stat. 3756][/us/stat/106/3756], 3760, 3761, 3877; [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 201, Apr. 11, 1994, [108 Stat. 363][/us/stat/108/363].)
 
  __References in Text__ 
 
@@ -131,25 +131,25 @@
 
     1994—Par. (2). [Pub. L. 103–233][/us/pl/103/233] struck out “and” after “Columbia,” and inserted before period at end “, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act”.
 
-    1992—Par. (1). [Pub. L. 102–550, § 211(a)(1)][/us/pl/102/550/s211/a/1], amended this section to read as if amendment made by [Pub. L. 102–230, § 2(1)][/us/pl/102/230/s2/1], had not been enacted. See 1991 Amendment note below.
+    1992—Par. (1). [Pub. L. 102–550][/us/pl/102/550], § 211(a)(1), amended this section to read as if amendment made by [Pub. L. 102–230][/us/pl/102/230], § 2(1), had not been enacted. See 1991 Amendment note below.
 
-    Par. (6). [Pub. L. 102–550, § 217(a)][/us/pl/102/550/s217/a], inserted concluding provisions.
+    Par. (6). [Pub. L. 102–550][/us/pl/102/550], § 217(a), inserted concluding provisions.
 
-    Par. (8). [Pub. L. 102–550, § 218][/us/pl/102/550/s218], inserted before period at end “and elder cottage housing opportunity units that are small, free-standing, barrier-free, energy-efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings”.
+    Par. (8). [Pub. L. 102–550][/us/pl/102/550], § 218, inserted before period at end “and elder cottage housing opportunity units that are small, free-standing, barrier-free, energy-efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings”.
 
-    Par. (14)(C). [Pub. L. 102–550, § 219][/us/pl/102/550/s219], added subpar. (C).
+    Par. (14)(C). [Pub. L. 102–550][/us/pl/102/550], § 219, added subpar. (C).
 
-    Par. (24). [Pub. L. 102–550, § 211(a)(1)][/us/pl/102/550/s211/a/1], amended this section to read as if amendment made by [Pub. L. 102–230, § 2(2)][/us/pl/102/230/s2/2], had not been enacted. See 1991 Amendment note below.
+    Par. (24). [Pub. L. 102–550][/us/pl/102/550], § 211(a)(1), amended this section to read as if amendment made by [Pub. L. 102–230][/us/pl/102/230], § 2(2), had not been enacted. See 1991 Amendment note below.
 
     [Pub. L. 102–486][/us/pl/102/486] added par. (24) defining “energy efficient mortgage”.
 
-    Par. (25). [Pub. L. 102–550, § 914(a)][/us/pl/102/550/s914/a], added par. (25).
+    Par. (25). [Pub. L. 102–550][/us/pl/102/550], § 914(a), added par. (25).
 
-    1991—Par. (1). [Pub. L. 102–230, § 2(1)][/us/pl/102/230/s2/1], directed the substitution of “the insular areas” for “Guam, the Northern Mariana Islands, the Virgin Islands, American Samoa, the Federated States of Micronesia and Palau, the Marshall Islands”. See 1992 Amendment note above.
+    1991—Par. (1). [Pub. L. 102–230][/us/pl/102/230], § 2(1), directed the substitution of “the insular areas” for “Guam, the Northern Mariana Islands, the Virgin Islands, American Samoa, the Federated States of Micronesia and Palau, the Marshall Islands”. See 1992 Amendment note above.
 
     [Pub. L. 102–229][/us/pl/102/229] struck out “Guam, the Northern Mariana Islands, the Virgin Islands, American Samoa,” after “of a State;”.
 
-    Par. (24). [Pub. L. 102–230, § 2(2)][/us/pl/102/230/s2/2], directed the addition of a par. (24) to read as follows: “(24) The term ‘insular areas’ means Guam, the Northern Mariana Islands, the United States Virgin Islands, and American Samoa.” See 1992 Amendment note above.
+    Par. (24). [Pub. L. 102–230][/us/pl/102/230], § 2(2), directed the addition of a par. (24) to read as follows: “(24) The term ‘insular areas’ means Guam, the Northern Mariana Islands, the United States Virgin Islands, and American Samoa.” See 1992 Amendment note above.
 
     [Pub. L. 102–229][/us/pl/102/229] added par. (24) defining “insular area”.
 
@@ -159,23 +159,23 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–550, title II, § 211(b)][/us/pl/102/550/s211/b], Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757], provided that: 
+[Pub. L. 102–550, title II][/us/pl/102/550/tII], § 211(b), Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 12747 of this title][/us/usc/t42/s12747]\] shall apply with respect to fiscal year 1993 and thereafter.”
 
-[Pub. L. 102–550, title II, § 223][/us/pl/102/550/s223], Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762], provided that: 
+[Pub. L. 102–550, title II][/us/pl/102/550/tII], § 223, Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762], provided that: 
 
 > “The amendments made by this title \[enacting [section 12810 of this title][/us/usc/t42/s12810] and amending this section and sections 12705, 12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title\] shall apply to unexpended funds allocated under title II of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\] in fiscal year 1992, except as otherwise specifically provided.”
 
  __Regulations__ 
 
-[Pub. L. 102–550, title II, § 222][/us/pl/102/550/s222], Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762], provided that: 
+[Pub. L. 102–550, title II][/us/pl/102/550/tII], § 222, Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[enacting [section 12810 of this title][/us/usc/t42/s12810], amending this section and sections 12705, 12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title, and enacting provisions set out as notes under this section and sections 12746, 12747, and 12750 of this title\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
  __Transition Rule__ 
 
-[Pub. L. 102–550, title II, § 217(b)][/us/pl/102/550/s217/b], Oct. 28, 1992, [106 Stat. 3760][/us/stat/106/3760], provided that: 
+[Pub. L. 102–550, title II][/us/pl/102/550/tII], § 217(b), Oct. 28, 1992, [106 Stat. 3760][/us/stat/106/3760], provided that: 
 
 > “For the purposes of determining compliance with the requirements of section 104(6) of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12704(6)][/us/usc/t42/s12704/6]\], the Secretary of Housing and Urban Development may provide an exception for organizations that meet the definition of community housing development organization, except for significant representation of low-income community residents on the board, if such organization fulfills such requirement within 6 months of receiving funds under title II of such Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\] or September 30, 1993, whichever is sooner.”
 
@@ -193,50 +193,50 @@
 [/us/usc/t42/s1437a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb
 [/us/usc/t42/s5302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa%2F4
 [/us/usc/t42/s5302/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa%2F6
-[/us/pl/101/625/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs104
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4085
-[/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
+[/us/pl/102/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2FtI
 [/us/stat/105/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1709
-[/us/pl/101/230/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F230%2Fs2
+[/us/pl/101/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F230
 [/us/stat/105/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1720
-[/us/pl/102/486/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs105%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2792
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3756
-[/us/pl/103/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs201
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F363
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
-[/us/pl/102/550/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fa%2F1
-[/us/pl/102/230/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs2%2F1
-[/us/pl/102/550/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs217%2Fa
-[/us/pl/102/550/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs218
-[/us/pl/102/550/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs219
-[/us/pl/102/550/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fa%2F1
-[/us/pl/102/230/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs2%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/102/550/s914/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs914%2Fa
-[/us/pl/102/230/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs2%2F1
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/102/230/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs2%2F2
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/103/233/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs209
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/102/550/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fb
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3757
 [/us/usc/t42/s12747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747
-[/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3762
 [/us/usc/t42/s12810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12810
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
-[/us/pl/102/550/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs222
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3762
 [/us/usc/t42/s12810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12810
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/550/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs217%2Fb
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3760
 [/us/usc/t42/s12704/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704%2F6
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721

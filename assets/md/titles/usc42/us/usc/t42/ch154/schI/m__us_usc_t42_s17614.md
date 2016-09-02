@@ -45,7 +45,7 @@
 
     (11) seek to comply with national standards regarding the investigation and prosecution of Internet crimes against children, as set forth by the Attorney General, to the extent such standards are consistent with the law of the State where the task force is located.
 
-([Pub. L. 110–401, title I, § 104][/us/pl/110/401/s104], Oct. 13, 2008, [122 Stat. 4235][/us/stat/122/4235].)
+([Pub. L. 110–401, title I][/us/pl/110/401/tI], § 104, Oct. 13, 2008, [122 Stat. 4235][/us/stat/122/4235].)
 
 ----------
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t42/s17613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17613
 [/us/usc/t42/s17615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17615
-[/us/pl/110/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs104
+[/us/pl/110/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtI
 [/us/stat/122/4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4235
 
 

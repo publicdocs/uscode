@@ -49,7 +49,7 @@
 
         In order to more widely disseminate information about the program under this part and under part B and the benefits of renewable energy and energy efficiency technology, the Secretary shall establish a program which includes site visits and technical briefings, to disseminate such information to Federal procurement officers and Federal loan officers. The Secretary shall utilize available funds for the program under this subsection.
 
-([Pub. L. 95–619, title V, § 523][/us/pl/95/619/s523], Nov. 9, 1978, [92 Stat. 3276][/us/stat/92/3276]; [Pub. L. 101–218, § 8(a)][/us/pl/101/218/s8/a], Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 523, Nov. 9, 1978, [92 Stat. 3276][/us/stat/92/3276]; [Pub. L. 101–218][/us/pl/101/218], § 8(a), Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t42/s8242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8242
-[/us/pl/95/619/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs523
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3276
-[/us/pl/101/218/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs8%2Fa
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1868
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 

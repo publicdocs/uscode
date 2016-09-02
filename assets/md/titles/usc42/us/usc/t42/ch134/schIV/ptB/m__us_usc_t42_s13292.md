@@ -43,7 +43,7 @@
 
         (6) such other subjects as the Secretary considers necessary in order to address the infrastructure and support systems needed to support the development and use of energy storage technologies, including advanced batteries, and the demonstration of electric motor vehicles.
 
-([Pub. L. 102–486, title VI, § 622][/us/pl/102/486/s622], Oct. 24, 1992, [106 Stat. 2904][/us/stat/106/2904].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 622, Oct. 24, 1992, [106 Stat. 2904][/us/stat/106/2904].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs622
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2904
 
 

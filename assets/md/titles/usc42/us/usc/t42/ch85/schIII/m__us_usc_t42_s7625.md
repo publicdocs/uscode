@@ -45,11 +45,11 @@
 
         For the purpose of this section, the term “refiner” shall not include any refiner whose total refinery capacity (including the refinery capacity of any person who controls, is controlled by, or is under common control with, such refiner) does not exceed 65,000 barrels per day. For purposes of this section, “control” of a corporation means ownership of more than 50 percent of its stock.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 324, formerly § 325, as added [Pub. L. 95–95, title III, § 314(b)][/us/pl/95/95/s314/b], Aug. 7, 1977, [91 Stat. 789][/us/stat/91/789]; renumbered § 324, [Pub. L. 96–300, § 1(c)][/us/pl/96/300/s1/c], July 2, 1980, [94 Stat. 831][/us/stat/94/831].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 324, formerly § 325, as added [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 314(b), Aug. 7, 1977, [91 Stat. 789][/us/stat/91/789]; renumbered § 324, [Pub. L. 96–300][/us/pl/96/300], § 1(c), July 2, 1980, [94 Stat. 831][/us/stat/94/831].)
 
  __References in Text__ 
 
-    [Section 7624 of this title][/us/usc/t42/s7624], referred to in subsec. (c), was in the original “section 324 of this Act”, meaning section 324 of the Act July 14, 1955. Sections 324 and 325 of that Act, were renumbered sections 323 and 324, respectively, by [Pub. L. 96–300, § 1(b)][/us/pl/96/300/s1/b], July 2, 1980, [94 Stat. 831][/us/stat/94/831], and are classified to sections 7624 and 7625, respectively, of this title.
+    [Section 7624 of this title][/us/usc/t42/s7624], referred to in subsec. (c), was in the original “section 324 of this Act”, meaning section 324 of the Act July 14, 1955. Sections 324 and 325 of that Act, were renumbered sections 323 and 324, respectively, by [Pub. L. 96–300][/us/pl/96/300], § 1(b), July 2, 1980, [94 Stat. 831][/us/stat/94/831], and are classified to sections 7624 and 7625, respectively, of this title.
 
  __Prior Provisions__ 
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs314%2Fb
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F789
-[/us/pl/96/300/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300%2Fs1%2Fc
+[/us/pl/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300
 [/us/stat/94/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F831
 [/us/usc/t42/s7624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7624
-[/us/pl/96/300/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300%2Fs1%2Fb
+[/us/pl/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300
 [/us/stat/94/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F831
 [/us/pl/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F300
 [/us/usc/t42/s7624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7624

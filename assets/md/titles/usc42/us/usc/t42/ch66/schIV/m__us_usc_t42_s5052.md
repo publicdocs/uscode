@@ -29,7 +29,7 @@
 
     (b) In order to assure equal access to all recipients, such hearings or other meetings as may be necessary to fulfill the requirements of this section shall be held at locations convenient to the recipient agency.
 
-([Pub. L. 93–113, title IV, § 412][/us/pl/93/113/s412], Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411]; [Pub. L. 98–288, § 22][/us/pl/98/288/s22], May 21, 1984, [98 Stat. 195][/us/stat/98/195]; [Pub. L. 99–551, § 10(i)(8)][/us/pl/99/551/s10/i/8], Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 412, Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411]; [Pub. L. 98–288][/us/pl/98/288], § 22, May 21, 1984, [98 Stat. 195][/us/stat/98/195]; [Pub. L. 99–551][/us/pl/99/551], § 10(i)(8), Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078].)
 
  __References in Text__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/93/113/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs412
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F411
-[/us/pl/98/288/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs22
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F195
-[/us/pl/99/551/s10/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs10%2Fi%2F8
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3078
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

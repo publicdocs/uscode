@@ -49,7 +49,7 @@
 
             (C) the business engaged in or service as a crewman performed is within the scope of the terms of such individual’s admission to the United States.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 214, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(a), [64 Stat. 492][/us/stat/64/492], 505; amended [July 18, 1952, ch. 945, § 3(b)][/us/act/1952-07-18/ch945/s3/b], [66 Stat. 770][/us/stat/66/770]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, §§ 106(b), 108(a), [68 Stat. 1079][/us/stat/68/1079], 1083; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 108, [70 Stat. 830][/us/stat/70/830]; [Pub. L. 85–840, title II, § 205][/us/pl/85/840/s205](l), Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025]; [Pub. L. 86–778, title II, § 204(a)][/us/pl/86/778/s204/a], Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948]; [Pub. L. 87–64, title I, § 103(a)][/us/pl/87/64/s103/a], June 30, 1961, [75 Stat. 137][/us/stat/75/137]; [Pub. L. 92–603, title I, § 104(a)][/us/pl/92/603/s104/a], Oct. 30, 1972, [86 Stat. 1340][/us/stat/86/1340]; [Pub. L. 108–203, title II, § 211(a)][/us/pl/108/203/s211/a], Mar. 2, 2004, [118 Stat. 518][/us/stat/118/518].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 214, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 104(a), [64 Stat. 492][/us/stat/64/492], 505; amended [July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], § 3(b), [66 Stat. 770][/us/stat/66/770]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, §§ 106(b), 108(a), [68 Stat. 1079][/us/stat/68/1079], 1083; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 108, [70 Stat. 830][/us/stat/70/830]; [Pub. L. 85–840, title II][/us/pl/85/840/tII], § 205(l), Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025]; [Pub. L. 86–778, title II][/us/pl/86/778/tII], § 204(a), Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948]; [Pub. L. 87–64, title I][/us/pl/87/64/tI], § 103(a), June 30, 1961, [75 Stat. 137][/us/stat/75/137]; [Pub. L. 92–603, title I][/us/pl/92/603/tI], § 104(a), Oct. 30, 1972, [86 Stat. 1340][/us/stat/86/1340]; [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 211(a), Mar. 2, 2004, [118 Stat. 518][/us/stat/118/518].)
 
  __Codification__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–203, § 211(a)(1)][/us/pl/108/203/s211/a/1], inserted “, and who satisfies the criterion specified in subsection (c) of this section” before period at end. See Codification note above.
+    2004—Subsec. (a). [Pub. L. 108–203][/us/pl/108/203], § 211(a)(1), inserted “, and who satisfies the criterion specified in subsection (c) of this section” before period at end. See Codification note above.
 
-    Subsec. (b). [Pub. L. 108–203, § 211(a)(2)][/us/pl/108/203/s211/a/2], inserted “, and who satisfies the criterion specified in subsection (c) of this section” before period at end. See Codification note above.
+    Subsec. (b). [Pub. L. 108–203][/us/pl/108/203], § 211(a)(2), inserted “, and who satisfies the criterion specified in subsection (c) of this section” before period at end. See Codification note above.
 
-    Subsec. (c). [Pub. L. 108–203, § 211(a)(3)][/us/pl/108/203/s211/a/3], added subsec. (c). See Codification note above.
+    Subsec. (c). [Pub. L. 108–203][/us/pl/108/203], § 211(a)(3), added subsec. (c). See Codification note above.
 
     1972—Subsec. (a)(1). [Pub. L. 92–603][/us/pl/92/603] struck out provisions setting a separate age computation point for women and reduced from age 65 to age 62 the age computation point for men.
 
@@ -85,13 +85,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title II, § 211(c)][/us/pl/108/203/s211/c], Mar. 2, 2004, [118 Stat. 518][/us/stat/118/518], provided that: 
+[Pub. L. 108–203, title II][/us/pl/108/203/tII], § 211(c), Mar. 2, 2004, [118 Stat. 518][/us/stat/118/518], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 423 of this title][/us/usc/t42/s423]\] apply to benefit applications based on social security account numbers issued on or after January 1, 2004.”
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–603, title I, § 104(j)][/us/pl/92/603/s104/j], Oct. 30, 1972, [86 Stat. 1341][/us/stat/86/1341], provided that:
+[Pub. L. 92–603, title I][/us/pl/92/603/tI], § 104(j), Oct. 30, 1972, [86 Stat. 1341][/us/stat/86/1341], provided that:
 
 >     “(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] (except the amendment made by subsection (i) \[amending [section 3121 of Title 26][/us/usc/t26/s3121], Internal Revenue Code\], and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[[42 U.S.C. 409(i)][/us/usc/t42/s409/i]\]) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act, shall apply only with respect to payments after 1974.
 
@@ -105,7 +105,7 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–64, title I, § 103(b)][/us/pl/87/64/s103/b], June 30, 1961, [75 Stat. 137][/us/stat/75/137], provided that: 
+[Pub. L. 87–64, title I][/us/pl/87/64/tI], § 103(b), June 30, 1961, [75 Stat. 137][/us/stat/75/137], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply—
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–778, title II, § 204(d)(1)][/us/pl/86/778/s204/d/1], Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948], provided that: 
+[Pub. L. 86–778, title II][/us/pl/86/778/tII], § 204(d)(1), Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948], provided that: 
 
 > “The amendments made by subsections (a) and (b) of this section \[amending this section and provisions set out as a note under [section 415 of this title][/us/usc/t42/s415]\] shall be applicable (A) in the case of monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month, (B) in the case of lump-sum death payments under such title with respect to deaths occurring after such month, and (C) in the case of an application for a disability determination with respect to a period of disability (as defined in section 216(i) of the Social Security Act \[[42 U.S.C. 416(i)][/us/usc/t42/s416/i]\]) filed after such month.”
 
@@ -135,7 +135,7 @@
 
  __Employees of Nonprofit Organizations as Fully Insured Individuals__ 
 
-[Pub. L. 98–21, title I, § 102(e)][/us/pl/98/21/s102/e], Apr. 20, 1983, [97 Stat. 71][/us/stat/97/71], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–21, title I][/us/pl/98/21/tI], § 102(e), Apr. 20, 1983, [97 Stat. 71][/us/stat/97/71], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)
 
@@ -241,7 +241,7 @@
 
  __Determination of Entitlement to Monthly Benefits for Sept. 1960 and Prior Months and Individual’s Closing Date Prior to 1960__ 
 
-    [Pub. L. 86–778, title II, § 204(d)(2)][/us/pl/86/778/s204/d/2], Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948], provided that the provisions of subsec. (a) of this section in effect prior to Sept. 13, 1960, and the provisions of section 109 of [act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], [68 Stat. 1084][/us/stat/68/1084], set out as a note under [section 415 of this title][/us/usc/t42/s415], as in effect prior to such date were to apply for purposes of determining entitlement to monthly benefits under this subchapter for Sept. 1960 and prior months with respect to wages and self-employment income of an individual and for purposes of determining an individual’s closing date prior to 1960 under [section 415(b)(3)(B) of this title][/us/usc/t42/s415/b/3/B].
+    [Pub. L. 86–778, title II][/us/pl/86/778/tII], § 204(d)(2), Sept. 13, 1960, [74 Stat. 948][/us/stat/74/948], provided that the provisions of subsec. (a) of this section in effect prior to Sept. 13, 1960, and the provisions of section 109 of [act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], [68 Stat. 1084][/us/stat/68/1084], set out as a note under [section 415 of this title][/us/usc/t42/s415], as in effect prior to such date were to apply for purposes of determining entitlement to monthly benefits under this subchapter for Sept. 1960 and prior months with respect to wages and self-employment income of an individual and for purposes of determining an individual’s closing date prior to 1960 under [section 415(b)(3)(B) of this title][/us/usc/t42/s415/b/3/B].
 
 ----------
 
@@ -256,36 +256,36 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F492
-[/us/act/1952-07-18/ch945/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Fb
+[/us/act/1952-07-18/ch945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945
 [/us/stat/66/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F770
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1079
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F830
-[/us/pl/85/840/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs205
+[/us/pl/85/840/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtII
 [/us/stat/72/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1025
-[/us/pl/86/778/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs204%2Fa
+[/us/pl/86/778/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtII
 [/us/stat/74/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F948
-[/us/pl/87/64/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs103%2Fa
+[/us/pl/87/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2FtI
 [/us/stat/75/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F137
-[/us/pl/92/603/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs104%2Fa
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1340
-[/us/pl/108/203/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fa
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F518
 [/us/pl/108/203/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fa
-[/us/pl/108/203/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fa%2F1
-[/us/pl/108/203/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fa%2F2
-[/us/pl/108/203/s211/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fa%2F3
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/usc/t42/s41i/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs41i%2Fi
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
-[/us/pl/108/203/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs211%2Fc
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F518
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
-[/us/pl/92/603/s104/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs104%2Fj
+[/us/pl/92/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtI
 [/us/stat/86/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1341
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
@@ -293,12 +293,12 @@
 [/us/usc/t42/s415/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fb%2F3
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414%2Fa%2F1
-[/us/pl/87/64/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs103%2Fb
+[/us/pl/87/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2FtI
 [/us/stat/75/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F137
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
-[/us/pl/86/778/s204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs204%2Fd%2F1
+[/us/pl/86/778/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtII
 [/us/stat/74/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F948
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
@@ -309,9 +309,9 @@
 [/us/usc/t42/s415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Ff
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
-[/us/pl/98/21/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs102%2Fe
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F71
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t42/s410/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fa%2F8%2FB
 [/us/usc/t26/s3121/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fk
@@ -321,7 +321,7 @@
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/86/778/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs204%2Fd%2F2
+[/us/pl/86/778/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtII
 [/us/stat/74/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F948
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1084

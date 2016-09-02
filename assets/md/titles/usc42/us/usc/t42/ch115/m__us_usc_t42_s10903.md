@@ -25,13 +25,13 @@
 
     (4) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, and Palau.
 
-([Pub. L. 99–425, title VI, § 604][/us/pl/99/425/s604], Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976]; [Pub. L. 101–501, title V, § 502][/us/pl/101/501/s502], Nov. 3, 1990, [104 Stat. 1256][/us/stat/104/1256].)
+([Pub. L. 99–425, title VI][/us/pl/99/425/tVI], § 604, Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976]; [Pub. L. 101–501, title V][/us/pl/101/501/tV], § 502, Nov. 3, 1990, [104 Stat. 1256][/us/stat/104/1256].)
 
  __Amendments__ 
 
-    1990—Par. (1). [Pub. L. 101–501, § 502(1)][/us/pl/101/501/s502/1], substituted “130 percent of the lower living standard income level” for “poverty line, as defined in [section 9902(2) of this title][/us/usc/t42/s9902/2]”.
+    1990—Par. (1). [Pub. L. 101–501][/us/pl/101/501], § 502(1), substituted “130 percent of the lower living standard income level” for “poverty line, as defined in [section 9902(2) of this title][/us/usc/t42/s9902/2]”.
 
-    Pars. (2) to (4). [Pub. L. 101–501, § 502(2)][/us/pl/101/501/s502/2], (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Pars. (2) to (4). [Pub. L. 101–501][/us/pl/101/501], § 502(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/99/425/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs604
+[/us/pl/99/425/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtVI
 [/us/stat/100/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F976
-[/us/pl/101/501/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs502
+[/us/pl/101/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtV
 [/us/stat/104/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1256
-[/us/pl/101/501/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs502%2F1
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/101/501/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs502%2F2
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/101/501/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs1001%2Fa
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621

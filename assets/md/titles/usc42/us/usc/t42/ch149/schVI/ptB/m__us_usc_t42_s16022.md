@@ -61,7 +61,7 @@
 
             The Project may use, if appropriate, facilities at other National Laboratories.
 
-([Pub. L. 109–58, title VI, § 642][/us/pl/109/58/s642], Aug. 8, 2005, [119 Stat. 795][/us/stat/119/795].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 642, Aug. 8, 2005, [119 Stat. 795][/us/stat/119/795].)
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/109/58/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs642
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F795
 
 

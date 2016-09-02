@@ -91,17 +91,17 @@
 
         (2) to carry out subsection (b), such sums as may be necessary.
 
-([Pub. L. 110–140, title XIII, § 1304][/us/pl/110/140/s1304], Dec. 19, 2007, [121 Stat. 1786][/us/stat/121/1786]; [Pub. L. 111–5, div. A, title IV, § 405(1)][/us/pl/111/5/s405/1]–(4), Feb. 17, 2009, [123 Stat. 143][/us/stat/123/143], 144.)
+([Pub. L. 110–140, title XIII][/us/pl/110/140/tXIII], § 1304, Dec. 19, 2007, [121 Stat. 1786][/us/stat/121/1786]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 405(1)–(4), Feb. 17, 2009, [123 Stat. 143][/us/stat/123/143], 144.)
 
  __Amendments__ 
 
-    2009—Subsec. (b)(3)(A). [Pub. L. 111–5, § 405(1)][/us/pl/111/5/s405/1], amended subpar. (A) generally. Prior to amendment, text read as follows: “In carrying out the initiative, the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity.”
+    2009—Subsec. (b)(3)(A). [Pub. L. 111–5][/us/pl/111/5], § 405(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “In carrying out the initiative, the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity.”
 
-    Subsec. (b)(3)(C). [Pub. L. 111–5, § 405(2)][/us/pl/111/5/s405/2], amended subpar. (C) generally. Prior to amendment, text read as follows: “The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project.”
+    Subsec. (b)(3)(C). [Pub. L. 111–5][/us/pl/111/5], § 405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: “The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project.”
 
-    Subsec. (b)(3)(E), (F). [Pub. L. 111–5, § 405(3)][/us/pl/111/5/s405/3], added subpars. (E) and (F).
+    Subsec. (b)(3)(E), (F). [Pub. L. 111–5][/us/pl/111/5], § 405(3), added subpars. (E) and (F).
 
-    Subsec. (c)(2). [Pub. L. 111–5, § 405(4)][/us/pl/111/5/s405/4], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to carry out subsection (b), $100,000,000 for each of fiscal years 2008 through 2012.”
+    Subsec. (c)(2). [Pub. L. 111–5][/us/pl/111/5], § 405(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to carry out subsection (b), $100,000,000 for each of fiscal years 2008 through 2012.”
 
 ----------
 
@@ -111,13 +111,13 @@
 ----------
 
 [/us/usc/t42/s17386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17386
-[/us/pl/110/140/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1304
+[/us/pl/110/140/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIII
 [/us/stat/121/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1786
-[/us/pl/111/5/s405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F1
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F143
-[/us/pl/111/5/s405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F1
-[/us/pl/111/5/s405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F2
-[/us/pl/111/5/s405/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F3
-[/us/pl/111/5/s405/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs405%2F4
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 
 

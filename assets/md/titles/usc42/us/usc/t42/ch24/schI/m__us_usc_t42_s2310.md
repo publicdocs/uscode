@@ -17,11 +17,11 @@
 
     The Commission is authorized to repossess any property sold by it in accordance with the terms of any contract to purchase, mortgage or other instrument, and to sell or make any other disposition of any property so repossessed and any property purchased by it pursuant to [section 2366 of this title][/us/usc/t42/s2366]. Notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, the Commission shall have power to deal with, complete, operate, rent, renovate, modernize, insure, or sell for cash or credit, in its discretion, any properties acquired pursuant to this chapter, and to pursue to final collection, by way of compromise or otherwise, all claims arising pursuant to this section: Provided, That expenses authorized by this section shall be considered nonadministrative expenses: Provided further, That [section 6101 of title 41][/us/usc/t41/s6101] shall not apply to any contract entered into pursuant to this section if the amount thereof does not exceed $1,000.
 
-([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 11, § 116, [69 Stat. 483][/us/stat/69/483]; [July 25, 1956, ch. 731, § 3][/us/act/1956-07-25/ch731/s3], [70 Stat. 653][/us/stat/70/653].)
+([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 11, § 116, [69 Stat. 483][/us/stat/69/483]; [July 25, 1956, ch. 731][/us/act/1956-07-25/ch731], § 3, [70 Stat. 653][/us/stat/70/653].)
 
  __Codification__ 
 
-    In text, “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1955-08-04/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch543
 [/us/stat/69/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F483
-[/us/act/1956-07-25/ch731/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731%2Fs3
+[/us/act/1956-07-25/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731
 [/us/stat/70/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F653
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 

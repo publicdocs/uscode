@@ -135,39 +135,39 @@
 
         An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower’s loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under [section 292n(a)(7) of this title][/us/usc/t42/s292n/a/7]. The institution or postgraduate training program shall not be subject to [section 1692g of title 15][/us/usc/t15/s1692g] for purposes of carrying out activities authorized by this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 707, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2002][/us/stat/106/2002]; amended [Pub. L. 103–43, title XX, § 2014(a)(2)][/us/pl/103/43/s2014/a/2], June 10, 1993, [107 Stat. 215][/us/stat/107/215]; [Pub. L. 105–392, title I][/us/pl/105/392], §§ 142(a), (b), 144(a), Nov. 13, 1998, [112 Stat. 3579][/us/stat/112/3579], 3581.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 707, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2002][/us/stat/106/2002]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2014(a)(2), June 10, 1993, [107 Stat. 215][/us/stat/107/215]; [Pub. L. 105–392, title I][/us/pl/105/392/tI], §§ 142(a), (b), 144(a), Nov. 13, 1998, [112 Stat. 3579][/us/stat/112/3579], 3581.)
 
  __References in Text__ 
 
-    The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1084][/us/stat/96/1084], and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
+    The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1084][/us/stat/96/1084], and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
 
  __Prior Provisions__ 
 
-    A prior section 292f, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 706, as added Oct. 12, 1976, [Pub. L. 94–484, title II, § 204][/us/pl/94/484/s204], [90 Stat. 2249][/us/stat/90/2249], authorized contracts under this subchapter without regard to certain provisions, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
+    A prior section 292f, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 706, as added Oct. 12, 1976, [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 204, [90 Stat. 2249][/us/stat/90/2249], authorized contracts under this subchapter without regard to certain provisions, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
-    Another prior section 292f, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 707, as added [July 30, 1956, ch. 779, § 2][/us/act/1956-07-30/ch779/s2], [70 Stat. 720][/us/stat/70/720]; amended Oct. 5, 1961, [Pub. L. 87–395, § 8(d)][/us/pl/87/395/s8/d], [75 Stat. 827][/us/stat/75/827]; Sept. 24, 1963, [Pub. L. 88–129, § 2(a)][/us/pl/88/129/s2/a], [77 Stat. 164][/us/stat/77/164]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 102(k)(2)(A)][/us/pl/92/157/s102/k/2/A], [85 Stat. 437][/us/stat/85/437], provided for recapture of payments relating to grants for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II, § 201(a)][/us/pl/94/484/s201/a], Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
+    Another prior section 292f, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 707, as added [July 30, 1956, ch. 779][/us/act/1956-07-30/ch779], § 2, [70 Stat. 720][/us/stat/70/720]; amended Oct. 5, 1961, [Pub. L. 87–395][/us/pl/87/395], § 8(d), [75 Stat. 827][/us/stat/75/827]; Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(a), [77 Stat. 164][/us/stat/77/164]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 102(k)(2)(A), [85 Stat. 437][/us/stat/85/437], provided for recapture of payments relating to grants for construction of health research facilities, prior to repeal by [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(a), Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
 
     A prior section 707 of act July 1, 1944, was classified to [section 292g of this title][/us/usc/t42/s292g] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–392, § 142(a)][/us/pl/105/392/s142/a], designated existing provisions as par. (1), inserted heading, substituted “determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for ‘exceptional performance’, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.” for “determined.”, struck out at end “Not later than one year after October 13, 1992, the Secretary shall establish performance standards for lenders and holders of loans under this subpart, including fees to be imposed for failing to meet such standards.”, and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–392][/us/pl/105/392], § 142(a), designated existing provisions as par. (1), inserted heading, substituted “determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for ‘exceptional performance’, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.” for “determined.”, struck out at end “Not later than one year after October 13, 1992, the Secretary shall establish performance standards for lenders and holders of loans under this subpart, including fees to be imposed for failing to meet such standards.”, and added par. (2).
 
-    Subsec. (e)(4). [Pub. L. 105–392, § 142(b)][/us/pl/105/392/s142/b], added par. (4).
+    Subsec. (e)(4). [Pub. L. 105–392][/us/pl/105/392], § 142(b), added par. (4).
 
-    Subsec. (g). [Pub. L. 105–392, § 144(a)][/us/pl/105/392/s144/a], substituted “Notwithstanding any other provision of Federal or State law, a debt that is a loan insured” for “A debt which is a loan insured” in introductory provisions.
+    Subsec. (g). [Pub. L. 105–392][/us/pl/105/392], § 144(a), substituted “Notwithstanding any other provision of Federal or State law, a debt that is a loan insured” for “A debt which is a loan insured” in introductory provisions.
 
-    1993—Subsec. (g)(1). [Pub. L. 103–43, § 2014(a)(2)(A)][/us/pl/103/43/s2014/a/2/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of [section 292d(a)(2) of this title][/us/usc/t42/s292d/a/2], when repayment of such loan is required;”.
+    1993—Subsec. (g)(1). [Pub. L. 103–43][/us/pl/103/43], § 2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of [section 292d(a)(2) of this title][/us/usc/t42/s292d/a/2], when repayment of such loan is required;”.
 
-    Subsec. (j). [Pub. L. 103–43, § 2014(a)(2)(B)][/us/pl/103/43/s2014/a/2/B], added subsec. (j).
+    Subsec. (j). [Pub. L. 103–43][/us/pl/103/43], § 2014(a)(2)(B), added subsec. (j).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–392, title I, § 142(c)][/us/pl/105/392/s142/c], Nov. 13, 1998, [112 Stat. 3581][/us/stat/112/3581], provided that: 
+[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 142(c), Nov. 13, 1998, [112 Stat. 3581][/us/stat/112/3581], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to loans submitted to the Secretary for payment on or after the first day of the sixth month that begins after the date of enactment of this Act \[Nov. 13, 1998\].”
 
-[Pub. L. 105–392, title I, § 144(b)][/us/pl/105/392/s144/b], Nov. 13, 1998, [112 Stat. 3581][/us/stat/112/3581], provided that: 
+[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 144(b), Nov. 13, 1998, [112 Stat. 3581][/us/stat/112/3581], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any loan insured under the authority of subpart I of part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.) that is listed or scheduled by the debtor in a case under title XI, United States Code \[Title 11, Bankruptcy\], filed—
 
@@ -190,40 +190,40 @@
 [/us/usc/t42/s292n/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292n%2Fa%2F7
 [/us/usc/t15/s1692g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692g
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2002
-[/us/pl/103/43/s2014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fa%2F2
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F215
-[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3579
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1084
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs204
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2249
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1956-07-30/ch779/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs2
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/act/1956-07-30/ch779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779
 [/us/stat/70/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F720
-[/us/pl/87/395/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs8%2Fd
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
 [/us/stat/75/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F827
-[/us/pl/88/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fa
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F164
-[/us/pl/92/157/s102/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs102%2Fk%2F2%2FA
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F437
-[/us/pl/94/484/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fa
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2246
 [/us/usc/t42/s292g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292g
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/pl/105/392/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs142%2Fa
-[/us/pl/105/392/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs142%2Fb
-[/us/pl/105/392/s144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs144%2Fa
-[/us/pl/103/43/s2014/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fa%2F2%2FA
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/usc/t42/s292d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292d%2Fa%2F2
-[/us/pl/103/43/s2014/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fa%2F2%2FB
-[/us/pl/105/392/s142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs142%2Fc
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3581
-[/us/pl/105/392/s144/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs144%2Fb
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3581
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
 

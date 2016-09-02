@@ -53,7 +53,7 @@
 
         There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 514, as added [Pub. L. 106–310, div. B, title XXXI, § 3104(a)][/us/pl/106/310/s3104/a], Oct. 17, 2000, [114 Stat. 1171][/us/stat/114/1171].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 514, as added [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3104(a), Oct. 17, 2000, [114 Stat. 1171][/us/stat/114/1171].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3104%2Fa
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1171
 [/us/usc/t42/s290bb–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%939
 

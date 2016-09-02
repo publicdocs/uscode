@@ -39,17 +39,17 @@
 
         The terms “carrier” and “railroad” as used in this section shall have the same meaning as the term “railroad carrier” has in [section 20102 of title 49][/us/usc/t49/s20102].
 
-([Pub. L. 92–574, § 17][/us/pl/92/574/s17], Oct. 27, 1972, [86 Stat. 1248][/us/stat/86/1248]; [Pub. L. 104–287, § 6(i)][/us/pl/104/287/s6/i], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
+([Pub. L. 92–574][/us/pl/92/574], § 17, Oct. 27, 1972, [86 Stat. 1248][/us/stat/86/1248]; [Pub. L. 104–287][/us/pl/104/287], § 6(i), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399].)
 
  __References in Text__ 
 
     The Safety Appliance Acts, referred to in subsec. (b), are acts [Mar. 2, 1893, ch. 196][/us/act/1893-03-02/ch196], [27 Stat. 531][/us/stat/27/531]; [Mar. 2, 1903, ch. 976][/us/act/1903-03-02/ch976], [32 Stat. 943][/us/stat/32/943]; and [Apr. 14, 1910, ch. 160][/us/act/1910-04-14/ch160], [36 Stat. 298][/us/stat/36/298], which were classified to sections 1 to 16 of Title 45, Railroads, and were repealed and reenacted in sections 20102, 20301 to 20304, 21302, and 21304 of Title 49, Transportation, by [Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 7(b), July 5, 1994, [108 Stat. 863][/us/stat/108/863], 881, 892, 893, 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. Section 6 of act Apr. 14, 1910, which was classified to [section 15 of Title 45][/us/usc/t45/s15], was repealed and reenacted as [section 501(b) of Title 49][/us/usc/t49/s501/b] by [Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413].
 
-    The Department of Transportation Act, referred to in subsec. (b), is [Pub. L. 89–670][/us/pl/89/670], Oct. 15, 1966, [80 Stat. 931][/us/stat/80/931], as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by [Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413], and [Pub. L. 103–272][/us/pl/103/272], July 5, 1994, [108 Stat. 745][/us/stat/108/745]. The Act was also repealed by [Pub. L. 104–287, § 7(5)][/us/pl/104/287/s7/5], Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400]. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+    The Department of Transportation Act, referred to in subsec. (b), is [Pub. L. 89–670][/us/pl/89/670], Oct. 15, 1966, [80 Stat. 931][/us/stat/80/931], as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by [Pub. L. 97–449][/us/pl/97/449], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413], and [Pub. L. 103–272][/us/pl/103/272], July 5, 1994, [108 Stat. 745][/us/stat/108/745]. The Act was also repealed by [Pub. L. 104–287][/us/pl/104/287], § 7(5), Oct. 11, 1996, [110 Stat. 3400][/us/stat/110/3400]. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
  __Codification__ 
 
-    In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[[49 U.S.C. 1][/us/usc/t49/s1] et seq.\]”, on authority of [Pub. L. 95–473, § 3(b)][/us/pl/95/473/s3/b], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV of Title 49, Transportation.
+    In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[[49 U.S.C. 1][/us/usc/t49/s1] et seq.\]”, on authority of [Pub. L. 95–473][/us/pl/95/473], § 3(b), Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV of Title 49, Transportation.
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 [/us/usc/t42/s4915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4915
 [/us/usc/t45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs1
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
-[/us/pl/92/574/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs17
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1248
-[/us/pl/104/287/s6/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fi
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
 [/us/act/1893-03-02/ch196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-02%2Fch196
 [/us/stat/27/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F531
@@ -88,10 +88,10 @@
 [/us/stat/96/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2413
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
-[/us/pl/104/287/s7/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs7%2F5
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3400
 [/us/usc/t49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1
-[/us/pl/95/473/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs3%2Fb
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102

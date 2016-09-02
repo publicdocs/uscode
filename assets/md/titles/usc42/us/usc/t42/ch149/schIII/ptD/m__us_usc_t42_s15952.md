@@ -37,7 +37,7 @@
 
         The Administrator is authorized to provide technical, legal, or other assistance to State governments to facilitate their review of applications to build new refineries.
 
-([Pub. L. 109–58, title III, § 392][/us/pl/109/58/s392], Aug. 8, 2005, [119 Stat. 749][/us/stat/119/749].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 392, Aug. 8, 2005, [119 Stat. 749][/us/stat/119/749].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs392
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F749
 
 

@@ -23,7 +23,7 @@
 
         Not later than 18 months after the effective date of the Serve America Act, the Corporation shall submit to the authorizing committees a report containing information on the actions taken to consolidate or modify the application procedures and reporting requirements for programs, projects, and activities funded under the national service laws, including a description of the procedures for consultation with recipients of the funding.
 
-([Pub. L. 101–610, title I, § 185][/us/pl/101/610/s185], as added [Pub. L. 111–13, title I, § 1612][/us/pl/111/13/s1612], Apr. 21, 2009, [123 Stat. 1538][/us/stat/123/1538].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 185, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1612, Apr. 21, 2009, [123 Stat. 1538][/us/stat/123/1538].)
 
  __References in Text__ 
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/101/610/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs185
-[/us/pl/111/13/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1612
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1538
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

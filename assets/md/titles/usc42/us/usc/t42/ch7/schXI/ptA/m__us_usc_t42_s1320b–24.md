@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services shall maintain within the Centers for Medicaid & Medicare Services  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Centers for Medicare & Medicaid Services”. </sup></sup>  (CMS) a Tribal Technical Advisory Group (TTAG), which was first established in accordance with requirements of the charter dated September 30, 2003, and the Secretary of Health and Human Services shall include in such Group a representative of a national urban Indian health organization and a representative of the Indian Health Service. The inclusion of a representative of a national urban Indian health organization in such Group shall not affect the nonapplication of the Federal Advisory Committee Act (5 U.S.C. App.) to such Group.
 
-([Pub. L. 111–5, div. B, title V, § 5006(e)(1)][/us/pl/111/5/s5006/e/1], Feb. 17, 2009, [123 Stat. 510][/us/stat/123/510].)
+([Pub. L. 111–5, div. B, title V][/us/pl/111/5/dB/tV], § 5006(e)(1), Feb. 17, 2009, [123 Stat. 510][/us/stat/123/510].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s5006/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Fe%2F1
+[/us/pl/111/5/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtV
 [/us/stat/123/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F510
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

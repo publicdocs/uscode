@@ -203,27 +203,27 @@
 
         The Corporation may establish by regulation demonstration programs for the creation and evaluation of innovative volunteer and community service programs.
 
-([Pub. L. 101–610, title I, § 146][/us/pl/101/610/s146], as added [Pub. L. 103–82, title I, § 102(a)][/us/pl/103/82/s102/a], Sept. 21, 1993, [107 Stat. 818][/us/stat/107/818]; amended [Pub. L. 103–304, § 3(b)(4)][/us/pl/103/304/s3/b/4], Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 111–13, title I, § 1402][/us/pl/111/13/s1402], Apr. 21, 2009, [123 Stat. 1512][/us/stat/123/1512].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 146, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 102(a), Sept. 21, 1993, [107 Stat. 818][/us/stat/107/818]; amended [Pub. L. 103–304][/us/pl/103/304], § 3(b)(4), Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1402, Apr. 21, 2009, [123 Stat. 1512][/us/stat/123/1512].)
 
  __Prior Provisions__ 
 
-    A prior section 12602, [Pub. L. 101–610, title I, § 157][/us/pl/101/610/s157], Nov. 16, 1990, [104 Stat. 3156][/us/stat/104/3156]; [Pub. L. 102–10, § 7][/us/pl/102/10/s7], Mar. 12, 1991, [105 Stat. 31][/us/stat/105/31], related to grant applications, awards, and uses, prior to repeal by [Pub. L. 103–82, § 104(a)][/us/pl/103/82/s104/a].
+    A prior section 12602, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 157, Nov. 16, 1990, [104 Stat. 3156][/us/stat/104/3156]; [Pub. L. 102–10][/us/pl/102/10], § 7, Mar. 12, 1991, [105 Stat. 31][/us/stat/105/31], related to grant applications, awards, and uses, prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 104(a).
 
-    A prior [section 146 of Pub. L. 101–610][/us/pl/101/610/s146] was classified to [section 12576 of this title][/us/usc/t42/s12576] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior [section 146 of Pub. L. 101–610][/us/pl/101/610/s146] was classified to [section 12576 of this title][/us/usc/t42/s12576] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 1402(1)][/us/pl/111/13/s1402/1], substituted section catchline for former section catchline.
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 1402(1), substituted section catchline for former section catchline.
 
-    Subsec. (a). [Pub. L. 111–13, § 1402(2)(A)][/us/pl/111/13/s1402/2/A], inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” and substituted “if the organization responsible for the individual’s supervision in a national service program certifies that the individual” for “if the individual” in introductory provisions.
+    Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1402(2)(A), inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” and substituted “if the organization responsible for the individual’s supervision in a national service program certifies that the individual” for “if the individual” in introductory provisions.
 
-    Subsec. (a)(1), (2). [Pub. L. 111–13, § 1402(2)(B)][/us/pl/111/13/s1402/2/B], added pars. (1) and (2) and struck out former pars. (1) and (2), which read as follows:
+    Subsec. (a)(1), (2). [Pub. L. 111–13][/us/pl/111/13], § 1402(2)(B), added pars. (1) and (2) and struck out former pars. (1) and (2), which read as follows:
 
     “(1) successfully completes the required term of service described in subsection (b) of this section in an approved national service position;
 
     “(2) was 17 years of age or older at the time the individual began serving in the approved national service position or was an out-of-school youth serving in an approved national service position with a youth corps program described in [section 12572(a)(2) of this title][/us/usc/t42/s12572/a/2] or a program described in [section 12572(a)(9) of this title][/us/usc/t42/s12572/a/9];”.
 
-    Subsec. (a)(3), (4). [Pub. L. 111–13, § 1402(2)(B)][/us/pl/111/13/s1402/2/B], (C), redesignated par. (4) as (3) and struck out former par. (3), which read as follows: “at the time the individual uses the national service educational award—
+    Subsec. (a)(3), (4). [Pub. L. 111–13][/us/pl/111/13], § 1402(2)(B), (C), redesignated par. (4) as (3) and struck out former par. (3), which read as follows: “at the time the individual uses the national service educational award—
 
     “(A) has received a high school diploma, or the equivalent of such diploma;
 
@@ -231,23 +231,23 @@
 
     “(C) has received a waiver described in [section 12591(c) of this title][/us/usc/t42/s12591/c]; and”.
 
-    Subsec. (b). [Pub. L. 111–13, § 1402(3)][/us/pl/111/13/s1402/3], designated existing provisions as par. (1), inserted par. (1) heading, and added pars. (2) and (3).
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1402(3), designated existing provisions as par. (1), inserted par. (1) heading, and added pars. (2) and (3).
 
-    Subsec. (c). [Pub. L. 111–13, § 1402(4)][/us/pl/111/13/s1402/4], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Although an individual may serve more than 2 terms of service described in subsection (b) of this section in an approved national service position, the individual shall receive a national service educational award from the National Service Trust only on the basis of the first and second of such terms of service.”
+    Subsec. (c). [Pub. L. 111–13][/us/pl/111/13], § 1402(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Although an individual may serve more than 2 terms of service described in subsection (b) of this section in an approved national service position, the individual shall receive a national service educational award from the National Service Trust only on the basis of the first and second of such terms of service.”
 
-    Subsec. (d)(1). [Pub. L. 111–13, § 1402(5)(A)(i)][/us/pl/111/13/s1402/5/A/i], substituted “In general” for “Seven-year requirement” in heading.
+    Subsec. (d)(1). [Pub. L. 111–13][/us/pl/111/13], § 1402(5)(A)(i), substituted “In general” for “Seven-year requirement” in heading.
 
-    [Pub. L. 111–13, § 1402(5)(A)(ii)][/us/pl/111/13/s1402/5/A/ii]–(v), substituted “Subject to paragraph (2), an” for “An” and inserted “or a silver scholar educational award” after “national service educational award”, “or an approved silver scholar position, as applicable,” after “approved national service position”, and “Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.” at end.
+    [Pub. L. 111–13][/us/pl/111/13], § 1402(5)(A)(ii)–(v), substituted “Subject to paragraph (2), an” for “An” and inserted “or a silver scholar educational award” after “national service educational award”, “or an approved silver scholar position, as applicable,” after “approved national service position”, and “Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.” at end.
 
-    Subsec. (d)(2). [Pub. L. 111–13, § 1402(5)(B)(i)][/us/pl/111/13/s1402/5/B/i], inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 111–13][/us/pl/111/13], § 1402(5)(B)(i), inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” in introductory provisions.
 
-    Subsec. (d)(2)(A). [Pub. L. 111–13, § 1402(5)(B)(i)][/us/pl/111/13/s1402/5/B/i], (ii), inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” and “, or 10-year period, as appropriate” after “7-year period”.
+    Subsec. (d)(2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1402(5)(B)(i), (ii), inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” and “, or 10-year period, as appropriate” after “7-year period”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–13, § 1402(5)(B)(iii)][/us/pl/111/13/s1402/5/B/iii], inserted “, approved summer of service position, or approved silver scholar position” after “approved national service position”.
+    Subsec. (d)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1402(5)(B)(iii), inserted “, approved summer of service position, or approved silver scholar position” after “approved national service position”.
 
-    Subsec. (d)(3). [Pub. L. 111–13, § 1402(5)(C)][/us/pl/111/13/s1402/5/C], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–13][/us/pl/111/13], § 1402(5)(C), added par. (3).
 
-    Subsec. (e)(1). [Pub. L. 111–13, § 1402(6)][/us/pl/111/13/s1402/6], inserted “or under [section 12563(c)(8) of this title][/us/usc/t42/s12563/c/8]” after “qualifying under this section” and “, a summer of service educational award, or a silver scholar educational award” after “to receive a national service educational award”.
+    Subsec. (e)(1). [Pub. L. 111–13][/us/pl/111/13], § 1402(6), inserted “or under [section 12563(c)(8) of this title][/us/usc/t42/s12563/c/8]” after “qualifying under this section” and “, a summer of service educational award, or a silver scholar educational award” after “to receive a national service educational award”.
 
     1994—Subsec. (a)(3). [Pub. L. 103–304][/us/pl/103/304] struck out second par. (3) which read as follows: “has received a high school diploma, or the equivalent of such diploma, at the time the individual uses the national service educational award, unless this requirement has been waived based on an individual education assessment conducted by the program; and”.
 
@@ -257,7 +257,7 @@
 
  __Study To Evaluate the Effectiveness of Agency Coordination__ 
 
-[Pub. L. 111–13, title I, § 1711][/us/pl/111/13/s1711], Apr. 21, 2009, [123 Stat. 1550][/us/stat/123/1550], provided that:
+[Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1711, Apr. 21, 2009, [123 Stat. 1550][/us/stat/123/1550], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -317,45 +317,45 @@
 [/us/usc/t42/s12604/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12604%2Ff%2F8
 [/us/usc/t42/s12563/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12563%2Fc%2F8
 [/us/usc/t21/s802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F6
-[/us/pl/101/610/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs146
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F818
-[/us/pl/103/304/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F4
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1567
-[/us/pl/111/13/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1512
-[/us/pl/101/610/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs157
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3156
-[/us/pl/102/10/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs7
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F31
-[/us/pl/103/82/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs146
 [/us/usc/t42/s12576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12576
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
-[/us/pl/111/13/s1402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F1
-[/us/pl/111/13/s1402/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F2%2FA
-[/us/pl/111/13/s1402/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F2%2FB
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12572/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Fa%2F2
 [/us/usc/t42/s12572/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Fa%2F9
-[/us/pl/111/13/s1402/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F2%2FB
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
 [/us/usc/t42/s12591/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12591%2Fc
-[/us/pl/111/13/s1402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F3
-[/us/pl/111/13/s1402/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F4
-[/us/pl/111/13/s1402/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F5%2FA%2Fi
-[/us/pl/111/13/s1402/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F5%2FA%2Fii
-[/us/pl/111/13/s1402/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F5%2FB%2Fi
-[/us/pl/111/13/s1402/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F5%2FB%2Fi
-[/us/pl/111/13/s1402/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F5%2FB%2Fiii
-[/us/pl/111/13/s1402/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F5%2FC
-[/us/pl/111/13/s1402/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1402%2F6
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12563/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12563%2Fc%2F8
 [/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/111/13/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1711
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1550
 [/us/usc/t42/s12602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa%2F3
 [/us/usc/t20/s1091/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091%2Fg

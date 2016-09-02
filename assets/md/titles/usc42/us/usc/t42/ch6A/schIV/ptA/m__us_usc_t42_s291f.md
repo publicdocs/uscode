@@ -29,23 +29,23 @@
 
         (2) Any amount paid under paragraph (1) of this subsection to any State for any fiscal year shall be paid on condition that there shall be expended from State sources for such year for administration of the State plan approved under this part not less than the total amount expended for such purposes from such sources during the fiscal year ending June 30, 1970.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 606, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 454][/us/stat/78/454]; amended [Pub. L. 91–296, title I, § 112][/us/pl/91/296/s112], June 30, 1970, [84 Stat. 340][/us/stat/84/340].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 606, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 454][/us/stat/78/454]; amended [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 112, June 30, 1970, [84 Stat. 340][/us/stat/84/340].)
 
  __Prior Provisions__ 
 
-    A prior section 291f, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 623, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [June 19, 1948, ch. 554][/us/act/1948-06-19/ch554], [62 Stat. 536][/us/stat/62/536]; [Oct. 25, 1949, ch. 722, § 3(a)][/us/act/1949-10-25/ch722/s3/a], [63 Stat. 899][/us/stat/63/899], related to State plans, their submission, and their requirements, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291d of this title][/us/usc/t42/s291d].
+    A prior section 291f, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 623, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [June 19, 1948, ch. 554][/us/act/1948-06-19/ch554], [62 Stat. 536][/us/stat/62/536]; [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], § 3(a), [63 Stat. 899][/us/stat/63/899], related to State plans, their submission, and their requirements, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291d of this title][/us/usc/t42/s291d].
 
-    Provisions similar to those comprising subsec. (a) of this section were contained in former section 291h(b), acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 625, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722, § 3(b)][/us/act/1949-10-25/ch722/s3/b], [63 Stat. 899][/us/stat/63/899], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising subsec. (a) of this section were contained in former section 291h(b), acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 625, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], § 3(b), [63 Stat. 899][/us/stat/63/899], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Amendments__ 
 
-    1970—Subsec. (c)(1). [Pub. L. 91–296, § 112(1)][/us/pl/91/296/s112/1], substituted “4 per centum” for “2 per centum” and “$100,000 for $50,000”.
+    1970—Subsec. (c)(1). [Pub. L. 91–296][/us/pl/91/296], § 112(1), substituted “4 per centum” for “2 per centum” and “$100,000 for $50,000”.
 
-    Subsec. (c)(2). [Pub. L. 91–296, § 112(2)][/us/pl/91/296/s112/2], substituted “June 30, 1970” for “June 30, 1964”.
+    Subsec. (c)(2). [Pub. L. 91–296][/us/pl/91/296], § 112(2), substituted “June 30, 1970” for “June 30, 1964”.
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–296, title I, § 112][/us/pl/91/296/s112], June 30, 1970, [84 Stat. 340][/us/stat/84/340], provided that the amendment made by that section is effective with respect to expenditures under a State plan approved under this subchapter which are made for administration of such plan during any fiscal year beginning after June 30, 1970.
+    [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 112, June 30, 1970, [84 Stat. 340][/us/stat/84/340], provided that the amendment made by that section is effective with respect to expenditures under a State plan approved under this subchapter which are made for administration of such plan during any fiscal year beginning after June 30, 1970.
 
  __Transfer of Functions__ 
 
@@ -61,28 +61,28 @@
 [/us/usc/t42/s291g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291g
 [/us/usc/t42/s291e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F454
-[/us/pl/91/296/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs112
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F340
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
 [/us/act/1948-06-19/ch554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch554
 [/us/stat/62/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F536
-[/us/act/1949-10-25/ch722/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722%2Fs3%2Fa
+[/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F899
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/usc/t42/s291d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291d
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1949-10-25/ch722/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722%2Fs3%2Fb
+[/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F899
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
-[/us/pl/91/296/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs112%2F1
-[/us/pl/91/296/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs112%2F2
-[/us/pl/91/296/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs112
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F340
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

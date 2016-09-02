@@ -165,7 +165,7 @@
 
         There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-([Pub. L. 90–351, title I, § 3001][/us/pl/90/351/s3001], as added [Pub. L. 110–315, title IX, § 952][/us/pl/110/315/s952], Aug. 14, 2008, [122 Stat. 3470][/us/stat/122/3470].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 3001, as added [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 952, Aug. 14, 2008, [122 Stat. 3470][/us/stat/122/3470].)
 
  __References in Text__ 
 
@@ -188,8 +188,8 @@
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
-[/us/pl/90/351/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs3001
-[/us/pl/110/315/s952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs952
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3470
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

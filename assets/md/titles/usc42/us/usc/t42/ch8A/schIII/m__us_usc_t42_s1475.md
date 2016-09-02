@@ -23,7 +23,7 @@
 
         In foreclosing on any mortgage held by the Secretary under this subchapter, the Secretary shall follow the foreclosure procedures of the State in which the property involved is located to the extent such procedures are more favorable to the borrower than the foreclosure procedures that would otherwise be followed by the Secretary. This subsection shall be subject to the availability of amounts approved in appropriations Acts, to the extent additional budget authority is necessary to carry out this subsection.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 505, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 101–625, title VII, § 707][/us/pl/101/625/s707], Nov. 28, 1990, [104 Stat. 4287][/us/stat/104/4287].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 505, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 101–625, title VII][/us/pl/101/625/tVII], § 707, Nov. 28, 1990, [104 Stat. 4287][/us/stat/104/4287].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F434
-[/us/pl/101/625/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs707
+[/us/pl/101/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVII
 [/us/stat/104/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4287
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 

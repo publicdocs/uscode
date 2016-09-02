@@ -97,15 +97,15 @@
 
         The Secretary shall, to the extent practicable, publicly report on measures for hospital-acquired conditions that are currently utilized by the Centers for Medicare & Medicaid Services for the adjustment of the amount of payment to hospitals based on rates of hospital-acquired infections.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1890A, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3013(b), 3014(b), title X, §§ 10303(b), 10304, Mar. 23, 2010, [124 Stat. 383][/us/stat/124/383], 385, 938.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1890A, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], §§ 3013(b), 3014(b), title X, §§ 10303(b), 10304, Mar. 23, 2010, [124 Stat. 383][/us/stat/124/383], 385, 938.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10304][/us/pl/111/148/s10304], substituted “quality and efficiency” for “quality” wherever appearing in text.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10304, substituted “quality and efficiency” for “quality” wherever appearing in text.
 
-    Subsec. (e). [Pub. L. 111–148, § 3013(b)][/us/pl/111/148/s3013/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 3013(b), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 111–148, § 10303(b)][/us/pl/111/148/s10303/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 10303(b), added subsec. (f).
 
 ----------
 
@@ -128,10 +128,10 @@
 [/us/usc/t42/s1395aaa/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa%2Fb%2F7%2FB
 [/us/usc/t42/s1395aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F383
-[/us/pl/111/148/s10304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10304
-[/us/pl/111/148/s3013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3013%2Fb
-[/us/pl/111/148/s10303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10303%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

@@ -111,29 +111,29 @@
 
             The term “genetic test” does not mean an analysis of proteins or metabolites that does not detect genotypes, mutations, or chromosomal changes.
 
-([Pub. L. 110–233, title II, § 201][/us/pl/110/233/s201], May 21, 2008, [122 Stat. 905][/us/stat/122/905].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 201, May 21, 2008, [122 Stat. 905][/us/stat/122/905].)
 
  __Effective Date__ 
 
-[Pub. L. 110–233, title II, § 213][/us/pl/110/233/s213], May 21, 2008, [122 Stat. 920][/us/stat/122/920], provided that: 
+[Pub. L. 110–233, title II][/us/pl/110/233/tII], § 213, May 21, 2008, [122 Stat. 920][/us/stat/122/920], provided that: 
 
 > “This title \[enacting this chapter\] takes effect on the date that is 18 months after the date of enactment of this Act \[May 21, 2008\].”
 
  __Short Title__ 
 
-[Pub. L. 110–233, § 1(a)][/us/pl/110/233/s1/a], May 21, 2008, [122 Stat. 881][/us/stat/122/881], provided that: 
+[Pub. L. 110–233][/us/pl/110/233], § 1(a), May 21, 2008, [122 Stat. 881][/us/stat/122/881], provided that: 
 
 > “This Act \[enacting this chapter, sections 300gg–53 and 1320d–9 of this title, and [section 9834 of Title 26][/us/usc/t26/s9834], Internal Revenue Code, amending sections 300gg–1, 300gg–21, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 216, 1132, 1182, and 1191b of Title 29, Labor, and enacting provisions set out as notes under this section, sections 300gg–1, 1320d–9, and 1395ss of this title, [section 9802 of Title 26][/us/usc/t26/s9802], and sections 216 and 1132 of Title 29\] may be cited as the ‘Genetic Information Nondiscrimination Act of 2008’.”
 
  __Severability__ 
 
-[Pub. L. 110–233, title III, § 301][/us/pl/110/233/s301], May 21, 2008, [122 Stat. 920][/us/stat/122/920], provided that: 
+[Pub. L. 110–233, title III][/us/pl/110/233/tIII], § 301, May 21, 2008, [122 Stat. 920][/us/stat/122/920], provided that: 
 
 > “If any provision of this Act \[see Short Title note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provisions to any person or circumstance shall not be affected thereby.”
 
  __Findings__ 
 
-[Pub. L. 110–233, § 2][/us/pl/110/233/s2], May 21, 2008, [122 Stat. 881][/us/stat/122/881], as amended by [Pub. L. 111–256, § 2(j)][/us/pl/111/256/s2/j], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644], provided that: 
+[Pub. L. 110–233][/us/pl/110/233], § 2, May 21, 2008, [122 Stat. 881][/us/stat/122/881], as amended by [Pub. L. 111–256][/us/pl/111/256], § 2(j), Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644], provided that: 
 
 > “Congress makes the following findings:
 
@@ -169,19 +169,19 @@
 [/us/usc/t42/s2000e–16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316%2Fa
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
 [/us/usc/t29/s1181/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Ff%2F2
-[/us/pl/110/233/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs201
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F905
-[/us/pl/110/233/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs213
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F920
-[/us/pl/110/233/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs1%2Fa
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/stat/122/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F881
 [/us/usc/t26/s9834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9834
 [/us/usc/t26/s9802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9802
-[/us/pl/110/233/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs301
+[/us/pl/110/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtIII
 [/us/stat/122/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F920
-[/us/pl/110/233/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs2
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/stat/122/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F881
-[/us/pl/111/256/s2/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fj
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
 [/us/pl/92/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294
 [/us/pl/111/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2

@@ -57,15 +57,15 @@
 
         If any State affected by the redesignation of an area by an Indian tribe or any Indian tribe affected by the redesignation of an area by a State disagrees with such redesignation of any area, or if a permit is proposed to be issued for any new major emitting facility proposed for construction in any State which the Governor of an affected State or governing body of an affected Indian tribe determines will cause or contribute to a cumulative change in air quality in excess of that allowed in this part within the affected State or tribal reservation, the Governor or Indian ruling body may request the Administrator to enter into negotiations with the parties involved to resolve such dispute. If requested by any State or Indian tribe involved, the Administrator shall make a recommendation to resolve the dispute and protect the air quality related values of the lands involved. If the parties involved do not reach agreement, the Administrator shall resolve the dispute and his determination, or the results of agreements reached through other means, shall become part of the applicable plan and shall be enforceable as part of such plan. In resolving such disputes relating to area redesignation, the Administrator shall consider the extent to which the lands involved are of sufficient size to allow effective air quality management or have air quality related values of such an area.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 164, as added [Pub. L. 95–95, title I, § 127(a)][/us/pl/95/95/s127/a], Aug. 7, 1977, [91 Stat. 733][/us/stat/91/733]; amended [Pub. L. 95–190, § 14(a)(42)][/us/pl/95/190/s14/a/42], (43), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402]; [Pub. L. 101–549, title I, § 108(n)][/us/pl/101/549/s108/n], Nov. 15, 1990, [104 Stat. 2469][/us/stat/104/2469].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 164, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 127(a), Aug. 7, 1977, [91 Stat. 733][/us/stat/91/733]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(42), (43), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 108(n), Nov. 15, 1990, [104 Stat. 2469][/us/stat/104/2469].)
 
  __Amendments__ 
 
     1990—Subsec. (a). [Pub. L. 101–549][/us/pl/101/549], which directed the insertion of “The extent of the areas referred to in paragraph (1) and (2) shall conform to any changes in the boundaries of such areas which have occurred subsequent to August 7, 1977, or which may occur subsequent to November 15, 1990.” before “Any area (other than an area referred to in paragraph (1) or (2))”, was executed by making the insertion before “Any area (other than an area referred to in paragraph (1) or (2)”, to reflect the probable intent of Congress.
 
-    1977—Subsec. (b)(2). [Pub. L. 95–190, § 14(a)(42)][/us/pl/95/190/s14/a/42], inserted “or is inconsistent with the requirements of [section 7472(a) of this title][/us/usc/t42/s7472/a] or of subsection (a) of this section” after “this section”.
+    1977—Subsec. (b)(2). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(42), inserted “or is inconsistent with the requirements of [section 7472(a) of this title][/us/usc/t42/s7472/a] or of subsection (a) of this section” after “this section”.
 
-    Subsec. (e). [Pub. L. 95–190, § 14(a)(43)][/us/pl/95/190/s14/a/43], inserted “an” after “If any State affected by the redesignation of”.
+    Subsec. (e). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(43), inserted “an” after “If any State affected by the redesignation of”.
 
 ----------
 
@@ -77,15 +77,15 @@
 [/us/usc/t42/s7472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7472%2Fa
 [/us/usc/t42/s7472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7472%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs127%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F733
-[/us/pl/95/190/s14/a/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F42
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1402
-[/us/pl/101/549/s108/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fn
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2469
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/95/190/s14/a/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F42
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/usc/t42/s7472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7472%2Fa
-[/us/pl/95/190/s14/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F43
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

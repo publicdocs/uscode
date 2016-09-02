@@ -33,7 +33,7 @@
 
     (b) The Secretary shall make a periodic survey of the needs, interest, attitudes, knowledge, and behavior of the American public regarding health and health care. The Secretary shall take into consideration the findings of such surveys and the findings of similar surveys conducted by national and community health education organizations, and other organizations and agencies for formulating policy respecting health information and health promotion, preventive health services, and education in the appropriate use of health care.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1702, as added [Pub. L. 94–317, title I, § 102][/us/pl/94/317/s102], June 23, 1976, [90 Stat. 696][/us/stat/90/696]; amended [Pub. L. 102–531, title III, § 311(b)(2)][/us/pl/102/531/s311/b/2], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1702, as added [Pub. L. 94–317, title I][/us/pl/94/317/tI], § 102, June 23, 1976, [90 Stat. 696][/us/stat/90/696]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 311(b)(2), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/317/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs102
+[/us/pl/94/317/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtI
 [/us/stat/90/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F696
-[/us/pl/102/531/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs311%2Fb%2F2
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 

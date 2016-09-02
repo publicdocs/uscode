@@ -29,7 +29,7 @@
 
         The term “commercial sex act” has the meaning given the term in [section 7102(4) of title 22][/us/usc/t22/s7102/4].
 
-([Pub. L. 109–164, title II, § 207][/us/pl/109/164/s207], Jan. 10, 2006, [119 Stat. 3572][/us/stat/119/3572]; [Pub. L. 113–4, title XII, § 1212(b)(2)(C)][/us/pl/113/4/s1212/b/2/C], Mar. 7, 2013, [127 Stat. 144][/us/stat/127/144].)
+([Pub. L. 109–164, title II][/us/pl/109/164/tII], § 207, Jan. 10, 2006, [119 Stat. 3572][/us/stat/119/3572]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1212(b)(2)(C), Mar. 7, 2013, [127 Stat. 144][/us/stat/127/144].)
 
  __References in Text__ 
 
@@ -41,11 +41,11 @@
 
  __Amendments__ 
 
-    2013—Par. (1). [Pub. L. 113–4, § 1212(b)(2)(C)(i)][/us/pl/113/4/s1212/b/2/C/i], substituted “section 7102(9)” for “section 7102(8)”.
+    2013—Par. (1). [Pub. L. 113–4][/us/pl/113/4], § 1212(b)(2)(C)(i), substituted “section 7102(9)” for “section 7102(8)”.
 
-    Par. (2). [Pub. L. 113–4, § 1212(b)(2)(C)(ii)][/us/pl/113/4/s1212/b/2/C/ii], substituted “section 7102(10)” for “section 7102(9)”.
+    Par. (2). [Pub. L. 113–4][/us/pl/113/4], § 1212(b)(2)(C)(ii), substituted “section 7102(10)” for “section 7102(9)”.
 
-    Par. (3). [Pub. L. 113–4, § 1212(b)(2)(C)(iii)][/us/pl/113/4/s1212/b/2/C/iii], substituted “section 7102(4)” for “section 7102(3)”.
+    Par. (3). [Pub. L. 113–4][/us/pl/113/4], § 1212(b)(2)(C)(iii), substituted “section 7102(4)” for “section 7102(3)”.
 
 ----------
 
@@ -57,14 +57,14 @@
 [/us/usc/t22/s7102/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F9
 [/us/usc/t22/s7102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F10
 [/us/usc/t22/s7102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F4
-[/us/pl/109/164/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs207
+[/us/pl/109/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtII
 [/us/stat/119/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3572
-[/us/pl/113/4/s1212/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F2%2FC
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F144
 [/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
 [/us/stat/119/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3567
-[/us/pl/113/4/s1212/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F2%2FC%2Fi
-[/us/pl/113/4/s1212/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F2%2FC%2Fii
-[/us/pl/113/4/s1212/b/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F2%2FC%2Fiii
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 
 

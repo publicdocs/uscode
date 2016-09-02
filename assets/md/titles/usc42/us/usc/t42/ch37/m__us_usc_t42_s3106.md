@@ -23,7 +23,7 @@
 
     (c) The term “development cost” means the cost of constructing the facility and of acquiring the land on which it is located, including necessary site improvements to permit its use as a site for the facility.
 
-([Pub. L. 89–117, title VII, § 706][/us/pl/89/117/s706], Aug. 10, 1965, [79 Stat. 492][/us/stat/79/492].)
+([Pub. L. 89–117, title VII][/us/pl/89/117/tVII], § 706, Aug. 10, 1965, [79 Stat. 492][/us/stat/79/492].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/117/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs706
+[/us/pl/89/117/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtVII
 [/us/stat/79/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F492
 
 

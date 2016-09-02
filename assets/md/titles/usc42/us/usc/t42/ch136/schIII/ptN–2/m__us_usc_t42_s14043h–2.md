@@ -17,7 +17,7 @@
 
     The Attorney General shall increase the amount provided to a State under the covered formula grants in accordance with this part if the State has in place a law that allows the mother of any child that was conceived through rape to seek court-ordered termination of the parental rights of her rapist with regard to that child, which the court is authorized to grant upon clear and convincing evidence of rape.
 
-([Pub. L. 114–22, title IV, § 404][/us/pl/114/22/s404], May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 404, May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs404
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F257
 
 

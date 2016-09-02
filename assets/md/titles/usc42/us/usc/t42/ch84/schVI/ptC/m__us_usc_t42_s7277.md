@@ -39,7 +39,7 @@
 
         Information and data required for the purpose of this section shall be subject to the law regarding the collection and disclosure of such data.
 
-([Pub. L. 99–58, title II, § 202][/us/pl/99/58/s202], July 2, 1985, [99 Stat. 107][/us/stat/99/107].)
+([Pub. L. 99–58, title II][/us/pl/99/58/tII], § 202, July 2, 1985, [99 Stat. 107][/us/stat/99/107].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–58, title II, § 201][/us/pl/99/58/s201], July 2, 1985, [99 Stat. 107][/us/stat/99/107], provided that: 
+[Pub. L. 99–58, title II][/us/pl/99/58/tII], § 201, July 2, 1985, [99 Stat. 107][/us/stat/99/107], provided that: 
 
 > “This title \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Coal Imports Reporting Act of 1985’.”
 
@@ -57,7 +57,7 @@
 
  __Analysis of United States Coal Import Market; Report by Secretary of Energy to Congress__ 
 
-[Pub. L. 99–58, title II, § 203][/us/pl/99/58/s203], July 2, 1985, [99 Stat. 108][/us/stat/99/108], provided that:
+[Pub. L. 99–58, title II][/us/pl/99/58/tII], § 203, July 2, 1985, [99 Stat. 108][/us/stat/99/108], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -102,13 +102,13 @@
 ----------
 ----------
 
-[/us/pl/99/58/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs202
+[/us/pl/99/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2FtII
 [/us/stat/99/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F107
-[/us/pl/99/58/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs201
+[/us/pl/99/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2FtII
 [/us/stat/99/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F107
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/99/58/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs203
+[/us/pl/99/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2FtII
 [/us/stat/99/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F108
 
 

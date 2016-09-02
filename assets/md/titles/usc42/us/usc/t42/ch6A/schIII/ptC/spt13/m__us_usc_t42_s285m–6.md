@@ -17,7 +17,7 @@
 
     With respect to amounts appropriated for a fiscal year for the National Institutes of Health, the limitation established in [section 284c(a)(1) of this title][/us/usc/t42/s284c/a/1] on the expenditure of such amounts for administrative expenses shall apply to administrative expenses of the National Institute on Deafness and Other Communication Disorders.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464F, as added [Pub. L. 100–553, § 2(4)][/us/pl/100/553/s2/4], Oct. 28, 1988, [102 Stat. 2774][/us/stat/102/2774], and [Pub. L. 100–690, title II, § 2613(a)(1)][/us/pl/100/690/s2613/a/1], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; amended [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 103–43, title IV, § 403(b)(2)][/us/pl/103/43/s403/b/2], June 10, 1993, [107 Stat. 158][/us/stat/107/158].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464F, as added [Pub. L. 100–553][/us/pl/100/553], § 2(4), Oct. 28, 1988, [102 Stat. 2774][/us/stat/102/2774], and [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(a)(1), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 103–43, title IV][/us/pl/103/43/tIV], § 403(b)(2), June 10, 1993, [107 Stat. 158][/us/stat/107/158].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
     1993—[Pub. L. 103–43][/us/pl/103/43] substituted “section 284c(a)(1)” for “section 284c(b)(1)”.
 
-    1988—[Pub. L. 100–690, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], amended this section to read as if the amendments made by [Pub. L. 100–690, § 2613(a)(1)][/us/pl/100/690/s2613/a/1], which enacted this section, had not been enacted. See Codification note above.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 2613(b)(2), amended this section to read as if the amendments made by [Pub. L. 100–690][/us/pl/100/690], § 2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -42,19 +42,19 @@
 
 [/us/usc/t42/s284c/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284c%2Fa%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/553/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs2%2F4
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2774
-[/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
-[/us/pl/103/43/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs403%2Fb%2F2
+[/us/pl/103/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIV
 [/us/stat/107/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F158
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
-[/us/pl/100/690/s2613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fa%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
 [/us/pl/100/690/s2613/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F1
 [/us/usc/t42/s285m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285m

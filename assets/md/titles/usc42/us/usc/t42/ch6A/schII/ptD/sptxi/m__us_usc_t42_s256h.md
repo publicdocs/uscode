@@ -181,7 +181,7 @@
 
             The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293l–1 of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340H, as added [Pub. L. 111–148, title V, § 5508(c)][/us/pl/111/148/s5508/c], Mar. 23, 2010, [124 Stat. 670][/us/stat/124/670]; amended [Pub. L. 114–10, title II, § 221(b)][/us/pl/114/10/s221/b], Apr. 16, 2015, [129 Stat. 154][/us/stat/129/154].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340H, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5508(c), Mar. 23, 2010, [124 Stat. 670][/us/stat/124/670]; amended [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 221(b), Apr. 16, 2015, [129 Stat. 154][/us/stat/129/154].)
 
  __References in Text__ 
 
@@ -191,7 +191,7 @@
 
  __Codification__ 
 
-    Another section 340H of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 111–148, title X, § 10333][/us/pl/111/148/s10333], March 23, 2010, [124 Stat. 970][/us/stat/124/970], is classified to [section 256i of this title][/us/usc/t42/s256i].
+    Another section 340H of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10333, March 23, 2010, [124 Stat. 970][/us/stat/124/970], is classified to [section 256i of this title][/us/usc/t42/s256i].
 
  __Amendments__ 
 
@@ -217,16 +217,16 @@
 [/us/usc/t42/s1395ww/h/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F4%2FE
 [/us/usc/t42/s256e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5508%2Fc
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F670
-[/us/pl/114/10/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs221%2Fb
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F154
 [/us/pl/105/33/s4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4410
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10333
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F970
 [/us/usc/t42/s256i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256i
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10

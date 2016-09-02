@@ -33,7 +33,7 @@
 
         (2) Moneys collected under this subsection shall be deposited in the Treasury of the United States to the credit of the appropriation charged with the expense of the services, and the appropriations so credited shall be available for the payment of such compensation to the said employees for services so rendered.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 364, [58 Stat. 704][/us/stat/58/704]; [Pub. L. 85–58][/us/pl/85/58], ch. VII, § 701, June 21, 1957, [71 Stat. 181][/us/stat/71/181]; [Pub. L. 85–580, title II, § 201][/us/pl/85/580/s201], Aug. 1, 1958, [72 Stat. 467][/us/stat/72/467]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 364, [58 Stat. 704][/us/stat/58/704]; [Pub. L. 85–58][/us/pl/85/58], ch. VII, § 701, June 21, 1957, [71 Stat. 181][/us/stat/71/181]; [Pub. L. 85–580, title II][/us/pl/85/580/tII], § 201, Aug. 1, 1958, [72 Stat. 467][/us/stat/72/467]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 [/us/stat/58/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F704
 [/us/pl/85/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F58
 [/us/stat/71/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F181
-[/us/pl/85/580/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F580%2Fs201
+[/us/pl/85/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F580%2FtII
 [/us/stat/72/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F467
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/85/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F580
 [/us/pl/85/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F58

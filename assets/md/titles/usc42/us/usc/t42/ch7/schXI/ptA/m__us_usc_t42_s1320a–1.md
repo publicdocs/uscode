@@ -97,7 +97,7 @@
 
         (5) the purchase of such services is more costly than if the organization provided the services directly.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1122, as added [Pub. L. 92–603, title II, § 221(a)][/us/pl/92/603/s221/a], Oct. 30, 1972, [86 Stat. 1386][/us/stat/86/1386]; amended [Pub. L. 93–233, § 18(z)][/us/pl/93/233/s18/z], (z–1), Dec. 31, 1973, [87 Stat. 973][/us/stat/87/973]; [Pub. L. 95–559, § 14(b)][/us/pl/95/559/s14/b], Nov. 1, 1978, [92 Stat. 2141][/us/stat/92/2141]; [Pub. L. 96–32, § 2(c)][/us/pl/96/32/s2/c], July 10, 1979, [93 Stat. 82][/us/stat/93/82]; [Pub. L. 97–35, title XXI, § 2193(c)(3)][/us/pl/97/35/s2193/c/3], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]; [Pub. L. 97–248, title I, § 137(a)(5)][/us/pl/97/248/s137/a/5], Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–21, title VI, § 607(a)][/us/pl/98/21/s607/a], (b)(1), (c), Apr. 20, 1983, [97 Stat. 171][/us/stat/97/171], 172; [Pub. L. 98–369, div. B, title III, § 2354(a)(1)][/us/pl/98/369/s2354/a/1], (2), July 18, 1984, [98 Stat. 1100][/us/stat/98/1100]; [Pub. L. 105–33, title IV, § 4454(c)(1)][/us/pl/105/33/s4454/c/1], Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1122, as added [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 221(a), Oct. 30, 1972, [86 Stat. 1386][/us/stat/86/1386]; amended [Pub. L. 93–233][/us/pl/93/233], § 18(z), (z–1), Dec. 31, 1973, [87 Stat. 973][/us/stat/87/973]; [Pub. L. 95–559][/us/pl/95/559], § 14(b), Nov. 1, 1978, [92 Stat. 2141][/us/stat/92/2141]; [Pub. L. 96–32][/us/pl/96/32], § 2(c), July 10, 1979, [93 Stat. 82][/us/stat/93/82]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(c)(3), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]; [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 137(a)(5), Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–21, title VI][/us/pl/98/21/tVI], § 607(a), (b)(1), (c), Apr. 20, 1983, [97 Stat. 171][/us/stat/97/171], 172; [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2354(a)(1), (2), July 18, 1984, [98 Stat. 1100][/us/stat/98/1100]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4454(c)(1), Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431].)
 
  __References in Text__ 
 
@@ -107,35 +107,35 @@
 
     1997—Subsec. (h). [Pub. L. 105–33][/us/pl/105/33] substituted “a religious nonmedical health care institution (as defined in [section 1395x(ss)(1) of this title][/us/usc/t42/s1395x/ss/1]).” for “Christian Science sanatoriums operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts.”
 
-    1984—Subsec. (b). [Pub. L. 98–369, § 2354(a)(1)][/us/pl/98/369/s2354/a/1], substituted a comma for the period at end of par. (1), and struck out “(or the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963)” before “to meet the need” in provisions following par. (3).
+    1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 2354(a)(1), substituted a comma for the period at end of par. (1), and struck out “(or the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963)” before “to meet the need” in provisions following par. (3).
 
-    Subsec. (i)(3). [Pub. L. 98–369, § 2354(a)(2)][/us/pl/98/369/s2354/a/2], substituted “5703” for “5703(b)”.
+    Subsec. (i)(3). [Pub. L. 98–369][/us/pl/98/369], § 2354(a)(2), substituted “5703” for “5703(b)”.
 
-    1983—Subsec. (c). [Pub. L. 98–21, § 607(a)][/us/pl/98/21/s607/a], substituted “the general fund in the Treasury” for “the Federal Hospital Insurance Trust Fund”.
+    1983—Subsec. (c). [Pub. L. 98–21][/us/pl/98/21], § 607(a), substituted “the general fund in the Treasury” for “the Federal Hospital Insurance Trust Fund”.
 
-    Subsec. (g). [Pub. L. 98–21, § 607(b)(1)][/us/pl/98/21/s607/b/1], substituted “$600,000 (or such lesser amount as the State may establish)” for “$100,000” and [Pub. L. 98–21, § 607(b)(1)(B)][/us/pl/98/21/s607/b/1/B], substituted “the dollar amount specified in clause (1)” for “$100,000” the second time it appeared.
+    Subsec. (g). [Pub. L. 98–21][/us/pl/98/21], § 607(b)(1), substituted “$600,000 (or such lesser amount as the State may establish)” for “$100,000” and [Pub. L. 98–21][/us/pl/98/21], § 607(b)(1)(B), substituted “the dollar amount specified in clause (1)” for “$100,000” the second time it appeared.
 
-    Subsec. (j). [Pub. L. 98–21, § 607(c)][/us/pl/98/21/s607/c], added subsec. (j).
+    Subsec. (j). [Pub. L. 98–21][/us/pl/98/21], § 607(c), added subsec. (j).
 
-    1982—Subsec. (d)(2). [Pub. L. 97–248][/us/pl/97/248] amended directory language of [Pub. L. 97–35, § 2193(c)(3)(B)][/us/pl/97/35/s2193/c/3/B], to correct typographical error, and did not involve any change in text. See 1981 Amendment note below.
+    1982—Subsec. (d)(2). [Pub. L. 97–248][/us/pl/97/248] amended directory language of [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(3)(B), to correct typographical error, and did not involve any change in text. See 1981 Amendment note below.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 2193(c)(3)(A)][/us/pl/97/35/s2193/c/3/A], substituted “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(3)(A), substituted “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
 
-    Subsec. (d)(1). [Pub. L. 97–35, § 2193(c)(3)(A)][/us/pl/97/35/s2193/c/3/A], substituted in provision following subpar. (B)(ii)(II) “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter” in two places.
+    Subsec. (d)(1). [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(3)(A), substituted in provision following subpar. (B)(ii)(II) “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter” in two places.
 
-    Subsec. (d)(2). [Pub. L. 97–35, § 2193(c)(3)(B)][/us/pl/97/35/s2193/c/3/B], as amended by [Pub. L. 97–248, § 137(a)(5)][/us/pl/97/248/s137/a/5], substituted “subchapter XVIII or XIX of this chapter” for “subchapter V, XVIII, or XIX of this chapter”.
+    Subsec. (d)(2). [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(3)(B), as amended by [Pub. L. 97–248][/us/pl/97/248], § 137(a)(5), substituted “subchapter XVIII or XIX of this chapter” for “subchapter V, XVIII, or XIX of this chapter”.
 
-    Subsec. (e). [Pub. L. 97–35, § 2193(c)(3)(A)][/us/pl/97/35/s2193/c/3/A], substituted “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
+    Subsec. (e). [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(3)(A), substituted “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
 
     1979—[Pub. L. 96–32][/us/pl/96/32] amended directory language of [Pub. L. 95–559][/us/pl/95/559] and required no change in text of section. See 1978 Amendment notes below.
 
-    1978—Subsecs. (a), (b). [Pub. L. 95–559, § 14(b)(1)][/us/pl/95/559/s14/b/1], (2), as amended by [Pub. L. 96–32][/us/pl/96/32], struck out references to health maintenance organizations wherever appearing.
+    1978—Subsecs. (a), (b). [Pub. L. 95–559][/us/pl/95/559], § 14(b)(1), (2), as amended by [Pub. L. 96–32][/us/pl/96/32], struck out references to health maintenance organizations wherever appearing.
 
-    Subsec. (d). [Pub. L. 95–559, § 14(b)(1)][/us/pl/95/559/s14/b/1], (3), as amended by [Pub. L. 96–32][/us/pl/96/32], struck out references to health maintenance organizations wherever appearing and in par. (2) “or organization, or of any facility of such organization,” after “expansion of such facility”.
+    Subsec. (d). [Pub. L. 95–559][/us/pl/95/559], § 14(b)(1), (3), as amended by [Pub. L. 96–32][/us/pl/96/32], struck out references to health maintenance organizations wherever appearing and in par. (2) “or organization, or of any facility of such organization,” after “expansion of such facility”.
 
-    1973—Subsec. (d)(1). [Pub. L. 93–233, § 18(z)][/us/pl/93/233/s18/z], inserted “or a fixed fee or negotiated rate” after “per capita” wherever appearing in last sentence.
+    1973—Subsec. (d)(1). [Pub. L. 93–233][/us/pl/93/233], § 18(z), inserted “or a fixed fee or negotiated rate” after “per capita” wherever appearing in last sentence.
 
-    Subsec. (d)(2). [Pub. L. 93–233, § 18][/us/pl/93/233/s18](z–1), substituted “exclude” for “include” where last appearing.
+    Subsec. (d)(2). [Pub. L. 93–233][/us/pl/93/233], § 18(z–1), substituted “exclude” for “include” where last appearing.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -143,7 +143,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title III, § 2354(e)][/us/pl/98/369/s2354/e], July 18, 1984, [98 Stat. 1102][/us/stat/98/1102], provided that:
+[Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2354(e), July 18, 1984, [98 Stat. 1102][/us/stat/98/1102], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1316, 1320a–7a, 1320a–8, 1395f, 1395i, 1395i–2, 1395k, 1395l, 1395n, 1395p, 1395s to 1395z, 1395aa, 1395cc, 1395ff, 1395ii, 1395ll, 1395mm, 1395oo, 1395rr, and 1395ww of this title and [section 162 of Title 26][/us/usc/t26/s162], Internal Revenue Code, and amending provisions set out as notes under sections 1320c, 1395x, and 1395mm of this title\] shall be effective on the date of the enactment of this Act \[July 18, 1984\]; but none of such amendments shall be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date.
 
@@ -159,7 +159,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–603, title II, § 221(b)][/us/pl/92/603/s221/b], Oct. 30, 1972, [86 Stat. 1389][/us/stat/86/1389], provided that: 
+[Pub. L. 92–603, title II][/us/pl/92/603/tII], § 221(b), Oct. 30, 1972, [86 Stat. 1389][/us/stat/86/1389], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to a capital expenditure the obligation for which is incurred by or on behalf of a health care facility or health maintenance organization subsequent to whichever of the following is earlier: (A) December 31, 1972, or (B) with respect to any State or any part thereof specified by such State, the last day of the calendar quarter in which the State requests that the amendment made by subsection (a) of this section \[enacting this section\] apply in such State or such part thereof.”
 
@@ -173,7 +173,7 @@
 
  __Expenditures or Obligations of Health Care Facilities Providing Health Care Services Prior to__  __December 18, 1970__  __;__  __Limitations on Federal Participation__ 
 
-[Pub. L. 92–603, title II, § 221(d)][/us/pl/92/603/s221/d], Oct. 30, 1972, [86 Stat. 1389][/us/stat/86/1389], provided that: 
+[Pub. L. 92–603, title II][/us/pl/92/603/tII], § 221(d), Oct. 30, 1972, [86 Stat. 1389][/us/stat/86/1389], provided that: 
 
 > “In the case of a health care facility providing health care services as of December 18, 1970, which on such date is committed to a formal plan of expansion or replacement, the amendments made by the preceding provisions of this section \[enacting this section and amending sections 705, 706, 709, 1395x, 1396a, and 1396b of this title\] shall not apply with respect to such expenditures as may be made or obligations incurred for capital items included in such plan where preliminary expenditures toward the plan of expansion or replacement (including payments for studies, surveys, designs, plans, working drawings, specifications, and site acquisition, essential to the acquisition, improvement, expansion, or replacement of the health care facility or equipment concerned) of $100,000 or more, had been made during the three-year period ended December 17, 1970.”
 
@@ -191,54 +191,54 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t42/s1395mm/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs221%2Fa
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1386
-[/us/pl/93/233/s18/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs18%2Fz
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F973
-[/us/pl/95/559/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs14%2Fb
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2141
-[/us/pl/96/32/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs2%2Fc
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F82
-[/us/pl/97/35/s2193/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F3
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
-[/us/pl/97/248/s137/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fa%2F5
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F376
-[/us/pl/98/21/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs607%2Fa
+[/us/pl/98/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtVI
 [/us/stat/97/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F171
-[/us/pl/98/369/s2354/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fa%2F1
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1100
-[/us/pl/105/33/s4454/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fc%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F431
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1395x/ss/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fss%2F1
-[/us/pl/98/369/s2354/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fa%2F1
-[/us/pl/98/369/s2354/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fa%2F2
-[/us/pl/98/21/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs607%2Fa
-[/us/pl/98/21/s607/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs607%2Fb%2F1
-[/us/pl/98/21/s607/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs607%2Fb%2F1%2FB
-[/us/pl/98/21/s607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs607%2Fc
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/35/s2193/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F3%2FB
-[/us/pl/97/35/s2193/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F3%2FA
-[/us/pl/97/35/s2193/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F3%2FA
-[/us/pl/97/35/s2193/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F3%2FB
-[/us/pl/97/248/s137/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs137%2Fa%2F5
-[/us/pl/97/35/s2193/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F3%2FA
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
-[/us/pl/95/559/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs14%2Fb%2F1
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
-[/us/pl/95/559/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs14%2Fb%2F1
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
-[/us/pl/93/233/s18/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs18%2Fz
-[/us/pl/93/233/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs18
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4454/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fd
 [/us/usc/t42/s1395i–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%935
-[/us/pl/98/369/s2354/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fe
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1102
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
 [/us/usc/t42/s1395f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f
@@ -251,13 +251,13 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/92/603/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs221%2Fb
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1389
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/92/603/s221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs221%2Fd
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1389
 
 

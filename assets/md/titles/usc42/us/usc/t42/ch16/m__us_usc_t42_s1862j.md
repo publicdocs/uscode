@@ -21,7 +21,7 @@
 
     (2) $35,000,000 for fiscal year 1993.
 
-([Pub. L. 102–476, § 5][/us/pl/102/476/s5], Oct. 23, 1992, [106 Stat. 2301][/us/stat/106/2301].)
+([Pub. L. 102–476][/us/pl/102/476], § 5, Oct. 23, 1992, [106 Stat. 2301][/us/stat/106/2301].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/476/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476%2Fs5
+[/us/pl/102/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476
 [/us/stat/106/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2301
 [/us/pl/102/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476
 [/us/stat/106/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2297

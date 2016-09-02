@@ -17,7 +17,7 @@
 
     Not later than 90 days after the receipt of an application under this part, the Attorney General shall either provide grant funds or shall inform the applicant why grant funds are not being provided.
 
-([Pub. L. 103–322, title IV, § 40605][/us/pl/103/322/s40605], Sept. 13, 1994, [108 Stat. 1952][/us/stat/108/1952].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40605, Sept. 13, 1994, [108 Stat. 1952][/us/stat/108/1952].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40605
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1952
 
 

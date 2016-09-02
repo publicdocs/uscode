@@ -31,7 +31,7 @@
 
         Nothing in this section shall be construed to restrict, in any manner, the prescribing of antibiotics by physicians, or to limit the practice of medicine, including for diseases such as Lyme and tick-borne diseases.
 
-([Pub. L. 110–85, title XI, § 1111][/us/pl/110/85/s1111], Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
+([Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1111, Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1111
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F975
 
 

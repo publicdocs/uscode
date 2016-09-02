@@ -145,7 +145,7 @@
 
             The amount of any State’s allotment under [section 12581(e) of this title][/us/usc/t42/s12581/e] for a fiscal year that the Corporation determines will not be provided for that fiscal year shall be available for distribution by the Corporation as provided in [section 12581(f) of this title][/us/usc/t42/s12581/f].
 
-([Pub. L. 101–610, title I, § 133][/us/pl/101/610/s133], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 805][/us/stat/107/805]; amended [Pub. L. 111–13, title I, § 1311][/us/pl/111/13/s1311], Apr. 21, 2009, [123 Stat. 1509][/us/stat/123/1509].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 133, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 805][/us/stat/107/805]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1311, Apr. 21, 2009, [123 Stat. 1509][/us/stat/123/1509].)
 
  __Prior Provisions__ 
 
@@ -153,23 +153,23 @@
 
  __Amendments__ 
 
-    2009—Subsec. (b)(2)(B). [Pub. L. 111–13, § 1311(1)][/us/pl/111/13/s1311/1], struck out “jobs or” before “positions”.
+    2009—Subsec. (b)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1311(1), struck out “jobs or” before “positions”.
 
-    Subsec. (d)(2). [Pub. L. 111–13, § 1311(2)(A)(i)][/us/pl/111/13/s1311/2/A/i], substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” and “section 12581(d)” for “section 12581(d)(2)” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 111–13][/us/pl/111/13], § 1311(2)(A)(i), substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” and “section 12581(d)” for “section 12581(d)(2)” in introductory provisions.
 
-    Subsec. (d)(2)(A) to (G). [Pub. L. 111–13, § 1311(2)(A)(ii)][/us/pl/111/13/s1311/2/A/ii], added subpars. (A) to (C) and struck out former subpars. (A) to (G), which set forth programs the Corporation could include in designating national service programs to receive priority.
+    Subsec. (d)(2)(A) to (G). [Pub. L. 111–13][/us/pl/111/13], § 1311(2)(A)(ii), added subpars. (A) to (C) and struck out former subpars. (A) to (G), which set forth programs the Corporation could include in designating national service programs to receive priority.
 
-    Subsec. (d)(3). [Pub. L. 111–13, § 1311(2)(B)][/us/pl/111/13/s1311/2/B], substituted “section 12581(d)” for “section 12581(d)(2)” in introductory provisions.
+    Subsec. (d)(3). [Pub. L. 111–13][/us/pl/111/13], § 1311(2)(B), substituted “section 12581(d)” for “section 12581(d)(2)” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 111–13, § 1311(3)][/us/pl/111/13/s1311/3], substituted “subsections (d) and (e) of section 12581” for “subsections (a) and (d)(1) of section 12581” in introductory provisions.
+    Subsec. (e). [Pub. L. 111–13][/us/pl/111/13], § 1311(3), substituted “subsections (d) and (e) of section 12581” for “subsections (a) and (d)(1) of section 12581” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 111–13, § 1311(6)][/us/pl/111/13/s1311/6], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 111–13][/us/pl/111/13], § 1311(6), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(1). [Pub. L. 111–13, § 1311(4)(A)][/us/pl/111/13/s1311/4/A], substituted “section 12581(e)” for “section 12581(a)(1)”.
+    Subsec. (f)(1). [Pub. L. 111–13][/us/pl/111/13], § 1311(4)(A), substituted “section 12581(e)” for “section 12581(a)(1)”.
 
-    Subsec. (f)(3). [Pub. L. 111–13, § 1311(4)(B)][/us/pl/111/13/s1311/4/B], substituted “section 12581(e)” for “section 12581(a)” and “[section 12581(f) of this title][/us/usc/t42/s12581/f]” for “paragraph (3) of such subsection”.
+    Subsec. (f)(3). [Pub. L. 111–13][/us/pl/111/13], § 1311(4)(B), substituted “section 12581(e)” for “section 12581(a)” and “[section 12581(f) of this title][/us/usc/t42/s12581/f]” for “paragraph (3) of such subsection”.
 
-    Subsec. (g). [Pub. L. 111–13, § 1311(5)][/us/pl/111/13/s1311/5], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 111–13][/us/pl/111/13], § 1311(5), redesignated subsec. (f) as (g).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -204,22 +204,22 @@
 [/us/usc/t42/s12581/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12581%2Fe
 [/us/usc/t42/s12581/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12581%2Fe
 [/us/usc/t42/s12581/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12581%2Ff
-[/us/pl/101/610/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs133
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F805
-[/us/pl/111/13/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1509
 [/us/pl/101/610/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs133
-[/us/pl/111/13/s1311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F1
-[/us/pl/111/13/s1311/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F2%2FA%2Fi
-[/us/pl/111/13/s1311/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F2%2FA%2Fii
-[/us/pl/111/13/s1311/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F2%2FB
-[/us/pl/111/13/s1311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F3
-[/us/pl/111/13/s1311/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F6
-[/us/pl/111/13/s1311/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F4%2FA
-[/us/pl/111/13/s1311/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F4%2FB
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12581/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12581%2Ff
-[/us/pl/111/13/s1311/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1311%2F5
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -107,13 +107,13 @@
 
         The term “vendor of personal health records” means an entity, other than a covered entity (as defined in paragraph (3)), that offers or maintains a personal health record.
 
-([Pub. L. 111–5, div. A, title XIII, § 13400][/us/pl/111/5/s13400], Feb. 17, 2009, [123 Stat. 258][/us/stat/123/258].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13400, Feb. 17, 2009, [123 Stat. 258][/us/stat/123/258].)
 
  __References in Text__ 
 
     This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§ 13400 et seq.) of title XIII of div. A of [Pub. L. 111–5][/us/pl/111/5], Feb. 17, 2009, [123 Stat. 258][/us/stat/123/258], which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
 
-    Section 13101, referred to in par. (9), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/s13101].
+    Section 13101, referred to in par. (9), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13101].
 
 ----------
 
@@ -124,10 +124,10 @@
 
 [/us/usc/t42/s300jj–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9311%2Fa
 [/us/usc/t42/s17937/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17937%2Ff%2F2
-[/us/pl/111/5/s13400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13400
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13101
 
 

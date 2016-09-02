@@ -19,7 +19,7 @@
 
     (b) The Attorney General and the Comptroller General of the United States shall have access, for the purpose of audit and examination, to any books, documents, and records of recipients of Federal law enforcement assistance provided under this chapter which, in the opinion of the Attorney General or the Comptroller General, are related to the receipt or use of such assistance.
 
-([Pub. L. 98–473, title II, § 609T][/us/pl/98/473/s609T], Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609T, Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609T
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2106
 
 

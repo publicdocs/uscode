@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4b...247b–4d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
 
-## § 247b–4e. Repealed. [Pub. L. 109–416, § 3(b)(4)][/us/pl/109/416/s3/b/4], Dec. 19, 2006, [120 Stat. 2829][/us/stat/120/2829]; [Pub. L. 109–482, title I, § 104(b)(3)(D)][/us/pl/109/482/s104/b/3/D], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694]
+## § 247b–4e. Repealed. [Pub. L. 109–416][/us/pl/109/416], § 3(b)(4), Dec. 19, 2006, [120 Stat. 2829][/us/stat/120/2829]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(3)(D), Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694]
 
-    Section, [Pub. L. 106–310, div. A, title I, § 105][/us/pl/106/310/s105], Oct. 17, 2000, [114 Stat. 1109][/us/stat/114/1109], related to annual report to Congress concerning the implementation of this section and sections 247b–4b to 247b–4d and 284g of this title.
+    Section, [Pub. L. 106–310, div. A, title I][/us/pl/106/310/dA/tI], § 105, Oct. 17, 2000, [114 Stat. 1109][/us/stat/114/1109], related to annual report to Congress concerning the implementation of this section and sections 247b–4b to 247b–4d and 284g of this title.
 
  __Effective Date of Repeal__ 
 
@@ -23,16 +23,16 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4b...247b–4d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
 
 ----------
 ----------
 
-[/us/pl/109/416/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416%2Fs3%2Fb%2F4
+[/us/pl/109/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416
 [/us/stat/120/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2829
-[/us/pl/109/482/s104/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F3%2FD
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3694
-[/us/pl/106/310/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs105
+[/us/pl/106/310/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtI
 [/us/stat/114/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1109
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109

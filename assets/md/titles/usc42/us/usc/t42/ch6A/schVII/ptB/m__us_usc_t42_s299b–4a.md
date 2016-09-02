@@ -27,7 +27,7 @@
 
         Not later than 1 year after December 21, 2000, and annually thereafter, the Secretary of Health and Human Services shall submit to Congress a report on the conclusions of the studies conducted under subsection (a) of this section, together with recommendations for such legislation and administrative actions as the Secretary considers appropriate.
 
-([Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 126\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–479.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title I, § 126\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–479.)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

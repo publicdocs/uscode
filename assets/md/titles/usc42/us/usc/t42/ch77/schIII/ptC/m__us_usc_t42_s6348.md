@@ -71,7 +71,7 @@
 
         Not later than one year after October 24, 1992, the Secretary shall, in consultation with affected industries, evaluate and report to the Congress regarding the establishment of Federally mandated energy efficiency reporting requirements and voluntary energy efficiency improvement targets for energy intensive industries. Such report shall include an evaluation of the costs and benefits of such reporting requirements and voluntary energy efficiency improvement targets, and recommendations regarding the role of such activities in improving energy efficiency in energy intensive industries.
 
-([Pub. L. 102–486, title I, § 131][/us/pl/102/486/s131], Oct. 24, 1992, [106 Stat. 2836][/us/stat/106/2836].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 131, Oct. 24, 1992, [106 Stat. 2836][/us/stat/106/2836].)
 
  __Codification__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs131
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2836
 
 

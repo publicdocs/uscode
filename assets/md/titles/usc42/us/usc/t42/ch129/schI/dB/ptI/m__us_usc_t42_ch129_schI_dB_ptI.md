@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Part I of subtitle B of title I of the National and Community Service Act of 1990, comprising this part, was originally added to [Pub. L. 101–610, title I][/us/pl/101/610], subtitle B, by [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], Sept. 21, 1993, [107 Stat. 825][/us/stat/107/825], and amended by [Pub. L. 103–382][/us/pl/103/382], Oct. 20, 1994, [108 Stat. 3518][/us/stat/108/3518]. Such part is shown herein, however, as having been added by [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1467][/us/stat/123/1467], without reference to such intervening amendments because of the extensive revision of the part’s provisions by [Pub. L. 111–13][/us/pl/111/13].
+    Part I of subtitle B of title I of the National and Community Service Act of 1990, comprising this part, was originally added to [Pub. L. 101–610, title I][/us/pl/101/610/tI], subtitle B, by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(a)(2), Sept. 21, 1993, [107 Stat. 825][/us/stat/107/825], and amended by [Pub. L. 103–382][/us/pl/103/382], Oct. 20, 1994, [108 Stat. 3518][/us/stat/108/3518]. Such part is shown herein, however, as having been added by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1201, Apr. 21, 2009, [123 Stat. 1467][/us/stat/123/1467], without reference to such intervening amendments because of the extensive revision of the part’s provisions by [Pub. L. 111–13][/us/pl/111/13].
 
 ----------
 
@@ -26,12 +26,12 @@
 ----------
 ----------
 
-[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F825
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/stat/108/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3518
-[/us/pl/111/13/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1201
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1467
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 

@@ -37,11 +37,11 @@
 
         the Administrator shall, to the maximum extent practicable within the time provided, consult with appropriate advisory committees, independence experts, and Federal departments and agencies.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 117 formerly § 6, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 399][/us/stat/77/399]; renumbered § 106, [Pub. L. 89–272, title I, § 101(3)][/us/pl/89/272/s101/3], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; renumbered § 110 and amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 498][/us/stat/81/498]; renumbered § 117 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 4(a), (d), 15(c)(2), Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678], 1689, 1713; [Pub. L. 95–95, title I, § 115][/us/pl/95/95/s115], Aug. 7, 1977, [91 Stat. 711][/us/stat/91/711]; [Pub. L. 95–623, § 13(c)][/us/pl/95/623/s13/c], Nov. 9, 1978, [92 Stat. 3458][/us/stat/92/3458].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 117 formerly § 6, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 399][/us/stat/77/399]; renumbered § 106, [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(3), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; renumbered § 110 and amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 498][/us/stat/81/498]; renumbered § 117 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 4(a), (d), 15(c)(2), Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678], 1689, 1713; [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 115, Aug. 7, 1977, [91 Stat. 711][/us/stat/91/711]; [Pub. L. 95–623][/us/pl/95/623], § 13(c), Nov. 9, 1978, [92 Stat. 3458][/us/stat/92/3458].)
 
  __References in Text__ 
 
-    Section 7412(b)(1), referred to in subsec. (c)(2), was amended generally by [Pub. L. 101–549, title III, § 301][/us/pl/101/549/s301], Nov. 15, 1990, [104 Stat. 2531][/us/stat/104/2531], and, as so amended, no longer contains a subpar. (A).
+    Section 7412(b)(1), referred to in subsec. (c)(2), was amended generally by [Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 301, Nov. 15, 1990, [104 Stat. 2531][/us/stat/104/2531], and, as so amended, no longer contains a subpar. (A).
 
  __Codification__ 
 
@@ -53,21 +53,21 @@
 
     1978—Subsec. (c)(3). [Pub. L. 95–623][/us/pl/95/623] substituted “7411” for “7411(b)(1)(B)” and “7412” for “7412(b)(1)(B)”.
 
-    1977—Subsec. (a). [Pub. L. 95–95, § 115(1)][/us/pl/95/95/s115/1], (2), redesignated subsec. (d) as (a). Former subsec. (a), establishing an Air Quality Advisory Board in the Environmental Protection Agency, was struck out.
+    1977—Subsec. (a). [Pub. L. 95–95][/us/pl/95/95], § 115(1), (2), redesignated subsec. (d) as (a). Former subsec. (a), establishing an Air Quality Advisory Board in the Environmental Protection Agency, was struck out.
 
-    Subsec. (b). [Pub. L. 95–95, § 115(1)][/us/pl/95/95/s115/1]–(3), redesignated subsec. (e) as (b) and substituted “The members of any other advisory committees” for “The members of the Board and other advisory committees” and “conferences or meetings or while otherwise serving” for “conferences or meetings of the Board or while otherwise serving”. Former subsec. (b), setting out the duties of the Air Quality Advisory Board, was struck out.
+    Subsec. (b). [Pub. L. 95–95][/us/pl/95/95], § 115(1)–(3), redesignated subsec. (e) as (b) and substituted “The members of any other advisory committees” for “The members of the Board and other advisory committees” and “conferences or meetings or while otherwise serving” for “conferences or meetings of the Board or while otherwise serving”. Former subsec. (b), setting out the duties of the Air Quality Advisory Board, was struck out.
 
-    Subsecs. (c) to (e). [Pub. L. 95–95, § 115(1)][/us/pl/95/95/s115/1], (2), struck out subsec. (c) which related to clerical and technical assistance for the Air Quality Advisory Board, and redesignated subsecs. (d) and (e) as (a) and (b), respectively.
+    Subsecs. (c) to (e). [Pub. L. 95–95][/us/pl/95/95], § 115(1), (2), struck out subsec. (c) which related to clerical and technical assistance for the Air Quality Advisory Board, and redesignated subsecs. (d) and (e) as (a) and (b), respectively.
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Environmental Protection Agency” for “Department of Health, Education, and Welfare” and “Administrator” for “Secretary”.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Environmental Protection Agency” for “Department of Health, Education, and Welfare” and “Administrator” for “Secretary”.
 
-    Subsec. (b). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” wherever appearing.
+    Subsec. (b). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 
-    Subsec. (c). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+    Subsec. (c). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
 
-    Subsecs. (d), (e). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 
-    Subsec. (f). [Pub. L. 91–604, § 4(d)][/us/pl/91/604/s4/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 91–604][/us/pl/91/604], § 4(d), added subsec. (f).
 
     1967—Subsec. (a). [Pub. L. 90–148][/us/pl/90/148] substituted provisions establishing in the Department of Health, Education, and Welfare an Air Quality Advisory Board and providing for the appointment and term of its members for provisions directing the Secretary to maintain liaison with manufacturers looking toward development of devices and fuels to reduce pollutants in automotive exhaust and to appoint a technical committee and call it together from time to time to evaluate progress and develop and recommend research programs.
 
@@ -99,31 +99,31 @@
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/usc/t42/s7521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F399
-[/us/pl/89/272/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F3
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F498
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1678
-[/us/pl/95/95/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs115
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F711
-[/us/pl/95/623/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs13%2Fc
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3458
-[/us/pl/101/549/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs301
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2531
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s1857e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857e
 [/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
-[/us/pl/95/95/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs115%2F1
-[/us/pl/95/95/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs115%2F1
-[/us/pl/95/95/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs115%2F1
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fd
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148

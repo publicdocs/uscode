@@ -109,13 +109,13 @@
 
             In the case of a State that provides for premium assistance subsidies under the State child health plan in accordance with paragraph (2)(B), (3), or (10) of [section 1397ee(c) of this title][/us/usc/t42/s1397ee/c], or a waiver approved under [section 1315 of this title][/us/usc/t42/s1315], outreach, education, and enrollment assistance for families of children likely to be eligible for such subsidies, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and for employers likely to provide coverage that is eligible for such subsidies, including the specific, significant resources the State intends to apply to educate employers about the availability of premium assistance subsidies under the State child health plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2102, as added [Pub. L. 105–33, title IV, § 4901(a)][/us/pl/105/33/s4901/a], Aug. 5, 1997, [111 Stat. 552][/us/stat/111/552]; amended [Pub. L. 111–3, title I, § 111(b)(2)][/us/pl/111/3/s111/b/2], title II, §§ 201(b)(2)(B)(i), 212, title III, § 302(a), title V, § 501(a)(2), (b)(2), Feb. 4, 2009, [123 Stat. 28][/us/stat/123/28], 39, 55, 63, 85, 86; [Pub. L. 111–148, title II, § 2101(d)(1)][/us/pl/111/148/s2101/d/1], Mar. 23, 2010, [124 Stat. 287][/us/stat/124/287]; [Pub. L. 111–152, title I, § 1004(b)(2)(A)][/us/pl/111/152/s1004/b/2/A], Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2102, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4901(a), Aug. 5, 1997, [111 Stat. 552][/us/stat/111/552]; amended [Pub. L. 111–3, title I][/us/pl/111/3/tI], § 111(b)(2), title II, §§ 201(b)(2)(B)(i), 212, title III, § 302(a), title V, § 501(a)(2), (b)(2), Feb. 4, 2009, [123 Stat. 28][/us/stat/123/28], 39, 55, 63, 85, 86; [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2101(d)(1), Mar. 23, 2010, [124 Stat. 287][/us/stat/124/287]; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1004(b)(2)(A), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034].)
 
  __References in Text__ 
 
     The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is classified generally to Title 26, Internal Revenue Code.
 
-    [Section 1603(c) of title 25][/us/usc/t25/s1603/c], referred to in subsec. (b)(3)(D), was redesignated [section 1603(13) of title 25][/us/usc/t25/s1603/13] by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
+    [Section 1603(c) of title 25][/us/usc/t25/s1603/c], referred to in subsec. (b)(3)(D), was redesignated [section 1603(13) of title 25][/us/usc/t25/s1603/13] by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935].
 
  __Amendments__ 
 
@@ -123,21 +123,21 @@
 
     [Pub. L. 111–148][/us/pl/111/148] added cl. (v).
 
-    2009—Subsec. (a)(7)(B). [Pub. L. 111–3, § 501(a)(2)][/us/pl/111/3/s501/a/2], inserted “and services described in [section 1397cc(c)(5) of this title][/us/usc/t42/s1397cc/c/5]” after “emergency services”.
+    2009—Subsec. (a)(7)(B). [Pub. L. 111–3][/us/pl/111/3], § 501(a)(2), inserted “and services described in [section 1397cc(c)(5) of this title][/us/usc/t42/s1397cc/c/5]” after “emergency services”.
 
     Subsec. (b)(1)(B)(iii), (iv). [Pub. L. 111–3][/us/pl/111/3], §§ 111(b)(2), 501(b)(2), added cls. (iii) and (iv).
 
-    Subsec. (b)(4), (5). [Pub. L. 111–3, § 212][/us/pl/111/3/s212], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 111–3][/us/pl/111/3], § 212, added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (c)(1). [Pub. L. 111–3, § 201(b)(2)(B)(i)][/us/pl/111/3/s201/b/2/B/i], inserted “(through community health workers and others)” after “Outreach”.
+    Subsec. (c)(1). [Pub. L. 111–3][/us/pl/111/3], § 201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”.
 
-    Subsec. (c)(3). [Pub. L. 111–3, § 302(a)][/us/pl/111/3/s302/a], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–3][/us/pl/111/3], § 302(a), added par. (3).
 
  __Effective Date of 2009 Amendment__ 
 
     Amendment by sections 111(b)(2), 201(b)(2)(B)(i), 212, 302(a), and 501(b)(2) of [Pub. L. 111–3][/us/pl/111/3] effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see [section 3 of Pub. L. 111–3][/us/pl/111/3/s3], set out as an Effective Date note under [section 1396 of this title][/us/usc/t42/s1396].
 
-[Pub. L. 111–3, title V, § 501(a)(3)][/us/pl/111/3/s501/a/3], Feb. 4, 2009, [123 Stat. 85][/us/stat/123/85], provided that: 
+[Pub. L. 111–3, title V][/us/pl/111/3/tV], § 501(a)(3), Feb. 4, 2009, [123 Stat. 85][/us/stat/123/85], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) \[amending this section and [section 1397cc of this title][/us/usc/t42/s1397cc]\] shall apply to coverage of items and services furnished on or after October 1, 2009.”
 
@@ -155,30 +155,30 @@
 [/us/usc/t42/s1397ee/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fc
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4901%2Fa
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F552
-[/us/pl/111/3/s111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs111%2Fb%2F2
+[/us/pl/111/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtI
 [/us/stat/123/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F28
-[/us/pl/111/148/s2101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2101%2Fd%2F1
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F287
-[/us/pl/111/152/s1004/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fb%2F2%2FA
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1034
 [/us/usc/t25/s1603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603%2Fc
 [/us/usc/t25/s1603/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603%2F13
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/3/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F2
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/usc/t42/s1397cc/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397cc%2Fc%2F5
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
-[/us/pl/111/3/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs212
-[/us/pl/111/3/s201/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs201%2Fb%2F2%2FB%2Fi
-[/us/pl/111/3/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs302%2Fa
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/111/3/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F3
+[/us/pl/111/3/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtV
 [/us/stat/123/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F85
 [/us/usc/t42/s1397cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397cc
 

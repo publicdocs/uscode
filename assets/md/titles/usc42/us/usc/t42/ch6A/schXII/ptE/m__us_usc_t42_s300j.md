@@ -67,7 +67,7 @@
 
         No certification of need or order issued under this section may remain in effect for more than one year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1441, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1680][/us/stat/88/1680]; amended [Pub. L. 95–190, § 7][/us/pl/95/190/s7], Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396]; [Pub. L. 96–63, § 3][/us/pl/96/63/s3], Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 99–339, title III, § 301(d)][/us/pl/99/339/s301/d], June 19, 1986, [100 Stat. 664][/us/stat/100/664]; [Pub. L. 104–182, title V, § 501(c)][/us/pl/104/182/s501/c], Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1441, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1680][/us/stat/88/1680]; amended [Pub. L. 95–190][/us/pl/95/190], § 7, Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396]; [Pub. L. 96–63][/us/pl/96/63], § 3, Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 99–339, title III][/us/pl/99/339/tIII], § 301(d), June 19, 1986, [100 Stat. 664][/us/stat/100/664]; [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(c), Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691].)
 
  __Amendments__ 
 
@@ -95,15 +95,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1680
-[/us/pl/95/190/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs7
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1396
-[/us/pl/96/63/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63%2Fs3
+[/us/pl/96/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63
 [/us/stat/93/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F411
-[/us/pl/99/339/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs301%2Fd
+[/us/pl/99/339/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtIII
 [/us/stat/100/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F664
-[/us/pl/104/182/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Fc
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1691
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339

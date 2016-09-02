@@ -115,7 +115,7 @@
 
         (4) There is hereby transferred to the Fund $1,000,000 from the Salaries and Expenses appropriation of the Commission.
 
-([Pub. L. 88–352, title VII, § 705][/us/pl/88/352/s705], July 2, 1964, [78 Stat. 258][/us/stat/78/258]; [Pub. L. 92–261, § 8(d)][/us/pl/92/261/s8/d]–(f), Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109], 110; [Pub. L. 93–608, § 3(1)][/us/pl/93/608/s3/1], Jan. 2, 1975, [88 Stat. 1972][/us/stat/88/1972]; [Pub. L. 95–251, § 2(a)(11)][/us/pl/95/251/s2/a/11], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 102–166, title I][/us/pl/102/166], §§ 110(a), 111, Nov. 21, 1991, [105 Stat. 1078][/us/stat/105/1078]; [Pub. L. 102–411, § 2][/us/pl/102/411/s2], Oct. 14, 1992, [106 Stat. 2102][/us/stat/106/2102]; [Pub. L. 104–66, title II, § 2031][/us/pl/104/66/s2031], Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 705, July 2, 1964, [78 Stat. 258][/us/stat/78/258]; [Pub. L. 92–261][/us/pl/92/261], § 8(d)–(f), Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109], 110; [Pub. L. 93–608][/us/pl/93/608], § 3(1), Jan. 2, 1975, [88 Stat. 1972][/us/stat/88/1972]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(11), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], §§ 110(a), 111, Nov. 21, 1991, [105 Stat. 1078][/us/stat/105/1078]; [Pub. L. 102–411][/us/pl/102/411], § 2, Oct. 14, 1992, [106 Stat. 2102][/us/stat/106/2102]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2031, Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].)
 
  __References in Text__ 
 
@@ -123,13 +123,13 @@
 
     The effective date of this Act, referred to in subsec. (b)(1), probably means the date of enactment of [Pub. L. 92–261][/us/pl/92/261], which was approved Mar. 24, 1972.
 
-    [Section 7324 of title 5][/us/usc/t5/s7324], referred to in subsec. (i), which related to Executive agency employees or District of Columbia government employees influencing elections or taking part in political campaigns, was omitted in the general revision of subchapter III of chapter 73 of Title 5 by [Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1003][/us/stat/107/1003], which enacted a new section 7324, relating to prohibition of political activities while on duty. See [section 7323 of Title 5][/us/usc/t5/s7323].
+    [Section 7324 of title 5][/us/usc/t5/s7324], referred to in subsec. (i), which related to Executive agency employees or District of Columbia government employees influencing elections or taking part in political campaigns, was omitted in the general revision of subchapter III of chapter 73 of Title 5 by [Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1003][/us/stat/107/1003], which enacted a new section 7324, relating to prohibition of political activities while on duty. See [section 7323 of Title 5][/us/usc/t5/s7323].
 
  __Codification__ 
 
-    In subsec. (a), reference to section “5372” of title 5 substituted for reference to section “5362” on authority of [Pub. L. 95–454, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
+    In subsec. (a), reference to section “5372” of title 5 substituted for reference to section “5362” on authority of [Pub. L. 95–454][/us/pl/95/454], § 801(a)(3)(A)(ii), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
 
-    In subsec. (i), “[section 7324 of title 5][/us/usc/t5/s7324]” substituted for “[section 9 of the Act of August 2, 1939][/us/act/1939-08-02/s9], as amended (the Hatch Act)” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. Prior to the enactment of Title 5, [section 9 of the Act of August 2, 1939][/us/act/1939-08-02/s9], as amended, was classified to [section 118i of Title 5][/us/usc/t5/s118i].
+    In subsec. (i), “[section 7324 of title 5][/us/usc/t5/s7324]” substituted for “[section 9 of the Act of August 2, 1939][/us/act/1939-08-02/s9], as amended (the Hatch Act)” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. Prior to the enactment of Title 5, [section 9 of the Act of August 2, 1939][/us/act/1939-08-02/s9], as amended, was classified to [section 118i of Title 5][/us/usc/t5/s118i].
 
  __Amendments__ 
 
@@ -137,25 +137,25 @@
 
     1992—Subsec. (k). [Pub. L. 102–411][/us/pl/102/411] added subsec. (k).
 
-    1991—Subsec. (h). [Pub. L. 102–166, § 111][/us/pl/102/166/s111], designated existing provisions as par. (1) and added par. (2).
+    1991—Subsec. (h). [Pub. L. 102–166][/us/pl/102/166], § 111, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (j). [Pub. L. 102–166, § 110(a)][/us/pl/102/166/s110/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–166][/us/pl/102/166], § 110(a), added subsec. (j).
 
     1978—Subsec. (a). [Pub. L. 95–251][/us/pl/95/251] substituted “administrative law judges” for “hearing examiners” wherever appearing.
 
     1975—Subsec. (e). [Pub. L. 93–608][/us/pl/93/608] struck out reporting requirement of names, salaries, and duties of all individuals in employ of Commission.
 
-    1972—Subsec. (a). [Pub. L. 92–261, § 8(d)][/us/pl/92/261/s8/d], struck out provisions setting forth length of terms of original members of Commission and provisions authorizing Vice Chairman to act as Chairman in certain circumstances, inserted provisions relating to continuation in office of all members of Commission, and substituted provisions requiring appointment of officers, etc., in accordance with provisions of title 5, fixing compensation of such officers, etc., in accordance with provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, and requiring assignment, removal, and compensation of hearing examiners in accordance with specified sections, for provisions requiring appointment of officers, etc., in accordance with civil service laws, and fixing compensation of such officers, etc., in accordance with the Classification Act of 1949, as amended.
+    1972—Subsec. (a). [Pub. L. 92–261][/us/pl/92/261], § 8(d), struck out provisions setting forth length of terms of original members of Commission and provisions authorizing Vice Chairman to act as Chairman in certain circumstances, inserted provisions relating to continuation in office of all members of Commission, and substituted provisions requiring appointment of officers, etc., in accordance with provisions of title 5, fixing compensation of such officers, etc., in accordance with provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, and requiring assignment, removal, and compensation of hearing examiners in accordance with specified sections, for provisions requiring appointment of officers, etc., in accordance with civil service laws, and fixing compensation of such officers, etc., in accordance with the Classification Act of 1949, as amended.
 
-    Subsecs. (b) to (e). [Pub. L. 92–261, § 8(e)][/us/pl/92/261/s8/e], added subsec. (b), struck out subsec. (e) which amended sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, and redesignated existing subsecs. (b), (c), and (d) as (c), (d), and (e), respectively.
+    Subsecs. (b) to (e). [Pub. L. 92–261][/us/pl/92/261], § 8(e), added subsec. (b), struck out subsec. (e) which amended sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, and redesignated existing subsecs. (b), (c), and (d) as (c), (d), and (e), respectively.
 
-    Subsec. (g)(6). [Pub. L. 92–261, § 8(f)][/us/pl/92/261/s8/f], substituted provisions which authorized Commission to intervene in a civil action brought under [section 2000e–5 of this title][/us/usc/t42/s2000e–5] where respondent is other than a government, governmental agency, or political subdivision for provisions which authorized Commission to refer matters to Attorney General with recommendations to intervene or institute civil actions.
+    Subsec. (g)(6). [Pub. L. 92–261][/us/pl/92/261], § 8(f), substituted provisions which authorized Commission to intervene in a civil action brought under [section 2000e–5 of this title][/us/usc/t42/s2000e–5] where respondent is other than a government, governmental agency, or political subdivision for provisions which authorized Commission to refer matters to Attorney General with recommendations to intervene or institute civil actions.
 
-    Subsecs. (h) to (j). [Pub. L. 92–261, § 8(e)(2)][/us/pl/92/261/s8/e/2], (3), struck out subsec. (h) which provided for legal representation for Commission, and redesignated subsecs. (i) and (j) as (h) and (i), respectively.
+    Subsecs. (h) to (j). [Pub. L. 92–261][/us/pl/92/261], § 8(e)(2), (3), struck out subsec. (h) which provided for legal representation for Commission, and redesignated subsecs. (i) and (j) as (h) and (i), respectively.
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–166, title I, § 110(b)][/us/pl/102/166/s110/b], Nov. 21, 1991, [105 Stat. 1078][/us/stat/105/1078], provided that: 
+[Pub. L. 102–166, title I][/us/pl/102/166/tI], § 110(b), Nov. 21, 1991, [105 Stat. 1078][/us/stat/105/1078], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 21, 1991\].”
 
@@ -167,7 +167,7 @@
 
  __Reorganization Plan No. 1 of 1978 Superseded by Civil Service Reform Act of 1978__ 
 
-    [Pub. L. 95–454, title IX, § 905][/us/pl/95/454/s905], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], provided in part that any provision in Reorganization Plan No. 1 of 1978 \[set out below\] inconsistent with any provision of that Act \[see Tables for classification\] was superseded thereby.
+    [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 905, Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], provided in part that any provision in Reorganization Plan No. 1 of 1978 \[set out below\] inconsistent with any provision of that Act \[see Tables for classification\] was superseded thereby.
 
  __REORGANIZATION PLAN NO. 1 OF 1978__ 
 
@@ -387,46 +387,46 @@ A critical element of my proposals will be accomplished by Executive Order rathe
 ----------
 
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
-[/us/pl/88/352/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs705
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F258
-[/us/pl/92/261/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fd
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F109
-[/us/pl/93/608/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs3%2F1
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1972
-[/us/pl/95/251/s2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F11
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1078
-[/us/pl/102/411/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F411%2Fs2
+[/us/pl/102/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F411
 [/us/stat/106/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2102
-[/us/pl/104/66/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2031
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F728
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1003
 [/us/usc/t5/s7323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7323
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
 [/us/act/1939-08-02/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-02%2Fs9
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/act/1939-08-02/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-02%2Fs9
 [/us/usc/t5/s118i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs118i
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/102/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F411
-[/us/pl/102/166/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs111
-[/us/pl/102/166/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs110%2Fa
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
-[/us/pl/92/261/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fd
-[/us/pl/92/261/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fe
-[/us/pl/92/261/s8/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Ff
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
-[/us/pl/92/261/s8/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fe%2F2
-[/us/pl/102/166/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs110%2Fb
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1078
 [/us/pl/102/166/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs111
 [/us/pl/102/166/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs402
@@ -434,7 +434,7 @@ A critical element of my proposals will be accomplished by Executive Order rathe
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/95/454/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs905
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/usc/t29/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fd

@@ -27,7 +27,7 @@
 
         (B) the Secretary finds that the company is incorporated in the United States and has a parent company which is incorporated in a country which affords to United States-owned companies opportunities, comparable to those afforded to any other company, to participate in any joint venture similar to those authorized under this Act; affords to United States-owned companies local investment opportunities comparable to those afforded to any other company; and affords adequate and effective protection for the intellectual property rights of United States-owned companies.
 
-([Pub. L. 102–486, title XXIII, § 2306][/us/pl/102/486/s2306], Oct. 24, 1992, [106 Stat. 3095][/us/stat/106/3095].)
+([Pub. L. 102–486, title XXIII][/us/pl/102/486/tXXIII], § 2306, Oct. 24, 1992, [106 Stat. 3095][/us/stat/106/3095].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2306
+[/us/pl/102/486/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIII
 [/us/stat/106/3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3095
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/3057-3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3057-3092

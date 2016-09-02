@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed to require or authorize the Secretary to modify or withdraw any prohibition under this chapter.
 
-([Pub. L. 95–620, title VII, § 743][/us/pl/95/620/s743], Nov. 9, 1978, [92 Stat. 3342][/us/stat/92/3342].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 743, Nov. 9, 1978, [92 Stat. 3342][/us/stat/92/3342].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/620/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs743
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3342
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

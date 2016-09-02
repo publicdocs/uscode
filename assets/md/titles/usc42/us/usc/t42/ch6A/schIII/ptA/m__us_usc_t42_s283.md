@@ -123,11 +123,11 @@
 
         In addition to reports required by subsections (a) and (b), the Director of NIH or the head of a national research institute or national center may submit to the Congress such additional reports as the Director or the head of such institute or center determines to be appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403, as added [Pub. L. 109–482, title I, § 104(a)(3)][/us/pl/109/482/s104/a/3], Jan. 15, 2007, [120 Stat. 3689][/us/stat/120/3689]; amended [Pub. L. 110–85, title XI, § 1104(3)][/us/pl/110/85/s1104/3], Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403, as added [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(a)(3), Jan. 15, 2007, [120 Stat. 3689][/us/stat/120/3689]; amended [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1104(3), Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
 
  __Prior Provisions__ 
 
-    A prior section 283, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 826][/us/stat/99/826]; amended [Pub. L. 100–607, title I, § 112][/us/pl/100/607/s112], Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052], required a biennial report by the Director to the President and Congress, prior to repeal by [Pub. L. 109–482, title I, § 104(a)(3)][/us/pl/109/482/s104/a/3], Jan. 15, 2007, [120 Stat. 3689][/us/stat/120/3689].
+    A prior section 283, [act July 1, 1944, ch. 373, title IV][/us/act/1944-07-01/ch373/tIV], § 403, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 826][/us/stat/99/826]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 112, Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052], required a biennial report by the Director to the President and Congress, prior to repeal by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(a)(3), Jan. 15, 2007, [120 Stat. 3689][/us/stat/120/3689].
 
  __Amendments__ 
 
@@ -147,16 +147,16 @@
 [/us/usc/t42/s282/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F7
 [/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/482/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fa%2F3
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3689
-[/us/pl/110/85/s1104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F3
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F975
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/act/1944-07-01/ch373/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIV
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F826
-[/us/pl/100/607/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs112
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3052
-[/us/pl/109/482/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fa%2F3
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3689
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109

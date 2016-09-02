@@ -17,7 +17,7 @@
 
     No person in the United States shall, on the ground of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance under the Public Works and Economic Development Act of 1965 \[[42 U.S.C. 3121][/us/usc/t42/s3121] et seq.\].
 
-([Pub. L. 92–65, title I, § 112][/us/pl/92/65/s112], Aug. 5, 1971, [85 Stat. 168][/us/stat/85/168].)
+([Pub. L. 92–65, title I][/us/pl/92/65/tI], § 112, Aug. 5, 1971, [85 Stat. 168][/us/stat/85/168].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
-[/us/pl/92/65/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2Fs112
+[/us/pl/92/65/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2FtI
 [/us/stat/85/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F168
 [/us/pl/89/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136
 [/us/stat/79/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F552

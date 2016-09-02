@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of Federal law, not  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “no”. </sup></sup>  State shall be required to have academic content or student academic achievement standards approved or certified by the Federal Government, in order to receive assistance under this chapter.
 
-([Pub. L. 101–610, title I, § 189C][/us/pl/101/610/s189C], as added [Pub. L. 111–13, title I, § 1612][/us/pl/111/13/s1612], Apr. 21, 2009, [123 Stat. 1540][/us/stat/123/1540].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 189C, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1612, Apr. 21, 2009, [123 Stat. 1540][/us/stat/123/1540].)
 
  __References in Text__ 
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/101/610/s189C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs189C
-[/us/pl/111/13/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1612
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1540
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127

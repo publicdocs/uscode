@@ -17,7 +17,7 @@
 
     The National Science Foundation is authorized to design, establish, and maintain a data collection and analysis capability in the Foundation for the purpose of identifying and assessing the research facilities needs of universities. The needs of universities, by major field of science and engineering, for construction and modernization of research laboratories, including fixed equipment and major research equipment, shall be documented. University expenditures for the construction and modernization of research facilities, the sources of funds, and other appropriate data shall be collected and analyzed. The Foundation, in conjunction with other appropriate Federal agencies, shall conduct the necessary surveys every 2 years and report the results to the Congress. The first report shall be submitted to the Congress by September 1, 1986.
 
-([Pub. L. 99–159, title I, § 108][/us/pl/99/159/s108], Nov. 22, 1985, [99 Stat. 888][/us/stat/99/888].)
+([Pub. L. 99–159, title I][/us/pl/99/159/tI], § 108, Nov. 22, 1985, [99 Stat. 888][/us/stat/99/888].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/159/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs108
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F888
 
 

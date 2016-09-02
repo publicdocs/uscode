@@ -125,7 +125,7 @@
 
         If the Administrator determines under [section 7512(b)(2) of this title][/us/usc/t42/s7512/b/2] that the national primary ambient air quality standard for carbon monoxide has not been attained in a Serious Area by the applicable attainment date, the State shall submit a plan revision for the area within 9 months after the date of such determination. The plan revision shall provide that a program of incentives and requirements as described in [section 7511a(g)(4) of this title][/us/usc/t42/s7511a/g/4] shall be applicable in the area, and such program, in combination with other elements of the revised plan, shall be adequate to reduce the total tonnage of emissions of carbon monoxide in the area by at least 5 percent per year in each year after approval of the plan revision and before attainment of the national primary ambient air quality standard for carbon monoxide.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 187, as added [Pub. L. 101–549, title I, § 104][/us/pl/101/549/s104], Nov. 15, 1990, [104 Stat. 2454][/us/stat/104/2454].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 187, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 104, Nov. 15, 1990, [104 Stat. 2454][/us/stat/104/2454].)
 
  __Moratorium on Certain Emissions Testing Requirements__ 
 
@@ -152,7 +152,7 @@
 [/us/usc/t42/s7512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7512%2Fb%2F2
 [/us/usc/t42/s7511a/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511a%2Fg%2F4
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs104
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2454
 [/us/pl/104/59/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs348
 [/us/usc/t42/s7511a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511a

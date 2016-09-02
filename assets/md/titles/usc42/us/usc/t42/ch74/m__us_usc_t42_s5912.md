@@ -53,17 +53,17 @@
 
         The Secretary shall, upon enactment of this subsection, be a member of the Council.
 
-([Pub. L. 93–577, § 13][/us/pl/93/577/s13], Dec. 31, 1974, [88 Stat. 1893][/us/stat/88/1893]; [Pub. L. 95–39, title I, § 110][/us/pl/95/39/s110], June 3, 1977, [91 Stat. 186][/us/stat/91/186]; [Pub. L. 109–58, title X, § 1009(b)(9)][/us/pl/109/58/s1009/b/9], Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
+([Pub. L. 93–577][/us/pl/93/577], § 13, Dec. 31, 1974, [88 Stat. 1893][/us/stat/88/1893]; [Pub. L. 95–39, title I][/us/pl/95/39/tI], § 110, June 3, 1977, [91 Stat. 186][/us/stat/91/186]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(9), Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
 
  __Amendments__ 
 
     2005—Subsecs. (b) to (d), (f). [Pub. L. 109–58][/us/pl/109/58] substituted “Secretary” for “Administrator”.
 
-    1977—Subsec. (a). [Pub. L. 95–39, § 110(1)][/us/pl/95/39/s110/1], substituted “The Water Resources Council” for “At the request of the Administrator, the Water Resources Council”.
+    1977—Subsec. (a). [Pub. L. 95–39][/us/pl/95/39], § 110(1), substituted “The Water Resources Council” for “At the request of the Administrator, the Water Resources Council”.
 
-    Subsec. (b). [Pub. L. 95–39, § 110(2)][/us/pl/95/39/s110/2], substituted “the Administrator shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability for such project” for “the Administrator shall, as a precondition of Federal assistance to that project, prepare or have prepared an assessment of the availability of adequate water resources”.
+    Subsec. (b). [Pub. L. 95–39][/us/pl/95/39], § 110(2), substituted “the Administrator shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability for such project” for “the Administrator shall, as a precondition of Federal assistance to that project, prepare or have prepared an assessment of the availability of adequate water resources”.
 
-    Subsec. (f). [Pub. L. 95–39, § 110(3)][/us/pl/95/39/s110/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–39][/us/pl/95/39], § 110(3), added subsec. (f).
 
  __Transfer of Functions__ 
 
@@ -77,16 +77,16 @@
 ----------
 
 [/us/usc/t42/s1962a–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962a%E2%80%931%2Fa
-[/us/pl/93/577/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs13
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1893
-[/us/pl/95/39/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs110
+[/us/pl/95/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtI
 [/us/stat/91/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F186
-[/us/pl/109/58/s1009/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F9
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F935
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/95/39/s110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs110%2F1
-[/us/pl/95/39/s110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs110%2F2
-[/us/pl/95/39/s110/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs110%2F3
+[/us/pl/95/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39
+[/us/pl/95/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39
+[/us/pl/95/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39
 [/us/usc/t42/s5910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5910
 [/us/stat/91/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1634
 [/us/usc/t42/s5910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5910

@@ -139,69 +139,69 @@
 
         For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under [section 247d of this title][/us/usc/t42/s247d] are available, there are authorized to be appropriated $52,700,000 for each of fiscal years 2014 through 2018.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2812, formerly § 2811, as added [Pub. L. 107–188, title I, § 102(a)][/us/pl/107/188/s102/a], June 12, 2002, [116 Stat. 599][/us/stat/116/599]; renumbered § 2812 and amended [Pub. L. 109–417, title I, § 102(a)(2)][/us/pl/109/417/s102/a/2], (4), title III, § 301(a), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], 2834, 2853; [Pub. L. 113–5, title I, § 104][/us/pl/113/5/s104], Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170]; [Pub. L. 114–113, div. H, title V, § 527][/us/pl/114/113/s527], Dec. 18, 2015, [129 Stat. 2653][/us/stat/129/2653].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2812, formerly § 2811, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 102(a), June 12, 2002, [116 Stat. 599][/us/stat/116/599]; renumbered § 2812 and amended [Pub. L. 109–417, title I][/us/pl/109/417/tI], § 102(a)(2), (4), title III, § 301(a), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], 2834, 2853; [Pub. L. 113–5, title I][/us/pl/113/5/tI], § 104, Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170]; [Pub. L. 114–113, div. H, title V][/us/pl/114/113/dH/tV], § 527, Dec. 18, 2015, [129 Stat. 2653][/us/stat/129/2653].)
 
  __Amendments__ 
 
     2015—Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113] designated first three sentences of existing provisions as subpars. (A) to (C), respectively, realigned margins, inserted subpar. headings, and added subpars. (D) and (E).
 
-    2013—Subsec. (a)(3)(A)(i). [Pub. L. 113–5, § 104(1)(A)][/us/pl/113/5/s104/1/A], inserted “, including at-risk individuals as applicable” after “victims of a public health emergency”.
+    2013—Subsec. (a)(3)(A)(i). [Pub. L. 113–5][/us/pl/113/5], § 104(1)(A), inserted “, including at-risk individuals as applicable” after “victims of a public health emergency”.
 
-    Subsec. (a)(3)(C) to (E). [Pub. L. 113–5, § 104(1)(B)][/us/pl/113/5/s104/1/B], (C), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
+    Subsec. (a)(3)(C) to (E). [Pub. L. 113–5][/us/pl/113/5], § 104(1)(B), (C), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
 
-    Subsec. (g). [Pub. L. 113–5, § 104(2)][/us/pl/113/5/s104/2], substituted “$52,700,000 for each of fiscal years 2014 through 2018” for “such sums as may be necessary for each of the fiscal years 2007 through 2011”.
+    Subsec. (g). [Pub. L. 113–5][/us/pl/113/5], § 104(2), substituted “$52,700,000 for each of fiscal years 2014 through 2018” for “such sums as may be necessary for each of the fiscal years 2007 through 2011”.
 
-    2006—[Pub. L. 109–417, § 301(a)(1)][/us/pl/109/417/s301/a/1], substituted “National Disaster Medical System” for “Coordination of preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
+    2006—[Pub. L. 109–417][/us/pl/109/417], § 301(a)(1), substituted “National Disaster Medical System” for “Coordination of preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–417, § 301(a)(2)][/us/pl/109/417/s301/a/2], (3), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of position and duties of Assistant Secretary for Public Health Emergency Preparedness.
+    Subsec. (a). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(2), (3), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of position and duties of Assistant Secretary for Public Health Emergency Preparedness.
 
-    Subsec. (a)(2)(B). [Pub. L. 109–417, § 301(a)(4)(A)][/us/pl/109/417/s301/a/4/A], substituted “Department of Homeland Security” for “Federal Emergency Management Agency”.
+    Subsec. (a)(2)(B). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(4)(A), substituted “Department of Homeland Security” for “Federal Emergency Management Agency”.
 
-    Subsec. (a)(3)(C). [Pub. L. 109–417, § 301(a)(4)(B)][/us/pl/109/417/s301/a/4/B], substituted “December 19, 2006” for “June 12, 2002”.
+    Subsec. (a)(3)(C). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(4)(B), substituted “December 19, 2006” for “June 12, 2002”.
 
-    Subsec. (b). [Pub. L. 109–417, § 301(a)(5)][/us/pl/109/417/s301/a/5], substituted “Modifications” for “Criteria” in heading, added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall establish criteria for the operation of the National Disaster Medical System.”
+    Subsec. (b). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(5), substituted “Modifications” for “Criteria” in heading, added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall establish criteria for the operation of the National Disaster Medical System.”
 
-    [Pub. L. 109–417, § 301(a)(3)][/us/pl/109/417/s301/a/3], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+    [Pub. L. 109–417][/us/pl/109/417], § 301(a)(3), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-    Subsec. (b)(1). [Pub. L. 109–417, § 102(a)(4)][/us/pl/109/417/s102/a/4], substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+    Subsec. (b)(1). [Pub. L. 109–417][/us/pl/109/417], § 102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
 
-    Subsec. (b)(3)(A). [Pub. L. 109–417, § 301(a)(6)][/us/pl/109/417/s301/a/6], substituted “subsection (a)(3)(A)” for “subsection (b)(3)(A)”.
+    Subsec. (b)(3)(A). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(6), substituted “subsection (a)(3)(A)” for “subsection (b)(3)(A)”.
 
-    Subsec. (c). [Pub. L. 109–417, § 301(a)(3)][/us/pl/109/417/s301/a/3], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (c)(2). [Pub. L. 109–417, § 301(a)(6)][/us/pl/109/417/s301/a/6], substituted “subsection (a)(2)(B)” for “subsection (b)(2)(B)”.
+    Subsec. (c)(2). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(6), substituted “subsection (a)(2)(B)” for “subsection (b)(2)(B)”.
 
-    Subsec. (d). [Pub. L. 109–417, § 301(a)(7)][/us/pl/109/417/s301/a/7], substituted “subsection (c)” for “subsection (d)” in pars. (1) and (2).
+    Subsec. (d). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(7), substituted “subsection (c)” for “subsection (d)” in pars. (1) and (2).
 
-    [Pub. L. 109–417, § 301(a)(6)][/us/pl/109/417/s301/a/6], substituted “subsection (a)(2)(B)” for “subsection (b)(2)(B)” in pars. (2) and (3)(A).
+    [Pub. L. 109–417][/us/pl/109/417], § 301(a)(6), substituted “subsection (a)(2)(B)” for “subsection (b)(2)(B)” in pars. (2) and (3)(A).
 
-    [Pub. L. 109–417, § 301(a)(3)][/us/pl/109/417/s301/a/3], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    [Pub. L. 109–417][/us/pl/109/417], § 301(a)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (d)(2). [Pub. L. 109–417, § 102(a)(4)][/us/pl/109/417/s102/a/4], substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+    Subsec. (d)(2). [Pub. L. 109–417][/us/pl/109/417], § 102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
 
-    Subsec. (e). [Pub. L. 109–417, § 301(a)(3)][/us/pl/109/417/s301/a/3], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (e)(2), (3)(A). [Pub. L. 109–417, § 102(a)(4)][/us/pl/109/417/s102/a/4], substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+    Subsec. (e)(2), (3)(A). [Pub. L. 109–417][/us/pl/109/417], § 102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
 
-    Subsec. (f). [Pub. L. 109–417, § 301(a)(6)][/us/pl/109/417/s301/a/6], substituted “subsection (a)(3)(A)” for “subsection (b)(3)(A)”.
+    Subsec. (f). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(6), substituted “subsection (a)(3)(A)” for “subsection (b)(3)(A)”.
 
-    [Pub. L. 109–417, § 301(a)(3)][/us/pl/109/417/s301/a/3], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    [Pub. L. 109–417][/us/pl/109/417], § 301(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 109–417, § 301(a)(8)][/us/pl/109/417/s301/a/8], substituted “2007 through 2011” for “2002 through 2006”.
+    Subsec. (g). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(8), substituted “2007 through 2011” for “2002 through 2006”.
 
-    [Pub. L. 109–417, § 301(a)(3)][/us/pl/109/417/s301/a/3], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    [Pub. L. 109–417][/us/pl/109/417], § 301(a)(3), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    Subsec. (h). [Pub. L. 109–417, § 301(a)(3)][/us/pl/109/417/s301/a/3], redesignated subsec. (h) as (g).
+    Subsec. (h). [Pub. L. 109–417][/us/pl/109/417], § 301(a)(3), redesignated subsec. (h) as (g).
 
-    [Pub. L. 109–417, § 102(a)(4)][/us/pl/109/417/s102/a/4], substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+    [Pub. L. 109–417][/us/pl/109/417], § 102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
 
  __Transfer of Functions__ 
 
-[Pub. L. 109–417, title III, § 301(b)][/us/pl/109/417/s301/b], Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854], provided that: 
+[Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 301(b), Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854], provided that: 
 
 > “There shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Homeland Security, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto.”
 
-[Pub. L. 109–295, title III][/us/pl/109/295], Oct. 4, 2006, [120 Stat. 1372][/us/stat/120/1372], provided in part: 
+[Pub. L. 109–295, title III][/us/pl/109/295/tIII], Oct. 4, 2006, [120 Stat. 1372][/us/stat/120/1372], provided in part: 
 
 > “That the total amount appropriated and, notwithstanding any other provision of law, the functions, personnel, assets, and liabilities of the National Disaster Medical System established under section 2811(b) \[now 2812(a)\] of the Public Health Service Act ([42 U.S.C. 300hh–11(b)][/us/usc/t42/s300hh–11/b] \[now 300hh–11(a)\]), including any functions of the Secretary of Homeland Security relating to such System, shall be permanently transferred to the Secretary of the Department of Health and Human Services effective January 1, 2007.”
 
@@ -221,43 +221,43 @@
 [/us/usc/t38/s4312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4312%2Fb
 [/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs102%2Fa
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F599
-[/us/pl/109/417/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F2
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2832
-[/us/pl/113/5/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104
+[/us/pl/113/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtI
 [/us/stat/127/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F170
-[/us/pl/114/113/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs527
+[/us/pl/114/113/dH/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtV
 [/us/stat/129/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2653
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/113/5/s104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104%2F1%2FA
-[/us/pl/113/5/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104%2F1%2FB
-[/us/pl/113/5/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104%2F2
-[/us/pl/109/417/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F1
-[/us/pl/109/417/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F2
-[/us/pl/109/417/s301/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F4%2FA
-[/us/pl/109/417/s301/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F4%2FB
-[/us/pl/109/417/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F5
-[/us/pl/109/417/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F3
-[/us/pl/109/417/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F4
-[/us/pl/109/417/s301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F6
-[/us/pl/109/417/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F3
-[/us/pl/109/417/s301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F6
-[/us/pl/109/417/s301/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F7
-[/us/pl/109/417/s301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F6
-[/us/pl/109/417/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F3
-[/us/pl/109/417/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F4
-[/us/pl/109/417/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F3
-[/us/pl/109/417/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F4
-[/us/pl/109/417/s301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F6
-[/us/pl/109/417/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F3
-[/us/pl/109/417/s301/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F8
-[/us/pl/109/417/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F3
-[/us/pl/109/417/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fa%2F3
-[/us/pl/109/417/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F4
-[/us/pl/109/417/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fb
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2854
-[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtIII
 [/us/stat/120/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1372
 [/us/usc/t42/s300hh–11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311%2Fb
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -25,7 +25,7 @@
 
         The Administrator shall report to the Congress the findings and results of the study conducted under subsection (a) of this section not later than two years after August 7, 1977. Such report shall also include recommendations for standards or methods to regulate particulate emissions described in paragraph (2) of subsection (a) of this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 214, as added [Pub. L. 95–95, title II, § 224(d)][/us/pl/95/95/s224/d], Aug. 7, 1977, [91 Stat. 767][/us/stat/91/767].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 214, as added [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 224(d), Aug. 7, 1977, [91 Stat. 767][/us/stat/91/767].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 
  __Study on Suspended Particulate Matter__ 
 
-    [Pub. L. 95–95, title IV, § 403(a)][/us/pl/95/95/s403/a], Aug. 7, 1977, [91 Stat. 792][/us/stat/91/792], directed Administrator of EPA, not later than 18 months after Aug. 7, 1977, in cooperation with National Academy of Sciences, to study and report to Congress on relationship between size, weight, and chemical composition of suspended particulate matter and nature and degree of endangerment to public health or welfare presented by such particulate matter and availability of technology for controlling such particulate matter.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 403(a), Aug. 7, 1977, [91 Stat. 792][/us/stat/91/792], directed Administrator of EPA, not later than 18 months after Aug. 7, 1977, in cooperation with National Academy of Sciences, to study and report to Congress on relationship between size, weight, and chemical composition of suspended particulate matter and nature and degree of endangerment to public health or welfare presented by such particulate matter and availability of technology for controlling such particulate matter.
 
 ----------
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s224/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs224%2Fd
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F767
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/95/95/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Fa
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F792
 
 

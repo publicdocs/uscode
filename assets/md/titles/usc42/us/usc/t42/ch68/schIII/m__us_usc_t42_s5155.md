@@ -41,7 +41,7 @@
 
         Federal major disaster and emergency assistance provided to individuals and families under this chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.
 
-([Pub. L. 93–288, title III, § 312][/us/pl/93/288/s312], as added [Pub. L. 100–707, title I, § 105(i)][/us/pl/100/707/s105/i], Nov. 23, 1988, [102 Stat. 4693][/us/stat/102/4693].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 312, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(i), Nov. 23, 1988, [102 Stat. 4693][/us/stat/102/4693].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5155, [Pub. L. 93–288, title III, § 315][/us/pl/93/288/s315], May 22, 1974, [88 Stat. 152][/us/stat/88/152], consisted of similar provisions, prior to repeal by [Pub. L. 100–707, § 105(i)][/us/pl/100/707/s105/i].
+    A prior section 5155, [Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 315, May 22, 1974, [88 Stat. 152][/us/stat/88/152], consisted of similar provisions, prior to repeal by [Pub. L. 100–707][/us/pl/100/707], § 105(i).
 
     A prior [section 312 of Pub. L. 93–288][/us/pl/93/288/s312] was renumbered section 309 by [Pub. L. 100–707][/us/pl/100/707] and is classified to [section 5152 of this title][/us/usc/t42/s5152].
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/93/288/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs312
-[/us/pl/100/707/s105/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fi
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4693
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/93/288/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs315
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F152
-[/us/pl/100/707/s105/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fi
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/93/288/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs312
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5152

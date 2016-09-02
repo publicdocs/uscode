@@ -27,7 +27,7 @@
 
         (2) have access to a large patient population, including a patient population representative of diverse ethnic backgrounds.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445G, formerly [Pub. L. 99–158, § 12][/us/pl/99/158/s12], Nov. 20, 1985, [99 Stat. 885][/us/stat/99/885], as renumbered § 445G and amended [Pub. L. 103–43, title VIII, § 801][/us/pl/103/43/s801], June 10, 1993, [107 Stat. 163][/us/stat/107/163].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445G, formerly [Pub. L. 99–158][/us/pl/99/158], § 12, Nov. 20, 1985, [99 Stat. 885][/us/stat/99/885], as renumbered § 445G and amended [Pub. L. 103–43, title VIII][/us/pl/103/43/tVIII], § 801, June 10, 1993, [107 Stat. 163][/us/stat/107/163].)
 
  __Codification__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–43, § 801(b)(1)][/us/pl/103/43/s801/b/1], reenacted section catchline without change.
+    1993—[Pub. L. 103–43][/us/pl/103/43], § 801(b)(1), reenacted section catchline without change.
 
-    Subsec. (a). [Pub. L. 103–43, § 801(b)(1)][/us/pl/103/43/s801/b/1], substituted in heading “In general” for “Grant authority” and in text substituted “Director of the Institute” for “Director of the National Institute on Aging”.
+    Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 801(b)(1), substituted in heading “In general” for “Grant authority” and in text substituted “Director of the Institute” for “Director of the National Institute on Aging”.
 
-    Subsec. (c). [Pub. L. 103–43, § 801(b)(2)][/us/pl/103/43/s801/b/2], struck out subsec. (c) which authorized appropriations of $2,500,000 for grants to remain available until expended or through fiscal year 1989, whichever occurred first.
+    Subsec. (c). [Pub. L. 103–43][/us/pl/103/43], § 801(b)(2), struck out subsec. (c) which authorized appropriations of $2,500,000 for grants to remain available until expended or through fiscal year 1989, whichever occurred first.
 
 ----------
 
@@ -49,14 +49,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs12
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F885
-[/us/pl/103/43/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs801
+[/us/pl/103/43/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVIII
 [/us/stat/107/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F163
 [/us/usc/t42/s285e–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%932
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/103/43/s801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs801%2Fb%2F1
-[/us/pl/103/43/s801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs801%2Fb%2F1
-[/us/pl/103/43/s801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs801%2Fb%2F2
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 
 

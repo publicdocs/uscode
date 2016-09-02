@@ -33,7 +33,7 @@
 
     (3) individuals with developmental disabilities benefit from assistance from direct support workers who are well trained, and benefit from receiving services from professionals who have spent time as direct support workers.
 
-([Pub. L. 106–402, title III, § 301][/us/pl/106/402/s301], Oct. 30, 2000, [114 Stat. 1734][/us/stat/114/1734].)
+([Pub. L. 106–402, title III][/us/pl/106/402/tIII], § 301, Oct. 30, 2000, [114 Stat. 1734][/us/stat/114/1734].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs301
+[/us/pl/106/402/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIII
 [/us/stat/114/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1734
 
 

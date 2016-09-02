@@ -41,7 +41,7 @@
 
             (B) The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
 
-([Pub. L. 112–74, div. B, title III, § 304][/us/pl/112/74/s304], Dec. 23, 2011, [125 Stat. 876][/us/stat/125/876].)
+([Pub. L. 112–74, div. B, title III][/us/pl/112/74/dB/tIII], § 304, Dec. 23, 2011, [125 Stat. 876][/us/stat/125/876].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/112/74/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs304
+[/us/pl/112/74/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtIII
 [/us/stat/125/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F876
 
 

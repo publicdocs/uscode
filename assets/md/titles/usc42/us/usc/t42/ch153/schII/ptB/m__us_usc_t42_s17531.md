@@ -55,7 +55,7 @@
 
         There are authorized to be appropriated to the Attorney General to carry out this section $15,000,000 for each of fiscal years 2009 and 2010.
 
-([Pub. L. 110–199, title II, § 211][/us/pl/110/199/s211], Apr. 9, 2008, [122 Stat. 679][/us/stat/122/679].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 211, Apr. 9, 2008, [122 Stat. 679][/us/stat/122/679].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t42/s17551/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17551%2Fb%2F6
-[/us/pl/110/199/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs211
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F679
 
 

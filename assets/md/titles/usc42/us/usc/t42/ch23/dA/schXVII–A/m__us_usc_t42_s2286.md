@@ -99,33 +99,33 @@
 
         Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 311, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)][/us/pl/100/456/s1441/a/1], Sept. 29, 1988, [102 Stat. 2076][/us/stat/102/2076]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 112–239, div. C, title XXXII, § 3202(a)][/us/pl/112/239/s3202/a], Jan. 2, 2013, [126 Stat. 2217][/us/stat/126/2217]; [Pub. L. 114–92, div. C, title XXXII, § 3202(a)][/us/pl/114/92/s3202/a], (b)(1), Nov. 25, 2015, [129 Stat. 1217][/us/stat/129/1217].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 311, as added [Pub. L. 100–456, div. A, title XIV][/us/pl/100/456/dA/tXIV], § 1441(a)(1), Sept. 29, 1988, [102 Stat. 2076][/us/stat/102/2076]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 112–239, div. C, title XXXII][/us/pl/112/239/dC/tXXXII], § 3202(a), Jan. 2, 2013, [126 Stat. 2217][/us/stat/126/2217]; [Pub. L. 114–92, div. C, title XXXII][/us/pl/114/92/dC/tXXXII], § 3202(a), (b)(1), Nov. 25, 2015, [129 Stat. 1217][/us/stat/129/1217].)
 
  __Amendments__ 
 
-    2015—Subsec. (c)(2). [Pub. L. 114–92, § 3202(a)(1)][/us/pl/114/92/s3202/a/1], substituted “paragraphs (5), (6), and (7)” for “paragraph (5)” in introductory provisions.
+    2015—Subsec. (c)(2). [Pub. L. 114–92][/us/pl/114/92], § 3202(a)(1), substituted “paragraphs (5), (6), and (7)” for “paragraph (5)” in introductory provisions.
 
-    Subsec. (c)(6). [Pub. L. 114–92, § 3202(a)(2)][/us/pl/114/92/s3202/a/2], added par. (6).
+    Subsec. (c)(6). [Pub. L. 114–92][/us/pl/114/92], § 3202(a)(2), added par. (6).
 
-    Subsec. (c)(7). [Pub. L. 114–92, § 3202(b)(1)][/us/pl/114/92/s3202/b/1], added par. (7).
+    Subsec. (c)(7). [Pub. L. 114–92][/us/pl/114/92], § 3202(b)(1), added par. (7).
 
-    2013—Subsec. (b)(4). [Pub. L. 112–239, § 3202(a)(1)][/us/pl/112/239/s3202/a/1], struck out par. (4) which read as follows: “Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.”
+    2013—Subsec. (b)(4). [Pub. L. 112–239][/us/pl/112/239], § 3202(a)(1), struck out par. (4) which read as follows: “Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.”
 
-    Subsec. (c). [Pub. L. 112–239, § 3202(a)(2)(A)][/us/pl/112/239/s3202/a/2/A], substituted “, Vice Chairman, and Members” for “and Vice Chairman” in heading.
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 3202(a)(2)(A), substituted “, Vice Chairman, and Members” for “and Vice Chairman” in heading.
 
-    Subsec. (c)(2). [Pub. L. 112–239, § 3202(a)(2)(B)][/us/pl/112/239/s3202/a/2/B], substituted “In accordance with paragraph (5), the Chairman” for “The Chairman”.
+    Subsec. (c)(2). [Pub. L. 112–239][/us/pl/112/239], § 3202(a)(2)(B), substituted “In accordance with paragraph (5), the Chairman” for “The Chairman”.
 
-    Subsec. (c)(5). [Pub. L. 112–239, § 3202(a)(2)(C)][/us/pl/112/239/s3202/a/2/C], added par. (5).
+    Subsec. (c)(5). [Pub. L. 112–239][/us/pl/112/239], § 3202(a)(2)(C), added par. (5).
 
  __Construction of__  __[__  __Section 3202 of Pub. L. 112–239__  __][/us/pl/112/239/s3202]__  __; Safety Standards__ 
 
-[Pub. L. 112–239, div. C, title XXXII, § 3202(h)][/us/pl/112/239/s3202/h], Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220], provided that: 
+[Pub. L. 112–239, div. C, title XXXII][/us/pl/112/239/dC/tXXXII], § 3202(h), Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220], provided that: 
 
 > “Nothing in this section \[enacting [section 2286k of this title][/us/usc/t42/s2286k] and amending this section and sections 2286a, 2286b, 2286d, 2286e, and 2286h–1 of this title\] or in the amendments made by this section shall be construed to cause a reduction in nuclear safety standards.”
 
  __Report on External Regulation of Defense Nuclear Facilities__ 
 
-[Pub. L. 105–85, div. C, title XXXII, § 3202][/us/pl/105/85/s3202], Nov. 18, 1997, [111 Stat. 2054][/us/stat/111/2054], provided that:
+[Pub. L. 105–85, div. C, title XXXII][/us/pl/105/85/dC/tXXXII], § 3202, Nov. 18, 1997, [111 Stat. 2054][/us/stat/111/2054], provided that:
 
 >     “(a)  __Reporting Requirement__  __.—__ 
 
@@ -193,26 +193,26 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/100/456/s1441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1441%2Fa%2F1
+[/us/pl/100/456/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXIV
 [/us/stat/102/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2076
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/112/239/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fa
+[/us/pl/112/239/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXII
 [/us/stat/126/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2217
-[/us/pl/114/92/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3202%2Fa
+[/us/pl/114/92/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXII
 [/us/stat/129/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1217
-[/us/pl/114/92/s3202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3202%2Fa%2F1
-[/us/pl/114/92/s3202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3202%2Fa%2F2
-[/us/pl/114/92/s3202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3202%2Fb%2F1
-[/us/pl/112/239/s3202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fa%2F1
-[/us/pl/112/239/s3202/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fa%2F2%2FA
-[/us/pl/112/239/s3202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fa%2F2%2FB
-[/us/pl/112/239/s3202/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fa%2F2%2FC
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202
-[/us/pl/112/239/s3202/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fh
+[/us/pl/112/239/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXII
 [/us/stat/126/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2220
 [/us/usc/t42/s2286k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286k
-[/us/pl/105/85/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3202
+[/us/pl/105/85/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXII
 [/us/stat/111/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2054
 [/us/usc/t42/s2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286
 [/us/usc/t42/s2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286

@@ -61,7 +61,7 @@
 
             Nothing in this chapter shall be construed to preempt, modify, or amend any State, county, or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safety of others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or communicable diseases and the modes of transmissability 1 published by the Secretary of Health and Human Services.
 
-([Pub. L. 101–336, title I, § 103][/us/pl/101/336/s103], July 26, 1990, [104 Stat. 333][/us/stat/104/333]; [Pub. L. 110–325, § 5(b)][/us/pl/110/325/s5/b], Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
+([Pub. L. 101–336, title I][/us/pl/101/336/tI], § 103, July 26, 1990, [104 Stat. 333][/us/stat/104/333]; [Pub. L. 110–325][/us/pl/110/325], § 5(b), Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
 
  __References in Text__ 
 
@@ -83,9 +83,9 @@
 ----------
 
 [/us/usc/t42/s12102/4/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102%2F4%2FE%2Fii
-[/us/pl/101/336/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs103
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F333
-[/us/pl/110/325/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs5%2Fb
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3557
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

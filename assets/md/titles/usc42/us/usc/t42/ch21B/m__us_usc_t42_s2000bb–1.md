@@ -31,7 +31,7 @@
 
         A person whose religious exercise has been burdened in violation of this section may assert that violation as a claim or defense in a judicial proceeding and obtain appropriate relief against a government. Standing to assert a claim or defense under this section shall be governed by the general rules of standing under article III of the Constitution.
 
-([Pub. L. 103–141, § 3][/us/pl/103/141/s3], Nov. 16, 1993, [107 Stat. 1488][/us/stat/107/1488].)
+([Pub. L. 103–141][/us/pl/103/141], § 3, Nov. 16, 1993, [107 Stat. 1488][/us/stat/107/1488].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs3
+[/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488
 
 

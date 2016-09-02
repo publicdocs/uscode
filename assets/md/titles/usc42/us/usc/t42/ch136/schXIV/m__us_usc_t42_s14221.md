@@ -73,7 +73,7 @@
 
         The task force shall consult with Hawaii agricultural interests and representatives of Hawaii conservation organizations about methods of preventing the wrongful conveyance, sale, or introduction of nonindigenous plant and animal species into Hawaii.
 
-([Pub. L. 103–322, title XXXII, § 320108(a)][/us/pl/103/322/s320108/a], Sept. 13, 1994, [108 Stat. 2111][/us/stat/108/2111].)
+([Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320108(a), Sept. 13, 1994, [108 Stat. 2111][/us/stat/108/2111].)
 
  __Transfer of Functions__ 
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320108%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2111
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3

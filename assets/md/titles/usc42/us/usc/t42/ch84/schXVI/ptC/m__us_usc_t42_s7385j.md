@@ -17,7 +17,7 @@
 
     Except in accordance with [section 7384u of this title][/us/usc/t42/s7384u], an individual may not receive compensation or benefits under the compensation program for cancer and also receive compensation under the Radiation Exposure Compensation Act ([42 U.S.C. 2210][/us/usc/t42/s2210] note) or [section 1112(c) of title 38][/us/usc/t38/s1112/c].
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3651\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–512.)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3651\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–512.)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 [/us/usc/t42/s7384u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384u
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t38/s1112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1112%2Fc
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/stat/104/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F920

@@ -17,7 +17,7 @@
 
     Nothing in this chapter supersedes any provision of the National Manufactured Housing Construction and Safety Standards Act of 1974 \[[42 U.S.C. 5401][/us/usc/t42/s5401] et seq.\]. No design, construction method, practice, technology, material, mitigation methodology, or hazard reduction measure of any kind developed under this chapter shall be required for a home certified under section 616 of the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5415][/us/usc/t42/s5415]), pursuant to standards issued under such Act, without being subject to the consensus development process and rulemaking procedures of that Act.
 
-([Pub. L. 108–360, title II, § 206][/us/pl/108/360/s206], Oct. 25, 2004, [118 Stat. 1679][/us/stat/118/1679].)
+([Pub. L. 108–360, title II][/us/pl/108/360/tII], § 206, Oct. 25, 2004, [118 Stat. 1679][/us/stat/118/1679].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t42/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5401
 [/us/usc/t42/s5415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5415
-[/us/pl/108/360/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs206
+[/us/pl/108/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtII
 [/us/stat/118/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1679
 [/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675

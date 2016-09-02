@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this chapter $2,000,000 for each of fiscal years 2000, 2001, and 2002.
 
-([Pub. L. 106–177, title II, § 205][/us/pl/106/177/s205], Mar. 10, 2000, [114 Stat. 37][/us/stat/114/37].)
+([Pub. L. 106–177, title II][/us/pl/106/177/tII], § 205, Mar. 10, 2000, [114 Stat. 37][/us/stat/114/37].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/177/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2Fs205
+[/us/pl/106/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2FtII
 [/us/stat/114/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F37
 
 

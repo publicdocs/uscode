@@ -41,7 +41,7 @@
 
         Nothing in this chapter shall be construed to limit any authority to provide emergency assistance otherwise provided by law.
 
-([Pub. L. 98–473, title II, § 609O][/us/pl/98/473/s609O], Oct. 12, 1984, [98 Stat. 2105][/us/stat/98/2105].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609O, Oct. 12, 1984, [98 Stat. 2105][/us/stat/98/2105].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609O
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2105
 
 

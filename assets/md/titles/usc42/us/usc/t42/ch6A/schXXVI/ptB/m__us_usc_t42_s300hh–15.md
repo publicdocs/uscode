@@ -81,13 +81,13 @@
 
         There is authorized to be appropriated to carry out this section, $11,200,000 for each of fiscal years 2014 through 2018.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2813, as added [Pub. L. 109–417, title III, § 303(a)][/us/pl/109/417/s303/a], Dec. 19, 2006, [120 Stat. 2856][/us/stat/120/2856]; amended [Pub. L. 113–5, title II, § 203(b)(2)][/us/pl/113/5/s203/b/2], Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2813, as added [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 303(a), Dec. 19, 2006, [120 Stat. 2856][/us/stat/120/2856]; amended [Pub. L. 113–5, title II][/us/pl/113/5/tII], § 203(b)(2), Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175].)
 
  __Amendments__ 
 
-    2013—Subsec. (d)(2). [Pub. L. 113–5, § 203(b)(2)(A)][/us/pl/113/5/s203/b/2/A], inserted at end “Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.”
+    2013—Subsec. (d)(2). [Pub. L. 113–5][/us/pl/113/5], § 203(b)(2)(A), inserted at end “Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.”
 
-    Subsec. (i). [Pub. L. 113–5, § 203(b)(2)(B)][/us/pl/113/5/s203/b/2/B], substituted “$11,200,000 for each of fiscal years 2014 through 2018” for “$22,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011”.
+    Subsec. (i). [Pub. L. 113–5][/us/pl/113/5], § 203(b)(2)(B), substituted “$11,200,000 for each of fiscal years 2014 through 2018” for “$22,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011”.
 
 ----------
 
@@ -100,11 +100,11 @@
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t42/s300hh–11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs303%2Fa
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2856
-[/us/pl/113/5/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fb%2F2
+[/us/pl/113/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtII
 [/us/stat/127/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F175
-[/us/pl/113/5/s203/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fb%2F2%2FA
-[/us/pl/113/5/s203/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fb%2F2%2FB
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 
 

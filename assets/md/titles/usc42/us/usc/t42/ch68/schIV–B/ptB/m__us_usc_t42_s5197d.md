@@ -17,11 +17,11 @@
 
     The provisions of this subchapter shall be applicable to the United States, its States, Territories and possessions, and the District of Columbia, and their political subdivisions.
 
-([Pub. L. 93–288, title VI, § 625][/us/pl/93/288/s625], as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)][/us/pl/103/337/s3411/a/3], Oct. 5, 1994, [108 Stat. 3110][/us/stat/108/3110].)
+([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 625, as added [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(3), Oct. 5, 1994, [108 Stat. 3110][/us/stat/108/3110].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 2259 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2259 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 3412(a).
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs625
-[/us/pl/103/337/s3411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F3
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3110
-[/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

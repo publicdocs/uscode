@@ -17,7 +17,7 @@
 
     For any program funded in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, the Secretary of Health and Human Services is authorized, when providing services or conducting activities for a State with respect to such program for which the Secretary is entitled to reimbursement by the State, to obtain such reimbursement as an offset against Federal payments to which the State would otherwise be entitled under such program from funds appropriated for the same or any subsequent fiscal year. Such offsets shall be credited to the appropriation account which bore the expense of providing the service or conducting the activity, and shall remain available until expended.
 
-([Pub. L. 102–394, title II, § 214][/us/pl/102/394/s214], Oct. 6, 1992, [106 Stat. 1812][/us/stat/106/1812].)
+([Pub. L. 102–394, title II][/us/pl/102/394/tII], § 214, Oct. 6, 1992, [106 Stat. 1812][/us/stat/106/1812].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/394/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs214
+[/us/pl/102/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtII
 [/us/stat/106/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1812
 
 

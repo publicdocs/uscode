@@ -45,7 +45,7 @@
 
         To the greatest extent practicable, the Secretary shall ensure that where funds are expended under this section for the acquisition of health information technology, such funds shall be used to acquire health information technology that meets applicable standards adopted under [section 300jj–14 of this title][/us/usc/t42/s300jj–14]. Where it is not practicable to expend funds on health information technology that meets such applicable standards, the Secretary shall ensure that such health information technology meets applicable standards otherwise adopted by the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3011, as added [Pub. L. 111–5, div. A, title XIII, § 13301][/us/pl/111/5/s13301], Feb. 17, 2009, [123 Stat. 246][/us/stat/123/246].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3011, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13301, Feb. 17, 2009, [123 Stat. 246][/us/stat/123/246].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t42/s300jj–38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9338
 [/us/usc/t42/s300jj–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9314
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13301
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F246
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

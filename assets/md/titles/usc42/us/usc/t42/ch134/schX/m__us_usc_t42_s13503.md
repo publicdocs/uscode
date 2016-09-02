@@ -101,7 +101,7 @@
 
         There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University and Science Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
 
-([Pub. L. 102–486, title XXII, § 2203][/us/pl/102/486/s2203], Oct. 24, 1992, [106 Stat. 3087][/us/stat/106/3087]; [Pub. L. 105–245, title III, § 309(b)(2)(F)][/us/pl/105/245/s309/b/2/F], Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
+([Pub. L. 102–486, title XXII][/us/pl/102/486/tXXII], § 2203, Oct. 24, 1992, [106 Stat. 3087][/us/stat/106/3087]; [Pub. L. 105–245, title III][/us/pl/105/245/tIII], § 309(b)(2)(F), Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
 
  __Amendments__ 
 
@@ -115,9 +115,9 @@
 ----------
 
 [/us/usc/t42/s13542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13542
-[/us/pl/102/486/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2203
+[/us/pl/102/486/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXII
 [/us/stat/106/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3087
-[/us/pl/105/245/s309/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2Fs309%2Fb%2F2%2FF
+[/us/pl/105/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2FtIII
 [/us/stat/112/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1853
 [/us/pl/105/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245
 

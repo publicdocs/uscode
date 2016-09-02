@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 96–514, title I][/us/pl/96/514], Dec. 12, 1980, [94 Stat. 2964][/us/stat/94/2964], as amended, which related to competitive leasing of oil and gas, was renumbered [section 107 of Pub. L. 94–258][/us/pl/94/258/s107], the Naval Petroleum Reserves Production Act of 1976, by [Pub. L. 109–58, title III, § 347(a)(2)][/us/pl/109/58/s347/a/2], August 8, 2005, [119 Stat. 704][/us/stat/119/704], and is classified to [section 6506a of this title][/us/usc/t42/s6506a].
+    Section, [Pub. L. 96–514, title I][/us/pl/96/514/tI], Dec. 12, 1980, [94 Stat. 2964][/us/stat/94/2964], as amended, which related to competitive leasing of oil and gas, was renumbered [section 107 of Pub. L. 94–258][/us/pl/94/258/s107], the Naval Petroleum Reserves Production Act of 1976, by [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 347(a)(2), August 8, 2005, [119 Stat. 704][/us/stat/119/704], and is classified to [section 6506a of this title][/us/usc/t42/s6506a].
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/96/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514
+[/us/pl/96/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2FtI
 [/us/stat/94/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2964
 [/us/pl/94/258/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs107
-[/us/pl/109/58/s347/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs347%2Fa%2F2
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F704
 [/us/usc/t42/s6506a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6506a
 

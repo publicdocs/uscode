@@ -59,7 +59,7 @@
 
             The Secretary shall reserve for awarding grants under [section 629g(f) of this title][/us/usc/t42/s629g/f] $20,000,000 for each of fiscal years 2012 through 2016.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 436, as added [Pub. L. 107–133, title I, § 106(a)(1)][/us/pl/107/133/s106/a/1], Jan. 17, 2002, [115 Stat. 2416][/us/stat/115/2416]; amended [Pub. L. 109–171, title VII, § 7402][/us/pl/109/171/s7402], Feb. 8, 2006, [120 Stat. 150][/us/stat/120/150]; [Pub. L. 109–288][/us/pl/109/288], §§ 3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, [120 Stat. 1234][/us/stat/120/1234], 1236, 1237, 1242, 1243; [Pub. L. 111–242, § 133(1)][/us/pl/111/242/s133/1], Sept. 30, 2010, [124 Stat. 2613][/us/stat/124/2613]; [Pub. L. 112–34, title I][/us/pl/112/34], §§ 102(a)(1), 103(a), (b), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 373.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 436, as added [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 106(a)(1), Jan. 17, 2002, [115 Stat. 2416][/us/stat/115/2416]; amended [Pub. L. 109–171, title VII][/us/pl/109/171/tVII], § 7402, Feb. 8, 2006, [120 Stat. 150][/us/stat/120/150]; [Pub. L. 109–288][/us/pl/109/288], §§ 3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, [120 Stat. 1234][/us/stat/120/1234], 1236, 1237, 1242, 1243; [Pub. L. 111–242][/us/pl/111/242], § 133(1), Sept. 30, 2010, [124 Stat. 2613][/us/stat/124/2613]; [Pub. L. 112–34, title I][/us/pl/112/34/tI], §§ 102(a)(1), 103(a), (b), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 373.)
 
  __Prior Provisions__ 
 
@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–34, § 102(a)(1)][/us/pl/112/34/s102/a/1], substituted “for each of fiscal years 2012 through 2016.” for “for each of fiscal years 2007 through 2010, and $365,000,000 for fiscal year 2011”.
+    2011—Subsec. (a). [Pub. L. 112–34][/us/pl/112/34], § 102(a)(1), substituted “for each of fiscal years 2012 through 2016.” for “for each of fiscal years 2007 through 2010, and $365,000,000 for fiscal year 2011”.
 
-    Subsec. (b)(4)(A). [Pub. L. 112–34, § 103(a)(1)][/us/pl/112/34/s103/a/1], substituted “629c(e) of this title $20,000,000 for each of fiscal years 2012 through 2016.” for “629c(e) of this title—
+    Subsec. (b)(4)(A). [Pub. L. 112–34][/us/pl/112/34], § 103(a)(1), substituted “629c(e) of this title $20,000,000 for each of fiscal years 2012 through 2016.” for “629c(e) of this title—
 
     “(i) $5,000,000 for fiscal year 2008;
 
@@ -77,9 +77,9 @@
 
     “(iii) $20,000,000 for each of fiscal years 2010 and 2011.”
 
-    Subsec. (b)(4)(B)(i). [Pub. L. 112–34, § 103(b)][/us/pl/112/34/s103/b], substituted “improve the quality of” for “support” and “an emphasis on improving caseworker decision making on the safety, permanency, and well-being of foster children and on activities designed to increase retention, recruitment, and training of caseworkers.” for “a primary emphasis on activities designed to improve caseworker retention, recruitment, training, and ability to access the benefits of technology.”
+    Subsec. (b)(4)(B)(i). [Pub. L. 112–34][/us/pl/112/34], § 103(b), substituted “improve the quality of” for “support” and “an emphasis on improving caseworker decision making on the safety, permanency, and well-being of foster children and on activities designed to increase retention, recruitment, and training of caseworkers.” for “a primary emphasis on activities designed to improve caseworker retention, recruitment, training, and ability to access the benefits of technology.”
 
-    Subsec. (b)(5). [Pub. L. 112–34, § 103(a)(2)][/us/pl/112/34/s103/a/2], substituted “629g(f) of this title $20,000,000 for each of fiscal years 2012 through 2016.” for “629g(f) of this title—
+    Subsec. (b)(5). [Pub. L. 112–34][/us/pl/112/34], § 103(a)(2), substituted “629g(f) of this title $20,000,000 for each of fiscal years 2012 through 2016.” for “629g(f) of this title—
 
     “(A) $40,000,000 for fiscal year 2007;
 
@@ -89,23 +89,23 @@
 
     “(D) $20,000,000 for each of fiscal years 2010 and 2011.”
 
-    2010—Subsec. (a). [Pub. L. 111–242, § 133(1)(A)(ii)][/us/pl/111/242/s133/1/A/ii], which directed insertion of “, and $365,000,000 for fiscal year 2011” before the period, was executed by making the insertion at the end of subsec. (a) to reflect the probable intent of Congress because there was no period.
+    2010—Subsec. (a). [Pub. L. 111–242][/us/pl/111/242], § 133(1)(A)(ii), which directed insertion of “, and $365,000,000 for fiscal year 2011” before the period, was executed by making the insertion at the end of subsec. (a) to reflect the probable intent of Congress because there was no period.
 
-    [Pub. L. 111–242, § 133(1)(A)(i)][/us/pl/111/242/s133/1/A/i], substituted “2010” for “2011”.
+    [Pub. L. 111–242][/us/pl/111/242], § 133(1)(A)(i), substituted “2010” for “2011”.
 
-    Subsec. (b)(2). [Pub. L. 111–242, § 133(1)(B)][/us/pl/111/242/s133/1/B], substituted “$30,000,000” for “$10,000,000”.
+    Subsec. (b)(2). [Pub. L. 111–242][/us/pl/111/242], § 133(1)(B), substituted “$30,000,000” for “$10,000,000”.
 
-    2006—Subsec. (a). [Pub. L. 109–288, § 3(a)][/us/pl/109/288/s3/a], substituted “each of fiscal years 2007 through 2011” for “fiscal year 2006. Notwithstanding the preceding sentence, the total amount authorized to be so appropriated for fiscal year 2006 under this subsection and under this subsection (as in effect before February 8, 2006) is $345,000,000.”
+    2006—Subsec. (a). [Pub. L. 109–288][/us/pl/109/288], § 3(a), substituted “each of fiscal years 2007 through 2011” for “fiscal year 2006. Notwithstanding the preceding sentence, the total amount authorized to be so appropriated for fiscal year 2006 under this subsection and under this subsection (as in effect before February 8, 2006) is $345,000,000.”
 
     [Pub. L. 109–171][/us/pl/109/171] amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the provisions of this subpart $305,000,000 for each of fiscal years 2002 through 2006.”
 
-    Subsec. (b)(3). [Pub. L. 109–288, § 5(b)(1)(B)][/us/pl/109/288/s5/b/1/B], inserted “or tribal consortia” after “tribes” in heading and text.
+    Subsec. (b)(3). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(1)(B), inserted “or tribal consortia” after “tribes” in heading and text.
 
-    [Pub. L. 109–288, § 5(a)(1)][/us/pl/109/288/s5/a/1], (3), substituted “After applying paragraphs (4) and (5) (but before applying paragraphs (1) or (2)), the” for “The” and “3 percent” for “1 percent”.
+    [Pub. L. 109–288][/us/pl/109/288], § 5(a)(1), (3), substituted “After applying paragraphs (4) and (5) (but before applying paragraphs (1) or (2)), the” for “The” and “3 percent” for “1 percent”.
 
-    Subsec. (b)(4). [Pub. L. 109–288, § 4(a)(1)][/us/pl/109/288/s4/a/1], added par. (4).
+    Subsec. (b)(4). [Pub. L. 109–288][/us/pl/109/288], § 4(a)(1), added par. (4).
 
-    Subsec. (b)(5). [Pub. L. 109–288, § 4(b)(1)][/us/pl/109/288/s4/b/1], added par. (5).
+    Subsec. (b)(5). [Pub. L. 109–288][/us/pl/109/288], § 4(b)(1), added par. (5).
 
  __Effective Date of 2011 Amendment__ 
 
@@ -113,11 +113,11 @@
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–242, § 133][/us/pl/111/242/s133], Sept. 30, 2010, [124 Stat. 2613][/us/stat/124/2613], provided that the amendment made by section 133 is effective Oct. 1, 2010.
+    [Pub. L. 111–242][/us/pl/111/242], § 133, Sept. 30, 2010, [124 Stat. 2613][/us/stat/124/2613], provided that the amendment made by section 133 is effective Oct. 1, 2010.
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–288, § 3(a)][/us/pl/109/288/s3/a], Sept. 28, 2006, [120 Stat. 1234][/us/stat/120/1234], provided that the amendment made by section 3(a) is effective Oct. 1, 2006.
+    [Pub. L. 109–288][/us/pl/109/288], § 3(a), Sept. 28, 2006, [120 Stat. 1234][/us/stat/120/1234], provided that the amendment made by section 3(a) is effective Oct. 1, 2006.
 
     Amendment by [Pub. L. 109–288][/us/pl/109/288] effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of [Pub. L. 109–288][/us/pl/109/288], set out as a note under [section 621 of this title][/us/usc/t42/s621].
 
@@ -140,37 +140,37 @@
 [/us/usc/t42/s629c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629c%2Fe
 [/us/usc/t42/s629g/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629g%2Ff
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/107/133/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs106%2Fa%2F1
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2416
-[/us/pl/109/171/s7402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7402
+[/us/pl/109/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVII
 [/us/stat/120/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F150
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1234
-[/us/pl/111/242/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs133%2F1
+[/us/pl/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242
 [/us/stat/124/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2613
-[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F371
 [/us/usc/t42/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs636
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/112/34/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fa%2F1
-[/us/pl/112/34/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fa%2F1
-[/us/pl/112/34/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fb
-[/us/pl/112/34/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fa%2F2
-[/us/pl/111/242/s133/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs133%2F1%2FA%2Fii
-[/us/pl/111/242/s133/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs133%2F1%2FA%2Fi
-[/us/pl/111/242/s133/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs133%2F1%2FB
-[/us/pl/109/288/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Fa
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242
+[/us/pl/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242
+[/us/pl/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/109/288/s5/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F1%2FB
-[/us/pl/109/288/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fa%2F1
-[/us/pl/109/288/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fa%2F1
-[/us/pl/109/288/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fb%2F1
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
-[/us/pl/111/242/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs133
+[/us/pl/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242
 [/us/stat/124/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2613
-[/us/pl/109/288/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Fa
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1234
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288

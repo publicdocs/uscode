@@ -17,7 +17,7 @@
 
     The Secretary shall evaluate, in accordance with this part, all programs funded through the Centers for Disease Control and Prevention before conducting such an evaluation of privately funded programs unless an entity with a privately funded wellness program requests such an evaluation.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399MM–2, as added [Pub. L. 111–148, title IV, § 4303][/us/pl/111/148/s4303], Mar. 23, 2010, [124 Stat. 583][/us/stat/124/583].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399MM–2, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4303, Mar. 23, 2010, [124 Stat. 583][/us/stat/124/583].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4303
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F583
 
 

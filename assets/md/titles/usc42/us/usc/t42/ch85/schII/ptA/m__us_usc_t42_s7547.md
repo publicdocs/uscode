@@ -39,7 +39,7 @@
 
         The standards under this section shall be subject to sections 7525, 7541, 7542, and 7543 of this title, with such modifications of the applicable regulations implementing such sections as the Administrator deems appropriate, and shall be enforced in the same manner as standards prescribed under [section 7521 of this title][/us/usc/t42/s7521]. The Administrator shall revise or promulgate regulations as may be necessary to determine compliance with, and enforce, standards in effect under this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 213, as added [Pub. L. 93–319, § 10][/us/pl/93/319/s10], June 22, 1974, [88 Stat. 261][/us/stat/88/261]; amended [Pub. L. 101–549, title II, § 222(a)][/us/pl/101/549/s222/a], Nov. 15, 1990, [104 Stat. 2500][/us/stat/104/2500].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 213, as added [Pub. L. 93–319][/us/pl/93/319], § 10, June 22, 1974, [88 Stat. 261][/us/stat/88/261]; amended [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 222(a), Nov. 15, 1990, [104 Stat. 2500][/us/stat/104/2500].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
  __Regulations Relating to Standards To Reduce Emissions__ 
 
-[Pub. L. 108–199, div. G, title IV, § 428(b)][/us/pl/108/199/s428/b], Jan. 23, 2004, [118 Stat. 418][/us/stat/118/418], provided that: 
+[Pub. L. 108–199, div. G, title IV][/us/pl/108/199/dG/tIV], § 428(b), Jan. 23, 2004, [118 Stat. 418][/us/stat/118/418], provided that: 
 
 > “Not later than December 1, 2004, the Administrator of the Environmental Protection Agency shall propose regulations under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\] that shall contain standards to reduce emissions from new nonroad spark-ignition engines smaller than 50 horsepower. Not later than December 31, 2005, the Administrator shall publish in the Federal Register final regulations containing such standards.”
 
@@ -70,16 +70,16 @@
 [/us/usc/t42/s7521/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fa%2F4%2FB
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/93/319/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs10
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F261
-[/us/pl/101/549/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs222%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2500
 [/us/usc/t42/s1857f–6f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%936f
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/108/199/s428/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs428%2Fb
+[/us/pl/108/199/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIV
 [/us/stat/118/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F418
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 

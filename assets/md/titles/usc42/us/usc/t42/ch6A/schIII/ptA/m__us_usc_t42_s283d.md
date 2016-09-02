@@ -23,11 +23,11 @@
 
         In the report required in section 300aa–4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the Secretary, acting through the Director of the National Vaccine Program under subchapter XIX of this chapter, shall include information with respect to activities and the progress made in implementing the provisions of this section and achieving its goals.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404B, as added [Pub. L. 103–43, title II, § 204][/us/pl/103/43/s204], June 10, 1993, [107 Stat. 146][/us/stat/107/146]; amended [Pub. L. 109–482, title I, § 103(b)(3)][/us/pl/109/482/s103/b/3], Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687]; [Pub. L. 110–154, § 1(b)(2)][/us/pl/110/154/s1/b/2], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404B, as added [Pub. L. 103–43, title II][/us/pl/103/43/tII], § 204, June 10, 1993, [107 Stat. 146][/us/stat/107/146]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(3), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687]; [Pub. L. 110–154][/us/pl/110/154], § 1(b)(2), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
 
  __References in Text__ 
 
-    [Section 300aa–4 of this title][/us/usc/t42/s300aa–4], referred to in subsec. (b), was repealed by [Pub. L. 105–362, title VI, § 601(a)(1)(H)][/us/pl/105/362/s601/a/1/H], Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285].
+    [Section 300aa–4 of this title][/us/usc/t42/s300aa–4], referred to in subsec. (b), was repealed by [Pub. L. 105–362, title VI][/us/pl/105/362/tVI], § 601(a)(1)(H), Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285].
 
  __Amendments__ 
 
@@ -47,14 +47,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs204
+[/us/pl/103/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtII
 [/us/stat/107/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F146
-[/us/pl/109/482/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F3
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/110/154/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fb%2F2
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 [/us/usc/t42/s300aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%934
-[/us/pl/105/362/s601/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs601%2Fa%2F1%2FH
+[/us/pl/105/362/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVI
 [/us/stat/112/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3285
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

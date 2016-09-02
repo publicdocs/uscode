@@ -17,7 +17,7 @@
 
     Except as explicitly provided herein, nothing in this part shall be construed to override or limit any rights an individual may have to seek compensation, benefits, or redress under any other provision of Federal or State law.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 269, as added [Pub. L. 108–20, § 2][/us/pl/108/20/s2], Apr. 30, 2003, [117 Stat. 645][/us/stat/117/645].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 269, as added [Pub. L. 108–20][/us/pl/108/20], § 2, Apr. 30, 2003, [117 Stat. 645][/us/stat/117/645].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/20/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs2
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/stat/117/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F645
 
 

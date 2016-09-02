@@ -117,7 +117,7 @@
 
         The Secretary shall review the necessity of the Committee in calendar year 2011 and, thereafter, at least once every 2 years.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417F, as added [Pub. L. 110–354, § 2(a)][/us/pl/110/354/s2/a], Oct. 8, 2008, [122 Stat. 3984][/us/stat/122/3984].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417F, as added [Pub. L. 110–354][/us/pl/110/354], § 2(a), Oct. 8, 2008, [122 Stat. 3984][/us/stat/122/3984].)
 
 ----------
 
@@ -128,7 +128,7 @@
 
 [/us/usc/t42/s282/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F7
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/354/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F354%2Fs2%2Fa
+[/us/pl/110/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F354
 [/us/stat/122/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3984
 
 

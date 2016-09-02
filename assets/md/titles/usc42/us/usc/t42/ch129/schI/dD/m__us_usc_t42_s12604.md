@@ -203,7 +203,7 @@
 
         Notwithstanding [section 12511 of this title][/us/usc/t42/s12511], for purposes of this section the term “institution of higher education” has the meaning provided by section 102 of the Higher Education Act of 1965 \[[20 U.S.C. 1002][/us/usc/t20/s1002]\].
 
-([Pub. L. 101–610, title I, § 148][/us/pl/101/610/s148], as added [Pub. L. 103–82, title I, § 102(a)][/us/pl/103/82/s102/a], Sept. 21, 1993, [107 Stat. 820][/us/stat/107/820]; amended [Pub. L. 105–244, title I, § 102(c)(2)][/us/pl/105/244/s102/c/2], Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622]; [Pub. L. 111–13, title I, § 1405][/us/pl/111/13/s1405], Apr. 21, 2009, [123 Stat. 1515][/us/stat/123/1515].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 148, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 102(a), Sept. 21, 1993, [107 Stat. 820][/us/stat/107/820]; amended [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(c)(2), Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1405, Apr. 21, 2009, [123 Stat. 1515][/us/stat/123/1515].)
 
  __References in Text__ 
 
@@ -213,51 +213,51 @@
 
  __Prior Provisions__ 
 
-    A prior [section 148 of Pub. L. 101–610][/us/pl/101/610/s148] was classified to [section 12578 of this title][/us/usc/t42/s12578] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior [section 148 of Pub. L. 101–610][/us/pl/101/610/s148] was classified to [section 12578 of this title][/us/usc/t42/s12578] prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 1405(1)][/us/pl/111/13/s1405/1], substituted section catchline for former section catchline.
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 1405(1), substituted section catchline for former section catchline.
 
-    Subsec. (a)(2) to (5). [Pub. L. 111–13, § 1405(2)][/us/pl/111/13/s1405/2], substituted “cost of attendance or other educational expenses” for “cost of attendance” in par. (2), added par. (4), and redesignated former par. (4) as (5).
+    Subsec. (a)(2) to (5). [Pub. L. 111–13][/us/pl/111/13], § 1405(2), substituted “cost of attendance or other educational expenses” for “cost of attendance” in par. (2), added par. (4), and redesignated former par. (4) as (5).
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 1405(3)(A)][/us/pl/111/13/s1405/3/A], inserted “, an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who served in a summer of service program and desires to apply that individual’s summer of service educational award, or an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who served in a silver scholar program and desires to apply that individual’s silver scholar educational award,” after “the national service educational award of the individual” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 1405(3)(A), inserted “, an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who served in a summer of service program and desires to apply that individual’s summer of service educational award, or an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who served in a silver scholar program and desires to apply that individual’s silver scholar educational award,” after “the national service educational award of the individual” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 111–13, § 1405(3)(B)][/us/pl/111/13/s1405/3/B], inserted “, the summer of service educational award, or the silver scholar educational award, as applicable,” after “the national service educational award”.
+    Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 1405(3)(B), inserted “, the summer of service educational award, or the silver scholar educational award, as applicable,” after “the national service educational award”.
 
-    Subsec. (b)(5). [Pub. L. 111–13, § 1405(3)(C)][/us/pl/111/13/s1405/3/C], inserted “, the summer of service educational award, or the silver scholar educational award, as applicable” after “the national service educational award”.
+    Subsec. (b)(5). [Pub. L. 111–13][/us/pl/111/13], § 1405(3)(C), inserted “, the summer of service educational award, or the silver scholar educational award, as applicable” after “the national service educational award”.
 
-    Subsec. (b)(7)(C). [Pub. L. 111–13, § 1405(3)(D)][/us/pl/111/13/s1405/3/D], added subpar. (C).
+    Subsec. (b)(7)(C). [Pub. L. 111–13][/us/pl/111/13], § 1405(3)(D), added subpar. (C).
 
-    Subsec. (c)(1). [Pub. L. 111–13, § 1405(4)(A)][/us/pl/111/13/s1405/4/A], inserted “, an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who desires to apply the individual’s summer of service educational award, or an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who served in a silver scholar program and desires to apply that individual’s silver scholar educational award,” after “national service educational award”.
+    Subsec. (c)(1). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(A), inserted “, an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who desires to apply the individual’s summer of service educational award, or an eligible individual under [section 12602(a) of this title][/us/usc/t42/s12602/a] who served in a silver scholar program and desires to apply that individual’s silver scholar educational award,” after “national service educational award”.
 
-    Subsec. (c)(2)(A). [Pub. L. 111–13, § 1405(4)(B)(i)][/us/pl/111/13/s1405/4/B/i], inserted “, summer of service educational award, or silver scholar educational award, as applicable,” after “national service educational award”.
+    Subsec. (c)(2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(B)(i), inserted “, summer of service educational award, or silver scholar educational award, as applicable,” after “national service educational award”.
 
-    Subsec. (c)(2)(C)(iii). [Pub. L. 111–13, § 1405(4)(B)(ii)][/us/pl/111/13/s1405/4/B/ii], inserted “, summer of service educational awards, or silver scholar educational awards, as applicable,” after “national service educational awards”.
+    Subsec. (c)(2)(C)(iii). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(B)(ii), inserted “, summer of service educational awards, or silver scholar educational awards, as applicable,” after “national service educational awards”.
 
-    Subsec. (c)(3). [Pub. L. 111–13, § 1405(4)(C)][/us/pl/111/13/s1405/4/C], inserted “summer of service educational awards, or silver scholar educational awards” after “national service educational awards”.
+    Subsec. (c)(3). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(C), inserted “summer of service educational awards, or silver scholar educational awards” after “national service educational awards”.
 
-    Subsec. (c)(5). [Pub. L. 111–13, § 1405(4)(D)][/us/pl/111/13/s1405/4/D], inserted “, summer of service educational award, or silver scholar educational award, as applicable,” after “national service educational award” and “, additional approved summer of service positions, and additional approved silver scholar positions” before period at end.
+    Subsec. (c)(5). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(D), inserted “, summer of service educational award, or silver scholar educational award, as applicable,” after “national service educational award” and “, additional approved summer of service positions, and additional approved silver scholar positions” before period at end.
 
-    Subsec. (c)(6). [Pub. L. 111–13, § 1405(4)(E)(i)][/us/pl/111/13/s1405/4/E/i], inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” in introductory provisions.
+    Subsec. (c)(6). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(E)(i), inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” in introductory provisions.
 
-    Subsec. (c)(6)(A). [Pub. L. 111–13, § 1405(4)(E)(ii)][/us/pl/111/13/s1405/4/E/ii], inserted “and other educational expenses” after “cost of attendance”.
+    Subsec. (c)(6)(A). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(E)(ii), inserted “and other educational expenses” after “cost of attendance”.
 
-    Subsec. (c)(6)(B). [Pub. L. 111–13, § 1405(4)(E)(iii)][/us/pl/111/13/s1405/4/E/iii], added subpar. (B) and struck out former subpar. (B) which read as follows: “the sum of—
+    Subsec. (c)(6)(B). [Pub. L. 111–13][/us/pl/111/13], § 1405(4)(E)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “the sum of—
 
     “(i) the student’s estimated financial assistance for such period under part A of title IV of such Act ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.); and
 
     “(ii) the student’s veterans’ education benefits, determined in accordance with section 480(c) of such Act ([20 U.S.C. 1087vv(c)][/us/usc/t20/s1087vv/c]).”
 
-    Subsec. (d). [Pub. L. 111–13, § 1405(5)][/us/pl/111/13/s1405/5], inserted “, summer of service educational awards, and silver scholar educational awards” after “national service educational awards”.
+    Subsec. (d). [Pub. L. 111–13][/us/pl/111/13], § 1405(5), inserted “, summer of service educational awards, and silver scholar educational awards” after “national service educational awards”.
 
-    Subsec. (e). [Pub. L. 111–13, § 1405(6)][/us/pl/111/13/s1405/6], substituted “subsection (b)(7)” for “subsection (b)(6)”.
+    Subsec. (e). [Pub. L. 111–13][/us/pl/111/13], § 1405(6), substituted “subsection (b)(7)” for “subsection (b)(6)”.
 
-    Subsec. (f). [Pub. L. 111–13, § 1405(9)][/us/pl/111/13/s1405/9], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 111–13][/us/pl/111/13], § 1405(9), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 111–13, § 1405(7)][/us/pl/111/13/s1405/7], substituted “Chief Executive Officer” for “Director” and inserted “, summer of service educational award, or silver scholar educational award, as appropriate,” after “national service educational award”.
+    [Pub. L. 111–13][/us/pl/111/13], § 1405(7), substituted “Chief Executive Officer” for “Director” and inserted “, summer of service educational award, or silver scholar educational award, as appropriate,” after “national service educational award”.
 
-    Subsecs. (g), (h). [Pub. L. 111–13, § 1405(8)][/us/pl/111/13/s1405/8], redesignated subsecs. (f) and (g) as (g) and (h), respectively.
+    Subsecs. (g), (h). [Pub. L. 111–13][/us/pl/111/13], § 1405(8), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
     1998—Subsec. (g). [Pub. L. 105–244][/us/pl/105/244] substituted “section 102 of the Higher Education Act of 1965” for “section 481(a) of the Higher Education Act of 1965 ([20 U.S.C. 1088(a)][/us/usc/t20/s1088/a])”.
 
@@ -301,12 +301,12 @@
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12511
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/101/610/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs148
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F820
-[/us/pl/105/244/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fc%2F2
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1622
-[/us/pl/111/13/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1515
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -317,32 +317,32 @@
 [/us/pl/101/610/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs148
 [/us/usc/t42/s12578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12578
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
-[/us/pl/111/13/s1405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F1
-[/us/pl/111/13/s1405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F2
-[/us/pl/111/13/s1405/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F3%2FA
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa
 [/us/usc/t42/s12602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa
-[/us/pl/111/13/s1405/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F3%2FB
-[/us/pl/111/13/s1405/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F3%2FC
-[/us/pl/111/13/s1405/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F3%2FD
-[/us/pl/111/13/s1405/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FA
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa
 [/us/usc/t42/s12602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602%2Fa
-[/us/pl/111/13/s1405/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FB%2Fi
-[/us/pl/111/13/s1405/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FB%2Fii
-[/us/pl/111/13/s1405/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FC
-[/us/pl/111/13/s1405/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FD
-[/us/pl/111/13/s1405/4/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FE%2Fi
-[/us/pl/111/13/s1405/4/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FE%2Fii
-[/us/pl/111/13/s1405/4/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F4%2FE%2Fiii
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t20/s1087vv/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087vv%2Fc
-[/us/pl/111/13/s1405/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F5
-[/us/pl/111/13/s1405/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F6
-[/us/pl/111/13/s1405/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F9
-[/us/pl/111/13/s1405/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F7
-[/us/pl/111/13/s1405/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1405%2F8
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088%2Fa
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13

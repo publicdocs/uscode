@@ -33,7 +33,7 @@
 
         Any report (or revision thereof) under subsection (b)(1) of this section identifying major noise sources shall be published in the Federal Register. The publication or revision under this section of any criteria or information on control techniques shall be announced in the Federal Register, and copies shall be made available to the general public.
 
-([Pub. L. 92–574, § 5][/us/pl/92/574/s5], Oct. 27, 1972, [86 Stat. 1236][/us/stat/86/1236].)
+([Pub. L. 92–574][/us/pl/92/574], § 5, Oct. 27, 1972, [86 Stat. 1236][/us/stat/86/1236].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/92/574/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs5
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1236
 
 

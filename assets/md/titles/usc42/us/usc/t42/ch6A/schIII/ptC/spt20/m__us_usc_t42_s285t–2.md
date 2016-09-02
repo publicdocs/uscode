@@ -31,7 +31,7 @@
 
         With respect to minority health disparities research and other health disparities research under subsection (a) of this section, the Secretary shall ensure that priority is given to conducting projects of biomedical research.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–5, formerly § 485G, as added [Pub. L. 106–525, title I, § 103][/us/pl/106/525/s103], Nov. 22, 2000, [114 Stat. 2503][/us/stat/114/2503]; amended [Pub. L. 109–482, title I, § 103(b)(46)][/us/pl/109/482/s103/b/46], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; renumbered § 464z–5 and amended [Pub. L. 111–148, title X, § 10334(c)(1)(D)(i)][/us/pl/111/148/s10334/c/1/D/i], (iii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–5, formerly § 485G, as added [Pub. L. 106–525, title I][/us/pl/106/525/tI], § 103, Nov. 22, 2000, [114 Stat. 2503][/us/stat/114/2503]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(46), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; renumbered § 464z–5 and amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(D)(i), (iii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (a), (c). [Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], substituted “Institute” for “Center”.
+    2010—Subsecs. (a), (c). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), substituted “Institute” for “Center”.
 
     2007—Subsec. (e). [Pub. L. 109–482][/us/pl/109/482] struck out subsec. (e) which related to authorization and availability of appropriations.
 
@@ -55,15 +55,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/525/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs103
+[/us/pl/106/525/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtI
 [/us/stat/114/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2503
-[/us/pl/109/482/s103/b/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F46
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/111/148/s10334/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fi
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 [/us/usc/t42/s287c–33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%9333
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109

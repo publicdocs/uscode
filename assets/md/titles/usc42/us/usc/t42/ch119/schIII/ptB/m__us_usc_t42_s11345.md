@@ -17,7 +17,7 @@
 
     Any amount made available by appropriation Acts under this subchapter shall be disbursed by the National Board before the expiration of the 3-month period beginning on the date on which such amount becomes available.
 
-([Pub. L. 100–77, title III, § 315][/us/pl/100/77/s315], July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 315, July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs315
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F492
 
 

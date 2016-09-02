@@ -147,7 +147,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $50,000,000 for fiscal year 1994.
 
-([Pub. L. 101–218, § 6][/us/pl/101/218/s6], Dec. 11, 1989, [103 Stat. 1863][/us/stat/103/1863]; [Pub. L. 102–486, title XII, § 1202(a)][/us/pl/102/486/s1202/a], Oct. 24, 1992, [106 Stat. 2956][/us/stat/106/2956].)
+([Pub. L. 101–218][/us/pl/101/218], § 6, Dec. 11, 1989, [103 Stat. 1863][/us/stat/103/1863]; [Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1202(a), Oct. 24, 1992, [106 Stat. 2956][/us/stat/106/2956].)
 
  __References in Text__ 
 
@@ -169,9 +169,9 @@
 ----------
 
 [/us/usc/t42/s13541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13541
-[/us/pl/101/218/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs6
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1863
-[/us/pl/102/486/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fa
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2956
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859

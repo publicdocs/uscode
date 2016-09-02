@@ -123,7 +123,7 @@
 
                 If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
-        (2) __Repealed.__  __[__  __Pub. L. 113–93, title II, § 213(a)(1)__  __][/us/pl/113/93/s213/a/1]__  __,__  __Apr. 1, 2014__  __,__  __[__  __128 Stat. 1047__  __][/us/stat/128/1047]__ 
+        (2) __Repealed.__  __[__  __Pub. L. 113–93, title II__  __][/us/pl/113/93/tII]__  __, § 213(a)(1),__  __Apr. 1, 2014__  __,__  __[__  __128 Stat. 1047__  __][/us/stat/128/1047]__ 
 
         (3) __Cost-sharing__ 
 
@@ -231,7 +231,7 @@
 
         If any item or service covered by a qualified health plan is provided by a Federally-qualified health center (as defined in section 1396d(l)(2)(B) of this title) to an enrollee of the plan, the offeror of the plan shall pay to the center for the item or service an amount that is not less than the amount of payment that would have been paid to the center under [section 1396a(bb) of this title][/us/usc/t42/s1396a/bb]) for such item or service.
 
-([Pub. L. 111–148, title I, § 1302][/us/pl/111/148/s1302], title X, § 10104(b), Mar. 23, 2010, [124 Stat. 163][/us/stat/124/163], 896; [Pub. L. 113–93, title II, § 213(a)][/us/pl/113/93/s213/a], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1302, title X, § 10104(b), Mar. 23, 2010, [124 Stat. 163][/us/stat/124/163], 896; [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 213(a), Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047].)
 
  __References in Text__ 
 
@@ -243,13 +243,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2). [Pub. L. 113–93, § 213(a)(1)][/us/pl/113/93/s213/a/1], struck out par. (2) which related to annual limitation on deductibles for employer-sponsored plans.
+    2014—Subsec. (c)(2). [Pub. L. 113–93][/us/pl/113/93], § 213(a)(1), struck out par. (2) which related to annual limitation on deductibles for employer-sponsored plans.
 
-    Subsec. (c)(4). [Pub. L. 113–93, § 213(a)(2)][/us/pl/113/93/s213/a/2], which directed amendment of par. (4)(A) by substituting “paragraph (1)(B)(i)” for “paragraphs (1)(B)(i) and (2)(B)(i)”, was executed by making the substitution in par. (4) to reflect the probable intent of Congress.
+    Subsec. (c)(4). [Pub. L. 113–93][/us/pl/113/93], § 213(a)(2), which directed amendment of par. (4)(A) by substituting “paragraph (1)(B)(i)” for “paragraphs (1)(B)(i) and (2)(B)(i)”, was executed by making the substitution in par. (4) to reflect the probable intent of Congress.
 
-    2010—Subsec. (d)(2)(B). [Pub. L. 111–148, § 10104(b)(1)][/us/pl/111/148/s10104/b/1], substituted “shall issue” for “may issue”.
+    2010—Subsec. (d)(2)(B). [Pub. L. 111–148][/us/pl/111/148], § 10104(b)(1), substituted “shall issue” for “may issue”.
 
-    Subsec. (g). [Pub. L. 111–148, § 10104(b)(2)][/us/pl/111/148/s10104/b/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–148][/us/pl/111/148], § 10104(b)(2), added subsec. (g).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -263,16 +263,16 @@
 ----------
 
 [/us/usc/t26/s223/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs223%2Fc%2F2%2FA%2Fii
-[/us/pl/113/93/s213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs213%2Fa%2F1
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
 [/us/usc/t26/s223/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs223%2Fd%2F2
 [/us/usc/t26/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs223
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t26/s5000A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5000A
 [/us/usc/t42/s1396a/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fbb
-[/us/pl/111/148/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1302
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F163
-[/us/pl/113/93/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs213%2Fa
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
@@ -280,10 +280,10 @@
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s300gg–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9313
-[/us/pl/113/93/s213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs213%2Fa%2F1
-[/us/pl/113/93/s213/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs213%2Fa%2F2
-[/us/pl/111/148/s10104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fb%2F1
-[/us/pl/111/148/s10104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fb%2F2
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/113/93/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs213%2Fc

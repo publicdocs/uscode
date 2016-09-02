@@ -33,7 +33,7 @@
 
             For purposes of paragraph (1), the term “wheelchair” means a device designed solely for use by a mobility-impaired person for locomotion, that is suitable for use in an indoor pedestrian area.
 
-([Pub. L. 101–336, title V, § 508][/us/pl/101/336/s508], formerly § 507, July 26, 1990, [104 Stat. 372][/us/stat/104/372]; renumbered § 508, [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 508, formerly § 507, July 26, 1990, [104 Stat. 372][/us/stat/104/372]; renumbered § 508, [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
 
  __References in Text__ 
 
@@ -52,9 +52,9 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/101/336/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs508
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F372
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

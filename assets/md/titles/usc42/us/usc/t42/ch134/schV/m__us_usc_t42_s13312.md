@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to the Secretary $6,000,000 for each of the fiscal years 1994, 1995, and 1996, to carry out this section.
 
-([Pub. L. 102–486, title XII, § 1203][/us/pl/102/486/s1203], Oct. 24, 1992, [106 Stat. 2961][/us/stat/106/2961].)
+([Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1203, Oct. 24, 1992, [106 Stat. 2961][/us/stat/106/2961].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1203
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2961
 
 

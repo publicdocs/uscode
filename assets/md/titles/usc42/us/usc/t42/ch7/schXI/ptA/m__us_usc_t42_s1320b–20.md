@@ -151,7 +151,7 @@
 
         There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2011.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1149, as added [Pub. L. 106–170, title I, § 121][/us/pl/106/170/s121], Dec. 17, 1999, [113 Stat. 1887][/us/stat/113/1887]; amended [Pub. L. 108–203, title IV][/us/pl/108/203], §§ 404(a)(1), 407(a), Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], 527; [Pub. L. 111–63, § 2][/us/pl/111/63/s2], Sept. 18, 2009, [123 Stat. 2001][/us/stat/123/2001]; [Pub. L. 111–280][/us/pl/111/280], §§ 2(a), 3(a), (b)(1), Oct. 13, 2010, [124 Stat. 2903][/us/stat/124/2903]; [Pub. L. 113–128, title V, § 512(dd)(3)][/us/pl/113/128/s512/dd/3], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1149, as added [Pub. L. 106–170, title I][/us/pl/106/170/tI], § 121, Dec. 17, 1999, [113 Stat. 1887][/us/stat/113/1887]; amended [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], §§ 404(a)(1), 407(a), Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], 527; [Pub. L. 111–63][/us/pl/111/63], § 2, Sept. 18, 2009, [123 Stat. 2001][/us/stat/123/2001]; [Pub. L. 111–280][/us/pl/111/280], §§ 2(a), 3(a), (b)(1), Oct. 13, 2010, [124 Stat. 2903][/us/stat/124/2903]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(dd)(3), July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 
     The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355]. Title VII of the Act is classified generally to subchapter VII (§ 796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
-    [Section 6024 of this title][/us/usc/t42/s6024], referred to in subsec. (b)(1)(C)(ii)(I), was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. See [section 15025 of this title][/us/usc/t42/s15025].
+    [Section 6024 of this title][/us/usc/t42/s6024], referred to in subsec. (b)(1)(C)(ii)(I), was repealed by [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(a), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. See [section 15025 of this title][/us/usc/t42/s15025].
 
     [Section 212 of Public Law 93–66][/us/pl/93/66/s212], referred to in subsec. (d)(2)(B), is set out as a note under [section 1382 of this title][/us/usc/t42/s1382].
 
@@ -169,21 +169,21 @@
 
     2014—Subsec. (a)(3). [Pub. L. 113–128][/us/pl/113/128] substituted “a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)”.
 
-    2010—Subsec. (b)(4). [Pub. L. 111–280, § 3(b)(1)][/us/pl/111/280/s3/b/1], substituted “Funding” for “Allocation of costs” in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+    2010—Subsec. (b)(4). [Pub. L. 111–280][/us/pl/111/280], § 3(b)(1), substituted “Funding” for “Allocation of costs” in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
-    Subsec. (c). [Pub. L. 111–280, § 3(a)][/us/pl/111/280/s3/a], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 111–280][/us/pl/111/280], § 3(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 111–280, § 3(a)][/us/pl/111/280/s3/a], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 111–280][/us/pl/111/280], § 3(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    [Pub. L. 111–280, § 2(a)][/us/pl/111/280/s2/a], substituted “2011” for “2010”.
+    [Pub. L. 111–280][/us/pl/111/280], § 2(a), substituted “2011” for “2010”.
 
-    Subsec. (e). [Pub. L. 111–280, § 3(a)][/us/pl/111/280/s3/a], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 111–280][/us/pl/111/280], § 3(a), redesignated subsec. (d) as (e).
 
     2009—Subsec. (d). [Pub. L. 111–63][/us/pl/111/63] substituted “2010” for “2009”.
 
-    2004—Subsec. (c)(2). [Pub. L. 108–203, § 404(a)(1)][/us/pl/108/203/s404/a/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in [section 1320b–19(k)(2) of this title][/us/usc/t42/s1320b–19/k/2].”
+    2004—Subsec. (c)(2). [Pub. L. 108–203][/us/pl/108/203], § 404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in [section 1320b–19(k)(2) of this title][/us/usc/t42/s1320b–19/k/2].”
 
-    Subsec. (d). [Pub. L. 108–203, § 407(a)][/us/pl/108/203/s407/a], substituted “2009” for “2004”.
+    Subsec. (d). [Pub. L. 108–203][/us/pl/108/203], § 407(a), substituted “2009” for “2004”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -191,13 +191,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–280, § 3(b)(2)][/us/pl/111/280/s3/b/2], Oct. 13, 2010, [124 Stat. 2904][/us/stat/124/2904], provided that: 
+[Pub. L. 111–280][/us/pl/111/280], § 3(b)(2), Oct. 13, 2010, [124 Stat. 2904][/us/stat/124/2904], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to amounts allotted under section 1149 of the Social Security Act \[[42 U.S.C. 1320b–20][/us/usc/t42/s1320b–20]\] for payment for a fiscal year after fiscal year 2010.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title IV, § 404(a)(2)][/us/pl/108/203/s404/a/2], Mar. 2, 2004, [118 Stat. 526][/us/stat/118/526], provided that: 
+[Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 404(a)(2), Mar. 2, 2004, [118 Stat. 526][/us/stat/118/526], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply with respect to grants, cooperative agreements, or contracts entered into on or after the date of the enactment of this Act \[Mar. 2, 2004\].”
 
@@ -223,15 +223,15 @@
 [/us/usc/t42/s1382h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h%2Fb
 [/us/usc/t42/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/170/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs121
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1887
-[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F525
-[/us/pl/111/63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F63%2Fs2
+[/us/pl/111/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F63
 [/us/stat/123/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2001
 [/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
 [/us/stat/124/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2903
-[/us/pl/113/128/s512/dd/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F3
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
 [/us/pl/106/170/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Ff
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
@@ -242,7 +242,7 @@
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t42/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6024
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 [/us/usc/t42/s15025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15025
 [/us/pl/93/66/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212
@@ -250,22 +250,22 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
-[/us/pl/111/280/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fb%2F1
-[/us/pl/111/280/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fa
-[/us/pl/111/280/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fa
-[/us/pl/111/280/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs2%2Fa
-[/us/pl/111/280/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fa
+[/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
+[/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
+[/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
+[/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
+[/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
 [/us/pl/111/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F63
-[/us/pl/108/203/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs404%2Fa%2F1
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/usc/t42/s1320b–19/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk%2F2
-[/us/pl/108/203/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs407%2Fa
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/111/280/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fb%2F2
+[/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
 [/us/stat/124/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2904
 [/us/usc/t42/s1320b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9320
-[/us/pl/108/203/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs404%2Fa%2F2
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F526
 
 

@@ -79,11 +79,11 @@
 
         (5) such comments and recommendations as the Director considers appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417, as added [Pub. L. 103–43, title IV, § 401][/us/pl/103/43/s401], June 10, 1993, [107 Stat. 153][/us/stat/107/153].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417, as added [Pub. L. 103–43, title IV][/us/pl/103/43/tIV], § 401, June 10, 1993, [107 Stat. 153][/us/stat/107/153].)
 
  __References in Text__ 
 
-    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (e), was repealed by [Pub. L. 109–482, title I, § 104(b)(1)(C)][/us/pl/109/482/s104/b/1/C], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
+    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (e), was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(C), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
 
  __Change of Name__ 
 
@@ -105,10 +105,10 @@
 [/us/usc/t42/s285a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285a%E2%80%932
 [/us/usc/t42/s285a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285a%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs401
+[/us/pl/103/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIV
 [/us/stat/107/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F153
 [/us/usc/t42/s284b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284b
-[/us/pl/109/482/s104/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FC
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

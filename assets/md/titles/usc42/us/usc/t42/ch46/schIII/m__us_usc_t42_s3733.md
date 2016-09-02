@@ -17,11 +17,11 @@
 
     A grant authorized under this subchapter may be up to 100 per centum of the total cost of each project for which such grant is made. The Bureau shall require, whenever feasible as a condition of approval of a grant under this subchapter, that the recipient contribute money, facilities, or services to carry out the purposes for which the grant is sought.
 
-([Pub. L. 90–351, title I, § 303][/us/pl/90/351/s303], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1178][/us/stat/93/1178].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 303, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1178][/us/stat/93/1178].)
 
  __Prior Provisions__ 
 
-    A prior section 3733, [Pub. L. 90–351, title I, § 303][/us/pl/90/351/s303], June 19, 1968, [82 Stat. 201][/us/stat/82/201]; [Pub. L. 91–644, title I, § 4(5)][/us/pl/91/644/s4/5], (6), Jan. 2, 1971, [84 Stat. 1883][/us/stat/84/1883]; [Pub. L. 93–83, § 2][/us/pl/93/83/s2], Aug. 6, 1973, [87 Stat. 201][/us/stat/87/201]; [Pub. L. 93–415, title V, § 543][/us/pl/93/415/s543], Sept. 7, 1974, [88 Stat. 1142][/us/stat/88/1142]; [Pub. L. 94–503, title I, § 111][/us/pl/94/503/s111], Oct. 15, 1976, [90 Stat. 2413][/us/stat/90/2413]; [Pub. L. 96–181, § 15(b)][/us/pl/96/181/s15/b], Jan. 2, 1980, [93 Stat. 1316][/us/stat/93/1316], set out requirements of State plans in order to qualify for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    A prior section 3733, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 303, June 19, 1968, [82 Stat. 201][/us/stat/82/201]; [Pub. L. 91–644, title I][/us/pl/91/644/tI], § 4(5), (6), Jan. 2, 1971, [84 Stat. 1883][/us/stat/84/1883]; [Pub. L. 93–83][/us/pl/93/83], § 2, Aug. 6, 1973, [87 Stat. 201][/us/stat/87/201]; [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 543, Sept. 7, 1974, [88 Stat. 1142][/us/stat/88/1142]; [Pub. L. 94–503, title I][/us/pl/94/503/tI], § 111, Oct. 15, 1976, [90 Stat. 2413][/us/stat/90/2413]; [Pub. L. 96–181][/us/pl/96/181], § 15(b), Jan. 2, 1980, [93 Stat. 1316][/us/stat/93/1316], set out requirements of State plans in order to qualify for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
 ----------
 
@@ -30,20 +30,20 @@
 ----------
 ----------
 
-[/us/pl/90/351/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs303
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1178
-[/us/pl/90/351/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs303
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
 [/us/stat/82/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F201
-[/us/pl/91/644/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F644%2Fs4%2F5
+[/us/pl/91/644/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F644%2FtI
 [/us/stat/84/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1883
-[/us/pl/93/83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83%2Fs2
+[/us/pl/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83
 [/us/stat/87/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F201
-[/us/pl/93/415/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs543
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1142
-[/us/pl/94/503/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2Fs111
+[/us/pl/94/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2FtI
 [/us/stat/90/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2413
-[/us/pl/96/181/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs15%2Fb
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
 [/us/stat/93/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1316
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 

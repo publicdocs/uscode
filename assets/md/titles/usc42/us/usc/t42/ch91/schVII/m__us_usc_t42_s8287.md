@@ -135,7 +135,7 @@
 
         (3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
 
-([Pub. L. 95–619, title VIII, § 801][/us/pl/95/619/s801], as added [Pub. L. 99–272, title VII, § 7201(a)][/us/pl/99/272/s7201/a], Apr. 7, 1986, [100 Stat. 142][/us/stat/100/142]; amended [Pub. L. 102–486, title I, § 155(a)][/us/pl/102/486/s155/a], Oct. 24, 1992, [106 Stat. 2852][/us/stat/106/2852]; [Pub. L. 104–106, div. E, title LVI, § 5607(e)][/us/pl/104/106/s5607/e], Feb. 10, 1996, [110 Stat. 702][/us/stat/110/702]; [Pub. L. 104–316, title I, § 122(s)][/us/pl/104/316/s122/s], Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838]; [Pub. L. 105–388, § 4(a)][/us/pl/105/388/s4/a], Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477]; [Pub. L. 106–291, title III, § 335][/us/pl/106/291/s335], Oct. 11, 2000, [114 Stat. 997][/us/stat/114/997]; [Pub. L. 106–469, title IV, § 401][/us/pl/106/469/s401], Nov. 9, 2000, [114 Stat. 2037][/us/stat/114/2037]; [Pub. L. 108–375, div. A, title X, § 1090(a)][/us/pl/108/375/s1090/a], Oct. 28, 2004, [118 Stat. 2067][/us/stat/118/2067]; [Pub. L. 109–58, title I, § 105(a)][/us/pl/109/58/s105/a], Aug. 8, 2005, [119 Stat. 611][/us/stat/119/611]; [Pub. L. 110–140, title V][/us/pl/110/140], §§ 511(a), 512–514, Dec. 19, 2007, [121 Stat. 1658][/us/stat/121/1658], 1659; [Pub. L. 111–383, div. A, title VIII, § 828(a)][/us/pl/111/383/s828/a], Jan. 7, 2011, [124 Stat. 4271][/us/stat/124/4271].)
+([Pub. L. 95–619, title VIII][/us/pl/95/619/tVIII], § 801, as added [Pub. L. 99–272, title VII][/us/pl/99/272/tVII], § 7201(a), Apr. 7, 1986, [100 Stat. 142][/us/stat/100/142]; amended [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 155(a), Oct. 24, 1992, [106 Stat. 2852][/us/stat/106/2852]; [Pub. L. 104–106, div. E, title LVI][/us/pl/104/106/dE/tLVI], § 5607(e), Feb. 10, 1996, [110 Stat. 702][/us/stat/110/702]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(s), Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838]; [Pub. L. 105–388][/us/pl/105/388], § 4(a), Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477]; [Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 335, Oct. 11, 2000, [114 Stat. 997][/us/stat/114/997]; [Pub. L. 106–469, title IV][/us/pl/106/469/tIV], § 401, Nov. 9, 2000, [114 Stat. 2037][/us/stat/114/2037]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1090(a), Oct. 28, 2004, [118 Stat. 2067][/us/stat/118/2067]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 105(a), Aug. 8, 2005, [119 Stat. 611][/us/stat/119/611]; [Pub. L. 110–140, title V][/us/pl/110/140/tV], §§ 511(a), 512–514, Dec. 19, 2007, [121 Stat. 1658][/us/stat/121/1658], 1659; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 828(a), Jan. 7, 2011, [124 Stat. 4271][/us/stat/124/4271].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 
  __Codification__ 
 
-The following substitutions were made on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts:
+The following substitutions were made on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts:
 
     In subsec. (a)(2)(D)(iii), “[section 1303 of title 41][/us/usc/t41/s1303]” substituted for “section 25 of the Office of Federal Procurement Policy Act ([41 U.S.C. 421][/us/usc/t41/s421])”.
 
@@ -155,15 +155,15 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 
     2011—Subsec. (c). [Pub. L. 111–383][/us/pl/111/383] added subsec. (c).
 
-    2007—Subsec. (a)(2)(D). [Pub. L. 110–140, § 513(1)][/us/pl/110/140/s513/1], inserted “beginning on the date of the delivery order” after “25 years” in introductory provisions.
+    2007—Subsec. (a)(2)(D). [Pub. L. 110–140][/us/pl/110/140], § 513(1), inserted “beginning on the date of the delivery order” after “25 years” in introductory provisions.
 
-    Subsec. (a)(2)(D)(iii), (iv). [Pub. L. 110–140, § 511(a)][/us/pl/110/140/s511/a], redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and”.
+    Subsec. (a)(2)(D)(iii), (iv). [Pub. L. 110–140][/us/pl/110/140], § 511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and”.
 
-    Subsec. (a)(2)(E). [Pub. L. 110–140, § 512][/us/pl/110/140/s512], added subpar. (E).
+    Subsec. (a)(2)(E). [Pub. L. 110–140][/us/pl/110/140], § 512, added subpar. (E).
 
-    Subsec. (a)(2)(F), (G). [Pub. L. 110–140, § 513(2)][/us/pl/110/140/s513/2], added subpars. (F) and (G).
+    Subsec. (a)(2)(F), (G). [Pub. L. 110–140][/us/pl/110/140], § 513(2), added subpars. (F) and (G).
 
-    Subsec. (c). [Pub. L. 110–140, § 514][/us/pl/110/140/s514], struck out subsec. (c). Text read as follows: “The authority to enter into new contracts under this section shall cease to be effective on October 1, 2016.”
+    Subsec. (c). [Pub. L. 110–140][/us/pl/110/140], § 514, struck out subsec. (c). Text read as follows: “The authority to enter into new contracts under this section shall cease to be effective on October 1, 2016.”
 
     2005—Subsec. (c). [Pub. L. 109–58][/us/pl/109/58] substituted “2016” for “2006”.
 
@@ -181,7 +181,7 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 828(b)][/us/pl/111/383/s828/b], Jan. 7, 2011, [124 Stat. 4272][/us/stat/124/4272], provided that: 
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 828(b), Jan. 7, 2011, [124 Stat. 4272][/us/stat/124/4272], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] is inapplicable to task or delivery orders issued before the date of enactment of this Act \[Jan. 7, 2011\].”
 
@@ -195,29 +195,29 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 
  __Architect of the Capitol as Agency Electing To Develop List of Firms Qualified To Provide Energy Saving Services and as Agency Head Selecting From List__ 
 
-[Pub. L. 103–211, title III, § 402][/us/pl/103/211/s402], Feb. 12, 1994, [108 Stat. 40][/us/stat/108/40], provided that: 
+[Pub. L. 103–211, title III][/us/pl/103/211/tIII], § 402, Feb. 12, 1994, [108 Stat. 40][/us/stat/108/40], provided that: 
 
 > “The Architect of the Capitol shall be considered the agency for the purposes of the election in section 801(b)(2)(B) of the National Energy Conservation Policy Act \[[42 U.S.C. 8287(b)(2)(B)][/us/usc/t42/s8287/b/2/B]\] and the head of the agency for purposes of subsection (b)(2)(C) of such section.”
 
  __Review__ 
 
-[Pub. L. 108–375, div. A, title X, § 1090(f)][/us/pl/108/375/s1090/f], Oct. 28, 2004, [118 Stat. 2068][/us/stat/118/2068], provided that: 
+[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1090(f), Oct. 28, 2004, [118 Stat. 2068][/us/stat/118/2068], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Energy shall complete a review of the Energy Savings Performance Contract program to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program. In addition, this review shall identify all areas for increasing program flexibility and effectiveness, including audit and measurement verification requirements, accounting for energy use in determining savings, contracting requirements, including the identification of additional qualified contractors, and energy efficiency services covered. The Secretary shall report these findings to Congress and shall implement identified administrative and regulatory changes to increase program flexibility and effectiveness to the extent that such changes are consistent with statutory authority.”
 
  __Extension of Authority__ 
 
-[Pub. L. 109–58, title I, § 105(b)][/us/pl/109/58/s105/b], Aug. 8, 2005, [119 Stat. 611][/us/stat/119/611], provided that: 
+[Pub. L. 109–58, title I][/us/pl/109/58/tI], § 105(b), Aug. 8, 2005, [119 Stat. 611][/us/stat/119/611], provided that: 
 
 > “Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act ([42 U.S.C. 8287][/us/usc/t42/s8287]) after October 1, 2003, and before the date of enactment of this Act \[Aug. 8, 2005\], shall be considered to have been entered into under that section.”
 
-[Pub. L. 108–375, div. A, title X, § 1090(g)][/us/pl/108/375/s1090/g], Oct. 28, 2004, [118 Stat. 2068][/us/stat/118/2068], provided that: 
+[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1090(g), Oct. 28, 2004, [118 Stat. 2068][/us/stat/118/2068], provided that: 
 
 > “Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act ([42 U.S.C. 8287][/us/usc/t42/s8287]) after October 1, 2003, and before the date of enactment of this Act \[Oct. 28, 2004\], shall be deemed to have been entered into pursuant to such section 801 as amended by subsection (a) of this section.”
 
  __Energy Efficiency Incentive__ 
 
-[Pub. L. 100–456, div. A, title VII, § 736][/us/pl/100/456/s736], Sept. 29, 1988, [102 Stat. 2006][/us/stat/102/2006], as amended by [Pub. L. 101–189, div. A, title III, § 331][/us/pl/101/189/s331], Nov. 29, 1989, [103 Stat. 1417][/us/stat/103/1417], provided that:
+[Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 736, Sept. 29, 1988, [102 Stat. 2006][/us/stat/102/2006], as amended by [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 331, Nov. 29, 1989, [103 Stat. 1417][/us/stat/103/1417], provided that:
 
 >     “(a)  __Energy Conservation Incentive__  __.—__ 
 
@@ -247,34 +247,34 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 [/us/usc/t41/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fa
 [/us/usc/t10/s2304c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304c%2Fd
 [/us/usc/t41/s4106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4106%2Fd
-[/us/pl/95/619/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs801
-[/us/pl/99/272/s7201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs7201%2Fa
+[/us/pl/95/619/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVIII
+[/us/pl/99/272/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVII
 [/us/stat/100/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F142
-[/us/pl/102/486/s155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs155%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2852
-[/us/pl/104/106/s5607/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5607%2Fe
+[/us/pl/104/106/dE/tLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLVI
 [/us/stat/110/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F702
-[/us/pl/104/316/s122/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fs
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3838
-[/us/pl/105/388/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs4%2Fa
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3477
-[/us/pl/106/291/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs335
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F997
-[/us/pl/106/469/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs401
+[/us/pl/106/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtIV
 [/us/stat/114/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2037
-[/us/pl/108/375/s1090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1090%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2067
-[/us/pl/109/58/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs105%2Fa
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F611
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1658
-[/us/pl/111/383/s828/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs828%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4271
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492
 [/us/usc/t10/s2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2913
 [/us/usc/t42/s17001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17001
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303
 [/us/usc/t41/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421
@@ -282,11 +282,11 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 [/us/usc/t41/s4106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4106%2Fd
 [/us/usc/t41/s253j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253j%2Fd
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/110/140/s513/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs513%2F1
-[/us/pl/110/140/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs511%2Fa
-[/us/pl/110/140/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs512
-[/us/pl/110/140/s513/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs513%2F2
-[/us/pl/110/140/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs514
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
@@ -296,7 +296,7 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 [/us/usc/t40/s759/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759%2Ff
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/111/383/s828/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs828%2Fb
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4272
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
@@ -304,20 +304,20 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5701
 [/us/stat/110/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F702
-[/us/pl/103/211/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F211%2Fs402
+[/us/pl/103/211/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F211%2FtIII
 [/us/stat/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F40
 [/us/usc/t42/s8287/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8287%2Fb%2F2%2FB
-[/us/pl/108/375/s1090/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1090%2Ff
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2068
-[/us/pl/109/58/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs105%2Fb
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F611
 [/us/usc/t42/s8287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8287
-[/us/pl/108/375/s1090/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1090%2Fg
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2068
 [/us/usc/t42/s8287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8287
-[/us/pl/100/456/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs736
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2006
-[/us/pl/101/189/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs331
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1417
 [/us/usc/t42/s8287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8287
 [/us/usc/t10/s2805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fa

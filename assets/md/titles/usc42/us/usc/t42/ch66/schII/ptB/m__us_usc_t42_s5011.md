@@ -89,7 +89,7 @@
 
             (D) locally generated contributions in excess of the amount required to be contributed under subsection (a) of this section, in the discretion of the recipient of a grant or contract under such subsection.
 
-([Pub. L. 93–113, title II, § 211][/us/pl/93/113/s211], Oct. 1, 1973, [87 Stat. 402][/us/stat/87/402]; [Pub. L. 94–135, title II, § 205(b)(1)][/us/pl/94/135/s205/b/1], (2), Nov. 28, 1975, [89 Stat. 727][/us/stat/89/727]; [Pub. L. 94–293, § 7][/us/pl/94/293/s7], May 27, 1976, [90 Stat. 526][/us/stat/90/526]; [Pub. L. 95–478, title IV, § 402(b)][/us/pl/95/478/s402/b], Oct. 18, 1978, [92 Stat. 1557][/us/stat/92/1557]; [Pub. L. 97–35, title VI, § 608(b)][/us/pl/97/35/s608/b], Aug. 13, 1981, [95 Stat. 487][/us/stat/95/487]; [Pub. L. 98–288, § 14(c)][/us/pl/98/288/s14/c], May 21, 1984, [98 Stat. 192][/us/stat/98/192]; [Pub. L. 99–551, § 7(a)(1)][/us/pl/99/551/s7/a/1], Oct. 27, 1986, [100 Stat. 3074][/us/stat/100/3074]; [Pub. L. 101–204, title V][/us/pl/101/204], §§ 503, 504, Dec. 7, 1989, [103 Stat. 1817][/us/stat/103/1817]; [Pub. L. 103–82, title III][/us/pl/103/82], §§ 344, 345, Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904], 905; [Pub. L. 108–446, title III, § 305(k)][/us/pl/108/446/s305/k], Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 111–13, title II, § 2144][/us/pl/111/13/s2144], Apr. 21, 2009, [123 Stat. 1588][/us/stat/123/1588].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 211, Oct. 1, 1973, [87 Stat. 402][/us/stat/87/402]; [Pub. L. 94–135, title II][/us/pl/94/135/tII], § 205(b)(1), (2), Nov. 28, 1975, [89 Stat. 727][/us/stat/89/727]; [Pub. L. 94–293][/us/pl/94/293], § 7, May 27, 1976, [90 Stat. 526][/us/stat/90/526]; [Pub. L. 95–478, title IV][/us/pl/95/478/tIV], § 402(b), Oct. 18, 1978, [92 Stat. 1557][/us/stat/92/1557]; [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 608(b), Aug. 13, 1981, [95 Stat. 487][/us/stat/95/487]; [Pub. L. 98–288][/us/pl/98/288], § 14(c), May 21, 1984, [98 Stat. 192][/us/stat/98/192]; [Pub. L. 99–551][/us/pl/99/551], § 7(a)(1), Oct. 27, 1986, [100 Stat. 3074][/us/stat/100/3074]; [Pub. L. 101–204, title V][/us/pl/101/204/tV], §§ 503, 504, Dec. 7, 1989, [103 Stat. 1817][/us/stat/103/1817]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], §§ 344, 345, Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904], 905; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(k), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2144, Apr. 21, 2009, [123 Stat. 1588][/us/stat/123/1588].)
 
  __References in Text__ 
 
@@ -97,61 +97,61 @@
 
     The Head Start Act, referred to in subsec. (a), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title][/us/usc/t42/s9801] and Tables.
 
-    [Section 3044b of this title][/us/usc/t42/s3044b], referred to in subsec. (a), related to grants and contracts for Foster Grandparent projects and for services as senior health aides and senior companions, amount of award, method of payment, and exclusion as income of compensation to individual volunteers, was repealed by [Pub. L. 93–113, title VI, § 604(a)][/us/pl/93/113/s604/a], Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417], and is covered by this section and sections 5022 and 5058 of this title.
+    [Section 3044b of this title][/us/usc/t42/s3044b], referred to in subsec. (a), related to grants and contracts for Foster Grandparent projects and for services as senior health aides and senior companions, amount of award, method of payment, and exclusion as income of compensation to individual volunteers, was repealed by [Pub. L. 93–113, title VI][/us/pl/93/113/tVI], § 604(a), Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417], and is covered by this section and sections 5022 and 5058 of this title.
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 2144(1)][/us/pl/111/13/s2144/1], in first sentence, substituted “age 55” for “aged sixty” and “children having special or exceptional needs or circumstances identified as limiting their academic, social, or emotional development” for “children having exceptional needs”, and, in second sentence, struck out “any of a variety of” before “other programs” and substituted “children having special or exceptional needs or circumstances identified as limiting their academic, social, or emotional development” for “children with special or exceptional needs”.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 2144(1), in first sentence, substituted “age 55” for “aged sixty” and “children having special or exceptional needs or circumstances identified as limiting their academic, social, or emotional development” for “children having exceptional needs”, and, in second sentence, struck out “any of a variety of” before “other programs” and substituted “children having special or exceptional needs or circumstances identified as limiting their academic, social, or emotional development” for “children with special or exceptional needs”.
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 2144(2)(A)(i)][/us/pl/111/13/s2144/2/A/i], which directed substitution of “may determine” for “ ‘shall have’ and all that follows through ‘(2) of the subsection’ ” in introductory provisions, was executed by making the substitution for “shall have the exclusive authority to determine, pursuant to the provisions of paragraph (2) of this subsection” to reflect the probable intent of Congress.
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 2144(2)(A)(i), which directed substitution of “may determine” for “ ‘shall have’ and all that follows through ‘(2) of the subsection’ ” in introductory provisions, was executed by making the substitution for “shall have the exclusive authority to determine, pursuant to the provisions of paragraph (2) of this subsection” to reflect the probable intent of Congress.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–13, § 2144(2)(A)(ii)][/us/pl/111/13/s2144/2/A/ii]–(iv), added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 111–13][/us/pl/111/13], § 2144(2)(A)(ii)–(iv), added subpar. (C).
 
-    Subsec. (b)(2). [Pub. L. 111–13, § 2144(2)(B)][/us/pl/111/13/s2144/2/B], added par. (2) and struck out former par. (2) which read as follows: “In the event that such an agency or organization determines that it is in the best interests of a mentally retarded child receiving, and of a particular foster grandparent providing, services in such a project, such relationship may be continued after the child reaches the chronological age of 21: Provided, That such child was receiving such services prior to attaining the chronological age of 21. If the particular foster grandparent subject to the determination under this paragraph becomes unavailable to serve after such determination is made, the agency or organization may select another foster grandparent.”
+    Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 2144(2)(B), added par. (2) and struck out former par. (2) which read as follows: “In the event that such an agency or organization determines that it is in the best interests of a mentally retarded child receiving, and of a particular foster grandparent providing, services in such a project, such relationship may be continued after the child reaches the chronological age of 21: Provided, That such child was receiving such services prior to attaining the chronological age of 21. If the particular foster grandparent subject to the determination under this paragraph becomes unavailable to serve after such determination is made, the agency or organization may select another foster grandparent.”
 
-    Subsec. (d). [Pub. L. 111–13, § 2144(3)][/us/pl/111/13/s2144/3], substituted “$3.00 per hour, except” for “$2.45 per hour on and after October 1, 1993, and shall be adjusted once prior to December 31, 1997, to account for inflation, as determined by the Director and rounded to the nearest five cents, except”.
+    Subsec. (d). [Pub. L. 111–13][/us/pl/111/13], § 2144(3), substituted “$3.00 per hour, except” for “$2.45 per hour on and after October 1, 1993, and shall be adjusted once prior to December 31, 1997, to account for inflation, as determined by the Director and rounded to the nearest five cents, except”.
 
-    Subsec. (e)(1). [Pub. L. 111–13, § 2144(4)(A)][/us/pl/111/13/s2144/4/A], substituted “200 percent” for “125 per centum”.
+    Subsec. (e)(1). [Pub. L. 111–13][/us/pl/111/13], § 2144(4)(A), substituted “200 percent” for “125 per centum”.
 
-    Subsec. (e)(2). [Pub. L. 111–13, § 2144(4)(B)][/us/pl/111/13/s2144/4/B], substituted “percent” for “per centum”.
+    Subsec. (e)(2). [Pub. L. 111–13][/us/pl/111/13], § 2144(4)(B), substituted “percent” for “per centum”.
 
-    Subsec. (f)(1)(A). [Pub. L. 111–13, § 2144(5)(A)][/us/pl/111/13/s2144/5/A], substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
+    Subsec. (f)(1)(A). [Pub. L. 111–13][/us/pl/111/13], § 2144(5)(A), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
 
-    Subsec. (f)(1)(C). [Pub. L. 111–13, § 2144(5)(B)][/us/pl/111/13/s2144/5/B], struck out subpar. (C) which read as follows: “Individuals who are not low-income persons may not serve as volunteers under this part in any community in which there are volunteers serving under part A of this subchapter unless such individuals have been referred previously for possible placement as volunteers under part A of this subchapter and such placement did not occur.”
+    Subsec. (f)(1)(C). [Pub. L. 111–13][/us/pl/111/13], § 2144(5)(B), struck out subpar. (C) which read as follows: “Individuals who are not low-income persons may not serve as volunteers under this part in any community in which there are volunteers serving under part A of this subchapter unless such individuals have been referred previously for possible placement as volunteers under part A of this subchapter and such placement did not occur.”
 
     2004—Subsec. (a). [Pub. L. 108–446][/us/pl/108/446] substituted “part C” for “part H” and “1431 et seq.” for “1471 et seq.”.
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 344][/us/pl/103/82/s344], struck out “, including services by individuals serving as ‘foster grandparents’ to children receiving care in hospitals, homes for dependent and neglected children, or other establishments providing care for children with special needs” after “having exceptional needs” in first sentence and inserted after first sentence “Such services may include services by individuals serving as foster grandparents to children who are individuals with disabilities, who have chronic health conditions, who are receiving care in hospitals, who are residing in homes for dependent and neglected children, or who are receiving services provided by day care centers, schools, early intervention programs under part H of the Individuals with Disabilities Education Act ([20 U.S.C. 1471][/us/usc/t20/s1471] et seq.), Head Start agencies under the Head Start Act, or any of a variety of other programs, establishments, and institutions providing services for children with special or exceptional needs. Individual foster grandparents may provide person-to-person services to one or more children, depending on the needs of the project and local site.”
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 344, struck out “, including services by individuals serving as ‘foster grandparents’ to children receiving care in hospitals, homes for dependent and neglected children, or other establishments providing care for children with special needs” after “having exceptional needs” in first sentence and inserted after first sentence “Such services may include services by individuals serving as foster grandparents to children who are individuals with disabilities, who have chronic health conditions, who are receiving care in hospitals, who are residing in homes for dependent and neglected children, or who are receiving services provided by day care centers, schools, early intervention programs under part H of the Individuals with Disabilities Education Act ([20 U.S.C. 1471][/us/usc/t20/s1471] et seq.), Head Start agencies under the Head Start Act, or any of a variety of other programs, establishments, and institutions providing services for children with special or exceptional needs. Individual foster grandparents may provide person-to-person services to one or more children, depending on the needs of the project and local site.”
 
-    Subsec. (d). [Pub. L. 103–82, § 345][/us/pl/103/82/s345], in second sentence substituted “Any stipend or allowance provided under this section shall not be less than $2.45 per hour on and after October 1, 1993, and shall be adjusted once prior to December 31, 1997, to account for inflation, as determined by the Director and rounded to the nearest five cents,” for “Any stipend or allowance provided under this subsection shall not be less than $2.20 per hour until October 1, 1990, $2.35 per hour during fiscal year 1991, and $2.50 per hour on and after October 1, 1992,” and inserted sentence at end relating to consideration of effect of adjustment on non-federally funded volunteer programs.
+    Subsec. (d). [Pub. L. 103–82][/us/pl/103/82], § 345, in second sentence substituted “Any stipend or allowance provided under this section shall not be less than $2.45 per hour on and after October 1, 1993, and shall be adjusted once prior to December 31, 1997, to account for inflation, as determined by the Director and rounded to the nearest five cents,” for “Any stipend or allowance provided under this subsection shall not be less than $2.20 per hour until October 1, 1990, $2.35 per hour during fiscal year 1991, and $2.50 per hour on and after October 1, 1992,” and inserted sentence at end relating to consideration of effect of adjustment on non-federally funded volunteer programs.
 
-    1989—Subsec. (d). [Pub. L. 101–204, § 503][/us/pl/101/204/s503], inserted “until October 1, 1990, $2.35 per hour during fiscal year 1991, and $2.50 per hour on and after October 1, 1992” after “$2.20 per hour” in introductory provisions, substituted “such stipend or allowance shall not be increased as a result of an amendment made” for “no increase in the stipend of allowance shall be made pursuant” in cl. (1), and substituted “the minimum hourly rate specified in this sentence” for “$2.20 per hour” in cl. (2).
+    1989—Subsec. (d). [Pub. L. 101–204][/us/pl/101/204], § 503, inserted “until October 1, 1990, $2.35 per hour during fiscal year 1991, and $2.50 per hour on and after October 1, 1992” after “$2.20 per hour” in introductory provisions, substituted “such stipend or allowance shall not be increased as a result of an amendment made” for “no increase in the stipend of allowance shall be made pursuant” in cl. (1), and substituted “the minimum hourly rate specified in this sentence” for “$2.20 per hour” in cl. (2).
 
-    Subsec. (f)(1)(C). [Pub. L. 101–204, § 504(1)][/us/pl/101/204/s504/1], inserted before period at end “unless such individuals have been referred previously for possible placement as volunteers under part A of this subchapter and such placement did not occur”.
+    Subsec. (f)(1)(C). [Pub. L. 101–204][/us/pl/101/204], § 504(1), inserted before period at end “unless such individuals have been referred previously for possible placement as volunteers under part A of this subchapter and such placement did not occur”.
 
-    Subsec. (f)(3). [Pub. L. 101–204, § 504(2)][/us/pl/101/204/s504/2], inserted “take into consideration or” after “may not”, inserted “or recruit” after “accept” in subpar. (A), and inserted at end “The Director may not coerce any applicant for, or recipient of, such grant or contract to engage in conduct described in subparagraph (A) or (B).”
+    Subsec. (f)(3). [Pub. L. 101–204][/us/pl/101/204], § 504(2), inserted “take into consideration or” after “may not”, inserted “or recruit” after “accept” in subpar. (A), and inserted at end “The Director may not coerce any applicant for, or recipient of, such grant or contract to engage in conduct described in subparagraph (A) or (B).”
 
-    1986—Subsec. (d). [Pub. L. 99–551, § 7(a)(1)(A)][/us/pl/99/551/s7/a/1/A], inserted “low-income” after “may provide to”.
+    1986—Subsec. (d). [Pub. L. 99–551][/us/pl/99/551], § 7(a)(1)(A), inserted “low-income” after “may provide to”.
 
-    Subsec. (f). [Pub. L. 99–551, § 7(a)(1)(B)][/us/pl/99/551/s7/a/1/B], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–551][/us/pl/99/551], § 7(a)(1)(B), added subsec. (f).
 
-    1984—Subsec. (a). [Pub. L. 98–288, § 14(c)(1)][/us/pl/98/288/s14/c/1], substituted “the Director” for “he” in two places.
+    1984—Subsec. (a). [Pub. L. 98–288][/us/pl/98/288], § 14(c)(1), substituted “the Director” for “he” in two places.
 
-    Subsec. (b)(2). [Pub. L. 98–288, § 14(c)(2)][/us/pl/98/288/s14/c/2], inserted at end “If the particular foster grandparent subject to the determination under this paragraph becomes unavailable to serve after such determination is made, the agency or organization may select another foster grandparent.”
+    Subsec. (b)(2). [Pub. L. 98–288][/us/pl/98/288], § 14(c)(2), inserted at end “If the particular foster grandparent subject to the determination under this paragraph becomes unavailable to serve after such determination is made, the agency or organization may select another foster grandparent.”
 
-    Subsec. (d). [Pub. L. 98–288, § 14(c)(3)][/us/pl/98/288/s14/c/3], substituted “the Director” for “he” in two places and “$2.20” for “$2” in two places.
+    Subsec. (d). [Pub. L. 98–288][/us/pl/98/288], § 14(c)(3), substituted “the Director” for “he” in two places and “$2.20” for “$2” in two places.
 
-    Subsec. (e). [Pub. L. 98–288, § 14(c)(4)][/us/pl/98/288/s14/c/4], in amending subsec. (e) generally, substituted “poverty line defined in [section 9902(2) of this title][/us/usc/t42/s9902/2] and adjusted by the Director in the manner described in such section” for “poverty line set forth in [section 2971d of this title][/us/usc/t42/s2971d]” and “any person whose income is not more than 100 per centum of such poverty line, as so adjusted and determined by the Director after taking into consideration existing poverty guidelines as appropriate to local situations” for “any person considered a poor or low-income person under [section 5061(4) of this title][/us/usc/t42/s5061/4]”.
+    Subsec. (e). [Pub. L. 98–288][/us/pl/98/288], § 14(c)(4), in amending subsec. (e) generally, substituted “poverty line defined in [section 9902(2) of this title][/us/usc/t42/s9902/2] and adjusted by the Director in the manner described in such section” for “poverty line set forth in [section 2971d of this title][/us/usc/t42/s2971d]” and “any person whose income is not more than 100 per centum of such poverty line, as so adjusted and determined by the Director after taking into consideration existing poverty guidelines as appropriate to local situations” for “any person considered a poor or low-income person under [section 5061(4) of this title][/us/usc/t42/s5061/4]”.
 
-    1981—Subsecs. (b) to (f). [Pub. L. 97–35, § 608(b)][/us/pl/97/35/s608/b], struck out subsec. (b) which related to service as senior health aides and senior companions, and redesignated subsecs. (c) to (f) as (b) to (e), respectively.
+    1981—Subsecs. (b) to (f). [Pub. L. 97–35][/us/pl/97/35], § 608(b), struck out subsec. (b) which related to service as senior health aides and senior companions, and redesignated subsecs. (c) to (f) as (b) to (e), respectively.
 
     1978—Subsecs. (e), (f). [Pub. L. 95–478][/us/pl/95/478] added subsecs. (e) and (f).
 
     1976—Subsecs. (c), (d). [Pub. L. 94–293][/us/pl/94/293] added subsecs. (c) and (d).
 
-    1975—Subsec. (a). [Pub. L. 94–135, § 205(b)(1)][/us/pl/94/135/s205/b/1], substituted “individuals” for “volunteers” where appearing first and third places and struck out “serve as volunteers to” before “provide supportive person-to-person services”.
+    1975—Subsec. (a). [Pub. L. 94–135][/us/pl/94/135], § 205(b)(1), substituted “individuals” for “volunteers” where appearing first and third places and struck out “serve as volunteers to” before “provide supportive person-to-person services”.
 
-    Subsec. (b). [Pub. L. 94–135, § 205(b)(2)][/us/pl/94/135/s205/b/2], substituted “individuals” for “volunteers”.
+    Subsec. (b). [Pub. L. 94–135][/us/pl/94/135], § 205(b)(2), substituted “individuals” for “volunteers”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -165,7 +165,7 @@
 
     Amendment by [Pub. L. 99–551][/us/pl/99/551] effective Oct. 1, 1986, except as otherwise provided, see [section 11 of Pub. L. 99–551][/us/pl/99/551/s11], set out as an Effective Date note under [section 4950 of this title][/us/usc/t42/s4950].
 
-[Pub. L. 99–551, § 7(a)(2)][/us/pl/99/551/s7/a/2], Oct. 27, 1986, [100 Stat. 3075][/us/stat/100/3075], provided that: 
+[Pub. L. 99–551][/us/pl/99/551], § 7(a)(2), Oct. 27, 1986, [100 Stat. 3075][/us/stat/100/3075], provided that: 
 
 > “Section 211(f)(3) of the Domestic Volunteer Service Act of 1973 \[subsec. (f)(3) of this section\], as added by paragraph (1), shall apply with respect to grants and contracts made under section 211(a) of such Act before the date of the enactment of this Act \[Oct. 27, 1986\].”
 
@@ -185,27 +185,27 @@
 [/us/usc/t42/s12638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12638
 [/us/usc/t42/s12651f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651f
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/93/113/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs211
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
 [/us/stat/87/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F402
-[/us/pl/94/135/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs205%2Fb%2F1
+[/us/pl/94/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtII
 [/us/stat/89/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F727
-[/us/pl/94/293/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F293%2Fs7
+[/us/pl/94/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F293
 [/us/stat/90/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F526
-[/us/pl/95/478/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs402%2Fb
+[/us/pl/95/478/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtIV
 [/us/stat/92/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1557
-[/us/pl/97/35/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs608%2Fb
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F487
-[/us/pl/98/288/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fc
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F192
-[/us/pl/99/551/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs7%2Fa%2F1
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3074
-[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtV
 [/us/stat/103/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1817
-[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F904
-[/us/pl/108/446/s305/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fk
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
-[/us/pl/111/13/s2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1588
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
@@ -214,38 +214,38 @@
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
 [/us/usc/t42/s3044b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3044b
-[/us/pl/93/113/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs604%2Fa
+[/us/pl/93/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtVI
 [/us/stat/87/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F417
-[/us/pl/111/13/s2144/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F1
-[/us/pl/111/13/s2144/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F2%2FA%2Fi
-[/us/pl/111/13/s2144/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F2%2FA%2Fii
-[/us/pl/111/13/s2144/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F2%2FB
-[/us/pl/111/13/s2144/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F3
-[/us/pl/111/13/s2144/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F4%2FA
-[/us/pl/111/13/s2144/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F4%2FB
-[/us/pl/111/13/s2144/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F5%2FA
-[/us/pl/111/13/s2144/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2144%2F5%2FB
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/103/82/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs344
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t20/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1471
-[/us/pl/103/82/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs345
-[/us/pl/101/204/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs503
-[/us/pl/101/204/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs504%2F1
-[/us/pl/101/204/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs504%2F2
-[/us/pl/99/551/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs7%2Fa%2F1%2FA
-[/us/pl/99/551/s7/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs7%2Fa%2F1%2FB
-[/us/pl/98/288/s14/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fc%2F1
-[/us/pl/98/288/s14/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fc%2F2
-[/us/pl/98/288/s14/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fc%2F3
-[/us/pl/98/288/s14/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fc%2F4
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s2971d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2971d
 [/us/usc/t42/s5061/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5061%2F4
-[/us/pl/97/35/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs608%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/94/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F293
-[/us/pl/94/135/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs205%2Fb%2F1
-[/us/pl/94/135/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs205%2Fb%2F2
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
@@ -255,7 +255,7 @@
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/pl/99/551/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs11
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/99/551/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs7%2Fa%2F2
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3075
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/95/478/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs504

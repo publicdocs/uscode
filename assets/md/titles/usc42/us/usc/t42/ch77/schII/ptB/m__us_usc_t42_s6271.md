@@ -51,13 +51,13 @@
 
         (2) the allocation of available oil referred to in chapter III of the international energy program has been activated pursuant to chapter IV of such program.
 
-([Pub. L. 94–163, title II, § 251][/us/pl/94/163/s251], Dec. 22, 1975, [89 Stat. 894][/us/stat/89/894]; [Pub. L. 97–229, § 2(b)(1)][/us/pl/97/229/s2/b/1], Aug. 3, 1982, [96 Stat. 248][/us/stat/96/248]; [Pub. L. 105–177, § 1(3)][/us/pl/105/177/s1/3], June 1, 1998, [112 Stat. 105][/us/stat/112/105].)
+([Pub. L. 94–163, title II][/us/pl/94/163/tII], § 251, Dec. 22, 1975, [89 Stat. 894][/us/stat/89/894]; [Pub. L. 97–229][/us/pl/97/229], § 2(b)(1), Aug. 3, 1982, [96 Stat. 248][/us/stat/96/248]; [Pub. L. 105–177][/us/pl/105/177], § 1(3), June 1, 1998, [112 Stat. 105][/us/stat/112/105].)
 
  __References in Text__ 
 
     [Section 753 of title 15][/us/usc/t15/s753], referred to in subsec. (c), was omitted from the Code pursuant to [section 760g of Title 15][/us/usc/t15/s760g], Commerce and Trade, which provided for the expiration of the President’s authority under that section on Sept. 30, 1981.
 
-    [Section 6212 of this title][/us/usc/t42/s6212], referred to in subsec. (d), was repealed by [Pub. L. 114–113, div. O, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987].
+    [Section 6212 of this title][/us/usc/t42/s6212], referred to in subsec. (d), was repealed by [Pub. L. 114–113, div. O, title I][/us/pl/114/113/dO/tI], § 101(a), Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987].
 
  __Amendments__ 
 
@@ -74,16 +74,16 @@
 
 [/us/usc/t30/s185/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185%2Fu
 [/us/usc/t42/s6272/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6272%2Fk%2F1
-[/us/pl/94/163/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs251
+[/us/pl/94/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtII
 [/us/stat/89/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F894
-[/us/pl/97/229/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs2%2Fb%2F1
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/stat/96/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F248
-[/us/pl/105/177/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177%2Fs1%2F3
+[/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
 [/us/stat/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F105
 [/us/usc/t15/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs753
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
 [/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
-[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/pl/114/113/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtI
 [/us/stat/129/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2987
 [/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
 [/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229

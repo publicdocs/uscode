@@ -23,7 +23,7 @@
 
         Notwithstanding [section 3796d–2(b) of this title][/us/usc/t42/s3796d–2/b], the Attorney General shall issue regulations regarding the use of a sliding scale based on financial need to ensure that an eligible person who is in financial need receives priority in receiving funds under this part.
 
-([Pub. L. 90–351, title I, § 1214][/us/pl/90/351/s1214], as added [Pub. L. 104–238, § 2(2)][/us/pl/104/238/s2/2], Oct. 3, 1996, [110 Stat. 3115][/us/stat/110/3115]; amended [Pub. L. 105–390, § 2(4)][/us/pl/105/390/s2/4], Nov. 13, 1998, [112 Stat. 3495][/us/stat/112/3495]; [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G)][/us/pl/112/239/s1086/b/1/G], Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1214, as added [Pub. L. 104–238][/us/pl/104/238], § 2(2), Oct. 3, 1996, [110 Stat. 3115][/us/stat/110/3115]; amended [Pub. L. 105–390][/us/pl/105/390], § 2(4), Nov. 13, 1998, [112 Stat. 3495][/us/stat/112/3495]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1086(b)(1)(G), Jan. 2, 2013, [126 Stat. 1968][/us/stat/126/1968].)
 
  __Amendments__ 
 
@@ -43,12 +43,12 @@
 ----------
 
 [/us/usc/t42/s3796d–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796d%E2%80%932%2Fb
-[/us/pl/90/351/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1214
-[/us/pl/104/238/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238%2Fs2%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/104/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238
 [/us/stat/110/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3115
-[/us/pl/105/390/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390%2Fs2%2F4
+[/us/pl/105/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390
 [/us/stat/112/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3495
-[/us/pl/112/239/s1086/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F1%2FG
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1968
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/105/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390

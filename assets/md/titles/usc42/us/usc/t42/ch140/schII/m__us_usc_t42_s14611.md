@@ -27,7 +27,7 @@
 
     (5) such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.
 
-([Pub. L. 105–251, title II, § 212][/us/pl/105/251/s212], Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874].)
+([Pub. L. 105–251, title II][/us/pl/105/251/tII], § 212, Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/251/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs212
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1874
 
 

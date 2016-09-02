@@ -59,15 +59,15 @@
 
         (3) Carrying out demonstration projects in which chiropractors and physicians collaborate to identify and provide effective treatment for spinal and lower-back conditions.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 755, as added [Pub. L. 105–392, title I, § 103][/us/pl/105/392/s103], Nov. 13, 1998, [112 Stat. 3548][/us/stat/112/3548].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 755, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 103, Nov. 13, 1998, [112 Stat. 3548][/us/stat/112/3548].)
 
  __Prior Provisions__ 
 
-    A prior section 294e, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 767, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2048][/us/stat/106/2048], authorized grants and contracts for establishment of programs to increase number of allied health professionals, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
+    A prior section 294e, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 767, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2048][/us/stat/106/2048], authorized grants and contracts for establishment of programs to increase number of allied health professionals, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
 
-    Another prior section 294e, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 732, as added Oct. 12, 1976, [Pub. L. 94–484, title IV, § 401(b)(3)][/us/pl/94/484/s401/b/3], [90 Stat. 2260][/us/stat/90/2260]; amended Aug. 1, 1977, [Pub. L. 95–83, title III, § 307(c)(3)][/us/pl/95/83/s307/c/3], (4), [91 Stat. 390][/us/stat/91/390]; Dec. 19, 1977, [Pub. L. 95–215, § 4(e)(8)][/us/pl/95/215/s4/e/8], (9), [91 Stat. 1506][/us/stat/91/1506]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2729][/us/pl/97/35/s2729], [95 Stat. 918][/us/stat/95/918]; Oct. 22, 1985, [Pub. L. 99–129, title II, § 208(e)][/us/pl/99/129/s208/e], [99 Stat. 531][/us/stat/99/531]; Nov. 4, 1988, [Pub. L. 100–607, title VI, § 602(g)][/us/pl/100/607/s602/g], [102 Stat. 3123][/us/stat/102/3123], related to certificates of loan insurance, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292e of this title][/us/usc/t42/s292e].
+    Another prior section 294e, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 732, as added Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 401(b)(3), [90 Stat. 2260][/us/stat/90/2260]; amended Aug. 1, 1977, [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 307(c)(3), (4), [91 Stat. 390][/us/stat/91/390]; Dec. 19, 1977, [Pub. L. 95–215][/us/pl/95/215], § 4(e)(8), (9), [91 Stat. 1506][/us/stat/91/1506]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2729, [95 Stat. 918][/us/stat/95/918]; Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 208(e), [99 Stat. 531][/us/stat/99/531]; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 602(g), [102 Stat. 3123][/us/stat/102/3123], related to certificates of loan insurance, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292e of this title][/us/usc/t42/s292e].
 
-    Another prior section 294e, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 744, formerly § 745, as added Sept. 24, 1963, [Pub. L. 88–129, § 2(b)][/us/pl/88/129/s2/b], [77 Stat. 173][/us/stat/77/173]; amended Nov. 18, 1971, [Pub. L. 92–157, title I, § 105(f)(2)][/us/pl/92/157/s105/f/2], [85 Stat. 451][/us/stat/85/451]; renumbered § 744, Oct. 12, 1976, [Pub. L. 94–484, title IV, § 406(a)(2)][/us/pl/94/484/s406/a/2], [90 Stat. 2268][/us/stat/90/2268], which related to administrative provisions, was transferred to [section 294q of this title][/us/usc/t42/s294q].
+    Another prior section 294e, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 744, formerly § 745, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(b), [77 Stat. 173][/us/stat/77/173]; amended Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 105(f)(2), [85 Stat. 451][/us/stat/85/451]; renumbered § 744, Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 406(a)(2), [90 Stat. 2268][/us/stat/90/2268], which related to administrative provisions, was transferred to [section 294q of this title][/us/usc/t42/s294q].
 
 ----------
 
@@ -77,33 +77,33 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs103
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3548
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2048
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs401%2Fb%2F3
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2260
-[/us/pl/95/83/s307/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs307%2Fc%2F3
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F390
-[/us/pl/95/215/s4/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215%2Fs4%2Fe%2F8
+[/us/pl/95/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F215
 [/us/stat/91/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1506
-[/us/pl/97/35/s2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2729
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F918
-[/us/pl/99/129/s208/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs208%2Fe
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F531
-[/us/pl/100/607/s602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs602%2Fg
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3123
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s292e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292e
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F173
-[/us/pl/92/157/s105/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs105%2Ff%2F2
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F451
-[/us/pl/94/484/s406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs406%2Fa%2F2
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
 [/us/usc/t42/s294q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294q
 

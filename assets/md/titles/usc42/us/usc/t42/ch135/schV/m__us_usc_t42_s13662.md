@@ -33,7 +33,7 @@
 
         (3) is participating in a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
 
-([Pub. L. 105–276, title V, § 577][/us/pl/105/276/s577], Oct. 21, 1998, [112 Stat. 2640][/us/stat/112/2640].)
+([Pub. L. 105–276, title V][/us/pl/105/276/tV], § 577, Oct. 21, 1998, [112 Stat. 2640][/us/stat/112/2640].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/105/276/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs577
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2640
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

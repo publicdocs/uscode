@@ -41,7 +41,7 @@
 
         (2) Paragraph (1) does not apply to the collection, compilation, or transmittal of data in the course of a judicial proceeding.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1907, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 541][/us/stat/95/541].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1907, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 541][/us/stat/95/541].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t42/s300w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934
 [/us/usc/t42/s300w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F541
 
 

@@ -243,7 +243,7 @@
 
             The term “State” includes Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other possession of the United States.
 
-([Pub. L. 100–242, title VII, § 701][/us/pl/100/242/s701], Feb. 5, 1988, [101 Stat. 1957][/us/stat/101/1957]; [Pub. L. 100–628, title X, § 1090(a)][/us/pl/100/628/s1090/a], (b), Nov. 7, 1988, [102 Stat. 3283][/us/stat/102/3283]; [Pub. L. 102–550, title VIII, § 834(a)][/us/pl/102/550/s834/a], Oct. 28, 1992, [106 Stat. 3855][/us/stat/106/3855].)
+([Pub. L. 100–242, title VII][/us/pl/100/242/tVII], § 701, Feb. 5, 1988, [101 Stat. 1957][/us/stat/101/1957]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1090(a), (b), Nov. 7, 1988, [102 Stat. 3283][/us/stat/102/3283]; [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], § 834(a), Oct. 28, 1992, [106 Stat. 3855][/us/stat/106/3855].)
 
  __References in Text__ 
 
@@ -253,17 +253,17 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a)(4)(B). [Pub. L. 102–550, § 834(a)(1)][/us/pl/102/550/s834/a/1], substituted “the date of the enactment of the Housing and Community Development Act of 1992 occurs” for “the effective date of the regulations described in subparagraph (A) occurs”.
+    1992—Subsec. (a)(4)(B). [Pub. L. 102–550][/us/pl/102/550], § 834(a)(1), substituted “the date of the enactment of the Housing and Community Development Act of 1992 occurs” for “the effective date of the regulations described in subparagraph (A) occurs”.
 
-    Subsec. (c)(3)(B). [Pub. L. 102–550, § 834(a)(2)][/us/pl/102/550/s834/a/2], substituted “October 28, 1992” for “February 5, 1988”.
+    Subsec. (c)(3)(B). [Pub. L. 102–550][/us/pl/102/550], § 834(a)(2), substituted “October 28, 1992” for “February 5, 1988”.
 
-    1988—Subsec. (a)(2)(B). [Pub. L. 100–628, § 1090(b)][/us/pl/100/628/s1090/b], substituted “under subparagraph (A)” for “under clause (i)” in introductory provisions.
+    1988—Subsec. (a)(2)(B). [Pub. L. 100–628][/us/pl/100/628], § 1090(b), substituted “under subparagraph (A)” for “under clause (i)” in introductory provisions.
 
-    Subsec. (a)(3)(A). [Pub. L. 100–628, § 1090(a)][/us/pl/100/628/s1090/a], amended first sentence generally. Prior to amendment, first sentence read as follows: “Except as provided in subparagraph (B), the Secretary shall designate the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C), (D), and (E) of subsection (c)(3) of this section.”
+    Subsec. (a)(3)(A). [Pub. L. 100–628][/us/pl/100/628], § 1090(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “Except as provided in subparagraph (B), the Secretary shall designate the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C), (D), and (E) of subsection (c)(3) of this section.”
 
  __Regulations__ 
 
-[Pub. L. 100–628, title X, § 1090(c)][/us/pl/100/628/s1090/c], Nov. 7, 1988, [102 Stat. 3283][/us/stat/102/3283], provided that: 
+[Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1090(c), Nov. 7, 1988, [102 Stat. 3283][/us/stat/102/3283], provided that: 
 
 > “Not later than 30 days after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary of Housing and Urban Development shall revise the regulations issued by the Secretary to carry out title VII of the Housing and Community Development Act of 1987 ([42 U.S.C. 11501][/us/usc/t42/s11501] et seq.) by issuing a final regulation, effective upon the date of publication, that carries out the amendments made by this section \[amending this section\].”
 
@@ -277,21 +277,21 @@
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
-[/us/pl/100/242/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs701
+[/us/pl/100/242/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtVII
 [/us/stat/101/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1957
-[/us/pl/100/628/s1090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1090%2Fa
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3283
-[/us/pl/102/550/s834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs834%2Fa
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3855
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
-[/us/pl/102/550/s834/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs834%2Fa%2F1
-[/us/pl/102/550/s834/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs834%2Fa%2F2
-[/us/pl/100/628/s1090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1090%2Fb
-[/us/pl/100/628/s1090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1090%2Fa
-[/us/pl/100/628/s1090/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1090%2Fc
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3283
 [/us/usc/t42/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11501
 

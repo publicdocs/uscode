@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_ch59_ptB.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
+[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4511...4524.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
 
 ## § 4525. Real property taxation
 
     Nothing in this part shall be construed to exempt any real property that may be acquired and held by the Secretary as a result of the exercise of lien or subrogation rights from real property taxation to the same extent, according to its value, as other real property is taxed.
 
-([Pub. L. 91–609, title VII, § 724][/us/pl/91/609/s724], Dec. 31, 1970, [84 Stat. 1801][/us/stat/84/1801].)
+([Pub. L. 91–609, title VII][/us/pl/91/609/tVII], § 724, Dec. 31, 1970, [84 Stat. 1801][/us/stat/84/1801].)
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_ch59_ptB.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
+[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4511...4524.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
 
 ----------
 ----------
 
-[/us/pl/91/609/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs724
+[/us/pl/91/609/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtVII
 [/us/stat/84/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1801
 
 

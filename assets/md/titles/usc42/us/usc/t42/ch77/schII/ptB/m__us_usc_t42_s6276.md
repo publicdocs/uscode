@@ -123,13 +123,13 @@
 
         (2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section, and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
 
-    (g) __Repealed.__  __[__  __Pub. L. 102–486, title XII, § 1207(c)__  __][/us/pl/102/486/s1207/c]__  __,__  __Oct. 24, 1992__  __,__  __[__  __106 Stat. 2963__  __][/us/stat/106/2963]__ 
+    (g) __Repealed.__  __[__  __Pub. L. 102–486, title XII__  __][/us/pl/102/486/tXII]__  __, § 1207(c),__  __Oct. 24, 1992__  __,__  __[__  __106 Stat. 2963__  __][/us/stat/106/2963]__ 
 
     (h) __Authorization of appropriations__ 
 
         There are authorized to be appropriated such sums as may be necessary to implement this part, to remain available until expended.
 
-([Pub. L. 94–163, title II, § 256][/us/pl/94/163/s256], as added [Pub. L. 98–370, § 2][/us/pl/98/370/s2], July 18, 1984, [98 Stat. 1211][/us/stat/98/1211]; amended [Pub. L. 101–218, § 7][/us/pl/101/218/s7], Dec. 11, 1989, [103 Stat. 1867][/us/stat/103/1867]; [Pub. L. 102–486, title XII][/us/pl/102/486], §§ 1207, 1208, Oct. 24, 1992, [106 Stat. 2962][/us/stat/106/2962], 2964; [Pub. L. 104–306, § 1(3)][/us/pl/104/306/s1/3], Oct. 14, 1996, [110 Stat. 3810][/us/stat/110/3810]; [Pub. L. 106–469, title I, § 104(2)][/us/pl/106/469/s104/2], Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033]; [Pub. L. 108–7, div. F, title III, § 339(b)(1)][/us/pl/108/7/s339/b/1], Feb. 20, 2003, [117 Stat. 278][/us/stat/117/278].)
+([Pub. L. 94–163, title II][/us/pl/94/163/tII], § 256, as added [Pub. L. 98–370][/us/pl/98/370], § 2, July 18, 1984, [98 Stat. 1211][/us/stat/98/1211]; amended [Pub. L. 101–218][/us/pl/101/218], § 7, Dec. 11, 1989, [103 Stat. 1867][/us/stat/103/1867]; [Pub. L. 102–486, title XII][/us/pl/102/486/tXII], §§ 1207, 1208, Oct. 24, 1992, [106 Stat. 2962][/us/stat/106/2962], 2964; [Pub. L. 104–306][/us/pl/104/306], § 1(3), Oct. 14, 1996, [110 Stat. 3810][/us/stat/110/3810]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 104(2), Nov. 9, 2000, [114 Stat. 2033][/us/stat/114/2033]; [Pub. L. 108–7, div. F, title III][/us/pl/108/7/dF/tIII], § 339(b)(1), Feb. 20, 2003, [117 Stat. 278][/us/stat/117/278].)
 
  __References in Text__ 
 
@@ -147,19 +147,19 @@
 
     1996—Subsec. (h). [Pub. L. 104–306][/us/pl/104/306] inserted at end “There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.”
 
-    1992—Subsec. (d). [Pub. L. 102–486, § 1207(a)][/us/pl/102/486/s1207/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+    1992—Subsec. (d). [Pub. L. 102–486][/us/pl/102/486], § 1207(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
     “(1) There shall be established an interagency working group which, in consultation with the representative industry groups and relevant agency heads, shall make recommendations to coordinate the actions and programs of the Federal Government affecting commerce in renewable energy products and related services. The Secretary of Energy shall be the chairman of such group. The heads of appropriate agencies may detail such personnel and may furnish such services to such working group, with or without reimbursement, as may be necessary to carry out its functions.
 
     “(2) The interagency group shall establish a program to inform other countries of the benefits of policies that would allow small facilities which produce renewable energy to compete effectively with producers of energy from nonrenewable sources.”
 
-    Subsec. (d)(4). [Pub. L. 102–486, § 1208][/us/pl/102/486/s1208], added par. (4).
+    Subsec. (d)(4). [Pub. L. 102–486][/us/pl/102/486], § 1208, added par. (4).
 
-    Subsec. (f)(1). [Pub. L. 102–486, § 1207(b)][/us/pl/102/486/s1207/b], inserted “and energy efficiency” after “renewable energy” wherever appearing.
+    Subsec. (f)(1). [Pub. L. 102–486][/us/pl/102/486], § 1207(b), inserted “and energy efficiency” after “renewable energy” wherever appearing.
 
-    Subsec. (g). [Pub. L. 102–486, § 1207(c)][/us/pl/102/486/s1207/c], struck out subsec. (g) which read as follows: “For purposes of this section, the term ‘renewable energy’ includes energy efficiency to the extent it is a part of a renewable energy system or technology.”
+    Subsec. (g). [Pub. L. 102–486][/us/pl/102/486], § 1207(c), struck out subsec. (g) which read as follows: “For purposes of this section, the term ‘renewable energy’ includes energy efficiency to the extent it is a part of a renewable energy system or technology.”
 
-    Subsec. (h). [Pub. L. 102–486, § 1207(d)][/us/pl/102/486/s1207/d], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “There are authorized to be appropriated to the Secretary for activities of the interagency working group established under subsection (d) of this section not to exceed—
+    Subsec. (h). [Pub. L. 102–486][/us/pl/102/486], § 1207(d), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “There are authorized to be appropriated to the Secretary for activities of the interagency working group established under subsection (d) of this section not to exceed—
 
     “(1) $3,000,000 for fiscal year 1991;
 
@@ -167,17 +167,17 @@
 
     “(3) $3,600,000 for fiscal year 1993.”
 
-    1989—Subsec. (c)(2)(D)(i). [Pub. L. 101–218, § 7(a)(1)][/us/pl/101/218/s7/a/1], inserted “and to potential end users, including other industry sectors in foreign countries such as health care, rural development, communications, and refrigeration, and others,” after “commerce,”.
+    1989—Subsec. (c)(2)(D)(i). [Pub. L. 101–218][/us/pl/101/218], § 7(a)(1), inserted “and to potential end users, including other industry sectors in foreign countries such as health care, rural development, communications, and refrigeration, and others,” after “commerce,”.
 
-    Subsec. (c)(2)(D)(ii). [Pub. L. 101–218, § 7(a)(2)][/us/pl/101/218/s7/a/2], substituted “export and export financing opportunities” for “export opportunities”.
+    Subsec. (c)(2)(D)(ii). [Pub. L. 101–218][/us/pl/101/218], § 7(a)(2), substituted “export and export financing opportunities” for “export opportunities”.
 
-    Subsec. (d). [Pub. L. 101–218, § 7(b)][/us/pl/101/218/s7/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 101–218][/us/pl/101/218], § 7(b), designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (e) to (h). [Pub. L. 101–218, § 7(c)][/us/pl/101/218/s7/c], added subsecs. (e) to (h).
+    Subsecs. (e) to (h). [Pub. L. 101–218][/us/pl/101/218], § 7(c), added subsecs. (e) to (h).
 
  __Effective Date__ 
 
-[Pub. L. 98–370, § 3][/us/pl/98/370/s3], July 18, 1984, [98 Stat. 1212][/us/stat/98/1212], provided that: 
+[Pub. L. 98–370][/us/pl/98/370], § 3, July 18, 1984, [98 Stat. 1212][/us/stat/98/1212], provided that: 
 
 > “The amendments made by this Act \[enacting this section and a provision set out as a note under [section 6201 of this title][/us/usc/t42/s6201]\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -188,36 +188,36 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1207%2Fc
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2963
-[/us/pl/94/163/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs256
-[/us/pl/98/370/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F370%2Fs2
+[/us/pl/94/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtII
+[/us/pl/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F370
 [/us/stat/98/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1211
-[/us/pl/101/218/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs7
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1867
-[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2962
-[/us/pl/104/306/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F306%2Fs1%2F3
+[/us/pl/104/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F306
 [/us/stat/110/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3810
-[/us/pl/106/469/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs104%2F2
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2033
-[/us/pl/108/7/s339/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs339%2Fb%2F1
+[/us/pl/108/7/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIII
 [/us/stat/117/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F278
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/pl/104/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F306
-[/us/pl/102/486/s1207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1207%2Fa
-[/us/pl/102/486/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1208
-[/us/pl/102/486/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1207%2Fb
-[/us/pl/102/486/s1207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1207%2Fc
-[/us/pl/102/486/s1207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1207%2Fd
-[/us/pl/101/218/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs7%2Fa%2F1
-[/us/pl/101/218/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs7%2Fa%2F2
-[/us/pl/101/218/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs7%2Fb
-[/us/pl/101/218/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs7%2Fc
-[/us/pl/98/370/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F370%2Fs3
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
+[/us/pl/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F370
 [/us/stat/98/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1212
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 

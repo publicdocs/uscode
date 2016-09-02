@@ -35,7 +35,7 @@
 
     (9) the term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 95–619, title V, § 551][/us/pl/95/619/s551], formerly § 549, Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3188][/us/stat/102/3188]; renumbered § 551, [Pub. L. 102–486, title I, § 152(h)(1)][/us/pl/102/486/s152/h/1], Oct. 24, 1992, [106 Stat. 2848][/us/stat/106/2848]; amended [Pub. L. 105–388, § 5(c)(5)][/us/pl/105/388/s5/c/5], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 551, formerly § 549, Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3188][/us/stat/102/3188]; renumbered § 551, [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(h)(1), Oct. 24, 1992, [106 Stat. 2848][/us/stat/106/2848]; amended [Pub. L. 105–388][/us/pl/105/388], § 5(c)(5), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
 
  __Prior Provisions__ 
 
@@ -56,13 +56,13 @@
 
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t16/s796/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F18%2FA
-[/us/pl/95/619/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs551
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3280
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3188
-[/us/pl/102/486/s152/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fh%2F1
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2848
-[/us/pl/105/388/s5/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fc%2F5
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
 [/us/pl/95/619/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs551
 [/us/usc/t42/s8261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8261

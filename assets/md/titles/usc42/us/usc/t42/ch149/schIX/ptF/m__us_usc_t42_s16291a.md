@@ -17,7 +17,7 @@
 
     That for all programs funded under Fossil Energy appropriations in this and subsequent Acts, the Secretary may vest fee title or other property interests acquired under projects in any entity, including the United States.
 
-([Pub. L. 113–76, div. D, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 165][/us/stat/128/165].)
+([Pub. L. 113–76, div. D, title III][/us/pl/113/76/dD/tIII], Jan. 17, 2014, [128 Stat. 165][/us/stat/128/165].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtIII
 [/us/stat/128/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F165
 [/us/pl/113/76/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs3
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1

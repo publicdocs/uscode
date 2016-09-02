@@ -79,7 +79,7 @@
 
             The Corporation shall determine how the funds reserved under [section 12681(a)(1)(C) of this title][/us/usc/t42/s12681/a/1/C] for Campuses of Service for a fiscal year will be allocated among the institutions submitting acceptable plans under paragraph (2). In determining the amount of funds to be allocated to such an institution, the Corporation shall consider the number of students at the institution, the quality and scope of the plan submitted by the institution under paragraph (2), and the institution’s current (as of the date of submission of the plan) strategies to encourage or assist students to pursue public service careers in the nonprofit sector or government.
 
-([Pub. L. 101–610, title I, § 118A][/us/pl/101/610/s118A], as added [Pub. L. 111–13, title I, § 1203][/us/pl/111/13/s1203], Apr. 21, 2009, [123 Stat. 1477][/us/stat/123/1477].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 118A, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1203, Apr. 21, 2009, [123 Stat. 1477][/us/stat/123/1477].)
 
  __References in Text__ 
 
@@ -100,8 +100,8 @@
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t42/s12681/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12681%2Fa%2F1%2FC
 [/us/usc/t42/s12681/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12681%2Fa%2F1%2FC
-[/us/pl/101/610/s118A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs118A
-[/us/pl/111/13/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1203
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1477
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

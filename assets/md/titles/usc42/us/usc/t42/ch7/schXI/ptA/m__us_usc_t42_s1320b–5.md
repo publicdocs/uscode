@@ -139,7 +139,7 @@
 
             The term “health care provider” means any entity that furnishes health care items or services, and includes a hospital or other provider of services, a physician or other health care practitioner or professional, a health care facility, or a supplier of health care items or services.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1135, as added [Pub. L. 107–188, title I, § 143(a)][/us/pl/107/188/s143/a], June 12, 2002, [116 Stat. 627][/us/stat/116/627]; amended [Pub. L. 108–276, § 9][/us/pl/108/276/s9], July 21, 2004, [118 Stat. 863][/us/stat/118/863]; [Pub. L. 109–417, title III, § 302(b)(1)][/us/pl/109/417/s302/b/1], Dec. 19, 2006, [120 Stat. 2855][/us/stat/120/2855].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1135, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 143(a), June 12, 2002, [116 Stat. 627][/us/stat/116/627]; amended [Pub. L. 108–276][/us/pl/108/276], § 9, July 21, 2004, [118 Stat. 863][/us/stat/118/863]; [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 302(b)(1), Dec. 19, 2006, [120 Stat. 2855][/us/stat/120/2855].)
 
  __References in Text__ 
 
@@ -151,19 +151,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 1320b–5, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1135, as added [Pub. L. 97–35, title XXI, § 2173(c)][/us/pl/97/35/s2173/c], Aug. 13, 1981, [95 Stat. 809][/us/stat/95/809]; amended [Pub. L. 97–248, title I, § 101(b)(3)][/us/pl/97/248/s101/b/3], Sept. 3, 1982, [96 Stat. 335][/us/stat/96/335]; [Pub. L. 99–509, title IX, § 9343(f)][/us/pl/99/509/s9343/f], Oct. 21, 1986, [100 Stat. 2041][/us/stat/100/2041]; [Pub. L. 100–203, title IV, § 4068(b)][/us/pl/100/203/s4068/b], Dec. 22, 1987, [101 Stat. 1330–114][/us/stat/101/1330-114]; [Pub. L. 100–360, title IV, § 411(g)(6)][/us/pl/100/360/s411/g/6], July 1, 1988, [102 Stat. 785][/us/stat/102/785]; [Pub. L. 103–432, title I, § 147(c)(2)][/us/pl/103/432/s147/c/2], Oct. 31, 1994, [108 Stat. 4429][/us/stat/108/4429], related to development of model prospective rate methodology, prior to repeal by [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(l)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–368, effective Nov. 29, 1999.
+    A prior section 1320b–5, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1135, as added [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2173(c), Aug. 13, 1981, [95 Stat. 809][/us/stat/95/809]; amended [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 101(b)(3), Sept. 3, 1982, [96 Stat. 335][/us/stat/96/335]; [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9343(f), Oct. 21, 1986, [100 Stat. 2041][/us/stat/100/2041]; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4068(b), Dec. 22, 1987, [101 Stat. 1330–114][/us/stat/101/1330-114]; [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(g)(6), July 1, 1988, [102 Stat. 785][/us/stat/102/785]; [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 147(c)(2), Oct. 31, 1994, [108 Stat. 4429][/us/stat/108/4429], related to development of model prospective rate methodology, prior to repeal by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title III, § 321(l)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–368, effective Nov. 29, 1999.
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–417, § 302(b)(1)(B)][/us/pl/109/417/s302/b/1/B], (C), in concluding provisions, substituted “and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to” for “and shall be limited to” and inserted at end “If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.”
+    2006—Subsec. (b). [Pub. L. 109–417][/us/pl/109/417], § 302(b)(1)(B), (C), in concluding provisions, substituted “and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to” for “and shall be limited to” and inserted at end “If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.”
 
-    Subsec. (b)(3)(B). [Pub. L. 109–417, § 302(b)(1)(A)][/us/pl/109/417/s302/b/1/A], added subpar. (B) and struck out former subpar. (B) which read as follows: “the direction or relocation of an individual to receive medical screening in an alternate location pursuant to an appropriate State emergency preparedness plan;”.
+    Subsec. (b)(3)(B). [Pub. L. 109–417][/us/pl/109/417], § 302(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “the direction or relocation of an individual to receive medical screening in an alternate location pursuant to an appropriate State emergency preparedness plan;”.
 
-    2004—Subsec. (b). [Pub. L. 108–276, § 9(5)][/us/pl/108/276/s9/5], inserted at end of concluding provisions: “A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider.”
+    2004—Subsec. (b). [Pub. L. 108–276][/us/pl/108/276], § 9(5), inserted at end of concluding provisions: “A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider.”
 
-    Subsec. (b)(3). [Pub. L. 108–276, § 9(1)][/us/pl/108/276/s9/1], added par. (3) and struck out former par. (3) which read as follows: “sanctions under [section 1395dd of this title][/us/usc/t42/s1395dd] (relating to examination and treatment for emergency medical conditions and women in labor) for a transfer of an individual who has not been stabilized in violation of subsection (c) of this section of such section if the transfer arises out of the circumstances of the emergency;”.
+    Subsec. (b)(3). [Pub. L. 108–276][/us/pl/108/276], § 9(1), added par. (3) and struck out former par. (3) which read as follows: “sanctions under [section 1395dd of this title][/us/usc/t42/s1395dd] (relating to examination and treatment for emergency medical conditions and women in labor) for a transfer of an individual who has not been stabilized in violation of subsection (c) of this section of such section if the transfer arises out of the circumstances of the emergency;”.
 
-    Subsec. (b)(7). [Pub. L. 108–276, § 9(2)][/us/pl/108/276/s9/2]–(4), added par. (7).
+    Subsec. (b)(7). [Pub. L. 108–276][/us/pl/108/276], § 9(2)–(4), added par. (7).
 
  __Change of Name__ 
 
@@ -171,13 +171,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–417, title III, § 302(b)(2)][/us/pl/109/417/s302/b/2], Dec. 19, 2006, [120 Stat. 2856][/us/stat/120/2856], provided that: 
+[Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 302(b)(2), Dec. 19, 2006, [120 Stat. 2856][/us/stat/120/2856], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2006\] and shall apply to public health emergencies declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d][/us/usc/t42/s247d]) on or after such date.”
 
  __Effective Date__ 
 
-[Pub. L. 107–188, title I, § 143(b)][/us/pl/107/188/s143/b], June 12, 2002, [116 Stat. 629][/us/stat/116/629], provided that: 
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 143(b), June 12, 2002, [116 Stat. 629][/us/stat/116/629], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall be effective on and after September 11, 2001.”
 
@@ -196,11 +196,11 @@
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/107/188/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs143%2Fa
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F627
-[/us/pl/108/276/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs9
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F863
-[/us/pl/109/417/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs302%2Fb%2F1
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2855
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
@@ -210,33 +210,33 @@
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2173/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2173%2Fc
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F809
-[/us/pl/97/248/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs101%2Fb%2F3
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F335
-[/us/pl/99/509/s9343/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9343%2Ff
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2041
-[/us/pl/100/203/s4068/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4068%2Fb
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-114
-[/us/pl/100/360/s411/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fg%2F6
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F785
-[/us/pl/103/432/s147/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs147%2Fc%2F2
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4429
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/417/s302/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs302%2Fb%2F1%2FB
-[/us/pl/109/417/s302/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs302%2Fb%2F1%2FA
-[/us/pl/108/276/s9/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs9%2F5
-[/us/pl/108/276/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs9%2F1
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
-[/us/pl/108/276/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs9%2F2
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/pl/108/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/109/417/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs302%2Fb%2F2
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2856
 [/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
-[/us/pl/107/188/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs143%2Fb
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F629
 
 

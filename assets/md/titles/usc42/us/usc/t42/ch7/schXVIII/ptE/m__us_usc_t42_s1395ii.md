@@ -17,7 +17,7 @@
 
     The provisions of sections 406 and 416(j) of this title, and of subsections (a), (d), (e), (h), (i), (j), (k), and (l) of [section 405 of this title][/us/usc/t42/s405], shall also apply with respect to this subchapter to the same extent as they are applicable with respect to subchapter II of this chapter, except that, in applying such provisions with respect to this subchapter, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1872, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 332][/us/stat/79/332]; amended [Pub. L. 92–603, title II, § 242(a)][/us/pl/92/603/s242/a], Oct. 30, 1972, [86 Stat. 1419][/us/stat/86/1419]; [Pub. L. 98–369, div. B, title III, § 2354(b)(36)][/us/pl/98/369/s2354/b/36], July 18, 1984, [98 Stat. 1102][/us/stat/98/1102]; [Pub. L. 103–296, title I, § 108(c)(4)][/us/pl/103/296/s108/c/4], Aug. 15, 1994, [108 Stat. 1485][/us/stat/108/1485].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1872, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 102(a), July 30, 1965, [79 Stat. 332][/us/stat/79/332]; amended [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 242(a), Oct. 30, 1972, [86 Stat. 1419][/us/stat/86/1419]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2354(b)(36), July 18, 1984, [98 Stat. 1102][/us/stat/98/1102]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(c)(4), Aug. 15, 1994, [108 Stat. 1485][/us/stat/108/1485].)
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F332
-[/us/pl/92/603/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs242%2Fa
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1419
-[/us/pl/98/369/s2354/b/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fb%2F36
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1102
-[/us/pl/103/296/s108/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fc%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1485
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

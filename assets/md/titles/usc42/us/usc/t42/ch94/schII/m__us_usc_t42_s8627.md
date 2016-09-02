@@ -37,7 +37,7 @@
 
         In conducting any investigation under subsection (b) of this section, the Secretary may not request any information not readily available to such State or require that any information be compiled, collected, or transmitted in any new form not already available.
 
-([Pub. L. 97–35, title XXVI, § 2608][/us/pl/97/35/s2608], Aug. 13, 1981, [95 Stat. 901][/us/stat/95/901]; [Pub. L. 98–558, title VI, § 608][/us/pl/98/558/s608], Oct. 30, 1984, [98 Stat. 2893][/us/stat/98/2893]; [Pub. L. 101–501, title VII, § 708][/us/pl/101/501/s708], Nov. 3, 1990, [104 Stat. 1261][/us/stat/104/1261].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2608, Aug. 13, 1981, [95 Stat. 901][/us/stat/95/901]; [Pub. L. 98–558, title VI][/us/pl/98/558/tVI], § 608, Oct. 30, 1984, [98 Stat. 2893][/us/stat/98/2893]; [Pub. L. 101–501, title VII][/us/pl/101/501/tVII], § 708, Nov. 3, 1990, [104 Stat. 1261][/us/stat/104/1261].)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 [/us/usc/t42/s8624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624
 [/us/usc/t42/s8624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624
 [/us/usc/t42/s8624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624%2Fb
-[/us/pl/97/35/s2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2608
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F901
-[/us/pl/98/558/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs608
+[/us/pl/98/558/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVI
 [/us/stat/98/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2893
-[/us/pl/101/501/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs708
+[/us/pl/101/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtVII
 [/us/stat/104/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1261
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558

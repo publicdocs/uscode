@@ -51,7 +51,7 @@
 
         (2) each update of such inventory.
 
-([Pub. L. 109–58, title IV, § 437][/us/pl/109/58/s437], Aug. 8, 2005, [119 Stat. 762][/us/stat/119/762].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 437, Aug. 8, 2005, [119 Stat. 762][/us/stat/119/762].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs437
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F762
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

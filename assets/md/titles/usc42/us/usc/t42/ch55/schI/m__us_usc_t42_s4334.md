@@ -17,7 +17,7 @@
 
     Nothing in section 4332 or 4333 of this title shall in any way affect the specific statutory obligations of any Federal agency (1) to comply with criteria or standards of environmental quality, (2) to coordinate or consult with any other Federal or State agency, or (3) to act, or refrain from acting contingent upon the recommendations or certification of any other Federal or State agency.
 
-([Pub. L. 91–190, title I, § 104][/us/pl/91/190/s104], Jan. 1, 1970, [83 Stat. 854][/us/stat/83/854].)
+([Pub. L. 91–190, title I][/us/pl/91/190/tI], § 104, Jan. 1, 1970, [83 Stat. 854][/us/stat/83/854].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/190/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs104
+[/us/pl/91/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtI
 [/us/stat/83/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F854
 
 

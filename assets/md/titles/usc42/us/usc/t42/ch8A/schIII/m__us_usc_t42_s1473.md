@@ -19,7 +19,7 @@
 
     Except as provided in title 11, this agreement with respect to credits or principal and interest upon the borrower’s indebtedness shall not be assignable nor accrue to the benefit of any third party without the written consent of the Secretary and the Secretary shall have the right, at his option, to cancel the agreement upon the sale of the farm or the execution or creation of any lien thereon subsequent to the lien given to the Secretary, or to refuse to release the lien given to the Secretary except upon payment in cash of the entire original principal plus accrued interest thereon less actual cash payments of principal and interest when the Secretary determines that the release of the lien would permit the benefits of this section to accrue to a person not eligible to receive such benefits.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 503, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 95–598, title III, § 329][/us/pl/95/598/s329], Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 503, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 329, Nov. 6, 1978, [92 Stat. 2679][/us/stat/92/2679].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1472
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F434
-[/us/pl/95/598/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs329
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2679
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598

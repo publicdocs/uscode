@@ -17,7 +17,7 @@
 
     Of the amounts appropriated to the Foundation for the Program, as authorized under section 101 of this Act, in each fiscal year, at least 12 percent shall be reserved for historically Black colleges or universities defined as “part B institutions” by [section 1061(2) of title 20][/us/usc/t20/s1061/2] and other institutions of higher education whose enrollment includes a substantial percentage of students who are Black Americans, Hispanic Americans, or Native Americans.
 
-([Pub. L. 100–570, title II, § 205][/us/pl/100/570/s205], Oct. 31, 1988, [102 Stat. 2877][/us/stat/102/2877].)
+([Pub. L. 100–570, title II][/us/pl/100/570/tII], § 205, Oct. 31, 1988, [102 Stat. 2877][/us/stat/102/2877].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t20/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061%2F2
-[/us/pl/100/570/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs205
+[/us/pl/100/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtII
 [/us/stat/102/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2877
 [/us/pl/100/570/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs101
 [/us/stat/102/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2865

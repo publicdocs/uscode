@@ -97,7 +97,7 @@
 
                 There are authorized to be appropriated to carry out this paragraph $3,000,000 for fiscal year 2011, to remain available until expended.
 
-([June 4, 1946, ch. 281, § 9A][/us/act/1946-06-04/ch281/s9A], as added [Pub. L. 111–296, title II, § 204(a)][/us/pl/111/296/s204/a], Dec. 13, 2010, [124 Stat. 3216][/us/stat/124/3216].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 9A, as added [Pub. L. 111–296, title II][/us/pl/111/296/tII], § 204(a), Dec. 13, 2010, [124 Stat. 3216][/us/stat/124/3216].)
 
  __References in Text__ 
 
@@ -116,8 +116,8 @@
 
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
-[/us/act/1946-06-04/ch281/s9A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs9A
-[/us/pl/111/296/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs204%2Fa
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/111/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtII
 [/us/stat/124/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3216
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make funds available to participating jurisdictions for investment to increase the number of families served with decent, safe, sanitary, and affordable housing and expand the long-term supply of affordable housing in accordance with provisions of this part.
 
-([Pub. L. 101–625, title II, § 211][/us/pl/101/625/s211], Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 211, Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs211
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4096
 
 

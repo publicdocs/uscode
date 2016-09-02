@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–74, div. F, title II, § 221(a)(1)(A)][/us/pl/112/74/s221/a/1/A], Dec. 23, 2011, [125 Stat. 1086][/us/stat/125/1086], substituted “advancing translational sciences” for “research resources” in subpart heading.
+    2011—[Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(a)(1)(A), Dec. 23, 2011, [125 Stat. 1086][/us/stat/125/1086], substituted “advancing translational sciences” for “research resources” in subpart heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/74/s221/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fa%2F1%2FA
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1086
 
 

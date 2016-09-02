@@ -99,11 +99,11 @@
 
             The Secretary shall limit bonus payments under this section as necessary to ensure that the aggregate expenditures under this subchapter (inclusive of bonus payments) with respect to patients within the scope of the demonstration do not exceed the amount which the Secretary estimates would be expended if the demonstration projects under this section were not implemented.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866A, as added [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 412(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–509.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866A, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IV, § 412(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–509.)
 
  __GAO Report__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 412(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–515, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IV, § 412(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–515, provided that: 
 
 > “Not later than 2 years after the date on which the demonstration project under section 1866A of the Social Security Act \[[42 U.S.C. 1395cc–1][/us/usc/t42/s1395cc–1]\], as added by subsection (a), is implemented, the Comptroller General of the United States shall submit to Congress a report on such demonstration project. The report shall include such recommendations with respect to changes to the demonstration project that the Comptroller General determines appropriate.”
 
@@ -116,9 +116,9 @@
 
 [/us/usc/t42/s1395cc–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%932
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1395cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%931
 

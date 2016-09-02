@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 111–84, div. E, § 4705][/us/pl/111/84/s4705], Oct. 28, 2009, [123 Stat. 2838][/us/stat/123/2838].)
+([Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4705, Oct. 28, 2009, [123 Stat. 2838][/us/stat/123/2838].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4705
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2838
 [/us/pl/111/84/s4703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4703%2Fb
 [/us/usc/t42/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3716

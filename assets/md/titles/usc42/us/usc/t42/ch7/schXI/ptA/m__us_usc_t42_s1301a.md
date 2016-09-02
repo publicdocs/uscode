@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 26, 1940, ch. 428][/us/act/1940-06-26/ch428], title II, [54 Stat. 588][/us/stat/54/588], provided for reimbursement for official travel performed by employees of the Bureau of Old-Age Insurance, was from the Federal Security Agency Appropriation Act, 1941, and was not repeated in subsequent appropriations acts.
+    Section, [act June 26, 1940, ch. 428, title II][/us/act/1940-06-26/ch428/tII], [54 Stat. 588][/us/stat/54/588], provided for reimbursement for official travel performed by employees of the Bureau of Old-Age Insurance, was from the Federal Security Agency Appropriation Act, 1941, and was not repeated in subsequent appropriations acts.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-06-26/ch428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch428
+[/us/act/1940-06-26/ch428/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch428%2FtII
 [/us/stat/54/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F588
 
 

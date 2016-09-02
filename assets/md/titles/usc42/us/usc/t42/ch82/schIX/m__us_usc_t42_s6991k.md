@@ -57,7 +57,7 @@
 
         A person shall not be in violation of subsection (a)(1) of this section if the person has not been provided with notice pursuant to subsection (a)(2)(D) of this section of the ineligibility of a facility for delivery, deposit, or acceptance of a regulated substance as determined by the Administrator or a State, as appropriate, under this section.
 
-([Pub. L. 89–272, title II, § 9012][/us/pl/89/272/s9012], as added [Pub. L. 109–58, title XV, § 1527(a)][/us/pl/109/58/s1527/a], Aug. 8, 2005, [119 Stat. 1098][/us/stat/119/1098]; amended [Pub. L. 109–168, § 1(a)(1)][/us/pl/109/168/s1/a/1], Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9012, as added [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1527(a), Aug. 8, 2005, [119 Stat. 1098][/us/stat/119/1098]; amended [Pub. L. 109–168][/us/pl/109/168], § 1(a)(1), Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580].)
 
  __Amendments__ 
 
@@ -70,10 +70,10 @@
 ----------
 ----------
 
-[/us/pl/89/272/s9012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9012
-[/us/pl/109/58/s1527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1527%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1098
-[/us/pl/109/168/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168%2Fs1%2Fa%2F1
+[/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 [/us/stat/119/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3580
 [/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 

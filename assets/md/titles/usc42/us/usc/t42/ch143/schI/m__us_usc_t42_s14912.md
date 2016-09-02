@@ -77,7 +77,7 @@
 
         (2) carry out central authority functions through grants to, or contracts with, any individual or public or private entity, except as may be otherwise specifically provided in this chapter.
 
-([Pub. L. 106–279, title I, § 102][/us/pl/106/279/s102], Oct. 6, 2000, [114 Stat. 828][/us/stat/114/828].)
+([Pub. L. 106–279, title I][/us/pl/106/279/tI], § 102, Oct. 6, 2000, [114 Stat. 828][/us/stat/114/828].)
 
  __References in Text__ 
 
@@ -98,7 +98,7 @@
 
 [/us/usc/t42/s14921/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14921%2Fb%2F1
 [/us/usc/t42/s14923/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14923%2Fb%2F1%2FA%2Fii
-[/us/pl/106/279/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs102
+[/us/pl/106/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtI
 [/us/stat/114/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F828
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F830

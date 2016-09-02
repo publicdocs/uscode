@@ -27,7 +27,7 @@
 
         Any amount in said fund which is determined to be in excess of requirements for the purposes thereof shall be declared and paid as liquidating dividends to the Treasury, not less often than annually.
 
-([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 11, § 117, [69 Stat. 483][/us/stat/69/483]; [July 25, 1956, ch. 731, § 4][/us/act/1956-07-25/ch731/s4], [70 Stat. 654][/us/stat/70/654].)
+([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 11, § 117, [69 Stat. 483][/us/stat/69/483]; [July 25, 1956, ch. 731][/us/act/1956-07-25/ch731], § 4, [70 Stat. 654][/us/stat/70/654].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2310
 [/us/act/1955-08-04/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch543
 [/us/stat/69/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F483
-[/us/act/1956-07-25/ch731/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731%2Fs4
+[/us/act/1956-07-25/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731
 [/us/stat/70/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F654
 
 

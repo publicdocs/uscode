@@ -27,11 +27,11 @@
 
         The presentation of a flag under this section shall be at no cost to the recipient.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 213, as added [Pub. L. 106–65, div. A, title VI, § 652(b)][/us/pl/106/65/s652/b], Oct. 5, 1999, [113 Stat. 665][/us/stat/113/665].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 213, as added [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 652(b), Oct. 5, 1999, [113 Stat. 665][/us/stat/113/665].)
 
  __Prior Provisions__ 
 
-    A prior section 214, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 213, [58 Stat. 689][/us/stat/58/689]; [Apr. 27, 1956, ch. 211, § 2(a)][/us/act/1956-04-27/ch211/s2/a], [70 Stat. 116][/us/stat/70/116], authorized allowances for uniforms, prior to repeal by [Pub. L. 87–649, § 14b][/us/pl/87/649/s14b], Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499]. See [section 415 of Title 37][/us/usc/t37/s415], Pay and Allowances of the Uniformed Services.
+    A prior section 214, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 213, [58 Stat. 689][/us/stat/58/689]; [Apr. 27, 1956, ch. 211][/us/act/1956-04-27/ch211], § 2(a), [70 Stat. 116][/us/stat/70/116], authorized allowances for uniforms, prior to repeal by [Pub. L. 87–649][/us/pl/87/649], § 14b, Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499]. See [section 415 of Title 37][/us/usc/t37/s415], Pay and Allowances of the Uniformed Services.
 
  __Effective Date__ 
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/65/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs652%2Fb
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F665
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F689
-[/us/act/1956-04-27/ch211/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211%2Fs2%2Fa
+[/us/act/1956-04-27/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211
 [/us/stat/70/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F116
-[/us/pl/87/649/s14b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14b
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F499
 [/us/usc/t37/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs415
 [/us/pl/106/65/s652/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs652%2Fd

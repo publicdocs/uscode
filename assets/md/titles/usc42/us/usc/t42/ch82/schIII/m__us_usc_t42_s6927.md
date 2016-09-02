@@ -57,27 +57,27 @@
 
         (2) Not later than six months after November 8, 1984, the Administrator shall submit to the Congress a report on the potential for inspections of hazardous waste treatment, storage, or disposal facilities by nongovernmental inspectors as a supplement to inspections conducted by officers, employees, or representatives of the Environmental Protection Agency or States having authorized hazardous waste programs or operating under a cooperative agreement with the Administrator. Such report shall be prepared in cooperation with the States, insurance companies offering environmental impairment insurance, independent companies providing inspection services, and other such groups as appropriate. Such report shall contain recommendations on provisions and requirements for a program of private inspections to supplement governmental inspections.
 
-([Pub. L. 89–272, title II, § 3007][/us/pl/89/272/s3007], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2810][/us/stat/90/2810]; amended [Pub. L. 95–609, § 7(j)][/us/pl/95/609/s7/j], Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482, § 12][/us/pl/96/482/s12], Oct. 21, 1980, [94 Stat. 2339][/us/stat/94/2339]; [Pub. L. 98–616, title II][/us/pl/98/616], §§ 229–231, title V, § 502(a), Nov. 8, 1984, [98 Stat. 3255][/us/stat/98/3255], 3256, 3276; [Pub. L. 102–386, title I, § 104][/us/pl/102/386/s104], Oct. 6, 1992, [106 Stat. 1507][/us/stat/106/1507].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3007, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2810][/us/stat/90/2810]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(j), Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482][/us/pl/96/482], § 12, Oct. 21, 1980, [94 Stat. 2339][/us/stat/94/2339]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], §§ 229–231, title V, § 502(a), Nov. 8, 1984, [98 Stat. 3255][/us/stat/98/3255], 3256, 3276; [Pub. L. 102–386, title I][/us/pl/102/386/tI], § 104, Oct. 6, 1992, [106 Stat. 1507][/us/stat/106/1507].)
 
  __Amendments__ 
 
     1992—Subsec. (c). [Pub. L. 102–386][/us/pl/102/386] in first sentence substituted “The Administrator shall undertake” for “Beginning twelve months after November 8, 1984, the Administrator shall, or in the case of a State with an authorized hazardous waste program the State may, undertake” and “department, agency, or instrumentality of the United States” for “Federal agency”, inserted after first sentence “Any State with an authorized hazardous waste program also may conduct an inspection of any such facility for purposes of enforcing the facility’s compliance with the State hazardous waste program.”, and inserted at end “The department, agency, or instrumentality owning or operating each such facility shall reimburse the Environmental Protection Agency for the costs of the inspection of the facility. With respect to the first inspection of each such facility occurring after October 6, 1992, the Administrator shall conduct a comprehensive ground water monitoring evaluation at the facility, unless such an evaluation was conducted during the 12-month period preceding October 6, 1992.”
 
-    1984—Subsec. (b)(1). [Pub. L. 98–616, § 502(a)][/us/pl/98/616/s502/a], modified directory language for amendment by sec. 12(b)(4) of [Pub. L. 96–482][/us/pl/96/482].
+    1984—Subsec. (b)(1). [Pub. L. 98–616][/us/pl/98/616], § 502(a), modified directory language for amendment by sec. 12(b)(4) of [Pub. L. 96–482][/us/pl/96/482].
 
-    Subsec. (c). [Pub. L. 98–616, § 229][/us/pl/98/616/s229], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–616][/us/pl/98/616], § 229, added subsec. (c).
 
-    Subsec. (d). [Pub. L. 98–616, § 230][/us/pl/98/616/s230], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–616][/us/pl/98/616], § 230, added subsec. (d).
 
-    Subsec. (e). [Pub. L. 98–616, § 231][/us/pl/98/616/s231], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–616][/us/pl/98/616], § 231, added subsec. (e).
 
-    1980—Subsec. (a). [Pub. L. 96–482, § 12(a)][/us/pl/96/482/s12/a], substituted “chapter” for “subchapter”, “any officer, employee or representative” for “any officer or employee”, “duly designated officer, employee or representative” for “duly designated officer employee”, “such officers, employees or representatives” for “such officers or employees”, “furnish information relating to such wastes and permit” for “furnish or permit”, and “officer, employee or representative obtains” for “officer or employee obtains”, struck out “maintained by any person” after “establishment or other place”, substituted “officer, employee or representative obtains” for “officer or employee obtains”, and inserted “or has handled” after “otherwise handles” and “or have been” after “where hazardous wastes are”.
+    1980—Subsec. (a). [Pub. L. 96–482][/us/pl/96/482], § 12(a), substituted “chapter” for “subchapter”, “any officer, employee or representative” for “any officer or employee”, “duly designated officer, employee or representative” for “duly designated officer employee”, “such officers, employees or representatives” for “such officers or employees”, “furnish information relating to such wastes and permit” for “furnish or permit”, and “officer, employee or representative obtains” for “officer or employee obtains”, struck out “maintained by any person” after “establishment or other place”, substituted “officer, employee or representative obtains” for “officer or employee obtains”, and inserted “or has handled” after “otherwise handles” and “or have been” after “where hazardous wastes are”.
 
-    Subsec. (b)(1). [Pub. L. 96–482, § 12(b)(1)][/us/pl/96/482/s12/b/1]–(3), designated existing provisions as par. (1), inserted “or any officer, employee or representative thereof” before “has access under this section” and substituted “such information or particular portion thereof shall be considered” for “the Administrator (or the State, as the case may be) shall consider such information or portion thereof”.
+    Subsec. (b)(1). [Pub. L. 96–482][/us/pl/96/482], § 12(b)(1)–(3), designated existing provisions as par. (1), inserted “or any officer, employee or representative thereof” before “has access under this section” and substituted “such information or particular portion thereof shall be considered” for “the Administrator (or the State, as the case may be) shall consider such information or portion thereof”.
 
-    [Pub. L. 96–482, § 12(b)(4)][/us/pl/96/482/s12/b/4], as modified by [Pub. L. 98–616, § 502(a)][/us/pl/98/616/s502/a], inserted “(including records, reports, or information obtained by representatives of the Environmental Protection Agency)” after “information”.
+    [Pub. L. 96–482][/us/pl/96/482], § 12(b)(4), as modified by [Pub. L. 98–616][/us/pl/98/616], § 502(a), inserted “(including records, reports, or information obtained by representatives of the Environmental Protection Agency)” after “information”.
 
-    Subsec. (b)(2) to (4). [Pub. L. 96–482, § 12(b)(3)][/us/pl/96/482/s12/b/3], added pars. (2) to (4).
+    Subsec. (b)(2) to (4). [Pub. L. 96–482][/us/pl/96/482], § 12(b)(3), added pars. (2) to (4).
 
     1978—Subsec. (a)(1). [Pub. L. 95–609][/us/pl/95/609] substituted “disposed of, or transported from” for “or disposed of”.
 
@@ -96,28 +96,28 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
-[/us/pl/89/272/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3007
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2810
-[/us/pl/95/609/s7/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fj
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3082
-[/us/pl/96/482/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs12
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2339
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3255
-[/us/pl/102/386/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs104
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1507
 [/us/pl/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386
-[/us/pl/98/616/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs502%2Fa
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
-[/us/pl/98/616/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs229
-[/us/pl/98/616/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs230
-[/us/pl/98/616/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs231
-[/us/pl/96/482/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs12%2Fa
-[/us/pl/96/482/s12/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs12%2Fb%2F1
-[/us/pl/96/482/s12/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs12%2Fb%2F4
-[/us/pl/98/616/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs502%2Fa
-[/us/pl/96/482/s12/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs12%2Fb%2F3
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

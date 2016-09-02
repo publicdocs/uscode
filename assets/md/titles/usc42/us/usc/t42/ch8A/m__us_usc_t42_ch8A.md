@@ -433,7 +433,7 @@ SUBCHAPTER III—FARM HOUSING  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1490" data-uslm-ref="/us/usc/t42/s1490">1490</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1490l" data-uslm-ref="/us/usc/t42/s1490l">1490l.</a>  </td>
 
     <td> Processing of applications.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER III—FARM HOUSING  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1490" data-uslm-ref="/us/usc/t42/s1490">1490</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1490o" data-uslm-ref="/us/usc/t42/s1490o">1490o.</a>  </td>
 
     <td> Reciprocity in approval of housing subdivisions among Federal agencies.  </td>
 

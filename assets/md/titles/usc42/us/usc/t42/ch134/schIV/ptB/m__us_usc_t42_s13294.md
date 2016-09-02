@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be deemed to convey to any person, partnership, corporation, or other entity, immunity from civil or criminal liability under any antitrust law or to create defenses to actions under any antitrust law.
 
-([Pub. L. 102–486, title VI, § 624][/us/pl/102/486/s624], Oct. 24, 1992, [106 Stat. 2905][/us/stat/106/2905].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 624, Oct. 24, 1992, [106 Stat. 2905][/us/stat/106/2905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs624
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2905
 
 

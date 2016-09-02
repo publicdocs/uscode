@@ -119,7 +119,7 @@
 
         The Institute shall provide for an independent study of the financial and technical assistance programs under this chapter.
 
-([Pub. L. 98–620, title II, § 206][/us/pl/98/620/s206], Nov. 8, 1984, [98 Stat. 3340][/us/stat/98/3340]; [Pub. L. 100–690, title VII, § 7321(b)(3)][/us/pl/100/690/s7321/b/3], (4), Nov. 18, 1988, [102 Stat. 4466][/us/stat/102/4466], 4467; [Pub. L. 100–702, title VI][/us/pl/100/702], §§ 603, 604, Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653]; [Pub. L. 102–528][/us/pl/102/528], §§ 2, 3(2), Oct. 27, 1992, [106 Stat. 3461][/us/stat/106/3461], 3462; [Pub. L. 102–572, title VIII][/us/pl/102/572], §§ 802, 803(b), Oct. 29, 1992, [106 Stat. 4515][/us/stat/106/4515], 4516.)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 206, Nov. 8, 1984, [98 Stat. 3340][/us/stat/98/3340]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7321(b)(3), (4), Nov. 18, 1988, [102 Stat. 4466][/us/stat/102/4466], 4467; [Pub. L. 100–702, title VI][/us/pl/100/702/tVI], §§ 603, 604, Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653]; [Pub. L. 102–528][/us/pl/102/528], §§ 2, 3(2), Oct. 27, 1992, [106 Stat. 3461][/us/stat/106/3461], 3462; [Pub. L. 102–572, title VIII][/us/pl/102/572/tVIII], §§ 802, 803(b), Oct. 29, 1992, [106 Stat. 4515][/us/stat/106/4515], 4516.)
 
  __References in Text__ 
 
@@ -127,45 +127,45 @@
 
  __Amendments__ 
 
-    1992—Subsec. (b)(1). [Pub. L. 102–572, § 802(1)][/us/pl/102/572/s802/1], substituted “may award grants to or enter into cooperative agreements or contracts” for “shall give priority to grants, cooperative agreements, or contracts” in introductory provisions and substituted semicolon for comma in subpar. (A).
+    1992—Subsec. (b)(1). [Pub. L. 102–572][/us/pl/102/572], § 802(1), substituted “may award grants to or enter into cooperative agreements or contracts” for “shall give priority to grants, cooperative agreements, or contracts” in introductory provisions and substituted semicolon for comma in subpar. (A).
 
-    Subsec. (b)(2). [Pub. L. 102–572, § 802(2)][/us/pl/102/572/s802/2], inserted “to” after “award grants”.
+    Subsec. (b)(2). [Pub. L. 102–572][/us/pl/102/572], § 802(2), inserted “to” after “award grants”.
 
-    Subsec. (b)(3). [Pub. L. 102–572, § 802(3)][/us/pl/102/572/s802/3], added par. (3) and struck out former par. (3) which read as follows: “Upon application by an appropriate Federal, State, or local agency or institution and if the arrangements to be made by such agency or institution will provide services which could not be provided adequately through nongovernmental arrangements, the Institute may award a grant or enter into a cooperative agreement or contract with a unit of Federal, State, or local government other than a court.”
+    Subsec. (b)(3). [Pub. L. 102–572][/us/pl/102/572], § 802(3), added par. (3) and struck out former par. (3) which read as follows: “Upon application by an appropriate Federal, State, or local agency or institution and if the arrangements to be made by such agency or institution will provide services which could not be provided adequately through nongovernmental arrangements, the Institute may award a grant or enter into a cooperative agreement or contract with a unit of Federal, State, or local government other than a court.”
 
-    Subsec. (b)(4), (5). [Pub. L. 102–572, § 802(4)][/us/pl/102/572/s802/4], (5), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 102–572][/us/pl/102/572], § 802(4), (5), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (c)(3). [Pub. L. 102–528, § 3(2)][/us/pl/102/528/s3/2], struck out “judicial and” before “nonjudicial” the second place appearing.
+    Subsec. (c)(3). [Pub. L. 102–528][/us/pl/102/528], § 3(2), struck out “judicial and” before “nonjudicial” the second place appearing.
 
-    Subsec. (c)(4) to (6). [Pub. L. 102–528, § 3(2)(B)][/us/pl/102/528/s3/2/B], (C), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
+    Subsec. (c)(4) to (6). [Pub. L. 102–528][/us/pl/102/528], § 3(2)(B), (C), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
 
-    Subsec. (c)(7). [Pub. L. 102–572, § 803(b)][/us/pl/102/572/s803/b], substituted “affect” for “effect”.
+    Subsec. (c)(7). [Pub. L. 102–572][/us/pl/102/572], § 803(b), substituted “affect” for “effect”.
 
-    [Pub. L. 102–528, § 3(2)(B)][/us/pl/102/528/s3/2/B], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    [Pub. L. 102–528][/us/pl/102/528], § 3(2)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    Subsec. (c)(8) to (12). [Pub. L. 102–528, § 3(2)(B)][/us/pl/102/528/s3/2/B], redesignated pars. (7) to (11) as (8) to (12), respectively. Former par. (12) redesignated (13).
+    Subsec. (c)(8) to (12). [Pub. L. 102–528][/us/pl/102/528], § 3(2)(B), redesignated pars. (7) to (11) as (8) to (12), respectively. Former par. (12) redesignated (13).
 
-    Subsec. (c)(13). [Pub. L. 102–528, § 3(2)(B)][/us/pl/102/528/s3/2/B], redesignated par. (12) as (13). Former par. (13) redesignated (14).
+    Subsec. (c)(13). [Pub. L. 102–528][/us/pl/102/528], § 3(2)(B), redesignated par. (12) as (13). Former par. (13) redesignated (14).
 
-    [Pub. L. 102–528, § 2][/us/pl/102/528/s2], added par. (13) and redesignated former par. (13) as (14).
+    [Pub. L. 102–528][/us/pl/102/528], § 2, added par. (13) and redesignated former par. (13) as (14).
 
-    Subsec. (c)(14). [Pub. L. 102–528, § 3(2)(B)][/us/pl/102/528/s3/2/B], redesignated par. (13) as (14). Former par. (14) redesignated (15).
+    Subsec. (c)(14). [Pub. L. 102–528][/us/pl/102/528], § 3(2)(B), redesignated par. (13) as (14). Former par. (14) redesignated (15).
 
-    [Pub. L. 102–528, § 2][/us/pl/102/528/s2], redesignated par. (13) as (14).
+    [Pub. L. 102–528][/us/pl/102/528], § 2, redesignated par. (13) as (14).
 
-    Subsec. (c)(15). [Pub. L. 102–528, § 3(2)(B)][/us/pl/102/528/s3/2/B], redesignated par. (14) as (15).
+    Subsec. (c)(15). [Pub. L. 102–528][/us/pl/102/528], § 3(2)(B), redesignated par. (14) as (15).
 
-    1988—Subsec. (c)(3). [Pub. L. 100–702, § 603(1)][/us/pl/100/702/s603/1], inserted “judicial and” before “nonjudicial”.
+    1988—Subsec. (c)(3). [Pub. L. 100–702][/us/pl/100/702], § 603(1), inserted “judicial and” before “nonjudicial”.
 
-    [Pub. L. 100–690, § 7321(b)(3)(A)][/us/pl/100/690/s7321/b/3/A], inserted “judicial and” before “nonjudicial”.
+    [Pub. L. 100–690][/us/pl/100/690], § 7321(b)(3)(A), inserted “judicial and” before “nonjudicial”.
 
-    Subsec. (c)(4) to (15). [Pub. L. 100–702, § 603(2)][/us/pl/100/702/s603/2], (3), which directed the striking out of par. (4) and redesignation of pars. (5) to (15) as (4) to (14), respectively, was executed by striking out par. (4) and redesignating pars. (5) to (14) as (4) to (13), respectively, in view of the intervening redesignation of pars. (5) to (15) as (4) to (14), respectively, by [Pub. L. 100–690, § 7321(b)(3)(C)][/us/pl/100/690/s7321/b/3/C]. See below. Prior to amendment, par. (4) read as follows: “to support studies of the appropriateness and efficacy of court organizations and financing structures in particular States, and to enable States to implement plans for improved court organization and finance;”.
+    Subsec. (c)(4) to (15). [Pub. L. 100–702][/us/pl/100/702], § 603(2), (3), which directed the striking out of par. (4) and redesignation of pars. (5) to (15) as (4) to (14), respectively, was executed by striking out par. (4) and redesignating pars. (5) to (14) as (4) to (13), respectively, in view of the intervening redesignation of pars. (5) to (15) as (4) to (14), respectively, by [Pub. L. 100–690][/us/pl/100/690], § 7321(b)(3)(C). See below. Prior to amendment, par. (4) read as follows: “to support studies of the appropriateness and efficacy of court organizations and financing structures in particular States, and to enable States to implement plans for improved court organization and finance;”.
 
-    [Pub. L. 100–690, § 7321(b)(3)(B)][/us/pl/100/690/s7321/b/3/B], (C), redesignated pars. (5) to (15) as (4) to (14), respectively, and struck out former par. (4) which read as follows: “to assist State and local courts in meeting requirements of Federal law applicable to recipients of Federal funds;”.
+    [Pub. L. 100–690][/us/pl/100/690], § 7321(b)(3)(B), (C), redesignated pars. (5) to (15) as (4) to (14), respectively, and struck out former par. (4) which read as follows: “to assist State and local courts in meeting requirements of Federal law applicable to recipients of Federal funds;”.
 
-    Subsec. (d). [Pub. L. 100–702, § 604][/us/pl/100/702/s604], which directed the substitution of “court (or other unit of State or local government)” for “judicial system”, could not be executed due to prior amendment by [Pub. L. 100–690, § 7321(b)(4)][/us/pl/100/690/s7321/b/4]. See below.
+    Subsec. (d). [Pub. L. 100–702][/us/pl/100/702], § 604, which directed the substitution of “court (or other unit of State or local government)” for “judicial system”, could not be executed due to prior amendment by [Pub. L. 100–690][/us/pl/100/690], § 7321(b)(4). See below.
 
-    [Pub. L. 100–690, § 7321(b)(4)][/us/pl/100/690/s7321/b/4], substituted “court (or other unit of State or local government)” for “judicial system”.
+    [Pub. L. 100–690][/us/pl/100/690], § 7321(b)(4), substituted “court (or other unit of State or local government)” for “judicial system”.
 
 ----------
 
@@ -174,40 +174,40 @@
 ----------
 ----------
 
-[/us/pl/98/620/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs206
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3340
-[/us/pl/100/690/s7321/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F3
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4466
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVI
 [/us/stat/102/4653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4653
 [/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
 [/us/stat/106/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3461
-[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtVIII
 [/us/stat/106/4515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4515
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336
 [/us/usc/t42/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10701
-[/us/pl/102/572/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs802%2F1
-[/us/pl/102/572/s802/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs802%2F2
-[/us/pl/102/572/s802/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs802%2F3
-[/us/pl/102/572/s802/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs802%2F4
-[/us/pl/102/528/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F2
-[/us/pl/102/528/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F2%2FB
-[/us/pl/102/572/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs803%2Fb
-[/us/pl/102/528/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F2%2FB
-[/us/pl/102/528/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F2%2FB
-[/us/pl/102/528/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F2%2FB
-[/us/pl/102/528/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs2
-[/us/pl/102/528/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F2%2FB
-[/us/pl/102/528/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs2
-[/us/pl/102/528/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F2%2FB
-[/us/pl/100/702/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs603%2F1
-[/us/pl/100/690/s7321/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F3%2FA
-[/us/pl/100/702/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs603%2F2
-[/us/pl/100/690/s7321/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F3%2FC
-[/us/pl/100/690/s7321/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F3%2FB
-[/us/pl/100/702/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs604
-[/us/pl/100/690/s7321/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F4
-[/us/pl/100/690/s7321/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F4
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 
 

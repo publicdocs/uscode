@@ -31,7 +31,7 @@
 
         The Director of the Office shall submit each report prepared under subsection (a) of this section to the Director of NIH for inclusion in the report submitted to the President and the Congress under [section 283 of this title][/us/usc/t42/s283].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 486B, as added [Pub. L. 103–43, title I, § 141(a)(3)][/us/pl/103/43/s141/a/3], June 10, 1993, [107 Stat. 139][/us/stat/107/139].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 486B, as added [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 141(a)(3), June 10, 1993, [107 Stat. 139][/us/stat/107/139].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s141/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs141%2Fa%2F3
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F139
 
 

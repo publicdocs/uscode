@@ -63,7 +63,7 @@
 
         The Secretary shall carry out research to examine designs for high-temperature reactors capable of producing large-scale quantities of hydrogen.
 
-([Pub. L. 109–58, title IX, § 952][/us/pl/109/58/s952], Aug. 8, 2005, [119 Stat. 885][/us/stat/119/885].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 952, Aug. 8, 2005, [119 Stat. 885][/us/stat/119/885].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs952
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F885
 
 

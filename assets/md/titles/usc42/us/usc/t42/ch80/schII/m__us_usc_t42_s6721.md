@@ -31,7 +31,7 @@
 
     (7) that efforts by the Federal Government to stimulate the economic recovery will be substantially enhanced by a program of emergency Federal Government assistance to State and local governments to help prevent those governments from taking budget-related actions which undermine the Federal Government efforts to stimulate economic recovery.
 
-([Pub. L. 94–369, title II, § 201][/us/pl/94/369/s201], July 22, 1976, [90 Stat. 1002][/us/stat/90/1002].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 201, July 22, 1976, [90 Stat. 1002][/us/stat/90/1002].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/94/369/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs201
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1002
 
 

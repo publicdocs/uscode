@@ -125,31 +125,31 @@
 
         The Administrator may arrange for the sale or disposal of materials and facilities found by the Administrator to be unnecessary or unsuitable for emergency preparedness purposes in the same manner as provided for excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. Any funds received as proceeds from the sale or other disposition of such materials and facilities shall be deposited into the Treasury as miscellaneous receipts.
 
-([Pub. L. 93–288, title VI, § 611][/us/pl/93/288/s611], as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)][/us/pl/103/337/s3411/a/3], Oct. 5, 1994, [108 Stat. 3102][/us/stat/108/3102]; amended [Pub. L. 104–66, title II, § 2071][/us/pl/104/66/s2071], Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729]; [Pub. L. 108–458, title VII, § 7406][/us/pl/108/458/s7406], Dec. 17, 2004, [118 Stat. 3851][/us/stat/118/3851]; [Pub. L. 109–308, § 3][/us/pl/109/308/s3], Oct. 6, 2006, [120 Stat. 1725][/us/stat/120/1725]; [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 611, as added [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(3), Oct. 5, 1994, [108 Stat. 3102][/us/stat/108/3102]; amended [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2071, Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7406, Dec. 17, 2004, [118 Stat. 3851][/us/stat/118/3851]; [Pub. L. 109–308][/us/pl/109/308], § 3, Oct. 6, 2006, [120 Stat. 1725][/us/stat/120/1725]; [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __References in Text__ 
 
-    Paragraph (4), referred to in subsec. (j)(6), was redesignated paragraph (5) by [Pub. L. 109–308, § 3(2)][/us/pl/109/308/s3/2], Oct. 6, 2006, [120 Stat. 1725][/us/stat/120/1725].
+    Paragraph (4), referred to in subsec. (j)(6), was redesignated paragraph (5) by [Pub. L. 109–308][/us/pl/109/308], § 3(2), Oct. 6, 2006, [120 Stat. 1725][/us/stat/120/1725].
 
     Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j)(9), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, [64 Stat. 1267][/us/stat/64/1267], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Codification__ 
 
-    In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes ([40 U.S.C. 255][/us/usc/t40/s255])” and, in subsec. (j)(9), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act ([40 U.S.C. 276a–276a][/us/usc/t40/s276a–276a]–5))” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276(c)][/us/usc/t40/s276/c])”, meaning 276c, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes ([40 U.S.C. 255][/us/usc/t40/s255])” and, in subsec. (j)(9), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act ([40 U.S.C. 276a–276a][/us/usc/t40/s276a–276a]–5))” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276(c)][/us/usc/t40/s276/c])”, meaning 276c, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (k), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (k), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 3412(a).
 
  __Amendments__ 
 
     2011—[Pub. L. 111–351][/us/pl/111/351] substituted “Administrator” for “Director” wherever appearing.
 
-    2006—Subsec. (e)(4). [Pub. L. 109–308, § 3(1)][/us/pl/109/308/s3/1], added par. (4).
+    2006—Subsec. (e)(4). [Pub. L. 109–308][/us/pl/109/308], § 3(1), added par. (4).
 
-    Subsec. (j)(2) to (9). [Pub. L. 109–308, § 3(2)][/us/pl/109/308/s3/2], added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively.
+    Subsec. (j)(2) to (9). [Pub. L. 109–308][/us/pl/109/308], § 3(2), added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively.
 
     2004—Subsec. (h). [Pub. L. 108–458][/us/pl/108/458] substituted “Emergency preparedness compacts” for “Interstate emergency preparedness compacts” in subsec. heading, added par. (1), redesignated former pars. (1) to (3) as (2) to (4), respectively, and realigned margins of par. (2), as redesignated.
 
@@ -163,7 +163,7 @@
 
  __National Capital Region Mutual Aid__ 
 
-[Pub. L. 108–458, title VII, § 7302][/us/pl/108/458/s7302], Dec. 17, 2004, [118 Stat. 3840][/us/stat/118/3840], as amended by [Pub. L. 110–250, § 1][/us/pl/110/250/s1], June 26, 2008, [122 Stat. 2318][/us/stat/122/2318], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7302, Dec. 17, 2004, [118 Stat. 3840][/us/stat/118/3840], as amended by [Pub. L. 110–250][/us/pl/110/250], § 1, June 26, 2008, [122 Stat. 2318][/us/stat/122/2318], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -293,7 +293,7 @@
 
  __Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions__ 
 
-    [Pub. L. 96–342, title VII, § 704][/us/pl/96/342/s704], Sept. 8, 1980, [94 Stat. 1090][/us/stat/94/1090], required the Director of the Federal Emergency Management Agency to establish a pilot program of designing and constructing buildings able to withstand nuclear explosions and to submit a report to Congress on the establishment of the pilot program no later than Apr. 1, 1981.
+    [Pub. L. 96–342, title VII][/us/pl/96/342/tVII], § 704, Sept. 8, 1980, [94 Stat. 1090][/us/stat/94/1090], required the Director of the Federal Emergency Management Agency to establish a pilot program of designing and constructing buildings able to withstand nuclear explosions and to submit a report to Congress on the establishment of the pilot program no later than Apr. 1, 1981.
 
 ----------
 
@@ -304,18 +304,18 @@
 
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/93/288/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs611
-[/us/pl/103/337/s3411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F3
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3102
-[/us/pl/104/66/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2071
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F729
-[/us/pl/108/458/s7406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7406
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3851
-[/us/pl/109/308/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs3
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
 [/us/stat/120/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1725
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
-[/us/pl/109/308/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs3%2F2
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
 [/us/stat/120/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1725
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/usc/t40/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs255
@@ -323,28 +323,28 @@
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/usc/t40/s276/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276%2Fc
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
-[/us/pl/109/308/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs3%2F1
-[/us/pl/109/308/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs3%2F2
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/108/458/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7302
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3840
-[/us/pl/110/250/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F250%2Fs1
+[/us/pl/110/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F250
 [/us/stat/122/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2318
 [/us/usc/t10/s2674/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2674%2Ff%2F2
 [/us/usc/t18/s3056/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fe
-[/us/pl/96/342/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs704
+[/us/pl/96/342/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVII
 [/us/stat/94/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1090
 
 

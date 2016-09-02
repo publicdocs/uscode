@@ -63,7 +63,7 @@
 
         Amounts appropriated under subsections (b) and (c) shall remain available until expended.
 
-([Pub. L. 111–148, title X, § 10503][/us/pl/111/148/s10503], Mar. 23, 2010, [124 Stat. 1004][/us/stat/124/1004]; [Pub. L. 111–152, title II, § 2303][/us/pl/111/152/s2303], Mar. 30, 2010, [124 Stat. 1083][/us/stat/124/1083]; [Pub. L. 114–10, title II, § 221(a)][/us/pl/114/10/s221/a], Apr. 16, 2015, [129 Stat. 154][/us/stat/129/154].)
+([Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10503, Mar. 23, 2010, [124 Stat. 1004][/us/stat/124/1004]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2303, Mar. 30, 2010, [124 Stat. 1083][/us/stat/124/1083]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 221(a), Apr. 16, 2015, [129 Stat. 154][/us/stat/129/154].)
 
  __Codification__ 
 
@@ -73,15 +73,15 @@
 
     2015—Subsec. (b)(1)(E), (2)(E). [Pub. L. 114–10][/us/pl/114/10] substituted “for each of fiscal years 2015 through 2017” for “for fiscal year 2015”.
 
-    2010—Subsec. (b)(1)(A). [Pub. L. 111–152, § 2303(1)][/us/pl/111/152/s2303/1], substituted “1,000,000,000” for “700,000,000”.
+    2010—Subsec. (b)(1)(A). [Pub. L. 111–152][/us/pl/111/152], § 2303(1), substituted “1,000,000,000” for “700,000,000”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–152, § 2303(2)][/us/pl/111/152/s2303/2], substituted “1,200,000,000” for “800,000,000”.
+    Subsec. (b)(1)(B). [Pub. L. 111–152][/us/pl/111/152], § 2303(2), substituted “1,200,000,000” for “800,000,000”.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–152, § 2303(3)][/us/pl/111/152/s2303/3], substituted “1,500,000,000” for “1,000,000,000”.
+    Subsec. (b)(1)(C). [Pub. L. 111–152][/us/pl/111/152], § 2303(3), substituted “1,500,000,000” for “1,000,000,000”.
 
-    Subsec. (b)(1)(D). [Pub. L. 111–152, § 2303(4)][/us/pl/111/152/s2303/4], substituted “2,200,000,000” for “1,600,000,000”.
+    Subsec. (b)(1)(D). [Pub. L. 111–152][/us/pl/111/152], § 2303(4), substituted “2,200,000,000” for “1,600,000,000”.
 
-    Subsec. (b)(1)(E). [Pub. L. 111–152, § 2303(5)][/us/pl/111/152/s2303/5], substituted “3,600,000,000” for “2,900,000,000”.
+    Subsec. (b)(1)(E). [Pub. L. 111–152][/us/pl/111/152], § 2303(5), substituted “3,600,000,000” for “2,900,000,000”.
 
 ----------
 
@@ -92,17 +92,17 @@
 
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/111/148/s10503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10503
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1004
-[/us/pl/111/152/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1083
-[/us/pl/114/10/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs221%2Fa
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F154
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
-[/us/pl/111/152/s2303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F1
-[/us/pl/111/152/s2303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F2
-[/us/pl/111/152/s2303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F3
-[/us/pl/111/152/s2303/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F4
-[/us/pl/111/152/s2303/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2303%2F5
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 
 

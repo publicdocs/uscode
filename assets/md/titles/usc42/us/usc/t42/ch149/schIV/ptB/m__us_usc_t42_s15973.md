@@ -45,7 +45,7 @@
 
         Notwithstanding subchapter XIII of this chapter, the demonstration project shall not be eligible for Federal loan guarantees.
 
-([Pub. L. 109–58, title IV, § 413][/us/pl/109/58/s413], Aug. 8, 2005, [119 Stat. 755][/us/stat/119/755].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 413, Aug. 8, 2005, [119 Stat. 755][/us/stat/119/755].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/109/58/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs413
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F755
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1061

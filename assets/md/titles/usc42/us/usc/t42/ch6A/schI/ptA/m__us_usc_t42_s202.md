@@ -17,7 +17,7 @@
 
     The Public Health Service in the Department of Health and Human Services shall be administered by the Assistant Secretary for Health under the supervision and direction of the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 201, [58 Stat. 683][/us/stat/58/683]; 1953 Reorg. Plan No. 1, §§ 5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 103–43, title XX, § 2008(f)][/us/pl/103/43/s2008/f], June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 201, [58 Stat. 683][/us/stat/58/683]; 1953 Reorg. Plan No. 1, §§ 5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(f), June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
 
  __Amendments__ 
 
@@ -225,7 +225,7 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F683
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/103/43/s2008/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Ff
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F212
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/usc/t42/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3501

@@ -143,7 +143,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, to remain available until expended.
 
-([Pub. L. 111–11, title IX, § 9503][/us/pl/111/11/s9503], Mar. 30, 2009, [123 Stat. 1332][/us/stat/123/1332].)
+([Pub. L. 111–11, title IX][/us/pl/111/11/tIX], § 9503, Mar. 30, 2009, [123 Stat. 1332][/us/stat/123/1332].)
 
  __References in Text__ 
 
@@ -157,7 +157,7 @@
 ----------
 
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/111/11/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9503
+[/us/pl/111/11/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIX
 [/us/stat/123/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1332
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

@@ -47,7 +47,7 @@
 
         Each department, agency, and instrumentality of the executive branch of the Government is authorized to furnish to the Administrator, upon his request, any information or other data which the Administrator deems necessary to carry out his duties under this subchapter.
 
-([Pub. L. 93–438, title I, § 105][/us/pl/93/438/s105], Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 105, Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238].)
 
  __Transfer of Functions__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs105
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1238
 
 

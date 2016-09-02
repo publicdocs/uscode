@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed as amending or otherwise changing the provisions of the Food and Nutrition Act of 2008 of 1964 1 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\] except as they relate to the availability of supplemental nutrition assistance program benefits in an area affected by a major disaster.
 
-([Pub. L. 93–288, title IV, § 412][/us/pl/93/288/s412], formerly § 409, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 412, [Pub. L. 100–707, title I, § 106(h)][/us/pl/100/707/s106/h], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097, 1109; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, 1870, 1871.)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 412, formerly § 409, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 412, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(h), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097, 1109; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, 1870, 1871.)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 4115(c)(1)(A)(iv)][/us/pl/110/246/s4115/c/1/A/iv], (B)(v), substituted “Benefits” for “Food coupons” in section catchline.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 4115(c)(1)(A)(iv), (B)(v), substituted “Benefits” for “Food coupons” in section catchline.
 
-    [Pub. L. 110–246, § 4002(b)(1)(C)][/us/pl/110/246/s4002/b/1/C], (2)(DD), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in subsecs. (a) and (c).
+    [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(C), (2)(DD), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in subsecs. (a) and (c).
 
-    Subsecs. (a), (b). [Pub. L. 110–246, § 4115(c)(1)(A)(ii)][/us/pl/110/246/s4115/c/1/A/ii], (B)(v), substituted “benefit” for “coupon”.
+    Subsecs. (a), (b). [Pub. L. 110–246][/us/pl/110/246], § 4115(c)(1)(A)(ii), (B)(v), substituted “benefit” for “coupon”.
 
-    Subsec. (c). [Pub. L. 110–246, § 4002(b)(1)(E)][/us/pl/110/246/s4002/b/1/E], (2)(DD), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+    Subsec. (c). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(E), (2)(DD), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -74,13 +74,13 @@
 [/us/stat/84/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2048
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/93/288/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs412
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F157
-[/us/pl/100/707/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fh
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
@@ -95,10 +95,10 @@
 [/us/pl/93/288/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs412
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5182
-[/us/pl/110/246/s4115/c/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F1%2FA%2Fiv
-[/us/pl/110/246/s4002/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FC
-[/us/pl/110/246/s4115/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F1%2FA%2Fii
-[/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

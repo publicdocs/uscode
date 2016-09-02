@@ -31,7 +31,7 @@
 
         (2) the rate of unemployment within the jurisdiction of such government for the last month of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 4.5 percent.
 
-([Pub. L. 94–369, title II, § 210][/us/pl/94/369/s210], July 22, 1976, [90 Stat. 1009][/us/stat/90/1009]; [Pub. L. 94–447, title II, § 201][/us/pl/94/447/s201] (5), Oct. 1, 1976, [90 Stat. 1498][/us/stat/90/1498].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 210, July 22, 1976, [90 Stat. 1009][/us/stat/90/1009]; [Pub. L. 94–447, title II][/us/pl/94/447/tII], § 201 (5), Oct. 1, 1976, [90 Stat. 1498][/us/stat/90/1498].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 [/us/usc/t42/s6723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6723
 [/us/usc/t42/s6725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6725
 [/us/usc/t42/s6723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6723
-[/us/pl/94/369/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs210
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1009
-[/us/pl/94/447/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447%2Fs201
+[/us/pl/94/447/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447%2FtII
 [/us/stat/90/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1498
 [/us/pl/94/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447
 

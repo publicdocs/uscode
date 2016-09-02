@@ -23,7 +23,7 @@
 
         In order to carry out the program authorized in subsection (a) of this section, the Secretary may solicit proposals from the private sector and seek to enter into an agreement with appropriate parties.
 
-([Pub. L. 102–486, title XIII, § 1311][/us/pl/102/486/s1311], Oct. 24, 1992, [106 Stat. 2976][/us/stat/106/2976].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1311, Oct. 24, 1992, [106 Stat. 2976][/us/stat/106/2976].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1311
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2976
 
 

@@ -77,11 +77,11 @@
 
         The provisions of this section shall apply to any patent the application for which shall have been filed before September 1, 1979.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 153, as added [Aug. 20, 1954, ch. 1073, § 1][/us/act/1954-08-20/ch1073/s1], [68 Stat. 945][/us/stat/68/945]; amended [Pub. L. 86–50, § 114][/us/pl/86/50/s114], June 23, 1959, [73 Stat. 87][/us/stat/73/87]; [Pub. L. 88–394, § 1][/us/pl/88/394/s1], Aug. 1, 1964, [78 Stat. 376][/us/stat/78/376]; [Pub. L. 91–161, § 1][/us/pl/91/161/s1], Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; [Pub. L. 93–377, § 6][/us/pl/93/377/s6], Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 153, as added [Aug. 20, 1954, ch. 1073][/us/act/1954-08-20/ch1073], § 1, [68 Stat. 945][/us/stat/68/945]; amended [Pub. L. 86–50][/us/pl/86/50], § 114, June 23, 1959, [73 Stat. 87][/us/stat/73/87]; [Pub. L. 88–394][/us/pl/88/394], § 1, Aug. 1, 1964, [78 Stat. 376][/us/stat/78/376]; [Pub. L. 91–161][/us/pl/91/161], § 1, Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; [Pub. L. 93–377][/us/pl/93/377], § 6, Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a), (b), and (e)(3), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (a), (b), and (e)(3), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Prior Provisions__ 
 
@@ -108,20 +108,20 @@
 [/us/usc/t42/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2051
 [/us/usc/t42/s2187/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2187%2Fc
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-20/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch1073%2Fs1
+[/us/act/1954-08-20/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch1073
 [/us/stat/68/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F945
-[/us/pl/86/50/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F50%2Fs114
+[/us/pl/86/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F50
 [/us/stat/73/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F87
-[/us/pl/88/394/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394%2Fs1
+[/us/pl/88/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394
 [/us/stat/78/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F376
-[/us/pl/91/161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161%2Fs1
+[/us/pl/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161
 [/us/stat/83/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F444
-[/us/pl/93/377/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377%2Fs6
+[/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/stat/88/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F475
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377

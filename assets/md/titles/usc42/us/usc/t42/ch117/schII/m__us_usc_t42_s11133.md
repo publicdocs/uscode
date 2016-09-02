@@ -67,7 +67,7 @@
 
         Any reference in this subchapter to a Board of Medical Examiners includes, in the case of a Board in a State that fails to meet the reporting requirements of [section 11132(a) of this title][/us/usc/t42/s11132/a] or subsection (b) of this section, a reference to such other qualified entity as the Secretary designates.
 
-([Pub. L. 99–660, title IV, § 423][/us/pl/99/660/s423], Nov. 14, 1986, [100 Stat. 3789][/us/stat/100/3789].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 423, Nov. 14, 1986, [100 Stat. 3789][/us/stat/100/3789].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t42/s11111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11111%2Fa%2F1
 [/us/usc/t42/s11111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11111%2Fb
 [/us/usc/t42/s11132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11132%2Fa
-[/us/pl/99/660/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs423
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3789
 
 

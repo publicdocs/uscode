@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall affect adversely the right of any person to sue for or obtain relief in any court against discrimination in any facility covered by this subchapter.
 
-([Pub. L. 88–352, title III, § 303][/us/pl/88/352/s303], July 2, 1964, [78 Stat. 246][/us/stat/78/246].)
+([Pub. L. 88–352, title III][/us/pl/88/352/tIII], § 303, July 2, 1964, [78 Stat. 246][/us/stat/78/246].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs303
+[/us/pl/88/352/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIII
 [/us/stat/78/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F246
 
 

@@ -23,7 +23,7 @@
 
         The Secretary shall carry out the program with the goal of supporting departmental missions, and providing the high-performance computational, networking, advanced visualization technologies, and workforce resources, that are required for world leadership in science.
 
-([Pub. L. 109–58, title IX, § 976(a)][/us/pl/109/58/s976/a], Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 976(a), Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t15/s5541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5541
-[/us/pl/109/58/s976/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs976%2Fa
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F903
 [/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2400

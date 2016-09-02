@@ -17,7 +17,7 @@
 
     The Secretary shall make allotments to eligible States under [section 9859c of this title][/us/usc/t42/s9859c]. The Secretary shall make the allotments to enable the States to establish programs to improve the health and safety of children receiving child care outside the home, by preventing illnesses and injuries associated with that care and promoting the health and well-being of children receiving that care.
 
-([Pub. L. 106–310, div. A, title XIV, § 1403][/us/pl/106/310/s1403], Oct. 17, 2000, [114 Stat. 1143][/us/stat/114/1143].)
+([Pub. L. 106–310, div. A, title XIV][/us/pl/106/310/dA/tXIV], § 1403, Oct. 17, 2000, [114 Stat. 1143][/us/stat/114/1143].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s9859c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9859c
-[/us/pl/106/310/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1403
+[/us/pl/106/310/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIV
 [/us/stat/114/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1143
 
 

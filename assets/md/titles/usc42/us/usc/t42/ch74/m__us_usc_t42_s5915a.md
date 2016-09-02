@@ -17,7 +17,7 @@
 
     Notwithstanding any other applicable provision of law, the initial authorization in this Act or any other Act heretofore or hereafter enacted to construct, pursuant to [section 5907 of this title][/us/usc/t42/s5907], any fossil energy demonstration plant shall expire at the end of the three full fiscal years following the date of enactment of such authorization, unless (1) funds to construct each such plant are appropriated or otherwise provided pursuant to applicable law prior thereto, or (2) such authorization period is extended by specific Act of Congress hereafter enacted.
 
-([Pub. L. 95–39, title I, § 105][/us/pl/95/39/s105], June 3, 1977, [91 Stat. 184][/us/stat/91/184].)
+([Pub. L. 95–39, title I][/us/pl/95/39/tI], § 105, June 3, 1977, [91 Stat. 184][/us/stat/91/184].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s5907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5907
-[/us/pl/95/39/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs105
+[/us/pl/95/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtI
 [/us/stat/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F184
 [/us/pl/95/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39
 [/us/stat/91/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F180

@@ -121,15 +121,15 @@
 
         The Secretary may not promulgate rules or regulations affecting grantees in areas where a substantial population of minority individuals exists, that would significantly compromise the ability of the grantees to serve their targeted population of minority older individuals.
 
-([Pub. L. 89–73, title V, § 514][/us/pl/89/73/s514], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2584][/us/stat/120/2584].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 514, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2584][/us/stat/120/2584].)
 
  __References in Text__ 
 
-    The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is [section 31001 of title III of Pub. L. 104–134][/us/pl/104/134/s31001], Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358]. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 3701 of Title 31][/us/usc/t31/s3701], Money and Finance, and Tables.
+    The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is [section 31001 of title III of Pub. L. 104–134][/us/pl/104/134/tIII/s31001], Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358]. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 3701 of Title 31][/us/usc/t31/s3701], Money and Finance, and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 3056l, [Pub. L. 89–73, title V, § 514][/us/pl/89/73/s514], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2282][/us/stat/114/2282], related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
+    A prior section 3056l, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 514, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2282][/us/stat/114/2282], related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
 
 ----------
 
@@ -147,14 +147,14 @@
 [/us/usc/t42/s3056p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056p
 [/us/usc/t42/s3056p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056p
 [/us/usc/t42/s3056p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056p
-[/us/pl/89/73/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs514
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2584
-[/us/pl/104/134/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001
+[/us/pl/104/134/tIII/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII%2Fs31001
 [/us/stat/110/1321-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-358
 [/us/usc/t31/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3701
-[/us/pl/89/73/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs514
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2282
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 

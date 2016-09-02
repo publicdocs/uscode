@@ -29,7 +29,7 @@
 
     (3) to provide for an improved cooperative role between the Federal Government and States, affected Indian tribes, and units of general local government in the siting of a test and evaluation facility.
 
-([Pub. L. 97–425, title II, § 211][/us/pl/97/425/s211], Jan. 7, 1983, [96 Stat. 2245][/us/stat/96/2245].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 211, Jan. 7, 1983, [96 Stat. 2245][/us/stat/96/2245].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs211
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2245
 
 

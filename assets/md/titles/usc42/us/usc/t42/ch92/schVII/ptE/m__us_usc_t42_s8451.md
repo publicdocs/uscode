@@ -55,7 +55,7 @@
 
         There is hereby authorized to be appropriated to the Secretary for allocation between the Department of Energy and the Environmental Protection Agency for fiscal years 1979 and 1980, not to exceed $18,000,000, for use in carrying out the purposes of this section.
 
-([Pub. L. 95–620, title VII, § 741][/us/pl/95/620/s741], Nov. 9, 1978, [92 Stat. 3339][/us/stat/92/3339].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 741, Nov. 9, 1978, [92 Stat. 3339][/us/stat/92/3339].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/95/620/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs741
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3339
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901

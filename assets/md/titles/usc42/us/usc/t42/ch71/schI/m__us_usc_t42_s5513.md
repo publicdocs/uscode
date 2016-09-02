@@ -23,7 +23,7 @@
 
     (c) Encouragement should be given in the conduct of programs under this subchapter to those projects in which funds, appropriated by any State or political subdivision thereof for the purpose of sharing costs with the Federal Government for the purchase and installation of solar heating or combined solar heating and cooling components and systems, are committed before or after September 3, 1974.
 
-([Pub. L. 93–409, § 15][/us/pl/93/409/s15], Sept. 3, 1974, [88 Stat. 1077][/us/stat/88/1077].)
+([Pub. L. 93–409][/us/pl/93/409], § 15, Sept. 3, 1974, [88 Stat. 1077][/us/stat/88/1077].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/409/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs15
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1077
 
 

@@ -85,11 +85,11 @@
 
         (4) $5,000,000 for training in paraprofessional child and adolescent work in subsection (a)(4).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 756, as added [Pub. L. 111–148, title V, § 5306(a)(3)][/us/pl/111/148/s5306/a/3], Mar. 23, 2010, [124 Stat. 626][/us/stat/124/626].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 756, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5306(a)(3), Mar. 23, 2010, [124 Stat. 626][/us/stat/124/626].)
 
  __Codification__ 
 
-    [Pub. L. 111–148, title V, § 5306(a)(3)][/us/pl/111/148/s5306/a/3], Mar. 23, 2010, [124 Stat. 626][/us/stat/124/626], which directed the amendment of part D of title VII by inserting section 756 after section 755, without specifying the act to be amended, was executed by inserting section 756 after section 755 of act July 1, 1944, to reflect the probable intent of Congress.
+    [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5306(a)(3), Mar. 23, 2010, [124 Stat. 626][/us/stat/124/626], which directed the amendment of part D of title VII by inserting section 756 after section 755, without specifying the act to be amended, was executed by inserting section 756 after section 755 of act July 1, 1944, to reflect the probable intent of Congress.
 
  __Prior Provisions__ 
 
@@ -108,9 +108,9 @@
 
 [/us/usc/t42/s300x–2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%932%2Fb%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5306%2Fa%2F3
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F626
-[/us/pl/111/148/s5306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5306%2Fa%2F3
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F626
 [/us/usc/t42/s294f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294f
 [/us/usc/t42/s254q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254q

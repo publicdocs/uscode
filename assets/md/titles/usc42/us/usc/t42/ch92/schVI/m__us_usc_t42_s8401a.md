@@ -21,7 +21,7 @@
 
     (2) which (in whole or in part) is located in, or has authority over the energy impacted area: Provided further, That such term shall include a public or private nonprofit corporation, or a school, water, sewer, highway, or other public special purpose district, authority, or body, with the concurrence of the Governor: Provided further, That such term shall be applicable to all applications for assistance received since the effective date of [section 8401 of this title][/us/usc/t42/s8401].
 
-([Pub. L. 96–514, title II, § 201][/us/pl/96/514/s201], Dec. 12, 1980, [94 Stat. 2975][/us/stat/94/2975].)
+([Pub. L. 96–514, title II][/us/pl/96/514/tII], § 201, Dec. 12, 1980, [94 Stat. 2975][/us/stat/94/2975].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t42/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8401
 [/us/usc/t42/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8401
-[/us/pl/96/514/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2Fs201
+[/us/pl/96/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2FtII
 [/us/stat/94/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2975
 [/us/usc/t42/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8401
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901

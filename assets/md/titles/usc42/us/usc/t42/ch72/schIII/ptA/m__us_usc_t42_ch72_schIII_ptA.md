@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–96, title I, § 102][/us/pl/108/96/s102], Oct. 10, 2003, [117 Stat. 1168][/us/stat/117/1168], substituted in part A heading “Basic Center” for “Runaway and Homeless Youth”.
+    2003—[Pub. L. 108–96, title I][/us/pl/108/96/tI], § 102, Oct. 10, 2003, [117 Stat. 1168][/us/stat/117/1168], substituted in part A heading “Basic Center” for “Runaway and Homeless Youth”.
 
-    1988—[Pub. L. 100–690, title VII, § 7272(1)][/us/pl/100/690/s7272/1], Nov. 18, 1988, [102 Stat. 4454][/us/stat/102/4454], substituted in part A heading “Runaway and Homeless Youth Grant Program” for “Grants Program”.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7272(1), Nov. 18, 1988, [102 Stat. 4454][/us/stat/102/4454], substituted in part A heading “Runaway and Homeless Youth Grant Program” for “Grants Program”.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/108/96/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs102
+[/us/pl/108/96/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtI
 [/us/stat/117/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1168
-[/us/pl/100/690/s7272/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7272%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4454
 
 

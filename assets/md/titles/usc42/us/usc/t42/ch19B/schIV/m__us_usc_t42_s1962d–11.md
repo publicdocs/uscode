@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated the sum of $500,000 to carry out the provisions of sections 1962d–7 to 1962d–11 of this title: Provided, That nothing in such sections shall prevent the expenditure of other funds appropriated to the United States Geological Survey for studies and activities performed under its general authority.
 
-([Pub. L. 89–618, § 5][/us/pl/89/618/s5], Oct. 4, 1966, [80 Stat. 871][/us/stat/80/871]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
+([Pub. L. 89–618][/us/pl/89/618], § 5, Oct. 4, 1966, [80 Stat. 871][/us/stat/80/871]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/89/618/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618%2Fs5
+[/us/pl/89/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618
 [/us/stat/80/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F871
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31

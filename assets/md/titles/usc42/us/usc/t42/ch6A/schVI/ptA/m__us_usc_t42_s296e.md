@@ -87,11 +87,11 @@
 
             Notwithstanding paragraph (1), a for-profit entity may be eligible for a grant or contract under this subchapter as determined appropriate by the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 806, as added [Pub. L. 105–392, title I, § 123(4)][/us/pl/105/392/s123/4], Nov. 13, 1998, [112 Stat. 3565][/us/stat/112/3565].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 806, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(4), Nov. 13, 1998, [112 Stat. 3565][/us/stat/112/3565].)
 
  __Prior Provisions__ 
 
-    A prior section 296e, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 810, formerly § 806, as added Sept. 4, 1964, [Pub. L. 88–581, § 2][/us/pl/88/581/s2], [78 Stat. 912][/us/stat/78/912]; amended Dec. 5, 1967, [Pub. L. 90–174, § 12(a)][/us/pl/90/174/s12/a], [81 Stat. 541][/us/stat/81/541]; Aug. 16, 1968, [Pub. L. 90–490, title II, § 211][/us/pl/90/490/s211], [82 Stat. 781][/us/stat/82/781]; Nov. 18, 1971, [Pub. L. 92–158, § 4(a)][/us/pl/92/158/s4/a], [85 Stat. 470][/us/stat/85/470]; renumbered § 810 and amended July 29, 1975, [Pub. L. 94–63, title IX][/us/pl/94/63], §§ 902(b), 915(a)–(c), 916(a), (b), 941(e), [89 Stat. 354][/us/stat/89/354], 356, 358, 365; Aug. 1, 1977, [Pub. L. 95–83, title III, § 307][/us/pl/95/83/s307](o)(1)–(4), [91 Stat. 393][/us/stat/91/393]; Sept. 29, 1979, [Pub. L. 96–76, title I, § 104][/us/pl/96/76/s104], [93 Stat. 579][/us/stat/93/579], set forth provisions relating to computation, requirements, etc., respecting grants for institutional support, prior to repeal by [Pub. L. 99–92][/us/pl/99/92], §§ 9(a)(1), 10(a), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], 402, effective Oct. 1, 1985.
+    A prior section 296e, [act July 1, 1944, ch. 373, title VIII][/us/act/1944-07-01/ch373/tVIII], § 810, formerly § 806, as added Sept. 4, 1964, [Pub. L. 88–581][/us/pl/88/581], § 2, [78 Stat. 912][/us/stat/78/912]; amended Dec. 5, 1967, [Pub. L. 90–174][/us/pl/90/174], § 12(a), [81 Stat. 541][/us/stat/81/541]; Aug. 16, 1968, [Pub. L. 90–490, title II][/us/pl/90/490/tII], § 211, [82 Stat. 781][/us/stat/82/781]; Nov. 18, 1971, [Pub. L. 92–158][/us/pl/92/158], § 4(a), [85 Stat. 470][/us/stat/85/470]; renumbered § 810 and amended July 29, 1975, [Pub. L. 94–63, title IX][/us/pl/94/63/tIX], §§ 902(b), 915(a)–(c), 916(a), (b), 941(e), [89 Stat. 354][/us/stat/89/354], 356, 358, 365; Aug. 1, 1977, [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 307(o)(1)–(4), [91 Stat. 393][/us/stat/91/393]; Sept. 29, 1979, [Pub. L. 96–76, title I][/us/pl/96/76/tI], § 104, [93 Stat. 579][/us/stat/93/579], set forth provisions relating to computation, requirements, etc., respecting grants for institutional support, prior to repeal by [Pub. L. 99–92][/us/pl/99/92], §§ 9(a)(1), 10(a), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], 402, effective Oct. 1, 1985.
 
 ----------
 
@@ -102,22 +102,22 @@
 
 [/us/usc/t42/s296j/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296j%2Fa%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s123/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3565
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/581/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs2
+[/us/act/1944-07-01/ch373/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVIII
+[/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
 [/us/stat/78/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F912
-[/us/pl/90/174/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs12%2Fa
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F541
-[/us/pl/90/490/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs211
+[/us/pl/90/490/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtII
 [/us/stat/82/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F781
-[/us/pl/92/158/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F158%2Fs4%2Fa
+[/us/pl/92/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F158
 [/us/stat/85/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F470
-[/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
+[/us/pl/94/63/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtIX
 [/us/stat/89/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F354
-[/us/pl/95/83/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs307
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F393
-[/us/pl/96/76/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs104
+[/us/pl/96/76/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtI
 [/us/stat/93/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F579
 [/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F400

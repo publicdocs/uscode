@@ -33,7 +33,7 @@
 
         The term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 110–69, title V, § 5002][/us/pl/110/69/s5002], Aug. 9, 2007, [121 Stat. 600][/us/stat/121/600].)
+([Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5002, Aug. 9, 2007, [121 Stat. 600][/us/stat/121/600].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
-[/us/pl/110/69/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5002
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F600
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/stat/121/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F600

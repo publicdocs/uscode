@@ -83,7 +83,7 @@
 
         The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Boards established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Boards established under subsection (a) of this section for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 430, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 844][/us/stat/99/844]; amended [Pub. L. 100–607, title I, § 131][/us/pl/100/607/s131], Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 102–531, title III, § 312(d)(6)][/us/pl/102/531/s312/d/6], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–43, title XX, § 2008(b)(5)][/us/pl/103/43/s2008/b/5], June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 105–362, title VI, § 601(a)(1)(C)][/us/pl/105/362/s601/a/1/C], Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 110–154, § 1(b)(6)][/us/pl/110/154/s1/b/6], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 430, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 844][/us/stat/99/844]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 131, Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(6), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(b)(5), June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 105–362, title VI][/us/pl/105/362/tVI], § 601(a)(1)(C), Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 110–154][/us/pl/110/154], § 1(b)(6), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
 
  __Amendments__ 
 
@@ -111,7 +111,7 @@
 
     Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -126,19 +126,19 @@
 
 [/us/usc/t42/s285c–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285c%E2%80%937
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F844
-[/us/pl/100/607/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs131
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3056
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/102/531/s312/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F6
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/103/43/s2008/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F5
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F211
-[/us/pl/105/362/s601/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs601%2Fa%2F1%2FC
+[/us/pl/105/362/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVI
 [/us/stat/112/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3285
-[/us/pl/110/154/s1/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fb%2F6
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
@@ -149,7 +149,7 @@
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

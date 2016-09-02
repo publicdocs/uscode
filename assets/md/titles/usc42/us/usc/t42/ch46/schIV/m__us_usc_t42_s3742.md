@@ -33,7 +33,7 @@
 
     (8) Exercising such other powers and functions as may be vested in the Director pursuant to this chapter or by delegation of the Attorney General or Assistant Attorney General.
 
-([Pub. L. 90–351, title I, § 402][/us/pl/90/351/s402], as added [Pub. L. 100–690, title VI, § 6091(a)][/us/pl/100/690/s6091/a], Nov. 18, 1988, [102 Stat. 4328][/us/stat/102/4328]; amended [Pub. L. 101–647, title II, § 241(b)(1)][/us/pl/101/647/s241/b/1], Nov. 29, 1990, [104 Stat. 4813][/us/stat/104/4813].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 402, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4328][/us/stat/102/4328]; amended [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(b)(1), Nov. 29, 1990, [104 Stat. 4813][/us/stat/104/4813].)
 
  __Prior Provisions__ 
 
@@ -54,10 +54,10 @@
 ----------
 ----------
 
-[/us/pl/90/351/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs402
-[/us/pl/100/690/s6091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6091%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4328
-[/us/pl/101/647/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fb%2F1
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4813
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741

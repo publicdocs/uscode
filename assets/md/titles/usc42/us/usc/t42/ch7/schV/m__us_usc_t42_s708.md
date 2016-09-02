@@ -35,7 +35,7 @@
 
         When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever he has reason to believe that the entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of subsection (a)(2) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 508, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 825][/us/stat/95/825]; amended [Pub. L. 101–239, title VI, § 6502(b)][/us/pl/101/239/s6502/b], Dec. 19, 1989, [103 Stat. 2276][/us/stat/103/2276].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 508, as added [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(a), Aug. 13, 1981, [95 Stat. 825][/us/stat/95/825]; amended [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6502(b), Dec. 19, 1989, [103 Stat. 2276][/us/stat/103/2276].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 708, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 508, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 926][/us/stat/81/926]; amended July 10, 1972, [Pub. L. 92–345, § 2(d)][/us/pl/92/345/s2/d], [86 Stat. 457][/us/stat/86/457]; July 1, 1973, [Pub. L. 93–53, § 4(a)(6)][/us/pl/93/53/s4/a/6], [87 Stat. 135][/us/stat/87/135], related to special project grants for maturity and infant care, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
+    A prior section 708, [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], § 508, as added Jan. 2, 1968, [Pub. L. 90–248, title III][/us/pl/90/248/tIII], § 301, [81 Stat. 926][/us/stat/81/926]; amended July 10, 1972, [Pub. L. 92–345][/us/pl/92/345], § 2(d), [86 Stat. 457][/us/stat/86/457]; July 1, 1973, [Pub. L. 93–53][/us/pl/93/53], § 4(a)(6), [87 Stat. 135][/us/stat/87/135], related to special project grants for maturity and infant care, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
 
-    Provisions similar to those comprising former section 708 were contained in section 531 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, as added Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274] (formerly classified to [section 729 of this title][/us/usc/t42/s729]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
+    Provisions similar to those comprising former section 708 were contained in section 531 of [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], as added Oct. 24, 1963, [Pub. L. 88–156][/us/pl/88/156], § 4, [77 Stat. 274][/us/stat/77/274] (formerly classified to [section 729 of this title][/us/usc/t42/s729]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248][/us/pl/90/248], § 301.
 
  __Amendments__ 
 
@@ -75,9 +75,9 @@
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F825
-[/us/pl/101/239/s6502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fb
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2276
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728
@@ -88,21 +88,21 @@
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/90/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIII
 [/us/stat/81/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F926
-[/us/pl/92/345/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F345%2Fs2%2Fd
+[/us/pl/92/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F345
 [/us/stat/86/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F457
-[/us/pl/93/53/s4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs4%2Fa%2F6
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F135
 [/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/88/156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs4
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F274
 [/us/usc/t42/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs729
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s6510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6510%2Fa

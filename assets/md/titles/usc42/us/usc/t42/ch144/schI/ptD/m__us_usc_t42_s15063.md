@@ -71,7 +71,7 @@
 
         to promote the viability and use of the resources and expertise of the Centers nationally and internationally.
 
-([Pub. L. 106–402, title I, § 153][/us/pl/106/402/s153], Oct. 30, 2000, [114 Stat. 1720][/us/stat/114/1720].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 153, Oct. 30, 2000, [114 Stat. 1720][/us/stat/114/1720].)
 
 ----------
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t42/s15061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15061%2Fb
-[/us/pl/106/402/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs153
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1720
 
 

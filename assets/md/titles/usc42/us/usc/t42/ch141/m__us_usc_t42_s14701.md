@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t42/ch141/m__us_usc_t42_ch141.md) | [Next](./../../../..//us/usc/t42/ch141/schI/m__us_usc_t42_ch141_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14701)
 
-## § 14701. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
+## § 14701. Repealed. [Pub. L. 111–314][/us/pl/111/314], § 6, Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
-    Section, [Pub. L. 105–303, § 2][/us/pl/105/303/s2], Oct. 28, 1998, [112 Stat. 2843][/us/stat/112/2843], related to definitions. See [section 50101 of Title 51][/us/usc/t51/s50101], National and Commercial Space Programs.
+    Section, [Pub. L. 105–303][/us/pl/105/303], § 2, Oct. 28, 1998, [112 Stat. 2843][/us/stat/112/2843], related to definitions. See [section 50101 of Title 51][/us/usc/t51/s50101], National and Commercial Space Programs.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/105/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F303%2Fs2
+[/us/pl/105/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F303
 [/us/stat/112/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2843
 [/us/usc/t51/s50101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50101
 

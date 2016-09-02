@@ -43,7 +43,7 @@
 
         For purposes of this section, the term “biodiesel” means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under [section 7545 of this title][/us/usc/t42/s7545] and that meets the American Society for Testing and Materials D6751–02a Standard Specification for Biodiesel Fuel (B100) Blend Stock for Distillate Fuels.
 
-([Pub. L. 109–58, title VII, § 757][/us/pl/109/58/s757], Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 757, Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t42/s7545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545
-[/us/pl/109/58/s757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs757
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F832
 
 

@@ -27,7 +27,7 @@
 
         The Director of the Institute shall collaborate with the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464L, as added [Pub. L. 102–321, title I, § 123(a)][/us/pl/102/321/s123/a], July 10, 1992, [106 Stat. 360][/us/stat/106/360]; amended [Pub. L. 102–352, § 2(a)(3)][/us/pl/102/352/s2/a/3], Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 109–482, title I, § 103(b)(33)][/us/pl/109/482/s103/b/33], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464L, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 123(a), July 10, 1992, [106 Stat. 360][/us/stat/106/360]; amended [Pub. L. 102–352][/us/pl/102/352], § 2(a)(3), Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(33), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs123%2Fa
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F360
-[/us/pl/102/352/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F3
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F938
-[/us/pl/109/482/s103/b/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F33
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352

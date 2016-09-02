@@ -37,7 +37,7 @@
 
         All reinsurance claims for losses in excess of losses assumed by the pool shall be submitted on a portfolio basis by such pool in accordance with terms and conditions established by the Administrator.
 
-([Pub. L. 90–448, title XIII, § 1335][/us/pl/90/448/s1335], Aug. 1, 1968, [82 Stat. 583][/us/stat/82/583]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100232(d)(3), 100238(b)(1), July 6, 2012, [126 Stat. 954][/us/stat/126/954], 958.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1335, Aug. 1, 1968, [82 Stat. 583][/us/stat/82/583]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100232(d)(3), 100238(b)(1), July 6, 2012, [126 Stat. 954][/us/stat/126/954], 958.)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100232(d)(3)][/us/pl/112/141/s100232/d/3], designated existing provisions as par. (1), inserted heading, substituted “The Administrator” for “The Director” and added par. (2).
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100232(d)(3), designated existing provisions as par. (1), inserted heading, substituted “The Administrator” for “The Director” and added par. (2).
 
-    Subsecs. (b) to (d). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    Subsecs. (b) to (d). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
     1983—[Pub. L. 98–181][/us/pl/98/181] substituted “Director” for “Secretary” wherever appearing.
 
@@ -65,17 +65,17 @@
 ----------
 
 [/us/usc/t42/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4051
-[/us/pl/90/448/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1335
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F583
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F954
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/112/141/s100232/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100232%2Fd%2F3
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

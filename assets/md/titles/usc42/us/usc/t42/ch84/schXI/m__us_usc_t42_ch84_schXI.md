@@ -11,36 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schX/m__us_usc_t42_s7352.md) | [Next](./../../../../..//us/usc/t42/ch84/schXII/m__us_usc_t42_ch84_schXII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXI)
+[Previous](./../../../../..//us/usc/t42/ch84/schX/m__us_usc_t42_s7352.md) | [Next](./../../../../..//us/usc/t42/ch84/schXI/m__us_usc_t42_s7361...7364.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXI)
 
 ### SUBCHAPTER XI—ENERGY TARGETS
 
-§§ 7361 to 7364. __Repealed.__  __[__  __Pub. L. 102–486, title XVI, § 1606__  __][/us/pl/102/486/s1606]__  __,__  __Oct. 24, 1992__  __,__  __[__  __106 Stat. 3003__  __][/us/stat/106/3003]__ 
-
-    Section 7361, [Pub. L. 96–294, title III, § 301][/us/pl/96/294/s301], June 30, 1980, [94 Stat. 712][/us/stat/94/712], related to preparation of energy targets.
-
-    Section 7362, [Pub. L. 96–294, title III, § 302][/us/pl/96/294/s302], June 30, 1980, [94 Stat. 712][/us/stat/94/712], related to congressional consideration.
-
-    Section 7363, [Pub. L. 96–294, title III, § 303][/us/pl/96/294/s303], June 30, 1980, [94 Stat. 714][/us/stat/94/714], set out energy target form and definitions.
-
-    Section 7364, [Pub. L. 96–294, title III, § 304][/us/pl/96/294/s304], June 30, 1980, [94 Stat. 715][/us/stat/94/715], set out general provisions regarding targets.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schX/m__us_usc_t42_s7352.md) | [Next](./../../../../..//us/usc/t42/ch84/schXII/m__us_usc_t42_ch84_schXII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXI)
+[Previous](./../../../../..//us/usc/t42/ch84/schX/m__us_usc_t42_s7352.md) | [Next](./../../../../..//us/usc/t42/ch84/schXI/m__us_usc_t42_s7361...7364.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXI)
 
 ----------
 ----------
 
-[/us/pl/102/486/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1606
-[/us/stat/106/3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3003
-[/us/pl/96/294/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs301
-[/us/stat/94/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F712
-[/us/pl/96/294/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs302
-[/us/stat/94/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F712
-[/us/pl/96/294/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs303
-[/us/stat/94/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F714
-[/us/pl/96/294/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs304
-[/us/stat/94/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F715
 
 

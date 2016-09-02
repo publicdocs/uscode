@@ -121,35 +121,35 @@
 
             No grant or cooperative agreement provided or otherwise made available under this section may be used for litigation pursuant to [section 300j–8 of this title][/us/usc/t42/s300j–8].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1442, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1682][/us/stat/88/1682]; amended [Pub. L. 95–190][/us/pl/95/190], §§ 2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, [91 Stat. 1393–1395][/us/stat/91/1393-1395], 1397–1399; [Pub. L. 96–63, § 1][/us/pl/96/63/s1], Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 96–502, § 5][/us/pl/96/502/s5], Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title I, § 107][/us/pl/99/339/s107], title III, §§ 301(a), (g), 304(a), June 19, 1986, [100 Stat. 651][/us/stat/100/651], 663, 665, 667; [Pub. L. 104–66, title II, § 2021(h)][/us/pl/104/66/s2021/h], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 121, 122, Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651]; [Pub. L. 107–188, title IV, § 403(4)][/us/pl/107/188/s403/4], June 12, 2002, [116 Stat. 687][/us/stat/116/687]; [Pub. L. 114–98, § 4][/us/pl/114/98/s4], Dec. 11, 2015, [129 Stat. 2200][/us/stat/129/2200].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1442, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1682][/us/stat/88/1682]; amended [Pub. L. 95–190][/us/pl/95/190], §§ 2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, [91 Stat. 1393–1395][/us/stat/91/1393-1395], 1397–1399; [Pub. L. 96–63][/us/pl/96/63], § 1, Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 96–502][/us/pl/96/502], § 5, Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title I][/us/pl/99/339/tI], § 107, title III, §§ 301(a), (g), 304(a), June 19, 1986, [100 Stat. 651][/us/stat/100/651], 663, 665, 667; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(h), Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 104–182, title I][/us/pl/104/182/tI], §§ 121, 122, Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651]; [Pub. L. 107–188, title IV][/us/pl/107/188/tIV], § 403(4), June 12, 2002, [116 Stat. 687][/us/stat/116/687]; [Pub. L. 114–98][/us/pl/114/98], § 4, Dec. 11, 2015, [129 Stat. 2200][/us/stat/129/2200].)
 
  __Amendments__ 
 
-    2015—Subsec. (e). [Pub. L. 114–98, § 4(1)][/us/pl/114/98/s4/1], designated first to seventh sentences of existing provisions as pars. (1) to (7), respectively.
+    2015—Subsec. (e). [Pub. L. 114–98][/us/pl/114/98], § 4(1), designated first to seventh sentences of existing provisions as pars. (1) to (7), respectively.
 
-    Subsec. (e)(5). [Pub. L. 114–98, § 4(2)][/us/pl/114/98/s4/2], substituted “2015 through 2020” for “1997 through 2003”.
+    Subsec. (e)(5). [Pub. L. 114–98][/us/pl/114/98], § 4(2), substituted “2015 through 2020” for “1997 through 2003”.
 
-    Subsec. (e)(8). [Pub. L. 114–98, § 4(3)][/us/pl/114/98/s4/3], added par. (8).
+    Subsec. (e)(8). [Pub. L. 114–98][/us/pl/114/98], § 4(3), added par. (8).
 
-    2002—Subsec. (b). [Pub. L. 107–188, § 403(4)(A)][/us/pl/107/188/s403/4/A], which directed substitution of “this subsection” for “this subparagraph”, was executed by making the substitution in three places to reflect the probable intent of Congress.
+    2002—Subsec. (b). [Pub. L. 107–188][/us/pl/107/188], § 403(4)(A), which directed substitution of “this subsection” for “this subparagraph”, was executed by making the substitution in three places to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 107–188, § 403(4)(B)][/us/pl/107/188/s403/4/B], amended subsec. (d) generally, substituting provisions relating to authorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
+    Subsec. (d). [Pub. L. 107–188][/us/pl/107/188], § 403(4)(B), amended subsec. (d) generally, substituting provisions relating to authorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
 
-    1996—Subsec. (a)(2). [Pub. L. 104–182, § 121(4)(A)][/us/pl/104/182/s121/4/A], added heading and text of par. (2) and struck out former par. (2) which read as follows: “(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in [section 300j–2(c)(1) of this title][/us/usc/t42/s300j–2/c/1]).”
+    1996—Subsec. (a)(2). [Pub. L. 104–182][/us/pl/104/182], § 121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: “(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in [section 300j–2(c)(1) of this title][/us/usc/t42/s300j–2/c/1]).”
 
-    Subsec. (a)(2)(B). [Pub. L. 104–182, § 121(3)][/us/pl/104/182/s121/3], redesignated subpar. (B) as subsec. (b) and transferred that subsec. to appear after subsec. (a).
+    Subsec. (a)(2)(B). [Pub. L. 104–182][/us/pl/104/182], § 121(3), redesignated subpar. (B) as subsec. (b) and transferred that subsec. to appear after subsec. (a).
 
-    Subsec. (a)(3), (11). [Pub. L. 104–182, § 121(4)(B)][/us/pl/104/182/s121/4/B], (C), redesignated par. (11) as (3), transferred that par. to appear before par. (4), and struck out former par. (3) which provided that the Administrator was to conduct studies, and make periodic reports to Congress, on the costs of carrying out regulations prescribed under [section 300g–1 of this title][/us/usc/t42/s300g–1].
+    Subsec. (a)(3), (11). [Pub. L. 104–182][/us/pl/104/182], § 121(4)(B), (C), redesignated par. (11) as (3), transferred that par. to appear before par. (4), and struck out former par. (3) which provided that the Administrator was to conduct studies, and make periodic reports to Congress, on the costs of carrying out regulations prescribed under [section 300g–1 of this title][/us/usc/t42/s300g–1].
 
-    Subsec. (b). [Pub. L. 104–182, § 121(2)][/us/pl/104/182/s121/2], (3), redesignated subsec. (a)(2)(B) as subsec. (b), transferred that subsec. to appear after subsec. (a), and struck out former subsec. (b) which read as follows: “In carrying out this subchapter, the Administrator is authorized to—
+    Subsec. (b). [Pub. L. 104–182][/us/pl/104/182], § 121(2), (3), redesignated subsec. (a)(2)(B) as subsec. (b), transferred that subsec. to appear after subsec. (a), and struck out former subsec. (b) which read as follows: “In carrying out this subchapter, the Administrator is authorized to—
 
     “(1) collect and make available information pertaining to research, investigations, and demonstrations with respect to providing a dependably safe supply of drinking water together with appropriate recommendations in connection therewith;
 
     “(2) make available research facilities of the Agency to appropriate public authorities, institutions, and individuals engaged in studies and research relating to the purposes of this subchapter;”.
 
-    Subsecs. (b)(3), (c)(3). [Pub. L. 104–182, § 121(1)][/us/pl/104/182/s121/1], which directed redesignation of subsec. (b)(3) as par. (3) of subsec. (d) and transfer of that par. to follow par. (2) of subsec. (d), was executed by redesignating subsec. (b)(3) as par. (3) of subsec. (c) and transferring that par. to follow par. (2) of subsec. (c) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (c) by [Pub. L. 104–66][/us/pl/104/66]. See 1995 Amendment note below. Moreover, subsec. (d) does not have any pars.
+    Subsecs. (b)(3), (c)(3). [Pub. L. 104–182][/us/pl/104/182], § 121(1), which directed redesignation of subsec. (b)(3) as par. (3) of subsec. (d) and transfer of that par. to follow par. (2) of subsec. (d), was executed by redesignating subsec. (b)(3) as par. (3) of subsec. (c) and transferring that par. to follow par. (2) of subsec. (c) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (c) by [Pub. L. 104–66][/us/pl/104/66]. See 1995 Amendment note below. Moreover, subsec. (d) does not have any pars.
 
-    Subsec. (e). [Pub. L. 104–182, § 122][/us/pl/104/182/s122], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Administrator is authorized to provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with national drinking water regulations. Such assistance may include ‘circuit-rider’ programs, training, and preliminary engineering studies. There are authorized to be appropriated to carry out this subsection $10,000,000 for each of the fiscal years 1987 through 1991. Not less than the greater of—
+    Subsec. (e). [Pub. L. 104–182][/us/pl/104/182], § 122, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Administrator is authorized to provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with national drinking water regulations. Such assistance may include ‘circuit-rider’ programs, training, and preliminary engineering studies. There are authorized to be appropriated to carry out this subsection $10,000,000 for each of the fiscal years 1987 through 1991. Not less than the greater of—
 
     “(1) 3 percent of the amounts appropriated under this subsection, or
 
@@ -159,13 +159,13 @@
 
     1995—Subsecs. (c) to (g). [Pub. L. 104–66][/us/pl/104/66] redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible.”
 
-    1986—Subsec. (e). [Pub. L. 99–339, § 304(a)][/us/pl/99/339/s304/a], struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
+    1986—Subsec. (e). [Pub. L. 99–339][/us/pl/99/339], § 304(a), struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
 
-    Subsec. (f). [Pub. L. 99–339, § 301(a)][/us/pl/99/339/s301/a], authorized appropriations to carry out subsec. (a)(2)(B) of this section for fiscal years 1987 to 1991 and to carry out provisions of this section other than subsecs. (a)(2)(B) and (g) and provisions relating to research for fiscal years 1987 to 1991.
+    Subsec. (f). [Pub. L. 99–339][/us/pl/99/339], § 301(a), authorized appropriations to carry out subsec. (a)(2)(B) of this section for fiscal years 1987 to 1991 and to carry out provisions of this section other than subsecs. (a)(2)(B) and (g) and provisions relating to research for fiscal years 1987 to 1991.
 
-    Subsec. (g). [Pub. L. 99–339, § 301(g)][/us/pl/99/339/s301/g], authorized appropriations to carry out this subsection of $10,000,000 for each of fiscal years 1987 through 1991 and specified amount to be utilized for public water systems owned or operated by Indian tribes.
+    Subsec. (g). [Pub. L. 99–339][/us/pl/99/339], § 301(g), authorized appropriations to carry out this subsection of $10,000,000 for each of fiscal years 1987 through 1991 and specified amount to be utilized for public water systems owned or operated by Indian tribes.
 
-    [Pub. L. 99–339, § 107][/us/pl/99/339/s107] added subsec. (g).
+    [Pub. L. 99–339][/us/pl/99/339], § 107 added subsec. (g).
 
     1980—Subsecs. (e), (f). [Pub. L. 96–502][/us/pl/96/502] added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -173,11 +173,11 @@
 
     1977—Subsec. (a)(2). [Pub. L. 95–190][/us/pl/95/190], §§ 9, 13, designated existing provisions as subpar. (A), added subpar. (B) and, in subpar. (B) as added, substituted provisions authorizing Administrator to make grants and provide technical assistance for any emergency situation affecting public water systems and criteria for such grants and assistance for provisions authorizing Administrator to make grants and provide technical assistance for any emergency situation respecting drinking water and criteria for determination of such situations.
 
-    Subsec. (a)(3). [Pub. L. 95–190, § 3(a)][/us/pl/95/190/s3/a], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (a)(3). [Pub. L. 95–190][/us/pl/95/190], § 3(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (a)(10), (11). [Pub. L. 95–190, § 3(e)(1)][/us/pl/95/190/s3/e/1], added pars. (10) and (11).
+    Subsec. (a)(10), (11). [Pub. L. 95–190][/us/pl/95/190], § 3(e)(1), added pars. (10) and (11).
 
-    Subsec. (b)(3)(C). [Pub. L. 95–190, § 10(b)][/us/pl/95/190/s10/b], substituted “300j–2(c)” for “300j–2(d)”.
+    Subsec. (b)(3)(C). [Pub. L. 95–190][/us/pl/95/190], § 10(b), substituted “300j–2(c)” for “300j–2(d)”.
 
     Subsecs. (c), (d). [Pub. L. 95–190][/us/pl/95/190], §§ 3(b), 4, added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
 
@@ -185,7 +185,7 @@
 
  __Findings__ 
 
-[Pub. L. 114–98, § 2][/us/pl/114/98/s2], Dec. 11, 2015, [129 Stat. 2199][/us/stat/129/2199], provided that: 
+[Pub. L. 114–98][/us/pl/114/98], § 2, Dec. 11, 2015, [129 Stat. 2199][/us/stat/129/2199], provided that: 
 
 > “Congress finds that—
 
@@ -207,7 +207,7 @@
 
  __Scientific Research Review__ 
 
-[Pub. L. 104–182, title II, § 202][/us/pl/104/182/s202], Aug. 6, 1996, [110 Stat. 1682][/us/stat/110/1682], provided that:
+[Pub. L. 104–182, title II][/us/pl/104/182/tII], § 202, Aug. 6, 1996, [110 Stat. 1682][/us/stat/110/1682], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -231,13 +231,13 @@
 
  __National Center for Ground Water Research__ 
 
-[Pub. L. 104–182, title II, § 203][/us/pl/104/182/s203], Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683], provided that: 
+[Pub. L. 104–182, title II][/us/pl/104/182/tII], § 203, Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683], provided that: 
 
 > “The Administrator of the Environmental Protection Agency, acting through the Robert S. Kerr Environmental Research Laboratory, is authorized to reestablish a partnership between the Laboratory and the National Center for Ground Water Research, a university consortium, to conduct research, training, and technology transfer for ground water quality protection and restoration. No funds are authorized by this section.”
 
  __Comparative Health Effects Assessment__ 
 
-[Pub. L. 99–339, title III, § 304(b)][/us/pl/99/339/s304/b], June 19, 1986, [100 Stat. 667][/us/stat/100/667], provided that: 
+[Pub. L. 99–339, title III][/us/pl/99/339/tIII], § 304(b), June 19, 1986, [100 Stat. 667][/us/stat/100/667], provided that: 
 
 > “The Administrator of the Environmental Protection Agency shall conduct a comparative health effects assessment, using available data, to compare the public health effects (both positive and negative) associated with water treatment chemicals and their byproducts to the public health effects associated with contaminants found in public water supplies. Not later than 18 months after the date of the enactment of this Act \[June 19, 1986\], the Administrator shall submit a report to the Congress setting forth the results of such assessment.”
 
@@ -252,61 +252,61 @@
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t42/s300j–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%938
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1682
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1393-1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1393-1395
-[/us/pl/96/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63%2Fs1
+[/us/pl/96/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63
 [/us/stat/93/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F411
-[/us/pl/96/502/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs5
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/stat/94/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2738
-[/us/pl/99/339/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs107
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F651
-[/us/pl/104/66/s2021/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fh
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F727
-[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1651
-[/us/pl/107/188/s403/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F4
+[/us/pl/107/188/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIV
 [/us/stat/116/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F687
-[/us/pl/114/98/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4
+[/us/pl/114/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98
 [/us/stat/129/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2200
-[/us/pl/114/98/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4%2F1
-[/us/pl/114/98/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4%2F2
-[/us/pl/114/98/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4%2F3
-[/us/pl/107/188/s403/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F4%2FA
-[/us/pl/107/188/s403/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F4%2FB
-[/us/pl/104/182/s121/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs121%2F4%2FA
+[/us/pl/114/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98
+[/us/pl/114/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98
+[/us/pl/114/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300j–2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%932%2Fc%2F1
-[/us/pl/104/182/s121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs121%2F3
-[/us/pl/104/182/s121/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs121%2F4%2FB
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
-[/us/pl/104/182/s121/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs121%2F2
-[/us/pl/104/182/s121/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs121%2F1
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/104/182/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs122
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/99/339/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs304%2Fa
-[/us/pl/99/339/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs301%2Fa
-[/us/pl/99/339/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs301%2Fg
-[/us/pl/99/339/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs107
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/pl/96/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F63
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
-[/us/pl/95/190/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs3%2Fa
-[/us/pl/95/190/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs3%2Fe%2F1
-[/us/pl/95/190/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs10%2Fb
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
-[/us/pl/114/98/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs2
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/114/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98
 [/us/stat/129/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2199
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/pl/104/182/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs202
+[/us/pl/104/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtII
 [/us/stat/110/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1682
-[/us/pl/104/182/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs203
+[/us/pl/104/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtII
 [/us/stat/110/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1683
-[/us/pl/99/339/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs304%2Fb
+[/us/pl/99/339/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtIII
 [/us/stat/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F667
 
 

@@ -33,7 +33,7 @@
 
         (3) the Emergency Petroleum Allocation Act of 1973.1
 
-([Pub. L. 94–163, title V, § 521][/us/pl/94/163/s521], Dec. 22, 1975, [89 Stat. 960][/us/stat/89/960].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 521, Dec. 22, 1975, [89 Stat. 960][/us/stat/89/960].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs521
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F960
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F875

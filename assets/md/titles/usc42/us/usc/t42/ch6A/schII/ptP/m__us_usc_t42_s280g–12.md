@@ -127,7 +127,7 @@
 
         To awards grants as provided in subsection (d), there are authorized to be appropriated $120,000,000 for each of fiscal years 2011 and 2012, and such sums as may be necessary to carry out this section for each of fiscal years 2013 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–1, formerly § 399W, as added, amended, and renumbered § 399V–1, [Pub. L. 111–148, title V, § 5405][/us/pl/111/148/s5405], title X, § 10501(f)(1), (2), Mar. 23, 2010, [124 Stat. 649][/us/stat/124/649], 996.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–1, formerly § 399W, as added, amended, and renumbered § 399V–1, [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5405, title X, § 10501(f)(1), (2), Mar. 23, 2010, [124 Stat. 649][/us/stat/124/649], 996.)
 
  __References in Text__ 
 
@@ -135,7 +135,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(2)(A). [Pub. L. 111–148, § 10501(f)(2)][/us/pl/111/148/s10501/f/2], substituted “and the departments that train providers in primary care in 1 or more health professions schools in the State” for “and the departments of 1 or more health professions schools in the State that train providers in primary care”.
+    2010—Subsec. (b)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 10501(f)(2), substituted “and the departments that train providers in primary care in 1 or more health professions schools in the State” for “and the departments of 1 or more health professions schools in the State that train providers in primary care”.
 
 ----------
 
@@ -146,10 +146,10 @@
 
 [/us/usc/t42/s1320c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5405
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F649
 [/us/usc/t42/s256a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a%E2%80%931
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s10501/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Ff%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

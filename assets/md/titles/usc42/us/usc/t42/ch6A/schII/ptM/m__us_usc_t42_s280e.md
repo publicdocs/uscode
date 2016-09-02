@@ -131,27 +131,27 @@
 
         In the case of a grant under subsection (a) of this section to any State specified in subsection (b) of [section 280e–3 of this title][/us/usc/t42/s280e–3], the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399B, formerly § 399H, as added [Pub. L. 102–515, § 3][/us/pl/102/515/s3], Oct. 24, 1992, [106 Stat. 3372][/us/stat/106/3372]; renumbered § 399B and amended [Pub. L. 106–310, div. A, title V, § 502(2)(A)][/us/pl/106/310/s502/2/A], (B), Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115]; [Pub. L. 107–260, § 2(a)][/us/pl/107/260/s2/a], Oct. 29, 2002, [116 Stat. 1743][/us/stat/116/1743].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399B, formerly § 399H, as added [Pub. L. 102–515][/us/pl/102/515], § 3, Oct. 24, 1992, [106 Stat. 3372][/us/stat/106/3372]; renumbered § 399B and amended [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 502(2)(A), (B), Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115]; [Pub. L. 107–260][/us/pl/107/260], § 2(a), Oct. 29, 2002, [116 Stat. 1743][/us/stat/116/1743].)
 
  __Amendments__ 
 
     2002—Subsec. (a). [Pub. L. 107–260][/us/pl/107/260] designated existing provisions as par. (1), inserted par. (1) heading, substituted “population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data” for “population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data”, redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
 
-    2000—Subsec. (e). [Pub. L. 106–310, § 502(2)(B)][/us/pl/106/310/s502/2/B], substituted “subsection (b) of [section 280e–3 of this title][/us/usc/t42/s280e–3]” for “[section 280e–3(b) of this title][/us/usc/t42/s280e–3/b]” and “such section” for “section 399C”.
+    2000—Subsec. (e). [Pub. L. 106–310][/us/pl/106/310], § 502(2)(B), substituted “subsection (b) of [section 280e–3 of this title][/us/usc/t42/s280e–3]” for “[section 280e–3(b) of this title][/us/usc/t42/s280e–3/b]” and “such section” for “section 399C”.
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–260, § 2(b)][/us/pl/107/260/s2/b], Oct. 29, 2002, [116 Stat. 1744][/us/stat/116/1744], provided that: 
+[Pub. L. 107–260][/us/pl/107/260], § 2(b), Oct. 29, 2002, [116 Stat. 1744][/us/stat/116/1744], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[[42 U.S.C. 280e][/us/usc/t42/s280e]\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations.”
 
  __Congressional Findings and Purpose__ 
 
-[Pub. L. 102–515, § 2][/us/pl/102/515/s2], Oct. 24, 1992, [106 Stat. 3372][/us/stat/106/3372], provided that:
+[Pub. L. 102–515][/us/pl/102/515], § 2, Oct. 24, 1992, [106 Stat. 3372][/us/stat/106/3372], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -180,22 +180,22 @@
 
 [/us/usc/t42/s280e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/515/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F515%2Fs3
+[/us/pl/102/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F515
 [/us/stat/106/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3372
-[/us/pl/106/310/s502/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs502%2F2%2FA
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1115
-[/us/pl/107/260/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F260%2Fs2%2Fa
+[/us/pl/107/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F260
 [/us/stat/116/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1743
 [/us/pl/107/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F260
-[/us/pl/106/310/s502/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs502%2F2%2FB
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s280e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e%E2%80%933
 [/us/usc/t42/s280e–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e%E2%80%933%2Fb
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/107/260/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F260%2Fs2%2Fb
+[/us/pl/107/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F260
 [/us/stat/116/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1744
 [/us/usc/t42/s280e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e
-[/us/pl/102/515/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F515%2Fs2
+[/us/pl/102/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F515
 [/us/stat/106/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3372
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 

@@ -83,21 +83,21 @@
 
         Of the funds appropriated annually to the Centers for Disease Control and Prevention for HIV/AIDS prevention activities, $30,000,000 shall be made available for each of the fiscal years 2007 through 2009 for grants under subsection (a), of which $20,000,000 shall be made available for grants to States with the policies described in subsection (b)(1), and $10,000,000 shall be made available for grants to States with the policies described in subsection (b)(2). Funds provided under this section are available until expended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2625, as added [Pub. L. 104–146, § 7(b)(3)][/us/pl/104/146/s7/b/3], May 20, 1996, [110 Stat. 1369][/us/stat/110/1369]; amended [Pub. L. 106–345, title II, § 212(a)][/us/pl/106/345/s212/a], Oct. 20, 2000, [114 Stat. 1339][/us/stat/114/1339]; [Pub. L. 109–415, title II, § 209][/us/pl/109/415/s209], title VII, § 703, Dec. 19, 2006, [120 Stat. 2802][/us/stat/120/2802], 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2625, as added [Pub. L. 104–146][/us/pl/104/146], § 7(b)(3), May 20, 1996, [110 Stat. 1369][/us/stat/110/1369]; amended [Pub. L. 106–345, title II][/us/pl/106/345/tII], § 212(a), Oct. 20, 2000, [114 Stat. 1339][/us/stat/114/1339]; [Pub. L. 109–415, title II][/us/pl/109/415/tII], § 209, title VII, § 703, Dec. 19, 2006, [120 Stat. 2802][/us/stat/120/2802], 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    [Pub. L. 109–415, § 209][/us/pl/109/415/s209], amended section catchline and text generally, substituting provisions relating to early diagnosis grant program for provisions requiring State certification of measures to adopt CDC guidelines for pregnant women not later than 120 days after May 20, 1996, and authorizing additional funds if such certification was provided.
+    [Pub. L. 109–415][/us/pl/109/415], § 209, amended section catchline and text generally, substituting provisions relating to early diagnosis grant program for provisions requiring State certification of measures to adopt CDC guidelines for pregnant women not later than 120 days after May 20, 1996, and authorizing additional funds if such certification was provided.
 
-    2000—Subsec. (c)(1)(F). [Pub. L. 106–345, § 212(a)(1)][/us/pl/106/345/s212/a/1], added subpar. (F).
+    2000—Subsec. (c)(1)(F). [Pub. L. 106–345][/us/pl/106/345], § 212(a)(1), added subpar. (F).
 
-    Subsec. (c)(2). [Pub. L. 106–345, § 212(a)(2)][/us/pl/106/345/s212/a/2], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of carrying out this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under [section 300ff–77 of this title][/us/usc/t42/s300ff–77] for carrying out this part are not available for carrying out this section unless otherwise authorized.”
+    Subsec. (c)(2). [Pub. L. 106–345][/us/pl/106/345], § 212(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of carrying out this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under [section 300ff–77 of this title][/us/usc/t42/s300ff–77] for carrying out this part are not available for carrying out this section unless otherwise authorized.”
 
-    Subsec. (c)(4). [Pub. L. 106–345, § 212(a)(3)][/us/pl/106/345/s212/a/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 106–345][/us/pl/106/345], § 212(a)(3), added par. (4).
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -109,7 +109,7 @@
 
  __Perinatal Transmission of HIV Disease; Congressional Findings__ 
 
-[Pub. L. 104–146, § 7(a)][/us/pl/104/146/s7/a], May 20, 1996, [110 Stat. 1368][/us/stat/110/1368], provided that: 
+[Pub. L. 104–146][/us/pl/104/146], § 7(a), May 20, 1996, [110 Stat. 1368][/us/stat/110/1368], provided that: 
 
 > “The Congress finds as follows:
 
@@ -141,30 +141,30 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/146/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs7%2Fb%2F3
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1369
-[/us/pl/106/345/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs212%2Fa
+[/us/pl/106/345/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtII
 [/us/stat/114/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1339
-[/us/pl/109/415/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs209
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2802
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs209
-[/us/pl/106/345/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs212%2Fa%2F1
-[/us/pl/106/345/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs212%2Fa%2F2
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/usc/t42/s300ff–77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9377
-[/us/pl/106/345/s212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs212%2Fa%2F3
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/usc/t42/s300ff–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9311
 [/us/pl/104/146/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs13
 [/us/usc/t42/s300ff–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9311
-[/us/pl/104/146/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs7%2Fa
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1368
 
 

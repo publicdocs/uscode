@@ -41,7 +41,7 @@
 
         Not later than 2½ years after October 30, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report concerning the results of the evaluation conducted under this section.
 
-([Pub. L. 106–402, title II, § 210][/us/pl/106/402/s210], Oct. 30, 2000, [114 Stat. 1733][/us/stat/114/1733].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 210, Oct. 30, 2000, [114 Stat. 1733][/us/stat/114/1733].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs210
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1733
 
 

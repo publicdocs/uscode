@@ -31,13 +31,13 @@
 
         Unless expressly provided otherwise, any reference in this subchapter to any provision of law not in this subchapter shall be understood to constitute a general reference under the doctrine of incorporation by reference, and thus to include any subsequent amendments to the provision.
 
-([Pub. L. 90–351, title I, § 1205][/us/pl/90/351/s1205], formerly § 1204, as added [Pub. L. 98–473, title II, § 609F][/us/pl/98/473/s609F], Oct. 12, 1984, [98 Stat. 2100][/us/stat/98/2100]; renumbered § 1205, [Pub. L. 100–690, title VI, § 6106(a)(1)][/us/pl/100/690/s6106/a/1], Nov. 18, 1988, [102 Stat. 4341][/us/stat/102/4341]; amended [Pub. L. 105–180, § 2(b)][/us/pl/105/180/s2/b], June 16, 1998, [112 Stat. 511][/us/stat/112/511]; [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(F)][/us/pl/112/239/s1086/b/1/F], Jan. 2, 2013, [126 Stat. 1967][/us/stat/126/1967].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1205, formerly § 1204, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609F, Oct. 12, 1984, [98 Stat. 2100][/us/stat/98/2100]; renumbered § 1205, [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6106(a)(1), Nov. 18, 1988, [102 Stat. 4341][/us/stat/102/4341]; amended [Pub. L. 105–180][/us/pl/105/180], § 2(b), June 16, 1998, [112 Stat. 511][/us/stat/112/511]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1086(b)(1)(F), Jan. 2, 2013, [126 Stat. 1967][/us/stat/126/1967].)
 
  __Prior Provisions__ 
 
-    A prior section 3796c, [Pub. L. 90–351, title I, § 1204][/us/pl/90/351/s1204], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1221][/us/stat/93/1221], contained provisions similar to this section, prior to the general amendment of this subchapter by [section 609F of Pub. L. 98–473][/us/pl/98/473/s609F].
+    A prior section 3796c, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1204, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1221][/us/stat/93/1221], contained provisions similar to this section, prior to the general amendment of this subchapter by [section 609F of Pub. L. 98–473][/us/pl/98/473/s609F].
 
-    Another prior section 3796c, [Pub. L. 90–351, title I, § 704][/us/pl/90/351/s704], as added [Pub. L. 94–430, § 2][/us/pl/94/430/s2], Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], contained provisions similar to this section, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    Another prior section 3796c, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 704, as added [Pub. L. 94–430][/us/pl/94/430], § 2, Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], contained provisions similar to this section, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
  __Amendments__ 
 
@@ -57,21 +57,21 @@
 ----------
 
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
-[/us/pl/90/351/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1205
-[/us/pl/98/473/s609F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609F
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2100
-[/us/pl/100/690/s6106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6106%2Fa%2F1
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4341
-[/us/pl/105/180/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F180%2Fs2%2Fb
+[/us/pl/105/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F180
 [/us/stat/112/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F511
-[/us/pl/112/239/s1086/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F1%2FF
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1967
-[/us/pl/90/351/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1204
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1221
 [/us/pl/98/473/s609F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609F
-[/us/pl/90/351/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs704
-[/us/pl/94/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430
 [/us/stat/90/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1347
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

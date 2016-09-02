@@ -35,7 +35,7 @@
 
         (2) that plan to carry out projects that would result in significant energy efficiency improvements or reductions in fossil fuel use.
 
-([Pub. L. 110–140, title V, § 546][/us/pl/110/140/s546], Dec. 19, 2007, [121 Stat. 1673][/us/stat/121/1673].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 546, Dec. 19, 2007, [121 Stat. 1673][/us/stat/121/1673].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s17154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17154
-[/us/pl/110/140/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs546
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1673
 
 

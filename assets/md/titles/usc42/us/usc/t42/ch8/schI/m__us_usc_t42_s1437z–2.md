@@ -33,7 +33,7 @@
 
         No action taken under this section shall result in any liability to the Federal Government.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 30, as added [Pub. L. 105–276, title V, § 516][/us/pl/105/276/s516], Oct. 21, 1998, [112 Stat. 2550][/us/stat/112/2550].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 30, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 516, Oct. 21, 1998, [112 Stat. 2550][/us/stat/112/2550].)
 
  __Effective Date__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs516
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2550
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

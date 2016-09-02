@@ -69,7 +69,7 @@
 
         If any geographic area demonstrates that it has fully implemented any of the activities described in subsection (d) for all homeless individuals and families or for all members of subpopulations for whom such activities are targeted, that geographic area shall receive the bonus or incentive provided under subsection (d), but may use such bonus or incentive for any eligible activity under either [section 11383 of this title][/us/usc/t42/s11383] or paragraphs (4) and (5) of [section 11374(a) of this title][/us/usc/t42/s11374/a] for homeless people generally or for the relevant subpopulation.
 
-([Pub. L. 100–77, title IV, § 428][/us/pl/100/77/s428], as added [Pub. L. 111–22, div. B, title III, § 1305(3)][/us/pl/111/22/s1305/3], May 20, 2009, [123 Stat. 1693][/us/stat/123/1693].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 428, as added [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1305(3), May 20, 2009, [123 Stat. 1693][/us/stat/123/1693].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
     A prior [section 428 of Pub. L. 100–77][/us/pl/100/77/s428] was renumbered section 433 and is classified to [section 11388 of this title][/us/usc/t42/s11388].
 
-    Another prior [section 428 of Pub. L. 100–77][/us/pl/100/77/s428], July 22, 1987, [101 Stat. 504][/us/stat/101/504]; [Pub. L. 100–628, title IV][/us/pl/100/628], §§ 454, 455, Nov. 7, 1988, [102 Stat. 3236][/us/stat/102/3236]; [Pub. L. 101–625, title VIII, § 833(a)][/us/pl/101/625/s833/a], Nov. 28, 1990, [104 Stat. 4362][/us/stat/104/4362], which authorized appropriations for the supportive housing demonstration program, was classified to [section 11388 of this title][/us/usc/t42/s11388] prior to repeal by [Pub. L. 102–550, title XIV, § 1403(a)][/us/pl/102/550/s1403/a], Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
+    Another prior [section 428 of Pub. L. 100–77][/us/pl/100/77/s428], July 22, 1987, [101 Stat. 504][/us/stat/101/504]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], §§ 454, 455, Nov. 7, 1988, [102 Stat. 3236][/us/stat/102/3236]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 833(a), Nov. 28, 1990, [104 Stat. 4362][/us/stat/104/4362], which authorized appropriations for the supportive housing demonstration program, was classified to [section 11388 of this title][/us/usc/t42/s11388] prior to repeal by [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1403(a), Oct. 28, 1992, [106 Stat. 4013][/us/stat/106/4013].
 
  __Effective Date__ 
 
@@ -98,8 +98,8 @@
 [/us/usc/t42/s11386a/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11386a%2Fb%2F1%2FF
 [/us/usc/t42/s11383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11383
 [/us/usc/t42/s11374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374%2Fa
-[/us/pl/100/77/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs428
-[/us/pl/111/22/s1305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1305%2F3
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1693
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
@@ -108,12 +108,12 @@
 [/us/usc/t42/s11388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11388
 [/us/pl/100/77/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs428
 [/us/stat/101/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F504
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3236
-[/us/pl/101/625/s833/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs833%2Fa
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4362
 [/us/usc/t42/s11388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11388
-[/us/pl/102/550/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1403%2Fa
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4013
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

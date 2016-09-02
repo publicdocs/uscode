@@ -35,23 +35,23 @@
 
     (9) the States must have the research and problem-solving capacity necessary to effectively manage their water resources.
 
-([Pub. L. 98–242, title I, § 102][/us/pl/98/242/s102], Mar. 22, 1984, [98 Stat. 97][/us/stat/98/97]; [Pub. L. 104–147, § 1][/us/pl/104/147/s1], May 24, 1996, [110 Stat. 1375][/us/stat/110/1375].)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 102, Mar. 22, 1984, [98 Stat. 97][/us/stat/98/97]; [Pub. L. 104–147][/us/pl/104/147], § 1, May 24, 1996, [110 Stat. 1375][/us/stat/110/1375].)
 
  __Amendments__ 
 
-    1996—Par. (2). [Pub. L. 104–147, § 1(1)][/us/pl/104/147/s1/1], inserted “, productivity of natural resources and agricultural systems,” after “environmental quality”.
+    1996—Par. (2). [Pub. L. 104–147][/us/pl/104/147], § 1(1), inserted “, productivity of natural resources and agricultural systems,” after “environmental quality”.
 
-    Pars. (8), (9). [Pub. L. 104–147, § 1(2)][/us/pl/104/147/s1/2]–(4), added pars. (8) and (9).
+    Pars. (8), (9). [Pub. L. 104–147][/us/pl/104/147], § 1(2)–(4), added pars. (8) and (9).
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 109–471, § 1][/us/pl/109/471/s1], Jan. 11, 2007, [120 Stat. 3552][/us/stat/120/3552], provided that: 
+[Pub. L. 109–471][/us/pl/109/471], § 1, Jan. 11, 2007, [120 Stat. 3552][/us/stat/120/3552], provided that: 
 
 > “This Act \[amending sections 10303 and 10306 of this title\] may be cited as the ‘Water Resources Research Act Amendments of 2006’.”
 
  __Short Title__ 
 
-[Pub. L. 98–242, title I, § 101][/us/pl/98/242/s101], Mar. 22, 1984, [98 Stat. 97][/us/stat/98/97], provided that: 
+[Pub. L. 98–242, title I][/us/pl/98/242/tI], § 101, Mar. 22, 1984, [98 Stat. 97][/us/stat/98/97], provided that: 
 
 > “This Act \[enacting this chapter, repealing sections 7801, 7802, 7811 to 7819, 7831 to 7835, 7851 to 7853, and 7871 to 7883 of this title, and enacting provisions set out as a note under [section 7801 of this title][/us/usc/t42/s7801]\] may be cited as the ‘Water Resources Research Act of 1984’.”
 
@@ -61,7 +61,7 @@
 
  __More Water, More Energy, and Less Waste__ 
 
-[Pub. L. 110–229, title V, § 514][/us/pl/110/229/s514], May 8, 2008, [122 Stat. 844][/us/stat/122/844], provided that:
+[Pub. L. 110–229, title V][/us/pl/110/229/tV], § 514, May 8, 2008, [122 Stat. 844][/us/stat/122/844], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -241,7 +241,7 @@
 
  __Desalination Research, Studies, and Demonstration Projects__ 
 
-[Pub. L. 104–298][/us/pl/104/298], Oct. 11, 1996, [110 Stat. 3622][/us/stat/110/3622], as amended by [Pub. L. 108–7, div. D, title II, § 210][/us/pl/108/7/s210], Feb. 20, 2003, [117 Stat. 146][/us/stat/117/146]; [Pub. L. 109–13, div. A, title VI, § 6015][/us/pl/109/13/s6015], May 11, 2005, [119 Stat. 284][/us/stat/119/284]; [Pub. L. 109–103, title II, § 206][/us/pl/109/103/s206], Nov. 19, 2005, [119 Stat. 2268][/us/stat/119/2268]; [Pub. L. 109–289, div. B, title II, § 20312][/us/pl/109/289/s20312], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 19][/us/stat/121/19]; [Pub. L. 112–74, div. B, title II, § 204][/us/pl/112/74/s204], Dec. 23, 2011, [125 Stat. 865][/us/stat/125/865], provided that:
+[Pub. L. 104–298][/us/pl/104/298], Oct. 11, 1996, [110 Stat. 3622][/us/stat/110/3622], as amended by [Pub. L. 108–7, div. D, title II][/us/pl/108/7/dD/tII], § 210, Feb. 20, 2003, [117 Stat. 146][/us/stat/117/146]; [Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6015, May 11, 2005, [119 Stat. 284][/us/stat/119/284]; [Pub. L. 109–103, title II][/us/pl/109/103/tII], § 206, Nov. 19, 2005, [119 Stat. 2268][/us/stat/119/2268]; [Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 20312, as added by [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 19][/us/stat/121/19]; [Pub. L. 112–74, div. B, title II][/us/pl/112/74/dB/tII], § 204, Dec. 23, 2011, [125 Stat. 865][/us/stat/125/865], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -357,7 +357,7 @@
 
  __Ogallala Aquifer__ 
 
-[Pub. L. 99–662, title XI, § 1121][/us/pl/99/662/s1121], Nov. 17, 1986, [100 Stat. 4239][/us/stat/100/4239], provided that:
+[Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1121, Nov. 17, 1986, [100 Stat. 4239][/us/stat/100/4239], provided that:
 
 >     “(a)
 
@@ -477,11 +477,11 @@
 
 >     Grants under this section shall be made by each State committee in amounts not to exceed 85 percent of the cost of each demonstration project. To qualify for a grant under this section, a farmer shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed project. Proposals shall be selected by the State committee on the basis of merit. Each State committee shall monitor each demonstration project to assure proper implementation and make the results of the project available to other State committees.
 
-> “Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report biennially to Congress. (As amended [Pub. L. 104–66, title I, § 1082(a)(1)][/us/pl/104/66/s1082/a/1], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
+> “Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report biennially to Congress. (As amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1082(a)(1), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
 
 > “Sec. 307. The amount of any allocation of funds to a State under this title shall not exceed 75 percent of the cost of carrying out the purposes for which the grant is made.
 
-> “Sec. 308. Not later than one year after the date of enactment of this title \[Nov. 17, 1986\], and at intervals of 2 years thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title. (As amended [Pub. L. 104–66, title I, § 1082(a)(2)][/us/pl/104/66/s1082/a/2], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
+> “Sec. 308. Not later than one year after the date of enactment of this title \[Nov. 17, 1986\], and at intervals of 2 years thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title. (As amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1082(a)(2), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
 
 > “Sec. 309.
 
@@ -501,13 +501,13 @@
 
 >     “(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.”
 
- (As amended [Pub. L. 101–397, § 1][/us/pl/101/397/s1](o), Sept. 28, 1990, [104 Stat. 854][/us/stat/104/854].)
+ (As amended [Pub. L. 101–397][/us/pl/101/397], § 1(o), Sept. 28, 1990, [104 Stat. 854][/us/stat/104/854].)
 
     \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18th items on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of [Pub. L. 98–242][/us/pl/98/242], set out in the note above), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.\]
 
  __Desalting Plants__ 
 
-[Pub. L. 95–84, § 2][/us/pl/95/84/s2], Aug. 2, 1977, [91 Stat. 400][/us/stat/91/400]; [Pub. L. 95–467, title II, § 205(a)][/us/pl/95/467/s205/a], (b), Oct. 17, 1978, [92 Stat. 1311][/us/stat/92/1311]; [Pub. L. 96–457, § 3][/us/pl/96/457/s3], Oct. 15, 1980, [94 Stat. 2032][/us/stat/94/2032]; [Pub. L. 98–242, title I, § 110(a)][/us/pl/98/242/s110/a], Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101], provided that:
+[Pub. L. 95–84][/us/pl/95/84], § 2, Aug. 2, 1977, [91 Stat. 400][/us/stat/91/400]; [Pub. L. 95–467, title II][/us/pl/95/467/tII], § 205(a), (b), Oct. 17, 1978, [92 Stat. 1311][/us/stat/92/1311]; [Pub. L. 96–457][/us/pl/96/457], § 3, Oct. 15, 1980, [94 Stat. 2032][/us/stat/94/2032]; [Pub. L. 98–242, title I][/us/pl/98/242/tI], § 110(a), Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101], provided that:
 
 >     “(a) The Secretary of the Interior is authorized and directed to demonstrate the engineering and economic viability of membrane and phase-change desalting processes. Such demonstrations shall include the study, design, construction, operation, and maintenance of desalting plants at locations in the United States (which may include the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Virgin Islands, the Mariana Islands, and the Trust Territory of the Pacific Islands): Provided, That at least two such plants shall demonstrate desalting of brackish ground water: And provided further, That the plants constructed pursuant to this section shall be for the purpose of showing that the technology being demonstrated is ready for application; such plants shall be sufficient to demonstrate the specific application of the technology, and shall be significantly different in operation and process so as not to duplicate any other demonstration plant constructed pursuant to this section. The Secretary is further authorized to conduct such demonstrations or any portion thereof by means of cooperative agreements (as defined and authorized by \[former\] [41 U.S.C. 504][/us/usc/t41/s504] et seq. (the Federal Grant and Cooperative Agreement Act of 1977; [Public Law 95–224][/us/pl/95/224]) \[see [31 U.S.C. 6301][/us/usc/t31/s6301] et seq.\]) with duly authorized non-Federal public entities. Title to demonstration facilities constructed by the non-Federal public entity under a cooperative agreement shall vest in the non-Federal public entity.
 
@@ -526,55 +526,55 @@
 ----------
 ----------
 
-[/us/pl/98/242/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs102
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F97
-[/us/pl/104/147/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs1
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
 [/us/stat/110/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1375
-[/us/pl/104/147/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs1%2F1
-[/us/pl/104/147/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs1%2F2
-[/us/pl/109/471/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs1
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
 [/us/stat/120/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3552
-[/us/pl/98/242/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs101
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F97
 [/us/usc/t42/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7801
 [/us/pl/95/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467
 [/us/pl/98/242/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs110%2Fb
 [/us/usc/t42/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7801
-[/us/pl/110/229/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs514
+[/us/pl/110/229/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtV
 [/us/stat/122/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F844
 [/us/usc/t42/s16371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16371
 [/us/pl/104/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F298
 [/us/stat/110/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3622
-[/us/pl/108/7/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs210
+[/us/pl/108/7/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdD%2FtII
 [/us/stat/117/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F146
-[/us/pl/109/13/s6015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6015
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F284
-[/us/pl/109/103/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs206
+[/us/pl/109/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2FtII
 [/us/stat/119/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2268
-[/us/pl/109/289/s20312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20312
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F19
-[/us/pl/112/74/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs204
+[/us/pl/112/74/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtII
 [/us/stat/125/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F865
-[/us/pl/99/662/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1121
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4239
 [/us/pl/98/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242
-[/us/pl/104/66/s1082/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1082%2Fa%2F1
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
-[/us/pl/104/66/s1082/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1082%2Fa%2F2
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
-[/us/pl/101/397/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/stat/104/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F854
 [/us/pl/98/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/95/84/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F84%2Fs2
+[/us/pl/95/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F84
 [/us/stat/91/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F400
-[/us/pl/95/467/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467%2Fs205%2Fa
+[/us/pl/95/467/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467%2FtII
 [/us/stat/92/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1311
-[/us/pl/96/457/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F457%2Fs3
+[/us/pl/96/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F457
 [/us/stat/94/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2032
-[/us/pl/98/242/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs110%2Fa
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F101
 [/us/usc/t41/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs504
 [/us/pl/95/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F224

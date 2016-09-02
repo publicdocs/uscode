@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch72/schIV/m__us_usc_t42_s5773.md) | [Next](./../../../../..//us/usc/t42/ch72/schIV/m__us_usc_t42_s5775.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5774)
 
-## § 5774. Repealed. [Pub. L. 100–690, title VII, § 7286][/us/pl/100/690/s7286], Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460]
+## § 5774. Repealed. [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7286, Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460]
 
-    Section, [Pub. L. 93–415, title IV, § 405][/us/pl/93/415/s405], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2127][/us/stat/98/2127], provided for an Advisory Board on Missing Children.
+    Section, [Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 405, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 660, Oct. 12, 1984, [98 Stat. 2127][/us/stat/98/2127], provided for an Advisory Board on Missing Children.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7286
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4460
-[/us/pl/93/415/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs405
-[/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2127
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

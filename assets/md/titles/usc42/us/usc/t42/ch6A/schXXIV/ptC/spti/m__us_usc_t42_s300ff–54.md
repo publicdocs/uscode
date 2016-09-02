@@ -61,25 +61,25 @@
 
             Not to exceed 5 percent of the amount appropriated for a fiscal year under [section 300ff–55 of this title][/us/usc/t42/s300ff–55] may be used to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2654, as added [Pub. L. 101–381, title III, § 301(a)][/us/pl/101/381/s301/a], Aug. 18, 1990, [104 Stat. 608][/us/stat/104/608]; amended [Pub. L. 104–146, § 3(d)(3)][/us/pl/104/146/s3/d/3], May 20, 1996, [110 Stat. 1357][/us/stat/110/1357]; [Pub. L. 106–345, title III, § 312][/us/pl/106/345/s312], Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345]; [Pub. L. 109–415, title III, § 302(c)][/us/pl/109/415/s302/c], title VII, § 703, Dec. 19, 2006, [120 Stat. 2807][/us/stat/120/2807], 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2654, as added [Pub. L. 101–381, title III][/us/pl/101/381/tIII], § 301(a), Aug. 18, 1990, [104 Stat. 608][/us/stat/104/608]; amended [Pub. L. 104–146][/us/pl/104/146], § 3(d)(3), May 20, 1996, [110 Stat. 1357][/us/stat/110/1357]; [Pub. L. 106–345, title III][/us/pl/106/345/tIII], § 312, Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345]; [Pub. L. 109–415, title III][/us/pl/109/415/tIII], § 302(c), title VII, § 703, Dec. 19, 2006, [120 Stat. 2807][/us/stat/120/2807], 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    Subsec. (c)(1)(A). [Pub. L. 109–415, § 302(c)(1)(A)][/us/pl/109/415/s302/c/1/A], struck out “HIV” after “provide”.
+    Subsec. (c)(1)(A). [Pub. L. 109–415][/us/pl/109/415], § 302(c)(1)(A), struck out “HIV” after “provide”.
 
-    Subsec. (c)(1)(B). [Pub. L. 109–415, § 302(c)(1)(B)][/us/pl/109/415/s302/c/1/B], substituted “HIV/AIDS-related” for “HIV-related”.
+    Subsec. (c)(1)(B). [Pub. L. 109–415][/us/pl/109/415], § 302(c)(1)(B), substituted “HIV/AIDS-related” for “HIV-related”.
 
-    Subsec. (c)(3). [Pub. L. 109–415, § 302(c)(2)][/us/pl/109/415/s302/c/2], substituted “areas or to underserved populations” for “or underserved communities”.
+    Subsec. (c)(3). [Pub. L. 109–415][/us/pl/109/415], § 302(c)(2), substituted “areas or to underserved populations” for “or underserved communities”.
 
-    2000—Subsec. (c)(1). [Pub. L. 106–345, § 312(a)][/us/pl/106/345/s312/a], substituted “planning grants to public and nonprofit private entities for purposes of—” and subpars. (A) and (B) for “planning grants, in an amount not to exceed $50,000 for each such grant, to public and nonprofit private entities for the purpose of enabling such entities to provide HIV early intervention services.”
+    2000—Subsec. (c)(1). [Pub. L. 106–345][/us/pl/106/345], § 312(a), substituted “planning grants to public and nonprofit private entities for purposes of—” and subpars. (A) and (B) for “planning grants, in an amount not to exceed $50,000 for each such grant, to public and nonprofit private entities for the purpose of enabling such entities to provide HIV early intervention services.”
 
-    Subsec. (c)(4). [Pub. L. 106–345, § 312(b)(2)][/us/pl/106/345/s312/b/2], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (c)(4). [Pub. L. 106–345][/us/pl/106/345], § 312(b)(2), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (c)(5). [Pub. L. 106–345, § 312(b)(1)][/us/pl/106/345/s312/b/1], (c), redesignated par. (4) as (5) and substituted “5 percent” for “1 percent”.
+    Subsec. (c)(5). [Pub. L. 106–345][/us/pl/106/345], § 312(b)(1), (c), redesignated par. (4) as (5) and substituted “5 percent” for “1 percent”.
 
     1996—Subsec. (c). [Pub. L. 104–146][/us/pl/104/146] added subsec. (c).
 
@@ -103,26 +103,26 @@
 [/us/usc/t42/s300ff–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9351
 [/us/usc/t42/s300ff–55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9355
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs301%2Fa
+[/us/pl/101/381/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIII
 [/us/stat/104/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F608
-[/us/pl/104/146/s3/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fd%2F3
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1357
-[/us/pl/106/345/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs312
+[/us/pl/106/345/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIII
 [/us/stat/114/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1345
-[/us/pl/109/415/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs302%2Fc
+[/us/pl/109/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtIII
 [/us/stat/120/2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2807
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s302/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs302%2Fc%2F1%2FA
-[/us/pl/109/415/s302/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs302%2Fc%2F1%2FB
-[/us/pl/109/415/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs302%2Fc%2F2
-[/us/pl/106/345/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs312%2Fa
-[/us/pl/106/345/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs312%2Fb%2F2
-[/us/pl/106/345/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs312%2Fb%2F1
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703

@@ -81,7 +81,7 @@
 
         The Director of the National Institute on Aging shall coordinate the award of grants under this section with the heads of other appropriate agencies, including the Commissioner of the Administration on Aging.
 
-([Pub. L. 99–660, title IX, § 962][/us/pl/99/660/s962], Nov. 14, 1986, [100 Stat. 3814][/us/stat/100/3814]; [Pub. L. 102–507, § 8(a)][/us/pl/102/507/s8/a], Oct. 24, 1992, [106 Stat. 3286][/us/stat/106/3286].)
+([Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 962, Nov. 14, 1986, [100 Stat. 3814][/us/stat/100/3814]; [Pub. L. 102–507][/us/pl/102/507], § 8(a), Oct. 24, 1992, [106 Stat. 3286][/us/stat/106/3286].)
 
  __References in Text__ 
 
@@ -101,9 +101,9 @@
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t42/s285e–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%932%2Fa
 [/us/usc/t42/s3025/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fa%2F1
-[/us/pl/99/660/s962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs962
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3814
-[/us/pl/102/507/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs8%2Fa
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3286
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218

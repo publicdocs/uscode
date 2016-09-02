@@ -51,7 +51,7 @@
 
         In cases in which a unit of general local government carries out the responsibilities described in subsection (c) of this section, the Secretary may permit the State to perform those actions of the Secretary described in subsection (b) of this section and the performance of such actions by the State, where permitted by the Secretary, shall be deemed to satisfy the Secretary’s responsibilities referred to in the second sentence of subsection (b) of this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 26, as added [Pub. L. 103–233, title III, § 305(b)][/us/pl/103/233/s305/b], Apr. 11, 1994, [108 Stat. 371][/us/stat/108/371]; amended [Pub. L. 104–330, title V, § 501(b)(11)][/us/pl/104/330/s501/b/11], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 26, as added [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 305(b), Apr. 11, 1994, [108 Stat. 371][/us/stat/108/371]; amended [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(11), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042].)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/103/233/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs305%2Fb
+[/us/pl/103/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtIII
 [/us/stat/108/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F371
-[/us/pl/104/330/s501/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F11
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

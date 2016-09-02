@@ -61,7 +61,7 @@
 
         For purposes of this section, the term “Council” means a State mental health planning council.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1914, as added [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 382][/us/stat/106/382].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1914, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 382][/us/stat/106/382].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 300x–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1915, formerly § 1914, as added Aug. 13, 1981, [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], [95 Stat. 545][/us/stat/95/545]; renumbered § 1915 and amended Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509], §§ 105(b), 106(a), (b), (d), (g), [98 Stat. 2358][/us/stat/98/2358], 2359; Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690], §§ 2024–2026, [102 Stat. 4198][/us/stat/102/4198], 4199; Aug. 16, 1989, [Pub. L. 101–93, § 2(d)][/us/pl/101/93/s2/d], [103 Stat. 606][/us/stat/103/606]; Nov. 28, 1990, [Pub. L. 101–639, § 3(a)(2)][/us/pl/101/639/s3/a/2], [104 Stat. 4601][/us/stat/104/4601], related to the use of grant allotments for alcohol, drug abuse, and mental health services, prior to repeal by [Pub. L. 102–321, § 201(2)][/us/pl/102/321/s201/2].
+    A prior section 300x–3, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1915, formerly § 1914, as added Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, [95 Stat. 545][/us/stat/95/545]; renumbered § 1915 and amended Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509/tI], §§ 105(b), 106(a), (b), (d), (g), [98 Stat. 2358][/us/stat/98/2358], 2359; Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], §§ 2024–2026, [102 Stat. 4198][/us/stat/102/4198], 4199; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 2(d), [103 Stat. 606][/us/stat/103/606]; Nov. 28, 1990, [Pub. L. 101–639][/us/pl/101/639], § 3(a)(2), [104 Stat. 4601][/us/stat/104/4601], related to the use of grant allotments for alcohol, drug abuse, and mental health services, prior to repeal by [Pub. L. 102–321][/us/pl/102/321], § 201(2).
 
     A prior section 1914 of act July 1, 1944, was classified to [section 300x–2 of this title][/us/usc/t42/s300x–2] prior to repeal by [Pub. L. 102–321][/us/pl/102/321].
 
@@ -84,23 +84,23 @@
 [/us/usc/t42/s300x–4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%934%2Fa
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F382
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F545
-[/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
+[/us/pl/98/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtI
 [/us/stat/98/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2358
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4198
-[/us/pl/101/93/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs2%2Fd
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F606
-[/us/pl/101/639/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639%2Fs3%2Fa%2F2
+[/us/pl/101/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639
 [/us/stat/104/4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4601
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s300x–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%932
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 

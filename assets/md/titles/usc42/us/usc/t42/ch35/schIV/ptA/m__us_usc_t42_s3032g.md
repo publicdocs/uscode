@@ -67,7 +67,7 @@
 
         The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually a national meeting to train directors of programs under this subchapter.
 
-([Pub. L. 89–73, title IV, § 418][/us/pl/89/73/s418], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2263][/us/stat/114/2263]; amended [Pub. L. 109–365, title IV, § 407][/us/pl/109/365/s407], Oct. 17, 2006, [120 Stat. 2557][/us/stat/120/2557].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 418, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2263][/us/stat/114/2263]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 407, Oct. 17, 2006, [120 Stat. 2557][/us/stat/120/2557].)
 
  __Amendments__ 
 
@@ -80,10 +80,10 @@
 ----------
 ----------
 
-[/us/pl/89/73/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs418
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2263
-[/us/pl/109/365/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs407
+[/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2557
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 

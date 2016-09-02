@@ -17,7 +17,7 @@
 
     Each State that receives a grant under this subchapter shall submit to the Attorney General an evaluation not later than March 1 of each year in such form and containing such information as the Attorney General may reasonably require.
 
-([Pub. L. 90–351, title I, § 1905][/us/pl/90/351/s1905], as added [Pub. L. 103–322, title III, § 32101(a)(3)][/us/pl/103/322/s32101/a/3], Sept. 13, 1994, [108 Stat. 1900][/us/stat/108/1900].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1905, as added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 32101(a)(3), Sept. 13, 1994, [108 Stat. 1900][/us/stat/108/1900].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1905
-[/us/pl/103/322/s32101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32101%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1900
 
 

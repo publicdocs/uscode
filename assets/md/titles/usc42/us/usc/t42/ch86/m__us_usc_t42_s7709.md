@@ -31,7 +31,7 @@
 
         The Advisory Committee shall advise the Director on matters relating to the United States Geological Survey’s participation in the National Earthquake Hazards Reduction Program, including the United States Geological Survey’s roles, goals, and objectives within that Program, its capabilities and research needs, guidance on achieving major objectives, and establishing and measuring performance goals. The Advisory Committee shall issue an annual report to the Director for submission to Congress on or before September 30 of each year. The report shall describe the Advisory Committee’s activities and address policy issues or matters that affect the United States Geological Survey’s participation in the National Earthquake Hazards Reduction Program.
 
-([Pub. L. 106–503, title II, § 210][/us/pl/106/503/s210], Nov. 13, 2000, [114 Stat. 2308][/us/stat/114/2308].)
+([Pub. L. 106–503, title II][/us/pl/106/503/tII], § 210, Nov. 13, 2000, [114 Stat. 2308][/us/stat/114/2308].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/106/503/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs210
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2308
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

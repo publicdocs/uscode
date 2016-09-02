@@ -53,7 +53,7 @@
 
             (I) increasing intergovernmental cooperation in personnel administration, with respect to such matters as recruiting, examining, pay studies, training, education, personnel interchange, manpower utilization, and fringe benefits.
 
-([Pub. L. 91–648, title II, § 202][/us/pl/91/648/s202], Jan. 5, 1971, [84 Stat. 1911][/us/stat/84/1911]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title II][/us/pl/91/648/tII], § 202, Jan. 5, 1971, [84 Stat. 1911][/us/stat/84/1911]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t42/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4701
-[/us/pl/91/648/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs202
+[/us/pl/91/648/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtII
 [/us/stat/84/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1911
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t42/s4772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4772

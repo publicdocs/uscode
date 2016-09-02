@@ -233,7 +233,7 @@
 
         (3) achievable in practice for purposes of [section 7501 of this title][/us/usc/t42/s7501].
 
-([Pub. L. 109–58, title IV, § 402][/us/pl/109/58/s402], Aug. 8, 2005, [119 Stat. 750][/us/stat/119/750]; [Pub. L. 110–140, title VI, § 653][/us/pl/110/140/s653], Dec. 19, 2007, [121 Stat. 1695][/us/stat/121/1695].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 402, Aug. 8, 2005, [119 Stat. 750][/us/stat/119/750]; [Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 653, Dec. 19, 2007, [121 Stat. 1695][/us/stat/121/1695].)
 
  __References in Text__ 
 
@@ -260,9 +260,9 @@
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 [/us/usc/t42/s7479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7479
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
-[/us/pl/109/58/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs402
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F750
-[/us/pl/110/140/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs653
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1695
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594

@@ -37,7 +37,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 925, as added [Pub. L. 111–148, title III, § 3509(e)(2)][/us/pl/111/148/s3509/e/2], Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 925, as added [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(e)(2), Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
 
  __Prior Provisions__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t42/s237a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs237a%2Fb%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3509/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fe%2F2
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F534
 [/us/usc/t42/s299b–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9325
 [/us/usc/t42/s299c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%934

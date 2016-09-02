@@ -17,7 +17,7 @@
 
     The authorities provided by this chapter shall be administered in such manner as (1) to recognize fully the rights, powers, and responsibilities of State and local governments, and (2) to encourage innovation and allow for diversity on the part of State and local governments in the design, execution, and management of their own systems of personnel administration.
 
-([Pub. L. 91–648, § 3][/us/pl/91/648/s3], Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909].)
+([Pub. L. 91–648][/us/pl/91/648], § 3, Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs3
+[/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
 [/us/stat/84/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1909
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
 [/us/stat/84/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1909

@@ -151,13 +151,13 @@
 
             (F) $8,750,000 for fiscal year 2013.
 
-([Pub. L. 110–69, title V, § 5004][/us/pl/110/69/s5004], Aug. 9, 2007, [121 Stat. 612][/us/stat/121/612]; [Pub. L. 111–358, title IX, § 902(a)][/us/pl/111/358/s902/a], Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
+([Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5004, Aug. 9, 2007, [121 Stat. 612][/us/stat/121/612]; [Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 902(a), Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
 
  __Amendments__ 
 
-    2011—Subsec. (f)(1)(D) to (F). [Pub. L. 111–358, § 902(a)(1)][/us/pl/111/358/s902/a/1], added subpars. (D) to (F).
+    2011—Subsec. (f)(1)(D) to (F). [Pub. L. 111–358][/us/pl/111/358], § 902(a)(1), added subpars. (D) to (F).
 
-    Subsec. (f)(2)(D) to (F). [Pub. L. 111–358, § 902(a)(2)][/us/pl/111/358/s902/a/2], added subpars. (D) to (F).
+    Subsec. (f)(2)(D) to (F). [Pub. L. 111–358][/us/pl/111/358], § 902(a)(2), added subpars. (D) to (F).
 
 ----------
 
@@ -166,11 +166,11 @@
 ----------
 ----------
 
-[/us/pl/110/69/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5004
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F612
-[/us/pl/111/358/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs902%2Fa
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4044
-[/us/pl/111/358/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs902%2Fa%2F1
-[/us/pl/111/358/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs902%2Fa%2F2
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 
 

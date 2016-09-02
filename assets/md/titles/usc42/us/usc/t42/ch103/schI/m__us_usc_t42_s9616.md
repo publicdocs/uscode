@@ -47,7 +47,7 @@
 
         (2) 200 additional facilities during the following 24 months after such 36-month period.
 
-([Pub. L. 96–510, title I, § 116][/us/pl/96/510/s116], as added [Pub. L. 99–499, title I, § 116][/us/pl/99/499/s116], Oct. 17, 1986, [100 Stat. 1653][/us/stat/100/1653].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 116, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 116, Oct. 17, 1986, [100 Stat. 1653][/us/stat/100/1653].)
 
  __References in Text__ 
 
@@ -61,8 +61,8 @@
 ----------
 
 [/us/usc/t42/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605
-[/us/pl/96/510/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs116
-[/us/pl/99/499/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs116
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1653
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

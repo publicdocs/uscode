@@ -315,7 +315,7 @@
 
             (B) to recoup costs that derive from such nonqualified withdrawals.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1938, as added [Pub. L. 109–171, title VI, § 6082(2)][/us/pl/109/171/s6082/2], Feb. 8, 2006, [120 Stat. 113][/us/stat/120/113].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1938, as added [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6082(2), Feb. 8, 2006, [120 Stat. 113][/us/stat/120/113].)
 
  __References in Text__ 
 
@@ -327,7 +327,7 @@
 
  __Prohibiting Initiation of New Health Opportunity Account Demonstration Programs__ 
 
-[Pub. L. 111–3, title VI, § 613][/us/pl/111/3/s613], Feb. 4, 2009, [123 Stat. 101][/us/stat/123/101], provided that: 
+[Pub. L. 111–3, title VI][/us/pl/111/3/tVI], § 613, Feb. 4, 2009, [123 Stat. 101][/us/stat/123/101], provided that: 
 
 > “After the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services may not approve any new demonstration programs under section 1938 of the Social Security Act ([42 U.S.C. 1396u–8][/us/usc/t42/s1396u–8]).”
 
@@ -348,10 +348,10 @@
 [/us/usc/t42/s1396b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa
 [/us/usc/t42/s1396b/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa%2F7
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/109/171/s6082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6082%2F2
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F113
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
-[/us/pl/111/3/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs613
+[/us/pl/111/3/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVI
 [/us/stat/123/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F101
 [/us/usc/t42/s1396u–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%938
 

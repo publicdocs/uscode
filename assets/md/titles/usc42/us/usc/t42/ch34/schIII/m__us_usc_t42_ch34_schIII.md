@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schII/ptD/m__us_usc_t42_s2832.md) | [Next](./../../../../..//us/usc/t42/ch34/schIII/ptA/m__us_usc_t42_ch34_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch34/schII/ptD/m__us_usc_t42_s2833...2837.md) | [Next](./../../../../..//us/usc/t42/ch34/schIII/ptA/m__us_usc_t42_ch34_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII)
 
 ### SUBCHAPTER III—SPECIAL PROGRAMS TO COMBAT POVERTY IN RURAL AREAS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schII/ptD/m__us_usc_t42_s2832.md) | [Next](./../../../../..//us/usc/t42/ch34/schIII/ptA/m__us_usc_t42_ch34_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch34/schII/ptD/m__us_usc_t42_s2833...2837.md) | [Next](./../../../../..//us/usc/t42/ch34/schIII/ptA/m__us_usc_t42_ch34_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII)
 
 ----------
 ----------

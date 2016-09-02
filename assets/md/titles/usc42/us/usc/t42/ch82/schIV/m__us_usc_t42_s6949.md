@@ -51,13 +51,13 @@
 
             (B) comply with all other requirements and limitations of this section.
 
-([Pub. L. 89–272, title II, § 4009][/us/pl/89/272/s4009], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2819][/us/stat/90/2819]; amended [Pub. L. 96–482, § 31(e)][/us/pl/96/482/s31/e], Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353]; [Pub. L. 110–234, title VI, § 6009(b)][/us/pl/110/234/s6009/b], May 22, 2008, [122 Stat. 1163][/us/stat/122/1163]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6009(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1924.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4009, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2819][/us/stat/90/2819]; amended [Pub. L. 96–482][/us/pl/96/482], § 31(e), Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353]; [Pub. L. 110–234, title VI][/us/pl/110/234/tVI], § 6009(b), May 22, 2008, [122 Stat. 1163][/us/stat/122/1163]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VI, § 6009(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1924.)
 
  __References in Text__ 
 
     The Clean Air Act, referred to in subsec. (a), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (a), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short title note set out under [section 1251 of title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (a), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short title note set out under [section 1251 of title 33][/us/usc/t33/s1251] and Tables.
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (e). [Pub. L. 110–246, § 6009(b)][/us/pl/110/246/s6009/b], added subsec. (e).
+    2008—Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 6009(b), added subsec. (e).
 
     1980—Subsec. (d). [Pub. L. 96–482][/us/pl/96/482] authorized appropriation of $10,000,000, $15,000,000, and $15,000,000 for fiscal years 1980, 1981, 1982, respectively.
 
@@ -88,27 +88,27 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t42/s6945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6945
-[/us/pl/89/272/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4009
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2819
-[/us/pl/96/482/s31/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs31%2Fe
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2353
-[/us/pl/110/234/s6009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs6009%2Fb
+[/us/pl/110/234/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVI
 [/us/stat/122/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1163
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s6009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6009%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

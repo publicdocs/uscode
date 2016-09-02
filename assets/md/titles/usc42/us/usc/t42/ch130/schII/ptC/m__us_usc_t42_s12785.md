@@ -27,7 +27,7 @@
 
         (2) have an appraised value that does not exceed (A) in the case of a 1- to 4-family dwelling, 95 percent of the median purchase price for the area for such dwellings, as determined by the Secretary, or (B) in the case of a dwelling with more than 4 units, the applicable maximum dollar amount limitation under section 1715l(d)(3)(ii) of title 12 for elevator-type structures.
 
-([Pub. L. 101–625, title II, § 245][/us/pl/101/625/s245], Nov. 28, 1990, [104 Stat. 4119][/us/stat/104/4119].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 245, Nov. 28, 1990, [104 Stat. 4119][/us/stat/104/4119].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs245
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4119
 
 

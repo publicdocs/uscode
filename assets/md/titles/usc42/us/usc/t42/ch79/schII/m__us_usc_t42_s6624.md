@@ -55,7 +55,7 @@
 
         In this section, the term “scientific collection” means a set of physical specimens, living or inanimate, created for the purpose of supporting science and serving as a long-term research asset, rather than for their market value as collectibles or their historical, artistic, or cultural significance, and, as appropriate and feasible, the associated specimen data and materials.
 
-([Pub. L. 111–358, title I, § 104][/us/pl/111/358/s104], Jan. 4, 2011, [124 Stat. 3988][/us/stat/124/3988].)
+([Pub. L. 111–358, title I][/us/pl/111/358/tI], § 104, Jan. 4, 2011, [124 Stat. 3988][/us/stat/124/3988].)
 
  __Codification__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs104
+[/us/pl/111/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtI
 [/us/stat/124/3988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3988
 
 

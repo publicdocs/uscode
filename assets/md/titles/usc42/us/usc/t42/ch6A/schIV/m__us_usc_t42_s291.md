@@ -23,17 +23,17 @@
 
     (c) to promote research, experiments, and demonstrations relating to the effective development and utilization of hospital, clinic, or similar services, facilities, and resources, and to promote the coordination of such research, experiments, and demonstrations and the useful application of their results.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 600, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 447][/us/stat/78/447].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 600, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 447][/us/stat/78/447].)
 
  __Prior Provisions__ 
 
-    A prior section 291, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 601, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722, § 6][/us/act/1949-10-25/ch722/s6], [63 Stat. 900][/us/stat/63/900]; [July 12, 1954, ch. 471, § 4(a)][/us/act/1954-07-12/ch471/s4/a], [68 Stat. 464][/us/stat/68/464], related to subject matter similar to this section, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    A prior section 291, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 601, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], § 6, [63 Stat. 900][/us/stat/63/900]; [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 4(a), [68 Stat. 464][/us/stat/68/464], related to subject matter similar to this section, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
-    Provisions similar to those comprising this section were contained in former section 291o, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 641, as added [July 12, 1954, ch. 471, § 2][/us/act/1954-07-12/ch471/s2], [68 Stat. 461][/us/stat/68/461], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising this section were contained in former section 291o, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 641, as added [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 2, [68 Stat. 461][/us/stat/68/461], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Effective Date__ 
 
-[Pub. L. 88–443, § 3(b)][/us/pl/88/443/s3/b], Aug. 18, 1964, [78 Stat. 461][/us/stat/78/461], as amended by [Pub. L. 91–296, title I, § 120][/us/pl/91/296/s120], June 30, 1970, [84 Stat. 343][/us/stat/84/343], provided that: 
+[Pub. L. 88–443][/us/pl/88/443], § 3(b), Aug. 18, 1964, [78 Stat. 461][/us/stat/78/461], as amended by [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 120, June 30, 1970, [84 Stat. 343][/us/stat/84/343], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section and sections 291a to 291j, 291k to 291m, 291n, and 291o of this title\] shall become effective upon the date of enactment of this Act \[Aug. 18, 1964\], except that—
 
@@ -57,23 +57,23 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F447
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1949-10-25/ch722/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722%2Fs6
+[/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F900
-[/us/act/1954-07-12/ch471/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs4%2Fa
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F464
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1954-07-12/ch471/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F461
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
-[/us/pl/88/443/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fb
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F461
-[/us/pl/91/296/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs120
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F343
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
 [/us/usc/t42/s291n/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291n%2Fa

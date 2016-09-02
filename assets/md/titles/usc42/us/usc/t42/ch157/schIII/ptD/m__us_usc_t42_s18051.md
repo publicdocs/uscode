@@ -171,7 +171,7 @@
 
         Any term used in this section which is also used in [section 36B of title 26][/us/usc/t26/s36B] shall have the meaning given such term by such section.
 
-([Pub. L. 111–148, title I, § 1331][/us/pl/111/148/s1331], title X, § 10104(o), Mar. 23, 2010, [124 Stat. 199][/us/stat/124/199], 902.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1331, title X, § 10104(o), Mar. 23, 2010, [124 Stat. 199][/us/stat/124/199], 902.)
 
  __References in Text__ 
 
@@ -181,9 +181,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d)(3)(A)(i). [Pub. L. 111–148, § 10104][/us/pl/111/148/s10104](o)(1), substituted “95 percent” for “85 percent”.
+    2010—Subsec. (d)(3)(A)(i). [Pub. L. 111–148][/us/pl/111/148], § 10104(o)(1), substituted “95 percent” for “85 percent”.
 
-    Subsec. (e)(1)(B). [Pub. L. 111–148, § 10104][/us/pl/111/148/s10104](o)(2), inserted “, or, in the case of an alien lawfully present in the United States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status” before semicolon at end.
+    Subsec. (e)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 10104(o)(2), inserted “, or, in the case of an alien lawfully present in the United States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status” before semicolon at end.
 
 ----------
 
@@ -209,7 +209,7 @@
 [/us/usc/t42/s18032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18032
 [/us/usc/t42/s18031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18031
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
-[/us/pl/111/148/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1331
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F199
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -217,7 +217,7 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
-[/us/pl/111/148/s10104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104
-[/us/pl/111/148/s10104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

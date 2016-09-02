@@ -33,7 +33,7 @@
 
         (3) support a program of research to compare the potential environmental impacts identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use.
 
-([Pub. L. 110–140, title VI, § 614][/us/pl/110/140/s614], Dec. 19, 2007, [121 Stat. 1680][/us/stat/121/1680].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 614, Dec. 19, 2007, [121 Stat. 1680][/us/stat/121/1680].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs614
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1680
 
 

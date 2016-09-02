@@ -17,7 +17,7 @@
 
     The President is authorized, at the request of the Governor of an affected State, to provide for a survey of construction materials needed in the area affected by a major disaster on an emergency basis for housing repairs, replacement housing, public facilities repairs and replacement, farming operations, and business enterprises and to take appropriate action to assure the availability and fair distribution of needed materials, including, where possible, the allocation of such materials for a period of not more than one hundred and eighty days after such major disaster. Any allocation program shall be implemented by the President to the extent possible, by working with and through those companies which traditionally supply construction materials in the affected area. For the purposes of this section “construction materials” shall include building materials and materials required for repairing housing, replacement housing, public facilities repairs and replacement, and for normal farm and business operations.
 
-([Pub. L. 93–288, title III, § 315][/us/pl/93/288/s315], formerly § 318, May 22, 1974, [88 Stat. 152][/us/stat/88/152]; renumbered § 315, [Pub. L. 100–707, title I, § 105][/us/pl/100/707/s105](l), Nov. 23, 1988, [102 Stat. 4694][/us/stat/102/4694].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 315, formerly § 318, May 22, 1974, [88 Stat. 152][/us/stat/88/152]; renumbered § 315, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(l), Nov. 23, 1988, [102 Stat. 4694][/us/stat/102/4694].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs315
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F152
-[/us/pl/100/707/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4694
 [/us/pl/93/288/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs315
 [/us/usc/t42/s5155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5155

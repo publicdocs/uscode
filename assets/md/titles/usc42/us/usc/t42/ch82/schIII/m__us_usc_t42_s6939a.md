@@ -53,7 +53,7 @@
 
         In any case in which a health assessment performed under this section discloses the exposure of a population to the release of a hazardous substance, the costs of such health assessment may be recovered as a cost of response under [section 9607 of this title][/us/usc/t42/s9607] from persons causing or contributing to such release of such hazardous substance or, in the case of multiple releases contributing to such exposure, to all such release.
 
-([Pub. L. 89–272, title II, § 3019][/us/pl/89/272/s3019], as added [Pub. L. 98–616, title II, § 247(a)][/us/pl/98/616/s247/a], Nov. 8, 1984, [98 Stat. 3265][/us/stat/98/3265].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3019, as added [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 247(a), Nov. 8, 1984, [98 Stat. 3265][/us/stat/98/3265].)
 
 ----------
 
@@ -66,8 +66,8 @@
 [/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
 [/us/usc/t42/s9604/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fi
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/89/272/s3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3019
-[/us/pl/98/616/s247/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs247%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3265
 
 

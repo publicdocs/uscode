@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to carry out this part $5,000,000 for each of fiscal years 2015 through 2019.
 
-([Pub. L. 114–22, title IV, § 409][/us/pl/114/22/s409], May 29, 2015, [129 Stat. 258][/us/stat/129/258].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 409, May 29, 2015, [129 Stat. 258][/us/stat/129/258].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs409
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
 
 

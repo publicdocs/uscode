@@ -17,7 +17,7 @@
 
     The authority to issue regulations granted to the Equal Employment Opportunity Commission, the Attorney General, and the Secretary of Transportation under this chapter includes the authority to issue regulations implementing the definitions of disability in [section 12102 of this title][/us/usc/t42/s12102] (including rules of construction) and the definitions in [section 12103 of this title][/us/usc/t42/s12103], consistent with the ADA Amendments Act of 2008.
 
-([Pub. L. 101–336, title V, § 506][/us/pl/101/336/s506], as added [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 506, as added [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
 
  __References in Text__ 
 
@@ -42,8 +42,8 @@
 
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
 [/us/usc/t42/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12103
-[/us/pl/101/336/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs506
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

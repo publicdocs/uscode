@@ -41,7 +41,7 @@
 
         There are authorized to be appropriated to the Bureau of Justice Assistance to carry out this section $50,000,000 for fiscal year 2002 and $100,000,000 for fiscal year 2003.
 
-([Pub. L. 90–351, title I, § 1301][/us/pl/90/351/s1301], as added [Pub. L. 100–690, title VI, § 6101(a)][/us/pl/100/690/s6101/a], Nov. 18, 1988, [102 Stat. 4340][/us/stat/102/4340]; amended [Pub. L. 107–56, title VII, § 701][/us/pl/107/56/s701], Oct. 26, 2001, [115 Stat. 374][/us/stat/115/374]; [Pub. L. 109–162, title XI, § 1114][/us/pl/109/162/s1114], Jan. 5, 2006, [119 Stat. 3103][/us/stat/119/3103]; [Pub. L. 111–211, title II, § 252(a)][/us/pl/111/211/s252/a], July 29, 2010, [124 Stat. 2299][/us/stat/124/2299].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1301, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6101(a), Nov. 18, 1988, [102 Stat. 4340][/us/stat/102/4340]; amended [Pub. L. 107–56, title VII][/us/pl/107/56/tVII], § 701, Oct. 26, 2001, [115 Stat. 374][/us/stat/115/374]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1114, Jan. 5, 2006, [119 Stat. 3103][/us/stat/119/3103]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 252(a), July 29, 2010, [124 Stat. 2299][/us/stat/124/2299].)
 
  __Codification__ 
 
@@ -57,21 +57,21 @@
 
     2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211] inserted “, tribal,” after “State”.
 
-    2006—Subsec. (b)(1). [Pub. L. 109–162, § 1114(1)][/us/pl/109/162/s1114/1], inserted “regional” before “information sharing systems”.
+    2006—Subsec. (b)(1). [Pub. L. 109–162][/us/pl/109/162], § 1114(1), inserted “regional” before “information sharing systems”.
 
-    Subsec. (b)(3). [Pub. L. 109–162, § 1114(2)][/us/pl/109/162/s1114/2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “establishing and maintaining a telecommunication of the information sharing and analytical programs in clauses (1) and (2);”.
+    Subsec. (b)(3). [Pub. L. 109–162][/us/pl/109/162], § 1114(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “establishing and maintaining a telecommunication of the information sharing and analytical programs in clauses (1) and (2);”.
 
-    Subsec. (b)(4). [Pub. L. 109–162, § 1114(3)][/us/pl/109/162/s1114/3], struck out “(5)” at end.
+    Subsec. (b)(4). [Pub. L. 109–162][/us/pl/109/162], § 1114(3), struck out “(5)” at end.
 
-    2001—Subsec. (a). [Pub. L. 107–56, § 701(1)][/us/pl/107/56/s701/1], inserted “and terrorist conspiracies and activities” after “criminal conspiracies and activities”.
+    2001—Subsec. (a). [Pub. L. 107–56][/us/pl/107/56], § 701(1), inserted “and terrorist conspiracies and activities” after “criminal conspiracies and activities”.
 
-    Subsec. (b)(4), (5). [Pub. L. 107–56, § 701(2)][/us/pl/107/56/s701/2], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 107–56][/us/pl/107/56], § 701(2), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (d). [Pub. L. 107–56, § 701(3)][/us/pl/107/56/s701/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–56][/us/pl/107/56], § 701(3), added subsec. (d).
 
  __Construction of 2010 Amendment__ 
 
-[Pub. L. 111–211, title II, § 252(b)][/us/pl/111/211/s252/b], July 29, 2010, [124 Stat. 2299][/us/stat/124/2299], provided that: 
+[Pub. L. 111–211, title II][/us/pl/111/211/tII], § 252(b), July 29, 2010, [124 Stat. 2299][/us/stat/124/2299], provided that: 
 
 > “Nothing in this section \[amending this section\] or any amendment made by this section—
 
@@ -92,14 +92,14 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1301
-[/us/pl/100/690/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6101%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4340
-[/us/pl/107/56/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs701
+[/us/pl/107/56/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVII
 [/us/stat/115/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F374
-[/us/pl/109/162/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1114
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3103
-[/us/pl/111/211/s252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs252%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2299
 [/us/pl/90/351/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1301
 [/us/stat/82/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F237
@@ -109,13 +109,13 @@
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3796h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796h
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
-[/us/pl/109/162/s1114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1114%2F1
-[/us/pl/109/162/s1114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1114%2F2
-[/us/pl/109/162/s1114/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1114%2F3
-[/us/pl/107/56/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs701%2F1
-[/us/pl/107/56/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs701%2F2
-[/us/pl/107/56/s701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs701%2F3
-[/us/pl/111/211/s252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs252%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2299
 [/us/pl/111/211/s252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs252%2Fb
 [/us/pl/111/211/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs203%2Fa

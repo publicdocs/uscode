@@ -17,7 +17,7 @@
 
     The Administrator may make grants to and contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local government, Indian tribal governments, local private entities or agencies, or any combination thereof, to carry out the projects for which grants are made under [section 5665 of this title][/us/usc/t42/s5665].
 
-([Pub. L. 93–415, title II, § 262][/us/pl/93/415/s262], as added [Pub. L. 107–273, div. C, title II, § 12212][/us/pl/107/273/s12212], Nov. 2, 2002, [116 Stat. 1891][/us/stat/116/1891].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 262, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12212, Nov. 2, 2002, [116 Stat. 1891][/us/stat/116/1891].)
 
  __Prior Provisions__ 
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t42/s5665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5665
-[/us/pl/93/415/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs262
-[/us/pl/107/273/s12212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12212
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1891
 [/us/pl/93/415/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs262
 [/us/usc/t42/s5665a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5665a

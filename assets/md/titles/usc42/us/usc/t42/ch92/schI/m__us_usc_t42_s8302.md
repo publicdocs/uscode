@@ -281,11 +281,11 @@
 
             (B) the amount, quality, and point of delivery by the pipeline to such person of the natural gas covered by paragraph (1) which is used by the person during such annual period.
 
-        (3) Repealed. [Pub. L. 100–42, § 1(c)(2)(H)][/us/pl/100/42/s1/c/2/H], May 21, 1987, [101 Stat. 310][/us/stat/101/310].
+        (3) Repealed. [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(H), May 21, 1987, [101 Stat. 310][/us/stat/101/310].
 
         (4) For purposes of this subsection, the term “pipeline” means any interstate or intrastate pipeline or local distribution company.
 
-([Pub. L. 95–620, title I, § 103][/us/pl/95/620/s103], Nov. 9, 1978, [92 Stat. 3292][/us/stat/92/3292]; [Pub. L. 100–42, § 1(c)(2)][/us/pl/100/42/s1/c/2], May 21, 1987, [101 Stat. 310][/us/stat/101/310].)
+([Pub. L. 95–620, title I][/us/pl/95/620/tI], § 103, Nov. 9, 1978, [92 Stat. 3292][/us/stat/92/3292]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2), May 21, 1987, [101 Stat. 310][/us/stat/101/310].)
 
  __References in Text__ 
 
@@ -293,31 +293,31 @@
 
     The Clean Air Act, referred to in subsec. (a)(17)(B), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (a)(17)(B), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (a)(17)(B), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (a)(17)(B), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (a)(17)(B), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     The National Environmental Policy Act of 1969, referred to in subsec. (a)(17)(B), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
 
  __Amendments__ 
 
-    1987—Subsec. (a)(13)(B)(ii). [Pub. L. 100–42, § 1(c)(2)(A)][/us/pl/100/42/s1/c/2/A], inserted “and” at end of subcl. (I), substituted period for “; or” at end of subcl. (II), and struck out subcl. (III) which read as follows: “in the case of a major fuel-burning installation, without incurring significant operational detriment of the unit (as determined by the Secretary).”
+    1987—Subsec. (a)(13)(B)(ii). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(A), inserted “and” at end of subcl. (I), substituted period for “; or” at end of subcl. (II), and struck out subcl. (III) which read as follows: “in the case of a major fuel-burning installation, without incurring significant operational detriment of the unit (as determined by the Secretary).”
 
-    Subsec. (a)(15). [Pub. L. 100–42, § 1(c)(2)(B)][/us/pl/100/42/s1/c/2/B], struck out “or major fuel-burning installation” after “electric powerplant”.
+    Subsec. (a)(15). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(B), struck out “or major fuel-burning installation” after “electric powerplant”.
 
-    Subsec. (a)(16). [Pub. L. 100–42, § 1(c)(2)(C)][/us/pl/100/42/s1/c/2/C], struck out “or installation” after “any powerplant” in introductory provisions and after “such powerplant” in introductory provisions and subpar. (D).
+    Subsec. (a)(16). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(C), struck out “or installation” after “any powerplant” in introductory provisions and after “such powerplant” in introductory provisions and subpar. (D).
 
-    Subsec. (a)(19). [Pub. L. 100–42, § 1(c)(2)(D)][/us/pl/100/42/s1/c/2/D], struck out “or a major fuel-burning installation” after “electric powerplant”.
+    Subsec. (a)(19). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(D), struck out “or a major fuel-burning installation” after “electric powerplant”.
 
-    Subsec. (a)(20). [Pub. L. 100–42, § 1(c)(2)(E)][/us/pl/100/42/s1/c/2/E], struck out “or major fuel-burning installation” after “life of an electric powerplant”.
+    Subsec. (a)(20). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(E), struck out “or major fuel-burning installation” after “life of an electric powerplant”.
 
-    Subsec. (b)(1). [Pub. L. 100–42, § 1(c)(2)(F)][/us/pl/100/42/s1/c/2/F], struck out “or major fuel-burning installation” after “used by a powerplant” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(F), struck out “or major fuel-burning installation” after “used by a powerplant” in introductory provisions.
 
-    Subsec. (b)(1)(D). [Pub. L. 100–42, § 1(c)(2)(G)][/us/pl/100/42/s1/c/2/G], substituted a period for “, except that for purposes of the prohibition under [section 8311(2) of this title][/us/usc/t42/s8311/2] against powerplants being constructed without the capability of using coal or another alternate fuel, only permits, licenses, and approvals for the construction of such synthetic gas facilities shall be required under this subparagraph to be certified and documented.”
+    Subsec. (b)(1)(D). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(G), substituted a period for “, except that for purposes of the prohibition under [section 8311(2) of this title][/us/usc/t42/s8311/2] against powerplants being constructed without the capability of using coal or another alternate fuel, only permits, licenses, and approvals for the construction of such synthetic gas facilities shall be required under this subparagraph to be certified and documented.”
 
-    Subsec. (b)(2). [Pub. L. 100–42, § 1(c)(2)(F)][/us/pl/100/42/s1/c/2/F], struck out “or major fuel-burning installation” after “by any powerplant” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(F), struck out “or major fuel-burning installation” after “by any powerplant” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 100–42, § 1(c)(2)(H)][/us/pl/100/42/s1/c/2/H], struck out par. (3) which read as follows: “In the case of any boiler subject to a prohibition under [section 8371 of this title][/us/usc/t42/s8371], the preceding provisions of this subsection shall apply with respect to such boiler to the same extent and in the same manner as they apply in the case of major fuel-burning installations.”
+    Subsec. (b)(3). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(2)(H), struck out par. (3) which read as follows: “In the case of any boiler subject to a prohibition under [section 8371 of this title][/us/usc/t42/s8371], the preceding provisions of this subsection shall apply with respect to such boiler to the same extent and in the same manner as they apply in the case of major fuel-burning installations.”
 
  __Transfer of Functions__ 
 
@@ -335,11 +335,11 @@
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s7602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7602%2Fb
-[/us/pl/100/42/s1/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FH
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F310
-[/us/pl/95/620/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs103
+[/us/pl/95/620/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtI
 [/us/stat/92/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3292
-[/us/pl/100/42/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F310
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289
@@ -348,27 +348,27 @@
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/100/42/s1/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FA
-[/us/pl/100/42/s1/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FB
-[/us/pl/100/42/s1/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FC
-[/us/pl/100/42/s1/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FD
-[/us/pl/100/42/s1/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FE
-[/us/pl/100/42/s1/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FF
-[/us/pl/100/42/s1/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FG
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8311%2F2
-[/us/pl/100/42/s1/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FF
-[/us/pl/100/42/s1/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F2%2FH
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8371
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841

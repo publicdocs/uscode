@@ -43,39 +43,39 @@
 
         The Secretary shall by regulation establish standards and procedures for health systems agencies to follow in reviewing and commenting on applications for loans and loan guarantees under this subchapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1306, as added [Pub. L. 93–222, § 2][/us/pl/93/222/s2], Dec. 29, 1973, [87 Stat. 925][/us/stat/87/925]; amended [Pub. L. 94–460, title I][/us/pl/94/460], §§ 105(a)(3), 117(b)(5), (6), Oct. 8, 1976, [90 Stat. 1948][/us/stat/90/1948], 1955; [Pub. L. 95–559, § 12(b)][/us/pl/95/559/s12/b], (c), Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 99–660, title VIII][/us/pl/99/660], §§ 803(b)(1), 805(b), 806, Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799], 3800.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1306, as added [Pub. L. 93–222][/us/pl/93/222], § 2, Dec. 29, 1973, [87 Stat. 925][/us/stat/87/925]; amended [Pub. L. 94–460, title I][/us/pl/94/460/tI], §§ 105(a)(3), 117(b)(5), (6), Oct. 8, 1976, [90 Stat. 1948][/us/stat/90/1948], 1955; [Pub. L. 95–559][/us/pl/95/559], § 12(b), (c), Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], §§ 803(b)(1), 805(b), 806, Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799], 3800.)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–660, § 803(b)(1)(A)][/us/pl/99/660/s803/b/1/A], substituted “loan” for “grant, contract, loan,”.
+    1986—Subsec. (a). [Pub. L. 99–660][/us/pl/99/660], § 803(b)(1)(A), substituted “loan” for “grant, contract, loan,”.
 
-    Subsec. (b). [Pub. L. 99–660, § 803(b)(1)(A)][/us/pl/99/660/s803/b/1/A], substituted “loan” for “grant, contract, loan,” in introductory text and in second sentence.
+    Subsec. (b). [Pub. L. 99–660][/us/pl/99/660], § 803(b)(1)(A), substituted “loan” for “grant, contract, loan,” in introductory text and in second sentence.
 
-    Subsec. (b)(1). [Pub. L. 99–660, § 803(b)(1)(B)][/us/pl/99/660/s803/b/1/B], struck out “in the case of an application for assistance under section 300e–2 or 300e–3 of this title, such application meets the application requirements of such section and in the case of an application for a loan or loan guarantee,” before “such application”.
+    Subsec. (b)(1). [Pub. L. 99–660][/us/pl/99/660], § 803(b)(1)(B), struck out “in the case of an application for assistance under section 300e–2 or 300e–3 of this title, such application meets the application requirements of such section and in the case of an application for a loan or loan guarantee,” before “such application”.
 
-    Subsec. (b)(2). [Pub. L. 99–660, § 805(b)][/us/pl/99/660/s805/b], struck out reference to section 300e–4a.
+    Subsec. (b)(2). [Pub. L. 99–660][/us/pl/99/660], § 805(b), struck out reference to section 300e–4a.
 
-    [Pub. L. 99–660, § 803(b)(1)(C)][/us/pl/99/660/s803/b/1/C], struck out reference to section 300e–3.
+    [Pub. L. 99–660][/us/pl/99/660], § 803(b)(1)(C), struck out reference to section 300e–3.
 
-    Subsec. (b)(5) to (8). [Pub. L. 99–660, § 806][/us/pl/99/660/s806], redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and struck out former par. (5) which read as follows: “each health systems agency designated for a health service area which covers (in whole or in part) the area to be served by the health maintenance organization for which such application is submitted;”.
+    Subsec. (b)(5) to (8). [Pub. L. 99–660][/us/pl/99/660], § 806, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and struck out former par. (5) which read as follows: “each health systems agency designated for a health service area which covers (in whole or in part) the area to be served by the health maintenance organization for which such application is submitted;”.
 
-    Subsec. (c). [Pub. L. 99–660, § 803(b)(1)(D)][/us/pl/99/660/s803/b/1/D], substituted “loans” for “grants, contracts, loans,”.
+    Subsec. (c). [Pub. L. 99–660][/us/pl/99/660], § 803(b)(1)(D), substituted “loans” for “grants, contracts, loans,”.
 
     1978—Subsec. (b). [Pub. L. 95–559][/us/pl/95/559] in par. (2) inserted “in the case of an application for assistance under section 300e–3, 300e–4, or 300e–4a of this title,” before “he determines” and in provisions following par. (8) inserted provision that in determining, for purposes of par. (2), whether an applicant would be able to complete a project or undertaking without the assistance applied for, the Secretary not consider any asset of the applicant the obligation of which for such undertaking or project would jeopardize the fiscal soundness of the applicant.
 
-    1976—Subsec. (b)(5). [Pub. L. 94–460, § 117(b)(5)][/us/pl/94/460/s117/b/5], substituted “each health systems agency designated for a health service area which covers (in whole or in part) the area to be served by the health maintenance organization for which such application is submitted;” for “the section 314(b) areawide health planning agency whose section 314(b) plan covers (in whole or in part) the area to be served by the health maintenance organization for which such application is submitted, or if there is no such agency, the section 314(a) State health planning agency whose section 314(a) plan covers (in whole or in part) such area, has, in accordance with regulations of the Secretary under subsection (c) of this section, been provided an opportunity to review the application and to submit to the Secretary for his consideration its recommendations respecting approval of the application or if under applicable State law such an application may not be submitted without the approval of the section 314(b) areawide health planning agency or the section 314(a) State health planning agency, the required approval has been obtained;”.
+    1976—Subsec. (b)(5). [Pub. L. 94–460][/us/pl/94/460], § 117(b)(5), substituted “each health systems agency designated for a health service area which covers (in whole or in part) the area to be served by the health maintenance organization for which such application is submitted;” for “the section 314(b) areawide health planning agency whose section 314(b) plan covers (in whole or in part) the area to be served by the health maintenance organization for which such application is submitted, or if there is no such agency, the section 314(a) State health planning agency whose section 314(a) plan covers (in whole or in part) such area, has, in accordance with regulations of the Secretary under subsection (c) of this section, been provided an opportunity to review the application and to submit to the Secretary for his consideration its recommendations respecting approval of the application or if under applicable State law such an application may not be submitted without the approval of the section 314(b) areawide health planning agency or the section 314(a) State health planning agency, the required approval has been obtained;”.
 
-    Subsec. (b)(7), (8). [Pub. L. 94–460, § 105(a)(3)][/us/pl/94/460/s105/a/3], added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (b)(7), (8). [Pub. L. 94–460][/us/pl/94/460], § 105(a)(3), added par. (7) and redesignated former par. (7) as (8).
 
-    Subsec. (c). [Pub. L. 94–460, § 117(b)(6)][/us/pl/94/460/s117/b/6], substituted “health systems agencies” for “section 314(b) areawide health planning agencies and section 314(a) State health planning agencies”.
+    Subsec. (c). [Pub. L. 94–460][/us/pl/94/460], § 117(b)(6), substituted “health systems agencies” for “section 314(b) areawide health planning agencies and section 314(a) State health planning agencies”.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–660, title VIII, § 803(c)][/us/pl/99/660/s803/c], Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], provided that: 
+[Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 803(c), Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 300e–6, 300e–8, and 300e–16 of this title and repealing sections 300e–2 and 300e–3 of this title\] do not apply to any grant made or contract entered into under title XIII of the Public Health Service Act \[[42 U.S.C. 300e][/us/usc/t42/s300e] et seq.\] before October 1, 1985.”
 
-[Pub. L. 99–660, title VIII, § 805(c)][/us/pl/99/660/s805/c], Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], provided that: 
+[Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 805(c), Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800], provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 300e–4a of this title][/us/usc/t42/s300e–4a]\] do not apply to any loan or loan guarantee made under section 1305A of the Public Health Service Act \[former [42 U.S.C. 300e–4a][/us/usc/t42/s300e–4a]\] before October 1, 1985.”
 
@@ -97,29 +97,29 @@
 [/us/usc/t42/s300e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fc
 [/us/usc/t42/s300e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F925
-[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2FtI
 [/us/stat/90/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1948
-[/us/pl/95/559/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs12%2Fb
-[/us/stat/92/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2140
-[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
-[/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/pl/99/660/s803/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F1%2FA
-[/us/pl/99/660/s803/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F1%2FA
-[/us/pl/99/660/s803/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F1%2FB
-[/us/pl/99/660/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs805%2Fb
-[/us/pl/99/660/s803/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F1%2FC
-[/us/pl/99/660/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs806
-[/us/pl/99/660/s803/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F1%2FD
 [/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
-[/us/pl/94/460/s117/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs117%2Fb%2F5
-[/us/pl/94/460/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs105%2Fa%2F3
-[/us/pl/94/460/s117/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs117%2Fb%2F6
-[/us/pl/99/660/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fc
+[/us/stat/92/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2140
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
+[/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
 [/us/usc/t42/s300e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e
-[/us/pl/99/660/s805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs805%2Fc
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
 [/us/usc/t42/s300e–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934a
 [/us/usc/t42/s300e–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934a

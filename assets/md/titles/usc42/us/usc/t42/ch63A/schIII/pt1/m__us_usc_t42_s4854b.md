@@ -17,11 +17,11 @@
 
     Of the total amount approved in appropriation Acts under section 4852(o)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, there shall be set aside to carry out this part $5,000,000 for fiscal year 1993, and $5,000,000 for fiscal year 1994.
 
-([Pub. L. 102–550, title X, § 1053][/us/pl/102/550/s1053], Oct. 28, 1992, [106 Stat. 3926][/us/stat/106/3926].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1053, Oct. 28, 1992, [106 Stat. 3926][/us/stat/106/3926].)
 
  __References in Text__ 
 
-    Section 4852(o) of this title, referred to in text, was redesignated [section 4852(p) of this title][/us/usc/t42/s4852/p] by [Pub. L. 103–233, title III, § 305(a)(1)][/us/pl/103/233/s305/a/1], Apr. 11, 1994, [108 Stat. 370][/us/stat/108/370].
+    Section 4852(o) of this title, referred to in text, was redesignated [section 4852(p) of this title][/us/usc/t42/s4852/p] by [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 305(a)(1), Apr. 11, 1994, [108 Stat. 370][/us/stat/108/370].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1053
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3926
 [/us/usc/t42/s4852/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4852%2Fp
-[/us/pl/103/233/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs305%2Fa%2F1
+[/us/pl/103/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtIII
 [/us/stat/108/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F370
 
 

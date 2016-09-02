@@ -59,7 +59,7 @@
 
     (21) “production inspection primary inspection agency” means a State agency or private organization that has been approved by the Secretary to evaluate the ability of manufactured home manufacturing plants to comply with approved quality control procedures and with the Federal manufactured home construction and safety standards promulgated hereunder, including the inspection of homes in the plant.
 
-([Pub. L. 93–383, title VI, § 603][/us/pl/93/383/s603], Aug. 22, 1974, [88 Stat. 700][/us/stat/88/700]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], (d), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III, § 339B(c)][/us/pl/97/35/s339B/c], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 105–276, title V, § 599A(a)][/us/pl/105/276/s599A/a], Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660]; [Pub. L. 106–569, title VI, § 603(a)][/us/pl/106/569/s603/a], Dec. 27, 2000, [114 Stat. 2998][/us/stat/114/2998].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 603, Aug. 22, 1974, [88 Stat. 700][/us/stat/88/700]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), (d), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339B(c), Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599A(a), Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 603(a), Dec. 27, 2000, [114 Stat. 2998][/us/stat/114/2998].)
 
  __References in Text__ 
 
@@ -71,17 +71,17 @@
 
  __Amendments__ 
 
-    2000—Par. (2). [Pub. L. 106–569, § 603(a)(1)][/us/pl/106/569/s603/a/1], substituted “retailer” for “dealer”.
+    2000—Par. (2). [Pub. L. 106–569][/us/pl/106/569], § 603(a)(1), substituted “retailer” for “dealer”.
 
-    Pars. (14) to (21). [Pub. L. 106–569, § 603(a)(2)][/us/pl/106/569/s603/a/2]–(4), added pars. (14) to (21).
+    Pars. (14) to (21). [Pub. L. 106–569][/us/pl/106/569], § 603(a)(2)–(4), added pars. (14) to (21).
 
     1998—Par. (6). [Pub. L. 105–276][/us/pl/105/276] inserted before semicolon at end “; and except that such term shall not include any self-propelled recreational vehicle”.
 
-    1980—Pars. (1), (2), (3). [Pub. L. 96–399, § 308(c)(4)][/us/pl/96/399/s308/c/4], substituted “manufactured home” for “mobile home” wherever appearing.
+    1980—Pars. (1), (2), (3). [Pub. L. 96–399][/us/pl/96/399], § 308(c)(4), substituted “manufactured home” for “mobile home” wherever appearing.
 
-    Par. (6). [Pub. L. 96–399, § 308(c)(4)][/us/pl/96/399/s308/c/4], (d), substituted “manufactured home” for “mobile home”, substituted “in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet” for “is eight body feet or more in width and is thirty-two body feet or more in length”, and inserted exception relating to inclusion of any structure meeting all requirements of this paragraph except size and with respect to which a certification is voluntarily filed and standards complied with.
+    Par. (6). [Pub. L. 96–399][/us/pl/96/399], § 308(c)(4), (d), substituted “manufactured home” for “mobile home”, substituted “in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet” for “is eight body feet or more in width and is thirty-two body feet or more in length”, and inserted exception relating to inclusion of any structure meeting all requirements of this paragraph except size and with respect to which a certification is voluntarily filed and standards complied with.
 
-    Pars. (7), (8), (10). [Pub. L. 96–399, § 308(c)(4)][/us/pl/96/399/s308/c/4], substituted “manufactured home” for “mobile home” wherever appearing.
+    Pars. (7), (8), (10). [Pub. L. 96–399][/us/pl/96/399], § 308(c)(4), substituted “manufactured home” for “mobile home” wherever appearing.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–276, title V, § 599A(b)][/us/pl/105/276/s599A/b], Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599A(b), Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660], provided that: 
 
 > “The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -103,31 +103,31 @@
 [/us/usc/t42/s5403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403%2Fa%2F3
 [/us/usc/t42/s5422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5422
 [/us/usc/t42/s5403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403%2Fb
-[/us/pl/93/383/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs603
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F700
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
-[/us/pl/105/276/s599A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599A%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2660
-[/us/pl/106/569/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fa
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2998
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
 [/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
-[/us/pl/106/569/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fa%2F1
-[/us/pl/106/569/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fa%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/106/569/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs612
 [/us/usc/t42/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5401
-[/us/pl/105/276/s599A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599A%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2660
 
 

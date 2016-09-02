@@ -69,7 +69,7 @@
 
                 (ii) student academic achievement;
 
-                (iii) secondary school graduation rates as defined in [section 6311(b)(2)(C)(vi) of title 20][/us/usc/t20/s6311/b/2/C/vi] and as clarified in applicable regulations promulgated by the Department of Education;
+                (iii) four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20][/us/usc/t20/s7801]);
 
                 (iv) rate of college enrollment and continued college enrollment for recipients of a high school diploma;
 
@@ -537,7 +537,7 @@
 
             (B) applicable programs, as determined by the Corporation, carried out under division B of this subchapter, and part A of title I and parts A and B of title II of the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4951][/us/usc/t42/s4951] et seq., 5001, 5011) that improve performance on those indicators or otherwise address identified community needs.
 
-([Pub. L. 101–610, title I, § 122][/us/pl/101/610/s122], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 790][/us/stat/107/790]; amended [Pub. L. 111–13, title I, § 1302][/us/pl/111/13/s1302], Apr. 21, 2009, [123 Stat. 1485][/us/stat/123/1485].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 122, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 790][/us/stat/107/790]; amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1302, Apr. 21, 2009, [123 Stat. 1485][/us/stat/123/1485]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(bbb)(4), Dec. 10, 2015, [129 Stat. 2185][/us/stat/129/2185].)
 
  __References in Text__ 
 
@@ -549,13 +549,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 12572, [Pub. L. 101–610, title I, § 142][/us/pl/101/610/s142], Nov. 16, 1990, [104 Stat. 3150][/us/stat/104/3150], related to criteria and requirements for awarding grants for national and community service programs, prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    A prior section 12572, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 142, Nov. 16, 1990, [104 Stat. 3150][/us/stat/104/3150], related to criteria and requirements for awarding grants for national and community service programs, prior to the general amendment of subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610] \[former part D of this subchapter\] by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
     A prior [section 122 of Pub. L. 101–610][/us/pl/101/610/s122] was renumbered section 199B, and is classified to [section 12655a of this title][/us/usc/t42/s12655a].
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1)(C)(iii). [Pub. L. 114–95][/us/pl/114/95] substituted “four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20][/us/usc/t20/s7801])” for “secondary school graduation rates as defined in [section 6311(b)(2)(C)(vi) of title 20][/us/usc/t20/s6311/b/2/C/vi] and as clarified in applicable regulations promulgated by the Department of Education”.
+
     2009—[Pub. L. 111–13][/us/pl/111/13] substituted “National” for “Types of national” in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -571,7 +577,7 @@
 [/us/usc/t42/s12571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fa
 [/us/usc/t42/s12571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fb
 [/us/usc/t20/s7171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7171
-[/us/usc/t20/s6311/b/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fvi
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t42/s12571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fa
 [/us/usc/t42/s12571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fb
 [/us/usc/t42/s12571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fa
@@ -589,11 +595,13 @@
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/usc/t42/s12571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fa
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
-[/us/pl/101/610/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs122
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F790
-[/us/pl/111/13/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1302
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1485
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2185
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
@@ -603,13 +611,19 @@
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/101/610/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs142
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3150
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs122
 [/us/usc/t42/s12655a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655a
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s6311/b/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fvi
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -43,17 +43,17 @@
 
             Each cooperation agreement shall provide for suitable participation by other governmental and nongovernmental entities that are representative of significant interests in and perspectives on economic development in an area.
 
-([Pub. L. 89–136, title I, § 101][/us/pl/89/136/s101], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3600][/us/stat/112/3600]; amended [Pub. L. 108–373, title I, § 103][/us/pl/108/373/s103], Oct. 27, 2004, [118 Stat. 1759][/us/stat/118/1759].)
+([Pub. L. 89–136, title I][/us/pl/89/136/tI], § 101, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3600][/us/stat/112/3600]; amended [Pub. L. 108–373, title I][/us/pl/108/373/tI], § 103, Oct. 27, 2004, [118 Stat. 1759][/us/stat/118/1759].)
 
  __Prior Provisions__ 
 
-    A prior section 3131, [Pub. L. 89–136, title I, § 101][/us/pl/89/136/s101], Aug. 26, 1965, [79 Stat. 552][/us/stat/79/552]; [Pub. L. 91–123, title III, § 301(1)][/us/pl/91/123/s301/1], Nov. 25, 1969, [83 Stat. 219][/us/stat/83/219]; [Pub. L. 92–65, title I, § 102][/us/pl/92/65/s102], Aug. 5, 1971, [85 Stat. 166][/us/stat/85/166]; [Pub. L. 94–487, title I, § 103][/us/pl/94/487/s103], Oct. 12, 1976, [90 Stat. 2331][/us/stat/90/2331], authorized direct and supplementary grants, prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior section 3131, [Pub. L. 89–136, title I][/us/pl/89/136/tI], § 101, Aug. 26, 1965, [79 Stat. 552][/us/stat/79/552]; [Pub. L. 91–123, title III][/us/pl/91/123/tIII], § 301(1), Nov. 25, 1969, [83 Stat. 219][/us/stat/83/219]; [Pub. L. 92–65, title I][/us/pl/92/65/tI], § 102, Aug. 5, 1971, [85 Stat. 166][/us/stat/85/166]; [Pub. L. 94–487, title I][/us/pl/94/487/tI], § 103, Oct. 12, 1976, [90 Stat. 2331][/us/stat/90/2331], authorized direct and supplementary grants, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–373, § 103(1)][/us/pl/108/373/s103/1], substituted “multi-State regional organizations, and nonprofit organizations” for “and multi-State regional organizations” in introductory provisions.
+    2004—Subsec. (b). [Pub. L. 108–373][/us/pl/108/373], § 103(1), substituted “multi-State regional organizations, and nonprofit organizations” for “and multi-State regional organizations” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 108–373, § 103(2)][/us/pl/108/373/s103/2], struck out “adjoining” before “States” in two places.
+    Subsec. (d)(1). [Pub. L. 108–373][/us/pl/108/373], § 103(2), struck out “adjoining” before “States” in two places.
 
 ----------
 
@@ -62,21 +62,21 @@
 ----------
 ----------
 
-[/us/pl/89/136/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs101
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtI
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3600
-[/us/pl/108/373/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs103
+[/us/pl/108/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtI
 [/us/stat/118/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1759
-[/us/pl/89/136/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs101
+[/us/pl/89/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtI
 [/us/stat/79/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F552
-[/us/pl/91/123/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F123%2Fs301%2F1
+[/us/pl/91/123/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F123%2FtIII
 [/us/stat/83/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F219
-[/us/pl/92/65/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2Fs102
+[/us/pl/92/65/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2FtI
 [/us/stat/85/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F166
-[/us/pl/94/487/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2Fs103
+[/us/pl/94/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2FtI
 [/us/stat/90/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2331
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
-[/us/pl/108/373/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs103%2F1
-[/us/pl/108/373/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs103%2F2
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

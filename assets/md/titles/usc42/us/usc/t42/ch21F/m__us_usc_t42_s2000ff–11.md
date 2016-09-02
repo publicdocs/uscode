@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this chapter (except for [section 2000ff–7 of this title][/us/usc/t42/s2000ff–7]).
 
-([Pub. L. 110–233, title II, § 212][/us/pl/110/233/s212], May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 212, May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s2000ff–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ff%E2%80%937
-[/us/pl/110/233/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs212
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F920
 
 

@@ -29,7 +29,7 @@
 
         The Director of the Office of Management and Budget shall include in any annual energy scorecard the Director is otherwise required to submit a description of the compliance of each agency with the requirements of this title 1 and the amendments made by this title.1
 
-([Pub. L. 110–140, title V, § 528][/us/pl/110/140/s528], Dec. 19, 2007, [121 Stat. 1664][/us/stat/121/1664].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 528, Dec. 19, 2007, [121 Stat. 1664][/us/stat/121/1664].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s17143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17143
-[/us/pl/110/140/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs528
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1664
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t2/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2162

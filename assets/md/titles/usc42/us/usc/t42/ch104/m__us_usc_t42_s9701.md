@@ -37,11 +37,11 @@
 
         Nothing in this chapter shall be construed as preventing the Secretary from undertaking projects or activities, in addition to those specified in this chapter, which appropriately further the purpose and objectives set forth in this subsection. Nothing in this chapter shall authorize the Secretary to assume responsibility for the management, cleanup or repair of any commercial nuclear powerplant. Nothing in this chapter shall be construed as limiting the authority of the Secretary under any other law.
 
-([Pub. L. 96–567, § 2][/us/pl/96/567/s2], Dec. 22, 1980, [94 Stat. 3329][/us/stat/94/3329].)
+([Pub. L. 96–567][/us/pl/96/567], § 2, Dec. 22, 1980, [94 Stat. 3329][/us/stat/94/3329].)
 
  __Short Title__ 
 
-[Pub. L. 96–567, § 1][/us/pl/96/567/s1], Dec. 22, 1980, [94 Stat. 3329][/us/stat/94/3329], provided: 
+[Pub. L. 96–567][/us/pl/96/567], § 1, Dec. 22, 1980, [94 Stat. 3329][/us/stat/94/3329], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Nuclear Safety Research, Development, and Demonstration Act of 1980’.”
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/96/567/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs2
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3329
-[/us/pl/96/567/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs1
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3329
 
 

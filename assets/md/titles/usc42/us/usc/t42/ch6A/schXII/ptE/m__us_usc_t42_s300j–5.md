@@ -37,11 +37,11 @@
 
         Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1446, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1688][/us/stat/88/1688]; amended [Pub. L. 104–182, title I, § 127][/us/pl/104/182/s127], Aug. 6, 1996, [110 Stat. 1659][/us/stat/110/1659].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1446, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1688][/us/stat/88/1688]; amended [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 127, Aug. 6, 1996, [110 Stat. 1659][/us/stat/110/1659].)
 
  __References in Text__ 
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (c), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (c), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
     Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is [section 14(a) of Pub. L. 92–463][/us/pl/92/463/s14/a], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -51,7 +51,7 @@
 
  __Termination of Advisory Committees__ 
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -65,16 +65,16 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1688
-[/us/pl/104/182/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs127
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1659
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
 [/us/pl/92/463/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fa
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

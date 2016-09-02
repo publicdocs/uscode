@@ -17,11 +17,11 @@
 
     After September 1, 2001, the President may award, and present in the name of Congress, a Medal of Valor of appropriate design, with ribbons and appurtenances, to a public safety officer who is cited by the Attorney General, upon the recommendation of the Medal of Valor Review Board, for extraordinary valor above and beyond the call of duty. The Public Safety Medal of Valor shall be the highest national award for valor by a public safety officer.
 
-([Pub. L. 107–12, § 2][/us/pl/107/12/s2], May 30, 2001, [115 Stat. 20][/us/stat/115/20].)
+([Pub. L. 107–12][/us/pl/107/12], § 2, May 30, 2001, [115 Stat. 20][/us/stat/115/20].)
 
  __Short Title__ 
 
-[Pub. L. 107–12, § 1][/us/pl/107/12/s1], May 30, 2001, [115 Stat. 20][/us/stat/115/20], provided that: 
+[Pub. L. 107–12][/us/pl/107/12], § 1, May 30, 2001, [115 Stat. 20][/us/stat/115/20], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 2214 of Title 15][/us/usc/t15/s2214], Commerce and Trade\] may be cited as the ‘Public Safety Officer Medal of Valor Act of 2001’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/107/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs2
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F20
-[/us/pl/107/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs1
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F20
 [/us/usc/t15/s2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2214
 

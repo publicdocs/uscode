@@ -71,7 +71,7 @@
 
         There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 516, formerly § 509, as added [Pub. L. 99–570, title IV, § 4005(a)][/us/pl/99/570/s4005/a], Oct. 27, 1986, [100 Stat. 3207–112][/us/stat/100/3207-112]; renumbered § 516 and amended [Pub. L. 102–321, title I, § 113(f)][/us/pl/102/321/s113/f], July 10, 1992, [106 Stat. 345][/us/stat/106/345]; [Pub. L. 106–310, div. B, title XXXIII, § 3302(a)][/us/pl/106/310/s3302/a], Oct. 17, 2000, [114 Stat. 1209][/us/stat/114/1209].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 516, formerly § 509, as added [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4005(a), Oct. 27, 1986, [100 Stat. 3207–112][/us/stat/100/3207-112]; renumbered § 516 and amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 113(f), July 10, 1992, [106 Stat. 345][/us/stat/106/345]; [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3302(a), Oct. 17, 2000, [114 Stat. 1209][/us/stat/114/1209].)
 
  __Codification__ 
 
@@ -79,13 +79,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 516 of act July 1, 1944, was classified to [section 290cc–1 of this title][/us/usc/t42/s290cc–1], prior to repeal by [Pub. L. 102–321, title I, § 123(c)][/us/pl/102/321/s123/c], July 10, 1992, [106 Stat. 363][/us/stat/106/363].
+    A prior section 516 of act July 1, 1944, was classified to [section 290cc–1 of this title][/us/usc/t42/s290cc–1], prior to repeal by [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 123(c), July 10, 1992, [106 Stat. 363][/us/stat/106/363].
 
  __Amendments__ 
 
     2000—[Pub. L. 106–310][/us/pl/106/310] amended section catchline and text generally, substituting provisions relating to priority substance abuse prevention needs of regional and national significance for provisions relating to community programs.
 
-    1992—[Pub. L. 102–321, § 113(f)(4)][/us/pl/102/321/s113/f/4], amended section generally, substituting provisions relating to community programs for provisions relating to alcohol and drug abuse information clearinghouse.
+    1992—[Pub. L. 102–321][/us/pl/102/321], § 113(f)(4), amended section generally, substituting provisions relating to community programs for provisions relating to alcohol and drug abuse information clearinghouse.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -99,19 +99,19 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4005%2Fa
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-112
-[/us/pl/102/321/s113/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs113%2Ff
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F345
-[/us/pl/106/310/s3302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3302%2Fa
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1209
 [/us/usc/t42/s290aa–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%937
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%931
-[/us/pl/102/321/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs123%2Fc
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F363
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/102/321/s113/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs113%2Ff%2F4
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 814, [68 Stat. 647][/us/stat/68/647], as amended, which related to keeping of records, provided for their contents, and authorized examination and audit thereof, was transferred to [section 1434 of this title][/us/usc/t42/s1434].
+    Section, [act Aug. 2, 1954, ch. 649, title VIII][/us/act/1954-08-02/ch649/tVIII], § 814, [68 Stat. 647][/us/stat/68/647], as amended, which related to keeping of records, provided for their contents, and authorized examination and audit thereof, was transferred to [section 1434 of this title][/us/usc/t42/s1434].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
+[/us/act/1954-08-02/ch649/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649%2FtVIII
 [/us/stat/68/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F647
 [/us/usc/t42/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1434
 

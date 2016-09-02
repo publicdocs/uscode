@@ -27,7 +27,7 @@
 
         In this subchapter, the term “health”, when used to refer to services or care provided to enrolled children, their parents, or their siblings, shall be interpreted to refer to both physical and mental health.
 
-([Pub. L. 97–35, title VI, § 657C][/us/pl/97/35/s657C], as added [Pub. L. 110–134, § 27][/us/pl/110/134/s27], Dec. 12, 2007, [121 Stat. 1448][/us/stat/121/1448].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 657C, as added [Pub. L. 110–134][/us/pl/110/134], § 27, Dec. 12, 2007, [121 Stat. 1448][/us/stat/121/1448].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/97/35/s657C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs657C
-[/us/pl/110/134/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs27
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1448
 
 

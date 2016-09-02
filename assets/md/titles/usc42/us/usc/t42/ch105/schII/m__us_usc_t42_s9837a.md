@@ -37,9 +37,9 @@
 
             (A) the instructional and other services provided by the school in which such child will enroll after participation in Head Start; and
 
-            (B) as appropriate, the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7012][/us/usc/t20/s7012]);
+            (B) as appropriate, the information provided to parents of English learners under section 1112(e)(3) of the Elementary and Secondary Education Act of the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  1965 \[[20 U.S.C. 6312(e)(3)][/us/usc/t20/s6312/e/3]\];
 
-        (8) developing and implementing a family outreach and support program, in cooperation with entities carrying out parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.), and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431][/us/usc/t42/s11431] et seq.), taking into consideration the language needs of parents of limited English proficient children;
+        (8) developing and implementing a family outreach and support program, in cooperation with entities carrying out parent and family engagement efforts under title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6301][/us/usc/t20/s6301] et seq.\], and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431][/us/usc/t42/s11431] et seq.), taking into consideration the language needs of parents of limited English proficient children;
 
         (9) assisting families, administrators, and teachers in enhancing educational and developmental continuity and continuity of parental involvement in activities between Head Start services and elementary school classes;
 
@@ -71,7 +71,7 @@
 
         (2) provide technical assistance to such agencies to promote and assist such agencies to adopt and implement such effective policies and activities.
 
-([Pub. L. 97–35, title VI, § 642A][/us/pl/97/35/s642A], as added [Pub. L. 105–285, title I, § 110][/us/pl/105/285/s110], Oct. 27, 1998, [112 Stat. 2717][/us/stat/112/2717]; amended [Pub. L. 110–134, § 10][/us/pl/110/134/s10], Dec. 12, 2007, [121 Stat. 1407][/us/stat/121/1407].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 642A, as added [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 110, Oct. 27, 1998, [112 Stat. 2717][/us/stat/112/2717]; amended [Pub. L. 110–134][/us/pl/110/134], § 10, Dec. 12, 2007, [121 Stat. 1407][/us/stat/121/1407]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(nn)(4), Dec. 10, 2015, [129 Stat. 2177][/us/stat/129/2177].)
 
  __References in Text__ 
 
@@ -81,7 +81,15 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a)(7)(B). [Pub. L. 114–95][/us/pl/114/95], § 9215(nn)(4)(A), substituted “the information provided to parents of English learners under section 1112(e)(3) of the Elementary and Secondary Education Act of the 1965” for “the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7012][/us/usc/t20/s7012])”.
+
+    Subsec. (a)(8). [Pub. L. 114–95][/us/pl/114/95], § 9215(nn)(4)(B), substituted “parent and family engagement efforts under title I of the Elementary and Secondary Education Act of 1965” for “parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.)”.
+
     2007—[Pub. L. 110–134][/us/pl/110/134] amended section generally. Prior to amendment, section related to requirements for Head Start agencies to coordinate with local educational agencies and schools to assist in transition from Head Start to school.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
 ----------
 
@@ -91,20 +99,29 @@
 ----------
 
 [/us/usc/t42/s11432/g/1/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11432%2Fg%2F1%2FJ%2Fii
-[/us/usc/t20/s7012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7012
+[/us/usc/t20/s6312/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6312%2Fe%2F3
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t42/s11431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11431
-[/us/pl/97/35/s642A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs642A
-[/us/pl/105/285/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs110
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2717
-[/us/pl/110/134/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs10
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1407
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2177
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7012
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

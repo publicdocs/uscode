@@ -17,7 +17,7 @@
 
     The Director of the National Science Foundation shall establish a basic research program on membranes and membrane processes. Such program may be carried out through awarding grants, entering into contracts or cooperative agreements, or direct research.
 
-([Pub. L. 102–490, § 3][/us/pl/102/490/s3], Oct. 24, 1992, [106 Stat. 3142][/us/stat/106/3142].)
+([Pub. L. 102–490][/us/pl/102/490], § 3, Oct. 24, 1992, [106 Stat. 3142][/us/stat/106/3142].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/490/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490%2Fs3
+[/us/pl/102/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490
 [/us/stat/106/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3142
 
 

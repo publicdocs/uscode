@@ -113,7 +113,7 @@
 
         Out of any amounts in the Treasury not otherwise appropriated, $10,000,000 for fiscal year 2014, $36,000,000 for fiscal year 2015, and $4,000,000 for fiscal year 2019 shall be made available to the Secretary, without further appropriation and to remain available until expended, to remediate, reclaim, and close abandoned oil and gas wells on current or former National Petroleum Reserve land.
 
-([Pub. L. 109–58, title III, § 349][/us/pl/109/58/s349], Aug. 8, 2005, [119 Stat. 709][/us/stat/119/709]; [Pub. L. 113–40, § 10(b)][/us/pl/113/40/s10/b], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 349, Aug. 8, 2005, [119 Stat. 709][/us/stat/119/709]; [Pub. L. 113–40][/us/pl/113/40], § 10(b), Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545].)
 
  __Amendments__ 
 
@@ -126,9 +126,9 @@
 ----------
 ----------
 
-[/us/pl/109/58/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs349
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F709
-[/us/pl/113/40/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fb
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
 [/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 

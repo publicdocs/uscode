@@ -121,7 +121,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317M, as added [Pub. L. 106–310, div. A, title XVI, § 1602][/us/pl/106/310/s1602], Oct. 17, 2000, [114 Stat. 1148][/us/stat/114/1148]; amended [Pub. L. 111–148, title IV, § 4102(b)][/us/pl/111/148/s4102/b], (c), Mar. 23, 2010, [124 Stat. 551][/us/stat/124/551], 552.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317M, as added [Pub. L. 106–310, div. A, title XVI][/us/pl/106/310/dA/tXVI], § 1602, Oct. 17, 2000, [114 Stat. 1148][/us/stat/114/1148]; amended [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4102(b), (c), Mar. 23, 2010, [124 Stat. 551][/us/stat/124/551], 552.)
 
  __References in Text__ 
 
@@ -129,9 +129,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1). [Pub. L. 111–148, § 4102(b)][/us/pl/111/148/s4102/b], substituted “shall award a grant to each of the 50 States and territories and to Indians, Indian tribes, tribal organizations and urban Indian organizations (as such terms are defined in [section 1603 of title 25][/us/usc/t25/s1603])” for “may award grants to States and Indian tribes”.
+    2010—Subsec. (c)(1). [Pub. L. 111–148][/us/pl/111/148], § 4102(b), substituted “shall award a grant to each of the 50 States and territories and to Indians, Indian tribes, tribal organizations and urban Indian organizations (as such terms are defined in [section 1603 of title 25][/us/usc/t25/s1603])” for “may award grants to States and Indian tribes”.
 
-    Subsecs. (d) to (f). [Pub. L. 111–148, § 4102(c)][/us/pl/111/148/s4102/c], added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (d) to (f). [Pub. L. 111–148][/us/pl/111/148], § 4102(c), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 ----------
 
@@ -144,13 +144,13 @@
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1602
+[/us/pl/106/310/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXVI
 [/us/stat/114/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1148
-[/us/pl/111/148/s4102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4102%2Fb
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F551
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/111/148/s4102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4102%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
-[/us/pl/111/148/s4102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4102%2Fc
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

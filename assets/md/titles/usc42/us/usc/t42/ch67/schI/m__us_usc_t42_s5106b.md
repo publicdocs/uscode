@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106a–1.md) | [Next](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106b)
 
-## § 5106b. Repealed. [Pub. L. 104–235, title I, § 108][/us/pl/104/235/s108], Oct. 3, 1996, [110 Stat. 3078][/us/stat/110/3078]
+## § 5106b. Repealed. [Pub. L. 104–235, title I][/us/pl/104/235/tI], § 108, Oct. 3, 1996, [110 Stat. 3078][/us/stat/110/3078]
 
-    Section, [Pub. L. 93–247, title I, § 108][/us/pl/93/247/s108], formerly § 9, as added [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 113][/us/stat/102/113]; renumbered title I, § 108, and amended [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), (b)(4), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765, related to technical assistance to States for child abuse prevention and treatment programs.
+    Section, [Pub. L. 93–247, title I][/us/pl/93/247/tI], § 108, formerly § 9, as added [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 113][/us/stat/102/113]; renumbered title I, § 108, and amended [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), (b)(4), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765, related to technical assistance to States for child abuse prevention and treatment programs.
 
 ----------
 
@@ -24,12 +24,12 @@
 ----------
 ----------
 
-[/us/pl/104/235/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs108
+[/us/pl/104/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtI
 [/us/stat/110/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3078
-[/us/pl/93/247/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs108
-[/us/pl/100/294/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs101
+[/us/pl/93/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtI
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F113
-[/us/pl/101/126/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fa%2F1
+[/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/stat/103/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F764
 
 

@@ -63,7 +63,7 @@
 
             The use, building, or conversion of real property for the purpose of religious exercise shall be considered to be religious exercise of the person or entity that uses or intends to use the property for that purpose.
 
-([Pub. L. 106–274, § 8][/us/pl/106/274/s8], Sept. 22, 2000, [114 Stat. 806][/us/stat/114/806].)
+([Pub. L. 106–274][/us/pl/106/274], § 8, Sept. 22, 2000, [114 Stat. 806][/us/stat/114/806].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t42/s2000d–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%934a
-[/us/pl/106/274/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs8
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F806
 [/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F803

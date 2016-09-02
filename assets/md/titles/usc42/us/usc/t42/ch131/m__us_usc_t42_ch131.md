@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch130/schIV/ptC/m__us_usc_t42_ch130_schIV_ptC.md) | [Next](./../../../..//us/usc/t42/ch131/m__us_usc_t42_s12901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch131)
+[Previous](./../../../..//us/usc/t42/ch130/schIV/ptC/m__us_usc_t42_s12899...12899i.md) | [Next](./../../../..//us/usc/t42/ch131/m__us_usc_t42_s12901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch131)
 
 ## CHAPTER 131—HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch130/schIV/ptC/m__us_usc_t42_ch130_schIV_ptC.md) | [Next](./../../../..//us/usc/t42/ch131/m__us_usc_t42_s12901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch131)
+[Previous](./../../../..//us/usc/t42/ch130/schIV/ptC/m__us_usc_t42_s12899...12899i.md) | [Next](./../../../..//us/usc/t42/ch131/m__us_usc_t42_s12901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch131)
 
 ----------
 ----------

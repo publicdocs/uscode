@@ -17,7 +17,7 @@
 
     In order to reduce unnecessary, duplicative, or disruptive demands for information, the Director, in consultation with other appropriate agencies and organizations, shall continually review and evaluate all requests for information made under this chapter and take such action as may be necessary to reduce the paperwork required under this chapter. The Director shall request only such information as the Director deems essential to carry out the purposes and provisions of this chapter.
 
-([Pub. L. 93–113, title IV, § 423][/us/pl/93/113/s423], as added [Pub. L. 96–143, § 14(a)][/us/pl/96/143/s14/a], Dec. 13, 1979, [93 Stat. 1081][/us/stat/93/1081].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 423, as added [Pub. L. 96–143][/us/pl/96/143], § 14(a), Dec. 13, 1979, [93 Stat. 1081][/us/stat/93/1081].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/113/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs423
-[/us/pl/96/143/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs14%2Fa
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1081
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

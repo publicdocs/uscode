@@ -17,7 +17,7 @@
 
     No person shall sell, offer for sale, or offer for promotional purposes any button cell mercuric-oxide battery for use in the United States on or after May 13, 1996.
 
-([Pub. L. 104–142, title II, § 205][/us/pl/104/142/s205], May 13, 1996, [110 Stat. 1336][/us/stat/110/1336].)
+([Pub. L. 104–142, title II][/us/pl/104/142/tII], § 205, May 13, 1996, [110 Stat. 1336][/us/stat/110/1336].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs205
+[/us/pl/104/142/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2FtII
 [/us/stat/110/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1336
 
 

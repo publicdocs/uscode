@@ -341,15 +341,15 @@
 
         Notwithstanding subsections (b) and (d) of this section, the Administrator shall not terminate production of methyl bromide prior to January 1, 2005. The Administrator shall promulgate rules for reductions in, and terminate the production, importation, and consumption of, methyl bromide under a schedule that is in accordance with, but not more stringent than, the phaseout schedule of the Montreal Protocol Treaty as in effect on October 21, 1998.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 604, as added [Pub. L. 101–549, title VI, § 602(a)][/us/pl/101/549/s602/a], Nov. 15, 1990, [104 Stat. 2655][/us/stat/104/2655]; amended [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 764\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–36.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 604, as added [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 602(a), Nov. 15, 1990, [104 Stat. 2655][/us/stat/104/2655]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 764\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–36.)
 
  __Amendments__ 
 
-    1998—Subsec. (d)(5), (6). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 764(b)\], added pars. (5) and (6).
+    1998—Subsec. (d)(5), (6). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VII, § 764(b)\], added pars. (5) and (6).
 
-    Subsec. (e)(3). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 764(c)\], added par. (3).
+    Subsec. (e)(3). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VII, § 764(c)\], added par. (3).
 
-    Subsec. (h). [Pub. L. 105–277, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 764(a)\], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–277][/us/pl/105/277], § 101(a) \[title VII, § 764(a)\], added subsec. (h).
 
 ----------
 
@@ -359,12 +359,12 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs602%2Fa
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2655
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

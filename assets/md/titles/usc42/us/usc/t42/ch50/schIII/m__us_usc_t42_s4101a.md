@@ -187,7 +187,7 @@
 
         (3) any recommendations made by the Council that have been deferred or not acted upon, together with an explanatory statement.
 
-([Pub. L. 112–141, div. F, title II, § 100215][/us/pl/112/141/s100215], July 6, 2012, [126 Stat. 924][/us/stat/126/924].)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100215, July 6, 2012, [126 Stat. 924][/us/stat/126/924].)
 
  __Codification__ 
 
@@ -206,7 +206,7 @@
 
 [/us/usc/t42/s4101b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101b
 [/us/usc/t42/s4101b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101b
-[/us/pl/112/141/s100215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100215
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F924
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004
 

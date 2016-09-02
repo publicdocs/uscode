@@ -163,7 +163,7 @@
 
         In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
-([Pub. L. 93–247, title I, § 105][/us/pl/93/247/s105], formerly § 7, Jan. 31, 1974, [88 Stat. 8][/us/stat/88/8]; [Pub. L. 98–457, title I, § 106][/us/pl/98/457/s106], Oct. 9, 1984, [98 Stat. 1751][/us/stat/98/1751]; [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 108][/us/stat/102/108]; renumbered title I, § 106, [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; [Pub. L. 102–295, title I][/us/pl/102/295], §§ 113, 141(1), (2), (5), May 28, 1992, [106 Stat. 191][/us/stat/106/191], 199, 200; renumbered § 105 and amended [Pub. L. 104–235, title I][/us/pl/104/235], §§ 106, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3069][/us/stat/110/3069], 3079; [Pub. L. 108–36, title I, § 113][/us/pl/108/36/s113], June 25, 2003, [117 Stat. 805][/us/stat/117/805]; [Pub. L. 111–320, title I, § 114][/us/pl/111/320/s114], Dec. 20, 2010, [124 Stat. 3465][/us/stat/124/3465].)
+([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 105, formerly § 7, Jan. 31, 1974, [88 Stat. 8][/us/stat/88/8]; [Pub. L. 98–457, title I][/us/pl/98/457/tI], § 106, Oct. 9, 1984, [98 Stat. 1751][/us/stat/98/1751]; [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 108][/us/stat/102/108]; renumbered title I, § 106, [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; [Pub. L. 102–295, title I][/us/pl/102/295/tI], §§ 113, 141(1), (2), (5), May 28, 1992, [106 Stat. 191][/us/stat/106/191], 199, 200; renumbered § 105 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 106, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3069][/us/stat/110/3069], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 113, June 25, 2003, [117 Stat. 805][/us/stat/117/805]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 114, Dec. 20, 2010, [124 Stat. 3465][/us/stat/124/3465].)
 
  __Prior Provisions__ 
 
@@ -171,77 +171,77 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–320, § 114(1)][/us/pl/111/320/s114/1], substituted “States, Indian tribes or tribal organizations,” for “States” in section catchline.
+    2010—[Pub. L. 111–320][/us/pl/111/320], § 114(1), substituted “States, Indian tribes or tribal organizations,” for “States” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–320, § 114(2)(A)][/us/pl/111/320/s114/2/A], substituted “entities that are States, Indian tribes or tribal organizations, or” for “States,” and “such entities” for “such agencies or organizations” in introductory provisions.
+    Subsec. (a). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(A), substituted “entities that are States, Indian tribes or tribal organizations, or” for “States,” and “such entities” for “such agencies or organizations” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 111–320, § 114(2)(B)(i)][/us/pl/111/320/s114/2/B/i], substituted “this subsection” for “this section” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(B)(i), substituted “this subsection” for “this section” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 111–320, § 114(2)(B)(ii)][/us/pl/111/320/s114/2/B/ii], inserted “health care,” before “medicine,”, “child care,” before “and other relevant fields,”, and “and neglect” before semicolon at end.
+    Subsec. (a)(1)(A). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(B)(ii), inserted “health care,” before “medicine,”, “child care,” before “and other relevant fields,”, and “and neglect” before semicolon at end.
 
-    Subsec. (a)(1)(B). [Pub. L. 111–320, § 114(2)(B)(iii)][/us/pl/111/320/s114/2/B/iii], inserted a comma after “youth”.
+    Subsec. (a)(1)(B). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(B)(iii), inserted a comma after “youth”.
 
-    Subsec. (a)(1)(D). [Pub. L. 111–320, § 114(2)(B)(iv)][/us/pl/111/320/s114/2/B/iv], substituted “enhance linkages among” for “support the enhancement of linkages between”, “entities providing physical and mental health services, community resources, and developmental disability agencies, to improve screening, forensic diagnosis, and health and developmental evaluations, and for partnerships” for “including physical and mental health services, to improve forensic diagnosis and health evaluations and for innovative partnerships”, and “support the coordinated use of” for “offer creative approaches to using”.
+    Subsec. (a)(1)(D). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(B)(iv), substituted “enhance linkages among” for “support the enhancement of linkages between”, “entities providing physical and mental health services, community resources, and developmental disability agencies, to improve screening, forensic diagnosis, and health and developmental evaluations, and for partnerships” for “including physical and mental health services, to improve forensic diagnosis and health evaluations and for innovative partnerships”, and “support the coordinated use of” for “offer creative approaches to using”.
 
-    Subsec. (a)(1)(E) to (M). [Pub. L. 111–320, § 114(2)(B)(v)][/us/pl/111/320/s114/2/B/v] to (xi), added subpars. (E), (H), and (M), redesignated former subpars. (E) to (J) as (F), (G), and (I) to (L), respectively, in subpar. (J), substituted “other public and private welfare agencies, and agencies that provide early intervention services” for “and other public and private welfare agencies”, and, in subpar. (L), substituted “infants or toddlers with disabilities” for “disabled infants” in two places.
+    Subsec. (a)(1)(E) to (M). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(B)(v) to (xi), added subpars. (E), (H), and (M), redesignated former subpars. (E) to (J) as (F), (G), and (I) to (L), respectively, in subpar. (J), substituted “other public and private welfare agencies, and agencies that provide early intervention services” for “and other public and private welfare agencies”, and, in subpar. (L), substituted “infants or toddlers with disabilities” for “disabled infants” in two places.
 
-    Subsec. (a)(2)(C). [Pub. L. 111–320, § 114(2)(C)][/us/pl/111/320/s114/2/C], substituted “when” for “where”.
+    Subsec. (a)(2)(C). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(C), substituted “when” for “where”.
 
-    Subsec. (a)(3). [Pub. L. 111–320, § 114(2)(D)][/us/pl/111/320/s114/2/D], inserted “, leadership,” after “mutual support”.
+    Subsec. (a)(3). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(D), inserted “, leadership,” after “mutual support”.
 
-    Subsec. (a)(4). [Pub. L. 111–320, § 114(2)(E)][/us/pl/111/320/s114/2/E], (F), struck out subpar. (A) designation and heading “In general” and struck out “in not more than 10 States” after “public and private entities”.
+    Subsec. (a)(4). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(E), (F), struck out subpar. (A) designation and heading “In general” and struck out “in not more than 10 States” after “public and private entities”.
 
-    Subsec. (a)(5). [Pub. L. 111–320, § 114(2)(G)][/us/pl/111/320/s114/2/G], in heading, substituted “among” for “between” and “substance abuse, developmental disabilities, and domestic violence service” for “and developmental disabilities” and, in text, substituted “among” for “between”, “mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for” for “mental health, and developmental disabilities agencies, for”, and “ensure” for “help assure”.
+    Subsec. (a)(5). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(G), in heading, substituted “among” for “between” and “substance abuse, developmental disabilities, and domestic violence service” for “and developmental disabilities” and, in text, substituted “among” for “between”, “mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for” for “mental health, and developmental disabilities agencies, for”, and “ensure” for “help assure”.
 
-    Subsec. (a)(6). [Pub. L. 111–320, § 114(2)(H)][/us/pl/111/320/s114/2/H], added par. (6).
+    Subsec. (a)(6). [Pub. L. 111–320][/us/pl/111/320], § 114(2)(H), added par. (6).
 
-    Subsec. (b)(4)(A)(ii). [Pub. L. 111–320, § 114(3)(A)][/us/pl/111/320/s114/3/A], substituted “victims of child abuse or neglect” for “neglected or abused”.
+    Subsec. (b)(4)(A)(ii). [Pub. L. 111–320][/us/pl/111/320], § 114(3)(A), substituted “victims of child abuse or neglect” for “neglected or abused”.
 
-    Subsec. (b)(4)(B)(ii). [Pub. L. 111–320, § 114(3)(B)][/us/pl/111/320/s114/3/B], substituted “child abuse and neglect” for “abuse or neglect”.
+    Subsec. (b)(4)(B)(ii). [Pub. L. 111–320][/us/pl/111/320], § 114(3)(B), substituted “child abuse and neglect” for “abuse or neglect”.
 
-    Subsec. (b)(4)(C)(iii). [Pub. L. 111–320, § 114(3)(B)][/us/pl/111/320/s114/3/B], (C), substituted “has been a victim of child abuse or neglect” for “has been neglected or abused” and “possibility of child abuse and neglect” for “possibility of abuse or neglect”.
+    Subsec. (b)(4)(C)(iii). [Pub. L. 111–320][/us/pl/111/320], § 114(3)(B), (C), substituted “has been a victim of child abuse or neglect” for “has been neglected or abused” and “possibility of child abuse and neglect” for “possibility of abuse or neglect”.
 
-    Subsec. (b)(4)(D). [Pub. L. 111–320, § 114(3)(D)][/us/pl/111/320/s114/3/D], substituted “grantee is an” for “grantee is a” in introductory provisions.
+    Subsec. (b)(4)(D). [Pub. L. 111–320][/us/pl/111/320], § 114(3)(D), substituted “grantee is an” for “grantee is a” in introductory provisions.
 
-    2003—[Pub. L. 108–36, § 113(d)][/us/pl/108/36/s113/d], substituted “Grants to States and public or private agencies and organizations” for “Grants to public agencies and nonprofit private organizations for demonstration programs and projects” as section catchline.
+    2003—[Pub. L. 108–36][/us/pl/108/36], § 113(d), substituted “Grants to States and public or private agencies and organizations” for “Grants to public agencies and nonprofit private organizations for demonstration programs and projects” as section catchline.
 
-    Subsec. (a). [Pub. L. 108–36, § 113(a)(2)][/us/pl/108/36/s113/a/2], in introductory provisions, inserted “States,” after “contracts with,” and struck out “nonprofit” after “private” and “time limited, demonstration” after “organizations) for”.
+    Subsec. (a). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(2), in introductory provisions, inserted “States,” after “contracts with,” and struck out “nonprofit” after “private” and “time limited, demonstration” after “organizations) for”.
 
-    [Pub. L. 108–36, § 113(a)(1)][/us/pl/108/36/s113/a/1], substituted “Grants for” for “Demonstration” in heading.
+    [Pub. L. 108–36][/us/pl/108/36], § 113(a)(1), substituted “Grants for” for “Demonstration” in heading.
 
-    Subsec. (a)(1). [Pub. L. 108–36, § 113(a)(3)(A)][/us/pl/108/36/s113/a/3/A], struck out “nonprofit” after “public or private” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(3)(A), struck out “nonprofit” after “public or private” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 108–36, § 113(a)(3)(B)][/us/pl/108/36/s113/a/3/B], substituted “law enforcement, judiciary, social work and child protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem,” for “law, education, social work, and other relevant fields”.
+    Subsec. (a)(1)(A). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(3)(B), substituted “law enforcement, judiciary, social work and child protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem,” for “law, education, social work, and other relevant fields”.
 
-    Subsec. (a)(1)(B). [Pub. L. 108–36, § 113(a)(3)(C)][/us/pl/108/36/s113/a/3/C], substituted “children, youth and family service organizations in order to prevent child abuse and neglect;” for “nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and”.
+    Subsec. (a)(1)(B). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(3)(C), substituted “children, youth and family service organizations in order to prevent child abuse and neglect;” for “nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and”.
 
-    Subsec. (a)(1)(D) to (J). [Pub. L. 108–36, § 113(a)(3)(D)][/us/pl/108/36/s113/a/3/D], (E), added subpars. (D) to (J).
+    Subsec. (a)(1)(D) to (J). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(3)(D), (E), added subpars. (D) to (J).
 
-    Subsec. (a)(2). [Pub. L. 108–36, § 113(a)(5)][/us/pl/108/36/s113/a/5], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(5), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 108–36, § 113(a)(6)][/us/pl/108/36/s113/a/6], substituted “organizations” for “nonprofit organizations (such as Parents Anonymous)”.
+    Subsec. (a)(3). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(6), substituted “organizations” for “nonprofit organizations (such as Parents Anonymous)”.
 
-    [Pub. L. 108–36, § 113(a)(4)][/us/pl/108/36/s113/a/4], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    [Pub. L. 108–36][/us/pl/108/36], § 113(a)(4), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 108–36, § 113(a)(7)][/us/pl/108/36/s113/a/7], added par. heading and struck out former heading “Other innovative programs and projects”, redesignated subpar. (B) as (A), substituted “In general” for “Kinship care” in subpar. heading, and struck out “nonprofit” before “entities” and former subpars. (A) and (C), which related, respectively, to general issues of awarding grants and grants to promote safe, family-friendly physical environments for visitation and exchange.
+    Subsec. (a)(4). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(7), added par. heading and struck out former heading “Other innovative programs and projects”, redesignated subpar. (B) as (A), substituted “In general” for “Kinship care” in subpar. heading, and struck out “nonprofit” before “entities” and former subpars. (A) and (C), which related, respectively, to general issues of awarding grants and grants to promote safe, family-friendly physical environments for visitation and exchange.
 
-    [Pub. L. 108–36, § 113(a)(4)][/us/pl/108/36/s113/a/4], redesignated par. (3) as (4).
+    [Pub. L. 108–36][/us/pl/108/36], § 113(a)(4), redesignated par. (3) as (4).
 
-    Subsec. (a)(5). [Pub. L. 108–36, § 113(a)(8)][/us/pl/108/36/s113/a/8], added par. (5).
+    Subsec. (a)(5). [Pub. L. 108–36][/us/pl/108/36], § 113(a)(8), added par. (5).
 
-    Subsec. (b). [Pub. L. 108–36, § 113(b)(1)][/us/pl/108/36/s113/b/1], substituted “subsection (a)” for “subsection (b)” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–36][/us/pl/108/36], § 113(b)(1), substituted “subsection (a)” for “subsection (b)” in introductory provisions.
 
-    Subsec. (b)(1) to (3). [Pub. L. 108–36, § 113(b)(2)][/us/pl/108/36/s113/b/2]–(4), added par. (3), redesignated former pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “Projects which provide educational identification, prevention, and treatment services in cooperation with preschool and elementary and secondary schools.”
+    Subsec. (b)(1) to (3). [Pub. L. 108–36][/us/pl/108/36], § 113(b)(2)–(4), added par. (3), redesignated former pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “Projects which provide educational identification, prevention, and treatment services in cooperation with preschool and elementary and secondary schools.”
 
-    Subsec. (b)(4)(D). [Pub. L. 108–36, § 113(b)(5)][/us/pl/108/36/s113/b/5], struck out “nonprofit” before “acute care hospital” in introductory provisions.
+    Subsec. (b)(4)(D). [Pub. L. 108–36][/us/pl/108/36], § 113(b)(5), struck out “nonprofit” before “acute care hospital” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 108–36, § 113(c)][/us/pl/108/36/s113/c], struck out “demonstration” before “projects” in first sentence, inserted “or contract” after “or as a separate grant” in second sentence, and inserted at end “In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.”
+    Subsec. (c). [Pub. L. 108–36][/us/pl/108/36], § 113(c), struck out “demonstration” before “projects” in first sentence, inserted “or contract” after “or as a separate grant” in second sentence, and inserted at end “In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.”
 
-    1996—[Pub. L. 104–235, § 106(1)][/us/pl/104/235/s106/1], struck out “or service” after “demonstration” in section catchline.
+    1996—[Pub. L. 104–235][/us/pl/104/235], § 106(1), struck out “or service” after “demonstration” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–235, § 106(2)][/us/pl/104/235/s106/2], amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) and (2) which related to general authority of Secretary to make grants and enter into contracts for demonstration or service programs and projects and to evaluate the effectiveness of those demonstration projects.
+    Subsec. (a). [Pub. L. 104–235][/us/pl/104/235], § 106(2), amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) and (2) which related to general authority of Secretary to make grants and enter into contracts for demonstration or service programs and projects and to evaluate the effectiveness of those demonstration projects.
 
-    Subsec. (b). [Pub. L. 104–235, § 106(3)][/us/pl/104/235/s106/3], (4), redesignated subsec. (c) as (b) and pars. (3) to (7) thereof as (1) to (5), respectively, struck out former pars. (1) and (2) which related to training programs and other innovative programs, respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall, directly or through grants or contracts with public or private nonprofit organizations under this section, provide for the establishment of resource centers—
+    Subsec. (b). [Pub. L. 104–235][/us/pl/104/235], § 106(3), (4), redesignated subsec. (c) as (b) and pars. (3) to (7) thereof as (1) to (5), respectively, struck out former pars. (1) and (2) which related to training programs and other innovative programs, respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall, directly or through grants or contracts with public or private nonprofit organizations under this section, provide for the establishment of resource centers—
 
     “(1) serving defined geographic areas;
 
@@ -249,21 +249,21 @@
 
     “(3) providing advice and consultation to individuals, agencies, and organizations which request such services.”
 
-    Subsec. (c). [Pub. L. 104–235, § 106(6)][/us/pl/104/235/s106/6], added subsec. (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 104–235][/us/pl/104/235], § 106(6), added subsec. (c). Former subsec. (c) redesignated (b).
 
-    1992—Subsec. (a). [Pub. L. 102–295, § 113(a)][/us/pl/102/295/s113/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    1992—Subsec. (a). [Pub. L. 102–295][/us/pl/102/295], § 113(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (c)(1)(B). [Pub. L. 102–295, § 141(5)][/us/pl/102/295/s141/5], substituted “disabilities” for “handicaps”.
+    Subsec. (c)(1)(B). [Pub. L. 102–295][/us/pl/102/295], § 141(5), substituted “disabilities” for “handicaps”.
 
-    [Pub. L. 102–295, § 113(b)(1)][/us/pl/102/295/s113/b/1], inserted “culturally specific” before “instruction”.
+    [Pub. L. 102–295][/us/pl/102/295], § 113(b)(1), inserted “culturally specific” before “instruction”.
 
-    Subsec. (c)(1)(C). [Pub. L. 102–295, § 113(b)(2)][/us/pl/102/295/s113/b/2], added subpar. (C).
+    Subsec. (c)(1)(C). [Pub. L. 102–295][/us/pl/102/295], § 113(b)(2), added subpar. (C).
 
-    Subsec. (c)(6)(A)(i). [Pub. L. 102–295, § 141(5)][/us/pl/102/295/s141/5], substituted “children with disabilities” for “children with handicaps”.
+    Subsec. (c)(6)(A)(i). [Pub. L. 102–295][/us/pl/102/295], § 141(5), substituted “children with disabilities” for “children with handicaps”.
 
-    Subsec. (c)(6)(B)(i). [Pub. L. 102–295, § 141(1)][/us/pl/102/295/s141/1], substituted “child with disabilities” for “handicapped child”.
+    Subsec. (c)(6)(B)(i). [Pub. L. 102–295][/us/pl/102/295], § 141(1), substituted “child with disabilities” for “handicapped child”.
 
-    Subsec. (c)(6)(C)(ii). [Pub. L. 102–295, § 141(2)][/us/pl/102/295/s141/2], substituted “child with disabilities” for “child with handicaps”.
+    Subsec. (c)(6)(C)(ii). [Pub. L. 102–295][/us/pl/102/295], § 141(2), substituted “child with disabilities” for “child with handicaps”.
 
     1988—[Pub. L. 100–294][/us/pl/100/294] amended section generally, substituting provision authorizing grants to public agencies and nonprofit private organizations for demonstration or service programs and projects for provision directing the Secretary to ensure coordination among Federal programs related to child abuse and neglect. See [section 5106e of this title][/us/usc/t42/s5106e].
 
@@ -276,68 +276,68 @@
 ----------
 ----------
 
-[/us/pl/93/247/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs105
+[/us/pl/93/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtI
 [/us/stat/88/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F8
-[/us/pl/98/457/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs106
+[/us/pl/98/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtI
 [/us/stat/98/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1751
-[/us/pl/100/294/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs101
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F108
-[/us/pl/101/126/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fa%2F1
+[/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/stat/103/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F764
-[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtI
 [/us/stat/106/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F191
-[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtI
 [/us/stat/110/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3069
-[/us/pl/108/36/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113
+[/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F805
-[/us/pl/111/320/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3465
 [/us/pl/93/247/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs105
 [/us/usc/t42/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5105
-[/us/pl/111/320/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F1
-[/us/pl/111/320/s114/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FA
-[/us/pl/111/320/s114/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FB%2Fi
-[/us/pl/111/320/s114/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FB%2Fii
-[/us/pl/111/320/s114/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FB%2Fiii
-[/us/pl/111/320/s114/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FB%2Fiv
-[/us/pl/111/320/s114/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FB%2Fv
-[/us/pl/111/320/s114/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FC
-[/us/pl/111/320/s114/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FD
-[/us/pl/111/320/s114/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FE
-[/us/pl/111/320/s114/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FG
-[/us/pl/111/320/s114/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F2%2FH
-[/us/pl/111/320/s114/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F3%2FA
-[/us/pl/111/320/s114/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F3%2FB
-[/us/pl/111/320/s114/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F3%2FB
-[/us/pl/111/320/s114/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs114%2F3%2FD
-[/us/pl/108/36/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fd
-[/us/pl/108/36/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F2
-[/us/pl/108/36/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F1
-[/us/pl/108/36/s113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F3%2FA
-[/us/pl/108/36/s113/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F3%2FB
-[/us/pl/108/36/s113/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F3%2FC
-[/us/pl/108/36/s113/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F3%2FD
-[/us/pl/108/36/s113/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F5
-[/us/pl/108/36/s113/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F6
-[/us/pl/108/36/s113/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F4
-[/us/pl/108/36/s113/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F7
-[/us/pl/108/36/s113/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F4
-[/us/pl/108/36/s113/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fa%2F8
-[/us/pl/108/36/s113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fb%2F1
-[/us/pl/108/36/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fb%2F2
-[/us/pl/108/36/s113/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fb%2F5
-[/us/pl/108/36/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs113%2Fc
-[/us/pl/104/235/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs106%2F1
-[/us/pl/104/235/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs106%2F2
-[/us/pl/104/235/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs106%2F3
-[/us/pl/104/235/s106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs106%2F6
-[/us/pl/102/295/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs113%2Fa
-[/us/pl/102/295/s141/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs141%2F5
-[/us/pl/102/295/s113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs113%2Fb%2F1
-[/us/pl/102/295/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs113%2Fb%2F2
-[/us/pl/102/295/s141/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs141%2F5
-[/us/pl/102/295/s141/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs141%2F1
-[/us/pl/102/295/s141/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs141%2F2
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
 [/us/pl/100/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294
 [/us/usc/t42/s5106e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106e
 [/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457

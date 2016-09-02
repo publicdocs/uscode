@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Secretary to carry out this chapter such sums as may be authorized by legislation hereafter enacted.
 
-([Pub. L. 96–567, § 9][/us/pl/96/567/s9], Dec. 22, 1980, [94 Stat. 3333][/us/stat/94/3333].)
+([Pub. L. 96–567][/us/pl/96/567], § 9, Dec. 22, 1980, [94 Stat. 3333][/us/stat/94/3333].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/567/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs9
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3333
 
 

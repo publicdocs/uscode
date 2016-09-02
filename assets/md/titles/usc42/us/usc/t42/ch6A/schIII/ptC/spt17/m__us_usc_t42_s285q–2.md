@@ -79,7 +79,7 @@
 
         The advisory council may prepare, for inclusion in the biennial report made under [section 285q–3 of this title][/us/usc/t42/s285q–3], (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the Institute in meeting its objectives, and (3) recommendations respecting the future directions and program and policy emphasis of the Institute. The advisory council may prepare such additional reports as it may determine appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464X, formerly § 485, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 867][/us/stat/99/867]; amended [Pub. L. 101–381, title I, § 102(4)][/us/pl/101/381/s102/4], Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; [Pub. L. 102–54, § 13(q)(1)(E)][/us/pl/102/54/s13/q/1/E], June 13, 1991, [105 Stat. 279][/us/stat/105/279]; renumbered § 464X and amended [Pub. L. 103–43, title XV, § 1511(a)(3)][/us/pl/103/43/s1511/a/3], (b)(2), (4)(B), title XX, §§ 2008(b)(13), 2010(b)(5), June 10, 1993, [107 Stat. 178][/us/stat/107/178], 179, 211, 214.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464X, formerly § 485, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 867][/us/stat/99/867]; amended [Pub. L. 101–381, title I][/us/pl/101/381/tI], § 102(4), Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(1)(E), June 13, 1991, [105 Stat. 279][/us/stat/105/279]; renumbered § 464X and amended [Pub. L. 103–43, title XV][/us/pl/103/43/tXV], § 1511(a)(3), (b)(2), (4)(B), title XX, §§ 2008(b)(13), 2010(b)(5), June 10, 1993, [107 Stat. 178][/us/stat/107/178], 179, 211, 214.)
 
  __Codification__ 
 
@@ -87,19 +87,19 @@
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–43, § 1511(a)(3)(A)][/us/pl/103/43/s1511/a/3/A], substituted “Institute” for “Center” wherever appearing.
+    1993—Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 1511(a)(3)(A), substituted “Institute” for “Center” wherever appearing.
 
-    Subsec. (a)(2). [Pub. L. 103–43, § 2010(b)(5)][/us/pl/103/43/s2010/b/5], which directed the substitution of “section 238” for “section 300aaa” in [section 287c–2(a)(2) of this title][/us/usc/t42/s287c–2/a/2], was executed to subsec. (a)(2) of this section to reflect the probable intent of Congress and the renumbering of this section. See Codification note above.
+    Subsec. (a)(2). [Pub. L. 103–43][/us/pl/103/43], § 2010(b)(5), which directed the substitution of “section 238” for “section 300aaa” in [section 287c–2(a)(2) of this title][/us/usc/t42/s287c–2/a/2], was executed to subsec. (a)(2) of this section to reflect the probable intent of Congress and the renumbering of this section. See Codification note above.
 
-    Subsec. (b)(2)(A). [Pub. L. 103–43, § 2008(b)(13)][/us/pl/103/43/s2008/b/13], which directed the substitution of “Department of Veterans Affairs” for “Veterans’ Administration” in [section 287c–2(b)(2)(A) of this title][/us/usc/t42/s287c–2/b/2/A] could not be executed because the words “Veterans’ Administration” do not appear in subsec. (b)(2)(A) of this section subsequent to amendment by [Pub. L. 102–54][/us/pl/102/54] and because of the renumbering of this section. See Codification note above and 1991 Amendment note below.
+    Subsec. (b)(2)(A). [Pub. L. 103–43][/us/pl/103/43], § 2008(b)(13), which directed the substitution of “Department of Veterans Affairs” for “Veterans’ Administration” in [section 287c–2(b)(2)(A) of this title][/us/usc/t42/s287c–2/b/2/A] could not be executed because the words “Veterans’ Administration” do not appear in subsec. (b)(2)(A) of this section subsequent to amendment by [Pub. L. 102–54][/us/pl/102/54] and because of the renumbering of this section. See Codification note above and 1991 Amendment note below.
 
     [Pub. L. 103–43][/us/pl/103/43], §§ 1511(a)(3)(B)(i), substituted “Institute” for “Center”.
 
-    Subsec. (b)(3)(A). [Pub. L. 103–43, § 1511(a)(3)(B)(ii)][/us/pl/103/43/s1511/a/3/B/ii], substituted “Institute” for “Center”.
+    Subsec. (b)(3)(A). [Pub. L. 103–43][/us/pl/103/43], § 1511(a)(3)(B)(ii), substituted “Institute” for “Center”.
 
-    Subsecs. (d) to (f). [Pub. L. 103–43, § 1511(a)(3)(C)][/us/pl/103/43/s1511/a/3/C], substituted “Institute” for “Center” wherever appearing.
+    Subsecs. (d) to (f). [Pub. L. 103–43][/us/pl/103/43], § 1511(a)(3)(C), substituted “Institute” for “Center” wherever appearing.
 
-    Subsec. (g). [Pub. L. 103–43, § 1511(a)(3)(C)][/us/pl/103/43/s1511/a/3/C], (b)(4)(B), substituted “section 285q–3” for “section 287c–3” and “Institute” for “Center” in two places.
+    Subsec. (g). [Pub. L. 103–43][/us/pl/103/43], § 1511(a)(3)(C), (b)(4)(B), substituted “section 285q–3” for “section 287c–3” and “Institute” for “Center” in two places.
 
     1991—Subsec. (b)(2)(A). [Pub. L. 102–54][/us/pl/102/54] substituted “chief nursing officer of the Department of Veterans Affairs” for “Chief Nursing Officer of the Veterans’ Administration”.
 
@@ -109,7 +109,7 @@
 
     Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -125,32 +125,32 @@
 [/us/usc/t42/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238
 [/us/usc/t42/s285q–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285q%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F867
-[/us/pl/101/381/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs102%2F4
+[/us/pl/101/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtI
 [/us/stat/104/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F586
-[/us/pl/102/54/s13/q/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F1%2FE
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F279
-[/us/pl/103/43/s1511/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1511%2Fa%2F3
+[/us/pl/103/43/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXV
 [/us/stat/107/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F178
 [/us/usc/t42/s285c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285c%E2%80%932
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/103/43/s1511/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1511%2Fa%2F3%2FA
-[/us/pl/103/43/s2010/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fb%2F5
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/usc/t42/s287c–2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%932%2Fa%2F2
-[/us/pl/103/43/s2008/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F13
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/usc/t42/s287c–2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%932%2Fb%2F2%2FA
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/103/43/s1511/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1511%2Fa%2F3%2FB%2Fii
-[/us/pl/103/43/s1511/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1511%2Fa%2F3%2FC
-[/us/pl/103/43/s1511/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1511%2Fa%2F3%2FC
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/101/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381
 [/us/usc/t42/s300aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aaa
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

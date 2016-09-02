@@ -17,7 +17,7 @@
 
     Materials produced, procured, or distributed both using funds appropriated to carry out this chapter and for the purpose of preventing hate crimes that result in acts of physical violence, shall not recommend or require any action that abridges or infringes upon the constitutionally protected rights of free speech, religion, or equal protection of juveniles or of their parents or legal guardians.
 
-([Pub. L. 93–415, title II, § 299J][/us/pl/93/415/s299J], as added [Pub. L. 107–273, div. C, title II, § 12220][/us/pl/107/273/s12220], Nov. 2, 2002, [116 Stat. 1893][/us/stat/116/1893].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 299J, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12220, Nov. 2, 2002, [116 Stat. 1893][/us/stat/116/1893].)
 
  __References in Text__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/93/415/s299J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs299J
-[/us/pl/107/273/s12220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12220
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1893
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109

@@ -65,7 +65,7 @@
 
         New Federal assistance for technology applications systems shall terminate upon the appropriate determination by the Secretary, in the annual update of the comprehensive program management plan pursuant to [section 9203 of this title][/us/usc/t42/s9203]. Termination of the small wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1985, whichever occurs first. Termination of the large wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1988, whichever occurs first.
 
-([Pub. L. 96–345, § 6][/us/pl/96/345/s6], Sept. 8, 1980, [94 Stat. 1142][/us/stat/94/1142].)
+([Pub. L. 96–345][/us/pl/96/345], § 6, Sept. 8, 1980, [94 Stat. 1142][/us/stat/94/1142].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t42/s1962d–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9317
 [/us/usc/t42/s9203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9203
-[/us/pl/96/345/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs6
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1142
 [/us/usc/t42/s1962d–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9317
 [/us/usc/t42/s1962/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%2Fd

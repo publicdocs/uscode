@@ -57,7 +57,7 @@
 
         (2) procedures for technology transfer and information outreach during and after completion of the project.
 
-([Pub. L. 102–486, title XXI, § 2108][/us/pl/102/486/s2108], Oct. 24, 1992, [106 Stat. 3071][/us/stat/106/3071].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2108, Oct. 24, 1992, [106 Stat. 3071][/us/stat/106/3071].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2108
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3071
 
 

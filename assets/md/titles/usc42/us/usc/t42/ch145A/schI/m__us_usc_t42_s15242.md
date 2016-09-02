@@ -61,7 +61,7 @@
 
         A Federal agency head shall submit each nomination under subsection (a) to the Office not later than February 15 of the year following the date on which the nominee performed the act of bravery described in subsection (a).
 
-([Pub. L. 110–298, title I, § 102][/us/pl/110/298/s102], July 31, 2008, [122 Stat. 2986][/us/stat/122/2986].)
+([Pub. L. 110–298, title I][/us/pl/110/298/tI], § 102, July 31, 2008, [122 Stat. 2986][/us/stat/122/2986].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/110/298/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs102
+[/us/pl/110/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtI
 [/us/stat/122/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2986
 
 

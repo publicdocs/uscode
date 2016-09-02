@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part A relating to aid to families with dependent children and consisting of sections 601 to 618 of this title was repealed, except for section 618, by [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2112][/us/stat/110/2112].
+    A prior part A relating to aid to families with dependent children and consisting of sections 601 to 618 of this title was repealed, except for section 618, by [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 103(a)(1), Aug. 22, 1996, [110 Stat. 2112][/us/stat/110/2112].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2112
 
 

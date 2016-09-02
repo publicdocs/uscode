@@ -63,7 +63,7 @@
 
         against any agency of the United States under State or local law to enforce any requirement respecting the provision of safe drinking water or respecting any underground injection control program. Nothing in this section shall be construed to authorize judicial review of regulations or orders of the Administrator under this subchapter, except as provided in [section 300j–7 of this title][/us/usc/t42/s300j–7]. For provisions providing for application of certain requirements to such agencies in the same manner as to nongovernmental entities, see [section 300j–6 of this title][/us/usc/t42/s300j–6].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1449, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1690][/us/stat/88/1690]; amended [Pub. L. 95–190, § 8(c)][/us/pl/95/190/s8/c], Nov. 16, 1977, [91 Stat. 1397][/us/stat/91/1397]; [Pub. L. 104–182, title I, § 129(b)][/us/pl/104/182/s129/b], Aug. 6, 1996, [110 Stat. 1662][/us/stat/110/1662].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1449, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1690][/us/stat/88/1690]; amended [Pub. L. 95–190][/us/pl/95/190], § 8(c), Nov. 16, 1977, [91 Stat. 1397][/us/stat/91/1397]; [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 129(b), Aug. 6, 1996, [110 Stat. 1662][/us/stat/110/1662].)
 
  __References in Text__ 
 
@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(3). [Pub. L. 104–182, § 129(b)(1)][/us/pl/104/182/s129/b/1], added par. (3).
+    1996—Subsec. (a)(3). [Pub. L. 104–182][/us/pl/104/182], § 129(b)(1), added par. (3).
 
-    Subsec. (b)(3). [Pub. L. 104–182, § 129(b)(2)][/us/pl/104/182/s129/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 104–182][/us/pl/104/182], § 129(b)(2), added par. (3).
 
     1977—Subsec. (e). [Pub. L. 95–190][/us/pl/95/190] inserted provisions relating to suits by State or local governments for enforcement of safe drinking water, etc., requirements.
 
@@ -87,14 +87,14 @@
 [/us/usc/t42/s300j–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%937
 [/us/usc/t42/s300j–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%936
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1690
-[/us/pl/95/190/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs8%2Fc
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1397
-[/us/pl/104/182/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs129%2Fb
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1662
-[/us/pl/104/182/s129/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs129%2Fb%2F1
-[/us/pl/104/182/s129/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs129%2Fb%2F2
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

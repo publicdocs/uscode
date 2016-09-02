@@ -281,7 +281,7 @@
 
             (B) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
 
-([Pub. L. 93–383, title I, § 119][/us/pl/93/383/s119], as added [Pub. L. 95–128, title I, § 110(b)][/us/pl/95/128/s110/b], Oct. 12, 1977, [91 Stat. 1125][/us/stat/91/1125]; amended [Pub. L. 95–557, title I, § 103(g)][/us/pl/95/557/s103/g], (h), Oct. 31, 1978, [92 Stat. 2084][/us/stat/92/2084]; [Pub. L. 96–153, title I][/us/pl/96/153], §§ 104, 105, Dec. 21, 1979, [93 Stat. 1102][/us/stat/93/1102], 1104; [Pub. L. 96–399, title I][/us/pl/96/399], §§ 110(a), (b), 117(a), Oct. 8, 1980, [94 Stat. 1619][/us/stat/94/1619], 1623; [Pub. L. 97–35, title III, § 308(a)][/us/pl/97/35/s308/a], Aug. 13, 1981, [95 Stat. 392][/us/stat/95/392]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 121\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168]; [Pub. L. 98–454, title VI, § 601(c)][/us/pl/98/454/s601/c], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 98–479, title II, § 203][/us/pl/98/479/s203](l)(3), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 99–272, title XIV, § 14001(b)(6)][/us/pl/99/272/s14001/b/6], Apr. 7, 1986, [100 Stat. 329][/us/stat/100/329]; [Pub. L. 99–500, § 101(g)][/us/pl/99/500/s101/g], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], and [Pub. L. 99–591, § 101(g)][/us/pl/99/591/s101/g], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242]; [Pub. L. 100–202][/us/pl/100/202], §§ 101(f) \[title I, § 101\], 106, Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–193, 1329–433; [Pub. L. 100–242, title V][/us/pl/100/242], §§ 501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, [101 Stat. 1923][/us/stat/101/1923], 1930–1934; [Pub. L. 100–404, title I][/us/pl/100/404], Aug. 19, 1988, [102 Stat. 1020][/us/stat/102/1020]; [Pub. L. 100–628, title X, § 1084][/us/pl/100/628/s1084], Nov. 7, 1988, [102 Stat. 3277][/us/stat/102/3277]; [Pub. L. 103–233, title II, § 232(b)][/us/pl/103/233/s232/b], (c)(1), Apr. 11, 1994, [108 Stat. 367][/us/stat/108/367].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 119, as added [Pub. L. 95–128, title I][/us/pl/95/128/tI], § 110(b), Oct. 12, 1977, [91 Stat. 1125][/us/stat/91/1125]; amended [Pub. L. 95–557, title I][/us/pl/95/557/tI], § 103(g), (h), Oct. 31, 1978, [92 Stat. 2084][/us/stat/92/2084]; [Pub. L. 96–153, title I][/us/pl/96/153/tI], §§ 104, 105, Dec. 21, 1979, [93 Stat. 1102][/us/stat/93/1102], 1104; [Pub. L. 96–399, title I][/us/pl/96/399/tI], §§ 110(a), (b), 117(a), Oct. 8, 1980, [94 Stat. 1619][/us/stat/94/1619], 1623; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 308(a), Aug. 13, 1981, [95 Stat. 392][/us/stat/95/392]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 121\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168]; [Pub. L. 98–454, title VI][/us/pl/98/454/tVI], § 601(c), Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(l)(3), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(b)(6), Apr. 7, 1986, [100 Stat. 329][/us/stat/100/329]; [Pub. L. 99–500][/us/pl/99/500], § 101(g), Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], and [Pub. L. 99–591][/us/pl/99/591], § 101(g), Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242]; [Pub. L. 100–202][/us/pl/100/202], §§ 101(f) \[title I, § 101\], 106, Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–193, 1329–433; [Pub. L. 100–242, title V][/us/pl/100/242/tV], §§ 501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, [101 Stat. 1923][/us/stat/101/1923], 1930–1934; [Pub. L. 100–404, title I][/us/pl/100/404/tI], Aug. 19, 1988, [102 Stat. 1020][/us/stat/102/1020]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1084, Nov. 7, 1988, [102 Stat. 3277][/us/stat/102/3277]; [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 232(b), (c)(1), Apr. 11, 1994, [108 Stat. 367][/us/stat/108/367].)
 
  __References in Text__ 
 
@@ -289,7 +289,7 @@
 
     For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see [section 516(b) of Pub. L. 100–242][/us/pl/100/242/s516/b], set out as an Effective Date of 1988 Amendment note below.
 
-    Chapter 67 of title 31, referred to in subsec. (n)(2)(B), was repealed by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327].
+    Chapter 67 of title 31, referred to in subsec. (n)(2)(B), was repealed by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327].
 
  __Codification__ 
 
@@ -299,39 +299,39 @@
 
  __Amendments__ 
 
-    1994—Subsec. (o). [Pub. L. 103–233, § 232(b)][/us/pl/103/233/s232/b], inserted before period at end “, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under [section 5308(q) of this title][/us/usc/t42/s5308/q].”
+    1994—Subsec. (o). [Pub. L. 103–233][/us/pl/103/233], § 232(b), inserted before period at end “, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under [section 5308(q) of this title][/us/usc/t42/s5308/q].”
 
-    Subsec. (t). [Pub. L. 103–233, § 232(c)(1)][/us/pl/103/233/s232/c/1], added subsec. (t).
+    Subsec. (t). [Pub. L. 103–233][/us/pl/103/233], § 232(c)(1), added subsec. (t).
 
-    1988—Subsec. (a). [Pub. L. 100–242, § 501(c)][/us/pl/100/242/s501/c], substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under [section 5303 of this title][/us/usc/t42/s5303] for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
+    1988—Subsec. (a). [Pub. L. 100–242][/us/pl/100/242], § 501(c), substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under [section 5303 of this title][/us/usc/t42/s5303] for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
 
-    Subsec. (d)(1). [Pub. L. 100–242, § 515(a)][/us/pl/100/242/s515/a], inserted dash before “(A)”, indented subpars. (A) and (B), struck out “as the primary criterion,” in subpar. (A) and “and” at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: “at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available.”
+    Subsec. (d)(1). [Pub. L. 100–242][/us/pl/100/242], § 515(a), inserted dash before “(A)”, indented subpars. (A) and (B), struck out “as the primary criterion,” in subpar. (A) and “and” at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: “at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available.”
 
-    Subsec. (d)(3) to (5). [Pub. L. 100–242, § 515(b)][/us/pl/100/242/s515/b], added pars. (3) to (5).
+    Subsec. (d)(3) to (5). [Pub. L. 100–242][/us/pl/100/242], § 515(b), added pars. (3) to (5).
 
     Subsec. (d)(5)(C), (D). [Pub. L. 100–404][/us/pl/100/404] added subpars. (C) and (D).
 
-    Subsec. (d)(6). [Pub. L. 100–242, § 515(b)][/us/pl/100/242/s515/b], (g)(2), temporarily added par. (6), see Effective Date of 1988 Amendment note below.
+    Subsec. (d)(6). [Pub. L. 100–242][/us/pl/100/242], § 515(b), (g)(2), temporarily added par. (6), see Effective Date of 1988 Amendment note below.
 
-    Subsec. (f). [Pub. L. 100–628, § 1084(a)][/us/pl/100/628/s1084/a], substituted “5305” for “5304” after “activities under this section or section”.
+    Subsec. (f). [Pub. L. 100–628][/us/pl/100/628], § 1084(a), substituted “5305” for “5304” after “activities under this section or section”.
 
-    [Pub. L. 100–242, § 515(c)][/us/pl/100/242/s515/c], inserted at end “In any case in which the project proposes the repayment to the applicant of the grant funds, such funds shall be made available by the applicant for economic development activities that are eligible activities under this section or [section 5304 of this title][/us/usc/t42/s5304]. The applicant shall annually provide the Secretary with a statement of the projected receipt and use of repaid grant funds during the next year together with a report acceptable to the Secretary on the use of such funds during the most recent preceding full fiscal year of the applicant.”
+    [Pub. L. 100–242][/us/pl/100/242], § 515(c), inserted at end “In any case in which the project proposes the repayment to the applicant of the grant funds, such funds shall be made available by the applicant for economic development activities that are eligible activities under this section or [section 5304 of this title][/us/usc/t42/s5304]. The applicant shall annually provide the Secretary with a statement of the projected receipt and use of repaid grant funds during the next year together with a report acceptable to the Secretary on the use of such funds during the most recent preceding full fiscal year of the applicant.”
 
-    Subsec. (h)(1). [Pub. L. 100–242, § 516(a)(1)][/us/pl/100/242/s516/a/1], (2), designated existing provision as par. “(1) Speculative projects” and inserted at end “The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.”
+    Subsec. (h)(1). [Pub. L. 100–242][/us/pl/100/242], § 516(a)(1), (2), designated existing provision as par. “(1) Speculative projects” and inserted at end “The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.”
 
-    Subsec. (h)(2) to (7). [Pub. L. 100–242, § 516(a)(3)][/us/pl/100/242/s516/a/3], added pars. (2) to (7).
+    Subsec. (h)(2) to (7). [Pub. L. 100–242][/us/pl/100/242], § 516(a)(3), added pars. (2) to (7).
 
-    Subsec. (n)(1). [Pub. L. 100–628, § 1084(b)][/us/pl/100/628/s1084/b], directed that subsec. (n)(1) of this section as similarly amended first by provisions made effective by [section 101(g) of Pub. L. 99–500][/us/pl/99/500/s101/g] and [Pub. L. 99–591][/us/pl/99/591] \[see 1986 Amendment note below and Codification note above\] and later by [section 515(i) of Pub. L. 100–242][/us/pl/100/242/s515/i] \[see below\] is amended to read as if the amendment by [Pub. L. 100–242][/us/pl/100/242] had not been enacted.
+    Subsec. (n)(1). [Pub. L. 100–628][/us/pl/100/628], § 1084(b), directed that subsec. (n)(1) of this section as similarly amended first by provisions made effective by [section 101(g) of Pub. L. 99–500][/us/pl/99/500/s101/g] and [Pub. L. 99–591][/us/pl/99/591] \[see 1986 Amendment note below and Codification note above\] and later by [section 515(i) of Pub. L. 100–242][/us/pl/100/242/s515/i] \[see below\] is amended to read as if the amendment by [Pub. L. 100–242][/us/pl/100/242] had not been enacted.
 
-    [Pub. L. 100–242, § 515(i)][/us/pl/100/242/s515/i], made amendment identical to [Pub. L. 99–500][/us/pl/99/500] and 99–591. See 1986 Amendment note below.
+    [Pub. L. 100–242][/us/pl/100/242], § 515(i), made amendment identical to [Pub. L. 99–500][/us/pl/99/500] and 99–591. See 1986 Amendment note below.
 
-    Subsec. (r). [Pub. L. 100–242, § 515(d)][/us/pl/100/242/s515/d], amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: “In providing assistance under this section, the Secretary may not discriminate among programs on the basis of the particular type of activity involved, whether such activity is primarily a neighborhood, industrial, or commercial activity.”
+    Subsec. (r). [Pub. L. 100–242][/us/pl/100/242], § 515(d), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: “In providing assistance under this section, the Secretary may not discriminate among programs on the basis of the particular type of activity involved, whether such activity is primarily a neighborhood, industrial, or commercial activity.”
 
-    Subsec. (s). [Pub. L. 100–242, § 515(h)][/us/pl/100/242/s515/h], added subsec. (s).
+    Subsec. (s). [Pub. L. 100–242][/us/pl/100/242], § 515(h), added subsec. (s).
 
-    1987—Subsec. (n)(1). For amendment by [§ 106 of Pub. L. 100–202][/us/pl/100/202/s106], see 1986 Amendment note below.
+    1987—Subsec. (n)(1). For amendment by § 106 of [Pub. L. 100–202][/us/pl/100/202], see 1986 Amendment note below.
 
-    Subsec. (n)(2)(A). [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title I, § 101\], inserted “, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior,” after “reservation”.
+    Subsec. (n)(2)(A). [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title I, § 101\], inserted “, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior,” after “reservation”.
 
     1986—Subsec. (n)(1). [Pub. L. 99–500][/us/pl/99/500] and 99–591, § 101(g), as enacted by [Pub. L. 100–202][/us/pl/100/202], inserted at end “Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.” See Codification note above.
 
@@ -341,37 +341,37 @@
 
     Subsec. (n)(2). [Pub. L. 98–479][/us/pl/98/479] substituted “chapter 67 of title 31” for “the State and Local Fiscal Assistance Act of 1972”.
 
-    1983—Subsec. (a). [Pub. L. 98–181, § 121(a)][/us/pl/98/181/s121/a], inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
+    1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181], § 121(a), inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
 
-    Subsec. (b)(1). [Pub. L. 98–181, § 121(b)][/us/pl/98/181/s121/b], substituted “the extent of unemployment, job lag, or surplus labor” for “where data are available, the extent of unemployment and job lag”, and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
+    Subsec. (b)(1). [Pub. L. 98–181][/us/pl/98/181], § 121(b), substituted “the extent of unemployment, job lag, or surplus labor” for “where data are available, the extent of unemployment and job lag”, and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
 
-    Subsec. (b)(2)(A)(i), (B)(i). [Pub. L. 98–181, § 121(c)][/us/pl/98/181/s121/c], inserted “neighborhood statistics areas,” after “enumeration districts,”.
+    Subsec. (b)(2)(A)(i), (B)(i). [Pub. L. 98–181][/us/pl/98/181], § 121(c), inserted “neighborhood statistics areas,” after “enumeration districts,”.
 
-    Subsec. (c)(3)(C). [Pub. L. 98–181, § 121(d)][/us/pl/98/181/s121/d], added cl. (C).
+    Subsec. (c)(3)(C). [Pub. L. 98–181][/us/pl/98/181], § 121(d), added cl. (C).
 
-    Subsec. (d)(1). [Pub. L. 98–181, § 121(e)][/us/pl/98/181/s121/e], substituted “criteria for a national competition” for “criteria” in provisions preceding cl. (A).
+    Subsec. (d)(1). [Pub. L. 98–181][/us/pl/98/181], § 121(e), substituted “criteria for a national competition” for “criteria” in provisions preceding cl. (A).
 
-    Subsec. (i). [Pub. L. 98–181, § 121(f)][/us/pl/98/181/s121/f], inserted provisions relating to applications by consortia of cities less than 50,000 population.
+    Subsec. (i). [Pub. L. 98–181][/us/pl/98/181], § 121(f), inserted provisions relating to applications by consortia of cities less than 50,000 population.
 
-    Subsecs. (p) to (r). [Pub. L. 98–181, § 121(g)][/us/pl/98/181/s121/g], added subsecs. (p) to (r).
+    Subsecs. (p) to (r). [Pub. L. 98–181][/us/pl/98/181], § 121(g), added subsecs. (p) to (r).
 
     1981—[Pub. L. 97–35][/us/pl/97/35] substantially restructured and reorganized provisions, made changes in nomenclature and phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
 
-    1980—Subsec. (c)(7). [Pub. L. 96–399, § 110(a)(1)][/us/pl/96/399/s110/a/1]–(3), added par. (7).
+    1980—Subsec. (c)(7). [Pub. L. 96–399][/us/pl/96/399], § 110(a)(1)–(3), added par. (7).
 
-    Subsec. (n). [Pub. L. 96–399, § 110(b)][/us/pl/96/399/s110/b], added subsec. (n).
+    Subsec. (n). [Pub. L. 96–399][/us/pl/96/399], § 110(b), added subsec. (n).
 
-    Subsec. (o). [Pub. L. 96–399, § 117(a)][/us/pl/96/399/s117/a], added subsec. (o).
+    Subsec. (o). [Pub. L. 96–399][/us/pl/96/399], § 117(a), added subsec. (o).
 
-    1979—Subsec. (b). [Pub. L. 96–153, § 104][/us/pl/96/153/s104], designated existing provisions as par. (1) and added par. (2).
+    1979—Subsec. (b). [Pub. L. 96–153][/us/pl/96/153], § 104, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 96–153, § 104(b)][/us/pl/96/153/s104/b], designated existing provisions as par. (1) and substituted “(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, in establishing criteria” for “In establishing criteria” in opening sentence, redesignated existing cls. (1) to (3) as (A) to (C), and added pars. (2) and (3).
+    Subsec. (e). [Pub. L. 96–153][/us/pl/96/153], § 104(b), designated existing provisions as par. (1) and substituted “(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, in establishing criteria” for “In establishing criteria” in opening sentence, redesignated existing cls. (1) to (3) as (A) to (C), and added pars. (2) and (3).
 
-    Subsecs. (l), (m). [Pub. L. 96–153, § 105][/us/pl/96/153/s105], added subsecs. (l) and (m).
+    Subsecs. (l), (m). [Pub. L. 96–153][/us/pl/96/153], § 105, added subsecs. (l) and (m).
 
-    1978—Subsec. (c)(6). [Pub. L. 95–557, § 103(g)][/us/pl/95/557/s103/g], added par. (6).
+    1978—Subsec. (c)(6). [Pub. L. 95–557][/us/pl/95/557], § 103(g), added par. (6).
 
-    Subsec. (e). [Pub. L. 95–557, § 103(h)][/us/pl/95/557/s103/h], inserted “impact of the proposed urban development action program on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood, in which the program is to be located” after “objectives of this chapter”.
+    Subsec. (e). [Pub. L. 95–557][/us/pl/95/557], § 103(h), inserted “impact of the proposed urban development action program on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood, in which the program is to be located” after “objectives of this chapter”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -379,7 +379,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–242, title V, § 515(f)][/us/pl/100/242/s515/f], (g), Feb. 5, 1988, [101 Stat. 1934][/us/stat/101/1934], provided that:
+[Pub. L. 100–242, title V][/us/pl/100/242/tV], § 515(f), (g), Feb. 5, 1988, [101 Stat. 1934][/us/stat/101/1934], provided that:
 
 >     “(f)  __Regulations__  __.—__ 
 
@@ -395,19 +395,19 @@
 
 >         Effective October 1, 1989, section 119(d)(6) of the Housing and Community Development Act of 1974 \[subsec. (d)(6) of this section\] is repealed.”
 
-[Pub. L. 100–242, title V, § 516(b)][/us/pl/100/242/s516/b], Feb. 5, 1988, [101 Stat. 1936][/us/stat/101/1936], provided that: 
+[Pub. L. 100–242, title V][/us/pl/100/242/tV], § 516(b), Feb. 5, 1988, [101 Stat. 1936][/us/stat/101/1936], provided that: 
 
 > “Except as otherwise provided in section 119(h)(5) of the Housing and Community Development Act of 1974 \[subsec. (h)(5) of this section\] (as added by subsection (a)), the amendments made by this section \[amending this section\] shall be applicable to urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date of the enactment of this Act \[Feb. 5, 1988\].”
 
  __Effective Date of 1986 Amendments__ 
 
-    [Pub. L. 100–202, § 106][/us/pl/100/202/s106], Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433], provided that the amendment made by [Pub. L. 99–500][/us/pl/99/500] and 99–591 is effective on date of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[[Pub. L. 99–500][/us/pl/99/500] and 99–591\].
+    [Pub. L. 100–202][/us/pl/100/202], § 106, Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433], provided that the amendment made by [Pub. L. 99–500][/us/pl/99/500] and 99–591 is effective on date of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[[Pub. L. 99–500][/us/pl/99/500] and 99–591\].
 
     Amendment by [Pub. L. 99–272][/us/pl/99/272] effective Oct. 18, 1986, see [section 14001(e) of Pub. L. 99–272][/us/pl/99/272/s14001/e].
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 308(c)][/us/pl/97/35/s308/c], Aug. 13, 1981, [95 Stat. 396][/us/stat/95/396], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 308(c), Aug. 13, 1981, [95 Stat. 396][/us/stat/95/396], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 5320 of this title][/us/usc/t42/s5320]\] shall become effective on the effective date of regulations implementing such subsections. As soon as practicable, but not later than January 1, 1982, the Secretary shall issue such final rules and regulations as the Secretary determines are necessary to carry out such subsections.”
 
@@ -421,13 +421,13 @@
 
  __Implementation of Urban Development Action Grant Retention Program__ 
 
-[Pub. L. 103–233, title II, § 232(c)(2)][/us/pl/103/233/s232/c/2], Apr. 11, 1994, [108 Stat. 368][/us/stat/108/368], provided that: 
+[Pub. L. 103–233, title II][/us/pl/103/233/tII], § 232(c)(2), Apr. 11, 1994, [108 Stat. 368][/us/stat/108/368], provided that: 
 
 > “Not later than 10 days after the date of enactment of this Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
 
  __New Towns Demonstration Program for Emergency Relief of Los Angeles__ 
 
-[Pub. L. 102–550, title XI][/us/pl/102/550], Oct. 28, 1992, [106 Stat. 3927][/us/stat/106/3927], as amended by [Pub. L. 105–362, title VII, § 701(g)][/us/pl/105/362/s701/g], Nov. 10, 1998, [112 Stat. 3287][/us/stat/112/3287], provided that:
+[Pub. L. 102–550, title XI][/us/pl/102/550/tXI], Oct. 28, 1992, [106 Stat. 3927][/us/stat/106/3927], as amended by [Pub. L. 105–362, title VII][/us/pl/105/362/tVII], § 701(g), Nov. 10, 1998, [112 Stat. 3287][/us/stat/112/3287], provided that:
 
 > “SEC. 1101. __AUTHORITY.__ 
 
@@ -847,11 +847,11 @@
 
  __Reports of Comptroller General__ 
 
-    [Pub. L. 100–242, title V, § 515(e)][/us/pl/100/242/s515/e], Feb. 5, 1988, [101 Stat. 1933][/us/stat/101/1933], which required the Comptroller General of the United States to triennially prepare and submit to Congress a comprehensive report evaluating the eligibility standards and selection criteria applicable under this section, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, item 14 on page 9 of House Document No. 103–7.
+    [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 515(e), Feb. 5, 1988, [101 Stat. 1933][/us/stat/101/1933], which required the Comptroller General of the United States to triennially prepare and submit to Congress a comprehensive report evaluating the eligibility standards and selection criteria applicable under this section, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, item 14 on page 9 of House Document No. 103–7.
 
  __Neighborhood Development Demonstration__ 
 
-    [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 123\], Nov. 30, 1983, [97 Stat. 1172][/us/stat/97/1172], which provided for a demonstration program to determine the feasibility of supporting eligible neighborhood development activities by providing Federal matching funds to eligible neighborhood development organizations, was transferred to [section 5318a of this title][/us/usc/t42/s5318a].
+    [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 123\], Nov. 30, 1983, [97 Stat. 1172][/us/stat/97/1172], which provided for a demonstration program to determine the feasibility of supporting eligible neighborhood development activities by providing Federal matching funds to eligible neighborhood development organizations, was transferred to [section 5318a of this title][/us/usc/t42/s5318a].
 
 ----------
 
@@ -870,109 +870,109 @@
 [/us/usc/t42/s5308/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308%2Fq
 [/us/usc/t42/s5308/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308%2Fq
 [/us/usc/t42/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308
-[/us/pl/93/383/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs119
-[/us/pl/95/128/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs110%2Fb
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
+[/us/pl/95/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtI
 [/us/stat/91/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1125
-[/us/pl/95/557/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs103%2Fg
+[/us/pl/95/557/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtI
 [/us/stat/92/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2084
-[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtI
 [/us/stat/93/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1102
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtI
 [/us/stat/94/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1619
-[/us/pl/97/35/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs308%2Fa
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F392
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1168
-[/us/pl/98/454/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs601%2Fc
+[/us/pl/98/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVI
 [/us/stat/98/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1736
-[/us/pl/98/479/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2231
-[/us/pl/99/272/s14001/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fb%2F6
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F329
-[/us/pl/99/500/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fg
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fg
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1923
-[/us/pl/100/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404
+[/us/pl/100/404/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404%2FtI
 [/us/stat/102/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1020
-[/us/pl/100/628/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1084
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3277
-[/us/pl/103/233/s232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs232%2Fb
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F367
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
 [/us/pl/100/242/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs516%2Fb
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/500/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fg
 [/us/pl/100/202/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs106
-[/us/pl/103/233/s232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs232%2Fb
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/usc/t42/s5308/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308%2Fq
-[/us/pl/103/233/s232/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs232%2Fc%2F1
-[/us/pl/100/242/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs501%2Fc
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
-[/us/pl/100/242/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fa
-[/us/pl/100/242/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fb
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404
-[/us/pl/100/242/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fb
-[/us/pl/100/628/s1084/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1084%2Fa
-[/us/pl/100/242/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fc
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t42/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5304
-[/us/pl/100/242/s516/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs516%2Fa%2F1
-[/us/pl/100/242/s516/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs516%2Fa%2F3
-[/us/pl/100/628/s1084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1084%2Fb
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/99/500/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fg
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/100/242/s515/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fi
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/100/242/s515/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fi
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/100/242/s515/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fd
-[/us/pl/100/242/s515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fh
-[/us/pl/100/202/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs106
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/98/181/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs121%2Fa
-[/us/pl/98/181/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs121%2Fb
-[/us/pl/98/181/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs121%2Fc
-[/us/pl/98/181/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs121%2Fd
-[/us/pl/98/181/s121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs121%2Fe
-[/us/pl/98/181/s121/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs121%2Ff
-[/us/pl/98/181/s121/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs121%2Fg
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/96/399/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs110%2Fa%2F1
-[/us/pl/96/399/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs110%2Fb
-[/us/pl/96/399/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs117%2Fa
-[/us/pl/96/153/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs104
-[/us/pl/96/153/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs104%2Fb
-[/us/pl/96/153/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs105
-[/us/pl/95/557/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs103%2Fg
-[/us/pl/95/557/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs103%2Fh
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/103/233/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs209
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/100/242/s515/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Ff
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1934
-[/us/pl/100/242/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs516%2Fb
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1936
-[/us/pl/100/202/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs106
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-433
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272/s14001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fe
-[/us/pl/97/35/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs308%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F396
 [/us/usc/t42/s5320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5320
 [/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
@@ -980,11 +980,11 @@
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/pl/95/128/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs114
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/103/233/s232/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs232%2Fc%2F2
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F368
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXI
 [/us/stat/106/3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3927
-[/us/pl/105/362/s701/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs701%2Fg
+[/us/pl/105/362/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVII
 [/us/stat/112/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3287
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
@@ -998,11 +998,11 @@
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
 [/us/usc/t42/s290bb–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9323
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
-[/us/pl/100/242/s515/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs515%2Fe
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1933
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1172
 [/us/usc/t42/s5318a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318a
 

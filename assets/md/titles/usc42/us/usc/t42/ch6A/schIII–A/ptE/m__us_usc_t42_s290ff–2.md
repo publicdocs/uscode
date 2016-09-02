@@ -45,7 +45,7 @@
 
         (4) designate an individual to be responsible for providing the case management required in [section 290ff–1(e)(1) of this title][/us/usc/t42/s290ff–1/e/1] or certify that case management services will be provided to the child as part of the individualized education program of the child under the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 563, as added [Pub. L. 102–321, title I, § 119][/us/pl/102/321/s119], July 10, 1992, [106 Stat. 354][/us/stat/106/354]; amended [Pub. L. 108–446, title III, § 305(i)(5)][/us/pl/108/446/s305/i/5], Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 563, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 119, July 10, 1992, [106 Stat. 354][/us/stat/106/354]; amended [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(i)(5), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 [/us/usc/t42/s290ff–1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290ff%E2%80%931%2Fe%2F1
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs119
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F354
-[/us/pl/108/446/s305/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fi%2F5
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175

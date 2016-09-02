@@ -63,23 +63,23 @@
 
         Subject to recognized principles of international law, the Secretary of the department in which the Coast Guard is operating shall promulgate and enforce such regulations as he deems necessary to protect navigation in the vicinity of a vessel engaged in the installation, repair, or maintenance of any submarine electric transmission cable or equipment, and to govern the markings and signals used by such a vessel.
 
-([Pub. L. 96–320, title I, § 108][/us/pl/96/320/s108], Aug. 3, 1980, [94 Stat. 986][/us/stat/94/986]; [Pub. L. 98–623, title VI, § 602(a)(6)][/us/pl/98/623/s602/a/6], (7), (e)(1), (15), Nov. 8, 1984, [98 Stat. 3410–3412][/us/stat/98/3410-3412].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 108, Aug. 3, 1980, [94 Stat. 986][/us/stat/94/986]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(6), (7), (e)(1), (15), Nov. 8, 1984, [98 Stat. 3410–3412][/us/stat/98/3410-3412].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning [Pub. L. 96–320][/us/pl/96/320], Aug. 3, 1980, [94 Stat. 974][/us/stat/94/974], known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9101 of this title][/us/usc/t42/s9101] and Tables.
 
-    The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of [act June 5, 1920, ch. 250][/us/act/1920-06-05/ch250], [41 Stat. 1000][/us/stat/41/1000], which was classified generally to chapter 25 (§ 911 et seq.) of former Title 46, Shipping, and was repealed by [Pub. L. 100–710, title I, § 106(b)(2)][/us/pl/100/710/s106/b/2], Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, “vessel of the United States”, was subsequently repealed by [Pub. L. 109–304, § 6(b)][/us/pl/109/304/s6/b], Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509]. For a definition of “vessel of the United States” as that term applies to Title 46, see [section 116 of Title 46][/us/usc/t46/s116].
+    The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of [act June 5, 1920, ch. 250][/us/act/1920-06-05/ch250], [41 Stat. 1000][/us/stat/41/1000], which was classified generally to chapter 25 (§ 911 et seq.) of former Title 46, Shipping, and was repealed by [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 106(b)(2), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, “vessel of the United States”, was subsequently repealed by [Pub. L. 109–304][/us/pl/109/304], § 6(b), Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509]. For a definition of “vessel of the United States” as that term applies to Title 46, see [section 116 of Title 46][/us/usc/t46/s116].
 
  __Amendments__ 
 
-    1984—Subsec. (d)(1). [Pub. L. 98–623, § 602(e)(1)][/us/pl/98/623/s602/e/1], substituted “navigational safety” for “reorganizational safety”.
+    1984—Subsec. (d)(1). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(1), substituted “navigational safety” for “reorganizational safety”.
 
-    Subsec. (d)(3). [Pub. L. 98–623, § 602(e)(15)][/us/pl/98/623/s602/e/15], added par. (3) by inserting text of former subsec. (b)(3) of [section 9119 of this title][/us/usc/t42/s9119].
+    Subsec. (d)(3). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(15), added par. (3) by inserting text of former subsec. (b)(3) of [section 9119 of this title][/us/usc/t42/s9119].
 
-    Subsec. (e)(2)(C)(ii). [Pub. L. 98–623, § 602(a)(6)][/us/pl/98/623/s602/a/6], substituted “moored, fixed or standing” for “moored or standing”.
+    Subsec. (e)(2)(C)(ii). [Pub. L. 98–623][/us/pl/98/623], § 602(a)(6), substituted “moored, fixed or standing” for “moored or standing”.
 
-    Subsec. (e)(4). [Pub. L. 98–623, § 602(a)(7)][/us/pl/98/623/s602/a/7], added par. (4).
+    Subsec. (e)(4). [Pub. L. 98–623][/us/pl/98/623], § 602(a)(7), added par. (4).
 
  __Transfer of Functions__ 
 
@@ -94,25 +94,25 @@
 
 [/us/usc/t42/s9112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9112%2Fd
 [/us/usc/t46/s911–984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs911%E2%80%93984
-[/us/pl/96/320/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs108
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F986
-[/us/pl/98/623/s602/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F6
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3410-3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3410-3412
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
 [/us/usc/t42/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9101
 [/us/act/1920-06-05/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch250
 [/us/stat/41/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1000
-[/us/pl/100/710/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs106%2Fb%2F2
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4752
-[/us/pl/109/304/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
 [/us/usc/t46/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs116
-[/us/pl/98/623/s602/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F1
-[/us/pl/98/623/s602/e/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F15
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/usc/t42/s9119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9119
-[/us/pl/98/623/s602/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F6
-[/us/pl/98/623/s602/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F7
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

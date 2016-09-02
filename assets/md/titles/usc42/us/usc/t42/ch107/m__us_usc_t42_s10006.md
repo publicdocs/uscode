@@ -33,13 +33,13 @@
 
         Absent compliance by the States with the provisions of this chapter within three years after August 13, 1981, the Secretary shall report to the Congress recommendations for legislative changes considered necessary to assure the States’ compliance with this chapter.
 
-    (d) __Repealed.__  __[__  __Pub. L. 104–66, title I, § 1061(b)__  __][/us/pl/104/66/s1061/b]__  __,__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 719__  __][/us/stat/109/719]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 104–66, title I__  __][/us/pl/104/66/tI]__  __, § 1061(b),__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 719__  __][/us/stat/109/719]__ 
 
     (e) __Existing standards and guidelines__ 
 
         Notwithstanding any other provision of this section, in the case of a State which has, prior to the effective date of standards and guidelines promulgated pursuant to this chapter, established standards for the accreditation of educational programs and certification of radiologic technologists, such State shall be deemed to be in compliance with the conditions of this section unless the Secretary determines, after notice and hearing, that such State standards do not meet the minimum standards prescribed by the Secretary or are inconsistent with the purposes of this chapter.
 
-([Pub. L. 97–35, title IX, § 981][/us/pl/97/35/s981], Aug. 13, 1981, [95 Stat. 600][/us/stat/95/600]; [Pub. L. 104–66, title I, § 1061(b)][/us/pl/104/66/s1061/b], Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 981, Aug. 13, 1981, [95 Stat. 600][/us/stat/95/600]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1061(b), Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719].)
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/104/66/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1061%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F719
-[/us/pl/97/35/s981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs981
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F600
-[/us/pl/104/66/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1061%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F719
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 

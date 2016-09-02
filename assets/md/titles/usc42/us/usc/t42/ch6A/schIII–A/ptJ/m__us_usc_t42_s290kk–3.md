@@ -27,7 +27,7 @@
 
         In determining whether personnel of a program participant that has a record of successful drug treatment for the preceding three years have satisfied State or local requirements for education and training, a State or local government shall not discriminate against education and training provided to such personnel by a religious organization, so long as such education and training includes basic content substantially equivalent to the content provided by nonreligious organizations that the State or local government would credit for purposes of determining whether the relevant requirements have been satisfied.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 584, as added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 144\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–622.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 584, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 144\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–622.)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

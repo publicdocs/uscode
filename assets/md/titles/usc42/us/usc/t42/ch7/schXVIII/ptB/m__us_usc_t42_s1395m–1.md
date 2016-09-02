@@ -305,7 +305,7 @@
 
         During the period beginning on April 1, 2014, and ending on December 31, 2016, with respect to advanced diagnostic laboratory tests under this part, the Secretary shall use the methodologies for pricing, coding, and coverage in effect on the day before April 1, 2014, which may include cross-walking or gapfilling methods.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1834A, as added [Pub. L. 113–93, title II, § 216(a)][/us/pl/113/93/s216/a], Apr. 1, 2014, [128 Stat. 1053][/us/stat/128/1053].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1834A, as added [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 216(a), Apr. 1, 2014, [128 Stat. 1053][/us/stat/128/1053].)
 
  __References in Text__ 
 
@@ -313,7 +313,7 @@
 
  __Monitoring of Medicare Expenditures and Implementation of New Payment System for Laboratory Tests__ 
 
-[Pub. L. 113–93, title II, § 216(c)(2)][/us/pl/113/93/s216/c/2], Apr. 1, 2014, [128 Stat. 1061][/us/stat/128/1061], provided that: 
+[Pub. L. 113–93, title II][/us/pl/113/93/tII], § 216(c)(2), Apr. 1, 2014, [128 Stat. 1061][/us/stat/128/1061], provided that: 
 
 > “The Inspector General of the Department of Health and Human Services shall—
 
@@ -340,11 +340,11 @@
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/113/93/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs216%2Fa
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1053
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/113/93/s216/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs216%2Fc%2F2
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1061
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395m–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%E2%80%931

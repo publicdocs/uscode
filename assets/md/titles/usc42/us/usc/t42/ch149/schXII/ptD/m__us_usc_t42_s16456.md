@@ -27,7 +27,7 @@
 
     (5) any officer, agent, or employee of any entity referred to in paragraph (1), (2), (3), or (4) acting as such in the course of his or her official duty.
 
-([Pub. L. 109–58, title XII, § 1268][/us/pl/109/58/s1268], Aug. 8, 2005, [119 Stat. 976][/us/stat/119/976].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1268, Aug. 8, 2005, [119 Stat. 976][/us/stat/119/976].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1268
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F976
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972

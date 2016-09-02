@@ -63,25 +63,25 @@
 
         If a Corps member who successfully completes a period of agreed service in the Corps is ineligible for the national service educational award described in division D of this subchapter, the Director may provide for the provision of a suitable alternative benefit for the Corps member.
 
-([Pub. L. 101–610, title I, § 158][/us/pl/101/610/s158], formerly § 195G, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2526][/us/stat/106/2526]; renumbered § 158 and amended [Pub. L. 103–82, title I, § 104(b)][/us/pl/103/82/s104/b], (g), title IV, § 403(b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 920; [Pub. L. 111–13, title I, § 1508][/us/pl/111/13/s1508], Apr. 21, 2009, [123 Stat. 1525][/us/stat/123/1525].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 158, formerly § 195G, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2526][/us/stat/106/2526]; renumbered § 158 and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(b), (g), title IV, § 403(b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 920; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1508, Apr. 21, 2009, [123 Stat. 1525][/us/stat/123/1525].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 12653g of this title][/us/usc/t42/s12653g] prior to renumbering by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b].
+    Section was formerly classified to [section 12653g of this title][/us/usc/t42/s12653g] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 104(b).
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1508(1)][/us/pl/111/13/s1508/1], inserted “National” before “Civilian Community Corps”.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1508(1), inserted “National” before “Civilian Community Corps”.
 
-    Subsec. (c). [Pub. L. 111–13, § 1508(2)(A)][/us/pl/111/13/s1508/2/A], in introductory provisions, inserted “National” before “Civilian Community Corps” and “, as the Director determines appropriate” before colon.
+    Subsec. (c). [Pub. L. 111–13][/us/pl/111/13], § 1508(2)(A), in introductory provisions, inserted “National” before “Civilian Community Corps” and “, as the Director determines appropriate” before colon.
 
-    Subsec. (c)(6). [Pub. L. 111–13, § 1508(2)(B)][/us/pl/111/13/s1508/2/B], substituted “Uniforms” for “Clothing”.
+    Subsec. (c)(6). [Pub. L. 111–13][/us/pl/111/13], § 1508(2)(B), substituted “Uniforms” for “Clothing”.
 
-    Subsec. (c)(7). [Pub. L. 111–13, § 1508(2)(C)][/us/pl/111/13/s1508/2/C], substituted “Supplies” for “Recreational services and supplies”.
+    Subsec. (c)(7). [Pub. L. 111–13][/us/pl/111/13], § 1508(2)(C), substituted “Supplies” for “Recreational services and supplies”.
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 403(b)][/us/pl/103/82/s403/b], substituted “Director” for “Director of the Civilian Community Corps”.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 403(b), substituted “Director” for “Director of the Civilian Community Corps”.
 
-    Subsecs. (f) to (h). [Pub. L. 103–82, § 104(g)][/us/pl/103/82/s104/g], added subsecs. (f) and (g) and struck out former subsecs. (f) to (h) which related to monetary educational assistance, cash benefit election for Corps members, and other post-service benefits, respectively.
+    Subsecs. (f) to (h). [Pub. L. 103–82][/us/pl/103/82], § 104(g), added subsecs. (f) and (g) and struck out former subsecs. (f) to (h) which related to monetary educational assistance, cash benefit election for Corps members, and other post-service benefits, respectively.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -100,21 +100,21 @@
 
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s12602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12602
-[/us/pl/101/610/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs158
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2526
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
-[/us/pl/111/13/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1508
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1525
 [/us/usc/t42/s12653g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653g
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
-[/us/pl/111/13/s1508/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1508%2F1
-[/us/pl/111/13/s1508/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1508%2F2%2FA
-[/us/pl/111/13/s1508/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1508%2F2%2FB
-[/us/pl/111/13/s1508/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1508%2F2%2FC
-[/us/pl/103/82/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fb
-[/us/pl/103/82/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fg
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

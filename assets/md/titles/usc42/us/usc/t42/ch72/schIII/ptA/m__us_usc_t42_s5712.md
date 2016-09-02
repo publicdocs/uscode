@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a...5712c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
 
 ## § 5712. Eligibility; plan requirements
 
@@ -125,7 +125,7 @@
 
         (2) an assurance that in providing such services the applicant shall conduct outreach activities for runaway and homeless youth.
 
-([Pub. L. 93–415, title III, § 312][/us/pl/93/415/s312], Sept. 7, 1974, [88 Stat. 1130][/us/stat/88/1130]; [Pub. L. 95–115, § 7(a)(2)][/us/pl/95/115/s7/a/2], (3), Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058]; [Pub. L. 96–509, § 18(d)][/us/pl/96/509/s18/d], Dec. 8, 1980, [94 Stat. 2762][/us/stat/94/2762]; [Pub. L. 98–473, title II, § 652][/us/pl/98/473/s652], Oct. 12, 1984, [98 Stat. 2123][/us/stat/98/2123]; [Pub. L. 100–690, title VII, § 7271(c)(1)][/us/pl/100/690/s7271/c/1]–(3), Nov. 18, 1988, [102 Stat. 4453][/us/stat/102/4453]; [Pub. L. 102–586, § 3(c)][/us/pl/102/586/s3/c], Nov. 4, 1992, [106 Stat. 5019][/us/stat/106/5019]; [Pub. L. 106–71, § 3(c)][/us/pl/106/71/s3/c], Oct. 12, 1999, [113 Stat. 1036][/us/stat/113/1036]; [Pub. L. 108–96, title I][/us/pl/108/96], §§ 105, 106, 109, Oct. 10, 2003, [117 Stat. 1168][/us/stat/117/1168], 1169; [Pub. L. 110–378, § 3(b)][/us/pl/110/378/s3/b], Oct. 8, 2008, [122 Stat. 4069][/us/stat/122/4069].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 312, Sept. 7, 1974, [88 Stat. 1130][/us/stat/88/1130]; [Pub. L. 95–115][/us/pl/95/115], § 7(a)(2), (3), Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058]; [Pub. L. 96–509][/us/pl/96/509], § 18(d), Dec. 8, 1980, [94 Stat. 2762][/us/stat/94/2762]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 652, Oct. 12, 1984, [98 Stat. 2123][/us/stat/98/2123]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7271(c)(1)–(3), Nov. 18, 1988, [102 Stat. 4453][/us/stat/102/4453]; [Pub. L. 102–586][/us/pl/102/586], § 3(c), Nov. 4, 1992, [106 Stat. 5019][/us/stat/106/5019]; [Pub. L. 106–71][/us/pl/106/71], § 3(c), Oct. 12, 1999, [113 Stat. 1036][/us/stat/113/1036]; [Pub. L. 108–96, title I][/us/pl/108/96/tI], §§ 105, 106, 109, Oct. 10, 2003, [117 Stat. 1168][/us/stat/117/1168], 1169; [Pub. L. 110–378][/us/pl/110/378], § 3(b), Oct. 8, 2008, [122 Stat. 4069][/us/stat/122/4069].)
 
  __References in Text__ 
 
@@ -135,63 +135,63 @@
 
     2008—Subsec. (b)(13). [Pub. L. 110–378][/us/pl/110/378] added par. (13).
 
-    2003—Subsec. (a). [Pub. L. 108–96, § 105][/us/pl/108/96/s105], substituted “services to youth” for “services to juveniles” and “homeless youth” for “homeless juveniles”.
+    2003—Subsec. (a). [Pub. L. 108–96][/us/pl/108/96], § 105, substituted “services to youth” for “services to juveniles” and “homeless youth” for “homeless juveniles”.
 
-    Subsec. (b)(2)(A). [Pub. L. 108–96, § 106][/us/pl/108/96/s106], inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
+    Subsec. (b)(2)(A). [Pub. L. 108–96][/us/pl/108/96], § 106, inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
 
-    Subsec. (b)(4)(B). [Pub. L. 108–96, § 109][/us/pl/108/96/s109], substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11432(g)(1)(J)(ii)][/us/usc/t42/s11432/g/1/J/ii]), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
+    Subsec. (b)(4)(B). [Pub. L. 108–96][/us/pl/108/96], § 109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11432(g)(1)(J)(ii)][/us/usc/t42/s11432/g/1/J/ii]), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
 
-    1999—Subsec. (b)(8). [Pub. L. 106–71, § 3(c)(1)(A)][/us/pl/106/71/s3/c/1/A], substituted “paragraph (7)” for “paragraph (6)”.
+    1999—Subsec. (b)(8). [Pub. L. 106–71][/us/pl/106/71], § 3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
 
-    Subsec. (b)(12). [Pub. L. 106–71, § 3(c)(1)(B)][/us/pl/106/71/s3/c/1/B]–(D), added par. (12).
+    Subsec. (b)(12). [Pub. L. 106–71][/us/pl/106/71], § 3(c)(1)(B)–(D), added par. (12).
 
-    Subsecs. (c) to (e). [Pub. L. 106–71, § 3(c)(2)][/us/pl/106/71/s3/c/2], added heading and text of subsecs. (c) to (e) and struck out former subsecs. (c) and (d) which related to street-based service projects and home-based service projects, respectively, but which specified more detailed lists of services applicants were to provide in order to qualify for assistance.
+    Subsecs. (c) to (e). [Pub. L. 106–71][/us/pl/106/71], § 3(c)(2), added heading and text of subsecs. (c) to (e) and struck out former subsecs. (c) and (d) which related to street-based service projects and home-based service projects, respectively, but which specified more detailed lists of services applicants were to provide in order to qualify for assistance.
 
-    1992—Subsec. (a). [Pub. L. 102–586, § 3(c)(1)][/us/pl/102/586/s3/c/1], substituted “project (including a host family home) that provides” for “facility providing”.
+    1992—Subsec. (a). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(1), substituted “project (including a host family home) that provides” for “facility providing”.
 
-    Subsec. (b)(2). [Pub. L. 102–586, § 3(c)(2)(A)][/us/pl/102/586/s3/c/2/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have a maximum capacity of no more than twenty children, with a ratio of staff to children of sufficient proportion to assure adequate supervision and treatment;”.
+    Subsec. (b)(2). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have a maximum capacity of no more than twenty children, with a ratio of staff to children of sufficient proportion to assure adequate supervision and treatment;”.
 
-    Subsec. (b)(3). [Pub. L. 102–586, § 3(c)(2)(B)][/us/pl/102/586/s3/c/2/B], substituted “parents or other relatives of the youth and ensuring” for “child’s parents or relatives and assuring” and “youth” for “child” after “the” in two places.
+    Subsec. (b)(3). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(2)(B), substituted “parents or other relatives of the youth and ensuring” for “child’s parents or relatives and assuring” and “youth” for “child” after “the” in two places.
 
-    Subsec. (b)(4). [Pub. L. 102–586, § 3(c)(2)(C)][/us/pl/102/586/s3/c/2/C], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;”.
+    Subsec. (b)(4). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;”.
 
-    Subsec. (b)(5). [Pub. L. 102–586, § 3(c)(2)(D)][/us/pl/102/586/s3/c/2/D], substituted “providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring” for “aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring” and “youth” for “children” after “those”.
+    Subsec. (b)(5). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(2)(D), substituted “providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring” for “aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring” and “youth” for “children” after “those”.
 
-    Subsec. (b)(6). [Pub. L. 102–586, § 3(c)(2)(G)][/us/pl/102/586/s3/c/2/G], added par. (6). Former par. (6) redesignated (7).
+    Subsec. (b)(6). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(2)(G), added par. (6). Former par. (6) redesignated (7).
 
-    Subsec. (b)(7). [Pub. L. 102–586, § 2(c)(2)(E)][/us/pl/102/586/s2/c/2/E], (F), redesignated par. (6) as (7) and substituted “youth and family members whom it serves (including youth who are not referred to out-of-home shelter services)” for “children and family members which it serves”.
+    Subsec. (b)(7). [Pub. L. 102–586][/us/pl/102/586], § 2(c)(2)(E), (F), redesignated par. (6) as (7) and substituted “youth and family members whom it serves (including youth who are not referred to out-of-home shelter services)” for “children and family members which it serves”.
 
-    Subsec. (b)(8) to (11). [Pub. L. 102–586, § 3(c)(2)(F)][/us/pl/102/586/s3/c/2/F], redesignated pars. (7) to (10) as (8) to (11), respectively.
+    Subsec. (b)(8) to (11). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(2)(F), redesignated pars. (7) to (10) as (8) to (11), respectively.
 
-    Subsecs. (c), (d). [Pub. L. 102–586, § 3(c)(2)(H)][/us/pl/102/586/s3/c/2/H], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 102–586][/us/pl/102/586], § 3(c)(2)(H), added subsecs. (c) and (d).
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 7271(c)(1)][/us/pl/100/690/s7271/c/1], (2), substituted “[section 5711(a) of this title][/us/usc/t42/s5711/a]” for “this part” and “runaway and homeless youth center” for “runaway center”.
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(1), (2), substituted “[section 5711(a) of this title][/us/usc/t42/s5711/a]” for “this part” and “runaway and homeless youth center” for “runaway center”.
 
-    Subsec. (b). [Pub. L. 100–690, § 7271(c)(1)][/us/pl/100/690/s7271/c/1], (3)(A), substituted “[section 5711(a) of this title][/us/usc/t42/s5711/a]” for “this part” and “including assurances that the applicant” for “meeting the following requirements and including the following information. Each center” in introductory provisions.
+    Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(1), (3)(A), substituted “[section 5711(a) of this title][/us/usc/t42/s5711/a]” for “this part” and “including assurances that the applicant” for “meeting the following requirements and including the following information. Each center” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 100–690, § 7271(c)(3)(B)][/us/pl/100/690/s7271/c/3/B], substituted “shall operate a runaway and homeless youth center” for “shall be” and “runaway and homeless youth” for “runaway youth”.
+    Subsec. (b)(1). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(3)(B), substituted “shall operate a runaway and homeless youth center” for “shall be” and “runaway and homeless youth” for “runaway youth”.
 
-    Subsec. (b)(3). [Pub. L. 100–690, § 7271(c)(3)(C)][/us/pl/100/690/s7271/c/3/C], substituted “runaway and homeless youth center” for “runaway center”.
+    Subsec. (b)(3). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(3)(C), substituted “runaway and homeless youth center” for “runaway center”.
 
-    Subsec. (b)(4). [Pub. L. 100–690, § 7271(c)(3)(D)][/us/pl/100/690/s7271/c/3/D], substituted “runaway and homeless youth” for “runaway youths”.
+    Subsec. (b)(4). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(3)(D), substituted “runaway and homeless youth” for “runaway youths”.
 
-    Subsec. (b)(5). [Pub. L. 100–690, § 7271(c)(3)(C)][/us/pl/100/690/s7271/c/3/C], (E), substituted “runaway and homeless youth” for “runaway youth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
+    Subsec. (b)(5). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(3)(C), (E), substituted “runaway and homeless youth” for “runaway youth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
 
-    Subsec. (b)(6). [Pub. L. 100–690, § 7271(c)(3)(D)][/us/pl/100/690/s7271/c/3/D], (E), substituted “individual runaway and homeless youth” for “individual runaway youths” in two places and “against an individual runaway and homeless youth” for “against an individual runaway youth”.
+    Subsec. (b)(6). [Pub. L. 100–690][/us/pl/100/690], § 7271(c)(3)(D), (E), substituted “individual runaway and homeless youth” for “individual runaway youths” in two places and “against an individual runaway and homeless youth” for “against an individual runaway youth”.
 
-    1984—Subsec. (b)(2). [Pub. L. 98–473, § 652(1)][/us/pl/98/473/s652/1], substituted “proportion” for “portion”.
+    1984—Subsec. (b)(2). [Pub. L. 98–473][/us/pl/98/473], § 652(1), substituted “proportion” for “portion”.
 
-    Subsec. (b)(3). [Pub. L. 98–473, § 652(2)][/us/pl/98/473/s652/2], struck out “(if such action is required by State law)” before “and assuring”.
+    Subsec. (b)(3). [Pub. L. 98–473][/us/pl/98/473], § 652(2), struck out “(if such action is required by State law)” before “and assuring”.
 
-    Subsec. (b)(4). [Pub. L. 98–473, § 652(3)][/us/pl/98/473/s652/3], inserted “school system personnel”.
+    Subsec. (b)(4). [Pub. L. 98–473][/us/pl/98/473], § 652(3), inserted “school system personnel”.
 
-    Subsec. (b)(5). [Pub. L. 98–473, § 652(4)][/us/pl/98/473/s652/4], substituted “families” for “parents”.
+    Subsec. (b)(5). [Pub. L. 98–473][/us/pl/98/473], § 652(4), substituted “families” for “parents”.
 
-    Subsec. (b)(6). [Pub. L. 98–473, § 652(5)][/us/pl/98/473/s652/5], substituted “family members” for “parents”.
+    Subsec. (b)(6). [Pub. L. 98–473][/us/pl/98/473], § 652(5), substituted “family members” for “parents”.
 
-    1980—Subsec. (a). [Pub. L. 96–509, § 18(d)(1)][/us/pl/96/509/s18/d/1], substituted “center” for “house” and inserted “or to other homeless juveniles” after “parents or guardians”.
+    1980—Subsec. (a). [Pub. L. 96–509][/us/pl/96/509], § 18(d)(1), substituted “center” for “house” and inserted “or to other homeless juveniles” after “parents or guardians”.
 
-    Subsec. (b). [Pub. L. 96–509, § 18(d)(2)][/us/pl/96/509/s18/d/2], substituted “center” for “house” wherever appearing, and in par. (4) inserted reference to social service personnel and welfare personnel.
+    Subsec. (b). [Pub. L. 96–509][/us/pl/96/509], § 18(d)(2), substituted “center” for “house” wherever appearing, and in par. (4) inserted reference to social service personnel and welfare personnel.
 
     1977—Subsec. (b)(5), (6). [Pub. L. 95–115][/us/pl/95/115] substituted “aftercare services” for “aftercase services” in par. (5), and “the consent of the individual youth and parent or legal guardian” for “parental consent” in par. (6).
 
@@ -207,17 +207,9 @@
 
     Amendment by [Pub. L. 95–115][/us/pl/95/115] effective Oct. 1, 1977, see [section 263(c) of Pub. L. 93–415][/us/pl/93/415/s263/c], as added by [Pub. L. 95–115][/us/pl/95/115], set out as a note under [section 5601 of this title][/us/usc/t42/s5601].
 
-§§ 5712a to 5712c. __Repealed.__  __[__  __Pub. L. 102–586, § 3(g)(2)(A)__  __][/us/pl/102/586/s3/g/2/A]__  __–(C),__  __Nov. 4, 1992__  __,__  __[__  __106 Stat. 5025__  __][/us/stat/106/5025]__ 
-
-    Section 5712a, [Pub. L. 93–415, title III, § 313][/us/pl/93/415/s313], as added [Pub. L. 100–690, title VII, § 7275(b)][/us/pl/100/690/s7275/b], Nov. 18, 1988, [102 Stat. 4457][/us/stat/102/4457], related to grants for a national communication system to assist runaway and homeless youth. See [section 5714–11 of this title][/us/usc/t42/s5714–11].
-
-    Section 5712b, [Pub. L. 93–415, title III, § 314][/us/pl/93/415/s314], as added [Pub. L. 100–690, title VII, § 7276][/us/pl/100/690/s7276], Nov. 18, 1988, [102 Stat. 4457][/us/stat/102/4457], related to grants for technical assistance and training to public and private entities for establishment and operation of runaway and homeless youth centers.
-
-    Section 5712c, [Pub. L. 93–415, title III, § 315][/us/pl/93/415/s315], as added [Pub. L. 100–690, title VII, § 7277][/us/pl/100/690/s7277], Nov. 18, 1988, [102 Stat. 4457][/us/stat/102/4457], related to authority of the Secretary to make grants for research, demonstration, and service projects.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a...5712c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
 
 ----------
 ----------
@@ -230,60 +222,60 @@
 [/us/usc/t42/s5711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5711%2Fa
 [/us/usc/t42/s5711/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5711%2Fa%2F2%2FC%2Fii
 [/us/usc/t42/s5711/a/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5711%2Fa%2F2%2FC%2Fiii
-[/us/pl/93/415/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs312
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
 [/us/stat/88/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1130
-[/us/pl/95/115/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs7%2Fa%2F2
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1058
-[/us/pl/96/509/s18/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs18%2Fd
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2762
-[/us/pl/98/473/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs652
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2123
-[/us/pl/100/690/s7271/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4453
-[/us/pl/102/586/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5019
-[/us/pl/106/71/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fc
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1036
-[/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
+[/us/pl/108/96/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtI
 [/us/stat/117/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1168
-[/us/pl/110/378/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs3%2Fb
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
 [/us/stat/122/4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4069
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
-[/us/pl/108/96/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs105
-[/us/pl/108/96/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs106
-[/us/pl/108/96/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs109
+[/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
+[/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
+[/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
 [/us/usc/t42/s11432/g/1/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11432%2Fg%2F1%2FJ%2Fii
-[/us/pl/106/71/s3/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fc%2F1%2FA
-[/us/pl/106/71/s3/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fc%2F1%2FB
-[/us/pl/106/71/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fc%2F2
-[/us/pl/102/586/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F1
-[/us/pl/102/586/s3/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F2%2FA
-[/us/pl/102/586/s3/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F2%2FB
-[/us/pl/102/586/s3/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F2%2FC
-[/us/pl/102/586/s3/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F2%2FD
-[/us/pl/102/586/s3/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F2%2FG
-[/us/pl/102/586/s2/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fc%2F2%2FE
-[/us/pl/102/586/s3/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F2%2FF
-[/us/pl/102/586/s3/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fc%2F2%2FH
-[/us/pl/100/690/s7271/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F1
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s5711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5711%2Fa
-[/us/pl/100/690/s7271/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s5711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5711%2Fa
-[/us/pl/100/690/s7271/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F3%2FB
-[/us/pl/100/690/s7271/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F3%2FC
-[/us/pl/100/690/s7271/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F3%2FD
-[/us/pl/100/690/s7271/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F3%2FC
-[/us/pl/100/690/s7271/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7271%2Fc%2F3%2FD
-[/us/pl/98/473/s652/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs652%2F1
-[/us/pl/98/473/s652/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs652%2F2
-[/us/pl/98/473/s652/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs652%2F3
-[/us/pl/98/473/s652/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs652%2F4
-[/us/pl/98/473/s652/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs652%2F5
-[/us/pl/96/509/s18/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs18%2Fd%2F1
-[/us/pl/96/509/s18/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs18%2Fd%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
@@ -295,17 +287,5 @@
 [/us/pl/93/415/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs263%2Fc
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/102/586/s3/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fg%2F2%2FA
-[/us/stat/106/5025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5025
-[/us/pl/93/415/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs313
-[/us/pl/100/690/s7275/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7275%2Fb
-[/us/stat/102/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4457
-[/us/usc/t42/s5714–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5714%E2%80%9311
-[/us/pl/93/415/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs314
-[/us/pl/100/690/s7276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7276
-[/us/stat/102/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4457
-[/us/pl/93/415/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs315
-[/us/pl/100/690/s7277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7277
-[/us/stat/102/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4457
 
 

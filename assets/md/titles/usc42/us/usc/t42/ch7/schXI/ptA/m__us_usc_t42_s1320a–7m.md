@@ -227,7 +227,7 @@
 
             The term “State” means each of the 50 States and the District of Columbia.
 
-([Pub. L. 111–240, title IV, § 4241][/us/pl/111/240/s4241], Sept. 27, 2010, [124 Stat. 2599][/us/stat/124/2599].)
+([Pub. L. 111–240, title IV][/us/pl/111/240/tIV], § 4241, Sept. 27, 2010, [124 Stat. 2599][/us/stat/124/2599].)
 
  __References in Text__ 
 
@@ -249,7 +249,7 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
-[/us/pl/111/240/s4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs4241
+[/us/pl/111/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIV
 [/us/stat/124/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2599
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

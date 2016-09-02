@@ -17,7 +17,7 @@
 
     Within sixty days after the effective date of the law creating the Energy Research and Development Administration or any other law creating a permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States (or within sixty days after September 3, 1974, if the effective date of such law occurs prior to the enactment of this subchapter), the energy research and development functions vested in the National Aeronautics and Space Administration and the National Science Foundation under this subchapter and any funds which may have been appropriated pursuant to [section 5517 of this title][/us/usc/t42/s5517], to the extent necessary or appropriate, may, in accordance with regulations prescribed by the Office of Management and Budget, be transferred to and vested in the Energy Research and Development Administration or such other organization or agency.
 
-([Pub. L. 93–409, § 18][/us/pl/93/409/s18], Sept. 3, 1974, [88 Stat. 1078][/us/stat/88/1078].)
+([Pub. L. 93–409][/us/pl/93/409], § 18, Sept. 3, 1974, [88 Stat. 1078][/us/stat/88/1078].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s5517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5517
-[/us/pl/93/409/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs18
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1078
 [/us/usc/t42/s5814/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5814%2Ff
 

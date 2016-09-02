@@ -23,7 +23,7 @@
 
     (3) the term “Indian tribe” has the same meaning as in [section 450b(e) of title 25][/us/usc/t25/s450b/e].
 
-([Pub. L. 90–351, title I, § 2704][/us/pl/90/351/s2704], as added [Pub. L. 106–386, div. B, title I, § 1108(b)][/us/pl/106/386/s1108/b], Oct. 28, 2000, [114 Stat. 1502][/us/stat/114/1502].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2704, as added [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1108(b), Oct. 28, 2000, [114 Stat. 1502][/us/stat/114/1502].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/90/351/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2704
-[/us/pl/106/386/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1108%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1502
 
 

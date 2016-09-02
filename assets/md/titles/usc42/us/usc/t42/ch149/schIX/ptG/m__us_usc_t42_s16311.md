@@ -91,7 +91,7 @@
 
         In addition to amounts otherwise authorized by this section, there are authorized to be appropriated to the Secretary for integrated bioenergy research and development programs, projects, and activities, $49,000,000 for each of the fiscal years 2005 through 2009. Activities funded under this subsection shall be coordinated with ongoing related programs of other Federal agencies, including the Plant Genome Program of the National Science Foundation. Of the funds authorized under this subsection, at least $5,000,000 for each fiscal year shall be for training and education targeted to minority and socially disadvantaged farmers and ranchers.
 
-([Pub. L. 109–58, title IX, § 971][/us/pl/109/58/s971], Aug. 8, 2005, [119 Stat. 898][/us/stat/119/898]; [Pub. L. 110–69, title V, § 5007][/us/pl/110/69/s5007], Aug. 9, 2007, [121 Stat. 617][/us/stat/121/617]; [Pub. L. 111–358, title IX, § 903][/us/pl/111/358/s903], Jan. 4, 2011, [124 Stat. 4045][/us/stat/124/4045].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 971, Aug. 8, 2005, [119 Stat. 898][/us/stat/119/898]; [Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5007, Aug. 9, 2007, [121 Stat. 617][/us/stat/121/617]; [Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 903, Jan. 4, 2011, [124 Stat. 4045][/us/stat/124/4045].)
 
  __References in Text__ 
 
@@ -119,11 +119,11 @@
 [/us/usc/t42/s16319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16319
 [/us/usc/t42/s16324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16324
 [/us/usc/t42/s16323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16323
-[/us/pl/109/58/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs971
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F898
-[/us/pl/110/69/s5007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5007
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F617
-[/us/pl/111/358/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs903
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4045
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F898

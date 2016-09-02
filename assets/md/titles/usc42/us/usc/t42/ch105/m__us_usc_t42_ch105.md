@@ -633,7 +633,7 @@ SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858" data-uslm-ref="/us/usc/t42/s9858">9858</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858l" data-uslm-ref="/us/usc/t42/s9858l">9858l.</a>  </td>
 
     <td> Nondiscrimination.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858" data-uslm-ref="/us/usc/t42/s9858">9858</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858o" data-uslm-ref="/us/usc/t42/s9858o">9858o.</a>  </td>
 
     <td> Parental rights and responsibilities.  </td>
 

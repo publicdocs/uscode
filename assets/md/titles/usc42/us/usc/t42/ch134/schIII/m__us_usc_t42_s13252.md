@@ -43,7 +43,7 @@
 
         The Secretary shall publish in the Federal Register the results of actions taken under this subsection, and provide for an opportunity for public comment.
 
-([Pub. L. 102–486, title V, § 502][/us/pl/102/486/s502], Oct. 24, 1992, [106 Stat. 2888][/us/stat/106/2888].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 502, Oct. 24, 1992, [106 Stat. 2888][/us/stat/106/2888].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs502
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2888
 
 

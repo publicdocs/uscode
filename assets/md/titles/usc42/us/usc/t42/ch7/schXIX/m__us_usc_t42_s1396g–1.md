@@ -97,11 +97,11 @@
 
         For purposes of this section, the term “insurer” includes a group health plan, as defined in [section 1167(1) of title 29][/us/usc/t29/s1167/1], a health maintenance organization, and an entity offering a service benefit plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1908A, formerly § 1908, as added [Pub. L. 103–66, title XIII, § 13623(b)][/us/pl/103/66/s13623/b], Aug. 10, 1993, [107 Stat. 633][/us/stat/107/633], renumbered § 1908A, [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(y)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1908A, formerly § 1908, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13623(b), Aug. 10, 1993, [107 Stat. 633][/us/stat/107/633], renumbered § 1908A, [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, § 608(y)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398.)
 
  __Effective Date__ 
 
-[Pub. L. 103–66, title XIII, § 13623(c)][/us/pl/103/66/s13623/c], Aug. 10, 1993, [107 Stat. 635][/us/stat/107/635], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13623(c), Aug. 10, 1993, [107 Stat. 635][/us/stat/107/635], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending [section 1396a of this title][/us/usc/t42/s1396a]\] apply to calendar quarters beginning on or after April 1, 1994, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
@@ -118,11 +118,11 @@
 [/us/usc/t15/s1673/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1673%2Fb
 [/us/usc/t29/s1167/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1167%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13623%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F633
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/103/66/s13623/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13623%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F635
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

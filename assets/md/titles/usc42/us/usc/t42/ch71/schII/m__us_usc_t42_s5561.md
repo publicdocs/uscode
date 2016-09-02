@@ -17,7 +17,7 @@
 
     The Chairman, in consultation with heads of the Federal agencies having functions under this subchapter and with other appropriate officers and agencies, shall prescribe such regulations as may be necessary or appropriate to carry out this subchapter promptly and efficiently. Each such officer or agency, in consultation with the Chairman, may prescribe such regulations as may be necessary or appropriate to carry out his or its particular functions under this subchapter promptly and efficiently.
 
-([Pub. L. 93–473, § 12][/us/pl/93/473/s12], Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
+([Pub. L. 93–473][/us/pl/93/473], § 12, Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs12
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1437
 
 

@@ -105,7 +105,7 @@
 
         (4) a Federal energy management measure carried out under part 3 of title V of the National Energy Conservation Policy Act ([42 U.S.C. 8251][/us/usc/t42/s8251] et seq.).
 
-([Pub. L. 109–58, title IX, § 911][/us/pl/109/58/s911], Aug. 8, 2005, [119 Stat. 857][/us/stat/119/857]; [Pub. L. 110–140, title III, § 315(a)][/us/pl/110/140/s315/a], Dec. 19, 2007, [121 Stat. 1571][/us/stat/121/1571].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 911, Aug. 8, 2005, [119 Stat. 857][/us/stat/119/857]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 315(a), Dec. 19, 2007, [121 Stat. 1571][/us/stat/121/1571].)
 
  __References in Text__ 
 
@@ -136,9 +136,9 @@
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
 [/us/usc/t42/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6321
 [/us/usc/t42/s8251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8251
-[/us/pl/109/58/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs911
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F857
-[/us/pl/110/140/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs315%2Fa
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1571
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1125

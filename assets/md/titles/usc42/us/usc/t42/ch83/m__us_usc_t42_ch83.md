@@ -11,72 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch82/schX/m__us_usc_t42_s6992k.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_ch84.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch83)
+[Previous](./../../../..//us/usc/t42/ch82/schX/m__us_usc_t42_s6992k.md) | [Next](./../../../..//us/usc/t42/ch83/m__us_usc_t42_s7001...7011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch83)
 
 ## CHAPTER 83—ENERGY EXTENSION SERVICE
 
-§§ 7001 to 7011. __Repealed.__  __[__  __Pub. L. 102–486, title I, § 143(a)__  __][/us/pl/102/486/s143/a]__  __,__  __Oct. 24, 1992__  __,__  __[__  __106 Stat. 2843__  __][/us/stat/106/2843]__ 
-
-    Section 7001, [Pub. L. 95–39, title V, § 502][/us/pl/95/39/s502], June 3, 1977, [91 Stat. 191][/us/stat/91/191], related to congressional declaration and statement of purposes.
-
-    Section 7002, [Pub. L. 95–39, title V, § 503][/us/pl/95/39/s503], June 3, 1977, [91 Stat. 192][/us/stat/91/192], provided for establishment of Energy Extension Service.
-
-    Section 7003, [Pub. L. 95–39, title V, § 504][/us/pl/95/39/s504], June 3, 1977, [91 Stat. 192][/us/stat/91/192], provided for development and implementation of comprehensive program.
-
-    Section 7004, [Pub. L. 95–39, title V, § 505][/us/pl/95/39/s505], June 3, 1977, [91 Stat. 193][/us/stat/91/193], provided for initial implementation of State energy extension service plans.
-
-    Section 7005, [Pub. L. 95–39, title V, § 506][/us/pl/95/39/s506], June 3, 1977, [91 Stat. 195][/us/stat/91/195], provided for national implementation of State energy extension service plans.
-
-    Section 7006, [Pub. L. 95–39, title V, § 507][/us/pl/95/39/s507], June 3, 1977, [91 Stat. 198][/us/stat/91/198], related to administration of Energy Extension Service.
-
-    Section 7007, [Pub. L. 95–39, title V, § 508][/us/pl/95/39/s508], June 3, 1977, [91 Stat. 199][/us/stat/91/199], related to energy education, extension, and information.
-
-    Section 7008, [Pub. L. 95–39, title V, § 509][/us/pl/95/39/s509], June 3, 1977, [91 Stat. 199][/us/stat/91/199], provided for establishment of National Energy Extension Service Advisory Board.
-
-    Section 7009, [Pub. L. 95–39, title V, § 511][/us/pl/95/39/s511], June 3, 1977, [91 Stat. 201][/us/stat/91/201], related to records.
-
-    Section 7010, [Pub. L. 95–39, title V, § 512][/us/pl/95/39/s512], June 3, 1977, [91 Stat. 201][/us/stat/91/201], related to authorization of appropriations.
-
-    Section 7011, [Pub. L. 95–39, title V, § 513][/us/pl/95/39/s513], June 3, 1977, [91 Stat. 202][/us/stat/91/202], set out definitions.
-
- __Short Title__ 
-
-    [Pub. L. 95–39, title V, § 501][/us/pl/95/39/s501], June 3, 1977, [91 Stat. 191][/us/stat/91/191], which provided that this title, which enacted this chapter and amended sections 5813 and 5818 of this title, could be cited as the “National Energy Extension Service Act”, was repealed by [Pub. L. 102–486, title I, § 143(a)][/us/pl/102/486/s143/a], Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843].
-
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch82/schX/m__us_usc_t42_s6992k.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_ch84.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch83)
+[Previous](./../../../..//us/usc/t42/ch82/schX/m__us_usc_t42_s6992k.md) | [Next](./../../../..//us/usc/t42/ch83/m__us_usc_t42_s7001...7011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch83)
 
 ----------
 ----------
 
-[/us/pl/102/486/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs143%2Fa
-[/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843
-[/us/pl/95/39/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs502
-[/us/stat/91/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F191
-[/us/pl/95/39/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs503
-[/us/stat/91/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F192
-[/us/pl/95/39/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs504
-[/us/stat/91/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F192
-[/us/pl/95/39/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs505
-[/us/stat/91/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F193
-[/us/pl/95/39/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs506
-[/us/stat/91/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F195
-[/us/pl/95/39/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs507
-[/us/stat/91/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F198
-[/us/pl/95/39/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs508
-[/us/stat/91/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F199
-[/us/pl/95/39/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs509
-[/us/stat/91/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F199
-[/us/pl/95/39/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs511
-[/us/stat/91/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F201
-[/us/pl/95/39/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs512
-[/us/stat/91/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F201
-[/us/pl/95/39/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs513
-[/us/stat/91/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F202
-[/us/pl/95/39/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs501
-[/us/stat/91/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F191
-[/us/pl/102/486/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs143%2Fa
-[/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843
 
 

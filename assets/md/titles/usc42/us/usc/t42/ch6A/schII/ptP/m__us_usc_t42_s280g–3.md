@@ -309,7 +309,7 @@
 
         (2) $10,000,000 for each of fiscal years 2008, 2009, and 2010.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399O, as added [Pub. L. 109–60, § 3][/us/pl/109/60/s3], Aug. 11, 2005, [119 Stat. 1979][/us/stat/119/1979].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399O, as added [Pub. L. 109–60][/us/pl/109/60], § 3, Aug. 11, 2005, [119 Stat. 1979][/us/stat/119/1979].)
 
  __References in Text__ 
 
@@ -321,7 +321,7 @@
 
  __Purpose__ 
 
-[Pub. L. 109–60, § 2][/us/pl/109/60/s2], Aug. 11, 2005, [119 Stat. 1979][/us/stat/119/1979], provided that: 
+[Pub. L. 109–60][/us/pl/109/60], § 2, Aug. 11, 2005, [119 Stat. 1979][/us/stat/119/1979], provided that: 
 
 > “It is the purpose of this Act \[enacting this section and provisions set out as a note under [section 201 of this title][/us/usc/t42/s201]\] to—
 
@@ -341,12 +341,12 @@
 [/us/usc/t42/s290dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%932
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/60/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F60%2Fs3
+[/us/pl/109/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F60
 [/us/stat/119/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1979
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/usc/t42/s280g–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%934
-[/us/pl/109/60/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F60%2Fs2
+[/us/pl/109/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F60
 [/us/stat/119/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1979
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 

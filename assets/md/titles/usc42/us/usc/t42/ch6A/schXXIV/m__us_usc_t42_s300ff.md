@@ -17,7 +17,7 @@
 
     It is the purpose of this Act to provide emergency assistance to localities that are disproportionately affected by the Human Immunodeficiency Virus epidemic and to make financial assistance available to States and other public or private nonprofit entities to provide for the development, organization, coordination and operation of more effective and cost efficient systems for the delivery of essential services to individuals and families with HIV disease.
 
-([Pub. L. 101–381, § 2][/us/pl/101/381/s2], Aug. 18, 1990, [104 Stat. 576][/us/stat/104/576].)
+([Pub. L. 101–381][/us/pl/101/381], § 2, Aug. 18, 1990, [104 Stat. 576][/us/stat/104/576].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/381/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs2
+[/us/pl/101/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381
 [/us/stat/104/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F576
 [/us/pl/101/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381
 [/us/stat/104/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F576

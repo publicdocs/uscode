@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–392, title I, § 123(1)][/us/pl/105/392/s123/1], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562], added subchapter VI heading and struck out former subchapter VI heading “NURSE EDUCATION”.
+    1998—[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(1), Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562], added subchapter VI heading and struck out former subchapter VI heading “NURSE EDUCATION”.
 
-    1985—[Pub. L. 99–92, § 9(b)(3)][/us/pl/99/92/s9/b/3], Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], substituted “NURSE EDUCATION” for “NURSE TRAINING” in subchapter VI heading.
+    1985—[Pub. L. 99–92][/us/pl/99/92], § 9(b)(3), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], substituted “NURSE EDUCATION” for “NURSE TRAINING” in subchapter VI heading.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/105/392/s123/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F1
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
-[/us/pl/99/92/s9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs9%2Fb%2F3
+[/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F400
 
 

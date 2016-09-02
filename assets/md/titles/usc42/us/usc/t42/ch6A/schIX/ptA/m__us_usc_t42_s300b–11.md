@@ -57,7 +57,7 @@
 
         In carrying out activities under this section, the Secretary shall ensure that such activities minimize duplication and supplement, not supplant, existing information sharing efforts.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1112, as added [Pub. L. 110–204, § 5][/us/pl/110/204/s5], Apr. 24, 2008, [122 Stat. 708][/us/stat/122/708]; amended [Pub. L. 110–237, § 1(a)(4)][/us/pl/110/237/s1/a/4], May 27, 2008, [122 Stat. 1557][/us/stat/122/1557]; [Pub. L. 113–240, § 5][/us/pl/113/240/s5], Dec. 18, 2014, [128 Stat. 2854][/us/stat/128/2854].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1112, as added [Pub. L. 110–204][/us/pl/110/204], § 5, Apr. 24, 2008, [122 Stat. 708][/us/stat/122/708]; amended [Pub. L. 110–237][/us/pl/110/237], § 1(a)(4), May 27, 2008, [122 Stat. 1557][/us/stat/122/1557]; [Pub. L. 113–240][/us/pl/113/240], § 5, Dec. 18, 2014, [128 Stat. 2854][/us/stat/128/2854].)
 
  __References in Text__ 
 
@@ -65,19 +65,19 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3). [Pub. L. 113–240, § 5(1)(B)(i)][/us/pl/113/240/s5/1/B/i], substituted “information” for “data”.
+    2014—Subsec. (a)(3). [Pub. L. 113–240][/us/pl/113/240], § 5(1)(B)(i), substituted “information” for “data”.
 
-    Subsec. (a)(4), (5). [Pub. L. 113–240, § 5(1)(A)][/us/pl/113/240/s5/1/A], (B)(ii), (C), added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 113–240][/us/pl/113/240], § 5(1)(A), (B)(ii), (C), added pars. (4) and (5).
 
-    Subsec. (b)(4)(D). [Pub. L. 113–240, § 5(2)][/us/pl/113/240/s5/2], substituted “Newborn Screening Saves Lives Reauthorization Act of 2014” for “Newborn Screening Saves Lives Act of 2008”.
+    Subsec. (b)(4)(D). [Pub. L. 113–240][/us/pl/113/240], § 5(2), substituted “Newborn Screening Saves Lives Reauthorization Act of 2014” for “Newborn Screening Saves Lives Act of 2008”.
 
-    Subsec. (c). [Pub. L. 113–240, § 5(3)][/us/pl/113/240/s5/3], substituted “carrying out activities” for “developing the clearinghouse” and “activities minimize duplication and supplement, not supplant” for “clearinghouse minimizes duplication and supplements, not supplants”.
+    Subsec. (c). [Pub. L. 113–240][/us/pl/113/240], § 5(3), substituted “carrying out activities” for “developing the clearinghouse” and “activities minimize duplication and supplement, not supplant” for “clearinghouse minimizes duplication and supplements, not supplants”.
 
-    Subsec. (d). [Pub. L. 113–240, § 5(4)][/us/pl/113/240/s5/4], struck out subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out this section, $2,500,000 for fiscal year 2009, $2,531,250 for fiscal year 2010, $2,562,500 for fiscal year 2011, $2,593,750 for fiscal year 2012, and $2,625,000 for fiscal year 2013.”
+    Subsec. (d). [Pub. L. 113–240][/us/pl/113/240], § 5(4), struck out subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out this section, $2,500,000 for fiscal year 2009, $2,531,250 for fiscal year 2010, $2,562,500 for fiscal year 2011, $2,593,750 for fiscal year 2012, and $2,625,000 for fiscal year 2013.”
 
-    2008—Subsec. (b)(4)(D). [Pub. L. 110–237, § 1(a)(4)(A)][/us/pl/110/237/s1/a/4/A], substituted “2008” for “2007”.
+    2008—Subsec. (b)(4)(D). [Pub. L. 110–237][/us/pl/110/237], § 1(a)(4)(A), substituted “2008” for “2007”.
 
-    Subsec. (d). [Pub. L. 110–237, § 1(a)(4)(B)][/us/pl/110/237/s1/a/4/B], substituted “2009, $2,531,250 for fiscal year 2010, $2,562,500 for fiscal year 2011, $2,593,750 for fiscal year 2012, and $2,625,000 for fiscal year 2013.” for “2008, $2,531,250 for fiscal year 2009, $2,562,500 for fiscal year 2010, $2,593,750 for fiscal year 2011, and $2,625,000 for fiscal year 2012.”
+    Subsec. (d). [Pub. L. 110–237][/us/pl/110/237], § 1(a)(4)(B), substituted “2009, $2,531,250 for fiscal year 2010, $2,562,500 for fiscal year 2011, $2,593,750 for fiscal year 2012, and $2,625,000 for fiscal year 2013.” for “2008, $2,531,250 for fiscal year 2009, $2,562,500 for fiscal year 2010, $2,593,750 for fiscal year 2011, and $2,625,000 for fiscal year 2012.”
 
 ----------
 
@@ -88,21 +88,21 @@
 
 [/us/usc/t42/s300b–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9310
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/204/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs5
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
 [/us/stat/122/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F708
-[/us/pl/110/237/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F4
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
 [/us/stat/122/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1557
-[/us/pl/113/240/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
 [/us/stat/128/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2854
 [/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
 [/us/stat/128/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2851
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/113/240/s5/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F1%2FB%2Fi
-[/us/pl/113/240/s5/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F1%2FA
-[/us/pl/113/240/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F2
-[/us/pl/113/240/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F3
-[/us/pl/113/240/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F4
-[/us/pl/110/237/s1/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F4%2FA
-[/us/pl/110/237/s1/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F4%2FB
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
 
 

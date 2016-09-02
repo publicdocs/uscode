@@ -29,7 +29,7 @@
 
         The Administrator shall make available to the public such information on source reduction as is gathered pursuant to this chapter and such other pertinent information and analysis regarding source reduction as may be available to the Administrator. The data base shall permit entry and retrieval of information to any person.
 
-([Pub. L. 101–508, title VI, § 6606][/us/pl/101/508/s6606], Nov. 5, 1990, [104 Stat. 1388–324][/us/stat/104/1388-324].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6606, Nov. 5, 1990, [104 Stat. 1388–324][/us/stat/104/1388-324].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13104
-[/us/pl/101/508/s6606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6606
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-324
 
 

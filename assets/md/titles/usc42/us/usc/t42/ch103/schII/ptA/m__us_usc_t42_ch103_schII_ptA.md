@@ -11,43 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch103/schII/m__us_usc_t42_ch103_schII.md) | [Next](./../../../../../..//us/usc/t42/ch103/schII/ptB/m__us_usc_t42_ch103_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch103%2FschII%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch103/schII/m__us_usc_t42_ch103_schII.md) | [Next](./../../../../../..//us/usc/t42/ch103/schII/ptA/m__us_usc_t42_s9631...9633.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch103%2FschII%2FptA)
 
 #### Part A—Hazardous Substance Response Trust Fund
 
-§§ 9631 to 9633. __Repealed.__  __[__  __Pub. L. 99–499, title V, § 517(c)(1)__  __][/us/pl/99/499/s517/c/1]__  __,__  __Oct. 17, 1986__  __,__  __[__  __100 Stat. 1774__  __][/us/stat/100/1774]__ 
-
-    Section 9631, [Pub. L. 96–510, title II, § 221][/us/pl/96/510/s221], Dec. 11, 1980, [94 Stat. 2801][/us/stat/94/2801]; [Pub. L. 99–499, title II, § 204][/us/pl/99/499/s204], Oct. 17, 1986, [100 Stat. 1696][/us/stat/100/1696], provided for establishment of a Hazardous Substances Superfund, so redesignated by [section 204 of Pub. L. 99–499][/us/pl/99/499/s204]. See [section 9507 of Title 26][/us/usc/t26/s9507], Internal Revenue Code.
-
-    Section 9632, [Pub. L. 96–510, title II, § 222][/us/pl/96/510/s222], Dec. 11, 1980, [94 Stat. 2802][/us/stat/94/2802], limited liability of United States to amount in Trust Fund.
-
-    Section 9633, [Pub. L. 96–510, title II, § 223][/us/pl/96/510/s223], Dec. 11, 1980, [94 Stat. 2802][/us/stat/94/2802], contained administrative provisions.
-
- __Effective Date of Repeal__ 
-
-    Repeal by [Pub. L. 99–499][/us/pl/99/499] effective Jan. 1, 1987, see [section 517(e) of Pub. L. 99–499][/us/pl/99/499/s517/e], set out as an Effective Date note under [section 9507 of Title 26][/us/usc/t26/s9507], Internal Revenue Code.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch103/schII/m__us_usc_t42_ch103_schII.md) | [Next](./../../../../../..//us/usc/t42/ch103/schII/ptB/m__us_usc_t42_ch103_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch103%2FschII%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch103/schII/m__us_usc_t42_ch103_schII.md) | [Next](./../../../../../..//us/usc/t42/ch103/schII/ptA/m__us_usc_t42_s9631...9633.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch103%2FschII%2FptA)
 
 ----------
 ----------
 
-[/us/pl/99/499/s517/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fc%2F1
-[/us/stat/100/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1774
-[/us/pl/96/510/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs221
-[/us/stat/94/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2801
-[/us/pl/99/499/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs204
-[/us/stat/100/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1696
-[/us/pl/99/499/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs204
-[/us/usc/t26/s9507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9507
-[/us/pl/96/510/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs222
-[/us/stat/94/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2802
-[/us/pl/96/510/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs223
-[/us/stat/94/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2802
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
-[/us/pl/99/499/s517/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fe
-[/us/usc/t26/s9507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9507
 
 

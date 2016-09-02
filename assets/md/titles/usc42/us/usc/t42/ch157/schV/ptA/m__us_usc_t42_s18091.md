@@ -49,7 +49,7 @@
 
         In United States v. South-Eastern Underwriters Association (322 U.S. 533 (1944)), the Supreme Court of the United States ruled that insurance is interstate commerce subject to Federal regulation.
 
-([Pub. L. 111–148, title I, § 1501(a)][/us/pl/111/148/s1501/a], title X, § 10106(a), Mar. 23, 2010, [124 Stat. 242][/us/stat/124/242], 907.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1501(a), title X, § 10106(a), Mar. 23, 2010, [124 Stat. 242][/us/stat/124/242], 907.)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Amendments__ 
 
-    2010—Par. (2). [Pub. L. 111–148, § 10106(a)][/us/pl/111/148/s10106/a], amended par. (2) generally. Prior to amendment, par. (2) described effects of the individual responsibility requirement on the national economy and interstate commerce.
+    2010—Par. (2). [Pub. L. 111–148][/us/pl/111/148], § 10106(a), amended par. (2) generally. Prior to amendment, par. (2) described effects of the individual responsibility requirement on the national economy and interstate commerce.
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
-[/us/pl/111/148/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1501%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F242
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
@@ -84,6 +84,6 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/148/s10106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

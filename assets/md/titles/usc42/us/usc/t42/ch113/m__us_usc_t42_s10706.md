@@ -45,7 +45,7 @@
 
         (2) to construct court facilities or structures, except to remodel existing facilities to demonstrate new architectural or technological techniques, or to provide temporary facilities for new personnel or for personnel involved in a demonstration or experimental program.
 
-([Pub. L. 98–620, title II, § 207][/us/pl/98/620/s207], Nov. 8, 1984, [98 Stat. 3342][/us/stat/98/3342]; [Pub. L. 100–702, title VI, § 605][/us/pl/100/702/s605], Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 207, Nov. 8, 1984, [98 Stat. 3342][/us/stat/98/3342]; [Pub. L. 100–702, title VI][/us/pl/100/702/tVI], § 605, Nov. 19, 1988, [102 Stat. 4653][/us/stat/102/4653].)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/98/620/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs207
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3342
-[/us/pl/100/702/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs605
+[/us/pl/100/702/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVI
 [/us/stat/102/4653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4653
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F336

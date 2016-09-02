@@ -17,7 +17,7 @@
 
     The consent of the Congress is hereby given to any two or more States to enter into agreements or compacts, not in conflict with any law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this subchapter as they pertain to interstate areas and to localities within such States, and to establish such agencies, joint or otherwise, as they may deem desirable for making such agreements and compacts effective.
 
-([Pub. L. 101–625, title II, § 287][/us/pl/101/625/s287], Nov. 28, 1990, [104 Stat. 4127][/us/stat/104/4127].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 287, Nov. 28, 1990, [104 Stat. 4127][/us/stat/104/4127].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs287
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4127
 
 

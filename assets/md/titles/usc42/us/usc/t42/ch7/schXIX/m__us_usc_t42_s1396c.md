@@ -23,7 +23,7 @@
 
     the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure), until the Secretary is satisfied that there will no longer be any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1904, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 351][/us/stat/79/351].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1904, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 121(a), July 30, 1965, [79 Stat. 351][/us/stat/79/351].)
 
  __Constitutionality__ 
 
@@ -38,7 +38,7 @@ For constitutionality of [section 121(a) of Pub. L. 89–97][/us/pl/89/97/s121/a
 
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs121%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F351
 [/us/pl/89/97/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs121%2Fa
 

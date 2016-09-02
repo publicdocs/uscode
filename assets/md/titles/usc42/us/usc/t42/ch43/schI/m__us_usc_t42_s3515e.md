@@ -147,7 +147,7 @@
 
                 (ii) shall apply to the NIDILRR and the Director of the NIDILRR in the same manner and to the same extent as those subsections apply to the Administration for Community Living and the Administrator of that Administration.
 
-([Pub. L. 113–128, title IV, § 491][/us/pl/113/128/s491], July 22, 2014, [128 Stat. 1695][/us/stat/128/1695].)
+([Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 491, July 22, 2014, [128 Stat. 1695][/us/stat/128/1695].)
 
  __References in Text__ 
 
@@ -174,7 +174,7 @@
 [/us/usc/t29/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
-[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1695
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506%2Fd

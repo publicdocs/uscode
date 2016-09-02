@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated $10,000,000 to carry out this subchapter for each of fiscal years 2003, 2004, and 2005.
 
-([Pub. L. 90–351, title I, § 2989][/us/pl/90/351/s2989], as added [Pub. L. 107–273, div. C, title I, § 11027(b)][/us/pl/107/273/s11027/b], Nov. 2, 2002, [116 Stat. 1835][/us/stat/116/1835].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2989, as added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11027(b), Nov. 2, 2002, [116 Stat. 1835][/us/stat/116/1835].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2989
-[/us/pl/107/273/s11027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11027%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1835
 
 

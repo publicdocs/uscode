@@ -17,7 +17,7 @@
 
     In any action or administrative proceeding commenced pursuant to this chapter, the court or agency, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee, including litigation expenses, and costs, and the United States shall be liable for the foregoing the same as a private individual.
 
-([Pub. L. 101–336, title V, § 505][/us/pl/101/336/s505], July 26, 1990, [104 Stat. 371][/us/stat/104/371].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 505, July 26, 1990, [104 Stat. 371][/us/stat/104/371].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/336/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs505
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F371
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

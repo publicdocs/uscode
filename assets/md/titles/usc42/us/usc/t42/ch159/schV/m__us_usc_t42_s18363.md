@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to NASA such sums as may be necessary to carry out this section. The amounts authorized to be appropriated by this subsection shall be in addition to any amounts authorized to be appropriated by title I, and may be requested by the President as supplemental requirements, if needed, in the appropriate fiscal years.
 
-([Pub. L. 111–267, title VI, § 603][/us/pl/111/267/s603], Oct. 11, 2010, [124 Stat. 2829][/us/stat/124/2829].)
+([Pub. L. 111–267, title VI][/us/pl/111/267/tVI], § 603, Oct. 11, 2010, [124 Stat. 2829][/us/stat/124/2829].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s18362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18362
 [/us/usc/t42/s17761/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17761%2Fa
 [/us/usc/t42/s17761/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17761%2Fa
-[/us/pl/111/267/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs603
+[/us/pl/111/267/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVI
 [/us/stat/124/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2829
 [/us/pl/110/422/s613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs613%2Fa
 [/us/usc/t42/s17761/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17761%2Fa

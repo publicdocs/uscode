@@ -67,7 +67,7 @@
 
         (D) within military reservations.
 
-([Pub. L. 94–163, § 3][/us/pl/94/163/s3], Dec. 22, 1975, [89 Stat. 874][/us/stat/89/874]; [Pub. L. 95–619, title VI, § 691(a)][/us/pl/95/619/s691/a], Nov. 9, 1978, [92 Stat. 3287][/us/stat/92/3287]; [Pub. L. 98–454, title VI, § 601(f)][/us/pl/98/454/s601/f], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 101–383, § 3(a)][/us/pl/101/383/s3/a], Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727]; [Pub. L. 114–74, title IV, § 401(b)][/us/pl/114/74/s401/b], Nov. 2, 2015, [129 Stat. 589][/us/stat/129/589].)
+([Pub. L. 94–163][/us/pl/94/163], § 3, Dec. 22, 1975, [89 Stat. 874][/us/stat/89/874]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(a), Nov. 9, 1978, [92 Stat. 3287][/us/stat/92/3287]; [Pub. L. 98–454, title VI][/us/pl/98/454/tVI], § 601(f), Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 101–383][/us/pl/101/383], § 3(a), Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727]; [Pub. L. 114–74, title IV][/us/pl/114/74/tIV], § 401(b), Nov. 2, 2015, [129 Stat. 589][/us/stat/129/589].)
 
  __References in Text__ 
 
@@ -108,15 +108,15 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
-[/us/pl/94/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs3
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F874
-[/us/pl/95/619/s691/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fa
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3287
-[/us/pl/98/454/s601/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs601%2Ff
+[/us/pl/98/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVI
 [/us/stat/98/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1736
-[/us/pl/101/383/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs3%2Fa
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/stat/104/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F727
-[/us/pl/114/74/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs401%2Fb
+[/us/pl/114/74/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtIV
 [/us/stat/129/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F589
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

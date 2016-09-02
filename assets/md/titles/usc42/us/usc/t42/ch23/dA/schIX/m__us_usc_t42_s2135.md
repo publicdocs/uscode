@@ -45,11 +45,11 @@
 
         This subsection does not apply to an application for a license to construct or operate a utilization facility or production facility under section 2133 or 2134(b) of this title that is filed on or after August 8, 2005.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 105, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 938][/us/stat/68/938]; amended [Pub. L. 88–489, § 14][/us/pl/88/489/s14], Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 91–560, § 6][/us/pl/91/560/s6], Dec. 19, 1970, [84 Stat. 1473][/us/stat/84/1473]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(D)][/us/pl/107/273/s14102/c/2/D], Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921]; [Pub. L. 109–58, title VI, § 625][/us/pl/109/58/s625], Aug. 8, 2005, [119 Stat. 784][/us/stat/119/784].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 105, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 938][/us/stat/68/938]; amended [Pub. L. 88–489][/us/pl/88/489], § 14, Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 91–560][/us/pl/91/560], § 6, Dec. 19, 1970, [84 Stat. 1473][/us/stat/84/1473]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14102(c)(2)(D), Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 625, Aug. 8, 2005, [119 Stat. 784][/us/stat/119/784].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The act to protect trade and commerce against unlawful restraints and monopolies, referred to in subsec. (a), is [act July 2, 1890, ch. 647][/us/act/1890-07-02/ch647], [26 Stat. 209][/us/stat/26/209], known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15][/us/usc/t15/s1] and Tables.
 
@@ -89,20 +89,20 @@
 [/us/usc/t42/s2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2134
 [/us/usc/t42/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2133
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F938
-[/us/pl/88/489/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs14
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/stat/78/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F606
-[/us/pl/91/560/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560%2Fs6
+[/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/stat/84/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1473
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/107/273/s14102/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14102%2Fc%2F2%2FD
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1921
-[/us/pl/109/58/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs625
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F784
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647

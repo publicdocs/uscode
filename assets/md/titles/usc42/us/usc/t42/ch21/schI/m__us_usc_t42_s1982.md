@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1978 derived from [act Apr. 9, 1866, ch. 31, § 1][/us/act/1866-04-09/ch31/s1], [14 Stat. 27][/us/stat/14/27].
+    R.S. § 1978 derived from [act Apr. 9, 1866, ch. 31][/us/act/1866-04-09/ch31], § 1, [14 Stat. 27][/us/stat/14/27].
 
     Section was formerly classified to [section 42 of Title 8][/us/usc/t8/s42], Aliens and Nationality.
 
@@ -116,7 +116,7 @@ Sec. 302. If any executive department or agency subject to this order concludes 
 ----------
 ----------
 
-[/us/act/1866-04-09/ch31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-09%2Fch31%2Fs1
+[/us/act/1866-04-09/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-09%2Fch31
 [/us/stat/14/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F27
 [/us/usc/t8/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs42
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441

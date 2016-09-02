@@ -181,7 +181,7 @@
 
         Any standard issued in the State of California before January 1, 2011, under title 20 of the California Code of Regulations, that refers to walk-in coolers and walk-in freezers, for which standards have been established under paragraphs (1), (2), and (3) of [section 6313(f) of this title][/us/usc/t42/s6313/f], shall not be preempted until the standards established under [section 6313(f)(4) of this title][/us/usc/t42/s6313/f/4] take effect.
 
-([Pub. L. 94–163, title III, § 345][/us/pl/94/163/s345], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3272][/us/stat/92/3272]; amended [Pub. L. 102–486, title I, § 122(e)][/us/pl/102/486/s122/e], Oct. 24, 1992, [106 Stat. 2815][/us/stat/106/2815]; [Pub. L. 105–388, § 5(a)(7)][/us/pl/105/388/s5/a/7], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 136(h)][/us/pl/109/58/s136/h], Aug. 8, 2005, [119 Stat. 643][/us/stat/119/643]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 308(b), 312(e), Dec. 19, 2007, [121 Stat. 1561][/us/stat/121/1561], 1567; [Pub. L. 112–210, § 10(a)(5)][/us/pl/112/210/s10/a/5], Dec. 18, 2012, [126 Stat. 1524][/us/stat/126/1524].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 345, as added [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3272][/us/stat/92/3272]; amended [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 122(e), Oct. 24, 1992, [106 Stat. 2815][/us/stat/106/2815]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(7), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 136(h), Aug. 8, 2005, [119 Stat. 643][/us/stat/119/643]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 308(b), 312(e), Dec. 19, 2007, [121 Stat. 1561][/us/stat/121/1561], 1567; [Pub. L. 112–210][/us/pl/112/210], § 10(a)(5), Dec. 18, 2012, [126 Stat. 1524][/us/stat/126/1524].)
 
  __References in Text__ 
 
@@ -193,43 +193,43 @@
 
     The National Appliance Energy Conservation Amendments of 1988, referred to in subsec. (a)(6), is [Pub. L. 100–357][/us/pl/100/357], June 28, 1988, [102 Stat. 671][/us/stat/102/671]. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    Section 6313(c)(4) and (c)(5) of this title, referred to in subsec. (e)(3)(A) and (4)(A), were redesignated section 6313(c)(5) and (c)(6) of this title, respectively, by [Pub. L. 112–210, § 4(2)][/us/pl/112/210/s4/2], Dec. 18, 2012, [126 Stat. 1517][/us/stat/126/1517].
+    Section 6313(c)(4) and (c)(5) of this title, referred to in subsec. (e)(3)(A) and (4)(A), were redesignated section 6313(c)(5) and (c)(6) of this title, respectively, by [Pub. L. 112–210][/us/pl/112/210], § 4(2), Dec. 18, 2012, [126 Stat. 1517][/us/stat/126/1517].
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–210, § 10(a)(5)(B)][/us/pl/112/210/s10/a/5/B], made technical amendment to references in original act which appear in subsecs. (b)(1), (d)(1), (e)(1)(A), (2)(A), (3)(A), (f)(1)(A)(i), (2)(A)(i), and (h)(1)(A)(i) as references to part A.
+    2012—[Pub. L. 112–210][/us/pl/112/210], § 10(a)(5)(B), made technical amendment to references in original act which appear in subsecs. (b)(1), (d)(1), (e)(1)(A), (2)(A), (3)(A), (f)(1)(A)(i), (2)(A)(i), and (h)(1)(A)(i) as references to part A.
 
-    Subsec. (a). [Pub. L. 112–210, § 10(a)(5)(A)][/us/pl/112/210/s10/a/5/A], substituted “subparagraphs (B), (C), (D), (I), (J), and (K)” for “subparagraphs (B) through (G)” in introductory provisions.
+    Subsec. (a). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(5)(A), substituted “subparagraphs (B), (C), (D), (I), (J), and (K)” for “subparagraphs (B) through (G)” in introductory provisions.
 
-    Subsec. (a)(10). [Pub. L. 112–210, § 10(a)(5)(C)][/us/pl/112/210/s10/a/5/C], added par. (10).
+    Subsec. (a)(10). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(5)(C), added par. (10).
 
-    Subsec. (b)(1). [Pub. L. 112–210, § 10(a)(5)(A)][/us/pl/112/210/s10/a/5/A], (D), substituted “section 6295(p)(4)” for “section 6295(p)(5)” and “subparagraphs (B), (C), (D), (I), (J), and (K)” for “subparagraphs (B) through (G)”.
+    Subsec. (b)(1). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(5)(A), (D), substituted “section 6295(p)(4)” for “section 6295(p)(5)” and “subparagraphs (B), (C), (D), (I), (J), and (K)” for “subparagraphs (B) through (G)”.
 
-    Subsec. (h)(3). [Pub. L. 112–210, § 10(a)(5)(E)][/us/pl/112/210/s10/a/5/E], substituted “section 6313(f)(4)” for “section 6313(f)(3)”.
+    Subsec. (h)(3). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(5)(E), substituted “section 6313(f)(4)” for “section 6313(f)(3)”.
 
-    2007—Subsec. (a). [Pub. L. 110–140, § 312(e)(1)][/us/pl/110/140/s312/e/1], substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)” in introductory provisions.
+    2007—Subsec. (a). [Pub. L. 110–140][/us/pl/110/140], § 312(e)(1), substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)” in introductory provisions.
 
     Subsec. (b)(1). [Pub. L. 110–140][/us/pl/110/140], §§ 308(b), 312(e)(1), inserted “[section 6295(p)(5) of this title][/us/usc/t42/s6295/p/5],” after “The provisions of” and substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)”.
 
-    Subsec. (h). [Pub. L. 110–140, § 312(e)(2)][/us/pl/110/140/s312/e/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–140][/us/pl/110/140], § 312(e)(2), added subsec. (h).
 
-    2005—Subsec. (a)(9). [Pub. L. 109–58, § 136(h)(1)][/us/pl/109/58/s136/h/1], added par. (9).
+    2005—Subsec. (a)(9). [Pub. L. 109–58][/us/pl/109/58], § 136(h)(1), added par. (9).
 
-    Subsec. (b)(1). [Pub. L. 109–58, § 136(h)(2)][/us/pl/109/58/s136/h/2], substituted “part A” for “part B”, which for purposes of codification had been translated as “part A” thus requiring no change in text.
+    Subsec. (b)(1). [Pub. L. 109–58][/us/pl/109/58], § 136(h)(2), substituted “part A” for “part B”, which for purposes of codification had been translated as “part A” thus requiring no change in text.
 
-    Subsecs. (d) to (g). [Pub. L. 109–58, § 136(h)(3)][/us/pl/109/58/s136/h/3], added subsecs. (d) to (g).
+    Subsecs. (d) to (g). [Pub. L. 109–58][/us/pl/109/58], § 136(h)(3), added subsecs. (d) to (g).
 
     1998—Subsec. (c). [Pub. L. 105–388][/us/pl/105/388] inserted “standard” after “meets the applicable”.
 
-    1992—[Pub. L. 102–486, § 122(e)(3)][/us/pl/102/486/s122/e/3], substituted “enforcement, and preemption” for “and enforcement” in section catchline.
+    1992—[Pub. L. 102–486][/us/pl/102/486], § 122(e)(3), substituted “enforcement, and preemption” for “and enforcement” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–486, § 122(e)(1)(A)][/us/pl/102/486/s122/e/1/A], inserted “(other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(l) of this title)” after “to this part” and substituted “, the provisions of subsections (l) through (s) of [section 6295 of this title][/us/usc/t42/s6295], and section 6297” for “and sections 6298”.
+    Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 122(e)(1)(A), inserted “(other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(l) of this title)” after “to this part” and substituted “, the provisions of subsections (l) through (s) of [section 6295 of this title][/us/usc/t42/s6295], and section 6297” for “and sections 6298”.
 
-    Subsec. (a)(1). [Pub. L. 102–486, § 122(e)(1)(B)][/us/pl/102/486/s122/e/1/B], substituted “, 6294, and 6295 of this title” for “and 6294 of this title” and “6314, 6315, and 6313 of this title, respectively” for “6314 and 6315 of this title, respectively”.
+    Subsec. (a)(1). [Pub. L. 102–486][/us/pl/102/486], § 122(e)(1)(B), substituted “, 6294, and 6295 of this title” for “and 6294 of this title” and “6314, 6315, and 6313 of this title, respectively” for “6314 and 6315 of this title, respectively”.
 
-    Subsec. (a)(5) to (8). [Pub. L. 102–486, § 122(e)(1)(C)][/us/pl/102/486/s122/e/1/C]–(E), added pars. (5) to (8).
+    Subsec. (a)(5) to (8). [Pub. L. 102–486][/us/pl/102/486], § 122(e)(1)(C)–(E), added pars. (5) to (8).
 
-    Subsecs. (b), (c). [Pub. L. 102–486, § 122(e)(2)][/us/pl/102/486/s122/e/2], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 102–486][/us/pl/102/486], § 122(e)(2), added subsecs. (b) and (c).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -300,18 +300,18 @@
 [/us/usc/t42/s6297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6297
 [/us/usc/t42/s6313/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6313%2Ff
 [/us/usc/t42/s6313/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6313%2Ff%2F4
-[/us/pl/94/163/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs345
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3272
-[/us/pl/102/486/s122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fe
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2815
-[/us/pl/105/388/s5/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F7
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
-[/us/pl/109/58/s136/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fh
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F643
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1561
-[/us/pl/112/210/s10/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F5
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1524
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F103
@@ -325,27 +325,27 @@
 [/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F671
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
-[/us/pl/112/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs4%2F2
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1517
-[/us/pl/112/210/s10/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F5%2FB
-[/us/pl/112/210/s10/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F5%2FA
-[/us/pl/112/210/s10/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F5%2FC
-[/us/pl/112/210/s10/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F5%2FA
-[/us/pl/112/210/s10/a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F5%2FE
-[/us/pl/110/140/s312/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fe%2F1
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t42/s6295/p/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fp%2F5
-[/us/pl/110/140/s312/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fe%2F2
-[/us/pl/109/58/s136/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fh%2F1
-[/us/pl/109/58/s136/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fh%2F2
-[/us/pl/109/58/s136/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fh%2F3
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
-[/us/pl/102/486/s122/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fe%2F3
-[/us/pl/102/486/s122/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fe%2F1%2FA
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/102/486/s122/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fe%2F1%2FB
-[/us/pl/102/486/s122/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fe%2F1%2FC
-[/us/pl/102/486/s122/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fe%2F2
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/112/210/s10/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F13

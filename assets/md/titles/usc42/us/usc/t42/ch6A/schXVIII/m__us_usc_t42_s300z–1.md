@@ -99,11 +99,11 @@
 
     (b) Until such time as the Secretary promulgates regulations pursuant to the second sentence of this subsection, the Secretary shall use the regulations promulgated under title VI of the Health Services and Centers Amendments of 1978 \[[42 U.S.C. 300a–21][/us/usc/t42/s300a–21] et seq.\] which were in effect on August 13, 1981, to determine which necessary services are core services for purposes of this subchapter. The Secretary may promulgate regulations to determine which necessary services are core services for purposes of this subchapter based upon an evaluation of and information concerning which necessary services are essential to carry out the purposes of this subchapter and taking into account (1) factors such as whether services are to be provided in urban or rural areas, the ethnic groups to be served, and the nature of the populations to be served, and (2) the results of the evaluations required under [section 300z–5(b) of this title][/us/usc/t42/s300z–5/b]. The Secretary may from time to time revise such regulations.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2002, as added [Pub. L. 97–35, title IX, § 955(a)][/us/pl/97/35/s955/a], Aug. 13, 1981, [95 Stat. 580][/us/stat/95/580]; amended [Pub. L. 98–512, § 2(d)][/us/pl/98/512/s2/d], Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2002, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(a), Aug. 13, 1981, [95 Stat. 580][/us/stat/95/580]; amended [Pub. L. 98–512][/us/pl/98/512], § 2(d), Oct. 19, 1984, [98 Stat. 2409][/us/stat/98/2409].)
 
  __References in Text__ 
 
-    The Health Services and Centers Amendments of 1978, referred to in subsec. (b), is [Pub. L. 95–626][/us/pl/95/626], Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551], as amended. Title VI of the Health Services and Centers Amendments of 1978 was classified generally to part A (§ 300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by [Pub. L. 97–35, title IX, § 955(b)][/us/pl/97/35/s955/b], title XXI, § 2193(f), Aug. 13, 1981, [95 Stat. 592][/us/stat/95/592], 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Health Services and Centers Amendments of 1978, referred to in subsec. (b), is [Pub. L. 95–626][/us/pl/95/626], Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551], as amended. Title VI of the Health Services and Centers Amendments of 1978 was classified generally to part A (§ 300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(b), title XXI, § 2193(f), Aug. 13, 1981, [95 Stat. 592][/us/stat/95/592], 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
 
@@ -119,13 +119,13 @@
 [/us/usc/t42/s300a–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9321
 [/us/usc/t42/s300z–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300z%E2%80%935%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F580
-[/us/pl/98/512/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512%2Fs2%2Fd
+[/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512
 [/us/stat/98/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2409
 [/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/stat/92/3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3551
-[/us/pl/97/35/s955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F592
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/98/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F512

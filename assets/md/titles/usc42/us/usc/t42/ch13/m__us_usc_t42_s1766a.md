@@ -53,7 +53,7 @@
 
         The requirements that apply to the content of meal supplements served under child care food programs operated with assistance under this chapter shall apply to the content of meal supplements served under programs operated with assistance under this section.
 
-([June 4, 1946, ch. 281, § 17A][/us/act/1946-06-04/ch281/s17A], as added [Pub. L. 101–147, title I, § 106(a)][/us/pl/101/147/s106/a], Nov. 10, 1989, [103 Stat. 885][/us/stat/103/885]; amended [Pub. L. 105–336, title I, § 108][/us/pl/105/336/s108], Oct. 31, 1998, [112 Stat. 3153][/us/stat/112/3153].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 17A, as added [Pub. L. 101–147, title I][/us/pl/101/147/tI], § 106(a), Nov. 10, 1989, [103 Stat. 885][/us/stat/103/885]; amended [Pub. L. 105–336, title I][/us/pl/105/336/tI], § 108, Oct. 31, 1998, [112 Stat. 3153][/us/stat/112/3153].)
 
  __References in Text__ 
 
@@ -61,17 +61,17 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–336, § 108(a)(1)][/us/pl/105/336/s108/a/1], substituted “supplements under a program organized primarily to provide care for” for “supplements to”.
+    1998—Subsec. (a)(1). [Pub. L. 105–336][/us/pl/105/336], § 108(a)(1), substituted “supplements under a program organized primarily to provide care for” for “supplements to”.
 
-    Subsec. (a)(2)(C). [Pub. L. 105–336, § 108(a)(2)][/us/pl/105/336/s108/a/2], added subpar. (C) and struck out former subpar. (C) which read as follows: “are participating in the child care food program under [section 1766 of this title][/us/usc/t42/s1766] on May 15, 1989.”
+    Subsec. (a)(2)(C). [Pub. L. 105–336][/us/pl/105/336], § 108(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “are participating in the child care food program under [section 1766 of this title][/us/usc/t42/s1766] on May 15, 1989.”
 
-    Subsec. (b). [Pub. L. 105–336, § 108(b)][/us/pl/105/336/s108/b], substituted “served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in [section 1760(d)(1)(A) of this title][/us/usc/t42/s1760/d/1/A].” for “served to children—
+    Subsec. (b). [Pub. L. 105–336][/us/pl/105/336], § 108(b), substituted “served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in [section 1760(d)(1)(A) of this title][/us/usc/t42/s1760/d/1/A].” for “served to children—
 
     “(1) who are not more than 12 years of age; or
 
     “(2) in the case of children of migrant workers or children with handicaps, who are not more than 15 years of age.”
 
-    Subsec. (c). [Pub. L. 105–336, § 108(c)][/us/pl/105/336/s108/c], added par. (1), designated existing provisions as par. (2), inserted heading, and substituted “In the case of an eligible child who is participating in a program authorized under this section at a site that is not described in paragraph (1), for the purposes” for “For the purposes”.
+    Subsec. (c). [Pub. L. 105–336][/us/pl/105/336], § 108(c), added par. (1), designated existing provisions as par. (2), inserted heading, and substituted “In the case of an eligible child who is participating in a program authorized under this section at a site that is not described in paragraph (1), for the purposes” for “For the purposes”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -79,7 +79,7 @@
 
  __Regulations__ 
 
-[Pub. L. 101–147, title I, § 106(b)][/us/pl/101/147/s106/b], Nov. 10, 1989, [103 Stat. 886][/us/stat/103/886], provided that: 
+[Pub. L. 101–147, title I][/us/pl/101/147/tI], § 106(b), Nov. 10, 1989, [103 Stat. 886][/us/stat/103/886], provided that: 
 
 > “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
 
@@ -95,24 +95,24 @@
 [/us/usc/t42/s1766/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766%2Fc%2F3
 [/us/usc/t42/s1766/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766%2Fc%2F3
 [/us/usc/t42/s1759a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1759a%2Fa%2F3
-[/us/act/1946-06-04/ch281/s17A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs17A
-[/us/pl/101/147/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs106%2Fa
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F885
-[/us/pl/105/336/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs108
+[/us/pl/105/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2FtI
 [/us/stat/112/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3153
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/pl/105/336/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs108%2Fa%2F1
-[/us/pl/105/336/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs108%2Fa%2F2
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/usc/t42/s1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766
-[/us/pl/105/336/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs108%2Fb
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/usc/t42/s1760/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1760%2Fd%2F1%2FA
-[/us/pl/105/336/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs108%2Fc
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/pl/105/336/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs401
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755
-[/us/pl/101/147/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs106%2Fb
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F886
 
 

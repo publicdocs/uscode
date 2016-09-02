@@ -67,15 +67,15 @@
 
         (2) such assignments shall be carried out under such guidance as the Administrator deems appropriate.
 
-([Pub. L. 93–438, title I, § 104][/us/pl/93/438/s104], Oct. 11, 1974, [88 Stat. 1237][/us/stat/88/1237]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 104, Oct. 11, 1974, [88 Stat. 1237][/us/stat/88/1237]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (b), (c), and (h), was in the original “this Act”, meaning [Pub. L. 93–438][/us/pl/93/438], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title][/us/usc/t42/s5801]. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title][/us/usc/t42/s5801] and Tables.
 
-    [Section 2036 of this title][/us/usc/t42/s2036], referred to in subsec. (d), was repealed by [Pub. L. 95–91, title VII, § 709(c)(1)][/us/pl/95/91/s709/c/1], Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].
+    [Section 2036 of this title][/us/usc/t42/s2036], referred to in subsec. (d), was repealed by [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(c)(1), Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].
 
-    [Section 2037 of this title][/us/usc/t42/s2037], referred to in subsec. (d), was repealed by [Pub. L. 99–661, div. C, title I, § 3137(c)][/us/pl/99/661/s3137/c], Nov. 14, 1986, [100 Stat. 4066][/us/stat/100/4066].
+    [Section 2037 of this title][/us/usc/t42/s2037], referred to in subsec. (d), was repealed by [Pub. L. 99–661, div. C, title I][/us/pl/99/661/dC/tI], § 3137(c), Nov. 14, 1986, [100 Stat. 4066][/us/stat/100/4066].
 
     Act of July 1, 1960 ([74 Stat. 336][/us/stat/74/336]; 661–668), referred to in subsec. (e)(1), probably means [Pub. L. 86–599][/us/pl/86/599], July 7, 1960, [74 Stat. 336][/us/stat/74/336], which is classified principally to chapter 18 (§ 661 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
@@ -321,19 +321,19 @@ The legislative history of [Pub. L. 93–438][/us/pl/93/438] (which is classifie
 [/us/stat/74/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F336
 [/us/usc/t30/s661–669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs661%E2%80%93669
 [/us/usc/t42/s5813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5813
-[/us/pl/93/438/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs104
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1237
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/usc/t42/s2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2036
-[/us/pl/95/91/s709/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fc%2F1
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
 [/us/usc/t42/s2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2037
-[/us/pl/99/661/s3137/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3137%2Fc
+[/us/pl/99/661/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdC%2FtI
 [/us/stat/100/4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4066
 [/us/stat/74/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F336
 [/us/pl/86/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599

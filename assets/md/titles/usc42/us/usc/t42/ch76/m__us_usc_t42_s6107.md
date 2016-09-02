@@ -55,9 +55,11 @@
 
         any part of which is extended Federal financial assistance.
 
-([Pub. L. 94–135, title III, § 309][/us/pl/94/135/s309], formerly § 308, Nov. 28, 1975, [89 Stat. 731][/us/stat/89/731]; renumbered § 309, [Pub. L. 95–478, title IV, § 401(e)][/us/pl/95/478/s401/e], Oct. 18, 1978, [92 Stat. 1556][/us/stat/92/1556]; amended [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–259, § 5][/us/pl/100/259/s5], Mar. 22, 1988, [102 Stat. 30][/us/stat/102/30]; [Pub. L. 103–382, title III, § 391(u)][/us/pl/103/382/s391/u], Oct. 20, 1994, [108 Stat. 4025][/us/stat/108/4025]; [Pub. L. 107–110, title X, § 1076(z)][/us/pl/107/110/s1076/z], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+([Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 309, formerly § 308, Nov. 28, 1975, [89 Stat. 731][/us/stat/89/731]; renumbered § 309, [Pub. L. 95–478, title IV][/us/pl/95/478/tIV], § 401(e), Oct. 18, 1978, [92 Stat. 1556][/us/stat/92/1556]; amended [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–259][/us/pl/100/259], § 5, Mar. 22, 1988, [102 Stat. 30][/us/stat/102/30]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(u), Oct. 20, 1994, [108 Stat. 4025][/us/stat/108/4025]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(z), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(d), Dec. 10, 2015, [129 Stat. 2166][/us/stat/129/2166].)
 
  __Amendments__ 
+
+    2015—Par. (4)(B)(ii). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
 
     2006—Par. (3). [Pub. L. 109–435][/us/pl/109/435] substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
@@ -70,6 +72,10 @@
  __Change of Name__ 
 
     “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (2), pursuant to [section 509(b) of Pub. L. 96–88][/us/pl/96/88/s509/b], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -92,20 +98,24 @@
 
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/94/135/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs309
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
 [/us/stat/89/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F731
-[/us/pl/95/478/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fe
+[/us/pl/95/478/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtIV
 [/us/stat/92/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1556
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/100/259/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F259%2Fs5
+[/us/pl/100/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F259
 [/us/stat/102/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F30
-[/us/pl/103/382/s391/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fu
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4025
-[/us/pl/107/110/s1076/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fz
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2166
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
@@ -113,6 +123,9 @@
 [/us/pl/100/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F259
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

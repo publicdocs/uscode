@@ -155,7 +155,7 @@
 
             The term “covered foreign country” means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow July 1, 1968, but does not include the United States, the United Kingdom, or France.
 
-([Pub. L. 114–92, div. C, title XXXI, § 3136][/us/pl/114/92/s3136], Nov. 25, 2015, [129 Stat. 1209][/us/stat/129/1209].)
+([Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3136, Nov. 25, 2015, [129 Stat. 1209][/us/stat/129/1209].)
 
  __Codification__ 
 
@@ -187,7 +187,7 @@
 [/us/usc/t42/s2077/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077%2Fb
 [/us/pl/106/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F178
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/114/92/s3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3136
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1209
 [/us/pl/114/92/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3
 [/us/stat/129/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F745

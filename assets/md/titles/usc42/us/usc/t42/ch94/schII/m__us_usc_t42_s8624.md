@@ -243,7 +243,7 @@
 
         (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
-([Pub. L. 97–35, title XXVI, § 2605][/us/pl/97/35/s2605], Aug. 13, 1981, [95 Stat. 896][/us/stat/95/896]; [Pub. L. 98–558, title VI, § 605][/us/pl/98/558/s605], Oct. 30, 1984, [98 Stat. 2891][/us/stat/98/2891]; [Pub. L. 99–425, title V, § 504][/us/pl/99/425/s504], Sept. 30, 1986, [100 Stat. 974][/us/stat/100/974]; [Pub. L. 101–501, title VII][/us/pl/101/501], §§ 704, 705, Nov. 3, 1990, [104 Stat. 1259][/us/stat/104/1259]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–252, title III][/us/pl/103/252], §§ 305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, [108 Stat. 659–662][/us/stat/108/659-662]; [Pub. L. 104–66, title I, § 1072(c)][/us/pl/104/66/s1072/c], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 104–193, title I, § 110(p)][/us/pl/104/193/s110/p], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 105–285, title III, § 306][/us/pl/105/285/s306], Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (E), (2)(EE), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (E), (2)(EE), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 113–79, title IV, § 4006(b)][/us/pl/113/79/s4006/b], Feb. 7, 2014, [128 Stat. 787][/us/stat/128/787].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2605, Aug. 13, 1981, [95 Stat. 896][/us/stat/95/896]; [Pub. L. 98–558, title VI][/us/pl/98/558/tVI], § 605, Oct. 30, 1984, [98 Stat. 2891][/us/stat/98/2891]; [Pub. L. 99–425, title V][/us/pl/99/425/tV], § 504, Sept. 30, 1986, [100 Stat. 974][/us/stat/100/974]; [Pub. L. 101–501, title VII][/us/pl/101/501/tVII], §§ 704, 705, Nov. 3, 1990, [104 Stat. 1259][/us/stat/104/1259]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–252, title III][/us/pl/103/252/tIII], §§ 305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, [108 Stat. 659–662][/us/stat/108/659-662]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1072(c), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(p), Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 105–285, title III][/us/pl/105/285/tIII], § 306, Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (E), (2)(EE), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (E), (2)(EE), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4006(b), Feb. 7, 2014, [128 Stat. 787][/us/stat/128/787].)
 
  __References in Text__ 
 
@@ -253,9 +253,9 @@
 
     Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is [section 306 of Pub. L. 95–588][/us/pl/95/588/s306], title III, Nov. 4, 1978, [92 Stat. 2508][/us/stat/92/2508], which is set out as a note under [section 521 of Title 38][/us/usc/t38/s521], Veterans’ Benefits.
 
-    Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of [Pub. L. 97–35, § 671][/us/pl/97/35/s671] et seq., Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title][/us/usc/t42/s9901] and Tables.
+    Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of [Pub. L. 97–35][/us/pl/97/35], § 671 et seq., Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title][/us/usc/t42/s9901] and Tables.
 
-    The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of this title prior to repeal, except for titles VIII and X, by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of this title prior to repeal, except for titles VIII and X, by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
     The Energy Conservation and Production Act, referred to in subsec. (b)(4), is [Pub. L. 94–385][/us/pl/94/385], Aug. 14, 1976, [90 Stat. 1142][/us/stat/90/1142], as amended. Title IV of the Energy Conservation and Production Act is classified principally to subchapter III (§ 6851 et seq.) of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t42/s6801] and Tables.
 
@@ -271,73 +271,73 @@
 
     2014—Subsec. (f)(2)(A). [Pub. L. 113–79][/us/pl/113/79] inserted before semicolon “, except that, for purposes of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), such payments or allowances were greater than $20 annually, consistent with section 5(e)(6)(C)(iv)(I) of that Act ([7 U.S.C. 2014(e)(6)(C)(iv)(I)][/us/usc/t7/s2014/e/6/C/iv/I]), as determined by the Secretary of Agriculture”.
 
-    2008—Subsec. (b)(2)(A)(iii). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    2008—Subsec. (b)(2)(A)(iii). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    Subsec. (f)(1). [Pub. L. 110–246, § 4002(b)(1)(E)][/us/pl/110/246/s4002/b/1/E], (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+    Subsec. (f)(1). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-    Subsec. (f)(2). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(EE), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(EE), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
 
-    1998—Subsec. (b). [Pub. L. 105–285, § 306(1)(C)][/us/pl/105/285/s306/1/C], (D), struck out “The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection.” in provisions after par. (14) and inserted identical language before “The Secretary shall issue” in concluding provisions after par. (16).
+    1998—Subsec. (b). [Pub. L. 105–285][/us/pl/105/285], § 306(1)(C), (D), struck out “The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection.” in provisions after par. (14) and inserted identical language before “The Secretary shall issue” in concluding provisions after par. (16).
 
-    Subsec. (b)(9)(A). [Pub. L. 105–285, § 306(1)(A)][/us/pl/105/285/s306/1/A], struck out “and not transferred pursuant to [section 8623(f) of this title][/us/usc/t42/s8623/f] for use under another block grant” before the semicolon.
+    Subsec. (b)(9)(A). [Pub. L. 105–285][/us/pl/105/285], § 306(1)(A), struck out “and not transferred pursuant to [section 8623(f) of this title][/us/usc/t42/s8623/f] for use under another block grant” before the semicolon.
 
-    Subsec. (b)(14). [Pub. L. 105–285, § 306(1)(B)][/us/pl/105/285/s306/1/B], struck out “and” at end.
+    Subsec. (b)(14). [Pub. L. 105–285][/us/pl/105/285], § 306(1)(B), struck out “and” at end.
 
-    Subsec. (c)(1)(B). [Pub. L. 105–285, § 306(2)(A)][/us/pl/105/285/s306/2/A], substituted “State” for “States”.
+    Subsec. (c)(1)(B). [Pub. L. 105–285][/us/pl/105/285], § 306(2)(A), substituted “State” for “States”.
 
-    Subsec. (c)(1)(G)(i). [Pub. L. 105–285, § 306(2)(B)][/us/pl/105/285/s306/2/B], substituted “had” for “has”.
+    Subsec. (c)(1)(G)(i). [Pub. L. 105–285][/us/pl/105/285], § 306(2)(B), substituted “had” for “has”.
 
-    Subsec. (k)(1), (2)(A). [Pub. L. 105–285, § 306(3)][/us/pl/105/285/s306/3], inserted before period at end “, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy”.
+    Subsec. (k)(1), (2)(A). [Pub. L. 105–285][/us/pl/105/285], § 306(3), inserted before period at end “, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy”.
 
     1996—Subsec. (b)(2)(A)(i). [Pub. L. 104–193][/us/pl/104/193] amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “aid to families with dependent children under the State’s plan approved under part A of title IV of the Social Security Act (other than such aid in the form of foster care in accordance with section 408 of such Act);”.
 
     1995—Subsec. (h). [Pub. L. 104–66][/us/pl/104/66] struck out “(but not less frequently than every three years),” after “from time to time”.
 
-    1994—Subsec. (b). [Pub. L. 103–252, § 311(c)(4)][/us/pl/103/252/s311/c/4], transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
+    1994—Subsec. (b). [Pub. L. 103–252][/us/pl/103/252], § 311(c)(4), transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
 
-    [Pub. L. 103–252, § 311(b)][/us/pl/103/252/s311/b], inserted at end “Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.”
+    [Pub. L. 103–252][/us/pl/103/252], § 311(b), inserted at end “Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.”
 
-    Subsec. (b)(1). [Pub. L. 103–252, § 305(a)][/us/pl/103/252/s305/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in [section 8621(a) of this title][/us/usc/t42/s8621/a] and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
+    Subsec. (b)(1). [Pub. L. 103–252][/us/pl/103/252], § 305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in [section 8621(a) of this title][/us/usc/t42/s8621/a] and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
 
-    Subsec. (b)(2)(B). [Pub. L. 103–252, § 306(a)][/us/pl/103/252/s306/a], in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
+    Subsec. (b)(2)(B). [Pub. L. 103–252][/us/pl/103/252], § 306(a), in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 
     Subsec. (b)(3). [Pub. L. 103–252][/us/pl/103/252], §§ 306(b), 311(c)(3), substituted “disabled” for “handicapped” and “and households with high home energy burdens, are made aware” for “are made aware”.
 
-    Subsec. (b)(5). [Pub. L. 103–252, § 306(c)][/us/pl/103/252/s306/c], inserted “or needs” after “highest energy costs”.
+    Subsec. (b)(5). [Pub. L. 103–252][/us/pl/103/252], § 306(c), inserted “or needs” after “highest energy costs”.
 
-    Subsec. (b)(7)(D). [Pub. L. 103–252, § 311(a)(1)][/us/pl/103/252/s311/a/1], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “assure that any home energy supplier receiving direct payments agrees not to discriminate, either in the cost of the goods supplied or the services provided, against the eligible household on whose behalf payments are made;”.
+    Subsec. (b)(7)(D). [Pub. L. 103–252][/us/pl/103/252], § 311(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “assure that any home energy supplier receiving direct payments agrees not to discriminate, either in the cost of the goods supplied or the services provided, against the eligible household on whose behalf payments are made;”.
 
-    Subsec. (b)(9)(B). [Pub. L. 103–252, § 305(b)(1)][/us/pl/103/252/s305/b/1], inserted before semicolon at end “(except for the costs of the activities described in paragraph (16))”.
+    Subsec. (b)(9)(B). [Pub. L. 103–252][/us/pl/103/252], § 305(b)(1), inserted before semicolon at end “(except for the costs of the activities described in paragraph (16))”.
 
-    Subsec. (b)(10). [Pub. L. 103–252, § 307(1)][/us/pl/103/252/s307/1], substituted “and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the ‘Single Audit Act’)” for “and provide that at least every two years the State shall prepare an audit of its expenditures of amounts received under this subchapter and amounts transferred to carry out the purposes of this subchapter”.
+    Subsec. (b)(10). [Pub. L. 103–252][/us/pl/103/252], § 307(1), substituted “and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the ‘Single Audit Act’)” for “and provide that at least every two years the State shall prepare an audit of its expenditures of amounts received under this subchapter and amounts transferred to carry out the purposes of this subchapter”.
 
-    Subsec. (b)(16). [Pub. L. 103–252, § 305(b)(2)][/us/pl/103/252/s305/b/2], (3), added par. (16).
+    Subsec. (b)(16). [Pub. L. 103–252][/us/pl/103/252], § 305(b)(2), (3), added par. (16).
 
-    Subsec. (c)(1)(D). [Pub. L. 103–252, § 308][/us/pl/103/252/s308], inserted before semicolon at end “, including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements”.
+    Subsec. (c)(1)(D). [Pub. L. 103–252][/us/pl/103/252], § 308, inserted before semicolon at end “, including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements”.
 
-    Subsec. (c)(1)(E). [Pub. L. 103–252, § 306(d)(2)][/us/pl/103/252/s306/d/2], added subpar. (E). Former subpar. (E) redesignated (F).
+    Subsec. (c)(1)(E). [Pub. L. 103–252][/us/pl/103/252], § 306(d)(2), added subpar. (E). Former subpar. (E) redesignated (F).
 
     Subsec. (c)(1)(F). [Pub. L. 103–252][/us/pl/103/252], §§ 306(d)(1), 309(1), redesignated subpar. (E) as (F), substituted “(13), and (15)” for “and (13)”, and struck out “and” at end. Former subpar. (F) redesignated (H).
 
-    Subsec. (c)(1)(G). [Pub. L. 103–252, § 309(2)][/us/pl/103/252/s309/2], added subpar. (G).
+    Subsec. (c)(1)(G). [Pub. L. 103–252][/us/pl/103/252], § 309(2), added subpar. (G).
 
-    Subsec. (c)(1)(H). [Pub. L. 103–252, § 306(d)(1)][/us/pl/103/252/s306/d/1], redesignated subpar. (F) as (H).
+    Subsec. (c)(1)(H). [Pub. L. 103–252][/us/pl/103/252], § 306(d)(1), redesignated subpar. (F) as (H).
 
-    Subsec. (e). [Pub. L. 103–252, § 307(2)][/us/pl/103/252/s307/2], substituted “in accordance with chapter 75 of title 31” for “at least every two years by an organization or person independent of any agency administering activities under this subchapter. The audits shall be conducted in accordance with the Comptroller General’s standards for audit of governmental organizations, programs, activities, and functions. Within 30 days after completion of each audit, the chief executive officer of the State shall submit a copy of the audit to the legislature of the State and to the Secretary”.
+    Subsec. (e). [Pub. L. 103–252][/us/pl/103/252], § 307(2), substituted “in accordance with chapter 75 of title 31” for “at least every two years by an organization or person independent of any agency administering activities under this subchapter. The audits shall be conducted in accordance with the Comptroller General’s standards for audit of governmental organizations, programs, activities, and functions. Within 30 days after completion of each audit, the chief executive officer of the State shall submit a copy of the audit to the legislature of the State and to the Secretary”.
 
     1991—Subsec. (b)(2)(A)(iv). [Pub. L. 102–83][/us/pl/102/83] substituted “section 1315, 1521, 1541, or 1542 of title 38” for “section 415, 521, 541, or 542 of title 38”.
 
-    1990—Subsec. (b)(12). [Pub. L. 101–501, § 704(a)(1)][/us/pl/101/501/s704/a/1], inserted “timely and meaningful” after “provide for”.
+    1990—Subsec. (b)(12). [Pub. L. 101–501][/us/pl/101/501], § 704(a)(1), inserted “timely and meaningful” after “provide for”.
 
-    Subsec. (b)(15). [Pub. L. 101–501, § 704(a)(2)][/us/pl/101/501/s704/a/2]–(4), added par. (15) at end.
+    Subsec. (b)(15). [Pub. L. 101–501][/us/pl/101/501], § 704(a)(2)–(4), added par. (15) at end.
 
-    Subsec. (c)(2). [Pub. L. 101–501, § 704(b)][/us/pl/101/501/s704/b], inserted “timely and meaningful” after “will facilitate”.
+    Subsec. (c)(2). [Pub. L. 101–501][/us/pl/101/501], § 704(b), inserted “timely and meaningful” after “will facilitate”.
 
-    Subsec. (k). [Pub. L. 101–501, § 705][/us/pl/101/501/s705], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “Except as provided in paragraph (2), not” for “Not”, and added par. (2).
+    Subsec. (k). [Pub. L. 101–501][/us/pl/101/501], § 705, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “Except as provided in paragraph (2), not” for “Not”, and added par. (2).
 
-    1986—Subsec. (b)(5). [Pub. L. 99–425, § 504(a)][/us/pl/99/425/s504/a], substituted “in a timely manner” for “in a manner consistent with the efficient and timely payment of benefits”.
+    1986—Subsec. (b)(5). [Pub. L. 99–425][/us/pl/99/425], § 504(a), substituted “in a timely manner” for “in a manner consistent with the efficient and timely payment of benefits”.
 
-    Subsec. (b)(14) to (17). [Pub. L. 99–425, § 504(b)][/us/pl/99/425/s504/b], redesignated cl. (17) as (14), and struck out former cls. (14) to (16) which read as follows:
+    Subsec. (b)(14) to (17). [Pub. L. 99–425][/us/pl/99/425], § 504(b), redesignated cl. (17) as (14), and struck out former cls. (14) to (16) which read as follows:
 
     “(14) describe the procedures by which households in the State are identified as eligible to participate under this subchapter and the manner in which the State determines benefit levels;
 
@@ -345,41 +345,41 @@
 
     “(16) describe energy usage and the average cost of home energy in the State, identified by type of fuel and by region of the State;”.
 
-    Subsec. (c)(1). [Pub. L. 99–425, § 504(c)][/us/pl/99/425/s504/c], revised provisions relating to requirements for State plans, restating as subpars. (A) to (F), provisions of former subpars. (A) to (E).
+    Subsec. (c)(1). [Pub. L. 99–425][/us/pl/99/425], § 504(c), revised provisions relating to requirements for State plans, restating as subpars. (A) to (F), provisions of former subpars. (A) to (E).
 
-    Subsec. (c)(3). [Pub. L. 99–425, § 504(d)][/us/pl/99/425/s504/d], added par. (3).
+    Subsec. (c)(3). [Pub. L. 99–425][/us/pl/99/425], § 504(d), added par. (3).
 
-    Subsec. (f). [Pub. L. 99–425, § 504(e)][/us/pl/99/425/s504/e], designated existing provisions as par. (1), substituted “provided directly to, or indirectly for the benefit of” for “provided to”, and added par. (2).
+    Subsec. (f). [Pub. L. 99–425][/us/pl/99/425], § 504(e), designated existing provisions as par. (1), substituted “provided directly to, or indirectly for the benefit of” for “provided to”, and added par. (2).
 
-    1984—Subsec. (b). [Pub. L. 98–558, § 605(a)(9)][/us/pl/98/558/s605/a/9], inserted at end “The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.”.
+    1984—Subsec. (b). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(9), inserted at end “The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.”.
 
-    Subsec. (b)(1). [Pub. L. 98–558, § 605(a)(1)][/us/pl/98/558/s605/a/1], substituted “section” for “subsection”.
+    Subsec. (b)(1). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(1), substituted “section” for “subsection”.
 
-    Subsec. (b)(2)(B). [Pub. L. 98–558, § 605(a)(2)][/us/pl/98/558/s605/a/2], inserted “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
+    Subsec. (b)(2)(B). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(2), inserted “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 
-    Subsec. (b)(5). [Pub. L. 98–558, § 605(a)(3)][/us/pl/98/558/s605/a/3], inserted “, except that the State may not differentiate in implementing this section between the households described in clause (2)(A) and (2)(B) of this subsection”.
+    Subsec. (b)(5). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(3), inserted “, except that the State may not differentiate in implementing this section between the households described in clause (2)(A) and (2)(B) of this subsection”.
 
-    Subsec. (b)(7)(C). [Pub. L. 98–558, § 605(a)(4)][/us/pl/98/558/s605/a/4], substituted “adversely” for “any differently”.
+    Subsec. (b)(7)(C). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(4), substituted “adversely” for “any differently”.
 
-    Subsec. (b)(8). [Pub. L. 98–558, § 605(a)(5)][/us/pl/98/558/s605/a/5], designated existing provisions as subpar. (B) and added subpar. (A).
+    Subsec. (b)(8). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(5), designated existing provisions as subpar. (B) and added subpar. (A).
 
-    Subsec. (b)(9)(A). [Pub. L. 98–558, § 605(a)(6)][/us/pl/98/558/s605/a/6], in amending subpar. (A) generally, struck out “in each fiscal year” before “the State may” and substituted “for a fiscal year and not transferred pursuant to [section 8623(f) of this title][/us/usc/t42/s8623/f] for use under another block grant” for “for such fiscal year”.
+    Subsec. (b)(9)(A). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(6), in amending subpar. (A) generally, struck out “in each fiscal year” before “the State may” and substituted “for a fiscal year and not transferred pursuant to [section 8623(f) of this title][/us/usc/t42/s8623/f] for use under another block grant” for “for such fiscal year”.
 
-    Subsec. (b)(10). [Pub. L. 98–558, § 605(a)(7)][/us/pl/98/558/s605/a/7], substituted “every two years” for “every year”.
+    Subsec. (b)(10). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(7), substituted “every two years” for “every year”.
 
-    Subsec. (b)(14) to (17). [Pub. L. 98–558, § 605(a)(8)][/us/pl/98/558/s605/a/8], which directed amendment of subsec. (b) by adding pars. (14) to (17) at the end thereof, was executed by adding those pars. after par. (13) to reflect the probable intent of Congress.
+    Subsec. (b)(14) to (17). [Pub. L. 98–558][/us/pl/98/558], § 605(a)(8), which directed amendment of subsec. (b) by adding pars. (14) to (17) at the end thereof, was executed by adding those pars. after par. (13) to reflect the probable intent of Congress.
 
-    Subsec. (c)(1). [Pub. L. 98–558, § 605(b)(1)][/us/pl/98/558/s605/b/1], in amending par. (1) generally, designated existing provisions as subpar. (A) and added subpars. (B) to (E).
+    Subsec. (c)(1). [Pub. L. 98–558][/us/pl/98/558], § 605(b)(1), in amending par. (1) generally, designated existing provisions as subpar. (A) and added subpars. (B) to (E).
 
-    Subsec. (c)(2). [Pub. L. 98–558, § 605(b)(2)][/us/pl/98/558/s605/b/2], inserted “and each substantial revision thereof” and “or substantial revision” at the end.
+    Subsec. (c)(2). [Pub. L. 98–558][/us/pl/98/558], § 605(b)(2), inserted “and each substantial revision thereof” and “or substantial revision” at the end.
 
-    Subsec. (d). [Pub. L. 98–558, § 605(c)][/us/pl/98/558/s605/c], in amending subsec. (d) generally, substituted provisions that the State shall expend funds in accordance with the State plan or revisions thereto for former provisions which related to waiver of requirements.
+    Subsec. (d). [Pub. L. 98–558][/us/pl/98/558], § 605(c), in amending subsec. (d) generally, substituted provisions that the State shall expend funds in accordance with the State plan or revisions thereto for former provisions which related to waiver of requirements.
 
-    Subsec. (e). [Pub. L. 98–558, § 605(d)][/us/pl/98/558/s605/d], in amending subsec. (e) generally, inserted provisions requiring that the audits be made public and that they shall be conducted in accordance with the Comptroller General’s standards.
+    Subsec. (e). [Pub. L. 98–558][/us/pl/98/558], § 605(d), in amending subsec. (e) generally, inserted provisions requiring that the audits be made public and that they shall be conducted in accordance with the Comptroller General’s standards.
 
-    Subsec. (f). [Pub. L. 98–558, § 605(e)][/us/pl/98/558/s605/e], inserted “unless enacted in express limitation of this paragraph”.
+    Subsec. (f). [Pub. L. 98–558][/us/pl/98/558], § 605(e), inserted “unless enacted in express limitation of this paragraph”.
 
-    Subsec. (h). [Pub. L. 98–558, § 605(f)][/us/pl/98/558/s605/f], inserted “(but not less frequently than every three years)”.
+    Subsec. (h). [Pub. L. 98–558][/us/pl/98/558], § 605(f), inserted “(but not less frequently than every three years)”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -413,7 +413,7 @@
 
  __Clarification on Utility Allowances__ 
 
-[Pub. L. 102–550, title IX, § 927][/us/pl/102/550/s927], Oct. 28, 1992, [106 Stat. 3885][/us/stat/106/3885], as amended by [Pub. L. 103–185, § 1][/us/pl/103/185/s1], Dec. 14, 1993, [107 Stat. 2244][/us/stat/107/2244], provided that:
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 927, Oct. 28, 1992, [106 Stat. 3885][/us/stat/106/3885], as amended by [Pub. L. 103–185][/us/pl/103/185], § 1, Dec. 14, 1993, [107 Stat. 2244][/us/stat/107/2244], provided that:
 
 >     “(a)  __Eligibility__  __.—__ 
 
@@ -470,29 +470,29 @@
 [/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
 [/us/usc/t42/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2701
-[/us/pl/97/35/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2605
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F896
-[/us/pl/98/558/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605
+[/us/pl/98/558/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVI
 [/us/stat/98/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2891
-[/us/pl/99/425/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs504
+[/us/pl/99/425/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtV
 [/us/stat/100/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F974
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtVII
 [/us/stat/104/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1259
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/659-662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F659-662
-[/us/pl/104/66/s1072/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1072%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
-[/us/pl/104/193/s110/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fp
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2175
-[/us/pl/105/285/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs306
+[/us/pl/105/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtIII
 [/us/stat/112/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2758
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s4006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4006%2Fb
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F787
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -503,12 +503,12 @@
 [/us/pl/95/588/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs306
 [/us/stat/92/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2508
 [/us/usc/t38/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521
-[/us/pl/97/35/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs671
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1142
@@ -521,62 +521,62 @@
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t7/s2014/e/6/C/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fe%2F6%2FC%2Fiv%2FI
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
-[/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
-[/us/pl/105/285/s306/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs306%2F1%2FC
-[/us/pl/105/285/s306/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs306%2F1%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s8623/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623%2Ff
-[/us/pl/105/285/s306/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs306%2F1%2FB
-[/us/pl/105/285/s306/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs306%2F2%2FA
-[/us/pl/105/285/s306/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs306%2F2%2FB
-[/us/pl/105/285/s306/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs306%2F3
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/103/252/s311/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fc%2F4
-[/us/pl/103/252/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fb
-[/us/pl/103/252/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs305%2Fa
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s8621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621%2Fa
-[/us/pl/103/252/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs306%2Fa
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
-[/us/pl/103/252/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs306%2Fc
-[/us/pl/103/252/s311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fa%2F1
-[/us/pl/103/252/s305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs305%2Fb%2F1
-[/us/pl/103/252/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs307%2F1
-[/us/pl/103/252/s305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs305%2Fb%2F2
-[/us/pl/103/252/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs308
-[/us/pl/103/252/s306/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs306%2Fd%2F2
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
-[/us/pl/103/252/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs309%2F2
-[/us/pl/103/252/s306/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs306%2Fd%2F1
-[/us/pl/103/252/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs307%2F2
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/101/501/s704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs704%2Fa%2F1
-[/us/pl/101/501/s704/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs704%2Fa%2F2
-[/us/pl/101/501/s704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs704%2Fb
-[/us/pl/101/501/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs705
-[/us/pl/99/425/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs504%2Fa
-[/us/pl/99/425/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs504%2Fb
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
 [/us/usc/t42/s8623/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623%2Fc
-[/us/pl/99/425/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs504%2Fc
-[/us/pl/99/425/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs504%2Fd
-[/us/pl/99/425/s504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs504%2Fe
-[/us/pl/98/558/s605/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F9
-[/us/pl/98/558/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F1
-[/us/pl/98/558/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F2
-[/us/pl/98/558/s605/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F3
-[/us/pl/98/558/s605/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F4
-[/us/pl/98/558/s605/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F5
-[/us/pl/98/558/s605/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F6
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/usc/t42/s8623/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623%2Ff
-[/us/pl/98/558/s605/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F7
-[/us/pl/98/558/s605/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fa%2F8
-[/us/pl/98/558/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fb%2F1
-[/us/pl/98/558/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fb%2F2
-[/us/pl/98/558/s605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fc
-[/us/pl/98/558/s605/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fd
-[/us/pl/98/558/s605/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fe
-[/us/pl/98/558/s605/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Ff
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/113/79/s4006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4006%2Fc
 [/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014
@@ -603,9 +603,9 @@
 [/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/98/558/s609/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs609%2Fb
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/102/550/s927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs927
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3885
-[/us/pl/103/185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F185%2Fs1
+[/us/pl/103/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F185
 [/us/stat/107/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2244
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701

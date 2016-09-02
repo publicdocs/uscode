@@ -85,7 +85,7 @@
 
             (B) if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
 
-([Pub. L. 102–486, title III, § 312][/us/pl/102/486/s312], as added [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title XII, § 1201(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–48; [Pub. L. 105–388, § 7(a)][/us/pl/105/388/s7/a], Nov. 13, 1998, [112 Stat. 3480][/us/stat/112/3480]; [Pub. L. 109–58, title XV, § 1515][/us/pl/109/58/s1515], Aug. 8, 2005, [119 Stat. 1091][/us/stat/119/1091].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 312, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title XII, § 1201(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–48; [Pub. L. 105–388][/us/pl/105/388], § 7(a), Nov. 13, 1998, [112 Stat. 3480][/us/stat/112/3480]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1515, Aug. 8, 2005, [119 Stat. 1091][/us/stat/119/1091].)
 
  __References in Text__ 
 
@@ -113,12 +113,12 @@
 [/us/usc/t42/s13251/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13251%2Fa%2F2%2FA
 [/us/usc/t42/s13258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13258
 [/us/usc/t42/s7545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545
-[/us/pl/102/486/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs312
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/105/388/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs7%2Fa
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3480
-[/us/pl/109/58/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1515
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1091
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388

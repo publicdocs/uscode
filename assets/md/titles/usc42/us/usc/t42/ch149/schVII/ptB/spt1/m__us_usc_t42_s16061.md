@@ -17,7 +17,7 @@
 
     The Secretary shall accelerate efforts directed toward the improvement of batteries and other rechargeable energy storage systems, power electronics, hybrid systems integration, and other technologies for use in hybrid vehicles.
 
-([Pub. L. 109–58, title VII, § 711][/us/pl/109/58/s711], Aug. 8, 2005, [119 Stat. 818][/us/stat/119/818].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 711, Aug. 8, 2005, [119 Stat. 818][/us/stat/119/818].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs711
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F818
 
 

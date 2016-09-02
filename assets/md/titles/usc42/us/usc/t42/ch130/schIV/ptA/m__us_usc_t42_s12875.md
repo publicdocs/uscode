@@ -93,11 +93,11 @@
 
         Any entity that assumes, as determined by the Secretary, a mortgage covering eligible property in connection with the acquisition of the property from an owner under this section must comply with any low-income affordability restrictions for the remaining term of the mortgage. This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.
 
-([Pub. L. 101–625, title IV, § 425][/us/pl/101/625/s425], Nov. 28, 1990, [104 Stat. 4168][/us/stat/104/4168].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 425, Nov. 28, 1990, [104 Stat. 4168][/us/stat/104/4168].)
 
  __References in Text__ 
 
-    Sections 12872(b)(6) and 12873(b)(9) of this title, referred to in subsec. (f), were redesignated sections 12872(b)(7) and 12873(b)(10) of this title, respectively, by [Pub. L. 102–550, title X, § 1012(i)][/us/pl/102/550/s1012/i], Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].
+    Sections 12872(b)(6) and 12873(b)(9) of this title, referred to in subsec. (f), were redesignated sections 12872(b)(7) and 12873(b)(10) of this title, respectively, by [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1012(i), Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].
 
 ----------
 
@@ -106,9 +106,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs425
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4168
-[/us/pl/102/550/s1012/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fi
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3906
 
 

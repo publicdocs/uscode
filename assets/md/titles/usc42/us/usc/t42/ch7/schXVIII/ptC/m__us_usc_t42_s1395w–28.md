@@ -283,7 +283,7 @@
 
             (D) has participated (as of December 31, 2009) in a demonstration project established by the Secretary under which such a plan was offered for not less than 1 year.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1859, as added [Pub. L. 105–33, title IV, § 4001][/us/pl/105/33/s4001], Aug. 5, 1997, [111 Stat. 325][/us/stat/111/325]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 523\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–387; [Pub. L. 108–173, title II][/us/pl/108/173], §§ 221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, [117 Stat. 2180][/us/stat/117/2180], 2193, 2207, 2208; [Pub. L. 110–173, title I, § 108(a)][/us/pl/110/173/s108/a], Dec. 29, 2007, [121 Stat. 2496][/us/stat/121/2496]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, [122 Stat. 2571–2574][/us/stat/122/2571-2574]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, [124 Stat. 457–459][/us/stat/124/457-459]; [Pub. L. 112–240, title VI, § 607][/us/pl/112/240/s607], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I, § 1107][/us/pl/113/67/s1107], Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I, § 107][/us/pl/113/93/s107], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II, § 206][/us/pl/114/10/s206], Apr. 16, 2015, [129 Stat. 145][/us/stat/129/145].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1859, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4001, Aug. 5, 1997, [111 Stat. 325][/us/stat/111/325]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title V, § 523\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–387; [Pub. L. 108–173, title II][/us/pl/108/173/tII], §§ 221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, [117 Stat. 2180][/us/stat/117/2180], 2193, 2207, 2208; [Pub. L. 110–173, title I][/us/pl/110/173/tI], § 108(a), Dec. 29, 2007, [121 Stat. 2496][/us/stat/121/2496]; [Pub. L. 110–275, title I][/us/pl/110/275/tI], §§ 162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, [122 Stat. 2571–2574][/us/stat/122/2571-2574]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], §§ 3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, [124 Stat. 457–459][/us/stat/124/457-459]; [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 607, Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I][/us/pl/113/67/dB/tI], § 1107, Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I][/us/pl/113/93/tI], § 107, Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 206, Apr. 16, 2015, [129 Stat. 145][/us/stat/129/145].)
 
  __References in Text__ 
 
@@ -299,43 +299,43 @@
 
     Subsec. (f)(1). [Pub. L. 112–240][/us/pl/112/240] substituted “2015” for “2014”.
 
-    2010—Subsec. (f)(1). [Pub. L. 111–148, § 3205(a)][/us/pl/111/148/s3205/a], substituted “2014” for “2011”.
+    2010—Subsec. (f)(1). [Pub. L. 111–148][/us/pl/111/148], § 3205(a), substituted “2014” for “2011”.
 
-    Subsec. (f)(2)(C). [Pub. L. 111–148, § 3205(e)(1)][/us/pl/111/148/s3205/e/1], added subpar. (C).
+    Subsec. (f)(2)(C). [Pub. L. 111–148][/us/pl/111/148], § 3205(e)(1), added subpar. (C).
 
-    Subsec. (f)(3)(E). [Pub. L. 111–148, § 3205(e)(2)][/us/pl/111/148/s3205/e/2], added subpar. (E).
+    Subsec. (f)(3)(E). [Pub. L. 111–148][/us/pl/111/148], § 3205(e)(2), added subpar. (E).
 
-    Subsec. (f)(4)(C). [Pub. L. 111–148, § 3205(e)(3)][/us/pl/111/148/s3205/e/3], added subpar. (C).
+    Subsec. (f)(4)(C). [Pub. L. 111–148][/us/pl/111/148], § 3205(e)(3), added subpar. (C).
 
-    Subsec. (f)(5). [Pub. L. 111–148, § 3205(g)][/us/pl/111/148/s3205/g], struck out “described in subsection (b)(6)(B)(i)” after “individuals” in introductory provisions.
+    Subsec. (f)(5). [Pub. L. 111–148][/us/pl/111/148], § 3205(g), struck out “described in subsection (b)(6)(B)(i)” after “individuals” in introductory provisions.
 
-    Subsec. (f)(6), (7). [Pub. L. 111–148, § 3205(c)][/us/pl/111/148/s3205/c], (e)(4), added pars. (6) and (7).
+    Subsec. (f)(6), (7). [Pub. L. 111–148][/us/pl/111/148], § 3205(c), (e)(4), added pars. (6) and (7).
 
-    Subsec. (g). [Pub. L. 111–148, § 3208(a)][/us/pl/111/148/s3208/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–148][/us/pl/111/148], § 3208(a), added subsec. (g).
 
-    2008—Subsec. (b)(2). [Pub. L. 110–275, § 162(b)][/us/pl/110/275/s162/b], inserted concluding provisions.
+    2008—Subsec. (b)(2). [Pub. L. 110–275][/us/pl/110/275], § 162(b), inserted concluding provisions.
 
-    Subsec. (b)(6)(A). [Pub. L. 110–275, § 164(c)(1)(A)][/us/pl/110/275/s164/c/1/A], inserted “and that, as of January 1, 2010, meets the applicable requirements of paragraph (2), (3), or (4) of subsection (f), as the case may be” before period at end.
+    Subsec. (b)(6)(A). [Pub. L. 110–275][/us/pl/110/275], § 164(c)(1)(A), inserted “and that, as of January 1, 2010, meets the applicable requirements of paragraph (2), (3), or (4) of subsection (f), as the case may be” before period at end.
 
-    Subsec. (b)(6)(B)(iii). [Pub. L. 110–275, § 164(e)(1)][/us/pl/110/275/s164/e/1], inserted “who have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care” before period at end.
+    Subsec. (b)(6)(B)(iii). [Pub. L. 110–275][/us/pl/110/275], § 164(e)(1), inserted “who have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care” before period at end.
 
-    Subsec. (f). [Pub. L. 110–275, § 164(c)(1)(B)(ii)][/us/pl/110/275/s164/c/1/B/ii], (iii), designated existing provisions as par. (1), inserted par. heading, and added pars. (2) to (4).
+    Subsec. (f). [Pub. L. 110–275][/us/pl/110/275], § 164(c)(1)(B)(ii), (iii), designated existing provisions as par. (1), inserted par. heading, and added pars. (2) to (4).
 
-    [Pub. L. 110–275, § 164(c)(1)(B)(i)][/us/pl/110/275/s164/c/1/B/i], amended heading generally. Prior to amendment, heading read “Restriction on enrollment for specialized MA plans for special needs individuals”.
+    [Pub. L. 110–275][/us/pl/110/275], § 164(c)(1)(B)(i), amended heading generally. Prior to amendment, heading read “Restriction on enrollment for specialized MA plans for special needs individuals”.
 
-    [Pub. L. 110–275, § 164(a)][/us/pl/110/275/s164/a], substituted “2011” for “2010”.
+    [Pub. L. 110–275][/us/pl/110/275], § 164(a), substituted “2011” for “2010”.
 
-    Subsec. (f)(5). [Pub. L. 110–275, § 164(d)(1)][/us/pl/110/275/s164/d/1], added par. (5).
+    Subsec. (f)(5). [Pub. L. 110–275][/us/pl/110/275], § 164(d)(1), added par. (5).
 
     2007—Subsec. (f). [Pub. L. 110–173][/us/pl/110/173] substituted “2010” for “2009”.
 
-    2003—Subsec. (b)(4), (5). [Pub. L. 108–173, § 221(b)(1)][/us/pl/108/173/s221/b/1], added pars. (4) and (5).
+    2003—Subsec. (b)(4), (5). [Pub. L. 108–173][/us/pl/108/173], § 221(b)(1), added pars. (4) and (5).
 
-    Subsec. (b)(6). [Pub. L. 108–173, § 231(b)][/us/pl/108/173/s231/b], added par. (6).
+    Subsec. (b)(6). [Pub. L. 108–173][/us/pl/108/173], § 231(b), added par. (6).
 
-    Subsec. (c)(5). [Pub. L. 108–173, § 221(d)(2)][/us/pl/108/173/s221/d/2], added par. (5).
+    Subsec. (c)(5). [Pub. L. 108–173][/us/pl/108/173], § 221(d)(2), added par. (5).
 
-    Subsec. (f). [Pub. L. 108–173, § 231(c)][/us/pl/108/173/s231/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–173][/us/pl/108/173], § 231(c), added subsec. (f).
 
     1999—Subsec. (e)(2). [Pub. L. 106–113][/us/pl/106/113] substituted “[section 1395w–21(a)(2) of this title][/us/usc/t42/s1395w–21/a/2]” for “[section 1395w–21(a)(2)(A) of this title][/us/usc/t42/s1395w–21/a/2/A]” in introductory provisions.
 
@@ -345,7 +345,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title III, § 3208(b)][/us/pl/111/148/s3208/b], Mar. 23, 2010, [124 Stat. 460][/us/stat/124/460], provided that: 
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3208(b), Mar. 23, 2010, [124 Stat. 460][/us/stat/124/460], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on January 1, 2010, and shall apply to plan years beginning on or after such date.”
 
@@ -361,13 +361,13 @@
 
  __Regulations__ 
 
-[Pub. L. 108–173, title II, § 231(f)(2)][/us/pl/108/173/s231/f/2], Dec. 8, 2003, [117 Stat. 2208][/us/stat/117/2208], provided that: 
+[Pub. L. 108–173, title II][/us/pl/108/173/tII], § 231(f)(2), Dec. 8, 2003, [117 Stat. 2208][/us/stat/117/2208], provided that: 
 
 > “No later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall issue final regulations to establish requirements for special needs individuals under section 1859(b)(6)(B)(iii) of the Social Security Act \[[42 U.S.C. 1395w–28(b)(6)(B)(iii)][/us/usc/t42/s1395w–28/b/6/B/iii]\], as added by subsection (b).”
 
  __Authorization To Operate; Resources for State Medicaid Agencies; Contracting Requirements__ 
 
-[Pub. L. 110–275, title I, § 164(c)(2)][/us/pl/110/275/s164/c/2]–(4), July 15, 2008, [122 Stat. 2573][/us/stat/122/2573], as amended by [Pub. L. 111–148, title III, § 3205(d)][/us/pl/111/148/s3205/d], Mar. 23, 2010, [124 Stat. 458][/us/stat/124/458], provided that:
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 164(c)(2)–(4), July 15, 2008, [122 Stat. 2573][/us/stat/122/2573], as amended by [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3205(d), Mar. 23, 2010, [124 Stat. 458][/us/stat/124/458], provided that:
 
 >     “(2)  __Authority to operate but no service area expansion for dual snps that do not meet certain requirements__  __.—__ 
 
@@ -387,13 +387,13 @@
 
  __Panel of Clinical Advisors to Determine Conditions__ 
 
-[Pub. L. 110–275, title I, § 164(e)(2)][/us/pl/110/275/s164/e/2], July 15, 2008, [122 Stat. 2574][/us/stat/122/2574], provided that: 
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 164(e)(2), July 15, 2008, [122 Stat. 2574][/us/stat/122/2574], provided that: 
 
 > “The Secretary of Health and Human Services shall convene a panel of clinical advisors to determine the conditions that meet the definition of severe and disabling chronic conditions under section 1859(b)(6)(B)(iii) of the Social Security Act ([42 U.S.C. 1395w–28(b)(6)(B)(iii)][/us/usc/t42/s1395w–28/b/6/B/iii]), as amended by paragraph (1). The panel shall include the Director of the Agency for Healthcare Research and Quality (or the Director’s designee).”
 
  __No Effect on Medicaid Benefits for Duals__ 
 
-[Pub. L. 110–275, title I, § 164(h)][/us/pl/110/275/s164/h], July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], provided that: 
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 164(h), July 15, 2008, [122 Stat. 2575][/us/stat/122/2575], provided that: 
 
 > “Nothing in the provisions of, or amendments made by, this section \[amending this section and sections 1395w–22 and 1395w–27 of this title and enacting provisions set out as notes under this section and sections 1395w–21, 1395w–22, and 1395w–27 of this title\] shall affect the benefits available under the Medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for special needs individuals described in section 1859(b)(6)(B)(ii) of such Act ([42 U.S.C. 1395w–28(b)(6)(B)(ii)][/us/usc/t42/s1395w–28/b/6/B/ii]).”
 
@@ -424,55 +424,55 @@
 [/us/usc/t42/s1395w–21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fa%2F2
 [/us/usc/t42/s1395w–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4001
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F325
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtII
 [/us/stat/117/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2180
-[/us/pl/110/173/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2Fs108%2Fa
+[/us/pl/110/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173%2FtI
 [/us/stat/121/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2496
-[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2571-2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2571-2574
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/457-459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F457-459
-[/us/pl/112/240/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs607
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2349
-[/us/pl/113/67/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1107
+[/us/pl/113/67/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdB%2FtI
 [/us/stat/127/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1197
-[/us/pl/113/93/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs107
+[/us/pl/113/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtI
 [/us/stat/128/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1043
-[/us/pl/114/10/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs206
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F145
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
-[/us/pl/111/148/s3205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fa
-[/us/pl/111/148/s3205/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fe%2F1
-[/us/pl/111/148/s3205/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fe%2F2
-[/us/pl/111/148/s3205/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fe%2F3
-[/us/pl/111/148/s3205/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fg
-[/us/pl/111/148/s3205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fc
-[/us/pl/111/148/s3208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3208%2Fa
-[/us/pl/110/275/s162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs162%2Fb
-[/us/pl/110/275/s164/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fc%2F1%2FA
-[/us/pl/110/275/s164/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fe%2F1
-[/us/pl/110/275/s164/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fc%2F1%2FB%2Fii
-[/us/pl/110/275/s164/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fc%2F1%2FB%2Fi
-[/us/pl/110/275/s164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fa
-[/us/pl/110/275/s164/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fd%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/110/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F173
-[/us/pl/108/173/s221/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs221%2Fb%2F1
-[/us/pl/108/173/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Fb
-[/us/pl/108/173/s221/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs221%2Fd%2F2
-[/us/pl/108/173/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Fc
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s1395w–21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fa%2F2
 [/us/usc/t42/s1395w–21/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321%2Fa%2F2%2FA
 [/us/pl/108/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/111/148/s3208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3208%2Fb
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F460
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/110/275/s164/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fg
@@ -483,21 +483,21 @@
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/108/173/s231/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Ff%2F1
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/108/173/s231/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs231%2Ff%2F2
+[/us/pl/108/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtII
 [/us/stat/117/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2208
 [/us/usc/t42/s1395w–28/b/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fiii
-[/us/pl/110/275/s164/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fc%2F2
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2573
-[/us/pl/111/148/s3205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3205%2Fd
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F458
 [/us/usc/t42/s1395w–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/usc/t42/s1395w–28/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fii
 [/us/usc/t42/s1395w–28/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fii
-[/us/pl/110/275/s164/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fe%2F2
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2574
 [/us/usc/t42/s1395w–28/b/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fiii
-[/us/pl/110/275/s164/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs164%2Fh
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2575
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395w–28/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328%2Fb%2F6%2FB%2Fii

@@ -37,7 +37,7 @@
 
         Reimbursements authorized pursuant to this section shall be in accordance with rules promulgated by the Administrator within one year after October 17, 1986.
 
-([Pub. L. 96–510, title I, § 123][/us/pl/96/510/s123], as added [Pub. L. 99–499, title I, § 123(a)][/us/pl/99/499/s123/a], Oct. 17, 1986, [100 Stat. 1688][/us/stat/100/1688].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 123, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 123(a), Oct. 17, 1986, [100 Stat. 1688][/us/stat/100/1688].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/96/510/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs123
-[/us/pl/99/499/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs123%2Fa
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1688
 
 

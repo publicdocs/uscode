@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title III, § 3013(a)(1)][/us/pl/111/148/s3013/a/1], Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381], redesignated part D “General Provisions” as E.
+    2010—[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3013(a)(1), Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381], redesignated part D “General Provisions” as E.
 
-    2005—[Pub. L. 109–41, § 2(a)(2)][/us/pl/109/41/s2/a/2], July 29, 2005, [119 Stat. 424][/us/stat/119/424], redesignated part C “General Provisions” as D.
+    2005—[Pub. L. 109–41][/us/pl/109/41], § 2(a)(2), July 29, 2005, [119 Stat. 424][/us/stat/119/424], redesignated part C “General Provisions” as D.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/111/148/s3013/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3013%2Fa%2F1
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F381
-[/us/pl/109/41/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F2
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
 
 

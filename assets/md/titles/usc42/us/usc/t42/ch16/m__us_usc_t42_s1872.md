@@ -23,17 +23,17 @@
 
         (2) If, in the exercise of the authority referred to in paragraph (1) of this subsection, negotiation with foreign countries or agencies thereof becomes necessary, such negotiation shall be carried on by the Secretary of State in consultation with the Director.
 
-([May 10, 1950, ch. 171, § 13][/us/act/1950-05-10/ch171/s13], [64 Stat. 154][/us/stat/64/154]; [Pub. L. 86–232, § 7][/us/pl/86/232/s7], Sept. 8, 1959, [73 Stat. 468][/us/stat/73/468]; [Pub. L. 90–407, § 10][/us/pl/90/407/s10], July 18, 1968, [82 Stat. 365][/us/stat/82/365]; [Pub. L. 99–159, title I, § 110(a)(16)][/us/pl/99/159/s110/a/16], (17), Nov. 22, 1985, [99 Stat. 891][/us/stat/99/891].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 13, [64 Stat. 154][/us/stat/64/154]; [Pub. L. 86–232][/us/pl/86/232], § 7, Sept. 8, 1959, [73 Stat. 468][/us/stat/73/468]; [Pub. L. 90–407][/us/pl/90/407], § 10, July 18, 1968, [82 Stat. 365][/us/stat/82/365]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 110(a)(16), (17), Nov. 22, 1985, [99 Stat. 891][/us/stat/99/891].)
 
  __References in Text__ 
 
-    [Section 1874(d)(2) of this title][/us/usc/t42/s1874/d/2], referred to in subsec. (a), was redesignated section 1874(c)(2) by [Pub. L. 96–516, § 21(b)(2)][/us/pl/96/516/s21/b/2], Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010].
+    [Section 1874(d)(2) of this title][/us/usc/t42/s1874/d/2], referred to in subsec. (a), was redesignated section 1874(c)(2) by [Pub. L. 96–516][/us/pl/96/516], § 21(b)(2), Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010].
 
  __Amendments__ 
 
-    1985—Subsec. (a). [Pub. L. 99–159, § 110(a)(16)][/us/pl/99/159/s110/a/16], inserted “or engineering” after “scientific” the first three places appearing and “or engineers” after “scientists” and substituted “study and research in the sciences or in engineering” for “scientific study or scientific work”.
+    1985—Subsec. (a). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(16), inserted “or engineering” after “scientific” the first three places appearing and “or engineers” after “scientists” and substituted “study and research in the sciences or in engineering” for “scientific study or scientific work”.
 
-    Subsec. (b)(1). [Pub. L. 99–159, § 110(a)(17)][/us/pl/99/159/s110/a/17], inserted reference to engineering.
+    Subsec. (b)(1). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(17), inserted reference to engineering.
 
     1968—Subsec. (a). [Pub. L. 90–407][/us/pl/90/407] struck out “, with the approval of the Board,” after “The Director”, and substituted “section 15(d)(2) of this Act” for “section 16(d)(2) of this Act”, which resulted in no change in text because, for purposes of classification, provision was translated as “[section 1874(d)(2) of this title][/us/usc/t42/s1874/d/2]”.
 
@@ -54,19 +54,19 @@
 
 [/us/usc/t42/s1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1869
 [/us/usc/t42/s1870/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1870%2Fc
-[/us/act/1950-05-10/ch171/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs13
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F154
-[/us/pl/86/232/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs7
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F468
-[/us/pl/90/407/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs10
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F365
-[/us/pl/99/159/s110/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F16
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F891
 [/us/usc/t42/s1874/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1874%2Fd%2F2
-[/us/pl/96/516/s21/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs21%2Fb%2F2
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
-[/us/pl/99/159/s110/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F16
-[/us/pl/99/159/s110/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F17
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/usc/t42/s1874/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1874%2Fd%2F2
 [/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232

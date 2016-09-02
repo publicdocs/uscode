@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 91–515, title V, § 501(d)][/us/pl/91/515/s501/d], Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310], which required the President, within one year of his transmittal to Congress of the report required by [section 4393 of this title][/us/usc/t42/s4393], and annually thereafter, to supplement that report with such new data, evaluations, or recommendations as he may deem appropriate, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, item 6 on page 20 of House Document No. 103–7.
+    Section, [Pub. L. 91–515, title V][/us/pl/91/515/tV], § 501(d), Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310], which required the President, within one year of his transmittal to Congress of the report required by [section 4393 of this title][/us/usc/t42/s4393], and annually thereafter, to supplement that report with such new data, evaluations, or recommendations as he may deem appropriate, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, item 6 on page 20 of House Document No. 103–7.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/515/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs501%2Fd
+[/us/pl/91/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtV
 [/us/stat/84/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1310
 [/us/usc/t42/s4393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4393
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

@@ -273,11 +273,11 @@
 
             For purposes of subsection (a) of this section, the term “State” does not include the territories of the United States.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1918, as added [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 385][/us/stat/106/385]; amended [Pub. L. 102–352, § 2(a)(8)][/us/pl/102/352/s2/a/8], (9), Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II, § 218(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–362; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II, § 212(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–239; [Pub. L. 106–310, div. B, title XXXII, § 3205][/us/pl/106/310/s3205], Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1918, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 385][/us/stat/106/385]; amended [Pub. L. 102–352][/us/pl/102/352], § 2(a)(8), (9), Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title II, § 218(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–362; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title II, § 212(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–239; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3205, Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193].)
 
  __Prior Provisions__ 
 
-    A prior section 300x–7, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1919, formerly § 1918, as added Aug. 13, 1981, [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], [95 Stat. 551][/us/stat/95/551]; renumbered § 1919 and amended Oct. 19, 1984, [Pub. L. 98–509, title I, § 106(a)][/us/pl/98/509/s106/a], (g), [98 Stat. 2358][/us/stat/98/2358], 2359, related to nondiscrimination provisions with respect to alcohol, drug abuse, and mental health programs, prior to repeal by [Pub. L. 102–321, § 201(2)][/us/pl/102/321/s201/2].
+    A prior section 300x–7, [act July 1, 1944, ch. 373, title XIX][/us/act/1944-07-01/ch373/tXIX], § 1919, formerly § 1918, as added Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, [95 Stat. 551][/us/stat/95/551]; renumbered § 1919 and amended Oct. 19, 1984, [Pub. L. 98–509, title I][/us/pl/98/509/tI], § 106(a), (g), [98 Stat. 2358][/us/stat/98/2358], 2359, related to nondiscrimination provisions with respect to alcohol, drug abuse, and mental health programs, prior to repeal by [Pub. L. 102–321][/us/pl/102/321], § 201(2).
 
     A prior section 1918 of act July 1, 1944, was classified to [section 300x–6 of this title][/us/usc/t42/s300x–6] prior to repeal by [Pub. L. 102–321][/us/pl/102/321].
 
@@ -297,13 +297,13 @@
 
     See Effective and Termination Dates of 1998 Amendment note below.
 
-    1992—Subsec. (a)(5)(A)(iii). [Pub. L. 102–352, § 2(a)(8)][/us/pl/102/352/s2/a/8], substituted “45” for “25”.
+    1992—Subsec. (a)(5)(A)(iii). [Pub. L. 102–352][/us/pl/102/352], § 2(a)(8), substituted “45” for “25”.
 
-    Subsec. (c)(2)(C). [Pub. L. 102–352, § 2(a)(9)][/us/pl/102/352/s2/a/9], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 102–352][/us/pl/102/352], § 2(a)(9), added subpar. (C).
 
  __Effective and Termination Dates of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II, § 218(c)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–363, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title II, § 218(c)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–363, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -333,22 +333,22 @@
 [/us/usc/t42/s300x–9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%939%2Fa
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F385
-[/us/pl/102/352/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F8
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F938
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/310/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3205
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1193
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/act/1944-07-01/ch373/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXIX
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F551
-[/us/pl/98/509/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs106%2Fa
+[/us/pl/98/509/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtI
 [/us/stat/98/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2358
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s300x–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%936
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
@@ -359,9 +359,9 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
-[/us/pl/102/352/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F8
-[/us/pl/102/352/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F9
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/usc/t42/s300x–33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9333
 [/us/usc/t42/s300x–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%937%2Fb

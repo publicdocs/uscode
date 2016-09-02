@@ -29,7 +29,7 @@
 
         Unless a State law in effect on October 6, 1992, or a State constitution requires the funds to be used in a different manner, all funds collected by a State from the Federal Government from penalties and fines imposed for violation of any substantive or procedural requirement referred to in subsection (a) of this section shall be used by the State only for projects designed to improve or protect the environment or to defray the costs of environmental protection or enforcement.
 
-([Pub. L. 89–272, title II, § 6001][/us/pl/89/272/s6001], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2821][/us/stat/90/2821]; amended [Pub. L. 95–609, § 7(m)][/us/pl/95/609/s7/m], Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 102–386, title I, § 102(a)][/us/pl/102/386/s102/a], (b), Oct. 6, 1992, [106 Stat. 1505][/us/stat/106/1505], 1506.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 6001, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2821][/us/stat/90/2821]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(m), Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 102–386, title I][/us/pl/102/386/tI], § 102(a), (b), Oct. 6, 1992, [106 Stat. 1505][/us/stat/106/1505], 1506.)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–386, title I, § 102(c)][/us/pl/102/386/s102/c], Oct. 6, 1992, [106 Stat. 1506][/us/stat/106/1506], provided that:
+[Pub. L. 102–386, title I][/us/pl/102/386/tI], § 102(c), Oct. 6, 1992, [106 Stat. 1506][/us/stat/106/1506], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -98,16 +98,16 @@
 ----------
 ----------
 
-[/us/pl/89/272/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs6001
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2821
-[/us/pl/95/609/s7/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fm
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3082
-[/us/pl/102/386/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs102%2Fa
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1505
 [/us/pl/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
-[/us/pl/102/386/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs102%2Fc
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1506
 [/us/usc/t42/s6924/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fj
 [/us/usc/t42/s6939c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6939c%2Fb

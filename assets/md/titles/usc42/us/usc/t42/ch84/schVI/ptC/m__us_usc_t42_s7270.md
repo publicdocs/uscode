@@ -17,7 +17,7 @@
 
     Appropriations to carry out the provisions of this chapter shall be subject to annual authorization.
 
-([Pub. L. 95–91, title VI, § 660][/us/pl/95/91/s660], Aug. 4, 1977, [91 Stat. 604][/us/stat/91/604].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 660, Aug. 4, 1977, [91 Stat. 604][/us/stat/91/604].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs660
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F604
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

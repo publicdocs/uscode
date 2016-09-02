@@ -27,15 +27,15 @@
 
         Notwithstanding the provisions of the Atomic Energy Act of 1946, as amended, and particularly section 5(b)(7) thereof, or the provisions of sections 501 to 505 of title 30, and particularly [section 503 of title 30][/us/usc/t30/s503], any mining claim, heretofore located under the mining laws of the United States, for or based upon a discovery of a mineral deposit which is a source material and which, except for the possible contrary construction of said Atomic Energy Act, would have been locatable under such mining laws, shall, insofar as adversely affected by such possible contrary construction, be valid and effective, in all respects to the same extent as if said mineral deposit were a locatable mineral deposit other than a source material.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 68, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 934][/us/stat/68/934]; amended [Pub. L. 85–681, § 3][/us/pl/85/681/s3], Aug. 19, 1958, [72 Stat. 632][/us/stat/72/632]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 68, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 934][/us/stat/68/934]; amended [Pub. L. 85–681][/us/pl/85/681], § 3, Aug. 19, 1958, [72 Stat. 632][/us/stat/72/632]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1946, referred to in subsecs. (b) and (c), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which was classified generally to chapter 14 (§ 1801 et seq.) of this title prior to the general amendment by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919]. The [act of Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], is now known as the Atomic Energy Act of 1954, and is classified principally to this chapter.
+    The Atomic Energy Act of 1946, referred to in subsecs. (b) and (c), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which was classified generally to chapter 14 (§ 1801 et seq.) of this title prior to the general amendment by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919]. The [act of Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], is now known as the Atomic Energy Act of 1954, and is classified principally to this chapter.
 
-    Section 5(b)(7) thereof, referred to in subsec. (c), means section 5(b)(7) of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 762][/us/stat/60/762], which was classified to [section 1805(b)(7) of this title][/us/usc/t42/s1805/b/7] and was omitted in the general amendment of the Atomic Energy Act of 1946 by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919].
+    Section 5(b)(7) thereof, referred to in subsec. (c), means section 5(b)(7) of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 762][/us/stat/60/762], which was classified to [section 1805(b)(7) of this title][/us/usc/t42/s1805/b/7] and was omitted in the general amendment of the Atomic Energy Act of 1946 by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919].
 
-    The Atomic Energy Act of 1954, referred to in subsec. (b), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (b), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     Ex. Ord. No. 9908, eff. Dec. 5, 1947, 12 F.R. 8223; Ex. Ord. No. 9701 eff. Mar. 7, 1946, 11 F.R. 2369, and Ex. Ord. No. 9613, eff. Sept. 13, 1945, 10 F.R. 11789, referred to in subsec. (b), related to reservation of source material in certain lands owned by the United States; reservation of rights to fissionable materials in lands owned by the United States; and withdrawal and reservation for the use of the United States lands containing radio-active mineral substances. Ex. Ord. No. 10596, eff. Feb. 15, 1955, 20 F.R. 1007, revoked Ex. Ord. No. 9908, which had revoked Ex. Ord. No. 9701, which had earlier revoked Ex. Ord. No. 9613.
 
@@ -57,24 +57,24 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t30/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs503
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F934
-[/us/pl/85/681/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681%2Fs3
+[/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/stat/72/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F632
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/stat/60/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F755
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/stat/60/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F762
 [/us/usc/t42/s1805/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805%2Fb%2F7
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s1805/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805%2Fb%2F7

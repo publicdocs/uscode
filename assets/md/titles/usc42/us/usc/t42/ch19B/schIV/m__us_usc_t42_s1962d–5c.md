@@ -23,7 +23,7 @@
 
         Upon the request of affected non-Federal public bodies, the Secretary of the Army is authorized to modify existing cost sharing agreements in order to effectuate the provisions of subsection (a) of this section.
 
-([Pub. L. 93–251, title I, § 40][/us/pl/93/251/s40], Mar. 7, 1974, [88 Stat. 23][/us/stat/88/23].)
+([Pub. L. 93–251, title I][/us/pl/93/251/tI], § 40, Mar. 7, 1974, [88 Stat. 23][/us/stat/88/23].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/251/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs40
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F23
 
 

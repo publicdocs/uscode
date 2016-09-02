@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705d)
 
-## § 7705d. Repealed. [Pub. L. 106–503, title II, § 203][/us/pl/106/503/s203], Nov. 13, 2000, [114 Stat. 2305][/us/stat/114/2305]
+## § 7705d. Repealed. [Pub. L. 106–503, title II][/us/pl/106/503/tII], § 203, Nov. 13, 2000, [114 Stat. 2305][/us/stat/114/2305]
 
-    Section, [Pub. L. 95–124, § 10][/us/pl/95/124/s10], as added [Pub. L. 101–614, § 10][/us/pl/101/614/s10], Nov. 16, 1990, [104 Stat. 3238][/us/stat/104/3238], related to non-Federal cost sharing for supplemental funds.
+    Section, [Pub. L. 95–124][/us/pl/95/124], § 10, as added [Pub. L. 101–614][/us/pl/101/614], § 10, Nov. 16, 1990, [104 Stat. 3238][/us/stat/104/3238], related to non-Federal cost sharing for supplemental funds.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/106/503/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs203
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2305
-[/us/pl/95/124/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs10
-[/us/pl/101/614/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs10
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3238
 
 

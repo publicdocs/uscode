@@ -75,7 +75,7 @@
 
             (C) data on the number of underground storage tank equipment failures in the State.
 
-([Pub. L. 89–272, title II, § 9002][/us/pl/89/272/s9002], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3278][/us/stat/98/3278]; amended [Pub. L. 99–499, title II, § 205(b)][/us/pl/99/499/s205/b], Oct. 17, 1986, [100 Stat. 1696][/us/stat/100/1696]; [Pub. L. 109–58, title XV, § 1526(c)][/us/pl/109/58/s1526/c], Aug. 8, 2005, [119 Stat. 1098][/us/stat/119/1098].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9002, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3278][/us/stat/98/3278]; amended [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 205(b), Oct. 17, 1986, [100 Stat. 1696][/us/stat/100/1696]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1526(c), Aug. 8, 2005, [119 Stat. 1098][/us/stat/119/1098].)
 
  __Amendments__ 
 
@@ -93,12 +93,12 @@
 [/us/usc/t42/s9603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9603%2Fc
 [/us/usc/t42/s6991b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fc
 [/us/usc/t42/s6991c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991c
-[/us/pl/89/272/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9002
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3278
-[/us/pl/99/499/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fb
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1696
-[/us/pl/109/58/s1526/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1526%2Fc
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1098
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499

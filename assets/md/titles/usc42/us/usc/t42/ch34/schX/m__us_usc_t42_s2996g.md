@@ -35,7 +35,7 @@
 
         The Corporation shall afford notice and reasonable opportunity for comment to interested parties prior to issuing rules, regulations, and guidelines, and it shall publish in the Federal Register at least 30 days prior to their effective date all its rules, regulations, guidelines, and instructions.
 
-([Pub. L. 88–452, title X, § 1008][/us/pl/88/452/s1008], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 386][/us/stat/88/386]; amended [Pub. L. 95–222, § 9(b)(2)][/us/pl/95/222/s9/b/2], Dec. 28, 1977, [91 Stat. 1621][/us/stat/91/1621].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1008, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 386][/us/stat/88/386]; amended [Pub. L. 95–222][/us/pl/95/222], § 9(b)(2), Dec. 28, 1977, [91 Stat. 1621][/us/stat/91/1621].)
 
  __Amendments__ 
 
@@ -56,10 +56,10 @@
 ----------
 ----------
 
-[/us/pl/88/452/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1008
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F386
-[/us/pl/95/222/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs9%2Fb%2F2
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1621
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222

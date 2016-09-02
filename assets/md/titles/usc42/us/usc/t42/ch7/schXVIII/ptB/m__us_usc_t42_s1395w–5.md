@@ -101,7 +101,7 @@
 
             The term “Secretary” means the Secretary of Health and Human Services.
 
-([Pub. L. 111–148, title X, § 10331][/us/pl/111/148/s10331], Mar. 23, 2010, [124 Stat. 966][/us/stat/124/966].)
+([Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10331, Mar. 23, 2010, [124 Stat. 966][/us/stat/124/966].)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
-[/us/pl/111/148/s10331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10331
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F966
 [/us/pl/111/148/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3014
 [/us/usc/t42/s1395aaa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa%E2%80%931

@@ -105,7 +105,7 @@
 
         All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activities under this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under [section 8813 of this title][/us/usc/t42/s8813].
 
-([Pub. L. 96–294, title II, § 217][/us/pl/96/294/s217], June 30, 1980, [94 Stat. 693][/us/stat/94/693].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 217, June 30, 1980, [94 Stat. 693][/us/stat/94/693].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 ----------
 
 [/us/usc/t42/s8813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8813
-[/us/pl/96/294/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs217
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F693
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683

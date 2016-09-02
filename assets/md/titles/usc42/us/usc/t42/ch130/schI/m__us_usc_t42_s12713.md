@@ -59,7 +59,7 @@
 
         This section shall apply to any Federal program to assist first-time homebuyers, unless the program is exempted from this section by a statute that amends this subsection or explicitly refers to this subsection.
 
-([Pub. L. 101–625, title IX, § 956][/us/pl/101/625/s956], Nov. 28, 1990, [104 Stat. 4421][/us/stat/104/4421].)
+([Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 956, Nov. 28, 1990, [104 Stat. 4421][/us/stat/104/4421].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs956
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4421
 
 

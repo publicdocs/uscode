@@ -29,7 +29,7 @@
 
         The Secretary shall waive the requirement imposed under subsection (a) of this section with respect to the filing of any claim if he determines (in accordance with regulations) that there was good cause for the failure by the State to file such claim within the period prescribed under subsection (a) of this section. Any such waiver shall be only for such additional period of time as may be necessary to provide the State with a reasonable opportunity to file such claim. A failure to file a claim within such time period which is attributable to neglect or administrative inadequacies shall be deemed not to be for good cause.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1132, as added [Pub. L. 96–272, title III, § 306(a)][/us/pl/96/272/s306/a], June 17, 1980, [94 Stat. 530][/us/stat/94/530]; amended [Pub. L. 97–35, title XXI, § 2193(c)(5)][/us/pl/97/35/s2193/c/5], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1132, as added [Pub. L. 96–272, title III][/us/pl/96/272/tIII], § 306(a), June 17, 1980, [94 Stat. 530][/us/stat/94/530]; amended [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(c)(5), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–272, title III, § 306(b)][/us/pl/96/272/s306/b], (c), June 17, 1980, [94 Stat. 530][/us/stat/94/530], provided that:
+[Pub. L. 96–272, title III][/us/pl/96/272/tIII], § 306(b), (c), June 17, 1980, [94 Stat. 530][/us/stat/94/530], provided that:
 
 >     “(b)
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/272/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs306%2Fa
+[/us/pl/96/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtIII
 [/us/stat/94/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F530
-[/us/pl/97/35/s2193/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F5
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/96/272/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs306%2Fb
+[/us/pl/96/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtIII
 [/us/stat/94/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F530
 [/us/usc/t42/s1320b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%932
 [/us/usc/t42/s1320b–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%932%2Fb

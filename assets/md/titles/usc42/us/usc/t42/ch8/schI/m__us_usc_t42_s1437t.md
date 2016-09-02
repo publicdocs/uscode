@@ -113,7 +113,7 @@
 
         To the extent approved by the Secretary, the funds used by the public housing agency to provide tenant-based assistance under [section 1437f of this title][/us/usc/t42/s1437f] shall be added to the annual contribution contract administered by the public housing agency.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 22, as added [Pub. L. 101–625, title V, § 515(a)][/us/pl/101/625/s515/a], Nov. 28, 1990, [104 Stat. 4196][/us/stat/104/4196]; amended [Pub. L. 102–550, title I, § 119][/us/pl/102/550/s119], Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; [Pub. L. 105–276, title V, § 533(a)][/us/pl/105/276/s533/a], Oct. 21, 1998, [112 Stat. 2576][/us/stat/112/2576].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 22, as added [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 515(a), Nov. 28, 1990, [104 Stat. 4196][/us/stat/104/4196]; amended [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 119, Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 533(a), Oct. 21, 1998, [112 Stat. 2576][/us/stat/112/2576].)
 
  __References in Text__ 
 
@@ -131,13 +131,13 @@
 
  __Savings Provision__ 
 
-[Pub. L. 105–276, title V, § 533(b)][/us/pl/105/276/s533/b], Oct. 21, 1998, [112 Stat. 2578][/us/stat/112/2578], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 533(b), Oct. 21, 1998, [112 Stat. 2578][/us/stat/112/2578], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not affect any contract or other agreement entered into under section 22 of the United States Housing Act of 1937 \[[42 U.S.C. 1437t][/us/usc/t42/s1437t]\], as such section existed immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998 \[[Pub. L. 105–276][/us/pl/105/276], set out as an Effective Date of 1998 Amendment note under [section 1437 of this title][/us/usc/t42/s1437]\].”
 
  __Public Housing One-Stop Perinatal Services Demonstration__ 
 
-    [Pub. L. 101–625, title V, § 521][/us/pl/101/625/s521], Nov. 28, 1990, [104 Stat. 4205][/us/stat/104/4205], as amended by [Pub. L. 102–550, title I, § 125][/us/pl/102/550/s125], Oct. 28, 1992, [106 Stat. 3710][/us/stat/106/3710], which directed Secretary of Housing and Urban Development to carry out program to demonstrate effectiveness of providing grants to public housing agencies to assist such agencies in providing facilities for making one-stop perinatal services programs available for pregnant women residing in public housing, set forth preferences, limitation on grant amount, and program requirements, and required report to Congress not later than 1 year after amounts were first made available setting forth findings and conclusions and including recommendations with respect to establishment of permanent program, was repealed by [Pub. L. 105–276, title V, § 582(a)(9)][/us/pl/105/276/s582/a/9], Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 521, Nov. 28, 1990, [104 Stat. 4205][/us/stat/104/4205], as amended by [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 125, Oct. 28, 1992, [106 Stat. 3710][/us/stat/106/3710], which directed Secretary of Housing and Urban Development to carry out program to demonstrate effectiveness of providing grants to public housing agencies to assist such agencies in providing facilities for making one-stop perinatal services programs available for pregnant women residing in public housing, set forth preferences, limitation on grant amount, and program requirements, and required report to Congress not later than 1 year after amounts were first made available setting forth findings and conclusions and including recommendations with respect to establishment of permanent program, was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 582(a)(9), Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
 
 ----------
 
@@ -152,11 +152,11 @@
 [/us/usc/t42/s1437p/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437p%2Fa%2F5
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/101/625/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs515%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4196
-[/us/pl/102/550/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs119
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3695
-[/us/pl/105/276/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs533%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2576
 [/us/pl/105/276/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503%2Fa
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
@@ -165,16 +165,16 @@
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs533%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2578
 [/us/usc/t42/s1437t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437t
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/101/625/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs521
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4205
-[/us/pl/102/550/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs125
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3710
-[/us/pl/105/276/s582/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs582%2Fa%2F9
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2644
 
 

@@ -79,7 +79,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-([Pub. L. 111–148, title X, § 10407][/us/pl/111/148/s10407], Mar. 23, 2010, [124 Stat. 976][/us/stat/124/976].)
+([Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10407, Mar. 23, 2010, [124 Stat. 976][/us/stat/124/976].)
 
  __Codification__ 
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s10407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10407
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F976
 
 

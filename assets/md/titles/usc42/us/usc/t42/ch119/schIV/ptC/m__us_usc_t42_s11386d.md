@@ -31,7 +31,7 @@
 
         (2) subject to subsection (b), in-kind provision of services of any eligible activity described under [section 11383 of this title][/us/usc/t42/s11383].
 
-([Pub. L. 100–77, title IV, § 430][/us/pl/100/77/s430], as added [Pub. L. 111–22, div. B, title III, § 1305(3)][/us/pl/111/22/s1305/3], May 20, 2009, [123 Stat. 1695][/us/stat/123/1695].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 430, as added [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1305(3), May 20, 2009, [123 Stat. 1695][/us/stat/123/1695].)
 
  __References in Text__ 
 
@@ -50,8 +50,8 @@
 
 [/us/usc/t42/s11383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11383
 [/us/usc/t42/s11383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11383
-[/us/pl/100/77/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs430
-[/us/pl/111/22/s1305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1305%2F3
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1695
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

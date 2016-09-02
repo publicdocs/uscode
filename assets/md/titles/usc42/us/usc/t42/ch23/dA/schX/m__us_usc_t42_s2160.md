@@ -83,21 +83,21 @@
 
         (4) For the purposes of this subsection, the term “foreign spent nuclear fuel” shall include any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or other control of the fuel or reactor and regardless of the origin or licensing of the fuel or reactor, but not including fuel irradiated in a research reactor.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 131, as added [Pub. L. 95–242, title III, § 303(a)][/us/pl/95/242/s303/a], Mar. 10, 1978, [92 Stat. 127][/us/stat/92/127]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–437, § 15(f)(6)][/us/pl/103/437/s15/f/6], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 105–277, div. G, title XII, § 1225(d)(6)][/us/pl/105/277/s1225/d/6], (7), Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 131, as added [Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 303(a), Mar. 10, 1978, [92 Stat. 127][/us/stat/92/127]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–437][/us/pl/103/437], § 15(f)(6), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(d)(6), (7), Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a)(2)(C), (3), (4) and (f)(1)(C), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (a)(2)(C), (3), (4) and (f)(1)(C), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–277, § 1225(d)(6)(A)][/us/pl/105/277/s1225/d/6/A], in first sentence, struck out “the Director,” after “shall consult with” and, in third sentence, substituted “the Secretary of State is required” for “the Director declares that he intends” and “the requirement to prepare a Nuclear Proliferation Assessment Statement” for “the Director’s declaration”.
+    1998—Subsec. (a)(1). [Pub. L. 105–277][/us/pl/105/277], § 1225(d)(6)(A), in first sentence, struck out “the Director,” after “shall consult with” and, in third sentence, substituted “the Secretary of State is required” for “the Director declares that he intends” and “the requirement to prepare a Nuclear Proliferation Assessment Statement” for “the Director’s declaration”.
 
-    Subsec. (a)(2). [Pub. L. 105–277, § 1225(d)(6)(B)][/us/pl/105/277/s1225/d/6/B], substituted “view of the Secretary of State, Secretary of Energy, Secretary of Defense, or the Commission” for “Director’s view” and “the Secretary of State, in consultation with such Secretary or the Commission, shall prepare” for “he may prepare”.
+    Subsec. (a)(2). [Pub. L. 105–277][/us/pl/105/277], § 1225(d)(6)(B), substituted “view of the Secretary of State, Secretary of Energy, Secretary of Defense, or the Commission” for “Director’s view” and “the Secretary of State, in consultation with such Secretary or the Commission, shall prepare” for “he may prepare”.
 
-    Subsec. (c). [Pub. L. 105–277, § 1225(d)(7)][/us/pl/105/277/s1225/d/7], struck out “, the Director of the Arms Control and Disarmament Agency,” before “and the Nuclear” in first sentence and substituted “Secretary of State” for “Director” in sixth and seventh sentences and “Secretary of State’s” for “Director’s” in seventh sentence.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1225(d)(7), struck out “, the Director of the Arms Control and Disarmament Agency,” before “and the Nuclear” in first sentence and substituted “Secretary of State” for “Director” in sixth and seventh sentences and “Secretary of State’s” for “Director’s” in seventh sentence.
 
-    1994—Subsecs. (b)(1), (c), (f)(1)(A). [Pub. L. 103–437, § 15(f)(6)(A)][/us/pl/103/437/s15/f/6/A], substituted “Foreign Affairs” for “International Relations” wherever appearing.
+    1994—Subsecs. (b)(1), (c), (f)(1)(A). [Pub. L. 103–437][/us/pl/103/437], § 15(f)(6)(A), substituted “Foreign Affairs” for “International Relations” wherever appearing.
 
     Subsec. (f)(2). [Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs and Science, Space, and Technology” for “International Relations and Science and Technology”.
 
@@ -117,7 +117,7 @@
 
  __Limitations on Receipt and Storage of Spent Nuclear Fuel From Foreign Research Reactors__ 
 
-[Pub. L. 103–160, div. C, title XXXI, § 3151][/us/pl/103/160/s3151], Nov. 30, 1993, [107 Stat. 1949][/us/stat/107/1949], provided that:
+[Pub. L. 103–160, div. C, title XXXI][/us/pl/103/160/dC/tXXXI], § 3151, Nov. 30, 1993, [107 Stat. 1949][/us/stat/107/1949], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -184,22 +184,22 @@
 [/us/usc/t42/s2159/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159%2Fg
 [/us/usc/t42/s2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/242/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs303%2Fa
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F127
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/437/s15/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F6
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
-[/us/pl/105/277/s1225/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F6
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-774
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/105/277/s1225/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F6%2FA
-[/us/pl/105/277/s1225/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F6%2FB
-[/us/pl/105/277/s1225/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F7
-[/us/pl/103/437/s15/f/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F6%2FA
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601
@@ -209,7 +209,7 @@
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
-[/us/pl/103/160/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3151
+[/us/pl/103/160/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXI
 [/us/stat/107/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1949
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

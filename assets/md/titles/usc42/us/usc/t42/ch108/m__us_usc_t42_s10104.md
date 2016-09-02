@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be deemed to affect the Marine Protection, Research, and Sanctuaries Act of 1972 ([33 U.S.C. 1401][/us/usc/t33/s1401] et seq.).
 
-([Pub. L. 97–425, § 5][/us/pl/97/425/s5], Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
+([Pub. L. 97–425][/us/pl/97/425], § 5, Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401
-[/us/pl/97/425/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs5
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2205
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1052

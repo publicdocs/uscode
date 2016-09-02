@@ -51,7 +51,7 @@
 
         (2) not later than 18 months after October 24, 1992, transmit to the Congress a report containing the findings and conclusions of such study, including recommendations for the development of streamlined processes for the consideration of connecting buildings owned or leased by the Federal Government to district heating and cooling systems.
 
-([Pub. L. 95–619, title V, § 548][/us/pl/95/619/s548], Nov. 9, 1978, [92 Stat. 3279][/us/stat/92/3279]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3187][/us/stat/102/3187]; [Pub. L. 102–486, title I, § 152(g)][/us/pl/102/486/s152/g], (i)(1), Oct. 24, 1992, [106 Stat. 2848][/us/stat/106/2848], 2851; [Pub. L. 104–66, title I, § 1052(d)][/us/pl/104/66/s1052/d], Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718]; [Pub. L. 109–58, title I, § 102(g)][/us/pl/109/58/s102/g], Aug. 8, 2005, [119 Stat. 608][/us/stat/119/608]; [Pub. L. 110–140, title V, § 511(b)][/us/pl/110/140/s511/b], Dec. 19, 2007, [121 Stat. 1658][/us/stat/121/1658].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 548, Nov. 9, 1978, [92 Stat. 3279][/us/stat/92/3279]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3187][/us/stat/102/3187]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(g), (i)(1), Oct. 24, 1992, [106 Stat. 2848][/us/stat/106/2848], 2851; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(d), Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 102(g), Aug. 8, 2005, [119 Stat. 608][/us/stat/119/608]; [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 511(b), Dec. 19, 2007, [121 Stat. 1658][/us/stat/121/1658].)
 
  __Amendments__ 
 
@@ -59,17 +59,17 @@
 
     2005—Subsec. (b). [Pub. L. 109–58][/us/pl/109/58] inserted “the President and” before “Congress” in heading and “President and” before “Congress” in introductory provisions.
 
-    1995—Subsec. (b)(1). [Pub. L. 104–66, § 1052(d)(1)][/us/pl/104/66/s1052/d/1], added subpar. (B) and redesignated former subpar. (B) as (C).
+    1995—Subsec. (b)(1). [Pub. L. 104–66][/us/pl/104/66], § 1052(d)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (b)(4). [Pub. L. 104–66, § 1052(d)(2)][/us/pl/104/66/s1052/d/2]–(4), added par. (4).
+    Subsec. (b)(4). [Pub. L. 104–66][/us/pl/104/66], § 1052(d)(2)–(4), added par. (4).
 
-    1992—Subsec. (a)(2). [Pub. L. 102–486, § 152(i)(1)(A)][/us/pl/102/486/s152/i/1/A], substituted “8256(a)(2)” for “8256(b)”.
+    1992—Subsec. (a)(2). [Pub. L. 102–486][/us/pl/102/486], § 152(i)(1)(A), substituted “8256(a)(2)” for “8256(b)”.
 
-    Subsec. (b). [Pub. L. 102–486, § 152(i)(1)(B)][/us/pl/102/486/s152/i/1/B], substituted “, not later than April 2 of each year,” for “annually,”.
+    Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 152(i)(1)(B), substituted “, not later than April 2 of each year,” for “annually,”.
 
-    Subsec. (b)(1). [Pub. L. 102–486, § 152(g)(1)][/us/pl/102/486/s152/g/1], substituted “including—” and subpars. (A) and (B) for “including a copy of the list of the exclusions made under [section 8253(a)(2) of this title][/us/usc/t42/s8253/a/2];”.
+    Subsec. (b)(1). [Pub. L. 102–486][/us/pl/102/486], § 152(g)(1), substituted “including—” and subpars. (A) and (B) for “including a copy of the list of the exclusions made under [section 8253(a)(2) of this title][/us/usc/t42/s8253/a/2];”.
 
-    Subsec. (c). [Pub. L. 102–486, § 152(g)(2)][/us/pl/102/486/s152/g/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 152(g)(2), added subsec. (c).
 
     1988—[Pub. L. 100–615][/us/pl/100/615] amended section generally, substituting provisions relating to reports to Secretary and Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
 
@@ -95,27 +95,27 @@
 [/us/usc/t42/s8253/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253%2Fb%2F2
 [/us/usc/t42/s8256/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8256%2Fb
 [/us/usc/t42/s8262g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262g%2Fd
-[/us/pl/95/619/s548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs548
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3279
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3187
-[/us/pl/102/486/s152/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fg
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2848
-[/us/pl/104/66/s1052/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fd
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F718
-[/us/pl/109/58/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs102%2Fg
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F608
-[/us/pl/110/140/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs511%2Fb
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1658
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/104/66/s1052/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fd%2F1
-[/us/pl/104/66/s1052/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fd%2F2
-[/us/pl/102/486/s152/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fi%2F1%2FA
-[/us/pl/102/486/s152/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fi%2F1%2FB
-[/us/pl/102/486/s152/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fg%2F1
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s8253/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253%2Fa%2F2
-[/us/pl/102/486/s152/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fg%2F2
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

@@ -117,7 +117,7 @@
 
             The Advisory Council shall prepare an annual report to the Secretary of Transportation regarding the Advisory Council’s actions and recommendations.
 
-([Pub. L. 109–59, title X, § 10202][/us/pl/109/59/s10202], Aug. 10, 2005, [119 Stat. 1932][/us/stat/119/1932]; [Pub. L. 112–141, div. C, title I, § 31108][/us/pl/112/141/s31108], July 6, 2012, [126 Stat. 756][/us/stat/126/756].)
+([Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10202, Aug. 10, 2005, [119 Stat. 1932][/us/stat/119/1932]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31108, July 6, 2012, [126 Stat. 756][/us/stat/126/756].)
 
  __Codification__ 
 
@@ -125,7 +125,7 @@ Section was enacted as part of the Safe, Accountable, Flexible, Efficient Transp
 
  __Prior Provisions__ 
 
-    A prior section 300d–4, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1201, formerly § 1205, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 597][/us/stat/87/597]; amended Oct. 21, 1976, [Pub. L. 94–573, § 6][/us/pl/94/573/s6], [90 Stat. 2713][/us/stat/90/2713], renumbered § 1201 and amended Aug. 13, 1981, [Pub. L. 97–35, title IX, § 902(d)(1)][/us/pl/97/35/s902/d/1], (3), [95 Stat. 560][/us/stat/95/560], authorized Secretary to make grants and enter into contracts to support research in emergency medical techniques, methods, devices, and delivery, prior to repeal by [Pub. L. 99–117, § 12(e)][/us/pl/99/117/s12/e], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    A prior section 300d–4, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1201, formerly § 1205, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 597][/us/stat/87/597]; amended Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], § 6, [90 Stat. 2713][/us/stat/90/2713], renumbered § 1201 and amended Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(d)(1), (3), [95 Stat. 560][/us/stat/95/560], authorized Secretary to make grants and enter into contracts to support research in emergency medical techniques, methods, devices, and delivery, prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(e), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
  __Amendments__ 
 
@@ -142,18 +142,18 @@ Section was enacted as part of the Safe, Accountable, Flexible, Efficient Transp
 ----------
 ----------
 
-[/us/pl/109/59/s10202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10202
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1932
-[/us/pl/112/141/s31108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31108
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F756
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F597
-[/us/pl/94/573/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs6
+[/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2713
-[/us/pl/97/35/s902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/pl/99/117/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fe
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

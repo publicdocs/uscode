@@ -87,7 +87,7 @@
 
         In any action or proceeding under this subchapter the court, in its discretion, may allow the prevailing party, other than the Commission or the United States, a reasonable attorney’s fee (including expert fees) as part of the costs, and the Commission and the United States shall be liable for costs the same as a private person.
 
-([Pub. L. 88–352, title VII, § 706][/us/pl/88/352/s706], July 2, 1964, [78 Stat. 259][/us/stat/78/259]; [Pub. L. 92–261, § 4][/us/pl/92/261/s4], Mar. 24, 1972, [86 Stat. 104][/us/stat/86/104]; [Pub. L. 102–166, title I][/us/pl/102/166], §§ 107(b), 112, 113(b), Nov. 21, 1991, [105 Stat. 1075][/us/stat/105/1075], 1078, 1079; [Pub. L. 111–2, § 3][/us/pl/111/2/s3], Jan. 29, 2009, [123 Stat. 5][/us/stat/123/5].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 706, July 2, 1964, [78 Stat. 259][/us/stat/78/259]; [Pub. L. 92–261][/us/pl/92/261], § 4, Mar. 24, 1972, [86 Stat. 104][/us/stat/86/104]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], §§ 107(b), 112, 113(b), Nov. 21, 1991, [105 Stat. 1075][/us/stat/105/1075], 1078, 1079; [Pub. L. 111–2][/us/pl/111/2], § 3, Jan. 29, 2009, [123 Stat. 5][/us/stat/123/5].)
 
  __References in Text__ 
 
@@ -101,29 +101,29 @@
 
     2009—Subsec. (e)(3). [Pub. L. 111–2][/us/pl/111/2] added par. (3).
 
-    1991—Subsec. (e). [Pub. L. 102–166, § 112][/us/pl/102/166/s112], designated existing provisions as par. (1) and added par. (2).
+    1991—Subsec. (e). [Pub. L. 102–166][/us/pl/102/166], § 112, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (g). [Pub. L. 102–166, § 107(b)][/us/pl/102/166/s107/b], designated existing provisions as pars. (1) and (2)(A) and added par. (2)(B).
+    Subsec. (g). [Pub. L. 102–166][/us/pl/102/166], § 107(b), designated existing provisions as pars. (1) and (2)(A) and added par. (2)(B).
 
-    Subsec. (k). [Pub. L. 102–166, § 113(b)][/us/pl/102/166/s113/b], inserted “(including expert fees)” after “attorney’s fee”.
+    Subsec. (k). [Pub. L. 102–166][/us/pl/102/166], § 113(b), inserted “(including expert fees)” after “attorney’s fee”.
 
-    1972—Subsec. (a). [Pub. L. 92–261, § 4(a)][/us/pl/92/261/s4/a], added subsec. (a). Former subsec. (a) redesignated (b) and amended generally.
+    1972—Subsec. (a). [Pub. L. 92–261][/us/pl/92/261], § 4(a), added subsec. (a). Former subsec. (a) redesignated (b) and amended generally.
 
-    Subsec. (b). [Pub. L. 92–261, § 4(a)][/us/pl/92/261/s4/a], redesignated former subsec. (a) as (b), modified the procedure for the filing and consideration of charges by the Commission, subjected to coverage unlawful employment practices of joint labor-management committees controlling apprenticeship or other training or retraining, including on-the-job training programs, required the Commission to accord substantial weight to final findings and orders made by State or local authorities in proceedings commenced under State or local law in its determination of reasonable cause, and inserted provision setting forth the time period, after charges have been filed, allowed to the Commission to determine reasonable cause. Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 92–261][/us/pl/92/261], § 4(a), redesignated former subsec. (a) as (b), modified the procedure for the filing and consideration of charges by the Commission, subjected to coverage unlawful employment practices of joint labor-management committees controlling apprenticeship or other training or retraining, including on-the-job training programs, required the Commission to accord substantial weight to final findings and orders made by State or local authorities in proceedings commenced under State or local law in its determination of reasonable cause, and inserted provision setting forth the time period, after charges have been filed, allowed to the Commission to determine reasonable cause. Former subsec. (b) redesignated (c).
 
-    Subsecs. (c), (d). [Pub. L. 92–261, § 4(a)][/us/pl/92/261/s4/a], redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 92–261][/us/pl/92/261], § 4(a), redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 92–261, § 4(a)][/us/pl/92/261/s4/a], redesignated former subsec. (d) as (e), extended from ninety to one hundred and eighty days after the occurrence of the alleged unlawful employment practice the time for filing charges under this section and from two hundred and ten to three hundred days the time for filing such charges where the person aggrieved initially instituted proceedings with a State or local agency, and inserted requirement that notice of the charge be served on the respondent within ten days after filing. Former subsec. (e) redesignated (f)(1).
+    Subsec. (e). [Pub. L. 92–261][/us/pl/92/261], § 4(a), redesignated former subsec. (d) as (e), extended from ninety to one hundred and eighty days after the occurrence of the alleged unlawful employment practice the time for filing charges under this section and from two hundred and ten to three hundred days the time for filing such charges where the person aggrieved initially instituted proceedings with a State or local agency, and inserted requirement that notice of the charge be served on the respondent within ten days after filing. Former subsec. (e) redesignated (f)(1).
 
-    Subsec. (f). [Pub. L. 92–261, § 4(a)][/us/pl/92/261/s4/a], redesignated former subsec. (e) as par. (1), substituted provisions setting forth the procedure for civil actions where the Commission was unable to secure from the respondents a conciliation agreement to prevent further unlawful employment practices for provisions setting forth the procedure for civil actions where the Commission was unable to obtain voluntary compliance with this subchapter and inserted provisions setting forth the procedure for civil action where the respondent is a government, governmental agency, or political subdivision and the Commission could not secure a conciliation agreement, added par. (2), redesignated former subsec. (f) as par. (3), substituted “aggrieved person” for “plaintiff”, and added pars. (4) and (5).
+    Subsec. (f). [Pub. L. 92–261][/us/pl/92/261], § 4(a), redesignated former subsec. (e) as par. (1), substituted provisions setting forth the procedure for civil actions where the Commission was unable to secure from the respondents a conciliation agreement to prevent further unlawful employment practices for provisions setting forth the procedure for civil actions where the Commission was unable to obtain voluntary compliance with this subchapter and inserted provisions setting forth the procedure for civil action where the respondent is a government, governmental agency, or political subdivision and the Commission could not secure a conciliation agreement, added par. (2), redesignated former subsec. (f) as par. (3), substituted “aggrieved person” for “plaintiff”, and added pars. (4) and (5).
 
-    Subsec. (g). [Pub. L. 92–261, § 4(a)][/us/pl/92/261/s4/a], inserted provisions which authorized the court to order affirmative action not limited solely to the enumerated affirmative acts and such other equitable relief as deemed appropriate, and provisions which set forth the accrual date for back pay.
+    Subsec. (g). [Pub. L. 92–261][/us/pl/92/261], § 4(a), inserted provisions which authorized the court to order affirmative action not limited solely to the enumerated affirmative acts and such other equitable relief as deemed appropriate, and provisions which set forth the accrual date for back pay.
 
-    Subsecs. (i), (j). [Pub. L. 92–261, § 4(b)(1)][/us/pl/92/261/s4/b/1], (2), substituted “this section” for “subsection (e) of this section”.
+    Subsecs. (i), (j). [Pub. L. 92–261][/us/pl/92/261], § 4(b)(1), (2), substituted “this section” for “subsection (e) of this section”.
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–2, § 6][/us/pl/111/2/s6], Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7], provided that: 
+[Pub. L. 111–2][/us/pl/111/2], § 6, Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7], provided that: 
 
 > “This Act \[amending this section and [section 2000e–16 of this title][/us/usc/t42/s2000e–16] and sections 626, 633a, and 794a of Title 29, Labor, and enacting provisions set out as notes under this section and [section 2000a of this title][/us/usc/t42/s2000a]\], and the amendments made by this Act, take effect as if enacted on May 28, 2007 and apply to all claims of discrimination in compensation under title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e][/us/usc/t42/s2000e] et seq.), the Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621][/us/usc/t29/s621] et seq.), title I and section 503 of the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12111][/us/usc/t42/s12111] et seq., 12203\], and sections 501 and 504 of the Rehabilitation Act of 1973 \[[29 U.S.C. 791][/us/usc/t29/s791], 794\], that are pending on or after that date.”
 
@@ -133,13 +133,13 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–261, § 14][/us/pl/92/261/s14], Mar. 24, 1972, [86 Stat. 113][/us/stat/86/113], provided that: 
+[Pub. L. 92–261][/us/pl/92/261], § 14, Mar. 24, 1972, [86 Stat. 113][/us/stat/86/113], provided that: 
 
 > “The amendments made by this Act to section 706 of the Civil Rights Act of 1964 \[this section\] shall be applicable with respect to charges pending with the Commission on the date of enactment of this Act \[Mar. 24, 1972\] and all charges filed thereafter.”
 
  __Findings__ 
 
-[Pub. L. 111–2, § 2][/us/pl/111/2/s2], Jan. 29, 2009, [123 Stat. 5][/us/stat/123/5], provided that: 
+[Pub. L. 111–2][/us/pl/111/2], § 2, Jan. 29, 2009, [123 Stat. 5][/us/stat/123/5], provided that: 
 
 > “Congress finds the following:
 
@@ -153,7 +153,7 @@
 
  __Application to Other Laws__ 
 
-[Pub. L. 111–2, § 5(a)][/us/pl/111/2/s5/a], (b), Jan. 29, 2009, [123 Stat. 6][/us/stat/123/6], provided that:
+[Pub. L. 111–2][/us/pl/111/2], § 5(a), (b), Jan. 29, 2009, [123 Stat. 6][/us/stat/123/6], provided that:
 
 >     “(a)  __Americans With Disabilities Act of__  __1990.—__ 
 
@@ -178,13 +178,13 @@
 [/us/usc/t42/s2000e–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%933%2Fa
 [/us/usc/t42/s2000e–2/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%932%2Fm
 [/us/usc/t42/s2000e–2/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%932%2Fm
-[/us/pl/88/352/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs706
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F259
-[/us/pl/92/261/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F104
-[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1075
-[/us/pl/111/2/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs3
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F5
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -192,17 +192,17 @@
 [/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
-[/us/pl/102/166/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs112
-[/us/pl/102/166/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs107%2Fb
-[/us/pl/102/166/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs113%2Fb
-[/us/pl/92/261/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4%2Fa
-[/us/pl/92/261/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4%2Fa
-[/us/pl/92/261/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4%2Fa
-[/us/pl/92/261/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4%2Fa
-[/us/pl/92/261/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4%2Fa
-[/us/pl/92/261/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4%2Fa
-[/us/pl/92/261/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs4%2Fb%2F1
-[/us/pl/111/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs6
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F7
 [/us/usc/t42/s2000e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
@@ -213,13 +213,13 @@
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/102/166/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs402
 [/us/usc/t42/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981
-[/us/pl/92/261/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs14
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F113
-[/us/pl/111/2/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs2
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F5
 [/us/usc/t42/s2000e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/pl/111/2/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fa
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F6
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
 [/us/usc/t42/s12117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12117%2Fa

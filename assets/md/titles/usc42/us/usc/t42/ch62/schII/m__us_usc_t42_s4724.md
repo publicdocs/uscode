@@ -19,7 +19,7 @@
 
     (b) The Office also may, on the written request of a State or local government and under such procedures as may be jointly agreed upon, certify to such governments from appropriate Federal registers the names of potential employees. The State or local government making the request shall pay the Office for the costs, as determined by the Office, of performing the service, and such payments shall be credited to the appropriation or fund from which the expenses were or are to be paid.
 
-([Pub. L. 91–648, title II, § 204][/us/pl/91/648/s204], Jan. 5, 1971, [84 Stat. 1914][/us/stat/84/1914]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title II][/us/pl/91/648/tII], § 204, Jan. 5, 1971, [84 Stat. 1914][/us/stat/84/1914]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs204
+[/us/pl/91/648/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtII
 [/us/stat/84/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1914
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

@@ -55,7 +55,7 @@
 
         Financial assistance for commercial development under this part shall not be extended until the community economic development program that has applied for assistance under this subchapter has specified in some detail its development goals and its development time­table. The Secretary, in providing continued financial assistance to a community economic development program, shall give serious consideration to the experience such program has had in meeting development goals or in adhering to development timetables.
 
-([Pub. L. 97–35, title VI, § 618][/us/pl/97/35/s618], Aug. 13, 1981, [95 Stat. 491][/us/stat/95/491].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 618, Aug. 13, 1981, [95 Stat. 491][/us/stat/95/491].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs618
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F491
 
 

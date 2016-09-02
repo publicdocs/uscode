@@ -27,15 +27,15 @@
 
     (5) providing training, professional development and support to ensure a well-qualified child welfare workforce.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 421, as added [Pub. L. 109–288, § 6(b)(3)][/us/pl/109/288/s6/b/3], Sept. 28, 2006, [120 Stat. 1244][/us/stat/120/1244].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 421, as added [Pub. L. 109–288][/us/pl/109/288], § 6(b)(3), Sept. 28, 2006, [120 Stat. 1244][/us/stat/120/1244].)
 
  __Prior Provisions__ 
 
-    A prior section 621, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 421, as added [Pub. L. 90–248, title II, § 240(c)][/us/pl/90/248/s240/c], Jan. 2, 1968, [81 Stat. 912][/us/stat/81/912], and amended, which related to allotments to States, was renumbered section 423 of act Aug. 14, 1935, by [Pub. L. 109–288, § 6(b)(2)][/us/pl/109/288/s6/b/2], Sept. 28, 2006, [120 Stat. 1244][/us/stat/120/1244], and transferred to [section 623 of this title][/us/usc/t42/s623].
+    A prior section 621, [act Aug. 14, 1935, ch. 531, title IV][/us/act/1935-08-14/ch531/tIV], § 421, as added [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 240(c), Jan. 2, 1968, [81 Stat. 912][/us/stat/81/912], and amended, which related to allotments to States, was renumbered section 423 of act Aug. 14, 1935, by [Pub. L. 109–288][/us/pl/109/288], § 6(b)(2), Sept. 28, 2006, [120 Stat. 1244][/us/stat/120/1244], and transferred to [section 623 of this title][/us/usc/t42/s623].
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–288, § 12][/us/pl/109/288/s12], Sept. 28, 2006, [120 Stat. 1255][/us/stat/120/1255], provided that:
+[Pub. L. 109–288][/us/pl/109/288], § 12, Sept. 28, 2006, [120 Stat. 1255][/us/stat/120/1255], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -51,13 +51,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–248, title II, § 240(e)(2)][/us/pl/90/248/s240/e/2], Jan. 2, 1968, [81 Stat. 915][/us/stat/81/915], provided that: 
+[Pub. L. 90–248, title II][/us/pl/90/248/tII], § 240(e)(2), Jan. 2, 1968, [81 Stat. 915][/us/stat/81/915], provided that: 
 
 > “Part B of title IV of the Social Security Act (as added by subsection (c) of this section) \[[42 U.S.C. 620][/us/usc/t42/s620] et seq.\], and the amendments made by subsections (a) and (b) of this section \[amending subchapter IV and enacting part A heading\] shall become effective on the date this Act is enacted \[Jan. 2, 1968\].”
 
  __Findings__ 
 
-[Pub. L. 109–288, § 2][/us/pl/109/288/s2], Sept. 28, 2006, [120 Stat. 1233][/us/stat/120/1233], provided that: 
+[Pub. L. 109–288][/us/pl/109/288], § 2, Sept. 28, 2006, [120 Stat. 1233][/us/stat/120/1233], provided that: 
 
 > “The Congress finds as follows:
 
@@ -95,15 +95,15 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/109/288/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Fb%2F3
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1244
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s240/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fc
+[/us/act/1935-08-14/ch531/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIV
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F912
-[/us/pl/109/288/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Fb%2F2
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1244
 [/us/usc/t42/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs623
-[/us/pl/109/288/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs12
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1255
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
@@ -111,10 +111,10 @@
 [/us/usc/t42/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629
 [/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/stat/120/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1235
-[/us/pl/90/248/s240/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fe%2F2
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F915
 [/us/usc/t42/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs620
-[/us/pl/109/288/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs2
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1233
 
 

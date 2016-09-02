@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–199, div. G, title II, § 216(3)][/us/pl/108/199/s216/3], Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394], substituted “UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS” for “INTERAGENCY COUNCIL ON THE HOMELESS” in subchapter heading.
+    2004—[Pub. L. 108–199, div. G, title II][/us/pl/108/199/dG/tII], § 216(3), Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394], substituted “UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS” for “INTERAGENCY COUNCIL ON THE HOMELESS” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/199/s216/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs216%2F3
+[/us/pl/108/199/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtII
 [/us/stat/118/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F394
 
 

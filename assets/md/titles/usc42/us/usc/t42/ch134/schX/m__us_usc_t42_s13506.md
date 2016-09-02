@@ -37,7 +37,7 @@
 
     (3) the term “United States” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other territory or possession of the United States.
 
-([Pub. L. 102–486, title XXII, § 2206][/us/pl/102/486/s2206], Oct. 24, 1992, [106 Stat. 3091][/us/stat/106/3091].)
+([Pub. L. 102–486, title XXII][/us/pl/102/486/tXXII], § 2206, Oct. 24, 1992, [106 Stat. 3091][/us/stat/106/3091].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2206
+[/us/pl/102/486/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXII
 [/us/stat/106/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3091
 
 

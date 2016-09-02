@@ -29,7 +29,7 @@
 
         (3) the supply of excess generated power to the power grid.
 
-([Pub. L. 109–58, title IX, § 923][/us/pl/109/58/s923], Aug. 8, 2005, [119 Stat. 865][/us/stat/119/865].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 923, Aug. 8, 2005, [119 Stat. 865][/us/stat/119/865].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs923
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F865
 
 

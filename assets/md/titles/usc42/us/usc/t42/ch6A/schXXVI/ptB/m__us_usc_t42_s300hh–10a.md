@@ -71,7 +71,7 @@
 
         The Advisory Committee shall terminate on September 30, 2018.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2811A, as added [Pub. L. 113–5, title I, § 103][/us/pl/113/5/s103], Mar. 13, 2013, [127 Stat. 168][/us/stat/127/168].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2811A, as added [Pub. L. 113–5, title I][/us/pl/113/5/tI], § 103, Mar. 13, 2013, [127 Stat. 168][/us/stat/127/168].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t42/s300hh–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9316
 [/us/usc/t42/s300hh–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/113/5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs103
+[/us/pl/113/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtI
 [/us/stat/127/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F168
 
 

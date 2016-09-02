@@ -17,7 +17,7 @@
 
     The Surgeon General shall transmit to the Secretary, for submission to the Congress, on January 1, 1995, and on January 1, every 2 years thereafter, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 239, formerly title V, § 511, [58 Stat. 711][/us/stat/58/711]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; renumbered title XXI, § 2111, [Pub. L. 98–24, § 2(a)(1)][/us/pl/98/24/s2/a/1], Apr. 26, 1983, [97 Stat. 176][/us/stat/97/176]; renumbered title XXIII, § 2311, [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3755][/us/stat/100/3755]; renumbered title XXV, § 2509, [Pub. L. 100–607, title II, § 201(1)][/us/pl/100/607/s201/1], (3), Nov. 4, 1988, [102 Stat. 3062][/us/stat/102/3062], 3063; renumbered title XXVI, § 2609, [Pub. L. 100–690, title II, § 2620(a)][/us/pl/100/690/s2620/a], Nov. 18, 1988, [102 Stat. 4244][/us/stat/102/4244]; renumbered title XXVII, § 2709, [Pub. L. 101–381, title I, § 101(1)][/us/pl/101/381/s101/1], (2), Aug. 18, 1990, [104 Stat. 576][/us/stat/104/576]; renumbered title II, § 239, [Pub. L. 103–43, title XX, § 2010(a)(1)][/us/pl/103/43/s2010/a/1]–(3), June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 104–66, title I, § 1062(a)][/us/pl/104/66/s1062/a], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 239, formerly title V, § 511, [58 Stat. 711][/us/stat/58/711]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; renumbered title XXI, § 2111, [Pub. L. 98–24][/us/pl/98/24], § 2(a)(1), Apr. 26, 1983, [97 Stat. 176][/us/stat/97/176]; renumbered title XXIII, § 2311, [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3755][/us/stat/100/3755]; renumbered title XXV, § 2509, [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(1), (3), Nov. 4, 1988, [102 Stat. 3062][/us/stat/102/3062], 3063; renumbered title XXVI, § 2609, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2620(a), Nov. 18, 1988, [102 Stat. 4244][/us/stat/102/4244]; renumbered title XXVII, § 2709, [Pub. L. 101–381, title I][/us/pl/101/381/tI], § 101(1), (2), Aug. 18, 1990, [104 Stat. 576][/us/stat/104/576]; renumbered title II, § 239, [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2010(a)(1)–(3), June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1062(a), Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Agency Reporting Requirements; Report by Secretary of Health, Education, and Welfare to Congressional Committees Relating to Requirements, Termination, etc.__ 
 
-    [Pub. L. 93–641, § 7][/us/pl/93/641/s7], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, due date, etc., of certain reports required under the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
+    [Pub. L. 93–641][/us/pl/93/641], § 7, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, due date, etc., of certain reports required under the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
 
 ----------
 
@@ -51,19 +51,19 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F711
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/98/24/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fa%2F1
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F176
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3755
-[/us/pl/100/607/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F1
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3062
-[/us/pl/100/690/s2620/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2620%2Fa
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4244
-[/us/pl/101/381/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs101%2F1
+[/us/pl/101/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtI
 [/us/stat/104/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F576
-[/us/pl/103/43/s2010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fa%2F1
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F213
-[/us/pl/104/66/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1062%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F720
 [/us/usc/t42/s300aaa–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aaa%E2%80%938
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
@@ -84,7 +84,7 @@
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/93/641/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs7
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 
 

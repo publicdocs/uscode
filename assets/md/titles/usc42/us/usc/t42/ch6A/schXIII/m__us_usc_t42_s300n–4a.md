@@ -43,7 +43,7 @@
 
             The authorization of appropriations established in paragraph (1) is not effective for a fiscal year unless the amount appropriated under [section 300n–5(a) of this title][/us/usc/t42/s300n–5/a] for the fiscal year is equal to or greater than $100,000,000.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XV, § 1509, as added [Pub. L. 103–183, title I, § 102(a)(2)][/us/pl/103/183/s102/a/2], Dec. 14, 1993, [107 Stat. 2229][/us/stat/107/2229]; amended [Pub. L. 105–340, title II, § 203(c)(1)][/us/pl/105/340/s203/c/1], Oct. 31, 1998, [112 Stat. 3194][/us/stat/112/3194].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XV, § 1509, as added [Pub. L. 103–183, title I][/us/pl/103/183/tI], § 102(a)(2), Dec. 14, 1993, [107 Stat. 2229][/us/stat/107/2229]; amended [Pub. L. 105–340, title II][/us/pl/105/340/tII], § 203(c)(1), Oct. 31, 1998, [112 Stat. 3194][/us/stat/112/3194].)
 
  __Prior Provisions__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t42/s300k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300k
 [/us/usc/t42/s300n–5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300n%E2%80%935%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/183/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs102%2Fa%2F2
+[/us/pl/103/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtI
 [/us/stat/107/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2229
-[/us/pl/105/340/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs203%2Fc%2F1
+[/us/pl/105/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2FtII
 [/us/stat/112/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3194
 [/us/usc/t42/s300n–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300n%E2%80%935
 [/us/pl/105/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340

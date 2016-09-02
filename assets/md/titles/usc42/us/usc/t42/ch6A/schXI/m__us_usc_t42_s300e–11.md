@@ -33,15 +33,15 @@
 
         (2) If the Secretary makes, with respect to an entity which has received a grant, contract, loan, or loan guarantee under this subchapter, a determination described in subsection (a) of this section, the Secretary may, in addition to any other remedies available to him, bring a civil action in the United States district court for the district in which such entity is located to enforce its compliance with the assurances it furnished respecting the provision of basic and supplemental health services or its organization or operation, as the case may be, which assurances were made in connection with its application under this subchapter for the grant, contract, loan, or loan guarantee.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1312, as added [Pub. L. 93–222, § 2][/us/pl/93/222/s2], Dec. 29, 1973, [87 Stat. 931][/us/stat/87/931]; amended [Pub. L. 94–460, title I, § 111][/us/pl/94/460/s111], Oct. 8, 1976, [90 Stat. 1952][/us/stat/90/1952]; [Pub. L. 95–559, § 12(a)(2)][/us/pl/95/559/s12/a/2], Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 97–35, title IX, § 949(a)][/us/pl/97/35/s949/a], Aug. 13, 1981, [95 Stat. 578][/us/stat/95/578].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1312, as added [Pub. L. 93–222][/us/pl/93/222], § 2, Dec. 29, 1973, [87 Stat. 931][/us/stat/87/931]; amended [Pub. L. 94–460, title I][/us/pl/94/460/tI], § 111, Oct. 8, 1976, [90 Stat. 1952][/us/stat/90/1952]; [Pub. L. 95–559][/us/pl/95/559], § 12(a)(2), Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 949(a), Aug. 13, 1981, [95 Stat. 578][/us/stat/95/578].)
 
  __References in Text__ 
 
-    [Section 300e–9(d)(1) of this title][/us/usc/t42/s300e–9/d/1], referred to in subsec. (b)(1), was redesignated [section 300e–9(c)(1) of this title][/us/usc/t42/s300e–9/c/1] by [Pub. L. 100–517, § 7(b)][/us/pl/100/517/s7/b], Oct. 24, 1988, [102 Stat. 2580][/us/stat/102/2580].
+    [Section 300e–9(d)(1) of this title][/us/usc/t42/s300e–9/d/1], referred to in subsec. (b)(1), was redesignated [section 300e–9(c)(1) of this title][/us/usc/t42/s300e–9/c/1] by [Pub. L. 100–517][/us/pl/100/517], § 7(b), Oct. 24, 1988, [102 Stat. 2580][/us/stat/102/2580].
 
  __Prior Provisions__ 
 
-    A prior section 1312 of act July 1, 1944, was classified to [section 212a of this title][/us/usc/t42/s212a] prior to repeal by [Pub. L. 93–222, § 7(b)][/us/pl/93/222/s7/b].
+    A prior section 1312 of act July 1, 1944, was classified to [section 212a of this title][/us/usc/t42/s212a] prior to repeal by [Pub. L. 93–222][/us/pl/93/222], § 7(b).
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 
     1978—Subsec. (c). [Pub. L. 95–559][/us/pl/95/559] struck out subsec. (c) which provided that the Secretary, acting through the Assistant Secretary for Health, administer subsections (a) and (b) of this section in the Office of the Assistant Secretary for Health.
 
-    1976—Subsec. (a). [Pub. L. 94–460, § 111(a)][/us/pl/94/460/s111/a], substituted “the Secretary may take the action authorized by subsection (b) of this section” for “the Secretary may, in addition to any other remedies available to him, bring a civil action in the United States district court for the district in which such entity is located to enforce its compliance with any assurances it furnished him respecting the provision of basic and supplemental health services or its organization or operation, as the case may be, which assurances were made under [section 300e–9 of this title][/us/usc/t42/s300e–9] or when application was made under this subchapter for a grant, contract, loan, or loan guarantee”.
+    1976—Subsec. (a). [Pub. L. 94–460][/us/pl/94/460], § 111(a), substituted “the Secretary may take the action authorized by subsection (b) of this section” for “the Secretary may, in addition to any other remedies available to him, bring a civil action in the United States district court for the district in which such entity is located to enforce its compliance with any assurances it furnished him respecting the provision of basic and supplemental health services or its organization or operation, as the case may be, which assurances were made under [section 300e–9 of this title][/us/usc/t42/s300e–9] or when application was made under this subchapter for a grant, contract, loan, or loan guarantee”.
 
-    Subsecs. (b), (c). [Pub. L. 94–460, § 111(b)][/us/pl/94/460/s111/b], (c), added subsec. (b), redesignated former subsec. (b) as (c), and substituted “acting through the Assistant Secretary for Health, shall administer subsections (a) and (b) of this section” for “through the Assistant Secretary for Health, shall administer subsection (a) of this section”.
+    Subsecs. (b), (c). [Pub. L. 94–460][/us/pl/94/460], § 111(b), (c), added subsec. (b), redesignated former subsec. (b) as (c), and substituted “acting through the Assistant Secretary for Health, shall administer subsections (a) and (b) of this section” for “through the Assistant Secretary for Health, shall administer subsection (a) of this section”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -70,25 +70,25 @@
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F931
-[/us/pl/94/460/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs111
+[/us/pl/94/460/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2FtI
 [/us/stat/90/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1952
-[/us/pl/95/559/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs12%2Fa%2F2
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2140
-[/us/pl/97/35/s949/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs949%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F578
 [/us/usc/t42/s300e–9/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fd%2F1
 [/us/usc/t42/s300e–9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fc%2F1
-[/us/pl/100/517/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs7%2Fb
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
 [/us/stat/102/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2580
 [/us/usc/t42/s212a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212a
-[/us/pl/93/222/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs7%2Fb
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
-[/us/pl/94/460/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs111%2Fa
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
-[/us/pl/94/460/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs111%2Fb
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
 [/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
 [/us/pl/94/460/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs118
 [/us/usc/t42/s300e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e

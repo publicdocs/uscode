@@ -17,7 +17,7 @@
 
     Each recipient of assistance under this part shall keep such records, provide such reports, and furnish such access to books and records as the Secretary may by rule prescribe.
 
-([Pub. L. 94–163, title III, § 400][/us/pl/94/163/s400], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3247][/us/stat/92/3247]; amended [Pub. L. 105–388, § 5(a)(11)][/us/pl/105/388/s5/a/11], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3247][/us/stat/92/3247]; amended [Pub. L. 105–388][/us/pl/105/388], § 5(a)(11), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/94/163/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3247
-[/us/pl/105/388/s5/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F11
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 

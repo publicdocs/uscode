@@ -77,7 +77,7 @@
 
         The term “remanufactured product” means a rechargeable consumer product that has been altered by the replacement of parts, repackaged, or repaired after initial sale by the original manufacturer.
 
-([Pub. L. 104–142, § 3][/us/pl/104/142/s3], May 13, 1996, [110 Stat. 1329][/us/stat/110/1329].)
+([Pub. L. 104–142][/us/pl/104/142], § 3, May 13, 1996, [110 Stat. 1329][/us/stat/110/1329].)
 
 ----------
 
@@ -88,7 +88,7 @@
 
 [/us/usc/t42/s14322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14322
 [/us/usc/t42/s14322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14322%2Fd
-[/us/pl/104/142/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs3
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1329
 
 

@@ -69,7 +69,7 @@
 
         Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee.
 
-([Pub. L. 107–368, § 23][/us/pl/107/368/s23], Dec. 19, 2002, [116 Stat. 3065][/us/stat/116/3065]; [Pub. L. 108–423, § 5(a)][/us/pl/108/423/s5/a], Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402].)
+([Pub. L. 107–368][/us/pl/107/368], § 23, Dec. 19, 2002, [116 Stat. 3065][/us/stat/116/3065]; [Pub. L. 108–423][/us/pl/108/423], § 5(a), Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402].)
 
  __References in Text__ 
 
@@ -81,15 +81,15 @@
 
  __Amendments__ 
 
-    2004—Subsecs. (a), (b)(1), (2). [Pub. L. 108–423, § 5(a)(1)][/us/pl/108/423/s5/a/1], substituted “, the National Aeronautics and Space Administration, and the Department of Energy” for “and the National Aeronautics and Space Administration”.
+    2004—Subsecs. (a), (b)(1), (2). [Pub. L. 108–423][/us/pl/108/423], § 5(a)(1), substituted “, the National Aeronautics and Space Administration, and the Department of Energy” for “and the National Aeronautics and Space Administration”.
 
-    Subsec. (b)(3). [Pub. L. 108–423, § 5(a)(2)][/us/pl/108/423/s5/a/2], substituted “Administration, the Secretary of Energy,” for “Administration, and”.
+    Subsec. (b)(3). [Pub. L. 108–423][/us/pl/108/423], § 5(a)(2), substituted “Administration, the Secretary of Energy,” for “Administration, and”.
 
-    Subsec. (c)(1), (2). [Pub. L. 108–423, § 5(a)(3)(A)][/us/pl/108/423/s5/a/3/A], substituted “4” for “5”.
+    Subsec. (c)(1), (2). [Pub. L. 108–423][/us/pl/108/423], § 5(a)(3)(A), substituted “4” for “5”.
 
-    Subsec. (c)(3), (4). [Pub. L. 108–423, § 5(a)(3)(B)][/us/pl/108/423/s5/a/3/B]–(D), added par. (3) and redesignated former par. (3) as (4) and substituted “2” for “3”.
+    Subsec. (c)(3), (4). [Pub. L. 108–423][/us/pl/108/423], § 5(a)(3)(B)–(D), added par. (3) and redesignated former par. (3) as (4) and substituted “2” for “3”.
 
-    Subsec. (f). [Pub. L. 108–423, § 5(a)(4)][/us/pl/108/423/s5/a/4], substituted “other Federal advisory committees that advise Federal agencies that engage in related research activities” for “the advisory bodies of other Federal agencies, such as the Department of Energy, which may engage in related research activities”.
+    Subsec. (f). [Pub. L. 108–423][/us/pl/108/423], § 5(a)(4), substituted “other Federal advisory committees that advise Federal agencies that engage in related research activities” for “the advisory bodies of other Federal agencies, such as the Department of Energy, which may engage in related research activities”.
 
  __Change of Name__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–423, § 5(b)][/us/pl/108/423/s5/b], Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402], provided that: 
+[Pub. L. 108–423][/us/pl/108/423], § 5(b), Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] take effect on March 15, 2005.”
 
@@ -112,17 +112,17 @@
 ----------
 ----------
 
-[/us/pl/107/368/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs23
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3065
-[/us/pl/108/423/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs5%2Fa
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2402
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
-[/us/pl/108/423/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs5%2Fa%2F1
-[/us/pl/108/423/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs5%2Fa%2F2
-[/us/pl/108/423/s5/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs5%2Fa%2F3%2FA
-[/us/pl/108/423/s5/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs5%2Fa%2F3%2FB
-[/us/pl/108/423/s5/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs5%2Fa%2F4
-[/us/pl/108/423/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs5%2Fb
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2402
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4
 [/us/usc/t42/s1862n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n

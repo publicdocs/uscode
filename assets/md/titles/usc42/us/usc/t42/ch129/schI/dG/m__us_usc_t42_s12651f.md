@@ -115,11 +115,11 @@
 
         The Corporation may enter into personal services contracts to carry out research, evaluation, and public awareness related to the national service laws.
 
-([Pub. L. 101–610, title I, § 195][/us/pl/101/610/s195], as added and amended [Pub. L. 103–82, title II][/us/pl/103/82], §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 883][/us/stat/107/883], 891; [Pub. L. 111–13, title I, § 1706][/us/pl/111/13/s1706], Apr. 21, 2009, [123 Stat. 1547][/us/stat/123/1547].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195, as added and amended [Pub. L. 103–82, title II][/us/pl/103/82/tII], §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 883][/us/stat/107/883], 891; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1706, Apr. 21, 2009, [123 Stat. 1547][/us/stat/123/1547].)
 
  __References in Text__ 
 
-    Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is [section 8E of Pub. L. 95–452][/us/pl/95/452/s8E], as added by [Pub. L. 103–82, title II, § 202(g)(1)][/us/pl/103/82/s202/g/1], Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], which was renumbered section 8F of the Act by [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], and is set out in the Appendix to Title 5, Government Organization and Employees.
+    Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is [section 8E of Pub. L. 95–452][/us/pl/95/452/s8E], as added by [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(1), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], which was renumbered section 8F of the Act by [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], and is set out in the Appendix to Title 5, Government Organization and Employees.
 
     Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (c)(2)(C), is [section 203(c)(2) of Pub. L. 103–82][/us/pl/103/82/s203/c/2], which is set out as a note under [section 12651 of this title][/us/usc/t42/s12651]. For the effective date of section 203(c)(2) of this Act, see [section 203(d) of Pub. L. 103–82][/us/pl/103/82/s203/d], set out as an Effective Date of 1993 Amendment note under [section 12651 of this title][/us/usc/t42/s12651].
 
@@ -131,13 +131,13 @@
 
  __Amendments__ 
 
-    2009—Subsec. (c)(2)(B). [Pub. L. 111–13, § 1706(1)(A)][/us/pl/111/13/s1706/1/A], inserted “territory,” after “subdivision of a State,”.
+    2009—Subsec. (c)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1706(1)(A), inserted “territory,” after “subdivision of a State,”.
 
-    Subsec. (c)(3). [Pub. L. 111–13, § 1706(1)(B)][/us/pl/111/13/s1706/1/B], substituted “Nonvoting member” for “Member” in heading and inserted “nonvoting” before “member” in text.
+    Subsec. (c)(3). [Pub. L. 111–13][/us/pl/111/13], § 1706(1)(B), substituted “Nonvoting member” for “Member” in heading and inserted “nonvoting” before “member” in text.
 
-    Subsec. (g). [Pub. L. 111–13, § 1706(2)][/us/pl/111/13/s1706/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–13][/us/pl/111/13], § 1706(2), added subsec. (g).
 
-    1993—Subsecs. (c)(1), (e). [Pub. L. 103–82, § 203(a)(1)(B)][/us/pl/103/82/s203/a/1/B], which directed amendment of section 195(c) and (e) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsecs. (c)(1) and (e) of this section, which is section 195 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+    1993—Subsecs. (c)(1), (e). [Pub. L. 103–82][/us/pl/103/82], § 203(a)(1)(B), which directed amendment of section 195(c) and (e) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsecs. (c)(1) and (e) of this section, which is section 195 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -168,15 +168,15 @@
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t42/s12651b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651b%2Fd
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/101/610/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195
-[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F883
-[/us/pl/111/13/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1706
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1547
 [/us/pl/95/452/s8E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8E
-[/us/pl/103/82/s202/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F1
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F889
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
 [/us/pl/103/82/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fc%2F2
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
@@ -188,10 +188,10 @@
 [/us/pl/101/610/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s12611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12611
-[/us/pl/111/13/s1706/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1706%2F1%2FA
-[/us/pl/111/13/s1706/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1706%2F1%2FB
-[/us/pl/111/13/s1706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1706%2F2
-[/us/pl/103/82/s203/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fa%2F1%2FB
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

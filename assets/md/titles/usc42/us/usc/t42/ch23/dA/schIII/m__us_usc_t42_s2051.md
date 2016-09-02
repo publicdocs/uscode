@@ -47,11 +47,11 @@
 
         The arrangements made pursuant to this section shall contain such provisions (1) to protect health, (2) to minimize danger to life or property, and (3) to require the reporting and to permit the inspection of work performed thereunder, as the Commission may determine. No such arrangement shall contain any provisions or conditions which prevent the dissemination of scientific or technical information, except to the extent such dissemination is prohibited by law.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 31, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 927][/us/stat/68/927]; amended [Aug. 6, 1956, ch. 1015][/us/act/1956-08-06/ch1015], §§ 2, 3, [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 91–560, § 1][/us/pl/91/560/s1], Dec. 19, 1970, [84 Stat. 1472][/us/stat/84/1472]; [Pub. L. 92–84, title II, § 201(a)][/us/pl/92/84/s201/a], Aug. 11, 1971, [85 Stat. 307][/us/stat/85/307]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI, § 651(c)(1)][/us/pl/109/58/s651/c/1], Aug. 8, 2005, [119 Stat. 801][/us/stat/119/801].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 31, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 927][/us/stat/68/927]; amended [Aug. 6, 1956, ch. 1015][/us/act/1956-08-06/ch1015], §§ 2, 3, [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 91–560][/us/pl/91/560], § 1, Dec. 19, 1970, [84 Stat. 1472][/us/stat/84/1472]; [Pub. L. 92–84, title II][/us/pl/92/84/tII], § 201(a), Aug. 11, 1971, [85 Stat. 307][/us/stat/85/307]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 651(c)(1), Aug. 8, 2005, [119 Stat. 801][/us/stat/119/801].)
 
  __Codification__ 
 
-    In subsec. (c)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
@@ -71,11 +71,11 @@
 
  __Three Mile Island Nuclear Station, Pa.; Feasibility of Epidemiological Research on Health Effects of Low-Level Radiation; Report to Congress__ 
 
-    [Pub. L. 96–295, title III, § 308(a)][/us/pl/96/295/s308/a], June 30, 1980, [94 Stat. 792][/us/stat/94/792], provided that in the conduct of the study required by [Pub. L. 95–601, § 5(d)][/us/pl/95/601/s5/d], Nov. 6, 1978, [92 Stat. 2949][/us/stat/92/2949], on options for Federal epidemiological research on the health effects of low-level ionizing radiation, set out below, the Nuclear Regulatory Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, evaluate the feasibility of epidemiological research on the health effects of low-level ionizing radiation exposure to licensee, contractor, and subcontractor employees as a result of the accident of March 28, 1979, at unit two of the Three Mile Island Nuclear Station in Pennsylvania, the efforts to stabilize such facility or reduce or prevent radioactive unplanned offsite releases in excess of allowable limits for normal operation established by the Commission, or efforts to decontaminate, decommission, or repair such facility, with the report required by such [section 5(d) of Pub. L. 95–601][/us/pl/95/601/s5/d] to include the results of this evaluation.
+    [Pub. L. 96–295, title III][/us/pl/96/295/tIII], § 308(a), June 30, 1980, [94 Stat. 792][/us/stat/94/792], provided that in the conduct of the study required by [Pub. L. 95–601][/us/pl/95/601], § 5(d), Nov. 6, 1978, [92 Stat. 2949][/us/stat/92/2949], on options for Federal epidemiological research on the health effects of low-level ionizing radiation, set out below, the Nuclear Regulatory Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, evaluate the feasibility of epidemiological research on the health effects of low-level ionizing radiation exposure to licensee, contractor, and subcontractor employees as a result of the accident of March 28, 1979, at unit two of the Three Mile Island Nuclear Station in Pennsylvania, the efforts to stabilize such facility or reduce or prevent radioactive unplanned offsite releases in excess of allowable limits for normal operation established by the Commission, or efforts to decontaminate, decommission, or repair such facility, with the report required by such [section 5(d) of Pub. L. 95–601][/us/pl/95/601/s5/d] to include the results of this evaluation.
 
  __Study on Health Effects of Low-Level Radiation; Report to Congress__ 
 
-    [Pub. L. 95–601, § 5][/us/pl/95/601/s5], Nov. 6, 1978, [92 Stat. 2949][/us/stat/92/2949], as amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–295, title III, § 308(b)][/us/pl/96/295/s308/b], June 30, 1980, [94 Stat. 792][/us/stat/94/792], provided that the Nuclear Regulatory Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, conduct preliminary planning and design studies for epidemiological research on the health effects of low-level ionizing radiation, within thirty days after Nov. 6, 1978, the Commission and the Environmental Protection Agency submit to the Congress a memorandum of understanding to delineate their responsibilities in the conduct of the planning studies, on or before Apr. 1, 1979, the Commission and the Environmental Protection Agency submit a report to the Congress containing an assessment of the capabilities and research needs of such agencies in the area of health effects of low-level ionizing radiation, and on or before Sept. 30, 1980, the Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, submit a report to the Congress which includes a study of options for Federal epidemiological research on the health effects of low-level ionizing radiation with evaluations of the feasibility of such options.
+    [Pub. L. 95–601][/us/pl/95/601], § 5, Nov. 6, 1978, [92 Stat. 2949][/us/stat/92/2949], as amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–295, title III][/us/pl/96/295/tIII], § 308(b), June 30, 1980, [94 Stat. 792][/us/stat/94/792], provided that the Nuclear Regulatory Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, conduct preliminary planning and design studies for epidemiological research on the health effects of low-level ionizing radiation, within thirty days after Nov. 6, 1978, the Commission and the Environmental Protection Agency submit to the Congress a memorandum of understanding to delineate their responsibilities in the conduct of the planning studies, on or before Apr. 1, 1979, the Commission and the Environmental Protection Agency submit a report to the Congress containing an assessment of the capabilities and research needs of such agencies in the area of health effects of low-level ionizing radiation, and on or before Sept. 30, 1980, the Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, submit a report to the Congress which includes a study of options for Federal epidemiological research on the health effects of low-level ionizing radiation with evaluations of the feasibility of such options.
 
 ----------
 
@@ -87,35 +87,35 @@
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F927
 [/us/act/1956-08-06/ch1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1015
 [/us/stat/70/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1069
-[/us/pl/91/560/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560%2Fs1
+[/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/stat/84/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1472
-[/us/pl/92/84/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F84%2Fs201%2Fa
+[/us/pl/92/84/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F84%2FtII
 [/us/stat/85/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F307
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/109/58/s651/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fc%2F1
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F801
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s1803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1803%2Fa
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/92/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F84
 [/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
-[/us/pl/96/295/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2Fs308%2Fa
+[/us/pl/96/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2FtIII
 [/us/stat/94/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F792
-[/us/pl/95/601/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs5%2Fd
+[/us/pl/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601
 [/us/stat/92/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2949
 [/us/pl/95/601/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs5%2Fd
-[/us/pl/95/601/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs5
+[/us/pl/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601
 [/us/stat/92/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2949
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/96/295/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2Fs308%2Fb
+[/us/pl/96/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2FtIII
 [/us/stat/94/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F792
 
 

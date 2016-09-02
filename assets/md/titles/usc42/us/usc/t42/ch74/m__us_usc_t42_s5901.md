@@ -27,17 +27,17 @@
 
     (e) The Nation’s future energy needs can be met if a national commitment is made now to dedicate the necessary financial resources, to enlist our scientific and technological capabilities, and to accord the proper priority to developing new nonnuclear energy options to serve national needs, conserve vital resources, and protect the environment.
 
-([Pub. L. 93–577, § 2][/us/pl/93/577/s2], Dec. 31, 1974, [88 Stat. 1879][/us/stat/88/1879].)
+([Pub. L. 93–577][/us/pl/93/577], § 2, Dec. 31, 1974, [88 Stat. 1879][/us/stat/88/1879].)
 
  __Short Title__ 
 
-[Pub. L. 93–577, § 1(a)][/us/pl/93/577/s1/a], as added [Pub. L. 109–58, title X, § 1009(b)(1)][/us/pl/109/58/s1009/b/1], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934], provided that: 
+[Pub. L. 93–577][/us/pl/93/577], § 1(a), as added [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(1), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Federal Nonnuclear Energy Research and Development Act of 1974’.”
 
  __Definitions__ 
 
-[Pub. L. 93–577, § 1(b)][/us/pl/93/577/s1/b], as added [Pub. L. 109–58, title X, § 1009(b)(1)][/us/pl/109/58/s1009/b/1], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934], provided that: 
+[Pub. L. 93–577][/us/pl/93/577], § 1(b), as added [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(1), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934], provided that: 
 
 > “In this Act \[enacting this chapter\]:
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/93/577/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs2
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1879
-[/us/pl/93/577/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs1%2Fa
-[/us/pl/109/58/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F1
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
-[/us/pl/93/577/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs1%2Fb
-[/us/pl/109/58/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F1
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
 
 

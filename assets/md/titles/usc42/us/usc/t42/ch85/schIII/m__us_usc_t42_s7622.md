@@ -59,7 +59,7 @@
 
         Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from his employer (or the employer’s agent), deliberately causes a violation of any requirement of this chapter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 322, as added [Pub. L. 95–95, title III, § 312][/us/pl/95/95/s312], Aug. 7, 1977, [91 Stat. 783][/us/stat/91/783].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 322, as added [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 312, Aug. 7, 1977, [91 Stat. 783][/us/stat/91/783].)
 
  __Effective Date__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs312
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F783
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

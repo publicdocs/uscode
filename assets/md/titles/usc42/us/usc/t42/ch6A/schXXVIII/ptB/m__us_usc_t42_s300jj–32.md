@@ -125,7 +125,7 @@
 
             After the second year of assistance under this subsection, a regional center may receive additional support under this subsection if it has received positive evaluations and a finding by the Secretary that continuation of Federal funding to the center was in the best interest of provision of health information technology extension services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3012, as added [Pub. L. 111–5, div. A, title XIII, § 13301][/us/pl/111/5/s13301], Feb. 17, 2009, [123 Stat. 247][/us/stat/123/247].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3012, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13301, Feb. 17, 2009, [123 Stat. 247][/us/stat/123/247].)
 
 ----------
 
@@ -139,7 +139,7 @@
 [/us/usc/t42/s300jj–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9311
 [/us/usc/t42/s1395x/aa/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13301
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F247
 
 

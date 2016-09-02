@@ -135,7 +135,7 @@
 
             To receive a grant under this subsection, the applicant must provide assurances that the amounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
 
-([Pub. L. 90–351, title I, § 104][/us/pl/90/351/s104], as added [Pub. L. 109–162, title XI, § 1121(a)][/us/pl/109/162/s1121/a], Jan. 5, 2006, [119 Stat. 3104][/us/stat/119/3104].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 104, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1121(a), Jan. 5, 2006, [119 Stat. 3104][/us/stat/119/3104].)
 
  __Effective Date__ 
 
@@ -149,8 +149,8 @@
 ----------
 
 [/us/usc/t42/s3712a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712a%2Fc
-[/us/pl/90/351/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs104
-[/us/pl/109/162/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1121%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3104
 [/us/pl/109/162/s1121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1121%2Fc
 [/us/usc/t42/s3712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3712a

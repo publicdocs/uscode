@@ -19,7 +19,7 @@
 
     (b) No part of any allocation made by the President under this chapter shall be made available for any planning or construction, directly or indirectly, of any school or other educational facility.
 
-([Pub. L. 87–658, § 4][/us/pl/87/658/s4], Sept. 14, 1962, [76 Stat. 543][/us/stat/76/543].)
+([Pub. L. 87–658][/us/pl/87/658], § 4, Sept. 14, 1962, [76 Stat. 543][/us/stat/76/543].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/87/658/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658%2Fs4
+[/us/pl/87/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658
 [/us/stat/76/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F543
 
 

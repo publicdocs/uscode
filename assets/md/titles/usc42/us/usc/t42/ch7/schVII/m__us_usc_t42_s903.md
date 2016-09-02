@@ -117,7 +117,7 @@
 
         There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 703, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(c), (d), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 98–369, div. B, title VI, § 2663][/us/pl/98/369/s2663](l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 103–296, title I, § 103][/us/pl/103/296/s103], Aug. 15, 1994, [108 Stat. 1467][/us/stat/108/1467]; [Pub. L. 104–121, title I, § 108][/us/pl/104/121/s108], Mar. 29, 1996, [110 Stat. 857][/us/stat/110/857]; [Pub. L. 105–33, title V, § 5526][/us/pl/105/33/s5526], Aug. 5, 1997, [111 Stat. 625][/us/stat/111/625]; [Pub. L. 106–169, title II, § 251(b)(4)][/us/pl/106/169/s251/b/4], Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855]; [Pub. L. 108–203, title IV, § 417(a)][/us/pl/108/203/s417/a], Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 703, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(c), (d), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 103, Aug. 15, 1994, [108 Stat. 1467][/us/stat/108/1467]; [Pub. L. 104–121, title I][/us/pl/104/121/tI], § 108, Mar. 29, 1996, [110 Stat. 857][/us/stat/110/857]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5526, Aug. 5, 1997, [111 Stat. 625][/us/stat/111/625]; [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(b)(4), Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855]; [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 417(a), Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530].)
 
  __References in Text__ 
 
@@ -145,13 +145,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title IV, § 417(b)][/us/pl/108/203/s417/b], Mar. 2, 2004, [118 Stat. 531][/us/stat/118/531], provided that: 
+[Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 417(b), Mar. 2, 2004, [118 Stat. 531][/us/stat/118/531], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall be effective as of January 1, 2003.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5528][/us/pl/105/33/s5528], Aug. 5, 1997, [111 Stat. 625][/us/stat/111/625], provided that:
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5528, Aug. 5, 1997, [111 Stat. 625][/us/stat/111/625], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -196,17 +196,17 @@
 [/us/stat/49/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F636
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/98/369/s2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
-[/us/pl/103/296/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs103
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1467
-[/us/pl/104/121/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs108
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F857
-[/us/pl/105/33/s5526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5526
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F625
-[/us/pl/106/169/s251/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F4
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1855
-[/us/pl/108/203/s417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs417%2Fa
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F530
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
@@ -218,9 +218,9 @@
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/108/203/s417/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs417%2Fb
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F531
-[/us/pl/105/33/s5528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5528
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F625
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382

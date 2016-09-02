@@ -57,7 +57,7 @@
 
             The non-Federal share required of each recipient of a grant from a Council under this part may vary.
 
-([Pub. L. 106–402, title I, § 126][/us/pl/106/402/s126], Oct. 30, 2000, [114 Stat. 1710][/us/stat/114/1710].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 126, Oct. 30, 2000, [114 Stat. 1710][/us/stat/114/1710].)
 
 ----------
 
@@ -70,7 +70,7 @@
 [/us/usc/t42/s15022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15022
 [/us/usc/t42/s15004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15004%2Fb
 [/us/usc/t42/s15025/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15025%2Fd%2F4
-[/us/pl/106/402/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs126
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1710
 
 

@@ -51,11 +51,11 @@
 
         (2) Paragraph (1) shall not apply to any proposal for clinical research that, pursuant to subsection (b) of [section 289a–2 of this title][/us/usc/t42/s289a–2], is not subject to the requirement of subsection (a) of such section regarding the inclusion of women and members of minority groups as subjects in clinical research.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 492, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 874][/us/stat/99/874]; amended [Pub. L. 103–43, title I, § 132][/us/pl/103/43/s132], June 10, 1993, [107 Stat. 135][/us/stat/107/135]; [Pub. L. 109–482, title I, § 102(f)(1)(B)][/us/pl/109/482/s102/f/1/B], Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 492, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 874][/us/stat/99/874]; amended [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 132, June 10, 1993, [107 Stat. 135][/us/stat/107/135]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 102(f)(1)(B), Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685].)
 
  __References in Text__ 
 
-    [Section 282(b)(6) of this title][/us/usc/t42/s282/b/6], referred to in subsec. (b), was redesignated section 282(b)(16) by [Pub. L. 109–482, title I, § 102(a)(3)][/us/pl/109/482/s102/a/3], Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681].
+    [Section 282(b)(6) of this title][/us/usc/t42/s282/b/6], referred to in subsec. (b), was redesignated section 282(b)(16) by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 102(a)(3), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681].
 
  __Amendments__ 
 
@@ -77,14 +77,14 @@
 [/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
 [/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F874
-[/us/pl/103/43/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs132
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F135
-[/us/pl/109/482/s102/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Ff%2F1%2FB
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3685
 [/us/usc/t42/s282/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F6
-[/us/pl/109/482/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Fa%2F3
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3681
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43

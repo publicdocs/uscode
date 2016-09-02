@@ -19,7 +19,7 @@
 
     (b) The Chairman of the Council and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of the grant that are pertinent to the determination that funds granted are used in accordance with this chapter.
 
-([Pub. L. 89–80, title III, § 307][/us/pl/89/80/s307], July 22, 1965, [79 Stat. 253][/us/stat/79/253].)
+([Pub. L. 89–80, title III][/us/pl/89/80/tIII], § 307, July 22, 1965, [79 Stat. 253][/us/stat/79/253].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs307
+[/us/pl/89/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIII
 [/us/stat/79/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F253
 
 

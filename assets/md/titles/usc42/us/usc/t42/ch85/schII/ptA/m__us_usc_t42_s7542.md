@@ -31,7 +31,7 @@
 
         Any records, reports, or information obtained under this part or part C of this subchapter shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or a particular portion thereof (other than emission data), to which the Administrator has access under this section, if made public, would divulge methods or processes entitled to protection as trade secrets of that person, the Administrator shall consider the record, report, or information or particular portion thereof confidential in accordance with the purposes of [section 1905 of title 18][/us/usc/t18/s1905]. Any authorized representative of the Administrator shall be considered an employee of the United States for purposes of [section 1905 of title 18][/us/usc/t18/s1905]. Nothing in this section shall prohibit the Administrator or authorized representative of the Administrator from disclosing records, reports or information to other officers, employees or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Administrator or any officer or employee under the Administrator’s control from the duly authorized committees of the Congress.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 208, formerly § 207, as added [Pub. L. 89–272, title I, § 101(8)][/us/pl/89/272/s101/8], Oct. 20, 1965, [79 Stat. 994][/us/stat/79/994]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 501][/us/stat/81/501]; renumbered and amended [Pub. L. 91–604][/us/pl/91/604], §§ 8(a), 10(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694], 1700, 1705, 1713; [Pub. L. 101–549, title II, § 211][/us/pl/101/549/s211], Nov. 15, 1990, [104 Stat. 2487][/us/stat/104/2487].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 208, formerly § 207, as added [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(8), Oct. 20, 1965, [79 Stat. 994][/us/stat/79/994]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 501][/us/stat/81/501]; renumbered and amended [Pub. L. 91–604][/us/pl/91/604], §§ 8(a), 10(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694], 1700, 1705, 1713; [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 211, Nov. 15, 1990, [104 Stat. 2487][/us/stat/104/2487].)
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 208 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148, § 2][/us/pl/90/148/s2], [81 Stat. 501][/us/stat/81/501], was renumbered section 209 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7543 of this title][/us/usc/t42/s7543].
+    A prior section 208 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148][/us/pl/90/148], § 2, [81 Stat. 501][/us/stat/81/501], was renumbered section 209 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7543 of this title][/us/usc/t42/s7543].
 
-    Another prior section 208 of act July 14, 1955, as added Oct. 20, 1965, [Pub. L. 89–272, title I, § 101(8)][/us/pl/89/272/s101/8], [79 Stat. 994][/us/stat/79/994], was renumbered section 212 by [Pub. L. 90–148][/us/pl/90/148], renumbered section 213 by [Pub. L. 91–604][/us/pl/91/604], renumbered 214 by [Pub. L. 93–319][/us/pl/93/319], and renumbered section 216 by [Pub. L. 95–95][/us/pl/95/95], and is classified to [section 7550 of this title][/us/usc/t42/s7550].
+    Another prior section 208 of act July 14, 1955, as added Oct. 20, 1965, [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(8), [79 Stat. 994][/us/stat/79/994], was renumbered section 212 by [Pub. L. 90–148][/us/pl/90/148], renumbered section 213 by [Pub. L. 91–604][/us/pl/91/604], renumbered 214 by [Pub. L. 93–319][/us/pl/93/319], and renumbered section 216 by [Pub. L. 95–95][/us/pl/95/95], and is classified to [section 7550 of this title][/us/usc/t42/s7550].
 
  __Amendments__ 
 
@@ -63,20 +63,20 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/89/272/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F8
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F994
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F501
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1694
-[/us/pl/101/549/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs211
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2487
 [/us/usc/t42/s1857f–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%936
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F501
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543
-[/us/pl/89/272/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F8
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F994
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604

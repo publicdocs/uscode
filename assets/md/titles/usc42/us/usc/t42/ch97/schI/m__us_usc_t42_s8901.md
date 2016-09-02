@@ -45,7 +45,7 @@
 
         For purposes of this subchapter the term “acid precipitation” means the wet or dry deposition from the atmosphere of acid chemical compounds.
 
-([Pub. L. 96–294, title VII, § 702][/us/pl/96/294/s702], June 30, 1980, [94 Stat. 770][/us/stat/94/770].)
+([Pub. L. 96–294, title VII][/us/pl/96/294/tVII], § 702, June 30, 1980, [94 Stat. 770][/us/stat/94/770].)
 
  __Short Title__ 
 
@@ -60,7 +60,7 @@ Section 701 of title VII [Pub. L. 96–294][/us/pl/96/294] provided that:
 ----------
 ----------
 
-[/us/pl/96/294/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs702
+[/us/pl/96/294/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVII
 [/us/stat/94/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F770
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 

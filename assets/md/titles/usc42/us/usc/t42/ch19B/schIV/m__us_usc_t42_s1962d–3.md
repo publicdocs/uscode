@@ -17,7 +17,7 @@
 
     The Council may, with the consent of the head of any other department or agency of the United States, utilize such officers and employees of such agency on a reimbursable basis as are necessary to carry out the provisions of this chapter.
 
-([Pub. L. 89–80, title IV, § 404][/us/pl/89/80/s404], July 22, 1965, [79 Stat. 254][/us/stat/79/254].)
+([Pub. L. 89–80, title IV][/us/pl/89/80/tIV], § 404, July 22, 1965, [79 Stat. 254][/us/stat/79/254].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs404
+[/us/pl/89/80/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIV
 [/us/stat/79/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F254
 
 

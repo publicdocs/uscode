@@ -35,7 +35,7 @@
 
             The term “State” means any of the 50 States, the District of Columbia, or any territory of the United States.
 
-([Pub. L. 104–146, § 8][/us/pl/104/146/s8], May 20, 1996, [110 Stat. 1372][/us/stat/110/1372].)
+([Pub. L. 104–146][/us/pl/104/146], § 8, May 20, 1996, [110 Stat. 1372][/us/stat/110/1372].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/104/146/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs8
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1372
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

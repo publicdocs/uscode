@@ -19,7 +19,7 @@
 
     (b) From each State’s allotment under this section for any fiscal year the Council shall pay to such State an amount which is not more than 50 per centum of the cost of carrying out its State program approved under [section 1962c–2 of this title][/us/usc/t42/s1962c–2], including the cost of training personnel for carrying out such program and the cost of administering such program.
 
-([Pub. L. 89–80, title III, § 302][/us/pl/89/80/s302], July 22, 1965, [79 Stat. 251][/us/stat/79/251].)
+([Pub. L. 89–80, title III][/us/pl/89/80/tIII], § 302, July 22, 1965, [79 Stat. 251][/us/stat/79/251].)
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/usc/t42/s1962c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962c
 [/us/usc/t42/s1962c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962c%E2%80%932
-[/us/pl/89/80/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs302
+[/us/pl/89/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIII
 [/us/stat/79/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F251
 
 

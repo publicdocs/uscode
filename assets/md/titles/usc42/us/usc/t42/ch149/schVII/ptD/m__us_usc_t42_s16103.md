@@ -115,7 +115,7 @@
 
         (3) $750,000 shall be used to carry out subsection (d).
 
-([Pub. L. 109–58, title VII, § 755][/us/pl/109/58/s755], Aug. 8, 2005, [119 Stat. 828][/us/stat/119/828].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 755, Aug. 8, 2005, [119 Stat. 828][/us/stat/119/828].)
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs755
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F828
 
 

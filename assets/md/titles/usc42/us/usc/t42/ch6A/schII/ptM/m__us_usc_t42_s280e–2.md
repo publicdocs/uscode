@@ -17,7 +17,7 @@
 
     The Secretary, acting through the Director of the Centers for Disease Control, may, directly or through grants and contracts, or both, provide technical assistance to the States in the establishment and operation of statewide registries, including assistance in the development of model legislation for statewide cancer registries and assistance in establishing a computerized reporting and data processing system.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399D, formerly § 399J, as added [Pub. L. 102–515, § 3][/us/pl/102/515/s3], Oct. 24, 1992, [106 Stat. 3376][/us/stat/106/3376]; renumbered § 399D, [Pub. L. 106–310, div. A, title V, § 502(2)(A)][/us/pl/106/310/s502/2/A], Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399D, formerly § 399J, as added [Pub. L. 102–515][/us/pl/102/515], § 3, Oct. 24, 1992, [106 Stat. 3376][/us/stat/106/3376]; renumbered § 399D, [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 502(2)(A), Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115].)
 
  __Prior Provisions__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
 ----------
 
@@ -35,12 +35,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/515/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F515%2Fs3
+[/us/pl/102/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F515
 [/us/stat/106/3376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3376
-[/us/pl/106/310/s502/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs502%2F2%2FA
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1115
 [/us/usc/t42/s290bb–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9325
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

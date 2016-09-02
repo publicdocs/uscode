@@ -37,7 +37,7 @@
 
         (7) whether the uranium to be provided is encumbered by any restriction on use under an international agreement or otherwise.
 
-([Pub. L. 113–235, div. D, title III, § 306][/us/pl/113/235/s306], Dec. 16, 2014, [128 Stat. 2324][/us/stat/128/2324].)
+([Pub. L. 113–235, div. D, title III][/us/pl/113/235/dD/tIII], § 306, Dec. 16, 2014, [128 Stat. 2324][/us/stat/128/2324].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s2297h–10/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9310%2Fd%2F2%2FB
-[/us/pl/113/235/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs306
+[/us/pl/113/235/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdD%2FtIII
 [/us/stat/128/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2324
 
 

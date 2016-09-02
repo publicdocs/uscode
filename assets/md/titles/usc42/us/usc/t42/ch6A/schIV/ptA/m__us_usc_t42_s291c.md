@@ -51,13 +51,13 @@
 
         that the State plan shall provide for adequate hospitals, and other facilities for which aid under this part is available, for all persons residing in the State, and adequate hospitals (and such other facilities) to furnish needed services for persons unable to pay therefor. Such regulations may also require that before approval of an application for a project is recommended by a State agency to the Surgeon General for approval under this part, assurance shall be received by the State from the applicant that (1) the facility or portion thereof to be constructed or modernized will be made available to all persons residing in the territorial area of the applicant; and (2) there will be made available in the facility or portion thereof to be constructed or modernized a reasonable volume of services to persons unable to pay therefor, but an exception shall be made if such a requirement is not feasible from a financial viewpoint.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 603, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 451][/us/stat/78/451]; amended [Pub. L. 88–581, § 3(b)][/us/pl/88/581/s3/b], Sept. 4, 1964, [78 Stat. 919][/us/stat/78/919]; [Pub. L. 91–296, title I, § 110][/us/pl/91/296/s110], June 30, 1970, [84 Stat. 339][/us/stat/84/339]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 603, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 451][/us/stat/78/451]; amended [Pub. L. 88–581][/us/pl/88/581], § 3(b), Sept. 4, 1964, [78 Stat. 919][/us/stat/78/919]; [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 110, June 30, 1970, [84 Stat. 339][/us/stat/84/339]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Prior Provisions__ 
 
-    A prior section 291c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 613, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041], related to allotments to States, the determination of their amount, and the disposition of unexpended funds, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See section 291(a), (b) and (d) of this title.
+    A prior section 291c, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 613, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041], related to allotments to States, the determination of their amount, and the disposition of unexpended funds, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See section 291(a), (b) and (d) of this title.
 
-    Provisions similar to those comprising this section were contained in a prior section 291e, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 622, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising this section were contained in a prior section 291e, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 622, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Amendments__ 
 
@@ -67,11 +67,11 @@
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–296, title I, § 110][/us/pl/91/296/s110], June 30, 1970, [84 Stat. 339][/us/stat/84/339], provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
+    [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 110, June 30, 1970, [84 Stat. 339][/us/stat/84/339], provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
  __Effective Date of 1964 Amendment__ 
 
-    [Pub. L. 88–581, § 3(b)][/us/pl/88/581/s3/b], Sept. 4, 1964, [78 Stat. 919][/us/stat/78/919], provided that the amendments made by such section 3(b) \[amending this section and sections 291o and 293c of this title\] are effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965.
+    [Pub. L. 88–581][/us/pl/88/581], § 3(b), Sept. 4, 1964, [78 Stat. 919][/us/stat/78/919], provided that the amendments made by such section 3(b) \[amending this section and sections 291o and 293c of this title\] are effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965.
 
  __Transfer of Functions__ 
 
@@ -87,28 +87,28 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F451
-[/us/pl/88/581/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs3%2Fb
+[/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
 [/us/stat/78/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F919
-[/us/pl/91/296/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs110
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F339
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
 [/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
-[/us/pl/91/296/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs110
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F339
-[/us/pl/88/581/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs3%2Fb
+[/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
 [/us/stat/78/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F919
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

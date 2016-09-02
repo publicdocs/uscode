@@ -39,7 +39,7 @@
 
         Notwithstanding any other provision of law, no State or interstate compact shall be liable for the treatment, storage, or disposal of any low-level radioactive waste (including mixed waste) attributable to the operation, decontamination, and decommissioning of any uranium enrichment facility.
 
-([Pub. L. 104–134, title III, § 3113][/us/pl/104/134/s3113], Apr. 26, 1996, [110 Stat. 1321–347][/us/stat/110/1321-347]; [Pub. L. 108–447, div. C, title III, § 311][/us/pl/108/447/s311], Dec. 8, 2004, [118 Stat. 2959][/us/stat/118/2959].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3113, Apr. 26, 1996, [110 Stat. 1321–347][/us/stat/110/1321-347]; [Pub. L. 108–447, div. C, title III][/us/pl/108/447/dC/tIII], § 311, Dec. 8, 2004, [118 Stat. 2959][/us/stat/118/2959].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(4). [Pub. L. 108–447, § 311][/us/pl/108/447/s311], which directed the addition of par. (4) to subsec. (a) of [section 3113 of Public Law 102–486][/us/pl/102/486/s3113] ([42 U.S.C. 2297h–11][/us/usc/t42/s2297h–11]), was executed by adding par. (4) to subsec. (a) of this section, which is [section 3113 of Pub. L. 104–134][/us/pl/104/134/s3113], to reflect the probable intent of Congress.
+    2004—Subsec. (a)(4). [Pub. L. 108–447][/us/pl/108/447], § 311, which directed the addition of par. (4) to subsec. (a) of [section 3113 of Public Law 102–486][/us/pl/102/486/s3113] ([42 U.S.C. 2297h–11][/us/usc/t42/s2297h–11]), was executed by adding par. (4) to subsec. (a) of this section, which is [section 3113 of Pub. L. 104–134][/us/pl/104/134/s3113], to reflect the probable intent of Congress.
 
 ----------
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/104/134/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3113
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-347
-[/us/pl/108/447/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs311
+[/us/pl/108/447/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtIII
 [/us/stat/118/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2959
-[/us/pl/108/447/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs311
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/102/486/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3113
 [/us/usc/t42/s2297h–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9311
 [/us/pl/104/134/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3113

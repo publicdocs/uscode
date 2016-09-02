@@ -35,7 +35,7 @@
 
         (3) consistent with related reporting requirements.
 
-([Pub. L. 110–140, title V, § 527][/us/pl/110/140/s527], Dec. 19, 2007, [121 Stat. 1663][/us/stat/121/1663].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 527, Dec. 19, 2007, [121 Stat. 1663][/us/stat/121/1663].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs527
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1663
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t2/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2162

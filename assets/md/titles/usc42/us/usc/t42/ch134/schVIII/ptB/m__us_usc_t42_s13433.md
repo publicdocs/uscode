@@ -61,7 +61,7 @@
 
         (2) the term “motor vehicle” includes any automobile, truck, bus, van, or other on-road or off-road motor vehicle, including a boat.
 
-([Pub. L. 102–486, title XX, § 2023][/us/pl/102/486/s2023], Oct. 24, 1992, [106 Stat. 3062][/us/stat/106/3062].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2023, Oct. 24, 1992, [106 Stat. 3062][/us/stat/106/3062].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2023
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3062
 
 

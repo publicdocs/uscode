@@ -81,7 +81,7 @@
 
             Not later than 1 year after October 27, 2004, the Comptroller General shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the Comptroller on implementation of this subsection.
 
-([Pub. L. 89–136, title II, § 215][/us/pl/89/136/s215], as added [Pub. L. 108–373, title II, § 210(a)][/us/pl/108/373/s210/a], Oct. 27, 2004, [118 Stat. 1764][/us/stat/118/1764].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 215, as added [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 210(a), Oct. 27, 2004, [118 Stat. 1764][/us/stat/118/1764].)
 
 ----------
 
@@ -93,8 +93,8 @@
 [/us/usc/t42/s3212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3212
 [/us/usc/t42/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3144
 [/us/usc/t42/s3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3213
-[/us/pl/89/136/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs215
-[/us/pl/108/373/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs210%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1764
 
 

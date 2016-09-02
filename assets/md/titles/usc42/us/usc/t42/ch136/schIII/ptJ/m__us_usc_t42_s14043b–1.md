@@ -25,7 +25,7 @@
 
     (4) to develop safe uses of technology (such as notice requirements regarding electronic surveillance by government entities), to protect against abuses of technology (such as electronic or GPS stalking), or providing training for law enforcement on high tech electronic crimes of domestic violence, dating violence, sexual assault, and stalking.
 
-([Pub. L. 103–322, title IV, § 41102][/us/pl/103/322/s41102], as added [Pub. L. 109–162, title I, § 107][/us/pl/109/162/s107], Jan. 5, 2006, [119 Stat. 2983][/us/stat/119/2983].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41102, as added [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 107, Jan. 5, 2006, [119 Stat. 2983][/us/stat/119/2983].)
 
 ----------
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41102
-[/us/pl/109/162/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs107
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2983
 
 

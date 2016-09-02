@@ -91,7 +91,7 @@
 
         (7) Notwithstanding any of the provisions of this subsection, if a House has approved a resolution with respect to an energy action, then it shall not be in order to consider in that House any other resolution with respect to the same such action.
 
-([Pub. L. 94–163, title V, § 551][/us/pl/94/163/s551], Dec. 22, 1975, [89 Stat. 965][/us/stat/89/965].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 551, Dec. 22, 1975, [89 Stat. 965][/us/stat/89/965].)
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs551
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F965
 
 

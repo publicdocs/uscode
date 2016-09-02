@@ -17,7 +17,7 @@
 
     Not later than the expiration of the 180-day period beginning on the date that funds authorized under this part first become available for obligation, the Secretary shall by notice establish such requirements as may be necessary to carry out the provisions of this part. Such requirements shall be subject to [section 553 of title 5][/us/usc/t5/s553]. The Secretary shall issue regulations based on the initial notice before the expiration of the 8-month period beginning on the date of the notice.
 
-([Pub. L. 101–625, title IV, § 430][/us/pl/101/625/s430], Nov. 28, 1990, [104 Stat. 4172][/us/stat/104/4172].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 430, Nov. 28, 1990, [104 Stat. 4172][/us/stat/104/4172].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/101/625/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs430
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4172
 
 

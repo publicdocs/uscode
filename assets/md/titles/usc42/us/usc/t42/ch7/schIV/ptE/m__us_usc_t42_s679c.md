@@ -149,7 +149,7 @@
 
         Nothing in this section shall be construed as affecting the application of [section 672(h) of this title][/us/usc/t42/s672/h] to a child on whose behalf payments are paid under [section 672 of this title][/us/usc/t42/s672], or the application of [section 673(b) of this title][/us/usc/t42/s673/b] to a child on whose behalf payments are made under [section 673 of this title][/us/usc/t42/s673] pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479B, as added [Pub. L. 110–351, title III, § 301(a)(1)][/us/pl/110/351/s301/a/1], Oct. 7, 2008, [122 Stat. 3962][/us/stat/122/3962].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479B, as added [Pub. L. 110–351, title III][/us/pl/110/351/tIII], § 301(a)(1), Oct. 7, 2008, [122 Stat. 3962][/us/stat/122/3962].)
 
  __References in Text__ 
 
@@ -208,7 +208,7 @@
 [/us/usc/t42/s673/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fb
 [/us/usc/t42/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/110/351/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs301%2Fa%2F1
+[/us/pl/110/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2FtIII
 [/us/stat/122/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3962
 [/us/pl/110/351/s301/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs301%2Fe%2F2
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671

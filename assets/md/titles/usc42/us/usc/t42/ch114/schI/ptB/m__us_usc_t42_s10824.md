@@ -51,7 +51,7 @@
 
     (b) In preparing each statement required by subsection (a) of this section, the Secretary shall use and include information submitted to the Secretary in the reports required under [section 10805(a)(7) of this title][/us/usc/t42/s10805/a/7].
 
-([Pub. L. 99–319, title I, § 114][/us/pl/99/319/s114], May 23, 1986, [100 Stat. 484][/us/stat/100/484]; [Pub. L. 102–173, § 10(2)][/us/pl/102/173/s10/2], Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219]; [Pub. L. 106–402, title IV, § 401(b)(13)(B)][/us/pl/106/402/s401/b/13/B], Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 114, May 23, 1986, [100 Stat. 484][/us/stat/100/484]; [Pub. L. 102–173][/us/pl/102/173], § 10(2), Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219]; [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(13)(B), Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739].)
 
  __Amendments__ 
 
@@ -68,11 +68,11 @@
 
 [/us/usc/t42/s15005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15005
 [/us/usc/t42/s10805/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10805%2Fa%2F7
-[/us/pl/99/319/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs114
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F484
-[/us/pl/102/173/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F2
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1219
-[/us/pl/106/402/s401/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F13%2FB
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1739
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s15005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15005

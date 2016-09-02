@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, where funds are made available by more than one Federal agency to be used by any agency, organization, institution, or individual to carry out a Federal juvenile delinquency program or activity, any one of the Federal agencies providing funds may be requested by the Administrator to act for all in administering the funds advanced whenever the Administrator finds the program or activity to be exceptionally effective or for which the Administrator finds exceptional need. In such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each Federal agency, and the Administrator may order any such agency to waive any technical grant or contract requirement (as defined in such regulations) which is inconsistent with the similar requirement of the administering agency or which the administering agency does not impose.
 
-([Pub. L. 93–415, title II, § 205][/us/pl/93/415/s205], Sept. 7, 1974, [88 Stat. 1116][/us/stat/88/1116]; [Pub. L. 95–115, § 3(c)][/us/pl/95/115/s3/c], Oct. 3, 1977, [91 Stat. 1049][/us/stat/91/1049]; [Pub. L. 96–509, § 19(e)][/us/pl/96/509/s19/e], Dec. 8, 1980, [94 Stat. 2763][/us/stat/94/2763].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 205, Sept. 7, 1974, [88 Stat. 1116][/us/stat/88/1116]; [Pub. L. 95–115][/us/pl/95/115], § 3(c), Oct. 3, 1977, [91 Stat. 1049][/us/stat/91/1049]; [Pub. L. 96–509][/us/pl/96/509], § 19(e), Dec. 8, 1980, [94 Stat. 2763][/us/stat/94/2763].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/93/415/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs205
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1116
-[/us/pl/95/115/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fc
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1049
-[/us/pl/96/509/s19/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fe
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2763
 [/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115

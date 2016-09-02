@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 111–5, div. A, title VIII, § 804][/us/pl/111/5/s804], Feb. 17, 2009, [123 Stat. 187][/us/stat/123/187], established the Federal Coordinating Council for Comparative Effectiveness Research.
+    Section, [Pub. L. 111–5, div. A, title VIII][/us/pl/111/5/dA/tVIII], § 804, Feb. 17, 2009, [123 Stat. 187][/us/stat/123/187], established the Federal Coordinating Council for Comparative Effectiveness Research.
 
  __Termination of Federal Coordinating Council for Comparative Effectiveness Research__ 
 
-    [Pub. L. 111–148, title VI, § 6302][/us/pl/111/148/s6302], Mar. 23, 2010, [124 Stat. 747][/us/stat/124/747], provided that the Federal Coordinating Council for Comparative Effectiveness Research established under this section terminated on Mar. 23, 2010.
+    [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6302, Mar. 23, 2010, [124 Stat. 747][/us/stat/124/747], provided that the Federal Coordinating Council for Comparative Effectiveness Research established under this section terminated on Mar. 23, 2010.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/111/5/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs804
+[/us/pl/111/5/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtVIII
 [/us/stat/123/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F187
-[/us/pl/111/148/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6302
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F747
 
 

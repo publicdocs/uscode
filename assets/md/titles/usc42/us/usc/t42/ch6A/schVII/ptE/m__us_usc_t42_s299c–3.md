@@ -41,11 +41,11 @@
 
         Any person who violates subsection (c) of this section shall be subject to a civil monetary penalty of not more than $10,000 for each such violation involved. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] are imposed and collected.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 944, formerly § 924, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1667][/us/stat/113/1667]; renumbered § 934, [Pub. L. 109–41, § 2(a)(3)][/us/pl/109/41/s2/a/3], July 29, 2005, [119 Stat. 424][/us/stat/119/424]; renumbered § 944, [Pub. L. 111–148, title III, § 3013(a)(2)][/us/pl/111/148/s3013/a/2], Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 944, formerly § 924, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1667][/us/stat/113/1667]; renumbered § 934, [Pub. L. 109–41][/us/pl/109/41], § 2(a)(3), July 29, 2005, [119 Stat. 424][/us/stat/119/424]; renumbered § 944, [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3013(a)(2), Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
 
  __Prior Provisions__ 
 
-    A prior section 299c–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 924, as added [Pub. L. 101–239, title VI, § 6103(c)][/us/pl/101/239/s6103/c], Dec. 19, 1989, [103 Stat. 2202][/us/stat/103/2202]; amended [Pub. L. 102–410, § 9][/us/pl/102/410/s9], Oct. 13, 1992, [106 Stat. 2100][/us/stat/106/2100], related to additional provisions with respect to grants and contracts, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–4 of this title][/us/usc/t42/s299c–4].
+    A prior section 299c–3, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 924, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(c), Dec. 19, 1989, [103 Stat. 2202][/us/stat/103/2202]; amended [Pub. L. 102–410][/us/pl/102/410], § 9, Oct. 13, 1992, [106 Stat. 2100][/us/stat/106/2100], related to additional provisions with respect to grants and contracts, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–4 of this title][/us/usc/t42/s299c–4].
 
 ----------
 
@@ -57,16 +57,16 @@
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1667
-[/us/pl/109/41/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F3
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
-[/us/pl/111/148/s3013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3013%2Fa%2F2
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F381
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fc
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2202
-[/us/pl/102/410/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs9
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2100
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/usc/t42/s299c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%934

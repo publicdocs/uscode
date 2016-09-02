@@ -17,7 +17,7 @@
 
     The Secretary may as a matter of right intervene or otherwise participate in any proceeding before the Commission. The Secretary shall comply with rules of procedure of general applicability governing the timing of intervention or participation in such proceeding or activity and, upon intervening or participating therein, shall comply with rules of procedure of general applicability governing the conduct thereof. The intervention or participation of the Secretary in any proceeding or activity shall not affect the obligation of the Commission to assure procedure fairness to all participants.
 
-([Pub. L. 95–91, title IV, § 405][/us/pl/95/91/s405], Aug. 4, 1977, [91 Stat. 586][/us/stat/91/586].)
+([Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 405, Aug. 4, 1977, [91 Stat. 586][/us/stat/91/586].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs405
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F586
 
 

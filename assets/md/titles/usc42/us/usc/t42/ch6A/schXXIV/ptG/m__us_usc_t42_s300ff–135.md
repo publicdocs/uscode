@@ -37,7 +37,7 @@
 
         After receiving a response under paragraph (3) or (4) of subsection (d) of [section 300ff–133 of this title][/us/usc/t42/s300ff–133], or a response under subsection (g)(1) of such section, the designated officer for the employee shall, to the extent practicable, immediately inform the employee of the response.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695D, as added [Pub. L. 111–87, § 13][/us/pl/111/87/s13], Oct. 30, 2009, [123 Stat. 2901][/us/stat/123/2901].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695D, as added [Pub. L. 111–87][/us/pl/111/87], § 13, Oct. 30, 2009, [123 Stat. 2901][/us/stat/123/2901].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s300ff–133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%93133
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/87/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs13
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2901
 
 

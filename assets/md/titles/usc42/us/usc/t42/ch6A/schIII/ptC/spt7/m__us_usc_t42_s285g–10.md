@@ -21,7 +21,7 @@
 
     (2) an increase in the number of career development awards for health professionals who intend to build careers in pediatric basic and clinical research, including pediatric pharmacological research.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452G, as added [Pub. L. 106–310, div. A, title X, § 1002(a)][/us/pl/106/310/s1002/a], Oct. 17, 2000, [114 Stat. 1128][/us/stat/114/1128]; amended [Pub. L. 109–482, title I, § 103(b)(31)][/us/pl/109/482/s103/b/31], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; [Pub. L. 110–85, title V, § 503(a)][/us/pl/110/85/s503/a], Sept. 27, 2007, [121 Stat. 890][/us/stat/121/890].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452G, as added [Pub. L. 106–310, div. A, title X][/us/pl/106/310/dA/tX], § 1002(a), Oct. 17, 2000, [114 Stat. 1128][/us/stat/114/1128]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(31), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; [Pub. L. 110–85, title V][/us/pl/110/85/tV], § 503(a), Sept. 27, 2007, [121 Stat. 890][/us/stat/121/890].)
 
  __Amendments__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1002%2Fa
+[/us/pl/106/310/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtX
 [/us/stat/114/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1128
-[/us/pl/109/482/s103/b/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F31
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/110/85/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs503%2Fa
+[/us/pl/110/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtV
 [/us/stat/121/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F890
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85

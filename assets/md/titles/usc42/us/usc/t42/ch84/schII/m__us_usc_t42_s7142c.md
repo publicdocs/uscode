@@ -39,7 +39,7 @@
 
         A volunteer under subsection (a) of this section shall serve without pay, but may receive nominal awards and reimbursement for incidental expenses, including expenses for a uniform or transportation in furtherance of Museum activities.
 
-([Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IV, § 403\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–267.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title IV, § 403\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–267.)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

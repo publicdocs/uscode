@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    1962—Subsec. (a). [Pub. L. 87–719, § 7][/us/pl/87/719/s7], inserted “, or, in the case of Los Alamos, upon its inclusion within this chapter” after “chapter”.
+    1962—Subsec. (a). [Pub. L. 87–719][/us/pl/87/719], § 7, inserted “, or, in the case of Los Alamos, upon its inclusion within this chapter” after “chapter”.
 
-    Subsec. (c). [Pub. L. 87–719, § 8][/us/pl/87/719/s8], added subsec. (c).
+    Subsec. (c). [Pub. L. 87–719][/us/pl/87/719], § 8, added subsec. (c).
 
  __Transfer of Functions__ 
 
@@ -51,7 +51,7 @@
 [/us/stat/69/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F475
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F664
-[/us/pl/87/719/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs7
-[/us/pl/87/719/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs8
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 
 

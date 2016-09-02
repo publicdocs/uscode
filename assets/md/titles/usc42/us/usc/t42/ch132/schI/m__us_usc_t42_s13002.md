@@ -59,7 +59,7 @@
 
         A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under [section 13001b of this title][/us/usc/t42/s13001b].
 
-([Pub. L. 101–647, title II, § 214][/us/pl/101/647/s214], formerly § 212, Nov. 29, 1990, [104 Stat. 4793][/us/stat/104/4793]; renumbered § 214 and amended [Pub. L. 102–586, § 6(b)(1)][/us/pl/102/586/s6/b/1], (c), Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029], 5034; [Pub. L. 107–273, div. C, title II, § 12221(b)(1)(A)][/us/pl/107/273/s12221/b/1/A], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 114–22, title I, § 104(2)][/us/pl/114/22/s104/2], May 29, 2015, [129 Stat. 236][/us/stat/129/236].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 214, formerly § 212, Nov. 29, 1990, [104 Stat. 4793][/us/stat/104/4793]; renumbered § 214 and amended [Pub. L. 102–586][/us/pl/102/586], § 6(b)(1), (c), Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029], 5034; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12221(b)(1)(A), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 104(2), May 29, 2015, [129 Stat. 236][/us/stat/129/236].)
 
  __Prior Provisions__ 
 
@@ -71,13 +71,13 @@
 
     2002—Subsec. (b)(1). [Pub. L. 107–273][/us/pl/107/273] substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 
-    1992—[Pub. L. 102–586, § 6(c)(1)][/us/pl/102/586/s6/c/1], substituted “Local children’s advocacy centers” for “Authority of Director to make grants” in section catchline.
+    1992—[Pub. L. 102–586][/us/pl/102/586], § 6(c)(1), substituted “Local children’s advocacy centers” for “Authority of Director to make grants” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–586, § 6(c)(2)][/us/pl/102/586/s6/c/2], substituted “The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime,” for “The Director of the Office of Victims of Crime (hereinafter in this subchapter referred to as the ‘Director’), in consultation with officials of the Department of Health and Human Services,”.
+    Subsec. (a). [Pub. L. 102–586][/us/pl/102/586], § 6(c)(2), substituted “The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime,” for “The Director of the Office of Victims of Crime (hereinafter in this subchapter referred to as the ‘Director’), in consultation with officials of the Department of Health and Human Services,”.
 
-    Subsec. (b)(2)(B). [Pub. L. 102–586, § 6(c)(3)][/us/pl/102/586/s6/c/3], inserted “and nonoffending family members” after “neglect”.
+    Subsec. (b)(2)(B). [Pub. L. 102–586][/us/pl/102/586], § 6(c)(3), inserted “and nonoffending family members” after “neglect”.
 
-    Subsec. (d). [Pub. L. 102–586, § 6(c)(4)][/us/pl/102/586/s6/c/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–586][/us/pl/102/586], § 6(c)(4), added subsec. (d).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -91,22 +91,22 @@
 ----------
 
 [/us/usc/t42/s13001b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13001b
-[/us/pl/101/647/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs214
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4793
-[/us/pl/102/586/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fb%2F1
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5029
-[/us/pl/107/273/s12221/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fb%2F1%2FA
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
-[/us/pl/114/22/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs104%2F2
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F236
 [/us/pl/101/647/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs214
 [/us/usc/t42/s13004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13004
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/102/586/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fc%2F1
-[/us/pl/102/586/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fc%2F2
-[/us/pl/102/586/s6/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fc%2F3
-[/us/pl/102/586/s6/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fc%2F4
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/273/s12223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12223
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

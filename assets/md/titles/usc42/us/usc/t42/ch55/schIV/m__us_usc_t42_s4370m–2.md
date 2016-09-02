@@ -377,7 +377,7 @@
 
             Inclusion on the Dashboard of information regarding projects subject to [section 139 of title 23][/us/usc/t23/s139] or [section 2348 of title 33][/us/usc/t33/s2348] shall not subject those projects to any requirements of this subchapter.
 
-([Pub. L. 114–94, div. D, title XLI, § 41003][/us/pl/114/94/s41003], Dec. 4, 2015, [129 Stat. 1747][/us/stat/129/1747].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41003, Dec. 4, 2015, [129 Stat. 1747][/us/stat/129/1747].)
 
  __References in Text__ 
 
@@ -406,7 +406,7 @@
 [/us/usc/t33/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348
 [/us/usc/t23/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139
 [/us/usc/t33/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348
-[/us/pl/114/94/s41003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41003
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1747
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

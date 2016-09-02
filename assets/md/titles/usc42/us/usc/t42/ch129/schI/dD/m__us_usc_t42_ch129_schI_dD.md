@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610], comprising this division, was formerly classified to part D (§ 12571 et seq.) of this subchapter prior to the general amendment by [Pub. L. 103–82, § 102(a)][/us/pl/103/82/s102/a].
+    Subtitle D of title I of [Pub. L. 101–610][/us/pl/101/610], comprising this division, was formerly classified to part D (§ 12571 et seq.) of this subchapter prior to the general amendment by [Pub. L. 103–82][/us/pl/103/82], § 102(a).
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, title I, § 1401(a)][/us/pl/111/13/s1401/a], Apr. 21, 2009, [123 Stat. 1512][/us/stat/123/1512], amended div. heading generally.
+    2009—[Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1401(a), Apr. 21, 2009, [123 Stat. 1512][/us/stat/123/1512], amended div. heading generally.
 
 ----------
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fa
-[/us/pl/111/13/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1401%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1512
 
 

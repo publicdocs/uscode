@@ -55,7 +55,7 @@
 
         The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) of this section may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984; or (3) 20 percent of their total combined equity commitment outstanding at any time thereafter.
 
-([Pub. L. 90–448, title IX, § 906][/us/pl/90/448/s906], Aug. 1, 1968, [82 Stat. 548][/us/stat/82/548]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 467\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236]; [Pub. L. 98–479, title I, § 104(c)(1)][/us/pl/98/479/s104/c/1], (2), Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 906, Aug. 1, 1968, [82 Stat. 548][/us/stat/82/548]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 467\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 104(c)(1), (2), Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225].)
 
  __References in Text__ 
 
@@ -63,13 +63,13 @@
 
  __Codification__ 
 
-    In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([40 U.S.C. 267a][/us/usc/t40/s267a]—276a–5)”, meaning [40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([40 U.S.C. 267a][/us/usc/t40/s267a]—276a–5)”, meaning [40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    1984—Subsec. (a)(4). [Pub. L. 98–479, § 104(c)(1)][/us/pl/98/479/s104/c/1], added par. (4).
+    1984—Subsec. (a)(4). [Pub. L. 98–479][/us/pl/98/479], § 104(c)(1), added par. (4).
 
-    Subsec. (e). [Pub. L. 98–479, § 104(c)(2)][/us/pl/98/479/s104/c/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–479][/us/pl/98/479], § 104(c)(2), added subsec. (e).
 
     1983—Subsec. (a)(1). [Pub. L. 98–181][/us/pl/98/181] inserted references to acquisition and financing.
 
@@ -80,20 +80,20 @@
 ----------
 ----------
 
-[/us/pl/90/448/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs906
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F548
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1236
-[/us/pl/98/479/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fc%2F1
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2225
 [/us/act/1954-06-08/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-08%2Fch269
 [/us/stat/68/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F179
 [/us/usc/t40/s267a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs267a
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/98/479/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fc%2F1
-[/us/pl/98/479/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fc%2F2
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 
 

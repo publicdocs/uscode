@@ -17,7 +17,7 @@
 
     The amounts made available pursuant to [section 1101(c)(1)(A) of this title][/us/usc/t42/s1101/c/1/A] for the purpose of assisting the States in the administration of their unemployment compensation laws shall be used as hereinafter provided.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title III, § 301, [49 Stat. 626][/us/stat/49/626]; [Apr. 19, 1939, ch. 73][/us/act/1939-04-19/ch73], [53 Stat. 581][/us/stat/53/581]; [Pub. L. 86–778, title V, § 524(a)][/us/pl/86/778/s524/a], Sept. 13, 1960, [74 Stat. 982][/us/stat/74/982].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title III, § 301, [49 Stat. 626][/us/stat/49/626]; [Apr. 19, 1939, ch. 73][/us/act/1939-04-19/ch73], [53 Stat. 581][/us/stat/53/581]; [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 524(a), Sept. 13, 1960, [74 Stat. 982][/us/stat/74/982].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 [/us/stat/49/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F626
 [/us/act/1939-04-19/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-04-19%2Fch73
 [/us/stat/53/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F581
-[/us/pl/86/778/s524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs524%2Fa
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F982
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/usc/t42/s1101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101%2Fc%2F1%2FA

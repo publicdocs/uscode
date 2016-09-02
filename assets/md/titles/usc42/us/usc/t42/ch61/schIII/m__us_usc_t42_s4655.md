@@ -31,7 +31,7 @@
 
         (2) a State agency or person which does not have such authority, to the extent provided by the head of the lead agency by regulation.
 
-([Pub. L. 91–646, title III, § 305][/us/pl/91/646/s305], Jan. 2, 1971, [84 Stat. 1906][/us/stat/84/1906]; [Pub. L. 100–17, title IV, § 417][/us/pl/100/17/s417], Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256].)
+([Pub. L. 91–646, title III][/us/pl/91/646/tIII], § 305, Jan. 2, 1971, [84 Stat. 1906][/us/stat/84/1906]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 417, Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t42/s4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4651
 [/us/usc/t42/s4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4652
 [/us/usc/t42/s4601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F3
-[/us/pl/91/646/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs305
+[/us/pl/91/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtIII
 [/us/stat/84/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1906
-[/us/pl/100/17/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs417
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F256
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17

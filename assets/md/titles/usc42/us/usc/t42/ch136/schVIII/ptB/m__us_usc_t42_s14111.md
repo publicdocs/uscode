@@ -35,7 +35,7 @@
 
     “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 103–322, title XX, § 200202][/us/pl/103/322/s200202], Sept. 13, 1994, [108 Stat. 2057][/us/stat/108/2057]; [Pub. L. 105–244, title I, § 102(a)(13)(P)][/us/pl/105/244/s102/a/13/P], Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200202, Sept. 13, 1994, [108 Stat. 2057][/us/stat/108/2057]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(P), Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t42/s14093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14093
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/103/322/s200202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200202
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2057
-[/us/pl/105/244/s102/a/13/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FP
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1621
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

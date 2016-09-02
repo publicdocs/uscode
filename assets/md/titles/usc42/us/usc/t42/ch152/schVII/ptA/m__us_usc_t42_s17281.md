@@ -87,7 +87,7 @@
 
             The Secretary shall use not less than 50 percent of the amount that is made available under this section for each fiscal year to develop and conduct a national media campaign to decrease oil consumption in the United States over the next decade.
 
-([Pub. L. 110–140, title VIII, § 801][/us/pl/110/140/s801], Dec. 19, 2007, [121 Stat. 1716][/us/stat/121/1716].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 801, Dec. 19, 2007, [121 Stat. 1716][/us/stat/121/1716].)
 
 ----------
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs801
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1716
 
 

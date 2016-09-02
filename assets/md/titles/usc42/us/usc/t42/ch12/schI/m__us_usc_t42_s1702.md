@@ -19,17 +19,17 @@
 
     (b) For the purpose of computing compensation with respect to cases coming within the purview of [section 1701 of this title][/us/usc/t42/s1701], the provisions of sections 906 and 910 of title 33 shall be applicable: Provided, That the minimum limit on weekly compensation for disability, established by [section 906(b) of title 33][/us/usc/t33/s906/b], and the minimum limit on the average weekly wages on which death benefits are to be computed, established by [section 909(e) of title 33][/us/usc/t33/s909/e], shall not apply in computing compensation under this subchapter.
 
-([Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title I, § 102, [56 Stat. 1031][/us/stat/56/1031]; [July 3, 1948, ch. 826, § 4(c)][/us/act/1948-07-03/ch826/s4/c], [62 Stat. 1242][/us/stat/62/1242]; [Pub. L. 85–608, title I, § 102][/us/pl/85/608/s102], Aug. 8, 1958, [72 Stat. 536][/us/stat/72/536]; [Pub. L. 98–426, § 27(d)(2)][/us/pl/98/426/s27/d/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([Dec. 2, 1942, ch. 668][/us/act/1942-12-02/ch668], title I, § 102, [56 Stat. 1031][/us/stat/56/1031]; [July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], § 4(c), [62 Stat. 1242][/us/stat/62/1242]; [Pub. L. 85–608, title I][/us/pl/85/608/tI], § 102, Aug. 8, 1958, [72 Stat. 536][/us/stat/72/536]; [Pub. L. 98–426][/us/pl/98/426], § 27(d)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __References in Text__ 
 
     The Longshore and Harbor Workers’ Compensation Act, referred to in section catchline, is [act Mar. 4, 1927, ch. 509][/us/act/1927-03-04/ch509], [44 Stat. 1424][/us/stat/44/1424], as amended, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33][/us/usc/t33/s901] and Tables.
 
-    Subsection (m) of [section 914 of title 33][/us/usc/t33/s914], referred to in subsec. (a), was repealed by [Pub. L. 92–576, § 5(e)][/us/pl/92/576/s5/e], Oct. 27, 1972, [86 Stat. 1254][/us/stat/86/1254].
+    Subsection (m) of [section 914 of title 33][/us/usc/t33/s914], referred to in subsec. (a), was repealed by [Pub. L. 92–576][/us/pl/92/576], § 5(e), Oct. 27, 1972, [86 Stat. 1254][/us/stat/86/1254].
 
  __Codification__ 
 
-    “Subchapter I of chapter 81 of title 5” substituted for references to Act of September 7, 1916, as amended, known as the Federal Employees’ Compensation Act, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    “Subchapter I of chapter 81 of title 5” substituted for references to Act of September 7, 1916, as amended, known as the Federal Employees’ Compensation Act, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Benefits Adjudicated Prior to__  __August 8, 1958__ 
 
-    [Pub. L. 85–608, title I, § 102][/us/pl/85/608/s102], Aug. 8, 1958, [72 Stat. 536][/us/stat/72/536], provided that the amendment made by that section shall not affect benefits adjudicated thereunder prior to Aug. 8, 1958.
+    [Pub. L. 85–608, title I][/us/pl/85/608/tI], § 102, Aug. 8, 1958, [72 Stat. 536][/us/stat/72/536], provided that the amendment made by that section shall not affect benefits adjudicated thereunder prior to Aug. 8, 1958.
 
 ----------
 
@@ -64,19 +64,19 @@
 [/us/usc/t33/s909/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs909%2Fe
 [/us/act/1942-12-02/ch668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-02%2Fch668
 [/us/stat/56/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1031
-[/us/act/1948-07-03/ch826/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826%2Fs4%2Fc
+[/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1242
-[/us/pl/85/608/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs102
+[/us/pl/85/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2FtI
 [/us/stat/72/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F536
-[/us/pl/98/426/s27/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fd%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
 [/us/usc/t33/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs914
-[/us/pl/92/576/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576%2Fs5%2Fe
+[/us/pl/92/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F576
 [/us/stat/86/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1254
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
@@ -87,7 +87,7 @@
 [/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
 [/us/pl/85/608/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs402
 [/us/usc/t42/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1651
-[/us/pl/85/608/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs102
+[/us/pl/85/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2FtI
 [/us/stat/72/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F536
 
 

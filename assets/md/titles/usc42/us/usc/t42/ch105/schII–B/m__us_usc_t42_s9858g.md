@@ -111,23 +111,23 @@
 
             Nothing in this subchapter shall be construed as providing the Secretary the authority to permit States to alter the eligibility requirements for eligible children, including work requirements, job training, or educational program participation, that apply to the parents of eligible children under this subchapter. Nothing in this subsection shall be construed to allow the Secretary to waive anything related to his or her authority under this subchapter.
 
-([Pub. L. 97–35, title VI, § 658I][/us/pl/97/35/s658I], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–242][/us/stat/104/1388-242]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 609][/us/pl/104/193/s609], Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284]; [Pub. L. 113–186, § 8(a)][/us/pl/113/186/s8/a], (b), Nov. 19, 2014, [128 Stat. 1994][/us/stat/128/1994], 1995.)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 658I, as added [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–242][/us/stat/104/1388-242]; amended [Pub. L. 102–401][/us/pl/102/401], § 3(a), Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586][/us/pl/102/586], § 8(c)(1), Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI][/us/pl/104/193/tVI], § 609, Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284]; [Pub. L. 113–186][/us/pl/113/186], § 8(a), (b), Nov. 19, 2014, [128 Stat. 1994][/us/stat/128/1994], 1995.)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–186, § 8(a)(1)][/us/pl/113/186/s8/a/1], inserted a comma after “publish” and struck out “and” at end.
+    2014—Subsec. (a)(2). [Pub. L. 113–186][/us/pl/113/186], § 8(a)(1), inserted a comma after “publish” and struck out “and” at end.
 
-    Subsec. (a)(3). [Pub. L. 113–186, § 8(a)(2)][/us/pl/113/186/s8/a/2], added par. (3) and struck out former par. (3) which read as follows: “provide technical assistance to assist States to carry out this subchapter, including assistance on a reimbursable basis.”
+    Subsec. (a)(3). [Pub. L. 113–186][/us/pl/113/186], § 8(a)(2), added par. (3) and struck out former par. (3) which read as follows: “provide technical assistance to assist States to carry out this subchapter, including assistance on a reimbursable basis.”
 
-    Subsec. (a)(4), (5). [Pub. L. 113–186, § 8(a)(3)][/us/pl/113/186/s8/a/3], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 113–186][/us/pl/113/186], § 8(a)(3), added pars. (4) and (5).
 
-    Subsec. (c). [Pub. L. 113–186, § 8(b)][/us/pl/113/186/s8/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 113–186][/us/pl/113/186], § 8(b), added subsec. (c).
 
-    1996—Subsec. (b)(1). [Pub. L. 104–193, § 609(1)][/us/pl/104/193/s609/1], struck out “, and shall have the power to terminate payments to the State in accordance with paragraph (2)” before period at end.
+    1996—Subsec. (b)(1). [Pub. L. 104–193][/us/pl/104/193], § 609(1), struck out “, and shall have the power to terminate payments to the State in accordance with paragraph (2)” before period at end.
 
-    Subsec. (b)(2)(A). [Pub. L. 104–193, § 609(2)][/us/pl/104/193/s609/2], in closing provisions, substituted before period at end “finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options” for “finding and that no further payments may be made to such State under this subchapter (or, in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected”.
+    Subsec. (b)(2)(A). [Pub. L. 104–193][/us/pl/104/193], § 609(2), in closing provisions, substituted before period at end “finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options” for “finding and that no further payments may be made to such State under this subchapter (or, in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected”.
 
-    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508, § 5082(2)][/us/pl/101/508/s5082/2], which added this section.
+    1992—[Pub. L. 102–401][/us/pl/102/401] and [Pub. L. 102–586][/us/pl/102/586] made identical technical corrections to directory language of [Pub. L. 101–508][/us/pl/101/508], § 5082(2), which added this section.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -144,26 +144,26 @@
 [/us/usc/t42/s9858c/c/2/O/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F2%2FO%2Fii
 [/us/usc/t42/s9858c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc
 [/us/usc/t42/s9858c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc
-[/us/pl/97/35/s658I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658I
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-242
-[/us/pl/102/401/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs3%2Fa
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
-[/us/pl/102/586/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs8%2Fc%2F1
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
-[/us/pl/104/193/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs609
+[/us/pl/104/193/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVI
 [/us/stat/110/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2284
-[/us/pl/113/186/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/stat/128/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1994
-[/us/pl/113/186/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa%2F1
-[/us/pl/113/186/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa%2F2
-[/us/pl/113/186/s8/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa%2F3
-[/us/pl/113/186/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fb
-[/us/pl/104/193/s609/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs609%2F1
-[/us/pl/104/193/s609/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs609%2F2
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs615
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858

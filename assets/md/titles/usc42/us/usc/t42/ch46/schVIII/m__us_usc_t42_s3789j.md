@@ -17,7 +17,7 @@
 
     No funds under this chapter shall be used for land acquisition.
 
-([Pub. L. 90–351, title I, § 814][/us/pl/90/351/s814], formerly § 821, as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1214][/us/stat/93/1214]; renumbered § 814, [Pub. L. 98–473, title II, § 609B(f)][/us/pl/98/473/s609B/f], Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 814, formerly § 821, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1214][/us/stat/93/1214]; renumbered § 814, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609B(f), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093].)
 
  __Prior Provisions__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/90/351/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs814
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1214
-[/us/pl/98/473/s609B/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Ff
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2093
 [/us/pl/90/351/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs814
 [/us/usc/t42/s3789c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789c

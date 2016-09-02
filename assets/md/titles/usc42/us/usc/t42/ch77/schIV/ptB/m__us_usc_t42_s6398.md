@@ -17,7 +17,7 @@
 
     Any authorization of appropriations in this Act, or in any amendment to any other law made by this Act, for the fiscal year 1976 shall be deemed to include an additional authorization of appropriations for the period beginning July 1, 1976, and ending September 30, 1976, in amounts which equal one-fourth of any amount authorized for fiscal year 1976, unless appropriations for the same purpose are specifically authorized in a law hereinafter enacted.
 
-([Pub. L. 94–163, title V, § 528][/us/pl/94/163/s528], Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 528, Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs528
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F964
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

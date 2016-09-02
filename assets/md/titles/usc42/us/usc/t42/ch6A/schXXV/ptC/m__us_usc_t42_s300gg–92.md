@@ -17,7 +17,7 @@
 
     The Secretary, consistent with section 104 of the Health Care Portability and Accountability Act of 1996, may promulgate such regulations as may be necessary or appropriate to carry out the provisions of this subchapter. The Secretary may promulgate any interim final rules as the Secretary determines are appropriate to carry out this subchapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2792, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1976][/us/stat/110/1976].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2792, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1976][/us/stat/110/1976].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Assuring Coordination Among Departments of Treasury, Health and Human Services, and Labor__ 
 
-[Pub. L. 104–191, title I, § 104][/us/pl/104/191/s104], Aug. 21, 1996, [110 Stat. 1978][/us/stat/110/1978], provided that: 
+[Pub. L. 104–191, title I][/us/pl/104/191/tI], § 104, Aug. 21, 1996, [110 Stat. 1978][/us/stat/110/1978], provided that: 
 
 > “The Secretary of the Treasury, the Secretary of Health and Human Services, and the Secretary of Labor shall ensure, through the execution of an interagency memorandum of understanding among such Secretaries, that—
 
@@ -41,10 +41,10 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1976
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
-[/us/pl/104/191/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs104
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1978
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg

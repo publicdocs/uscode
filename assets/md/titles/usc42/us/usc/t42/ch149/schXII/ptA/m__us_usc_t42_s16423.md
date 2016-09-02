@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated to the Secretary for the purposes of this section, $10,000,000 for each of the fiscal years 2006 through 2012.
 
-([Pub. L. 109–58, title XII, § 1224][/us/pl/109/58/s1224], Aug. 8, 2005, [119 Stat. 954][/us/stat/119/954].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1224, Aug. 8, 2005, [119 Stat. 954][/us/stat/119/954].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1224
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F954
 
 

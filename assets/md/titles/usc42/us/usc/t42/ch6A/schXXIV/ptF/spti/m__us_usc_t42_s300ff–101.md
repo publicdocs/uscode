@@ -51,7 +51,7 @@
 
         The Secretary shall make information concerning successful models or programs developed under this part available to grantees under this subchapter for the purpose of coordination, replication, and integration. To facilitate efforts under this subsection, the Secretary may provide for peer-based technical assistance for grantees funded under this part.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2691, as added [Pub. L. 104–146, § 3(g)(1)][/us/pl/104/146/s3/g/1], May 20, 1996, [110 Stat. 1362][/us/stat/110/1362]; amended [Pub. L. 109–415, title VI, § 601][/us/pl/109/415/s601], title VII, § 703, Dec. 19, 2006, [120 Stat. 2816][/us/stat/120/2816], 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2691, as added [Pub. L. 104–146][/us/pl/104/146], § 3(g)(1), May 20, 1996, [110 Stat. 1362][/us/stat/110/1362]; amended [Pub. L. 109–415, title VI][/us/pl/109/415/tVI], § 601, title VII, § 703, Dec. 19, 2006, [120 Stat. 2816][/us/stat/120/2816], 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __References in Text__ 
 
@@ -59,11 +59,11 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    [Pub. L. 109–415, § 601][/us/pl/109/415/s601], amended section generally. Prior to amendment, section related to use of funds for special projects of national significance.
+    [Pub. L. 109–415][/us/pl/109/415], § 601, amended section generally. Prior to amendment, section related to use of funds for special projects of national significance.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -77,19 +77,19 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/146/s3/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fg%2F1
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1362
-[/us/pl/109/415/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs601
+[/us/pl/109/415/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtVI
 [/us/stat/120/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2816
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs601
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

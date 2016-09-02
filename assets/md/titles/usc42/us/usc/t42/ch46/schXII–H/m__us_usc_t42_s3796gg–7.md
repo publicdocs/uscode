@@ -75,7 +75,7 @@
 
         There are authorized to be appropriated $9,000,000 for each of fiscal years 2014 through 2018 to carry out this section.
 
-([Pub. L. 106–386, div. B, title IV, § 1402][/us/pl/106/386/s1402], Oct. 28, 2000, [114 Stat. 1513][/us/stat/114/1513]; [Pub. L. 109–162, title II, § 204(a)][/us/pl/109/162/s204/a], Jan. 5, 2006, [119 Stat. 3000][/us/stat/119/3000]; [Pub. L. 113–4, title II, § 203][/us/pl/113/4/s203], Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].)
+([Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1402, Oct. 28, 2000, [114 Stat. 1513][/us/stat/114/1513]; [Pub. L. 109–162, title II][/us/pl/109/162/tII], § 204(a), Jan. 5, 2006, [119 Stat. 3000][/us/stat/119/3000]; [Pub. L. 113–4, title II][/us/pl/113/4/tII], § 203, Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].)
 
  __References in Text__ 
 
@@ -89,15 +89,15 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–4, § 203(1)(A)][/us/pl/113/4/s203/1/A], inserted “(including using evidence-based indicators to assess the risk of domestic and dating violence homicide)” after “risk reduction”.
+    2013—Subsec. (b)(1). [Pub. L. 113–4][/us/pl/113/4], § 203(1)(A), inserted “(including using evidence-based indicators to assess the risk of domestic and dating violence homicide)” after “risk reduction”.
 
-    Subsec. (b)(4). [Pub. L. 113–4, § 203(1)(B)][/us/pl/113/4/s203/1/B], substituted “victim service providers” for “victim service organizations”.
+    Subsec. (b)(4). [Pub. L. 113–4][/us/pl/113/4], § 203(1)(B), substituted “victim service providers” for “victim service organizations”.
 
-    Subsec. (b)(5). [Pub. L. 113–4, § 203(1)(C)][/us/pl/113/4/s203/1/C], substituted “victim service providers” for “victim services organizations” in introductory provisions.
+    Subsec. (b)(5). [Pub. L. 113–4][/us/pl/113/4], § 203(1)(C), substituted “victim service providers” for “victim services organizations” in introductory provisions.
 
-    Subsec. (c)(1)(D). [Pub. L. 113–4, § 203(2)][/us/pl/113/4/s203/2], substituted “victim service provider, such as a State or tribal” for “nonprofit and nongovernmental victim services organization, such as a State”.
+    Subsec. (c)(1)(D). [Pub. L. 113–4][/us/pl/113/4], § 203(2), substituted “victim service provider, such as a State or tribal” for “nonprofit and nongovernmental victim services organization, such as a State”.
 
-    Subsec. (e). [Pub. L. 113–4, § 203(3)][/us/pl/113/4/s203/3], substituted “$9,000,000 for each of fiscal years 2014 through 2018” for “$10,000,000 for each of the fiscal years 2007 through 2011”.
+    Subsec. (e). [Pub. L. 113–4][/us/pl/113/4], § 203(3), substituted “$9,000,000 for each of fiscal years 2014 through 2018” for “$10,000,000 for each of the fiscal years 2007 through 2011”.
 
     2006—[Pub. L. 109–162][/us/pl/109/162] substituted “Education, training, and enhanced services to end violence against and abuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
 
@@ -123,22 +123,22 @@
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/106/386/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1402
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1513
-[/us/pl/109/162/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs204%2Fa
+[/us/pl/109/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtII
 [/us/stat/119/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3000
-[/us/pl/113/4/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs203
+[/us/pl/113/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtII
 [/us/stat/127/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F82
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s796f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%935
 [/us/usc/t29/s796f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%935
-[/us/pl/113/4/s203/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs203%2F1%2FA
-[/us/pl/113/4/s203/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs203%2F1%2FB
-[/us/pl/113/4/s203/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs203%2F1%2FC
-[/us/pl/113/4/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs203%2F2
-[/us/pl/113/4/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs203%2F3
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4

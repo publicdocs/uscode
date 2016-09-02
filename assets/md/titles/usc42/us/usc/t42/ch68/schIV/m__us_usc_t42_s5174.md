@@ -243,41 +243,41 @@
 
         The President shall prescribe rules and regulations to carry out this section, including criteria, standards, and procedures for determining eligibility for assistance.
 
-([Pub. L. 93–288, title IV, § 408][/us/pl/93/288/s408], as added [Pub. L. 100–707, title I, § 106(d)][/us/pl/100/707/s106/d], Nov. 23, 1988, [102 Stat. 4702][/us/stat/102/4702]; amended [Pub. L. 106–390, title II, § 206(a)][/us/pl/106/390/s206/a], Oct. 30, 2000, [114 Stat. 1566][/us/stat/114/1566]; [Pub. L. 109–295, title VI][/us/pl/109/295], §§ 685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, [120 Stat. 1447–1449][/us/stat/120/1447-1449], 1452, 1461; [Pub. L. 113–2, div. B][/us/pl/113/2], §§ 1103, 1108(a), Jan. 29, 2013, [127 Stat. 42][/us/stat/127/42], 47.)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 408, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(d), Nov. 23, 1988, [102 Stat. 4702][/us/stat/102/4702]; amended [Pub. L. 106–390, title II][/us/pl/106/390/tII], § 206(a), Oct. 30, 2000, [114 Stat. 1566][/us/stat/114/1566]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], §§ 685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, [120 Stat. 1447–1449][/us/stat/120/1447-1449], 1452, 1461; [Pub. L. 113–2, div. B][/us/pl/113/2/dB], §§ 1103, 1108(a), Jan. 29, 2013, [127 Stat. 42][/us/stat/127/42], 47.)
 
  __Prior Provisions__ 
 
-    A prior section 5174, [Pub. L. 93–288, title IV, § 404][/us/pl/93/288/s404], May 22, 1974, [88 Stat. 154][/us/stat/88/154], related to temporary housing assistance, prior to repeal by [Pub. L. 100–707, § 106(d)][/us/pl/100/707/s106/d].
+    A prior section 5174, [Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 404, May 22, 1974, [88 Stat. 154][/us/stat/88/154], related to temporary housing assistance, prior to repeal by [Pub. L. 100–707][/us/pl/100/707], § 106(d).
 
     A prior [section 408 of Pub. L. 93–288][/us/pl/93/288/s408] was classified to [section 5178 of this title][/us/usc/t42/s5178] and to a note set out under [section 5178 of this title][/us/usc/t42/s5178] prior to repeal by [Pub. L. 100–707][/us/pl/100/707].
 
  __Amendments__ 
 
-    2013—Subsec. (c)(1)(B)(ii) to (iv). [Pub. L. 113–2, § 1103][/us/pl/113/2/s1103], added cl. (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and, in cl. (iv), substituted “clause (iii)” for “clause (ii)”.
+    2013—Subsec. (c)(1)(B)(ii) to (iv). [Pub. L. 113–2][/us/pl/113/2], § 1103, added cl. (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and, in cl. (iv), substituted “clause (iii)” for “clause (ii)”.
 
-    Subsec. (e)(1). [Pub. L. 113–2, § 1108(a)][/us/pl/113/2/s1108/a], inserted “child care,” after “dental,” in heading and text.
+    Subsec. (e)(1). [Pub. L. 113–2][/us/pl/113/2], § 1108(a), inserted “child care,” after “dental,” in heading and text.
 
-    2006—Subsec. (b)(1). [Pub. L. 109–295, § 689(c)(1)][/us/pl/109/295/s689/c/1], inserted “, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable,” after “uninhabitable”.
+    2006—Subsec. (b)(1). [Pub. L. 109–295][/us/pl/109/295], § 689(c)(1), inserted “, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable,” after “uninhabitable”.
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 109–295, § 689d(1)][/us/pl/109/295/s689d/1], inserted at end “Such assistance may include the payment of the cost of utilities, excluding telephone service.”
+    Subsec. (c)(1)(A)(i). [Pub. L. 109–295][/us/pl/109/295], § 689d(1), inserted at end “Such assistance may include the payment of the cost of utilities, excluding telephone service.”
 
-    Subsec. (c)(1)(A)(ii). [Pub. L. 109–295, § 689d(2)][/us/pl/109/295/s689d/2], inserted “security deposits,” after “hookups,”.
+    Subsec. (c)(1)(A)(ii). [Pub. L. 109–295][/us/pl/109/295], § 689d(2), inserted “security deposits,” after “hookups,”.
 
-    Subsec. (c)(2)(C). [Pub. L. 109–295, § 686(1)][/us/pl/109/295/s686/1], struck out subpar. (C) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $5,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
+    Subsec. (c)(2)(C). [Pub. L. 109–295][/us/pl/109/295], § 686(1), struck out subpar. (C) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $5,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
 
-    Subsec. (c)(3)(B), (C). [Pub. L. 109–295, § 686(2)][/us/pl/109/295/s686/2], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
+    Subsec. (c)(3)(B), (C). [Pub. L. 109–295][/us/pl/109/295], § 686(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
 
-    Subsec. (c)(4). [Pub. L. 109–295, § 685][/us/pl/109/295/s685], in introductory provisions, inserted “or semi-permanent” after “permanent” and struck out “remote” before “locations”.
+    Subsec. (c)(4). [Pub. L. 109–295][/us/pl/109/295], § 685, in introductory provisions, inserted “or semi-permanent” after “permanent” and struck out “remote” before “locations”.
 
-    Subsec. (d)(1)(A)(ii), (iii). [Pub. L. 109–295, § 689(c)(2)][/us/pl/109/295/s689/c/2], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (d)(1)(A)(ii), (iii). [Pub. L. 109–295][/us/pl/109/295], § 689(c)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsecs. (i), (j). [Pub. L. 109–295, § 696(c)][/us/pl/109/295/s696/c], added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 109–295][/us/pl/109/295], § 696(c), added subsec. (i) and redesignated former subsec. (i) as (j).
 
     2000–[Pub. L. 106–390][/us/pl/106/390] amended section catchline and text generally. Prior to amendment, text provided for temporary housing assistance through provision of temporary housing, temporary mortgage and rental payment assistance, expenditures to repair or restore owner-occupied private residential structures made uninhabitable by a major disaster which are capable of being restored quickly, and transfer of temporary housing to occupants or to States, local governments, and voluntary organizations, required notification to applicants for assistance, and set out location factors to be given consideration in the provision of assistance.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–390, title II, § 206(d)][/us/pl/106/390/s206/d], Oct. 30, 2000, [114 Stat. 1571][/us/stat/114/1571], provided that: 
+[Pub. L. 106–390, title II][/us/pl/106/390/tII], § 206(d), Oct. 30, 2000, [114 Stat. 1571][/us/stat/114/1571], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 5192 of this title][/us/usc/t42/s5192] and repealing [section 5178 of this title][/us/usc/t42/s5178]\] take effect 18 months after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -289,34 +289,34 @@
 ----------
 
 [/us/usc/t42/s5151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5151
-[/us/pl/93/288/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs408
-[/us/pl/100/707/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fd
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4702
-[/us/pl/106/390/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs206%2Fa
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1566
-[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1447-1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1447-1449
-[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F42
-[/us/pl/93/288/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs404
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F154
-[/us/pl/100/707/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fd
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/93/288/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs408
 [/us/usc/t42/s5178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5178
 [/us/usc/t42/s5178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5178
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/113/2/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1103
-[/us/pl/113/2/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1108%2Fa
-[/us/pl/109/295/s689/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689%2Fc%2F1
-[/us/pl/109/295/s689d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689d%2F1
-[/us/pl/109/295/s689d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689d%2F2
-[/us/pl/109/295/s686/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs686%2F1
-[/us/pl/109/295/s686/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs686%2F2
-[/us/pl/109/295/s685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs685
-[/us/pl/109/295/s689/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689%2Fc%2F2
-[/us/pl/109/295/s696/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs696%2Fc
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
-[/us/pl/106/390/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs206%2Fd
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1571
 [/us/usc/t42/s5192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5192
 [/us/usc/t42/s5178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5178

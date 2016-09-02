@@ -143,7 +143,7 @@
 
         For purposes of this section, the term “part 1 violent crimes” shall include severe forms of trafficking in persons (as defined in [section 7102 of title 22][/us/usc/t22/s7102]).
 
-([Pub. L. 90–351, title I, § 505][/us/pl/90/351/s505], as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)][/us/pl/109/162/s1111/a/2/C], Jan. 5, 2006, [119 Stat. 3097][/us/stat/119/3097]; amended [Pub. L. 114–22, title I, § 107][/us/pl/114/22/s107], May 29, 2015, [129 Stat. 238][/us/stat/129/238].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 505, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(a)(2)(C), Jan. 5, 2006, [119 Stat. 3097][/us/stat/119/3097]; amended [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 107, May 29, 2015, [129 Stat. 238][/us/stat/129/238].)
 
  __Prior Provisions__ 
 
@@ -169,10 +169,10 @@
 [/us/usc/t42/s3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3751
 [/us/usc/t42/s3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3751
 [/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
-[/us/pl/90/351/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs505
-[/us/pl/109/162/s1111/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fa%2F2%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3097
-[/us/pl/114/22/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs107
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F238
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

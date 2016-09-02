@@ -17,7 +17,7 @@
 
     This part provides for special emphasis and demonstration volunteer programs, together with appropriate powers and responsibilities designed to assist in the development and coordination of such programs. The purpose of this part is to strengthen and supplement efforts to meet a broad range of needs, particularly those related to poverty, by encouraging and enabling persons from all walks of life and from all age groups to perform meaningful and constructive volunteer service in agencies, institutions, and organizations where the application of human talent and dedication may help to meet such needs. It is the further purpose of this part to provide technical and financial assistance to encourage voluntary organizations and volunteer efforts at the national, State, and local level.
 
-([Pub. L. 93–113, title I, § 121][/us/pl/93/113/s121], Oct. 1, 1973, [87 Stat. 400][/us/stat/87/400]; [Pub. L. 98–288, § 11][/us/pl/98/288/s11], May 21, 1984, [98 Stat. 191][/us/stat/98/191]; [Pub. L. 111–13, title II, § 2131][/us/pl/111/13/s2131], Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584].)
+([Pub. L. 93–113, title I][/us/pl/93/113/tI], § 121, Oct. 1, 1973, [87 Stat. 400][/us/stat/87/400]; [Pub. L. 98–288][/us/pl/98/288], § 11, May 21, 1984, [98 Stat. 191][/us/stat/98/191]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2131, Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/93/113/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs121
+[/us/pl/93/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtI
 [/us/stat/87/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F400
-[/us/pl/98/288/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs11
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F191
-[/us/pl/111/13/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2131
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1584
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288

@@ -45,7 +45,7 @@
 
         Notwithstanding section 14 of the Federal Advisory Committee Act, the advisory committee shall continue to operate to carry out the advisory committee’s responsibilities under sections 355a, 355c, and 360j(m) of title 21.
 
-([Pub. L. 107–109, § 14][/us/pl/107/109/s14], Jan. 4, 2002, [115 Stat. 1419][/us/stat/115/1419], as amended by [Pub. L. 108–155, § 3(b)(2)][/us/pl/108/155/s3/b/2], Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 110–85, title III, § 306(b)][/us/pl/110/85/s306/b], title V, § 502(d), Sept. 27, 2007, [121 Stat. 865][/us/stat/121/865], 889; [Pub. L. 112–144, title V, § 507(a)][/us/pl/112/144/s507/a], July 9, 2012, [126 Stat. 1045][/us/stat/126/1045]; [Pub. L. 113–5, title III, § 307(c)][/us/pl/113/5/s307/c], Mar. 13, 2013, [127 Stat. 192][/us/stat/127/192].)
+([Pub. L. 107–109][/us/pl/107/109], § 14, Jan. 4, 2002, [115 Stat. 1419][/us/stat/115/1419], as amended by [Pub. L. 108–155][/us/pl/108/155], § 3(b)(2), Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 306(b), title V, § 502(d), Sept. 27, 2007, [121 Stat. 865][/us/stat/121/865], 889; [Pub. L. 112–144, title V][/us/pl/112/144/tV], § 507(a), July 9, 2012, [126 Stat. 1045][/us/stat/126/1045]; [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 307(c), Mar. 13, 2013, [127 Stat. 192][/us/stat/127/192].)
 
  __References in Text__ 
 
@@ -63,31 +63,31 @@
 
     2012—Subsec. (d). [Pub. L. 112–144][/us/pl/112/144] substituted “to carry out the advisory committee’s responsibilities under sections 355a, 355c, and 360j(m) of title 21” for “during the five-year period beginning on September 27, 2007”.
 
-    2007—Subsec. (a). [Pub. L. 110–85, § 306(b)(1)][/us/pl/110/85/s306/b/1], inserted “(including drugs and biological products) and medical devices” after “therapeutics”.
+    2007—Subsec. (a). [Pub. L. 110–85][/us/pl/110/85], § 306(b)(1), inserted “(including drugs and biological products) and medical devices” after “therapeutics”.
 
-    Subsec. (b)(1). [Pub. L. 110–85, § 306(b)(2)(A)][/us/pl/110/85/s306/b/2/A], inserted “(including drugs and biological products) and medical devices” after “therapeutics”.
+    Subsec. (b)(1). [Pub. L. 110–85][/us/pl/110/85], § 306(b)(2)(A), inserted “(including drugs and biological products) and medical devices” after “therapeutics”.
 
-    Subsec. (b)(2)(A). [Pub. L. 110–85, § 306(b)(2)(B)(i)][/us/pl/110/85/s306/b/2/B/i], substituted “355c, 360(k), 360e, and 360j(m)” for “and 355c”.
+    Subsec. (b)(2)(A). [Pub. L. 110–85][/us/pl/110/85], § 306(b)(2)(B)(i), substituted “355c, 360(k), 360e, and 360j(m)” for “and 355c”.
 
-    Subsec. (b)(2)(B). [Pub. L. 110–85, § 306(b)(2)(B)(ii)][/us/pl/110/85/s306/b/2/B/ii], added subpar. (B) and struck out former subpar. (B) which read as follows: “identification of research priorities related to pediatric therapeutics and the need for additional treatments of specific pediatric diseases or conditions; and”.
+    Subsec. (b)(2)(B). [Pub. L. 110–85][/us/pl/110/85], § 306(b)(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “identification of research priorities related to pediatric therapeutics and the need for additional treatments of specific pediatric diseases or conditions; and”.
 
-    Subsec. (b)(2)(C). [Pub. L. 110–85, § 306(b)(2)(B)(iii)][/us/pl/110/85/s306/b/2/B/iii], inserted “(including drugs and biological products) and medical devices” after “therapeutics”.
+    Subsec. (b)(2)(C). [Pub. L. 110–85][/us/pl/110/85], § 306(b)(2)(B)(iii), inserted “(including drugs and biological products) and medical devices” after “therapeutics”.
 
-    Subsec. (d). [Pub. L. 110–85, § 502(d)][/us/pl/110/85/s502/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–85][/us/pl/110/85], § 502(d), added subsec. (d).
 
-    2003—[Pub. L. 108–155, § 3(b)(2)(A)][/us/pl/108/155/s3/b/2/A], struck out “Pharmacology” after “Pediatric” in section catchline.
+    2003—[Pub. L. 108–155][/us/pl/108/155], § 3(b)(2)(A), struck out “Pharmacology” after “Pediatric” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–155, § 3(b)(2)(D)][/us/pl/108/155/s3/b/2/D], substituted “therapeutics” for “pharmacology”.
+    Subsec. (a). [Pub. L. 108–155][/us/pl/108/155], § 3(b)(2)(D), substituted “therapeutics” for “pharmacology”.
 
-    [Pub. L. 108–155, § 3(b)(2)(B)][/us/pl/108/155/s3/b/2/B], inserted “or other appropriate authority” after “217a of this title”.
+    [Pub. L. 108–155][/us/pl/108/155], § 3(b)(2)(B), inserted “or other appropriate authority” after “217a of this title”.
 
-    Subsec. (b)(1). [Pub. L. 108–155, § 3(b)(2)(D)][/us/pl/108/155/s3/b/2/D], substituted “therapeutics” for “pharmacology”.
+    Subsec. (b)(1). [Pub. L. 108–155][/us/pl/108/155], § 3(b)(2)(D), substituted “therapeutics” for “pharmacology”.
 
-    [Pub. L. 108–155, § 3(b)(2)(C)(i)][/us/pl/108/155/s3/b/2/C/i], struck out “and in consultation with the Director of the National Institutes of Health” after “Commissioner of Food and Drugs”.
+    [Pub. L. 108–155][/us/pl/108/155], § 3(b)(2)(C)(i), struck out “and in consultation with the Director of the National Institutes of Health” after “Commissioner of Food and Drugs”.
 
-    Subsec. (b)(2). [Pub. L. 108–155, § 3(b)(2)(C)(ii)][/us/pl/108/155/s3/b/2/C/ii], substituted “355a, and 355c” for “and 355a”.
+    Subsec. (b)(2). [Pub. L. 108–155][/us/pl/108/155], § 3(b)(2)(C)(ii), substituted “355a, and 355c” for “and 355a”.
 
-    Subsec. (b)(2)(B), (C). [Pub. L. 108–155, § 3(b)(2)(D)][/us/pl/108/155/s3/b/2/D], substituted “therapeutics” for “pharmacology”.
+    Subsec. (b)(2)(B), (C). [Pub. L. 108–155][/us/pl/108/155], § 3(b)(2)(D), substituted “therapeutics” for “pharmacology”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -102,33 +102,33 @@
 
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/usc/t21/s360bbb–4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%934%2Fa
-[/us/pl/107/109/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs14
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1419
-[/us/pl/108/155/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/stat/117/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1941
-[/us/pl/110/85/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs306%2Fb
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F865
-[/us/pl/112/144/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs507%2Fa
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1045
-[/us/pl/113/5/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs307%2Fc
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F192
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/usc/t42/s284m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284m
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/pl/110/85/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs306%2Fb%2F1
-[/us/pl/110/85/s306/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs306%2Fb%2F2%2FA
-[/us/pl/110/85/s306/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs306%2Fb%2F2%2FB%2Fi
-[/us/pl/110/85/s306/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs306%2Fb%2F2%2FB%2Fii
-[/us/pl/110/85/s306/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs306%2Fb%2F2%2FB%2Fiii
-[/us/pl/110/85/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs502%2Fd
-[/us/pl/108/155/s3/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2%2FA
-[/us/pl/108/155/s3/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2%2FD
-[/us/pl/108/155/s3/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2%2FB
-[/us/pl/108/155/s3/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2%2FD
-[/us/pl/108/155/s3/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2%2FC%2Fi
-[/us/pl/108/155/s3/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2%2FC%2Fii
-[/us/pl/108/155/s3/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F2%2FD
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/pl/108/155/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs4
 [/us/usc/t21/s355c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355c

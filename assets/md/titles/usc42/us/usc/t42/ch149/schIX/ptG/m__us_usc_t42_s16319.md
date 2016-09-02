@@ -51,7 +51,7 @@
 
         Not later than 2 years after August 8, 2005, the Secretary shall submit to Congress a report on the assessment described in subsection (b) and recommendations for future actions.
 
-([Pub. L. 109–58, title IX, § 979][/us/pl/109/58/s979], Aug. 8, 2005, [119 Stat. 905][/us/stat/119/905].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 979, Aug. 8, 2005, [119 Stat. 905][/us/stat/119/905].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs979
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F905
 
 

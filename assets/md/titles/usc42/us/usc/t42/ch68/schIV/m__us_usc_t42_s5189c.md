@@ -17,7 +17,7 @@
 
     The President may provide transportation assistance to relocate individuals displaced from their predisaster primary residences as a result of an incident declared under this chapter or otherwise transported from their predisaster primary residences under section 5170b(a)(3) or 5192 of this title, to and from alternative locations for short or long-term accommodation or to return an individual or household to their predisaster primary residence or alternative location, as determined necessary by the President.
 
-([Pub. L. 93–288, title IV, § 425][/us/pl/93/288/s425], as added [Pub. L. 109–295, title VI, § 689f][/us/pl/109/295/s689f], Oct. 4, 2006, [120 Stat. 1452][/us/stat/120/1452].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 425, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689f, Oct. 4, 2006, [120 Stat. 1452][/us/stat/120/1452].)
 
  __References in Text__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs425
-[/us/pl/109/295/s689f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689f
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1452
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

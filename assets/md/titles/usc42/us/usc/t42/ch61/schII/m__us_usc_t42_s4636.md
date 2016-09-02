@@ -17,7 +17,7 @@
 
     No payment received under this subchapter shall be considered as income for the purposes of title 26; or for the purposes of determining the eligibility or the extent of eligibility of any person for assistance under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or any other Federal law (except for any Federal law providing low-income housing assistance).
 
-([Pub. L. 91–646, title II, § 216][/us/pl/91/646/s216], Jan. 2, 1971, [84 Stat. 1902][/us/stat/84/1902]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–17, title IV, § 413][/us/pl/100/17/s413], Apr. 2, 1987, [101 Stat. 255][/us/stat/101/255].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 216, Jan. 2, 1971, [84 Stat. 1902][/us/stat/84/1902]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 413, Apr. 2, 1987, [101 Stat. 255][/us/stat/101/255].)
 
  __References in Text__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/91/646/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs216
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1902
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/17/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs413
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F255
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

@@ -27,7 +27,7 @@
 
         The Secretary, acting through the appropriate agencies, shall provide for a national effort to prevent type 1 diabetes. Such effort shall provide for a combination of increased efforts in research and development of prevention strategies, including consideration of vaccine development, coupled with appropriate ability to test the effectiveness of such strategies in large clinical trials of children and young adults.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 434A, as added [Pub. L. 106–310, div. A, title IV, § 402][/us/pl/106/310/s402], Oct. 17, 2000, [114 Stat. 1112][/us/stat/114/1112]; amended [Pub. L. 109–482, title I, § 103(b)(21)][/us/pl/109/482/s103/b/21], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 434A, as added [Pub. L. 106–310, div. A, title IV][/us/pl/106/310/dA/tIV], § 402, Oct. 17, 2000, [114 Stat. 1112][/us/stat/114/1112]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(21), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs402
+[/us/pl/106/310/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtIV
 [/us/stat/114/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1112
-[/us/pl/109/482/s103/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F21
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

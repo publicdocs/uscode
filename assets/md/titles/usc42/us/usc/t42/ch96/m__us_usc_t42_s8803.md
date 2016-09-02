@@ -53,21 +53,21 @@
 
         Financial assistance may be provided under this chapter only to the extent provided in advance in appropriation Acts.
 
-([Pub. L. 96–294, title II, § 204][/us/pl/96/294/s204], June 30, 1980, [94 Stat. 685][/us/stat/94/685]; [Pub. L. 97–35, title X][/us/pl/97/35], §§ 1061–1063, Aug. 13, 1981, [95 Stat. 622][/us/stat/95/622].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 204, June 30, 1980, [94 Stat. 685][/us/stat/94/685]; [Pub. L. 97–35, title X][/us/pl/97/35/tX], §§ 1061–1063, Aug. 13, 1981, [95 Stat. 622][/us/stat/95/622].)
 
  __References in Text__ 
 
-    The Energy Security Reserve established in the Treasury of the United States under title II of the Act entitled “An Act making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1980, and for other purposes” ([Public Law 96–126][/us/pl/96/126]; [93 Stat. 970][/us/stat/93/970]), referred to in subsec. (a), was established by [Pub. L. 96–126, title II, § 201][/us/pl/96/126/s201], Nov. 27, 1979, [93 Stat. 970][/us/stat/93/970], which is set out as a note under [section 5915 of this title][/us/usc/t42/s5915].
+    The Energy Security Reserve established in the Treasury of the United States under title II of the Act entitled “An Act making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1980, and for other purposes” ([Public Law 96–126][/us/pl/96/126]; [93 Stat. 970][/us/stat/93/970]), referred to in subsec. (a), was established by [Pub. L. 96–126, title II][/us/pl/96/126/tII], § 201, Nov. 27, 1979, [93 Stat. 970][/us/stat/93/970], which is set out as a note under [section 5915 of this title][/us/usc/t42/s5915].
 
     This chapter, referred to in subsecs. (c)(1) and (d), was in the original “this title”, meaning title II of [Pub. L. 96–294][/us/pl/96/294], June 30, 1980, [94 Stat. 683][/us/stat/94/683], known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 8801 of this title][/us/usc/t42/s8801] and Tables.
 
  __Amendments__ 
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 1063][/us/pl/97/35/s1063], substituted “$1,170,000,000” for “$1,450,000,000”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 1063, substituted “$1,170,000,000” for “$1,450,000,000”.
 
-    Subsec. (a)(1). [Pub. L. 97–35, § 1061][/us/pl/97/35/s1061], substituted “$460,000,000” for “$600,000,000”.
+    Subsec. (a)(1). [Pub. L. 97–35][/us/pl/97/35], § 1061, substituted “$460,000,000” for “$600,000,000”.
 
-    Subsec. (a)(2). [Pub. L. 97–35, § 1062][/us/pl/97/35/s1062], substituted “$460,000,000” for “$600,000,000”.
+    Subsec. (a)(2). [Pub. L. 97–35][/us/pl/97/35], § 1062, substituted “$460,000,000” for “$600,000,000”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -83,21 +83,21 @@
 [/us/pl/96/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126
 [/us/stat/93/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F970
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/96/294/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs204
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F685
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F622
 [/us/pl/96/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126
 [/us/stat/93/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F970
-[/us/pl/96/126/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126%2Fs201
+[/us/pl/96/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126%2FtII
 [/us/stat/93/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F970
 [/us/usc/t42/s5915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5915
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683
 [/us/usc/t42/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8801
-[/us/pl/97/35/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1063
-[/us/pl/97/35/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1061
-[/us/pl/97/35/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1062
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1038
 [/us/usc/t42/s6240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6240

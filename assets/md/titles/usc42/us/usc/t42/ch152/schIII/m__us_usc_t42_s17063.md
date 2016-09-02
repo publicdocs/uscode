@@ -87,7 +87,7 @@
 
         Not later than 2 years after April 30, 2015, and every 2 years thereafter, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and Committee on Energy and Natural Resources of the Senate a report on the progress made in complying with this section.
 
-([Pub. L. 114–11, title III, § 301][/us/pl/114/11/s301], Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
+([Pub. L. 114–11, title III][/us/pl/114/11/tIII], § 301, Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
 
  __Codification__ 
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/114/11/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs301
+[/us/pl/114/11/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtIII
 [/us/stat/129/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F189
 [/us/pl/114/11/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs301
 [/us/pl/114/11/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs301

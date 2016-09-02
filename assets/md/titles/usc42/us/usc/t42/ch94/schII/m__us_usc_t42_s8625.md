@@ -27,7 +27,7 @@
 
         When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that the State is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
 
-([Pub. L. 97–35, title XXVI, § 2606][/us/pl/97/35/s2606], Aug. 13, 1981, [95 Stat. 900][/us/stat/95/900].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2606, Aug. 13, 1981, [95 Stat. 900][/us/stat/95/900].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/97/35/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2606
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F900
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/78/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F728

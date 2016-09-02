@@ -35,7 +35,7 @@
 
             (C) both to generate electricity and to produce hydrogen.
 
-([Pub. L. 109–58, title VI, § 641][/us/pl/109/58/s641], Aug. 8, 2005, [119 Stat. 794][/us/stat/119/794].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 641, Aug. 8, 2005, [119 Stat. 794][/us/stat/119/794].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs641
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F794
 [/us/usc/t42/s16272/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16272%2Fd
 [/us/pl/109/58/s942/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs942%2Fd

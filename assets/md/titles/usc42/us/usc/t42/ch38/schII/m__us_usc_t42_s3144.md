@@ -47,19 +47,19 @@
 
             In the case of a grant provided under [section 3147 of this title][/us/usc/t42/s3147], the Secretary may increase the Federal share above the percentage specified in subsection (a) of this section up to 100 percent of the cost of the project if the Secretary determines that the project funded by the grant merits, and is not feasible without, such an increase.
 
-([Pub. L. 89–136, title II, § 204][/us/pl/89/136/s204], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3603][/us/stat/112/3603]; amended [Pub. L. 108–373, title II, § 202][/us/pl/108/373/s202], Oct. 27, 2004, [118 Stat. 1759][/us/stat/118/1759].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 204, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3603][/us/stat/112/3603]; amended [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 202, Oct. 27, 2004, [118 Stat. 1759][/us/stat/118/1759].)
 
  __Prior Provisions__ 
 
-    A prior section 3144, [Pub. L. 89–136, title II, § 204][/us/pl/89/136/s204], as added [Pub. L. 94–487, title I, § 109][/us/pl/94/487/s109], Oct. 12, 1976, [90 Stat. 2333][/us/stat/90/2333]; amended [Pub. L. 96–470, title I, § 201(d)][/us/pl/96/470/s201/d], Oct. 19, 1980, [94 Stat. 2241][/us/stat/94/2241]; [Pub. L. 96–506, § 1(4)][/us/pl/96/506/s1/4], Dec. 8, 1980, [94 Stat. 2745][/us/stat/94/2745]; [Pub. L. 97–35, title XVIII, § 1821(a)(3)][/us/pl/97/35/s1821/a/3], Aug. 13, 1981, [95 Stat. 766][/us/stat/95/766], authorized interest free loans to carry out approved redevelopment area plans, prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior section 3144, [Pub. L. 89–136, title II][/us/pl/89/136/tII], § 204, as added [Pub. L. 94–487, title I][/us/pl/94/487/tI], § 109, Oct. 12, 1976, [90 Stat. 2333][/us/stat/90/2333]; amended [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 201(d), Oct. 19, 1980, [94 Stat. 2241][/us/stat/94/2241]; [Pub. L. 96–506][/us/pl/96/506], § 1(4), Dec. 8, 1980, [94 Stat. 2745][/us/stat/94/2745]; [Pub. L. 97–35, title XVIII][/us/pl/97/35/tXVIII], § 1821(a)(3), Aug. 13, 1981, [95 Stat. 766][/us/stat/95/766], authorized interest free loans to carry out approved redevelopment area plans, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–373, § 202(a)][/us/pl/108/373/s202/a], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to [section 3145 of this title][/us/usc/t42/s3145], the amount of a grant for a project under this subchapter shall not exceed 50 percent of the cost of the project.”
+    2004—Subsec. (a). [Pub. L. 108–373][/us/pl/108/373], § 202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to [section 3145 of this title][/us/usc/t42/s3145], the amount of a grant for a project under this subchapter shall not exceed 50 percent of the cost of the project.”
 
-    Subsec. (b). [Pub. L. 108–373, § 202(b)][/us/pl/108/373/s202/b], inserted “assumptions of debt,” after “equipment,”.
+    Subsec. (b). [Pub. L. 108–373][/us/pl/108/373], § 202(b), inserted “assumptions of debt,” after “equipment,”.
 
-    Subsec. (c). [Pub. L. 108–373, § 202(c)][/us/pl/108/373/s202/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–373][/us/pl/108/373], § 202(c), added subsec. (c).
 
 ----------
 
@@ -69,24 +69,24 @@
 ----------
 
 [/us/usc/t42/s3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3147
-[/us/pl/89/136/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs204
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3603
-[/us/pl/108/373/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs202
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1759
-[/us/pl/89/136/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs204
-[/us/pl/94/487/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2Fs109
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/94/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2FtI
 [/us/stat/90/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2333
-[/us/pl/96/470/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs201%2Fd
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2241
-[/us/pl/96/506/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F506%2Fs1%2F4
+[/us/pl/96/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F506
 [/us/stat/94/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2745
-[/us/pl/97/35/s1821/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1821%2Fa%2F3
+[/us/pl/97/35/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVIII
 [/us/stat/95/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F766
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
-[/us/pl/108/373/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs202%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 [/us/usc/t42/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3145
-[/us/pl/108/373/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs202%2Fb
-[/us/pl/108/373/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs202%2Fc
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

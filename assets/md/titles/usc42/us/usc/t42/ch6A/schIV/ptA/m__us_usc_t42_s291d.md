@@ -61,27 +61,27 @@
 
         The Surgeon General shall approve any State plan and any modification thereof which complies with the provisions of subsection (a) of this section. If any such plan or modification thereof shall have been disapproved by the Surgeon General for failure to comply with subsection (a) of this section, the Federal Hospital Council shall, upon request of the State agency, afford it an opportunity for hearing. If such Council determines that the plan or modification complies with the provisions of such subsection, the Surgeon General shall thereupon approve such plan or modification.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 604, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 452][/us/stat/78/452]; amended [Pub. L. 91–296, title I][/us/pl/91/296], §§ 115, 116(b), (c), 123, June 30, 1970, [84 Stat. 341][/us/stat/84/341], 342, 344.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 604, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 452][/us/stat/78/452]; amended [Pub. L. 91–296, title I][/us/pl/91/296/tI], §§ 115, 116(b), (c), 123, June 30, 1970, [84 Stat. 341][/us/stat/84/341], 342, 344.)
 
  __Prior Provisions__ 
 
-    A prior section 291d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 621, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722, § 2(a)][/us/act/1949-10-25/ch722/s2/a], [63 Stat. 898][/us/stat/63/898]; [July 27, 1953, ch. 243][/us/act/1953-07-27/ch243], [67 Stat. 196][/us/stat/67/196]; [Aug. 2, 1956, ch. 871][/us/act/1956-08-02/ch871], title IV, § 401, [70 Stat. 929][/us/stat/70/929]; Aug. 14, 1958, [Pub. L. 85–664, § 1(a)][/us/pl/85/664/s1/a], [72 Stat. 616][/us/stat/72/616], authorized appropriations for construction of hospitals and related facilities, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291a of this title][/us/usc/t42/s291a].
+    A prior section 291d, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 621, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], § 2(a), [63 Stat. 898][/us/stat/63/898]; [July 27, 1953, ch. 243][/us/act/1953-07-27/ch243], [67 Stat. 196][/us/stat/67/196]; [Aug. 2, 1956, ch. 871][/us/act/1956-08-02/ch871], title IV, § 401, [70 Stat. 929][/us/stat/70/929]; Aug. 14, 1958, [Pub. L. 85–664][/us/pl/85/664], § 1(a), [72 Stat. 616][/us/stat/72/616], authorized appropriations for construction of hospitals and related facilities, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291a of this title][/us/usc/t42/s291a].
 
-    Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 623, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 623, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Amendments__ 
 
-    1970—Subsec. (a)(3). [Pub. L. 91–296, § 115][/us/pl/91/296/s115], inserted requirement that State advisory councils include representatives particularly concerned with education or training of health professions personnel.
+    1970—Subsec. (a)(3). [Pub. L. 91–296][/us/pl/91/296], § 115, inserted requirement that State advisory councils include representatives particularly concerned with education or training of health professions personnel.
 
-    Subsec. (a)(4)(C). [Pub. L. 91–296, § 116(b)][/us/pl/91/296/s116/b], substituted “outpatient facilities” for “diagnostic or treatment centers” and “such facilities” for “such centers”.
+    Subsec. (a)(4)(C). [Pub. L. 91–296][/us/pl/91/296], § 116(b), substituted “outpatient facilities” for “diagnostic or treatment centers” and “such facilities” for “such centers”.
 
-    Subsec. (a)(5). [Pub. L. 91–296, § 116(c)][/us/pl/91/296/s116/c], substituted “outpatient facilities” for “diagnostic or treatment centers”.
+    Subsec. (a)(5). [Pub. L. 91–296][/us/pl/91/296], § 116(c), substituted “outpatient facilities” for “diagnostic or treatment centers”.
 
-    Subsec. (a)(13). [Pub. L. 91–296, § 123][/us/pl/91/296/s123], added par. (13).
+    Subsec. (a)(13). [Pub. L. 91–296][/us/pl/91/296], § 123, added par. (13).
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–296, title I, § 115][/us/pl/91/296/s115], June 30, 1970, [84 Stat. 341][/us/stat/84/341], provided that the amendment made by that section is effective July 1, 1970.
+    [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 115, June 30, 1970, [84 Stat. 341][/us/stat/84/341], provided that the amendment made by that section is effective July 1, 1970.
 
  __Transfer of Functions__ 
 
@@ -91,7 +91,7 @@
 
  __Funds for Modernization Projects; Conditions To Be Met Before Approval__ 
 
-    [Pub. L. 88–443, § 3(b)(5)][/us/pl/88/443/s3/b/5], Aug. 18, 1964, [78 Stat. 462][/us/stat/78/462], provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under [section 291(a)(2) of this title][/us/usc/t42/s291/a/2] before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note under [section 291 of this title][/us/usc/t42/s291].
+    [Pub. L. 88–443][/us/pl/88/443], § 3(b)(5), Aug. 18, 1964, [78 Stat. 462][/us/stat/78/462], provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under [section 291(a)(2) of this title][/us/usc/t42/s291/a/2] before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note under [section 291 of this title][/us/usc/t42/s291].
 
 ----------
 
@@ -104,39 +104,39 @@
 [/us/usc/t42/s291c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291c
 [/us/usc/t42/s291c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291c
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F452
-[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F341
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1949-10-25/ch722/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722%2Fs2%2Fa
+[/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F898
 [/us/act/1953-07-27/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-27%2Fch243
 [/us/stat/67/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F196
 [/us/act/1956-08-02/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch871
 [/us/stat/70/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F929
-[/us/pl/85/664/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F664%2Fs1%2Fa
+[/us/pl/85/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F664
 [/us/stat/72/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F616
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/usc/t42/s291a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291a
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
-[/us/pl/91/296/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs115
-[/us/pl/91/296/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs116%2Fb
-[/us/pl/91/296/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs116%2Fc
-[/us/pl/91/296/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs123
-[/us/pl/91/296/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs115
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F341
 [/us/usc/t42/s4728/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4728%2Fa%2F3%2FC
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/88/443/s3/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fb%2F5
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F462
 [/us/usc/t42/s291/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291%2Fa%2F2
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291

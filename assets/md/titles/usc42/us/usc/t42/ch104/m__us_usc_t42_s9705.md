@@ -31,7 +31,7 @@
 
         The Secretary shall complete the study within one year after December 22, 1980, and shall submit a report along with his recommendations to the Congress.
 
-([Pub. L. 96–567, § 6][/us/pl/96/567/s6], Dec. 22, 1980, [94 Stat. 3332][/us/stat/94/3332].)
+([Pub. L. 96–567][/us/pl/96/567], § 6, Dec. 22, 1980, [94 Stat. 3332][/us/stat/94/3332].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/567/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs6
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3332
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841

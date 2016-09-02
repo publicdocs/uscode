@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to carry out this section not more than $10,000,000 for each of the fiscal years 2006 through 2015.
 
-([Pub. L. 109–58, title II, § 243][/us/pl/109/58/s243], Aug. 8, 2005, [119 Stat. 678][/us/stat/119/678].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 243, Aug. 8, 2005, [119 Stat. 678][/us/stat/119/678].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs243
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F678
 
 

@@ -57,7 +57,7 @@
 
         the Commissioner shall make such allotment available for carrying out such purposes to other participating States in a proportional manner based on the relative population of the State of individuals under the age of 21.
 
-    (d) __Repealed.__  __[__  __Pub. L. 103–252, title IV, § 402(b)(2)__  __][/us/pl/103/252/s402/b/2]__  __,__  __May 18, 1994__  __,__  __[__  __108 Stat. 673__  __][/us/stat/108/673]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 103–252, title IV__  __][/us/pl/103/252/tIV]__  __, § 402(b)(2),__  __May 18, 1994__  __,__  __[__  __108 Stat. 673__  __][/us/stat/108/673]__ 
 
     (e) __Limitation__ 
 
@@ -79,19 +79,19 @@
 
         The remaining 20 percent of such cost shall be paid by the State with funds from non-Federal sources.
 
-([Pub. L. 101–501, title IX, § 934][/us/pl/101/501/s934], Nov. 3, 1990, [104 Stat. 1277][/us/stat/104/1277]; [Pub. L. 103–252, title IV, § 402(b)][/us/pl/103/252/s402/b], May 18, 1994, [108 Stat. 673][/us/stat/108/673].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 934, Nov. 3, 1990, [104 Stat. 1277][/us/stat/104/1277]; [Pub. L. 103–252, title IV][/us/pl/103/252/tIV], § 402(b), May 18, 1994, [108 Stat. 673][/us/stat/108/673].)
 
  __References in Text__ 
 
-    [Section 12339 of this title][/us/usc/t42/s12339], referred to in subsecs. (e) and (g)(3), was repealed by [Pub. L. 103–252, title IV, § 401(b)(1)][/us/pl/103/252/s401/b/1], May 18, 1994, [108 Stat. 672][/us/stat/108/672].
+    [Section 12339 of this title][/us/usc/t42/s12339], referred to in subsecs. (e) and (g)(3), was repealed by [Pub. L. 103–252, title IV][/us/pl/103/252/tIV], § 401(b)(1), May 18, 1994, [108 Stat. 672][/us/stat/108/672].
 
     [Section 450b of title 25][/us/usc/t25/s450b], referred to in subsec. (f), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–252, § 402(b)(1)][/us/pl/103/252/s402/b/1], amended par. (1) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out sections 12315, 12337, and 12338 of this title, $30,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992, 1993, and 1994. Funds appropriated under this paragraph shall remain available for expenditure in the fiscal year succeeding the fiscal year for which such funds are appropriated.”
+    1994—Subsec. (a)(1). [Pub. L. 103–252][/us/pl/103/252], § 402(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out sections 12315, 12337, and 12338 of this title, $30,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992, 1993, and 1994. Funds appropriated under this paragraph shall remain available for expenditure in the fiscal year succeeding the fiscal year for which such funds are appropriated.”
 
-    Subsec. (d). [Pub. L. 103–252, § 402(b)(2)][/us/pl/103/252/s402/b/2], struck out heading and text of subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out [section 12339 of this title][/us/usc/t42/s12339], $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994.”
+    Subsec. (d). [Pub. L. 103–252][/us/pl/103/252], § 402(b)(2), struck out heading and text of subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out [section 12339 of this title][/us/usc/t42/s12339], $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994.”
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -106,20 +106,20 @@
 
 [/us/usc/t42/s12315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12315
 [/us/usc/t42/s12335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12335
-[/us/pl/103/252/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs402%2Fb%2F2
+[/us/pl/103/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIV
 [/us/stat/108/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F673
 [/us/usc/t42/s12337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12337
 [/us/usc/t42/s12338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12338
-[/us/pl/101/501/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs934
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1277
-[/us/pl/103/252/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs402%2Fb
+[/us/pl/103/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIV
 [/us/stat/108/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F673
 [/us/usc/t42/s12339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12339
-[/us/pl/103/252/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs401%2Fb%2F1
+[/us/pl/103/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIV
 [/us/stat/108/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F672
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/103/252/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs402%2Fb%2F1
-[/us/pl/103/252/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs402%2Fb%2F2
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s12339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12339
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

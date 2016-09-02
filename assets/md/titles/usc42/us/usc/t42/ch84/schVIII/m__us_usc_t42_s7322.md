@@ -19,7 +19,7 @@
 
     (b) Each such committee shall review the proposed Plan and, if it deems appropriate and necessary, report to the Senate or the House of Representatives legislation regarding such Plan which may contain such alternatives to, modifications of, or additions to the proposed Plan submitted by the President as the committee deems appropriate.
 
-([Pub. L. 95–91, title VIII, § 802][/us/pl/95/91/s802], Aug. 4, 1977, [91 Stat. 611][/us/stat/91/611].)
+([Pub. L. 95–91, title VIII][/us/pl/95/91/tVIII], § 802, Aug. 4, 1977, [91 Stat. 611][/us/stat/91/611].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs802
+[/us/pl/95/91/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVIII
 [/us/stat/91/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F611
 
 

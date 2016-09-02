@@ -31,7 +31,7 @@
 
         Within 1 year after October 24, 1992, the Secretary shall solicit proposals for conducting activities consistent with the 5-year program plan.
 
-([Pub. L. 102–486, title XX, § 2027][/us/pl/102/486/s2027], Oct. 24, 1992, [106 Stat. 3066][/us/stat/106/3066].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2027, Oct. 24, 1992, [106 Stat. 3066][/us/stat/106/3066].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s13431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13431%2Fb
-[/us/pl/102/486/s2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2027
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3066
 
 

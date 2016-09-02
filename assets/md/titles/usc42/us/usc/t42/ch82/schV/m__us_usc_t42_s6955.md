@@ -17,7 +17,7 @@
 
     In establishing any policies which may affect the development of new markets for recovered materials and in making any determination concerning whether or not to impose monitoring or other controls on any marketing or transfer of recovered materials, the Secretary of Commerce may consider whether to establish the same or similar policies or impose the same or similar monitoring or other controls on virgin materials.
 
-([Pub. L. 89–272, title II, § 5005][/us/pl/89/272/s5005], as added [Pub. L. 96–482, § 21(c)(1)][/us/pl/96/482/s21/c/1], Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 5005, as added [Pub. L. 96–482][/us/pl/96/482], § 21(c)(1), Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs5005
-[/us/pl/96/482/s21/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs21%2Fc%2F1
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2346
 
 

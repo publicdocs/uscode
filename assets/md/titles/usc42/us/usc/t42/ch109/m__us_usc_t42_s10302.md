@@ -31,7 +31,7 @@
 
     (7) encourage long-term planning and research to meet future water management, quality, and supply challenges.
 
-([Pub. L. 98–242, title I, § 103][/us/pl/98/242/s103], Mar. 22, 1984, [98 Stat. 97][/us/stat/98/97]; [Pub. L. 101–397, § 1(a)][/us/pl/101/397/s1/a], Sept. 28, 1990, [104 Stat. 852][/us/stat/104/852]; [Pub. L. 104–147, § 2][/us/pl/104/147/s2], May 24, 1996, [110 Stat. 1375][/us/stat/110/1375].)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 103, Mar. 22, 1984, [98 Stat. 97][/us/stat/98/97]; [Pub. L. 101–397][/us/pl/101/397], § 1(a), Sept. 28, 1990, [104 Stat. 852][/us/stat/104/852]; [Pub. L. 104–147][/us/pl/104/147], § 2, May 24, 1996, [110 Stat. 1375][/us/stat/110/1375].)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 
  __Amendments__ 
 
-    1996—Par. (5). [Pub. L. 104–147, § 2(1)][/us/pl/104/147/s2/1], struck out “to” before “promote” and “and” after “program;”.
+    1996—Par. (5). [Pub. L. 104–147][/us/pl/104/147], § 2(1), struck out “to” before “promote” and “and” after “program;”.
 
-    Par. (6). [Pub. L. 104–147, § 2(2)][/us/pl/104/147/s2/2], substituted “; and” for period at end.
+    Par. (6). [Pub. L. 104–147][/us/pl/104/147], § 2(2), substituted “; and” for period at end.
 
-    Par. (7). [Pub. L. 104–147, § 2(3)][/us/pl/104/147/s2/3], added par. (7).
+    Par. (7). [Pub. L. 104–147][/us/pl/104/147], § 2(3), added par. (7).
 
     1990—Par. (5). [Pub. L. 101–397][/us/pl/101/397] substituted “to promote more effective coordination of” for “coordinate more effectively”.
 
@@ -54,18 +54,18 @@
 ----------
 ----------
 
-[/us/pl/98/242/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs103
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F97
-[/us/pl/101/397/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fa
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/stat/104/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F852
-[/us/pl/104/147/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs2
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
 [/us/stat/110/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1375
 [/us/pl/98/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242
 [/us/stat/98/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F97
 [/us/usc/t42/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10301
-[/us/pl/104/147/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs2%2F1
-[/us/pl/104/147/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs2%2F2
-[/us/pl/104/147/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs2%2F3
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
 [/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 
 

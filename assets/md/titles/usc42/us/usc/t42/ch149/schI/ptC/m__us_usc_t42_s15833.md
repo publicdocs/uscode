@@ -37,7 +37,7 @@
 
         There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010, to remain available until expended.
 
-([Pub. L. 109–58, title I, § 140][/us/pl/109/58/s140], Aug. 8, 2005, [119 Stat. 647][/us/stat/119/647].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 140, Aug. 8, 2005, [119 Stat. 647][/us/stat/119/647].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs140
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F647
 
 

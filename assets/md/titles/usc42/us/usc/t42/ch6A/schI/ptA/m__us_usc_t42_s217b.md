@@ -17,7 +17,7 @@
 
     Subject to regulations, volunteer and uncompensated services may be accepted by the Secretary, or by any other officer or employee of the Department of Health and Human Services designated by him, for use in the operation of any health care facility or in the provision of health care.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 223, as added [Pub. L. 90–174, § 6][/us/pl/90/174/s6], Dec. 5, 1967, [81 Stat. 539][/us/stat/81/539]; amended [Pub. L. 103–43, title XX, § 2008(h)][/us/pl/103/43/s2008/h], June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 223, as added [Pub. L. 90–174][/us/pl/90/174], § 6, Dec. 5, 1967, [81 Stat. 539][/us/stat/81/539]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(h), June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/174/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs6
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F539
-[/us/pl/103/43/s2008/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fh
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F212
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

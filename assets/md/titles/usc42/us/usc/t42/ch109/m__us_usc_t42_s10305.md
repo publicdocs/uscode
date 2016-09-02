@@ -29,7 +29,7 @@
 
         There is authorized to be appropriated to the Secretary the sum of $6,000,000 for the purpose of carrying out this section for each of the fiscal years ending September 30, 1990, through September 30, 1995; such sums to remain available until expended.
 
-([Pub. L. 98–242, title I, § 106][/us/pl/98/242/s106], Mar. 22, 1984, [98 Stat. 100][/us/stat/98/100]; [Pub. L. 101–397, § 1(n)][/us/pl/101/397/s1/n], Sept. 28, 1990, [104 Stat. 853][/us/stat/104/853].)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 106, Mar. 22, 1984, [98 Stat. 100][/us/stat/98/100]; [Pub. L. 101–397][/us/pl/101/397], § 1(n), Sept. 28, 1990, [104 Stat. 853][/us/stat/104/853].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t42/s10303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10303
 [/us/usc/t42/s10303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10303
-[/us/pl/98/242/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs106
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F100
-[/us/pl/101/397/s1/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fn
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/stat/104/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F853
 [/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/usc/t42/s10303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10303

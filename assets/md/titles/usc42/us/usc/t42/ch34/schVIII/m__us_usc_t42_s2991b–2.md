@@ -51,13 +51,13 @@
 
         The Secretary shall assure that adequate staff and administrative support is provided to carry out the purpose of this subchapter. In determining the staffing levels of the Administration, the Secretary shall consider among other factors the unmet needs of the Native American population, the need to provide adequate oversight and technical assistance to grantees, the need to carry out the activities of the Council, the additional reporting requirements established, and the staffing levels previously maintained in support of the Administration.
 
-([Pub. L. 88–452, title VIII, § 803B][/us/pl/88/452/s803B], as added [Pub. L. 102–375, title VIII, § 822(3)][/us/pl/102/375/s822/3], Sept. 30, 1992, [106 Stat. 1296][/us/stat/106/1296]; amended [Pub. L. 103–171, § 5(4)][/us/pl/103/171/s5/4], Dec. 2, 1993, [107 Stat. 1992][/us/stat/107/1992].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 803B, as added [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(3), Sept. 30, 1992, [106 Stat. 1296][/us/stat/106/1296]; amended [Pub. L. 103–171][/us/pl/103/171], § 5(4), Dec. 2, 1993, [107 Stat. 1992][/us/stat/107/1992].)
 
  __Amendments__ 
 
-    1993—Subsec. (c)(5). [Pub. L. 103–171, § 5(4)(A)][/us/pl/103/171/s5/4/A], substituted “agencies described in [section 2991b(a) of this title][/us/usc/t42/s2991b/a] that” for “individuals who”.
+    1993—Subsec. (c)(5). [Pub. L. 103–171][/us/pl/103/171], § 5(4)(A), substituted “agencies described in [section 2991b(a) of this title][/us/usc/t42/s2991b/a] that” for “individuals who”.
 
-    Subsec. (c)(6). [Pub. L. 103–171, § 5(4)(B)][/us/pl/103/171/s5/4/B], substituted “Native Americans,” for “such individuals”.
+    Subsec. (c)(6). [Pub. L. 103–171][/us/pl/103/171], § 5(4)(B), substituted “Native Americans,” for “such individuals”.
 
 ----------
 
@@ -68,13 +68,13 @@
 
 [/us/usc/t42/s2991b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991b%2Fa
 [/us/usc/t42/s2991b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991b%2Fa
-[/us/pl/88/452/s803B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs803B
-[/us/pl/102/375/s822/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F3
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1296
-[/us/pl/103/171/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs5%2F4
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1992
-[/us/pl/103/171/s5/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs5%2F4%2FA
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/usc/t42/s2991b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991b%2Fa
-[/us/pl/103/171/s5/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs5%2F4%2FB
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 
 

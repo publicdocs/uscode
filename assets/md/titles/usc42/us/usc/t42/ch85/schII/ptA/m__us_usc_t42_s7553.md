@@ -17,7 +17,7 @@
 
     The Administrator shall promulgate regulations applicable to motor vehicle engines and nonroad engines manufactured after model year 1992 that prohibit the manufacture, sale, or introduction into commerce of any engine that requires leaded gasoline.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 218, as added [Pub. L. 101–549, title II, § 226][/us/pl/101/549/s226], Nov. 15, 1990, [104 Stat. 2505][/us/stat/104/2505].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 218, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 226, Nov. 15, 1990, [104 Stat. 2505][/us/stat/104/2505].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs226
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2505
 
 

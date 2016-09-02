@@ -61,17 +61,17 @@
 
         (4) payments from that fund should commence not later than fiscal year 2002.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3602\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–495.)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3602\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–495.)
 
  __Short Title__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3601\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–495, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3601\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–495, provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Energy Employees Occupational Illness Compensation Program Act of 2000’.”
 
  __Update of Report on Residual Contamination of Facilities__ 
 
-[Pub. L. 108–375, div. C, title XXXI, § 3169][/us/pl/108/375/s3169], Oct. 28, 2004, [118 Stat. 2191][/us/stat/118/2191], provided that:
+[Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3169, Oct. 28, 2004, [118 Stat. 2191][/us/stat/118/2191], provided that:
 
 >     “(a)  __Update of Report__  __.—__ 
 
@@ -97,7 +97,7 @@
 
  __Study of Residual Contamination of Facilities__ 
 
-[Pub. L. 107–107, div. C, title XXXI, § 3151(b)][/us/pl/107/107/s3151/b], Dec. 28, 2001, [115 Stat. 1375][/us/stat/115/1375], provided that:
+[Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3151(b), Dec. 28, 2001, [115 Stat. 1375][/us/stat/115/1375], provided that:
 
 >     “(1)
 
@@ -248,16 +248,16 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3169
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2191
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t42/s7384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384
 [/us/usc/t42/s7384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384
-[/us/pl/107/107/s3151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fb
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1375
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t42/s7384g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384g%2Fa

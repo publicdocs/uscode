@@ -71,7 +71,7 @@
 
         The Secretary is also authorized, during the period beginning July 1, 1966, and ending June 30, 1974, to make grants to any public or nonprofit private agency, institution, or other organization to cover all or any part of the cost of projects for training, studies, or demonstrations looking toward the development of improved or more effective comprehensive health planning throughout the Nation. For the purposes of carrying out this subsection, there are hereby authorized to be appropriated $1,500,000 for the fiscal year ending June 30, 1967, $2,500,000 for the fiscal year ending June 30, 1968, $5,000,000 for the fiscal year ending June 30, 1969, $7,500,000 for the fiscal year ending June 30, 1970, $8,000,000 for the fiscal year ending June 30, 1971, $10,000,000 for the fiscal year ending June 30, 1972, $12,000,000 for the fiscal year ending June 30, 1973, and $4,700,000 for the fiscal year ending June 30, 1974.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 314, [58 Stat. 693][/us/stat/58/693]; [July 3, 1946, ch. 538, § 9][/us/act/1946-07-03/ch538/s9], [60 Stat. 424][/us/stat/60/424]; [June 16, 1948, ch. 481, § 5][/us/act/1948-06-16/ch481/s5], [62 Stat. 468][/us/stat/62/468]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 852, § 18][/us/act/1956-08-01/ch852/s18], [70 Stat. 910][/us/stat/70/910]; [Pub. L. 85–544, § 1][/us/pl/85/544/s1], July 22, 1958, [72 Stat. 400][/us/stat/72/400]; [Pub. L. 87–395, § 2(a)][/us/pl/87/395/s2/a]–(d), Oct. 5, 1961, [75 Stat. 824][/us/stat/75/824]; [Pub. L. 87–688, § 4(a)(1)][/us/pl/87/688/s4/a/1], Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587]; [Pub. L. 89–109, § 4][/us/pl/89/109/s4], Aug. 5, 1965, [79 Stat. 436][/us/stat/79/436]; [Pub. L. 89–749, § 3][/us/pl/89/749/s3], Nov. 3, 1966, [80 Stat. 1181][/us/stat/80/1181]; [Pub. L. 90–174][/us/pl/90/174], §§ 2(a)–(f), 3(b)(2), 8(a), (b), 12(d), Dec. 5, 1967, [81 Stat. 533–535][/us/stat/81/533-535], 540, 541; [Pub. L. 91–296, title I, § 111(b)][/us/pl/91/296/s111/b], title IV, § 401(b)(1)(C), (D), June 30, 1970, [84 Stat. 340][/us/stat/84/340], 352; [Pub. L. 91–513, title I, § 3(b)][/us/pl/91/513/s3/b], Oct. 27, 1970, [84 Stat. 1241][/us/stat/84/1241]; [Pub. L. 91–515, title II][/us/pl/91/515], §§ 220, 230, 240, 250, 260(a)–(c)(1), 282, Oct. 30, 1970, [84 Stat. 1304–1306][/us/stat/84/1304-1306], 1308; [Pub. L. 91–616, title III, § 331][/us/pl/91/616/s331], Dec. 31, 1970, [84 Stat. 1853][/us/stat/84/1853]; [Pub. L. 91–648, title IV, § 403][/us/pl/91/648/s403], Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925], as amended [Pub. L. 95–454, title VI, § 602(c)][/us/pl/95/454/s602/c], Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; [Pub. L. 92–255, title IV, § 403(a)][/us/pl/92/255/s403/a], Mar. 21, 1972, [86 Stat. 77][/us/stat/86/77]; [Pub. L. 93–45, title I, § 106][/us/pl/93/45/s106], June 18, 1973, [87 Stat. 92][/us/stat/87/92]; [Pub. L. 93–151, § 8][/us/pl/93/151/s8], Nov. 9, 1973, [87 Stat. 568][/us/stat/87/568]; [Pub. L. 94–63, title I, § 102][/us/pl/94/63/s102], title V, § 501(b), title VII, § 701(a), (b), July 29, 1975, [89 Stat. 304][/us/stat/89/304], 346, 352; [Pub. L. 94–484, title IX, § 905(b)(1)][/us/pl/94/484/s905/b/1], Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–83, title III, § 302][/us/pl/95/83/s302], Aug. 1, 1977, [91 Stat. 387][/us/stat/91/387]; [Pub. L. 95–454, title VI, § 602(c)][/us/pl/95/454/s602/c], Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; [Pub. L. 95–622, title I, § 109][/us/pl/95/622/s109], Nov. 9, 1978, [92 Stat. 3417][/us/stat/92/3417]; [Pub. L. 95–626, title II, § 201(a)][/us/pl/95/626/s201/a], (b)(2), Nov. 10, 1978, [92 Stat. 3570][/us/stat/92/3570]; [Pub. L. 96–32, § 6(e)][/us/pl/96/32/s6/e], (f), July 10, 1979, [93 Stat. 83][/us/stat/93/83]; [Pub. L. 96–79, title I, § 115(k)(2)][/us/pl/96/79/s115/k/2], Oct. 4, 1979, [93 Stat. 610][/us/stat/93/610]; [Pub. L. 96–398, title I, § 107(d)][/us/pl/96/398/s107/d], Oct. 7, 1980, [94 Stat. 1571][/us/stat/94/1571]; [Pub. L. 97–35, title IX, § 902(b)][/us/pl/97/35/s902/b], Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559]; [Pub. L. 99–117, § 12(a)][/us/pl/99/117/s12/a], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495]; [Pub. L. 102–54, § 13(q)(1)(D)][/us/pl/102/54/s13/q/1/D], June 13, 1991, [105 Stat. 279][/us/stat/105/279].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 314, [58 Stat. 693][/us/stat/58/693]; [July 3, 1946, ch. 538][/us/act/1946-07-03/ch538], § 9, [60 Stat. 424][/us/stat/60/424]; [June 16, 1948, ch. 481][/us/act/1948-06-16/ch481], § 5, [62 Stat. 468][/us/stat/62/468]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 18, [70 Stat. 910][/us/stat/70/910]; [Pub. L. 85–544][/us/pl/85/544], § 1, July 22, 1958, [72 Stat. 400][/us/stat/72/400]; [Pub. L. 87–395][/us/pl/87/395], § 2(a)–(d), Oct. 5, 1961, [75 Stat. 824][/us/stat/75/824]; [Pub. L. 87–688][/us/pl/87/688], § 4(a)(1), Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587]; [Pub. L. 89–109][/us/pl/89/109], § 4, Aug. 5, 1965, [79 Stat. 436][/us/stat/79/436]; [Pub. L. 89–749][/us/pl/89/749], § 3, Nov. 3, 1966, [80 Stat. 1181][/us/stat/80/1181]; [Pub. L. 90–174][/us/pl/90/174], §§ 2(a)–(f), 3(b)(2), 8(a), (b), 12(d), Dec. 5, 1967, [81 Stat. 533–535][/us/stat/81/533-535], 540, 541; [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 111(b), title IV, § 401(b)(1)(C), (D), June 30, 1970, [84 Stat. 340][/us/stat/84/340], 352; [Pub. L. 91–513, title I][/us/pl/91/513/tI], § 3(b), Oct. 27, 1970, [84 Stat. 1241][/us/stat/84/1241]; [Pub. L. 91–515, title II][/us/pl/91/515/tII], §§ 220, 230, 240, 250, 260(a)–(c)(1), 282, Oct. 30, 1970, [84 Stat. 1304–1306][/us/stat/84/1304-1306], 1308; [Pub. L. 91–616, title III][/us/pl/91/616/tIII], § 331, Dec. 31, 1970, [84 Stat. 1853][/us/stat/84/1853]; [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 403, Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925], as amended [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 602(c), Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; [Pub. L. 92–255, title IV][/us/pl/92/255/tIV], § 403(a), Mar. 21, 1972, [86 Stat. 77][/us/stat/86/77]; [Pub. L. 93–45, title I][/us/pl/93/45/tI], § 106, June 18, 1973, [87 Stat. 92][/us/stat/87/92]; [Pub. L. 93–151][/us/pl/93/151], § 8, Nov. 9, 1973, [87 Stat. 568][/us/stat/87/568]; [Pub. L. 94–63, title I][/us/pl/94/63/tI], § 102, title V, § 501(b), title VII, § 701(a), (b), July 29, 1975, [89 Stat. 304][/us/stat/89/304], 346, 352; [Pub. L. 94–484, title IX][/us/pl/94/484/tIX], § 905(b)(1), Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 302, Aug. 1, 1977, [91 Stat. 387][/us/stat/91/387]; [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 602(c), Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; [Pub. L. 95–622, title I][/us/pl/95/622/tI], § 109, Nov. 9, 1978, [92 Stat. 3417][/us/stat/92/3417]; [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 201(a), (b)(2), Nov. 10, 1978, [92 Stat. 3570][/us/stat/92/3570]; [Pub. L. 96–32][/us/pl/96/32], § 6(e), (f), July 10, 1979, [93 Stat. 83][/us/stat/93/83]; [Pub. L. 96–79, title I][/us/pl/96/79/tI], § 115(k)(2), Oct. 4, 1979, [93 Stat. 610][/us/stat/93/610]; [Pub. L. 96–398, title I][/us/pl/96/398/tI], § 107(d), Oct. 7, 1980, [94 Stat. 1571][/us/stat/94/1571]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(b), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559]; [Pub. L. 99–117][/us/pl/99/117], § 12(a), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(1)(D), June 13, 1991, [105 Stat. 279][/us/stat/105/279].)
 
  __Amendments__ 
 
@@ -83,25 +83,25 @@
 
     1980—Subsec. (g). [Pub. L. 96–398][/us/pl/96/398] struck out subsec. (g) which related to application, procedures applicable, amount, etc., for State mental health program grants.
 
-    1979—Subsec. (d)(2)(C)(ii). [Pub. L. 96–32, § 6(e)][/us/pl/96/32/s6/e], substituted “uniform national health program reporting system” for “uniform national reporting system”.
+    1979—Subsec. (d)(2)(C)(ii). [Pub. L. 96–32][/us/pl/96/32], § 6(e), substituted “uniform national health program reporting system” for “uniform national reporting system”.
 
-    Subsec. (d)(4)(A). [Pub. L. 96–32, § 6(f)][/us/pl/96/32/s6/f], in provision following subd. (II) of cl. (ii), substituted “the preceding provisions of this subparagraph” for “clauses (i) and (ii)” and “amount” for “amounts” and inserted provision that if the amount appropriated for a fiscal year is equal to or less than the amount appropriated for fiscal year ending Sept. 30, 1979, the total amount of grants for a State health authority shall be an amount which bears the same ratio to the amount appropriated as the total amount of grants received by such authority from appropriations for fiscal year ending Sept. 30, 1979, bears to the amount appropriated for that fiscal year.
+    Subsec. (d)(4)(A). [Pub. L. 96–32][/us/pl/96/32], § 6(f), in provision following subd. (II) of cl. (ii), substituted “the preceding provisions of this subparagraph” for “clauses (i) and (ii)” and “amount” for “amounts” and inserted provision that if the amount appropriated for a fiscal year is equal to or less than the amount appropriated for fiscal year ending Sept. 30, 1979, the total amount of grants for a State health authority shall be an amount which bears the same ratio to the amount appropriated as the total amount of grants received by such authority from appropriations for fiscal year ending Sept. 30, 1979, bears to the amount appropriated for that fiscal year.
 
     Subsec. (g)(2)(D)(iv). [Pub. L. 96–79][/us/pl/96/79] substituted “a plan which is consistent with the State health plan in effect for the State under [section 300m–3(c) of this title][/us/usc/t42/s300m–3/c] and” for “a plan”.
 
-    1978—Subsec. (d). [Pub. L. 95–626, § 201(b)(2)][/us/pl/95/626/s201/b/2], completely revised subsec. (d) under which the Secretary is authorized to make grants to State health authorities to assist in meeting the costs of providing comprehensive public health services by including requirements that the States submit an application outlining how funds will be used to supplement non-Federal support for the provision of public health services in the State, by setting out formulae under which funds will be made available to States including definitions of “applicable grant computation percentage” and “State and local expenditures for comprehensive public health services”, by requiring implementation of a national health program reporting system to assure accountability for expenditure of funds, and by authorizing appropriations of $150,000,000 for fiscal year ending Sept. 30, 1980, and $170,000,000 for fiscal year ending Sept. 30, 1981.
+    1978—Subsec. (d). [Pub. L. 95–626][/us/pl/95/626], § 201(b)(2), completely revised subsec. (d) under which the Secretary is authorized to make grants to State health authorities to assist in meeting the costs of providing comprehensive public health services by including requirements that the States submit an application outlining how funds will be used to supplement non-Federal support for the provision of public health services in the State, by setting out formulae under which funds will be made available to States including definitions of “applicable grant computation percentage” and “State and local expenditures for comprehensive public health services”, by requiring implementation of a national health program reporting system to assure accountability for expenditure of funds, and by authorizing appropriations of $150,000,000 for fiscal year ending Sept. 30, 1980, and $170,000,000 for fiscal year ending Sept. 30, 1981.
 
-    Subsec. (d)(7)(A). [Pub. L. 95–626, § 201(a)(1)][/us/pl/95/626/s201/a/1], inserted provision authorizing an appropriation of $103,000,000 for fiscal year ending Sept. 30, 1979.
+    Subsec. (d)(7)(A). [Pub. L. 95–626][/us/pl/95/626], § 201(a)(1), inserted provision authorizing an appropriation of $103,000,000 for fiscal year ending Sept. 30, 1979.
 
-    Subsec. (d)(7)(B). [Pub. L. 95–626, § 201(a)(2)][/us/pl/95/626/s201/a/2], inserted provision authorizing an appropriation of $20,000,000 for fiscal year ending Sept. 30, 1979.
+    Subsec. (d)(7)(B). [Pub. L. 95–626][/us/pl/95/626], § 201(a)(2), inserted provision authorizing an appropriation of $20,000,000 for fiscal year ending Sept. 30, 1979.
 
     Subsec. (f). [Pub. L. 95–454][/us/pl/95/454] designated existing provisions of [section 403 of Pub. L. 91–648][/us/pl/91/648/s403] (see 1971 Amendment note below) as subsec. (a) thereof and added subsec. (b) thereto repealing subsec. (f) of this section as subsec. (f) of this section had applied to commissioned officers of the Public Health Service.
 
     Subsec. (g). [Pub. L. 95–622][/us/pl/95/622] substituted provisions relating to grants for State mental health programs for provisions relating to regulations and amendments with respect to grants to States under subsecs. (a) and (d) and reduction and suspension of subsec. (a) and (d) grant payments.
 
-    1977—Subsec. (d)(7)(A). [Pub. L. 95–83, § 302(a)][/us/pl/95/83/s302/a], substituted provision for an appropriation authorization for fiscal year ending Sept. 30, 1977, for prior such authorization for fiscal year 1977, and authorized appropriation of $106,750,000 for fiscal year ending Sept. 30, 1978.
+    1977—Subsec. (d)(7)(A). [Pub. L. 95–83][/us/pl/95/83], § 302(a), substituted provision for an appropriation authorization for fiscal year ending Sept. 30, 1977, for prior such authorization for fiscal year 1977, and authorized appropriation of $106,750,000 for fiscal year ending Sept. 30, 1978.
 
-    Subsec. (d)(7)(B). [Pub. L. 95–83, § 302(b)][/us/pl/95/83/s302/b], substituted provision for an appropriation authorization for fiscal year ending Sept. 30, 1977, for prior such authorization for fiscal year 1977, and authorized appropriation of $12,680,000 for fiscal year ending Sept. 30, 1978.
+    Subsec. (d)(7)(B). [Pub. L. 95–83][/us/pl/95/83], § 302(b), substituted provision for an appropriation authorization for fiscal year ending Sept. 30, 1977, for prior such authorization for fiscal year 1977, and authorized appropriation of $12,680,000 for fiscal year ending Sept. 30, 1978.
 
     1976—Subsec. (g)(4)(B). [Pub. L. 94–484][/us/pl/94/484] defined “State” to include the Northern Mariana Islands.
 
@@ -109,73 +109,73 @@
 
     Subsec. (e). [Pub. L. 94–63][/us/pl/94/63], §§ 501(b), 701(b), struck out subsec. (e) which authorized appropriations from fiscal year ending June 30, 1968 through fiscal year ending June 30, 1975 for project grants for health services and related training, set forth procedures for making such grants, and prohibited grants after the fiscal year ending June 30, 1975, for provisions of this chapter amended by title VII of the Health Revenue Sharing and Health Services Act of 1975.
 
-    1973—Subsec. (a)(1). [Pub. L. 93–45, § 106(a)(1)][/us/pl/93/45/s106/a/1], authorized appropriations of $10,000,000 for fiscal year ending June 30, 1974.
+    1973—Subsec. (a)(1). [Pub. L. 93–45][/us/pl/93/45], § 106(a)(1), authorized appropriations of $10,000,000 for fiscal year ending June 30, 1974.
 
-    Subsec. (b)(1)(A). [Pub. L. 93–45, § 106(a)(2)][/us/pl/93/45/s106/a/2], (b), authorized appropriations of $25,100,000 for fiscal year ending June 30, 1974, and extended period for making project grants from June 30, 1973, to June 30, 1974.
+    Subsec. (b)(1)(A). [Pub. L. 93–45][/us/pl/93/45], § 106(a)(2), (b), authorized appropriations of $25,100,000 for fiscal year ending June 30, 1974, and extended period for making project grants from June 30, 1973, to June 30, 1974.
 
-    Subsec. (c). [Pub. L. 93–45, § 106(a)(3)][/us/pl/93/45/s106/a/3], (b), authorized appropriations of $4,700,000 for fiscal year ending June 30, 1974, and extended period for grants from June 30, 1973, to June 30, 1974.
+    Subsec. (c). [Pub. L. 93–45][/us/pl/93/45], § 106(a)(3), (b), authorized appropriations of $4,700,000 for fiscal year ending June 30, 1974, and extended period for grants from June 30, 1973, to June 30, 1974.
 
-    Subsec. (d)(1). [Pub. L. 93–45, § 106(a)(4)][/us/pl/93/45/s106/a/4], authorized appropriations of $90,000,000 for fiscal year ending June 30, 1974.
+    Subsec. (d)(1). [Pub. L. 93–45][/us/pl/93/45], § 106(a)(4), authorized appropriations of $90,000,000 for fiscal year ending June 30, 1974.
 
     Subsec. (e). [Pub. L. 93–151][/us/pl/93/151] prohibited use of appropriated funds for lead based paint poisoning control.
 
-    [Pub. L. 93–45, § 106(a)(5)][/us/pl/93/45/s106/a/5], authorized appropriations of $230,700,000 for fiscal year ending June 30, 1974, and prohibited any grant for such fiscal year to cover cost of services described in cl. (1) or (2) of the first sentence if a grant or contract to cover cost of such services may be made or entered into from funds authorized to be appropriated for such fiscal year under an appropriations authorization in any provision of this chapter (other than this subsection) amended by title I of the Health Programs Extension Act of 1973.
+    [Pub. L. 93–45][/us/pl/93/45], § 106(a)(5), authorized appropriations of $230,700,000 for fiscal year ending June 30, 1974, and prohibited any grant for such fiscal year to cover cost of services described in cl. (1) or (2) of the first sentence if a grant or contract to cover cost of such services may be made or entered into from funds authorized to be appropriated for such fiscal year under an appropriations authorization in any provision of this chapter (other than this subsection) amended by title I of the Health Programs Extension Act of 1973.
 
     1972—Subsec. (d)(2)(K). [Pub. L. 92–255][/us/pl/92/255] required State plans to provide for licensing of facilities for treatment and rehabilitation of persons with drug abuse and other drug dependence problems and for expansion of State mental health programs and other prevention and treatment programs in the field of drug abuse and drug dependence.
 
-    1971—Subsec. (f). [Pub. L. 91–648, § 403(a)][/us/pl/91/648/s403/a], as amended by [Pub. L. 94–454, § 602(c)][/us/pl/94/454/s602/c], repealed subsec. (f) which authorized the Secretary to arrange the interchange of personnel with States to aid in discharge of responsibilities in field of health care, except as subsec. (b) applied to commissioned officers of the Public Health Service. See 1978 Amendment note above.
+    1971—Subsec. (f). [Pub. L. 91–648][/us/pl/91/648], § 403(a), as amended by [Pub. L. 94–454][/us/pl/94/454], § 602(c), repealed subsec. (f) which authorized the Secretary to arrange the interchange of personnel with States to aid in discharge of responsibilities in field of health care, except as subsec. (b) applied to commissioned officers of the Public Health Service. See 1978 Amendment note above.
 
-    1970—[Pub. L. 91–515, § 282][/us/pl/91/515/s282], substituted “Secretary” for “Surgeon General” in subsecs. (a)(1), (a)(2)(C), (E) to (H), (K), (a)(3)(B), (a)(4), (b)(1)(A), (c), (d)(1), (d)(2)(C), (F) to (H), (J), (d)(4)(A), (d)(6), and (g)(1) to (3).
+    1970—[Pub. L. 91–515][/us/pl/91/515], § 282, substituted “Secretary” for “Surgeon General” in subsecs. (a)(1), (a)(2)(C), (E) to (H), (K), (a)(3)(B), (a)(4), (b)(1)(A), (c), (d)(1), (d)(2)(C), (F) to (H), (J), (d)(4)(A), (d)(6), and (g)(1) to (3).
 
-    Subsec. (a)(1). [Pub. L. 91–515, § 220(a)][/us/pl/91/515/s220/a], extended period for making grants to States from June 30, 1970 to June 30, 1973, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973.
+    Subsec. (a)(1). [Pub. L. 91–515][/us/pl/91/515], § 220(a), extended period for making grants to States from June 30, 1970 to June 30, 1973, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973.
 
-    Subsec. (a)(2)(B). [Pub. L. 91–515, § 220(b)][/us/pl/91/515/s220/b], (c), inserted provisions authorizing appointment of an exofficio member from representatives of Federal, State, and local agencies involved, and requiring representation of the regional medical program or programs included in whole or in part within the State.
+    Subsec. (a)(2)(B). [Pub. L. 91–515][/us/pl/91/515], § 220(b), (c), inserted provisions authorizing appointment of an exofficio member from representatives of Federal, State, and local agencies involved, and requiring representation of the regional medical program or programs included in whole or in part within the State.
 
-    Subsec. (a)(2)(C). [Pub. L. 91–515, § 220(d)][/us/pl/91/515/s220/d], inserted “and including home health care” after “private” and “and including environmental considerations as they relate to public health” after “people of the State”.
+    Subsec. (a)(2)(C). [Pub. L. 91–515][/us/pl/91/515], § 220(d), inserted “and including home health care” after “private” and “and including environmental considerations as they relate to public health” after “people of the State”.
 
-    Subsec. (b). [Pub. L. 91–515, § 230][/us/pl/91/515/s230], redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated, extended period for making project grants from June 30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
+    Subsec. (b). [Pub. L. 91–515][/us/pl/91/515], § 230, redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated, extended period for making project grants from June 30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
 
-    [Pub. L. 91–296, § 111(b)][/us/pl/91/296/s111/b], inserted provisions requiring that before grants be made to agencies or organizations to develop or revise health plans for an area the Secretary determine that the agency or organization provides means for appropriate representation of the interests of the hospitals, practicing physicians, and the general public.
+    [Pub. L. 91–296][/us/pl/91/296], § 111(b), inserted provisions requiring that before grants be made to agencies or organizations to develop or revise health plans for an area the Secretary determine that the agency or organization provides means for appropriate representation of the interests of the hospitals, practicing physicians, and the general public.
 
-    Subsec. (c). [Pub. L. 91–515, § 240][/us/pl/91/515/s240], extended period for making grants from June 30, 1970, to June 30, 1973, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973.
+    Subsec. (c). [Pub. L. 91–515][/us/pl/91/515], § 240, extended period for making grants from June 30, 1970, to June 30, 1973, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973.
 
-    Subsec. (d)(1). [Pub. L. 91–515, § 250(a)][/us/pl/91/515/s250/a], authorized appropriations for fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973.
+    Subsec. (d)(1). [Pub. L. 91–515][/us/pl/91/515], § 250(a), authorized appropriations for fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973.
 
-    [Pub. L. 91–296, § 401(b)(1)(C)][/us/pl/91/296/s401/b/1/C], struck out except which provided for use of up to 1 per centum by Secretary for evaluation.
+    [Pub. L. 91–296][/us/pl/91/296], § 401(b)(1)(C), struck out except which provided for use of up to 1 per centum by Secretary for evaluation.
 
-    Subsec. (d)(2)(C). [Pub. L. 91–515, § 250(b)][/us/pl/91/515/s250/b], inserted provisions requiring State plan to contain assurances that the plan is compatible with total health program of the State.
+    Subsec. (d)(2)(C). [Pub. L. 91–515][/us/pl/91/515], § 250(b), inserted provisions requiring State plan to contain assurances that the plan is compatible with total health program of the State.
 
     Subsec. (d)(2)(K). [Pub. L. 91–513][/us/pl/91/513] added subpar. (K).
 
     Subsec. (d)(2)(L). [Pub. L. 91–616][/us/pl/91/616] added subpar. (L).
 
-    Subsec. (e). [Pub. L. 91–515, § 260(a)][/us/pl/91/515/s260/a], (b), (c)(1), inserted provisions authorizing appropriations for fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, provisions authorizing grants to cover part of cost of equity requirements and amortization of loans on facilities acquired from the Office of Economic Opportunity or construction in connection with any program or project transferred from the Office of Economic Opportunity, and provisions requiring the application for any grant made under this subsection to be referred for review and comment to the appropriate areawide health planning agency, or, if no such agency is in the area, then to such other public or nonprofit private agency or organization (if any) which performs similar functions.
+    Subsec. (e). [Pub. L. 91–515][/us/pl/91/515], § 260(a), (b), (c)(1), inserted provisions authorizing appropriations for fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, provisions authorizing grants to cover part of cost of equity requirements and amortization of loans on facilities acquired from the Office of Economic Opportunity or construction in connection with any program or project transferred from the Office of Economic Opportunity, and provisions requiring the application for any grant made under this subsection to be referred for review and comment to the appropriate areawide health planning agency, or, if no such agency is in the area, then to such other public or nonprofit private agency or organization (if any) which performs similar functions.
 
-    [Pub. L. 91–296, § 401(b)(1)(D)][/us/pl/91/296/s401/b/1/D], struck out provision for use of up to 1 per centum of appropriation for grants under subsec. (e) by the Secretary for evaluation.
+    [Pub. L. 91–296][/us/pl/91/296], § 401(b)(1)(D), struck out provision for use of up to 1 per centum of appropriation for grants under subsec. (e) by the Secretary for evaluation.
 
-    1967—Subsec. (a)(1). [Pub. L. 90–174, § 2(a)(1)][/us/pl/90/174/s2/a/1], extended period for making grants to States from June 30, 1968, to June 30, 1970, increased appropriations authorization for fiscal year ending June 30, 1968, from $5,000,000 to $7,000,000, and authorized appropriations of $10,000,000 and $15,000,000 for fiscal years ending June 30, 1969, and 1970, respectively.
+    1967—Subsec. (a)(1). [Pub. L. 90–174][/us/pl/90/174], § 2(a)(1), extended period for making grants to States from June 30, 1968, to June 30, 1970, increased appropriations authorization for fiscal year ending June 30, 1968, from $5,000,000 to $7,000,000, and authorized appropriations of $10,000,000 and $15,000,000 for fiscal years ending June 30, 1969, and 1970, respectively.
 
-    Subsec. (a)(2)(I) to (K). [Pub. L. 90–174, § 2(a)(2)][/us/pl/90/174/s2/a/2], added subpar. (I) and redesignated former subpars. (I) and (J) as (J) and (K), respectively.
+    Subsec. (a)(2)(I) to (K). [Pub. L. 90–174][/us/pl/90/174], § 2(a)(2), added subpar. (I) and redesignated former subpars. (I) and (J) as (J) and (K), respectively.
 
-    Subsec. (a)(4). [Pub. L. 90–174, § 2(a)(3)][/us/pl/90/174/s2/a/3], limited Federal share of expenditures, in case of allotments for fiscal year ending June 30, 1968, to 75 per centum of cost of planning.
+    Subsec. (a)(4). [Pub. L. 90–174][/us/pl/90/174], § 2(a)(3), limited Federal share of expenditures, in case of allotments for fiscal year ending June 30, 1968, to 75 per centum of cost of planning.
 
-    Subsec. (b). [Pub. L. 90–174, § 2(b)(1)][/us/pl/90/174/s2/b/1], (2), extended period for making grants to public or nonprofit private organizations from June 30, 1968, to June 30, 1970, and authorized appropriations of $10,000,000 and $15,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, and provided for appropriate representation of interests of local government where recipient of grant is not a local government or combination thereof or an agency of such government or combination, respectively.
+    Subsec. (b). [Pub. L. 90–174][/us/pl/90/174], § 2(b)(1), (2), extended period for making grants to public or nonprofit private organizations from June 30, 1968, to June 30, 1970, and authorized appropriations of $10,000,000 and $15,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, and provided for appropriate representation of interests of local government where recipient of grant is not a local government or combination thereof or an agency of such government or combination, respectively.
 
-    Subsec. (c). [Pub. L. 90–174, § 2(c)][/us/pl/90/174/s2/c], extended period for making grants to public or nonprofit private organizations from June 30, 1968, to June 30, 1970, and authorized appropriations of $5,000,000 and $7,500,000 for fiscal years ending June 30, 1969, and 1970, respectively.
+    Subsec. (c). [Pub. L. 90–174][/us/pl/90/174], § 2(c), extended period for making grants to public or nonprofit private organizations from June 30, 1968, to June 30, 1970, and authorized appropriations of $5,000,000 and $7,500,000 for fiscal years ending June 30, 1969, and 1970, respectively.
 
     Subsec. (d)(1). [Pub. L. 90–174][/us/pl/90/174], §§ 2(d)(1), 8(a), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $70,000,000, and authorized appropriations of $90,000,000 and $100,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, and made program evaluation funds available for any fiscal year ending after June 30, 1968, respectively.
 
-    Subsec. (d)(5). [Pub. L. 90–174, § 2(d)(2)][/us/pl/90/174/s2/d/2], made Federal share of 66⅔ per centum applicable to the Trust Territory of the Pacific Islands.
+    Subsec. (d)(5). [Pub. L. 90–174][/us/pl/90/174], § 2(d)(2), made Federal share of 66⅔ per centum applicable to the Trust Territory of the Pacific Islands.
 
-    Subsec. (d)(7). [Pub. L. 90–174, § 2(d)(3)][/us/pl/90/174/s2/d/3], provided for an allocation of 70 per centum of funds for provision under the State plan of services in communities of the State.
+    Subsec. (d)(7). [Pub. L. 90–174][/us/pl/90/174], § 2(d)(3), provided for an allocation of 70 per centum of funds for provision under the State plan of services in communities of the State.
 
     Subsec. (e). [Pub. L. 90–174][/us/pl/90/174], §§ 2(e), 3(b)(2), 8(b), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $90,000,000, authorized appropriations of $95,000,000 and $80,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, inserted “(including related training)” after “providing services” in cl. (1), substituted “developing” for “stimulating” and inserted “(including related training)” after “health services” in cl. (2), struck out cl. (3) which authorized grants to cover part of cost of undertaking studies, demonstrations, or training designed to develop new methods or improve existing methods of providing health services, and made program evaluation funds available for any fiscal year ending after June 30, 1968.
 
-    Subsec. (f)(5). [Pub. L. 90–174, § 12(d)(1)][/us/pl/90/174/s12/d/1], inserted “for” before “the expenses of travel”.
+    Subsec. (f)(5). [Pub. L. 90–174][/us/pl/90/174], § 12(d)(1), inserted “for” before “the expenses of travel”.
 
-    Subsec. (f)(6), (8). [Pub. L. 90–174, § 12(d)(2)][/us/pl/90/174/s12/d/2], substituted “Department” for “Service”.
+    Subsec. (f)(6), (8). [Pub. L. 90–174][/us/pl/90/174], § 12(d)(2), substituted “Department” for “Service”.
 
-    Subsec. (g)(4)(B). [Pub. L. 90–174, § 2(f)][/us/pl/90/174/s2/f], defined “State” to include the Trust Territory of the Pacific Islands.
+    Subsec. (g)(4)(B). [Pub. L. 90–174][/us/pl/90/174], § 2(f), defined “State” to include the Trust Territory of the Pacific Islands.
 
     1966—Subsec. (a). [Pub. L. 89–749][/us/pl/89/749] substituted provisions authorizing the Surgeon General to make grants to States to assist in comprehensive and continuing planning for their current and future health needs, authorizing appropriations therefor, setting out the requirements for an acceptable State plan for comprehensive State health planning, covering the allotting of the appropriated sums to the States, and the payment of the allotted funds, for provisions authorizing the Surgeon General, through the use of grants and other assistance, to help local programs of prevention, treatment, and control of venereal diseases, covering the payment of the costs of assistance by personnel of the Public Health Service to assist in carrying out the purposes of the section with respect to venereal disease, and authorizing the appropriation of funds.
 
@@ -197,9 +197,9 @@
 
     1962—Subsec. (l). [Pub. L. 87–688][/us/pl/87/688] inserted “and American Samoa”, “or American Samoa”, and “or American Samoa, respectively” after “Guam”.
 
-    1961—Subsec. (c). [Pub. L. 87–395, § 2(a)][/us/pl/87/395/s2/a]–(c), substituted “of the first five fiscal years ending after June 30, 1961, the sum of $50,000,000” for “fiscal year a sum not to exceed $30,000,000”, “such amount as may be necessary” for “an amount, not to exceed $3,000,000”, “$2,500,000” for “$1,000,000”, and provided that when an appropriating act provides that the amounts it specifies are available only for allotments and payments for such services and activities under this subsection as specified in such act, the requirements of subsec. (h) shall apply to such allotments and payments.
+    1961—Subsec. (c). [Pub. L. 87–395][/us/pl/87/395], § 2(a)–(c), substituted “of the first five fiscal years ending after June 30, 1961, the sum of $50,000,000” for “fiscal year a sum not to exceed $30,000,000”, “such amount as may be necessary” for “an amount, not to exceed $3,000,000”, “$2,500,000” for “$1,000,000”, and provided that when an appropriating act provides that the amounts it specifies are available only for allotments and payments for such services and activities under this subsection as specified in such act, the requirements of subsec. (h) shall apply to such allotments and payments.
 
-    Subsec. (m). [Pub. L. 87–395, § 2(d)][/us/pl/87/395/s2/d], added subsec. (m).
+    Subsec. (m). [Pub. L. 87–395][/us/pl/87/395], § 2(d), added subsec. (m).
 
     1958—Subsec. (c). [Pub. L. 85–544][/us/pl/85/544] designated existing provisions of second sentence as cl. (1) and added cl. (2).
 
@@ -237,59 +237,59 @@
 
  __Effective Date of 1978 Amendments__ 
 
-    [Pub. L. 95–626, title II, § 201(b)(2)][/us/pl/95/626/s201/b/2], Nov. 10, 1978, [92 Stat. 3570][/us/stat/92/3570], provided that the amendment made by section is effective Oct. 1, 1979.
+    [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 201(b)(2), Nov. 10, 1978, [92 Stat. 3570][/us/stat/92/3570], provided that the amendment made by section is effective Oct. 1, 1979.
 
-    [Pub. L. 91–648, title IV, § 403(b)][/us/pl/91/648/s403/b], as added by [Pub. L. 95–454, title VI, § 602(c)][/us/pl/95/454/s602/c], Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189], provided that the repeal of subsec. (f) of this section (as applicable to commissioned officers of the Public Health Service) is effective beginning on the effective date of the Civil Service Reform Act of 1978, i.e., 90 days after Oct. 13, 1978.
+    [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 403(b), as added by [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 602(c), Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189], provided that the repeal of subsec. (f) of this section (as applicable to commissioned officers of the Public Health Service) is effective beginning on the effective date of the Civil Service Reform Act of 1978, i.e., 90 days after Oct. 13, 1978.
 
  __Effective Date of 1975 Amendment__ 
 
-    [Pub. L. 94–63, title I, § 102][/us/pl/94/63/s102], July 29, 1975, [89 Stat. 304][/us/stat/89/304], provided that the amendment made by that section is effective with respect to grants made under subsec. (d) of this section from appropriations under such subsection for fiscal years beginning after June 30, 1975.
+    [Pub. L. 94–63, title I][/us/pl/94/63/tI], § 102, July 29, 1975, [89 Stat. 304][/us/stat/89/304], provided that the amendment made by that section is effective with respect to grants made under subsec. (d) of this section from appropriations under such subsection for fiscal years beginning after June 30, 1975.
 
     Amendment by [section 501(b) of Pub. L. 94–63][/us/pl/94/63/s501/b] effective July 1, 1975, see [section 608 of Pub. L. 94–63][/us/pl/94/63/s608], set out as a note under [section 247b of this title][/us/usc/t42/s247b].
 
  __Effective Date of 1971 Amendment__ 
 
-    Repeal of subsec. (f) of this section (less applicability to commissioned officers of the Public Health Service) by [section 403(a) of Pub. L. 91–648][/us/pl/91/648/s403/a], as amended by [Pub. L. 94–454, § 602(c)][/us/pl/94/454/s602/c], effective sixty days after Jan. 5, 1971, see [section 404 of Pub. L. 91–648][/us/pl/91/648/s404], set out as an Effective Date note under [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees.
+    Repeal of subsec. (f) of this section (less applicability to commissioned officers of the Public Health Service) by [section 403(a) of Pub. L. 91–648][/us/pl/91/648/s403/a], as amended by [Pub. L. 94–454][/us/pl/94/454], § 602(c), effective sixty days after Jan. 5, 1971, see [section 404 of Pub. L. 91–648][/us/pl/91/648/s404], set out as an Effective Date note under [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees.
 
  __Effective Date of 1970 Amendments__ 
 
-[Pub. L. 91–515, title II, § 260(c)(2)][/us/pl/91/515/s260/c/2], Oct. 30, 1970, [84 Stat. 1306][/us/stat/84/1306], provided that: 
+[Pub. L. 91–515, title II][/us/pl/91/515/tII], § 260(c)(2), Oct. 30, 1970, [84 Stat. 1306][/us/stat/84/1306], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to grants under section 314(c) of the Public Health Service Act \[[42 U.S.C. 246(e)][/us/usc/t42/s246/e]\] which are made after the date of enactment of this Act \[Oct. 30, 1970.\]”
 
-    [Pub. L. 91–296, title IV, § 401(b)(1)][/us/pl/91/296/s401/b/1], June 30, 1970, [84 Stat. 352][/us/stat/84/352], provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
+    [Pub. L. 91–296, title IV][/us/pl/91/296/tIV], § 401(b)(1), June 30, 1970, [84 Stat. 352][/us/stat/84/352], provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 
  __Effective Date of 1967 Amendment__ 
 
-    [Pub. L. 90–174, § 2(d)(2)][/us/pl/90/174/s2/d/2], (f), Dec. 5, 1967, [81 Stat. 534][/us/stat/81/534], provided that the amendments made by that section are effective July 1, 1968.
+    [Pub. L. 90–174][/us/pl/90/174], § 2(d)(2), (f), Dec. 5, 1967, [81 Stat. 534][/us/stat/81/534], provided that the amendments made by that section are effective July 1, 1968.
 
-    [Pub. L. 90–174, § 3(b)][/us/pl/90/174/s3/b], Dec. 5, 1967, [81 Stat. 535][/us/stat/81/535], provided that the amendment of this section, the repeal of [section 291n of this title][/us/usc/t42/s291n], and the enactment of provisions set out as a note under [section 242b of this title][/us/usc/t42/s242b] by such section 3(b) is effective with respect to appropriations for fiscal years ending after June 30, 1967.
+    [Pub. L. 90–174][/us/pl/90/174], § 3(b), Dec. 5, 1967, [81 Stat. 535][/us/stat/81/535], provided that the amendment of this section, the repeal of [section 291n of this title][/us/usc/t42/s291n], and the enactment of provisions set out as a note under [section 242b of this title][/us/usc/t42/s242b] by such section 3(b) is effective with respect to appropriations for fiscal years ending after June 30, 1967.
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–749, § 6][/us/pl/89/749/s6], Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190], provided in part that: 
+[Pub. L. 89–749][/us/pl/89/749], § 6, Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190], provided in part that: 
 
 > “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[[42 U.S.C. 246][/us/usc/t42/s246]\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act as amended by this Act.”
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–688, § 4(b)][/us/pl/87/688/s4/b], Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587], provided that: 
+[Pub. L. 87–688][/us/pl/87/688], § 4(b), Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 291g, 291i, and 291t of this title\] shall become effective July 1, 1962.”
 
  __Effective and Termination Date of 1958 Amendment__ 
 
-[Pub. L. 85–544, § 2][/us/pl/85/544/s2], July 22, 1958, [72 Stat. 401][/us/stat/72/401], provided that: 
+[Pub. L. 85–544][/us/pl/85/544], § 2, July 22, 1958, [72 Stat. 401][/us/stat/72/401], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall be applicable only to the fiscal years beginning July 1, 1958, and July 1, 1959.”
 
  __Effective Date of 1956 Amendment__ 
 
-    [Act Aug. 1, 1956, ch. 852, § 18][/us/act/1956-08-01/ch852/s18], [70 Stat. 910][/us/stat/70/910], provided that the amendment made by that section is effective July 1, 1956.
+    [Act Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 18, [70 Stat. 910][/us/stat/70/910], provided that the amendment made by that section is effective July 1, 1956.
 
  __Repeals__ 
 
-    The directory language of, but not the amendment made by, [Pub. L. 96–398, title I, § 107(d)][/us/pl/96/398/s107/d], cited as a credit to this section and set out as an Effective Date of 1980 Amendment note above, which provided for repeal of subsec. (g) of this section, effective Sept. 30, 1981, was repealed by [section 902(e)(1) of Pub. L. 97–35][/us/pl/97/35/s902/e/1], title IX, Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], effective Oct. 1, 1981.
+    The directory language of, but not the amendment made by, [Pub. L. 96–398, title I][/us/pl/96/398/tI], § 107(d), cited as a credit to this section and set out as an Effective Date of 1980 Amendment note above, which provided for repeal of subsec. (g) of this section, effective Sept. 30, 1981, was repealed by [section 902(e)(1) of Pub. L. 97–35][/us/pl/97/35/s902/e/1], title IX, Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], effective Oct. 1, 1981.
 
  __Transfer of Functions__ 
 
@@ -299,11 +299,11 @@
 
  __Year 2000 Health Objectives Planning__ 
 
-    [Pub. L. 101–582][/us/pl/101/582], Nov. 15, 1990, [104 Stat. 2867][/us/stat/104/2867], provided for grants for State plans regarding health objectives for year 2000, prior to repeal by [Pub. L. 102–531, title I, § 105][/us/pl/102/531/s105], Oct. 27, 1992, [106 Stat. 3474][/us/stat/106/3474].
+    [Pub. L. 101–582][/us/pl/101/582], Nov. 15, 1990, [104 Stat. 2867][/us/stat/104/2867], provided for grants for State plans regarding health objectives for year 2000, prior to repeal by [Pub. L. 102–531, title I][/us/pl/102/531/tI], § 105, Oct. 27, 1992, [106 Stat. 3474][/us/stat/106/3474].
 
  __Congressional Findings and Declaration__ 
 
-[Pub. L. 95–626, title II, § 201(b)(1)][/us/pl/95/626/s201/b/1], Nov. 10, 1978, [92 Stat. 3570][/us/stat/92/3570], provided that: 
+[Pub. L. 95–626, title II][/us/pl/95/626/tII], § 201(b)(1), Nov. 10, 1978, [92 Stat. 3570][/us/stat/92/3570], provided that: 
 
 > “The Congress finds and declares that—
 
@@ -317,13 +317,13 @@
 
 >     “(E) the States and their communities, not the Federal Government, should have primary responsibility for identifying and measuring the impact of public health problems and the allocation of resources for their amelioration.”
 
-[Pub. L. 89–749, § 2][/us/pl/89/749/s2], Nov. 3, 1966, [80 Stat. 1180][/us/stat/80/1180], provided that:
+[Pub. L. 89–749][/us/pl/89/749], § 2, Nov. 3, 1966, [80 Stat. 1180][/us/stat/80/1180], provided that:
 
 >     “(a) The Congress declares that fulfillment of our national purpose depends on promoting and assuring the highest level of health attainable for every person, in an environment which contributes positively to healthful individual and family living; that attainment of this goal depends on an effective partnership, involving close intergovernmental collaboration, official and voluntary efforts, and participation of individuals and organizations; that Federal financial assistance must be directed to support the marshaling of all health resources—national, State, and local—to assure comprehensive health services of high quality for every person, but without interference with existing patterns of private professional practice of medicine, dentistry, and related healing arts.
 
 >     “(b) To carry out such purpose, and recognizing the changing character of health problems, the Congress finds that comprehensive planning for health services, health manpower, and health facilities is essential at every level of government; that desirable administration requires strengthening the leadership and capacities of State health agencies; and that support of health services provided people in their communities should be broadened and made more flexible.”
 
-[Act July 3, 1956, ch. 852, § 2][/us/act/1956-07-03/ch852/s2], [70 Stat. 908][/us/stat/70/908], provided that:
+[Act July 3, 1956, ch. 852][/us/act/1956-07-03/ch852], § 2, [70 Stat. 908][/us/stat/70/908], provided that:
 
 >     “(a)
 
@@ -337,7 +337,7 @@
 
  __Limitation on Grants-in-Aid to Schools of Public Health__ 
 
-    [Pub. L. 85–544, § 2][/us/pl/85/544/s2], July 22, 1958, [72 Stat. 401][/us/stat/72/401], which had limited the authority of the Surgeon General to make grants-in-aid totaling not to exceed $1,000,000 annually to schools of public health for fiscal year beginning July 1, 1958, and July 1, 1959, was repealed by [section 2 of Pub. L. 86–720][/us/pl/86/720/s2], Sept. 8, 1960, [74 Stat. 820][/us/stat/74/820].
+    [Pub. L. 85–544][/us/pl/85/544], § 2, July 22, 1958, [72 Stat. 401][/us/stat/72/401], which had limited the authority of the Surgeon General to make grants-in-aid totaling not to exceed $1,000,000 annually to schools of public health for fiscal year beginning July 1, 1958, and July 1, 1959, was repealed by [section 2 of Pub. L. 86–720][/us/pl/86/720/s2], Sept. 8, 1960, [74 Stat. 820][/us/stat/74/820].
 
  __Grants to States To Provide for Vaccination Against Poliomyelitis__ 
 
@@ -345,7 +345,7 @@
 
  __Applicability of Reorganization Plan No. 3 of 1966__ 
 
-[Pub. L. 89–749, § 7][/us/pl/89/749/s7], Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190], provided that: 
+[Pub. L. 89–749][/us/pl/89/749], § 7, Nov. 3, 1966, [80 Stat. 1190][/us/stat/80/1190], provided that: 
 
 > “The provisions enacted by this Act \[amending this section and sections 242g and 243 of this title\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[[42 U.S.C. 202][/us/usc/t42/s202] note\].”
 
@@ -358,122 +358,122 @@
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F693
-[/us/act/1946-07-03/ch538/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538%2Fs9
+[/us/act/1946-07-03/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538
 [/us/stat/60/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F424
-[/us/act/1948-06-16/ch481/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch481%2Fs5
+[/us/act/1948-06-16/ch481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch481
 [/us/stat/62/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F468
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/act/1956-08-01/ch852/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs18
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F910
-[/us/pl/85/544/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544%2Fs1
+[/us/pl/85/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544
 [/us/stat/72/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F400
-[/us/pl/87/395/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs2%2Fa
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
 [/us/stat/75/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F824
-[/us/pl/87/688/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs4%2Fa%2F1
+[/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
-[/us/pl/89/109/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109%2Fs4
+[/us/pl/89/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109
 [/us/stat/79/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F436
-[/us/pl/89/749/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749%2Fs3
+[/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/stat/80/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1181
 [/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/533-535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F533-535
-[/us/pl/91/296/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs111%2Fb
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F340
-[/us/pl/91/513/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs3%2Fb
+[/us/pl/91/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtI
 [/us/stat/84/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1241
-[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1304-1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1304-1306
-[/us/pl/91/616/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs331
+[/us/pl/91/616/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtIII
 [/us/stat/84/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1853
-[/us/pl/91/648/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs403
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1925
-[/us/pl/95/454/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs602%2Fc
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1189
-[/us/pl/92/255/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2Fs403%2Fa
+[/us/pl/92/255/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2FtIV
 [/us/stat/86/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F77
-[/us/pl/93/45/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs106
+[/us/pl/93/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2FtI
 [/us/stat/87/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F92
-[/us/pl/93/151/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs8
+[/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/stat/87/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F568
-[/us/pl/94/63/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs102
+[/us/pl/94/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtI
 [/us/stat/89/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F304
-[/us/pl/94/484/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs905%2Fb%2F1
+[/us/pl/94/484/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIX
 [/us/stat/90/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2325
-[/us/pl/95/83/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs302
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F387
-[/us/pl/95/454/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs602%2Fc
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1189
-[/us/pl/95/622/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs109
+[/us/pl/95/622/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtI
 [/us/stat/92/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3417
-[/us/pl/95/626/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs201%2Fa
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3570
-[/us/pl/96/32/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs6%2Fe
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F83
-[/us/pl/96/79/s115/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs115%2Fk%2F2
+[/us/pl/96/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtI
 [/us/stat/93/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F610
-[/us/pl/96/398/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs107%2Fd
+[/us/pl/96/398/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2FtI
 [/us/stat/94/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1571
-[/us/pl/97/35/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
-[/us/pl/99/117/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fa
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
-[/us/pl/102/54/s13/q/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F1%2FD
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F279
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/pl/96/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398
-[/us/pl/96/32/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs6%2Fe
-[/us/pl/96/32/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs6%2Ff
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/usc/t42/s300m–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m%E2%80%933%2Fc
-[/us/pl/95/626/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs201%2Fb%2F2
-[/us/pl/95/626/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs201%2Fa%2F1
-[/us/pl/95/626/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs201%2Fa%2F2
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/91/648/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs403
 [/us/pl/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622
-[/us/pl/95/83/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs302%2Fa
-[/us/pl/95/83/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs302%2Fb
+[/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
+[/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
 [/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
-[/us/pl/93/45/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs106%2Fa%2F1
-[/us/pl/93/45/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs106%2Fa%2F2
-[/us/pl/93/45/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs106%2Fa%2F3
-[/us/pl/93/45/s106/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs106%2Fa%2F4
+[/us/pl/93/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45
+[/us/pl/93/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45
+[/us/pl/93/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45
+[/us/pl/93/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45
 [/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
-[/us/pl/93/45/s106/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs106%2Fa%2F5
+[/us/pl/93/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45
 [/us/pl/92/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255
-[/us/pl/91/648/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs403%2Fa
-[/us/pl/94/454/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F454%2Fs602%2Fc
-[/us/pl/91/515/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs282
-[/us/pl/91/515/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs220%2Fa
-[/us/pl/91/515/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs220%2Fb
-[/us/pl/91/515/s220/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs220%2Fd
-[/us/pl/91/515/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs230
-[/us/pl/91/296/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs111%2Fb
-[/us/pl/91/515/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs240
-[/us/pl/91/515/s250/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs250%2Fa
-[/us/pl/91/296/s401/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs401%2Fb%2F1%2FC
-[/us/pl/91/515/s250/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs250%2Fb
+[/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
+[/us/pl/94/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F454
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
-[/us/pl/91/515/s260/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs260%2Fa
-[/us/pl/91/296/s401/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs401%2Fb%2F1%2FD
-[/us/pl/90/174/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fa%2F1
-[/us/pl/90/174/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fa%2F2
-[/us/pl/90/174/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fa%2F3
-[/us/pl/90/174/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fb%2F1
-[/us/pl/90/174/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fc
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
 [/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
-[/us/pl/90/174/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fd%2F2
-[/us/pl/90/174/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fd%2F3
 [/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
-[/us/pl/90/174/s12/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs12%2Fd%2F1
-[/us/pl/90/174/s12/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs12%2Fd%2F2
-[/us/pl/90/174/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Ff
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
@@ -484,49 +484,49 @@
 [/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/pl/89/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109
 [/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
-[/us/pl/87/395/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs2%2Fa
-[/us/pl/87/395/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs2%2Fd
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
 [/us/pl/85/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 [/us/pl/96/398/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs107%2Fd
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/pl/96/79/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs129%2Fa
-[/us/pl/95/626/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs201%2Fb%2F2
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3570
-[/us/pl/91/648/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs403%2Fb
-[/us/pl/95/454/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs602%2Fc
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1189
-[/us/pl/94/63/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs102
+[/us/pl/94/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtI
 [/us/stat/89/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F304
 [/us/pl/94/63/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs501%2Fb
 [/us/pl/94/63/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs608
 [/us/usc/t42/s247b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b
 [/us/pl/91/648/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs403%2Fa
-[/us/pl/94/454/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F454%2Fs602%2Fc
+[/us/pl/94/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F454
 [/us/pl/91/648/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs404
 [/us/usc/t5/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371
-[/us/pl/91/515/s260/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs260%2Fc%2F2
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1306
 [/us/usc/t42/s246/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246%2Fe
-[/us/pl/91/296/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs401%2Fb%2F1
+[/us/pl/91/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtIV
 [/us/stat/84/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F352
-[/us/pl/90/174/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs2%2Fd%2F2
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F534
-[/us/pl/90/174/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs3%2Fb
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F535
 [/us/usc/t42/s291n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291n
 [/us/usc/t42/s242b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242b
-[/us/pl/89/749/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749%2Fs6
+[/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/stat/80/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1190
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
-[/us/pl/87/688/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs4%2Fb
+[/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
-[/us/pl/85/544/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544%2Fs2
+[/us/pl/85/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544
 [/us/stat/72/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F401
-[/us/act/1956-08-01/ch852/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs18
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F910
-[/us/pl/96/398/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs107%2Fd
+[/us/pl/96/398/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2FtI
 [/us/pl/97/35/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fe%2F1
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
 [/us/usc/t42/s4728/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4728%2Fa%2F3%2FC
@@ -535,16 +535,16 @@
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/101/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F582
 [/us/stat/104/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2867
-[/us/pl/102/531/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs105
+[/us/pl/102/531/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtI
 [/us/stat/106/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3474
-[/us/pl/95/626/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs201%2Fb%2F1
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3570
-[/us/pl/89/749/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749%2Fs2
+[/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/stat/80/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1180
-[/us/act/1956-07-03/ch852/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch852%2Fs2
+[/us/act/1956-07-03/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch852
 [/us/stat/70/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F908
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/85/544/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544%2Fs2
+[/us/pl/85/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F544
 [/us/stat/72/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F401
 [/us/pl/86/720/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F720%2Fs2
 [/us/stat/74/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F820
@@ -552,7 +552,7 @@
 [/us/stat/69/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F704
 [/us/act/1956-02-15/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-15%2Fch39
 [/us/stat/70/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F18
-[/us/pl/89/749/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749%2Fs7
+[/us/pl/89/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F749
 [/us/stat/80/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1190
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 

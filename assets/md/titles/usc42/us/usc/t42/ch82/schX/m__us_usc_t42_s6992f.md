@@ -31,7 +31,7 @@
 
         Any State or local law which requires submission of a tracking form from any person subject to this subchapter shall require that the form be identical in content and format to the form required under [section 6992b of this title][/us/usc/t42/s6992b], except that a State may require the submission of other tracking information which is supplemental to the information required on the form required under [section 6992b of this title][/us/usc/t42/s6992b] through additional sheets or such other means as the State deems appropriate.
 
-([Pub. L. 89–272, title II, § 11007][/us/pl/89/272/s11007], as added [Pub. L. 100–582, § 2(a)][/us/pl/100/582/s2/a], Nov. 1, 1988, [102 Stat. 2955][/us/stat/102/2955].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 11007, as added [Pub. L. 100–582][/us/pl/100/582], § 2(a), Nov. 1, 1988, [102 Stat. 2955][/us/stat/102/2955].)
 
 ----------
 
@@ -44,8 +44,8 @@
 [/us/usc/t42/s6992d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992d
 [/us/usc/t42/s6992b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992b
 [/us/usc/t42/s6992b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992b
-[/us/pl/89/272/s11007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs11007
-[/us/pl/100/582/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs2%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2955
 
 

@@ -85,7 +85,7 @@
 
         (2) educating persons employed by Federal and State governments and private sectors of the economy of the merits of recycled oil, the need for its use in order to reduce the drain on the Nation’s oil reserves, and proper disposal of used oil to avoid waste of such oil and to minimize environmental hazards associated with improper disposal.
 
-([Pub. L. 94–163, title III, § 383][/us/pl/94/163/s383], Dec. 22, 1975, [89 Stat. 940][/us/stat/89/940]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 383, Dec. 22, 1975, [89 Stat. 940][/us/stat/89/940]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __Amendments__ 
 
@@ -93,7 +93,7 @@
 
  __Applicability of Labeling Standards__ 
 
-[Pub. L. 96–463, § 4(c)][/us/pl/96/463/s4/c], Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056], provided: 
+[Pub. L. 96–463][/us/pl/96/463], § 4(c), Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056], provided: 
 
 > “Before the effective date of the labeling standards required to be prescribed under section 383(d)(1)(A) of the Energy Policy and Conservation Act \[subsec. (d)(1)(A) of this section\], no requirement of any rule or order of the Federal Trade Commission may apply, or remain applicable, to any container of recycled oil (as defined in section 383(b) of such Act \[subsec. (b) of this section\]) if such requirement provides that the container must bear any label referring to the fact that it has been derived from previously used oil. Nothing in this subsection \[this note\] shall be construed to affect any labeling requirement applicable to recycled oil under any authority of law to the extent such requirement relates to fitness for intended use or any other performance characteristic of such oil or to any characteristic of such oil other than that referred to in the preceding sentence.”
 
@@ -104,12 +104,12 @@
 ----------
 ----------
 
-[/us/pl/94/163/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs383
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F940
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/96/463/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs4%2Fc
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2056
 
 

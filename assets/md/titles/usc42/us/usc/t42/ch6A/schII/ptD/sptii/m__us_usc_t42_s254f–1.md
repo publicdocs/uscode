@@ -103,15 +103,15 @@
 
             (B) not greater than twice the number of participants determined with respect to that program year under paragraph (1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 333A, as added and amended [Pub. L. 101–597, title I, § 104][/us/pl/101/597/s104], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3015][/us/stat/104/3015], 3035; [Pub. L. 107–251, title III, § 304][/us/pl/107/251/s304], Oct. 26, 2002, [116 Stat. 1646][/us/stat/116/1646]; [Pub. L. 108–163, § 2(h)][/us/pl/108/163/s2/h], Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 333A, as added and amended [Pub. L. 101–597, title I][/us/pl/101/597/tI], § 104, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3015][/us/stat/104/3015], 3035; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 304, Oct. 26, 2002, [116 Stat. 1646][/us/stat/116/1646]; [Pub. L. 108–163][/us/pl/108/163], § 2(h), Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
 
  __Amendments__ 
 
     2003—Subsec. (c)(4). [Pub. L. 108–163][/us/pl/108/163] substituted “30 days from such notification” for “30 days”.
 
-    2002—Subsec. (a)(1)(A). [Pub. L. 107–251, § 304(1)][/us/pl/107/251/s304/1], struck out “, as determined in accordance with subsection (b) of this section” after “such shortage”.
+    2002—Subsec. (a)(1)(A). [Pub. L. 107–251][/us/pl/107/251], § 304(1), struck out “, as determined in accordance with subsection (b) of this section” after “such shortage”.
 
-    Subsec. (b). [Pub. L. 107–251, § 304(2)][/us/pl/107/251/s304/2], (7), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “In making a determination under subsection (a)(1)(A) of this section of the health professional shortage areas with the greatest such shortages, the Secretary may consider only the following factors:
+    Subsec. (b). [Pub. L. 107–251][/us/pl/107/251], § 304(2), (7), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “In making a determination under subsection (a)(1)(A) of this section of the health professional shortage areas with the greatest such shortages, the Secretary may consider only the following factors:
 
     “(1) The ratio of available health manpower to the number of individuals in the area or population group involved, or served by the medical facility or other public facility involved.
 
@@ -125,37 +125,37 @@
 
     “(D) Access to primary health services, taking into account the distance to such services.”
 
-    Subsec. (c). [Pub. L. 107–251, § 304(7)][/us/pl/107/251/s304/7], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 107–251][/us/pl/107/251], § 304(7), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (c)(1). [Pub. L. 107–251, § 304(3)][/us/pl/107/251/s304/3], struck out second sentence, which read as follows: “Such criteria shall specify the manner in which the factors described in subsection (b) of this section are implemented regarding such a determination.”
+    Subsec. (c)(1). [Pub. L. 107–251][/us/pl/107/251], § 304(3), struck out second sentence, which read as follows: “Such criteria shall specify the manner in which the factors described in subsection (b) of this section are implemented regarding such a determination.”
 
-    Subsec. (d). [Pub. L. 107–251, § 304(7)][/us/pl/107/251/s304/7], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 107–251][/us/pl/107/251], § 304(7), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (d)(1). [Pub. L. 107–251, § 304(4)(B)][/us/pl/107/251/s304/4/B], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (d)(1). [Pub. L. 107–251][/us/pl/107/251], § 304(4)(B), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (d)(2). [Pub. L. 107–251, § 304(4)(C)][/us/pl/107/251/s304/4/C], in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and “prepare and, as appropriate, update a list of health professional shortage areas and entities” for “prepare a list of health professional shortage areas” and struck out “for the period applicable under subsection (f) of this section” after “Corps members”.
+    Subsec. (d)(2). [Pub. L. 107–251][/us/pl/107/251], § 304(4)(C), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and “prepare and, as appropriate, update a list of health professional shortage areas and entities” for “prepare a list of health professional shortage areas” and struck out “for the period applicable under subsection (f) of this section” after “Corps members”.
 
-    [Pub. L. 107–251, § 304(4)(A)][/us/pl/107/251/s304/4/A], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+    [Pub. L. 107–251][/us/pl/107/251], § 304(4)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-    Subsec. (d)(3). [Pub. L. 107–251, § 304(4)(D)][/us/pl/107/251/s304/4/D], added par. (3) and struck out heading and text of former par. (3). Text read as follows:
+    Subsec. (d)(3). [Pub. L. 107–251][/us/pl/107/251], § 304(4)(D), added par. (3) and struck out heading and text of former par. (3). Text read as follows:
 
     “(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
 
     “(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.”
 
-    [Pub. L. 107–251, § 304(4)(A)][/us/pl/107/251/s304/4/A], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    [Pub. L. 107–251][/us/pl/107/251], § 304(4)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (d)(4). [Pub. L. 107–251, § 304(4)(E)][/us/pl/107/251/s304/4/E], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “If the Secretary makes a revision in a list under paragraph (1) during the period under subsection (f) of this section to which the list is applicable, and the revision alters the status of an entity with respect to the list, the Secretary shall notify the entity of the effect on the entity of the revision. Such notification shall be provided not later than 30 days after the date on which the revision is made.”
+    Subsec. (d)(4). [Pub. L. 107–251][/us/pl/107/251], § 304(4)(E), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “If the Secretary makes a revision in a list under paragraph (1) during the period under subsection (f) of this section to which the list is applicable, and the revision alters the status of an entity with respect to the list, the Secretary shall notify the entity of the effect on the entity of the revision. Such notification shall be provided not later than 30 days after the date on which the revision is made.”
 
-    [Pub. L. 107–251, § 304(4)(A)][/us/pl/107/251/s304/4/A], redesignated par. (3) as (4).
+    [Pub. L. 107–251][/us/pl/107/251], § 304(4)(A), redesignated par. (3) as (4).
 
-    Subsec. (e). [Pub. L. 107–251, § 304(7)][/us/pl/107/251/s304/7], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 107–251][/us/pl/107/251], § 304(7), redesignated subsec. (e) as (d).
 
-    [Pub. L. 107–251, § 304(5)][/us/pl/107/251/s304/5], added subsec. (e) and struck out heading and text of former subsec. (e). Text related to limitation on the number of entities offered as assignment choices in the Scholarship Program based on the number of participants available for assignments.
+    [Pub. L. 107–251][/us/pl/107/251], § 304(5), added subsec. (e) and struck out heading and text of former subsec. (e). Text related to limitation on the number of entities offered as assignment choices in the Scholarship Program based on the number of participants available for assignments.
 
-    Subsec. (f). [Pub. L. 107–251, § 304(6)][/us/pl/107/251/s304/6], struck out heading and text of subsec. (f), which related to applicable period regarding priorities in assignment of Corps members.
+    Subsec. (f). [Pub. L. 107–251][/us/pl/107/251], § 304(6), struck out heading and text of subsec. (f), which related to applicable period regarding priorities in assignment of Corps members.
 
-    1990—[Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a) to (c)(1), (d)(1), and (e)(3).
+    1990—[Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a) to (c)(1), (d)(1), and (e)(3).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -173,29 +173,29 @@
 [/us/usc/t42/s254m/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m%2Fb%2F5
 [/us/usc/t42/s254f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/597/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs104
+[/us/pl/101/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtI
 [/us/stat/104/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3015
-[/us/pl/107/251/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1646
-[/us/pl/108/163/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fh
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2022
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
-[/us/pl/107/251/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F1
-[/us/pl/107/251/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F2
-[/us/pl/107/251/s304/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F7
-[/us/pl/107/251/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F3
-[/us/pl/107/251/s304/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F7
-[/us/pl/107/251/s304/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F4%2FB
-[/us/pl/107/251/s304/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F4%2FC
-[/us/pl/107/251/s304/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F4%2FA
-[/us/pl/107/251/s304/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F4%2FD
-[/us/pl/107/251/s304/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F4%2FA
-[/us/pl/107/251/s304/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F4%2FE
-[/us/pl/107/251/s304/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F4%2FA
-[/us/pl/107/251/s304/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F7
-[/us/pl/107/251/s304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F5
-[/us/pl/107/251/s304/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs304%2F6
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3

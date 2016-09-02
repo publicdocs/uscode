@@ -69,7 +69,7 @@
 
         (2) For the purpose of awarding a grant under subsection (a)(2) of this section, there are authorized to be appropriated $3,000,000 for fiscal year 2005, $4,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520C, as added [Pub. L. 106–310, div. B, title XXXI, § 3104(b)][/us/pl/106/310/s3104/b], Oct. 17, 2000, [114 Stat. 1173][/us/stat/114/1173]; amended [Pub. L. 108–355, § 3(a)][/us/pl/108/355/s3/a], Oct. 21, 2004, [118 Stat. 1405][/us/stat/118/1405].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520C, as added [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3104(b), Oct. 17, 2000, [114 Stat. 1173][/us/stat/114/1173]; amended [Pub. L. 108–355][/us/pl/108/355], § 3(a), Oct. 21, 2004, [118 Stat. 1405][/us/stat/118/1405].)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–355, § 3(a)(1)][/us/pl/108/355/s3/a/1], substituted dash for comma after “National Institutes of Health”, designated remainder of existing provisions as par. (1), substituted “; and” for period, and added par. (2).
+    2004—Subsec. (a). [Pub. L. 108–355][/us/pl/108/355], § 3(a)(1), substituted dash for comma after “National Institutes of Health”, designated remainder of existing provisions as par. (1), substituted “; and” for period, and added par. (2).
 
-    Subsec. (c). [Pub. L. 108–355, § 3(a)(2)][/us/pl/108/355/s3/a/2], substituted “(a)(1)” for “(a)” in introductory provisions.
+    Subsec. (c). [Pub. L. 108–355][/us/pl/108/355], § 3(a)(2), substituted “(a)(1)” for “(a)” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 108–355, § 3(a)(5)][/us/pl/108/355/s3/a/5], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 108–355][/us/pl/108/355], § 3(a)(5), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    [Pub. L. 108–355, § 3(a)(3)][/us/pl/108/355/s3/a/3], designated existing provisions as par. (1), substituted “awarding grants or contracts under subsection (a)(1) of this section” for “carrying out this section”, and added par. (2).
+    [Pub. L. 108–355][/us/pl/108/355], § 3(a)(3), designated existing provisions as par. (1), substituted “awarding grants or contracts under subsection (a)(1) of this section” for “carrying out this section”, and added par. (2).
 
-    Subsec. (e). [Pub. L. 108–355, § 3(a)(4)][/us/pl/108/355/s3/a/4], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 108–355][/us/pl/108/355], § 3(a)(4), redesignated subsec. (d) as (e).
 
 ----------
 
@@ -96,17 +96,17 @@
 
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3104%2Fb
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1173
-[/us/pl/108/355/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fa
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
 [/us/stat/118/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1405
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/108/355/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fa%2F1
-[/us/pl/108/355/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fa%2F2
-[/us/pl/108/355/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fa%2F5
-[/us/pl/108/355/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fa%2F3
-[/us/pl/108/355/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fa%2F4
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
 
 

@@ -17,11 +17,11 @@
 
     The Secretary is authorized to issue, amend, and revoke such rules and regulations as he deems necessary to carry out this chapter.
 
-([Pub. L. 93–383, title VI, § 625][/us/pl/93/383/s625], Aug. 22, 1974, [88 Stat. 713][/us/stat/88/713].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 625, Aug. 22, 1974, [88 Stat. 713][/us/stat/88/713].)
 
  __Regulations and Procedures With Regard to Manufactured Homes__ 
 
-[Pub. L. 96–399, title III, § 308(c)(7)][/us/pl/96/399/s308/c/7], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641], provided that: 
+[Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(7), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641], provided that: 
 
 > “In adopting regulations and procedures in accordance with this subsection \[see Tables for classification\] the Secretary of Housing and Urban Development shall have discretion to take actions in a manner which he deems necessary to insure that the public is fully aware of the distinctions between the various types of factory-built housing.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/93/383/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs625
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F713
-[/us/pl/96/399/s308/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F7
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
 
 

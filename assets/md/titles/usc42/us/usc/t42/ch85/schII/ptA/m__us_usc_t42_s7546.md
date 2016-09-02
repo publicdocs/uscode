@@ -135,17 +135,17 @@
 
             (B) $400,000,000 for fiscal year 2007.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 212, as added [Pub. L. 109–58, title XV, § 1511][/us/pl/109/58/s1511], Aug. 8, 2005, [119 Stat. 1086][/us/stat/119/1086].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 212, as added [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1511, Aug. 8, 2005, [119 Stat. 1086][/us/stat/119/1086].)
 
  __References in Text__ 
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], as amended, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], as amended, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     The Energy Policy Act, referred to in subsec. (b)(1), probably means the Energy Policy Act of 2005, [Pub. L. 109–58][/us/pl/109/58], Aug. 8, 2005, [119 Stat. 594][/us/stat/119/594]. Title XIV of the Act probably should be a reference to title XV of the Act which relates to ethanol and motor fuels and enacted subchapter XIV (§ 16501 et seq.) of chapter 149 of this title and sections 6991i to 6991m and 7546 of this title, amended sections 6991 to 6991f, 6991h, 1991i, 7135, 7545, and 13220 of this title, and enacted provisions set out as notes under [section 7545 of this title][/us/usc/t42/s7545]. Title XIV of the Act, which contains miscellaneous provisions, is classified principally to subchapter XIII (§ 16491 et seq.) of chapter 149 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title][/us/usc/t42/s15801] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 7546, [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 212, as added Dec. 31, 1970, [Pub. L. 91–604, § 10(c)][/us/pl/91/604/s10/c], [84 Stat. 1700][/us/stat/84/1700]; amended Dec. 31, 1970, [Pub. L. 91–605, § 202(a)][/us/pl/91/605/s202/a], [84 Stat. 1739][/us/stat/84/1739]; Apr. 9, 1973, [Pub. L. 93–15, § 1(b)][/us/pl/93/15/s1/b], [87 Stat. 11][/us/stat/87/11]; June 22, 1974, [Pub. L. 93–319, § 13(b)][/us/pl/93/319/s13/b], [88 Stat. 265][/us/stat/88/265], related to low-emission vehicles, prior to repeal by [Pub. L. 101–549, title II, § 230(10)][/us/pl/101/549/s230/10], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
+    A prior section 7546, [act July 14, 1955, ch. 360, title II][/us/act/1955-07-14/ch360/tII], § 212, as added Dec. 31, 1970, [Pub. L. 91–604][/us/pl/91/604], § 10(c), [84 Stat. 1700][/us/stat/84/1700]; amended Dec. 31, 1970, [Pub. L. 91–605][/us/pl/91/605], § 202(a), [84 Stat. 1739][/us/stat/84/1739]; Apr. 9, 1973, [Pub. L. 93–15][/us/pl/93/15], § 1(b), [87 Stat. 11][/us/stat/87/11]; June 22, 1974, [Pub. L. 93–319][/us/pl/93/319], § 13(b), [88 Stat. 265][/us/stat/88/265], related to low-emission vehicles, prior to repeal by [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 230(10), Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
 
     A prior section 212 of act July 14, 1955, was renumbered section 213 by [Pub. L. 91–604][/us/pl/91/604], renumbered section 214 by [Pub. L. 93–319][/us/pl/93/319], and renumbered section 216 by [Pub. L. 95–95][/us/pl/95/95], and is classified to [section 7550 of this title][/us/usc/t42/s7550].
 
@@ -160,26 +160,26 @@
 [/us/usc/t42/s7545/k/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545%2Fk%2F10%2FD
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/109/58/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1511
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1086
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594
 [/us/usc/t42/s7545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs10%2Fc
+[/us/act/1955-07-14/ch360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtII
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1700
-[/us/pl/91/605/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs202%2Fa
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/stat/84/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1739
-[/us/pl/93/15/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F15%2Fs1%2Fb
+[/us/pl/93/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F15
 [/us/stat/87/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F11
-[/us/pl/93/319/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs13%2Fb
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F265
-[/us/pl/101/549/s230/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F10
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319

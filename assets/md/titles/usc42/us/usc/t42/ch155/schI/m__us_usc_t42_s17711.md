@@ -11,41 +11,23 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_ch155_schI.md) | [Next](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17714.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17711)
+[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_ch155_schI.md) | [Next](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17712 _us_usc_t42_s17713.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17711)
 
-## § 17711. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
+## § 17711. Repealed. [Pub. L. 111–314][/us/pl/111/314], § 6, Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
-    Section, [Pub. L. 110–422, title II, § 201][/us/pl/110/422/s201], Oct. 15, 2008, [122 Stat. 4784][/us/stat/122/4784], related to goal for NASA’s Earth Science program. See [section 60501 of Title 51][/us/usc/t51/s60501], National and Commercial Space Programs.
-
-§§ 17712, 17713. __Repealed or Omitted__ 
-
- __Codification__ 
-
-    Section 17712, [Pub. L. 110–422, title II, § 204][/us/pl/110/422/s204], Oct. 15, 2008, [122 Stat. 4785][/us/stat/122/4785], which related to transitioning experimental research into operational services, was repealed in part and omitted in part. Subsecs. (b), (c), and (d) were repealed and reenacted as subsecs. (a), (b), and (c), respectively, of [section 60502 of Title 51][/us/usc/t51/s60502], National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314], §§ 3, 6, Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328], 3444, which Act enacted Title 51. Subsec. (a), which provided sense of Congress regarding such transitioning, was omitted from the Code following the enactment of Title 51.
-
-    Section 17713, [Pub. L. 110–422, title II, § 206][/us/pl/110/422/s206], Oct. 15, 2008, [122 Stat. 4785][/us/stat/122/4785], which related to reauthorization of Glory Mission examining effect of aerosols and solar energy on climate, was repealed in part and omitted in part. Subsec. (a) was repealed and reenacted as [section 60503 of Title 51][/us/usc/t51/s60503], National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314], §§ 3, 6, Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328], 3444, which Act enacted Title 51. Subsec. (b), which required baseline report no later than 90 days after Oct. 15, 2008, was omitted from the Code following the enactment of Title 51.
+    Section, [Pub. L. 110–422, title II][/us/pl/110/422/tII], § 201, Oct. 15, 2008, [122 Stat. 4784][/us/stat/122/4784], related to goal for NASA’s Earth Science program. See [section 60501 of Title 51][/us/usc/t51/s60501], National and Commercial Space Programs.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_ch155_schI.md) | [Next](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17714.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17711)
+[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_ch155_schI.md) | [Next](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17712 _us_usc_t42_s17713.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17711)
 
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/110/422/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs201
+[/us/pl/110/422/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2FtII
 [/us/stat/122/4784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4784
 [/us/usc/t51/s60501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60501
-[/us/pl/110/422/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs204
-[/us/stat/122/4785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4785
-[/us/usc/t51/s60502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60502
-[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
-[/us/stat/124/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3328
-[/us/pl/110/422/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs206
-[/us/stat/122/4785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4785
-[/us/usc/t51/s60503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60503
-[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
-[/us/stat/124/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3328
 
 

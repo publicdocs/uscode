@@ -25,7 +25,7 @@
 
         Any authorization issued or granted pursuant to subsection (a) of this section shall include such terms and conditions as may be required by law, and may include terms and conditions permitted by law.
 
-([Pub. L. 97–425, title I, § 120][/us/pl/97/425/s120], Jan. 7, 1983, [96 Stat. 2227][/us/stat/96/2227].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 120, Jan. 7, 1983, [96 Stat. 2227][/us/stat/96/2227].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs120
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2227
 
 

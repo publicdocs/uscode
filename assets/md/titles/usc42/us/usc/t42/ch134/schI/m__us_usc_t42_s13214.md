@@ -35,7 +35,7 @@
 
         The Secretary, in cooperation with the Administrator of General Services, shall provide guidance, coordination and technical assistance to Federal agencies in the procurement and geographic location of alternative fueled vehicles purchased through the Administrator of General Services. The procurement and geographic location of such vehicles shall comply with the purchase requirements under [section 13212 of this title][/us/usc/t42/s13212].
 
-([Pub. L. 102–486, title III, § 305][/us/pl/102/486/s305], Oct. 24, 1992, [106 Stat. 2872][/us/stat/106/2872].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 305, Oct. 24, 1992, [106 Stat. 2872][/us/stat/106/2872].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13212
-[/us/pl/102/486/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs305
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2872
 
 

@@ -315,29 +315,29 @@
 
             Notwithstanding paragraphs (2) and (4), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2791, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1972][/us/stat/110/1972]; amended [Pub. L. 110–233, title I, § 102(a)(4)][/us/pl/110/233/s102/a/4], May 21, 2008, [122 Stat. 890][/us/stat/122/890]; [Pub. L. 111–148, title I, § 1563(b)][/us/pl/111/148/s1563/b], (c)(16), formerly § 1562(b), (c)(16), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 264][/us/stat/124/264], 269, 911; [Pub. L. 114–60, § 2(b)][/us/pl/114/60/s2/b], Oct. 7, 2015, [129 Stat. 543][/us/stat/129/543].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2791, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1972][/us/stat/110/1972]; amended [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 102(a)(4), May 21, 2008, [122 Stat. 890][/us/stat/122/890]; [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563(b), (c)(16), formerly § 1562(b), (c)(16), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 264][/us/stat/124/264], 269, 911; [Pub. L. 114–60][/us/pl/114/60], § 2(b), Oct. 7, 2015, [129 Stat. 543][/us/stat/129/543].)
 
  __References in Text__ 
 
-    Section 2701, referred to in subsecs. (a)(3) and (d)(15)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title][/us/usc/t42/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3]. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t42/s300gg].
+    Section 2701, referred to in subsecs. (a)(3) and (d)(15)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title][/us/usc/t42/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3]. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t42/s300gg].
 
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
-    Section 2702, referred to in subsec. (d)(9), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1], was amended by [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and was transferred to subsecs. (b) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4], effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1].
+    Section 2702, referred to in subsec. (d)(9), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1], was amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(3), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], and was transferred to subsecs. (b) to (f) of [section 300gg–4 of this title][/us/usc/t42/s300gg–4], effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), Mar. 23, 2010, [124 Stat. 156][/us/stat/124/156], effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title][/us/usc/t42/s300gg–1].
 
  __Amendments__ 
 
-    2015—Subsec. (e)(2). [Pub. L. 114–60, § 2(b)(1)][/us/pl/114/60/s2/b/1], substituted “51” for “101”.
+    2015—Subsec. (e)(2). [Pub. L. 114–60][/us/pl/114/60], § 2(b)(1), substituted “51” for “101”.
 
-    Subsec. (e)(4). [Pub. L. 114–60, § 2(b)(2)][/us/pl/114/60/s2/b/2], substituted “50” for “100”.
+    Subsec. (e)(4). [Pub. L. 114–60][/us/pl/114/60], § 2(b)(2), substituted “50” for “100”.
 
-    Subsec. (e)(7). [Pub. L. 114–60, § 2(b)(3)][/us/pl/114/60/s2/b/3], added par. (7).
+    Subsec. (e)(7). [Pub. L. 114–60][/us/pl/114/60], § 2(b)(3), added par. (7).
 
-    2010—Subsec. (d)(20), (21). [Pub. L. 111–148, § 1563(b)][/us/pl/111/148/s1563/b], formerly § 1562(b), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], added pars. (20) and (21).
+    2010—Subsec. (d)(20), (21). [Pub. L. 111–148][/us/pl/111/148], § 1563(b), formerly § 1562(b), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), added pars. (20) and (21).
 
-    Subsec. (e)(2). [Pub. L. 111–148, § 1563(c)(16)(A)][/us/pl/111/148/s1563/c/16/A], formerly § 1562(c)(16)(A), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “101” for “51”.
+    Subsec. (e)(2). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(16)(A), formerly § 1562(c)(16)(A), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “101” for “51”.
 
-    Subsec. (e)(4). [Pub. L. 111–148, § 1563(c)(16)(B)][/us/pl/111/148/s1563/c/16/B], formerly § 1562(c)(16)(B), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “100” for “50” and “at least 1” for “at least 2” in two places.
+    Subsec. (e)(4). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(16)(B), formerly § 1562(c)(16)(B), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “100” for “50” and “at least 1” for “at least 2” in two places.
 
     2008—Subsec. (d)(15) to (19). [Pub. L. 110–233][/us/pl/110/233] added pars. (15) to (19).
 
@@ -370,40 +370,40 @@
 [/us/usc/t42/s18031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18031
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1972
-[/us/pl/110/233/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs102%2Fa%2F4
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F890
-[/us/pl/111/148/s1563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fb
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F264
-[/us/pl/114/60/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fb
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
 [/us/stat/129/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F543
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F155
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
-[/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F156
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
-[/us/pl/114/60/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fb%2F1
-[/us/pl/114/60/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fb%2F2
-[/us/pl/114/60/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fb%2F3
-[/us/pl/111/148/s1563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fb
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F16%2FA
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F16%2FB
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
+[/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/pl/110/233/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs102%2Fd%2F2

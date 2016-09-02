@@ -175,7 +175,7 @@
 
             The term “urban area” has the meaning given such term in section 1393(a)(3) of the Internal Revenue Code of 1986.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2007, as added [Pub. L. 103–66, title XIII, § 13761][/us/pl/103/66/s13761], Aug. 10, 1993, [107 Stat. 664][/us/stat/107/664]; amended [Pub. L. 103–432, title II, § 263][/us/pl/103/432/s263], Oct. 31, 1994, [108 Stat. 4467][/us/stat/108/4467].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2007, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13761, Aug. 10, 1993, [107 Stat. 664][/us/stat/107/664]; amended [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 263, Oct. 31, 1994, [108 Stat. 4467][/us/stat/108/4467].)
 
  __References in Text__ 
 
@@ -183,9 +183,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 1397f, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2007, as added Aug. 13, 1981, [Pub. L. 97–35, title XXIII, § 2352(a)][/us/pl/97/35/s2352/a], [95 Stat. 871][/us/stat/95/871], related to child day care services, prior to repeal by [Pub. L. 99–514, title XVIII, § 1883(e)(2)][/us/pl/99/514/s1883/e/2], Oct. 22, 1986, [100 Stat. 2919][/us/stat/100/2919].
+    A prior section 1397f, [act Aug. 14, 1935, ch. 531, title XX][/us/act/1935-08-14/ch531/tXX], § 2007, as added Aug. 13, 1981, [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2352(a), [95 Stat. 871][/us/stat/95/871], related to child day care services, prior to repeal by [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1883(e)(2), Oct. 22, 1986, [100 Stat. 2919][/us/stat/100/2919].
 
-    Another prior section 1397f, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2008, formerly § 2007, as added Jan. 4, 1975, [Pub. L. 93–647, § 2][/us/pl/93/647/s2], [88 Stat. 2348][/us/stat/88/2348]; renumbered § 2008, Jan. 2, 1980, [Pub. L. 96–178, § 4(b)][/us/pl/96/178/s4/b], [93 Stat. 1296][/us/stat/93/1296], defined “State supplementary payment” and “State”, prior to the general revision of this subchapter by [section 2352(a) of Pub. L. 97–35][/us/pl/97/35/s2352/a].
+    Another prior section 1397f, [act Aug. 14, 1935, ch. 531, title XX][/us/act/1935-08-14/ch531/tXX], § 2008, formerly § 2007, as added Jan. 4, 1975, [Pub. L. 93–647][/us/pl/93/647], § 2, [88 Stat. 2348][/us/stat/88/2348]; renumbered § 2008, Jan. 2, 1980, [Pub. L. 96–178][/us/pl/96/178], § 4(b), [93 Stat. 1296][/us/stat/93/1296], defined “State supplementary payment” and “State”, prior to the general revision of this subchapter by [section 2352(a) of Pub. L. 97–35][/us/pl/97/35/s2352/a].
 
  __Amendments__ 
 
@@ -205,19 +205,19 @@
 [/us/usc/t42/s1397b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fc
 [/us/usc/t42/s1397b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fc
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13761
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F664
-[/us/pl/103/432/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs263
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4467
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2352%2Fa
+[/us/act/1935-08-14/ch531/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXX
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F871
-[/us/pl/99/514/s1883/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1883%2Fe%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2919
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/647/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs2
+[/us/act/1935-08-14/ch531/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXX
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2348
-[/us/pl/96/178/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F178%2Fs4%2Fb
+[/us/pl/96/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F178
 [/us/stat/93/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1296
 [/us/pl/97/35/s2352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2352%2Fa
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432

@@ -125,7 +125,7 @@
 
         With respect to the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands, the Secretary may waive the provisions of this part that the Secretary determines to be appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 522, as added [Pub. L. 100–77, title VI, § 611(3)][/us/pl/100/77/s611/3], July 22, 1987, [101 Stat. 516][/us/stat/101/516]; amended [Pub. L. 101–645, title V, § 511][/us/pl/101/645/s511], Nov. 29, 1990, [104 Stat. 4726][/us/stat/104/4726]; [Pub. L. 106–310, div. B, title XXXII, § 3203(a)][/us/pl/106/310/s3203/a], Oct. 17, 2000, [114 Stat. 1191][/us/stat/114/1191]; [Pub. L. 110–234, title IV, § 4002(b)(1)(E)][/us/pl/110/234/s4002/b/1/E], (2)(U), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(E), (2)(U), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 522, as added [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 611(3), July 22, 1987, [101 Stat. 516][/us/stat/101/516]; amended [Pub. L. 101–645, title V][/us/pl/101/645/tV], § 511, Nov. 29, 1990, [104 Stat. 4726][/us/stat/104/4726]; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3203(a), Oct. 17, 2000, [114 Stat. 1191][/us/stat/114/1191]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(E), (2)(U), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(E), (2)(U), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(7)(C). [Pub. L. 110–246, § 4002(b)(1)(E)][/us/pl/110/246/s4002/b/1/E], (2)(U), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+    2008—Subsec. (b)(7)(C). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(E), (2)(U), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
     2000—Subsec. (i). [Pub. L. 106–310][/us/pl/106/310] added subsec. (i).
 
@@ -170,15 +170,15 @@
 [/us/usc/t42/s290cc–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9321
 [/us/usc/t42/s290cc–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/77/s611/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs611%2F3
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F516
-[/us/pl/101/645/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs511
+[/us/pl/101/645/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtV
 [/us/stat/104/4726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4726
-[/us/pl/106/310/s3203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3203%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1191
-[/us/pl/110/234/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -189,7 +189,7 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/100/77/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs611%2F2
 [/us/usc/t42/s290dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%932
-[/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/101/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

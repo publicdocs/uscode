@@ -31,7 +31,7 @@
 
         Nothing in sections 285l–2 to 285l–5 of this title precludes a party from submitting a test method or scientific data directly to a Federal agency for use in a regulatory program.
 
-([Pub. L. 106–545, § 5][/us/pl/106/545/s5], Dec. 19, 2000, [114 Stat. 2724][/us/stat/114/2724].)
+([Pub. L. 106–545][/us/pl/106/545], § 5, Dec. 19, 2000, [114 Stat. 2724][/us/stat/114/2724].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F545%2Fs5
+[/us/pl/106/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F545
 [/us/stat/114/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2724
 
 

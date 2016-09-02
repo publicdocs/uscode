@@ -75,43 +75,43 @@
 
     (l) The term “title”, when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years’ undisturbed use and possession for the purposes of construction and operation of the project.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 645, formerly § 625, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 460][/us/stat/78/460]; amended [Pub. L. 88–581, § 3(b)][/us/pl/88/581/s3/b], Sept. 4, 1964, [78 Stat. 919][/us/stat/78/919]; renumbered § 645 and amended [Pub. L. 91–296, title I][/us/pl/91/296], §§ 113, 114(a), 116(f), 117, 118, 119(d), title II, § 201, June 30, 1970, [84 Stat. 340][/us/stat/84/340], 341, 342, 343, 344.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 645, formerly § 625, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 460][/us/stat/78/460]; amended [Pub. L. 88–581][/us/pl/88/581], § 3(b), Sept. 4, 1964, [78 Stat. 919][/us/stat/78/919]; renumbered § 645 and amended [Pub. L. 91–296, title I][/us/pl/91/296/tI], §§ 113, 114(a), 116(f), 117, 118, 119(d), title II, § 201, June 30, 1970, [84 Stat. 340][/us/stat/84/340], 341, 342, 343, 344.)
 
  __Prior Provisions__ 
 
-    A prior section 291o, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 641, as added [July 12, 1954, ch. 471, § 2][/us/act/1954-07-12/ch471/s2], [68 Stat. 461][/us/stat/68/461], related to a declaration of purpose with respect to diagnostic or treatment centers, chronic disease hospitals, rehabilitation facilities, and nursing homes, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291 of this title][/us/usc/t42/s291].
+    A prior section 291o, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 641, as added [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 2, [68 Stat. 461][/us/stat/68/461], related to a declaration of purpose with respect to diagnostic or treatment centers, chronic disease hospitals, rehabilitation facilities, and nursing homes, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291 of this title][/us/usc/t42/s291].
 
-    Provisions similar to those comprising this section were contained in section 291i(d) to (o), [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 631, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [June 19, 1948, ch. 544, § 1(b)][/us/act/1948-06-19/ch544/s1/b], [62 Stat. 531][/us/stat/62/531]; [Oct. 25, 1949, ch. 722, § 9][/us/act/1949-10-25/ch722/s9], [63 Stat. 901][/us/stat/63/901]; [July 12, 1954, ch. 471, § 4(c)][/us/act/1954-07-12/ch471/s4/c] to (f), [68 Stat. 465][/us/stat/68/465], 466; [Aug. 1, 1956, ch. 852, § 19(b)][/us/act/1956-08-01/ch852/s19/b], [70 Stat. 911][/us/stat/70/911]; June 25, 1959, [Pub. L. 86–70, § 31(c)][/us/pl/86/70/s31/c], [73 Stat. 149][/us/stat/73/149]; July 12, 1960, [Pub. L. 86–624, § 29(d)][/us/pl/86/624/s29/d], [74 Stat. 419][/us/stat/74/419]; Oct. 5, 1961, [Pub. L. 87–395, § 5][/us/pl/87/395/s5], [75 Stat. 826][/us/stat/75/826]; Sept. 25, 1962, [Pub. L. 87–688, § 4(a)(2)][/us/pl/87/688/s4/a/2], [76 Stat. 587][/us/stat/76/587], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising this section were contained in section 291i(d) to (o), [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 631, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [June 19, 1948, ch. 544][/us/act/1948-06-19/ch544], § 1(b), [62 Stat. 531][/us/stat/62/531]; [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], § 9, [63 Stat. 901][/us/stat/63/901]; [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 4(c) to (f), [68 Stat. 465][/us/stat/68/465], 466; [Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 19(b), [70 Stat. 911][/us/stat/70/911]; June 25, 1959, [Pub. L. 86–70][/us/pl/86/70], § 31(c), [73 Stat. 149][/us/stat/73/149]; July 12, 1960, [Pub. L. 86–624][/us/pl/86/624], § 29(d), [74 Stat. 419][/us/stat/74/419]; Oct. 5, 1961, [Pub. L. 87–395][/us/pl/87/395], § 5, [75 Stat. 826][/us/stat/75/826]; Sept. 25, 1962, [Pub. L. 87–688][/us/pl/87/688], § 4(a)(2), [76 Stat. 587][/us/stat/76/587], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Amendments__ 
 
-    1970—Subsec. (a). [Pub. L. 91–296, § 119(d)][/us/pl/91/296/s119/d], inserted reference to Trust Territory of the Pacific Islands.
+    1970—Subsec. (a). [Pub. L. 91–296][/us/pl/91/296], § 119(d), inserted reference to Trust Territory of the Pacific Islands.
 
-    Subsec. (b). [Pub. L. 91–296, § 113][/us/pl/91/296/s113], provided that Federal share of any project be in such amount, not in excess of two-thirds, as the State agency determined and authorized a higher Federal share of up to 90 per centum, in case of rural or urban poverty projects, and facilities which might reduce health costs through shared services, interfacility cooperation, and free-standing ambulatory care centers.
+    Subsec. (b). [Pub. L. 91–296][/us/pl/91/296], § 113, provided that Federal share of any project be in such amount, not in excess of two-thirds, as the State agency determined and authorized a higher Federal share of up to 90 per centum, in case of rural or urban poverty projects, and facilities which might reduce health costs through shared services, interfacility cooperation, and free-standing ambulatory care centers.
 
-    Subsec. (c). [Pub. L. 91–296, § 114(a)][/us/pl/91/296/s114/a], inserted references to extended care facilities, facilities related to programs for home health services, and self-care units operated in connection with hospitals and education or training facilities for health professions personnel operated as an integral part of a hospital.
+    Subsec. (c). [Pub. L. 91–296][/us/pl/91/296], § 114(a), inserted references to extended care facilities, facilities related to programs for home health services, and self-care units operated in connection with hospitals and education or training facilities for health professions personnel operated as an integral part of a hospital.
 
-    Subsec. (f). [Pub. L. 91–296, § 116(f)][/us/pl/91/296/s116/f], substituted “outpatient facility” for “diagnostic or treatment center”, inserted “(located in or apart from a hospital)” after “means at facility”, inserted “(including ambulatory inpatients)” after “ambulatory patients”, and added par. (3).
+    Subsec. (f). [Pub. L. 91–296][/us/pl/91/296], § 116(f), substituted “outpatient facility” for “diagnostic or treatment center”, inserted “(located in or apart from a hospital)” after “means at facility”, inserted “(including ambulatory inpatients)” after “ambulatory patients”, and added par. (3).
 
-    Subsec. (h). [Pub. L. 91–296, § 117][/us/pl/91/296/s117], inserted “(including an extended care facility)” after “means a facility”.
+    Subsec. (h). [Pub. L. 91–296][/us/pl/91/296], § 117, inserted “(including an extended care facility)” after “means a facility”.
 
-    Subsec. (i). [Pub. L. 91–296, § 118][/us/pl/91/296/s118], inserted reference to equipment of any buildings in cases in which such equipment will help to provide a service not previously provided in the community.
+    Subsec. (i). [Pub. L. 91–296][/us/pl/91/296], § 118, inserted reference to equipment of any buildings in cases in which such equipment will help to provide a service not previously provided in the community.
 
     1964—Subsec. (c). [Pub. L. 88–581][/us/pl/88/581] substituted “nurses’ home facilities” for “nurses’ home and training facilities”.
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–296, title I, § 113][/us/pl/91/296/s113], June 30, 1970, [84 Stat. 340][/us/stat/84/340], provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
+    [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 113, June 30, 1970, [84 Stat. 340][/us/stat/84/340], provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
-    [Pub. L. 91–296, title I, § 114(a)][/us/pl/91/296/s114/a], June 30, 1970, [84 Stat. 341][/us/stat/84/341], provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
+    [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 114(a), June 30, 1970, [84 Stat. 341][/us/stat/84/341], provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
-[Pub. L. 91–296, title I, § 116(g)][/us/pl/91/296/s116/g], June 30, 1970, [84 Stat. 342][/us/stat/84/342], provided that: 
+[Pub. L. 91–296, title I][/us/pl/91/296/tI], § 116(g), June 30, 1970, [84 Stat. 342][/us/stat/84/342], provided that: 
 
 > “The amendments made by subsection (e) \[amending this section\] and paragraphs (2) and (3) of subsection (f) of this section \[amending [section 291e of this title][/us/usc/t42/s291e]\] shall apply with respect to applications approved under title VI of such Act \[[42 U.S.C. 291][/us/usc/t42/s291] et seq.\] after June 30, 1970.”
 
-    [Pub. L. 91–296, title I, § 117][/us/pl/91/296/s117], June 30, 1970, [84 Stat. 342][/us/stat/84/342], provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
+    [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 117, June 30, 1970, [84 Stat. 342][/us/stat/84/342], provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
-    [Pub. L. 91–296, title I, § 118][/us/pl/91/296/s118], June 30, 1970, [84 Stat. 342][/us/stat/84/342], provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
+    [Pub. L. 91–296, title I][/us/pl/91/296/tI], § 118, June 30, 1970, [84 Stat. 342][/us/stat/84/342], provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
     Amendment by [section 119(d) of Pub. L. 91–296][/us/pl/91/296/s119/d] applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of this subchapter made after June 30, 1970, see [section 119(e) of Pub. L. 91–296][/us/pl/91/296/s119/e], set out as a note under [section 291b of this title][/us/usc/t42/s291b].
 
@@ -139,55 +139,55 @@
 [/us/usc/t42/s291d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291d
 [/us/usc/t42/s291b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291b%2Fa%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F460
-[/us/pl/88/581/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs3%2Fb
+[/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
 [/us/stat/78/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F919
-[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F340
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1954-07-12/ch471/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F461
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1948-06-19/ch544/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch544%2Fs1%2Fb
+[/us/act/1948-06-19/ch544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch544
 [/us/stat/62/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F531
-[/us/act/1949-10-25/ch722/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722%2Fs9
+[/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F901
-[/us/act/1954-07-12/ch471/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs4%2Fc
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F465
-[/us/act/1956-08-01/ch852/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs19%2Fb
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F911
-[/us/pl/86/70/s31/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs31%2Fc
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F149
-[/us/pl/86/624/s29/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs29%2Fd
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F419
-[/us/pl/87/395/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs5
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
 [/us/stat/75/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F826
-[/us/pl/87/688/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs4%2Fa%2F2
+[/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
-[/us/pl/91/296/s119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs119%2Fd
-[/us/pl/91/296/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs113
-[/us/pl/91/296/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs114%2Fa
-[/us/pl/91/296/s116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs116%2Ff
-[/us/pl/91/296/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs117
-[/us/pl/91/296/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs118
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
 [/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
-[/us/pl/91/296/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs113
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F340
-[/us/pl/91/296/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs114%2Fa
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F341
-[/us/pl/91/296/s116/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs116%2Fg
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F342
 [/us/usc/t42/s291e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291e
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
-[/us/pl/91/296/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs117
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F342
-[/us/pl/91/296/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs118
+[/us/pl/91/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtI
 [/us/stat/84/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F342
 [/us/pl/91/296/s119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs119%2Fd
 [/us/pl/91/296/s119/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs119%2Fe

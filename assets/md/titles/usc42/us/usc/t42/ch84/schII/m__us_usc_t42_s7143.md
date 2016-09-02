@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch84/schII/m__us_usc_t42_s7142d.md) | [Next](./../../../../..//us/usc/t42/ch84/schII/m__us_usc_t42_s7144.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7143)
 
-## § 7143. Repealed. [Pub. L. 106–65, div. C, title XXXII, § 3294(d)(1)][/us/pl/106/65/s3294/d/1], Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]
+## § 7143. Repealed. [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3294(d)(1), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970]
 
-    Section, [Pub. L. 95–91, title II, § 212][/us/pl/95/91/s212], as added [Pub. L. 103–337, div. C, title XXXI, § 3158(a)][/us/pl/103/337/s3158/a], Oct. 5, 1994, [108 Stat. 3093][/us/stat/108/3093], established the Office of Fissile Materials Disposition.
+    Section, [Pub. L. 95–91, title II][/us/pl/95/91/tII], § 212, as added [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3158(a), Oct. 5, 1994, [108 Stat. 3093][/us/stat/108/3093], established the Office of Fissile Materials Disposition.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3294/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fd%2F1
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
-[/us/pl/95/91/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs212
-[/us/pl/103/337/s3158/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3158%2Fa
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3093
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401

@@ -113,11 +113,11 @@
 
         The Administrator may make grants to eligible Indian tribes from funds allocated under [section 5652(b) of this title][/us/usc/t42/s5652/b], to carry out projects of the kinds described in subsection (a) of this section.
 
-([Pub. L. 93–415, title II, § 241][/us/pl/93/415/s241], as added [Pub. L. 107–273, div. C, title II, § 12210(4)][/us/pl/107/273/s12210/4], Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 241, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12210(4), Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].)
 
  __Prior Provisions__ 
 
-    A prior section 5651, [Pub. L. 93–415, title II, § 241][/us/pl/93/415/s241], Sept. 7, 1974, [88 Stat. 1125][/us/stat/88/1125]; [Pub. L. 95–115][/us/pl/95/115], §§ 3(a)(3)(A), (5), 5(a), (f), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1049, 1056, 1057; [Pub. L. 96–509, § 19(j)][/us/pl/96/509/s19/j], Dec. 8, 1980, [94 Stat. 2765][/us/stat/94/2765]; [Pub. L. 98–473, title II, § 631][/us/pl/98/473/s631], Oct. 12, 1984, [98 Stat. 2118][/us/stat/98/2118]; [Pub. L. 100–690, title VII, § 7259][/us/pl/100/690/s7259], Nov. 18, 1988, [102 Stat. 4441][/us/stat/102/4441]; [Pub. L. 102–586, § 2(g)(1)][/us/pl/102/586/s2/g/1], Nov. 4, 1992, [106 Stat. 4994][/us/stat/106/4994], related to the National Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by [Pub. L. 107–273, div. C, title II, § 12210(1)][/us/pl/107/273/s12210/1], Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
+    A prior section 5651, [Pub. L. 93–415, title II][/us/pl/93/415/tII], § 241, Sept. 7, 1974, [88 Stat. 1125][/us/stat/88/1125]; [Pub. L. 95–115][/us/pl/95/115], §§ 3(a)(3)(A), (5), 5(a), (f), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1049, 1056, 1057; [Pub. L. 96–509][/us/pl/96/509], § 19(j), Dec. 8, 1980, [94 Stat. 2765][/us/stat/94/2765]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 631, Oct. 12, 1984, [98 Stat. 2118][/us/stat/98/2118]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7259, Nov. 18, 1988, [102 Stat. 4441][/us/stat/102/4441]; [Pub. L. 102–586][/us/pl/102/586], § 2(g)(1), Nov. 4, 1992, [106 Stat. 4994][/us/stat/106/4994], related to the National Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12210(1), Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
 
  __Effective Date__ 
 
@@ -132,22 +132,22 @@
 
 [/us/usc/t42/s5652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5652
 [/us/usc/t42/s5652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5652%2Fb
-[/us/pl/93/415/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs241
-[/us/pl/107/273/s12210/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12210%2F4
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1880
-[/us/pl/93/415/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs241
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1125
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1048
-[/us/pl/96/509/s19/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19%2Fj
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2765
-[/us/pl/98/473/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs631
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2118
-[/us/pl/100/690/s7259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7259
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4441
-[/us/pl/102/586/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fg%2F1
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/4994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4994
-[/us/pl/107/273/s12210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12210%2F1
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1880
 [/us/pl/107/273/s12223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12223
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

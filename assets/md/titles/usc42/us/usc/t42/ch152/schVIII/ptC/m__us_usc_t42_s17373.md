@@ -373,7 +373,7 @@
 
         This section shall take effect on December 19, 2007.
 
-([Pub. L. 110–140, title IX, § 934][/us/pl/110/140/s934], Dec. 19, 2007, [121 Stat. 1741][/us/stat/121/1741].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 934, Dec. 19, 2007, [121 Stat. 1741][/us/stat/121/1741].)
 
  __References in Text__ 
 
@@ -407,7 +407,7 @@
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/110/140/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs934
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1741
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

@@ -59,7 +59,7 @@
 
         The terms “major fuel burning stationary source (or class or category thereof)” and “locally or regionally available coal or coal derivatives” shall have the meanings assigned to them for the purposes of [section 7425 of this title][/us/usc/t42/s7425].
 
-([Pub. L. 94–163, title I, § 107][/us/pl/94/163/s107], as added [Pub. L. 95–619, title VI, § 661][/us/pl/95/619/s661], Nov. 9, 1978, [92 Stat. 3285][/us/stat/92/3285]; amended [Pub. L. 106–469, title VI, § 605(b)(2)][/us/pl/106/469/s605/b/2], Nov. 9, 2000, [114 Stat. 2043][/us/stat/114/2043].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 107, as added [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 661, Nov. 9, 1978, [92 Stat. 3285][/us/stat/92/3285]; amended [Pub. L. 106–469, title VI][/us/pl/106/469/tVI], § 605(b)(2), Nov. 9, 2000, [114 Stat. 2043][/us/stat/114/2043].)
 
  __Amendments__ 
 
@@ -79,10 +79,10 @@
 [/us/usc/t42/s7425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7425
 [/us/usc/t42/s7425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7425
 [/us/usc/t42/s7425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7425
-[/us/pl/94/163/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs107
-[/us/pl/95/619/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs661
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3285
-[/us/pl/106/469/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs605%2Fb%2F2
+[/us/pl/106/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtVI
 [/us/stat/114/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2043
 [/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 

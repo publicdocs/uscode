@@ -51,7 +51,7 @@
 
             (F) $100,000,000 for fiscal year 1998.
 
-([Pub. L. 102–486, title XX, § 2021][/us/pl/102/486/s2021], Oct. 24, 1992, [106 Stat. 3061][/us/stat/106/3061].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2021, Oct. 24, 1992, [106 Stat. 3061][/us/stat/106/3061].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t42/s13401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13401
 [/us/usc/t42/s13435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13435
 [/us/usc/t42/s13435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13435
-[/us/pl/102/486/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2021
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3061
 
 

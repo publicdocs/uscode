@@ -21,7 +21,7 @@
 
     (2) develop and disseminate to health professionals, patients and patient families, and the public information designed to encourage adults and children to adopt healthful practices concerning the prevention of such diseases.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 420, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 837][/us/stat/99/837]; amended [Pub. L. 100–607, title I, § 126][/us/pl/100/607/s126], Nov. 4, 1988, [102 Stat. 3055][/us/stat/102/3055].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 420, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 837][/us/stat/99/837]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 126, Nov. 4, 1988, [102 Stat. 3055][/us/stat/102/3055].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F837
-[/us/pl/100/607/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs126
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3055
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 

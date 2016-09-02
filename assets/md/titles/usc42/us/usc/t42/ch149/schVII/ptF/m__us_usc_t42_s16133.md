@@ -121,33 +121,33 @@
 
             (B) for other rebates, grants, and loans, a description of each application for which the grant, rebate, or loan is provided.
 
-([Pub. L. 109–58, title VII, § 793][/us/pl/109/58/s793], Aug. 8, 2005, [119 Stat. 841][/us/stat/119/841]; [Pub. L. 110–255, § 3(b)][/us/pl/110/255/s3/b], June 30, 2008, [122 Stat. 2424][/us/stat/122/2424]; [Pub. L. 111–364, § 2(c)][/us/pl/111/364/s2/c], Jan. 4, 2011, [124 Stat. 4059][/us/stat/124/4059].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 793, Aug. 8, 2005, [119 Stat. 841][/us/stat/119/841]; [Pub. L. 110–255][/us/pl/110/255], § 3(b), June 30, 2008, [122 Stat. 2424][/us/stat/122/2424]; [Pub. L. 111–364][/us/pl/111/364], § 2(c), Jan. 4, 2011, [124 Stat. 4059][/us/stat/124/4059].)
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–364, § 2(c)(1)][/us/pl/111/364/s2/c/1], inserted “, rebate,” after “grant” in section catchline.
+    2011—[Pub. L. 111–364][/us/pl/111/364], § 2(c)(1), inserted “, rebate,” after “grant” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–364, § 2(c)(2)][/us/pl/111/364/s2/c/2], inserted “, rebate,” after “grant”.
+    Subsec. (a). [Pub. L. 111–364][/us/pl/111/364], § 2(c)(2), inserted “, rebate,” after “grant”.
 
-    Subsec. (b)(1). [Pub. L. 111–364, § 2(c)(3)][/us/pl/111/364/s2/c/3], inserted “, rebate,” after “grant” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 111–364][/us/pl/111/364], § 2(c)(3), inserted “, rebate,” after “grant” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 111–364, § 2(c)(4)][/us/pl/111/364/s2/c/4], amended par. (2) generally. Prior to amendment, par. (2) related to allocation of funds.
+    Subsec. (c)(2). [Pub. L. 111–364][/us/pl/111/364], § 2(c)(4), amended par. (2) generally. Prior to amendment, par. (2) related to allocation of funds.
 
-    Subsec. (d)(1). [Pub. L. 111–364, § 2(c)(5)(A)][/us/pl/111/364/s2/c/5/A], inserted “, rebate,” after “grant”.
+    Subsec. (d)(1). [Pub. L. 111–364][/us/pl/111/364], § 2(c)(5)(A), inserted “, rebate,” after “grant”.
 
-    Subsec. (d)(2). [Pub. L. 111–364, § 2(c)(5)(B)][/us/pl/111/364/s2/c/5/B], inserted “, rebates,” after “grants”.
+    Subsec. (d)(2). [Pub. L. 111–364][/us/pl/111/364], § 2(c)(5)(B), inserted “, rebates,” after “grants”.
 
-    Subsec. (d)(3). [Pub. L. 111–364, § 2(c)(5)(C)][/us/pl/111/364/s2/c/5/C], substituted “grant, rebate, or loan provided under this section shall be used” for “grant or loan provided under this section may be used” in introductory provisions.
+    Subsec. (d)(3). [Pub. L. 111–364][/us/pl/111/364], § 2(c)(5)(C), substituted “grant, rebate, or loan provided under this section shall be used” for “grant or loan provided under this section may be used” in introductory provisions.
 
-    Subsec. (d)(4), (5). [Pub. L. 111–364, § 2(c)(5)(D)][/us/pl/111/364/s2/c/5/D], added pars. (4) and (5).
+    Subsec. (d)(4), (5). [Pub. L. 111–364][/us/pl/111/364], § 2(c)(5)(D), added pars. (4) and (5).
 
-    2008—Subsec. (c)(2)(A). [Pub. L. 110–255, § 3(b)(2)][/us/pl/110/255/s3/b/2], substituted “51” for “50” and “1.96 percent” for “2 percent”.
+    2008—Subsec. (c)(2)(A). [Pub. L. 110–255][/us/pl/110/255], § 3(b)(2), substituted “51” for “50” and “1.96 percent” for “2 percent”.
 
-    Subsec. (c)(2)(B). [Pub. L. 110–255, § 3(b)(2)][/us/pl/110/255/s3/b/2], substituted “51” for “50” in introductory provisions.
+    Subsec. (c)(2)(B). [Pub. L. 110–255][/us/pl/110/255], § 3(b)(2), substituted “51” for “50” in introductory provisions.
 
-    Subsec. (c)(2)(B)(ii). [Pub. L. 110–255, § 3(b)(2)][/us/pl/110/255/s3/b/2], which directed substitution of “1.96 percent” for “2 percent”, was executed by making the substitution for “2-percent”, to reflect the probable intent of Congress.
+    Subsec. (c)(2)(B)(ii). [Pub. L. 110–255][/us/pl/110/255], § 3(b)(2), which directed substitution of “1.96 percent” for “2 percent”, was executed by making the substitution for “2-percent”, to reflect the probable intent of Congress.
 
-    Subsec. (d)(2). [Pub. L. 110–255, § 3(b)(1)][/us/pl/110/255/s3/b/1], substituted “chief executive” for “Governor”.
+    Subsec. (d)(2). [Pub. L. 110–255][/us/pl/110/255], § 3(b)(1), substituted “chief executive” for “Governor”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -163,24 +163,24 @@
 [/us/usc/t42/s16132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16132
 [/us/usc/t42/s16132/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16132%2Fc%2F3
 [/us/usc/t42/s16132/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16132%2Fc%2F4
-[/us/pl/109/58/s793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs793
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F841
-[/us/pl/110/255/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs3%2Fb
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
 [/us/stat/122/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2424
-[/us/pl/111/364/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/stat/124/4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4059
-[/us/pl/111/364/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F1
-[/us/pl/111/364/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F2
-[/us/pl/111/364/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F3
-[/us/pl/111/364/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F4
-[/us/pl/111/364/s2/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F5%2FA
-[/us/pl/111/364/s2/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F5%2FB
-[/us/pl/111/364/s2/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F5%2FC
-[/us/pl/111/364/s2/c/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F5%2FD
-[/us/pl/110/255/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs3%2Fb%2F2
-[/us/pl/110/255/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs3%2Fb%2F2
-[/us/pl/110/255/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs3%2Fb%2F2
-[/us/pl/110/255/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs3%2Fb%2F1
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
 [/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/pl/111/364/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fc%2F4
 [/us/pl/111/364/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs4

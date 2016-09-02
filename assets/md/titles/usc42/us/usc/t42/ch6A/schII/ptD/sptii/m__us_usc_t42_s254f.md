@@ -105,7 +105,7 @@
 
         Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 333, as added [Pub. L. 94–484, title IV, § 407(b)(3)][/us/pl/94/484/s407/b/3], Oct. 12, 1976, [90 Stat. 2272][/us/stat/90/2272]; amended [Pub. L. 97–35, title XXVII, § 2703][/us/pl/97/35/s2703], Aug. 13, 1981, [95 Stat. 904][/us/stat/95/904]; [Pub. L. 100–177, title III][/us/pl/100/177], §§ 303, 304, Dec. 1, 1987, [101 Stat. 1004][/us/stat/101/1004]; [Pub. L. 100–607, title VI, § 629(a)(2)][/us/pl/100/607/s629/a/2], Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146]; [Pub. L. 101–597, title I, § 103][/us/pl/101/597/s103], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3015][/us/stat/104/3015], 3035; [Pub. L. 107–251, title III, § 303][/us/pl/107/251/s303], Oct. 26, 2002, [116 Stat. 1645][/us/stat/116/1645]; [Pub. L. 108–163, § 2(g)][/us/pl/108/163/s2/g], Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022]; [Pub. L. 110–355, § 3(c)][/us/pl/110/355/s3/c], Oct. 8, 2008, [122 Stat. 3993][/us/stat/122/3993].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 333, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(3), Oct. 12, 1976, [90 Stat. 2272][/us/stat/90/2272]; amended [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2703, Aug. 13, 1981, [95 Stat. 904][/us/stat/95/904]; [Pub. L. 100–177, title III][/us/pl/100/177/tIII], §§ 303, 304, Dec. 1, 1987, [101 Stat. 1004][/us/stat/101/1004]; [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 629(a)(2), Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146]; [Pub. L. 101–597, title I][/us/pl/101/597/tI], § 103, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3015][/us/stat/104/3015], 3035; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 303, Oct. 26, 2002, [116 Stat. 1645][/us/stat/116/1645]; [Pub. L. 108–163][/us/pl/108/163], § 2(g), Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022]; [Pub. L. 110–355][/us/pl/110/355], § 3(c), Oct. 8, 2008, [122 Stat. 3993][/us/stat/122/3993].)
 
  __Amendments__ 
 
@@ -113,63 +113,63 @@
 
     2003—Subsec. (a)(1)(C). [Pub. L. 108–163][/us/pl/108/163] realigned margin.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–251, § 303(1)(A)(i)][/us/pl/107/251/s303/1/A/i], struck out “(specified in the agreement described in [section 254g of this title][/us/usc/t42/s254g])” after “assignment period” in introductory provisions.
+    2002—Subsec. (a)(1). [Pub. L. 107–251][/us/pl/107/251], § 303(1)(A)(i), struck out “(specified in the agreement described in [section 254g of this title][/us/usc/t42/s254g])” after “assignment period” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 107–251, § 303(1)(A)(ii)][/us/pl/107/251/s303/1/A/ii], struck out “nonprofit” before “private entity”.
+    Subsec. (a)(1)(A). [Pub. L. 107–251][/us/pl/107/251], § 303(1)(A)(ii), struck out “nonprofit” before “private entity”.
 
-    Subsec. (a)(1)(C). [Pub. L. 107–251, § 303(1)(A)(iii)][/us/pl/107/251/s303/1/A/iii], added subpar. (C) and struck out former subpar. (C) which read as follows: “an agreement has been entered into between the entity which has applied and the Secretary, in accordance with [section 254g of this title][/us/usc/t42/s254g]; and”.
+    Subsec. (a)(1)(C). [Pub. L. 107–251][/us/pl/107/251], § 303(1)(A)(iii), added subpar. (C) and struck out former subpar. (C) which read as follows: “an agreement has been entered into between the entity which has applied and the Secretary, in accordance with [section 254g of this title][/us/usc/t42/s254g]; and”.
 
-    Subsec. (a)(3). [Pub. L. 107–251, § 303(1)(B)][/us/pl/107/251/s303/1/B], inserted at end “In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned.”
+    Subsec. (a)(3). [Pub. L. 107–251][/us/pl/107/251], § 303(1)(B), inserted at end “In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned.”
 
-    Subsec. (d)(1). [Pub. L. 107–251, § 303(2)][/us/pl/107/251/s303/2], struck out “nonprofit” before “private entity” in first sentence, added cl. (E), and inserted at end “The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.”
+    Subsec. (d)(1). [Pub. L. 107–251][/us/pl/107/251], § 303(2), struck out “nonprofit” before “private entity” in first sentence, added cl. (E), and inserted at end “The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.”
 
-    Subsec. (d)(2). [Pub. L. 107–251, § 303(2)(A)][/us/pl/107/251/s303/2/A], struck out “nonprofit” before “private entities”.
+    Subsec. (d)(2). [Pub. L. 107–251][/us/pl/107/251], § 303(2)(A), struck out “nonprofit” before “private entities”.
 
-    Subsec. (d)(4). [Pub. L. 107–251, § 303(2)(A)][/us/pl/107/251/s303/2/A], struck out “nonprofit” before “private entities” in introductory provisions of subpar. (A) and before “private entity” in introductory provisions of subpar. (B).
+    Subsec. (d)(4). [Pub. L. 107–251][/us/pl/107/251], § 303(2)(A), struck out “nonprofit” before “private entities” in introductory provisions of subpar. (A) and before “private entity” in introductory provisions of subpar. (B).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory and closing provisions.
+    1990—Subsec. (a)(1). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory and closing provisions.
 
-    Subsec. (a)(1)(D)(ii)(II). [Pub. L. 101–597, § 103(a)][/us/pl/101/597/s103/a], substituted “has been” and “any Corps” for “will be” and “Corps”, respectively.
+    Subsec. (a)(1)(D)(ii)(II). [Pub. L. 101–597][/us/pl/101/597], § 103(a), substituted “has been” and “any Corps” for “will be” and “Corps”, respectively.
 
-    Subsec. (b). [Pub. L. 101–597, § 103(b)][/us/pl/101/597/s103/b], redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to approval of application for assignment of Corps personnel subject to review and comment on application by health service agencies in designated area.
+    Subsec. (b). [Pub. L. 101–597][/us/pl/101/597], § 103(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to approval of application for assignment of Corps personnel subject to review and comment on application by health service agencies in designated area.
 
-    Subsec. (c). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    Subsec. (c). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    [Pub. L. 101–597, § 103(b)][/us/pl/101/597/s103/b], redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to applications, consideration and approval by Secretary, priorities, cooperation with Corps members, and comments by health professionals and societies in designated areas.
+    [Pub. L. 101–597][/us/pl/101/597], § 103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to applications, consideration and approval by Secretary, priorities, cooperation with Corps members, and comments by health professionals and societies in designated areas.
 
-    Subsec. (d). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in pars. (1) to (4)(A)(i).
+    Subsec. (d). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in pars. (1) to (4)(A)(i).
 
-    [Pub. L. 101–597, § 103(b)(2)][/us/pl/101/597/s103/b/2], redesignated subsec. (g) as (d). Former subsec. (d) redesignated (b).
+    [Pub. L. 101–597][/us/pl/101/597], § 103(b)(2), redesignated subsec. (g) as (d). Former subsec. (d) redesignated (b).
 
-    Subsec. (e). [Pub. L. 101–597, § 103(b)(2)][/us/pl/101/597/s103/b/2], redesignated subsec. (i) as (e). Former subsec. (e) redesignated (c).
+    Subsec. (e). [Pub. L. 101–597][/us/pl/101/597], § 103(b)(2), redesignated subsec. (i) as (e). Former subsec. (e) redesignated (c).
 
-    Subsec. (f). [Pub. L. 101–597, § 103(b)(1)][/us/pl/101/597/s103/b/1], struck out subsec. (f) which provided for selection of Corps members for assignment upon basis of characteristics.
+    Subsec. (f). [Pub. L. 101–597][/us/pl/101/597], § 103(b)(1), struck out subsec. (f) which provided for selection of Corps members for assignment upon basis of characteristics.
 
-    Subsec. (g). [Pub. L. 101–597, § 103(b)(2)][/us/pl/101/597/s103/b/2], redesignated subsec. (g) as (d).
+    Subsec. (g). [Pub. L. 101–597][/us/pl/101/597], § 103(b)(2), redesignated subsec. (g) as (d).
 
-    Subsec. (h). [Pub. L. 101–597, § 103(b)(1)][/us/pl/101/597/s103/b/1], struck out subsec. (h) which related to study and contracts for study of methods of assignments of Corps members.
+    Subsec. (h). [Pub. L. 101–597][/us/pl/101/597], § 103(b)(1), struck out subsec. (h) which related to study and contracts for study of methods of assignments of Corps members.
 
-    Subsec. (i). [Pub. L. 101–597, § 103(b)(2)][/us/pl/101/597/s103/b/2], redesignated subsec. (i) as (e).
+    Subsec. (i). [Pub. L. 101–597][/us/pl/101/597], § 103(b)(2), redesignated subsec. (i) as (e).
 
-    Subsecs. (j), (k). [Pub. L. 101–597, § 103(b)(1)][/us/pl/101/597/s103/b/1], struck out subsecs. (j) and (k) which provided for placement of physicians in medically underserved areas and assignment of family physicians, respectively.
+    Subsecs. (j), (k). [Pub. L. 101–597][/us/pl/101/597], § 103(b)(1), struck out subsecs. (j) and (k) which provided for placement of physicians in medically underserved areas and assignment of family physicians, respectively.
 
     1988—Subsec. (i). [Pub. L. 100–607][/us/pl/100/607] substituted “osteopathic medicine” for “osteopathy”.
 
-    1987—Subsec. (j). [Pub. L. 100–177, § 303][/us/pl/100/177/s303], added subsec. (j).
+    1987—Subsec. (j). [Pub. L. 100–177][/us/pl/100/177], § 303, added subsec. (j).
 
-    Subsec. (k). [Pub. L. 100–177, § 304][/us/pl/100/177/s304], added subsec. (k).
+    Subsec. (k). [Pub. L. 100–177][/us/pl/100/177], § 304, added subsec. (k).
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 2703(a)][/us/pl/97/35/s2703/a], (b), amended par. (1)(D) generally and, among changes, made numerous changes in nomenclature, inserted at end of par. (1) provisions respecting application, and added par. (3).
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 2703(a), (b), amended par. (1)(D) generally and, among changes, made numerous changes in nomenclature, inserted at end of par. (1) provisions respecting application, and added par. (3).
 
-    Subsec. (c). [Pub. L. 97–35, § 2703(c)][/us/pl/97/35/s2703/c], struck out par. (2) which related to special considerations, and redesignated pars. (3) and (4) as (2) and (3), respectively.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 2703(c), struck out par. (2) which related to special considerations, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-    Subsecs. (d) to (f). [Pub. L. 97–35, § 2703(d)][/us/pl/97/35/s2703/d], added subsec. (d) and redesignated former subsecs. (d), (e), and (f) as (e), (f), and (g), respectively.
+    Subsecs. (d) to (f). [Pub. L. 97–35][/us/pl/97/35], § 2703(d), added subsec. (d) and redesignated former subsecs. (d), (e), and (f) as (e), (f), and (g), respectively.
 
-    Subsec. (g). [Pub. L. 97–35, § 2703(d)][/us/pl/97/35/s2703/d], (e), redesignated former subsec. (f) as (g) and substituted “may” for “shall” in pars. (1) to (3), inserted provisions respecting health professions personnel in par. (1), added par. (4), and struck out requirement respecting demonstrated interest in pars. (1) and (2). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 97–35][/us/pl/97/35], § 2703(d), (e), redesignated former subsec. (f) as (g) and substituted “may” for “shall” in pars. (1) to (3), inserted provisions respecting health professions personnel in par. (1), added par. (4), and struck out requirement respecting demonstrated interest in pars. (1) and (2). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 97–35, § 2703(d)][/us/pl/97/35/s2703/d], (f), redesignated former subsec. (g) as (h) and directed that “may” be substituted for “shall” which was executed by substituting “may” for “shall” in two places preceding par. (1). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 97–35][/us/pl/97/35], § 2703(d), (f), redesignated former subsec. (g) as (h) and directed that “may” be substituted for “shall” which was executed by substituting “may” for “shall” in two places preceding par. (1). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 97–35, § 2703(d)][/us/pl/97/35/s2703/d], (g), redesignated former subsec. (h) as (i) and inserted reference to other health profession.
+    Subsec. (i). [Pub. L. 97–35][/us/pl/97/35], § 2703(d), (g), redesignated former subsec. (h) as (i) and inserted reference to other health profession.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -177,7 +177,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-    [Pub. L. 97–35, title XXVII, § 2703(d)][/us/pl/97/35/s2703/d], Aug. 13, 1981, [95 Stat. 905][/us/stat/95/905], provided that the amendment made by that section is effective Oct. 1, 1981.
+    [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2703(d), Aug. 13, 1981, [95 Stat. 905][/us/stat/95/905], provided that the amendment made by that section is effective Oct. 1, 1981.
 
 ----------
 
@@ -193,60 +193,60 @@
 [/us/usc/t42/s254d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254d%2Fa%2F1
 [/us/usc/t42/s254d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254d%2Fa%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F3
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2272
-[/us/pl/97/35/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F904
-[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtIII
 [/us/stat/101/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1004
-[/us/pl/100/607/s629/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs629%2Fa%2F2
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3146
-[/us/pl/101/597/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103
+[/us/pl/101/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtI
 [/us/stat/104/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3015
-[/us/pl/107/251/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1645
-[/us/pl/108/163/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fg
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2022
-[/us/pl/110/355/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355%2Fs3%2Fc
+[/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/stat/122/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3993
 [/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
-[/us/pl/107/251/s303/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303%2F1%2FA%2Fi
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s254g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254g
-[/us/pl/107/251/s303/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303%2F1%2FA%2Fii
-[/us/pl/107/251/s303/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303%2F1%2FA%2Fiii
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s254g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254g
-[/us/pl/107/251/s303/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303%2F1%2FB
-[/us/pl/107/251/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303%2F2
-[/us/pl/107/251/s303/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303%2F2%2FA
-[/us/pl/107/251/s303/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs303%2F2%2FA
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fa
-[/us/pl/101/597/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb%2F2
-[/us/pl/101/597/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb%2F2
-[/us/pl/101/597/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb%2F1
-[/us/pl/101/597/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb%2F2
-[/us/pl/101/597/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb%2F1
-[/us/pl/101/597/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb%2F2
-[/us/pl/101/597/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs103%2Fb%2F1
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/100/177/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs303
-[/us/pl/100/177/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs304
-[/us/pl/97/35/s2703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703%2Fa
-[/us/pl/97/35/s2703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703%2Fc
-[/us/pl/97/35/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703%2Fd
-[/us/pl/97/35/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703%2Fd
-[/us/pl/97/35/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703%2Fd
-[/us/pl/97/35/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703%2Fd
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3
 [/us/usc/t42/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233
-[/us/pl/97/35/s2703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2703%2Fd
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F905
 
 

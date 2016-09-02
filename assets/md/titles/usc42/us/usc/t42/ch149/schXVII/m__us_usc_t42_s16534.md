@@ -121,7 +121,7 @@
 
         There is authorized to be appropriated to the Secretary, acting through the Director, to carry out this section $25,000,000 for each of fiscal years 2008 through 2013.
 
-([Pub. L. 110–69, title V, § 5006][/us/pl/110/69/s5006], Aug. 9, 2007, [121 Stat. 615][/us/stat/121/615]; [Pub. L. 111–358, title IX, § 902(c)][/us/pl/111/358/s902/c], Jan. 4, 2011, [124 Stat. 4045][/us/stat/124/4045].)
+([Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5006, Aug. 9, 2007, [121 Stat. 615][/us/stat/121/615]; [Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 902(c), Jan. 4, 2011, [124 Stat. 4045][/us/stat/124/4045].)
 
  __Amendments__ 
 
@@ -140,9 +140,9 @@
 
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
 [/us/usc/t20/s1067k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067k
-[/us/pl/110/69/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5006
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F615
-[/us/pl/111/358/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs902%2Fc
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4045
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 

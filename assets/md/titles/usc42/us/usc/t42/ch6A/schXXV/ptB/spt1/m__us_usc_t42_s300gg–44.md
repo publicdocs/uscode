@@ -119,7 +119,7 @@
 
             (B) is a mechanism under which each eligible individual is provided a choice of all individual health insurance coverage otherwise available.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2744, as added [Pub. L. 104–191, title I, § 111(a)][/us/pl/104/191/s111/a], Aug. 21, 1996, [110 Stat. 1984][/us/stat/110/1984]; amended [Pub. L. 104–204, title VI, § 605(b)(1)][/us/pl/104/204/s605/b/1], Sept. 26, 1996, [110 Stat. 2942][/us/stat/110/2942].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2744, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 111(a), Aug. 21, 1996, [110 Stat. 1984][/us/stat/110/1984]; amended [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 605(b)(1), Sept. 26, 1996, [110 Stat. 2942][/us/stat/110/2942].)
 
  __Codification__ 
 
@@ -131,7 +131,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–204, title VI, § 605(c)][/us/pl/104/204/s605/c], Sept. 26, 1996, [110 Stat. 2942][/us/stat/110/2942], provided that: 
+[Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 605(c), Sept. 26, 1996, [110 Stat. 2942][/us/stat/110/2942], provided that: 
 
 > “The amendments made by this section \[enacting [section 300gg–51 of this title][/us/usc/t42/s300gg–51] and amending this section and sections 300gg–61 and 300gg–62 of this title\] shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after January 1, 1998.”
 
@@ -150,14 +150,14 @@
 [/us/usc/t42/s300gg–62/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9362%2Fb
 [/us/usc/t42/s300gg–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9341
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs111%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1984
-[/us/pl/104/204/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs605%2Fb%2F1
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2942
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t42/s300gg–62/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9362%2Fb
-[/us/pl/104/204/s605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs605%2Fc
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2942
 [/us/usc/t42/s300gg–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9351
 [/us/pl/104/191/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs111%2Fb

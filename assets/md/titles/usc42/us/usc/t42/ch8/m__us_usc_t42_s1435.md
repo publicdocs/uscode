@@ -17,7 +17,7 @@
 
     Every contract for loans or annual contributions under this chapter shall provide that the Secretary of Housing and Urban Development and the Comptroller General of the United States, or any of their duly authorized representatives, shall, for the purpose of audit and examination, have access to any books, documents, papers, and records of the public housing agency entering into such contract that are pertinent to its operations with respect to financial assistance under this chapter.
 
-([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 816, [68 Stat. 647][/us/stat/68/647]; [Pub. L. 90–19, § 10(i)][/us/pl/90/19/s10/i], May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
+([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 816, [68 Stat. 647][/us/stat/68/647]; [Pub. L. 90–19][/us/pl/90/19], § 10(i), May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F647
-[/us/pl/90/19/s10/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs10%2Fi
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F23
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 

@@ -41,7 +41,7 @@
 
         The Secretary shall study and report to Congress, not later than two years after November 14, 1986, on whether information respecting small payments should continue to be required to be reported under subsection (a) of this section and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.
 
-([Pub. L. 99–660, title IV, § 421][/us/pl/99/660/s421], Nov. 14, 1986, [100 Stat. 3788][/us/stat/100/3788].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 421, Nov. 14, 1986, [100 Stat. 3788][/us/stat/100/3788].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t42/s11134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
-[/us/pl/99/660/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs421
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3788
 
 

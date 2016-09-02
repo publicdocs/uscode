@@ -39,7 +39,7 @@
 
         Not later than 12 months after August 8, 2005, and every 4 years thereafter, the Secretary shall transmit to Congress the results of the review under subsection (a) and the coordination plan under subsection (b).
 
-([Pub. L. 109–58, title IX, § 994][/us/pl/109/58/s994], Aug. 8, 2005, [119 Stat. 914][/us/stat/119/914].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 994, Aug. 8, 2005, [119 Stat. 914][/us/stat/119/914].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs994
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F914
 
 

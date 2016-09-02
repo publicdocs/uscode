@@ -17,7 +17,7 @@
 
     In this subchapter, the term “Commission” means the Federal Energy Regulatory Commission.
 
-([Pub. L. 109–58, title XII, § 1291(a)][/us/pl/109/58/s1291/a], Aug. 8, 2005, [119 Stat. 984][/us/stat/119/984].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1291(a), Aug. 8, 2005, [119 Stat. 984][/us/stat/119/984].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1291/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1291%2Fa
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F984
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F941

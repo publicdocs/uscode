@@ -81,7 +81,7 @@
 
             If amounts are not appropriated for a fiscal year to carry out [section 300y of this title][/us/usc/t42/s300y] with respect to mental health, then the Secretary shall make available, from the amounts appropriated for such fiscal year under paragraph (1), an amount equal to the sum of $6,000,000 and 10 percent of all amounts appropriated for such fiscal year under such paragraph in excess of $100,000,000, to carry out such [section 300y of this title][/us/usc/t42/s300y].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520A, as added [Pub. L. 100–690, title II, § 2057(3)][/us/pl/100/690/s2057/3], Nov. 18, 1988, [102 Stat. 4212][/us/stat/102/4212]; renumbered § 520 and amended [Pub. L. 101–93, § 3(e)][/us/pl/101/93/s3/e], (g), Aug. 16, 1989, [103 Stat. 610][/us/stat/103/610], 611; [Pub. L. 101–639, § 2][/us/pl/101/639/s2], Nov. 28, 1990, [104 Stat. 4600][/us/stat/104/4600]; renumbered § 520A and amended [Pub. L. 102–321, title I, § 116][/us/pl/102/321/s116], July 10, 1992, [106 Stat. 348][/us/stat/106/348]; [Pub. L. 106–310, div. B, title XXXII, § 3201(a)][/us/pl/106/310/s3201/a], Oct. 17, 2000, [114 Stat. 1189][/us/stat/114/1189].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520A, as added [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2057(3), Nov. 18, 1988, [102 Stat. 4212][/us/stat/102/4212]; renumbered § 520 and amended [Pub. L. 101–93][/us/pl/101/93], § 3(e), (g), Aug. 16, 1989, [103 Stat. 610][/us/stat/103/610], 611; [Pub. L. 101–639][/us/pl/101/639], § 2, Nov. 28, 1990, [104 Stat. 4600][/us/stat/104/4600]; renumbered § 520A and amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 116, July 10, 1992, [106 Stat. 348][/us/stat/106/348]; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3201(a), Oct. 17, 2000, [114 Stat. 1189][/us/stat/114/1189].)
 
  __Codification__ 
 
@@ -91,13 +91,13 @@
 
     2000—[Pub. L. 106–310][/us/pl/106/310] amended section catchline and text generally, substituting provisions relating to priority mental health needs of regional and national significance for provisions relating to establishment of grant programs for demonstration projects.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–321, § 116(b)(1)][/us/pl/102/321/s116/b/1], substituted “Center for Mental Health Services” for “National Institute of Mental Health”.
+    1992—Subsec. (a)(1). [Pub. L. 102–321][/us/pl/102/321], § 116(b)(1), substituted “Center for Mental Health Services” for “National Institute of Mental Health”.
 
-    Subsec. (c). [Pub. L. 102–321, § 116(b)(2)][/us/pl/102/321/s116/b/2], substituted “five” for “three”.
+    Subsec. (c). [Pub. L. 102–321][/us/pl/102/321], § 116(b)(2), substituted “five” for “three”.
 
-    Subsec. (e)(1). [Pub. L. 102–321, § 116(b)(3)][/us/pl/102/321/s116/b/3], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
+    Subsec. (e)(1). [Pub. L. 102–321][/us/pl/102/321], § 116(b)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
 
-    1990—Subsec. (a). [Pub. L. 101–639, § 2(a)][/us/pl/101/639/s2/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, acting through the Director, may make grants to States, political subdivisions of States, and nonprofit private agencies—
+    1990—Subsec. (a). [Pub. L. 101–639][/us/pl/101/639], § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, acting through the Director, may make grants to States, political subdivisions of States, and nonprofit private agencies—
 
     “(1) for mental health services demonstration projects for the planning, coordination, and improvement of community services (including outreach and self-help services) for seriously mentally ill individuals, seriously emotionally disturbed children and youth, elderly individuals, and homeless seriously mentally ill individuals, and for the conduct of research concerning such services;
 
@@ -107,7 +107,7 @@
 
     “(4) for demonstration projects for treatment and prevention relating to sex offenses.”
 
-    Subsec. (e)(1). [Pub. L. 101–639, § 2(b)][/us/pl/101/639/s2/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $60,000,000 for each of the fiscal years 1989 and 1990.”
+    Subsec. (e)(1). [Pub. L. 101–639][/us/pl/101/639], § 2(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $60,000,000 for each of the fiscal years 1989 and 1990.”
 
     1989—[Pub. L. 101–93][/us/pl/101/93] substituted “programs” for “program” in section catchline and in subsec. (a) substituted “seriously mentally ill” for “chronically mentally ill” wherever appearing, redesignated par. (5) as (4), and inserted “for” before “demonstration” in pars. (2), (3), and (4).
 
@@ -117,7 +117,7 @@
 
  __Community Mental Health Services Demonstration Projects for Homeless Individuals Who Are Chronically Mentally Ill__ 
 
-    [Pub. L. 100–77, title VI, § 612][/us/pl/100/77/s612], July 22, 1987, [101 Stat. 523][/us/stat/101/523], as amended by [Pub. L. 100–607, title VIII, § 821][/us/pl/100/607/s821], Nov. 4, 1988, [102 Stat. 3171][/us/stat/102/3171]; [Pub. L. 100–628, title VI, § 621][/us/pl/100/628/s621], Nov. 7, 1988, [102 Stat. 3244][/us/stat/102/3244]; [Pub. L. 101–93, § 5(t)(1)][/us/pl/101/93/s5/t/1], (2), Aug. 16, 1989, [103 Stat. 615][/us/stat/103/615]; [Pub. L. 101–645, title V, § 521][/us/pl/101/645/s521], Nov. 29, 1990, [104 Stat. 4734][/us/stat/104/4734], which authorized to be appropriated for payments under this section such sums as may be necessary for each of the fiscal years 1991 through 1993, in addition to any other amounts authorized to be appropriated for such payments for each of such fiscal years with such additional amounts to be available only for the provision of community-based mental health services to homeless individuals who are chronically mentally ill, and amounts paid to grantees under subsection (a) of this section that remain unobligated at the end of the fiscal year in which the amounts were received to remain available to grantees during the succeeding fiscal year for the purposes for which the payments were made, was repealed by [Pub. L. 106–310, div. B, title XXXII, § 3201(b)(3)][/us/pl/106/310/s3201/b/3], Oct. 17, 2000, [114 Stat. 1190][/us/stat/114/1190].
+    [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 612, July 22, 1987, [101 Stat. 523][/us/stat/101/523], as amended by [Pub. L. 100–607, title VIII][/us/pl/100/607/tVIII], § 821, Nov. 4, 1988, [102 Stat. 3171][/us/stat/102/3171]; [Pub. L. 100–628, title VI][/us/pl/100/628/tVI], § 621, Nov. 7, 1988, [102 Stat. 3244][/us/stat/102/3244]; [Pub. L. 101–93][/us/pl/101/93], § 5(t)(1), (2), Aug. 16, 1989, [103 Stat. 615][/us/stat/103/615]; [Pub. L. 101–645, title V][/us/pl/101/645/tV], § 521, Nov. 29, 1990, [104 Stat. 4734][/us/stat/104/4734], which authorized to be appropriated for payments under this section such sums as may be necessary for each of the fiscal years 1991 through 1993, in addition to any other amounts authorized to be appropriated for such payments for each of such fiscal years with such additional amounts to be available only for the provision of community-based mental health services to homeless individuals who are chronically mentally ill, and amounts paid to grantees under subsection (a) of this section that remain unobligated at the end of the fiscal year in which the amounts were received to remain available to grantees during the succeeding fiscal year for the purposes for which the payments were made, was repealed by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3201(b)(3), Oct. 17, 2000, [114 Stat. 1190][/us/stat/114/1190].
 
 ----------
 
@@ -129,39 +129,39 @@
 [/us/usc/t42/s300y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y
 [/us/usc/t42/s300y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/690/s2057/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2057%2F3
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4212
-[/us/pl/101/93/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs3%2Fe
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F610
-[/us/pl/101/639/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639%2Fs2
+[/us/pl/101/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639
 [/us/stat/104/4600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4600
-[/us/pl/102/321/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs116
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F348
-[/us/pl/106/310/s3201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3201%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1189
 [/us/usc/t42/s290cc–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9313
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/102/321/s116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs116%2Fb%2F1
-[/us/pl/102/321/s116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs116%2Fb%2F2
-[/us/pl/102/321/s116/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs116%2Fb%2F3
-[/us/pl/101/639/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639%2Fs2%2Fa
-[/us/pl/101/639/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639%2Fs2%2Fb
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/101/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639
+[/us/pl/101/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F639
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
-[/us/pl/100/77/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs612
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F523
-[/us/pl/100/607/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs821
+[/us/pl/100/607/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVIII
 [/us/stat/102/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3171
-[/us/pl/100/628/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs621
+[/us/pl/100/628/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVI
 [/us/stat/102/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3244
-[/us/pl/101/93/s5/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Ft%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F615
-[/us/pl/101/645/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs521
+[/us/pl/101/645/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtV
 [/us/stat/104/4734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4734
-[/us/pl/106/310/s3201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3201%2Fb%2F3
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1190
 
 

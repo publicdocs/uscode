@@ -197,13 +197,13 @@
 
             For purposes of this subsection, with respect to a family, the term “eligibility” means the eligibility of each family member.
 
-([Pub. L. 96–399, title II, § 214][/us/pl/96/399/s214], Oct. 8, 1980, [94 Stat. 1637][/us/stat/94/1637]; [Pub. L. 97–35, title III, § 329(a)][/us/pl/97/35/s329/a], Aug. 13, 1981, [95 Stat. 408][/us/stat/95/408]; [Pub. L. 99–603, title I, § 121(a)(2)][/us/pl/99/603/s121/a/2], Nov. 6, 1986, [100 Stat. 3386][/us/stat/100/3386]; [Pub. L. 100–242, title I, § 164(a)][/us/pl/100/242/s164/a]–(f)(1), Feb. 5, 1988, [101 Stat. 1860–1863][/us/stat/101/1860-1863]; [Pub. L. 104–193, title IV, § 441(a)][/us/pl/104/193/s441/a], Aug. 22, 1996, [110 Stat. 2276][/us/stat/110/2276]; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(ii)][/us/pl/104/208/s308/g/7/D/ii], title V, §§ 572–576, Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624], 3009–684, 3009–685, 3009–687; [Pub. L. 105–276, title V, § 592(a)][/us/pl/105/276/s592/a], Oct. 21, 1998, [112 Stat. 2653][/us/stat/112/2653]; [Pub. L. 106–504, § 3(b)][/us/pl/106/504/s3/b], Nov. 13, 2000, [114 Stat. 2312][/us/stat/114/2312].)
+([Pub. L. 96–399, title II][/us/pl/96/399/tII], § 214, Oct. 8, 1980, [94 Stat. 1637][/us/stat/94/1637]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 329(a), Aug. 13, 1981, [95 Stat. 408][/us/stat/95/408]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(a)(2), Nov. 6, 1986, [100 Stat. 3386][/us/stat/100/3386]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 164(a)–(f)(1), Feb. 5, 1988, [101 Stat. 1860–1863][/us/stat/101/1860-1863]; [Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 441(a), Aug. 22, 1996, [110 Stat. 2276][/us/stat/110/2276]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(7)(D)(ii), title V, §§ 572–576, Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624], 3009–684, 3009–685, 3009–687; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 592(a), Oct. 21, 1998, [112 Stat. 2653][/us/stat/112/2653]; [Pub. L. 106–504][/us/pl/106/504], § 3(b), Nov. 13, 2000, [114 Stat. 2312][/us/stat/114/2312].)
 
  __References in Text__ 
 
     This Act, referred to in subsec. (a)(7), is [Pub. L. 96–399][/us/pl/96/399], Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], as amended, known as the Housing and Community Development Act of 1980. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 5301 of this title][/us/usc/t42/s5301] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsec. (b), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to this chapter (§ 1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (b), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to this chapter (§ 1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
     The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (b)(1) and (h)(1), is [Pub. L. 101–625][/us/pl/101/625], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079], as amended. Subtitle A of title III of the Act, known as the National Homeownership Trust Act, is classified generally to subchapter III (§ 12851 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title][/us/usc/t42/s12701] and Tables.
 
@@ -219,71 +219,71 @@
 
     2000—Subsec. (a)(7). [Pub. L. 106–504][/us/pl/106/504] added par. (7).
 
-    1998—Subsec. (b)(2). [Pub. L. 105–276, § 592(a)(1)][/us/pl/105/276/s592/a/1], substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
+    1998—Subsec. (b)(2). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
 
-    Subsec. (c)(1)(B). [Pub. L. 105–276, § 592(a)(2)][/us/pl/105/276/s592/a/2], aligned cls. (ii) and (iii) with cl. (i).
+    Subsec. (c)(1)(B). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(2), aligned cls. (ii) and (iii) with cl. (i).
 
-    Subsec. (d)(1)(A). [Pub. L. 105–276, § 592(a)(3)(A)][/us/pl/105/276/s592/a/3/A], in last sentence, substituted “applicable Secretary, or” for “Secretary of Housing and Urban Development, or” and “applicable Secretary considers” for “Secretary considers”.
+    Subsec. (d)(1)(A). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(3)(A), in last sentence, substituted “applicable Secretary, or” for “Secretary of Housing and Urban Development, or” and “applicable Secretary considers” for “Secretary considers”.
 
-    Subsec. (d)(2). [Pub. L. 105–276, § 592(a)(3)(B)][/us/pl/105/276/s592/a/3/B], aligned concluding provisions with par. (2) and inserted “applicable” before “Secretary” in concluding provisions.
+    Subsec. (d)(2). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(3)(B), aligned concluding provisions with par. (2) and inserted “applicable” before “Secretary” in concluding provisions.
 
-    Subsec. (d)(4)(B)(ii). [Pub. L. 105–276, § 592(a)(3)(C)][/us/pl/105/276/s592/a/3/C], inserted “applicable” before “Secretary” in introductory provisions.
+    Subsec. (d)(4)(B)(ii). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(3)(C), inserted “applicable” before “Secretary” in introductory provisions.
 
-    Subsec. (d)(5). [Pub. L. 105–276, § 592(a)(3)(D)][/us/pl/105/276/s592/a/3/D], substituted “the applicable Secretary shall” for “the Secretary shall” in introductory provisions.
+    Subsec. (d)(5). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(3)(D), substituted “the applicable Secretary shall” for “the Secretary shall” in introductory provisions.
 
-    Subsec. (d)(6). [Pub. L. 105–276, § 592(a)(3)(E)][/us/pl/105/276/s592/a/3/E], inserted “applicable” before “Secretary”.
+    Subsec. (d)(6). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(3)(E), inserted “applicable” before “Secretary”.
 
-    Subsec. (h). [Pub. L. 105–276, § 592(a)(5)][/us/pl/105/276/s592/a/5], redesignated subsec. (h), relating to verification of eligibility, as (i).
+    Subsec. (h). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(5), redesignated subsec. (h), relating to verification of eligibility, as (i).
 
-    Subsec. (h)(1). [Pub. L. 105–276, § 592(a)(4)(A)][/us/pl/105/276/s592/a/4/A], substituted “No” for “Except in the case of an election under paragraph (2)(A), no” and “subsection (d) of this section” for “this section” and inserted “applicable” before “Secretary”.
+    Subsec. (h)(1). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(4)(A), substituted “No” for “Except in the case of an election under paragraph (2)(A), no” and “subsection (d) of this section” for “this section” and inserted “applicable” before “Secretary”.
 
-    Subsec. (h)(2)(A). [Pub. L. 105–276, § 592(a)(4)(B)(i)][/us/pl/105/276/s592/a/4/B/i], added subpar. (A) and struck out former subpar. (A) which read as follows: “may elect not to comply with this section; and”.
+    Subsec. (h)(2)(A). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “may elect not to comply with this section; and”.
 
-    Subsec. (h)(2)(B). [Pub. L. 105–276, § 592(a)(4)(B)(ii)][/us/pl/105/276/s592/a/4/B/ii], substituted “in carrying out subsection (d) of this section” for “in complying with this section” in introductory provisions.
+    Subsec. (h)(2)(B). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(4)(B)(ii), substituted “in carrying out subsection (d) of this section” for “in complying with this section” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 105–276, § 592(a)(5)][/us/pl/105/276/s592/a/5], redesignated subsec. (h), relating to verification of eligibility, as (i).
+    Subsec. (i). [Pub. L. 105–276][/us/pl/105/276], § 592(a)(5), redesignated subsec. (h), relating to verification of eligibility, as (i).
 
-    1996—Subsec. (a). [Pub. L. 104–193, § 441(a)(1)][/us/pl/104/193/s441/a/1], substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], § 441(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 104–208, § 308(g)(7)(D)(ii)][/us/pl/104/208/s308/g/7/D/ii], substituted “section 1231(b)(3)” for “section 1253(h)”.
+    Subsec. (a)(5). [Pub. L. 104–208][/us/pl/104/208], § 308(g)(7)(D)(ii), substituted “section 1231(b)(3)” for “section 1253(h)”.
 
-    Subsec. (b). [Pub. L. 104–208, § 572][/us/pl/104/208/s572], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 572, designated existing provisions as par. (1) and added par. (2).
 
-    [Pub. L. 104–193, § 441(a)(2)][/us/pl/104/193/s441/a/2], inserted “the direct loan program under [section 1472 of this title][/us/usc/t42/s1472] or section 1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act,” after “1715z–1 of title 12,”.
+    [Pub. L. 104–193][/us/pl/104/193], § 441(a)(2), inserted “the direct loan program under [section 1472 of this title][/us/usc/t42/s1472] or section 1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act,” after “1715z–1 of title 12,”.
 
-    Subsec. (c). [Pub. L. 104–193, § 441(a)(1)][/us/pl/104/193/s441/a/1], substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in two places.
+    Subsec. (c). [Pub. L. 104–193][/us/pl/104/193], § 441(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in two places.
 
-    Subsec. (c)(1). [Pub. L. 104–208, § 573(1)][/us/pl/104/208/s573/1], substituted “shall” for “may, in its discretion,” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 104–208][/us/pl/104/208], § 573(1), substituted “shall” for “may, in its discretion,” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 104–208, § 573(2)][/us/pl/104/208/s573/2], inserted at end “Financial assistance continued under this subparagraph for a family may be provided only on a prorated basis, under which the amount of financial assistance is based on the percentage of the total number of members of the family that are eligible for that assistance under the program of financial assistance and under this section.”
+    Subsec. (c)(1)(A). [Pub. L. 104–208][/us/pl/104/208], § 573(2), inserted at end “Financial assistance continued under this subparagraph for a family may be provided only on a prorated basis, under which the amount of financial assistance is based on the percentage of the total number of members of the family that are eligible for that assistance under the program of financial assistance and under this section.”
 
-    Subsec. (c)(1)(B). [Pub. L. 104–208, § 573(3)][/us/pl/104/208/s573/3], designated first sentence of existing provisions as cl. (i), designated second and third sentences of existing provisions as cl. (ii) and substituted “Except as provided in clause (iii), any deferral” for “Any deferral” and “18-months” for “3 years”, and added cl. (iii).
+    Subsec. (c)(1)(B). [Pub. L. 104–208][/us/pl/104/208], § 573(3), designated first sentence of existing provisions as cl. (i), designated second and third sentences of existing provisions as cl. (ii) and substituted “Except as provided in clause (iii), any deferral” for “Any deferral” and “18-months” for “3 years”, and added cl. (iii).
 
-    Subsec. (d). [Pub. L. 104–208, § 574(1)][/us/pl/104/208/s574/1], inserted “or to be” after “being” in introductory provisions.
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 574(1), inserted “or to be” after “being” in introductory provisions.
 
-    [Pub. L. 104–193, § 441(a)(3)][/us/pl/104/193/s441/a/3], substituted “applicable Secretary” for “Secretary” wherever appearing in pars. (2) to (6).
+    [Pub. L. 104–193][/us/pl/104/193], § 441(a)(3), substituted “applicable Secretary” for “Secretary” wherever appearing in pars. (2) to (6).
 
-    [Pub. L. 104–193, § 441(a)(1)][/us/pl/104/193/s441/a/1], (4), substituted “the term ‘applicable Secretary’ ” for “the term ‘Secretary’ ” and “applicable Secretary” for “Secretary of Housing and Urban Development” in closing provisions.
+    [Pub. L. 104–193][/us/pl/104/193], § 441(a)(1), (4), substituted “the term ‘applicable Secretary’ ” for “the term ‘Secretary’ ” and “applicable Secretary” for “Secretary of Housing and Urban Development” in closing provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 104–208, § 574(2)][/us/pl/104/208/s574/2], inserted at end “If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the Secretary of Housing and Urban Development, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation.”
+    Subsec. (d)(1)(A). [Pub. L. 104–208][/us/pl/104/208], § 574(2), inserted at end “If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the Secretary of Housing and Urban Development, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation.”
 
-    Subsec. (d)(2). [Pub. L. 104–208, § 574(3)][/us/pl/104/208/s574/3], substituted “on September 30, 1996, or applying for financial assistance on or after September 30, 1996” for “on February 5, 1988” in introductory provisions and added concluding provisions.
+    Subsec. (d)(2). [Pub. L. 104–208][/us/pl/104/208], § 574(3), substituted “on September 30, 1996, or applying for financial assistance on or after September 30, 1996” for “on February 5, 1988” in introductory provisions and added concluding provisions.
 
-    Subsec. (d)(4). [Pub. L. 104–208, § 574(4)(A)][/us/pl/104/208/s574/4/A], substituted “on September 30, 1996, or applying for financial assistance on or after September 30, 1996” for “on February 5, 1988” in introductory provisions.
+    Subsec. (d)(4). [Pub. L. 104–208][/us/pl/104/208], § 574(4)(A), substituted “on September 30, 1996, or applying for financial assistance on or after September 30, 1996” for “on February 5, 1988” in introductory provisions.
 
-    Subsec. (d)(4)(A)(i). [Pub. L. 104–208, § 574(4)(B)(i)(I)][/us/pl/104/208/s574/4/B/i/I], inserted “, not to exceed 30 days,” after “reasonable opportunity”.
+    Subsec. (d)(4)(A)(i). [Pub. L. 104–208][/us/pl/104/208], § 574(4)(B)(i)(I), inserted “, not to exceed 30 days,” after “reasonable opportunity”.
 
-    Subsec. (d)(4)(A)(ii), (iii). [Pub. L. 104–208, § 574(4)(B)(i)(II)][/us/pl/104/208/s574/4/B/i/II], (ii), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “may not delay, deny, reduce, or terminate the individual’s eligibility for financial assistance on the basis of the individual’s immigration status until such a reasonable opportunity has been provided; and”.
+    Subsec. (d)(4)(A)(ii), (iii). [Pub. L. 104–208][/us/pl/104/208], § 574(4)(B)(i)(II), (ii), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “may not delay, deny, reduce, or terminate the individual’s eligibility for financial assistance on the basis of the individual’s immigration status until such a reasonable opportunity has been provided; and”.
 
-    Subsec. (d)(4)(B)(ii). [Pub. L. 104–208, § 574(4)(C)][/us/pl/104/208/s574/4/C], added cl. (ii) and struck out former cl. (ii) which read as follows: “pending such verification or appeal, the applicable Secretary may not delay, deny, reduce, or terminate the individual’s eligibility for financial assistance on the basis of the individual’s immigration status, and”.
+    Subsec. (d)(4)(B)(ii). [Pub. L. 104–208][/us/pl/104/208], § 574(4)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: “pending such verification or appeal, the applicable Secretary may not delay, deny, reduce, or terminate the individual’s eligibility for financial assistance on the basis of the individual’s immigration status, and”.
 
-    Subsec. (d)(5). [Pub. L. 104–208, § 574(5)][/us/pl/104/208/s574/5], inserted “, the Secretary shall” after “status” in introductory provisions, added subpars. (A) to (C), and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (d)(5). [Pub. L. 104–208][/us/pl/104/208], § 574(5), inserted “, the Secretary shall” after “status” in introductory provisions, added subpars. (A) to (C), and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) the applicable Secretary shall deny or terminate the individual’s eligibility for financial assistance, and
 
     “(B) the applicable fair hearing process shall be made available with respect to the individual.”
 
-    Subsec. (d)(6). [Pub. L. 104–208, § 574(6)][/us/pl/104/208/s574/6], added par. (6) and struck out former par. (6) which read as follows: “For purposes of paragraph (5)(B), the applicable fair hearing process made available with respect to any individual shall include not less than the following procedural protections:
+    Subsec. (d)(6). [Pub. L. 104–208][/us/pl/104/208], § 574(6), added par. (6) and struck out former par. (6) which read as follows: “For purposes of paragraph (5)(B), the applicable fair hearing process made available with respect to any individual shall include not less than the following procedural protections:
 
     “(A) The applicable Secretary shall provide the individual with written notice of the determination described in paragraph (5) and of the opportunity for a hearing with respect to the determination.
 
@@ -293,45 +293,45 @@
 
     “(D) Financial assistance may not be denied or terminated until the completion of the hearing process.”
 
-    Subsec. (e). [Pub. L. 104–193, § 441(a)(1)][/us/pl/104/193/s441/a/1], substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in introductory provisions.
+    Subsec. (e). [Pub. L. 104–193][/us/pl/104/193], § 441(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 104–208, § 575(2)][/us/pl/104/208/s575/2], inserted at end “the response from the Immigration and Naturalization Service to the appeal of that individual.”
+    Subsec. (e)(3). [Pub. L. 104–208][/us/pl/104/208], § 575(2), inserted at end “the response from the Immigration and Naturalization Service to the appeal of that individual.”
 
-    Subsec. (e)(4). [Pub. L. 104–208, § 575(1)][/us/pl/104/208/s575/1], (3), struck out par. (4) which read as follows: “because of a fair hearing process described in subsection (d)(5)(B) of this section (or provided for under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 ([Public Law 99–603][/us/pl/99/603])).”
+    Subsec. (e)(4). [Pub. L. 104–208][/us/pl/104/208], § 575(1), (3), struck out par. (4) which read as follows: “because of a fair hearing process described in subsection (d)(5)(B) of this section (or provided for under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 ([Public Law 99–603][/us/pl/99/603])).”
 
-    Subsec. (g). [Pub. L. 104–193, § 441(a)(1)][/us/pl/104/193/s441/a/1], substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
+    Subsec. (g). [Pub. L. 104–193][/us/pl/104/193], § 441(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
 
-    Subsec. (h). [Pub. L. 104–208, § 576][/us/pl/104/208/s576], added subsec. (h) relating to verification of eligibility.
+    Subsec. (h). [Pub. L. 104–208][/us/pl/104/208], § 576, added subsec. (h) relating to verification of eligibility.
 
-    [Pub. L. 104–193, § 441(a)(5)][/us/pl/104/193/s441/a/5], added subsec. (h) defining “applicable Secretary”.
+    [Pub. L. 104–193][/us/pl/104/193], § 441(a)(5), added subsec. (h) defining “applicable Secretary”.
 
-    1988—Subsec. (a)(6). [Pub. L. 100–242, § 164(a)][/us/pl/100/242/s164/a], added par. (6).
+    1988—Subsec. (a)(6). [Pub. L. 100–242][/us/pl/100/242], § 164(a), added par. (6).
 
-    Subsec. (c). [Pub. L. 100–242, § 164(b)][/us/pl/100/242/s164/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–242][/us/pl/100/242], § 164(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 100–242, § 164(c)(8)][/us/pl/100/242/s164/c/8], amended last sentence generally. Prior to amendment, last sentence read as follows: “In this subsection and subsection (e) of this section, the term ‘Secretary’ refers to the Secretary and to a public housing authority or other entity which makes financial assistance available.”
+    Subsec. (d). [Pub. L. 100–242][/us/pl/100/242], § 164(c)(8), amended last sentence generally. Prior to amendment, last sentence read as follows: “In this subsection and subsection (e) of this section, the term ‘Secretary’ refers to the Secretary and to a public housing authority or other entity which makes financial assistance available.”
 
-    Subsec. (d)(2). [Pub. L. 100–242, § 164(c)(1)][/us/pl/100/242/s164/c/1], inserted “, is not 62 years of age or older, and is receiving financial assistance on February 5, 1988” after “States”.
+    Subsec. (d)(2). [Pub. L. 100–242][/us/pl/100/242], § 164(c)(1), inserted “, is not 62 years of age or older, and is receiving financial assistance on February 5, 1988” after “States”.
 
-    Subsec. (d)(4). [Pub. L. 100–242, § 164(c)(2)][/us/pl/100/242/s164/c/2], in introductory provisions, inserted “, is not 62 years of age or older, and is receiving financial assistance on February 5, 1988” after “States”, and “or recertification” after “application”.
+    Subsec. (d)(4). [Pub. L. 100–242][/us/pl/100/242], § 164(c)(2), in introductory provisions, inserted “, is not 62 years of age or older, and is receiving financial assistance on February 5, 1988” after “States”, and “or recertification” after “application”.
 
-    Subsec. (d)(4)(A)(i). [Pub. L. 100–242, § 164(c)(3)][/us/pl/100/242/s164/c/3], inserted after comma “or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),”.
+    Subsec. (d)(4)(A)(i). [Pub. L. 100–242][/us/pl/100/242], § 164(c)(3), inserted after comma “or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),”.
 
-    Subsec. (d)(4)(B). [Pub. L. 100–242, § 164(c)(4)][/us/pl/100/242/s164/c/4], amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “if there are submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—”.
+    Subsec. (d)(4)(B). [Pub. L. 100–242][/us/pl/100/242], § 164(c)(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “if there are submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—”.
 
-    Subsec. (d)(4)(B)(i), (ii). [Pub. L. 100–242, § 164(c)(5)][/us/pl/100/242/s164/c/5], (6), inserted “or additional information” after “documents” in cl. (i), and “or appeal” after “verification” in cl. (ii).
+    Subsec. (d)(4)(B)(i), (ii). [Pub. L. 100–242][/us/pl/100/242], § 164(c)(5), (6), inserted “or additional information” after “documents” in cl. (i), and “or appeal” after “verification” in cl. (ii).
 
-    Subsec. (d)(6). [Pub. L. 100–242, § 164(c)(7)][/us/pl/100/242/s164/c/7], added par. (6).
+    Subsec. (d)(6). [Pub. L. 100–242][/us/pl/100/242], § 164(c)(7), added par. (6).
 
-    Subsec. (e). [Pub. L. 100–242, § 164(d)(1)][/us/pl/100/242/s164/d/1], in introductory provisions, inserted “of Housing and Urban Development” after “Secretary”.
+    Subsec. (e). [Pub. L. 100–242][/us/pl/100/242], § 164(d)(1), in introductory provisions, inserted “of Housing and Urban Development” after “Secretary”.
 
-    Subsec. (e)(2), (3). [Pub. L. 100–242, § 164(d)(2)][/us/pl/100/242/s164/d/2], (3), inserted “(or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 ([Public Law 99–603][/us/pl/99/603]))”.
+    Subsec. (e)(2), (3). [Pub. L. 100–242][/us/pl/100/242], § 164(d)(2), (3), inserted “(or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 ([Public Law 99–603][/us/pl/99/603]))”.
 
-    Subsec. (e)(4). [Pub. L. 100–242, § 164(d)(4)][/us/pl/100/242/s164/d/4], inserted “(or provided for under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 ([Public Law 99–603][/us/pl/99/603]))”.
+    Subsec. (e)(4). [Pub. L. 100–242][/us/pl/100/242], § 164(d)(4), inserted “(or provided for under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 ([Public Law 99–603][/us/pl/99/603]))”.
 
-    Subsec. (f). [Pub. L. 100–242, § 164(e)][/us/pl/100/242/s164/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–242][/us/pl/100/242], § 164(e), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 100–242, § 164(f)(1)][/us/pl/100/242/s164/f/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–242][/us/pl/100/242], § 164(f)(1), added subsec. (g).
 
     1986—Subsecs. (d), (e). [Pub. L. 99–603][/us/pl/99/603] added subsecs. (d) and (e).
 
@@ -341,7 +341,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–276, title V, § 592(b)][/us/pl/105/276/s592/b], Oct. 21, 1998, [112 Stat. 2654][/us/stat/112/2654], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 592(b), Oct. 21, 1998, [112 Stat. 2654][/us/stat/112/2654], provided that: 
 
 > “The amendments made by this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -353,7 +353,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–242, title I, § 164(h)][/us/pl/100/242/s164/h], Feb. 5, 1988, [101 Stat. 1863][/us/stat/101/1863], provided that:
+[Pub. L. 100–242, title I][/us/pl/100/242/tI], § 164(h), Feb. 5, 1988, [101 Stat. 1863][/us/stat/101/1863], provided that:
 
 >     “(1) The provisions of, and amendments made by, subsections (a), (b), (e), (f), and (g) \[amending this section, repealing [section 1437r of this title][/us/usc/t42/s1437r], and enacting provisions set out below\] shall take effect on the date of the enactment of this Act \[Feb. 5, 1988\].
 
@@ -369,13 +369,13 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. C, title V, § 571][/us/pl/104/208/s571], Sept. 30, 1996, [110 Stat. 3009–684][/us/stat/110/3009-684], provided that: 
+[Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 571, Sept. 30, 1996, [110 Stat. 3009–684][/us/stat/110/3009-684], provided that: 
 
 > “This subtitle \[subtitle E (§§ 571–577) of title V of div. C of [Pub. L. 104–208][/us/pl/104/208], amending this section and enacting provisions set out as a note below\] may be cited as the ‘Use of Assisted Housing by Aliens Act of 1996’.”
 
  __Regulations__ 
 
-[Pub. L. 104–208, div. C, title V, § 577][/us/pl/104/208/s577], Sept. 30, 1996, [110 Stat. 3009–688][/us/stat/110/3009-688], provided that:
+[Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 577, Sept. 30, 1996, [110 Stat. 3009–688][/us/stat/110/3009-688], provided that:
 
 >     “(a)  __Issuance__  __.—__ 
 
@@ -391,7 +391,7 @@
 
  __Transitional Certification and Documentation Provisions__ 
 
-[Pub. L. 100–242, title I, § 164(g)][/us/pl/100/242/s164/g], Feb. 5, 1988, [101 Stat. 1863][/us/stat/101/1863], provided that: 
+[Pub. L. 100–242, title I][/us/pl/100/242/tI], § 164(g), Feb. 5, 1988, [101 Stat. 1863][/us/stat/101/1863], provided that: 
 
 > “In carrying out section 214 of the Housing and Community Development Act of 1980 \[this section\] during fiscal year 1988, the Secretary of Housing and Urban Development shall require, as a condition of providing financial assistance for the benefit of any individual, that such individual—
 
@@ -407,13 +407,13 @@
 
  __Delayed Implementation of 1981 Amendment__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 474(e)\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239], provided in part that: 
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 474(e)\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239], provided in part that: 
 
 > “The Secretary may not implement the amendment to section 214 of the Housing and Community Development Act of 1980 \[this section\], made by section 329(a) of the Housing and Community Development Amendments of 1981 \[[Pub. L. 97–35][/us/pl/97/35]\], before the expiration of the one-year period following the date of the enactment of this Act \[Nov. 30, 1983\].”
 
  __Aliens Granted Conditional Entry Eligible for Assisted Housing__ 
 
-[Pub. L. 97–35, title III, § 329(b)][/us/pl/97/35/s329/b], Aug. 13, 1981, [95 Stat. 408][/us/stat/95/408], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 329(b), Aug. 13, 1981, [95 Stat. 408][/us/stat/95/408], provided that: 
 
 > “An alien who is lawfully present in the United States as a result of being granted conditional entry pursuant to section 203(a)(7) of the Immigration and Nationality Act ([8 U.S.C. 1153(a)(7)][/us/usc/t8/s1153/a/7]) before April 1, 1980, because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity shall be deemed, for purposes of section 214 of the Housing and Community Development Act of 1980 \[this section\], to be an alien described in section 214(a)(3) of such Act \[subsec. (a)(3) of this section\].”
 
@@ -445,27 +445,27 @@
 [/us/usc/t42/s12851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12851
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
 [/us/usc/t8/s1324a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fb%2F1
-[/us/pl/96/399/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs214
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1637
-[/us/pl/97/35/s329/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs329%2Fa
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F408
-[/us/pl/99/603/s121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fa%2F2
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3386
-[/us/pl/100/242/s164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fa
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1860-1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1860-1863
-[/us/pl/104/193/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2276
-[/us/pl/104/208/s308/g/7/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F7%2FD%2Fii
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-624
-[/us/pl/105/276/s592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2653
-[/us/pl/106/504/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504%2Fs3%2Fb
+[/us/pl/106/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504
 [/us/stat/114/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2312
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/stat/94/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1614
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
@@ -478,65 +478,65 @@
 [/us/stat/100/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3359
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/106/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504
-[/us/pl/105/276/s592/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F1
-[/us/pl/105/276/s592/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F2
-[/us/pl/105/276/s592/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F3%2FA
-[/us/pl/105/276/s592/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F3%2FB
-[/us/pl/105/276/s592/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F3%2FC
-[/us/pl/105/276/s592/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F3%2FD
-[/us/pl/105/276/s592/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F3%2FE
-[/us/pl/105/276/s592/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F5
-[/us/pl/105/276/s592/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F4%2FA
-[/us/pl/105/276/s592/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F4%2FB%2Fi
-[/us/pl/105/276/s592/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F4%2FB%2Fii
-[/us/pl/105/276/s592/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fa%2F5
-[/us/pl/104/193/s441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F1
-[/us/pl/104/208/s308/g/7/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F7%2FD%2Fii
-[/us/pl/104/208/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs572
-[/us/pl/104/193/s441/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F2
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1472
-[/us/pl/104/193/s441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F1
-[/us/pl/104/208/s573/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs573%2F1
-[/us/pl/104/208/s573/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs573%2F2
-[/us/pl/104/208/s573/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs573%2F3
-[/us/pl/104/208/s574/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F1
-[/us/pl/104/193/s441/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F3
-[/us/pl/104/193/s441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F1
-[/us/pl/104/208/s574/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F2
-[/us/pl/104/208/s574/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F3
-[/us/pl/104/208/s574/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F4%2FA
-[/us/pl/104/208/s574/4/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F4%2FB%2Fi%2FI
-[/us/pl/104/208/s574/4/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F4%2FB%2Fi%2FII
-[/us/pl/104/208/s574/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F4%2FC
-[/us/pl/104/208/s574/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F5
-[/us/pl/104/208/s574/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs574%2F6
-[/us/pl/104/193/s441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F1
-[/us/pl/104/208/s575/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs575%2F2
-[/us/pl/104/208/s575/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs575%2F1
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
-[/us/pl/104/193/s441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F1
-[/us/pl/104/208/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs576
-[/us/pl/104/193/s441/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs441%2Fa%2F5
-[/us/pl/100/242/s164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fa
-[/us/pl/100/242/s164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fb
-[/us/pl/100/242/s164/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fc%2F8
-[/us/pl/100/242/s164/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fc%2F1
-[/us/pl/100/242/s164/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fc%2F2
-[/us/pl/100/242/s164/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fc%2F3
-[/us/pl/100/242/s164/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fc%2F4
-[/us/pl/100/242/s164/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fc%2F5
-[/us/pl/100/242/s164/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fc%2F7
-[/us/pl/100/242/s164/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fd%2F1
-[/us/pl/100/242/s164/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fd%2F2
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
-[/us/pl/100/242/s164/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fd%2F4
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
-[/us/pl/100/242/s164/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fe
-[/us/pl/100/242/s164/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Ff%2F1
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/105/276/s592/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs592%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2654
 [/us/pl/104/208/s308/g/7/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F7%2FD%2Fii
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
@@ -544,7 +544,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs591
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/100/242/s164/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fh
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1863
 [/us/usc/t42/s1437r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437r
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
@@ -553,20 +553,20 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/104/208/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs571
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-684
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/208/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs577
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-688
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t5/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs533
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/100/242/s164/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Fg
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1863
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1239
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s329/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs329%2Fb
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F408
 [/us/usc/t8/s1153/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fa%2F7
 

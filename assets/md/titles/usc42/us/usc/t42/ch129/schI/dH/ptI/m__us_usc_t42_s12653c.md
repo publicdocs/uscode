@@ -191,7 +191,7 @@
 
         The Corporation shall conduct an independent evaluation of the programs authorized under subsections (a) and (b) and widely disseminate the results, including recommendations for improvement, to the service community through multiple channels, including the Corporation’s Resource Center or a clearinghouse of effective strategies.
 
-([Pub. L. 101–610, title I, § 198C][/us/pl/101/610/s198C], as added [Pub. L. 111–13, title I, § 1805][/us/pl/111/13/s1805], Apr. 21, 2009, [123 Stat. 1559][/us/stat/123/1559].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198C, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1805, Apr. 21, 2009, [123 Stat. 1559][/us/stat/123/1559].)
 
  __References in Text__ 
 
@@ -199,9 +199,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 12653c, [Pub. L. 101–610, title I, § 198C][/us/pl/101/610/s198C], as added [Pub. L. 103–82, title I, § 104(c)][/us/pl/103/82/s104/c], Sept. 21, 1993, [107 Stat. 843][/us/stat/107/843]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(42)(B), (f)(33)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–428, 2681–434, which related to military installation conversion demonstration programs, was repealed by [Pub. L. 111–13, title I, § 1803(a)(2)][/us/pl/111/13/s1803/a/2], title VI, § 6101(a), Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554], 1600, effective Oct. 1, 2009.
+    A prior section 12653c, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198C, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(c), Sept. 21, 1993, [107 Stat. 843][/us/stat/107/843]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(42)(B), (f)(33)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–428, 2681–434, which related to military installation conversion demonstration programs, was repealed by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1803(a)(2), title VI, § 6101(a), Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554], 1600, effective Oct. 1, 2009.
 
-    Another prior section 12653c, [Pub. L. 101–610, title I, § 195C][/us/pl/101/610/s195C], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2524][/us/stat/106/2524], which related to summer national service program of Civilian Community Corps Demonstration Program, was renumbered [section 154 of Pub. L. 101–610][/us/pl/101/610/s154] by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b], and transferred to [section 12614 of this title][/us/usc/t42/s12614].
+    Another prior section 12653c, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195C, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2524][/us/stat/106/2524], which related to summer national service program of Civilian Community Corps Demonstration Program, was renumbered [section 154 of Pub. L. 101–610][/us/pl/101/610/s154] by [Pub. L. 103–82][/us/pl/103/82], § 104(b), and transferred to [section 12614 of this title][/us/usc/t42/s12614].
 
  __Effective Date__ 
 
@@ -216,24 +216,24 @@
 
 [/us/usc/t42/s12639/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12639%2Fk
 [/us/usc/t42/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5001
-[/us/pl/101/610/s198C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198C
-[/us/pl/111/13/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1805
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1559
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/101/610/s198C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198C
-[/us/pl/103/82/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fc
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F843
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/111/13/s1803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1803%2Fa%2F2
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1554
-[/us/pl/101/610/s195C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195C
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2524
 [/us/pl/101/610/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs154
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s12614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12614
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

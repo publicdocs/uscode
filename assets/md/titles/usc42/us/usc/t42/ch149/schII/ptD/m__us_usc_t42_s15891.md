@@ -69,7 +69,7 @@
 
             No insular area may receive, during any 3-year period, more than 20 percent of the total funds made available during that 3-year period under subparagraphs (A) and (B) of paragraph (1) unless the Secretary determines that providing funding in excess of that percentage best advances existing opportunities to meet the objectives of this section.
 
-([Pub. L. 109–58, title II, § 252][/us/pl/109/58/s252], Aug. 8, 2005, [119 Stat. 682][/us/stat/119/682].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 252, Aug. 8, 2005, [119 Stat. 682][/us/stat/119/682].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t48/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1492
-[/us/pl/109/58/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs252
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F682
 
 

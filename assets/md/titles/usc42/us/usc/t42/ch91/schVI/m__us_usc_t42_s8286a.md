@@ -23,7 +23,7 @@
 
     (3) statutory requirements or responsibilities require a modification of the consented to factors and data.
 
-([Pub. L. 96–294, title V, § 596][/us/pl/96/294/s596], June 30, 1980, [94 Stat. 762][/us/stat/94/762].)
+([Pub. L. 96–294, title V][/us/pl/96/294/tV], § 596, June 30, 1980, [94 Stat. 762][/us/stat/94/762].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s8286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8286
-[/us/pl/96/294/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs596
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F762
 
 

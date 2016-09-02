@@ -17,7 +17,7 @@
 
     There shall be within the Department, a Federal Energy Regulatory Commission established by subchapter IV of this chapter (hereinafter referred to in this chapter as the “Commission”). The Chairman shall be compensated at the rate provided for level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314]. The other members of the Commission shall be compensated at the rate provided for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315]. The Chairman and members of the Commission shall be individuals who, by demonstrated ability, background, training, or experience, are specially qualified to assess fairly the needs and concerns of all interests affected by Federal energy policy.
 
-([Pub. L. 95–91, title II, § 204][/us/pl/95/91/s204], Aug. 4, 1977, [91 Stat. 571][/us/stat/91/571].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 204, Aug. 4, 1977, [91 Stat. 571][/us/stat/91/571].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/95/91/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs204
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
 [/us/stat/91/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F571
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

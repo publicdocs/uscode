@@ -23,7 +23,7 @@
 
     the Council shall notify such agency that no further payments will be made to the State under this subchapter until it is satisfied that there will no longer be any such failure. Until the Council is so satisfied, it shall make no further payments to such State under this subchapter.
 
-([Pub. L. 89–80, title III, § 304][/us/pl/89/80/s304], July 22, 1965, [79 Stat. 252][/us/stat/79/252].)
+([Pub. L. 89–80, title III][/us/pl/89/80/tIII], § 304, July 22, 1965, [79 Stat. 252][/us/stat/79/252].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s1962c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962c%E2%80%932
-[/us/pl/89/80/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs304
+[/us/pl/89/80/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIII
 [/us/stat/79/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F252
 
 

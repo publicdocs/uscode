@@ -23,7 +23,7 @@
 
         The Director shall require that annual reports and the final report for research grants that include funding to support postdoctoral researchers include a description of the mentoring activities provided to such researchers.
 
-([Pub. L. 110–69, title VII, § 7008][/us/pl/110/69/s7008], Aug. 9, 2007, [121 Stat. 680][/us/stat/121/680].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7008, Aug. 9, 2007, [121 Stat. 680][/us/stat/121/680].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Reaffirmation of the Merit-Review Process of the National Science Foundation__ 
 
-[Pub. L. 110–69, title VII, § 7003][/us/pl/110/69/s7003], Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679], provided that: 
+[Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7003, Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679], provided that: 
 
 > “Nothing in this title \[enacting this section and sections 1862n–1a and 1862o–1 to 1862o–15 of this title, amending sections 1862i, 1862l, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and [section 3801 of Title 31][/us/usc/t31/s3801], Money and Finance, enacting provisions set out as notes under this section and [section 1862n–2 of this title][/us/usc/t42/s1862n–2], and amending provisions set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113]\] or title I \[enacting sections 6603, 6619, and 6620 of this title and [section 3718 of Title 15][/us/usc/t15/s3718] and amending [section 3711 of Title 15][/us/usc/t15/s3711]\], or the amendments made by this title or title I, shall be interpreted to require or recommend that the Foundation—
 
@@ -41,13 +41,13 @@
 
  __Curricula__ 
 
-[Pub. L. 110–69, title VII, § 7005][/us/pl/110/69/s7005], Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679], provided that: 
+[Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7005, Aug. 9, 2007, [121 Stat. 679][/us/stat/121/679], provided that: 
 
 > “Nothing in this title \[enacting this section and sections 1862n–1a and 1862o–1 to 1862o–15 of this title, amending sections 1862i, 1862l, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and [section 3801 of Title 31][/us/usc/t31/s3801], Money and Finance, enacting provisions set out as notes under this section and [section 1862n–2 of this title][/us/usc/t42/s1862n–2], and amending provisions set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113]\], or the amendments made by this title, shall be construed to limit the authority of State governments or local school boards to determine the curricula of their students.”
 
  __Definitions__ 
 
-[Pub. L. 110–69, title VII, § 7001][/us/pl/110/69/s7001], Aug. 9, 2007, [121 Stat. 675][/us/stat/121/675], provided that: 
+[Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7001, Aug. 9, 2007, [121 Stat. 675][/us/stat/121/675], as amended by [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(i)(5), Dec. 10, 2015, [129 Stat. 2168][/us/stat/129/2168], provided that: 
 
 > “In this title \[enacting this section and sections 1862n–1a and 1862o–1 to 1862o–15 of this title, amending sections 1862i, 1862l, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and [section 3801 of Title 31][/us/usc/t31/s3801], Money and Finance, enacting provisions set out as notes under this section and [section 1862n–2 of this title][/us/usc/t42/s1862n–2], and amending provisions set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113]\]:
 
@@ -65,7 +65,7 @@
 
 >     “(4)  __Elementary school__  __.—__ 
 
->     The term ‘elementary school’ has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).
+>     The term ‘elementary school’ has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
 >     “(5)  __Foundation__  __.—__ 
 
@@ -77,7 +77,7 @@
 
 >     “(7)  __Secondary school__  __.—__ 
 
->     The term ‘secondary school’ has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).”
+>     The term ‘secondary school’ has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].”
 
 ----------
 
@@ -86,22 +86,24 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7008
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F680
-[/us/pl/110/69/s7003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7003
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F679
 [/us/usc/t31/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3801
 [/us/usc/t42/s1862n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%932
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t15/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3718
 [/us/usc/t15/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3711
-[/us/pl/110/69/s7005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7005
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F679
 [/us/usc/t31/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3801
 [/us/usc/t42/s1862n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%932
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F675
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2168
 [/us/usc/t31/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3801
 [/us/usc/t42/s1862n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%932
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

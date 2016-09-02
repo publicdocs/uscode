@@ -17,13 +17,13 @@
 
     The Director is authorized to use no less than $150,000 of the funds appropriated for this subchapter to maintain and enhance national peer support and counseling programs to assist families of public safety officers who have sustained fatal or catastrophic injury in the line of duty.
 
-([Pub. L. 90–351, title I, § 1203][/us/pl/90/351/s1203], as added [Pub. L. 100–690, title VI, § 6106(a)(2)][/us/pl/100/690/s6106/a/2], Nov. 18, 1988, [102 Stat. 4341][/us/stat/102/4341]; amended [Pub. L. 105–180, § 2(a)][/us/pl/105/180/s2/a], June 16, 1998, [112 Stat. 511][/us/stat/112/511]; [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(D)][/us/pl/112/239/s1086/b/1/D], Jan. 2, 2013, [126 Stat. 1966][/us/stat/126/1966].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1203, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6106(a)(2), Nov. 18, 1988, [102 Stat. 4341][/us/stat/102/4341]; amended [Pub. L. 105–180][/us/pl/105/180], § 2(a), June 16, 1998, [112 Stat. 511][/us/stat/112/511]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1086(b)(1)(D), Jan. 2, 2013, [126 Stat. 1966][/us/stat/126/1966].)
 
  __Prior Provisions__ 
 
     A prior [section 1203 of Pub. L. 90–351][/us/pl/90/351/s1203] was renumbered section 1204 and is classified to [section 3796b of this title][/us/usc/t42/s3796b].
 
-    Another prior [section 1203 of Pub. L. 90–351][/us/pl/90/351/s1203], title VII, June 19, 1968, [82 Stat. 237][/us/stat/82/237], was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by [Pub. L. 99–308, § 104(b)][/us/pl/99/308/s104/b], May 19, 1986, [100 Stat. 459][/us/stat/100/459].
+    Another prior [section 1203 of Pub. L. 90–351][/us/pl/90/351/s1203], title VII, June 19, 1968, [82 Stat. 237][/us/stat/82/237], was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by [Pub. L. 99–308][/us/pl/99/308], § 104(b), May 19, 1986, [100 Stat. 459][/us/stat/100/459].
 
  __Amendments__ 
 
@@ -46,18 +46,18 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1203
-[/us/pl/100/690/s6106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6106%2Fa%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4341
-[/us/pl/105/180/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F180%2Fs2%2Fa
+[/us/pl/105/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F180
 [/us/stat/112/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F511
-[/us/pl/112/239/s1086/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F1%2FD
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1966
 [/us/pl/90/351/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1203
 [/us/usc/t42/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b
 [/us/pl/90/351/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1203
 [/us/stat/82/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F237
-[/us/pl/99/308/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs104%2Fb
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F459
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/105/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F180

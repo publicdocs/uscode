@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this subtitle and the amendments made by this subtitle.
 
-([Pub. L. 109–58, title VI, § 636][/us/pl/109/58/s636], Aug. 8, 2005, [119 Stat. 791][/us/stat/119/791].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 636, Aug. 8, 2005, [119 Stat. 791][/us/stat/119/791].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs636
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F791
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F782

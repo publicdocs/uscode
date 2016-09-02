@@ -19,7 +19,7 @@
 
     (b) Authorization of appropriations to the Commission shall reflect the need for effective licensing and other regulation of the nuclear power industry in relation to the growth of such industry.
 
-([Pub. L. 93–438, title III, § 305][/us/pl/93/438/s305], Oct. 11, 1974, [88 Stat. 1251][/us/stat/88/1251].)
+([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 305, Oct. 11, 1974, [88 Stat. 1251][/us/stat/88/1251].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs305
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1251
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233

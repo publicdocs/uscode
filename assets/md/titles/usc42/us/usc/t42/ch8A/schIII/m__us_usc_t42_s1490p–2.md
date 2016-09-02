@@ -213,13 +213,13 @@
 
         In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe’s reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act ([25 U.S.C. 461][/us/usc/t25/s461] et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 538, as added and amended [Pub. L. 104–120, § 5][/us/pl/104/120/s5], Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835]; [Pub. L. 105–86, title VII, § 735(c)][/us/pl/105/86/s735/c], Nov. 18, 1997, [111 Stat. 2111][/us/stat/111/2111]; [Pub. L. 105–276, title V, § 599C(c)][/us/pl/105/276/s599C/c], Oct. 21, 1998, [112 Stat. 2661][/us/stat/112/2661]; [Pub. L. 106–569, title VII, § 707][/us/pl/106/569/s707], Dec. 27, 2000, [114 Stat. 3015][/us/stat/114/3015].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 538, as added and amended [Pub. L. 104–120][/us/pl/104/120], § 5, Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835]; [Pub. L. 105–86, title VII][/us/pl/105/86/tVII], § 735(c), Nov. 18, 1997, [111 Stat. 2111][/us/stat/111/2111]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599C(c), Oct. 21, 1998, [112 Stat. 2661][/us/stat/112/2661]; [Pub. L. 106–569, title VII][/us/pl/106/569/tVII], § 707, Dec. 27, 2000, [114 Stat. 3015][/us/stat/114/3015].)
 
  __References in Text__ 
 
     The National Housing Act, referred to in subsec. (e)(1)(A), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
-    Subpar. (D) of [section 42(i)(2) of title 26][/us/usc/t26/s42/i/2], referred to in subsec. (f)(5), was repealed by [Pub. L. 110–289, div. C, title I, § 3002(b)(2)(C)][/us/pl/110/289/s3002/b/2/C], July 30, 2008, [122 Stat. 2880][/us/stat/122/2880].
+    Subpar. (D) of [section 42(i)(2) of title 26][/us/usc/t26/s42/i/2], referred to in subsec. (f)(5), was repealed by [Pub. L. 110–289, div. C, title I][/us/pl/110/289/dC/tI], § 3002(b)(2)(C), July 30, 2008, [122 Stat. 2880][/us/stat/122/2880].
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
@@ -233,39 +233,39 @@
 
  __Amendments__ 
 
-    2000—Subsec. (c). [Pub. L. 106–569, § 707(1)][/us/pl/106/569/s707/1], inserted “an Indian tribe,” after “political subdivision thereof,”.
+    2000—Subsec. (c). [Pub. L. 106–569][/us/pl/106/569], § 707(1), inserted “an Indian tribe,” after “political subdivision thereof,”.
 
-    Subsec. (f)(1). [Pub. L. 106–569, § 707(2)][/us/pl/106/569/s707/2], added par. (1) and struck out former par. (1) which read as follows: “provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;”.
+    Subsec. (f)(1). [Pub. L. 106–569][/us/pl/106/569], § 707(2), added par. (1) and struck out former par. (1) which read as follows: “provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;”.
 
-    Subsec. (i)(2). [Pub. L. 106–569, § 707(3)][/us/pl/106/569/s707/3], substituted “(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment” for “(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment”.
+    Subsec. (i)(2). [Pub. L. 106–569][/us/pl/106/569], § 707(3), substituted “(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment” for “(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment”.
 
-    Subsec. (l). [Pub. L. 106–569, § 707(6)][/us/pl/106/569/s707/6], (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: “The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
+    Subsec. (l). [Pub. L. 106–569][/us/pl/106/569], § 707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: “The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
 
-    Subsecs. (m) to (r). [Pub. L. 106–569, § 707(7)][/us/pl/106/569/s707/7], redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (l).
+    Subsecs. (m) to (r). [Pub. L. 106–569][/us/pl/106/569], § 707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (l).
 
-    Subsec. (s). [Pub. L. 106–569, § 707(7)][/us/pl/106/569/s707/7], redesignated subsec. (t) as (s). Former subsec. (s) redesignated (r).
+    Subsec. (s). [Pub. L. 106–569][/us/pl/106/569], § 707(7), redesignated subsec. (t) as (s). Former subsec. (s) redesignated (r).
 
-    Subsec. (s)(4). [Pub. L. 106–569, § 707(4)][/us/pl/106/569/s707/4], added par. (4).
+    Subsec. (s)(4). [Pub. L. 106–569][/us/pl/106/569], § 707(4), added par. (4).
 
-    Subsec. (t). [Pub. L. 106–569, § 707(7)][/us/pl/106/569/s707/7], redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
+    Subsec. (t). [Pub. L. 106–569][/us/pl/106/569], § 707(7), redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
 
-    [Pub. L. 106–569, § 707(5)][/us/pl/106/569/s707/5], inserted before period at end “to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000”.
+    [Pub. L. 106–569][/us/pl/106/569], § 707(5), inserted before period at end “to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000”.
 
-    Subsec. (u). [Pub. L. 106–569, § 707(8)][/us/pl/106/569/s707/8], added subsec. (u). Former subsec. (u) redesignated (t).
+    Subsec. (u). [Pub. L. 106–569][/us/pl/106/569], § 707(8), added subsec. (u). Former subsec. (u) redesignated (t).
 
-    Subsec. (v). [Pub. L. 106–569, § 707(8)][/us/pl/106/569/s707/8], added subsec. (v).
+    Subsec. (v). [Pub. L. 106–569][/us/pl/106/569], § 707(8), added subsec. (v).
 
-    1998—Subsec. (t). [Pub. L. 105–276, § 599C(c)(1)][/us/pl/105/276/s599C/c/1], substituted “each fiscal year” for “fiscal year 1998”.
+    1998—Subsec. (t). [Pub. L. 105–276][/us/pl/105/276], § 599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
 
-    Subsec. (u). [Pub. L. 105–276, § 599C(c)(2)][/us/pl/105/276/s599C/c/2], added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
+    Subsec. (u). [Pub. L. 105–276][/us/pl/105/276], § 599C(c)(2), added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
 
-    1997—Subsec. (q)(2). [Pub. L. 105–86, § 735(c)(1)][/us/pl/105/86/s735/c/1], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
+    1997—Subsec. (q)(2). [Pub. L. 105–86][/us/pl/105/86], § 735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
 
-    Subsec. (t). [Pub. L. 105–86, § 735(c)(2)][/us/pl/105/86/s735/c/2], added subsec. (t) and struck out text of former subsec. (t). Text read as follows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in [section 661a of title 2][/us/usc/t2/s661a]) of loan guarantees made under this section.”
+    Subsec. (t). [Pub. L. 105–86][/us/pl/105/86], § 735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read as follows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in [section 661a of title 2][/us/usc/t2/s661a]) of loan guarantees made under this section.”
 
-    Subsec. (u). [Pub. L. 105–86, § 735(c)(3)][/us/pl/105/86/s735/c/3], substituted “1998” for “1996”.
+    Subsec. (u). [Pub. L. 105–86][/us/pl/105/86], § 735(c)(3), substituted “1998” for “1996”.
 
-    1996—Subsecs. (m)(1), (r)(1). [Pub. L. 104–120, § 5(b)][/us/pl/104/120/s5/b], made technical amendment to reference in original act which appears in text as reference to March 28, 1996.
+    1996—Subsecs. (m)(1), (r)(1). [Pub. L. 104–120][/us/pl/104/120], § 5(b), made technical amendment to reference in original act which appears in text as reference to March 28, 1996.
 
  __Effective Date__ 
 
@@ -296,19 +296,19 @@
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/104/120/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs5
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F835
-[/us/pl/105/86/s735/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc
+[/us/pl/105/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2FtVII
 [/us/stat/111/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2111
-[/us/pl/105/276/s599C/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599C%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2661
-[/us/pl/106/569/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707
+[/us/pl/106/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVII
 [/us/stat/114/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3015
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t26/s42/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fi%2F2
-[/us/pl/110/289/s3002/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3002%2Fb%2F2%2FC
+[/us/pl/110/289/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtI
 [/us/stat/122/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2880
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
@@ -320,24 +320,24 @@
 [/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
-[/us/pl/106/569/s707/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F1
-[/us/pl/106/569/s707/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F2
-[/us/pl/106/569/s707/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F3
-[/us/pl/106/569/s707/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F6
-[/us/pl/106/569/s707/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F7
-[/us/pl/106/569/s707/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F7
-[/us/pl/106/569/s707/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F4
-[/us/pl/106/569/s707/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F7
-[/us/pl/106/569/s707/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F5
-[/us/pl/106/569/s707/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F8
-[/us/pl/106/569/s707/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F8
-[/us/pl/105/276/s599C/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599C%2Fc%2F1
-[/us/pl/105/276/s599C/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599C%2Fc%2F2
-[/us/pl/105/86/s735/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc%2F1
-[/us/pl/105/86/s735/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc%2F2
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
+[/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/105/86/s735/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc%2F3
-[/us/pl/104/120/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs5%2Fb
+[/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/120/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs13%2Fa
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
 

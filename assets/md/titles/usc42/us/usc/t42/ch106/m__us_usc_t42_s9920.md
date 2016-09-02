@@ -57,7 +57,7 @@
 
         If an eligible entity or other organization (referred to in this subsection as an “intermediate organization”), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a) of this section, the intermediate organization shall have the same duties under this section as the government.
 
-([Pub. L. 97–35, title VI, § 679][/us/pl/97/35/s679], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2749][/us/stat/112/2749].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 679, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2749][/us/stat/112/2749].)
 
  __Prior Provisions__ 
 
@@ -72,8 +72,8 @@
 
 [/us/usc/t42/s9910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910
 [/us/usc/t42/s2000e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%931
-[/us/pl/97/35/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs679
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2749
 [/us/pl/97/35/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs679
 [/us/usc/t42/s9908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9908

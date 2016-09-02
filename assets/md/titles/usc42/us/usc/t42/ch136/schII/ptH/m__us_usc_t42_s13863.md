@@ -43,7 +43,7 @@
 
         (4) a description of how the requested grant will be used to fill gaps.
 
-([Pub. L. 103–322, title III, § 31703][/us/pl/103/322/s31703], Sept. 13, 1994, [108 Stat. 1891][/us/stat/108/1891].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31703, Sept. 13, 1994, [108 Stat. 1891][/us/stat/108/1891].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t42/s13862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13862
 [/us/usc/t42/s13862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13862
-[/us/pl/103/322/s31703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31703
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1891
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

@@ -27,7 +27,7 @@
 
         The President shall take action to ensure compliance with this section, including through the establishment of administrative rules and procedures.
 
-([Pub. L. 109–366, § 6(c)][/us/pl/109/366/s6/c], Oct. 17, 2006, [120 Stat. 2635][/us/stat/120/2635].)
+([Pub. L. 109–366][/us/pl/109/366], § 6(c), Oct. 17, 2006, [120 Stat. 2635][/us/stat/120/2635].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/366/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs6%2Fc
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2635
 
 

@@ -21,7 +21,7 @@
 
     (2) any issue impeding that progress.
 
-([Pub. L. 109–58, title XVIII, § 1810][/us/pl/109/58/s1810], Aug. 8, 2005, [119 Stat. 1126][/us/stat/119/1126].)
+([Pub. L. 109–58, title XVIII][/us/pl/109/58/tXVIII], § 1810, Aug. 8, 2005, [119 Stat. 1126][/us/stat/119/1126].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1810
+[/us/pl/109/58/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVIII
 [/us/stat/119/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1126
 
 

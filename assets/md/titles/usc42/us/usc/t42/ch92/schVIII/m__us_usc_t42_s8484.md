@@ -57,7 +57,7 @@
 
         (3) An electric utility may amend any approved plan, except that the plan as amended shall be subject to approval in accordance with paragraph (1).
 
-([Pub. L. 95–620, title VIII, § 808][/us/pl/95/620/s808], as added [Pub. L. 97–35, title X, § 1023(a)][/us/pl/97/35/s1023/a], Aug. 13, 1981, [95 Stat. 616][/us/stat/95/616].)
+([Pub. L. 95–620, title VIII][/us/pl/95/620/tVIII], § 808, as added [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1023(a), Aug. 13, 1981, [95 Stat. 616][/us/stat/95/616].)
 
  __References in Text__ 
 
@@ -75,8 +75,8 @@
 ----------
 
 [/us/usc/t42/s8211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8211
-[/us/pl/95/620/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs808
-[/us/pl/97/35/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1023%2Fa
+[/us/pl/95/620/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVIII
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F616
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/stat/92/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3208

@@ -17,7 +17,7 @@
 
     The President may, to the extent not inconsistent with any other applicable law, direct that appropriate support functions of the Federal Government may be made available to the Institute in carrying out its functions under this chapter.
 
-([Pub. L. 98–620, title II, § 210][/us/pl/98/620/s210], Nov. 8, 1984, [98 Stat. 3344][/us/stat/98/3344].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 210, Nov. 8, 1984, [98 Stat. 3344][/us/stat/98/3344].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs210
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3344
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336

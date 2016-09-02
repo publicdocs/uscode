@@ -35,7 +35,7 @@
 
         For purposes of subsection (a), the Administrator of Federal 1 Emergency Management Agency shall define the size of a population group.
 
-([Pub. L. 93–288, title VI, § 616][/us/pl/93/288/s616], as added [Pub. L. 109–295, title VI, § 689e][/us/pl/109/295/s689e], Oct. 4, 2006, [120 Stat. 1452][/us/stat/120/1452]; amended [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 616, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689e, Oct. 4, 2006, [120 Stat. 1452][/us/stat/120/1452]; amended [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __Amendments__ 
 
@@ -49,10 +49,10 @@
 ----------
 
 [/us/usc/t42/s5151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5151%2Fa
-[/us/pl/93/288/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs616
-[/us/pl/109/295/s689e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689e
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1452
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 

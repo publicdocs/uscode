@@ -43,13 +43,13 @@
 
         There are authorized to be appropriated such sums as may be necessary for the purpose of carrying out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399R, as added [Pub. L. 110–275, title I, § 152(a)][/us/pl/110/275/s152/a], July 15, 2008, [122 Stat. 2551][/us/stat/122/2551].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399R, as added [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 152(a), July 15, 2008, [122 Stat. 2551][/us/stat/122/2551].)
 
  __Codification__ 
 
-    Another section 399R of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 110–373, § 2][/us/pl/110/373/s2], Oct. 8, 2008, [122 Stat. 4047][/us/stat/122/4047], was renumbered section 399S and is classified to [section 280g–7 of this title][/us/usc/t42/s280g–7].
+    Another section 399R of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 110–373][/us/pl/110/373], § 2, Oct. 8, 2008, [122 Stat. 4047][/us/stat/122/4047], was renumbered section 399S and is classified to [section 280g–7 of this title][/us/usc/t42/s280g–7].
 
-    Another section 399R of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 110–374, § 3][/us/pl/110/374/s3], Oct. 8, 2008, [122 Stat. 4051][/us/stat/122/4051], was renumbered section 399T and is classified to [section 280g–8 of this title][/us/usc/t42/s280g–8].
+    Another section 399R of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 110–374][/us/pl/110/374], § 3, Oct. 8, 2008, [122 Stat. 4051][/us/stat/122/4051], was renumbered section 399T and is classified to [section 280g–8 of this title][/us/usc/t42/s280g–8].
 
 ----------
 
@@ -59,14 +59,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/275/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs152%2Fa
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2551
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/373/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F373%2Fs2
+[/us/pl/110/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F373
 [/us/stat/122/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4047
 [/us/usc/t42/s280g–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%937
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/374/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F374%2Fs3
+[/us/pl/110/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F374
 [/us/stat/122/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4051
 [/us/usc/t42/s280g–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%938
 

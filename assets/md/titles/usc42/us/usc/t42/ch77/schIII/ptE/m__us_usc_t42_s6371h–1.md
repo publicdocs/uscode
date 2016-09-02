@@ -317,7 +317,7 @@
 
             There is authorized to be appropriated for the initial cost of direct loans authorized in subsection (g) $500,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
 
-([Pub. L. 94–163, title III, § 399A][/us/pl/94/163/s399A], as added [Pub. L. 110–140, title IV, § 471][/us/pl/110/140/s471], Dec. 19, 2007, [121 Stat. 1642][/us/stat/121/1642].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 399A, as added [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 471, Dec. 19, 2007, [121 Stat. 1642][/us/stat/121/1642].)
 
  __References in Text__ 
 
@@ -339,8 +339,8 @@
 [/us/usc/t2/s661c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661c
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/94/163/s399A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs399A
-[/us/pl/110/140/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs471
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1642
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

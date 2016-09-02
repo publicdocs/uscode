@@ -23,7 +23,7 @@
 
         The issuance of a license under this chapter shall not be admissible in any way as a defense to any civil or criminal action for violation of the antitrust laws of the United States, nor shall it in any way modify or abridge any private right of action under such laws. Nothing in this section shall be construed to bar the Attorney General or the Federal Trade Commission from challenging any anticompetitive situation involved in the ownership, construction, or operation of an ocean thermal energy conversion facility or plantship.
 
-([Pub. L. 96–320, title I, § 104][/us/pl/96/320/s104], Aug. 3, 1980, [94 Stat. 983][/us/stat/94/983].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 104, Aug. 3, 1980, [94 Stat. 983][/us/stat/94/983].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs104
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F983
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

@@ -135,11 +135,11 @@
 
             The term “specified housing” means a public housing project or projects, or a portion of a project or projects, for which the transfer of management is requested under this section. The term includes one or more contiguous buildings and an area of contiguous row houses, but in the case of a single building, the building shall be sufficiently separable from the remainder of the project of which it is part to make transfer of the management of the building feasible for purposes of this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 25, as added [Pub. L. 105–276, title V, § 534][/us/pl/105/276/s534], Oct. 21, 1998, [112 Stat. 2579][/us/stat/112/2579].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 25, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 534, Oct. 21, 1998, [112 Stat. 2579][/us/stat/112/2579].)
 
  __Prior Provisions__ 
 
-    A prior section 1437w, [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 25, as added [Pub. L. 102–550, title I, § 121(b)][/us/pl/102/550/s121/b], Oct. 28, 1992, [106 Stat. 3701][/us/stat/106/3701]; amended [Pub. L. 104–330, title V, § 501(b)(10)][/us/pl/104/330/s501/b/10], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042], known as the Choice in Public Housing Management Act of 1992, related to choice in public housing management, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276], §§ 503, 534, Oct. 21, 1998, [112 Stat. 2521][/us/stat/112/2521], 2579, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement repeal before such date, and with savings provision.
+    A prior section 1437w, [act Sept. 1, 1937, ch. 896, title I][/us/act/1937-09-01/ch896/tI], § 25, as added [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 121(b), Oct. 28, 1992, [106 Stat. 3701][/us/stat/106/3701]; amended [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(10), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042], known as the Choice in Public Housing Management Act of 1992, related to choice in public housing management, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276/tV], §§ 503, 534, Oct. 21, 1998, [112 Stat. 2521][/us/stat/112/2521], 2579, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement repeal before such date, and with savings provision.
 
  __Effective Date__ 
 
@@ -157,14 +157,14 @@
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs534
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2579
-[/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/102/550/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs121%2Fb
+[/us/act/1937-09-01/ch896/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896%2FtI
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3701
-[/us/pl/104/330/s501/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F10
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2521
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

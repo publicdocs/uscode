@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make grants and to provide technical assistance to public and nonprofit private entities to establish and operate transitional living youth projects for homeless youth.
 
-([Pub. L. 93–415, title III, § 321][/us/pl/93/415/s321], as added [Pub. L. 100–690, title VII, § 7273(f)][/us/pl/100/690/s7273/f], Nov. 18, 1988, [102 Stat. 4455][/us/stat/102/4455]; amended [Pub. L. 106–71, § 3(e)][/us/pl/106/71/s3/e], Oct. 12, 1999, [113 Stat. 1038][/us/stat/113/1038].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 321, as added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7273(f), Nov. 18, 1988, [102 Stat. 4455][/us/stat/102/4455]; amended [Pub. L. 106–71][/us/pl/106/71], § 3(e), Oct. 12, 1999, [113 Stat. 1038][/us/stat/113/1038].)
 
  __Prior Provisions__ 
 
@@ -33,7 +33,7 @@
 
  __Study of Housing Services and Strategies__ 
 
-[Pub. L. 108–96, title I, § 119][/us/pl/108/96/s119], Oct. 10, 2003, [117 Stat. 1170][/us/stat/117/1170], provided that: 
+[Pub. L. 108–96, title I][/us/pl/108/96/tI], § 119, Oct. 10, 2003, [117 Stat. 1170][/us/stat/117/1170], provided that: 
 
 > “The Secretary of Health and Human Services shall conduct a study of programs funded under part B of the Runaway and Homeless Youth Act ([42 U.S.C. 5714–1][/us/usc/t42/s5714–1] et seq.) to report on long-term housing outcomes for youth after exiting the program. The study of any such program should provide information on housing services available to youth upon exiting the program, including assistance in locating and retaining permanent housing and referrals to other residential programs. In addition, the study should identify housing models and placement strategies that prevent future episodes of homelessness.”
 
@@ -44,17 +44,17 @@
 ----------
 ----------
 
-[/us/pl/93/415/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs321
-[/us/pl/100/690/s7273/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7273%2Ff
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4455
-[/us/pl/106/71/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fe
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1038
 [/us/pl/93/415/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs321
 [/us/usc/t42/s5731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5731
 [/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/108/96/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs119
+[/us/pl/108/96/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtI
 [/us/stat/117/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1170
 [/us/usc/t42/s5714–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5714%E2%80%931
 

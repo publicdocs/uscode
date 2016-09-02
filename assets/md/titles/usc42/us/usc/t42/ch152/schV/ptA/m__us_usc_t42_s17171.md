@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $5,000,000 for fiscal year 2008, $7,000,000 for fiscal year 2009, $9,000,000 for fiscal year 2010, $10,000,000 for fiscal year 2011, and $12,000,000 for fiscal year 2012.
 
-([Pub. L. 110–140, title VI, § 602][/us/pl/110/140/s602], Dec. 19, 2007, [121 Stat. 1674][/us/stat/121/1674].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 602, Dec. 19, 2007, [121 Stat. 1674][/us/stat/121/1674].)
 
  __Short Title__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs602
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1674
 [/us/usc/t42/s17001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17001
 

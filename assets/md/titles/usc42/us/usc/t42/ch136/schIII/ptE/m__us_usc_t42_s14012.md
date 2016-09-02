@@ -65,7 +65,7 @@
 
         There are authorized to be appropriated to carry out the study required by this section—$200,000 for fiscal year 1996.
 
-([Pub. L. 103–322, title IV, § 40506][/us/pl/103/322/s40506], Sept. 13, 1994, [108 Stat. 1948][/us/stat/108/1948].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40506, Sept. 13, 1994, [108 Stat. 1948][/us/stat/108/1948].)
 
  __References in Text__ 
 
@@ -82,7 +82,7 @@
 [/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
-[/us/pl/103/322/s40506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40506
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1948
 [/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
 [/us/stat/104/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2381

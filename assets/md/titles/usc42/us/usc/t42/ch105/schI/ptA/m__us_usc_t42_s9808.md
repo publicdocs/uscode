@@ -23,7 +23,7 @@
 
     (b) Property acquired as a result of capital investments made by any community development corporation with funds granted as its Federal share of the cost of programs carried out under this subchapter, and the proceeds from such property, shall become the property of the community development corporation and shall not be considered to be Federal property. The Federal Government retains the right to direct that on severance of the grant relationship the assets purchased with grant funds shall continue to be used for the original purpose for which they were granted.
 
-([Pub. L. 97–35, title VI, § 619][/us/pl/97/35/s619], Aug. 13, 1981, [95 Stat. 493][/us/stat/95/493].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 619, Aug. 13, 1981, [95 Stat. 493][/us/stat/95/493].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s9807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9807%2Fa
-[/us/pl/97/35/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs619
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F493
 
 

@@ -151,13 +151,13 @@
 
             (C) any ownership rights of the Secretary, as applicable, in notes, certificates, or other obligations guaranteed under this section, or constituting the trust or pool against which trust certificates, or other obligations guaranteed under this section, are offered.
 
-([Pub. L. 93–383, title I, § 108][/us/pl/93/383/s108], Aug. 22, 1974, [88 Stat. 647][/us/stat/88/647]; [Pub. L. 95–128, title I, § 108][/us/pl/95/128/s108], Oct. 12, 1977, [91 Stat. 1123][/us/stat/91/1123]; [Pub. L. 96–399, title I, § 108][/us/pl/96/399/s108], Oct. 8, 1980, [94 Stat. 1619][/us/stat/94/1619]; [Pub. L. 97–35, title III, § 309(i)][/us/pl/97/35/s309/i], Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 108\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168]; [Pub. L. 98–479, title II][/us/pl/98/479], §§ 203(l)(2), 204(k)(1), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231], 2233; [Pub. L. 99–272, title III, § 3002(a)][/us/pl/99/272/s3002/a], Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102]; [Pub. L. 100–242, title V, § 514][/us/pl/100/242/s514], Feb. 5, 1988, [101 Stat. 1930][/us/stat/101/1930]; [Pub. L. 101–625, title IX][/us/pl/101/625], §§ 901(b), 910(b)–(g), Nov. 28, 1990, [104 Stat. 4385][/us/stat/104/4385], 4389–4391; [Pub. L. 102–550, title VIII, § 801(b)][/us/pl/102/550/s801/b], Oct. 28, 1992, [106 Stat. 3843][/us/stat/106/3843]; [Pub. L. 103–233, title II][/us/pl/103/233], §§ 231, 232(a)(1), 233, Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366], 368; [Pub. L. 104–120, § 3(b)][/us/pl/104/120/s3/b], Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 108, Aug. 22, 1974, [88 Stat. 647][/us/stat/88/647]; [Pub. L. 95–128, title I][/us/pl/95/128/tI], § 108, Oct. 12, 1977, [91 Stat. 1123][/us/stat/91/1123]; [Pub. L. 96–399, title I][/us/pl/96/399/tI], § 108, Oct. 8, 1980, [94 Stat. 1619][/us/stat/94/1619]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 309(i), Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 108\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], §§ 203(l)(2), 204(k)(1), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231], 2233; [Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3002(a), Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 514, Feb. 5, 1988, [101 Stat. 1930][/us/stat/101/1930]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], §§ 901(b), 910(b)–(g), Nov. 28, 1990, [104 Stat. 4385][/us/stat/104/4385], 4389–4391; [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], § 801(b), Oct. 28, 1992, [106 Stat. 3843][/us/stat/106/3843]; [Pub. L. 103–233, title II][/us/pl/103/233/tII], §§ 231, 232(a)(1), 233, Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366], 368; [Pub. L. 104–120][/us/pl/104/120], § 3(b), Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835].)
 
  __References in Text__ 
 
-    Section 1437o of this title, referred to in subsec. (a)(4), was repealed by [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    Section 1437o of this title, referred to in subsec. (a)(4), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
-    Title VI of the Housing Community Development Act of 1987, referred to in subsec. (a)(4), is title VI of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1951][/us/stat/101/1951], which was set out as a note under section 1715l of Title 12, Banks and Banking, and was repealed by [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    Title VI of the Housing Community Development Act of 1987, referred to in subsec. (a)(4), is title VI of [Pub. L. 100–242][/us/pl/100/242], Feb. 5, 1988, [101 Stat. 1951][/us/stat/101/1951], which was set out as a note under section 1715l of Title 12, Banks and Banking, and was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
     Section 916 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(6), is [section 916 of Pub. L. 101–625][/us/pl/101/625/s916], which is set out as a note under [section 5306 of this title][/us/usc/t42/s5306].
 
@@ -165,7 +165,7 @@
 
  __Codification__ 
 
-    Subsec. (i) of this section amended section 711(22) of former Title 31, Money and Finance. Subsec. (i) was originally enacted as subsec. (f) of this section, and was redesignated as subsec. (i) by [Pub. L. 95–128, § 108(2)][/us/pl/95/128/s108/2].
+    Subsec. (i) of this section amended section 711(22) of former Title 31, Money and Finance. Subsec. (i) was originally enacted as subsec. (f) of this section, and was redesignated as subsec. (i) by [Pub. L. 95–128][/us/pl/95/128], § 108(2).
 
     November 28, 1990, referred to in subsec. (p)(1), was in the original “the date of the enactment of the Housing and Community Development Act of 1990”, and was translated as meaning the date of enactment of the Cranston-Gonzalez National Affordable Housing Act, [Pub. L. 101–625][/us/pl/101/625], which enacted subsec. (p) of this section, to reflect the probable intent of Congress and because no “Housing and Community Development Act of 1990” has been enacted.
 
@@ -173,77 +173,77 @@
 
     1996—Subsec. (k)(1). [Pub. L. 104–120][/us/pl/104/120] substituted “$4,500,000,000” for “$3,500,000,000”.
 
-    1994—Subsec. (a). [Pub. L. 103–233, § 231][/us/pl/103/233/s231], added cls. (5) and (6).
+    1994—Subsec. (a). [Pub. L. 103–233][/us/pl/103/233], § 231, added cls. (5) and (6).
 
-    Subsec. (q). [Pub. L. 103–233, § 232(a)(1)][/us/pl/103/233/s232/a/1], added subsec. (q).
+    Subsec. (q). [Pub. L. 103–233][/us/pl/103/233], § 232(a)(1), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 103–233, § 233][/us/pl/103/233/s233], added subsec. (r).
+    Subsec. (r). [Pub. L. 103–233][/us/pl/103/233], § 233, added subsec. (r).
 
     1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550] amended fifth sentence generally. Prior to amendment, fifth sentence read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities and to the authority provided in this section, to the extent approved or provided in appropriation Acts, the Secretary shall enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount of $300,000,000 during fiscal year 1991 and $300,000,000 during fiscal year 1992.”
 
-    1990—Subsec. (a). [Pub. L. 101–625, § 910(e)(1)][/us/pl/101/625/s910/e/1], inserted at end “Of the amount approved in any appropriation Act for guarantees under this section in any fiscal year, the Secretary shall allocate 70 percent for guarantees for metropolitan cities, urban counties, and Indian tribes and 30 percent for guarantees for units of general local government in nonentitlement areas. The Secretary may waive the percentage requirements of the preceding sentence in any fiscal year only to the extent that there is an absence of qualified applicants or proposed activities from metropolitan cities, urban counties, and Indian tribes or units of general local government in nonentitlement areas.”
+    1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625], § 910(e)(1), inserted at end “Of the amount approved in any appropriation Act for guarantees under this section in any fiscal year, the Secretary shall allocate 70 percent for guarantees for metropolitan cities, urban counties, and Indian tribes and 30 percent for guarantees for units of general local government in nonentitlement areas. The Secretary may waive the percentage requirements of the preceding sentence in any fiscal year only to the extent that there is an absence of qualified applicants or proposed activities from metropolitan cities, urban counties, and Indian tribes or units of general local government in nonentitlement areas.”
 
-    [Pub. L. 101–625, § 910(c)][/us/pl/101/625/s910/c], inserted “The Secretary may not deny a guarantee under this section on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk.”
+    [Pub. L. 101–625][/us/pl/101/625], § 910(c), inserted “The Secretary may not deny a guarantee under this section on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk.”
 
-    [Pub. L. 101–625, § 910(b)(2)][/us/pl/101/625/s910/b/2], substituted a semicolon for “; or” before “(3)” and added cl. (4).
+    [Pub. L. 101–625][/us/pl/101/625], § 910(b)(2), substituted a semicolon for “; or” before “(3)” and added cl. (4).
 
-    [Pub. L. 101–625, § 910(b)(1)(A)][/us/pl/101/625/s910/b/1/A], substituted “eligible public entity” and “eligible public entities” for “unit of general local government” and “units of general local government”, respectively, wherever appearing.
+    [Pub. L. 101–625][/us/pl/101/625], § 910(b)(1)(A), substituted “eligible public entity” and “eligible public entities” for “unit of general local government” and “units of general local government”, respectively, wherever appearing.
 
-    [Pub. L. 101–625, § 901(b)][/us/pl/101/625/s901/b], amended last sentence generally. Prior to amendment, last sentence read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities, to the authority provided in this section, and to any funding limitation approved in appropriation Acts, the Secretary shall enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount of $150,000,000 during fiscal year 1988, and $153,000,000 during fiscal year 1989.”
+    [Pub. L. 101–625][/us/pl/101/625], § 901(b), amended last sentence generally. Prior to amendment, last sentence read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities, to the authority provided in this section, and to any funding limitation approved in appropriation Acts, the Secretary shall enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount of $150,000,000 during fiscal year 1988, and $153,000,000 during fiscal year 1989.”
 
-    Subsec. (b). [Pub. L. 101–625, § 910(d)][/us/pl/101/625/s910/d], inserted “(excluding any amount defeased under the contract entered into under subsection (d)(1)(A) of this section)” after “this section”, substituted “5” for “three”, and inserted reference to [section 5307 of this title][/us/usc/t42/s5307].
+    Subsec. (b). [Pub. L. 101–625][/us/pl/101/625], § 910(d), inserted “(excluding any amount defeased under the contract entered into under subsection (d)(1)(A) of this section)” after “this section”, substituted “5” for “three”, and inserted reference to [section 5307 of this title][/us/usc/t42/s5307].
 
-    Subsec. (d). [Pub. L. 101–625, § 910(b)(4)(A)][/us/pl/101/625/s910/b/4/A], designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+    Subsec. (d). [Pub. L. 101–625][/us/pl/101/625], § 910(b)(4)(A), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-    Subsec. (e). [Pub. L. 101–625, § 910(b)(4)(B)][/us/pl/101/625/s910/b/4/B], substituted “paragraphs (1)(B) and (2) of subsection (d)” for “subsection (d)(2)”.
+    Subsec. (e). [Pub. L. 101–625][/us/pl/101/625], § 910(b)(4)(B), substituted “paragraphs (1)(B) and (2) of subsection (d)” for “subsection (d)(2)”.
 
-    Subsec. (h). [Pub. L. 101–625, § 910(f)][/us/pl/101/625/s910/f], inserted at end “The Secretary may also, to the extent approved in appropriation Acts, assist the issuer of a note or other obligation guaranteed under this section in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.”
+    Subsec. (h). [Pub. L. 101–625][/us/pl/101/625], § 910(f), inserted at end “The Secretary may also, to the extent approved in appropriation Acts, assist the issuer of a note or other obligation guaranteed under this section in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.”
 
-    [Pub. L. 101–625, § 910(b)(1)][/us/pl/101/625/s910/b/1], substituted “entity or agency” for “unit or agency” and “eligible public entity” for “unit of general local government”.
+    [Pub. L. 101–625][/us/pl/101/625], § 910(b)(1), substituted “entity or agency” for “unit or agency” and “eligible public entity” for “unit of general local government”.
 
-    Subsec. (j). [Pub. L. 101–625, § 910(b)(1)(A)][/us/pl/101/625/s910/b/1/A], substituted “eligible public entity” for “unit of general local government”.
+    Subsec. (j). [Pub. L. 101–625][/us/pl/101/625], § 910(b)(1)(A), substituted “eligible public entity” for “unit of general local government”.
 
-    Subsec. (k). [Pub. L. 101–625, § 910(e)(2)][/us/pl/101/625/s910/e/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (k). [Pub. L. 101–625][/us/pl/101/625], § 910(e)(2), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (n). [Pub. L. 101–625, § 910(b)(3)][/us/pl/101/625/s910/b/3], added subsec. (n).
+    Subsec. (n). [Pub. L. 101–625][/us/pl/101/625], § 910(b)(3), added subsec. (n).
 
-    Subsec. (o). [Pub. L. 101–625, § 910(b)(5)][/us/pl/101/625/s910/b/5], added subsec. (o).
+    Subsec. (o). [Pub. L. 101–625][/us/pl/101/625], § 910(b)(5), added subsec. (o).
 
-    Subsec. (p). [Pub. L. 101–625, § 910(g)][/us/pl/101/625/s910/g], added subsec. (p).
+    Subsec. (p). [Pub. L. 101–625][/us/pl/101/625], § 910(g), added subsec. (p).
 
-    1988—Subsec. (a). [Pub. L. 100–242, § 514(c)][/us/pl/100/242/s514/c], in first sentence inserted cl. (1) designation and added cls. (2) and (3).
+    1988—Subsec. (a). [Pub. L. 100–242][/us/pl/100/242], § 514(c), in first sentence inserted cl. (1) designation and added cls. (2) and (3).
 
-    [Pub. L. 100–242, § 514(a)][/us/pl/100/242/s514/a], in last sentence struck out “during fiscal year 1984” after “commitment” and substituted “$150,000,000 during fiscal year 1988, and $153,000,000 during fiscal year 1989” for “$225,000,000”.
+    [Pub. L. 100–242][/us/pl/100/242], § 514(a), in last sentence struck out “during fiscal year 1984” after “commitment” and substituted “$150,000,000 during fiscal year 1988, and $153,000,000 during fiscal year 1989” for “$225,000,000”.
 
-    Subsec. (m). [Pub. L. 100–242, § 514(b)][/us/pl/100/242/s514/b], added subsec. (m).
+    Subsec. (m). [Pub. L. 100–242][/us/pl/100/242], § 514(b), added subsec. (m).
 
     1986—Subsec. (l). [Pub. L. 99–272][/us/pl/99/272] added subsec. (l).
 
-    1984—Subsec. (g). [Pub. L. 98–479, § 203][/us/pl/98/479/s203](l)(2), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as now or hereafter in force” and “such chapter” for “such Act”.
+    1984—Subsec. (g). [Pub. L. 98–479][/us/pl/98/479], § 203(l)(2), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as now or hereafter in force” and “such chapter” for “such Act”.
 
-    Subsec. (h). [Pub. L. 98–479, § 204(k)(1)][/us/pl/98/479/s204/k/1], substituted “subsection (j)” for “subsection (g)”.
+    Subsec. (h). [Pub. L. 98–479][/us/pl/98/479], § 204(k)(1), substituted “subsection (j)” for “subsection (g)”.
 
     1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181] inserted provision that a guarantee under this section may be used to assist a grantee in obtaining financing only if the grantee has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee, and substituted provisions requiring the Secretary to enter into commitments during fiscal year 1984 to guarantee notes and obligations under this section with an aggregate principal amount of $225,000,000, notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities, for provisions prohibiting the Secretary from entering into commitments during fiscal year 1981 to guarantee under this section notes and other obligations with an aggregate principal amount in excess of $300,000,000.
 
     1981—Subsec. (d)(2). [Pub. L. 97–35][/us/pl/97/35] struck out “approved or” after “grant”.
 
-    1980—Subsec. (a). [Pub. L. 96–399, § 108(1)][/us/pl/96/399/s108/1], (2), inserted provision respecting amounts as provided in appropriation Acts, and provision relating to limitation of $300,000,000 the amount the Secretary is authorized to guarantee during fiscal year 1981.
+    1980—Subsec. (a). [Pub. L. 96–399][/us/pl/96/399], § 108(1), (2), inserted provision respecting amounts as provided in appropriation Acts, and provision relating to limitation of $300,000,000 the amount the Secretary is authorized to guarantee during fiscal year 1981.
 
-    Subsec. (j). [Pub. L. 96–399, § 108(3)][/us/pl/96/399/s108/3], struck out “Notwithstanding any other provision of this section” before “The total amount”.
+    Subsec. (j). [Pub. L. 96–399][/us/pl/96/399], § 108(3), struck out “Notwithstanding any other provision of this section” before “The total amount”.
 
-    1977—Subsec. (a). [Pub. L. 95–128, § 108(1)][/us/pl/95/128/s108/1], (3), reenacted substantially existing provisions and struck out “or assembly” after “acquisition of”, included rehabilitation of real property owned by the unit of general local government, inserted provision respecting form, denominations, maturities, and conditions of notes or other obligations to be guaranteed, and struck out after parenthetical text “to serve or be used in carrying out activities which are eligible for assistance under [section 5305 of this title][/us/usc/t42/s5305] and are identified in the application under [section 5304 of this title][/us/usc/t42/s5304], and with respect to which grants have been or are to be made under [section 5303 of this title][/us/usc/t42/s5303], but no such guarantee shall be issued in behalf of any agency designed to benefit, in or by the flotation of any issue, a private individual or corporation”.
+    1977—Subsec. (a). [Pub. L. 95–128][/us/pl/95/128], § 108(1), (3), reenacted substantially existing provisions and struck out “or assembly” after “acquisition of”, included rehabilitation of real property owned by the unit of general local government, inserted provision respecting form, denominations, maturities, and conditions of notes or other obligations to be guaranteed, and struck out after parenthetical text “to serve or be used in carrying out activities which are eligible for assistance under [section 5305 of this title][/us/usc/t42/s5305] and are identified in the application under [section 5304 of this title][/us/usc/t42/s5304], and with respect to which grants have been or are to be made under [section 5303 of this title][/us/usc/t42/s5303], but no such guarantee shall be issued in behalf of any agency designed to benefit, in or by the flotation of any issue, a private individual or corporation”.
 
-    Subsec. (b). [Pub. L. 95–128, § 108(1)][/us/pl/95/128/s108/1], (3), added subsec. (b) and struck out prior provisions respecting: reservation and withholding of prescribed amount for purpose of paying guaranteed obligations, subject to being increased because of any unanticipated, major reduction in estimated disposition proceeds; pledge of full faith and credit of unit of general local government to the Secretary for repayment of any amount required to be paid by the United States pursuant to any guarantee; and pledge of repayment of proceeds of grants in event of failure of repayment as hereinbefore provided.
+    Subsec. (b). [Pub. L. 95–128][/us/pl/95/128], § 108(1), (3), added subsec. (b) and struck out prior provisions respecting: reservation and withholding of prescribed amount for purpose of paying guaranteed obligations, subject to being increased because of any unanticipated, major reduction in estimated disposition proceeds; pledge of full faith and credit of unit of general local government to the Secretary for repayment of any amount required to be paid by the United States pursuant to any guarantee; and pledge of repayment of proceeds of grants in event of failure of repayment as hereinbefore provided.
 
-    Subsecs. (c) to (e). [Pub. L. 95–128, § 108(3)][/us/pl/95/128/s108/3], added subsecs. (c) to (e). Former subsecs. (c) to (e) redesignated (f) to (h).
+    Subsecs. (c) to (e). [Pub. L. 95–128][/us/pl/95/128], § 108(3), added subsecs. (c) to (e). Former subsecs. (c) to (e) redesignated (f) to (h).
 
-    Subsecs. (f), (g). [Pub. L. 95–128, § 108(2)][/us/pl/95/128/s108/2], redesig­nated former subsecs. (c) and (d) as (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 95–128][/us/pl/95/128], § 108(2), redesig­nated former subsecs. (c) and (d) as (f) and (g).
 
-    Subsec. (h). [Pub. L. 95–128, § 108(2)][/us/pl/95/128/s108/2], (4), (5), redesignated former subsec. (e) as (h) and substituted in first sentence “subsection (j)” for “subsection (g)”; substituted in first sentence “shall” for “may, at the option of the issuing unit of general local government or designated agency,”; and in second sentence “The Secretary is authorized to make, and to contract to make, grants, in such amounts as may be approved in appropriations Acts,” for “In the event that taxable obligations are issued and guaranteed, the Secretary is authorized to make, and to contract to make, grants”.
+    Subsec. (h). [Pub. L. 95–128][/us/pl/95/128], § 108(2), (4), (5), redesignated former subsec. (e) as (h) and substituted in first sentence “subsection (j)” for “subsection (g)”; substituted in first sentence “shall” for “may, at the option of the issuing unit of general local government or designated agency,”; and in second sentence “The Secretary is authorized to make, and to contract to make, grants, in such amounts as may be approved in appropriations Acts,” for “In the event that taxable obligations are issued and guaranteed, the Secretary is authorized to make, and to contract to make, grants”.
 
-    Subsec. (j). [Pub. L. 95–128, § 108(2)][/us/pl/95/128/s108/2], (6), redesignated former subsec. (g) as (j) and substituted “is guaranteed pursuant to” for “such unit or agency has elected to issue as a taxable obligation pursuant to subsection (e) of”.
+    Subsec. (j). [Pub. L. 95–128][/us/pl/95/128], § 108(2), (6), redesignated former subsec. (g) as (j) and substituted “is guaranteed pursuant to” for “such unit or agency has elected to issue as a taxable obligation pursuant to subsection (e) of”.
 
-    Subsec. (k). [Pub. L. 95–128, § 108(7)][/us/pl/95/128/s108/7], added subsec. (k).
+    Subsec. (k). [Pub. L. 95–128][/us/pl/95/128], § 108(7), added subsec. (k).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -255,7 +255,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title III, § 3002(b)][/us/pl/99/272/s3002/b], Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102], provided that: 
+[Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3002(b), Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1986.”
 
@@ -273,7 +273,7 @@
 
  __Regulations__ 
 
-[Pub. L. 101–625, title IX, § 910(i)][/us/pl/101/625/s910/i], Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392], provided that: 
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 910(i), Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392], provided that: 
 
 > “To carry out the amendments made by this section \[amending this section and [section 5313 of this title][/us/usc/t42/s5313]\], the Secretary of Housing and Urban Development shall—
 
@@ -283,7 +283,7 @@
 
  __Community Development Loan Guarantees__ 
 
-[Pub. L. 101–625, title IX, § 910(a)][/us/pl/101/625/s910/a], Nov. 28, 1990, [104 Stat. 4389][/us/stat/104/4389], provided that:
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 910(a), Nov. 28, 1990, [104 Stat. 4389][/us/stat/104/4389], provided that:
 
 >     “(1)  __Purposes__  __.—__ 
 
@@ -305,7 +305,7 @@
 
  __Administrative Actions for Provision of Private Sector Financing of Guaranteed Loans__ 
 
-[Pub. L. 99–272, title III, § 3002(c)][/us/pl/99/272/s3002/c], Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102], provided that: 
+[Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3002(c), Apr. 7, 1986, [100 Stat. 102][/us/stat/100/102], provided that: 
 
 > “The Secretary of Housing and Urban Development shall take such administrative actions as are necessary to provide by the effective date of subsection (a) \[July 1, 1986\] private sector financing of loans guaranteed under section 108 of the Housing and Community Development Act of 1974 \[this section\].”
 
@@ -321,90 +321,90 @@
 [/us/usc/t42/s5306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fd
 [/us/usc/t42/s5306/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fd%2F2%2FA
 [/us/usc/t42/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5307
-[/us/pl/93/383/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs108
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F647
-[/us/pl/95/128/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108
+[/us/pl/95/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtI
 [/us/stat/91/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1123
-[/us/pl/96/399/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs108
+[/us/pl/96/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtI
 [/us/stat/94/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1619
-[/us/pl/97/35/s309/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs309%2Fi
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F397
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1168
-[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2231
-[/us/pl/99/272/s3002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3002%2Fa
+[/us/pl/99/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIII
 [/us/stat/100/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F102
-[/us/pl/100/242/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs514
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1930
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4385
-[/us/pl/102/550/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs801%2Fb
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3843
-[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F366
-[/us/pl/104/120/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs3%2Fb
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F835
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1951
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/101/625/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs916
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
-[/us/pl/95/128/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F2
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
-[/us/pl/103/233/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs231
-[/us/pl/103/233/s232/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs232%2Fa%2F1
-[/us/pl/103/233/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/101/625/s910/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fe%2F1
-[/us/pl/101/625/s910/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fc
-[/us/pl/101/625/s910/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F2
-[/us/pl/101/625/s910/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F1%2FA
-[/us/pl/101/625/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs901%2Fb
-[/us/pl/101/625/s910/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fd
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5307
-[/us/pl/101/625/s910/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F4%2FA
-[/us/pl/101/625/s910/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F4%2FB
-[/us/pl/101/625/s910/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Ff
-[/us/pl/101/625/s910/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F1
-[/us/pl/101/625/s910/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F1%2FA
-[/us/pl/101/625/s910/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fe%2F2
-[/us/pl/101/625/s910/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F3
-[/us/pl/101/625/s910/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fb%2F5
-[/us/pl/101/625/s910/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fg
-[/us/pl/100/242/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs514%2Fc
-[/us/pl/100/242/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs514%2Fa
-[/us/pl/100/242/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs514%2Fb
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/98/479/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203
-[/us/pl/98/479/s204/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fk%2F1
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/96/399/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs108%2F1
-[/us/pl/96/399/s108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs108%2F3
-[/us/pl/95/128/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F1
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/usc/t42/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5305
 [/us/usc/t42/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5304
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
-[/us/pl/95/128/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F1
-[/us/pl/95/128/s108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F3
-[/us/pl/95/128/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F2
-[/us/pl/95/128/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F2
-[/us/pl/95/128/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F2
-[/us/pl/95/128/s108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs108%2F7
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/120/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs13%2Fa
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/pl/103/233/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs209
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/99/272/s3002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3002%2Fb
+[/us/pl/99/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIII
 [/us/stat/100/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F102
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/181/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs110%2Fb
@@ -415,14 +415,14 @@
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/95/128/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs114
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/101/625/s910/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fi
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4392
 [/us/usc/t42/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5313
-[/us/pl/101/625/s910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs910%2Fa
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4389
 [/us/usc/t42/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5313
 [/us/usc/t42/s5301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301%2Fc
-[/us/pl/99/272/s3002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3002%2Fc
+[/us/pl/99/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIII
 [/us/stat/100/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F102
 
 

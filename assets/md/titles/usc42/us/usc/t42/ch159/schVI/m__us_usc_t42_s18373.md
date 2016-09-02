@@ -17,7 +17,7 @@
 
     The Administrator shall undertake to implement, as appropriate, missions identified in the National Research Council’s Earth Science Decadal Survey within the scope of the funds authorized for the Earth Science Mission Directorate.
 
-([Pub. L. 111–267, title VII, § 704][/us/pl/111/267/s704], Oct. 11, 2010, [124 Stat. 2831][/us/stat/124/2831].)
+([Pub. L. 111–267, title VII][/us/pl/111/267/tVII], § 704, Oct. 11, 2010, [124 Stat. 2831][/us/stat/124/2831].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs704
+[/us/pl/111/267/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVII
 [/us/stat/124/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2831
 
 

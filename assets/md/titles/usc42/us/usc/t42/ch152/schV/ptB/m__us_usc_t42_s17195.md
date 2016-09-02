@@ -77,7 +77,7 @@
 
         No funds may be used under this section for the purpose of drilling new wells.
 
-([Pub. L. 110–140, title VI, § 616][/us/pl/110/140/s616], Dec. 19, 2007, [121 Stat. 1681][/us/stat/121/1681].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 616, Dec. 19, 2007, [121 Stat. 1681][/us/stat/121/1681].)
 
 ----------
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs616
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1681
 
 

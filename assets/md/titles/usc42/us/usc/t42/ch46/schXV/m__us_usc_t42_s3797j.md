@@ -17,7 +17,7 @@
 
     The Attorney General shall award grants to States and units of local government in accordance with this subchapter.
 
-([Pub. L. 90–351, title I, § 2801][/us/pl/90/351/s2801], as added [Pub. L. 106–561, § 2(c)(1)][/us/pl/106/561/s2/c/1], Dec. 21, 2000, [114 Stat. 2788][/us/stat/114/2788]; amended [Pub. L. 107–273, div. B, title V, § 5001(b)(1)][/us/pl/107/273/s5001/b/1], Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2801, as added [Pub. L. 106–561][/us/pl/106/561], § 2(c)(1), Dec. 21, 2000, [114 Stat. 2788][/us/stat/114/2788]; amended [Pub. L. 107–273, div. B, title V][/us/pl/107/273/dB/tV], § 5001(b)(1), Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2801
-[/us/pl/106/561/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs2%2Fc%2F1
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2788
-[/us/pl/107/273/s5001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F1
+[/us/pl/107/273/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtV
 [/us/stat/116/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1813
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 

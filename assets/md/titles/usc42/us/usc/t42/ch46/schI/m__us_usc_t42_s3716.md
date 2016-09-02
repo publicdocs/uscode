@@ -79,7 +79,7 @@
 
             There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2010, 2011, and 2012.
 
-([Pub. L. 111–84, div. E, § 4704][/us/pl/111/84/s4704], Oct. 28, 2009, [123 Stat. 2837][/us/stat/123/2837].)
+([Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4704, Oct. 28, 2009, [123 Stat. 2837][/us/stat/123/2837].)
 
  __Codification__ 
 
@@ -87,7 +87,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–84, div. E, § 4703(b)][/us/pl/111/84/s4703/b], Oct. 28, 2009, [123 Stat. 2836][/us/stat/123/2836], provided that: 
+[Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4703(b), Oct. 28, 2009, [123 Stat. 2836][/us/stat/123/2836], provided that: 
 
 > “In this division \[enacting this section and [section 3716a of this title][/us/usc/t42/s3716a] and sections 249 and 1389 of Title 18, Crimes and Criminal Procedure, amending [section 249 of Title 18][/us/usc/t18/s249], enacting provisions set out as notes under sections 1 and 249 of Title 18, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994, of Title 28, Judiciary and Judicial Procedure\]—
 
@@ -106,9 +106,9 @@
 ----------
 ----------
 
-[/us/pl/111/84/s4704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4704
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2837
-[/us/pl/111/84/s4703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4703%2Fb
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2836
 [/us/usc/t42/s3716a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3716a
 [/us/usc/t18/s249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs249

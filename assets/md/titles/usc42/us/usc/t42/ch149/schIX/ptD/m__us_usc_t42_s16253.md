@@ -73,7 +73,7 @@
 
         (2) such sums as are necessary for each of fiscal years 2007 through 2015.
 
-([Pub. L. 109–58, title IX, § 944][/us/pl/109/58/s944], Aug. 8, 2005, [119 Stat. 881][/us/stat/119/881]; [Pub. L. 113–79, title IX, § 9002(b)][/us/pl/113/79/s9002/b], Feb. 7, 2014, [128 Stat. 928][/us/stat/128/928].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 944, Aug. 8, 2005, [119 Stat. 881][/us/stat/119/881]; [Pub. L. 113–79, title IX][/us/pl/113/79/tIX], § 9002(b), Feb. 7, 2014, [128 Stat. 928][/us/stat/128/928].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 ----------
 
 [/us/usc/t7/s8102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8102%2Fb
-[/us/pl/109/58/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs944
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F881
-[/us/pl/113/79/s9002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fb
+[/us/pl/113/79/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIX
 [/us/stat/128/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F928
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 

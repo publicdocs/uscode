@@ -51,7 +51,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317Q, as added [Pub. L. 107–84, § 4][/us/pl/107/84/s4], Dec. 18, 2001, [115 Stat. 828][/us/stat/115/828]; amended [Pub. L. 110–361, § 3][/us/pl/110/361/s3], Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010]; [Pub. L. 113–166, § 3][/us/pl/113/166/s3], Sept. 26, 2014, [128 Stat. 1880][/us/stat/128/1880].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317Q, as added [Pub. L. 107–84][/us/pl/107/84], § 4, Dec. 18, 2001, [115 Stat. 828][/us/stat/115/828]; amended [Pub. L. 110–361][/us/pl/110/361], § 3, Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010]; [Pub. L. 113–166][/us/pl/113/166], § 3, Sept. 26, 2014, [128 Stat. 1880][/us/stat/128/1880].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Findings__ 
 
-[Pub. L. 107–84, § 2][/us/pl/107/84/s2], Dec. 18, 2001, [115 Stat. 823][/us/stat/115/823], provided that: 
+[Pub. L. 107–84][/us/pl/107/84], § 2, Dec. 18, 2001, [115 Stat. 823][/us/stat/115/823], provided that: 
 
 > “Congress makes the following findings:
 
@@ -99,7 +99,7 @@
 
  __Report to Congress__ 
 
-    [Pub. L. 107–84, § 6][/us/pl/107/84/s6], Dec. 18, 2001, [115 Stat. 829][/us/stat/115/829], which directed the Secretary of Health and Human Services to prepare and submit to appropriate committees of Congress a report concerning the implementation of [Pub. L. 107–84][/us/pl/107/84] not later than Jan. 1, 2003, and each Jan. 1 thereafter, was repealed by [Pub. L. 109–482, title I, § 104(b)(3)(H)][/us/pl/109/482/s104/b/3/H], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].
+    [Pub. L. 107–84][/us/pl/107/84], § 6, Dec. 18, 2001, [115 Stat. 829][/us/stat/115/829], which directed the Secretary of Health and Human Services to prepare and submit to appropriate committees of Congress a report concerning the implementation of [Pub. L. 107–84][/us/pl/107/84] not later than Jan. 1, 2003, and each Jan. 1 thereafter, was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(3)(H), Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].
 
 ----------
 
@@ -110,20 +110,20 @@
 
 [/us/usc/t42/s283g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283g%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/84/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs4
+[/us/pl/107/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84
 [/us/stat/115/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F828
-[/us/pl/110/361/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs3
+[/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
 [/us/stat/122/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4010
-[/us/pl/113/166/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs3
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
 [/us/stat/128/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1880
 [/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
 [/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
-[/us/pl/107/84/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs2
+[/us/pl/107/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84
 [/us/stat/115/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F823
-[/us/pl/107/84/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs6
+[/us/pl/107/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84
 [/us/stat/115/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F829
 [/us/pl/107/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84
-[/us/pl/109/482/s104/b/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F3%2FH
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3694
 
 

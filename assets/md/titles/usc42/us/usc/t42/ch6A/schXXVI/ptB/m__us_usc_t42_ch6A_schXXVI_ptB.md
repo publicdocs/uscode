@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–417, title I, § 102(a)(1)][/us/pl/109/417/s102/a/1], Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], inserted “All-Hazards” before “Emergency Preparedness” in heading.
+    2006—[Pub. L. 109–417, title I][/us/pl/109/417/tI], § 102(a)(1), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], inserted “All-Hazards” before “Emergency Preparedness” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/417/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F1
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2832
 
 

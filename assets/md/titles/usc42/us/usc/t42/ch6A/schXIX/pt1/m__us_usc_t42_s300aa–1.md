@@ -17,7 +17,7 @@
 
     The Secretary shall establish in the Department of Health and Human Services a National Vaccine Program to achieve optimal prevention of human infectious diseases through immunization and to achieve optimal prevention against adverse reactions to vaccines. The Program shall be administered by a Director selected by the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2101, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3756][/us/stat/100/3756].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2101, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3756][/us/stat/100/3756].)
 
  __Prior Provisions__ 
 
@@ -27,13 +27,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–660, title III, § 323][/us/pl/99/660/s323], Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784], as amended by [Pub. L. 100–203, title IV, § 4302(a)][/us/pl/100/203/s4302/a], Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221]; [Pub. L. 102–168, title II, § 201(a)][/us/pl/102/168/s201/a], Nov. 26, 1991, [105 Stat. 1102][/us/stat/105/1102], provided that: 
+[Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 323, Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784], as amended by [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4302(a), Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221]; [Pub. L. 102–168, title II][/us/pl/102/168/tII], § 201(a), Nov. 26, 1991, [105 Stat. 1102][/us/stat/105/1102], provided that: 
 
 > “Subtitle 1 of title XXI of the Public Health Service Act \[[42 U.S.C. 300aa–1][/us/usc/t42/s300aa–1] et seq.\] shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\] and parts A and B of subtitle 2 of such title \[[42 U.S.C. 300aa–10][/us/usc/t42/s300aa–10] et seq., 300aa–21 et seq.\] shall take effect on October 1, 1988 and parts C and D of such title \[[42 U.S.C. 300aa–25][/us/usc/t42/s300aa–25] et seq., 300aa–31 et seq.\] and this title \[probably means provisions of title III of [Pub. L. 99–660][/us/pl/99/660] other than those that enacted this subchapter and redesignated former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title; these other provisions amended sections 218, 242c, 262, 286, and 289f of this title and enacted provisions set out as notes under sections 201, 300aa–1, and 300aa–4 of this title\] shall take effect on the date of the enactment of the Vaccine Compensation Amendments of 1987 \[Dec. 22, 1987\].”
 
  __Severability__ 
 
-[Pub. L. 99–660, title III, § 322][/us/pl/99/660/s322], Nov. 14, 1986, [100 Stat. 3783][/us/stat/100/3783], as amended by [Pub. L. 101–239, title VI, § 6602][/us/pl/101/239/s6602], Dec. 19, 1989, [103 Stat. 2293][/us/stat/103/2293]; [Pub. L. 101–502, § 5(g)(1)][/us/pl/101/502/s5/g/1], Nov. 3, 1990, [104 Stat. 1288][/us/stat/104/1288], provided that:
+[Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 322, Nov. 14, 1986, [100 Stat. 3783][/us/stat/100/3783], as amended by [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6602, Dec. 19, 1989, [103 Stat. 2293][/us/stat/103/2293]; [Pub. L. 101–502][/us/pl/101/502], § 5(g)(1), Nov. 3, 1990, [104 Stat. 1288][/us/stat/104/1288], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -47,15 +47,15 @@
 
  __Evaluation of Program; Study and Report to Congress__ 
 
-    [Pub. L. 101–239, title VI, § 6601(t)][/us/pl/101/239/s6601/t], Dec. 19, 1989, [103 Stat. 2293][/us/stat/103/2293], as amended by [Pub. L. 102–168, title II, § 201(b)][/us/pl/102/168/s201/b], Nov. 26, 1991, [105 Stat. 1103][/us/stat/105/1103], directed the Secretary of Health and Human Services to evaluate the National Vaccine Injury Compensation Program under this subchapter and report results of such study to Committee on Energy and Commerce of House of Representatives and Committee on Labor and Human Resources of Senate not later than Jan. 1, 1993.
+    [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6601(t), Dec. 19, 1989, [103 Stat. 2293][/us/stat/103/2293], as amended by [Pub. L. 102–168, title II][/us/pl/102/168/tII], § 201(b), Nov. 26, 1991, [105 Stat. 1103][/us/stat/105/1103], directed the Secretary of Health and Human Services to evaluate the National Vaccine Injury Compensation Program under this subchapter and report results of such study to Committee on Energy and Commerce of House of Representatives and Committee on Labor and Human Resources of Senate not later than Jan. 1, 1993.
 
  __Related Studies__ 
 
-    [Pub. L. 99–660, title III, § 312][/us/pl/99/660/s312], Nov. 14, 1986, [100 Stat. 3779][/us/stat/100/3779], directed Secretary of Health and Human Services, not later than 3 years after the effective date of this title (see Effective Date note above), to conduct, through studies by the Institute of Medicine of the National Academy of Sciences or other appropriate nonprofit private groups or associations, a review of pertussis vaccines and related illnesses and conditions and MMR vaccines, vaccines containing material intended to prevent or confer immunity against measles, mumps, and rubella disease, and related illnesses and conditions, make specific findings and report these findings in the Federal Register not later than 3 years after the effective date of this title, and at the same time these findings are published in the Federal Register, propose regulations as a result of such findings, and not later than 42 months after the effective date of this title, promulgate such proposed regulations with such modifications as may be necessary after opportunity for public hearing.
+    [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 312, Nov. 14, 1986, [100 Stat. 3779][/us/stat/100/3779], directed Secretary of Health and Human Services, not later than 3 years after the effective date of this title (see Effective Date note above), to conduct, through studies by the Institute of Medicine of the National Academy of Sciences or other appropriate nonprofit private groups or associations, a review of pertussis vaccines and related illnesses and conditions and MMR vaccines, vaccines containing material intended to prevent or confer immunity against measles, mumps, and rubella disease, and related illnesses and conditions, make specific findings and report these findings in the Federal Register not later than 3 years after the effective date of this title, and at the same time these findings are published in the Federal Register, propose regulations as a result of such findings, and not later than 42 months after the effective date of this title, promulgate such proposed regulations with such modifications as may be necessary after opportunity for public hearing.
 
  __Study of Other Vaccine Risks__ 
 
-[Pub. L. 99–660, title III, § 313][/us/pl/99/660/s313], Nov. 14, 1986, [100 Stat. 3781][/us/stat/100/3781], provided that:
+[Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 313, Nov. 14, 1986, [100 Stat. 3781][/us/stat/100/3781], provided that:
 
 >     “(a) __Study.—__ 
 
@@ -111,11 +111,11 @@
 
  __Review of Warnings, Use Instructions, and Precautionary Information__ 
 
-    [Pub. L. 99–660, title III, § 314][/us/pl/99/660/s314], Nov. 14, 1986, [100 Stat. 3782][/us/stat/100/3782], directed Secretary of Health and Human Services, not later than 1 year after the effective date of this title (see Effective Date note above) and after consultation with Advisory Commission on Childhood Vaccines and with other appropriate entities, to review the warnings, use instructions, and precautionary information presently issued by manufacturers of vaccines set forth in the Vaccine Injury Table set out in [section 300aa–14 of this title][/us/usc/t42/s300aa–14] and by rule determine whether such warnings, instructions, and information adequately warn health care providers of the nature and extent of dangers posed by such vaccines, and, if any such warning, instruction, or information is determined to be inadequate for such purpose in any respect, require at the same time that the manufacturers revise and reissue such warning, instruction, or information as expeditiously as practical, but not later than 18 months after the effective date of this title.
+    [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 314, Nov. 14, 1986, [100 Stat. 3782][/us/stat/100/3782], directed Secretary of Health and Human Services, not later than 1 year after the effective date of this title (see Effective Date note above) and after consultation with Advisory Commission on Childhood Vaccines and with other appropriate entities, to review the warnings, use instructions, and precautionary information presently issued by manufacturers of vaccines set forth in the Vaccine Injury Table set out in [section 300aa–14 of this title][/us/usc/t42/s300aa–14] and by rule determine whether such warnings, instructions, and information adequately warn health care providers of the nature and extent of dangers posed by such vaccines, and, if any such warning, instruction, or information is determined to be inadequate for such purpose in any respect, require at the same time that the manufacturers revise and reissue such warning, instruction, or information as expeditiously as practical, but not later than 18 months after the effective date of this title.
 
  __Study of Impact on Supply of Vaccines__ 
 
-[Pub. L. 99–660, title III, § 316][/us/pl/99/660/s316], Nov. 14, 1986, [100 Stat. 3786][/us/stat/100/3786], provided that: 
+[Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 316, Nov. 14, 1986, [100 Stat. 3786][/us/stat/100/3786], provided that: 
 
 > “On June 30, 1987, and on June 30 of each second year thereafter, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate—
 
@@ -125,7 +125,7 @@
 
  __Waiver of Paperwork Reduction__ 
 
-[Pub. L. 99–660, title III, § 321][/us/pl/99/660/s321], Nov. 14, 1986, [100 Stat. 3783][/us/stat/100/3783], provided that: 
+[Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 321, Nov. 14, 1986, [100 Stat. 3783][/us/stat/100/3783], provided that: 
 
 > “Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this title and implementing the amendments made by this title \[enacting this subchapter, amending sections 218, 242c, 262, 286, and 289f of this title, redesignating former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title, and enacting provisions set out as notes under sections 201, 300aa–1, and 300aa–4 of this title\].”
 
@@ -137,25 +137,25 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3756
 [/us/usc/t42/s238a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238a
 [/us/usc/t42/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238
-[/us/pl/99/660/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs323
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3784
-[/us/pl/100/203/s4302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fa
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-221
-[/us/pl/102/168/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2Fs201%2Fa
+[/us/pl/102/168/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2FtII
 [/us/stat/105/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1102
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931
 [/us/usc/t42/s300aa–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9310
 [/us/usc/t42/s300aa–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9325
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
-[/us/pl/99/660/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs322
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3783
-[/us/pl/101/239/s6602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6602
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2293
-[/us/pl/101/502/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fg%2F1
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1288
 [/us/usc/t42/s300aa–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9310
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
@@ -164,25 +164,25 @@
 [/us/pl/99/660/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs322%2Fa
 [/us/pl/101/502/s5/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fh
 [/us/usc/t42/s300aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311
-[/us/pl/101/239/s6601/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Ft
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2293
-[/us/pl/102/168/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2Fs201%2Fb
+[/us/pl/102/168/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F168%2FtII
 [/us/stat/105/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1103
-[/us/pl/99/660/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs312
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3779
-[/us/pl/99/660/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs313
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3781
 [/us/usc/t42/s300aa–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9319
 [/us/usc/t21/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs382
 [/us/usc/t42/s300aa–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9314
 [/us/usc/t42/s300aa–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9319
-[/us/pl/99/660/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs314
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3782
 [/us/usc/t42/s300aa–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9314
-[/us/pl/99/660/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs316
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3786
 [/us/usc/t42/s300aa–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9314
-[/us/pl/99/660/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs321
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3783
 
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title I, § 1001(1)][/us/pl/111/148/s1001/1], Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], substituted “Individual and Group Market Reforms” for “Group Market Reforms” in part heading.
+    2010—[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], substituted “Individual and Group Market Reforms” for “Group Market Reforms” in part heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F1
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 
 

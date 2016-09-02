@@ -65,17 +65,17 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 229, as added [Pub. L. 111–148, title III, § 3509(a)(1)][/us/pl/111/148/s3509/a/1], Mar. 23, 2010, [124 Stat. 531][/us/stat/124/531].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 229, as added [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(a)(1), Mar. 23, 2010, [124 Stat. 531][/us/stat/124/531].)
 
  __Construction__ 
 
-[Pub. L. 111–148, title III, § 3509(j)][/us/pl/111/148/s3509/j], Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537], provided that: 
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(j), Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537], provided that: 
 
 > “Nothing in this section \[enacting this section, sections 242s, 299b–24a, and 914 of this title and [section 399b of Title 21][/us/usc/t21/s399b], Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section\] (or the amendments made by this section) shall be construed to limit the authority of the Secretary of Health and Human Services with respect to women’s health, or with respect to activities carried out through the Department of Health and Human Services on the date of enactment of this section \[Mar. 23, 2010\].”
 
  __Transfer of Functions__ 
 
-[Pub. L. 111–148, title III, § 3509(a)(2)][/us/pl/111/148/s3509/a/2], Mar. 23, 2010, [124 Stat. 533][/us/stat/124/533], provided that: 
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(a)(2), Mar. 23, 2010, [124 Stat. 533][/us/stat/124/533], provided that: 
 
 > “There are transferred to the Office on Women’s Health (established under section 229 of the Public Health Service Act \[[42 U.S.C. 237a][/us/usc/t42/s237a]\], as added by this section), all functions exercised by the Office on Women’s Health of the Public Health Service prior to the date of enactment of this section \[Mar. 23, 2010\], including all personnel and compensation authority, all delegation and assignment authority, and all remaining appropriations. All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions that—
 
@@ -87,13 +87,13 @@
 
  __No New Regulatory Authority__ 
 
-[Pub. L. 111–148, title III, § 3509(h)][/us/pl/111/148/s3509/h], Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537], provided that: 
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(h), Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537], provided that: 
 
 > “Nothing in this section \[enacting this section, sections 242s, 299b–24a, and 914 of this title and [section 399b of Title 21][/us/usc/t21/s399b], Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section\] and the amendments made by this section may be construed as establishing regulatory authority or modifying any existing regulatory authority.”
 
  __Limitation on Termination__ 
 
-[Pub. L. 111–148, title III, § 3509(i)][/us/pl/111/148/s3509/i], Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537], provided that: 
+[Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(i), Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537], provided that: 
 
 > “Notwithstanding any other provision of law, a Federal office of women’s health (including the Office of Research on Women’s Health of the National Institutes of Health) or Federal appointive position with primary responsibility over women’s health issues (including the Associate Administrator for Women’s Services under the Substance Abuse and Mental Health Services Administration) that is in existence on the date of enactment of this section \[Mar. 23, 2010\] shall not be terminated, reorganized, or have any of it’s \[sic\] powers or duties transferred unless such termination, reorganization, or transfer is approved by Congress through the adoption of a concurrent resolution of approval.”
 
@@ -105,18 +105,18 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3509/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fa%2F1
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F531
-[/us/pl/111/148/s3509/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fj
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F537
 [/us/usc/t21/s399b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs399b
-[/us/pl/111/148/s3509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fa%2F2
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F533
 [/us/usc/t42/s237a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs237a
-[/us/pl/111/148/s3509/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fh
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F537
 [/us/usc/t21/s399b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs399b
-[/us/pl/111/148/s3509/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fi
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F537
 
 

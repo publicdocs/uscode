@@ -205,11 +205,11 @@
 
         (2) Any reference in this subpart to “next higher classification” or comparable terms shall be considered a reference to the classification related to the next higher set of design values in table 1.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 181, as added [Pub. L. 101–549, title I, § 103][/us/pl/101/549/s103], Nov. 15, 1990, [104 Stat. 2423][/us/stat/104/2423].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 181, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 103, Nov. 15, 1990, [104 Stat. 2423][/us/stat/104/2423].)
 
  __Exemptions for Stripper Wells__ 
 
-[Pub. L. 101–549, title VIII, § 819][/us/pl/101/549/s819], Nov. 15, 1990, [104 Stat. 2698][/us/stat/104/2698], provided that: 
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 819, Nov. 15, 1990, [104 Stat. 2698][/us/stat/104/2698], provided that: 
 
 > “Notwithstanding any other provision of law, the amendments to the Clean Air Act made by section 103 of the Clean Air Act Amendments of 1990 \[enacting this section and sections 7511a to 7511f of this title\] (relating to additional provisions for ozone nonattainment areas), by section 104 of such amendments \[enacting sections 7512 and 7512a of this title\] (relating to additional provisions for carbon monoxide nonattainment areas), by section 105 of such amendments \[enacting sections 7513 to 7513b of this title and amending [section 7476 of this title][/us/usc/t42/s7476]\] (relating to additional provisions for PM–10 nonattainment areas), and by section 106 of such amendments \[enacting sections 7514 and 7514a of this title\] (relating to additional provisions for areas designated as nonattainment for sulfur oxides, nitrogen dioxide, and lead) shall not apply with respect to the production of and equipment used in the exploration, production, development, storage or processing of—
 
@@ -235,9 +235,9 @@
 [/us/usc/t42/s7511d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511d
 [/us/usc/t42/s7511a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511a%2Fg
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs103
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2423
-[/us/pl/101/549/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs819
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2698
 [/us/usc/t42/s7476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7476
 [/us/usc/t26/s4996/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4996%2Fb%2F7

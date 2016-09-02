@@ -17,7 +17,7 @@
 
     The Administrator shall ensure that the Exploration Systems Mission Directorate and the Space Operations Mission Directorate coordinate with the Science Mission Directorate on an overall approach and plan for interagency and international collaboration on robotic missions that are NASA or internationally developed, including lunar, Lagrangian, near-Earth orbit, and Mars spacecraft, such as the International Lunar Network. Within 90 days after October 11, 2010, the Administrator shall provide a plan to the appropriate committees of Congress for implementation of the collaborative approach required by this section. The Administrator may not cancel or initiate any Exploration Systems Mission Directorate or Science Mission Directorate robotic project before the plan is submitted to the appropriate committees of Congress.
 
-([Pub. L. 111–267, title VIII, § 807][/us/pl/111/267/s807], Oct. 11, 2010, [124 Stat. 2834][/us/stat/124/2834].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 807, Oct. 11, 2010, [124 Stat. 2834][/us/stat/124/2834].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs807
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2834
 
 

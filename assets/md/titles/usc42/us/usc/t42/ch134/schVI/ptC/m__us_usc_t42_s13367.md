@@ -33,7 +33,7 @@
 
         (5) an assessment of environmental implications of coal exports and the identification of export opportunities for blending coal mined in the United States with coal indigenous to other countries to enhance energy efficiency and environmental performance.
 
-([Pub. L. 102–486, title XIII, § 1338][/us/pl/102/486/s1338], Oct. 24, 1992, [106 Stat. 2986][/us/stat/106/2986].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1338, Oct. 24, 1992, [106 Stat. 2986][/us/stat/106/2986].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1338
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2986
 
 

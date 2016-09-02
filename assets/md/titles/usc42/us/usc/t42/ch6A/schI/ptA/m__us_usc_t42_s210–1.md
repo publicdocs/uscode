@@ -19,19 +19,19 @@
 
         In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: Provided, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
 
-    (b) __Repealed.__  __[__  __Pub. L. 87–649, § 14b__  __][/us/pl/87/649/s14b]__  __,__  __Sept. 7, 1962__  __,__  __[__  __76 Stat. 499__  __][/us/stat/76/499]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 87–649__  __][/us/pl/87/649]__  __, § 14b,__  __Sept. 7, 1962__  __,__  __[__  __76 Stat. 499__  __][/us/stat/76/499]__ 
 
-    (c) __Repealed.__  __[__  __Pub. L. 96–76, title III, § 311__  __][/us/pl/96/76/s311]__  __,__  __Sept. 29, 1979__  __,__  __[__  __93 Stat. 586__  __][/us/stat/93/586]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 96–76, title III__  __][/us/pl/96/76/tIII]__  __, § 311,__  __Sept. 29, 1979__  __,__  __[__  __93 Stat. 586__  __][/us/stat/93/586]__ 
 
     (d) __Definitions__ 
 
         For purposes of this section the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into a succeeding leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 219, as added [Aug. 9, 1950, ch. 654, § 2][/us/act/1950-08-09/ch654/s2], [64 Stat. 426][/us/stat/64/426]; amended [Pub. L. 87–649, § 14b][/us/pl/87/649/s14b], Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499]; [Pub. L. 96–76, title III, § 311][/us/pl/96/76/s311], Sept. 29, 1979, [93 Stat. 586][/us/stat/93/586].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 219, as added [Aug. 9, 1950, ch. 654][/us/act/1950-08-09/ch654], § 2, [64 Stat. 426][/us/stat/64/426]; amended [Pub. L. 87–649][/us/pl/87/649], § 14b, Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 311, Sept. 29, 1979, [93 Stat. 586][/us/stat/93/586].)
 
  __Partial Repeal of Subsection (d)__ 
 
-    Subsection (d) of this section was repealed by [Pub. L. 87–649, § 14b][/us/pl/87/649/s14b], Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499], insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See [section 501 of Title 37][/us/usc/t37/s501], Pay and Allowances of the Uniformed Services.
+    Subsection (d) of this section was repealed by [Pub. L. 87–649][/us/pl/87/649], § 14b, Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499], insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See [section 501 of Title 37][/us/usc/t37/s501], Pay and Allowances of the Uniformed Services.
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Leave Regulations__ 
 
-[Act Aug. 9, 1950, ch. 654, § 5][/us/act/1950-08-09/ch654/s5], [64 Stat. 427][/us/stat/64/427], provided that: 
+[Act Aug. 9, 1950, ch. 654][/us/act/1950-08-09/ch654], § 5, [64 Stat. 427][/us/stat/64/427], provided that: 
 
 > “Except insofar as the provisions of this Act \[enacting this section, amending [section 210 of this title][/us/usc/t42/s210], and enacting provisions set out as notes under this section and [section 210 of this title][/us/usc/t42/s210]\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\], shall remain in effect until repealed, amended, or superseded.”
 
@@ -78,18 +78,18 @@
 ----------
 ----------
 
-[/us/pl/87/649/s14b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14b
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F499
-[/us/pl/96/76/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs311
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F586
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1950-08-09/ch654/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch654%2Fs2
+[/us/act/1950-08-09/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch654
 [/us/stat/64/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F426
-[/us/pl/87/649/s14b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14b
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F499
-[/us/pl/96/76/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs311
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F586
-[/us/pl/87/649/s14b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14b
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F499
 [/us/usc/t37/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs501
 [/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
@@ -106,7 +106,7 @@
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
-[/us/act/1950-08-09/ch654/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch654%2Fs5
+[/us/act/1950-08-09/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch654
 [/us/stat/64/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F427
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210

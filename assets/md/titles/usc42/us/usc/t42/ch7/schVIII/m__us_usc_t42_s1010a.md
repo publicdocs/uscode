@@ -37,7 +37,7 @@
 
         Administration fees, upon collection, shall be credited to a special fund established in the Treasury of the United States for State recognition payments for certain World War II veterans. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 810A, as added [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title V, § 518(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–73.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 810A, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title V, § 518(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–73.)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

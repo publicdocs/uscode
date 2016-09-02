@@ -45,7 +45,7 @@
 
             (C) whether the proposed joint venture project would be located in the region which has the energy-intensive industry and industrial processes that would benefit from the project.
 
-([Pub. L. 102–486, title XXI, § 2107][/us/pl/102/486/s2107], Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2107, Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2107
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3070
 
 

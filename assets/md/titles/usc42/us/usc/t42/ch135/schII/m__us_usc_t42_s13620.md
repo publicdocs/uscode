@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development shall conduct a study to determine the extent to which Federal housing programs serve elderly families, disabled families, and families with children, in relation to the need of such families who are eligible for assistance under such programs. The Secretary shall submit a report to the Congress describing the study and the findings of the study not later than the expiration of the 1-year period beginning on October 28, 1992.
 
-([Pub. L. 102–550, title VI, § 661][/us/pl/102/550/s661], Oct. 28, 1992, [106 Stat. 3825][/us/stat/106/3825].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 661, Oct. 28, 1992, [106 Stat. 3825][/us/stat/106/3825].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs661
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3825
 
 

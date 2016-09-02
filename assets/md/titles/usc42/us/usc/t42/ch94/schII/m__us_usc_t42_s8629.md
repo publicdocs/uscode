@@ -41,23 +41,23 @@
 
         (2) the impact of each State’s program on recipient and eligible households.
 
-([Pub. L. 97–35, title XXVI, § 2610][/us/pl/97/35/s2610], Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902]; [Pub. L. 98–558, title VI, § 607][/us/pl/98/558/s607], Oct. 30, 1984, [98 Stat. 2893][/us/stat/98/2893]; [Pub. L. 99–425, title V, § 506][/us/pl/99/425/s506], Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976]; [Pub. L. 103–252, title III, § 311(c)(7)][/us/pl/103/252/s311/c/7], May 18, 1994, [108 Stat. 662][/us/stat/108/662].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2610, Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902]; [Pub. L. 98–558, title VI][/us/pl/98/558/tVI], § 607, Oct. 30, 1984, [98 Stat. 2893][/us/stat/98/2893]; [Pub. L. 99–425, title V][/us/pl/99/425/tV], § 506, Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976]; [Pub. L. 103–252, title III][/us/pl/103/252/tIII], § 311(c)(7), May 18, 1994, [108 Stat. 662][/us/stat/108/662].)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2). [Pub. L. 103–252, § 311(c)(7)(A)][/us/pl/103/252/s311/c/7/A], struck out semicolon after “used” and inserted semicolon after “subchapter”.
+    1994—Subsec. (a)(2). [Pub. L. 103–252][/us/pl/103/252], § 311(c)(7)(A), struck out semicolon after “used” and inserted semicolon after “subchapter”.
 
-    Subsec. (a)(5). [Pub. L. 103–252, § 311(c)(7)(B)][/us/pl/103/252/s311/c/7/B], substituted “disabled or include young children” for “handicapped”.
+    Subsec. (a)(5). [Pub. L. 103–252][/us/pl/103/252], § 311(c)(7)(B), substituted “disabled or include young children” for “handicapped”.
 
     1986—Subsec. (b). [Pub. L. 99–425][/us/pl/99/425] inserted provisions relating to report describing for prior fiscal year the manner of carrying out requirements of clauses of [section 8624 of this title][/us/usc/t42/s8624] and impact of State programs on recipient and eligible households.
 
-    1984—Subsec. (a). [Pub. L. 98–558, § 607(c)][/us/pl/98/558/s607/c], inserted at end “Nothing in this subsection may be construed to require the Secretary to collect data which has been collected and made available to the Secretary by any other agency of the Federal Government.”
+    1984—Subsec. (a). [Pub. L. 98–558][/us/pl/98/558], § 607(c), inserted at end “Nothing in this subsection may be construed to require the Secretary to collect data which has been collected and made available to the Secretary by any other agency of the Federal Government.”
 
-    Subsec. (a)(2). [Pub. L. 98–558, § 607(a)][/us/pl/98/558/s607/a], inserted “amount,” before “cost” and inserted at end “for households eligible for assistance under this subchapter”.
+    Subsec. (a)(2). [Pub. L. 98–558][/us/pl/98/558], § 607(a), inserted “amount,” before “cost” and inserted at end “for households eligible for assistance under this subchapter”.
 
-    Subsec. (a)(5), (6). [Pub. L. 98–558, § 607(b)][/us/pl/98/558/s607/b], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (a)(5), (6). [Pub. L. 98–558][/us/pl/98/558], § 607(b), added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (b). [Pub. L. 98–558, § 607(d)][/us/pl/98/558/s607/d], in amending subsec. (b) generally, inserted “no later than June 30 of each fiscal year,” and substituted “a detailed compilation of the data under subsection (a) of this section with respect to the prior fiscal year” for “a summary of data collected under subsection (a) of this section”.
+    Subsec. (b). [Pub. L. 98–558][/us/pl/98/558], § 607(d), in amending subsec. (b) generally, inserted “no later than June 30 of each fiscal year,” and substituted “a detailed compilation of the data under subsection (a) of this section with respect to the prior fiscal year” for “a summary of data collected under subsection (a) of this section”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -83,22 +83,22 @@
 ----------
 
 [/us/usc/t42/s8624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624%2Fb
-[/us/pl/97/35/s2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2610
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F902
-[/us/pl/98/558/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs607
+[/us/pl/98/558/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVI
 [/us/stat/98/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2893
-[/us/pl/99/425/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs506
+[/us/pl/99/425/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtV
 [/us/stat/100/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F976
-[/us/pl/103/252/s311/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fc%2F7
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F662
-[/us/pl/103/252/s311/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fc%2F7%2FA
-[/us/pl/103/252/s311/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fc%2F7%2FB
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
 [/us/usc/t42/s8624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624
-[/us/pl/98/558/s607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs607%2Fc
-[/us/pl/98/558/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs607%2Fa
-[/us/pl/98/558/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs607%2Fb
-[/us/pl/98/558/s607/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs607%2Fd
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs314
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621

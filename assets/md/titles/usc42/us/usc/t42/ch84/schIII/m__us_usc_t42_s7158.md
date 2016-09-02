@@ -17,7 +17,7 @@
 
     The Division of Naval Reactors established pursuant to [section 2035 of this title][/us/usc/t42/s2035], and responsible for research, design, development, health, and safety matters pertaining to naval nuclear propulsion plants and assigned civilian power reactor programs is transferred to the Department under the Under Secretary for Nuclear Security, and such organizational unit shall be deemed to be an organizational unit established by this chapter.
 
-([Pub. L. 95–91, title III, § 309][/us/pl/95/91/s309], Aug. 4, 1977, [91 Stat. 581][/us/stat/91/581]; [Pub. L. 106–65, div. C, title XXXII, § 3294(c)][/us/pl/106/65/s3294/c], Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970].)
+([Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 309, Aug. 4, 1977, [91 Stat. 581][/us/stat/91/581]; [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3294(c), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
     All national security functions and activities performed immediately before Oct. 5, 1999, by the Office of Naval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344, set out as a note under [section 2511 of Title 50][/us/usc/t50/s2511], War and National Defense, see sections 2406 and 2481 of Title 50.
 
-    [Pub. L. 98–525, title XVI, § 1634][/us/pl/98/525/s1634], Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649], which was formerly set out as a note under this section, was renumbered [section 4101 of Pub. L. 107–314][/us/pl/107/314/s4101], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L 108–136, div. C, title XXXI, § 3141(d)(2), Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757], and is set out as a note under [section 2511 of Title 50][/us/usc/t50/s2511], War and National Defense.
+    [Pub. L. 98–525, title XVI][/us/pl/98/525/tXVI], § 1634, Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649], which was formerly set out as a note under this section, was renumbered [section 4101 of Pub. L. 107–314][/us/pl/107/314/s4101], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L 108–136, div. C, title XXXI, § 3141(d)(2), Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757], and is set out as a note under [section 2511 of Title 50][/us/usc/t50/s2511], War and National Defense.
 
 ----------
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t42/s2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2035
-[/us/pl/95/91/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs309
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F581
-[/us/pl/106/65/s3294/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fc
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
@@ -61,7 +61,7 @@
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
-[/us/pl/98/525/s1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1634
+[/us/pl/98/525/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVI
 [/us/stat/98/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2649
 [/us/pl/107/314/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4101
 [/us/stat/117/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1757

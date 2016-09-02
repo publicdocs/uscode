@@ -27,7 +27,7 @@
 
     (5) an increase in energy efficiency by the Federal Government would benefit the Nation by reducing the cost of government, reducing national dependence on foreign energy resources, and demonstrating the benefits of greater energy efficiency to the Nation.
 
-([Pub. L. 95–619, title V, § 541][/us/pl/95/619/s541], Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 541, Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/95/619/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs541
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3277
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3185
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7269.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7269b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7269a)
 
-## § 7269a. Repealed. [Pub. L. 109–289, div. B, title II, § 20319][/us/pl/109/289/s20319], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 21][/us/stat/121/21].
+## § 7269a. Repealed. [Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 20319, as added [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 21][/us/stat/121/21].
 
-    Section, [Pub. L. 102–377, title III, § 302][/us/pl/102/377/s302], Oct. 2, 1992, [106 Stat. 1339][/us/stat/106/1339], authorized transfer of funds between appropriations for Department of Energy activities.
+    Section, [Pub. L. 102–377, title III][/us/pl/102/377/tIII], § 302, Oct. 2, 1992, [106 Stat. 1339][/us/stat/106/1339], authorized transfer of funds between appropriations for Department of Energy activities.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/109/289/s20319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20319
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F21
-[/us/pl/102/377/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs302
+[/us/pl/102/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2FtIII
 [/us/stat/106/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1339
 
 

@@ -39,13 +39,13 @@
 
         (2) the rate of national unemployment for the last month of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent.
 
-([Pub. L. 94–369, title II, § 202][/us/pl/94/369/s202], July 22, 1976, [90 Stat. 1002][/us/stat/90/1002]; [Pub. L. 94–447, title II, § 201(1)][/us/pl/94/447/s201/1], Oct. 1, 1976, [90 Stat. 1498][/us/stat/90/1498]; [Pub. L. 95–30, title VI, § 602][/us/pl/95/30/s602], May 23, 1977, [91 Stat. 164][/us/stat/91/164].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 202, July 22, 1976, [90 Stat. 1002][/us/stat/90/1002]; [Pub. L. 94–447, title II][/us/pl/94/447/tII], § 201(1), Oct. 1, 1976, [90 Stat. 1498][/us/stat/90/1498]; [Pub. L. 95–30, title VI][/us/pl/95/30/tVI], § 602, May 23, 1977, [91 Stat. 164][/us/stat/91/164].)
 
  __Amendments__ 
 
-    1977—Subsec. (b). [Pub. L. 95–30, § 602(a)][/us/pl/95/30/s602/a], substituted “July 1, 1977” for “July 1, 1976” in introductory provisions preceding par. (1) and in par. (2) substituted “$30,000,000 multiplied by the number of whole one-tenth” for “$62,500,000 multiplied by the number of one-half” and “such quarter exceeded 6 per centum” for “such calendar quarter exceeded 6 percent”.
+    1977—Subsec. (b). [Pub. L. 95–30][/us/pl/95/30], § 602(a), substituted “July 1, 1977” for “July 1, 1976” in introductory provisions preceding par. (1) and in par. (2) substituted “$30,000,000 multiplied by the number of whole one-tenth” for “$62,500,000 multiplied by the number of one-half” and “such quarter exceeded 6 per centum” for “such calendar quarter exceeded 6 percent”.
 
-    Subsec. (c). [Pub. L. 95–30, § 602(b)][/us/pl/95/30/s602/b], substituted “five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000” for “five calendar quarters beginning with the calendar quarter which begins July 1, 1976, exceed $1,250,000,000”.
+    Subsec. (c). [Pub. L. 95–30][/us/pl/95/30], § 602(b), substituted “five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000” for “five calendar quarters beginning with the calendar quarter which begins July 1, 1976, exceed $1,250,000,000”.
 
     1976—Subsec. (d)(1). [Pub. L. 94–447][/us/pl/94/447] substituted “6 percent, or” for “6 percent, and”.
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/94/369/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs202
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1002
-[/us/pl/94/447/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447%2Fs201%2F1
+[/us/pl/94/447/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447%2FtII
 [/us/stat/90/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1498
-[/us/pl/95/30/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs602
+[/us/pl/95/30/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtVI
 [/us/stat/91/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F164
-[/us/pl/95/30/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs602%2Fa
-[/us/pl/95/30/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs602%2Fb
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/94/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447
 
 

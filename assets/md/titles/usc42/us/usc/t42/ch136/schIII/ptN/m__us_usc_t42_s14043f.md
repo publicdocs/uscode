@@ -57,7 +57,7 @@
 
         Funds appropriated under this section shall remain available until expended.
 
-([Pub. L. 103–322, title IV, § 41501][/us/pl/103/322/s41501], as added [Pub. L. 109–162, title VII, § 701][/us/pl/109/162/s701], Jan. 5, 2006, [119 Stat. 3052][/us/stat/119/3052]; amended [Pub. L. 113–4, title VII, § 701][/us/pl/113/4/s701], Mar. 7, 2013, [127 Stat. 110][/us/stat/127/110].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41501, as added [Pub. L. 109–162, title VII][/us/pl/109/162/tVII], § 701, Jan. 5, 2006, [119 Stat. 3052][/us/stat/119/3052]; amended [Pub. L. 113–4, title VII][/us/pl/113/4/tVII], § 701, Mar. 7, 2013, [127 Stat. 110][/us/stat/127/110].)
 
  __Amendments__ 
 
@@ -74,10 +74,10 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41501
-[/us/pl/109/162/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs701
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVII
 [/us/stat/119/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3052
-[/us/pl/113/4/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs701
+[/us/pl/113/4/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVII
 [/us/stat/127/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F110
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4

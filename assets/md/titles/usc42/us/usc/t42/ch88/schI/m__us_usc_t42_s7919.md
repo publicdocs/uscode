@@ -17,7 +17,7 @@
 
     The Secretary may prescribe such rules consistent with the purposes of this chapter as he deems appropriate pursuant to title V of the Department of Energy Organization Act \[[42 U.S.C. 7191][/us/usc/t42/s7191] et seq.\].
 
-([Pub. L. 95–604, title I, § 109][/us/pl/95/604/s109], Nov. 8, 1978, [92 Stat. 3030][/us/stat/92/3030].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 109, Nov. 8, 1978, [92 Stat. 3030][/us/stat/92/3030].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s7191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191
-[/us/pl/95/604/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs109
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3030
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021

@@ -57,7 +57,7 @@
 
             The term “water supply system” means a system for the provision to the public of piped water for human consumption if such system has at least 15 service connections or regularly serves at least 25 individuals and a draw and fill system for the provision to the public of water for human consumption. Such term does not include a system owned by a Federal agency. Such term includes (A) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (B) any collection or pretreatment facilities not under such control that are used primarily in connection with such system.
 
-([Pub. L. 104–182, title IV, § 401][/us/pl/104/182/s401], Aug. 6, 1996, [110 Stat. 1690][/us/stat/110/1690].)
+([Pub. L. 104–182, title IV][/us/pl/104/182/tIV], § 401, Aug. 6, 1996, [110 Stat. 1690][/us/stat/110/1690].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t33/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1329
 [/us/usc/t42/s300j–12/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312%2Fm
-[/us/pl/104/182/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs401
+[/us/pl/104/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtIV
 [/us/stat/110/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1690
 
 

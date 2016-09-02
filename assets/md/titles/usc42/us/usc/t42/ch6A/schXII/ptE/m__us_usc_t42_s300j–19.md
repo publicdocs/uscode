@@ -103,7 +103,7 @@
 
         For purposes of this section, the term “feasible” has the meaning given such term in [section 300g–1(b)(4)(D) of this title][/us/usc/t42/s300g–1/b/4/D].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1459, as added [Pub. L. 114–45, § 2(a)][/us/pl/114/45/s2/a], Aug. 7, 2015, [129 Stat. 473][/us/stat/129/473].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1459, as added [Pub. L. 114–45][/us/pl/114/45], § 2(a), Aug. 7, 2015, [129 Stat. 473][/us/stat/129/473].)
 
 ----------
 
@@ -116,7 +116,7 @@
 [/us/usc/t42/s300g–1/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F3%2FA
 [/us/usc/t42/s300g–1/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F4%2FD
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/114/45/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F45%2Fs2%2Fa
+[/us/pl/114/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F45
 [/us/stat/129/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F473
 
 

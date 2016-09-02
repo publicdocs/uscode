@@ -51,7 +51,7 @@
 
         (B) physically or sexually abusing such minor child if such abuse is inflicted by either of such spouses, former spouses, or partners.
 
-([Pub. L. 98–620, title II, § 202][/us/pl/98/620/s202], Nov. 8, 1984, [98 Stat. 3336][/us/stat/98/3336]; [Pub. L. 102–528, § 1][/us/pl/102/528/s1], Oct. 27, 1992, [106 Stat. 3461][/us/stat/106/3461].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 202, Nov. 8, 1984, [98 Stat. 3336][/us/stat/98/3336]; [Pub. L. 102–528][/us/pl/102/528], § 1, Oct. 27, 1992, [106 Stat. 3461][/us/stat/106/3461].)
 
  __References in Text__ 
 
@@ -63,19 +63,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–620, title II, § 216][/us/pl/98/620/s216], Nov. 8, 1984, [98 Stat. 3346][/us/stat/98/3346], provided that: 
+[Pub. L. 98–620, title II][/us/pl/98/620/tII], § 216, Nov. 8, 1984, [98 Stat. 3346][/us/stat/98/3346], provided that: 
 
 > “The provisions of this title \[enacting this chapter and amending [section 620 of Title 28][/us/usc/t28/s620], Judiciary and Judicial Procedure\] shall take effect on October 1, 1985.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–372, § 1][/us/pl/108/372/s1], Oct. 25, 2004, [118 Stat. 1754][/us/stat/118/1754], provided that: 
+[Pub. L. 108–372][/us/pl/108/372], § 1, Oct. 25, 2004, [118 Stat. 1754][/us/stat/118/1754], provided that: 
 
 > “This Act \[amending sections 3793, 10703, 10704, and 10713 of this title\] may be cited as the ‘State Justice Institute Reauthorization Act of 2004’.”
 
  __Short Title__ 
 
-[Pub. L. 98–620, title II, § 201][/us/pl/98/620/s201], Nov. 8, 1984, [98 Stat. 3336][/us/stat/98/3336], provided that: 
+[Pub. L. 98–620, title II][/us/pl/98/620/tII], § 201, Nov. 8, 1984, [98 Stat. 3336][/us/stat/98/3336], provided that: 
 
 > “This title \[enacting this chapter and amending [section 620 of Title 28][/us/usc/t28/s620], Judiciary and Judicial Procedure\] may be cited as the ‘State Justice Institute Act of 1984’.”
 
@@ -90,19 +90,19 @@
 ----------
 ----------
 
-[/us/pl/98/620/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs202
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336
-[/us/pl/102/528/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs1
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
 [/us/stat/106/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3461
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336
 [/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
-[/us/pl/98/620/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs216
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3346
 [/us/usc/t28/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs620
-[/us/pl/108/372/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372%2Fs1
+[/us/pl/108/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F372
 [/us/stat/118/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1754
-[/us/pl/98/620/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs201
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336
 [/us/usc/t28/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs620
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

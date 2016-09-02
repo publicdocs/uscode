@@ -97,7 +97,7 @@
 
         (4) A motion in the Senate to further limit debate is not debatable. A motion to recommit an implementing bill is not in order.
 
-([Pub. L. 94–163, title I, § 174][/us/pl/94/163/s174], as added [Pub. L. 101–383, § 6(a)(4)][/us/pl/101/383/s6/a/4], Sept. 15, 1990, [104 Stat. 731][/us/stat/104/731].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 174, as added [Pub. L. 101–383][/us/pl/101/383], § 6(a)(4), Sept. 15, 1990, [104 Stat. 731][/us/stat/104/731].)
 
 ----------
 
@@ -106,8 +106,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs174
-[/us/pl/101/383/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs6%2Fa%2F4
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/stat/104/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F731
 
 

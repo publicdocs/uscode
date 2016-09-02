@@ -33,7 +33,7 @@
 
     (5) The right to be fully informed (orally and in writing), in advance of receiving an in-home service under this subchapter, of such individual’s rights and obligations under this subchapter.
 
-([Pub. L. 89–73, title III, § 314][/us/pl/89/73/s314], as added [Pub. L. 102–375, title III, § 311][/us/pl/102/375/s311], Sept. 30, 1992, [106 Stat. 1237][/us/stat/106/1237]; amended [Pub. L. 103–171][/us/pl/103/171], §§ 2(11), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990.)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 314, as added [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 311, Sept. 30, 1992, [106 Stat. 1237][/us/stat/106/1237]; amended [Pub. L. 103–171][/us/pl/103/171], §§ 2(11), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990.)
 
  __Amendments__ 
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs314
-[/us/pl/102/375/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs311
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/102/375/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIII
 [/us/stat/106/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1237
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1989

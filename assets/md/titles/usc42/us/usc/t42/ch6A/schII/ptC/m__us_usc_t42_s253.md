@@ -43,15 +43,15 @@
 
         The Service shall provide all services referred to in subsection (a) of this section required by the Coast Guard or National Oceanic and Atmospheric Administration and shall perform all duties prescribed by statute in connection with the examinations to determine physical or mental condition for purposes of appointment, enlistment, and reenlistment, promotion and retirement, and officers of the Service assigned to duty on Coast Guard or National Oceanic and Atmospheric Administration vessels may extend aid to the crews of American vessels engaged in deep-sea fishing.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 326, [58 Stat. 697][/us/stat/58/697]; [June 7, 1956, ch. 374, § 306(3)][/us/act/1956-06-07/ch374/s306/3], [70 Stat. 254][/us/stat/70/254]; [Pub. L. 86–415, § 5(d)][/us/pl/86/415/s5/d], Apr. 8, 1960, [74 Stat. 34][/us/stat/74/34]; [Pub. L. 88–71, § 2][/us/pl/88/71/s2], July 19, 1963, [77 Stat. 83][/us/stat/77/83]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 99–117, § 5][/us/pl/99/117/s5], Oct. 7, 1985, [99 Stat. 492][/us/stat/99/492].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 326, [58 Stat. 697][/us/stat/58/697]; [June 7, 1956, ch. 374][/us/act/1956-06-07/ch374], § 306(3), [70 Stat. 254][/us/stat/70/254]; [Pub. L. 86–415][/us/pl/86/415], § 5(d), Apr. 8, 1960, [74 Stat. 34][/us/stat/74/34]; [Pub. L. 88–71][/us/pl/88/71], § 2, July 19, 1963, [77 Stat. 83][/us/stat/77/83]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 99–117][/us/pl/99/117], § 5, Oct. 7, 1985, [99 Stat. 492][/us/stat/99/492].)
 
  __Amendments__ 
 
     1985—Subsec. (b). [Pub. L. 99–117][/us/pl/99/117] added subsec. (b).
 
-    1963—Subsec. (b). [Pub. L. 88–71, § 2(a)][/us/pl/88/71/s2/a], repealed subsec. (b) which provided for treatment of dependents of personnel. See [section 253a(b) of this title][/us/usc/t42/s253a/b].
+    1963—Subsec. (b). [Pub. L. 88–71][/us/pl/88/71], § 2(a), repealed subsec. (b) which provided for treatment of dependents of personnel. See [section 253a(b) of this title][/us/usc/t42/s253a/b].
 
-    Subsec. (c). [Pub. L. 88–71, § 2(b)][/us/pl/88/71/s2/b], inserted “or Coast and Geodetic Survey” after “Coast Guard” in two places.
+    Subsec. (c). [Pub. L. 88–71][/us/pl/88/71], § 2(b), inserted “or Coast and Geodetic Survey” after “Coast Guard” in two places.
 
     1960—Subsec. (a). [Pub. L. 86–415][/us/pl/86/415] struck out provisions which authorized medical, surgical, and dental care and hospitalization for retired personnel of Coast Guard, Coast and Geodetic Survey, and Public Health Service.
 
@@ -80,20 +80,20 @@
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F697
-[/us/act/1956-06-07/ch374/s306/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-07%2Fch374%2Fs306%2F3
+[/us/act/1956-06-07/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-07%2Fch374
 [/us/stat/70/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F254
-[/us/pl/86/415/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs5%2Fd
+[/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/stat/74/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F34
-[/us/pl/88/71/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71%2Fs2
+[/us/pl/88/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71
 [/us/stat/77/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F83
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/99/117/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs5
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F492
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
-[/us/pl/88/71/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71%2Fs2%2Fa
+[/us/pl/88/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71
 [/us/usc/t42/s253a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs253a%2Fb
-[/us/pl/88/71/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71%2Fs2%2Fb
+[/us/pl/88/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71
 [/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090

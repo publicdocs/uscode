@@ -41,7 +41,7 @@
 
         (3) assist parents in enhancing their children’s development to ensure that their children enter school prepared and ready to learn.
 
-([Pub. L. 101–501, title IX, § 956][/us/pl/101/501/s956], Nov. 3, 1990, [104 Stat. 1278][/us/stat/104/1278].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 956, Nov. 3, 1990, [104 Stat. 1278][/us/stat/104/1278].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs956
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1278
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 

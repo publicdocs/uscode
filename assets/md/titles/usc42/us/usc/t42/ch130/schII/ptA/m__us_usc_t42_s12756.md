@@ -27,7 +27,7 @@
 
         In the case of small-scale or scattered site housing, the Secretary may provide for such streamlined procedures for achieving the purposes of this section as the Secretary determines to be appropriate.
 
-([Pub. L. 101–625, title II, § 226][/us/pl/101/625/s226], Nov. 28, 1990, [104 Stat. 4114][/us/stat/104/4114].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 226, Nov. 28, 1990, [104 Stat. 4114][/us/stat/104/4114].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s12708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12708%2Fa
-[/us/pl/101/625/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs226
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4114
 
 

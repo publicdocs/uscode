@@ -17,7 +17,7 @@
 
     All moneys received by the Secretary from any fossil energy activity shall be paid into the Treasury to the credit of miscellaneous receipts, except that on December 1 of each year the Secretary shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report of all such receipts for the preceding fiscal year, including, but not limited to, the amount and source of such revenues and the program and subprogram activity generating such revenues.
 
-([Pub. L. 95–39, title I, § 106][/us/pl/95/39/s106], June 3, 1977, [91 Stat. 184][/us/stat/91/184]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 103–437, § 15(c)(8)][/us/pl/103/437/s15/c/8], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Pub. L. 95–39, title I][/us/pl/95/39/tI], § 106, June 3, 1977, [91 Stat. 184][/us/stat/91/184]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 103–437][/us/pl/103/437], § 15(c)(8), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __Codification__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/95/39/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs106
+[/us/pl/95/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtI
 [/us/stat/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F184
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/103/437/s15/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fc%2F8
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91

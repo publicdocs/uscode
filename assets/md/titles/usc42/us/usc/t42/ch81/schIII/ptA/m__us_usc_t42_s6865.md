@@ -131,59 +131,59 @@
 
         (2) The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1) of this section, prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
 
-([Pub. L. 94–385, title IV, § 415][/us/pl/94/385/s415], Aug. 14, 1976, [90 Stat. 1155][/us/stat/90/1155]; [Pub. L. 95–619, title II, § 231(c)][/us/pl/95/619/s231/c], Nov. 9, 1978, [92 Stat. 3225][/us/stat/92/3225]; [Pub. L. 96–294, title V][/us/pl/96/294], §§ 571, 572, 573(a), 575, 577(2), June 30, 1980, [94 Stat. 759][/us/stat/94/759], 760; [Pub. L. 98–558, title IV][/us/pl/98/558], §§ 403, 404, Oct. 30, 1984, [98 Stat. 2887][/us/stat/98/2887], 2888; [Pub. L. 101–440, § 7(d)][/us/pl/101/440/s7/d]–(f), (i), Oct. 18, 1990, [104 Stat. 1013][/us/stat/104/1013], 1014; [Pub. L. 106–469, title VI, § 601(b)][/us/pl/106/469/s601/b], Nov. 9, 2000, [114 Stat. 2040][/us/stat/114/2040]; [Pub. L. 109–58, title II, § 206(a)][/us/pl/109/58/s206/a], Aug. 8, 2005, [119 Stat. 654][/us/stat/119/654]; [Pub. L. 111–5, div. A, title IV, § 407(b)][/us/pl/111/5/s407/b], (e), Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 415, Aug. 14, 1976, [90 Stat. 1155][/us/stat/90/1155]; [Pub. L. 95–619, title II][/us/pl/95/619/tII], § 231(c), Nov. 9, 1978, [92 Stat. 3225][/us/stat/92/3225]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], §§ 571, 572, 573(a), 575, 577(2), June 30, 1980, [94 Stat. 759][/us/stat/94/759], 760; [Pub. L. 98–558, title IV][/us/pl/98/558/tIV], §§ 403, 404, Oct. 30, 1984, [98 Stat. 2887][/us/stat/98/2887], 2888; [Pub. L. 101–440][/us/pl/101/440], § 7(d)–(f), (i), Oct. 18, 1990, [104 Stat. 1013][/us/stat/104/1013], 1014; [Pub. L. 106–469, title VI][/us/pl/106/469/tVI], § 601(b), Nov. 9, 2000, [114 Stat. 2040][/us/stat/114/2040]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 206(a), Aug. 8, 2005, [119 Stat. 654][/us/stat/119/654]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 407(b), (e), Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
 
  __References in Text__ 
 
-    The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508]. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508]. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
 
-    [Section 6872 of this title][/us/usc/t42/s6872], referred to in subsecs. (d) and (e)(1)(A), was amended by [Pub. L. 105–388, § 3][/us/pl/105/388/s3], Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477], and, as so amended, no longer contains a subsec. (b).
+    [Section 6872 of this title][/us/usc/t42/s6872], referred to in subsecs. (d) and (e)(1)(A), was amended by [Pub. L. 105–388][/us/pl/105/388], § 3, Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477], and, as so amended, no longer contains a subsec. (b).
 
  __Amendments__ 
 
-    2009—Subsec. (c)(1). [Pub. L. 111–5, § 407(b)][/us/pl/111/5/s407/b], substituted “$6,500” for “$2,500” in introductory provisions.
+    2009—Subsec. (c)(1). [Pub. L. 111–5][/us/pl/111/5], § 407(b), substituted “$6,500” for “$2,500” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 111–5, § 407(e)][/us/pl/111/5/s407/e], substituted “September 30, 1994” for “September 30, 1979”.
+    Subsec. (c)(2). [Pub. L. 111–5][/us/pl/111/5], § 407(e), substituted “September 30, 1994” for “September 30, 1979”.
 
-    2005—Subsec. (c)(1). [Pub. L. 109–58, § 206(a)(1)][/us/pl/109/58/s206/a/1], substituted “in paragraphs (3) and (4)” for “in paragraph (3)” in introductory provisions.
+    2005—Subsec. (c)(1). [Pub. L. 109–58][/us/pl/109/58], § 206(a)(1), substituted “in paragraphs (3) and (4)” for “in paragraph (3)” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 109–58, § 206(a)(2)][/us/pl/109/58/s206/a/2], substituted “dwelling unit averages provided in paragraphs (1) and (4)” for “$2,500 per dwelling unit average provided in paragraph (1)” in introductory provisions.
+    Subsec. (c)(3). [Pub. L. 109–58][/us/pl/109/58], § 206(a)(2), substituted “dwelling unit averages provided in paragraphs (1) and (4)” for “$2,500 per dwelling unit average provided in paragraph (1)” in introductory provisions.
 
-    Subsec. (c)(4) to (6). [Pub. L. 109–58, § 206(a)(3)][/us/pl/109/58/s206/a/3], added pars. (4) to (6).
+    Subsec. (c)(4) to (6). [Pub. L. 109–58][/us/pl/109/58], § 206(a)(3), added pars. (4) to (6).
 
-    2000—Subsec. (a)(1). [Pub. L. 106–469, § 601(b)(1)][/us/pl/106/469/s601/b/1], struck out first sentence which read as follows: “Except as provided in paragraph (2), an average of at least forty percent of the funds provided in a State under this part for weatherization materials, labor, and related matters described in subsection (c) of this section shall be spent for weatherization materials.”
+    2000—Subsec. (a)(1). [Pub. L. 106–469][/us/pl/106/469], § 601(b)(1), struck out first sentence which read as follows: “Except as provided in paragraph (2), an average of at least forty percent of the funds provided in a State under this part for weatherization materials, labor, and related matters described in subsection (c) of this section shall be spent for weatherization materials.”
 
-    Subsec. (a)(2). [Pub. L. 106–469, § 601(b)(2)(C)][/us/pl/106/469/s601/b/2/C], struck out subpar. (B) which read as follows: “The Secretary shall make information on energy audit procedures and techniques available to States applying for a waiver under subparagraph (A) and shall provide training for State and local agencies in the implementation of such procedures and techniques.”
+    Subsec. (a)(2). [Pub. L. 106–469][/us/pl/106/469], § 601(b)(2)(C), struck out subpar. (B) which read as follows: “The Secretary shall make information on energy audit procedures and techniques available to States applying for a waiver under subparagraph (A) and shall provide training for State and local agencies in the implementation of such procedures and techniques.”
 
-    [Pub. L. 106–469, § 601(b)(2)(B)][/us/pl/106/469/s601/b/2/B], which directed amendment of par. (2) by substituting “establish” for “approve a State’s application to waive the 40 percent requirement established in paragraph (1) if the State includes in its plan”, was executed by making the substitution for “approve a State’s application to waive the 40-percent requirement established in paragraph (1) if the State includes in its plan”, to reflect the probable intent of Congress.
+    [Pub. L. 106–469][/us/pl/106/469], § 601(b)(2)(B), which directed amendment of par. (2) by substituting “establish” for “approve a State’s application to waive the 40 percent requirement established in paragraph (1) if the State includes in its plan”, was executed by making the substitution for “approve a State’s application to waive the 40-percent requirement established in paragraph (1) if the State includes in its plan”, to reflect the probable intent of Congress.
 
-    [Pub. L. 106–469, § 601(b)(2)(A)][/us/pl/106/469/s601/b/2/A], struck out “(A)” before “The Secretary shall approve”.
+    [Pub. L. 106–469][/us/pl/106/469], § 601(b)(2)(A), struck out “(A)” before “The Secretary shall approve”.
 
-    Subsec. (c)(1). [Pub. L. 106–469, § 601(b)(3)(A)][/us/pl/106/469/s601/b/3/A], (B), in introductory provisions, substituted “paragraph (3)” for “paragraphs (3) and (4)” and “$2,500” for “$1,600”.
+    Subsec. (c)(1). [Pub. L. 106–469][/us/pl/106/469], § 601(b)(3)(A), (B), in introductory provisions, substituted “paragraph (3)” for “paragraphs (3) and (4)” and “$2,500” for “$1,600”.
 
-    Subsec. (c)(1)(E). [Pub. L. 106–469, § 601(b)(3)(C)][/us/pl/106/469/s601/b/3/C]–(E), added subpar. (E).
+    Subsec. (c)(1)(E). [Pub. L. 106–469][/us/pl/106/469], § 601(b)(3)(C)–(E), added subpar. (E).
 
-    Subsec. (c)(3). [Pub. L. 106–469, § 601(b)(4)][/us/pl/106/469/s601/b/4], in introductory provisions, substituted “2000, the $2,500 per dwelling unit average” for “1991, the $1,600 per dwelling unit limitation” and “average amount” for “limitation amount”, in subpar. (A), substituted “average” for “limitation”, and, in subpar. (B), inserted “the” after “beginning of”.
+    Subsec. (c)(3). [Pub. L. 106–469][/us/pl/106/469], § 601(b)(4), in introductory provisions, substituted “2000, the $2,500 per dwelling unit average” for “1991, the $1,600 per dwelling unit limitation” and “average amount” for “limitation amount”, in subpar. (A), substituted “average” for “limitation”, and, in subpar. (B), inserted “the” after “beginning of”.
 
-    Subsec. (c)(4). [Pub. L. 106–469, § 601(b)(5)][/us/pl/106/469/s601/b/5], struck out par. (4), which required the Secretary, upon State application, to establish a separate average per dwelling unit limitation for dwelling units in the State.
+    Subsec. (c)(4). [Pub. L. 106–469][/us/pl/106/469], § 601(b)(5), struck out par. (4), which required the Secretary, upon State application, to establish a separate average per dwelling unit limitation for dwelling units in the State.
 
-    1990—Subsec. (a). [Pub. L. 101–440, § 7(d)][/us/pl/101/440/s7/d], substituted “(1) Except as provided in paragraph (2), an average” for “An average”, inserted before period at end “, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part”, and added par. (2).
+    1990—Subsec. (a). [Pub. L. 101–440][/us/pl/101/440], § 7(d), substituted “(1) Except as provided in paragraph (2), an average” for “An average”, inserted before period at end “, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part”, and added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 101–440, § 7(e)(1)][/us/pl/101/440/s7/e/1], substituted “Except as provided in paragraphs (3) and (4), the expenditure” for “The expenditure”.
+    Subsec. (c)(1). [Pub. L. 101–440][/us/pl/101/440], § 7(e)(1), substituted “Except as provided in paragraphs (3) and (4), the expenditure” for “The expenditure”.
 
-    Subsec. (c)(3), (4). [Pub. L. 101–440, § 7(e)(2)][/us/pl/101/440/s7/e/2], added pars. (3) and (4).
+    Subsec. (c)(3), (4). [Pub. L. 101–440][/us/pl/101/440], § 7(e)(2), added pars. (3) and (4).
 
-    Subsec. (d). [Pub. L. 101–440, § 7(i)][/us/pl/101/440/s7/i], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–440][/us/pl/101/440], § 7(i), added subsec. (d).
 
-    [Pub. L. 101–440, § 7(f)][/us/pl/101/440/s7/f], struck out subsec. (d) which established a performance fund to provide financial assistance to those States the Secretary determined to have demonstrated the best performance during the previous fiscal year in providing weatherization assistance.
+    [Pub. L. 101–440][/us/pl/101/440], § 7(f), struck out subsec. (d) which established a performance fund to provide financial assistance to those States the Secretary determined to have demonstrated the best performance during the previous fiscal year in providing weatherization assistance.
 
-    Subsec. (e). [Pub. L. 101–440, § 7(i)][/us/pl/101/440/s7/i], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–440][/us/pl/101/440], § 7(i), added subsec. (e).
 
-    1984—Subsec. (a). [Pub. L. 98–558, § 403(1)][/us/pl/98/558/s403/1], substituted provisions that an average of at least forty percent of the funds provided shall be spent for weatherization for former provisions which directed the Secretary to use funds to the maximum extent practicable.
+    1984—Subsec. (a). [Pub. L. 98–558][/us/pl/98/558], § 403(1), substituted provisions that an average of at least forty percent of the funds provided shall be spent for weatherization for former provisions which directed the Secretary to use funds to the maximum extent practicable.
 
-    Subsec. (c). [Pub. L. 98–558, § 403(2)][/us/pl/98/558/s403/2], in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
+    Subsec. (c). [Pub. L. 98–558][/us/pl/98/558], § 403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
 
-    Subsec. (d). [Pub. L. 98–558, § 404][/us/pl/98/558/s404], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–558][/us/pl/98/558], § 404, added subsec. (d).
 
     1980—Subsec. (a). [Pub. L. 96–294][/us/pl/96/294], §§ 571, 577(2), substituted “Secretary” for “Administrator” and provisions limiting amounts used for administrative purposes in any grant made by the Secretary under this part for provisions limiting amounts used for administrative purposes in any grant made pursuant to [section 6863(a) of this title][/us/usc/t42/s6863/a] and any allocations under this section.
 
@@ -191,17 +191,17 @@
 
     Subsec. (c)(1). [Pub. L. 96–294][/us/pl/96/294], §§ 572(1), 575, inserted in provision preceding subpar. (A) reference to par. (3) and in subpar. (D) substituted “$150” for “$100”.
 
-    Subsec. (c)(2). [Pub. L. 96–294, § 577(2)][/us/pl/96/294/s577/2], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (c)(2). [Pub. L. 96–294][/us/pl/96/294], § 577(2), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (c)(3). [Pub. L. 96–294, § 572(2)][/us/pl/96/294/s572/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 96–294][/us/pl/96/294], § 572(2), added par. (3).
 
-    1978—Subsec. (a). [Pub. L. 95–619, § 231(c)(1)][/us/pl/95/619/s231/c/1], authorized expenditure of allocations under this part for costs related to weatherization of a dwelling unit as provided in subsec. (c) of this section and substituted an administrative expenses limitation of five percent of any allocation under this section for a similar limitation of ten percent of any such allocation.
+    1978—Subsec. (a). [Pub. L. 95–619][/us/pl/95/619], § 231(c)(1), authorized expenditure of allocations under this part for costs related to weatherization of a dwelling unit as provided in subsec. (c) of this section and substituted an administrative expenses limitation of five percent of any allocation under this section for a similar limitation of ten percent of any such allocation.
 
-    Subsec. (c). [Pub. L. 95–619, § 231(c)(2)][/us/pl/95/619/s231/c/2], included expenditure of financial assistance provided under this section for costs related to procurement and installation of weatherization materials in dwelling units in the maximum amount available per dwelling unit and increased such maximum amount to $800 per unit.
+    Subsec. (c). [Pub. L. 95–619][/us/pl/95/619], § 231(c)(2), included expenditure of financial assistance provided under this section for costs related to procurement and installation of weatherization materials in dwelling units in the maximum amount available per dwelling unit and increased such maximum amount to $800 per unit.
 
  __Performance Fund; Restriction on Use__ 
 
-[Pub. L. 99–190, § 101(d)][/us/pl/99/190/s101/d] \[title II, § 201\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1253, provided: 
+[Pub. L. 99–190][/us/pl/99/190], § 101(d) \[title II, § 201\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1253, provided: 
 
 > “That [section 404 of Public Law 98–558][/us/pl/98/558/s404] \[enacting subsec. (d) of this section\] shall not be effective in any fiscal year in which the amount made available for low income weatherization assistance from appropriations under this head is less than 5 per centum above the amount made available in fiscal year 1985.”
 
@@ -216,60 +216,60 @@
 [/us/usc/t42/s2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2781
 [/us/usc/t42/s6868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6868
 [/us/usc/t42/s6325/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6325%2Fg
-[/us/pl/94/385/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs415
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1155
-[/us/pl/95/619/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs231%2Fc
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3225
-[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F759
-[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtIV
 [/us/stat/98/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2887
-[/us/pl/101/440/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fd
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1013
-[/us/pl/106/469/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb
+[/us/pl/106/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtVI
 [/us/stat/114/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2040
-[/us/pl/109/58/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs206%2Fa
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F654
-[/us/pl/111/5/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs407%2Fb
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F146
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/usc/t42/s6872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6872
-[/us/pl/105/388/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs3
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3477
-[/us/pl/111/5/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs407%2Fb
-[/us/pl/111/5/s407/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs407%2Fe
-[/us/pl/109/58/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs206%2Fa%2F1
-[/us/pl/109/58/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs206%2Fa%2F2
-[/us/pl/109/58/s206/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs206%2Fa%2F3
-[/us/pl/106/469/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F1
-[/us/pl/106/469/s601/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F2%2FC
-[/us/pl/106/469/s601/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F2%2FB
-[/us/pl/106/469/s601/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F2%2FA
-[/us/pl/106/469/s601/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F3%2FA
-[/us/pl/106/469/s601/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F3%2FC
-[/us/pl/106/469/s601/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F4
-[/us/pl/106/469/s601/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs601%2Fb%2F5
-[/us/pl/101/440/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fd
-[/us/pl/101/440/s7/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fe%2F1
-[/us/pl/101/440/s7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fe%2F2
-[/us/pl/101/440/s7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fi
-[/us/pl/101/440/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Ff
-[/us/pl/101/440/s7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fi
-[/us/pl/98/558/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs403%2F1
-[/us/pl/98/558/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs403%2F2
-[/us/pl/98/558/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs404
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/usc/t42/s6863/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6863%2Fa
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
-[/us/pl/96/294/s572/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs572%2F2
-[/us/pl/95/619/s231/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs231%2Fc%2F1
-[/us/pl/95/619/s231/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs231%2Fc%2F2
-[/us/pl/99/190/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fd
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1224
 [/us/pl/98/558/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs404
 

@@ -47,7 +47,7 @@
 
         As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and Labor of the House of Representative a report describing the results of the evaluation.
 
-([Pub. L. 110–234, title IV, § 4305][/us/pl/110/234/s4305], May 22, 2008, [122 Stat. 1131][/us/stat/122/1131]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4305, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1892.)
+([Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4305, May 22, 2008, [122 Stat. 1131][/us/stat/122/1131]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4305, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1892.)
 
  __References in Text__ 
 
@@ -83,9 +83,9 @@
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
-[/us/pl/110/234/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4305
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1131
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230

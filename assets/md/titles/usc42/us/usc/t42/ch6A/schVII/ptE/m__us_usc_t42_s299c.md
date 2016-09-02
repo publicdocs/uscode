@@ -111,7 +111,7 @@
 
         Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisory Council shall continue in existence until otherwise provided by law.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 941, formerly § 921, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1663][/us/stat/113/1663]; amended [Pub. L. 108–173, title IX, § 900(e)(2)(D)][/us/pl/108/173/s900/e/2/D], Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372]; renumbered § 931, [Pub. L. 109–41, § 2(a)(3)][/us/pl/109/41/s2/a/3], July 29, 2005, [119 Stat. 424][/us/stat/119/424]; renumbered § 941, [Pub. L. 111–148, title III, § 3013(a)(2)][/us/pl/111/148/s3013/a/2], Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 941, formerly § 921, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1663][/us/stat/113/1663]; amended [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(2)(D), Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372]; renumbered § 931, [Pub. L. 109–41][/us/pl/109/41], § 2(a)(3), July 29, 2005, [119 Stat. 424][/us/stat/119/424]; renumbered § 941, [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3013(a)(2), Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
 
  __References in Text__ 
 
@@ -119,9 +119,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 299c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 921, as added [Pub. L. 101–239, title VI, § 6103(c)][/us/pl/101/239/s6103/c], Dec. 19, 1989, [103 Stat. 2199][/us/stat/103/2199]; amended [Pub. L. 102–410, § 8][/us/pl/102/410/s8], Oct. 13, 1992, [106 Stat. 2100][/us/stat/106/2100], established the Advisory Council for Health Care Policy, Research, and Evaluation, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
+    A prior section 299c, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 921, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(c), Dec. 19, 1989, [103 Stat. 2199][/us/stat/103/2199]; amended [Pub. L. 102–410][/us/pl/102/410], § 8, Oct. 13, 1992, [106 Stat. 2100][/us/stat/106/2100], established the Advisory Council for Health Care Policy, Research, and Evaluation, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129].
 
-    Another prior section 299c, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 903, as added Oct. 6, 1965, [Pub. L. 89–239, § 2][/us/pl/89/239/s2], [79 Stat. 927][/us/stat/79/927]; amended Oct. 15, 1968, [Pub. L. 90–574, title I, § 104][/us/pl/90/574/s104], [82 Stat. 1005][/us/stat/82/1005]; Oct. 30, 1970, [Pub. L. 91–515, title I][/us/pl/91/515], §§ 105, 111(b), [84 Stat. 1299][/us/stat/84/1299], 1301, authorized Secretary to make planning grants and set forth requirements for grant applications, prior to repeal by [Pub. L. 99–117, § 12(d)][/us/pl/99/117/s12/d], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    Another prior section 299c, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 903, as added Oct. 6, 1965, [Pub. L. 89–239][/us/pl/89/239], § 2, [79 Stat. 927][/us/stat/79/927]; amended Oct. 15, 1968, [Pub. L. 90–574, title I][/us/pl/90/574/tI], § 104, [82 Stat. 1005][/us/stat/82/1005]; Oct. 30, 1970, [Pub. L. 91–515, title I][/us/pl/91/515/tI], §§ 105, 111(b), [84 Stat. 1299][/us/stat/84/1299], 1301, authorized Secretary to make planning grants and set forth requirements for grant applications, prior to repeal by [Pub. L. 99–117][/us/pl/99/117], § 12(d), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
  __Amendments__ 
 
@@ -138,29 +138,29 @@
 [/us/usc/t42/s1320b–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9312
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1663
-[/us/pl/108/173/s900/e/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F2%2FD
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2372
-[/us/pl/109/41/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F3
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
-[/us/pl/111/148/s3013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3013%2Fa%2F2
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F381
 [/us/pl/92/463/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fa
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fc
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2199
-[/us/pl/102/410/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410%2Fs8
+[/us/pl/102/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F410
 [/us/stat/106/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2100
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239%2Fs2
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/89/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F239
 [/us/stat/79/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F927
-[/us/pl/90/574/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2Fs104
+[/us/pl/90/574/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2FtI
 [/us/stat/82/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1005
-[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtI
 [/us/stat/84/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1299
-[/us/pl/99/117/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fd
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 

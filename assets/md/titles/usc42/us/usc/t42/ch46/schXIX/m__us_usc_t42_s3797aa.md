@@ -385,7 +385,7 @@
 
             For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
 
-([Pub. L. 90–351, title I, § 2991][/us/pl/90/351/s2991], as added [Pub. L. 108–414, § 4(a)][/us/pl/108/414/s4/a], Oct. 30, 2004, [118 Stat. 2328][/us/stat/118/2328]; amended [Pub. L. 110–416][/us/pl/110/416], §§ 3, 4, Oct. 14, 2008, [122 Stat. 4352][/us/stat/122/4352], 4353.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2991, as added [Pub. L. 108–414][/us/pl/108/414], § 4(a), Oct. 30, 2004, [118 Stat. 2328][/us/stat/118/2328]; amended [Pub. L. 110–416][/us/pl/110/416], §§ 3, 4, Oct. 14, 2008, [122 Stat. 4352][/us/stat/122/4352], 4353.)
 
  __References in Text__ 
 
@@ -393,7 +393,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–416, § 3(c)][/us/pl/110/416/s3/c], amended subsec. (c) generally. Prior to amendment, text read as follows:
+    2008—Subsec. (c). [Pub. L. 110–416][/us/pl/110/416], § 3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
     “The Attorney General, in awarding funds under this section, shall give priority to applications that—
 
@@ -405,17 +405,17 @@
 
     “(4) have the support of both the Attorney General and the Secretary.”
 
-    Subsec. (h). [Pub. L. 110–416, § 4(2)][/us/pl/110/416/s4/2], added subsec. (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 110–416][/us/pl/110/416], § 4(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-    [Pub. L. 110–416, § 3(b)][/us/pl/110/416/s3/b], designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2).
+    [Pub. L. 110–416][/us/pl/110/416], § 3(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2).
 
-    [Pub. L. 110–416, § 3(a)][/us/pl/110/416/s3/a], substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3).
+    [Pub. L. 110–416][/us/pl/110/416], § 3(a), substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3).
 
-    Subsec. (i). [Pub. L. 110–416, § 4(1)][/us/pl/110/416/s4/1], redesignated subsec. (h) as (i).
+    Subsec. (i). [Pub. L. 110–416][/us/pl/110/416], § 4(1), redesignated subsec. (h) as (i).
 
  __Findings__ 
 
-[Pub. L. 110–416, § 2][/us/pl/110/416/s2], Oct. 14, 2008, [122 Stat. 4352][/us/stat/122/4352], provided that: 
+[Pub. L. 110–416][/us/pl/110/416], § 2, Oct. 14, 2008, [122 Stat. 4352][/us/stat/122/4352], provided that: 
 
 > “Congress finds the following:
 
@@ -427,7 +427,7 @@
 
 >     “(4) State prisoners with a mental health problem are twice as likely as those without a mental health problem to have been homeless in the year before their arrest.”
 
-[Pub. L. 108–414, § 2][/us/pl/108/414/s2], Oct. 30, 2004, [118 Stat. 2327][/us/stat/118/2327], provided that: 
+[Pub. L. 108–414][/us/pl/108/414], § 2, Oct. 30, 2004, [118 Stat. 2327][/us/stat/118/2327], provided that: 
 
 > “Congress finds the following:
 
@@ -447,7 +447,7 @@
 
  __Purpose__ 
 
-[Pub. L. 108–414, § 3][/us/pl/108/414/s3], Oct. 30, 2004, [118 Stat. 2328][/us/stat/118/2328], provided that: 
+[Pub. L. 108–414][/us/pl/108/414], § 3, Oct. 30, 2004, [118 Stat. 2328][/us/stat/118/2328], provided that: 
 
 > “The purpose of this Act \[see Short Title of 2004 Amendment note set out under [section 3711 of this title][/us/usc/t42/s3711]\] is to increase public safety by facilitating collaboration among the criminal justice, juvenile justice, mental health treatment, and substance abuse systems. Such collaboration is needed to—
 
@@ -472,24 +472,24 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2991
-[/us/pl/108/414/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414%2Fs4%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/108/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414
 [/us/stat/118/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2328
 [/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
 [/us/stat/122/4352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4352
 [/us/pl/108/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414
 [/us/stat/118/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2327
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
-[/us/pl/110/416/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416%2Fs3%2Fc
-[/us/pl/110/416/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416%2Fs4%2F2
-[/us/pl/110/416/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416%2Fs3%2Fb
-[/us/pl/110/416/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416%2Fs3%2Fa
-[/us/pl/110/416/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416%2Fs4%2F1
-[/us/pl/110/416/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416%2Fs2
+[/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
+[/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
+[/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
+[/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
+[/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
+[/us/pl/110/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F416
 [/us/stat/122/4352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4352
-[/us/pl/108/414/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414%2Fs2
+[/us/pl/108/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414
 [/us/stat/118/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2327
-[/us/pl/108/414/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414%2Fs3
+[/us/pl/108/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F414
 [/us/stat/118/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2328
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 

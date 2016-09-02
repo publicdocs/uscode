@@ -41,7 +41,7 @@
 
         This section applies to DOJ grant funds for fiscal years beginning with fiscal year 2006.
 
-([Pub. L. 90–351, title I, § 108][/us/pl/90/351/s108], as added [Pub. L. 109–162, title XI, § 1161(a)][/us/pl/109/162/s1161/a], Jan. 5, 2006, [119 Stat. 3118][/us/stat/119/3118]; amended [Pub. L. 109–271, § 8(g)][/us/pl/109/271/s8/g], Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 108, as added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1161(a), Jan. 5, 2006, [119 Stat. 3118][/us/stat/119/3118]; amended [Pub. L. 109–271][/us/pl/109/271], § 8(g), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–162, title XI, § 1161(b)][/us/pl/109/162/s1161/b], Jan. 5, 2006, [119 Stat. 3118][/us/stat/119/3118], as amended by [Pub. L. 109–271, § 8(n)(4)(B)][/us/pl/109/271/s8/n/4/B], Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that: 
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1161(b), Jan. 5, 2006, [119 Stat. 3118][/us/stat/119/3118], as amended by [Pub. L. 109–271][/us/pl/109/271], § 8(n)(4)(B), Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that: 
 
 > “This section \[enacting this section\] and the amendment made by this section take effect on October 1, 2006.”
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/90/351/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs108
-[/us/pl/109/162/s1161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1161%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3118
-[/us/pl/109/271/s8/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fg
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F767
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s1161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1161%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3118
-[/us/pl/109/271/s8/n/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fn%2F4%2FB
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F768
 
 

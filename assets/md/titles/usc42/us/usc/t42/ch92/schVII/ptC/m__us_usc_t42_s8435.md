@@ -35,7 +35,7 @@
 
         Nothing in this section shall restrict any right which any aggrieved person (or class of aggrieved persons) may have under any statute or common law to seek enforcement of this chapter or any rule thereunder, or to seek any other relief (including relief against the Secretary or the agency head involved).
 
-([Pub. L. 95–620, title VII, § 725][/us/pl/95/620/s725], Nov. 9, 1978, [92 Stat. 3335][/us/stat/92/3335].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 725, Nov. 9, 1978, [92 Stat. 3335][/us/stat/92/3335].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/620/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs725
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3335
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

@@ -17,7 +17,7 @@
 
     Not later than 1 year after July 26, 1990, the Commission shall issue regulations in an accessible format to carry out this subchapter in accordance with subchapter II of chapter 5 of title 5.
 
-([Pub. L. 101–336, title I, § 106][/us/pl/101/336/s106], July 26, 1990, [104 Stat. 336][/us/stat/104/336].)
+([Pub. L. 101–336, title I][/us/pl/101/336/tI], § 106, July 26, 1990, [104 Stat. 336][/us/stat/104/336].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/336/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs106
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F336
 
 

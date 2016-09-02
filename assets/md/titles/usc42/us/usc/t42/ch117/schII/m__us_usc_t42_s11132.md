@@ -41,7 +41,7 @@
 
         If, after notice of noncompliance and providing opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (a) of this section, the Secretary shall designate another qualified entity for the reporting of information under [section 11133 of this title][/us/usc/t42/s11133].
 
-([Pub. L. 99–660, title IV, § 422][/us/pl/99/660/s422], Nov. 14, 1986, [100 Stat. 3789][/us/stat/100/3789].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 422, Nov. 14, 1986, [100 Stat. 3789][/us/stat/100/3789].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t42/s11134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134
 [/us/usc/t42/s11133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11133
-[/us/pl/99/660/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs422
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3789
 
 

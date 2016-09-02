@@ -111,35 +111,35 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1261, as added [Pub. L. 103–43, title III, § 303(a)][/us/pl/103/43/s303/a], June 10, 1993, [107 Stat. 151][/us/stat/107/151]; amended [Pub. L. 104–166, § 2][/us/pl/104/166/s2], July 29, 1996, [110 Stat. 1445][/us/stat/110/1445]; [Pub. L. 106–310, div. A, title XIII, § 1303][/us/pl/106/310/s1303], Oct. 17, 2000, [114 Stat. 1138][/us/stat/114/1138]; [Pub. L. 110–206, § 5][/us/pl/110/206/s5], Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716]; [Pub. L. 113–152, § 2(b)][/us/pl/113/152/s2/b], Aug. 8, 2014, [128 Stat. 1825][/us/stat/128/1825].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1261, as added [Pub. L. 103–43, title III][/us/pl/103/43/tIII], § 303(a), June 10, 1993, [107 Stat. 151][/us/stat/107/151]; amended [Pub. L. 104–166][/us/pl/104/166], § 2, July 29, 1996, [110 Stat. 1445][/us/stat/110/1445]; [Pub. L. 106–310, div. A, title XIII][/us/pl/106/310/dA/tXIII], § 1303, Oct. 17, 2000, [114 Stat. 1138][/us/stat/114/1138]; [Pub. L. 110–206][/us/pl/110/206], § 5, Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716]; [Pub. L. 113–152][/us/pl/113/152], § 2(b), Aug. 8, 2014, [128 Stat. 1825][/us/stat/128/1825].)
 
  __Amendments__ 
 
     2014—Subsec. (h)(3). [Pub. L. 113–152][/us/pl/113/152] amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘trauma’ means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.”
 
-    2008—Subsec. (b)(2). [Pub. L. 110–206, § 5(1)][/us/pl/110/206/s5/1], substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+    2008—Subsec. (b)(2). [Pub. L. 110–206][/us/pl/110/206], § 5(1), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
 
-    Subsec. (d)(4)(D). [Pub. L. 110–206, § 5(2)][/us/pl/110/206/s5/2], substituted “brain injury” for “head brain injury”.
+    Subsec. (d)(4)(D). [Pub. L. 110–206][/us/pl/110/206], § 5(2), substituted “brain injury” for “head brain injury”.
 
-    Subsec. (i). [Pub. L. 110–206, § 5(3)][/us/pl/110/206/s5/3], inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
+    Subsec. (i). [Pub. L. 110–206][/us/pl/110/206], § 5(3), inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
 
-    2000—Subsec. (d)(4)(A). [Pub. L. 106–310, § 1303(a)(1)][/us/pl/106/310/s1303/a/1], substituted “degree of brain injury” for “degree of injury”.
+    2000—Subsec. (d)(4)(A). [Pub. L. 106–310][/us/pl/106/310], § 1303(a)(1), substituted “degree of brain injury” for “degree of injury”.
 
-    Subsec. (d)(4)(B). [Pub. L. 106–310, § 1303(a)(2)][/us/pl/106/310/s1303/a/2], which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not be executed because the phrase “acute injury” does not appear in text.
+    Subsec. (d)(4)(B). [Pub. L. 106–310][/us/pl/106/310], § 1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not be executed because the phrase “acute injury” does not appear in text.
 
-    Subsec. (d)(4)(C). [Pub. L. 106–310, § 1303(c)(1)][/us/pl/106/310/s1303/c/1], struck out “and” after semicolon at end.
+    Subsec. (d)(4)(C). [Pub. L. 106–310][/us/pl/106/310], § 1303(c)(1), struck out “and” after semicolon at end.
 
-    Subsec. (d)(4)(D). [Pub. L. 106–310, § 1303(a)(3)][/us/pl/106/310/s1303/a/3], (c)(2), substituted “brain injury treatment” for “injury treatment” and “; and” for period at end.
+    Subsec. (d)(4)(D). [Pub. L. 106–310][/us/pl/106/310], § 1303(a)(3), (c)(2), substituted “brain injury treatment” for “injury treatment” and “; and” for period at end.
 
-    Subsec. (d)(4)(E). [Pub. L. 106–310, § 1303(c)(3)][/us/pl/106/310/s1303/c/3], added subpar. (E).
+    Subsec. (d)(4)(E). [Pub. L. 106–310][/us/pl/106/310], § 1303(c)(3), added subpar. (E).
 
-    Subsec. (h)(4). [Pub. L. 106–310, § 1303(b)][/us/pl/106/310/s1303/b], substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence and inserted before period at end “, after consultation with States and other appropriate public or nonprofit private entities”.
+    Subsec. (h)(4). [Pub. L. 106–310][/us/pl/106/310], § 1303(b), substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence and inserted before period at end “, after consultation with States and other appropriate public or nonprofit private entities”.
 
-    Subsec. (i). [Pub. L. 106–310, § 1303(d)][/us/pl/106/310/s1303/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–310][/us/pl/106/310], § 1303(d), added subsec. (i).
 
-    1996—Subsec. (d)(4). [Pub. L. 104–166, § 2(1)][/us/pl/104/166/s2/1], added par. (4).
+    1996—Subsec. (d)(4). [Pub. L. 104–166][/us/pl/104/166], § 2(1), added par. (4).
 
-    Subsec. (h)(4). [Pub. L. 104–166, § 2(2)][/us/pl/104/166/s2/2], added par. (4).
+    Subsec. (h)(4). [Pub. L. 104–166][/us/pl/104/166], § 2(2), added par. (4).
 
  __Change of Name__ 
 
@@ -147,7 +147,7 @@
 
  __Traumatic Brain Injury Study; Consensus Conference__ 
 
-    [Pub. L. 104–166, § 4][/us/pl/104/166/s4], July 29, 1996, [110 Stat. 1448][/us/stat/110/1448], as amended by [Pub. L. 106–310, div. A, title XIII, § 1302][/us/pl/106/310/s1302], Oct. 17, 2000, [114 Stat. 1138][/us/stat/114/1138], required the Secretary of Health and Human Services to conduct a study of traumatic brain injuries, to submit a report to Congress within 18 months of July 29, 1996 on the findings of such study and a report within 3 years of that date on certain therapeutic interventions and guidelines developed in the study, and to conduct a national consensus conference on managing traumatic brain injury and related rehabilitation concerns.
+    [Pub. L. 104–166][/us/pl/104/166], § 4, July 29, 1996, [110 Stat. 1448][/us/stat/110/1448], as amended by [Pub. L. 106–310, div. A, title XIII][/us/pl/106/310/dA/tXIII], § 1302, Oct. 17, 2000, [114 Stat. 1138][/us/stat/114/1138], required the Secretary of Health and Human Services to conduct a study of traumatic brain injuries, to submit a report to Congress within 18 months of July 29, 1996 on the findings of such study and a report within 3 years of that date on certain therapeutic interventions and guidelines developed in the study, and to conduct a national consensus conference on managing traumatic brain injury and related rehabilitation concerns.
 
 ----------
 
@@ -158,34 +158,34 @@
 
 [/us/usc/t42/s300d–31/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9331%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs303%2Fa
+[/us/pl/103/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIII
 [/us/stat/107/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F151
-[/us/pl/104/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166%2Fs2
+[/us/pl/104/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166
 [/us/stat/110/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1445
-[/us/pl/106/310/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303
+[/us/pl/106/310/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIII
 [/us/stat/114/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1138
-[/us/pl/110/206/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/stat/122/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F716
-[/us/pl/113/152/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F152%2Fs2%2Fb
+[/us/pl/113/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F152
 [/us/stat/128/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1825
 [/us/pl/113/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F152
-[/us/pl/110/206/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5%2F1
-[/us/pl/110/206/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5%2F2
-[/us/pl/110/206/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5%2F3
-[/us/pl/106/310/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303%2Fa%2F1
-[/us/pl/106/310/s1303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303%2Fa%2F2
-[/us/pl/106/310/s1303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303%2Fc%2F1
-[/us/pl/106/310/s1303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303%2Fa%2F3
-[/us/pl/106/310/s1303/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303%2Fc%2F3
-[/us/pl/106/310/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303%2Fb
-[/us/pl/106/310/s1303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1303%2Fd
-[/us/pl/104/166/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166%2Fs2%2F1
-[/us/pl/104/166/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166%2Fs2%2F2
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/104/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166
+[/us/pl/104/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/104/166/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166%2Fs4
+[/us/pl/104/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F166
 [/us/stat/110/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1448
-[/us/pl/106/310/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1302
+[/us/pl/106/310/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIII
 [/us/stat/114/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1138
 
 

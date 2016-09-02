@@ -123,7 +123,7 @@
 
         The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
 
-([Pub. L. 99–499, title III, § 312][/us/pl/99/499/s312], Oct. 17, 1986, [100 Stat. 1738][/us/stat/100/1738].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 312, Oct. 17, 1986, [100 Stat. 1738][/us/stat/100/1738].)
 
  __References in Text__ 
 
@@ -144,7 +144,7 @@
 [/us/usc/t42/s11044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11044
 [/us/usc/t42/s11044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11044
 [/us/usc/t42/s11044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11044
-[/us/pl/99/499/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs312
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1738
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

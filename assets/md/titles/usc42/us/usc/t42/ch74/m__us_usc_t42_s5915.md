@@ -17,7 +17,7 @@
 
     There may be appropriated to the Secretary to carry out the purposes of this chapter such sums as may be authorized in annual authorization Acts.
 
-([Pub. L. 93–577, § 16][/us/pl/93/577/s16], Dec. 31, 1974, [88 Stat. 1894][/us/stat/88/1894]; [Pub. L. 109–58, title X, § 1009(b)(10)][/us/pl/109/58/s1009/b/10], Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
+([Pub. L. 93–577][/us/pl/93/577], § 16, Dec. 31, 1974, [88 Stat. 1894][/us/stat/88/1894]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(10), Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Alternative Fuels Production; Energy Security Reserve Fund__ 
 
-[Pub. L. 96–126, title II, § 201][/us/pl/96/126/s201], Nov. 27, 1979, [93 Stat. 970][/us/stat/93/970], as amended by [Pub. L. 99–190, § 101(d)][/us/pl/99/190/s101/d] \[title II, § 201\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1255, provided that:
+[Pub. L. 96–126, title II][/us/pl/96/126/tII], § 201, Nov. 27, 1979, [93 Stat. 970][/us/stat/93/970], as amended by [Pub. L. 99–190][/us/pl/99/190], § 101(d) \[title II, § 201\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1255, provided that:
 
 >     “In order to expedite the domestic development and production of alternative fuels and to reduce dependence on foreign supplies of energy resources by establishing such domestic production at maximum levels at the earliest time practicable, there is hereby established in the Treasury of the United States a special fund to be designated the ‘Energy Security Reserve’, to which is appropriated $19,000,000,000, to remain available until expended: Provided, That these funds shall be available for obligation only to stimulate domestic commercial production of alternative fuels and only to the extent provided in advance in appropriations Acts: Provided further, That of these funds $1,500,000,000 shall be available immediately to the Secretary of Energy to carry out the provisions of the Federal Nonnuclear Energy Research and Development Act of 1974, as amended ([42 U.S.C. 5901][/us/usc/t42/s5901], et seq.), to remain available until expended, for the purchase or production by way of purchase commitments or price guarantees of alternative fuels: Provided further, That the Secretary shall immediately begin the contract process for purchases of, or commitments to purchase, or to resell alternative fuels to the extent of appropriations provided herein: Provided further, That of these funds an additional $708,000,000 shall be available immediately to the Secretary of Energy, to remain available until expended, to support preliminary alternative fuels commercialization activities under the Federal Nonnuclear Energy Research and Development Act of 1974, as amended, of which (1) not to exceed $100,000,000 shall be available for project development feasibility studies, such individual awards not to exceed $4,000,000: Provided, That the Secretary may require repayment of such funds where studies determine that such project proposals have economic or technical feasibility; (2) not to exceed $100,000,000 shall be available for cooperative agreements with non-Federal entities, such individual agreements not to exceed $25,000,000 to support commercial scale development of alternative fuel facilities; (3) not to exceed $500,000,000 shall be available for a reserve to cover any defaults from loan guarantees issued to finance the construction of alternative fuels production facilities as authorized by the Federal Nonnuclear Energy Research and Development Act of 1974, as amended: Provided, That the indebtedness guaranteed or committed to be guaranteed under this appropriation shall not exceed the aggregate of $1,500,000,000; and (4) not to exceed $8,000,000 shall be available for program management.
 
@@ -47,15 +47,15 @@
 
 Additional provisions relating to appropriations for the Energy Security Reserve Fund, purposes for which the Fund is available, and administrative provisions for the Fund and alternative fuels production were contained in the following appropriation Acts:
 
-    [Pub. L. 98–369, div. B, title I, § 2103][/us/pl/98/369/s2103], July 18, 1984, [98 Stat. 1058][/us/stat/98/1058].
+    [Pub. L. 98–369, div. B, title I][/us/pl/98/369/dB/tI], § 2103, July 18, 1984, [98 Stat. 1058][/us/stat/98/1058].
 
-    [Pub. L. 97–100, title II][/us/pl/97/100], Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407].
+    [Pub. L. 97–100, title II][/us/pl/97/100/tII], Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407].
 
-    [Pub. L. 97–12, title I][/us/pl/97/12], June 5, 1981, [95 Stat. 48][/us/stat/95/48].
+    [Pub. L. 97–12, title I][/us/pl/97/12/tI], June 5, 1981, [95 Stat. 48][/us/stat/95/48].
 
-    [Pub. L. 96–369, § 121][/us/pl/96/369/s121], Oct. 1, 1980, [94 Stat. 1357][/us/stat/94/1357].
+    [Pub. L. 96–369][/us/pl/96/369], § 121, Oct. 1, 1980, [94 Stat. 1357][/us/stat/94/1357].
 
-    [Pub. L. 96–304, title I][/us/pl/96/304], July 8, 1980, [94 Stat. 880–882][/us/stat/94/880-882], as amended [Pub. L. 96–514, title II][/us/pl/96/514], Dec. 12, 1980, [94 Stat. 2974][/us/stat/94/2974].
+    [Pub. L. 96–304, title I][/us/pl/96/304/tI], July 8, 1980, [94 Stat. 880–882][/us/stat/94/880-882], as amended [Pub. L. 96–514, title II][/us/pl/96/514/tII], Dec. 12, 1980, [94 Stat. 2974][/us/stat/94/2974].
 
 ----------
 
@@ -64,30 +64,30 @@ Additional provisions relating to appropriations for the Energy Security Reserve
 ----------
 ----------
 
-[/us/pl/93/577/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs16
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1894
-[/us/pl/109/58/s1009/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F10
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F935
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/96/126/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126%2Fs201
+[/us/pl/96/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126%2FtII
 [/us/stat/93/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F970
-[/us/pl/99/190/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fd
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1224
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/pl/96/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126
 [/us/usc/t42/s5919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5919
 [/us/usc/t42/s5919/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5919%2Fb%2F1
-[/us/pl/98/369/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2103
+[/us/pl/98/369/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtI
 [/us/stat/98/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1058
-[/us/pl/97/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100
+[/us/pl/97/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2FtII
 [/us/stat/95/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1407
-[/us/pl/97/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12
+[/us/pl/97/12/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2FtI
 [/us/stat/95/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F48
-[/us/pl/96/369/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F369%2Fs121
+[/us/pl/96/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F369
 [/us/stat/94/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1357
-[/us/pl/96/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/880-882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F880-882
-[/us/pl/96/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514
+[/us/pl/96/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2FtII
 [/us/stat/94/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2974
 
 

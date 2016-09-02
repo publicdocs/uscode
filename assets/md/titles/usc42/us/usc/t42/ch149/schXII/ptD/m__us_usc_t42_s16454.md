@@ -33,7 +33,7 @@
 
         (2) the Commission finds that any class of transactions is not relevant to the jurisdictional rates of a public utility or natural gas company.
 
-([Pub. L. 109–58, title XII, § 1266][/us/pl/109/58/s1266], Aug. 8, 2005, [119 Stat. 975][/us/stat/119/975].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1266, Aug. 8, 2005, [119 Stat. 975][/us/stat/119/975].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t42/s16452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16452
 [/us/usc/t16/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2601
 [/us/usc/t42/s16452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16452
-[/us/pl/109/58/s1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1266
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F975
 [/us/usc/t42/s16451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16451
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617

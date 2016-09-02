@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 107–273, div. B, title II, § 2301(a)][/us/pl/107/273/s2301/a], Nov. 2, 2002, [116 Stat. 1794][/us/stat/116/1794], which directed that part EE (this subchapter) be inserted after part DD of title I of [Pub. L. 90–351][/us/pl/90/351], was executed by adding part EE to title I of [Pub. L. 90–351][/us/pl/90/351] to reflect the probable intent of Congress, notwithstanding that title I of [Pub. L. 90–351][/us/pl/90/351] did not contain a part DD.
+    [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2301(a), Nov. 2, 2002, [116 Stat. 1794][/us/stat/116/1794], which directed that part EE (this subchapter) be inserted after part DD of title I of [Pub. L. 90–351][/us/pl/90/351], was executed by adding part EE to title I of [Pub. L. 90–351][/us/pl/90/351] to reflect the probable intent of Congress, notwithstanding that title I of [Pub. L. 90–351][/us/pl/90/351] did not contain a part DD.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fa
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1794
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351

@@ -43,7 +43,7 @@
 
         Any amounts received on or after October 1, 1991, as repayments or recaptures in connection with the programs referred to in subsection (a) of this section and any other amounts for such programs that remain or become unobligated on or after such date, shall be paid into the general fund of the Treasury.
 
-([Pub. L. 101–625, title II, § 289][/us/pl/101/625/s289], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289, Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128]; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675].)
 
  __References in Text__ 
 
@@ -68,9 +68,9 @@
 [/us/usc/t42/s11360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360
 [/us/usc/t12/s1706e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1706e
 [/us/usc/t42/s11360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360
-[/us/pl/101/625/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77

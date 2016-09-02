@@ -19,13 +19,13 @@
 
     (b) Any person eligible for a payment under subsection (a) of this section may elect to apply such payment to a down payment on, and other incidental expenses pursuant to, the purchase of a decent, safe, and sanitary replacement dwelling. Any such person may, at the discretion of the head of the displacing agency, be eligible under this subsection for the maximum payment allowed under subsection (a) of this section.
 
-([Pub. L. 91–646, title II, § 204][/us/pl/91/646/s204], Jan. 2, 1971, [84 Stat. 1897][/us/stat/84/1897]; [Pub. L. 100–17, title IV, § 407][/us/pl/100/17/s407], Apr. 2, 1987, [101 Stat. 251][/us/stat/101/251]; [Pub. L. 112–141, div. A, title I, § 1521(c)][/us/pl/112/141/s1521/c], July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 204, Jan. 2, 1971, [84 Stat. 1897][/us/stat/84/1897]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 407, Apr. 2, 1987, [101 Stat. 251][/us/stat/101/251]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1521(c), July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 1521(c)(1)][/us/pl/112/141/s1521/c/1], in second sentence, substituted “$7,200, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]” for “$5,250”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 1521(c)(1), in second sentence, substituted “$7,200, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]” for “$5,250”.
 
-    Subsec. (b). [Pub. L. 112–141, § 1521(c)(2)][/us/pl/112/141/s1521/c/2], substituted period at end of second sentence for “, except that, in the case of a displaced homeowner who has owned and occupied the displacement dwelling for at least 90 days but not more than 180 days immediately prior to the initiation of negotiations for the acquisition of such dwelling, such payment shall not exceed the payment such person would otherwise have received under [section 4623(a) of this title][/us/usc/t42/s4623/a] had the person owned and occupied the displacement dwelling 180 days immediately prior to the initiation of such negotiations.”
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1521(c)(2), substituted period at end of second sentence for “, except that, in the case of a displaced homeowner who has owned and occupied the displacement dwelling for at least 90 days but not more than 180 days immediately prior to the initiation of negotiations for the acquisition of such dwelling, such payment shall not exceed the payment such person would otherwise have received under [section 4623(a) of this title][/us/usc/t42/s4623/a] had the person owned and occupied the displacement dwelling 180 days immediately prior to the initiation of such negotiations.”
 
     1987—[Pub. L. 100–17][/us/pl/100/17] amended section generally, revising and restating as subsecs. (a) and (b) provisions formerly contained in introductory provisions and in pars. (1) and (2).
 
@@ -46,15 +46,15 @@
 
 [/us/usc/t42/s4623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4623
 [/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
-[/us/pl/91/646/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs204
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1897
-[/us/pl/100/17/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs407
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F251
-[/us/pl/112/141/s1521/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fc
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F578
-[/us/pl/112/141/s1521/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fc%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633%2Fd
-[/us/pl/112/141/s1521/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fc%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4623/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4623%2Fa
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

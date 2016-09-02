@@ -71,7 +71,7 @@
 
         (3) to stimulate the purchase by private buyers of at least 90 per centum of all solar photovoltaic energy systems produced in the United States during fiscal year 1988.
 
-([Pub. L. 95–590, § 2][/us/pl/95/590/s2], Nov. 4, 1978, [92 Stat. 2513][/us/stat/92/2513].)
+([Pub. L. 95–590][/us/pl/95/590], § 2, Nov. 4, 1978, [92 Stat. 2513][/us/stat/92/2513].)
 
  __Short Title__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/95/590/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs2
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2513
 [/us/pl/95/590/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs1
 [/us/usc/t42/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5501

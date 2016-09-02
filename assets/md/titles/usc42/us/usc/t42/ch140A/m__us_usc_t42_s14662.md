@@ -31,7 +31,7 @@
 
         (4) retain all such records pertaining to unidentified persons until a person is identified.
 
-([Pub. L. 106–177, title II, § 203][/us/pl/106/177/s203], Mar. 10, 2000, [114 Stat. 36][/us/stat/114/36].)
+([Pub. L. 106–177, title II][/us/pl/106/177/tII], § 203, Mar. 10, 2000, [114 Stat. 36][/us/stat/114/36].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/177/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2Fs203
+[/us/pl/106/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2FtII
 [/us/stat/114/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F36
 
 

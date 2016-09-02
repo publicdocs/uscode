@@ -17,7 +17,7 @@
 
     The Congress declares that, in addition to the programs under the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[[42 U.S.C. 4541][/us/usc/t42/s4541] et seq.\], programs under other Federal laws which provide Federal or federally assisted research, prevention, treatment, or rehabilitation in the fields of health and social services should be appropriately utilized to help eradicate alcohol abuse and alcoholism as a major problem.
 
-([Pub. L. 93–282, title I, § 102(b)][/us/pl/93/282/s102/b], May 14, 1974, [88 Stat. 126][/us/stat/88/126].)
+([Pub. L. 93–282, title I][/us/pl/93/282/tI], § 102(b), May 14, 1974, [88 Stat. 126][/us/stat/88/126].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s4541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4541
-[/us/pl/93/282/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs102%2Fb
+[/us/pl/93/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2FtI
 [/us/stat/88/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F126
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/stat/84/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1848

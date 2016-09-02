@@ -31,7 +31,7 @@
 
         Notwithstanding any other law, the court shall not sentence a person convicted of an offense described in subsection (b) of this section to probation.
 
-([Pub. L. 103–322, title IX, § 90103][/us/pl/103/322/s90103], Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].)
+([Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90103, Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t21/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs844
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/103/322/s90103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90103
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1987
 [/us/pl/103/322/s90103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90103
 [/us/pl/103/322/s90103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90103

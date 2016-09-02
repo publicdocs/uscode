@@ -55,7 +55,7 @@
 
                 An election under State law is not effective, for purposes of, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “for purposes of subparagraph (A),”. </sup></sup>  for actions commenced before the effective date of the State law, which may not be earlier than the date of the enactment of that law.
 
-([Pub. L. 99–660, title IV, § 411][/us/pl/99/660/s411], Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784]; [Pub. L. 100–177, title IV, § 402(c)][/us/pl/100/177/s402/c], as added [Pub. L. 101–239, title VI, § 6103(e)(6)(A)][/us/pl/101/239/s6103/e/6/A], Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 411, Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784]; [Pub. L. 100–177, title IV][/us/pl/100/177/tIV], § 402(c), as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(e)(6)(A), Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    1989—Subsec. (c)(2)(B), (C). [Pub. L. 101–239][/us/pl/101/239] added [Pub. L. 100–177, § 402(c)][/us/pl/100/177/s402/c], see 1987 Amendment note below.
+    1989—Subsec. (c)(2)(B), (C). [Pub. L. 101–239][/us/pl/101/239] added [Pub. L. 100–177][/us/pl/100/177], § 402(c), see 1987 Amendment note below.
 
-    1987—Subsec. (c)(2)(B), (C). [Pub. L. 100–177, § 402(c)][/us/pl/100/177/s402/c], as added by [Pub. L. 101–239][/us/pl/101/239], redesignated subpar. (C) as (B), struck out “subparagraphs (A) and (B)” after “for purposes of”, and struck out former subpar. (B) which read as follows: “Subsection (a) of this section shall not apply to State laws in a State for actions commenced on or after October 14, 1989, if the State by legislation elects such treatment.”
+    1987—Subsec. (c)(2)(B), (C). [Pub. L. 100–177][/us/pl/100/177], § 402(c), as added by [Pub. L. 101–239][/us/pl/101/239], redesignated subpar. (C) as (B), struck out “subparagraphs (A) and (B)” after “for purposes of”, and struck out former subpar. (B) which read as follows: “Subsection (a) of this section shall not apply to State laws in a State for actions commenced on or after October 14, 1989, if the State by legislation elects such treatment.”
 
  __Effective Date of 1987 Amendment__ 
 
@@ -75,7 +75,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–660, title IV, § 416][/us/pl/99/660/s416], Nov. 14, 1986, [100 Stat. 3788][/us/stat/100/3788], provided that: 
+[Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 416, Nov. 14, 1986, [100 Stat. 3788][/us/stat/100/3788], provided that: 
 
 > “This part \[part A (§§ 411–416) of title IV of [Pub. L. 99–660][/us/pl/99/660], enacting this subchapter\] shall apply to professional review actions commenced on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -93,22 +93,22 @@
 [/us/usc/t15/s15c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c
 [/us/usc/t42/s11133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11133%2Fa
 [/us/usc/t42/s11133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11133%2Fa
-[/us/pl/99/660/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs411
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3784
-[/us/pl/100/177/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fc
-[/us/pl/101/239/s6103/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F6%2FA
+[/us/pl/100/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtIV
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2208
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/177/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fc
-[/us/pl/100/177/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fc
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/100/177/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs402%2Fd
 [/us/usc/t42/s11137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11137
-[/us/pl/99/660/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs416
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3788
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 

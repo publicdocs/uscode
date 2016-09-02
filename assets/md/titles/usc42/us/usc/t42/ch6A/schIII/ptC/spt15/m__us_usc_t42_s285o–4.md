@@ -73,11 +73,11 @@
 
         (5) prevent relapse in persons who have been detoxified from drugs of abuse.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464P, as added [Pub. L. 102–321, title I, § 123(b)][/us/pl/102/321/s123/b], July 10, 1992, [106 Stat. 362][/us/stat/106/362]; amended [Pub. L. 103–43, title XX, § 2008(b)(10)][/us/pl/103/43/s2008/b/10], June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 109–482, title I, § 103(b)(35)][/us/pl/109/482/s103/b/35], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464P, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 123(b), July 10, 1992, [106 Stat. 362][/us/stat/106/362]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(b)(10), June 10, 1993, [107 Stat. 211][/us/stat/107/211]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(35), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __References in Text__ 
 
-    Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by [Pub. L. 100–690, title I, § 1009][/us/pl/100/690/s1009], Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188], as amended.
+    Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by [Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1009, Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188], as amended.
 
  __Amendments__ 
 
@@ -95,7 +95,7 @@
 
  __Report by Institute on Medicine__ 
 
-    [Pub. L. 102–321, title VII, § 701][/us/pl/102/321/s701], July 10, 1992, [106 Stat. 436][/us/stat/106/436], directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study concerning (1) role of the private sector in development of anti-addiction medications, including legislative proposals designed to encourage private sector development of such medications, (2) process by which anti-addiction medications receive marketing approval from Food and Drug Administration, including an assessment of feasibility of expediting marketing approval process in a manner consistent with maintaining safety and effectiveness of such medications, (3) with respect to pharmacotherapeutic treatments for drug addiction (A) recommendations with respect to a national strategy for developing such treatments and improvements in such strategy, (B) state of the scientific knowledge concerning such treatments, and (C) assessment of progress toward development of safe, effective pharmacological treatments for drug addiction, and (4) other related information determined appropriate by the authors of the study, and to submit to Congress a report of the results of such study not later than 18 months after July 10, 1992.
+    [Pub. L. 102–321, title VII][/us/pl/102/321/tVII], § 701, July 10, 1992, [106 Stat. 436][/us/stat/106/436], directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study concerning (1) role of the private sector in development of anti-addiction medications, including legislative proposals designed to encourage private sector development of such medications, (2) process by which anti-addiction medications receive marketing approval from Food and Drug Administration, including an assessment of feasibility of expediting marketing approval process in a manner consistent with maintaining safety and effectiveness of such medications, (3) with respect to pharmacotherapeutic treatments for drug addiction (A) recommendations with respect to a national strategy for developing such treatments and improvements in such strategy, (B) state of the scientific knowledge concerning such treatments, and (C) assessment of progress toward development of safe, effective pharmacological treatments for drug addiction, and (4) other related information determined appropriate by the authors of the study, and to submit to Congress a report of the results of such study not later than 18 months after July 10, 1992.
 
 ----------
 
@@ -106,13 +106,13 @@
 
 [/us/usc/t42/s289e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs123%2Fb
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F362
-[/us/pl/103/43/s2008/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F10
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F211
-[/us/pl/109/482/s103/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F35
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/100/690/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1009
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4188
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
@@ -121,7 +121,7 @@
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
-[/us/pl/102/321/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs701
+[/us/pl/102/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtVII
 [/us/stat/106/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F436
 
 

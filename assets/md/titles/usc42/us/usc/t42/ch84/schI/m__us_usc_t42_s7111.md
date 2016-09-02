@@ -27,7 +27,7 @@
 
     (5) formulation and implementation of a national energy program require the integration of major Federal energy functions into a single department in the executive branch.
 
-([Pub. L. 95–91, title I, § 101][/us/pl/95/91/s101], Aug. 4, 1977, [91 Stat. 567][/us/stat/91/567].)
+([Pub. L. 95–91, title I][/us/pl/95/91/tI], § 101, Aug. 4, 1977, [91 Stat. 567][/us/stat/91/567].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs101
+[/us/pl/95/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtI
 [/us/stat/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F567
 
 

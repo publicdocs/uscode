@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–553, § 2(2)][/us/pl/100/553/s2/2], Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769], and [Pub. L. 100–607, title I, § 101(2)][/us/pl/100/607/s101/2], Nov. 4, 1988, [102 Stat. 3049][/us/stat/102/3049], made identical amendments to subpart heading, substituting “Neurological Disorders” for “Neurological and Communicative Disorders”. [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238], amended subpart heading to read as if the amendment by [Pub. L. 100–607][/us/pl/100/607] had not been enacted.
+    1988—[Pub. L. 100–553][/us/pl/100/553], § 2(2), Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769], and [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 101(2), Nov. 4, 1988, [102 Stat. 3049][/us/stat/102/3049], made identical amendments to subpart heading, substituting “Neurological Disorders” for “Neurological and Communicative Disorders”. [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238], amended subpart heading to read as if the amendment by [Pub. L. 100–607][/us/pl/100/607] had not been enacted.
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/100/553/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs2%2F2
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2769
-[/us/pl/100/607/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs101%2F2
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3049
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 

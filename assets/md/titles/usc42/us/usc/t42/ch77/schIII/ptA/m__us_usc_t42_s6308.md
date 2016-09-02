@@ -17,7 +17,7 @@
 
     The Secretary shall report to the Congress and the President either (1) as part of his annual report, or (2) in a separate report submitted annually, on the progress of the program undertaken pursuant to this part and on the energy savings impact of this part. Each such report shall specify the actions undertaken by the Secretary in carrying out this part during the period covered by such report, and those actions which the Secretary was required to take under this part during such period but which were not taken, together with the reasons therefor. Nothing in this section provides a defense or justification for a failure by the Secretary to comply with a nondiscretionary duty as provided for in this part.
 
-([Pub. L. 94–163, title III, § 338][/us/pl/94/163/s338], Dec. 22, 1975, [89 Stat. 932][/us/stat/89/932]; [Pub. L. 95–619, title IV, § 425(h)][/us/pl/95/619/s425/h], title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266][/us/stat/92/3266], 3288; [Pub. L. 100–12, § 10][/us/pl/100/12/s10], Mar. 17, 1987, [101 Stat. 124][/us/stat/101/124].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 338, Dec. 22, 1975, [89 Stat. 932][/us/stat/89/932]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 425(h), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266][/us/stat/92/3266], 3288; [Pub. L. 100–12][/us/pl/100/12], § 10, Mar. 17, 1987, [101 Stat. 124][/us/stat/101/124].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/94/163/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs338
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F932
-[/us/pl/95/619/s425/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fh
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3266
-[/us/pl/100/12/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs10
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F124
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619

@@ -19,7 +19,7 @@
 
     (b) To carry out [section 300aa–2(9) of this title][/us/usc/t42/s300aa–2/9] there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 and 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2106, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3758][/us/stat/100/3758]; amended [Pub. L. 101–502, § 4][/us/pl/101/502/s4], Nov. 3, 1990, [104 Stat. 1286][/us/stat/104/1286]; [Pub. L. 108–276, § 2(c)][/us/pl/108/276/s2/c], July 21, 2004, [118 Stat. 842][/us/stat/118/842].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2106, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3758][/us/stat/100/3758]; amended [Pub. L. 101–502][/us/pl/101/502], § 4, Nov. 3, 1990, [104 Stat. 1286][/us/stat/104/1286]; [Pub. L. 108–276][/us/pl/108/276], § 2(c), July 21, 2004, [118 Stat. 842][/us/stat/118/842].)
 
  __Prior Provisions__ 
 
@@ -45,11 +45,11 @@
 [/us/usc/t42/s300aa–2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%932%2F9
 [/us/usc/t42/s300aa–2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%932%2F9
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3758
-[/us/pl/101/502/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs4
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1286
-[/us/pl/108/276/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fc
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F842
 [/us/usc/t42/s238d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238d
 [/us/usc/t42/s238c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238c

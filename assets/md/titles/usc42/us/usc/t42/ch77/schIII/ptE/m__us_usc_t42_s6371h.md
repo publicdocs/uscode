@@ -19,7 +19,7 @@
 
     (b) The Secretary shall include in his annual report a detailed description of the actions taken under this part in the preceding fiscal year and the actions planned to be taken in the subsequent fiscal year. Such description shall show the allocations made (including the allocations made to each State) and include information on the types of conservation measures implemented, with funds allocated, and an estimate of the energy savings achieved.
 
-([Pub. L. 94–163, title III, § 399][/us/pl/94/163/s399], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3247][/us/stat/92/3247]; amended [Pub. L. 96–470, title II, § 203(b)][/us/pl/96/470/s203/b], Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 399, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3247][/us/stat/92/3247]; amended [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 203(b), Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242].)
 
  __Amendments__ 
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/94/163/s399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs399
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3247
-[/us/pl/96/470/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs203%2Fb
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2242
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 

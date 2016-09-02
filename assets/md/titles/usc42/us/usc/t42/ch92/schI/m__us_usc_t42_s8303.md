@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall only apply within the contiguous 48 States and the District of Columbia.
 
-([Pub. L. 95–620, title I, § 104][/us/pl/95/620/s104], Nov. 9, 1978, [92 Stat. 3298][/us/stat/92/3298]; [Pub. L. 100–42, § 1(c)(3)][/us/pl/100/42/s1/c/3], May 21, 1987, [101 Stat. 311][/us/stat/101/311].)
+([Pub. L. 95–620, title I][/us/pl/95/620/tI], § 104, Nov. 9, 1978, [92 Stat. 3298][/us/stat/92/3298]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(3), May 21, 1987, [101 Stat. 311][/us/stat/101/311].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/620/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs104
+[/us/pl/95/620/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtI
 [/us/stat/92/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3298
-[/us/pl/100/42/s1/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F3
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F311
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

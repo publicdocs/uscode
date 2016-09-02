@@ -151,7 +151,7 @@
 
         (3) a description of successful efforts to leverage funds, other than funds made available under this part, to pursue goals consistent with this part.
 
-([Pub. L. 106–402, title I, § 154][/us/pl/106/402/s154], Oct. 30, 2000, [114 Stat. 1722][/us/stat/114/1722]; [Pub. L. 108–364, § 3(a)(4)][/us/pl/108/364/s3/a/4], Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737]; [Pub. L. 108–446, title III, § 305(n)(2)][/us/pl/108/446/s305/n/2], Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 154, Oct. 30, 2000, [114 Stat. 1722][/us/stat/114/1722]; [Pub. L. 108–364][/us/pl/108/364], § 3(a)(4), Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(n)(2), Dec. 3, 2004, [118 Stat. 2806][/us/stat/118/2806].)
 
  __Amendments__ 
 
@@ -177,11 +177,11 @@
 [/us/usc/t42/s15061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15061%2Fb
 [/us/usc/t42/s15063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fb
 [/us/usc/t42/s15004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15004%2Fb
-[/us/pl/106/402/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs154
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1722
-[/us/pl/108/364/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fa%2F4
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1737
-[/us/pl/108/446/s305/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fn%2F2
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2806
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364

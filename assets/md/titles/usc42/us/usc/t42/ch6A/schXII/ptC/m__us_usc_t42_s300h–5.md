@@ -17,7 +17,7 @@
 
     Not later than 18 months after June 19, 1986, the Administrator shall modify regulations issued under this chapter for Class I injection wells to identify monitoring methods, in addition to those in effect on November 1, 1985, including groundwater monitoring. In accordance with such regulations, the Administrator, or delegated State authority, shall determine the applicability of such monitoring methods, wherever appropriate, at locations and in such a manner as to provide the earliest possible detection of fluid migration into, or in the direction of, underground sources of drinking water from such wells, based on its assessment of the potential for fluid migration from the injection zone that may be harmful to human health or the environment. For purposes of this subsection, a class I injection well is defined in accordance with 40 CFR 146.05 as in effect on November 1, 1985.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1426, as added [Pub. L. 99–339, title II, § 201(b)][/us/pl/99/339/s201/b], June 19, 1986, [100 Stat. 653][/us/stat/100/653]; amended [Pub. L. 104–66, title II, § 2021(f)][/us/pl/104/66/s2021/f], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 104–182, title V, § 501(f)(2)][/us/pl/104/182/s501/f/2], Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1426, as added [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 201(b), June 19, 1986, [100 Stat. 653][/us/stat/100/653]; amended [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(f), Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(f)(2), Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691].)
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/339/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fb
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F653
-[/us/pl/104/66/s2021/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Ff
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F727
-[/us/pl/104/182/s501/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F2
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1691
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

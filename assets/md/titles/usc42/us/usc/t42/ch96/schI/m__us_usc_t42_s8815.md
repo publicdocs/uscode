@@ -39,7 +39,7 @@
 
         the sales price set forth in the price guarantee, and maximum liability under such guarantee, may be renegotiated.
 
-([Pub. L. 96–294, title II, § 215][/us/pl/96/294/s215], June 30, 1980, [94 Stat. 692][/us/stat/94/692].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 215, June 30, 1980, [94 Stat. 692][/us/stat/94/692].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs215
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F692
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683

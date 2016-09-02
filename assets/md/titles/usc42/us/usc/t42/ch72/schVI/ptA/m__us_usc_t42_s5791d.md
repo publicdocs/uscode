@@ -19,7 +19,7 @@
 
     (b) The limitation in subsection (a) of this section does not apply in any action in which the plaintiff proves that the National Center for Missing and Exploited Children, its officers, employees, or agents acted with actual malice, or provided information or took action for a purpose unrelated to an activity mandated by Federal law. For purposes of this subsection, the prevention, or detection of crime, and the safety, recovery, or protection of missing or exploited children shall be deemed, per se, to be an activity mandated by Federal law.
 
-([Pub. L. 108–21, title III, § 305][/us/pl/108/21/s305], Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664].)
+([Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 305, Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/21/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs305
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F664
 
 

@@ -29,19 +29,19 @@
 
     (3) it is in the public interest to encourage persons who use rechargeable batteries to participate in collection for recycling of used nickel-cadmium, small sealed lead-acid, and other regulated batteries.
 
-([Pub. L. 104–142, § 2][/us/pl/104/142/s2], May 13, 1996, [110 Stat. 1329][/us/stat/110/1329].)
+([Pub. L. 104–142][/us/pl/104/142], § 2, May 13, 1996, [110 Stat. 1329][/us/stat/110/1329].)
 
  __Short Title__ 
 
-[Pub. L. 104–142, § 1][/us/pl/104/142/s1], May 13, 1996, [110 Stat. 1329][/us/stat/110/1329], provided that: 
+[Pub. L. 104–142][/us/pl/104/142], § 1, May 13, 1996, [110 Stat. 1329][/us/stat/110/1329], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Mercury-Containing and Rechargeable Battery Management Act’.”
 
-[Pub. L. 104–142, title I, § 101][/us/pl/104/142/s101], May 13, 1996, [110 Stat. 1332][/us/stat/110/1332], provided that: 
+[Pub. L. 104–142, title I][/us/pl/104/142/tI], § 101, May 13, 1996, [110 Stat. 1332][/us/stat/110/1332], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Rechargeable Battery Recycling Act’.”
 
-[Pub. L. 104–142, title II, § 201][/us/pl/104/142/s201], May 13, 1996, [110 Stat. 1336][/us/stat/110/1336], provided that: 
+[Pub. L. 104–142, title II][/us/pl/104/142/tII], § 201, May 13, 1996, [110 Stat. 1336][/us/stat/110/1336], provided that: 
 
 > “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Mercury-Containing Battery Management Act’.”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/104/142/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs2
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1329
-[/us/pl/104/142/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs1
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1329
-[/us/pl/104/142/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs101
+[/us/pl/104/142/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2FtI
 [/us/stat/110/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1332
-[/us/pl/104/142/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs201
+[/us/pl/104/142/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2FtII
 [/us/stat/110/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1336
 
 

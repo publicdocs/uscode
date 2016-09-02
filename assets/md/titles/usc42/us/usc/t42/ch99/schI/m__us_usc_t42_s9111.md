@@ -79,7 +79,7 @@
 
         Licenses issued under this chapter shall be for a term of not to exceed 25 years. Each licensee shall have a preferential right to renew his license subject to the requirements of subsection (c) of this section, upon such conditions and for such term, not to exceed an additional 10 years upon each renewal, as the Administrator determines to be reasonable and appropriate.
 
-([Pub. L. 96–320, title I, § 101][/us/pl/96/320/s101], Aug. 3, 1980, [94 Stat. 976][/us/stat/94/976]; [Pub. L. 98–623, title VI, § 602(a)(3)][/us/pl/98/623/s602/a/3]–(5), (b), (e)(8)–(11), Nov. 8, 1984, [98 Stat. 3410–3412][/us/stat/98/3410-3412].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 101, Aug. 3, 1980, [94 Stat. 976][/us/stat/94/976]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(3)–(5), (b), (e)(8)–(11), Nov. 8, 1984, [98 Stat. 3410–3412][/us/stat/98/3410-3412].)
 
  __References in Text__ 
 
@@ -89,25 +89,25 @@
 
  __Amendments__ 
 
-    1984—Subsecs. (a), (b)(2). [Pub. L. 98–623, § 602(a)(3)][/us/pl/98/623/s602/a/3], (4), substituted “located in whole or in part between the highwater mark and the seaward boundary of the territorial sea” for “located in the territorial sea”.
+    1984—Subsecs. (a), (b)(2). [Pub. L. 98–623][/us/pl/98/623], § 602(a)(3), (4), substituted “located in whole or in part between the highwater mark and the seaward boundary of the territorial sea” for “located in the territorial sea”.
 
-    Subsec. (c)(1). [Pub. L. 98–623, § 602(b)(1)][/us/pl/98/623/s602/b/1], substituted “cannot or will not” for “cannot and will not”.
+    Subsec. (c)(1). [Pub. L. 98–623][/us/pl/98/623], § 602(b)(1), substituted “cannot or will not” for “cannot and will not”.
 
-    Subsec. (c)(4). [Pub. L. 98–623, § 602(e)(8)][/us/pl/98/623/s602/e/8], substituted “regulatory authority” for “enforcement authority”.
+    Subsec. (c)(4). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(8), substituted “regulatory authority” for “enforcement authority”.
 
-    Subsec. (c)(5). [Pub. L. 98–623, § 602(b)(2)][/us/pl/98/623/s602/b/2], substituted “has not expired” for “has expired”.
+    Subsec. (c)(5). [Pub. L. 98–623][/us/pl/98/623], § 602(b)(2), substituted “has not expired” for “has expired”.
 
-    Subsec. (c)(6). [Pub. L. 98–623, § 602(e)(9)][/us/pl/98/623/s602/e/9], substituted “application for a license” for “application for license”.
+    Subsec. (c)(6). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(9), substituted “application for a license” for “application for license”.
 
-    Subsec. (c)(7). [Pub. L. 98–623, § 602(a)(5)][/us/pl/98/623/s602/a/5], substituted “will be documented under the laws of a foreign nation” for “will not be documented under the laws of the United States”.
+    Subsec. (c)(7). [Pub. L. 98–623][/us/pl/98/623], § 602(a)(5), substituted “will be documented under the laws of a foreign nation” for “will not be documented under the laws of the United States”.
 
-    Subsec. (c)(10). [Pub. L. 98–623, § 602(b)(3)][/us/pl/98/623/s602/b/3], (5), substituted “any adjacent” for “each adjacent” and “([16 U.S.C. 1451][/us/usc/t16/s1451] et seq.)” for “([33 U.S.C. 1451][/us/usc/t33/s1451] et seq.)”.
+    Subsec. (c)(10). [Pub. L. 98–623][/us/pl/98/623], § 602(b)(3), (5), substituted “any adjacent” for “each adjacent” and “([16 U.S.C. 1451][/us/usc/t16/s1451] et seq.)” for “([33 U.S.C. 1451][/us/usc/t33/s1451] et seq.)”.
 
-    Subsec. (c)(13). [Pub. L. 98–623, § 602(b)(4)][/us/pl/98/623/s602/b/4], substituted “or” for “and” after the semicolon at the end.
+    Subsec. (c)(13). [Pub. L. 98–623][/us/pl/98/623], § 602(b)(4), substituted “or” for “and” after the semicolon at the end.
 
-    Subsec. (c)(14). [Pub. L. 98–623, § 602(e)(10)][/us/pl/98/623/s602/e/10], substituted “if a regulation” for “when a regulation”.
+    Subsec. (c)(14). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(10), substituted “if a regulation” for “when a regulation”.
 
-    Subsec. (d)(2). [Pub. L. 98–623, § 602(e)(11)][/us/pl/98/623/s602/e/11], substituted “applicant, licensee” for “licensee”.
+    Subsec. (d)(2). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(11), substituted “applicant, licensee” for “licensee”.
 
  __Transfer of Functions__ 
 
@@ -128,9 +128,9 @@
 [/us/usc/t42/s9114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9114
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t42/s9117/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9117%2Fb%2F4
-[/us/pl/96/320/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs101
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F976
-[/us/pl/98/623/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F3
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3410-3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3410-3412
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
@@ -139,18 +139,18 @@
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1280
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
-[/us/pl/98/623/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F3
-[/us/pl/98/623/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fb%2F1
-[/us/pl/98/623/s602/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F8
-[/us/pl/98/623/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fb%2F2
-[/us/pl/98/623/s602/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F9
-[/us/pl/98/623/s602/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F5
-[/us/pl/98/623/s602/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fb%2F3
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t33/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1451
-[/us/pl/98/623/s602/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fb%2F4
-[/us/pl/98/623/s602/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F10
-[/us/pl/98/623/s602/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F11
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

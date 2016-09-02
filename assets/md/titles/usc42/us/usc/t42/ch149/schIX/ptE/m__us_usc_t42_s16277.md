@@ -45,7 +45,7 @@
 
             Not later than August 1, 2006, the Secretary shall submit to Congress a report describing the details of the program plan.
 
-([Pub. L. 109–58, title IX, § 957][/us/pl/109/58/s957], Aug. 8, 2005, [119 Stat. 888][/us/stat/119/888].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 957, Aug. 8, 2005, [119 Stat. 888][/us/stat/119/888].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs957
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F888
 
 

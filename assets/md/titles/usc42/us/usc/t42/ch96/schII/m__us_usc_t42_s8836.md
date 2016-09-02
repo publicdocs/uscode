@@ -17,7 +17,7 @@
 
     The Secretary of Energy shall establish procedures and take such other actions as may be necessary regarding the solicitation, review, and evaluation of applications, and awarding of financial assistance under section 8832, 8833, or 8834 of this title as may be necessary to carry out the plan established under [section 8831 of this title][/us/usc/t42/s8831].
 
-([Pub. L. 96–294, title II, § 236][/us/pl/96/294/s236], June 30, 1980, [94 Stat. 703][/us/stat/94/703].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 236, June 30, 1980, [94 Stat. 703][/us/stat/94/703].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s8831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8831
-[/us/pl/96/294/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs236
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F703
 
 

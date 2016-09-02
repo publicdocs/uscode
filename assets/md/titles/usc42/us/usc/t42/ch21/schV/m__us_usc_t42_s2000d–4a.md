@@ -45,13 +45,19 @@
 
     any part of which is extended Federal financial assistance.
 
-([Pub. L. 88–352, title VI, § 606][/us/pl/88/352/s606], as added [Pub. L. 100–259, § 6][/us/pl/100/259/s6], Mar. 22, 1988, [102 Stat. 31][/us/stat/102/31]; amended [Pub. L. 103–382, title III, § 391(q)][/us/pl/103/382/s391/q], Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 107–110, title X, § 1076(y)][/us/pl/107/110/s1076/y], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093].)
+([Pub. L. 88–352, title VI][/us/pl/88/352/tVI], § 606, as added [Pub. L. 100–259][/us/pl/100/259], § 6, Mar. 22, 1988, [102 Stat. 31][/us/stat/102/31]; amended [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(q), Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(y), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(r), Dec. 10, 2015, [129 Stat. 2171][/us/stat/129/2171].)
 
  __Amendments__ 
+
+    2015—Par. (2)(B). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
 
     2002—Par. (2)(B). [Pub. L. 107–110][/us/pl/107/110] substituted “7801” for “8801”.
 
     1994—Par. (2)(B). [Pub. L. 103–382][/us/pl/103/382] substituted “[section 8801 of title 20][/us/usc/t20/s8801]” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -73,16 +79,23 @@
 ----------
 
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/88/352/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs606
-[/us/pl/100/259/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F259%2Fs6
+[/us/pl/88/352/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVI
+[/us/pl/100/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F259
 [/us/stat/102/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F31
-[/us/pl/103/382/s391/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fq
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4024
-[/us/pl/107/110/s1076/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fy
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2171
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

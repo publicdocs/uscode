@@ -107,19 +107,19 @@
 
         (9) Nothing in this subsection requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.
 
-([Pub. L. 90–284, title VIII, § 804][/us/pl/90/284/s804], Apr. 11, 1968, [82 Stat. 83][/us/stat/82/83]; [Pub. L. 93–383, title VIII, § 808(b)(1)][/us/pl/93/383/s808/b/1], Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 100–430][/us/pl/100/430], §§ 6(a)–(b)(2), (e), 15, Sept. 13, 1988, [102 Stat. 1620][/us/stat/102/1620], 1622, 1623, 1636.)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 804, Apr. 11, 1968, [82 Stat. 83][/us/stat/82/83]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 808(b)(1), Aug. 22, 1974, [88 Stat. 729][/us/stat/88/729]; [Pub. L. 100–430][/us/pl/100/430], §§ 6(a)–(b)(2), (e), 15, Sept. 13, 1988, [102 Stat. 1620][/us/stat/102/1620], 1622, 1623, 1636.)
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–430, § 6(e)][/us/pl/100/430/s6/e], inserted “and other prohibited practices” in section catchline.
+    1988—[Pub. L. 100–430][/us/pl/100/430], § 6(e), inserted “and other prohibited practices” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 100–430, § 6(b)(2)][/us/pl/100/430/s6/b/2], inserted “familial status,” after “sex,”.
+    Subsecs. (a), (b). [Pub. L. 100–430][/us/pl/100/430], § 6(b)(2), inserted “familial status,” after “sex,”.
 
-    Subsecs. (c) to (e). [Pub. L. 100–430, § 6(b)(1)][/us/pl/100/430/s6/b/1], inserted “handicap, familial status,” after “sex,”.
+    Subsecs. (c) to (e). [Pub. L. 100–430][/us/pl/100/430], § 6(b)(1), inserted “handicap, familial status,” after “sex,”.
 
-    Subsec. (f). [Pub. L. 100–430, § 6(a)][/us/pl/100/430/s6/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–430][/us/pl/100/430], § 6(a), added subsec. (f).
 
-    Subsec. (f)(3)(A). [Pub. L. 100–430, § 15][/us/pl/100/430/s15], which directed the substitution of “except that, in the case of a rental, the landlord may where it is reasonable to do so condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted.” for the period at the end of subpar. (A) was executed by making the substitution for a semicolon as the probable intent of Congress because subpar. (A) ended with a semicolon, not a period.
+    Subsec. (f)(3)(A). [Pub. L. 100–430][/us/pl/100/430], § 15, which directed the substitution of “except that, in the case of a rental, the landlord may where it is reasonable to do so condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted.” for the period at the end of subpar. (A) was executed by making the substitution for a semicolon as the probable intent of Congress because subpar. (A) ended with a semicolon, not a period.
 
     1974—[Pub. L. 93–383][/us/pl/93/383] inserted “, sex” after “religion” wherever appearing in cls. (a) to (e).
 
@@ -136,17 +136,17 @@
 
 [/us/usc/t42/s3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3603
 [/us/usc/t42/s3610/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3610%2Ff%2F3
-[/us/pl/90/284/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs804
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F83
-[/us/pl/93/383/s808/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs808%2Fb%2F1
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F729
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1620
-[/us/pl/100/430/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs6%2Fe
-[/us/pl/100/430/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs6%2Fb%2F2
-[/us/pl/100/430/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs6%2Fb%2F1
-[/us/pl/100/430/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs6%2Fa
-[/us/pl/100/430/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs15
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa

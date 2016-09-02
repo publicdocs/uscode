@@ -41,7 +41,7 @@
 
         There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 through 2013.
 
-([Pub. L. 110–403, title IV, § 402][/us/pl/110/403/s402], Oct. 13, 2008, [122 Stat. 4272][/us/stat/122/4272].)
+([Pub. L. 110–403, title IV][/us/pl/110/403/tIV], § 402, Oct. 13, 2008, [122 Stat. 4272][/us/stat/122/4272].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/110/403/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs402
+[/us/pl/110/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIV
 [/us/stat/122/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4272
 
 

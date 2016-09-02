@@ -17,7 +17,7 @@
 
     No person shall sell, offer for sale, or offer for promotional purposes any alkaline-manganese battery manufactured on or after May 13, 1996, with a mercury content that was intentionally introduced (as distinguished from mercury that may be incidentally present in other materials), except that the limitation on mercury content in alkaline-manganese button cells shall be 25 milligrams of mercury per button cell.
 
-([Pub. L. 104–142, title II, § 203][/us/pl/104/142/s203], May 13, 1996, [110 Stat. 1336][/us/stat/110/1336].)
+([Pub. L. 104–142, title II][/us/pl/104/142/tII], § 203, May 13, 1996, [110 Stat. 1336][/us/stat/110/1336].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs203
+[/us/pl/104/142/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2FtII
 [/us/stat/110/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1336
 
 

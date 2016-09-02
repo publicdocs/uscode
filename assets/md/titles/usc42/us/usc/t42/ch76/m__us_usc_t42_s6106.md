@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 94–135, title III, § 307][/us/pl/94/135/s307], Nov. 28, 1975, [89 Stat. 731][/us/stat/89/731]; S. Res. 4, Feb. 4, 1977; [Pub. L. 95–65, § 1][/us/pl/95/65/s1], July 11, 1977, [91 Stat. 269][/us/stat/91/269]; S. Res. 30, Mar. 7, 1979.)
+([Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 307, Nov. 28, 1975, [89 Stat. 731][/us/stat/89/731]; S. Res. 4, Feb. 4, 1977; [Pub. L. 95–65][/us/pl/95/65], § 1, July 11, 1977, [91 Stat. 269][/us/stat/91/269]; S. Res. 30, Mar. 7, 1979.)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t42/s1975d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1975d%2Fb
-[/us/pl/94/135/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs307
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
 [/us/stat/89/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F731
-[/us/pl/95/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F65%2Fs1
+[/us/pl/95/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F65
 [/us/stat/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F269
 [/us/pl/85/315/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315%2Fs105%2Fb
 [/us/stat/71/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F636

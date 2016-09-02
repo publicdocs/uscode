@@ -157,11 +157,11 @@
 
         If any State under such agreement imposes upon any licensee any requirement for the payment of funds to such State for the reclamation or long-term maintenance and monitoring of such material, and if transfer to the United States of such material is required in accordance with [section 2113(b) of this title][/us/usc/t42/s2113/b], such agreement shall be amended by the Commission to provide that such State shall transfer to the United States upon termination of the license issued to such licensee the total amount collected by such State from such licensee for such purpose. If such payments are required, they must be sufficient to ensure compliance with the standards established by the Commission pursuant to [section 2201(x) of this title][/us/usc/t42/s2201/x]. No State shall be required under paragraph (3) to conduct proceedings concerning any license or regulation which would duplicate proceedings conducted by the Commission. In adopting requirements pursuant to paragraph (2) of this subsection with respect to sites at which ores are processed primarily for their source material content or which are used for the disposal of byproduct material as defined in [section 2014(e)(2) of this title][/us/usc/t42/s2014/e/2], the State may adopt alternatives (including, where appropriate, site-specific alternatives) to the requirements adopted and enforced by the Commission for the same purpose if, after notice and opportunity for public hearing, the Commission determines that such alternatives will achieve a level of stabilization and containment of the sites concerned, and a level of protection for public health, safety, and the environment from radiological and nonradiological hazards associated with such sites, which is equivalent to, to the extent practicable, or more stringent than the level which would be achieved by standards and requirements adopted and enforced by the Commission for the same purpose and any final standards promulgated by the Administrator of the Environmental Protection Agency in accordance with [section 2022 of this title][/us/usc/t42/s2022]. Such alternative State requirements may take into account local or regional conditions, including geology, topography, hydrology and meteorology.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 274, as added [Pub. L. 86–373, § 1][/us/pl/86/373/s1], Sept. 23, 1959, [73 Stat. 688][/us/stat/73/688]; amended 1970 Reorg. Plan No. 3, §§ 2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, [84 Stat. 2086][/us/stat/84/2086]; [Pub. L. 95–604, title II, § 204(a)][/us/pl/95/604/s204/a]–(e)(1), (f), Nov. 8, 1978, [92 Stat. 3036–3038][/us/stat/92/3036-3038]; [Pub. L. 96–295, title II, § 205][/us/pl/96/295/s205], June 30, 1980, [94 Stat. 787][/us/stat/94/787]; [Pub. L. 97–415, § 19(a)][/us/pl/97/415/s19/a], Jan. 4, 1983, [96 Stat. 2078][/us/stat/96/2078]; renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(6)][/us/pl/102/486/s902/a/6], (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI, § 651(e)(2)][/us/pl/109/58/s651/e/2], Aug. 8, 2005, [119 Stat. 807][/us/stat/119/807].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 274, as added [Pub. L. 86–373][/us/pl/86/373], § 1, Sept. 23, 1959, [73 Stat. 688][/us/stat/73/688]; amended 1970 Reorg. Plan No. 3, §§ 2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, [84 Stat. 2086][/us/stat/84/2086]; [Pub. L. 95–604, title II][/us/pl/95/604/tII], § 204(a)–(e)(1), (f), Nov. 8, 1978, [92 Stat. 3036–3038][/us/stat/92/3036-3038]; [Pub. L. 96–295, title II][/us/pl/96/295/tII], § 205, June 30, 1980, [94 Stat. 787][/us/stat/94/787]; [Pub. L. 97–415][/us/pl/97/415], § 19(a), Jan. 4, 1983, [96 Stat. 2078][/us/stat/96/2078]; renumbered title I and amended [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(6), (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 651(e)(2), Aug. 8, 2005, [119 Stat. 807][/us/stat/119/807].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a)(1), (i), (j)(1), and (m), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (a)(1), (i), (j)(1), and (m), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     For definition of Canal Zone, referred to in subsec. (n), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
@@ -181,27 +181,27 @@
 
     “(4) special nuclear materials in quantities not sufficient to form a critical mass.”
 
-    1992—Subsec. (c)(1). [Pub. L. 102–486, § 902(a)(6)][/us/pl/102/486/s902/a/6], inserted before semicolon at end “or any uranium enrichment facility”.
+    1992—Subsec. (c)(1). [Pub. L. 102–486][/us/pl/102/486], § 902(a)(6), inserted before semicolon at end “or any uranium enrichment facility”.
 
     1983—Subsec. (o). [Pub. L. 97–415][/us/pl/97/415] inserted provisions relating to the adoption of equivalent alternative requirements by the States.
 
     1980—Subsec. (j). [Pub. L. 96–295][/us/pl/96/295] designated existing provisions as par. (1) and added par. (2).
 
-    1978—Subsec. (b). [Pub. L. 95–604, § 204(a)][/us/pl/95/604/s204/a], inserted in par. (1) “as defined in [section 2014(e)(1) of this title][/us/usc/t42/s2014/e/1]” after “byproduct materials”, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    1978—Subsec. (b). [Pub. L. 95–604][/us/pl/95/604], § 204(a), inserted in par. (1) “as defined in [section 2014(e)(1) of this title][/us/usc/t42/s2014/e/1]” after “byproduct materials”, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (c). [Pub. L. 95–604, § 204(f)][/us/pl/95/604/s204/f], required the Commission to retain authority under the agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material as defined in [section 2014(e)(2) of this title][/us/usc/t42/s2014/e/2].
+    Subsec. (c). [Pub. L. 95–604][/us/pl/95/604], § 204(f), required the Commission to retain authority under the agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material as defined in [section 2014(e)(2) of this title][/us/usc/t42/s2014/e/2].
 
-    Subsec. (d)(2). [Pub. L. 95–604, § 204(b)][/us/pl/95/604/s204/b], inserted “in accordance with the requirements of subsection (o) of this section and in all other respects” before “compatible”.
+    Subsec. (d)(2). [Pub. L. 95–604][/us/pl/95/604], § 204(b), inserted “in accordance with the requirements of subsection (o) of this section and in all other respects” before “compatible”.
 
-    Subsec. (j). [Pub. L. 95–604, § 204(d)][/us/pl/95/604/s204/d], inserted “all or part of” after “suspend”, designated provision requiring termination or suspension be necessary to protect the public health and safety as cl. (1), added cl. (2), and inserted provision requiring the Commission to periodically review the agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
+    Subsec. (j). [Pub. L. 95–604][/us/pl/95/604], § 204(d), inserted “all or part of” after “suspend”, designated provision requiring termination or suspension be necessary to protect the public health and safety as cl. (1), added cl. (2), and inserted provision requiring the Commission to periodically review the agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
-    Subsec. (n). [Pub. L. 95–604, § 204(c)][/us/pl/95/604/s204/c], inserted definition of “agreement”.
+    Subsec. (n). [Pub. L. 95–604][/us/pl/95/604], § 204(c), inserted definition of “agreement”.
 
-    Subsec. (o). [Pub. L. 95–604, § 204(e)(1)][/us/pl/95/604/s204/e/1], added subsec. (o).
+    Subsec. (o). [Pub. L. 95–604][/us/pl/95/604], § 204(e)(1), added subsec. (o).
 
  __Effective Date of 1978 Amendment__ 
 
-[Section 204(e)(2) of Pub. L. 95–604][/us/pl/95/604/s204/e/2], as added by [Pub. L. 96–106, § 22(d)][/us/pl/96/106/s22/d], Nov. 9, 1979, [93 Stat. 800][/us/stat/93/800], provided that: 
+[Section 204(e)(2) of Pub. L. 95–604][/us/pl/95/604/s204/e/2], as added by [Pub. L. 96–106][/us/pl/96/106], § 22(d), Nov. 9, 1979, [93 Stat. 800][/us/stat/93/800], provided that: 
 
 > “The provisions of the amendment made by paragraph (1) of this subsection (which adds a new subsection o. to section 274 of the Atomic Energy Act of 1954 \[this section\]) shall apply only to the maximum extent practicable during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\].”
 
@@ -209,7 +209,7 @@
 
  __State Authorities and Agreements Respecting Byproduct Material; Entry and Effective Dates of Agreements__ 
 
-[Pub. L. 95–604, title II, § 204(g)][/us/pl/95/604/s204/g], (h), Nov. 8, 1978, [92 Stat. 3038][/us/stat/92/3038], as amended by [Pub. L. 96–106, § 22(a)][/us/pl/96/106/s22/a], (b), Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799]; [Pub. L. 97–415, § 19(b)][/us/pl/97/415/s19/b], Jan. 4, 1983, [96 Stat. 2079][/us/stat/96/2079], provided that:
+[Pub. L. 95–604, title II][/us/pl/95/604/tII], § 204(g), (h), Nov. 8, 1978, [92 Stat. 3038][/us/stat/92/3038], as amended by [Pub. L. 96–106][/us/pl/96/106], § 22(a), (b), Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799]; [Pub. L. 97–415][/us/pl/97/415], § 19(b), Jan. 4, 1983, [96 Stat. 2079][/us/stat/96/2079], provided that:
 
 >     “(g) Nothing in any amendment made by this section \[amending this section\] shall preclude any State from exercising any other authority as permitted under the Atomic Energy Act of 1954 \[this chapter\] respecting any byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954 \[[section 2014(e)(2) of this title][/us/usc/t42/s2014/e/2]\].
 
@@ -250,21 +250,21 @@
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/usc/t42/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2022
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/86/373/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F373%2Fs1
+[/us/pl/86/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F373
 [/us/stat/73/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F688
 [/us/stat/84/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2086
-[/us/pl/95/604/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fa
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3036-3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3036-3038
-[/us/pl/96/295/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2Fs205
+[/us/pl/96/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2FtII
 [/us/stat/94/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F787
-[/us/pl/97/415/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs19%2Fa
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2078
-[/us/pl/102/486/s902/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F6
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/109/58/s651/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fe%2F2
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F807
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
@@ -272,28 +272,28 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s2014/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F1
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
-[/us/pl/102/486/s902/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F6
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/pl/96/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295
-[/us/pl/95/604/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fa
+[/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/usc/t42/s2014/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F1
-[/us/pl/95/604/s204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Ff
+[/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
-[/us/pl/95/604/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fb
-[/us/pl/95/604/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fd
-[/us/pl/95/604/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fc
-[/us/pl/95/604/s204/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fe%2F1
+[/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
+[/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
+[/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
+[/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/pl/95/604/s204/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fe%2F2
-[/us/pl/96/106/s22/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs22%2Fd
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F800
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/pl/95/604/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs208
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
-[/us/pl/95/604/s204/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs204%2Fg
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3038
-[/us/pl/96/106/s22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106%2Fs22%2Fa
+[/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
 [/us/stat/93/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F799
-[/us/pl/97/415/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs19%2Fb
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2079
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014

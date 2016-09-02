@@ -157,7 +157,7 @@
 
                 (vii) any other person or entity, such information as the Secretary determines appropriate.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1124, as added [Pub. L. 95–142, § 3(a)(1)][/us/pl/95/142/s3/a/1], Oct. 25, 1977, [91 Stat. 1177][/us/stat/91/1177]; amended [Pub. L. 96–499, title IX, § 912(a)][/us/pl/96/499/s912/a], Dec. 5, 1980, [94 Stat. 2619][/us/stat/94/2619]; [Pub. L. 97–35, title XXIII, § 2353(i)][/us/pl/97/35/s2353/i], Aug. 13, 1981, [95 Stat. 872][/us/stat/95/872]; [Pub. L. 100–93, § 11][/us/pl/100/93/s11], Aug. 18, 1987, [101 Stat. 697][/us/stat/101/697]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4313(a), 4707(c), Aug. 5, 1997, [111 Stat. 388][/us/stat/111/388], 506; [Pub. L. 111–148, title VI, § 6101(a)][/us/pl/111/148/s6101/a], Mar. 23, 2010, [124 Stat. 699][/us/stat/124/699].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1124, as added [Pub. L. 95–142][/us/pl/95/142], § 3(a)(1), Oct. 25, 1977, [91 Stat. 1177][/us/stat/91/1177]; amended [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 912(a), Dec. 5, 1980, [94 Stat. 2619][/us/stat/94/2619]; [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2353(i), Aug. 13, 1981, [95 Stat. 872][/us/stat/95/872]; [Pub. L. 100–93][/us/pl/100/93], § 11, Aug. 18, 1987, [101 Stat. 697][/us/stat/101/697]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], §§ 4313(a), 4707(c), Aug. 5, 1997, [111 Stat. 388][/us/stat/111/388], 506; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6101(a), Mar. 23, 2010, [124 Stat. 699][/us/stat/124/699].)
 
  __References in Text__ 
 
@@ -169,21 +169,21 @@
 
     2010—Subsec. (c). [Pub. L. 111–148][/us/pl/111/148] added subsec. (c).
 
-    1997—Subsec. (a)(1). [Pub. L. 105–33, § 4313(a)][/us/pl/105/33/s4313/a], inserted before period at end of concluding provisions “and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under [section 405(c)(2)(B) of this title][/us/usc/t42/s405/c/2/B]) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.” The insertion was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
+    1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 4313(a), inserted before period at end of concluding provisions “and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under [section 405(c)(2)(B) of this title][/us/usc/t42/s405/c/2/B]) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.” The insertion was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
 
-    Subsec. (a)(2)(A). [Pub. L. 105–33, § 4707(c)][/us/pl/105/33/s4707/c], inserted “a managed care entity, as defined in [section 1396u–2(a)(1)(B) of this title][/us/usc/t42/s1396u–2/a/1/B],” after “renal disease facility,”.
+    Subsec. (a)(2)(A). [Pub. L. 105–33][/us/pl/105/33], § 4707(c), inserted “a managed care entity, as defined in [section 1396u–2(a)(1)(B) of this title][/us/usc/t42/s1396u–2/a/1/B],” after “renal disease facility,”.
 
     1987—Subsec. (a)(3)(A)(ii). [Pub. L. 100–93][/us/pl/100/93] struck out “$25,000 or” after “exceeds”.
 
-    1981—Subsec. (a)(1). [Pub. L. 97–35, § 2353(i)(1)][/us/pl/97/35/s2353/i/1], substituted in subpars. (A) and (B) “and XIX of this chapter” for “XIX, and XX of this chapter”.
+    1981—Subsec. (a)(1). [Pub. L. 97–35][/us/pl/97/35], § 2353(i)(1), substituted in subpars. (A) and (B) “and XIX of this chapter” for “XIX, and XX of this chapter”.
 
-    Subsec. (a)(2)(D). [Pub. L. 97–35, § 2353(i)(2)(C)][/us/pl/97/35/s2353/i/2/C], struck out subpar. (D) which included within term “disclosing entity” an entity, other than an individual practitioner or group of practitioners, that furnishes, or arranges for the furnishing of, health related services with respect to which payment may be claimed by the entity under a State plan or program approved under subchapter XX of this chapter.
+    Subsec. (a)(2)(D). [Pub. L. 97–35][/us/pl/97/35], § 2353(i)(2)(C), struck out subpar. (D) which included within term “disclosing entity” an entity, other than an individual practitioner or group of practitioners, that furnishes, or arranges for the furnishing of, health related services with respect to which payment may be claimed by the entity under a State plan or program approved under subchapter XX of this chapter.
 
     1980—Subsec. (a)(3)(A)(ii). [Pub. L. 96–499][/us/pl/96/499] substituted “of a whole or part interest” for “(in whole or in part) of an interest of 5 per centum or more” and inserted “, which whole or part interest is equal to or exceeds $25,000 or 5 per centum of the total property and assets of the entity”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title IV, § 4313(e)][/us/pl/105/33/s4313/e], Aug. 5, 1997, [111 Stat. 389][/us/stat/111/389], provided that:
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4313(e), Aug. 5, 1997, [111 Stat. 389][/us/stat/111/389], provided that:
 
 >     “(1)  __Disclosure requirements__  __.—__ 
 
@@ -205,19 +205,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–142, § 3(e)][/us/pl/95/142/s3/e], Oct. 25, 1977, [91 Stat. 1179][/us/stat/91/1179], provided that: 
+[Pub. L. 95–142][/us/pl/95/142], § 3(e), Oct. 25, 1977, [91 Stat. 1179][/us/stat/91/1179], provided that: 
 
 > “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq., 1395 et seq., 1396 et seq., 1397 et seq.\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
 
  __Public Availability of Information__ 
 
-[Pub. L. 111–148, title VI, § 6101(b)][/us/pl/111/148/s6101/b], Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6101(b), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that: 
 
 > “Not later than the date that is 1 year after the date on which the final regulations promulgated under section 1124(c)(3)(A) of the Social Security Act \[[42 U.S.C. 1320a–3(c)(3)(A)][/us/usc/t42/s1320a–3/c/3/A]\], as added by subsection (a), are published in the Federal Register, the Secretary of Health and Human Services shall make the information reported in accordance with such final regulations available to the public in accordance with procedures established by the Secretary.”
 
  __Report on Confidentiality of Social Security Account Numbers__ 
 
-[Pub. L. 105–33, title IV, § 4313(d)][/us/pl/105/33/s4313/d], Aug. 5, 1997, [111 Stat. 389][/us/stat/111/389], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4313(d), Aug. 5, 1997, [111 Stat. 389][/us/stat/111/389], provided that: 
 
 > “Before the amendments made by this section \[amending this section and [section 1320a–3a of this title][/us/usc/t42/s1320a–3a]\] may become effective, the Secretary of Health and Human Services shall submit to Congress a report on steps the Secretary has taken to assure the confidentiality of social security account numbers that will be provided to the Secretary under such amendments.”
 
@@ -237,29 +237,29 @@
 [/us/usc/t42/s1395i–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fa
 [/us/usc/t42/s1396r/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/95/142/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs3%2Fa%2F1
+[/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1177
-[/us/pl/96/499/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs912%2Fa
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2619
-[/us/pl/97/35/s2353/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353%2Fi
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F872
-[/us/pl/100/93/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs11
+[/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/stat/101/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F697
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F388
-[/us/pl/111/148/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fa
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F699
 [/us/pl/111/148/s6101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fb
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/105/33/s4313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fa
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s405/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F2%2FB
-[/us/pl/105/33/s4707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4707%2Fc
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1396u–2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%932%2Fa%2F1%2FB
 [/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
-[/us/pl/97/35/s2353/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353%2Fi%2F1
-[/us/pl/97/35/s2353/i/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353%2Fi%2F2%2FC
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
-[/us/pl/105/33/s4313/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fe
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F389
 [/us/usc/t42/s1320a–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933a
 [/us/pl/105/33/s4707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4707%2Fc
@@ -271,13 +271,13 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2354
 [/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
-[/us/pl/95/142/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs3%2Fe
+[/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1179
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/111/148/s6101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fb
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
 [/us/usc/t42/s1320a–3/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933%2Fc%2F3%2FA
-[/us/pl/105/33/s4313/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4313%2Fd
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F389
 [/us/usc/t42/s1320a–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933a
 

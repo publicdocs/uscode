@@ -33,15 +33,15 @@
 
         The Secretary shall make available information to the public on the use of life cycle cost methods in the construction of buildings, structures, and facilities in all segments of the economy.
 
-([Pub. L. 95–619, title V, § 544][/us/pl/95/619/s544], Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3186][/us/stat/102/3186]; [Pub. L. 102–486, title I, § 152(d)][/us/pl/102/486/s152/d], Oct. 24, 1992, [106 Stat. 2845][/us/stat/106/2845]; [Pub. L. 110–140, title IV, § 441][/us/pl/110/140/s441], Dec. 19, 2007, [121 Stat. 1623][/us/stat/121/1623].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 544, Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3186][/us/stat/102/3186]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(d), Oct. 24, 1992, [106 Stat. 2845][/us/stat/106/2845]; [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 441, Dec. 19, 2007, [121 Stat. 1623][/us/stat/121/1623].)
 
  __Amendments__ 
 
     2007—Subsec. (a)(1). [Pub. L. 110–140][/us/pl/110/140] substituted “40” for “25”.
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 152(d)(1)][/us/pl/102/486/s152/d/1], substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 152(d)(1), substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-    Subsec. (b)(2). [Pub. L. 102–486, § 152(d)(2)][/us/pl/102/486/s152/d/2], substituted “agency shall, after January 1, 1994, fully consider the efficiency of all potential building space at the time of renewing or entering into a new lease.” for “agency shall give appropriate preference to buildings which minimize life cycle costs.”
+    Subsec. (b)(2). [Pub. L. 102–486][/us/pl/102/486], § 152(d)(2), substituted “agency shall, after January 1, 1994, fully consider the efficiency of all potential building space at the time of renewing or entering into a new lease.” for “agency shall give appropriate preference to buildings which minimize life cycle costs.”
 
     1988—[Pub. L. 100–615][/us/pl/100/615] amended section generally, substituting provisions relating to establishment and use of life cycle cost methods and procedures for provisions defining terms (1) Secretary, (2) life cycle cost, (3) preliminary energy audit, (4) energy survey, (5) Federal building, (6) construction, and (7) energy performance target.
 
@@ -56,17 +56,17 @@
 ----------
 ----------
 
-[/us/pl/95/619/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs544
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3277
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3186
-[/us/pl/102/486/s152/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fd
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2845
-[/us/pl/110/140/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs441
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1623
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
-[/us/pl/102/486/s152/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fd%2F1
-[/us/pl/102/486/s152/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fd%2F2
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

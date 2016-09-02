@@ -19,7 +19,7 @@
 
     (b) Contracts to make the payments provided for in this section shall not carry an aggregate amount greater than such amount as may be provided in appropriations Acts.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 624, as added [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 347][/us/stat/84/347].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 624, as added [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 347][/us/stat/84/347].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F347
 
 

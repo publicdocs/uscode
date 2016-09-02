@@ -171,7 +171,7 @@
 
                 (ii) For the purpose of assuring that vehicles and engines manufactured before the beginning of a model year were not manufactured for purposes of circumventing the effective date of a standard required to be prescribed by subsection (b) of this section, the Administrator may prescribe regulations defining “model year” otherwise than as provided in clause (i).
 
-            (B) Repealed. [Pub. L. 101–549, title II, § 230(1)][/us/pl/101/549/s230/1], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
+            (B) Repealed. [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 230(1), Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
 
             (C) The term “heavy duty vehicle” means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
 
@@ -1193,15 +1193,15 @@
 
         </table>
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 202, as added [Pub. L. 89–272, title I, § 101(8)][/us/pl/89/272/s101/8], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499]; [Pub. L. 91–604, § 6(a)][/us/pl/91/604/s6/a], Dec. 31, 1970, [84 Stat. 1690][/us/stat/84/1690]; [Pub. L. 93–319, § 5][/us/pl/93/319/s5], June 22, 1974, [88 Stat. 258][/us/stat/88/258]; [Pub. L. 95–95, title II][/us/pl/95/95], §§ 201, 202(b), 213(b), 214(a), 215–217, 224(a), (b), (g), title IV, § 401(d), Aug. 7, 1977, [91 Stat. 751–753][/us/stat/91/751-753], 758–761, 765, 767, 769, 791; [Pub. L. 95–190, § 14(a)(60)][/us/pl/95/190/s14/a/60]–(65), (b)(5), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403], 1405; [Pub. L. 101–549, title II][/us/pl/101/549], §§ 201–207, 227(b), 230(1)–(5), Nov. 15, 1990, [104 Stat. 2472–2481][/us/stat/104/2472-2481], 2507, 2529.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 202, as added [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(8), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 499][/us/stat/81/499]; [Pub. L. 91–604][/us/pl/91/604], § 6(a), Dec. 31, 1970, [84 Stat. 1690][/us/stat/84/1690]; [Pub. L. 93–319][/us/pl/93/319], § 5, June 22, 1974, [88 Stat. 258][/us/stat/88/258]; [Pub. L. 95–95, title II][/us/pl/95/95/tII], §§ 201, 202(b), 213(b), 214(a), 215–217, 224(a), (b), (g), title IV, § 401(d), Aug. 7, 1977, [91 Stat. 751–753][/us/stat/91/751-753], 758–761, 765, 767, 769, 791; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(60)–(65), (b)(5), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403], 1405; [Pub. L. 101–549, title II][/us/pl/101/549/tII], §§ 201–207, 227(b), 230(1)–(5), Nov. 15, 1990, [104 Stat. 2472–2481][/us/stat/104/2472-2481], 2507, 2529.)
 
  __References in Text__ 
 
     The enactment of the Clean Air Act Amendments of 1990, referred to in subsec. (a)(3)(B), probably means the enactment of [Pub. L. 101–549][/us/pl/101/549], Nov. 15, 1990, [104 Stat. 2399][/us/stat/104/2399], which was approved Nov. 15, 1990. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
-    [Section 7525(f)(1) of this title][/us/usc/t42/s7525/f/1], referred to in subsec. (a)(3)(E), was redesignated [section 7525(f) of this title][/us/usc/t42/s7525/f] by [Pub. L. 101–549, title II, § 230(8)][/us/pl/101/549/s230/8], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
+    [Section 7525(f)(1) of this title][/us/usc/t42/s7525/f/1], referred to in subsec. (a)(3)(E), was redesignated [section 7525(f) of this title][/us/usc/t42/s7525/f] by [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 230(8), Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
 
-    Paragraph (5) of subsec. (b), referred to in subsec. (b)(1)(A), related to waivers for model years 1981 and 1982, and was repealed by [Pub. L. 101–549, title II, § 230(3)][/us/pl/101/549/s230/3], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529]. See 1990 Amendment note below.
+    Paragraph (5) of subsec. (b), referred to in subsec. (b)(1)(A), related to waivers for model years 1981 and 1982, and was repealed by [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 230(3), Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529]. See 1990 Amendment note below.
 
     The Energy Policy and Conservation Act, referred to in subsec. (b)(3)(C), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
@@ -1211,17 +1211,17 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(3)(A). [Pub. L. 101–549, § 201(1)][/us/pl/101/549/s201/1], added subpar. (A) and struck out former subpar. (A) which related to promulgation of regulations applicable to reduction of emissions from heavy-duty vehicles or engines manufactured during and after model year 1979 in the case of carbon monoxide, hydrocarbons, and oxides of nitrogen, and from vehicles manufactured during and after model year 1981 in the case of particulate matter.
+    1990—Subsec. (a)(3)(A). [Pub. L. 101–549][/us/pl/101/549], § 201(1), added subpar. (A) and struck out former subpar. (A) which related to promulgation of regulations applicable to reduction of emissions from heavy-duty vehicles or engines manufactured during and after model year 1979 in the case of carbon monoxide, hydrocarbons, and oxides of nitrogen, and from vehicles manufactured during and after model year 1981 in the case of particulate matter.
 
-    Subsec. (a)(3)(B). [Pub. L. 101–549, § 201(1)][/us/pl/101/549/s201/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “During the period of June 1 through December 31, 1978, in the case of hydrocarbons and carbon monoxide, or during the period of June 1 through December 31, 1980, in the case of oxides of nitrogen, and during each period of June 1 through December 31 of each third year thereafter, the Administrator may, after notice and opportunity for a public hearing promulgate regulations revising any standard prescribed as provided in subparagraph (A)(ii) for any class or category of heavy-duty vehicles or engines. Such standard shall apply only for the period of three model years beginning four model years after the model year in which such revised standard is promulgated. In revising any standard under this subparagraph for any such three model year period, the Administrator shall determine the maximum degree of emission reduction which can be achieved by means reasonably expected to be available for production of such period and shall prescribe a revised emission standard in accordance with such determination. Such revised standard shall require a reduction of emissions from any standard which applies in the previous model year.”
+    Subsec. (a)(3)(B). [Pub. L. 101–549][/us/pl/101/549], § 201(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “During the period of June 1 through December 31, 1978, in the case of hydrocarbons and carbon monoxide, or during the period of June 1 through December 31, 1980, in the case of oxides of nitrogen, and during each period of June 1 through December 31 of each third year thereafter, the Administrator may, after notice and opportunity for a public hearing promulgate regulations revising any standard prescribed as provided in subparagraph (A)(ii) for any class or category of heavy-duty vehicles or engines. Such standard shall apply only for the period of three model years beginning four model years after the model year in which such revised standard is promulgated. In revising any standard under this subparagraph for any such three model year period, the Administrator shall determine the maximum degree of emission reduction which can be achieved by means reasonably expected to be available for production of such period and shall prescribe a revised emission standard in accordance with such determination. Such revised standard shall require a reduction of emissions from any standard which applies in the previous model year.”
 
-    Subsec. (a)(3)(C). [Pub. L. 101–549, § 201(1)][/us/pl/101/549/s201/1], added subpar. (C) and struck out former subpar. (C) which read as follows: “Action revising any standard for any period may be taken by the Administrator under subparagraph (B) only if he finds—
+    Subsec. (a)(3)(C). [Pub. L. 101–549][/us/pl/101/549], § 201(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “Action revising any standard for any period may be taken by the Administrator under subparagraph (B) only if he finds—
 
     “(i) that compliance with the emission standards otherwise applicable for such model year cannot be achieved by technology, processes, operating methods, or other alternatives reasonably expected to be available for production for such model year without increasing cost or decreasing fuel economy to an excessive and unreasonable degree; and
 
     “(ii) the National Academy of Sciences has not, pursuant to its study and investigation under subsection (c) of this section, issued a report substantially contrary to the findings of the Administrator under clause (i).”
 
-    Subsec. (a)(3)(D). [Pub. L. 101–549, § 201(1)][/us/pl/101/549/s201/1], added subpar. (D) and struck out former subpar. (D) which read as follows: “A report shall be made to the Congress with respect to any standard revised under subparagraph (B) which shall contain—
+    Subsec. (a)(3)(D). [Pub. L. 101–549][/us/pl/101/549], § 201(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “A report shall be made to the Congress with respect to any standard revised under subparagraph (B) which shall contain—
 
     “(i) a summary of the health effects found, or believed to be associated with, the pollutant covered by such standard,
 
@@ -1231,89 +1231,89 @@
 
     “(iv) specific findings as to the relative costs of compliance, and relative fuel economy, which may be expected to result from the application for any model year of such revised standard and the application for such model year of the standard, which, but for such revision, would apply.”
 
-    Subsec. (a)(3)(E), (F). [Pub. L. 101–549, § 201][/us/pl/101/549/s201], redesignated subpar. (F) as (E), inserted heading, and struck out former subpar. (E) which read as follows:
+    Subsec. (a)(3)(E), (F). [Pub. L. 101–549][/us/pl/101/549], § 201, redesignated subpar. (F) as (E), inserted heading, and struck out former subpar. (E) which read as follows:
 
     “(i) The Administrator shall conduct a continuing pollutant-specific study concerning the effects of each air pollutant emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare. The results of such study shall be published in the Federal Register and reported to the Congress not later than June 1, 1978, in the case of hydrocarbons and carbon monoxide, and June 1, 1980, in the case of oxides of nitrogen, and before June 1 of each third year thereafter.
 
     “(ii) On the basis of such study and such other information as is available to him (including the studies under [section 7548 of this title][/us/usc/t42/s7548]), the Administrator may, after notice and opportunity for a public hearing, promulgate regulations under paragraph (1) of this subsection changing any standard prescribed in subparagraph (A)(ii) (or revised under subparagraph (B) or previously changed under this subparagraph). No such changed standard shall apply for any model year before the model year four years after the model year during which regulations containing such changed standard are promulgated.”
 
-    Subsec. (a)(4)(A), (B). [Pub. L. 101–549, § 227(b)][/us/pl/101/549/s227/b], substituted “requirements prescribed under this subchapter” for “standards prescribed under this subsection”.
+    Subsec. (a)(4)(A), (B). [Pub. L. 101–549][/us/pl/101/549], § 227(b), substituted “requirements prescribed under this subchapter” for “standards prescribed under this subsection”.
 
-    Subsec. (a)(6). [Pub. L. 101–549, § 202][/us/pl/101/549/s202], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Administrator shall determine the feasibility and desirability of requiring new motor vehicles to utilize onboard hydrocarbon control technology which would avoid the necessity of gasoline vapor recovery of uncontrolled emissions emanating from the fueling of motor vehicles. The Administrator shall compare the costs and effectiveness of such technology to that of implementing and maintaining vapor recovery systems (taking into consideration such factors as fuel economy, economic costs of such technology, administrative burdens, and equitable distribution of costs). If the Administrator finds that it is feasible and desirable to employ such technology, he shall, after consultation with the Secretary of Transportation with respect to motor vehicle safety, prescribe, by regulation, standards requiring the use of onboard hydrocarbon technology which shall not become effective until the introduction to the model year for which it would be feasible to implement such standards, taking into consideration compliance costs and the restraints of an adequate lead time for design and production.”
+    Subsec. (a)(6). [Pub. L. 101–549][/us/pl/101/549], § 202, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Administrator shall determine the feasibility and desirability of requiring new motor vehicles to utilize onboard hydrocarbon control technology which would avoid the necessity of gasoline vapor recovery of uncontrolled emissions emanating from the fueling of motor vehicles. The Administrator shall compare the costs and effectiveness of such technology to that of implementing and maintaining vapor recovery systems (taking into consideration such factors as fuel economy, economic costs of such technology, administrative burdens, and equitable distribution of costs). If the Administrator finds that it is feasible and desirable to employ such technology, he shall, after consultation with the Secretary of Transportation with respect to motor vehicle safety, prescribe, by regulation, standards requiring the use of onboard hydrocarbon technology which shall not become effective until the introduction to the model year for which it would be feasible to implement such standards, taking into consideration compliance costs and the restraints of an adequate lead time for design and production.”
 
-    Subsec. (b)(1)(C). [Pub. L. 101–549, § 203(c)][/us/pl/101/549/s203/c], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Effective with respect to vehicles and engines manufactured after model year 1978 (or in the case of heavy-duty vehicles or engines, such later model year as the Administrator determines is the earliest feasible model year), the test procedure promulgated under paragraph (2) for measurement of evaporative emissions of hydrocarbons shall require that such emissions be measured from the vehicle or engine as a whole. Regulations to carry out this subparagraph shall be promulgated not later than two hundred and seventy days after August 7, 1977.”
+    Subsec. (b)(1)(C). [Pub. L. 101–549][/us/pl/101/549], § 203(c), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Effective with respect to vehicles and engines manufactured after model year 1978 (or in the case of heavy-duty vehicles or engines, such later model year as the Administrator determines is the earliest feasible model year), the test procedure promulgated under paragraph (2) for measurement of evaporative emissions of hydrocarbons shall require that such emissions be measured from the vehicle or engine as a whole. Regulations to carry out this subparagraph shall be promulgated not later than two hundred and seventy days after August 7, 1977.”
 
-    Subsec. (b)(2). [Pub. L. 101–549, § 203(d)][/us/pl/101/549/s203/d], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Emission standards under paragraph (1), and measurement techniques on which such standards are based (if not promulgated prior to December 31, 1970), shall be prescribed by regulation within 180 days after such date.”
+    Subsec. (b)(2). [Pub. L. 101–549][/us/pl/101/549], § 203(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Emission standards under paragraph (1), and measurement techniques on which such standards are based (if not promulgated prior to December 31, 1970), shall be prescribed by regulation within 180 days after such date.”
 
-    Subsec. (b)(3). [Pub. L. 101–549, § 230(4)][/us/pl/101/549/s230/4], redesignated par. (6) relating to waiver of standards for oxides of nitrogen as par. (3), struck out subpar. (A) designation before “Upon the petition”, redesignated former cls. (i) to (iii) as subpars. (A) to (C), respectively, and struck out former subpar. (B) which authorized the Administrator to waive the standard under subsec. (b)(1)(B) of this section for emissions of oxides of nitrogen from light-duty vehicles and engines beginning in model year 1981 after providing notice and opportunity for a public hearing, and set forth conditions under which a waiver could be granted.
+    Subsec. (b)(3). [Pub. L. 101–549][/us/pl/101/549], § 230(4), redesignated par. (6) relating to waiver of standards for oxides of nitrogen as par. (3), struck out subpar. (A) designation before “Upon the petition”, redesignated former cls. (i) to (iii) as subpars. (A) to (C), respectively, and struck out former subpar. (B) which authorized the Administrator to waive the standard under subsec. (b)(1)(B) of this section for emissions of oxides of nitrogen from light-duty vehicles and engines beginning in model year 1981 after providing notice and opportunity for a public hearing, and set forth conditions under which a waiver could be granted.
 
-    Subsec. (b)(3)(B). [Pub. L. 101–549, § 230(1)][/us/pl/101/549/s230/1], in the par. (3) defining terms for purposes of this part struck out subpar. (B) which defined “light duty vehicles and engines”.
+    Subsec. (b)(3)(B). [Pub. L. 101–549][/us/pl/101/549], § 230(1), in the par. (3) defining terms for purposes of this part struck out subpar. (B) which defined “light duty vehicles and engines”.
 
-    Subsec. (b)(4). [Pub. L. 101–549, § 230(2)][/us/pl/101/549/s230/2], struck out par. (4) which read as follows: “On July 1 of 1971, and of each year thereafter, the Administrator shall report to the Congress with respect to the development of systems necessary to implement the emission standards established pursuant to this section. Such reports shall include information regarding the continuing effects of such air pollutants subject to standards under this section on the public health and welfare, the extent and progress of efforts being made to develop the necessary systems, the costs associated with development and application of such systems, and following such hearings as he may deem advisable, any recommendations for additional congressional action necessary to achieve the purposes of this chapter. In gathering information for the purposes of this paragraph and in connection with any hearing, the provisions of [section 7607(a) of this title][/us/usc/t42/s7607/a] (relating to subpenas) shall apply.”
+    Subsec. (b)(4). [Pub. L. 101–549][/us/pl/101/549], § 230(2), struck out par. (4) which read as follows: “On July 1 of 1971, and of each year thereafter, the Administrator shall report to the Congress with respect to the development of systems necessary to implement the emission standards established pursuant to this section. Such reports shall include information regarding the continuing effects of such air pollutants subject to standards under this section on the public health and welfare, the extent and progress of efforts being made to develop the necessary systems, the costs associated with development and application of such systems, and following such hearings as he may deem advisable, any recommendations for additional congressional action necessary to achieve the purposes of this chapter. In gathering information for the purposes of this paragraph and in connection with any hearing, the provisions of [section 7607(a) of this title][/us/usc/t42/s7607/a] (relating to subpenas) shall apply.”
 
-    Subsec. (b)(5). [Pub. L. 101–549, § 230(3)][/us/pl/101/549/s230/3], struck out par. (5) which related to waivers for model years 1981 and 1982 of the effective date of the emissions standard required under par. (1)(A) for carbon monoxide applicable to light-duty vehicles and engines manufactured in those model years.
+    Subsec. (b)(5). [Pub. L. 101–549][/us/pl/101/549], § 230(3), struck out par. (5) which related to waivers for model years 1981 and 1982 of the effective date of the emissions standard required under par. (1)(A) for carbon monoxide applicable to light-duty vehicles and engines manufactured in those model years.
 
-    Subsec. (b)(6). [Pub. L. 101–549, § 230(4)][/us/pl/101/549/s230/4], redesignated par. (6) as (3).
+    Subsec. (b)(6). [Pub. L. 101–549][/us/pl/101/549], § 230(4), redesignated par. (6) as (3).
 
-    Subsec. (b)(7). [Pub. L. 101–549, § 230(5)][/us/pl/101/549/s230/5], struck out par. (7) which read as follows: “The Congress hereby declares and establishes as a research objective, the development of propulsion systems and emission control technology to achieve standards which represent a reduction of at least 90 per centum from the average emissions of oxides of nitrogen actually measured from light duty motor vehicles manufactured in model year 1971 not subject to any Federal or State emission standard for oxides of nitrogen. The Administrator shall, by regulations promulgated within one hundred and eighty days after August 7, 1977, require each manufacturer whose sales represent at least 0.5 per centum of light duty motor vehicle sales in the United States, to build and, on a regular basis, demonstrate the operation of light duty motor vehicles that meet this research objective, in addition to any other applicable standards or requirements for other pollutants under this chapter. Such demonstration vehicles shall be submitted to the Administrator no later than model year 1979 and in each model year thereafter. Such demonstration shall, in accordance with applicable regulations, to the greatest extent possible, (A) be designed to encourage the development of new powerplant and emission control technologies that are fuel efficient, (B) assure that the demonstration vehicles are or could reasonably be expected to be within the productive capability of the manufacturers, and (C) assure the utilization of optimum engine, fuel, and emission control systems.”
+    Subsec. (b)(7). [Pub. L. 101–549][/us/pl/101/549], § 230(5), struck out par. (7) which read as follows: “The Congress hereby declares and establishes as a research objective, the development of propulsion systems and emission control technology to achieve standards which represent a reduction of at least 90 per centum from the average emissions of oxides of nitrogen actually measured from light duty motor vehicles manufactured in model year 1971 not subject to any Federal or State emission standard for oxides of nitrogen. The Administrator shall, by regulations promulgated within one hundred and eighty days after August 7, 1977, require each manufacturer whose sales represent at least 0.5 per centum of light duty motor vehicle sales in the United States, to build and, on a regular basis, demonstrate the operation of light duty motor vehicles that meet this research objective, in addition to any other applicable standards or requirements for other pollutants under this chapter. Such demonstration vehicles shall be submitted to the Administrator no later than model year 1979 and in each model year thereafter. Such demonstration shall, in accordance with applicable regulations, to the greatest extent possible, (A) be designed to encourage the development of new powerplant and emission control technologies that are fuel efficient, (B) assure that the demonstration vehicles are or could reasonably be expected to be within the productive capability of the manufacturers, and (C) assure the utilization of optimum engine, fuel, and emission control systems.”
 
-    Subsec. (d). [Pub. L. 101–549, § 203(b)(1)][/us/pl/101/549/s203/b/1], substituted “provide that except where a different useful life period is specified in this subchapter” for “provide that”.
+    Subsec. (d). [Pub. L. 101–549][/us/pl/101/549], § 203(b)(1), substituted “provide that except where a different useful life period is specified in this subchapter” for “provide that”.
 
-    Subsec. (d)(1). [Pub. L. 101–549, § 203(b)(2)][/us/pl/101/549/s203/b/2], (3), inserted “and light-duty trucks up to 3,750 lbs. LVW and up to 6,000 lbs. GVWR” after “engines” and substituted for semicolon at end “, except that in the case of any requirement of this section which first becomes applicable after November 15, 1990, where the useful life period is not otherwise specified for such vehicles and engines, the period shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs, with testing for purposes of in-use compliance under [section 7541 of this title][/us/usc/t42/s7541] up to (but not beyond) 7 years or 75,000 miles (or the equivalent), whichever first occurs;”.
+    Subsec. (d)(1). [Pub. L. 101–549][/us/pl/101/549], § 203(b)(2), (3), inserted “and light-duty trucks up to 3,750 lbs. LVW and up to 6,000 lbs. GVWR” after “engines” and substituted for semicolon at end “, except that in the case of any requirement of this section which first becomes applicable after November 15, 1990, where the useful life period is not otherwise specified for such vehicles and engines, the period shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs, with testing for purposes of in-use compliance under [section 7541 of this title][/us/usc/t42/s7541] up to (but not beyond) 7 years or 75,000 miles (or the equivalent), whichever first occurs;”.
 
-    Subsec. (f). [Pub. L. 101–549, § 207(b)][/us/pl/101/549/s207/b], added (after subsec. (m) at end) subsec. (f) relating to regulations applicable to buses for model years after 1990.
+    Subsec. (f). [Pub. L. 101–549][/us/pl/101/549], § 207(b), added (after subsec. (m) at end) subsec. (f) relating to regulations applicable to buses for model years after 1990.
 
-    Subsecs. (g) to (i). [Pub. L. 101–549, § 203(a)][/us/pl/101/549/s203/a], added subsecs. (g) to (i).
+    Subsecs. (g) to (i). [Pub. L. 101–549][/us/pl/101/549], § 203(a), added subsecs. (g) to (i).
 
     Subsecs. (j) to (m). [Pub. L. 101–549][/us/pl/101/549], §§ 204–207(a), added subsecs. (j) to (m).
 
-    1977—Subsec. (a)(1). [Pub. L. 95–190, § 14(a)(60)][/us/pl/95/190/s14/a/60], restructured subsec. (a) by providing for designation of par. (1) to precede “The Administrator” in place of “Except as”.
+    1977—Subsec. (a)(1). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(60), restructured subsec. (a) by providing for designation of par. (1) to precede “The Administrator” in place of “Except as”.
 
-    [Pub. L. 95–95, § 401(d)(1)][/us/pl/95/95/s401/d/1], substituted “Except as otherwise provided in subsection (b) of this section the Administrator” for “The Administrator”, “cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “causes or contributes to, or is likely to cause or contribute to, air pollution which endangers the public health or welfare”, and “useful life (as determined under subsection (d) of this section, relating to useful life of vehicles for purposes of certification), whether such vehicles and engines are designed as complete systems or incorporate devices” for “useful life (as determined under subsection (d) of this section) whether such vehicles and engines are designed as complete systems or incorporated devices”.
+    [Pub. L. 95–95][/us/pl/95/95], § 401(d)(1), substituted “Except as otherwise provided in subsection (b) of this section the Administrator” for “The Administrator”, “cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “causes or contributes to, or is likely to cause or contribute to, air pollution which endangers the public health or welfare”, and “useful life (as determined under subsection (d) of this section, relating to useful life of vehicles for purposes of certification), whether such vehicles and engines are designed as complete systems or incorporate devices” for “useful life (as determined under subsection (d) of this section) whether such vehicles and engines are designed as complete systems or incorporated devices”.
 
-    Subsec. (a)(2). [Pub. L. 95–95, § 214(a)][/us/pl/95/95/s214/a], substituted “prescribed under paragraph (1) of this subsection” for “prescribed under this subsection”.
+    Subsec. (a)(2). [Pub. L. 95–95][/us/pl/95/95], § 214(a), substituted “prescribed under paragraph (1) of this subsection” for “prescribed under this subsection”.
 
-    Subsec. (a)(3). [Pub. L. 95–95, § 224(a)][/us/pl/95/95/s224/a], added par. (3).
+    Subsec. (a)(3). [Pub. L. 95–95][/us/pl/95/95], § 224(a), added par. (3).
 
-    Subsec. (a)(3)(B). [Pub. L. 95–190, § 14(a)(61)][/us/pl/95/190/s14/a/61], (62), substituted provisions setting forth applicable periods of from June 1 through Dec. 31, 1978, June 1 through Dec. 31, 1980, and during each period of June 1 through Dec. 31 of each third year thereafter, for provisions setting forth applicable periods of from June 1 through Dec. 31, 1979, and during each period of June 1 through Dec. 31 of each third year after 1979, and substituted “from any” for “of from any”.
+    Subsec. (a)(3)(B). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(61), (62), substituted provisions setting forth applicable periods of from June 1 through Dec. 31, 1978, June 1 through Dec. 31, 1980, and during each period of June 1 through Dec. 31 of each third year thereafter, for provisions setting forth applicable periods of from June 1 through Dec. 31, 1979, and during each period of June 1 through Dec. 31 of each third year after 1979, and substituted “from any” for “of from any”.
 
-    Subsec. (a)(3)(E). [Pub. L. 95–190, § 14(a)(63)][/us/pl/95/190/s14/a/63], substituted “1978, in the case of hydrocarbons and carbon monoxide, and June 1, 1980, in the case of oxides of nitrogen” for “1979,”.
+    Subsec. (a)(3)(E). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(63), substituted “1978, in the case of hydrocarbons and carbon monoxide, and June 1, 1980, in the case of oxides of nitrogen” for “1979,”.
 
-    Subsec. (a)(4). [Pub. L. 95–95, § 214(a)][/us/pl/95/95/s214/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 95–95][/us/pl/95/95], § 214(a), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 95–95, § 215][/us/pl/95/95/s215], added par. (5).
+    Subsec. (a)(5). [Pub. L. 95–95][/us/pl/95/95], § 215, added par. (5).
 
-    Subsec. (a)(6). [Pub. L. 95–95, § 216][/us/pl/95/95/s216], added par. (6).
+    Subsec. (a)(6). [Pub. L. 95–95][/us/pl/95/95], § 216, added par. (6).
 
-    Subsec. (b)(1)(A). [Pub. L. 95–95, § 201(a)][/us/pl/95/95/s201/a], substituted provisions setting the standards for emissions from light-duty vehicles and engines manufactured during the model years 1977 through 1980 for provisions which had set the standards for emissions from light-duty vehicles and engines manufactured during the model years 1975 and 1976, substituted “model year 1980” for “model year 1977” in provisions requiring a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970, and inserted provisions that, unless waived as provided in par. (5), the standards for vehicles and engines manufactured during or after the model year 1981 represent a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970.
+    Subsec. (b)(1)(A). [Pub. L. 95–95][/us/pl/95/95], § 201(a), substituted provisions setting the standards for emissions from light-duty vehicles and engines manufactured during the model years 1977 through 1980 for provisions which had set the standards for emissions from light-duty vehicles and engines manufactured during the model years 1975 and 1976, substituted “model year 1980” for “model year 1977” in provisions requiring a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970, and inserted provisions that, unless waived as provided in par. (5), the standards for vehicles and engines manufactured during or after the model year 1981 represent a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970.
 
-    Subsec. (b)(1)(B). [Pub. L. 95–190, § 14(a)(64)][/us/pl/95/190/s14/a/64], (65), substituted “calendar year 1976” for “model year 1976” and in cl. (i) substituted “other” for “United States”.
+    Subsec. (b)(1)(B). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(64), (65), substituted “calendar year 1976” for “model year 1976” and in cl. (i) substituted “other” for “United States”.
 
-    [Pub. L. 95–95, § 201(b)][/us/pl/95/95/s201/b], substituted provisions setting the standards for emissions from light-duty vehicles and engines manufactured during the model years 1977 through 1980 for provisions which had set the standards for emissions from light-duty vehicles and engines manufactured during the model years 1975 through 1977, substituted provisions that the standards for model years 1981 and after allow emissions of no more than 1.0 gram per vehicle mile for provisions that the standards for model year 1978 and after require a reduction of at least 90 per centum from the average of emissions actually measured from light-duty vehicles manufactured during model year 1971 which were not subject to any Federal or State emission standards for oxides of nitrogen, and inserted provisions directing the Administrator to prescribe separate standards for model years 1981 and 1982 for manufacturers whose production, by corporate identity, for model year 1976 was less than three hundred thousand light-duty motor vehicles worldwide if the manufacturer’s capability to meet emission standards depends upon United States technology and if the manufacturer cannot develop one.
+    [Pub. L. 95–95][/us/pl/95/95], § 201(b), substituted provisions setting the standards for emissions from light-duty vehicles and engines manufactured during the model years 1977 through 1980 for provisions which had set the standards for emissions from light-duty vehicles and engines manufactured during the model years 1975 through 1977, substituted provisions that the standards for model years 1981 and after allow emissions of no more than 1.0 gram per vehicle mile for provisions that the standards for model year 1978 and after require a reduction of at least 90 per centum from the average of emissions actually measured from light-duty vehicles manufactured during model year 1971 which were not subject to any Federal or State emission standards for oxides of nitrogen, and inserted provisions directing the Administrator to prescribe separate standards for model years 1981 and 1982 for manufacturers whose production, by corporate identity, for model year 1976 was less than three hundred thousand light-duty motor vehicles worldwide if the manufacturer’s capability to meet emission standards depends upon United States technology and if the manufacturer cannot develop one.
 
-    Subsec. (b)(1)(C). [Pub. L. 95–95, § 217][/us/pl/95/95/s217], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 95–95][/us/pl/95/95], § 217, added subpar. (C).
 
-    Subsec. (b)(3)(C). [Pub. L. 95–95, § 224(b)][/us/pl/95/95/s224/b], added subpar. (C).
+    Subsec. (b)(3)(C). [Pub. L. 95–95][/us/pl/95/95], § 224(b), added subpar. (C).
 
-    Subsec. (b)(5). [Pub. L. 95–95, § 201(c)][/us/pl/95/95/s201/c], substituted provisions setting up a procedure under which a manufacturer may apply for a waiver for model years 1981 and 1982 of the effective date of the emission standards for carbon monoxide required by par. (1)(A) for provisions which had set up a procedure under which a manufacturer, after Jan. 1, 1975, could apply for a one-year suspension of the effective date of any emission standard required by par. (1)(A) for model year 1977.
+    Subsec. (b)(5). [Pub. L. 95–95][/us/pl/95/95], § 201(c), substituted provisions setting up a procedure under which a manufacturer may apply for a waiver for model years 1981 and 1982 of the effective date of the emission standards for carbon monoxide required by par. (1)(A) for provisions which had set up a procedure under which a manufacturer, after Jan. 1, 1975, could apply for a one-year suspension of the effective date of any emission standard required by par. (1)(A) for model year 1977.
 
-    Subsec. (b)(6). [Pub. L. 95–95, § 201(c)][/us/pl/95/95/s201/c], added par. (6).
+    Subsec. (b)(6). [Pub. L. 95–95][/us/pl/95/95], § 201(c), added par. (6).
 
-    Subsec. (b)(7). [Pub. L. 95–95, § 202(b)][/us/pl/95/95/s202/b], added par. (7).
+    Subsec. (b)(7). [Pub. L. 95–95][/us/pl/95/95], § 202(b), added par. (7).
 
-    Subsec. (d)(2). [Pub. L. 95–95, § 224(g)][/us/pl/95/95/s224/g], as amended by [Pub. L. 95–190, § 14(b)(5)][/us/pl/95/190/s14/b/5], to correct typographical error in directory language, inserted “(other than motorcycles or motorcycle engines)” after “motor vehicle or motor vehicle engine”.
+    Subsec. (d)(2). [Pub. L. 95–95][/us/pl/95/95], § 224(g), as amended by [Pub. L. 95–190][/us/pl/95/190], § 14(b)(5), to correct typographical error in directory language, inserted “(other than motorcycles or motorcycle engines)” after “motor vehicle or motor vehicle engine”.
 
-    Subsec. (d)(3). [Pub. L. 95–95, § 224(g)][/us/pl/95/95/s224/g], added par. (3).
+    Subsec. (d)(3). [Pub. L. 95–95][/us/pl/95/95], § 224(g), added par. (3).
 
-    Subsec. (e). [Pub. L. 95–95, § 401(d)(2)][/us/pl/95/95/s401/d/2], substituted “which in his judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger” for “which cause or contribute to, or are likely to cause or contribute to, air pollution which endangers”.
+    Subsec. (e). [Pub. L. 95–95][/us/pl/95/95], § 401(d)(2), substituted “which in his judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger” for “which cause or contribute to, or are likely to cause or contribute to, air pollution which endangers”.
 
-    Subsec. (f). [Pub. L. 95–95, § 213(b)][/us/pl/95/95/s213/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–95][/us/pl/95/95], § 213(b), added subsec. (f).
 
-    1974—Subsec. (b)(1)(A). [Pub. L. 93–319, § 5(a)][/us/pl/93/319/s5/a], substituted “model year 1977” for “model year 1975” in provisions requiring a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970 and inserted provisions covering regulations for model years 1975 and 1976.
+    1974—Subsec. (b)(1)(A). [Pub. L. 93–319][/us/pl/93/319], § 5(a), substituted “model year 1977” for “model year 1975” in provisions requiring a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970 and inserted provisions covering regulations for model years 1975 and 1976.
 
-    Subsec. (b)(1)(B). [Pub. L. 93–319, § 5(b)][/us/pl/93/319/s5/b], substituted “model year 1978” for “model year 1976” in provisions requiring a reduction of at least 90 per centum from the average of emissions actually measured from vehicles manufactured during model year 1971 and inserted provisions covering regulations for model years 1975, 1976, and 1977.
+    Subsec. (b)(1)(B). [Pub. L. 93–319][/us/pl/93/319], § 5(b), substituted “model year 1978” for “model year 1976” in provisions requiring a reduction of at least 90 per centum from the average of emissions actually measured from vehicles manufactured during model year 1971 and inserted provisions covering regulations for model years 1975, 1976, and 1977.
 
-    Subsec. (b)(5). [Pub. L. 93–319, § 5(c)][/us/pl/93/319/s5/c], (d), substituted in subpar. (A), “At any time after January 1, 1975” for “At any time after January 1, 1972”, “with respect to such manufacturer for light-duty vehicles and engines manufactured in model year 1977” for “with respect to such manufacturer”, “sixty days” for “60 days”, “paragraph (1)(A) of this subsection” for “paragraph (1)(A)”, and “vehicles and engines manufactured during model year 1977” for “vehicles and engines manufactured during model year 1975”, redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which had allowed manufacturers, at any time after Jan. 1, 1973, to file with the Administrator an application requesting a 1-year suspension of the effective date of any emission standard required by subsec. (b)(1)(B) with respect to such manufacturer.
+    Subsec. (b)(5). [Pub. L. 93–319][/us/pl/93/319], § 5(c), (d), substituted in subpar. (A), “At any time after January 1, 1975” for “At any time after January 1, 1972”, “with respect to such manufacturer for light-duty vehicles and engines manufactured in model year 1977” for “with respect to such manufacturer”, “sixty days” for “60 days”, “paragraph (1)(A) of this subsection” for “paragraph (1)(A)”, and “vehicles and engines manufactured during model year 1977” for “vehicles and engines manufactured during model year 1975”, redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which had allowed manufacturers, at any time after Jan. 1, 1973, to file with the Administrator an application requesting a 1-year suspension of the effective date of any emission standard required by subsec. (b)(1)(B) with respect to such manufacturer.
 
     1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604] redesignated existing provisions as par. (1), substituted Administrator for Secretary as the issuing authority for standards, inserted references to the useful life of engines, and substituted the emission of any air pollutant for the emission of any kind of substance as the subject to be regulated, and added par. (2).
 
@@ -1333,15 +1333,15 @@
 
  __Study on Oxides of Nitrogen From Light-Duty Vehicles__ 
 
-    [Pub. L. 95–95, title II, § 202(a)][/us/pl/95/95/s202/a], Aug. 7, 1977, [91 Stat. 753][/us/stat/91/753], provided that the Administrator of the Environmental Protection Agency conduct a study of the public health implications of attaining an emission standard on oxides of nitrogen from light-duty vehicles of 0.4 gram per vehicle mile, the cost and technological capability of attaining such standard, and the need for such a standard to protect public health or welfare and that the Administrator submit a report of such study to the Congress, together with recommendations not later than July 1, 1980.
+    [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 202(a), Aug. 7, 1977, [91 Stat. 753][/us/stat/91/753], provided that the Administrator of the Environmental Protection Agency conduct a study of the public health implications of attaining an emission standard on oxides of nitrogen from light-duty vehicles of 0.4 gram per vehicle mile, the cost and technological capability of attaining such standard, and the need for such a standard to protect public health or welfare and that the Administrator submit a report of such study to the Congress, together with recommendations not later than July 1, 1980.
 
  __Study of Carbon Monoxide Intrusion Into Sustained-Use Vehicles__ 
 
-    [Pub. L. 95–95, title II, § 226][/us/pl/95/95/s226], Aug. 7, 1977, [91 Stat. 769][/us/stat/91/769], provided that the Administrator, in conjunction with the Secretary of Transportation, study the problem of carbon monoxide intrusion into the passenger area of sustained-use motor vehicles and that within one year the Administrator report to the Congress respecting the results of such study.
+    [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 226, Aug. 7, 1977, [91 Stat. 769][/us/stat/91/769], provided that the Administrator, in conjunction with the Secretary of Transportation, study the problem of carbon monoxide intrusion into the passenger area of sustained-use motor vehicles and that within one year the Administrator report to the Congress respecting the results of such study.
 
  __Continuing Comprehensive Studies and Investigations by National Academy of Sciences__ 
 
-[Pub. L. 95–95, title IV, § 403(f)][/us/pl/95/95/s403/f], Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], provided that: 
+[Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 403(f), Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], provided that: 
 
 > “The Administrator of the Environmental Protection Agency shall undertake to enter into appropriate arrangements with the National Academy of Sciences to conduct continuing comprehensive studies and investigations of the effects on public health and welfare of emissions subject to section 202(a) of the Clean Air Act \[subsec. (a) of this section\] (including sulfur compounds) and the technological feasibility of meeting emission standards required to be prescribed by the Administrator by section 202(b) of such Act \[subsec. (b) of this section\]. The Administrator shall report to the Congress within six months of the date of enactment of this section \[Aug. 7, 1977\] and each year thereafter regarding the status of the contractual arrangements and conditions necessary to implement this paragraph.”
 
@@ -1349,7 +1349,7 @@
 
  __Study on Emission of Sulfur-Bearing Compounds From Motor Vehicles and Motor Vehicle and Aircraft Engines__ 
 
-    [Pub. L. 95–95, title IV, § 403(g)][/us/pl/95/95/s403/g], Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], provided that the Administrator of the Environmental Protection Agency conduct a study and report to the Congress by the date one year after Aug. 7, 1977, on the emission of sulfur-bearing compounds from motor vehicles and motor vehicle engines and aircraft engines.
+    [Pub. L. 95–95, title IV][/us/pl/95/95/tIV], § 403(g), Aug. 7, 1977, [91 Stat. 793][/us/stat/91/793], provided that the Administrator of the Environmental Protection Agency conduct a study and report to the Congress by the date one year after Aug. 7, 1977, on the emission of sulfur-bearing compounds from motor vehicles and motor vehicle engines and aircraft engines.
 
  __Ex. Ord. No. 13432. Cooperation Among Agencies in Protecting the Environment With Respect to Greenhouse Gas Emissions From Motor Vehicles, Nonroad Vehicles, and Nonroad Engines__ 
 
@@ -1425,7 +1425,7 @@
 [/us/usc/t42/s7511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511
 [/us/usc/t42/s7511a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511a%2Fb%2F3
 [/us/usc/t42/s7511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511
-[/us/pl/101/549/s230/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F1
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s7541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7541
@@ -1444,81 +1444,81 @@
 [/us/usc/t42/s7542/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7542%2Fc
 [/us/usc/t42/s7554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7554
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/89/272/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F8
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F499
-[/us/pl/91/604/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs6%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1690
-[/us/pl/93/319/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs5
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F258
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/751-753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F751-753
-[/us/pl/95/190/s14/a/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F60
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1403
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2472-2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2472-2481
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/stat/104/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2399
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7525/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525%2Ff%2F1
 [/us/usc/t42/s7525/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525%2Ff
-[/us/pl/101/549/s230/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F8
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
-[/us/pl/101/549/s230/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F3
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s1857f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%931
-[/us/pl/101/549/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs201%2F1
-[/us/pl/101/549/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs201%2F1
-[/us/pl/101/549/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs201%2F1
-[/us/pl/101/549/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs201%2F1
-[/us/pl/101/549/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs201
-[/us/usc/t42/s7548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7548
-[/us/pl/101/549/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs227%2Fb
-[/us/pl/101/549/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs202
-[/us/pl/101/549/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs203%2Fc
-[/us/pl/101/549/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs203%2Fd
-[/us/pl/101/549/s230/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F4
-[/us/pl/101/549/s230/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F1
-[/us/pl/101/549/s230/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F2
-[/us/usc/t42/s7607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7607%2Fa
-[/us/pl/101/549/s230/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F3
-[/us/pl/101/549/s230/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F4
-[/us/pl/101/549/s230/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F5
-[/us/pl/101/549/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs203%2Fb%2F1
-[/us/pl/101/549/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs203%2Fb%2F2
-[/us/usc/t42/s7541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7541
-[/us/pl/101/549/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs207%2Fb
-[/us/pl/101/549/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs203%2Fa
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/95/190/s14/a/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F60
-[/us/pl/95/95/s401/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs401%2Fd%2F1
-[/us/pl/95/95/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs214%2Fa
-[/us/pl/95/95/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs224%2Fa
-[/us/pl/95/190/s14/a/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F61
-[/us/pl/95/190/s14/a/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F63
-[/us/pl/95/95/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs214%2Fa
-[/us/pl/95/95/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs215
-[/us/pl/95/95/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs216
-[/us/pl/95/95/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs201%2Fa
-[/us/pl/95/190/s14/a/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F64
-[/us/pl/95/95/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs201%2Fb
-[/us/pl/95/95/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs217
-[/us/pl/95/95/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs224%2Fb
-[/us/pl/95/95/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs201%2Fc
-[/us/pl/95/95/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs201%2Fc
-[/us/pl/95/95/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs202%2Fb
-[/us/pl/95/95/s224/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs224%2Fg
-[/us/pl/95/190/s14/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fb%2F5
-[/us/pl/95/95/s224/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs224%2Fg
-[/us/pl/95/95/s401/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs401%2Fd%2F2
-[/us/pl/95/95/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs213%2Fb
-[/us/pl/93/319/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs5%2Fa
-[/us/pl/93/319/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs5%2Fb
-[/us/pl/93/319/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs5%2Fc
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/usc/t42/s7548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7548
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/usc/t42/s7607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7607%2Fa
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/usc/t42/s7541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7541
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
@@ -1530,16 +1530,16 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fb
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/95/95/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs202%2Fa
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F753
-[/us/pl/95/95/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs226
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F769
-[/us/pl/95/95/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Ff
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F793
 [/us/pl/95/95/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Ff
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/95/95/s403/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs403%2Fg
+[/us/pl/95/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIV
 [/us/stat/91/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F793
 [/us/usc/t42/s13211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13211%2F2
 [/us/usc/t42/s7401–767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401%E2%80%93767

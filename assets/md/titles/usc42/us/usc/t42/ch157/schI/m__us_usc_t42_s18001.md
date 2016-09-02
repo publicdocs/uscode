@@ -147,7 +147,7 @@
 
             The standards established under this section shall supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) with respect to qualified high risk pools which are established in accordance with this section.
 
-([Pub. L. 111–148, title I, § 1101][/us/pl/111/148/s1101], Mar. 23, 2010, [124 Stat. 141][/us/stat/124/141].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1101, Mar. 23, 2010, [124 Stat. 141][/us/stat/124/141].)
 
  __References in Text__ 
 
@@ -157,13 +157,13 @@
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–235, div. M, § 1][/us/pl/113/235/s1], Dec. 16, 2014, [128 Stat. 2767][/us/stat/128/2767], provided that: 
+[Pub. L. 113–235, div. M][/us/pl/113/235/dM], § 1, Dec. 16, 2014, [128 Stat. 2767][/us/stat/128/2767], provided that: 
 
 > “This division \[enacting [section 18014 of this title][/us/usc/t42/s18014]\] may be cited as the ‘Expatriate Health Coverage Clarification Act of 2014’.”
 
  __Short Title__ 
 
-[Pub. L. 111–148, § 1(a)][/us/pl/111/148/s1/a], Mar. 23, 2010, [124 Stat. 119][/us/stat/124/119], provided that: 
+[Pub. L. 111–148][/us/pl/111/148], § 1(a), Mar. 23, 2010, [124 Stat. 119][/us/stat/124/119], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Patient Protection and Affordable Care Act’.”
 
@@ -178,7 +178,7 @@
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t42/s18081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18081
 [/us/usc/t42/s300gg/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%2Fc%2F1
-[/us/pl/111/148/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1101
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F141
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
@@ -186,10 +186,10 @@
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/111/148/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1255
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/pl/113/235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1
+[/us/pl/113/235/dM]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdM
 [/us/stat/128/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2767
 [/us/usc/t42/s18014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18014
-[/us/pl/111/148/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 
 

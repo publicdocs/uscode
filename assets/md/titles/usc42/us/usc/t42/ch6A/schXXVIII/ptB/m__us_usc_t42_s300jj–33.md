@@ -131,7 +131,7 @@
 
             For any fiscal year during the grant program under this section before fiscal year 2011, the Secretary may determine the extent to which there shall be required a non-Federal contribution from a State receiving a grant under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3013, as added [Pub. L. 111–5, div. A, title XIII, § 13301][/us/pl/111/5/s13301], Feb. 17, 2009, [123 Stat. 250][/us/stat/123/250].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3013, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13301, Feb. 17, 2009, [123 Stat. 250][/us/stat/123/250].)
 
 ----------
 
@@ -143,7 +143,7 @@
 [/us/usc/t42/s300jj–32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9332
 [/us/usc/t42/s300jj–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9311
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13301
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F250
 
 

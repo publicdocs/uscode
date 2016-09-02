@@ -31,7 +31,7 @@
 
         This section shall not apply to a plan described in section 18031(d)(2)(B)(ii) 1 of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2707, as added [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], Mar. 23, 2010, [124 Stat. 161][/us/stat/124/161]; amended [Pub. L. 113–93, title II, § 213(b)][/us/pl/113/93/s213/b], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2707, as added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), Mar. 23, 2010, [124 Stat. 161][/us/stat/124/161]; amended [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 213(b), Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 300gg–6, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2706, as added [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title IX, § 903(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–438, which related to required coverage for reconstructive surgery following mastectomies, was renumbered section 2727 of act July 1, 1944, and transferred to [section 300gg–27 of this title][/us/usc/t42/s300gg–27].
+    A prior section 300gg–6, [act July 1, 1944, ch. 373, title XXVII][/us/act/1944-07-01/ch373/tXXVII], § 2706, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title IX, § 903(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–438, which related to required coverage for reconstructive surgery following mastectomies, was renumbered section 2727 of act July 1, 1944, and transferred to [section 300gg–27 of this title][/us/usc/t42/s300gg–27].
 
     A prior section 2707 of act July 1, 1944, was renumbered section 2728 and is classified to [section 300gg–28 of this title][/us/usc/t42/s300gg–28].
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–93, title II, § 213(c)][/us/pl/113/93/s213/c], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that: 
+[Pub. L. 113–93, title II][/us/pl/113/93/tII], § 213(c), Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that: 
 
 > “The amendments made by this Act \[probably means this section, amending this section and [section 18022 of this title][/us/usc/t42/s18022]\] shall be effective as if included in the enactment of the Patient Protection and Affordable Care Act ([Public Law 111–148][/us/pl/111/148]).”
 
@@ -71,22 +71,22 @@
 [/us/usc/t42/s18022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fa
 [/us/usc/t42/s18022/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fd
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F161
-[/us/pl/113/93/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs213%2Fb
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
 [/us/usc/t42/s18022/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fc
 [/us/pl/111/148/s1302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1302%2Fc
 [/us/usc/t42/s18031/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18031%2Fd%2F2%2FB%2Fii
 [/us/pl/111/148/s1311/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1311%2Fd%2F2%2FB%2Fii
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/act/1944-07-01/ch373/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVII
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/usc/t42/s300gg–27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9327
 [/us/usc/t42/s300gg–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9328
 [/us/usc/t42/s238f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238f
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
-[/us/pl/113/93/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs213%2Fc
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
 [/us/usc/t42/s18022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

@@ -75,7 +75,7 @@
 
             While away from their homes or regular places of business on the business of the Task Force, members of such Task Force may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under [section 5703 of title 5][/us/usc/t5/s5703] for persons employed intermittently in the Government service.
 
-([Pub. L. 101–557, title III, § 302][/us/pl/101/557/s302], Nov. 15, 1990, [104 Stat. 2769][/us/stat/104/2769]; [Pub. L. 102–321, title I, § 161][/us/pl/102/321/s161], July 10, 1992, [106 Stat. 375][/us/stat/106/375]; [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 108–173, title IX, § 900(e)(6)(D)][/us/pl/108/173/s900/e/6/D], Dec. 8, 2003, [117 Stat. 2373][/us/stat/117/2373].)
+([Pub. L. 101–557, title III][/us/pl/101/557/tIII], § 302, Nov. 15, 1990, [104 Stat. 2769][/us/stat/104/2769]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 161, July 10, 1992, [106 Stat. 375][/us/stat/106/375]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(6)(D), Dec. 8, 2003, [117 Stat. 2373][/us/stat/117/2373].)
 
  __Codification__ 
 
@@ -108,15 +108,15 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/101/557/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs302
+[/us/pl/101/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2FtIII
 [/us/stat/104/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2769
-[/us/pl/102/321/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs161
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F375
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
-[/us/pl/108/173/s900/e/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F6%2FD
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2373
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129

@@ -27,7 +27,7 @@
 
         In connection with a grant under this part, the Secretary may reserve authority to provide assistance under [section 1437f of this title][/us/usc/t42/s1437f] to the extent necessary to provide rental assistance for a nonpurchasing tenant who resides in the project on the date the Secretary approves the application for an implementation grant, for use by the tenant in another project.
 
-([Pub. L. 101–625, title IV, § 421][/us/pl/101/625/s421], Nov. 28, 1990, [104 Stat. 4162][/us/stat/104/4162]; [Pub. L. 102–550, title I, § 181(a)(2)(B)(i)][/us/pl/102/550/s181/a/2/B/i], Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 421, Nov. 28, 1990, [104 Stat. 4162][/us/stat/104/4162]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 181(a)(2)(B)(i), Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/101/625/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs421
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4162
-[/us/pl/102/550/s181/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fa%2F2%2FB%2Fi
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3735
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4162

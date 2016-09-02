@@ -27,7 +27,7 @@
 
     (5) the denial or grant of any extensions to comply with subchapter I of this chapter, and the reasons for such denial or grant.
 
-([Pub. L. 109–248, title VI, § 635][/us/pl/109/248/s635], July 27, 2006, [120 Stat. 644][/us/stat/120/644].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 635, July 27, 2006, [120 Stat. 644][/us/stat/120/644].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t18/s2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2250
 [/us/usc/t42/s16925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16925
-[/us/pl/109/248/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs635
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F644
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587

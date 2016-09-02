@@ -19,7 +19,7 @@
 
     (b) The Secretary shall include in his annual report a detailed description of the actions taken under this part in the preceding fiscal year and the actions planned to be taken in the subsequent fiscal year. Such description shall show the allocations made (including the allocations made to each State) and include information on the technical assistance carried out with funds allocated, and an estimate of the energy savings, if any, achieved.
 
-([Pub. L. 94–163, title III, § 400I][/us/pl/94/163/s400I], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3253][/us/stat/92/3253]; amended [Pub. L. 96–470, title II, § 203(a)][/us/pl/96/470/s203/a], Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242]; [Pub. L. 105–388, § 5(a)(13)][/us/pl/105/388/s5/a/13], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400I, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3253][/us/stat/92/3253]; amended [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 203(a), Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(13), Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479].)
 
  __Amendments__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/94/163/s400I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400I
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3253
-[/us/pl/96/470/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs203%2Fa
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2242
-[/us/pl/105/388/s5/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F13
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470

@@ -33,7 +33,7 @@
 
         (3) direct that no agency of the government provide bilateral or multilateral subsidies, aids, credits, guarantees, or insurance programs, for the purpose of producing any class I substance.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 614, as added [Pub. L. 101–549, title VI, § 602(a)][/us/pl/101/549/s602/a], Nov. 15, 1990, [104 Stat. 2668][/us/stat/104/2668].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 614, as added [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 602(a), Nov. 15, 1990, [104 Stat. 2668][/us/stat/104/2668].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s7416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7416
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs602%2Fa
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2668
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/stat/104/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2399

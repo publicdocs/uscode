@@ -57,11 +57,11 @@
 
         (2) a prisoner whose medical condition precludes the prisoner from posing a threat to the public, but only after a public hearing in which representatives of the public and the prisoner’s victims have had an opportunity to be heard regarding a proposed release.
 
-([Pub. L. 103–322, title II, § 20104][/us/pl/103/322/s20104], as added [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–16; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 106–297, § 2][/us/pl/106/297/s2], Oct. 13, 2000, [114 Stat. 1045][/us/stat/114/1045].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20104, as added [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–16; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 106–297][/us/pl/106/297], § 2, Oct. 13, 2000, [114 Stat. 1045][/us/stat/114/1045].)
 
  __Prior Provisions__ 
 
-    A prior section 13704, [Pub. L. 103–322, title II, § 20104][/us/pl/103/322/s20104], Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], related to Federal share matching requirement prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
+    A prior section 13704, [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20104, Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], related to Federal share matching requirement prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
 
  __Amendments__ 
 
@@ -74,14 +74,14 @@
 ----------
 ----------
 
-[/us/pl/103/322/s20104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20104
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/106/297/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F297%2Fs2
+[/us/pl/106/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F297
 [/us/stat/114/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1045
-[/us/pl/103/322/s20104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20104
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1818
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/106/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F297

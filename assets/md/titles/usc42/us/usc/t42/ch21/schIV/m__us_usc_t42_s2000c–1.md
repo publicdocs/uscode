@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 88–352, title IV, § 402][/us/pl/88/352/s402], July 2, 1964, [78 Stat. 247][/us/stat/78/247], authorized the Commissioner to conduct a survey and make a report to the President and the Congress within two years of July, 1964 concerning the availability of educational opportunities for minority group members.
+    Section, [Pub. L. 88–352, title IV][/us/pl/88/352/tIV], § 402, July 2, 1964, [78 Stat. 247][/us/stat/78/247], authorized the Commissioner to conduct a survey and make a report to the President and the Congress within two years of July, 1964 concerning the availability of educational opportunities for minority group members.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs402
+[/us/pl/88/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIV
 [/us/stat/78/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F247
 
 

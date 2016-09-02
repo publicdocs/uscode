@@ -41,7 +41,7 @@
 
         (2) to authorize an Office of Environmental Quality, which, notwithstanding any other provision of law, shall provide the professional and administrative staff for the Council on Environmental Quality established by [Public Law 91–190][/us/pl/91/190].
 
-([Pub. L. 91–224, title II, § 202][/us/pl/91/224/s202], Apr. 3, 1970, [84 Stat. 114][/us/stat/84/114].)
+([Pub. L. 91–224, title II][/us/pl/91/224/tII], § 202, Apr. 3, 1970, [84 Stat. 114][/us/stat/84/114].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Short Title__ 
 
-[Pub. L. 91–224, title II, § 201][/us/pl/91/224/s201], Apr. 3, 1970, [84 Stat. 114][/us/stat/84/114], provided that: 
+[Pub. L. 91–224, title II][/us/pl/91/224/tII], § 201, Apr. 3, 1970, [84 Stat. 114][/us/stat/84/114], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Environmental Quality Improvement Act of 1970’.”
 
@@ -61,13 +61,13 @@
 ----------
 
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
-[/us/pl/91/224/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2Fs202
+[/us/pl/91/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2FtII
 [/us/stat/84/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F114
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/91/224/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2Fs201
+[/us/pl/91/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2FtII
 [/us/stat/84/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F114
 
 

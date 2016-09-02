@@ -27,7 +27,7 @@
 
         The Secretary shall undertake reasonable efforts to inform the public of the availability of the Program.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2110, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3758][/us/stat/100/3758]; amended [Pub. L. 101–239, title VI, § 6601(b)][/us/pl/101/239/s6601/b], Dec. 19, 1989, [103 Stat. 2285][/us/stat/103/2285].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2110, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3758][/us/stat/100/3758]; amended [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6601(b), Dec. 19, 1989, [103 Stat. 2285][/us/stat/103/2285].)
 
  __Prior Provisions__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Section 6601(s) of Pub. L. 101–239][/us/pl/101/239/s6601/s], as amended by [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], provided that:
+[Section 6601(s) of Pub. L. 101–239][/us/pl/101/239/s6601/s], as amended by [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], provided that:
 
 >     “(1)
 
@@ -69,15 +69,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3758
-[/us/pl/101/239/s6601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fb
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2285
 [/us/usc/t42/s238h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238h
 [/us/usc/t42/s238g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238g
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s6601/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fs
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931
 [/us/usc/t42/s300aa–12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9312%2Fd

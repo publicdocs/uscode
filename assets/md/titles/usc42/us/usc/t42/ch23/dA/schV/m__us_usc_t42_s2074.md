@@ -39,7 +39,7 @@
 
         The authority in this section to commit United States funds for any activities pursuant to any subsequent arrangement under [section 2160(a)(2)(E) of this title][/us/usc/t42/s2160/a/2/E] shall be subject to the requirements of [section 2160 of this title][/us/usc/t42/s2160].
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 54, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 931][/us/stat/68/931]; amended [Pub. L. 85–177, § 7][/us/pl/85/177/s7], Aug. 28, 1957, [71 Stat. 455][/us/stat/71/455]; [Pub. L. 87–206, § 4][/us/pl/87/206/s4], Sept. 6, 1961, [75 Stat. 476][/us/stat/75/476]; [Pub. L. 88–489, § 9][/us/pl/88/489/s9], Aug. 26, 1964, [78 Stat. 604][/us/stat/78/604]; [Pub. L. 93–377, § 2][/us/pl/93/377/s2], Aug. 17, 1974, [88 Stat. 473][/us/stat/88/473]; [Pub. L. 95–242, title III][/us/pl/95/242], §§ 301(a), 303(b)(1), Mar. 10, 1978, [92 Stat. 125][/us/stat/92/125], 131; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–437, § 15(f)(3)][/us/pl/103/437/s15/f/3], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 54, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 931][/us/stat/68/931]; amended [Pub. L. 85–177][/us/pl/85/177], § 7, Aug. 28, 1957, [71 Stat. 455][/us/stat/71/455]; [Pub. L. 87–206][/us/pl/87/206], § 4, Sept. 6, 1961, [75 Stat. 476][/us/stat/75/476]; [Pub. L. 88–489][/us/pl/88/489], § 9, Aug. 26, 1964, [78 Stat. 604][/us/stat/78/604]; [Pub. L. 93–377][/us/pl/93/377], § 2, Aug. 17, 1974, [88 Stat. 473][/us/stat/88/473]; [Pub. L. 95–242, title III][/us/pl/95/242/tIII], §§ 301(a), 303(b)(1), Mar. 10, 1978, [92 Stat. 125][/us/stat/92/125], 131; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–437][/us/pl/103/437], § 15(f)(3), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
     1994—Subsec. (a). [Pub. L. 103–437][/us/pl/103/437] substituted “Energy Committees and a period” for “Joint Committee and a period” and “Energy Committees shall submit to their respective houses reports of their views” for “Joint Committee shall submit a report to the Congress of its views”.
 
-    1978—Subsec. (d). [Pub. L. 95–242, § 301(a)][/us/pl/95/242/s301/a], added subsec. (d).
+    1978—Subsec. (d). [Pub. L. 95–242][/us/pl/95/242], § 301(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 95–242, § 303(b)(1)][/us/pl/95/242/s303/b/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–242][/us/pl/95/242], § 303(b)(1), added subsec. (e).
 
     1974—[Pub. L. 93–377][/us/pl/93/377] designated existing provisions as subsec. (a), designated initial proviso as cl. (i), added cl. (ii) and references to groups of nations, and substituted references to this subsection for references to this section, and added subsecs. (b) and (c).
 
@@ -81,29 +81,29 @@
 [/us/usc/t42/s2160/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160%2Fa%2F2%2FE
 [/us/usc/t42/s2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F931
-[/us/pl/85/177/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177%2Fs7
+[/us/pl/85/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177
 [/us/stat/71/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F455
-[/us/pl/87/206/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs4
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F476
-[/us/pl/88/489/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs9
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/stat/78/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F604
-[/us/pl/93/377/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377%2Fs2
+[/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/stat/88/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F473
-[/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F125
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/437/s15/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F3
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/pl/85/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F14
 [/us/stat/71/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F11
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/95/242/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs301%2Fa
-[/us/pl/95/242/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs303%2Fb%2F1
+[/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
+[/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/usc/t42/s2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2134

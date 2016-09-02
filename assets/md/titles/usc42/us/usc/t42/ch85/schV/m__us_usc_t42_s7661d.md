@@ -59,7 +59,7 @@
 
         If the Administrator finds that cause exists to terminate, modify, or revoke and reissue a permit under this subchapter, the Administrator shall notify the permitting authority and the source of the Administrator’s finding. The permitting authority shall, within 90 days after receipt of such notification, forward to the Administrator under this section a proposed determination of termination, modification, or revocation and reissuance, as appropriate. The Administrator may extend such 90 day period for an additional 90 days if the Administrator finds that a new or revised permit application is necessary, or that the permitting authority must require the permittee to submit additional information. The Administrator may review such proposed determination under the provisions of subsections (a) and (b) of this section. If the permitting authority fails to submit the required proposed determination, or if the Administrator objects and the permitting authority fails to resolve the objection within 90 days, the Administrator may, after notice and in accordance with fair and reasonable procedures, terminate, modify, or revoke and reissue the permit.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title V, § 505, as added [Pub. L. 101–549, title V, § 501][/us/pl/101/549/s501], Nov. 15, 1990, [104 Stat. 2643][/us/stat/104/2643].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title V, § 505, as added [Pub. L. 101–549, title V][/us/pl/101/549/tV], § 501, Nov. 15, 1990, [104 Stat. 2643][/us/stat/104/2643].)
 
 ----------
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t42/s7607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7607
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs501
+[/us/pl/101/549/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtV
 [/us/stat/104/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2643
 
 

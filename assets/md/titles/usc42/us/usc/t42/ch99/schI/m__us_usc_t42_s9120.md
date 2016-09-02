@@ -23,7 +23,7 @@
 
     (3) to monitor the environmental effects, if any, of the operation of the ocean thermal energy conversion facility or plantship in accordance with regulations issued by the Administrator, and to submit such information as the Administrator finds to be necessary and appropriate to assess environmental impacts and to develop and evaluate mitigation methods and possibilities.
 
-([Pub. L. 96–320, title I, § 110][/us/pl/96/320/s110], Aug. 3, 1980, [94 Stat. 988][/us/stat/94/988]; [Pub. L. 98–623, title VI, § 602(a)(8)][/us/pl/98/623/s602/a/8], Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 110, Aug. 3, 1980, [94 Stat. 988][/us/stat/94/988]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(8), Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/96/320/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs110
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F988
-[/us/pl/98/623/s602/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F8
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3411
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 

@@ -53,11 +53,11 @@
 
             (B) unreasonably limits religious assemblies, institutions, or structures within a jurisdiction.
 
-([Pub. L. 106–274, § 2][/us/pl/106/274/s2], Sept. 22, 2000, [114 Stat. 803][/us/stat/114/803].)
+([Pub. L. 106–274][/us/pl/106/274], § 2, Sept. 22, 2000, [114 Stat. 803][/us/stat/114/803].)
 
  __Short Title__ 
 
-[Pub. L. 106–274, § 1][/us/pl/106/274/s1], Sept. 22, 2000, [114 Stat. 803][/us/stat/114/803], provided that: 
+[Pub. L. 106–274][/us/pl/106/274], § 1, Sept. 22, 2000, [114 Stat. 803][/us/stat/114/803], provided that: 
 
 > “This Act \[enacting this chapter and amending sections 1988, 2000bb–2 and 2000bb–3 of this title\] may be cited as the ‘Religious Land Use and Institutionalized Persons Act of 2000’ ”.
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/106/274/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs2
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F803
-[/us/pl/106/274/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs1
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F803
 
 

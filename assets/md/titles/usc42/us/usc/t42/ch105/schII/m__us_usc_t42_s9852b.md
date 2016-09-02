@@ -63,15 +63,13 @@
 
                     (II) the Early Head Start programs carried out under [section 9840a of this title][/us/usc/t42/s9840a];
 
-                    (III) Early Reading First and Even Start programs carried out under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6371][/us/usc/t20/s6371] et seq., 6381 et seq.);
+                    (III) preschool programs carried out under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.);
 
-                    (IV) other preschool programs carried out under title I of that Act ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.);
+                    (IV) programs carried out under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419][/us/usc/t20/s1419], 1431 et seq.);
 
-                    (V) programs carried out under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419][/us/usc/t20/s1419], 1431 et seq.);
+                    (V) State prekindergarten programs; and
 
-                    (VI) State prekindergarten programs; and
-
-                    (VII) other programs of early childhood education and development.
+                    (VI) other programs of early childhood education and development.
 
         (2) __Selection__ 
 
@@ -145,13 +143,21 @@
 
         There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to make bonus grants to centers of excellence under subsection (b) to carry out activities described in subsection (d) and research and report activities described in subsection (e).
 
-([Pub. L. 97–35, title VI, § 657B][/us/pl/97/35/s657B], as added [Pub. L. 110–134, § 26][/us/pl/110/134/s26], Dec. 12, 2007, [121 Stat. 1444][/us/stat/121/1444].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 657B, as added [Pub. L. 110–134][/us/pl/110/134], § 26, Dec. 12, 2007, [121 Stat. 1444][/us/stat/121/1444]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(nn)(6), Dec. 10, 2015, [129 Stat. 2177][/us/stat/129/2177].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(B)(vi)(III), (IV), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. Subparts 2 and 3 of part B of title I of the Act are classified generally to subparts 2 (§ 6371 et seq.) and 3 (§ 6381 et seq.), respectively, of part B of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(B)(vi)(III), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
-    The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(B)(vi)(V), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20][/us/usc/t20/s1419]. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
+    The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(B)(vi)(IV), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20][/us/usc/t20/s1419]. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (c)(1)(B)(vi)(III) to (VII). [Pub. L. 114–95][/us/pl/114/95] redesignated subcls. (IV) to (VII) as (III) to (VI), respectively, in subcl. (III) as redesignated, struck out “other” before “preschool programs” and substituted “the Elementary and Secondary Education Act of 1965” for “that Act”, and struck out former subcl. (III) which read as follows: “Early Reading First and Even Start programs carried out under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6371][/us/usc/t20/s6371] et seq., 6381 et seq.);”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
 ----------
 
@@ -164,12 +170,13 @@
 [/us/usc/t42/s9836a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fc
 [/us/usc/t42/s9843a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9843a
 [/us/usc/t42/s9840a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840a
-[/us/usc/t20/s6371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6371
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
-[/us/pl/97/35/s657B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs657B
-[/us/pl/110/134/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs26
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1444
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2177
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -177,5 +184,10 @@
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6371
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

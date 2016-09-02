@@ -45,7 +45,7 @@
 
         (C) operates a national network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with international organizations, including Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing and exploited children to law enforcement across the United States and around the world instantly.
 
-([Pub. L. 93–415, title IV, § 402][/us/pl/93/415/s402], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2125][/us/stat/98/2125]; amended [Pub. L. 106–71, § 2(a)][/us/pl/106/71/s2/a], Oct. 12, 1999, [113 Stat. 1032][/us/stat/113/1032]; [Pub. L. 108–96, title II, § 201][/us/pl/108/96/s201], Oct. 10, 2003, [117 Stat. 1171][/us/stat/117/1171]; [Pub. L. 110–240, § 2][/us/pl/110/240/s2], June 3, 2008, [122 Stat. 1560][/us/stat/122/1560]; [Pub. L. 113–38, § 2(a)][/us/pl/113/38/s2/a], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527].)
+([Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 402, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 660, Oct. 12, 1984, [98 Stat. 2125][/us/stat/98/2125]; amended [Pub. L. 106–71][/us/pl/106/71], § 2(a), Oct. 12, 1999, [113 Stat. 1032][/us/stat/113/1032]; [Pub. L. 108–96, title II][/us/pl/108/96/tII], § 201, Oct. 10, 2003, [117 Stat. 1171][/us/stat/117/1171]; [Pub. L. 110–240][/us/pl/110/240], § 2, June 3, 2008, [122 Stat. 1560][/us/stat/122/1560]; [Pub. L. 113–38][/us/pl/113/38], § 2(a), Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 402 of Pub. L. 93–415][/us/pl/93/415/s402] amended [section 3888 of this title][/us/usc/t42/s3888] and repealed [section 3889 of this title][/us/usc/t42/s3889], and was repealed by [Pub. L. 95–115, § 10][/us/pl/95/115/s10], Oct. 3, 1977, [91 Stat. 1061][/us/stat/91/1061], and [Pub. L. 107–273, div. C, title II, § 12221(a)(4)][/us/pl/107/273/s12221/a/4], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].
+    A prior [section 402 of Pub. L. 93–415][/us/pl/93/415/s402] amended [section 3888 of this title][/us/usc/t42/s3888] and repealed [section 3889 of this title][/us/usc/t42/s3889], and was repealed by [Pub. L. 95–115][/us/pl/95/115], § 10, Oct. 3, 1977, [91 Stat. 1061][/us/stat/91/1061], and [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12221(a)(4), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].
 
  __Amendments__ 
 
@@ -80,16 +80,16 @@
 ----------
 ----------
 
-[/us/pl/93/415/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs402
-[/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2125
-[/us/pl/106/71/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs2%2Fa
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1032
-[/us/pl/108/96/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs201
+[/us/pl/108/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtII
 [/us/stat/117/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1171
-[/us/pl/110/240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs2
+[/us/pl/110/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240
 [/us/stat/122/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1560
-[/us/pl/113/38/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fa
+[/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
 [/us/stat/127/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F527
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
@@ -97,9 +97,9 @@
 [/us/pl/93/415/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs402
 [/us/usc/t42/s3888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3888
 [/us/usc/t42/s3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3889
-[/us/pl/95/115/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs10
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1061
-[/us/pl/107/273/s12221/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fa%2F4
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
 [/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
 [/us/pl/110/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240

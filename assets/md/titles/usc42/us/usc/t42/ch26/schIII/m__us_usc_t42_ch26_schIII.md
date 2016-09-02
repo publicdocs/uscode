@@ -11,44 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473e.md) | [Next](./../../../../..//us/usc/t42/ch26A/m__us_usc_t42_ch26A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2474...2477.md) | [Next](./../../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_s2481...2484.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschIII)
 
 ### SUBCHAPTER III—UPPER ATMOSPHERE RESEARCH
 
-§§ 2481 to 2484. __Repealed.__  __[__  __Pub. L. 111–314, § 6__  __][/us/pl/111/314/s6]__  __,__  __Dec. 18, 2010__  __,__  __[__  __124 Stat. 3444__  __][/us/stat/124/3444]__ 
-
-    Section 2481, [Pub. L. 85–568, title IV, § 401][/us/pl/85/568/s401], as added [Pub. L. 94–39, § 8][/us/pl/94/39/s8], June 19, 1975, [89 Stat. 222][/us/stat/89/222], related to congressional declaration of purpose and policy. See [section 20161 of Title 51][/us/usc/t51/s20161], National and Commercial Space Programs.
-
-    Section 2482, [Pub. L. 85–568, title IV, § 402][/us/pl/85/568/s402], as added [Pub. L. 94–39, § 8][/us/pl/94/39/s8], June 19, 1975, [89 Stat. 222][/us/stat/89/222], defined “upper atmosphere”. See [section 20162 of Title 51][/us/usc/t51/s20162].
-
-    Section 2483, [Pub. L. 85–568, title IV, § 403][/us/pl/85/568/s403], as added [Pub. L. 94–39, § 8][/us/pl/94/39/s8], June 19, 1975, [89 Stat. 222][/us/stat/89/222], authorized research program. See [section 20163 of Title 51][/us/usc/t51/s20163].
-
-    Section 2484, [Pub. L. 85–568, title IV, § 404][/us/pl/85/568/s404], as added [Pub. L. 94–39, § 8][/us/pl/94/39/s8], June 19, 1975, [89 Stat. 223][/us/stat/89/223], related to international cooperation. See [section 20164 of Title 51][/us/usc/t51/s20164].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473e.md) | [Next](./../../../../..//us/usc/t42/ch26A/m__us_usc_t42_ch26A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2474...2477.md) | [Next](./../../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_s2481...2484.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26%2FschIII)
 
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
-[/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/85/568/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs401
-[/us/pl/94/39/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F39%2Fs8
-[/us/stat/89/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F222
-[/us/usc/t51/s20161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20161
-[/us/pl/85/568/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs402
-[/us/pl/94/39/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F39%2Fs8
-[/us/stat/89/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F222
-[/us/usc/t51/s20162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20162
-[/us/pl/85/568/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs403
-[/us/pl/94/39/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F39%2Fs8
-[/us/stat/89/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F222
-[/us/usc/t51/s20163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20163
-[/us/pl/85/568/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs404
-[/us/pl/94/39/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F39%2Fs8
-[/us/stat/89/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F223
-[/us/usc/t51/s20164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20164
 
 

@@ -113,7 +113,7 @@
 
         (2) precluding an immediate suspension or restriction of clinical privileges, subject to subsequent notice and hearing or other adequate procedures, where the failure to take such an action may result in an imminent danger to the health of any individual.
 
-([Pub. L. 99–660, title IV, § 412][/us/pl/99/660/s412], Nov. 14, 1986, [100 Stat. 3785][/us/stat/100/3785].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 412, Nov. 14, 1986, [100 Stat. 3785][/us/stat/100/3785].)
 
 ----------
 
@@ -125,7 +125,7 @@
 [/us/usc/t42/s11111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11111%2Fa
 [/us/usc/t42/s11111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11111%2Fa
 [/us/usc/t42/s11111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11111%2Fa
-[/us/pl/99/660/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs412
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3785
 
 

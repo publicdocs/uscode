@@ -89,7 +89,7 @@
 
             A failure to comply with the requirements of [section 14923(b)(1)(A)(ii) of this title][/us/usc/t42/s14923/b/1/A/ii] shall constitute a serious failure to comply under subsection (c)(1)(B) of this section unless it is shown by clear and convincing evidence that such noncompliance had neither the purpose nor the effect of determining the outcome of a decision or proceeding by a court or other competent authority in the United States or the child’s country of origin.
 
-([Pub. L. 106–279, title II, § 204][/us/pl/106/279/s204], Oct. 6, 2000, [114 Stat. 835][/us/stat/114/835].)
+([Pub. L. 106–279, title II][/us/pl/106/279/tII], § 204, Oct. 6, 2000, [114 Stat. 835][/us/stat/114/835].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t42/s14923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14923
 [/us/usc/t42/s14923/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14923%2Fb%2F1%2FA%2Fii
 [/us/usc/t42/s14923/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14923%2Fb%2F1%2FA%2Fii
-[/us/pl/106/279/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs204
+[/us/pl/106/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtII
 [/us/stat/114/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F835
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

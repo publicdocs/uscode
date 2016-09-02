@@ -35,11 +35,11 @@
 
         For the authorization of appropriations to carry out this section, see [section 300i–4(e) of this title][/us/usc/t42/s300i–4/e].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1434, as added [Pub. L. 107–188, title IV, § 402][/us/pl/107/188/s402], June 12, 2002, [116 Stat. 685][/us/stat/116/685].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1434, as added [Pub. L. 107–188, title IV][/us/pl/107/188/tIV], § 402, June 12, 2002, [116 Stat. 685][/us/stat/116/685].)
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
 ----------
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t42/s300i–4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300i%E2%80%934%2Fe
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs402
+[/us/pl/107/188/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIV
 [/us/stat/116/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F685
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

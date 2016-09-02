@@ -23,7 +23,7 @@
 
         In making the designations required in subsection (a), a public health officer shall give preference to individuals who are trained in the provision of health care or in the control of infectious diseases.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695E, as added [Pub. L. 111–87, § 13][/us/pl/111/87/s13], Oct. 30, 2009, [123 Stat. 2901][/us/stat/123/2901].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695E, as added [Pub. L. 111–87][/us/pl/111/87], § 13, Oct. 30, 2009, [123 Stat. 2901][/us/stat/123/2901].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/87/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs13
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2901
 
 

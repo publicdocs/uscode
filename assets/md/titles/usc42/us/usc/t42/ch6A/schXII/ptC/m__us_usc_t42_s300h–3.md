@@ -41,7 +41,7 @@
 
         If the Administrator determines, on his own initiative or upon petition, that an area has an aquifer which is the sole or principal drinking water source for the area and which, if contaminated, would create a significant hazard to public health, he shall publish notice of that determination in the Federal Register. After the publication of any such notice, no commitment for Federal financial assistance (through a grant, contract, loan guarantee, or otherwise) may be entered into for any project which the Administrator determines may contaminate such aquifer through a recharge zone so as to create a significant hazard to public health, but a commitment for Federal financial assistance may, if authorized under another provision of law, be entered into to plan or design the project to assure that it will not so contaminate the aquifer.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1424, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1678][/us/stat/88/1678].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1424, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1678][/us/stat/88/1678].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1678
 
 

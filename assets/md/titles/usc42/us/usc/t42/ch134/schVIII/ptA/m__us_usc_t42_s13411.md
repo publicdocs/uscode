@@ -69,7 +69,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section, including advanced extraction and process technology, $57,250,000 for fiscal year 1993 and $70,000,000 for fiscal year 1994.
 
-([Pub. L. 102–486, title XX, § 2011][/us/pl/102/486/s2011], Oct. 24, 1992, [106 Stat. 3057][/us/stat/106/3057].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2011, Oct. 24, 1992, [106 Stat. 3057][/us/stat/106/3057].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t42/s13522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13522
-[/us/pl/102/486/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2011
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3057
 
 

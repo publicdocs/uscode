@@ -397,7 +397,7 @@
 
         (2) The term “special reserve fund” means the “Biodefense Countermeasures” appropriations account, any appropriation made available pursuant to [section 321j(a) of title 6][/us/usc/t6/s321j/a], and any appropriation made available pursuant to subsection (g)(1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–2, formerly [Pub. L. 107–188, title I, § 121][/us/pl/107/188/s121], June 12, 2002, [116 Stat. 611][/us/stat/116/611]; [Pub. L. 107–296, title XVII, § 1705(a)][/us/pl/107/296/s1705/a], Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316]; renumbered § 319F–2 of act July 1, 1944, and amended [Pub. L. 108–276, § 3(a)][/us/pl/108/276/s3/a], July 21, 2004, [118 Stat. 842][/us/stat/118/842]; [Pub. L. 109–417, title I, § 102(c)][/us/pl/109/417/s102/c], title IV, §§ 403(b), 406, Dec. 19, 2006, [120 Stat. 2834][/us/stat/120/2834], 2874, 2879; [Pub. L. 113–5, title IV][/us/pl/113/5], §§ 401, 403, Mar. 13, 2013, [127 Stat. 192][/us/stat/127/192], 196.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–2, formerly [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 121, June 12, 2002, [116 Stat. 611][/us/stat/116/611]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1705(a), Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316]; renumbered § 319F–2 of act July 1, 1944, and amended [Pub. L. 108–276][/us/pl/108/276], § 3(a), July 21, 2004, [118 Stat. 842][/us/stat/118/842]; [Pub. L. 109–417, title I][/us/pl/109/417/tI], § 102(c), title IV, §§ 403(b), 406, Dec. 19, 2006, [120 Stat. 2834][/us/stat/120/2834], 2874, 2879; [Pub. L. 113–5, title IV][/us/pl/113/5/tIV], §§ 401, 403, Mar. 13, 2013, [127 Stat. 192][/us/stat/127/192], 196.)
 
  __References in Text__ 
 
@@ -407,49 +407,49 @@
 
  __Codification__ 
 
-    In subsec. (c)(7)(C)(ii)(VII), “[section 3304(a)(1) of title 41][/us/usc/t41/s3304/a/1]” substituted for “section 303(c)(1) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(1)][/us/usc/t41/s253/c/1])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(ii)(VII), “[section 3304(a)(1) of title 41][/us/usc/t41/s3304/a/1]” substituted for “section 303(c)(1) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(1)][/us/usc/t41/s253/c/1])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iii)(I), “[section 134 of title 41][/us/usc/t41/s134]” substituted for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])” and “[section 3101(b)(1)(A) of title 41][/us/usc/t41/s3101/b/1/A]” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252a(a)][/us/usc/t41/s252a/a])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iii)(I), “[section 134 of title 41][/us/usc/t41/s134]” substituted for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])” and “[section 3101(b)(1)(A) of title 41][/us/usc/t41/s3101/b/1/A]” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252a(a)][/us/usc/t41/s252a/a])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iii)(I)(aa), “[section 3305(a)(1) of title 41][/us/usc/t41/s3305/a/1]” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)(A)][/us/usc/t41/s253/g/1/A])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iii)(I)(aa), “[section 3305(a)(1) of title 41][/us/usc/t41/s3305/a/1]” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)(A)][/us/usc/t41/s253/g/1/A])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iii)(I)(bb), “[section 3101(b)(1)(B) of title 41][/us/usc/t41/s3101/b/1/B]” substituted for “section 302A(b) of such Act ([41 U.S.C. 252a(b)][/us/usc/t41/s252a/b])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iii)(I)(bb), “[section 3101(b)(1)(B) of title 41][/us/usc/t41/s3101/b/1/B]” substituted for “section 302A(b) of such Act ([41 U.S.C. 252a(b)][/us/usc/t41/s252a/b])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iii)(II)(bb), “[Section 8703(a) of title 41][/us/usc/t41/s8703/a]” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 ([41 U.S.C. 57(a)][/us/usc/t41/s57/a] and (b))” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iii)(II)(bb), “[Section 8703(a) of title 41][/us/usc/t41/s8703/a]” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 ([41 U.S.C. 57(a)][/us/usc/t41/s57/a] and (b))” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iii)(II)(cc), “[Section 4706 of title 41][/us/usc/t41/s4706]” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254d][/us/usc/t41/s254d])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iii)(II)(cc), “[Section 4706 of title 41][/us/usc/t41/s4706]” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254d][/us/usc/t41/s254d])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iii)(II)(ee), “[Section 3901 of title 41][/us/usc/t41/s3901]” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254(a)][/us/usc/t41/s254/a])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iii)(II)(ee), “[Section 3901 of title 41][/us/usc/t41/s3901]” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254(a)][/us/usc/t41/s254/a])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iv)(I), “[section 3304(a)(1) of title 41][/us/usc/t41/s3304/a/1]” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(1)][/us/usc/t41/s253/c/1])” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iv)(I), “[section 3304(a)(1) of title 41][/us/usc/t41/s3304/a/1]” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(1)][/us/usc/t41/s253/c/1])” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(iv)(III), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(iv)(III), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(7)(C)(vii), “[section 3306(a)(1)(B) of title 41][/us/usc/t41/s3306/a/1/B]” substituted for “section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253a(a)(1)(B)][/us/usc/t41/s253a/a/1/B])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(7)(C)(vii), “[section 3306(a)(1)(B) of title 41][/us/usc/t41/s3306/a/1/B]” substituted for “section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253a(a)(1)(B)][/us/usc/t41/s253a/a/1/B])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was formerly classified to [section 300hh–12 of this title][/us/usc/t42/s300hh–12] prior to renumbering by [Pub. L. 108–276][/us/pl/108/276].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–5, § 403(1)(A)][/us/pl/113/5/s403/1/A], inserted “consistent with [section 300hh–10 of this title][/us/usc/t42/s300hh–10]” after “amounts as are determined” and “and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security” after “based on such review”.
+    2013—Subsec. (a)(1). [Pub. L. 113–5][/us/pl/113/5], § 403(1)(A), inserted “consistent with [section 300hh–10 of this title][/us/usc/t42/s300hh–10]” after “amounts as are determined” and “and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security” after “based on such review”.
 
-    Subsec. (a)(2)(D). [Pub. L. 113–5, § 403(1)(B)][/us/pl/113/5/s403/1/B], inserted “and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment” before semicolon at end.
+    Subsec. (a)(2)(D). [Pub. L. 113–5][/us/pl/113/5], § 403(1)(B), inserted “and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment” before semicolon at end.
 
-    Subsec. (c). [Pub. L. 113–5, § 401(b)(1)(A)][/us/pl/113/5/s401/b/1/A], substituted “special reserve fund as defined in subsection (h)” for “special reserve fund under paragraph (10)” wherever appearing.
+    Subsec. (c). [Pub. L. 113–5][/us/pl/113/5], § 401(b)(1)(A), substituted “special reserve fund as defined in subsection (h)” for “special reserve fund under paragraph (10)” wherever appearing.
 
-    Subsec. (c)(1)(B)(i)(III)(bb). [Pub. L. 113–5, § 401(a)(1)][/us/pl/113/5/s401/a/1], substituted “10 years” for “eight years”.
+    Subsec. (c)(1)(B)(i)(III)(bb). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(1), substituted “10 years” for “eight years”.
 
-    Subsec. (c)(2)(C). [Pub. L. 113–5, § 401(a)(2)][/us/pl/113/5/s401/a/2], substituted “the appropriate committees of Congress” for “the designated congressional committees (as defined in paragraph (10))”.
+    Subsec. (c)(2)(C). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(2), substituted “the appropriate committees of Congress” for “the designated congressional committees (as defined in paragraph (10))”.
 
-    Subsec. (c)(5)(B)(ii). [Pub. L. 113–5, § 401(a)(3)][/us/pl/113/5/s401/a/3], substituted “10 years” for “eight years”.
+    Subsec. (c)(5)(B)(ii). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(3), substituted “10 years” for “eight years”.
 
-    Subsec. (c)(6)(C). [Pub. L. 113–5, § 401(a)(4)][/us/pl/113/5/s401/a/4], substituted “appropriate congressional committees” for “designated congressional committees” in heading and in text.
+    Subsec. (c)(6)(C). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(4), substituted “appropriate congressional committees” for “designated congressional committees” in heading and in text.
 
-    Subsec. (c)(7)(C)(i)(I). [Pub. L. 113–5, § 401(a)(5)(A)][/us/pl/113/5/s401/a/5/A], inserted “including advanced research and development,” after “as may reasonably be required,”.
+    Subsec. (c)(7)(C)(i)(I). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(5)(A), inserted “including advanced research and development,” after “as may reasonably be required,”.
 
-    Subsec. (c)(7)(C)(ii)(III). [Pub. L. 113–5, § 401(a)(5)(B)(i)][/us/pl/113/5/s401/a/5/B/i], substituted “10 years” for “eight years”.
+    Subsec. (c)(7)(C)(ii)(III). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(5)(B)(i), substituted “10 years” for “eight years”.
 
-    Subsec. (c)(7)(C)(ii)(IX). [Pub. L. 113–5, § 401(a)(5)(B)(ii)][/us/pl/113/5/s401/a/5/B/ii], added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: “The Secretary, in any contract for procurement under this section, may specify—
+    Subsec. (c)(7)(C)(ii)(IX). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: “The Secretary, in any contract for procurement under this section, may specify—
 
     “(aa) the dosing and administration requirements for countermeasures to be developed and procured;
 
@@ -457,41 +457,41 @@
 
     “(cc) the specifications the countermeasure must meet to qualify for procurement under a contract under this section.”
 
-    Subsec. (c)(7)(C)(viii). [Pub. L. 113–5, § 401(a)(5)(C)][/us/pl/113/5/s401/a/5/C], added cl. (viii).
+    Subsec. (c)(7)(C)(viii). [Pub. L. 113–5][/us/pl/113/5], § 401(a)(5)(C), added cl. (viii).
 
-    Subsec. (c)(9), (10). [Pub. L. 113–5, § 401(b)(1)(B)][/us/pl/113/5/s401/b/1/B], struck out pars. (9) and (10) which described restrictions on the use of funds and defined “special reserve fund” and “designated congressional committees”.
+    Subsec. (c)(9), (10). [Pub. L. 113–5][/us/pl/113/5], § 401(b)(1)(B), struck out pars. (9) and (10) which described restrictions on the use of funds and defined “special reserve fund” and “designated congressional committees”.
 
-    Subsec. (f)(1). [Pub. L. 113–5, § 403(2)][/us/pl/113/5/s403/2], substituted “$533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).” for “$640,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (c)(10)(A) of this section.”
+    Subsec. (f)(1). [Pub. L. 113–5][/us/pl/113/5], § 403(2), substituted “$533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).” for “$640,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (c)(10)(A) of this section.”
 
-    Subsecs. (g), (h). [Pub. L. 113–5, § 401(b)(2)][/us/pl/113/5/s401/b/2], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 113–5][/us/pl/113/5], § 401(b)(2), added subsecs. (g) and (h).
 
-    2006—[Pub. L. 109–417, § 406(1)][/us/pl/109/417/s406/1], inserted “and security countermeasure procurements” after “Stockpile” in section catchline.
+    2006—[Pub. L. 109–417][/us/pl/109/417], § 406(1), inserted “and security countermeasure procurements” after “Stockpile” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 109–417, § 102(c)][/us/pl/109/417/s102/c], inserted “in collaboration with the Director of the Centers for Disease Control and Prevention, and” after “The Secretary,” and inserted at end “The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.”
+    Subsec. (a)(1). [Pub. L. 109–417][/us/pl/109/417], § 102(c), inserted “in collaboration with the Director of the Centers for Disease Control and Prevention, and” after “The Secretary,” and inserted at end “The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.”
 
-    Subsec. (c). [Pub. L. 109–417, § 406(2)(A)][/us/pl/109/417/s406/2/A], struck out “biomedical” before “countermeasures” in heading.
+    Subsec. (c). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(A), struck out “biomedical” before “countermeasures” in heading.
 
-    Subsec. (c)(1)(B)(i)(I). [Pub. L. 109–417, § 403(b)][/us/pl/109/417/s403/b], which directed amendment of section 319F–2(c)(1)(B) by substituting “diagnose, mitigate, prevent, or treat” for “treat, identify, or prevent” wherever appearing, was executed by making the substitution in two places in subsec. (c)(1)(B)(i)(I) of this section, which is section 319F–2 of the Public Health Service Act, to reflect the probable intent of Congress.
+    Subsec. (c)(1)(B)(i)(I). [Pub. L. 109–417][/us/pl/109/417], § 403(b), which directed amendment of section 319F–2(c)(1)(B) by substituting “diagnose, mitigate, prevent, or treat” for “treat, identify, or prevent” wherever appearing, was executed by making the substitution in two places in subsec. (c)(1)(B)(i)(I) of this section, which is section 319F–2 of the Public Health Service Act, to reflect the probable intent of Congress.
 
-    Subsec. (c)(3). [Pub. L. 109–417, § 406(2)(B)][/us/pl/109/417/s406/2/B], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (c)(3). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(B), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (c)(4)(A). [Pub. L. 109–417, § 406(2)(C)][/us/pl/109/417/s406/2/C], inserted “not developed or” after “currently” in introductory provisions.
+    Subsec. (c)(4)(A). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(C), inserted “not developed or” after “currently” in introductory provisions.
 
-    Subsec. (c)(5)(B)(i). [Pub. L. 109–417, § 406(2)(D)][/us/pl/109/417/s406/2/D], substituted “to meet the stockpile needs” for “to meet the needs of the stockpile”.
+    Subsec. (c)(5)(B)(i). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(D), substituted “to meet the stockpile needs” for “to meet the needs of the stockpile”.
 
-    Subsec. (c)(7)(B). [Pub. L. 109–417, § 406(2)(E)][/us/pl/109/417/s406/2/E], substituted “cost” for “costs” in subpar. heading, struck out cl. (i) designation and heading before “The Homeland”, and struck out heading and text of cl. (ii). Text read as follows: “The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section.”
+    Subsec. (c)(7)(B). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(E), substituted “cost” for “costs” in subpar. heading, struck out cl. (i) designation and heading before “The Homeland”, and struck out heading and text of cl. (ii). Text read as follows: “The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section.”
 
-    Subsec. (c)(7)(C)(ii)(I). [Pub. L. 109–417, § 406(2)(F)(i)][/us/pl/109/417/s406/2/F/i], amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: “The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary’s discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.”
+    Subsec. (c)(7)(C)(ii)(I). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: “The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary’s discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.”
 
-    Subsec. (c)(7)(C)(ii)(VII) to (IX). [Pub. L. 109–417, § 406(2)(F)(ii)][/us/pl/109/417/s406/2/F/ii], added subcls. (VII) to (IX).
+    Subsec. (c)(7)(C)(ii)(VII) to (IX). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(F)(ii), added subcls. (VII) to (IX).
 
-    Subsec. (c)(8)(A). [Pub. L. 109–417, § 406(2)(G)][/us/pl/109/417/s406/2/G], inserted at end “Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such ordering process (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of [section 1535 of title 31][/us/usc/t31/s1535], except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.”
+    Subsec. (c)(8)(A). [Pub. L. 109–417][/us/pl/109/417], § 406(2)(G), inserted at end “Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such ordering process (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of [section 1535 of title 31][/us/usc/t31/s1535], except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.”
 
-    2004—[Pub. L. 108–276, § 3(a)(2)][/us/pl/108/276/s3/a/2], amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of “stockpile”, and in subsec. (e) to authorization of appropriations.
+    2004—[Pub. L. 108–276][/us/pl/108/276], § 3(a)(2), amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of “stockpile”, and in subsec. (e) to authorization of appropriations.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–296, § 1705(a)(1)][/us/pl/107/296/s1705/a/1], substituted “The Secretary of Homeland Security” for “The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
+    2002—Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296], § 1705(a)(1), substituted “The Secretary of Homeland Security” for “The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
 
-    Subsecs. (a)(2), (b)(1). [Pub. L. 107–296, § 1705(a)(2)][/us/pl/107/296/s1705/a/2], inserted “of Health and Human Services” after “Secretary” wherever appearing.
+    Subsecs. (a)(2), (b)(1). [Pub. L. 107–296][/us/pl/107/296], § 1705(a)(2), inserted “of Health and Human Services” after “Secretary” wherever appearing.
 
  __Change of Name__ 
 
@@ -499,13 +499,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–296, title XVII, § 1705(b)][/us/pl/107/296/s1705/b], Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316], provided that: 
+[Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1705(b), Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department \[of Homeland Security\].”
 
  __Stockpile Functions Transferred__ 
 
-[Pub. L. 108–276, § 3(c)(1)][/us/pl/108/276/s3/c/1],(2), July 21, 2004, [118 Stat. 853][/us/stat/118/853], provided that:
+[Pub. L. 108–276][/us/pl/108/276], § 3(c)(1),(2), July 21, 2004, [118 Stat. 853][/us/stat/118/853], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -523,7 +523,7 @@
 
  __Potassium Iodide__ 
 
-[Pub. L. 107–188, title I, § 127][/us/pl/107/188/s127], June 12, 2002, [116 Stat. 615][/us/stat/116/615], provided that:
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 127, June 12, 2002, [116 Stat. 615][/us/stat/116/615], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -655,15 +655,15 @@
 [/us/usc/t42/s247d–7e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937e%2Fa
 [/us/usc/t6/s321j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321j%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs121
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F611
-[/us/pl/107/296/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1705%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2316
-[/us/pl/108/276/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fa
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F842
-[/us/pl/109/417/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fc
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2834
-[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIV
 [/us/stat/127/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F192
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -673,84 +673,84 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t41/s3304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F1
 [/us/usc/t41/s253/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fc%2F1
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
 [/us/usc/t41/s3101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3101%2Fb%2F1%2FA
 [/us/usc/t41/s252a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252a%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3305%2Fa%2F1
 [/us/usc/t41/s253/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fg%2F1%2FA
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3101%2Fb%2F1%2FB
 [/us/usc/t41/s252a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252a%2Fb
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s8703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8703%2Fa
 [/us/usc/t41/s57/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs57%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4706
 [/us/usc/t41/s254d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254d
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3901
 [/us/usc/t41/s254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F1
 [/us/usc/t41/s253/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fc%2F1
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3306/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3306%2Fa%2F1%2FB
 [/us/usc/t41/s253a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253a%2Fa%2F1%2FB
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s300hh–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9312
 [/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
-[/us/pl/113/5/s403/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs403%2F1%2FA
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s300hh–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9310
-[/us/pl/113/5/s403/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs403%2F1%2FB
-[/us/pl/113/5/s401/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fb%2F1%2FA
-[/us/pl/113/5/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F1
-[/us/pl/113/5/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F2
-[/us/pl/113/5/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F3
-[/us/pl/113/5/s401/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F4
-[/us/pl/113/5/s401/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F5%2FA
-[/us/pl/113/5/s401/a/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F5%2FB%2Fi
-[/us/pl/113/5/s401/a/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F5%2FB%2Fii
-[/us/pl/113/5/s401/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fa%2F5%2FC
-[/us/pl/113/5/s401/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fb%2F1%2FB
-[/us/pl/113/5/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs403%2F2
-[/us/pl/113/5/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs401%2Fb%2F2
-[/us/pl/109/417/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F1
-[/us/pl/109/417/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fc
-[/us/pl/109/417/s406/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FA
-[/us/pl/109/417/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs403%2Fb
-[/us/pl/109/417/s406/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FB
-[/us/pl/109/417/s406/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FC
-[/us/pl/109/417/s406/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FD
-[/us/pl/109/417/s406/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FE
-[/us/pl/109/417/s406/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FF%2Fi
-[/us/pl/109/417/s406/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FF%2Fii
-[/us/pl/109/417/s406/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs406%2F2%2FG
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/108/276/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fa%2F2
-[/us/pl/107/296/s1705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1705%2Fa%2F1
-[/us/pl/107/296/s1705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1705%2Fa%2F2
-[/us/pl/107/296/s1705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1705%2Fb
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2316
-[/us/pl/108/276/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fc%2F1
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F853
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/108/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90
 [/us/stat/117/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1148
-[/us/pl/107/188/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs127
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F615
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

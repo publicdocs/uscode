@@ -49,11 +49,11 @@
 
     (b) The Office of Management and Budget may review the Secretary’s report under subsection (a) of this section before its submission to the Congress, but the Office may not revise the report or delay its submission, and it may submit to the Congress its comments (and those of other departments or agencies of the Government) respecting such report.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1315, as added [Pub. L. 93–222, § 2][/us/pl/93/222/s2], Dec. 29, 1973, [87 Stat. 933][/us/stat/87/933].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1315, as added [Pub. L. 93–222][/us/pl/93/222], § 2, Dec. 29, 1973, [87 Stat. 933][/us/stat/87/933].)
 
  __References in Text__ 
 
-    [Section 300e(c)(11) of this title][/us/usc/t42/s300e/c/11], referred to in subsec. (a)(2), was redesignated [section 300e(c)(9) of this title][/us/usc/t42/s300e/c/9] by [Pub. L. 97–35, title IX, § 942(d)(1)][/us/pl/97/35/s942/d/1], Aug. 13, 1981, [95 Stat. 574][/us/stat/95/574], and redesignated [section 300e(c)(8) of this title][/us/usc/t42/s300e/c/8] by [Pub. L. 100–517, § 5(b)][/us/pl/100/517/s5/b], Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].
+    [Section 300e(c)(11) of this title][/us/usc/t42/s300e/c/11], referred to in subsec. (a)(2), was redesignated [section 300e(c)(9) of this title][/us/usc/t42/s300e/c/9] by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 942(d)(1), Aug. 13, 1981, [95 Stat. 574][/us/stat/95/574], and redesignated [section 300e(c)(8) of this title][/us/usc/t42/s300e/c/8] by [Pub. L. 100–517][/us/pl/100/517], § 5(b), Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].
 
 ----------
 
@@ -66,14 +66,14 @@
 [/us/usc/t42/s300e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fc
 [/us/usc/t42/s300e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F933
 [/us/usc/t42/s300e/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fc%2F11
 [/us/usc/t42/s300e/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fc%2F9
-[/us/pl/97/35/s942/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F574
 [/us/usc/t42/s300e/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fc%2F8
-[/us/pl/100/517/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs5%2Fb
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
 [/us/stat/102/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2579
 
 

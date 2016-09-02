@@ -129,7 +129,7 @@
 
         The term “project sponsor” means an entity, including any private, public, or public-private entity, seeking an authorization for a covered project.
 
-([Pub. L. 114–94, div. D, title XLI, § 41001][/us/pl/114/94/s41001], Dec. 4, 2015, [129 Stat. 1741][/us/stat/129/1741].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41001, Dec. 4, 2015, [129 Stat. 1741][/us/stat/129/1741].)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 
  __Savings Clause__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11503(b)][/us/pl/114/94/s11503/b], Dec. 4, 2015, [129 Stat. 1692][/us/stat/129/1692], provided that: 
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11503(b), Dec. 4, 2015, [129 Stat. 1692][/us/stat/129/1692], provided that: 
 
 > “Except as expressly provided in section 41003(f) \[[42 U.S.C. 4370m–2(f)][/us/usc/t42/s4370m–2/f]\] and subsection (o) of [section 139 of title 23][/us/usc/t23/s139], United States Code, the requirements and other provisions of title 41 of this Act \[probably means title XLI of div. D of [Pub. L. 114–94][/us/pl/114/94], [42 U.S.C. 4370m][/us/usc/t42/s4370m] et seq.\] shall not apply to—
 
@@ -151,7 +151,7 @@
 
  __Placement in United States Code__ 
 
-[Pub. L. 114–94, div. D, title XLI, § 41014][/us/pl/114/94/s41014], Dec. 4, 2015, [129 Stat. 1762][/us/stat/129/1762], provided that: 
+[Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41014, Dec. 4, 2015, [129 Stat. 1762][/us/stat/129/1762], provided that: 
 
 > “The Office of the Law Revision Counsel is directed to place sections 41001 through 41013 of this title in chapter 55 of title 42, United States Code, as subchapter IV.”
 
@@ -174,19 +174,19 @@
 [/us/usc/t42/s4370m–1/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fc%2F1%2FA
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4370m–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932
-[/us/pl/114/94/s41001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41001
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1741
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/114/94/s11503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11503%2Fb
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1692
 [/us/usc/t42/s4370m–2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932%2Ff
 [/us/usc/t23/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t42/s4370m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m
 [/us/usc/t33/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348
-[/us/pl/114/94/s41014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41014
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1762
 
 

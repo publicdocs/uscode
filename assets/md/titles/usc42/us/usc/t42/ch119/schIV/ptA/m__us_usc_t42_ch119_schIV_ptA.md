@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–22, div. B, title I, § 1101(1)][/us/pl/111/22/s1101/1], May 20, 2009, [123 Stat. 1669][/us/stat/123/1669], substituted “General Provisions” for “Comprehensive Homeless Assistance Plan” in heading.
+    2009—[Pub. L. 111–22, div. B, title I][/us/pl/111/22/dB/tI], § 1101(1), May 20, 2009, [123 Stat. 1669][/us/stat/123/1669], substituted “General Provisions” for “Comprehensive Homeless Assistance Plan” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/22/s1101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1101%2F1
+[/us/pl/111/22/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtI
 [/us/stat/123/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1669
 
 

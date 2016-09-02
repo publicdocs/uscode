@@ -601,11 +601,11 @@
 
                 The term “Medicaid managed care program” means a program under sections 1396b(m), 1396d(t), and 1396u–2 of this title and includes a managed care program operating under a waiver under section 1396n(b) or 1315 of this title or otherwise.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1932, as added and amended [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, [111 Stat. 489][/us/stat/111/489], 495, 498, 501, 506; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(w)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 701(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–570; [Pub. L. 109–171, title VI, § 6085(a)][/us/pl/109/171/s6085/a], Feb. 8, 2006, [120 Stat. 121][/us/stat/120/121]; [Pub. L. 111–5, div. B, title V, § 5006(d)(1)][/us/pl/111/5/s5006/d/1], Feb. 17, 2009, [123 Stat. 507][/us/stat/123/507]; [Pub. L. 111–152, title I, § 1202(a)(2)][/us/pl/111/152/s1202/a/2], Mar. 30, 2010, [124 Stat. 1053][/us/stat/124/1053].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1932, as added and amended [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], §§ 4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, [111 Stat. 489][/us/stat/111/489], 495, 498, 501, 506; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, § 608(w)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VII, § 701(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–570; [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6085(a), Feb. 8, 2006, [120 Stat. 121][/us/stat/120/121]; [Pub. L. 111–5, div. B, title V][/us/pl/111/5/dB/tV], § 5006(d)(1), Feb. 17, 2009, [123 Stat. 507][/us/stat/123/507]; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1202(a)(2), Mar. 30, 2010, [124 Stat. 1053][/us/stat/124/1053].)
 
  __References in Text__ 
 
-    Section 4(c) of the Indian Health Care Improvement Act of 1976, referred to in subsec. (a)(2)(C), probably means section 4(c) of the Indian Health Care Improvement Act, which was redesignated section 4(13) of the Act by [Pub. L. 111–148, title X, § 10221(a)][/us/pl/111/148/s10221/a], Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and is classified to [section 1603(13) of Title 25][/us/usc/t25/s1603/13], Indians.
+    Section 4(c) of the Indian Health Care Improvement Act of 1976, referred to in subsec. (a)(2)(C), probably means section 4(c) of the Indian Health Care Improvement Act, which was redesignated section 4(13) of the Act by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10221(a), Mar. 23, 2010, [124 Stat. 935][/us/stat/124/935], and is classified to [section 1603(13) of Title 25][/us/usc/t25/s1603/13], Indians.
 
     The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25][/us/usc/t25/s450] and Tables.
 
@@ -615,13 +615,13 @@
 
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 832][/us/stat/88/832], which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
-    The Public Health Service Act, referred to in subsec. (b)(8), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(5), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 268, 911, amended part A by inserting “subpart ii—improving coverage” (preceding [section 300gg–11 of this title][/us/usc/t42/s300gg–11]), by striking out “subpart 2—other requirements” (preceding [section 300gg–4 of this title][/us/usc/t42/s300gg–4]), and by redesignating subpart 4 as subpart 2 “exclusion of plans; enforcement; preemption” (preceding [section 300gg–21 of this title][/us/usc/t42/s300gg–21]). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Public Health Service Act, referred to in subsec. (b)(8), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(5), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 268, 911, amended part A by inserting “subpart ii—improving coverage” (preceding [section 300gg–11 of this title][/us/usc/t42/s300gg–11]), by striking out “subpart 2—other requirements” (preceding [section 300gg–4 of this title][/us/usc/t42/s300gg–4]), and by redesignating subpart 4 as subpart 2 “exclusion of plans; enforcement; preemption” (preceding [section 300gg–21 of this title][/us/usc/t42/s300gg–21]). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
     Executive Order No. 12549, referred to in subsec. (d)(1)(C)(i), is set out as a note under [section 6101 of Title 31][/us/usc/t31/s6101], Money and Finance.
 
  __Codification__ 
 
-    In subsec. (d)(3), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423][/us/usc/t41/s423])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d)(3), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423][/us/usc/t41/s423])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
@@ -637,19 +637,19 @@
 
     2000—Subsec. (g). [Pub. L. 106–554][/us/pl/106/554] added subsec. (g).
 
-    1999—Subsec. (c)(2)(C). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(w)(1)\], inserted “part” before “C of subchapter XVIII”.
+    1999—Subsec. (c)(2)(C). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(w)(1)\], inserted “part” before “C of subchapter XVIII”.
 
-    Subsec. (d)(1)(C)(ii). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(w)(2)(A)\], substituted “Regulation” for “Act”.
+    Subsec. (d)(1)(C)(ii). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(w)(2)(A)\], substituted “Regulation” for “Act”.
 
-    Subsec. (d)(2)(B). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(w)(2)(B)\], substituted “1396d(t)(3) of this title” for “1396b(t)(3) of this title”.
+    Subsec. (d)(2)(B). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(w)(2)(B)\], substituted “1396d(t)(3) of this title” for “1396b(t)(3) of this title”.
 
-    1997—Subsec. (b). [Pub. L. 105–33, § 4704(a)][/us/pl/105/33/s4704/a], added subsec. (b).
+    1997—Subsec. (b). [Pub. L. 105–33][/us/pl/105/33], § 4704(a), added subsec. (b).
 
-    Subsec. (c). [Pub. L. 105–33, § 4705(a)][/us/pl/105/33/s4705/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 4705(a), added subsec. (c).
 
-    Subsecs. (d), (e). [Pub. L. 105–33, § 4707(a)][/us/pl/105/33/s4707/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 105–33][/us/pl/105/33], § 4707(a), added subsecs. (d) and (e).
 
-    Subsec. (f). [Pub. L. 105–33, § 4708(c)][/us/pl/105/33/s4708/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–33][/us/pl/105/33], § 4708(c), added subsec. (f).
 
  __Change of Name__ 
 
@@ -661,13 +661,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–171, title VI, § 6085(b)][/us/pl/109/171/s6085/b], Feb. 8, 2006, [120 Stat. 121][/us/stat/120/121], provided that: 
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6085(b), Feb. 8, 2006, [120 Stat. 121][/us/stat/120/121], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2007.”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 701(b)(3)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–570, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VII, § 701(b)(3)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–570, provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts as of January 1, 2001.”
 
@@ -677,7 +677,7 @@
 
  __Studies and Reports__ 
 
-[Pub. L. 105–33, title IV, § 4705(c)][/us/pl/105/33/s4705/c], Aug. 5, 1997, [111 Stat. 500][/us/stat/111/500], provided that:
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4705(c), Aug. 5, 1997, [111 Stat. 500][/us/stat/111/500], provided that:
 
 >     “(1) __GAO study and report on quality assurance and accreditation standards.—__ 
 
@@ -764,19 +764,19 @@
 [/us/usc/t42/s1396a/a/30/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F30%2FA
 [/us/usc/t42/s1396b/m/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fm%2F1%2FC
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F489
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/171/s6085/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6085%2Fa
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F121
-[/us/pl/111/5/s5006/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Fd%2F1
+[/us/pl/111/5/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtV
 [/us/stat/123/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F507
-[/us/pl/111/152/s1202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1202%2Fa%2F2
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1053
-[/us/pl/111/148/s10221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10221%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F935
 [/us/usc/t25/s1603/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603%2F13
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
@@ -792,7 +792,7 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
@@ -800,7 +800,7 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
 [/us/usc/t41/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
@@ -808,25 +808,25 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/105/33/s4704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4704%2Fa
-[/us/pl/105/33/s4705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4705%2Fa
-[/us/pl/105/33/s4707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4707%2Fa
-[/us/pl/105/33/s4708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4708%2Fc
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/108/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s5006/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Ff
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/109/171/s6085/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6085%2Fb
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F121
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
-[/us/pl/105/33/s4705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4705%2Fc
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F500
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396u–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%932%2Fc

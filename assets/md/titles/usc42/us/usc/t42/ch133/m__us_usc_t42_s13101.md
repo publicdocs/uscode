@@ -33,7 +33,7 @@
 
         The Congress hereby declares it to be the national policy of the United States that pollution should be prevented or reduced at the source whenever feasible; pollution that cannot be prevented should be recycled in an environmentally safe manner, whenever feasible; pollution that cannot be prevented or recycled should be treated in an environmentally safe manner whenever feasible; and disposal or other release into the environment should be employed only as a last resort and should be conducted in an environmentally safe manner.
 
-([Pub. L. 101–508, title VI, § 6602][/us/pl/101/508/s6602], Nov. 5, 1990, [104 Stat. 1388–321][/us/stat/104/1388-321].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6602, Nov. 5, 1990, [104 Stat. 1388–321][/us/stat/104/1388-321].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–508, title VI, § 6601][/us/pl/101/508/s6601], Nov. 5, 1990, [104 Stat. 1388–321][/us/stat/104/1388-321], provided that: 
+[Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6601, Nov. 5, 1990, [104 Stat. 1388–321][/us/stat/104/1388-321], provided that: 
 
 > “This subtitle \[subtitle F (§§ 6501, 6601–6610) of title VI of [Pub. L. 101–508][/us/pl/101/508], enacting this chapter and [section 4370c of this title][/us/usc/t42/s4370c]\] may be cited as the ‘Pollution Prevention Act of 1990’.”
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/101/508/s6602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6602
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-321
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/508/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6601
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-321
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s4370c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370c

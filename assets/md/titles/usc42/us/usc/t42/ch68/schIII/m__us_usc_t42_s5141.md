@@ -17,11 +17,11 @@
 
     Any Federal agency charged with the administration of a Federal assistance program may, if so requested by the applicant State or local authorities, modify or waive, for a major disaster, such administrative conditions for assistance as would otherwise prevent the giving of assistance under such programs if the inability to meet such conditions is a result of the major disaster.
 
-([Pub. L. 93–288, title III, § 301][/us/pl/93/288/s301], as added [Pub. L. 100–707, title I, § 105(a)(2)][/us/pl/100/707/s105/a/2], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 301, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(a)(2), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
 
  __Prior Provisions__ 
 
-    A prior section 5141, [Pub. L. 93–288, title III, § 301][/us/pl/93/288/s301], May 22, 1974, [88 Stat. 146][/us/stat/88/146], set out procedure for determination of existence of emergency or major disaster, prior to repeal by [Pub. L. 100–707, § 105(a)(2)][/us/pl/100/707/s105/a/2].
+    A prior section 5141, [Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 301, May 22, 1974, [88 Stat. 146][/us/stat/88/146], set out procedure for determination of existence of emergency or major disaster, prior to repeal by [Pub. L. 100–707][/us/pl/100/707], § 105(a)(2).
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/93/288/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs301
-[/us/pl/100/707/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fa%2F2
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
-[/us/pl/93/288/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs301
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F146
-[/us/pl/100/707/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fa%2F2
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 
 

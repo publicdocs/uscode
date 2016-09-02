@@ -113,33 +113,33 @@
 
             Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
 
-([Pub. L. 101–625, title VIII, § 861][/us/pl/101/625/s861], Nov. 28, 1990, [104 Stat. 4382][/us/stat/104/4382]; [Pub. L. 102–550, title VI, § 606(i)][/us/pl/102/550/s606/i], (j)(8)–(10), (11)(E), Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810], 3811; [Pub. L. 105–276, title V, § 550(b)][/us/pl/105/276/s550/b], Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 861, Nov. 28, 1990, [104 Stat. 4382][/us/stat/104/4382]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(i), (j)(8)–(10), (11)(E), Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810], 3811; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 550(b), Oct. 21, 1998, [112 Stat. 2609][/us/stat/112/2609].)
 
  __References in Text__ 
 
-    The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
  __Amendments__ 
 
     1998—Subsec. (b)(1)(D). [Pub. L. 105–276][/us/pl/105/276] substituted “assistance” for “certificates or vouchers”.
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 606(j)(8)][/us/pl/102/550/s606/j/8], substituted “eligible persons” for “persons with acquired immunodeficiency syndrome or related diseases”.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(8), substituted “eligible persons” for “persons with acquired immunodeficiency syndrome or related diseases”.
 
-    Subsec. (b)(1)(A). [Pub. L. 102–550, § 606(j)(11)(E)(i)][/us/pl/102/550/s606/j/11/E/i], substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions and cl. (iii).
+    Subsec. (b)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(11)(E)(i), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions and cl. (iii).
 
-    Subsec. (b)(1)(A)(iv). [Pub. L. 102–550, § 606(j)(9)][/us/pl/102/550/s606/j/9], (11)(E)(i), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “such eligible persons” for “such individuals”.
+    Subsec. (b)(1)(A)(iv). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(9), (11)(E)(i), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “such eligible persons” for “such individuals”.
 
-    Subsec. (b)(2). [Pub. L. 102–550, § 606(j)(11)(E)(i)][/us/pl/102/550/s606/j/11/E/i], which directed the substitution of “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” wherever appearing in subsec. (b), was executed by making the substitution for “individuals with acquired immunodeficiency syndrome and related diseases” in par. (2) to reflect the probable intent of Congress.
+    Subsec. (b)(2). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(11)(E)(i), which directed the substitution of “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” wherever appearing in subsec. (b), was executed by making the substitution for “individuals with acquired immunodeficiency syndrome and related diseases” in par. (2) to reflect the probable intent of Congress.
 
-    Subsec. (c)(1)(C). [Pub. L. 102–550, § 606(i)(1)][/us/pl/102/550/s606/i/1], inserted before period at end “, and expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases provided for individuals residing in proximity of eligible persons assisted under this chapter”.
+    Subsec. (c)(1)(C). [Pub. L. 102–550][/us/pl/102/550], § 606(i)(1), inserted before period at end “, and expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases provided for individuals residing in proximity of eligible persons assisted under this chapter”.
 
-    Subsec. (c)(3). [Pub. L. 102–550, § 606(i)(2)][/us/pl/102/550/s606/i/2], added par. (3) and struck out former par. (3) which read as follows: “For administrative expenses related to the planning and execution of activities under this section, except that a jurisdiction that receives a grant under this section may expend not more than 10 percent of the amount received under the grant for such administrative expenses. Administrative expenses under this paragraph may include expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases, for staff carrying out activities assisted with a grant under this section and for individuals who reside in proximity of individuals assisted under this chapter.”
+    Subsec. (c)(3). [Pub. L. 102–550][/us/pl/102/550], § 606(i)(2), added par. (3) and struck out former par. (3) which read as follows: “For administrative expenses related to the planning and execution of activities under this section, except that a jurisdiction that receives a grant under this section may expend not more than 10 percent of the amount received under the grant for such administrative expenses. Administrative expenses under this paragraph may include expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases, for staff carrying out activities assisted with a grant under this section and for individuals who reside in proximity of individuals assisted under this chapter.”
 
-    Subsec. (d). [Pub. L. 102–550, § 606(j)(11)(E)(ii)][/us/pl/102/550/s606/j/11/E/ii], which directed the substitution of “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” wherever appearing in subsec. (d), was executed by making the substitution for “individuals with acquired immunodeficiency syndrome and related diseases” in pars. (1)(B) and (2) to reflect the probable intent of Congress.
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(11)(E)(ii), which directed the substitution of “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” wherever appearing in subsec. (d), was executed by making the substitution for “individuals with acquired immunodeficiency syndrome and related diseases” in pars. (1)(B) and (2) to reflect the probable intent of Congress.
 
-    Subsec. (d)(1)(A). [Pub. L. 102–550, § 606(j)(10)(A)][/us/pl/102/550/s606/j/10/A], substituted “eligible persons” for “individuals”.
+    Subsec. (d)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(10)(A), substituted “eligible persons” for “individuals”.
 
-    Subsec. (d)(1)(D). [Pub. L. 102–550, § 606(j)(10)(B)][/us/pl/102/550/s606/j/10/B], inserted “with acquired immunodeficiency syndrome or related diseases” after “any individual”.
+    Subsec. (d)(1)(D). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(10)(B), inserted “with acquired immunodeficiency syndrome or related diseases” after “any individual”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -157,26 +157,26 @@
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s12905/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12905%2Fg
-[/us/pl/101/625/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs861
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4382
-[/us/pl/102/550/s606/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fi
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3810
-[/us/pl/105/276/s550/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/102/550/s606/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F8
-[/us/pl/102/550/s606/j/11/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F11%2FE%2Fi
-[/us/pl/102/550/s606/j/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F9
-[/us/pl/102/550/s606/j/11/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F11%2FE%2Fi
-[/us/pl/102/550/s606/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fi%2F1
-[/us/pl/102/550/s606/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fi%2F2
-[/us/pl/102/550/s606/j/11/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F11%2FE%2Fii
-[/us/pl/102/550/s606/j/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F10%2FA
-[/us/pl/102/550/s606/j/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F10%2FB
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

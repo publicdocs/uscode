@@ -59,7 +59,7 @@
 
         In developing the study required by subsection (a) of this section, the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under [section 792 of title 29][/us/usc/t29/s792]. The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board’s receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d) of this section.
 
-([Pub. L. 101–336, title III, § 305][/us/pl/101/336/s305], July 26, 1990, [104 Stat. 360][/us/stat/104/360].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 305, July 26, 1990, [104 Stat. 360][/us/stat/104/360].)
 
  __Effective Date__ 
 
@@ -79,7 +79,7 @@
 [/us/usc/t42/s12186/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12186%2Fa%2F2%2FB
 [/us/usc/t42/s12186/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12186%2Fa%2F2%2FB
 [/us/usc/t29/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs792
-[/us/pl/101/336/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs305
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F360
 [/us/pl/101/336/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs310%2Fc
 [/us/usc/t42/s12181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181

@@ -57,7 +57,7 @@
 
         (3) $16,000,000 for fiscal year 2009.
 
-([Pub. L. 109–58, title IX, § 985][/us/pl/109/58/s985], Aug. 8, 2005, [119 Stat. 908][/us/stat/119/908].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 985, Aug. 8, 2005, [119 Stat. 908][/us/stat/119/908].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs985
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F908
 
 

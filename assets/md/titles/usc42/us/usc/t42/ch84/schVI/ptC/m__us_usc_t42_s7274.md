@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274a...7274d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274)
 
 ## § 7274. Environmental impact statements relating to defense facilities of Department of Energy
 
@@ -25,7 +25,7 @@
 
     (2) The provisions of paragraph (1) shall not apply in the case of any environmental impact statement on which the Secretary began preparation before December 4, 1981.
 
-([Pub. L. 97–90, title II, § 212(b)][/us/pl/97/90/s212/b], Dec. 4, 1981, [95 Stat. 1171][/us/stat/95/1171].)
+([Pub. L. 97–90, title II][/us/pl/97/90/tII], § 212(b), Dec. 4, 1981, [95 Stat. 1171][/us/stat/95/1171].)
 
  __Codification__ 
 
@@ -33,57 +33,19 @@
 
  __National Environmental Policy Act Compliance Report Requirement__ 
 
-    [Pub. L. 101–510, div. C, title XXXI, § 3133][/us/pl/101/510/s3133], Nov. 5, 1990, [104 Stat. 1832][/us/stat/104/1832], directed Secretary of Energy, not later than 30 days after the end of each quarter of fiscal years 1991 and 1992, to submit to Congress a brief report on Department of Energy’s compliance with National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), which was to contain a brief description of each proposed action to be taken by the Department of Energy, the environmental impact of which was not clearly insignificant, and a description of the steps taken or proposed to be taken by the Department of Energy to assess the environmental impact of the proposed action, and if the Secretary found that the proposed action of the Department of Energy would have no significant impact, the Secretary was to include the rationale for that determination.
-
-§§ 7274a to 7274d. __Transferred__ 
-
- __Codification__ 
-
-    Section 7274a, [Pub. L. 101–189, div. C, title XXXI, § 3141][/us/pl/101/189/s3141], Nov. 29, 1989, [103 Stat. 1679][/us/stat/103/1679]; [Pub. L. 105–85, div. C, title XXXI, § 3152(g)][/us/pl/105/85/s3152/g], Nov. 18, 1997, [111 Stat. 2042][/us/stat/111/2042], which related to a defense waste cleanup technology program, was renumbered [section 4406 of Pub. L. 107–314][/us/pl/107/314/s4406], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(7)(A)][/us/pl/108/136/s3141/g/7/A]–(C), Nov. 24, 2003, [117 Stat. 1765][/us/stat/117/1765], and is classified to [section 2586 of Title 50][/us/usc/t50/s2586], War and National Defense.
-
-    Section 7274b, [Pub. L. 101–189, div. C, title XXXI, § 3156][/us/pl/101/189/s3156], Nov. 29, 1989, [103 Stat. 1683][/us/stat/103/1683], which related to the submission of reports in connection with permanent closures of Department of Energy defense nuclear facilities, was renumbered [section 4422 of Pub. L. 107–314][/us/pl/107/314/s4422], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(12)(A)][/us/pl/108/136/s3141/g/12/A]–(C), Nov. 24, 2003, [117 Stat. 1766][/us/stat/117/1766], and is classified to [section 2602 of Title 50][/us/usc/t50/s2602], War and National Defense.
-
-    Section 7274c, [Pub. L. 101–510, div. C, title XXXI, § 3134][/us/pl/101/510/s3134], Nov. 5, 1990, [104 Stat. 1833][/us/stat/104/1833], which related to the submission of reports on environmental restoration expenditures, was renumbered [section 4407 of Pub. L. 107–314][/us/pl/107/314/s4407], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(8)(A)][/us/pl/108/136/s3141/g/8/A]–(C), Nov. 24, 2003, [117 Stat. 1765][/us/stat/117/1765], and is classified to [section 2587 of Title 50][/us/usc/t50/s2587], War and National Defense.
-
-    Section 7274d, [Pub. L. 102–190, div. C, title XXXI, § 3131][/us/pl/102/190/s3131], Dec. 5, 1991, [105 Stat. 1571][/us/stat/105/1571], which related to worker protection at nuclear weapons facilities, was renumbered [section 4641 of Pub. L. 107–314][/us/pl/107/314/s4641], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(12)(A)][/us/pl/108/136/s3141/i/12/A]–(C), Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779], and is classified to [section 2731 of Title 50][/us/usc/t50/s2731], War and National Defense.
+    [Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3133, Nov. 5, 1990, [104 Stat. 1832][/us/stat/104/1832], directed Secretary of Energy, not later than 30 days after the end of each quarter of fiscal years 1991 and 1992, to submit to Congress a brief report on Department of Energy’s compliance with National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), which was to contain a brief description of each proposed action to be taken by the Department of Energy, the environmental impact of which was not clearly insignificant, and a description of the steps taken or proposed to be taken by the Department of Energy to assess the environmental impact of the proposed action, and if the Secretary found that the proposed action of the Department of Energy would have no significant impact, the Secretary was to include the rationale for that determination.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7273c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274a...7274d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274)
 
 ----------
 ----------
 
-[/us/pl/97/90/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2Fs212%2Fb
+[/us/pl/97/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2FtII
 [/us/stat/95/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1171
-[/us/pl/101/510/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3133
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1832
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/101/189/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3141
-[/us/stat/103/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1679
-[/us/pl/105/85/s3152/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3152%2Fg
-[/us/stat/111/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2042
-[/us/pl/107/314/s4406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4406
-[/us/pl/108/136/s3141/g/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F7%2FA
-[/us/stat/117/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1765
-[/us/usc/t50/s2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2586
-[/us/pl/101/189/s3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3156
-[/us/stat/103/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1683
-[/us/pl/107/314/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4422
-[/us/pl/108/136/s3141/g/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F12%2FA
-[/us/stat/117/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1766
-[/us/usc/t50/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2602
-[/us/pl/101/510/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3134
-[/us/stat/104/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1833
-[/us/pl/107/314/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4407
-[/us/pl/108/136/s3141/g/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F8%2FA
-[/us/stat/117/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1765
-[/us/usc/t50/s2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2587
-[/us/pl/102/190/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3131
-[/us/stat/105/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1571
-[/us/pl/107/314/s4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4641
-[/us/pl/108/136/s3141/i/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F12%2FA
-[/us/stat/117/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1779
-[/us/usc/t50/s2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2731
 
 

@@ -17,7 +17,7 @@
 
     The Secretary may obtain services as authorized by [section 3109 of title 5][/us/usc/t5/s3109], at rates not to exceed the daily rate prescribed for grade GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332] for persons in Government service employed intermittently.
 
-([Pub. L. 95–91, title VI, § 623][/us/pl/95/91/s623], Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 623, Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/95/91/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs623
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F598
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

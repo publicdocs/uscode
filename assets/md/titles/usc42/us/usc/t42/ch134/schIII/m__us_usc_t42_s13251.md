@@ -85,7 +85,7 @@
 
         The Secretary shall, before January 1, 1998, submit a report to the Congress providing detailed information on actions taken to carry out this section, and the progress made and problems encountered thereunder.
 
-([Pub. L. 102–486, title V, § 501][/us/pl/102/486/s501], Oct. 24, 1992, [106 Stat. 2887][/us/stat/106/2887].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 501, Oct. 24, 1992, [106 Stat. 2887][/us/stat/106/2887].)
 
 ----------
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs501
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2887
 
 

@@ -29,7 +29,7 @@
 
     (b) The Secretary shall consult with interested parties, including other appropriate Federal agencies, manufacturers, public utilities, owners and operators of fleets of light duty motor vehicles, and State or local governmental entities, to determine the types of data to be collected and analyzed under subsection (a) of this section.
 
-([Pub. L. 102–486, title IV, § 407][/us/pl/102/486/s407], Oct. 24, 1992, [106 Stat. 2881][/us/stat/106/2881].)
+([Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 407, Oct. 24, 1992, [106 Stat. 2881][/us/stat/106/2881].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs407
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2881
 
 

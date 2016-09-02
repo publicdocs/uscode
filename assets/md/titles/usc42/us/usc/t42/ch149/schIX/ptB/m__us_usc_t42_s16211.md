@@ -43,7 +43,7 @@
 
         From amounts authorized under subsection (b), $2,000,000 for fiscal year 2007 shall be available to carry out activities under [section 16215(g) of this title][/us/usc/t42/s16215/g].
 
-([Pub. L. 109–58, title IX, § 921][/us/pl/109/58/s921], Aug. 8, 2005, [119 Stat. 864][/us/stat/119/864].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 921, Aug. 8, 2005, [119 Stat. 864][/us/stat/119/864].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s16213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16213
 [/us/usc/t42/s16215/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16215%2Fg
-[/us/pl/109/58/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs921
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F864
 
 

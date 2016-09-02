@@ -107,15 +107,15 @@
 
             For purposes of carrying out subsection (b)(1)(B), there are authorized to be appropriated $750,000 for each of fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 747, as added [Pub. L. 111–148, title V, § 5301][/us/pl/111/148/s5301], Mar. 23, 2010, [124 Stat. 615][/us/stat/124/615].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 747, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5301, Mar. 23, 2010, [124 Stat. 615][/us/stat/124/615].)
 
  __Codification__ 
 
-    [Pub. L. 111–148, title V, § 5301][/us/pl/111/148/s5301], Mar. 23, 2010, [124 Stat. 615][/us/stat/124/615], which directed the amendment of part C of title VII by striking out section 747 and inserting a new section 747, without specifying the act to be amended, was executed as an amendment to part C of title VII of act July 1, 1944, by adding this section and repealing former [section 293k of this title][/us/usc/t42/s293k], to reflect the probable intent of Congress.
+    [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5301, Mar. 23, 2010, [124 Stat. 615][/us/stat/124/615], which directed the amendment of part C of title VII by striking out section 747 and inserting a new section 747, without specifying the act to be amended, was executed as an amendment to part C of title VII of act July 1, 1944, by adding this section and repealing former [section 293k of this title][/us/usc/t42/s293k], to reflect the probable intent of Congress.
 
  __Prior Provisions__ 
 
-    A prior section 293k, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 747, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2042][/us/stat/106/2042]; amended [Pub. L. 105–392, title I, § 102(3)][/us/pl/105/392/s102/3], Nov. 13, 1998, [112 Stat. 3537][/us/stat/112/3537], related to grants and contracts for training in family medicine, general internal medicine, general pediatrics, general dentistry, and pediatric dentistry, and training for physician assistants, prior to repeal by [Pub. L. 111–148, title V, § 5301][/us/pl/111/148/s5301], Mar. 23, 2010, [124 Stat. 615][/us/stat/124/615]. See Codification note above.
+    A prior section 293k, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 747, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2042][/us/stat/106/2042]; amended [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 102(3), Nov. 13, 1998, [112 Stat. 3537][/us/stat/112/3537], related to grants and contracts for training in family medicine, general internal medicine, general pediatrics, general dentistry, and pediatric dentistry, and training for physician assistants, prior to repeal by [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5301, Mar. 23, 2010, [124 Stat. 615][/us/stat/124/615]. See Codification note above.
 
     A prior section 747 of act July 1, 1944, was classified to [section 294q–3 of this title][/us/usc/t42/s294q–3] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
@@ -131,17 +131,17 @@
 [/us/usc/t42/s294q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294q
 [/us/usc/t42/s294q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294q
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5301
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F615
-[/us/pl/111/148/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5301
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F615
 [/us/usc/t42/s293k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293k
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2042
-[/us/pl/105/392/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs102%2F3
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3537
-[/us/pl/111/148/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5301
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F615
 [/us/usc/t42/s294q–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294q%E2%80%933
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408

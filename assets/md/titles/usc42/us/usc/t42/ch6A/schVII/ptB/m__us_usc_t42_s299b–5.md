@@ -85,7 +85,7 @@
 
             In identifying the issues to be addressed by the report, the Director shall, to the extent practicable, take into consideration the expertise and experience of Federal and State law enforcement officials regarding the victims referred to in paragraph (1), and of other appropriate public and private entities (including medical societies, victim services organizations, sexual assault prevention organizations, and social services organizations).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 916, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1660][/us/stat/113/1660]; [Pub. L. 108–173, title IX, § 900(e)(2)(C)][/us/pl/108/173/s900/e/2/C], Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 916, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1660][/us/stat/113/1660]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(2)(C), Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
 
  __Amendments__ 
 
@@ -99,9 +99,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1660
-[/us/pl/108/173/s900/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F2%2FC
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2372
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 

@@ -131,11 +131,11 @@
 
         In implementing this section, the Secretary shall provide for the maximum appropriate coordination with part B of the Health Care Quality Improvement Act of 1986 ([42 U.S.C. 11131][/us/usc/t42/s11131] et seq.) and [section 1320a–7e of this title][/us/usc/t42/s1320a–7e].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1921, as added [Pub. L. 100–93, § 5(b)][/us/pl/100/93/s5/b], Aug. 18, 1987, [101 Stat. 690][/us/stat/101/690]; amended [Pub. L. 101–508, title IV, § 4752(f)(1)][/us/pl/101/508/s4752/f/1], Nov. 5, 1990, [104 Stat. 1388–208][/us/stat/104/1388-208]; [Pub. L. 111–148, title VI, § 6403(b)][/us/pl/111/148/s6403/b], Mar. 23, 2010, [124 Stat. 764][/us/stat/124/764].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1921, as added [Pub. L. 100–93][/us/pl/100/93], § 5(b), Aug. 18, 1987, [101 Stat. 690][/us/stat/101/690]; amended [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4752(f)(1), Nov. 5, 1990, [104 Stat. 1388–208][/us/stat/104/1388-208]; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6403(b), Mar. 23, 2010, [124 Stat. 764][/us/stat/124/764].)
 
  __References in Text__ 
 
-    [Section 1320c–3(a)(4)(C) of this title][/us/usc/t42/s1320c–3/a/4/C], referred to in subsec. (b)(4), was repealed by [Pub. L. 112–40, title II, § 261(c)(2)(A)(ii)][/us/pl/112/40/s261/c/2/A/ii], Oct. 21, 2011, [125 Stat. 425][/us/stat/125/425].
+    [Section 1320c–3(a)(4)(C) of this title][/us/usc/t42/s1320c–3/a/4/C], referred to in subsec. (b)(4), was repealed by [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 261(c)(2)(A)(ii), Oct. 21, 2011, [125 Stat. 425][/us/stat/125/425].
 
     The Health Care Quality Improvement Act of 1986 and that Act, referred to in subsecs. (b)(6) and (h), are title IV of [Pub. L. 99–660][/us/pl/99/660], Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784], which is classified generally to chapter 117 (§ 11101 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§ 11131 et seq.) of chapter 117 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11101 of this title][/us/usc/t42/s11101] and Tables.
 
@@ -145,33 +145,33 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–148, § 6403(b)(1)(A)(ii)][/us/pl/111/148/s6403/b/1/A/ii], redesignated subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A).
+    2010—Subsec. (a)(1). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(1)(A)(ii), redesignated subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A).
 
-    [Pub. L. 111–148, § 6403(b)(1)(A)(i)][/us/pl/111/148/s6403/b/1/A/i], which directed adding subpar. (A) and striking out “The State” and all that follows through the “semicolon”, was executed by adding subpar. (A) and striking out “The State must have in effect a system of reporting the following information with respect to formal proceedings (as defined by the Secretary in regulations) concluded against a health care practitioner or entity by any authority of the State (or of a political subdivision thereof) responsible for the licensing of health care practitioners (or any peer review organization or private accreditation entity reviewing the services provided by health care practitioners) or entities:”, to reflect the probable intent of Congress.
+    [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(1)(A)(i), which directed adding subpar. (A) and striking out “The State” and all that follows through the “semicolon”, was executed by adding subpar. (A) and striking out “The State must have in effect a system of reporting the following information with respect to formal proceedings (as defined by the Secretary in regulations) concluded against a health care practitioner or entity by any authority of the State (or of a political subdivision thereof) responsible for the licensing of health care practitioners (or any peer review organization or private accreditation entity reviewing the services provided by health care practitioners) or entities:”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(1)(A)(iii). [Pub. L. 111–148, § 6403(b)(1)(A)(iii)][/us/pl/111/148/s6403/b/1/A/iii], substituted “license or the right to apply for, or renew, a license by” for “the license of” and inserted “nonrenewability,” after “voluntary surrender,”.
+    Subsec. (a)(1)(A)(iii). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(1)(A)(iii), substituted “license or the right to apply for, or renew, a license by” for “the license of” and inserted “nonrenewability,” after “voluntary surrender,”.
 
-    Subsec. (a)(1)(B). [Pub. L. 111–148, § 6403(b)(1)(A)(iv)][/us/pl/111/148/s6403/b/1/A/iv], added subpar. (B).
+    Subsec. (a)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(1)(A)(iv), added subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 111–148, § 6403(b)(1)(B)][/us/pl/111/148/s6403/b/1/B], substituted “a State licensing or certification agency or State law or fraud enforcement agency” for “the authority described in paragraph (1)”.
+    Subsec. (a)(2). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(1)(B), substituted “a State licensing or certification agency or State law or fraud enforcement agency” for “the authority described in paragraph (1)”.
 
-    Subsec. (b)(2). [Pub. L. 111–148, § 6403(b)(2)(A)][/us/pl/111/148/s6403/b/2/A], added par. (2) and struck out former par. (2) which read as follows: “to licensing authorities described in subsection (a)(1) of this section,”.
+    Subsec. (b)(2). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(2)(A), added par. (2) and struck out former par. (2) which read as follows: “to licensing authorities described in subsection (a)(1) of this section,”.
 
-    Subsec. (b)(4). [Pub. L. 111–148, § 6403(b)(2)(B)][/us/pl/111/148/s6403/b/2/B], inserted “, but only with respect to information provided pursuant to subsection (a)(1)(A)” before comma at end.
+    Subsec. (b)(4). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(2)(B), inserted “, but only with respect to information provided pursuant to subsection (a)(1)(A)” before comma at end.
 
-    Subsec. (b)(5). [Pub. L. 111–148, § 6403(b)(2)(C)][/us/pl/111/148/s6403/b/2/C], added par. (5) and struck out former par. (5) which read as follows: “to State medicaid fraud control units (as defined in [section 1396b(q) of this title][/us/usc/t42/s1396b/q]),”.
+    Subsec. (b)(5). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(2)(C), added par. (5) and struck out former par. (5) which read as follows: “to State medicaid fraud control units (as defined in [section 1396b(q) of this title][/us/usc/t42/s1396b/q]),”.
 
-    Subsec. (b)(6). [Pub. L. 111–148, § 6403(b)(2)(B)][/us/pl/111/148/s6403/b/2/B], inserted “, but only with respect to information provided pursuant to subsection (a)(1)(A)” before comma at end.
+    Subsec. (b)(6). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(2)(B), inserted “, but only with respect to information provided pursuant to subsection (a)(1)(A)” before comma at end.
 
-    Subsec. (b)(7) to (9). [Pub. L. 111–148, § 6403(b)(2)(D)][/us/pl/111/148/s6403/b/2/D], (E), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
+    Subsec. (b)(7) to (9). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(2)(D), (E), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-    Subsecs. (d) to (g). [Pub. L. 111–148, § 6403(b)(3)][/us/pl/111/148/s6403/b/3], added subsecs. (d) to (g). Former subsec. (d) redesignated (h).
+    Subsecs. (d) to (g). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(3), added subsecs. (d) to (g). Former subsec. (d) redesignated (h).
 
-    Subsec. (h). [Pub. L. 111–148, § 6403(b)(3)][/us/pl/111/148/s6403/b/3], (4), redesignated subsec. (d) as (h) and substituted “In implementing this section, the Secretary shall provide for the maximum appropriate coordination with part B of the Health Care Quality Improvement Act of 1986 ([42 U.S.C. 11131][/us/usc/t42/s11131] et seq.) and [section 1320a–7e of this title][/us/usc/t42/s1320a–7e].” for “The Secretary shall provide for the maximum appropriate coordination in the implementation of subsection (a) of this section and section 422 of the Health Care Quality Improvement Act of 1986.”
+    Subsec. (h). [Pub. L. 111–148][/us/pl/111/148], § 6403(b)(3), (4), redesignated subsec. (d) as (h) and substituted “In implementing this section, the Secretary shall provide for the maximum appropriate coordination with part B of the Health Care Quality Improvement Act of 1986 ([42 U.S.C. 11131][/us/usc/t42/s11131] et seq.) and [section 1320a–7e of this title][/us/usc/t42/s1320a–7e].” for “The Secretary shall provide for the maximum appropriate coordination in the implementation of subsection (a) of this section and section 422 of the Health Care Quality Improvement Act of 1986.”
 
-    1990—Subsec. (a)(1). [Pub. L. 101–508, § 4752(f)(1)(A)][/us/pl/101/508/s4752/f/1/A], inserted “(or any peer review organization or private accreditation entity reviewing the services provided by health care practitioners)” after “health care practitioners” in introductory provisions.
+    1990—Subsec. (a)(1). [Pub. L. 101–508][/us/pl/101/508], § 4752(f)(1)(A), inserted “(or any peer review organization or private accreditation entity reviewing the services provided by health care practitioners)” after “health care practitioners” in introductory provisions.
 
-    Subsec. (a)(1)(D). [Pub. L. 101–508, § 4752(f)(1)(B)][/us/pl/101/508/s4752/f/1/B], added subpar. (D).
+    Subsec. (a)(1)(D). [Pub. L. 101–508][/us/pl/101/508], § 4752(f)(1)(B), added subpar. (D).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -179,7 +179,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title IV, § 4752(f)(2)][/us/pl/101/508/s4752/f/2], Nov. 5, 1990, [104 Stat. 1388][/us/stat/104/1388]– 208, provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4752(f)(2), Nov. 5, 1990, [104 Stat. 1388][/us/stat/104/1388]– 208, provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply to State information reporting systems as of January 1, 1992, without regard to whether or not the Secretary of Health and Human Services has promulgated any regulations to carry out such amendments by such date.”
 
@@ -205,41 +205,41 @@
 [/us/usc/t42/s11131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11131
 [/us/usc/t42/s1320a–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937e
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/93/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs5%2Fb
+[/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/stat/101/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F690
-[/us/pl/101/508/s4752/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4752%2Ff%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-208
-[/us/pl/111/148/s6403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F764
 [/us/usc/t42/s1320c–3/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933%2Fa%2F4%2FC
-[/us/pl/112/40/s261/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FA%2Fii
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F425
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/stat/100/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3784
 [/us/usc/t42/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11101
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
-[/us/pl/111/148/s6403/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F1%2FA%2Fii
-[/us/pl/111/148/s6403/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F1%2FA%2Fi
-[/us/pl/111/148/s6403/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F1%2FA%2Fiii
-[/us/pl/111/148/s6403/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F1%2FA%2Fiv
-[/us/pl/111/148/s6403/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F1%2FB
-[/us/pl/111/148/s6403/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F2%2FA
-[/us/pl/111/148/s6403/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F2%2FB
-[/us/pl/111/148/s6403/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F2%2FC
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1396b/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fq
-[/us/pl/111/148/s6403/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F2%2FB
-[/us/pl/111/148/s6403/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F2%2FD
-[/us/pl/111/148/s6403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F3
-[/us/pl/111/148/s6403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fb%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s11131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11131
 [/us/usc/t42/s1320a–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937e
-[/us/pl/101/508/s4752/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4752%2Ff%2F1%2FA
-[/us/pl/101/508/s4752/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4752%2Ff%2F1%2FB
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s6403/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fd%2F5
 [/us/pl/111/148/s6403/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fd%2F6
 [/us/usc/t42/s1320a–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937e
-[/us/pl/101/508/s4752/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4752%2Ff%2F2
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388
 [/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937

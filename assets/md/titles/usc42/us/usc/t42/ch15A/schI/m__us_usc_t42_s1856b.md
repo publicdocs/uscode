@@ -17,7 +17,7 @@
 
     In the absence of any agreement authorized or ratified by [section 1856a of this title][/us/usc/t42/s1856a], each agency head is authorized to render emergency assistance in extinguishing fires and in preserving life and property from fire, within the vicinity of any place at which such agency maintains fire-protection facilities, when the rendition of such assistance is determined, under regulations prescribed by the agency head, to be in the best interest of the United States.
 
-([May 27, 1955, ch. 105, § 3][/us/act/1955-05-27/ch105/s3], [69 Stat. 67][/us/stat/69/67].)
+([May 27, 1955, ch. 105][/us/act/1955-05-27/ch105], § 3, [69 Stat. 67][/us/stat/69/67].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s1856a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1856a
-[/us/act/1955-05-27/ch105/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105%2Fs3
+[/us/act/1955-05-27/ch105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105
 [/us/stat/69/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F67
 
 

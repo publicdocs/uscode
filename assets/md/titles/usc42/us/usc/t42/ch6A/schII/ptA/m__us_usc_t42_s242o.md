@@ -19,7 +19,7 @@
 
     (b) From time to time the Secretary shall issue information related to public health, in the form of publications or otherwise, for the use of the public, and shall publish weekly reports of health conditions in the United States and other countries and other pertinent health information for the use of persons and institutions concerned with health services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 310, formerly §§ 309, 310, as added [Pub. L. 93–353, title I, § 107(a)][/us/pl/93/353/s107/a], July 23, 1974, [88 Stat. 371][/us/stat/88/371]; renumbered § 310, [Pub. L. 95–623, § 6(a)][/us/pl/95/623/s6/a], (b), Nov. 9, 1978, [92 Stat. 3447][/us/stat/92/3447].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 310, formerly §§ 309, 310, as added [Pub. L. 93–353, title I][/us/pl/93/353/tI], § 107(a), July 23, 1974, [88 Stat. 371][/us/stat/88/371]; renumbered § 310, [Pub. L. 95–623][/us/pl/95/623], § 6(a), (b), Nov. 9, 1978, [92 Stat. 3447][/us/stat/92/3447].)
 
  __Codification__ 
 
@@ -29,9 +29,9 @@
 
     A prior section 310 of act July 1, 1944, was renumbered section 329, and was classified to [section 254b of this title][/us/usc/t42/s254b] prior to the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299][/us/pl/104/299].
 
-    Provisions similar to those comprising subsec. (a) of this section were contained in section 312 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, [58 Stat. 693][/us/stat/58/693], as amended (formerly classified to [section 244 of this title][/us/usc/t42/s244]), prior to repeal by [Pub. L. 93–353, § 102(a)][/us/pl/93/353/s102/a].
+    Provisions similar to those comprising subsec. (a) of this section were contained in section 312 of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], [58 Stat. 693][/us/stat/58/693], as amended (formerly classified to [section 244 of this title][/us/usc/t42/s244]), prior to repeal by [Pub. L. 93–353][/us/pl/93/353], § 102(a).
 
-    Provisions similar to those comprising subsec. (b) of this section were contained in section 315 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, [58 Stat. 695][/us/stat/58/695]; Oct. 30, 1970, [Pub. L. 91–515, title II, § 282][/us/pl/91/515/s282], [84 Stat. 1308][/us/stat/84/1308] (formerly classified to [section 247 of this title][/us/usc/t42/s247]), prior to repeal by [Pub. L. 93–353, § 102(a)][/us/pl/93/353/s102/a].
+    Provisions similar to those comprising subsec. (b) of this section were contained in section 315 of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], [58 Stat. 695][/us/stat/58/695]; Oct. 30, 1970, [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 282, [84 Stat. 1308][/us/stat/84/1308] (formerly classified to [section 247 of this title][/us/usc/t42/s247]), prior to repeal by [Pub. L. 93–353][/us/pl/93/353], § 102(a).
 
 ----------
 
@@ -41,23 +41,23 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/353/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs107%2Fa
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F371
-[/us/pl/95/623/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs6%2Fa
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3447
 [/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/stat/58/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F693
 [/us/usc/t42/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs244
-[/us/pl/93/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Fa
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/pl/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/stat/58/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F695
-[/us/pl/91/515/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs282
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1308
 [/us/usc/t42/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247
-[/us/pl/93/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Fa
+[/us/pl/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353
 
 

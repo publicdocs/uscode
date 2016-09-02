@@ -37,13 +37,13 @@
 
             The Secretary, after consultation with the Director of the Office of Personnel Management, may issue rules and regulations to provide for the enforcement of this section, which may include provisions for summary suspension of assistance or other action necessary to permit enforcement on an emergency basis.
 
-([Pub. L. 97–35, title VI, § 656][/us/pl/97/35/s656], Aug. 13, 1981, [95 Stat. 508][/us/stat/95/508]; [Pub. L. 110–134, § 24][/us/pl/110/134/s24], Dec. 12, 2007, [121 Stat. 1443][/us/stat/121/1443].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 656, Aug. 13, 1981, [95 Stat. 508][/us/stat/95/508]; [Pub. L. 110–134][/us/pl/110/134], § 24, Dec. 12, 2007, [121 Stat. 1443][/us/stat/121/1443].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–134, § 24(1)][/us/pl/110/134/s24/1], inserted heading.
+    2007—Subsec. (a). [Pub. L. 110–134][/us/pl/110/134], § 24(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 110–134, § 24(2)][/us/pl/110/134/s24/2], added subsec. (b) and struck out former subsec. (b) which read as follows: “Programs assisted under this subchapter shall not be carried on in a manner involving the use of program funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (1) any partisan or nonpartisan political activity or any other political activity associated with a candidate, or contending faction or group, in an election for public or party office; (2) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election; or (3) any voter registration activity. The Secretary, after consultation with the Office of Personnel Management, shall issue rules and regulations to provide for the enforcement of this section, which shall include provisions for summary suspension of assistance or other action necessary to permit enforcement on an emergency basis.”
+    Subsec. (b). [Pub. L. 110–134][/us/pl/110/134], § 24(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Programs assisted under this subchapter shall not be carried on in a manner involving the use of program funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (1) any partisan or nonpartisan political activity or any other political activity associated with a candidate, or contending faction or group, in an election for public or party office; (2) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election; or (3) any voter registration activity. The Secretary, after consultation with the Office of Personnel Management, shall issue rules and regulations to provide for the enforcement of this section, which shall include provisions for summary suspension of assistance or other action necessary to permit enforcement on an emergency basis.”
 
 ----------
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/97/35/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs656
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F508
-[/us/pl/110/134/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs24
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1443
-[/us/pl/110/134/s24/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs24%2F1
-[/us/pl/110/134/s24/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs24%2F2
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 
 

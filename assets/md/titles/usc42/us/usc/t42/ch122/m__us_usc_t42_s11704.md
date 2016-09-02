@@ -57,7 +57,7 @@
 
         Papa Ola Lokahi is authorized to enter into agreements or memoranda of understanding with relevant agencies or organizations that are capable of providing resources or services to the Native Hawaiian health care systems.
 
-([Pub. L. 100–579, § 5][/us/pl/100/579/s5], Oct. 31, 1988, [102 Stat. 2919][/us/stat/102/2919]; [Pub. L. 100–690, title II, § 2305][/us/pl/100/690/s2305], Nov. 18, 1988, [102 Stat. 4225][/us/stat/102/4225]; [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
+([Pub. L. 100–579][/us/pl/100/579], § 5, Oct. 31, 1988, [102 Stat. 2919][/us/stat/102/2919]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2305, Nov. 18, 1988, [102 Stat. 4225][/us/stat/102/4225]; [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
 
  __Codification__ 
 
@@ -78,11 +78,11 @@
 
 [/us/usc/t42/s11703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11703
 [/us/usc/t42/s11705/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11705%2Fc%2F1%2FB
-[/us/pl/100/579/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs5
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/stat/102/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2919
-[/us/pl/100/690/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2305
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4225
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
 [/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
 [/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579

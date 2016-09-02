@@ -47,11 +47,11 @@
 
         The Corporation and its officers and employees shall be subject to the provisions of [section 552 of title 5][/us/usc/t5/s552] (relating to freedom of information).
 
-([Pub. L. 88–452, title X, § 1005][/us/pl/88/452/s1005], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 380][/us/stat/88/380].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1005, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 380][/us/stat/88/380].)
 
  __Reimbursement of Officers or Employees__ 
 
-[Pub. L. 97–377, title I, § 101(d)][/us/pl/97/377/s101/d], Dec. 21, 1982, [96 Stat. 1876][/us/stat/96/1876], provided: 
+[Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(d), Dec. 21, 1982, [96 Stat. 1876][/us/stat/96/1876], provided: 
 
 > “That no officer or employee of the Legal Services Corporation or a recipient program shall be reimbursed for membership in a private club, or be paid severance pay in excess of what would be paid a Federal employee for comparable service.”
 
@@ -64,10 +64,10 @@
 
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/88/452/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1005
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F380
-[/us/pl/97/377/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fd
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1876
 
 

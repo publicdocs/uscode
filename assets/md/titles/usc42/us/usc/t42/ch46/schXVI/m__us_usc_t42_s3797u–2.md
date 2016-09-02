@@ -39,7 +39,7 @@
 
         (2) by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
-([Pub. L. 90–351, title I, § 2953][/us/pl/90/351/s2953], as added [Pub. L. 107–273, div. B, title II, § 2301(a)][/us/pl/107/273/s2301/a], Nov. 2, 2002, [116 Stat. 1795][/us/stat/116/1795]; amended [Pub. L. 109–162, title XI, § 1141][/us/pl/109/162/s1141], Jan. 5, 2006, [119 Stat. 3110][/us/stat/119/3110]; [Pub. L. 110–199, title I, § 103(a)][/us/pl/110/199/s103/a], Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2953, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2301(a), Nov. 2, 2002, [116 Stat. 1795][/us/stat/116/1795]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1141, Jan. 5, 2006, [119 Stat. 3110][/us/stat/119/3110]; [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 103(a), Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Period for Compliance__ 
 
-[Pub. L. 110–199, title I, § 103(b)][/us/pl/110/199/s103/b], Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668], provided that: 
+[Pub. L. 110–199, title I][/us/pl/110/199/tI], § 103(b), Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668], provided that: 
 
 > “Notwithstanding section 2952(2) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3797u–1(2)][/us/usc/t42/s3797u–1/2]), each grantee under part EE of such Act \[[42 U.S.C. 3797u][/us/usc/t42/s3797u] et seq.\] shall have not more than 3 years from the date of the enactment of this Act \[Apr. 9, 2008\] to adopt the definition of ‘violent offender’ under such part, as amended by subsection (a) of this section \[amending this section\].”
 
@@ -64,18 +64,18 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2953
-[/us/pl/107/273/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1795
-[/us/pl/109/162/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1141
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3110
-[/us/pl/110/199/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs103%2Fa
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F668
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504
-[/us/pl/110/199/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs103%2Fb
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F668
 [/us/usc/t42/s3797u–1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797u%E2%80%931%2F2
 [/us/usc/t42/s3797u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797u

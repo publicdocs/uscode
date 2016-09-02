@@ -315,7 +315,7 @@
 
         The term “victim services” means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
-([Pub. L. 100–77, title IV, § 401][/us/pl/100/77/s401], as added [Pub. L. 111–22, div. B, title I, § 1101(3)][/us/pl/111/22/s1101/3], May 20, 2009, [123 Stat. 1669][/us/stat/123/1669].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 401, as added [Pub. L. 111–22, div. B, title I][/us/pl/111/22/dB/tI], § 1101(3), May 20, 2009, [123 Stat. 1669][/us/stat/123/1669].)
 
  __Prior Provisions__ 
 
@@ -331,7 +331,7 @@
 
  __HEARTH Act Technical Corrections__ 
 
-[Pub. L. 112–141, div. F, title II, § 100261][/us/pl/112/141/s100261], July 6, 2012, [126 Stat. 978][/us/stat/126/978], provided that: 
+[Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100261, July 6, 2012, [126 Stat. 978][/us/stat/126/978], provided that: 
 
 > “For purposes of title IV of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11360][/us/usc/t42/s11360] et seq.)—
 
@@ -367,15 +367,15 @@
 [/us/usc/t42/s11383/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11383%2Fa
 [/us/usc/t42/s11382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11382
 [/us/usc/t42/s11360a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360a%2Fg
-[/us/pl/100/77/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs401
-[/us/pl/111/22/s1101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1101%2F3
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtI
 [/us/stat/123/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1669
 [/us/pl/100/77/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs401
 [/us/usc/t42/s11361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11361
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/112/141/s100261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100261
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F978
 [/us/usc/t42/s11360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360
 [/us/usc/t42/s3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3547

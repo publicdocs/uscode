@@ -27,7 +27,7 @@
 
         There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title IX, § 947][/us/pl/109/58/s947], Aug. 8, 2005, [119 Stat. 883][/us/stat/119/883].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 947, Aug. 8, 2005, [119 Stat. 883][/us/stat/119/883].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs947
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F883
 
 

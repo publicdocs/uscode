@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schX/m__us_usc_t42_s3793.md) | [Next](./../../../../..//us/usc/t42/ch46/schXI/m__us_usc_t42_s3795.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschXI)
+[Previous](./../../../../..//us/usc/t42/ch46/schX/m__us_usc_t42_s3793a _us_usc_t42_s3793b.md) | [Next](./../../../../..//us/usc/t42/ch46/schXI/m__us_usc_t42_s3795.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschXI)
 
 ### SUBCHAPTER XI—CRIMINAL PENALTIES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schX/m__us_usc_t42_s3793.md) | [Next](./../../../../..//us/usc/t42/ch46/schXI/m__us_usc_t42_s3795.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschXI)
+[Previous](./../../../../..//us/usc/t42/ch46/schX/m__us_usc_t42_s3793a _us_usc_t42_s3793b.md) | [Next](./../../../../..//us/usc/t42/ch46/schXI/m__us_usc_t42_s3795.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschXI)
 
 ----------
 ----------

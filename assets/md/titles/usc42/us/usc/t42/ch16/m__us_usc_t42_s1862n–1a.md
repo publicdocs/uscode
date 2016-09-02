@@ -215,7 +215,7 @@
 
             (B) for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with [section 1862n–1(g)(1)(C) of this title][/us/usc/t42/s1862n–1/g/1/C].
 
-([Pub. L. 107–368, § 10A][/us/pl/107/368/s10A], as added [Pub. L. 110–69, title VII, § 7030][/us/pl/110/69/s7030], Aug. 9, 2007, [121 Stat. 705][/us/stat/121/705]; amended [Pub. L. 111–358, title V, § 511][/us/pl/111/358/s511], Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010]; [Pub. L. 114–59, § 4(a)][/us/pl/114/59/s4/a], Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540].)
+([Pub. L. 107–368][/us/pl/107/368], § 10A, as added [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7030, Aug. 9, 2007, [121 Stat. 705][/us/stat/121/705]; amended [Pub. L. 111–358, title V][/us/pl/111/358/tV], § 511, Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010]; [Pub. L. 114–59][/us/pl/114/59], § 4(a), Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540].)
 
  __Codification__ 
 
@@ -225,19 +225,19 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2)(B). [Pub. L. 114–59, § 4(a)(1)][/us/pl/114/59/s4/a/1], inserted “or bachelor’s” after “master’s”.
+    2015—Subsec. (a)(2)(B). [Pub. L. 114–59][/us/pl/114/59], § 4(a)(1), inserted “or bachelor’s” after “master’s”.
 
-    Subsec. (c)(3). [Pub. L. 114–59, § 4(a)(2)(B)(i)][/us/pl/114/59/s4/a/2/B/i], inserted “for teachers with master’s degrees in their field” after “Teaching Fellowships” in introductory provisions.
+    Subsec. (c)(3). [Pub. L. 114–59][/us/pl/114/59], § 4(a)(2)(B)(i), inserted “for teachers with master’s degrees in their field” after “Teaching Fellowships” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 114–59, § 4(a)(2)(A)][/us/pl/114/59/s4/a/2/A], (B)(ii), (C), added par. (4).
+    Subsec. (c)(4). [Pub. L. 114–59][/us/pl/114/59], § 4(a)(2)(A), (B)(ii), (C), added par. (4).
 
-    Subsecs. (e), (f). [Pub. L. 114–59, § 4(a)(3)][/us/pl/114/59/s4/a/3], substituted “subsection (h)” for “subsection (g)” wherever appearing.
+    Subsecs. (e), (f). [Pub. L. 114–59][/us/pl/114/59], § 4(a)(3), substituted “subsection (h)” for “subsection (g)” wherever appearing.
 
-    Subsecs. (g) to (j). [Pub. L. 114–59, § 4(a)(4)][/us/pl/114/59/s4/a/4], (5), added subsec. (g) and redesignated former subsecs. (g) to (i) as (h) to (j), respectively.
+    Subsecs. (g) to (j). [Pub. L. 114–59][/us/pl/114/59], § 4(a)(4), (5), added subsec. (g) and redesignated former subsecs. (g) to (i) as (h) to (j), respectively.
 
-    2011—Subsec. (a)(2)(A). [Pub. L. 111–358, § 511(b)][/us/pl/111/358/s511/b], inserted “including retiring professionals in those fields,” after “mathematics professionals,”.
+    2011—Subsec. (a)(2)(A). [Pub. L. 111–358][/us/pl/111/358], § 511(b), inserted “including retiring professionals in those fields,” after “mathematics professionals,”.
 
-    Subsec. (h)(1). [Pub. L. 111–358, § 511(a)][/us/pl/111/358/s511/a], amended par. (1) generally. Prior to amendment, text read as follows: “An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.”
+    Subsec. (h)(1). [Pub. L. 111–358][/us/pl/111/358], § 511(a), amended par. (1) generally. Prior to amendment, text read as follows: “An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.”
 
 ----------
 
@@ -254,22 +254,22 @@
 [/us/usc/t42/s1862n–1/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931%2Fg%2F1
 [/us/usc/t42/s1862n–1/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931%2Fg%2F1%2FC
 [/us/usc/t42/s1862n–1/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931%2Fg%2F1%2FC
-[/us/pl/107/368/s10A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs10A
-[/us/pl/110/69/s7030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7030
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F705
-[/us/pl/111/358/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs511
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4010
-[/us/pl/114/59/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
 [/us/stat/129/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F540
 [/us/pl/110/69/s7030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7030
 [/us/usc/t42/s1862n–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931
 [/us/usc/t42/s1862n–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931a
-[/us/pl/114/59/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F1
-[/us/pl/114/59/s4/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F2%2FB%2Fi
-[/us/pl/114/59/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F2%2FA
-[/us/pl/114/59/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F3
-[/us/pl/114/59/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F4
-[/us/pl/111/358/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs511%2Fb
-[/us/pl/111/358/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs511%2Fa
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 
 

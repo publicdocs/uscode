@@ -167,29 +167,29 @@
 
             The provisions of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty or exclusion under paragraph (3) in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title][/us/usc/t42/s1320a–7a/a].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128I, as added and amended [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6102, 6105(a), 6106, 6113(a), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], 711, 712, 718.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128I, as added and amended [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], §§ 6102, 6105(a), 6106, 6113(a), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], 711, 712, 718.)
 
  __Amendments__ 
 
-    2010—Subsec. (f). [Pub. L. 111–148, § 6105(a)][/us/pl/111/148/s6105/a], added subsec. (f).
+    2010—Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 6105(a), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 111–148, § 6106][/us/pl/111/148/s6106], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–148][/us/pl/111/148], § 6106, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 111–148, § 6113(a)][/us/pl/111/148/s6113/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–148][/us/pl/111/148], § 6113(a), added subsec. (h).
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title VI, § 6105(b)][/us/pl/111/148/s6105/b], Mar. 23, 2010, [124 Stat. 712][/us/stat/124/712], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6105(b), Mar. 23, 2010, [124 Stat. 712][/us/stat/124/712], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
-[Pub. L. 111–148, title VI, § 6113(c)][/us/pl/111/148/s6113/c], Mar. 23, 2010, [124 Stat. 720][/us/stat/124/720], provided that: 
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6113(c), Mar. 23, 2010, [124 Stat. 720][/us/stat/124/720], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1395i–3 of this title][/us/usc/t42/s1395i–3]\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
  __National Independent Monitor Demonstration Project__ 
 
-[Pub. L. 111–148, title VI, § 6112][/us/pl/111/148/s6112], Mar. 23, 2010, [124 Stat. 716][/us/stat/124/716], provided that:
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6112, Mar. 23, 2010, [124 Stat. 716][/us/stat/124/716], provided that:
 
 >     “(a) __Establishment.—__ 
 
@@ -306,17 +306,17 @@
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
-[/us/pl/111/148/s6105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6105%2Fa
-[/us/pl/111/148/s6106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6106
-[/us/pl/111/148/s6113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6113%2Fa
-[/us/pl/111/148/s6105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6105%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F712
-[/us/pl/111/148/s6113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6113%2Fc
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F720
 [/us/usc/t42/s1395i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933
-[/us/pl/111/148/s6112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6112
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F716
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1320a–3/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933%2Fc%2F5%2FA

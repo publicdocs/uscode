@@ -39,7 +39,7 @@
 
         There are authorized to be appropriated $5,000,000 for each of fiscal years 2004 through 2010 to carry out this section.
 
-([Pub. L. 108–79, § 5][/us/pl/108/79/s5], Sept. 4, 2003, [117 Stat. 978][/us/stat/117/978].)
+([Pub. L. 108–79][/us/pl/108/79], § 5, Sept. 4, 2003, [117 Stat. 978][/us/stat/117/978].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/108/79/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs5
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F978
 
 

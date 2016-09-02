@@ -127,7 +127,7 @@
 
         (2) The term “Persian Gulf conflict” means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 705, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1996][/us/stat/106/1996]; amended [Pub. L. 103–43, title XX, § 2014(a)(1)][/us/pl/103/43/s2014/a/1], June 10, 1993, [107 Stat. 215][/us/stat/107/215]; [Pub. L. 105–244, title I, § 102(a)(13)(A)][/us/pl/105/244/s102/a/13/A], Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 105–392, title I, § 141(a)(1)][/us/pl/105/392/s141/a/1], (2), Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 705, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1996][/us/stat/106/1996]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2014(a)(1), June 10, 1993, [107 Stat. 215][/us/stat/107/215]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(A), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 141(a)(1), (2), Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578].)
 
  __References in Text__ 
 
@@ -137,9 +137,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 292d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 704, formerly § 799A, as added Nov. 2, 1970, [Pub. L. 91–519, title II, § 207][/us/pl/91/519/s207], [84 Stat. 1355][/us/stat/84/1355]; amended Nov. 18, 1971, [Pub. L. 92–157, title I, § 110(2)][/us/pl/92/157/s110/2], [85 Stat. 461][/us/stat/85/461]; July 12, 1974, [Pub. L. 93–348, title I, § 105][/us/pl/93/348/s105], [88 Stat. 347][/us/stat/88/347]; renumbered § 704, Oct. 12, 1976, [Pub. L. 94–484, title II, § 201(c)][/us/pl/94/484/s201/c], [90 Stat. 2247][/us/stat/90/2247]; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607], §§ 620(c), 628(3), 629(b)(2), [102 Stat. 3141][/us/stat/102/3141], 3145, 3146, prohibited discrimination on the basis of sex, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 295m of this title][/us/usc/t42/s295m].
+    A prior section 292d, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 704, formerly § 799A, as added Nov. 2, 1970, [Pub. L. 91–519, title II][/us/pl/91/519/tII], § 207, [84 Stat. 1355][/us/stat/84/1355]; amended Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 110(2), [85 Stat. 461][/us/stat/85/461]; July 12, 1974, [Pub. L. 93–348, title I][/us/pl/93/348/tI], § 105, [88 Stat. 347][/us/stat/88/347]; renumbered § 704, Oct. 12, 1976, [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(c), [90 Stat. 2247][/us/stat/90/2247]; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], §§ 620(c), 628(3), 629(b)(2), [102 Stat. 3141][/us/stat/102/3141], 3145, 3146, prohibited discrimination on the basis of sex, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 295m of this title][/us/usc/t42/s295m].
 
-    Another prior section 292d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 705, as added [July 30, 1956, ch. 779, § 2][/us/act/1956-07-30/ch779/s2], [70 Stat. 718][/us/stat/70/718]; amended Aug. 27, 1958, [Pub. L. 85–777, § 1(b)][/us/pl/85/777/s1/b], [72 Stat. 933][/us/stat/72/933]; Oct. 5, 1961, [Pub. L. 87–395, § 8(b)][/us/pl/87/395/s8/b], (d), [75 Stat. 827][/us/stat/75/827]; Oct. 17, 1962, [Pub. L. 87–838, § 4(b)][/us/pl/87/838/s4/b], [76 Stat. 1074][/us/stat/76/1074]; Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], §§ 2(a), 3(a), [77 Stat. 164][/us/stat/77/164], 173; Aug. 9, 1965, [Pub. L. 89–115, § 2(b)][/us/pl/89/115/s2/b], [79 Stat. 448][/us/stat/79/448]; Aug. 16, 1968, [Pub. L. 90–490, title IV, § 401(b)][/us/pl/90/490/s401/b], [82 Stat. 789][/us/stat/82/789]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 102(k)(1)][/us/pl/92/157/s102/k/1], (2)(A), [85 Stat. 437][/us/stat/85/437], related to applications for grants for construction of health research facilities, providing for time of filing, eligibility, recommendation and approval and requirement of findings, conditional approval, and matters considered, prior to repeal by [Pub. L. 94–484, title II, § 201(a)][/us/pl/94/484/s201/a], Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
+    Another prior section 292d, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 705, as added [July 30, 1956, ch. 779][/us/act/1956-07-30/ch779], § 2, [70 Stat. 718][/us/stat/70/718]; amended Aug. 27, 1958, [Pub. L. 85–777][/us/pl/85/777], § 1(b), [72 Stat. 933][/us/stat/72/933]; Oct. 5, 1961, [Pub. L. 87–395][/us/pl/87/395], § 8(b), (d), [75 Stat. 827][/us/stat/75/827]; Oct. 17, 1962, [Pub. L. 87–838][/us/pl/87/838], § 4(b), [76 Stat. 1074][/us/stat/76/1074]; Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], §§ 2(a), 3(a), [77 Stat. 164][/us/stat/77/164], 173; Aug. 9, 1965, [Pub. L. 89–115][/us/pl/89/115], § 2(b), [79 Stat. 448][/us/stat/79/448]; Aug. 16, 1968, [Pub. L. 90–490, title IV][/us/pl/90/490/tIV], § 401(b), [82 Stat. 789][/us/stat/82/789]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 102(k)(1), (2)(A), [85 Stat. 437][/us/stat/85/437], related to applications for grants for construction of health research facilities, providing for time of filing, eligibility, recommendation and approval and requirement of findings, conditional approval, and matters considered, prior to repeal by [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(a), Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
 
     A prior section 705 of act July 1, 1944, was classified to [section 292e of this title][/us/usc/t42/s292e] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 1998 Amendments__ 
 
-[Pub. L. 105–392, title I, § 141(a)(3)][/us/pl/105/392/s141/a/3], Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578], provided that: 
+[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 141(a)(3), Nov. 13, 1998, [112 Stat. 3578][/us/stat/112/3578], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply with respect to services provided on or after the first day of the third month that begins after the date of the enactment of this Act \[Nov. 13, 1998\].”
 
@@ -174,13 +174,13 @@
 [/us/usc/t25/s1616a/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1616a%2Fa%2F2%2FA
 [/us/usc/t37/s101/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F18
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1996
-[/us/pl/103/43/s2014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fa%2F1
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F215
-[/us/pl/105/244/s102/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FA
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1620
-[/us/pl/105/392/s141/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs141%2Fa%2F1
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3578
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
@@ -188,44 +188,44 @@
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/519/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F519%2Fs207
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/91/519/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F519%2FtII
 [/us/stat/84/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1355
-[/us/pl/92/157/s110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs110%2F2
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F461
-[/us/pl/93/348/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs105
+[/us/pl/93/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2FtI
 [/us/stat/88/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F347
-[/us/pl/94/484/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fc
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2247
-[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3141
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s295m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295m
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1956-07-30/ch779/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs2
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/act/1956-07-30/ch779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779
 [/us/stat/70/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F718
-[/us/pl/85/777/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F777%2Fs1%2Fb
+[/us/pl/85/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F777
 [/us/stat/72/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F933
-[/us/pl/87/395/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs8%2Fb
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
 [/us/stat/75/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F827
-[/us/pl/87/838/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F838%2Fs4%2Fb
+[/us/pl/87/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F838
 [/us/stat/76/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1074
 [/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F164
-[/us/pl/89/115/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F115%2Fs2%2Fb
+[/us/pl/89/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F115
 [/us/stat/79/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F448
-[/us/pl/90/490/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs401%2Fb
+[/us/pl/90/490/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtIV
 [/us/stat/82/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F789
-[/us/pl/92/157/s102/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs102%2Fk%2F1
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F437
-[/us/pl/94/484/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fa
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2246
 [/us/usc/t42/s292e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292e
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/105/392/s141/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs141%2Fa%2F3
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3578
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

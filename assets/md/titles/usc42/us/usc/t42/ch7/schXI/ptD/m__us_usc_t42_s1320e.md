@@ -405,7 +405,7 @@
 
             (B) as preventing the Secretary from covering the routine costs of clinical care received by an individual entitled to, or enrolled for, benefits under subchapter XVIII, XIX, or XXI in the case where such individual is participating in a clinical trial and such costs would otherwise be covered under such subchapter with respect to the beneficiary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1181, as added and amended [Pub. L. 111–148, title VI, § 6301(a)][/us/pl/111/148/s6301/a], title X, § 10602, Mar. 23, 2010, [124 Stat. 727][/us/stat/124/727], 1005.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1181, as added and amended [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(a), title X, § 10602, Mar. 23, 2010, [124 Stat. 727][/us/stat/124/727], 1005.)
 
  __References in Text__ 
 
@@ -417,13 +417,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d)(2)(B)(ii)(IV). [Pub. L. 111–148, § 10602(1)(A)][/us/pl/111/148/s10602/1/A], inserted “, as described in subparagraph (A)(ii),” after “original research” and “, as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate” after “publication”.
+    2010—Subsec. (d)(2)(B)(ii)(IV). [Pub. L. 111–148][/us/pl/111/148], § 10602(1)(A), inserted “, as described in subparagraph (A)(ii),” after “original research” and “, as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate” after “publication”.
 
-    Subsec. (d)(2)(B)(iv). [Pub. L. 111–148, § 10602(1)(B)][/us/pl/111/148/s10602/1/B], amended cl. (iv) generally. Prior to amendment, text read as follows: “Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years).”
+    Subsec. (d)(2)(B)(iv). [Pub. L. 111–148][/us/pl/111/148], § 10602(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: “Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years).”
 
-    Subsec. (d)(8)(A)(iv). [Pub. L. 111–148, § 10602(2)][/us/pl/111/148/s10602/2], substituted “do not include” for “not be construed as mandates for”.
+    Subsec. (d)(8)(A)(iv). [Pub. L. 111–148][/us/pl/111/148], § 10602(2), substituted “do not include” for “not be construed as mandates for”.
 
-    Subsec. (f)(1)(C)(ii). [Pub. L. 111–148, § 10602(3)][/us/pl/111/148/s10602/3], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “5 members representing physicians and providers, including at least 1 surgeon, nurse, State-licensed integrative health care practitioner, and representative of a hospital.”
+    Subsec. (f)(1)(C)(ii). [Pub. L. 111–148][/us/pl/111/148], § 10602(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “5 members representing physicians and providers, including at least 1 surgeon, nurse, State-licensed integrative health care practitioner, and representative of a hospital.”
 
 ----------
 
@@ -436,14 +436,14 @@
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t42/s299b–37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9337
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fa
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F727
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/usc/t42/s280j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280j
-[/us/pl/111/148/s10602/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10602%2F1%2FA
-[/us/pl/111/148/s10602/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10602%2F1%2FB
-[/us/pl/111/148/s10602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10602%2F2
-[/us/pl/111/148/s10602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10602%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

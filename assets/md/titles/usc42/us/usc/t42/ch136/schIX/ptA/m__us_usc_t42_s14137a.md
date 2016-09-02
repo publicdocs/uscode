@@ -53,7 +53,7 @@
 
         (3) make a determination on all expungement requests not later than 90 days after receipt and provide a written response of the determination to the requesting party.
 
-([Pub. L. 112–253, § 3][/us/pl/112/253/s3], Jan. 10, 2013, [126 Stat. 2408][/us/stat/126/2408].)
+([Pub. L. 112–253][/us/pl/112/253], § 3, Jan. 10, 2013, [126 Stat. 2408][/us/stat/126/2408].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t42/s14137c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14137c
-[/us/pl/112/253/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253%2Fs3
+[/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2408
 
 

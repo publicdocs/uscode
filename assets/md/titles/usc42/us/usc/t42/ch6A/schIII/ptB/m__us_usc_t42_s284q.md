@@ -83,7 +83,7 @@
 
             The Secretary shall review the necessity of the Committee at least once every 2 years.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409J, as added [Pub. L. 111–148, title IV, § 4305(b)][/us/pl/111/148/s4305/b], Mar. 23, 2010, [124 Stat. 585][/us/stat/124/585].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409J, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4305(b), Mar. 23, 2010, [124 Stat. 585][/us/stat/124/585].)
 
 ----------
 
@@ -94,7 +94,7 @@
 
 [/us/usc/t42/s282a/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a%2Fc%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4305%2Fb
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F585
 
 

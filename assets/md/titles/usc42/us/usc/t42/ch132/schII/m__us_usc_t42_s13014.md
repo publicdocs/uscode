@@ -27,7 +27,7 @@
 
         No funds authorized under this subchapter may be used for lobbying activities in contravention of OMB Circular No. A–122.
 
-([Pub. L. 101–647, title II, § 219][/us/pl/101/647/s219], formerly § 218, Nov. 29, 1990, [104 Stat. 4796][/us/stat/104/4796]; [Pub. L. 103–322, title IV, § 40156(a)(1)][/us/pl/103/322/s40156/a/1], Sept. 13, 1994, [108 Stat. 1922][/us/stat/108/1922]; [Pub. L. 106–386, div. B, title III, § 1302(a)][/us/pl/106/386/s1302/a], Oct. 28, 2000, [114 Stat. 1511][/us/stat/114/1511]; renumbered § 219 and amended [Pub. L. 109–162, title I, § 112(d)(1)][/us/pl/109/162/s112/d/1], (e), Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I, § 106(3)][/us/pl/113/4/s106/3], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 219, formerly § 218, Nov. 29, 1990, [104 Stat. 4796][/us/stat/104/4796]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(a)(1), Sept. 13, 1994, [108 Stat. 1922][/us/stat/108/1922]; [Pub. L. 106–386, div. B, title III][/us/pl/106/386/dB/tIII], § 1302(a), Oct. 28, 2000, [114 Stat. 1511][/us/stat/114/1511]; renumbered § 219 and amended [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 112(d)(1), (e), Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 106(3), Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 
     2013—Subsec. (a). [Pub. L. 113–4][/us/pl/113/4] substituted “fiscal years 2014 through 2018” for “fiscal years 2007 through 2011”.
 
-    2006—Subsec. (a). [Pub. L. 109–162, § 112(e)(1)][/us/pl/109/162/s112/e/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
+    2006—Subsec. (a). [Pub. L. 109–162][/us/pl/109/162], § 112(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
 
-    Subsec. (c). [Pub. L. 109–162, § 112(e)(2)][/us/pl/109/162/s112/e/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–162][/us/pl/109/162], § 112(e)(2), added subsec. (c).
 
     2000—Subsec. (a). [Pub. L. 106–386][/us/pl/106/386] added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
 
@@ -71,21 +71,21 @@
 ----------
 
 [/us/usc/t42/s5611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5611
-[/us/pl/101/647/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs219
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4796
-[/us/pl/103/322/s40156/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fa%2F1
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1922
-[/us/pl/106/386/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1302%2Fa
+[/us/pl/106/386/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIII
 [/us/stat/114/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1511
-[/us/pl/109/162/s112/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fd%2F1
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2986
-[/us/pl/113/4/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F3
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/109/162/s112/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fe%2F1
-[/us/pl/109/162/s112/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fe%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4

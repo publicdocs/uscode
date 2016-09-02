@@ -27,11 +27,11 @@
 
         (B) occupied a position or engaged in activities that the Secretary determines involved discretion with respect to the granting of assistance under this chapter.
 
-([Pub. L. 89–136, title VI, § 606][/us/pl/89/136/s606], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3615][/us/stat/112/3615].)
+([Pub. L. 89–136, title VI][/us/pl/89/136/tVI], § 606, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3615][/us/stat/112/3615].)
 
  __Prior Provisions__ 
 
-    A prior section 3216, [Pub. L. 89–136, title VII, § 706][/us/pl/89/136/s706], Aug. 26, 1965, [79 Stat. 573][/us/stat/79/573], defined terms as used in this chapter, prior to repeal by [Pub. L. 105–393, § 102(b)(3)][/us/pl/105/393/s102/b/3].
+    A prior section 3216, [Pub. L. 89–136, title VII][/us/pl/89/136/tVII], § 706, Aug. 26, 1965, [79 Stat. 573][/us/stat/79/573], defined terms as used in this chapter, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(b)(3).
 
 ----------
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/89/136/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs606
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVI
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3615
-[/us/pl/89/136/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs706
+[/us/pl/89/136/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVII
 [/us/stat/79/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F573
-[/us/pl/105/393/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fb%2F3
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 
 

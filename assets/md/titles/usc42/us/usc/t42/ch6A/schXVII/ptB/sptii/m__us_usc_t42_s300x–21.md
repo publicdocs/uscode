@@ -23,7 +23,7 @@
 
         A funding agreement for a grant under subsection (a) of this section is that, subject to [section 300x–31 of this title][/us/usc/t42/s300x–31], the State involved will expend the grant only for the purpose of planning, carrying out, and evaluating activities to prevent and treat substance abuse and for related activities authorized in [section 300x–24 of this title][/us/usc/t42/s300x–24].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1921, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 388][/us/stat/106/388].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1921, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 388][/us/stat/106/388].)
 
  __Prior Provisions__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t42/s300x–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9331
 [/us/usc/t42/s300x–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9324
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F388
 [/us/usc/t42/s300x–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%939
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321

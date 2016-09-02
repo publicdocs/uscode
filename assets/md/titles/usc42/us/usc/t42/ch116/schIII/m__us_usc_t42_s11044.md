@@ -23,7 +23,7 @@
 
         Each local emergency planning committee shall annually publish a notice in local newspapers that the emergency response plan, material safety data sheets, and inventory forms have been submitted under this section. The notice shall state that followup emergency notices may subsequently be issued. Such notice shall announce that members of the public who wish to review any such plan, sheet, form, or followup notice may do so at the location designated under subsection (a) of this section.
 
-([Pub. L. 99–499, title III, § 324][/us/pl/99/499/s324], Oct. 17, 1986, [100 Stat. 1752][/us/stat/100/1752].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 324, Oct. 17, 1986, [100 Stat. 1752][/us/stat/100/1752].)
 
 ----------
 
@@ -36,7 +36,7 @@
 [/us/usc/t42/s11042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11042
 [/us/usc/t42/s11022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11022
 [/us/usc/t42/s11022/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11022%2Fd%2F2
-[/us/pl/99/499/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs324
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1752
 
 

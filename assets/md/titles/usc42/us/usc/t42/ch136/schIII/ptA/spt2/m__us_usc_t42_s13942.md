@@ -45,7 +45,7 @@
 
         The Judicial Conference of the United States shall evaluate and report to Congress its views on whether the Federal Rules of Evidence should be amended, and if so, how they should be amended, to guarantee that the confidentiality of communications between sexual assault victims and their therapists or trained counselors will be adequately protected in Federal court proceedings.
 
-([Pub. L. 103–322, title IV, § 40153][/us/pl/103/322/s40153], Sept. 13, 1994, [108 Stat. 1921][/us/stat/108/1921].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40153, Sept. 13, 1994, [108 Stat. 1921][/us/stat/108/1921].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40153
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1921
 
 

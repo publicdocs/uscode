@@ -45,17 +45,17 @@
 
         (2) The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden for which a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 \[[30 U.S.C. 1201][/us/usc/t30/s1201] et seq.\]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
 
-([Pub. L. 89–272, title II, § 1006][/us/pl/89/272/s1006], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2802][/us/stat/90/2802]; amended [Pub. L. 96–482, § 3][/us/pl/96/482/s3], Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334]; [Pub. L. 98–616, title I, § 102][/us/pl/98/616/s102], title V, § 501(f)(2), Nov. 8, 1984, [98 Stat. 3225][/us/stat/98/3225], 3276.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1006, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2802][/us/stat/90/2802]; amended [Pub. L. 96–482][/us/pl/96/482], § 3, Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334]; [Pub. L. 98–616, title I][/us/pl/98/616/tI], § 102, title V, § 501(f)(2), Nov. 8, 1984, [98 Stat. 3225][/us/stat/98/3225], 3276.)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, referred to in subsecs. (a) and (b), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsecs. (a) and (b), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
-    The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is [Pub. L. 92–532][/us/pl/92/532], Oct. 23, 1972, [86 Stat. 1052][/us/stat/86/1052], as amended, which enacted chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33][/us/usc/t33/s1401] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
     The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    1984—Subsec. (b)(1), (2). [Pub. L. 98–616, § 102][/us/pl/98/616/s102], designated existing provisions as par. (1) and added par. (2).
+    1984—Subsec. (b)(1), (2). [Pub. L. 98–616][/us/pl/98/616], § 102, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(3). [Pub. L. 98–616, § 501(f)(2)][/us/pl/98/616/s501/f/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 98–616][/us/pl/98/616], § 501(f)(2), added par. (3).
 
     1980—Subsec. (c). [Pub. L. 96–482][/us/pl/96/482] added subsec. (c).
 
@@ -81,7 +81,7 @@
 
  __Uranium Mill Tailings__ 
 
-[Pub. L. 98–616, title VII, § 703][/us/pl/98/616/s703], Nov. 8, 1984, [98 Stat. 3289][/us/stat/98/3289], provided that: 
+[Pub. L. 98–616, title VII][/us/pl/98/616/tVII], § 703, Nov. 8, 1984, [98 Stat. 3289][/us/stat/98/3289], provided that: 
 
 > “Nothing in the Hazardous and Solid Waste Amendments of 1984 \[see Short Title of 1984 Amendment note set out under [section 6901 of this title][/us/usc/t42/s6901]\] shall be construed to affect, modify, or amend the Uranium Mill Tailings Radiation Control Act of 1978 \[[42 U.S.C. 7901][/us/usc/t42/s7901] et seq.\]”.
 
@@ -107,25 +107,25 @@
 [/us/usc/t42/s6962/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6962%2Fh
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
-[/us/pl/89/272/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1006
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2802
-[/us/pl/96/482/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs3
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2334
-[/us/pl/98/616/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs102
+[/us/pl/98/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtI
 [/us/stat/98/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3225
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1052
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
@@ -140,11 +140,11 @@
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/usc/t42/s3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3257
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
-[/us/pl/98/616/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs102
-[/us/pl/98/616/s501/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Ff%2F2
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
-[/us/pl/98/616/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs703
+[/us/pl/98/616/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVII
 [/us/stat/98/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3289
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7901

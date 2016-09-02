@@ -37,7 +37,7 @@
 
         In the case of a child who has entered the United States from another Convention country for the purpose of adoption, an order declaring the adoption final shall not be entered unless the Secretary of State has issued the certificate provided for in subsection (a) of this section with respect to the adoption.
 
-([Pub. L. 106–279, title III, § 301][/us/pl/106/279/s301], Oct. 6, 2000, [114 Stat. 837][/us/stat/114/837].)
+([Pub. L. 106–279, title III][/us/pl/106/279/tIII], § 301, Oct. 6, 2000, [114 Stat. 837][/us/stat/114/837].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t8/s1154/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154%2Fd%2F2
 [/us/usc/t42/s14932/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14932%2Fc
-[/us/pl/106/279/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs301
+[/us/pl/106/279/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtIII
 [/us/stat/114/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F837
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

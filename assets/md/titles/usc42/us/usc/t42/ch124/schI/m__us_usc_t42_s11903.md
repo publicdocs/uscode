@@ -49,29 +49,29 @@
 
         (2) the public housing agency owning the housing demonstrates, to the satisfaction of the Secretary, that drug-related or violent activity in or around the housing has a detrimental effect on or about the real property comprising any public or other federally assisted low-income housing.
 
-([Pub. L. 100–690, title V, § 5124][/us/pl/100/690/s5124], Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301]; [Pub. L. 101–625, title V, § 581(a)][/us/pl/101/625/s581/a], Nov. 28, 1990, [104 Stat. 4246][/us/stat/104/4246]; [Pub. L. 102–550, title I, § 161(c)][/us/pl/102/550/s161/c], (d)(2), Oct. 28, 1992, [106 Stat. 3718][/us/stat/106/3718], 3719; [Pub. L. 104–330, title VII, § 704(2)][/us/pl/104/330/s704/2], Oct. 26, 1996, [110 Stat. 4051][/us/stat/110/4051]; [Pub. L. 105–276, title II, § 220(2)][/us/pl/105/276/s220/2], title V, § 586(d), Oct. 21, 1998, [112 Stat. 2488][/us/stat/112/2488], 2647.)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5124, Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 581(a), Nov. 28, 1990, [104 Stat. 4246][/us/stat/104/4246]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 161(c), (d)(2), Oct. 28, 1992, [106 Stat. 3718][/us/stat/106/3718], 3719; [Pub. L. 104–330, title VII][/us/pl/104/330/tVII], § 704(2), Oct. 26, 1996, [110 Stat. 4051][/us/stat/110/4051]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 220(2), title V, § 586(d), Oct. 21, 1998, [112 Stat. 2488][/us/stat/112/2488], 2647.)
 
  __References in Text__ 
 
     The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(7), is [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25][/us/usc/t25/s4101] and Tables.
 
-    The United States Housing Act of 1937, referred to in subsec. (b), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (b), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
-    [Section 1504 of title 21][/us/usc/t21/s1504], referred to in subsec. (b)(1), was repealed by [Pub. L. 100–690, title I, § 1009][/us/pl/100/690/s1009], Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188], as amended.
+    [Section 1504 of title 21][/us/usc/t21/s1504], referred to in subsec. (b)(1), was repealed by [Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1009, Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188], as amended.
 
  __Amendments__ 
 
-    1998—Subsec. (a)(4)(A). [Pub. L. 105–276, § 586(d)(1)(A)][/us/pl/105/276/s586/d/1/A], substituted “drug-related or violent crime in and around” for “drug-related crime on or about”.
+    1998—Subsec. (a)(4)(A). [Pub. L. 105–276][/us/pl/105/276], § 586(d)(1)(A), substituted “drug-related or violent crime in and around” for “drug-related crime on or about”.
 
-    Subsec. (a)(7). [Pub. L. 105–276, § 586(d)(1)(C)(i)][/us/pl/105/276/s586/d/1/C/i], substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity”.
+    Subsec. (a)(7). [Pub. L. 105–276][/us/pl/105/276], § 586(d)(1)(C)(i), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity”.
 
-    [Pub. L. 105–276, § 220(2)][/us/pl/105/276/s220/2], inserted “, an Indian tribe,” after “public housing agency”.
+    [Pub. L. 105–276][/us/pl/105/276], § 220(2), inserted “, an Indian tribe,” after “public housing agency”.
 
-    Subsec. (a)(8). [Pub. L. 105–276, § 586(d)(1)(B)][/us/pl/105/276/s586/d/1/B], (C)(ii), (8)\[(D)\], added par. (8).
+    Subsec. (a)(8). [Pub. L. 105–276][/us/pl/105/276], § 586(d)(1)(B), (C)(ii), (8)\[(D)\], added par. (8).
 
-    Subsec. (b). [Pub. L. 105–276, § 586(d)(2)(A)][/us/pl/105/276/s586/d/2/A], substituted “drug-related crime in and around” for “drug-related crime in” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–276][/us/pl/105/276], § 586(d)(2)(A), substituted “drug-related crime in and around” for “drug-related crime in” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 105–276, § 586(d)(2)(B)][/us/pl/105/276/s586/d/2/B], substituted “drug-related or violent activity in or around” for “drug-related activity at”.
+    Subsec. (b)(2). [Pub. L. 105–276][/us/pl/105/276], § 586(d)(2)(B), substituted “drug-related or violent activity in or around” for “drug-related activity at”.
 
     1996—Subsec. (a)(7). [Pub. L. 104–330][/us/pl/104/330] inserted “or tribally designated housing entity” after “public housing agency” and struck out “public housing” after “nonprofit”.
 
@@ -114,32 +114,32 @@
 
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/100/690/s5124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5124
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4301
-[/us/pl/101/625/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs581%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4246
-[/us/pl/102/550/s161/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs161%2Fc
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3718
-[/us/pl/104/330/s704/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs704%2F2
+[/us/pl/104/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVII
 [/us/stat/110/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4051
-[/us/pl/105/276/s220/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs220%2F2
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2488
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t21/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1504
-[/us/pl/100/690/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1009
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4188
-[/us/pl/105/276/s586/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fd%2F1%2FA
-[/us/pl/105/276/s586/d/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fd%2F1%2FC%2Fi
-[/us/pl/105/276/s220/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs220%2F2
-[/us/pl/105/276/s586/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fd%2F1%2FB
-[/us/pl/105/276/s586/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fd%2F2%2FA
-[/us/pl/105/276/s586/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fd%2F2%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625

@@ -27,11 +27,11 @@
 
         There are authorized to be appropriated such sums as are necessary to establish, operate, and maintain the Clearinghouse created by subsection (a) of this section.
 
-([Pub. L. 92–157, title II, § 202][/us/pl/92/157/s202], Nov. 18, 1971, [85 Stat. 461][/us/stat/85/461]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 101–597, title IV, § 401(d)][/us/pl/101/597/s401/d], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035].)
+([Pub. L. 92–157, title II][/us/pl/92/157/tII], § 202, Nov. 18, 1971, [85 Stat. 461][/us/stat/85/461]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 101–597, title IV][/us/pl/101/597/tIV], § 401(d), Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035].)
 
  __References in Text__ 
 
-    [Section 294n of this title][/us/usc/t42/s294n], referred to in subsec. (b), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to [section 294n of this title][/us/usc/t42/s294n] and was subsequently renumbered section 2692 and transferred to [section 300ff–111 of this title][/us/usc/t42/s300ff–111].
+    [Section 294n of this title][/us/usc/t42/s294n], referred to in subsec. (b), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to [section 294n of this title][/us/usc/t42/s294n] and was subsequently renumbered section 2692 and transferred to [section 300ff–111 of this title][/us/usc/t42/s300ff–111].
 
  __Change of Name__ 
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/pl/92/157/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs202
+[/us/pl/92/157/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtII
 [/us/stat/85/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F461
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/101/597/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fd
+[/us/pl/101/597/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtIV
 [/us/stat/104/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3035
 [/us/usc/t42/s294n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s294n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n

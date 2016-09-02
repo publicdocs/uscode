@@ -41,7 +41,7 @@
 
         (3) coordinate crime prevention programs funded under this program with other existing Federal programs to address the overall needs of communities that benefit from grants received under this subchapter.
 
-([Pub. L. 103–322, title III, § 30301][/us/pl/103/322/s30301], Sept. 13, 1994, [108 Stat. 1844][/us/stat/108/1844].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30301, Sept. 13, 1994, [108 Stat. 1844][/us/stat/108/1844].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s30301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30301
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1844
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1836

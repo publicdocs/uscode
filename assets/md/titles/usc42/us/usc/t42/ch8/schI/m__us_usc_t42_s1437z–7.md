@@ -83,7 +83,7 @@
 
         If an entity that owns or operates a mixed-finance project, that includes a significant number of units other than public housing units enters into a contract with a public housing agency, the terms of which obligate the entity to operate and maintain a specified number of units in the project as public housing units in accordance with the requirements of this chapter for the period required by law, such contractual terms may provide that, if, as a result of a reduction in appropriations under [section 1437g of this title][/us/usc/t42/s1437g] or any other change in applicable law, the public housing agency is unable to fulfill its contractual obligations with respect to those public housing units, that entity may deviate, under procedures and requirements developed through regulations by the Secretary, from otherwise applicable restrictions under this chapter regarding rents, income eligibility, and other areas of public housing management with respect to a portion or all of those public housing units, to the extent necessary to preserve the viability of those units while maintaining the low-income character of the units to the maximum extent practicable.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 35, as added [Pub. L. 105–276, title V, § 539][/us/pl/105/276/s539]\[(a)\], Oct. 21, 1998, [112 Stat. 2594][/us/stat/112/2594].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 35, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 539\[(a)\], Oct. 21, 1998, [112 Stat. 2594][/us/stat/112/2594].)
 
  __Effective Date__ 
 
@@ -91,7 +91,7 @@
 
  __Regulations__ 
 
-[Pub. L. 105–276, title V, § 539(b)][/us/pl/105/276/s539/b], Oct. 21, 1998, [112 Stat. 2596][/us/stat/112/2596], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 539(b), Oct. 21, 1998, [112 Stat. 2596][/us/stat/112/2596], provided that: 
 
 > “The Secretary shall issue such regulations as may be necessary to promote the development of mixed-finance projects, as that term is defined in section 3(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)][/us/usc/t42/s1437a/b]\] (as amended by this Act).”
 
@@ -109,11 +109,11 @@
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs539
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2594
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s539/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs539%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2596
 [/us/usc/t42/s1437a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb
 

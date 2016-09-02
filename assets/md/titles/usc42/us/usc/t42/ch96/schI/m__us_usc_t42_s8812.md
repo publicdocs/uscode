@@ -115,7 +115,7 @@
 
         For purposes of this subchapter, the quantity of any biomass energy which is the energy equivalent to 15,000,000 gallons of ethanol shall be prescribed jointly by the Secretary of Agriculture and the Secretary of Energy within 30 days after June 30, 1980.
 
-([Pub. L. 96–294, title II, § 212][/us/pl/96/294/s212], June 30, 1980, [94 Stat. 687][/us/stat/94/687].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 212, June 30, 1980, [94 Stat. 687][/us/stat/94/687].)
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs212
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F687
 
 

@@ -17,7 +17,7 @@
 
     The Federal Government shall not be liable for any claim based upon the exercise or performance of or the failure to exercise or perform a discretionary function or duty on the part of a Federal agency or an employee of the Federal Government in carrying out the provisions of this chapter.
 
-([Pub. L. 93–288, title III, § 305][/us/pl/93/288/s305], formerly § 308, May 22, 1974, [88 Stat. 149][/us/stat/88/149]; renumbered § 305, [Pub. L. 100–707, title I, § 105(d)][/us/pl/100/707/s105/d], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 305, formerly § 308, May 22, 1974, [88 Stat. 149][/us/stat/88/149]; renumbered § 305, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(d), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs305
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F149
-[/us/pl/100/707/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fd
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

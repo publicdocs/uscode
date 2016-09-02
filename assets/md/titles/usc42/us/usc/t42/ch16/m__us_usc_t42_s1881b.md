@@ -41,7 +41,7 @@
 
         (B) Amounts made available pursuant to subparagraph (A) shall be available for making awards under this subsection, for administrative expenses, for necessary travel by teachers selected under this subsection, and for special activities related to carrying out this subsection.
 
-([Pub. L. 100–570, title I, § 117(a)][/us/pl/100/570/s117/a], Oct. 31, 1988, [102 Stat. 2872][/us/stat/102/2872]; [Pub. L. 105–207, title II, § 202(c)][/us/pl/105/207/s202/c], July 29, 1998, [112 Stat. 874][/us/stat/112/874].)
+([Pub. L. 100–570, title I][/us/pl/100/570/tI], § 117(a), Oct. 31, 1988, [102 Stat. 2872][/us/stat/102/2872]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(c), July 29, 1998, [112 Stat. 874][/us/stat/112/874].)
 
  __Codification__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    1998—Par. (1)(B)(v). [Pub. L. 105–207, § 202(c)(1)][/us/pl/105/207/s202/c/1], added cl. (v) and struck out former cl. (v) which read as follows: “from the United States Department of Defense Dependents’ School.”
+    1998—Par. (1)(B)(v). [Pub. L. 105–207][/us/pl/105/207], § 202(c)(1), added cl. (v) and struck out former cl. (v) which read as follows: “from the United States Department of Defense Dependents’ School.”
 
-    Par. (3)(A). [Pub. L. 105–207, § 202(c)(2)][/us/pl/105/207/s202/c/2], substituted “Education and Human Resources” for “Science and Engineering Education”.
+    Par. (3)(A). [Pub. L. 105–207][/us/pl/105/207], § 202(c)(2), substituted “Education and Human Resources” for “Science and Engineering Education”.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -64,12 +64,12 @@
 ----------
 ----------
 
-[/us/pl/100/570/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs117%2Fa
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2872
-[/us/pl/105/207/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fc
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F874
-[/us/pl/105/207/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fc%2F1
-[/us/pl/105/207/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fc%2F2
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

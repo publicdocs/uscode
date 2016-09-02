@@ -77,27 +77,27 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2006 through 2026, to remain available until expended.
 
-([Pub. L. 102–486, title XII, § 1212][/us/pl/102/486/s1212], Oct. 24, 1992, [106 Stat. 2969][/us/stat/106/2969]; [Pub. L. 109–58, title II, § 202][/us/pl/109/58/s202], Aug. 8, 2005, [119 Stat. 651][/us/stat/119/651].)
+([Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1212, Oct. 24, 1992, [106 Stat. 2969][/us/stat/106/2969]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 202, Aug. 8, 2005, [119 Stat. 651][/us/stat/119/651].)
 
  __References in Text__ 
 
-    [Section 29 of title 26][/us/usc/t26/s29], referred to in subsec. (e)(2), was renumbered [section 45K of title 26][/us/usc/t26/s45K] by [Pub. L. 109–58, title XIII, § 1322(a)(1)][/us/pl/109/58/s1322/a/1], Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011].
+    [Section 29 of title 26][/us/usc/t26/s29], referred to in subsec. (e)(2), was renumbered [section 45K of title 26][/us/usc/t26/s45K] by [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1322(a)(1), Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011].
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 202(a)][/us/pl/109/58/s202/a], designated first, second, and third sentences as pars. (1) to (3), respectively, in par. (3) struck out “and which satisfies such other requirements as the Secretary deems necessary” after “receive such payment”, struck out at end “Such application shall be in such form, and shall be submitted at such time, as the Secretary shall establish.”, and added par. (4).
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 202(a), designated first, second, and third sentences as pars. (1) to (3), respectively, in par. (3) struck out “and which satisfies such other requirements as the Secretary deems necessary” after “receive such payment”, struck out at end “Such application shall be in such form, and shall be submitted at such time, as the Secretary shall establish.”, and added par. (4).
 
-    Subsec. (b). [Pub. L. 109–58, § 202(b)][/us/pl/109/58/s202/b], in introductory provisions, substituted “a not-for-profit electric cooperative, a public utility described in [section 115 of title 26][/us/usc/t26/s115], a State, Commonwealth, territory, or possession of the United States, or the District of Columbia, or a political subdivision thereof, an Indian tribal government or subdivision thereof, or a Native Corporation (as defined in [section 1602 of title 43][/us/usc/t43/s1602]),” for “a State or any political subdivision of a State (or an agency, authority, or instrumentality of a State or a political subdivision), by any corporation or association which is wholly owned, directly or indirectly, by one or more of the foregoing, or by a nonprofit electrical cooperative” and inserted “landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal),” after “wind, biomass,”.
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 202(b), in introductory provisions, substituted “a not-for-profit electric cooperative, a public utility described in [section 115 of title 26][/us/usc/t26/s115], a State, Commonwealth, territory, or possession of the United States, or the District of Columbia, or a political subdivision thereof, an Indian tribal government or subdivision thereof, or a Native Corporation (as defined in [section 1602 of title 43][/us/usc/t43/s1602]),” for “a State or any political subdivision of a State (or an agency, authority, or instrumentality of a State or a political subdivision), by any corporation or association which is wholly owned, directly or indirectly, by one or more of the foregoing, or by a nonprofit electrical cooperative” and inserted “landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal),” after “wind, biomass,”.
 
-    Subsec. (c). [Pub. L. 109–58, § 202(c)][/us/pl/109/58/s202/c], substituted “before October 1, 2016” for “during the 10-fiscal year period beginning with the first full fiscal year occurring after October 24, 1992”.
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 202(c), substituted “before October 1, 2016” for “during the 10-fiscal year period beginning with the first full fiscal year occurring after October 24, 1992”.
 
-    Subsec. (d). [Pub. L. 109–58, § 202(d)][/us/pl/109/58/s202/d], inserted “, or in which the Secretary determines that all necessary Federal and State authorizations have been obtained to begin construction of the facility” after “eligible for such payments”.
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 202(d), inserted “, or in which the Secretary determines that all necessary Federal and State authorizations have been obtained to begin construction of the facility” after “eligible for such payments”.
 
-    Subsec. (e)(1). [Pub. L. 109–58, § 202(e)][/us/pl/109/58/s202/e], inserted “landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal),” after “wind, biomass,”.
+    Subsec. (e)(1). [Pub. L. 109–58][/us/pl/109/58], § 202(e), inserted “landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal),” after “wind, biomass,”.
 
-    Subsec. (f). [Pub. L. 109–58, § 202(f)][/us/pl/109/58/s202/f], substituted “September 30, 2026” for “the expiration of the 20-fiscal year period beginning with the first full fiscal year occurring after October 24, 1992”.
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 202(f), substituted “September 30, 2026” for “the expiration of the 20-fiscal year period beginning with the first full fiscal year occurring after October 24, 1992”.
 
-    Subsec. (g). [Pub. L. 109–58, § 202(g)][/us/pl/109/58/s202/g], added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “There are authorized to be appropriated to the Secretary for fiscal years 1993, 1994, and 1995 such sums as may be necessary to carry out the purposes of this section.”
+    Subsec. (g). [Pub. L. 109–58][/us/pl/109/58], § 202(g), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “There are authorized to be appropriated to the Secretary for fiscal years 1993, 1994, and 1995 such sums as may be necessary to carry out the purposes of this section.”
 
 ----------
 
@@ -109,22 +109,22 @@
 [/us/usc/t26/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs115
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 [/us/usc/t26/s29/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs29%2Fd%2F2%2FB
-[/us/pl/102/486/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1212
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2969
-[/us/pl/109/58/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F651
 [/us/usc/t26/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs29
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/109/58/s1322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F1
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1011
-[/us/pl/109/58/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202%2Fa
-[/us/pl/109/58/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202%2Fb
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t26/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs115
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
-[/us/pl/109/58/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202%2Fc
-[/us/pl/109/58/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202%2Fd
-[/us/pl/109/58/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202%2Fe
-[/us/pl/109/58/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202%2Ff
-[/us/pl/109/58/s202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs202%2Fg
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

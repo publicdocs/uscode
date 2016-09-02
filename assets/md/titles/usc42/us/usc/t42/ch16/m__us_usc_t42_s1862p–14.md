@@ -55,7 +55,7 @@
 
         (5) requires principal investigators applying for Foundation research grants to provide evidence of institutional support for the portion of the investigator’s proposal designed to satisfy the Broader Impacts Review Criterion, including evidence of relevant training, programs, and other institutional resources available to the investigator from either their home institution or organization or another institution or organization with relevant expertise.
 
-([Pub. L. 111–358, title V, § 526][/us/pl/111/358/s526], Jan. 4, 2011, [124 Stat. 4019][/us/stat/124/4019].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 526, Jan. 4, 2011, [124 Stat. 4019][/us/stat/124/4019].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs526
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4019
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621

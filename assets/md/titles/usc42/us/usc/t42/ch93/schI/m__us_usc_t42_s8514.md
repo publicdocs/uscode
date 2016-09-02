@@ -33,13 +33,13 @@
 
         (3) Any decision by such court of appeals on a matter certified under paragraph (2) shall be reviewable by the Supreme Court upon attainment of a writ of certiorari. Any petition for such a writ shall be filed no later than 20 days after the decision of the court of appeals.
 
-    (b) __Repealed.__  __[__  __Pub. L. 98–620, title IV, § 402(42)__  __][/us/pl/98/620/s402/42]__  __,__  __Nov. 8, 1984__  __,__  __[__  __98 Stat. 3360__  __][/us/stat/98/3360]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 98–620, title IV__  __][/us/pl/98/620/tIV]__  __, § 402(42),__  __Nov. 8, 1984__  __,__  __[__  __98 Stat. 3360__  __][/us/stat/98/3360]__ 
 
     (c) __Injunctive relief__ 
 
         With respect to judicial review under subsection (a)(1)(A) of this section, the court shall not have jurisdiction to grant any injunctive relief except in conjunction with a final judgment entered in the case.
 
-([Pub. L. 96–102, title II, § 214][/us/pl/96/102/s214], Nov. 5, 1979, [93 Stat. 764][/us/stat/93/764]; [Pub. L. 98–620, title IV, § 402(42)][/us/pl/98/620/s402/42], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 214, Nov. 5, 1979, [93 Stat. 764][/us/stat/93/764]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(42), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 [/us/usc/t42/s8513/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8513%2Fb%2F1%2FA
 [/us/usc/t42/s8512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8512%2Fc
 [/us/usc/t42/s8512/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8512%2Fc%2F1%2FB
-[/us/pl/98/620/s402/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F42
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
-[/us/pl/96/102/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs214
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F764
-[/us/pl/98/620/s402/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F42
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

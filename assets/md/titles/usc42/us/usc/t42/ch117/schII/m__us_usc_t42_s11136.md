@@ -21,7 +21,7 @@
 
     (2) procedures in the case of disputed accuracy of the information.
 
-([Pub. L. 99–660, title IV, § 426][/us/pl/99/660/s426], Nov. 14, 1986, [100 Stat. 3791][/us/stat/100/3791].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 426, Nov. 14, 1986, [100 Stat. 3791][/us/stat/100/3791].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s11134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134%2Fb
-[/us/pl/99/660/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs426
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3791
 
 

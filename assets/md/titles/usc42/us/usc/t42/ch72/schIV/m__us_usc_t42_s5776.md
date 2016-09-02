@@ -33,7 +33,7 @@
 
         Multiple grants or contracts to the same grantee or contractor within any 1 year to support activities having the same general purpose shall be deemed to be a single grant for the purpose of this subsection, but multiple grants or contracts to the same grantee or contractor to support clearly distinct activities shall be considered separate grants or contractors. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “contracts.” </sup></sup> 
 
-([Pub. L. 93–415, title IV, § 406][/us/pl/93/415/s406], formerly § 407, as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2129][/us/stat/98/2129]; renumbered § 406 and amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7288, 7290, Nov. 18, 1988, [102 Stat. 4461][/us/stat/102/4461].)
+([Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 406, formerly § 407, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 660, Oct. 12, 1984, [98 Stat. 2129][/us/stat/98/2129]; renumbered § 406 and amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7288, 7290, Nov. 18, 1988, [102 Stat. 4461][/us/stat/102/4461].)
 
  __Prior Provisions__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–690, § 7290(b)][/us/pl/100/690/s7290/b], which purported to make technical amendment to reference to [section 5775 of this title][/us/usc/t42/s5775] to reflect renumbering of corresponding section of original act, could not be executed to text because of general amendment of section by [Pub. L. 100–690, § 7288][/us/pl/100/690/s7288], see below.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 7290(b), which purported to make technical amendment to reference to [section 5775 of this title][/us/usc/t42/s5775] to reflect renumbering of corresponding section of original act, could not be executed to text because of general amendment of section by [Pub. L. 100–690][/us/pl/100/690], § 7288, see below.
 
-    [Pub. L. 100–690, § 7288][/us/pl/100/690/s7288], amended section generally. Prior to amendment, section read as follows: “The Administrator, in consultation with the Advisory Board, shall establish annual research, demonstration, and service program priorities for making grants and contracts pursuant to [section 5775 of this title][/us/usc/t42/s5775] and, not less than 60 days before establishing such priorities, shall publish in the Federal Register for public comment a statement of such proposed priorities.”
+    [Pub. L. 100–690][/us/pl/100/690], § 7288, amended section generally. Prior to amendment, section read as follows: “The Administrator, in consultation with the Advisory Board, shall establish annual research, demonstration, and service program priorities for making grants and contracts pursuant to [section 5775 of this title][/us/usc/t42/s5775] and, not less than 60 days before establishing such priorities, shall publish in the Federal Register for public comment a statement of such proposed priorities.”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -57,17 +57,17 @@
 ----------
 
 [/us/usc/t42/s5775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5775
-[/us/pl/93/415/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs406
-[/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2129
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4461
 [/us/pl/93/415/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs406
 [/us/usc/t42/s5775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5775
-[/us/pl/100/690/s7290/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7290%2Fb
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s5775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5775
-[/us/pl/100/690/s7288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7288
-[/us/pl/100/690/s7288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7288
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t42/s5775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5775
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa

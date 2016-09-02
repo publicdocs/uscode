@@ -39,7 +39,7 @@
 
         There are authorized to be appropriated for fiscal years 2009 through 2013, $2,000,000 to carry out the provisions of this section.
 
-([Pub. L. 110–401, title II, § 201][/us/pl/110/401/s201], Oct. 13, 2008, [122 Stat. 4241][/us/stat/122/4241].)
+([Pub. L. 110–401, title II][/us/pl/110/401/tII], § 201, Oct. 13, 2008, [122 Stat. 4241][/us/stat/122/4241].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/401/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs201
+[/us/pl/110/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtII
 [/us/stat/122/4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4241
 
 

@@ -145,11 +145,11 @@
 
             The regulations and plan revisions under paragraphs (1) and (2) shall not include any production or sales mandate for clean-fuel vehicles or clean alternative fuels. Such regulations and plan revisions shall also provide that vehicle manufacturers and fuel suppliers may not be subject to penalties or sanctions for failing to produce or sell clean-fuel vehicles or clean alternative fuels.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 249, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2525][/us/stat/104/2525].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 249, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2525][/us/stat/104/2525].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsec. (c)(2)(D), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle I of the Act is classified generally to subchapter IX (§ 6991 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (c)(2)(D), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle I of the Act is classified generally to subchapter IX (§ 6991 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     November 15, 1990, referred to in subsec. (e)(3), was in the original “the date of the Clean Air Act Amendments of 1990”, which was translated as meaning the date of enactment of [Pub. L. 101–549][/us/pl/101/549], which enacted this section, to reflect the probable intent of Congress.
 
@@ -167,11 +167,11 @@
 [/us/usc/t42/s7507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7507
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2525
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549

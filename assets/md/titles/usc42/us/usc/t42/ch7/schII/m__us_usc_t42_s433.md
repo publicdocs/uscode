@@ -57,7 +57,7 @@
 
         (2) Such an agreement shall become effective on any date, provided in the agreement, which occurs after the expiration of the period (following the date on which the agreement is transmitted in accordance with paragraph (1)) during which at least one House of the Congress has been in session on each of 60 days; except that such agreement shall not become effective if, during such period, either House of the Congress adopts a resolution of disapproval of the agreement.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 233, as added [Pub. L. 95–216, title III, § 317(a)][/us/pl/95/216/s317/a], Dec. 20, 1977, [91 Stat. 1538][/us/stat/91/1538]; amended [Pub. L. 97–35, title XXII, § 2201(b)(12)][/us/pl/97/35/s2201/b/12], Aug. 13, 1981, [95 Stat. 831][/us/stat/95/831]; [Pub. L. 98–21, title III, § 326(a)][/us/pl/98/21/s326/a], Apr. 20, 1983, [97 Stat. 126][/us/stat/97/126]; [Pub. L. 98–369, div. B, title VI, § 2663(j)(3)(A)(v)][/us/pl/98/369/s2663/j/3/A/v], July 18, 1984, [98 Stat. 1170][/us/stat/98/1170]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 233, as added [Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 317(a), Dec. 20, 1977, [91 Stat. 1538][/us/stat/91/1538]; amended [Pub. L. 97–35, title XXII][/us/pl/97/35/tXXII], § 2201(b)(12), Aug. 13, 1981, [95 Stat. 831][/us/stat/95/831]; [Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 326(a), Apr. 20, 1983, [97 Stat. 126][/us/stat/97/126]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(j)(3)(A)(v), July 18, 1984, [98 Stat. 1170][/us/stat/98/1170]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–21, title III, § 326(b)][/us/pl/98/21/s326/b], Apr. 20, 1983, [97 Stat. 126][/us/stat/97/126], provided that: 
+[Pub. L. 98–21, title III][/us/pl/98/21/tIII], § 326(b), Apr. 20, 1983, [97 Stat. 126][/us/stat/97/126], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective on the date of the enactment of this Act \[Apr. 20, 1983\].”
 
@@ -98,15 +98,15 @@
 [/us/usc/t42/s402/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Ft
 [/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/95/216/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs317%2Fa
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1538
-[/us/pl/97/35/s2201/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2201%2Fb%2F12
+[/us/pl/97/35/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXII
 [/us/stat/95/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F831
-[/us/pl/98/21/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs326%2Fa
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F126
-[/us/pl/98/369/s2663/j/3/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F3%2FA%2Fv
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1170
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -120,7 +120,7 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/98/21/s326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs326%2Fb
+[/us/pl/98/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIII
 [/us/stat/97/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F126
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F123

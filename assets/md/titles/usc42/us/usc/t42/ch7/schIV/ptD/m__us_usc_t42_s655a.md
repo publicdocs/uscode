@@ -23,7 +23,7 @@
 
     shall be considered to constitute expenses incurred in the administration of such State plan.
 
-([Pub. L. 94–566, title V, § 508(b)][/us/pl/94/566/s508/b], Oct. 20, 1976, [90 Stat. 2689][/us/stat/90/2689]; [Pub. L. 104–193, title I, § 110(a)][/us/pl/104/193/s110/a], Aug. 22, 1996, [110 Stat. 2171][/us/stat/110/2171]; [Pub. L. 105–220, title III, § 302(b)][/us/pl/105/220/s302/b], Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081].)
+([Pub. L. 94–566, title V][/us/pl/94/566/tV], § 508(b), Oct. 20, 1976, [90 Stat. 2689][/us/stat/90/2689]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(a), Aug. 22, 1996, [110 Stat. 2171][/us/stat/110/2171]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 302(b), Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081].)
 
  __Codification__ 
 
@@ -54,11 +54,11 @@
 
 [/us/usc/t42/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655
 [/us/usc/t29/s49b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b%2Fb
-[/us/pl/94/566/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs508%2Fb
+[/us/pl/94/566/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtV
 [/us/stat/90/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2689
-[/us/pl/104/193/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fa
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2171
-[/us/pl/105/220/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs302%2Fb
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1081
 [/us/usc/t42/s603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603a
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220

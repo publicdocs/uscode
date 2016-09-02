@@ -139,7 +139,7 @@
 
             (B) providing a specific recommendation on the continuation of authority to grant preferences.
 
-([Pub. L. 109–58, title III, § 342][/us/pl/109/58/s342], Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697]; [Pub. L. 113–188, title XI, § 1101][/us/pl/113/188/s1101], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 342, Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697]; [Pub. L. 113–188, title XI][/us/pl/113/188/tXI], § 1101, Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].)
 
  __References in Text__ 
 
@@ -163,9 +163,9 @@
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
 [/us/usc/t43/s1337/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337%2Fg
 [/us/usc/t43/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1353
-[/us/pl/109/58/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs342
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F697
-[/us/pl/113/188/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1101
+[/us/pl/113/188/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXI
 [/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F697

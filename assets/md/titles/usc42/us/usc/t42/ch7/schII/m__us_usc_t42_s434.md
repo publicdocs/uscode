@@ -111,29 +111,29 @@
 
                 Notwithstanding the other provisions of this paragraph, for purposes of paragraph (2)(A), the amount of an individual’s impairment-related work expenses for a month shall not exceed the amount of earnings derived from services, prescribed by the Commissioner under regulations issued pursuant to [section 423(d)(4)(A) of this title][/us/usc/t42/s423/d/4/A], sufficient to demonstrate an individual’s ability to engage in substantial gainful activity.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 234, as added [Pub. L. 106–170, title III, § 301(a)][/us/pl/106/170/s301/a], Dec. 17, 1999, [113 Stat. 1900][/us/stat/113/1900]; amended [Pub. L. 108–203, title IV, § 401][/us/pl/108/203/s401], Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525]; [Pub. L. 114–74, title VIII][/us/pl/114/74], §§ 821–823, Nov. 2, 2015, [129 Stat. 605][/us/stat/129/605].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 234, as added [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 301(a), Dec. 17, 1999, [113 Stat. 1900][/us/stat/113/1900]; amended [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 401, Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], §§ 821–823, Nov. 2, 2015, [129 Stat. 605][/us/stat/129/605].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–74, § 822(a)][/us/pl/114/74/s822/a], in introductory provisions, inserted “to promote attachment to the labor force and” after “designed”.
+    2015—Subsec. (a)(1). [Pub. L. 114–74][/us/pl/114/74], § 822(a), in introductory provisions, inserted “to promote attachment to the labor force and” after “designed”.
 
     Subsec. (c). [Pub. L. 114–74][/us/pl/114/74], §§ 821(b), 822(b), substituted “December 30, 2021” for “December 17, 2005” and inserted “including the objectives of the experiment or demonstration project, the expected annual and total costs, and the dates on which the experiment or demonstration project is expected to start and finish,” after “thereof,”.
 
-    Subsec. (d)(1). [Pub. L. 114–74, § 822(d)][/us/pl/114/74/s822/d], substituted “September 30” for “June 9”.
+    Subsec. (d)(1). [Pub. L. 114–74][/us/pl/114/74], § 822(d), substituted “September 30” for “June 9”.
 
-    Subsec. (d)(2). [Pub. L. 114–74, § 821(a)][/us/pl/114/74/s821/a], substituted “December 31, 2021, and the authority to carry out such projects shall terminate on December 31, 2022” for “December 18, 2005”.
+    Subsec. (d)(2). [Pub. L. 114–74][/us/pl/114/74], § 821(a), substituted “December 31, 2021, and the authority to carry out such projects shall terminate on December 31, 2022” for “December 18, 2005”.
 
-    Subsec. (e). [Pub. L. 114–74, § 822(c)][/us/pl/114/74/s822/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–74][/us/pl/114/74], § 822(c), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 114–74, § 823][/us/pl/114/74/s823], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–74][/us/pl/114/74], § 823, added subsec. (f).
 
-    2004—Subsec. (c). [Pub. L. 108–203, § 401(1)][/us/pl/108/203/s401/1], substituted “initiated under subsection (a) of this section on or before December 17, 2005” for “conducted under subsection (a) of this section”.
+    2004—Subsec. (c). [Pub. L. 108–203][/us/pl/108/203], § 401(1), substituted “initiated under subsection (a) of this section on or before December 17, 2005” for “conducted under subsection (a) of this section”.
 
-    Subsec. (d)(2). [Pub. L. 108–203, § 401(2)][/us/pl/108/203/s401/2], substituted “The authority to initiate projects under the preceding provisions of this section shall terminate on December 18, 2005.” for “The authority under the preceding provisions of this section (including any waiver granted pursuant to subsection (c) of this section) shall terminate 5 years after December 17, 1999.”
+    Subsec. (d)(2). [Pub. L. 108–203][/us/pl/108/203], § 401(2), substituted “The authority to initiate projects under the preceding provisions of this section shall terminate on December 18, 2005.” for “The authority under the preceding provisions of this section (including any waiver granted pursuant to subsection (c) of this section) shall terminate 5 years after December 17, 1999.”
 
  __Demonstration Projects Providing for Reductions in Disability Insurance Benefits Based on Earnings__ 
 
-[Pub. L. 106–170, title III, § 302][/us/pl/106/170/s302], Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902], as amended by [Pub. L. 108–203, title IV][/us/pl/108/203], §§ 402, 403, Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], provided that:
+[Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 302, Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902], as amended by [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], §§ 402, 403, Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -183,11 +183,11 @@
 
  __Study by General Accounting Office of the Impact of the Substantial Gainful Activity Limit on Return to Work__ 
 
-    [Pub. L. 106–170, title III, § 303(c)][/us/pl/106/170/s303/c], Dec. 17, 1999, [113 Stat. 1904][/us/stat/113/1904], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study of the substantial gainful activity level applicable as of that date to recipients of benefits under sections 402 and 423 of this title and the effect of such level as a disincentive for those recipients to return to work, to address the merits of increasing the substantial gainful activity level applicable to recipients and the rationale for not yearly indexing that level to inflation, and not later than 2 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General’s study conducted pursuant to this subsection and appropriate recommendations for legislative or administrative changes.
+    [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 303(c), Dec. 17, 1999, [113 Stat. 1904][/us/stat/113/1904], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study of the substantial gainful activity level applicable as of that date to recipients of benefits under sections 402 and 423 of this title and the effect of such level as a disincentive for those recipients to return to work, to address the merits of increasing the substantial gainful activity level applicable to recipients and the rationale for not yearly indexing that level to inflation, and not later than 2 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General’s study conducted pursuant to this subsection and appropriate recommendations for legislative or administrative changes.
 
  __Study by the Government Accountability Office of Social Security Administration’s Disability Insurance Program Demonstration Authority__ 
 
-    [Pub. L. 106–170, title III, § 303(e)][/us/pl/106/170/s303/e], Dec. 17, 1999, [113 Stat. 1905][/us/stat/113/1905], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General of the United States was to undertake a study to assess the results of the Social Security Administration’s efforts to conduct disability demonstrations authorized under prior law as well as under [42 U.S.C. 434][/us/usc/t42/s434] and, not later than 5 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General’s study conducted pursuant to [42 U.S.C. 434][/us/usc/t42/s434] and a recommendation as to whether the demonstration authority authorized under [42 U.S.C. 434][/us/usc/t42/s434] should be made permanent.
+    [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 303(e), Dec. 17, 1999, [113 Stat. 1905][/us/stat/113/1905], provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General of the United States was to undertake a study to assess the results of the Social Security Administration’s efforts to conduct disability demonstrations authorized under prior law as well as under [42 U.S.C. 434][/us/usc/t42/s434] and, not later than 5 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General’s study conducted pursuant to [42 U.S.C. 434][/us/usc/t42/s434] and a recommendation as to whether the demonstration authority authorized under [42 U.S.C. 434][/us/usc/t42/s434] should be made permanent.
 
 ----------
 
@@ -211,23 +211,23 @@
 [/us/usc/t42/s423/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fd%2F4%2FA
 [/us/usc/t42/s423/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fd%2F4%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/170/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs301%2Fa
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1900
-[/us/pl/108/203/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs401
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F525
-[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F605
-[/us/pl/114/74/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs822%2Fa
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/114/74/s822/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs822%2Fd
-[/us/pl/114/74/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs821%2Fa
-[/us/pl/114/74/s822/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs822%2Fc
-[/us/pl/114/74/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs823
-[/us/pl/108/203/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs401%2F1
-[/us/pl/108/203/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs401%2F2
-[/us/pl/106/170/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs302
-[/us/stat/113/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1902
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
+[/us/stat/113/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1902
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F525
 [/us/usc/t42/s1320b–19/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk%2F3
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
@@ -238,9 +238,9 @@
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/106/170/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs303%2Fc
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1904
-[/us/pl/106/170/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs303%2Fe
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1905
 [/us/usc/t42/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs434
 [/us/usc/t42/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs434

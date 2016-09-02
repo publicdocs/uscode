@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter $2,200,000,000 for fiscal year 2010 and such sums as may be necessary for fiscal year 2011.
 
-([Pub. L. 100–77, title IV, § 408][/us/pl/100/77/s408], as added [Pub. L. 111–22, div. B, title I, § 1105][/us/pl/111/22/s1105], May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 408, as added [Pub. L. 111–22, div. B, title I][/us/pl/111/22/dB/tI], § 1105, May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].)
 
  __Codification__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/100/77/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs408
-[/us/pl/111/22/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1105
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtI
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
 [/us/pl/111/22/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1105
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77

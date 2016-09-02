@@ -31,7 +31,7 @@
 
         (2) to state how they expect any award to further their transition to the significant use of renewable energy.
 
-([Pub. L. 109–58, title IX, § 935][/us/pl/109/58/s935], Aug. 8, 2005, [119 Stat. 873][/us/stat/119/873].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 935, Aug. 8, 2005, [119 Stat. 873][/us/stat/119/873].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/109/58/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs935
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F873
 
 

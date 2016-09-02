@@ -45,7 +45,7 @@
 
         Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety. Any such finding shall include a reasonably specific statement of the basis upon which the finding was made.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 231, as added [Pub. L. 91–604, § 11(a)(1)][/us/pl/91/604/s11/a/1], Dec. 31, 1970, [84 Stat. 1703][/us/stat/84/1703]; amended [Pub. L. 95–95, title II, § 225][/us/pl/95/95/s225], title IV, § 401(f), Aug. 7, 1977, [91 Stat. 769][/us/stat/91/769], 791; [Pub. L. 104–264, title IV, § 406(b)][/us/pl/104/264/s406/b], Oct. 9, 1996, [110 Stat. 3257][/us/stat/110/3257].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 231, as added [Pub. L. 91–604][/us/pl/91/604], § 11(a)(1), Dec. 31, 1970, [84 Stat. 1703][/us/stat/84/1703]; amended [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 225, title IV, § 401(f), Aug. 7, 1977, [91 Stat. 769][/us/stat/91/769], 791; [Pub. L. 104–264, title IV][/us/pl/104/264/tIV], § 406(b), Oct. 9, 1996, [110 Stat. 3257][/us/stat/110/3257].)
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 
     1996—Subsec. (a)(2). [Pub. L. 104–264][/us/pl/104/264] designated existing provisions as subpar. (A) and added subpar. (B).
 
-    1977—Subsec. (a)(2). [Pub. L. 95–95, § 401(f)][/us/pl/95/95/s401/f], substituted “The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “Within 180 days after commencing such study and investigation, the Administrator shall publish a report of such study and investigation and shall issue proposed emission standards applicable to emissions of any air pollutant from any class or classes of aircraft or aircraft engines which in his judgment cause or contribute to or are likely to cause or contribute to air pollution which endangers the public health or welfare”.
+    1977—Subsec. (a)(2). [Pub. L. 95–95][/us/pl/95/95], § 401(f), substituted “The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “Within 180 days after commencing such study and investigation, the Administrator shall publish a report of such study and investigation and shall issue proposed emission standards applicable to emissions of any air pollutant from any class or classes of aircraft or aircraft engines which in his judgment cause or contribute to or are likely to cause or contribute to air pollution which endangers the public health or welfare”.
 
-    Subsec. (c). [Pub. L. 95–95, § 225][/us/pl/95/95/s225], substituted “Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety” for “Any regulations under this section, or amendments thereto, with respect to aircraft, shall be prescribed only after consultation with the Secretary of Transportation in order to assure appropriate consideration for aircraft safety” and inserted provision that findings include a reasonably specific statement of the basis upon which the finding was made.
+    Subsec. (c). [Pub. L. 95–95][/us/pl/95/95], § 225, substituted “Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety” for “Any regulations under this section, or amendments thereto, with respect to aircraft, shall be prescribed only after consultation with the Secretary of Transportation in order to assure appropriate consideration for aircraft safety” and inserted provision that findings include a reasonably specific statement of the basis upon which the finding was made.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -73,7 +73,7 @@
 
  __Study and Investigation of Uninstalled Aircraft Engines__ 
 
-[Pub. L. 101–549, title II, § 233][/us/pl/101/549/s233], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529], provided that:
+[Pub. L. 101–549, title II][/us/pl/101/549/tII], § 233, Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -103,16 +103,16 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs11%2Fa%2F1
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1703
-[/us/pl/95/95/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs225
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F769
-[/us/pl/104/264/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs406%2Fb
+[/us/pl/104/264/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtIV
 [/us/stat/110/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3257
 [/us/usc/t42/s1857f–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%939
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
-[/us/pl/95/95/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs401%2Ff
-[/us/pl/95/95/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs225
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
@@ -123,7 +123,7 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fb
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/101/549/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs233
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
 
 

@@ -181,7 +181,7 @@
 
         (3) This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 ([15 U.S.C. 790a][/us/usc/t15/s790a]).
 
-([Pub. L. 95–91, title II, § 205][/us/pl/95/91/s205], Aug. 4, 1977, [91 Stat. 572][/us/stat/91/572]; [Pub. L. 99–509, title III, § 3101(a)][/us/pl/99/509/s3101/a], Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888]; [Pub. L. 102–486, title I, § 171][/us/pl/102/486/s171], Oct. 24, 1992, [106 Stat. 2864][/us/stat/106/2864]; [Pub. L. 109–58, title XV, § 1508][/us/pl/109/58/s1508], Aug. 8, 2005, [119 Stat. 1083][/us/stat/119/1083]; [Pub. L. 113–76, div. D, title III, § 315][/us/pl/113/76/s315], Jan. 17, 2014, [128 Stat. 177][/us/stat/128/177].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 205, Aug. 4, 1977, [91 Stat. 572][/us/stat/91/572]; [Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3101(a), Oct. 21, 1986, [100 Stat. 1888][/us/stat/100/1888]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 171, Oct. 24, 1992, [106 Stat. 2864][/us/stat/106/2864]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1508, Aug. 8, 2005, [119 Stat. 1083][/us/stat/119/1083]; [Pub. L. 113–76, div. D, title III][/us/pl/113/76/dD/tIII], § 315, Jan. 17, 2014, [128 Stat. 177][/us/stat/128/177].)
 
  __References in Text__ 
 
@@ -189,29 +189,29 @@
 
     This chapter, referred to in subsecs. (c), (h)(1)(B)(i), (2)(E) to (4), and (j)(2)(A), was in the original “this Act”, meaning [Pub. L. 95–91][/us/pl/95/91], Aug. 4, 1977, [91 Stat. 565][/us/stat/91/565], known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t42/s7101] and Tables.
 
-    Section 55 of part B of the Federal Energy Administration Act of 1974, referred to in subsec. (e), was classified to [section 790d of Title 15][/us/usc/t15/s790d], Commerce and Trade, and was repealed by [Pub. L. 104–66, title I, § 1051(k)][/us/pl/104/66/s1051/k], Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].
+    Section 55 of part B of the Federal Energy Administration Act of 1974, referred to in subsec. (e), was classified to [section 790d of Title 15][/us/usc/t15/s790d], Commerce and Trade, and was repealed by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(k), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].
 
     The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
  __Amendments__ 
 
-    2014—Subsec. (i)(1). [Pub. L. 113–76, § 315(1)][/us/pl/113/76/s315/1], substituted “once every four years” for “once every two years” in introductory provisions.
+    2014—Subsec. (i)(1). [Pub. L. 113–76][/us/pl/113/76], § 315(1), substituted “once every four years” for “once every two years” in introductory provisions.
 
-    Subsec. (k)(1). [Pub. L. 113–76, § 315(2)][/us/pl/113/76/s315/2], which directed amendment of par. (1) by substituting “once every four years” for “once every three years” was executed by making the substitution for “once every 3 years” to reflect the probable intent of Congress.
+    Subsec. (k)(1). [Pub. L. 113–76][/us/pl/113/76], § 315(2), which directed amendment of par. (1) by substituting “once every four years” for “once every three years” was executed by making the substitution for “once every 3 years” to reflect the probable intent of Congress.
 
     2005—Subsec. (m). [Pub. L. 109–58][/us/pl/109/58] added subsec. (m).
 
-    1992—Subsec. (i)(1). [Pub. L. 102–486, § 171(a)(1)][/us/pl/102/486/s171/a/1], in introductory provisions, substituted “at least once every two years” for “on at least a triennial basis”.
+    1992—Subsec. (i)(1). [Pub. L. 102–486][/us/pl/102/486], § 171(a)(1), in introductory provisions, substituted “at least once every two years” for “on at least a triennial basis”.
 
-    Subsec. (i)(1)(D). [Pub. L. 102–486, § 171(a)(2)][/us/pl/102/486/s171/a/2], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “use of nonpurchased sources of energy, such as cogeneration and waste by-products.”
+    Subsec. (i)(1)(D). [Pub. L. 102–486][/us/pl/102/486], § 171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “use of nonpurchased sources of energy, such as cogeneration and waste by-products.”
 
-    Subsecs. (j) to (l). [Pub. L. 102–486, § 171(b)][/us/pl/102/486/s171/b], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 102–486][/us/pl/102/486], § 171(b), added subsecs. (j) to (l).
 
     1986—Subsec. (i). [Pub. L. 99–509][/us/pl/99/509] added subsec. (i).
 
  __End Use Consumption Surveys; Manufacturing Energy Consumption Survey__ 
 
-[Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title II\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–188; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title II\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–188; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
 
 > “That notwithstanding section 4(d) of the Service Contract Act of 1965 ([41 U.S.C. 353(d)][/us/usc/t41/s353/d]) \[now [41 U.S.C. 6707(d)][/us/usc/t41/s6707/d]\] or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY, energy information administration\] hereafter may be used to enter into a contract for end use consumption surveys for a term not to exceed eight years: Provided further, That notwithstanding any other provision of law, hereafter the Manufacturing Energy Consumption Survey shall be conducted on a triennial basis.”
 
@@ -237,15 +237,15 @@
 [/us/usc/t15/s790a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790a
 [/us/usc/t15/s790a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790a%2Fa
 [/us/usc/t15/s790a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790a
-[/us/pl/95/91/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs205
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
 [/us/stat/91/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F572
-[/us/pl/99/509/s3101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3101%2Fa
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1888
-[/us/pl/102/486/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs171
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2864
-[/us/pl/109/58/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1508
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1083
-[/us/pl/113/76/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs315
+[/us/pl/113/76/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtIII
 [/us/stat/128/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F177
 [/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F96
@@ -254,21 +254,21 @@
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 [/us/usc/t15/s790d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790d
-[/us/pl/104/66/s1051/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fk
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F717
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
-[/us/pl/113/76/s315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs315%2F1
-[/us/pl/113/76/s315/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs315%2F2
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/102/486/s171/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs171%2Fa%2F1
-[/us/pl/102/486/s171/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs171%2Fa%2F2
-[/us/pl/102/486/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs171%2Fb
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/usc/t41/s353/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs353%2Fd
 [/us/usc/t41/s6707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6707%2Fd

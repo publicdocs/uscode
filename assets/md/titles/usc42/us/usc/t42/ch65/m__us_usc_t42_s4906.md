@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 92–574, § 7(a)][/us/pl/92/574/s7/a], Oct. 27, 1972, [86 Stat. 1239][/us/stat/86/1239], related to a study by the Administrator of the adequacy of noise controls, noise emission standards, and measures available to control such noise, the results of such study to be reported to the appropriate committees of Congress within nine months after Oct. 27, 1972.
+    Section, [Pub. L. 92–574][/us/pl/92/574], § 7(a), Oct. 27, 1972, [86 Stat. 1239][/us/stat/86/1239], related to a study by the Administrator of the adequacy of noise controls, noise emission standards, and measures available to control such noise, the results of such study to be reported to the appropriate committees of Congress within nine months after Oct. 27, 1972.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/574/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs7%2Fa
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1239
 
 

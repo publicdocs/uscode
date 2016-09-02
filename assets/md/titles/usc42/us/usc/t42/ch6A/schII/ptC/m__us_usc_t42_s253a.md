@@ -27,7 +27,7 @@
 
         The National Oceanic and Atmospheric Administration shall furnish proper identification to those persons entitled to medical treatment under the provisions of this section.
 
-([Pub. L. 88–71, § 1][/us/pl/88/71/s1], July 19, 1963, [77 Stat. 83][/us/stat/77/83]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 98–498, title III, § 310(b)][/us/pl/98/498/s310/b], (c), Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306], 2307.)
+([Pub. L. 88–71][/us/pl/88/71], § 1, July 19, 1963, [77 Stat. 83][/us/stat/77/83]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 98–498, title III][/us/pl/98/498/tIII], § 310(b), (c), Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306], 2307.)
 
  __Codification__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–498, § 310(b)][/us/pl/98/498/s310/b], substituted “by the Public Health Service if” for “at facilities of the Public Health Service: Provided, That”.
+    1984—Subsec. (a). [Pub. L. 98–498][/us/pl/98/498], § 310(b), substituted “by the Public Health Service if” for “at facilities of the Public Health Service: Provided, That”.
 
-    Subsec. (b). [Pub. L. 98–498, § 310(c)][/us/pl/98/498/s310/c], struck out “at its hospitals and relief stations” before “and, if suitable accommodations” and substituted “by the Public Health Service if” for “at hospitals of the Public Health Service: Provided, That”.
+    Subsec. (b). [Pub. L. 98–498][/us/pl/98/498], § 310(c), struck out “at its hospitals and relief stations” before “and, if suitable accommodations” and substituted “by the Public Health Service if” for “at hospitals of the Public Health Service: Provided, That”.
 
  __Change of Name__ 
 
@@ -113,14 +113,14 @@
 ----------
 
 [/us/usc/t10/s1078/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1078%2Fa
-[/us/pl/88/71/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71%2Fs1
+[/us/pl/88/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F71
 [/us/stat/77/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F83
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/98/498/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs310%2Fb
+[/us/pl/98/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtIII
 [/us/stat/98/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2306
-[/us/pl/98/498/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs310%2Fb
-[/us/pl/98/498/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs310%2Fc
+[/us/pl/98/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498
+[/us/pl/98/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t33/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs851

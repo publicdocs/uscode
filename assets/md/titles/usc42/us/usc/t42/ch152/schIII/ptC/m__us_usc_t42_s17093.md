@@ -43,7 +43,7 @@
 
         The Federal Director shall consult with the Advisory Committee to enhance, and assist in the implementation of, the Office of Management and Budget government efficiency reports and scorecards under [section 17144 of this title][/us/usc/t42/s17144] and the Environmental Stewardship Scorecard announced at the White House summit on Federal sustainable buildings in January 2006, to measure the implementation by each Federal agency of sustainable design and green building initiatives.
 
-([Pub. L. 110–140, title IV, § 437][/us/pl/110/140/s437], Dec. 19, 2007, [121 Stat. 1619][/us/stat/121/1619].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 437, Dec. 19, 2007, [121 Stat. 1619][/us/stat/121/1619].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t42/s17091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17091
 [/us/usc/t42/s17092/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092%2Fd
 [/us/usc/t42/s17144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17144
-[/us/pl/110/140/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs437
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1619
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

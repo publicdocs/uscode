@@ -17,11 +17,11 @@
 
     The participation by any individual in any program or portion thereof under this part shall be wholly voluntary and shall not be a prerequisite to eligibility for or receipt of any other service or assistance from, or to participation in, any other program.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1103, as added [Pub. L. 94–278, title IV, § 403(a)][/us/pl/94/278/s403/a], Apr. 22, 1976, [90 Stat. 408][/us/stat/90/408].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1103, as added [Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(a), Apr. 22, 1976, [90 Stat. 408][/us/stat/90/408].)
 
  __Prior Provisions__ 
 
-    A prior section 300b–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1103, as added May 16, 1972, [Pub. L. 92–294, § 3(c)][/us/pl/92/294/s3/c], [86 Stat. 138][/us/stat/86/138]; amended Aug. 29, 1972, [Pub. L. 92–414, § 4(3)][/us/pl/92/414/s4/3], [86 Stat. 652][/us/stat/86/652], was identical to this section, prior to repeal by [Pub. L. 94–278, title IV, § 403(a)][/us/pl/94/278/s403/a], Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407].
+    A prior section 300b–2, [act July 1, 1944, ch. 373, title XI][/us/act/1944-07-01/ch373/tXI], § 1103, as added May 16, 1972, [Pub. L. 92–294][/us/pl/92/294], § 3(c), [86 Stat. 138][/us/stat/86/138]; amended Aug. 29, 1972, [Pub. L. 92–414][/us/pl/92/414], § 4(3), [86 Stat. 652][/us/stat/86/652], was identical to this section, prior to repeal by [Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(a), Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407].
 
 ----------
 
@@ -31,14 +31,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/278/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fa
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/92/294/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294%2Fs3%2Fc
+[/us/act/1944-07-01/ch373/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXI
+[/us/pl/92/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294
 [/us/stat/86/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F138
-[/us/pl/92/414/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F414%2Fs4%2F3
+[/us/pl/92/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F414
 [/us/stat/86/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F652
-[/us/pl/94/278/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fa
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F407
 
 

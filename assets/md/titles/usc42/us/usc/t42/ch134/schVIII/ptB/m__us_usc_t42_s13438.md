@@ -33,7 +33,7 @@
 
         This study shall be completed no more than one hundred and eighty days after October 24, 1992. A report, summarizing the results of the study, shall be transmitted to the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate no more than sixty days after completion of this study.
 
-([Pub. L. 102–486, title XX, § 2028][/us/pl/102/486/s2028], Oct. 24, 1992, [106 Stat. 3067][/us/stat/106/3067].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2028, Oct. 24, 1992, [106 Stat. 3067][/us/stat/106/3067].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2028
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3067
 
 

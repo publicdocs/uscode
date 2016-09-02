@@ -49,7 +49,7 @@
 
         The term “obligation” means the loan or other debt obligation that is guaranteed under this section.
 
-([Pub. L. 109–58, title XVII, § 1701][/us/pl/109/58/s1701], Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117].)
+([Pub. L. 109–58, title XVII][/us/pl/109/58/tXVII], § 1701, Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117].)
 
 ----------
 
@@ -62,7 +62,7 @@
 [/us/usc/t42/s16513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16513
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/109/58/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1701
+[/us/pl/109/58/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVII
 [/us/stat/119/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1117
 
 

@@ -59,23 +59,23 @@
 
         (2) has not been subjected to all appropriate forensic testing because of a lack of resources or personnel.
 
-([Pub. L. 90–351, title I, § 2804][/us/pl/90/351/s2804], as added [Pub. L. 106–561, § 2(c)(1)][/us/pl/106/561/s2/c/1], Dec. 21, 2000, [114 Stat. 2789][/us/stat/114/2789]; amended [Pub. L. 107–273, div. B, title V, § 5001(b)(4)][/us/pl/107/273/s5001/b/4], Nov. 2, 2002, [116 Stat. 1814][/us/stat/116/1814]; [Pub. L. 108–405, title III, § 311(a)][/us/pl/108/405/s311/a], Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2804, as added [Pub. L. 106–561][/us/pl/106/561], § 2(c)(1), Dec. 21, 2000, [114 Stat. 2789][/us/stat/114/2789]; amended [Pub. L. 107–273, div. B, title V][/us/pl/107/273/dB/tV], § 5001(b)(4), Nov. 2, 2002, [116 Stat. 1814][/us/stat/116/1814]; [Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 311(a), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–405, § 311(a)(1)][/us/pl/108/405/s311/a/1], substituted “shall use the grant to do any one or more of the following:
+    2004—Subsec. (a). [Pub. L. 108–405][/us/pl/108/405], § 311(a)(1), substituted “shall use the grant to do any one or more of the following:
 
     “(1) To carry out”
 
     for “shall use the grant to carry out” and added pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 108–405, § 311(a)(2)][/us/pl/108/405/s311/a/2], substituted “for the purpose set forth in subsection (a)(1) of this section” for “under this subchapter” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–405][/us/pl/108/405], § 311(a)(2), substituted “for the purpose set forth in subsection (a)(1) of this section” for “under this subchapter” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 108–405, § 311(a)(3)][/us/pl/108/405/s311/a/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–405][/us/pl/108/405], § 311(a)(3), added subsec. (e).
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 5001(b)(4)(A)][/us/pl/107/273/s5001/b/4/A], inserted “or unit of local government” after “A State”.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 5001(b)(4)(A), inserted “or unit of local government” after “A State”.
 
-    Subsec. (c)(1). [Pub. L. 107–273, § 5001(b)(4)(B)][/us/pl/107/273/s5001/b/4/B], inserted “(including grants received by units of local government within a State)” after “under this subchapter”.
+    Subsec. (c)(1). [Pub. L. 107–273][/us/pl/107/273], § 5001(b)(4)(B), inserted “(including grants received by units of local government within a State)” after “under this subchapter”.
 
 ----------
 
@@ -84,17 +84,17 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2804
-[/us/pl/106/561/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs2%2Fc%2F1
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2789
-[/us/pl/107/273/s5001/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F4
+[/us/pl/107/273/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtV
 [/us/stat/116/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1814
-[/us/pl/108/405/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs311%2Fa
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2276
-[/us/pl/108/405/s311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs311%2Fa%2F1
-[/us/pl/108/405/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs311%2Fa%2F2
-[/us/pl/108/405/s311/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs311%2Fa%2F3
-[/us/pl/107/273/s5001/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F4%2FA
-[/us/pl/107/273/s5001/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs5001%2Fb%2F4%2FB
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 
 

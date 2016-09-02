@@ -113,7 +113,7 @@
 
         With respect to compliance with subsection (a) as a condition of the receipt of a grant under [section 300d–11(a) of this title][/us/usc/t42/s300d–11/a], such subsection may not be construed to specify the number of trauma care centers designated pursuant to such subsection.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1213, as added [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2920][/us/stat/104/2920]; amended [Pub. L. 103–183, title VI, § 601(f)(3)][/us/pl/103/183/s601/f/3], Dec. 14, 1993, [107 Stat. 2239][/us/stat/107/2239]; [Pub. L. 105–392, title IV, § 401(b)(4)][/us/pl/105/392/s401/b/4], Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; [Pub. L. 110–23, § 7][/us/pl/110/23/s7], May 3, 2007, [121 Stat. 93][/us/stat/121/93].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1213, as added [Pub. L. 101–590][/us/pl/101/590], § 3, Nov. 16, 1990, [104 Stat. 2920][/us/stat/104/2920]; amended [Pub. L. 103–183, title VI][/us/pl/103/183/tVI], § 601(f)(3), Dec. 14, 1993, [107 Stat. 2239][/us/stat/107/2239]; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 401(b)(4), Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; [Pub. L. 110–23][/us/pl/110/23], § 7, May 3, 2007, [121 Stat. 93][/us/stat/121/93].)
 
  __Amendments__ 
 
@@ -121,11 +121,11 @@
 
     1998—Subsec. (a)(8). [Pub. L. 105–392][/us/pl/105/392] substituted “provides for” for “provides for for”.
 
-    1993—Subsec. (a)(4). [Pub. L. 103–183, § 601(f)(3)(A)][/us/pl/103/183/s601/f/3/A], substituted “[section 1395dd of this title][/us/usc/t42/s1395dd])” for “[section 1395dd of this title][/us/usc/t42/s1395dd]”.
+    1993—Subsec. (a)(4). [Pub. L. 103–183][/us/pl/103/183], § 601(f)(3)(A), substituted “[section 1395dd of this title][/us/usc/t42/s1395dd])” for “[section 1395dd of this title][/us/usc/t42/s1395dd]”.
 
-    Subsec. (a)(8), (9). [Pub. L. 103–183, § 601(f)(3)(B)][/us/pl/103/183/s601/f/3/B], substituted “provides for” for “to provide” wherever appearing.
+    Subsec. (a)(8), (9). [Pub. L. 103–183][/us/pl/103/183], § 601(f)(3)(B), substituted “provides for” for “to provide” wherever appearing.
 
-    Subsec. (a)(10). [Pub. L. 103–183, § 601(f)(3)(C)][/us/pl/103/183/s601/f/3/C], substituted “conducts” for “to conduct”.
+    Subsec. (a)(10). [Pub. L. 103–183][/us/pl/103/183], § 601(f)(3)(C), substituted “conducts” for “to conduct”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -144,21 +144,21 @@
 [/us/usc/t42/s300d–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9311%2Fa
 [/us/usc/t42/s300d–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9311%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs3
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2920
-[/us/pl/103/183/s601/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Ff%2F3
+[/us/pl/103/183/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVI
 [/us/stat/107/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2239
-[/us/pl/105/392/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fb%2F4
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3587
-[/us/pl/110/23/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23%2Fs7
+[/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F93
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/pl/103/183/s601/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Ff%2F3%2FA
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
-[/us/pl/103/183/s601/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Ff%2F3%2FB
-[/us/pl/103/183/s601/f/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Ff%2F3%2FC
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/105/392/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fe

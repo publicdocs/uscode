@@ -41,7 +41,7 @@
 
         (2) each of the dollar amounts in effect under subsections (a)(2)(A) and (b)(2) of [section 1382 of this title][/us/usc/t42/s1382], as previously increased under this section, shall be increased by $360.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1617, as added [Pub. L. 93–368, § 6(b)][/us/pl/93/368/s6/b], Aug. 7, 1974, [88 Stat. 421][/us/stat/88/421]; amended [Pub. L. 97–248, title I, § 182(a)][/us/pl/97/248/s182/a], Sept. 3, 1982, [96 Stat. 404][/us/stat/96/404]; [Pub. L. 98–21, title IV, § 401][/us/pl/98/21/s401], Apr. 20, 1983, [97 Stat. 138][/us/stat/97/138].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1617, as added [Pub. L. 93–368][/us/pl/93/368], § 6(b), Aug. 7, 1974, [88 Stat. 421][/us/stat/88/421]; amended [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 182(a), Sept. 3, 1982, [96 Stat. 404][/us/stat/96/404]; [Pub. L. 98–21, title IV][/us/pl/98/21/tIV], § 401, Apr. 20, 1983, [97 Stat. 138][/us/stat/97/138].)
 
  __References in Text__ 
 
@@ -49,17 +49,17 @@
 
  __Amendments__ 
 
-    1983—Subsec. (a)(2). [Pub. L. 98–21, § 401(b)][/us/pl/98/21/s401/b], inserted provision that the amount obtained under par. (1) with respect to each subsection shall be further increased by the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, if greater, in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage.
+    1983—Subsec. (a)(2). [Pub. L. 98–21][/us/pl/98/21], § 401(b), inserted provision that the amount obtained under par. (1) with respect to each subsection shall be further increased by the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, if greater, in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage.
 
-    Subsec. (b). [Pub. L. 98–21, § 401(a)(2)][/us/pl/98/21/s401/a/2], substituted “subsection (a) of this subsection” for “this section”.
+    Subsec. (b). [Pub. L. 98–21][/us/pl/98/21], § 401(a)(2), substituted “subsection (a) of this subsection” for “this section”.
 
-    Subsec. (c). [Pub. L. 98–21, § 401(a)(1)][/us/pl/98/21/s401/a/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–21][/us/pl/98/21], § 401(a)(1), added subsec. (c).
 
     1982—[Pub. L. 97–248][/us/pl/97/248] redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base for rounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title I, § 182(b)][/us/pl/97/248/s182/b], Sept. 3, 1982, [96 Stat. 405][/us/stat/96/405], provided that: 
+[Pub. L. 97–248, title I][/us/pl/97/248/tI], § 182(b), Sept. 3, 1982, [96 Stat. 405][/us/stat/96/405], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
 
@@ -87,21 +87,21 @@
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/368/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F368%2Fs6%2Fb
+[/us/pl/93/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F368
 [/us/stat/88/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F421
-[/us/pl/97/248/s182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs182%2Fa
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F404
-[/us/pl/98/21/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs401
+[/us/pl/98/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtIV
 [/us/stat/97/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F138
 [/us/pl/93/66/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs211
 [/us/pl/93/66/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs211
 [/us/stat/87/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F154
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
-[/us/pl/98/21/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs401%2Fb
-[/us/pl/98/21/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs401%2Fa%2F2
-[/us/pl/98/21/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs401%2Fa%2F1
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/248/s182/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs182%2Fb
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F405
 [/us/pl/98/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F604%2Fs1
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415

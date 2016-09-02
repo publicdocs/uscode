@@ -53,11 +53,11 @@
 
         All positions in the Department which the Secretary determines are devoted to intelligence and intelligence-related activities of the United States Government are excepted from the competitive service, and the individuals who occupy such positions as of August 14, 1991, shall, while employed in such positions, be exempt from the competitive service.
 
-([Pub. L. 95–91, title VI, § 621][/us/pl/95/91/s621], Aug. 4, 1977, [91 Stat. 596][/us/stat/91/596]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 102–88, title IV, § 403][/us/pl/102/88/s403], Aug. 14, 1991, [105 Stat. 434][/us/stat/105/434].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 621, Aug. 4, 1977, [91 Stat. 596][/us/stat/91/596]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 102–88, title IV][/us/pl/102/88/tIV], § 403, Aug. 14, 1991, [105 Stat. 434][/us/stat/105/434].)
 
  __References in Text__ 
 
-    [Section 5108(a) of title 5][/us/usc/t5/s5108/a], referred to in subsec. (c)(1), was amended generally by [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 102(b)(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443, and, as so amended, contains only one sentence.
+    [Section 5108(a) of title 5][/us/usc/t5/s5108/a], referred to in subsec. (c)(1), was amended generally by [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 102(b)(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443, and, as so amended, contains only one sentence.
 
     This chapter, referred to in subsecs. (c)(2) and (d), was in the original “this Act”, meaning [Pub. L. 95–91][/us/pl/95/91], Aug. 4, 1977, [91 Stat. 565][/us/stat/91/565], known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t42/s7101] and Tables.
 
@@ -79,7 +79,7 @@
 
  __Appointments of Exceptionally Well Qualified Individuals to Scientific, Engineering, or Other Critical Technical Positions__ 
 
-[Pub. L. 113–76, div. D, title III, § 313][/us/pl/113/76/s313], Jan. 17, 2014, [128 Stat. 176][/us/stat/128/176], provided that:
+[Pub. L. 113–76, div. D, title III][/us/pl/113/76/dD/tIII], § 313, Jan. 17, 2014, [128 Stat. 176][/us/stat/128/176], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -139,7 +139,7 @@
 
  __Authority for Appointment of Certain Scientific, Engineering, and Technical Personnel__ 
 
-    [Pub. L. 103–337, div. C, title XXXI, § 3161][/us/pl/103/337/s3161], Oct. 5, 1994, [108 Stat. 3095][/us/stat/108/3095], as amended by [Pub. L. 105–85, div. C, title XXXI, § 3139][/us/pl/105/85/s3139], Nov. 18, 1997, [111 Stat. 2040][/us/stat/111/2040]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261], §§ 3152, 3155, Oct. 17, 1998, [112 Stat. 2253][/us/stat/112/2253], 2257; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3191\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; [Pub. L. 107–314, div. C, title XXXI, § 3174][/us/pl/107/314/s3174], Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], which was formerly set out as a note under this section, was renumbered [section 4601 of Pub. L. 107–314][/us/pl/107/314/s4601], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(2)][/us/pl/108/136/s3141/i/2], Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776], and is classified to [section 2701 of Title 50][/us/usc/t50/s2701], War and National Defense.
+    [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3161, Oct. 5, 1994, [108 Stat. 3095][/us/stat/108/3095], as amended by [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3139, Nov. 18, 1997, [111 Stat. 2040][/us/stat/111/2040]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], §§ 3152, 3155, Oct. 17, 1998, [112 Stat. 2253][/us/stat/112/2253], 2257; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3191\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; [Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3174, Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], which was formerly set out as a note under this section, was renumbered [section 4601 of Pub. L. 107–314][/us/pl/107/314/s4601], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(2), Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776], and is classified to [section 2701 of Title 50][/us/usc/t50/s2701], War and National Defense.
 
 ----------
 
@@ -153,13 +153,13 @@
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108%2Fa
-[/us/pl/95/91/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs621
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F596
 [/us/stat/92/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3784
-[/us/pl/102/88/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs403
+[/us/pl/102/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIV
 [/us/stat/105/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F434
 [/us/usc/t5/s5108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108%2Fa
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
@@ -171,23 +171,23 @@
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/113/76/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs313
+[/us/pl/113/76/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtIII
 [/us/stat/128/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F176
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t5/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301
-[/us/pl/103/337/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3161
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3095
-[/us/pl/105/85/s3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3139
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2040
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2253
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3174
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2745
 [/us/pl/107/314/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4601
-[/us/pl/108/136/s3141/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F2
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1776
 [/us/usc/t50/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2701
 

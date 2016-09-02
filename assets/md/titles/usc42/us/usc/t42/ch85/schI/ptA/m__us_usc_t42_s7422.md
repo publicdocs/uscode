@@ -31,11 +31,11 @@
 
         (3) In case of any standard or emission limitation promulgated by the Administrator, under this chapter or by any State (or the Administrator) under any applicable implementation plan under this chapter, if the Nuclear Regulatory Commission determines, after notice and opportunity for public hearing that the application of such standard or limitation to a source or facility within the jurisdiction of the Commission would endanger public health or safety, such standard or limitation shall not apply to such facilities or sources unless the President determines otherwise within ninety days from the date of such finding.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 122, as added [Pub. L. 95–95, title I, § 120(a)][/us/pl/95/95/s120/a], Aug. 7, 1977, [91 Stat. 720][/us/stat/91/720].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 122, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 120(a), Aug. 7, 1977, [91 Stat. 720][/us/stat/91/720].)
 
  __References in Text__ 
 
-    Section 7412(b)(1), referred to in subsec. (a), was amended generally by [Pub. L. 101–549, title III, § 301][/us/pl/101/549/s301], Nov. 15, 1990, [104 Stat. 2531][/us/stat/104/2531], and, as so amended, no longer contains a subpar. (A).
+    Section 7412(b)(1), referred to in subsec. (a), was amended generally by [Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 301, Nov. 15, 1990, [104 Stat. 2531][/us/stat/104/2531], and, as so amended, no longer contains a subpar. (A).
 
  __Effective Date__ 
 
@@ -47,7 +47,7 @@
 
  __Study by Administrator of Environmental Protection Agency__ 
 
-    [Pub. L. 95–95, title I, § 120(b)][/us/pl/95/95/s120/b], Aug. 7, 1977, [91 Stat. 721][/us/stat/91/721], directed Administrator of Environmental Protection Agency to conduct a study, in conjunction with other appropriate agencies, concerning effect on public health and welfare of sulfates, radioactive pollutants, cadmium, arsenic, and polycyclic organic matter which are present or may reasonably be anticipated to occur in the ambient air, such study to include a thorough investigation of how sulfates are formed and how to protect public health and welfare from the injurious effects, if any, of sulfates, cadmium, arsenic, and polycyclic organic matter.
+    [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 120(b), Aug. 7, 1977, [91 Stat. 721][/us/stat/91/721], directed Administrator of Environmental Protection Agency to conduct a study, in conjunction with other appropriate agencies, concerning effect on public health and welfare of sulfates, radioactive pollutants, cadmium, arsenic, and polycyclic organic matter which are present or may reasonably be anticipated to occur in the ambient air, such study to include a thorough investigation of how sulfates are formed and how to protect public health and welfare from the injurious effects, if any, of sulfates, cadmium, arsenic, and polycyclic organic matter.
 
 ----------
 
@@ -58,15 +58,15 @@
 
 [/us/usc/t42/s7411/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411%2Fb%2F1%2FA
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs120%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F720
-[/us/pl/101/549/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs301
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2531
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841
-[/us/pl/95/95/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs120%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F721
 
 

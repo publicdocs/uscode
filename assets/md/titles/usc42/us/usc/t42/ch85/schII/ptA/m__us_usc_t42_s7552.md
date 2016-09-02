@@ -39,7 +39,7 @@
 
         Nothing in this subsection shall be construed to limit the Administrator’s authority to require manufacturer or confirmatory testing as provided in this part.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 217, as added [Pub. L. 101–549, title II, § 225][/us/pl/101/549/s225], Nov. 15, 1990, [104 Stat. 2504][/us/stat/104/2504].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 217, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 225, Nov. 15, 1990, [104 Stat. 2504][/us/stat/104/2504].)
 
 ----------
 
@@ -53,7 +53,7 @@
 [/us/usc/t42/s7525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525%2Fb
 [/us/usc/t42/s7541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7541%2Fc
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs225
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2504
 
 

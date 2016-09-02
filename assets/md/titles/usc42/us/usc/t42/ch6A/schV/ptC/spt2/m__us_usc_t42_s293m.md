@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_ch6A_schV_ptC_spt2.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_ch6A_schV_ptD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293m)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_ch6A_schV_ptC_spt2.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_s293n...293p.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293m)
 
 ## § 293m. Rural physician training grants
 
@@ -95,45 +95,26 @@
 
         There are authorized to be appropriated $4,000,000 for each of the fiscal years 2010 through 2013.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 749B, as added [Pub. L. 111–148, title X, § 10501][/us/pl/111/148/s10501](l)(2), Mar. 23, 2010, [124 Stat. 1000][/us/stat/124/1000].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 749B, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10501(l)(2), Mar. 23, 2010, [124 Stat. 1000][/us/stat/124/1000].)
 
  __Prior Provisions__ 
 
-    A prior section 293m, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 749, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2043][/us/stat/106/2043], authorized grants and contracts for development of programs in general practice of dentistry, prior to repeal by [Pub. L. 105–392, title I, § 102(4)][/us/pl/105/392/s102/4], Nov. 13, 1998, [112 Stat. 3539][/us/stat/112/3539].
-
-§§ 293n to 293p. __Repealed.__  __[__  __Pub. L. 105–392, title I, § 102(4)__  __][/us/pl/105/392/s102/4]__  __,__  __Nov. 13, 1998__  __,__  __[__  __112 Stat. 3539__  __][/us/stat/112/3539]__ 
-
-    Section 293n, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 750, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2044][/us/stat/106/2044], authorized grants and contracts for development of training programs for physician assistants.
-
-    Section 293o, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 751, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2044][/us/stat/106/2044], authorized grants and contracts for implementation of training projects for podiatric physicians.
-
-    Section 293p, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 752, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2045][/us/stat/106/2045], set forth general provisions relating to traineeships and fellowships.
+    A prior section 293m, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 749, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2043][/us/stat/106/2043], authorized grants and contracts for development of programs in general practice of dentistry, prior to repeal by [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 102(4), Nov. 13, 1998, [112 Stat. 3539][/us/stat/112/3539].
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_ch6A_schV_ptC_spt2.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schV/ptD/m__us_usc_t42_ch6A_schV_ptD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293m)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_ch6A_schV_ptC_spt2.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schV/ptC/spt2/m__us_usc_t42_s293n...293p.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293m)
 
 ----------
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1000
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2043
-[/us/pl/105/392/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs102%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3539
-[/us/pl/105/392/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs102%2F4
-[/us/stat/112/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3539
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
-[/us/stat/106/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2044
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
-[/us/stat/106/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2044
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
-[/us/stat/106/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2045
 
 

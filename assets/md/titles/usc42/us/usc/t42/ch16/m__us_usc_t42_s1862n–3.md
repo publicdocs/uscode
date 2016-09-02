@@ -37,7 +37,7 @@
 
             Not later than 1 year after December 19, 2002, and annually thereafter as part of the annual Office of Science and Technology Policy’s budget submission to Congress, the Director of the Office of Science and Technology Policy shall complete a report on the review carried out under this subsection and shall submit the report to the Committee on Science and the Committee on Appropriations of the House of Representatives, and to the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate.
 
-([Pub. L. 107–368, § 12][/us/pl/107/368/s12], Dec. 19, 2002, [116 Stat. 3054][/us/stat/116/3054].)
+([Pub. L. 107–368][/us/pl/107/368], § 12, Dec. 19, 2002, [116 Stat. 3054][/us/stat/116/3054].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/107/368/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs12
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3054
 [/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3034

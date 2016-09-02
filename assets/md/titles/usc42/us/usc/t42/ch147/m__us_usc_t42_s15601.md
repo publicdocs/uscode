@@ -71,11 +71,11 @@
 
         (D) the risk of recidivism, civil strife, and violent crime by individuals who have been brutalized by prison rape.
 
-([Pub. L. 108–79, § 2][/us/pl/108/79/s2], Sept. 4, 2003, [117 Stat. 972][/us/stat/117/972].)
+([Pub. L. 108–79][/us/pl/108/79], § 2, Sept. 4, 2003, [117 Stat. 972][/us/stat/117/972].)
 
  __Short Title__ 
 
-[Pub. L. 108–79, § 1(a)][/us/pl/108/79/s1/a], Sept. 4, 2003, [117 Stat. 972][/us/stat/117/972], provided that: 
+[Pub. L. 108–79][/us/pl/108/79], § 1(a), Sept. 4, 2003, [117 Stat. 972][/us/stat/117/972], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Prison Rape Elimination Act of 2003’.”
 
@@ -108,9 +108,9 @@
 ----------
 ----------
 
-[/us/pl/108/79/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs2
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F972
-[/us/pl/108/79/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs1%2Fa
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F972
 [/us/usc/t42/s15602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15602%2F1
 

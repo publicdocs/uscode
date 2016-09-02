@@ -17,7 +17,7 @@
 
     The Attorney General may award, and a Member of Congress or the Attorney General may present, in the name of Congress a State and Local Law Enforcement Congressional Badge of Bravery to a State or local law enforcement officer who is cited by the Attorney General, upon the recommendation of the State and Local Board, for performing an act of bravery while in the line of duty.
 
-([Pub. L. 110–298, title II, § 201][/us/pl/110/298/s201], July 31, 2008, [122 Stat. 2990][/us/stat/122/2990].)
+([Pub. L. 110–298, title II][/us/pl/110/298/tII], § 201, July 31, 2008, [122 Stat. 2990][/us/stat/122/2990].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/298/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs201
+[/us/pl/110/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtII
 [/us/stat/122/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2990
 
 

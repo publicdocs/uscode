@@ -33,15 +33,15 @@
 
         Nothing in this subchapter shall prohibit the utilization of any grant funds to contract with a private organization to provide equipment or training for the televising of testimony as contemplated by the application submitted by an applicant.
 
-([Pub. L. 90–351, title I, § 1407][/us/pl/90/351/s1407], as added [Pub. L. 101–647, title II, § 241(a)(2)][/us/pl/101/647/s241/a/2], Nov. 29, 1990, [104 Stat. 4813][/us/stat/104/4813]; amended [Pub. L. 103–322, title IV, § 40156(c)(7)][/us/pl/103/322/s40156/c/7], Sept. 13, 1994, [108 Stat. 1924][/us/stat/108/1924].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1407, as added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(a)(2), Nov. 29, 1990, [104 Stat. 4813][/us/stat/104/4813]; amended [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(c)(7), Sept. 13, 1994, [108 Stat. 1924][/us/stat/108/1924].)
 
  __Amendments__ 
 
-    1994—Subsec. (c)(1). [Pub. L. 103–322, § 40156(c)(7)(A)(i)][/us/pl/103/322/s40156/c/7/A/i], substituted “Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.” for “Each State which receives a grant under this chapter shall keep, and shall require units of local government which receive any part of such grant to keep, such records as the Director may require by rule to facilitate an effective audit”.
+    1994—Subsec. (c)(1). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(7)(A)(i), substituted “Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.” for “Each State which receives a grant under this chapter shall keep, and shall require units of local government which receive any part of such grant to keep, such records as the Director may require by rule to facilitate an effective audit”.
 
-    Subsec. (c)(2). [Pub. L. 103–322, § 40156(c)(7)(A)(ii)][/us/pl/103/322/s40156/c/7/A/ii], substituted “grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds)” for “States which receive grants, and of units of local government which receive any part of a grant made under this subchapter”.
+    Subsec. (c)(2). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(7)(A)(ii), substituted “grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds)” for “States which receive grants, and of units of local government which receive any part of a grant made under this subchapter”.
 
-    Subsec. (d). [Pub. L. 103–322, § 40156(c)(7)(B)][/us/pl/103/322/s40156/c/7/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(7)(B), added subsec. (d).
 
  __Transfer of Functions__ 
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t42/s3796aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%931
-[/us/pl/90/351/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1407
-[/us/pl/101/647/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4813
-[/us/pl/103/322/s40156/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F7
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1924
-[/us/pl/103/322/s40156/c/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F7%2FA%2Fi
-[/us/pl/103/322/s40156/c/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F7%2FA%2Fii
-[/us/pl/103/322/s40156/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F7%2FB
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741
 

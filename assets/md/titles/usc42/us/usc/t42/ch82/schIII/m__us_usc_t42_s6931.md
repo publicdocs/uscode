@@ -27,15 +27,15 @@
 
         State hazardous waste programs for which grants may be made under subsection (a) of this section may include (but shall not be limited to) planning for hazardous waste treatment, storage and disposal facilities, and the development and execution of programs to protect health and the environment from inactive facilities which may contain hazardous waste.
 
-([Pub. L. 89–272, title II, § 3011][/us/pl/89/272/s3011], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2812][/us/stat/90/2812]; amended [Pub. L. 96–482][/us/pl/96/482], §§ 16, 31(b), Oct. 21, 1980, [94 Stat. 2342][/us/stat/94/2342], 2352; [Pub. L. 98–616, § 2(b)][/us/pl/98/616/s2/b], Nov. 8, 1984, [98 Stat. 3222][/us/stat/98/3222].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3011, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2812][/us/stat/90/2812]; amended [Pub. L. 96–482][/us/pl/96/482], §§ 16, 31(b), Oct. 21, 1980, [94 Stat. 2342][/us/stat/94/2342], 2352; [Pub. L. 98–616][/us/pl/98/616], § 2(b), Nov. 8, 1984, [98 Stat. 3222][/us/stat/98/3222].)
 
  __Amendments__ 
 
     1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616] substituted “$40,000,000 for fiscal year 1982, $55,000,000 for fiscal year 1985, $60,000,000 for fiscal year 1986, $60,000,000 for fiscal year 1987, and $60,000,000 for fiscal year 1988” for “and $40,000,000 for fiscal year 1982”.
 
-    1980—Subsec. (a). [Pub. L. 96–482, § 31(b)][/us/pl/96/482/s31/b], authorized appropriation of $20,000,000, $35,000,000, and $40,000,000 for fiscal years 1980, 1981, and 1982, respectively.
+    1980—Subsec. (a). [Pub. L. 96–482][/us/pl/96/482], § 31(b), authorized appropriation of $20,000,000, $35,000,000, and $40,000,000 for fiscal years 1980, 1981, and 1982, respectively.
 
-    Subsec. (c). [Pub. L. 96–482, § 16][/us/pl/96/482/s16], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–482][/us/pl/96/482], § 16, added subsec. (c).
 
  __Transfer of Functions__ 
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/pl/89/272/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3011
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2812
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2342
-[/us/pl/98/616/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs2%2Fb
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/stat/98/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3222
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
-[/us/pl/96/482/s31/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs31%2Fb
-[/us/pl/96/482/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs16
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 
 

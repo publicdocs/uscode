@@ -29,7 +29,7 @@
 
         (3) provide such additional documentation as the Secretary may require.
 
-([Pub. L. 97–35, title VI, § 647][/us/pl/97/35/s647], Aug. 13, 1981, [95 Stat. 505][/us/stat/95/505]; [Pub. L. 110–134, § 17][/us/pl/110/134/s17], Dec. 12, 2007, [121 Stat. 1422][/us/stat/121/1422].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 647, Aug. 13, 1981, [95 Stat. 505][/us/stat/95/505]; [Pub. L. 110–134][/us/pl/110/134], § 17, Dec. 12, 2007, [121 Stat. 1422][/us/stat/121/1422].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs647
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F505
-[/us/pl/110/134/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs17
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1422
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 

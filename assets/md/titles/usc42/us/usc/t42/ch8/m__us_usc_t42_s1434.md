@@ -17,11 +17,11 @@
 
     Every contract between the Department of Housing and Urban Development and any person or local body (including any corporation or public or private agency or body) for a loan, advance, grant, or contribution under the United States Housing Act of 1937, as amended \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\], the Housing Act of 1949, as amended \[[42 U.S.C. 1441][/us/usc/t42/s1441] et seq.\], or any other Act shall provide that such person or local body shall keep such records as the Department of Housing and Urban Development shall from time to time prescribe, including records which permit a speedy and effective audit and will fully disclose the amount and the disposition by such person or local body of the proceeds of the loan, advance, grant, or contribution, or any supplement thereto, the capital cost of any construction project for which any such loan, advance, grant, or contribution is made, and the amount of any private or other non-Federal funds used or grants-in-aid made for or in connection with any such project. No mortgage covering new or rehabilitated multifamily housing (as defined in [section 1715r of title 12][/us/usc/t12/s1715r]) shall be insured unless the mortgagor certifies that he will keep such records as are prescribed by the Secretary of Housing and Urban Development at the time of the certification and that they will be kept in such form as to permit a speedy and effective audit. The Department of Housing and Urban Development and the Comptroller General of the United States shall have access to and the right to examine and audit such records. This section shall become effective on the first day after the first full calendar month following the date of approval of the Housing Act of 1961.
 
-([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 814, [68 Stat. 647][/us/stat/68/647]; [Pub. L. 87–70, title IX, § 908][/us/pl/87/70/s908], June 30, 1961, [75 Stat. 191][/us/stat/75/191]; [Pub. L. 90–19, § 10(h)][/us/pl/90/19/s10/h], May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
+([Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 814, [68 Stat. 647][/us/stat/68/647]; [Pub. L. 87–70, title IX][/us/pl/87/70/tIX], § 908, June 30, 1961, [75 Stat. 191][/us/stat/75/191]; [Pub. L. 90–19][/us/pl/90/19], § 10(h), May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
 
  __References in Text__ 
 
-    The United States Housing Act of 1937, as amended, referred to in text, is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to this chapter (§ 1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, as amended, referred to in text, is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to this chapter (§ 1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
     The Housing Act of 1949, as amended, referred to in text, is [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], [63 Stat. 413][/us/stat/63/413], as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title][/us/usc/t42/s1441] and Tables.
 
@@ -55,12 +55,12 @@
 [/us/usc/t12/s1715r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715r
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F647
-[/us/pl/87/70/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs908
+[/us/pl/87/70/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtIX
 [/us/stat/75/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F191
-[/us/pl/90/19/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs10%2Fh
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F23
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338

@@ -27,7 +27,7 @@
 
     (5) A dependent child ceasing to be a dependent child under the generally applicable requirements of the plan.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2203, as added [Pub. L. 99–272, title X, § 10003(a)][/us/pl/99/272/s10003/a], Apr. 7, 1986, [100 Stat. 234][/us/stat/100/234].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2203, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10003(a), Apr. 7, 1986, [100 Stat. 234][/us/stat/100/234].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/272/s10003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10003%2Fa
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F234
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

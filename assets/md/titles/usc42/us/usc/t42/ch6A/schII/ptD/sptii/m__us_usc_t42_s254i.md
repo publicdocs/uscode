@@ -33,7 +33,7 @@
 
     (8) the amount charged during such year for health services provided by Corps members, the amount which was collected in such year by entities in accordance with [section 254g of this title][/us/usc/t42/s254g], and the amount which was paid to the Secretary in such year under such agreements.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 336A, formerly § 336, as added [Pub. L. 94–484, title IV, § 407(b)(3)][/us/pl/94/484/s407/b/3], Oct. 12, 1976, [90 Stat. 2277][/us/stat/90/2277], renumbered § 336A, [Pub. L. 97–35, title XXVII, § 2706(a)][/us/pl/97/35/s2706/a], Aug. 13, 1981, [95 Stat. 907][/us/stat/95/907]; amended [Pub. L. 97–375, title II, § 206(a)][/us/pl/97/375/s206/a], Dec. 21, 1982, [96 Stat. 1823][/us/stat/96/1823]; [Pub. L. 101–597, title IV, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 107–251, title III, § 307(b)][/us/pl/107/251/s307/b], Oct. 26, 2002, [116 Stat. 1649][/us/stat/116/1649].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 336A, formerly § 336, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(3), Oct. 12, 1976, [90 Stat. 2277][/us/stat/90/2277], renumbered § 336A, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2706(a), Aug. 13, 1981, [95 Stat. 907][/us/stat/95/907]; amended [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 206(a), Dec. 21, 1982, [96 Stat. 1823][/us/stat/96/1823]; [Pub. L. 101–597, title IV][/us/pl/101/597/tIV], § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 307(b), Oct. 26, 2002, [116 Stat. 1649][/us/stat/116/1649].)
 
  __Amendments__ 
 
@@ -54,15 +54,15 @@
 [/us/usc/t42/s254f/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f%2Fa%2F1%2FD
 [/us/usc/t42/s254g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254g
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F3
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2277
-[/us/pl/97/35/s2706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2706%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F907
-[/us/pl/97/375/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs206%2Fa
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1823
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
+[/us/pl/101/597/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtIV
 [/us/stat/104/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3035
-[/us/pl/107/251/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs307%2Fb
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1649
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597

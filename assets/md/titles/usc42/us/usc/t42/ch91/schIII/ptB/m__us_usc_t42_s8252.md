@@ -17,7 +17,7 @@
 
     It is the purpose of this part to promote the conservation and the efficient use of energy and water, and the use of renewable energy sources, by the Federal Government.
 
-([Pub. L. 95–619, title V, § 542][/us/pl/95/619/s542], Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615, § 2(a)][/us/pl/100/615/s2/a], Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185]; [Pub. L. 102–486, title I, § 152(a)][/us/pl/102/486/s152/a], Oct. 24, 1992, [106 Stat. 2844][/us/stat/106/2844].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 542, Nov. 9, 1978, [92 Stat. 3277][/us/stat/92/3277]; [Pub. L. 100–615][/us/pl/100/615], § 2(a), Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 152(a), Oct. 24, 1992, [106 Stat. 2844][/us/stat/106/2844].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/95/619/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs542
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3277
-[/us/pl/100/615/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs2%2Fa
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3185
-[/us/pl/102/486/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs152%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2844
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615

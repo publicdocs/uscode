@@ -69,7 +69,7 @@
 
         Where a defect or failure to comply in a manufactured home cannot be adequately repaired within sixty days from the date of discovery or determination of the defect, the Secretary may require that the manufactured home be replaced with a new or equivalent home without charge, or that the purchase price be refunded in full, less a reasonable allowance for depreciation based on actual use if the home has been in the possession of the owner for more than one year.
 
-([Pub. L. 93–383, title VI, § 615][/us/pl/93/383/s615], Aug. 22, 1974, [88 Stat. 709][/us/stat/88/709]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III, § 339B(c)][/us/pl/97/35/s339B/c], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI, § 603(b)(3)][/us/pl/106/569/s603/b/3], Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 615, Aug. 22, 1974, [88 Stat. 709][/us/stat/88/709]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339B(c), Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 603(b)(3), Dec. 27, 2000, [114 Stat. 2999][/us/stat/114/2999].)
 
  __Codification__ 
 
@@ -77,11 +77,11 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b)(1). [Pub. L. 106–569, § 603(b)(3)(A)][/us/pl/106/569/s603/b/3/A], substituted “retailer” for “dealer”.
+    2000—Subsec. (b)(1). [Pub. L. 106–569][/us/pl/106/569], § 603(b)(3)(A), substituted “retailer” for “dealer”.
 
-    Subsec. (b)(3). [Pub. L. 106–569, § 603(b)(3)(B)][/us/pl/106/569/s603/b/3/B], substituted “retailer or retailers” for “dealer or dealers”.
+    Subsec. (b)(3). [Pub. L. 106–569][/us/pl/106/569], § 603(b)(3)(B), substituted “retailer or retailers” for “dealer or dealers”.
 
-    Subsecs. (d), (f). [Pub. L. 106–569, § 603(b)(3)(C)][/us/pl/106/569/s603/b/3/C], substituted “retailers” for “dealers ”.
+    Subsecs. (d), (f). [Pub. L. 106–569][/us/pl/106/569], § 603(b)(3)(C), substituted “retailers” for “dealers ”.
 
     1980—Subsecs. (a) to (i). [Pub. L. 96–399][/us/pl/96/399] substituted “manufactured home” for “mobile home” wherever appearing.
 
@@ -98,20 +98,20 @@
 
 [/us/usc/t42/s5413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5413
 [/us/usc/t42/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403
-[/us/pl/93/383/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs615
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F709
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
-[/us/pl/106/569/s603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fb%2F3
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2999
 [/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
 [/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
 [/us/usc/t12/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1703
-[/us/pl/106/569/s603/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fb%2F3%2FA
-[/us/pl/106/569/s603/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fb%2F3%2FB
-[/us/pl/106/569/s603/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs603%2Fb%2F3%2FC
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

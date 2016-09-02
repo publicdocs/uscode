@@ -23,7 +23,7 @@
 
         As a condition of participation in the distribution of assistance or supplies under this chapter or of receiving assistance under this chapter, governmental bodies and other organizations shall be required to comply with regulations relating to nondiscrimination promulgated by the President, and such other regulations applicable to activities within an area affected by a major disaster or emergency as he deems necessary for the effective coordination of relief efforts.
 
-([Pub. L. 93–288, title III, § 308][/us/pl/93/288/s308], formerly § 311, May 22, 1974, [88 Stat. 150][/us/stat/88/150]; renumbered § 308 and amended [Pub. L. 100–707, title I, § 105(f)][/us/pl/100/707/s105/f], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; [Pub. L. 109–295, title VI, § 689a][/us/pl/109/295/s689a], Oct. 4, 2006, [120 Stat. 1449][/us/stat/120/1449].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 308, formerly § 311, May 22, 1974, [88 Stat. 150][/us/stat/88/150]; renumbered § 308 and amended [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(f), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689a, Oct. 4, 2006, [120 Stat. 1449][/us/stat/120/1449].)
 
  __References in Text__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/93/288/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs308
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F150
-[/us/pl/100/707/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Ff
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
-[/us/pl/109/295/s689a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689a
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1449
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

@@ -23,7 +23,7 @@
 
     (3) to fail to comply with any provision prescribed in, or pursuant to, an energy conservation contingency plan which is in effect.
 
-([Pub. L. 94–163, title V, § 524][/us/pl/94/163/s524], Dec. 22, 1975, [89 Stat. 963][/us/stat/89/963].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 524, Dec. 22, 1975, [89 Stat. 963][/us/stat/89/963].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s6363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6363
-[/us/pl/94/163/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs524
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F963
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F875

@@ -39,7 +39,7 @@
 
         Nothing in this part shall be construed to limit the application of State or local laws that require the provision of data to public health authorities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695G, as added [Pub. L. 111–87, § 13][/us/pl/111/87/s13], Oct. 30, 2009, [123 Stat. 2902][/us/stat/123/2902].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695G, as added [Pub. L. 111–87][/us/pl/111/87], § 13, Oct. 30, 2009, [123 Stat. 2902][/us/stat/123/2902].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s247d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/87/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs13
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2902
 
 

@@ -23,7 +23,7 @@
 
         Payment or reimbursement for services or benefits under subsection (a) of this section shall be secondary to any obligation of the United States or any third party (including any State or local governmental entity, private insurance carrier, or employer) under any other provision of law or contractual agreement, to pay for or provide such services or benefits.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 264, as added [Pub. L. 108–20, § 2][/us/pl/108/20/s2], Apr. 30, 2003, [117 Stat. 641][/us/stat/117/641].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 264, as added [Pub. L. 108–20][/us/pl/108/20], § 2, Apr. 30, 2003, [117 Stat. 641][/us/stat/117/641].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/20/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs2
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/stat/117/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F641
 
 

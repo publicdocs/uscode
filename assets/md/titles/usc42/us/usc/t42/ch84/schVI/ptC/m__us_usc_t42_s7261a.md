@@ -35,7 +35,7 @@
 
         (4) whether failure to assert such a claim will adversely affect the operation of the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy.
 
-([Pub. L. 99–661, div. C, title I, § 3131][/us/pl/99/661/s3131], Nov. 14, 1986, [100 Stat. 4062][/us/stat/100/4062]; [Pub. L. 100–180, div. C, title I, § 3135(a)][/us/pl/100/180/s3135/a], Dec. 4, 1987, [101 Stat. 1240][/us/stat/101/1240].)
+([Pub. L. 99–661, div. C, title I][/us/pl/99/661/dC/tI], § 3131, Nov. 14, 1986, [100 Stat. 4062][/us/stat/100/4062]; [Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3135(a), Dec. 4, 1987, [101 Stat. 1240][/us/stat/101/1240].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–180, div. C, title I, § 3135(b)][/us/pl/100/180/s3135/b], Dec. 4, 1987, [101 Stat. 1241][/us/stat/101/1241], provided that: 
+[Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3135(b), Dec. 4, 1987, [101 Stat. 1241][/us/stat/101/1241], provided that: 
 
 > “Paragraphs (2) and (3) of section 3131(a) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1987 \[subsec. (a)(2), (3) of this section\] (as added by subsection (a)) shall apply with respect to waiver requests submitted by contractors under that section after March 1, 1988.”
 
@@ -62,12 +62,12 @@
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
 [/us/usc/t42/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2182
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
-[/us/pl/99/661/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3131
+[/us/pl/99/661/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdC%2FtI
 [/us/stat/100/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4062
-[/us/pl/100/180/s3135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3135%2Fa
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1240
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/100/180/s3135/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3135%2Fb
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1241
 
 

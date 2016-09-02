@@ -23,7 +23,7 @@
 
         The Secretary shall transmit the comprehensive program management plan along with any comments by the Commission on the plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate within twelve months after December 22, 1980. Revisions to the plan shall be transmitted to such committees whenever deemed appropriate by the Secretary.
 
-([Pub. L. 96–567, § 8][/us/pl/96/567/s8], Dec. 22, 1980, [94 Stat. 3332][/us/stat/94/3332]; [Pub. L. 104–66, title I, § 1051][/us/pl/104/66/s1051](l), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].)
+([Pub. L. 96–567][/us/pl/96/567], § 8, Dec. 22, 1980, [94 Stat. 3332][/us/stat/94/3332]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(l), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t42/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9703
-[/us/pl/96/567/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs8
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3332
-[/us/pl/104/66/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F717
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585

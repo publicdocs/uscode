@@ -729,7 +729,7 @@ SUBCHAPTER VIII—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3789" data-uslm-ref="/us/usc/t42/s3789">3789</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3789l" data-uslm-ref="/us/usc/t42/s3789l">3789l.</a>  </td>
 
     <td> Indian liability waiver.  </td>
 
@@ -753,7 +753,7 @@ SUBCHAPTER VIII—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3789" data-uslm-ref="/us/usc/t42/s3789">3789</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3789o" data-uslm-ref="/us/usc/t42/s3789o">3789o.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1809,7 +1809,7 @@ SUBCHAPTER XII–M—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS  </t
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796" data-uslm-ref="/us/usc/t42/s3796">3796</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796ll" data-uslm-ref="/us/usc/t42/s3796ll">3796ll.</a>  </td>
 
     <td> Program authorized.  </td>
 
@@ -1817,7 +1817,7 @@ SUBCHAPTER XII–M—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS  </t
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796" data-uslm-ref="/us/usc/t42/s3796">3796</a>ll–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796ll" data-uslm-ref="/us/usc/t42/s3796ll">3796ll</a>–1.  </td>
 
     <td> Applications.  </td>
 
@@ -1825,7 +1825,7 @@ SUBCHAPTER XII–M—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS  </t
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796" data-uslm-ref="/us/usc/t42/s3796">3796</a>ll–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796ll" data-uslm-ref="/us/usc/t42/s3796ll">3796ll</a>–2.  </td>
 
     <td> Definitions.  </td>
 
@@ -1833,7 +1833,7 @@ SUBCHAPTER XII–M—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS  </t
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796" data-uslm-ref="/us/usc/t42/s3796">3796</a>ll–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3796ll" data-uslm-ref="/us/usc/t42/s3796ll">3796ll</a>–3.  </td>
 
     <td> James Guelff and Chris McCurley Body Armor Act of 2002.  </td>
 
@@ -1929,7 +1929,7 @@ SUBCHAPTER XV—PAUL COVERDELL FORENSIC SCIENCES IMPROVEMENT GRANTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797" data-uslm-ref="/us/usc/t42/s3797">3797</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797l" data-uslm-ref="/us/usc/t42/s3797l">3797l.</a>  </td>
 
     <td> Allocation.  </td>
 
@@ -1953,7 +1953,7 @@ SUBCHAPTER XV—PAUL COVERDELL FORENSIC SCIENCES IMPROVEMENT GRANTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797" data-uslm-ref="/us/usc/t42/s3797">3797</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3797o" data-uslm-ref="/us/usc/t42/s3797o">3797o.</a>  </td>
 
     <td> Reports.  </td>
 

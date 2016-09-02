@@ -79,11 +79,11 @@
 
         (4) The Secretary may not dispose of any radioactive waste designated a Federal responsibility pursuant to paragraph (b)(1)(D) that becomes a Federal responsibility for the first time pursuant to such paragraph until ninety days after the report prepared pursuant to paragraph (3) has been submitted to the Congress.
 
-([Pub. L. 96–573, § 3][/us/pl/96/573/s3], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1843][/us/stat/99/1843].)
+([Pub. L. 96–573][/us/pl/96/573], § 3, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1843][/us/stat/99/1843].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     January 15, 1986, referred to in subsec. (b)(3), was in the original “the date of enactment of this Act” and was translated as meaning the date of enactment of [Pub. L. 99–240][/us/pl/99/240] to reflect the probable intent of Congress.
 
@@ -93,7 +93,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2021c, [Pub. L. 96–573, § 3][/us/pl/96/573/s3], Dec. 22, 1980, [94 Stat. 3347][/us/stat/94/3347], related to the applicability of low-level radioactive waste compacts, prior to repeal by [Pub. L. 99–240, § 102][/us/pl/99/240/s102]. See [section 2021d of this title][/us/usc/t42/s2021d].
+    A prior section 2021c, [Pub. L. 96–573][/us/pl/96/573], § 3, Dec. 22, 1980, [94 Stat. 3347][/us/stat/94/3347], related to the applicability of low-level radioactive waste compacts, prior to repeal by [Pub. L. 99–240][/us/pl/99/240], § 102. See [section 2021d of this title][/us/usc/t42/s2021d].
 
 ----------
 
@@ -102,17 +102,17 @@
 ----------
 ----------
 
-[/us/pl/96/573/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs3
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1843
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/99/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240
-[/us/pl/96/573/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs3
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
 [/us/stat/94/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3347
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/99/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240
 [/us/usc/t42/s2021d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021d
 
 

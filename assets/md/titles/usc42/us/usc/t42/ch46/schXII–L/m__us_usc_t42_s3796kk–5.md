@@ -21,7 +21,7 @@
 
     (2) such other information as the Attorney General may require.
 
-([Pub. L. 90–351, title I, § 2406][/us/pl/90/351/s2406], as added [Pub. L. 103–322, title XXI, § 210302(c)(1)(C)][/us/pl/103/322/s210302/c/1/C], Sept. 13, 1994, [108 Stat. 2067][/us/stat/108/2067]; amended [Pub. L. 112–189, § 2(a)][/us/pl/112/189/s2/a], Oct. 5, 2012, [126 Stat. 1435][/us/stat/126/1435].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2406, as added [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210302(c)(1)(C), Sept. 13, 1994, [108 Stat. 2067][/us/stat/108/2067]; amended [Pub. L. 112–189][/us/pl/112/189], § 2(a), Oct. 5, 2012, [126 Stat. 1435][/us/stat/126/1435].)
 
  __Amendments__ 
 
@@ -35,10 +35,10 @@
 ----------
 
 [/us/usc/t42/s3796kk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796kk%E2%80%931
-[/us/pl/90/351/s2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2406
-[/us/pl/103/322/s210302/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210302%2Fc%2F1%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2067
-[/us/pl/112/189/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F189%2Fs2%2Fa
+[/us/pl/112/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F189
 [/us/stat/126/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1435
 [/us/pl/112/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F189
 

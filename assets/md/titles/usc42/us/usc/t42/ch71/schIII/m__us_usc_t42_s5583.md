@@ -21,7 +21,7 @@
 
     (b) conduct, and promote the coordination and acceleration of, research, development, and demonstrations for systems and components to be used in applications that are dependent for their energy on solar photovoltaic energy systems.
 
-([Pub. L. 95–590, § 4][/us/pl/95/590/s4], Nov. 4, 1978, [92 Stat. 2515][/us/stat/92/2515].)
+([Pub. L. 95–590][/us/pl/95/590], § 4, Nov. 4, 1978, [92 Stat. 2515][/us/stat/92/2515].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s5581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5581%2Fb
-[/us/pl/95/590/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs4
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2515
 
 

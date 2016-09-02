@@ -75,7 +75,7 @@
 
         Each State participating in the pilot program under this section shall from time to time report to the Commissioner of Social Security on the operation and results of such program in that State, with particular emphasis upon the work incentive effects of the program. On or before October 1, 1983, the Commissioner of Social Security shall submit to the Congress a report on the program, incorporating the information contained in the State reports along with the Commissioner’s findings and recommendations.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1620, as added [Pub. L. 96–265, title II, § 201(c)][/us/pl/96/265/s201/c], June 9, 1980, [94 Stat. 446][/us/stat/94/446]; amended [Pub. L. 97–35, title XXIII, § 2353(p)][/us/pl/97/35/s2353/p], Aug. 13, 1981, [95 Stat. 874][/us/stat/95/874]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1620, as added [Pub. L. 96–265, title II][/us/pl/96/265/tII], § 201(c), June 9, 1980, [94 Stat. 446][/us/stat/94/446]; amended [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2353(p), Aug. 13, 1981, [95 Stat. 874][/us/stat/95/874]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1994—Subsecs. (b) to (f). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner finds that the Commissioner’s” for “he finds that his” in subsec. (d)(2)(B), and “the Commissioner’s” for “his” in subsec. (f).
+    1994—Subsecs. (b) to (f). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner finds that the Commissioner’s” for “he finds that his” in subsec. (d)(2)(B), and “the Commissioner’s” for “his” in subsec. (f).
 
     1981—Subsec. (c). [Pub. L. 97–35][/us/pl/97/35] struck out provision following par. (7) that the plan under this section may be developed and submitted as a separate State plan or may be submitted in the form of an amendment to the State’s plan under [section 1397b(d) of this title][/us/usc/t42/s1397b/d].
 
@@ -106,17 +106,17 @@
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/265/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs201%2Fc
+[/us/pl/96/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtII
 [/us/stat/94/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F446
-[/us/pl/97/35/s2353/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353%2Fp
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F874
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/stat/87/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F155
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1397b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fd
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296

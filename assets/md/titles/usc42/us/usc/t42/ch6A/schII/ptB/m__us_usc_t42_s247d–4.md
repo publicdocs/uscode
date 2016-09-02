@@ -197,61 +197,61 @@
 
         For purposes of this section the term “biosurveillance” means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319D, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2318][/us/stat/114/2318]; amended [Pub. L. 107–188, title I, § 103][/us/pl/107/188/s103], June 12, 2002, [116 Stat. 603][/us/stat/116/603]; [Pub. L. 109–417, title II][/us/pl/109/417], §§ 202, 204(b)(2), Dec. 19, 2006, [120 Stat. 2845][/us/stat/120/2845], 2851; [Pub. L. 113–5, title II, § 204(a)][/us/pl/113/5/s204/a], Mar. 13, 2013, [127 Stat. 177][/us/stat/127/177].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319D, as added [Pub. L. 106–505, title I][/us/pl/106/505/tI], § 102, Nov. 13, 2000, [114 Stat. 2318][/us/stat/114/2318]; amended [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 103, June 12, 2002, [116 Stat. 603][/us/stat/116/603]; [Pub. L. 109–417, title II][/us/pl/109/417/tII], §§ 202, 204(b)(2), Dec. 19, 2006, [120 Stat. 2845][/us/stat/120/2845], 2851; [Pub. L. 113–5, title II][/us/pl/113/5/tII], § 204(a), Mar. 13, 2013, [127 Stat. 177][/us/stat/127/177].)
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1)(B). [Pub. L. 113–5, § 204(a)(1)(A)][/us/pl/113/5/s204/a/1/A], inserted “poison control centers,” after “hospitals,”.
+    2013—Subsec. (b)(1)(B). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(1)(A), inserted “poison control centers,” after “hospitals,”.
 
-    Subsec. (b)(2). [Pub. L. 113–5, § 204(a)(1)(B)][/us/pl/113/5/s204/a/1/B], inserted “, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort” before period at end.
+    Subsec. (b)(2). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(1)(B), inserted “, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort” before period at end.
 
-    Subsec. (b)(3). [Pub. L. 113–5, § 204(a)(1)(C)][/us/pl/113/5/s204/a/1/C], inserted “and update such standards as necessary” before period at end.
+    Subsec. (b)(3). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(1)(C), inserted “and update such standards as necessary” before period at end.
 
-    Subsec. (c). [Pub. L. 113–5, § 204(a)(4)(A)][/us/pl/113/5/s204/a/4/A], substituted “Modernizing public health situational awareness and biosurveillance” for “Public health situational awareness” in heading.
+    Subsec. (c). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(4)(A), substituted “Modernizing public health situational awareness and biosurveillance” for “Public health situational awareness” in heading.
 
-    [Pub. L. 113–5, § 204(a)(2)][/us/pl/113/5/s204/a/2], (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to authorization of appropriations for fiscal years 2002 through 2006.
+    [Pub. L. 113–5][/us/pl/113/5], § 204(a)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to authorization of appropriations for fiscal years 2002 through 2006.
 
-    Subsec. (c)(1). [Pub. L. 113–5, § 204(a)(4)(B)][/us/pl/113/5/s204/a/4/B], substituted “March 13, 2013” for “December 19, 2006” and inserted “, novel emerging threats,” after “disease outbreaks”.
+    Subsec. (c)(1). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(4)(B), substituted “March 13, 2013” for “December 19, 2006” and inserted “, novel emerging threats,” after “disease outbreaks”.
 
-    Subsec. (c)(2). [Pub. L. 113–5, § 204(a)(4)(C)][/us/pl/113/5/s204/a/4/C], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Not later than 180 days after December 19, 2006, the Secretary shall submit to the appropriate committees of Congress, a strategic plan that demonstrates the steps the Secretary will undertake to develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3).”
+    Subsec. (c)(2). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(4)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Not later than 180 days after December 19, 2006, the Secretary shall submit to the appropriate committees of Congress, a strategic plan that demonstrates the steps the Secretary will undertake to develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3).”
 
-    Subsec. (c)(3)(D). [Pub. L. 113–5, § 204(a)(4)(D)][/us/pl/113/5/s204/a/4/D], inserted “community health centers, health centers” after “of poison control,”.
+    Subsec. (c)(3)(D). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(4)(D), inserted “community health centers, health centers” after “of poison control,”.
 
-    Subsec. (c)(5)(A). [Pub. L. 113–5, § 204(a)(4)(E)][/us/pl/113/5/s204/a/4/E], added subpar. (A) and struck out former subpar. (A) which read as follows: “utilize applicable interoperability standards as determined by the Secretary through a joint public and private sector process;”.
+    Subsec. (c)(5)(A). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(4)(E), added subpar. (A) and struck out former subpar. (A) which read as follows: “utilize applicable interoperability standards as determined by the Secretary through a joint public and private sector process;”.
 
-    Subsec. (c)(6). [Pub. L. 113–5, § 204(a)(4)(F)][/us/pl/113/5/s204/a/4/F], added par. (6).
+    Subsec. (c)(6). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(4)(F), added par. (6).
 
-    Subsec. (d). [Pub. L. 113–5, § 204(a)(3)][/us/pl/113/5/s204/a/3], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (d)(1), (4)(B). [Pub. L. 113–5, § 204(a)(5)(A)][/us/pl/113/5/s204/a/5/A], (B), substituted “subsection (c)” for “subsection (d)”.
+    Subsec. (d)(1), (4)(B). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(5)(A), (B), substituted “subsection (c)” for “subsection (d)”.
 
-    Subsec. (d)(5). [Pub. L. 113–5, § 204(a)(5)(C)][/us/pl/113/5/s204/a/5/C], substituted “3 years after March 13, 2013” for “4 years after December 19, 2006” and “subsection (c)” for “subsection (d)”.
+    Subsec. (d)(5). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(5)(C), substituted “3 years after March 13, 2013” for “4 years after December 19, 2006” and “subsection (c)” for “subsection (d)”.
 
-    Subsec. (e). [Pub. L. 113–5, § 204(a)(3)][/us/pl/113/5/s204/a/3], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 113–5, § 204(a)(3)][/us/pl/113/5/s204/a/3], (6), redesignated subsec. (g) as (f) and substituted “$138,300,000 for each of fiscal years 2014 through 2018” for “such sums as may be necessary in each of fiscal years 2007 through 2011”. Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(3), (6), redesignated subsec. (g) as (f) and substituted “$138,300,000 for each of fiscal years 2014 through 2018” for “such sums as may be necessary in each of fiscal years 2007 through 2011”. Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 113–5, § 204(a)(7)][/us/pl/113/5/s204/a/7], added subsec. (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 113–5][/us/pl/113/5], § 204(a)(7), added subsec. (g). Former subsec. (g) redesignated (f).
 
-    2006—Subsec. (a)(1). [Pub. L. 109–417, § 202(1)][/us/pl/109/417/s202/1], inserted “domestically and abroad” after “public health threats”.
+    2006—Subsec. (a)(1). [Pub. L. 109–417][/us/pl/109/417], § 202(1), inserted “domestically and abroad” after “public health threats”.
 
-    Subsec. (a)(3). [Pub. L. 109–417, § 204(b)(2)][/us/pl/109/417/s204/b/2], struck out “, taking into account evaluations under [section 247d–2(a) of this title][/us/usc/t42/s247d–2/a],” after “The Secretary” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 109–417][/us/pl/109/417], § 204(b)(2), struck out “, taking into account evaluations under [section 247d–2(a) of this title][/us/usc/t42/s247d–2/a],” after “The Secretary” in introductory provisions.
 
-    Subsecs. (d) to (g). [Pub. L. 109–417, § 202(2)][/us/pl/109/417/s202/2], added subsecs. (d) to (g).
+    Subsecs. (d) to (g). [Pub. L. 109–417][/us/pl/109/417], § 202(2), added subsecs. (d) to (g).
 
     2002—[Pub. L. 107–188][/us/pl/107/188] reenacted section catchline without change and amended text generally, substituting detailed provisions relating to facilities, capacities, and national communications and surveillance networks for provisions relating to findings of need for secure and modern facilities.
 
  __Working Capital Fund__ 
 
-[Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 368][/us/stat/128/368], provided in part: 
+[Pub. L. 113–76, div. H, title II][/us/pl/113/76/dH/tII], Jan. 17, 2014, [128 Stat. 368][/us/stat/128/368], provided in part: 
 
 > “That to facilitate the implementation of the permanent Working Capital Fund (‘WCF’) authorized under this heading \[cdc-wide activities and program support\] in division F of [Public Law 112–74][/us/pl/112/74] \[see note below\], on or after enactment of this Act \[Jan. 17, 2014\], unobligated balances of amounts appropriated for business services for fiscal year 2013 shall be transferred to the WCF: Provided further, That on or after enactment of this Act, CDC shall transfer amounts available for business services to other CDC appropriations consistent with the benefit each appropriation received from the business services appropriation in fiscal year 2013: Provided further, That once the WCF is implemented in fiscal year 2014, assets purchased in any prior fiscal year with funds appropriated for or reimbursed to business services may be transferred to the WCF and customers billed for depreciation of those assets: Provided further, That CDC shall, consistent with the authorities provided in [42 U.S.C. 231][/us/usc/t42/s231], ensure that the WCF is used only for administrative support services and not for programmatic activities: Provided further, That CDC shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 15 days prior to any transfers made with funds provided under this heading.”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 113–6, div. F, title V, § 1507][/us/pl/113/6/s1507], Mar. 26, 2013, [127 Stat. 423][/us/stat/127/423].
+    [Pub. L. 113–6, div. F, title V][/us/pl/113/6/dF/tV], § 1507, Mar. 26, 2013, [127 Stat. 423][/us/stat/127/423].
 
-[Pub. L. 112–74, div. F, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1070][/us/stat/125/1070], provided in part: 
+[Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], Dec. 23, 2011, [125 Stat. 1070][/us/stat/125/1070], provided in part: 
 
 > “That CDC \[Centers for Disease Control and Prevention\] may establish a Working Capital Fund, with the authorities equivalent to those provided in [42 U.S.C. 231][/us/usc/t42/s231], to improve the provision of supplies and service.”
 
@@ -265,42 +265,42 @@
 [/us/usc/t42/s247d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931
 [/us/usc/t42/s247d–7f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937f
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/pl/106/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtI
 [/us/stat/114/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2318
-[/us/pl/107/188/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs103
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F603
-[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2845
-[/us/pl/113/5/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa
+[/us/pl/113/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtII
 [/us/stat/127/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F177
-[/us/pl/113/5/s204/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F1%2FA
-[/us/pl/113/5/s204/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F1%2FB
-[/us/pl/113/5/s204/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F1%2FC
-[/us/pl/113/5/s204/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F4%2FA
-[/us/pl/113/5/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F2
-[/us/pl/113/5/s204/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F4%2FB
-[/us/pl/113/5/s204/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F4%2FC
-[/us/pl/113/5/s204/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F4%2FD
-[/us/pl/113/5/s204/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F4%2FE
-[/us/pl/113/5/s204/a/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F4%2FF
-[/us/pl/113/5/s204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F3
-[/us/pl/113/5/s204/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F5%2FA
-[/us/pl/113/5/s204/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F5%2FC
-[/us/pl/113/5/s204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F3
-[/us/pl/113/5/s204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F3
-[/us/pl/113/5/s204/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs204%2Fa%2F7
-[/us/pl/109/417/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs202%2F1
-[/us/pl/109/417/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs204%2Fb%2F2
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/usc/t42/s247d–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%932%2Fa
-[/us/pl/109/417/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs202%2F2
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtII
 [/us/stat/128/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F368
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t42/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs231
-[/us/pl/113/6/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1507
+[/us/pl/113/6/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtV
 [/us/stat/127/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F423
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1070
 [/us/usc/t42/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs231
 

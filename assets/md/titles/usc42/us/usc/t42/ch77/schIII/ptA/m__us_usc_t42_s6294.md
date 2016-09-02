@@ -259,97 +259,97 @@
 
         Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
 
-([Pub. L. 94–163, title III, § 324][/us/pl/94/163/s324], Dec. 22, 1975, [89 Stat. 920][/us/stat/89/920]; [Pub. L. 95–619, title IV, § 425(b)][/us/pl/95/619/s425/b], (c), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3265][/us/stat/92/3265], 3288; [Pub. L. 100–12, § 11(a)(1)][/us/pl/100/12/s11/a/1], (b)(2), Mar. 17, 1987, [101 Stat. 124][/us/stat/101/124], 125; [Pub. L. 100–357, § 2(d)][/us/pl/100/357/s2/d], June 28, 1988, [102 Stat. 672][/us/stat/102/672]; [Pub. L. 102–486, title I, § 123(e)][/us/pl/102/486/s123/e], Oct. 24, 1992, [106 Stat. 2822][/us/stat/106/2822]; [Pub. L. 105–388, § 5(a)(4)][/us/pl/105/388/s5/a/4], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 137][/us/pl/109/58/s137], Aug. 8, 2005, [119 Stat. 645][/us/stat/119/645]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 321(b), 324(d), 325, Dec. 19, 2007, [121 Stat. 1584][/us/stat/121/1584], 1593, 1595; [Pub. L. 112–210, § 10(a)(12)][/us/pl/112/210/s10/a/12], Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 324, Dec. 22, 1975, [89 Stat. 920][/us/stat/89/920]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 425(b), (c), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3265][/us/stat/92/3265], 3288; [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1), (b)(2), Mar. 17, 1987, [101 Stat. 124][/us/stat/101/124], 125; [Pub. L. 100–357][/us/pl/100/357], § 2(d), June 28, 1988, [102 Stat. 672][/us/stat/102/672]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(e), Oct. 24, 1992, [106 Stat. 2822][/us/stat/106/2822]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(4), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 137, Aug. 8, 2005, [119 Stat. 645][/us/stat/119/645]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 321(b), 324(d), 325, Dec. 19, 2007, [121 Stat. 1584][/us/stat/121/1584], 1593, 1595; [Pub. L. 112–210][/us/pl/112/210], § 10(a)(12), Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    Paragraph (19) of [section 6292(a) of this title][/us/usc/t42/s6292/a], referred to in subsecs. (a)(3), (b)(1)(B), (3), (5), was redesignated (20) and a new par. (19) was added by [Pub. L. 110–140, title III, § 324(b)][/us/pl/110/140/s324/b], Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
+    Paragraph (19) of [section 6292(a) of this title][/us/usc/t42/s6292/a], referred to in subsecs. (a)(3), (b)(1)(B), (3), (5), was redesignated (20) and a new par. (19) was added by [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 324(b), Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
 
     The Federal Trade Commission Act, referred to in subsec. (g), is [act Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], [38 Stat. 717][/us/stat/38/717], as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15][/us/usc/t15/s58] and Tables.
 
  __Amendments__ 
 
-    2012—Subsec. (c)(9). [Pub. L. 112–210, § 10(a)(12)][/us/pl/112/210/s10/a/12], made technical amendment to directory language of [Pub. L. 110–140, § 325(b)][/us/pl/110/140/s325/b]. See 2007 Amendment note below.
+    2012—Subsec. (c)(9). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(12), made technical amendment to directory language of [Pub. L. 110–140][/us/pl/110/140], § 325(b). See 2007 Amendment note below.
 
-    2007—Subsec. (a)(2)(C). [Pub. L. 110–140, § 324(d)(2)][/us/pl/110/140/s324/d/2], added subpar. (C). Former subpar. (C) redesignated (D).
+    2007—Subsec. (a)(2)(C). [Pub. L. 110–140][/us/pl/110/140], § 324(d)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (a)(2)(C)(iii). [Pub. L. 110–140, § 321(b)][/us/pl/110/140/s321/b], added cl. (iii).
+    Subsec. (a)(2)(C)(iii). [Pub. L. 110–140][/us/pl/110/140], § 321(b), added cl. (iii).
 
-    Subsec. (a)(2)(D) to (H). [Pub. L. 110–140, § 324(d)(1)][/us/pl/110/140/s324/d/1], redesignated subpars. (C) to (G) as (D) to (H), respectively.
+    Subsec. (a)(2)(D) to (H). [Pub. L. 110–140][/us/pl/110/140], § 324(d)(1), redesignated subpars. (C) to (G) as (D) to (H), respectively.
 
-    Subsec. (a)(2)(I). [Pub. L. 110–140, § 325(a)(1)][/us/pl/110/140/s325/a/1], added subpar. (I).
+    Subsec. (a)(2)(I). [Pub. L. 110–140][/us/pl/110/140], § 325(a)(1), added subpar. (I).
 
-    Subsec. (a)(6). [Pub. L. 110–140, § 325(a)(2)][/us/pl/110/140/s325/a/2], added par. (6).
+    Subsec. (a)(6). [Pub. L. 110–140][/us/pl/110/140], § 325(a)(2), added par. (6).
 
-    Subsec. (c)(9). [Pub. L. 110–140, § 325(b)][/us/pl/110/140/s325/b], as amended by [Pub. L. 112–210, § 10(a)(12)][/us/pl/112/210/s10/a/12], added par. (9).
+    Subsec. (c)(9). [Pub. L. 110–140][/us/pl/110/140], § 325(b), as amended by [Pub. L. 112–210][/us/pl/112/210], § 10(a)(12), added par. (9).
 
-    2005—Subsec. (a)(2)(F), (G). [Pub. L. 109–58, § 137(a)][/us/pl/109/58/s137/a], added subpars. (F) and (G).
+    2005—Subsec. (a)(2)(F), (G). [Pub. L. 109–58][/us/pl/109/58], § 137(a), added subpars. (F) and (G).
 
-    Subsec. (a)(5). [Pub. L. 109–58, § 137(b)][/us/pl/109/58/s137/b], added par. (5).
+    Subsec. (a)(5). [Pub. L. 109–58][/us/pl/109/58], § 137(b), added par. (5).
 
     1998—Subsec. (a)(2)(C)(ii). [Pub. L. 105–388][/us/pl/105/388] substituted “section 6295(i)” for “section 6295(j)”.
 
-    1992—Subsec. (a)(2)(C) to (E). [Pub. L. 102–486, § 123(e)(1)][/us/pl/102/486/s123/e/1], added subpars. (C) to (E).
+    1992—Subsec. (a)(2)(C) to (E). [Pub. L. 102–486][/us/pl/102/486], § 123(e)(1), added subpars. (C) to (E).
 
-    Subsec. (a)(3). [Pub. L. 102–486, § 123(e)(2)][/us/pl/102/486/s123/e/2], substituted “(19)” for “(14)”.
+    Subsec. (a)(3). [Pub. L. 102–486][/us/pl/102/486], § 123(e)(2), substituted “(19)” for “(14)”.
 
-    Subsec. (b)(1)(B). [Pub. L. 102–486, § 123(e)(3)][/us/pl/102/486/s123/e/3], substituted “(13), and paragraphs (15) through (19)” for “(14)”.
+    Subsec. (b)(1)(B). [Pub. L. 102–486][/us/pl/102/486], § 123(e)(3), substituted “(13), and paragraphs (15) through (19)” for “(14)”.
 
-    Subsec. (b)(3), (5). [Pub. L. 102–486, § 123(e)(4)][/us/pl/102/486/s123/e/4], substituted “(19)” for “(14)”.
+    Subsec. (b)(3), (5). [Pub. L. 102–486][/us/pl/102/486], § 123(e)(4), substituted “(19)” for “(14)”.
 
-    Subsec. (c)(7). [Pub. L. 102–486, § 123(e)(5)(A)][/us/pl/102/486/s123/e/5/A], substituted “paragraphs (13), (14), (15), (16), (17), and (18) of section 6292(a)” for “paragraph (13) of section 6292”.
+    Subsec. (c)(7). [Pub. L. 102–486][/us/pl/102/486], § 123(e)(5)(A), substituted “paragraphs (13), (14), (15), (16), (17), and (18) of section 6292(a)” for “paragraph (13) of section 6292”.
 
-    Subsec. (c)(8). [Pub. L. 102–486, § 123(e)(5)(B)][/us/pl/102/486/s123/e/5/B], added par. (8).
+    Subsec. (c)(8). [Pub. L. 102–486][/us/pl/102/486], § 123(e)(5)(B), added par. (8).
 
-    1988—Subsec. (a)(2). [Pub. L. 100–357, § 2(d)(1)][/us/pl/100/357/s2/d/1], designated existing provision as subpar. (A) and added subpar. (B).
+    1988—Subsec. (a)(2). [Pub. L. 100–357][/us/pl/100/357], § 2(d)(1), designated existing provision as subpar. (A) and added subpar. (B).
 
-    Subsecs. (a)(3), (b)(1)(B), (3), (5). [Pub. L. 100–357, § 2(d)(2)][/us/pl/100/357/s2/d/2], substituted “(14)” for “(13)”.
+    Subsecs. (a)(3), (b)(1)(B), (3), (5). [Pub. L. 100–357][/us/pl/100/357], § 2(d)(2), substituted “(14)” for “(13)”.
 
-    Subsec. (c)(7). [Pub. L. 100–357, § 2(d)(3)][/us/pl/100/357/s2/d/3], added par. (7).
+    Subsec. (c)(7). [Pub. L. 100–357][/us/pl/100/357], § 2(d)(3), added par. (7).
 
-    1987—Subsec. (a). [Pub. L. 100–12, § 11(b)(2)(A)][/us/pl/100/12/s11/b/2/A], inserted heading.
+    1987—Subsec. (a). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(2)(A), inserted heading.
 
-    Subsec. (a)(1). [Pub. L. 100–12, § 11(a)(1)(A)][/us/pl/100/12/s11/a/1/A], substituted “paragraphs (1), (2), (4), (6), and (8) through (12)” for “paragraphs (1) through (9)”.
+    Subsec. (a)(1). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(A), substituted “paragraphs (1), (2), (4), (6), and (8) through (12)” for “paragraphs (1) through (9)”.
 
-    Subsec. (a)(2). [Pub. L. 100–12, § 11(a)(1)(B)][/us/pl/100/12/s11/a/1/B], substituted “paragraphs (3), (5), and (7)” for “paragraphs (10) through (13)”.
+    Subsec. (a)(2). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(B), substituted “paragraphs (3), (5), and (7)” for “paragraphs (10) through (13)”.
 
-    Subsec. (a)(3). [Pub. L. 100–12, § 11(a)(1)(C)(i)][/us/pl/100/12/s11/a/1/C/i], substituted “paragraph (13)” for “paragraph (14)”.
+    Subsec. (a)(3). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(C)(i), substituted “paragraph (13)” for “paragraph (14)”.
 
-    Subsec. (a)(3)(A). [Pub. L. 100–12, § 11(a)(1)(C)(ii)][/us/pl/100/12/s11/a/1/C/ii], added subpar. (A) and struck out former subpar. (A) which read as follows: “the Commission or the Secretary has made a determination with respect to such type (or class thereof) under [section 6293(a)(5)(B) of this title][/us/usc/t42/s6293/a/5/B],”.
+    Subsec. (a)(3)(A). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(C)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “the Commission or the Secretary has made a determination with respect to such type (or class thereof) under [section 6293(a)(5)(B) of this title][/us/usc/t42/s6293/a/5/B],”.
 
-    Subsec. (a)(3)(B). [Pub. L. 100–12, § 11(a)(1)(C)(iii)][/us/pl/100/12/s11/a/1/C/iii], substituted “section 6293(b)(1)(B)” for “section 6293(a)(5)”.
+    Subsec. (a)(3)(B). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(C)(iii), substituted “section 6293(b)(1)(B)” for “section 6293(a)(5)”.
 
-    Subsec. (b). [Pub. L. 100–12, § 11(a)(1)(D)][/us/pl/100/12/s11/a/1/D], inserted heading.
+    Subsec. (b). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(D), inserted heading.
 
-    Subsec. (b)(1). [Pub. L. 100–12, § 11(a)(1)(D)][/us/pl/100/12/s11/a/1/D], added par. (1) and struck out former par. (1) which read as follows: “Not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any of the types specified in paragraphs (1) through (14) of [section 6292(a) of this title][/us/usc/t42/s6292/a] (or class thereof) is published under [section 6293(a) of this title][/us/usc/t42/s6293/a], the Commission shall publish a proposed labeling rule applicable to such type (or class thereof).”
+    Subsec. (b)(1). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(D), added par. (1) and struck out former par. (1) which read as follows: “Not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any of the types specified in paragraphs (1) through (14) of [section 6292(a) of this title][/us/usc/t42/s6292/a] (or class thereof) is published under [section 6293(a) of this title][/us/usc/t42/s6293/a], the Commission shall publish a proposed labeling rule applicable to such type (or class thereof).”
 
-    Subsec. (b)(3). [Pub. L. 100–12, § 11(a)(1)(E)][/us/pl/100/12/s11/a/1/E], substituted “section 6293(b)” for “section 6293” in two places, “(12)” for “(13)”, and “(13)” for “(14)”.
+    Subsec. (b)(3). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(E), substituted “section 6293(b)” for “section 6293” in two places, “(12)” for “(13)”, and “(13)” for “(14)”.
 
-    Subsec. (b)(5). [Pub. L. 100–12, § 11(a)(1)(F)][/us/pl/100/12/s11/a/1/F], substituted “(3), (5), and (7)” for “(10) through (13)” and “(13)” for “(14)”.
+    Subsec. (b)(5). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(F), substituted “(3), (5), and (7)” for “(10) through (13)” and “(13)” for “(14)”.
 
-    Subsec. (c). [Pub. L. 100–12, § 11(b)(2)(B)][/us/pl/100/12/s11/b/2/B], inserted heading.
+    Subsec. (c). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(2)(B), inserted heading.
 
-    Subsec. (d). [Pub. L. 100–12, § 11(b)(2)(C)][/us/pl/100/12/s11/b/2/C], inserted heading.
+    Subsec. (d). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(2)(C), inserted heading.
 
-    Subsec. (e). [Pub. L. 100–12, § 11(b)(2)(D)][/us/pl/100/12/s11/b/2/D], inserted heading.
+    Subsec. (e). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(2)(D), inserted heading.
 
-    Subsec. (f). [Pub. L. 100–12, § 11(b)(2)(E)][/us/pl/100/12/s11/b/2/E], inserted heading.
+    Subsec. (f). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(2)(E), inserted heading.
 
-    [Pub. L. 100–12, § 11(a)(1)(G)][/us/pl/100/12/s11/a/1/G], struck out “or (2)” after “subsection (a)(1)”.
+    [Pub. L. 100–12][/us/pl/100/12], § 11(a)(1)(G), struck out “or (2)” after “subsection (a)(1)”.
 
-    Subsec. (g). [Pub. L. 100–12, § 11(b)(2)(F)][/us/pl/100/12/s11/b/2/F], inserted heading.
+    Subsec. (g). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(2)(F), inserted heading.
 
-    1978—Subsec. (a)(1), (2). [Pub. L. 95–619, § 425(b)][/us/pl/95/619/s425/b], struck out labeling rule exception where Administrator had determined under [section 6293(a)(6) of this title][/us/usc/t42/s6293/a/6] that test procedures could not be developed pursuant to [section 6293(b) of this title][/us/usc/t42/s6293/b].
+    1978—Subsec. (a)(1), (2). [Pub. L. 95–619][/us/pl/95/619], § 425(b), struck out labeling rule exception where Administrator had determined under [section 6293(a)(6) of this title][/us/usc/t42/s6293/a/6] that test procedures could not be developed pursuant to [section 6293(b) of this title][/us/usc/t42/s6293/b].
 
-    Subsec. (a)(3). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, in cls. (A) and (B).
+    Subsec. (a)(3). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, in cls. (A) and (B).
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”.
+    Subsec. (c)(1)(A)(i). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”.
 
-    Subsec. (c)(5). [Pub. L. 95–619, § 425(c)][/us/pl/95/619/s425/c], inserted “including instructions for the maintenance, use, or repair of the covered product,” after “energy consumption”.
+    Subsec. (c)(5). [Pub. L. 95–619][/us/pl/95/619], § 425(c), inserted “including instructions for the maintenance, use, or repair of the covered product,” after “energy consumption”.
 
-    Subsecs. (e), (f). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (e), (f). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -361,7 +361,7 @@
 
  __Market Assessments and Consumer Awareness Program__ 
 
-[Pub. L. 110–140, title III, § 321(c)][/us/pl/110/140/s321/c], Dec. 19, 2007, [121 Stat. 1584][/us/stat/121/1584], provided that:
+[Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 321(c), Dec. 19, 2007, [121 Stat. 1584][/us/stat/121/1584], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -425,80 +425,80 @@
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6308
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/94/163/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs324
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F920
-[/us/pl/95/619/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fb
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3265
-[/us/pl/100/12/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F124
-[/us/pl/100/357/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fd
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F672
-[/us/pl/102/486/s123/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fe
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2822
-[/us/pl/105/388/s5/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F4
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
-[/us/pl/109/58/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs137
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F645
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1584
-[/us/pl/112/210/s10/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F12
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1525
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s6292/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292%2Fa
-[/us/pl/110/140/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fb
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1593
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/112/210/s10/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F12
-[/us/pl/110/140/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs325%2Fb
-[/us/pl/110/140/s324/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fd%2F2
-[/us/pl/110/140/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fb
-[/us/pl/110/140/s324/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fd%2F1
-[/us/pl/110/140/s325/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs325%2Fa%2F1
-[/us/pl/110/140/s325/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs325%2Fa%2F2
-[/us/pl/110/140/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs325%2Fb
-[/us/pl/112/210/s10/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F12
-[/us/pl/109/58/s137/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs137%2Fa
-[/us/pl/109/58/s137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs137%2Fb
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
-[/us/pl/102/486/s123/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fe%2F1
-[/us/pl/102/486/s123/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fe%2F2
-[/us/pl/102/486/s123/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fe%2F3
-[/us/pl/102/486/s123/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fe%2F4
-[/us/pl/102/486/s123/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fe%2F5%2FA
-[/us/pl/102/486/s123/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fe%2F5%2FB
-[/us/pl/100/357/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fd%2F1
-[/us/pl/100/357/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fd%2F2
-[/us/pl/100/357/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fd%2F3
-[/us/pl/100/12/s11/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F2%2FA
-[/us/pl/100/12/s11/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FA
-[/us/pl/100/12/s11/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FB
-[/us/pl/100/12/s11/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FC%2Fi
-[/us/pl/100/12/s11/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FC%2Fii
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/usc/t42/s6293/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fa%2F5%2FB
-[/us/pl/100/12/s11/a/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FC%2Fiii
-[/us/pl/100/12/s11/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FD
-[/us/pl/100/12/s11/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FD
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/usc/t42/s6292/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292%2Fa
 [/us/usc/t42/s6293/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fa
-[/us/pl/100/12/s11/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FE
-[/us/pl/100/12/s11/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FF
-[/us/pl/100/12/s11/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F2%2FB
-[/us/pl/100/12/s11/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F2%2FC
-[/us/pl/100/12/s11/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F2%2FD
-[/us/pl/100/12/s11/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F2%2FE
-[/us/pl/100/12/s11/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F1%2FG
-[/us/pl/100/12/s11/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F2%2FF
-[/us/pl/95/619/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fb
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s6293/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fa%2F6
 [/us/usc/t42/s6293/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fb
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s425/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fc
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/112/210/s10/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F13
@@ -506,7 +506,7 @@
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fc
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1584
 [/us/usc/t42/s6294/a/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294%2Fa%2F2%2FC%2Fiii
 

@@ -27,7 +27,7 @@
 
     (5) to create, strengthen, and protect a sustainable national energy economy.
 
-([Pub. L. 109–58, title VIII, § 802][/us/pl/109/58/s802], Aug. 8, 2005, [119 Stat. 844][/us/stat/119/844].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 802, Aug. 8, 2005, [119 Stat. 844][/us/stat/119/844].)
 
  __Short Title__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs802
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F844
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs801

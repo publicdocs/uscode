@@ -31,7 +31,7 @@
 
     (d) Nothing in this chapter shall affect or modify in any way the obligations or liabilities of any person under other Federal or State law, including common law, with respect to releases of hazardous substances or other pollutants or contaminants. The provisions of this chapter shall not be considered, interpreted, or construed in any way as reflecting a determination, in part or whole, of policy regarding the inapplicability of strict liability, or strict liability doctrines, to activities relating to hazardous substances, pollutants, or contaminants or other such activities.
 
-([Pub. L. 96–510, title III, § 302][/us/pl/96/510/s302], Dec. 11, 1980, [94 Stat. 2808][/us/stat/94/2808].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 302, Dec. 11, 1980, [94 Stat. 2808][/us/stat/94/2808].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/96/510/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs302
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
 [/us/stat/94/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2808
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

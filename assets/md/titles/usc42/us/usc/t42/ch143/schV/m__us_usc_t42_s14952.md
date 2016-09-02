@@ -29,7 +29,7 @@
 
             The authority provided by paragraph (1) may not be delegated.
 
-([Pub. L. 106–279, title V, § 502][/us/pl/106/279/s502], Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
+([Pub. L. 106–279, title V][/us/pl/106/279/tV], § 502, Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/106/279/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs502
+[/us/pl/106/279/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtV
 [/us/stat/114/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F843
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

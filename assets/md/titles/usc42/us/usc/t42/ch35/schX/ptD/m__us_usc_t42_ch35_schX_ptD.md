@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 106–501, title VI, § 604(1)][/us/pl/106/501/s604/1], Nov. 13, 2000, [114 Stat. 2288][/us/stat/114/2288], redesignated part C of this subchapter as part D.
+    [Pub. L. 106–501, title VI][/us/pl/106/501/tVI], § 604(1), Nov. 13, 2000, [114 Stat. 2288][/us/stat/114/2288], redesignated part C of this subchapter as part D.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/501/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs604%2F1
+[/us/pl/106/501/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVI
 [/us/stat/114/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2288
 
 

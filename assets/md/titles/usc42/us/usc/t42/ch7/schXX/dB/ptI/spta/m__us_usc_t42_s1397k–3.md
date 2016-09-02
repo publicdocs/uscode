@@ -21,7 +21,7 @@
 
     (2) for each of fiscal years 2012 through 2014, $7,000,000.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2024, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)][/us/pl/111/148/s6703/a/1/C], Mar. 23, 2010, [124 Stat. 790][/us/stat/124/790].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2024, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(a)(1)(C), Mar. 23, 2010, [124 Stat. 790][/us/stat/124/790].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6703/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fa%2F1%2FC
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F790
 
 

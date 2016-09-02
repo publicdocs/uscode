@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242m.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptA/m__us_usc_t42_s242o.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242n)
 
-## § 242n. Repealed. [Pub. L. 101–239, title VI, § 6103(d)(1)(B)][/us/pl/101/239/s6103/d/1/B], Dec. 19, 1989, [103 Stat. 2205][/us/stat/103/2205]
+## § 242n. Repealed. [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(d)(1)(B), Dec. 19, 1989, [103 Stat. 2205][/us/stat/103/2205]
 
-    Section, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 309, as added Nov. 9, 1978, [Pub. L. 95–623, § 6(c)][/us/pl/95/623/s6/c], [92 Stat. 3447][/us/stat/92/3447]; amended July 10, 1979, [Pub. L. 96–32, § 5(d)][/us/pl/96/32/s5/d], [93 Stat. 83][/us/stat/93/83]; Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35], §§ 917(c), 923, [95 Stat. 565][/us/stat/95/565], 567; Oct. 30, 1984, [Pub. L. 98–551, § 8][/us/pl/98/551/s8], [98 Stat. 2820][/us/stat/98/2820]; Oct. 7, 1985, [Pub. L. 99–117, § 8(a)][/us/pl/99/117/s8/a], [99 Stat. 493][/us/stat/99/493]; Dec. 1, 1987, [Pub. L. 100–177, title I, § 109][/us/pl/100/177/s109], [101 Stat. 990][/us/stat/101/990], related to grants for a council on health care technology.
+    Section, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 309, as added Nov. 9, 1978, [Pub. L. 95–623][/us/pl/95/623], § 6(c), [92 Stat. 3447][/us/stat/92/3447]; amended July 10, 1979, [Pub. L. 96–32][/us/pl/96/32], § 5(d), [93 Stat. 83][/us/stat/93/83]; Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], §§ 917(c), 923, [95 Stat. 565][/us/stat/95/565], 567; Oct. 30, 1984, [Pub. L. 98–551][/us/pl/98/551], § 8, [98 Stat. 2820][/us/stat/98/2820]; Oct. 7, 1985, [Pub. L. 99–117][/us/pl/99/117], § 8(a), [99 Stat. 493][/us/stat/99/493]; Dec. 1, 1987, [Pub. L. 100–177, title I][/us/pl/100/177/tI], § 109, [101 Stat. 990][/us/stat/101/990], related to grants for a council on health care technology.
 
  __Termination of Council on Health Care Technology__ 
 
-    [Pub. L. 101–239, title VI, § 6103(d)(1)(B)][/us/pl/101/239/s6103/d/1/B], Dec. 19, 1989, [103 Stat. 2205][/us/stat/103/2205], provided in part that the council on health care technology established under this section is terminated.
+    [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(d)(1)(B), Dec. 19, 1989, [103 Stat. 2205][/us/stat/103/2205], provided in part that the council on health care technology established under this section is terminated.
 
  __Transitional and Savings Provisions for Pub. L. 101–239__ 
 
@@ -32,22 +32,22 @@
 ----------
 ----------
 
-[/us/pl/101/239/s6103/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fd%2F1%2FB
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2205
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/623/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs6%2Fc
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3447
-[/us/pl/96/32/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs5%2Fd
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F83
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F565
-[/us/pl/98/551/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551%2Fs8
+[/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/stat/98/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2820
-[/us/pl/99/117/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs8%2Fa
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F493
-[/us/pl/100/177/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs109
+[/us/pl/100/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtI
 [/us/stat/101/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F990
-[/us/pl/101/239/s6103/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fd%2F1%2FB
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2205
 [/us/pl/101/239/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103
 [/us/pl/101/239/s6103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Ff

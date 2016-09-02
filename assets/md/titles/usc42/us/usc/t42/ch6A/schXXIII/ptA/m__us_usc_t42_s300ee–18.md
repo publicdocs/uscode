@@ -51,7 +51,7 @@
 
             (B) Subparagraph (A) shall not apply to the collection, compilation, or transmittal of data in the course of a judicial proceeding.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2508, as added [Pub. L. 100–607, title II, § 221][/us/pl/100/607/s221], Nov. 4, 1988, [102 Stat. 3099][/us/stat/102/3099]; amended [Pub. L. 100–690, title II, § 2619(f)][/us/pl/100/690/s2619/f] \[(g)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93, § 5(e)(1)][/us/pl/101/93/s5/e/1], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXV, formerly title XV, § 2508, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 221, Nov. 4, 1988, [102 Stat. 3099][/us/stat/102/3099]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2619(f) \[(g)\], Nov. 18, 1988, [102 Stat. 4243][/us/stat/102/4243]; renumbered title XXV, [Pub. L. 101–93][/us/pl/101/93], § 5(e)(1), Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612].)
 
  __Prior Provisions__ 
 
@@ -59,11 +59,11 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 2619(f)(1)][/us/pl/100/690/s2619/f/1] \[(g)(1)\], substituted “300ee–13 of this title” for “300ee–17 of this title”.
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 2619(f)(1) \[(g)(1)\], substituted “300ee–13 of this title” for “300ee–17 of this title”.
 
-    Subsec. (b). [Pub. L. 100–690, § 2619(f)(2)][/us/pl/100/690/s2619/f/2] \[(g)(2)\], inserted “of payments” after “Withholding” in heading and substituted “300ee–13 of this title” for “300ee–17 of this title” in par. (1).
+    Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 2619(f)(2) \[(g)(2)\], inserted “of payments” after “Withholding” in heading and substituted “300ee–13 of this title” for “300ee–17 of this title” in par. (1).
 
-    Subsecs. (d), (e)(1). [Pub. L. 100–690, § 2619(f)(3)][/us/pl/100/690/s2619/f/3], (4) \[(g)(3), (4)\], substituted “300ee–13 of this title” for “300ee–17 of this title”.
+    Subsecs. (d), (e)(1). [Pub. L. 100–690][/us/pl/100/690], § 2619(f)(3), (4) \[(g)(3), (4)\], substituted “300ee–13 of this title” for “300ee–17 of this title”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -90,16 +90,16 @@
 [/us/usc/t42/s300ee–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9311%2Fa
 [/us/usc/t42/s300ee–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ee%E2%80%9311%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs221
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3099
-[/us/pl/100/690/s2619/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Ff
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4243
-[/us/pl/101/93/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fe%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
 [/us/usc/t42/s238g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238g
-[/us/pl/100/690/s2619/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Ff%2F1
-[/us/pl/100/690/s2619/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Ff%2F2
-[/us/pl/100/690/s2619/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2619%2Ff%2F3
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/pl/100/690/s2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2600

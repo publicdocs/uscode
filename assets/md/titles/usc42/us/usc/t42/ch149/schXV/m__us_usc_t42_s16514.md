@@ -23,7 +23,7 @@
 
         The Department may use amounts awarded under the Clean Coal Power Initiative to carry out the project described in [section 16513(c)(1)(C) of this title][/us/usc/t42/s16513/c/1/C], on the request of the recipient of such award, for a loan guarantee, to the extent that the amounts have not yet been disbursed to, or have been repaid by, the recipient.
 
-([Pub. L. 109–58, title XVII, § 1704][/us/pl/109/58/s1704], Aug. 8, 2005, [119 Stat. 1122][/us/stat/119/1122]; [Pub. L. 109–168, § 1(b)(2)][/us/pl/109/168/s1/b/2], Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580].)
+([Pub. L. 109–58, title XVII][/us/pl/109/58/tXVII], § 1704, Aug. 8, 2005, [119 Stat. 1122][/us/stat/119/1122]; [Pub. L. 109–168][/us/pl/109/168], § 1(b)(2), Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t42/s16513/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16513%2Fc%2F1%2FC
-[/us/pl/109/58/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1704
+[/us/pl/109/58/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVII
 [/us/stat/119/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1122
-[/us/pl/109/168/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168%2Fs1%2Fb%2F2
+[/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 [/us/stat/119/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3580
 [/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 

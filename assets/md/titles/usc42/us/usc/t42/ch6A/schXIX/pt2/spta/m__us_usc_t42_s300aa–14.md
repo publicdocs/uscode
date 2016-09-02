@@ -437,7 +437,7 @@
 
             (C) the time period in which the first symptoms or manifestations of onset or other significant aggravation of such injuries, disabilities, illnesses, conditions, and deaths associated with such vaccines may occur.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2114, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3764][/us/stat/100/3764]; amended [Pub. L. 101–239, title VI, § 6601(k)][/us/pl/101/239/s6601/k], Dec. 19, 1989, [103 Stat. 2290][/us/stat/103/2290]; [Pub. L. 103–66, title XIII, § 13632(a)(2)][/us/pl/103/66/s13632/a/2], Aug. 10, 1993, [107 Stat. 645][/us/stat/107/645].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2114, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3764][/us/stat/100/3764]; amended [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6601(k), Dec. 19, 1989, [103 Stat. 2290][/us/stat/103/2290]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13632(a)(2), Aug. 10, 1993, [107 Stat. 645][/us/stat/107/645].)
 
  __Prior Provisions__ 
 
@@ -449,9 +449,9 @@
 
     1993—Subsec. (e). [Pub. L. 103–66][/us/pl/103/66] amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary may recommend to Congress revisions of the table to change the vaccines covered by the table.”
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 6601(k)(1)][/us/pl/101/239/s6601/k/1], substituted “(b)(2)” for “(c)(2)” in items I.D. and II.C. in table.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 6601(k)(1), substituted “(b)(2)” for “(c)(2)” in items I.D. and II.C. in table.
 
-    Subsec. (b)(3)(B). [Pub. L. 101–239, § 6601(k)(2)][/us/pl/101/239/s6601/k/2], substituted “300aa–11 of this title” for “300aa–11(b) of this title”.
+    Subsec. (b)(3)(B). [Pub. L. 101–239][/us/pl/101/239], § 6601(k)(2), substituted “300aa–11 of this title” for “300aa–11(b) of this title”.
 
  __Effective Date of 1989 Amendment__ 
 
@@ -461,7 +461,7 @@
 
     The Vaccine Injury Table as modified by regulations promulgated by the Secretary of Health and Human Services is set out at 42 CFR 100.3.
 
-[Pub. L. 103–66, title XIII, § 13632(a)(3)][/us/pl/103/66/s13632/a/3], Aug. 10, 1993, [107 Stat. 646][/us/stat/107/646], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13632(a)(3), Aug. 10, 1993, [107 Stat. 646][/us/stat/107/646], provided that: 
 
 > “A revision by the Secretary under section 2114(e) of the Public Health Service Act ([42 U.S.C. 300aa–14(e)][/us/usc/t42/s300aa–14/e]) (as amended by paragraph (2)) shall take effect upon the effective date of a tax enacted to provide funds for compensation paid with respect to the vaccine to be added to the vaccine injury table in section 2114(a) of the Public Health Service Act ([42 U.S.C. 300aa–14(a)][/us/usc/t42/s300aa–14/a]).”
 
@@ -474,20 +474,20 @@
 
 [/us/usc/t42/s300aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3764
-[/us/pl/101/239/s6601/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fk
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2290
-[/us/pl/103/66/s13632/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13632%2Fa%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F645
 [/us/usc/t42/s238k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238k
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/101/239/s6601/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fk%2F1
-[/us/pl/101/239/s6601/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fk%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s6601/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fs%2F1
 [/us/usc/t42/s300aa–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9310
-[/us/pl/103/66/s13632/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13632%2Fa%2F3
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F646
 [/us/usc/t42/s300aa–14/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9314%2Fe
 [/us/usc/t42/s300aa–14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9314%2Fa

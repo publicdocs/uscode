@@ -29,7 +29,7 @@
 
         (3) testing whether older American volunteer programs may contribute to new objectives or certain national priorities.
 
-([Pub. L. 93–113, title II, § 231][/us/pl/93/113/s231], as added [Pub. L. 103–82, title III, § 351][/us/pl/103/82/s351], Sept. 21, 1993, [107 Stat. 906][/us/stat/107/906].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 231, as added [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 351, Sept. 21, 1993, [107 Stat. 906][/us/stat/107/906].)
 
  __Effective Date__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/93/113/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs231
-[/us/pl/103/82/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs351
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F906
 [/us/pl/103/82/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs392
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951

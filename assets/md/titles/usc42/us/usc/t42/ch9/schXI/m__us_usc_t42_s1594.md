@@ -31,29 +31,29 @@
 
         On request by the Secretary of Defense, the Attorney General shall furnish to the Secretary of Defense, or his designee, an opinion as to the sufficiency of title to any property on which it is proposed to construct housing, or on which housing has been constructed, under this section. If the opinion of the Attorney General is that the title to any such property is good and sufficient, the Secretary of Defense is authorized to guarantee, or enter into a commitment to guarantee, the mortgagee, under a mortgage on such property which is insured under title VIII of the National Housing Act \[[12 U.S.C. 1748][/us/usc/t12/s1748] et seq.\], against any losses that may thereafter arise from adverse claims to title. None of the proceeds of any mortgage loan hereafter insured under such title VIII shall be used for title search and title insurance costs: Provided, That if the Secretary of Defense, or his designee, determines in the case of any housing project, that the financing of the construction of such project is impossible unless title insurance is provided, the Secretary of Defense may provide for the payment of the reasonable costs necessary for obtaining title search and title insurance. Any payments by the Secretary of Defense hereunder shall be made from the revolving fund established under section 1594a(g)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. Any determination by the Secretary of Defense under the foregoing proviso shall be set forth in writing, together with the reasons therefor. The Committees on Armed Services of the Senate and House of Representatives shall be promptly notified of each such determination, and of the amount of any payment made by the Secretary of Defense for title search and title insurance costs.
 
-([Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 403, [69 Stat. 651][/us/stat/69/651]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, §§ 506(b)–(d), 507, [70 Stat. 1110][/us/stat/70/1110]; [Pub. L. 86–149, title IV, § 415][/us/pl/86/149/s415], Aug. 10, 1959, [73 Stat. 323][/us/stat/73/323]; [Pub. L. 90–19, § 12(d)][/us/pl/90/19/s12/d], (h)(1)–(3), May 25, 1967, [81 Stat. 23][/us/stat/81/23], 24.)
+([Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 403, [69 Stat. 651][/us/stat/69/651]; [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, §§ 506(b)–(d), 507, [70 Stat. 1110][/us/stat/70/1110]; [Pub. L. 86–149, title IV][/us/pl/86/149/tIV], § 415, Aug. 10, 1959, [73 Stat. 323][/us/stat/73/323]; [Pub. L. 90–19][/us/pl/90/19], § 12(d), (h)(1)–(3), May 25, 1967, [81 Stat. 23][/us/stat/81/23], 24.)
 
  __References in Text__ 
 
     The National Housing Act, referred to in subsecs. (c) and (d), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
-    [Section 1594a(g) of this title][/us/usc/t42/s1594a/g], referred to in subsec. (d), was repealed by [Pub. L. 87–554, title V, § 501(d)][/us/pl/87/554/s501/d], July 27, 1962, [76 Stat. 237][/us/stat/76/237].
+    [Section 1594a(g) of this title][/us/usc/t42/s1594a/g], referred to in subsec. (d), was repealed by [Pub. L. 87–554, title V][/us/pl/87/554/tV], § 501(d), July 27, 1962, [76 Stat. 237][/us/stat/76/237].
 
  __Codification__ 
 
-    In subsec. (a), “[section 3131 of title 40][/us/usc/t40/s3131]” substituted for “[section 1 of the Act of August 24, 1935][/us/act/1935-08-24/s1] ([49 Stat. 793][/us/stat/49/793])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a), “[section 3131 of title 40][/us/usc/t40/s3131]” substituted for “[section 1 of the Act of August 24, 1935][/us/act/1935-08-24/s1] ([49 Stat. 793][/us/stat/49/793])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (a), “[section 2305 of title 10][/us/usc/t10/s2305]” substituted for “section 3 of the Armed Forces Procurement Act of 1947” on authority of [act Aug. 10, 1956, ch. 1041, § 49(b)][/us/act/1956-08-10/ch1041/s49/b], [70A Stat. 640][/us/stat/70A/640], the first section of which enacted Title 10, Armed Forces. Prior to enactment of Title 10, section 3 of the Armed Forces Procurement Act of 1947 was classified to section 152 of former Title 41, Public Contracts.
+    In subsec. (a), “[section 2305 of title 10][/us/usc/t10/s2305]” substituted for “section 3 of the Armed Forces Procurement Act of 1947” on authority of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 49(b), [70A Stat. 640][/us/stat/70A/640], the first section of which enacted Title 10, Armed Forces. Prior to enactment of Title 10, section 3 of the Armed Forces Procurement Act of 1947 was classified to section 152 of former Title 41, Public Contracts.
 
  __Amendments__ 
 
-    1967—Subsecs. (a) to (c). [Pub. L. 90–19, § 12(d)][/us/pl/90/19/s12/d], substituted “Secretary of Housing and Urban Development” for “Commissioner” wherever appearing.
+    1967—Subsecs. (a) to (c). [Pub. L. 90–19][/us/pl/90/19], § 12(d), substituted “Secretary of Housing and Urban Development” for “Commissioner” wherever appearing.
 
-    Subsec. (a). [Pub. L. 90–19, § 12(h)(1)][/us/pl/90/19/s12/h/1], substituted “Secretary of Defense” for “Secretary” in fourth and sixth sentences.
+    Subsec. (a). [Pub. L. 90–19][/us/pl/90/19], § 12(h)(1), substituted “Secretary of Defense” for “Secretary” in fourth and sixth sentences.
 
-    Subsec. (b). [Pub. L. 90–19, § 12(h)(2)][/us/pl/90/19/s12/h/2], substituted “Secretary of Defense” for “Secretary”.
+    Subsec. (b). [Pub. L. 90–19][/us/pl/90/19], § 12(h)(2), substituted “Secretary of Defense” for “Secretary”.
 
-    Subsec. (d). [Pub. L. 90–19, § 12(h)(3)][/us/pl/90/19/s12/h/3], substituted “Secretary of Defense” for “Secretary” in last three sentences.
+    Subsec. (d). [Pub. L. 90–19][/us/pl/90/19], § 12(h)(3), substituted “Secretary of Defense” for “Secretary” in last three sentences.
 
     1959—Subsec. (d). [Pub. L. 86–149][/us/pl/86/149] added subsec. (d).
 
@@ -76,28 +76,28 @@
 [/us/stat/69/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F651
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1110
-[/us/pl/86/149/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F149%2Fs415
+[/us/pl/86/149/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F149%2FtIV
 [/us/stat/73/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F323
-[/us/pl/90/19/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs12%2Fd
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F23
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t42/s1594a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1594a%2Fg
-[/us/pl/87/554/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F554%2Fs501%2Fd
+[/us/pl/87/554/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F554%2FtV
 [/us/stat/76/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F237
 [/us/usc/t40/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3131
 [/us/act/1935-08-24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fs1
 [/us/stat/49/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F793
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t10/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305
-[/us/act/1956-08-10/ch1041/s49/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49%2Fb
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
-[/us/pl/90/19/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs12%2Fd
-[/us/pl/90/19/s12/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs12%2Fh%2F1
-[/us/pl/90/19/s12/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs12%2Fh%2F2
-[/us/pl/90/19/s12/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs12%2Fh%2F3
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/pl/86/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F149
 
 

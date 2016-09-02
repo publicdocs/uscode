@@ -69,7 +69,7 @@
 
         Not later than October 1, 1993, the Director shall establish a multipurpose arthritis and musculoskeletal disease center for the purpose of expanding the level of research into the cause, diagnosis, early detection, prevention, control, and treatment of, and rehabilitation of children with arthritis and musculoskeletal diseases.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 441, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 851][/us/stat/99/851]; amended [Pub. L. 100–607, title I, § 137][/us/pl/100/607/s137], Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; [Pub. L. 103–43, title VII, § 701(c)][/us/pl/103/43/s701/c], June 10, 1993, [107 Stat. 162][/us/stat/107/162].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 441, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 851][/us/stat/99/851]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 137, Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; [Pub. L. 103–43, title VII][/us/pl/103/43/tVII], § 701(c), June 10, 1993, [107 Stat. 162][/us/stat/107/162].)
 
  __Amendments__ 
 
@@ -85,11 +85,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F851
-[/us/pl/100/607/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs137
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3056
-[/us/pl/103/43/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fc
+[/us/pl/103/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVII
 [/us/stat/107/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F162
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607

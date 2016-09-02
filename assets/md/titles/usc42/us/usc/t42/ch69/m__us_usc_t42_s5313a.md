@@ -17,7 +17,7 @@
 
     The Secretary shall establish procedures to prevent recipients from receiving any duplication of benefits and report annually to the Committees on Appropriations with regard to all steps taken to prevent fraud and abuse of funds made available under this heading including duplication of benefits.
 
-([Pub. L. 110–329, div. B, title I][/us/pl/110/329], Sept. 30, 2008, [122 Stat. 3601][/us/stat/122/3601]; [Pub. L. 113–76, div. L, title II, § 236][/us/pl/113/76/s236], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].)
+([Pub. L. 110–329, div. B, title I][/us/pl/110/329/dB/tI], Sept. 30, 2008, [122 Stat. 3601][/us/stat/122/3601]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 236, Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].)
 
  __References in Text__ 
 
@@ -31,11 +31,11 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 110–252, title III][/us/pl/110/252], June 30, 2008, [122 Stat. 2353][/us/stat/122/2353]; [Pub. L. 113–76, div. L, title II, § 236][/us/pl/113/76/s236], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].
+    [Pub. L. 110–252, title III][/us/pl/110/252/tIII], June 30, 2008, [122 Stat. 2353][/us/stat/122/2353]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 236, Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].
 
-    [Pub. L. 109–234, title II][/us/pl/109/234], June 15, 2006, [120 Stat. 473][/us/stat/120/473]; [Pub. L. 113–76, div. L, title II, § 236][/us/pl/113/76/s236], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].
+    [Pub. L. 109–234, title II][/us/pl/109/234/tII], June 15, 2006, [120 Stat. 473][/us/stat/120/473]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 236, Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].
 
-    [Pub. L. 109–148, div. B, title I][/us/pl/109/148], Dec. 30, 2005, [119 Stat. 2781][/us/stat/119/2781]; [Pub. L. 113–76, div. L, title II, § 236][/us/pl/113/76/s236], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].
+    [Pub. L. 109–148, div. B, title I][/us/pl/109/148/dB/tI], Dec. 30, 2005, [119 Stat. 2781][/us/stat/119/2781]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 236, Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].
 
 ----------
 
@@ -44,22 +44,22 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
+[/us/pl/110/329/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdB%2FtI
 [/us/stat/122/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3601
-[/us/pl/113/76/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs236
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
-[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtIII
 [/us/stat/122/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2353
-[/us/pl/113/76/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs236
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
-[/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
+[/us/pl/109/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtII
 [/us/stat/120/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F473
-[/us/pl/113/76/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs236
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
-[/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
+[/us/pl/109/148/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdB%2FtI
 [/us/stat/119/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2781
-[/us/pl/113/76/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs236
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
 
 

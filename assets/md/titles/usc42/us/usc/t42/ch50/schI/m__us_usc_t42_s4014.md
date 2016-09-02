@@ -147,7 +147,7 @@
 
             In the case of a property consisting of 5 or more residences, such term shall have such meaning as the Director  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably means “Administrator”. </sup></sup>  shall by regulation provide.
 
-([Pub. L. 90–448, title XIII, § 1307][/us/pl/90/448/s1307], Aug. 1, 1968, [82 Stat. 576][/us/stat/82/576]; [Pub. L. 93–234, title I, § 109][/us/pl/93/234/s109], Dec. 31, 1973, [87 Stat. 980][/us/stat/87/980]; [Pub. L. 93–383, title VIII, § 816(b)][/us/pl/93/383/s816/b], Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–508, title II, § 2302(e)(1)][/us/pl/101/508/s2302/e/1], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 102–550, title IX, § 928][/us/pl/102/550/s928], Oct. 28, 1992, [106 Stat. 3886][/us/stat/106/3886]; [Pub. L. 112–123, § 2(a)][/us/pl/112/123/s2/a], May 31, 2012, [126 Stat. 365][/us/stat/126/365]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100205(a)(1), (b), 100238(b)(1), July 6, 2012, [126 Stat. 917][/us/stat/126/917], 918, 958; [Pub. L. 113–89][/us/pl/113/89], §§ 3(a)(1), 14, 15, 19, Mar. 21, 2014, [128 Stat. 1021][/us/stat/128/1021], 1026, 1027.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1307, Aug. 1, 1968, [82 Stat. 576][/us/stat/82/576]; [Pub. L. 93–234, title I][/us/pl/93/234/tI], § 109, Dec. 31, 1973, [87 Stat. 980][/us/stat/87/980]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 816(b), Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–508, title II][/us/pl/101/508/tII], § 2302(e)(1), Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 928, Oct. 28, 1992, [106 Stat. 3886][/us/stat/106/3886]; [Pub. L. 112–123][/us/pl/112/123], § 2(a), May 31, 2012, [126 Stat. 365][/us/stat/126/365]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100205(a)(1), (b), 100238(b)(1), July 6, 2012, [126 Stat. 917][/us/stat/126/917], 918, 958; [Pub. L. 113–89][/us/pl/113/89], §§ 3(a)(1), 14, 15, 19, Mar. 21, 2014, [128 Stat. 1021][/us/stat/128/1021], 1026, 1027.)
 
  __References in Text__ 
 
@@ -155,39 +155,39 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(A). [Pub. L. 113–89, § 14][/us/pl/113/89/s14], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “based on consideration of the risk involved and accepted actuarial principles, and”.
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–89][/us/pl/113/89], § 14, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “based on consideration of the risk involved and accepted actuarial principles, and”.
 
-    Subsec. (a)(2)(E)(ii). [Pub. L. 113–89, § 15][/us/pl/113/89/s15], substituted “50 percent” for “30 percent”.
+    Subsec. (a)(2)(E)(ii). [Pub. L. 113–89][/us/pl/113/89], § 15, substituted “50 percent” for “30 percent”.
 
-    Subsec. (e). [Pub. L. 113–89, § 19(a)(3)][/us/pl/113/89/s19/a/3], inserted before period at end “Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.”
+    Subsec. (e). [Pub. L. 113–89][/us/pl/113/89], § 19(a)(3), inserted before period at end “Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.”
 
-    [Pub. L. 113–89, § 19(a)(1)][/us/pl/113/89/s19/a/1], (2), inserted “or reconstruction” after “construction” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Administrator shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.”
+    [Pub. L. 113–89][/us/pl/113/89], § 19(a)(1), (2), inserted “or reconstruction” after “construction” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Administrator shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.”
 
-    Subsec. (f). [Pub. L. 113–89, § 19(b)][/us/pl/113/89/s19/b], amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so.”
+    Subsec. (f). [Pub. L. 113–89][/us/pl/113/89], § 19(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so.”
 
-    Subsec. (g). [Pub. L. 113–89, § 3(a)(1)][/us/pl/113/89/s3/a/1], redesignated pars. (3) and (4) as (1) and (2), respectively, substituted “, unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage” for “as a result of the deliberate choice of the holder of such policy” in par. (1) as redesignated, and struck out former pars. (1) and (2), which read as follows:
+    Subsec. (g). [Pub. L. 113–89][/us/pl/113/89], § 3(a)(1), redesignated pars. (3) and (4) as (1) and (2), respectively, substituted “, unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage” for “as a result of the deliberate choice of the holder of such policy” in par. (1) as redesignated, and struck out former pars. (1) and (2), which read as follows:
 
     “(1) any property not insured by the flood insurance program as of July 6, 2012;
 
     “(2) any property purchased after July 6, 2012;”.
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in introductory provisions.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
 
-    Subsec. (a)(1)(B)(iv). [Pub. L. 112–141, § 100205(b)][/us/pl/112/141/s100205/b], added cl. (iv).
+    Subsec. (a)(1)(B)(iv). [Pub. L. 112–141][/us/pl/112/141], § 100205(b), added cl. (iv).
 
-    Subsec. (a)(2). [Pub. L. 112–141, § 100205(a)(1)(A)][/us/pl/112/141/s100205/a/1/A], substituted “for—” for “for any residential property which is not the primary residence of an individual; and” and added subpars. (A) to (E).
+    Subsec. (a)(2). [Pub. L. 112–141][/us/pl/112/141], § 100205(a)(1)(A), substituted “for—” for “for any residential property which is not the primary residence of an individual; and” and added subpars. (A) to (E).
 
     [Pub. L. 112–123][/us/pl/112/123] inserted “, except that the Administrator shall not estimate rates under this paragraph for any residential property which is not the primary residence of an individual” before “; and”.
 
-    Subsecs. (b), (c), (e), (f). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” wherever appearing.
+    Subsecs. (b), (c), (e), (f). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
-    Subsecs. (g), (h). [Pub. L. 112–141, § 100205(a)(1)(B)][/us/pl/112/141/s100205/a/1/B], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 112–141][/us/pl/112/141], § 100205(a)(1)(B), added subsecs. (g) and (h).
 
     1992—Subsec. (f). [Pub. L. 102–550][/us/pl/102/550] added subsec. (f).
 
-    1990—Subsec. (a)(1)(B)(iii). [Pub. L. 101–508, § 2302(e)(1)(A)][/us/pl/101/508/s2302/e/1/A]–(C), added cl. (iii).
+    1990—Subsec. (a)(1)(B)(iii). [Pub. L. 101–508][/us/pl/101/508], § 2302(e)(1)(A)–(C), added cl. (iii).
 
-    Subsec. (a)(2). [Pub. L. 101–508, § 2302(e)(1)(D)][/us/pl/101/508/s2302/e/1/D], inserted before semicolon “, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under [section 4101 of this title][/us/usc/t42/s4101])”.
+    Subsec. (a)(2). [Pub. L. 101–508][/us/pl/101/508], § 2302(e)(1)(D), inserted before semicolon “, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under [section 4101 of this title][/us/usc/t42/s4101])”.
 
     1983—Subsecs. (a) to (c), (e). [Pub. L. 98–181][/us/pl/98/181] substituted “Director” for “Secretary” wherever appearing.
 
@@ -197,7 +197,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–141, div. F, title II, § 100205(a)(2)][/us/pl/112/141/s100205/a/2], July 6, 2012, [126 Stat. 918][/us/stat/126/918], provided that: 
+[Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100205(a)(2), July 6, 2012, [126 Stat. 918][/us/stat/126/918], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\].”
 
@@ -209,7 +209,7 @@
 
  __Repeal of Certain Rate Increases__ 
 
-[Pub. L. 113–89, § 3][/us/pl/113/89/s3], Mar. 21, 2014, [128 Stat. 1021][/us/stat/128/1021], provided that:
+[Pub. L. 113–89][/us/pl/113/89], § 3, Mar. 21, 2014, [128 Stat. 1021][/us/stat/128/1021], provided that:
 
 >     “(a) __Repeal.—__ 
 
@@ -241,13 +241,13 @@
 
  __Changes in Rates Resulting From__  __[__  __Pub. L. 113–89__  __][/us/pl/113/89]__ 
 
-[Pub. L. 113–89, § 31(a)][/us/pl/113/89/s31/a], Mar. 21, 2014, [128 Stat. 1035][/us/stat/128/1035], provided that: 
+[Pub. L. 113–89][/us/pl/113/89], § 31(a), Mar. 21, 2014, [128 Stat. 1035][/us/stat/128/1035], provided that: 
 
 > “Not later than the date that is 6 months before the date on which any change in risk premium rates for flood insurance coverage under the National Flood Insurance Program \[defined as the program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.)\] resulting from this Act \[see Short Title of 2014 Amendment note set out under [section 4001 of this title][/us/usc/t42/s4001]\] or any amendment made by this Act is implemented, the Administrator \[of the Federal Emergency Management Agency\] shall make publicly available the rate tables and underwriting guidelines that provide the basis for the change.”
 
  __Eligibility for Flood Insurance for Persons Residing in Communities That Have Made Adequate Progress on the Reconstruction or Improvement of a Flood Protection System__ 
 
-[Pub. L. 112–141, div. F, title II, § 100230][/us/pl/112/141/s100230], July 6, 2012, [126 Stat. 946][/us/stat/126/946], provided that:
+[Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100230, July 6, 2012, [126 Stat. 946][/us/stat/126/946], provided that:
 
 >     “(a) __Eligibility for Flood Insurance Coverage.—__ 
 
@@ -363,17 +363,17 @@
 
  __Fees__ 
 
-[Pub. L. 108–7, div. K, title III][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 517][/us/stat/117/517], provided in part: 
+[Pub. L. 108–7, div. K, title III][/us/pl/108/7/dK/tIII], Feb. 20, 2003, [117 Stat. 517][/us/stat/117/517], provided in part: 
 
 > “That beginning in fiscal year 2003 and thereafter, fees authorized in [42 U.S.C. 4014(a)(1)(B)(iii)][/us/usc/t42/s4014/a/1/B/iii] shall be collected only if provided in advance in appropriations acts.”
 
  __Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures__ 
 
-    [Pub. L. 103–325, title V, § 578][/us/pl/103/325/s578], Sept. 23, 1994, [108 Stat. 2284][/us/stat/108/2284], required the Director of the Federal Emergency Management Agency to conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage for pre-FIRM structures and submit a report to Congress no later than 12 months after Sept. 23, 1994.
+    [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 578, Sept. 23, 1994, [108 Stat. 2284][/us/stat/108/2284], required the Director of the Federal Emergency Management Agency to conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage for pre-FIRM structures and submit a report to Congress no later than 12 months after Sept. 23, 1994.
 
  __Sea Level Rise Study__ 
 
-    [Pub. L. 101–137, § 5][/us/pl/101/137/s5], Nov. 3, 1989, [103 Stat. 825][/us/stat/103/825], directed Director of Federal Emergency Management Agency to conduct a study to determine the impact of relative sea level rise on the flood insurance rate maps, such study also to project the economic losses associated with estimated sea level rise and aggregate such data for the United States as a whole and by region, with Director to report results of study to Congress not later than one year after Nov. 3, 1989.
+    [Pub. L. 101–137][/us/pl/101/137], § 5, Nov. 3, 1989, [103 Stat. 825][/us/stat/103/825], directed Director of Federal Emergency Management Agency to conduct a study to determine the impact of relative sea level rise on the flood insurance rate maps, such study also to project the economic losses associated with estimated sea level rise and aggregate such data for the United States as a whole and by region, with Director to report results of study to Congress not later than one year after Nov. 3, 1989.
 
 ----------
 
@@ -388,51 +388,51 @@
 [/us/usc/t42/s4012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012%2Fb
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
-[/us/pl/90/448/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1307
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F576
-[/us/pl/93/234/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs109
+[/us/pl/93/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtI
 [/us/stat/87/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F980
-[/us/pl/93/383/s816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs816%2Fb
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F739
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/101/508/s2302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2302%2Fe%2F1
+[/us/pl/101/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtII
 [/us/stat/104/1388-24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-24
-[/us/pl/102/550/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs928
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3886
-[/us/pl/112/123/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F123%2Fs2%2Fa
+[/us/pl/112/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F123
 [/us/stat/126/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F365
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F917
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1021
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/113/89/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs14
-[/us/pl/113/89/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs15
-[/us/pl/113/89/s19/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs19%2Fa%2F3
-[/us/pl/113/89/s19/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs19%2Fa%2F1
-[/us/pl/113/89/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs19%2Fb
-[/us/pl/113/89/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs3%2Fa%2F1
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100205%2Fb
-[/us/pl/112/141/s100205/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100205%2Fa%2F1%2FA
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F123
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100205/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100205%2Fa%2F1%2FB
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/101/508/s2302/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2302%2Fe%2F1%2FA
-[/us/pl/101/508/s2302/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2302%2Fe%2F1%2FD
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
-[/us/pl/112/141/s100205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100205%2Fa%2F2
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F918
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/113/89/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs3
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1021
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F957
@@ -441,21 +441,21 @@
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
-[/us/pl/113/89/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs31%2Fa
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1035
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/112/141/s100230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100230
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F946
 [/us/usc/t42/s4014/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fe
 [/us/pl/112/141/s100230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100230
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIII
 [/us/stat/117/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F517
 [/us/usc/t42/s4014/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fa%2F1%2FB%2Fiii
-[/us/pl/103/325/s578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs578
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2284
-[/us/pl/101/137/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F137%2Fs5
+[/us/pl/101/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F137
 [/us/stat/103/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F825
 
 

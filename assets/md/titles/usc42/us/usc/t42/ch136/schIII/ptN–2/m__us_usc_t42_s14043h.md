@@ -35,7 +35,7 @@
 
             Nothing in this paragraph shall be construed to require a State, in order to receive an increase in the amount provided to the State under the covered formula grants under this part, to have in place a law that terminates any obligation of a person who fathered a child through rape to support the child.
 
-([Pub. L. 114–22, title IV, § 402][/us/pl/114/22/s402], May 29, 2015, [129 Stat. 256][/us/stat/129/256].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 402, May 29, 2015, [129 Stat. 256][/us/stat/129/256].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t42/s3796gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg
 [/us/usc/t42/s14043g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043g
-[/us/pl/114/22/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs402
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F256
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

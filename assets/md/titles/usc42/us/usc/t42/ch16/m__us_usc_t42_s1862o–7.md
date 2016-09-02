@@ -21,7 +21,7 @@
 
     (2) outlines actions that can be taken to ensure that such connections are available to enable participation in those Foundation programs that rely heavily on high-speed networking and collaborations across institutions and regions.
 
-([Pub. L. 110–69, title VII, § 7020][/us/pl/110/69/s7020], Aug. 9, 2007, [121 Stat. 685][/us/stat/121/685].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7020, Aug. 9, 2007, [121 Stat. 685][/us/stat/121/685].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7020
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F685
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

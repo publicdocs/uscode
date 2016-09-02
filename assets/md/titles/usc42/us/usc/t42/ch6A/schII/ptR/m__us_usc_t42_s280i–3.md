@@ -97,7 +97,7 @@
 
                 (v) encouraging transitioning youth to utilize all available transition services to maximize independence, equal opportunity, full participation, and self-sufficiency.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399DD, as added [Pub. L. 109–416, § 3(a)][/us/pl/109/416/s3/a], Dec. 19, 2006, [120 Stat. 2828][/us/stat/120/2828]; amended [Pub. L. 112–32, § 2(4)][/us/pl/112/32/s2/4], Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157, § 6][/us/pl/113/157/s6], Aug. 8, 2014, [128 Stat. 1834][/us/stat/128/1834].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399DD, as added [Pub. L. 109–416][/us/pl/109/416], § 3(a), Dec. 19, 2006, [120 Stat. 2828][/us/stat/120/2828]; amended [Pub. L. 112–32][/us/pl/112/32], § 2(4), Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157][/us/pl/113/157], § 6, Aug. 8, 2014, [128 Stat. 1834][/us/stat/128/1834].)
 
  __References in Text__ 
 
@@ -105,31 +105,31 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–157, § 6(1)][/us/pl/113/157/s6/1], substituted “Reports” for “Report” in section catchline.
+    2014—[Pub. L. 113–157][/us/pl/113/157], § 6(1), substituted “Reports” for “Report” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–157, § 6(2)][/us/pl/113/157/s6/2]–(4), designated existing provisions of entire section as subsec. (a), inserted heading, redesignated former subsecs. (a) and (b) as pars. (1) and (2), respectively, of subsec. (a), redesignated pars. (1) to (9) of former subsec. (b) as subpars. (A) to (I), respectively, of par. (2) of subsec. (a), and realigned margins.
+    Subsec. (a). [Pub. L. 113–157][/us/pl/113/157], § 6(2)–(4), designated existing provisions of entire section as subsec. (a), inserted heading, redesignated former subsecs. (a) and (b) as pars. (1) and (2), respectively, of subsec. (a), redesignated pars. (1) to (9) of former subsec. (b) as subpars. (A) to (I), respectively, of par. (2) of subsec. (a), and realigned margins.
 
-    Subsec. (a)(1). [Pub. L. 113–157, § 6(5)][/us/pl/113/157/s6/5], substituted “4 years after August 8, 2014” for “2 years after September 30, 2011” and inserted “and the Secretary of Defense” after “the Secretary of Education” and “, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services,” after “Representatives”.
+    Subsec. (a)(1). [Pub. L. 113–157][/us/pl/113/157], § 6(5), substituted “4 years after August 8, 2014” for “2 years after September 30, 2011” and inserted “and the Secretary of Defense” after “the Secretary of Education” and “, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services,” after “Representatives”.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–157, § 6(6)(A)][/us/pl/113/157/s6/6/A], substituted “Autism CARES Act of 2014” for “Combating Autism Act of 2006”.
+    Subsec. (a)(2)(A). [Pub. L. 113–157][/us/pl/113/157], § 6(6)(A), substituted “Autism CARES Act of 2014” for “Combating Autism Act of 2006”.
 
-    Subsec. (a)(2)(B). [Pub. L. 113–157, § 6(6)(B)][/us/pl/113/157/s6/6/B], substituted “amendments made by the Autism CARES Act of 2014” for “particular provisions of Combating Autism Act of 2006”.
+    Subsec. (a)(2)(B). [Pub. L. 113–157][/us/pl/113/157], § 6(6)(B), substituted “amendments made by the Autism CARES Act of 2014” for “particular provisions of Combating Autism Act of 2006”.
 
-    Subsec. (a)(2)(C). [Pub. L. 113–157, § 6(6)(C)][/us/pl/113/157/s6/6/C], added subpar. (C) and struck out former subpar. (C) which read as follows: “information on the incidence of autism spectrum disorder and trend data of such incidence since December 19, 2006;”.
+    Subsec. (a)(2)(C). [Pub. L. 113–157][/us/pl/113/157], § 6(6)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “information on the incidence of autism spectrum disorder and trend data of such incidence since December 19, 2006;”.
 
-    Subsec. (a)(2)(D), (E). [Pub. L. 113–157, § 6(6)(D)][/us/pl/113/157/s6/6/D], (E), substituted “4-year period beginning on August 8, 2014, and, as appropriate, how this age varies across population subgroups” for “6-year period beginning on December 19, 2006”.
+    Subsec. (a)(2)(D), (E). [Pub. L. 113–157][/us/pl/113/157], § 6(6)(D), (E), substituted “4-year period beginning on August 8, 2014, and, as appropriate, how this age varies across population subgroups” for “6-year period beginning on December 19, 2006”.
 
-    Subsec. (a)(2)(F). [Pub. L. 113–157, § 6(6)(F)][/us/pl/113/157/s6/6/F], inserted “and, as appropriate, on how such average time varies across population subgroups” before semicolon at end.
+    Subsec. (a)(2)(F). [Pub. L. 113–157][/us/pl/113/157], § 6(6)(F), inserted “and, as appropriate, on how such average time varies across population subgroups” before semicolon at end.
 
-    Subsec. (a)(2)(G). [Pub. L. 113–157, § 6(6)(G)][/us/pl/113/157/s6/6/G], substituted “including by severity level as practicable,” for “including by various subtypes,” and “child or other factors, such as demographic characteristics, may” for “child may”.
+    Subsec. (a)(2)(G). [Pub. L. 113–157][/us/pl/113/157], § 6(6)(G), substituted “including by severity level as practicable,” for “including by various subtypes,” and “child or other factors, such as demographic characteristics, may” for “child may”.
 
-    Subsec. (a)(2)(I). [Pub. L. 113–157, § 6(6)(H)][/us/pl/113/157/s6/6/H], added subpar. (I) and struck out former subpar. (I) which read as follows: “information on services and supports provided to individuals with autism spectrum disorder and other developmental disabilities who have reached the age of majority (as defined for purposes of [section 1415(m) of title 20][/us/usc/t20/s1415/m]).”
+    Subsec. (a)(2)(I). [Pub. L. 113–157][/us/pl/113/157], § 6(6)(H), added subpar. (I) and struck out former subpar. (I) which read as follows: “information on services and supports provided to individuals with autism spectrum disorder and other developmental disabilities who have reached the age of majority (as defined for purposes of [section 1415(m) of title 20][/us/usc/t20/s1415/m]).”
 
-    Subsec. (b). [Pub. L. 113–157, § 6(7)][/us/pl/113/157/s6/7], added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
+    Subsec. (b). [Pub. L. 113–157][/us/pl/113/157], § 6(7), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
 
-    2011—Subsec. (a). [Pub. L. 112–32, § 2(4)(A)][/us/pl/112/32/s2/4/A], substituted “Not later than 2 years after September 30, 2011” for “Not later than 4 years after December 19, 2006”.
+    2011—Subsec. (a). [Pub. L. 112–32][/us/pl/112/32], § 2(4)(A), substituted “Not later than 2 years after September 30, 2011” for “Not later than 4 years after December 19, 2006”.
 
-    Subsec. (b)(4), (5). [Pub. L. 112–32, § 2(4)(B)][/us/pl/112/32/s2/4/B], substituted “the 6-year period beginning on December 19, 2006” for “the 4-year period beginning on the date of enactment of this Act”, which for purposes of codification was translated as “the 4-year period beginning on December 19, 2006”.
+    Subsec. (b)(4), (5). [Pub. L. 112–32][/us/pl/112/32], § 2(4)(B), substituted “the 6-year period beginning on December 19, 2006” for “the 4-year period beginning on the date of enactment of this Act”, which for purposes of codification was translated as “the 4-year period beginning on December 19, 2006”.
 
 ----------
 
@@ -142,28 +142,28 @@
 [/us/usc/t20/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414
 [/us/usc/t29/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/416/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416%2Fs3%2Fa
+[/us/pl/109/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416
 [/us/stat/120/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2828
-[/us/pl/112/32/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32%2Fs2%2F4
+[/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 [/us/stat/125/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F361
-[/us/pl/113/157/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/stat/128/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1834
 [/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/stat/128/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1831
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/113/157/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F1
-[/us/pl/113/157/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F2
-[/us/pl/113/157/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F5
-[/us/pl/113/157/s6/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F6%2FA
-[/us/pl/113/157/s6/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F6%2FB
-[/us/pl/113/157/s6/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F6%2FC
-[/us/pl/113/157/s6/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F6%2FD
-[/us/pl/113/157/s6/6/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F6%2FF
-[/us/pl/113/157/s6/6/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F6%2FG
-[/us/pl/113/157/s6/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F6%2FH
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/usc/t20/s1415/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415%2Fm
-[/us/pl/113/157/s6/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs6%2F7
-[/us/pl/112/32/s2/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32%2Fs2%2F4%2FA
-[/us/pl/112/32/s2/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32%2Fs2%2F4%2FB
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
+[/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 
 

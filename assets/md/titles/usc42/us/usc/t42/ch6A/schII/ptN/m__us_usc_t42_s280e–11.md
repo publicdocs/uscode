@@ -317,7 +317,7 @@
 
             (C) The Secretary may make a grant referred to in subparagraph (A) only if the applicant for the grant makes an agreement that the grant will not be expended for any purpose other than carrying out subparagraph (B). Such a grant may be made only if an application for the grant is submitted to the Secretary containing such agreement, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Secretary determines to be necessary to carry out this paragraph.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399G, formerly § 399F, as added [Pub. L. 102–531, title II, § 201][/us/pl/102/531/s201], Oct. 27, 1992, [106 Stat. 3474][/us/stat/106/3474]; renumbered § 399G, [Pub. L. 106–310, div. A, title V, § 502(3)][/us/pl/106/310/s502/3], Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115]; amended [Pub. L. 109–245, § 1][/us/pl/109/245/s1], July 26, 2006, [120 Stat. 575][/us/stat/120/575].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399G, formerly § 399F, as added [Pub. L. 102–531, title II][/us/pl/102/531/tII], § 201, Oct. 27, 1992, [106 Stat. 3474][/us/stat/106/3474]; renumbered § 399G, [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 502(3), Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115]; amended [Pub. L. 109–245][/us/pl/109/245], § 1, July 26, 2006, [120 Stat. 575][/us/stat/120/575].)
 
  __References in Text__ 
 
@@ -335,17 +335,17 @@
 
  __Amendments__ 
 
-    2006—Subsec. (h)(2)(A). [Pub. L. 109–245, § 1(a)][/us/pl/109/245/s1/a], substituted “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.” for “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years.”
+    2006—Subsec. (h)(2)(A). [Pub. L. 109–245][/us/pl/109/245], § 1(a), substituted “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.” for “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years.”
 
-    Subsec. (h)(7)(A). [Pub. L. 109–245, § 1(b)(1)][/us/pl/109/245/s1/b/1], inserted “, including an accounting of the use of amounts provided for under subsection (i)” before period at end of second sentence.
+    Subsec. (h)(7)(A). [Pub. L. 109–245][/us/pl/109/245], § 1(b)(1), inserted “, including an accounting of the use of amounts provided for under subsection (i)” before period at end of second sentence.
 
-    Subsec. (h)(7)(C). [Pub. L. 109–245, § 1(b)(2)][/us/pl/109/245/s1/b/2], added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
+    Subsec. (h)(7)(C). [Pub. L. 109–245][/us/pl/109/245], § 1(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
 
-    Subsec. (i)(2)(A). [Pub. L. 109–245, § 1(c)(1)(A)][/us/pl/109/245/s1/c/1/A], substituted “$1,250,000” for “$500,000”.
+    Subsec. (i)(2)(A). [Pub. L. 109–245][/us/pl/109/245], § 1(c)(1)(A), substituted “$1,250,000” for “$500,000”.
 
-    Subsec. (i)(2)(B). [Pub. L. 109–245, § 1(c)(1)(B)][/us/pl/109/245/s1/c/1/B], substituted “not less than $500,000, and not more than $1,250,000” for “not more than $500,000”.
+    Subsec. (i)(2)(B). [Pub. L. 109–245][/us/pl/109/245], § 1(c)(1)(B), substituted “not less than $500,000, and not more than $1,250,000” for “not more than $500,000”.
 
-    Subsec. (i)(4). [Pub. L. 109–245, § 1(c)(2)][/us/pl/109/245/s1/c/2], added par. (4).
+    Subsec. (i)(4). [Pub. L. 109–245][/us/pl/109/245], § 1(c)(2), added par. (4).
 
 ----------
 
@@ -357,11 +357,11 @@
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/usc/t18/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs209
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs201
+[/us/pl/102/531/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtII
 [/us/stat/106/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3474
-[/us/pl/106/310/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs502%2F3
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1115
-[/us/pl/109/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245%2Fs1
+[/us/pl/109/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245
 [/us/stat/120/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F575
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
@@ -374,11 +374,11 @@
 [/us/usc/t42/s280d–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280d%E2%80%9311
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s280f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280f
-[/us/pl/109/245/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245%2Fs1%2Fa
-[/us/pl/109/245/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245%2Fs1%2Fb%2F1
-[/us/pl/109/245/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245%2Fs1%2Fb%2F2
-[/us/pl/109/245/s1/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245%2Fs1%2Fc%2F1%2FA
-[/us/pl/109/245/s1/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245%2Fs1%2Fc%2F1%2FB
-[/us/pl/109/245/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245%2Fs1%2Fc%2F2
+[/us/pl/109/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245
+[/us/pl/109/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245
+[/us/pl/109/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245
+[/us/pl/109/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245
+[/us/pl/109/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245
+[/us/pl/109/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F245
 
 

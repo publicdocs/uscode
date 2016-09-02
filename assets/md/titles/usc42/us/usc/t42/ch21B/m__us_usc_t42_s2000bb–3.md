@@ -27,7 +27,7 @@
 
         Nothing in this chapter shall be construed to authorize any government to burden any religious belief.
 
-([Pub. L. 103–141, § 6][/us/pl/103/141/s6], Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489]; [Pub. L. 106–274, § 7(b)][/us/pl/106/274/s7/b], Sept. 22, 2000, [114 Stat. 806][/us/stat/114/806].)
+([Pub. L. 103–141][/us/pl/103/141], § 6, Nov. 16, 1993, [107 Stat. 1489][/us/stat/107/1489]; [Pub. L. 106–274][/us/pl/106/274], § 7(b), Sept. 22, 2000, [114 Stat. 806][/us/stat/114/806].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/103/141/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141%2Fs6
+[/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1489
-[/us/pl/106/274/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs7%2Fb
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F806
 [/us/pl/103/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F141
 [/us/stat/107/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1488

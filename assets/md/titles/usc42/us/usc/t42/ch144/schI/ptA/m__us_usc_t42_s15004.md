@@ -87,13 +87,13 @@
 
             Each meeting of the interagency committee (except for any meetings of any subcommittees of the committee) shall be open to the public. Notice of each meeting, and a statement of the agenda for the meeting, shall be published in the Federal Register not later than 14 days before the date on which the meeting is to occur.
 
-([Pub. L. 106–402, title I, § 104][/us/pl/106/402/s104], Oct. 30, 2000, [114 Stat. 1688][/us/stat/114/1688].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 104, Oct. 30, 2000, [114 Stat. 1688][/us/stat/114/1688].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
 
-    [Section 6007 of this title][/us/usc/t42/s6007], referred to in subsec. (c)(1), was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737].
+    [Section 6007 of this title][/us/usc/t42/s6007], referred to in subsec. (c)(1), was repealed by [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(a), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737].
 
 ----------
 
@@ -107,13 +107,13 @@
 [/us/usc/t42/s15001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001%2Fc
 [/us/usc/t42/s15001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001%2Fc
 [/us/usc/t42/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6007
-[/us/pl/106/402/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs104
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1688
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
 [/us/usc/t42/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6007
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 
 

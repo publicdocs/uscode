@@ -11,28 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schII/ptD/m__us_usc_t42_s13793.md) | [Next](./../../../../../..//us/usc/t42/ch136/schII/ptF/m__us_usc_t42_ch136_schII_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschII%2FptE)
+[Previous](./../../../../../..//us/usc/t42/ch136/schII/ptD/m__us_usc_t42_s13793.md) | [Next](./../../../../../..//us/usc/t42/ch136/schII/ptE/m__us_usc_t42_s13801 _us_usc_t42_s13802.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschII%2FptE)
 
 #### Part E—Assistance for Delinquent and At-Risk Youth
 
-§§ 13801, 13802. __Repealed.__  __[__  __Pub. L. 109–162, title XI, § 1154(b)(2)__  __][/us/pl/109/162/s1154/b/2]__  __,__  __Jan. 5, 2006__  __,__  __[__  __119 Stat. 3113__  __][/us/stat/119/3113]__ 
-
-    Section 13801, [Pub. L. 103–322, title III, § 30701][/us/pl/103/322/s30701], Sept. 13, 1994, [108 Stat. 1855][/us/stat/108/1855], provided grant authority to the Attorney General to support the development and operation of projects to provide residential services to delinquent and at-risk youth.
-
-    Section 13802, [Pub. L. 103–322, title III, § 30702][/us/pl/103/322/s30702], Sept. 13, 1994, [108 Stat. 1856][/us/stat/108/1856], authorized appropriations.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schII/ptD/m__us_usc_t42_s13793.md) | [Next](./../../../../../..//us/usc/t42/ch136/schII/ptF/m__us_usc_t42_ch136_schII_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschII%2FptE)
+[Previous](./../../../../../..//us/usc/t42/ch136/schII/ptD/m__us_usc_t42_s13793.md) | [Next](./../../../../../..//us/usc/t42/ch136/schII/ptE/m__us_usc_t42_s13801 _us_usc_t42_s13802.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschII%2FptE)
 
 ----------
 ----------
 
-[/us/pl/109/162/s1154/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1154%2Fb%2F2
-[/us/stat/119/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3113
-[/us/pl/103/322/s30701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30701
-[/us/stat/108/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1855
-[/us/pl/103/322/s30702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30702
-[/us/stat/108/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1856
 
 

@@ -17,7 +17,7 @@
 
     Any amount which is disregarded (or set aside for future needs) in determining the eligibility of and amount of the aid or assistance for any individual under a State plan approved under subchapter I, X, XIV, XVI, or XIX of this chapter, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  shall not be taken into consideration in determining the eligibility of and amount of aid or assistance for any other individual under a State plan approved under any other of such subchapters.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1109, as added [July 18, 1952, ch. 945, § 7][/us/act/1952-07-18/ch945/s7], [66 Stat. 778][/us/stat/66/778]; amended [Pub. L. 87–543, title I, § 141(c)][/us/pl/87/543/s141/c], July 25, 1962, [76 Stat. 205][/us/stat/76/205]; [Pub. L. 89–97, title I, § 121(c)(2)][/us/pl/89/97/s121/c/2], July 30, 1965, [79 Stat. 352][/us/stat/79/352]; [Pub. L. 90–248, title II, § 241(c)(2)][/us/pl/90/248/s241/c/2], Jan. 2, 1968, [81 Stat. 917][/us/stat/81/917]; [Pub. L. 104–193, title I, § 108(g)(1)][/us/pl/104/193/s108/g/1], Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1109, as added [July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], § 7, [66 Stat. 778][/us/stat/66/778]; amended [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 141(c), July 25, 1962, [76 Stat. 205][/us/stat/76/205]; [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 121(c)(2), July 30, 1965, [79 Stat. 352][/us/stat/79/352]; [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 241(c)(2), Jan. 2, 1968, [81 Stat. 917][/us/stat/81/917]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(g)(1), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168].)
 
  __Amendments__ 
 
@@ -41,15 +41,15 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/act/1952-07-18/ch945/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs7
+[/us/act/1952-07-18/ch945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945
 [/us/stat/66/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F778
-[/us/pl/87/543/s141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs141%2Fc
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F205
-[/us/pl/89/97/s121/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs121%2Fc%2F2
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F352
-[/us/pl/90/248/s241/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs241%2Fc%2F2
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F917
-[/us/pl/104/193/s108/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fg%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2168
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248

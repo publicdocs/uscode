@@ -77,7 +77,7 @@
 
         The Secretary shall publish guidelines for the model program under this section not later than 180 days after November 28, 1990.
 
-([Pub. L. 101–625, title II, § 252][/us/pl/101/625/s252], Nov. 28, 1990, [104 Stat. 4119][/us/stat/104/4119].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 252, Nov. 28, 1990, [104 Stat. 4119][/us/stat/104/4119].)
 
 ----------
 
@@ -88,7 +88,7 @@
 
 [/us/usc/t42/s12749/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12749%2Fb
 [/us/usc/t42/s12744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12744
-[/us/pl/101/625/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs252
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4119
 
 

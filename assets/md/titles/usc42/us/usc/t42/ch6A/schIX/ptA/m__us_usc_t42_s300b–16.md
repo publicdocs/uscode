@@ -21,7 +21,7 @@
 
     (2) to carry out [section 300b–12 of this title][/us/usc/t42/s300b–12], $8,000,000 for each of fiscal years 2015 through 2019.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1117, as added [Pub. L. 113–240, § 10][/us/pl/113/240/s10], Dec. 18, 2014, [128 Stat. 2856][/us/stat/128/2856].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1117, as added [Pub. L. 113–240][/us/pl/113/240], § 10, Dec. 18, 2014, [128 Stat. 2856][/us/stat/128/2856].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t42/s300b–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9312
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/113/240/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs10
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
 [/us/stat/128/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2856
 
 

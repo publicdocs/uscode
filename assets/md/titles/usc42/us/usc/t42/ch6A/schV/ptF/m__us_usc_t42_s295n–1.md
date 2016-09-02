@@ -31,7 +31,7 @@
 
         An application submitted under this section shall contain a description of the linkages with relevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish. To the extent practicable, grantees under this section shall establish linkages with health care providers who provide care for underserved communities and populations.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 796, as added [Pub. L. 105–392, title I, § 106(a)(2)(F)][/us/pl/105/392/s106/a/2/F], Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 796, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 106(a)(2)(F), Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s106/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs106%2Fa%2F2%2FF
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3557
 
 

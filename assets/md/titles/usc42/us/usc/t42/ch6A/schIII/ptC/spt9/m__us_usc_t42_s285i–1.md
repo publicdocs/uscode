@@ -53,7 +53,7 @@
 
         The purposes for which a grant under subsection (a) of this section may be expended include equipment for the research described in such subsection.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 456, as added [Pub. L. 103–43, title XI, § 1101(a)][/us/pl/103/43/s1101/a], June 10, 1993, [107 Stat. 168][/us/stat/107/168].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 456, as added [Pub. L. 103–43, title XI][/us/pl/103/43/tXI], § 1101(a), June 10, 1993, [107 Stat. 168][/us/stat/107/168].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1101%2Fa
+[/us/pl/103/43/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXI
 [/us/stat/107/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F168
 
 

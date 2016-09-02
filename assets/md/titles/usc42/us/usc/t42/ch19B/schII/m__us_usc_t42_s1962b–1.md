@@ -27,7 +27,7 @@
 
     (e) When deemed appropriate by the President, one member, who shall be appointed by the President, from the United States section of any international commission created by a treaty to which the consent of the Senate has been given, and whose jurisdiction extends to the waters of the area, river basin, or group of river basins for which the river basin commission is established.
 
-([Pub. L. 89–80, title II, § 202][/us/pl/89/80/s202], July 22, 1965, [79 Stat. 247][/us/stat/79/247].)
+([Pub. L. 89–80, title II][/us/pl/89/80/tII], § 202, July 22, 1965, [79 Stat. 247][/us/stat/79/247].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs202
+[/us/pl/89/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtII
 [/us/stat/79/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F247
 
 

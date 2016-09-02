@@ -17,11 +17,11 @@
 
     The individual serving in the position of Administrator of the National Aeronautics and Space Administration as of October 11, 2010, comes from civilian life and is therefore eligible to serve in such position, in conformance with [section 20111 of title 51][/us/usc/t51/s20111].
 
-([Pub. L. 111–267, title XII, § 1204][/us/pl/111/267/s1204], Oct. 11, 2010, [124 Stat. 2842][/us/stat/124/2842].)
+([Pub. L. 111–267, title XII][/us/pl/111/267/tXII], § 1204, Oct. 11, 2010, [124 Stat. 2842][/us/stat/124/2842].)
 
  __Codification__ 
 
-    In text, “[section 20111 of title 51][/us/usc/t51/s20111]” substituted for “section 202 of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2472(a)][/us/usc/t42/s2472/a])” on authority of [Pub. L. 111–314, § 5(e)][/us/pl/111/314/s5/e], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
+    In text, “[section 20111 of title 51][/us/usc/t51/s20111]” substituted for “section 202 of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2472(a)][/us/usc/t42/s2472/a])” on authority of [Pub. L. 111–314][/us/pl/111/314], § 5(e), Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
 
 ----------
 
@@ -31,11 +31,11 @@
 ----------
 
 [/us/usc/t51/s20111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20111
-[/us/pl/111/267/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs1204
+[/us/pl/111/267/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtXII
 [/us/stat/124/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2842
 [/us/usc/t51/s20111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20111
 [/us/usc/t42/s2472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2472%2Fa
-[/us/pl/111/314/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs5%2Fe
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3443
 
 

@@ -33,11 +33,11 @@
 
         The Task Force may make available to health professionals, and to other members of the public, information regarding the research described in subsection (b) of this section.
 
-([Pub. L. 101–557, title III, § 301][/us/pl/101/557/s301], Nov. 15, 1990, [104 Stat. 2768][/us/stat/104/2768].)
+([Pub. L. 101–557, title III][/us/pl/101/557/tIII], § 301, Nov. 15, 1990, [104 Stat. 2768][/us/stat/104/2768].)
 
  __References in Text__ 
 
-    [Section 242q–4 of this title][/us/usc/t42/s242q–4], referred to in subsec. (b), was in the original “section 305”, meaning [section 305 of Pub. L. 101–557][/us/pl/101/557/s305]. Section 305 was renumbered section 304 by [Pub. L. 109–482, title I, § 104(b)(3)(B)][/us/pl/109/482/s104/b/3/B], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].
+    [Section 242q–4 of this title][/us/usc/t42/s242q–4], referred to in subsec. (b), was in the original “section 305”, meaning [section 305 of Pub. L. 101–557][/us/pl/101/557/s305]. Section 305 was renumbered section 304 by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(3)(B), Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].
 
  __Codification__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/101/557/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs301
+[/us/pl/101/557/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2FtIII
 [/us/stat/104/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2768
 [/us/usc/t42/s242q–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242q%E2%80%934
 [/us/pl/101/557/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs305
-[/us/pl/109/482/s104/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F3%2FB
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3694
 
 

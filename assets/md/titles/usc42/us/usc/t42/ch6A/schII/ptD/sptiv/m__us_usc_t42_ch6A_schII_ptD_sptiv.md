@@ -17,11 +17,11 @@
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–177, title II, § 202(f)(1)][/us/pl/100/177/s202/f/1], Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999], substituted “IV” for “III” as subpart designation.
+    1987—[Pub. L. 100–177, title II][/us/pl/100/177/tII], § 202(f)(1), Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999], substituted “IV” for “III” as subpart designation.
 
-    1983—[Pub. L. 97–414, § 6(a)][/us/pl/97/414/s6/a], Jan. 4, 1983, [96 Stat. 2057][/us/stat/96/2057], added heading “Subpart III—Home Health Services”.
+    1983—[Pub. L. 97–414][/us/pl/97/414], § 6(a), Jan. 4, 1983, [96 Stat. 2057][/us/stat/96/2057], added heading “Subpart III—Home Health Services”.
 
-    1978—[Pub. L. 95–626, title I, § 105(b)][/us/pl/95/626/s105/b], title II, § 207(a), Nov. 10, 1978, [92 Stat. 3560][/us/stat/92/3560], 3585, struck out heading “Part D—Lepers” and added heading “Subpart III—Home Health Services”.
+    1978—[Pub. L. 95–626, title I][/us/pl/95/626/tI], § 105(b), title II, § 207(a), Nov. 10, 1978, [92 Stat. 3560][/us/stat/92/3560], 3585, struck out heading “Part D—Lepers” and added heading “Subpart III—Home Health Services”.
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/100/177/s202/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Ff%2F1
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F999
-[/us/pl/97/414/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs6%2Fa
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2057
-[/us/pl/95/626/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs105%2Fb
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3560
 
 

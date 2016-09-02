@@ -61,15 +61,15 @@
 
         (13) advancing the exploration and peaceful uses of outer space.
 
-([Pub. L. 94–282, title I, § 101][/us/pl/94/282/s101], May 11, 1976, [90 Stat. 459][/us/stat/90/459].)
+([Pub. L. 94–282, title I][/us/pl/94/282/tI], § 101, May 11, 1976, [90 Stat. 459][/us/stat/90/459].)
 
  __Short Title__ 
 
-[Pub. L. 94–282, § 1][/us/pl/94/282/s1], May 11, 1976, [90 Stat. 459][/us/stat/90/459], provided that: 
+[Pub. L. 94–282][/us/pl/94/282], § 1, May 11, 1976, [90 Stat. 459][/us/stat/90/459], provided that: 
 
 > “This Act \[enacting this chapter, amending [section 1863 of this title][/us/usc/t42/s1863], repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 ([76 Stat. 1253][/us/stat/76/1253]), set out as a note under [section 1861 of this title][/us/usc/t42/s1861], and section 2 of Reorganization Plan Numbered 1 of 1973 ([87 Stat. 1089][/us/stat/87/1089]), set out as a note under [section 5195 of this title][/us/usc/t42/s5195], and enacting provisions set out as notes under this section and sections 1862 and 6611 of this title\] may be cited as the ‘National Science and Technology Policy, Organization, and Priorities Act of 1976’.”
 
-[Pub. L. 94–282, title II, § 201][/us/pl/94/282/s201], May 11, 1976, [90 Stat. 463][/us/stat/90/463], provided that: 
+[Pub. L. 94–282, title II][/us/pl/94/282/tII], § 201, May 11, 1976, [90 Stat. 463][/us/stat/90/463], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Presidential Science and Technology Advisory Organization Act of 1976’.”
 
@@ -404,16 +404,16 @@ Sec. 3. The Federal science, engineering, and technology functions under Section
 ----------
 ----------
 
-[/us/pl/94/282/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs101
+[/us/pl/94/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtI
 [/us/stat/90/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F459
-[/us/pl/94/282/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs1
+[/us/pl/94/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282
 [/us/stat/90/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F459
 [/us/usc/t42/s1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863
 [/us/stat/76/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1253
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/stat/87/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1089
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/94/282/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs201
+[/us/pl/94/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtII
 [/us/stat/90/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F463
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t31/s581c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs581c

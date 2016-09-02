@@ -31,13 +31,13 @@
 
         States that demonstrate that they have existing in-prison drug treatment programs that are in compliance with Federal requirements may use funds awarded under this subchapter for treatment and sanctions both during incarceration and after release.
 
-([Pub. L. 90–351, title I, § 1901][/us/pl/90/351/s1901], as added [Pub. L. 103–322, title III, § 32101(a)(3)][/us/pl/103/322/s32101/a/3], Sept. 13, 1994, [108 Stat. 1898][/us/stat/108/1898]; amended [Pub. L. 107–273, div. B, title II][/us/pl/107/273], §§ 2101, 2102(1), Nov. 2, 2002, [116 Stat. 1792][/us/stat/116/1792].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1901, as added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 32101(a)(3), Sept. 13, 1994, [108 Stat. 1898][/us/stat/108/1898]; amended [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], §§ 2101, 2102(1), Nov. 2, 2002, [116 Stat. 1792][/us/stat/116/1792].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 2102(1)][/us/pl/107/273/s2102/1], substituted “purpose of—” for “purpose of”, inserted par. (1) designation before “developing”, and added par. (2).
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 2102(1), substituted “purpose of—” for “purpose of”, inserted par. (1) designation before “developing”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 107–273, § 2101][/us/pl/107/273/s2101], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–273][/us/pl/107/273], § 2101, added subsec. (c).
 
  __Prior Provisions__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1901
-[/us/pl/103/322/s32101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32101%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1898
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1792
-[/us/pl/107/273/s2102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2102%2F1
-[/us/pl/107/273/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2101
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/90/351/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1901
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
 

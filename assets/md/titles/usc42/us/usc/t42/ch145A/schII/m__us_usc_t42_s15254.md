@@ -27,7 +27,7 @@
 
         The office of the Member of Congress presenting each State and Local Law Enforcement Badge may make arrangements for the presentation of such State and Local Law Enforcement Badge, and if a Senator and Representative choose to participate jointly as described in subsection (a), the Members shall make joint arrangements. The State and Local Board shall facilitate any such presentation arrangements as requested by the congressional office presenting the State and Local Law Enforcement Badge and shall make arrangements in cases not undertaken by Members of Congress.
 
-([Pub. L. 110–298, title II, § 204][/us/pl/110/298/s204], July 31, 2008, [122 Stat. 2993][/us/stat/122/2993].)
+([Pub. L. 110–298, title II][/us/pl/110/298/tII], § 204, July 31, 2008, [122 Stat. 2993][/us/stat/122/2993].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/298/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs204
+[/us/pl/110/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtII
 [/us/stat/122/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2993
 
 

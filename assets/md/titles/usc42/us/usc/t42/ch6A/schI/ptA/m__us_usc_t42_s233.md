@@ -519,13 +519,13 @@
 
                 (iv) transmission of vaccinia virus by an individual to whom vaccinia vaccine was administered as provided by paragraph (2)(B).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 224, formerly § 223, as added [Pub. L. 91–623, § 4][/us/pl/91/623/s4], Dec. 31, 1970, [84 Stat. 1870][/us/stat/84/1870]; renumbered § 224, [Pub. L. 92–157, title III, § 301(c)][/us/pl/92/157/s301/c], Nov. 18, 1971, [85 Stat. 463][/us/stat/85/463]; amended [Pub. L. 102–501][/us/pl/102/501], §§ 2–4, Oct. 24, 1992, [106 Stat. 3268–3270][/us/stat/106/3268-3270]; [Pub. L. 103–183, title VII, § 706(a)][/us/pl/103/183/s706/a], Dec. 14, 1993, [107 Stat. 2241][/us/stat/107/2241]; [Pub. L. 104–73][/us/pl/104/73], §§ 2–5(b), 6–11, Dec. 26, 1995, [109 Stat. 777–781][/us/stat/109/777-781]; [Pub. L. 104–191, title I, § 194][/us/pl/104/191/s194], Aug. 21, 1996, [110 Stat. 1988][/us/stat/110/1988]; [Pub. L. 104–299, § 4(a)(1)][/us/pl/104/299/s4/a/1], Oct. 11, 1996, [110 Stat. 3644][/us/stat/110/3644]; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 107–296, title III, § 304(c)][/us/pl/107/296/s304/c], Nov. 25, 2002, [116 Stat. 2165][/us/stat/116/2165]; [Pub. L. 108–20, § 3(a)][/us/pl/108/20/s3/a]–(i), Apr. 30, 2003, [117 Stat. 646–648][/us/stat/117/646-648]; [Pub. L. 108–163, § 2(m)(1)][/us/pl/108/163/s2/m/1], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023]; [Pub. L. 111–148, title X, § 10608(a)][/us/pl/111/148/s10608/a], Mar. 23, 2010, [124 Stat. 1014][/us/stat/124/1014].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 224, formerly § 223, as added [Pub. L. 91–623][/us/pl/91/623], § 4, Dec. 31, 1970, [84 Stat. 1870][/us/stat/84/1870]; renumbered § 224, [Pub. L. 92–157, title III][/us/pl/92/157/tIII], § 301(c), Nov. 18, 1971, [85 Stat. 463][/us/stat/85/463]; amended [Pub. L. 102–501][/us/pl/102/501], §§ 2–4, Oct. 24, 1992, [106 Stat. 3268–3270][/us/stat/106/3268-3270]; [Pub. L. 103–183, title VII][/us/pl/103/183/tVII], § 706(a), Dec. 14, 1993, [107 Stat. 2241][/us/stat/107/2241]; [Pub. L. 104–73][/us/pl/104/73], §§ 2–5(b), 6–11, Dec. 26, 1995, [109 Stat. 777–781][/us/stat/109/777-781]; [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 194, Aug. 21, 1996, [110 Stat. 1988][/us/stat/110/1988]; [Pub. L. 104–299][/us/pl/104/299], § 4(a)(1), Oct. 11, 1996, [110 Stat. 3644][/us/stat/110/3644]; [Pub. L. 107–251, title VI][/us/pl/107/251/tVI], § 601(a), Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 304(c), Nov. 25, 2002, [116 Stat. 2165][/us/stat/116/2165]; [Pub. L. 108–20][/us/pl/108/20], § 3(a)–(i), Apr. 30, 2003, [117 Stat. 646–648][/us/stat/117/646-648]; [Pub. L. 108–163][/us/pl/108/163], § 2(m)(1), Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10608(a), Mar. 23, 2010, [124 Stat. 1014][/us/stat/124/1014].)
 
  __References in Text__ 
 
-    The references to [section 254b of this title][/us/usc/t42/s254b] the first place appearing in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), were in the original references to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
+    The references to [section 254b of this title][/us/usc/t42/s254b] the first place appearing in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), were in the original references to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
 
-    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), was repealed by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
     The Social Security Act, referred to in subsecs. (m)(2) and (o)(4), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -539,27 +539,27 @@
 
     Subsec. (n)(1)(C). [Pub. L. 108–163][/us/pl/108/163] substituted “254b” for “254c, 254b(h)” before “, or”.
 
-    Subsec. (p)(2)(A)(ii). [Pub. L. 108–20, § 3(i)][/us/pl/108/20/s3/i], substituted “paragraph (7)(A)” for “paragraph(8)(A)”.
+    Subsec. (p)(2)(A)(ii). [Pub. L. 108–20][/us/pl/108/20], § 3(i), substituted “paragraph (7)(A)” for “paragraph(8)(A)”.
 
-    Subsec. (p)(2)(C)(ii)(II). [Pub. L. 108–20, § 3(a)][/us/pl/108/20/s3/a], substituted “has resided with, or has had contact with,” for “resides or has resided with”.
+    Subsec. (p)(2)(C)(ii)(II). [Pub. L. 108–20][/us/pl/108/20], § 3(a), substituted “has resided with, or has had contact with,” for “resides or has resided with”.
 
-    Subsec. (p)(2)(D). [Pub. L. 108–20, § 3(b)][/us/pl/108/20/s3/b], added subpar. (D).
+    Subsec. (p)(2)(D). [Pub. L. 108–20][/us/pl/108/20], § 3(b), added subpar. (D).
 
-    Subsec. (p)(3). [Pub. L. 108–20, § 3(c)][/us/pl/108/20/s3/c], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The remedy provided by subsection (a) of this section shall be exclusive of any other civil action or proceeding for any claim or suit this subsection encompasses.”
+    Subsec. (p)(3). [Pub. L. 108–20][/us/pl/108/20], § 3(c), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The remedy provided by subsection (a) of this section shall be exclusive of any other civil action or proceeding for any claim or suit this subsection encompasses.”
 
-    Subsec. (p)(5). [Pub. L. 108–20, § 3(d)][/us/pl/108/20/s3/d], substituted “Covered person” for “Defendant” in heading.
+    Subsec. (p)(5). [Pub. L. 108–20][/us/pl/108/20], § 3(d), substituted “Covered person” for “Defendant” in heading.
 
-    Subsec. (p)(7)(A)(i)(II). [Pub. L. 108–20, § 3(e)][/us/pl/108/20/s3/e], amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “vaccinia immune globulin used to control or treat the adverse effects of vaccinia inoculation; and”.
+    Subsec. (p)(7)(A)(i)(II). [Pub. L. 108–20][/us/pl/108/20], § 3(e), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “vaccinia immune globulin used to control or treat the adverse effects of vaccinia inoculation; and”.
 
-    Subsec. (p)(7)(B). [Pub. L. 108–20, § 3(f)(1)][/us/pl/108/20/s3/f/1], substituted “means a person” for “includes any person” in introductory provisions.
+    Subsec. (p)(7)(B). [Pub. L. 108–20][/us/pl/108/20], § 3(f)(1), substituted “means a person” for “includes any person” in introductory provisions.
 
-    Subsec. (p)(7)(B)(ii). [Pub. L. 108–20, § 3(f)(2)][/us/pl/108/20/s3/f/2], substituted “auspices—” for “auspices”, designated “such countermeasure was administered;” as subcl. (I), and added subcls. (II) to (IV).
+    Subsec. (p)(7)(B)(ii). [Pub. L. 108–20][/us/pl/108/20], § 3(f)(2), substituted “auspices—” for “auspices”, designated “such countermeasure was administered;” as subcl. (I), and added subcls. (II) to (IV).
 
-    Subsec. (p)(7)(B)(iv) to (viii). [Pub. L. 108–20, § 3(f)(3)][/us/pl/108/20/s3/f/3], (4), added cls. (iv) to (viii) and struck out former cl. (iv) which read as follows: “an official, agent, or employee of a person described in clause (i), (ii), or (iii).”
+    Subsec. (p)(7)(B)(iv) to (viii). [Pub. L. 108–20][/us/pl/108/20], § 3(f)(3), (4), added cls. (iv) to (viii) and struck out former cl. (iv) which read as follows: “an official, agent, or employee of a person described in clause (i), (ii), or (iii).”
 
-    Subsec. (p)(7)(C). [Pub. L. 108–20, § 3(g)][/us/pl/108/20/s3/g], substituted “individual who—” for “individual who”, designated “is authorized to administer such countermeasure under the law of the State in which the countermeasure was administered.” as cl. (i), substituted “; or” for period at end of cl. (i), and added cl. (ii).
+    Subsec. (p)(7)(C). [Pub. L. 108–20][/us/pl/108/20], § 3(g), substituted “individual who—” for “individual who”, designated “is authorized to administer such countermeasure under the law of the State in which the countermeasure was administered.” as cl. (i), substituted “; or” for period at end of cl. (i), and added cl. (ii).
 
-    Subsec. (p)(7)(D). [Pub. L. 108–20, § 3(h)][/us/pl/108/20/s3/h], added subpar. (D).
+    Subsec. (p)(7)(D). [Pub. L. 108–20][/us/pl/108/20], § 3(h), added subpar. (D).
 
     2002—Subsecs. (g)(1)(G)(ii), (k)(2), (n)(1)(C). [Pub. L. 107–251][/us/pl/107/251] substituted “254b(h)” for “256”.
 
@@ -579,31 +579,31 @@
 
     1995—Subsec. (g)(1). [Pub. L. 104–73][/us/pl/104/73], §§ 3(1), 4, 5(a), designated existing provisions as subpar. (A), inserted “and subject to the approval by the Secretary of an application under subparagraph (D)” after “For purposes of this section”, substituted “an entity described in paragraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor” for “, an entity described in paragraph (4) and any officer, employee, or contractor (subject to paragraph (5)) of such an entity who is a physician or other licensed or certified health care practitioner shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer of the full amount estimated under subsection (k)(1)(A) of this section was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, employee, or contractor”, and added subpars. (B) to (H).
 
-    Subsec. (g)(3). [Pub. L. 104–73, § 2(a)][/us/pl/104/73/s2/a], struck out at end “This subsection shall not apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1996.”
+    Subsec. (g)(3). [Pub. L. 104–73][/us/pl/104/73], § 2(a), struck out at end “This subsection shall not apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1996.”
 
-    Subsec. (g)(5)(B). [Pub. L. 104–73, § 8][/us/pl/104/73/s8], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who normally performs on average less than 32½ hours of services per week for the entity for the period of the contract and is a licensed or certified provider of obstetrical services—
+    Subsec. (g)(5)(B). [Pub. L. 104–73][/us/pl/104/73], § 8, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who normally performs on average less than 32½ hours of services per week for the entity for the period of the contract and is a licensed or certified provider of obstetrical services—
 
     “(i) the individual’s medical malpractice liability insurance coverage does not extend to services performed by the individual for the entity under the contract, or
 
     “(ii) the Secretary finds that patients to whom the entity furnishes services will be deprived of obstetrical services if such individual is not considered a contractor of the entity for purposes of paragraph (1).”
 
-    Subsec. (h). [Pub. L. 104–73, § 5(b)(1)][/us/pl/104/73/s5/b/1], in introductory provisions substituted “The Secretary may not approve an application under subsection (g)(1)(D) of this section unless the Secretary determines that the entity—” for “Notwithstanding subsection (g)(1) of this section, the Secretary, in consultation with the Attorney General, may not deem an entity described in subsection (g)(4) of this section to be an employee of the Public Health Service Act for purposes of this section unless the entity—”.
+    Subsec. (h). [Pub. L. 104–73][/us/pl/104/73], § 5(b)(1), in introductory provisions substituted “The Secretary may not approve an application under subsection (g)(1)(D) of this section unless the Secretary determines that the entity—” for “Notwithstanding subsection (g)(1) of this section, the Secretary, in consultation with the Attorney General, may not deem an entity described in subsection (g)(4) of this section to be an employee of the Public Health Service Act for purposes of this section unless the entity—”.
 
-    Subsec. (h)(4). [Pub. L. 104–73, § 5(b)(2)][/us/pl/104/73/s5/b/2], substituted “will fully cooperate” for “has fully cooperated”.
+    Subsec. (h)(4). [Pub. L. 104–73][/us/pl/104/73], § 5(b)(2), substituted “will fully cooperate” for “has fully cooperated”.
 
-    Subsec. (i)(1). [Pub. L. 104–73, § 9][/us/pl/104/73/s9], substituted “may on the record determine, after notice and opportunity for a full and fair hearing” for “may determine, after notice and opportunity for a hearing”.
+    Subsec. (i)(1). [Pub. L. 104–73][/us/pl/104/73], § 9, substituted “may on the record determine, after notice and opportunity for a full and fair hearing” for “may determine, after notice and opportunity for a hearing”.
 
-    Subsec. (k)(1)(A). [Pub. L. 104–73, § 2(b)(1)][/us/pl/104/73/s2/b/1], substituted “For each fiscal year” for “For each of the fiscal years 1993, 1994, and 1995” and struck out “(except that an estimate shall be made for fiscal year 1993 by December 31, 1992, subject to an adjustment within 90 days thereafter)” after “beginning of the year”.
+    Subsec. (k)(1)(A). [Pub. L. 104–73][/us/pl/104/73], § 2(b)(1), substituted “For each fiscal year” for “For each of the fiscal years 1993, 1994, and 1995” and struck out “(except that an estimate shall be made for fiscal year 1993 by December 31, 1992, subject to an adjustment within 90 days thereafter)” after “beginning of the year”.
 
     Subsec. (k)(2). [Pub. L. 104–73][/us/pl/104/73], §§ 2(b)(2), 10, substituted “for each fiscal year” for “for each of the fiscal years 1993, 1994, and 1995” and “$10,000,000” for “$30,000,000”.
 
-    Subsec. (k)(3). [Pub. L. 104–73, § 3(2)][/us/pl/104/73/s3/2], which directed amendment of subsec. (k)(3) by inserting “governing board member,” after “officer,”, was executed by inserting such language after “officers,” to reflect the probable intent of Congress.
+    Subsec. (k)(3). [Pub. L. 104–73][/us/pl/104/73], § 3(2), which directed amendment of subsec. (k)(3) by inserting “governing board member,” after “officer,”, was executed by inserting such language after “officers,” to reflect the probable intent of Congress.
 
-    Subsec. (l). [Pub. L. 104–73, § 6][/us/pl/104/73/s6], added subsec. (l).
+    Subsec. (l). [Pub. L. 104–73][/us/pl/104/73], § 6, added subsec. (l).
 
-    Subsec. (m). [Pub. L. 104–73, § 7][/us/pl/104/73/s7], added subsec. (m).
+    Subsec. (m). [Pub. L. 104–73][/us/pl/104/73], § 7, added subsec. (m).
 
-    Subsec. (n). [Pub. L. 104–73, § 11][/us/pl/104/73/s11], added subsec. (n).
+    Subsec. (n). [Pub. L. 104–73][/us/pl/104/73], § 11, added subsec. (n).
 
     1993—Subsec. (k)(2). [Pub. L. 103–183][/us/pl/103/183] inserted at end “Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254c, 256 and 256a of this title.”
 
@@ -611,17 +611,17 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title X, § 10608(b)][/us/pl/111/148/s10608/b], Mar. 23, 2010, [124 Stat. 1014][/us/stat/124/1014], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10608(b), Mar. 23, 2010, [124 Stat. 1014][/us/stat/124/1014], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Mar. 23, 2010\] and apply to any act or omission which occurs on or after that date.”
 
  __Effective Date of 2003 Amendments__ 
 
-[Pub. L. 108–163, § 3][/us/pl/108/163/s3], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023], provided that: 
+[Pub. L. 108–163][/us/pl/108/163], § 3, Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023], provided that: 
 
 > “This Act \[see Short Title of 2003 Amendments note set out under [section 201 of this title][/us/usc/t42/s201]\] is deemed to have taken effect immediately after the enactment of [Public Law 107–251][/us/pl/107/251] \[Oct. 26, 2002\].”
 
-[Pub. L. 108–20, § 3(j)][/us/pl/108/20/s3/j], Apr. 30, 2003, [117 Stat. 649][/us/stat/117/649], provided that: 
+[Pub. L. 108–20][/us/pl/108/20], § 3(j), Apr. 30, 2003, [117 Stat. 649][/us/stat/117/649], provided that: 
 
 > “This section \[amending this section\] shall take effect as of November 25, 2002.”
 
@@ -631,27 +631,27 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–299, § 5][/us/pl/104/299/s5], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645], as amended by [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title V, § 521\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–275, provided that: 
+[Pub. L. 104–299][/us/pl/104/299], § 5, Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title V, § 521\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–275, provided that: 
 
 > “This Act \[enacting sections 254b and 254c of this title, amending this section and sections 256c, 1395x, and 1396d of this title, repealing sections 256 and 256a of this title, and enacting provisions set out as notes under sections 201 and 254b of this title\] and the amendments made by this Act shall become effective on October 1, 1996.”
 
-    \[[Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title V, § 521\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–275, provided that the amendment made by that section is effective on the day after Oct. 11, 1996.\]
+    \[[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title V, § 521\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–275, provided that the amendment made by that section is effective on the day after Oct. 11, 1996.\]
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–73, § 5(c)][/us/pl/104/73/s5/c], Dec. 26, 1995, [109 Stat. 779][/us/stat/109/779], provided that: 
+[Pub. L. 104–73][/us/pl/104/73], § 5(c), Dec. 26, 1995, [109 Stat. 779][/us/stat/109/779], provided that: 
 
 > “If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[[42 U.S.C. 233(g)][/us/usc/t42/s233/g]\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–501, § 6][/us/pl/102/501/s6], Oct. 24, 1992, [106 Stat. 3272][/us/stat/106/3272], provided that: 
+[Pub. L. 102–501][/us/pl/102/501], § 6, Oct. 24, 1992, [106 Stat. 3272][/us/stat/106/3272], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 24, 1992\].”
 
  __Report on Risk Exposure of Covered Entities__ 
 
-[Pub. L. 102–501, § 5][/us/pl/102/501/s5], Oct. 24, 1992, [106 Stat. 3271][/us/stat/106/3271], provided that:
+[Pub. L. 102–501][/us/pl/102/501], § 5, Oct. 24, 1992, [106 Stat. 3271][/us/stat/106/3271], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -681,35 +681,35 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/623/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F623%2Fs4
+[/us/pl/91/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F623
 [/us/stat/84/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1870
-[/us/pl/92/157/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs301%2Fc
+[/us/pl/92/157/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtIII
 [/us/stat/85/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F463
 [/us/pl/102/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501
 [/us/stat/106/3268-3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3268-3270
-[/us/pl/103/183/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs706%2Fa
+[/us/pl/103/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVII
 [/us/stat/107/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2241
 [/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
 [/us/stat/109/777-781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F777-781
-[/us/pl/104/191/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs194
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1988
-[/us/pl/104/299/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F1
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3644
-[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
+[/us/pl/107/251/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtVI
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
-[/us/pl/107/296/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs304%2Fc
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2165
-[/us/pl/108/20/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fa
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/stat/117/646-648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F646-648
-[/us/pl/108/163/s2/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fm%2F1
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
-[/us/pl/111/148/s10608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10608%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1014
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -718,17 +718,17 @@
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
-[/us/pl/108/20/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fi
-[/us/pl/108/20/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fa
-[/us/pl/108/20/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fb
-[/us/pl/108/20/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fc
-[/us/pl/108/20/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fd
-[/us/pl/108/20/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fe
-[/us/pl/108/20/s3/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Ff%2F1
-[/us/pl/108/20/s3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Ff%2F2
-[/us/pl/108/20/s3/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Ff%2F3
-[/us/pl/108/20/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fg
-[/us/pl/108/20/s3/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fh
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
@@ -739,42 +739,42 @@
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
-[/us/pl/104/73/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs2%2Fa
-[/us/pl/104/73/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs8
-[/us/pl/104/73/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs5%2Fb%2F1
-[/us/pl/104/73/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs5%2Fb%2F2
-[/us/pl/104/73/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs9
-[/us/pl/104/73/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs2%2Fb%2F1
 [/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
-[/us/pl/104/73/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs3%2F2
-[/us/pl/104/73/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs6
-[/us/pl/104/73/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs7
-[/us/pl/104/73/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs11
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/102/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501
-[/us/pl/111/148/s10608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10608%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1014
-[/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
-[/us/pl/108/20/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs3%2Fj
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/stat/117/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F649
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/104/299/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs5
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/104/73/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73%2Fs5%2Fc
+[/us/pl/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F73
 [/us/stat/109/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F779
 [/us/usc/t42/s233/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233%2Fg
-[/us/pl/102/501/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501%2Fs6
+[/us/pl/102/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501
 [/us/stat/106/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3272
-[/us/pl/102/501/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501%2Fs5
+[/us/pl/102/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F501
 [/us/stat/106/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3271
 [/us/usc/t42/s233/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233%2Fg
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201

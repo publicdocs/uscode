@@ -83,7 +83,7 @@
 
         The Secretary shall study the definition of “psychotherapy notes” in section 164.501 of title 45, Code of Federal Regulations, with regard to including test data that is related to direct responses, scores, items, forms, protocols, manuals, or other materials that are part of a mental health evaluation, as determined by the mental health professional providing treatment or evaluation in such definitions and may, based on such study, issue regulations to revise such definition.
 
-([Pub. L. 111–5, div. A, title XIII, § 13424][/us/pl/111/5/s13424], Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13424, Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t42/s17940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17940
-[/us/pl/111/5/s13424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13424
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F276
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258

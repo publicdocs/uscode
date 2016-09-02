@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 91–515, title V, § 501(e)][/us/pl/91/515/s501/e], Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310].)
+([Pub. L. 91–515, title V][/us/pl/91/515/tV], § 501(e), Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/515/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs501%2Fe
+[/us/pl/91/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtV
 [/us/stat/84/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1310
 
 

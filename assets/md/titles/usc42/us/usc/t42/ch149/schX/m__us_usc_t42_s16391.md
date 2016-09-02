@@ -63,7 +63,7 @@
 
             Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (e).
 
-([Pub. L. 109–58, title X, § 1001][/us/pl/109/58/s1001], Aug. 8, 2005, [119 Stat. 926][/us/stat/119/926]; [Pub. L. 113–291, div. C, title XXXI, § 3144][/us/pl/113/291/s3144], Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
+([Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1001, Aug. 8, 2005, [119 Stat. 926][/us/stat/119/926]; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3144, Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
 
  __References in Text__ 
 
@@ -82,9 +82,9 @@
 
 [/us/usc/t42/s7261c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7261c
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/109/58/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1001
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F926
-[/us/pl/113/291/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3144
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3902
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311

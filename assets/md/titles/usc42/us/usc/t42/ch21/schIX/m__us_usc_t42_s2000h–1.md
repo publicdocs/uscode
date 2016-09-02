@@ -17,7 +17,7 @@
 
     No person should be put twice in jeopardy under the laws of the United States for the same act or omission. For this reason, an acquittal or conviction in a prosecution for a specific crime under the laws of the United States shall bar a proceeding for criminal contempt, which is based upon the same act or omission and which arises under the provisions of this Act; and an acquittal or conviction in a proceeding for criminal contempt, which arises under the provisions of this Act, shall bar a prosecution for a specific crime under the laws of the United States based upon the same act or omission.
 
-([Pub. L. 88–352, title XI, § 1102][/us/pl/88/352/s1102], July 2, 1964, [78 Stat. 268][/us/stat/78/268].)
+([Pub. L. 88–352, title XI][/us/pl/88/352/tXI], § 1102, July 2, 1964, [78 Stat. 268][/us/stat/78/268].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs1102
+[/us/pl/88/352/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtXI
 [/us/stat/78/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F268
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

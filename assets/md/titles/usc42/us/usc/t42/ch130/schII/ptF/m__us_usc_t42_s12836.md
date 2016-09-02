@@ -23,11 +23,11 @@
 
         Subsection (a) of this section shall not apply if the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered and such persons are not otherwise employed at any time in the construction work.
 
-([Pub. L. 101–625, title II, § 286][/us/pl/101/625/s286], Nov. 28, 1990, [104 Stat. 4126][/us/stat/104/4126].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 286, Nov. 28, 1990, [104 Stat. 4126][/us/stat/104/4126].)
 
  __Codification__ 
 
-    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/101/625/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs286
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4126
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

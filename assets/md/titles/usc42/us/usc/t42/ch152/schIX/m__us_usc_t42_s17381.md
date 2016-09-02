@@ -37,7 +37,7 @@
 
     (10) Identification and lowering of unreasonable or unnecessary barriers to adoption of smart grid technologies, practices, and services.
 
-([Pub. L. 110–140, title XIII, § 1301][/us/pl/110/140/s1301], Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
+([Pub. L. 110–140, title XIII][/us/pl/110/140/tXIII], § 1301, Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1301
+[/us/pl/110/140/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIII
 [/us/stat/121/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1783
 
 

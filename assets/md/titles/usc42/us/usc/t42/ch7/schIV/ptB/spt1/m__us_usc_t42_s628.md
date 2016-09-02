@@ -27,7 +27,7 @@
 
         For purposes of this section, the terms “Indian tribe” and “tribal organization” shall have the meanings given such terms by subsections (e) and (l) of [section 450b of title 25][/us/usc/t25/s450b], respectively.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 428, as added [Pub. L. 96–272, title I, § 103(b)][/us/pl/96/272/s103/b], June 17, 1980, [94 Stat. 520][/us/stat/94/520]; amended [Pub. L. 103–66, title XIII, § 13711(b)(3)][/us/pl/103/66/s13711/b/3], Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655]; [Pub. L. 104–193, title III, § 375(d)][/us/pl/104/193/s375/d], Aug. 22, 1996, [110 Stat. 2257][/us/stat/110/2257]; [Pub. L. 109–288, § 6(f)(1)][/us/pl/109/288/s6/f/1], Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 428, as added [Pub. L. 96–272, title I][/us/pl/96/272/tI], § 103(b), June 17, 1980, [94 Stat. 520][/us/stat/94/520]; amended [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(b)(3), Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 375(d), Aug. 22, 1996, [110 Stat. 2257][/us/stat/110/2257]; [Pub. L. 109–288][/us/pl/109/288], § 6(f)(1), Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247].)
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 [/us/usc/t42/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs623
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/272/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs103%2Fb
+[/us/pl/96/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtI
 [/us/stat/94/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F520
-[/us/pl/103/66/s13711/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fb%2F3
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F655
-[/us/pl/104/193/s375/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs375%2Fd
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2257
-[/us/pl/109/288/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F1
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1247
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193

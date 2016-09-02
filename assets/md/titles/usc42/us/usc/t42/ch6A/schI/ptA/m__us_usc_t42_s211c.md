@@ -25,7 +25,7 @@
 
     shall be credited with one year for purposes of promotion and seniority in grade, except that no such credit shall be authorized if the officer has received or will receive similar credit for his internship under other provisions of law. In the case of an officer on active duty on the effective date of this section who is entitled to the credit authorized herein, the one year shall be added to the promotion and seniority-in-grade credits with which he is credited on such date.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 220, as added [Apr. 30, 1956, ch. 223, § 3][/us/act/1956-04-30/ch223/s3], [70 Stat. 121][/us/stat/70/121].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 220, as added [Apr. 30, 1956, ch. 223][/us/act/1956-04-30/ch223], § 3, [70 Stat. 121][/us/stat/70/121].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1956-04-30/ch223/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-30%2Fch223%2Fs3
+[/us/act/1956-04-30/ch223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-30%2Fch223
 [/us/stat/70/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F121
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

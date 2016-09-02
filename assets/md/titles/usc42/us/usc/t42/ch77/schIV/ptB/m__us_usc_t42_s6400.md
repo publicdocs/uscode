@@ -17,7 +17,7 @@
 
     Loan guarantees and obligation guarantees under this Act or any amendment to another law made by this Act may not be issued in violation of any limitation in appropriations or other Acts, with respect to the amounts of outstanding obligational authority.
 
-([Pub. L. 94–163, title V, § 530][/us/pl/94/163/s530], Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 530, Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs530
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F964
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

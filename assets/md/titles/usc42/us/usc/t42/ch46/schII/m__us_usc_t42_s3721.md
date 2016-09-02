@@ -27,15 +27,15 @@
 
     The Institute shall have authority to engage in and encourage research and development to improve and strengthen the criminal justice system and related aspects of the civil justice system and to disseminate the results of such efforts to Federal, State, and local governments, to evaluate the effectiveness of programs funded under this chapter, to develop and demonstrate new or improved approaches and techniques, to improve and strengthen the administration of justice, and to identify programs or projects carried out under this chapter which have demonstrated success in improving the quality of justice systems and which offer the likelihood of success if continued or repeated. In carrying out the provisions of this subchapter, the Institute shall give primary emphasis to the problems of State and local justice systems and shall insure that there is a balance between basic and applied research.
 
-([Pub. L. 90–351, title I, § 201][/us/pl/90/351/s201], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1172][/us/stat/93/1172]; amended [Pub. L. 98–473, title II, § 604(a)][/us/pl/98/473/s604/a], Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 201, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1172][/us/stat/93/1172]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 604(a), Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078].)
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this title”, meaning title I of [Pub. L. 90–351][/us/pl/90/351], as added by [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1167][/us/stat/93/1167], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+    This chapter, referred to in text, was in the original “this title”, meaning title I of [Pub. L. 90–351][/us/pl/90/351], as added by [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1167][/us/stat/93/1167], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
  __Prior Provisions__ 
 
-    A prior section 3721, [Pub. L. 90–351, title I, § 201][/us/pl/90/351/s201], June 19, 1968, [82 Stat. 198][/us/stat/82/198]; [Pub. L. 93–83, § 2][/us/pl/93/83/s2], Aug. 6, 1973, [87 Stat. 197][/us/stat/87/197]; [Pub. L. 94–503, title I, § 104][/us/pl/94/503/s104], Oct. 15, 1976, [90 Stat. 2408][/us/stat/90/2408], set out Congressional statement of purpose in providing for a program of planning grants, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    A prior section 3721, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 201, June 19, 1968, [82 Stat. 198][/us/stat/82/198]; [Pub. L. 93–83][/us/pl/93/83], § 2, Aug. 6, 1973, [87 Stat. 197][/us/stat/87/197]; [Pub. L. 94–503, title I][/us/pl/94/503/tI], § 104, Oct. 15, 1976, [90 Stat. 2408][/us/stat/90/2408], set out Congressional statement of purpose in providing for a program of planning grants, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Assessing and Reducing Threat to Law Enforcement Officers From Criminal Use of Firearms and Ammunition__ 
 
-[Pub. L. 104–132, title VIII, § 809][/us/pl/104/132/s809], Apr. 24, 1996, [110 Stat. 1311][/us/stat/110/1311], provided that:
+[Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 809, Apr. 24, 1996, [110 Stat. 1311][/us/stat/110/1311], provided that:
 
 >     “(a)
 
@@ -101,7 +101,7 @@
 
  __National Commission to Support Law Enforcement__ 
 
-[Pub. L. 101–647, title XXXIV][/us/pl/101/647], Nov. 29, 1990, [104 Stat. 4918][/us/stat/104/4918], as amended by [Pub. L. 103–322, title XXVI, § 260002][/us/pl/103/322/s260002], Sept. 13, 1994, [108 Stat. 2089][/us/stat/108/2089], provided that:
+[Pub. L. 101–647, title XXXIV][/us/pl/101/647/tXXXIV], Nov. 29, 1990, [104 Stat. 4918][/us/stat/104/4918], as amended by [Pub. L. 103–322, title XXVI][/us/pl/103/322/tXXVI], § 260002, Sept. 13, 1994, [108 Stat. 2089][/us/stat/108/2089], provided that:
 
 > “SEC. 3401. __CONGRESSIONAL FINDINGS.__ 
 
@@ -169,7 +169,7 @@
 
 > “SEC. 3404. __MEMBERSHIP.__ 
 
->     “(a) __\[Repealed.__  __[__  __Pub. L. 103–322, title XXVI, § 260002__  __][/us/pl/103/322/s260002]__  __,__  __Sept. 13, 1994__  __,__  __[__  __108 Stat. 2089__  __][/us/stat/108/2089]__  __.\]__ 
+>     “(a) __\[Repealed.__  __[__  __Pub. L. 103–322, title XXVI__  __][/us/pl/103/322/tXXVI]__  __, § 260002,__  __Sept. 13, 1994__  __,__  __[__  __108 Stat. 2089__  __][/us/stat/108/2089]__  __.\]__ 
 
 >     “(b) __Compensation.—__ 
 
@@ -225,7 +225,7 @@
 
 >     “The Commission shall cease to exist upon the expiration of the 60-day period beginning on the date on which the Commission submits its report under section 3407.”
 
-[Pub. L. 101–515, title II, § 211(B)][/us/pl/101/515/s211/B], Nov. 5, 1990, [104 Stat. 2122][/us/stat/104/2122], as amended by [Pub. L. 103–322, title XXVI, § 260001][/us/pl/103/322/s260001], Sept. 13, 1994, [108 Stat. 2088][/us/stat/108/2088]; [Pub. L. 104–316, title I, § 122(m)][/us/pl/104/316/s122/m], Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838], provided that:
+[Pub. L. 101–515, title II][/us/pl/101/515/tII], § 211(B), Nov. 5, 1990, [104 Stat. 2122][/us/stat/104/2122], as amended by [Pub. L. 103–322, title XXVI][/us/pl/103/322/tXXVI], § 260001, Sept. 13, 1994, [108 Stat. 2088][/us/stat/108/2088]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(m), Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838], provided that:
 
 >     “(B)    (a) This subsection may be cited as the ‘National Commission to Support Law Enforcement Act’.
 
@@ -360,19 +360,19 @@
 ----------
 ----------
 
-[/us/pl/90/351/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs201
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1172
-[/us/pl/98/473/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2078
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1167
-[/us/pl/90/351/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs201
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
 [/us/stat/82/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F198
-[/us/pl/93/83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83%2Fs2
+[/us/pl/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83
 [/us/stat/87/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F197
-[/us/pl/94/503/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2Fs104
+[/us/pl/94/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2FtI
 [/us/stat/90/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2408
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
@@ -381,20 +381,20 @@
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 [/us/pl/110/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F424
 [/us/stat/122/4819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4819
-[/us/pl/104/132/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs809
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1311
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXIV
 [/us/stat/104/4918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4918
-[/us/pl/103/322/s260002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs260002
+[/us/pl/103/322/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVI
 [/us/stat/108/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2089
-[/us/pl/103/322/s260002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs260002
+[/us/pl/103/322/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVI
 [/us/stat/108/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2089
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/101/515/s211/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs211%2FB
+[/us/pl/101/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtII
 [/us/stat/104/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2122
-[/us/pl/103/322/s260001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs260001
+[/us/pl/103/322/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVI
 [/us/stat/108/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2088
-[/us/pl/104/316/s122/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fm
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3838
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb

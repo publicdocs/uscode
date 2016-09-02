@@ -87,7 +87,7 @@
 
         For the purpose of carrying out this section, there is authorized to be appropriated $25,000,000 for each of fiscal years 2008 through 2011.
 
-([Pub. L. 111–11, title XIV, § 14301][/us/pl/111/11/s14301], Mar. 30, 2009, [123 Stat. 1454][/us/stat/123/1454].)
+([Pub. L. 111–11, title XIV][/us/pl/111/11/tXIV], § 14301, Mar. 30, 2009, [123 Stat. 1454][/us/stat/123/1454].)
 
  __Codification__ 
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s14301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs14301
+[/us/pl/111/11/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXIV
 [/us/stat/123/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1454
 
 

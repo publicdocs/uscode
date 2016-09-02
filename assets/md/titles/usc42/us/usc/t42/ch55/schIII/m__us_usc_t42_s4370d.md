@@ -17,7 +17,7 @@
 
     The Administrator of the Environmental Protection Agency shall, on and after October 6, 1992, to the fullest extent possible, ensure that at least 8 per centum of Federal funding for prime and subcontracts awarded in support of authorized programs, including grants, loans, and contracts for wastewater treatment and leaking underground storage tanks grants, be made available to business concerns or other organizations owned or controlled by socially and economically disadvantaged individuals (within the meaning of section 637(a)(5) and (6) of title 15), including historically black colleges and universities. For purposes of this section, economically and socially disadvantaged individuals shall be deemed to include women.
 
-([Pub. L. 102–389, title III][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1602][/us/stat/106/1602].)
+([Pub. L. 102–389, title III][/us/pl/102/389/tIII], Oct. 6, 1992, [106 Stat. 1602][/us/stat/106/1602].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
+[/us/pl/102/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389%2FtIII
 [/us/stat/106/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1602
 
 

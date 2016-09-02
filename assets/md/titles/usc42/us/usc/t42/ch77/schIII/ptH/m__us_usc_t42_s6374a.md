@@ -25,13 +25,13 @@
 
         (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-([Pub. L. 94–163, title III, § 400BB][/us/pl/94/163/s400BB], as added [Pub. L. 100–494, § 4(a)][/us/pl/100/494/s4/a], Oct. 14, 1988, [102 Stat. 2444][/us/stat/102/2444]; amended [Pub. L. 102–486, title IV, § 401][/us/pl/102/486/s401], Oct. 24, 1992, [106 Stat. 2875][/us/stat/106/2875].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400BB, as added [Pub. L. 100–494][/us/pl/100/494], § 4(a), Oct. 14, 1988, [102 Stat. 2444][/us/stat/102/2444]; amended [Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 401, Oct. 24, 1992, [106 Stat. 2875][/us/stat/106/2875].)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 401(a)][/us/pl/102/486/s401/a], substituted “alternative fuels” for “alcohol and natural gas”.
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 401(a), substituted “alternative fuels” for “alcohol and natural gas”.
 
-    Subsec. (b)(1). [Pub. L. 102–486, § 401(b)][/us/pl/102/486/s401/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for the period encompassing the fiscal years ending September 30, 1990, September 30, 1991, and September 30, 1992, a total of $2,000,000 for alcohol powered vehicles and dual energy vehicles, and a total of $2,000,000 for natural gas powered vehicles and natural gas dual energy vehicles, to carry out the purposes of this section.”
+    Subsec. (b)(1). [Pub. L. 102–486][/us/pl/102/486], § 401(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for the period encompassing the fiscal years ending September 30, 1990, September 30, 1991, and September 30, 1992, a total of $2,000,000 for alcohol powered vehicles and dual energy vehicles, and a total of $2,000,000 for natural gas powered vehicles and natural gas dual energy vehicles, to carry out the purposes of this section.”
 
 ----------
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/94/163/s400BB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400BB
-[/us/pl/100/494/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs4%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2444
-[/us/pl/102/486/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs401
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2875
-[/us/pl/102/486/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs401%2Fa
-[/us/pl/102/486/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs401%2Fb
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 
 

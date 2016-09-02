@@ -61,7 +61,7 @@
 
         There are authorized to be appropriated to carry out this section $500,000 for each of the fiscal years 1993 and 1994.
 
-([Pub. L. 102–486, title XXX, § 3015][/us/pl/102/486/s3015], Oct. 24, 1992, [106 Stat. 3129][/us/stat/106/3129].)
+([Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3015, Oct. 24, 1992, [106 Stat. 3129][/us/stat/106/3129].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3015
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3129
 
 

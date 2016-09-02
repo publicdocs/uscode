@@ -31,7 +31,7 @@
 
         The Bureau shall not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.
 
-([Pub. L. 90–351, title I, § 1603][/us/pl/90/351/s1603], as added [Pub. L. 102–521, § 4(a)(3)][/us/pl/102/521/s4/a/3], Oct. 25, 1992, [106 Stat. 3405][/us/stat/106/3405].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1603, as added [Pub. L. 102–521][/us/pl/102/521], § 4(a)(3), Oct. 25, 1992, [106 Stat. 3405][/us/stat/106/3405].)
 
 ----------
 
@@ -43,8 +43,8 @@
 [/us/usc/t42/s3796cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796cc%2Fa
 [/us/usc/t42/s3796cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796cc%E2%80%931
 [/us/usc/t42/s3796cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796cc%E2%80%931
-[/us/pl/90/351/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1603
-[/us/pl/102/521/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs4%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3405
 
 

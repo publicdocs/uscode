@@ -41,7 +41,7 @@
 
         The term “State” means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 105–251, title II, § 213][/us/pl/105/251/s213], Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874].)
+([Pub. L. 105–251, title II][/us/pl/105/251/tII], § 213, Oct. 9, 1998, [112 Stat. 1874][/us/stat/112/1874].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s14616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14616
-[/us/pl/105/251/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs213
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1874
 
 

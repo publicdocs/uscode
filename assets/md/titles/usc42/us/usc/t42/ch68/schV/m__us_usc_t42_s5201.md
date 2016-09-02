@@ -25,7 +25,7 @@
 
     (b) In furtherance of the purposes of this chapter, the President or his delegate may accept and use bequests, gifts, or donations of service, money, or property, real, personal, or mixed, tangible, or intangible. All sums received under this subsection shall be deposited in a separate fund on the books of the Treasury and shall be available for expenditure upon the certification of the President or his delegate. At the request of the President or his delegate, the Secretary of the Treasury may invest and reinvest excess monies in the fund. Such investments shall be in public debt securities with maturities suitable for the needs of the fund and shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The interest on such investments shall be credited to, and form a part of, the fund.
 
-([Pub. L. 93–288, title VII, § 701][/us/pl/93/288/s701], formerly title VI, § 601, May 22, 1974, [88 Stat. 163][/us/stat/88/163]; [Pub. L. 96–446][/us/pl/96/446], Oct. 13, 1980, [94 Stat. 1893][/us/stat/94/1893]; [Pub. L. 100–707, title I, § 108(a)][/us/pl/100/707/s108/a], Nov. 23, 1988, [102 Stat. 4707][/us/stat/102/4707]; renumbered title VII, § 701, [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)][/us/pl/103/337/s3411/a/1], (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100].)
+([Pub. L. 93–288, title VII][/us/pl/93/288/tVII], § 701, formerly title VI, § 601, May 22, 1974, [88 Stat. 163][/us/stat/88/163]; [Pub. L. 96–446][/us/pl/96/446], Oct. 13, 1980, [94 Stat. 1893][/us/stat/94/1893]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 108(a), Nov. 23, 1988, [102 Stat. 4707][/us/stat/102/4707]; renumbered title VII, § 701, [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(1), (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Deadline for Issuance of Regulations__ 
 
-[Pub. L. 100–707, title I, § 113][/us/pl/100/707/s113], Nov. 23, 1988, [102 Stat. 4711][/us/stat/102/4711], provided that: 
+[Pub. L. 100–707, title I][/us/pl/100/707/tI], § 113, Nov. 23, 1988, [102 Stat. 4711][/us/stat/102/4711], provided that: 
 
 > “Regulations necessary to carry out this title and the amendments made by this title \[see Short Title of 1988 Amendment note set out under [section 5121 of this title][/us/usc/t42/s5121]\] shall be issued no later than the 180th day following the date of the enactment of this Act \[Nov. 23, 1988\].”
 
@@ -52,20 +52,20 @@
 ----------
 ----------
 
-[/us/pl/93/288/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs701
+[/us/pl/93/288/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVII
 [/us/stat/88/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F163
 [/us/pl/96/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F446
 [/us/stat/94/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1893
-[/us/pl/100/707/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs108%2Fa
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4707
-[/us/pl/103/337/s3411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F1
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3100
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/96/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F446
-[/us/pl/100/707/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs113
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4711
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/100/707/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs113

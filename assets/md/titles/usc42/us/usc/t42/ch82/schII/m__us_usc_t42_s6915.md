@@ -29,7 +29,7 @@
 
     (6) the Administrator’s plans for activities and programs respecting solid waste during the next fiscal year.
 
-([Pub. L. 89–272, title II, § 2006][/us/pl/89/272/s2006], formerly § 2005, as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2805][/us/stat/90/2805], and renumbered [Pub. L. 96–463, § 4(a)][/us/pl/96/463/s4/a], Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056]; amended [Pub. L. 98–616, title V, § 502(b)][/us/pl/98/616/s502/b], Nov. 8, 1984, [98 Stat. 3276][/us/stat/98/3276].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2006, formerly § 2005, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2805][/us/stat/90/2805], and renumbered [Pub. L. 96–463][/us/pl/96/463], § 4(a), Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056]; amended [Pub. L. 98–616, title V][/us/pl/98/616/tV], § 502(b), Nov. 8, 1984, [98 Stat. 3276][/us/stat/98/3276].)
 
  __Prior Provisions__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/89/272/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2006
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2805
-[/us/pl/96/463/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs4%2Fa
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2056
-[/us/pl/98/616/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs502%2Fb
+[/us/pl/98/616/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtV
 [/us/stat/98/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3276
 [/us/pl/89/272/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2006
 [/us/usc/t42/s6916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6916

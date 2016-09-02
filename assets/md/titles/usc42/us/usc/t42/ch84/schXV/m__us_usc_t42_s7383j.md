@@ -17,7 +17,7 @@
 
     In this subchapter, the term “Restricted Data” has the meaning given that term in [section 2014(y) of this title][/us/usc/t42/s2014/y].
 
-([Pub. L. 106–65, div. C, title XXXI, § 3156][/us/pl/106/65/s3156], Oct. 5, 1999, [113 Stat. 942][/us/stat/113/942].)
+([Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3156, Oct. 5, 1999, [113 Stat. 942][/us/stat/113/942].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
-[/us/pl/106/65/s3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3156
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F942
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F931

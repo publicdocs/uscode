@@ -17,7 +17,7 @@
 
     For expenses necessary for the Office of Inspector General in carrying out the provisions of the Inspector General Act of 1978, as amended, $33,849,000: Provided, That of such amount, necessary sums are available for providing protective services to the Secretary and investigating non-payment of child support cases for which non-payment is a Federal offense under [section 228 of title 18][/us/usc/t18/s228], each of which activities is hereby authorized in this and subsequent fiscal years.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–24.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–24.)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t18/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs228
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

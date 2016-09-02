@@ -27,7 +27,7 @@
 
     (5) the views of the population surrounding such reactor.
 
-([Pub. L. 97–425, title I, § 132][/us/pl/97/425/s132], Jan. 7, 1983, [96 Stat. 2230][/us/stat/96/2230].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 132, Jan. 7, 1983, [96 Stat. 2230][/us/stat/96/2230].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs132
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2230
 
 

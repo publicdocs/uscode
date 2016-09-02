@@ -123,7 +123,7 @@
 
         (3) the Administrator of the Centers for Medicare & Medicaid Services and the Administrator of the Center for Medicare Choices to support linkages of relevant medicare data to registry information from participating health care groups for the beneficiary populations served by the participating groups, for analysis supporting the purposes of the demonstration program, consistent with the applicable provisions of the Health Insurance Portability and Accountability Act of 1996.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866C, as added [Pub. L. 108–173, title VI, § 646][/us/pl/108/173/s646], Dec. 8, 2003, [117 Stat. 2324][/us/stat/117/2324]; amended [Pub. L. 111–148, title III, § 3021(c)][/us/pl/111/148/s3021/c], Mar. 23, 2010, [124 Stat. 395][/us/stat/124/395].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866C, as added [Pub. L. 108–173, title VI][/us/pl/108/173/tVI], § 646, Dec. 8, 2003, [117 Stat. 2324][/us/stat/117/2324]; amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3021(c), Mar. 23, 2010, [124 Stat. 395][/us/stat/124/395].)
 
  __References in Text__ 
 
@@ -145,9 +145,9 @@
 [/us/usc/t42/s1395cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%931
 [/us/usc/t42/s1395cc–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%932
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs646
+[/us/pl/108/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVI
 [/us/stat/117/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2324
-[/us/pl/111/148/s3021/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3021%2Fc
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F395
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936

@@ -35,13 +35,13 @@
 
         Not later than 120 days after September 13, 1994, the Attorney General shall publish proposed regulations or guidelines implementing this subchapter. Not later than 180 days after September 13, 1994, the Attorney General shall publish final regulations or guidelines implementing this subchapter.
 
-([Pub. L. 90–351, title I, § 2009][/us/pl/90/351/s2009], formerly § 2004, as added [Pub. L. 103–322, title IV, § 40121(a)(3)][/us/pl/103/322/s40121/a/3], Sept. 13, 1994, [108 Stat. 1914][/us/stat/108/1914]; amended [Pub. L. 106–386, div. B, title I, § 1103(b)(4)][/us/pl/106/386/s1103/b/4], Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497]; renumbered § 2009, [Pub. L. 107–273, div. A, title IV, § 402(2)][/us/pl/107/273/s402/2], Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; [Pub. L. 108–405, title III, § 310(b)][/us/pl/108/405/s310/b], Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162, § 3(b)(3)][/us/pl/109/162/s3/b/3], title XI, §§ 1134(b), 1135(c), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3108, 3109; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 766.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2009, formerly § 2004, as added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40121(a)(3), Sept. 13, 1994, [108 Stat. 1914][/us/stat/108/1914]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1103(b)(4), Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497]; renumbered § 2009, [Pub. L. 107–273, div. A, title IV][/us/pl/107/273/dA/tIV], § 402(2), Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; [Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 310(b), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 109–162][/us/pl/109/162], § 3(b)(3), title XI, §§ 1134(b), 1135(c), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3108, 3109; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 766.)
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], §§ 1134(b) and 1135(c), which directed an amendment substantially identical to that made by [Pub. L. 109–162, § 3(b)(3)][/us/pl/109/162/s3/b/3], were repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
+    2006—Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], §§ 1134(b) and 1135(c), which directed an amendment substantially identical to that made by [Pub. L. 109–162][/us/pl/109/162], § 3(b)(3), were repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
 
-    [Pub. L. 109–162, § 3(b)(3)][/us/pl/109/162/s3/b/3], substituted “Not later than 1 month after the end of each even-numbered fiscal year, the Attorney General shall submit” for “Not later than 180 days after the end of each fiscal year for which grants are made under this subchapter, the Attorney General shall submit” in introductory provisions.
+    [Pub. L. 109–162][/us/pl/109/162], § 3(b)(3), substituted “Not later than 1 month after the end of each even-numbered fiscal year, the Attorney General shall submit” for “Not later than 180 days after the end of each fiscal year for which grants are made under this subchapter, the Attorney General shall submit” in introductory provisions.
 
     2000—Subsec. (b)(3). [Pub. L. 106–386][/us/pl/106/386] inserted “, and the membership of persons served in any underserved population” before the semicolon.
 
@@ -52,23 +52,23 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2009
-[/us/pl/103/322/s40121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40121%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1914
-[/us/pl/106/386/s1103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1103%2Fb%2F4
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1497
-[/us/pl/107/273/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F2
+[/us/pl/107/273/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIV
 [/us/stat/116/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1789
-[/us/pl/108/405/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs310%2Fb
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2276
-[/us/pl/109/162/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3%2Fb%2F3
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/stat/119/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2971
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F752
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/109/162/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3%2Fb%2F3
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3%2Fb%2F3
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 
 

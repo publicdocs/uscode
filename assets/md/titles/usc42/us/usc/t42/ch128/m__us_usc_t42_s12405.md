@@ -39,7 +39,7 @@
 
         The information exchange program may consist of workshops, publications, conferences, and a data base for the use by the public and private sectors. The Secretary shall also foster the exchange of generic, nonproprietary information and technology, developed pursuant to this chapter, among industry, academia, and the Federal Government, to help the United States economy attain the economic benefits of this information and technology.
 
-([Pub. L. 101–566, § 106][/us/pl/101/566/s106], Nov. 15, 1990, [104 Stat. 2799][/us/stat/104/2799]; [Pub. L. 104–271, title I, § 105][/us/pl/104/271/s105], Oct. 9, 1996, [110 Stat. 3306][/us/stat/110/3306].)
+([Pub. L. 101–566][/us/pl/101/566], § 106, Nov. 15, 1990, [104 Stat. 2799][/us/stat/104/2799]; [Pub. L. 104–271, title I][/us/pl/104/271/tI], § 105, Oct. 9, 1996, [110 Stat. 3306][/us/stat/110/3306].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t42/s12407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12407
-[/us/pl/101/566/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566%2Fs106
+[/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566
 [/us/stat/104/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2799
-[/us/pl/104/271/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2Fs105
+[/us/pl/104/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271%2FtI
 [/us/stat/110/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3306
 [/us/pl/104/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F271
 

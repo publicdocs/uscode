@@ -27,7 +27,7 @@
 
     (5) opportunities for low-income people 55 years of age or older, through the Senior Companion Program, to provide support services and companionship to other older individuals through volunteer service.
 
-([Pub. L. 93–113, title II, § 200][/us/pl/93/113/s200], as added [Pub. L. 101–204, title V, § 501][/us/pl/101/204/s501], Dec. 7, 1989, [103 Stat. 1815][/us/stat/103/1815]; amended [Pub. L. 103–82, title III][/us/pl/103/82], §§ 341(b)(1), 342(b), Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904]; [Pub. L. 111–13, title II, § 2142][/us/pl/111/13/s2142], Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 200, as added [Pub. L. 101–204, title V][/us/pl/101/204/tV], § 501, Dec. 7, 1989, [103 Stat. 1815][/us/stat/103/1815]; amended [Pub. L. 103–82, title III][/us/pl/103/82/tIII], §§ 341(b)(1), 342(b), Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2142, Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
     1993—Par. (1). [Pub. L. 103–82][/us/pl/103/82], §§ 341(b)(1), 342(b), substituted “National Senior Volunteer Corps” for “Older American Volunteer Programs” and “Retired and Senior Volunteer Program” for “retired senior volunteer program”.
 
-    Par. (2). [Pub. L. 103–82, § 342(b)][/us/pl/103/82/s342/b], substituted “Retired and Senior Volunteer Program” for “retired senior volunteer program”.
+    Par. (2). [Pub. L. 103–82][/us/pl/103/82], § 342(b), substituted “Retired and Senior Volunteer Program” for “retired senior volunteer program”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/pl/93/113/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs200
-[/us/pl/101/204/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs501
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/101/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtV
 [/us/stat/103/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1815
-[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F904
-[/us/pl/111/13/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2142
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1584
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/103/82/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs342%2Fb
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

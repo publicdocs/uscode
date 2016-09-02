@@ -73,7 +73,7 @@
 
         (2) The term “protection of human subjects” includes the protection of the health, safety, and privacy of individuals.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVIII, § 1802, as added [Pub. L. 95–622, title III, § 301][/us/pl/95/622/s301], Nov. 9, 1978, [92 Stat. 3439][/us/stat/92/3439]; amended [Pub. L. 96–32, § 4][/us/pl/96/32/s4], July 10, 1979, [93 Stat. 82][/us/stat/93/82].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVIII, § 1802, as added [Pub. L. 95–622, title III][/us/pl/95/622/tIII], § 301, Nov. 9, 1978, [92 Stat. 3439][/us/stat/92/3439]; amended [Pub. L. 96–32][/us/pl/96/32], § 4, July 10, 1979, [93 Stat. 82][/us/stat/93/82].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/622/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs301
+[/us/pl/95/622/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtIII
 [/us/stat/92/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3439
-[/us/pl/96/32/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs4
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F82
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 

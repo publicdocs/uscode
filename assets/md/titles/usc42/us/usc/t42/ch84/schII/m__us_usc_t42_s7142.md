@@ -63,11 +63,11 @@
 
         (2) shall be known as the “National Atomic Testing Museum”.
 
-([Pub. L. 102–190, div. C, title XXXI, § 3137][/us/pl/102/190/s3137], Dec. 5, 1991, [105 Stat. 1578][/us/stat/105/1578]; [Pub. L. 103–35, title II, § 203(b)(4)][/us/pl/103/35/s203/b/4], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 112–81, div. C, title XXXI, § 3114][/us/pl/112/81/s3114], Dec. 31, 2011, [125 Stat. 1709][/us/stat/125/1709].)
+([Pub. L. 102–190, div. C, title XXXI][/us/pl/102/190/dC/tXXXI], § 3137, Dec. 5, 1991, [105 Stat. 1578][/us/stat/105/1578]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 203(b)(4), May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 112–81, div. C, title XXXI][/us/pl/112/81/dC/tXXXI], § 3114, Dec. 31, 2011, [125 Stat. 1709][/us/stat/125/1709].)
 
  __References in Text__ 
 
-    [Section 7262 of this title][/us/usc/t42/s7262], referred to in subsec. (c)(1)(A), was repealed by [Pub. L. 104–206, title V, § 502][/us/pl/104/206/s502], Sept. 30, 1996, [110 Stat. 3002][/us/stat/110/3002].
+    [Section 7262 of this title][/us/usc/t42/s7262], referred to in subsec. (c)(1)(A), was repealed by [Pub. L. 104–206, title V][/us/pl/104/206/tV], § 502, Sept. 30, 1996, [110 Stat. 3002][/us/stat/110/3002].
 
  __Codification__ 
 
@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 3114(1)][/us/pl/112/81/s3114/1], inserted “and National Atomic Testing Museum” after “Atomic Museum” in section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 3114(1), inserted “and National Atomic Testing Museum” after “Atomic Museum” in section catchline.
 
-    Subsec. (d). [Pub. L. 112–81, § 3114(2)][/us/pl/112/81/s3114/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 3114(2), added subsec. (d).
 
     1993—Subsec. (c)(1). [Pub. L. 103–35][/us/pl/103/35] struck out comma after “Secretary of Energy” in introductory provisions.
 
@@ -88,17 +88,17 @@
 ----------
 ----------
 
-[/us/pl/102/190/s3137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3137
+[/us/pl/102/190/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXI
 [/us/stat/105/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1578
-[/us/pl/103/35/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs203%2Fb%2F4
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
-[/us/pl/112/81/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3114
+[/us/pl/112/81/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdC%2FtXXXI
 [/us/stat/125/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1709
 [/us/usc/t42/s7262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7262
-[/us/pl/104/206/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2Fs502
+[/us/pl/104/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2FtV
 [/us/stat/110/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3002
-[/us/pl/112/81/s3114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3114%2F1
-[/us/pl/112/81/s3114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3114%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 
 

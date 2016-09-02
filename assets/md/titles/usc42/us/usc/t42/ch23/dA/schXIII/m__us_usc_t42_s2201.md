@@ -61,7 +61,7 @@
 
         authorize such of its members, officers, and employees as it deems necessary in the interest of the common defense and security to carry firearms while in the discharge of their official duties. The Commission may also authorize such of those employees of its contractors and subcontractors (at any tier) engaged in the protection of property under the jurisdiction of the United States located at facilities owned by or contracted to the United States or being transported to or from such facilities as it deems necessary in the interests of the common defense and security to carry firearms while in the discharge of their official duties. A person authorized to carry firearms under this subsection may, while in the performance of, and in connection with, official duties, make arrests without warrant for any offense against the United States committed in that person’s presence or for any felony cognizable under the laws of the United States if that person has reasonable ground to believe that the individual to be arrested has committed or is committing such felony. An employee of a contractor or subcontractor authorized to carry firearms under this subsection may make such arrests only when the individual to be arrested is within, or in direct flight from, the area of such offense. A person granted authority to make arrests by this subsection may exercise that authority only in the enforcement of (1) laws regarding the property of the United States in the custody of the Department of Energy, the Nuclear Regulatory Commission, or a contractor of the Department of Energy or Nuclear Regulatory Commission, or (2) any provision of this chapter that may subject an offender to a fine, imprisonment, or both. The arrest authority conferred by this subsection is in addition to any arrest authority under other laws. The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this subsection;
 
-    (l) __Repealed.__  __[__  __Pub. L. 87–456, title III, § 303(c)__  __][/us/pl/87/456/s303/c]__  __,__  __May 24, 1962__  __,__  __[__  __76 Stat. 78__  __][/us/stat/76/78]__ 
+    (l) __Repealed.__  __[__  __Pub. L. 87–456, title III__  __][/us/pl/87/456/tIII]__  __, § 303(c),__  __May 24, 1962__  __,__  __[__  __76 Stat. 78__  __][/us/stat/76/78]__ 
 
     (m) __Agreements regarding production__ 
 
@@ -151,7 +151,7 @@
 
         Such standards and instructions promulgated by the Commission pursuant to this subsection shall take into account, as determined by the Commission, so as to avoid unnecessary duplication and expense, performance bonds or other financial arrangements which are required by other Federal agencies or State agencies and/or other local governing bodies for such decommissioning, decontamination, and reclamation and long-term maintenance and monitoring except that nothing in this paragraph shall be construed to require that the Commission accept such bonds or arrangements if the Commission determines that such bonds or arrangements are not adequate to carry out subparagraphs (1) and (2) of this subsection.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 161, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 948][/us/stat/68/948]; amended [July 14, 1956, ch. 608][/us/act/1956-07-14/ch608], [70 Stat. 553][/us/stat/70/553]; [Aug. 6, 1956, ch. 1015, § 4][/us/act/1956-08-06/ch1015/s4], [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 85–162, title II][/us/pl/85/162], §§ 201, 204, Aug. 21, 1957, [71 Stat. 410][/us/stat/71/410]; [Pub. L. 85–287, § 4][/us/pl/85/287/s4], Sept. 4, 1957, [71 Stat. 613][/us/stat/71/613]; [Pub. L. 85–507, § 21(b)(1)][/us/pl/85/507/s21/b/1], July 7, 1958, [72 Stat. 337][/us/stat/72/337]; [Pub. L. 85–681][/us/pl/85/681], §§ 6, 7, Aug. 19, 1958, [72 Stat. 633][/us/stat/72/633]; [Pub. L. 86–300, § 1][/us/pl/86/300/s1], Sept. 21, 1959, [73 Stat. 574][/us/stat/73/574]; [Pub. L. 87–206, § 13][/us/pl/87/206/s13], Sept. 6, 1961, [75 Stat. 478][/us/stat/75/478]; [Pub. L. 87–456, title III, § 303(c)][/us/pl/87/456/s303/c], May 24, 1962, [76 Stat. 78][/us/stat/76/78]; [Pub. L. 87–615, § 12][/us/pl/87/615/s12], Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; [Pub. L. 87–793, title VI, § 1001(g)][/us/pl/87/793/s1001/g], Oct. 11, 1962, [76 Stat. 864][/us/stat/76/864]; [Pub. L. 88–489, § 16][/us/pl/88/489/s16], Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 90–190, § 11][/us/pl/90/190/s11], Dec. 14, 1967, [81 Stat. 578][/us/stat/81/578]; [Pub. L. 91–452, title II, § 237][/us/pl/91/452/s237], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 91–560][/us/pl/91/560], §§ 7, 8, Dec. 19, 1970, [84 Stat. 1474][/us/stat/84/1474]; [Pub. L. 92–314, title III, § 301][/us/pl/92/314/s301], June 16, 1972, [86 Stat. 227][/us/stat/86/227]; [Pub. L. 93–377, § 7][/us/pl/93/377/s7], Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; [Pub. L. 95–604, title II, § 203][/us/pl/95/604/s203], Nov. 8, 1978, [92 Stat. 3036][/us/stat/92/3036]; [Pub. L. 97–90, title II, § 211][/us/pl/97/90/s211], Dec. 4, 1981, [95 Stat. 1170][/us/stat/95/1170]; [Pub. L. 99–661, div. C, title I, § 3134][/us/pl/99/661/s3134], Nov. 14, 1986, [100 Stat. 4064][/us/stat/100/4064]; [Pub. L. 100–449, title III, § 305(b)][/us/pl/100/449/s305/b], Sept. 28, 1988, [102 Stat. 1876][/us/stat/102/1876]; [Pub. L. 101–575, § 5(b)][/us/pl/101/575/s5/b], Nov. 15, 1990, [104 Stat. 2835][/us/stat/104/2835]; renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(4)][/us/pl/102/486/s902/a/4], (5), (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI][/us/pl/109/58], §§ 623, 626, Aug. 8, 2005, [119 Stat. 783][/us/stat/119/783], 784.)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 161, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 948][/us/stat/68/948]; amended [July 14, 1956, ch. 608][/us/act/1956-07-14/ch608], [70 Stat. 553][/us/stat/70/553]; [Aug. 6, 1956, ch. 1015][/us/act/1956-08-06/ch1015], § 4, [70 Stat. 1069][/us/stat/70/1069]; [Pub. L. 85–162, title II][/us/pl/85/162/tII], §§ 201, 204, Aug. 21, 1957, [71 Stat. 410][/us/stat/71/410]; [Pub. L. 85–287][/us/pl/85/287], § 4, Sept. 4, 1957, [71 Stat. 613][/us/stat/71/613]; [Pub. L. 85–507][/us/pl/85/507], § 21(b)(1), July 7, 1958, [72 Stat. 337][/us/stat/72/337]; [Pub. L. 85–681][/us/pl/85/681], §§ 6, 7, Aug. 19, 1958, [72 Stat. 633][/us/stat/72/633]; [Pub. L. 86–300][/us/pl/86/300], § 1, Sept. 21, 1959, [73 Stat. 574][/us/stat/73/574]; [Pub. L. 87–206][/us/pl/87/206], § 13, Sept. 6, 1961, [75 Stat. 478][/us/stat/75/478]; [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 303(c), May 24, 1962, [76 Stat. 78][/us/stat/76/78]; [Pub. L. 87–615][/us/pl/87/615], § 12, Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; [Pub. L. 87–793, title VI][/us/pl/87/793/tVI], § 1001(g), Oct. 11, 1962, [76 Stat. 864][/us/stat/76/864]; [Pub. L. 88–489][/us/pl/88/489], § 16, Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 90–190][/us/pl/90/190], § 11, Dec. 14, 1967, [81 Stat. 578][/us/stat/81/578]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 237, Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 91–560][/us/pl/91/560], §§ 7, 8, Dec. 19, 1970, [84 Stat. 1474][/us/stat/84/1474]; [Pub. L. 92–314, title III][/us/pl/92/314/tIII], § 301, June 16, 1972, [86 Stat. 227][/us/stat/86/227]; [Pub. L. 93–377][/us/pl/93/377], § 7, Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; [Pub. L. 95–604, title II][/us/pl/95/604/tII], § 203, Nov. 8, 1978, [92 Stat. 3036][/us/stat/92/3036]; [Pub. L. 97–90, title II][/us/pl/97/90/tII], § 211, Dec. 4, 1981, [95 Stat. 1170][/us/stat/95/1170]; [Pub. L. 99–661, div. C, title I][/us/pl/99/661/dC/tI], § 3134, Nov. 14, 1986, [100 Stat. 4064][/us/stat/100/4064]; [Pub. L. 100–449, title III][/us/pl/100/449/tIII], § 305(b), Sept. 28, 1988, [102 Stat. 1876][/us/stat/102/1876]; [Pub. L. 101–575][/us/pl/101/575], § 5(b), Nov. 15, 1990, [104 Stat. 2835][/us/stat/104/2835]; renumbered title I and amended [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(4), (5), (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], §§ 623, 626, Aug. 8, 2005, [119 Stat. 783][/us/stat/119/783], 784.)
 
  __Amendment of Section__ 
 
@@ -159,15 +159,15 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (c), (g) to (i), (m) to (p), and (s), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (c), (g) to (i), (m) to (p), and (s), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
-    [Section 2297c–2 of this title][/us/usc/t42/s2297c–2], referred to in subsec. (v), was repealed by [Pub. L. 104–134, title III, § 3116(a)(1)][/us/pl/104/134/s3116/a/1], Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].
+    [Section 2297c–2 of this title][/us/usc/t42/s2297c–2], referred to in subsec. (v), was repealed by [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(a)(1), Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].
 
  __Codification__ 
 
-    In subsec. (d), “chapter 51 and subchapter III of chapter 53 of title 5” and “such provisions” substituted for “the Classification Act of 1949, as amended” and “such Act”, respectively, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (d), “chapter 51 and subchapter III of chapter 53 of title 5” and “such provisions” substituted for “the Classification Act of 1949, as amended” and “such Act”, respectively, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    In subsec. (j), “chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended, except section 207 of that Act” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (j), “chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended, except section 207 of that Act” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     In subsec. (x)(2)(B), “November 8, 1978” was in the original “the date of the enactment of this section”, which has been translated as the date of the enactment of this subsection to reflect the probable intent of Congress.
 
@@ -177,13 +177,13 @@
 
  __Amendments__ 
 
-    2005—Subsec. (i)(4). [Pub. L. 109–58, § 626][/us/pl/109/58/s626], added cl. (4).
+    2005—Subsec. (i)(4). [Pub. L. 109–58][/us/pl/109/58], § 626, added cl. (4).
 
-    Subsec. (w). [Pub. L. 109–58, § 623][/us/pl/109/58/s623], substituted “to the Commission for, or is issued by the Commission, a license or certificate” for “for or is issued a license for a utilization facility designed to produce electrical or heat energy pursuant to section 2133 or 2134(b) of this title, or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title” and “section 9701” for “section 483a” and struck out “, of applicants for, or holders of, such licenses or certificates” before period at end.
+    Subsec. (w). [Pub. L. 109–58][/us/pl/109/58], § 623, substituted “to the Commission for, or is issued by the Commission, a license or certificate” for “for or is issued a license for a utilization facility designed to produce electrical or heat energy pursuant to section 2133 or 2134(b) of this title, or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title” and “section 9701” for “section 483a” and struck out “, of applicants for, or holders of, such licenses or certificates” before period at end.
 
-    1992—Subsec. (v). [Pub. L. 102–486, § 902(a)(4)][/us/pl/102/486/s902/a/4], amended subsec. (v) generally, substituting provisions relating to duty to provide services in support of United States Energy Enrichment Corporation for provisions relating to duty to enter into contracts for production or enrichment of special nuclear material.
+    1992—Subsec. (v). [Pub. L. 102–486][/us/pl/102/486], § 902(a)(4), amended subsec. (v) generally, substituting provisions relating to duty to provide services in support of United States Energy Enrichment Corporation for provisions relating to duty to enter into contracts for production or enrichment of special nuclear material.
 
-    Subsec. (w). [Pub. L. 102–486, § 902(a)(5)][/us/pl/102/486/s902/a/5], inserted “or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title,” after “2134(b) of this title,” and “or certificates” after “holders of, such licenses”.
+    Subsec. (w). [Pub. L. 102–486][/us/pl/102/486], § 902(a)(5), inserted “or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title,” after “2134(b) of this title,” and “or certificates” after “holders of, such licenses”.
 
     1990—Subsec. (b). [Pub. L. 101–575][/us/pl/101/575], which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation’s common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipment or device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
 
@@ -201,9 +201,9 @@
 
     1970—Subsec. (c). [Pub. L. 91–452][/us/pl/91/452] struck out provisions that no person be excused from complying with any requirements under this paragraph because of his privilege against self-incrimination, but that the immunity provisions of the Compulsory Testimony Act of Feb. 11, 1893, apply with respect to any individual who specifically claims such privilege.
 
-    Subsec. (n). [Pub. L. 91–560, § 7][/us/pl/91/560/s7], struck out references to [section 2132 of this title][/us/usc/t42/s2132] and the finding of practical value.
+    Subsec. (n). [Pub. L. 91–560][/us/pl/91/560], § 7, struck out references to [section 2132 of this title][/us/usc/t42/s2132] and the finding of practical value.
 
-    Subsec. (v). [Pub. L. 91–560, § 8][/us/pl/91/560/s8], substituted provisions for the establishment of prices on a basis of recovery of the Government’s costs over a reasonable period of time for provisions for the establishment of prices on a basis which will provide reasonable compensation to the Government.
+    Subsec. (v). [Pub. L. 91–560][/us/pl/91/560], § 8, substituted provisions for the establishment of prices on a basis of recovery of the Government’s costs over a reasonable period of time for provisions for the establishment of prices on a basis which will provide reasonable compensation to the Government.
 
     1967—Subsec. (n). [Pub. L. 90–190][/us/pl/90/190] substituted “2077(b)” for “2077(a)(3)”.
 
@@ -219,17 +219,17 @@
 
     1959—Subsec. (m). [Pub. L. 86–300][/us/pl/86/300] inserted references to sections 2073(a)(4) and 2093(a)(4) of this title.
 
-    1958—Subsec. (d). [Pub. L. 85–681, § 6][/us/pl/85/681/s6], authorized the Commission to adopt compensation rates on a retroactive basis as may be authorized by the Classification Act for other Government employees.
+    1958—Subsec. (d). [Pub. L. 85–681][/us/pl/85/681], § 6, authorized the Commission to adopt compensation rates on a retroactive basis as may be authorized by the Classification Act for other Government employees.
 
     Subsecs. (n) to (s). [Pub. L. 85–507][/us/pl/85/507] redesignated subsecs. (o) to (s) as (n) to (r), respectively. Former subsec. (n), which authorized the Commission to assign employees for instruction, education, or training by public or private agencies, institutions of learning, laboratories, or industrial or commercial organizations, was repealed by [Pub. L. 85–507][/us/pl/85/507], see section 4101 et seq. of Title 5, Government Organizations and Employees.
 
-    Subsecs. (t) to (v). [Pub. L. 85–681, § 7][/us/pl/85/681/s7], added subsecs. (t) to (v).
+    Subsecs. (t) to (v). [Pub. L. 85–681][/us/pl/85/681], § 7, added subsecs. (t) to (v).
 
     1957—Subsec. (d). [Pub. L. 85–287][/us/pl/85/287] inserted “up to a limit of $19,000” after “scientific and technical personnel”.
 
-    Subsec. (e). [Pub. L. 85–162, § 201][/us/pl/85/162/s201], inserted “(at the time of the initial grant of any privilege grant, lease, or permit, or renewal thereof, or in order to avoid inequities or undue hardship prior to the sale by the United States of property affected by such grant)” after “adjusted terms which”.
+    Subsec. (e). [Pub. L. 85–162][/us/pl/85/162], § 201, inserted “(at the time of the initial grant of any privilege grant, lease, or permit, or renewal thereof, or in order to avoid inequities or undue hardship prior to the sale by the United States of property affected by such grant)” after “adjusted terms which”.
 
-    Subsec. (s). [Pub. L. 85–162, § 204][/us/pl/85/162/s204], added subsec. (s).
+    Subsec. (s). [Pub. L. 85–162][/us/pl/85/162], § 204, added subsec. (s).
 
     1956—Subsec. (e). Act July 14, 1956, inserted proviso relating to negotiation of commercial leases without advertising by the Commission.
 
@@ -245,13 +245,13 @@
 
  __Effective Date of 1962 Amendments__ 
 
-    Amendment by [Pub. L. 87–793][/us/pl/87/793] effective on first day of first pay period which begins on or after Oct. 11, 1962, see [Pub. L. 87–793, title VI, § 1008][/us/pl/87/793/s1008], Oct. 11, 1962, [76 Stat. 868][/us/stat/76/868].
+    Amendment by [Pub. L. 87–793][/us/pl/87/793] effective on first day of first pay period which begins on or after Oct. 11, 1962, see [Pub. L. 87–793, title VI][/us/pl/87/793/tVI], § 1008, Oct. 11, 1962, [76 Stat. 868][/us/stat/76/868].
 
-    Repeal of subsec. (l) effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see [Pub. L. 87–456, title V, § 501(a)][/us/pl/87/456/s501/a], May 24, 1962, [76 Stat. 78][/us/stat/76/78].
+    Repeal of subsec. (l) effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see [Pub. L. 87–456, title V][/us/pl/87/456/tV], § 501(a), May 24, 1962, [76 Stat. 78][/us/stat/76/78].
 
  __Effective Date of 1958 Amendment__ 
 
-    For effective date of amendment by [Pub. L. 85–507][/us/pl/85/507], see [Pub. L. 85–507, § 21(a)][/us/pl/85/507/s21/a], July 7, 1958, [72 Stat. 337][/us/stat/72/337].
+    For effective date of amendment by [Pub. L. 85–507][/us/pl/85/507], see [Pub. L. 85–507][/us/pl/85/507], § 21(a), July 7, 1958, [72 Stat. 337][/us/stat/72/337].
 
  __References to United States Enrichment Corporation__ 
 
@@ -263,13 +263,13 @@
 
  __Organizational Conflicts of Interest__ 
 
-[Pub. L. 95–209, § 7][/us/pl/95/209/s7], Dec. 13, 1977, [91 Stat. 1483][/us/stat/91/1483], provided that: 
+[Pub. L. 95–209][/us/pl/95/209], § 7, Dec. 13, 1977, [91 Stat. 1483][/us/stat/91/1483], provided that: 
 
 > “The Commission shall by December 31, 1977, promulgate guidelines to be applied by the Commission in determining whether an organization proposing to enter into a contractual arrangement with the Commission has a conflict of interest which might impair the contractor’s judgment or otherwise give the contractor an unfair competitive advantage.”
 
  __Applicability to Functions Transferred by Department of Energy Organization Act__ 
 
-[Pub. L. 95–91, title VII, § 709(c)(2)][/us/pl/95/91/s709/c/2], Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608], provided that: 
+[Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(c)(2), Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608], provided that: 
 
 > “Section 161(d) of the Atomic Energy Act of 1954 \[subsec. (d) of this section\] shall not apply to functions transferred by this Act \[see Short Title note set out under [section 7101 of this title][/us/usc/t42/s7101]\].”
 
@@ -287,7 +287,7 @@
 
  __Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings__ 
 
-    [Pub. L. 85–162, title II, § 203][/us/pl/85/162/s203], Aug. 21, 1957, [71 Stat. 410][/us/stat/71/410], directed Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under sections 201 and 202 of [Pub. L. 85–162][/us/pl/85/162] \[amending subsec. (e) of this section and enacting [section 2325(c) of this title][/us/usc/t42/s2325/c]\].
+    [Pub. L. 85–162, title II][/us/pl/85/162/tII], § 203, Aug. 21, 1957, [71 Stat. 410][/us/stat/71/410], directed Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under sections 201 and 202 of [Pub. L. 85–162][/us/pl/85/162] \[amending subsec. (e) of this section and enacting [section 2325(c) of this title][/us/usc/t42/s2325/c]\].
 
 ----------
 
@@ -299,7 +299,7 @@
 [/us/usc/t42/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2224
 [/us/usc/t42/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2224
 [/us/usc/t42/s2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2073
-[/us/pl/87/456/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs303%2Fc
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78
 [/us/usc/t42/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2051
 [/us/usc/t42/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2135
@@ -308,75 +308,75 @@
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F948
 [/us/act/1956-07-14/ch608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch608
 [/us/stat/70/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F553
-[/us/act/1956-08-06/ch1015/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1015%2Fs4
+[/us/act/1956-08-06/ch1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1015
 [/us/stat/70/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1069
-[/us/pl/85/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162
+[/us/pl/85/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162%2FtII
 [/us/stat/71/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F410
-[/us/pl/85/287/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F287%2Fs4
+[/us/pl/85/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F287
 [/us/stat/71/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F613
-[/us/pl/85/507/s21/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507%2Fs21%2Fb%2F1
+[/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/stat/72/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F337
 [/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/stat/72/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F633
-[/us/pl/86/300/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F300%2Fs1
+[/us/pl/86/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F300
 [/us/stat/73/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F574
-[/us/pl/87/206/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs13
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F478
-[/us/pl/87/456/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs303%2Fc
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78
-[/us/pl/87/615/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs12
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F411
-[/us/pl/87/793/s1001/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1001%2Fg
+[/us/pl/87/793/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2FtVI
 [/us/stat/76/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F864
-[/us/pl/88/489/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs16
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/stat/78/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F606
-[/us/pl/90/190/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190%2Fs11
+[/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/stat/81/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F578
-[/us/pl/91/452/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs237
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
 [/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/stat/84/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1474
-[/us/pl/92/314/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F314%2Fs301
+[/us/pl/92/314/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F314%2FtIII
 [/us/stat/86/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F227
-[/us/pl/93/377/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377%2Fs7
+[/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/stat/88/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F475
-[/us/pl/95/604/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs203
+[/us/pl/95/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtII
 [/us/stat/92/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3036
-[/us/pl/97/90/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2Fs211
+[/us/pl/97/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2FtII
 [/us/stat/95/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1170
-[/us/pl/99/661/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3134
+[/us/pl/99/661/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdC%2FtI
 [/us/stat/100/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4064
-[/us/pl/100/449/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs305%2Fb
+[/us/pl/100/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIII
 [/us/stat/102/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1876
-[/us/pl/101/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs5%2Fb
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/stat/104/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2835
-[/us/pl/102/486/s902/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F4
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F783
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2297c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297c%E2%80%932
-[/us/pl/104/134/s3116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fa%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s1812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1812%2Fa
-[/us/pl/109/58/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs626
-[/us/pl/109/58/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs623
-[/us/pl/102/486/s902/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F4
-[/us/pl/102/486/s902/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F5
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/99/591/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs305
@@ -387,9 +387,9 @@
 [/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/pl/92/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F314
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
-[/us/pl/91/560/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560%2Fs7
+[/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/usc/t42/s2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2132
-[/us/pl/91/560/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560%2Fs8
+[/us/pl/91/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F560
 [/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
@@ -397,13 +397,13 @@
 [/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/pl/86/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F300
-[/us/pl/85/681/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681%2Fs6
+[/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
-[/us/pl/85/681/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681%2Fs7
+[/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/pl/85/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F287
-[/us/pl/85/162/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162%2Fs201
-[/us/pl/85/162/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162%2Fs204
+[/us/pl/85/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162
+[/us/pl/85/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
@@ -411,20 +411,20 @@
 [/us/pl/91/452/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs260
 [/us/usc/t18/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6001
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
-[/us/pl/87/793/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1008
+[/us/pl/87/793/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2FtVI
 [/us/stat/76/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F868
-[/us/pl/87/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs501%2Fa
+[/us/pl/87/456/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtV
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78
 [/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
-[/us/pl/85/507/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507%2Fs21%2Fa
+[/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/stat/72/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F337
 [/us/pl/104/134/s3116/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fe
 [/us/usc/t42/s2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/95/209/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209%2Fs7
+[/us/pl/95/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209
 [/us/stat/91/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1483
-[/us/pl/95/91/s709/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fc%2F2
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
@@ -434,7 +434,7 @@
 [/us/stat/69/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F47
 [/us/pl/85/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F107
 [/us/stat/71/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F307
-[/us/pl/85/162/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162%2Fs203
+[/us/pl/85/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162%2FtII
 [/us/stat/71/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F410
 [/us/pl/85/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F162
 [/us/usc/t42/s2325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2325%2Fc

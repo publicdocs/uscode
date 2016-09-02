@@ -33,7 +33,7 @@
 
         (2) Except insofar as they apply to vessels documented under the laws of the United States, the customs laws administered by the Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended ([19 U.S.C. 1202][/us/usc/t19/s1202]), and other laws codified in title 19, shall not apply to any ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed under the provisions of this chapter, but all foreign articles to be used in the construction of any such facility or plantship, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
 
-([Pub. L. 96–320, title IV, § 403][/us/pl/96/320/s403], Aug. 3, 1980, [94 Stat. 998][/us/stat/94/998]; [Pub. L. 98–623, title VI, § 602(a)(11)][/us/pl/98/623/s602/a/11], (12), (e)(6), Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411], 3412.)
+([Pub. L. 96–320, title IV][/us/pl/96/320/tIV], § 403, Aug. 3, 1980, [94 Stat. 998][/us/stat/94/998]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(11), (12), (e)(6), Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411], 3412.)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a)(1). [Pub. L. 98–623, § 602(a)(11)][/us/pl/98/623/s602/a/11], inserted “and all of which is located seaward of the highwater mark,”.
+    1984—Subsec. (a)(1). [Pub. L. 98–623][/us/pl/98/623], § 602(a)(11), inserted “and all of which is located seaward of the highwater mark,”.
 
-    Subsec. (c)(2). [Pub. L. 98–623, § 602(a)(12)][/us/pl/98/623/s602/a/12], substituted “ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed” for “ocean thermal energy conversion facility or plantship licensed”.
+    Subsec. (c)(2). [Pub. L. 98–623][/us/pl/98/623], § 602(a)(12), substituted “ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed” for “ocean thermal energy conversion facility or plantship licensed”.
 
-    [Pub. L. 98–623, § 602(e)(6)][/us/pl/98/623/s602/e/6], substituted “Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended ([19 U.S.C. 1202][/us/usc/t19/s1202]), and other laws codified in title 19,” for “Secretary of the Treasury”.
+    [Pub. L. 98–623][/us/pl/98/623], § 602(e)(6), substituted “Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended ([19 U.S.C. 1202][/us/usc/t19/s1202]), and other laws codified in title 19,” for “Secretary of the Treasury”.
 
  __Territorial Sea of United States__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/96/320/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs403
+[/us/pl/96/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIV
 [/us/stat/94/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F998
-[/us/pl/98/623/s602/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F11
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3411
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
@@ -71,9 +71,9 @@
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
-[/us/pl/98/623/s602/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F11
-[/us/pl/98/623/s602/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F12
-[/us/pl/98/623/s602/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F6
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

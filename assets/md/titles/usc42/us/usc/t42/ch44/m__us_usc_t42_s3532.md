@@ -37,7 +37,7 @@
 
         (3) provide, whenever possible, for the consolidation of periodic reports required under programs referred to in paragraph (1) into one summary report submitted at such intervals as may be designated by the Secretary.
 
-([Pub. L. 89–174, § 3][/us/pl/89/174/s3], Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 100–242, title VII, § 705][/us/pl/100/242/s705], Feb. 5, 1988, [101 Stat. 1963][/us/stat/101/1963].)
+([Pub. L. 89–174][/us/pl/89/174], § 3, Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 100–242, title VII][/us/pl/100/242/tVII], § 705, Feb. 5, 1988, [101 Stat. 1963][/us/stat/101/1963].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 624a of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 624a of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -63,17 +63,17 @@
 
  __Office of Lead Based Paint Abatement and Poisoning Prevention__ 
 
-[Pub. L. 102–389, title II][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1593][/us/stat/106/1593], provided in part that: 
+[Pub. L. 102–389, title II][/us/pl/102/389/tII], Oct. 6, 1992, [106 Stat. 1593][/us/stat/106/1593], provided in part that: 
 
 > “Notwithstanding any other provision of this or any other Act with respect to any fiscal year, the Office of Lead-Based Paint Abatement and Poisoning Prevention shall be contained within the Office of the Secretary, and said Office shall have ultimate responsibility within the Department of Housing and Urban Development, except for the Secretary, for all matters related to the abatement of lead in housing, and research related to lead abatement, consistent with the responsibilities outlined for the Office in Senate Report 102–107.”
 
-[Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 753][/us/stat/105/753], provided in part: 
+[Pub. L. 102–139, title II][/us/pl/102/139/tII], Oct. 28, 1991, [105 Stat. 753][/us/stat/105/753], provided in part: 
 
 > “That there shall be established, in the Office of the Secretary, an Office of Lead Based Paint Abatement and Poisoning Prevention to be headed by a career Senior Executive Service employee who shall be responsible for all lead-based paint abatement and poisoning prevention activities (including, but not limited to, research, abatement, training regulations and policy development): Provided further, That such office shall be allocated a staffing level of twenty staff years.”
 
  __Condominium and Cooperative Study and Report; Submission to Congress__ 
 
-    [Pub. L. 93–383, title VII, § 821][/us/pl/93/383/s821], Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740], authorized the Secretary of Housing and Urban Development to conduct a full and complete investigation and study, and report to Congress not later than one year after Aug. 22, 1974, with respect to condominiums and cooperatives, and the problems, difficulties, and abuses or potential abuses applicable to condominium and cooperative housing.
+    [Pub. L. 93–383, title VII][/us/pl/93/383/tVII], § 821, Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740], authorized the Secretary of Housing and Urban Development to conduct a full and complete investigation and study, and report to Congress not later than one year after Aug. 22, 1974, with respect to condominiums and cooperatives, and the problems, difficulties, and abuses or potential abuses applicable to condominium and cooperative housing.
 
  __Ex. Ord. No. 11297. Coordination of Federal Urban Program__ 
 
@@ -237,27 +237,27 @@
 ----------
 
 [/us/usc/t42/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11501
-[/us/pl/89/174/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs3
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F667
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F223
-[/us/pl/100/242/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs705
+[/us/pl/100/242/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtVII
 [/us/stat/101/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1963
 [/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F667
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/pl/89/174/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs11
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
-[/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
+[/us/pl/102/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389%2FtII
 [/us/stat/106/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1593
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtII
 [/us/stat/105/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F753
-[/us/pl/93/383/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs821
+[/us/pl/93/383/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVII
 [/us/stat/88/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F740
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
 [/us/act/1945-05-03/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-05-03%2Fs214

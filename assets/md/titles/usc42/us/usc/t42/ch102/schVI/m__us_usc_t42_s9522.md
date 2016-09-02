@@ -47,7 +47,7 @@
 
         The report required by subsection (a) of this section shall be submitted to the committees referred to in subsection (a) of this section no later than January 1, 1981.
 
-([Pub. L. 96–398, title VIII, § 802][/us/pl/96/398/s802], Oct. 7, 1980, [94 Stat. 1606][/us/stat/94/1606]; H. Res. 549, Mar. 25, 1980.)
+([Pub. L. 96–398, title VIII][/us/pl/96/398/tVIII], § 802, Oct. 7, 1980, [94 Stat. 1606][/us/stat/94/1606]; H. Res. 549, Mar. 25, 1980.)
 
  __Change of Name__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/96/398/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs802
+[/us/pl/96/398/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2FtVIII
 [/us/stat/94/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1606
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

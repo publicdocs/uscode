@@ -31,11 +31,11 @@
 
         The President, when he determines it to be in the public interest, is authorized to make grants to any State or local government for the purpose of removing from privately owned lands timber damaged as a result of a major disaster, and such State or local government is authorized upon application, to make payments out of such grants to any person for reimbursement of expenses actually incurred by such person in the removal of damaged timber, not to exceed the amount that such expenses exceed the salvage value of such timber.
 
-([Pub. L. 93–288, title IV, § 421][/us/pl/93/288/s421], formerly § 418, May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 421, [Pub. L. 100–707, title I, § 106(j)][/us/pl/100/707/s106/j], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 421, formerly § 418, May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 421, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(j), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
 
  __References in Text__ 
 
-    [Section 476 of title 16][/us/usc/t16/s476], referred to in subsec. (c), was repealed by [Pub. L. 94–588, § 13][/us/pl/94/588/s13], Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958].
+    [Section 476 of title 16][/us/usc/t16/s476], referred to in subsec. (c), was repealed by [Pub. L. 94–588][/us/pl/94/588], § 13, Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958].
 
 ----------
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/93/288/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs421
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F158
-[/us/pl/100/707/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fj
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
 [/us/usc/t16/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs476
-[/us/pl/94/588/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs13
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2958
 
 

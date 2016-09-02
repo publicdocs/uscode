@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2001 through 2009.
 
-([Pub. L. 90–351, title I, § 2705][/us/pl/90/351/s2705], as added [Pub. L. 106–386, div. B, title I, § 1108(b)][/us/pl/106/386/s1108/b], Oct. 28, 2000, [114 Stat. 1502][/us/stat/114/1502]; amended [Pub. L. 109–162, title XI, § 1169(a)][/us/pl/109/162/s1169/a], Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2705, as added [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1108(b), Oct. 28, 2000, [114 Stat. 1502][/us/stat/114/1502]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1169(a), Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2705
-[/us/pl/106/386/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1108%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1502
-[/us/pl/109/162/s1169/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1169%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3122
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 

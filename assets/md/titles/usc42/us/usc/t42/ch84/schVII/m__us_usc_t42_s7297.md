@@ -17,7 +17,7 @@
 
     With respect to any functions transferred by this chapter and exercised after October 1, 1977, reference in any other Federal law to any department, commission, or agency or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary, the Federal Energy Regulatory Commission, or other official or component of the Department in which this chapter vests such functions.
 
-([Pub. L. 95–91, title VII, § 707][/us/pl/95/91/s707], Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
+([Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 707, Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs707
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F607
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

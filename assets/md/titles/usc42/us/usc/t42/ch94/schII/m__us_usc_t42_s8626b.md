@@ -163,7 +163,7 @@
 
         None of the costs of providing services or benefits under this section shall be considered to be an administrative cost or function for purposes of any limitation on administrative costs or functions contained in this subchapter.
 
-([Pub. L. 97–35, title XXVI, § 2607B][/us/pl/97/35/s2607B], as added [Pub. L. 103–252, title III, § 312][/us/pl/103/252/s312], May 18, 1994, [108 Stat. 662][/us/stat/108/662]; amended [Pub. L. 105–285, title III, § 308(c)][/us/pl/105/285/s308/c], (d), Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2607B, as added [Pub. L. 103–252, title III][/us/pl/103/252/tIII], § 312, May 18, 1994, [108 Stat. 662][/us/stat/108/662]; amended [Pub. L. 105–285, title III][/us/pl/105/285/tIII], § 308(c), (d), Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758].)
 
  __References in Text__ 
 
@@ -171,17 +171,17 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–285, § 308(c)][/us/pl/105/285/s308/c], substituted “For each fiscal year” for “For each of the fiscal years 1996 through 1999”.
+    1998—Subsec. (b)(1). [Pub. L. 105–285][/us/pl/105/285], § 308(c), substituted “For each fiscal year” for “For each of the fiscal years 1996 through 1999”.
 
-    Subsec. (e)(2)(E) to (H). [Pub. L. 105–285, § 308(d)(1)(A)][/us/pl/105/285/s308/d/1/A], redesignated subpars. (F) to (I) as (E) to (H), respectively.
+    Subsec. (e)(2)(E) to (H). [Pub. L. 105–285][/us/pl/105/285], § 308(d)(1)(A), redesignated subpars. (F) to (I) as (E) to (H), respectively.
 
-    Subsec. (e)(2)(I). [Pub. L. 105–285, § 308(d)(1)(A)][/us/pl/105/285/s308/d/1/A], redesignated subpar. (J) as (I). Former subpar. (I) redesignated (H).
+    Subsec. (e)(2)(I). [Pub. L. 105–285][/us/pl/105/285], § 308(d)(1)(A), redesignated subpar. (J) as (I). Former subpar. (I) redesignated (H).
 
-    Subsec. (e)(2)(I)(i). [Pub. L. 105–285, § 308(d)(1)(B)][/us/pl/105/285/s308/d/1/B], substituted “of” for “on”.
+    Subsec. (e)(2)(I)(i). [Pub. L. 105–285][/us/pl/105/285], § 308(d)(1)(B), substituted “of” for “on”.
 
-    Subsec. (e)(2)(J) to (N). [Pub. L. 105–285, § 308(d)(1)(A)][/us/pl/105/285/s308/d/1/A], redesignated subpars. (K) to (N) as (J) to (M), respectively.
+    Subsec. (e)(2)(J) to (N). [Pub. L. 105–285][/us/pl/105/285], § 308(d)(1)(A), redesignated subpars. (K) to (N) as (J) to (M), respectively.
 
-    Subsecs. (f), (g). [Pub. L. 105–285, § 308(d)(2)][/us/pl/105/285/s308/d/2], redesignated subsec. (g) as (f).
+    Subsecs. (f), (g). [Pub. L. 105–285][/us/pl/105/285], § 308(d)(2), redesignated subsec. (g) as (f).
 
  __Effective Date__ 
 
@@ -189,7 +189,7 @@
 
  __Evaluation and Report on Residential Energy Assistance Challenge Option__ 
 
-[Pub. L. 105–285, title III, § 308(a)][/us/pl/105/285/s308/a], (b), Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758], provided that:
+[Pub. L. 105–285, title III][/us/pl/105/285/tIII], § 308(a), (b), Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758], provided that:
 
 >     “(a)  __Evaluation__  __.—__ 
 
@@ -219,23 +219,23 @@
 [/us/usc/t42/s8624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624%2Fb
 [/us/usc/t42/s8624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624
 [/us/usc/t42/s8625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8625
-[/us/pl/97/35/s2607B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2607B
-[/us/pl/103/252/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs312
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F662
-[/us/pl/105/285/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fc
+[/us/pl/105/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtIII
 [/us/stat/112/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2758
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1125
 [/us/usc/t42/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6801
-[/us/pl/105/285/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fc
-[/us/pl/105/285/s308/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fd%2F1%2FA
-[/us/pl/105/285/s308/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fd%2F1%2FA
-[/us/pl/105/285/s308/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fd%2F1%2FB
-[/us/pl/105/285/s308/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fd%2F1%2FA
-[/us/pl/105/285/s308/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fd%2F2
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/pl/103/252/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs314
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/105/285/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs308%2Fa
+[/us/pl/105/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtIII
 [/us/stat/112/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2758
 [/us/usc/t42/s8626b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8626b
 

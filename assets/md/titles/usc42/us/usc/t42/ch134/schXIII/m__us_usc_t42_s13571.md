@@ -23,7 +23,7 @@
 
     (3) facilitate the environmental performance of clean coal generation.
 
-([Pub. L. 102–486, title XXXI, § 3101][/us/pl/102/486/s3101], as added [Pub. L. 109–58, title IV, § 421(a)][/us/pl/109/58/s421/a], Aug. 8, 2005, [119 Stat. 757][/us/stat/119/757].)
+([Pub. L. 102–486, title XXXI][/us/pl/102/486/tXXXI], § 3101, as added [Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 421(a), Aug. 8, 2005, [119 Stat. 757][/us/stat/119/757].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/102/486/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3101
-[/us/pl/109/58/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs421%2Fa
+[/us/pl/102/486/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXXI
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F757
 
 

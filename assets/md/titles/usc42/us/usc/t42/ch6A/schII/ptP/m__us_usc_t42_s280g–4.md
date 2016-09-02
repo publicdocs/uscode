@@ -195,7 +195,7 @@
 
         Except as otherwise provided herein, the definitions provided for in [section 13925 of this title][/us/usc/t42/s13925] shall apply to this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399P, formerly § 399O, as added [Pub. L. 109–162, title V, § 504][/us/pl/109/162/s504], Jan. 5, 2006, [119 Stat. 3026][/us/stat/119/3026]; renumbered § 399P, [Pub. L. 109–450, § 4(1)][/us/pl/109/450/s4/1], Dec. 22, 2006, [120 Stat. 3342][/us/stat/120/3342]; amended [Pub. L. 113–4, title V, § 501(a)][/us/pl/113/4/s501/a], Mar. 7, 2013, [127 Stat. 96][/us/stat/127/96].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399P, formerly § 399O, as added [Pub. L. 109–162, title V][/us/pl/109/162/tV], § 504, Jan. 5, 2006, [119 Stat. 3026][/us/stat/119/3026]; renumbered § 399P, [Pub. L. 109–450][/us/pl/109/450], § 4(1), Dec. 22, 2006, [120 Stat. 3342][/us/stat/120/3342]; amended [Pub. L. 113–4, title V][/us/pl/113/4/tV], § 501(a), Mar. 7, 2013, [127 Stat. 96][/us/stat/127/96].)
 
  __References in Text__ 
 
@@ -207,7 +207,7 @@
 
  __Findings__ 
 
-[Pub. L. 109–162, title V, § 501][/us/pl/109/162/s501], Jan. 5, 2006, [119 Stat. 3023][/us/stat/119/3023], provided that: 
+[Pub. L. 109–162, title V][/us/pl/109/162/tV], § 501, Jan. 5, 2006, [119 Stat. 3023][/us/stat/119/3023], provided that: 
 
 > “Congress makes the following findings:
 
@@ -235,7 +235,7 @@
 
  __Purpose__ 
 
-[Pub. L. 109–162, title V, § 502][/us/pl/109/162/s502], Jan. 5, 2006, [119 Stat. 3024][/us/stat/119/3024], provided that: 
+[Pub. L. 109–162, title V][/us/pl/109/162/tV], § 502, Jan. 5, 2006, [119 Stat. 3024][/us/stat/119/3024], provided that: 
 
 > “It is the purpose of this title \[enacting this section, sections 294h and 13973 of this title, and provisions set out as a note above\] to improve the health care system’s response to domestic violence, dating violence, sexual assault, and stalking through the training and education of health care providers, developing comprehensive public health responses to violence against women and children, increasing the number of women properly screened, identified, and treated for lifetime exposure to violence, and expanding research on effective interventions in the health care setting.”
 
@@ -252,19 +252,19 @@
 [/us/usc/t42/s10401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10401
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/162/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs504
+[/us/pl/109/162/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtV
 [/us/stat/119/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3026
-[/us/pl/109/450/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs4%2F1
+[/us/pl/109/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450
 [/us/stat/120/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3342
-[/us/pl/113/4/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs501%2Fa
+[/us/pl/113/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtV
 [/us/stat/127/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F96
 [/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
 [/us/stat/98/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1757
 [/us/usc/t42/s10401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10401
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/109/162/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs501
+[/us/pl/109/162/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtV
 [/us/stat/119/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3023
-[/us/pl/109/162/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs502
+[/us/pl/109/162/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtV
 [/us/stat/119/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3024
 
 

@@ -73,11 +73,11 @@
 
             The Secretary shall act upon a request for a waiver under paragraph (1) not later than 120 days after the date on which the request is made.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1931, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 397][/us/stat/106/397].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1931, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 397][/us/stat/106/397].)
 
  __References in Text__ 
 
-    [Section 300x–1a of this title][/us/usc/t42/s300x–1a], referred to in subsec. (a)(3), was repealed by [Pub. L. 102–321, title II, § 201(2)][/us/pl/102/321/s201/2], July 10, 1992, [106 Stat. 378][/us/stat/106/378].
+    [Section 300x–1a of this title][/us/usc/t42/s300x–1a], referred to in subsec. (a)(3), was repealed by [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 201(2), July 10, 1992, [106 Stat. 378][/us/stat/106/378].
 
  __Prior Provisions__ 
 
@@ -101,10 +101,10 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F397
 [/us/usc/t42/s300x–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%931a
-[/us/pl/102/321/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs201%2F2
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F378
 [/us/usc/t42/s300y–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9321
 [/us/usc/t42/s300y–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9310

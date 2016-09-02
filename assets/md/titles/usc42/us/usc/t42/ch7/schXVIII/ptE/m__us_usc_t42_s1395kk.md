@@ -113,11 +113,11 @@
 
         (3) A deceased individual.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874, as added and amended [Pub. L. 89–97, title I][/us/pl/89/97], §§ 102(a), 111(a), July 30, 1965, [79 Stat. 332][/us/stat/79/332], 340; [Pub. L. 92–603, title II, § 289][/us/pl/92/603/s289], Oct. 30, 1972, [86 Stat. 1457][/us/stat/86/1457]; [Pub. L. 93–445, title III, § 310][/us/pl/93/445/s310], Oct. 16, 1974, [88 Stat. 1359][/us/stat/88/1359]; [Pub. L. 110–275, title I, § 189(a)][/us/pl/110/275/s189/a], July 15, 2008, [122 Stat. 2590][/us/stat/122/2590]; [Pub. L. 111–148, title X, § 10332(a)][/us/pl/111/148/s10332/a], Mar. 23, 2010, [124 Stat. 968][/us/stat/124/968]; [Pub. L. 114–10, title I, § 105(c)][/us/pl/114/10/s105/c], (d), title V, § 502(a), Apr. 16, 2015, [129 Stat. 137][/us/stat/129/137], 165.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874, as added and amended [Pub. L. 89–97, title I][/us/pl/89/97/tI], §§ 102(a), 111(a), July 30, 1965, [79 Stat. 332][/us/stat/79/332], 340; [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 289, Oct. 30, 1972, [86 Stat. 1457][/us/stat/86/1457]; [Pub. L. 93–445, title III][/us/pl/93/445/tIII], § 310, Oct. 16, 1974, [88 Stat. 1359][/us/stat/88/1359]; [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 189(a), July 15, 2008, [122 Stat. 2590][/us/stat/122/2590]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10332(a), Mar. 23, 2010, [124 Stat. 968][/us/stat/124/968]; [Pub. L. 114–10, title I][/us/pl/114/10/tI], § 105(c), (d), title V, § 502(a), Apr. 16, 2015, [129 Stat. 137][/us/stat/129/137], 165.)
 
  __References in Text__ 
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (a), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (a), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
     The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -125,13 +125,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (e). [Pub. L. 114–10, § 105(c)(1)][/us/pl/114/10/s105/c/1], struck out “Medicare” before “data” in heading.
+    2015—Subsec. (e). [Pub. L. 114–10][/us/pl/114/10], § 105(c)(1), struck out “Medicare” before “data” in heading.
 
-    Subsec. (e)(3). [Pub. L. 114–10, § 105(c)(2)][/us/pl/114/10/s105/c/2], inserted “Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity.” before “The Secretary” and “or under subchapters XIX or XXI” before period at end.
+    Subsec. (e)(3). [Pub. L. 114–10][/us/pl/114/10], § 105(c)(2), inserted “Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity.” before “The Secretary” and “or under subchapters XIX or XXI” before period at end.
 
-    Subsec. (e)(4)(A). [Pub. L. 114–10, § 105(d)][/us/pl/114/10/s105/d], inserted “, for periods prior to July 1, 2016,” after “deposited” and “, and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account” before period at end.
+    Subsec. (e)(4)(A). [Pub. L. 114–10][/us/pl/114/10], § 105(d), inserted “, for periods prior to July 1, 2016,” after “deposited” and “, and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account” before period at end.
 
-    Subsec. (f). [Pub. L. 114–10, § 502(a)][/us/pl/114/10/s502/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–10][/us/pl/114/10], § 502(a), added subsec. (f).
 
     2010—Subsec. (e). [Pub. L. 111–148][/us/pl/111/148] added subsec. (e).
 
@@ -145,7 +145,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title X, § 10332(b)][/us/pl/111/148/s10332/b], Mar. 23, 2010, [124 Stat. 970][/us/stat/124/970], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10332(b), Mar. 23, 2010, [124 Stat. 970][/us/stat/124/970], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2012.”
 
@@ -159,11 +159,11 @@
 
  __Effective Date of 1965 Amendment__ 
 
-    Amendment by [Pub. L. 89–97][/us/pl/89/97] applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see [Pub. L. 89–97, title I, § 111(e)][/us/pl/89/97/s111/e], July 30, 1965, [79 Stat. 343][/us/stat/79/343].
+    Amendment by [Pub. L. 89–97][/us/pl/89/97] applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 111(e), July 30, 1965, [79 Stat. 343][/us/stat/79/343].
 
  __Report__ 
 
-[Pub. L. 114–10, title V, § 502(b)][/us/pl/114/10/s502/b], Apr. 16, 2015, [129 Stat. 165][/us/stat/129/165], provided that: 
+[Pub. L. 114–10, title V][/us/pl/114/10/tV], § 502(b), Apr. 16, 2015, [129 Stat. 165][/us/stat/129/165], provided that: 
 
 > “Not later than 18 months after the date of the enactment of this section \[Apr. 16, 2015\], and periodically thereafter as determined necessary by the Office of Inspector General of the Department of Health and Human Services, such Office shall submit to Congress a report on the activities described in subsection (f) of section 1874 of the Social Security Act ([42 U.S.C. 1395kk][/us/usc/t42/s1395kk]), as added by subsection (a), that have been conducted since such date of enactment.”
 
@@ -179,34 +179,34 @@
 [/us/usc/t42/s1395aaa/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa%2Fa
 [/us/usc/t42/s299b–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9331
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F332
-[/us/pl/92/603/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs289
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1457
-[/us/pl/93/445/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs310
+[/us/pl/93/445/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtIII
 [/us/stat/88/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1359
-[/us/pl/110/275/s189/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fa
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2590
-[/us/pl/111/148/s10332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10332%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F968
-[/us/pl/114/10/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fc
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F137
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
-[/us/pl/114/10/s105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fc%2F1
-[/us/pl/114/10/s105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fc%2F2
-[/us/pl/114/10/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105%2Fd
-[/us/pl/114/10/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs502%2Fa
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
-[/us/pl/111/148/s10332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10332%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F970
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/110/275/s189/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fc
@@ -215,9 +215,9 @@
 [/us/pl/93/445/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs603
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
-[/us/pl/89/97/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs111%2Fe
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F343
-[/us/pl/114/10/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs502%2Fb
+[/us/pl/114/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtV
 [/us/stat/129/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F165
 [/us/usc/t42/s1395kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk
 

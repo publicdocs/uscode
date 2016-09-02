@@ -147,7 +147,7 @@
 
         As part of the program described in subsection (a), the Secretary shall award a grant to a university research program to design and test, in consultation with the Tennessee Valley Authority, state-of-the-art optimization techniques for power flow through existing high voltage transmission lines.
 
-([Pub. L. 109–58, title IX, § 925][/us/pl/109/58/s925], Aug. 8, 2005, [119 Stat. 865][/us/stat/119/865].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 925, Aug. 8, 2005, [119 Stat. 865][/us/stat/119/865].)
 
 ----------
 
@@ -156,7 +156,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs925
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F865
 
 

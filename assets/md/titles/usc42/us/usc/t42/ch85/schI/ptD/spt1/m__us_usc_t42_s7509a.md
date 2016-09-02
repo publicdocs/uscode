@@ -35,11 +35,11 @@
 
         Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to a PM–10 nonattainment area in such State, such State would have attained the national ambient air quality standard for carbon monoxide by the applicable attainment date, but for emissions emanating from outside the United States, shall not be subject to the provisions of [section 7513(b)(2) of this title][/us/usc/t42/s7513/b/2].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 179B, as added [Pub. L. 101–549, title VIII, § 818][/us/pl/101/549/s818], Nov. 15, 1990, [104 Stat. 2697][/us/stat/104/2697].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 179B, as added [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 818, Nov. 15, 1990, [104 Stat. 2697][/us/stat/104/2697].)
 
  __Establishment of Program To Monitor and Improve Air Quality in Regions Along Border Between United States and Mexico__ 
 
-[Pub. L. 101–549, title VIII, § 815][/us/pl/101/549/s815], Nov. 15, 1990, [104 Stat. 2693][/us/stat/104/2693], provided that:
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 815, Nov. 15, 1990, [104 Stat. 2693][/us/stat/104/2693], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -80,9 +80,9 @@
 [/us/usc/t42/s7512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7512%2Fb
 [/us/usc/t42/s7513/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7513%2Fb%2F2
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs818
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2697
-[/us/pl/101/549/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs815
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2693
 
 

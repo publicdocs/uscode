@@ -29,7 +29,7 @@
 
     (6) various communities throughout the nation have different needs and different potentials for conserving resources and for utilizing techniques for the recovery of energy and materials from waste, and Federal assistance in planning and implementing such energy and materials conservation and recovery programs should be available to all such communities on an equitable basis in relation to their needs and potential.
 
-([Pub. L. 96–482, § 32(a)][/us/pl/96/482/s32/a], Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353].)
+([Pub. L. 96–482][/us/pl/96/482], § 32(a), Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/96/482/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fa
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2353
 
 

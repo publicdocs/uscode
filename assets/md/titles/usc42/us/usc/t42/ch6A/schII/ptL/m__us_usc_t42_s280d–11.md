@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399F, as added [Pub. L. 102–531, title II, § 201][/us/pl/102/531/s201], Oct. 27, 1992, [106 Stat. 3474][/us/stat/106/3474], which comprised part N in its entirety and which related to establishment and duties of National Foundation for the Centers for Disease Control and Prevention, was renumbered section 399G of act July 1, 1944, by [Pub. L. 106–310, div. A, title V, § 502(3)][/us/pl/106/310/s502/3], Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115], and transferred to [section 280e–11 of this title][/us/usc/t42/s280e–11].
+    Section, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 399F, as added [Pub. L. 102–531, title II][/us/pl/102/531/tII], § 201, Oct. 27, 1992, [106 Stat. 3474][/us/stat/106/3474], which comprised part N in its entirety and which related to establishment and duties of National Foundation for the Centers for Disease Control and Prevention, was renumbered section 399G of act July 1, 1944, by [Pub. L. 106–310, div. A, title V][/us/pl/106/310/dA/tV], § 502(3), Oct. 17, 2000, [114 Stat. 1115][/us/stat/114/1115], and transferred to [section 280e–11 of this title][/us/usc/t42/s280e–11].
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs201
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/102/531/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtII
 [/us/stat/106/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3474
-[/us/pl/106/310/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs502%2F3
+[/us/pl/106/310/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtV
 [/us/stat/114/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1115
 [/us/usc/t42/s280e–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280e%E2%80%9311
 

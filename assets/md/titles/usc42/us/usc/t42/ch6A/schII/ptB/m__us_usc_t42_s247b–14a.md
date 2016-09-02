@@ -33,7 +33,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section for each  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “of”. </sup></sup>  the fiscal years 2001 through 2005.
 
-([Pub. L. 106–310, div. A, title XVI, § 1601][/us/pl/106/310/s1601], Oct. 17, 2000, [114 Stat. 1148][/us/stat/114/1148].)
+([Pub. L. 106–310, div. A, title XVI][/us/pl/106/310/dA/tXVI], § 1601, Oct. 17, 2000, [114 Stat. 1148][/us/stat/114/1148].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/106/310/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1601
+[/us/pl/106/310/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXVI
 [/us/stat/114/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1148
 
 

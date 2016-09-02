@@ -81,7 +81,7 @@
 
             The Secretary shall ensure that, in the most cost effective manner and beginning January 1, 2017, a clear notification of the option to elect to receive statements described in subsection (a) in an electronic format is made available, such as through the notices distributed under [section 1395b–2 of this title][/us/usc/t42/s1395b–2], to individuals described in subsection (a).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1806, as added [Pub. L. 105–33, title IV, § 4311(b)(1)][/us/pl/105/33/s4311/b/1], Aug. 5, 1997, [111 Stat. 385][/us/stat/111/385]; amended [Pub. L. 114–10, title V, § 508(a)][/us/pl/114/10/s508/a], Apr. 16, 2015, [129 Stat. 169][/us/stat/129/169].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1806, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4311(b)(1), Aug. 5, 1997, [111 Stat. 385][/us/stat/111/385]; amended [Pub. L. 114–10, title V][/us/pl/114/10/tV], § 508(a), Apr. 16, 2015, [129 Stat. 169][/us/stat/129/169].)
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–33, title IV, § 4311(b)(3)][/us/pl/105/33/s4311/b/3], Aug. 5, 1997, [111 Stat. 386][/us/stat/111/386], provided that:
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4311(b)(3), Aug. 5, 1997, [111 Stat. 386][/us/stat/111/386], provided that:
 
 >     “(A)  __Statement by secretary__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Encouraged Expansion of Electronic Statements__ 
 
-[Pub. L. 114–10, title V, § 508(b)][/us/pl/114/10/s508/b], Apr. 16, 2015, [129 Stat. 169][/us/stat/129/169], provided that: 
+[Pub. L. 114–10, title V][/us/pl/114/10/tV], § 508(b), Apr. 16, 2015, [129 Stat. 169][/us/stat/129/169], provided that: 
 
 > “To the extent to which the Secretary of Health and Human Services determines appropriate, the Secretary shall—
 
@@ -111,7 +111,7 @@
 
  __Inclusion of Additional Information in Notices to Beneficiaries About Skilled Nursing Facility Benefits__ 
 
-[Pub. L. 108–173, title IX, § 925][/us/pl/108/173/s925], Dec. 8, 2003, [117 Stat. 2396][/us/stat/117/2396], provided that:
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 925, Dec. 8, 2003, [117 Stat. 2396][/us/stat/117/2396], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -131,21 +131,21 @@
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1395b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%932
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fb%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F385
-[/us/pl/114/10/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs508%2Fa
+[/us/pl/114/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtV
 [/us/stat/129/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F169
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
-[/us/pl/105/33/s4311/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4311%2Fb%2F3
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F386
 [/us/usc/t42/s1395b–7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa%2F1
 [/us/usc/t42/s1395b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%935
 [/us/usc/t42/s1395b–7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa%2F2
-[/us/pl/114/10/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs508%2Fb
+[/us/pl/114/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtV
 [/us/stat/129/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F169
 [/us/usc/t42/s1395b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/108/173/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs925
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2396
 [/us/usc/t42/s1395b–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%937%2Fa
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c

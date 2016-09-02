@@ -35,7 +35,7 @@
 
         Not later than 1 year after June 25, 2003, the Secretary shall submit to the appropriate committees of the Congress a report that contains recommendations for an action plan to facilitate the interjurisdictional adoption of foster children.
 
-([Pub. L. 95–266, title II, § 204][/us/pl/95/266/s204], Apr. 24, 1978, [92 Stat. 210][/us/stat/92/210]; [Pub. L. 108–36, title II][/us/pl/108/36], §§ 203, 204, June 25, 2003, [117 Stat. 821][/us/stat/117/821].)
+([Pub. L. 95–266, title II][/us/pl/95/266/tII], § 204, Apr. 24, 1978, [92 Stat. 210][/us/stat/92/210]; [Pub. L. 108–36, title II][/us/pl/108/36/tII], §§ 203, 204, June 25, 2003, [117 Stat. 821][/us/stat/117/821].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/95/266/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs204
+[/us/pl/95/266/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2FtII
 [/us/stat/92/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F210
-[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtII
 [/us/stat/117/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F821
 [/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
 

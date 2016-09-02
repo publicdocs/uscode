@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_ch6A_schIX_ptC.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_s300c–22.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9321)
 
-## § 300c–21. Repealed. [Pub. L. 97–35, title XXI, § 2193(b)(1)][/us/pl/97/35/s2193/b/1], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]
+## § 300c–21. Repealed. [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(b)(1), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827]
 
-    Section, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1131, as added July 29, 1975, [Pub. L. 94–63, title VI, § 606][/us/pl/94/63/s606], [89 Stat. 350][/us/stat/89/350]; amended Aug. 1, 1977, [Pub. L. 95–83, title III, § 306(b)][/us/pl/95/83/s306/b], [91 Stat. 389][/us/stat/91/389]; Nov. 10, 1978, [Pub. L. 95–626, title II, § 206(a)][/us/pl/95/626/s206/a], [92 Stat. 3584][/us/stat/92/3584]; Aug. 13, 1981, [Pub. L. 97–35, title XXI, § 2193(a)(1)(D)][/us/pl/97/35/s2193/a/1/D], [95 Stat. 827][/us/stat/95/827], related to comprehensive hemophilia diagnostic and treatment centers.
+    Section, [act July 1, 1944, ch. 373, title XI][/us/act/1944-07-01/ch373/tXI], § 1131, as added July 29, 1975, [Pub. L. 94–63, title VI][/us/pl/94/63/tVI], § 606, [89 Stat. 350][/us/stat/89/350]; amended Aug. 1, 1977, [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 306(b), [91 Stat. 389][/us/stat/91/389]; Nov. 10, 1978, [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 206(a), [92 Stat. 3584][/us/stat/92/3584]; Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(a)(1)(D), [95 Stat. 827][/us/stat/95/827], related to comprehensive hemophilia diagnostic and treatment centers.
 
  __Effective Date of 1981 Amendment and Repeal, Savings, and Transitional Provisions__ 
 
@@ -28,16 +28,16 @@
 ----------
 ----------
 
-[/us/pl/97/35/s2193/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F1
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/63/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs606
+[/us/act/1944-07-01/ch373/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXI
+[/us/pl/94/63/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtVI
 [/us/stat/89/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F350
-[/us/pl/95/83/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs306%2Fb
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F389
-[/us/pl/95/626/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs206%2Fa
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3584
-[/us/pl/97/35/s2193/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F1%2FD
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194

@@ -65,23 +65,23 @@
 
         Except as otherwise provided, experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed, in accordance with title 5, for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 421, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 837][/us/stat/99/837]; amended [Pub. L. 100–607, title I, § 127][/us/pl/100/607/s127], Nov. 4, 1988, [102 Stat. 3055][/us/stat/102/3055]; [Pub. L. 103–43, title V, § 501][/us/pl/103/43/s501], title XX, § 2008(b)(3), June 10, 1993, [107 Stat. 158][/us/stat/107/158], 211.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 421, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 837][/us/stat/99/837]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 127, Nov. 4, 1988, [102 Stat. 3055][/us/stat/102/3055]; [Pub. L. 103–43, title V][/us/pl/103/43/tV], § 501, title XX, § 2008(b)(3), June 10, 1993, [107 Stat. 158][/us/stat/107/158], 211.)
 
  __Codification__ 
 
-    In subsec. (b)(2)(C), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b)(2)(C), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (b)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1). [Pub. L. 103–43, § 2008(b)(3)][/us/pl/103/43/s2008/b/3], inserted comma after “may”.
+    1993—Subsec. (b)(1). [Pub. L. 103–43][/us/pl/103/43], § 2008(b)(3), inserted comma after “may”.
 
-    Subsec. (b)(5). [Pub. L. 103–43, § 501][/us/pl/103/43/s501], added par. (5).
+    Subsec. (b)(5). [Pub. L. 103–43][/us/pl/103/43], § 501, added par. (5).
 
-    1988—Subsec. (a)(1)(D). [Pub. L. 100–607, § 127(1)][/us/pl/100/607/s127/1], inserted “and rehabilitation from” after “and treatment of”.
+    1988—Subsec. (a)(1)(D). [Pub. L. 100–607][/us/pl/100/607], § 127(1), inserted “and rehabilitation from” after “and treatment of”.
 
-    Subsec. (b)(1). [Pub. L. 100–607, § 127(2)][/us/pl/100/607/s127/2], substituted “after consultation with” for “, after approval of”.
+    Subsec. (b)(1). [Pub. L. 100–607][/us/pl/100/607], § 127(2), substituted “after consultation with” for “, after approval of”.
 
 ----------
 
@@ -96,23 +96,23 @@
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F837
-[/us/pl/100/607/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs127
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3055
-[/us/pl/103/43/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs501
+[/us/pl/103/43/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtV
 [/us/stat/107/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F158
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/103/43/s2008/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fb%2F3
-[/us/pl/103/43/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs501
-[/us/pl/100/607/s127/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs127%2F1
-[/us/pl/100/607/s127/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs127%2F2
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 
 

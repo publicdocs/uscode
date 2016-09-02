@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $3,500,000 for each of the fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title VI, § 605][/us/pl/110/140/s605], Dec. 19, 2007, [121 Stat. 1676][/us/stat/121/1676].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 605, Dec. 19, 2007, [121 Stat. 1676][/us/stat/121/1676].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs605
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1676
 
 

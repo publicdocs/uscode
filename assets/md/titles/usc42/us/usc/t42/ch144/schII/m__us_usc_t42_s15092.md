@@ -75,7 +75,7 @@
 
         (2) is residing with and receiving assistance from a family member.
 
-([Pub. L. 106–402, title II, § 203][/us/pl/106/402/s203], Oct. 30, 2000, [114 Stat. 1729][/us/stat/114/1729].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 203, Oct. 30, 2000, [114 Stat. 1729][/us/stat/114/1729].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs203
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1729
 
 

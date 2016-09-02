@@ -41,7 +41,7 @@
 
         The Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives may provide for the transfer of funds in the Fund to eligible activities under this section, subject to subsection (c).
 
-([Pub. L. 111–148, title IV, § 4002][/us/pl/111/148/s4002], title X, § 10401(b), Mar. 23, 2010, [124 Stat. 541][/us/stat/124/541], 974; [Pub. L. 112–96, title III, § 3205][/us/pl/112/96/s3205], Feb. 22, 2012, [126 Stat. 194][/us/stat/126/194].)
+([Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4002, title X, § 10401(b), Mar. 23, 2010, [124 Stat. 541][/us/stat/124/541], 974; [Pub. L. 112–96, title III][/us/pl/112/96/tIII], § 3205, Feb. 22, 2012, [126 Stat. 194][/us/stat/126/194].)
 
  __References in Text__ 
 
@@ -55,11 +55,11 @@
 
     2012—Subsec. (b)(2) to (6). [Pub. L. 112–96][/us/pl/112/96] added pars. (2) to (5) and struck out former pars. (2) to (6) which appropriated amounts for fiscal years 2011 through 2015 and each fiscal year thereafter.
 
-    2010—Subsec. (c). [Pub. L. 111–148, § 10401(b)][/us/pl/111/148/s10401/b], substituted “research, health screenings, and initiatives” for “research and health screenings” and “Regarding Preventive” for “for Preventive”.
+    2010—Subsec. (c). [Pub. L. 111–148][/us/pl/111/148], § 10401(b), substituted “research, health screenings, and initiatives” for “research and health screenings” and “Regarding Preventive” for “for Preventive”.
 
  __Website__ 
 
-[Pub. L. 114–113, div. H, title II, § 220][/us/pl/114/113/s220], Dec. 18, 2015, [129 Stat. 2622][/us/stat/129/2622], provided that:
+[Pub. L. 114–113, div. H, title II][/us/pl/114/113/dH/tII], § 220, Dec. 18, 2015, [129 Stat. 2622][/us/stat/129/2622], provided that:
 
 >     “(a) The Secretary shall establish a publicly accessible Web site to provide information regarding the uses of funds made available under section 4002 of the Patient Protection and Affordable Care Act of 2010 (‘ACA’) \[[42 U.S.C. 300u–11][/us/usc/t42/s300u–11]\].
 
@@ -89,11 +89,11 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. G, title II, § 218][/us/pl/113/235/s218], Dec. 16, 2014, [128 Stat. 2488][/us/stat/128/2488].
+    [Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], § 218, Dec. 16, 2014, [128 Stat. 2488][/us/stat/128/2488].
 
-    [Pub. L. 113–76, div. H, title II, § 218][/us/pl/113/76/s218], Jan. 17, 2014, [128 Stat. 385][/us/stat/128/385].
+    [Pub. L. 113–76, div. H, title II][/us/pl/113/76/dH/tII], § 218, Jan. 17, 2014, [128 Stat. 385][/us/stat/128/385].
 
-    [Pub. L. 112–74, div. F, title II, § 220(a)][/us/pl/112/74/s220/a], Dec. 23, 2011, [125 Stat. 1085][/us/stat/125/1085].
+    [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 220(a), Dec. 23, 2011, [125 Stat. 1085][/us/stat/125/1085].
 
 ----------
 
@@ -103,23 +103,23 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/148/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4002
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F541
-[/us/pl/112/96/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs3205
+[/us/pl/112/96/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtIII
 [/us/stat/126/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F194
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
-[/us/pl/111/148/s10401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10401%2Fb
-[/us/pl/114/113/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs220
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/114/113/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtII
 [/us/stat/129/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2622
 [/us/usc/t42/s300u–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%9311
-[/us/pl/113/235/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs218
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2488
-[/us/pl/113/76/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs218
+[/us/pl/113/76/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtII
 [/us/stat/128/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F385
-[/us/pl/112/74/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs220%2Fa
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1085
 
 

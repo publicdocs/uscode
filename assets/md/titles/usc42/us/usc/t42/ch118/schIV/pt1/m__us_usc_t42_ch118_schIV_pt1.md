@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–607, title I, § 142(c)(2)(C)][/us/pl/100/607/s142/c/2/C], (D), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], redesignated part 2 as 1 and struck out former part 1 heading “Responsibilities of National Institute on Aging”.
+    1988—[Pub. L. 100–607, title I][/us/pl/100/607/tI], § 142(c)(2)(C), (D), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], redesignated part 2 as 1 and struck out former part 1 heading “Responsibilities of National Institute on Aging”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/607/s142/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fc%2F2%2FC
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
 
 

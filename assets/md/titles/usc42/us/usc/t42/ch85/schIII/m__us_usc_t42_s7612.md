@@ -63,7 +63,7 @@
 
         (3) prior to the issuance of a report required under subsection (d) or (e) of this section, review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 312, formerly § 305, as added [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 505][/us/stat/81/505]; renumbered § 312 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 12(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], 1713; [Pub. L. 95–95, title II, § 224(c)][/us/pl/95/95/s224/c], Aug. 7, 1977, [91 Stat. 767][/us/stat/91/767]; [Pub. L. 101–549, title VIII, § 812(a)][/us/pl/101/549/s812/a], Nov. 15, 1990, [104 Stat. 2691][/us/stat/104/2691].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 312, formerly § 305, as added [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 505][/us/stat/81/505]; renumbered § 312 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 12(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], 1713; [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 224(c), Aug. 7, 1977, [91 Stat. 767][/us/stat/91/767]; [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 812(a), Nov. 15, 1990, [104 Stat. 2691][/us/stat/104/2691].)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 
     1977—Subsec. (c). [Pub. L. 95–95][/us/pl/95/95] added subsec. (c).
 
-    1970—[Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” wherever appearing.
+    1970—[Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -89,7 +89,7 @@
 
  __Equivalent Air Quality Controls Among Trading Nations__ 
 
-[Pub. L. 101–549, title VIII, § 811][/us/pl/101/549/s811], Nov. 15, 1990, [104 Stat. 2690][/us/stat/104/2690], provided that:
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 811, Nov. 15, 1990, [104 Stat. 2690][/us/stat/104/2690], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -137,7 +137,7 @@
 
  __GAO Reports on Costs and Benefits__ 
 
-    [Pub. L. 101–549, title VIII, § 812(b)][/us/pl/101/549/s812/b], Nov. 15, 1990, [104 Stat. 2693][/us/stat/104/2693], which directed Comptroller General, commencing on second year after Nov. 15, 1990, and annually thereafter, in consultation with other agencies, to report to Congress on pollution control strategies and technologies required by Clean Air Act Amendments of 1990, was repealed by [Pub. L. 104–316, title I, § 122(r)][/us/pl/104/316/s122/r], Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838].
+    [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 812(b), Nov. 15, 1990, [104 Stat. 2693][/us/stat/104/2693], which directed Comptroller General, commencing on second year after Nov. 15, 1990, and annually thereafter, in consultation with other agencies, to report to Congress on pollution control strategies and technologies required by Clean Air Act Amendments of 1990, was repealed by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(r), Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838].
 
 ----------
 
@@ -149,30 +149,30 @@
 [/us/usc/t42/s7409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7409
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F505
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1705
-[/us/pl/95/95/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs224%2Fc
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F767
-[/us/pl/101/549/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs812%2Fa
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2691
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t42/s1857j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857j%E2%80%931
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/101/549/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs811
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2690
-[/us/pl/101/549/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs812%2Fb
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2693
-[/us/pl/104/316/s122/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fr
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3838
 
 

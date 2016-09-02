@@ -17,7 +17,7 @@
 
     Notwithstanding section 301(c) of this Act, none of the funds made available under the heading “Department of Energy—Energy Programs—Science” in this or any subsequent Energy and Water Development and Related Agencies appropriations Act for any fiscal year may be used for a multiyear contract, grant, cooperative agreement, or Other Transaction Agreement of $1,000,000 or less unless the contract, grant, cooperative agreement, or Other Transaction Agreement is funded for the full period of performance as anticipated at the time of award.
 
-([Pub. L. 114–113, div. D, title III, § 306][/us/pl/114/113/s306], Dec. 18, 2015, [129 Stat. 2418][/us/stat/129/2418].)
+([Pub. L. 114–113, div. D, title III][/us/pl/114/113/dD/tIII], § 306, Dec. 18, 2015, [129 Stat. 2418][/us/stat/129/2418].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs306
+[/us/pl/114/113/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdD%2FtIII
 [/us/stat/129/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2418
 [/us/pl/114/113/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs301%2Fc
 [/us/stat/129/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2416

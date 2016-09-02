@@ -61,7 +61,7 @@
 
         In cases in which a unit of general local government carries out the responsibilities described in paragraph (1), the Secretary may permit the State to perform those actions of the Secretary described in paragraph (2) and the performance of such actions by the State, where permitted by the Secretary, shall be deemed to satisfy the Secretary’s responsibilities referred to in the second sentence of paragraph (2).
 
-([Pub. L. 103–233, title III, § 305(c)][/us/pl/103/233/s305/c], Apr. 11, 1994, [108 Stat. 372][/us/stat/108/372].)
+([Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 305(c), Apr. 11, 1994, [108 Stat. 372][/us/stat/108/372].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/103/233/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs305%2Fc
+[/us/pl/103/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtIII
 [/us/stat/108/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F372
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

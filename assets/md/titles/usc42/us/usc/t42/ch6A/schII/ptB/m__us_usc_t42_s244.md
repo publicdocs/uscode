@@ -83,25 +83,25 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for for  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  each of fiscal years 2003 through 2014. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 312, as added [Pub. L. 107–188, title I, § 159(c)][/us/pl/107/188/s159/c], June 12, 2002, [116 Stat. 634][/us/stat/116/634]; amended [Pub. L. 108–41, § 2][/us/pl/108/41/s2], July 1, 2003, [117 Stat. 839][/us/stat/117/839]; [Pub. L. 111–148, title X, § 10412][/us/pl/111/148/s10412], Mar. 23, 2010, [124 Stat. 990][/us/stat/124/990].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 312, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 159(c), June 12, 2002, [116 Stat. 634][/us/stat/116/634]; amended [Pub. L. 108–41][/us/pl/108/41], § 2, July 1, 2003, [117 Stat. 839][/us/stat/117/839]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10412, Mar. 23, 2010, [124 Stat. 990][/us/stat/124/990].)
 
  __Prior Provisions__ 
 
-    A prior section 244, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 312, [58 Stat. 693][/us/stat/58/693]; [July 3, 1946, ch. 538, § 8][/us/act/1946-07-03/ch538/s8], [60 Stat. 424][/us/stat/60/424]; Dec. 5, 1967, [Pub. L. 90–174, § 12(b)][/us/pl/90/174/s12/b], [81 Stat. 541][/us/stat/81/541]; Oct. 30, 1970, [Pub. L. 91–515, title II, § 282][/us/pl/91/515/s282], [84 Stat. 1308][/us/stat/84/1308], provided for health conferences, prior to repeal by [Pub. L. 93–353, title I, § 102(a)][/us/pl/93/353/s102/a], July 23, 1974, [88 Stat. 362][/us/stat/88/362]. See section 242o(a) of this title.
+    A prior section 244, acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 312, [58 Stat. 693][/us/stat/58/693]; [July 3, 1946, ch. 538][/us/act/1946-07-03/ch538], § 8, [60 Stat. 424][/us/stat/60/424]; Dec. 5, 1967, [Pub. L. 90–174][/us/pl/90/174], § 12(b), [81 Stat. 541][/us/stat/81/541]; Oct. 30, 1970, [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 282, [84 Stat. 1308][/us/stat/84/1308], provided for health conferences, prior to repeal by [Pub. L. 93–353, title I][/us/pl/93/353/tI], § 102(a), July 23, 1974, [88 Stat. 362][/us/stat/88/362]. See section 242o(a) of this title.
 
     A prior section 312 of act July 1, 1944, was classified to [section 244–1 of this title][/us/usc/t42/s244–1] prior to repeal by [Pub. L. 94–484][/us/pl/94/484].
 
  __Amendments__ 
 
-    2010—Subsec. (c)(6). [Pub. L. 111–148, § 10412(1)][/us/pl/111/148/s10412/1], inserted “, that shall be administered by an organization that has substantial expertise in pediatric education, pediatric medicine, and electrophysiology and sudden death,” after “clearinghouse”.
+    2010—Subsec. (c)(6). [Pub. L. 111–148][/us/pl/111/148], § 10412(1), inserted “, that shall be administered by an organization that has substantial expertise in pediatric education, pediatric medicine, and electrophysiology and sudden death,” after “clearinghouse”.
 
-    Subsec. (e). [Pub. L. 111–148, § 10412(2)][/us/pl/111/148/s10412/2], substituted “for each of fiscal years 2003 through 2014” for “fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006”.
+    Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 10412(2), substituted “for each of fiscal years 2003 through 2014” for “fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006”.
 
     2003—Subsec. (c)(6), (7). [Pub. L. 108–41][/us/pl/108/41] added par. (6) and redesignated former par. (6) as (7).
 
  __Findings__ 
 
-[Pub. L. 107–188, title I, § 159(b)][/us/pl/107/188/s159/b], June 12, 2002, [116 Stat. 634][/us/stat/116/634], provided that: 
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 159(b), June 12, 2002, [116 Stat. 634][/us/stat/116/634], provided that: 
 
 > “Congress makes the following findings:
 
@@ -127,28 +127,28 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s159/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs159%2Fc
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F634
-[/us/pl/108/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F41%2Fs2
+[/us/pl/108/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F41
 [/us/stat/117/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F839
-[/us/pl/111/148/s10412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10412
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F990
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F693
-[/us/act/1946-07-03/ch538/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538%2Fs8
+[/us/act/1946-07-03/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538
 [/us/stat/60/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F424
-[/us/pl/90/174/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs12%2Fb
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F541
-[/us/pl/91/515/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs282
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1308
-[/us/pl/93/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Fa
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F362
 [/us/usc/t42/s244–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs244%E2%80%931
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
-[/us/pl/111/148/s10412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10412%2F1
-[/us/pl/111/148/s10412/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10412%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/108/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F41
-[/us/pl/107/188/s159/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs159%2Fb
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F634
 
 

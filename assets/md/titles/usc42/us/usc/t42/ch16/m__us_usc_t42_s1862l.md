@@ -57,7 +57,7 @@
 
         The plan required under subsection (a) shall include a status report for each uncompleted construction project included in current and previous plans. The status report shall include data on cumulative construction costs by project compared with estimated costs, and shall compare the current and original schedules for achievement of milestones for the major phases of the construction.
 
-([Pub. L. 105–207, title II, § 201][/us/pl/105/207/s201], July 29, 1998, [112 Stat. 872][/us/stat/112/872]; [Pub. L. 107–368, § 14(b)(1)][/us/pl/107/368/s14/b/1], (2), Dec. 19, 2002, [116 Stat. 3056][/us/stat/116/3056], 3057; [Pub. L. 110–69, title VII, § 7014(b)][/us/pl/110/69/s7014/b], Aug. 9, 2007, [121 Stat. 682][/us/stat/121/682].)
+([Pub. L. 105–207, title II][/us/pl/105/207/tII], § 201, July 29, 1998, [112 Stat. 872][/us/stat/112/872]; [Pub. L. 107–368][/us/pl/107/368], § 14(b)(1), (2), Dec. 19, 2002, [116 Stat. 3056][/us/stat/116/3056], 3057; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7014(b), Aug. 9, 2007, [121 Stat. 682][/us/stat/121/682].)
 
  __Codification__ 
 
@@ -67,11 +67,11 @@
 
     2007—Subsec. (a)(2)(D). [Pub. L. 110–69][/us/pl/110/69] inserted “and for major upgrades of facilities in support of Antarctic research programs” after “facilities construction account” in introductory provisions.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–368, § 14(b)(1)][/us/pl/107/368/s14/b/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than December 1, of each year, the Director shall, as part of the annual budget request, prepare and submit to Congress a plan for the proposed construction of, and repair and upgrades to, national research facilities.”
+    2002—Subsec. (a)(1). [Pub. L. 107–368][/us/pl/107/368], § 14(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than December 1, of each year, the Director shall, as part of the annual budget request, prepare and submit to Congress a plan for the proposed construction of, and repair and upgrades to, national research facilities.”
 
-    Subsec. (a)(2)(A). [Pub. L. 107–368, § 14(b)(2)(A)][/us/pl/107/368/s14/b/2/A], substituted “(1), including costs for instrumentation development;” for “(1);”.
+    Subsec. (a)(2)(A). [Pub. L. 107–368][/us/pl/107/368], § 14(b)(2)(A), substituted “(1), including costs for instrumentation development;” for “(1);”.
 
-    Subsec. (a)(2)(D) to (G). [Pub. L. 107–368, § 14(b)(2)(B)][/us/pl/107/368/s14/b/2/B]–(D), added subpars. (D) to (G).
+    Subsec. (a)(2)(D) to (G). [Pub. L. 107–368][/us/pl/107/368], § 14(b)(2)(B)–(D), added subpars. (D) to (G).
 
 ----------
 
@@ -80,15 +80,15 @@
 ----------
 ----------
 
-[/us/pl/105/207/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs201
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F872
-[/us/pl/107/368/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14%2Fb%2F1
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3056
-[/us/pl/110/69/s7014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7014%2Fb
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F682
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
-[/us/pl/107/368/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14%2Fb%2F1
-[/us/pl/107/368/s14/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14%2Fb%2F2%2FA
-[/us/pl/107/368/s14/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14%2Fb%2F2%2FB
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 
 

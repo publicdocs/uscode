@@ -17,7 +17,7 @@
 
     The Secretary of Commerce is authorized to evaluate the commercial feasibility of resource recovery facilities and to publish the results of such evaluation, and to develop a data base for purposes of assisting persons in choosing such a system.
 
-([Pub. L. 89–272, title II, § 5004][/us/pl/89/272/s5004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2821][/us/stat/90/2821].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 5004, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2821][/us/stat/90/2821].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs5004
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2821
 
 

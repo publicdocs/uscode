@@ -115,49 +115,49 @@
 
         In all personnel actions of the American Indian Programs Branch of the Head Start Bureau of the Administration for Children and Families, the Secretary shall give the same preference to individuals who are members of an Indian tribe as the Secretary gives to a disabled veteran, as defined in [section 2108(3)(C) of title 5][/us/usc/t5/s2108/3/C]. The Secretary shall take such additional actions as may be necessary to promote recruitment of such individuals for employment in the Administration.
 
-([Pub. L. 97–35, title VI, § 644][/us/pl/97/35/s644], Aug. 13, 1981, [95 Stat. 502][/us/stat/95/502]; [Pub. L. 101–501, title I][/us/pl/101/501], §§ 111, 112, Nov. 3, 1990, [104 Stat. 1231][/us/stat/104/1231]; [Pub. L. 102–401, § 2(j)][/us/pl/102/401/s2/j], Oct. 7, 1992, [106 Stat. 1958][/us/stat/106/1958]; [Pub. L. 103–218, title IV, § 403][/us/pl/103/218/s403], Mar. 9, 1994, [108 Stat. 96][/us/stat/108/96]; [Pub. L. 103–252, title I, § 110][/us/pl/103/252/s110], May 18, 1994, [108 Stat. 636][/us/stat/108/636]; [Pub. L. 105–285, title I, § 106(e)][/us/pl/105/285/s106/e], Oct. 27, 1998, [112 Stat. 2712][/us/stat/112/2712]; [Pub. L. 110–134, § 13][/us/pl/110/134/s13], Dec. 12, 2007, [121 Stat. 1414][/us/stat/121/1414].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 644, Aug. 13, 1981, [95 Stat. 502][/us/stat/95/502]; [Pub. L. 101–501, title I][/us/pl/101/501/tI], §§ 111, 112, Nov. 3, 1990, [104 Stat. 1231][/us/stat/104/1231]; [Pub. L. 102–401][/us/pl/102/401], § 2(j), Oct. 7, 1992, [106 Stat. 1958][/us/stat/106/1958]; [Pub. L. 103–218, title IV][/us/pl/103/218/tIV], § 403, Mar. 9, 1994, [108 Stat. 96][/us/stat/108/96]; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 110, May 18, 1994, [108 Stat. 636][/us/stat/108/636]; [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 106(e), Oct. 27, 1998, [112 Stat. 2712][/us/stat/112/2712]; [Pub. L. 110–134][/us/pl/110/134], § 13, Dec. 12, 2007, [121 Stat. 1414][/us/stat/121/1414].)
 
  __Codification__ 
 
-    In subsec. (g)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a] et seq., commonly known as the ‘Davis-Bacon Act’)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (g)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a] et seq., commonly known as the ‘Davis-Bacon Act’)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–134, § 13(1)][/us/pl/110/134/s13/1], added subsec. (a) and struck out former subsec. (a) which related to employment practices, nonpartisanship, staff accountability, and public access to information.
+    2007—Subsec. (a). [Pub. L. 110–134][/us/pl/110/134], § 13(1), added subsec. (a) and struck out former subsec. (a) which related to employment practices, nonpartisanship, staff accountability, and public access to information.
 
-    Subsec. (f)(2). [Pub. L. 110–134, § 13(2)(A)][/us/pl/110/134/s13/2/A], added subpar. (A) and redesignated former subpars. (A) to (E) as (B) to (F), respectively.
+    Subsec. (f)(2). [Pub. L. 110–134][/us/pl/110/134], § 13(2)(A), added subpar. (A) and redesignated former subpars. (A) to (E) as (B) to (F), respectively.
 
-    Subsec. (f)(3). [Pub. L. 110–134, § 13(2)(B)][/us/pl/110/134/s13/2/B], struck out “, from the amount reserved under [section 9835(a)(2)(A) of this title][/us/usc/t42/s9835/a/2/A],” after “financial assistance”.
+    Subsec. (f)(3). [Pub. L. 110–134][/us/pl/110/134], § 13(2)(B), struck out “, from the amount reserved under [section 9835(a)(2)(A) of this title][/us/usc/t42/s9835/a/2/A],” after “financial assistance”.
 
     1998—Subsec. (f)(2). [Pub. L. 105–285][/us/pl/105/285] substituted “Financial assistance” for “Except as provided in [section 9835(a)(3)(C)(v) of this title][/us/usc/t42/s9835/a/3/C/v], financial assistance”.
 
-    1994—Subsec. (d). [Pub. L. 103–252, § 110(1)][/us/pl/103/252/s110/1], struck out “guidelines, instructions,” after “all rules, regulations,”.
+    1994—Subsec. (d). [Pub. L. 103–252][/us/pl/103/252], § 110(1), struck out “guidelines, instructions,” after “all rules, regulations,”.
 
-    Subsec. (f)(1). [Pub. L. 103–218, § 403(1)][/us/pl/103/218/s403/1], inserted “, or to request approval of the purchase (after December 31, 1986) of facilities,” after “to purchase facilities” and inserted at end “The Secretary shall suspend any proceedings pending against any Head Start agency to claim costs incurred in purchasing such facilities until the agency has been afforded an opportunity to apply for approval of the purchase and the Secretary has determined whether the purchase will be approved. The Secretary shall not be required to repay claims previously satisfied by Head Start agencies for costs incurred in the purchase of such facilities.”
+    Subsec. (f)(1). [Pub. L. 103–218][/us/pl/103/218], § 403(1), inserted “, or to request approval of the purchase (after December 31, 1986) of facilities,” after “to purchase facilities” and inserted at end “The Secretary shall suspend any proceedings pending against any Head Start agency to claim costs incurred in purchasing such facilities until the agency has been afforded an opportunity to apply for approval of the purchase and the Secretary has determined whether the purchase will be approved. The Secretary shall not be required to repay claims previously satisfied by Head Start agencies for costs incurred in the purchase of such facilities.”
 
-    Subsec. (f)(2). [Pub. L. 103–252, § 110(2)(A)][/us/pl/103/252/s110/2/A], substituted “section 9835(a)(3)(C)(v)” for “section 9835(a)(3)(A)(v)”.
+    Subsec. (f)(2). [Pub. L. 103–252][/us/pl/103/252], § 110(2)(A), substituted “section 9835(a)(3)(C)(v)” for “section 9835(a)(3)(A)(v)”.
 
-    Subsec. (f)(2)(A). [Pub. L. 103–218, § 403(2)(A)][/us/pl/103/218/s403/2/A], inserted before semicolon at end “or that was previously purchased”.
+    Subsec. (f)(2)(A). [Pub. L. 103–218][/us/pl/103/218], § 403(2)(A), inserted before semicolon at end “or that was previously purchased”.
 
-    Subsec. (f)(2)(C)(i). [Pub. L. 103–218, § 403(2)(B)(i)][/us/pl/103/218/s403/2/B/i], inserted “, or the previous purchase has resulted,” after “purchase will result”.
+    Subsec. (f)(2)(C)(i). [Pub. L. 103–218][/us/pl/103/218], § 403(2)(B)(i), inserted “, or the previous purchase has resulted,” after “purchase will result”.
 
-    Subsec. (f)(2)(C)(ii). [Pub. L. 103–218, § 403(2)(B)(ii)][/us/pl/103/218/s403/2/B/ii], inserted “, or would have prevented,” after “will prevent” and struck out “and” after semicolon at end.
+    Subsec. (f)(2)(C)(ii). [Pub. L. 103–218][/us/pl/103/218], § 403(2)(B)(ii), inserted “, or would have prevented,” after “will prevent” and struck out “and” after semicolon at end.
 
-    Subsec. (f)(2)(D), (E). [Pub. L. 103–218, § 403(2)(C)][/us/pl/103/218/s403/2/C], (D), added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (f)(2)(D), (E). [Pub. L. 103–218][/us/pl/103/218], § 403(2)(C), (D), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (f)(3). [Pub. L. 103–252, § 110(2)(B)][/us/pl/103/252/s110/2/B], added par. (3).
+    Subsec. (f)(3). [Pub. L. 103–252][/us/pl/103/252], § 110(2)(B), added par. (3).
 
-    Subsecs. (g), (h). [Pub. L. 103–252, § 110(3)][/us/pl/103/252/s110/3], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 103–252][/us/pl/103/252], § 110(3), added subsecs. (g) and (h).
 
-    1992—Subsec. (b). [Pub. L. 102–401, § 2(j)(1)][/us/pl/102/401/s2/j/1], substituted “Except as provided in subsection (f) of this section, no” for “No”.
+    1992—Subsec. (b). [Pub. L. 102–401][/us/pl/102/401], § 2(j)(1), substituted “Except as provided in subsection (f) of this section, no” for “No”.
 
-    Subsec. (c). [Pub. L. 102–401, § 2(j)(2)][/us/pl/102/401/s2/j/2], substituted “subsections (a) and (f) of this section” for “subsection (a) of this section”.
+    Subsec. (c). [Pub. L. 102–401][/us/pl/102/401], § 2(j)(2), substituted “subsections (a) and (f) of this section” for “subsection (a) of this section”.
 
-    Subsec. (f). [Pub. L. 102–401, § 2(j)(3)][/us/pl/102/401/s2/j/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–401][/us/pl/102/401], § 2(j)(3), added subsec. (f).
 
-    1990—Subsec. (b). [Pub. L. 101–501, § 111][/us/pl/101/501/s111], inserted “the required” before “non-Federal contributions”.
+    1990—Subsec. (b). [Pub. L. 101–501][/us/pl/101/501], § 111, inserted “the required” before “non-Federal contributions”.
 
-    Subsec. (e). [Pub. L. 101–501, § 112][/us/pl/101/501/s112], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–501][/us/pl/101/501], § 112, added subsec. (e).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -173,7 +173,7 @@
 
  __Study of Benefits for Head Start Employees__ 
 
-[Pub. L. 103–252, title I, § 120][/us/pl/103/252/s120], May 18, 1994, [108 Stat. 648][/us/stat/108/648], provided that:
+[Pub. L. 103–252, title I][/us/pl/103/252/tI], § 120, May 18, 1994, [108 Stat. 648][/us/stat/108/648], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -203,43 +203,43 @@
 ----------
 
 [/us/usc/t5/s2108/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3%2FC
-[/us/pl/97/35/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs644
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F502
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtI
 [/us/stat/104/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1231
-[/us/pl/102/401/s2/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fj
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/stat/106/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1958
-[/us/pl/103/218/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs403
+[/us/pl/103/218/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2FtIV
 [/us/stat/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F96
-[/us/pl/103/252/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs110
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F636
-[/us/pl/105/285/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs106%2Fe
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2712
-[/us/pl/110/134/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs13
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1414
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/110/134/s13/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs13%2F1
-[/us/pl/110/134/s13/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs13%2F2%2FA
-[/us/pl/110/134/s13/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs13%2F2%2FB
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t42/s9835/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FA
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9835/a/3/C/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F3%2FC%2Fv
-[/us/pl/103/252/s110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs110%2F1
-[/us/pl/103/218/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs403%2F1
-[/us/pl/103/252/s110/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs110%2F2%2FA
-[/us/pl/103/218/s403/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs403%2F2%2FA
-[/us/pl/103/218/s403/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs403%2F2%2FB%2Fi
-[/us/pl/103/218/s403/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs403%2F2%2FB%2Fii
-[/us/pl/103/218/s403/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs403%2F2%2FC
-[/us/pl/103/252/s110/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs110%2F2%2FB
-[/us/pl/103/252/s110/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs110%2F3
-[/us/pl/102/401/s2/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fj%2F1
-[/us/pl/102/401/s2/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fj%2F2
-[/us/pl/102/401/s2/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fj%2F3
-[/us/pl/101/501/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs111
-[/us/pl/101/501/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs112
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218
+[/us/pl/103/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218
+[/us/pl/103/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218
+[/us/pl/103/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
@@ -250,7 +250,7 @@
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/101/501/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs1001%2Fa
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/103/252/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs120
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F648
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 

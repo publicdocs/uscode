@@ -17,7 +17,7 @@
 
     For the purpose of making allotments to States to carry out the activities described in [section 9874 of this title][/us/usc/t42/s9874], there is authorized to be appropriated $13,000,000 for fiscal year 1995.
 
-([Pub. L. 97–35, title VI, § 670A][/us/pl/97/35/s670A], as added [Pub. L. 98–558, title I, § 109][/us/pl/98/558/s109], Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880]; amended [Pub. L. 99–425, title III, § 301][/us/pl/99/425/s301], Sept. 30, 1986, [100 Stat. 967][/us/stat/100/967]; [Pub. L. 101–501, title III, § 301][/us/pl/101/501/s301], Nov. 3, 1990, [104 Stat. 1248][/us/stat/104/1248]; [Pub. L. 103–252, title I, § 122][/us/pl/103/252/s122], May 18, 1994, [108 Stat. 650][/us/stat/108/650].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 670A, as added [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 109, Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880]; amended [Pub. L. 99–425, title III][/us/pl/99/425/tIII], § 301, Sept. 30, 1986, [100 Stat. 967][/us/stat/100/967]; [Pub. L. 101–501, title III][/us/pl/101/501/tIII], § 301, Nov. 3, 1990, [104 Stat. 1248][/us/stat/104/1248]; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 122, May 18, 1994, [108 Stat. 650][/us/stat/108/650].)
 
  __Amendments__ 
 
@@ -51,14 +51,14 @@
 ----------
 
 [/us/usc/t42/s9874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9874
-[/us/pl/97/35/s670A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs670A
-[/us/pl/98/558/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs109
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2880
-[/us/pl/99/425/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs301
+[/us/pl/99/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIII
 [/us/stat/100/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F967
-[/us/pl/101/501/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs301
+[/us/pl/101/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIII
 [/us/stat/104/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1248
-[/us/pl/103/252/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs122
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F650
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501

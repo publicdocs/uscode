@@ -17,7 +17,7 @@
 
     Not more than 5 percent of the total amount appropriated for the emergency food and shelter program for each fiscal year may be expended for the costs of administration.
 
-([Pub. L. 100–77, title III, § 314][/us/pl/100/77/s314], July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 314, July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs314
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F492
 
 

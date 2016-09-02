@@ -73,15 +73,15 @@
 
             Provided, That notification in accordance with subsections (a) and (b) of this paragraph shall be given for releases subject to this paragraph annually, or at such time as there is any statistically significant increase in the quantity of any hazardous substance or constituent thereof released, above that previously reported or occurring.
 
-([Pub. L. 96–510, title I, § 103][/us/pl/96/510/s103], Dec. 11, 1980, [94 Stat. 2772][/us/stat/94/2772]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 99–499, title I][/us/pl/99/499], §§ 103, 109(a)(1), (2), Oct. 17, 1986, [100 Stat. 1617][/us/stat/100/1617], 1632, 1633; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 103, Dec. 11, 1980, [94 Stat. 2772][/us/stat/94/2772]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], §§ 103, 109(a)(1), (2), Oct. 17, 1986, [100 Stat. 1617][/us/stat/100/1617], 1632, 1633; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
 
  __References in Text__ 
 
-    The Clean Water Act, referred to in subsec. (a), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Clean Water Act, referred to in subsec. (a), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
     The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), is [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16][/us/usc/t16/s1801] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
@@ -93,17 +93,17 @@
 
     1986—Subsec. (b). [Pub. L. 99–499][/us/pl/99/499], §§ 103, 109(a), adjusted left hand margin of text following “federally permitted release,” third place appearing so that there is no indentation of that text, inserted “or who submits in such a notification any information which he knows to be false or misleading”, and substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “not more than $10,000 or imprisoned for not more than one year, or both” and “subsection” for “paragraph”.
 
-    Subsec. (d)(2). [Pub. L. 99–499, § 109(a)(2)][/us/pl/99/499/s109/a/2], substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “not more than $20,000, or imprisoned for not more than one year, or both” as the probable intent of Congress, notwithstanding directory language that the substitution be made for “not more than $20,000, or imprisoned for not more than one year or both”.
+    Subsec. (d)(2). [Pub. L. 99–499][/us/pl/99/499], § 109(a)(2), substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “not more than $20,000, or imprisoned for not more than one year, or both” as the probable intent of Congress, notwithstanding directory language that the substitution be made for “not more than $20,000, or imprisoned for not more than one year or both”.
 
     1980—Subsec. (b)(2). [Pub. L. 96–561][/us/pl/96/561] substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
  __Contiguous Zone of United States__ 
 
@@ -125,16 +125,16 @@
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
-[/us/pl/96/510/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs103
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2772
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1617
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
@@ -142,7 +142,7 @@
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
@@ -154,11 +154,11 @@
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
-[/us/pl/99/499/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs109%2Fa%2F2
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

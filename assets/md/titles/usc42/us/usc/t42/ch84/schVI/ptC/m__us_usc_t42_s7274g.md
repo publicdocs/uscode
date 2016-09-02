@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274g)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274h _us_usc_t42_s7274i.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274g)
 
 ## § 7274g. Environmental restoration and waste management five-year plan and budget reports
 
@@ -71,7 +71,7 @@
 
         Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to [section 1105 of title 31][/us/usc/t31/s1105]), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
 
-([Pub. L. 102–190, div. C, title XXXI, § 3135][/us/pl/102/190/s3135], Dec. 5, 1991, [105 Stat. 1575][/us/stat/105/1575]; [Pub. L. 103–337, div. C, title XXXI, § 3160(a)][/us/pl/103/337/s3160/a], Oct. 5, 1994, [108 Stat. 3094][/us/stat/108/3094].)
+([Pub. L. 102–190, div. C, title XXXI][/us/pl/102/190/dC/tXXXI], § 3135, Dec. 5, 1991, [105 Stat. 1575][/us/stat/105/1575]; [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3160(a), Oct. 5, 1994, [108 Stat. 3094][/us/stat/108/3094].)
 
  __References in Text__ 
 
@@ -83,78 +83,39 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–337, § 3160(a)(1)][/us/pl/103/337/s3160/a/1], substituted “all facilities owned or operated by the Department of Energy except defense nuclear facilities” for “(A) defense nuclear facilities and (B) all other facilities owned or operated by the Department of Energy” in first sentence and inserted “such” after “restoration at all” in third sentence.
+    1994—Subsec. (a)(1). [Pub. L. 103–337][/us/pl/103/337], § 3160(a)(1), substituted “all facilities owned or operated by the Department of Energy except defense nuclear facilities” for “(A) defense nuclear facilities and (B) all other facilities owned or operated by the Department of Energy” in first sentence and inserted “such” after “restoration at all” in third sentence.
 
-    Subsec. (a)(4). [Pub. L. 103–337, § 3160(a)(2)][/us/pl/103/337/s3160/a/2], substituted “The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:” for “The plan shall contain the following matters:” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 103–337][/us/pl/103/337], § 3160(a)(2), substituted “The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:” for “The plan shall contain the following matters:” in introductory provisions.
 
-    Subsec. (a)(6), (7). [Pub. L. 103–337, § 3160(a)(3)][/us/pl/103/337/s3160/a/3], (4), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary shall include in the annual five-year plan issued in 1992 a discussion of the feasibility and need, if any, for the establishment of a contingency fund in the Department of Energy to provide funds necessary to meet the requirements in environmental laws, to remove an immediate threat to worker or public health and safety, to prevent or improve a condition where postponement of activity would lead to deterioration of the environment, and to undertake additional environmental restoration activities at Department of Energy defense nuclear facilities that are not provided for in the budgets for fiscal years in which it is necessary to meet such requirements or undertake such activities.”
+    Subsec. (a)(6), (7). [Pub. L. 103–337][/us/pl/103/337], § 3160(a)(3), (4), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary shall include in the annual five-year plan issued in 1992 a discussion of the feasibility and need, if any, for the establishment of a contingency fund in the Department of Energy to provide funds necessary to meet the requirements in environmental laws, to remove an immediate threat to worker or public health and safety, to prevent or improve a condition where postponement of activity would lead to deterioration of the environment, and to undertake additional environmental restoration activities at Department of Energy defense nuclear facilities that are not provided for in the budgets for fiscal years in which it is necessary to meet such requirements or undertake such activities.”
 
  __Public Participation in Planning__ 
 
-    [Pub. L. 103–337, div. C, title XXXI, § 3160(e)][/us/pl/103/337/s3160/e], Oct. 5, 1994, [108 Stat. 3095][/us/stat/108/3095], which was formerly set out as a note under this section, was renumbered [section 4408 of Pub. L. 107–314][/us/pl/107/314/s4408], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(9)][/us/pl/108/136/s3141/g/9], Nov. 24, 2003, [117 Stat. 1765][/us/stat/117/1765], and is classified to [section 2588 of Title 50][/us/usc/t50/s2588], War and National Defense.
-
-§§ 7274h, 7274i. __Transferred__ 
-
- __Codification__ 
-
-    Section 7274h, [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229], which related to the Department of Energy’s workforce restructuring plan for defense nuclear facilities, was renumbered [section 4604 of Pub. L. 107–314][/us/pl/107/314/s4604], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)(A)][/us/pl/108/136/s3141/i/5/A]–(C), Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777], and is classified to [section 2704 of Title 50][/us/usc/t50/s2704], War and National Defense.
-
-    Section 7274i, [Pub. L. 102–484, div. C, title XXXI, § 3162][/us/pl/102/484/s3162], Oct. 23, 1992, [106 Stat. 2646][/us/stat/106/2646], which related to a program to monitor Department of Energy workers exposed to hazardous and radioactive substances, was renumbered [section 4643 of Pub. L. 107–314][/us/pl/107/314/s4643], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(14)(A)][/us/pl/108/136/s3141/i/14/A]–(C), Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779], 1780, and is classified to [section 2733 of Title 50][/us/usc/t50/s2733], War and National Defense.
-
- __Semiannual Report to Congress of Local Impact Assistance__ 
-
-    [Pub. L. 105–85, div. C, title XXXI, § 3153(f)][/us/pl/105/85/s3153/f], Nov. 18, 1997, [111 Stat. 2044][/us/stat/111/2044], which was formerly set out as a note under [section 7274h of this title][/us/usc/t42/s7274h], was renumbered [section 4851 of Pub. L. 107–314][/us/pl/107/314/s4851], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(15)(A)][/us/pl/108/136/s3141/k/15/A]–(C)(ii), Nov. 24, 2003, [117 Stat. 1786][/us/stat/117/1786], and was classified to [section 2821 of Title 50][/us/usc/t50/s2821], War and National Defense, prior to repeal by [Pub. L. 112–239, div. C, title XXXI, § 3131(q)(2)][/us/pl/112/239/s3131/q/2], Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183].
+    [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3160(e), Oct. 5, 1994, [108 Stat. 3095][/us/stat/108/3095], which was formerly set out as a note under this section, was renumbered [section 4408 of Pub. L. 107–314][/us/pl/107/314/s4408], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(9), Nov. 24, 2003, [117 Stat. 1765][/us/stat/117/1765], and is classified to [section 2588 of Title 50][/us/usc/t50/s2588], War and National Defense.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274g)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274h _us_usc_t42_s7274i.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274g)
 
 ----------
 ----------
 
 [/us/usc/t42/s4332/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/102/190/s3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3135
+[/us/pl/102/190/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXI
 [/us/stat/105/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1575
-[/us/pl/103/337/s3160/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3160%2Fa
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3094
 [/us/pl/102/190/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3103
 [/us/stat/105/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1566
-[/us/pl/103/337/s3160/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3160%2Fa%2F1
-[/us/pl/103/337/s3160/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3160%2Fa%2F2
-[/us/pl/103/337/s3160/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3160%2Fa%2F3
-[/us/pl/103/337/s3160/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3160%2Fe
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3095
 [/us/pl/107/314/s4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4408
-[/us/pl/108/136/s3141/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F9
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1765
 [/us/usc/t50/s2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2588
-[/us/pl/102/484/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3161
-[/us/stat/106/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2644
-[/us/pl/103/337/s1070/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fc%2F2
-[/us/stat/108/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2857
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/107/107/s1048/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fh%2F1
-[/us/stat/115/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1229
-[/us/pl/107/314/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4604
-[/us/pl/108/136/s3141/i/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F5%2FA
-[/us/stat/117/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1777
-[/us/usc/t50/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2704
-[/us/pl/102/484/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3162
-[/us/stat/106/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2646
-[/us/pl/107/314/s4643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4643
-[/us/pl/108/136/s3141/i/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F14%2FA
-[/us/stat/117/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1779
-[/us/usc/t50/s2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2733
-[/us/pl/105/85/s3153/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3153%2Ff
-[/us/stat/111/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2044
-[/us/usc/t42/s7274h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274h
-[/us/pl/107/314/s4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4851
-[/us/pl/108/136/s3141/k/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F15%2FA
-[/us/stat/117/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1786
-[/us/usc/t50/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2821
-[/us/pl/112/239/s3131/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fq%2F2
-[/us/stat/126/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2183
 
 

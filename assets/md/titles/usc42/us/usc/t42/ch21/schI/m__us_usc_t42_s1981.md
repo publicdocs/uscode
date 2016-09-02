@@ -27,11 +27,11 @@
 
         The rights protected by this section are protected against impairment by nongovernmental discrimination and impairment under color of State law.
 
-(R.S. § 1977; [Pub. L. 102–166, title I, § 101][/us/pl/102/166/s101], Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071].)
+(R.S. § 1977; [Pub. L. 102–166, title I][/us/pl/102/166/tI], § 101, Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071].)
 
  __Codification__ 
 
-    R.S. § 1977 derived from [act May 31, 1870, ch. 114, § 16][/us/act/1870-05-31/ch114/s16], [16 Stat. 144][/us/stat/16/144].
+    R.S. § 1977 derived from [act May 31, 1870, ch. 114][/us/act/1870-05-31/ch114], § 16, [16 Stat. 144][/us/stat/16/144].
 
     Section was formerly classified to [section 41 of Title 8][/us/usc/t8/s41], Aliens and Nationality.
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–166, title IV, § 402][/us/pl/102/166/s402], Nov. 21, 1991, [105 Stat. 1099][/us/stat/105/1099], provided that:
+[Pub. L. 102–166, title IV][/us/pl/102/166/tIV], § 402, Nov. 21, 1991, [105 Stat. 1099][/us/stat/105/1099], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -53,7 +53,7 @@
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–166, § 1][/us/pl/102/166/s1], Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071], provided that: 
+[Pub. L. 102–166][/us/pl/102/166], § 1, Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071], provided that: 
 
 > “This Act \[enacting [section 1981a of this title][/us/usc/t42/s1981a] and sections 60l and 1201 to 1224 of Title 2, The Congress, amending this section and sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, 12112, and 12209 of this title, and [section 626 of Title 29][/us/usc/t29/s626], Labor, and enacting provisions set out as notes under this section and sections 2000e and 2000e–4 of this title, and [section 1a–5 of Title 16][/us/usc/t16/s1a–5], Conservation\] may be cited as the ‘Civil Rights Act of 1991’.”
 
@@ -63,13 +63,13 @@
 
  __Severability__ 
 
-[Pub. L. 102–166, title IV, § 401][/us/pl/102/166/s401], Nov. 21, 1991, [105 Stat. 1099][/us/stat/105/1099], provided that: 
+[Pub. L. 102–166, title IV][/us/pl/102/166/tIV], § 401, Nov. 21, 1991, [105 Stat. 1099][/us/stat/105/1099], provided that: 
 
 > “If any provision of this Act \[see Short Title of 1991 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected.”
 
  __Congressional Findings__ 
 
-[Pub. L. 102–166, § 2][/us/pl/102/166/s2], Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071], provided that: 
+[Pub. L. 102–166][/us/pl/102/166], § 2, Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071], provided that: 
 
 > “The Congress finds that—
 
@@ -81,7 +81,7 @@
 
  __Purposes of 1991 Amendment__ 
 
-[Pub. L. 102–166, § 3][/us/pl/102/166/s3], Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071], provided that: 
+[Pub. L. 102–166][/us/pl/102/166], § 3, Nov. 21, 1991, [105 Stat. 1071][/us/stat/105/1071], provided that: 
 
 > “The purposes of this Act \[see Short Title of 1991 Amendment note above\] are—
 
@@ -95,19 +95,19 @@
 
  __Legislative History for 1991 Amendment__ 
 
-[Pub. L. 102–166, title I, § 105(b)][/us/pl/102/166/s105/b], Nov. 21, 1991, [105 Stat. 1075][/us/stat/105/1075], provided that: 
+[Pub. L. 102–166, title I][/us/pl/102/166/tI], § 105(b), Nov. 21, 1991, [105 Stat. 1075][/us/stat/105/1075], provided that: 
 
 > “No statements other than the interpretive memorandum appearing at Vol. 137 Congressional Record S 15276 (daily ed. Oct. 25, 1991) shall be considered legislative history of, or relied upon in any way as legislative history in construing or applying, any provision of this Act \[see Short Title of 1991 Amendment note above\] that relates to Wards Cove—Business necessity/cumulation/alternative business practice.”
 
  __Construction of 1991 Amendment__ 
 
-[Pub. L. 102–166, title I, § 116][/us/pl/102/166/s116], Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079], provided that: 
+[Pub. L. 102–166, title I][/us/pl/102/166/tI], § 116, Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079], provided that: 
 
 > “Nothing in the amendments made by this title \[enacting [section 1981a of this title][/us/usc/t42/s1981a] and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and [section 626 of Title 29][/us/usc/t29/s626], Labor\] shall be construed to affect court-ordered remedies, affirmative action, or conciliation agreements, that are in accordance with the law.”
 
  __Alternative Means of Dispute Resolution__ 
 
-[Pub. L. 102–166, title I, § 118][/us/pl/102/166/s118], Nov. 21, 1991, [105 Stat. 1081][/us/stat/105/1081], provided that: 
+[Pub. L. 102–166, title I][/us/pl/102/166/tI], § 118, Nov. 21, 1991, [105 Stat. 1081][/us/stat/105/1081], provided that: 
 
 > “Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Acts or provisions of Federal law amended by this title \[enacting [section 1981a of this title][/us/usc/t42/s1981a] and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and [section 626 of Title 29][/us/usc/t29/s626], Labor\].”
 
@@ -122,15 +122,15 @@
 ----------
 ----------
 
-[/us/pl/102/166/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs101
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1071
-[/us/act/1870-05-31/ch114/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114%2Fs16
+[/us/act/1870-05-31/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-05-31%2Fch114
 [/us/stat/16/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F144
 [/us/usc/t8/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs41
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
-[/us/pl/102/166/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs402
+[/us/pl/102/166/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtIV
 [/us/stat/105/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1099
-[/us/pl/102/166/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs1
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/stat/105/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1071
 [/us/usc/t42/s1981a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981a
 [/us/usc/t29/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs626
@@ -138,20 +138,20 @@
 [/us/pl/94/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F559
 [/us/usc/t42/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1988
 [/us/usc/t42/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1988
-[/us/pl/102/166/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs401
+[/us/pl/102/166/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtIV
 [/us/stat/105/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1099
-[/us/pl/102/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs2
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/stat/105/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1071
-[/us/pl/102/166/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs3
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/stat/105/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1071
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
-[/us/pl/102/166/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs105%2Fb
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1075
-[/us/pl/102/166/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs116
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1079
 [/us/usc/t42/s1981a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981a
 [/us/usc/t29/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs626
-[/us/pl/102/166/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs118
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1081
 [/us/usc/t42/s1981a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981a
 [/us/usc/t29/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs626

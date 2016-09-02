@@ -35,7 +35,7 @@
 
     (9) consider such other matters as the Secretary may deem appropriate to the study and investigation herein authorized.
 
-([Pub. L. 89–618, § 1][/us/pl/89/618/s1], Oct. 4, 1966, [80 Stat. 870][/us/stat/80/870].)
+([Pub. L. 89–618][/us/pl/89/618], § 1, Oct. 4, 1966, [80 Stat. 870][/us/stat/80/870].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Washington Metropolitan Area Water Needs and Estuarial Water Supplies; Studies__ 
 
-    [Pub. L. 93–251, title I, § 85][/us/pl/93/251/s85], Mar. 7, 1974, [88 Stat. 36][/us/stat/88/36], provided in part for a study of Washington Metropolitan Area Future Water Needs, coordinated with Northeastern United States Water Supply study, and for a study of Estuarial Water Supplies, including a Potomac Estuary Water Treatment Pilot Project, for review of scientific basis for study conclusions by National Academy of Sciences-National Academy of Engineering, and made further authorizations for Sixes Bridge Dam and Lake Project, Maryland dependent on such studies and review.
+    [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 85, Mar. 7, 1974, [88 Stat. 36][/us/stat/88/36], provided in part for a study of Washington Metropolitan Area Future Water Needs, coordinated with Northeastern United States Water Supply study, and for a study of Estuarial Water Supplies, including a Potomac Estuary Water Treatment Pilot Project, for review of scientific basis for study conclusions by National Academy of Sciences-National Academy of Engineering, and made further authorizations for Sixes Bridge Dam and Lake Project, Maryland dependent on such studies and review.
 
 ----------
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/89/618/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618%2Fs1
+[/us/pl/89/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F618
 [/us/stat/80/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F870
-[/us/pl/93/251/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs85
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F36
 
 

@@ -19,7 +19,7 @@
 
     (b) Any funds appropriated under the authorization contained in this section shall remain available until expended.
 
-([Pub. L. 96–294, title V, § 584][/us/pl/96/294/s584], June 30, 1980, [94 Stat. 761][/us/stat/94/761].)
+([Pub. L. 96–294, title V][/us/pl/96/294/tV], § 584, June 30, 1980, [94 Stat. 761][/us/stat/94/761].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs584
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F761
 
 

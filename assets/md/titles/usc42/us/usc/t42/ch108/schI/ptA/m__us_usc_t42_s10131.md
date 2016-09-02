@@ -45,7 +45,7 @@
 
         (4) to establish a Nuclear Waste Fund, composed of payments made by the generators and owners of such waste and spent fuel, that will ensure that the costs of carrying out activities relating to the disposal of such waste and spent fuel will be borne by the persons responsible for generating such waste and spent fuel.
 
-([Pub. L. 97–425, title I, § 111][/us/pl/97/425/s111], Jan. 7, 1983, [96 Stat. 2207][/us/stat/96/2207].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 111, Jan. 7, 1983, [96 Stat. 2207][/us/stat/96/2207].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs111
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2207
 
 

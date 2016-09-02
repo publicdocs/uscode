@@ -49,7 +49,7 @@
 
             (C) Such committee shall also (i) advise the Administrator of areas in which additional knowledge is required to appraise the adequacy and basis of existing, new, or revised national ambient air quality standards, (ii) describe the research efforts necessary to provide the required information, (iii) advise the Administrator on the relative contribution to air pollution concentrations of natural as well as anthropogenic activity, and (iv) advise the Administrator of any adverse public health, welfare, social, economic, or energy effects which may result from various strategies for attainment and maintenance of such national ambient air quality standards.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 109, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1679][/us/stat/84/1679]; amended [Pub. L. 95–95, title I, § 106][/us/pl/95/95/s106], Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 109, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1679][/us/stat/84/1679]; amended [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 106, Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691].)
 
  __Codification__ 
 
@@ -61,9 +61,9 @@
 
  __Amendments__ 
 
-    1977—Subsec. (c). [Pub. L. 95–95, § 106(b)][/us/pl/95/95/s106/b], added subsec. (c).
+    1977—Subsec. (c). [Pub. L. 95–95][/us/pl/95/95], § 106(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 95–95, § 106(a)][/us/pl/95/95/s106/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–95][/us/pl/95/95], § 106(a), added subsec. (d).
 
  __Effective Date of 1977 Amendment__ 
 
@@ -79,7 +79,7 @@
 
  __Role of Secondary Standards__ 
 
-[Pub. L. 101–549, title VIII, § 817][/us/pl/101/549/s817], Nov. 15, 1990, [104 Stat. 2697][/us/stat/104/2697], provided that:
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 817, Nov. 15, 1990, [104 Stat. 2697][/us/stat/104/2697], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -118,15 +118,15 @@
 [/us/usc/t42/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408
 [/us/usc/t42/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1679
-[/us/pl/95/95/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs106
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F691
 [/us/usc/t42/s1857c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%934
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7416
-[/us/pl/95/95/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs106%2Fb
-[/us/pl/95/95/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs106%2Fa
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -136,7 +136,7 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/101/549/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs817
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2697
 [/us/usc/t42/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

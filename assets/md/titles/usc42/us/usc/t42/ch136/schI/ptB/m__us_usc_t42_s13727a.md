@@ -39,7 +39,7 @@
 
         Information reported under subsection (a) shall be analyzed and included in the study and report required by [section 13727(f) of this title][/us/usc/t42/s13727/f].
 
-([Pub. L. 113–242, § 3][/us/pl/113/242/s3], Dec. 18, 2014, [128 Stat. 2861][/us/stat/128/2861].)
+([Pub. L. 113–242][/us/pl/113/242], § 3, Dec. 18, 2014, [128 Stat. 2861][/us/stat/128/2861].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s13727/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13727%2Fb
 [/us/usc/t42/s13727/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13727%2Ff
-[/us/pl/113/242/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F242%2Fs3
+[/us/pl/113/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F242
 [/us/stat/128/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2861
 
 

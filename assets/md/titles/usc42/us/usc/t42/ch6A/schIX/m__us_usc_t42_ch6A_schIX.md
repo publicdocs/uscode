@@ -17,11 +17,11 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–278, title IV, § 403(b)(3)][/us/pl/94/278/s403/b/3], Apr. 22, 1976, [90 Stat. 409][/us/stat/90/409], substituted “GENETIC DISEASES” for “GENETIC BLOOD DISORDERS” and inserted “HEMOPHILIA PROGRAMS” in subchapter heading.
+    1976—[Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(b)(3), Apr. 22, 1976, [90 Stat. 409][/us/stat/90/409], substituted “GENETIC DISEASES” for “GENETIC BLOOD DISORDERS” and inserted “HEMOPHILIA PROGRAMS” in subchapter heading.
 
-    1974—[Pub. L. 93–270, § 3(b)][/us/pl/93/270/s3/b], Apr. 22, 1974, [88 Stat. 92][/us/stat/88/92], inserted “SUDDEN INFANT DEATH SYNDROME” in subchapter heading.
+    1974—[Pub. L. 93–270][/us/pl/93/270], § 3(b), Apr. 22, 1974, [88 Stat. 92][/us/stat/88/92], inserted “SUDDEN INFANT DEATH SYNDROME” in subchapter heading.
 
-    1972—[Pub. L. 92–414, § 4(1)][/us/pl/92/414/s4/1], Aug. 29, 1972, [86 Stat. 652][/us/stat/86/652], substituted “GENETIC BLOOD DISORDERS” for “SICKLE CELL ANEMIA PROGRAM” as subchapter heading and designated former subchapter heading as part A, substituting “Programs” for “Program”.
+    1972—[Pub. L. 92–414][/us/pl/92/414], § 4(1), Aug. 29, 1972, [86 Stat. 652][/us/stat/86/652], substituted “GENETIC BLOOD DISORDERS” for “SICKLE CELL ANEMIA PROGRAM” as subchapter heading and designated former subchapter heading as part A, substituting “Programs” for “Program”.
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/94/278/s403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fb%2F3
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F409
-[/us/pl/93/270/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F270%2Fs3%2Fb
+[/us/pl/93/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F270
 [/us/stat/88/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F92
-[/us/pl/92/414/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F414%2Fs4%2F1
+[/us/pl/92/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F414
 [/us/stat/86/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F652
 
 

@@ -47,7 +47,7 @@
 
         There is authorized to be appropriated $20,000,000 to carry out this section for the 5-year period beginning on the first day of fiscal year 2007.
 
-([Pub. L. 109–248, title VI, § 627][/us/pl/109/248/s627], July 27, 2006, [120 Stat. 637][/us/stat/120/637].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 627, July 27, 2006, [120 Stat. 637][/us/stat/120/637].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs627
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F637
 
 

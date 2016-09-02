@@ -45,25 +45,25 @@
 
         The Director shall not finally disapprove any application, or any amendment thereto, submitted to the Director under this section without first affording the applicant reasonable notice and opportunity for reconsideration.
 
-([Pub. L. 90–351, title I, § 1404][/us/pl/90/351/s1404], as added [Pub. L. 101–647, title II, § 241(a)(2)][/us/pl/101/647/s241/a/2], Nov. 29, 1990, [104 Stat. 4811][/us/stat/104/4811]; amended [Pub. L. 103–322, title IV, § 40156(c)(4)][/us/pl/103/322/s40156/c/4], Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1404, as added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(a)(2), Nov. 29, 1990, [104 Stat. 4811][/us/stat/104/4811]; amended [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(c)(4), Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 40156(c)(4)(A)(i)][/us/pl/103/322/s40156/c/4/A/i], (vii), substituted “An applicant is eligible to receive a grant under this subchapter if—” for “The Bureau shall provide financial assistance to each State applicant under [section 3796aa–1 of this title][/us/usc/t42/s3796aa–1] to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children, upon determining that” in introductory provisions and designated concluding provisions as subsec. (b). See below.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(A)(i), (vii), substituted “An applicant is eligible to receive a grant under this subchapter if—” for “The Bureau shall provide financial assistance to each State applicant under [section 3796aa–1 of this title][/us/usc/t42/s3796aa–1] to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children, upon determining that” in introductory provisions and designated concluding provisions as subsec. (b). See below.
 
-    Subsec. (a)(1). [Pub. L. 103–322, § 40156(c)(4)(A)(ii)][/us/pl/103/322/s40156/c/4/A/ii], substituted “the applicant certifies and the Director determines that there is in effect in the State” for “there is in effect in such State”.
+    Subsec. (a)(1). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(A)(ii), substituted “the applicant certifies and the Director determines that there is in effect in the State” for “there is in effect in such State”.
 
-    Subsec. (a)(2). [Pub. L. 103–322, § 40156(c)(4)(A)(iii)][/us/pl/103/322/s40156/c/4/A/iii], in introductory provisions substituted “the applicant certifies and the Director determines that State law meets” for “such State law shall meet”.
+    Subsec. (a)(2). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(A)(iii), in introductory provisions substituted “the applicant certifies and the Director determines that State law meets” for “such State law shall meet”.
 
-    Subsec. (a)(2)(E). [Pub. L. 103–322, § 40156(c)(4)(A)(iv)][/us/pl/103/322/s40156/c/4/A/iv], which directed the insertion of “and” at the end of “subparagraph (E)”, without indicating which paragraph of subsec. (a) was to be amended, was executed by making the insertion at end of par. (2)(E) to reflect the probable intent of Congress.
+    Subsec. (a)(2)(E). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(A)(iv), which directed the insertion of “and” at the end of “subparagraph (E)”, without indicating which paragraph of subsec. (a) was to be amended, was executed by making the insertion at end of par. (2)(E) to reflect the probable intent of Congress.
 
-    Subsec. (a)(3). [Pub. L. 103–322, § 40156(c)(4)(A)(v)][/us/pl/103/322/s40156/c/4/A/v], inserted “the Director determines that” before “the application” and substituted a period for “; and” at end.
+    Subsec. (a)(3). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(A)(v), inserted “the Director determines that” before “the application” and substituted a period for “; and” at end.
 
-    Subsec. (a)(4). [Pub. L. 103–322, § 40156(c)(4)(A)(vi)][/us/pl/103/322/s40156/c/4/A/vi], struck out par. (4) which read as follows: “before the approval of such application and any amendment thereto the Bureau has made an affirmative finding in writing that such equipment and personnel training has been reviewed in accordance with [section 3796aa–2 of this title][/us/usc/t42/s3796aa–2].”
+    Subsec. (a)(4). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(A)(vi), struck out par. (4) which read as follows: “before the approval of such application and any amendment thereto the Bureau has made an affirmative finding in writing that such equipment and personnel training has been reviewed in accordance with [section 3796aa–2 of this title][/us/usc/t42/s3796aa–2].”
 
-    Subsec. (b). [Pub. L. 103–322, § 40156(c)(4)(A)(vii)][/us/pl/103/322/s40156/c/4/A/vii], (viii), designated concluding provisions of subsec. (a) as subsec. (b) and substituted “the Director” for “the Bureau” wherever appearing. Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(A)(vii), (viii), designated concluding provisions of subsec. (a) as subsec. (b) and substituted “the Director” for “the Bureau” wherever appearing. Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 103–322, § 40156(c)(4)(B)][/us/pl/103/322/s40156/c/4/B], redesignated subsec. (b), relating to reconsideration of applications, as (c) and substituted “The Director” for “The Bureau”.
+    Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(4)(B), redesignated subsec. (b), relating to reconsideration of applications, as (c) and substituted “The Director” for “The Bureau”.
 
  __Transfer of Functions__ 
 
@@ -78,21 +78,21 @@
 
 [/us/usc/t42/s3796aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%931
 [/us/usc/t42/s3796aa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%932
-[/us/pl/90/351/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1404
-[/us/pl/101/647/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4811
-[/us/pl/103/322/s40156/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1923
-[/us/pl/103/322/s40156/c/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FA%2Fi
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t42/s3796aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%931
-[/us/pl/103/322/s40156/c/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FA%2Fii
-[/us/pl/103/322/s40156/c/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FA%2Fiii
-[/us/pl/103/322/s40156/c/4/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FA%2Fiv
-[/us/pl/103/322/s40156/c/4/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FA%2Fv
-[/us/pl/103/322/s40156/c/4/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FA%2Fvi
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t42/s3796aa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%932
-[/us/pl/103/322/s40156/c/4/A/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FA%2Fvii
-[/us/pl/103/322/s40156/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F4%2FB
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741
 

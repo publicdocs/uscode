@@ -17,7 +17,7 @@
 
     This subchapter shall terminate 7 years after December 4, 2015.
 
-([Pub. L. 114–94, div. D, title XLI, § 41013][/us/pl/114/94/s41013], Dec. 4, 2015, [129 Stat. 1761][/us/stat/129/1761].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41013, Dec. 4, 2015, [129 Stat. 1761][/us/stat/129/1761].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s41013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41013
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1761
 
 

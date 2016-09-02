@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 96–294, title V, § 591][/us/pl/96/294/s591], June 30, 1980, [94 Stat. 761][/us/stat/94/761], authorized appropriations to Secretary of Energy of $40,000,000 for each of fiscal years ending Sept. 30, 1981 and 1982, for industrial energy conservation demonstration projects designed to substantially increase productivity in industry.
+    Section, [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 591, June 30, 1980, [94 Stat. 761][/us/stat/94/761], authorized appropriations to Secretary of Energy of $40,000,000 for each of fiscal years ending Sept. 30, 1981 and 1982, for industrial energy conservation demonstration projects designed to substantially increase productivity in industry.
 
     Section was enacted as part of the Energy Security Act, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs591
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F761
 
 

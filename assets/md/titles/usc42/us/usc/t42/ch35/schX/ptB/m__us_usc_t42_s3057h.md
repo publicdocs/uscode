@@ -21,7 +21,7 @@
 
     (2) the organization demonstrates the ability to deliver supportive services, including nutrition services.
 
-([Pub. L. 89–73, title VI, § 622][/us/pl/89/73/s622], as added [Pub. L. 100–175, title I, § 171][/us/pl/100/175/s171], Nov. 29, 1987, [101 Stat. 961][/us/stat/101/961].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 622, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 961][/us/stat/101/961].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs622
-[/us/pl/100/175/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs171
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F961
 
 

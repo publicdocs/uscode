@@ -53,11 +53,11 @@
 
         In awarding grants under this section, the Secretary shall give special consideration to projects that demonstrate strong State or local support, including availability of non-Federal contributions.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1203, as added [Pub. L. 110–23, § 5][/us/pl/110/23/s5], May 3, 2007, [121 Stat. 91][/us/stat/121/91]; amended [Pub. L. 111–148, title III, § 3504(a)(1)][/us/pl/111/148/s3504/a/1], Mar. 23, 2010, [124 Stat. 518][/us/stat/124/518].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1203, as added [Pub. L. 110–23][/us/pl/110/23], § 5, May 3, 2007, [121 Stat. 91][/us/stat/121/91]; amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3504(a)(1), Mar. 23, 2010, [124 Stat. 518][/us/stat/124/518].)
 
  __Prior Provisions__ 
 
-    A prior section 300d–5, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1206, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 598][/us/stat/87/598]; amended Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], §§ 7, 14(2), [90 Stat. 2713][/us/stat/90/2713], 2718; Nov. 10, 1978, [Pub. L. 95–626, title II, § 210(c)][/us/pl/95/626/s210/c], [92 Stat. 3588][/us/stat/92/3588]; Dec. 12, 1979, [Pub. L. 96–142, title I, § 104(c)][/us/pl/96/142/s104/c], [93 Stat. 1068][/us/stat/93/1068], set forth general provisions respecting grants and contracts, prior to repeal by [Pub. L. 97–35, title IX, § 902(d)(1)][/us/pl/97/35/s902/d/1], (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
+    A prior section 300d–5, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1206, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 598][/us/stat/87/598]; amended Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], §§ 7, 14(2), [90 Stat. 2713][/us/stat/90/2713], 2718; Nov. 10, 1978, [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 210(c), [92 Stat. 3588][/us/stat/92/3588]; Dec. 12, 1979, [Pub. L. 96–142, title I][/us/pl/96/142/tI], § 104(c), [93 Stat. 1068][/us/stat/93/1068], set forth general provisions respecting grants and contracts, prior to repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(d)(1), (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
 
     A prior section 1203 of act July 1, 1994, was renumbered section 1202 and is classified to [section 300d–3 of this title][/us/usc/t42/s300d–3].
 
@@ -76,20 +76,20 @@
 
 [/us/usc/t42/s300d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/23/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23%2Fs5
+[/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F91
-[/us/pl/111/148/s3504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3504%2Fa%2F1
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F518
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F598
 [/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2713
-[/us/pl/95/626/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs210%2Fc
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3588
-[/us/pl/96/142/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2Fs104%2Fc
+[/us/pl/96/142/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2FtI
 [/us/stat/93/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1068
-[/us/pl/97/35/s902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
 [/us/usc/t42/s300d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%933
 [/us/usc/t42/s300d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%932

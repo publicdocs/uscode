@@ -17,7 +17,7 @@
 
     For the purpose of carrying out the provisions of this chapter, the Secretary, or his duly authorized agent or agents, shall have the same powers and authorities as the Federal Trade Commission under [section 49 of title 15][/us/usc/t15/s49] with respect to all functions vested in, or transferred or delegated to, the Secretary or such agents by this chapter. For purposes of carrying out its responsibilities under the Natural Gas Policy Act of 1978 \[[15 U.S.C. 3301][/us/usc/t15/s3301] et seq.\], the Commission shall have the same powers and authority as the Secretary has under this section.
 
-([Pub. L. 95–91, title VI, § 645][/us/pl/95/91/s645], Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599]; [Pub. L. 95–621, title V, § 508(a)][/us/pl/95/621/s508/a], Nov. 9, 1978, [92 Stat. 3408][/us/stat/92/3408].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 645, Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599]; [Pub. L. 95–621, title V][/us/pl/95/621/tV], § 508(a), Nov. 9, 1978, [92 Stat. 3408][/us/stat/92/3408].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t15/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs49
 [/us/usc/t15/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3301
-[/us/pl/95/91/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs645
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F599
-[/us/pl/95/621/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs508%2Fa
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3408
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

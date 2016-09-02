@@ -135,7 +135,7 @@
 
         (3) if returning such work product or data to such entity is not practicable, destroy such work product or data.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 924, as added [Pub. L. 109–41, § 2(a)(5)][/us/pl/109/41/s2/a/5], July 29, 2005, [119 Stat. 431][/us/stat/119/431].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 924, as added [Pub. L. 109–41][/us/pl/109/41], § 2(a)(5), July 29, 2005, [119 Stat. 431][/us/stat/119/431].)
 
  __Prior Provisions__ 
 
@@ -156,7 +156,7 @@
 [/us/usc/t42/s299b–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9322
 [/us/usc/t42/s299b–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9322
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/41/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F5
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F431
 [/us/usc/t42/s299c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%933
 [/us/usc/t42/s299c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%933

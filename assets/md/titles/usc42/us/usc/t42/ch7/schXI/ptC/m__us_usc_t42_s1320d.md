@@ -99,7 +99,7 @@
 
         The term “operating rules” means the necessary business rules and guidelines for the electronic exchange of information that are not defined by a standard or its implementation specifications as adopted for purposes of this part.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1171, as added [Pub. L. 104–191, title II, § 262(a)][/us/pl/104/191/s262/a], Aug. 21, 1996, [110 Stat. 2021][/us/stat/110/2021]; amended [Pub. L. 107–105, § 4][/us/pl/107/105/s4], Dec. 27, 2001, [115 Stat. 1007][/us/stat/115/1007]; [Pub. L. 111–5, div. A, title XIII, § 13102][/us/pl/111/5/s13102], Feb. 17, 2009, [123 Stat. 242][/us/stat/123/242]; [Pub. L. 111–148, title I, § 1104(b)(1)][/us/pl/111/148/s1104/b/1], Mar. 23, 2010, [124 Stat. 146][/us/stat/124/146].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1171, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 262(a), Aug. 21, 1996, [110 Stat. 2021][/us/stat/110/2021]; amended [Pub. L. 107–105][/us/pl/107/105], § 4, Dec. 27, 2001, [115 Stat. 1007][/us/stat/115/1007]; [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13102, Feb. 17, 2009, [123 Stat. 242][/us/stat/123/242]; [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1104(b)(1), Mar. 23, 2010, [124 Stat. 146][/us/stat/124/146].)
 
  __References in Text__ 
 
@@ -119,13 +119,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title I, § 1105][/us/pl/111/148/s1105], Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1105, Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1101–1105) of title I of [Pub. L. 111–148][/us/pl/111/148], enacting subchapter I of chapter 157 of this title, amending this section and sections 1320d–2 and 1395y of this title, enacting provisions set out as a note under [section 1320d–2 of this title][/us/usc/t42/s1320d–2], and amending provisions set out as a note under this section\] shall take effect on the date of enactment of this Act \[Mar. 23, 2010\].”
 
  __Purpose__ 
 
-[Pub. L. 104–191, title II, § 261][/us/pl/104/191/s261], Aug. 21, 1996, [110 Stat. 2021][/us/stat/110/2021], as amended by [Pub. L. 111–148, title I, § 1104(a)][/us/pl/111/148/s1104/a], Mar. 23, 2010, [124 Stat. 146][/us/stat/124/146], provided that: 
+[Pub. L. 104–191, title II][/us/pl/104/191/tII], § 261, Aug. 21, 1996, [110 Stat. 2021][/us/stat/110/2021], as amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1104(a), Mar. 23, 2010, [124 Stat. 146][/us/stat/124/146], provided that: 
 
 > “It is the purpose of this subtitle \[subtitle F (§§ 261–264) of title II of [Pub. L. 104–191][/us/pl/104/191], enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under [section 1320d–2 of this title][/us/usc/t42/s1320d–2]\] to improve the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], the medicaid program under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of uniform standards and requirements for the electronic transmission of certain health information and to reduce the clerical burden on patients, health care providers, and health plans.”
 
@@ -148,13 +148,13 @@
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
 [/us/usc/t42/s1320d–2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fa%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2021
-[/us/pl/107/105/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F105%2Fs4
+[/us/pl/107/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F105
 [/us/stat/115/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1007
-[/us/pl/111/5/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13102
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F242
-[/us/pl/111/148/s1104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fb%2F1
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F146
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
@@ -164,13 +164,13 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/107/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F105
-[/us/pl/111/148/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1105
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
-[/us/pl/104/191/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs261
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2021
-[/us/pl/111/148/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F146
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

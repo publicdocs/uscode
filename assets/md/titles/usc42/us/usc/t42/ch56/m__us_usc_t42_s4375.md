@@ -31,7 +31,7 @@
 
         The Director shall promulgate regulations setting forth policies and procedures for operation of the Fund.
 
-([Pub. L. 91–224, title II, § 206][/us/pl/91/224/s206], as added [Pub. L. 98–581, § 2][/us/pl/98/581/s2], Oct. 30, 1984, [98 Stat. 3093][/us/stat/98/3093].)
+([Pub. L. 91–224, title II][/us/pl/91/224/tII], § 206, as added [Pub. L. 98–581][/us/pl/98/581], § 2, Oct. 30, 1984, [98 Stat. 3093][/us/stat/98/3093].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/91/224/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2Fs206
-[/us/pl/98/581/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F581%2Fs2
+[/us/pl/91/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2FtII
+[/us/pl/98/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F581
 [/us/stat/98/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3093
 
 

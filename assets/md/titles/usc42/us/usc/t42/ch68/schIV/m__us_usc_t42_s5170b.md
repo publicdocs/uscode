@@ -123,7 +123,7 @@
 
             Nothing in this subsection shall affect the ability of the President to reimburse labor force expenses provided pursuant to an authorized mutual aid pact.
 
-([Pub. L. 93–288, title IV, § 403][/us/pl/93/288/s403], as added [Pub. L. 100–707, title I, § 106(a)(3)][/us/pl/100/707/s106/a/3], Nov. 23, 1988, [102 Stat. 4697][/us/stat/102/4697]; amended [Pub. L. 109–295, title VI, § 689(b)][/us/pl/109/295/s689/b], Oct. 4, 2006, [120 Stat. 1449][/us/stat/120/1449]; [Pub. L. 109–308, § 4][/us/pl/109/308/s4], Oct. 6, 2006, [120 Stat. 1726][/us/stat/120/1726]; [Pub. L. 113–2, div. B, § 1108(b)][/us/pl/113/2/s1108/b], Jan. 29, 2013, [127 Stat. 47][/us/stat/127/47].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 403, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(a)(3), Nov. 23, 1988, [102 Stat. 4697][/us/stat/102/4697]; amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689(b), Oct. 4, 2006, [120 Stat. 1449][/us/stat/120/1449]; [Pub. L. 109–308][/us/pl/109/308], § 4, Oct. 6, 2006, [120 Stat. 1726][/us/stat/120/1726]; [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1108(b), Jan. 29, 2013, [127 Stat. 47][/us/stat/127/47].)
 
  __References in Text__ 
 
@@ -139,9 +139,9 @@
 
     2013—Subsec. (d). [Pub. L. 113–2][/us/pl/113/2] added subsec. (d).
 
-    2006—Subsec. (a)(2), (3)(B). [Pub. L. 109–295, § 689(b)(1)][/us/pl/109/295/s689/b/1], (2)(A), inserted “durable medical equipment,” after “medicine”.
+    2006—Subsec. (a)(2), (3)(B). [Pub. L. 109–295][/us/pl/109/295], § 689(b)(1), (2)(A), inserted “durable medical equipment,” after “medicine”.
 
-    Subsec. (a)(3)(J). [Pub. L. 109–295, § 689(b)(2)(B)][/us/pl/109/295/s689/b/2/B]–(D), and [Pub. L. 109–308][/us/pl/109/308] amended par. (3) identically, adding subpar. (J).
+    Subsec. (a)(3)(J). [Pub. L. 109–295][/us/pl/109/295], § 689(b)(2)(B)–(D), and [Pub. L. 109–308][/us/pl/109/308] amended par. (3) identically, adding subpar. (J).
 
 ----------
 
@@ -153,14 +153,14 @@
 [/us/usc/t42/s5173/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5173%2Fb
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/pl/93/288/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs403
-[/us/pl/100/707/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fa%2F3
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4697
-[/us/pl/109/295/s689/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689%2Fb
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1449
-[/us/pl/109/308/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308%2Fs4
+[/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
 [/us/stat/120/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1726
-[/us/pl/113/2/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1108%2Fb
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F47
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -172,8 +172,8 @@
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5173
 [/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
-[/us/pl/109/295/s689/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689%2Fb%2F1
-[/us/pl/109/295/s689/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689%2Fb%2F2%2FB
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F308
 
 

@@ -31,7 +31,7 @@
 
         The Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Administrator of the Environmental Protection Agency, the Secretary of Transportation, and the Hydrogen Technical Advisory Panel established under [section 12407 of this title][/us/usc/t42/s12407] in carrying out his authorities pursuant to this chapter.
 
-([Pub. L. 101–566, § 107][/us/pl/101/566/s107], Nov. 15, 1990, [104 Stat. 2800][/us/stat/104/2800].)
+([Pub. L. 101–566][/us/pl/101/566], § 107, Nov. 15, 1990, [104 Stat. 2800][/us/stat/104/2800].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s12407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12407
-[/us/pl/101/566/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566%2Fs107
+[/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566
 [/us/stat/104/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2800
 [/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566
 [/us/pl/101/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F566

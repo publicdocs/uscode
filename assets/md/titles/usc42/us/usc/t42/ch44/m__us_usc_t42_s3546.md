@@ -31,7 +31,7 @@
 
         (2) at least 50 percent of the cost of the articles, materials, or supplies of which are mined, produced, or manufactured in the United States.
 
-([Pub. L. 102–550, title IX, § 920][/us/pl/102/550/s920], Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883].)
+([Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 920, Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs920
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3883
 
 

@@ -17,7 +17,7 @@
 
     In the administration of the child support enforcement program under this part, each State is encouraged to establish and implement a civil procedure for establishing paternity in contested cases.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 468, as added [Pub. L. 100–485, title I, § 111(d)][/us/pl/100/485/s111/d], Oct. 13, 1988, [102 Stat. 2350][/us/stat/102/2350]; amended [Pub. L. 104–193, title III, § 331(c)][/us/pl/104/193/s331/c], Aug. 22, 1996, [110 Stat. 2230][/us/stat/110/2230].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 468, as added [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 111(d), Oct. 13, 1988, [102 Stat. 2350][/us/stat/102/2350]; amended [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 331(c), Aug. 22, 1996, [110 Stat. 2230][/us/stat/110/2230].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/485/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Fd
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2350
-[/us/pl/104/193/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs331%2Fc
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2230
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193

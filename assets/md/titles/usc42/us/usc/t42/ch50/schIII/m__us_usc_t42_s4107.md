@@ -17,7 +17,7 @@
 
     In carrying out his responsibilities under the provisions of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the National Flood Insurance Act of 1968 \[[42 U.S.C. 4001][/us/usc/t42/s4001] et seq.\] which relate to notification to and identification of flood-prone areas and the application of criteria for land management and use, including criteria derived from data reflecting new developments that may indicate the desirability of modifying elevations based on previous flood studies, the Administrator shall establish procedures assuring adequate consultation with the appropriate elected officials of general purpose local governments, including but not limited to those local governments whose prior eligibility under the program has been suspended. Such consultation shall include, but not be limited to, fully informing local officials at the commencement of any flood elevation study or investigation undertaken by any agency on behalf of the Administrator concerning the nature and purpose of the study, the areas involved, the manner in which the study is to be undertaken, the general principles to be applied, and the use to be made of the data obtained. The Administrator shall encourage local officials to disseminate information concerning such study widely within the community, so that interested persons will have an opportunity to bring all relevant facts and technical data concerning the local flood hazard to the attention of the agency during the course of the study.
 
-([Pub. L. 93–234, title II, § 206][/us/pl/93/234/s206], Dec. 31, 1973, [87 Stat. 983][/us/stat/87/983]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 93–234, title II][/us/pl/93/234/tII], § 206, Dec. 31, 1973, [87 Stat. 983][/us/stat/87/983]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(a)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/93/234/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs206
+[/us/pl/93/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtII
 [/us/stat/87/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F983
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F975

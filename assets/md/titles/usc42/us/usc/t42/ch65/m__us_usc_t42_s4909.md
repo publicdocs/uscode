@@ -39,7 +39,7 @@
 
         (2) Paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply with respect to any product which is manufactured solely for use outside any State and which (and the container of which) is labeled or otherwise marked to show that it is manufactured solely for use outside any State; except that such paragraphs shall apply to such product if it is in fact distributed in commerce for use in any State.
 
-([Pub. L. 92–574, § 10][/us/pl/92/574/s10], Oct. 27, 1972, [86 Stat. 1242][/us/stat/86/1242].)
+([Pub. L. 92–574][/us/pl/92/574], § 10, Oct. 27, 1972, [86 Stat. 1242][/us/stat/86/1242].)
 
 ----------
 
@@ -53,7 +53,7 @@
 [/us/usc/t42/s4907/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4907%2Fb
 [/us/usc/t42/s4907/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4907%2Fb
 [/us/usc/t42/s4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4908
-[/us/pl/92/574/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs10
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1242
 
 

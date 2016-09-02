@@ -599,11 +599,11 @@
 
             (B) obtain a settlement in the best interests of the child support creditor.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 466, as added [Pub. L. 98–378, § 3(b)][/us/pl/98/378/s3/b], Aug. 16, 1984, [98 Stat. 1306][/us/stat/98/1306]; amended [Pub. L. 99–509, title IX, § 9103(a)][/us/pl/99/509/s9103/a], Oct. 21, 1986, [100 Stat. 1973][/us/stat/100/1973]; [Pub. L. 100–485, title I][/us/pl/100/485], §§ 101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, [102 Stat. 2344–2346][/us/stat/102/2344-2346], 2349, 2350; [Pub. L. 100–647, title VIII, § 8105(4)][/us/pl/100/647/s8105/4], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 103–66, title XIII, § 13721(b)][/us/pl/103/66/s13721/b], Aug. 10, 1993, [107 Stat. 659][/us/stat/107/659]; [Pub. L. 103–432, title II, § 212(a)][/us/pl/103/432/s212/a], Oct. 31, 1994, [108 Stat. 4460][/us/stat/108/4460]; [Pub. L. 104–193, title I, § 108(c)(14)][/us/pl/104/193/s108/c/14], (15), title III, §§ 301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627], 629–631, 633, 634, 637; [Pub. L. 105–200, title IV][/us/pl/105/200], §§ 401(c)(1), 404(a), 406(a), July 16, 1998, [112 Stat. 661][/us/stat/112/661], 671; [Pub. L. 106–169, title IV, § 401(f)][/us/pl/106/169/s401/f], (m), (n), Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858], 1859; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], 146; [Pub. L. 113–183, title III, § 301(f)(1)][/us/pl/113/183/s301/f/1], Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 466, as added [Pub. L. 98–378][/us/pl/98/378], § 3(b), Aug. 16, 1984, [98 Stat. 1306][/us/stat/98/1306]; amended [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9103(a), Oct. 21, 1986, [100 Stat. 1973][/us/stat/100/1973]; [Pub. L. 100–485, title I][/us/pl/100/485/tI], §§ 101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, [102 Stat. 2344–2346][/us/stat/102/2344-2346], 2349, 2350; [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8105(4), Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13721(b), Aug. 10, 1993, [107 Stat. 659][/us/stat/107/659]; [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 212(a), Oct. 31, 1994, [108 Stat. 4460][/us/stat/108/4460]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(c)(14), (15), title III, §§ 301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627], 629–631, 633, 634, 637; [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], §§ 401(c)(1), 404(a), 406(a), July 16, 1998, [112 Stat. 661][/us/stat/112/661], 671; [Pub. L. 106–169, title IV][/us/pl/106/169/tIV], § 401(f), (m), (n), Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858], 1859; [Pub. L. 109–171, title VII][/us/pl/109/171/tVII], §§ 7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], 146; [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(1), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
 
  __Amendment of Subsection (f)__ 
 
-    [Pub. L. 113–183, title III, § 301(f)(1)][/us/pl/113/183/s301/f/1], (3)(A), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944], 1945, provided that, effective with respect to the grace periods provided to States (see Effective Date of 2014 Amendment note below), subsection (f) of this section is amended as follows:
+    [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(1), (3)(A), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944], 1945, provided that, effective with respect to the grace periods provided to States (see Effective Date of 2014 Amendment note below), subsection (f) of this section is amended as follows:
 
     (1) by striking “on and after January 1, 1998,”;
 
@@ -627,177 +627,177 @@
 
     2014—Subsec. (f). [Pub. L. 113–183][/us/pl/113/183] struck out “on and after January 1, 1998,” before “each State” and “and as in effect on August 22, 1996,” before “including any amendments” and substituted “adopted as of September 30, 2008” for “adopted as of such date”.
 
-    2006—Subsec. (a)(10)(A)(i). [Pub. L. 109–171, § 7302(a)][/us/pl/109/171/s7302/a], in introductory provisions, substituted “parent or” for “parent, or,” and struck out “upon the request of the State agency under the State plan or of either parent,” after “under part A of this subchapter,”.
+    2006—Subsec. (a)(10)(A)(i). [Pub. L. 109–171][/us/pl/109/171], § 7302(a), in introductory provisions, substituted “parent or” for “parent, or,” and struck out “upon the request of the State agency under the State plan or of either parent,” after “under part A of this subchapter,”.
 
-    Subsec. (a)(14)(A)(iii). [Pub. L. 109–171, § 7301(g)][/us/pl/109/171/s7301/g], inserted “(but the assisting State may establish a corresponding case based on such other State’s request for assistance)” before semicolon.
+    Subsec. (a)(14)(A)(iii). [Pub. L. 109–171][/us/pl/109/171], § 7301(g), inserted “(but the assisting State may establish a corresponding case based on such other State’s request for assistance)” before semicolon.
 
-    Subsec. (a)(19)(A). [Pub. L. 109–171, § 7307(a)(1)][/us/pl/109/171/s7307/a/1], (2)(A)(ii)(I), substituted “shall include a provision for medical support for the child to be provided by either or both parents, and shall be enforced” for “which include a provision for the health care coverage of the child are enforced”, “section 401(e)” for “section 401(e)(3)(C)”, and “section 401(f)” for “section 401(f)(5)(C)”.
+    Subsec. (a)(19)(A). [Pub. L. 109–171][/us/pl/109/171], § 7307(a)(1), (2)(A)(ii)(I), substituted “shall include a provision for medical support for the child to be provided by either or both parents, and shall be enforced” for “which include a provision for the health care coverage of the child are enforced”, “section 401(e)” for “section 401(e)(3)(C)”, and “section 401(f)” for “section 401(f)(5)(C)”.
 
-    Subsec. (a)(19)(B). [Pub. L. 109–171, § 7307(a)(2)(A)(ii)(II)(aa)][/us/pl/109/171/s7307/a/2/A/ii/II/aa], struck out “noncustodial” before “parent” in two places in introductory provisions.
+    Subsec. (a)(19)(B). [Pub. L. 109–171][/us/pl/109/171], § 7307(a)(2)(A)(ii)(II)(aa), struck out “noncustodial” before “parent” in two places in introductory provisions.
 
-    Subsec. (a)(19)(B)(iii). [Pub. L. 109–171, § 7307(a)(2)(A)(ii)(II)(bb)][/us/pl/109/171/s7307/a/2/A/ii/II/bb], made technical amendment to reference in original act which appears in text as reference to subsection (b).
+    Subsec. (a)(19)(B)(iii). [Pub. L. 109–171][/us/pl/109/171], § 7307(a)(2)(A)(ii)(II)(bb), made technical amendment to reference in original act which appears in text as reference to subsection (b).
 
-    [Pub. L. 109–171, § 7307(a)(2)(A)(ii)(II)(aa)][/us/pl/109/171/s7307/a/2/A/ii/II/aa], struck out “noncustodial” before “parent”.
+    [Pub. L. 109–171][/us/pl/109/171], § 7307(a)(2)(A)(ii)(II)(aa), struck out “noncustodial” before “parent”.
 
-    Subsec. (a)(19)(B)(iv). [Pub. L. 109–171, § 7307(a)(2)(A)(ii)(II)(aa)][/us/pl/109/171/s7307/a/2/A/ii/II/aa], struck out “noncustodial” before “parent”.
+    Subsec. (a)(19)(B)(iv). [Pub. L. 109–171][/us/pl/109/171], § 7307(a)(2)(A)(ii)(II)(aa), struck out “noncustodial” before “parent”.
 
-    Subsec. (a)(19)(C). [Pub. L. 109–171, § 7307(a)(2)(A)(ii)(III)][/us/pl/109/171/s7307/a/2/A/ii/III], substituted “obligated” for “noncustodial” in two places.
+    Subsec. (a)(19)(C). [Pub. L. 109–171][/us/pl/109/171], § 7307(a)(2)(A)(ii)(III), substituted “obligated” for “noncustodial” in two places.
 
-    1999—Subsec. (a)(7)(A). [Pub. L. 106–169, § 401(m)][/us/pl/106/169/s401/m], substituted “1681a(f) of title 15)” for “1681a(f) of title 15”.
+    1999—Subsec. (a)(7)(A). [Pub. L. 106–169][/us/pl/106/169], § 401(m), substituted “1681a(f) of title 15)” for “1681a(f) of title 15”.
 
-    Subsec. (b)(6)(A)(i). [Pub. L. 106–169, § 401(n)][/us/pl/106/169/s401/n], substituted “State of the obligor’s” for “state of the obligor’s” in introductory provisions.
+    Subsec. (b)(6)(A)(i). [Pub. L. 106–169][/us/pl/106/169], § 401(n), substituted “State of the obligor’s” for “state of the obligor’s” in introductory provisions.
 
-    Subsec. (c)(2)(A)(i). [Pub. L. 106–169, § 401(f)][/us/pl/106/169/s401/f], substituted “social security” for “Social Security”.
+    Subsec. (c)(2)(A)(i). [Pub. L. 106–169][/us/pl/106/169], § 401(f), substituted “social security” for “Social Security”.
 
-    1998—Subsec. (a)(14)(B). [Pub. L. 105–200, § 404(a)][/us/pl/105/200/s404/a], amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In this part, the term ‘high-volume automated administrative enforcement’ means the use of automatic data processing to search various State data bases, including license records, employment service data, and State new hire registries, to determine whether information is available regarding a parent who owes a child support obligation.”
+    1998—Subsec. (a)(14)(B). [Pub. L. 105–200][/us/pl/105/200], § 404(a), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In this part, the term ‘high-volume automated administrative enforcement’ means the use of automatic data processing to search various State data bases, including license records, employment service data, and State new hire registries, to determine whether information is available regarding a parent who owes a child support obligation.”
 
-    Subsec. (a)(17)(A)(i). [Pub. L. 105–200, § 406(a)][/us/pl/105/200/s406/a], inserted “and the Federal Parent Locator Service in the case of financial institutions doing business in two or more States,” before “a data match system”.
+    Subsec. (a)(17)(A)(i). [Pub. L. 105–200][/us/pl/105/200], § 406(a), inserted “and the Federal Parent Locator Service in the case of financial institutions doing business in two or more States,” before “a data match system”.
 
-    Subsec. (a)(19). [Pub. L. 105–200, § 401(c)(1)][/us/pl/105/200/s401/c/1], amended heading and text of par. (19) generally. Prior to amendment, text read as follows: “Procedures under which all child support orders enforced pursuant to this part shall include a provision for the health care coverage of the child, and in the case in which a noncustodial parent provides such coverage and changes employment, and the new employer provides health care coverage, the State agency shall transfer notice of the provision to the employer, which notice shall operate to enroll the child in the noncustodial parent’s health plan, unless the noncustodial parent contests the notice.”
+    Subsec. (a)(19). [Pub. L. 105–200][/us/pl/105/200], § 401(c)(1), amended heading and text of par. (19) generally. Prior to amendment, text read as follows: “Procedures under which all child support orders enforced pursuant to this part shall include a provision for the health care coverage of the child, and in the case in which a noncustodial parent provides such coverage and changes employment, and the new employer provides health care coverage, the State agency shall transfer notice of the provision to the employer, which notice shall operate to enroll the child in the noncustodial parent’s health plan, unless the noncustodial parent contests the notice.”
 
-    1997—Subsec. (a)(1)(B). [Pub. L. 105–33, § 5556(e)][/us/pl/105/33/s5556/e], substituted “January 1, 1994” for “October 1, 1996”.
+    1997—Subsec. (a)(1)(B). [Pub. L. 105–33][/us/pl/105/33], § 5556(e), substituted “January 1, 1994” for “October 1, 1996”.
 
-    Subsec. (a)(3)(B). [Pub. L. 105–33, § 5532(i)(2)][/us/pl/105/33/s5532/i/2], substituted “section 657” for “section 657(b)(4) or (d)(3)”.
+    Subsec. (a)(3)(B). [Pub. L. 105–33][/us/pl/105/33], § 5532(i)(2), substituted “section 657” for “section 657(b)(4) or (d)(3)”.
 
-    Subsec. (a)(5)(C)(i). [Pub. L. 105–33, § 5539][/us/pl/105/33/s5539], inserted “, or through the use of video or audio equipment,” after “orally”.
+    Subsec. (a)(5)(C)(i). [Pub. L. 105–33][/us/pl/105/33], § 5539, inserted “, or through the use of video or audio equipment,” after “orally”.
 
-    Subsec. (a)(13). [Pub. L. 105–33, § 5536(2)][/us/pl/105/33/s5536/2], inserted “to be used on the face of the document while the social security number is kept on file at the agency” after “other than the social security number” in concluding provisions.
+    Subsec. (a)(13). [Pub. L. 105–33][/us/pl/105/33], § 5536(2), inserted “to be used on the face of the document while the social security number is kept on file at the agency” after “other than the social security number” in concluding provisions.
 
-    Subsec. (a)(13)(A). [Pub. L. 105–33, § 5536(1)(B)][/us/pl/105/33/s5536/1/B], inserted “recreational license,” after “occupational license,”.
+    Subsec. (a)(13)(A). [Pub. L. 105–33][/us/pl/105/33], § 5536(1)(B), inserted “recreational license,” after “occupational license,”.
 
-    [Pub. L. 105–33, § 5536(1)(A)][/us/pl/105/33/s5536/1/A], struck out “commercial” before “driver’s license”.
+    [Pub. L. 105–33][/us/pl/105/33], § 5536(1)(A), struck out “commercial” before “driver’s license”.
 
-    Subsec. (a)(14). [Pub. L. 105–33, § 5550(a)][/us/pl/105/33/s5550/a], amended heading and text of par. (14) generally. Prior to amendment, text consisted of subpars. (A) to (D) relating to administrative enforcement in interstate cases.
+    Subsec. (a)(14). [Pub. L. 105–33][/us/pl/105/33], § 5550(a), amended heading and text of par. (14) generally. Prior to amendment, text consisted of subpars. (A) to (D) relating to administrative enforcement in interstate cases.
 
-    Subsec. (a)(15). [Pub. L. 105–33, § 5551][/us/pl/105/33/s5551], amended heading and text of par. (15) generally. Prior to amendment, text related to procedures to ensure that persons owning past-due support work or have a plan for payment of such support.
+    Subsec. (a)(15). [Pub. L. 105–33][/us/pl/105/33], § 5551, amended heading and text of par. (15) generally. Prior to amendment, text related to procedures to ensure that persons owning past-due support work or have a plan for payment of such support.
 
-    Subsec. (a)(16). [Pub. L. 105–33, § 5544][/us/pl/105/33/s5544], inserted “and sporting” after “recreational”.
+    Subsec. (a)(16). [Pub. L. 105–33][/us/pl/105/33], § 5544, inserted “and sporting” after “recreational”.
 
-    Subsec. (c)(1)(E). [Pub. L. 105–33, § 5538(1)(A)][/us/pl/105/33/s5538/1/A], inserted “, part E of this subchapter,” after “part A of this subchapter”.
+    Subsec. (c)(1)(E). [Pub. L. 105–33][/us/pl/105/33], § 5538(1)(A), inserted “, part E of this subchapter,” after “part A of this subchapter”.
 
-    Subsec. (c)(1)(F). [Pub. L. 105–33, § 5556(a)][/us/pl/105/33/s5556/a], made technical amendment to reference in original act which appears in text as reference to subsections (a)(1)(A) and (b) of this section.
+    Subsec. (c)(1)(F). [Pub. L. 105–33][/us/pl/105/33], § 5556(a), made technical amendment to reference in original act which appears in text as reference to subsections (a)(1)(A) and (b) of this section.
 
-    Subsec. (c)(1)(G). [Pub. L. 105–33, § 5538(1)(B)][/us/pl/105/33/s5538/1/B], inserted “any current support obligation and” after “to satisfy” in introductory provisions.
+    Subsec. (c)(1)(G). [Pub. L. 105–33][/us/pl/105/33], § 5538(1)(B), inserted “any current support obligation and” after “to satisfy” in introductory provisions.
 
-    Subsec. (c)(2)(A)(i). [Pub. L. 105–33, § 5538(2)(A)][/us/pl/105/33/s5538/2/A], struck out “the tribunal and” after “to file with”.
+    Subsec. (c)(2)(A)(i). [Pub. L. 105–33][/us/pl/105/33], § 5538(2)(A), struck out “the tribunal and” after “to file with”.
 
-    Subsec. (c)(2)(A)(ii). [Pub. L. 105–33, § 5538(2)(B)][/us/pl/105/33/s5538/2/B], substituted “court or administrative agency of competent jurisdiction shall” for “tribunal may” and “filed with the State case registry” for “filed with the tribunal”.
+    Subsec. (c)(2)(A)(ii). [Pub. L. 105–33][/us/pl/105/33], § 5538(2)(B), substituted “court or administrative agency of competent jurisdiction shall” for “tribunal may” and “filed with the State case registry” for “filed with the tribunal”.
 
-    Subsec. (f). [Pub. L. 105–33, § 5537][/us/pl/105/33/s5537], substituted “and as in effect on August 22, 1996, including any amendments officially adopted as of such date by the National Conference of Commissioners on Uniform State Laws.” for “together with any amendments officially adopted before January 1, 1998 by the National Conference of Commissioners on Uniform State Laws.”
+    Subsec. (f). [Pub. L. 105–33][/us/pl/105/33], § 5537, substituted “and as in effect on August 22, 1996, including any amendments officially adopted as of such date by the National Conference of Commissioners on Uniform State Laws.” for “together with any amendments officially adopted before January 1, 1998 by the National Conference of Commissioners on Uniform State Laws.”
 
     1996—Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], §§ 365(b), 395(d)(1)(H), in closing provisions, substituted “(7), and (15)” for “and (7)” and “noncustodial parent” for “absent parent”.
 
-    Subsec. (a)(1). [Pub. L. 104–193, § 314(a)(1)][/us/pl/104/193/s314/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Procedures described in subsection (b) of this section for the withholding from income of amounts payable as support.”
+    Subsec. (a)(1). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Procedures described in subsection (b) of this section for the withholding from income of amounts payable as support.”
 
-    Subsec. (a)(2). [Pub. L. 104–193, § 325(a)(1)][/us/pl/104/193/s325/a/1], substituted “Expedited administrative and judicial procedures (including the procedures specified in subsection (c) of this section) for establishing paternity and for establishing, modifying, and enforcing support obligations.” for “Procedures under which expedited processes (determined in accordance with regulations of the Secretary) are in effect under the State judicial system or under State administrative processes (A) for obtaining and enforcing support orders, and (B) for establishing paternity.”
+    Subsec. (a)(2). [Pub. L. 104–193][/us/pl/104/193], § 325(a)(1), substituted “Expedited administrative and judicial procedures (including the procedures specified in subsection (c) of this section) for establishing paternity and for establishing, modifying, and enforcing support obligations.” for “Procedures under which expedited processes (determined in accordance with regulations of the Secretary) are in effect under the State judicial system or under State administrative processes (A) for obtaining and enforcing support orders, and (B) for establishing paternity.”
 
-    Subsec. (a)(3)(A). [Pub. L. 104–193, § 395(d)(1)(H)][/us/pl/104/193/s395/d/1/H], (2)(D), substituted “a noncustodial parent” for “an absent parent” and substituted “noncustodial parent” for “absent parent” in two places.
+    Subsec. (a)(3)(A). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(1)(H), (2)(D), substituted “a noncustodial parent” for “an absent parent” and substituted “noncustodial parent” for “absent parent” in two places.
 
-    Subsec. (a)(3)(B). [Pub. L. 104–193, § 301(c)(3)][/us/pl/104/193/s301/c/3], substituted “in any other case” for “in the case of overdue support which a State has agreed to collect under [section 654(6) of this title][/us/usc/t42/s654/6]”.
+    Subsec. (a)(3)(B). [Pub. L. 104–193][/us/pl/104/193], § 301(c)(3), substituted “in any other case” for “in the case of overdue support which a State has agreed to collect under [section 654(6) of this title][/us/usc/t42/s654/6]”.
 
-    [Pub. L. 104–193, § 108(c)(14)][/us/pl/104/193/s108/c/14], substituted “section 608(a)(3)” for “section 602(a)(26)”.
+    [Pub. L. 104–193][/us/pl/104/193], § 108(c)(14), substituted “section 608(a)(3)” for “section 602(a)(26)”.
 
-    (a)(3)(C). [Pub. L. 104–193, § 395(d)(1)(H)][/us/pl/104/193/s395/d/1/H], substituted “noncustodial parent’s” for “absent parent’s”.
+    (a)(3)(C). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(1)(H), substituted “noncustodial parent’s” for “absent parent’s”.
 
-    Subsec. (a)(4). [Pub. L. 104–193, § 368][/us/pl/104/193/s368], inserted heading and amended text of par. (4) generally. Prior to amendment, text read as follows: “Procedures under which liens are imposed against real and personal property for amounts of overdue support owed by an absent parent who resides or owns property in the State.”
+    Subsec. (a)(4). [Pub. L. 104–193][/us/pl/104/193], § 368, inserted heading and amended text of par. (4) generally. Prior to amendment, text read as follows: “Procedures under which liens are imposed against real and personal property for amounts of overdue support owed by an absent parent who resides or owns property in the State.”
 
-    Subsec. (a)(5). [Pub. L. 104–193, § 331(a)][/us/pl/104/193/s331/a], inserted heading and amended text of par. (5) generally. Prior to amendment, text related to establishment of child’s paternity prior to child’s eighteenth birthday.
+    Subsec. (a)(5). [Pub. L. 104–193][/us/pl/104/193], § 331(a), inserted heading and amended text of par. (5) generally. Prior to amendment, text related to establishment of child’s paternity prior to child’s eighteenth birthday.
 
-    Subsec. (a)(6). [Pub. L. 104–193, § 395(d)(1)(H)][/us/pl/104/193/s395/d/1/H], (2)(D), substituted “a noncustodial parent give security” for “an absent parent give security” and “noncustodial parent of the proposed action” for “absent parent of the proposed action”.
+    Subsec. (a)(6). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(1)(H), (2)(D), substituted “a noncustodial parent give security” for “an absent parent give security” and “noncustodial parent of the proposed action” for “absent parent of the proposed action”.
 
-    Subsec. (a)(7). [Pub. L. 104–193, § 367][/us/pl/104/193/s367], inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Procedures which require the State to periodically report to consumer reporting agencies (as defined in [section 1681a(f) of title 15][/us/usc/t15/s1681a/f]) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency; except that (A) if the amount of the overdue support involved in any case is less than $1,000, information regarding such amount shall be made available only at the option of the State, (B) any information with respect to an absent parent shall be made available under such procedures only after notice has been sent to such absent parent of the proposed action, and such absent parent has been given a reasonable opportunity to contest the accuracy of such information (and after full compliance with all procedural due process requirements of the State), and (C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency.”
+    Subsec. (a)(7). [Pub. L. 104–193][/us/pl/104/193], § 367, inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Procedures which require the State to periodically report to consumer reporting agencies (as defined in [section 1681a(f) of title 15][/us/usc/t15/s1681a/f]) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency; except that (A) if the amount of the overdue support involved in any case is less than $1,000, information regarding such amount shall be made available only at the option of the State, (B) any information with respect to an absent parent shall be made available under such procedures only after notice has been sent to such absent parent of the proposed action, and such absent parent has been given a reasonable opportunity to contest the accuracy of such information (and after full compliance with all procedural due process requirements of the State), and (C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency.”
 
-    Subsec. (a)(8)(A). [Pub. L. 104–193, § 314(b)(2)(A)][/us/pl/104/193/s314/b/2/A], substituted “income” for “wages”.
+    Subsec. (a)(8)(A). [Pub. L. 104–193][/us/pl/104/193], § 314(b)(2)(A), substituted “income” for “wages”.
 
     Subsec. (a)(8)(B)(i). [Pub. L. 104–193][/us/pl/104/193], §§ 314(b)(2)(A), 395(d)(2)(D), substituted “income” for “wages” in two places and “a noncustodial parent” for “an absent parent”.
 
-    Subsec. (a)(8)(B)(ii). [Pub. L. 104–193, § 395(d)(1)(H)][/us/pl/104/193/s395/d/1/H], substituted “noncustodial parent” for “absent parent”.
+    Subsec. (a)(8)(B)(ii). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(1)(H), substituted “noncustodial parent” for “absent parent”.
 
-    Subsec. (a)(10). [Pub. L. 104–193, § 351][/us/pl/104/193/s351], inserted heading and amended text of par. (10) generally. Prior to amendment, text consisted of subpars. (A) to (C) relating to procedures to ensure review of child support orders and to ensure that States implement a process for periodic review and adjustment of child support orders and provide certain notices to parents subject to child support order of matters relating to the review and adjustment of those orders.
+    Subsec. (a)(10). [Pub. L. 104–193][/us/pl/104/193], § 351, inserted heading and amended text of par. (10) generally. Prior to amendment, text consisted of subpars. (A) to (C) relating to procedures to ensure review of child support orders and to ensure that States implement a process for periodic review and adjustment of child support orders and provide certain notices to parents subject to child support order of matters relating to the review and adjustment of those orders.
 
-    Subsec. (a)(12). [Pub. L. 104–193, § 315][/us/pl/104/193/s315], added par. (12).
+    Subsec. (a)(12). [Pub. L. 104–193][/us/pl/104/193], § 315, added par. (12).
 
-    Subsec. (a)(13). [Pub. L. 104–193, § 317][/us/pl/104/193/s317], added par. (13).
+    Subsec. (a)(13). [Pub. L. 104–193][/us/pl/104/193], § 317, added par. (13).
 
-    Subsec. (a)(14). [Pub. L. 104–193, § 323][/us/pl/104/193/s323], added par. (14).
+    Subsec. (a)(14). [Pub. L. 104–193][/us/pl/104/193], § 323, added par. (14).
 
-    Subsec. (a)(15). [Pub. L. 104–193, § 365(a)][/us/pl/104/193/s365/a], added par. (15).
+    Subsec. (a)(15). [Pub. L. 104–193][/us/pl/104/193], § 365(a), added par. (15).
 
-    Subsec. (a)(16). [Pub. L. 104–193, § 369][/us/pl/104/193/s369], added par. (16).
+    Subsec. (a)(16). [Pub. L. 104–193][/us/pl/104/193], § 369, added par. (16).
 
-    Subsec. (a)(17). [Pub. L. 104–193, § 372][/us/pl/104/193/s372], added par. (17).
+    Subsec. (a)(17). [Pub. L. 104–193][/us/pl/104/193], § 372, added par. (17).
 
-    Subsec. (a)(18). [Pub. L. 104–193, § 373][/us/pl/104/193/s373], added par. (18).
+    Subsec. (a)(18). [Pub. L. 104–193][/us/pl/104/193], § 373, added par. (18).
 
-    Subsec. (a)(19). [Pub. L. 104–193, § 382][/us/pl/104/193/s382], added par. (19).
+    Subsec. (a)(19). [Pub. L. 104–193][/us/pl/104/193], § 382, added par. (19).
 
-    Subsec. (b). [Pub. L. 104–193, § 314(a)(2)(A)][/us/pl/104/193/s314/a/2/A], substituted “subsection (a)(1)(A)” for “subsection (a)(1)” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(2)(A), substituted “subsection (a)(1)(A)” for “subsection (a)(1)” in introductory provisions.
 
     Subsec. (b)(1). [Pub. L. 104–193][/us/pl/104/193], §§ 314(b)(2)(B), 395(d)(1)(H), substituted “noncustodial parent” for “absent parent” and “income” for “wages (as defined by the State for purposes of this section)”.
 
-    Subsec. (b)(2). [Pub. L. 104–193, § 108(c)(15)][/us/pl/104/193/s108/c/15], substituted “assistance under a State program funded under part A” for “aid under part A”.
+    Subsec. (b)(2). [Pub. L. 104–193][/us/pl/104/193], § 108(c)(15), substituted “assistance under a State program funded under part A” for “aid under part A”.
 
     Subsec. (b)(3)(A). [Pub. L. 104–193][/us/pl/104/193], §§ 314(b)(2)(A), 395(d)(2)(D), substituted “income” for “wages” in two places and “a noncustodial parent” for “an absent parent”.
 
     Subsec. (b)(3)(B). [Pub. L. 104–193][/us/pl/104/193], §§ 314(b)(2)(A), 395(d)(1)(H), (2)(D), in introductory provisions, substituted “income” for “wages” in two places, “a noncustodial parent” for “an absent parent”, and “the noncustodial parent” for “the absent parent”.
 
-    Subsec. (b)(3)(B)(i). [Pub. L. 104–193, § 395(d)(1)(H)][/us/pl/104/193/s395/d/1/H], substituted “noncustodial parent” for “absent parent”.
+    Subsec. (b)(3)(B)(i). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(1)(H), substituted “noncustodial parent” for “absent parent”.
 
-    Subsec. (b)(4). [Pub. L. 104–193, § 314(a)(2)(B)][/us/pl/104/193/s314/a/2/B], amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+    Subsec. (b)(4). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(2)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
     “(A) Such withholding must be carried out in full compliance with all procedural due process requirements of the State, and (subject to subparagraph (B)) the State must send advance notice to each absent parent to whom paragraph (1) applies regarding the proposed withholding and the procedures such absent parent should follow if he or she desires to contest such withholding on the grounds that withholding (including the amount to be withheld) is not proper in the case involved because of mistakes of fact. If the absent parent contests such withholding on those grounds, the State shall determine whether such withholding will actually occur, shall (within no more than 45 days after the provision of such advance notice) inform such parent of whether or not withholding will occur and (if so) of the date on which it is to begin, and shall furnish such parent with the information contained in any notice given to the employer under paragraph (6)(A) with respect to such withholding.
 
     “(B) The requirement of advance notice set forth in the first sentence of subparagraph (A) shall not apply in the case of any State which has a system of income withholding for child support purposes in effect on August 16, 1984, if such system provides on that date, and continues to provide, such procedures as may be necessary to meet the procedural due process requirements of State law.”
 
-    Subsec. (b)(5). [Pub. L. 104–193, § 314(a)(2)(C)][/us/pl/104/193/s314/a/2/C], substituted “the State through the State disbursement unit established pursuant to [section 654b of this title][/us/usc/t42/s654b], in accordance with the requirements of [section 654b of this title][/us/usc/t42/s654b].” for “a public agency designated by the State, and the amounts withheld must be expeditiously distributed by the State or such agency in accordance with [section 657 of this title][/us/usc/t42/s657] under procedures (specified by the State) adequate to document payments of support and to track and monitor such payments, except that the State may establish or permit the establishment of alternative procedures for the collection and distribution of such amounts (under the supervision of such public agency) otherwise than through such public agency so long as the entity making such collection and distribution is publicly accountable for its actions taken in carrying out such procedures, and so long as such procedures will assure prompt distribution, provide for the keeping of adequate records to document payments of support, and permit the tracking and monitoring of such payments.”
+    Subsec. (b)(5). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(2)(C), substituted “the State through the State disbursement unit established pursuant to [section 654b of this title][/us/usc/t42/s654b], in accordance with the requirements of [section 654b of this title][/us/usc/t42/s654b].” for “a public agency designated by the State, and the amounts withheld must be expeditiously distributed by the State or such agency in accordance with [section 657 of this title][/us/usc/t42/s657] under procedures (specified by the State) adequate to document payments of support and to track and monitor such payments, except that the State may establish or permit the establishment of alternative procedures for the collection and distribution of such amounts (under the supervision of such public agency) otherwise than through such public agency so long as the entity making such collection and distribution is publicly accountable for its actions taken in carrying out such procedures, and so long as such procedures will assure prompt distribution, provide for the keeping of adequate records to document payments of support, and permit the tracking and monitoring of such payments.”
 
     Subsec. (b)(6)(A)(i). [Pub. L. 104–193][/us/pl/104/193], §§ 314(a)(2)(D)(i), (b)(2)(A), 395(d)(1)(H), substituted “The employer of any noncustodial parent” for “The employer of any absent parent”, “withhold from such noncustodial parent’s income” for “withhold from such absent parent’s wages”, and “to the State disbursement unit within 7 business days after the date the amount would (but for this subsection) have been paid or credited to the employee, for distribution in accordance with this part. The employer shall withhold funds as directed in the notice, except that when an employer receives an income withholding order issued by another State, the employer shall apply the income withholding law of the state of the obligor’s principal place of employment in determining—” for “to the appropriate agency (or other entity authorized to collect the amounts withheld under the alternative procedures described in paragraph (5)) for distribution in accordance with [section 657 of this title][/us/usc/t42/s657].”, and added subcls. (I) to (V) and closing provisions.
 
-    Subsec. (b)(6)(A)(ii). [Pub. L. 104–193, § 314(a)(2)(D)(ii)][/us/pl/104/193/s314/a/2/D/ii], inserted “be in a standard format prescribed by the Secretary, and” after “employer shall”.
+    Subsec. (b)(6)(A)(ii). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(2)(D)(ii), inserted “be in a standard format prescribed by the Secretary, and” after “employer shall”.
 
-    Subsec. (b)(6)(A)(iii). [Pub. L. 104–193, § 314(a)(2)(D)(iii)][/us/pl/104/193/s314/a/2/D/iii], added cl. (iii).
+    Subsec. (b)(6)(A)(iii). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(2)(D)(iii), added cl. (iii).
 
-    Subsec. (b)(6)(C). [Pub. L. 104–193, § 314(b)(2)(A)][/us/pl/104/193/s314/b/2/A], substituted “income” for “wages”.
+    Subsec. (b)(6)(C). [Pub. L. 104–193][/us/pl/104/193], § 314(b)(2)(A), substituted “income” for “wages”.
 
-    Subsec. (b)(6)(D). [Pub. L. 104–193, § 314(a)(2)(E)][/us/pl/104/193/s314/a/2/E], substituted “any employer who—” for “any employer who discharges from employment, refuses to employ, or takes disciplinary action against any absent parent subject to wage withholding required by this subsection because of the existence of such withholding and the obligations or additional obligations which it imposes upon the employer.” and added cls. (i) and (ii).
+    Subsec. (b)(6)(D). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(2)(E), substituted “any employer who—” for “any employer who discharges from employment, refuses to employ, or takes disciplinary action against any absent parent subject to wage withholding required by this subsection because of the existence of such withholding and the obligations or additional obligations which it imposes upon the employer.” and added cls. (i) and (ii).
 
-    Subsec. (b)(7). [Pub. L. 104–193, § 314(b)(2)(A)][/us/pl/104/193/s314/b/2/A], substituted “income” for “wages”.
+    Subsec. (b)(7). [Pub. L. 104–193][/us/pl/104/193], § 314(b)(2)(A), substituted “income” for “wages”.
 
-    Subsec. (b)(8). [Pub. L. 104–193, § 314(b)(1)][/us/pl/104/193/s314/b/1], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The State may take such actions as may be necessary to extend its system of withholding under this subsection so that such system will include withholding from forms of income other than wages, in order to assure that child support owed by absent parents in the State will be collected without regard to the types of such absent parents’ income or the nature of their income-producing activities.”
+    Subsec. (b)(8). [Pub. L. 104–193][/us/pl/104/193], § 314(b)(1), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The State may take such actions as may be necessary to extend its system of withholding under this subsection so that such system will include withholding from forms of income other than wages, in order to assure that child support owed by absent parents in the State will be collected without regard to the types of such absent parents’ income or the nature of their income-producing activities.”
 
-    Subsec. (b)(9). [Pub. L. 104–193, § 395(d)(1)(H)][/us/pl/104/193/s395/d/1/H], substituted “noncustodial parents” for “absent parents”.
+    Subsec. (b)(9). [Pub. L. 104–193][/us/pl/104/193], § 395(d)(1)(H), substituted “noncustodial parents” for “absent parents”.
 
-    Subsec. (b)(11). [Pub. L. 104–193, § 314(a)(2)(F)][/us/pl/104/193/s314/a/2/F], added par. (11).
+    Subsec. (b)(11). [Pub. L. 104–193][/us/pl/104/193], § 314(a)(2)(F), added par. (11).
 
-    Subsec. (c). [Pub. L. 104–193, § 325(a)(2)][/us/pl/104/193/s325/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–193][/us/pl/104/193], § 325(a)(2), added subsec. (c).
 
-    [Pub. L. 104–193, § 314(c)][/us/pl/104/193/s314/c], struck out subsec. (c) which read as follows: “Any State may at its option, under its plan approved under [section 654 of this title][/us/usc/t42/s654], establish procedures under which support payments under this part will be made through the State agency or other entity which administers the State’s income withholding system in any case where either the absent parent or the custodial parent requests it, even though no arrearages in child support payments are involved and no income withholding procedures have been instituted; but in any such case an annual fee for handling and processing such payments, in an amount not exceeding the actual costs incurred by the State in connection therewith or $25, whichever is less, shall be imposed on the requesting parent by the State.”
+    [Pub. L. 104–193][/us/pl/104/193], § 314(c), struck out subsec. (c) which read as follows: “Any State may at its option, under its plan approved under [section 654 of this title][/us/usc/t42/s654], establish procedures under which support payments under this part will be made through the State agency or other entity which administers the State’s income withholding system in any case where either the absent parent or the custodial parent requests it, even though no arrearages in child support payments are involved and no income withholding procedures have been instituted; but in any such case an annual fee for handling and processing such payments, in an amount not exceeding the actual costs incurred by the State in connection therewith or $25, whichever is less, shall be imposed on the requesting parent by the State.”
 
     Subsec. (e). [Pub. L. 104–193][/us/pl/104/193], §§ 301(c)(4), 395(d)(1)(H), substituted “noncustodial parent’s spouse” for “absent parent’s spouse” and “section 654(4)” for “paragraph (4) or (6) of section 654”.
 
-    Subsec. (f). [Pub. L. 104–193, § 321][/us/pl/104/193/s321], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–193][/us/pl/104/193], § 321, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 104–193, § 364][/us/pl/104/193/s364], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–193][/us/pl/104/193], § 364, added subsec. (g).
 
-    1994—Subsec. (a)(7). [Pub. L. 103–432, § 212(a)(1)][/us/pl/103/432/s212/a/1], substituted “Procedures which require the State to periodically report to consumer reporting agencies (as defined in [section 1681a(f) of title 15][/us/usc/t15/s1681a/f]) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency” for “Procedures by which information regarding the amount of overdue support owed by an absent parent residing in the State will be made available to any consumer reporting agency (as defined in [section 1681a(f) of title 15][/us/usc/t15/s1681a/f]) upon the request of such agency”.
+    1994—Subsec. (a)(7). [Pub. L. 103–432][/us/pl/103/432], § 212(a)(1), substituted “Procedures which require the State to periodically report to consumer reporting agencies (as defined in [section 1681a(f) of title 15][/us/usc/t15/s1681a/f]) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency” for “Procedures by which information regarding the amount of overdue support owed by an absent parent residing in the State will be made available to any consumer reporting agency (as defined in [section 1681a(f) of title 15][/us/usc/t15/s1681a/f]) upon the request of such agency”.
 
-    Subsec. (a)(7)(C). [Pub. L. 103–432, § 212(a)(2)][/us/pl/103/432/s212/a/2], substituted “(C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency” for “(C) a fee for furnishing such information, in an amount not exceeding the actual cost thereof, may be imposed on the requesting agency by the State”.
+    Subsec. (a)(7)(C). [Pub. L. 103–432][/us/pl/103/432], § 212(a)(2), substituted “(C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency” for “(C) a fee for furnishing such information, in an amount not exceeding the actual cost thereof, may be imposed on the requesting agency by the State”.
 
-    1993—Subsec. (a)(2). [Pub. L. 103–66, § 13721(b)(1)][/us/pl/103/66/s13721/b/1], struck out “at the option of the State,” after “and (B)” and inserted “or paternity establishment” after “support order issuance and enforcement”.
+    1993—Subsec. (a)(2). [Pub. L. 103–66][/us/pl/103/66], § 13721(b)(1), struck out “at the option of the State,” after “and (B)” and inserted “or paternity establishment” after “support order issuance and enforcement”.
 
-    Subsec. (a)(5)(C) to (H). [Pub. L. 103–66, § 13721(b)(2)][/us/pl/103/66/s13721/b/2], added subpars. (C) to (H).
+    Subsec. (a)(5)(C) to (H). [Pub. L. 103–66][/us/pl/103/66], § 13721(b)(2), added subpars. (C) to (H).
 
-    Subsec. (a)(11). [Pub. L. 103–66, § 13721(b)(3)][/us/pl/103/66/s13721/b/3], added par. (11).
+    Subsec. (a)(11). [Pub. L. 103–66][/us/pl/103/66], § 13721(b)(3), added par. (11).
 
-    1988—Subsec. (a)(5). [Pub. L. 100–485, § 111(b)][/us/pl/100/485/s111/b], designated existing provisions as subpar. (A) and added subpar. (B).
+    1988—Subsec. (a)(5). [Pub. L. 100–485][/us/pl/100/485], § 111(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (a)(5)(A). [Pub. L. 100–485, § 111(e)][/us/pl/100/485/s111/e], as amended by [Pub. L. 100–647][/us/pl/100/647], designated existing provisions as cl. (i) and added cl. (ii).
+    Subsec. (a)(5)(A). [Pub. L. 100–485][/us/pl/100/485], § 111(e), as amended by [Pub. L. 100–647][/us/pl/100/647], designated existing provisions as cl. (i) and added cl. (ii).
 
-    Subsec. (a)(8). [Pub. L. 100–485, § 101(b)][/us/pl/100/485/s101/b], designated existing provisions as subpar. (A), substituted “not described in subparagraph (B)” for “which are issued or modified in the State”, and added subpar. (B).
+    Subsec. (a)(8). [Pub. L. 100–485][/us/pl/100/485], § 101(b), designated existing provisions as subpar. (A), substituted “not described in subparagraph (B)” for “which are issued or modified in the State”, and added subpar. (B).
 
-    Subsec. (a)(10). [Pub. L. 100–485, § 103(c)][/us/pl/100/485/s103/c], added par. (10).
+    Subsec. (a)(10). [Pub. L. 100–485][/us/pl/100/485], § 103(c), added par. (10).
 
-    Subsec. (b)(3). [Pub. L. 100–485, § 101(a)][/us/pl/100/485/s101/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An absent parent shall become subject to such withholding, and the advance notice required under paragraph (4) shall be given, on the earliest of—
+    Subsec. (b)(3). [Pub. L. 100–485][/us/pl/100/485], § 101(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An absent parent shall become subject to such withholding, and the advance notice required under paragraph (4) shall be given, on the earliest of—
 
     “(A) the date on which the payments which the absent parent has failed to make under such order are at least equal to the support payable for one month,
 
@@ -809,7 +809,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–183, title III, § 301(f)(3)(A)][/us/pl/113/183/s301/f/3/A], Sept. 29, 2014, [128 Stat. 1945][/us/stat/128/1945], provided that:
+[Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(3)(A), Sept. 29, 2014, [128 Stat. 1945][/us/stat/128/1945], provided that:
 
 >     “(i) The amendments made by paragraph (1) \[amending this section\] shall take effect with respect to a State no later than the effective date of laws enacted by the legislature of the State implementing such paragraph, but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\].
 
@@ -819,7 +819,7 @@
 
     Amendment by sections 7301(g) and 7307(a)(1), (2)(A)(ii) of [Pub. L. 109–171][/us/pl/109/171] effective as if enacted on Oct. 1, 2005, except as otherwise provided, see [section 7701 of Pub. L. 109–171][/us/pl/109/171/s7701], set out as a note under [section 603 of this title][/us/usc/t42/s603].
 
-[Pub. L. 109–171, title VII, § 7302(b)][/us/pl/109/171/s7302/b], Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], provided that: 
+[Pub. L. 109–171, title VII][/us/pl/109/171/tVII], § 7302(b), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2007.”
 
@@ -831,7 +831,7 @@
 
     Amendment by [section 401(c)(1) of Pub. L. 105–200][/us/pl/105/200/s401/c/1] effective with respect to periods beginning on or after the later of Oct. 1, 2001, or the effective date of laws enacted by the legislature of such State implementing such amendment, but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after Oct. 1, 2001, see [section 401(c)(3) of Pub. L. 105–200][/us/pl/105/200/s401/c/3], as amended, set out as a note under [section 652 of this title][/us/usc/t42/s652].
 
-[Pub. L. 105–200, title IV, § 404(b)][/us/pl/105/200/s404/b], July 16, 1998, [112 Stat. 671][/us/stat/112/671], provided that: 
+[Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 404(b), July 16, 1998, [112 Stat. 671][/us/stat/112/671], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 5550 of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33]; [111 Stat. 633][/us/stat/111/633]).”
 
@@ -847,7 +847,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–432, title II, § 212(b)][/us/pl/103/432/s212/b], Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461], provided that: 
+[Pub. L. 103–432, title II][/us/pl/103/432/tII], § 212(b), Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1995.”
 
@@ -857,9 +857,9 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–647, title VIII, § 8105][/us/pl/100/647/s8105], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797], provided that amendments made by that section, amending sections 607 and 669 of this title and amending provisions of [Pub. L. 100–485][/us/pl/100/485] which are classified to this section and [section 607 of this title][/us/usc/t42/s607], are effective on date of enactment of Family Support Act of 1988, [Pub. L. 100–485][/us/pl/100/485], which was approved Oct. 13, 1988.
+    [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8105, Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797], provided that amendments made by that section, amending sections 607 and 669 of this title and amending provisions of [Pub. L. 100–485][/us/pl/100/485] which are classified to this section and [section 607 of this title][/us/usc/t42/s607], are effective on date of enactment of Family Support Act of 1988, [Pub. L. 100–485][/us/pl/100/485], which was approved Oct. 13, 1988.
 
-[Pub. L. 100–485, title I, § 101(d)][/us/pl/100/485/s101/d], Oct. 13, 1988, [102 Stat. 2346][/us/stat/102/2346], provided that:
+[Pub. L. 100–485, title I][/us/pl/100/485/tI], § 101(d), Oct. 13, 1988, [102 Stat. 2346][/us/stat/102/2346], provided that:
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 25th month beginning after the date of the enactment of this Act \[Oct. 13, 1988\].
 
@@ -867,7 +867,7 @@
 
 >     “(3) Subsection (c) \[set out below\] shall become effective on the date of the enactment of this Act.”
 
-[Pub. L. 100–485, title I, § 103(f)][/us/pl/100/485/s103/f], Oct. 13, 1988, [102 Stat. 2348][/us/stat/102/2348], provided that: 
+[Pub. L. 100–485, title I][/us/pl/100/485/tI], § 103(f), Oct. 13, 1988, [102 Stat. 2348][/us/stat/102/2348], provided that: 
 
 > “The amendments made by subsections (a), (b), and (c) \[amending this section and [section 667 of this title][/us/usc/t42/s667]\] shall become effective one year after the date of the enactment of this Act \[Oct. 13, 1988\].”
 
@@ -877,7 +877,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–509, title IX, § 9103(b)][/us/pl/99/509/s9103/b], Oct. 21, 1986, [100 Stat. 1973][/us/stat/100/1973], provided that:
+[Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9103(b), Oct. 21, 1986, [100 Stat. 1973][/us/stat/100/1973], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 21, 1986\].
 
@@ -889,19 +889,19 @@
 
  __Study on Making Immediate Income Withholding Mandatory in All Cases__ 
 
-    [Pub. L. 100–485, title I, § 101(c)][/us/pl/100/485/s101/c], Oct. 13, 1988, [102 Stat. 2345][/us/stat/102/2345], directed Secretary of Health and Human Services to conduct a study of administrative feasibility, cost implications, and other effects of requiring immediate income withholding with respect to all child support awards in a State and report on results of such study not later than 3 years after Oct. 13, 1988.
+    [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 101(c), Oct. 13, 1988, [102 Stat. 2345][/us/stat/102/2345], directed Secretary of Health and Human Services to conduct a study of administrative feasibility, cost implications, and other effects of requiring immediate income withholding with respect to all child support awards in a State and report on results of such study not later than 3 years after Oct. 13, 1988.
 
  __Study of Impact of Extending Periodic Review Requirements to All Other Cases__ 
 
-    [Pub. L. 100–485, title I, § 103(d)][/us/pl/100/485/s103/d], Oct. 13, 1988, [102 Stat. 2347][/us/stat/102/2347], directed Secretary of Health and Human Resources, within 2 years after Oct. 13, 1988, to conduct and complete a study to determine impact on child support awards and the courts of requiring each State to periodically review all child support orders in effect in the State.
+    [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 103(d), Oct. 13, 1988, [102 Stat. 2347][/us/stat/102/2347], directed Secretary of Health and Human Resources, within 2 years after Oct. 13, 1988, to conduct and complete a study to determine impact on child support awards and the courts of requiring each State to periodically review all child support orders in effect in the State.
 
  __Demonstration Projects for Evaluating Model Procedures for Reviewing Child Support Awards__ 
 
-    [Pub. L. 100–485, title I, § 103(e)][/us/pl/100/485/s103/e], Oct. 13, 1988, [102 Stat. 2347][/us/stat/102/2347], authorized an agreement between Secretary of Health and Human Services and each State submitting an application for purpose of conducting a demonstration project to test and evaluate model procedures for reviewing child support award amounts, directed that such projects be commenced not later than Sept. 30, 1989, and be conducted for a 2-year period, and directed Secretary to report results of such projects to Congress not later than 6 months after all projects are completed.
+    [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 103(e), Oct. 13, 1988, [102 Stat. 2347][/us/stat/102/2347], authorized an agreement between Secretary of Health and Human Services and each State submitting an application for purpose of conducting a demonstration project to test and evaluate model procedures for reviewing child support award amounts, directed that such projects be commenced not later than Sept. 30, 1989, and be conducted for a 2-year period, and directed Secretary to report results of such projects to Congress not later than 6 months after all projects are completed.
 
  __Commission on Interstate Child Support__ 
 
-    [Pub. L. 100–485, title I, § 126][/us/pl/100/485/s126], Oct. 13, 1988, [102 Stat. 2354][/us/stat/102/2354], as amended by [Pub. L. 101–508, title V, § 5012(a)][/us/pl/101/508/s5012/a], Nov. 5, 1990, [104 Stat. 1388–221][/us/stat/104/1388-221]; [Pub. L. 102–318, title V, § 534(a)][/us/pl/102/318/s534/a], July 3, 1992, [106 Stat. 317][/us/stat/106/317], established Commission on Interstate Child Support to hold national conferences on interstate child support reform and prepare report to Congress containing recommendations for improving interstate establishment and enforcement of child support awards and for revising Uniform Reciprocal Enforcement of Support Act and provided for powers of the Commission, appropriations, and termination of the Commission on Sept. 30, 1992.
+    [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 126, Oct. 13, 1988, [102 Stat. 2354][/us/stat/102/2354], as amended by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5012(a), Nov. 5, 1990, [104 Stat. 1388–221][/us/stat/104/1388-221]; [Pub. L. 102–318, title V][/us/pl/102/318/tV], § 534(a), July 3, 1992, [106 Stat. 317][/us/stat/106/317], established Commission on Interstate Child Support to hold national conferences on interstate child support reform and prepare report to Congress containing recommendations for improving interstate establishment and enforcement of child support awards and for revising Uniform Reciprocal Enforcement of Support Act and provided for powers of the Commission, appropriations, and termination of the Commission on Sept. 30, 1992.
 
 ----------
 
@@ -937,31 +937,31 @@
 [/us/usc/t42/s654/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654%2F20%2FA
 [/us/usc/t42/s654/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654%2F20%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/98/378/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs3%2Fb
+[/us/pl/98/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378
 [/us/stat/98/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1306
-[/us/pl/99/509/s9103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9103%2Fa
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1973
-[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2344-2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2344-2346
-[/us/pl/100/647/s8105/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8105%2F4
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3797
-[/us/pl/103/66/s13721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13721%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F659
-[/us/pl/103/432/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs212%2Fa
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4460
-[/us/pl/104/193/s108/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F14
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2166
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F627
-[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F661
-[/us/pl/106/169/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Ff
+[/us/pl/106/169/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtIV
 [/us/stat/113/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1858
-[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVII
 [/us/stat/120/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F145
-[/us/pl/113/183/s301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F1
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
-[/us/pl/113/183/s301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F1
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
 [/us/usc/t29/s1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1169
@@ -970,107 +970,107 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
-[/us/pl/109/171/s7302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7302%2Fa
-[/us/pl/109/171/s7301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301%2Fg
-[/us/pl/109/171/s7307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F1
-[/us/pl/109/171/s7307/a/2/A/ii/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F2%2FA%2Fii%2FII%2Faa
-[/us/pl/109/171/s7307/a/2/A/ii/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F2%2FA%2Fii%2FII%2Fbb
-[/us/pl/109/171/s7307/a/2/A/ii/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F2%2FA%2Fii%2FII%2Faa
-[/us/pl/109/171/s7307/a/2/A/ii/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F2%2FA%2Fii%2FII%2Faa
-[/us/pl/109/171/s7307/a/2/A/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F2%2FA%2Fii%2FIII
-[/us/pl/106/169/s401/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Fm
-[/us/pl/106/169/s401/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Fn
-[/us/pl/106/169/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Ff
-[/us/pl/105/200/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs404%2Fa
-[/us/pl/105/200/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs406%2Fa
-[/us/pl/105/200/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fc%2F1
-[/us/pl/105/33/s5556/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5556%2Fe
-[/us/pl/105/33/s5532/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5532%2Fi%2F2
-[/us/pl/105/33/s5539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5539
-[/us/pl/105/33/s5536/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5536%2F2
-[/us/pl/105/33/s5536/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5536%2F1%2FB
-[/us/pl/105/33/s5536/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5536%2F1%2FA
-[/us/pl/105/33/s5550/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5550%2Fa
-[/us/pl/105/33/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5551
-[/us/pl/105/33/s5544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5544
-[/us/pl/105/33/s5538/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5538%2F1%2FA
-[/us/pl/105/33/s5556/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5556%2Fa
-[/us/pl/105/33/s5538/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5538%2F1%2FB
-[/us/pl/105/33/s5538/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5538%2F2%2FA
-[/us/pl/105/33/s5538/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5538%2F2%2FB
-[/us/pl/105/33/s5537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5537
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/104/193/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F1
-[/us/pl/104/193/s325/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs325%2Fa%2F1
-[/us/pl/104/193/s395/d/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F1%2FH
-[/us/pl/104/193/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs301%2Fc%2F3
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654%2F6
-[/us/pl/104/193/s108/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F14
-[/us/pl/104/193/s395/d/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F1%2FH
-[/us/pl/104/193/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs368
-[/us/pl/104/193/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs331%2Fa
-[/us/pl/104/193/s395/d/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F1%2FH
-[/us/pl/104/193/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs367
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t15/s1681a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Ff
-[/us/pl/104/193/s314/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fb%2F2%2FA
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/104/193/s395/d/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F1%2FH
-[/us/pl/104/193/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs351
-[/us/pl/104/193/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs315
-[/us/pl/104/193/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs317
-[/us/pl/104/193/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs323
-[/us/pl/104/193/s365/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs365%2Fa
-[/us/pl/104/193/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs369
-[/us/pl/104/193/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs372
-[/us/pl/104/193/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs373
-[/us/pl/104/193/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs382
-[/us/pl/104/193/s314/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F2%2FA
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/104/193/s108/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fc%2F15
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/104/193/s395/d/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F1%2FH
-[/us/pl/104/193/s314/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F2%2FB
-[/us/pl/104/193/s314/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F2%2FC
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654b
 [/us/usc/t42/s654b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654b
 [/us/usc/t42/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs657
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs657
-[/us/pl/104/193/s314/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F2%2FD%2Fii
-[/us/pl/104/193/s314/a/2/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F2%2FD%2Fiii
-[/us/pl/104/193/s314/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fb%2F2%2FA
-[/us/pl/104/193/s314/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F2%2FE
-[/us/pl/104/193/s314/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fb%2F2%2FA
-[/us/pl/104/193/s314/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fb%2F1
-[/us/pl/104/193/s395/d/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs395%2Fd%2F1%2FH
-[/us/pl/104/193/s314/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fa%2F2%2FF
-[/us/pl/104/193/s325/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs325%2Fa%2F2
-[/us/pl/104/193/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs314%2Fc
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/104/193/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs321
-[/us/pl/104/193/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs364
-[/us/pl/103/432/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs212%2Fa%2F1
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t15/s1681a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Ff
 [/us/usc/t15/s1681a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Ff
-[/us/pl/103/432/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs212%2Fa%2F2
-[/us/pl/103/66/s13721/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13721%2Fb%2F1
-[/us/pl/103/66/s13721/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13721%2Fb%2F2
-[/us/pl/103/66/s13721/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13721%2Fb%2F3
-[/us/pl/100/485/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Fb
-[/us/pl/100/485/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Fe
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/485/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs101%2Fb
-[/us/pl/100/485/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Fc
-[/us/pl/100/485/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs101%2Fa
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
-[/us/pl/113/183/s301/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F3%2FA
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1945
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7701
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
-[/us/pl/109/171/s7302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7302%2Fb
+[/us/pl/109/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVII
 [/us/stat/120/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F145
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
@@ -1079,7 +1079,7 @@
 [/us/pl/105/200/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fc%2F1
 [/us/pl/105/200/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fc%2F3
 [/us/usc/t42/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652
-[/us/pl/105/200/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs404%2Fb
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F671
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/stat/111/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F633
@@ -1094,20 +1094,20 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/103/432/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs212%2Fb
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4461
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13721
 [/us/pl/103/66/s13721/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13721%2Fc
 [/us/usc/t42/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652
-[/us/pl/100/647/s8105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8105
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3797
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/usc/t42/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs607
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/100/485/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs101%2Fd
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2346
-[/us/pl/100/485/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Ff
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2348
 [/us/usc/t42/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs667
 [/us/pl/100/485/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Fb
@@ -1116,22 +1116,22 @@
 [/us/pl/100/485/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Fe
 [/us/pl/100/485/s111/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Ff%2F1
 [/us/usc/t42/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652
-[/us/pl/99/509/s9103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9103%2Fb
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1973
 [/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
 [/us/pl/98/378/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs3%2Fg
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/100/485/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs101%2Fc
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2345
-[/us/pl/100/485/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Fd
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2347
-[/us/pl/100/485/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Fe
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2347
-[/us/pl/100/485/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs126
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2354
-[/us/pl/101/508/s5012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5012%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-221
-[/us/pl/102/318/s534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs534%2Fa
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F317
 
 

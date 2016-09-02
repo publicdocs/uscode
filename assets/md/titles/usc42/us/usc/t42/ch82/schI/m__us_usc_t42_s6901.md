@@ -67,17 +67,17 @@
 
         (3) technology exists to produce usable energy from solid waste.
 
-([Pub. L. 89–272, title II, § 1002][/us/pl/89/272/s1002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2796][/us/stat/90/2796]; amended [Pub. L. 95–609, § 7(a)][/us/pl/95/609/s7/a], Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 98–616, title I, § 101(a)][/us/pl/98/616/s101/a], Nov. 8, 1984, [98 Stat. 3224][/us/stat/98/3224].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1002, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2796][/us/stat/90/2796]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(a), Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 98–616, title I][/us/pl/98/616/tI], § 101(a), Nov. 8, 1984, [98 Stat. 3224][/us/stat/98/3224].)
 
  __References in Text__ 
 
     The Clean Air Act, referred to in subsec. (b)(3), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t42/s7401] and Tables.
 
-    The Water Pollution Control Act, referred to in subsec. (b)(3), probably means [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], [62 Stat. 1155][/us/stat/62/1155], known as the Federal Water Pollution Control Act, as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Water Pollution Control Act, referred to in subsec. (b)(3), probably means [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], [62 Stat. 1155][/us/stat/62/1155], known as the Federal Water Pollution Control Act, as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
  __Codification__ 
 
-    The statutory system governing the disposal of solid wastes set out in this chapter is found in [Pub. L. 89–272, title II][/us/pl/89/272], as amended in its entirety and completely revised by [section 2 of Pub. L. 94–580][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. See Short Title of 1976 Amendment note below.
+    The statutory system governing the disposal of solid wastes set out in this chapter is found in [Pub. L. 89–272, title II][/us/pl/89/272/tII], as amended in its entirety and completely revised by [section 2 of Pub. L. 94–580][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. See Short Title of 1976 Amendment note below.
 
     The act, as set out in this chapter, carries a statutory credit showing the sections as having been added by [Pub. L. 94–580][/us/pl/94/580], without reference to amendments to the act between its original enactment in 1965 and its complete revision in 1976. The act, as originally enacted in 1965, was classified to section 3251 et seq. of this title. For a recapitulation of the provisions of the act as originally enacted, see notes in chapter 39 (§ 3251 et seq.) of this title where the act was originally set out.
 
@@ -93,59 +93,59 @@
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–195, § 1][/us/pl/112/195/s1], Oct. 5, 2012, [126 Stat. 1452][/us/stat/126/1452], provided that: 
+[Pub. L. 112–195][/us/pl/112/195], § 1, Oct. 5, 2012, [126 Stat. 1452][/us/stat/126/1452], provided that: 
 
 > “This Act \[enacting [section 6939g of this title][/us/usc/t42/s6939g]\] may be cited as the ‘Hazardous Waste Electronic Manifest Establishment Act’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–58, title XV, § 1521][/us/pl/109/58/s1521], Aug. 8, 2005, [119 Stat. 1092][/us/stat/119/1092], provided that: 
+[Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1521, Aug. 8, 2005, [119 Stat. 1092][/us/stat/119/1092], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1521–1533) of title XV of [Pub. L. 109–58][/us/pl/109/58], enacting sections 6991j to 6991m of this title, amending sections 6991 to 6991f, 6991h, and 6991i of this title, and enacting provisions set out as notes under [section 6991b of this title][/us/usc/t42/s6991b]\] may be cited as the ‘Underground Storage Tank Compliance Act’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–119, § 1][/us/pl/104/119/s1], Mar. 26, 1996, [110 Stat. 830][/us/stat/110/830], provided that: 
+[Pub. L. 104–119][/us/pl/104/119], § 1, Mar. 26, 1996, [110 Stat. 830][/us/stat/110/830], provided that: 
 
 > “This Act \[amending sections 6921, 6924, 6925, 6947, and 6949a of this title and enacting provisions set out as a note under [section 6949a of this title][/us/usc/t42/s6949a]\] may be cited as the ‘Land Disposal Program Flexibility Act of 1996’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–386, title I, § 101][/us/pl/102/386/s101], Oct. 6, 1992, [106 Stat. 1505][/us/stat/106/1505], provided that: 
+[Pub. L. 102–386, title I][/us/pl/102/386/tI], § 101, Oct. 6, 1992, [106 Stat. 1505][/us/stat/106/1505], provided that: 
 
 > “This title \[enacting sections 6908, 6939c to 6939e, and 6965 of this title, amending sections 6903, 6924, 6927, and 6961 of this title, and enacting provisions set out as notes under sections 6939c and 6961 of this title\] may be cited as the ‘Federal Facility Compliance Act of 1992’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–582, § 1][/us/pl/100/582/s1], Nov. 1, 1988, [102 Stat. 2950][/us/stat/102/2950], provided that: 
+[Pub. L. 100–582][/us/pl/100/582], § 1, Nov. 1, 1988, [102 Stat. 2950][/us/stat/102/2950], provided that: 
 
 > “This Act \[enacting sections 6992 to 6992k of this title and [section 3063 of Title 18][/us/usc/t18/s3063], Crimes and Criminal Procedure, and amending [section 6903 of this title][/us/usc/t42/s6903]\] may be cited as the ‘Medical Waste Tracking Act of 1988’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–616, § 1][/us/pl/98/616/s1], Nov. 8, 1984, [98 Stat. 3221][/us/stat/98/3221], provided that: 
+[Pub. L. 98–616][/us/pl/98/616], § 1, Nov. 8, 1984, [98 Stat. 3221][/us/stat/98/3221], provided that: 
 
 > “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b, and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
 
  __Short Title of 1980 Amendments__ 
 
-[Pub. L. 96–482, § 1][/us/pl/96/482/s1], Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334], provided: 
+[Pub. L. 96–482][/us/pl/96/482], § 1, Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334], provided: 
 
 > “This Act \[enacting sections 6933, 6934, 6941a, 6955, and 6956 of this title, amending sections 6903, 6905, 6911, 6912, 6916, 6921, 6922, 6924, 6925, 6927 to 6931, 6941 to 6943, 6945, 6946, 6948, 6949, 6952, 6953, 6962, 6963, 6964, 6971, 6973, 6974, 6976, 6979, and 6982 of this title; and enacting and repealing provisions set out as a note under [section 6981 of this title][/us/usc/t42/s6981]\] may be cited as the ‘Solid Waste Disposal Act Amendments of 1980’.”
 
-[Pub. L. 96–463, § 1][/us/pl/96/463/s1], Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055], provided: 
+[Pub. L. 96–463][/us/pl/96/463], § 1, Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055], provided: 
 
 > “This Act \[enacting sections 6901a, 6914a and 6932 of this title, amending sections 6903, 6943 and 6948 of this title, and enacting provisions set out as notes under sections 6363 and 6932 of this title\] may be cited as the ‘Used Oil Recycling Act of 1980’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–580, § 1][/us/pl/94/580/s1], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], provided that: 
+[Pub. L. 94–580][/us/pl/94/580], § 1, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as notes under this section and [section 6981 of this title][/us/usc/t42/s6981]\] may be cited as the ‘Resource Conservation and Recovery Act of 1976’.”
 
  __Short Title__ 
 
-[Pub. L. 89–272, title II, § 1001][/us/pl/89/272/s1001], as added by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], provided that: 
+[Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1001, as added by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], provided that: 
 
 > “This title (hereinafter in this title referred to as ‘this Act’), together with the following table of contents, may be cited as the ‘Solid Waste Disposal Act’ ”
 
@@ -157,7 +157,7 @@
 
  __National Commission on Materials Policy__ 
 
-    [Pub. L. 91–512, title II][/us/pl/91/512], §§ 201–206, Oct. 26, 1970, [84 Stat. 1234][/us/stat/84/1234], known as the “National Materials Policy Act of 1970”, provided for the establishment of the National Commission on Materials Policy to make a full investigation and study for the purpose of developing a national materials policy to utilize present resources and technology more efficiently and to anticipate the future materials requirements of the Nation and the world, the Commission to submit to the President and Congress a report on its findings and recommendations no later than June 30, 1973, ninety days after the submission of which it should cease to exist.
+    [Pub. L. 91–512, title II][/us/pl/91/512/tII], §§ 201–206, Oct. 26, 1970, [84 Stat. 1234][/us/stat/84/1234], known as the “National Materials Policy Act of 1970”, provided for the establishment of the National Commission on Materials Policy to make a full investigation and study for the purpose of developing a national materials policy to utilize present resources and technology more efficiently and to anticipate the future materials requirements of the Nation and the world, the Commission to submit to the President and Congress a report on its findings and recommendations no later than June 30, 1973, ninety days after the submission of which it should cease to exist.
 
 ----------
 
@@ -168,22 +168,22 @@
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/89/272/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1002
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2796
-[/us/pl/95/609/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fa
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3081
-[/us/pl/98/616/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs101%2Fa
+[/us/pl/98/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtI
 [/us/stat/98/3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3224
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
 [/us/stat/62/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1155
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
 [/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
@@ -191,37 +191,37 @@
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
-[/us/pl/112/195/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F195%2Fs1
+[/us/pl/112/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F195
 [/us/stat/126/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1452
 [/us/usc/t42/s6939g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6939g
-[/us/pl/109/58/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1521
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1092
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b
-[/us/pl/104/119/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs1
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/stat/110/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F830
 [/us/usc/t42/s6949a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6949a
-[/us/pl/102/386/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs101
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1505
-[/us/pl/100/582/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs1
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2950
 [/us/usc/t18/s3063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3063
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
-[/us/pl/98/616/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs1
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/stat/98/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3221
-[/us/pl/96/482/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs1
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2334
 [/us/usc/t42/s6981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6981
-[/us/pl/96/463/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs1
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2055
-[/us/pl/94/580/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs1
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6981
-[/us/pl/89/272/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1001
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/91/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F512
+[/us/pl/91/512/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F512%2FtII
 [/us/stat/84/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1234
 
 

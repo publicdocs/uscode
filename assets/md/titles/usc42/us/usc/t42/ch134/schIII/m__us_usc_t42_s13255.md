@@ -25,7 +25,7 @@
 
     in sufficient volume to achieve the goals described in [section 13252(b)(2) of this title][/us/usc/t42/s13252/b/2] or as modified under [section 13254 of this title][/us/usc/t42/s13254], and in order to meet any fleet requirement program established by rule under this subchapter. The Secretary shall periodically report to the Congress on the results of efforts under this section. All voluntary commitments obtained pursuant to this section shall be available to the public, except to the extent provided in applicable provisions of law protecting the confidentiality of trade secrets and business and financial information, including [section 1905 of title 18][/us/usc/t18/s1905].
 
-([Pub. L. 102–486, title V, § 505][/us/pl/102/486/s505], Oct. 24, 1992, [106 Stat. 2890][/us/stat/106/2890].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 505, Oct. 24, 1992, [106 Stat. 2890][/us/stat/106/2890].)
 
 ----------
 
@@ -37,7 +37,7 @@
 [/us/usc/t42/s13252/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13252%2Fb%2F2
 [/us/usc/t42/s13254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13254
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/102/486/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs505
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2890
 
 

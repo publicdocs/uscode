@@ -17,7 +17,7 @@
 
     The United States shall make just compensation for any property or interests therein taken or requisitioned pursuant to sections 2063, 2075, 2096, and 2138 of this title. Except in case of real property or any interest therein, the Commission shall determine and pay such just compensation. If the compensation so determined is unsatisfactory to the person entitled thereto, such person shall be paid 75 per centum of the amount so determined, and shall be entitled to sue the United States in the United States Court of Federal Claims or in any district court of the United States for the district in which such claimant is a resident in the manner provided by [section 1346 of title 28][/us/usc/t28/s1346] to recover such further sum as added to said 75 per centum will constitute just compensation.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 171, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 952][/us/stat/68/952]; amended [Pub. L. 88–489, § 17][/us/pl/88/489/s17], Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 97–164, title I, § 160(a)(16)][/us/pl/97/164/s160/a/16], Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 171, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 952][/us/stat/68/952]; amended [Pub. L. 88–489][/us/pl/88/489], § 17, Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 160(a)(16), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Prior Provisions__ 
 
@@ -58,15 +58,15 @@
 
 [/us/usc/t28/s1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F952
-[/us/pl/88/489/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs17
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/stat/78/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F606
-[/us/pl/97/164/s160/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F16
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/usc/t42/s1813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1813%2Fa
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

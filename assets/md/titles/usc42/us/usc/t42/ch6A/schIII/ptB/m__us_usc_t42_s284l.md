@@ -103,17 +103,17 @@
 
             Grants under this subsection shall be for terms of up to 5 years and may be renewable.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409H, formerly § 409D, as added [Pub. L. 106–505, title II, § 204(b)][/us/pl/106/505/s204/b], Nov. 13, 2000, [114 Stat. 2327][/us/stat/114/2327]; renumbered § 409H, [Pub. L. 107–109, § 3(2)][/us/pl/107/109/s3/2], Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408]; [Pub. L. 109–482, title I, § 103(b)(13)][/us/pl/109/482/s103/b/13], Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409H, formerly § 409D, as added [Pub. L. 106–505, title II][/us/pl/106/505/tII], § 204(b), Nov. 13, 2000, [114 Stat. 2327][/us/stat/114/2327]; renumbered § 409H, [Pub. L. 107–109][/us/pl/107/109], § 3(2), Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(13), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687].)
 
  __Amendments__ 
 
-    2007—Subsec. (a)(3). [Pub. L. 109–482, § 103(b)(13)(A)][/us/pl/109/482/s103/b/13/A], struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+    2007—Subsec. (a)(3). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
 
-    Subsec. (b)(3). [Pub. L. 109–482, § 103(b)(13)(B)][/us/pl/109/482/s103/b/13/B], struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+    Subsec. (b)(3). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(13)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
 
-    Subsec. (c)(5). [Pub. L. 109–482, § 103(b)(13)(C)][/us/pl/109/482/s103/b/13/C], struck out heading and text of par. (5). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+    Subsec. (c)(5). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(13)(C), struck out heading and text of par. (5). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
 
-    Subsec. (d)(4). [Pub. L. 109–482, § 103(b)(13)(D)][/us/pl/109/482/s103/b/13/D], struck out heading and text of par. (4). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+    Subsec. (d)(4). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(13)(D), struck out heading and text of par. (4). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
 
  __Effective Date of 2007 Amendment__ 
 
@@ -127,16 +127,16 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs204%2Fb
+[/us/pl/106/505/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtII
 [/us/stat/114/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2327
-[/us/pl/107/109/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs3%2F2
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1408
-[/us/pl/109/482/s103/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F13
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/109/482/s103/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F13%2FA
-[/us/pl/109/482/s103/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F13%2FB
-[/us/pl/109/482/s103/b/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F13%2FC
-[/us/pl/109/482/s103/b/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F13%2FD
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281

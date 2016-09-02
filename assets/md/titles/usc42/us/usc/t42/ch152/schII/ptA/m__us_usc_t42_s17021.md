@@ -53,7 +53,7 @@
 
             The terms “biomass-based diesel blend” and “biodiesel blend” means a blend of “biomass-based diesel” or “biodiesel” fuel that is blended with petroleum-based diesel fuel.
 
-([Pub. L. 110–140, title II, § 205][/us/pl/110/140/s205], Dec. 19, 2007, [121 Stat. 1529][/us/stat/121/1529].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 205, Dec. 19, 2007, [121 Stat. 1529][/us/stat/121/1529].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t42/s13220/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13220%2Ff
-[/us/pl/110/140/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs205
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1529
 
 

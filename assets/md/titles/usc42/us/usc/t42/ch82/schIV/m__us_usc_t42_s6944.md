@@ -27,11 +27,11 @@
 
         The prohibition contained in subsection (b) of this section shall take effect on the date six months after the date of promulgation of regulations under subsection (a) of this section.
 
-([Pub. L. 89–272, title II, § 4004][/us/pl/89/272/s4004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2815][/us/stat/90/2815]; amended [Pub. L. 98–616, title III, § 302(b)][/us/pl/98/616/s302/b], Nov. 8, 1984, [98 Stat. 3268][/us/stat/98/3268].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4004, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2815][/us/stat/90/2815]; amended [Pub. L. 98–616, title III][/us/pl/98/616/tIII], § 302(b), Nov. 8, 1984, [98 Stat. 3268][/us/stat/98/3268].)
 
  __References in Text__ 
 
-    [Section 6943(2) of this title][/us/usc/t42/s6943/2], referred to in subsec. (b), was redesignated [section 6943(a)(2) of this title][/us/usc/t42/s6943/a/2] by [Pub. L. 96–463, § 5(b)][/us/pl/96/463/s5/b], Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056], and [Pub. L. 96–482, § 32(d)(2)][/us/pl/96/482/s32/d/2], Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353].
+    [Section 6943(2) of this title][/us/usc/t42/s6943/2], referred to in subsec. (b), was redesignated [section 6943(a)(2) of this title][/us/usc/t42/s6943/a/2] by [Pub. L. 96–463][/us/pl/96/463], § 5(b), Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056], and [Pub. L. 96–482][/us/pl/96/482], § 32(d)(2), Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353].
 
  __Amendments__ 
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/pl/89/272/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4004
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2815
-[/us/pl/98/616/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs302%2Fb
+[/us/pl/98/616/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIII
 [/us/stat/98/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3268
 [/us/usc/t42/s6943/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943%2F2
 [/us/usc/t42/s6943/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943%2Fa%2F2
-[/us/pl/96/463/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs5%2Fb
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2056
-[/us/pl/96/482/s32/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fd%2F2
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2353
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

@@ -17,7 +17,7 @@
 
     Whoever knowingly and willfully falsifies, conceals, or covers up by trick, scheme, or device, any material fact in any application for assistance submitted pursuant to this chapter or in any records required to be maintained pursuant to this chapter shall be subject to prosecution under the provisions of [section 1001 of title 18][/us/usc/t18/s1001].
 
-([Pub. L. 90–351, title I, § 1102][/us/pl/90/351/s1102], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1219][/us/stat/93/1219].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1102, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1219][/us/stat/93/1219].)
 
  __Prior Provisions__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/pl/90/351/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1102
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1219
 [/us/usc/t42/s3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3792
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157

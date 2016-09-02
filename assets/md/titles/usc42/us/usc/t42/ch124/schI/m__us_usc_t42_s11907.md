@@ -33,11 +33,11 @@
 
         The Secretary shall provide for the effective enforcement of this section, which may include the use of on-site monitoring, independent public audit requirements, certification by local law enforcement or local government officials regarding the performance of baseline services referred to in subsection (b) of this section, and entering into agreements with the Attorney General to achieve compliance, and verification of compliance, with the provisions of this subchapter.
 
-([Pub. L. 100–690, title V, § 5128][/us/pl/100/690/s5128], as added [Pub. L. 105–276, title V, § 586(g)][/us/pl/105/276/s586/g], Oct. 21, 1998, [112 Stat. 2649][/us/stat/112/2649].)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5128, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 586(g), Oct. 21, 1998, [112 Stat. 2649][/us/stat/112/2649].)
 
  __Prior Provisions__ 
 
-    A prior section 11907, [Pub. L. 100–690, title V, § 5128][/us/pl/100/690/s5128], Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303]; [Pub. L. 101–625, title V, § 581(a)][/us/pl/101/625/s581/a], Nov. 28, 1990, [104 Stat. 4248][/us/stat/104/4248], related to provision of periodic reports by grantees, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276], §§ 503, 586(g), Oct. 21, 1998, [112 Stat. 2521][/us/stat/112/2521], 2649, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, except to extent otherwise provided, and with savings provision.
+    A prior section 11907, [Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5128, Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 581(a), Nov. 28, 1990, [104 Stat. 4248][/us/stat/104/4248], related to provision of periodic reports by grantees, prior to repeal by [Pub. L. 105–276, title V][/us/pl/105/276/tV], §§ 503, 586(g), Oct. 21, 1998, [112 Stat. 2521][/us/stat/112/2521], 2649, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, except to extent otherwise provided, and with savings provision.
 
  __Effective Date__ 
 
@@ -45,7 +45,7 @@
 
  __Review of Drug Elimination Program Contracts__ 
 
-[Pub. L. 105–276, title V, § 587][/us/pl/105/276/s587], Oct. 21, 1998, [112 Stat. 2650][/us/stat/112/2650], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 587, Oct. 21, 1998, [112 Stat. 2650][/us/stat/112/2650], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -85,18 +85,18 @@
 [/us/usc/t42/s1437c/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fe%2F2
 [/us/usc/t42/s1437d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fd
 [/us/usc/t42/s11906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11906%2Fa
-[/us/pl/100/690/s5128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5128
-[/us/pl/105/276/s586/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fg
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2649
-[/us/pl/100/690/s5128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5128
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4303
-[/us/pl/101/625/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs581%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4248
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2521
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs587
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2650
 [/us/usc/t42/s11901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11901
 

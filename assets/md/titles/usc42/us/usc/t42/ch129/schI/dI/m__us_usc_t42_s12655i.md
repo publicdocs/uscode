@@ -39,7 +39,7 @@
 
         Nothing in subsection (a) of this section shall be construed to prohibit any program agency from limiting enrollment to any age subgroup within the range specified in subsection (a)(1) of this section.
 
-([Pub. L. 101–610, title I, § 199I][/us/pl/101/610/s199I], formerly § 130, Nov. 16, 1990, [104 Stat. 3146][/us/stat/104/3146]; [Pub. L. 102–384, § 6][/us/pl/102/384/s6], Oct. 5, 1992, [106 Stat. 1456][/us/stat/106/1456]; renumbered § 199J, renumbered § 199I, [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], (e)(8)(B), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 816.)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199I, formerly § 130, Nov. 16, 1990, [104 Stat. 3146][/us/stat/104/3146]; [Pub. L. 102–384][/us/pl/102/384], § 6, Oct. 5, 1992, [106 Stat. 1456][/us/stat/106/1456]; renumbered § 199J, renumbered § 199I, [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), (e)(8)(B), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 816.)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 12550 of this title][/us/usc/t42/s12550] prior to renumbering by [Pub. L. 103–82, § 101(a)][/us/pl/103/82/s101/a].
+    Section was formerly classified to [section 12550 of this title][/us/usc/t42/s12550] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 101(a).
 
  __Amendments__ 
 
@@ -60,17 +60,17 @@
 ----------
 ----------
 
-[/us/pl/101/610/s199I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199I
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3146
-[/us/pl/102/384/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs6
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1456
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t42/s12550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12550
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 
 

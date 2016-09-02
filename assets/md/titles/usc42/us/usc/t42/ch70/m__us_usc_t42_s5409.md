@@ -47,7 +47,7 @@
 
     (c) Compliance with any Federal manufactured home construction or safety standard issued under this chapter does not exempt any person from any liability under common law.
 
-([Pub. L. 93–383, title VI, § 610][/us/pl/93/383/s610], Aug. 22, 1974, [88 Stat. 704][/us/stat/88/704]; [Pub. L. 95–128, title IX, § 902(b)][/us/pl/95/128/s902/b], Oct. 12, 1977, [91 Stat. 1149][/us/stat/91/1149]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI, § 608][/us/pl/106/569/s608], Dec. 27, 2000, [114 Stat. 3009][/us/stat/114/3009].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 610, Aug. 22, 1974, [88 Stat. 704][/us/stat/88/704]; [Pub. L. 95–128, title IX][/us/pl/95/128/tIX], § 902(b), Oct. 12, 1977, [91 Stat. 1149][/us/stat/91/1149]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 608, Dec. 27, 2000, [114 Stat. 3009][/us/stat/114/3009].)
 
  __Amendments__ 
 
@@ -75,13 +75,13 @@
 [/us/usc/t42/s5404/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5404%2Fc%2F2%2FB
 [/us/usc/t42/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5404
 [/us/usc/t42/s5410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5410
-[/us/pl/93/383/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs610
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F704
-[/us/pl/95/128/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs902%2Fb
+[/us/pl/95/128/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIX
 [/us/stat/91/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1149
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/106/569/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs608
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3009
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399

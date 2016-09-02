@@ -23,7 +23,7 @@
 
         The Administrator may use not more than 1 percent of the amounts made available under subsection (a) for each fiscal year for management and oversight purposes.
 
-([Pub. L. 109–58, title VII, § 797][/us/pl/109/58/s797], Aug. 8, 2005, [119 Stat. 844][/us/stat/119/844]; [Pub. L. 111–364, § 2(e)][/us/pl/111/364/s2/e], Jan. 4, 2011, [124 Stat. 4060][/us/stat/124/4060].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 797, Aug. 8, 2005, [119 Stat. 844][/us/stat/119/844]; [Pub. L. 111–364][/us/pl/111/364], § 2(e), Jan. 4, 2011, [124 Stat. 4060][/us/stat/124/4060].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/109/58/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs797
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F844
-[/us/pl/111/364/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fe
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/stat/124/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4060
 [/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364

@@ -19,7 +19,7 @@
 
     (b) The detail of any personnel to the Department under this section shall in no way affect status, office, rank, or grade which officers or enlisted men may occupy or hold or any emolument, perquisite, right, privilege, or benefit incident to, or arising out of, such status, office, rank, or grade. A member so detailed shall not be subject to direction or control by his armed force, or any officer thereof, directly or indirectly, with respect to the responsibilities exercised in the position to which detailed.
 
-([Pub. L. 95–91, title VI, § 625][/us/pl/95/91/s625], Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598]; [Pub. L. 95–509, title II, § 210][/us/pl/95/509/s210], Oct. 24, 1978, [92 Stat. 1779][/us/stat/92/1779].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 625, Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598]; [Pub. L. 95–509, title II][/us/pl/95/509/tII], § 210, Oct. 24, 1978, [92 Stat. 1779][/us/stat/92/1779].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/95/91/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs625
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F598
-[/us/pl/95/509/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F509%2Fs210
+[/us/pl/95/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F509%2FtII
 [/us/stat/92/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1779
 [/us/pl/95/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F509
 

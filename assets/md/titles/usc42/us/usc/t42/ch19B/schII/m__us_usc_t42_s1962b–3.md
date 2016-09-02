@@ -25,7 +25,7 @@
 
     (4) submit to the Council at the time of submitting such plan, any recommendations it may have for continuing the functions of the commission and for implementing the plan, including means of keeping the plan up to date.
 
-([Pub. L. 89–80, title II, § 204][/us/pl/89/80/s204], July 22, 1965, [79 Stat. 248][/us/stat/79/248].)
+([Pub. L. 89–80, title II][/us/pl/89/80/tII], § 204, July 22, 1965, [79 Stat. 248][/us/stat/79/248].)
 
  __Termination of Reporting Requirements__ 
 
@@ -33,7 +33,7 @@
 
  __Upper Mississippi River System Comprehensive Master Management Plan__ 
 
-    [Pub. L. 95–502, title I, § 101][/us/pl/95/502/s101], Oct. 21, 1978, [92 Stat. 1693][/us/stat/92/1693], as amended by [Pub. L. 99–662, title XI, § 1103(c)(2)][/us/pl/99/662/s1103/c/2], Nov. 17, 1986, [100 Stat. 4226][/us/stat/100/4226], which provided for the development, revision, and implementation of the Upper Mississippi River System comprehensive master management plan by the Upper Mississippi River Basin Commission, was omitted in view of the termination of the Upper Mississippi River Basin Commission on Dec. 31, 1981, pursuant to section 1(f) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, set out as a note under [section 1962b of this title][/us/usc/t42/s1962b].
+    [Pub. L. 95–502, title I][/us/pl/95/502/tI], § 101, Oct. 21, 1978, [92 Stat. 1693][/us/stat/92/1693], as amended by [Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1103(c)(2), Nov. 17, 1986, [100 Stat. 4226][/us/stat/100/4226], which provided for the development, revision, and implementation of the Upper Mississippi River System comprehensive master management plan by the Upper Mississippi River Basin Commission, was omitted in view of the termination of the Upper Mississippi River Basin Commission on Dec. 31, 1981, pursuant to section 1(f) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, set out as a note under [section 1962b of this title][/us/usc/t42/s1962b].
 
 ----------
 
@@ -44,13 +44,13 @@
 
 [/us/usc/t42/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962
 [/us/usc/t42/s1962b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962b%2Fb
-[/us/pl/89/80/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs204
+[/us/pl/89/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtII
 [/us/stat/79/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F248
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/95/502/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2Fs101
+[/us/pl/95/502/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2FtI
 [/us/stat/92/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1693
-[/us/pl/99/662/s1103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1103%2Fc%2F2
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4226
 [/us/usc/t42/s1962b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962b
 

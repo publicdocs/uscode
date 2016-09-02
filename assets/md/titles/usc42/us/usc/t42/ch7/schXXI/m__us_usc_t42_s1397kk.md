@@ -181,7 +181,7 @@
 
                 The term “nonpregnant childless adult” has the meaning given such term by [section 1397gg(f) of this title][/us/usc/t42/s1397gg/f].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2111, as added [Pub. L. 111–3, title I, § 112(a)(1)][/us/pl/111/3/s112/a/1], Feb. 4, 2009, [123 Stat. 29][/us/stat/123/29]; amended [Pub. L. 114–10, title III, § 301(b)(2)(D)][/us/pl/114/10/s301/b/2/D], Apr. 16, 2015, [129 Stat. 157][/us/stat/129/157].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2111, as added [Pub. L. 111–3, title I][/us/pl/111/3/tI], § 112(a)(1), Feb. 4, 2009, [123 Stat. 29][/us/stat/123/29]; amended [Pub. L. 114–10, title III][/us/pl/114/10/tIII], § 301(b)(2)(D), Apr. 16, 2015, [129 Stat. 157][/us/stat/129/157].)
 
  __References in Text__ 
 
@@ -220,9 +220,9 @@
 [/us/usc/t42/s1396u–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%931
 [/us/usc/t42/s1397gg/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397gg%2Ff
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/3/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs112%2Fa%2F1
+[/us/pl/111/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtI
 [/us/stat/123/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F29
-[/us/pl/114/10/s301/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs301%2Fb%2F2%2FD
+[/us/pl/114/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtIII
 [/us/stat/129/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F157
 [/us/pl/109/171/s6102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6102%2Fc%2F3
 [/us/usc/t42/s1397gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397gg

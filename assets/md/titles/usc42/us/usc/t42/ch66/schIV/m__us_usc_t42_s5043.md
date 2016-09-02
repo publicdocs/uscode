@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_ch66_schIV.md) | [Next](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_s5044.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5043)
+[Previous](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_s5041 _us_usc_t42_s5042.md) | [Next](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_s5044.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5043)
 
 ## § 5043. Political activities
 
@@ -53,7 +53,7 @@
 
         The Director, after consultation with the Office of Personnel Management, shall issue rules and regulations to provide for the enforcement of this section, which shall include provisions for summary suspension of assistance for no more than thirty days until notice and an opportunity to be heard can be provided or other action necessary to permit enforcement on an emergency basis.
 
-([Pub. L. 93–113, title IV, § 403][/us/pl/93/113/s403], Oct. 1, 1973, [87 Stat. 408][/us/stat/87/408]; [Pub. L. 96–143][/us/pl/96/143], §§ 8, 18(c)(1), Dec. 13, 1979, [93 Stat. 1077][/us/stat/93/1077], 1083; [Pub. L. 96–187, title I, § 112(e)(1)][/us/pl/96/187/s112/e/1], Jan. 8, 1980, [93 Stat. 1366][/us/stat/93/1366]; [Pub. L. 99–551, § 10(i)(6)][/us/pl/99/551/s10/i/6], Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 103–82, title III, § 363][/us/pl/103/82/s363], title IV, § 405(a)(7), Sept. 21, 1993, [107 Stat. 907][/us/stat/107/907], 920.)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 403, Oct. 1, 1973, [87 Stat. 408][/us/stat/87/408]; [Pub. L. 96–143][/us/pl/96/143], §§ 8, 18(c)(1), Dec. 13, 1979, [93 Stat. 1077][/us/stat/93/1077], 1083; [Pub. L. 96–187, title I][/us/pl/96/187/tI], § 112(e)(1), Jan. 8, 1980, [93 Stat. 1366][/us/stat/93/1366]; [Pub. L. 99–551][/us/pl/99/551], § 10(i)(6), Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 363, title IV, § 405(a)(7), Sept. 21, 1993, [107 Stat. 907][/us/stat/107/907], 920.)
 
  __References in Text__ 
 
@@ -65,23 +65,23 @@
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 405(a)(7)][/us/pl/103/82/s405/a/7], substituted “administered by the Corporation under this chapter” for “administered by the ACTION Agency” and “of the Corporation” for “of the ACTION Agency”.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 405(a)(7), substituted “administered by the Corporation under this chapter” for “administered by the ACTION Agency” and “of the Corporation” for “of the ACTION Agency”.
 
-    Subsec. (b)(1). [Pub. L. 103–82, § 363(3)][/us/pl/103/82/s363/3], added par. (1) and struck out former par. (1) which read as follows: “Programs assisted under this chapter shall not be carried on in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (A) any partisan or non-partisan political activity or any other political activity associated with a candidate, or contending faction or group, in an election for public or party office, (B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election, or (C) any voter registration activity.”
+    Subsec. (b)(1). [Pub. L. 103–82][/us/pl/103/82], § 363(3), added par. (1) and struck out former par. (1) which read as follows: “Programs assisted under this chapter shall not be carried on in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (A) any partisan or non-partisan political activity or any other political activity associated with a candidate, or contending faction or group, in an election for public or party office, (B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election, or (C) any voter registration activity.”
 
-    Subsec. (b)(2). [Pub. L. 103–82, § 363(3)][/us/pl/103/82/s363/3], added par. (2). Former par. (2) redesignated subsec. (c).
+    Subsec. (b)(2). [Pub. L. 103–82][/us/pl/103/82], § 363(3), added par. (2). Former par. (2) redesignated subsec. (c).
 
-    Subsec. (c). [Pub. L. 103–82, § 363(1)][/us/pl/103/82/s363/1], (2), redesignated subsec. (b)(2) as subsec. (c) and subpars. (A) and (B) as pars. (1) and (2), respectively. Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 103–82][/us/pl/103/82], § 363(1), (2), redesignated subsec. (b)(2) as subsec. (c) and subpars. (A) and (B) as pars. (1) and (2), respectively. Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 103–82, § 363(1)][/us/pl/103/82/s363/1], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 103–82][/us/pl/103/82], § 363(1), redesignated subsec. (c) as (d).
 
     1986—Subsec. (a). [Pub. L. 99–551][/us/pl/99/551] substituted “an official capacity” for “his official capacity”.
 
     1980—Subsec. (a). [Pub. L. 96–187][/us/pl/96/187] substituted “[section 431(1) of title 2][/us/usc/t2/s431/1]” and “[section 431(3) of title 2][/us/usc/t2/s431/3]” for “[section 431(a) of title 2][/us/usc/t2/s431/a]” and “[section 431(c) of title 2][/us/usc/t2/s431/c]”, respectively. See Codification note above.
 
-    1979—[Pub. L. 96–143, § 8(a)][/us/pl/96/143/s8/a], inserted “or the outcome of any election to any State or local public office,” after “Federal office,” and “(when referring to an election for Federal office)” before “has the same meaning”.
+    1979—[Pub. L. 96–143][/us/pl/96/143], § 8(a), inserted “or the outcome of any election to any State or local public office,” after “Federal office,” and “(when referring to an election for Federal office)” before “has the same meaning”.
 
-    Subsec. (b). [Pub. L. 96–143, § 8(b)][/us/pl/96/143/s8/b], designated existing provisions as par. (1), cls. (1) to (3) thereof as cls. (A) to (C), and last sentence thereof as subsec. (c), and added par. (2).
+    Subsec. (b). [Pub. L. 96–143][/us/pl/96/143], § 8(b), designated existing provisions as par. (1), cls. (1) to (3) thereof as cls. (A) to (C), and last sentence thereof as subsec. (c), and added par. (2).
 
     Subsec. (c). [Pub. L. 96–143][/us/pl/96/143], §§ 8(b)(3), 18(c)(1), designated as subsec. (c) provisions formerly contained in last sentence of subsec. (b) and, as so designated, substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -101,22 +101,22 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_ch66_schIV.md) | [Next](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_s5044.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5043)
+[Previous](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_s5041 _us_usc_t42_s5042.md) | [Next](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_s5044.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5043)
 
 ----------
 ----------
 
 [/us/usc/t52/s30101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F1
 [/us/usc/t52/s30101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F3
-[/us/pl/93/113/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs403
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F408
 [/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1077
-[/us/pl/96/187/s112/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs112%2Fe%2F1
+[/us/pl/96/187/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2FtI
 [/us/stat/93/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1366
-[/us/pl/99/551/s10/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs10%2Fi%2F6
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3078
-[/us/pl/103/82/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F907
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -127,19 +127,19 @@
 [/us/usc/t2/s431/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F3
 [/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
-[/us/pl/103/82/s405/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F7
-[/us/pl/103/82/s363/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363%2F3
-[/us/pl/103/82/s363/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363%2F3
-[/us/pl/103/82/s363/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363%2F1
-[/us/pl/103/82/s363/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363%2F1
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/usc/t2/s431/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F1
 [/us/usc/t2/s431/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F3
 [/us/usc/t2/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2Fa
 [/us/usc/t2/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2Fc
-[/us/pl/96/143/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs8%2Fa
-[/us/pl/96/143/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs8%2Fb
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/pl/103/82/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363
 [/us/pl/103/82/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs392

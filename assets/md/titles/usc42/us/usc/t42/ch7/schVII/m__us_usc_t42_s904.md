@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s906.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905 _us_usc_t42_s905a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
 
 ## § 904. Administrative duties of Commissioner
 
@@ -107,7 +107,7 @@
 
         (5) The Commissioner and the Secretary shall each ensure that timely action is taken to establish any necessary routine uses for disclosures required under paragraph (1) or agreed to pursuant to paragraph (3).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 704, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 402(b), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 94–273, § 33][/us/pl/94/273/s33], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 98–369, div. B, title VI, § 2663][/us/pl/98/369/s2663](l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 103–296, title I, § 104(a)][/us/pl/103/296/s104/a], Aug. 15, 1994, [108 Stat. 1470][/us/stat/108/1470]; [Pub. L. 106–169, title II, § 211(a)][/us/pl/106/169/s211/a], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842]; [Pub. L. 114–74, title VIII, § 845(a)][/us/pl/114/74/s845/a], Nov. 2, 2015, [129 Stat. 618][/us/stat/129/618].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 704, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 402(b), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 94–273][/us/pl/94/273], § 33, Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 104(a), Aug. 15, 1994, [108 Stat. 1470][/us/stat/108/1470]; [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 211(a), Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 845(a), Nov. 2, 2015, [129 Stat. 618][/us/stat/129/618].)
 
  __Amendments__ 
 
@@ -125,13 +125,13 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–169, title II, § 211(b)][/us/pl/106/169/s211/b], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842], provided that: 
+[Pub. L. 106–169, title II][/us/pl/106/169/tII], § 211(b), Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to annual budgets prepared for fiscal years after fiscal year 1999.”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–296, title I, § 104(c)][/us/pl/103/296/s104/c], Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that:
+[Pub. L. 103–296, title I][/us/pl/103/296/tI], § 104(c), Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -149,7 +149,7 @@
 
  __Expedited Examination of Administrative Law Judges__ 
 
-[Pub. L. 114–74, title VIII, § 846][/us/pl/114/74/s846], Nov. 2, 2015, [129 Stat. 620][/us/stat/129/620], provided that:
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 846, Nov. 2, 2015, [129 Stat. 620][/us/stat/129/620], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -167,19 +167,11 @@
 
  __Report on SES Positions Under Comprehensive Work Force Plan__ 
 
-    [Pub. L. 103–296, title I, § 104(b)][/us/pl/103/296/s104/b], Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
-
-§§ 905, 905a. __Transferred__ 
-
- __Codification__ 
-
-    Section 905, [act July 5, 1952, ch. 575][/us/act/1952-07-05/ch575], title II, § 201, [66 Stat. 369][/us/stat/66/369], as amended, which related to the working capital fund, was transferred to [section 3513 of this title][/us/usc/t42/s3513].
-
-    Section 905a, act Aug. 10, 1971, [Pub. L. 92–80, title II, § 200][/us/pl/92/80/s200], [85 Stat. 297][/us/stat/85/297], which related to additional use of the working capital fund, was transferred to [section 3513b of this title][/us/usc/t42/s3513b].
+    [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 104(b), Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s906.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905 _us_usc_t42_s905a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
 
 ----------
 ----------
@@ -198,24 +190,24 @@
 [/us/stat/49/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F636
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
-[/us/pl/94/273/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs33
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F380
-[/us/pl/98/369/s2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
-[/us/pl/103/296/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs104%2Fa
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1470
-[/us/pl/106/169/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs211%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1842
-[/us/pl/114/74/s845/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs845%2Fa
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F618
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
-[/us/pl/106/169/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs211%2Fb
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1842
-[/us/pl/103/296/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs104%2Fc
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1472
 [/us/usc/t42/s904/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904%2Fe%2F4
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -226,16 +218,10 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/114/74/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs846
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F620
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
-[/us/pl/103/296/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs104%2Fb
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1472
-[/us/act/1952-07-05/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-05%2Fch575
-[/us/stat/66/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F369
-[/us/usc/t42/s3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3513
-[/us/pl/92/80/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F80%2Fs200
-[/us/stat/85/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F297
-[/us/usc/t42/s3513b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3513b
 
 

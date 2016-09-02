@@ -55,7 +55,7 @@
 
         (2) Nothing in this chapter shall be construed to amend or modify the Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621–634][/us/usc/t29/s621–634]), as amended, or to affect the rights or responsibilities of any person or party pursuant to such Act.
 
-([Pub. L. 94–135, title III, § 304][/us/pl/94/135/s304], Nov. 28, 1975, [89 Stat. 729][/us/stat/89/729]; [Pub. L. 95–478, title IV, § 401(b)][/us/pl/95/478/s401/b], Oct. 18, 1978, [92 Stat. 1555][/us/stat/92/1555]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–300, title I, § 183][/us/pl/97/300/s183], Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(37)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427.)
+([Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 304, Nov. 28, 1975, [89 Stat. 729][/us/stat/89/729]; [Pub. L. 95–478, title IV][/us/pl/95/478/tIV], § 401(b), Oct. 18, 1978, [92 Stat. 1555][/us/stat/92/1555]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–300, title I][/us/pl/97/300/tI], § 183, Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(37)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427.)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 
     1998—Subsec. (c)(1). [Pub. L. 105–277][/us/pl/105/277] substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
 
-    1978—Subsec. (a)(4). [Pub. L. 95–478, § 401(b)(1)][/us/pl/95/478/s401/b/1], provided that the regulations shall not become effective until approved by the Secretary.
+    1978—Subsec. (a)(4). [Pub. L. 95–478][/us/pl/95/478], § 401(b)(1), provided that the regulations shall not become effective until approved by the Secretary.
 
-    Subsec. (a)(5). [Pub. L. 95–478, § 401(b)(2)][/us/pl/95/478/s401/b/2], substituted “July 1, 1979” for “January 1, 1979”.
+    Subsec. (a)(5). [Pub. L. 95–478][/us/pl/95/478], § 401(b)(2), substituted “July 1, 1979” for “January 1, 1979”.
 
  __Change of Name__ 
 
@@ -93,23 +93,23 @@
 [/us/usc/t42/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6102
 [/us/usc/t42/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6102
 [/us/usc/t29/s621–634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621%E2%80%93634
-[/us/pl/94/135/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs304
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
 [/us/stat/89/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F729
-[/us/pl/95/478/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fb
+[/us/pl/95/478/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtIV
 [/us/stat/92/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1555
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/300/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs183
+[/us/pl/97/300/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtI
 [/us/stat/96/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1357
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/usc/t29/s621–634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621%E2%80%93634
 [/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F602
 [/us/usc/t29/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/95/478/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fb%2F1
-[/us/pl/95/478/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fb%2F2
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478

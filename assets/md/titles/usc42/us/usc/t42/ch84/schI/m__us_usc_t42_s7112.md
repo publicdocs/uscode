@@ -65,7 +65,7 @@
 
     (19) To ensure that the Department can continue current support of mathematics, science, and engineering education programs by using the personnel, facilities, equipment, and resources of its laboratories and by working with State and local education agencies, institutions of higher education, and business and industry. The Department’s involvement in mathematics, science, and engineering education should be consistent with its main mission and should be coordinated with all Federal efforts in mathematics, science, and engineering education, especially with the Department of Education and the National Science Foundation (which have the primary Federal responsibility for mathematics, science, and engineering education).
 
-([Pub. L. 95–91, title I, § 102][/us/pl/95/91/s102], Aug. 4, 1977, [91 Stat. 567][/us/stat/91/567]; [Pub. L. 101–510, div. C, title XXXI, § 3163][/us/pl/101/510/s3163], Nov. 5, 1990, [104 Stat. 1841][/us/stat/104/1841].)
+([Pub. L. 95–91, title I][/us/pl/95/91/tI], § 102, Aug. 4, 1977, [91 Stat. 567][/us/stat/91/567]; [Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3163, Nov. 5, 1990, [104 Stat. 1841][/us/stat/104/1841].)
 
  __References in Text__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/95/91/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs102
+[/us/pl/95/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtI
 [/us/stat/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F567
-[/us/pl/101/510/s3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3163
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1841
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

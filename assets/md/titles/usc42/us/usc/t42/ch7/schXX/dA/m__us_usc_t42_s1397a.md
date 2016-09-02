@@ -65,7 +65,7 @@
 
             (B) a person who received such assistance at any time during the 10-month period ending with the birth of the child.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2002, as added [Pub. L. 97–35, title XXIII, § 2352(a)][/us/pl/97/35/s2352/a], Aug. 13, 1981, [95 Stat. 867][/us/stat/95/867]; amended [Pub. L. 98–369, div. B, title VI, § 2663(h)(1)][/us/pl/98/369/s2663/h/1], July 18, 1984, [98 Stat. 1169][/us/stat/98/1169]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–193, title IX, § 908(b)][/us/pl/104/193/s908/b], Aug. 22, 1996, [110 Stat. 2351][/us/stat/110/2351]; [Pub. L. 111–148, title VI, § 6703(d)(1)(B)][/us/pl/111/148/s6703/d/1/B], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2002, as added [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2352(a), Aug. 13, 1981, [95 Stat. 867][/us/stat/95/867]; amended [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(h)(1), July 18, 1984, [98 Stat. 1169][/us/stat/98/1169]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 908(b), Aug. 22, 1996, [110 Stat. 2351][/us/stat/110/2351]; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1397a, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2002, as added Jan. 4, 1975, [Pub. L. 93–647, § 2][/us/pl/93/647/s2], [88 Stat. 2337][/us/stat/88/2337]; amended Oct. 21, 1975, [Pub. L. 94–120, § 4(b)][/us/pl/94/120/s4/b], [89 Stat. 609][/us/stat/89/609]; Sept. 7, 1976, [Pub. L. 94–401][/us/pl/94/401], §§ 1(a)–(c), 5(a), [90 Stat. 1215][/us/stat/90/1215], 1218; June 30, 1977, [Pub. L. 95–59, § 5][/us/pl/95/59/s5], [91 Stat. 255][/us/stat/91/255]; Oct. 25, 1977, [Pub. L. 95–142][/us/pl/95/142], §§ 3(d)(2), 8(d), [91 Stat. 1179][/us/stat/91/1179], 1195; Nov. 6, 1978, [Pub. L. 95–600, title VIII, § 801(a)][/us/pl/95/600/s801/a], [92 Stat. 2944][/us/stat/92/2944]; Oct. 17, 1979, [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], [93 Stat. 695][/us/stat/93/695]; Jan. 2, 1980, [Pub. L. 96–178, § 4(a)][/us/pl/96/178/s4/a], (c), [93 Stat. 1296][/us/stat/93/1296], 1297; June 17, 1980, [Pub. L. 96–272, title I, § 103(e)][/us/pl/96/272/s103/e], title II, §§ 201–204(a), 205(a), 206(e), 207(a), [94 Stat. 521–525][/us/stat/94/521-525]; Dec. 5, 1980, [Pub. L. 96–499, title X, § 1001(a)][/us/pl/96/499/s1001/a], [94 Stat. 2655][/us/stat/94/2655], related to payments to States and computation of amounts, prior to the general revision of this subchapter by [section 2352(a) of Pub. L. 97–35][/us/pl/97/35/s2352/a].
+    A prior section 1397a, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2002, as added Jan. 4, 1975, [Pub. L. 93–647][/us/pl/93/647], § 2, [88 Stat. 2337][/us/stat/88/2337]; amended Oct. 21, 1975, [Pub. L. 94–120][/us/pl/94/120], § 4(b), [89 Stat. 609][/us/stat/89/609]; Sept. 7, 1976, [Pub. L. 94–401][/us/pl/94/401], §§ 1(a)–(c), 5(a), [90 Stat. 1215][/us/stat/90/1215], 1218; June 30, 1977, [Pub. L. 95–59][/us/pl/95/59], § 5, [91 Stat. 255][/us/stat/91/255]; Oct. 25, 1977, [Pub. L. 95–142][/us/pl/95/142], §§ 3(d)(2), 8(d), [91 Stat. 1179][/us/stat/91/1179], 1195; Nov. 6, 1978, [Pub. L. 95–600, title VIII][/us/pl/95/600/tVIII], § 801(a), [92 Stat. 2944][/us/stat/92/2944]; Oct. 17, 1979, [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), [93 Stat. 695][/us/stat/93/695]; Jan. 2, 1980, [Pub. L. 96–178][/us/pl/96/178], § 4(a), (c), [93 Stat. 1296][/us/stat/93/1296], 1297; June 17, 1980, [Pub. L. 96–272, title I][/us/pl/96/272/tI], § 103(e), title II, §§ 201–204(a), 205(a), 206(e), 207(a), [94 Stat. 521–525][/us/stat/94/521-525]; Dec. 5, 1980, [Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1001(a), [94 Stat. 2655][/us/stat/94/2655], related to payments to States and computation of amounts, prior to the general revision of this subchapter by [section 2352(a) of Pub. L. 97–35][/us/pl/97/35/s2352/a].
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Temporary Suspension of Child Day Care Services Requirements__ 
 
-    [Pub. L. 96–499, title X, § 1001(b)][/us/pl/96/499/s1001/b], Dec. 5, 1980, [94 Stat. 2655][/us/stat/94/2655], provided that the provisions of [Pub. L. 93–647, § 3(f)][/us/pl/93/647/s3/f], Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349], set out as a note below, not apply with respect to child day care services provided after June 30, 1980, and prior to July 1, 1981, which met applicable standards of State and local law.
+    [Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1001(b), Dec. 5, 1980, [94 Stat. 2655][/us/stat/94/2655], provided that the provisions of [Pub. L. 93–647][/us/pl/93/647], § 3(f), Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349], set out as a note below, not apply with respect to child day care services provided after June 30, 1980, and prior to July 1, 1981, which met applicable standards of State and local law.
 
  __Reimbursement of Expenditures for Social Services Provided by States Prior to__  __October 1, 1975__  __; Authorization of Appropriations; Procedures Applicable to Payment of Unpaid Claims of States__ 
 
@@ -99,11 +99,11 @@
 
  __Payments to States for Fiscal Period Beginning__  __July 1, 1976__  __, and Ending__  __September 30, 1976__  __, and Fiscal Years Ending__  __September 30, 1977__  __, 1978, and 1979, Computation Amounts, Limitations, Etc.__ 
 
-    [Pub. L. 94–401, § 3][/us/pl/94/401/s3], Sept. 7, 1976, [90 Stat. 1215][/us/stat/90/1215], as amended by [Pub. L. 95–171, § 1(a)][/us/pl/95/171/s1/a], Nov. 12, 1977, [91 Stat. 1353][/us/stat/91/1353]; [Pub. L. 95–600, title VIII, § 801(b)][/us/pl/95/600/s801/b], Nov. 6, 1978, [92 Stat. 2944][/us/stat/92/2944]; [Pub. L. 96–178, § 3(b)][/us/pl/96/178/s3/b]–(f), Jan. 2, 1980, [93 Stat. 1296][/us/stat/93/1296], provided for computation of amounts of payments to States under this subchapter for the fiscal period beginning July 1, 1976, and ending Sept. 30, 1976, and fiscal years ending Sept. 30, 1977, 1978, and 1979, limitations on such amounts, and a limit on the total amount of Federal payments made to States in any such fiscal year under this subchapter.
+    [Pub. L. 94–401][/us/pl/94/401], § 3, Sept. 7, 1976, [90 Stat. 1215][/us/stat/90/1215], as amended by [Pub. L. 95–171][/us/pl/95/171], § 1(a), Nov. 12, 1977, [91 Stat. 1353][/us/stat/91/1353]; [Pub. L. 95–600, title VIII][/us/pl/95/600/tVIII], § 801(b), Nov. 6, 1978, [92 Stat. 2944][/us/stat/92/2944]; [Pub. L. 96–178][/us/pl/96/178], § 3(b)–(f), Jan. 2, 1980, [93 Stat. 1296][/us/stat/93/1296], provided for computation of amounts of payments to States under this subchapter for the fiscal period beginning July 1, 1976, and ending Sept. 30, 1976, and fiscal years ending Sept. 30, 1977, 1978, and 1979, limitations on such amounts, and a limit on the total amount of Federal payments made to States in any such fiscal year under this subchapter.
 
  __Requirements of Child Day Care Services__ 
 
-    [Pub. L. 93–647, § 3(f)][/us/pl/93/647/s3/f], Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349], which provided for requirements of child day care services, was repealed by [Pub. L. 97–35, title XXIII, § 2353(s)][/us/pl/97/35/s2353/s], Aug. 13, 1981, [97 Stat. 874][/us/stat/97/874].
+    [Pub. L. 93–647][/us/pl/93/647], § 3(f), Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349], which provided for requirements of child day care services, was repealed by [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2353(s), Aug. 13, 1981, [97 Stat. 874][/us/stat/97/874].
 
 ----------
 
@@ -118,37 +118,37 @@
 [/us/usc/t42/s1397b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b
 [/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2352%2Fa
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F867
-[/us/pl/98/369/s2663/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fh%2F1
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1169
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/104/193/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs908%2Fb
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2351
-[/us/pl/111/148/s6703/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fd%2F1%2FB
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F803
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/93/647/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs2
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2337
-[/us/pl/94/120/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F120%2Fs4%2Fb
+[/us/pl/94/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F120
 [/us/stat/89/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F609
 [/us/pl/94/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F401
 [/us/stat/90/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1215
-[/us/pl/95/59/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F59%2Fs5
+[/us/pl/95/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F59
 [/us/stat/91/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F255
 [/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/stat/91/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1179
-[/us/pl/95/600/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs801%2Fa
+[/us/pl/95/600/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVIII
 [/us/stat/92/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2944
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/96/178/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F178%2Fs4%2Fa
+[/us/pl/96/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F178
 [/us/stat/93/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1296
-[/us/pl/96/272/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs103%2Fe
+[/us/pl/96/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtI
 [/us/stat/94/521-525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F521-525
-[/us/pl/96/499/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1001%2Fa
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2655
 [/us/pl/97/35/s2352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2352%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
@@ -160,23 +160,23 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/96/499/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1001%2Fb
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2655
-[/us/pl/93/647/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs3%2Ff
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2349
 [/us/pl/95/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F291
 [/us/stat/92/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F304
-[/us/pl/94/401/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F401%2Fs3
+[/us/pl/94/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F401
 [/us/stat/90/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1215
-[/us/pl/95/171/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171%2Fs1%2Fa
+[/us/pl/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171
 [/us/stat/91/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1353
-[/us/pl/95/600/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs801%2Fb
+[/us/pl/95/600/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVIII
 [/us/stat/92/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2944
-[/us/pl/96/178/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F178%2Fs3%2Fb
+[/us/pl/96/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F178
 [/us/stat/93/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1296
-[/us/pl/93/647/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs3%2Ff
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2349
-[/us/pl/97/35/s2353/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353%2Fs
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/97/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F874
 
 

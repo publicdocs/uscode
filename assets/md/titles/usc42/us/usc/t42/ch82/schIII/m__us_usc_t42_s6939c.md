@@ -139,7 +139,7 @@
 
             (B) The Secretary of Energy shall submit a report under subparagraph (A) not later than 12 months after October 6, 1992, 24 months after October 6, 1992, and 36 months after October 6, 1992.
 
-([Pub. L. 89–272, title II, § 3021][/us/pl/89/272/s3021], as added [Pub. L. 102–386, title I, § 105(a)(1)][/us/pl/102/386/s105/a/1], Oct. 6, 1992, [106 Stat. 1508][/us/stat/106/1508].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3021, as added [Pub. L. 102–386, title I][/us/pl/102/386/tI], § 105(a)(1), Oct. 6, 1992, [106 Stat. 1508][/us/stat/106/1508].)
 
  __Change of Name__ 
 
@@ -147,7 +147,7 @@
 
  __GAO Report__ 
 
-[Pub. L. 102–386, title I, § 105(c)][/us/pl/102/386/s105/c], Oct. 6, 1992, [106 Stat. 1512][/us/stat/106/1512], provided that:
+[Pub. L. 102–386, title I][/us/pl/102/386/tI], § 105(c), Oct. 6, 1992, [106 Stat. 1512][/us/stat/106/1512], provided that:
 
 >     “(1)  __Requirement__  __.—__ 
 
@@ -193,12 +193,12 @@
 [/us/usc/t42/s6928/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6928%2Fa
 [/us/usc/t42/s6924/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fj
 [/us/usc/t42/s6961/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6961%2Fa
-[/us/pl/89/272/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3021
-[/us/pl/102/386/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs105%2Fa%2F1
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1508
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/102/386/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs105%2Fc
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1512
 [/us/usc/t42/s6939c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6939c%2Fb
 

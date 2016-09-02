@@ -23,7 +23,7 @@
 
         In the case of any electric powerplant granted an exemption, any person who operates such powerplant during any 12-calendar-month period in excess of that authorized in such exemption, shall be liable for a civil penalty, which shall be assessed by the Secretary. The amount of such civil penalty may not exceed $10 per barrel of petroleum or $3 per Mcf of natural gas used in operation of such powerplant in excess of that authorized in such exemption.
 
-    (c) __Repealed.__  __[__  __Pub. L. 100–42, § 1(c)(20)(C)__  __][/us/pl/100/42/s1/c/20/C]__  __,__  __May 21, 1987__  __,__  __[__  __101 Stat. 314__  __][/us/stat/101/314]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 100–42__  __][/us/pl/100/42]__  __, § 1(c)(20)(C),__  __May 21, 1987__  __,__  __[__  __101 Stat. 314__  __][/us/stat/101/314]__ 
 
     (d) __Assessment__ 
 
@@ -53,7 +53,7 @@
 
             (C) [Section 7172(d) of this title][/us/usc/t42/s7172/d] shall not apply with respect to the functions of the Secretary under this subsection.
 
-([Pub. L. 95–620, title VII, § 723][/us/pl/95/620/s723], Nov. 9, 1978, [92 Stat. 3333][/us/stat/92/3333]; [Pub. L. 100–42, § 1(c)(20)][/us/pl/100/42/s1/c/20], May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 723, Nov. 9, 1978, [92 Stat. 3333][/us/stat/92/3333]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(20), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–42, § 1(c)(20)(A)][/us/pl/100/42/s1/c/20/A], struck out “(other than [section 8372 of this title][/us/usc/t42/s8372])” after “this chapter”.
+    1987—Subsec. (a). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(20)(A), struck out “(other than [section 8372 of this title][/us/usc/t42/s8372])” after “this chapter”.
 
-    Subsec. (b). [Pub. L. 100–42, § 1(c)(20)(B)][/us/pl/100/42/s1/c/20/B], (C), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “Any person operating a major fuel-burning installation granted an exemption which, for any 12-calendar-month period, uses petroleum or natural gas, or both, in excess of that use allowed by such exemption shall be liable for a civil penalty, which shall be assessed by the Secretary. The amount of such civil penalty may not exceed $10 per barrel of petroleum or $3 per Mcf of natural gas which was used in excess of that use allowed by such exemption.”
+    Subsec. (b). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(20)(B), (C), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “Any person operating a major fuel-burning installation granted an exemption which, for any 12-calendar-month period, uses petroleum or natural gas, or both, in excess of that use allowed by such exemption shall be liable for a civil penalty, which shall be assessed by the Secretary. The amount of such civil penalty may not exceed $10 per barrel of petroleum or $3 per Mcf of natural gas which was used in excess of that use allowed by such exemption.”
 
-    Subsec. (c). [Pub. L. 100–42, § 1(c)(20)(C)][/us/pl/100/42/s1/c/20/C], struck out subsec. (c) which set forth civil penalties for violation of [section 8372 of this title][/us/usc/t42/s8372].
+    Subsec. (c). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(20)(C), struck out subsec. (c) which set forth civil penalties for violation of [section 8372 of this title][/us/usc/t42/s8372].
 
 ----------
 
@@ -74,23 +74,23 @@
 ----------
 ----------
 
-[/us/pl/100/42/s1/c/20/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F20%2FC
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F314
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t42/s7192/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7192%2Fc
 [/us/usc/t42/s7192/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7192%2Fc
 [/us/usc/t42/s7172/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fd
-[/us/pl/95/620/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs723
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3333
-[/us/pl/100/42/s1/c/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F20
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
-[/us/pl/100/42/s1/c/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F20%2FA
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8372
-[/us/pl/100/42/s1/c/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F20%2FB
-[/us/pl/100/42/s1/c/20/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F20%2FC
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/usc/t42/s8372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8372
 
 

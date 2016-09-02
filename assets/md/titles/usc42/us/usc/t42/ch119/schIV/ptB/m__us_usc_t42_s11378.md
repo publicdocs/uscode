@@ -17,7 +17,7 @@
 
     A recipient may use up to 7.5 percent of any annual grant received under this part for administrative purposes. A recipient State shall share the amount available for administrative purposes pursuant to the preceding sentence with local governments funded by the State.
 
-([Pub. L. 100–77, title IV, § 418][/us/pl/100/77/s418], as added [Pub. L. 101–625, title VIII, § 832(b)(1)][/us/pl/101/625/s832/b/1], Nov. 28, 1990, [104 Stat. 4359][/us/stat/104/4359]; amended [Pub. L. 111–22, div. B, title II, § 1204][/us/pl/111/22/s1204], May 20, 2009, [123 Stat. 1680][/us/stat/123/1680].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 418, as added [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(b)(1), Nov. 28, 1990, [104 Stat. 4359][/us/stat/104/4359]; amended [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1204, May 20, 2009, [123 Stat. 1680][/us/stat/123/1680].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/100/77/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs418
-[/us/pl/101/625/s832/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fb%2F1
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4359
-[/us/pl/111/22/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1204
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1680
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22

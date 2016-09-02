@@ -165,7 +165,7 @@
 
             (C) The fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Amounts so appropriated are authorized to remain available until expended for administering the prerequisites described in paragraph (2).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 206, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1372; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(b)(1), [64 Stat. 523][/us/stat/64/523]; [Pub. L. 85–840, title III, § 309][/us/pl/85/840/s309], Aug. 28, 1958, [72 Stat. 1034][/us/stat/72/1034]; [Pub. L. 89–97, title III, § 332][/us/pl/89/97/s332], July 30, 1965, [79 Stat. 403][/us/stat/79/403]; [Pub. L. 90–248, title I, § 173][/us/pl/90/248/s173], Jan. 2, 1968, [81 Stat. 877][/us/stat/81/877]; [Pub. L. 101–239, title X, § 10307(a)(1)][/us/pl/101/239/s10307/a/1], (b)(1), Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], 2485; [Pub. L. 98–369, div. B, title VI, § 2663][/us/pl/98/369/s2663](l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 101–508, title V, § 5106(a)(1)][/us/pl/101/508/s5106/a/1], Nov. 5, 1990, [104 Stat. 1388–266][/us/stat/104/1388-266]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(f)(3)(B)(i), (4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1541, 1542; [Pub. L. 106–170, title IV, § 406(a)][/us/pl/106/170/s406/a], (b), Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911], 1912; [Pub. L. 108–203, title II, § 205][/us/pl/108/203/s205], title III, § 301(a), Mar. 2, 2004, [118 Stat. 512][/us/stat/118/512], 519; [Pub. L. 111–142, § 3(a)][/us/pl/111/142/s3/a], Feb. 27, 2010, [124 Stat. 38][/us/stat/124/38].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 206, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1372; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(b)(1), [64 Stat. 523][/us/stat/64/523]; [Pub. L. 85–840, title III][/us/pl/85/840/tIII], § 309, Aug. 28, 1958, [72 Stat. 1034][/us/stat/72/1034]; [Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 332, July 30, 1965, [79 Stat. 403][/us/stat/79/403]; [Pub. L. 90–248, title I][/us/pl/90/248/tI], § 173, Jan. 2, 1968, [81 Stat. 877][/us/stat/81/877]; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10307(a)(1), (b)(1), Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], 2485; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5106(a)(1), Nov. 5, 1990, [104 Stat. 1388–266][/us/stat/104/1388-266]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), title III, § 321(f)(3)(B)(i), (4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1541, 1542; [Pub. L. 106–170, title IV][/us/pl/106/170/tIV], § 406(a), (b), Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911], 1912; [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 205, title III, § 301(a), Mar. 2, 2004, [118 Stat. 512][/us/stat/118/512], 519; [Pub. L. 111–142][/us/pl/111/142], § 3(a), Feb. 27, 2010, [124 Stat. 38][/us/stat/124/38].)
 
  __References in Text__ 
 
@@ -175,43 +175,43 @@
 
     2010—Subsec. (e). [Pub. L. 111–142][/us/pl/111/142] added subsec. (e).
 
-    2004—Subsec. (a)(1). [Pub. L. 108–203, § 205][/us/pl/108/203/s205], inserted “Notwithstanding the preceding sentences, the Commissioner, after due notice and opportunity for hearing, (A) may refuse to recognize as a representative, and may disqualify a representative already recognized, any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice or who has been disqualified from participating in or appearing before any Federal program or agency, and (B) may refuse to recognize, and may disqualify, as a non-attorney representative any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice. A representative who has been disqualified or suspended pursuant to this section from appearing before the Social Security Administration as a result of collecting or receiving a fee in excess of the amount authorized shall be barred from appearing before the Social Security Administration as a representative until full restitution is made to the claimant and, thereafter, may be considered for reinstatement only under such rules as the Commissioner may prescribe.” after “claimants before the Commissioner of Social Security.”.
+    2004—Subsec. (a)(1). [Pub. L. 108–203][/us/pl/108/203], § 205, inserted “Notwithstanding the preceding sentences, the Commissioner, after due notice and opportunity for hearing, (A) may refuse to recognize as a representative, and may disqualify a representative already recognized, any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice or who has been disqualified from participating in or appearing before any Federal program or agency, and (B) may refuse to recognize, and may disqualify, as a non-attorney representative any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice. A representative who has been disqualified or suspended pursuant to this section from appearing before the Social Security Administration as a result of collecting or receiving a fee in excess of the amount authorized shall be barred from appearing before the Social Security Administration as a representative until full restitution is made to the claimant and, thereafter, may be considered for reinstatement only under such rules as the Commissioner may prescribe.” after “claimants before the Commissioner of Social Security.”.
 
-    Subsec. (d)(2)(A). [Pub. L. 108–203, § 301(a)][/us/pl/108/203/s301/a], inserted “, except that the maximum amount of the assessment may not exceed the greater of $75 or the adjusted amount as provided pursuant to the following two sentences” after “subparagraph (B)” and inserted at end “In the case of any calendar year beginning after the amendments made by section 301 of the Social Security Protection Act of 2003 take effect, the dollar amount specified in the preceding sentence (including a previously adjusted amount) shall be adjusted annually under the procedures used to adjust benefit amounts under [section 415(i)(2)(A)(ii) of this title][/us/usc/t42/s415/i/2/A/ii], except such adjustment shall be based on the higher of $75 or the previously adjusted amount that would have been in effect for December of the preceding year, but for the rounding of such amount pursuant to the following sentence. Any amount so adjusted that is not a multiple of $1 shall be rounded to the next lowest multiple of $1, but in no case less than $75.”
+    Subsec. (d)(2)(A). [Pub. L. 108–203][/us/pl/108/203], § 301(a), inserted “, except that the maximum amount of the assessment may not exceed the greater of $75 or the adjusted amount as provided pursuant to the following two sentences” after “subparagraph (B)” and inserted at end “In the case of any calendar year beginning after the amendments made by section 301 of the Social Security Protection Act of 2003 take effect, the dollar amount specified in the preceding sentence (including a previously adjusted amount) shall be adjusted annually under the procedures used to adjust benefit amounts under [section 415(i)(2)(A)(ii) of this title][/us/usc/t42/s415/i/2/A/ii], except such adjustment shall be based on the higher of $75 or the previously adjusted amount that would have been in effect for December of the preceding year, but for the rounding of such amount pursuant to the following sentence. Any amount so adjusted that is not a multiple of $1 shall be rounded to the next lowest multiple of $1, but in no case less than $75.”
 
-    1999—Subsec. (a)(4). [Pub. L. 106–170, § 406(a)(2)(A)][/us/pl/106/170/s406/a/2/A], (b), struck out “(A)” after “(4)”, substituted “subsection (d) of this section” for “subparagraph (B)”, and struck out subpar. (B) which read as follows: “The Commissioner of Social Security shall not in any case certify any amount for payment to the attorney pursuant to this paragraph before the expiration of the 15-day period referred to in paragraph (3)(A) or, in the case of any review conducted under paragraph (3), before the completion of such review.”
+    1999—Subsec. (a)(4). [Pub. L. 106–170][/us/pl/106/170], § 406(a)(2)(A), (b), struck out “(A)” after “(4)”, substituted “subsection (d) of this section” for “subparagraph (B)”, and struck out subpar. (B) which read as follows: “The Commissioner of Social Security shall not in any case certify any amount for payment to the attorney pursuant to this paragraph before the expiration of the 15-day period referred to in paragraph (3)(A) or, in the case of any review conducted under paragraph (3), before the completion of such review.”
 
-    Subsec. (b)(1)(A). [Pub. L. 106–170, § 406(a)(2)(B)][/us/pl/106/170/s406/a/2/B], inserted “, but subject to subsection (d) of this section” after “[section 405(i) of this title][/us/usc/t42/s405/i]”.
+    Subsec. (b)(1)(A). [Pub. L. 106–170][/us/pl/106/170], § 406(a)(2)(B), inserted “, but subject to subsection (d) of this section” after “[section 405(i) of this title][/us/usc/t42/s405/i]”.
 
-    Subsec. (d). [Pub. L. 106–170, § 406(a)(1)][/us/pl/106/170/s406/a/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–170][/us/pl/106/170], § 406(a)(1), added subsec. (d).
 
-    1994—Subsec. (a)(1), (2)(A). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “before the Commissioner” for “before him” in two places, “Commissioner’s” for “Secretary’s” in two places, and “the Commissioner shall, if the” for “he shall, if the” in par. (1).
+    1994—Subsec. (a)(1), (2)(A). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “before the Commissioner” for “before him” in two places, “Commissioner’s” for “Secretary’s” in two places, and “the Commissioner shall, if the” for “he shall, if the” in par. (1).
 
-    Subsec. (a)(2)(C). [Pub. L. 103–296, § 321(f)(4)(A)(ii)][/us/pl/103/296/s321/f/4/A/ii], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (a)(2)(C). [Pub. L. 103–296][/us/pl/103/296], § 321(f)(4)(A)(ii), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], in subpar. (C) as added by [Pub. L. 103–296, § 321(f)(4)(A)(ii)][/us/pl/103/296/s321/f/4/A/ii], substituted “Commissioner of Social Security” for “Secretary” in two places.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), in subpar. (C) as added by [Pub. L. 103–296][/us/pl/103/296], § 321(f)(4)(A)(ii), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
-    Subsec. (a)(2)(D). [Pub. L. 103–296, § 321(f)(4)(A)(i)][/us/pl/103/296/s321/f/4/A/i], redesignated subpar. (C) as (D).
+    Subsec. (a)(2)(D). [Pub. L. 103–296][/us/pl/103/296], § 321(f)(4)(A)(i), redesignated subpar. (C) as (D).
 
-    [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], in subpar. (D) as redesignated by [Pub. L. 103–296, § 321(f)(4)(A)(i)][/us/pl/103/296/s321/f/4/A/i], substituted “Commissioner of Social Security” for “Secretary” in two places in introductory provisions.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), in subpar. (D) as redesignated by [Pub. L. 103–296][/us/pl/103/296], § 321(f)(4)(A)(i), substituted “Commissioner of Social Security” for “Secretary” in two places in introductory provisions.
 
-    Subsec. (a)(3)(A). [Pub. L. 103–296, § 321(f)(4)(B)][/us/pl/103/296/s321/f/4/B], substituted “paragraph (2)(D)” for “paragraph (2)(C)” in introductory provisions.
+    Subsec. (a)(3)(A). [Pub. L. 103–296][/us/pl/103/296], § 321(f)(4)(B), substituted “paragraph (2)(D)” for “paragraph (2)(C)” in introductory provisions.
 
-    [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (a)(3)(B), (4), (5). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    Subsec. (a)(3)(B), (4), (5). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    Subsec. (b)(1). [Pub. L. 103–296, § 321(f)(3)(B)(i)][/us/pl/103/296/s321/f/3/B/i], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (b)(1). [Pub. L. 103–296][/us/pl/103/296], § 321(f)(3)(B)(i), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (b)(1)(A). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], in subpar. (A) as designated by [Pub. L. 103–296, § 321(f)(3)(B)(i)][/us/pl/103/296/s321/f/3/B/i], substituted “Commissioner of Social Security” for “Secretary”.
+    Subsec. (b)(1)(A). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), in subpar. (A) as designated by [Pub. L. 103–296][/us/pl/103/296], § 321(f)(3)(B)(i), substituted “Commissioner of Social Security” for “Secretary”.
 
-    Subsec. (c). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” in two places.
+    Subsec. (c). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
     1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508] designated existing provisions as par. (1), substituted “Except as provided in paragraph (2)(A), whenever” for “Whenever” in fifth sentence, substituted pars. (2) to (4) for “If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretary shall, notwithstanding [section 405(i) of this title][/us/usc/t42/s405/i], certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the total amount of such past-due benefits, (B) the amount of the attorney’s fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney’s services.”, and inserted “(5)” before “Any person who”.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 10307(a)(1)][/us/pl/101/239/s10307/a/1], inserted at end “The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity of any person representing such claimant in accordance with this subsection.”
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 10307(a)(1), inserted at end “The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity of any person representing such claimant in accordance with this subsection.”
 
-    Subsec. (c). [Pub. L. 101–239, § 10307(b)(1)][/us/pl/101/239/s10307/b/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 10307(b)(1), added subsec. (c).
 
     1984—[Pub. L. 98–369][/us/pl/98/369] substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
@@ -227,19 +227,19 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–142, § 3(c)][/us/pl/111/142/s3/c], Feb. 27, 2010, [124 Stat. 39][/us/stat/124/39], provided that: 
+[Pub. L. 111–142][/us/pl/111/142], § 3(c), Feb. 27, 2010, [124 Stat. 39][/us/stat/124/39], provided that: 
 
 > “The Commissioner of Social Security shall provide for full implementation of the provisions of section 206(e) of the Social Security Act \[[42 U.S.C. 406(e)][/us/usc/t42/s406/e]\] (as added by subsection (a)) and the amendments made by subsection (b) \[amending [section 1383 of this title][/us/usc/t42/s1383] and provisions set out as a note under this section\] not later than March 1, 2010.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title III, § 301(b)][/us/pl/108/203/s301/b], Mar. 2, 2004, [118 Stat. 519][/us/stat/118/519], provided that: 
+[Pub. L. 108–203, title III][/us/pl/108/203/tIII], § 301(b), Mar. 2, 2004, [118 Stat. 519][/us/stat/118/519], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to fees for representation of claimants which are first required to be certified or paid under section 206 of the Social Security Act \[[42 U.S.C. 406][/us/usc/t42/s406]\] on or after the first day of the first month that begins after 180 days after the date of the enactment of this Act \[Mar. 2, 2004\].”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title IV, § 406(d)][/us/pl/106/170/s406/d], Dec. 17, 1999, [113 Stat. 1913][/us/stat/113/1913], provided that: 
+[Pub. L. 106–170, title IV][/us/pl/106/170/tIV], § 406(d), Dec. 17, 1999, [113 Stat. 1913][/us/stat/113/1913], provided that: 
 
 > “The amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] shall apply in the case of any attorney with respect to whom a fee for services is required to be certified for payment from a claimant’s past-due benefits pursuant to subsection (a)(4) or (b)(1) of section 206 of the Social Security Act \[[42 U.S.C. 406][/us/usc/t42/s406]\] after the later of—
 
@@ -259,21 +259,21 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title X, § 10307(a)(3)][/us/pl/101/239/s10307/a/3], Dec. 19, 1989, [103 Stat. 2485][/us/stat/103/2485], provided that: 
+[Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10307(a)(3), Dec. 19, 1989, [103 Stat. 2485][/us/stat/103/2485], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall take effect June 1, 1991.”
 
-[Pub. L. 101–239, title X, § 10307(b)(3)][/us/pl/101/239/s10307/b/3], Dec. 19, 1989, [103 Stat. 2485][/us/stat/103/2485], provided that: 
+[Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10307(b)(3), Dec. 19, 1989, [103 Stat. 2485][/us/stat/103/2485], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall apply with respect to adverse determinations made on or after January 1, 1991.”
 
  __Effective Date of 1939 Amendment__ 
 
-    [Act Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], provided that the amendment made by that section is effective Jan. 1, 1940.
+    [Act Aug. 10, 1939, ch. 666, title II][/us/act/1939-08-10/ch666/tII], § 201, [53 Stat. 1362][/us/stat/53/1362], provided that the amendment made by that section is effective Jan. 1, 1940.
 
  __Nationwide Demonstration Project Providing for Extension of Fee Withholding Procedures to Non-Attorney Representatives__ 
 
-[Pub. L. 108–203, title III, § 303][/us/pl/108/203/s303], Mar. 2, 2004, [118 Stat. 521][/us/stat/118/521], as amended by [Pub. L. 111–142, § 3(b)(2)][/us/pl/111/142/s3/b/2], Feb. 27, 2010, [124 Stat. 39][/us/stat/124/39], provided that:
+[Pub. L. 108–203, title III][/us/pl/108/203/tIII], § 303, Mar. 2, 2004, [118 Stat. 521][/us/stat/118/521], as amended by [Pub. L. 111–142][/us/pl/111/142], § 3(b)(2), Feb. 27, 2010, [124 Stat. 39][/us/stat/124/39], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -323,11 +323,11 @@
 
  __GAO Study Regarding the Fee Payment Process for Claimant Representatives__ 
 
-    [Pub. L. 108–203, title III, § 304][/us/pl/108/203/s304], Mar. 2, 2004, [118 Stat. 523][/us/stat/118/523], directed the Comptroller General of the United States to study and evaluate the appointment and payment of attorney and non-attorney claimant representatives appearing before the Commissioner of Social Security in connection with benefit claims under titles II and XVI of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.) and to report to the appropriate committees of Congress not later than 3 years after the date of the submission by the Commissioner of Social Security to Congress pursuant to [section 303(d) of Pub. L. 108–203][/us/pl/108/203/s303/d] (set out above) of written notice of completion of full implementation of the requirements for operation of the demonstration project under [section 303 of Pub. L. 108–203][/us/pl/108/203/s303].
+    [Pub. L. 108–203, title III][/us/pl/108/203/tIII], § 304, Mar. 2, 2004, [118 Stat. 523][/us/stat/118/523], directed the Comptroller General of the United States to study and evaluate the appointment and payment of attorney and non-attorney claimant representatives appearing before the Commissioner of Social Security in connection with benefit claims under titles II and XVI of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.) and to report to the appropriate committees of Congress not later than 3 years after the date of the submission by the Commissioner of Social Security to Congress pursuant to [section 303(d) of Pub. L. 108–203][/us/pl/108/203/s303/d] (set out above) of written notice of completion of full implementation of the requirements for operation of the demonstration project under [section 303 of Pub. L. 108–203][/us/pl/108/203/s303].
 
  __GAO Study and Report__ 
 
-    [Pub. L. 106–170, title IV, § 406(c)][/us/pl/106/170/s406/c], Dec. 17, 1999, [113 Stat. 1912][/us/stat/113/1912], directed the Comptroller General of the United States to conduct a study, and to submit a report on the study’s results to the appropriate committees of Congress not later than 1 year after Dec. 17, 1999, that examined the costs incurred by the Social Security Administration in administering [42 U.S.C. 406(a)(4)][/us/usc/t42/s406/a/4], (b)(1) and itemized the components of such costs; identified efficiencies that the Administration could implement to reduce such costs; examined the feasibility and advisability of linking the payment of, or the amount of, the assessment under [42 U.S.C. 406(d)][/us/usc/t42/s406/d] to the timeliness of the payment of the fee to the attorney as certified by the Commissioner of Social Security pursuant to [42 U.S.C. 406(a)(4)][/us/usc/t42/s406/a/4], (b)(1); determined whether [42 U.S.C. 406(a)(4)][/us/usc/t42/s406/a/4], (b)(1) should be applied to claimants under title XVI of the Social Security Act (42 U.S.C 1381 et seq.); determined the feasibility and advisability of stating fees under [42 U.S.C. 406(d)][/us/usc/t42/s406/d] in terms of a fixed dollar amount as opposed to a percentage; determined whether the dollar limit specified in [42 U.S.C. 406(a)(2)(A)(ii)(II)][/us/usc/t42/s406/a/2/A/ii/II] should be raised; and determined whether the assessment on attorneys required under [42 U.S.C. 406(d)][/us/usc/t42/s406/d] impaired access to legal representation for claimants.
+    [Pub. L. 106–170, title IV][/us/pl/106/170/tIV], § 406(c), Dec. 17, 1999, [113 Stat. 1912][/us/stat/113/1912], directed the Comptroller General of the United States to conduct a study, and to submit a report on the study’s results to the appropriate committees of Congress not later than 1 year after Dec. 17, 1999, that examined the costs incurred by the Social Security Administration in administering [42 U.S.C. 406(a)(4)][/us/usc/t42/s406/a/4], (b)(1) and itemized the components of such costs; identified efficiencies that the Administration could implement to reduce such costs; examined the feasibility and advisability of linking the payment of, or the amount of, the assessment under [42 U.S.C. 406(d)][/us/usc/t42/s406/d] to the timeliness of the payment of the fee to the attorney as certified by the Commissioner of Social Security pursuant to [42 U.S.C. 406(a)(4)][/us/usc/t42/s406/a/4], (b)(1); determined whether [42 U.S.C. 406(a)(4)][/us/usc/t42/s406/a/4], (b)(1) should be applied to claimants under title XVI of the Social Security Act (42 U.S.C 1381 et seq.); determined the feasibility and advisability of stating fees under [42 U.S.C. 406(d)][/us/usc/t42/s406/d] in terms of a fixed dollar amount as opposed to a percentage; determined whether the dollar limit specified in [42 U.S.C. 406(a)(2)(A)(ii)(II)][/us/usc/t42/s406/a/2/A/ii/II] should be raised; and determined whether the assessment on attorneys required under [42 U.S.C. 406(d)][/us/usc/t42/s406/d] impaired access to legal representation for claimants.
 
 ----------
 
@@ -353,66 +353,66 @@
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F523
-[/us/pl/85/840/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs309
+[/us/pl/85/840/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtIII
 [/us/stat/72/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1034
-[/us/pl/89/97/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs332
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F403
-[/us/pl/90/248/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs173
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F877
-[/us/pl/101/239/s10307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10307%2Fa%2F1
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2484
-[/us/pl/98/369/s2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
-[/us/pl/101/508/s5106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5106%2Fa%2F1
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-266
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/106/170/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs406%2Fa
+[/us/pl/106/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIV
 [/us/stat/113/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1911
-[/us/pl/108/203/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs205
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F512
-[/us/pl/111/142/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142%2Fs3%2Fa
+[/us/pl/111/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142
 [/us/stat/124/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F38
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/111/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142
-[/us/pl/108/203/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs205
-[/us/pl/108/203/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs301%2Fa
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/usc/t42/s415/i/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F2%2FA%2Fii
-[/us/pl/106/170/s406/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs406%2Fa%2F2%2FA
-[/us/pl/106/170/s406/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs406%2Fa%2F2%2FB
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s405/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fi
-[/us/pl/106/170/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs406%2Fa%2F1
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/f/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F4%2FA%2Fii
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/f/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F4%2FA%2Fii
-[/us/pl/103/296/s321/f/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F4%2FA%2Fi
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/f/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F4%2FA%2Fi
-[/us/pl/103/296/s321/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F4%2FB
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/f/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F3%2FB%2Fi
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
-[/us/pl/103/296/s321/f/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Ff%2F3%2FB%2Fi
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s405/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fi
-[/us/pl/101/239/s10307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10307%2Fa%2F1
-[/us/pl/101/239/s10307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10307%2Fb%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/usc/t42/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404
-[/us/pl/111/142/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142%2Fs3%2Fc
+[/us/pl/111/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142
 [/us/stat/124/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F39
 [/us/usc/t42/s406/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406%2Fe
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
-[/us/pl/108/203/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs301%2Fb
+[/us/pl/108/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIII
 [/us/stat/118/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F519
 [/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
-[/us/pl/106/170/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs406%2Fd
+[/us/pl/106/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIV
 [/us/stat/113/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1913
 [/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
@@ -425,29 +425,29 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s5106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5106%2Fd
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/101/239/s10307/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10307%2Fa%2F3
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2485
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
-[/us/pl/101/239/s10307/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10307%2Fb%2F3
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2485
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
-[/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
+[/us/act/1939-08-10/ch666/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666%2FtII
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
-[/us/pl/108/203/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs303
+[/us/pl/108/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIII
 [/us/stat/118/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F521
-[/us/pl/111/142/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142%2Fs3%2Fb%2F2
+[/us/pl/111/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F142
 [/us/stat/124/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F39
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406
-[/us/pl/108/203/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs304
+[/us/pl/108/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIII
 [/us/stat/118/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F523
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/108/203/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs303%2Fd
 [/us/pl/108/203/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs303
-[/us/pl/106/170/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs406%2Fc
+[/us/pl/106/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIV
 [/us/stat/113/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1912
 [/us/usc/t42/s406/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406%2Fa%2F4
 [/us/usc/t42/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406%2Fd

@@ -71,13 +71,13 @@
 
  __Amendments__ 
 
-    1962—Subsec. (b). [Pub. L. 87–719, § 1][/us/pl/87/719/s1], added cl. (3).
+    1962—Subsec. (b). [Pub. L. 87–719][/us/pl/87/719], § 1, added cl. (3).
 
-    Subsec. (i). [Pub. L. 87–719, § 2][/us/pl/87/719/s2], included in definition of “project area” the County of Los Alamos, New Mexico, excluding land under administrative control of the National Park Service.
+    Subsec. (i). [Pub. L. 87–719][/us/pl/87/719], § 2, included in definition of “project area” the County of Los Alamos, New Mexico, excluding land under administrative control of the National Park Service.
 
-    Subsec. (l). [Pub. L. 87–719, § 3][/us/pl/87/719/s3], included in definition of “utility” any natural gas distribution system.
+    Subsec. (l). [Pub. L. 87–719][/us/pl/87/719], § 3, included in definition of “utility” any natural gas distribution system.
 
-    Subsec. (m). [Pub. L. 87–719, § 4][/us/pl/87/719/s4], added subsec. (m).
+    Subsec. (m). [Pub. L. 87–719][/us/pl/87/719], § 4, added subsec. (m).
 
  __Transfer of Functions__ 
 
@@ -95,9 +95,9 @@
 [/us/stat/69/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F473
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F664
-[/us/pl/87/719/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs1
-[/us/pl/87/719/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs2
-[/us/pl/87/719/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs3
-[/us/pl/87/719/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs4
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 
 

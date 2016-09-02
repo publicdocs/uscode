@@ -23,7 +23,7 @@
 
     If the statement filed by the applicant should thereafter be found to contain false material statements any notification by the Commission that it has no objections to the issuance of a patent to the applicant shall not be deemed in any respect to constitute a waiver of the provisions of this section or of any applicable civil or criminal statute, and the Commission may have the title to the patent transferred to the Commission on the records of the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office in accordance with the provisions of this section. A determination of rights by the Commission pursuant to a contractual provision or other arrangement prior to the request of the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office for the statement, shall be final in the absence of false material statements or nondisclosure of material facts by the applicant.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 152, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 944][/us/stat/68/944]; amended [Pub. L. 87–206, § 10][/us/pl/87/206/s10], Sept. 6, 1961, [75 Stat. 477][/us/stat/75/477]; [Pub. L. 87–615, § 11][/us/pl/87/615/s11], Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; [Pub. L. 97–164, title I, § 162(2)][/us/pl/97/164/s162/2], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–622, title II, § 205(b)][/us/pl/98/622/s205/b], Nov. 8, 1984, [98 Stat. 3388][/us/stat/98/3388]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(19)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585; [Pub. L. 112–29, § 7(d)(1)][/us/pl/112/29/s7/d/1], Sept. 16, 2011, [125 Stat. 315][/us/stat/125/315].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 152, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 944][/us/stat/68/944]; amended [Pub. L. 87–206][/us/pl/87/206], § 10, Sept. 6, 1961, [75 Stat. 477][/us/stat/75/477]; [Pub. L. 87–615][/us/pl/87/615], § 11, Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 162(2), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–622, title II][/us/pl/98/622/tII], § 205(b), Nov. 8, 1984, [98 Stat. 3388][/us/stat/98/3388]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(19)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585; [Pub. L. 112–29][/us/pl/112/29], § 7(d)(1), Sept. 16, 2011, [125 Stat. 315][/us/stat/125/315].)
 
  __Amendments__ 
 
@@ -63,21 +63,21 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F944
-[/us/pl/87/206/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs10
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F477
-[/us/pl/87/615/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs11
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F411
-[/us/pl/97/164/s162/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs162%2F2
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
-[/us/pl/98/622/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2Fs205%2Fb
+[/us/pl/98/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F622%2FtII
 [/us/stat/98/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3388
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/112/29/s7/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs7%2Fd%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F315
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

@@ -31,7 +31,7 @@
 
         (2) the prospective adoptive parents of a child have initiated the adoption process with the filing of an appropriate application in a foreign country sufficient such that the Secretary of State is satisfied before the date that is 180 days after January 14, 2013.
 
-([Pub. L. 112–276, § 2][/us/pl/112/276/s2], Jan. 14, 2013, [126 Stat. 2466][/us/stat/126/2466].)
+([Pub. L. 112–276][/us/pl/112/276], § 2, Jan. 14, 2013, [126 Stat. 2466][/us/stat/126/2466].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Definitions__ 
 
-[Pub. L. 112–276, § 4][/us/pl/112/276/s4], Jan. 14, 2013, [126 Stat. 2467][/us/stat/126/2467], provided that: 
+[Pub. L. 112–276][/us/pl/112/276], § 4, Jan. 14, 2013, [126 Stat. 2467][/us/stat/126/2467], provided that: 
 
 > “In this Act \[see Short Title of 2013 Amendment note set out under [section 14901 of this title][/us/usc/t42/s14901]\], the terms ‘accrediting entity’, ‘adoption service’, ‘Convention adoption’, and ‘person’ have the meanings given those terms in section 3 of the Intercountry Adoption Act of 2000 ([42 U.S.C. 14902][/us/usc/t42/s14902]).”
 
@@ -61,7 +61,7 @@
 [/us/usc/t8/s1101/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fb%2F1%2FF
 [/us/usc/t42/s14944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14944
 [/us/usc/t42/s14921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14921
-[/us/pl/112/276/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276%2Fs2
+[/us/pl/112/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276
 [/us/stat/126/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2466
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825
@@ -69,7 +69,7 @@
 [/us/pl/112/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276
 [/us/stat/126/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2466
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901
-[/us/pl/112/276/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276%2Fs4
+[/us/pl/112/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276
 [/us/stat/126/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2467
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901
 [/us/usc/t42/s14902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14902

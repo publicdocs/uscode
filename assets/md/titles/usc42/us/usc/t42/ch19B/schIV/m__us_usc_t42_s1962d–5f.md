@@ -45,7 +45,7 @@
 
         Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 3 years after the expiration of such period.
 
-([Pub. L. 94–587, § 156][/us/pl/94/587/s156], Oct. 22, 1976, [90 Stat. 2933][/us/stat/90/2933]; [Pub. L. 99–662, title IX, § 934][/us/pl/99/662/s934], Nov. 17, 1986, [100 Stat. 4197][/us/stat/100/4197]; [Pub. L. 113–121, title I, § 1037(a)][/us/pl/113/121/s1037/a], June 10, 2014, [128 Stat. 1235][/us/stat/128/1235].)
+([Pub. L. 94–587][/us/pl/94/587], § 156, Oct. 22, 1976, [90 Stat. 2933][/us/stat/90/2933]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 934, Nov. 17, 1986, [100 Stat. 4197][/us/stat/100/4197]; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1037(a), June 10, 2014, [128 Stat. 1235][/us/stat/128/1235].)
 
  __Codification__ 
 
@@ -65,11 +65,11 @@
 ----------
 
 [/us/usc/t33/s2282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282d
-[/us/pl/94/587/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs156
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2933
-[/us/pl/99/662/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs934
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4197
-[/us/pl/113/121/s1037/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1037%2Fa
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1235
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662

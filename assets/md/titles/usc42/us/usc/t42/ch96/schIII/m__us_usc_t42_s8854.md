@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may make available the timber resources of the National Forest System, in accordance with appropriate timber appraisal and sale procedures, for use by biomass energy projects.
 
-([Pub. L. 96–294, title II, § 261][/us/pl/96/294/s261], June 30, 1980, [94 Stat. 710][/us/stat/94/710].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 261, June 30, 1980, [94 Stat. 710][/us/stat/94/710].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs261
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F710
 
 

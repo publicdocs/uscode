@@ -17,7 +17,7 @@
 
     Title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.) and title VIII of the Civil Rights Act of 1968 ([42 U.S.C. 3601][/us/usc/t42/s3601] et seq.) shall not apply to actions by federally recognized Indian tribes (including instrumentalities of such Indian tribes) under this Act.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 544, as added [Pub. L. 109–136, § 4][/us/pl/109/136/s4], Dec. 22, 2005, [119 Stat. 2644][/us/stat/119/2644].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 544, as added [Pub. L. 109–136][/us/pl/109/136], § 4, Dec. 22, 2005, [119 Stat. 2644][/us/stat/119/2644].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/109/136/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F136%2Fs4
+[/us/pl/109/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F136
 [/us/stat/119/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2644
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

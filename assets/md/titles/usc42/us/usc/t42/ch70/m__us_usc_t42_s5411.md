@@ -35,7 +35,7 @@
 
         It shall be the duty of every manufacturer offering a manufactured home for importation into the United States to designate in writing an agent upon whom service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made for and on behalf of such manufacturer, and to file such designation with the Secretary, which designation may from time to time be changed by like writing, similarly filed. Service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made upon such manufacturer by service upon such designated agent at his office or usual place of residence with like effect as if made personally upon such manufacturer, and in default of such designation of such agent, service of process or any notice, order, requirement, or decision in any proceeding before the Secretary or in any judicial proceeding pursuant to this chapter may be made by mailing such process, notice, order, requirement, or decision to the Secretary by registered or certified mail.
 
-([Pub. L. 93–383, title VI, § 612][/us/pl/93/383/s612], Aug. 22, 1974, [88 Stat. 705][/us/stat/88/705]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 612, Aug. 22, 1974, [88 Stat. 705][/us/stat/88/705]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t42/s5410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5410
 [/us/usc/t42/s5410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5410
-[/us/pl/93/383/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs612
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F705
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 

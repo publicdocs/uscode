@@ -49,7 +49,7 @@
 
             (F) Other than as described in subparagraph (E), no valuable consideration is knowingly acquired, received, or otherwise transferred with respect to the human organs referred to in such subparagraph.
 
-([Pub. L. 98–507, title III, § 301][/us/pl/98/507/s301], Oct. 19, 1984, [98 Stat. 2346][/us/stat/98/2346]; [Pub. L. 100–607, title IV, § 407][/us/pl/100/607/s407], Nov. 4, 1988, [102 Stat. 3116][/us/stat/102/3116]; [Pub. L. 110–144, § 2][/us/pl/110/144/s2], Dec. 21, 2007, [121 Stat. 1813][/us/stat/121/1813].)
+([Pub. L. 98–507, title III][/us/pl/98/507/tIII], § 301, Oct. 19, 1984, [98 Stat. 2346][/us/stat/98/2346]; [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 407, Nov. 4, 1988, [102 Stat. 3116][/us/stat/102/3116]; [Pub. L. 110–144][/us/pl/110/144], § 2, Dec. 21, 2007, [121 Stat. 1813][/us/stat/121/1813].)
 
  __Codification__ 
 
@@ -57,21 +57,21 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–144, § 2(1)][/us/pl/110/144/s2/1], inserted at end “The preceding sentence does not apply with respect to human organ paired donation.”
+    2007—Subsec. (a). [Pub. L. 110–144][/us/pl/110/144], § 2(1), inserted at end “The preceding sentence does not apply with respect to human organ paired donation.”
 
-    Subsec. (c)(4). [Pub. L. 110–144, § 2(2)][/us/pl/110/144/s2/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 110–144][/us/pl/110/144], § 2(2), added par. (4).
 
     1988—Subsec. (c)(1). [Pub. L. 100–607][/us/pl/100/607] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘human organ’ means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation.”
 
  __Determination on the Definition of Human Organ__ 
 
-[Pub. L. 114–104, § 4][/us/pl/114/104/s4], Dec. 18, 2015, [129 Stat. 2218][/us/stat/129/2218], provided that: 
+[Pub. L. 114–104][/us/pl/114/104], § 4, Dec. 18, 2015, [129 Stat. 2218][/us/stat/129/2218], provided that: 
 
 > “Not later than one year after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Health and Human Services shall issue determinations with respect to the inclusion of peripheral blood stem cells and umbilical cord blood in the definition of human organ.”
 
  __No Impact on Social Security Trust Fund__ 
 
-[Pub. L. 110–144, § 4][/us/pl/110/144/s4], Dec. 21, 2007, [121 Stat. 1814][/us/stat/121/1814], provided that: 
+[Pub. L. 110–144][/us/pl/110/144], § 4, Dec. 21, 2007, [121 Stat. 1814][/us/stat/121/1814], provided that: 
 
 > “Nothing in this Act \[see Short Title of 2007 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] (or an amendment made by this Act) shall be construed to alter or amend the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.) (or any regulation promulgated under that Act).”
 
@@ -83,18 +83,18 @@
 ----------
 
 [/us/usc/t21/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fb
-[/us/pl/98/507/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2Fs301
+[/us/pl/98/507/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2FtIII
 [/us/stat/98/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2346
-[/us/pl/100/607/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs407
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3116
-[/us/pl/110/144/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs2
+[/us/pl/110/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144
 [/us/stat/121/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1813
-[/us/pl/110/144/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs2%2F1
-[/us/pl/110/144/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs2%2F2
+[/us/pl/110/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144
+[/us/pl/110/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/114/104/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104%2Fs4
+[/us/pl/114/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104
 [/us/stat/129/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2218
-[/us/pl/110/144/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs4
+[/us/pl/110/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144
 [/us/stat/121/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1814
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301

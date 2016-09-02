@@ -49,7 +49,7 @@
 
         (2) the term “detail” means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Foundation.
 
-([Pub. L. 110–140, title IX, § 926][/us/pl/110/140/s926], Dec. 19, 2007, [121 Stat. 1737][/us/stat/121/1737].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 926, Dec. 19, 2007, [121 Stat. 1737][/us/stat/121/1737].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/110/140/s926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs926
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1737
 
 

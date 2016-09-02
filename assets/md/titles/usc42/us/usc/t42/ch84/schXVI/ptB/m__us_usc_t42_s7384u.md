@@ -81,7 +81,7 @@
 
         This section shall take effect on July 31, 2001, unless Congress otherwise provides in an Act enacted before that date.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3630\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–507; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(4)(B)][/us/pl/107/107/s3151/a/4/B], Dec. 28, 2001, [115 Stat. 1373][/us/stat/115/1373]; [Pub. L. 108–375, div. C, title XXXI, § 3165(a)][/us/pl/108/375/s3165/a], Oct. 28, 2004, [118 Stat. 2187][/us/stat/118/2187].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3630\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–507; [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3151(a)(4)(B), Dec. 28, 2001, [115 Stat. 1373][/us/stat/115/1373]; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3165(a), Oct. 28, 2004, [118 Stat. 2187][/us/stat/118/2187].)
 
  __References in Text__ 
 
@@ -111,11 +111,11 @@
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s7384t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384t
 [/us/usc/t42/s7384e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384e
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s3151/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3151%2Fa%2F4%2FB
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1373
-[/us/pl/108/375/s3165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3165%2Fa
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2187
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/stat/104/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F920

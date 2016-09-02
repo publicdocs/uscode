@@ -135,7 +135,7 @@
 
         In addition to amounts otherwise authorized to be appropriated in [section 16191 of this title][/us/usc/t42/s16191], there are authorized to be appropriated for the program under this section such sums as may be appropriated.
 
-([Pub. L. 109–58, title IX, § 917][/us/pl/109/58/s917], Aug. 8, 2005, [119 Stat. 863][/us/stat/119/863]; [Pub. L. 110–229, title VI, § 601][/us/pl/110/229/s601], May 8, 2008, [122 Stat. 850][/us/stat/122/850].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 917, Aug. 8, 2005, [119 Stat. 863][/us/stat/119/863]; [Pub. L. 110–229, title VI][/us/pl/110/229/tVI], § 601, May 8, 2008, [122 Stat. 850][/us/stat/122/850].)
 
  __References in Text__ 
 
@@ -162,9 +162,9 @@
 [/us/usc/t7/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7601
 [/us/usc/t7/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7601
 [/us/usc/t42/s16191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16191
-[/us/pl/109/58/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs917
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F863
-[/us/pl/110/229/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs601
+[/us/pl/110/229/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVI
 [/us/stat/122/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F850
 [/us/act/1914-05-08/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-05-08%2Fch79
 [/us/stat/38/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F372

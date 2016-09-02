@@ -25,11 +25,11 @@
 
         (3) In implementing and conducting the research, development, and demonstration programs pursuant to this chapter, the Secretary shall incorporate programs in specific nonnuclear technologies previously enacted into law, including those established by the Solar Heating and Cooling Demonstration Act of 1974 ([Public Law 93–409][/us/pl/93/409]) \[[42 U.S.C. 5501][/us/usc/t42/s5501] et seq.\], the Geothermal Energy Research, Development, and Demonstration Act of 1974 ([Public Law 93–410][/us/pl/93/410]) \[[30 U.S.C. 1101][/us/usc/t30/s1101] et seq.\], and the Solar Energy Research, Development, and Demonstration Act of 1974 ([Public Law 93–473][/us/pl/93/473]) \[[42 U.S.C. 5551][/us/usc/t42/s5551] et seq.\].
 
-([Pub. L. 93–577, § 3][/us/pl/93/577/s3], Dec. 31, 1974, [88 Stat. 1879][/us/stat/88/1879]; [Pub. L. 109–58, title X, § 1009(b)(2)][/us/pl/109/58/s1009/b/2], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
+([Pub. L. 93–577][/us/pl/93/577], § 3, Dec. 31, 1974, [88 Stat. 1879][/us/stat/88/1879]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(2), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. (b)(3), is [Pub. L. 93–409][/us/pl/93/409], Sept. 3, 1974, [88 Stat. 1069][/us/stat/88/1069], as amended, which is classified generally to subchapter I (§ 5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title][/us/usc/t42/s5501] and Tables.
 
@@ -39,11 +39,11 @@
 
  __Amendments__ 
 
-    2005—Subsec. (b)(1). [Pub. L. 109–58, § 1009(b)(2)(A)][/us/pl/109/58/s1009/b/2/A], substituted “Department” for “Energy Research and Development Administration”.
+    2005—Subsec. (b)(1). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(2)(A), substituted “Department” for “Energy Research and Development Administration”.
 
-    Subsec. (b)(2). [Pub. L. 109–58, § 1009(b)(2)(B)][/us/pl/109/58/s1009/b/2/B], substituted “Secretary” for “Administrator of the Energy Research and Development Administration (hereinafter in this chapter referred to as the ‘Administrator’)”.
+    Subsec. (b)(2). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(2)(B), substituted “Secretary” for “Administrator of the Energy Research and Development Administration (hereinafter in this chapter referred to as the ‘Administrator’)”.
 
-    Subsec. (b)(3). [Pub. L. 109–58, § 1009(b)(2)(C)][/us/pl/109/58/s1009/b/2/C], substituted “Secretary” for “Administrator” and inserted “Demonstration” after “Cooling”.
+    Subsec. (b)(3). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(2)(C), substituted “Secretary” for “Administrator” and inserted “Demonstration” after “Cooling”.
 
 ----------
 
@@ -59,12 +59,12 @@
 [/us/usc/t30/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1101
 [/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/usc/t42/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5551
-[/us/pl/93/577/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs3
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1879
-[/us/pl/109/58/s1009/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F2
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
@@ -76,8 +76,8 @@
 [/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1431
 [/us/usc/t42/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5501
-[/us/pl/109/58/s1009/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F2%2FA
-[/us/pl/109/58/s1009/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F2%2FB
-[/us/pl/109/58/s1009/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F2%2FC
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

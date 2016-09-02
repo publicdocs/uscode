@@ -43,7 +43,7 @@
 
         The Secretary shall include among those interested groups that participate in the development of the plan consumers of mental health or substance abuse services, providers, representatives of political divisions of States, and representatives of racial and ethnic groups including Native Americans.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1949, as added [Pub. L. 102–321, title II, § 203(a)][/us/pl/102/321/s203/a], July 10, 1992, [106 Stat. 408][/us/stat/106/408]; amended [Pub. L. 106–310, div. B, title XXXIV, § 3403(a)][/us/pl/106/310/s3403/a], Oct. 17, 2000, [114 Stat. 1219][/us/stat/114/1219].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1949, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 203(a), July 10, 1992, [106 Stat. 408][/us/stat/106/408]; amended [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3403(a), Oct. 17, 2000, [114 Stat. 1219][/us/stat/114/1219].)
 
  __Codification__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fa
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F408
-[/us/pl/106/310/s3403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3403%2Fa
+[/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1219
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310

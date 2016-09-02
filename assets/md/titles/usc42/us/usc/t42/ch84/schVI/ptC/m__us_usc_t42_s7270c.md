@@ -19,7 +19,7 @@
 
     (b) Not later than January 31 each year, the Secretary shall submit to Congress a report on the assessment conducted under subsection (a) of this section during the preceding year. Each report shall include the results of the assessment covered by such report, together with such findings and recommendations as the Secretary considers appropriate.
 
-([Pub. L. 95–91, title VI, § 663][/us/pl/95/91/s663], as added [Pub. L. 107–107, div. C, title XXXI, § 3154(a)][/us/pl/107/107/s3154/a], Dec. 28, 2001, [115 Stat. 1377][/us/stat/115/1377].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 663, as added [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3154(a), Dec. 28, 2001, [115 Stat. 1377][/us/stat/115/1377].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/95/91/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs663
-[/us/pl/107/107/s3154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3154%2Fa
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1377
 
 

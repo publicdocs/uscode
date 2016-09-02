@@ -19,7 +19,7 @@
 
     (b) In each of the five years of the small wind energy systems program, at least 25 per centum of the total authorization for appropriations under subsection (a) of this section shall be for small wind energy systems activities, including supporting activities.
 
-([Pub. L. 96–345, § 14][/us/pl/96/345/s14], Sept. 8, 1980, [94 Stat. 1146][/us/stat/94/1146].)
+([Pub. L. 96–345][/us/pl/96/345], § 14, Sept. 8, 1980, [94 Stat. 1146][/us/stat/94/1146].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t42/s9206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9206
-[/us/pl/96/345/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs14
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1146
 
 

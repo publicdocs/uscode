@@ -199,7 +199,7 @@
 
         This section shall take effect on the date specified in regulations implementing this section that are issued by the Secretary after notice and public comment.
 
-([Pub. L. 101–235, title I, § 102][/us/pl/101/235/s102], Dec. 15, 1989, [103 Stat. 1990][/us/stat/103/1990]; [Pub. L. 110–289, div. B, title VIII, § 2834(a)][/us/pl/110/289/s2834/a], July 30, 2008, [122 Stat. 2869][/us/stat/122/2869].)
+([Pub. L. 101–235, title I][/us/pl/101/235/tI], § 102, Dec. 15, 1989, [103 Stat. 1990][/us/stat/103/1990]; [Pub. L. 110–289, div. B, title VIII][/us/pl/110/289/dB/tVIII], § 2834(a), July 30, 2008, [122 Stat. 2869][/us/stat/122/2869].)
 
  __References in Text__ 
 
@@ -215,7 +215,7 @@
 
  __Subsidy Layering Review__ 
 
-[Pub. L. 102–550, title IX, § 911][/us/pl/102/550/s911], Oct. 28, 1992, [106 Stat. 3875][/us/stat/106/3875], as amended by [Pub. L. 103–233, title III, § 308][/us/pl/103/233/s308], Apr. 11, 1994, [108 Stat. 379][/us/stat/108/379], provided that:
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 911, Oct. 28, 1992, [106 Stat. 3875][/us/stat/106/3875], as amended by [Pub. L. 103–233, title III][/us/pl/103/233/tIII], § 308, Apr. 11, 1994, [108 Stat. 379][/us/stat/108/379], provided that:
 
 >     “(a)  __Certification of Subsidy Layering Compliance__  __.—__ 
 
@@ -252,18 +252,18 @@
 [/us/usc/t42/s1439/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1439%2Fd%2F1%2FA
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/101/235/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs102
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1990
-[/us/pl/110/289/s2834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2834%2Fa
+[/us/pl/110/289/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVIII
 [/us/stat/122/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2869
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
-[/us/pl/102/550/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs911
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3875
-[/us/pl/103/233/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs308
+[/us/pl/103/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtIII
 [/us/stat/108/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F379
 [/us/usc/t42/s3545/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3545%2Fd
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42

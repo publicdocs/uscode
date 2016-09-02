@@ -27,13 +27,13 @@
 
         There are authorized to be appropriated to carry out this section not more than $30,000,000 for fiscal year 1989, $30,000,000 for fiscal year 1990, and $30,000,000 for fiscal year 1991.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1465, as added [Pub. L. 100–572, § 2(a)][/us/pl/100/572/s2/a], Oct. 31, 1988, [102 Stat. 2887][/us/stat/102/2887]; amended [Pub. L. 104–182, title V, § 501(d)][/us/pl/104/182/s501/d], (f)(11), Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691], 1692.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1465, as added [Pub. L. 100–572][/us/pl/100/572], § 2(a), Oct. 31, 1988, [102 Stat. 2887][/us/stat/102/2887]; amended [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(d), (f)(11), Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691], 1692.)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–182, § 501(f)(11)][/us/pl/104/182/s501/f/11], made technical amendment to section catchline and subsec. (a) designation.
+    1996—[Pub. L. 104–182][/us/pl/104/182], § 501(f)(11), made technical amendment to section catchline and subsec. (a) designation.
 
-    Subsec. (b). [Pub. L. 104–182, § 501(d)][/us/pl/104/182/s501/d], substituted “by the State” for “as by the State”.
+    Subsec. (b). [Pub. L. 104–182][/us/pl/104/182], § 501(d), substituted “by the State” for “as by the State”.
 
 ----------
 
@@ -47,11 +47,11 @@
 [/us/usc/t42/s300j–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9324
 [/us/usc/t42/s300j–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9324
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/572/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs2%2Fa
+[/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
 [/us/stat/102/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2887
-[/us/pl/104/182/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Fd
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1691
-[/us/pl/104/182/s501/f/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F11
-[/us/pl/104/182/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Fd
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 
 

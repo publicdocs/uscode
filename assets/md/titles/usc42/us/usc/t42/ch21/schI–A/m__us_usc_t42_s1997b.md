@@ -43,19 +43,19 @@
 
     (b) The Attorney General shall personally sign any certification made pursuant to this section.
 
-([Pub. L. 96–247, § 4][/us/pl/96/247/s4], May 23, 1980, [94 Stat. 350][/us/stat/94/350]; [Pub. L. 97–256, title II, § 201(a)][/us/pl/97/256/s201/a], Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(b)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–71; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 96–247][/us/pl/96/247], § 4, May 23, 1980, [94 Stat. 350][/us/stat/94/350]; [Pub. L. 97–256, title II][/us/pl/97/256/tII], § 201(a), Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 803(b)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–71; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(b)(1)(A)\], substituted “the Attorney General” for “he” in introductory provisions and in subpar. (C).
+    1996—Subsec. (a)(1). [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 803(b)(1)(A)\], substituted “the Attorney General” for “he” in introductory provisions and in subpar. (C).
 
-    Subsec. (a)(2). [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(b)(1)(A)\], substituted “the Attorney General” for “he” wherever appearing in introductory provisions and in subpars. (A) to (C).
+    Subsec. (a)(2). [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 803(b)(1)(A)\], substituted “the Attorney General” for “he” wherever appearing in introductory provisions and in subpars. (A) to (C).
 
-    [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(b)(1)(B)\], substituted “the Attorney General’s” for “his” in introductory provisions and in subpar. (B).
+    [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 803(b)(1)(B)\], substituted “the Attorney General’s” for “his” in introductory provisions and in subpar. (B).
 
-    Subsec. (a)(3). [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(b)(1)(A)\], substituted “the Attorney General” for “he”.
+    Subsec. (a)(3). [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 803(b)(1)(A)\], substituted “the Attorney General” for “he”.
 
-    Subsec. (b). [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 803(b)(2)\], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any certification made by the Attorney General pursuant to this section shall be personally signed by him.”
+    Subsec. (b). [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 803(b)(2)\], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any certification made by the Attorney General pursuant to this section shall be personally signed by him.”
 
     1982—Subsec. (a). [Pub. L. 97–256][/us/pl/97/256] substituted “[section 1997a of this title][/us/usc/t42/s1997a]” for “[section 1997 of this title][/us/usc/t42/s1997]” in provisions preceding par. (1).
 
@@ -68,19 +68,19 @@
 
 [/us/usc/t42/s1997a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1997a
 [/us/usc/t42/s1997a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1997a
-[/us/pl/96/247/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs4
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F350
-[/us/pl/97/256/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2Fs201%2Fa
+[/us/pl/97/256/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256%2FtII
 [/us/stat/96/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F816
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/97/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F256
 [/us/usc/t42/s1997a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1997a
 [/us/usc/t42/s1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1997

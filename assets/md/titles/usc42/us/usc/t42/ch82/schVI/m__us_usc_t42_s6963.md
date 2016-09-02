@@ -23,7 +23,7 @@
 
         The Administrator shall collect, maintain, and disseminate information concerning the market potential of energy and materials recovered from solid waste, including materials obtained through source separation, and information concerning the savings potential of conserving resources contributing to the waste stream. The Administrator shall identify the regions in which the increased substitution of such energy for energy derived from fossil fuels and other sources is most likely to be feasible, and provide information on the technical and economic aspects of developing integrated resource conservation or recovery systems which provide for the recovery of source-separated materials to be recycled or the conservation of resources. The Administrator shall utilize the authorities of subsection (a) of this section in carrying out this subsection.
 
-([Pub. L. 89–272, title II, § 6003][/us/pl/89/272/s6003], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2823][/us/stat/90/2823]; amended [Pub. L. 96–482, § 32(g)][/us/pl/96/482/s32/g], Oct. 21, 1980, [94 Stat. 2355][/us/stat/94/2355].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 6003, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2823][/us/stat/90/2823]; amended [Pub. L. 96–482][/us/pl/96/482], § 32(g), Oct. 21, 1980, [94 Stat. 2355][/us/stat/94/2355].)
 
  __Amendments__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/89/272/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs6003
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2823
-[/us/pl/96/482/s32/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fg
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2355
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

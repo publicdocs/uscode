@@ -19,7 +19,7 @@
 
     (b) In carrying out his functions, responsibilities, authorities, and duties under this subchapter, the Secretary is authorized, with the consent of the Indian people served, to contract with private or other non-Federal health agencies or organizations for the provision of health services to such people on a fee-for-service basis or on a prepayment or other similar basis.
 
-([Aug. 5, 1954, ch. 658, § 1][/us/act/1954-08-05/ch658/s1], [68 Stat. 674][/us/stat/68/674]; [Pub. L. 93–222, § 6(a)][/us/pl/93/222/s6/a], Dec. 29, 1973, [87 Stat. 935][/us/stat/87/935]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Aug. 5, 1954, ch. 658][/us/act/1954-08-05/ch658], § 1, [68 Stat. 674][/us/stat/68/674]; [Pub. L. 93–222][/us/pl/93/222], § 6(a), Dec. 29, 1973, [87 Stat. 935][/us/stat/87/935]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date__ 
 
-[Act Aug. 5, 1954, ch. 658, § 6][/us/act/1954-08-05/ch658/s6], [68 Stat. 675][/us/stat/68/675], as amended by [Pub. L. 86–121, § 2][/us/pl/86/121/s2], July 31, 1959, [73 Stat. 268][/us/stat/73/268], provided that: 
+[Act Aug. 5, 1954, ch. 658][/us/act/1954-08-05/ch658], § 6, [68 Stat. 675][/us/stat/68/675], as amended by [Pub. L. 86–121][/us/pl/86/121], § 2, July 31, 1959, [73 Stat. 268][/us/stat/73/268], provided that: 
 
 > “Sections 1 to 5, inclusive, of this Act \[enacting this subchapter and repealing sections 444 to 449 of Title 25, Indians\] shall take effect July 1, 1959.”
 
@@ -42,16 +42,16 @@
 ----------
 ----------
 
-[/us/act/1954-08-05/ch658/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658%2Fs1
+[/us/act/1954-08-05/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658
 [/us/stat/68/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F674
-[/us/pl/93/222/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs6%2Fa
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F935
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
-[/us/act/1954-08-05/ch658/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658%2Fs6
+[/us/act/1954-08-05/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658
 [/us/stat/68/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F675
-[/us/pl/86/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F121%2Fs2
+[/us/pl/86/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F121
 [/us/stat/73/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F268
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

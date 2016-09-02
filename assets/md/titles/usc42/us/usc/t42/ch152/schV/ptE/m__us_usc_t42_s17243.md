@@ -165,7 +165,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 110–140, title VI, § 655][/us/pl/110/140/s655], Dec. 19, 2007, [121 Stat. 1700][/us/stat/121/1700].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 655, Dec. 19, 2007, [121 Stat. 1700][/us/stat/121/1700].)
 
 ----------
 
@@ -176,7 +176,7 @@
 
 [/us/usc/t42/s16396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16396
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/110/140/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs655
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1700
 
 

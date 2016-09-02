@@ -23,7 +23,7 @@
 
         To the extent practicable, the Commissioner shall facilitate cooperation through the entering into of interagency agreements.
 
-([Pub. L. 101–501, title IX, § 917][/us/pl/101/501/s917], Nov. 3, 1990, [104 Stat. 1265][/us/stat/104/1265].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 917, Nov. 3, 1990, [104 Stat. 1265][/us/stat/104/1265].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs917
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1265
 
 

@@ -37,13 +37,13 @@
 
         (3) other good cause found and published with the regulation.
 
-([Pub. L. 89–272, title II, § 3010][/us/pl/89/272/s3010], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2812][/us/stat/90/2812]; amended [Pub. L. 96–482, § 15][/us/pl/96/482/s15], Oct. 21, 1980, [94 Stat. 2342][/us/stat/94/2342]; [Pub. L. 98–616, title II][/us/pl/98/616], §§ 204(a), 234, Nov. 8, 1984, [98 Stat. 3235][/us/stat/98/3235], 3258.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3010, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2812][/us/stat/90/2812]; amended [Pub. L. 96–482][/us/pl/96/482], § 15, Oct. 21, 1980, [94 Stat. 2342][/us/stat/94/2342]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], §§ 204(a), 234, Nov. 8, 1984, [98 Stat. 3235][/us/stat/98/3235], 3258.)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 204(a)][/us/pl/98/616/s204/a], inserted provisions after first sentence relating to burning and blending of hazardous wastes and substituted “the preceding provisions” for “the preceding sentence” in three places.
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 204(a), inserted provisions after first sentence relating to burning and blending of hazardous wastes and substituted “the preceding provisions” for “the preceding sentence” in three places.
 
-    Subsec. (b). [Pub. L. 98–616, § 234][/us/pl/98/616/s234], inserted provision that at the time a regulation is promulgated, the Administrator may provide for a shorter period prior to the effective date, or an immediate effective date for a regulation with which the Administrator finds the regulated community does not need six months to come into compliance, a regulation which responds to an emergency situation, or other good cause found and published with the regulation.
+    Subsec. (b). [Pub. L. 98–616][/us/pl/98/616], § 234, inserted provision that at the time a regulation is promulgated, the Administrator may provide for a shorter period prior to the effective date, or an immediate effective date for a regulation with which the Administrator finds the regulated community does not need six months to come into compliance, a regulation which responds to an emergency situation, or other good cause found and published with the regulation.
 
     1980—Subsec. (a). [Pub. L. 96–482][/us/pl/96/482] struck out “or revision” after “after promulgation or revision of regulations” and inserted provision for filing of notification when revising any regulation identifying additional characteristics of hazardous waste or listing any additional substance as hazardous waste subject to this subchapter.
 
@@ -70,15 +70,15 @@
 [/us/usc/t42/s6935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/usc/t42/s6926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6926
-[/us/pl/89/272/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3010
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2812
-[/us/pl/96/482/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs15
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2342
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3235
-[/us/pl/98/616/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs204%2Fa
-[/us/pl/98/616/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs234
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 

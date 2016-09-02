@@ -157,11 +157,11 @@
 
         This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[[43 U.S.C. 390b][/us/usc/t43/s390b]\].
 
-([Pub. L. 91–611, title II, § 221][/us/pl/91/611/s221], Dec. 31, 1970, [84 Stat. 1831][/us/stat/84/1831]; [Pub. L. 92–222, § 4][/us/pl/92/222/s4], Dec. 23, 1971, [85 Stat. 799][/us/stat/85/799]; [Pub. L. 99–662, title IX, § 912(a)][/us/pl/99/662/s912/a], Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189]; [Pub. L. 104–106, div. A, title X, § 1064(d)][/us/pl/104/106/s1064/d], Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445]; [Pub. L. 104–303, title II, § 220][/us/pl/104/303/s220], Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 106–541, title II, § 201][/us/pl/106/541/s201], Dec. 11, 2000, [114 Stat. 2587][/us/stat/114/2587]; [Pub. L. 110–114, title II, § 2003(a)][/us/pl/110/114/s2003/a]–(c), Nov. 8, 2007, [121 Stat. 1067][/us/stat/121/1067], 1069; [Pub. L. 113–121, title I, § 1018(a)][/us/pl/113/121/s1018/a], June 10, 2014, [128 Stat. 1224][/us/stat/128/1224].)
+([Pub. L. 91–611, title II][/us/pl/91/611/tII], § 221, Dec. 31, 1970, [84 Stat. 1831][/us/stat/84/1831]; [Pub. L. 92–222][/us/pl/92/222], § 4, Dec. 23, 1971, [85 Stat. 799][/us/stat/85/799]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 912(a), Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1064(d), Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 220, Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 106–541, title II][/us/pl/106/541/tII], § 201, Dec. 11, 2000, [114 Stat. 2587][/us/stat/114/2587]; [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2003(a)–(c), Nov. 8, 2007, [121 Stat. 1067][/us/stat/121/1067], 1069; [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1018(a), June 10, 2014, [128 Stat. 1224][/us/stat/128/1224].)
 
  __References in Text__ 
 
-    The Water Supply Act of 1958, as amended, referred to in subsec. (h), is [Pub. L. 85–500, title III, § 301][/us/pl/85/500/s301], July 3, 1958, [72 Stat. 319][/us/stat/72/319], as amended, which is classified to [section 390b of Title 43][/us/usc/t43/s390b], Public Lands.
+    The Water Supply Act of 1958, as amended, referred to in subsec. (h), is [Pub. L. 85–500, title III][/us/pl/85/500/tIII], § 301, July 3, 1958, [72 Stat. 319][/us/stat/72/319], as amended, which is classified to [section 390b of Title 43][/us/usc/t43/s390b], Public Lands.
 
  __Codification__ 
 
@@ -169,25 +169,25 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(4)(A). [Pub. L. 113–121, § 1018(a)(1)][/us/pl/113/121/s1018/a/1], inserted “or a project under an environmental infrastructure assistance program” after “law” in introductory provisions.
+    2014—Subsec. (a)(4)(A). [Pub. L. 113–121][/us/pl/113/121], § 1018(a)(1), inserted “or a project under an environmental infrastructure assistance program” after “law” in introductory provisions.
 
-    Subsec. (a)(4)(C). [Pub. L. 113–121, § 1018(a)(2)][/us/pl/113/121/s1018/a/2], added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: “In any case in which the non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.”
+    Subsec. (a)(4)(C). [Pub. L. 113–121][/us/pl/113/121], § 1018(a)(2), added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: “In any case in which the non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.”
 
-    Subsec. (a)(4)(D)(iii). [Pub. L. 113–121, § 1018(a)(3)][/us/pl/113/121/s1018/a/3], substituted “sections 2211(a)(2) and 2213(a)(1)(A) of title 33” for “sections 2211 and 2213 of title 33”.
+    Subsec. (a)(4)(D)(iii). [Pub. L. 113–121][/us/pl/113/121], § 1018(a)(3), substituted “sections 2211(a)(2) and 2213(a)(1)(A) of title 33” for “sections 2211 and 2213 of title 33”.
 
-    Subsec. (a)(4)(E) to (H). [Pub. L. 113–121, § 1018(a)(4)][/us/pl/113/121/s1018/a/4], (5), added subpars. (E) to (G) and redesignated former subpar. (E) as (H).
+    Subsec. (a)(4)(E) to (H). [Pub. L. 113–121][/us/pl/113/121], § 1018(a)(4), (5), added subpars. (E) to (G) and redesignated former subpar. (E) as (H).
 
-    Subsec. (a)(4)(H)(i). [Pub. L. 113–121, § 1018(a)(6)(A)][/us/pl/113/121/s1018/a/6/A], inserted “, and to water resources projects authorized prior to November 17, 1986, if correction of design deficiencies is necessary” before period at end.
+    Subsec. (a)(4)(H)(i). [Pub. L. 113–121][/us/pl/113/121], § 1018(a)(6)(A), inserted “, and to water resources projects authorized prior to November 17, 1986, if correction of design deficiencies is necessary” before period at end.
 
-    Subsec. (a)(4)(H)(ii). [Pub. L. 113–121, § 1018(a)(6)(B)][/us/pl/113/121/s1018/a/6/B], added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “In any case in which a specific provision of law provides for a non-Federal interest to receive credit toward the non-Federal share of the cost of a study for, or construction or operation and maintenance of, a water resources project, the specific provision of law shall apply instead of this paragraph.”
+    Subsec. (a)(4)(H)(ii). [Pub. L. 113–121][/us/pl/113/121], § 1018(a)(6)(B), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “In any case in which a specific provision of law provides for a non-Federal interest to receive credit toward the non-Federal share of the cost of a study for, or construction or operation and maintenance of, a water resources project, the specific provision of law shall apply instead of this paragraph.”
 
-    2007—[Pub. L. 110–114, § 2003(a)(1)][/us/pl/110/114/s2003/a/1], inserted section catchline.
+    2007—[Pub. L. 110–114][/us/pl/110/114], § 2003(a)(1), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 110–114, § 2003(a)(2)][/us/pl/110/114/s2003/a/2], added subsec. (a) and struck out former subsec. (a), which read as follows: “After December 31, 1970, the construction of any water resources project, or an acceptable separable element thereof, by the Secretary of the Army, acting through the Chief of Engineers, or by a non-Federal interest where such interest will be reimbursed for such construction under the provisions of [section 1962d–5a of this title][/us/usc/t42/s1962d–5a] or under any other provision of law, shall not be commenced until each non-Federal interest has entered into a written agreement with the Secretary of the Army to furnish its required cooperation for the project or the appropriate element of the project, as the case may be; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000. In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.”
+    Subsec. (a). [Pub. L. 110–114][/us/pl/110/114], § 2003(a)(2), added subsec. (a) and struck out former subsec. (a), which read as follows: “After December 31, 1970, the construction of any water resources project, or an acceptable separable element thereof, by the Secretary of the Army, acting through the Chief of Engineers, or by a non-Federal interest where such interest will be reimbursed for such construction under the provisions of [section 1962d–5a of this title][/us/usc/t42/s1962d–5a] or under any other provision of law, shall not be commenced until each non-Federal interest has entered into a written agreement with the Secretary of the Army to furnish its required cooperation for the project or the appropriate element of the project, as the case may be; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000. In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.”
 
-    Subsec. (b). [Pub. L. 110–114, § 2003(b)][/us/pl/110/114/s2003/b], inserted heading and amended text generally. Prior to amendment, text read as follows: “A non-Federal interest shall be a legally constituted public body with full authority and capability to perform the terms of its agreement and to pay damages, if necessary, in the event of failure to perform.”
+    Subsec. (b). [Pub. L. 110–114][/us/pl/110/114], § 2003(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “A non-Federal interest shall be a legally constituted public body with full authority and capability to perform the terms of its agreement and to pay damages, if necessary, in the event of failure to perform.”
 
-    Subsecs. (e) to (h). [Pub. L. 110–114, § 2003(c)][/us/pl/110/114/s2003/c], added subsecs. (e) to (g) and redesignated former subsec. (e) as (h).
+    Subsecs. (e) to (h). [Pub. L. 110–114][/us/pl/110/114], § 2003(c), added subsecs. (e) to (g) and redesignated former subsec. (e) as (h).
 
     2000—Subsec. (a). [Pub. L. 106–541][/us/pl/106/541] in last sentence, struck out “State legislative” after “obligate future”, substituted “constitutional” for “State constitutional”, and inserted “of the State or a political subdivision of the State” before period at end.
 
@@ -201,19 +201,19 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–121, title I, § 1018(c)][/us/pl/113/121/s1018/c], June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that: 
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1018(c), June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under this section\] take effect on November 8, 2007.”
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–114, title II, § 2003(e)][/us/pl/110/114/s2003/e], Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], as amended by [Pub. L. 113–121, title I, § 1018(b)][/us/pl/113/121/s1018/b], June 10, 2014, [128 Stat. 1225][/us/stat/128/1225], provided that: 
+[Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2003(e), Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], as amended by [Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1018(b), June 10, 2014, [128 Stat. 1225][/us/stat/128/1225], provided that: 
 
 > “The amendments made by subsections (a), (b), and (d) \[amending this section and provisions set out as a note under this section\] only apply to partnership agreements entered into after the date of enactment of this Act \[Nov. 8, 2007\]; except that, at the request of a non-Federal interest for a project, the district engineer for the district in which the project is located may amend a project partnership agreement entered into on or before such date and under which construction on the project, or construction of design deficiency corrections on the project, has not been initiated, or under which construction of the project has not been completed and the work to be performed by the non-Federal interests has not been carried out and is creditable only toward any remaining non-Federal cost share, as of such date of enactment for the purpose of incorporating such amendments.”
 
  __Guidelines__ 
 
-[Pub. L. 113–121, title I, § 1018(d)][/us/pl/113/121/s1018/d], June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that:
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1018(d), June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -241,13 +241,13 @@
 
  __Other Credit__ 
 
-[Pub. L. 113–121, title I, § 1018(e)][/us/pl/113/121/s1018/e], June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that: 
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1018(e), June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that: 
 
 > “Nothing in section 221(a)(4) of the Flood Control Act of 1970 ([42 U.S.C. 1962d–5b(a)(4)][/us/usc/t42/s1962d–5b/a/4]) (as amended by subsection (a)) affects any eligibility for credit under section 104 of the Water Resources Development \[Act\] of 1986 ([33 U.S.C. 2214][/us/usc/t33/s2214]) that was approved by the Secretary \[of the Army\] prior to the date of enactment of this Act \[June 10, 2014\].”
 
  __Partnership and Cooperation Agreements; References__ 
 
-[Pub. L. 110–114, title II, § 2003(f)][/us/pl/110/114/s2003/f], Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], provided that:
+[Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2003(f), Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -263,7 +263,7 @@
 
  __Compliance With Cooperation Requirements for Non-Federal Interests in Water Resources Projects__ 
 
-[Pub. L. 99–662, title IX, § 912(b)][/us/pl/99/662/s912/b], Nov. 17, 1986, [100 Stat. 4190][/us/stat/100/4190], as amended by [Pub. L. 110–114, title II, § 2003(d)][/us/pl/110/114/s2003/d], Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], provided that:
+[Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 912(b), Nov. 17, 1986, [100 Stat. 4190][/us/stat/100/4190], as amended by [Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2003(d), Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], provided that:
 
 >     “(1) The Secretary may require compliance with any requirements pertaining to cooperation by non-Federal interests in carrying out any water resources project authorized before, on, or after the date of enactment of this Act \[Nov. 17, 1986\].
 
@@ -283,61 +283,61 @@
 ----------
 
 [/us/usc/t43/s390b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390b
-[/us/pl/91/611/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2Fs221
+[/us/pl/91/611/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611%2FtII
 [/us/stat/84/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1831
-[/us/pl/92/222/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F222%2Fs4
+[/us/pl/92/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F222
 [/us/stat/85/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F799
-[/us/pl/99/662/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs912%2Fa
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4189
-[/us/pl/104/106/s1064/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1064%2Fd
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F445
-[/us/pl/104/303/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs220
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3696
-[/us/pl/106/541/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs201
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2587
-[/us/pl/110/114/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fa
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1067
-[/us/pl/113/121/s1018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1224
-[/us/pl/85/500/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2Fs301
+[/us/pl/85/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2FtIII
 [/us/stat/72/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F319
 [/us/usc/t43/s390b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390b
-[/us/pl/113/121/s1018/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F1
-[/us/pl/113/121/s1018/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F2
-[/us/pl/113/121/s1018/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F3
-[/us/pl/113/121/s1018/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F4
-[/us/pl/113/121/s1018/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F6%2FA
-[/us/pl/113/121/s1018/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F6%2FB
-[/us/pl/110/114/s2003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fa%2F1
-[/us/pl/110/114/s2003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fa%2F2
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/usc/t42/s1962d–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935a
-[/us/pl/110/114/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fb
-[/us/pl/110/114/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fc
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
+[/us/pl/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114
 [/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/92/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F222
-[/us/pl/113/121/s1018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fc
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1226
-[/us/pl/110/114/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fe
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1070
-[/us/pl/113/121/s1018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fb
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1225
-[/us/pl/113/121/s1018/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fd
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1226
 [/us/usc/t42/s1962d–5b/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b%2Fa%2F4
-[/us/pl/113/121/s1018/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fe
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1226
 [/us/usc/t42/s1962d–5b/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b%2Fa%2F4
 [/us/usc/t33/s2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2214
-[/us/pl/110/114/s2003/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Ff
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1070
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
-[/us/pl/99/662/s912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs912%2Fb
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4190
-[/us/pl/110/114/s2003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fd
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1070
 [/us/pl/91/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611
 

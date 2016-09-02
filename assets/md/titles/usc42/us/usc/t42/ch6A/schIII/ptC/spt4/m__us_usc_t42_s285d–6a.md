@@ -39,7 +39,7 @@
 
         (6) Information and education programs for health care professionals and the public.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 441A, as added [Pub. L. 106–505, title V, § 511][/us/pl/106/505/s511], Nov. 13, 2000, [114 Stat. 2342][/us/stat/114/2342]; amended [Pub. L. 109–482, title I, § 103(b)(22)][/us/pl/109/482/s103/b/22], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 441A, as added [Pub. L. 106–505, title V][/us/pl/106/505/tV], § 511, Nov. 13, 2000, [114 Stat. 2342][/us/stat/114/2342]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(22), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–505, title V, § 502][/us/pl/106/505/s502], Nov. 13, 2000, [114 Stat. 2342][/us/stat/114/2342], provided that: 
+[Pub. L. 106–505, title V][/us/pl/106/505/tV], § 502, Nov. 13, 2000, [114 Stat. 2342][/us/stat/114/2342], provided that: 
 
 > “The Congress finds that—
 
@@ -83,15 +83,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs511
+[/us/pl/106/505/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtV
 [/us/stat/114/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2342
-[/us/pl/109/482/s103/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F22
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/106/505/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs502
+[/us/pl/106/505/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtV
 [/us/stat/114/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2342
 
 

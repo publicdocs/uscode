@@ -27,7 +27,7 @@
 
         [Section 1693r of title 15][/us/usc/t15/s1693r] shall not apply to electronic benefit transfer systems established under this chapter or the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.).
 
-([Pub. L. 89–642, § 11][/us/pl/89/642/s11], Oct. 11, 1966, [80 Stat. 889][/us/stat/80/889]; [Pub. L. 97–35, title VIII, § 819(f)][/us/pl/97/35/s819/f], Aug. 13, 1981, [95 Stat. 533][/us/stat/95/533]; [Pub. L. 104–193, title VII, § 726][/us/pl/104/193/s726], Aug. 22, 1996, [110 Stat. 2302][/us/stat/110/2302]; [Pub. L. 111–203, title X, § 1075(d)][/us/pl/111/203/s1075/d], July 21, 2010, [124 Stat. 2074][/us/stat/124/2074].)
+([Pub. L. 89–642][/us/pl/89/642], § 11, Oct. 11, 1966, [80 Stat. 889][/us/stat/80/889]; [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 819(f), Aug. 13, 1981, [95 Stat. 533][/us/stat/95/533]; [Pub. L. 104–193, title VII][/us/pl/104/193/tVII], § 726, Aug. 22, 1996, [110 Stat. 2302][/us/stat/110/2302]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1075(d), July 21, 2010, [124 Stat. 2074][/us/stat/124/2074].)
 
  __References in Text__ 
 
@@ -58,13 +58,13 @@
 
 [/us/usc/t15/s1693r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693r
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/89/642/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs11
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F889
-[/us/pl/97/35/s819/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs819%2Ff
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F533
-[/us/pl/104/193/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs726
+[/us/pl/104/193/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVII
 [/us/stat/110/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2302
-[/us/pl/111/203/s1075/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1075%2Fd
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2074
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230

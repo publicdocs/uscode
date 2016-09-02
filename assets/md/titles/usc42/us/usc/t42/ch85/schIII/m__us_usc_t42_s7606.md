@@ -31,7 +31,7 @@
 
         The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 306, as added [Pub. L. 91–604, § 12(a)][/us/pl/91/604/s12/a], Dec. 31, 1970, [84 Stat. 1707][/us/stat/84/1707]; amended [Pub. L. 101–549, title VII, § 705][/us/pl/101/549/s705], Nov. 15, 1990, [104 Stat. 2682][/us/stat/104/2682].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 306, as added [Pub. L. 91–604][/us/pl/91/604], § 12(a), Dec. 31, 1970, [84 Stat. 1707][/us/stat/84/1707]; amended [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 705, Nov. 15, 1990, [104 Stat. 2682][/us/stat/104/2682].)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 306 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, as added Nov. 21, 1967, [Pub. L. 90–148, § 2][/us/pl/90/148/s2], [81 Stat. 506][/us/stat/81/506], was renumbered section 313 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7613 of this title][/us/usc/t42/s7613].
+    A prior section 306 of [act July 14, 1955, ch. 360, title III][/us/act/1955-07-14/ch360/tIII], as added Nov. 21, 1967, [Pub. L. 90–148][/us/pl/90/148], § 2, [81 Stat. 506][/us/stat/81/506], was renumbered section 313 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7613 of this title][/us/usc/t42/s7613].
 
-    Another prior section 306 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, formerly § 13, as added Dec. 17, 1963, [Pub. L. 88–206, § 1][/us/pl/88/206/s1], [77 Stat. 401][/us/stat/77/401], renumbered § 306, Oct. 20, 1965, [Pub. L. 89–272, title I, § 101(4)][/us/pl/89/272/s101/4], [79 Stat. 992][/us/stat/79/992], renumbered § 309, Nov. 21, 1967, [Pub. L. 90–148, § 2][/us/pl/90/148/s2], [81 Stat. 506][/us/stat/81/506], renumbered § 316, Dec. 31, 1970, [Pub. L. 91–604, § 12(a)][/us/pl/91/604/s12/a], [84 Stat. 1705][/us/stat/84/1705], related to appropriations and was classified to section 1857l of this title, prior to repeal by [section 306 of Pub. L. 95–95][/us/pl/95/95/s306]. See [section 7626 of this title][/us/usc/t42/s7626].
+    Another prior section 306 of [act July 14, 1955, ch. 360, title III][/us/act/1955-07-14/ch360/tIII], formerly § 13, as added Dec. 17, 1963, [Pub. L. 88–206][/us/pl/88/206], § 1, [77 Stat. 401][/us/stat/77/401], renumbered § 306, Oct. 20, 1965, [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(4), [79 Stat. 992][/us/stat/79/992], renumbered § 309, Nov. 21, 1967, [Pub. L. 90–148][/us/pl/90/148], § 2, [81 Stat. 506][/us/stat/81/506], renumbered § 316, Dec. 31, 1970, [Pub. L. 91–604][/us/pl/91/604], § 12(a), [84 Stat. 1705][/us/stat/84/1705], related to appropriations and was classified to section 1857l of this title, prior to repeal by [section 306 of Pub. L. 95–95][/us/pl/95/95/s306]. See [section 7626 of this title][/us/usc/t42/s7626].
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Federal Acquisition Regulation: Contractor Certification or Contract Clause for Acquisition of Commercial Items__ 
 
-[Pub. L. 103–355, title VIII, § 8301(g)][/us/pl/103/355/s8301/g], Oct. 13, 1994, [108 Stat. 3397][/us/stat/108/3397], provided that: 
+[Pub. L. 103–355, title VIII][/us/pl/103/355/tVIII], § 8301(g), Oct. 13, 1994, [108 Stat. 3397][/us/stat/108/3397], provided that: 
 
 > “The Federal Acquisition Regulation may not contain a requirement for a certification by a contractor under a contract for the acquisition of commercial items, or a requirement that such a contract include a contract clause, in order to implement a prohibition or requirement of section 306 of the Clean Air Act ([42 U.S.C. 7606][/us/usc/t42/s7606]) or a prohibition or requirement issued in the implementation of that section, since there is nothing in such section 306 that requires such a certification or contract clause.”
 
@@ -113,32 +113,32 @@ By virtue of the authority vested in me by the provisions of the Clean Air Act, 
 [/us/usc/t42/s7413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fc
 [/us/usc/t42/s7413/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fc%2F2
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs12%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1707
-[/us/pl/101/549/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs705
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2682
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t42/s1857h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857h%E2%80%934
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/act/1955-07-14/ch360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtIII
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F506
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7613
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/act/1955-07-14/ch360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtIII
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F401
-[/us/pl/89/272/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F4
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F506
-[/us/pl/91/604/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs12%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1705
 [/us/pl/95/95/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs306
 [/us/usc/t42/s7626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7626
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7413/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fc%2F2
-[/us/pl/103/355/s8301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs8301%2Fg
+[/us/pl/103/355/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVIII
 [/us/stat/108/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3397
 [/us/usc/t42/s7606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7606
 [/us/usc/t42/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857

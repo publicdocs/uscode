@@ -19,7 +19,7 @@
 
     (b) The Director of the Institute shall establish a National Deafness and Other Communication Disorders Information Clearinghouse to facilitate and enhance, through the effective dissemination of information, knowledge and understanding of disorders of hearing and other communication processes by health professionals, patients, industry, and the public.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464B, as added [Pub. L. 100–553, § 2(4)][/us/pl/100/553/s2/4], Oct. 28, 1988, [102 Stat. 2770][/us/stat/102/2770], and [Pub. L. 100–607, title I, § 101(4)][/us/pl/100/607/s101/4], Nov. 4, 1988, [102 Stat. 3050][/us/stat/102/3050]; amended [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464B, as added [Pub. L. 100–553][/us/pl/100/553], § 2(4), Oct. 28, 1988, [102 Stat. 2770][/us/stat/102/2770], and [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 101(4), Nov. 4, 1988, [102 Stat. 3050][/us/stat/102/3050]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238].)
 
  __Codification__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/553/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs2%2F4
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2770
-[/us/pl/100/607/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs101%2F4
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3050
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Chairman (or the head of any agency which assumes the functions of the Project pursuant to [section 5565 of this title][/us/usc/t42/s5565]) shall keep the appropriate committees of the House of Representatives and the Senate fully and currently informed with respect to all activities under this subchapter.
 
-([Pub. L. 93–473, § 14][/us/pl/93/473/s14], Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
+([Pub. L. 93–473][/us/pl/93/473], § 14, Oct. 26, 1974, [88 Stat. 1437][/us/stat/88/1437].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s5565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5565
-[/us/pl/93/473/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs14
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1437
 
 

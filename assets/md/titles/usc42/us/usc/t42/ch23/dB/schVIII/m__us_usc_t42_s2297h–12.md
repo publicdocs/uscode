@@ -41,11 +41,11 @@
 
         With respect to any right, title, or interest provided to the Corporation under subsection (a) or (b) of this section, the Corporation shall have sole liability for any payments made or awards under section 157b.(3) of the Atomic Energy Act of 1954 ([42 U.S.C. 2187(b)(3)][/us/usc/t42/s2187/b/3]), or any settlements or judgments involving claims for alleged patent infringement. Any royalty agreement under subsection (a) of this section shall provide for a reduction of royalty payments to the Secretary to offset any payments, awards, settlements, or judgments under this subsection.
 
-([Pub. L. 104–134, title III, § 3114][/us/pl/104/134/s3114], Apr. 26, 1996, [110 Stat. 1321–348][/us/stat/110/1321-348].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3114, Apr. 26, 1996, [110 Stat. 1321–348][/us/stat/110/1321-348].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (b)(1), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter (§ 2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (b)(1), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter (§ 2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Codification__ 
 
@@ -60,10 +60,10 @@
 
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2187/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2187%2Fb%2F3
-[/us/pl/104/134/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3114
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-348
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 

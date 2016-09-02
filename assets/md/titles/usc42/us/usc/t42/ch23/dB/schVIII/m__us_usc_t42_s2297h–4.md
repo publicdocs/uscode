@@ -29,7 +29,7 @@
 
     (6) all of the Corporation’s records, including all of the papers and other documentary materials, regardless of physical form or characteristics, made or received by the Corporation.
 
-([Pub. L. 104–134, title III, § 3106][/us/pl/104/134/s3106], Apr. 26, 1996, [110 Stat. 1321–338][/us/stat/110/1321-338].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3106, Apr. 26, 1996, [110 Stat. 1321–338][/us/stat/110/1321-338].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s2297h–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%935
 [/us/usc/t42/s2297h–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%936%2Fa
 [/us/usc/t42/s2297h–6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%936%2Fb
-[/us/pl/104/134/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3106
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-338
 
 

@@ -59,11 +59,11 @@
 
         (9) to maintain the United States as the world leader in magnetic fusion.
 
-([Pub. L. 96–386, § 2][/us/pl/96/386/s2], Oct. 7, 1980, [94 Stat. 1539][/us/stat/94/1539].)
+([Pub. L. 96–386][/us/pl/96/386], § 2, Oct. 7, 1980, [94 Stat. 1539][/us/stat/94/1539].)
 
  __Short Title__ 
 
-[Pub. L. 96–386, § 1][/us/pl/96/386/s1], Oct. 7, 1980, [94 Stat. 1539][/us/stat/94/1539], provided: 
+[Pub. L. 96–386][/us/pl/96/386], § 1, Oct. 7, 1980, [94 Stat. 1539][/us/stat/94/1539], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Magnetic Fusion Energy Engineering Act of 1980’.”
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/96/386/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs2
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1539
-[/us/pl/96/386/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386%2Fs1
+[/us/pl/96/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F386
 [/us/stat/94/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1539
 
 

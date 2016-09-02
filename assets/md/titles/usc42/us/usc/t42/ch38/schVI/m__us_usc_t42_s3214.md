@@ -41,13 +41,13 @@
 
             (B) may, to the extent necessary to carry out this chapter, be transferred to and merged by the Secretary with the appropriations for salaries and expenses.
 
-([Pub. L. 89–136, title VI, § 604][/us/pl/89/136/s604], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3614][/us/stat/112/3614].)
+([Pub. L. 89–136, title VI][/us/pl/89/136/tVI], § 604, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3614][/us/stat/112/3614].)
 
  __Prior Provisions__ 
 
-    A prior section 3214, [Pub. L. 89–136, title VII, § 704][/us/pl/89/136/s704], Aug. 26, 1965, [79 Stat. 572][/us/stat/79/572]; [Pub. L. 94–487, title I, § 120][/us/pl/94/487/s120], Oct. 12, 1976, [90 Stat. 2336][/us/stat/90/2336], related to transfer of functions of Area Redevelopment Administration, prior to repeal by [Pub. L. 105–393, § 102(b)(3)][/us/pl/105/393/s102/b/3].
+    A prior section 3214, [Pub. L. 89–136, title VII][/us/pl/89/136/tVII], § 704, Aug. 26, 1965, [79 Stat. 572][/us/stat/79/572]; [Pub. L. 94–487, title I][/us/pl/94/487/tI], § 120, Oct. 12, 1976, [90 Stat. 2336][/us/stat/90/2336], related to transfer of functions of Area Redevelopment Administration, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(b)(3).
 
-    A prior [section 604 of Pub. L. 89–136][/us/pl/89/136/s604] was classified to [section 3204 of this title][/us/usc/t42/s3204] prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior [section 604 of Pub. L. 89–136][/us/pl/89/136/s604] was classified to [section 3204 of this title][/us/usc/t42/s3204] prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
 ----------
 
@@ -56,16 +56,16 @@
 ----------
 ----------
 
-[/us/pl/89/136/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs604
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVI
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3614
-[/us/pl/89/136/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs704
+[/us/pl/89/136/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVII
 [/us/stat/79/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F572
-[/us/pl/94/487/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2Fs120
+[/us/pl/94/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2FtI
 [/us/stat/90/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2336
-[/us/pl/105/393/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fb%2F3
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/pl/89/136/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs604
 [/us/usc/t42/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3204
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 
 

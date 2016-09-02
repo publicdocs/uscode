@@ -101,35 +101,35 @@
 
             (B) For purposes of subparagraph (A), a court order is not “final” if time remains for an appeal or application for discretionary review with respect to the order.
 
-([Pub. L. 103–322, title XXI, § 210304][/us/pl/103/322/s210304], Sept. 13, 1994, [108 Stat. 2069][/us/stat/108/2069]; [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title I, § 120\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–23; [Pub. L. 106–546, § 6(b)][/us/pl/106/546/s6/b], Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733]; [Pub. L. 108–405, title II, § 203(a)][/us/pl/108/405/s203/a], (d), title III, § 302, Oct. 30, 2004, [118 Stat. 2269][/us/stat/118/2269], 2270, 2272; [Pub. L. 109–162, title X, § 1002][/us/pl/109/162/s1002], Jan. 5, 2006, [119 Stat. 3084][/us/stat/119/3084].)
+([Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210304, Sept. 13, 1994, [108 Stat. 2069][/us/stat/108/2069]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title I, § 120\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–23; [Pub. L. 106–546][/us/pl/106/546], § 6(b), Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733]; [Pub. L. 108–405, title II][/us/pl/108/405/tII], § 203(a), (d), title III, § 302, Oct. 30, 2004, [118 Stat. 2269][/us/stat/118/2269], 2270, 2272; [Pub. L. 109–162, title X][/us/pl/109/162/tX], § 1002, Jan. 5, 2006, [119 Stat. 3084][/us/stat/119/3084].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1)(C). [Pub. L. 109–162, § 1002(1)][/us/pl/109/162/s1002/1], struck out “DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and” after “provided that”.
+    2006—Subsec. (a)(1)(C). [Pub. L. 109–162][/us/pl/109/162], § 1002(1), struck out “DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and” after “provided that”.
 
-    Subsec. (d)(1)(A). [Pub. L. 109–162, § 1002(2)][/us/pl/109/162/s1002/2], added subpar. (A) and struck out former subpar. (A), which read as follows: “The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) of this section the DNA analysis of a person included in the index on the basis of a qualifying Federal offense or a qualifying District of Columbia offense (as determined under sections 14135a and 14135b of this title, respectively) if the Director receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.”
+    Subsec. (d)(1)(A). [Pub. L. 109–162][/us/pl/109/162], § 1002(2), added subpar. (A) and struck out former subpar. (A), which read as follows: “The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) of this section the DNA analysis of a person included in the index on the basis of a qualifying Federal offense or a qualifying District of Columbia offense (as determined under sections 14135a and 14135b of this title, respectively) if the Director receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.”
 
-    Subsec. (d)(2)(A)(ii). [Pub. L. 109–162, § 1002(3)][/us/pl/109/162/s1002/3], substituted “the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.” for “all charges for which the analysis was or could have been included in the index have been dismissed or resulted in acquittal.”
+    Subsec. (d)(2)(A)(ii). [Pub. L. 109–162][/us/pl/109/162], § 1002(3), substituted “the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.” for “all charges for which the analysis was or could have been included in the index have been dismissed or resulted in acquittal.”
 
-    Subsec. (e). [Pub. L. 109–162, § 1002(4)][/us/pl/109/162/s1002/4], struck out heading and text of subsec. (e). Prior to amendment, text related to authority for keyboard searches.
+    Subsec. (e). [Pub. L. 109–162][/us/pl/109/162], § 1002(4), struck out heading and text of subsec. (e). Prior to amendment, text related to authority for keyboard searches.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–405, § 203(a)(1)][/us/pl/108/405/s203/a/1], substituted “of—” for “of persons convicted of crimes;” and added subpars (A) to (C).
+    2004—Subsec. (a)(1). [Pub. L. 108–405][/us/pl/108/405], § 203(a)(1), substituted “of—” for “of persons convicted of crimes;” and added subpars (A) to (C).
 
-    Subsec. (b)(2). [Pub. L. 108–405, § 302][/us/pl/108/405/s302], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “prepared by laboratories, and DNA analysts, that undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under [section 14131 of this title][/us/usc/t42/s14131]; and”.
+    Subsec. (b)(2). [Pub. L. 108–405][/us/pl/108/405], § 302, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “prepared by laboratories, and DNA analysts, that undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under [section 14131 of this title][/us/usc/t42/s14131]; and”.
 
-    Subsec. (d)(2)(A). [Pub. L. 108–405, § 203(a)(2)(B)][/us/pl/108/405/s203/a/2/B], (C), which directed that subsection (d)(2) be amended by substituting “; or” for period at end and by adding cl. (ii) at end, was executed by making the amendment to subpar. (A) of subsec. (d)(2) to reflect the probable intent of Congress.
+    Subsec. (d)(2)(A). [Pub. L. 108–405][/us/pl/108/405], § 203(a)(2)(B), (C), which directed that subsection (d)(2) be amended by substituting “; or” for period at end and by adding cl. (ii) at end, was executed by making the amendment to subpar. (A) of subsec. (d)(2) to reflect the probable intent of Congress.
 
-    [Pub. L. 108–405, § 203(a)(2)(A)][/us/pl/108/405/s203/a/2/A], substituted “if—” for “if” and inserted cl. (i) designation before “the responsible agency”.
+    [Pub. L. 108–405][/us/pl/108/405], § 203(a)(2)(A), substituted “if—” for “if” and inserted cl. (i) designation before “the responsible agency”.
 
-    Subsec. (e). [Pub. L. 108–405, § 203(d)][/us/pl/108/405/s203/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–405][/us/pl/108/405], § 203(d), added subsec. (e).
 
-    2000—Subsec. (b)(1). [Pub. L. 106–546, § 6(b)(1)][/us/pl/106/546/s6/b/1], inserted “(or the Secretary of Defense in accordance with [section 1565 of title 10][/us/usc/t10/s1565])” after “criminal justice agency”.
+    2000—Subsec. (b)(1). [Pub. L. 106–546][/us/pl/106/546], § 6(b)(1), inserted “(or the Secretary of Defense in accordance with [section 1565 of title 10][/us/usc/t10/s1565])” after “criminal justice agency”.
 
-    Subsec. (b)(2). [Pub. L. 106–546, § 6(b)(2)][/us/pl/106/546/s6/b/2], substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
+    Subsec. (b)(2). [Pub. L. 106–546][/us/pl/106/546], § 6(b)(2), substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
 
-    Subsec. (b)(3). [Pub. L. 106–546, § 6(b)(3)][/us/pl/106/546/s6/b/3], inserted “(or the Secretary of Defense in accordance with [section 1565 of title 10][/us/usc/t10/s1565])” after “criminal justice agencies” in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 106–546][/us/pl/106/546], § 6(b)(3), inserted “(or the Secretary of Defense in accordance with [section 1565 of title 10][/us/usc/t10/s1565])” after “criminal justice agencies” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 106–546, § 6(b)(4)][/us/pl/106/546/s6/b/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–546][/us/pl/106/546], § 6(b)(4), added subsec. (d).
 
     1999—Subsec. (a)(4). [Pub. L. 106–113][/us/pl/106/113] added par. (4).
 
@@ -146,32 +146,32 @@
 [/us/usc/t42/s14135a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135a
 [/us/usc/t42/s14135b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135b
 [/us/usc/t10/s1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565
-[/us/pl/103/322/s210304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210304
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2069
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/546/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs6%2Fb
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2733
-[/us/pl/108/405/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fa
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2269
-[/us/pl/109/162/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1002
+[/us/pl/109/162/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtX
 [/us/stat/119/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3084
-[/us/pl/109/162/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1002%2F1
-[/us/pl/109/162/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1002%2F2
-[/us/pl/109/162/s1002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1002%2F3
-[/us/pl/109/162/s1002/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1002%2F4
-[/us/pl/108/405/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fa%2F1
-[/us/pl/108/405/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs302
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 [/us/usc/t42/s14131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14131
-[/us/pl/108/405/s203/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fa%2F2%2FB
-[/us/pl/108/405/s203/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fa%2F2%2FA
-[/us/pl/108/405/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fd
-[/us/pl/106/546/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs6%2Fb%2F1
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/usc/t10/s1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565
-[/us/pl/106/546/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs6%2Fb%2F2
-[/us/pl/106/546/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs6%2Fb%2F3
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/usc/t10/s1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565
-[/us/pl/106/546/s6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs6%2Fb%2F4
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 
 

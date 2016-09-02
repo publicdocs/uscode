@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_ch30_schII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptC/m__us_usc_t42_s2610a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_s2601...2603.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptC/m__us_usc_t42_s2610a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptC)
 
 #### Part C—Redevelopment Areas
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_ch30_schII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptC/m__us_usc_t42_s2610a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_s2601...2603.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptC/m__us_usc_t42_s2610a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschII%2FptC)
 
 ----------
 ----------

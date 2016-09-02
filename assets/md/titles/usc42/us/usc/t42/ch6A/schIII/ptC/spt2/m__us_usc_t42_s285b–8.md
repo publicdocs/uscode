@@ -37,11 +37,11 @@
 
         In carrying out the activities described in this section, the Director of the Institute shall consider the application of such research and other activities to minority and medically underserved communities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 425, as added [Pub. L. 111–148, title X, § 10411(b)(2)][/us/pl/111/148/s10411/b/2], Mar. 23, 2010, [124 Stat. 989][/us/stat/124/989].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 425, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10411(b)(2), Mar. 23, 2010, [124 Stat. 989][/us/stat/124/989].)
 
  __Prior Provisions__ 
 
-    A prior section 285b–8, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 425, as added [Pub. L. 103–43, title V, § 504][/us/pl/103/43/s504], June 10, 1993, [107 Stat. 160][/us/stat/107/160], authorized appropriations to carry out this subpart, prior to repeal by [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(20), 109, Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3697, applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years.
+    A prior section 285b–8, [act July 1, 1944, ch. 373, title IV][/us/act/1944-07-01/ch373/tIV], § 425, as added [Pub. L. 103–43, title V][/us/pl/103/43/tV], § 504, June 10, 1993, [107 Stat. 160][/us/stat/107/160], authorized appropriations to carry out this subpart, prior to repeal by [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 103(b)(20), 109, Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3697, applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years.
 
 ----------
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10411%2Fb%2F2
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F989
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs504
+[/us/act/1944-07-01/ch373/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIV
+[/us/pl/103/43/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtV
 [/us/stat/107/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F160
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 
 

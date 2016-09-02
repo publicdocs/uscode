@@ -121,7 +121,7 @@
 
         There is authorized to be appropriated to carry out this section $250,000,000.
 
-([Pub. L. 109–58, title IX, § 942][/us/pl/109/58/s942], Aug. 8, 2005, [119 Stat. 878][/us/stat/119/878].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 942, Aug. 8, 2005, [119 Stat. 878][/us/stat/119/878].)
 
 ----------
 
@@ -130,7 +130,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs942
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F878
 
 

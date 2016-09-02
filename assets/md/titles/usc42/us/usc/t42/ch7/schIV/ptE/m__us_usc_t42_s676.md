@@ -71,7 +71,7 @@
 
             There is appropriated to the Secretary, out of any money in the Treasury of the United States not otherwise appropriated, $3,000,000 for fiscal year 2009 and each fiscal year thereafter to carry out this subsection.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 476, as added [Pub. L. 96–272, title I, § 101(a)(1)][/us/pl/96/272/s101/a/1], June 17, 1980, [94 Stat. 511][/us/stat/94/511]; amended [Pub. L. 110–351, title III, § 302][/us/pl/110/351/s302], Oct. 7, 2008, [122 Stat. 3972][/us/stat/122/3972].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 476, as added [Pub. L. 96–272, title I][/us/pl/96/272/tI], § 101(a)(1), June 17, 1980, [94 Stat. 511][/us/stat/94/511]; amended [Pub. L. 110–351, title III][/us/pl/110/351/tIII], § 302, Oct. 7, 2008, [122 Stat. 3972][/us/stat/122/3972].)
 
  __Amendments__ 
 
@@ -97,9 +97,9 @@
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/usc/t42/s679c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679c
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/272/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs101%2Fa%2F1
+[/us/pl/96/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtI
 [/us/stat/94/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F511
-[/us/pl/110/351/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs302
+[/us/pl/110/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2FtIII
 [/us/stat/122/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3972
 [/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
 [/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351

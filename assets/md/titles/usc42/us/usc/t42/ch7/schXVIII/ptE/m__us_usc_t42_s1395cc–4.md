@@ -289,7 +289,7 @@
 
         Chapter 35 of title 44 shall not apply to the selection, testing, and evaluation of models or the expansion of such models under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866D, as added and amended [Pub. L. 111–148, title III, § 3023][/us/pl/111/148/s3023], title X, § 10308(a), (b)(1), Mar. 23, 2010, [124 Stat. 399][/us/stat/124/399], 941, 942.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866D, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3023, title X, § 10308(a), (b)(1), Mar. 23, 2010, [124 Stat. 399][/us/stat/124/399], 941, 942.)
 
  __References in Text__ 
 
@@ -301,13 +301,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10308(b)(1)][/us/pl/111/148/s10308/b/1], made technical correction to directory language of [Pub. L. 111–148, § 3023][/us/pl/111/148/s3023], which enacted this section.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10308(b)(1), made technical correction to directory language of [Pub. L. 111–148][/us/pl/111/148], § 3023, which enacted this section.
 
-    Subsec. (a)(2)(B). [Pub. L. 111–148, § 10308(a)(1)][/us/pl/111/148/s10308/a/1], substituted “10 conditions” for “8 conditions”.
+    Subsec. (a)(2)(B). [Pub. L. 111–148][/us/pl/111/148], § 10308(a)(1), substituted “10 conditions” for “8 conditions”.
 
-    Subsec. (c)(1)(B). [Pub. L. 111–148, § 10308(a)(2)][/us/pl/111/148/s10308/a/2], added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The Secretary may extend the duration of the pilot program for providers of services and suppliers participating in the pilot program as of the day before the end of the 5-year period described in subparagraph (A), for a period determined appropriate by the Secretary, if the Secretary determines that such extension will result in improving or not reducing the quality of patient care and reducing spending under this subchapter.”
+    Subsec. (c)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 10308(a)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The Secretary may extend the duration of the pilot program for providers of services and suppliers participating in the pilot program as of the day before the end of the 5-year period described in subparagraph (A), for a period determined appropriate by the Secretary, if the Secretary determines that such extension will result in improving or not reducing the quality of patient care and reducing spending under this subchapter.”
 
-    Subsec. (g). [Pub. L. 111–148, § 10308(a)(3)][/us/pl/111/148/s10308/a/3], added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not later than January 1, 2016, the Secretary shall submit a plan for the implementation of an expansion of the pilot program if the Secretary determines that such expansion will result in improving or not reducing the quality of patient care and reducing spending under this subchapter.”
+    Subsec. (g). [Pub. L. 111–148][/us/pl/111/148], § 10308(a)(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not later than January 1, 2016, the Secretary shall submit a plan for the implementation of an expansion of the pilot program if the Secretary determines that such expansion will result in improving or not reducing the quality of patient care and reducing spending under this subchapter.”
 
 ----------
 
@@ -329,13 +329,13 @@
 [/us/usc/t42/s1395i–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fa
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3023
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F399
 [/us/usc/t42/s1395cc–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%935
-[/us/pl/111/148/s10308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10308%2Fb%2F1
-[/us/pl/111/148/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3023
-[/us/pl/111/148/s10308/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10308%2Fa%2F1
-[/us/pl/111/148/s10308/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10308%2Fa%2F2
-[/us/pl/111/148/s10308/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10308%2Fa%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

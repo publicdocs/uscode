@@ -17,7 +17,7 @@
 
     The Secretary shall continue and accelerate a program of research, development, and investigation of alternative means and technologies for the permanent disposal of high-level radioactive waste from civilian nuclear activities and Federal research and development activities except that funding shall be made from amounts appropriated to the Secretary for purposes of carrying out this section. Such program shall include examination of various waste disposal options.
 
-([Pub. L. 97–425, title II, § 222][/us/pl/97/425/s222], Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 222, Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs222
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2254
 
 

@@ -187,13 +187,13 @@
 
         (2) precludes a community water system, municipal or local government, or political subdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1454, as added [Pub. L. 104–182, title I, § 133(a)][/us/pl/104/182/s133/a], Aug. 6, 1996, [110 Stat. 1675][/us/stat/110/1675].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1454, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 133(a), Aug. 6, 1996, [110 Stat. 1675][/us/stat/110/1675].)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
-    The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§ 3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by [Pub. L. 104–127, title III, § 336(h)][/us/pl/104/127/s336/h], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007]. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7][/us/usc/t7/s1281], Agriculture, and Tables.
+    The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§ 3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(h), Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007]. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7][/us/usc/t7/s1281], Agriculture, and Tables.
 
 ----------
 
@@ -217,15 +217,15 @@
 [/us/usc/t42/s300h–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%936
 [/us/usc/t42/s300h–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%937
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs133%2Fa
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1675
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
-[/us/pl/104/127/s336/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fh
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 

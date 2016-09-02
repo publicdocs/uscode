@@ -39,11 +39,11 @@
 
     (c) Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) of this section shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days after the date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
 
-([Pub. L. 94–163, title V, § 523][/us/pl/94/163/s523], Dec. 22, 1975, [89 Stat. 962][/us/stat/89/962].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 523, Dec. 22, 1975, [89 Stat. 962][/us/stat/89/962].)
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (a)(1), (2)(B), (4), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], known as the Energy Policy and Conservation Act. Title I of the Act is classified principally to subchapter I (§ 6211 et seq.) of this chapter. Section 103 of the Act was classified to [section 6212 of this title][/us/usc/t42/s6212], prior to repeal by [Pub. L. 114–113, div. O, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987]. Title II of the Act is classified generally to subchapter II (§ 6271 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
+    This Act, referred to in subsec. (a)(1), (2)(B), (4), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], known as the Energy Policy and Conservation Act. Title I of the Act is classified principally to subchapter I (§ 6211 et seq.) of this chapter. Section 103 of the Act was classified to [section 6212 of this title][/us/usc/t42/s6212], prior to repeal by [Pub. L. 114–113, div. O, title I][/us/pl/114/113/dO/tI], § 101(a), Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987]. Title II of the Act is classified generally to subchapter II (§ 6271 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
     This title, referred to in subsec. (a)(1), (2)(B), is title V of [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 956][/us/stat/89/956], which is classified principally to this subchapter. For complete classification of title V to the Code, see Tables.
 
@@ -57,12 +57,12 @@
 ----------
 
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
-[/us/pl/94/163/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs523
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F962
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
-[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/pl/114/113/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtI
 [/us/stat/129/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2987
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163

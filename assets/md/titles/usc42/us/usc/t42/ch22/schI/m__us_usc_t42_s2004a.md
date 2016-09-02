@@ -35,7 +35,7 @@
 
         The Surgeon General shall consult with, and encourage the participation of, the Indians concerned, States and political subdivisions thereof, in carrying out the provisions of this section.
 
-([Aug. 5, 1954, ch. 658, § 7][/us/act/1954-08-05/ch658/s7], as added [Pub. L. 86–121, § 1][/us/pl/86/121/s1], July 31, 1959, [73 Stat. 267][/us/stat/73/267].)
+([Aug. 5, 1954, ch. 658][/us/act/1954-08-05/ch658], § 7, as added [Pub. L. 86–121][/us/pl/86/121], § 1, July 31, 1959, [73 Stat. 267][/us/stat/73/267].)
 
  __Transfer of Functions__ 
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/act/1954-08-05/ch658/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658%2Fs7
-[/us/pl/86/121/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F121%2Fs1
+[/us/act/1954-08-05/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658
+[/us/pl/86/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F121
 [/us/stat/73/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F267
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

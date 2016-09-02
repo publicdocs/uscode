@@ -35,7 +35,7 @@
 
         None of the funds appropriated by this or any subsequent appropriations Act may be used to withhold substance abuse funding pursuant to [section 300x–26 of this title][/us/usc/t42/s300x–26] from a territory that receives less than $1,000,000.
 
-([Pub. L. 111–117, div. D, title II, § 212][/us/pl/111/117/s212], Dec. 16, 2009, [123 Stat. 3257][/us/stat/123/3257].)
+([Pub. L. 111–117, div. D, title II][/us/pl/111/117/dD/tII], § 212, Dec. 16, 2009, [123 Stat. 3257][/us/stat/123/3257].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t42/s300x–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9326
 [/us/usc/t42/s300x–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9326
 [/us/usc/t42/s300x–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9326
-[/us/pl/111/117/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs212
+[/us/pl/111/117/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtII
 [/us/stat/123/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3257
 
 

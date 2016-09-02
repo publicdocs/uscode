@@ -17,7 +17,7 @@
 
     The corporation shall have the power to create and issue the number of shares stated in its articles of incorporation. Such shares may be divided into one or more classes, any or all of which classes may consist of shares with par value or shares without par value, with such designations, preferences, voting powers, and special or relative rights and such limitations, restrictions, or qualifications thereof as shall be stated in the articles of incorporation. The articles of incorporation may limit or deny the voting power of the shares of any class.
 
-([Pub. L. 90–448, title IX, § 905][/us/pl/90/448/s905], Aug. 1, 1968, [82 Stat. 548][/us/stat/82/548].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 905, Aug. 1, 1968, [82 Stat. 548][/us/stat/82/548].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs905
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F548
 
 

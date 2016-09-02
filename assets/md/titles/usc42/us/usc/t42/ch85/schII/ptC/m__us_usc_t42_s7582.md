@@ -41,7 +41,7 @@
 
             (B) a period of 11 years or 120,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 120,000 miles, except that in-use testing shall not be done for a period beyond 7 years or 90,000 miles (or the equivalent) whichever first occurs.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 242, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2513][/us/stat/104/2513].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 242, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2513][/us/stat/104/2513].)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t42/s7583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7583
 [/us/usc/t42/s7583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7583
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2513
 
 

@@ -77,7 +77,7 @@
 
     (14) The term “State licensing board” means, with respect to a physician or health care provider in a State, the agency of the State which is primarily responsible for the licensing of the physician or provider to furnish health care services.
 
-([Pub. L. 99–660, title IV, § 431][/us/pl/99/660/s431], Nov. 14, 1986, [100 Stat. 3792][/us/stat/100/3792].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 431, Nov. 14, 1986, [100 Stat. 3792][/us/stat/100/3792].)
 
 ----------
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t42/s1395x/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fe
-[/us/pl/99/660/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs431
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3792
 
 

@@ -17,7 +17,7 @@
 
     In carrying out its research programs on science policy and on the science of learning, the Foundation may support research on the process of innovation and the teaching of inventiveness.
 
-([Pub. L. 110–69, title VII, § 7019][/us/pl/110/69/s7019], Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7019, Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7019
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F684
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

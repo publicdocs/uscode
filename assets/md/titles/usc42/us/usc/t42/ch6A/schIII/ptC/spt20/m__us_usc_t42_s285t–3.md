@@ -17,7 +17,7 @@
 
     The Secretary, acting through the Director of the National Institutes of Health, shall provide administrative support and support services to the Director of the Institute and shall ensure that such support takes maximum advantage of existing administrative structures at the agencies of the National Institutes of Health.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–6, formerly § 485H, as added [Pub. L. 106–525, title I, § 104][/us/pl/106/525/s104], Nov. 22, 2000, [114 Stat. 2503][/us/stat/114/2503]; amended [Pub. L. 109–482, title I, § 104(b)(1)(O)][/us/pl/109/482/s104/b/1/O], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693]; renumbered § 464z–6 and amended [Pub. L. 111–148, title X, § 10334(c)(1)(D)(i)][/us/pl/111/148/s10334/c/1/D/i], (iii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–6, formerly § 485H, as added [Pub. L. 106–525, title I][/us/pl/106/525/tI], § 104, Nov. 22, 2000, [114 Stat. 2503][/us/stat/114/2503]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(O), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693]; renumbered § 464z–6 and amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(D)(i), (iii), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], substituted “Institute” for “Center” in section catchline and text.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), substituted “Institute” for “Center” in section catchline and text.
 
     2007—[Pub. L. 109–482][/us/pl/109/482] struck out subsec. (a) designation and heading before “The Secretary” and struck out subsec. (b) which related to evaluation of this subpart not later than 5 years after Nov. 22, 2000, and report on such evaluation not later than 1 year after its commencement.
 
@@ -41,15 +41,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/525/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs104
+[/us/pl/106/525/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtI
 [/us/stat/114/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2503
-[/us/pl/109/482/s104/b/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FO
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
-[/us/pl/111/148/s10334/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fi
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 [/us/usc/t42/s287c–34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%9334
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109

@@ -41,7 +41,7 @@
 
         Any loans made under this section shall not reduce or otherwise affect any grants or other assistance under this chapter.
 
-([Pub. L. 93–288, title IV, § 417][/us/pl/93/288/s417], formerly § 414(a), (b), May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 417, [Pub. L. 100–707, title I, § 106(j)][/us/pl/100/707/s106/j], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; [Pub. L. 106–390, title II, § 207][/us/pl/106/390/s207], Oct. 30, 2000, [114 Stat. 1571][/us/stat/114/1571]; [Pub. L. 109–347, title VI, § 608][/us/pl/109/347/s608], Oct. 13, 2006, [120 Stat. 1942][/us/stat/120/1942].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 417, formerly § 414(a), (b), May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 417, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(j), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; [Pub. L. 106–390, title II][/us/pl/106/390/tII], § 207, Oct. 30, 2000, [114 Stat. 1571][/us/stat/114/1571]; [Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 608, Oct. 13, 2006, [120 Stat. 1942][/us/stat/120/1942].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Codification__ 
 
-    Prior to renumbering as section 417, [section 414 of Pub. L. 93–288][/us/pl/93/288/s414] contained a subsec. (c) which was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1082][/us/stat/96/1082].
+    Prior to renumbering as section 417, [section 414 of Pub. L. 93–288][/us/pl/93/288/s414] contained a subsec. (c) which was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1082][/us/stat/96/1082].
 
  __Prior Provisions__ 
 
@@ -63,17 +63,17 @@
 
     for “exceed 25 per centum” and “; or” for period at end and added par. (2).
 
-    2000—[Pub. L. 106–390, § 207(1)][/us/pl/106/390/s207/1]–(3), designated first sentence of subsec. (a) as subsec. (a) and inserted subsec. heading, designated second sentence of subsec. (a) as subsec. (b) and inserted subsec. heading, and designated third sentence of subsec. (a) as subsec. (c)(1) and inserted subsec. and par. headings. Former subsec. (b) redesignated (d).
+    2000—[Pub. L. 106–390][/us/pl/106/390], § 207(1)–(3), designated first sentence of subsec. (a) as subsec. (a) and inserted subsec. heading, designated second sentence of subsec. (a) as subsec. (b) and inserted subsec. heading, and designated third sentence of subsec. (a) as subsec. (c)(1) and inserted subsec. and par. headings. Former subsec. (b) redesignated (d).
 
-    Subsec. (b). [Pub. L. 106–390, § 207(5)][/us/pl/106/390/s207/5], substituted “shall not exceed” for “and shall not exceed” and inserted before period at end “, and shall not exceed $5,000,000”.
+    Subsec. (b). [Pub. L. 106–390][/us/pl/106/390], § 207(5), substituted “shall not exceed” for “and shall not exceed” and inserted before period at end “, and shall not exceed $5,000,000”.
 
-    Subsec. (c)(2). [Pub. L. 106–390, § 207(6)][/us/pl/106/390/s207/6], added par. (2).
+    Subsec. (c)(2). [Pub. L. 106–390][/us/pl/106/390], § 207(6), added par. (2).
 
-    Subsec. (d). [Pub. L. 106–390, § 207(4)][/us/pl/106/390/s207/4], redesignated subsec. (b) as (d) and inserted subsec. heading.
+    Subsec. (d). [Pub. L. 106–390][/us/pl/106/390], § 207(4), redesignated subsec. (b) as (d) and inserted subsec. heading.
 
  __Community Emergency Drought Relief__ 
 
-[Pub. L. 95–31, title I][/us/pl/95/31], May 23, 1977, [91 Stat. 169][/us/stat/91/169], provided: 
+[Pub. L. 95–31, title I][/us/pl/95/31/tI], May 23, 1977, [91 Stat. 169][/us/stat/91/169], provided: 
 
 > “That this Act be cited as the ‘Community Emergency Drought Relief Act of 1977’.
 
@@ -108,29 +108,29 @@
 ----------
 ----------
 
-[/us/pl/93/288/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs417
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F158
-[/us/pl/100/707/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fj
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
-[/us/pl/106/390/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs207
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1571
-[/us/pl/109/347/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs608
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1942
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/93/288/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs414
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1082
 [/us/pl/93/288/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs417
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5187
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
-[/us/pl/106/390/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs207%2F1
-[/us/pl/106/390/s207/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs207%2F5
-[/us/pl/106/390/s207/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs207%2F6
-[/us/pl/106/390/s207/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs207%2F4
-[/us/pl/95/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F31
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/95/31/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F31%2FtI
 [/us/stat/91/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F169
 
 

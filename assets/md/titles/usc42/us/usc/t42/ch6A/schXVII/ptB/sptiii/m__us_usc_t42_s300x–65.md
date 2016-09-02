@@ -107,7 +107,7 @@
 
         If a nongovernmental organization (referred to in this subsection as an “intermediate organization”), acting under a contract or other agreement with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide services under any substance abuse program under this subchapter or subchapter III–A of this chapter, the intermediate organization shall have the same duties under this section as the government but shall retain all other rights of a nongovernmental organization under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1955, as added [Pub. L. 106–310, div. B, title XXXIII, § 3305][/us/pl/106/310/s3305], Oct. 17, 2000, [114 Stat. 1212][/us/stat/114/1212].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1955, as added [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3305, Oct. 17, 2000, [114 Stat. 1212][/us/stat/114/1212].)
 
 ----------
 
@@ -118,7 +118,7 @@
 
 [/us/usc/t42/s2000e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3305
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1212
 
 

@@ -17,7 +17,7 @@
 
     The Attorney General of the United States shall, at the request of the Administrator and on the basis of a showing of need, deputize qualified employees of the Environmental Protection Agency to serve as special deputy United States marshals in criminal investigations with respect to violations of the criminal provisions of this chapter.
 
-([Pub. L. 89–272, title II, § 7010][/us/pl/89/272/s7010], formerly § 7012, as added [Pub. L. 98–616, title IV, § 403(b)(1)][/us/pl/98/616/s403/b/1], Nov. 8, 1984, [98 Stat. 3272][/us/stat/98/3272]; renumbered § 7010, [Pub. L. 99–339, title II, § 201(c)(2)][/us/pl/99/339/s201/c/2], June 19, 1986, [100 Stat. 654][/us/stat/100/654].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7010, formerly § 7012, as added [Pub. L. 98–616, title IV][/us/pl/98/616/tIV], § 403(b)(1), Nov. 8, 1984, [98 Stat. 3272][/us/stat/98/3272]; renumbered § 7010, [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 201(c)(2), June 19, 1986, [100 Stat. 654][/us/stat/100/654].)
 
  __Prior Provisions__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/89/272/s7010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7010
-[/us/pl/98/616/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs403%2Fb%2F1
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIV
 [/us/stat/98/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3272
-[/us/pl/99/339/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fc%2F2
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F654
 [/us/pl/89/272/s7010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7010
 [/us/usc/t42/s6979a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6979a

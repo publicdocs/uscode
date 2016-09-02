@@ -135,7 +135,7 @@
 
                 The first grants to which paragraph (4) applies are grants for the fiscal year beginning after September 4, 2003.
 
-([Pub. L. 108–79, § 8][/us/pl/108/79/s8], Sept. 4, 2003, [117 Stat. 985][/us/stat/117/985]; [Pub. L. 113–4, title XI, § 1101(c)][/us/pl/113/4/s1101/c], Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134].)
+([Pub. L. 108–79][/us/pl/108/79], § 8, Sept. 4, 2003, [117 Stat. 985][/us/stat/117/985]; [Pub. L. 113–4, title XI][/us/pl/113/4/tXI], § 1101(c), Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134].)
 
  __Amendments__ 
 
@@ -154,9 +154,9 @@
 [/us/usc/t6/s279/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs279%2Fg
 [/us/usc/t42/s15606/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15606%2Fe
 [/us/usc/t42/s15603/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15603%2Fc%2F2%2FC
-[/us/pl/108/79/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs8
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F985
-[/us/pl/113/4/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1101%2Fc
+[/us/pl/113/4/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXI
 [/us/stat/127/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F134
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 

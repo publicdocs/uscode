@@ -43,11 +43,11 @@
 
     (3) The term “decontamination, decommissioning, reclamation, and other remedial action” means work performed prior to or subsequent to October 24, 1992, which is necessary to comply with all applicable requirements of the Uranium Mill Tailings Radiation Control Act of 1978 ([42 U.S.C. 7901][/us/usc/t42/s7901] et seq.), or where appropriate, with requirements established by a State that is a party to a discontinuance agreement under section 274 of the Atomic Energy Act of 1954 ([42 U.S.C. 2021][/us/usc/t42/s2021]).
 
-([Pub. L. 102–486, title X, § 1004][/us/pl/102/486/s1004], Oct. 24, 1992, [106 Stat. 2947][/us/stat/106/2947].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1004, Oct. 24, 1992, [106 Stat. 2947][/us/stat/106/2947].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in par. (1)(A), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter (§ 2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in par. (1)(A), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to this chapter (§ 2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The Uranium Mill Tailings Radiation Control Act of 1978, referred to in par. (3), is [Pub. L. 95–604][/us/pl/95/604], Nov. 8, 1978, [92 Stat. 3021][/us/stat/92/3021], as amended, which is classified principally to chapter 88 (§ 7901 et seq.) of this title. For complete classification of this act to the Code, see Short Title note set out under [section 7901 of this title][/us/usc/t42/s7901] and Tables.
 
@@ -68,10 +68,10 @@
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/usc/t42/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7901
 [/us/usc/t42/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021
-[/us/pl/102/486/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1004
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2947
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604

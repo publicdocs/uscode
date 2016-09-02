@@ -151,7 +151,7 @@
 
         For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a) through (c) of this section relating to applications and plans.
 
-([Pub. L. 97–35, title VI, § 676][/us/pl/97/35/s676], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2735][/us/stat/112/2735]; amended [Pub. L. 113–128, title V, § 512(f)][/us/pl/113/128/s512/f], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 676, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2735][/us/stat/112/2735]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(f), July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
 
  __References in Text__ 
 
@@ -163,7 +163,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 9908, [Pub. L. 97–35, title VI, § 679][/us/pl/97/35/s679], Aug. 13, 1981, [95 Stat. 517][/us/stat/95/517]; [Pub. L. 98–558, title II, § 205][/us/pl/98/558/s205], Oct. 30, 1984, [98 Stat. 2886][/us/stat/98/2886]; [Pub. L. 99–425, title IV, § 404(a)][/us/pl/99/425/s404/a], Sept. 30, 1986, [100 Stat. 969][/us/stat/100/969], related to withholding of funds, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9908, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 679, Aug. 13, 1981, [95 Stat. 517][/us/stat/95/517]; [Pub. L. 98–558, title II][/us/pl/98/558/tII], § 205, Oct. 30, 1984, [98 Stat. 2886][/us/stat/98/2886]; [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 404(a), Sept. 30, 1986, [100 Stat. 969][/us/stat/100/969], related to withholding of funds, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
     A prior [section 676 of Pub. L. 97–35][/us/pl/97/35/s676] was classified to [section 9905 of this title][/us/usc/t42/s9905], prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
@@ -194,10 +194,10 @@
 [/us/usc/t42/s9917/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9917%2Fb
 [/us/usc/t42/s9915/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9915%2Fa
 [/us/usc/t42/s9915/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9915%2Fa
-[/us/pl/97/35/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs676
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2735
-[/us/pl/113/128/s512/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ff
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -208,11 +208,11 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F893
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/97/35/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs679
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F517
-[/us/pl/98/558/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs205
+[/us/pl/98/558/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtII
 [/us/stat/98/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2886
-[/us/pl/99/425/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs404%2Fa
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F969
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/pl/97/35/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs676

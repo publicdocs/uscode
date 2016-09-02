@@ -17,7 +17,7 @@
 
     If an owner of any covered section 8 housing project designed primarily for occupancy by elderly families does not give preference in occupancy to elderly families as authorized in this subchapter, then elderly families (as such term was defined in [section 1437a of this title][/us/usc/t42/s1437a] before October 28, 1992) shall be eligible for occupancy in such housing to the same extent that such families were eligible before October 28, 1992.
 
-([Pub. L. 102–550, title VI, § 657][/us/pl/102/550/s657], Oct. 28, 1992, [106 Stat. 3825][/us/stat/106/3825].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 657, Oct. 28, 1992, [106 Stat. 3825][/us/stat/106/3825].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
-[/us/pl/102/550/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs657
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3825
 [/us/usc/t42/s13619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13619
 

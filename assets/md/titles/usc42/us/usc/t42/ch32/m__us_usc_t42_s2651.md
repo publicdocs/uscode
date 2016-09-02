@@ -73,7 +73,7 @@
 
             (D) the Secretary of Commerce, with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 87–693, § 1][/us/pl/87/693/s1], Sept. 25, 1962, [76 Stat. 593][/us/stat/76/593]; [Pub. L. 102–54, § 13(q)(8)][/us/pl/102/54/s13/q/8], June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 104–201, div. A, title X, § 1075(a)][/us/pl/104/201/s1075/a], (b), Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661], 2663; [Pub. L. 109–241, title IX, § 902(m)][/us/pl/109/241/s902/m], July 11, 2006, [120 Stat. 568][/us/stat/120/568].)
+([Pub. L. 87–693][/us/pl/87/693], § 1, Sept. 25, 1962, [76 Stat. 593][/us/stat/76/593]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(8), June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1075(a), (b), Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661], 2663; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(m), July 11, 2006, [120 Stat. 568][/us/stat/120/568].)
 
  __References in Text__ 
 
@@ -83,31 +83,31 @@
 
     2006—Subsec. (g)(4)(B). [Pub. L. 109–241][/us/pl/109/241] substituted “of Homeland Security,” for “of Transportation,”.
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 1075(b)(1)][/us/pl/104/201/s1075/b/1], inserted “(independent of the rights of the injured or diseased person)” after “a right to recover” and “, or that person’s insurer,” after “from said third person”.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 1075(b)(1), inserted “(independent of the rights of the injured or diseased person)” after “a right to recover” and “, or that person’s insurer,” after “from said third person”.
 
-    [Pub. L. 104–201, § 1075(a)(1)][/us/pl/104/201/s1075/a/1], (2), inserted “or pay for” after “required by law to furnish” and substituted “, to be furnished, paid for, or to be paid for” for “or to be furnished” in two places.
+    [Pub. L. 104–201][/us/pl/104/201], § 1075(a)(1), (2), inserted “or pay for” after “required by law to furnish” and substituted “, to be furnished, paid for, or to be paid for” for “or to be furnished” in two places.
 
-    Subsecs. (b), (c). [Pub. L. 104–201, § 1075(a)(3)][/us/pl/104/201/s1075/a/3], added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+    Subsecs. (b), (c). [Pub. L. 104–201][/us/pl/104/201], § 1075(a)(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-    Subsec. (d). [Pub. L. 104–201, § 1075(a)(4)][/us/pl/104/201/s1075/a/4], (b)(2), substituted “a right under subsections (a), (b), and (c) of this section” for “such right,” in introductory provisions, inserted “or paid for” after “treatment is furnished” in par. (2), and inserted “or the insurance carrier or other entity responsible for the payment or reimbursement of medical expenses or lost pay” after “the third person who is liable for the injury or disease” in pars. (1) and (2).
+    Subsec. (d). [Pub. L. 104–201][/us/pl/104/201], § 1075(a)(4), (b)(2), substituted “a right under subsections (a), (b), and (c) of this section” for “such right,” in introductory provisions, inserted “or paid for” after “treatment is furnished” in par. (2), and inserted “or the insurance carrier or other entity responsible for the payment or reimbursement of medical expenses or lost pay” after “the third person who is liable for the injury or disease” in pars. (1) and (2).
 
-    [Pub. L. 104–201, § 1075(a)(2)][/us/pl/104/201/s1075/a/2], redesignated subsec. (b) as (d).
+    [Pub. L. 104–201][/us/pl/104/201], § 1075(a)(2), redesignated subsec. (b) as (d).
 
-    Subsec. (e). [Pub. L. 104–201, § 1075(a)(2)][/us/pl/104/201/s1075/a/2], redesignated subsec. (c) as (e).
+    Subsec. (e). [Pub. L. 104–201][/us/pl/104/201], § 1075(a)(2), redesignated subsec. (c) as (e).
 
-    Subsecs. (f), (g). [Pub. L. 104–201, § 1075(a)(5)][/us/pl/104/201/s1075/a/5], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 104–201][/us/pl/104/201], § 1075(a)(5), added subsecs. (f) and (g).
 
     1991—Subsec. (c). [Pub. L. 102–54][/us/pl/102/54] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title X, § 1075(c)][/us/pl/104/201/s1075/c], Sept. 23, 1996, [110 Stat. 2663][/us/stat/110/2663], provided that: 
+[Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1075(c), Sept. 23, 1996, [110 Stat. 2663][/us/stat/110/2663], provided that: 
 
 > “The authority to collect pursuant to the amendments made by this section \[amending this section\] shall apply to expenses described in the first section of [Public Law 87–693][/us/pl/87/693] \[this section\] (as amended by this section) that are incurred, or are to be incurred, by the United States on or after the date of the enactment of this Act \[Sept. 23, 1996\], whether the event from which the claim arises occurs before, on, or after that date.”
 
  __Effective Date__ 
 
-[Pub. L. 87–693, § 4][/us/pl/87/693/s4], Sept. 25, 1962, [76 Stat. 594][/us/stat/76/594], provided that: 
+[Pub. L. 87–693][/us/pl/87/693], § 4, Sept. 25, 1962, [76 Stat. 594][/us/stat/76/594], provided that: 
 
 > “This Act \[enacting this chapter\] becomes effective on the first day of the fourth month following the month \[September 1962\] in which enacted.”
 
@@ -124,28 +124,28 @@
 
 [/us/usc/t42/s249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/87/693/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693%2Fs1
+[/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
 [/us/stat/76/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F593
-[/us/pl/102/54/s13/q/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F8
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
-[/us/pl/104/201/s1075/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fa
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2661
-[/us/pl/109/241/s902/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fm
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F568
 [/us/pl/87/693/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693%2Fs4
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/104/201/s1075/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fb%2F1
-[/us/pl/104/201/s1075/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fa%2F1
-[/us/pl/104/201/s1075/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fa%2F3
-[/us/pl/104/201/s1075/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fa%2F4
-[/us/pl/104/201/s1075/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fa%2F2
-[/us/pl/104/201/s1075/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fa%2F2
-[/us/pl/104/201/s1075/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fa%2F5
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/104/201/s1075/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1075%2Fc
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2663
 [/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
-[/us/pl/87/693/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693%2Fs4
+[/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
 [/us/stat/76/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F594
 [/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
 [/us/stat/76/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F593

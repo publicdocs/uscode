@@ -23,7 +23,7 @@
 
         In the budget materials submitted to the President by the Board in connection with the submission to Congress, pursuant to [section 1105 of title 31][/us/usc/t31/s1105], of the budget for each fiscal year, the Board shall ensure that a separate, dedicated procurement line item is designated for the services of an Inspector General under subsection (a).
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 322, as added [Pub. L. 112–239, div. C, title XXXII, § 3202(f)(1)][/us/pl/112/239/s3202/f/1], Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220]; [Pub. L. 113–291, div. C, title XXXII, § 3202][/us/pl/113/291/s3202], Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 322, as added [Pub. L. 112–239, div. C, title XXXII][/us/pl/112/239/dC/tXXXII], § 3202(f)(1), Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220]; [Pub. L. 113–291, div. C, title XXXII][/us/pl/113/291/dC/tXXXII], § 3202, Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/112/239/s3202/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Ff%2F1
+[/us/pl/112/239/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXII
 [/us/stat/126/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2220
-[/us/pl/113/291/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3202
+[/us/pl/113/291/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXII
 [/us/stat/128/3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3902
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

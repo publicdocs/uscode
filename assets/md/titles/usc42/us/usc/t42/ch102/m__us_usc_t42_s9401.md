@@ -35,11 +35,11 @@
 
     (9) because of the rising demand for mental health services and the wide disparity in the distribution of psychiatrists, clinical psychologists, social workers, and psychiatric nurses, there is a shortage in the medical specialty of psychiatry and there are also shortages among the other health personnel who provide mental health services.
 
-([Pub. L. 96–398, § 2][/us/pl/96/398/s2], Oct. 7, 1980, [94 Stat. 1565][/us/stat/94/1565].)
+([Pub. L. 96–398][/us/pl/96/398], § 2, Oct. 7, 1980, [94 Stat. 1565][/us/stat/94/1565].)
 
  __Short Title__ 
 
-[Pub. L. 96–398, § 1][/us/pl/96/398/s1], Oct. 7, 1980, [94 Stat. 1564][/us/stat/94/1564], provided that: 
+[Pub. L. 96–398][/us/pl/96/398], § 1, Oct. 7, 1980, [94 Stat. 1564][/us/stat/94/1564], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealing [section 2689q of this title][/us/usc/t42/s2689q], and enacting provisions set out as notes under section 242a, 246, 289k–1, and 2689b of this title\] may be cited as the ‘Mental Health Systems Act’.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/96/398/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs2
+[/us/pl/96/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398
 [/us/stat/94/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1565
-[/us/pl/96/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs1
+[/us/pl/96/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398
 [/us/stat/94/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1564
 [/us/usc/t42/s2689q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2689q
 

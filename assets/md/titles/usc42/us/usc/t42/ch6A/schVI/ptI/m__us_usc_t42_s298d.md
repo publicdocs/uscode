@@ -17,7 +17,7 @@
 
     For the purpose of carrying out parts B, C, and D (subject to [section 297t(g) of this title][/us/usc/t42/s297t/g]), there are authorized to be appropriated $338,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2016.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 871, formerly § 841, as added [Pub. L. 105–392, title I, § 123(5)][/us/pl/105/392/s123/5], Nov. 13, 1998, [112 Stat. 3569][/us/stat/112/3569]; renumbered § 871 and amended [Pub. L. 111–148, title V][/us/pl/111/148], §§ 5310(b)(7), 5312, Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631], 633.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 871, formerly § 841, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(5), Nov. 13, 1998, [112 Stat. 3569][/us/stat/112/3569]; renumbered § 871 and amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], §§ 5310(b)(7), 5312, Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631], 633.)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 5312][/us/pl/111/148/s5312], amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 1998 through 2002, allocations of amounts, and use of methodology.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 5312, amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 1998 through 2002, allocations of amounts, and use of methodology.
 
 ----------
 
@@ -36,12 +36,12 @@
 
 [/us/usc/t42/s297t/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297t%2Fg
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s123/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F5
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3569
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F631
 [/us/usc/t42/s297q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297q
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5312
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

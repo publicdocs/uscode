@@ -17,7 +17,7 @@
 
     The Secretary of Housing and Urban Development notwithstanding any other provisions of subchapters II to VII of this chapter or any other law except provisions hereafter enacted expressly in amendment hereof, is authorized to establish income limitations for occupancy of any housing held by him under subchapters II to VII of this chapter and, giving consideration to the ability of such tenants to obtain other housing accommodations, to require tenants, admitted to occupancy prior to the establishment of such income limitations and who have incomes in excess of limitations established by him, to vacate such housing.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 612, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 603(d), [65 Stat. 314][/us/stat/65/314]; amended [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 612, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 603(d), [65 Stat. 314][/us/stat/65/314]; amended [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F314
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581

@@ -41,7 +41,7 @@
 
             For any provision of this subchapter where treatment of Indian Tribes as identical to States is inappropriate, administratively infeasible or otherwise inconsistent with the purposes of this subchapter, the Administrator may include in the regulations promulgated under this section, other means for administering such provision in a manner that will achieve the purpose of the provision. Nothing in this section shall be construed to allow Indian Tribes to assume or maintain primary enforcement responsibility for public water systems or for underground injection control in a manner less protective of the health of persons than such responsibility may be assumed or maintained by a State. An Indian tribe  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  shall not be required to exercise criminal enforcement jurisdiction for purposes of complying with the preceding sentence.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1451, as added [Pub. L. 99–339, title III, § 302(a)][/us/pl/99/339/s302/a], June 19, 1986, [100 Stat. 665][/us/stat/100/665]; amended [Pub. L. 104–182, title V, § 501(f)(6)][/us/pl/104/182/s501/f/6], Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1451, as added [Pub. L. 99–339, title III][/us/pl/99/339/tIII], § 302(a), June 19, 1986, [100 Stat. 665][/us/stat/100/665]; amended [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(f)(6), Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/339/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs302%2Fa
+[/us/pl/99/339/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtIII
 [/us/stat/100/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F665
-[/us/pl/104/182/s501/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F6
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1692
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 

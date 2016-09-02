@@ -35,7 +35,7 @@
 
         An employee as to whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter II of chapter 83, or chapter 84, of title 5.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 170C, as added [Pub. L. 109–58, title VI, § 624(a)][/us/pl/109/58/s624/a], Aug. 8, 2005, [119 Stat. 783][/us/stat/119/783].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 170C, as added [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 624(a), Aug. 8, 2005, [119 Stat. 783][/us/stat/119/783].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/109/58/s624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs624%2Fa
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F783
 
 

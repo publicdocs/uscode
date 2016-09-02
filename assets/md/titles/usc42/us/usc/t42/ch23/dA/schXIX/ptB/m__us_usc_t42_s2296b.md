@@ -23,7 +23,7 @@
 
         Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in [section 3501(4) of title 19][/us/usc/t19/s3501/4]) and the North American Free Trade Agreement.
 
-([Pub. L. 102–486, title X, § 1011][/us/pl/102/486/s1011], Oct. 24, 1992, [106 Stat. 2948][/us/stat/106/2948]; [Pub. L. 106–36, title I, § 1002(g)(1)][/us/pl/106/36/s1002/g/1], June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1011, Oct. 24, 1992, [106 Stat. 2948][/us/stat/106/2948]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(g)(1), June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
-[/us/pl/102/486/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1011
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2948
-[/us/pl/106/36/s1002/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fg%2F1
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F133
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4

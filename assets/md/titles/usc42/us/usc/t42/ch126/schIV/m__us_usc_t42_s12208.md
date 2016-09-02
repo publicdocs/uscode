@@ -17,7 +17,7 @@
 
     For the purposes of this chapter, the term “disabled” or “disability” shall not apply to an individual solely because that individual is a transvestite.
 
-([Pub. L. 101–336, title V, § 509][/us/pl/101/336/s509], formerly § 508, July 26, 1990, [104 Stat. 373][/us/stat/104/373]; renumbered § 509, [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 509, formerly § 508, July 26, 1990, [104 Stat. 373][/us/stat/104/373]; renumbered § 509, [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/336/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs509
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F373
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

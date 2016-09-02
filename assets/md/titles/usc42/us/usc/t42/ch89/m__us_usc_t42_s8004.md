@@ -53,7 +53,7 @@
 
         The Secretary shall establish standards for the provision of services under this chapter, and, in developing such service standards, the Secretary shall consult with the Secretary of Health and Human Services and with appropriate organizations representing the elderly and handicapped, as determined by the Secretary.
 
-([Pub. L. 95–557, title IV, § 405][/us/pl/95/557/s405], Oct. 31, 1978, [92 Stat. 2106][/us/stat/92/2106]; [Pub. L. 96–399, title II, § 208][/us/pl/96/399/s208], Oct. 8, 1980, [94 Stat. 1634][/us/stat/94/1634]; [Pub. L. 98–479, title II, § 201(j)][/us/pl/98/479/s201/j], Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 405, Oct. 31, 1978, [92 Stat. 2106][/us/stat/92/2106]; [Pub. L. 96–399, title II][/us/pl/96/399/tII], § 208, Oct. 8, 1980, [94 Stat. 1634][/us/stat/94/1634]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 201(j), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
     1984—Subsec. (i). [Pub. L. 98–479][/us/pl/98/479] substituted “Health and Human Services” for “the Department of Health, Education, and Welfare”.
 
-    1980—Subsecs. (c), (d). [Pub. L. 96–399, § 208(a)][/us/pl/96/399/s208/a], (b), inserted reference to congregate services to elderly residents.
+    1980—Subsecs. (c), (d). [Pub. L. 96–399][/us/pl/96/399], § 208(a), (b), inserted reference to congregate services to elderly residents.
 
-    Subsec. (e). [Pub. L. 96–399, § 208(c)][/us/pl/96/399/s208/c], in par. (1) substituted “A public housing agency or nonprofit corporation applying for assistance to provide congregate services to nonelderly handicapped residents shall consult with the appropriate agency” for “When nonelderly handicapped individuals are included among the eligible project residents, the public housing agency and nonprofit corporation shall consult with the appropriate local agency”, and in par. (2) substituted “appropriate agency” for “appropriate local agency”.
+    Subsec. (e). [Pub. L. 96–399][/us/pl/96/399], § 208(c), in par. (1) substituted “A public housing agency or nonprofit corporation applying for assistance to provide congregate services to nonelderly handicapped residents shall consult with the appropriate agency” for “When nonelderly handicapped individuals are included among the eligible project residents, the public housing agency and nonprofit corporation shall consult with the appropriate local agency”, and in par. (2) substituted “appropriate agency” for “appropriate local agency”.
 
 ----------
 
@@ -76,17 +76,17 @@
 
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/95/557/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs405
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2106
-[/us/pl/96/399/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs208
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1634
-[/us/pl/98/479/s201/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs201%2Fj
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2228
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/96/399/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs208%2Fa
-[/us/pl/96/399/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs208%2Fc
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch102/schV/m__us_usc_t42_s9511.md) | [Next](./../../../../..//us/usc/t42/ch102/schVI/m__us_usc_t42_ch102_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9512)
 
-## § 9512. Repealed. [Pub. L. 97–35, title IX, § 902(e)(1)][/us/pl/97/35/s902/e/1], Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560]
+## § 9512. Repealed. [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(e)(1), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560]
 
-    Section, [Pub. L. 96–398, title VI, § 602][/us/pl/96/398/s602], Oct. 7, 1980, [94 Stat. 1604][/us/stat/94/1604], related to grants for services for rape victims.
+    Section, [Pub. L. 96–398, title VI][/us/pl/96/398/tVI], § 602, Oct. 7, 1980, [94 Stat. 1604][/us/stat/94/1604], related to grants for services for rape victims.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fe%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/pl/96/398/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs602
+[/us/pl/96/398/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2FtVI
 [/us/stat/94/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1604
 [/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 

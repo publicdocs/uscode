@@ -17,7 +17,7 @@
 
     The Foundation shall continue to support the Historically Black Colleges and Universities Undergraduate Program, the Louis Stokes Alliances for Minority Participation program, the Tribal Colleges and Universities Program, and Hispanic-serving institutions as separate programs.
 
-([Pub. L. 111–358, title V, § 512][/us/pl/111/358/s512], Jan. 4, 2011, [124 Stat. 4011][/us/stat/124/4011].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 512, Jan. 4, 2011, [124 Stat. 4011][/us/stat/124/4011].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs512
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4011
 [/us/pl/111/358/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs502
 [/us/usc/t42/s1862p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p

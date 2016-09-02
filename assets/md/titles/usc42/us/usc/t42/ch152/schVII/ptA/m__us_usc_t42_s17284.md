@@ -83,7 +83,7 @@
 
         (6) such sums as are necessary for subsequent fiscal years.
 
-([Pub. L. 110–140, title VIII, § 805][/us/pl/110/140/s805], Dec. 19, 2007, [121 Stat. 1721][/us/stat/121/1721].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 805, Dec. 19, 2007, [121 Stat. 1721][/us/stat/121/1721].)
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs805
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1721
 
 

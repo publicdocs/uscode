@@ -29,7 +29,7 @@
 
     (6) promote the use of American-made clean and efficient energy technologies, processes, and services by giving preference to entities incorporated in the United States and whose technology will be substantially manufactured in the United States.
 
-([Pub. L. 110–140, title IX, § 923][/us/pl/110/140/s923], Dec. 19, 2007, [121 Stat. 1735][/us/stat/121/1735].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 923, Dec. 19, 2007, [121 Stat. 1735][/us/stat/121/1735].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs923
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1735
 
 

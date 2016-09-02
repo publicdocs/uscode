@@ -67,49 +67,49 @@
 
         A State shall ensure that any drug rebates received on drugs purchased from funds provided pursuant to this section are applied to activities supported under this subpart, with priority given to activities described under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2616, as added [Pub. L. 101–381, title II, § 201][/us/pl/101/381/s201], Aug. 18, 1990, [104 Stat. 590][/us/stat/104/590]; amended [Pub. L. 104–146, § 3(c)(3)][/us/pl/104/146/s3/c/3], May 20, 1996, [110 Stat. 1355][/us/stat/110/1355]; [Pub. L. 106–345, title II, § 204][/us/pl/106/345/s204], Oct. 20, 2000, [114 Stat. 1332][/us/stat/114/1332]; [Pub. L. 109–415, title II][/us/pl/109/415], §§ 201(c)(4), 202, 204(a), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2788][/us/stat/120/2788], 2796, 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2616, as added [Pub. L. 101–381, title II][/us/pl/101/381/tII], § 201, Aug. 18, 1990, [104 Stat. 590][/us/stat/104/590]; amended [Pub. L. 104–146][/us/pl/104/146], § 3(c)(3), May 20, 1996, [110 Stat. 1355][/us/stat/110/1355]; [Pub. L. 106–345, title II][/us/pl/106/345/tII], § 204, Oct. 20, 2000, [114 Stat. 1332][/us/stat/114/1332]; [Pub. L. 109–415, title II][/us/pl/109/415/tII], §§ 201(c)(4), 202, 204(a), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2788][/us/stat/120/2788], 2796, 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __References in Text__ 
 
-    [Section 300ff–22 of this title][/us/usc/t42/s300ff–22], referred to in subsec. (d), was amended generally by [Pub. L. 109–415, title II, § 201(a)][/us/pl/109/415/s201/a], Dec. 19, 2006, [120 Stat. 2785][/us/stat/120/2785], and, as so amended, does not contain a par. (2).
+    [Section 300ff–22 of this title][/us/usc/t42/s300ff–22], referred to in subsec. (d), was amended generally by [Pub. L. 109–415, title II][/us/pl/109/415/tII], § 201(a), Dec. 19, 2006, [120 Stat. 2785][/us/stat/120/2785], and, as so amended, does not contain a par. (2).
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    Subsec. (a). [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease” in two places.
+    Subsec. (a). [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease” in two places.
 
-    [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
+    [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
 
-    [Pub. L. 109–415, § 201(c)(4)][/us/pl/109/415/s201/c/4], substituted “[section 300ff–22(b)(3)(B) of this title][/us/usc/t42/s300ff–22/b/3/B]” for “[section 300ff–22(a)(5) of this title][/us/usc/t42/s300ff–22/a/5]”.
+    [Pub. L. 109–415][/us/pl/109/415], § 201(c)(4), substituted “[section 300ff–22(b)(3)(B) of this title][/us/usc/t42/s300ff–22/b/3/B]” for “[section 300ff–22(a)(5) of this title][/us/usc/t42/s300ff–22/a/5]”.
 
-    Subsec. (b)(1). [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease”.
+    Subsec. (b)(1). [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-    Subsec. (c)(1). [Pub. L. 109–415, § 202(a)(1)][/us/pl/109/415/s202/a/1], added par. (1) and struck out former par. (1) which read as follows: “determine, in accordance with guidelines issued by the Secretary, which treatments are eligible to be included under the program established under this section;”.
+    Subsec. (c)(1). [Pub. L. 109–415][/us/pl/109/415], § 202(a)(1), added par. (1) and struck out former par. (1) which read as follows: “determine, in accordance with guidelines issued by the Secretary, which treatments are eligible to be included under the program established under this section;”.
 
-    Subsec. (c)(3). [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease”.
+    Subsec. (c)(3). [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-    Subsec. (e). [Pub. L. 109–415, § 202(a)(3)][/us/pl/109/415/s202/a/3], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 109–415][/us/pl/109/415], § 202(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 109–415, § 202(a)(2)][/us/pl/109/415/s202/a/2], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 109–415][/us/pl/109/415], § 202(a)(2), redesignated subsec. (e) as (f).
 
-    Subsec. (f)(1). [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease”.
+    Subsec. (f)(1). [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-    [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
+    [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
 
-    Subsec. (g). [Pub. L. 109–415, § 202(b)][/us/pl/109/415/s202/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–415][/us/pl/109/415], § 202(b), added subsec. (g).
 
-    2000—Subsec. (c). [Pub. L. 106–345, § 204(a)][/us/pl/106/345/s204/a], added par. (6) and concluding provisions.
+    2000—Subsec. (c). [Pub. L. 106–345][/us/pl/106/345], § 204(a), added par. (6) and concluding provisions.
 
-    Subsec. (e). [Pub. L. 106–345, § 204(b)][/us/pl/106/345/s204/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–345][/us/pl/106/345], § 204(b), added subsec. (e).
 
-    1996—Subsec. (a). [Pub. L. 104–146, § 3(c)(3)(A)][/us/pl/104/146/s3/c/3/A], substituted “shall use a portion of the amounts” for “may use amounts” and “[section 300ff–22(a)(5) of this title][/us/usc/t42/s300ff–22/a/5] to provide therapeutics to treat HIV disease” for “[section 300ff–22(a)(4) of this title][/us/usc/t42/s300ff–22/a/4] to provide treatments that have been determined to prolong life” and inserted before period “, including measures for the prevention and treatment of opportunistic infections”.
+    1996—Subsec. (a). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(3)(A), substituted “shall use a portion of the amounts” for “may use amounts” and “[section 300ff–22(a)(5) of this title][/us/usc/t42/s300ff–22/a/5] to provide therapeutics to treat HIV disease” for “[section 300ff–22(a)(4) of this title][/us/usc/t42/s300ff–22/a/4] to provide treatments that have been determined to prolong life” and inserted before period “, including measures for the prevention and treatment of opportunistic infections”.
 
-    Subsec. (c)(5). [Pub. L. 104–146, § 3(c)(3)(B)][/us/pl/104/146/s3/c/3/B], added par. (5).
+    Subsec. (c)(5). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(3)(B), added par. (5).
 
-    Subsec. (d). [Pub. L. 104–146, § 3(c)(3)(C)][/us/pl/104/146/s3/c/3/C], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(3)(C), added subsec. (d).
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -130,45 +130,45 @@
 [/us/usc/t42/s300ff–22/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fb%2F3%2FB
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs201
+[/us/pl/101/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtII
 [/us/stat/104/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F590
-[/us/pl/104/146/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F3
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1355
-[/us/pl/106/345/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs204
+[/us/pl/106/345/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtII
 [/us/stat/114/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1332
-[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2788
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/usc/t42/s300ff–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322
-[/us/pl/109/415/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fa
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2785
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s201/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fc%2F4
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–22/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fb%2F3%2FB
 [/us/usc/t42/s300ff–22/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fa%2F5
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/109/415/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs202%2Fa%2F1
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/109/415/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs202%2Fa%2F3
-[/us/pl/109/415/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs202%2Fa%2F2
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs202%2Fb
-[/us/pl/106/345/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs204%2Fa
-[/us/pl/106/345/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs204%2Fb
-[/us/pl/104/146/s3/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F3%2FA
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/usc/t42/s300ff–22/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fa%2F5
 [/us/usc/t42/s300ff–22/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fa%2F4
-[/us/pl/104/146/s3/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F3%2FB
-[/us/pl/104/146/s3/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F3%2FC
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

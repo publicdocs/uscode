@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be deemed to exempt or relieve any person from any liability, duty, penalty, or punishment provided by any present or future law of any State or political subdivision of a State, other than any such law which purports to require or permit the doing of any act which would be an unlawful employment practice under this subchapter.
 
-([Pub. L. 88–352, title VII, § 708][/us/pl/88/352/s708], July 2, 1964, [78 Stat. 262][/us/stat/78/262].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 708, July 2, 1964, [78 Stat. 262][/us/stat/78/262].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs708
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F262
 
 

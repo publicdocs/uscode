@@ -43,7 +43,7 @@
 
             (C) other appropriate sectors.
 
-([Pub. L. 110–140, title V, § 542][/us/pl/110/140/s542], Dec. 19, 2007, [121 Stat. 1668][/us/stat/121/1668].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 542, Dec. 19, 2007, [121 Stat. 1668][/us/stat/121/1668].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs542
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1668
 
 

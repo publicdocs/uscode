@@ -33,7 +33,7 @@
 
         (5) of the telephone number of the loan servicer or successor, the telephone number of the Department of Housing and Urban Development housing counseling line, and the Uniform Resource Locators (URLs) for the Department of Housing and Urban Development Web sites for housing counseling and for tips for avoiding foreclosure.
 
-([Pub. L. 111–203, title XIV, § 1452][/us/pl/111/203/s1452], July 21, 2010, [124 Stat. 2177][/us/stat/124/2177].)
+([Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1452, July 21, 2010, [124 Stat. 2177][/us/stat/124/2177].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t12/s1701x/a/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701x%2Fa%2F4%2FF
-[/us/pl/111/203/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1452
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2177
 [/us/pl/111/203/s1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1444
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc

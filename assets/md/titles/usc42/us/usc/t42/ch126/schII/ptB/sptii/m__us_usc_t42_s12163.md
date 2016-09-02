@@ -17,7 +17,7 @@
 
     Accessibility standards included in regulations issued under this subpart shall be consistent with the minimum guidelines issued by the Architectural and Transportation Barriers Compliance Board under [section 12204(a) of this title][/us/usc/t42/s12204/a].
 
-([Pub. L. 101–336, title II, § 243][/us/pl/101/336/s243], July 26, 1990, [104 Stat. 352][/us/stat/104/352].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 243, July 26, 1990, [104 Stat. 352][/us/stat/104/352].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s12204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12204%2Fa
-[/us/pl/101/336/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs243
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F352
 [/us/pl/101/336/s246/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs246%2Fa
 [/us/usc/t42/s12161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12161

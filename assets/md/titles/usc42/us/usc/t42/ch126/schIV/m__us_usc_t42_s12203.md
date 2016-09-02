@@ -27,7 +27,7 @@
 
         The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b) of this section, with respect to subchapter I, subchapter II and subchapter III, respectively.
 
-([Pub. L. 101–336, title V, § 503][/us/pl/101/336/s503], July 26, 1990, [104 Stat. 370][/us/stat/104/370].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 503, July 26, 1990, [104 Stat. 370][/us/stat/104/370].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@ For constitutionality of [section 503 of Pub. L. 101–336][/us/pl/101/336/s503]
 ----------
 ----------
 
-[/us/pl/101/336/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs503
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F370
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

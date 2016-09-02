@@ -445,7 +445,7 @@
 
         Nothing in this section or [section 1395eee of this title][/us/usc/t42/s1395eee] shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter or eligible for medical assistance under this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1934, as added [Pub. L. 105–33, title IV, § 4802(a)(3)][/us/pl/105/33/s4802/a/3], Aug. 5, 1997, [111 Stat. 539][/us/stat/111/539]; amended [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 902(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–583; [Pub. L. 108–173, title II, § 236(b)(2)][/us/pl/108/173/s236/b/2], Dec. 8, 2003, [117 Stat. 2211][/us/stat/117/2211].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1934, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4802(a)(3), Aug. 5, 1997, [111 Stat. 539][/us/stat/111/539]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 902(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–583; [Pub. L. 108–173, title II][/us/pl/108/173/tII], § 236(b)(2), Dec. 8, 2003, [117 Stat. 2211][/us/stat/117/2211].)
 
  __References in Text__ 
 
@@ -453,11 +453,11 @@
 
     The Balanced Budget Act of 1997, referred to in subsecs. (a)(3)(B)(ii) and (g)(5), is [Pub. L. 105–33][/us/pl/105/33], Aug. 5, 1997, [111 Stat. 251][/us/stat/111/251]. Section 4804(b) of the Act is set out as a note under [section 1395eee of this title][/us/usc/t42/s1395eee]. For complete classification of this Act to the Code, see Tables.
 
-    Section 603(c) of the Social Security Amendments of 1983, referred to in subsec. (a)(7)(A), is [section 603(c) of Pub. L. 98–21][/us/pl/98/21/s603/c], title VI, Apr. 20, 1983, [97 Stat. 168][/us/stat/97/168], which was not classified to the Code and was repealed by [Pub. L. 105–33, title IV, § 4803(d)][/us/pl/105/33/s4803/d], Aug. 5, 1997, [111 Stat. 550][/us/stat/111/550], subject to transition provisions.
+    Section 603(c) of the Social Security Amendments of 1983, referred to in subsec. (a)(7)(A), is [section 603(c) of Pub. L. 98–21][/us/pl/98/21/s603/c], title VI, Apr. 20, 1983, [97 Stat. 168][/us/stat/97/168], which was not classified to the Code and was repealed by [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4803(d), Aug. 5, 1997, [111 Stat. 550][/us/stat/111/550], subject to transition provisions.
 
-    Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(7)(A), is [section 9220 of Pub. L. 99–272][/us/pl/99/272/s9220], title IX, Apr. 7, 1986, [100 Stat. 183][/us/stat/100/183], which was not classified to the Code and was repealed by [Pub. L. 105–33, title IV, § 4803(d)][/us/pl/105/33/s4803/d], Aug. 5, 1997, [111 Stat. 550][/us/stat/111/550], subject to transition provisions.
+    Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(7)(A), is [section 9220 of Pub. L. 99–272][/us/pl/99/272/s9220], title IX, Apr. 7, 1986, [100 Stat. 183][/us/stat/100/183], which was not classified to the Code and was repealed by [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4803(d), Aug. 5, 1997, [111 Stat. 550][/us/stat/111/550], subject to transition provisions.
 
-    Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is [section 9412(b) of Pub. L. 99–509][/us/pl/99/509/s9412/b], title IX, Oct. 21, 1986, [100 Stat. 2062][/us/stat/100/2062], which was not classified to the Code and was repealed by [Pub. L. 105–33, title IV, § 4803(d)][/us/pl/105/33/s4803/d], Aug. 5, 1997, [111 Stat. 550][/us/stat/111/550], subject to transition provisions.
+    Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is [section 9412(b) of Pub. L. 99–509][/us/pl/99/509/s9412/b], title IX, Oct. 21, 1986, [100 Stat. 2062][/us/stat/100/2062], which was not classified to the Code and was repealed by [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4803(d), Aug. 5, 1997, [111 Stat. 550][/us/stat/111/550], subject to transition provisions.
 
     For the effective date of this section, referred to in subsec. (a)(9)(B), see [section 4803 of Pub. L. 105–33][/us/pl/105/33/s4803], set out as a Transition; Regulations note under [section 1395eee of this title][/us/usc/t42/s1395eee].
 
@@ -523,26 +523,26 @@
 [/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4802%2Fa%2F3
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F539
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s236/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs236%2Fb%2F2
+[/us/pl/108/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtII
 [/us/stat/117/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2211
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/stat/111/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F251
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/pl/98/21/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs603%2Fc
 [/us/stat/97/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F168
-[/us/pl/105/33/s4803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4803%2Fd
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F550
 [/us/pl/99/272/s9220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9220
 [/us/stat/100/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F183
-[/us/pl/105/33/s4803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4803%2Fd
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F550
 [/us/pl/99/509/s9412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9412%2Fb
 [/us/stat/100/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2062
-[/us/pl/105/33/s4803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4803%2Fd
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F550
 [/us/pl/105/33/s4803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4803
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee

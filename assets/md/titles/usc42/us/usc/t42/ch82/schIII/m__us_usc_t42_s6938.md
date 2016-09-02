@@ -79,7 +79,7 @@
 
         Nothing in this section shall preclude the Administrator from establishing other standards for the export of hazardous wastes under [section 6922 of this title][/us/usc/t42/s6922] or [section 6923 of this title][/us/usc/t42/s6923].
 
-([Pub. L. 89–272, title II, § 3017][/us/pl/89/272/s3017], as added [Pub. L. 98–616, title II, § 245(a)][/us/pl/98/616/s245/a], Nov. 8, 1984, [98 Stat. 3262][/us/stat/98/3262].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3017, as added [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 245(a), Nov. 8, 1984, [98 Stat. 3262][/us/stat/98/3262].)
 
 ----------
 
@@ -91,8 +91,8 @@
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/usc/t42/s6922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6922
 [/us/usc/t42/s6923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6923
-[/us/pl/89/272/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3017
-[/us/pl/98/616/s245/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs245%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3262
 
 

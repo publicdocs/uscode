@@ -17,7 +17,7 @@
 
     None of the funds authorized under this part shall be used to finance the construction of housing.
 
-([Pub. L. 103–322, title III, § 31133][/us/pl/103/322/s31133], Sept. 13, 1994, [108 Stat. 1888][/us/stat/108/1888].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31133, Sept. 13, 1994, [108 Stat. 1888][/us/stat/108/1888].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31133
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1888
 
 

@@ -15,7 +15,7 @@
 
 ## § 11231. Transferred
 
-    Section, [Pub. L. 99–660, title IX, § 931][/us/pl/99/660/s931], Nov. 14, 1986, [100 Stat. 3807][/us/stat/100/3807], which provided for awards for biomedical research on Alzheimer’s disease and related dementias, was redesignated section 445B of the Public Health Service Act by [Pub. L. 100–607, title I, § 142(a)][/us/pl/100/607/s142/a], Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], and is classified to [section 285e–4 of this title][/us/usc/t42/s285e–4].
+    Section, [Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 931, Nov. 14, 1986, [100 Stat. 3807][/us/stat/100/3807], which provided for awards for biomedical research on Alzheimer’s disease and related dementias, was redesignated section 445B of the Public Health Service Act by [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 142(a), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], and is classified to [section 285e–4 of this title][/us/usc/t42/s285e–4].
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/99/660/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs931
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3807
-[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
 [/us/usc/t42/s285e–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%934
 

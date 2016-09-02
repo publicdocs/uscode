@@ -27,7 +27,7 @@
 
         The per annum compensation of the chairman of each river basin commission shall be determined by the President, but when employed on a full-time annual basis shall not exceed the maximum scheduled rate for grade GS–18 or when engaged in the performance of the commission’s duties on an intermittent basis such compensation shall be not more than $100 per day and shall not exceed $12,000 in any year.
 
-([Pub. L. 89–80, title II, § 206][/us/pl/89/80/s206], July 22, 1965, [79 Stat. 250][/us/stat/79/250].)
+([Pub. L. 89–80, title II][/us/pl/89/80/tII], § 206, July 22, 1965, [79 Stat. 250][/us/stat/79/250].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs206
+[/us/pl/89/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtII
 [/us/stat/79/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F250
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

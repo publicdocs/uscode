@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, in this fiscal year and each fiscal year thereafter, the Inspector General of the Nuclear Regulatory Commission is authorized to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under the Inspector General Act of 1978 (5 U.S.C. App.) with respect to the Nuclear Regulatory Commission.
 
-([Pub. L. 113–235, div. D, title IV][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2330][/us/stat/128/2330].)
+([Pub. L. 113–235, div. D, title IV][/us/pl/113/235/dD/tIV], Dec. 16, 2014, [128 Stat. 2330][/us/stat/128/2330].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
     Provisions similar to the text of this section were contained in the following prior appropriation act:
 
-    [Pub. L. 113–76, div. D, title IV, § 401][/us/pl/113/76/s401], Jan. 17, 2014, [128 Stat. 182][/us/stat/128/182].
+    [Pub. L. 113–76, div. D, title IV][/us/pl/113/76/dD/tIV], § 401, Jan. 17, 2014, [128 Stat. 182][/us/stat/128/182].
 
 ----------
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdD%2FtIV
 [/us/stat/128/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2330
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/113/76/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs401
+[/us/pl/113/76/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtIV
 [/us/stat/128/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F182
 
 

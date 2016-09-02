@@ -953,13 +953,13 @@
 
             The term “wholesaler” means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including (but not limited to) manufacturers, repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including manufacturer’s and distributor’s warehouses, chain drug warehouses, and wholesale drug warehouses) independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1927, as added [Pub. L. 101–508, title IV, § 4401(a)(3)][/us/pl/101/508/s4401/a/3], Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143]; amended [Pub. L. 102–585, title VI, § 601(a)][/us/pl/102/585/s601/a]–(c), Nov. 4, 1992, [106 Stat. 4962–4964][/us/stat/106/4962-4964]; [Pub. L. 103–18, § 2(a)][/us/pl/103/18/s2/a], Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54]; [Pub. L. 103–66, title XIII, § 13602(a)][/us/pl/103/66/s13602/a], Aug. 10, 1993, [107 Stat. 613][/us/stat/107/613]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4701(b)(2)(A)(x), 4756, Aug. 5, 1997, [111 Stat. 493][/us/stat/111/493], 527; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 606(a), 608(u)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–396, 1501A–398; [Pub. L. 108–173, title I][/us/pl/108/173], §§ 101(e)(4), (9), 103(e)(1), 105(b), title III, § 303(i)(4), title IX, § 900(e)(1)(K), (L), title X, § 1002, Dec. 8, 2003, [117 Stat. 2151][/us/stat/117/2151], 2152, 2159, 2166, 2254, 2372, 2431; [Pub. L. 109–91, title I, § 104(a)][/us/pl/109/91/s104/a], Oct. 20, 2005, [119 Stat. 2092][/us/stat/119/2092]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6001(a)–(c)(2), (d)–(f)(2), 6002(a), 6003(a), (b), 6004(a), Feb. 8, 2006, [120 Stat. 54–61][/us/stat/120/54-61]; [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(ii)][/us/pl/109/432/s405/c/2/A/ii], Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 111–8, div. F, title II, § 221(a)][/us/pl/111/8/s221/a], Mar. 11, 2009, [123 Stat. 783][/us/stat/123/783]; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2501(a), (b), (c)(2), (d)(1), (e), 2502(a), 2503(a)–(c), title III, § 3301(d)(2), title IV, § 4107(b), Mar. 23, 2010, [124 Stat. 306–310][/us/stat/124/306-310], 312, 468, 560; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1101(c), 1206(a), Mar. 30, 2010, [124 Stat. 1039][/us/stat/124/1039], 1056; [Pub. L. 111–226, title II, § 202][/us/pl/111/226/s202], Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394]; [Pub. L. 111–309, title II, § 204(b)][/us/pl/111/309/s204/b], Dec. 15, 2010, [124 Stat. 3290][/us/stat/124/3290]; [Pub. L. 114–74, title VI, § 602(a)][/us/pl/114/74/s602/a], Nov. 2, 2015, [129 Stat. 596][/us/stat/129/596].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1927, as added [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4401(a)(3), Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143]; amended [Pub. L. 102–585, title VI][/us/pl/102/585/tVI], § 601(a)–(c), Nov. 4, 1992, [106 Stat. 4962–4964][/us/stat/106/4962-4964]; [Pub. L. 103–18][/us/pl/103/18], § 2(a), Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13602(a), Aug. 10, 1993, [107 Stat. 613][/us/stat/107/613]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], §§ 4701(b)(2)(A)(x), 4756, Aug. 5, 1997, [111 Stat. 493][/us/stat/111/493], 527; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, §§ 606(a), 608(u)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–396, 1501A–398; [Pub. L. 108–173, title I][/us/pl/108/173/tI], §§ 101(e)(4), (9), 103(e)(1), 105(b), title III, § 303(i)(4), title IX, § 900(e)(1)(K), (L), title X, § 1002, Dec. 8, 2003, [117 Stat. 2151][/us/stat/117/2151], 2152, 2159, 2166, 2254, 2372, 2431; [Pub. L. 109–91, title I][/us/pl/109/91/tI], § 104(a), Oct. 20, 2005, [119 Stat. 2092][/us/stat/119/2092]; [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], §§ 6001(a)–(c)(2), (d)–(f)(2), 6002(a), 6003(a), (b), 6004(a), Feb. 8, 2006, [120 Stat. 54–61][/us/stat/120/54-61]; [Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 405(c)(2)(A)(ii), Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 111–8, div. F, title II][/us/pl/111/8/dF/tII], § 221(a), Mar. 11, 2009, [123 Stat. 783][/us/stat/123/783]; [Pub. L. 111–148, title II][/us/pl/111/148/tII], §§ 2501(a), (b), (c)(2), (d)(1), (e), 2502(a), 2503(a)–(c), title III, § 3301(d)(2), title IV, § 4107(b), Mar. 23, 2010, [124 Stat. 306–310][/us/stat/124/306-310], 312, 468, 560; [Pub. L. 111–152, title I][/us/pl/111/152/tI], §§ 1101(c), 1206(a), Mar. 30, 2010, [124 Stat. 1039][/us/stat/124/1039], 1056; [Pub. L. 111–226, title II][/us/pl/111/226/tII], § 202, Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394]; [Pub. L. 111–309, title II][/us/pl/111/309/tII], § 204(b), Dec. 15, 2010, [124 Stat. 3290][/us/stat/124/3290]; [Pub. L. 114–74, title VI][/us/pl/114/74/tVI], § 602(a), Nov. 2, 2015, [129 Stat. 596][/us/stat/129/596].)
 
  __References in Text__ 
 
     The amendments made by subsections (a)(1), (b), (c), and (d) of section 2501 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(1)(C)(i)(II), mean the amendments made by section 2501(a)(1), (b), (c), and (d) of [Pub. L. 111–148][/us/pl/111/148], which amended this section and [section 1396b of this title][/us/usc/t42/s1396b].
 
-    [Section 1395w–104(c)(2)(E) of this title][/us/usc/t42/s1395w–104/c/2/E], referred to in subsec. (b)(3)(D), was redesignated [section 1395w–104(c)(2)(G) of this title][/us/usc/t42/s1395w–104/c/2/G] by [Pub. L. 111–148, title X, § 10328(a)][/us/pl/111/148/s10328/a], Mar. 23, 2010, [124 Stat. 964][/us/stat/124/964].
+    [Section 1395w–104(c)(2)(E) of this title][/us/usc/t42/s1395w–104/c/2/E], referred to in subsec. (b)(3)(D), was redesignated [section 1395w–104(c)(2)(G) of this title][/us/usc/t42/s1395w–104/c/2/G] by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10328(a), Mar. 23, 2010, [124 Stat. 964][/us/stat/124/964].
 
     The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(D)(i)(IV)(aa), is classified generally to Title 26, Internal Revenue Code.
 
@@ -969,11 +969,11 @@
 
     Paragraph (4) and subsection (e)(4), referred to in subsecs. (e)(5) and (f)(1)(B), probably means text that was editorially designated as par. (4) of subsec. (e). See 1993 Amendment note below.
 
-    Section 507 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (k)(2)(A)(i), was repealed by [Pub. L. 105–115, title I, § 125(b)(1)][/us/pl/105/115/s125/b/1], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
+    Section 507 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (k)(2)(A)(i), was repealed by [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(1), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
 
     Section 107(c)(3) of the Drug Amendments of 1962, referred to in subsec. (k)(2)(A)(iii)(I), is [section 107(c)(3) of Pub. L. 87–781][/us/pl/87/781/s107/c/3] which is set out in an Effective Date of 1962 Amendment note under [section 321 of Title 21][/us/usc/t21/s321], Food and Drugs.
 
-    Section 506 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (k)(2)(C), was repealed and a new section 506 enacted by [Pub. L. 105–115, title I][/us/pl/105/115], §§ 112(a), 125(a)(1), Nov. 21, 1997, [111 Stat. 2309][/us/stat/111/2309], 2325, which no longer relates to insulin.
+    Section 506 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (k)(2)(C), was repealed and a new section 506 enacted by [Pub. L. 105–115, title I][/us/pl/105/115/tI], §§ 112(a), 125(a)(1), Nov. 21, 1997, [111 Stat. 2309][/us/stat/111/2309], 2325, which no longer relates to insulin.
 
  __Codification__ 
 
@@ -985,31 +985,31 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c)(3)(A). [Pub. L. 114–74, § 602(a)(1)][/us/pl/114/74/s602/a/1], substituted “Except as provided in subparagraph (C), the amount” for “The amount”.
+    2015—Subsec. (c)(3)(A). [Pub. L. 114–74][/us/pl/114/74], § 602(a)(1), substituted “Except as provided in subparagraph (C), the amount” for “The amount”.
 
-    Subsec. (c)(3)(C). [Pub. L. 114–74, § 602(a)(2)][/us/pl/114/74/s602/a/2], added subpar. (C).
+    Subsec. (c)(3)(C). [Pub. L. 114–74][/us/pl/114/74], § 602(a)(2), added subpar. (C).
 
     2010—Subsec. (a)(5)(B). [Pub. L. 111–309][/us/pl/111/309] substituted a period for “and a children’s hospital described in [section 1395ww(d)(1)(B)(iii) of this title][/us/usc/t42/s1395ww/d/1/B/iii] which meets the requirements of clauses (i) and (iii) of [section 256b(b)(4)(L) of this title][/us/usc/t42/s256b/b/4/L] and which would meet the requirements of clause (ii) of such section if that clause were applied by taking into account the percentage of care provided by the hospital to patients eligible for medical assistance under a State plan under this subchapter.”
 
-    Subsec. (b)(1)(A). [Pub. L. 111–148, § 2501(c)(2)(A)(i)][/us/pl/111/148/s2501/c/2/A/i], inserted “, including such drugs dispensed to individuals enrolled with a medicaid managed care organization if the organization is responsible for coverage of such drugs” after “for such period”.
+    Subsec. (b)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 2501(c)(2)(A)(i), inserted “, including such drugs dispensed to individuals enrolled with a medicaid managed care organization if the organization is responsible for coverage of such drugs” after “for such period”.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–148, § 2501(a)(2)][/us/pl/111/148/s2501/a/2], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 111–148][/us/pl/111/148], § 2501(a)(2), added subpar. (C).
 
-    Subsec. (b)(2)(A). [Pub. L. 111–148, § 2501(c)(2)(A)(ii)][/us/pl/111/148/s2501/c/2/A/ii], inserted “including such information reported by each medicaid managed care organization,” after “for which payment was made under the plan during the period,”.
+    Subsec. (b)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 2501(c)(2)(A)(ii), inserted “including such information reported by each medicaid managed care organization,” after “for which payment was made under the plan during the period,”.
 
-    Subsec. (b)(3)(A). [Pub. L. 111–148, § 2503(b)(1)(B)][/us/pl/111/148/s2503/b/1/B], which directed insertion, in the second sentence, of “(relating to the weighted average of the most recently reported monthly average manufacturer prices)” after “(D)(v)” was executed by making the insertion in concluding provisions to reflect the probable intent of Congress.
+    Subsec. (b)(3)(A). [Pub. L. 111–148][/us/pl/111/148], § 2503(b)(1)(B), which directed insertion, in the second sentence, of “(relating to the weighted average of the most recently reported monthly average manufacturer prices)” after “(D)(v)” was executed by making the insertion in concluding provisions to reflect the probable intent of Congress.
 
-    Subsec. (b)(3)(A)(iv). [Pub. L. 111–148, § 2503(b)(1)(A)][/us/pl/111/148/s2503/b/1/A], which directed, in the first sentence, addition of cl. (iv) after cl. (iii), was executed by adding cl. (iv) after cl. (iii) to reflect the probable intent of Congress.
+    Subsec. (b)(3)(A)(iv). [Pub. L. 111–148][/us/pl/111/148], § 2503(b)(1)(A), which directed, in the first sentence, addition of cl. (iv) after cl. (iii), was executed by adding cl. (iv) after cl. (iii) to reflect the probable intent of Congress.
 
-    Subsec. (b)(3)(D)(v). [Pub. L. 111–148, § 2503(b)(2)][/us/pl/111/148/s2503/b/2], substituted “the weighted average of the most recently reported monthly average manufacturer prices and the average retail survey price determined for each multiple source drug in accordance with subsection (f)” for “average manufacturer prices”.
+    Subsec. (b)(3)(D)(v). [Pub. L. 111–148][/us/pl/111/148], § 2503(b)(2), substituted “the weighted average of the most recently reported monthly average manufacturer prices and the average retail survey price determined for each multiple source drug in accordance with subsection (f)” for “average manufacturer prices”.
 
-    Subsec. (c)(1)(B)(i)(IV) to (VI). [Pub. L. 111–148, § 2501(a)(1)(A)][/us/pl/111/148/s2501/a/1/A], struck out “and” at end of subcl. (IV), inserted “and before January 1, 2010” after “December 31, 1995,” and substituted “; and” for period at end in subcl. (V), and added subcl. (VI).
+    Subsec. (c)(1)(B)(i)(IV) to (VI). [Pub. L. 111–148][/us/pl/111/148], § 2501(a)(1)(A), struck out “and” at end of subcl. (IV), inserted “and before January 1, 2010” after “December 31, 1995,” and substituted “; and” for period at end in subcl. (V), and added subcl. (VI).
 
-    Subsec. (c)(1)(B)(iii). [Pub. L. 111–148, § 2501(a)(1)(B)][/us/pl/111/148/s2501/a/1/B], added cl. (iii).
+    Subsec. (c)(1)(B)(iii). [Pub. L. 111–148][/us/pl/111/148], § 2501(a)(1)(B), added cl. (iii).
 
-    Subsec. (c)(1)(C)(i)(VI). [Pub. L. 111–148, § 3301(d)(2)][/us/pl/111/148/s3301/d/2], inserted “, or any discounts provided by manufacturers under the Medicare coverage gap discount program under [section 1395w–114a of this title][/us/usc/t42/s1395w–114a]” before period at end.
+    Subsec. (c)(1)(C)(i)(VI). [Pub. L. 111–148][/us/pl/111/148], § 3301(d)(2), inserted “, or any discounts provided by manufacturers under the Medicare coverage gap discount program under [section 1395w–114a of this title][/us/usc/t42/s1395w–114a]” before period at end.
 
-    Subsec. (c)(2)(C). [Pub. L. 111–152, § 1206(a)][/us/pl/111/152/s1206/a], amended subpar. (C) generally. Prior to amendment, text read as follows:
+    Subsec. (c)(2)(C). [Pub. L. 111–152][/us/pl/111/152], § 1206(a), amended subpar. (C) generally. Prior to amendment, text read as follows:
 
     “(i) In general.—Except as provided in clause (ii), in the case of a drug that is a new formulation, such as an extended-release formulation, of a single source drug or an innovator multiple source drug, the rebate obligation with respect to the drug under this section shall be the amount computed under this section for the new formulation of the drug or, if greater, the product of—
 
@@ -1021,209 +1021,209 @@
 
     “(ii) No application to new formulations of orphan drugs.—Clause (i) shall not apply to a new formulation of a covered outpatient drug that is or has been designated under section 526 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bb][/us/usc/t21/s360bb]) for a rare disease or condition, without regard to whether the period of market exclusivity for the drug under section 527 of such Act has expired or the specific indication for use of the drug.”
 
-    [Pub. L. 111–148, § 2501(d)(1)][/us/pl/111/148/s2501/d/1], added subpar. (C).
+    [Pub. L. 111–148][/us/pl/111/148], § 2501(d)(1), added subpar. (C).
 
-    Subsec. (c)(2)(D). [Pub. L. 111–148, § 2501(e)][/us/pl/111/148/s2501/e], added subpar. (D).
+    Subsec. (c)(2)(D). [Pub. L. 111–148][/us/pl/111/148], § 2501(e), added subpar. (D).
 
-    Subsec. (c)(3)(B). [Pub. L. 111–148, § 2501(b)][/us/pl/111/148/s2501/b], struck out “and” at end of cl. (i), inserted “and before January 1, 2010,” after “December 31, 1993,” and substituted “; and” for period at end in cl. (ii), and added cl. (iii).
+    Subsec. (c)(3)(B). [Pub. L. 111–148][/us/pl/111/148], § 2501(b), struck out “and” at end of cl. (i), inserted “and before January 1, 2010,” after “December 31, 1993,” and substituted “; and” for period at end in cl. (ii), and added cl. (iii).
 
-    Subsec. (d)(2)(E). [Pub. L. 111–148, § 2502(a)(1)][/us/pl/111/148/s2502/a/1], redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “Agents when used to promote smoking cessation.”
+    Subsec. (d)(2)(E). [Pub. L. 111–148][/us/pl/111/148], § 2502(a)(1), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “Agents when used to promote smoking cessation.”
 
-    Subsec. (d)(2)(F). [Pub. L. 111–148, § 4107(b)][/us/pl/111/148/s4107/b], inserted “, except, in the case of pregnant women when recommended in accordance with the Guideline referred to in [section 1396d(bb)(2)(A) of this title][/us/usc/t42/s1396d/bb/2/A], agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation” before period at end.
+    Subsec. (d)(2)(F). [Pub. L. 111–148][/us/pl/111/148], § 4107(b), inserted “, except, in the case of pregnant women when recommended in accordance with the Guideline referred to in [section 1396d(bb)(2)(A) of this title][/us/usc/t42/s1396d/bb/2/A], agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation” before period at end.
 
-    [Pub. L. 111–148, § 2502(a)(1)(B)][/us/pl/111/148/s2502/a/1/B], redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
+    [Pub. L. 111–148][/us/pl/111/148], § 2502(a)(1)(B), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-    Subsec. (d)(2)(G) to (K). [Pub. L. 111–148, § 2502(a)(1)][/us/pl/111/148/s2502/a/1], redesignated subpars. (H) and (K) as (G) and (H), respectively, and struck out subpars. (I) and (J) which read as follows:
+    Subsec. (d)(2)(G) to (K). [Pub. L. 111–148][/us/pl/111/148], § 2502(a)(1), redesignated subpars. (H) and (K) as (G) and (H), respectively, and struck out subpars. (I) and (J) which read as follows:
 
     “(I) Barbiturates.
 
     “(J) Benzodiazepines.”
 
-    Subsec. (d)(7). [Pub. L. 111–148, § 2502(a)(2)][/us/pl/111/148/s2502/a/2], added par. (7).
+    Subsec. (d)(7). [Pub. L. 111–148][/us/pl/111/148], § 2502(a)(2), added par. (7).
 
-    Subsec. (e)(4). [Pub. L. 111–148, § 2503(a)(1)(A)][/us/pl/111/148/s2503/a/1/A], struck out “(or, effective January 1, 2007, two or more)” after “three or more”.
+    Subsec. (e)(4). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(1)(A), struck out “(or, effective January 1, 2007, two or more)” after “three or more”.
 
-    Subsec. (e)(5). [Pub. L. 111–148, § 2503(a)(1)(B)][/us/pl/111/148/s2503/a/1/B], added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Effective January 1, 2007, in applying the Federal upper reimbursement limit under paragraph (4) and section 447.332(b) of title 42 of the Code of Federal Regulations, the Secretary shall substitute 250 percent of the average manufacturer price (as computed without regard to customary prompt pay discounts extended to wholesalers) for 150 percent of the published price.”
+    Subsec. (e)(5). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(1)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Effective January 1, 2007, in applying the Federal upper reimbursement limit under paragraph (4) and section 447.332(b) of title 42 of the Code of Federal Regulations, the Secretary shall substitute 250 percent of the average manufacturer price (as computed without regard to customary prompt pay discounts extended to wholesalers) for 150 percent of the published price.”
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 111–148, § 2503(c)(1)][/us/pl/111/148/s2503/c/1], inserted “with respect to a retail community pharmacy,” before “the determination”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 111–148][/us/pl/111/148], § 2503(c)(1), inserted “with respect to a retail community pharmacy,” before “the determination”.
 
-    Subsec. (f)(1)(C)(ii). [Pub. L. 111–148, § 2503(c)(2)][/us/pl/111/148/s2503/c/2], substituted “retail community pharmacies” for “retail pharmacies”.
+    Subsec. (f)(1)(C)(ii). [Pub. L. 111–148][/us/pl/111/148], § 2503(c)(2), substituted “retail community pharmacies” for “retail pharmacies”.
 
-    Subsec. (j)(1). [Pub. L. 111–148, § 2501(c)(2)(B)][/us/pl/111/148/s2501/c/2/B], added par. (1) and struck out former par. (1) which read as follows: “Covered outpatient drugs dispensed by health maintenance organizations, including medicaid managed care organizations that contract under [section 1396b(m) of this title][/us/usc/t42/s1396b/m], are not subject to the requirements of this section.”
+    Subsec. (j)(1). [Pub. L. 111–148][/us/pl/111/148], § 2501(c)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “Covered outpatient drugs dispensed by health maintenance organizations, including medicaid managed care organizations that contract under [section 1396b(m) of this title][/us/usc/t42/s1396b/m], are not subject to the requirements of this section.”
 
-    Subsec. (k)(1)(A). [Pub. L. 111–148, § 2503(a)(2)(A)][/us/pl/111/148/s2503/a/2/A], substituted “by—” for “by wholesalers for drugs distributed to the retail pharmacy class of trade.” and added cls. (i) and (ii).
+    Subsec. (k)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(2)(A), substituted “by—” for “by wholesalers for drugs distributed to the retail pharmacy class of trade.” and added cls. (i) and (ii).
 
-    Subsec. (k)(1)(B). [Pub. L. 111–148, § 2503(a)(2)(B)][/us/pl/111/148/s2503/a/2/B], added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The average manufacturer price for a covered outpatient drug shall be determined without regard to customary prompt pay discounts extended to wholesalers.”
+    Subsec. (k)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(2)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The average manufacturer price for a covered outpatient drug shall be determined without regard to customary prompt pay discounts extended to wholesalers.”
 
     Subsec. (k)(1)(B)(i)(IV). [Pub. L. 111–226][/us/pl/111/226] inserted at end “, unless the drug is an inhalation, infusion, instilled, implanted, or injectable drug that is not generally dispensed through a retail community pharmacy; and”.
 
-    Subsec. (k)(1)(B)(i)(V). [Pub. L. 111–152, § 1101(c)][/us/pl/111/152/s1101/c], added subcl. (V).
+    Subsec. (k)(1)(B)(i)(V). [Pub. L. 111–152][/us/pl/111/152], § 1101(c), added subcl. (V).
 
-    Subsec. (k)(1)(C). [Pub. L. 111–148, § 2503(a)(2)(C)][/us/pl/111/148/s2503/a/2/C], substituted “retail community pharmacies” for “the retail pharmacy class of trade”.
+    Subsec. (k)(1)(C). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(2)(C), substituted “retail community pharmacies” for “the retail pharmacy class of trade”.
 
-    Subsec. (k)(7)(A)(i)(III). [Pub. L. 111–148, § 2503(a)(3)(A)][/us/pl/111/148/s2503/a/3/A], substituted “the United States” for “the State”.
+    Subsec. (k)(7)(A)(i)(III). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(3)(A), substituted “the United States” for “the State”.
 
-    Subsec. (k)(7)(C). [Pub. L. 111–148, § 2503(a)(3)(B)][/us/pl/111/148/s2503/a/3/B], inserted “and” after semicolon at end of cl. (i), substituted period for “; and” at end of cl. (ii), and struck out cl. (iii) which read as follows: “a drug product is considered to be sold or marketed in a State if it appears in a published national listing of average wholesale prices selected by the Secretary, provided that the listed product is generally available to the public through retail pharmacies in that State.”
+    Subsec. (k)(7)(C). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(3)(B), inserted “and” after semicolon at end of cl. (i), substituted period for “; and” at end of cl. (ii), and struck out cl. (iii) which read as follows: “a drug product is considered to be sold or marketed in a State if it appears in a published national listing of average wholesale prices selected by the Secretary, provided that the listed product is generally available to the public through retail pharmacies in that State.”
 
-    Subsec. (k)(10), (11). [Pub. L. 111–148, § 2503(a)(4)][/us/pl/111/148/s2503/a/4], added pars. (10) and (11).
+    Subsec. (k)(10), (11). [Pub. L. 111–148][/us/pl/111/148], § 2503(a)(4), added pars. (10) and (11).
 
-    2009—Subsec. (c)(1)(D)(i)(IV) to (VI). [Pub. L. 111–8, § 221(a)(1)][/us/pl/111/8/s221/a/1], added subcls. (IV) and (V) and redesignated former subcl. (IV) as (VI).
+    2009—Subsec. (c)(1)(D)(i)(IV) to (VI). [Pub. L. 111–8][/us/pl/111/8], § 221(a)(1), added subcls. (IV) and (V) and redesignated former subcl. (IV) as (VI).
 
-    Subsec. (c)(1)(D)(iv). [Pub. L. 111–8, § 221(a)(2)][/us/pl/111/8/s221/a/2], added cl. (iv).
+    Subsec. (c)(1)(D)(iv). [Pub. L. 111–8][/us/pl/111/8], § 221(a)(2), added cl. (iv).
 
-    2006—Subsec. (a)(5)(B). [Pub. L. 109–171, § 6004(a)][/us/pl/109/171/s6004/a], inserted before period at end “and a children’s hospital described in [section 1395ww(d)(1)(B)(iii) of this title][/us/usc/t42/s1395ww/d/1/B/iii] which meets the requirements of clauses (i) and (iii) of [section 256b(b)(4)(L) of this title][/us/usc/t42/s256b/b/4/L] and which would meet the requirements of clause (ii) of such section if that clause were applied by taking into account the percentage of care provided by the hospital to patients eligible for medical assistance under a State plan under this subchapter”.
+    2006—Subsec. (a)(5)(B). [Pub. L. 109–171][/us/pl/109/171], § 6004(a), inserted before period at end “and a children’s hospital described in [section 1395ww(d)(1)(B)(iii) of this title][/us/usc/t42/s1395ww/d/1/B/iii] which meets the requirements of clauses (i) and (iii) of [section 256b(b)(4)(L) of this title][/us/usc/t42/s256b/b/4/L] and which would meet the requirements of clause (ii) of such section if that clause were applied by taking into account the percentage of care provided by the hospital to patients eligible for medical assistance under a State plan under this subchapter”.
 
-    Subsec. (a)(7). [Pub. L. 109–171, § 6002(a)][/us/pl/109/171/s6002/a], added par. (7).
+    Subsec. (a)(7). [Pub. L. 109–171][/us/pl/109/171], § 6002(a), added par. (7).
 
-    Subsec. (b)(3)(A). [Pub. L. 109–171, § 6001(b)(1)(B)][/us/pl/109/171/s6001/b/1/B], inserted “Beginning July 1, 2006, the Secretary shall provide on a monthly basis to States under subparagraph (D)(iv) the most recently reported average manufacturer prices for single source drugs and for multiple source drugs and shall, on at least a quarterly basis, update the information posted on the website under subparagraph (D)(v).” at end of concluding provisions.
+    Subsec. (b)(3)(A). [Pub. L. 109–171][/us/pl/109/171], § 6001(b)(1)(B), inserted “Beginning July 1, 2006, the Secretary shall provide on a monthly basis to States under subparagraph (D)(iv) the most recently reported average manufacturer prices for single source drugs and for multiple source drugs and shall, on at least a quarterly basis, update the information posted on the website under subparagraph (D)(v).” at end of concluding provisions.
 
-    Subsec. (b)(3)(A)(i). [Pub. L. 109–171, § 6003(a)(1)][/us/pl/109/171/s6003/a/1], added cl. (i) and struck out former cl. (i) which read as follows: “not later than 30 days after the last day of each month of a rebate period under the agreement (beginning on or after January 1, 1991), on the average manufacturer price (as defined in subsection (k)(1) of this section), customary prompt pay discounts extended to wholesalers, and, (for single source drugs and innovator multiple source drugs), the manufacturer’s best price (as defined in subsection (c)(2)(B) of this section) for covered outpatient drugs for the rebate period under the agreement,;”.
+    Subsec. (b)(3)(A)(i). [Pub. L. 109–171][/us/pl/109/171], § 6003(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “not later than 30 days after the last day of each month of a rebate period under the agreement (beginning on or after January 1, 1991), on the average manufacturer price (as defined in subsection (k)(1) of this section), customary prompt pay discounts extended to wholesalers, and, (for single source drugs and innovator multiple source drugs), the manufacturer’s best price (as defined in subsection (c)(2)(B) of this section) for covered outpatient drugs for the rebate period under the agreement,;”.
 
-    [Pub. L. 109–171, § 6001(b)(1)(A)][/us/pl/109/171/s6001/b/1/A], (c)(2), inserted “month of a” after “last day of each” and “, customary prompt pay discounts extended to wholesalers,” after “(k)(1) of this section)”.
+    [Pub. L. 109–171][/us/pl/109/171], § 6001(b)(1)(A), (c)(2), inserted “month of a” after “last day of each” and “, customary prompt pay discounts extended to wholesalers,” after “(k)(1) of this section)”.
 
-    Subsec. (b)(3)(A)(ii). [Pub. L. 109–171, § 6003(a)(2)][/us/pl/109/171/s6003/a/2], inserted “(including for such drugs that are sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act)” after “drugs”.
+    Subsec. (b)(3)(A)(ii). [Pub. L. 109–171][/us/pl/109/171], § 6003(a)(2), inserted “(including for such drugs that are sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act)” after “drugs”.
 
-    Subsec. (b)(3)(A)(iii). [Pub. L. 109–171, § 6001(d)(1)][/us/pl/109/171/s6001/d/1], inserted “, and, for calendar quarters beginning on or after January 1, 2007 and only with respect to the information described in subclause (III), for covered outpatient drugs” before period at end.
+    Subsec. (b)(3)(A)(iii). [Pub. L. 109–171][/us/pl/109/171], § 6001(d)(1), inserted “, and, for calendar quarters beginning on or after January 1, 2007 and only with respect to the information described in subclause (III), for covered outpatient drugs” before period at end.
 
-    Subsec. (b)(3)(D)(iv), (v). [Pub. L. 109–171, § 6001(b)(2)][/us/pl/109/171/s6001/b/2], added cls. (iv) and (v).
+    Subsec. (b)(3)(D)(iv), (v). [Pub. L. 109–171][/us/pl/109/171], § 6001(b)(2), added cls. (iv) and (v).
 
-    Subsec. (c)(1)(C)(i). [Pub. L. 109–171, § 6003(b)(1)(A)][/us/pl/109/171/s6003/b/1/A], inserted “(including the lowest price available to any entity for any such drug of a manufacturer that is sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act)” after “or innovator multiple source drug of a manufacturer” in introductory provisions.
+    Subsec. (c)(1)(C)(i). [Pub. L. 109–171][/us/pl/109/171], § 6003(b)(1)(A), inserted “(including the lowest price available to any entity for any such drug of a manufacturer that is sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act)” after “or innovator multiple source drug of a manufacturer” in introductory provisions.
 
-    Subsec. (c)(1)(C)(ii)(IV). [Pub. L. 109–171, § 6003(b)(1)(B)][/us/pl/109/171/s6003/b/1/B], added subcl. (IV).
+    Subsec. (c)(1)(C)(ii)(IV). [Pub. L. 109–171][/us/pl/109/171], § 6003(b)(1)(B), added subcl. (IV).
 
-    Subsec. (c)(1)(D). [Pub. L. 109–171, § 6001(d)(2)][/us/pl/109/171/s6001/d/2], added subpar. (D).
+    Subsec. (c)(1)(D). [Pub. L. 109–171][/us/pl/109/171], § 6001(d)(2), added subpar. (D).
 
-    Subsec. (e)(4). [Pub. L. 109–171, § 6001(a)(1)][/us/pl/109/171/s6001/a/1], which directed substitution of “Subject to paragraph (5), the Secretary” for “The Secretary” and insertion of “(or, effective January 1, 2007, two or more)” after “three or more” in subsec. (e)(4), was executed to the last par. of subsec. (e) to reflect the probable intent of Congress. See 1993 Amendment note below.
+    Subsec. (e)(4). [Pub. L. 109–171][/us/pl/109/171], § 6001(a)(1), which directed substitution of “Subject to paragraph (5), the Secretary” for “The Secretary” and insertion of “(or, effective January 1, 2007, two or more)” after “three or more” in subsec. (e)(4), was executed to the last par. of subsec. (e) to reflect the probable intent of Congress. See 1993 Amendment note below.
 
-    Subsec. (e)(5). [Pub. L. 109–171, § 6001(a)(2)][/us/pl/109/171/s6001/a/2], added par. (5).
+    Subsec. (e)(5). [Pub. L. 109–171][/us/pl/109/171], § 6001(a)(2), added par. (5).
 
-    Subsec. (f). [Pub. L. 109–171, § 6001(e)][/us/pl/109/171/s6001/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–171][/us/pl/109/171], § 6001(e), added subsec. (f).
 
-    Subsec. (g)(1)(B)(i)(II). [Pub. L. 109–171, § 6001(f)(1)][/us/pl/109/171/s6001/f/1], which directed insertion of “(or its successor publications)” after “United States Pharmacopoeia-Drug Information”, was executed by making insertion after “United States Pharmacopeia-Drug Information” to reflect the probable intent of Congress.
+    Subsec. (g)(1)(B)(i)(II). [Pub. L. 109–171][/us/pl/109/171], § 6001(f)(1), which directed insertion of “(or its successor publications)” after “United States Pharmacopoeia-Drug Information”, was executed by making insertion after “United States Pharmacopeia-Drug Information” to reflect the probable intent of Congress.
 
-    Subsec. (g)(2)(A)(ii). [Pub. L. 109–171, § 6001(f)(2)][/us/pl/109/171/s6001/f/2], inserted “, or to require verification of the offer to provide consultation or a refusal of such offer” before period at end of concluding provisions.
+    Subsec. (g)(2)(A)(ii). [Pub. L. 109–171][/us/pl/109/171], § 6001(f)(2), inserted “, or to require verification of the offer to provide consultation or a refusal of such offer” before period at end of concluding provisions.
 
-    Subsec. (k)(1). [Pub. L. 109–171, § 6001(c)(1)][/us/pl/109/171/s6001/c/1], designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), the term” for “The term”, struck out “, after deducting customary prompt pay discounts” before period at end, and added subpar. (B).
+    Subsec. (k)(1). [Pub. L. 109–171][/us/pl/109/171], § 6001(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), the term” for “The term”, struck out “, after deducting customary prompt pay discounts” before period at end, and added subpar. (B).
 
-    Subsec. (k)(1)(C). [Pub. L. 109–171, § 6003(b)(2)][/us/pl/109/171/s6003/b/2], as amended by [Pub. L. 109–432][/us/pl/109/432], added subpar. (C).
+    Subsec. (k)(1)(C). [Pub. L. 109–171][/us/pl/109/171], § 6003(b)(2), as amended by [Pub. L. 109–432][/us/pl/109/432], added subpar. (C).
 
-    Subsec. (k)(7)(A)(i). [Pub. L. 109–171, § 6001(a)(4)][/us/pl/109/171/s6001/a/4], substituted “is” for “are” in subcls. (I), (II), and (III).
+    Subsec. (k)(7)(A)(i). [Pub. L. 109–171][/us/pl/109/171], § 6001(a)(4), substituted “is” for “are” in subcls. (I), (II), and (III).
 
-    [Pub. L. 109–171, § 6001(a)(3)][/us/pl/109/171/s6001/a/3], substituted “at least 1 other drug product” for “are 2 or more drug products” in introductory provisions.
+    [Pub. L. 109–171][/us/pl/109/171], § 6001(a)(3), substituted “at least 1 other drug product” for “are 2 or more drug products” in introductory provisions.
 
     2005—Subsec. (d)(2)(K). [Pub. L. 109–91][/us/pl/109/91] added subpar. (K).
 
-    2003—Subsec. (a)(1). [Pub. L. 108–173, § 303(i)(4)(A)][/us/pl/108/173/s303/i/4/A], inserted “or under part B of subchapter XVIII of this chapter” after “[section 1396b(a) of this title][/us/usc/t42/s1396b/a]”.
+    2003—Subsec. (a)(1). [Pub. L. 108–173][/us/pl/108/173], § 303(i)(4)(A), inserted “or under part B of subchapter XVIII of this chapter” after “[section 1396b(a) of this title][/us/usc/t42/s1396b/a]”.
 
-    Subsec. (b)(3)(A). [Pub. L. 108–173, § 303(i)(4)(B)][/us/pl/108/173/s303/i/4/B], added cl. (iii) and concluding provisions.
+    Subsec. (b)(3)(A). [Pub. L. 108–173][/us/pl/108/173], § 303(i)(4)(B), added cl. (iii) and concluding provisions.
 
-    Subsec. (b)(3)(B). [Pub. L. 108–173, § 303(i)(4)(C)][/us/pl/108/173/s303/i/4/C], inserted “and manufacturer’s average sales price” after “average manufacturer price” in heading and “and manufacturer’s average sales prices (including wholesale acquisition cost) if required to make payment” after “manufacturer prices” in text.
+    Subsec. (b)(3)(B). [Pub. L. 108–173][/us/pl/108/173], § 303(i)(4)(C), inserted “and manufacturer’s average sales price” after “average manufacturer price” in heading and “and manufacturer’s average sales prices (including wholesale acquisition cost) if required to make payment” after “manufacturer prices” in text.
 
-    Subsec. (b)(3)(D). [Pub. L. 108–173, § 303(i)(4)(D)(i)][/us/pl/108/173/s303/i/4/D/i], inserted “(other than the wholesale acquisition cost for purposes of carrying out [section 1395w–3a of this title][/us/usc/t42/s1395w–3a])” after “subsection (a)(6)(A)(ii) of this section” in introductory provisions.
+    Subsec. (b)(3)(D). [Pub. L. 108–173][/us/pl/108/173], § 303(i)(4)(D)(i), inserted “(other than the wholesale acquisition cost for purposes of carrying out [section 1395w–3a of this title][/us/usc/t42/s1395w–3a])” after “subsection (a)(6)(A)(ii) of this section” in introductory provisions.
 
-    [Pub. L. 108–173, § 105(b)][/us/pl/108/173/s105/b], which directed insertion of “and drug pricing data reported under the first sentence of [section 1395w–141(i)(1) of this title][/us/usc/t42/s1395w–141/i/1]” after “[section 1395w–104(c)(2)(E) of this title][/us/usc/t42/s1395w–104/c/2/E]” in last sentence, was executed by making the insertion after “or 1395w–104(c)(2)(E) of this title” in concluding provisions to reflect the probable intent of Congress.
+    [Pub. L. 108–173][/us/pl/108/173], § 105(b), which directed insertion of “and drug pricing data reported under the first sentence of [section 1395w–141(i)(1) of this title][/us/usc/t42/s1395w–141/i/1]” after “[section 1395w–104(c)(2)(E) of this title][/us/usc/t42/s1395w–104/c/2/E]” in last sentence, was executed by making the insertion after “or 1395w–104(c)(2)(E) of this title” in concluding provisions to reflect the probable intent of Congress.
 
-    [Pub. L. 108–173, § 101(e)(4)][/us/pl/108/173/s101/e/4], inserted concluding provisions.
+    [Pub. L. 108–173][/us/pl/108/173], § 101(e)(4), inserted concluding provisions.
 
-    Subsec. (b)(3)(D)(i). [Pub. L. 108–173, § 303(i)(4)(D)(ii)][/us/pl/108/173/s303/i/4/D/ii], inserted “, to carry out [section 1395w–3a of this title][/us/usc/t42/s1395w–3a] (including the determination and implementation of the payment amount), or to carry out [section 1395w–3b of this title][/us/usc/t42/s1395w–3b]” after “this section”.
+    Subsec. (b)(3)(D)(i). [Pub. L. 108–173][/us/pl/108/173], § 303(i)(4)(D)(ii), inserted “, to carry out [section 1395w–3a of this title][/us/usc/t42/s1395w–3a] (including the determination and implementation of the payment amount), or to carry out [section 1395w–3b of this title][/us/usc/t42/s1395w–3b]” after “this section”.
 
-    Subsec. (c)(1)(C)(i)(I). [Pub. L. 108–173, § 1002(a)][/us/pl/108/173/s1002/a], inserted “(including inpatient prices charged to hospitals described in [section 256b(a)(4)(L) of this title][/us/usc/t42/s256b/a/4/L])” before semicolon at end.
+    Subsec. (c)(1)(C)(i)(I). [Pub. L. 108–173][/us/pl/108/173], § 1002(a), inserted “(including inpatient prices charged to hospitals described in [section 256b(a)(4)(L) of this title][/us/usc/t42/s256b/a/4/L])” before semicolon at end.
 
-    Subsec. (c)(1)(C)(i)(V), (VI). [Pub. L. 108–173, § 103(e)(1)][/us/pl/108/173/s103/e/1], added subcls. (V) and (VI).
+    Subsec. (c)(1)(C)(i)(V), (VI). [Pub. L. 108–173][/us/pl/108/173], § 103(e)(1), added subcls. (V) and (VI).
 
-    Subsec. (c)(1)(C)(iii). [Pub. L. 108–173, § 1002(b)][/us/pl/108/173/s1002/b], added cl. (iii).
+    Subsec. (c)(1)(C)(iii). [Pub. L. 108–173][/us/pl/108/173], § 1002(b), added cl. (iii).
 
-    Subsec. (e)\[(4)\]. [Pub. L. 108–173, § 900(e)(1)(K)][/us/pl/108/173/s900/e/1/K], (L), which directed substitution of “The Secretary” for “HCFA” in subsecs. (e)(4) and (f)(2), was executed to the last par. of subsec. (e) to reflect the probable intent of Congress. See 1993 Amendment note below.
+    Subsec. (e)\[(4)\]. [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(K), (L), which directed substitution of “The Secretary” for “HCFA” in subsecs. (e)(4) and (f)(2), was executed to the last par. of subsec. (e) to reflect the probable intent of Congress. See 1993 Amendment note below.
 
-    Subsec. (g)(1)(B)(i)(II). [Pub. L. 108–173, § 101(e)(9)(A)][/us/pl/108/173/s101/e/9/A], inserted “and” at end.
+    Subsec. (g)(1)(B)(i)(II). [Pub. L. 108–173][/us/pl/108/173], § 101(e)(9)(A), inserted “and” at end.
 
-    Subsec. (g)(1)(B)(i)(IV). [Pub. L. 108–173, § 101(e)(9)(B)][/us/pl/108/173/s101/e/9/B], struck out subcl. (IV) which read as follows: “American Medical Association Drug Evaluations; and”.
+    Subsec. (g)(1)(B)(i)(IV). [Pub. L. 108–173][/us/pl/108/173], § 101(e)(9)(B), struck out subcl. (IV) which read as follows: “American Medical Association Drug Evaluations; and”.
 
-    1999—Subsec. (a)(1). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 606(a)\], substituted “shall become effective as of the date on which the agreement is entered into or, at State option, on any date thereafter on or before” for “shall not be effective until”.
+    1999—Subsec. (a)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 606(a)\], substituted “shall become effective as of the date on which the agreement is entered into or, at State option, on any date thereafter on or before” for “shall not be effective until”.
 
-    Subsec. (g)(2)(A)(ii)(II)(cc). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(u)(1)\], substituted “individual’s” for “individuals”.
+    Subsec. (g)(2)(A)(ii)(II)(cc). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(u)(1)\], substituted “individual’s” for “individuals”.
 
-    Subsec. (i)(1). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(u)(2)\], substituted “the operation of this section” for “the the operation of this section”.
+    Subsec. (i)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(u)(2)\], substituted “the operation of this section” for “the the operation of this section”.
 
-    Subsec. (k)(7)(A)(iv). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(u)(3)(A)\], substituted “distributors” for “distributers”.
+    Subsec. (k)(7)(A)(iv). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(u)(3)(A)\], substituted “distributors” for “distributers”.
 
-    Subsec. (k)(7)(C)(i). [Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(u)(3)(B)\], substituted “pharmaceutically” for “pharmaceuutically”.
+    Subsec. (k)(7)(C)(i). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(6) \[title VI, § 608(u)(3)(B)\], substituted “pharmaceutically” for “pharmaceuutically”.
 
-    1997—Subsec. (g)(1)(B)(i)(III), (IV). [Pub. L. 105–33, § 4756][/us/pl/105/33/s4756], added subcl. (III) and redesignated former subcl. (III) as (IV).
+    1997—Subsec. (g)(1)(B)(i)(III), (IV). [Pub. L. 105–33][/us/pl/105/33], § 4756, added subcl. (III) and redesignated former subcl. (III) as (IV).
 
-    Subsec. (j)(1). [Pub. L. 105–33, § 4701(b)(2)(A)(x)][/us/pl/105/33/s4701/b/2/A/x], substituted “health maintenance organizations, including medicaid managed care organizations” for “\* \* \* Health Maintenance Organizations, including those organizations”.
+    Subsec. (j)(1). [Pub. L. 105–33][/us/pl/105/33], § 4701(b)(2)(A)(x), substituted “health maintenance organizations, including medicaid managed care organizations” for “\* \* \* Health Maintenance Organizations, including those organizations”.
 
-    1993—Subsec. (b)(1)(A). [Pub. L. 103–66, § 13602(a)(2)(A)(i)(II)][/us/pl/103/66/s13602/a/2/A/i/II], which directed amendment of subpar. (A) by substituting “dispensed after December 31, 1990, for which payment was made under the State plan for such period” for “dispensed under the plan during the quarter (or other period as the Secretary may specify)”, was executed by making the substitution for “dispensed under the plan during the quarter (or such other period as the Secretary may specify)” to reflect the probable intent of Congress.
+    1993—Subsec. (b)(1)(A). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(A)(i)(II), which directed amendment of subpar. (A) by substituting “dispensed after December 31, 1990, for which payment was made under the State plan for such period” for “dispensed under the plan during the quarter (or other period as the Secretary may specify)”, was executed by making the substitution for “dispensed under the plan during the quarter (or such other period as the Secretary may specify)” to reflect the probable intent of Congress.
 
-    [Pub. L. 103–66, § 13602(a)(2)(A)(i)(I)][/us/pl/103/66/s13602/a/2/A/i/I], substituted “for a rebate period” for “each calendar quarter (or periodically in accordance with a schedule specified by the Secretary)”.
+    [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(A)(i)(I), substituted “for a rebate period” for “each calendar quarter (or periodically in accordance with a schedule specified by the Secretary)”.
 
-    Subsec. (b)(2)(A). [Pub. L. 103–66, § 13602(a)(2)(A)(ii)][/us/pl/103/66/s13602/a/2/A/ii], substituted “each rebate period” for “each calendar quarter” and “units of each dosage form and strength and package size” for “dosage units”, inserted “after December 31, 1990, for which payment was made” after “dispensed”, and substituted “during the period” for “during the quarter”.
+    Subsec. (b)(2)(A). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(A)(ii), substituted “each rebate period” for “each calendar quarter” and “units of each dosage form and strength and package size” for “dosage units”, inserted “after December 31, 1990, for which payment was made” after “dispensed”, and substituted “during the period” for “during the quarter”.
 
-    Subsec. (b)(3)(A)(i). [Pub. L. 103–66, § 13602(a)(2)(A)(iii)][/us/pl/103/66/s13602/a/2/A/iii], substituted “rebate period under the agreement” for “quarter” in two places.
+    Subsec. (b)(3)(A)(i). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(A)(iii), substituted “rebate period under the agreement” for “quarter” in two places.
 
-    Subsec. (c). [Pub. L. 103–66, § 13602(a)(1)][/us/pl/103/66/s13602/a/1], added subsec. (c) and struck out former subsec. (c) which related to determination of amount of rebate for certain drugs.
+    Subsec. (c). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(1), added subsec. (c) and struck out former subsec. (c) which related to determination of amount of rebate for certain drugs.
 
     [Pub. L. 103–18][/us/pl/103/18] substituted “such drug, except that for the calendar quarter beginning after September 30, 1992, and before January 1, 1993, the amount of the rebate may not exceed 50 percent of such average manufacturer price;” for “such drug;” in par. (1)(B)(ii)(II).
 
-    Subsecs. (d) to (f). [Pub. L. 103–66, § 13602(a)(1)][/us/pl/103/66/s13602/a/1], added subsecs. (d) and (e), struck out former subsecs. (d) consisting of pars. (1) to (8) relating to limitations on coverage of drugs, (e) relating to denial of Federal financial participation in certain cases, and (f)(1) relating to reductions in pharmacy reimbursement limits, and struck out par. designation for former par. (2) of subsec. (f) without supplying a new designation. The text of former subsec. (f)(2) is now the last par. of subsec. (e).
+    Subsecs. (d) to (f). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(1), added subsecs. (d) and (e), struck out former subsecs. (d) consisting of pars. (1) to (8) relating to limitations on coverage of drugs, (e) relating to denial of Federal financial participation in certain cases, and (f)(1) relating to reductions in pharmacy reimbursement limits, and struck out par. designation for former par. (2) of subsec. (f) without supplying a new designation. The text of former subsec. (f)(2) is now the last par. of subsec. (e).
 
-    Subsec. (k)(1). [Pub. L. 103–66, § 13602(a)(2)(B)(i)][/us/pl/103/66/s13602/a/2/B/i], substituted “rebate period” for “calendar quarter” and inserted before period at end “, after deducting customary prompt pay discounts”.
+    Subsec. (k)(1). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(B)(i), substituted “rebate period” for “calendar quarter” and inserted before period at end “, after deducting customary prompt pay discounts”.
 
-    Subsec. (k)(3). [Pub. L. 103–66, § 13602(a)(2)(B)(ii)(III)][/us/pl/103/66/s13602/a/2/B/ii/III], in concluding provisions, substituted “for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological used” for “which is used” and inserted at end “Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.”
+    Subsec. (k)(3). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(B)(ii)(III), in concluding provisions, substituted “for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological used” for “which is used” and inserted at end “Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.”
 
-    Subsec. (k)(3)(E). [Pub. L. 103–66, § 13602(a)(2)(B)(ii)(I)][/us/pl/103/66/s13602/a/2/B/ii/I], struck out “\* \* \* \*emergency room visits” after “services”.
+    Subsec. (k)(3)(E). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(B)(ii)(I), struck out “\* \* \* \*emergency room visits” after “services”.
 
-    Subsec. (k)(3)(F). [Pub. L. 103–66, § 13602(a)(2)(B)(ii)(II)][/us/pl/103/66/s13602/a/2/B/ii/II], which directed amendment of subpar. (F) by substituting “services and services provided by an intermediate care facility for the mentally retarded” for “services”, was executed by making the substitution for “sevices” to reflect the probable intent of Congress because the word “services” did not appear.
+    Subsec. (k)(3)(F). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(B)(ii)(II), which directed amendment of subpar. (F) by substituting “services and services provided by an intermediate care facility for the mentally retarded” for “services”, was executed by making the substitution for “sevices” to reflect the probable intent of Congress because the word “services” did not appear.
 
-    Subsec. (k)(6). [Pub. L. 103–66, § 13602(a)(2)(B)(iii)][/us/pl/103/66/s13602/a/2/B/iii], substituted “or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears in peer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
+    Subsec. (k)(6). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(B)(iii), substituted “or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears in peer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
 
-    Subsec. (k)(7)(A)(i). [Pub. L. 103–66, § 13602(a)(2)(B)(iv)][/us/pl/103/66/s13602/a/2/B/iv], substituted “rebate period” for “calendar quarter” in introductory provisions.
+    Subsec. (k)(7)(A)(i). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(B)(iv), substituted “rebate period” for “calendar quarter” in introductory provisions.
 
-    Subsec. (k)(8), (9). [Pub. L. 103–66, § 13602(a)(2)(B)(v)][/us/pl/103/66/s13602/a/2/B/v], added par. (8) and redesignated former par. (8) as (9).
+    Subsec. (k)(8), (9). [Pub. L. 103–66][/us/pl/103/66], § 13602(a)(2)(B)(v), added par. (8) and redesignated former par. (8) as (9).
 
-    1992—Subsec. (a)(1). [Pub. L. 102–585, § 601(b)(1)][/us/pl/102/585/s601/b/1], substituted “manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6)” for “manufacturer)”.
+    1992—Subsec. (a)(1). [Pub. L. 102–585][/us/pl/102/585], § 601(b)(1), substituted “manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6)” for “manufacturer)”.
 
-    Subsec. (a)(5), (6). [Pub. L. 102–585, § 601(b)(2)][/us/pl/102/585/s601/b/2], added pars. (5) and (6).
+    Subsec. (a)(5), (6). [Pub. L. 102–585][/us/pl/102/585], § 601(b)(2), added pars. (5) and (6).
 
-    Subsec. (b)(3)(D). [Pub. L. 102–585, § 601(b)(3)][/us/pl/102/585/s601/b/3], substituted “this paragraph or under an agreement with the Secretary of Veterans Affairs described in subsection (a)(6)(A)(ii) of this section” for “this paragraph”, “Secretary or the Secretary of Veterans Affairs” for “Secretary”, and “except—” and cls. (i) to (iii) for “except as the Secretary determines to be necessary to carry out this section and to permit the Comptroller General to review the information provided.”
+    Subsec. (b)(3)(D). [Pub. L. 102–585][/us/pl/102/585], § 601(b)(3), substituted “this paragraph or under an agreement with the Secretary of Veterans Affairs described in subsection (a)(6)(A)(ii) of this section” for “this paragraph”, “Secretary or the Secretary of Veterans Affairs” for “Secretary”, and “except—” and cls. (i) to (iii) for “except as the Secretary determines to be necessary to carry out this section and to permit the Comptroller General to review the information provided.”
 
-    Subsec. (b)(4)(B)(ii). [Pub. L. 102–585, § 601(b)(4)(i)][/us/pl/102/585/s601/b/4/i], (ii), substituted “the calendar quarter beginning at least 60 days” for “such period” and “the manufacturer provides notice to the Secretary.” for “of the notice as the Secretary may provide (but not beyond the term of the agreement).”
+    Subsec. (b)(4)(B)(ii). [Pub. L. 102–585][/us/pl/102/585], § 601(b)(4)(i), (ii), substituted “the calendar quarter beginning at least 60 days” for “such period” and “the manufacturer provides notice to the Secretary.” for “of the notice as the Secretary may provide (but not beyond the term of the agreement).”
 
-    Subsec. (b)(4)(B)(iv), (v). [Pub. L. 102–585, § 601(b)(4)(iii)][/us/pl/102/585/s601/b/4/iii], added cls. (iv) and (v).
+    Subsec. (b)(4)(B)(iv), (v). [Pub. L. 102–585][/us/pl/102/585], § 601(b)(4)(iii), added cls. (iv) and (v).
 
-    Subsec. (c)(1)(B)(i). [Pub. L. 102–585, § 601(c)(1)][/us/pl/102/585/s601/c/1], which directed the substitution of “October 1, 1992,” for “January 1, 1993,”, was executed by making the substitution in introductory provisions and in subcl. (II), to reflect the probable intent of Congress.
+    Subsec. (c)(1)(B)(i). [Pub. L. 102–585][/us/pl/102/585], § 601(c)(1), which directed the substitution of “October 1, 1992,” for “January 1, 1993,”, was executed by making the substitution in introductory provisions and in subcl. (II), to reflect the probable intent of Congress.
 
-    Subsec. (c)(1)(B)(ii) to (v). [Pub. L. 102–585, § 601(c)(2)][/us/pl/102/585/s601/c/2], (3), added cls. (ii) to (v) and struck out former cl. (ii) which read as follows: “for quarters (or other periods) beginning after December 31, 1992, the greater of—
+    Subsec. (c)(1)(B)(ii) to (v). [Pub. L. 102–585][/us/pl/102/585], § 601(c)(2), (3), added cls. (ii) to (v) and struck out former cl. (ii) which read as follows: “for quarters (or other periods) beginning after December 31, 1992, the greater of—
 
     “(I) the difference between the average manufacturer price for a drug and 85 percent of such price, or
 
     “(II) the difference between the average manufacturer price for a drug and the best price (as defined in paragraph (2)(B)) for such quarter (or period) for such drug.”
 
-    Subsec. (c)(1)(C). [Pub. L. 102–585, § 601(a)][/us/pl/102/585/s601/a], substituted “(excluding any prices charged on or after October 1, 1992, to the Indian Health Service, the Department of Veterans Affairs, a State home receiving funds under [section 1741 of title 38][/us/usc/t38/s1741], the Department of Defense, the Public Health Service, or a covered entity described in subsection (a)(5)(B) of this section, any prices charged under the Federal Supply Schedule of the General Services Administration, or any prices used under a State pharmaceutical assistance program, and excluding” for “(excluding”.
+    Subsec. (c)(1)(C). [Pub. L. 102–585][/us/pl/102/585], § 601(a), substituted “(excluding any prices charged on or after October 1, 1992, to the Indian Health Service, the Department of Veterans Affairs, a State home receiving funds under [section 1741 of title 38][/us/usc/t38/s1741], the Department of Defense, the Public Health Service, or a covered entity described in subsection (a)(5)(B) of this section, any prices charged under the Federal Supply Schedule of the General Services Administration, or any prices used under a State pharmaceutical assistance program, and excluding” for “(excluding”.
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–74, title VI, § 602(b)][/us/pl/114/74/s602/b], Nov. 2, 2015, [129 Stat. 597][/us/stat/129/597], provided that: 
+[Pub. L. 114–74, title VI][/us/pl/114/74/tVI], § 602(b), Nov. 2, 2015, [129 Stat. 597][/us/stat/129/597], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to rebate periods beginning after the date that is one year after the date of the enactment of this Act \[Nov. 2, 2015\].”
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–226, title II, § 202][/us/pl/111/226/s202], Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394], provided that the amendment made by [Pub. L. 111–226][/us/pl/111/226] is effective as if included in the enactment of [Pub. L. 111–148][/us/pl/111/148].
+    [Pub. L. 111–226, title II][/us/pl/111/226/tII], § 202, Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394], provided that the amendment made by [Pub. L. 111–226][/us/pl/111/226] is effective as if included in the enactment of [Pub. L. 111–148][/us/pl/111/148].
 
-[Pub. L. 111–152, title I, § 1206(b)][/us/pl/111/152/s1206/b], Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057], provided that: 
+[Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1206(b), Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Patient Protection and Affordable Care Act \[[Pub. L. 111–148][/us/pl/111/148]\].”
 
-[Pub. L. 111–148, title II, § 2501(d)(2)][/us/pl/111/148/s2501/d/2], Mar. 23, 2010, [124 Stat. 309][/us/stat/124/309], provided that: 
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2501(d)(2), Mar. 23, 2010, [124 Stat. 309][/us/stat/124/309], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to drugs that are paid for by a State after December 31, 2009.”
 
-[Pub. L. 111–148, title II, § 2502(b)][/us/pl/111/148/s2502/b], Mar. 23, 2010, [124 Stat. 310][/us/stat/124/310], provided that: 
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2502(b), Mar. 23, 2010, [124 Stat. 310][/us/stat/124/310], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to services furnished on or after January 1, 2014.”
 
-[Pub. L. 111–148, title II, § 2503(d)][/us/pl/111/148/s2503/d], Mar. 23, 2010, [124 Stat. 312][/us/stat/124/312], provided that: 
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2503(d), Mar. 23, 2010, [124 Stat. 312][/us/stat/124/312], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar year quarter that begins at least 180 days after the date of enactment of this Act \[Mar. 23, 2010\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
@@ -1233,27 +1233,27 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–8, div. F, title II, § 221(b)][/us/pl/111/8/s221/b], Mar. 11, 2009, [123 Stat. 783][/us/stat/123/783], provided that: 
+[Pub. L. 111–8, div. F, title II][/us/pl/111/8/dF/tII], § 221(b), Mar. 11, 2009, [123 Stat. 783][/us/stat/123/783], provided that: 
 
 > “The amendments made by this subsection \[probably means this section, amending this section\] shall take effect as if included in the amendment made by section 6001(d)(2) of the Deficit Reduction Act of 2005 \[[Pub. L. 109–171][/us/pl/109/171]\].”
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)][/us/pl/109/432/s405/c/2/A], Dec. 20, 2006, [120 Stat. 2999][/us/stat/120/2999], provided that the amendment made by section 405(c)(2)(A) is effective as if included in the enactment of the Deficit Reduction Act of 2005 ([Public Law 109–171][/us/pl/109/171]).
+    [Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 405(c)(2)(A), Dec. 20, 2006, [120 Stat. 2999][/us/stat/120/2999], provided that the amendment made by section 405(c)(2)(A) is effective as if included in the enactment of the Deficit Reduction Act of 2005 ([Public Law 109–171][/us/pl/109/171]).
 
-[Pub. L. 109–171, title VI, § 6001(f)(3)][/us/pl/109/171/s6001/f/3], Feb. 8, 2006, [120 Stat. 58][/us/stat/120/58], provided that: 
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6001(f)(3), Feb. 8, 2006, [120 Stat. 58][/us/stat/120/58], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x]\] shall take effect on the date of the enactment of this Act \[Feb. 8, 2006\].”
 
-[Pub. L. 109–171, title VI, § 6001(g)][/us/pl/109/171/s6001/g], Feb. 8, 2006, [120 Stat. 58][/us/stat/120/58], provided that: 
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6001(g), Feb. 8, 2006, [120 Stat. 58][/us/stat/120/58], provided that: 
 
 > “Except as otherwise provided, the amendments made by this section \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x]\] shall take effect on January 1, 2007, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
-[Pub. L. 109–171, title VI, § 6003(c)][/us/pl/109/171/s6003/c], Feb. 8, 2006, [120 Stat. 61][/us/stat/120/61], provided that: 
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6003(c), Feb. 8, 2006, [120 Stat. 61][/us/stat/120/61], provided that: 
 
 > “The amendments made by this section \[amending this section\] take effect on January 1, 2007.”
 
-[Pub. L. 109–171, title VI, § 6004(b)][/us/pl/109/171/s6004/b], Feb. 8, 2006, [120 Stat. 61][/us/stat/120/61], provided that: 
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6004(b), Feb. 8, 2006, [120 Stat. 61][/us/stat/120/61], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to drugs purchased on or after the date of the enactment of this Act \[Feb. 8, 2006\].”
 
@@ -1263,13 +1263,13 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–173, title I, § 103(e)(2)][/us/pl/108/173/s103/e/2], Dec. 8, 2003, [117 Stat. 2160][/us/stat/117/2160], provided that: 
+[Pub. L. 108–173, title I][/us/pl/108/173/tI], § 103(e)(2), Dec. 8, 2003, [117 Stat. 2160][/us/stat/117/2160], provided that: 
 
 > “Section 1927(c)(1)(C)(i)(VI) of the Social Security Act \[[42 U.S.C. 1396r–8(c)(1)(C)(i)(VI)][/us/usc/t42/s1396r–8/c/1/C/i/VI]\], as added by paragraph (1), shall apply to prices charged for drugs dispensed on or after January 1, 2006.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 606(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–396, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VI, § 606(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–396, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] applies to agreements entered into on or after the date of enactment of this Act \[Nov. 29, 1999\].”
 
@@ -1281,25 +1281,25 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13602(d)][/us/pl/103/66/s13602/d], Aug. 10, 1993, [107 Stat. 619][/us/stat/107/619], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13602(d), Aug. 10, 1993, [107 Stat. 619][/us/stat/107/619], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1396a and 1396b of this title\] shall take effect as if included in the enactment of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508]\].
 
 >     “(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsection amends section 1927(d) of the Social Security Act \[[42 U.S.C. 1396r–8(d)][/us/usc/t42/s1396r–8/d]\]) and the amendment made by subsection (c) \[amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
 
-[Pub. L. 103–18, § 2(b)][/us/pl/103/18/s2/b], Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54], provided that: 
+[Pub. L. 103–18][/us/pl/103/18], § 2(b), Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 601(c) of the Veterans Health Care Act of 1992 \[[Pub. L. 102–585][/us/pl/102/585]\].”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–585, title VI, § 601(e)][/us/pl/102/585/s601/e], Nov. 4, 1992, [106 Stat. 4966][/us/stat/106/4966], provided that: 
+[Pub. L. 102–585, title VI][/us/pl/102/585/tVI], § 601(e), Nov. 4, 1992, [106 Stat. 4966][/us/stat/106/4966], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to payments to State plans under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters (or periods) beginning on or after January 1, 1993 (without regard to whether or not regulations to carry out such amendments have been promulgated by such date).”
 
  __Regulations__ 
 
-[Pub. L. 109–171, title VI, § 6001(c)(3)][/us/pl/109/171/s6001/c/3], Feb. 8, 2006, [120 Stat. 55][/us/stat/120/55], provided that:
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6001(c)(3), Feb. 8, 2006, [120 Stat. 55][/us/stat/120/55], provided that:
 
 >     “(A)  __Inspector general recommendations__  __.—__ 
 
@@ -1315,7 +1315,7 @@
 
  __Pharmacy Reimbursement Under Medicaid__ 
 
-[Pub. L. 110–275, title II, § 203][/us/pl/110/275/s203], July 15, 2008, [122 Stat. 2592][/us/stat/122/2592], provided that:
+[Pub. L. 110–275, title II][/us/pl/110/275/tII], § 203, July 15, 2008, [122 Stat. 2592][/us/stat/122/2592], provided that:
 
 >     “(a)  __Delay in Application of New Payment Limit for Multiple Source Drugs Under Medicaid__  __.—__ 
 
@@ -1345,15 +1345,15 @@
 
  __Reports on Best Price Changes and Payment of Rebates__ 
 
-    [Pub. L. 102–585, title VI, § 601(d)][/us/pl/102/585/s601/d], Nov. 4, 1992, [106 Stat. 4965][/us/stat/106/4965], provided that not later than 90 days after the expiration of each calendar quarter beginning on or after Oct. 1, 1992, and ending on or before Dec. 31, 1995, Secretary of Health and Human Services was to submit to Congress a report containing information as to percentage of single source drugs whose best price either increased, decreased, or stayed the same in comparison to best price during previous calendar quarter, median and mean percentage increase or decrease of such price, and, with respect to drugs for which manufacturers were required to pay rebates under subsec. (c) of this section, Secretary’s best estimate, on State-by-State and national aggregate basis, of total amount of rebates paid under subsec. (c) of this section and percentages of such total amounts attributable to rebates paid under pars. (1) to (3) of subsec. (c) of this section, limited consideration to drugs which are considered significant expenditures under medicaid program, and contained requirements for initial report.
+    [Pub. L. 102–585, title VI][/us/pl/102/585/tVI], § 601(d), Nov. 4, 1992, [106 Stat. 4965][/us/stat/106/4965], provided that not later than 90 days after the expiration of each calendar quarter beginning on or after Oct. 1, 1992, and ending on or before Dec. 31, 1995, Secretary of Health and Human Services was to submit to Congress a report containing information as to percentage of single source drugs whose best price either increased, decreased, or stayed the same in comparison to best price during previous calendar quarter, median and mean percentage increase or decrease of such price, and, with respect to drugs for which manufacturers were required to pay rebates under subsec. (c) of this section, Secretary’s best estimate, on State-by-State and national aggregate basis, of total amount of rebates paid under subsec. (c) of this section and percentages of such total amounts attributable to rebates paid under pars. (1) to (3) of subsec. (c) of this section, limited consideration to drugs which are considered significant expenditures under medicaid program, and contained requirements for initial report.
 
  __Demonstration Projects To Evaluate Efficiency and Cost-Effectiveness of Prospective Drug Utilization Review__ 
 
-    [Pub. L. 101–508, title IV, § 4401(c)][/us/pl/101/508/s4401/c], Nov. 5, 1990, [104 Stat. 1388–159][/us/stat/104/1388-159], directed Secretary of Health and Human Services to establish statewide demonstration projects to evaluate efficiency and cost-effectiveness of prospective drug utilization review and to evaluate impact on quality of care and cost-effectiveness of paying pharmacists under this subchapter whether or not drugs were dispensed for drug use review services, with two reports to be submitted to Congress, the first not later than Jan. 1, 1994, and the second not later than Jan. 1, 1995.
+    [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4401(c), Nov. 5, 1990, [104 Stat. 1388–159][/us/stat/104/1388-159], directed Secretary of Health and Human Services to establish statewide demonstration projects to evaluate efficiency and cost-effectiveness of prospective drug utilization review and to evaluate impact on quality of care and cost-effectiveness of paying pharmacists under this subchapter whether or not drugs were dispensed for drug use review services, with two reports to be submitted to Congress, the first not later than Jan. 1, 1994, and the second not later than Jan. 1, 1995.
 
  __Study of Drug Purchasing and Billing Practices in Health Care Industry; Report__ 
 
-[Pub. L. 101–508, title IV, § 4401(d)][/us/pl/101/508/s4401/d], Nov. 5, 1990, [104 Stat. 1388–160][/us/stat/104/1388-160], as amended by [Pub. L. 104–316, title I, § 122(i)][/us/pl/104/316/s122/i], Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837], provided for various studies and reports as follows: (1) directed Comptroller General to conduct study of drug purchasing and billing activities of various health care systems, and to submit report to Secretary of Health and Human Services and to Congress by not later than May 1, 1991; (2) directed Comptroller General to submit to Secretary and Congress report on changes in prices charged by manufacturers for prescription drugs to Department of Veterans Affairs, other Federal programs, hospital pharmacies, and other purchasing groups and managed care plans; (3) directed Secretary, acting in consultation with Comptroller General, to study prior approval procedures utilized by State medical assistance programs conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; (4) directed Secretary to conduct study on adequacy of current reimbursement rates to pharmacists under each State medical assistance program conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; and (5) directed Secretary to undertake study of relationship between State medical assistance plans and Federal and State acquisition and reimbursement policies for vaccines and accessibility of vaccinations and immunization to children, and to report to Congress not later than one year after Nov. 5, 1990.
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4401(d), Nov. 5, 1990, [104 Stat. 1388–160][/us/stat/104/1388-160], as amended by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(i), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837], provided for various studies and reports as follows: (1) directed Comptroller General to conduct study of drug purchasing and billing activities of various health care systems, and to submit report to Secretary of Health and Human Services and to Congress by not later than May 1, 1991; (2) directed Comptroller General to submit to Secretary and Congress report on changes in prices charged by manufacturers for prescription drugs to Department of Veterans Affairs, other Federal programs, hospital pharmacies, and other purchasing groups and managed care plans; (3) directed Secretary, acting in consultation with Comptroller General, to study prior approval procedures utilized by State medical assistance programs conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; (4) directed Secretary to conduct study on adequacy of current reimbursement rates to pharmacists under each State medical assistance program conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; and (5) directed Secretary to undertake study of relationship between State medical assistance plans and Federal and State acquisition and reimbursement policies for vaccines and accessibility of vaccinations and immunization to children, and to report to Congress not later than one year after Nov. 5, 1990.
 
 ----------
 
@@ -1436,187 +1436,187 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t42/s1396a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F5
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/508/s4401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4401%2Fa%2F3
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-143
-[/us/pl/102/585/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fa
+[/us/pl/102/585/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtVI
 [/us/stat/106/4962-4964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4962-4964
-[/us/pl/103/18/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs2%2Fa
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
 [/us/stat/107/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F54
-[/us/pl/103/66/s13602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F613
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F493
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2151
-[/us/pl/109/91/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91%2Fs104%2Fa
+[/us/pl/109/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91%2FtI
 [/us/stat/119/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2092
-[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/54-61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F54-61
-[/us/pl/109/432/s405/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fc%2F2%2FA%2Fii
+[/us/pl/109/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtIV
 [/us/stat/120/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3000
-[/us/pl/111/8/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs221%2Fa
+[/us/pl/111/8/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtII
 [/us/stat/123/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F783
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/306-310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F306-310
-[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1039
-[/us/pl/111/226/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs202
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2394
-[/us/pl/111/309/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs204%2Fb
+[/us/pl/111/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2FtII
 [/us/stat/124/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3290
-[/us/pl/114/74/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs602%2Fa
+[/us/pl/114/74/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVI
 [/us/stat/129/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F596
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
 [/us/usc/t42/s1395w–104/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93104%2Fc%2F2%2FE
 [/us/usc/t42/s1395w–104/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93104%2Fc%2F2%2FG
-[/us/pl/111/148/s10328/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10328%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F964
 [/us/usc/t42/s256b/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256b%2Fa%2F4
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/105/115/s125/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F1
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
 [/us/pl/87/781/s107/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs107%2Fc%2F3
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2309
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
-[/us/pl/114/74/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs602%2Fa%2F1
-[/us/pl/114/74/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs602%2Fa%2F2
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/111/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309
 [/us/usc/t42/s1395ww/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiii
 [/us/usc/t42/s256b/b/4/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256b%2Fb%2F4%2FL
-[/us/pl/111/148/s2501/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fc%2F2%2FA%2Fi
-[/us/pl/111/148/s2501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fa%2F2
-[/us/pl/111/148/s2501/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fc%2F2%2FA%2Fii
-[/us/pl/111/148/s2503/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fb%2F1%2FB
-[/us/pl/111/148/s2503/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fb%2F1%2FA
-[/us/pl/111/148/s2503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fb%2F2
-[/us/pl/111/148/s2501/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fa%2F1%2FA
-[/us/pl/111/148/s2501/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fa%2F1%2FB
-[/us/pl/111/148/s3301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fd%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1395w–114a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114a
-[/us/pl/111/152/s1206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1206%2Fa
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
-[/us/pl/111/148/s2501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fd%2F1
-[/us/pl/111/148/s2501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fe
-[/us/pl/111/148/s2501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fb
-[/us/pl/111/148/s2502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2502%2Fa%2F1
-[/us/pl/111/148/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4107%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1396d/bb/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fbb%2F2%2FA
-[/us/pl/111/148/s2502/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2502%2Fa%2F1%2FB
-[/us/pl/111/148/s2502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2502%2Fa%2F1
-[/us/pl/111/148/s2502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2502%2Fa%2F2
-[/us/pl/111/148/s2503/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F1%2FA
-[/us/pl/111/148/s2503/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F1%2FB
-[/us/pl/111/148/s2503/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fc%2F1
-[/us/pl/111/148/s2503/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fc%2F2
-[/us/pl/111/148/s2501/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fc%2F2%2FB
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1396b/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fm
-[/us/pl/111/148/s2503/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F2%2FA
-[/us/pl/111/148/s2503/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F2%2FB
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
-[/us/pl/111/152/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1101%2Fc
-[/us/pl/111/148/s2503/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F2%2FC
-[/us/pl/111/148/s2503/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F3%2FA
-[/us/pl/111/148/s2503/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F3%2FB
-[/us/pl/111/148/s2503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fa%2F4
-[/us/pl/111/8/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs221%2Fa%2F1
-[/us/pl/111/8/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs221%2Fa%2F2
-[/us/pl/109/171/s6004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6004%2Fa
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/usc/t42/s1395ww/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiii
 [/us/usc/t42/s256b/b/4/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256b%2Fb%2F4%2FL
-[/us/pl/109/171/s6002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6002%2Fa
-[/us/pl/109/171/s6001/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fb%2F1%2FB
-[/us/pl/109/171/s6003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6003%2Fa%2F1
-[/us/pl/109/171/s6001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fb%2F1%2FA
-[/us/pl/109/171/s6003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6003%2Fa%2F2
-[/us/pl/109/171/s6001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fd%2F1
-[/us/pl/109/171/s6001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fb%2F2
-[/us/pl/109/171/s6003/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6003%2Fb%2F1%2FA
-[/us/pl/109/171/s6003/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6003%2Fb%2F1%2FB
-[/us/pl/109/171/s6001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fd%2F2
-[/us/pl/109/171/s6001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fa%2F1
-[/us/pl/109/171/s6001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fa%2F2
-[/us/pl/109/171/s6001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fe
-[/us/pl/109/171/s6001/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Ff%2F1
-[/us/pl/109/171/s6001/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Ff%2F2
-[/us/pl/109/171/s6001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fc%2F1
-[/us/pl/109/171/s6003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6003%2Fb%2F2
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/109/171/s6001/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fa%2F4
-[/us/pl/109/171/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fa%2F3
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91
-[/us/pl/108/173/s303/i/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fi%2F4%2FA
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1396b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa
-[/us/pl/108/173/s303/i/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fi%2F4%2FB
-[/us/pl/108/173/s303/i/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fi%2F4%2FC
-[/us/pl/108/173/s303/i/4/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fi%2F4%2FD%2Fi
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
-[/us/pl/108/173/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs105%2Fb
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–141/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93141%2Fi%2F1
 [/us/usc/t42/s1395w–104/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93104%2Fc%2F2%2FE
-[/us/pl/108/173/s101/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F4
-[/us/pl/108/173/s303/i/4/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303%2Fi%2F4%2FD%2Fii
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a
 [/us/usc/t42/s1395w–3b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933b
-[/us/pl/108/173/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1002%2Fa
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s256b/a/4/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256b%2Fa%2F4%2FL
-[/us/pl/108/173/s103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fe%2F1
-[/us/pl/108/173/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1002%2Fb
-[/us/pl/108/173/s900/e/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FK
-[/us/pl/108/173/s101/e/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F9%2FA
-[/us/pl/108/173/s101/e/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs101%2Fe%2F9%2FB
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
-[/us/pl/105/33/s4756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4756
-[/us/pl/105/33/s4701/b/2/A/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4701%2Fb%2F2%2FA%2Fx
-[/us/pl/103/66/s13602/a/2/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FA%2Fi%2FII
-[/us/pl/103/66/s13602/a/2/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FA%2Fi%2FI
-[/us/pl/103/66/s13602/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FA%2Fii
-[/us/pl/103/66/s13602/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FA%2Fiii
-[/us/pl/103/66/s13602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F1
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
-[/us/pl/103/66/s13602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F1
-[/us/pl/103/66/s13602/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FB%2Fi
-[/us/pl/103/66/s13602/a/2/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FB%2Fii%2FIII
-[/us/pl/103/66/s13602/a/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FB%2Fii%2FI
-[/us/pl/103/66/s13602/a/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FB%2Fii%2FII
-[/us/pl/103/66/s13602/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FB%2Fiii
-[/us/pl/103/66/s13602/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FB%2Fiv
-[/us/pl/103/66/s13602/a/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fa%2F2%2FB%2Fv
-[/us/pl/102/585/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fb%2F1
-[/us/pl/102/585/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fb%2F2
-[/us/pl/102/585/s601/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fb%2F3
-[/us/pl/102/585/s601/b/4/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fb%2F4%2Fi
-[/us/pl/102/585/s601/b/4/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fb%2F4%2Fiii
-[/us/pl/102/585/s601/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fc%2F1
-[/us/pl/102/585/s601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fc%2F2
-[/us/pl/102/585/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fa
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/usc/t38/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1741
-[/us/pl/114/74/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs602%2Fb
+[/us/pl/114/74/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVI
 [/us/stat/129/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F597
-[/us/pl/111/226/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs202
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2394
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/152/s1206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1206%2Fb
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1057
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s2501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2501%2Fd%2F2
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F309
-[/us/pl/111/148/s2502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2502%2Fb
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F310
-[/us/pl/111/148/s2503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2503%2Fd
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F312
 [/us/pl/111/148/s3301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fd%2F2
 [/us/pl/111/148/s3301/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fd%2F3
@@ -1624,29 +1624,29 @@
 [/us/pl/111/148/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4107%2Fb
 [/us/pl/111/148/s4107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4107%2Fd
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
-[/us/pl/111/8/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs221%2Fb
+[/us/pl/111/8/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtII
 [/us/stat/123/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F783
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/109/432/s405/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fc%2F2%2FA
+[/us/pl/109/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtIV
 [/us/stat/120/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2999
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/109/171/s6001/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Ff%2F3
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F58
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
-[/us/pl/109/171/s6001/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fg
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F58
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
-[/us/pl/109/171/s6003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6003%2Fc
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F61
-[/us/pl/109/171/s6004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6004%2Fb
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F61
 [/us/pl/109/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91
 [/us/pl/109/91/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F91%2Fs104%2Fd
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
-[/us/pl/108/173/s103/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fe%2F2
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2160
 [/us/usc/t42/s1396r–8/c/1/C/i/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938%2Fc%2F1%2FC%2Fi%2FVI
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -1654,21 +1654,21 @@
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4710
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
-[/us/pl/103/66/s13602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13602%2Fd
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F619
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s1396r–8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938%2Fd
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/103/18/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs2%2Fb
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
 [/us/stat/107/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F54
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
-[/us/pl/102/585/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fe
+[/us/pl/102/585/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtVI
 [/us/stat/106/4966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4966
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/109/171/s6001/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6001%2Fc%2F3
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F55
 [/us/usc/t42/s1396r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938
-[/us/pl/110/275/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs203
+[/us/pl/110/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtII
 [/us/stat/122/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2592
 [/us/usc/t42/s1396r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938
 [/us/usc/t42/s1396r–8/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938%2Fb%2F3%2FD
@@ -1681,13 +1681,13 @@
 [/us/pl/108/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs303
 [/us/pl/108/173/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs304
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
-[/us/pl/102/585/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs601%2Fd
+[/us/pl/102/585/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtVI
 [/us/stat/106/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4965
-[/us/pl/101/508/s4401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4401%2Fc
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-159
-[/us/pl/101/508/s4401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4401%2Fd
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-160
-[/us/pl/104/316/s122/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fi
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3837
 
 

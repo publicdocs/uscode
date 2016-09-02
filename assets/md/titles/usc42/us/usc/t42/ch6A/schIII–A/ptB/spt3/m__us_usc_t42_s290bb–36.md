@@ -167,7 +167,7 @@
 
             (B) “institution of higher education” has the meaning given such term in [section 1001 of title 20][/us/usc/t20/s1001]; and
 
-            (C) “school” means an elementary or secondary school (as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]).
+            (C) “school” means an elementary school or secondary school (as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]).
 
         (3) __Prevention__ 
 
@@ -187,7 +187,7 @@
 
             If less than $3,500,000 is appropriated for any fiscal year to carry out this section, in awarding grants and cooperative agreements under this section during the fiscal year, the Secretary shall give preference to States that have rates of suicide that significantly exceed the national average as determined by the Centers for Disease Control and Prevention.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520E, as added [Pub. L. 108–355, § 3(c)][/us/pl/108/355/s3/c], Oct. 21, 2004, [118 Stat. 1409][/us/stat/118/1409].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520E, as added [Pub. L. 108–355][/us/pl/108/355], § 3(c), Oct. 21, 2004, [118 Stat. 1409][/us/stat/118/1409]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(kkk)(3), Dec. 10, 2015, [129 Stat. 2187][/us/stat/129/2187].)
 
  __References in Text__ 
 
@@ -197,17 +197,25 @@
 
     The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is [Pub. L. 94–437][/us/pl/94/437], Sept. 30, 1976, [90 Stat. 1400][/us/stat/90/1400], as amended, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25][/us/usc/t25/s1601] and Tables.
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
     The No Child Left Behind Act of 2001, referred to in subsec. (k), is [Pub. L. 107–110][/us/pl/107/110], Jan. 8, 2002, [115 Stat. 1425][/us/stat/115/1425]. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under [section 6301 of Title 20][/us/usc/t20/s6301], Education, and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 290bb–36, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 520E, as added [Pub. L. 106–310, div. B, title XXXI, § 3111][/us/pl/106/310/s3111], Oct. 17, 2000, [114 Stat. 1186][/us/stat/114/1186], and amended, which related to suicide prevention for children and adolescents, was renumbered section 520E–1 of act July 1, 1944, by [Pub. L. 108–355, § 3(b)(2)][/us/pl/108/355/s3/b/2], Oct. 21, 2004, [118 Stat. 1409][/us/stat/118/1409], and transferred to [section 290bb–36a of this title][/us/usc/t42/s290bb–36a].
+    A prior section 290bb–36, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 520E, as added [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3111, Oct. 17, 2000, [114 Stat. 1186][/us/stat/114/1186], and amended, which related to suicide prevention for children and adolescents, was renumbered section 520E–1 of act July 1, 1944, by [Pub. L. 108–355][/us/pl/108/355], § 3(b)(2), Oct. 21, 2004, [118 Stat. 1409][/us/stat/118/1409], and transferred to [section 290bb–36a of this title][/us/usc/t42/s290bb–36a].
+
+ __Amendments__ 
+
+    2015—Subsec. (l)(2)(C). [Pub. L. 114–95][/us/pl/114/95] substituted “elementary school or secondary school (as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965)” for “elementary or secondary school (as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Congressional Findings__ 
 
-[Pub. L. 108–355, § 2][/us/pl/108/355/s2], Oct. 21, 2004, [118 Stat. 1404][/us/stat/118/1404], provided that: 
+[Pub. L. 108–355][/us/pl/108/355], § 2, Oct. 21, 2004, [118 Stat. 1404][/us/stat/118/1404], provided that: 
 
 > “Congress makes the following findings:
 
@@ -271,8 +279,10 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/355/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fc
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
 [/us/stat/118/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1409
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2187
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -288,13 +298,17 @@
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/stat/115/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1425
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3111
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1186
-[/us/pl/108/355/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs3%2Fb%2F2
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
 [/us/stat/118/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1409
 [/us/usc/t42/s290bb–36a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9336a
-[/us/pl/108/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355%2Fs2
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/108/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F355
 [/us/stat/118/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1404
 
 

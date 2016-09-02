@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 116, [70 Stat. 833][/us/stat/70/833]; Sept. 13, 1966, [Pub. L. 86–778, title VII, § 704][/us/pl/86/778/s704], [74 Stat. 994][/us/stat/74/994]; July 30, 1965, [Pub. L. 89–97, title I, § 109(b)][/us/pl/89/97/s109/b], [79 Stat. 340][/us/stat/79/340], which established an initial Advisory Council on Social Security Financing to review the status of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund in relation to long term commitments to old-age, survivors, and disability insurance programs, appointed personnel and provided for their compensation, required a report of the findings and recommendations of the Council to be submitted to the Secretary of the Board of Trustees of the abovementioned Trust Funds not later than Jan. 1, 1959, at which time the Council terminated, provided for subsequent Advisory Councils to be appointed in 1963, 1966, and every fifth year thereafter and to submit reports to Congress, and required additional information be included in these reports, was omitted in view of the termination of the initial Advisory Council on submission of their report not later than Jan. 1, 1959, the repeal of subsec. (e) by [Pub. L. 89–97, title I, § 109(b)][/us/pl/89/97/s109/b], July 30, 1965, [79 Stat. 340][/us/stat/79/340], which provided for the subsequent Advisory Councils, and the obsolescence of subsec. (f), which provided for additional information in reports to Congress, upon the repeal of subsec. (e).
+    Section, acts [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 116, [70 Stat. 833][/us/stat/70/833]; Sept. 13, 1966, [Pub. L. 86–778, title VII][/us/pl/86/778/tVII], § 704, [74 Stat. 994][/us/stat/74/994]; July 30, 1965, [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 109(b), [79 Stat. 340][/us/stat/79/340], which established an initial Advisory Council on Social Security Financing to review the status of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund in relation to long term commitments to old-age, survivors, and disability insurance programs, appointed personnel and provided for their compensation, required a report of the findings and recommendations of the Council to be submitted to the Secretary of the Board of Trustees of the abovementioned Trust Funds not later than Jan. 1, 1959, at which time the Council terminated, provided for subsequent Advisory Councils to be appointed in 1963, 1966, and every fifth year thereafter and to submit reports to Congress, and required additional information be included in these reports, was omitted in view of the termination of the initial Advisory Council on submission of their report not later than Jan. 1, 1959, the repeal of subsec. (e) by [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 109(b), July 30, 1965, [79 Stat. 340][/us/stat/79/340], which provided for the subsequent Advisory Councils, and the obsolescence of subsec. (f), which provided for additional information in reports to Congress, upon the repeal of subsec. (e).
 
 ----------
 
@@ -28,11 +28,11 @@
 
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F833
-[/us/pl/86/778/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs704
+[/us/pl/86/778/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVII
 [/us/stat/74/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F994
-[/us/pl/89/97/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs109%2Fb
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F340
-[/us/pl/89/97/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs109%2Fb
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F340
 
 

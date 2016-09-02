@@ -17,7 +17,7 @@
 
     The Attorney General may discontinue assistance under this part when the Attorney General finds that, according to the regularly prescribed standards and practices of the educational institution, the recipient fails to maintain satisfactory progress as described in [section 1091(c) of title 20][/us/usc/t20/s1091/c].
 
-([Pub. L. 90–351, title I, § 1215][/us/pl/90/351/s1215], as added [Pub. L. 104–238, § 2(2)][/us/pl/104/238/s2/2], Oct. 3, 1996, [110 Stat. 3115][/us/stat/110/3115].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1215, as added [Pub. L. 104–238][/us/pl/104/238], § 2(2), Oct. 3, 1996, [110 Stat. 3115][/us/stat/110/3115].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t20/s1091/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091%2Fc
-[/us/pl/90/351/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1215
-[/us/pl/104/238/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238%2Fs2%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/104/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238
 [/us/stat/110/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3115
 
 

@@ -33,7 +33,7 @@
 
     (3) the laboratory and each analyst performing DNA analyses at the laboratory shall undergo semiannual external proficiency testing by a DNA proficiency testing program that meets the standards issued under [section 14131 of this title][/us/usc/t42/s14131].
 
-([Pub. L. 90–351, title I, § 2403][/us/pl/90/351/s2403], as added [Pub. L. 103–322, title XXI, § 210302(c)(1)(C)][/us/pl/103/322/s210302/c/1/C], Sept. 13, 1994, [108 Stat. 2066][/us/stat/108/2066]; amended [Pub. L. 106–546, § 8(b)][/us/pl/106/546/s8/b], Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2403, as added [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210302(c)(1)(C), Sept. 13, 1994, [108 Stat. 2066][/us/stat/108/2066]; amended [Pub. L. 106–546][/us/pl/106/546], § 8(b), Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735].)
 
  __Amendments__ 
 
@@ -48,10 +48,10 @@
 
 [/us/usc/t42/s14131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14131
 [/us/usc/t42/s14131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14131
-[/us/pl/90/351/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2403
-[/us/pl/103/322/s210302/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210302%2Fc%2F1%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2066
-[/us/pl/106/546/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs8%2Fb
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2735
 [/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 

@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_ch8_schII.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
+[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_s1437aa...1437ee.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
 
 ## § 1437ff. Transferred
 
  __Codification__ 
 
-    Section, [Pub. L. 101–625, title IX, § 959][/us/pl/101/625/s959], Nov. 28, 1990, [104 Stat. 4423][/us/stat/104/4423], which related to waiver of matching funds requirements in Indian housing programs, was transferred to [section 4104 of Title 25][/us/usc/t25/s4104], Indians.
+    Section, [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 959, Nov. 28, 1990, [104 Stat. 4423][/us/stat/104/4423], which related to waiver of matching funds requirements in Indian housing programs, was transferred to [section 4104 of Title 25][/us/usc/t25/s4104], Indians.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_ch8_schII.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
+[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_s1437aa...1437ee.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
 
 ----------
 ----------
 
-[/us/pl/101/625/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs959
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4423
 [/us/usc/t25/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4104
 

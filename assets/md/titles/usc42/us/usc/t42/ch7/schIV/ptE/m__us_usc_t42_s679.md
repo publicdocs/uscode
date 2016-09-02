@@ -135,13 +135,13 @@
 
         To promote improved knowledge on how best to ensure strong, permanent families for children, the Secretary shall promulgate regulations providing for the collection and analysis of information regarding children who enter into foster care under the supervision of a State after prior finalization of an adoption or legal guardianship. The regulations shall require each State with a State plan approved under this part to collect and report as part of such data collection system the number of children who enter foster care under supervision of the State after finalization of an adoption or legal guardianship and may include information concerning the length of the prior adoption or guardianship, the age of the child at the time of the prior adoption or guardianship, the age at which the child subsequently entered foster care under supervision of the State, the type of agency involved in making the prior adoptive or guardianship placement, and any other factors determined necessary to better understand factors associated with the child’s post-adoption or post-guardianship entry to foster care.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479, as added [Pub. L. 99–509, title IX, § 9443][/us/pl/99/509/s9443], Oct. 21, 1986, [100 Stat. 2073][/us/stat/100/2073]; amended [Pub. L. 103–432, title II, § 209(c)][/us/pl/103/432/s209/c], Oct. 31, 1994, [108 Stat. 4459][/us/stat/108/4459]; [Pub. L. 113–183, title I, § 103][/us/pl/113/183/s103], title II, § 208, Sept. 29, 2014, [128 Stat. 1922][/us/stat/128/1922], 1940.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479, as added [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9443, Oct. 21, 1986, [100 Stat. 2073][/us/stat/100/2073]; amended [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 209(c), Oct. 31, 1994, [108 Stat. 4459][/us/stat/108/4459]; [Pub. L. 113–183, title I][/us/pl/113/183/tI], § 103, title II, § 208, Sept. 29, 2014, [128 Stat. 1922][/us/stat/128/1922], 1940.)
 
  __Amendments__ 
 
-    2014—Subsec. (c)(3)(E). [Pub. L. 113–183, § 103][/us/pl/113/183/s103], added subpar. (E).
+    2014—Subsec. (c)(3)(E). [Pub. L. 113–183][/us/pl/113/183], § 103, added subpar. (E).
 
-    Subsec. (d). [Pub. L. 113–183, § 208][/us/pl/113/183/s208], added subsec. (d).
+    Subsec. (d). [Pub. L. 113–183][/us/pl/113/183], § 208, added subsec. (d).
 
     1994—Subsec. (c)(3)(C)(iii). [Pub. L. 103–432][/us/pl/103/432] added cl. (iii).
 
@@ -161,14 +161,14 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/99/509/s9443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9443
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2073
-[/us/pl/103/432/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs209%2Fc
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4459
-[/us/pl/113/183/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs103
+[/us/pl/113/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtI
 [/us/stat/128/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1922
-[/us/pl/113/183/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs103
-[/us/pl/113/183/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs208
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/103/432/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs209%2Fd

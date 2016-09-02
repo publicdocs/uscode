@@ -17,7 +17,7 @@
 
     The Secretary, through the Office of Scientific and Technical Information, shall maintain within the Department publicly available collections of scientific and technical information resulting from research, development, demonstration, and commercial applications activities supported by the Department.
 
-([Pub. L. 109–58, title IX, § 982][/us/pl/109/58/s982], Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 982, Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs982
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F907
 
 

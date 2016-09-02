@@ -49,7 +49,7 @@
 
     (8) coordinating activities of common interest.
 
-([Pub. L. 110–140, title IV, § 423][/us/pl/110/140/s423], Dec. 19, 2007, [121 Stat. 1606][/us/stat/121/1606].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 423, Dec. 19, 2007, [121 Stat. 1606][/us/stat/121/1606].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs423
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1606
 
 

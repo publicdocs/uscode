@@ -221,7 +221,7 @@
 
         All authority under this section shall expire on December 31, 1998.
 
-([Pub. L. 102–486, title XXI, § 2118][/us/pl/102/486/s2118], Oct. 24, 1992, [106 Stat. 3075][/us/stat/106/3075]; [Pub. L. 105–23, § 1][/us/pl/105/23/s1], July 3, 1997, [111 Stat. 237][/us/stat/111/237].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2118, Oct. 24, 1992, [106 Stat. 3075][/us/stat/106/3075]; [Pub. L. 105–23][/us/pl/105/23], § 1, July 3, 1997, [111 Stat. 237][/us/stat/111/237].)
 
  __References in Text__ 
 
@@ -231,11 +231,11 @@
 
  __Amendments__ 
 
-    1997—Subsecs. (c)(5), (e)(5), (g)(3)(B). [Pub. L. 105–23, § 1(1)][/us/pl/105/23/s1/1], substituted “1998” for “1997”.
+    1997—Subsecs. (c)(5), (e)(5), (g)(3)(B). [Pub. L. 105–23][/us/pl/105/23], § 1(1), substituted “1998” for “1997”.
 
     Subsec. (j)(1). [Pub. L. 105–23][/us/pl/105/23] substituted “$46,000,000” for “$65,000,000” and “1998” for “1997”.
 
-    Subsec. (l). [Pub. L. 105–23, § 1(1)][/us/pl/105/23/s1/1], substituted “1998” for “1997”.
+    Subsec. (l). [Pub. L. 105–23][/us/pl/105/23], § 1(1), substituted “1998” for “1997”.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -248,18 +248,18 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2118
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3075
-[/us/pl/105/23/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F23%2Fs1
+[/us/pl/105/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F23
 [/us/stat/111/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F237
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
 [/us/usc/t42/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13201
-[/us/pl/105/23/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F23%2Fs1%2F1
 [/us/pl/105/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F23
-[/us/pl/105/23/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F23%2Fs1%2F1
+[/us/pl/105/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F23
+[/us/pl/105/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F23
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

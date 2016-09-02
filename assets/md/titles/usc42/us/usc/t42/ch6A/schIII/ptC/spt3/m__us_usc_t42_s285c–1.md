@@ -27,7 +27,7 @@
 
         The Director of the Institute shall (1) establish the National Kidney and Urologic Diseases Data System for the collection, storage, analysis, retrieval, and dissemination of data derived from patient populations with kidney and urologic diseases, including, where possible, data involving general populations for the purpose of detection of individuals with a risk of developing kidney and urologic diseases, and (2) establish the National Kidney and Urologic Diseases Information Clearinghouse to facilitate and enhance knowledge and understanding of kidney and urologic diseases on the part of health professionals, patients, and the public through the effective dissemination of information.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 427, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 841][/us/stat/99/841].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 427, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 841][/us/stat/99/841].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F841
 
 

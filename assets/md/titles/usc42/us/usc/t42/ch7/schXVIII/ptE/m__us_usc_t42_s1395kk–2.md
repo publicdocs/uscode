@@ -173,7 +173,7 @@
 
             Data described in paragraph (1)(B) shall be provided to a qualified clinical data registry under paragraph (1) at a fee equal to the cost of providing such data. Any fee collected pursuant to the preceding sentence shall be deposited in the Centers for Medicare & Medicaid Services Program Management Account.
 
-([Pub. L. 114–10, title I, § 105][/us/pl/114/10/s105], Apr. 16, 2015, [129 Stat. 133][/us/stat/129/133].)
+([Pub. L. 114–10, title I][/us/pl/114/10/tI], § 105, Apr. 16, 2015, [129 Stat. 133][/us/stat/129/133].)
 
  __References in Text__ 
 
@@ -211,7 +211,7 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
-[/us/pl/114/10/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs105
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F133
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936

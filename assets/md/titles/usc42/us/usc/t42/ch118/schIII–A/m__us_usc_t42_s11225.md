@@ -183,7 +183,7 @@
 
         The Project shall expire on December 31, 2025.
 
-([Pub. L. 111–375, § 2][/us/pl/111/375/s2], Jan. 4, 2011, [124 Stat. 4100][/us/stat/124/4100].)
+([Pub. L. 111–375][/us/pl/111/375], § 2, Jan. 4, 2011, [124 Stat. 4100][/us/stat/124/4100].)
 
  __References in Text__ 
 
@@ -195,7 +195,7 @@
 
  __Annual Budget Estimate__ 
 
-[Pub. L. 113–235, div. G, title II, § 230][/us/pl/113/235/s230], Dec. 16, 2014, [128 Stat. 2492][/us/stat/128/2492], provided that: 
+[Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], § 230, Dec. 16, 2014, [128 Stat. 2492][/us/stat/128/2492], provided that: 
 
 > “Hereafter, for each fiscal year through fiscal year 2025, the Director of the National Institutes of Health shall prepare and submit directly to the President for review and transmittal to Congress, after reasonable opportunity for comment, but without change, by the Secretary of Health and Human Services and the Advisory Council on Alzheimer’s Research, Care, and Services, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institutes) for the initiatives of the National Institutes of Health pursuant to the National Alzheimer’s Plan, as required under [section 2(d)(2) of Public Law 111–375][/us/pl/111/375/s2/d/2] \[[42 U.S.C. 11225(d)(2)][/us/usc/t42/s11225/d/2]\].”
 
@@ -206,13 +206,13 @@
 ----------
 ----------
 
-[/us/pl/111/375/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F375%2Fs2
+[/us/pl/111/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F375
 [/us/stat/124/4100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4100
 [/us/pl/111/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F375
 [/us/stat/124/4100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4100
 [/us/usc/t42/s11201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11201
 [/us/usc/t42/s11201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11201
-[/us/pl/113/235/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs230
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2492
 [/us/pl/111/375/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F375%2Fs2%2Fd%2F2
 [/us/usc/t42/s11225/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11225%2Fd%2F2

@@ -17,7 +17,7 @@
 
     Grants authorized in this Act to reduce or prevent juvenile drug and gang-related activity in “public housing” may be used for such purposes in federally assisted, low-income housing.
 
-([Pub. L. 103–322, title XV, § 150007][/us/pl/103/322/s150007], Sept. 13, 1994, [108 Stat. 2035][/us/stat/108/2035].)
+([Pub. L. 103–322, title XV][/us/pl/103/322/tXV], § 150007, Sept. 13, 1994, [108 Stat. 2035][/us/stat/108/2035].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s150007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs150007
+[/us/pl/103/322/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXV
 [/us/stat/108/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2035
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1796

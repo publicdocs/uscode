@@ -29,7 +29,7 @@
 
         Any electric utility required to submit a conservation plan under [section 8484 of this title][/us/usc/t42/s8484] shall annually submit to the Secretary a report identifying the steps taken during the preceding year to implement such plan.
 
-([Pub. L. 95–620, title VII, § 712][/us/pl/95/620/s712], Nov. 9, 1978, [92 Stat. 3332][/us/stat/92/3332]; [Pub. L. 97–35, title X, § 1023(b)][/us/pl/97/35/s1023/b], Aug. 13, 1981, [95 Stat. 617][/us/stat/95/617].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 712, Nov. 9, 1978, [92 Stat. 3332][/us/stat/92/3332]; [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1023(b), Aug. 13, 1981, [95 Stat. 617][/us/stat/95/617].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t42/s8484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8484
-[/us/pl/95/620/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs712
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3332
-[/us/pl/97/35/s1023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1023%2Fb
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F617
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

@@ -35,19 +35,19 @@
 
         Except with respect to the United States Coast Guard and the Department of Defense, and except as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary’s direction in response to an urgent or emergency public health care need (as defined in [section 204a(a)(5) of this title][/us/usc/t42/s204a/a/5]).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 214, [58 Stat. 690][/us/stat/58/690]; [July 3, 1946, ch. 538, § 6][/us/act/1946-07-03/ch538/s6], [60 Stat. 423][/us/stat/60/423]; [Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 521(e), [63 Stat. 835][/us/stat/63/835]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–76, title III, § 309][/us/pl/96/76/s309], Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585]; [Pub. L. 109–417, title II, § 206(c)(1)][/us/pl/109/417/s206/c/1], Dec. 19, 2006, [120 Stat. 2853][/us/stat/120/2853].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 214, [58 Stat. 690][/us/stat/58/690]; [July 3, 1946, ch. 538][/us/act/1946-07-03/ch538], § 6, [60 Stat. 423][/us/stat/60/423]; [Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 521(e), [63 Stat. 835][/us/stat/63/835]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 309, Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585]; [Pub. L. 109–417, title II][/us/pl/109/417/tII], § 206(c)(1), Dec. 19, 2006, [120 Stat. 2853][/us/stat/120/2853].)
 
  __Codification__ 
 
-    In subsec. (a), Air Force was inserted on the authority of section 207(a), (f) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 502][/us/stat/61/502], which established a separate Department of the Air Force, and Secretary of Defense Transfer Order No. 40 \[App. A(74)\], July 22, 1949, which transferred certain functions, insofar as they pertain to the Air Force, which were not previously transferred to the Department of the Air Force and Secretary of the Air Force. Section 207(a), (f) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 8010 to 8013 continued the Department of the Air Force under the administrative supervision of a Secretary of the Air Force.
+    In subsec. (a), Air Force was inserted on the authority of section 207(a), (f) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 502][/us/stat/61/502], which established a separate Department of the Air Force, and Secretary of Defense Transfer Order No. 40 \[App. A(74)\], July 22, 1949, which transferred certain functions, insofar as they pertain to the Air Force, which were not previously transferred to the Department of the Air Force and Secretary of the Air Force. Section 207(a), (f) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 8010 to 8013 continued the Department of the Air Force under the administrative supervision of a Secretary of the Air Force.
 
  __Amendments__ 
 
     2006—Subsec. (e). [Pub. L. 109–417][/us/pl/109/417] added subsec. (e).
 
-    1979—Subsec. (c). [Pub. L. 96–76, § 309(a)][/us/pl/96/76/s309/a], inserted provisions authorizing detail of personnel to appropriate committees of Congress.
+    1979—Subsec. (c). [Pub. L. 96–76][/us/pl/96/76], § 309(a), inserted provisions authorizing detail of personnel to appropriate committees of Congress.
 
-    Subsec. (d). [Pub. L. 96–76, § 309(b)][/us/pl/96/76/s309/b], inserted provisions relating to agreements by States, etc., for reimbursement upon detail of personnel.
+    Subsec. (d). [Pub. L. 96–76][/us/pl/96/76], § 309(b), inserted provisions relating to agreements by States, etc., for reimbursement upon detail of personnel.
 
     1949—Subsec. (d). Act Oct. 12, 1949, substituted “the computation of basic pay” for “longevity pay”.
 
@@ -67,7 +67,7 @@
 
  __Transfers of Personnel Occasioned by Creation of the Environmental Protection Agency__ 
 
-[Pub. L. 91–604, § 15(b)(1)][/us/pl/91/604/s15/b/1]–(8)(A), Dec. 31, 1970, [84 Stat. 1710–1712][/us/stat/84/1710-1712], as amended by [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
+[Pub. L. 91–604][/us/pl/91/604], § 15(b)(1)–(8)(A), Dec. 31, 1970, [84 Stat. 1710–1712][/us/stat/84/1710-1712], as amended by [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(4)(B), Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
 
 >     “(1) Subject to such requirements as the Civil Service Commission may prescribe, any commissioned officer of the Public Health Service (other than an officer who retires under section 211 of the Public Health Service Act \[[42 U.S.C. 212][/us/usc/t42/s212]\] after his election but prior to his transfer pursuant to this paragraph and paragraph (2)) who, upon the day before the effective date of Reorganization Plan Numbered 3 of 1970 (hereinafter in this subsection referred to as the ‘plan’), is serving as such officer (A) primarily in the performance of functions transferred by such plan to the Environmental Protection Agency or its Administrator (hereinafter in this subsection referred to as the ‘Agency’ and the ‘Administrator,’ respectively), may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Agency; or (B) primarily in the performance of functions determined by the Secretary of Health, Education, and Welfare (hereinafter in this subsection referred to as the ‘Secretary’) to be materially related to the functions so transferred, may, if authorized by agreement between the Secretary and the Administrator, and if such officer so elects, acquire such status and be so transferred.
 
@@ -122,22 +122,22 @@
 [/us/usc/t42/s204a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs204a%2Fa%2F5
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F690
-[/us/act/1946-07-03/ch538/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538%2Fs6
+[/us/act/1946-07-03/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538
 [/us/stat/60/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F423
 [/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
 [/us/stat/63/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F835
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/76/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs309
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F585
-[/us/pl/109/417/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs206%2Fc%2F1
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2853
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F502
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
-[/us/pl/96/76/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs309%2Fa
-[/us/pl/96/76/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs309%2Fb
+[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
+[/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
 [/us/usc/t33/s854a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
@@ -147,11 +147,11 @@
 [/us/usc/t42/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3501
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/91/604/s15/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fb%2F1
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1710-1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1710-1712
-[/us/pl/112/81/s631/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FB
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/usc/t42/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801

@@ -45,7 +45,7 @@
 
         An insured loan may not be made under this section unless the applicant for such loan has established to the satisfaction of the Secretary that the applicant is unable without such a loan to obtain sufficient credit elsewhere at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms for loans for similar purposes and periods of time, to finance the construction of the biomass energy project for which such loan is sought.
 
-([Pub. L. 96–294, title II, § 213][/us/pl/96/294/s213], June 30, 1980, [94 Stat. 690][/us/stat/94/690].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 213, June 30, 1980, [94 Stat. 690][/us/stat/94/690].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t42/s8803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8803
 [/us/usc/t42/s8803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8803
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/96/294/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs213
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F690
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307

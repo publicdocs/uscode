@@ -55,7 +55,7 @@
 
             The term “manufacturer” has the meaning given that term for purposes of subsection (d) of such section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128H, as added [Pub. L. 111–148, title VI, § 6004][/us/pl/111/148/s6004], Mar. 23, 2010, [124 Stat. 697][/us/stat/124/697].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128H, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6004, Mar. 23, 2010, [124 Stat. 697][/us/stat/124/697].)
 
 ----------
 
@@ -68,7 +68,7 @@
 [/us/usc/t21/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353
 [/us/usc/t21/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6004
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F697
 
 

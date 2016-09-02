@@ -67,7 +67,7 @@
 
             The Director shall ensure, to the extent practicable, that grants awarded under this section are made to a variety of types of institutions of higher education.
 
-([Pub. L. 107–368, § 17][/us/pl/107/368/s17], Dec. 19, 2002, [116 Stat. 3060][/us/stat/116/3060].)
+([Pub. L. 107–368][/us/pl/107/368], § 17, Dec. 19, 2002, [116 Stat. 3060][/us/stat/116/3060].)
 
  __Codification__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/107/368/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs17
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3060
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4
 [/us/usc/t42/s1862n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n

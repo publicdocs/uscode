@@ -59,7 +59,7 @@
 
         (2) title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
-([Pub. L. 103–322, title II, § 20413][/us/pl/103/322/s20413], Sept. 13, 1994, [108 Stat. 1829][/us/stat/108/1829].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20413, Sept. 13, 1994, [108 Stat. 1829][/us/stat/108/1829].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/103/322/s20413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20413
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1829
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
 [/us/stat/102/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2623

@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated $2,000,000 for each of fiscal years 2005 through 2009 to carry out this section.
 
-([Pub. L. 108–405, title III, § 308][/us/pl/108/405/s308], Oct. 30, 2004, [118 Stat. 2275][/us/stat/118/2275].)
+([Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 308, Oct. 30, 2004, [118 Stat. 2275][/us/stat/118/2275].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/405/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs308
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2275
 
 

@@ -81,7 +81,7 @@
 
         Notwithstanding any of the above requirements, it is the intention of this chapter and the planning process developed pursuant to this chapter that in determining the size of the waste-to-energy facility, adequate provision shall be given to the present and reasonably anticipated future needs of the recycling and resource recovery interest within the area encompassed by the planning process.
 
-([Pub. L. 89–272, title II, § 4003][/us/pl/89/272/s4003], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2814][/us/stat/90/2814]; amended [Pub. L. 96–463, § 5(b)][/us/pl/96/463/s5/b], Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056]; [Pub. L. 96–482][/us/pl/96/482], §§ 18, 32(d), Oct. 21, 1980, [94 Stat. 2345][/us/stat/94/2345], 2353; [Pub. L. 98–616, title III, § 301(b)][/us/pl/98/616/s301/b], title V, § 502(h), Nov. 8, 1984, [98 Stat. 3267][/us/stat/98/3267], 3277.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4003, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2814][/us/stat/90/2814]; amended [Pub. L. 96–463][/us/pl/96/463], § 5(b), Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056]; [Pub. L. 96–482][/us/pl/96/482], §§ 18, 32(d), Oct. 21, 1980, [94 Stat. 2345][/us/stat/94/2345], 2353; [Pub. L. 98–616, title III][/us/pl/98/616/tIII], § 301(b), title V, § 502(h), Nov. 8, 1984, [98 Stat. 3267][/us/stat/98/3267], 3277.)
 
  __Codification__ 
 
@@ -89,19 +89,19 @@
 
  __Amendments__ 
 
-    1984—Subsecs. (b), (c). [Pub. L. 98–616, § 502(h)][/us/pl/98/616/s502/h], redesignated the subsec. (b) entitled energy and materials conservation and recovery feasibility planning and assistance, as subsec. (c).
+    1984—Subsecs. (b), (c). [Pub. L. 98–616][/us/pl/98/616], § 502(h), redesignated the subsec. (b) entitled energy and materials conservation and recovery feasibility planning and assistance, as subsec. (c).
 
-    Subsec. (d). [Pub. L. 98–616, § 301(b)][/us/pl/98/616/s301/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–616][/us/pl/98/616], § 301(b), added subsec. (d).
 
-    1980—Subsec. (a). [Pub. L. 96–463, § 5(b)][/us/pl/96/463/s5/b], and [Pub. L. 96–482, § 32(d)(2)][/us/pl/96/482/s32/d/2], designated existing provisions as subsec. (a).
+    1980—Subsec. (a). [Pub. L. 96–463][/us/pl/96/463], § 5(b), and [Pub. L. 96–482][/us/pl/96/482], § 32(d)(2), designated existing provisions as subsec. (a).
 
-    Subsec. (a)(2). [Pub. L. 96–482, § 18(a)][/us/pl/96/482/s18/a], substituted reference to sections 6944(b) and 6945(a) of this title for reference to [section 6945(c) of this title][/us/usc/t42/s6945/c].
+    Subsec. (a)(2). [Pub. L. 96–482][/us/pl/96/482], § 18(a), substituted reference to sections 6944(b) and 6945(a) of this title for reference to [section 6945(c) of this title][/us/usc/t42/s6945/c].
 
     Subsec. (a)(5). [Pub. L. 96–482][/us/pl/96/482], §§ 18(b), 32(d)(1), substituted “State or local government” for “local government” and required State plan recognition of right to enter into long-term contracts for operation of resource recovery facilities and to secure long-term markets for material and energy recovered from such facilities, and required State plan recognition of right to negotiate long-term contracts and to negotiate and enter into such contracts for conserving materials or energy by reducing the volume of waste.
 
-    Subsec. (b). [Pub. L. 96–463, § 5(b)][/us/pl/96/463/s5/b], added subsec. (b) relating to discretionary plan provisions for recycled oil.
+    Subsec. (b). [Pub. L. 96–463][/us/pl/96/463], § 5(b), added subsec. (b) relating to discretionary plan provisions for recycled oil.
 
-    [Pub. L. 96–482, § 32(d)(2)][/us/pl/96/482/s32/d/2], added subsec. (b) relating to energy and materials conservation and recovery feasibility planning and assistance.
+    [Pub. L. 96–482][/us/pl/96/482], § 32(d)(2), added subsec. (b) relating to energy and materials conservation and recovery feasibility planning and assistance.
 
 ----------
 
@@ -115,25 +115,25 @@
 [/us/usc/t42/s6944/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6944%2Fa
 [/us/usc/t42/s6945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6945
 [/us/usc/t42/s6948/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6948%2Fa%2F3
-[/us/pl/89/272/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4003
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2814
-[/us/pl/96/463/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs5%2Fb
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2056
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2345
-[/us/pl/98/616/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs301%2Fb
+[/us/pl/98/616/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIII
 [/us/stat/98/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3267
 [/us/pl/96/463/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs5%2Fb
 [/us/usc/t42/s6948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6948
-[/us/pl/98/616/s502/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs502%2Fh
-[/us/pl/98/616/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs301%2Fb
-[/us/pl/96/463/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs5%2Fb
-[/us/pl/96/482/s32/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fd%2F2
-[/us/pl/96/482/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs18%2Fa
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6945/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6945%2Fc
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
-[/us/pl/96/463/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs5%2Fb
-[/us/pl/96/482/s32/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fd%2F2
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 
 

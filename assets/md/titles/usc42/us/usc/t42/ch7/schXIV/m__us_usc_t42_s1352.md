@@ -27,11 +27,11 @@
 
         At the option of the State, the plan may provide that manuals and other policy issuances will be furnished to persons without charge for the reasonable cost of such materials, but such provision shall not be required by the Secretary as a condition for the approval of such plan under this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1402, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 555][/us/stat/64/555]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 314(b), [70 Stat. 850][/us/stat/70/850]; [Pub. L. 87–543, title I][/us/pl/87/543], §§ 104(a)(3)(I), 106(a)(3), July 25, 1962, [76 Stat. 185][/us/stat/76/185], 188; [Pub. L. 89–97, title IV, § 403(d)][/us/pl/89/97/s403/d] July 30, 1965, [79 Stat. 418][/us/stat/79/418]; [Pub. L. 90–248, title II][/us/pl/90/248], §§ 210(a)(4), 213(a)(3), Jan. 2, 1968, [81 Stat. 896][/us/stat/81/896], 898; [Pub. L. 92–603, title IV][/us/pl/92/603], §§ 405(c), 406(c), 407(c), 410(c), 413(c), Oct. 30, 1972, [86 Stat. 1488][/us/stat/86/1488], 1489, 1491, 1492; [Pub. L. 98–369, div. B, title VI, § 2651(g)][/us/pl/98/369/s2651/g], July 18, 1984, [98 Stat. 1150][/us/stat/98/1150]; [Pub. L. 104–193, title I, § 108(h)][/us/pl/104/193/s108/h], Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1402, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 555][/us/stat/64/555]; amended 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 314(b), [70 Stat. 850][/us/stat/70/850]; [Pub. L. 87–543, title I][/us/pl/87/543/tI], §§ 104(a)(3)(I), 106(a)(3), July 25, 1962, [76 Stat. 185][/us/stat/76/185], 188; [Pub. L. 89–97, title IV][/us/pl/89/97/tIV], § 403(d) July 30, 1965, [79 Stat. 418][/us/stat/79/418]; [Pub. L. 90–248, title II][/us/pl/90/248/tII], §§ 210(a)(4), 213(a)(3), Jan. 2, 1968, [81 Stat. 896][/us/stat/81/896], 898; [Pub. L. 92–603, title IV][/us/pl/92/603/tIV], §§ 405(c), 406(c), 407(c), 410(c), 413(c), Oct. 30, 1972, [86 Stat. 1488][/us/stat/86/1488], 1489, 1491, 1492; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2651(g), July 18, 1984, [98 Stat. 1150][/us/stat/98/1150]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 108(h), Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -39,25 +39,25 @@
 
     1984—Subsec. (a)(13). [Pub. L. 98–369][/us/pl/98/369] added cl. (13).
 
-    1972—Subsec. (a)(1). [Pub. L. 92–603, § 410(c)][/us/pl/92/603/s410/c], inserted “except to the extent permitted by the Secretary with respect to services” before “provide”.
+    1972—Subsec. (a)(1). [Pub. L. 92–603][/us/pl/92/603], § 410(c), inserted “except to the extent permitted by the Secretary with respect to services” before “provide”.
 
-    Subsec. (a)(4). [Pub. L. 92–603, § 407(c)][/us/pl/92/603/s407/c], designated existing provisions as subcl. (A) and added subcl. (B).
+    Subsec. (a)(4). [Pub. L. 92–603][/us/pl/92/603], § 407(c), designated existing provisions as subcl. (A) and added subcl. (B).
 
-    Subsec. (a)(9). [Pub. L. 92–603, § 413(c)][/us/pl/92/603/s413/c], substituted provisions permitting the use or disclosure of information concerning applicants or recipients to public officials requiring such information in connection with their official duties and to other persons for purposes directly connected with the administration of the State plan, for provisions restricting the use or disclosure of such information to purposes directly connected with the administration of aid to the permanently and totally disabled.
+    Subsec. (a)(9). [Pub. L. 92–603][/us/pl/92/603], § 413(c), substituted provisions permitting the use or disclosure of information concerning applicants or recipients to public officials requiring such information in connection with their official duties and to other persons for purposes directly connected with the administration of the State plan, for provisions restricting the use or disclosure of such information to purposes directly connected with the administration of aid to the permanently and totally disabled.
 
-    Subsec. (a)(12). [Pub. L. 92–603, § 405(c)][/us/pl/92/603/s405/c], inserted provision relating to the use of whatever internal organizational arrangement found appropriate.
+    Subsec. (a)(12). [Pub. L. 92–603][/us/pl/92/603], § 405(c), inserted provision relating to the use of whatever internal organizational arrangement found appropriate.
 
-    Subsec. (b). [Pub. L. 92–603, § 406(c)][/us/pl/92/603/s406/c], inserted provision relating to the furnishing of manuals and other policy issuances to persons without charge and at the option of the State.
+    Subsec. (b). [Pub. L. 92–603][/us/pl/92/603], § 406(c), inserted provision relating to the furnishing of manuals and other policy issuances to persons without charge and at the option of the State.
 
-    1968—Subsec. (a)(5). [Pub. L. 90–248, § 210(a)(4)][/us/pl/90/248/s210/a/4], designated existing provisions as subcl. (A) and added subcl. (B).
+    1968—Subsec. (a)(5). [Pub. L. 90–248][/us/pl/90/248], § 210(a)(4), designated existing provisions as subcl. (A) and added subcl. (B).
 
     Subsec. (a)(8)(A). [Pub. L. 90–248][/us/pl/90/248] § 213(a)(3), increased from $5 to $7.50 limitation on amount of any income which the State may disregard in making its determination of need.
 
     1965—Subsec. (a)(8). [Pub. L. 89–97][/us/pl/89/97] inserted exception prohibiting disregard by State in making its determination of need of more than $5 of any income or of more than the first $20 of the first $80 per month of additional income which is earned and allowing disregard, for a period not in excess of 36 months, of such additional amounts of other income and resources as may be necessary to the fulfillment of approved plan for achieving self-support but only as to the part or parts of such period during substantially all of which he is actually undergoing vocational rehabilitation.
 
-    1962—Subsec. (a)(7). [Pub. L. 87–543, § 104(a)(3)(I)][/us/pl/87/543/s104/a/3/I], substituted “aid to families with dependent children” for “aid to dependent children”.
+    1962—Subsec. (a)(7). [Pub. L. 87–543][/us/pl/87/543], § 104(a)(3)(I), substituted “aid to families with dependent children” for “aid to dependent children”.
 
-    Subsec. (a)(8). [Pub. L. 87–543, § 106(a)(3)][/us/pl/87/543/s106/a/3], inserted “, as well as any expenses reasonably attributable to the earning of any such income”.
+    Subsec. (a)(8). [Pub. L. 87–543][/us/pl/87/543], § 106(a)(3), inserted “, as well as any expenses reasonably attributable to the earning of any such income”.
 
     1956—Subsec. (a)(12). Act Aug. 1, 1956, added cl. (12).
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1965 Amendment__ 
 
-    [Pub. L. 89–97, title IV, § 403(d)][/us/pl/89/97/s403/d], July 30, 1965, [79 Stat. 418][/us/stat/79/418], provided that the amendment made by that section is effective Oct. 1, 1965.
+    [Pub. L. 89–97, title IV][/us/pl/89/97/tIV], § 403(d), July 30, 1965, [79 Stat. 418][/us/stat/79/418], provided that the amendment made by that section is effective Oct. 1, 1965.
 
  __Effective Date of 1962 Amendment__ 
 
@@ -111,33 +111,33 @@
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F850
-[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F185
-[/us/pl/89/97/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs403%2Fd
+[/us/pl/89/97/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIV
 [/us/stat/79/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F418
-[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F896
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIV
 [/us/stat/86/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1488
-[/us/pl/98/369/s2651/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2651%2Fg
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1150
-[/us/pl/104/193/s108/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fh
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2169
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/92/603/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs410%2Fc
-[/us/pl/92/603/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs407%2Fc
-[/us/pl/92/603/s413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs413%2Fc
-[/us/pl/92/603/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs405%2Fc
-[/us/pl/92/603/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs406%2Fc
-[/us/pl/90/248/s210/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs210%2Fa%2F4
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
-[/us/pl/87/543/s104/a/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs104%2Fa%2F3%2FI
-[/us/pl/87/543/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs106%2Fa%2F3
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
@@ -147,7 +147,7 @@
 [/us/pl/90/248/s210/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs210%2Fa%2F4
 [/us/pl/90/248/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs210%2Fb
 [/us/usc/t42/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302
-[/us/pl/89/97/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs403%2Fd
+[/us/pl/89/97/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIV
 [/us/stat/79/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F418
 [/us/pl/87/543/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs106%2Fa%2F3
 [/us/pl/87/543/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs202%2Fa

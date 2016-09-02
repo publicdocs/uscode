@@ -35,7 +35,7 @@
 
         For the purposes of this section, there are authorized to be appropriated to the Secretary $30,000,000 for each of fiscal years 2006 through 2010. Not more than 10 percent of appropriated funds shall be used for administration.
 
-([Pub. L. 109–58, title I, § 125][/us/pl/109/58/s125], Aug. 8, 2005, [119 Stat. 618][/us/stat/119/618].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 125, Aug. 8, 2005, [119 Stat. 618][/us/stat/119/618].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s6322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6322
-[/us/pl/109/58/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs125
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F618
 
 

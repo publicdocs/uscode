@@ -17,7 +17,7 @@
 
     To request a grant under this subchapter, a State, Tribal, or local prosecutor shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require. Each such application shall contain the certification by the State, Tribal, or local prosecutor that the program for which the grant is requested is a qualified drug treatment program, in accordance with this subchapter.
 
-([Pub. L. 90–351, title I, § 2903][/us/pl/90/351/s2903], as added [Pub. L. 110–199, title I, § 112(a)][/us/pl/110/199/s112/a], Apr. 9, 2008, [122 Stat. 673][/us/stat/122/673].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2903, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 112(a), Apr. 9, 2008, [122 Stat. 673][/us/stat/122/673].)
 
  __Construction of 2008 Amendment__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2903
-[/us/pl/110/199/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs112%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F673
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504

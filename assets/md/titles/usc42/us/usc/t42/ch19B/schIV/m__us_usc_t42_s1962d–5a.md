@@ -39,7 +39,7 @@
 
         The Secretary of the Army is authorized to allot from any appropriations hereafter made for civil works, not to exceed $10,000,000 for any one fiscal year to carry out the provisions of this section. This limitation does not include specific project authorizations providing for reimbursement.
 
-([Pub. L. 90–483, title II, § 215][/us/pl/90/483/s215], Aug. 13, 1968, [82 Stat. 747][/us/stat/82/747]; [Pub. L. 99–662, title IX, § 913][/us/pl/99/662/s913], Nov. 17, 1986, [100 Stat. 4190][/us/stat/100/4190]; [Pub. L. 100–676, § 12][/us/pl/100/676/s12], Nov. 17, 1988, [102 Stat. 4025][/us/stat/102/4025]; [Pub. L. 104–303, title II, § 224(a)][/us/pl/104/303/s224/a], Oct. 12, 1996, [110 Stat. 3697][/us/stat/110/3697]; [Pub. L. 110–161, div. C, title I, § 116][/us/pl/110/161/s116], Dec. 26, 2007, [121 Stat. 1945][/us/stat/121/1945].)
+([Pub. L. 90–483, title II][/us/pl/90/483/tII], § 215, Aug. 13, 1968, [82 Stat. 747][/us/stat/82/747]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 913, Nov. 17, 1986, [100 Stat. 4190][/us/stat/100/4190]; [Pub. L. 100–676][/us/pl/100/676], § 12, Nov. 17, 1988, [102 Stat. 4025][/us/stat/102/4025]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 224(a), Oct. 12, 1996, [110 Stat. 3697][/us/stat/110/3697]; [Pub. L. 110–161, div. C, title I][/us/pl/110/161/dC/tI], § 116, Dec. 26, 2007, [121 Stat. 1945][/us/stat/121/1945].)
 
  __Codification__ 
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/usc/t33/s426f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426f
-[/us/pl/90/483/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2Fs215
+[/us/pl/90/483/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2FtII
 [/us/stat/82/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F747
-[/us/pl/99/662/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs913
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4190
-[/us/pl/100/676/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs12
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4025
-[/us/pl/104/303/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs224%2Fa
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3697
-[/us/pl/110/161/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs116
+[/us/pl/110/161/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdC%2FtI
 [/us/stat/121/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1945
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303

@@ -83,7 +83,7 @@
 
         (2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: Provided, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
 
-    (g) __to (i) Repealed.__  __[__  __Pub. L. 96–517, § 7(c)__  __][/us/pl/96/517/s7/c]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 3027__  __][/us/stat/94/3027]__ 
+    (g) __to (i) Repealed.__  __[__  __Pub. L. 96–517__  __][/us/pl/96/517]__  __, § 7(c),__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 3027__  __][/us/stat/94/3027]__ 
 
     (j) __Small business status of applicant for waiver or licenses__ 
 
@@ -115,39 +115,39 @@
 
         Within twelve months after December 31, 1974, the Secretary with the participation of the Attorney General, the Secretary of Commerce, and other officials as the President may designate, shall submit to the President and the appropriate congressional committees a report concerning the applicability of existing patent policies affecting the programs under this chapter, along with his recommendations for amendments or additions to the statutory patent policy, including his recommendations on mandatory licensing, which he deems advisable for carrying out the purposes of this chapter.
 
-([Pub. L. 93–577, § 9][/us/pl/93/577/s9], Dec. 31, 1974, [88 Stat. 1887][/us/stat/88/1887]; [Pub. L. 96–517, § 7(c)][/us/pl/96/517/s7/c], Dec. 12, 1980, [94 Stat. 3027][/us/stat/94/3027]; [Pub. L. 109–58, title X, § 1009(b)(7)][/us/pl/109/58/s1009/b/7], Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
+([Pub. L. 93–577][/us/pl/93/577], § 9, Dec. 31, 1974, [88 Stat. 1887][/us/stat/88/1887]; [Pub. L. 96–517][/us/pl/96/517], § 7(c), Dec. 12, 1980, [94 Stat. 3027][/us/stat/94/3027]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(7), Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (a), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (a), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 1009(b)(7)(B)][/us/pl/109/58/s1009/b/7/B], substituted “Secretary” for “Administrator” in introductory and concluding provisions.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory and concluding provisions.
 
-    [Pub. L. 109–58, § 1009(b)(7)(A)][/us/pl/109/58/s1009/b/7/A], substituted “Department” for “Administration” in introductory provisions.
+    [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(A), substituted “Department” for “Administration” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 109–58, § 1009(b)(7)(A)][/us/pl/109/58/s1009/b/7/A], substituted “Department” for “Administration” in two places.
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(A), substituted “Department” for “Administration” in two places.
 
-    Subsec. (c). [Pub. L. 109–58, § 1009(b)(7)(B)][/us/pl/109/58/s1009/b/7/B], substituted “Secretary” for “Administrator” wherever appearing in introductory provisions.
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(B), substituted “Secretary” for “Administrator” wherever appearing in introductory provisions.
 
-    [Pub. L. 109–58, § 1009(b)(7)(A)][/us/pl/109/58/s1009/b/7/A], substituted “Department” for “Administration” in two places in introductory provisions.
+    [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(A), substituted “Department” for “Administration” in two places in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 109–58, § 1009(b)(7)(C)][/us/pl/109/58/s1009/b/7/C], substituted “Department’s” for “Administration’s”.
+    Subsec. (c)(3). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(C), substituted “Department’s” for “Administration’s”.
 
-    Subsec. (d). [Pub. L. 109–58, § 1009(b)(7)(B)][/us/pl/109/58/s1009/b/7/B], substituted “Secretary” for “Administrator” in introductory provisions and par. (11).
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory provisions and par. (11).
 
-    Subsec. (e). [Pub. L. 109–58, § 1009(b)(7)(B)][/us/pl/109/58/s1009/b/7/B], substituted “Secretary” for “Administrator” in introductory provisions.
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (f)(2). [Pub. L. 109–58, § 1009(b)(7)(A)][/us/pl/109/58/s1009/b/7/A], substituted “Department” for “Administration”.
+    Subsec. (f)(2). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(A), substituted “Department” for “Administration”.
 
-    Subsecs. (j), (k). [Pub. L. 109–58, § 1009(b)(7)(B)][/us/pl/109/58/s1009/b/7/B], substituted “Secretary” for “Administrator”.
+    Subsecs. (j), (k). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(B), substituted “Secretary” for “Administrator”.
 
-    Subsec. (l). [Pub. L. 109–58, § 1009(b)(7)(A)][/us/pl/109/58/s1009/b/7/A], substituted “Department” for “Administration”.
+    Subsec. (l). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(A), substituted “Department” for “Administration”.
 
-    Subsec. (m)(5). [Pub. L. 109–58, § 1009(b)(7)(A)][/us/pl/109/58/s1009/b/7/A], substituted “Department” for “Administration”.
+    Subsec. (m)(5). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(A), substituted “Department” for “Administration”.
 
-    Subsec. (n). [Pub. L. 109–58, § 1009(b)(7)(B)][/us/pl/109/58/s1009/b/7/B], substituted “Secretary with” for “Administrator with”.
+    Subsec. (n). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(7)(B), substituted “Secretary with” for “Administrator with”.
 
     1980—Subsec. (g). [Pub. L. 96–517][/us/pl/96/517] struck out subsec. (g) which related to licenses for inventions, promulgation of regulations specifying terms and conditions, criteria and procedures for grant of exclusive or partially exclusive licenses, and record of determinations.
 
@@ -167,31 +167,31 @@
 ----------
 
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/96/517/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs7%2Fc
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3027
-[/us/pl/93/577/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs9
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1887
-[/us/pl/96/517/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs7%2Fc
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3027
-[/us/pl/109/58/s1009/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F935
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/109/58/s1009/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FB
-[/us/pl/109/58/s1009/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FA
-[/us/pl/109/58/s1009/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FA
-[/us/pl/109/58/s1009/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FB
-[/us/pl/109/58/s1009/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FA
-[/us/pl/109/58/s1009/b/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FC
-[/us/pl/109/58/s1009/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FB
-[/us/pl/109/58/s1009/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FB
-[/us/pl/109/58/s1009/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FA
-[/us/pl/109/58/s1009/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FB
-[/us/pl/109/58/s1009/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FA
-[/us/pl/109/58/s1009/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FA
-[/us/pl/109/58/s1009/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F7%2FB
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517

@@ -39,7 +39,7 @@
 
         (4) such sums as may be necessary for each of the succeeding fiscal years.
 
-([Pub. L. 94–282, title V, § 501][/us/pl/94/282/s501], May 11, 1976, [90 Stat. 472][/us/stat/90/472].)
+([Pub. L. 94–282, title V][/us/pl/94/282/tV], § 501, May 11, 1976, [90 Stat. 472][/us/stat/90/472].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/94/282/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs501
+[/us/pl/94/282/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtV
 [/us/stat/90/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F472
 
 

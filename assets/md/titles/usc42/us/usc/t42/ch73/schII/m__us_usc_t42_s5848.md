@@ -27,11 +27,11 @@
 
     the Commission shall also provide as wide dissemination to the public of the information specified in clauses (1) and (2) of this section as reasonably possible within fifteen days of its receiving information of each abnormal occurrence and shall provide as wide dissemination to the public as reasonably possible of the information specified in clauses (3) and (4) as soon as such information becomes available to it.
 
-([Pub. L. 93–438, title II, § 208][/us/pl/93/438/s208], Oct. 11, 1974, [88 Stat. 1248][/us/stat/88/1248]; [Pub. L. 104–66, title II, § 2171][/us/pl/104/66/s2171], Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 208, Oct. 11, 1974, [88 Stat. 1248][/us/stat/88/1248]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2171, Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in text, is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in text, is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 93–438][/us/pl/93/438], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title][/us/usc/t42/s5801] and Tables.
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/93/438/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs208
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
 [/us/stat/88/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1248
-[/us/pl/104/66/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2171
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F731
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438

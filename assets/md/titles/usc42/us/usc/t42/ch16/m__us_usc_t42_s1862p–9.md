@@ -109,7 +109,7 @@
 
             (E) Such other issues that address the effectiveness of EPSCoR as the National Academy of Sciences considers appropriate.
 
-([Pub. L. 111–358, title V, § 517][/us/pl/111/358/s517], Jan. 4, 2011, [124 Stat. 4013][/us/stat/124/4013].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 517, Jan. 4, 2011, [124 Stat. 4013][/us/stat/124/4013].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 ----------
 
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/pl/111/358/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs517
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4013
 [/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F149

@@ -59,7 +59,7 @@
 
             Nothing in this subsection shall be construed to limit the ability of individuals residing in residential properties of 5 or more residences to obtain insurance for the contents and personal articles located in such residences.
 
-([Pub. L. 90–448, title XIII, § 1305][/us/pl/90/448/s1305], Aug. 1, 1968, [82 Stat. 574][/us/stat/82/574]; [Pub. L. 91–152, title IV, § 410(a)][/us/pl/91/152/s410/a], Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 92–213, § 2(c)(1)][/us/pl/92/213/s2/c/1], Dec. 22, 1971, [85 Stat. 775][/us/stat/85/775]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100204, 100238(b)(1), July 6, 2012, [126 Stat. 916][/us/stat/126/916], 958.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1305, Aug. 1, 1968, [82 Stat. 574][/us/stat/82/574]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 410(a), Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 92–213][/us/pl/92/213], § 2(c)(1), Dec. 22, 1971, [85 Stat. 775][/us/stat/85/775]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100204, 100238(b)(1), July 6, 2012, [126 Stat. 916][/us/stat/126/916], 958.)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in concluding provisions following par. (2).
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in concluding provisions following par. (2).
 
-    Subsec. (b)(A). [Pub. L. 112–141, § 100204(1)][/us/pl/112/141/s100204/1], which directed amendment of subsec. (b)(2)(A) by inserting “not described in subsection (a) or (d)” after “properties”, was executed by making the insertion in subpar. (A) following first concluding provisions to reflect the probable intent of Congress.
+    Subsec. (b)(A). [Pub. L. 112–141][/us/pl/112/141], § 100204(1), which directed amendment of subsec. (b)(2)(A) by inserting “not described in subsection (a) or (d)” after “properties”, was executed by making the insertion in subpar. (A) following first concluding provisions to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in introductory provisions.
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 112–141, § 100204(2)][/us/pl/112/141/s100204/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 100204(2), added subsec. (d).
 
     1983—[Pub. L. 98–181][/us/pl/98/181] substituted “Director” for “Secretary” wherever appearing.
 
@@ -98,24 +98,24 @@
 
 [/us/usc/t42/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014
 [/us/usc/t42/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102
-[/us/pl/90/448/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1305
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F574
-[/us/pl/91/152/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs410%2Fa
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F397
-[/us/pl/92/213/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F213%2Fs2%2Fc%2F1
+[/us/pl/92/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F213
 [/us/stat/85/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F775
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F916
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100204%2F1
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100204%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/92/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F213
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152

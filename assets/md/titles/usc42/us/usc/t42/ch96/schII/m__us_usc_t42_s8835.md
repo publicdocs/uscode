@@ -107,7 +107,7 @@
 
         Notwithstanding the provisions of the Federal Financing Bank Act of 1973 ([12 U.S.C. 2281][/us/usc/t12/s2281] et seq.) or any other provision of law (except as may be specifically provided by reference to this subsection in any Act enacted after June 30, 1980), no debt obligation which is made or committed to be made, or which is guaranteed or committed to be guaranteed by the Secretary of Energy under section 8832, 8833, or 8834 of this title shall be eligible for purchase by, or commitment to purchase by, or sale or issuance to, the Federal Financing Bank or any Federal agency.
 
-([Pub. L. 96–294, title II, § 235][/us/pl/96/294/s235], June 30, 1980, [94 Stat. 701][/us/stat/94/701].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 235, June 30, 1980, [94 Stat. 701][/us/stat/94/701].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 ----------
 
 [/us/usc/t12/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2281
-[/us/pl/96/294/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs235
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F701
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683

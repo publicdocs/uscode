@@ -27,7 +27,7 @@
 
     (e) Provide, to the extent the Surgeon General determines that other public or private funds are not available therefor, for the payment of expenses of preparing and transporting the remains of, or the payment of reasonable burial expenses for, any patient dying in a hospital or station.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 321, [58 Stat. 695][/us/stat/58/695]; [June 25, 1948, ch. 654, § 2][/us/act/1948-06-25/ch654/s2], [62 Stat. 1017][/us/stat/62/1017]; [Pub. L. 95–622, title II, § 266][/us/pl/95/622/s266], Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 321, [58 Stat. 695][/us/stat/58/695]; [June 25, 1948, ch. 654][/us/act/1948-06-25/ch654], § 2, [62 Stat. 1017][/us/stat/62/1017]; [Pub. L. 95–622, title II][/us/pl/95/622/tII], § 266, Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F695
-[/us/act/1948-06-25/ch654/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654%2Fs2
+[/us/act/1948-06-25/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654
 [/us/stat/62/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1017
-[/us/pl/95/622/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs266
+[/us/pl/95/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtII
 [/us/stat/92/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3437
 [/us/pl/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610

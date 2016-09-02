@@ -41,7 +41,7 @@
 
         (4) Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 93–383, title I, § 111][/us/pl/93/383/s111], Aug. 22, 1974, [88 Stat. 650][/us/stat/88/650].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 111, Aug. 22, 1974, [88 Stat. 650][/us/stat/88/650].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/93/383/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs111
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F650
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

@@ -33,7 +33,7 @@
 
             In making a determination of the amount of non-Federal contributions for purposes of subsection (a) of this section, the Secretary shall, subject to paragraphs (1) and (2) of this subsection, include any non-Federal amounts expended pursuant to title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] by the State involved toward the purpose described in paragraphs (1) and (2) of [section 300k(a) of this title][/us/usc/t42/s300k/a].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XV, § 1502, as added [Pub. L. 101–354, § 2][/us/pl/101/354/s2], Aug. 10, 1990, [104 Stat. 410][/us/stat/104/410].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XV, § 1502, as added [Pub. L. 101–354][/us/pl/101/354], § 2, Aug. 10, 1990, [104 Stat. 410][/us/stat/104/410].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 300l, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XV, § 1511, as added Jan. 4, 1975, [Pub. L. 93–641, § 3][/us/pl/93/641/s3], [88 Stat. 2229][/us/stat/88/2229]; amended Apr. 22, 1976, [Pub. L. 94–278, title XI, § 1106(a)][/us/pl/94/278/s1106/a], [90 Stat. 416][/us/stat/90/416]; Aug. 1, 1977, [Pub. L. 95–83, title I, § 106(b)][/us/pl/95/83/s106/b], [91 Stat. 384][/us/stat/91/384]; Oct. 4, 1979, [Pub. L. 96–79, title I, § 104(a)(1)][/us/pl/96/79/s104/a/1], (b), [93 Stat. 595][/us/stat/93/595], 596, related to establishment of health service areas, prior to repeal by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799], effective Jan. 1, 1987.
+    A prior section 300l, [act July 1, 1944, ch. 373, title XV][/us/act/1944-07-01/ch373/tXV], § 1511, as added Jan. 4, 1975, [Pub. L. 93–641][/us/pl/93/641], § 3, [88 Stat. 2229][/us/stat/88/2229]; amended Apr. 22, 1976, [Pub. L. 94–278, title XI][/us/pl/94/278/tXI], § 1106(a), [90 Stat. 416][/us/stat/90/416]; Aug. 1, 1977, [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 106(b), [91 Stat. 384][/us/stat/91/384]; Oct. 4, 1979, [Pub. L. 96–79, title I][/us/pl/96/79/tI], § 104(a)(1), (b), [93 Stat. 595][/us/stat/93/595], 596, related to establishment of health service areas, prior to repeal by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799], effective Jan. 1, 1987.
 
-    A prior section 1502 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XV, was classified to [section 300k–2 of this title][/us/usc/t42/s300k–2] prior to repeal by [Pub. L. 99–660][/us/pl/99/660].
+    A prior section 1502 of [act July 1, 1944, ch. 373, title XV][/us/act/1944-07-01/ch373/tXV], was classified to [section 300k–2 of this title][/us/usc/t42/s300k–2] prior to repeal by [Pub. L. 99–660][/us/pl/99/660].
 
 ----------
 
@@ -57,23 +57,23 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s300k/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300k%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F354%2Fs2
+[/us/pl/101/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F354
 [/us/stat/104/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F410
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs3
+[/us/act/1944-07-01/ch373/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXV
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2229
-[/us/pl/94/278/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs1106%2Fa
+[/us/pl/94/278/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtXI
 [/us/stat/90/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F416
-[/us/pl/95/83/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs106%2Fb
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F384
-[/us/pl/96/79/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs104%2Fa%2F1
+[/us/pl/96/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtI
 [/us/stat/93/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F595
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXV
 [/us/usc/t42/s300k–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300k%E2%80%932
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 

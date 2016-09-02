@@ -17,7 +17,7 @@
 
     The purpose of this chapter  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  is to provide States and localities with the resources and incentives to devise long-term comprehensive strategies for meeting the housing needs of persons with acquired immunodeficiency syndrome and families of such persons.
 
-([Pub. L. 101–625, title VIII, § 852][/us/pl/101/625/s852], Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375]; [Pub. L. 102–550, title VI, § 606(j)(1)][/us/pl/102/550/s606/j/1], Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 852, Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(j)(1), Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810].)
 
  __References in Text__ 
 
@@ -29,13 +29,13 @@
 
  __Short Title__ 
 
-[Pub. L. 101–625, title VIII, § 851][/us/pl/101/625/s851], Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375], provided that: 
+[Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 851, Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375], provided that: 
 
 > “This subtitle \[subtitle D (§§ 851–863) of title VIII of [Pub. L. 101–625][/us/pl/101/625], enacting this chapter\] may be cited as the ‘AIDS Housing Opportunity Act’.”
 
  __Regulations__ 
 
-[Pub. L. 102–550, title VI, § 606(k)][/us/pl/102/550/s606/k], Oct. 28, 1992, [106 Stat. 3811][/us/stat/106/3811], provided that:
+[Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(k), Oct. 28, 1992, [106 Stat. 3811][/us/stat/106/3811], provided that:
 
 >     “(1)  __Interim regulations__  __.—__ 
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/pl/101/625/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs852
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4375
-[/us/pl/102/550/s606/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F1
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3810
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/101/625/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs851
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4375
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/102/550/s606/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fk
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3811
 [/us/usc/t42/s12901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12901
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

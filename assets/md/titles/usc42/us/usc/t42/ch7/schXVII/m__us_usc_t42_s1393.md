@@ -27,7 +27,7 @@
 
     (5) provides for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for funds paid to the State under this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVII, § 1703, as added [Pub. L. 88–156, § 5][/us/pl/88/156/s5], Oct. 24, 1963, [77 Stat. 275][/us/stat/77/275].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVII, § 1703, as added [Pub. L. 88–156][/us/pl/88/156], § 5, Oct. 24, 1963, [77 Stat. 275][/us/stat/77/275].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t42/s1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1392
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/88/156/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs5
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F275
 
 

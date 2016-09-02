@@ -67,7 +67,7 @@
 
         There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e) of this section.
 
-([Pub. L. 95–91, title II, § 211][/us/pl/95/91/s211], as added [Pub. L. 95–619, title VI, § 641][/us/pl/95/619/s641], Nov. 9, 1978, [92 Stat. 3284][/us/stat/92/3284].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 211, as added [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 641, Nov. 9, 1978, [92 Stat. 3284][/us/stat/92/3284].)
 
 ----------
 
@@ -78,8 +78,8 @@
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t42/s7256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256
-[/us/pl/95/91/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs211
-[/us/pl/95/619/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs641
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3284
 
 

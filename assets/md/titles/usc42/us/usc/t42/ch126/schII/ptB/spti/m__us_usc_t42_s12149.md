@@ -23,7 +23,7 @@
 
         The regulations issued under this section and [section 12143 of this title][/us/usc/t42/s12143] shall include standards applicable to facilities and vehicles covered by this part. The standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with [section 12204 of this title][/us/usc/t42/s12204].
 
-([Pub. L. 101–336, title II, § 229][/us/pl/101/336/s229], July 26, 1990, [104 Stat. 345][/us/stat/104/345].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 229, July 26, 1990, [104 Stat. 345][/us/stat/104/345].)
 
  __Effective Date__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s12143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12143
 [/us/usc/t42/s12143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12143
 [/us/usc/t42/s12204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12204
-[/us/pl/101/336/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs229
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F345
 [/us/pl/101/336/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231%2Fb
 [/us/usc/t42/s12141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12141

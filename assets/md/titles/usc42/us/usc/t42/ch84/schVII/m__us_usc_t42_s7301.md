@@ -17,7 +17,7 @@
 
     The transfer of functions under subchapters III and IV of this chapter shall not affect the validity of any draft environmental impact statement published before October 1, 1977.
 
-([Pub. L. 95–91, title VII, § 713][/us/pl/95/91/s713], Aug. 4, 1977, [91 Stat. 610][/us/stat/91/610].)
+([Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 713, Aug. 4, 1977, [91 Stat. 610][/us/stat/91/610].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs713
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F610
 
 

@@ -25,7 +25,7 @@
 
     (4) to the extent that the Secretary is limited by the availability of funds to carry out the objectives of this chapter, priority, but not exclusive emphasis, should be given in the early years of the programs to activities under sections 9204 and 9206 of this title and in the later years of the programs to activities under [section 9205 of this title][/us/usc/t42/s9205].
 
-([Pub. L. 96–345, § 8][/us/pl/96/345/s8], Sept. 8, 1980, [94 Stat. 1144][/us/stat/94/1144].)
+([Pub. L. 96–345][/us/pl/96/345], § 8, Sept. 8, 1980, [94 Stat. 1144][/us/stat/94/1144].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s9205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9205
-[/us/pl/96/345/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs8
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1144
 
 

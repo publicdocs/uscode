@@ -55,7 +55,7 @@
 
         The site shall include a warning that information on the site should not be used to unlawfully injure, harass, or commit a crime against any individual named in the registry or residing or working at any reported address. The warning shall note that any such action could result in civil or criminal penalties.
 
-([Pub. L. 109–248, title I, § 118][/us/pl/109/248/s118], July 27, 2006, [120 Stat. 596][/us/stat/120/596].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 118, July 27, 2006, [120 Stat. 596][/us/stat/120/596].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs118
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F596
 
 

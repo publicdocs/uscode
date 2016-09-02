@@ -17,7 +17,7 @@
 
     To be eligible to receive a grant under [section 13891 of this title][/us/usc/t42/s13891], a State shall submit to the Attorney General an application at such time, in such form, and containing such information as the Attorney General reasonably may require by rule.
 
-([Pub. L. 103–322, title III, § 31912][/us/pl/103/322/s31912], Sept. 13, 1994, [108 Stat. 1895][/us/stat/108/1895].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31912, Sept. 13, 1994, [108 Stat. 1895][/us/stat/108/1895].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s13891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13891
-[/us/pl/103/322/s31912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31912
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1895
 
 

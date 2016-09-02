@@ -55,7 +55,7 @@
 
         There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2006 through 2009.
 
-([Pub. L. 109–162, title XI, § 1136][/us/pl/109/162/s1136], Jan. 5, 2006, [119 Stat. 3109][/us/stat/119/3109]; [Pub. L. 109–271, § 8(c)][/us/pl/109/271/s8/c], Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766].)
+([Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1136, Jan. 5, 2006, [119 Stat. 3109][/us/stat/119/3109]; [Pub. L. 109–271][/us/pl/109/271], § 8(c), Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766].)
 
  __Codification__ 
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/109/162/s1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1136
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3109
-[/us/pl/109/271/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fc
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F766
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271

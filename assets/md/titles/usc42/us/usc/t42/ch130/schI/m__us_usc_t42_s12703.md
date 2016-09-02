@@ -27,7 +27,7 @@
 
     (5) to increase the supply of supportive housing, which combines structural features and services needed to enable persons with special needs to live with dignity and independence.
 
-([Pub. L. 101–625, title I, § 103][/us/pl/101/625/s103], Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 103, Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs103
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4085
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079

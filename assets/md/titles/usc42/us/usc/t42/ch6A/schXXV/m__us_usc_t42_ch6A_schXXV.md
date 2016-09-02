@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–204, title VI, § 604(a)(1)][/us/pl/104/204/s604/a/1], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938], substituted “REQUIREMENTS RELATING TO HEALTH INSURANCE COVERAGE” for “ASSURING PORTABILITY, AVAILABILITY, AND RENEWABILITY OF HEALTH INSURANCE COVERAGE” as subchapter heading.
+    1996—[Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 604(a)(1), Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938], substituted “REQUIREMENTS RELATING TO HEALTH INSURANCE COVERAGE” for “ASSURING PORTABILITY, AVAILABILITY, AND RENEWABILITY OF HEALTH INSURANCE COVERAGE” as subchapter heading.
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/204/s604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs604%2Fa%2F1
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2938
 
 

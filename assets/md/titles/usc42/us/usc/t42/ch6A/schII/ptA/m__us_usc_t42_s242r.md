@@ -29,7 +29,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-([Pub. L. 108–282, title II, § 207][/us/pl/108/282/s207], Aug. 2, 2004, [118 Stat. 910][/us/stat/118/910].)
+([Pub. L. 108–282, title II][/us/pl/108/282/tII], § 207, Aug. 2, 2004, [118 Stat. 910][/us/stat/118/910].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/282/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs207
+[/us/pl/108/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtII
 [/us/stat/118/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F910
 
 

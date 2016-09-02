@@ -311,7 +311,7 @@
 
         From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 499, formerly § 499A, as added [Pub. L. 101–613, § 2][/us/pl/101/613/s2], Nov. 16, 1990, [104 Stat. 3224][/us/stat/104/3224]; amended [Pub. L. 102–170, title II, § 216][/us/pl/102/170/s216], Nov. 26, 1991, [105 Stat. 1128][/us/stat/105/1128]; [Pub. L. 102–321, title I, § 163(b)(6)][/us/pl/102/321/s163/b/6], July 10, 1992, [106 Stat. 376][/us/stat/106/376]; renumbered § 499 and amended [Pub. L. 103–43, title I, § 121(b)(3)][/us/pl/103/43/s121/b/3], title XVII, § 1701, June 10, 1993, [107 Stat. 133][/us/stat/107/133], 186; [Pub. L. 104–316, title I, § 122(b)][/us/pl/104/316/s122/b], Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836]; [Pub. L. 105–392, title IV, § 418(2)][/us/pl/105/392/s418/2], Nov. 13, 1998, [112 Stat. 3591][/us/stat/112/3591]; [Pub. L. 107–109, § 13][/us/pl/107/109/s13], Jan. 4, 2002, [115 Stat. 1417][/us/stat/115/1417]; [Pub. L. 109–482, title I, § 107][/us/pl/109/482/s107], Jan. 15, 2007, [120 Stat. 3696][/us/stat/120/3696]; [Pub. L. 110–85, title V, § 502(c)][/us/pl/110/85/s502/c], Sept. 27, 2007, [121 Stat. 889][/us/stat/121/889]; [Pub. L. 111–148, title X, § 10409(c)][/us/pl/111/148/s10409/c], Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; [Pub. L. 112–74, div. F, title II, § 221(d)(4)][/us/pl/112/74/s221/d/4], Dec. 23, 2011, [125 Stat. 1090][/us/stat/125/1090]; [Pub. L. 112–144, title V, § 509(f)][/us/pl/112/144/s509/f], July 9, 2012, [126 Stat. 1050][/us/stat/126/1050].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 499, formerly § 499A, as added [Pub. L. 101–613][/us/pl/101/613], § 2, Nov. 16, 1990, [104 Stat. 3224][/us/stat/104/3224]; amended [Pub. L. 102–170, title II][/us/pl/102/170/tII], § 216, Nov. 26, 1991, [105 Stat. 1128][/us/stat/105/1128]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(b)(6), July 10, 1992, [106 Stat. 376][/us/stat/106/376]; renumbered § 499 and amended [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 121(b)(3), title XVII, § 1701, June 10, 1993, [107 Stat. 133][/us/stat/107/133], 186; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(b), Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836]; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 418(2), Nov. 13, 1998, [112 Stat. 3591][/us/stat/112/3591]; [Pub. L. 107–109][/us/pl/107/109], § 13, Jan. 4, 2002, [115 Stat. 1417][/us/stat/115/1417]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 107, Jan. 15, 2007, [120 Stat. 3696][/us/stat/120/3696]; [Pub. L. 110–85, title V][/us/pl/110/85/tV], § 502(c), Sept. 27, 2007, [121 Stat. 889][/us/stat/121/889]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10409(c), Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(d)(4), Dec. 23, 2011, [125 Stat. 1090][/us/stat/125/1090]; [Pub. L. 112–144, title V][/us/pl/112/144/tV], § 509(f), July 9, 2012, [126 Stat. 1050][/us/stat/126/1050].)
 
  __References in Text__ 
 
@@ -319,7 +319,7 @@
 
     The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is [Pub. L. 101–613][/us/pl/101/613], Nov. 16, 1990, [104 Stat. 3224][/us/stat/104/3224], as amended, which enacted this section, [section 285g–4 of this title][/us/usc/t42/s285g–4], and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    [Section 284m of this title][/us/usc/t42/s284m], referred to in subsec. (j)(9)(B)(iv), was amended generally by [Pub. L. 110–85, title V, § 502(b)][/us/pl/110/85/s502/b], Sept. 27, 2007, [121 Stat. 886][/us/stat/121/886], and, as so amended, does not contain a par. (12) in subsec. (c).
+    [Section 284m of this title][/us/usc/t42/s284m], referred to in subsec. (j)(9)(B)(iv), was amended generally by [Pub. L. 110–85, title V][/us/pl/110/85/tV], § 502(b), Sept. 27, 2007, [121 Stat. 886][/us/stat/121/886], and, as so amended, does not contain a par. (12) in subsec. (c).
 
  __Prior Provisions__ 
 
@@ -335,31 +335,31 @@
 
     2007—Subsec. (c)(1)(C). [Pub. L. 110–85][/us/pl/110/85] substituted “and studies for which the Secretary issues a certification in the affirmative under [section 355a(n)(1)(A) of title 21][/us/usc/t21/s355a/n/1/A]” for “and studies listed by the Secretary pursuant to [section 284m(a)(1)(A) of this title][/us/usc/t42/s284m/a/1/A] and referred under [section 355a(d)(4)(C) of title 21][/us/usc/t21/s355a/d/4/C]”. Amendment, which directed striking out language ending with “section 505A(d)(4)(C) of the Federal Food, Drug and Cosmetic Act ([21 U.S.C. 355(a)(d)(4)(C)][/us/usc/t21/s355/a/d/4/C]’ ” in the original, was executed by striking out language ending with “section 505A(d)(4)(C) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a(d)(4)(C)][/us/usc/t21/s355a/d/4/C])” in the original to reflect the probable intent of Congress. That language had been translated as “[section 355a(d)(4)(C) of title 21][/us/usc/t21/s355a/d/4/C]” for purposes of codification.
 
-    Subsec. (d)(1)(D)(ii). [Pub. L. 109–482, § 107(1)(A)(i)][/us/pl/109/482/s107/1/A/i], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
+    Subsec. (d)(1)(D)(ii). [Pub. L. 109–482][/us/pl/109/482], § 107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
 
-    Subsec. (d)(1)(G). [Pub. L. 109–482, § 107(1)(A)(ii)][/us/pl/109/482/s107/1/A/ii], inserted “appointed” after “that the number of”.
+    Subsec. (d)(1)(G). [Pub. L. 109–482][/us/pl/109/482], § 107(1)(A)(ii), inserted “appointed” after “that the number of”.
 
-    Subsec. (d)(3)(B). [Pub. L. 109–482, § 107(1)(B)][/us/pl/109/482/s107/1/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any vacancy in the membership of the Board shall be filled in the manner in which the original position was made and shall not affect the power of the remaining members to execute the duties of the Board.”
+    Subsec. (d)(3)(B). [Pub. L. 109–482][/us/pl/109/482], § 107(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any vacancy in the membership of the Board shall be filled in the manner in which the original position was made and shall not affect the power of the remaining members to execute the duties of the Board.”
 
-    Subsec. (d)(5). [Pub. L. 109–482, § 107(1)(C)][/us/pl/109/482/s107/1/C], inserted “appointed” after “majority of the”.
+    Subsec. (d)(5). [Pub. L. 109–482][/us/pl/109/482], § 107(1)(C), inserted “appointed” after “majority of the”.
 
-    Subsec. (j)(2). [Pub. L. 109–482, § 107(2)(A)][/us/pl/109/482/s107/2/A], substituted “subsection (d)(6)” for “subsection (d)(2)(B)(i)(II)”.
+    Subsec. (j)(2). [Pub. L. 109–482][/us/pl/109/482], § 107(2)(A), substituted “subsection (d)(6)” for “subsection (d)(2)(B)(i)(II)”.
 
-    Subsec. (j)(4)(A). [Pub. L. 109–482, § 107(2)(B)(i)][/us/pl/109/482/s107/2/B/i], inserted “, including an accounting of the use of amounts transferred under subsection (l)” before period at end.
+    Subsec. (j)(4)(A). [Pub. L. 109–482][/us/pl/109/482], § 107(2)(B)(i), inserted “, including an accounting of the use of amounts transferred under subsection (l)” before period at end.
 
-    Subsec. (j)(4)(C). [Pub. L. 109–482, § 107(2)(B)(ii)][/us/pl/109/482/s107/2/B/ii], added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
+    Subsec. (j)(4)(C). [Pub. L. 109–482][/us/pl/109/482], § 107(2)(B)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
 
-    Subsec. (j)(10). [Pub. L. 109–482, § 107(2)(C)][/us/pl/109/482/s107/2/C], substituted “of Health and the National Institutes of Health may accept transfers of funds from the Foundation” for “of Health”.
+    Subsec. (j)(10). [Pub. L. 109–482][/us/pl/109/482], § 107(2)(C), substituted “of Health and the National Institutes of Health may accept transfers of funds from the Foundation” for “of Health”.
 
-    Subsec. (l). [Pub. L. 109–482, § 107(3)][/us/pl/109/482/s107/3], added subsec. (l) and struck out former subsec. (l) which related to authorization of appropriations and limitation regarding other funds.
+    Subsec. (l). [Pub. L. 109–482][/us/pl/109/482], § 107(3), added subsec. (l) and struck out former subsec. (l) which related to authorization of appropriations and limitation regarding other funds.
 
-    2002—Subsec. (b). [Pub. L. 107–109, § 13(1)][/us/pl/107/109/s13/1], inserted “(including collection of funds for pediatric pharmacologic research)” after “mission”.
+    2002—Subsec. (b). [Pub. L. 107–109][/us/pl/107/109], § 13(1), inserted “(including collection of funds for pediatric pharmacologic research)” after “mission”.
 
-    Subsec. (c)(1)(C), (D). [Pub. L. 107–109, § 13(2)][/us/pl/107/109/s13/2], added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (c)(1)(C), (D). [Pub. L. 107–109][/us/pl/107/109], § 13(2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (d)(1)(B)(iv). [Pub. L. 107–109, § 13(3)(A)(i)][/us/pl/107/109/s13/3/A/i], added cl. (iv).
+    Subsec. (d)(1)(B)(iv). [Pub. L. 107–109][/us/pl/107/109], § 13(3)(A)(i), added cl. (iv).
 
-    Subsec. (d)(1)(C). [Pub. L. 107–109, § 13(3)(A)(ii)][/us/pl/107/109/s13/3/A/ii], added subpar. (C) and struck out former subpar. (C) which read as follows: “The ex officio members of the Board under subparagraph (B) shall appoint to the Board 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
+    Subsec. (d)(1)(C). [Pub. L. 107–109][/us/pl/107/109], § 13(3)(A)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: “The ex officio members of the Board under subparagraph (B) shall appoint to the Board 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
 
     “(i) 4 shall be representative of the general biomedical field;
 
@@ -367,59 +367,59 @@
 
     “(iii) 5 shall be representatives of the general public.”
 
-    Subsec. (d)(2)(B). [Pub. L. 107–109, § 13(3)(B)][/us/pl/107/109/s13/3/B], realigned margin.
+    Subsec. (d)(2)(B). [Pub. L. 107–109][/us/pl/107/109], § 13(3)(B), realigned margin.
 
-    Subsec. (e) to (g). [Pub. L. 107–109, § 13(5)][/us/pl/107/109/s13/5], redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+    Subsec. (e) to (g). [Pub. L. 107–109][/us/pl/107/109], § 13(5), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
-    Subsec. (h). [Pub. L. 107–109, § 13(5)][/us/pl/107/109/s13/5], (6), redesignated subsec. (i) as (h) and substituted “solicit,” for “solicit” in par. (11). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 107–109][/us/pl/107/109], § 13(5), (6), redesignated subsec. (i) as (h) and substituted “solicit,” for “solicit” in par. (11). Former subsec. (h) redesignated (g).
 
-    Subsec. (i). [Pub. L. 107–109, § 13(5)][/us/pl/107/109/s13/5], redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 107–109][/us/pl/107/109], § 13(5), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-    Subsec. (j). [Pub. L. 107–109, § 13(5)][/us/pl/107/109/s13/5], redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+    Subsec. (j). [Pub. L. 107–109][/us/pl/107/109], § 13(5), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-    Subsec. (j)(1). [Pub. L. 107–109, § 13(7)][/us/pl/107/109/s13/7], struck out “(including those developed under subsection (d)(2)(B)(i)(II))” after “procedures relating to standards of conduct”.
+    Subsec. (j)(1). [Pub. L. 107–109][/us/pl/107/109], § 13(7), struck out “(including those developed under subsection (d)(2)(B)(i)(II))” after “procedures relating to standards of conduct”.
 
-    Subsec. (j)(2). [Pub. L. 107–109, § 13(7)][/us/pl/107/109/s13/7], which directed striking out “(including those developed under subsection (d)(2)(B)(i)(II))” in par. (2), could not be executed because those words do not appear in par. (2).
+    Subsec. (j)(2). [Pub. L. 107–109][/us/pl/107/109], § 13(7), which directed striking out “(including those developed under subsection (d)(2)(B)(i)(II))” in par. (2), could not be executed because those words do not appear in par. (2).
 
-    Subsec. (k). [Pub. L. 107–109, § 13(5)][/us/pl/107/109/s13/5], redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+    Subsec. (k). [Pub. L. 107–109][/us/pl/107/109], § 13(5), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
 
-    Subsec. (k)(9). [Pub. L. 107–109, § 13(4)][/us/pl/107/109/s13/4], designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
+    Subsec. (k)(9). [Pub. L. 107–109][/us/pl/107/109], § 13(4), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
 
-    Subsecs. (l), (m). [Pub. L. 107–109, § 13(5)][/us/pl/107/109/s13/5], redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
+    Subsecs. (l), (m). [Pub. L. 107–109][/us/pl/107/109], § 13(5), redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
 
-    1998—Subsec. (a). [Pub. L. 105–392, § 418(2)(A)][/us/pl/105/392/s418/2/A], substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
+    1998—Subsec. (a). [Pub. L. 105–392][/us/pl/105/392], § 418(2)(A), substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
 
-    Subsec. (k)(10). [Pub. L. 105–392, § 418(2)(B)][/us/pl/105/392/s418/2/B], struck out “not” after “may” and inserted at end “Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.”
+    Subsec. (k)(10). [Pub. L. 105–392][/us/pl/105/392], § 418(2)(B), struck out “not” after “may” and inserted at end “Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.”
 
-    Subsec. (m)(1). [Pub. L. 105–392, § 418(2)(C)][/us/pl/105/392/s418/2/C], substituted “$500,000 for each fiscal year” for “$200,000 for the fiscal years 1994 and 1995”.
+    Subsec. (m)(1). [Pub. L. 105–392][/us/pl/105/392], § 418(2)(C), substituted “$500,000 for each fiscal year” for “$200,000 for the fiscal years 1994 and 1995”.
 
     1996—Subsec. (n). [Pub. L. 104–316][/us/pl/104/316] struck out subsec. (n) which required Comptroller General to conduct audit and prepare report to Congress on adequacy of compliance of the Foundation with guidelines established under this section.
 
-    1993—Subsec. (a). [Pub. L. 103–43, § 1701(1)][/us/pl/103/43/s1701/1], inserted “, acting through the Director of NIH,” after “Secretary shall” and struck out “, except for the purposes of the Ethics in Government Act and the Technology Transfer Act,” after “shall not”.
+    1993—Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 1701(1), inserted “, acting through the Director of NIH,” after “Secretary shall” and struck out “, except for the purposes of the Ethics in Government Act and the Technology Transfer Act,” after “shall not”.
 
-    Subsec. (b). [Pub. L. 103–43, § 1701(3)][/us/pl/103/43/s1701/3], added subsec. (b) and struck out heading and text of former subsec. (b). Text related to duties of Foundation.
+    Subsec. (b). [Pub. L. 103–43][/us/pl/103/43], § 1701(3), added subsec. (b) and struck out heading and text of former subsec. (b). Text related to duties of Foundation.
 
-    Subsec. (c). [Pub. L. 103–43, § 1701(3)][/us/pl/103/43/s1701/3], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 103–43][/us/pl/103/43], § 1701(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 103–43, § 1701(2)][/us/pl/103/43/s1701/2], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
+    Subsec. (d). [Pub. L. 103–43][/us/pl/103/43], § 1701(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (d)(1). [Pub. L. 103–43, § 1701(4)(A)][/us/pl/103/43/s1701/4/A], substituted “appointed members of the Board” for “members of the Foundation” in subpar. (A), “Board” for “Council” in subpar. (B), and “appoint to the Board” for “appoint to the Council” in subpar. (C), and added subpars. (D) to (G).
+    Subsec. (d)(1). [Pub. L. 103–43][/us/pl/103/43], § 1701(4)(A), substituted “appointed members of the Board” for “members of the Foundation” in subpar. (A), “Board” for “Council” in subpar. (B), and “appoint to the Board” for “appoint to the Council” in subpar. (C), and added subpars. (D) to (G).
 
-    Subsec. (d)(2). [Pub. L. 103–43, § 1701(4)(B)][/us/pl/103/43/s1701/4/B], designated existing provisions as subpar. (A), substituted “an individual to serve as the initial Chair” for “an appointed member of the Board to serve as the Chair”, and added subpar. (B).
+    Subsec. (d)(2). [Pub. L. 103–43][/us/pl/103/43], § 1701(4)(B), designated existing provisions as subpar. (A), substituted “an individual to serve as the initial Chair” for “an appointed member of the Board to serve as the Chair”, and added subpar. (B).
 
-    Subsec. (d)(3)(A). [Pub. L. 103–43, § 1701(4)(C)][/us/pl/103/43/s1701/4/C], substituted “(1)(C)” for “(2)(C)”.
+    Subsec. (d)(3)(A). [Pub. L. 103–43][/us/pl/103/43], § 1701(4)(C), substituted “(1)(C)” for “(2)(C)”.
 
-    Subsec. (d)(5), (6). [Pub. L. 103–43, § 1701(4)(D)][/us/pl/103/43/s1701/4/D], added pars. (5) and (6).
+    Subsec. (d)(5), (6). [Pub. L. 103–43][/us/pl/103/43], § 1701(4)(D), added pars. (5) and (6).
 
-    Subsec. (e). [Pub. L. 103–43, § 1701(2)][/us/pl/103/43/s1701/2], redesignated subsec. (e) as (g).
+    Subsec. (e). [Pub. L. 103–43][/us/pl/103/43], § 1701(2), redesignated subsec. (e) as (g).
 
-    Subsecs. (f) to (h). [Pub. L. 103–43, § 1701(2)][/us/pl/103/43/s1701/2], redesignated subsecs. (d) to (f) as (f) to (h), respectively. Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+    Subsecs. (f) to (h). [Pub. L. 103–43][/us/pl/103/43], § 1701(2), redesignated subsecs. (d) to (f) as (f) to (h), respectively. Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
-    Subsec. (i). [Pub. L. 103–43, § 1701(2)][/us/pl/103/43/s1701/2], redesignated subsec. (g) as (i). Former subsec. (i) redesignated (m).
+    Subsec. (i). [Pub. L. 103–43][/us/pl/103/43], § 1701(2), redesignated subsec. (g) as (i). Former subsec. (i) redesignated (m).
 
-    Subsec. (i)(4). [Pub. L. 103–43, § 1701(5)(A)][/us/pl/103/43/s1701/5/A], inserted before period at end “, and define the duties of the officers and employees”.
+    Subsec. (i)(4). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(A), inserted before period at end “, and define the duties of the officers and employees”.
 
-    Subsec. (i)(5), (6). [Pub. L. 103–43, § 1701(5)(B)][/us/pl/103/43/s1701/5/B], (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “prescribe by its Board its bylaws, that shall be consistent with law, and that shall provide for the manner in which—
+    Subsec. (i)(5), (6). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “prescribe by its Board its bylaws, that shall be consistent with law, and that shall provide for the manner in which—
 
     “(A) its officers, employees, and agents are selected;
 
@@ -429,25 +429,25 @@
 
     “(D) the privileges granted by law are exercised and enjoyed;”.
 
-    Subsec. (i)(7). [Pub. L. 103–43, § 1701(5)(C)][/us/pl/103/43/s1701/5/C], (D), redesignated par. (8) as (7) and substituted “part” for “subtitle”. Former par. (7) redesignated (6).
+    Subsec. (i)(7). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(C), (D), redesignated par. (8) as (7) and substituted “part” for “subtitle”. Former par. (7) redesignated (6).
 
-    Subsec. (i)(8). [Pub. L. 103–43, § 1701(5)(C)][/us/pl/103/43/s1701/5/C], (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
+    Subsec. (i)(8). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
 
-    Subsec. (i)(9), (10). [Pub. L. 103–43, § 1701(5)(C)][/us/pl/103/43/s1701/5/C], redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
+    Subsec. (i)(9), (10). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(C), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 
-    Subsec. (i)(11). [Pub. L. 103–43, § 1701(5)(C)][/us/pl/103/43/s1701/5/C], (F), redesignated par. (12) as (11) and inserted “solicit” before “accept”. Former par. (11) redesignated (10).
+    Subsec. (i)(11). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(C), (F), redesignated par. (12) as (11) and inserted “solicit” before “accept”. Former par. (11) redesignated (10).
 
-    Subsec. (i)(12), (13). [Pub. L. 103–43, § 1701(5)(C)][/us/pl/103/43/s1701/5/C], redesignated pars. (13) and (14) as (12) and (13), respectively. Former par. (12) redesignated (11).
+    Subsec. (i)(12), (13). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(C), redesignated pars. (13) and (14) as (12) and (13), respectively. Former par. (12) redesignated (11).
 
-    Subsec. (i)(14). [Pub. L. 103–43, § 1701(5)(G)][/us/pl/103/43/s1701/5/G], (H), added par. (14). Former par. (14) redesignated (13).
+    Subsec. (i)(14). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(G), (H), added par. (14). Former par. (14) redesignated (13).
 
-    Subsec. (i)(15). [Pub. L. 103–43, § 1701(5)(I)][/us/pl/103/43/s1701/5/I], substituted “part” for “subtitle”.
+    Subsec. (i)(15). [Pub. L. 103–43][/us/pl/103/43], § 1701(5)(I), substituted “part” for “subtitle”.
 
-    Subsec. (j). [Pub. L. 103–43, § 1701(2)][/us/pl/103/43/s1701/2], redesignated subsec. (h) as (j).
+    Subsec. (j). [Pub. L. 103–43][/us/pl/103/43], § 1701(2), redesignated subsec. (h) as (j).
 
-    Subsecs. (k), (l). [Pub. L. 103–43, § 1701(6)][/us/pl/103/43/s1701/6], added subsecs. (k) and (l).
+    Subsecs. (k), (l). [Pub. L. 103–43][/us/pl/103/43], § 1701(6), added subsecs. (k) and (l).
 
-    Subsec. (m). [Pub. L. 103–43, § 1701(7)][/us/pl/103/43/s1701/7], amended heading and text of subsec. (m) generally. Prior to amendment, text read as follows:
+    Subsec. (m). [Pub. L. 103–43][/us/pl/103/43], § 1701(7), amended heading and text of subsec. (m) generally. Prior to amendment, text read as follows:
 
     “(1) Authorization of appropriations.—Subject to paragraph (2), for the purpose of carrying out this part, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1995.
 
@@ -459,15 +459,15 @@
 
     “(C) With respect to the first fiscal year for which amounts are appropriated under paragraph (1), the Secretary may, from amounts appropriated for such fiscal year for the programs of the Department of Health and Human Services, make available not more than $200,000 for carrying out this part, subject to subparagraph (A).”
 
-    [Pub. L. 103–43, § 1701(2)][/us/pl/103/43/s1701/2], redesignated subsec. (i) as (m).
+    [Pub. L. 103–43][/us/pl/103/43], § 1701(2), redesignated subsec. (i) as (m).
 
-    Subsec. (n). [Pub. L. 103–43, § 1701(8)][/us/pl/103/43/s1701/8], added subsec. (n).
+    Subsec. (n). [Pub. L. 103–43][/us/pl/103/43], § 1701(8), added subsec. (n).
 
     1992—Subsec. (g)(9). [Pub. L. 102–321][/us/pl/102/321] struck out “or the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration” after “Director of the National Institutes of Health” and “and the Alcohol, Drug Abuse, and Mental Health Administration” after “research programs of the National Institutes of Health”.
 
-    1991—Subsec. (c)(1)(C). [Pub. L. 102–170, § 216(1)][/us/pl/102/170/s216/1], substituted “11” for “9”.
+    1991—Subsec. (c)(1)(C). [Pub. L. 102–170][/us/pl/102/170], § 216(1), substituted “11” for “9”.
 
-    Subsec. (c)(1)(C)(iii). [Pub. L. 102–170, § 216(2)][/us/pl/102/170/s216/2], substituted “5” for “3”.
+    Subsec. (c)(1)(C)(iii). [Pub. L. 102–170][/us/pl/102/170], § 216(2), substituted “5” for “3”.
 
  __Change of Name__ 
 
@@ -495,29 +495,29 @@
 [/us/pl/101/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F613
 [/us/usc/t42/s284m/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284m%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/613/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F613%2Fs2
+[/us/pl/101/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F613
 [/us/stat/104/3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3224
-[/us/pl/102/170/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs216
+[/us/pl/102/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtII
 [/us/stat/105/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1128
-[/us/pl/102/321/s163/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F6
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F376
-[/us/pl/103/43/s121/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs121%2Fb%2F3
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F133
-[/us/pl/104/316/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3836
-[/us/pl/105/392/s418/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs418%2F2
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3591
-[/us/pl/107/109/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1417
-[/us/pl/109/482/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3696
-[/us/pl/110/85/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs502%2Fc
+[/us/pl/110/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtV
 [/us/stat/121/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F889
-[/us/pl/111/148/s10409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10409%2Fc
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F978
-[/us/pl/112/74/s221/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fd%2F4
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1090
-[/us/pl/112/144/s509/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Ff
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1050
 [/us/pl/95/521/s109/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs109%2F16
 [/us/pl/101/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F613
@@ -525,7 +525,7 @@
 [/us/usc/t42/s285g–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285g%E2%80%934
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s284m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284m
-[/us/pl/110/85/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs502%2Fb
+[/us/pl/110/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtV
 [/us/stat/121/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F886
 [/us/usc/t42/s289h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289h
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
@@ -540,61 +540,61 @@
 [/us/usc/t21/s355/a/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fa%2Fd%2F4%2FC
 [/us/usc/t21/s355a/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a%2Fd%2F4%2FC
 [/us/usc/t21/s355a/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a%2Fd%2F4%2FC
-[/us/pl/109/482/s107/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F1%2FA%2Fi
-[/us/pl/109/482/s107/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F1%2FA%2Fii
-[/us/pl/109/482/s107/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F1%2FB
-[/us/pl/109/482/s107/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F1%2FC
-[/us/pl/109/482/s107/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F2%2FA
-[/us/pl/109/482/s107/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F2%2FB%2Fi
-[/us/pl/109/482/s107/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F2%2FB%2Fii
-[/us/pl/109/482/s107/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F2%2FC
-[/us/pl/109/482/s107/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs107%2F3
-[/us/pl/107/109/s13/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F1
-[/us/pl/107/109/s13/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F2
-[/us/pl/107/109/s13/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F3%2FA%2Fi
-[/us/pl/107/109/s13/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F3%2FA%2Fii
-[/us/pl/107/109/s13/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F3%2FB
-[/us/pl/107/109/s13/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F5
-[/us/pl/107/109/s13/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F5
-[/us/pl/107/109/s13/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F5
-[/us/pl/107/109/s13/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F5
-[/us/pl/107/109/s13/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F7
-[/us/pl/107/109/s13/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F7
-[/us/pl/107/109/s13/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F5
-[/us/pl/107/109/s13/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F4
-[/us/pl/107/109/s13/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs13%2F5
-[/us/pl/105/392/s418/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs418%2F2%2FA
-[/us/pl/105/392/s418/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs418%2F2%2FB
-[/us/pl/105/392/s418/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs418%2F2%2FC
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/103/43/s1701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F1
-[/us/pl/103/43/s1701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F3
-[/us/pl/103/43/s1701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F3
-[/us/pl/103/43/s1701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F2
-[/us/pl/103/43/s1701/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F4%2FA
-[/us/pl/103/43/s1701/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F4%2FB
-[/us/pl/103/43/s1701/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F4%2FC
-[/us/pl/103/43/s1701/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F4%2FD
-[/us/pl/103/43/s1701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F2
-[/us/pl/103/43/s1701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F2
-[/us/pl/103/43/s1701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F2
-[/us/pl/103/43/s1701/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FA
-[/us/pl/103/43/s1701/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FB
-[/us/pl/103/43/s1701/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FC
-[/us/pl/103/43/s1701/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FC
-[/us/pl/103/43/s1701/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FC
-[/us/pl/103/43/s1701/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FC
-[/us/pl/103/43/s1701/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FC
-[/us/pl/103/43/s1701/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FG
-[/us/pl/103/43/s1701/5/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F5%2FI
-[/us/pl/103/43/s1701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F2
-[/us/pl/103/43/s1701/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F6
-[/us/pl/103/43/s1701/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F7
-[/us/pl/103/43/s1701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F2
-[/us/pl/103/43/s1701/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1701%2F8
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/pl/102/170/s216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs216%2F1
-[/us/pl/102/170/s216/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs216%2F2
+[/us/pl/102/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170
+[/us/pl/102/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

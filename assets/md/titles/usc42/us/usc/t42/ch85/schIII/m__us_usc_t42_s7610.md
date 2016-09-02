@@ -23,7 +23,7 @@
 
         No appropriation shall be authorized or made under section 241, 243, or 246 of this title for any fiscal year after the fiscal year ending June 30, 1964, for any purpose for which appropriations may be made under authority of this chapter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 310, formerly § 10, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 401][/us/stat/77/401]; renumbered § 303, [Pub. L. 89–272, title I, § 101(4)][/us/pl/89/272/s101/4], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 505][/us/stat/81/505]; renumbered § 310 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 12(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], 1713.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 310, formerly § 10, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 401][/us/stat/77/401]; renumbered § 303, [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(4), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 505][/us/stat/81/505]; renumbered § 310 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 12(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1705][/us/stat/84/1705], 1713.)
 
  __Codification__ 
 
@@ -33,11 +33,11 @@
 
     A prior section 310 of act July 14, 1955, was renumbered section 317 by [Pub. L. 91–604][/us/pl/91/604] and is set out as a Short Title note under [section 7401 of this title][/us/usc/t42/s7401].
 
-    Provisions similar to those in subsec. (a) of this section were contained in [section 1857f of this title][/us/usc/t42/s1857f], [act July 14, 1955, ch. 360, § 7][/us/act/1955-07-14/ch360/s7], [69 Stat. 323][/us/stat/69/323], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
+    Provisions similar to those in subsec. (a) of this section were contained in [section 1857f of this title][/us/usc/t42/s1857f], [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], § 7, [69 Stat. 323][/us/stat/69/323], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
 
  __Amendments__ 
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary”.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary”.
 
     1967—Subsec. (b). [Pub. L. 90–148][/us/pl/90/148] substituted reference to [section 246 of this title][/us/usc/t42/s246] for reference to [section 246(c) of this title][/us/usc/t42/s246/c].
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F401
-[/us/pl/89/272/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F4
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F505
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1705
@@ -65,10 +65,10 @@
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s1857f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f
-[/us/act/1955-07-14/ch360/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2Fs7
+[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F323
 [/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
 [/us/usc/t42/s246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246%2Fc

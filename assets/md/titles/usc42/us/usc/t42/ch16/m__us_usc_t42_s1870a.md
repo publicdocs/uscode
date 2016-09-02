@@ -41,7 +41,7 @@
 
         (2) the term “foreign firm” means a business entity not described in paragraph (1).
 
-([Pub. L. 100–570, title I, § 111][/us/pl/100/570/s111], Oct. 31, 1988, [102 Stat. 2869][/us/stat/102/2869].)
+([Pub. L. 100–570, title I][/us/pl/100/570/tI], § 111, Oct. 31, 1988, [102 Stat. 2869][/us/stat/102/2869].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/100/570/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs111
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2869
 
 

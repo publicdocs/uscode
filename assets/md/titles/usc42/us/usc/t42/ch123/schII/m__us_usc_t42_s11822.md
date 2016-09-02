@@ -23,7 +23,7 @@
 
     (3) a description of exemplary projects and activities for which grants were made under this subchapter for such fiscal year.
 
-([Pub. L. 100–690, title III, § 3512][/us/pl/100/690/s3512], Nov. 18, 1988, [102 Stat. 4256][/us/stat/102/4256].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3512, Nov. 18, 1988, [102 Stat. 4256][/us/stat/102/4256].)
 
  __Termination of Reporting Requirements__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3512
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4256
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

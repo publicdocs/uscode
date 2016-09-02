@@ -31,7 +31,7 @@
 
         (2) Such expiration shall not affect any action or pending proceeding, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such expiration date.
 
-([Pub. L. 96–102, title II, § 251][/us/pl/96/102/s251], Nov. 5, 1979, [93 Stat. 769][/us/stat/93/769].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 251, Nov. 5, 1979, [93 Stat. 769][/us/stat/93/769].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796
 [/us/usc/t42/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511
-[/us/pl/96/102/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs251
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F769
 
 

@@ -27,7 +27,7 @@
 
         Upon petition by the Comptroller General through any attorney employed by the Government Accountability Office or designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General, any United States district court within the jurisdiction of which any inquiry under this part is carried on may, in the case of refusal to obey a subpena of the Comptroller General issued under this part, issue an order requiring compliance therewith; and any failure to obey the order of the court may be treated by the court as a contempt thereof.
 
-([Pub. L. 94–163, title V, § 504][/us/pl/94/163/s504], Dec. 22, 1975, [89 Stat. 959][/us/stat/89/959]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 504, Dec. 22, 1975, [89 Stat. 959][/us/stat/89/959]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t42/s6382/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6382%2Fa%2F1%2FB
 [/us/usc/t42/s6382/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6382%2Fa%2F1%2FB
-[/us/pl/94/163/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs504
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F959
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

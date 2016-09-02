@@ -27,7 +27,7 @@
 
     (5) establish, in consultation with the Administrator of the National Oceanic and Atmospheric Administration, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the Environmental Protection Agency, a national wind data center which shall make public information available on the known wind energy resources of various regions throughout the United States.
 
-([Pub. L. 96–345, § 7][/us/pl/96/345/s7], Sept. 8, 1980, [94 Stat. 1143][/us/stat/94/1143].)
+([Pub. L. 96–345][/us/pl/96/345], § 7, Sept. 8, 1980, [94 Stat. 1143][/us/stat/94/1143].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/345/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs7
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1143
 
 

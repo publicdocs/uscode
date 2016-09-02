@@ -281,51 +281,51 @@
 
         Neither a State, nor a State agency, may require any provider of legal assistance under this subchapter to reveal any information that is protected by the attorney-client privilege.
 
-([Pub. L. 89–73, title III, § 307][/us/pl/89/73/s307], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1524][/us/stat/92/1524]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 7, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1598; [Pub. L. 98–459, title III, § 307][/us/pl/98/459/s307], Oct. 9, 1984, [98 Stat. 1775][/us/stat/98/1775]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, [101 Stat. 934][/us/stat/101/934], 935, 938–940, 943, 944, 946, 947, 949, 953, 965; [Pub. L. 100–628, title VII, § 705(6)][/us/pl/100/628/s705/6], Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I, § 102(b)(4)][/us/pl/102/375/s102/b/4], (5), (10)(A), (C), (E), (F), title III, § 307, title VII, § 708(c)(4), title IX, § 904(a)(13), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1228, 1293, 1308; [Pub. L. 103–171][/us/pl/103/171], §§ 2(9), 3(a)(5), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III, § 306][/us/pl/106/501/s306], title VIII, § 801(c)(4), Nov. 13, 2000, [114 Stat. 2242][/us/stat/114/2242], 2292; [Pub. L. 109–365, title III, § 307][/us/pl/109/365/s307], Oct. 17, 2006, [120 Stat. 2544][/us/stat/120/2544].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 307, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1524][/us/stat/92/1524]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 7, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1598; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 307, Oct. 9, 1984, [98 Stat. 1775][/us/stat/98/1775]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, [101 Stat. 934][/us/stat/101/934], 935, 938–940, 943, 944, 946, 947, 949, 953, 965; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(6), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(4), (5), (10)(A), (C), (E), (F), title III, § 307, title VII, § 708(c)(4), title IX, § 904(a)(13), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1228, 1293, 1308; [Pub. L. 103–171][/us/pl/103/171], §§ 2(9), 3(a)(5), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 306, title VIII, § 801(c)(4), Nov. 13, 2000, [114 Stat. 2242][/us/stat/114/2242], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 307, Oct. 17, 2006, [120 Stat. 2544][/us/stat/120/2544].)
 
  __References in Text__ 
 
-    [Section 3012(a) of this title][/us/usc/t42/s3012/a], referred to in subsec. (a)(2)(A), does not contain a par. (29). A former [section 3012(a)(29) of this title][/us/usc/t42/s3012/a/29], relating to uniform data collection procedures, was redesignated section 3012(a)(26) by [Pub. L. 106–501, title II, § 201(1)(B)][/us/pl/106/501/s201/1/B], Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229].
+    [Section 3012(a) of this title][/us/usc/t42/s3012/a], referred to in subsec. (a)(2)(A), does not contain a par. (29). A former [section 3012(a)(29) of this title][/us/usc/t42/s3012/a/29], relating to uniform data collection procedures, was redesignated section 3012(a)(26) by [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201(1)(B), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229].
 
-    The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 378][/us/stat/88/378], as amended, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t42/s2701] and Tables.
+    The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 378][/us/stat/88/378], as amended, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t42/s2701] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 3027, [Pub. L. 89–73, title III, § 307][/us/pl/89/73/s307], as added [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 44][/us/stat/87/44], related to payment of grants or contracts, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478]. See [section 3029 of this title][/us/usc/t42/s3029].
+    A prior section 3027, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 307, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 44][/us/stat/87/44], related to payment of grants or contracts, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478]. See [section 3029 of this title][/us/usc/t42/s3029].
 
-    Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III, § 305][/us/pl/89/73/s305], as added [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 41][/us/stat/87/41]; [Pub. L. 94–135, title I][/us/pl/94/135], §§ 106(a), (b), 114(e), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 725, which was classified to [section 3025 of this title][/us/usc/t42/s3025] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
+    Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 305, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 41][/us/stat/87/41]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 106(a), (b), 114(e), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 725, which was classified to [section 3025 of this title][/us/usc/t42/s3025] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
  __Amendments__ 
 
-    2006—Subsec. (a)(2)(C). [Pub. L. 109–365, § 307(1)][/us/pl/109/365/s307/1], substituted “section 3026(c)” for “section 3026(b)”.
+    2006—Subsec. (a)(2)(C). [Pub. L. 109–365][/us/pl/109/365], § 307(1), substituted “section 3026(c)” for “section 3026(b)”.
 
-    Subsec. (a)(4). [Pub. L. 109–365, § 307(2)][/us/pl/109/365/s307/2], substituted “(with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
+    Subsec. (a)(4). [Pub. L. 109–365][/us/pl/109/365], § 307(2), substituted “(with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
 
-    Subsec. (a)(14), (15). [Pub. L. 109–365, § 307(3)][/us/pl/109/365/s307/3]–(5), added par. (14), redesignated former par. (14) as (15), and struck out former par. (15) which read as follows: “The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
+    Subsec. (a)(14), (15). [Pub. L. 109–365][/us/pl/109/365], § 307(3)–(5), added par. (14), redesignated former par. (14) as (15), and struck out former par. (15) which read as follows: “The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
 
     “(A) identify the number of low-income minority older individuals in the State; and
 
     “(B) describe the methods used to satisfy the service needs of such minority older individuals.”
 
-    Subsec. (a)(16)(A)(ii), (iii). [Pub. L. 109–365, § 307(6)(A)][/us/pl/109/365/s307/6/A], substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)”.
+    Subsec. (a)(16)(A)(ii), (iii). [Pub. L. 109–365][/us/pl/109/365], § 307(6)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)”.
 
-    Subsec. (a)(16)(A)(vi). [Pub. L. 109–365, § 307(6)(B)][/us/pl/109/365/s307/6/B], substituted “and related” for “or related”.
+    Subsec. (a)(16)(A)(vi). [Pub. L. 109–365][/us/pl/109/365], § 307(6)(B), substituted “and related” for “or related”.
 
-    Subsec. (a)(27) to (30). [Pub. L. 109–365, § 307(7)][/us/pl/109/365/s307/7], added pars. (27) to (30).
+    Subsec. (a)(27) to (30). [Pub. L. 109–365][/us/pl/109/365], § 307(7), added pars. (27) to (30).
 
-    2000—Subsec. (a)(1) to (5). [Pub. L. 106–501, § 306(1)][/us/pl/106/501/s306/1], added pars. (1) to (5) and struck out former pars. (1) to (5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
+    2000—Subsec. (a)(1) to (5). [Pub. L. 106–501][/us/pl/106/501], § 306(1), added pars. (1) to (5) and struck out former pars. (1) to (5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
 
-    Subsec. (a)(7)(C). [Pub. L. 106–501, § 306(2)][/us/pl/106/501/s306/2], struck out subpar. (C) which required the plan to provide assurances that the State agency and each area agency on aging would maintain the integrity and public purpose of services provided and service providers under the State plan in all contractual and commercial relationships, disclose the parties to and the nature of a contract or relationship relating to services to older individuals, demonstrate no loss or diminution in quantity or quality of services as a result of such contract or relationship, demonstrate enhancement of quantity and quality of services as a result of such contract or relationship, and disclose on request all sources and expenditures of funds the State agency and area agency on aging received or expended to provide services to older individuals.
+    Subsec. (a)(7)(C). [Pub. L. 106–501][/us/pl/106/501], § 306(2), struck out subpar. (C) which required the plan to provide assurances that the State agency and each area agency on aging would maintain the integrity and public purpose of services provided and service providers under the State plan in all contractual and commercial relationships, disclose the parties to and the nature of a contract or relationship relating to services to older individuals, demonstrate no loss or diminution in quantity or quality of services as a result of such contract or relationship, demonstrate enhancement of quantity and quality of services as a result of such contract or relationship, and disclose on request all sources and expenditures of funds the State agency and area agency on aging received or expended to provide services to older individuals.
 
-    Subsec. (a)(8), (9). [Pub. L. 106–501, § 306(3)][/us/pl/106/501/s306/3], added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
+    Subsec. (a)(8), (9). [Pub. L. 106–501][/us/pl/106/501], § 306(3), added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
 
     “(8) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on, activities and projects carried out under the State plan, including an evaluation of the effectiveness of the State agency in reaching older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals. In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgeable about the needs and concerns of low-income minority older individuals.
 
     “(9) The plan shall provide for establishing and maintaining information and assistance services in sufficient numbers to assure that all older individuals in the State who are not furnished adequate information and assistance services under [section 3026(a)(4) of this title][/us/usc/t42/s3026/a/4] will have reasonably convenient access to such services.”
 
-    Subsec. (a)(10). [Pub. L. 106–501, § 306(4)][/us/pl/106/501/s306/4], added par. (10) and struck out former par. (10) which read as follows: “The plan shall provide that no supportive services, nutrition services, or in-home services (as defined in [section 3030i of this title][/us/usc/t42/s3030i]) will be directly provided by the State agency or an area agency on aging, except where, in the judgment of the State agency, provision of such services by the State agency or an area agency on aging is necessary to assure an adequate supply of such services, or where such services are directly related to such State or area agency on aging’s administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging.”
+    Subsec. (a)(10). [Pub. L. 106–501][/us/pl/106/501], § 306(4), added par. (10) and struck out former par. (10) which read as follows: “The plan shall provide that no supportive services, nutrition services, or in-home services (as defined in [section 3030i of this title][/us/usc/t42/s3030i]) will be directly provided by the State agency or an area agency on aging, except where, in the judgment of the State agency, provision of such services by the State agency or an area agency on aging is necessary to assure an adequate supply of such services, or where such services are directly related to such State or area agency on aging’s administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging.”
 
-    Subsec. (a)(11). [Pub. L. 106–501, § 306(5)][/us/pl/106/501/s306/5], (6), redesignated par. (15) as (11) and struck out former par. (11) which read as follows: “The plan shall provide that subject to the requirements of merit employment systems of State and local governments—
+    Subsec. (a)(11). [Pub. L. 106–501][/us/pl/106/501], § 306(5), (6), redesignated par. (15) as (11) and struck out former par. (11) which read as follows: “The plan shall provide that subject to the requirements of merit employment systems of State and local governments—
 
     “(A) preference shall be given to older individuals; and
 
@@ -333,37 +333,37 @@
 
     for any staff positions (full time or part time) in State and area agencies for which such individuals qualify.”
 
-    Subsec. (a)(12). [Pub. L. 106–501, § 306(5)][/us/pl/106/501/s306/5], (6), redesignated par. (16) as (12) and struck out former par. (12) which read as follows: “The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with [section 3058g of this title][/us/usc/t42/s3058g] and this subchapter.”
+    Subsec. (a)(12). [Pub. L. 106–501][/us/pl/106/501], § 306(5), (6), redesignated par. (16) as (12) and struck out former par. (12) which read as follows: “The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with [section 3058g of this title][/us/usc/t42/s3058g] and this subchapter.”
 
-    Subsec. (a)(13). [Pub. L. 106–501, § 306(5)][/us/pl/106/501/s306/5], (8), redesignated par. (18) as (13) and struck out former par. (13) which related to a list of requirements that the plan was to provide with respect to nutrition services.
+    Subsec. (a)(13). [Pub. L. 106–501][/us/pl/106/501], § 306(5), (8), redesignated par. (18) as (13) and struck out former par. (13) which related to a list of requirements that the plan was to provide with respect to nutrition services.
 
-    Subsec. (a)(14). [Pub. L. 106–501, § 306(5)][/us/pl/106/501/s306/5], (10), redesignated par. (20) as (14) and struck out former par. (14) which related to required provisions of the plan with respect to acquisition, alteration, or renovation of existing facilities to serve as multipurpose senior centers.
+    Subsec. (a)(14). [Pub. L. 106–501][/us/pl/106/501], § 306(5), (10), redesignated par. (20) as (14) and struck out former par. (14) which related to required provisions of the plan with respect to acquisition, alteration, or renovation of existing facilities to serve as multipurpose senior centers.
 
-    Subsec. (a)(15). [Pub. L. 106–501, § 306(12)][/us/pl/106/501/s306/12], redesignated par. (23) as (15). Former par. (15) redesignated (11).
+    Subsec. (a)(15). [Pub. L. 106–501][/us/pl/106/501], § 306(12), redesignated par. (23) as (15). Former par. (15) redesignated (11).
 
-    Subsec. (a)(16). [Pub. L. 106–501, § 306(12)][/us/pl/106/501/s306/12], (13), redesignated par. (24) as (16) and inserted “and older individuals residing in rural areas” after “low-income minority individuals” in cls. (ii) and (iii). Former par. (16) redesignated (12).
+    Subsec. (a)(16). [Pub. L. 106–501][/us/pl/106/501], § 306(12), (13), redesignated par. (24) as (16) and inserted “and older individuals residing in rural areas” after “low-income minority individuals” in cls. (ii) and (iii). Former par. (16) redesignated (12).
 
-    Subsec. (a)(17). [Pub. L. 106–501, § 306(14)][/us/pl/106/501/s306/14], inserted “to enhance services” before “and develop collaborative programs”.
+    Subsec. (a)(17). [Pub. L. 106–501][/us/pl/106/501], § 306(14), inserted “to enhance services” before “and develop collaborative programs”.
 
-    [Pub. L. 106–501, § 306(7)][/us/pl/106/501/s306/7], (12), redesignated par. (25) as (17) and struck out former par. (17) which read as follows: “The plan shall provide assurances that each State will provide inservice training opportunities for personnel of agencies and programs funded under this chapter.”
+    [Pub. L. 106–501][/us/pl/106/501], § 306(7), (12), redesignated par. (25) as (17) and struck out former par. (17) which read as follows: “The plan shall provide assurances that each State will provide inservice training opportunities for personnel of agencies and programs funded under this chapter.”
 
-    Subsec. (a)(18). [Pub. L. 106–501, § 306(12)][/us/pl/106/501/s306/12], (15), redesignated par. (26) as (18) and, in introductory provisions, substituted “section 3026(a)(7)” for “section 3026(a)(6)(I)”. Former par. (18) redesignated (13).
+    Subsec. (a)(18). [Pub. L. 106–501][/us/pl/106/501], § 306(12), (15), redesignated par. (26) as (18) and, in introductory provisions, substituted “section 3026(a)(7)” for “section 3026(a)(6)(I)”. Former par. (18) redesignated (13).
 
-    Subsec. (a)(19). [Pub. L. 106–501, § 306(9)][/us/pl/106/501/s306/9], (17), redesignated par. (30) as (19) and struck out former par. (19) which read as follows: “The plan shall provide, with respect to education and training services, assurances that area agencies on aging may enter into grants and contracts with providers of education and training services which can demonstrate the experience or capacity to provide such services (except that such contract authority shall be effective for any fiscal year only to such extent, or in such amounts, as are provided in appropriations Acts).”
+    Subsec. (a)(19). [Pub. L. 106–501][/us/pl/106/501], § 306(9), (17), redesignated par. (30) as (19) and struck out former par. (19) which read as follows: “The plan shall provide, with respect to education and training services, assurances that area agencies on aging may enter into grants and contracts with providers of education and training services which can demonstrate the experience or capacity to provide such services (except that such contract authority shall be effective for any fiscal year only to such extent, or in such amounts, as are provided in appropriations Acts).”
 
-    Subsec. (a)(20). [Pub. L. 106–501, § 306(17)][/us/pl/106/501/s306/17], redesignated par. (32) as (20). Former par. (20) redesignated (14).
+    Subsec. (a)(20). [Pub. L. 106–501][/us/pl/106/501], § 306(17), redesignated par. (32) as (20). Former par. (20) redesignated (14).
 
-    Subsec. (a)(21). [Pub. L. 106–501, § 306(11)][/us/pl/106/501/s306/11], (18), added par. (21) and struck out former par. (21) which read as follows: “The plan shall provide assurances that the State agency, in carrying out the State Long-Term Care Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter.”
+    Subsec. (a)(21). [Pub. L. 106–501][/us/pl/106/501], § 306(11), (18), added par. (21) and struck out former par. (21) which read as follows: “The plan shall provide assurances that the State agency, in carrying out the State Long-Term Care Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter.”
 
-    Subsec. (a)(22). [Pub. L. 106–501, § 801(c)(4)(A)][/us/pl/106/501/s801/c/4/A], substituted “3026(a)(8)” for “3026(a)(20)”.
+    Subsec. (a)(22). [Pub. L. 106–501][/us/pl/106/501], § 801(c)(4)(A), substituted “3026(a)(8)” for “3026(a)(20)”.
 
-    [Pub. L. 106–501, § 306(11)][/us/pl/106/501/s306/11], (19), redesignated par. (36) as (22) and struck out former par. (22) which read as follows: “The plan shall specify a minimum percentage of the funds received by each area agency on aging for part B of this subchapter that will be expended, in the absence of the waiver granted under [section 3026(b)(1) of this title][/us/usc/t42/s3026/b/1], by such area agency on aging to provide each of the categories of services specified in [section 3026(a)(2) of this title][/us/usc/t42/s3026/a/2].”
+    [Pub. L. 106–501][/us/pl/106/501], § 306(11), (19), redesignated par. (36) as (22) and struck out former par. (22) which read as follows: “The plan shall specify a minimum percentage of the funds received by each area agency on aging for part B of this subchapter that will be expended, in the absence of the waiver granted under [section 3026(b)(1) of this title][/us/usc/t42/s3026/b/1], by such area agency on aging to provide each of the categories of services specified in [section 3026(a)(2) of this title][/us/usc/t42/s3026/a/2].”
 
-    Subsec. (a)(23) to (25). [Pub. L. 106–501, § 306(21)][/us/pl/106/501/s306/21], redesignated pars. (41), (42), and (44) as (23) to (25), respectively. Former pars. (23), (24), and (25) redesignated (15) to (17), respectively.
+    Subsec. (a)(23) to (25). [Pub. L. 106–501][/us/pl/106/501], § 306(21), redesignated pars. (41), (42), and (44) as (23) to (25), respectively. Former pars. (23), (24), and (25) redesignated (15) to (17), respectively.
 
-    Subsec. (a)(26). [Pub. L. 106–501, § 306(22)][/us/pl/106/501/s306/22], added par. (26). Former par. (26) redesignated (18).
+    Subsec. (a)(26). [Pub. L. 106–501][/us/pl/106/501], § 306(22), added par. (26). Former par. (26) redesignated (18).
 
-    Subsec. (a)(27) to (29). [Pub. L. 106–501, § 306(16)][/us/pl/106/501/s306/16], struck out pars. (27) to (29) which read as follows:
+    Subsec. (a)(27) to (29). [Pub. L. 106–501][/us/pl/106/501], § 306(16), struck out pars. (27) to (29) which read as follows:
 
     “(27) The plan shall provide assurances of consultation and coordination in planning and provision of in-home services under [section 3030h of this title][/us/usc/t42/s3030h] with State and local agencies and private nonprofit organizations which administer and provide services relating to health, social services, rehabilitation, and mental health services.
 
@@ -371,9 +371,9 @@
 
     “(29) The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared, describe the methods used to satisfy the service needs of older individuals who reside in rural areas.”
 
-    Subsec. (a)(30). [Pub. L. 106–501, § 306(17)][/us/pl/106/501/s306/17], redesignated par. (30) as (19).
+    Subsec. (a)(30). [Pub. L. 106–501][/us/pl/106/501], § 306(17), redesignated par. (30) as (19).
 
-    Subsec. (a)(31). [Pub. L. 106–501, § 306(16)][/us/pl/106/501/s306/16], struck out par. (31) which read as follows:
+    Subsec. (a)(31). [Pub. L. 106–501][/us/pl/106/501], § 306(16), struck out par. (31) which read as follows:
 
     “(31)(A) If 50 percent or more of the area plans in the State provide for an area volunteer services coordinator, as described in [section 3026(a)(12) of this title][/us/usc/t42/s3026/a/12], the State plan shall provide for a State volunteer services coordinator, who shall—
 
@@ -389,9 +389,9 @@
 
     “(B) If fewer than 50 percent of the area plans in the State provide for an area volunteer services coordinator, the State plan may provide for the State volunteer services coordinator described in subparagraph (A).”
 
-    Subsec. (a)(32). [Pub. L. 106–501, § 306(17)][/us/pl/106/501/s306/17], redesignated par. (32) as (20).
+    Subsec. (a)(32). [Pub. L. 106–501][/us/pl/106/501], § 306(17), redesignated par. (32) as (20).
 
-    Subsec. (a)(33) to (35). [Pub. L. 106–501, § 306(18)][/us/pl/106/501/s306/18], struck out pars. (33) to (35) which read as follows:
+    Subsec. (a)(33) to (35). [Pub. L. 106–501][/us/pl/106/501], § 306(18), struck out pars. (33) to (35) which read as follows:
 
     “(33) The plan—
 
@@ -407,9 +407,9 @@
 
     “(B) specify the ways in which the State agency intends to implement the activities.”
 
-    Subsec. (a)(36). [Pub. L. 106–501, § 306(19)][/us/pl/106/501/s306/19], redesignated par. (36) as (22).
+    Subsec. (a)(36). [Pub. L. 106–501][/us/pl/106/501], § 306(19), redesignated par. (36) as (22).
 
-    Subsec. (a)(37) to (40). [Pub. L. 106–501, § 306(20)][/us/pl/106/501/s306/20], struck out pars. (37) to (40) which read as follows:
+    Subsec. (a)(37) to (40). [Pub. L. 106–501][/us/pl/106/501], § 306(20), struck out pars. (37) to (40) which read as follows:
 
     “(37) The plan shall identify for each fiscal year, the actual and projected additional costs of providing services under this subchapter, including the cost of providing access to such services, to older individuals residing in rural areas in the State (in accordance with a standard definition of rural areas specified by the Assistant Secretary).
 
@@ -419,237 +419,237 @@
 
     “(40) The plan shall provide assurances that if the State receives funds appropriated under [section 3023(g) of this title][/us/usc/t42/s3023/g] the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter.”
 
-    Subsec. (a)(41), (42). [Pub. L. 106–501, § 306(21)][/us/pl/106/501/s306/21], redesignated pars. (41) and (42) as (23) and (24), respectively.
+    Subsec. (a)(41), (42). [Pub. L. 106–501][/us/pl/106/501], § 306(21), redesignated pars. (41) and (42) as (23) and (24), respectively.
 
-    Subsec. (a)(43). [Pub. L. 106–501, § 306(20)][/us/pl/106/501/s306/20], struck out par. (43) which read as follows: “The plan shall provide that the State agency shall issue guidelines applicable to grievance procedures required by [section 3026(a)(6)(P) of this title][/us/usc/t42/s3026/a/6/P].”
+    Subsec. (a)(43). [Pub. L. 106–501][/us/pl/106/501], § 306(20), struck out par. (43) which read as follows: “The plan shall provide that the State agency shall issue guidelines applicable to grievance procedures required by [section 3026(a)(6)(P) of this title][/us/usc/t42/s3026/a/6/P].”
 
-    Subsec. (a)(44). [Pub. L. 106–501, § 306(21)][/us/pl/106/501/s306/21], redesignated par. (44) as (25).
+    Subsec. (a)(44). [Pub. L. 106–501][/us/pl/106/501], § 306(21), redesignated par. (44) as (25).
 
-    Subsec. (f). [Pub. L. 106–501, § 801(c)(4)(B)][/us/pl/106/501/s801/c/4/B], struck out par. (1) designation before “Neither a State” and struck out par. (2) which read as follows: “Information disclosed under [section 3026(a)(14)(B)(i) of this title][/us/usc/t42/s3026/a/14/B/i] or subsection (a)(7)(C)(ii)(I) of this section may be disclosed to the public by the State agency or the State only if such information could be disclosed under [section 552 of title 5][/us/usc/t5/s552] by an agency of the United States.”
+    Subsec. (f). [Pub. L. 106–501][/us/pl/106/501], § 801(c)(4)(B), struck out par. (1) designation before “Neither a State” and struck out par. (2) which read as follows: “Information disclosed under [section 3026(a)(14)(B)(i) of this title][/us/usc/t42/s3026/a/14/B/i] or subsection (a)(7)(C)(ii)(I) of this section may be disclosed to the public by the State agency or the State only if such information could be disclosed under [section 552 of title 5][/us/usc/t5/s552] by an agency of the United States.”
 
-    1993—[Pub. L. 103–171, § 3(a)(5)(B)][/us/pl/103/171/s3/a/5/B], substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+    1993—[Pub. L. 103–171][/us/pl/103/171], § 3(a)(5)(B), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-    Subsec. (a)(8). [Pub. L. 103–171, § 2(9)(A)(i)][/us/pl/103/171/s2/9/A/i], substituted “knowledgeable” for “knowledgable”.
+    Subsec. (a)(8). [Pub. L. 103–171][/us/pl/103/171], § 2(9)(A)(i), substituted “knowledgeable” for “knowledgable”.
 
-    Subsec. (a)(24). [Pub. L. 103–171, § 2(9)(A)(ii)][/us/pl/103/171/s2/9/A/ii], substituted period for semicolon at end.
+    Subsec. (a)(24). [Pub. L. 103–171][/us/pl/103/171], § 2(9)(A)(ii), substituted period for semicolon at end.
 
-    Subsec. (b)(2). [Pub. L. 103–171, § 2(9)(B)][/us/pl/103/171/s2/9/B], substituted “such requirement” for “the requirement described in clause (3)(B) of subsection (a) of this section”.
+    Subsec. (b)(2). [Pub. L. 103–171][/us/pl/103/171], § 2(9)(B), substituted “such requirement” for “the requirement described in clause (3)(B) of subsection (a) of this section”.
 
-    Subsecs. (d), (e). [Pub. L. 103–171, § 3(a)(5)(A)][/us/pl/103/171/s3/a/5/A], substituted “Assistant Secretary’s” for “Commissioner’s” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(5)(A), substituted “Assistant Secretary’s” for “Commissioner’s” wherever appearing.
 
-    1992—Subsec. (a). [Pub. L. 102–375, § 307(a)(1)][/us/pl/102/375/s307/a/1], (2), inserted “the succeeding sentence and” after “provided in” in first sentence and inserted after first sentence “If the Commissioner determines, in the discretion of the Commissioner, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Commissioner a State plan for a 1-year period that meets such criteria, for subsequent years until the Commissioner determines that the State is in compliance with such requirements.” before “Each such plan shall comply”.
+    1992—Subsec. (a). [Pub. L. 102–375][/us/pl/102/375], § 307(a)(1), (2), inserted “the succeeding sentence and” after “provided in” in first sentence and inserted after first sentence “If the Commissioner determines, in the discretion of the Commissioner, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Commissioner a State plan for a 1-year period that meets such criteria, for subsequent years until the Commissioner determines that the State is in compliance with such requirements.” before “Each such plan shall comply”.
 
-    Subsec. (a)(1). [Pub. L. 102–375, § 102(b)(10)(F)][/us/pl/102/375/s102/b/10/F], substituted “agencies on aging in” for “agencies in”.
+    Subsec. (a)(1). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(F), substituted “agencies on aging in” for “agencies in”.
 
-    Subsec. (a)(3)(A). [Pub. L. 102–375, § 307(a)(3)][/us/pl/102/375/s307/a/3], inserted “and transportation services” after “legal assistance” and inserted at end “To conduct the evaluation, the State agency shall use the procedures implemented under [section 3012(a)(29) of this title][/us/usc/t42/s3012/a/29].”
+    Subsec. (a)(3)(A). [Pub. L. 102–375][/us/pl/102/375], § 307(a)(3), inserted “and transportation services” after “legal assistance” and inserted at end “To conduct the evaluation, the State agency shall use the procedures implemented under [section 3012(a)(29) of this title][/us/usc/t42/s3012/a/29].”
 
-    Subsec. (a)(5). [Pub. L. 102–375, § 307(b)][/us/pl/102/375/s307/b], inserted at end “The State agency shall establish and publish procedures for requesting and conducting such hearing.”
+    Subsec. (a)(5). [Pub. L. 102–375][/us/pl/102/375], § 307(b), inserted at end “The State agency shall establish and publish procedures for requesting and conducting such hearing.”
 
-    Subsec. (a)(7). [Pub. L. 102–375, § 307(c)][/us/pl/102/375/s307/c], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    Subsec. (a)(7). [Pub. L. 102–375][/us/pl/102/375], § 307(c), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-    Subsec. (a)(8). [Pub. L. 102–375, § 904(a)(13)(A)(i)][/us/pl/102/375/s904/a/13/A/i], substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
+    Subsec. (a)(8). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(13)(A)(i), substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
 
-    [Pub. L. 102–375, § 307(d)][/us/pl/102/375/s307/d], inserted at end “In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgable about the needs and concerns of low-income minority older individuals.”
+    [Pub. L. 102–375][/us/pl/102/375], § 307(d), inserted at end “In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgable about the needs and concerns of low-income minority older individuals.”
 
-    Subsec. (a)(9). [Pub. L. 102–375, § 102(b)(4)][/us/pl/102/375/s102/b/4], substituted “information and assistance” for “information and referral” in two places.
+    Subsec. (a)(9). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(4), substituted “information and assistance” for “information and referral” in two places.
 
-    Subsec. (a)(10). [Pub. L. 102–375, § 102(b)(5)][/us/pl/102/375/s102/b/5], substituted “[section 3030i of this title][/us/usc/t42/s3030i]” for “[section 3030i(1) of this title][/us/usc/t42/s3030i/1]”.
+    Subsec. (a)(10). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(5), substituted “[section 3030i of this title][/us/usc/t42/s3030i]” for “[section 3030i(1) of this title][/us/usc/t42/s3030i/1]”.
 
-    Subsec. (a)(11). [Pub. L. 102–375, § 307(e)][/us/pl/102/375/s307/e], substituted “governments—” for “governments, preference shall be given to individuals aged 60 or older” and added subpars. (A) and (B).
+    Subsec. (a)(11). [Pub. L. 102–375][/us/pl/102/375], § 307(e), substituted “governments—” for “governments, preference shall be given to individuals aged 60 or older” and added subpars. (A) and (B).
 
-    Subsec. (a)(12). [Pub. L. 102–375, § 307(f)][/us/pl/102/375/s307/f], amended par. (12) generally, substituting provisions requiring the plan to provide assurances that a State Long-Term Care Ombudsman program be carried out in accordance with [section 3058g of this title][/us/usc/t42/s3058g] for provisions setting out, in subpars. (A) to (K), the assurances required to be provided by the plan with respect to such a program.
+    Subsec. (a)(12). [Pub. L. 102–375][/us/pl/102/375], § 307(f), amended par. (12) generally, substituting provisions requiring the plan to provide assurances that a State Long-Term Care Ombudsman program be carried out in accordance with [section 3058g of this title][/us/usc/t42/s3058g] for provisions setting out, in subpars. (A) to (K), the assurances required to be provided by the plan with respect to such a program.
 
-    Subsec. (a)(13)(A). [Pub. L. 102–375, § 904(a)(13)(A)(ii)(I)][/us/pl/102/375/s904/a/13/A/ii/I], (II), substituted “to older individuals” for “to individuals aged 60 or older” and “by older individuals” for “by the elderly”.
+    Subsec. (a)(13)(A). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(13)(A)(ii)(I), (II), substituted “to older individuals” for “to individuals aged 60 or older” and “by older individuals” for “by the elderly”.
 
-    Subsec. (a)(13)(B). [Pub. L. 102–375, § 904(a)(13)(A)(ii)(III)][/us/pl/102/375/s904/a/13/A/ii/III], substituted “subparagraph” for “subclause”.
+    Subsec. (a)(13)(B). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(13)(A)(ii)(III), substituted “subparagraph” for “subclause”.
 
-    [Pub. L. 102–375, § 307(g)(1)][/us/pl/102/375/s307/g/1], inserted “(other than under [section 3023(b)(3) of this title][/us/usc/t42/s3023/b/3])” after “available under this subchapter”.
+    [Pub. L. 102–375][/us/pl/102/375], § 307(g)(1), inserted “(other than under [section 3023(b)(3) of this title][/us/usc/t42/s3023/b/3])” after “available under this subchapter”.
 
-    [Pub. L. 102–375, § 102(b)(10)(C)][/us/pl/102/375/s102/b/10/C], substituted “area agency on aging” for “area agency”.
+    [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(C), substituted “area agency on aging” for “area agency”.
 
-    Subsec. (a)(13)(F). [Pub. L. 102–375, § 307(g)(2)][/us/pl/102/375/s307/g/2], inserted “dietitians (or individuals with comparable experience),” after “advice of” and substituted “project will” for “project may”.
+    Subsec. (a)(13)(F). [Pub. L. 102–375][/us/pl/102/375], § 307(g)(2), inserted “dietitians (or individuals with comparable experience),” after “advice of” and substituted “project will” for “project may”.
 
-    Subsec. (a)(13)(H). [Pub. L. 102–375, § 307(g)(3)][/us/pl/102/375/s307/g/3], struck out “and” at end.
+    Subsec. (a)(13)(H). [Pub. L. 102–375][/us/pl/102/375], § 307(g)(3), struck out “and” at end.
 
-    [Pub. L. 102–375, § 102(b)(10)(E)][/us/pl/102/375/s102/b/10/E], substituted “area agency on aging” for “area agency” in two places.
+    [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(E), substituted “area agency on aging” for “area agency” in two places.
 
-    Subsec. (a)(13)(I). [Pub. L. 102–375, § 904(a)(13)(A)(ii)(IV)][/us/pl/102/375/s904/a/13/A/ii/IV], substituted “participating older individuals” for “elderly participants”.
+    Subsec. (a)(13)(I). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(13)(A)(ii)(IV), substituted “participating older individuals” for “elderly participants”.
 
-    [Pub. L. 102–375, § 307(g)(4)][/us/pl/102/375/s307/g/4], substituted semicolon for period at end.
+    [Pub. L. 102–375][/us/pl/102/375], § 307(g)(4), substituted semicolon for period at end.
 
-    [Pub. L. 102–375, § 102(b)(10)(C)][/us/pl/102/375/s102/b/10/C], substituted “area agency on aging” for “area agency”.
+    [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(C), substituted “area agency on aging” for “area agency”.
 
-    Subsec. (a)(13)(J) to (M). [Pub. L. 102–375, § 307(g)(5)][/us/pl/102/375/s307/g/5], added subpars. (J) to (M).
+    Subsec. (a)(13)(J) to (M). [Pub. L. 102–375][/us/pl/102/375], § 307(g)(5), added subpars. (J) to (M).
 
-    Subsec. (a)(14). [Pub. L. 102–375, § 102(b)(10)(A)][/us/pl/102/375/s102/b/10/A], substituted “area agencies on aging” for “area agencies”.
+    Subsec. (a)(14). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(A), substituted “area agencies on aging” for “area agencies”.
 
-    Subsec. (a)(14)(D). [Pub. L. 102–375, § 904(a)(13)(A)(iii)][/us/pl/102/375/s904/a/13/A/iii], substituted “subparagraph” for “clause”.
+    Subsec. (a)(14)(D). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(13)(A)(iii), substituted “subparagraph” for “clause”.
 
-    Subsec. (a)(15)(B). [Pub. L. 102–375, § 102(b)(10)(C)][/us/pl/102/375/s102/b/10/C], substituted “area agency on aging” for “area agency”.
+    Subsec. (a)(15)(B). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(C), substituted “area agency on aging” for “area agency”.
 
-    Subsec. (a)(15)(E). [Pub. L. 102–375, § 307(h)][/us/pl/102/375/s307/h], added subpar. (E).
+    Subsec. (a)(15)(E). [Pub. L. 102–375][/us/pl/102/375], § 307(h), added subpar. (E).
 
-    Subsec. (a)(16). [Pub. L. 102–375, § 307(i)][/us/pl/102/375/s307/i], substituted “shall provide,” for “shall provide that” and “provide for a” for “, if funds are not appropriated under [section 3023(g) of this title][/us/usc/t42/s3023/g] for a fiscal year, provide that for such”.
+    Subsec. (a)(16). [Pub. L. 102–375][/us/pl/102/375], § 307(i), substituted “shall provide,” for “shall provide that” and “provide for a” for “, if funds are not appropriated under [section 3023(g) of this title][/us/usc/t42/s3023/g] for a fiscal year, provide that for such”.
 
-    Subsec. (a)(16)(B). [Pub. L. 102–375, § 904(a)(13)(A)(iv)][/us/pl/102/375/s904/a/13/A/iv], substituted “paragraph” for “clause”.
+    Subsec. (a)(16)(B). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(13)(A)(iv), substituted “paragraph” for “clause”.
 
-    Subsec. (a)(18). [Pub. L. 102–375, § 307(j)][/us/pl/102/375/s307/j], inserted “(one of whom shall be known as a legal assistance developer)” after “personnel”.
+    Subsec. (a)(18). [Pub. L. 102–375][/us/pl/102/375], § 307(j), inserted “(one of whom shall be known as a legal assistance developer)” after “personnel”.
 
-    Subsec. (a)(20)(A). [Pub. L. 102–375, § 708(c)(4)][/us/pl/102/375/s708/c/4], substituted “[section 3026(a)(2)(A) of this title][/us/usc/t42/s3026/a/2/A]” for “sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title”.
+    Subsec. (a)(20)(A). [Pub. L. 102–375][/us/pl/102/375], § 708(c)(4), substituted “[section 3026(a)(2)(A) of this title][/us/usc/t42/s3026/a/2/A]” for “sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title”.
 
-    Subsec. (a)(21). [Pub. L. 102–375, § 307(k)][/us/pl/102/375/s307/k], amended par. (21) generally. Prior to amendment, par. (21) read as follows: “The State plan shall provide that the State agency, from funds allotted under [section 3024(a) of this title][/us/usc/t42/s3024/a] for part B of this subchapter and for paragraph (12) (relating to the State long-term care ombudsman) shall expend to carry out paragraph (12), for each fiscal year in which the allotment for part B of this subchapter for the State is not less than the allotment for fiscal year 1987 for part B of this subchapter for such State, an amount which is not less than the amount expended from funds received under this chapter by such State in fiscal year 1987 to carry out paragraph (12) as in effect before the effective date of the Older Americans Act Amendments of 1987. This paragraph shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
+    Subsec. (a)(21). [Pub. L. 102–375][/us/pl/102/375], § 307(k), amended par. (21) generally. Prior to amendment, par. (21) read as follows: “The State plan shall provide that the State agency, from funds allotted under [section 3024(a) of this title][/us/usc/t42/s3024/a] for part B of this subchapter and for paragraph (12) (relating to the State long-term care ombudsman) shall expend to carry out paragraph (12), for each fiscal year in which the allotment for part B of this subchapter for the State is not less than the allotment for fiscal year 1987 for part B of this subchapter for such State, an amount which is not less than the amount expended from funds received under this chapter by such State in fiscal year 1987 to carry out paragraph (12) as in effect before the effective date of the Older Americans Act Amendments of 1987. This paragraph shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
 
-    Subsec. (a)(22). [Pub. L. 102–375, § 102(b)(10)(E)][/us/pl/102/375/s102/b/10/E], substituted “area agency on aging” for “area agency” in two places.
+    Subsec. (a)(22). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(E), substituted “area agency on aging” for “area agency” in two places.
 
-    Subsec. (a)(24). [Pub. L. 102–375, § 307][/us/pl/102/375/s307](l), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “The plan shall provide assurances that the State agency will require outreach efforts that will—
+    Subsec. (a)(24). [Pub. L. 102–375][/us/pl/102/375], § 307(l), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “The plan shall provide assurances that the State agency will require outreach efforts that will—
 
     “(A) identify older individuals who are eligible for assistance under this subchapter, with special emphasis on older individuals with greatest economic need (with particular attention to low-income minority individuals), older individuals with greatest social need (with particular attention to low-income minority individuals), and older individuals who reside in rural areas; and
 
     “(B) inform such individuals of the availability of such assistance.”
 
-    Subsec. (a)(30). [Pub. L. 102–375, § 307(m)][/us/pl/102/375/s307/m], amended par. (30) generally. Prior to amendment, par. (30) read as follows: “The plan shall provide assurances that if the State receives funds appropriated under [section 3023(g) of this title][/us/usc/t42/s3023/g], the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter.”
+    Subsec. (a)(30). [Pub. L. 102–375][/us/pl/102/375], § 307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: “The plan shall provide assurances that if the State receives funds appropriated under [section 3023(g) of this title][/us/usc/t42/s3023/g], the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter.”
 
-    Subsec. (a)(31). [Pub. L. 102–375, § 307(n)][/us/pl/102/375/s307/n], amended par. (31) generally, substituting provisions relating to an area or State volunteer services coordinator for provisions that State agency make funds available to eligible area agencies on aging based on number of older individuals with greatest economic need and inadequacy of outreach activities and application assistance, that State agency require area agency to submit application describing and evaluating activities for which funds were sought, that State agency distribute to area agencies certain eligibility information, and that State agency submit to Commissioner a report on evaluations required to be submitted to it by area agencies.
+    Subsec. (a)(31). [Pub. L. 102–375][/us/pl/102/375], § 307(n), amended par. (31) generally, substituting provisions relating to an area or State volunteer services coordinator for provisions that State agency make funds available to eligible area agencies on aging based on number of older individuals with greatest economic need and inadequacy of outreach activities and application assistance, that State agency require area agency to submit application describing and evaluating activities for which funds were sought, that State agency distribute to area agencies certain eligibility information, and that State agency submit to Commissioner a report on evaluations required to be submitted to it by area agencies.
 
-    Subsec. (a)(32) to (44). [Pub. L. 102–375, § 307(n)][/us/pl/102/375/s307/n], added pars. (32) to (44).
+    Subsec. (a)(32) to (44). [Pub. L. 102–375][/us/pl/102/375], § 307(n), added pars. (32) to (44).
 
-    Subsec. (b)(1). [Pub. L. 102–375, § 307][/us/pl/102/375/s307](o), inserted before period at end “, except the Commissioner may not approve such plan unless the Commissioner determines that the formula submitted under [section 3025(a)(2)(D) of this title][/us/usc/t42/s3025/a/2/D] complies with the guidelines in effect under [section 3025(a)(2)(C) of this title][/us/usc/t42/s3025/a/2/C]”.
+    Subsec. (b)(1). [Pub. L. 102–375][/us/pl/102/375], § 307(o), inserted before period at end “, except the Commissioner may not approve such plan unless the Commissioner determines that the formula submitted under [section 3025(a)(2)(D) of this title][/us/usc/t42/s3025/a/2/D] complies with the guidelines in effect under [section 3025(a)(2)(C) of this title][/us/usc/t42/s3025/a/2/C]”.
 
-    Subsec. (b)(2). [Pub. L. 102–375, § 904(a)(13)(B)][/us/pl/102/375/s904/a/13/B], substituted “described in paragraph” for “described in clause”.
+    Subsec. (b)(2). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(13)(B), substituted “described in paragraph” for “described in clause”.
 
-    Subsec. (c). [Pub. L. 102–375, § 307(p)][/us/pl/102/375/s307/p], designated existing provisions as par. (1) and added pars. (2) and (3).
+    Subsec. (c). [Pub. L. 102–375][/us/pl/102/375], § 307(p), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (f). [Pub. L. 102–375, § 307(q)][/us/pl/102/375/s307/q], (r), redesignated subsec. (g) as subsec. (f)(1), added subsec. (f)(2), and struck out former subsec. (f) which related to demonstration projects for health and nutrition education.
+    Subsec. (f). [Pub. L. 102–375][/us/pl/102/375], § 307(q), (r), redesignated subsec. (g) as subsec. (f)(1), added subsec. (f)(2), and struck out former subsec. (f) which related to demonstration projects for health and nutrition education.
 
-    Subsec. (g). [Pub. L. 102–375, § 307(r)(1)][/us/pl/102/375/s307/r/1], redesignated subsec. (g) as subsec. (f)(1).
+    Subsec. (g). [Pub. L. 102–375][/us/pl/102/375], § 307(r)(1), redesignated subsec. (g) as subsec. (f)(1).
 
     1988—Subsec. (a)(3)(A). [Pub. L. 100–628][/us/pl/100/628] substituted a period for “; and” at end.
 
-    1987—Subsec. (a). [Pub. L. 100–175, § 182(k)(1)][/us/pl/100/175/s182/k/1], substituted “Each such plan shall comply with all of the following requirements:” for “Each such plan shall—”.
+    1987—Subsec. (a). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(1), substituted “Each such plan shall comply with all of the following requirements:” for “Each such plan shall—”.
 
-    Subsec. (a)(1), (2). [Pub. L. 100–175, § 182(k)(2)][/us/pl/100/175/s182/k/2], (3), inserted “The plan shall” and substituted a period for semicolon.
+    Subsec. (a)(1), (2). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(2), (3), inserted “The plan shall” and substituted a period for semicolon.
 
-    Subsec. (a)(3)(A). [Pub. L. 100–175, § 182(k)(4)(A)][/us/pl/100/175/s182/k/4/A], inserted “The plan shall”.
+    Subsec. (a)(3)(A). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(4)(A), inserted “The plan shall”.
 
-    Subsec. (a)(3)(B), (4) to (7). [Pub. L. 100–175, § 182(k)(4)(B)][/us/pl/100/175/s182/k/4/B], (5)–(8), inserted “The plan shall” and substituted a period for semicolon.
+    Subsec. (a)(3)(B), (4) to (7). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(4)(B), (5)–(8), inserted “The plan shall” and substituted a period for semicolon.
 
-    Subsec. (a)(8). [Pub. L. 100–175, § 182(k)(9)][/us/pl/100/175/s182/k/9], inserted “The plan shall” and substituted a period for semicolon.
+    Subsec. (a)(8). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(9), inserted “The plan shall” and substituted a period for semicolon.
 
-    [Pub. L. 100–175, § 132(c)(1)][/us/pl/100/175/s132/c/1], inserted “, including an evaluation of the effectiveness of the State agency in reaching older individuals with the greatest economic or social needs, with particular attention to low-income minority individuals” before semicolon.
+    [Pub. L. 100–175][/us/pl/100/175], § 132(c)(1), inserted “, including an evaluation of the effectiveness of the State agency in reaching older individuals with the greatest economic or social needs, with particular attention to low-income minority individuals” before semicolon.
 
-    [Pub. L. 100–175, § 128][/us/pl/100/175/s128], inserted “, and public hearings on,” after “evaluations of”.
+    [Pub. L. 100–175][/us/pl/100/175], § 128, inserted “, and public hearings on,” after “evaluations of”.
 
-    Subsec. (a)(9). [Pub. L. 100–175, § 182(k)(10)][/us/pl/100/175/s182/k/10], inserted “The plan shall” and substituted a period for semicolon.
+    Subsec. (a)(9). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(10), inserted “The plan shall” and substituted a period for semicolon.
 
-    Subsec. (a)(10). [Pub. L. 100–175, § 182(k)(11)][/us/pl/100/175/s182/k/11], inserted “The plan shall” and substituted a period for semicolon.
+    Subsec. (a)(10). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(11), inserted “The plan shall” and substituted a period for semicolon.
 
-    [Pub. L. 100–175, § 140(c)(1)][/us/pl/100/175/s140/c/1], which directed that par. (10) be amended by substituting “nutrition services, or in-home services (as defined in [section 3030i(1) of this title][/us/usc/t42/s3030i/1])” for “including nutrition services,”, was executed by making the substitution for “or nutrition services,” to reflect the probable intent of Congress and a previous amendment made by [Pub. L. 98–459, § 307(a)(2)][/us/pl/98/459/s307/a/2]. See 1984 Amendment note below.
+    [Pub. L. 100–175][/us/pl/100/175], § 140(c)(1), which directed that par. (10) be amended by substituting “nutrition services, or in-home services (as defined in [section 3030i(1) of this title][/us/usc/t42/s3030i/1])” for “including nutrition services,”, was executed by making the substitution for “or nutrition services,” to reflect the probable intent of Congress and a previous amendment made by [Pub. L. 98–459][/us/pl/98/459], § 307(a)(2). See 1984 Amendment note below.
 
-    Subsec. (a)(11). [Pub. L. 100–175, § 182(k)(12)][/us/pl/100/175/s182/k/12], inserted “The plan shall” and substituted a period for semicolon.
+    Subsec. (a)(11). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(12), inserted “The plan shall” and substituted a period for semicolon.
 
-    Subsec. (a)(12). [Pub. L. 100–175, § 129(d)][/us/pl/100/175/s129/d], amended par. (12) generally, revising and restating as subpars. (A) to (K) provisions of former subpars. (A) to (E).
+    Subsec. (a)(12). [Pub. L. 100–175][/us/pl/100/175], § 129(d), amended par. (12) generally, revising and restating as subpars. (A) to (K) provisions of former subpars. (A) to (E).
 
-    Subsec. (a)(13). [Pub. L. 100–175, § 182(k)(13)][/us/pl/100/175/s182/k/13], inserted “The plan shall”, and in subpar. (I) substituted a period for semicolon.
+    Subsec. (a)(13). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(13), inserted “The plan shall”, and in subpar. (I) substituted a period for semicolon.
 
-    Subsec. (a)(13)(I). [Pub. L. 100–175, § 136(c)(1)][/us/pl/100/175/s136/c/1], inserted “, and to individuals with disabilities who reside at home with and accompany older individuals who are eligible under this chapter” before semicolon.
+    Subsec. (a)(13)(I). [Pub. L. 100–175][/us/pl/100/175], § 136(c)(1), inserted “, and to individuals with disabilities who reside at home with and accompany older individuals who are eligible under this chapter” before semicolon.
 
-    Subsec. (a)(14). [Pub. L. 100–175, § 182(k)(14)][/us/pl/100/175/s182/k/14], inserted “The plan shall”, and in subpar. (E) substituted a period for semicolon.
+    Subsec. (a)(14). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(14), inserted “The plan shall”, and in subpar. (E) substituted a period for semicolon.
 
-    Subsec. (a)(15). [Pub. L. 100–175, § 182(k)(15)][/us/pl/100/175/s182/k/15], inserted “The plan shall”, and in subpar. (D) substituted a period for semicolon.
+    Subsec. (a)(15). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(15), inserted “The plan shall”, and in subpar. (D) substituted a period for semicolon.
 
-    Subsec. (a)(16). [Pub. L. 100–175, § 182(k)(16)][/us/pl/100/175/s182/k/16], inserted “The plan shall”, and in subpar. (C) substituted a period for semicolon.
+    Subsec. (a)(16). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(16), inserted “The plan shall”, and in subpar. (C) substituted a period for semicolon.
 
-    [Pub. L. 100–175, § 144(d)(1)][/us/pl/100/175/s144/d/1], substituted “, if funds are not appropriated under [section 3023(g) of this title][/us/usc/t42/s3023/g] for a fiscal year, provide that for such fiscal year” for second reference to “provide”.
+    [Pub. L. 100–175][/us/pl/100/175], § 144(d)(1), substituted “, if funds are not appropriated under [section 3023(g) of this title][/us/usc/t42/s3023/g] for a fiscal year, provide that for such fiscal year” for second reference to “provide”.
 
-    Subsec. (a)(17) to (19). [Pub. L. 100–175, § 182(k)(17)][/us/pl/100/175/s182/k/17]–(19), inserted “The plan shall” and substituted a period for semicolon.
+    Subsec. (a)(17) to (19). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(17)–(19), inserted “The plan shall” and substituted a period for semicolon.
 
-    Subsec. (a)(20). [Pub. L. 100–175, § 182(k)(20)][/us/pl/100/175/s182/k/20], inserted “The plan shall”, and in subpar. (B)(ii) substituted a period for “; and”.
+    Subsec. (a)(20). [Pub. L. 100–175][/us/pl/100/175], § 182(k)(20), inserted “The plan shall”, and in subpar. (B)(ii) substituted a period for “; and”.
 
-    Subsec. (a)(20)(A). [Pub. L. 100–175, § 155(e)(2)(A)][/us/pl/100/175/s155/e/2/A], substituted “sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title” for “[section 3026(a)(2)(A) of this title][/us/usc/t42/s3026/a/2/A]”.
+    Subsec. (a)(20)(A). [Pub. L. 100–175][/us/pl/100/175], § 155(e)(2)(A), substituted “sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title” for “[section 3026(a)(2)(A) of this title][/us/usc/t42/s3026/a/2/A]”.
 
-    Subsec. (a)(21). [Pub. L. 100–175, § 129(e)][/us/pl/100/175/s129/e], amended par. (21) generally. Prior to amendment, par. (21) read as follows: “provide that the State agency, from funds allotted under [section 3024(a) of this title][/us/usc/t42/s3024/a] for part B will use an amount equal to an amount not less than 1 percent of such allotment or $20,000, whichever is greater, for the purpose of carrying out the provisions of clause (12), except that (A) the requirement of this clause shall not apply in any fiscal year in which a State spends from State or local sources an amount equal to the amount required to be spent by this clause; and (B) the provisions of this clause shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
+    Subsec. (a)(21). [Pub. L. 100–175][/us/pl/100/175], § 129(e), amended par. (21) generally. Prior to amendment, par. (21) read as follows: “provide that the State agency, from funds allotted under [section 3024(a) of this title][/us/usc/t42/s3024/a] for part B will use an amount equal to an amount not less than 1 percent of such allotment or $20,000, whichever is greater, for the purpose of carrying out the provisions of clause (12), except that (A) the requirement of this clause shall not apply in any fiscal year in which a State spends from State or local sources an amount equal to the amount required to be spent by this clause; and (B) the provisions of this clause shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
 
-    Subsec. (a)(22). [Pub. L. 100–175, § 130(b)][/us/pl/100/175/s130/b], added par. (22).
+    Subsec. (a)(22). [Pub. L. 100–175][/us/pl/100/175], § 130(b), added par. (22).
 
-    Subsec. (a)(23). [Pub. L. 100–175, § 131(b)][/us/pl/100/175/s131/b], added par. (23).
+    Subsec. (a)(23). [Pub. L. 100–175][/us/pl/100/175], § 131(b), added par. (23).
 
-    Subsec. (a)(24). [Pub. L. 100–175, § 132(c)(2)][/us/pl/100/175/s132/c/2], added par. (24).
+    Subsec. (a)(24). [Pub. L. 100–175][/us/pl/100/175], § 132(c)(2), added par. (24).
 
-    Subsec. (a)(25). [Pub. L. 100–175, § 136(c)(2)][/us/pl/100/175/s136/c/2], added par. (25).
+    Subsec. (a)(25). [Pub. L. 100–175][/us/pl/100/175], § 136(c)(2), added par. (25).
 
-    Subsec. (a)(26). [Pub. L. 100–175, § 138][/us/pl/100/175/s138], added par. (26).
+    Subsec. (a)(26). [Pub. L. 100–175][/us/pl/100/175], § 138, added par. (26).
 
-    Subsec. (a)(27). [Pub. L. 100–175, § 140(c)(2)][/us/pl/100/175/s140/c/2], added par. (27).
+    Subsec. (a)(27). [Pub. L. 100–175][/us/pl/100/175], § 140(c)(2), added par. (27).
 
-    Subsec. (a)(28). [Pub. L. 100–175, § 141(c)][/us/pl/100/175/s141/c], added par. (28).
+    Subsec. (a)(28). [Pub. L. 100–175][/us/pl/100/175], § 141(c), added par. (28).
 
-    Subsec. (a)(29). [Pub. L. 100–175, § 142][/us/pl/100/175/s142], added par. (29).
+    Subsec. (a)(29). [Pub. L. 100–175][/us/pl/100/175], § 142, added par. (29).
 
-    Subsec. (a)(30). [Pub. L. 100–175, § 144(d)(2)][/us/pl/100/175/s144/d/2], added par. (30).
+    Subsec. (a)(30). [Pub. L. 100–175][/us/pl/100/175], § 144(d)(2), added par. (30).
 
-    Subsec. (a)(31). [Pub. L. 100–175, § 155(e)(2)(B)][/us/pl/100/175/s155/e/2/B], added par. (31).
+    Subsec. (a)(31). [Pub. L. 100–175][/us/pl/100/175], § 155(e)(2)(B), added par. (31).
 
-    Subsec. (g). [Pub. L. 100–175, § 137(b)][/us/pl/100/175/s137/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–175][/us/pl/100/175], § 137(b), added subsec. (g).
 
-    1984—Subsec. (a)(3)(A). [Pub. L. 98–459, § 307(a)(1)][/us/pl/98/459/s307/a/1], substituted “legal assistance” for “legal services”.
+    1984—Subsec. (a)(3)(A). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(1), substituted “legal assistance” for “legal services”.
 
-    Subsec. (a)(10). [Pub. L. 98–459, § 307(a)(2)][/us/pl/98/459/s307/a/2], substituted “supportive services or nutrition services” for “supportive services, including nutrition services”, and inserted “, or where such services are directly related to such State or area agency on aging’s administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging”.
+    Subsec. (a)(10). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(2), substituted “supportive services or nutrition services” for “supportive services, including nutrition services”, and inserted “, or where such services are directly related to such State or area agency on aging’s administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging”.
 
-    Subsec. (a)(12)(A). [Pub. L. 98–459, § 307(a)(3)(A)][/us/pl/98/459/s307/a/3/A]–(C), substituted “, other than an agency or organization which is responsible” for “which is not responsible”, “which is an association” for “which is not an association”, and “which provides an individual who will, on a full-time basis—” for “which will—”, in provision preceding cl. (i).
+    Subsec. (a)(12)(A). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(3)(A)–(C), substituted “, other than an agency or organization which is responsible” for “which is not responsible”, “which is an association” for “which is not an association”, and “which provides an individual who will, on a full-time basis—” for “which will—”, in provision preceding cl. (i).
 
-    Subsec. (a)(12)(A)(iv). [Pub. L. 98–459, § 307(a)(3)(D)][/us/pl/98/459/s307/a/3/D], substituted “training staff and volunteers” for “training volunteers”.
+    Subsec. (a)(12)(A)(iv). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(3)(D), substituted “training staff and volunteers” for “training volunteers”.
 
-    Subsec. (a)(12)(E). [Pub. L. 98–459, § 307(a)(3)(E)][/us/pl/98/459/s307/a/3/E]–(G), added subpar. (E).
+    Subsec. (a)(12)(E). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(3)(E)–(G), added subpar. (E).
 
-    Subsec. (a)(13)(B). [Pub. L. 98–459, § 307(a)(4)(A)][/us/pl/98/459/s307/a/4/A], substituted “subclause (H)” for “subparagraph (H)”.
+    Subsec. (a)(13)(B). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(4)(A), substituted “subclause (H)” for “subparagraph (H)”.
 
-    Subsec. (a)(13)(C)(i). [Pub. L. 98–459, § 307(a)(4)(B)][/us/pl/98/459/s307/a/4/B], substituted “solicit voluntary contributions” for “charge participating individuals”.
+    Subsec. (a)(13)(C)(i). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(4)(B), substituted “solicit voluntary contributions” for “charge participating individuals”.
 
-    Subsec. (a)(13)(C)(ii). [Pub. L. 98–459, § 307(a)(4)(C)][/us/pl/98/459/s307/a/4/C], substituted “voluntary contributions” for “charges”.
+    Subsec. (a)(13)(C)(ii). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(4)(C), substituted “voluntary contributions” for “charges”.
 
-    Subsec. (a)(15). [Pub. L. 98–459, § 307(a)(5)][/us/pl/98/459/s307/a/5], substituted “legal assistance” for “legal services” in provision preceding subpar. (A).
+    Subsec. (a)(15). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(5), substituted “legal assistance” for “legal services” in provision preceding subpar. (A).
 
-    Subsec. (a)(15)(A). [Pub. L. 98–459, § 307(a)(5)][/us/pl/98/459/s307/a/5], substituted “legal assistance” for “legal services” wherever appearing.
+    Subsec. (a)(15)(A). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(5), substituted “legal assistance” for “legal services” wherever appearing.
 
-    Subsec. (a)(15)(B). [Pub. L. 98–459, § 307(a)(6)][/us/pl/98/459/s307/a/6], in amending subpar. (B) generally, substituted provisions requiring assurances regarding the furnishing of legal assistance by grantees administering programs designed to provide legal assistance to older individuals with social or economic need for provisions requiring assurances regarding the furnishing of legal services by grantees who were either recipients of funds under the Legal Services Corporation Act or who administered programs designed to provide legal services to all older individuals with social or economic need.
+    Subsec. (a)(15)(B). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(6), in amending subpar. (B) generally, substituted provisions requiring assurances regarding the furnishing of legal assistance by grantees administering programs designed to provide legal assistance to older individuals with social or economic need for provisions requiring assurances regarding the furnishing of legal services by grantees who were either recipients of funds under the Legal Services Corporation Act or who administered programs designed to provide legal services to all older individuals with social or economic need.
 
-    Subsec. (a)(16) to (18). [Pub. L. 98–459, § 307(a)(10)][/us/pl/98/459/s307/a/10], added pars. (16) to (18). Former pars. (16) to (18) redesignated (19) to (21), respectively.
+    Subsec. (a)(16) to (18). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(10), added pars. (16) to (18). Former pars. (16) to (18) redesignated (19) to (21), respectively.
 
-    Subsec. (a)(19), (20). [Pub. L. 98–459, § 307(a)(9)][/us/pl/98/459/s307/a/9], redesignated former pars. (16) and (17) as (19) and (20), respectively.
+    Subsec. (a)(19), (20). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(9), redesignated former pars. (16) and (17) as (19) and (20), respectively.
 
-    Subsec. (a)(20)(B)(ii). [Pub. L. 98–459, § 307(a)(7)][/us/pl/98/459/s307/a/7], substituted “; and” for the period at the end.
+    Subsec. (a)(20)(B)(ii). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(7), substituted “; and” for the period at the end.
 
-    Subsec. (a)(21). [Pub. L. 98–459, § 307(a)(9)][/us/pl/98/459/s307/a/9], redesignated former par. (18) as (21).
+    Subsec. (a)(21). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(9), redesignated former par. (18) as (21).
 
-    Subsec. (a)(21)(B). [Pub. L. 98–459, § 307(a)(8)][/us/pl/98/459/s307/a/8], substituted “Commonwealth of the Northern Mariana Islands” for “Northern Mariana Islands”.
+    Subsec. (a)(21)(B). [Pub. L. 98–459][/us/pl/98/459], § 307(a)(8), substituted “Commonwealth of the Northern Mariana Islands” for “Northern Mariana Islands”.
 
-    Subsec. (b)(1). [Pub. L. 98–459, § 307(b)][/us/pl/98/459/s307/b], substituted “the Commissioner finds” for “he finds”.
+    Subsec. (b)(1). [Pub. L. 98–459][/us/pl/98/459], § 307(b), substituted “the Commissioner finds” for “he finds”.
 
-    Subsec. (d). [Pub. L. 98–459, § 307(c)][/us/pl/98/459/s307/c], substituted “in the Commissioner’s discretion” for “in his discretion”, “until the Commissioner is satisfied” for “until he is satisfied”, “Until the Commissioner is so satisfied” for “Until he is so satisfied”, “the Commissioner shall prescribe” for “he shall prescribe”, and “the provisions of this section” for “the provisions of section 307”.
+    Subsec. (d). [Pub. L. 98–459][/us/pl/98/459], § 307(c), substituted “in the Commissioner’s discretion” for “in his discretion”, “until the Commissioner is satisfied” for “until he is satisfied”, “Until the Commissioner is so satisfied” for “Until he is so satisfied”, “the Commissioner shall prescribe” for “he shall prescribe”, and “the provisions of this section” for “the provisions of section 307”.
 
-    Subsec. (e)(1). [Pub. L. 98–459, § 307(d)(1)][/us/pl/98/459/s307/d/1], substituted “designated by the Commissioner” for “designated by him” and “the Commissioner’s action is based” for “he based his action”.
+    Subsec. (e)(1). [Pub. L. 98–459][/us/pl/98/459], § 307(d)(1), substituted “designated by the Commissioner” for “designated by him” and “the Commissioner’s action is based” for “he based his action”.
 
-    Subsec. (e)(2). [Pub. L. 98–459, § 307(d)(2)][/us/pl/98/459/s307/d/2], substituted “set aside the Commissioner’s order” for “set aside his order”.
+    Subsec. (e)(2). [Pub. L. 98–459][/us/pl/98/459], § 307(d)(2), substituted “set aside the Commissioner’s order” for “set aside his order”.
 
-    Subsec. (f). [Pub. L. 98–459, § 307(e)][/us/pl/98/459/s307/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 98–459][/us/pl/98/459], § 307(e), added subsec. (f).
 
-    1981—Subsec. (a). [Pub. L. 97–115, § 7(a)][/us/pl/97/115/s7/a], substituted “for a two-, three-, or four-year period determined by the State agency” for “for a 3-year period” in provisions preceding par. (1).
+    1981—Subsec. (a). [Pub. L. 97–115][/us/pl/97/115], § 7(a), substituted “for a two-, three-, or four-year period determined by the State agency” for “for a 3-year period” in provisions preceding par. (1).
 
-    Subsec. (a)(3)(A), (10). [Pub. L. 97–115, § 3(d)][/us/pl/97/115/s3/d], substituted “supportive services” for “social services”.
+    Subsec. (a)(3)(A), (10). [Pub. L. 97–115][/us/pl/97/115], § 3(d), substituted “supportive services” for “social services”.
 
-    Subsec. (a)(13)(A). [Pub. L. 97–115, § 7(b)][/us/pl/97/115/s7/b], substituted “aged 60 or older and to their spouses, and may be made available to handicapped or disabled individuals who have not attained 60 years of age but who reside in housing facilities occupied primarily by the elderly at which congregate nutrition services are provided” for “aged 60 or older, and to their spouses”.
+    Subsec. (a)(13)(A). [Pub. L. 97–115][/us/pl/97/115], § 7(b), substituted “aged 60 or older and to their spouses, and may be made available to handicapped or disabled individuals who have not attained 60 years of age but who reside in housing facilities occupied primarily by the elderly at which congregate nutrition services are provided” for “aged 60 or older, and to their spouses”.
 
-    Subsec. (a)(13)(B). [Pub. L. 97–115, § 7(c)][/us/pl/97/115/s7/c], substituted “primary consideration shall be given to the provision of meals in a congregate setting, except that each area agency (i) may award funds made available under this subchapter to organizations for the provision of home delivered meals to older individuals in accordance with the provisions of subpart II of part C, based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter, without requiring that such organizations also provide meals to older individuals in a congregate setting; and (ii) shall, in awarding such funds, select such organizations in a manner which complies with the provisions of subparagraph (H)” for “each project will provide meals in a congregate setting, except that each such project may provide home delivered meals based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter”.
+    Subsec. (a)(13)(B). [Pub. L. 97–115][/us/pl/97/115], § 7(c), substituted “primary consideration shall be given to the provision of meals in a congregate setting, except that each area agency (i) may award funds made available under this subchapter to organizations for the provision of home delivered meals to older individuals in accordance with the provisions of subpart II of part C, based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter, without requiring that such organizations also provide meals to older individuals in a congregate setting; and (ii) shall, in awarding such funds, select such organizations in a manner which complies with the provisions of subparagraph (H)” for “each project will provide meals in a congregate setting, except that each such project may provide home delivered meals based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter”.
 
-    Subsec. (a)(13)(C)(ii). [Pub. L. 97–115, § 7(d)][/us/pl/97/115/s7/d], inserted “, to facilitate access to such meals, and to provide other supportive services directly related to nutrition services” after “the project involved”.
+    Subsec. (a)(13)(C)(ii). [Pub. L. 97–115][/us/pl/97/115], § 7(d), inserted “, to facilitate access to such meals, and to provide other supportive services directly related to nutrition services” after “the project involved”.
 
     Subsec. (a)(13)(D). [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 7(e), inserted “in the case of meals served in a congregate setting,” before “a site for such services”, substituted “supportive services” for “social services”, and struck out “or home delivered meals are furnished to eligible individuals who are homebound” after “transportation to such site is furnished”.
 
-    Subsec. (a)(13)(I). [Pub. L. 97–115, § 7(f)][/us/pl/97/115/s7/f], substituted “each area agency shall establish procedures that will allow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percent of its amount allotted under part C in areas with unusually high supportive services costs”.
+    Subsec. (a)(13)(I). [Pub. L. 97–115][/us/pl/97/115], § 7(f), substituted “each area agency shall establish procedures that will allow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percent of its amount allotted under part C in areas with unusually high supportive services costs”.
 
-    Subsec. (a)(16) to (18). [Pub. L. 97–115, § 7(g)][/us/pl/97/115/s7/g], added pars. (16) and (17) and redesignated former par. (16) as (18).
+    Subsec. (a)(16) to (18). [Pub. L. 97–115][/us/pl/97/115], § 7(g), added pars. (16) and (17) and redesignated former par. (16) as (18).
 
-    Subsec. (b)(2), (3). [Pub. L. 97–115, § 7(h)][/us/pl/97/115/s7/h], redesignated par. (3) as (2). Former par. (2), which related to the authority of the Commissioner to waive particular requirements of State plans for fiscal years 1979 and 1980, was struck out.
+    Subsec. (b)(2), (3). [Pub. L. 97–115][/us/pl/97/115], § 7(h), redesignated par. (3) as (2). Former par. (2), which related to the authority of the Commissioner to waive particular requirements of State plans for fiscal years 1979 and 1980, was struck out.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -667,11 +667,11 @@
 
  __Assessment of Unsatisfied Demand for Supportive Services Provided at Senior Centers and Other Sites__ 
 
-    [Pub. L. 100–175, title I, § 111][/us/pl/100/175/s111], Nov. 29, 1987, [101 Stat. 932][/us/stat/101/932], directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under [42 U.S.C. 3027(a)(3)(A)][/us/usc/t42/s3027/a/3/A] and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
+    [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 111, Nov. 29, 1987, [101 Stat. 932][/us/stat/101/932], directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under [42 U.S.C. 3027(a)(3)(A)][/us/usc/t42/s3027/a/3/A] and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
 
  __Study of Ombudsman Program__ 
 
-    [Pub. L. 100–175, title I, § 129(b)][/us/pl/100/175/s129/b], Nov. 29, 1987, [101 Stat. 934][/us/stat/101/934], directed Commissioner on Aging, not later than Dec. 31, 1989, to conduct a study and submit a report to Congress concerning involvement in the ombudsman program established under [42 U.S.C. 3027(a)(12)][/us/usc/t42/s3027/a/12] and its impact upon issues and problems affecting residents of board and care facilities and other similar adult care homes who are older individuals as defined in [42 U.S.C. 3022(10)][/us/usc/t42/s3022/10], and the effectiveness of recruiting, supervising, and retaining volunteer ombudsmen.
+    [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 129(b), Nov. 29, 1987, [101 Stat. 934][/us/stat/101/934], directed Commissioner on Aging, not later than Dec. 31, 1989, to conduct a study and submit a report to Congress concerning involvement in the ombudsman program established under [42 U.S.C. 3027(a)(12)][/us/usc/t42/s3027/a/12] and its impact upon issues and problems affecting residents of board and care facilities and other similar adult care homes who are older individuals as defined in [42 U.S.C. 3022(10)][/us/usc/t42/s3022/10], and the effectiveness of recruiting, supervising, and retaining volunteer ombudsmen.
 
 ----------
 
@@ -704,221 +704,221 @@
 [/us/usc/t42/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/89/73/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs307
-[/us/pl/95/478/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs103%2Fb
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1524
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1597
-[/us/pl/98/459/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307
+[/us/pl/98/459/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtIII
 [/us/stat/98/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1775
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F934
-[/us/pl/100/628/s705/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F6
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3247
-[/us/pl/102/375/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F4
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1201
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1988
-[/us/pl/106/501/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2242
-[/us/pl/109/365/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs307
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2544
 [/us/usc/t42/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa
 [/us/usc/t42/s3012/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F29
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
+[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
 [/us/stat/114/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2229
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F378
 [/us/usc/t42/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2701
-[/us/pl/89/73/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs307
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F44
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/usc/t42/s3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3029
-[/us/pl/89/73/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs305
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F41
-[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F715
 [/us/usc/t42/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/109/365/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs307%2F1
-[/us/pl/109/365/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs307%2F2
-[/us/pl/109/365/s307/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs307%2F3
-[/us/pl/109/365/s307/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs307%2F6%2FA
-[/us/pl/109/365/s307/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs307%2F6%2FB
-[/us/pl/109/365/s307/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs307%2F7
-[/us/pl/106/501/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F1
-[/us/pl/106/501/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F2
-[/us/pl/106/501/s306/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F3
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3026/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F4
-[/us/pl/106/501/s306/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F4
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3030i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030i
-[/us/pl/106/501/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F5
-[/us/pl/106/501/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F5
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
-[/us/pl/106/501/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F5
-[/us/pl/106/501/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F5
-[/us/pl/106/501/s306/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F12
-[/us/pl/106/501/s306/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F12
-[/us/pl/106/501/s306/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F14
-[/us/pl/106/501/s306/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F7
-[/us/pl/106/501/s306/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F12
-[/us/pl/106/501/s306/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F9
-[/us/pl/106/501/s306/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F17
-[/us/pl/106/501/s306/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F11
-[/us/pl/106/501/s801/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fc%2F4%2FA
-[/us/pl/106/501/s306/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F11
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3026/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fb%2F1
 [/us/usc/t42/s3026/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F2
-[/us/pl/106/501/s306/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F21
-[/us/pl/106/501/s306/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F22
-[/us/pl/106/501/s306/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F16
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3030h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030h
 [/us/usc/t42/s3023/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fe
-[/us/pl/106/501/s306/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F17
-[/us/pl/106/501/s306/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F16
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3026/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F12
-[/us/pl/106/501/s306/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F17
-[/us/pl/106/501/s306/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F18
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3025/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fd
-[/us/pl/106/501/s306/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F19
-[/us/pl/106/501/s306/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F20
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3023/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fg
-[/us/pl/106/501/s306/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F21
-[/us/pl/106/501/s306/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F20
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3026/a/6/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F6%2FP
-[/us/pl/106/501/s306/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F21
-[/us/pl/106/501/s801/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fc%2F4%2FB
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3026/a/14/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F14%2FB%2Fi
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/171/s3/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F5%2FB
-[/us/pl/103/171/s2/9/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F9%2FA%2Fi
-[/us/pl/103/171/s2/9/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F9%2FA%2Fii
-[/us/pl/103/171/s2/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F9%2FB
-[/us/pl/103/171/s3/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F5%2FA
-[/us/pl/102/375/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fa%2F1
-[/us/pl/102/375/s102/b/10/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FF
-[/us/pl/102/375/s307/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fa%2F3
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3012/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F29
-[/us/pl/102/375/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fb
-[/us/pl/102/375/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fc
-[/us/pl/102/375/s904/a/13/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F13%2FA%2Fi
-[/us/pl/102/375/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fd
-[/us/pl/102/375/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F4
-[/us/pl/102/375/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F5
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3030i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030i
 [/us/usc/t42/s3030i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030i%2F1
-[/us/pl/102/375/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fe
-[/us/pl/102/375/s307/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Ff
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
-[/us/pl/102/375/s904/a/13/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F13%2FA%2Fii%2FI
-[/us/pl/102/375/s904/a/13/A/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F13%2FA%2Fii%2FIII
-[/us/pl/102/375/s307/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fg%2F1
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3023/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fb%2F3
-[/us/pl/102/375/s102/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FC
-[/us/pl/102/375/s307/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fg%2F2
-[/us/pl/102/375/s307/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fg%2F3
-[/us/pl/102/375/s102/b/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FE
-[/us/pl/102/375/s904/a/13/A/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F13%2FA%2Fii%2FIV
-[/us/pl/102/375/s307/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fg%2F4
-[/us/pl/102/375/s102/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FC
-[/us/pl/102/375/s307/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fg%2F5
-[/us/pl/102/375/s102/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FA
-[/us/pl/102/375/s904/a/13/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F13%2FA%2Fiii
-[/us/pl/102/375/s102/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FC
-[/us/pl/102/375/s307/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fh
-[/us/pl/102/375/s307/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fi
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3023/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fg
-[/us/pl/102/375/s904/a/13/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F13%2FA%2Fiv
-[/us/pl/102/375/s307/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fj
-[/us/pl/102/375/s708/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs708%2Fc%2F4
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3026/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F2%2FA
-[/us/pl/102/375/s307/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fk
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024%2Fa
-[/us/pl/102/375/s102/b/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FE
-[/us/pl/102/375/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307
-[/us/pl/102/375/s307/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fm
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3023/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fg
-[/us/pl/102/375/s307/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fn
-[/us/pl/102/375/s307/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fn
-[/us/pl/102/375/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3025/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fa%2F2%2FD
 [/us/usc/t42/s3025/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fa%2F2%2FC
-[/us/pl/102/375/s904/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F13%2FB
-[/us/pl/102/375/s307/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fp
-[/us/pl/102/375/s307/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fq
-[/us/pl/102/375/s307/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs307%2Fr%2F1
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/pl/100/175/s182/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F1
-[/us/pl/100/175/s182/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F2
-[/us/pl/100/175/s182/k/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F4%2FA
-[/us/pl/100/175/s182/k/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F4%2FB
-[/us/pl/100/175/s182/k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F9
-[/us/pl/100/175/s132/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs132%2Fc%2F1
-[/us/pl/100/175/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs128
-[/us/pl/100/175/s182/k/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F10
-[/us/pl/100/175/s182/k/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F11
-[/us/pl/100/175/s140/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs140%2Fc%2F1
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3030i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030i%2F1
-[/us/pl/98/459/s307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F2
-[/us/pl/100/175/s182/k/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F12
-[/us/pl/100/175/s129/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs129%2Fd
-[/us/pl/100/175/s182/k/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F13
-[/us/pl/100/175/s136/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs136%2Fc%2F1
-[/us/pl/100/175/s182/k/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F14
-[/us/pl/100/175/s182/k/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F15
-[/us/pl/100/175/s182/k/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F16
-[/us/pl/100/175/s144/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs144%2Fd%2F1
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3023/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fg
-[/us/pl/100/175/s182/k/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F17
-[/us/pl/100/175/s182/k/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fk%2F20
-[/us/pl/100/175/s155/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs155%2Fe%2F2%2FA
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3026/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F2%2FA
-[/us/pl/100/175/s129/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs129%2Fe
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024%2Fa
-[/us/pl/100/175/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs130%2Fb
-[/us/pl/100/175/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs131%2Fb
-[/us/pl/100/175/s132/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs132%2Fc%2F2
-[/us/pl/100/175/s136/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs136%2Fc%2F2
-[/us/pl/100/175/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs138
-[/us/pl/100/175/s140/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs140%2Fc%2F2
-[/us/pl/100/175/s141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs141%2Fc
-[/us/pl/100/175/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs142
-[/us/pl/100/175/s144/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs144%2Fd%2F2
-[/us/pl/100/175/s155/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs155%2Fe%2F2%2FB
-[/us/pl/100/175/s137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs137%2Fb
-[/us/pl/98/459/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F1
-[/us/pl/98/459/s307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F2
-[/us/pl/98/459/s307/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F3%2FA
-[/us/pl/98/459/s307/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F3%2FD
-[/us/pl/98/459/s307/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F3%2FE
-[/us/pl/98/459/s307/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F4%2FA
-[/us/pl/98/459/s307/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F4%2FB
-[/us/pl/98/459/s307/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F4%2FC
-[/us/pl/98/459/s307/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F5
-[/us/pl/98/459/s307/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F5
-[/us/pl/98/459/s307/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F6
-[/us/pl/98/459/s307/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F10
-[/us/pl/98/459/s307/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F9
-[/us/pl/98/459/s307/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F7
-[/us/pl/98/459/s307/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F9
-[/us/pl/98/459/s307/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fa%2F8
-[/us/pl/98/459/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fb
-[/us/pl/98/459/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fc
-[/us/pl/98/459/s307/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fd%2F1
-[/us/pl/98/459/s307/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fd%2F2
-[/us/pl/98/459/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs307%2Fe
-[/us/pl/97/115/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs7%2Fa
-[/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
-[/us/pl/97/115/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs7%2Fb
-[/us/pl/97/115/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs7%2Fc
-[/us/pl/97/115/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs7%2Fd
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
-[/us/pl/97/115/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs7%2Ff
-[/us/pl/97/115/s7/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs7%2Fg
-[/us/pl/97/115/s7/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs7%2Fh
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/103/171/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs4%2Fb
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
@@ -933,10 +933,10 @@
 [/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/pl/98/459/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs803%2Fa
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/100/175/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs111
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F932
 [/us/usc/t42/s3027/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F3%2FA
-[/us/pl/100/175/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs129%2Fb
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F934
 [/us/usc/t42/s3027/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F12
 [/us/usc/t42/s3022/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3022%2F10

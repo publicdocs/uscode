@@ -51,47 +51,47 @@
 
         The Secretary of Defense may permit Armed Forces recruiters to inform potential applicants for the Corps regarding service in the Corps as an alternative to service in the Armed Forces.
 
-([Pub. L. 101–610, title I, § 162][/us/pl/101/610/s162], formerly § 195K, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2531][/us/stat/106/2531]; renumbered § 162 and amended [Pub. L. 103–82, title I, § 104(b)][/us/pl/103/82/s104/b], (e)(2)(G), title IV, § 402(b)(2), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 919; [Pub. L. 103–304, § 3(b)(5)(C)][/us/pl/103/304/s3/b/5/C], Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 111–13, title I, § 1512][/us/pl/111/13/s1512], Apr. 21, 2009, [123 Stat. 1526][/us/stat/123/1526].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 162, formerly § 195K, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2531][/us/stat/106/2531]; renumbered § 162 and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(b), (e)(2)(G), title IV, § 402(b)(2), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 919; [Pub. L. 103–304][/us/pl/103/304], § 3(b)(5)(C), Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1512, Apr. 21, 2009, [123 Stat. 1526][/us/stat/123/1526].)
 
  __References in Text__ 
 
-    [Section 12611 of this title][/us/usc/t42/s12611], referred to in subsec. (b)(1), was amended generally by [Pub. L. 111–13, title I, § 1501][/us/pl/111/13/s1501], Apr. 21, 2009, [123 Stat. 1521][/us/stat/123/1521], and section 12611(3) no longer relates to members and former members of the Armed Forces.
+    [Section 12611 of this title][/us/usc/t42/s12611], referred to in subsec. (b)(1), was amended generally by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1501, Apr. 21, 2009, [123 Stat. 1521][/us/stat/123/1521], and section 12611(3) no longer relates to members and former members of the Armed Forces.
 
  __Codification__ 
 
-    Section was formerly classified to [section 12653k of this title][/us/usc/t42/s12653k] prior to renumbering by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b].
+    Section was formerly classified to [section 12653k of this title][/us/usc/t42/s12653k] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 104(b).
 
  __Prior Provisions__ 
 
-    A prior section 12622, [Pub. L. 101–610, title I, § 166][/us/pl/101/610/s166], Nov. 16, 1990, [104 Stat. 3159][/us/stat/104/3159]; [Pub. L. 102–384, § 8][/us/pl/102/384/s8], Oct. 5, 1992, [106 Stat. 1456][/us/stat/106/1456], related to assistance for Head Start programs, prior to repeal by [Pub. L. 103–82, § 104(a)][/us/pl/103/82/s104/a].
+    A prior section 12622, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 166, Nov. 16, 1990, [104 Stat. 3159][/us/stat/104/3159]; [Pub. L. 102–384][/us/pl/102/384], § 8, Oct. 5, 1992, [106 Stat. 1456][/us/stat/106/1456], related to assistance for Head Start programs, prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 104(a).
 
     A prior [section 162 of Pub. L. 101–610][/us/pl/101/610/s162] was classified to [section 12613 of this title][/us/usc/t42/s12613] prior to repeal by [Pub. L. 103–82][/us/pl/103/82].
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 1512(b)(2)][/us/pl/111/13/s1512/b/2]–(5)(A), substituted “Liaison office” for “Secretary of Defense” as subsec. (a) heading, struck out par. (1) heading “Liaison office” after subsec. (a) heading, redesignated subpars. (A) and (B) of former subsec. (a)(1) as pars. (1) and (2), respectively, of subsec. (a), redesignated cls. (i) and (ii) of former subsec. (a)(1)(B) as subpars. (A) and (B), respectively, of subsec. (a)(2), redesignated former pars. (2) to (4) of subsec. (a) as subsecs. (b) to (d), respectively, redesignated former subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 1512(b)(2)–(5)(A), substituted “Liaison office” for “Secretary of Defense” as subsec. (a) heading, struck out par. (1) heading “Liaison office” after subsec. (a) heading, redesignated subpars. (A) and (B) of former subsec. (a)(1) as pars. (1) and (2), respectively, of subsec. (a), redesignated cls. (i) and (ii) of former subsec. (a)(1)(B) as subpars. (A) and (B), respectively, of subsec. (a)(2), redesignated former pars. (2) to (4) of subsec. (a) as subsecs. (b) to (d), respectively, redesignated former subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
 
-    [Pub. L. 111–13, § 1512(b)(1)][/us/pl/111/13/s1512/b/1], substituted “Department of Defense” for “other departments” in section catchline.
+    [Pub. L. 111–13][/us/pl/111/13], § 1512(b)(1), substituted “Department of Defense” for “other departments” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 111–13, § 1512(a)(1)(A)][/us/pl/111/13/s1512/a/1/A], inserted “National” before “Civilian Community Corps” in subpar. (A) and substituted “the registry established by [section 1143a of title 10][/us/usc/t10/s1143a];” for “the registry established by section 4462 of the National Defense Authorization Act for Fiscal Year 1993;” in subpar. (B)(i).
+    Subsec. (a)(1). [Pub. L. 111–13][/us/pl/111/13], § 1512(a)(1)(A), inserted “National” before “Civilian Community Corps” in subpar. (A) and substituted “the registry established by [section 1143a of title 10][/us/usc/t10/s1143a];” for “the registry established by section 4462 of the National Defense Authorization Act for Fiscal Year 1993;” in subpar. (B)(i).
 
-    Subsec. (a)(2)(A). [Pub. L. 111–13, § 1512(a)(1)(B)][/us/pl/111/13/s1512/a/1/B], substituted “from which individuals may be selected for appointment by the Director” for “to be recommended for appointment”.
+    Subsec. (a)(2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1512(a)(1)(B), substituted “from which individuals may be selected for appointment by the Director” for “to be recommended for appointment”.
 
-    Subsec. (a)(3). [Pub. L. 111–13, § 1512(a)(1)(C)][/us/pl/111/13/s1512/a/1/C], inserted “National” before “Civilian Community Corps”.
+    Subsec. (a)(3). [Pub. L. 111–13][/us/pl/111/13], § 1512(a)(1)(C), inserted “National” before “Civilian Community Corps”.
 
-    Subsec. (b). [Pub. L. 111–13, § 1512(a)(2)][/us/pl/111/13/s1512/a/2], struck out subsec. (b). Text read as follows: “Upon the establishment of the Program, the Secretary of Labor shall identify and assist in establishing a system for the recruitment of persons to serve as members of the Civilian Community Corps. In carrying out this subsection, the Secretary of Labor may utilize the Employment Service Agency or the Office of Job Training.”
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1512(a)(2), struck out subsec. (b). Text read as follows: “Upon the establishment of the Program, the Secretary of Labor shall identify and assist in establishing a system for the recruitment of persons to serve as members of the Civilian Community Corps. In carrying out this subsection, the Secretary of Labor may utilize the Employment Service Agency or the Office of Job Training.”
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 1512(b)(5)(B)][/us/pl/111/13/s1512/b/5/B], substituted “subsection (a)” for “paragraph (1)”.
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 1512(b)(5)(B), substituted “subsection (a)” for “paragraph (1)”.
 
-    Subsec. (b)(2). [Pub. L. 111–13, § 1512(b)(5)(C)][/us/pl/111/13/s1512/b/5/C], substituted “subsection” for “paragraph”.
+    Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 1512(b)(5)(C), substituted “subsection” for “paragraph”.
 
-    Subsec. (c). [Pub. L. 111–13, § 1512(b)(6)][/us/pl/111/13/s1512/b/6], substituted “this subsection” for “this paragraph” and “subsection (a)” for “paragraph (1)”.
+    Subsec. (c). [Pub. L. 111–13][/us/pl/111/13], § 1512(b)(6), substituted “this subsection” for “this paragraph” and “subsection (a)” for “paragraph (1)”.
 
     1994—Subsec. (a)(1)(B)(ii). [Pub. L. 103–304][/us/pl/103/304], which directed the substitution of “[section 1143a of title 10][/us/usc/t10/s1143a]” for “section 4462 of the National Defense Authorization Act for Fiscal Year 1993”, could not be executed because “section 4462 of the National Defense Authorization Act for Fiscal Year 1993” did not appear in cl. (ii).
 
-    1993—Subsec. (a)(2)(A). [Pub. L. 103–82, § 104(e)(2)(G)][/us/pl/103/82/s104/e/2/G], substituted “section 12611(3)” for “section 12653(3)”.
+    1993—Subsec. (a)(2)(A). [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(G), substituted “section 12611(3)” for “section 12653(3)”.
 
-    Subsec. (a)(2)(C). [Pub. L. 103–82, § 402(b)(2)][/us/pl/103/82/s402/b/2], substituted “Corporation” for “Commission on National and Community Service”.
+    Subsec. (a)(2)(C). [Pub. L. 103–82][/us/pl/103/82], § 402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -111,42 +111,42 @@
 ----------
 
 [/us/usc/t10/s1143a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1143a
-[/us/pl/101/610/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs162
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2531
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
-[/us/pl/103/304/s3/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F5%2FC
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1567
-[/us/pl/111/13/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1526
 [/us/usc/t42/s12611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12611
-[/us/pl/111/13/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1501
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1521
 [/us/usc/t42/s12653k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653k
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
-[/us/pl/101/610/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs166
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3159
-[/us/pl/102/384/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs8
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1456
-[/us/pl/103/82/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fa
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs162
 [/us/usc/t42/s12613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12613
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/111/13/s1512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fb%2F2
-[/us/pl/111/13/s1512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fb%2F1
-[/us/pl/111/13/s1512/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fa%2F1%2FA
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t10/s1143a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1143a
-[/us/pl/111/13/s1512/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fa%2F1%2FB
-[/us/pl/111/13/s1512/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fa%2F1%2FC
-[/us/pl/111/13/s1512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fa%2F2
-[/us/pl/111/13/s1512/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fb%2F5%2FB
-[/us/pl/111/13/s1512/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fb%2F5%2FC
-[/us/pl/111/13/s1512/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1512%2Fb%2F6
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/usc/t10/s1143a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1143a
-[/us/pl/103/82/s104/e/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FG
-[/us/pl/103/82/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs402%2Fb%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

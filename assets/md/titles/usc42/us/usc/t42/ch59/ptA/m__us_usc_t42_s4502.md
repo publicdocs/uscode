@@ -41,7 +41,7 @@
 
         (8) increase coordination among Federal programs that seek to promote job opportunities and skills, decent and affordable housing, public safety, access to health care, educational opportunities, and fiscal soundness for urban communities and their residents.
 
-([Pub. L. 91–609, title VII, § 702][/us/pl/91/609/s702], Dec. 31, 1970, [84 Stat. 1791][/us/stat/84/1791]; [Pub. L. 95–128, title VI, § 601(b)][/us/pl/95/128/s601/b], Oct. 12, 1977, [91 Stat. 1143][/us/stat/91/1143]; [Pub. L. 98–479, title II, § 204(i)][/us/pl/98/479/s204/i], Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233]; [Pub. L. 102–550, title IX, § 921(1)][/us/pl/102/550/s921/1], Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883].)
+([Pub. L. 91–609, title VII][/us/pl/91/609/tVII], § 702, Dec. 31, 1970, [84 Stat. 1791][/us/stat/84/1791]; [Pub. L. 95–128, title VI][/us/pl/95/128/tVI], § 601(b), Oct. 12, 1977, [91 Stat. 1143][/us/stat/91/1143]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(i), Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 921(1), Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883].)
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 
     1984—Subsec. (d)(8). [Pub. L. 98–479][/us/pl/98/479] struck out “of” before “the physical environment”.
 
-    1977—Subsec. (a). [Pub. L. 95–128, § 601(b)(1)][/us/pl/95/128/s601/b/1], substituted “rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created” for “the rapid growth of urban population and uneven expansion of urban development in the United States, together with a decline in farm population, slower growth in rural areas, and migration to the cities, has created” and included the threat to “social” environment and the financial viability of our cities, and conservation of “energy”.
+    1977—Subsec. (a). [Pub. L. 95–128][/us/pl/95/128], § 601(b)(1), substituted “rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created” for “the rapid growth of urban population and uneven expansion of urban development in the United States, together with a decline in farm population, slower growth in rural areas, and migration to the cities, has created” and included the threat to “social” environment and the financial viability of our cities, and conservation of “energy”.
 
-    Subsec. (b). [Pub. L. 95–128, § 601(b)(2)][/us/pl/95/128/s601/b/2], included findings respecting costly urban redevelopment and wasteful use of energy and struck out “growth” after “national urban”.
+    Subsec. (b). [Pub. L. 95–128][/us/pl/95/128], § 601(b)(2), included findings respecting costly urban redevelopment and wasteful use of energy and struck out “growth” after “national urban”.
 
-    Subsec. (c). [Pub. L. 95–128, § 601(b)(3)][/us/pl/95/128/s601/b/3], included conservation of “energy”, struck out “growth” after “nation urban” in first sentence and substituted in second sentence “urban development and redevelopment” for “urban growth” and “urban policy” for “growth and stabilization policy”.
+    Subsec. (c). [Pub. L. 95–128][/us/pl/95/128], § 601(b)(3), included conservation of “energy”, struck out “growth” after “nation urban” in first sentence and substituted in second sentence “urban development and redevelopment” for “urban growth” and “urban policy” for “growth and stabilization policy”.
 
-    Subsec. (d). [Pub. L. 95–128, § 601(b)(4)][/us/pl/95/128/s601/b/4]–(6), struck out “growth” before “policy” in introductory text; substituted in par. (3) “encourage patterns of development and redevelopment which minimize” for “help reverse trends of migration and physical growth which reinforce”; and in par. (8) substituted “urban development and redevelopment” for “urban growth and stabilization” and “protect” for “the protection” and required the national urban policy to “encourage” prudent use of resources, including “energy”.
+    Subsec. (d). [Pub. L. 95–128][/us/pl/95/128], § 601(b)(4)–(6), struck out “growth” before “policy” in introductory text; substituted in par. (3) “encourage patterns of development and redevelopment which minimize” for “help reverse trends of migration and physical growth which reinforce”; and in par. (8) substituted “urban development and redevelopment” for “urban growth and stabilization” and “protect” for “the protection” and required the national urban policy to “encourage” prudent use of resources, including “energy”.
 
 ----------
 
@@ -64,19 +64,19 @@
 ----------
 ----------
 
-[/us/pl/91/609/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs702
+[/us/pl/91/609/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtVII
 [/us/stat/84/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1791
-[/us/pl/95/128/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fb
+[/us/pl/95/128/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVI
 [/us/stat/91/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1143
-[/us/pl/98/479/s204/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fi
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2233
-[/us/pl/102/550/s921/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs921%2F1
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3883
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/95/128/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fb%2F1
-[/us/pl/95/128/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fb%2F2
-[/us/pl/95/128/s601/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fb%2F3
-[/us/pl/95/128/s601/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fb%2F4
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 
 

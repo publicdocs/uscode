@@ -49,13 +49,13 @@
 
         The President is authorized to make grants not to exceed 50 per centum of the cost of improving, maintaining and updating State disaster assistance plans, including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards; except that no such grant shall exceed $50,000 per annum to any State.
 
-([Pub. L. 93–288, title II, § 201][/us/pl/93/288/s201], May 22, 1974, [88 Stat. 145][/us/stat/88/145]; [Pub. L. 100–707, title I, § 104][/us/pl/100/707/s104], Nov. 23, 1988, [102 Stat. 4690][/us/stat/102/4690].)
+([Pub. L. 93–288, title II][/us/pl/93/288/tII], § 201, May 22, 1974, [88 Stat. 145][/us/stat/88/145]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 104, Nov. 23, 1988, [102 Stat. 4690][/us/stat/102/4690].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–707, § 104(b)(1)][/us/pl/100/707/s104/b/1], struck out “(including the Defense Civil Preparedness Agency)” after “agencies”.
+    1988—Subsec. (a). [Pub. L. 100–707][/us/pl/100/707], § 104(b)(1), struck out “(including the Defense Civil Preparedness Agency)” after “agencies”.
 
-    Subsec. (d). [Pub. L. 100–707, § 104(a)][/us/pl/100/707/s104/a], (b)(2), inserted “including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards;” after “plans,” and substituted “$50,000” for “$25,000”.
+    Subsec. (d). [Pub. L. 100–707][/us/pl/100/707], § 104(a), (b)(2), inserted “including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards;” after “plans,” and substituted “$50,000” for “$25,000”.
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/93/288/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs201
+[/us/pl/93/288/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtII
 [/us/stat/88/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F145
-[/us/pl/100/707/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs104
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4690
-[/us/pl/100/707/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs104%2Fb%2F1
-[/us/pl/100/707/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs104%2Fa
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 
 

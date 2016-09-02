@@ -31,7 +31,7 @@
 
         (2) such articles meet the requirements of [section 6311(2)(A) of this title][/us/usc/t42/s6311/2/A] (other than clauses (ii) and (iii)).
 
-([Pub. L. 94–163, title III, § 341][/us/pl/94/163/s341], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3268][/us/stat/92/3268].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 341, as added [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3268][/us/stat/92/3268].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t42/s6311/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6311%2F2%2FA
-[/us/pl/94/163/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs341
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3268
 
 

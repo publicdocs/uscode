@@ -27,7 +27,7 @@
 
         The Attorney General shall publish an annual statistical summary of the reports received under this section and [section 5780 of this title][/us/usc/t42/s5780].
 
-([Pub. L. 101–647, title XXXVII, § 3701][/us/pl/101/647/s3701], Nov. 29, 1990, [104 Stat. 4966][/us/stat/104/4966]; [Pub. L. 108–21, title II, § 204][/us/pl/108/21/s204], Apr. 30, 2003, [117 Stat. 660][/us/stat/117/660].)
+([Pub. L. 101–647, title XXXVII][/us/pl/101/647/tXXXVII], § 3701, Nov. 29, 1990, [104 Stat. 4966][/us/stat/104/4966]; [Pub. L. 108–21, title II][/us/pl/108/21/tII], § 204, Apr. 30, 2003, [117 Stat. 660][/us/stat/117/660].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t42/s5780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5780
 [/us/usc/t42/s5780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5780
-[/us/pl/101/647/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3701
+[/us/pl/101/647/tXXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVII
 [/us/stat/104/4966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4966
-[/us/pl/108/21/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs204
+[/us/pl/108/21/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtII
 [/us/stat/117/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F660
 [/us/usc/t42/s5780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5780
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647

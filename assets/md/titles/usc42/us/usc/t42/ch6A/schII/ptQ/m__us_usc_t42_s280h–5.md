@@ -179,7 +179,7 @@
 
         For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399Z–1, as added and amended [Pub. L. 111–148, title IV, § 4101(b)][/us/pl/111/148/s4101/b], title X, § 10402(a), Mar. 23, 2010, [124 Stat. 547][/us/stat/124/547], 975.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399Z–1, as added and amended [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4101(b), title X, § 10402(a), Mar. 23, 2010, [124 Stat. 547][/us/stat/124/547], 975.)
 
  __References in Text__ 
 
@@ -187,7 +187,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(A). [Pub. L. 111–148, § 10402(a)][/us/pl/111/148/s10402/a], inserted “and vision” after “oral”.
+    2010—Subsec. (a)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 10402(a), inserted “and vision” after “oral”.
 
 ----------
 
@@ -202,11 +202,11 @@
 [/us/usc/t42/s280h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280h%E2%80%934
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4101%2Fb
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F547
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/148/s10402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10402%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

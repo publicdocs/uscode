@@ -45,7 +45,7 @@
 
         (4) the term “nuclear waste” means any radioactive waste material subject to regulation by the Nuclear Regulatory Commission or the Department of Energy.
 
-([Pub. L. 102–486, title XXIII, § 2305][/us/pl/102/486/s2305], Oct. 24, 1992, [106 Stat. 3094][/us/stat/106/3094].)
+([Pub. L. 102–486, title XXIII][/us/pl/102/486/tXXIII], § 2305, Oct. 24, 1992, [106 Stat. 3094][/us/stat/106/3094].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2305
+[/us/pl/102/486/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIII
 [/us/stat/106/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3094
 
 

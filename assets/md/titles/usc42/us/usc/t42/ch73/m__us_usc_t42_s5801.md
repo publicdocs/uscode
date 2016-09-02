@@ -35,7 +35,7 @@
 
         Determination of priorities which are warranted should be based on such considerations as power-related values of an energy source, preservation of material resources, reduction of pollutants, export market potential (including reduction of imports), among others. On such a basis, energy sources warranting priority might include, but not be limited to, the various methods of utilizing solar energy.
 
-([Pub. L. 93–438, § 2][/us/pl/93/438/s2], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233].)
+([Pub. L. 93–438][/us/pl/93/438], § 2, Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date; Interim Appointments__ 
 
-[Pub. L. 93–438, title III, § 312][/us/pl/93/438/s312], Oct. 11, 1974, [88 Stat. 1253][/us/stat/88/1253], provided that:
+[Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 312, Oct. 11, 1974, [88 Stat. 1253][/us/stat/88/1253], provided that:
 
 >     “(a) This Act \[see Short Title note below\] shall take effect one hundred and twenty days after the date of its enactment \[Oct. 11, 1974\], or on such earlier date as the President may prescribe and publish in the Federal Register \[prescribed as Jan. 19, 1975, by Ex. Ord. No. 11834, formerly set out below\] except that any of the officers provided for in title I of this Act \[subchapter I of this chapter\] may be nominated and appointed, as provided by this Act, at any time after the date of enactment of this Act. Funds available to any department or agency (or any official or component thereof), any functions of which are transferred to the Administrator and the Commission by this Act, may, with the approval of the President, be used to pay the compensation and expenses of any officer appointed pursuant to this subsection until such time as funds for that purpose are otherwise available.
 
@@ -51,13 +51,13 @@
 
  __Short Title__ 
 
-[Pub. L. 93–438, § 1][/us/pl/93/438/s1], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], provided that: 
+[Pub. L. 93–438][/us/pl/93/438], § 1, Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], provided that: 
 
 > “This Act \[enacting this chapter, repealing sections 2031 and 2032 of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
 
  __Separability__ 
 
-[Pub. L. 93–438, title III, § 311][/us/pl/93/438/s311], Oct. 11, 1974, [88 Stat. 1253][/us/stat/88/1253], provided that: 
+[Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 311, Oct. 11, 1974, [88 Stat. 1253][/us/stat/88/1253], provided that: 
 
 > “If any provision of this Act \[See Short Title note above\], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/pl/93/438/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs2
+[/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
-[/us/pl/93/438/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs312
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1253
-[/us/pl/93/438/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs1
+[/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
-[/us/pl/93/438/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs311
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1253
 
 

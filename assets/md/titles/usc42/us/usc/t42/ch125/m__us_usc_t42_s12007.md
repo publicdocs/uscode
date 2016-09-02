@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be deemed to convey to any person, partnership, corporation, or other entity immunity from civil or criminal liability under any antitrust law or to create defenses to actions under any antitrust law. As used in this section, “antitrust laws” means those Acts set forth in [section 12 of title 15][/us/usc/t15/s12].
 
-([Pub. L. 101–218, § 10][/us/pl/101/218/s10], Dec. 11, 1989, [103 Stat. 1869][/us/stat/103/1869].)
+([Pub. L. 101–218][/us/pl/101/218], § 10, Dec. 11, 1989, [103 Stat. 1869][/us/stat/103/1869].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/101/218/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs10
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1869
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859

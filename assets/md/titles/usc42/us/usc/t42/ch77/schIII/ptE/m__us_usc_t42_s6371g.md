@@ -45,11 +45,11 @@
 
         Funds allocated for projects in any States for a fiscal year under this section but not obli­gated in such fiscal year shall be available for reallocation under subsection (a) of this section in the subsequent fiscal year.
 
-([Pub. L. 94–163, title III, § 398][/us/pl/94/163/s398], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3246][/us/stat/92/3246]; amended [Pub. L. 98–454, title VI, § 601(e)][/us/pl/98/454/s601/e], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 398, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3246][/us/stat/92/3246]; amended [Pub. L. 98–454, title VI][/us/pl/98/454/tVI], § 601(e), Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736].)
 
  __References in Text__ 
 
-    [Section 6371f of this title][/us/usc/t42/s6371f], referred to in subsec. (a)(1), (2), was amended by [Pub. L. 101–440, § 8(b)][/us/pl/101/440/s8/b], Oct. 18, 1990, [104 Stat. 1015][/us/stat/104/1015], and, as so amended, no longer contains a subsec. (b).
+    [Section 6371f of this title][/us/usc/t42/s6371f], referred to in subsec. (a)(1), (2), was amended by [Pub. L. 101–440][/us/pl/101/440], § 8(b), Oct. 18, 1990, [104 Stat. 1015][/us/stat/104/1015], and, as so amended, no longer contains a subsec. (b).
 
  __Amendments__ 
 
@@ -66,13 +66,13 @@
 [/us/usc/t42/s6371e/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371e%2Fb%2F2
 [/us/usc/t42/s6371e/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371e%2Fb%2F1
 [/us/usc/t42/s6371b/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371b%2Fe%2F2
-[/us/pl/94/163/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs398
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3246
-[/us/pl/98/454/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs601%2Fe
+[/us/pl/98/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVI
 [/us/stat/98/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1736
 [/us/usc/t42/s6371f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371f
-[/us/pl/101/440/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs8%2Fb
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1015
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 

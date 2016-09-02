@@ -35,11 +35,11 @@
 
         to an intermediary borrower that is a county government may be assigned by such borrower to an entity to which such loan could have been made for the purpose for which such contract was made. Any entity to which such contract is so assigned shall be substituted as a party to such contract and shall be obligated to carry out such contract and the purpose for which such contract was made.
 
-([Pub. L. 99–425, title IV, § 407(a)][/us/pl/99/425/s407/a], (b), Sept. 30, 1986, [100 Stat. 971][/us/stat/100/971]; [Pub. L. 105–285, title II, § 202(c)][/us/pl/105/285/s202/c], Oct. 27, 1998, [112 Stat. 2755][/us/stat/112/2755].)
+([Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 407(a), (b), Sept. 30, 1986, [100 Stat. 971][/us/stat/100/971]; [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 202(c), Oct. 27, 1998, [112 Stat. 2755][/us/stat/112/2755].)
 
  __References in Text__ 
 
-    [Section 9910 of this title][/us/usc/t42/s9910], referred to in subsecs. (a) and (b)(2), was in the original a reference to [section 681 of Pub. L. 97–35][/us/pl/97/35/s681]. [Section 681 of Pub. L. 97–35][/us/pl/97/35/s681] was omitted, and a new section 681 enacted, in the general amendment of chapter 106 of this title by [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728]. The new section 681 is classified to [section 9922 of this title][/us/usc/t42/s9922].
+    [Section 9910 of this title][/us/usc/t42/s9910], referred to in subsecs. (a) and (b)(2), was in the original a reference to [section 681 of Pub. L. 97–35][/us/pl/97/35/s681]. [Section 681 of Pub. L. 97–35][/us/pl/97/35/s681] was omitted, and a new section 681 enacted, in the general amendment of chapter 106 of this title by [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728]. The new section 681 is classified to [section 9922 of this title][/us/usc/t42/s9922].
 
  __Codification__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–285, § 202(c)(1)][/us/pl/105/285/s202/c/1], in concluding provisions, inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
+    1998—Subsec. (a). [Pub. L. 105–285][/us/pl/105/285], § 202(c)(1), in concluding provisions, inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
 
-    Subsec. (b)(2). [Pub. L. 105–285, § 202(c)(2)][/us/pl/105/285/s202/c/2], inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
+    Subsec. (b)(2). [Pub. L. 105–285][/us/pl/105/285], § 202(c)(2), inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
 
  __Effective Date__ 
 
@@ -57,7 +57,7 @@
 
  __Transfer of Loan by Utah or Ohio Local Public Body to Nonprofit Corporation__ 
 
-[Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 640\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–35, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 640\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–35, purported to amend section 623B(b)(2) of the Community Economic Development Act of 1981, a nonexistent section of that Act ([Pub. L. 99–35, title VI, § 611][/us/pl/99/35/s611] et seq.), by adding at the end thereof the following new sentence: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(a) \[title VI, § 640\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–35, and [Pub. L. 99–591][/us/pl/99/591], § 101(a) \[title VI, § 640\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–35, purported to amend section 623B(b)(2) of the Community Economic Development Act of 1981, a nonexistent section of that Act ([Pub. L. 99–35, title VI][/us/pl/99/35/tVI], § 611 et seq.), by adding at the end thereof the following new sentence: 
 
 > “Notwithstanding any other provision of law, any Utah or Ohio local public body to which a loan was made after December 31, 1982, from the Rural Development Loan Fund may, at the discretion of such local public body and with the approval of the Secretary of Health and Human Services, transfer such loan to a nonprofit corporation designated by such body to serve as an intermediate borrower and to carry out the purposes of the loan.”
 
@@ -72,24 +72,24 @@
 [/us/usc/t42/s9910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910%2Fa
 [/us/usc/t42/s9812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9812%2Fc%2F1
 [/us/usc/t42/s9910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910%2Fa
-[/us/pl/99/425/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs407%2Fa
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F971
-[/us/pl/105/285/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs202%2Fc
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2755
 [/us/usc/t42/s9910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910
 [/us/pl/97/35/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs681
 [/us/pl/97/35/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs681
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2728
 [/us/usc/t42/s9922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9922
-[/us/pl/105/285/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs202%2Fc%2F1
-[/us/pl/105/285/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs202%2Fc%2F2
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/pl/99/425/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs1001
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/99/500/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783
-[/us/pl/99/591/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341
-[/us/pl/99/35/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F35%2Fs611
+[/us/pl/99/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F35%2FtVI
 
 

@@ -31,7 +31,7 @@
 
         (4) develop State-wide networks of family resource and support programs for the purpose of sharing and disseminating information.
 
-([Pub. L. 101–501, title IX, § 958][/us/pl/101/501/s958], Nov. 3, 1990, [104 Stat. 1279][/us/stat/104/1279]; [Pub. L. 103–252, title IV, § 403(a)][/us/pl/103/252/s403/a], May 18, 1994, [108 Stat. 673][/us/stat/108/673].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 958, Nov. 3, 1990, [104 Stat. 1279][/us/stat/104/1279]; [Pub. L. 103–252, title IV][/us/pl/103/252/tIV], § 403(a), May 18, 1994, [108 Stat. 673][/us/stat/108/673].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/101/501/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs958
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1279
-[/us/pl/103/252/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs403%2Fa
+[/us/pl/103/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIV
 [/us/stat/108/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F673
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 

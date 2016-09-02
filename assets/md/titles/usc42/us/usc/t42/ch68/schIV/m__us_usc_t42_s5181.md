@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, no person otherwise eligible for any kind of replacement housing payment under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([P.L. 91–646][/us/pl/91/646]) \[[42 U.S.C. 4601][/us/usc/t42/s4601] et seq.\] shall be denied such eligibility as a result of his being unable, because of a major disaster as determined by the President, to meet the occupancy requirements set by such Act.
 
-([Pub. L. 93–288, title IV, § 414][/us/pl/93/288/s414], formerly § 411, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 414, [Pub. L. 100–707, title I, § 106(h)][/us/pl/100/707/s106/h], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 414, formerly § 411, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 414, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(h), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
 
  __References in Text__ 
 
@@ -36,9 +36,9 @@
 
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/93/288/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs414
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F157
-[/us/pl/100/707/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fh
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

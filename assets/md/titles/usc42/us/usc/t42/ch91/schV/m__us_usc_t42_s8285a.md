@@ -25,13 +25,13 @@
 
     (4) the term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 96–294, title V, § 582][/us/pl/96/294/s582], June 30, 1980, [94 Stat. 761][/us/stat/94/761].)
+([Pub. L. 96–294, title V][/us/pl/96/294/tV], § 582, June 30, 1980, [94 Stat. 761][/us/stat/94/761].)
 
  __References in Text__ 
 
     [Section 8216 of this title][/us/usc/t42/s8216], referred to in par. (3), was omitted from the Code pursuant to [section 8229 of this title][/us/usc/t42/s8229], which terminated authority under that section June 30, 1989.
 
-    [Section 8281 of this title][/us/usc/t42/s8281], referred to in par. (3), was repealed by [Pub. L. 99–412, title II, § 201(a)][/us/pl/99/412/s201/a], Aug. 28, 1986, [100 Stat. 943][/us/stat/100/943].
+    [Section 8281 of this title][/us/usc/t42/s8281], referred to in par. (3), was repealed by [Pub. L. 99–412, title II][/us/pl/99/412/tII], § 201(a), Aug. 28, 1986, [100 Stat. 943][/us/stat/100/943].
 
 ----------
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/96/294/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs582
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F761
 [/us/usc/t42/s8216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8216
 [/us/usc/t42/s8229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8229
 [/us/usc/t42/s8281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8281
-[/us/pl/99/412/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F412%2Fs201%2Fa
+[/us/pl/99/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F412%2FtII
 [/us/stat/100/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F943
 
 

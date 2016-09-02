@@ -805,13 +805,13 @@
 
             The Board shall make recommendations submitted to Congress and the President under this subsection available to the public.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1899A, as added and amended [Pub. L. 111–148, title III, § 3403(a)(1)][/us/pl/111/148/s3403/a/1], title X, § 10320(a), (b), Mar. 23, 2010, [124 Stat. 489][/us/stat/124/489], 949, 952.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1899A, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3403(a)(1), title X, § 10320(a), (b), Mar. 23, 2010, [124 Stat. 489][/us/stat/124/489], 949, 952.)
 
  __References in Text__ 
 
     The Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(A)(iii), is [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 119][/us/stat/124/119]. Section 3401 of the Act amended sections 1395f, 1395l, 1395m, 1395u, 1395rr, 1395ww, 1395yy, and 1395fff of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title][/us/usc/t42/s18001] and Tables.
 
-    [Section 1395w–23(n) of this title][/us/usc/t42/s1395w–23/n], referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses for Medicare Advantage plans, was repealed by [Pub. L. 111–152, title I, § 1102(a)][/us/pl/111/152/s1102/a], Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040].
+    [Section 1395w–23(n) of this title][/us/usc/t42/s1395w–23/n], referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses for Medicare Advantage plans, was repealed by [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1102(a), Mar. 30, 2010, [124 Stat. 1040][/us/stat/124/1040].
 
     Section 1899A of the Social Security Act, referred to in subsecs. (e)(3)(A)(i), (f)(1)(C), (D), is section 1899A of act Aug. 14, 1935, which is classified to this section.
 
@@ -825,47 +825,47 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1)(B). [Pub. L. 111–148, § 10320(a)(1)(A)][/us/pl/111/148/s10320/a/1/A], inserted at end “In any year (beginning with 2014) that the Board is not required to submit a proposal under this section, the Board shall submit to Congress an advisory report on matters related to the Medicare program.”
+    2010—Subsec. (c)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(A), inserted at end “In any year (beginning with 2014) that the Board is not required to submit a proposal under this section, the Board shall submit to Congress an advisory report on matters related to the Medicare program.”
 
-    Subsec. (c)(2)(A)(iv). [Pub. L. 111–148, § 10320(a)(1)(B)(i)][/us/pl/111/148/s10320/a/1/B/i], inserted “or the full premium subsidy under [section 1395w–114(a) of this title][/us/usc/t42/s1395w–114/a]” before period at end of the last sentence.
+    Subsec. (c)(2)(A)(iv). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(B)(i), inserted “or the full premium subsidy under [section 1395w–114(a) of this title][/us/usc/t42/s1395w–114/a]” before period at end of the last sentence.
 
-    Subsec. (c)(2)(A)(vii). [Pub. L. 111–148, § 10320(a)(1)(B)(ii)][/us/pl/111/148/s10320/a/1/B/ii], added cl. (vii).
+    Subsec. (c)(2)(A)(vii). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(B)(ii), added cl. (vii).
 
-    Subsec. (c)(2)(B)(vii). [Pub. L. 111–148, § 10320(a)(1)(C)][/us/pl/111/148/s10320/a/1/C], added cl. (vii).
+    Subsec. (c)(2)(B)(vii). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(C), added cl. (vii).
 
-    Subsec. (c)(3). [Pub. L. 111–148, § 10320(a)(1)(D)(i)][/us/pl/111/148/s10320/a/1/D/i], substituted “Submission of Board proposal to Congress and the President” for “Transmission of Board proposal to President” in heading.
+    Subsec. (c)(3). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(D)(i), substituted “Submission of Board proposal to Congress and the President” for “Transmission of Board proposal to President” in heading.
 
-    Subsec. (c)(3)(A)(i). [Pub. L. 111–148, § 10320(a)(1)(D)(ii)][/us/pl/111/148/s10320/a/1/D/ii], substituted “submit a proposal under this section to Congress and the President” for “transmit a proposal under this section to the President”.
+    Subsec. (c)(3)(A)(i). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(D)(ii), substituted “submit a proposal under this section to Congress and the President” for “transmit a proposal under this section to the President”.
 
-    Subsec. (c)(3)(A)(ii). [Pub. L. 111–148, § 10320(a)(1)(D)(iii)][/us/pl/111/148/s10320/a/1/D/iii], inserted “or” at end of subcl. (I), substituted a period for “; or” at end of subcl. (II), and struck out subcl. (III), which read as follows: “for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare & Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i).”
+    Subsec. (c)(3)(A)(ii). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(D)(iii), inserted “or” at end of subcl. (I), substituted a period for “; or” at end of subcl. (II), and struck out subcl. (III), which read as follows: “for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare & Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i).”
 
-    Subsec. (c)(4). [Pub. L. 111–148, § 10320(a)(1)(E)][/us/pl/111/148/s10320/a/1/E], struck out “the Board under paragraph (3)(A)(i) or” before “the Secretary” and substituted “within 2 days” for “immediately”.
+    Subsec. (c)(4). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(E), struck out “the Board under paragraph (3)(A)(i) or” before “the Secretary” and substituted “within 2 days” for “immediately”.
 
-    Subsec. (c)(5). [Pub. L. 111–148, § 10320(a)(1)(F)][/us/pl/111/148/s10320/a/1/F], in introductory provisions, substituted “but” for “to but” and inserted “Congress and” after “submit a proposal to”.
+    Subsec. (c)(5). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(F), in introductory provisions, substituted “but” for “to but” and inserted “Congress and” after “submit a proposal to”.
 
-    Subsec. (c)(6)(B)(i). [Pub. L. 111–148, § 10320(a)(1)(G)][/us/pl/111/148/s10320/a/1/G], substituted “(calculated as the sum of per capita spending under each of parts A, B, and D)” for “per unduplicated enrollee”.
+    Subsec. (c)(6)(B)(i). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(1)(G), substituted “(calculated as the sum of per capita spending under each of parts A, B, and D)” for “per unduplicated enrollee”.
 
-    Subsec. (d)(1)(A). [Pub. L. 111–148, § 10320(a)(2)(A)][/us/pl/111/148/s10320/a/2/A], inserted “the Board or” after “a proposal is submitted by” and “subsection (c)(3)(A)(i) or” after “the Senate under”.
+    Subsec. (d)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(2)(A), inserted “the Board or” after “a proposal is submitted by” and “subsection (c)(3)(A)(i) or” after “the Senate under”.
 
-    Subsec. (d)(2)(A). [Pub. L. 111–148, § 10320(a)(2)(B)][/us/pl/111/148/s10320/a/2/B], inserted “the Board or” after “a proposal is submitted by”.
+    Subsec. (d)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(2)(B), inserted “the Board or” after “a proposal is submitted by”.
 
-    Subsec. (e)(1). [Pub. L. 111–148, § 10320(a)(3)(A)][/us/pl/111/148/s10320/a/3/A], inserted “the Board or” after “a proposal submitted by”.
+    Subsec. (e)(1). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(3)(A), inserted “the Board or” after “a proposal submitted by”.
 
-    Subsec. (e)(3). [Pub. L. 111–148, § 10320(a)(3)(B)][/us/pl/111/148/s10320/a/3/B], substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+    Subsec. (e)(3). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(3)(B), substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
-    Subsec. (f)(3)(B). [Pub. L. 111–148, § 10320(a)(4)][/us/pl/111/148/s10320/a/4], substituted “, advisory reports, or advisory recommendations” for “or advisory reports to Congress” and inserted “or produce the public report under subsection (n)” after “this section”.
+    Subsec. (f)(3)(B). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(4), substituted “, advisory reports, or advisory recommendations” for “or advisory reports to Congress” and inserted “or produce the public report under subsection (n)” after “this section”.
 
-    Subsecs. (n), (o). [Pub. L. 111–148, § 10320(a)(5)][/us/pl/111/148/s10320/a/5], added subsecs. (n) and (o).
+    Subsecs. (n), (o). [Pub. L. 111–148][/us/pl/111/148], § 10320(a)(5), added subsecs. (n) and (o).
 
  __Change of Name__ 
 
-[Pub. L. 111–148, title X, § 10320(b)][/us/pl/111/148/s10320/b], Mar. 23, 2010, [124 Stat. 952][/us/stat/124/952], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10320(b), Mar. 23, 2010, [124 Stat. 952][/us/stat/124/952], provided that: 
 
 > “Any reference in the provisions of, or amendments made by, section 3403 \[enacting this section and [section 1395kkk–1 of this title][/us/usc/t42/s1395kkk–1] and amending [section 1395b–6 of this title][/us/usc/t42/s1395b–6] and [section 207 of Title 18][/us/usc/t18/s207], Crimes and Criminal Procedure\] to the ‘Independent Medicare Advisory Board’ shall be deemed to be a reference to the ‘Independent Payment Advisory Board’.”
 
  __Construction__ 
 
-[Pub. L. 111–148, title X, § 10320(c)][/us/pl/111/148/s10320/c], Mar. 23, 2010, [124 Stat. 952][/us/stat/124/952], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10320(c), Mar. 23, 2010, [124 Stat. 952][/us/stat/124/952], provided that: 
 
 > “Nothing in the amendments made by this section \[amending this section\] shall preclude the Independent Medicare Advisory Board \[now Independent Payment Advisory Board\], as established under section 1899A of the Social Security Act (as added by section 3403) \[[42 U.S.C. 1395kkk][/us/usc/t42/s1395kkk]\], from solely using data from public or private sources to carry out the amendments made by subsection (a)(4).”
 
@@ -896,13 +896,13 @@
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1395aaa/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa%2Fb%2F7%2FB
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s3403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3403%2Fa%2F1
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F489
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
 [/us/usc/t42/s1395w–23/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323%2Fn
-[/us/pl/111/152/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fa
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1040
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F298
@@ -912,29 +912,29 @@
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/148/s10320/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FA
-[/us/pl/111/148/s10320/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FB%2Fi
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1395w–114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114%2Fa
-[/us/pl/111/148/s10320/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FB%2Fii
-[/us/pl/111/148/s10320/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FC
-[/us/pl/111/148/s10320/a/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FD%2Fi
-[/us/pl/111/148/s10320/a/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FD%2Fii
-[/us/pl/111/148/s10320/a/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FD%2Fiii
-[/us/pl/111/148/s10320/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FE
-[/us/pl/111/148/s10320/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FF
-[/us/pl/111/148/s10320/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F1%2FG
-[/us/pl/111/148/s10320/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F2%2FA
-[/us/pl/111/148/s10320/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F2%2FB
-[/us/pl/111/148/s10320/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F3%2FA
-[/us/pl/111/148/s10320/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F3%2FB
-[/us/pl/111/148/s10320/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F4
-[/us/pl/111/148/s10320/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fa%2F5
-[/us/pl/111/148/s10320/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F952
 [/us/usc/t42/s1395kkk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk%E2%80%931
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/pl/111/148/s10320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10320%2Fc
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F952
 [/us/usc/t42/s1395kkk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk
 

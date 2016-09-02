@@ -215,15 +215,15 @@
 
             (B) An extension granted under this paragraph shall set forth emission limits and a compliance schedule containing increments of progress which require compliance with the applicable standards of performance as expeditiously as practicable and include such measures as are necessary and practicable in the interim to minimize emissions. Such schedule shall be treated as a standard of performance for purposes of subsection (e) of this section and [section 7413 of this title][/us/usc/t42/s7413].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 111, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1683][/us/stat/84/1683]; amended [Pub. L. 92–157, title III, § 302(f)][/us/pl/92/157/s302/f], Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 95–95, title I, § 109(a)][/us/pl/95/95/s109/a]–(d)(1), (e), (f), title IV, § 401(b), Aug. 7, 1977, [91 Stat. 697–703][/us/stat/91/697-703], 791; [Pub. L. 95–190, § 14(a)(7)][/us/pl/95/190/s14/a/7]–(9), Nov. 16, 1977, [91 Stat. 1399][/us/stat/91/1399]; [Pub. L. 95–623, § 13(a)][/us/pl/95/623/s13/a], Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457]; [Pub. L. 101–549, title I, § 108(e)][/us/pl/101/549/s108/e]–(g), title III, § 302(a), (b), title IV, § 403(a), Nov. 15, 1990, [104 Stat. 2467][/us/stat/104/2467], 2574, 2631.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 111, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1683][/us/stat/84/1683]; amended [Pub. L. 92–157, title III][/us/pl/92/157/tIII], § 302(f), Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 109(a)–(d)(1), (e), (f), title IV, § 401(b), Aug. 7, 1977, [91 Stat. 697–703][/us/stat/91/697-703], 791; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(7)–(9), Nov. 16, 1977, [91 Stat. 1399][/us/stat/91/1399]; [Pub. L. 95–623][/us/pl/95/623], § 13(a), Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 108(e)–(g), title III, § 302(a), (b), title IV, § 403(a), Nov. 15, 1990, [104 Stat. 2467][/us/stat/104/2467], 2574, 2631.)
 
  __References in Text__ 
 
     Such Act, referred to in subsec. (a)(8), means [Pub. L. 93–319][/us/pl/93/319], June 22, 1974, [88 Stat. 246][/us/stat/88/246], as amended, known as the Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15][/us/usc/t15/s791] and Tables.
 
-    [Section 7413 of this title][/us/usc/t42/s7413], referred to in subsec. (a)(8), was amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
+    [Section 7413 of this title][/us/usc/t42/s7413], referred to in subsec. (a)(8), was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
 
-    Subsection (a)(1) of this section, referred to in subsec. (b)(6), was amended generally by [Pub. L. 101–549, title VII, § 403(a)][/us/pl/101/549/s403/a], Nov. 15, 1990, [104 Stat. 2631][/us/stat/104/2631], and, as so amended, no longer contains subpars.
+    Subsection (a)(1) of this section, referred to in subsec. (b)(6), was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 403(a), Nov. 15, 1990, [104 Stat. 2631][/us/stat/104/2631], and, as so amended, no longer contains subpars.
 
  __Codification__ 
 
@@ -235,55 +235,55 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1). [Pub. L. 101–549, § 403(a)][/us/pl/101/549/s403/a], amended par. (1) generally, substituting provisions defining “standard of performance” with respect to any air pollutant for provisions defining such term with respect to subsec. (b) fossil fuel fired and other stationary sources and subsec. (d) particular sources.
+    1990—Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 403(a), amended par. (1) generally, substituting provisions defining “standard of performance” with respect to any air pollutant for provisions defining such term with respect to subsec. (b) fossil fuel fired and other stationary sources and subsec. (d) particular sources.
 
-    Subsec. (a)(3). [Pub. L. 101–549, § 108(f)][/us/pl/101/549/s108/f], inserted at end “Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.”
+    Subsec. (a)(3). [Pub. L. 101–549][/us/pl/101/549], § 108(f), inserted at end “Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.”
 
-    Subsec. (b)(1)(B). [Pub. L. 101–549, § 108(e)(1)][/us/pl/101/549/s108/e/1], substituted “Within one year” for “Within 120 days”, “within one year” for “within 90 days”, and “every 8 years” for “every four years”, inserted before last sentence “Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard.”, and inserted at end “When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.”
+    Subsec. (b)(1)(B). [Pub. L. 101–549][/us/pl/101/549], § 108(e)(1), substituted “Within one year” for “Within 120 days”, “within one year” for “within 90 days”, and “every 8 years” for “every four years”, inserted before last sentence “Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard.”, and inserted at end “When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.”
 
-    Subsec. (d)(1)(A)(i). [Pub. L. 101–549, § 302(a)][/us/pl/101/549/s302/a], which directed the substitution of “7412(b)” for “7412(b)(1)(A)”, could not be executed, because of the prior amendment by [Pub. L. 101–549, § 108(g)][/us/pl/101/549/s108/g], see below.
+    Subsec. (d)(1)(A)(i). [Pub. L. 101–549][/us/pl/101/549], § 302(a), which directed the substitution of “7412(b)” for “7412(b)(1)(A)”, could not be executed, because of the prior amendment by [Pub. L. 101–549][/us/pl/101/549], § 108(g), see below.
 
-    [Pub. L. 101–549, § 108(g)][/us/pl/101/549/s108/g], substituted “or emitted from a source category which is regulated under [section 7412 of this title][/us/usc/t42/s7412]” for “or 7412(b)(1)(A)”.
+    [Pub. L. 101–549][/us/pl/101/549], § 108(g), substituted “or emitted from a source category which is regulated under [section 7412 of this title][/us/usc/t42/s7412]” for “or 7412(b)(1)(A)”.
 
-    Subsec. (f)(1). [Pub. L. 101–549, § 108(e)(2)][/us/pl/101/549/s108/e/2], amended par. (1) generally, substituting present provisions for provisions requiring the Administrator to promulgate regulations listing the categories of major stationary sources not on the required list by Aug. 7, 1977, and regulations establishing standards of performance for such categories.
+    Subsec. (f)(1). [Pub. L. 101–549][/us/pl/101/549], § 108(e)(2), amended par. (1) generally, substituting present provisions for provisions requiring the Administrator to promulgate regulations listing the categories of major stationary sources not on the required list by Aug. 7, 1977, and regulations establishing standards of performance for such categories.
 
-    Subsec. (g)(5) to (8). [Pub. L. 101–549, § 302(b)][/us/pl/101/549/s302/b], redesignated par. (7) as (5) and struck out “or [section 7412 of this title][/us/usc/t42/s7412]” after “this section”, redesignated par. (8) as (6), and struck out former pars. (5) and (6) which read as follows:
+    Subsec. (g)(5) to (8). [Pub. L. 101–549][/us/pl/101/549], § 302(b), redesignated par. (7) as (5) and struck out “or [section 7412 of this title][/us/usc/t42/s7412]” after “this section”, redesignated par. (8) as (6), and struck out former pars. (5) and (6) which read as follows:
 
     “(5) Upon application by the Governor of a State showing that the Administrator has failed to list any air pollutant which causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness as a hazardous air pollutant under [section 7412 of this title][/us/usc/t42/s7412] the Administrator shall revise the list of hazardous air pollutants under such section to include such pollutant.
 
     “(6) Upon application by the Governor of a State showing that any category of stationary sources of a hazardous air pollutant listed under [section 7412 of this title][/us/usc/t42/s7412] is not subject to emission standards under such section, the Administrator shall propose and promulgate such emission standards applicable to such category of sources.”
 
-    1978—Subsecs. (d)(1)(A)(ii), (g)(4)(B). [Pub. L. 95–623, § 13(a)(2)][/us/pl/95/623/s13/a/2], substituted “under this section” for “under subsection (b) of this section”.
+    1978—Subsecs. (d)(1)(A)(ii), (g)(4)(B). [Pub. L. 95–623][/us/pl/95/623], § 13(a)(2), substituted “under this section” for “under subsection (b) of this section”.
 
-    Subsec. (h)(5). [Pub. L. 95–623, § 13(a)(1)][/us/pl/95/623/s13/a/1], added par. (5).
+    Subsec. (h)(5). [Pub. L. 95–623][/us/pl/95/623], § 13(a)(1), added par. (5).
 
-    Subsec. (j). [Pub. L. 95–623, § 13(a)(3)][/us/pl/95/623/s13/a/3], substituted in pars. (1)(A) and (2)(A) “standards under this section” and “under this section” for “standards under subsection (b) of this section” and “under subsection (b) of this section”, respectively.
+    Subsec. (j). [Pub. L. 95–623][/us/pl/95/623], § 13(a)(3), substituted in pars. (1)(A) and (2)(A) “standards under this section” and “under this section” for “standards under subsection (b) of this section” and “under subsection (b) of this section”, respectively.
 
-    1977—Subsec. (a)(1). [Pub. L. 95–95, § 109(c)(1)(A)][/us/pl/95/95/s109/c/1/A], added subpars. (A), (B), and (C), substituted “For the purpose of subparagraphs (A)(i) and (ii) and (B), a standard of performance shall reflect” for “a standard for emissions of air pollutants which reflects”, “and the percentage reduction achievable” for “achievable”, and “technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any nonair quality health and environment impact and energy requirements)” for “system of emission reduction which (taking into account the cost of achieving such reduction)” in existing provisions, and inserted provision that, for the purpose of subparagraph (1)(A)(ii), any cleaning of the fuel or reduction in the pollution characteristics of the fuel after extraction and prior to combustion may be credited, as determined under regulations promulgated by the Administrator, to a source which burns such fuel.
+    1977—Subsec. (a)(1). [Pub. L. 95–95][/us/pl/95/95], § 109(c)(1)(A), added subpars. (A), (B), and (C), substituted “For the purpose of subparagraphs (A)(i) and (ii) and (B), a standard of performance shall reflect” for “a standard for emissions of air pollutants which reflects”, “and the percentage reduction achievable” for “achievable”, and “technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any nonair quality health and environment impact and energy requirements)” for “system of emission reduction which (taking into account the cost of achieving such reduction)” in existing provisions, and inserted provision that, for the purpose of subparagraph (1)(A)(ii), any cleaning of the fuel or reduction in the pollution characteristics of the fuel after extraction and prior to combustion may be credited, as determined under regulations promulgated by the Administrator, to a source which burns such fuel.
 
-    Subsec. (a)(7). [Pub. L. 95–95, § 109(c)(1)(B)][/us/pl/95/95/s109/c/1/B], added par. (7) defining “technological system of continuous emission reduction”.
+    Subsec. (a)(7). [Pub. L. 95–95][/us/pl/95/95], § 109(c)(1)(B), added par. (7) defining “technological system of continuous emission reduction”.
 
-    [Pub. L. 95–95, § 109(f)][/us/pl/95/95/s109/f], added par. (7) directing that under certain circumstances a conversion to coal not be deemed a modification for purposes of pars. (2) and (4).
+    [Pub. L. 95–95][/us/pl/95/95], § 109(f), added par. (7) directing that under certain circumstances a conversion to coal not be deemed a modification for purposes of pars. (2) and (4).
 
-    Subsec. (a)(7), (8). [Pub. L. 95–190, § 14(a)(7)][/us/pl/95/190/s14/a/7], redesignated second par. (7) as (8).
+    Subsec. (a)(7), (8). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(7), redesignated second par. (7) as (8).
 
-    Subsec. (b)(1)(A). [Pub. L. 95–95, § 401(b)][/us/pl/95/95/s401/b], substituted “such list if in his judgment it causes, or contributes significantly to, air pollution which may reasonably be anticipated to endanger” for “such list if he determines it may contribute significantly to air pollution which causes or contributes to the endangerment of”.
+    Subsec. (b)(1)(A). [Pub. L. 95–95][/us/pl/95/95], § 401(b), substituted “such list if in his judgment it causes, or contributes significantly to, air pollution which may reasonably be anticipated to endanger” for “such list if he determines it may contribute significantly to air pollution which causes or contributes to the endangerment of”.
 
-    Subsec. (b)(1)(B). [Pub. L. 95–95, § 109(c)(2)][/us/pl/95/95/s109/c/2], substituted “shall, at least every four years, review and, if appropriate,” for “may, from time to time,”.
+    Subsec. (b)(1)(B). [Pub. L. 95–95][/us/pl/95/95], § 109(c)(2), substituted “shall, at least every four years, review and, if appropriate,” for “may, from time to time,”.
 
-    Subsec. (b)(5), (6). [Pub. L. 95–95, § 109(c)(3)][/us/pl/95/95/s109/c/3], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 95–95][/us/pl/95/95], § 109(c)(3), added pars. (5) and (6).
 
-    Subsec. (c)(1). [Pub. L. 95–95, § 109(d)(1)][/us/pl/95/95/s109/d/1], struck out “(except with respect to new sources owned or operated by the United States)” after “implement and enforce such standards”.
+    Subsec. (c)(1). [Pub. L. 95–95][/us/pl/95/95], § 109(d)(1), struck out “(except with respect to new sources owned or operated by the United States)” after “implement and enforce such standards”.
 
-    Subsec. (d)(1). [Pub. L. 95–95, § 109(b)(1)][/us/pl/95/95/s109/b/1], substituted “standards of performance” for “emission standards” and inserted provisions directing that regulations of the Administrator permit the State, in applying a standard of performance to any particular source under a submitted plan, to take into consideration, among other factors, the remaining useful life of the existing source to which the standard applies.
+    Subsec. (d)(1). [Pub. L. 95–95][/us/pl/95/95], § 109(b)(1), substituted “standards of performance” for “emission standards” and inserted provisions directing that regulations of the Administrator permit the State, in applying a standard of performance to any particular source under a submitted plan, to take into consideration, among other factors, the remaining useful life of the existing source to which the standard applies.
 
-    Subsec. (d)(2). [Pub. L. 95–95, § 109(b)(2)][/us/pl/95/95/s109/b/2], provided that, in promulgating a standard of performance under a plan, the Administrator take into consideration, among other factors, the remaining useful lives of the sources in the category of sources to which the standard applies.
+    Subsec. (d)(2). [Pub. L. 95–95][/us/pl/95/95], § 109(b)(2), provided that, in promulgating a standard of performance under a plan, the Administrator take into consideration, among other factors, the remaining useful lives of the sources in the category of sources to which the standard applies.
 
-    Subsecs. (f) to (i). [Pub. L. 95–95, § 109(a)][/us/pl/95/95/s109/a], added subsecs. (f) to (i).
+    Subsecs. (f) to (i). [Pub. L. 95–95][/us/pl/95/95], § 109(a), added subsecs. (f) to (i).
 
-    Subsecs. (j), (k). [Pub. L. 95–190, § 14(a)(8)][/us/pl/95/190/s14/a/8], (9), redesignated subsec. (k) as (j) and, as so redesignated, substituted “(B)” for “(8)” as designation for second subpar. in par. (2). Former subsec. (j), added by [Pub. L. 95–95, § 109(e)][/us/pl/95/95/s109/e], which related to compliance with applicable standards of performance, was struck out.
+    Subsecs. (j), (k). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(8), (9), redesignated subsec. (k) as (j) and, as so redesignated, substituted “(B)” for “(8)” as designation for second subpar. in par. (2). Former subsec. (j), added by [Pub. L. 95–95][/us/pl/95/95], § 109(e), which related to compliance with applicable standards of performance, was struck out.
 
-    [Pub. L. 95–95, § 109(e)][/us/pl/95/95/s109/e], added subsec. (k).
+    [Pub. L. 95–95][/us/pl/95/95], § 109(e), added subsec. (k).
 
     1971—Subsec. (b)(1)(B). [Pub. L. 92–157][/us/pl/92/157] substituted in first sentence “publish proposed” for “propose”.
 
@@ -293,7 +293,7 @@
 
  __Regulations__ 
 
-[Pub. L. 101–549, title IV, § 403(b)][/us/pl/101/549/s403/b], (c), Nov. 15, 1990, [104 Stat. 2631][/us/stat/104/2631], provided that:
+[Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 403(b), (c), Nov. 15, 1990, [104 Stat. 2631][/us/stat/104/2631], provided that:
 
 >     “(b)  __Revised Regulations__  __.—__ 
 
@@ -385,63 +385,63 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1683
-[/us/pl/92/157/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs302%2Ff
+[/us/pl/92/157/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtIII
 [/us/stat/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F464
-[/us/pl/95/95/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/697-703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F697-703
-[/us/pl/95/190/s14/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F7
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1399
-[/us/pl/95/623/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs13%2Fa
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3457
-[/us/pl/101/549/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fe
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2467
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F246
 [/us/usc/t15/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs791
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
-[/us/pl/101/549/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs403%2Fa
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2631
 [/us/usc/t42/s1857c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%936
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7418
-[/us/pl/101/549/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs403%2Fa
-[/us/pl/101/549/s108/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Ff
-[/us/pl/101/549/s108/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fe%2F1
-[/us/pl/101/549/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fa
-[/us/pl/101/549/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fg
-[/us/pl/101/549/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fg
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
-[/us/pl/101/549/s108/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fe%2F2
-[/us/pl/101/549/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fb
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
-[/us/pl/95/623/s13/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs13%2Fa%2F2
-[/us/pl/95/623/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs13%2Fa%2F1
-[/us/pl/95/623/s13/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs13%2Fa%2F3
-[/us/pl/95/95/s109/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fc%2F1%2FA
-[/us/pl/95/95/s109/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fc%2F1%2FB
-[/us/pl/95/95/s109/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Ff
-[/us/pl/95/190/s14/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F7
-[/us/pl/95/95/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs401%2Fb
-[/us/pl/95/95/s109/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fc%2F2
-[/us/pl/95/95/s109/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fc%2F3
-[/us/pl/95/95/s109/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fd%2F1
-[/us/pl/95/95/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fb%2F1
-[/us/pl/95/95/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fb%2F2
-[/us/pl/95/95/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fa
-[/us/pl/95/190/s14/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F8
-[/us/pl/95/95/s109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fe
-[/us/pl/95/95/s109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fe
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/92/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/101/549/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs403%2Fb
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2631
 [/us/usc/t42/s7651b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651b%2Fe
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373

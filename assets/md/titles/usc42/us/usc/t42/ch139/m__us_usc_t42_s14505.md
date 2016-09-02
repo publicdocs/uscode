@@ -51,7 +51,7 @@
 
         in excess of $500 per year, and such term includes a volunteer serving as a director, officer, trustee, or direct service volunteer.
 
-([Pub. L. 105–19, § 6][/us/pl/105/19/s6], June 18, 1997, [111 Stat. 221][/us/stat/111/221].)
+([Pub. L. 105–19][/us/pl/105/19], § 6, June 18, 1997, [111 Stat. 221][/us/stat/111/221].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/105/19/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19%2Fs6
+[/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F221
 [/us/pl/101/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F275
 [/us/stat/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F140

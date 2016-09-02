@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–154, § 1(b)(7)][/us/pl/110/154/s1/b/7], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827], substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development” in subpart heading.
+    2007—[Pub. L. 110–154][/us/pl/110/154], § 1(b)(7), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827], substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development” in subpart heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/154/s1/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fb%2F7
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 
 

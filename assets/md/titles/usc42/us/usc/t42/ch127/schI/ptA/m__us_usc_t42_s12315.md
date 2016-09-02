@@ -45,7 +45,7 @@
 
         Of the aggregate amount appropriated to carry out this chapter in any fiscal year, the Secretary may reserve not more than 10 percent for salaries and expenses of the Administration on Children, Youth, and Families related to the administration of this chapter.
 
-([Pub. L. 101–501, title IX, § 919][/us/pl/101/501/s919], Nov. 3, 1990, [104 Stat. 1267][/us/stat/104/1267].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 919, Nov. 3, 1990, [104 Stat. 1267][/us/stat/104/1267].)
 
  __Change of Name__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs919
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1267
 
 

@@ -117,35 +117,35 @@
 
         (2) A determination by the Secretary under this section that a violation of subsection (a) of this section has not occurred shall not be considered by the Commission or the Department of Energy in its determination of whether a substantial safety hazard exists.
 
-([Pub. L. 93–438, title II, § 211][/us/pl/93/438/s211], formerly § 210, as added [Pub. L. 95–601, § 10][/us/pl/95/601/s10], Nov. 6, 1978, [92 Stat. 2951][/us/stat/92/2951]; renumbered § 211 and amended [Pub. L. 102–486, title XXIX, § 2902(a)][/us/pl/102/486/s2902/a]–(g), (h)(2), (3), Oct. 24, 1992, [106 Stat. 3123][/us/stat/106/3123], 3124; [Pub. L. 109–58, title VI, § 629][/us/pl/109/58/s629], Aug. 8, 2005, [119 Stat. 785][/us/stat/119/785].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 211, formerly § 210, as added [Pub. L. 95–601][/us/pl/95/601], § 10, Nov. 6, 1978, [92 Stat. 2951][/us/stat/92/2951]; renumbered § 211 and amended [Pub. L. 102–486, title XXIX][/us/pl/102/486/tXXIX], § 2902(a)–(g), (h)(2), (3), Oct. 24, 1992, [106 Stat. 3123][/us/stat/106/3123], 3124; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 629, Aug. 8, 2005, [119 Stat. 785][/us/stat/119/785].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(1) and (g), was in the original “this Act”, meaning [Pub. L. 93–438][/us/pl/93/438], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title][/us/usc/t42/s5801] and Tables.
 
-    The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
     Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, which is set out as a note under [section 2511 of Title 50][/us/usc/t50/s2511], War and National Defense.
 
  __Amendments__ 
 
-    2005—Subsec. (a)(2)(E) to (G). [Pub. L. 109–58, § 629(a)][/us/pl/109/58/s629/a], added subpars. (E) to (G).
+    2005—Subsec. (a)(2)(E) to (G). [Pub. L. 109–58][/us/pl/109/58], § 629(a), added subpars. (E) to (G).
 
-    Subsec. (b)(4). [Pub. L. 109–58, § 629(b)][/us/pl/109/58/s629/b], added par. (4).
+    Subsec. (b)(4). [Pub. L. 109–58][/us/pl/109/58], § 629(b), added par. (4).
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 2902(a)][/us/pl/102/486/s2902/a], designated existing provisions as par. (1) and struck out “, including a Commission licensee, an applicant for a Commission license, or a contractor or a subcontractor of a Commission licensee or applicant,” after “No employer”, added subpars. (A) to (C), redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively, and added par. (2).
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 2902(a), designated existing provisions as par. (1) and struck out “, including a Commission licensee, an applicant for a Commission license, or a contractor or a subcontractor of a Commission licensee or applicant,” after “No employer”, added subpars. (A) to (C), redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 102–486, § 2902(b)][/us/pl/102/486/s2902/b], (h)(2), substituted “180” for “thirty”, “(in this section referred to as the ‘Secretary’)” for “(hereinafter in this subsection referred to as the ‘Secretary’)”, and “, the Commission, and the Department of Energy” for “and the Commission”.
+    Subsec. (b)(1). [Pub. L. 102–486][/us/pl/102/486], § 2902(b), (h)(2), substituted “180” for “thirty”, “(in this section referred to as the ‘Secretary’)” for “(hereinafter in this subsection referred to as the ‘Secretary’)”, and “, the Commission, and the Department of Energy” for “and the Commission”.
 
-    Subsec. (b)(2)(A). [Pub. L. 102–486, § 2902(c)][/us/pl/102/486/s2902/c], inserted before last sentence “Upon the conclusion of such hearing and the issuance of a recommended decision that the complaint has merit, the Secretary shall issue a preliminary order providing the relief prescribed in subparagraph (B), but may not order compensatory damages pending a final order.”
+    Subsec. (b)(2)(A). [Pub. L. 102–486][/us/pl/102/486], § 2902(c), inserted before last sentence “Upon the conclusion of such hearing and the issuance of a recommended decision that the complaint has merit, the Secretary shall issue a preliminary order providing the relief prescribed in subparagraph (B), but may not order compensatory damages pending a final order.”
 
-    Subsec. (b)(3). [Pub. L. 102–486, § 2902(d)][/us/pl/102/486/s2902/d], added par. (3).
+    Subsec. (b)(3). [Pub. L. 102–486][/us/pl/102/486], § 2902(d), added par. (3).
 
-    Subsecs. (h) to (j). [Pub. L. 102–486, § 2902(e)][/us/pl/102/486/s2902/e]–(g), added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 102–486][/us/pl/102/486], § 2902(e)–(g), added subsecs. (h) to (j).
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XXIX, § 2902(i)][/us/pl/102/486/s2902/i], Oct. 24, 1992, [106 Stat. 3125][/us/stat/106/3125], provided that: 
+[Pub. L. 102–486, title XXIX][/us/pl/102/486/tXXIX], § 2902(i), Oct. 24, 1992, [106 Stat. 3125][/us/stat/106/3125], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to claims filed under section 211(b)(1) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5851(b)(1)][/us/usc/t42/s5851/b/1]) on or after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
@@ -165,29 +165,29 @@
 [/us/usc/t42/s2210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210%2Fd
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/93/438/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs211
-[/us/pl/95/601/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs10
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
+[/us/pl/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601
 [/us/stat/92/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2951
-[/us/pl/102/486/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2902%2Fa
+[/us/pl/102/486/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIX
 [/us/stat/106/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3123
-[/us/pl/109/58/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs629
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F785
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
-[/us/pl/109/58/s629/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs629%2Fa
-[/us/pl/109/58/s629/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs629%2Fb
-[/us/pl/102/486/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2902%2Fa
-[/us/pl/102/486/s2902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2902%2Fb
-[/us/pl/102/486/s2902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2902%2Fc
-[/us/pl/102/486/s2902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2902%2Fd
-[/us/pl/102/486/s2902/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2902%2Fe
-[/us/pl/102/486/s2902/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2902%2Fi
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIX
 [/us/stat/106/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3125
 [/us/usc/t42/s5851/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5851%2Fb%2F1
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585

@@ -33,7 +33,7 @@
 
         (6) to carry out such additional duties assigned to the Office by the Secretary.
 
-([Pub. L. 95–91, title II, § 209][/us/pl/95/91/s209], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 105–245, title III, § 309(a)][/us/pl/105/245/s309/a], Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853]; [Pub. L. 109–58, title X, § 1006(c)(4)][/us/pl/109/58/s1006/c/4], Aug. 8, 2005, [119 Stat. 932][/us/stat/119/932].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 209, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 105–245, title III][/us/pl/105/245/tIII], § 309(a), Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1006(c)(4), Aug. 8, 2005, [119 Stat. 932][/us/stat/119/932].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/95/91/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs209
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/105/245/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2Fs309%2Fa
+[/us/pl/105/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2FtIII
 [/us/stat/112/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1853
-[/us/pl/109/58/s1006/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1006%2Fc%2F4
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F932
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s7133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7133

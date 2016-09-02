@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 616, [65 Stat. 317][/us/stat/65/317], prohibited from Sept. 1, 1951 to June 30, 1953, initiation of projects, and waiver or suspension of income limitations contained in United States Housing Act of 1937, pursuant to authorization contained in sections 1501 and 1505 of this title.
+    Section, [act Sept. 1, 1951, ch. 378, title VI][/us/act/1951-09-01/ch378/tVI], § 616, [65 Stat. 317][/us/stat/65/317], prohibited from Sept. 1, 1951 to June 30, 1953, initiation of projects, and waiver or suspension of income limitations contained in United States Housing Act of 1937, pursuant to authorization contained in sections 1501 and 1505 of this title.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
+[/us/act/1951-09-01/ch378/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378%2FtVI
 [/us/stat/65/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F317
 
 

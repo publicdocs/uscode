@@ -123,7 +123,7 @@
 
             (B) such sums as may be necessary for each of the 5 succeeding fiscal years.
 
-([Pub. L. 109–248, title I, § 143][/us/pl/109/248/s143], July 27, 2006, [120 Stat. 604][/us/stat/120/604].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 143, July 27, 2006, [120 Stat. 604][/us/stat/120/604].)
 
  __References in Text__ 
 
@@ -137,7 +137,7 @@
 ----------
 
 [/us/usc/t42/s5771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5771
-[/us/pl/109/248/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs143
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F604
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109

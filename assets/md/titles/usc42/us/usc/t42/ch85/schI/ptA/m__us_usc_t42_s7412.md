@@ -3447,15 +3447,15 @@
 
         (4) recommendations of the Chemical Safety and Hazard Investigation Board with respect to the prevention and mitigation of accidental releases.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 112, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1685][/us/stat/84/1685]; amended [Pub. L. 95–95, title I][/us/pl/95/95], §§ 109(d)(2), 110, title IV, § 401(c), Aug. 7, 1977, [91 Stat. 701][/us/stat/91/701], 703, 791; [Pub. L. 95–623, § 13(b)][/us/pl/95/623/s13/b], Nov. 9, 1978, [92 Stat. 3458][/us/stat/92/3458]; [Pub. L. 101–549, title III, § 301][/us/pl/101/549/s301], Nov. 15, 1990, [104 Stat. 2531][/us/stat/104/2531]; [Pub. L. 102–187][/us/pl/102/187], Dec. 4, 1991, [105 Stat. 1285][/us/stat/105/1285]; [Pub. L. 105–362, title IV, § 402(b)][/us/pl/105/362/s402/b], Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–40][/us/pl/106/40], §§ 2, 3(a), Aug. 5, 1999, [113 Stat. 207][/us/stat/113/207], 208.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 112, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1685][/us/stat/84/1685]; amended [Pub. L. 95–95, title I][/us/pl/95/95/tI], §§ 109(d)(2), 110, title IV, § 401(c), Aug. 7, 1977, [91 Stat. 701][/us/stat/91/701], 703, 791; [Pub. L. 95–623][/us/pl/95/623], § 13(b), Nov. 9, 1978, [92 Stat. 3458][/us/stat/92/3458]; [Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 301, Nov. 15, 1990, [104 Stat. 2531][/us/stat/104/2531]; [Pub. L. 102–187][/us/pl/102/187], Dec. 4, 1991, [105 Stat. 1285][/us/stat/105/1285]; [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 402(b), Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–40][/us/pl/106/40], §§ 2, 3(a), Aug. 5, 1999, [113 Stat. 207][/us/stat/113/207], 208.)
 
  __References in Text__ 
 
     The date of enactment, referred to in subsec. (a)(11), probably means the date of enactment of [Pub. L. 101–549][/us/pl/101/549], which amended this section generally and was approved Nov. 15, 1990.
 
-    The Atomic Energy Act, referred to in subsec. (d)(9), probably means the Atomic Energy Act of 1954, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act, referred to in subsec. (d)(9), probably means the Atomic Energy Act of 1954, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsecs. (e)(5) and (m)(1)(D), (5)(D), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§ 1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsecs. (e)(5) and (m)(1)(D), (5)(D), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§ 1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
     The Toxic Substances Control Act, referred to in subsec. (k)(3)(C), is [Pub. L. 94–469][/us/pl/94/469], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003], as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15][/us/usc/t15/s2601] and Tables.
 
@@ -3463,9 +3463,9 @@
 
     The Resource Conservation and Recovery Act, referred to in subsec. (k)(3)(C), probably means the Resource Conservation and Recovery Act of 1976, [Pub. L. 94–580][/us/pl/94/580], Oct. 21, 1976, [90 Stat. 2796][/us/stat/90/2796], as amended, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (m)(1)(D), (5)(D), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (m)(1)(D), (5)(D), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (n)(7), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (n)(7), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     Section 303 of the Clean Air Act Amendments of 1990, referred to in subsec. (o)(4), probably means [section 303 of Pub. L. 101–549][/us/pl/101/549/s303], which is set out below.
 
@@ -3477,21 +3477,21 @@
 
  __Codification__ 
 
-    In subsec. (r)(6)(N), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5] of the United States Code” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (r)(6)(N), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5] of the United States Code” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was formerly classified to section 1857c-7 of this title.
 
  __Amendments__ 
 
-    1999—Subsec. (r)(2)(D). [Pub. L. 106–40, § 2(5)][/us/pl/106/40/s2/5], added subpar. (D).
+    1999—Subsec. (r)(2)(D). [Pub. L. 106–40][/us/pl/106/40], § 2(5), added subpar. (D).
 
-    Subsec. (r)(4). [Pub. L. 106–40, § 2][/us/pl/106/40/s2], substituted “Administrator—
+    Subsec. (r)(4). [Pub. L. 106–40][/us/pl/106/40], § 2, substituted “Administrator—
 
     “(A) shall consider—”
 
     for “Administrator shall consider each of the following criteria—” in introductory provisions, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and added subpar. (B).
 
-    Subsec. (r)(7)(H). [Pub. L. 106–40, § 3(a)][/us/pl/106/40/s3/a], added subpar. (H).
+    Subsec. (r)(7)(H). [Pub. L. 106–40][/us/pl/106/40], § 3(a), added subpar. (H).
 
     1998—Subsec. (n)(2)(C). [Pub. L. 105–362][/us/pl/105/362] substituted “On completion of the study, the Secretary shall submit to Congress a report on the results of the study and” for “The Secretary shall prepare annual reports to Congress on the status of the research program and at the completion of the study”.
 
@@ -3501,11 +3501,11 @@
 
     1978—Subsec. (e)(5). [Pub. L. 95–623][/us/pl/95/623] added par. (5).
 
-    1977—Subsec. (a)(1). [Pub. L. 95–95, § 401(c)][/us/pl/95/95/s401/c], substituted “causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness” for “may cause, or contribute to, an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness”.
+    1977—Subsec. (a)(1). [Pub. L. 95–95][/us/pl/95/95], § 401(c), substituted “causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness” for “may cause, or contribute to, an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness”.
 
-    Subsec. (d)(1). [Pub. L. 95–95, § 109(d)(2)][/us/pl/95/95/s109/d/2], struck out “(except with respect to stationary sources owned or operated by the United States)” after “implement and enforce such standards”.
+    Subsec. (d)(1). [Pub. L. 95–95][/us/pl/95/95], § 109(d)(2), struck out “(except with respect to stationary sources owned or operated by the United States)” after “implement and enforce such standards”.
 
-    Subsec. (e). [Pub. L. 95–95, § 110][/us/pl/95/95/s110], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–95][/us/pl/95/95], § 110, added subsec. (e).
 
  __Change of Name__ 
 
@@ -3565,7 +3565,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
  __Reports__ 
 
-[Pub. L. 106–40, § 3(b)][/us/pl/106/40/s3/b], Aug. 5, 1999, [113 Stat. 213][/us/stat/113/213], provided that:
+[Pub. L. 106–40][/us/pl/106/40], § 3(b), Aug. 5, 1999, [113 Stat. 213][/us/stat/113/213], provided that:
 
 >     “(1)  __Definition of accidental release__  __.—__ 
 
@@ -3585,13 +3585,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
  __Reevaluation of Regulations__ 
 
-[Pub. L. 106–40, § 3(c)][/us/pl/106/40/s3/c], Aug. 5, 1999, [113 Stat. 213][/us/stat/113/213], provided that: 
+[Pub. L. 106–40][/us/pl/106/40], § 3(c), Aug. 5, 1999, [113 Stat. 213][/us/stat/113/213], provided that: 
 
 > “The President shall reevaluate the regulations promulgated under this section within 6 years after the enactment of this Act \[Aug. 5, 1999\]. If the President determines not to modify such regulations, the President shall publish a notice in the Federal Register stating that such reevaluation has been completed and that a determination has been made not to modify the regulations. Such notice shall include an explanation of the basis of such decision.”
 
  __Public Meeting During Moratorium Period__ 
 
-[Pub. L. 106–40, § 4][/us/pl/106/40/s4], Aug. 5, 1999, [113 Stat. 214][/us/stat/113/214], provided that:
+[Pub. L. 106–40][/us/pl/106/40], § 4, Aug. 5, 1999, [113 Stat. 214][/us/stat/113/214], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -3603,7 +3603,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
  __Risk Assessment and Management Commission__ 
 
-[Pub. L. 101–549, title III, § 303][/us/pl/101/549/s303], Nov. 15, 1990, [104 Stat. 2574][/us/stat/104/2574], provided that:
+[Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 303, Nov. 15, 1990, [104 Stat. 2574][/us/stat/104/2574], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -3751,27 +3751,27 @@ To address any concerns with respect to electric reliability while assuring MATS
 [/us/usc/t42/s300j–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%934
 [/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1685
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F701
-[/us/pl/95/623/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs13%2Fb
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3458
-[/us/pl/101/549/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs301
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2531
 [/us/pl/102/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F187
 [/us/stat/105/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1285
-[/us/pl/105/362/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs402%2Fb
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3283
 [/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
 [/us/stat/113/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F207
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
@@ -3784,12 +3784,12 @@ To address any concerns with respect to electric reliability while assuring MATS
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2796
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/101/549/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs303
@@ -3804,18 +3804,18 @@ To address any concerns with respect to electric reliability while assuring MATS
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/106/40/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40%2Fs2%2F5
-[/us/pl/106/40/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40%2Fs2
-[/us/pl/106/40/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40%2Fs3%2Fa
+[/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
+[/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
+[/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/102/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F187
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
-[/us/pl/95/95/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs401%2Fc
-[/us/pl/95/95/s109/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fd%2F2
-[/us/pl/95/95/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs110
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
@@ -3838,16 +3838,16 @@ To address any concerns with respect to electric reliability while assuring MATS
 [/us/usc/t42/s7412/r/7/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412%2Fr%2F7%2FH
 [/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/106/40/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40%2Fs3%2Fb
+[/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
 [/us/stat/113/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F213
 [/us/usc/t42/s7412/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412%2Fr%2F2
-[/us/pl/106/40/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40%2Fs3%2Fc
+[/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
 [/us/stat/113/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F213
-[/us/pl/106/40/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40%2Fs4
+[/us/pl/106/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F40
 [/us/stat/113/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F214
 [/us/usc/t42/s7412/r/7/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412%2Fr%2F7%2FB%2Fii
 [/us/usc/t42/s7661f/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7661f%2Fc%2F1
-[/us/pl/101/549/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs303
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2574
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

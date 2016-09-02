@@ -17,7 +17,7 @@
 
     In purchasing appliances, a public housing agency shall purchase energy-efficient appliances that are Energy Star products or FEMP-designated products, as such terms are defined in [section 8259b of this title][/us/usc/t42/s8259b], unless the purchase of energy-efficient appliances is not cost-effective to the agency.
 
-([Pub. L. 109–58, title I, § 152][/us/pl/109/58/s152], Aug. 8, 2005, [119 Stat. 649][/us/stat/119/649].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 152, Aug. 8, 2005, [119 Stat. 649][/us/stat/119/649].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s8259b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b
-[/us/pl/109/58/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs152
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F649
 
 

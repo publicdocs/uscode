@@ -17,7 +17,7 @@
 
     It shall be unlawful to coerce, intimidate, threaten, or interfere with any person in the exercise or enjoyment of, or on account of his having exercised or enjoyed, or on account of his having aided or encouraged any other person in the exercise or enjoyment of, any right granted or protected by section 3603, 3604, 3605, or 3606 of this title.
 
-([Pub. L. 90–284, title VIII, § 818][/us/pl/90/284/s818], formerly § 817, Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; renumbered § 818 and amended [Pub. L. 100–430][/us/pl/100/430], §§ 8(1), 10, Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625], 1635.)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 818, formerly § 817, Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; renumbered § 818 and amended [Pub. L. 100–430][/us/pl/100/430], §§ 8(1), 10, Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625], 1635.)
 
  __Prior Provisions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs818
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F89
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1625

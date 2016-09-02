@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary for carrying out this subchapter $10,000,000 for each of the fiscal years 1993 through 1997, and such sums as may be necessary for fiscal years 1998 through 2000.
 
-([Pub. L. 102–486, title V, § 515][/us/pl/102/486/s515], formerly § 514, Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899]; renumbered § 515, [Pub. L. 109–58, title VII, § 703(a)(1)][/us/pl/109/58/s703/a/1], Aug. 8, 2005, [119 Stat. 815][/us/stat/119/815].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 515, formerly § 514, Oct. 24, 1992, [106 Stat. 2899][/us/stat/106/2899]; renumbered § 515, [Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 703(a)(1), Aug. 8, 2005, [119 Stat. 815][/us/stat/119/815].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/102/486/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs515
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2899
-[/us/pl/109/58/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs703%2Fa%2F1
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F815
 
 

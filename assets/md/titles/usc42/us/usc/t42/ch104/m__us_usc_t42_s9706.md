@@ -17,7 +17,7 @@
 
     The Secretary shall assure that full and complete safety-related information resulting from any project or other activity conducted under this chapter is made available in a timely manner to appropriate committees of Congress, Federal, State, and local authorities, relevant segments of private industry, the scientific community, and the public.
 
-([Pub. L. 96–567, § 7][/us/pl/96/567/s7], Dec. 22, 1980, [94 Stat. 3332][/us/stat/94/3332].)
+([Pub. L. 96–567][/us/pl/96/567], § 7, Dec. 22, 1980, [94 Stat. 3332][/us/stat/94/3332].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/567/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs7
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3332
 
 

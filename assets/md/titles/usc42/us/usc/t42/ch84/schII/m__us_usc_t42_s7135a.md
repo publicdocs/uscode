@@ -17,11 +17,11 @@
 
     Notwithstanding any other provision of law, the Secretary of Energy shall not be required to delegate to the Administrator of the Energy Information Administration any energy research, development, and demonstration function vested in the Secretary, pursuant to the Atomic Energy Act \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\], the Federal Nonnuclear Energy Research and Development Act \[[42 U.S.C. 5901][/us/usc/t42/s5901] et seq.\], the Geothermal Research, Development and Demonstration Act \[[30 U.S.C. 1101][/us/usc/t30/s1101] et seq.\], the Electric and Hybrid Vehicle Research, Development and Demonstration Act \[[15 U.S.C. 2501][/us/usc/t15/s2501] et seq.\], the Solar Heating and Cooling Demonstration Act \[[42 U.S.C. 5501][/us/usc/t42/s5501] et seq.\], the Solar Energy Research, Development and Demonstration Act \[[42 U.S.C. 5551][/us/usc/t42/s5551] et seq.\], and the Energy Reorganization Act \[[42 U.S.C. 5801][/us/usc/t42/s5801] et seq.\]. Additionally, the Secretary may utilize the capabilities of the Energy Information Administration as he deems appropriate for the conduct of such programs.
 
-([Pub. L. 95–238, title I, § 104(b)][/us/pl/95/238/s104/b], Feb. 25, 1978, [92 Stat. 53][/us/stat/92/53].)
+([Pub. L. 95–238, title I][/us/pl/95/238/tI], § 104(b), Feb. 25, 1978, [92 Stat. 53][/us/stat/92/53].)
 
  __References in Text__ 
 
-    The Atomic Energy Act, referred to in text, probably means the Atomic Energy Act of 1954, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act, referred to in text, probably means the Atomic Energy Act of 1954, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The Federal Nonnuclear Energy Research and Development Act, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, [Pub. L. 93–577][/us/pl/93/577], Dec. 31, 1974, [88 Stat. 1878][/us/stat/88/1878], which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title][/us/usc/t42/s5901] and Tables.
 
@@ -53,10 +53,10 @@
 [/us/usc/t42/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5501
 [/us/usc/t42/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5551
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
-[/us/pl/95/238/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs104%2Fb
+[/us/pl/95/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtI
 [/us/stat/92/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F53
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577

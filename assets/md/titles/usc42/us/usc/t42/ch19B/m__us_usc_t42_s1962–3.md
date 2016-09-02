@@ -95,7 +95,7 @@
 
             Upon completion of the revisions to the principles and guidelines for use by the Secretary, the Secretary shall make a recommendation to Congress as to the advisability of repealing subsections (a) and (b) of [section 1962d–17 of this title][/us/usc/t42/s1962d–17].
 
-([Pub. L. 110–114, title II, § 2031][/us/pl/110/114/s2031], Nov. 8, 2007, [121 Stat. 1082][/us/stat/121/1082].)
+([Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2031, Nov. 8, 2007, [121 Stat. 1082][/us/stat/121/1082].)
 
  __Codification__ 
 
@@ -114,7 +114,7 @@
 
 [/us/usc/t42/s1962a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962a%E2%80%932
 [/us/usc/t42/s1962d–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9317
-[/us/pl/110/114/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2031
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1082
 [/us/pl/110/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201

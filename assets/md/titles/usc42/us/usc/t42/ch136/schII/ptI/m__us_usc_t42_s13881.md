@@ -23,7 +23,7 @@
 
     (3) explore the cost effectiveness of community correctional facilities.
 
-([Pub. L. 103–322, title III, § 31902][/us/pl/103/322/s31902], Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31902, Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892].)
 
  __Short Title__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31902
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1892
 [/us/pl/103/322/s31901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31901
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701

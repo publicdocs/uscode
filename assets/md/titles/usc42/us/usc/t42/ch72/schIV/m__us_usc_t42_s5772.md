@@ -23,11 +23,11 @@
 
     (3) the term “Center” means the National Center for Missing and Exploited Children.
 
-([Pub. L. 93–415, title IV, § 403][/us/pl/93/415/s403], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2126][/us/stat/98/2126]; amended [Pub. L. 106–71, § 2(b)][/us/pl/106/71/s2/b], Oct. 12, 1999, [113 Stat. 1034][/us/stat/113/1034]; [Pub. L. 109–248, title I, § 154(b)][/us/pl/109/248/s154/b], July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 109–295, title VI, § 689b(c)][/us/pl/109/295/s689b/c], Oct. 4, 2006, [120 Stat. 1450][/us/stat/120/1450].)
+([Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 403, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 660, Oct. 12, 1984, [98 Stat. 2126][/us/stat/98/2126]; amended [Pub. L. 106–71][/us/pl/106/71], § 2(b), Oct. 12, 1999, [113 Stat. 1034][/us/stat/113/1034]; [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 154(b), July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689b(c), Oct. 4, 2006, [120 Stat. 1450][/us/stat/120/1450].)
 
  __Prior Provisions__ 
 
-    A prior [section 403 of Pub. L. 93–415][/us/pl/93/415/s403] amended [section 3883 of this title][/us/usc/t42/s3883], and was repealed by [Pub. L. 95–115, § 10][/us/pl/95/115/s10], Oct. 3, 1977, [91 Stat. 1061][/us/stat/91/1061], and [Pub. L. 107–273, div. C, title II, § 12221(a)(4)][/us/pl/107/273/s12221/a/4], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].
+    A prior [section 403 of Pub. L. 93–415][/us/pl/93/415/s403] amended [section 3883 of this title][/us/usc/t42/s3883], and was repealed by [Pub. L. 95–115][/us/pl/95/115], § 10, Oct. 3, 1977, [91 Stat. 1061][/us/stat/91/1061], and [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12221(a)(4), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].
 
  __Amendments__ 
 
@@ -48,20 +48,20 @@
 ----------
 ----------
 
-[/us/pl/93/415/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs403
-[/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2126
-[/us/pl/106/71/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs2%2Fb
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1034
-[/us/pl/109/248/s154/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs154%2Fb
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F611
-[/us/pl/109/295/s689b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689b%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1450
 [/us/pl/93/415/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs403
 [/us/usc/t42/s3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3883
-[/us/pl/95/115/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs10
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1061
-[/us/pl/107/273/s12221/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fa%2F4
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122

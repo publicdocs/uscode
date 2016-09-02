@@ -21,7 +21,7 @@
 
     (2) 20 percent of such amounts to States on the basis of the shortage of law enforcement personnel and the need for assistance under this part in the State compared to the shortage of law enforcement personnel and the need for assistance under this part in all States.
 
-([Pub. L. 103–322, title XX, § 200203][/us/pl/103/322/s200203], Sept. 13, 1994, [108 Stat. 2058][/us/stat/108/2058].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200203, Sept. 13, 1994, [108 Stat. 2058][/us/stat/108/2058].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s14119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14119
-[/us/pl/103/322/s200203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200203
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2058
 
 

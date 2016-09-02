@@ -25,7 +25,7 @@
 
     (4) do not provide funds for the staff of the Agency or for contractors to carry out the Agency’s internal operations.
 
-([Pub. L. 110–255, § 1][/us/pl/110/255/s1], June 30, 2008, [122 Stat. 2423][/us/stat/122/2423].)
+([Pub. L. 110–255][/us/pl/110/255], § 1, June 30, 2008, [122 Stat. 2423][/us/stat/122/2423].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs1
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
 [/us/stat/122/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2423
 
 

@@ -83,25 +83,25 @@
 
         No guideline or regulation promulgated under subsection (a) or (c) of this section may require a research entity to disclose publicly trade secrets or commercial or financial information which is privileged or confidential.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 495, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 875][/us/stat/99/875].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 495, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 875][/us/stat/99/875].)
 
  __Prohibition on Funding of Projects Involving Use of Chimpanzees Obtained From the Wild__ 
 
-[Pub. L. 102–394, title II, § 213][/us/pl/102/394/s213], Oct. 6, 1992, [106 Stat. 1812][/us/stat/106/1812], provided that: 
+[Pub. L. 102–394, title II][/us/pl/102/394/tII], § 213, Oct. 6, 1992, [106 Stat. 1812][/us/stat/106/1812], provided that: 
 
 > “No funds appropriated under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used by the National Institutes of Health, or any other Federal agency, or recipient of Federal funds on any project that entails the capture or procurement of chimpanzees obtained from the wild. For purposes of this section, the term ‘recipient of Federal funds’ includes private citizens, corporations, or other research institutions located outside of the United States that are recipients of Federal funds.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–170, title II, § 213][/us/pl/102/170/s213], Nov. 26, 1991, [105 Stat. 1127][/us/stat/105/1127].
+    [Pub. L. 102–170, title II][/us/pl/102/170/tII], § 213, Nov. 26, 1991, [105 Stat. 1127][/us/stat/105/1127].
 
-    [Pub. L. 101–517, title II, § 211][/us/pl/101/517/s211], Nov. 5, 1990, [104 Stat. 2209][/us/stat/104/2209].
+    [Pub. L. 101–517, title II][/us/pl/101/517/tII], § 211, Nov. 5, 1990, [104 Stat. 2209][/us/stat/104/2209].
 
-    [Pub. L. 101–166, title II, § 214][/us/pl/101/166/s214], Nov. 21, 1989, [103 Stat. 1178][/us/stat/103/1178].
+    [Pub. L. 101–166, title II][/us/pl/101/166/tII], § 214, Nov. 21, 1989, [103 Stat. 1178][/us/stat/103/1178].
 
  __Plan for Research Involving Animals__ 
 
-    [Section 4 of Pub. L. 99–158][/us/pl/99/158/s4] directed Director of National Institutes of Health to establish, not later than Oct. 1, 1986, a plan for research into methods of biomedical research and experimentation which reduces the use of animals in research or which produce less pain and distress in animals to develop methods found to be valid and reliable, to train scientists in use of such methods, to disseminate information on such methods and to establish an Interagency Coordinating Committee to assist in development of the plan, prior to repeal by [Pub. L. 103–43, title II, § 205(b)][/us/pl/103/43/s205/b], June 10, 1993, [107 Stat. 148][/us/stat/107/148]. See [section 283e of this title][/us/usc/t42/s283e].
+    [Section 4 of Pub. L. 99–158][/us/pl/99/158/s4] directed Director of National Institutes of Health to establish, not later than Oct. 1, 1986, a plan for research into methods of biomedical research and experimentation which reduces the use of animals in research or which produce less pain and distress in animals to develop methods found to be valid and reliable, to train scientists in use of such methods, to disseminate information on such methods and to establish an Interagency Coordinating Committee to assist in development of the plan, prior to repeal by [Pub. L. 103–43, title II][/us/pl/103/43/tII], § 205(b), June 10, 1993, [107 Stat. 148][/us/stat/107/148]. See [section 283e of this title][/us/usc/t42/s283e].
 
 ----------
 
@@ -112,18 +112,18 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F875
-[/us/pl/102/394/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs213
+[/us/pl/102/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtII
 [/us/stat/106/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1812
-[/us/pl/102/170/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs213
+[/us/pl/102/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtII
 [/us/stat/105/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1127
-[/us/pl/101/517/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2Fs211
+[/us/pl/101/517/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2FtII
 [/us/stat/104/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2209
-[/us/pl/101/166/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs214
+[/us/pl/101/166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtII
 [/us/stat/103/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1178
 [/us/pl/99/158/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs4
-[/us/pl/103/43/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs205%2Fb
+[/us/pl/103/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtII
 [/us/stat/107/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F148
 [/us/usc/t42/s283e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283e
 

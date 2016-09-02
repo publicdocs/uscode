@@ -59,7 +59,7 @@
 
         The President shall insure that consumers, small businesses, and a wide range of other interests, including those of individual citizens who have no financial interest in the energy industry, are consulted in the development of the Plan.
 
-([Pub. L. 95–91, title VIII, § 801][/us/pl/95/91/s801], Aug. 4, 1977, [91 Stat. 610][/us/stat/91/610].)
+([Pub. L. 95–91, title VIII][/us/pl/95/91/tVIII], § 801, Aug. 4, 1977, [91 Stat. 610][/us/stat/91/610].)
 
  __Establishing a Quadrennial Energy Review__ 
 
@@ -172,7 +172,7 @@ Sec. 2. The Quadrennial Energy Review Report. The Task Force shall establish int
 ----------
 ----------
 
-[/us/pl/95/91/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs801
+[/us/pl/95/91/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVIII
 [/us/stat/91/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F610
 
 

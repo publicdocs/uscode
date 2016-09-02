@@ -55,7 +55,7 @@
 
             Subject to such rules as the Board of Directors may prescribe, the Trust may appoint and hire such staff and provide for offices as may be necessary to carry out its duties. The Trust may fix the compensation of the staff, which shall be paid from amounts in the National Homeownership Trust Fund.
 
-([Pub. L. 101–625, title III, § 302][/us/pl/101/625/s302], Nov. 28, 1990, [104 Stat. 4129][/us/stat/104/4129].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 302, Nov. 28, 1990, [104 Stat. 4129][/us/stat/104/4129].)
 
  __Short Title__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t12/s1723a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1723a%2Fa
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/101/625/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs302
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4129
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
 

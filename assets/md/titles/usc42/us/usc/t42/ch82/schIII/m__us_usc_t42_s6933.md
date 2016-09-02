@@ -51,11 +51,11 @@
 
         Nothing in this section shall be construed to provide that the Administrator or any State should, pending completion of the inventory required under this section, postpone undertaking any enforcement or remedial action with respect to any site at which hazardous waste has been treated, stored, or disposed of.
 
-([Pub. L. 89–272, title II, § 3012][/us/pl/89/272/s3012], as added [Pub. L. 96–482, § 17(a)][/us/pl/96/482/s17/a], Oct. 21, 1980, [94 Stat. 2342][/us/stat/94/2342]; amended [Pub. L. 98–616, § 2(c)][/us/pl/98/616/s2/c], Nov. 8, 1984, [98 Stat. 3222][/us/stat/98/3222].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3012, as added [Pub. L. 96–482][/us/pl/96/482], § 17(a), Oct. 21, 1980, [94 Stat. 2342][/us/stat/94/2342]; amended [Pub. L. 98–616][/us/pl/98/616], § 2(c), Nov. 8, 1984, [98 Stat. 3222][/us/stat/98/3222].)
 
  __Codification__ 
 
-    Another [section 3012 of Pub. L. 89–272][/us/pl/89/272/s3012] as added by [Pub. L. 96–463, § 7(a)][/us/pl/96/463/s7/a], Oct. 15, 1980, [94 Stat. 2057][/us/stat/94/2057], was redesignated [section 3014 of Pub. L. 89–272][/us/pl/89/272/s3014], and is classified to [section 6935 of this title][/us/usc/t42/s6935].
+    Another [section 3012 of Pub. L. 89–272][/us/pl/89/272/s3012] as added by [Pub. L. 96–463][/us/pl/96/463], § 7(a), Oct. 15, 1980, [94 Stat. 2057][/us/stat/94/2057], was redesignated [section 3014 of Pub. L. 89–272][/us/pl/89/272/s3014], and is classified to [section 6935 of this title][/us/usc/t42/s6935].
 
  __Amendments__ 
 
@@ -74,13 +74,13 @@
 
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
 [/us/usc/t42/s6927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6927
-[/us/pl/89/272/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3012
-[/us/pl/96/482/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs17%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2342
-[/us/pl/98/616/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs2%2Fc
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/stat/98/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3222
 [/us/pl/89/272/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3012
-[/us/pl/96/463/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs7%2Fa
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2057
 [/us/pl/89/272/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3014
 [/us/usc/t42/s6935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935

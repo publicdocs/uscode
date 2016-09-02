@@ -121,7 +121,7 @@
 
         The amount of funds that may be expended as medical assistance to carry out the purposes of this section shall be for fiscal year 1991, $5,000,000, for fiscal year 1992, $10,000,000, for fiscal year 1993, $20,000,000, for fiscal year 1994, $30,000,000, for fiscal year 1995, $35,000,000, and for fiscal years thereafter such sums as provided by Congress.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1930, as added [Pub. L. 101–508, title IV, § 4712(b)][/us/pl/101/508/s4712/b], Nov. 5, 1990, [104 Stat. 1388–187][/us/stat/104/1388-187]; amended [Pub. L. 106–402, title IV, § 401(b)(6)(B)][/us/pl/106/402/s401/b/6/B], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1930, as added [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4712(b), Nov. 5, 1990, [104 Stat. 1388–187][/us/stat/104/1388-187]; amended [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(6)(B), Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738].)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 
  __Codification__ 
 
-    [Pub. L. 101–508, title IV, § 4712(b)(1)][/us/pl/101/508/s4712/b/1], Nov. 5, 1990, [104 Stat. 1388–187][/us/stat/104/1388-187], which directed renumbering of section 1930 of the Social Security Act, act Aug. 14, 1935, as section 1931, could not be executed because there was no section 1930.
+    [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4712(b)(1), Nov. 5, 1990, [104 Stat. 1388–187][/us/stat/104/1388-187], which directed renumbering of section 1930 of the Social Security Act, act Aug. 14, 1935, as section 1931, could not be executed because there was no section 1930.
 
  __Amendments__ 
 
@@ -137,7 +137,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–508, title IV, § 4712(c)][/us/pl/101/508/s4712/c], Nov. 5, 1990, [104 Stat. 1388–190][/us/stat/104/1388-190], provided that:
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4712(c), Nov. 5, 1990, [104 Stat. 1388–190][/us/stat/104/1388-190], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -158,19 +158,19 @@
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/101/508/s4712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4712%2Fb
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-187
-[/us/pl/106/402/s401/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F6%2FB
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1738
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
-[/us/pl/101/508/s4712/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4712%2Fb%2F1
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-187
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6024
 [/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
-[/us/pl/101/508/s4712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4712%2Fc
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-190
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/usc/t42/s1396u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%2Fh

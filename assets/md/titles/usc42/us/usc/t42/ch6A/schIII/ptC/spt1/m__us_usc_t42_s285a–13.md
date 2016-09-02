@@ -137,7 +137,7 @@
 
         In this section, the term “recalcitrant cancer” means a cancer for which the five-year relative survival rate is below 50 percent.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417G, as added [Pub. L. 112–239, div. A, title X, § 1083][/us/pl/112/239/s1083], Jan. 2, 2013, [126 Stat. 1960][/us/stat/126/1960].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 417G, as added [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1083, Jan. 2, 2013, [126 Stat. 1960][/us/stat/126/1960].)
 
 ----------
 
@@ -149,7 +149,7 @@
 [/us/usc/t42/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283
 [/us/usc/t42/s285a–2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285a%E2%80%932%2Fb%2F7
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/112/239/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1083
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1960
 
 

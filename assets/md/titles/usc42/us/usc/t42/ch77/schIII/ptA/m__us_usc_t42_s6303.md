@@ -57,7 +57,7 @@
 
         (6) For purposes of applying the preceding provisions of this subsection in the case of the assessment of a penalty by the Commission for a violation of paragraphs (1) and (2) of [section 6302 of this title][/us/usc/t42/s6302], references in such provisions to “Secretary” and “Department of Energy” shall be considered to be references to the “Commission”.
 
-([Pub. L. 94–163, title III, § 333][/us/pl/94/163/s333], Dec. 22, 1975, [89 Stat. 929][/us/stat/89/929]; [Pub. L. 95–619, title IV][/us/pl/95/619], §§ 423, 425(e), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3262][/us/stat/92/3262], 3266, 3288; [Pub. L. 100–12, § 11(b)(6)][/us/pl/100/12/s11/b/6], Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125]; [Pub. L. 114–11, title II, § 201(3)][/us/pl/114/11/s201/3], Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 333, Dec. 22, 1975, [89 Stat. 929][/us/stat/89/929]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], §§ 423, 425(e), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3262][/us/stat/92/3262], 3266, 3288; [Pub. L. 100–12][/us/pl/100/12], § 11(b)(6), Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125]; [Pub. L. 114–11, title II][/us/pl/114/11/tII], § 201(3), Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
 
  __Amendments__ 
 
@@ -67,9 +67,9 @@
 
     1978—Subsec. (a). [Pub. L. 95–619][/us/pl/95/619], §§ 425(e)(1), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing, and “subsection (c) of this section” for “subsection (b) of this section”.
 
-    Subsec. (c). [Pub. L. 95–619, § 425(e)(2)][/us/pl/95/619/s425/e/2], substituted “[section 6293(c) of this title][/us/usc/t42/s6293/c]” for “[section 6293(d)(2) of this title][/us/usc/t42/s6293/d/2]” and inserted provision making an exception from the unfair or deceptive act or practice rule.
+    Subsec. (c). [Pub. L. 95–619][/us/pl/95/619], § 425(e)(2), substituted “[section 6293(c) of this title][/us/usc/t42/s6293/c]” for “[section 6293(d)(2) of this title][/us/usc/t42/s6293/d/2]” and inserted provision making an exception from the unfair or deceptive act or practice rule.
 
-    Subsec. (d). [Pub. L. 95–619, § 423][/us/pl/95/619/s423], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–619][/us/pl/95/619], § 423, added subsec. (d).
 
 ----------
 
@@ -92,20 +92,20 @@
 [/us/usc/t42/s7192/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7192%2Fc
 [/us/usc/t42/s7172/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fd
 [/us/usc/t42/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302
-[/us/pl/94/163/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs333
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F929
-[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3262
-[/us/pl/100/12/s11/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F6
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F125
-[/us/pl/114/11/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs201%2F3
+[/us/pl/114/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtII
 [/us/stat/129/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F189
 [/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/95/619/s425/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fe%2F2
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s6293/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fc
 [/us/usc/t42/s6293/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293%2Fd%2F2
-[/us/pl/95/619/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs423
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 
 

@@ -45,7 +45,7 @@
 
         The Congress hereby declares it to be the national policy of the United States that, wherever feasible, the generation of hazardous waste is to be reduced or eliminated as expeditiously as possible. Waste that is nevertheless generated should be treated, stored, or disposed of so as to minimize the present and future threat to human health and the environment.
 
-([Pub. L. 89–272, title II, § 1003][/us/pl/89/272/s1003], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2798][/us/stat/90/2798]; amended [Pub. L. 98–616, title I, § 101(b)][/us/pl/98/616/s101/b], Nov. 8, 1984, [98 Stat. 3224][/us/stat/98/3224].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 1003, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2798][/us/stat/90/2798]; amended [Pub. L. 98–616, title I][/us/pl/98/616/tI], § 101(b), Nov. 8, 1984, [98 Stat. 3224][/us/stat/98/3224].)
 
  __Prior Provisions__ 
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 101(b)(1)][/us/pl/98/616/s101/b/1], designated existing provisions as subsec. (a).
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 101(b)(1), designated existing provisions as subsec. (a).
 
-    Subsec. (a)(4) to (11). [Pub. L. 98–616, § 101(b)(2)][/us/pl/98/616/s101/b/2], struck out par. (4) which provided for regulating the treatment, storage, transportation, and disposal of hazardous wastes which have adverse effects on health and the environment, added pars. (4) to (7), and redesignated former pars. (5) to (8) as (8) to (11), respectively.
+    Subsec. (a)(4) to (11). [Pub. L. 98–616][/us/pl/98/616], § 101(b)(2), struck out par. (4) which provided for regulating the treatment, storage, transportation, and disposal of hazardous wastes which have adverse effects on health and the environment, added pars. (4) to (7), and redesignated former pars. (5) to (8) as (8) to (11), respectively.
 
-    Subsec. (b). [Pub. L. 98–616, § 101(b)(1)][/us/pl/98/616/s101/b/1], added subsec. (b).
+    Subsec. (b). [Pub. L. 98–616][/us/pl/98/616], § 101(b)(1), added subsec. (b).
 
 ----------
 
@@ -66,15 +66,15 @@
 ----------
 ----------
 
-[/us/pl/89/272/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs1003
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2798
-[/us/pl/98/616/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs101%2Fb
+[/us/pl/98/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtI
 [/us/stat/98/3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3224
 [/us/usc/t42/s3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3251
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
-[/us/pl/98/616/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs101%2Fb%2F1
-[/us/pl/98/616/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs101%2Fb%2F2
-[/us/pl/98/616/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs101%2Fb%2F1
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 
 

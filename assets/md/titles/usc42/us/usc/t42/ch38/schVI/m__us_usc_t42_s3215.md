@@ -47,11 +47,11 @@
 
         shall be fined under title 18, imprisoned not more than 5 years, or both.
 
-([Pub. L. 89–136, title VI, § 605][/us/pl/89/136/s605], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3614][/us/stat/112/3614].)
+([Pub. L. 89–136, title VI][/us/pl/89/136/tVI], § 605, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3614][/us/stat/112/3614].)
 
  __Prior Provisions__ 
 
-    A prior section 3215, [Pub. L. 89–136, title VII, § 705][/us/pl/89/136/s705], Aug. 26, 1965, [79 Stat. 573][/us/stat/79/573], related to separability of provisions, prior to repeal by [Pub. L. 105–393, § 102(b)(3)][/us/pl/105/393/s102/b/3].
+    A prior section 3215, [Pub. L. 89–136, title VII][/us/pl/89/136/tVII], § 705, Aug. 26, 1965, [79 Stat. 573][/us/stat/79/573], related to separability of provisions, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(b)(3).
 
 ----------
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/89/136/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs605
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVI
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3614
-[/us/pl/89/136/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs705
+[/us/pl/89/136/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVII
 [/us/stat/79/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F573
-[/us/pl/105/393/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fb%2F3
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 
 

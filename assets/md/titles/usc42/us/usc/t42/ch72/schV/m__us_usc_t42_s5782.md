@@ -35,7 +35,7 @@
 
         (D) identifying successful approaches and making recommendations for future activities to be conducted under this subchapter.
 
-([Pub. L. 93–415, title V, § 503][/us/pl/93/415/s503], as added [Pub. L. 107–273, div. C, title II, § 12222(a)][/us/pl/107/273/s12222/a], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].)
+([Pub. L. 93–415, title V][/us/pl/93/415/tV], § 503, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12222(a), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5782, [Pub. L. 93–415, title V, § 503][/us/pl/93/415/s503], as added [Pub. L. 102–586, § 5(a)][/us/pl/102/586/s5/a], Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], defined “State advisory group”, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
+    A prior section 5782, [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 503, as added [Pub. L. 102–586][/us/pl/102/586], § 5(a), Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], defined “State advisory group”, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
 ----------
 
@@ -52,14 +52,14 @@
 ----------
 ----------
 
-[/us/pl/93/415/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs503
-[/us/pl/107/273/s12222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12222%2Fa
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
 [/us/pl/93/415/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs503
 [/us/stat/88/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1135
 [/us/usc/t18/s5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5033
-[/us/pl/93/415/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs503
-[/us/pl/102/586/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs5%2Fa
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5027
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 

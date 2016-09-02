@@ -21,7 +21,7 @@
 
     (2) 75 percent 1 the amount of the increase is provided under the program described in [section 14043h(1)(B) of this title][/us/usc/t42/s14043h/1/B].
 
-([Pub. L. 114–22, title IV, § 408][/us/pl/114/22/s408], May 29, 2015, [129 Stat. 258][/us/stat/129/258].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 408, May 29, 2015, [129 Stat. 258][/us/stat/129/258].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t42/s14043h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043h%2F1%2FA
 [/us/usc/t42/s14043h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043h%2F1%2FB
-[/us/pl/114/22/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs408
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
 
 

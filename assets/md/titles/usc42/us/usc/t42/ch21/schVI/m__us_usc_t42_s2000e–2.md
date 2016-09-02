@@ -135,7 +135,7 @@
 
         (3) Any action not precluded under this subsection that challenges an employment consent judgment or order described in paragraph (1) shall be brought in the court, and if possible before the judge, that entered such judgment or order. Nothing in this subsection shall preclude a transfer of such action pursuant to [section 1404 of title 28][/us/usc/t28/s1404].
 
-([Pub. L. 88–352, title VII, § 703][/us/pl/88/352/s703], July 2, 1964, [78 Stat. 255][/us/stat/78/255]; [Pub. L. 92–261, § 8(a)][/us/pl/92/261/s8/a], (b), Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109]; [Pub. L. 102–166, title I][/us/pl/102/166], §§ 105(a), 106, 107(a), 108, Nov. 21, 1991, [105 Stat. 1074–1076][/us/stat/105/1074-1076].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 703, July 2, 1964, [78 Stat. 255][/us/stat/78/255]; [Pub. L. 92–261][/us/pl/92/261], § 8(a), (b), Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], §§ 105(a), 106, 107(a), 108, Nov. 21, 1991, [105 Stat. 1074–1076][/us/stat/105/1074-1076].)
 
  __References in Text__ 
 
@@ -147,17 +147,17 @@
 
  __Amendments__ 
 
-    1991—Subsec. (k). [Pub. L. 102–166, § 105(a)][/us/pl/102/166/s105/a], added subsec. (k).
+    1991—Subsec. (k). [Pub. L. 102–166][/us/pl/102/166], § 105(a), added subsec. (k).
 
-    Subsec. (l). [Pub. L. 102–166, § 106][/us/pl/102/166/s106], added subsec. (l).
+    Subsec. (l). [Pub. L. 102–166][/us/pl/102/166], § 106, added subsec. (l).
 
-    Subsec. (m). [Pub. L. 102–166, § 107(a)][/us/pl/102/166/s107/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 102–166][/us/pl/102/166], § 107(a), added subsec. (m).
 
-    Subsec. (n). [Pub. L. 102–166, § 108][/us/pl/102/166/s108], added subsec. (n).
+    Subsec. (n). [Pub. L. 102–166][/us/pl/102/166], § 108, added subsec. (n).
 
-    1972—Subsec. (a)(2). [Pub. L. 92–261, § 8(a)][/us/pl/92/261/s8/a], inserted “or applicants for employment” after “his employees”.
+    1972—Subsec. (a)(2). [Pub. L. 92–261][/us/pl/92/261], § 8(a), inserted “or applicants for employment” after “his employees”.
 
-    Subsec. (c)(2). [Pub. L. 92–261, § 8(b)][/us/pl/92/261/s8/b], inserted “or applicants for membership” after “membership”.
+    Subsec. (c)(2). [Pub. L. 92–261][/us/pl/92/261], § 8(b), inserted “or applicants for membership” after “membership”.
 
  __Effective Date of 1991 Amendment__ 
 
@@ -165,7 +165,7 @@
 
  __Subversive Activities Control Board__ 
 
-    Subversive Activities Control Board established by [act Sept. 23, 1950, ch. 1024, § 12][/us/act/1950-09-23/ch1024/s12], [64 Stat. 977][/us/stat/64/977], and ceased to operate on June 30, 1973.
+    Subversive Activities Control Board established by [act Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], § 12, [64 Stat. 977][/us/stat/64/977], and ceased to operate on June 30, 1973.
 
 ----------
 
@@ -179,27 +179,27 @@
 [/us/usc/t21/s802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F6
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t28/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1404
-[/us/pl/88/352/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs703
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F255
-[/us/pl/92/261/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fa
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F109
-[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1074-1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1074-1076
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
 [/us/stat/64/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F987
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/102/166/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs105%2Fa
-[/us/pl/102/166/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs106
-[/us/pl/102/166/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs107%2Fa
-[/us/pl/102/166/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs108
-[/us/pl/92/261/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fa
-[/us/pl/92/261/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fb
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/102/166/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs402
 [/us/usc/t42/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981
-[/us/act/1950-09-23/ch1024/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024%2Fs12
+[/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
 [/us/stat/64/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F977
 
 

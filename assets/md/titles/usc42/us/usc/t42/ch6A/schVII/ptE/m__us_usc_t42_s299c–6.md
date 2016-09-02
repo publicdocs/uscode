@@ -35,15 +35,15 @@
 
         For the purpose of carrying out part C of this subchapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2006 through 2010.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 947, formerly § 927, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; amended [Pub. L. 106–525, title II, § 201(b)][/us/pl/106/525/s201/b], Nov. 22, 2000, [114 Stat. 2507][/us/stat/114/2507]; renumbered § 937 and amended [Pub. L. 109–41, § 2(a)(3)][/us/pl/109/41/s2/a/3], (b), July 29, 2005, [119 Stat. 424][/us/stat/119/424], 434; renumbered § 947, [Pub. L. 111–148, title III, § 3013(a)(2)][/us/pl/111/148/s3013/a/2], Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 947, formerly § 927, as added [Pub. L. 106–129][/us/pl/106/129], § 2(a), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; amended [Pub. L. 106–525, title II][/us/pl/106/525/tII], § 201(b), Nov. 22, 2000, [114 Stat. 2507][/us/stat/114/2507]; renumbered § 937 and amended [Pub. L. 109–41][/us/pl/109/41], § 2(a)(3), (b), July 29, 2005, [119 Stat. 424][/us/stat/119/424], 434; renumbered § 947, [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3013(a)(2), Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381].)
 
  __Prior Provisions__ 
 
-    A prior section 299c–6, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 927, as added [Pub. L. 101–239, title VI, § 6103(c)][/us/pl/101/239/s6103/c], Dec. 19, 1989, [103 Stat. 2204][/us/stat/103/2204], set out definitions, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–7 of this title][/us/usc/t42/s299c–7].
+    A prior section 299c–6, [act July 1, 1944, ch. 373, title IX][/us/act/1944-07-01/ch373/tIX], § 927, as added [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6103(c), Dec. 19, 1989, [103 Stat. 2204][/us/stat/103/2204], set out definitions, prior to the general amendment of this subchapter by [Pub. L. 106–129][/us/pl/106/129]. See [section 299c–7 of this title][/us/usc/t42/s299c–7].
 
  __Amendments__ 
 
-    2005—Subsec. (e). [Pub. L. 109–41, § 2(b)][/us/pl/109/41/s2/b], added subsec. (e).
+    2005—Subsec. (e). [Pub. L. 109–41][/us/pl/109/41], § 2(b), added subsec. (e).
 
     2000—Subsec. (d). [Pub. L. 106–525][/us/pl/106/525] added subsec. (d).
 
@@ -58,20 +58,20 @@
 [/us/usc/t42/s238j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238j
 [/us/usc/t42/s299a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299a%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fa
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
-[/us/pl/106/525/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs201%2Fb
+[/us/pl/106/525/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtII
 [/us/stat/114/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2507
-[/us/pl/109/41/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F3
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
-[/us/pl/111/148/s3013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3013%2Fa%2F2
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F381
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/239/s6103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fc
+[/us/act/1944-07-01/ch373/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIX
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2204
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/usc/t42/s299c–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%937
-[/us/pl/109/41/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fb
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/pl/106/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525
 
 

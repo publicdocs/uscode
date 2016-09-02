@@ -27,7 +27,7 @@
 
         Upon appointment of any such council or committee, the Secretary may delegate to such council or committee such advisory functions relating to grants-in-aid for research or training projects or programs, in the areas or fields with which such council or committee is concerned, as the Secretary determines to be appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 222, as added [Pub. L. 87–838, § 3][/us/pl/87/838/s3], Oct. 17, 1962, [76 Stat. 1073][/us/stat/76/1073]; amended [Pub. L. 91–515, title VI, § 601(a)(3)][/us/pl/91/515/s601/a/3], (c), Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310], 1311; [Pub. L. 99–158, § 3(a)(4)][/us/pl/99/158/s3/a/4], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 222, as added [Pub. L. 87–838][/us/pl/87/838], § 3, Oct. 17, 1962, [76 Stat. 1073][/us/stat/76/1073]; amended [Pub. L. 91–515, title VI][/us/pl/91/515/tVI], § 601(a)(3), (c), Oct. 30, 1970, [84 Stat. 1310][/us/stat/84/1310], 1311; [Pub. L. 99–158][/us/pl/99/158], § 3(a)(4), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].)
 
  __References in Text__ 
 
@@ -37,11 +37,11 @@
 
     1985—Subsec. (c). [Pub. L. 99–158][/us/pl/99/158] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon appointment of any such council or committee, the Surgeon General, with the approval of the Secretary, may transfer such of the functions of the National Advisory Health Council relating to grants-in-aid for research or training projects or programs in the areas or fields with which such council or committee is concerned as he determines to be appropriate.”
 
-    1970—Subsec. (a). [Pub. L. 91–515, § 601(c)(1)][/us/pl/91/515/s601/c/1], substituted provisions authorizing the Secretary to appoint advisory councils or committees without regard to specified provisions governing appointments in the competitive service and relating to classification and General Schedule pay rates, for provisions authorizing the Surgeon General to appoint advisory committees without regard to the civil service laws and subject to the Secretary’s approval in such cases as he prescribed.
+    1970—Subsec. (a). [Pub. L. 91–515][/us/pl/91/515], § 601(c)(1), substituted provisions authorizing the Secretary to appoint advisory councils or committees without regard to specified provisions governing appointments in the competitive service and relating to classification and General Schedule pay rates, for provisions authorizing the Surgeon General to appoint advisory committees without regard to the civil service laws and subject to the Secretary’s approval in such cases as he prescribed.
 
-    Subsec. (b). [Pub. L. 91–515, § 601(a)(3)][/us/pl/91/515/s601/a/3], inserted “council or” before “committee” wherever appearing.
+    Subsec. (b). [Pub. L. 91–515][/us/pl/91/515], § 601(a)(3), inserted “council or” before “committee” wherever appearing.
 
-    Subsec. (c). [Pub. L. 91–515, § 601(a)(3)][/us/pl/91/515/s601/a/3], (c)(2), inserted “council or” before “committee” wherever appearing, and “or programs” after “projects”.
+    Subsec. (c). [Pub. L. 91–515][/us/pl/91/515], § 601(a)(3), (c)(2), inserted “council or” before “committee” wherever appearing, and “or programs” after “projects”.
 
  __Transfer of Functions__ 
 
@@ -49,7 +49,7 @@
 
  __Termination of Advisory Committees; Report by Secretary to Congressional Committees Relating to Termination__ 
 
-[Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], provided that:
+[Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], provided that:
 
 >     “(a) An advisory committee established by or pursuant to the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\], the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 \[former [42 U.S.C. 2689][/us/usc/t42/s2689] et seq., 6001 et seq.\], or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[[42 U.S.C. 4541][/us/usc/t42/s4541] et seq.\] shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after the date of the enactment of this Act \[Jan. 4, 1975\].
 
@@ -64,22 +64,22 @@
 
 [/us/usc/t42/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/87/838/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F838%2Fs3
+[/us/pl/87/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F838
 [/us/stat/76/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1073
-[/us/pl/91/515/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fa%2F3
+[/us/pl/91/515/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtVI
 [/us/stat/84/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1310
-[/us/pl/99/158/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fa%2F4
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
-[/us/pl/91/515/s601/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fc%2F1
-[/us/pl/91/515/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fa%2F3
-[/us/pl/91/515/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fa%2F3
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
+[/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2689

@@ -17,7 +17,7 @@
 
     Except as otherwise specifically provided, nothing in this subchapter shall be construed as conferring on any Federal officer or employee the right to exercise any supervision or control over the administration, personnel, maintenance, or operation of any hospital, with respect to which any funds have been or may be expended under this subchapter.
 
-([Pub. L. 85–151, § 7][/us/pl/85/151/s7], Aug. 16, 1957, [71 Stat. 372][/us/stat/71/372].)
+([Pub. L. 85–151][/us/pl/85/151], § 7, Aug. 16, 1957, [71 Stat. 372][/us/stat/71/372].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/151/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151%2Fs7
+[/us/pl/85/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151
 [/us/stat/71/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F372
 
 

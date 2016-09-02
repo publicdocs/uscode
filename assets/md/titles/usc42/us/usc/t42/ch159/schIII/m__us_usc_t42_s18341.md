@@ -23,7 +23,7 @@
 
     (3) develop the ground infrastructure needed for commercial cargo capability.
 
-([Pub. L. 111–267, title IV, § 401][/us/pl/111/267/s401], Oct. 11, 2010, [124 Stat. 2820][/us/stat/124/2820].)
+([Pub. L. 111–267, title IV][/us/pl/111/267/tIV], § 401, Oct. 11, 2010, [124 Stat. 2820][/us/stat/124/2820].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs401
+[/us/pl/111/267/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIV
 [/us/stat/124/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2820
 
 

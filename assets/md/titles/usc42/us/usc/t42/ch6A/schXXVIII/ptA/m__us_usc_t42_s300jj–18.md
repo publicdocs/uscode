@@ -27,7 +27,7 @@
 
         In carrying out [section 300jj–13(b)(1)(A) of this title][/us/usc/t42/s300jj–13/b/1/A], until recommendations are made by the HIT Policy Committee, recommendations of the HIT Standards Committee shall be consistent with the most recent recommendations made by such AHIC Successor, Inc.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3008, as added [Pub. L. 111–5, div. A, title XIII, § 13101][/us/pl/111/5/s13101], Feb. 17, 2009, [123 Stat. 241][/us/stat/123/241].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3008, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13101, Feb. 17, 2009, [123 Stat. 241][/us/stat/123/241].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t42/s300jj–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9311%2Fa
 [/us/usc/t42/s300jj–13/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9313%2Fb%2F1%2FA
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F241
 [/us/usc/t42/s300u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u
 

@@ -89,7 +89,7 @@
 
         (3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d) of this section.
 
-([Pub. L. 96–102, title II, § 212][/us/pl/96/102/s212], Nov. 5, 1979, [93 Stat. 759][/us/stat/93/759].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 212, Nov. 5, 1979, [93 Stat. 759][/us/stat/93/759].)
 
 ----------
 
@@ -103,7 +103,7 @@
 [/us/usc/t42/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511
 [/us/usc/t42/s8513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8513
 [/us/usc/t42/s8511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511%2Fa
-[/us/pl/96/102/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs212
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F759
 
 

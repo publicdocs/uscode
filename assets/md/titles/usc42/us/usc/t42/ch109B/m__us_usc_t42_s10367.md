@@ -207,7 +207,7 @@
 
             There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2009 through 2019.
 
-([Pub. L. 111–11, title IX, § 9507][/us/pl/111/11/s9507], Mar. 30, 2009, [123 Stat. 1339][/us/stat/123/1339].)
+([Pub. L. 111–11, title IX][/us/pl/111/11/tIX], § 9507, Mar. 30, 2009, [123 Stat. 1339][/us/stat/123/1339].)
 
 ----------
 
@@ -216,7 +216,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s9507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9507
+[/us/pl/111/11/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIX
 [/us/stat/123/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1339
 
 

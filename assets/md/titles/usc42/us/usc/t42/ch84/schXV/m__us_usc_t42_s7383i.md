@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383e.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
+[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383f...7383h–1.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
 
 ## § 7383i. Definitions of national laboratory and nuclear weapons production facility
 
@@ -41,7 +41,7 @@
 
         (E) The Nevada Test Site, Nevada.
 
-([Pub. L. 106–65, div. C, title XXXI, § 3155][/us/pl/106/65/s3155], Oct. 5, 1999, [113 Stat. 942][/us/stat/113/942].)
+([Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3155, Oct. 5, 1999, [113 Stat. 942][/us/stat/113/942].)
 
  __References in Text__ 
 
@@ -49,12 +49,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383e.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
+[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383f...7383h–1.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
 
 ----------
 ----------
 
-[/us/pl/106/65/s3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3155
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F942
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F931

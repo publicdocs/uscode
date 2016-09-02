@@ -41,7 +41,7 @@
 
     (6) improved coordination and collaboration between the Federal programs that serve runaway and homeless youth are necessary for the development of a long-term strategy for responding to the needs of this population.
 
-([Pub. L. 93–415, title III, § 302][/us/pl/93/415/s302], Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129]; [Pub. L. 102–586, § 3(a)][/us/pl/102/586/s3/a], Nov. 4, 1992, [106 Stat. 5017][/us/stat/106/5017]; [Pub. L. 106–71, § 3(a)][/us/pl/106/71/s3/a], Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035]; [Pub. L. 108–96, title I, § 101][/us/pl/108/96/s101], Oct. 10, 2003, [117 Stat. 1167][/us/stat/117/1167]; [Pub. L. 110–378, § 2][/us/pl/110/378/s2], Oct. 8, 2008, [122 Stat. 4068][/us/stat/122/4068].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 302, Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129]; [Pub. L. 102–586][/us/pl/102/586], § 3(a), Nov. 4, 1992, [106 Stat. 5017][/us/stat/106/5017]; [Pub. L. 106–71][/us/pl/106/71], § 3(a), Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035]; [Pub. L. 108–96, title I][/us/pl/108/96/tI], § 101, Oct. 10, 2003, [117 Stat. 1167][/us/stat/117/1167]; [Pub. L. 110–378][/us/pl/110/378], § 2, Oct. 8, 2008, [122 Stat. 4068][/us/stat/122/4068].)
 
  __Amendments__ 
 
@@ -49,15 +49,15 @@
 
     2003—[Pub. L. 108–96][/us/pl/108/96] amended section generally. Prior to amendment, section contained congressional statement of findings.
 
-    1999—Par. (5). [Pub. L. 106–71, § 3(a)(1)][/us/pl/106/71/s3/a/1], substituted “an accurate national reporting system to report the problem, and to assist in the development of” for “accurate reporting of the problem nationally and to develop”.
+    1999—Par. (5). [Pub. L. 106–71][/us/pl/106/71], § 3(a)(1), substituted “an accurate national reporting system to report the problem, and to assist in the development of” for “accurate reporting of the problem nationally and to develop”.
 
-    Par. (8). [Pub. L. 106–71, § 3(a)(2)][/us/pl/106/71/s3/a/2], added par. (8) and struck out former par. (8) which read as follows: “in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system and to develop an effective system of care including prevention, emergency shelter services, and longer residential care outside the public welfare and law enforcement structures;”.
+    Par. (8). [Pub. L. 106–71][/us/pl/106/71], § 3(a)(2), added par. (8) and struck out former par. (8) which read as follows: “in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system and to develop an effective system of care including prevention, emergency shelter services, and longer residential care outside the public welfare and law enforcement structures;”.
 
-    1992—Par. (1). [Pub. L. 102–586, § 3(a)(1)][/us/pl/102/586/s3/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the number of juveniles who leave and remain away from home without parental permission has increased to alarming proportions, creating a substantial law enforcement problem for the communities inundated, and significantly endangering the young people who are without resources and live on the street;”.
+    1992—Par. (1). [Pub. L. 102–586][/us/pl/102/586], § 3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the number of juveniles who leave and remain away from home without parental permission has increased to alarming proportions, creating a substantial law enforcement problem for the communities inundated, and significantly endangering the young people who are without resources and live on the street;”.
 
-    Par. (5). [Pub. L. 102–586, § 3(a)(3)][/us/pl/102/586/s3/a/3], substituted “care (including preventive services, emergency shelter services, and extended residential shelter) outside the welfare system and the law enforcement system;” for “temporary care outside the law enforcement structure.”
+    Par. (5). [Pub. L. 102–586][/us/pl/102/586], § 3(a)(3), substituted “care (including preventive services, emergency shelter services, and extended residential shelter) outside the welfare system and the law enforcement system;” for “temporary care outside the law enforcement structure.”
 
-    Pars. (6) to (10). [Pub. L. 102–586, § 3(a)(2)][/us/pl/102/586/s3/a/2], (4), added pars. (6) to (10).
+    Pars. (6) to (10). [Pub. L. 102–586][/us/pl/102/586], § 3(a)(2), (4), added pars. (6) to (10).
 
  __Short Title__ 
 
@@ -65,7 +65,7 @@
 
  __Report on Promising Strategies to End Youth Homelessness__ 
 
-[Pub. L. 108–96, title I, § 118][/us/pl/108/96/s118], Oct. 10, 2003, [117 Stat. 1170][/us/stat/117/1170], provided that: 
+[Pub. L. 108–96, title I][/us/pl/108/96/tI], § 118, Oct. 10, 2003, [117 Stat. 1170][/us/stat/117/1170], provided that: 
 
 > “Not later than 2 years after the date of the enactment of this Act \[Oct. 10, 2003\], the Secretary of Health and Human Services, in consultation with the United States Interagency Council on Homelessness, shall submit to the Congress a report on promising strategies to end youth homelessness.”
 
@@ -76,27 +76,27 @@
 ----------
 ----------
 
-[/us/pl/93/415/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs302
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
 [/us/stat/88/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1129
-[/us/pl/102/586/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fa
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5017
-[/us/pl/106/71/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fa
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1035
-[/us/pl/108/96/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs101
+[/us/pl/108/96/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtI
 [/us/stat/117/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1167
-[/us/pl/110/378/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs2
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
 [/us/stat/122/4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4068
 [/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
 [/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
-[/us/pl/106/71/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fa%2F1
-[/us/pl/106/71/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fa%2F2
-[/us/pl/102/586/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fa%2F1
-[/us/pl/102/586/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fa%2F3
-[/us/pl/102/586/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fa%2F2
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/pl/93/415/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs301
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/108/96/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs118
+[/us/pl/108/96/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtI
 [/us/stat/117/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1170
 
 

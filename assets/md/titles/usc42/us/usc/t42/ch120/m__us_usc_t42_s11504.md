@@ -71,7 +71,7 @@
 
             The term “Secretary” means the Secretary of Housing and Urban Development or, with respect to any rule issued under title V of the Housing Act of 1949 \[[42 U.S.C. 1471][/us/usc/t42/s1471] et seq.\], the Secretary of Agriculture.
 
-([Pub. L. 100–242, title VII, § 704][/us/pl/100/242/s704], Feb. 5, 1988, [101 Stat. 1962][/us/stat/101/1962].)
+([Pub. L. 100–242, title VII][/us/pl/100/242/tVII], § 704, Feb. 5, 1988, [101 Stat. 1962][/us/stat/101/1962].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
-[/us/pl/100/242/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs704
+[/us/pl/100/242/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtVII
 [/us/stat/101/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1962
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

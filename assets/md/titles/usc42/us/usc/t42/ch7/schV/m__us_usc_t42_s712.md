@@ -93,19 +93,19 @@
 
         (2) The term “postpartum condition” means postpartum depression or postpartum psychosis.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 512, as added [Pub. L. 111–148, title II, § 2952(b)][/us/pl/111/148/s2952/b], Mar. 23, 2010, [124 Stat. 345][/us/stat/124/345].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 512, as added [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2952(b), Mar. 23, 2010, [124 Stat. 345][/us/stat/124/345].)
 
  __Prior Provisions__ 
 
-    A prior section 712, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 512, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 927][/us/stat/81/927], which provided for research projects relating to maternal and child health services and crippled children’s services, was omitted in the general revision of this subchapter by [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818].
+    A prior section 712, [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], § 512, as added Jan. 2, 1968, [Pub. L. 90–248, title III][/us/pl/90/248/tIII], § 301, [81 Stat. 927][/us/stat/81/927], which provided for research projects relating to maternal and child health services and crippled children’s services, was omitted in the general revision of this subchapter by [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(a), Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818].
 
-    Another prior section 712, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 512, [49 Stat. 631][/us/stat/49/631]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 505, [53 Stat. 1380][/us/stat/53/1380]; 1946 Reorg. Plan. No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(5), (6), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(d), pt. 6, § 361(e), [64 Stat. 552][/us/stat/64/552], 558; Aug. 28, 1958, [Pub. L. 85–840, title VI, § 603(b)][/us/pl/85/840/s603/b], (c), [72 Stat. 1055][/us/stat/72/1055]; Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(a)(2)(B)][/us/pl/86/778/s707/a/2/B], (C), (b)(2)(A), [74 Stat. 996][/us/stat/74/996]; Oct. 24, 1963, [Pub. L. 88–156, § 3(b)][/us/pl/88/156/s3/b], (c), [77 Stat. 274][/us/stat/77/274], which provided for allotment to States for services for crippled children, was covered by former [section 704 of this title][/us/usc/t42/s704].
+    Another prior section 712, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 512, [49 Stat. 631][/us/stat/49/631]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 505, [53 Stat. 1380][/us/stat/53/1380]; 1946 Reorg. Plan. No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(5), (6), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(d), pt. 6, § 361(e), [64 Stat. 552][/us/stat/64/552], 558; Aug. 28, 1958, [Pub. L. 85–840, title VI][/us/pl/85/840/tVI], § 603(b), (c), [72 Stat. 1055][/us/stat/72/1055]; Sept. 13, 1960, [Pub. L. 86–778, title VII][/us/pl/86/778/tVII], § 707(a)(2)(B), (C), (b)(2)(A), [74 Stat. 996][/us/stat/74/996]; Oct. 24, 1963, [Pub. L. 88–156][/us/pl/88/156], § 3(b), (c), [77 Stat. 274][/us/stat/77/274], which provided for allotment to States for services for crippled children, was covered by former [section 704 of this title][/us/usc/t42/s704].
 
-    Provisions similar to those comprising former section 712 were contained in section 533, formerly section 532, of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, as added Oct. 24, 1963, [Pub. L. 88–156, § 4][/us/pl/88/156/s4], [77 Stat. 274][/us/stat/77/274], and renumbered July 30, 1965, [Pub. L. 89–97, title II, § 205(2)][/us/pl/89/97/s205/2], [79 Stat. 354][/us/stat/79/354] (formerly classified to [section 729a of this title][/us/usc/t42/s729a]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
+    Provisions similar to those comprising former section 712 were contained in section 533, formerly section 532, of [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], as added Oct. 24, 1963, [Pub. L. 88–156][/us/pl/88/156], § 4, [77 Stat. 274][/us/stat/77/274], and renumbered July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97/tII], § 205(2), [79 Stat. 354][/us/stat/79/354] (formerly classified to [section 729a of this title][/us/usc/t42/s729a]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248][/us/pl/90/248], § 301.
 
  __Support, Education, and Research for Postpartum Depression__ 
 
-[Pub. L. 111–148, title II, § 2952(a)][/us/pl/111/148/s2952/a], Mar. 23, 2010, [124 Stat. 344][/us/stat/124/344], provided that:
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2952(a), Mar. 23, 2010, [124 Stat. 344][/us/stat/124/344], provided that:
 
 >     “(a) __Research on Postpartum Conditions.—__ 
 
@@ -165,12 +165,12 @@
 [/us/usc/t42/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs709%2Fa
 [/us/usc/t42/s254c–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c%E2%80%938
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s2952/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2952%2Fb
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F345
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/90/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIII
 [/us/stat/81/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F927
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F631
@@ -181,21 +181,21 @@
 [/us/stat/60/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F986
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F552
-[/us/pl/85/840/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs603%2Fb
+[/us/pl/85/840/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtVI
 [/us/stat/72/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1055
-[/us/pl/86/778/s707/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs707%2Fa%2F2%2FB
+[/us/pl/86/778/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVII
 [/us/stat/74/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F996
-[/us/pl/88/156/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs3%2Fb
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F274
 [/us/usc/t42/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs704
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/88/156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs4
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F274
-[/us/pl/89/97/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs205%2F2
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
 [/us/usc/t42/s729a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs729a
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
-[/us/pl/111/148/s2952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2952%2Fa
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F344
 
 

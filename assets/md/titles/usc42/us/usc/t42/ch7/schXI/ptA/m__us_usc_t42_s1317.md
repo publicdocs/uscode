@@ -25,27 +25,27 @@
 
         (3) In the office of the Chief Actuary there shall be an actuary whose duties relate exclusively to the programs under parts C and D of subchapter XVIII of this chapter and related provisions of such subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1117, as added [Pub. L. 98–369, div. B, title III, § 2332(a)][/us/pl/98/369/s2332/a], July 18, 1984, [98 Stat. 1088][/us/stat/98/1088]; amended [Pub. L. 105–33, title IV, § 4643][/us/pl/105/33/s4643], Aug. 5, 1997, [111 Stat. 487][/us/stat/111/487]; [Pub. L. 108–173, title IX, § 900(c)][/us/pl/108/173/s900/c], (e)(1)(A), Dec. 8, 2003, [117 Stat. 2370][/us/stat/117/2370].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1117, as added [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2332(a), July 18, 1984, [98 Stat. 1088][/us/stat/98/1088]; amended [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4643, Aug. 5, 1997, [111 Stat. 487][/us/stat/111/487]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(c), (e)(1)(A), Dec. 8, 2003, [117 Stat. 2370][/us/stat/117/2370].)
 
  __Prior Provisions__ 
 
-    A prior section 1317, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1117, as added July 30, 1965, [Pub. L. 89–97, title IV, § 405][/us/pl/89/97/s405], [79 Stat. 420][/us/stat/79/420]; amended Jan. 2, 1968, [Pub. L. 90–248, title II][/us/pl/90/248], §§ 221(a)–(c), 241(c)(6), [81 Stat. 899][/us/stat/81/899], 917, related to maintenance of State public assistance expenditures, prior to repeal by [Pub. L. 90–248, title II, § 221(d)][/us/pl/90/248/s221/d], Jan. 2, 1968, [81 Stat. 900][/us/stat/81/900], eff. July 1, 1968.
+    A prior section 1317, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1117, as added July 30, 1965, [Pub. L. 89–97, title IV][/us/pl/89/97/tIV], § 405, [79 Stat. 420][/us/stat/79/420]; amended Jan. 2, 1968, [Pub. L. 90–248, title II][/us/pl/90/248/tII], §§ 221(a)–(c), 241(c)(6), [81 Stat. 899][/us/stat/81/899], 917, related to maintenance of State public assistance expenditures, prior to repeal by [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 221(d), Jan. 2, 1968, [81 Stat. 900][/us/stat/81/900], eff. July 1, 1968.
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–173, § 900(e)(1)(A)(i)][/us/pl/108/173/s900/e/1/A/i], substituted “Appointment of the Administrator and Chief Actuary of the Centers for Medicare & Medicaid Services” for “Appointment of Administrator and Chief Actuary of Health Care Financing Administration” in section catchline.
+    2003—[Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(A)(i), substituted “Appointment of the Administrator and Chief Actuary of the Centers for Medicare & Medicaid Services” for “Appointment of Administrator and Chief Actuary of Health Care Financing Administration” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–173, § 900(e)(1)(A)(ii)][/us/pl/108/173/s900/e/1/A/ii], substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
+    Subsec. (a). [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(A)(ii), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
 
-    Subsec. (b)(1). [Pub. L. 108–173, § 900(e)(1)(A)(iii)][/us/pl/108/173/s900/e/1/A/iii], substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” and “such Centers” for “such Administration”.
+    Subsec. (b)(1). [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(A)(iii), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” and “such Centers” for “such Administration”.
 
-    Subsec. (b)(3). [Pub. L. 108–173, § 900(c)][/us/pl/108/173/s900/c], added par. (3).
+    Subsec. (b)(3). [Pub. L. 108–173][/us/pl/108/173], § 900(c), added par. (3).
 
     1997—[Pub. L. 105–33][/us/pl/105/33] amended section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. B, title III, § 2332(c)][/us/pl/98/369/s2332/c], July 18, 1984, [98 Stat. 1089][/us/stat/98/1089], provided that: 
+[Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2332(c), July 18, 1984, [98 Stat. 1089][/us/stat/98/1089], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees\] shall apply to appointments made after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -58,25 +58,25 @@
 
 [/us/usc/t5/s5382/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/98/369/s2332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2332%2Fa
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1088
-[/us/pl/105/33/s4643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4643
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F487
-[/us/pl/108/173/s900/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fc
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2370
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs405
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/89/97/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIV
 [/us/stat/79/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F420
-[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F899
-[/us/pl/90/248/s221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs221%2Fd
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F900
-[/us/pl/108/173/s900/e/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FA%2Fi
-[/us/pl/108/173/s900/e/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FA%2Fii
-[/us/pl/108/173/s900/e/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FA%2Fiii
-[/us/pl/108/173/s900/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fc
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/98/369/s2332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2332%2Fc
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1089
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 

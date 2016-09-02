@@ -41,15 +41,15 @@
 
             (B) certifies to the Secretary that not more than 15 percent of the aggregate amount of Federal and non-Federal funds used by the State to provide program and technical assistance, implement energy conservation measures, and otherwise carry out a program pursuant to this part for the fiscal year concerned will be expended for program and technical assistance and for marketing and other costs associated with leveraging of non-Federal funds for such program.
 
-([Pub. L. 94–163, title III, § 396][/us/pl/94/163/s396], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3245][/us/stat/92/3245]; amended [Pub. L. 101–440, § 6(a)][/us/pl/101/440/s6/a], (c), (d), Oct. 18, 1990, [104 Stat. 1011][/us/stat/104/1011].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 396, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3245][/us/stat/92/3245]; amended [Pub. L. 101–440][/us/pl/101/440], § 6(a), (c), (d), Oct. 18, 1990, [104 Stat. 1011][/us/stat/104/1011].)
 
  __Amendments__ 
 
-    1990—Subsec. (b)(1). [Pub. L. 101–440, § 6(a)][/us/pl/101/440/s6/a], inserted at end “The non-Federal share of the costs of any such energy conservation project may be provided by using programs of innovative financing for energy conservation projects (including, but not limited to, loan programs and performance contracting), even if, pursuant to such financing, clear title to the equipment does not pass to the school or hospital until after the grant is completed.”
+    1990—Subsec. (b)(1). [Pub. L. 101–440][/us/pl/101/440], § 6(a), inserted at end “The non-Federal share of the costs of any such energy conservation project may be provided by using programs of innovative financing for energy conservation projects (including, but not limited to, loan programs and performance contracting), even if, pursuant to such financing, clear title to the equipment does not pass to the school or hospital until after the grant is completed.”
 
-    Subsec. (d). [Pub. L. 101–440, § 6(d)][/us/pl/101/440/s6/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 101–440][/us/pl/101/440], § 6(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 101–440, § 6(c)][/us/pl/101/440/s6/c], struck out subsec. (e) which prohibited funds for buildings used principally for administration.
+    Subsec. (e). [Pub. L. 101–440][/us/pl/101/440], § 6(c), struck out subsec. (e) which prohibited funds for buildings used principally for administration.
 
 ----------
 
@@ -63,13 +63,13 @@
 [/us/usc/t42/s6371g/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371g%2Fa%2F2
 [/us/usc/t42/s6371g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371g
 [/us/usc/t42/s6371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371c
-[/us/pl/94/163/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs396
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3245
-[/us/pl/101/440/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fa
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1011
-[/us/pl/101/440/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fa
-[/us/pl/101/440/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fd
-[/us/pl/101/440/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fc
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch87/schIV/m__us_usc_t42_ch87_schIV.md) | [Next](./../../../..//us/usc/t42/ch88/m__us_usc_t42_s7901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch88)
+[Previous](./../../../..//us/usc/t42/ch87/schIV/m__us_usc_t42_s7871...7883.md) | [Next](./../../../..//us/usc/t42/ch88/m__us_usc_t42_s7901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch88)
 
 ## CHAPTER 88—URANIUM MILL TAILINGS RADIATION CONTROL
 
@@ -187,7 +187,7 @@ SUBCHAPTER II—STUDY AND DESIGNATION OF TWO MILL TAILING SITES IN NEW MEXICO  <
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch87/schIV/m__us_usc_t42_ch87_schIV.md) | [Next](./../../../..//us/usc/t42/ch88/m__us_usc_t42_s7901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch88)
+[Previous](./../../../..//us/usc/t42/ch87/schIV/m__us_usc_t42_s7871...7883.md) | [Next](./../../../..//us/usc/t42/ch88/m__us_usc_t42_s7901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch88)
 
 ----------
 ----------

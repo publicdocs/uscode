@@ -89,7 +89,7 @@
 
             With respect to reports required in subsection (d) of this section, each such report made on or after October 1, 1991, shall include a description and analysis of data collected pursuant to paragraph (1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 792, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2058][/us/stat/106/2058]; amended [Pub. L. 105–392, title I, § 106(b)][/us/pl/105/392/s106/b], Nov. 13, 1998, [112 Stat. 3559][/us/stat/112/3559].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 792, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2058][/us/stat/106/2058]; amended [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 106(b), Nov. 13, 1998, [112 Stat. 3559][/us/stat/112/3559].)
 
  __Prior Provisions__ 
 
@@ -103,7 +103,7 @@
 
  __Study Regarding Shortages of Licensed Pharmacists__ 
 
-[Pub. L. 106–129, § 5][/us/pl/106/129/s5], Dec. 6, 1999, [113 Stat. 1675][/us/stat/113/1675], provided that:
+[Pub. L. 106–129][/us/pl/106/129], § 5, Dec. 6, 1999, [113 Stat. 1675][/us/stat/113/1675], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -115,19 +115,19 @@
 
  __Advisory Council on Graduate Medical Education__ 
 
-    [Pub. L. 102–408, title III, § 301][/us/pl/102/408/s301], Oct. 13, 1992, [106 Stat. 2080][/us/stat/106/2080], as amended by [Pub. L. 102–531, title III, § 313(b)][/us/pl/102/531/s313/b], Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507]; [Pub. L. 105–392, title I, § 104(b)(1)][/us/pl/105/392/s104/b/1]–(3), Nov. 13, 1998, [112 Stat. 3552][/us/stat/112/3552], which was formerly set out as a note under this section, was renumbered section 762 of the Public Health Service Act by [Pub. L. 105–392, title I, § 104(b)(4)][/us/pl/105/392/s104/b/4]–(6), Nov. 13, 1998, [112 Stat. 3553][/us/stat/112/3553], and is classified to section 294o of this title.
+    [Pub. L. 102–408, title III][/us/pl/102/408/tIII], § 301, Oct. 13, 1992, [106 Stat. 2080][/us/stat/106/2080], as amended by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 313(b), Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507]; [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 104(b)(1)–(3), Nov. 13, 1998, [112 Stat. 3552][/us/stat/112/3552], which was formerly set out as a note under this section, was renumbered section 762 of the Public Health Service Act by [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 104(b)(4)–(6), Nov. 13, 1998, [112 Stat. 3553][/us/stat/112/3553], and is classified to section 294o of this title.
 
  __Commission on Allied Health__ 
 
-    [Pub. L. 102–408, title III, § 302][/us/pl/102/408/s302], Oct. 13, 1992, [106 Stat. 2082][/us/stat/106/2082], provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
+    [Pub. L. 102–408, title III][/us/pl/102/408/tIII], § 302, Oct. 13, 1992, [106 Stat. 2082][/us/stat/106/2082], provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
 
  __Study Regarding Shortage of Clinical Laboratory Technologists for Medically Underserved and Rural Communities__ 
 
-    [Pub. L. 102–408, title III, § 303][/us/pl/102/408/s303], Oct. 13, 1992, [106 Stat. 2083][/us/stat/106/2083], directed Secretary of Health and Human Services, with respect to the shortage of clinical laboratory technologists, to conduct a study for the purpose of determining whether there are special or unique factors affecting the supply of clinical laboratory technologists in medically underserved and rural communities, and assessing alternative routes for certification of the competence of individuals to serve as such technologists, with consideration of the role of entities providing such certifications, and, not later than Oct. 1, 1993, complete the study and submit to Committee on Energy and Commerce of House of Representatives, and to Committee on Labor and Human Resources of Senate, a report describing the findings made as result of the study.
+    [Pub. L. 102–408, title III][/us/pl/102/408/tIII], § 303, Oct. 13, 1992, [106 Stat. 2083][/us/stat/106/2083], directed Secretary of Health and Human Services, with respect to the shortage of clinical laboratory technologists, to conduct a study for the purpose of determining whether there are special or unique factors affecting the supply of clinical laboratory technologists in medically underserved and rural communities, and assessing alternative routes for certification of the competence of individuals to serve as such technologists, with consideration of the role of entities providing such certifications, and, not later than Oct. 1, 1993, complete the study and submit to Committee on Energy and Commerce of House of Representatives, and to Committee on Labor and Human Resources of Senate, a report describing the findings made as result of the study.
 
  __National Advisory Council on Medical Licensure__ 
 
-    [Pub. L. 102–408, title III, § 307][/us/pl/102/408/s307], Oct. 13, 1992, [106 Stat. 2086][/us/stat/106/2086], directed Secretary of Health and Human Services to establish National Advisory Council on Medical Licensure to advise Secretary on American Medical Association’s system of verifying and maintaining information regarding qualifications of individuals to practice medicine, as well as advice regarding establishment and operation of any similar system, provided for activities of Council, including review of private credentials verification system and recommendations on how it could be improved, as well as review of State procedures for licensing individuals licensed in other States and procedures for licensing international medical graduates, provided for composition of Council and appointment of members, required submission of an interim report to Congress not later than Sept. 30, 1993, and a final report with recommendations not later than Sept. 30, 1995, provided for termination of Council not later than Sept. 30, 1995, or upon submission of final report, whichever is earlier, and further directed Secretary, in cooperation with Council to submit to Congress, not later than Sept. 30, 1994, study of not less than 10 States for purposes of determining average time required for States to process licensure applications of domestic and international medical graduates as well as percentages of domestic and international licensure applications approved.
+    [Pub. L. 102–408, title III][/us/pl/102/408/tIII], § 307, Oct. 13, 1992, [106 Stat. 2086][/us/stat/106/2086], directed Secretary of Health and Human Services to establish National Advisory Council on Medical Licensure to advise Secretary on American Medical Association’s system of verifying and maintaining information regarding qualifications of individuals to practice medicine, as well as advice regarding establishment and operation of any similar system, provided for activities of Council, including review of private credentials verification system and recommendations on how it could be improved, as well as review of State procedures for licensing individuals licensed in other States and procedures for licensing international medical graduates, provided for composition of Council and appointment of members, required submission of an interim report to Congress not later than Sept. 30, 1993, and a final report with recommendations not later than Sept. 30, 1995, provided for termination of Council not later than Sept. 30, 1995, or upon submission of final report, whichever is earlier, and further directed Secretary, in cooperation with Council to submit to Congress, not later than Sept. 30, 1994, study of not less than 10 States for purposes of determining average time required for States to process licensure applications of domestic and international medical graduates as well as percentages of domestic and international licensure applications approved.
 
 ----------
 
@@ -137,30 +137,30 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2058
-[/us/pl/105/392/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs106%2Fb
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3559
 [/us/usc/t42/s295h–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295h%E2%80%931b
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s295h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295h%E2%80%931
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/pl/106/129/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs5
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1675
-[/us/pl/102/408/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs301
+[/us/pl/102/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtIII
 [/us/stat/106/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2080
-[/us/pl/102/531/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs313%2Fb
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3507
-[/us/pl/105/392/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs104%2Fb%2F1
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3552
-[/us/pl/105/392/s104/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs104%2Fb%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3553
-[/us/pl/102/408/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs302
+[/us/pl/102/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtIII
 [/us/stat/106/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2082
-[/us/pl/102/408/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs303
+[/us/pl/102/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtIII
 [/us/stat/106/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2083
-[/us/pl/102/408/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs307
+[/us/pl/102/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtIII
 [/us/stat/106/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2086
 
 

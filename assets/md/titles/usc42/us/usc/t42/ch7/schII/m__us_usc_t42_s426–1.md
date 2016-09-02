@@ -61,11 +61,11 @@
 
         (3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such regular course of renal dialysis is resumed.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 226A, as added [Pub. L. 95–292, § 1(a)][/us/pl/95/292/s1/a], June 13, 1978, [92 Stat. 307][/us/stat/92/307]; amended [Pub. L. 97–248, title II, § 278(b)(2)(C)][/us/pl/97/248/s278/b/2/C], Sept. 3, 1982, [96 Stat. 561][/us/stat/96/561]; [Pub. L. 97–448, title III, § 309(b)(1)][/us/pl/97/448/s309/b/1], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 99–272, title XIII, § 13205(b)(2)(B)][/us/pl/99/272/s13205/b/2/B], Apr. 7, 1986, [100 Stat. 317][/us/stat/100/317]; [Pub. L. 103–296, title II, § 201(a)(3)(D)(ii)][/us/pl/103/296/s201/a/3/D/ii], Aug. 15, 1994, [108 Stat. 1497][/us/stat/108/1497]; [Pub. L. 114–74, title VIII, § 844(b)][/us/pl/114/74/s844/b], Nov. 2, 2015, [129 Stat. 617][/us/stat/129/617].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 226A, as added [Pub. L. 95–292][/us/pl/95/292], § 1(a), June 13, 1978, [92 Stat. 307][/us/stat/92/307]; amended [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 278(b)(2)(C), Sept. 3, 1982, [96 Stat. 561][/us/stat/96/561]; [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 309(b)(1), Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13205(b)(2)(B), Apr. 7, 1986, [100 Stat. 317][/us/stat/100/317]; [Pub. L. 103–296, title II][/us/pl/103/296/tII], § 201(a)(3)(D)(ii), Aug. 15, 1994, [108 Stat. 1497][/us/stat/108/1497]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 844(b), Nov. 2, 2015, [129 Stat. 617][/us/stat/129/617].)
 
  __References in Text__ 
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
  __Amendments__ 
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–448, title III, § 309(c)(2)][/us/pl/97/448/s309/c/2], Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410], provided that: 
+[Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 309(c)(2), Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410], provided that: 
 
 > “Any amendment to the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 324][/us/stat/96/324]\].”
 
@@ -122,20 +122,20 @@
 [/us/usc/t42/s1395rr/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr%2Fb
 [/us/usc/t42/s1395rr/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/95/292/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F292%2Fs1%2Fa
+[/us/pl/95/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F292
 [/us/stat/92/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F307
-[/us/pl/97/248/s278/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs278%2Fb%2F2%2FC
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F561
-[/us/pl/97/448/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fb%2F1
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
-[/us/pl/99/272/s13205/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13205%2Fb%2F2%2FB
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F317
-[/us/pl/103/296/s201/a/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F3%2FD%2Fii
+[/us/pl/103/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtII
 [/us/stat/108/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1497
-[/us/pl/114/74/s844/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs844%2Fb
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F617
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
@@ -153,7 +153,7 @@
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272/s13205/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13205%2Fd%2F2
 [/us/usc/t42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410
-[/us/pl/97/448/s309/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fc%2F2
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2410
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

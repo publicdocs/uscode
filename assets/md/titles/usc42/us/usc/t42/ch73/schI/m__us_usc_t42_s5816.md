@@ -47,7 +47,7 @@
 
         The Administrator is authorized to employ persons who are not citizens of the United States in expert, scientific, technical, or professional capacities whenever he deems it in the public interest.
 
-([Pub. L. 93–438, title I, § 106][/us/pl/93/438/s106], Oct. 11, 1974, [88 Stat. 1239][/us/stat/88/1239].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 106, Oct. 11, 1974, [88 Stat. 1239][/us/stat/88/1239].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 [/us/usc/t42/s2201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201%2Fd
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
-[/us/pl/93/438/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs106
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1239
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

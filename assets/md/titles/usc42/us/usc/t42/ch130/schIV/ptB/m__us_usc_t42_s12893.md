@@ -121,7 +121,7 @@
 
         The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved.
 
-([Pub. L. 101–625, title IV, § 443][/us/pl/101/625/s443], Nov. 28, 1990, [104 Stat. 4174][/us/stat/104/4174]; [Pub. L. 102–550, title X, § 1012(j)(2)][/us/pl/102/550/s1012/j/2], Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906]; [Pub. L. 103–233, title II, § 221][/us/pl/103/233/s221], Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 443, Nov. 28, 1990, [104 Stat. 4174][/us/stat/104/4174]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1012(j)(2), Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906]; [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 221, Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366].)
 
  __References in Text__ 
 
@@ -159,11 +159,11 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t42/s12705/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F7
-[/us/pl/101/625/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs443
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4174
-[/us/pl/102/550/s1012/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fj%2F2
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3906
-[/us/pl/103/233/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs221
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F366
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81

@@ -115,7 +115,7 @@
 
         Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by [section 1104(g) of this title][/us/usc/t42/s1104/g] in the Unemployment Trust Fund.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XII, § 1202, as added [Aug. 5, 1954, ch. 657, § 3][/us/act/1954-08-05/ch657/s3], [68 Stat. 672][/us/stat/68/672]; amended [Pub. L. 86–778, title V, § 522(a)][/us/pl/86/778/s522/a], Sept. 13, 1960, [74 Stat. 979][/us/stat/74/979]; [Pub. L. 97–35, title XXIV, § 2407(a)][/us/pl/97/35/s2407/a], (b)(2), Aug. 13, 1981, [95 Stat. 879][/us/stat/95/879], 880; [Pub. L. 97–248, title II, § 274(a)][/us/pl/97/248/s274/a], Sept. 3, 1982, [96 Stat. 557][/us/stat/96/557]; [Pub. L. 98–21, title V][/us/pl/98/21], §§ 511, 514, Apr. 20, 1983, [97 Stat. 144][/us/stat/97/144], 147; [Pub. L. 98–118, § 5(a)][/us/pl/98/118/s5/a], Oct. 11, 1983, [97 Stat. 804][/us/stat/97/804]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–203, title IX, § 9156(a)][/us/pl/100/203/s9156/a], Dec. 22, 1987, [101 Stat. 1330–327][/us/stat/101/1330-327]; [Pub. L. 105–33, title V, § 5404(a)][/us/pl/105/33/s5404/a], Aug. 5, 1997, [111 Stat. 604][/us/stat/111/604]; [Pub. L. 111–5, div. B, title II, § 2004][/us/pl/111/5/s2004], Feb. 17, 2009, [123 Stat. 443][/us/stat/123/443].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XII, § 1202, as added [Aug. 5, 1954, ch. 657][/us/act/1954-08-05/ch657], § 3, [68 Stat. 672][/us/stat/68/672]; amended [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 522(a), Sept. 13, 1960, [74 Stat. 979][/us/stat/74/979]; [Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2407(a), (b)(2), Aug. 13, 1981, [95 Stat. 879][/us/stat/95/879], 880; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 274(a), Sept. 3, 1982, [96 Stat. 557][/us/stat/96/557]; [Pub. L. 98–21, title V][/us/pl/98/21/tV], §§ 511, 514, Apr. 20, 1983, [97 Stat. 144][/us/stat/97/144], 147; [Pub. L. 98–118][/us/pl/98/118], § 5(a), Oct. 11, 1983, [97 Stat. 804][/us/stat/97/804]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9156(a), Dec. 22, 1987, [101 Stat. 1330–327][/us/stat/101/1330-327]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5404(a), Aug. 5, 1997, [111 Stat. 604][/us/stat/111/604]; [Pub. L. 111–5, div. B, title II][/us/pl/111/5/dB/tII], § 2004, Feb. 17, 2009, [123 Stat. 443][/us/stat/123/443].)
 
  __References in Text__ 
 
@@ -133,49 +133,49 @@
 
     1986—Subsec. (b)(5), (8)(B)(i). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1983—Subsec. (b)(2). [Pub. L. 98–118, § 5(a)(1)][/us/pl/98/118/s5/a/1], substituted “advance or advances” for “advance” in provisions preceding subpar. (A).
+    1983—Subsec. (b)(2). [Pub. L. 98–118][/us/pl/98/118], § 5(a)(1), substituted “advance or advances” for “advance” in provisions preceding subpar. (A).
 
-    Subsec. (b)(2)(A). [Pub. L. 98–118, § 5(a)(2)][/us/pl/98/118/s5/a/2], (3), substituted “advances are” for “advance is” and “advances were” for “advance was”.
+    Subsec. (b)(2)(A). [Pub. L. 98–118][/us/pl/98/118], § 5(a)(2), (3), substituted “advances are” for “advance is” and “advances were” for “advance was”.
 
-    Subsec. (b)(2)(B). [Pub. L. 98–118, § 5(a)(4)][/us/pl/98/118/s5/a/4], substituted “advances was completed” for “advance was completed”.
+    Subsec. (b)(2)(B). [Pub. L. 98–118][/us/pl/98/118], § 5(a)(4), substituted “advances was completed” for “advance was completed”.
 
-    Subsec. (b)(3)(A). [Pub. L. 98–21, § 514][/us/pl/98/21/s514], which directed substitution of “prior to” for “not later than” was executed, as the probable intent of Congress, by making that substitution the first time the phrase appeared following “Secretary of Treasury” and not the second time that phrase appeared.
+    Subsec. (b)(3)(A). [Pub. L. 98–21][/us/pl/98/21], § 514, which directed substitution of “prior to” for “not later than” was executed, as the probable intent of Congress, by making that substitution the first time the phrase appeared following “Secretary of Treasury” and not the second time that phrase appeared.
 
-    Subsec. (b)(3)(C)(i). [Pub. L. 98–21, § 511(c)][/us/pl/98/21/s511/c], substituted, after subcl. II, provision that no interest shall accrue on such deferred interest for provision that any interest the time for payment of which was deferred under this subparagraph would bear interest in the same manner as if it had been an advance made on the day on which it would have been required to be paid but for this subparagraph.
+    Subsec. (b)(3)(C)(i). [Pub. L. 98–21][/us/pl/98/21], § 511(c), substituted, after subcl. II, provision that no interest shall accrue on such deferred interest for provision that any interest the time for payment of which was deferred under this subparagraph would bear interest in the same manner as if it had been an advance made on the day on which it would have been required to be paid but for this subparagraph.
 
-    Subsec. (b)(7). [Pub. L. 98–21, § 511(b)][/us/pl/98/21/s511/b], struck out “, and before January 1, 1988” after “April 1, 1982”.
+    Subsec. (b)(7). [Pub. L. 98–21][/us/pl/98/21], § 511(b), struck out “, and before January 1, 1988” after “April 1, 1982”.
 
-    Subsec. (b)(8), (9). [Pub. L. 98–21, § 511(a)][/us/pl/98/21/s511/a], added pars. (8) and (9).
+    Subsec. (b)(8), (9). [Pub. L. 98–21][/us/pl/98/21], § 511(a), added pars. (8) and (9).
 
     1982—Subsec. (b)(3)(C). [Pub. L. 97–248][/us/pl/97/248] added subpar. (C).
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 2407(b)(2)][/us/pl/97/35/s2407/b/2], designated existing provision as subsec. (a).
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 2407(b)(2), designated existing provision as subsec. (a).
 
-    Subsec. (b). [Pub. L. 97–35, § 2407(a)][/us/pl/97/35/s2407/a], added subsec. (b).
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2407(a), added subsec. (b).
 
     1960—[Pub. L. 86–778][/us/pl/86/778] amended section generally, designating provisions constituting subsec. (a) as entire section, substituting “that balance of advances, made to such State under [section 1321 of this title][/us/usc/t42/s1321], specified in the request” for “any remaining balance of advances made to such State under [section 1321 of this title][/us/usc/t42/s1321]” and inserting “in reduction of such balance” and omitting subsecs. (b) and (c) pertaining to appropriations and repayable advances which were incorporated in sections 1101(d)(1) and 1323 of this title.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5404(b)][/us/pl/105/33/s5404/b], Aug. 5, 1997, [111 Stat. 604][/us/stat/111/604], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5404(b), Aug. 5, 1997, [111 Stat. 604][/us/stat/111/604], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to calendar years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title IX, § 9156(b)][/us/pl/100/203/s9156/b], Dec. 22, 1987, [101 Stat. 1330–327][/us/stat/101/1330-327], provided that: 
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9156(b), Dec. 22, 1987, [101 Stat. 1330–327][/us/stat/101/1330-327], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to interest paid on advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–118, § 5(b)][/us/pl/98/118/s5/b], Oct. 11, 1983, [97 Stat. 804][/us/stat/97/804], provided that: 
+[Pub. L. 98–118][/us/pl/98/118], § 5(b), Oct. 11, 1983, [97 Stat. 804][/us/stat/97/804], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to advances made on or after April 1, 1982.”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title II, § 274(b)][/us/pl/97/248/s274/b], Sept. 3, 1982, [96 Stat. 558][/us/stat/96/558], provided that: 
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 274(b), Sept. 3, 1982, [96 Stat. 558][/us/stat/96/558], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to interest required to be paid after December 31, 1982.”
 
@@ -195,25 +195,25 @@
 [/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321
 [/us/usc/t42/s1104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104%2Fg
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/act/1954-08-05/ch657/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657%2Fs3
+[/us/act/1954-08-05/ch657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657
 [/us/stat/68/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F672
-[/us/pl/86/778/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs522%2Fa
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F979
-[/us/pl/97/35/s2407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2407%2Fa
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F879
-[/us/pl/97/248/s274/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs274%2Fa
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F557
-[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F144
-[/us/pl/98/118/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118%2Fs5%2Fa
+[/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
 [/us/stat/97/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F804
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/203/s9156/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9156%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-327
-[/us/pl/105/33/s5404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5404%2Fa
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F604
-[/us/pl/111/5/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2004
+[/us/pl/111/5/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtII
 [/us/stat/123/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F443
 [/us/pl/91/373/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203
 [/us/stat/84/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F709
@@ -222,26 +222,26 @@
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/118/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118%2Fs5%2Fa%2F1
-[/us/pl/98/118/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118%2Fs5%2Fa%2F2
-[/us/pl/98/118/s5/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118%2Fs5%2Fa%2F4
-[/us/pl/98/21/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs514
-[/us/pl/98/21/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs511%2Fc
-[/us/pl/98/21/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs511%2Fb
-[/us/pl/98/21/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs511%2Fa
+[/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
+[/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
+[/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/35/s2407/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2407%2Fb%2F2
-[/us/pl/97/35/s2407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2407%2Fa
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321
 [/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321
-[/us/pl/105/33/s5404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5404%2Fb
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F604
-[/us/pl/100/203/s9156/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9156%2Fb
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-327
-[/us/pl/98/118/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118%2Fs5%2Fb
+[/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
 [/us/stat/97/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F804
-[/us/pl/97/248/s274/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs274%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F558
 
 

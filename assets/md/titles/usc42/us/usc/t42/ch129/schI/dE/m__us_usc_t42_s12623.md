@@ -55,7 +55,7 @@
 
         Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
 
-([Pub. L. 101–610, title I, § 163][/us/pl/101/610/s163], formerly § 195L, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532]; renumbered § 163 and amended [Pub. L. 103–82, title I, § 104(b)][/us/pl/103/82/s104/b], title IV, §§ 402(b)(3), 403(b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 919, 920; [Pub. L. 111–13, title I, § 1513][/us/pl/111/13/s1513], Apr. 21, 2009, [123 Stat. 1527][/us/stat/123/1527].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 163, formerly § 195L, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532]; renumbered § 163 and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(b), title IV, §§ 402(b)(3), 403(b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 919, 920; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1513, Apr. 21, 2009, [123 Stat. 1527][/us/stat/123/1527].)
 
  __References in Text__ 
 
@@ -67,23 +67,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 12623, [Pub. L. 101–610, title I, § 167][/us/pl/101/610/s167], Nov. 16, 1990, [104 Stat. 3159][/us/stat/104/3159], related to employer-based retiree volunteer programs, prior to repeal by [Pub. L. 103–82, title I, § 104(a)][/us/pl/103/82/s104/a], Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840].
+    A prior section 12623, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 167, Nov. 16, 1990, [104 Stat. 3159][/us/stat/104/3159], related to employer-based retiree volunteer programs, prior to repeal by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(a), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840].
 
     A prior [section 163 of Pub. L. 101–610][/us/pl/101/610/s163] was classified to [section 12614 of this title][/us/usc/t42/s12614] prior to repeal by [Pub. L. 103–82][/us/pl/103/82].
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1513(1)][/us/pl/111/13/s1513/1], substituted “There shall be” for “Upon the establishment of the Program, there shall also be”, inserted “National” before “Civilian Community Corps Advisory Board”, and substituted “to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters.” for “to assist in the development and administration of the Corps.”
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1513(1), substituted “There shall be” for “Upon the establishment of the Program, there shall also be”, inserted “National” before “Civilian Community Corps Advisory Board”, and substituted “to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters.” for “to assist in the development and administration of the Corps.”
 
-    Subsec. (b)(8) to (12). [Pub. L. 111–13, § 1513(2)(B)][/us/pl/111/13/s1513/2/B], added pars. (8) to (12). Former pars. (8) and (9) redesignated (13) and (14), respectively.
+    Subsec. (b)(8) to (12). [Pub. L. 111–13][/us/pl/111/13], § 1513(2)(B), added pars. (8) to (12). Former pars. (8) and (9) redesignated (13) and (14), respectively.
 
-    Subsec. (b)(13). [Pub. L. 111–13, § 1513(2)(A)][/us/pl/111/13/s1513/2/A], (C), redesignated par. (8) as (13) and substituted “public and private organizations,” for “industry,”.
+    Subsec. (b)(13). [Pub. L. 111–13][/us/pl/111/13], § 1513(2)(A), (C), redesignated par. (8) as (13) and substituted “public and private organizations,” for “industry,”.
 
-    Subsec. (b)(14). [Pub. L. 111–13, § 1513(2)(A)][/us/pl/111/13/s1513/2/A], redesignated par. (9) as (14).
+    Subsec. (b)(14). [Pub. L. 111–13][/us/pl/111/13], § 1513(2)(A), redesignated par. (9) as (14).
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 403(b)][/us/pl/103/82/s403/b], substituted “Director” for “Director of the Civilian Community Corps”.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 403(b), substituted “Director” for “Director of the Civilian Community Corps”.
 
-    Subsec. (b)(9). [Pub. L. 103–82, § 402(b)(3)][/us/pl/103/82/s402/b/3], substituted “Chief Executive Officer” for “Chair of the Commission on National and Community Service”.
+    Subsec. (b)(9). [Pub. L. 103–82][/us/pl/103/82], § 402(b)(3), substituted “Chief Executive Officer” for “Chair of the Commission on National and Community Service”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -100,28 +100,28 @@
 ----------
 ----------
 
-[/us/pl/101/610/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs163
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2532
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
-[/us/pl/111/13/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1513
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1527
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/101/610/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs167
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3159
-[/us/pl/103/82/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
 [/us/pl/101/610/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs163
 [/us/usc/t42/s12614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12614
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/111/13/s1513/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1513%2F1
-[/us/pl/111/13/s1513/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1513%2F2%2FB
-[/us/pl/111/13/s1513/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1513%2F2%2FA
-[/us/pl/111/13/s1513/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1513%2F2%2FA
-[/us/pl/103/82/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fb
-[/us/pl/103/82/s402/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs402%2Fb%2F3
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

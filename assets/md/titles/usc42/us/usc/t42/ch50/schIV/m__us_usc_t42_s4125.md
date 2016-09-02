@@ -23,7 +23,7 @@
 
     shall be final and conclusive upon all officers of the Government.
 
-([Pub. L. 90–448, title XIII, § 1374][/us/pl/90/448/s1374], Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1374, Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1374
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F589
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

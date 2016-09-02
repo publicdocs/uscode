@@ -17,7 +17,7 @@
 
     For the purpose of this part, the term “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778.
 
-([Pub. L. 89–73, title VI, § 625][/us/pl/89/73/s625], as added [Pub. L. 100–175, title I, § 171][/us/pl/100/175/s171], Nov. 29, 1987, [101 Stat. 963][/us/stat/101/963].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 625, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 963][/us/stat/101/963].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs625
-[/us/pl/100/175/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs171
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F963
 
 

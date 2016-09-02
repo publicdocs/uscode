@@ -17,7 +17,7 @@
 
     Every building designed, constructed, or altered after the effective date of a standard issued under this chapter which is applicable to such building, shall be designed, constructed, or altered in accordance with such standard.
 
-([Pub. L. 90–480, § 5][/us/pl/90/480/s5], Aug. 12, 1968, [82 Stat. 719][/us/stat/82/719].)
+([Pub. L. 90–480][/us/pl/90/480], § 5, Aug. 12, 1968, [82 Stat. 719][/us/stat/82/719].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/480/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F480%2Fs5
+[/us/pl/90/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F480
 [/us/stat/82/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F719
 
 

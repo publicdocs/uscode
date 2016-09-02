@@ -23,7 +23,7 @@
 
         The program shall include support for methods of generating hydrogen without the use of natural gas.
 
-([Pub. L. 109–58, title IX, § 974][/us/pl/109/58/s974], Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 974, Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs974
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F903
 
 

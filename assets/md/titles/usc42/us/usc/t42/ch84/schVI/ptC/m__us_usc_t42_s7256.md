@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7256a _us_usc_t42_s7256b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
 
 ## § 7256. Contracts, leases, etc., with public agencies and private organizations and persons
 
@@ -105,13 +105,13 @@
 
         (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2020.
 
-([Pub. L. 95–91, title VI, § 646][/us/pl/95/91/s646], Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599]; [Pub. L. 103–160, div. C, title XXXI, § 3154][/us/pl/103/160/s3154], Nov. 30, 1993, [107 Stat. 1952][/us/stat/107/1952]; [Pub. L. 109–58, title X, § 1007][/us/pl/109/58/s1007], Aug. 8, 2005, [119 Stat. 932][/us/stat/119/932]; [Pub. L. 111–383, div. C, title XXXI, § 3118][/us/pl/111/383/s3118], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514]; [Pub. L. 113–66, div. C, title XXXI, § 3119][/us/pl/113/66/s3119], Dec. 26, 2013, [127 Stat. 1059][/us/stat/127/1059].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 646, Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599]; [Pub. L. 103–160, div. C, title XXXI][/us/pl/103/160/dC/tXXXI], § 3154, Nov. 30, 1993, [107 Stat. 1952][/us/stat/107/1952]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1007, Aug. 8, 2005, [119 Stat. 932][/us/stat/119/932]; [Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3118, Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3119, Dec. 26, 2013, [127 Stat. 1059][/us/stat/127/1059].)
 
  __References in Text__ 
 
-    [Section 2371(h) of title 10][/us/usc/t10/s2371/h], referred to in subsec. (g)(7), was repealed by [Pub. L. 113–291, div. A, title X, § 1071(f)(20)][/us/pl/113/291/s1071/f/20], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].
+    [Section 2371(h) of title 10][/us/usc/t10/s2371/h], referred to in subsec. (g)(7), was repealed by [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(20), Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].
 
-    Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 2371][/us/usc/t10/s2371] note), referred to in subsec. (g)(8)(A), was repealed by [Pub. L. 114–92, div. A, title VIII, § 815(c)][/us/pl/114/92/s815/c], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896]. See [section 2371b(e) of Title 10][/us/usc/t10/s2371b/e], Armed Forces.
+    Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 2371][/us/usc/t10/s2371] note), referred to in subsec. (g)(8)(A), was repealed by [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 815(c), Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896]. See [section 2371b(e) of Title 10][/us/usc/t10/s2371b/e], Armed Forces.
 
  __Amendments__ 
 
@@ -125,7 +125,7 @@
 
  __Small Business Contracting__ 
 
-[Pub. L. 109–13, div. A, title VI, § 6022(a)][/us/pl/109/13/s6022/a], (b), May 11, 2005, [119 Stat. 285][/us/stat/119/285], provided that:
+[Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6022(a), (b), May 11, 2005, [119 Stat. 285][/us/stat/119/285], provided that:
 
 >     “(a) Not later than September 30, 2005, the Department of Energy and the Small Business Administration shall enter into a memorandum of understanding setting forth an appropriate methodology for measuring the achievement of the Department of Energy with respect to awarding contracts to small businesses.
 
@@ -145,11 +145,11 @@
 
  __Pilot Program Relating to Use of Proceeds of Disposal or Utilization of Certain Department of Energy Assets__ 
 
-    [Pub. L. 105–85, div. C, title XXXI, § 3138][/us/pl/105/85/s3138], Nov. 18, 1997, [111 Stat. 2039][/us/stat/111/2039], which was formerly set out as a note under this section, was renumbered [section 4833 of Pub. L. 107–314][/us/pl/107/314/s4833], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(13)(A)][/us/pl/108/136/s3141/k/13/A]–(C), Nov. 24, 2003, [117 Stat. 1786][/us/stat/117/1786], and is classified to [section 2813 of Title 50][/us/usc/t50/s2813], War and National Defense.
+    [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3138, Nov. 18, 1997, [111 Stat. 2039][/us/stat/111/2039], which was formerly set out as a note under this section, was renumbered [section 4833 of Pub. L. 107–314][/us/pl/107/314/s4833], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(13)(A)–(C), Nov. 24, 2003, [117 Stat. 1786][/us/stat/117/1786], and is classified to [section 2813 of Title 50][/us/usc/t50/s2813], War and National Defense.
 
  __Contract Goal for Small Disadvantaged Businesses and Certain Institutions of Higher Education__ 
 
-[Pub. L. 103–160, div. C, title XXXI, § 3159][/us/pl/103/160/s3159], Nov. 30, 1993, [107 Stat. 1956][/us/stat/107/1956], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(16)][/us/pl/103/337/s1070/b/16], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857], provided that:
+[Pub. L. 103–160, div. C, title XXXI][/us/pl/103/160/dC/tXXXI], § 3159, Nov. 30, 1993, [107 Stat. 1956][/us/stat/107/1956], as amended by [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b)(16), Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857], provided that:
 
 >     “(a)  __Goal__  __.—__ 
 
@@ -177,7 +177,7 @@
 
  __Small Business Concerns Participation in Programs Funded by Department of Energy Act of 1978—Civilian Applications; Report to Congressional Committees__ 
 
-[Pub. L. 95–238, title II, § 204][/us/pl/95/238/s204], Feb. 25, 1978, [92 Stat. 59][/us/stat/92/59], as amended by [Pub. L. 96–470, title II, § 203(f)][/us/pl/96/470/s203/f], Oct. 19, 1980, [94 Stat. 2243][/us/stat/94/2243], provided that:
+[Pub. L. 95–238, title II][/us/pl/95/238/tII], § 204, Feb. 25, 1978, [92 Stat. 59][/us/stat/92/59], as amended by [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 203(f), Oct. 19, 1980, [94 Stat. 2243][/us/stat/94/2243], provided that:
 
 >     “(a) In carrying out the programs for which funds are authorized by this Act \[see Tables for classification\], the Secretary of Energy shall provide a realistic and adequate opportunity for small business concerns to participate in such programs to the optimum extent feasible consistent with the size and nature of the projects and activities involved.
 
@@ -185,17 +185,9 @@
 
     \[For termination, effective May 15, 2000, of reporting provisions in [section 204(b) of Pub. L. 95–238][/us/pl/95/238/s204/b], set out above, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and the 21st item on page 89 of House Document No. 103–7.\]
 
-§§ 7256a, 7256b. __Transferred__ 
-
- __Codification__ 
-
-    Section 7256a, [Pub. L. 99–145, title XV, § 1534][/us/pl/99/145/s1534], Nov. 8, 1985, [99 Stat. 774][/us/stat/99/774]; [Pub. L. 100–180, div. C, title I, § 3131(a)][/us/pl/100/180/s3131/a], Dec. 4, 1987, [101 Stat. 1238][/us/stat/101/1238], which related to costs not allowed under covered contracts, was renumbered [section 4801 of Pub. L. 107–314][/us/pl/107/314/s4801], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(2)(A)][/us/pl/108/136/s3141/k/2/A]–(C), Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783], and is classified to [section 2781 of Title 50][/us/usc/t50/s2781], War and National Defense.
-
-    Section 7256b, [Pub. L. 101–189, div. C, title XXXI, § 3151][/us/pl/101/189/s3151], Nov. 29, 1989, [103 Stat. 1682][/us/stat/103/1682], which related to the prohibition of bonuses to contractors operating defense nuclear facilities, was renumbered [section 4802 of Pub. L. 107–314][/us/pl/107/314/s4802], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(3)(A)][/us/pl/108/136/s3141/k/3/A]–(C), Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783], and is classified to [section 2782 of Title 50][/us/usc/t50/s2782], War and National Defense.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7256a _us_usc_t42_s7256b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
 
 ----------
 ----------
@@ -207,46 +199,46 @@
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/pl/95/91/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs646
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F599
-[/us/pl/103/160/s3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3154
+[/us/pl/103/160/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXI
 [/us/stat/107/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1952
-[/us/pl/109/58/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1007
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F932
-[/us/pl/111/383/s3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3118
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
-[/us/pl/113/66/s3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3119
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1059
 [/us/usc/t10/s2371/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371%2Fh
-[/us/pl/113/291/s1071/f/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F20
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/pl/114/92/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fc
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 [/us/usc/t10/s2371b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371b%2Fe
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/109/13/s6022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6022%2Fa
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F285
-[/us/pl/105/85/s3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3138
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2039
 [/us/pl/107/314/s4833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4833
-[/us/pl/108/136/s3141/k/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F13%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1786
 [/us/usc/t50/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2813
-[/us/pl/103/160/s3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3159
+[/us/pl/103/160/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXI
 [/us/stat/107/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1956
-[/us/pl/103/337/s1070/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F16
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2857
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
 [/us/usc/t20/s1135d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135d
 [/us/usc/t20/s1059c/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c%2Fb%2F1
-[/us/pl/95/238/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs204
+[/us/pl/95/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtII
 [/us/stat/92/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F59
-[/us/pl/96/470/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs203%2Ff
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2243
 [/us/act/1975-12-31/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1975-12-31%2Fs308
 [/us/usc/t42/s5878a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5878a
@@ -254,19 +246,5 @@
 [/us/pl/95/238/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs204%2Fb
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/99/145/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1534
-[/us/stat/99/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F774
-[/us/pl/100/180/s3131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3131%2Fa
-[/us/stat/101/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1238
-[/us/pl/107/314/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4801
-[/us/pl/108/136/s3141/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2%2FA
-[/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
-[/us/usc/t50/s2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2781
-[/us/pl/101/189/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3151
-[/us/stat/103/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1682
-[/us/pl/107/314/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4802
-[/us/pl/108/136/s3141/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F3%2FA
-[/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
-[/us/usc/t50/s2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2782
 
 

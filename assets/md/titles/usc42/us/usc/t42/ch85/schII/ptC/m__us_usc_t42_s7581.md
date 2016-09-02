@@ -273,7 +273,7 @@
 
         The term “clean-fuel vehicle” means a vehicle in a class or category of vehicles which has been certified to meet for any model year the clean-fuel vehicle standards applicable under this part for that model year to clean-fuel vehicles in that class or category.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 241, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2511][/us/stat/104/2511].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 241, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2511][/us/stat/104/2511].)
 
 ----------
 
@@ -286,7 +286,7 @@
 [/us/usc/t42/s7583/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7583%2Fd%2F2
 [/us/usc/t42/s7583/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7583%2Fe
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2511
 
 

@@ -31,7 +31,7 @@
 
         The committees of the Senate and the House of Representatives which, under the rules of the Senate and the House, have jurisdiction over the development, utilization, or application of nuclear energy, are authorized to utilize the services, information, facilities, and personnel of any Government agency which has activities or responsibilities in the field of nuclear energy which are within the jurisdiction of such committees: Provided, however, That any utilization of personnel by such committees shall be on a reimbursable basis and shall require, with respect to committees of the Senate, the prior written consent of the Committee on Rules and Administration, and with respect to committees of the House of Representatives, the prior written consent of the Committee on House Oversight.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 303, as added [Pub. L. 95–110, § 1][/us/pl/95/110/s1], Sept. 20, 1977, [91 Stat. 884][/us/stat/91/884]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 104–186, title II, § 222(1)][/us/pl/104/186/s222/1], Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 303, as added [Pub. L. 95–110][/us/pl/95/110], § 1, Sept. 20, 1977, [91 Stat. 884][/us/stat/91/884]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 222(1), Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/110/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F110%2Fs1
+[/us/pl/95/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F110
 [/us/stat/91/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F884
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/104/186/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs222%2F1
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1751
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585

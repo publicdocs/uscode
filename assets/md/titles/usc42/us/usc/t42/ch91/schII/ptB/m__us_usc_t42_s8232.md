@@ -53,7 +53,7 @@
 
         The Secretary shall report, no later than one year after November 9, 1978, to both Houses of the Congress with regard to the findings made as a result of such study along with any recommendations for legislative proposals which the Secretary determines should be enacted with respect to the subject of such study.
 
-([Pub. L. 95–619, title II, § 253][/us/pl/95/619/s253], Nov. 9, 1978, [92 Stat. 3236][/us/stat/92/3236]; [Pub. L. 102–54, § 13(q)(12)][/us/pl/102/54/s13/q/12], June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 253, Nov. 9, 1978, [92 Stat. 3236][/us/stat/92/3236]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(12), June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 ----------
 
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
-[/us/pl/95/619/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs253
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3236
-[/us/pl/102/54/s13/q/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F12
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724

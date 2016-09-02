@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_ch43_schII.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3531.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch44)
+[Previous](./../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_s3521...3527.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3531.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch44)
 
 ## CHAPTER 44—DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
 
@@ -227,7 +227,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_ch43_schII.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3531.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch44)
+[Previous](./../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_s3521...3527.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3531.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch44)
 
 ----------
 ----------

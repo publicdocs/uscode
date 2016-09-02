@@ -43,7 +43,7 @@
 
             For purposes of carrying out this subsection, the Director of OSTP, in coordination with the Director of the National Security Council and using the President’s Council of Advisors on Science and Technology coordinating mechanism, shall develop an overall strategy for review by the President, with recommendations for proposed international collaborative efforts to address this challenge.
 
-([Pub. L. 111–267, title XII, § 1202][/us/pl/111/267/s1202], Oct. 11, 2010, [124 Stat. 2841][/us/stat/124/2841].)
+([Pub. L. 111–267, title XII][/us/pl/111/267/tXII], § 1202, Oct. 11, 2010, [124 Stat. 2841][/us/stat/124/2841].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs1202
+[/us/pl/111/267/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtXII
 [/us/stat/124/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2841
 
 

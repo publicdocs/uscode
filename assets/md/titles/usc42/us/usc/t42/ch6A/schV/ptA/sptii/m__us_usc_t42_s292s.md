@@ -137,11 +137,11 @@
 
         It is the sense of Congress that funds repaid under the loan program under this section should not be transferred to the Treasury of the United States or otherwise used for any other purpose other than to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 723, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2015][/us/stat/106/2015]; amended [Pub. L. 103–43, title XX, § 2014(c)][/us/pl/103/43/s2014/c], June 10, 1993, [107 Stat. 216][/us/stat/107/216]; [Pub. L. 105–392, title I, § 131][/us/pl/105/392/s131], Nov. 13, 1998, [112 Stat. 3574][/us/stat/112/3574]; [Pub. L. 111–148, title V, § 5201(a)][/us/pl/111/148/s5201/a], Mar. 23, 2010, [124 Stat. 606][/us/stat/124/606].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 723, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2015][/us/stat/106/2015]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2014(c), June 10, 1993, [107 Stat. 216][/us/stat/107/216]; [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 131, Nov. 13, 1998, [112 Stat. 3574][/us/stat/112/3574]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5201(a), Mar. 23, 2010, [124 Stat. 606][/us/stat/124/606].)
 
  __References in Text__ 
 
-    [Section 292t(f) of this title][/us/usc/t42/s292t/f], referred to in subsec. (a)(2)(A)(ii)(I), contained provisions in par. (1) relating to appropriation of funds for Federal capital contributions to student loan funds, prior to repeal by [Pub. L. 105–392, title I, § 132(b)][/us/pl/105/392/s132/b], Nov. 13, 1998, [112 Stat. 3575][/us/stat/112/3575], eff. Oct. 1, 2002.
+    [Section 292t(f) of this title][/us/usc/t42/s292t/f], referred to in subsec. (a)(2)(A)(ii)(I), contained provisions in par. (1) relating to appropriation of funds for Federal capital contributions to student loan funds, prior to repeal by [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 132(b), Nov. 13, 1998, [112 Stat. 3575][/us/stat/112/3575], eff. Oct. 1, 2002.
 
  __Prior Provisions__ 
 
@@ -149,33 +149,33 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(B). [Pub. L. 111–148, § 5201(a)(1)(A)][/us/pl/111/148/s5201/a/1/A], added subpar. (B) and struck out former subpar. (B) which read as follows: “to practice in such care through the date on which the loan is repaid in full.”
+    2010—Subsec. (a)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 5201(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to practice in such care through the date on which the loan is repaid in full.”
 
-    Subsec. (a)(3). [Pub. L. 111–148, § 5201(a)(1)(B)][/us/pl/111/148/s5201/a/1/B], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance.”
+    Subsec. (a)(3). [Pub. L. 111–148][/us/pl/111/148], § 5201(a)(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance.”
 
-    Subsec. (d). [Pub. L. 111–148, § 5201(a)(2)][/us/pl/111/148/s5201/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–148][/us/pl/111/148], § 5201(a)(2), added subsec. (d).
 
-    1998—Subsec. (a)(3). [Pub. L. 105–392, § 131(b)][/us/pl/105/392/s131/b], reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
+    1998—Subsec. (a)(3). [Pub. L. 105–392][/us/pl/105/392], § 131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
 
     “(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and
 
     “(B) the recomputed balance will be paid not later than the expiration of the 3-year period beginning on the date on which the student fails to comply with the agreement.”
 
-    Subsec. (b)(1). [Pub. L. 105–392, § 131(a)][/us/pl/105/392/s131/a], substituted “4 years before” for “3 years before”.
+    Subsec. (b)(1). [Pub. L. 105–392][/us/pl/105/392], § 131(a), substituted “4 years before” for “3 years before”.
 
-    Subsecs. (c), (d). [Pub. L. 105–392, § 131(c)][/us/pl/105/392/s131/c], redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.”
+    Subsecs. (c), (d). [Pub. L. 105–392][/us/pl/105/392], § 131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.”
 
-    1993—Subsec. (a)(4). [Pub. L. 103–43, § 2014(c)(1)][/us/pl/103/43/s2014/c/1], added par. (4).
+    1993—Subsec. (a)(4). [Pub. L. 103–43][/us/pl/103/43], § 2014(c)(1), added par. (4).
 
-    Subsec. (b)(1). [Pub. L. 103–43, § 2014(c)(2)(A)][/us/pl/103/43/s2014/c/2/A], substituted “1997;” for “1994,” and “3 years before” for “4 years before”.
+    Subsec. (b)(1). [Pub. L. 103–43][/us/pl/103/43], § 2014(c)(2)(A), substituted “1997;” for “1994,” and “3 years before” for “4 years before”.
 
-    Subsec. (b)(2)(B). [Pub. L. 103–43, § 2014(c)(2)(B)][/us/pl/103/43/s2014/c/2/B], substituted “25 percent” for “15 percent”.
+    Subsec. (b)(2)(B). [Pub. L. 103–43][/us/pl/103/43], § 2014(c)(2)(B), substituted “25 percent” for “15 percent”.
 
-    Subsec. (b)(4)(B). [Pub. L. 103–43, § 2014(c)(2)(C)][/us/pl/103/43/s2014/c/2/C], substituted “1997” for “1994” in cl. (i) and “1998” for “1995” in cl. (ii).
+    Subsec. (b)(4)(B). [Pub. L. 103–43][/us/pl/103/43], § 2014(c)(2)(C), substituted “1997” for “1994” in cl. (i) and “1998” for “1995” in cl. (ii).
 
  __Student Loan Guidelines__ 
 
-[Pub. L. 111–148, title V, § 5201(b)][/us/pl/111/148/s5201/b], Mar. 23, 2010, [124 Stat. 607][/us/stat/124/607], provided that: 
+[Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5201(b), Mar. 23, 2010, [124 Stat. 607][/us/stat/124/607], provided that: 
 
 > “The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act ([42 U.S.C. 292s][/us/usc/t42/s292s]) and the determination of need for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources and Services Administration in accordance with the preceding sentence.”
 
@@ -203,30 +203,30 @@
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2015
-[/us/pl/103/43/s2014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fc
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F216
-[/us/pl/105/392/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs131
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3574
-[/us/pl/111/148/s5201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5201%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F606
 [/us/usc/t42/s292t/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292t%2Ff
-[/us/pl/105/392/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs132%2Fb
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3575
 [/us/usc/t42/s293c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293c
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/pl/111/148/s5201/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5201%2Fa%2F1%2FA
-[/us/pl/111/148/s5201/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5201%2Fa%2F1%2FB
-[/us/pl/111/148/s5201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5201%2Fa%2F2
-[/us/pl/105/392/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs131%2Fb
-[/us/pl/105/392/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs131%2Fa
-[/us/pl/105/392/s131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs131%2Fc
-[/us/pl/103/43/s2014/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fc%2F1
-[/us/pl/103/43/s2014/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fc%2F2%2FA
-[/us/pl/103/43/s2014/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fc%2F2%2FB
-[/us/pl/103/43/s2014/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2014%2Fc%2F2%2FC
-[/us/pl/111/148/s5201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5201%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F607
 [/us/usc/t42/s292s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292s
 

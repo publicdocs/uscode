@@ -37,11 +37,11 @@
 
         (3) On the basis of regular consultation with appropriate Federal agencies, the Administrator shall compile and publish, from time to time, a report on the status and progress of Federal activities relating to noise research and noise control. This report shall describe the noise-control programs of each Federal agency and assess the contributions of those programs to the Federal Government’s overall efforts to control noise.
 
-([Pub. L. 92–574, § 4][/us/pl/92/574/s4], Oct. 27, 1972, [86 Stat. 1235][/us/stat/86/1235].)
+([Pub. L. 92–574][/us/pl/92/574], § 4, Oct. 27, 1972, [86 Stat. 1235][/us/stat/86/1235].)
 
  __Codification__ 
 
-    In subsec. (c)(2), “[section 44715 of title 49][/us/usc/t49/s44715]” substituted for “section 611 of the Federal Aviation Act of 1958 (as amended by section 7 of this Act)” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (c)(2), “[section 44715 of title 49][/us/usc/t49/s44715]” substituted for “section 611 of the Federal Aviation Act of 1958 (as amended by section 7 of this Act)” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Termination of Reporting Requirements__ 
 
@@ -57,10 +57,10 @@
 [/us/usc/t42/s4901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4901%2Fb
 [/us/usc/t42/s4902/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4902%2F3%2FB
 [/us/usc/t49/s44715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44715
-[/us/pl/92/574/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs4
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1235
 [/us/usc/t49/s44715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44715
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

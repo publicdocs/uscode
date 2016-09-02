@@ -53,7 +53,7 @@
 
         For purposes of this section, the term “record” means the record established by the special masters of the United States Court of Federal Claims in a proceeding on a petition filed under [section 300aa–11 of this title][/us/usc/t42/s300aa–11].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2113, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3763][/us/stat/100/3763]; amended [Pub. L. 100–203, title IV, § 4307(4)][/us/pl/100/203/s4307/4], Dec. 22, 1987, [101 Stat. 1330–224][/us/stat/101/1330-224]; [Pub. L. 101–239, title VI, § 6601(j)][/us/pl/101/239/s6601/j], Dec. 19, 1989, [103 Stat. 2290][/us/stat/103/2290]; [Pub. L. 101–502, § 5(c)][/us/pl/101/502/s5/c], Nov. 3, 1990, [104 Stat. 1287][/us/stat/104/1287]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2113, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3763][/us/stat/100/3763]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4307(4), Dec. 22, 1987, [101 Stat. 1330–224][/us/stat/101/1330-224]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6601(j), Dec. 19, 1989, [103 Stat. 2290][/us/stat/103/2290]; [Pub. L. 101–502][/us/pl/101/502], § 5(c), Nov. 3, 1990, [104 Stat. 1287][/us/stat/104/1287]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Prior Provisions__ 
 
@@ -67,9 +67,9 @@
 
     1990—Subsec. (c). [Pub. L. 101–502][/us/pl/101/502] inserted “the” after “special masters of”.
 
-    1989—Subsecs. (a)(1), (b). [Pub. L. 101–239, § 6601(j)(1)][/us/pl/101/239/s6601/j/1], substituted “special master or court” for “court” wherever appearing.
+    1989—Subsecs. (a)(1), (b). [Pub. L. 101–239][/us/pl/101/239], § 6601(j)(1), substituted “special master or court” for “court” wherever appearing.
 
-    Subsec. (c). [Pub. L. 101–239, § 6601(j)(2)][/us/pl/101/239/s6601/j/2], inserted “special masters of” after “established by the”.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 6601(j)(2), inserted “special masters of” after “established by the”.
 
     1987—Subsec. (c). [Pub. L. 100–203][/us/pl/100/203] substituted “the United States Claims Court” for “a district court of the United States”.
 
@@ -95,22 +95,22 @@
 [/us/usc/t42/s300aa–11/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311%2Fc%2F1
 [/us/usc/t42/s300aa–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9311
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3763
-[/us/pl/100/203/s4307/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4307%2F4
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-224
-[/us/pl/101/239/s6601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fj
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2290
-[/us/pl/101/502/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs5%2Fc
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1287
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/usc/t42/s238k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238k
 [/us/usc/t42/s238j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238j
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
-[/us/pl/101/239/s6601/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fj%2F1
-[/us/pl/101/239/s6601/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fj%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911

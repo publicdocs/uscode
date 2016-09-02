@@ -25,7 +25,7 @@
 
     (4) enabling public and assisted housing agencies, tribally designated housing entities, private landlords, property management companies, and other housing providers and agencies to respond appropriately to domestic violence, dating violence, sexual assault, and stalking, while maintaining a safe environment for all housing residents.
 
-([Pub. L. 103–322, title IV, § 41402][/us/pl/103/322/s41402], as added [Pub. L. 109–162, title VI, § 601][/us/pl/109/162/s601], Jan. 5, 2006, [119 Stat. 3031][/us/stat/119/3031]; amended [Pub. L. 113–4, title VI, § 601(a)(2)][/us/pl/113/4/s601/a/2], Mar. 7, 2013, [127 Stat. 102][/us/stat/127/102].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41402, as added [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 601, Jan. 5, 2006, [119 Stat. 3031][/us/stat/119/3031]; amended [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 601(a)(2), Mar. 7, 2013, [127 Stat. 102][/us/stat/127/102].)
 
  __Amendments__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41402
-[/us/pl/109/162/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs601
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3031
-[/us/pl/113/4/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fa%2F2
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F102
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 

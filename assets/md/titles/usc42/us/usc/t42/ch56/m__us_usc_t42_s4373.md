@@ -17,7 +17,7 @@
 
     Each Environmental Quality Report required by [Public Law 91–190][/us/pl/91/190] shall, upon transmittal to Congress, be referred to each standing committee having jurisdiction over any part of the subject matter of the Report.
 
-([Pub. L. 91–224, title II, § 204][/us/pl/91/224/s204], Apr. 3, 1970, [84 Stat. 115][/us/stat/84/115].)
+([Pub. L. 91–224, title II][/us/pl/91/224/tII], § 204, Apr. 3, 1970, [84 Stat. 115][/us/stat/84/115].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
-[/us/pl/91/224/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2Fs204
+[/us/pl/91/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2FtII
 [/us/stat/84/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F115
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190

@@ -55,7 +55,7 @@
 
         The Federal Judicial Center, in carrying out [section 620(b)(3) of title 28][/us/usc/t28/s620/b/3], shall include in the educational programs it prepares, including the training programs for newly appointed judges, information on the aspects of the topics listed in [section 13992 of this title][/us/usc/t42/s13992] that pertain to issues within the jurisdiction of the Federal courts, and shall prepare materials necessary to implement this subsection.
 
-([Pub. L. 103–322, title IV, § 40421][/us/pl/103/322/s40421], Sept. 13, 1994, [108 Stat. 1944][/us/stat/108/1944]; [Pub. L. 106–386, div. B, title IV, § 1406(b)(1)][/us/pl/106/386/s1406/b/1], Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40421, Sept. 13, 1994, [108 Stat. 1944][/us/stat/108/1944]; [Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1406(b)(1), Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 [/us/usc/t42/s13992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13992
 [/us/usc/t28/s620/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs620%2Fb%2F3
 [/us/usc/t42/s13992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13992
-[/us/pl/103/322/s40421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40421
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1944
-[/us/pl/106/386/s1406/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fb%2F1
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1516
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 

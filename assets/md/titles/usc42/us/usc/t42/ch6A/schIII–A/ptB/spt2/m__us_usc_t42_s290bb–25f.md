@@ -43,7 +43,7 @@
 
         There is authorized to be appropriated to carry out this section, $15,000,000 for each of fiscal years 2005 through 2010.
 
-([Pub. L. 108–358, § 4][/us/pl/108/358/s4], Oct. 22, 2004, [118 Stat. 1664][/us/stat/118/1664].)
+([Pub. L. 108–358][/us/pl/108/358], § 4, Oct. 22, 2004, [118 Stat. 1664][/us/stat/118/1664].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/358/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs4
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/118/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1664
 [/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/92/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1661

@@ -17,11 +17,11 @@
 
     The Administrator shall ensure that the Science Mission Directorate maintains a long term technology development program for space and Earth science. This effort should be coordinated with an overall Agency technology investment approach, as authorized in section 905 of this Act.
 
-([Pub. L. 111–267, title VIII, § 801][/us/pl/111/267/s801], Oct. 11, 2010, [124 Stat. 2832][/us/stat/124/2832].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 801, Oct. 11, 2010, [124 Stat. 2832][/us/stat/124/2832].)
 
  __References in Text__ 
 
-    Section 905 of this Act, referred to in text, is [Pub. L. 111–267, title IX, § 905][/us/pl/111/267/s905], Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836], which is not classified to the Code.
+    Section 905 of this Act, referred to in text, is [Pub. L. 111–267, title IX][/us/pl/111/267/tIX], § 905, Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836], which is not classified to the Code.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/111/267/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs801
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2832
-[/us/pl/111/267/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs905
+[/us/pl/111/267/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIX
 [/us/stat/124/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2836
 
 

@@ -109,7 +109,7 @@
 
             In any action under this section, any person may intervene as a matter of right when such person has a direct interest which is or may be adversely affected by the action and the disposition of the action may, as a practical matter, impair or impede the person’s ability to protect that interest unless the Administrator or the State shows that the person’s interest is adequately represented by existing parties in the action.
 
-([Pub. L. 99–499, title III, § 326][/us/pl/99/499/s326], Oct. 17, 1986, [100 Stat. 1755][/us/stat/100/1755].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 326, Oct. 17, 1986, [100 Stat. 1755][/us/stat/100/1755].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 [/us/usc/t42/s11003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11003%2Fd
 [/us/usc/t42/s11022/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11022%2Fe%2F1
 [/us/usc/t42/s11042/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11042%2Fg
-[/us/pl/99/499/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs326
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1755
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613

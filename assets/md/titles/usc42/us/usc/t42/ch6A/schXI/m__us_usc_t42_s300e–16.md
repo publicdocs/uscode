@@ -33,11 +33,11 @@
 
         The authority of the Secretary to enter into contracts under subsections (a) and (b) of this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1317, as added [Pub. L. 95–559, § 7(a)][/us/pl/95/559/s7/a], Nov. 1, 1978, [92 Stat. 2134][/us/stat/92/2134]; amended [Pub. L. 99–660, title VIII, § 803(b)(4)][/us/pl/99/660/s803/b/4], Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1317, as added [Pub. L. 95–559][/us/pl/95/559], § 7(a), Nov. 1, 1978, [92 Stat. 2134][/us/stat/92/2134]; amended [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 803(b)(4), Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800].)
 
  __References in Text__ 
 
-    [Section 300e–9(d) of this title][/us/usc/t42/s300e–9/d], referred to in subsec. (b), was redesignated [section 300e–9(c) of this title][/us/usc/t42/s300e–9/c] by [Pub. L. 100–517, § 7(b)][/us/pl/100/517/s7/b], Oct. 24, 1988, [102 Stat. 2580][/us/stat/102/2580].
+    [Section 300e–9(d) of this title][/us/usc/t42/s300e–9/d], referred to in subsec. (b), was redesignated [section 300e–9(c) of this title][/us/usc/t42/s300e–9/c] by [Pub. L. 100–517][/us/pl/100/517], § 7(b), Oct. 24, 1988, [102 Stat. 2580][/us/stat/102/2580].
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–559, § 7(c)][/us/pl/95/559/s7/c], Nov. 1, 1978, [92 Stat. 2135][/us/stat/92/2135], provided that: 
+[Pub. L. 95–559][/us/pl/95/559], § 7(c), Nov. 1, 1978, [92 Stat. 2135][/us/stat/92/2135], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 300e–8 of this title][/us/usc/t42/s300e–8]\] shall only be effective for fiscal years beginning on or after October 1, 1978.”
 
@@ -64,13 +64,13 @@
 
 [/us/usc/t42/s300e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%935
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/559/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs7%2Fa
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2134
-[/us/pl/99/660/s803/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fb%2F4
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
 [/us/usc/t42/s300e–9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fd
 [/us/usc/t42/s300e–9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fc
-[/us/pl/100/517/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs7%2Fb
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
 [/us/stat/102/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2580
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
@@ -79,7 +79,7 @@
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/99/660/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs815%2Fa
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931
-[/us/pl/95/559/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs7%2Fc
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2135
 [/us/usc/t42/s300e–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%938
 

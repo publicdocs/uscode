@@ -17,7 +17,7 @@
 
     Any authority provided by this Act, including any amendment made by this Act, to enter into contracts to obligate the United States or to incur indebtedness for the repayment of which the United States is liable shall be effective only to such extent or in such amounts as are provided in appropriation Acts.
 
-([Pub. L. 99–499, § 3][/us/pl/99/499/s3], Oct. 17, 1986, [100 Stat. 1614][/us/stat/100/1614].)
+([Pub. L. 99–499][/us/pl/99/499], § 3, Oct. 17, 1986, [100 Stat. 1614][/us/stat/100/1614].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/499/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs3
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1614
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613

@@ -53,7 +53,7 @@
 
         The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board access to any information that the Board considers relevant to carry out its responsibilities under this subchapter, including information such as Restricted Data (as defined in [section 2014(y) of this title][/us/usc/t42/s2014/y]) and information covered by the Privacy Act \[[5 U.S.C. 552a][/us/usc/t5/s552a]\].
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3624\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–504; [Pub. L. 108–375, div. C, title XXXI, § 3166(a)][/us/pl/108/375/s3166/a], Oct. 28, 2004, [118 Stat. 2188][/us/stat/118/2188].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3624\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–504; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3166(a), Oct. 28, 2004, [118 Stat. 2188][/us/stat/118/2188].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s3166/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3166%2Fa
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2188
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

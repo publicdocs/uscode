@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services (hereinafter in this subchapter referred to as the “Secretary”) may issue such rules as the Secretary considers necessary or appropriate to carry out the purposes of this subchapter.
 
-([Pub. L. 93–415, title III, § 303][/us/pl/93/415/s303], Sept. 7, 1974, [88 Stat. 1130][/us/stat/88/1130]; [Pub. L. 98–473, title II, § 650][/us/pl/98/473/s650], Oct. 12, 1984, [98 Stat. 2122][/us/stat/98/2122].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 303, Sept. 7, 1974, [88 Stat. 1130][/us/stat/88/1130]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 650, Oct. 12, 1984, [98 Stat. 2122][/us/stat/98/2122].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/415/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs303
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
 [/us/stat/88/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1130
-[/us/pl/98/473/s650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs650
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2122
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

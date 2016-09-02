@@ -63,19 +63,19 @@
 
         All meetings of the board of directors will be conducted in accordance with the provisions of [section 552b of title 5][/us/usc/t5/s552b].
 
-([Pub. L. 95–557, title VI, § 604][/us/pl/95/557/s604], Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115]; [Pub. L. 97–320, title VII, § 710(a)][/us/pl/97/320/s710/a], Oct. 15, 1982, [96 Stat. 1544][/us/stat/96/1544]; [Pub. L. 100–242, title V, § 520(a)][/us/pl/100/242/s520/a], Feb. 5, 1988, [101 Stat. 1938][/us/stat/101/1938]; [Pub. L. 100–628, title X, § 1085][/us/pl/100/628/s1085], Nov. 7, 1988, [102 Stat. 3278][/us/stat/102/3278].)
+([Pub. L. 95–557, title VI][/us/pl/95/557/tVI], § 604, Oct. 31, 1978, [92 Stat. 2115][/us/stat/92/2115]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 710(a), Oct. 15, 1982, [96 Stat. 1544][/us/stat/96/1544]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 520(a), Feb. 5, 1988, [101 Stat. 1938][/us/stat/101/1938]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1085, Nov. 7, 1988, [102 Stat. 3278][/us/stat/102/3278].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–242, § 520(a)(1)][/us/pl/100/242/s520/a/1], inserted “or a member of the Federal Home Loan Bank Board to be designated by the Chairman” before semicolon.
+    1988—Subsec. (a)(1). [Pub. L. 100–242][/us/pl/100/242], § 520(a)(1), inserted “or a member of the Federal Home Loan Bank Board to be designated by the Chairman” before semicolon.
 
-    Subsec. (a)(3). [Pub. L. 100–242, § 520(a)(2)][/us/pl/100/242/s520/a/2], added par. (3) and struck out former par. (3) which read as follows: “a member of the Board of Governors of the Federal Reserve System, to be designated by the Chairman of the Board of Governors of the Federal Reserve System;”.
+    Subsec. (a)(3). [Pub. L. 100–242][/us/pl/100/242], § 520(a)(2), added par. (3) and struck out former par. (3) which read as follows: “a member of the Board of Governors of the Federal Reserve System, to be designated by the Chairman of the Board of Governors of the Federal Reserve System;”.
 
-    Subsec. (a)(4). [Pub. L. 100–242, § 520(a)(3)][/us/pl/100/242/s520/a/3], inserted “or the appointive member of the Board of Directors of the Federal Deposit Insurance Corporation if so designated by the Chairman” before semicolon.
+    Subsec. (a)(4). [Pub. L. 100–242][/us/pl/100/242], § 520(a)(3), inserted “or the appointive member of the Board of Directors of the Federal Deposit Insurance Corporation if so designated by the Chairman” before semicolon.
 
     Subsec. (a)(6). [Pub. L. 100–628][/us/pl/100/628] struck out second of the two periods at end.
 
-    [Pub. L. 100–242, § 520(a)(4)][/us/pl/100/242/s520/a/4], substituted “Chairman” for “Administrator” and inserted “or a member of the Board of the National Credit Union Administration to be designated by the Chairman.” before period.
+    [Pub. L. 100–242][/us/pl/100/242], § 520(a)(4), substituted “Chairman” for “Administrator” and inserted “or a member of the Board of the National Credit Union Administration to be designated by the Chairman.” before period.
 
     1982—Subsecs. (f) to (i). [Pub. L. 97–320][/us/pl/97/320] added subsec. (f), redesignated former subsecs. (f) to (h) as (g) to (i), respectively, and in subsec. (g) inserted “, or their representatives as provided in subsection (f) of this section,”.
 
@@ -92,19 +92,19 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/95/557/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs604
+[/us/pl/95/557/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVI
 [/us/stat/92/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2115
-[/us/pl/97/320/s710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs710%2Fa
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1544
-[/us/pl/100/242/s520/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs520%2Fa
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1938
-[/us/pl/100/628/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1085
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3278
-[/us/pl/100/242/s520/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs520%2Fa%2F1
-[/us/pl/100/242/s520/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs520%2Fa%2F2
-[/us/pl/100/242/s520/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs520%2Fa%2F3
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/pl/100/242/s520/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs520%2Fa%2F4
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1437

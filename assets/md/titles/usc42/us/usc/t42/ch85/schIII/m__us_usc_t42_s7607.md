@@ -155,21 +155,21 @@
 
         It is the intent of Congress that, consistent with the policy of subchapter II of chapter 5 of title 5, the Administrator in promulgating any regulation under this chapter, including a regulation subject to a deadline, shall ensure a reasonable period for public participation of at least 30 days, except as otherwise expressly provided in section  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “sections”. </sup></sup>  7407(d), 7502(a), 7511(a) and (b), and 7512(a) and (b) of this title.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 307, as added [Pub. L. 91–604, § 12(a)][/us/pl/91/604/s12/a], Dec. 31, 1970, [84 Stat. 1707][/us/stat/84/1707]; amended [Pub. L. 92–157, title III, § 302(a)][/us/pl/92/157/s302/a], Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 93–319, § 6(c)][/us/pl/93/319/s6/c], June 22, 1974, [88 Stat. 259][/us/stat/88/259]; [Pub. L. 95–95, title III][/us/pl/95/95], §§ 303(d), 305(a), (c), (f)–(h), Aug. 7, 1977, [91 Stat. 772][/us/stat/91/772], 776, 777; [Pub. L. 95–190, § 14(a)(79)][/us/pl/95/190/s14/a/79], (80), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title I][/us/pl/101/549], §§ 108(p), 110(5), title III, § 302(g), (h), title VII, §§ 702(c), 703, 706, 707(h), 710(b), Nov. 15, 1990, [104 Stat. 2469][/us/stat/104/2469], 2470, 2574, 2681–2684.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 307, as added [Pub. L. 91–604][/us/pl/91/604], § 12(a), Dec. 31, 1970, [84 Stat. 1707][/us/stat/84/1707]; amended [Pub. L. 92–157, title III][/us/pl/92/157/tIII], § 302(a), Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 93–319][/us/pl/93/319], § 6(c), June 22, 1974, [88 Stat. 259][/us/stat/88/259]; [Pub. L. 95–95, title III][/us/pl/95/95/tIII], §§ 303(d), 305(a), (c), (f)–(h), Aug. 7, 1977, [91 Stat. 772][/us/stat/91/772], 776, 777; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(79), (80), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], §§ 108(p), 110(5), title III, § 302(g), (h), title VII, §§ 702(c), 703, 706, 707(h), 710(b), Nov. 15, 1990, [104 Stat. 2469][/us/stat/104/2469], 2470, 2574, 2681–2684.)
 
  __References in Text__ 
 
-    [Section 7521(b)(4) of this title][/us/usc/t42/s7521/b/4], referred to in subsec. (a), was repealed by [Pub. L. 101–549, title II, § 230(2)][/us/pl/101/549/s230/2], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
+    [Section 7521(b)(4) of this title][/us/usc/t42/s7521/b/4], referred to in subsec. (a), was repealed by [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 230(2), Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
 
-    [Section 7521(b)(5) of this title][/us/usc/t42/s7521/b/5], referred to in subsec. (b)(1), was repealed by [Pub. L. 101–549, title II, § 230(3)][/us/pl/101/549/s230/3], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
+    [Section 7521(b)(5) of this title][/us/usc/t42/s7521/b/5], referred to in subsec. (b)(1), was repealed by [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 230(3), Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].
 
-    Section 1857c–10(c)(2)(A), (B), or (C) of this title (as in effect before August 7, 1977), referred to in subsec. (b)(1), was in the original “section 119(c)(2)(A), (B), or (C) (as in effect before the date of enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, as added June 22, 1974, [Pub. L. 93–319, § 3][/us/pl/93/319/s3], [88 Stat. 248][/us/stat/88/248], (which was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10]) as in effect prior to the enactment of [Pub. L. 95–95][/us/pl/95/95], Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], effective Aug. 7, 1977. [Section 112(b)(1) of Pub. L. 95–95][/us/pl/95/95/s112/b/1] repealed section 119 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, as added by [Pub. L. 93–319][/us/pl/93/319], and provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of [section 7413 of this title][/us/usc/t42/s7413]. [Section 7413(d) of this title][/us/usc/t42/s7413/d] was subsequently amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders. [Section 117(b) of Pub. L. 95–95][/us/pl/95/95/s117/b] added a new section 119 of act July 14, 1955, which is classified to [section 7419 of this title][/us/usc/t42/s7419].
+    Section 1857c–10(c)(2)(A), (B), or (C) of this title (as in effect before August 7, 1977), referred to in subsec. (b)(1), was in the original “section 119(c)(2)(A), (B), or (C) (as in effect before the date of enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of [act July 14, 1955, ch. 360, title I][/us/act/1955-07-14/ch360/tI], as added June 22, 1974, [Pub. L. 93–319][/us/pl/93/319], § 3, [88 Stat. 248][/us/stat/88/248], (which was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10]) as in effect prior to the enactment of [Pub. L. 95–95][/us/pl/95/95], Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], effective Aug. 7, 1977. [Section 112(b)(1) of Pub. L. 95–95][/us/pl/95/95/s112/b/1] repealed section 119 of [act July 14, 1955, ch. 360, title I][/us/act/1955-07-14/ch360/tI], as added by [Pub. L. 93–319][/us/pl/93/319], and provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of [section 7413 of this title][/us/usc/t42/s7413]. [Section 7413(d) of this title][/us/usc/t42/s7413/d] was subsequently amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders. [Section 117(b) of Pub. L. 95–95][/us/pl/95/95/s117/b] added a new section 119 of act July 14, 1955, which is classified to [section 7419 of this title][/us/usc/t42/s7419].
 
     Part C of subchapter I of this chapter, referred to in subsec. (d)(1)(J), was in the original “subtitle C of title I”, and was translated as reading “part C of title I” to reflect the probable intent of Congress, because title I does not contain subtitles.
 
  __Codification__ 
 
-    In subsec. (h), “subchapter II of chapter 5 of title 5” was substituted for “the Administrative Procedures Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (h), “subchapter II of chapter 5 of title 5” was substituted for “the Administrative Procedures Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
     Section was formerly classified to [section 1857h–5 of this title][/us/usc/t42/s1857h–5].
 
@@ -177,65 +177,65 @@
 
     A prior section 307 of act July 14, 1955, was renumbered section 314 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7614 of this title][/us/usc/t42/s7614].
 
-    Another prior section 307 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, formerly § 14, as added Dec. 17, 1963, [Pub. L. 88–206, § 1][/us/pl/88/206/s1], [77 Stat. 401][/us/stat/77/401], was renumbered section 307 by [Pub. L. 89–272][/us/pl/89/272], renumbered section 310 by [Pub. L. 90–148][/us/pl/90/148], and renumbered section 317 by [Pub. L. 91–604][/us/pl/91/604], and is set out as a Short Title note under [section 7401 of this title][/us/usc/t42/s7401].
+    Another prior section 307 of [act July 14, 1955, ch. 360, title III][/us/act/1955-07-14/ch360/tIII], formerly § 14, as added Dec. 17, 1963, [Pub. L. 88–206][/us/pl/88/206], § 1, [77 Stat. 401][/us/stat/77/401], was renumbered section 307 by [Pub. L. 89–272][/us/pl/89/272], renumbered section 310 by [Pub. L. 90–148][/us/pl/90/148], and renumbered section 317 by [Pub. L. 91–604][/us/pl/91/604], and is set out as a Short Title note under [section 7401 of this title][/us/usc/t42/s7401].
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–549, § 703][/us/pl/101/549/s703], struck out par. (1) designation at beginning, inserted provisions authorizing issuance of subpoenas and administration of oaths for purposes of investigations, monitoring, reporting requirements, entries, compliance inspections, or administrative enforcement proceedings under this chapter, and struck out “or section 7521(b)(5)” after “section 7410(f)”.
+    1990—Subsec. (a). [Pub. L. 101–549][/us/pl/101/549], § 703, struck out par. (1) designation at beginning, inserted provisions authorizing issuance of subpoenas and administration of oaths for purposes of investigations, monitoring, reporting requirements, entries, compliance inspections, or administrative enforcement proceedings under this chapter, and struck out “or section 7521(b)(5)” after “section 7410(f)”.
 
-    Subsec. (b)(1). [Pub. L. 101–549, § 706(2)][/us/pl/101/549/s706/2], which directed amendment of second sentence by striking “under [section 7413(d) of this title][/us/usc/t42/s7413/d]” immediately before “under [section 7419 of this title][/us/usc/t42/s7419]”, was executed by striking “under [section 7413(d) of this title][/us/usc/t42/s7413/d],” before “under [section 7419 of this title][/us/usc/t42/s7419]”, to reflect the probable intent of Congress.
+    Subsec. (b)(1). [Pub. L. 101–549][/us/pl/101/549], § 706(2), which directed amendment of second sentence by striking “under [section 7413(d) of this title][/us/usc/t42/s7413/d]” immediately before “under [section 7419 of this title][/us/usc/t42/s7419]”, was executed by striking “under [section 7413(d) of this title][/us/usc/t42/s7413/d],” before “under [section 7419 of this title][/us/usc/t42/s7419]”, to reflect the probable intent of Congress.
 
-    [Pub. L. 101–549, § 706(1)][/us/pl/101/549/s706/1], inserted at end: “The filing of a petition for reconsideration by the Administrator of any otherwise final rule or action shall not affect the finality of such rule or action for purposes of judicial review nor extend the time within which a petition for judicial review of such rule or action under this section may be filed, and shall not postpone the effectiveness of such rule or action.”
+    [Pub. L. 101–549][/us/pl/101/549], § 706(1), inserted at end: “The filing of a petition for reconsideration by the Administrator of any otherwise final rule or action shall not affect the finality of such rule or action for purposes of judicial review nor extend the time within which a petition for judicial review of such rule or action under this section may be filed, and shall not postpone the effectiveness of such rule or action.”
 
-    [Pub. L. 101–549, § 702(c)][/us/pl/101/549/s702/c], inserted “or revising regulations for enhanced monitoring and compliance certification programs under [section 7414(a)(3) of this title][/us/usc/t42/s7414/a/3],” before “or any other final action of the Administrator”.
+    [Pub. L. 101–549][/us/pl/101/549], § 702(c), inserted “or revising regulations for enhanced monitoring and compliance certification programs under [section 7414(a)(3) of this title][/us/usc/t42/s7414/a/3],” before “or any other final action of the Administrator”.
 
-    [Pub. L. 101–549, § 302(g)][/us/pl/101/549/s302/g], substituted “section 7412” for “section 7412(c)”.
+    [Pub. L. 101–549][/us/pl/101/549], § 302(g), substituted “section 7412” for “section 7412(c)”.
 
-    Subsec. (b)(2). [Pub. L. 101–549, § 707(h)][/us/pl/101/549/s707/h], inserted sentence at end authorizing challenge to deferrals of performance of nondiscretionary statutory actions.
+    Subsec. (b)(2). [Pub. L. 101–549][/us/pl/101/549], § 707(h), inserted sentence at end authorizing challenge to deferrals of performance of nondiscretionary statutory actions.
 
-    Subsec. (d)(1)(C). [Pub. L. 101–549, § 110(5)(A)][/us/pl/101/549/s110/5/A], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the promulgation or revision of any standard of performance under [section 7411 of this title][/us/usc/t42/s7411] or emission standard under [section 7412 of this title][/us/usc/t42/s7412],”.
+    Subsec. (d)(1)(C). [Pub. L. 101–549][/us/pl/101/549], § 110(5)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the promulgation or revision of any standard of performance under [section 7411 of this title][/us/usc/t42/s7411] or emission standard under [section 7412 of this title][/us/usc/t42/s7412],”.
 
-    Subsec. (d)(1)(D), (E). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], added subpar. (D) and redesignated former subpar. (D) as (E). Former subpar. (E) redesignated (F).
+    Subsec. (d)(1)(D), (E). [Pub. L. 101–549][/us/pl/101/549], § 302(h), added subpar. (D) and redesignated former subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-    Subsec. (d)(1)(F). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpar. (E) as (F). Former subpar. (F) redesignated (G).
+    Subsec. (d)(1)(F). [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (G).
 
-    [Pub. L. 101–549, § 110(5)(B)][/us/pl/101/549/s110/5/B], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “promulgation or revision of regulations pertaining to orders for coal conversion under [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5] (but not including orders granting or denying any such orders),”.
+    [Pub. L. 101–549][/us/pl/101/549], § 110(5)(B), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “promulgation or revision of regulations pertaining to orders for coal conversion under [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5] (but not including orders granting or denying any such orders),”.
 
-    Subsec. (d)(1)(G), (H). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpars. (F) and (G) as (G) and (H), respectively. Former subpar. (H) redesignated (I).
+    Subsec. (d)(1)(G), (H). [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpars. (F) and (G) as (G) and (H), respectively. Former subpar. (H) redesignated (I).
 
-    Subsec. (d)(1)(I). [Pub. L. 101–549, § 710(b)][/us/pl/101/549/s710/b], which directed that subpar. (H) be amended by substituting “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, was executed by making the substitution in subpar. (I), to reflect the probable intent of Congress and the intervening redesignation of subpar. (H) as (I) by [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], see below.
+    Subsec. (d)(1)(I). [Pub. L. 101–549][/us/pl/101/549], § 710(b), which directed that subpar. (H) be amended by substituting “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, was executed by making the substitution in subpar. (I), to reflect the probable intent of Congress and the intervening redesignation of subpar. (H) as (I) by [Pub. L. 101–549][/us/pl/101/549], § 302(h), see below.
 
-    [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpar. (H) as (I). Former subpar. (I) redesignated (J).
+    [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpar. (H) as (I). Former subpar. (I) redesignated (J).
 
-    Subsec. (d)(1)(J) to (M). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpars. (I) to (L) as (J) to (M), respectively. Former subpar. (M) redesignated (N).
+    Subsec. (d)(1)(J) to (M). [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpars. (I) to (L) as (J) to (M), respectively. Former subpar. (M) redesignated (N).
 
-    Subsec. (d)(1)(N). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpar. (M) as (N). Former subpar. (N) redesignated (O).
+    Subsec. (d)(1)(N). [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpar. (M) as (N). Former subpar. (N) redesignated (O).
 
-    [Pub. L. 101–549, § 110(5)(C)][/us/pl/101/549/s110/5/C], added subpar. (N) and redesignated former subpar. (N) as (U).
+    [Pub. L. 101–549][/us/pl/101/549], § 110(5)(C), added subpar. (N) and redesignated former subpar. (N) as (U).
 
-    Subsec. (d)(1)(O) to (T). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpars. (N) to (S) as (O) to (T), respectively. Former subpar. (T) redesignated (U).
+    Subsec. (d)(1)(O) to (T). [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpars. (N) to (S) as (O) to (T), respectively. Former subpar. (T) redesignated (U).
 
-    [Pub. L. 101–549, § 110(5)(C)][/us/pl/101/549/s110/5/C], added subpars. (O) to (T).
+    [Pub. L. 101–549][/us/pl/101/549], § 110(5)(C), added subpars. (O) to (T).
 
-    Subsec. (d)(1)(U). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpar. (T) as (U). Former subpar. (U) redesignated (V).
+    Subsec. (d)(1)(U). [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpar. (T) as (U). Former subpar. (U) redesignated (V).
 
-    [Pub. L. 101–549, § 110(5)(C)][/us/pl/101/549/s110/5/C], redesignated former subpar. (N) as (U).
+    [Pub. L. 101–549][/us/pl/101/549], § 110(5)(C), redesignated former subpar. (N) as (U).
 
-    Subsec. (d)(1)(V). [Pub. L. 101–549, § 302(h)][/us/pl/101/549/s302/h], redesignated subpar. (U) as (V).
+    Subsec. (d)(1)(V). [Pub. L. 101–549][/us/pl/101/549], § 302(h), redesignated subpar. (U) as (V).
 
-    Subsec. (h). [Pub. L. 101–549, § 108(p)][/us/pl/101/549/s108/p], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–549][/us/pl/101/549], § 108(p), added subsec. (h).
 
     1977—Subsec. (b)(1). [Pub. L. 95–190][/us/pl/95/190] in text relating to filing of petitions for review in the United States Court of Appeals for the District of Columbia inserted provision respecting requirements under sections 7411 and 7412 of this title, and substituted provisions authorizing review of any rule issued under section 7413, 7419, or 7420 of this title, for provisions authorizing review of any rule or order issued under [section 7420 of this title][/us/usc/t42/s7420], relating to noncompliance penalties, and in text relating to filing of petitions for review in the United States Court of Appeals for the appropriate circuit inserted provision respecting review under section 7411(j), 7412(c), 7413(d), or 7419 of this title, provision authorizing review under section 1857c–10(c)(2)(A), (B), or (C) to the period prior to Aug. 7, 1977, and provisions authorizing review of denials or disapprovals by the Administrator under subchapter I of this chapter.
 
-    [Pub. L. 95–95, § 305(c)][/us/pl/95/95/s305/c], (h), inserted rules or orders issued under [section 7420 of this title][/us/usc/t42/s7420] (relating to noncompliance penalties) and any other nationally applicable regulations promulgated, or final action taken, by the Administrator under this chapter to the enumeration of actions of the Administrator for which a petition for review may be filed only in the United States Court of Appeals for the District of Columbia, added the approval or promulgation by the Administrator of orders under [section 7420 of this title][/us/usc/t42/s7420], or any other final action of the Administrator under this chapter which is locally or regionally applicable to the enumeration of actions by the Administrator for which a petition for review may be filed only in the United States Court of Appeals for the appropriate circuit, inserted provision that petitions otherwise capable of being filed in the Court of Appeals for the appropriate circuit may be filed only in the Court of Appeals for the District of Columbia if the action is based on a determination of nationwide scope, and increased from 30 days to 60 days the period during which the petition must be filed.
+    [Pub. L. 95–95][/us/pl/95/95], § 305(c), (h), inserted rules or orders issued under [section 7420 of this title][/us/usc/t42/s7420] (relating to noncompliance penalties) and any other nationally applicable regulations promulgated, or final action taken, by the Administrator under this chapter to the enumeration of actions of the Administrator for which a petition for review may be filed only in the United States Court of Appeals for the District of Columbia, added the approval or promulgation by the Administrator of orders under [section 7420 of this title][/us/usc/t42/s7420], or any other final action of the Administrator under this chapter which is locally or regionally applicable to the enumeration of actions by the Administrator for which a petition for review may be filed only in the United States Court of Appeals for the appropriate circuit, inserted provision that petitions otherwise capable of being filed in the Court of Appeals for the appropriate circuit may be filed only in the Court of Appeals for the District of Columbia if the action is based on a determination of nationwide scope, and increased from 30 days to 60 days the period during which the petition must be filed.
 
-    Subsec. (d). [Pub. L. 95–95, § 305(a)][/us/pl/95/95/s305/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–95][/us/pl/95/95], § 305(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 95–95, § 303(d)][/us/pl/95/95/s303/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–95][/us/pl/95/95], § 303(d), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 95–95, § 305(f)][/us/pl/95/95/s305/f], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–95][/us/pl/95/95], § 305(f), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 95–95, § 305(g)][/us/pl/95/95/s305/g], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–95][/us/pl/95/95], § 305(g), added subsec. (g).
 
     1974—Subsec. (b)(1). [Pub. L. 93–319][/us/pl/93/319] inserted reference to the Administrator’s action under section 1857c–10(c)(2)(A), (B), or (C) of this title or under regulations thereunder and substituted reference to the filing of a petition within 30 days from the date of promulgation, approval, or action for reference to the filing of a petition within 30 days from the date of promulgation or approval.
 
@@ -309,92 +309,92 @@
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs12%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1707
-[/us/pl/92/157/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs302%2Fa
+[/us/pl/92/157/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtIII
 [/us/stat/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F464
-[/us/pl/93/319/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs6%2Fc
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F259
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F772
-[/us/pl/95/190/s14/a/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F79
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1404
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2469
 [/us/usc/t42/s7521/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fb%2F4
-[/us/pl/101/549/s230/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F2
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
 [/us/usc/t42/s7521/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fb%2F5
-[/us/pl/101/549/s230/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs230%2F3
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/93/319/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs3
+[/us/act/1955-07-14/ch360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtI
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F248
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/stat/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F691
 [/us/pl/95/95/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fb%2F1
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
+[/us/act/1955-07-14/ch360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtI
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/pl/95/95/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs117%2Fb
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t42/s1857h–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857h%E2%80%935
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7614
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/act/1955-07-14/ch360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtIII
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F401
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/101/549/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs703
-[/us/pl/101/549/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs706%2F2
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
-[/us/pl/101/549/s706/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs706%2F1
-[/us/pl/101/549/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs702%2Fc
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7414/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7414%2Fa%2F3
-[/us/pl/101/549/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fg
-[/us/pl/101/549/s707/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fh
-[/us/pl/101/549/s110/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs110%2F5%2FA
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s110/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs110%2F5%2FB
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7413/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd%2F5
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s710/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs710%2Fb
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s110/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs110%2F5%2FC
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s110/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs110%2F5%2FC
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s110/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs110%2F5%2FC
-[/us/pl/101/549/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fh
-[/us/pl/101/549/s108/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fp
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
-[/us/pl/95/95/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs305%2Fc
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
-[/us/pl/95/95/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs305%2Fa
-[/us/pl/95/95/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs303%2Fd
-[/us/pl/95/95/s305/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs305%2Ff
-[/us/pl/95/95/s305/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs305%2Fg
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/92/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95

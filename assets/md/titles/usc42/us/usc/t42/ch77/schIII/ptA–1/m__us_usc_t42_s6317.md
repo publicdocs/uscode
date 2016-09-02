@@ -55,7 +55,7 @@
 
         (2) For purposes of [section 6303(a) of this title][/us/usc/t42/s6303/a], paragraph (1) of this subsection shall be considered to be a part of [section 6302 of this title][/us/usc/t42/s6302].
 
-([Pub. L. 94–163, title III, § 346][/us/pl/94/163/s346], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3272][/us/stat/92/3272]; amended [Pub. L. 102–486, title I, § 124(a)][/us/pl/102/486/s124/a], Oct. 24, 1992, [106 Stat. 2832][/us/stat/106/2832].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 346, as added [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3272][/us/stat/92/3272]; amended [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 124(a), Oct. 24, 1992, [106 Stat. 2832][/us/stat/106/2832].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Study of Utility Distribution Transformers; Report to Congress__ 
 
-[Pub. L. 102–486, title I, § 124(c)][/us/pl/102/486/s124/c], Oct. 24, 1992, [106 Stat. 2833][/us/stat/106/2833], provided that: 
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 124(c), Oct. 24, 1992, [106 Stat. 2833][/us/stat/106/2833], provided that: 
 
 > “The Secretary shall evaluate the practicability, cost-effectiveness, and potential energy savings of replacing, or upgrading components of, existing utility distribution transformers during routine maintenance and, not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], report the findings of such evaluation to the Congress with recommendations on how such energy savings, if any, could be achieved.”
 
@@ -81,13 +81,13 @@
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6303%2Fa
 [/us/usc/t42/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6302
-[/us/pl/94/163/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs346
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3272
-[/us/pl/102/486/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs124%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2832
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/102/486/s124/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs124%2Fc
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2833
 
 

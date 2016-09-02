@@ -33,7 +33,7 @@
 
             The Secretary shall comply with applicable State water laws in carrying out this chapter.
 
-([Pub. L. 111–11, title IX, § 9510][/us/pl/111/11/s9510], Mar. 30, 2009, [123 Stat. 1346][/us/stat/123/1346].)
+([Pub. L. 111–11, title IX][/us/pl/111/11/tIX], § 9510, Mar. 30, 2009, [123 Stat. 1346][/us/stat/123/1346].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s9510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9510
+[/us/pl/111/11/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIX
 [/us/stat/123/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1346
 
 

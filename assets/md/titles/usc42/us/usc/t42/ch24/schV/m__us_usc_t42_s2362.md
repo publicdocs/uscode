@@ -31,19 +31,19 @@
 
         The Commission may sell any notes and mortgages acquired under subsections (a) and (c) of this section on terms set by the Commission. Notwithstanding any other provisions of law and without regard to the provisions of [section 6101 of title 41][/us/usc/t41/s6101], the Commission may, in accordance with such terms and conditions as it may prescribe, (1) enter into contracts for servicing any of the notes and mortgages it has acquired, and (2) sell or enter into contracts to sell to a servicer any notes and mortgages with respect to which a servicing contract has been entered into by the servicer with the Commission: Provided, That with respect to sales of notes and mortgages under (2) the Commission shall comply with [section 6101 of title 41][/us/usc/t41/s6101] unless it determines that such compliance would not be feasible.
 
-([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 6, § 62, [69 Stat. 478][/us/stat/69/478]; [July 25, 1956, ch. 731, § 2][/us/act/1956-07-25/ch731/s2], [70 Stat. 653][/us/stat/70/653]; [Pub. L. 87–719][/us/pl/87/719], §§ 15, 16, Sept. 28, 1962, [76 Stat. 665][/us/stat/76/665]; [Pub. L. 90–19, § 11][/us/pl/90/19/s11], May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
+([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 6, § 62, [69 Stat. 478][/us/stat/69/478]; [July 25, 1956, ch. 731][/us/act/1956-07-25/ch731], § 2, [70 Stat. 653][/us/stat/70/653]; [Pub. L. 87–719][/us/pl/87/719], §§ 15, 16, Sept. 28, 1962, [76 Stat. 665][/us/stat/76/665]; [Pub. L. 90–19][/us/pl/90/19], § 11, May 25, 1967, [81 Stat. 23][/us/stat/81/23].)
 
  __Codification__ 
 
-    In subsec. (d), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” in two places on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” in two places on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
     1967—Subsec. (a). [Pub. L. 90–19][/us/pl/90/19] substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner”.
 
-    1962—Subsec. (a). [Pub. L. 87–719, § 15][/us/pl/87/719/s15], substituted “such property” for “house, apartment building, or dormitory”.
+    1962—Subsec. (a). [Pub. L. 87–719][/us/pl/87/719], § 15, substituted “such property” for “house, apartment building, or dormitory”.
 
-    Subsec. (d). [Pub. L. 87–719, § 16][/us/pl/87/719/s16], inserted provisions respecting servicing contracts and compliance with advertising requirements for public purchases when feasible.
+    Subsec. (d). [Pub. L. 87–719][/us/pl/87/719], § 16, inserted provisions respecting servicing contracts and compliance with advertising requirements for public purchases when feasible.
 
     1956—Subsec. (a). Act July 25, 1956, reenacted subsec. (a) without change.
 
@@ -68,17 +68,17 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1955-08-04/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch543
 [/us/stat/69/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F478
-[/us/act/1956-07-25/ch731/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731%2Fs2
+[/us/act/1956-07-25/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731
 [/us/stat/70/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F653
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F665
-[/us/pl/90/19/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs11
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F23
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
-[/us/pl/87/719/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs15
-[/us/pl/87/719/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs16
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 
 

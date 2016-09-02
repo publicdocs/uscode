@@ -17,7 +17,7 @@
 
     The Surgeon General shall make payments under [section 2005 of this title][/us/usc/t42/s2005] in advance or by way of reimbursement and in such installments consistent with construction progress, as he may determine.
 
-([Pub. L. 85–151, § 4][/us/pl/85/151/s4], Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
+([Pub. L. 85–151][/us/pl/85/151], § 4, Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2005
-[/us/pl/85/151/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151%2Fs4
+[/us/pl/85/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151
 [/us/stat/71/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F371
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202

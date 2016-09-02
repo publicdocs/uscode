@@ -17,7 +17,7 @@
 
     The consent of the Congress is hereby given to any two or more States to enter into agreements or compacts, not in conflict with any law of the United States, for cooperative effort and mutual assistance in support of community development planning and programs carried out under this chapter as they pertain to interstate areas and to localities within such States, and to establish such agencies, joint or otherwise, as they may deem desirable for making such agreements and compacts effective.
 
-([Pub. L. 93–383, title I, § 115][/us/pl/93/383/s115], Aug. 22, 1974, [88 Stat. 651][/us/stat/88/651].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 115, Aug. 22, 1974, [88 Stat. 651][/us/stat/88/651].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/383/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs115
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F651
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

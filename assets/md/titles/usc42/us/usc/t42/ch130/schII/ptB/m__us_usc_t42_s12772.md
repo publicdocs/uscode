@@ -47,7 +47,7 @@
 
             A community housing development organization that receives a loan under this subsection shall repay the loan to the jurisdiction’s HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdiction may waive repayment of the loan, in whole or in part, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.
 
-([Pub. L. 101–625, title II, § 232][/us/pl/101/625/s232], Nov. 28, 1990, [104 Stat. 4115][/us/stat/104/4115].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 232, Nov. 28, 1990, [104 Stat. 4115][/us/stat/104/4115].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t42/s12742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12742
 [/us/usc/t42/s12771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12771
 [/us/usc/t42/s12771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12771
-[/us/pl/101/625/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs232
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4115
 
 

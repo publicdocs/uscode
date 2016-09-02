@@ -57,21 +57,21 @@
 
         A State may use amounts received under this subchapter to provide nonresidential substance abuse treatment aftercare services for inmates or former inmates that meet the requirements of subsection (c) of this section, if the chief executive officer of the State certifies to the Attorney General that the State is providing, and will continue to provide, an adequate level of residential treatment services.
 
-([Pub. L. 90–351, title I, § 1902][/us/pl/90/351/s1902], as added [Pub. L. 103–322, title III, § 32101(a)(3)][/us/pl/103/322/s32101/a/3], Sept. 13, 1994, [108 Stat. 1898][/us/stat/108/1898]; amended [Pub. L. 107–273, div. B, title II, § 2102(2)][/us/pl/107/273/s2102/2], Nov. 2, 2002, [116 Stat. 1792][/us/stat/116/1792]; [Pub. L. 109–162, title XI][/us/pl/109/162], §§ 1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102], 3111; [Pub. L. 110–199, title I, § 102(a)][/us/pl/110/199/s102/a], Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1902, as added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 32101(a)(3), Sept. 13, 1994, [108 Stat. 1898][/us/stat/108/1898]; amended [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2102(2), Nov. 2, 2002, [116 Stat. 1792][/us/stat/116/1792]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], §§ 1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102], 3111; [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 102(a), Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668].)
 
  __Amendments__ 
 
     2008—Subsec. (c). [Pub. L. 110–199][/us/pl/110/199] substituted “Requirement for Aftercare Component” for “Aftercare services requirement” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care services.”
 
-    2006—Subsec. (b). [Pub. L. 109–162, § 1145(a)][/us/pl/109/162/s1145/a], reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State.”
+    2006—Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], § 1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State.”
 
-    Subsec. (c). [Pub. L. 109–162, § 1145(b)(1)][/us/pl/109/162/s1145/b/1], substituted “Aftercare services requirement” for “Eligibility for preference with after care component” in subsec. heading.
+    Subsec. (c). [Pub. L. 109–162][/us/pl/109/162], § 1145(b)(1), substituted “Aftercare services requirement” for “Eligibility for preference with after care component” in subsec. heading.
 
-    Subsec. (c)(1). [Pub. L. 109–162, § 1145(b)(2)][/us/pl/109/162/s1145/b/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for a preference under this subchapter, a State must ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with aftercare services.”
+    Subsec. (c)(1). [Pub. L. 109–162][/us/pl/109/162], § 1145(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for a preference under this subchapter, a State must ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with aftercare services.”
 
-    Subsec. (c)(4). [Pub. L. 109–162, § 1145(b)(3)][/us/pl/109/162/s1145/b/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 109–162][/us/pl/109/162], § 1145(b)(3), added par. (4).
 
-    Subsec. (e). [Pub. L. 109–162, § 1111(c)(2)(J)][/us/pl/109/162/s1111/c/2/J], substituted “The office responsible for the trust fund required by [section 3757 of this title][/us/usc/t42/s3757]” for “The Office designated under [section 3757 of this title][/us/usc/t42/s3757]” in introductory provisions.
+    Subsec. (e). [Pub. L. 109–162][/us/pl/109/162], § 1111(c)(2)(J), substituted “The office responsible for the trust fund required by [section 3757 of this title][/us/usc/t42/s3757]” for “The Office designated under [section 3757 of this title][/us/usc/t42/s3757]” in introductory provisions.
 
     2002—Subsec. (f). [Pub. L. 107–273][/us/pl/107/273] added subsec. (f).
 
@@ -79,7 +79,7 @@
 
     Amendment by [section 1111(c)(2)(J) of Pub. L. 109–162][/us/pl/109/162/s1111/c/2/J] applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see [section 1111(d) of Pub. L. 109–162][/us/pl/109/162/s1111/d], set out as a note under [section 3750 of this title][/us/usc/t42/s3750].
 
-[Pub. L. 109–162, title XI, § 1147][/us/pl/109/162/s1147], as added by [Pub. L. 109–271, § 8(n)(2)(A)][/us/pl/109/271/s8/n/2/A], Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767], provided that: 
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1147, as added by [Pub. L. 109–271][/us/pl/109/271], § 8(n)(2)(A), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767], provided that: 
 
 > “The amendments made by sections 1144 and 1145 \[amending this section and sections 3796ff–2 and 3796ff–3 of this title\] shall take effect on October 1, 2006.”
 
@@ -95,29 +95,29 @@
 ----------
 
 [/us/usc/t42/s3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3757
-[/us/pl/90/351/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1902
-[/us/pl/103/322/s32101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32101%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1898
-[/us/pl/107/273/s2102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2102%2F2
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1792
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3102
-[/us/pl/110/199/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs102%2Fa
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F668
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
-[/us/pl/109/162/s1145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1145%2Fa
-[/us/pl/109/162/s1145/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1145%2Fb%2F1
-[/us/pl/109/162/s1145/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1145%2Fb%2F2
-[/us/pl/109/162/s1145/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1145%2Fb%2F3
-[/us/pl/109/162/s1111/c/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FJ
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t42/s3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3757
 [/us/usc/t42/s3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3757
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/109/162/s1111/c/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FJ
 [/us/pl/109/162/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fd
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
-[/us/pl/109/162/s1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1147
-[/us/pl/109/271/s8/n/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fn%2F2%2FA
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F767
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504

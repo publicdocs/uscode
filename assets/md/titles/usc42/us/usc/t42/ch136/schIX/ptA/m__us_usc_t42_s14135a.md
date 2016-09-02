@@ -83,7 +83,7 @@
 
         Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
-([Pub. L. 106–546, § 3][/us/pl/106/546/s3], Dec. 19, 2000, [114 Stat. 2728][/us/stat/114/2728]; [Pub. L. 107–56, title V, § 503][/us/pl/107/56/s503], Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 108–405, title II, § 203(b)][/us/pl/108/405/s203/b], Oct. 30, 2004, [118 Stat. 2270][/us/stat/118/2270]; [Pub. L. 109–162, title X, § 1004(a)][/us/pl/109/162/s1004/a], Jan. 5, 2006, [119 Stat. 3085][/us/stat/119/3085]; [Pub. L. 109–248, title I, § 155][/us/pl/109/248/s155], July 27, 2006, [120 Stat. 611][/us/stat/120/611].)
+([Pub. L. 106–546][/us/pl/106/546], § 3, Dec. 19, 2000, [114 Stat. 2728][/us/stat/114/2728]; [Pub. L. 107–56, title V][/us/pl/107/56/tV], § 503, Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 108–405, title II][/us/pl/108/405/tII], § 203(b), Oct. 30, 2004, [118 Stat. 2270][/us/stat/118/2270]; [Pub. L. 109–162, title X][/us/pl/109/162/tX], § 1004(a), Jan. 5, 2006, [119 Stat. 3085][/us/stat/119/3085]; [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 155, July 27, 2006, [120 Stat. 611][/us/stat/120/611].)
 
  __Codification__ 
 
@@ -91,13 +91,13 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–162, § 1004(a)(1)][/us/pl/109/162/s1004/a/1], added subpar. (A) and designated existing provisions as subpar. (B).
+    2006—Subsec. (a)(1). [Pub. L. 109–162][/us/pl/109/162], § 1004(a)(1), added subpar. (A) and designated existing provisions as subpar. (B).
 
     Subsec. (a)(1)(A). [Pub. L. 109–248][/us/pl/109/248] substituted “arrested, facing charges, or convicted” for “arrested”.
 
-    Subsec. (a)(3), (4). [Pub. L. 109–162, § 1004(a)(1)(B)][/us/pl/109/162/s1004/a/1/B], substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons” in par. (3) and subpars. (A) and (B) of par. (4).
+    Subsec. (a)(3), (4). [Pub. L. 109–162][/us/pl/109/162], § 1004(a)(1)(B), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons” in par. (3) and subpars. (A) and (B) of par. (4).
 
-    Subsec. (b). [Pub. L. 109–162, § 1004(a)(2)][/us/pl/109/162/s1004/a/2], substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons”.
+    Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], § 1004(a)(2), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons”.
 
     2004—Subsec. (d). [Pub. L. 108–405][/us/pl/108/405] reenacted heading without change and amended text generally, substituting pars. (1) to (4) for former pars. (1) and (2) with multiple subpars. listing specific offenses.
 
@@ -115,20 +115,20 @@
 [/us/usc/t10/s1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565
 [/us/usc/t10/s1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
-[/us/pl/106/546/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs3
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2728
-[/us/pl/107/56/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs503
+[/us/pl/107/56/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtV
 [/us/stat/115/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F364
-[/us/pl/108/405/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fb
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2270
-[/us/pl/109/162/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1004%2Fa
+[/us/pl/109/162/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtX
 [/us/stat/119/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3085
-[/us/pl/109/248/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs155
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F611
-[/us/pl/109/162/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1004%2Fa%2F1
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/109/162/s1004/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1004%2Fa%2F1%2FB
-[/us/pl/109/162/s1004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1004%2Fa%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 

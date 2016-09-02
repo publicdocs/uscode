@@ -17,7 +17,7 @@
 
     Notwithstanding [section 6250 of this title][/us/usc/t42/s6250], for fiscal year 2012 and hereafter, the \[Northeast Home Heating Oil\] Reserve shall contain no more than 1 million barrels of petroleum distillate.
 
-([Pub. L. 112–74, div. B, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 869][/us/stat/125/869].)
+([Pub. L. 112–74, div. B, title III][/us/pl/112/74/dB/tIII], Dec. 23, 2011, [125 Stat. 869][/us/stat/125/869].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s6250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6250
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtIII
 [/us/stat/125/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F869
 
 

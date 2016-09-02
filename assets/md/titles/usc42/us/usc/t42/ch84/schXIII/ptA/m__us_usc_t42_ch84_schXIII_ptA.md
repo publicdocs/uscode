@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 110–69, title V, § 5003(d)(1)][/us/pl/110/69/s5003/d/1], Aug. 9, 2007, [121 Stat. 602][/us/stat/121/602], added heading.
+    [Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5003(d)(1), Aug. 9, 2007, [121 Stat. 602][/us/stat/121/602], added heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s5003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fd%2F1
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F602
 
 

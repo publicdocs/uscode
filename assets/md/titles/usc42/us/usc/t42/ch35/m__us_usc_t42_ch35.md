@@ -865,7 +865,7 @@ SUBCHAPTER IX—COMMUNITY SERVICE SENIOR OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3056" data-uslm-ref="/us/usc/t42/s3056">3056</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3056l" data-uslm-ref="/us/usc/t42/s3056l">3056l.</a>  </td>
 
     <td> Competitive requirements relating to grant awards.  </td>
 
@@ -889,7 +889,7 @@ SUBCHAPTER IX—COMMUNITY SERVICE SENIOR OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3056" data-uslm-ref="/us/usc/t42/s3056">3056</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3056o" data-uslm-ref="/us/usc/t42/s3056o">3056o.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -1065,7 +1065,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3057" data-uslm-ref="/us/usc/t42/s3057">3057</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3057l" data-uslm-ref="/us/usc/t42/s3057l">3057l.</a>  </td>
 
     <td> Administration.  </td>
 

@@ -31,7 +31,7 @@
 
         The term “qualified individual with a disability” means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.
 
-([Pub. L. 101–336, title II, § 201][/us/pl/101/336/s201], July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 201, July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 
  __Codification__ 
 
-    In par. (1)(C), “[section 24102(4) of title 49][/us/usc/t49/s24102/4]” substituted for “section 103(8) of the Rail Passenger Service Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In par. (1)(C), “[section 24102(4) of title 49][/us/usc/t49/s24102/4]” substituted for “section 103(8) of the Rail Passenger Service Act” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Effective Date__ 
 
-[Pub. L. 101–336, title II, § 205][/us/pl/101/336/s205], July 26, 1990, [104 Stat. 338][/us/stat/104/338], provided that:
+[Pub. L. 101–336, title II][/us/pl/101/336/tII], § 205, July 26, 1990, [104 Stat. 338][/us/stat/104/338], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -90,13 +90,13 @@
 ----------
 ----------
 
-[/us/pl/101/336/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs201
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F337
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
 [/us/usc/t49/s24102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F4
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/101/336/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs205
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F338
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/usc/t42/s12134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12134

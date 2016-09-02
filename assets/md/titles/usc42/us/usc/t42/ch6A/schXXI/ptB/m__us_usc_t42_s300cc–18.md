@@ -61,17 +61,17 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1991, and such sums as may be necessary for each of the fiscal years 1994 through 1996.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2318, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3073][/us/stat/102/3073]; amended [Pub. L. 103–43, title XVIII, § 1811(4)][/us/pl/103/43/s1811/4], title XX, § 2008(d)(5), June 10, 1993, [107 Stat. 199][/us/stat/107/199], 212; [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2318, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3073][/us/stat/102/3073]; amended [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1811(4), title XX, § 2008(d)(5), June 10, 1993, [107 Stat. 199][/us/stat/107/199], 212; [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670].)
 
  __Amendments__ 
 
     1999—Subsec. (a)(1). [Pub. L. 106–129][/us/pl/106/129] substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
 
-    1993—Subsec. (a)(1). [Pub. L. 103–43, § 1811(4)(A)][/us/pl/103/43/s1811/4/A], inserted “, acting through the Director of the National Institutes of Health and after consultation with the Administrator for Health Care Policy and Research,” after “The Secretary” and “, including treatment and prevention of HIV infection and related conditions among women” after “syndrome”.
+    1993—Subsec. (a)(1). [Pub. L. 103–43][/us/pl/103/43], § 1811(4)(A), inserted “, acting through the Director of the National Institutes of Health and after consultation with the Administrator for Health Care Policy and Research,” after “The Secretary” and “, including treatment and prevention of HIV infection and related conditions among women” after “syndrome”.
 
-    Subsec. (b)(3). [Pub. L. 103–43, § 2008(d)(5)][/us/pl/103/43/s2008/d/5], substituted “AIDS Research Advisory Committee” for “Clinical Research Review Committee”.
+    Subsec. (b)(3). [Pub. L. 103–43][/us/pl/103/43], § 2008(d)(5), substituted “AIDS Research Advisory Committee” for “Clinical Research Review Committee”.
 
-    Subsec. (e). [Pub. L. 103–43, § 1811(4)(B)][/us/pl/103/43/s1811/4/B], inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1994 through 1996”.
+    Subsec. (e). [Pub. L. 103–43][/us/pl/103/43], § 1811(4)(B), inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1994 through 1996”.
 
  __Termination of Reporting Requirements__ 
 
@@ -86,16 +86,16 @@
 
 [/us/usc/t42/s300cc–3/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%E2%80%933%2Fc%2F2%2FB
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3073
-[/us/pl/103/43/s1811/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F4
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F199
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
-[/us/pl/103/43/s1811/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F4%2FA
-[/us/pl/103/43/s2008/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fd%2F5
-[/us/pl/103/43/s1811/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F4%2FB
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 

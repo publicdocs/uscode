@@ -17,7 +17,7 @@
 
     The Attorney General may make funds available under this subchapter to States and units of local government, or combinations thereof, to carry out all or a substantial part of a program or project intended to develop or improve the capability to analyze deoxyribonucleic acid (referred to in this subchapter as “DNA”) in a forensic laboratory.
 
-([Pub. L. 90–351, title I, § 2401][/us/pl/90/351/s2401], as added [Pub. L. 103–322, title XXI, § 210302(c)(1)(C)][/us/pl/103/322/s210302/c/1/C], Sept. 13, 1994, [108 Stat. 2066][/us/stat/108/2066].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2401, as added [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210302(c)(1)(C), Sept. 13, 1994, [108 Stat. 2066][/us/stat/108/2066].)
 
  __Prior Provisions__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–322, title XXI, § 210302(c)(4)][/us/pl/103/322/s210302/c/4], Sept. 13, 1994, [108 Stat. 2068][/us/stat/108/2068], provided that: 
+[Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210302(c)(4), Sept. 13, 1994, [108 Stat. 2068][/us/stat/108/2068], provided that: 
 
 > “The amendments made by this section \[enacting this subchapter and amending sections 3751, 3753, 3793, and 3797 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act \[Sept. 13, 1994\].”
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2401
-[/us/pl/103/322/s210302/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210302%2Fc%2F1%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2066
 [/us/pl/90/351/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2401
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
-[/us/pl/103/322/s210302/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210302%2Fc%2F4
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2068
 
 

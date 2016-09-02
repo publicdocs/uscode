@@ -17,7 +17,7 @@
 
     The primary purpose of this subchapter is to assist the efforts of States, local governments, neighborhood and other organizations to provide a more suitable living environment, expand cultural opportunities, and to the extent practicable, stimulate economic opportunities, primarily for the low and moderate income residents of communities and neighborhoods in need of conservation and revitalization, through the utilization, design or development of artistic, cultural, or historic resources.
 
-([Pub. L. 95–557, title VIII, § 803][/us/pl/95/557/s803], Oct. 31, 1978, [92 Stat. 2122][/us/stat/92/2122].)
+([Pub. L. 95–557, title VIII][/us/pl/95/557/tVIII], § 803, Oct. 31, 1978, [92 Stat. 2122][/us/stat/92/2122].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/557/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs803
+[/us/pl/95/557/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVIII
 [/us/stat/92/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2122
 
 

@@ -17,7 +17,7 @@
 
     No person reporting conditions which may constitute a violation under this subchapter shall be subjected to retaliation in any manner for so reporting.
 
-([Pub. L. 96–247, § 6][/us/pl/96/247/s6], May 23, 1980, [94 Stat. 352][/us/stat/94/352].)
+([Pub. L. 96–247][/us/pl/96/247], § 6, May 23, 1980, [94 Stat. 352][/us/stat/94/352].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/247/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs6
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F352
 
 

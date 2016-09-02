@@ -79,17 +79,17 @@
 
         The National Arthritis Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Board established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The member of the Board in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Advisory Board established under subsection (a) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 442, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 852][/us/stat/99/852]; amended [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 102–531, title III, § 312(d)(7)][/us/pl/102/531/s312/d/7], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–43, title VII, § 701(d)][/us/pl/103/43/s701/d], title XX, § 2008(b)(7), June 10, 1993, [107 Stat. 162][/us/stat/107/162], 211; [Pub. L. 109–482, title I, § 104(b)(1)(I)][/us/pl/109/482/s104/b/1/I], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 442, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 852][/us/stat/99/852]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(7), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–43, title VII][/us/pl/103/43/tVII], § 701(d), title XX, § 2008(b)(7), June 10, 1993, [107 Stat. 162][/us/stat/107/162], 211; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(I), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 
  __Amendments__ 
 
     2007—Subsecs. (j), (k). [Pub. L. 109–482][/us/pl/109/482] redesignated subsec. (k) as (j) and struck out former subsec. (j) which required the Advisory Board to prepare an annual report for the Secretary and set out the subjects for report.
 
-    1993—Subsec. (a). [Pub. L. 103–43, § 701(d)(1)][/us/pl/103/43/s701/d/1], inserted “and Musculoskeletal and Skin Diseases” after “Arthritis”.
+    1993—Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 701(d)(1), inserted “and Musculoskeletal and Skin Diseases” after “Arthritis”.
 
     Subsec. (b). [Pub. L. 103–43][/us/pl/103/43], §§ 701(d)(2), 2008(b)(7), substituted “twenty” for “eighteen” in introductory provisions, “eight” for “six” and “including one member who is a person who has such a disease, one person who is the parent of an adult with such a disease, and two members who are parents of children with arthritis” for “including at least one member who is a person who has such a disease and one member who is a parent of a person who has such a disease” in par. (1)(B), and “Department of Veterans Affairs” for “Veterans’ Administration” in par. (2)(A).
 
-    Subsec. (j)(5). [Pub. L. 103–43, § 701(d)(3)][/us/pl/103/43/s701/d/3], added par. (5).
+    Subsec. (j)(5). [Pub. L. 103–43][/us/pl/103/43], § 701(d)(3), added par. (5).
 
     1992—Subsec. (b)(2)(A). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
@@ -103,7 +103,7 @@
 
     Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -119,20 +119,20 @@
 [/us/usc/t42/s285d–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285d%E2%80%931%2Fa
 [/us/usc/t42/s285d–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285d%E2%80%934
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F852
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/102/531/s312/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F7
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/103/43/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fd
+[/us/pl/103/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVII
 [/us/stat/107/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F162
-[/us/pl/109/482/s104/b/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FI
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
-[/us/pl/103/43/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fd%2F1
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/103/43/s701/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fd%2F3
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
@@ -140,7 +140,7 @@
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

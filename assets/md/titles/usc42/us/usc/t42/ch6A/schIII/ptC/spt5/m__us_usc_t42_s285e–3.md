@@ -41,19 +41,19 @@
 
         For purposes of this section, the term “independence”, with respect to diseases, disorders, and complications of aging, means the functional ability of individuals to perform activities of daily living or instrumental activities of daily living without assistance or supervision.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445A, as added [Pub. L. 100–607, title I, § 141][/us/pl/100/607/s141], Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; amended [Pub. L. 101–557, title II, § 202][/us/pl/101/557/s202], Nov. 15, 1990, [104 Stat. 2767][/us/stat/104/2767].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445A, as added [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 141, Nov. 4, 1988, [102 Stat. 3056][/us/stat/102/3056]; amended [Pub. L. 101–557, title II][/us/pl/101/557/tII], § 202, Nov. 15, 1990, [104 Stat. 2767][/us/stat/104/2767].)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–557, § 202(a)(1)][/us/pl/101/557/s202/a/1], substituted “Claude D. Pepper Older Americans Independence Centers” for “Centers of geriatric research and training” in section catchline.
+    1990—[Pub. L. 101–557][/us/pl/101/557], § 202(a)(1), substituted “Claude D. Pepper Older Americans Independence Centers” for “Centers of geriatric research and training” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–557, § 202(a)(2)][/us/pl/101/557/s202/a/2], (b)(1)(A), inserted “not less than 10” before “centers of excellence” and inserted provision designating centers as Claude D. Pepper Older Americans Independence Centers.
+    Subsec. (a). [Pub. L. 101–557][/us/pl/101/557], § 202(a)(2), (b)(1)(A), inserted “not less than 10” before “centers of excellence” and inserted provision designating centers as Claude D. Pepper Older Americans Independence Centers.
 
-    Subsec. (b)(2)(A). [Pub. L. 101–557, § 202(b)(1)(B)][/us/pl/101/557/s202/b/1/B], inserted before semicolon at end “, including menopause, which research includes research on such treatments, and on medical devices and other medical interventions regarding such diseases, disorders, and complications, that can assist individuals in avoiding institutionalization and prolonged hospitalization and in otherwise increasing the independence of the individuals”.
+    Subsec. (b)(2)(A). [Pub. L. 101–557][/us/pl/101/557], § 202(b)(1)(B), inserted before semicolon at end “, including menopause, which research includes research on such treatments, and on medical devices and other medical interventions regarding such diseases, disorders, and complications, that can assist individuals in avoiding institutionalization and prolonged hospitalization and in otherwise increasing the independence of the individuals”.
 
-    Subsec. (b)(2)(B). [Pub. L. 101–557, § 202(b)(2)][/us/pl/101/557/s202/b/2], substituted “research described in subparagraph (A)” for “research concerning aging and concerning such diseases, disorders, and complications.”
+    Subsec. (b)(2)(B). [Pub. L. 101–557][/us/pl/101/557], § 202(b)(2), substituted “research described in subparagraph (A)” for “research concerning aging and concerning such diseases, disorders, and complications.”
 
-    Subsec. (d). [Pub. L. 101–557, § 202(c)][/us/pl/101/557/s202/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–557][/us/pl/101/557], § 202(c), added subsec. (d).
 
 ----------
 
@@ -63,14 +63,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs141
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3056
-[/us/pl/101/557/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs202
+[/us/pl/101/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2FtII
 [/us/stat/104/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2767
-[/us/pl/101/557/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs202%2Fa%2F1
-[/us/pl/101/557/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs202%2Fa%2F2
-[/us/pl/101/557/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs202%2Fb%2F1%2FB
-[/us/pl/101/557/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs202%2Fb%2F2
-[/us/pl/101/557/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs202%2Fc
+[/us/pl/101/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557
+[/us/pl/101/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557
+[/us/pl/101/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557
+[/us/pl/101/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557
+[/us/pl/101/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557
 
 

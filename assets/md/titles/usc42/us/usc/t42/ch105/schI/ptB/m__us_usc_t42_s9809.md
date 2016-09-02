@@ -17,7 +17,7 @@
 
     It is the purpose of this part to meet the special economic needs of rural communities or areas with concentrations or substantial numbers of low-income persons by providing support to self-help programs which promote economic development and independence, as a supplement to existing similar programs conducted by other departments and agencies of the Federal Government. Such programs should encourage low-income families to pool their talents and resources so as to create and expand rural economic enterprise.
 
-([Pub. L. 97–35, title VI, § 620][/us/pl/97/35/s620], Aug. 13, 1981, [95 Stat. 493][/us/stat/95/493].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 620, Aug. 13, 1981, [95 Stat. 493][/us/stat/95/493].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs620
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F493
 
 

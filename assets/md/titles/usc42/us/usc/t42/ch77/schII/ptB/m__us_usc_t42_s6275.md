@@ -17,7 +17,7 @@
 
     The purpose of the Congress in enacting this subchapter is to provide standby energy emergency authority to deal with energy shortage conditions and to minimize economic dislocations and adverse impacts on employment. While the authorities contained in this subchapter may, to the extent authorized by this subchapter, be used to carry out obligations incurred by the United States in connection with the International Energy Program, this subchapter shall not be construed in any way as advice and consent, ratification, endorsement, or other form of congressional approval of the specific terms of such program.
 
-([Pub. L. 94–163, title II, § 255][/us/pl/94/163/s255], Dec. 22, 1975, [89 Stat. 900][/us/stat/89/900].)
+([Pub. L. 94–163, title II][/us/pl/94/163/tII], § 255, Dec. 22, 1975, [89 Stat. 900][/us/stat/89/900].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs255
+[/us/pl/94/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtII
 [/us/stat/89/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F900
 
 

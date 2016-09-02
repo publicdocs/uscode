@@ -47,7 +47,7 @@
 
             (ii) a Federal or State law regulating the entity.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1179, as added [Pub. L. 104–191, title II, § 262(a)][/us/pl/104/191/s262/a], Aug. 21, 1996, [110 Stat. 2030][/us/stat/110/2030].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1179, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 262(a), Aug. 21, 1996, [110 Stat. 2030][/us/stat/110/2030].)
 
 ----------
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2030
 
 

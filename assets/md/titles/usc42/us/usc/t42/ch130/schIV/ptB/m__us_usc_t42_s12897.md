@@ -17,7 +17,7 @@
 
     In establishing criteria for selecting applicants to receive assistance under this part, the Secretary may not establish any selection criterion or criteria that grant or deny such assistance to an applicant (or have the effect of granting or denying assistance) based on the implementation, continuation, or discontinuation of any public policy, regulation, or law of any jurisdiction in which the applicant or project is located.
 
-([Pub. L. 101–625, title IV, § 447][/us/pl/101/625/s447], Nov. 28, 1990, [104 Stat. 4180][/us/stat/104/4180].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 447, Nov. 28, 1990, [104 Stat. 4180][/us/stat/104/4180].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs447
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4180
 
 

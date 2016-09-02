@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services is directed to furnish sufficient quarters for the work of this bureau at an annual rental not to exceed $2,000.
 
-([Apr. 9, 1912, ch. 73, § 4][/us/act/1912-04-09/ch73/s4], [37 Stat. 80][/us/stat/37/80]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Apr. 9, 1912, ch. 73][/us/act/1912-04-09/ch73], § 4, [37 Stat. 80][/us/stat/37/80]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Codification__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/act/1912-04-09/ch73/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-09%2Fch73%2Fs4
+[/us/act/1912-04-09/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-09%2Fch73
 [/us/stat/37/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F80
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t29/s18c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs18c
 [/us/usc/t42/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3501

@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    [Pub. L. 106–501, title III, § 314(2)][/us/pl/106/501/s314/2], Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253], redesignated part F of this subchapter as part D.
+    [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 314(2), Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253], redesignated part F of this subchapter as part D.
 
  __Prior Provisions__ 
 
-    A prior part D, consisting of sections 3030h to 3030k of this title, related to in-home services for frail older individuals, prior to repeal by [Pub. L. 106–501, title III, § 314(1)][/us/pl/106/501/s314/1], Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253]. See prior provisions notes under [section 3030g–22 of this title][/us/usc/t42/s3030g–22].
+    A prior part D, consisting of sections 3030h to 3030k of this title, related to in-home services for frail older individuals, prior to repeal by [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 314(1), Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253]. See prior provisions notes under [section 3030g–22 of this title][/us/usc/t42/s3030g–22].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/106/501/s314/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs314%2F2
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2253
-[/us/pl/106/501/s314/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs314%2F1
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2253
 [/us/usc/t42/s3030g–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030g%E2%80%9322
 

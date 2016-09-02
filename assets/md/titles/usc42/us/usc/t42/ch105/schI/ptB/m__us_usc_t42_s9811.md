@@ -25,7 +25,7 @@
 
     (4) the applicant is fulfilling or will fulfill a need for services, supplies, or facilities which is otherwise not being met.
 
-([Pub. L. 97–35, title VI, § 622][/us/pl/97/35/s622], Aug. 13, 1981, [95 Stat. 494][/us/stat/95/494].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 622, Aug. 13, 1981, [95 Stat. 494][/us/stat/95/494].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs622
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F494
 
 

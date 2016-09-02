@@ -335,7 +335,7 @@
 
             (C) to limit or alter in any way the immunities that are available under applicable law for State officials and employees not described in this subsection.
 
-([Pub. L. 101–610, title I, § 178][/us/pl/101/610/s178], as added and amended [Pub. L. 103–82, title II, § 201(a)][/us/pl/103/82/s201/a], title IV, § 405(p)(1), Sept. 21, 1993, [107 Stat. 867][/us/stat/107/867], 922; [Pub. L. 111–13, title I, § 1606][/us/pl/111/13/s1606], Apr. 21, 2009, [123 Stat. 1530][/us/stat/123/1530].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 178, as added and amended [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 201(a), title IV, § 405(p)(1), Sept. 21, 1993, [107 Stat. 867][/us/stat/107/867], 922; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1606, Apr. 21, 2009, [123 Stat. 1530][/us/stat/123/1530].)
 
  __References in Text__ 
 
@@ -343,33 +343,33 @@
 
     The Domestic Volunteer Service Act of 1973, referred to in subsecs. (c)(2)(E) and (e)(5), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394], which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables.
 
-    [Section 12653a of this title][/us/usc/t42/s12653a], referred to in subsec. (e)(6)(B), was in the original “section 198A”, meaning [section 198A of Pub. L. 101–610][/us/pl/101/610/s198A], as added by [section 104(c) of Pub. L. 103–82][/us/pl/103/82/s104/c], which was repealed, and section 198B was redesignated section 198A, by [Pub. L. 111–13, title I, § 1803(a)(1)][/us/pl/111/13/s1803/a/1], (b), Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554]. Provisions similar to section 12653a are now contained in section 12653o of this title.
+    [Section 12653a of this title][/us/usc/t42/s12653a], referred to in subsec. (e)(6)(B), was in the original “section 198A”, meaning [section 198A of Pub. L. 101–610][/us/pl/101/610/s198A], as added by [section 104(c) of Pub. L. 103–82][/us/pl/103/82/s104/c], which was repealed, and section 198B was redesignated section 198A, by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1803(a)(1), (b), Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554]. Provisions similar to section 12653a are now contained in section 12653o of this title.
 
     The Community Services Block Grant Act, referred to in subsec. (k)(1), is subtitle B (§ 671 et seq.) of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title][/us/usc/t42/s9901] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 12638, [Pub. L. 101–610, title I, § 178][/us/pl/101/610/s178], Nov. 16, 1990, [104 Stat. 3164][/us/stat/104/3164]; [Pub. L. 102–10, § 8(1)][/us/pl/102/10/s8/1], Mar. 12, 1991, [105 Stat. 31][/us/stat/105/31], provided that States applying for assistance under this subchapter be encouraged to establish a State Advisory Board for National and Community Service and set out additional provisions for membership and duties of such boards, prior to repeal by [Pub. L. 103–82, § 201(a)][/us/pl/103/82/s201/a].
+    A prior section 12638, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 178, Nov. 16, 1990, [104 Stat. 3164][/us/stat/104/3164]; [Pub. L. 102–10][/us/pl/102/10], § 8(1), Mar. 12, 1991, [105 Stat. 31][/us/stat/105/31], provided that States applying for assistance under this subchapter be encouraged to establish a State Advisory Board for National and Community Service and set out additional provisions for membership and duties of such boards, prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 201(a).
 
  __Amendments__ 
 
-    2009—Subsec. (a)(2). [Pub. L. 111–13, § 1606(1)][/us/pl/111/13/s1606/1], substituted “section 12582” for “sections 12543 and 12582”.
+    2009—Subsec. (a)(2). [Pub. L. 111–13][/us/pl/111/13], § 1606(1), substituted “section 12582” for “sections 12543 and 12582”.
 
-    Subsec. (c)(1)(I). [Pub. L. 111–13, § 1606(2)(A)][/us/pl/111/13/s1606/2/A], substituted “subsection (a), (b), or (c) of [section 12572 of this title][/us/usc/t42/s12572].” for “[section 12572(a) of this title][/us/usc/t42/s12572/a], such as a youth corps program described in [section 12572(a)(2) of this title][/us/usc/t42/s12572/a/2].”
+    Subsec. (c)(1)(I). [Pub. L. 111–13][/us/pl/111/13], § 1606(2)(A), substituted “subsection (a), (b), or (c) of [section 12572 of this title][/us/usc/t42/s12572].” for “[section 12572(a) of this title][/us/usc/t42/s12572/a], such as a youth corps program described in [section 12572(a)(2) of this title][/us/usc/t42/s12572/a/2].”
 
-    Subsec. (c)(1)(J). [Pub. L. 111–13, § 1606(2)(B)][/us/pl/111/13/s1606/2/B], added subpar. (J).
+    Subsec. (c)(1)(J). [Pub. L. 111–13][/us/pl/111/13], § 1606(2)(B), added subpar. (J).
 
-    Subsec. (c)(3). [Pub. L. 111–13, § 1606(3)][/us/pl/111/13/s1606/3], struck out “, unless the State permits the representative to serve as a voting member of the State Commission or alternative administrative entity” before period at end.
+    Subsec. (c)(3). [Pub. L. 111–13][/us/pl/111/13], § 1606(3), struck out “, unless the State permits the representative to serve as a voting member of the State Commission or alternative administrative entity” before period at end.
 
-    Subsec. (d)(6)(B). [Pub. L. 111–13, § 1606(4)][/us/pl/111/13/s1606/4], substituted “section 12651d(b)(12)” for “section 12651d(b)(11)”.
+    Subsec. (d)(6)(B). [Pub. L. 111–13][/us/pl/111/13], § 1606(4), substituted “section 12651d(b)(12)” for “section 12651d(b)(11)”.
 
-    Subsec. (e)(1). [Pub. L. 111–13, § 1606(5)(A)][/us/pl/111/13/s1606/5/A], added par. (1) and struck out former par. (1) which related to preparation of a national service plan for the State.
+    Subsec. (e)(1). [Pub. L. 111–13][/us/pl/111/13], § 1606(5)(A), added par. (1) and struck out former par. (1) which related to preparation of a national service plan for the State.
 
-    Subsec. (e)(2). [Pub. L. 111–13, § 1606(5)(B)][/us/pl/111/13/s1606/5/B], substituted “section 12582” for “sections 12543 and 12582”.
+    Subsec. (e)(2). [Pub. L. 111–13][/us/pl/111/13], § 1606(5)(B), substituted “section 12582” for “sections 12543 and 12582”.
 
-    Subsecs. (f) to (l). [Pub. L. 111–13, § 1606(6)][/us/pl/111/13/s1606/6], (7), added subsecs. (f) and (g) and redesignated former subsecs. (f) to (j) as (h) to (l), respectively.
+    Subsecs. (f) to (l). [Pub. L. 111–13][/us/pl/111/13], § 1606(6), (7), added subsecs. (f) and (g) and redesignated former subsecs. (f) to (j) as (h) to (l), respectively.
 
-    1993—Subsec. (i)(2)(A). [Pub. L. 103–82, § 405(p)(1)][/us/pl/103/82/s405/p/1], substituted “the Corporation” for “ACTION, or of the Corporation,” before “that carries out”.
+    1993—Subsec. (i)(2)(A). [Pub. L. 103–82][/us/pl/103/82], § 405(p)(1), substituted “the Corporation” for “ACTION, or of the Corporation,” before “that carries out”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -381,13 +381,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–82, title II, § 201(c)][/us/pl/103/82/s201/c], Sept. 21, 1993, [107 Stat. 873][/us/stat/107/873], provided that: 
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 201(c), Sept. 21, 1993, [107 Stat. 873][/us/stat/107/873], provided that: 
 
 > “The amendments made by this section \[enacting this section and repealing former [section 12638 of this title][/us/usc/t42/s12638]\] shall take effect on October 1, 1993.”
 
  __Transitional Provisions__ 
 
-[Pub. L. 103–82, title II, § 201(d)][/us/pl/103/82/s201/d], Sept. 21, 1993, [107 Stat. 873][/us/stat/107/873], provided that:
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 201(d), Sept. 21, 1993, [107 Stat. 873][/us/stat/107/873], provided that:
 
 >     “(1)  __Use of alternatives to state commission__  __.—__ 
 
@@ -422,10 +422,10 @@
 [/us/usc/t42/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3002
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
-[/us/pl/101/610/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs178
-[/us/pl/103/82/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs201%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F867
-[/us/pl/111/13/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1530
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
@@ -436,38 +436,38 @@
 [/us/usc/t42/s12653a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653a
 [/us/pl/101/610/s198A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198A
 [/us/pl/103/82/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fc
-[/us/pl/111/13/s1803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1803%2Fa%2F1
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1554
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
-[/us/pl/101/610/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs178
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3164
-[/us/pl/102/10/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs8%2F1
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F31
-[/us/pl/103/82/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs201%2Fa
-[/us/pl/111/13/s1606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F1
-[/us/pl/111/13/s1606/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F2%2FA
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s12572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572
 [/us/usc/t42/s12572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Fa
 [/us/usc/t42/s12572/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572%2Fa%2F2
-[/us/pl/111/13/s1606/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F2%2FB
-[/us/pl/111/13/s1606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F3
-[/us/pl/111/13/s1606/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F4
-[/us/pl/111/13/s1606/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F5%2FA
-[/us/pl/111/13/s1606/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F5%2FB
-[/us/pl/111/13/s1606/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1606%2F6
-[/us/pl/103/82/s405/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fp%2F1
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/103/82/s405/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fp%2F1
 [/us/pl/103/82/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs406%2Fb
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
-[/us/pl/103/82/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs201%2Fc
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F873
 [/us/usc/t42/s12638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12638
-[/us/pl/103/82/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs201%2Fd
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F873
 [/us/usc/t42/s12638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12638
 

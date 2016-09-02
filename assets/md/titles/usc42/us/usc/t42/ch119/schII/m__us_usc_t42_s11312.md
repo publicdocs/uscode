@@ -77,15 +77,15 @@
 
         The Executive Director of the Council shall report to the Chairman of the Council.
 
-([Pub. L. 100–77, title II, § 202][/us/pl/100/77/s202], July 22, 1987, [101 Stat. 486][/us/stat/101/486]; [Pub. L. 101–645, title I, § 101][/us/pl/101/645/s101], Nov. 29, 1990, [104 Stat. 4674][/us/stat/104/4674]; [Pub. L. 103–82, title IV, § 405(m)][/us/pl/103/82/s405/m], Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 231(1)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31; [Pub. L. 107–95, § 11][/us/pl/107/95/s11], Dec. 21, 2001, [115 Stat. 920][/us/stat/115/920]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 111–22, div. B, § 1004(a)(2)][/us/pl/111/22/s1004/a/2], May 20, 2009, [123 Stat. 1666][/us/stat/123/1666].)
+([Pub. L. 100–77, title II][/us/pl/100/77/tII], § 202, July 22, 1987, [101 Stat. 486][/us/stat/101/486]; [Pub. L. 101–645, title I][/us/pl/101/645/tI], § 101, Nov. 29, 1990, [104 Stat. 4674][/us/stat/104/4674]; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(m), Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 231(1)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31; [Pub. L. 107–95][/us/pl/107/95], § 11, Dec. 21, 2001, [115 Stat. 920][/us/stat/115/920]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 111–22, div. B][/us/pl/111/22/dB], § 1004(a)(2), May 20, 2009, [123 Stat. 1666][/us/stat/123/1666].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(16) to (20), (22). [Pub. L. 111–22, § 1004(a)(2)(A)][/us/pl/111/22/s1004/a/2/A], added pars. (16) to (20) and redesignated former par. (16) as (22).
+    2009—Subsec. (a)(16) to (20), (22). [Pub. L. 111–22][/us/pl/111/22], § 1004(a)(2)(A), added pars. (16) to (20) and redesignated former par. (16) as (22).
 
-    Subsec. (c). [Pub. L. 111–22, § 1004(a)(2)(B)][/us/pl/111/22/s1004/a/2/B], substituted “four times each year, and the rotation of the positions of Chairperson and Vice Chairperson required under subsection (b) shall occur at the first meeting of each year” for “annually”.
+    Subsec. (c). [Pub. L. 111–22][/us/pl/111/22], § 1004(a)(2)(B), substituted “four times each year, and the rotation of the positions of Chairperson and Vice Chairperson required under subsection (b) shall occur at the first meeting of each year” for “annually”.
 
-    Subsec. (e). [Pub. L. 111–22, § 1004(a)(2)(C)][/us/pl/111/22/s1004/a/2/C], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–22][/us/pl/111/22], § 1004(a)(2)(C), added subsec. (e).
 
     2001—Subsec. (c). [Pub. L. 107–95][/us/pl/107/95] amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The Council shall meet at the call of its Chairperson or a majority of its members. The first meeting of the Council shall be held not later than 30 days after July 22, 1987.”
 
@@ -120,23 +120,23 @@
 ----------
 ----------
 
-[/us/pl/100/77/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs202
+[/us/pl/100/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtII
 [/us/stat/101/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F486
-[/us/pl/101/645/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs101
+[/us/pl/101/645/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtI
 [/us/stat/104/4674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4674
-[/us/pl/103/82/s405/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fm
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F922
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/107/95/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs11
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F920
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/111/22/s1004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F2
+[/us/pl/111/22/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB
 [/us/stat/123/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1666
-[/us/pl/111/22/s1004/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F2%2FA
-[/us/pl/111/22/s1004/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F2%2FB
-[/us/pl/111/22/s1004/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F2%2FC
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

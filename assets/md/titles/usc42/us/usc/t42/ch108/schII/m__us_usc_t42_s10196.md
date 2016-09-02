@@ -25,7 +25,7 @@
 
         (2) The Secretary and the heads of all other Federal agencies shall, to the maximum extent possible, avoid duplication of efforts in the preparation of reports under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-([Pub. L. 97–425, title II, § 216][/us/pl/97/425/s216], Jan. 7, 1983, [96 Stat. 2248][/us/stat/96/2248].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 216, Jan. 7, 1983, [96 Stat. 2248][/us/stat/96/2248].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 [/us/usc/t42/s10221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10221
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/97/425/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs216
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2248
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

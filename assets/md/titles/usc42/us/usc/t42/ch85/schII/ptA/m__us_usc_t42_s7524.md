@@ -65,7 +65,7 @@
 
             the Administrator shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at rates established pursuant to [section 6621(a)(2) of title 26][/us/usc/t26/s6621/a/2] from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of the penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this paragraph shall be required to pay, in addition to that amount and interest, the United States’ enforcement expenses, including attorneys fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. The nonpayment penalty shall be in an amount equal to 10 percent of the aggregate amount of that person’s penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 205, as added [Pub. L. 89–272, title I, § 101(8)][/us/pl/89/272/s101/8], Oct. 20, 1965, [79 Stat. 994][/us/stat/79/994]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 500][/us/stat/81/500]; [Pub. L. 91–604, § 7(c)][/us/pl/91/604/s7/c], Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694]; [Pub. L. 95–95, title II, § 219(c)][/us/pl/95/95/s219/c], Aug. 7, 1977, [91 Stat. 762][/us/stat/91/762]; [Pub. L. 101–549, title II, § 228(c)][/us/pl/101/549/s228/c], Nov. 15, 1990, [104 Stat. 2508][/us/stat/104/2508].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 205, as added [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(8), Oct. 20, 1965, [79 Stat. 994][/us/stat/79/994]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 500][/us/stat/81/500]; [Pub. L. 91–604][/us/pl/91/604], § 7(c), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694]; [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 219(c), Aug. 7, 1977, [91 Stat. 762][/us/stat/91/762]; [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 228(c), Nov. 15, 1990, [104 Stat. 2508][/us/stat/104/2508].)
 
  __Codification__ 
 
@@ -104,15 +104,15 @@
 [/us/usc/t42/s7547/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7547%2Fd
 [/us/usc/t26/s6621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fa%2F2
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/89/272/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F8
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F994
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F500
-[/us/pl/91/604/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs7%2Fc
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1694
-[/us/pl/95/95/s219/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs219%2Fc
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F762
-[/us/pl/101/549/s228/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs228%2Fc
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2508
 [/us/usc/t42/s1857f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%934
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549

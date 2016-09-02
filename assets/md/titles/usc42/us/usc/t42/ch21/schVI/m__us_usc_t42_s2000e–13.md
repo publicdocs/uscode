@@ -17,7 +17,7 @@
 
     The provisions of sections 111 and 1114, title 18, shall apply to officers, agents, and employees of the Commission in the performance of their official duties. Notwithstanding the provisions of sections 111 and 1114 of title 18, whoever in violation of the provisions of section 1114 of such title kills a person while engaged in or on account of the performance of his official functions under this Act shall be punished by imprisonment for any term of years or for life.
 
-([Pub. L. 88–352, title VII, § 714][/us/pl/88/352/s714], July 2, 1964, [78 Stat. 265][/us/stat/78/265]; [Pub. L. 92–261, § 8(g)][/us/pl/92/261/s8/g], Mar. 24, 1972, [86 Stat. 110][/us/stat/86/110].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 714, July 2, 1964, [78 Stat. 265][/us/stat/78/265]; [Pub. L. 92–261][/us/pl/92/261], § 8(g), Mar. 24, 1972, [86 Stat. 110][/us/stat/86/110].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
-[/us/pl/88/352/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs714
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F265
-[/us/pl/92/261/s8/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs8%2Fg
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F110
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

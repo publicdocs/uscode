@@ -37,7 +37,7 @@
 
         (3) in conjunction with any revision of such standards under paragraph (2), revise section 121.6 of title 42, Code of Federal Regulations (or any successor regulations).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377E, as added [Pub. L. 113–51, § 2(b)][/us/pl/113/51/s2/b], Nov. 21, 2013, [127 Stat. 580][/us/stat/127/580].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 377E, as added [Pub. L. 113–51][/us/pl/113/51], § 2(b), Nov. 21, 2013, [127 Stat. 580][/us/stat/127/580].)
 
 ----------
 
@@ -51,7 +51,7 @@
 [/us/usc/t42/s274/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274%2Fb%2F2%2FE
 [/us/usc/t42/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/113/51/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fb
+[/us/pl/113/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51
 [/us/stat/127/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F580
 
 

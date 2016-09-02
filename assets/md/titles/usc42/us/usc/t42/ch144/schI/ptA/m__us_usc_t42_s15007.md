@@ -17,7 +17,7 @@
 
     As a condition of providing assistance under this subchapter, the Secretary shall require that each recipient of such assistance take affirmative action to employ and advance in employment qualified individuals with disabilities on the same terms and conditions required with respect to the employment of such individuals under the provisions of title V of the Rehabilitation Act of 1973 ([29 U.S.C. 791][/us/usc/t29/s791] et seq.) and the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.), that govern employment.
 
-([Pub. L. 106–402, title I, § 107][/us/pl/106/402/s107], Oct. 30, 2000, [114 Stat. 1691][/us/stat/114/1691].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 107, Oct. 30, 2000, [114 Stat. 1691][/us/stat/114/1691].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/106/402/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs107
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1691
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355

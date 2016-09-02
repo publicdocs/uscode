@@ -45,19 +45,19 @@
 
         (2) The term “organ” means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of [section 274a of this title][/us/usc/t42/s274a], such term includes bone marrow.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 374, as added [Pub. L. 98–507, title II, § 201][/us/pl/98/507/s201], Oct. 19, 1984, [98 Stat. 2345][/us/stat/98/2345]; amended [Pub. L. 100–607, title IV, § 402(b)][/us/pl/100/607/s402/b], Nov. 4, 1988, [102 Stat. 3114][/us/stat/102/3114]; [Pub. L. 101–616, title II, § 203][/us/pl/101/616/s203], Nov. 16, 1990, [104 Stat. 3284][/us/stat/104/3284].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 374, as added [Pub. L. 98–507, title II][/us/pl/98/507/tII], § 201, Oct. 19, 1984, [98 Stat. 2345][/us/stat/98/2345]; amended [Pub. L. 100–607, title IV][/us/pl/100/607/tIV], § 402(b), Nov. 4, 1988, [102 Stat. 3114][/us/stat/102/3114]; [Pub. L. 101–616, title II][/us/pl/101/616/tII], § 203, Nov. 16, 1990, [104 Stat. 3284][/us/stat/104/3284].)
 
  __Prior Provisions__ 
 
-    A prior section 374 of act July 1, 1944, added by [act Aug. 3, 1956, ch. 907, § 1][/us/act/1956-08-03/ch907/s1], [70 Stat. 961][/us/stat/70/961], which related to acceptance and administration of gifts to National Library of Medicine and to establishment of memorials to donors, was renumbered section 384 and classified to [section 278 of this title][/us/usc/t42/s278], prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
+    A prior section 374 of act July 1, 1944, added by [act Aug. 3, 1956, ch. 907][/us/act/1956-08-03/ch907], § 1, [70 Stat. 961][/us/stat/70/961], which related to acceptance and administration of gifts to National Library of Medicine and to establishment of memorials to donors, was renumbered section 384 and classified to [section 278 of this title][/us/usc/t42/s278], prior to repeal by [Pub. L. 99–158][/us/pl/99/158], § 3(b), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–616, § 203(1)][/us/pl/101/616/s203/1], substituted “No grant may be made under this part” for “No grant may be made under section 273 or 274a of this title”.
+    1990—Subsec. (a). [Pub. L. 101–616][/us/pl/101/616], § 203(1), substituted “No grant may be made under this part” for “No grant may be made under section 273 or 274a of this title”.
 
-    Subsec. (b). [Pub. L. 101–616, § 203(2)][/us/pl/101/616/s203/2], redesignated par. (2) as (1) and substituted “section 273(a)(1)” for “section 273”, struck out former par. (1) which set forth factors in considering applications for section 273 grants, redesignated par. (3) as (2) and substituted “section 273(a)(2)” for “paragraphs (2) and (3) of section 273(a)”, and added par. (3).
+    Subsec. (b). [Pub. L. 101–616][/us/pl/101/616], § 203(2), redesignated par. (2) as (1) and substituted “section 273(a)(1)” for “section 273”, struck out former par. (1) which set forth factors in considering applications for section 273 grants, redesignated par. (3) as (2) and substituted “section 273(a)(2)” for “paragraphs (2) and (3) of section 273(a)”, and added par. (3).
 
-    Subsec. (c). [Pub. L. 101–616, § 203(3)][/us/pl/101/616/s203/3], inserted “or contract” after “grant” wherever appearing and “and contracts” after “grants” wherever appearing.
+    Subsec. (c). [Pub. L. 101–616][/us/pl/101/616], § 203(3), inserted “or contract” after “grant” wherever appearing and “and contracts” after “grants” wherever appearing.
 
     1988—Subsec. (b)(3). [Pub. L. 100–607][/us/pl/100/607] substituted “paragraphs (2) and (3) of [section 273(a) of this title][/us/usc/t42/s273/a]” for “[section 273 of this title][/us/usc/t42/s273] for the establishment, initial operation, or expansion of organ procurement organizations”.
 
@@ -73,20 +73,20 @@
 [/us/usc/t42/s273/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs273%2Fa%2F3
 [/us/usc/t42/s274a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/507/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2Fs201
+[/us/pl/98/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2FtII
 [/us/stat/98/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2345
-[/us/pl/100/607/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs402%2Fb
+[/us/pl/100/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIV
 [/us/stat/102/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3114
-[/us/pl/101/616/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs203
+[/us/pl/101/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtII
 [/us/stat/104/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3284
-[/us/act/1956-08-03/ch907/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch907%2Fs1
+[/us/act/1956-08-03/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch907
 [/us/stat/70/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F961
 [/us/usc/t42/s278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs278
-[/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
-[/us/pl/101/616/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs203%2F1
-[/us/pl/101/616/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs203%2F2
-[/us/pl/101/616/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs203%2F3
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
+[/us/pl/101/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s273/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs273%2Fa
 [/us/usc/t42/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs273

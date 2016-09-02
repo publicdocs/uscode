@@ -17,7 +17,7 @@
 
     The unexpended balances of prior appropriations provided for activities in this Act or subsequent Energy and Water Development Appropriations Acts may on and after October 2, 1992, be transferred to appropriation accounts for such activities established pursuant to this title. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  Balances so transferred may be merged with funds in the applicable established accounts and thereafter may be accounted for as one fund for the same time period as originally enacted.
 
-([Pub. L. 102–377, title III, § 303][/us/pl/102/377/s303], Oct. 2, 1992, [106 Stat. 1339][/us/stat/106/1339].)
+([Pub. L. 102–377, title III][/us/pl/102/377/tIII], § 303, Oct. 2, 1992, [106 Stat. 1339][/us/stat/106/1339].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/102/377/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs303
+[/us/pl/102/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2FtIII
 [/us/stat/106/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1339
 [/us/pl/102/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377
 [/us/stat/106/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1332

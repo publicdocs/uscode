@@ -51,7 +51,7 @@
 
         No technology, or level of emission reduction under subsection (a)(2) of this section shall be treated as adequately demonstrated for purpose of Section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “purposes of section”. </sup></sup>  7411 of this title, achievable for purposes of [section 7479 of this title][/us/usc/t42/s7479], or achievable in practice for purposes of [section 7501 of this title][/us/usc/t42/s7501] solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under [section 13572(a)(2) of this title][/us/usc/t42/s13572/a/2].
 
-([Pub. L. 102–486, title XXXI, § 3104][/us/pl/102/486/s3104], as added [Pub. L. 109–58, title IV, § 421(a)][/us/pl/109/58/s421/a], Aug. 8, 2005, [119 Stat. 759][/us/stat/119/759].)
+([Pub. L. 102–486, title XXXI][/us/pl/102/486/tXXXI], § 3104, as added [Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 421(a), Aug. 8, 2005, [119 Stat. 759][/us/stat/119/759].)
 
 ----------
 
@@ -69,8 +69,8 @@
 [/us/usc/t42/s7479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7479
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
 [/us/usc/t42/s13572/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13572%2Fa%2F2
-[/us/pl/102/486/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3104
-[/us/pl/109/58/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs421%2Fa
+[/us/pl/102/486/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXXI
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F759
 
 

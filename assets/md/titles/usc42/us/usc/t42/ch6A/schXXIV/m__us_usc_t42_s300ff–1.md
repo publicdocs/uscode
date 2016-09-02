@@ -17,7 +17,7 @@
 
     None of the funds made available under this Act, or an amendment made by this Act, shall be used to provide individuals with hypodermic needles or syringes so that such individuals may use illegal drugs.
 
-([Pub. L. 101–381, title IV, § 422][/us/pl/101/381/s422], Aug. 18, 1990, [104 Stat. 628][/us/stat/104/628].)
+([Pub. L. 101–381, title IV][/us/pl/101/381/tIV], § 422, Aug. 18, 1990, [104 Stat. 628][/us/stat/104/628].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/381/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs422
+[/us/pl/101/381/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIV
 [/us/stat/104/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F628
 [/us/pl/101/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381
 [/us/stat/104/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F576

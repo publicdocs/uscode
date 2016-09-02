@@ -123,7 +123,7 @@
 
         (4) such sums as are necessary for each of fiscal years 2011 through 2015.
 
-([Pub. L. 109–58, title VII, § 782][/us/pl/109/58/s782], Aug. 8, 2005, [119 Stat. 835][/us/stat/119/835].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 782, Aug. 8, 2005, [119 Stat. 835][/us/stat/119/835].)
 
 ----------
 
@@ -134,7 +134,7 @@
 
 [/us/usc/t42/s16157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16157
 [/us/usc/t42/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13212
-[/us/pl/109/58/s782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs782
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F835
 
 

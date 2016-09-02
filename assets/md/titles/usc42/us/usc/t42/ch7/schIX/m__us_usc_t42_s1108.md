@@ -81,7 +81,7 @@
 
             The Council shall include in its report required to be submitted by February 1, 1995, the Council’s findings and recommendations with respect to determining eligibility for extended unemployment benefits on the basis of unemployment statistics for regions, States, or subdivisions of States.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 908, as added [Pub. L. 91–373, title I, § 141][/us/pl/91/373/s141], Aug. 10, 1970, [84 Stat. 706][/us/stat/84/706]; amended [Pub. L. 98–369, div. B, title VI, § 2663(d)(4)][/us/pl/98/369/s2663/d/4], July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 102–164, title III, § 303][/us/pl/102/164/s303], Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 103–152, § 6][/us/pl/103/152/s6], Nov. 24, 1993, [107 Stat. 1518][/us/stat/107/1518].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 908, as added [Pub. L. 91–373, title I][/us/pl/91/373/tI], § 141, Aug. 10, 1970, [84 Stat. 706][/us/stat/84/706]; amended [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(d)(4), July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 102–164, title III][/us/pl/102/164/tIII], § 303, Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 103–152][/us/pl/103/152], § 6, Nov. 24, 1993, [107 Stat. 1518][/us/stat/107/1518].)
 
  __Codification__ 
 
@@ -89,11 +89,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1108, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 908, [49 Stat. 643][/us/stat/49/643], related to rules and regulations. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
+    A prior section 1108, [act Aug. 14, 1935, ch. 531, title IX][/us/act/1935-08-14/ch531/tIX], § 908, [49 Stat. 643][/us/stat/49/643], related to rules and regulations. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
 
-    A prior section 1109, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 909, [49 Stat. 643][/us/stat/49/643], related to an additional credit against tax. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
+    A prior section 1109, [act Aug. 14, 1935, ch. 531, title IX][/us/act/1935-08-14/ch531/tIX], § 909, [49 Stat. 643][/us/stat/49/643], related to an additional credit against tax. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
 
-    A prior section 1110, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 910, [49 Stat. 644][/us/stat/49/644], related to conditions of additional credit allowance. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
+    A prior section 1110, [act Aug. 14, 1935, ch. 531, title IX][/us/act/1935-08-14/ch531/tIX], § 910, [49 Stat. 644][/us/stat/49/644], related to conditions of additional credit allowance. For further details, see Prior Law note set out preceding [section 1101 of this title][/us/usc/t42/s1101].
 
  __Amendments__ 
 
@@ -113,7 +113,7 @@
 
  __Report on Agricultural Labor Performed by Aliens__ 
 
-    [Pub. L. 102–318, title III, § 303(b)][/us/pl/102/318/s303/b], July 3, 1992, [106 Stat. 297][/us/stat/106/297], directed Advisory Council on Unemployment Compensation to submit a report to Congress, not later than Feb. 1, 1994, on its recommendations with respect to the treatment of agricultural labor performed by aliens.
+    [Pub. L. 102–318, title III][/us/pl/102/318/tIII], § 303(b), July 3, 1992, [106 Stat. 297][/us/stat/106/297], directed Advisory Council on Unemployment Compensation to submit a report to Congress, not later than Feb. 1, 1994, on its recommendations with respect to the treatment of agricultural labor performed by aliens.
 
 ----------
 
@@ -125,25 +125,25 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/91/373/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs141
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F706
-[/us/pl/98/369/s2663/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fd%2F4
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1167
-[/us/pl/102/164/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs303
+[/us/pl/102/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2FtIII
 [/us/stat/105/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1059
-[/us/pl/103/152/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs6
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/stat/107/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1518
 [/us/pl/102/107/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F107%2Fs9
 [/us/stat/105/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F547
 [/us/pl/102/164/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs303
 [/us/pl/102/107/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F107%2Fs10%2Fb
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIX
 [/us/stat/49/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F643
 [/us/usc/t42/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIX
 [/us/stat/49/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F643
 [/us/usc/t42/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIX
 [/us/stat/49/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F644
 [/us/usc/t42/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1101
 [/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
@@ -154,7 +154,7 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/102/318/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs303%2Fb
+[/us/pl/102/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtIII
 [/us/stat/106/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F297
 
 

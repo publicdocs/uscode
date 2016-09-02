@@ -97,57 +97,57 @@
 
         Notwithstanding subsections (a) through (d) of this section, the Secretary may allot amounts appropriated pursuant to [section 8621(e) of this title][/us/usc/t42/s8621/e] to one or more than one State. In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.
 
-([Pub. L. 97–35, title XXVI, § 2604][/us/pl/97/35/s2604], Aug. 13, 1981, [95 Stat. 894][/us/stat/95/894]; [Pub. L. 98–558, title VI][/us/pl/98/558], §§ 603, 604, Oct. 30, 1984, [98 Stat. 2890][/us/stat/98/2890]; [Pub. L. 99–425, title V][/us/pl/99/425], §§ 502(a), 503, 505(b), Sept. 30, 1986, [100 Stat. 973–975][/us/stat/100/973-975]; [Pub. L. 101–501, title VII, § 703][/us/pl/101/501/s703], Nov. 3, 1990, [104 Stat. 1258][/us/stat/104/1258]; [Pub. L. 103–252, title III][/us/pl/103/252], §§ 304(c), 311(c)(3), May 18, 1994, [108 Stat. 659][/us/stat/108/659], 662; [Pub. L. 105–285, title III][/us/pl/105/285], §§ 304(b), 305, Oct. 27, 1998, [112 Stat. 2757][/us/stat/112/2757].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2604, Aug. 13, 1981, [95 Stat. 894][/us/stat/95/894]; [Pub. L. 98–558, title VI][/us/pl/98/558/tVI], §§ 603, 604, Oct. 30, 1984, [98 Stat. 2890][/us/stat/98/2890]; [Pub. L. 99–425, title V][/us/pl/99/425/tV], §§ 502(a), 503, 505(b), Sept. 30, 1986, [100 Stat. 973–975][/us/stat/100/973-975]; [Pub. L. 101–501, title VII][/us/pl/101/501/tVII], § 703, Nov. 3, 1990, [104 Stat. 1258][/us/stat/104/1258]; [Pub. L. 103–252, title III][/us/pl/103/252/tIII], §§ 304(c), 311(c)(3), May 18, 1994, [108 Stat. 659][/us/stat/108/659], 662; [Pub. L. 105–285, title III][/us/pl/105/285/tIII], §§ 304(b), 305, Oct. 27, 1998, [112 Stat. 2757][/us/stat/112/2757].)
 
  __References in Text__ 
 
     [Public Law 98–139][/us/pl/98/139], referred to in subsec. (a)(2), is [Pub. L. 98–139][/us/pl/98/139], Oct. 31, 1983, [97 Stat. 871][/us/stat/97/871], known as the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriation Act, 1984. For complete classification of this Act to the Code see Tables.
 
-    The Low-Income Energy Assistance Act of 1980, referred to in subsec. (c), probably means the Home Energy Assistance Act of 1980, which is title III of [Pub. L. 96–223][/us/pl/96/223], Apr. 2, 1980, [94 Stat. 288][/us/stat/94/288], and which was classified generally to subchapter I of this chapter prior to repeal by [Pub. L. 97–35, title XXVI, § 2611][/us/pl/97/35/s2611], Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902]. For complete classification of this Act to the Code, see Tables.
+    The Low-Income Energy Assistance Act of 1980, referred to in subsec. (c), probably means the Home Energy Assistance Act of 1980, which is title III of [Pub. L. 96–223][/us/pl/96/223], Apr. 2, 1980, [94 Stat. 288][/us/stat/94/288], and which was classified generally to subchapter I of this chapter prior to repeal by [Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2611, Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902]. For complete classification of this Act to the Code, see Tables.
 
     This subchapter, referred to in subsec. (c), was in the original “this Act” which was translated as reading “this title”, meaning title XXVI of [Pub. L. 97–35][/us/pl/97/35], as the probable intent of Congress.
 
-    The Disaster Relief Act of 1974, referred to in subsec. (c), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. The 1974 Act was renamed “The Robert T. Stafford Disaster Relief and Emergency Assistance Act”, and was substantially revised by [Pub. L. 100–707][/us/pl/100/707], Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689]. [Section 102(b) of Pub. L. 100–707][/us/pl/100/707/s102/b] provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The name of the Act was subsequently changed to the “Robert T. Stafford Disaster Relief and Emergency Assistance Act” by [Pub. L. 106–390, title III, § 301][/us/pl/106/390/s301], Oct. 30, 2000, 1[114 Stat. 1572][/us/stat/114/1572]. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title][/us/usc/t42/s5121] and Tables.
+    The Disaster Relief Act of 1974, referred to in subsec. (c), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. The 1974 Act was renamed “The Robert T. Stafford Disaster Relief and Emergency Assistance Act”, and was substantially revised by [Pub. L. 100–707][/us/pl/100/707], Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689]. [Section 102(b) of Pub. L. 100–707][/us/pl/100/707/s102/b] provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The name of the Act was subsequently changed to the “Robert T. Stafford Disaster Relief and Emergency Assistance Act” by [Pub. L. 106–390, title III][/us/pl/106/390/tIII], § 301, Oct. 30, 2000, 1[114 Stat. 1572][/us/stat/114/1572]. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title][/us/usc/t42/s5121] and Tables.
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–285, § 305(1)][/us/pl/105/285/s305/1], substituted “and the Commonwealth of the Northern Mariana Islands.” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.”
+    1998—Subsec. (b)(1). [Pub. L. 105–285][/us/pl/105/285], § 305(1), substituted “and the Commonwealth of the Northern Mariana Islands.” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.”
 
-    Subsec. (c)(3)(B)(ii). [Pub. L. 105–285, § 305(2)][/us/pl/105/285/s305/2], substituted “applications” for “application”.
+    Subsec. (c)(3)(B)(ii). [Pub. L. 105–285][/us/pl/105/285], § 305(2), substituted “applications” for “application”.
 
-    Subsec. (e). [Pub. L. 105–285, § 305(5)][/us/pl/105/285/s305/5], redesignated subsec. (g) as (e).
+    Subsec. (e). [Pub. L. 105–285][/us/pl/105/285], § 305(5), redesignated subsec. (g) as (e).
 
-    Subsec. (f). [Pub. L. 105–285, § 305(3)][/us/pl/105/285/s305/3], struck out subsec. (f) relating to optional transfer of funds to block grants for community service programs, preventive health services, etc.
+    Subsec. (f). [Pub. L. 105–285][/us/pl/105/285], § 305(3), struck out subsec. (f) relating to optional transfer of funds to block grants for community service programs, preventive health services, etc.
 
-    Subsec. (g). [Pub. L. 105–285, § 305(5)][/us/pl/105/285/s305/5], redesignated subsec. (g) as (e).
+    Subsec. (g). [Pub. L. 105–285][/us/pl/105/285], § 305(5), redesignated subsec. (g) as (e).
 
     [Pub. L. 105–285][/us/pl/105/285], §§ 304(b), 305(4), substituted “subsections (a) through (d) of this section” for “subsections (a) through (f) of this section” and “In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.” for “In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.”
 
-    1994—Subsec. (b)(1). [Pub. L. 103–252, § 311(c)(3)][/us/pl/103/252/s311/c/3], inserted “of the United States” after “Virgin Islands”.
+    1994—Subsec. (b)(1). [Pub. L. 103–252][/us/pl/103/252], § 311(c)(3), inserted “of the United States” after “Virgin Islands”.
 
-    Subsec. (g). [Pub. L. 103–252, § 304(c)][/us/pl/103/252/s304/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–252][/us/pl/103/252], § 304(c), added subsec. (g).
 
     1990—Subsec. (f). [Pub. L. 101–501][/us/pl/101/501] designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “in accordance with paragraph (2) a percentage” for “up to 10 percent”, “or a combination” for “or any combination”, and “subparagraphs (A), (B), and (C)” for “paragraphs (1), (2), and (3)”, and added par. (2).
 
-    1986—Subsec. (a)(1)(A). [Pub. L. 99–425, § 505(b)(1)][/us/pl/99/425/s505/b/1], inserted “after reserving any amount permitted to be reserved under [section 8628a of this title][/us/usc/t42/s8628a] and” after “remaining”.
+    1986—Subsec. (a)(1)(A). [Pub. L. 99–425][/us/pl/99/425], § 505(b)(1), inserted “after reserving any amount permitted to be reserved under [section 8628a of this title][/us/usc/t42/s8628a] and” after “remaining”.
 
-    Subsec. (a)(1)(B). [Pub. L. 99–425, § 505(b)(2)][/us/pl/99/425/s505/b/2], inserted “after reserving any amount permitted to be reserved under [section 8628a of this title][/us/usc/t42/s8628a]” after “therefor”.
+    Subsec. (a)(1)(B). [Pub. L. 99–425][/us/pl/99/425], § 505(b)(2), inserted “after reserving any amount permitted to be reserved under [section 8628a of this title][/us/usc/t42/s8628a]” after “therefor”.
 
-    Subsec. (c). [Pub. L. 99–425, § 502(a)][/us/pl/99/425/s502/a], substituted “the capacity” for “and the capacity”, inserted “, and the ability to carry out the program in local communities”, and inserted provisions relating to hourly time periods in which the program must respond, application for benefits, and nonapplicability of the program to areas affected by a natural disaster or major disaster.
+    Subsec. (c). [Pub. L. 99–425][/us/pl/99/425], § 502(a), substituted “the capacity” for “and the capacity”, inserted “, and the ability to carry out the program in local communities”, and inserted provisions relating to hourly time periods in which the program must respond, application for benefits, and nonapplicability of the program to areas affected by a natural disaster or major disaster.
 
-    Subsec. (d)(2). [Pub. L. 99–425, § 503][/us/pl/99/425/s503], substituted “and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation” for “in such State with respect to which a determination under this subsection is made”, inserted “, or such greater amount as the Indian tribe and the State may agree upon”, and inserted “In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph.”
+    Subsec. (d)(2). [Pub. L. 99–425][/us/pl/99/425], § 503, substituted “and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation” for “in such State with respect to which a determination under this subsection is made”, inserted “, or such greater amount as the Indian tribe and the State may agree upon”, and inserted “In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph.”
 
-    1984—Subsec. (a)(2). [Pub. L. 98–558, § 604(a)][/us/pl/98/558/s604/a], amended par. (2) generally, substituting provisions relating to State allotment computation for former provisions which also related to computation of State allotment formulas and adding subpars. (A) and (B).
+    1984—Subsec. (a)(2). [Pub. L. 98–558][/us/pl/98/558], § 604(a), amended par. (2) generally, substituting provisions relating to State allotment computation for former provisions which also related to computation of State allotment formulas and adding subpars. (A) and (B).
 
-    Subsec. (a)(4). [Pub. L. 98–558, § 604(b)][/us/pl/98/558/s604/b], added par. (4).
+    Subsec. (a)(4). [Pub. L. 98–558][/us/pl/98/558], § 604(b), added par. (4).
 
-    Subsec. (c). [Pub. L. 98–558, § 603(a)][/us/pl/98/558/s603/a], inserted “until March 15 of each program year” after “reserved” and inserted “The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter, experience in assisting low-income individuals in the area to be served, and the capacity to undertake a timely and effective energy crisis intervention program.”
+    Subsec. (c). [Pub. L. 98–558][/us/pl/98/558], § 603(a), inserted “until March 15 of each program year” after “reserved” and inserted “The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter, experience in assisting low-income individuals in the area to be served, and the capacity to undertake a timely and effective energy crisis intervention program.”
 
-    Subsec. (d)(1). [Pub. L. 98–558, § 603(b)][/us/pl/98/558/s603/b], substituted “otherwise be payable” for “otherwise be paid” in provisions following subpar. (B).
+    Subsec. (d)(1). [Pub. L. 98–558][/us/pl/98/558], § 603(b), substituted “otherwise be payable” for “otherwise be paid” in provisions following subpar. (B).
 
-    Subsec. (e). [Pub. L. 98–558, § 603(c)][/us/pl/98/558/s603/c], struck out subsec. (e) which related to direct payments to households and State options.
+    Subsec. (e). [Pub. L. 98–558][/us/pl/98/558], § 603(c), struck out subsec. (e) which related to direct payments to households and State options.
 
-    Subsec. (f). [Pub. L. 98–558, § 603(d)][/us/pl/98/558/s603/d], substituted “the funds payable to it” for “its allotment”.
+    Subsec. (f). [Pub. L. 98–558][/us/pl/98/558], § 603(d), substituted “the funds payable to it” for “its allotment”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -167,7 +167,7 @@
 
  __Rules for Energy Crisis Intervention__ 
 
-[Pub. L. 99–425, title V, § 502(b)][/us/pl/99/425/s502/b], Sept. 30, 1986, [100 Stat. 973][/us/stat/100/973], provided that: 
+[Pub. L. 99–425, title V][/us/pl/99/425/tV], § 502(b), Sept. 30, 1986, [100 Stat. 973][/us/stat/100/973], provided that: 
 
 > “Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], the Secretary of Health and Human Services shall issue rules to carry out the amendments made by subsection (a) \[amending this section\].”
 
@@ -191,24 +191,24 @@
 [/us/usc/t42/s8624/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624%2Fb%2F2
 [/us/usc/t42/s8624/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624%2Fb%2F2
 [/us/usc/t42/s8621/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621%2Fe
-[/us/pl/97/35/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2604
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F894
-[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVI
 [/us/stat/98/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2890
-[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/99/425/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtV
 [/us/stat/100/973-975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F973-975
-[/us/pl/101/501/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs703
+[/us/pl/101/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtVII
 [/us/stat/104/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1258
-[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F659
-[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtIII
 [/us/stat/112/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2757
 [/us/pl/98/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139
 [/us/pl/98/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139
 [/us/stat/97/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F871
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/stat/94/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F288
-[/us/pl/97/35/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2611
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F902
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
@@ -216,30 +216,30 @@
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/stat/102/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4689
 [/us/pl/100/707/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs102%2Fb
-[/us/pl/106/390/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs301
+[/us/pl/106/390/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtIII
 [/us/stat/114/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1572
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/105/285/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs305%2F1
-[/us/pl/105/285/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs305%2F2
-[/us/pl/105/285/s305/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs305%2F5
-[/us/pl/105/285/s305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs305%2F3
-[/us/pl/105/285/s305/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs305%2F5
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
-[/us/pl/103/252/s311/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fc%2F3
-[/us/pl/103/252/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs304%2Fc
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/pl/99/425/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs505%2Fb%2F1
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
 [/us/usc/t42/s8628a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8628a
-[/us/pl/99/425/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs505%2Fb%2F2
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
 [/us/usc/t42/s8628a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8628a
-[/us/pl/99/425/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs502%2Fa
-[/us/pl/99/425/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs503
-[/us/pl/98/558/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs604%2Fa
-[/us/pl/98/558/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs604%2Fb
-[/us/pl/98/558/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs603%2Fa
-[/us/pl/98/558/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs603%2Fb
-[/us/pl/98/558/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs603%2Fc
-[/us/pl/98/558/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs603%2Fd
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs314
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
@@ -253,7 +253,7 @@
 [/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/98/558/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs609%2Fa
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/99/425/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs502%2Fb
+[/us/pl/99/425/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtV
 [/us/stat/100/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F973
 
 

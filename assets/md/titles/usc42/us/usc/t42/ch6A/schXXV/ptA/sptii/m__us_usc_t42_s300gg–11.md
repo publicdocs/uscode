@@ -33,17 +33,17 @@
 
         Subsection (a) shall not be construed to prevent a group health plan or health insurance coverage from placing annual or lifetime per beneficiary limits on specific covered benefits that are not essential health benefits under [section 18022(b) of this title][/us/usc/t42/s18022/b], to the extent that such limits are otherwise permitted under Federal or State law.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2711, as added and amended [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], title X, § 10101(a), Mar. 23, 2010, [124 Stat. 131][/us/stat/124/131], 883.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2711, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), title X, § 10101(a), Mar. 23, 2010, [124 Stat. 131][/us/stat/124/131], 883.)
 
  __Prior Provisions__ 
 
-    A prior section 300gg–11, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2711, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1962][/us/stat/110/1962], which related to guaranteed availability of coverage for employers in a group market, was renumbered section 2731 of act July 1, 1944, amended, and transferred to subsecs. (c) and (d) of [section 300gg–1 of this title][/us/usc/t42/s300gg–1], by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(3), 1563(c)(8), formerly § 1562(c)(8), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 266, 911.
+    A prior section 300gg–11, [act July 1, 1944, ch. 373, title XXVII][/us/act/1944-07-01/ch373/tXXVII], § 2711, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1962][/us/stat/110/1962], which related to guaranteed availability of coverage for employers in a group market, was renumbered section 2731 of act July 1, 1944, amended, and transferred to subsecs. (c) and (d) of [section 300gg–1 of this title][/us/usc/t42/s300gg–1], by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(3), 1563(c)(8), formerly § 1562(c)(8), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 266, 911.
 
     Another prior section 2711 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see [section 238j of this title][/us/usc/t42/s238j].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10101(a)][/us/pl/111/148/s10101/a], amended section generally. Prior to amendment, text read as follows:
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10101(a), amended section generally. Prior to amendment, text read as follows:
 
     “(a) In General.—A group health plan and a health insurance issuer offering group or individual health insurance coverage may not establish—
 
@@ -55,7 +55,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title I, § 1004][/us/pl/111/148/s1004], Mar. 23, 2010, [124 Stat. 140][/us/stat/124/140], provided that:
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1004, Mar. 23, 2010, [124 Stat. 140][/us/stat/124/140], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -75,19 +75,19 @@
 [/us/usc/t42/s18022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fb
 [/us/usc/t42/s18022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F131
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/act/1944-07-01/ch373/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVII
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1962
 [/us/usc/t42/s300gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%931
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s238j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238j
-[/us/pl/111/148/s10101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t26/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs223
 [/us/usc/t42/s18022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fb
-[/us/pl/111/148/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F140
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s300gg–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9313

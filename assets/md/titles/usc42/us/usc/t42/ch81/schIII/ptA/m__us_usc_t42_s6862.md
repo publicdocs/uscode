@@ -75,13 +75,13 @@
 
         (J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
 
-([Pub. L. 94–385, title IV, § 412][/us/pl/94/385/s412], Aug. 14, 1976, [90 Stat. 1152][/us/stat/90/1152]; [Pub. L. 95–602, title I, § 122(e)][/us/pl/95/602/s122/e], Nov. 6, 1978, [92 Stat. 2987][/us/stat/92/2987]; [Pub. L. 95–619, title II, § 231(a)(1)][/us/pl/95/619/s231/a/1], (b)(2), Nov. 9, 1978, [92 Stat. 3224][/us/stat/92/3224], 3225; [Pub. L. 96–294, title V, § 577(1)][/us/pl/96/294/s577/1], (2), June 30, 1980, [94 Stat. 760][/us/stat/94/760]; [Pub. L. 98–558, title IV][/us/pl/98/558], §§ 401, 402, Oct. 30, 1984, [98 Stat. 2887][/us/stat/98/2887]; [Pub. L. 100–242, title V, § 570(d)][/us/pl/100/242/s570/d], Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 101–440, § 7(a)][/us/pl/101/440/s7/a], Oct. 18, 1990, [104 Stat. 1012][/us/stat/104/1012]; [Pub. L. 102–486, title I, § 142(b)][/us/pl/102/486/s142/b], Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843]; [Pub. L. 105–220, title IV, § 414(f)][/us/pl/105/220/s414/f], Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242]; [Pub. L. 109–58, title I, § 122(b)][/us/pl/109/58/s122/b], Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616]; [Pub. L. 109–365, title IX, § 901(b)][/us/pl/109/365/s901/b], Oct. 17, 2006, [120 Stat. 2599][/us/stat/120/2599]; [Pub. L. 110–140, title IV, § 411(c)][/us/pl/110/140/s411/c], Dec. 19, 2007, [121 Stat. 1601][/us/stat/121/1601]; [Pub. L. 111–5, div. A, title IV, § 407(a)][/us/pl/111/5/s407/a], Feb. 17, 2009, [123 Stat. 145][/us/stat/123/145].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 412, Aug. 14, 1976, [90 Stat. 1152][/us/stat/90/1152]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 122(e), Nov. 6, 1978, [92 Stat. 2987][/us/stat/92/2987]; [Pub. L. 95–619, title II][/us/pl/95/619/tII], § 231(a)(1), (b)(2), Nov. 9, 1978, [92 Stat. 3224][/us/stat/92/3224], 3225; [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 577(1), (2), June 30, 1980, [94 Stat. 760][/us/stat/94/760]; [Pub. L. 98–558, title IV][/us/pl/98/558/tIV], §§ 401, 402, Oct. 30, 1984, [98 Stat. 2887][/us/stat/98/2887]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 570(d), Feb. 5, 1988, [101 Stat. 1950][/us/stat/101/1950]; [Pub. L. 101–440][/us/pl/101/440], § 7(a), Oct. 18, 1990, [104 Stat. 1012][/us/stat/104/1012]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 142(b), Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843]; [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 414(f), Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 122(b), Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616]; [Pub. L. 109–365, title IX][/us/pl/109/365/tIX], § 901(b), Oct. 17, 2006, [120 Stat. 2599][/us/stat/120/2599]; [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 411(c), Dec. 19, 2007, [121 Stat. 1601][/us/stat/121/1601]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 407(a), Feb. 17, 2009, [123 Stat. 145][/us/stat/123/145].)
 
  __References in Text__ 
 
-    Section 102(7) of the Developmental Disabilities Services and Facilities Construction Act \[[42 U.S.C. 6001(7)][/us/usc/t42/s6001/7]\], referred to in par. (5), was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737].
+    Section 102(7) of the Developmental Disabilities Services and Facilities Construction Act \[[42 U.S.C. 6001(7)][/us/usc/t42/s6001/7]\], referred to in par. (5), was repealed by [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(a), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737].
 
-    [Section 2809(a)(12) of this title][/us/usc/t42/s2809/a/12], referred to in par. (7), which was redesignated as section 2809(a)(5) by [Pub. L. 95–568, § 5(a)(2)(E)][/us/pl/95/568/s5/a/2/E], Nov. 2, 1978, [92 Stat. 2426][/us/stat/92/2426], was subsequently repealed by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    [Section 2809(a)(12) of this title][/us/usc/t42/s2809/a/12], referred to in par. (7), which was redesignated as section 2809(a)(5) by [Pub. L. 95–568][/us/pl/95/568], § 5(a)(2)(E), Nov. 2, 1978, [92 Stat. 2426][/us/stat/92/2426], was subsequently repealed by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
     The Social Security Act, referred to in par. (7), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§ 601 et seq.) and XVI (§ 1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -105,21 +105,21 @@
 
     1988—Par. (9)(G). [Pub. L. 100–242][/us/pl/100/242] substituted a single comma for two consecutive commas after “determine”.
 
-    1984—Par. (7)(C). [Pub. L. 98–558, § 401][/us/pl/98/558/s401], added cl. (C).
+    1984—Par. (7)(C). [Pub. L. 98–558][/us/pl/98/558], § 401, added cl. (C).
 
-    Par. (9)(B). [Pub. L. 98–558, § 402(1)][/us/pl/98/558/s402/1], in amending subpar. (B) generally, substituted “, including, but not limited to” for “limited to” in provisions preceding cl. (i), “, furnaces, or boilers or any combination thereof” for “designed to substantially increase the energy efficiency of the heating system,” in cl. (i), and “minimizing energy loss through heating system, chimney, or venting devices” for “modifying flue openings which will increase the energy efficiency of the heating system,” in cl. (ii).
+    Par. (9)(B). [Pub. L. 98–558][/us/pl/98/558], § 402(1), in amending subpar. (B) generally, substituted “, including, but not limited to” for “limited to” in provisions preceding cl. (i), “, furnaces, or boilers or any combination thereof” for “designed to substantially increase the energy efficiency of the heating system,” in cl. (i), and “minimizing energy loss through heating system, chimney, or venting devices” for “modifying flue openings which will increase the energy efficiency of the heating system,” in cl. (ii).
 
-    Par. (9)(C). [Pub. L. 98–558, § 402(2)][/us/pl/98/558/s402/2], struck out “by rule” after “may determine,”.
+    Par. (9)(C). [Pub. L. 98–558][/us/pl/98/558], § 402(2), struck out “by rule” after “may determine,”.
 
-    1980—Par. (1). [Pub. L. 96–294, § 577(1)][/us/pl/96/294/s577/1], substituted provisions defining “Secretary” for provisions defining “Administrator”.
+    1980—Par. (1). [Pub. L. 96–294][/us/pl/96/294], § 577(1), substituted provisions defining “Secretary” for provisions defining “Administrator”.
 
-    Pars. (7), (9)(G). [Pub. L. 96–294, § 577(2)][/us/pl/96/294/s577/2], substituted “Secretary” for “Administrator” wherever appearing.
+    Pars. (7), (9)(G). [Pub. L. 96–294][/us/pl/96/294], § 577(2), substituted “Secretary” for “Administrator” wherever appearing.
 
     1978—Par. (5). [Pub. L. 95–602][/us/pl/95/602] substituted “section 7(7) of the Rehabilitation Act of 1973” for “section 7(6) of the Rehabilitation Act of 1973”.
 
-    Par. (7)(A). [Pub. L. 95–619, § 231(a)(1)][/us/pl/95/619/s231/a/1], inserted “125 percent of” after “at or below” and inserted provision authorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
+    Par. (7)(A). [Pub. L. 95–619][/us/pl/95/619], § 231(a)(1), inserted “125 percent of” after “at or below” and inserted provision authorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
 
-    Par. (9). [Pub. L. 95–619, § 231(b)(2)][/us/pl/95/619/s231/b/2], substituted a specific listing of items to be considered weatherization materials for purposes of this part for a general statement of the sort of materials that could be considered as such.
+    Par. (9). [Pub. L. 95–619][/us/pl/95/619], § 231(b)(2), substituted a specific listing of items to be considered weatherization materials for purposes of this part for a general statement of the sort of materials that could be considered as such.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -127,7 +127,7 @@
 
  __Use of Appropriations__ 
 
-[Pub. L. 113–76, div. D, title III, § 308][/us/pl/113/76/s308], Jan. 17, 2014, [128 Stat. 175][/us/stat/128/175], provided that: 
+[Pub. L. 113–76, div. D, title III][/us/pl/113/76/dD/tIII], § 308, Jan. 17, 2014, [128 Stat. 175][/us/stat/128/175], provided that: 
 
 > “None of the funds made available by this \[Act\] \[div D. of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] or any subsequent Act for fiscal year 2014 or any fiscal year hereafter may be used to pay the salaries of Department of Energy employees to carry out the amendments made by section 407 of division A of the American Recovery and Reinvestment Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5], amending this section and sections 6865 and 6866 of this title\].”
 
@@ -149,39 +149,39 @@
 [/us/usc/t42/s2809/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F12
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/94/385/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs412
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1152
-[/us/pl/95/602/s122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fe
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2987
-[/us/pl/95/619/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs231%2Fa%2F1
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3224
-[/us/pl/96/294/s577/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F1
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F760
-[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtIV
 [/us/stat/98/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2887
-[/us/pl/100/242/s570/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs570%2Fd
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1950
-[/us/pl/101/440/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fa
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1012
-[/us/pl/102/486/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs142%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843
-[/us/pl/105/220/s414/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs414%2Ff
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1242
-[/us/pl/109/58/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs122%2Fb
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F616
-[/us/pl/109/365/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs901%2Fb
+[/us/pl/109/365/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIX
 [/us/stat/120/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2599
-[/us/pl/110/140/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs411%2Fc
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1601
-[/us/pl/111/5/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs407%2Fa
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F145
 [/us/usc/t42/s6001/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6001%2F7
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 [/us/usc/t42/s2809/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F12
-[/us/pl/95/568/s5/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs5%2Fa%2F2%2FE
+[/us/pl/95/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568
 [/us/stat/92/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2426
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -199,18 +199,18 @@
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/98/558/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs401
-[/us/pl/98/558/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs402%2F1
-[/us/pl/98/558/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs402%2F2
-[/us/pl/96/294/s577/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F1
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
-[/us/pl/95/619/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs231%2Fa%2F1
-[/us/pl/95/619/s231/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs231%2Fb%2F2
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/113/76/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs308
+[/us/pl/113/76/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtIII
 [/us/stat/128/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F175
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5

@@ -23,7 +23,7 @@
 
     (b) The Director shall take reasonable actions to inform applicants for such assistance that such adjustments may be available.
 
-([Pub. L. 93–113, title II, § 226][/us/pl/93/113/s226], as added [Pub. L. 101–204, title V, § 506][/us/pl/101/204/s506], Dec. 7, 1989, [103 Stat. 1818][/us/stat/103/1818]; amended [Pub. L. 103–82, title III, § 350][/us/pl/103/82/s350], Sept. 21, 1993, [107 Stat. 906][/us/stat/107/906]; [Pub. L. 104–66, title II, § 2011][/us/pl/104/66/s2011], Dec. 21, 1995, [109 Stat. 726][/us/stat/109/726].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 226, as added [Pub. L. 101–204, title V][/us/pl/101/204/tV], § 506, Dec. 7, 1989, [103 Stat. 1818][/us/stat/103/1818]; amended [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 350, Sept. 21, 1993, [107 Stat. 906][/us/stat/107/906]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2011, Dec. 21, 1995, [109 Stat. 726][/us/stat/109/726].)
 
  __Amendments__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/93/113/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs226
-[/us/pl/101/204/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs506
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/101/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtV
 [/us/stat/103/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1818
-[/us/pl/103/82/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs350
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F906
-[/us/pl/104/66/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2011
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F726
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

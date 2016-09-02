@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of law, amounts collected pursuant to sections 3729 through 3731 of title 31 (commonly known as the “False Claims Act”) may be used for grants under this section, subject to appropriation.
 
-([Pub. L. 98–473, title II, § 1404D][/us/pl/98/473/s1404D], as added [Pub. L. 108–405, title I, § 103(a)][/us/pl/108/405/s103/a], Oct. 30, 2004, [118 Stat. 2264][/us/stat/118/2264].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1404D, as added [Pub. L. 108–405, title I][/us/pl/108/405/tI], § 103(a), Oct. 30, 2004, [118 Stat. 2264][/us/stat/118/2264].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t42/s10603/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603%2Fc%2F1%2FA
-[/us/pl/98/473/s1404D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1404D
-[/us/pl/108/405/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs103%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
+[/us/pl/108/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtI
 [/us/stat/118/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2264
 
 

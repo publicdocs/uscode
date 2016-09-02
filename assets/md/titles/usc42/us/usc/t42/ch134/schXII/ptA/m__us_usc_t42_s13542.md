@@ -31,7 +31,7 @@
 
         Funds derived by the Tennessee Valley Authority from its power program may be used for all or part of any cost sharing requirements under this section, except to the extent that such funds are provided by annual appropriation Acts.
 
-([Pub. L. 102–486, title XXX, § 3002][/us/pl/102/486/s3002], Oct. 24, 1992, [106 Stat. 3127][/us/stat/106/3127].)
+([Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3002, Oct. 24, 1992, [106 Stat. 3127][/us/stat/106/3127].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3002
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3127
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776

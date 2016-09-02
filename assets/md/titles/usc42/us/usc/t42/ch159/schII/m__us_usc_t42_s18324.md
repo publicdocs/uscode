@@ -43,7 +43,7 @@
 
         (5) shall take appropriate actions to ensure timely and cost-effective development of the Space Launch System and the multi-purpose crew vehicle, including the use of a procurement approach that incorporates adequate and effective oversight, the facilitation of contractor efficiencies, and the stream-lining of contract and procurement requirements.
 
-([Pub. L. 111–267, title III, § 304][/us/pl/111/267/s304], Oct. 11, 2010, [124 Stat. 2816][/us/stat/124/2816].)
+([Pub. L. 111–267, title III][/us/pl/111/267/tIII], § 304, Oct. 11, 2010, [124 Stat. 2816][/us/stat/124/2816].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s18322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18322
 [/us/usc/t42/s18323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18323
-[/us/pl/111/267/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs304
+[/us/pl/111/267/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIII
 [/us/stat/124/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2816
 
 

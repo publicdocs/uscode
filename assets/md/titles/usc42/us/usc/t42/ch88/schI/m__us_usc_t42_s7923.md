@@ -17,7 +17,7 @@
 
     The authority under this subchapter to enter into contracts or other obligations requiring the United States to make outlays may be exercised only to the extent provided in advance in annual authorization and appropriation Acts.
 
-([Pub. L. 95–604, title I, § 113][/us/pl/95/604/s113], Nov. 8, 1978, [92 Stat. 3031][/us/stat/92/3031].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 113, Nov. 8, 1978, [92 Stat. 3031][/us/stat/92/3031].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/604/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs113
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3031
 
 

@@ -101,7 +101,7 @@
 
         (3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section, the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
 
-([Pub. L. 99–425, title IV, § 408][/us/pl/99/425/s408], Sept. 30, 1986, [100 Stat. 972][/us/stat/100/972]; [Pub. L. 101–204, title VII, § 705][/us/pl/101/204/s705], Dec. 7, 1989, [103 Stat. 1821][/us/stat/103/1821]; [Pub. L. 101–501, title VI][/us/pl/101/501], §§ 601, 602, Nov. 3, 1990, [104 Stat. 1257][/us/stat/104/1257], 1258; [Pub. L. 103–252, title II, § 207][/us/pl/103/252/s207], May 18, 1994, [108 Stat. 656][/us/stat/108/656].)
+([Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 408, Sept. 30, 1986, [100 Stat. 972][/us/stat/100/972]; [Pub. L. 101–204, title VII][/us/pl/101/204/tVII], § 705, Dec. 7, 1989, [103 Stat. 1821][/us/stat/103/1821]; [Pub. L. 101–501, title VI][/us/pl/101/501/tVI], §§ 601, 602, Nov. 3, 1990, [104 Stat. 1257][/us/stat/104/1257], 1258; [Pub. L. 103–252, title II][/us/pl/103/252/tII], § 207, May 18, 1994, [108 Stat. 656][/us/stat/108/656].)
 
  __References in Text__ 
 
@@ -119,43 +119,43 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(3). [Pub. L. 103–252, § 207(1)][/us/pl/103/252/s207/1], added par. (3).
+    1994—Subsec. (a)(3). [Pub. L. 103–252][/us/pl/103/252], § 207(1), added par. (3).
 
-    Subsec. (b)(1)(B). [Pub. L. 103–252, § 207(2)][/us/pl/103/252/s207/2], substituted “After the first funding period” for “After the first fiscal year”.
+    Subsec. (b)(1)(B). [Pub. L. 103–252][/us/pl/103/252], § 207(2), substituted “After the first funding period” for “After the first fiscal year”.
 
-    Subsec. (c)(1). [Pub. L. 103–252, § 207(3)(A)][/us/pl/103/252/s207/3/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to the grant programs described in subsection (a) of this section, the Secretary shall make grants to eligible entities for the purpose of demonstrating new and innovative approaches to addressing the problems of, and providing opportunities for leadership development, community involvement, and educational success to, disadvantaged persons between the ages of 14 and 25 from populations experiencing conditions such as a high poverty rate, high unemployment, high dropout rate, low labor force participation, low enrollment in college or participation in other post high school training classes, high incidence of involvement in violence, and a high rate of incarceration. Services provided through approaches funded by such grants may include assessment and development of employability plans, remedial education, motivational activities, life skills instruction, community service, mentoring, access to information on available financial aid, campus visits, career education, cultural enrichment, and employment training, placement, and follow-up.”
+    Subsec. (c)(1). [Pub. L. 103–252][/us/pl/103/252], § 207(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to the grant programs described in subsection (a) of this section, the Secretary shall make grants to eligible entities for the purpose of demonstrating new and innovative approaches to addressing the problems of, and providing opportunities for leadership development, community involvement, and educational success to, disadvantaged persons between the ages of 14 and 25 from populations experiencing conditions such as a high poverty rate, high unemployment, high dropout rate, low labor force participation, low enrollment in college or participation in other post high school training classes, high incidence of involvement in violence, and a high rate of incarceration. Services provided through approaches funded by such grants may include assessment and development of employability plans, remedial education, motivational activities, life skills instruction, community service, mentoring, access to information on available financial aid, campus visits, career education, cultural enrichment, and employment training, placement, and follow-up.”
 
-    Subsec. (c)(4). [Pub. L. 103–252, § 207(3)(B)][/us/pl/103/252/s207/3/B], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Such grants shall be made annually on such terms and conditions as the Secretary shall specify to eligible entities that serve the populations described in paragraph (1) and that are located within those areas where such populations are concentrated.”
+    Subsec. (c)(4). [Pub. L. 103–252][/us/pl/103/252], § 207(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Such grants shall be made annually on such terms and conditions as the Secretary shall specify to eligible entities that serve the populations described in paragraph (1) and that are located within those areas where such populations are concentrated.”
 
-    Subsec. (h). [Pub. L. 103–252, § 207(4)][/us/pl/103/252/s207/4], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows:
+    Subsec. (h). [Pub. L. 103–252][/us/pl/103/252], § 207(4), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows:
 
     “(1) There are authorized to be appropriated $10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992, 1993, and 1994, to carry out this section (other than subsection (c) of this section).
 
     “(2) There are authorized to be appropriated $10,000,000 for fiscal year 1991 and such sums as may be necessary in each of the fiscal years 1992 through 1994, to carry out subsection (c) of this section.”
 
-    1990—Subsecs. (c) to (e). [Pub. L. 101–501, § 601(2)][/us/pl/101/501/s601/2], (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+    1990—Subsecs. (c) to (e). [Pub. L. 101–501][/us/pl/101/501], § 601(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 101–501, § 601(1)][/us/pl/101/501/s601/1], (2), redesignated subsec. (e) as (f) and substituted “subsection (d)” for “subsection (c)” in par. (2) and “subsection (e)(2)” for “subsection (d)(2)” in par. (4). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 101–501][/us/pl/101/501], § 601(1), (2), redesignated subsec. (e) as (f) and substituted “subsection (d)” for “subsection (c)” in par. (2) and “subsection (e)(2)” for “subsection (d)(2)” in par. (4). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 101–501, § 601(2)][/us/pl/101/501/s601/2], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 101–501][/us/pl/101/501], § 601(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
     Subsec. (h). [Pub. L. 101–501][/us/pl/101/501], §§ 601(2), 602, redesignated subsec. (g) as (h), designated existing provisions as par. (1), substituted “$10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992, 1993, and 1994” for “$5,000,000 for each of the fiscal years 1987, 1988, and 1989, and $7,000,000 for fiscal year 1990”, inserted “(other than subsection (c) of this section)” before period at end, and added par. (2).
 
-    1989—Subsec. (a)(1). [Pub. L. 101–204, § 705(a)(1)][/us/pl/101/204/s705/a/1], substituted “stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor” for “provide for the self-sufficiency of the Nation’s poor”.
+    1989—Subsec. (a)(1). [Pub. L. 101–204][/us/pl/101/204], § 705(a)(1), substituted “stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor” for “provide for the self-sufficiency of the Nation’s poor”.
 
-    Subsec. (a)(1)(D). [Pub. L. 101–204, § 705(a)(2)][/us/pl/101/204/s705/a/2], added subpar. (D).
+    Subsec. (a)(1)(D). [Pub. L. 101–204][/us/pl/101/204], § 705(a)(2), added subpar. (D).
 
-    Subsec. (b)(1). [Pub. L. 101–204, § 705(b)(1)][/us/pl/101/204/s705/b/1], designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), grants” for “Grants”, struck out “new” before “programs” wherever appearing, and added subpar. (B).
+    Subsec. (b)(1). [Pub. L. 101–204][/us/pl/101/204], § 705(b)(1), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), grants” for “Grants”, struck out “new” before “programs” wherever appearing, and added subpar. (B).
 
-    Subsec. (b)(3). [Pub. L. 101–204, § 705(b)(2)][/us/pl/101/204/s705/b/2], inserted “in each fiscal year” after “than one grant”, substituted “$350,000” for “$250,000”, and inserted at end “Not more than 2 grants may be made under this section to an eligible entity to carry out a particular program.”
+    Subsec. (b)(3). [Pub. L. 101–204][/us/pl/101/204], § 705(b)(2), inserted “in each fiscal year” after “than one grant”, substituted “$350,000” for “$250,000”, and inserted at end “Not more than 2 grants may be made under this section to an eligible entity to carry out a particular program.”
 
-    Subsec. (c). [Pub. L. 101–204, § 705(c)][/us/pl/101/204/s705/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90 days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
+    Subsec. (c). [Pub. L. 101–204][/us/pl/101/204], § 705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90 days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
 
-    Subsecs. (d), (e). [Pub. L. 101–204, § 705(f)(2)][/us/pl/101/204/s705/f/2], added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+    Subsecs. (d), (e). [Pub. L. 101–204][/us/pl/101/204], § 705(f)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-    Subsec. (f). [Pub. L. 101–204, § 705(d)][/us/pl/101/204/s705/d], (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) “, except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act ([42 U.S.C. 9901][/us/usc/t42/s9901] et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section”.
+    Subsec. (f). [Pub. L. 101–204][/us/pl/101/204], § 705(d), (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) “, except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act ([42 U.S.C. 9901][/us/usc/t42/s9901] et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section”.
 
-    Subsec. (g). [Pub. L. 101–204, § 705(e)][/us/pl/101/204/s705/e], (f)(1), redesignated subsec. (e) as (g), substituted “are” for “is”, and inserted “and $7,000,000 for fiscal year 1990,” after “1989,”.
+    Subsec. (g). [Pub. L. 101–204][/us/pl/101/204], § 705(e), (f)(1), redesignated subsec. (e) as (g), substituted “are” for “is”, and inserted “and $7,000,000 for fiscal year 1990,” after “1989,”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -179,13 +179,13 @@
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
 [/us/usc/t42/s9902/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F1
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
-[/us/pl/99/425/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs408
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F972
-[/us/pl/101/204/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705
+[/us/pl/101/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtVII
 [/us/stat/103/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1821
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtVI
 [/us/stat/104/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1257
-[/us/pl/103/252/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs207
+[/us/pl/103/252/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtII
 [/us/stat/108/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F656
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
@@ -193,24 +193,24 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t42/s9910b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910b
-[/us/pl/103/252/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs207%2F1
-[/us/pl/103/252/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs207%2F2
-[/us/pl/103/252/s207/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs207%2F3%2FA
-[/us/pl/103/252/s207/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs207%2F3%2FB
-[/us/pl/103/252/s207/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs207%2F4
-[/us/pl/101/501/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs601%2F2
-[/us/pl/101/501/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs601%2F1
-[/us/pl/101/501/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs601%2F2
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/pl/101/204/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Fa%2F1
-[/us/pl/101/204/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Fa%2F2
-[/us/pl/101/204/s705/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Fb%2F1
-[/us/pl/101/204/s705/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Fb%2F2
-[/us/pl/101/204/s705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Fc
-[/us/pl/101/204/s705/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Ff%2F2
-[/us/pl/101/204/s705/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Fd
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
-[/us/pl/101/204/s705/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs705%2Fe
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/pl/103/252/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs208
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901

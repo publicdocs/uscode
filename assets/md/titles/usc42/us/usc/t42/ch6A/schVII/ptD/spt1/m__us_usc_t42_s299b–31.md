@@ -141,11 +141,11 @@
 
                 Not later than 36 months after March 23, 2010,1 the Secretary shall develop not less than 10 measures described in paragraph (2)(B).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 931, as added and amended [Pub. L. 111–148, title III, § 3013(a)(4)][/us/pl/111/148/s3013/a/4], title X, § 10303(a), Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381], 937.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 931, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3013(a)(4), title X, § 10303(a), Mar. 23, 2010, [124 Stat. 381][/us/stat/124/381], 937.)
 
  __References in Text__ 
 
-    [Section 285t of this title][/us/usc/t42/s285t], referred to in subsec. (c)(2)(G), was in the original “section 485E”, meaning section 485E of act July 1, 1944, which was renumbered section 464z–3 by [Pub. L. 111–148, title X, § 10334(c)(1)(D)(i)][/us/pl/111/148/s10334/c/1/D/i], Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], and is classified to [section 285t of this title][/us/usc/t42/s285t]. The act of July 1, 1944, no longer contains a section 485E.
+    [Section 285t of this title][/us/usc/t42/s285t], referred to in subsec. (c)(2)(G), was in the original “section 485E”, meaning section 485E of act July 1, 1944, which was renumbered section 464z–3 by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(D)(i), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], and is classified to [section 285t of this title][/us/usc/t42/s285t]. The act of July 1, 1944, no longer contains a section 485E.
 
     The Social Security Act, referred to in subsec. (c)(4)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -157,7 +157,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (f). [Pub. L. 111–148, § 10303(a)][/us/pl/111/148/s10303/a], added subsec. (f).
+    2010—Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 10303(a), added subsec. (f).
 
 ----------
 
@@ -178,10 +178,10 @@
 [/us/usc/t42/s1320b–9b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939b
 [/us/usc/t42/s1395aaa/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3013/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3013%2Fa%2F4
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F381
 [/us/usc/t42/s285t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t
-[/us/pl/111/148/s10334/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fi
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 [/us/usc/t42/s285t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -189,6 +189,6 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s299c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c
-[/us/pl/111/148/s10303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10303%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

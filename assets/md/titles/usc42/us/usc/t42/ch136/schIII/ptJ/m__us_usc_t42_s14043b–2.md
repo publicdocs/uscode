@@ -31,7 +31,7 @@
 
     (7) nonprofit nongovernmental victim advocacy organizations, including statewide domestic violence and sexual assault coalitions.
 
-([Pub. L. 103–322, title IV, § 41103][/us/pl/103/322/s41103], as added [Pub. L. 109–162, title I, § 107][/us/pl/109/162/s107], Jan. 5, 2006, [119 Stat. 2983][/us/stat/119/2983].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41103, as added [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 107, Jan. 5, 2006, [119 Stat. 2983][/us/stat/119/2983].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41103
-[/us/pl/109/162/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs107
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2983
 
 

@@ -17,7 +17,7 @@
 
     The Inspector General of the Department of Health and Human Services shall have oversight authority with respect to the administration and implementation of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as it relates to such Department.
 
-([Pub. L. 111–148, title I, § 1559][/us/pl/111/148/s1559], Mar. 23, 2010, [124 Stat. 261][/us/stat/124/261].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1559, Mar. 23, 2010, [124 Stat. 261][/us/stat/124/261].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1559
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F261
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130

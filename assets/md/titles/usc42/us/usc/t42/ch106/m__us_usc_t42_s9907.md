@@ -197,11 +197,11 @@
 
             No part of the aggregate amount a State uses under paragraph (1) may be used to supplant non-Federal funds that would be available, in the absence of Federal funds, to offset a revenue loss of the State attributable to a charity tax credit.
 
-([Pub. L. 97–35, title VI, § 675C][/us/pl/97/35/s675C], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2731][/us/stat/112/2731].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 675C, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2731][/us/stat/112/2731].)
 
  __Prior Provisions__ 
 
-    A prior section 9907, [Pub. L. 97–35, title VI, § 678][/us/pl/97/35/s678], Aug. 13, 1981, [95 Stat. 516][/us/stat/95/516], related to payments to States, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9907, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 678, Aug. 13, 1981, [95 Stat. 516][/us/stat/95/516], related to payments to States, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
 ----------
 
@@ -217,10 +217,10 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
 [/us/usc/t26/s4911/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4911%2Fd
-[/us/pl/97/35/s675C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs675C
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2731
-[/us/pl/97/35/s678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs678
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F516
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 

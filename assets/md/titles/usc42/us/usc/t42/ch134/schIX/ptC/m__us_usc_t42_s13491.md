@@ -41,7 +41,7 @@
 
         (4) the term “certification” means approval by the Commission of a standardized design.
 
-([Pub. L. 102–486, title XXI, § 2121][/us/pl/102/486/s2121], Oct. 24, 1992, [106 Stat. 3081][/us/stat/106/3081].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2121, Oct. 24, 1992, [106 Stat. 3081][/us/stat/106/3081].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2121
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3081
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3081

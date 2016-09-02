@@ -17,7 +17,7 @@
 
     Judicial review of research and development activities under this subchapter shall be in accordance with the provisions of [section 10139 of this title][/us/usc/t42/s10139].
 
-([Pub. L. 97–425, title II, § 221][/us/pl/97/425/s221], Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 221, Jan. 7, 1983, [96 Stat. 2254][/us/stat/96/2254].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s10139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10139
-[/us/pl/97/425/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs221
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2254
 
 

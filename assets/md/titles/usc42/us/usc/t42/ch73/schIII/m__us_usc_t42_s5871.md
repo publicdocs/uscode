@@ -69,7 +69,7 @@
 
         Except as may be otherwise expressly provided in this chapter, all functions expressly conferred by this chapter shall be in addition to and not in substitution for functions existing immediately before the effective date of this chapter and transferred by this chapter.
 
-([Pub. L. 93–438, title III, § 301][/us/pl/93/438/s301], Oct. 11, 1974, [88 Stat. 1248][/us/stat/88/1248].)
+([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 301, Oct. 11, 1974, [88 Stat. 1248][/us/stat/88/1248].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 ----------
 
 [/us/usc/t5/s5313–531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313%E2%80%93531
-[/us/pl/93/438/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs301
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1248
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233

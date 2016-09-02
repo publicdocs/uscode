@@ -83,7 +83,7 @@
 
             Not later than 15 months after December 19, 2002, the Director shall transmit to the Committee on Science and the Committee on Appropriations of the House of Representatives, and to the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate, the study conducted by the National Academy of Sciences together with the Foundation’s reaction to the study authorized under paragraph (1).
 
-([Pub. L. 107–368, § 14][/us/pl/107/368/s14], Dec. 19, 2002, [116 Stat. 3056][/us/stat/116/3056].)
+([Pub. L. 107–368][/us/pl/107/368], § 14, Dec. 19, 2002, [116 Stat. 3056][/us/stat/116/3056].)
 
  __Codification__ 
 
@@ -107,7 +107,7 @@
 ----------
 
 [/us/usc/t42/s1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863
-[/us/pl/107/368/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3056
 [/us/pl/107/368/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14
 [/us/pl/107/368/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14

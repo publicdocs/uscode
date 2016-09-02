@@ -205,7 +205,7 @@
 
         (2) for other rebates and loans, and for grants, a description of each application for which the grant, rebate, or loan is provided.
 
-([Pub. L. 109–58, title VII, § 792][/us/pl/109/58/s792], Aug. 8, 2005, [119 Stat. 839][/us/stat/119/839]; [Pub. L. 111–364, § 2(b)][/us/pl/111/364/s2/b], Jan. 4, 2011, [124 Stat. 4056][/us/stat/124/4056].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 792, Aug. 8, 2005, [119 Stat. 839][/us/stat/119/839]; [Pub. L. 111–364][/us/pl/111/364], § 2(b), Jan. 4, 2011, [124 Stat. 4056][/us/stat/124/4056].)
 
  __References in Text__ 
 
@@ -213,37 +213,37 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–364, § 2(b)(1)][/us/pl/111/364/s2/b/1], inserted “, rebate,” after “grant” in section catchline.
+    2011—[Pub. L. 111–364][/us/pl/111/364], § 2(b)(1), inserted “, rebate,” after “grant” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–364, § 2(b)(2)(A)][/us/pl/111/364/s2/b/2/A], substituted “to provide grants, rebates, or low-cost revolving loans, as determined by the Administrator, on a competitive basis, to eligible entities, including through contracts entered into under subsection (e) of this section,” for “to provide grants and low-cost revolving loans, as determined by the Administrator, on a competitive basis, to eligible entities” in introductory provisions.
+    Subsec. (a). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(2)(A), substituted “to provide grants, rebates, or low-cost revolving loans, as determined by the Administrator, on a competitive basis, to eligible entities, including through contracts entered into under subsection (e) of this section,” for “to provide grants and low-cost revolving loans, as determined by the Administrator, on a competitive basis, to eligible entities” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 111–364, § 2(b)(2)(B)][/us/pl/111/364/s2/b/2/B], struck out “tons of” before “pollution produced”.
+    Subsec. (a)(1). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(2)(B), struck out “tons of” before “pollution produced”.
 
-    Subsec. (b)(2). [Pub. L. 111–364, § 2(b)(3)(A)][/us/pl/111/364/s2/b/3/A], (B), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Administrator shall provide not less than 50 percent of funds available for a fiscal year under this section to eligible entities for the benefit of public fleets.”
+    Subsec. (b)(2). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(3)(A), (B), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Administrator shall provide not less than 50 percent of funds available for a fiscal year under this section to eligible entities for the benefit of public fleets.”
 
-    Subsec. (b)(2)(A). [Pub. L. 111–364, § 2(b)(3)(C)(i)][/us/pl/111/364/s2/b/3/C/i], substituted “95” for “90” in introductory provisions.
+    Subsec. (b)(2)(A). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(3)(C)(i), substituted “95” for “90” in introductory provisions.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 111–364, § 2(b)(3)(C)(ii)][/us/pl/111/364/s2/b/3/C/ii], substituted “5 percent” for “10 percent”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(3)(C)(ii), substituted “5 percent” for “10 percent”.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 111–364, § 2(b)(3)(C)(iii)][/us/pl/111/364/s2/b/3/C/iii], substituted “a verification application” for “the application under subsection (c)”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(3)(C)(iii), substituted “a verification application” for “the application under subsection (c)”.
 
-    Subsec. (b)(3). [Pub. L. 111–364, § 2(b)(3)(B)][/us/pl/111/364/s2/b/3/B], redesignated par. (3) as (2).
+    Subsec. (b)(3). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(3)(B), redesignated par. (3) as (2).
 
-    Subsec. (c). [Pub. L. 111–364, § 2(b)(4)(A)][/us/pl/111/364/s2/b/4/A], (B), added pars. (1) and (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “To receive a grant or loan under this section, an eligible entity shall submit to the Administrator an application at a time, in a manner, and including such information as the Administrator may require.”
+    Subsec. (c). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(4)(A), (B), added pars. (1) and (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “To receive a grant or loan under this section, an eligible entity shall submit to the Administrator an application at a time, in a manner, and including such information as the Administrator may require.”
 
-    Subsec. (c)(3)(G). [Pub. L. 111–364, § 2(b)(4)(C)][/us/pl/111/364/s2/b/4/C], inserted “in the case of an application relating to nonroad engines or vehicles,” before “a description of the diesel”.
+    Subsec. (c)(3)(G). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(4)(C), inserted “in the case of an application relating to nonroad engines or vehicles,” before “a description of the diesel”.
 
-    Subsec. (c)(4). [Pub. L. 111–364, § 2(b)(4)(D)(i)][/us/pl/111/364/s2/b/4/D/i], inserted “, rebate,” after “grant” and “highest” before “priority” in introductory provisions.
+    Subsec. (c)(4). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(4)(D)(i), inserted “, rebate,” after “grant” and “highest” before “priority” in introductory provisions.
 
-    Subsec. (c)(4)(C)(iii). [Pub. L. 111–364, § 2(b)(4)(D)(ii)][/us/pl/111/364/s2/b/4/D/ii], substituted “diesel fleets” for “a diesel fleets” and inserted “construction sites, schools,” after “terminals,”.
+    Subsec. (c)(4)(C)(iii). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(4)(D)(ii), substituted “diesel fleets” for “a diesel fleets” and inserted “construction sites, schools,” after “terminals,”.
 
-    Subsec. (c)(4)(E) to (G). [Pub. L. 111–364, § 2(b)(4)(D)(iii)][/us/pl/111/364/s2/b/4/D/iii]–(v), inserted “and” at end of subpar. (E), substituted a period for “; and” in subpar. (F), and struck out subpar. (G) which read as follows: “use diesel fuel with a sulfur content of less than or equal to 15 parts per million, as the Administrator determines to be appropriate.”
+    Subsec. (c)(4)(E) to (G). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(4)(D)(iii)–(v), inserted “and” at end of subpar. (E), substituted a period for “; and” in subpar. (F), and struck out subpar. (G) which read as follows: “use diesel fuel with a sulfur content of less than or equal to 15 parts per million, as the Administrator determines to be appropriate.”
 
-    Subsec. (d)(1). [Pub. L. 111–364, § 2(b)(5)(A)][/us/pl/111/364/s2/b/5/A], inserted “, rebate,” after “grant” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(5)(A), inserted “, rebate,” after “grant” in introductory provisions.
 
-    Subsec. (d)(2)(A). [Pub. L. 111–364, § 2(b)(5)(B)][/us/pl/111/364/s2/b/5/B], substituted “grant, rebate, or loan provided, or contract entered into,” for “grant or loan provided” and “any Federal law, except that this subparagraph shall not apply to a mandate in a State implementation plan approved by the Administrator under the Clean Air Act” for “Federal, State or local law”.
+    Subsec. (d)(2)(A). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(5)(B), substituted “grant, rebate, or loan provided, or contract entered into,” for “grant or loan provided” and “any Federal law, except that this subparagraph shall not apply to a mandate in a State implementation plan approved by the Administrator under the Clean Air Act” for “Federal, State or local law”.
 
-    Subsecs. (e), (f). [Pub. L. 111–364, § 2(b)(6)][/us/pl/111/364/s2/b/6], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 111–364][/us/pl/111/364], § 2(b)(6), added subsecs. (e) and (f).
 
  __Effective Date of 2011 Amendment__ 
 
@@ -257,29 +257,29 @@
 ----------
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/109/58/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs792
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F839
-[/us/pl/111/364/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/stat/124/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4056
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/111/364/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F1
-[/us/pl/111/364/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F2%2FA
-[/us/pl/111/364/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F2%2FB
-[/us/pl/111/364/s2/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F3%2FA
-[/us/pl/111/364/s2/b/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F3%2FC%2Fi
-[/us/pl/111/364/s2/b/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F3%2FC%2Fii
-[/us/pl/111/364/s2/b/3/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F3%2FC%2Fiii
-[/us/pl/111/364/s2/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F3%2FB
-[/us/pl/111/364/s2/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F4%2FA
-[/us/pl/111/364/s2/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F4%2FC
-[/us/pl/111/364/s2/b/4/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F4%2FD%2Fi
-[/us/pl/111/364/s2/b/4/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F4%2FD%2Fii
-[/us/pl/111/364/s2/b/4/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F4%2FD%2Fiii
-[/us/pl/111/364/s2/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F5%2FA
-[/us/pl/111/364/s2/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F5%2FB
-[/us/pl/111/364/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fb%2F6
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/pl/111/364/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs4
 [/us/usc/t42/s16131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16131

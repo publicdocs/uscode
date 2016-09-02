@@ -41,7 +41,7 @@
 
         In addition to the program coordination provided in subsection (b) of this section, the Council shall be responsible for such functions as coordinated planning, development of a comprehensive crime prevention program catalogue, provision of assistance to communities and community-based organizations seeking information regarding crime prevention programs and integrated program service delivery, and development of strategies for program integration and grant simplification. The Council shall have the authority to audit the expenditure of funds received by grantees under programs administered by or coordinated through the Council. In consultation with the Council, the Chair may issue regulations and guidelines to carry out this part and programs administered by or coordinated through the Council.
 
-([Pub. L. 103–322, title III, § 30101][/us/pl/103/322/s30101], Sept. 13, 1994, [108 Stat. 1836][/us/stat/108/1836].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30101, Sept. 13, 1994, [108 Stat. 1836][/us/stat/108/1836].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30101
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1836
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1836

@@ -41,7 +41,7 @@
 
         The provisions of sections 6927 and 6930 of this title shall apply to solid or dissolved materials in domestic sewage to the same extent and in the same manner as such provisions apply to hazardous waste.
 
-([Pub. L. 89–272, title II, § 3018][/us/pl/89/272/s3018], as added [Pub. L. 98–616, title II, § 246(a)][/us/pl/98/616/s246/a], Nov. 8, 1984, [98 Stat. 3264][/us/stat/98/3264].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3018, as added [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 246(a), Nov. 8, 1984, [98 Stat. 3264][/us/stat/98/3264].)
 
 ----------
 
@@ -53,8 +53,8 @@
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
-[/us/pl/89/272/s3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3018
-[/us/pl/98/616/s246/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs246%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3264
 
 

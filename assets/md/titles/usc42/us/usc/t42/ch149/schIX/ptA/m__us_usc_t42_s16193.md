@@ -61,7 +61,7 @@
 
         Nothing in this section provides any Federal agency with new authority to regulate building performance.
 
-([Pub. L. 109–58, title IX, § 913][/us/pl/109/58/s913], Aug. 8, 2005, [119 Stat. 860][/us/stat/119/860].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 913, Aug. 8, 2005, [119 Stat. 860][/us/stat/119/860].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs913
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F860
 
 

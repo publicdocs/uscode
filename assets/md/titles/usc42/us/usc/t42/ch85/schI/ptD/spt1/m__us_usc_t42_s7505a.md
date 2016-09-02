@@ -31,7 +31,7 @@
 
         Each plan revision submitted under this section shall contain such contingency provisions as the Administrator deems necessary to assure that the State will promptly correct any violation of the standard which occurs after the redesignation of the area as an attainment area. Such provisions shall include a requirement that the State will implement all measures with respect to the control of the air pollutant concerned which were contained in the State implementation plan for the area before redesignation of the area as an attainment area. The failure of any area redesignated as an attainment area to maintain the national ambient air quality standard concerned shall not result in a requirement that the State revise its State implementation plan unless the Administrator, in the Administrator’s discretion, requires the State to submit a revised State implementation plan.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 175A, as added [Pub. L. 101–549, title I, § 102(e)][/us/pl/101/549/s102/e], Nov. 15, 1990, [104 Stat. 2418][/us/stat/104/2418].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 175A, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 102(e), Nov. 15, 1990, [104 Stat. 2418][/us/stat/104/2418].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Fe
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2418
 
 

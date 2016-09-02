@@ -85,7 +85,7 @@
 
             (B) disseminate such information, as appropriate.
 
-([Pub. L. 103–322, title II, § 20418][/us/pl/103/322/s20418], Sept. 13, 1994, [108 Stat. 1835][/us/stat/108/1835].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20418, Sept. 13, 1994, [108 Stat. 1835][/us/stat/108/1835].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t26/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs51
-[/us/pl/103/322/s20418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20418
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1835
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1796

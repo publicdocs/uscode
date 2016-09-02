@@ -173,11 +173,11 @@
 
         Not later than every 24 months, the Administrator shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate a report setting forth information collected by the Administrator from law enforcement agencies, States, and other relevant stakeholders that identifies the byproducts of the methamphetamine production process and whether the Administrator considers each of the byproducts to be a hazardous waste pursuant to this section and relevant regulations.
 
-([Pub. L. 89–272, title II, § 3001][/us/pl/89/272/s3001], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2806][/us/stat/90/2806]; amended [Pub. L. 96–482, § 7][/us/pl/96/482/s7], Oct. 21, 1980, [94 Stat. 2336][/us/stat/94/2336]; [Pub. L. 98–616, title II][/us/pl/98/616], §§ 221(a), 222, 223(a), Nov. 8, 1984, [98 Stat. 3248][/us/stat/98/3248], 3251, 3252; [Pub. L. 104–119, § 4(1)][/us/pl/104/119/s4/1], Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833]; [Pub. L. 109–177, title VII, § 742][/us/pl/109/177/s742], Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3001, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2806][/us/stat/90/2806]; amended [Pub. L. 96–482][/us/pl/96/482], § 7, Oct. 21, 1980, [94 Stat. 2336][/us/stat/94/2336]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], §§ 221(a), 222, 223(a), Nov. 8, 1984, [98 Stat. 3248][/us/stat/98/3248], 3251, 3252; [Pub. L. 104–119][/us/pl/104/119], § 4(1), Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 742, Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272].)
 
  __Codification__ 
 
-    In subsec. (d)(7)(A), “chapter 51 of title 49” substituted for “the Hazardous Materials Transportation Act \[49 App. U.S.C. 1801 et seq.\]” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (d)(7)(A), “chapter 51 of title 49” substituted for “the Hazardous Materials Transportation Act \[49 App. U.S.C. 1801 et seq.\]” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
@@ -185,19 +185,19 @@
 
     1996—Subsec. (d)(5). [Pub. L. 104–119][/us/pl/104/119] made technical amendment to reference in original act which appears in text as reference to this section.
 
-    1984—Subsec. (b)(1). [Pub. L. 98–616, § 222(b)][/us/pl/98/616/s222/b], inserted at end “The Administrator, in cooperation with the Agency for Toxic Substances and Disease Registry and the National Toxicology Program, shall also identify or list those hazardous wastes which shall be subject to the provisions of this subchapter solely because of the presence in such wastes of certain constituents (such as identified carcinogens, mutagens, or teratagens) \[sic\] at levels in excess of levels which endanger human health.”
+    1984—Subsec. (b)(1). [Pub. L. 98–616][/us/pl/98/616], § 222(b), inserted at end “The Administrator, in cooperation with the Agency for Toxic Substances and Disease Registry and the National Toxicology Program, shall also identify or list those hazardous wastes which shall be subject to the provisions of this subchapter solely because of the presence in such wastes of certain constituents (such as identified carcinogens, mutagens, or teratagens) \[sic\] at levels in excess of levels which endanger human health.”
 
-    Subsec. (d). [Pub. L. 98–616, § 221(a)][/us/pl/98/616/s221/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–616][/us/pl/98/616], § 221(a), added subsec. (d).
 
-    Subsecs. (e) to (h). [Pub. L. 98–616, § 222(a)][/us/pl/98/616/s222/a], added subsecs. (e) to (h).
+    Subsecs. (e) to (h). [Pub. L. 98–616][/us/pl/98/616], § 222(a), added subsecs. (e) to (h).
 
-    Subsec. (i). [Pub. L. 98–616, § 223(a)][/us/pl/98/616/s223/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 98–616][/us/pl/98/616], § 223(a), added subsec. (i).
 
     1980—Subsec. (b). [Pub. L. 96–482][/us/pl/96/482] designated existing provisions as par. (1) and added pars. (2) and (3).
 
  __Regulation__ 
 
-[Pub. L. 99–499, title I, § 124(b)][/us/pl/99/499/s124/b], Oct. 17, 1986, [100 Stat. 1689][/us/stat/100/1689], provided that: 
+[Pub. L. 99–499, title I][/us/pl/99/499/tI], § 124(b), Oct. 17, 1986, [100 Stat. 1689][/us/stat/100/1689], provided that: 
 
 > “Unless the Administrator of the Environmental Protection Agency promulgates regulations under subtitle C of the Solid Waste Disposal Act \[[42 U.S.C. 6921][/us/usc/t42/s6921] et seq.\] addressing the extraction of wastes from landfills as part of the process of recovering methane from such landfills, the owner and operator of equipment used to recover methane from a landfill shall not be deemed to be managing, generating, transporting, treating, storing, or disposing of hazardous or liquid wastes within the meaning of that subtitle. If the aqueous or hydrocarbon phase of the condensate or any other waste material removed from the gas recovered from the landfill meets any of the characteristics identified under section 3001 of subtitle C of the Solid Waste Disposal Act \[[42 U.S.C. 6921][/us/usc/t42/s6921]\], the preceding sentence shall not apply and such condensate phase or other waste material shall be deemed a hazardous waste under that subtitle, and shall be regulated accordingly.”
 
@@ -207,25 +207,25 @@
 
  __Ash Management and Disposal__ 
 
-[Pub. L. 101–549, title III, § 306][/us/pl/101/549/s306], Nov. 15, 1990, [104 Stat. 2584][/us/stat/104/2584], provided that: 
+[Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 306, Nov. 15, 1990, [104 Stat. 2584][/us/stat/104/2584], provided that: 
 
 > “For a period of 2 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], ash from solid waste incineration units burning municipal waste shall not be regulated by the Administrator of the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act \[[42 U.S.C. 6921][/us/usc/t42/s6921]\]. Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990.”
 
  __Small Quantity Generator Waste; Inform and Educate; Waste Generators__ 
 
-    [Pub. L. 98–616, title II, § 221(b)][/us/pl/98/616/s221/b], Nov. 8, 1984, [98 Stat. 3249][/us/stat/98/3249], directed Administrator of Environmental Protection Agency to undertake activities to inform and educate waste generators of their responsibilities under subsec. (d) of this section during the period within thirty months after Nov. 8, 1984, to help assure compliance.
+    [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 221(b), Nov. 8, 1984, [98 Stat. 3249][/us/stat/98/3249], directed Administrator of Environmental Protection Agency to undertake activities to inform and educate waste generators of their responsibilities under subsec. (d) of this section during the period within thirty months after Nov. 8, 1984, to help assure compliance.
 
  __Study of Existing Manifest System for Hazardous Wastes as Applicable to Small Quantity Generators; Submittal to Congress__ 
 
-    [Pub. L. 98–616, title II, § 221(d)][/us/pl/98/616/s221/d], Nov. 8, 1984, [98 Stat. 3250][/us/stat/98/3250], directed Administrator of Environmental Protection Agency to cause to be studied the existing manifest system for hazardous wastes as it applies to small quantity generators and recommend whether the current system should be retained or whether a new system should be introduced, such study to include an analysis of the cost versus the benefits of the system studied as well as an analysis of the ease of retrieving and collating information and identifying a given substance, with any new proposal to include a list of those standards that are necessary to protect human health and the environment, and with such study to be submitted to Congress not later than Apr. 1, 1987.
+    [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 221(d), Nov. 8, 1984, [98 Stat. 3250][/us/stat/98/3250], directed Administrator of Environmental Protection Agency to cause to be studied the existing manifest system for hazardous wastes as it applies to small quantity generators and recommend whether the current system should be retained or whether a new system should be introduced, such study to include an analysis of the cost versus the benefits of the system studied as well as an analysis of the ease of retrieving and collating information and identifying a given substance, with any new proposal to include a list of those standards that are necessary to protect human health and the environment, and with such study to be submitted to Congress not later than Apr. 1, 1987.
 
  __Administrative Burdens; Small Quantity Generators; Retention of Current System; Report to Congress__ 
 
-    [Pub. L. 98–616, title II, § 221(e)][/us/pl/98/616/s221/e], Nov. 8, 1984, [98 Stat. 3250][/us/stat/98/3250], directed Administrator of Environmental Protection Agency, in conjunction with Secretary of Transportation, to prepare and submit to Congress, not later than Apr. 1, 1987, a report on the feasibility of easing the administrative burden on small quantity generators, increasing compliance with statutory and regulatory requirements, and simplifying enforcement efforts through a program of licensing hazardous waste transporters to assume the responsibilities of small quantity generators relating to preparation of manifests and associated recordkeeping and reporting requirements, such report to examine the appropriate licensing requirements under such a program including the need for financial assurances by licensed transporters and to make recommendations on provisions and requirements for such a program including the appropriate division of responsibilities between Department of Transportation and Environmental Protection Administration.
+    [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 221(e), Nov. 8, 1984, [98 Stat. 3250][/us/stat/98/3250], directed Administrator of Environmental Protection Agency, in conjunction with Secretary of Transportation, to prepare and submit to Congress, not later than Apr. 1, 1987, a report on the feasibility of easing the administrative burden on small quantity generators, increasing compliance with statutory and regulatory requirements, and simplifying enforcement efforts through a program of licensing hazardous waste transporters to assume the responsibilities of small quantity generators relating to preparation of manifests and associated recordkeeping and reporting requirements, such report to examine the appropriate licensing requirements under such a program including the need for financial assurances by licensed transporters and to make recommendations on provisions and requirements for such a program including the appropriate division of responsibilities between Department of Transportation and Environmental Protection Administration.
 
  __Educational Institutions; Accumulation, Storage and Disposal of Hazardous Wastes; Study__ 
 
-    [Pub. L. 98–616, title II, § 221(f)][/us/pl/98/616/s221/f], Nov. 8, 1984, [98 Stat. 3250][/us/stat/98/3250], as amended by [Pub. L. 107–110, title X, § 1076(aa)][/us/pl/107/110/s1076/aa], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093], directed Administrator of Environmental Protection Agency, in consultation with Secretary of Education, the States, and appropriate educational associations, to conduct a comprehensive study of problems associated with accumulation, storage, and disposal of hazardous wastes from educational institutions, such study to include an investigation of feasibility and availability of environmentally sound methods for treatment, storage, or disposal of hazardous waste from such institutions, taking into account the types and quantities of such waste which are generated by these institutions, and the nonprofit nature of these institutions, and directed Administrator to submit a report to Congress containing the findings of the study not later than Apr. 1, 1987.
+    [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 221(f), Nov. 8, 1984, [98 Stat. 3250][/us/stat/98/3250], as amended by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(aa), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093], directed Administrator of Environmental Protection Agency, in consultation with Secretary of Education, the States, and appropriate educational associations, to conduct a comprehensive study of problems associated with accumulation, storage, and disposal of hazardous wastes from educational institutions, such study to include an investigation of feasibility and availability of environmentally sound methods for treatment, storage, or disposal of hazardous waste from such institutions, taking into account the types and quantities of such waste which are generated by these institutions, and the nonprofit nature of these institutions, and directed Administrator to submit a report to Congress containing the findings of the study not later than Apr. 1, 1987.
 
 ----------
 
@@ -245,43 +245,43 @@
 [/us/usc/t42/s6982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6982
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
 [/us/usc/t42/s6930/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6930%2Fb
-[/us/pl/89/272/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3001
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2806
-[/us/pl/96/482/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs7
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2336
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3248
-[/us/pl/104/119/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F1
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/stat/110/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F833
-[/us/pl/109/177/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs742
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F272
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
-[/us/pl/98/616/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs222%2Fb
-[/us/pl/98/616/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs221%2Fa
-[/us/pl/98/616/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs222%2Fa
-[/us/pl/98/616/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs223%2Fa
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
-[/us/pl/99/499/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs124%2Fb
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1689
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
-[/us/pl/101/549/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs306
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2584
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
-[/us/pl/98/616/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs221%2Fb
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3249
-[/us/pl/98/616/s221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs221%2Fd
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3250
-[/us/pl/98/616/s221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs221%2Fe
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3250
-[/us/pl/98/616/s221/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs221%2Ff
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3250
-[/us/pl/107/110/s1076/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Faa
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
 
 

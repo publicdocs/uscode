@@ -17,11 +17,11 @@
 
  __Repeal of Subchapter I of This Chapter; Inapplicability of Repeal to Puerto Rico, Guam, and Virgin Islands__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this subchapter is repealed effective January 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this subchapter is repealed effective January 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
-    1960—[Pub. L. 86–778, title VI, § 601(a)][/us/pl/86/778/s601/a], Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987], included medical assistance for the aged in subchapter heading.
+    1960—[Pub. L. 86–778, title VI][/us/pl/86/778/tVI], § 601(a), Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987], included medical assistance for the aged in subchapter heading.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
-[/us/pl/86/778/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs601%2Fa
+[/us/pl/86/778/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVI
 [/us/stat/74/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F987
 
 

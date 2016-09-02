@@ -23,7 +23,7 @@
 
     (3) every 3 months, if the offender is a tier III sex offender.
 
-([Pub. L. 109–248, title I, § 116][/us/pl/109/248/s116], July 27, 2006, [120 Stat. 595][/us/stat/120/595].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 116, July 27, 2006, [120 Stat. 595][/us/stat/120/595].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs116
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F595
 
 

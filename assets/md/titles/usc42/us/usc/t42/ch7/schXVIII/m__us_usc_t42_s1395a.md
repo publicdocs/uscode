@@ -135,21 +135,21 @@
 
                 The term “opt-out physician or practitioner” means a physician or practitioner who has in effect an affidavit under paragraph (3)(B).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1802, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 291][/us/stat/79/291]; amended [Pub. L. 105–33, title IV, § 4507(a)(1)][/us/pl/105/33/s4507/a/1], (2)(A), Aug. 5, 1997, [111 Stat. 439][/us/stat/111/439], 441; [Pub. L. 108–173, title VI, § 603][/us/pl/108/173/s603], Dec. 8, 2003, [117 Stat. 2301][/us/stat/117/2301]; [Pub. L. 114–10, title I, § 106(a)(1)(A)][/us/pl/114/10/s106/a/1/A], (2), Apr. 16, 2015, [129 Stat. 137][/us/stat/129/137], 138.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1802, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 102(a), July 30, 1965, [79 Stat. 291][/us/stat/79/291]; amended [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4507(a)(1), (2)(A), Aug. 5, 1997, [111 Stat. 439][/us/stat/111/439], 441; [Pub. L. 108–173, title VI][/us/pl/108/173/tVI], § 603, Dec. 8, 2003, [117 Stat. 2301][/us/stat/117/2301]; [Pub. L. 114–10, title I][/us/pl/114/10/tI], § 106(a)(1)(A), (2), Apr. 16, 2015, [129 Stat. 137][/us/stat/129/137], 138.)
 
  __Amendments__ 
 
-    2015—Subsec. (b)(3)(B)(ii). [Pub. L. 114–10, § 106(a)(1)(A)(i)][/us/pl/114/10/s106/a/1/A/i], substituted “during the applicable 2-year period (as defined in subparagraph (D))” for “during the 2-year period beginning on the date the affidavit is signed”.
+    2015—Subsec. (b)(3)(B)(ii). [Pub. L. 114–10][/us/pl/114/10], § 106(a)(1)(A)(i), substituted “during the applicable 2-year period (as defined in subparagraph (D))” for “during the 2-year period beginning on the date the affidavit is signed”.
 
-    Subsec. (b)(3)(C). [Pub. L. 114–10, § 106(a)(1)(A)(ii)][/us/pl/114/10/s106/a/1/A/ii], substituted “during the applicable 2-year period” for “during the 2-year period described in subparagraph (B)(ii)” in introductory provisions.
+    Subsec. (b)(3)(C). [Pub. L. 114–10][/us/pl/114/10], § 106(a)(1)(A)(ii), substituted “during the applicable 2-year period” for “during the 2-year period described in subparagraph (B)(ii)” in introductory provisions.
 
-    Subsec. (b)(3)(D). [Pub. L. 114–10, § 106(a)(1)(A)(iii)][/us/pl/114/10/s106/a/1/A/iii], added subpar. (D).
+    Subsec. (b)(3)(D). [Pub. L. 114–10][/us/pl/114/10], § 106(a)(1)(A)(iii), added subpar. (D).
 
-    Subsec. (b)(5). [Pub. L. 114–10, § 106(a)(2)(C)][/us/pl/114/10/s106/a/2/C], added par. (5). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 114–10][/us/pl/114/10], § 106(a)(2)(C), added par. (5). Former par. (5) redesignated (6).
 
-    Subsec. (b)(5)(D). [Pub. L. 114–10, § 106(a)(2)(A)][/us/pl/114/10/s106/a/2/A], added subpar. (D).
+    Subsec. (b)(5)(D). [Pub. L. 114–10][/us/pl/114/10], § 106(a)(2)(A), added subpar. (D).
 
-    Subsec. (b)(6). [Pub. L. 114–10, § 106(a)(2)(B)][/us/pl/114/10/s106/a/2/B], redesignated par. (5) as (6).
+    Subsec. (b)(6). [Pub. L. 114–10][/us/pl/114/10], § 106(a)(2)(B), redesignated par. (5) as (6).
 
     2003—Subsec. (b)(5)(B). [Pub. L. 108–173][/us/pl/108/173] substituted “paragraphs (1), (2), (3), and (4) of section 1395x(r)” for “section 1395x(r)(1)”.
 
@@ -157,19 +157,19 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–10, title I, § 106(a)(1)(B)][/us/pl/114/10/s106/a/1/B], Apr. 16, 2015, [129 Stat. 138][/us/stat/129/138], provided that: 
+[Pub. L. 114–10, title I][/us/pl/114/10/tI], § 106(a)(1)(B), Apr. 16, 2015, [129 Stat. 138][/us/stat/129/138], provided that: 
 
 > “The amendments made by subparagraph (A) \[amending this section\] shall apply to affidavits entered into on or after the date that is 60 days after the date of the enactment of this Act \[Apr. 16, 2015\].”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title IV, § 4507(c)][/us/pl/105/33/s4507/c], Aug. 5, 1997, [111 Stat. 442][/us/stat/111/442], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4507(c), Aug. 5, 1997, [111 Stat. 442][/us/stat/111/442], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section and [section 1395y of this title][/us/usc/t42/s1395y]\] shall apply with respect to contracts entered into on and after January 1, 1998.”
 
  __Report to Congress on Effect of Private Contracts__ 
 
-[Pub. L. 105–33, title IV, § 4507(b)][/us/pl/105/33/s4507/b], Aug. 5, 1997, [111 Stat. 441][/us/stat/111/441], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4507(b), Aug. 5, 1997, [111 Stat. 441][/us/stat/111/441], provided that: 
 
 > “Not later than October 1, 2001, the Secretary of Health and Human Services shall submit a report to Congress on the effect on the program under this title \[see Tables for classification\] of private contracts entered into under the amendment made by subsection (a) \[amending this section and [section 1395y of this title][/us/usc/t42/s1395y]\]. Such report shall include—
 
@@ -197,28 +197,28 @@
 [/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
 [/us/usc/t42/s1395u/b/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F18%2FC
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F291
-[/us/pl/105/33/s4507/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4507%2Fa%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F439
-[/us/pl/108/173/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs603
+[/us/pl/108/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVI
 [/us/stat/117/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2301
-[/us/pl/114/10/s106/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F137
-[/us/pl/114/10/s106/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA%2Fi
-[/us/pl/114/10/s106/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA%2Fii
-[/us/pl/114/10/s106/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FA%2Fiii
-[/us/pl/114/10/s106/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F2%2FC
-[/us/pl/114/10/s106/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F2%2FA
-[/us/pl/114/10/s106/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F2%2FB
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/114/10/s106/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs106%2Fa%2F1%2FB
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F138
-[/us/pl/105/33/s4507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4507%2Fc
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F442
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
-[/us/pl/105/33/s4507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4507%2Fb
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F441
 [/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395

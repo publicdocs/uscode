@@ -31,7 +31,7 @@
 
         If the police force of which the participant is a member lays off the participant such as would preclude the participant’s completing 4 years of service, and result in denial of educational assistance under [section 14095 of this title][/us/usc/t42/s14095], the Director may permit the participant to complete the service obligation in an equivalent alternative law enforcement service and, if such service is satisfactorily completed, [section 14095(d)(1)(B)(iii) of this title][/us/usc/t42/s14095/d/1/B/iii] shall not apply.
 
-([Pub. L. 103–322, title XX, § 200109][/us/pl/103/322/s200109], Sept. 13, 1994, [108 Stat. 2055][/us/stat/108/2055].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200109, Sept. 13, 1994, [108 Stat. 2055][/us/stat/108/2055].)
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s14095/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14095%2Fd%2F1%2FB%2Fiii
 [/us/usc/t42/s14095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14095
 [/us/usc/t42/s14095/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14095%2Fd%2F1%2FB%2Fiii
-[/us/pl/103/322/s200109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200109
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2055
 
 

@@ -253,51 +253,51 @@
 
             The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of [section 1396u–2 of this title][/us/usc/t42/s1396u–2] (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2103, as added [Pub. L. 105–33, title IV, § 4901(a)][/us/pl/105/33/s4901/a], Aug. 5, 1997, [111 Stat. 554][/us/stat/111/554]; amended [Pub. L. 111–3, title I, § 111(b)(1)][/us/pl/111/3/s111/b/1], title IV, § 403(a), title V, §§ 501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, [123 Stat. 28][/us/stat/123/28], 84, 89, 90.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2103, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4901(a), Aug. 5, 1997, [111 Stat. 554][/us/stat/111/554]; amended [Pub. L. 111–3, title I][/us/pl/111/3/tI], § 111(b)(1), title IV, § 403(a), title V, §§ 501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, [123 Stat. 28][/us/stat/123/28], 84, 89, 90.)
 
  __References in Text__ 
 
-    Section 2705 of the Public Health Service Act, referred to in subsec. (c)(6)(A), is section 2705 of act July 1, 1944, which was classified to [section 300gg–5 of this title][/us/usc/t42/s300gg–5], was renumbered section 2726 and amended by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(2), 1563(c)(4), formerly § 1562(c)(4), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911, and was transferred to [section 300gg–26 of this title][/us/usc/t42/s300gg–26]. A new section 2705 of act July 1, 1944, related to prohibiting discrimination against individual participants and beneficiaries based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended by [Pub. L. 111–148, title I, § 1201(3)][/us/pl/111/148/s1201/3], (4), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 156, and is classified to [section 300gg–4 of this title][/us/usc/t42/s300gg–4].
+    Section 2705 of the Public Health Service Act, referred to in subsec. (c)(6)(A), is section 2705 of act July 1, 1944, which was classified to [section 300gg–5 of this title][/us/usc/t42/s300gg–5], was renumbered section 2726 and amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(2), 1563(c)(4), formerly § 1562(c)(4), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911, and was transferred to [section 300gg–26 of this title][/us/usc/t42/s300gg–26]. A new section 2705 of act July 1, 1944, related to prohibiting discrimination against individual participants and beneficiaries based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(3), (4), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 156, and is classified to [section 300gg–4 of this title][/us/usc/t42/s300gg–4].
 
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 832][/us/stat/88/832]. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§ 1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
-    The Public Health Service Act, referred to in subsec. (f), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(5), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 268, 911, amended part A by inserting “subpart ii—improving coverage” (preceding [section 300gg–11 of this title][/us/usc/t42/s300gg–11]), by striking out “subpart 2—other requirements” (preceding [section 300gg–4 of this title][/us/usc/t42/s300gg–4]), and by redesignating subpart 4 as subpart 2 “exclusion of plans; enforcement; preemption” (preceding [section 300gg–21 of this title][/us/usc/t42/s300gg–21]). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Public Health Service Act, referred to in subsec. (f), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(5), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 268, 911, amended part A by inserting “subpart ii—improving coverage” (preceding [section 300gg–11 of this title][/us/usc/t42/s300gg–11]), by striking out “subpart 2—other requirements” (preceding [section 300gg–4 of this title][/us/usc/t42/s300gg–4]), and by redesignating subpart 4 as subpart 2 “exclusion of plans; enforcement; preemption” (preceding [section 300gg–21 of this title][/us/usc/t42/s300gg–21]). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–3, § 502(b)(1)][/us/pl/111/3/s502/b/1], inserted “, (6),” after “(5)” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–3][/us/pl/111/3], § 502(b)(1), inserted “, (6),” after “(5)” in introductory provisions.
 
-    [Pub. L. 111–3, § 501(a)(1)(A)(i)][/us/pl/111/3/s501/a/1/A/i], substituted “paragraphs (5) and (7) of subsection (c)” for “subsection (c)(5)” in introductory provisions.
+    [Pub. L. 111–3][/us/pl/111/3], § 501(a)(1)(A)(i), substituted “paragraphs (5) and (7) of subsection (c)” for “subsection (c)(5)” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 111–3, § 501(a)(1)(A)(ii)][/us/pl/111/3/s501/a/1/A/ii], inserted “at least” after “that is”.
+    Subsec. (a)(1). [Pub. L. 111–3][/us/pl/111/3], § 501(a)(1)(A)(ii), inserted “at least” after “that is”.
 
-    Subsec. (c)(2)(B) to (D). [Pub. L. 111–3, § 502(b)(2)][/us/pl/111/3/s502/b/2], redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “Mental health services.”
+    Subsec. (c)(2)(B) to (D). [Pub. L. 111–3][/us/pl/111/3], § 502(b)(2), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “Mental health services.”
 
-    Subsec. (c)(5). [Pub. L. 111–3, § 501(a)(1)(B)(ii)][/us/pl/111/3/s501/a/1/B/ii], added par. (5). Former par. (5) redesignated (7).
+    Subsec. (c)(5). [Pub. L. 111–3][/us/pl/111/3], § 501(a)(1)(B)(ii), added par. (5). Former par. (5) redesignated (7).
 
-    Subsec. (c)(6). [Pub. L. 111–3, § 502(a)][/us/pl/111/3/s502/a], added par. (6).
+    Subsec. (c)(6). [Pub. L. 111–3][/us/pl/111/3], § 502(a), added par. (6).
 
-    Subsec. (c)(7). [Pub. L. 111–3, § 501(a)(1)(B)(i)][/us/pl/111/3/s501/a/1/B/i], redesignated par. (5) as (7).
+    Subsec. (c)(7). [Pub. L. 111–3][/us/pl/111/3], § 501(a)(1)(B)(i), redesignated par. (5) as (7).
 
-    Subsec. (c)(8). [Pub. L. 111–3, § 505(a)][/us/pl/111/3/s505/a], added par. (8).
+    Subsec. (c)(8). [Pub. L. 111–3][/us/pl/111/3], § 505(a), added par. (8).
 
-    Subsec. (e)(2). [Pub. L. 111–3, § 111(b)(1)][/us/pl/111/3/s111/b/1], inserted “or pregnancy-related assistance” after “preventive services” in heading and “or for pregnancy-related assistance” before period at end.
+    Subsec. (e)(2). [Pub. L. 111–3][/us/pl/111/3], § 111(b)(1), inserted “or pregnancy-related assistance” after “preventive services” in heading and “or for pregnancy-related assistance” before period at end.
 
-    Subsec. (e)(3)(C). [Pub. L. 111–3, § 504(a)][/us/pl/111/3/s504/a], added subpar. (C).
+    Subsec. (e)(3)(C). [Pub. L. 111–3][/us/pl/111/3], § 504(a), added subpar. (C).
 
-    Subsec. (f)(3). [Pub. L. 111–3, § 403(a)][/us/pl/111/3/s403/a], added par. (3).
+    Subsec. (f)(3). [Pub. L. 111–3][/us/pl/111/3], § 403(a), added par. (3).
 
  __Effective Date of 2009 Amendment__ 
 
     Amendment by sections 111(b)(1), 502, and 505(a) of [Pub. L. 111–3][/us/pl/111/3] effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see [section 3 of Pub. L. 111–3][/us/pl/111/3/s3], set out as an Effective Date note under [section 1396 of this title][/us/usc/t42/s1396].
 
-[Pub. L. 111–3, title IV, § 403(b)][/us/pl/111/3/s403/b], Feb. 4, 2009, [123 Stat. 84][/us/stat/123/84], provided that: 
+[Pub. L. 111–3, title IV][/us/pl/111/3/tIV], § 403(b), Feb. 4, 2009, [123 Stat. 84][/us/stat/123/84], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to contract years for health plans beginning on or after July 1, 2009.”
 
     Amendment by [section 501(a)(1) of Pub. L. 111–3][/us/pl/111/3/s501/a/1] applicable to coverage of items and services furnished on or after Oct. 1, 2009, see [section 501(a)(3) of Pub. L. 111–3][/us/pl/111/3/s501/a/3], set out as a note under [section 1397bb of this title][/us/usc/t42/s1397bb].
 
-[Pub. L. 111–3, title V, § 504(b)][/us/pl/111/3/s504/b], Feb. 4, 2009, [123 Stat. 90][/us/stat/123/90], provided that: 
+[Pub. L. 111–3, title V][/us/pl/111/3/tV], § 504(b), Feb. 4, 2009, [123 Stat. 90][/us/stat/123/90], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to new coverage periods beginning on or after the date of the enactment of this Act \[Feb. 4, 2009\].”
 
@@ -322,15 +322,15 @@
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t42/s1396u–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%932
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4901%2Fa
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F554
-[/us/pl/111/3/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs111%2Fb%2F1
+[/us/pl/111/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtI
 [/us/stat/123/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F28
 [/us/usc/t42/s300gg–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%935
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9326
-[/us/pl/111/148/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F3
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
@@ -338,32 +338,32 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
 [/us/usc/t42/s300gg–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9321
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/3/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs502%2Fb%2F1
-[/us/pl/111/3/s501/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F1%2FA%2Fi
-[/us/pl/111/3/s501/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F1%2FA%2Fii
-[/us/pl/111/3/s502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs502%2Fb%2F2
-[/us/pl/111/3/s501/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F1%2FB%2Fii
-[/us/pl/111/3/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs502%2Fa
-[/us/pl/111/3/s501/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F1%2FB%2Fi
-[/us/pl/111/3/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs505%2Fa
-[/us/pl/111/3/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs111%2Fb%2F1
-[/us/pl/111/3/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs504%2Fa
-[/us/pl/111/3/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs403%2Fa
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
+[/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/111/3/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs403%2Fb
+[/us/pl/111/3/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIV
 [/us/stat/123/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F84
 [/us/pl/111/3/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F1
 [/us/pl/111/3/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs501%2Fa%2F3
 [/us/usc/t42/s1397bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397bb
-[/us/pl/111/3/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs504%2Fb
+[/us/pl/111/3/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtV
 [/us/stat/123/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F90
 
 

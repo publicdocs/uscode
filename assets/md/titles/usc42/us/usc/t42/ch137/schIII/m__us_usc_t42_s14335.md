@@ -29,7 +29,7 @@
 
         This section does not apply to a sale or offer of a mercuric-oxide button cell battery.
 
-([Pub. L. 104–142, title II, § 206][/us/pl/104/142/s206], May 13, 1996, [110 Stat. 1336][/us/stat/110/1336].)
+([Pub. L. 104–142, title II][/us/pl/104/142/tII], § 206, May 13, 1996, [110 Stat. 1336][/us/stat/110/1336].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs206
+[/us/pl/104/142/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2FtII
 [/us/stat/110/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1336
 
 

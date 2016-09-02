@@ -35,11 +35,11 @@
 
         The Secretary of Labor shall prescribe appropriate standards, regulations, and procedures, which shall be observed by the Secretary of Housing and Urban Development in carrying out the provisions of this subchapter (and cause to be made by the Department of Labor such investigations) with respect to compliance with and enforcement of the labor standards provisions of this section, as the Secretary deems desirable.
 
-([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 310, [65 Stat. 307][/us/stat/65/307]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title III, § 310, [65 Stat. 307][/us/stat/65/307]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __Codification__ 
 
-    In subsec. (b), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([49 Stat. 1011][/us/stat/49/1011]), as amended” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “title 40, United States Code, section 276c”, and, in subsec. (c), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended”, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([49 Stat. 1011][/us/stat/49/1011]), as amended” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “title 40, United States Code, section 276c”, and, in subsec. (c), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended”, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Transfer of Functions__ 
 
@@ -56,11 +56,11 @@
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F307
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/stat/49/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1011
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581
 

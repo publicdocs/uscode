@@ -31,7 +31,7 @@
 
     (3) may be unambiguously deduced from the older individual’s life history.
 
-([Pub. L. 89–73, title VII, § 765][/us/pl/89/73/s765], as added [Pub. L. 109–365, title VII, § 705][/us/pl/109/365/s705], Oct. 17, 2006, [120 Stat. 2594][/us/stat/120/2594].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 765, as added [Pub. L. 109–365, title VII][/us/pl/109/365/tVII], § 705, Oct. 17, 2006, [120 Stat. 2594][/us/stat/120/2594].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs765
-[/us/pl/109/365/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs705
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/109/365/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtVII
 [/us/stat/120/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2594
 
 

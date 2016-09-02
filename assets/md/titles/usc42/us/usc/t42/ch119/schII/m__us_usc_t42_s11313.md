@@ -105,7 +105,7 @@
 
         Not later than 90 days after November 7, 1988, the head of each Federal agency that is a member of the Council and responsible for administering a program under this chapter shall provide to the Council a timetable regarding program funding availability and application deadlines. The Council shall furnish such information to each State (including the State contact person).
 
-([Pub. L. 100–77, title II, § 203][/us/pl/100/77/s203], July 22, 1987, [101 Stat. 487][/us/stat/101/487]; [Pub. L. 100–628, title II][/us/pl/100/628], §§ 201–203, Nov. 7, 1988, [102 Stat. 3227][/us/stat/102/3227], 3228; [Pub. L. 111–22, div. B, § 1004(a)(3)][/us/pl/111/22/s1004/a/3], (4), May 20, 2009, [123 Stat. 1666][/us/stat/123/1666], 1668.)
+([Pub. L. 100–77, title II][/us/pl/100/77/tII], § 203, July 22, 1987, [101 Stat. 487][/us/stat/101/487]; [Pub. L. 100–628, title II][/us/pl/100/628/tII], §§ 201–203, Nov. 7, 1988, [102 Stat. 3227][/us/stat/102/3227], 3228; [Pub. L. 111–22, div. B][/us/pl/111/22/dB], § 1004(a)(3), (4), May 20, 2009, [123 Stat. 1666][/us/stat/123/1666], 1668.)
 
  __References in Text__ 
 
@@ -115,25 +115,25 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1) to (4). [Pub. L. 111–22, § 1004(a)(3)(A)][/us/pl/111/22/s1004/a/3/A], (B), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
+    2009—Subsec. (a)(1) to (4). [Pub. L. 111–22][/us/pl/111/22], § 1004(a)(3)(A), (B), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 111–22, § 1004(a)(3)(A)][/us/pl/111/22/s1004/a/3/A], (C), redesignated par. (4) as (5) and substituted “not less than 5, but in no case more than 10” for “at least 2, but in no case more than 5”. Former par. (5) redesignated (9).
+    Subsec. (a)(5). [Pub. L. 111–22][/us/pl/111/22], § 1004(a)(3)(A), (C), redesignated par. (4) as (5) and substituted “not less than 5, but in no case more than 10” for “at least 2, but in no case more than 5”. Former par. (5) redesignated (9).
 
-    Subsec. (a)(6) to (13). [Pub. L. 111–22, § 1004(a)(3)(A)][/us/pl/111/22/s1004/a/3/A], (D)–(G), added pars. (6) to (8), par. (9) relating to joint Federal agency and other initiatives to fulfill the goals of the agency, and pars. (12) and (13), redesignated former par. (5) as par. (9) relating to collection and dissemination of information, and redesignated former pars. (6) and (7) as (10) and (11), respectively.
+    Subsec. (a)(6) to (13). [Pub. L. 111–22][/us/pl/111/22], § 1004(a)(3)(A), (D)–(G), added pars. (6) to (8), par. (9) relating to joint Federal agency and other initiatives to fulfill the goals of the agency, and pars. (12) and (13), redesignated former par. (5) as par. (9) relating to collection and dissemination of information, and redesignated former pars. (6) and (7) as (10) and (11), respectively.
 
-    Subsec. (b)(1). [Pub. L. 111–22, § 1004(a)(4)][/us/pl/111/22/s1004/a/4], substituted “national” for “Federal” and “and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made;” for “; and”.
+    Subsec. (b)(1). [Pub. L. 111–22][/us/pl/111/22], § 1004(a)(4), substituted “national” for “Federal” and “and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made;” for “; and”.
 
-    1988—Subsec. (a)(4). [Pub. L. 100–628, § 202(1)][/us/pl/100/628/s202/1], substituted “(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)” for “, through personnel employed by the Council in each of the 10 standard Federal regions,” in introductory provisions.
+    1988—Subsec. (a)(4). [Pub. L. 100–628][/us/pl/100/628], § 202(1), substituted “(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)” for “, through personnel employed by the Council in each of the 10 standard Federal regions,” in introductory provisions.
 
-    Subsec. (a)(4)(A) to (D). [Pub. L. 100–628, § 202(2)][/us/pl/100/628/s202/2], added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (a)(4)(A) to (D). [Pub. L. 100–628][/us/pl/100/628], § 202(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) effectively coordinate and maximize resources of existing programs and activities to assist homeless individuals; and
 
     “(B) develop new and innovative programs and activities to assist homeless individuals;”.
 
-    Subsec. (a)(7). [Pub. L. 100–628, § 201][/us/pl/100/628/s201], added par. (7).
+    Subsec. (a)(7). [Pub. L. 100–628][/us/pl/100/628], § 201, added par. (7).
 
-    Subsec. (e). [Pub. L. 100–628, § 203][/us/pl/100/628/s203], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–628][/us/pl/100/628], § 203, added subsec. (e).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -145,23 +145,23 @@
 
  __Personnel From Federal Departments and Agencies__ 
 
-[Pub. L. 102–389, title III][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1608][/us/stat/106/1608], provided in part: 
+[Pub. L. 102–389, title III][/us/pl/102/389/tIII], Oct. 6, 1992, [106 Stat. 1608][/us/stat/106/1608], provided in part: 
 
 > “That the Council shall carry out its duties in the 10 standard Federal regions under section 203(a)(4) of such Act \[now [42 U.S.C. 11313(a)(5)][/us/usc/t42/s11313/a/5]\] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act \[[42 U.S.C. 11312(a)][/us/usc/t42/s11312/a]\].”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 102–139, title III][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 769][/us/stat/105/769].
+    [Pub. L. 102–139, title III][/us/pl/102/139/tIII], Oct. 28, 1991, [105 Stat. 769][/us/stat/105/769].
 
-    [Pub. L. 101–507, title III][/us/pl/101/507], Nov. 5, 1990, [104 Stat. 1377][/us/stat/104/1377].
+    [Pub. L. 101–507, title III][/us/pl/101/507/tIII], Nov. 5, 1990, [104 Stat. 1377][/us/stat/104/1377].
 
-    [Pub. L. 101–144, title III][/us/pl/101/144], Nov. 9, 1989, [103 Stat. 861][/us/stat/103/861].
+    [Pub. L. 101–144, title III][/us/pl/101/144/tIII], Nov. 9, 1989, [103 Stat. 861][/us/stat/103/861].
 
-    [Pub. L. 100–404, title I][/us/pl/100/404], Aug. 19, 1988, [102 Stat. 1017][/us/stat/102/1017].
+    [Pub. L. 100–404, title I][/us/pl/100/404/tI], Aug. 19, 1988, [102 Stat. 1017][/us/stat/102/1017].
 
  __Nonimplementation of Subsection (a)(5)__ 
 
-[Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title I\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–191, provided: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title I\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–191, provided: 
 
 > “That the provision in section 203(a)(4) \[now 203(a)(5)\] of such Act \[[Pub. L. 100–77][/us/pl/100/77], [42 U.S.C. 11313(a)(5)][/us/usc/t42/s11313/a/5]\] that relates to employment of personnel in the regions shall not be implemented.”
 
@@ -177,42 +177,42 @@ Similar provisions were contained in the following prior appropriations acts:
 ----------
 
 [/us/usc/t42/s11302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302%2Fa
-[/us/pl/100/77/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs203
+[/us/pl/100/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtII
 [/us/stat/101/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F487
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtII
 [/us/stat/102/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3227
-[/us/pl/111/22/s1004/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F3
+[/us/pl/111/22/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB
 [/us/stat/123/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1666
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/111/22/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1003
-[/us/pl/111/22/s1004/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F3%2FA
-[/us/pl/111/22/s1004/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F3%2FA
-[/us/pl/111/22/s1004/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F3%2FA
-[/us/pl/111/22/s1004/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F4
-[/us/pl/100/628/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs202%2F1
-[/us/pl/100/628/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs202%2F2
-[/us/pl/100/628/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs201
-[/us/pl/100/628/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs203
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fb
 [/us/usc/t42/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11311
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
+[/us/pl/102/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389%2FtIII
 [/us/stat/106/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1608
 [/us/usc/t42/s11313/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11313%2Fa%2F5
 [/us/usc/t42/s11312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11312%2Fa
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtIII
 [/us/stat/105/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F769
-[/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
+[/us/pl/101/507/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507%2FtIII
 [/us/stat/104/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1377
-[/us/pl/101/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144
+[/us/pl/101/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2FtIII
 [/us/stat/103/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F861
-[/us/pl/100/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404
+[/us/pl/100/404/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404%2FtI
 [/us/stat/102/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1017
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/usc/t42/s11313/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11313%2Fa%2F5

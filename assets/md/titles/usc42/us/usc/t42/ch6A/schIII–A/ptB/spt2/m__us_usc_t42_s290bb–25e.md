@@ -65,7 +65,7 @@
 
         There is authorized to be appropriated to carry out subsection (a) of this section, $10,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 519E, as added [Pub. L. 106–310, div. B, title XXXI, § 3104(c)][/us/pl/106/310/s3104/c], Oct. 17, 2000, [114 Stat. 1173][/us/stat/114/1173].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 519E, as added [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3104(c), Oct. 17, 2000, [114 Stat. 1173][/us/stat/114/1173].)
 
  __Change of Name__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3104%2Fc
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1173
 
 

@@ -17,7 +17,7 @@
 
     Upon a certification by the Secretary of the Interior that any surplus housing, classified by the Secretary of Housing and Urban Development as demountable, in the area of San Diego, California, is needed to provide dwelling accommodations for members of a tribe of Indians in Riverside County or San Diego County or Imperial County, California, the Secretary of Housing and Urban Development is authorized, notwithstanding any other provision of law, to transfer and convey such housing without consideration to such tribe, the members thereof, or the Secretary of the Interior in trust therefor, as the Secretary may prescribe: Provided, That the term housing as used in this section shall not include land.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 613, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 805(3), [68 Stat. 645][/us/stat/68/645]; amended [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 613, as added [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 805(3), [68 Stat. 645][/us/stat/68/645]; amended [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F645
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581
 

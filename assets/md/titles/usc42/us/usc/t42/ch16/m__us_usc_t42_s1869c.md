@@ -47,7 +47,7 @@
 
         Not later than 60 days after December 8, 2004, the Director shall publish in the Federal Register a list of eligible programs of study.
 
-([Pub. L. 105–277, div. C, title IV, § 414(d)][/us/pl/105/277/s414/d], Oct. 21, 1998, [112 Stat. 2681–653][/us/stat/112/2681-653]; [Pub. L. 106–313, title I, § 110(b)][/us/pl/106/313/s110/b], Oct. 17, 2000, [114 Stat. 1256][/us/stat/114/1256]; [Pub. L. 108–447, div. J, title IV, § 429][/us/pl/108/447/s429], Dec. 8, 2004, [118 Stat. 3360][/us/stat/118/3360].)
+([Pub. L. 105–277, div. C, title IV][/us/pl/105/277/dC/tIV], § 414(d), Oct. 21, 1998, [112 Stat. 2681–653][/us/stat/112/2681-653]; [Pub. L. 106–313, title I][/us/pl/106/313/tI], § 110(b), Oct. 17, 2000, [114 Stat. 1256][/us/stat/114/1256]; [Pub. L. 108–447, div. J, title IV][/us/pl/108/447/dJ/tIV], § 429, Dec. 8, 2004, [118 Stat. 3360][/us/stat/118/3360].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    2004—Par. (2)(A)(iii). [Pub. L. 108–447, § 429(a)][/us/pl/108/447/s429/a], substituted “computer science, or other technology and science programs designated by the Director” for “or computer science”.
+    2004—Par. (2)(A)(iii). [Pub. L. 108–447][/us/pl/108/447], § 429(a), substituted “computer science, or other technology and science programs designated by the Director” for “or computer science”.
 
-    Par. (3). [Pub. L. 108–447, § 429(b)][/us/pl/108/447/s429/b], substituted “$10,000 per year” for “$3,125 per year”.
+    Par. (3). [Pub. L. 108–447][/us/pl/108/447], § 429(b), substituted “$10,000 per year” for “$3,125 per year”.
 
-    Par. (4). [Pub. L. 108–447, § 429(c)][/us/pl/108/447/s429/c], inserted at end “The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.”
+    Par. (4). [Pub. L. 108–447][/us/pl/108/447], § 429(c), inserted at end “The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.”
 
-    Par. (5). [Pub. L. 108–447, § 429(d)][/us/pl/108/447/s429/d], added par. (5).
+    Par. (5). [Pub. L. 108–447][/us/pl/108/447], § 429(d), added par. (5).
 
     2000—Par. (3). [Pub. L. 106–313][/us/pl/106/313] substituted “$3,125 per year. The Director may renew scholarships for up to 4 years” for “$2,500 per year.”
 
@@ -84,17 +84,17 @@
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t8/s1356/s/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356%2Fs%2F3
-[/us/pl/105/277/s414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs414%2Fd
+[/us/pl/105/277/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIV
 [/us/stat/112/2681-653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-653
-[/us/pl/106/313/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs110%2Fb
+[/us/pl/106/313/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtI
 [/us/stat/114/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1256
-[/us/pl/108/447/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs429
+[/us/pl/108/447/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIV
 [/us/stat/118/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3360
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
-[/us/pl/108/447/s429/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs429%2Fa
-[/us/pl/108/447/s429/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs429%2Fb
-[/us/pl/108/447/s429/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs429%2Fc
-[/us/pl/108/447/s429/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs429%2Fd
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447/s430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs430%2Fa

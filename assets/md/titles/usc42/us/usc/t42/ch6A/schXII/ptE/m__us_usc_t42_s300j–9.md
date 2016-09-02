@@ -85,7 +85,7 @@
 
         (6) Paragraph (1) shall not apply with respect to any employee who, acting without direction from his employer (or the employer’s agent), deliberately causes a violation of any requirement of this subchapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1450, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1691][/us/stat/88/1691]; amended [Pub. L. 98–620, title IV, § 402(38)][/us/pl/98/620/s402/38], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 103–437, § 15(a)(2)][/us/pl/103/437/s15/a/2], Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1450, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1691][/us/stat/88/1691]; amended [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(38), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 103–437][/us/pl/103/437], § 15(a)(2), Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
  __Codification__ 
 
-    In subsec. (e), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (known as the Davis-Bacon Act; [40 U.S.C. 276a][/us/usc/t40/s276a]—276a(5))” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (e), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (known as the Davis-Bacon Act; [40 U.S.C. 276a][/us/usc/t40/s276a]—276a(5))” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -113,7 +113,7 @@
 
  __Applicability of Labor Standards to Drinking Water Treatment Construction Projects__ 
 
-[Pub. L. 112–74, div. E, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1020][/us/stat/125/1020], provided in part: 
+[Pub. L. 112–74, div. E, title II][/us/pl/112/74/dE/tII], Dec. 23, 2011, [125 Stat. 1020][/us/stat/125/1020], provided in part: 
 
 > “For fiscal year 2012 and each fiscal year thereafter, the requirements of section 1450(e) of the Safe Drinking Water Act ([42 U.S.C. 300j–9(e)][/us/usc/t42/s300j–9/e]) shall apply to any construction project carried out in whole or in part with assistance made available by a drinking water treatment revolving loan fund as authorized by section 1452 of that Act ([42 U.S.C. 300j–12][/us/usc/t42/s300j–12]).”
 
@@ -128,18 +128,18 @@
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1691
-[/us/pl/98/620/s402/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F38
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
-[/us/pl/103/437/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fa%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4591
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
@@ -148,7 +148,7 @@
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtII
 [/us/stat/125/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1020
 [/us/usc/t42/s300j–9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%939%2Fe
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312

@@ -169,11 +169,11 @@
 
         This section shall not apply after September 30, 2019.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399BB, as added [Pub. L. 109–416, § 3(a)][/us/pl/109/416/s3/a], Dec. 19, 2006, [120 Stat. 2823][/us/stat/120/2823]; amended [Pub. L. 112–32, § 2(2)][/us/pl/112/32/s2/2], Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157, § 4][/us/pl/113/157/s4], Aug. 8, 2014, [128 Stat. 1831][/us/stat/128/1831].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399BB, as added [Pub. L. 109–416][/us/pl/109/416], § 3(a), Dec. 19, 2006, [120 Stat. 2823][/us/stat/120/2823]; amended [Pub. L. 112–32][/us/pl/112/32], § 2(2), Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157][/us/pl/113/157], § 4, Aug. 8, 2014, [128 Stat. 1831][/us/stat/128/1831].)
 
  __References in Text__ 
 
-    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c)(1)(A)(iv), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
+    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c)(1)(A)(iv), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title][/us/usc/t42/s9857/a] and Tables.
 
     The Social Security Act, referred to in subsecs. (c)(1)(A)(v)–(vii), (d)(2)(C), and (e)(1), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -185,15 +185,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1). [Pub. L. 113–157, § 4(1)][/us/pl/113/157/s4/1], inserted “culturally competent” after “provide”.
+    2014—Subsec. (b)(1). [Pub. L. 113–157][/us/pl/113/157], § 4(1), inserted “culturally competent” after “provide”.
 
-    Subsec. (c)(2)(A)(ii). [Pub. L. 113–157, § 4(2)][/us/pl/113/157/s4/2], inserted “(which may include respite care for caregivers of individuals with an autism spectrum disorder)” after “services and supports”.
+    Subsec. (c)(2)(A)(ii). [Pub. L. 113–157][/us/pl/113/157], § 4(2), inserted “(which may include respite care for caregivers of individuals with an autism spectrum disorder)” after “services and supports”.
 
-    Subsec. (e)(1)(B)(v). [Pub. L. 113–157, § 4(3)][/us/pl/113/157/s4/3], inserted before semicolon “, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in [section 300ii of this title][/us/usc/t42/s300ii])”.
+    Subsec. (e)(1)(B)(v). [Pub. L. 113–157][/us/pl/113/157], § 4(3), inserted before semicolon “, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in [section 300ii of this title][/us/usc/t42/s300ii])”.
 
-    Subsec. (f). [Pub. L. 113–157, § 4(4)][/us/pl/113/157/s4/4], substituted “grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with” for “grants or contracts, to determine the evidence-based practices for interventions for individuals with”.
+    Subsec. (f). [Pub. L. 113–157][/us/pl/113/157], § 4(4), substituted “grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with” for “grants or contracts, to determine the evidence-based practices for interventions for individuals with”.
 
-    Subsec. (g). [Pub. L. 113–157, § 4(5)][/us/pl/113/157/s4/5], substituted “2019” for “2014”.
+    Subsec. (g). [Pub. L. 113–157][/us/pl/113/157], § 4(5), substituted “2019” for “2014”.
 
     2011—Subsec. (g). [Pub. L. 112–32][/us/pl/112/32] substituted “2014” for “2011”.
 
@@ -219,14 +219,14 @@
 [/us/usc/t42/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fa%2F2
 [/us/usc/t42/s300ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ii
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/416/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416%2Fs3%2Fa
+[/us/pl/109/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416
 [/us/stat/120/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2823
-[/us/pl/112/32/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32%2Fs2%2F2
+[/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 [/us/stat/125/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F361
-[/us/pl/113/157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/stat/128/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1831
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
 [/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -241,12 +241,12 @@
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
-[/us/pl/113/157/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F1
-[/us/pl/113/157/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F2
-[/us/pl/113/157/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F3
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/usc/t42/s300ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ii
-[/us/pl/113/157/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F4
-[/us/pl/113/157/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F5
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
+[/us/pl/113/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157
 [/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 
 

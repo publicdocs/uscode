@@ -107,7 +107,7 @@
 
             (E) the Attorney General.
 
-([Pub. L. 114–22, title I, § 114][/us/pl/114/22/s114], May 29, 2015, [129 Stat. 241][/us/stat/129/241].)
+([Pub. L. 114–22, title I][/us/pl/114/22/tI], § 114, May 29, 2015, [129 Stat. 241][/us/stat/129/241].)
 
  __Codification__ 
 
@@ -117,7 +117,7 @@
 
  __Using Existing Task Forces and Components To Target Offenders Who Exploit Children__ 
 
-[Pub. L. 114–22, title I, § 110][/us/pl/114/22/s110], May 29, 2015, [129 Stat. 239][/us/stat/129/239], provided that: 
+[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 110, May 29, 2015, [129 Stat. 239][/us/stat/129/239], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[May 29, 2015\], the Attorney General shall ensure that—
 
@@ -136,12 +136,12 @@
 [/us/usc/t18/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs115
 [/us/usc/t18/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1593
 [/us/usc/t22/s7103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103%2Fg
-[/us/pl/114/22/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs114
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F241
 [/us/pl/114/22/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs114
 [/us/pl/114/22/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs114
 [/us/usc/t18/s3583/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3583%2Fk
-[/us/pl/114/22/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs110
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F239
 
 

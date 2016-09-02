@@ -61,7 +61,7 @@
 
                 (ii) consider outside reports related to the effective use of Federal funding in making future grant awards for training.
 
-([Pub. L. 110–401, title I, § 102][/us/pl/110/401/s102], Oct. 13, 2008, [122 Stat. 4233][/us/stat/122/4233]; [Pub. L. 112–206, § 5][/us/pl/112/206/s5], Dec. 7, 2012, [126 Stat. 1493][/us/stat/126/1493].)
+([Pub. L. 110–401, title I][/us/pl/110/401/tI], § 102, Oct. 13, 2008, [122 Stat. 4233][/us/stat/122/4233]; [Pub. L. 112–206][/us/pl/112/206], § 5, Dec. 7, 2012, [126 Stat. 1493][/us/stat/126/1493].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 ----------
 
 [/us/usc/t42/s5771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5771
-[/us/pl/110/401/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs102
+[/us/pl/110/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtI
 [/us/stat/122/4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4233
-[/us/pl/112/206/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs5
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/stat/126/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1493
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/stat/111/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2440

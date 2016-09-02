@@ -97,7 +97,7 @@
 
         The power to convey and to execute, in the name of the Secretary, deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest in such property acquired by the Secretary under this chapter may be exercised by the Secretary, or by any officer or agent appointed by the Secretary for that purpose, without the execution of any express delegation of power or power of attorney.
 
-([Pub. L. 89–136, title VI, § 601][/us/pl/89/136/s601], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3611][/us/stat/112/3611].)
+([Pub. L. 89–136, title VI][/us/pl/89/136/tVI], § 601, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3611][/us/stat/112/3611].)
 
  __References in Text__ 
 
@@ -109,13 +109,13 @@
 
  __Codification__ 
 
-    In subsec. (c), “[Section 6101 of title 41][/us/usc/t41/s6101]” substituted for “Section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “[Section 6101 of title 41][/us/usc/t41/s6101]” substituted for “Section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
-    A prior section 3211, [Pub. L. 89–136, title VII, § 701][/us/pl/89/136/s701], Aug. 26, 1965, [79 Stat. 570][/us/stat/79/570], set forth powers of Secretary, prior to repeal by [Pub. L. 105–393, § 102(b)(3)][/us/pl/105/393/s102/b/3].
+    A prior section 3211, [Pub. L. 89–136, title VII][/us/pl/89/136/tVII], § 701, Aug. 26, 1965, [79 Stat. 570][/us/stat/79/570], set forth powers of Secretary, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(b)(3).
 
-    A prior [section 601(a) of Pub. L. 89–136][/us/pl/89/136/s601/a] was classified to [section 3201 of this title][/us/usc/t42/s3201] prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior [section 601(a) of Pub. L. 89–136][/us/pl/89/136/s601/a] was classified to [section 3201 of this title][/us/usc/t42/s3201] prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
 ----------
 
@@ -132,8 +132,8 @@
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
 [/us/usc/t42/s5184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5184
 [/us/pl/95/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F31
-[/us/pl/89/136/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs601
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVI
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3611
 [/us/pl/94/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369
 [/us/stat/90/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F999
@@ -146,13 +146,13 @@
 [/us/usc/t42/s5184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5184
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/89/136/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs701
+[/us/pl/89/136/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtVII
 [/us/stat/79/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F570
-[/us/pl/105/393/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fb%2F3
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/pl/89/136/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs601%2Fa
 [/us/usc/t42/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3201
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 
 

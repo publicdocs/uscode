@@ -17,7 +17,7 @@
 
     Subject to Article 24 of the Convention, adoptions concluded between two other Convention countries that meet the requirements of Article 23 of the Convention and that became final before the date of entry into force of the Convention for the United States shall be recognized thereafter in the United States and given full effect. Such recognition shall include the specific effects described in Article 26 of the Convention.
 
-([Pub. L. 106–279, title V, § 501][/us/pl/106/279/s501], Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
+([Pub. L. 106–279, title V][/us/pl/106/279/tV], § 501, Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/279/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs501
+[/us/pl/106/279/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtV
 [/us/stat/114/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F843
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901

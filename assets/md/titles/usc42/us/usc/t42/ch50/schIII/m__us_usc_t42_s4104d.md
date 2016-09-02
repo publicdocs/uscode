@@ -57,7 +57,7 @@
 
         The Administrator shall submit a report to the Congress not later than the expiration of the 1-year period beginning on September 23, 1994, and not less than once during each successive 2-year period thereafter. The report shall describe the status of the Fund and any activities carried out with amounts from the Fund.
 
-([Pub. L. 90–448, title XIII, § 1367][/us/pl/90/448/s1367], as added [Pub. L. 103–325, title V, § 554(a)][/us/pl/103/325/s554/a], Sept. 23, 1994, [108 Stat. 2273][/us/stat/108/2273]; amended [Pub. L. 108–264, title I, § 103(d)][/us/pl/108/264/s103/d], June 30, 2004, [118 Stat. 721][/us/stat/118/721]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100225(e), 100238(b)(1), July 6, 2012, [126 Stat. 941][/us/stat/126/941], 958.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1367, as added [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 554(a), Sept. 23, 1994, [108 Stat. 2273][/us/stat/108/2273]; amended [Pub. L. 108–264, title I][/us/pl/108/264/tI], § 103(d), June 30, 2004, [118 Stat. 721][/us/stat/118/721]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100225(e), 100238(b)(1), July 6, 2012, [126 Stat. 941][/us/stat/126/941], 958.)
 
  __References in Text__ 
 
@@ -69,21 +69,21 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b)(1). [Pub. L. 112–141, § 100225(e)(1)(A)][/us/pl/112/141/s100225/e/1/A], added par. (1) and struck out former par. (1) which read as follows: “in each fiscal year, amounts from the National Flood Insurance Fund not exceeding $40,000,000, to remain available until expended;”.
+    Subsec. (b)(1). [Pub. L. 112–141][/us/pl/112/141], § 100225(e)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “in each fiscal year, amounts from the National Flood Insurance Fund not exceeding $40,000,000, to remain available until expended;”.
 
-    Subsec. (b)(3). [Pub. L. 112–141, § 100225(e)(1)(B)][/us/pl/112/141/s100225/e/1/B], substituted “section 4104c(e)” for “section 4104c(i)”.
+    Subsec. (b)(3). [Pub. L. 112–141][/us/pl/112/141], § 100225(e)(1)(B), substituted “section 4104c(e)” for “section 4104c(i)”.
 
-    Subsec. (c). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in two places.
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in two places.
 
-    [Pub. L. 112–141, § 100225(e)(2)][/us/pl/112/141/s100225/e/2], substituted “section 4104c” for “sections 4104c and 4030”.
+    [Pub. L. 112–141][/us/pl/112/141], § 100225(e)(2), substituted “section 4104c” for “sections 4104c and 4030”.
 
-    Subsecs. (d), (e). [Pub. L. 112–141, § 100225(e)(4)][/us/pl/112/141/s100225/e/4], added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+    Subsecs. (d), (e). [Pub. L. 112–141][/us/pl/112/141], § 100225(e)(4), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-    Subsecs. (f), (g). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” wherever appearing.
+    Subsecs. (f), (g). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
-    [Pub. L. 112–141, § 100225(e)(3)][/us/pl/112/141/s100225/e/3], redesignated subsecs. (d) and (e) as (f) and (g), respectively.
+    [Pub. L. 112–141][/us/pl/112/141], § 100225(e)(3), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
     2004—Subsec. (b)(1). Pub. L 108–264, § 103(d)(1), added par. (1) and struck out former par. (1) which read as follows: “amounts from the National Flood Insurance Fund, in amounts not exceeding—
 
@@ -95,7 +95,7 @@
 
     “(D) $20,000,000 in each fiscal year thereafter;”.
 
-    Subsecs. (c) to (e). [Pub. L. 108–264, § 103(d)(2)][/us/pl/108/264/s103/d/2], (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (c) to (e). [Pub. L. 108–264][/us/pl/108/264], § 103(d)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
  __Transfer of Functions__ 
 
@@ -118,26 +118,26 @@
 [/us/usc/t42/s4104c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104c%2Fe
 [/us/usc/t42/s4104c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104c
 [/us/usc/t42/s4104c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104c
-[/us/pl/90/448/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1367
-[/us/pl/103/325/s554/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs554%2Fa
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2273
-[/us/pl/108/264/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs103%2Fd
+[/us/pl/108/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2FtI
 [/us/stat/118/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F721
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F941
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100225/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fe%2F1%2FA
-[/us/pl/112/141/s100225/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fe%2F1%2FB
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100225/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fe%2F2
-[/us/pl/112/141/s100225/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fe%2F4
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100225/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fe%2F3
-[/us/pl/108/264/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs103%2Fd%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

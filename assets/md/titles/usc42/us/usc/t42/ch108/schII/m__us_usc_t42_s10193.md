@@ -37,7 +37,7 @@
 
         (2) When the Secretary identifies a site, the Secretary shall as soon as possible notify the Governor of the State in which such site is located, or the governing body of the affected Indian tribe where such site is located, of such identification and the basis of such identification. Additional sites for the location of the test and evaluation facility authorized in [section 10222(d) of this title][/us/usc/t42/s10222/d] may be identified after such 1 year period, following the same procedure as if such sites had been identified within such period.
 
-([Pub. L. 97–425, title II, § 213][/us/pl/97/425/s213], Jan. 7, 1983, [96 Stat. 2245][/us/stat/96/2245]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 213, Jan. 7, 1983, [96 Stat. 2245][/us/stat/96/2245]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
 
  __Change of Name__ 
 
@@ -52,9 +52,9 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s10222/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10222%2Fd
-[/us/pl/97/425/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs213
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2245
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31

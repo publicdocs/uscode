@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch102/schVI/m__us_usc_t42_s9522.md) | [Next](./../../../../..//us/usc/t42/ch103/m__us_usc_t42_ch103.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9523)
 
-## § 9523. Repealed. [Pub. L. 97–35, title IX, § 902(e)(1)][/us/pl/97/35/s902/e/1], Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560]
+## § 9523. Repealed. [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(e)(1), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560]
 
-    Section, [Pub. L. 96–398, title VIII, § 806][/us/pl/96/398/s806], Oct. 7, 1980, [94 Stat. 1609][/us/stat/94/1609], related to contracting authority.
+    Section, [Pub. L. 96–398, title VIII][/us/pl/96/398/tVIII], § 806, Oct. 7, 1980, [94 Stat. 1609][/us/stat/94/1609], related to contracting authority.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fe%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
-[/us/pl/96/398/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs806
+[/us/pl/96/398/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2FtVIII
 [/us/stat/94/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1609
 [/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 

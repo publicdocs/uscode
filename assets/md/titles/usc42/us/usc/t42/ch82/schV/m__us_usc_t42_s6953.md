@@ -23,7 +23,7 @@
 
     (3) encourage the development of new uses for recovered materials.
 
-([Pub. L. 89–272, title II, § 5003][/us/pl/89/272/s5003], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2821][/us/stat/90/2821]; amended [Pub. L. 96–482, § 21(b)][/us/pl/96/482/s21/b], Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 5003, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2821][/us/stat/90/2821]; amended [Pub. L. 96–482][/us/pl/96/482], § 21(b), Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346].)
 
  __Amendments__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/89/272/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs5003
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2821
-[/us/pl/96/482/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs21%2Fb
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2346
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 

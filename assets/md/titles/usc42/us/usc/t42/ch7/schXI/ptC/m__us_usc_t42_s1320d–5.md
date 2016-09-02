@@ -155,45 +155,45 @@
 
         Nothing in this section shall be construed as preventing the Office for Civil Rights of the Department of Health and Human Services from continuing, in its discretion, to use corrective action without a penalty in cases where the person did not know (and by exercising reasonable diligence would not have known) of the violation involved.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1176, as added [Pub. L. 104–191, title II, § 262(a)][/us/pl/104/191/s262/a], Aug. 21, 1996, [110 Stat. 2028][/us/stat/110/2028]; amended [Pub. L. 111–5, div. A, title XIII, § 13410(a)(1)][/us/pl/111/5/s13410/a/1], (d)(1)–(3), (e)(1), (2), (f), Feb. 17, 2009, [123 Stat. 271–276][/us/stat/123/271-276].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1176, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 262(a), Aug. 21, 1996, [110 Stat. 2028][/us/stat/110/2028]; amended [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13410(a)(1), (d)(1)–(3), (e)(1), (2), (f), Feb. 17, 2009, [123 Stat. 271–276][/us/stat/123/271-276].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–5, § 13410(d)(1)][/us/pl/111/5/s13410/d/1], substituted “who violates a provision of this part—” for “who violates a provision of this part a penalty of not more than $100 for each such violation, except that the total amount imposed on the person for all violations of an identical requirement or prohibition during a calendar year may not exceed $25,000.”, added subpars. (A) to (C), and inserted concluding provisions.
+    2009—Subsec. (a)(1). [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(1), substituted “who violates a provision of this part—” for “who violates a provision of this part a penalty of not more than $100 for each such violation, except that the total amount imposed on the person for all violations of an identical requirement or prohibition during a calendar year may not exceed $25,000.”, added subpars. (A) to (C), and inserted concluding provisions.
 
-    Subsec. (a)(3). [Pub. L. 111–5, § 13410(d)(2)][/us/pl/111/5/s13410/d/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(2), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 111–5, § 13410(e)(2)(A)][/us/pl/111/5/s13410/e/2/A], substituted “No penalty may be imposed under subsection (a) and no damages obtained under subsection (d)” for “A penalty may not be imposed under subsection (a)”.
+    Subsec. (b)(1). [Pub. L. 111–5][/us/pl/111/5], § 13410(e)(2)(A), substituted “No penalty may be imposed under subsection (a) and no damages obtained under subsection (d)” for “A penalty may not be imposed under subsection (a)”.
 
-    [Pub. L. 111–5, § 13410(a)(1)(A)][/us/pl/111/5/s13410/a/1/A], substituted “a penalty has been imposed under [section 1320d–6 of this title][/us/usc/t42/s1320d–6] with respect to such act” for “the act constitutes an offense punishable under [section 1320d–6 of this title][/us/usc/t42/s1320d–6]”.
+    [Pub. L. 111–5][/us/pl/111/5], § 13410(a)(1)(A), substituted “a penalty has been imposed under [section 1320d–6 of this title][/us/usc/t42/s1320d–6] with respect to such act” for “the act constitutes an offense punishable under [section 1320d–6 of this title][/us/usc/t42/s1320d–6]”.
 
-    Subsec. (b)(2). [Pub. L. 111–5, § 13410(d)(3)(A)][/us/pl/111/5/s13410/d/3/A], redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “A penalty may not be imposed under subsection (a) of this section with respect to a provision of this part if it is established to the satisfaction of the Secretary that the person liable for the penalty did not know, and by exercising reasonable diligence would not have known, that such person violated the provision.”
+    Subsec. (b)(2). [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(3)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “A penalty may not be imposed under subsection (a) of this section with respect to a provision of this part if it is established to the satisfaction of the Secretary that the person liable for the penalty did not know, and by exercising reasonable diligence would not have known, that such person violated the provision.”
 
-    Subsec. (b)(2)(A). [Pub. L. 111–5, § 13410(e)(2)(B)(ii)][/us/pl/111/5/s13410/e/2/B/ii], which directed amendment of cl. (ii) of subpar. (A) by inserting “or damages” after “the penalty”, was executed by making the insertion in subpar. (A) to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 111–5, § 13410(d)(3)(B)(i)][/us/pl/111/5/s13410/d/3/B/i], which struck out the cl. (ii) designation. See below.
+    Subsec. (b)(2)(A). [Pub. L. 111–5][/us/pl/111/5], § 13410(e)(2)(B)(ii), which directed amendment of cl. (ii) of subpar. (A) by inserting “or damages” after “the penalty”, was executed by making the insertion in subpar. (A) to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(3)(B)(i), which struck out the cl. (ii) designation. See below.
 
-    [Pub. L. 111–5, § 13410(e)(2)(B)(i)][/us/pl/111/5/s13410/e/2/B/i], substituted “no penalty may be imposed under subsection (a) and no damages obtained under subsection (d)” for “a penalty may not be imposed under subsection (a)”.
+    [Pub. L. 111–5][/us/pl/111/5], § 13410(e)(2)(B)(i), substituted “no penalty may be imposed under subsection (a) and no damages obtained under subsection (d)” for “a penalty may not be imposed under subsection (a)”.
 
-    [Pub. L. 111–5, § 13410(d)(3)(B)(i)][/us/pl/111/5/s13410/d/3/B/i], substituted “in subparagraph (B) or subsection (a)(1)(C), a penalty may not be imposed under subsection (a) if the failure to comply is corrected” for “in subparagraph (B), a penalty may not be imposed under subsection (a) of this section if—
+    [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(3)(B)(i), substituted “in subparagraph (B) or subsection (a)(1)(C), a penalty may not be imposed under subsection (a) if the failure to comply is corrected” for “in subparagraph (B), a penalty may not be imposed under subsection (a) of this section if—
 
     “(i) the failure to comply was due to reasonable cause and not to willful neglect; and
 
     “(ii) the failure to comply is corrected”.
 
-    Subsec. (b)(2)(B). [Pub. L. 111–5, § 13410(d)(3)(B)(ii)][/us/pl/111/5/s13410/d/3/B/ii], substituted “(A)” for “(A)(ii)” in two places.
+    Subsec. (b)(2)(B). [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(3)(B)(ii), substituted “(A)” for “(A)(ii)” in two places.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 111–5, § 13410(e)(2)(C)][/us/pl/111/5/s13410/e/2/C], substituted “With respect to the imposition of a penalty by the Secretary under subsection (a), the period” for “The period”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 111–5][/us/pl/111/5], § 13410(e)(2)(C), substituted “With respect to the imposition of a penalty by the Secretary under subsection (a), the period” for “The period”.
 
-    Subsec. (b)(3). [Pub. L. 111–5, § 13410(e)(2)(D)][/us/pl/111/5/s13410/e/2/D], inserted “and any damages under subsection (d)” after “any penalty under subsection (a)”.
+    Subsec. (b)(3). [Pub. L. 111–5][/us/pl/111/5], § 13410(e)(2)(D), inserted “and any damages under subsection (d)” after “any penalty under subsection (a)”.
 
-    [Pub. L. 111–5, § 13410(d)(3)(A)][/us/pl/111/5/s13410/d/3/A], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+    [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(3)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (b)(4). [Pub. L. 111–5, § 13410(d)(3)(A)][/us/pl/111/5/s13410/d/3/A], redesignated par. (4) as (3).
+    Subsec. (b)(4). [Pub. L. 111–5][/us/pl/111/5], § 13410(d)(3)(A), redesignated par. (4) as (3).
 
-    Subsec. (c). [Pub. L. 111–5, § 13410(a)(1)(B)][/us/pl/111/5/s13410/a/1/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–5][/us/pl/111/5], § 13410(a)(1)(B), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 111–5, § 13410(e)(1)][/us/pl/111/5/s13410/e/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–5][/us/pl/111/5], § 13410(e)(1), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 111–5, § 13410(f)][/us/pl/111/5/s13410/f], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–5][/us/pl/111/5], § 13410(f), added subsec. (e).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -219,29 +219,29 @@
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 [/us/usc/t42/s1320a–7a/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fc%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2028
-[/us/pl/111/5/s13410/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fa%2F1
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/271-276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F271-276
-[/us/pl/111/5/s13410/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F1
-[/us/pl/111/5/s13410/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F2
-[/us/pl/111/5/s13410/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fe%2F2%2FA
-[/us/pl/111/5/s13410/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fa%2F1%2FA
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t42/s1320d–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%936
 [/us/usc/t42/s1320d–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%936
-[/us/pl/111/5/s13410/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F3%2FA
-[/us/pl/111/5/s13410/e/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fe%2F2%2FB%2Fii
-[/us/pl/111/5/s13410/d/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F3%2FB%2Fi
-[/us/pl/111/5/s13410/e/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fe%2F2%2FB%2Fi
-[/us/pl/111/5/s13410/d/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F3%2FB%2Fi
-[/us/pl/111/5/s13410/d/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F3%2FB%2Fii
-[/us/pl/111/5/s13410/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fe%2F2%2FC
-[/us/pl/111/5/s13410/e/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fe%2F2%2FD
-[/us/pl/111/5/s13410/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F3%2FA
-[/us/pl/111/5/s13410/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fd%2F3%2FA
-[/us/pl/111/5/s13410/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fa%2F1%2FB
-[/us/pl/111/5/s13410/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Fe%2F1
-[/us/pl/111/5/s13410/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13410%2Ff
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s13423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13423
 [/us/usc/t42/s17931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17931

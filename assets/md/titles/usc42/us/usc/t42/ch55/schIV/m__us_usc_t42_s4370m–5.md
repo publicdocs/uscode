@@ -27,7 +27,7 @@
 
         Lead and cooperating agencies may share with State, tribal, and local authorities best practices involved in review of covered projects and invite input from State, tribal, and local authorities regarding best practices.
 
-([Pub. L. 114–94, div. D, title XLI, § 41006][/us/pl/114/94/s41006], Dec. 4, 2015, [129 Stat. 1758][/us/stat/129/1758].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41006, Dec. 4, 2015, [129 Stat. 1758][/us/stat/129/1758].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s4370m–1/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fc%2F2%2FB
 [/us/usc/t42/s4370m–1/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fc%2F2%2FB
-[/us/pl/114/94/s41006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41006
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1758
 
 

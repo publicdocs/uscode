@@ -223,31 +223,31 @@
 
         The grant program and the advisory committee established under this section terminate on September 30, 2024.
 
-([Pub. L. 110–140, title IX, § 917][/us/pl/110/140/s917], Dec. 19, 2007, [121 Stat. 1730][/us/stat/121/1730]; [Pub. L. 113–296, § 12(a)][/us/pl/113/296/s12/a]–(c)(1), Dec. 19, 2014, [128 Stat. 4078–4080][/us/stat/128/4078-4080].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 917, Dec. 19, 2007, [121 Stat. 1730][/us/stat/121/1730]; [Pub. L. 113–296][/us/pl/113/296], § 12(a)–(c)(1), Dec. 19, 2014, [128 Stat. 4078–4080][/us/stat/128/4078-4080].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–296, § 12(a)(1)][/us/pl/113/296/s12/a/1], substituted “covered” for “renewable”.
+    2014—Subsec. (a)(1). [Pub. L. 113–296][/us/pl/113/296], § 12(a)(1), substituted “covered” for “renewable”.
 
-    Subsec. (a)(4). [Pub. L. 113–296, § 12(a)(2)][/us/pl/113/296/s12/a/2], substituted “possible—” for “possible”, designated remaining existing provisions as subpar. (A), and added subpar. (B).
+    Subsec. (a)(4). [Pub. L. 113–296][/us/pl/113/296], § 12(a)(2), substituted “possible—” for “possible”, designated remaining existing provisions as subpar. (A), and added subpar. (B).
 
-    Subsec. (a)(6). [Pub. L. 113–296, § 12(a)(3)(A)][/us/pl/113/296/s12/a/3/A], substituted “covered” for “renewable”.
+    Subsec. (a)(6). [Pub. L. 113–296][/us/pl/113/296], § 12(a)(3)(A), substituted “covered” for “renewable”.
 
-    Subsec. (a)(7). [Pub. L. 113–296, § 12(a)(4)(A)][/us/pl/113/296/s12/a/4/A], substituted “covered” for “renewable”.
+    Subsec. (a)(7). [Pub. L. 113–296][/us/pl/113/296], § 12(a)(4)(A), substituted “covered” for “renewable”.
 
-    Subsec. (a)(8) to (16). [Pub. L. 113–296, § 12(a)(3)(B)][/us/pl/113/296/s12/a/3/B], (4)(B), (5), added pars. (8) to (16).
+    Subsec. (a)(8) to (16). [Pub. L. 113–296][/us/pl/113/296], § 12(a)(3)(B), (4)(B), (5), added pars. (8) to (16).
 
-    Subsec. (b)(1). [Pub. L. 113–296, § 12(b)(1)][/us/pl/113/296/s12/b/1], substituted “covered energy” for “renewable energy or energy efficiency”.
+    Subsec. (b)(1). [Pub. L. 113–296][/us/pl/113/296], § 12(b)(1), substituted “covered energy” for “renewable energy or energy efficiency”.
 
-    Subsec. (b)(2)(H), (I). [Pub. L. 113–296, § 12(b)(2)][/us/pl/113/296/s12/b/2], added subpars. (H) and (I).
+    Subsec. (b)(2)(H), (I). [Pub. L. 113–296][/us/pl/113/296], § 12(b)(2), added subpars. (H) and (I).
 
-    Subsec. (b)(3)(A). [Pub. L. 113–296, § 12(b)(3)][/us/pl/113/296/s12/b/3], substituted “covered” for “energy efficiency or renewable”.
+    Subsec. (b)(3)(A). [Pub. L. 113–296][/us/pl/113/296], § 12(b)(3), substituted “covered” for “energy efficiency or renewable”.
 
-    Subsec. (c). [Pub. L. 113–296, § 12(c)(1)(C)][/us/pl/113/296/s12/c/1/C], added subsec. (c). Former subsec. (c) redesignated (e).
+    Subsec. (c). [Pub. L. 113–296][/us/pl/113/296], § 12(c)(1)(C), added subsec. (c). Former subsec. (c) redesignated (e).
 
-    Subsec. (d). [Pub. L. 113–296, § 12(c)(1)(A)][/us/pl/113/296/s12/c/1/A], (C), added subsec. (d) and struck out former subsec. (d) which related to authorization of appropriations.
+    Subsec. (d). [Pub. L. 113–296][/us/pl/113/296], § 12(c)(1)(A), (C), added subsec. (d) and struck out former subsec. (d) which related to authorization of appropriations.
 
-    Subsec. (e). [Pub. L. 113–296, § 12(c)(1)(B)][/us/pl/113/296/s12/c/1/B], (D), redesignated subsec. (c) as (e) and substituted “September 30, 2024” for “the date that is 7 years after December 19, 2007”.
+    Subsec. (e). [Pub. L. 113–296][/us/pl/113/296], § 12(c)(1)(B), (D), redesignated subsec. (c) as (e) and substituted “September 30, 2024” for “the date that is 7 years after December 19, 2007”.
 
 ----------
 
@@ -258,20 +258,20 @@
 
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/110/140/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs917
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1730
-[/us/pl/113/296/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fa
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4078-4080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4078-4080
-[/us/pl/113/296/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fa%2F1
-[/us/pl/113/296/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fa%2F2
-[/us/pl/113/296/s12/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fa%2F3%2FA
-[/us/pl/113/296/s12/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fa%2F4%2FA
-[/us/pl/113/296/s12/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fa%2F3%2FB
-[/us/pl/113/296/s12/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fb%2F1
-[/us/pl/113/296/s12/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fb%2F2
-[/us/pl/113/296/s12/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fb%2F3
-[/us/pl/113/296/s12/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fc%2F1%2FC
-[/us/pl/113/296/s12/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fc%2F1%2FA
-[/us/pl/113/296/s12/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fc%2F1%2FB
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 
 

@@ -37,7 +37,7 @@
 
         (2) not be considered to impose an undue burden on interstate commerce or to otherwise impair, restrain, or discriminate, against interstate commerce.
 
-([Pub. L. 109–58, title XIV, § 1402][/us/pl/109/58/s1402], Aug. 8, 2005, [119 Stat. 1061][/us/stat/119/1061].)
+([Pub. L. 109–58, title XIV][/us/pl/109/58/tXIV], § 1402, Aug. 8, 2005, [119 Stat. 1061][/us/stat/119/1061].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1402
+[/us/pl/109/58/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIV
 [/us/stat/119/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1061
 
 

@@ -61,7 +61,7 @@
 
         The term “part 1 violent crimes” means murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault as reported to the Federal Bureau of Investigation for purposes of the Uniform Crime Reports.
 
-([Pub. L. 90–351, title I, § 1809][/us/pl/90/351/s1809], as added [Pub. L. 107–273, div. C, title II, § 12102(a)][/us/pl/107/273/s12102/a], Nov. 2, 2002, [116 Stat. 1867][/us/stat/116/1867].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1809, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1867][/us/stat/116/1867].)
 
 ----------
 
@@ -73,8 +73,8 @@
 [/us/usc/t42/s3796ee–3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%933%2Fe
 [/us/usc/t42/s3796ee–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%933%2Fa
 [/us/usc/t42/s3796ee/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%2Fb
-[/us/pl/90/351/s1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1809
-[/us/pl/107/273/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1867
 
 

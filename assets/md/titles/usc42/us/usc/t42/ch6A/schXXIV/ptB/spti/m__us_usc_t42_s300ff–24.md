@@ -63,7 +63,7 @@
 
             (B) nursing home and other long term care facilities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2614, as added [Pub. L. 101–381, title II, § 201][/us/pl/101/381/s201], Aug. 18, 1990, [104 Stat. 589][/us/stat/104/589]; amended [Pub. L. 109–415, title II][/us/pl/109/415], §§ 201(c)(2), 204(a), (b), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2788][/us/stat/120/2788], 2796, 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2614, as added [Pub. L. 101–381, title II][/us/pl/101/381/tII], § 201, Aug. 18, 1990, [104 Stat. 589][/us/stat/104/589]; amended [Pub. L. 109–415, title II][/us/pl/109/415/tII], §§ 201(c)(2), 204(a), (b), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2788][/us/stat/120/2788], 2796, 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __Prior Provisions__ 
 
@@ -71,21 +71,21 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+    [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
-    Subsec. (a). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
+    Subsec. (a). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
 
-    [Pub. L. 109–415, § 201(c)(2)(A)][/us/pl/109/415/s201/c/2/A], substituted “[section 300ff–22(b)(3)(J) of this title][/us/usc/t42/s300ff–22/b/3/J]” for “[section 300ff–22(a)(2) of this title][/us/usc/t42/s300ff–22/a/2]” in introductory provisions.
+    [Pub. L. 109–415][/us/pl/109/415], § 201(c)(2)(A), substituted “[section 300ff–22(b)(3)(J) of this title][/us/usc/t42/s300ff–22/b/3/J]” for “[section 300ff–22(a)(2) of this title][/us/usc/t42/s300ff–22/a/2]” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 109–415, § 204(b)][/us/pl/109/415/s204/b], inserted “, including specialty care and vaccinations for hepatitis co-infection,” after “health services”.
+    Subsec. (a)(3). [Pub. L. 109–415][/us/pl/109/415], § 204(b), inserted “, including specialty care and vaccinations for hepatitis co-infection,” after “health services”.
 
-    Subsec. (c). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
+    Subsec. (c). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
 
-    Subsec. (c)(2)(B). [Pub. L. 109–415, § 201(c)(2)(B)][/us/pl/109/415/s201/c/2/B], struck out “homemaker or” before “home health”.
+    Subsec. (c)(2)(B). [Pub. L. 109–415][/us/pl/109/415], § 201(c)(2)(B), struck out “homemaker or” before “home health”.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -102,27 +102,27 @@
 [/us/usc/t42/s300ff–22/b/3/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fb%2F3%2FJ
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs201
+[/us/pl/101/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtII
 [/us/stat/104/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F589
-[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2788
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/usc/t42/s238m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238m
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s201/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fc%2F2%2FA
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–22/b/3/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fb%2F3%2FJ
 [/us/usc/t42/s300ff–22/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fa%2F2
-[/us/pl/109/415/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fb
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s201/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fc%2F2%2FB
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

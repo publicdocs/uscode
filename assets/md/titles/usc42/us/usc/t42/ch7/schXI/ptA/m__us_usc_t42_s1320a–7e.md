@@ -149,7 +149,7 @@
 
             For purposes of paragraph (1), the existence of a conviction shall be determined under paragraphs (1) through (4) of [section 1320a–7(i) of this title][/us/usc/t42/s1320a–7/i].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128E, as added [Pub. L. 104–191, title II, § 221(a)][/us/pl/104/191/s221/a], Aug. 21, 1996, [110 Stat. 2009][/us/stat/110/2009]; amended [Pub. L. 105–33, title IV, § 4331(a)(2)][/us/pl/105/33/s4331/a/2], (b), (d), Aug. 5, 1997, [111 Stat. 395][/us/stat/111/395], 396; [Pub. L. 111–148, title VI, § 6403(a)][/us/pl/111/148/s6403/a], Mar. 23, 2010, [124 Stat. 763][/us/stat/124/763].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128E, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 221(a), Aug. 21, 1996, [110 Stat. 2009][/us/stat/110/2009]; amended [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4331(a)(2), (b), (d), Aug. 5, 1997, [111 Stat. 395][/us/stat/111/395], 396; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6403(a), Mar. 23, 2010, [124 Stat. 763][/us/stat/124/763].)
 
  __References in Text__ 
 
@@ -159,45 +159,45 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 6403(a)(1)][/us/pl/111/148/s6403/a/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section.”
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section.”
 
-    Subsec. (d). [Pub. L. 111–148, § 6403(a)(2)][/us/pl/111/148/s6403/a/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+    Subsec. (d). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 
     “(1) Availability.—The information in the database maintained under this section shall be available to Federal and State government agencies and health plans pursuant to procedures that the Secretary shall provide by regulation.
 
     “(2) Fees for disclosure.—The Secretary may establish or approve reasonable fees for the disclosure of information in such database (other than with respect to requests by Federal agencies). The amount of such a fee shall be sufficient to recover the full costs of operating the database. Such fees shall be available to the Secretary or, in the Secretary’s discretion to the agency designated under this section to cover such costs.”
 
-    Subsec. (f). [Pub. L. 111–148, § 6403(a)(3)][/us/pl/111/148/s6403/a/3], added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “The Secretary shall implement this section in such a manner as to avoid duplication with the reporting requirements established for the National Practitioner Data Bank under the Health Care Quality Improvement Act of 1986 ([42 U.S.C. 11101][/us/usc/t42/s11101] et seq.).”
+    Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(3), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “The Secretary shall implement this section in such a manner as to avoid duplication with the reporting requirements established for the National Practitioner Data Bank under the Health Care Quality Improvement Act of 1986 ([42 U.S.C. 11101][/us/usc/t42/s11101] et seq.).”
 
-    Subsec. (g)(1)(A)(iii). [Pub. L. 111–148, § 6403(a)(4)(A)(i)(I)][/us/pl/111/148/s6403/a/4/A/i/I], struck out “or State” after “Federal” in introductory provisions.
+    Subsec. (g)(1)(A)(iii). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(A)(i)(I), struck out “or State” after “Federal” in introductory provisions.
 
-    Subsec. (g)(1)(A)(iii)(II). [Pub. L. 111–148, § 6403(a)(4)(A)(i)(III)][/us/pl/111/148/s6403/a/4/A/i/III], added subcl. (II).
+    Subsec. (g)(1)(A)(iii)(II). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(A)(i)(III), added subcl. (II).
 
-    Subsec. (g)(1)(A)(iii)(III). [Pub. L. 111–148, § 6403(a)(4)(A)(i)(II)][/us/pl/111/148/s6403/a/4/A/i/II], redesignated subcl. (II) as (III). Former subcl. (III) redesignated (IV).
+    Subsec. (g)(1)(A)(iii)(III). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(A)(i)(II), redesignated subcl. (II) as (III). Former subcl. (III) redesignated (IV).
 
-    [Pub. L. 111–148, § 6403(a)(4)(A)(i)(I)][/us/pl/111/148/s6403/a/4/A/i/I], struck out “or State” after “Federal”.
+    [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(A)(i)(I), struck out “or State” after “Federal”.
 
-    Subsec. (g)(1)(A)(iii)(IV). [Pub. L. 111–148, § 6403(a)(4)(A)(i)(II)][/us/pl/111/148/s6403/a/4/A/i/II], redesignated subcl. (III) as (IV).
+    Subsec. (g)(1)(A)(iii)(IV). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(A)(i)(II), redesignated subcl. (III) as (IV).
 
-    Subsec. (g)(1)(A)(iv). [Pub. L. 111–148, § 6403(a)(4)(A)(ii)][/us/pl/111/148/s6403/a/4/A/ii], added cl. (iv) and struck out former cl. (iv) which read as follows: “Exclusion from participation in Federal or State health care programs (as defined in sections 1320a–7b(f) and 1320a–7(h) of this title, respectively).”
+    Subsec. (g)(1)(A)(iv). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(A)(ii), added cl. (iv) and struck out former cl. (iv) which read as follows: “Exclusion from participation in Federal or State health care programs (as defined in sections 1320a–7b(f) and 1320a–7(h) of this title, respectively).”
 
-    Subsec. (g)(3)(D). [Pub. L. 111–148, § 6403(a)(4)(C)][/us/pl/111/148/s6403/a/4/C], which directed amendment of subpar. (D) of subsec. (g) by striking out “or State”, was executed by striking out “or State” after “Federal” in subpar. (D) of subsec. (g)(3) to reflect the probable intent of Congress.
+    Subsec. (g)(3)(D). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(C), which directed amendment of subpar. (D) of subsec. (g) by striking out “or State”, was executed by striking out “or State” after “Federal” in subpar. (D) of subsec. (g)(3) to reflect the probable intent of Congress.
 
-    [Pub. L. 111–148, § 6403(a)(4)(B)][/us/pl/111/148/s6403/a/4/B], redesignated subpar. (F) as (D) and struck out former subpar. (D) which read as follows: “State law enforcement agencies.”
+    [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(B), redesignated subpar. (F) as (D) and struck out former subpar. (D) which read as follows: “State law enforcement agencies.”
 
-    Subsec. (g)(3)(E). [Pub. L. 111–148, § 6403(a)(4)(B)(i)][/us/pl/111/148/s6403/a/4/B/i], struck out subpar. (E) which read as follows: “State medicaid fraud control units.”
+    Subsec. (g)(3)(E). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(B)(i), struck out subpar. (E) which read as follows: “State medicaid fraud control units.”
 
-    Subsec. (g)(3)(F). [Pub. L. 111–148, § 6403(a)(4)(B)(ii)][/us/pl/111/148/s6403/a/4/B/ii], redesignated subpar. (F) as (D).
+    Subsec. (g)(3)(F). [Pub. L. 111–148][/us/pl/111/148], § 6403(a)(4)(B)(ii), redesignated subpar. (F) as (D).
 
-    1997—Subsec. (b)(6). [Pub. L. 105–33, § 4331(d)][/us/pl/105/33/s4331/d], added par. (6).
+    1997—Subsec. (b)(6). [Pub. L. 105–33][/us/pl/105/33], § 4331(d), added par. (6).
 
-    Subsec. (g)(3)(C). [Pub. L. 105–33, § 4331(a)(2)][/us/pl/105/33/s4331/a/2], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    Subsec. (g)(3)(C). [Pub. L. 105–33][/us/pl/105/33], § 4331(a)(2), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    Subsec. (g)(5). [Pub. L. 105–33, § 4331(b)][/us/pl/105/33/s4331/b], substituted “paragraphs (1) through (4)” for “paragraph (4)”.
+    Subsec. (g)(5). [Pub. L. 105–33][/us/pl/105/33], § 4331(b), substituted “paragraphs (1) through (4)” for “paragraph (4)”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title IV, § 4331(f)][/us/pl/105/33/s4331/f], Aug. 5, 1997, [111 Stat. 396][/us/stat/111/396], provided that:
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4331(f), Aug. 5, 1997, [111 Stat. 396][/us/stat/111/396], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -213,7 +213,7 @@
 
  __Transition Process; Regulations; Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title VI, § 6403(d)][/us/pl/111/148/s6403/d], Mar. 23, 2010, [124 Stat. 766][/us/stat/124/766], provided that:
+[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6403(d), Mar. 23, 2010, [124 Stat. 766][/us/stat/124/766], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -272,37 +272,37 @@
 [/us/usc/t42/s1320a–7c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937c%2Fc
 [/us/usc/t42/s1320a–7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fi
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs221%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2009
-[/us/pl/105/33/s4331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4331%2Fa%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F395
-[/us/pl/111/148/s6403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F763
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/stat/100/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3784
 [/us/usc/t42/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11101
-[/us/pl/111/148/s6403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F1
-[/us/pl/111/148/s6403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F2
-[/us/pl/111/148/s6403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11101
-[/us/pl/111/148/s6403/a/4/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FA%2Fi%2FI
-[/us/pl/111/148/s6403/a/4/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FA%2Fi%2FIII
-[/us/pl/111/148/s6403/a/4/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FA%2Fi%2FII
-[/us/pl/111/148/s6403/a/4/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FA%2Fi%2FI
-[/us/pl/111/148/s6403/a/4/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FA%2Fi%2FII
-[/us/pl/111/148/s6403/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FA%2Fii
-[/us/pl/111/148/s6403/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FC
-[/us/pl/111/148/s6403/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FB
-[/us/pl/111/148/s6403/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FB%2Fi
-[/us/pl/111/148/s6403/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fa%2F4%2FB%2Fii
-[/us/pl/105/33/s4331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4331%2Fd
-[/us/pl/105/33/s4331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4331%2Fa%2F2
-[/us/pl/105/33/s4331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4331%2Fb
-[/us/pl/105/33/s4331/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4331%2Ff
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F396
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t42/s1320a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937
-[/us/pl/111/148/s6403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fd
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F766
 [/us/usc/t42/s1320a–7e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937e
 [/us/usc/t42/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11101

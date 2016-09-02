@@ -241,7 +241,7 @@
 
         (2) In no case shall the funding under this section exceed $100,000,000 in aggregate increased expenditures under this subchapter (after taking into account any savings attributable to the operation of this section) over the 3-fiscal-year period beginning on October 1, 2003.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1807, as added [Pub. L. 108–173, title VII, § 721(a)][/us/pl/108/173/s721/a], Dec. 8, 2003, [117 Stat. 2341][/us/stat/117/2341].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1807, as added [Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 721(a), Dec. 8, 2003, [117 Stat. 2341][/us/stat/117/2341].)
 
  __References in Text__ 
 
@@ -249,7 +249,7 @@
 
  __Demonstration Project for Consumer-Directed Chronic Outpatient Services__ 
 
-[Pub. L. 108–173, title VI, § 648][/us/pl/108/173/s648], Dec. 8, 2003, [117 Stat. 2327][/us/stat/117/2327], provided that:
+[Pub. L. 108–173, title VI][/us/pl/108/173/tVI], § 648, Dec. 8, 2003, [117 Stat. 2327][/us/stat/117/2327], provided that:
 
 >     “(a) __Establishment.—__ 
 
@@ -315,7 +315,7 @@
 
  __Reports__ 
 
-[Pub. L. 108–173, title VII, § 721(b)][/us/pl/108/173/s721/b], Dec. 8, 2003, [117 Stat. 2346][/us/stat/117/2346], provided that: 
+[Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 721(b), Dec. 8, 2003, [117 Stat. 2346][/us/stat/117/2346], provided that: 
 
 > “The Secretary \[of Health and Human Services\] shall submit to Congress reports on the operation of section 1807 of the Social Security Act \[[42 U.S.C. 1395b–8][/us/usc/t42/s1395b–8]\], as added by subsection (a), as follows:
 
@@ -345,7 +345,7 @@
 
  __Chronically Ill Medicare Beneficiary Research, Data, Demonstration Strategy__ 
 
-[Pub. L. 108–173, title VII, § 723][/us/pl/108/173/s723], Dec. 8, 2003, [117 Stat. 2348][/us/stat/117/2348], provided that:
+[Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 723, Dec. 8, 2003, [117 Stat. 2348][/us/stat/117/2348], provided that:
 
 >     “(a)  __Development of Plan__  __.—__ 
 
@@ -384,9 +384,9 @@
 
 [/us/usc/t42/s1395x/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fd
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/108/173/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs721%2Fa
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2341
-[/us/pl/108/173/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs648
+[/us/pl/108/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVI
 [/us/stat/117/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2327
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
@@ -397,10 +397,10 @@
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
-[/us/pl/108/173/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs721%2Fb
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2346
 [/us/usc/t42/s1395b–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%938
-[/us/pl/108/173/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs723
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2348
 
 

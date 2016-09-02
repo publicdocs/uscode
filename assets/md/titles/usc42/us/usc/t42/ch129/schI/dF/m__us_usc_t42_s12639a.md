@@ -143,7 +143,7 @@
 
         Nothing in this chapter shall be construed to authorize the development, implementation, or maintenance of a Federal database of personally identifiable information on individuals participating in data collection for sources of information under this section.
 
-([Pub. L. 101–610, title I, § 179A][/us/pl/101/610/s179A], as added [Pub. L. 111–13, title I, § 1608(a)][/us/pl/111/13/s1608/a], Apr. 21, 2009, [123 Stat. 1534][/us/stat/123/1534].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 179A, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1608(a), Apr. 21, 2009, [123 Stat. 1534][/us/stat/123/1534].)
 
  __References in Text__ 
 
@@ -161,8 +161,8 @@
 ----------
 
 [/us/usc/t36/s150701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs150701
-[/us/pl/101/610/s179A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs179A
-[/us/pl/111/13/s1608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1608%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1534
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127

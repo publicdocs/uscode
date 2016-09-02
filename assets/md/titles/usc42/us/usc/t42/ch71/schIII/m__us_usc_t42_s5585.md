@@ -47,7 +47,7 @@
 
         The Secretary shall, as he deems appropriate, undertake any projects or activities (including demonstration projects) to further the attainment of the objectives of this section.
 
-([Pub. L. 95–590, § 6][/us/pl/95/590/s6], Nov. 4, 1978, [92 Stat. 2516][/us/stat/92/2516].)
+([Pub. L. 95–590][/us/pl/95/590], § 6, Nov. 4, 1978, [92 Stat. 2516][/us/stat/92/2516].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t42/s5586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5586
-[/us/pl/95/590/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs6
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2516
 
 

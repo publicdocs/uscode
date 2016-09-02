@@ -23,11 +23,11 @@
 
         The Secretary, in collaboration with the Secretary of Veterans Affairs, the Secretary of Transportation, the Secretary of Defense, the Secretary of Homeland Security, and the head of any other relevant Federal agency, shall establish an interagency agreement, consistent with the National Response Plan or any successor plan, under which agreement the Secretary of Health and Human Services shall assume operational control of emergency public health and medical response assets, as necessary, in the event of a public health emergency, except that members of the armed forces under the authority of the Secretary of Defense shall remain under the command and control of the Secretary of Defense, as shall any associated assets of the Department of Defense.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2801, as added [Pub. L. 107–188, title I, § 101(a)][/us/pl/107/188/s101/a], June 12, 2002, [116 Stat. 596][/us/stat/116/596]; amended [Pub. L. 109–417, title I, § 101(2)][/us/pl/109/417/s101/2], Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2801, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 101(a), June 12, 2002, [116 Stat. 596][/us/stat/116/596]; amended [Pub. L. 109–417, title I][/us/pl/109/417/tI], § 101(2), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832].)
 
  __References in Text__ 
 
-    [Section 314(6) of title 6][/us/usc/t6/s314/6], referred to in subsec. (a), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning [section 504(6) of Pub. L. 107–296][/us/pl/107/296/s504/6], to reflect the probable intent of Congress and the renumbering of section 502 as 504 by [Pub. L. 109–295, title VI, § 611(8)][/us/pl/109/295/s611/8], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
+    [Section 314(6) of title 6][/us/usc/t6/s314/6], referred to in subsec. (a), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning [section 504(6) of Pub. L. 107–296][/us/pl/107/296/s504/6], to reflect the probable intent of Congress and the renumbering of section 502 as 504 by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(8), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Government Accountability Office Report__ 
 
-[Pub. L. 107–188, title I, § 157][/us/pl/107/188/s157], June 12, 2002, [116 Stat. 633][/us/stat/116/633], provided that:
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 157, June 12, 2002, [116 Stat. 633][/us/stat/116/633], provided that:
 
 >     “(a) __ In General__  __\[sic\].—__ 
 
@@ -61,16 +61,16 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs101%2Fa
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F596
-[/us/pl/109/417/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs101%2F2
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2832
 [/us/usc/t6/s314/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314%2F6
 [/us/pl/107/296/s504/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs504%2F6
-[/us/pl/109/295/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F8
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
-[/us/pl/107/188/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs157
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F633
 
 

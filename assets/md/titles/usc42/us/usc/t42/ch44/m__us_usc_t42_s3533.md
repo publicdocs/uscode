@@ -143,7 +143,7 @@
 
             In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
 
-([Pub. L. 89–174, § 4][/us/pl/89/174/s4], Sept. 9, 1965, [79 Stat. 668][/us/stat/79/668]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–284, title VIII, § 808(b)(1)][/us/pl/90/284/s808/b/1], Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 90–448, title XVII, § 1708(a)][/us/pl/90/448/s1708/a], Aug. 1, 1968, [82 Stat. 606][/us/stat/82/606]; [Pub. L. 91–609, title IX, § 917][/us/pl/91/609/s917], Dec. 31, 1970, [84 Stat. 1816][/us/stat/84/1816]; [Pub. L. 93–383, title VIII, § 818(a)][/us/pl/93/383/s818/a], Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740]; [Pub. L. 95–128, title IX, § 901][/us/pl/95/128/s901], Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 101–235, title I][/us/pl/101/235], §§ 121, 122, 140, Dec. 15, 1989, [103 Stat. 2021][/us/stat/103/2021], 2030; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; [Pub. L. 101–576, title II, § 205(c)(2)][/us/pl/101/576/s205/c/2], Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845]; [Pub. L. 102–550, title IX, § 902(a)(1)][/us/pl/102/550/s902/a/1], Oct. 28, 1992, [106 Stat. 3866][/us/stat/106/3866]; [Pub. L. 111–203, title XIV, § 1442][/us/pl/111/203/s1442], July 21, 2010, [124 Stat. 2163][/us/stat/124/2163]; [Pub. L. 112–166, § 2(g)][/us/pl/112/166/s2/g], Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
+([Pub. L. 89–174][/us/pl/89/174], § 4, Sept. 9, 1965, [79 Stat. 668][/us/stat/79/668]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 808(b)(1), Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 90–448, title XVII][/us/pl/90/448/tXVII], § 1708(a), Aug. 1, 1968, [82 Stat. 606][/us/stat/82/606]; [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 917, Dec. 31, 1970, [84 Stat. 1816][/us/stat/84/1816]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 818(a), Aug. 22, 1974, [88 Stat. 740][/us/stat/88/740]; [Pub. L. 95–128, title IX][/us/pl/95/128/tIX], § 901, Oct. 12, 1977, [91 Stat. 1148][/us/stat/91/1148]; [Pub. L. 101–235, title I][/us/pl/101/235/tI], §§ 121, 122, 140, Dec. 15, 1989, [103 Stat. 2021][/us/stat/103/2021], 2030; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(c)(2), Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 902(a)(1), Oct. 28, 1992, [106 Stat. 3866][/us/stat/106/3866]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1442, July 21, 2010, [124 Stat. 2163][/us/stat/124/2163]; [Pub. L. 112–166][/us/pl/112/166], § 2(g), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
 
  __References in Text__ 
 
@@ -153,7 +153,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 624b of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to section 624b of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -167,25 +167,25 @@
 
     Subsec. (e). [Pub. L. 101–576][/us/pl/101/576] struck out subsec. (e), added by [section 121 of Pub. L. 101–235][/us/pl/101/235/s121], which related to Chief Financial Officer.
 
-    1989—Subsec. (a). [Pub. L. 101–235, § 140(2)][/us/pl/101/235/s140/2], designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as (b).
+    1989—Subsec. (a). [Pub. L. 101–235][/us/pl/101/235], § 140(2), designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as (b).
 
-    Subsec. (b). [Pub. L. 101–235, § 140][/us/pl/101/235/s140], designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as subsec. (b) and sentence at end requiring Secretary to ensure that managers are accountable for certain aspects of the programs. Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 101–235][/us/pl/101/235], § 140, designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as subsec. (b) and sentence at end requiring Secretary to ensure that managers are accountable for certain aspects of the programs. Former subsec. (b) redesignated (c).
 
-    Subsecs. (c), (d). [Pub. L. 101–235, § 140(1)][/us/pl/101/235/s140/1], redesignated subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 101–235][/us/pl/101/235], § 140(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 101–235, § 140(1)][/us/pl/101/235/s140/1], redesignated former subsec. (d), relating to Special Assistant for Indian and Alaska Native Programs, as (e).
+    Subsec. (e). [Pub. L. 101–235][/us/pl/101/235], § 140(1), redesignated former subsec. (d), relating to Special Assistant for Indian and Alaska Native Programs, as (e).
 
-    [Pub. L. 101–235, § 121][/us/pl/101/235/s121], added subsec. (e) relating to Chief Financial Officer.
+    [Pub. L. 101–235][/us/pl/101/235], § 121, added subsec. (e) relating to Chief Financial Officer.
 
-    Subsec. (f). [Pub. L. 101–235, § 122][/us/pl/101/235/s122], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–235][/us/pl/101/235], § 122, added subsec. (f).
 
     1977—Subsec. (d). [Pub. L. 95–128][/us/pl/95/128] added subsec. (d).
 
-    1974—Subsec. (a). [Pub. L. 93–383, § 818(a)(1)][/us/pl/93/383/s818/a/1], increased number of Assistant Secretaries from six to eight.
+    1974—Subsec. (a). [Pub. L. 93–383][/us/pl/93/383], § 818(a)(1), increased number of Assistant Secretaries from six to eight.
 
-    Subsec. (b). [Pub. L. 93–383, § 818(a)(2)][/us/pl/93/383/s818/a/2], (3), redesignated former subsec. (c) as (b). Former subsec. (b), which related to appointment and functions of an Assistant Secretary for Administration, was struck out.
+    Subsec. (b). [Pub. L. 93–383][/us/pl/93/383], § 818(a)(2), (3), redesignated former subsec. (c) as (b). Former subsec. (b), which related to appointment and functions of an Assistant Secretary for Administration, was struck out.
 
-    Subsecs. (c), (d). [Pub. L. 93–383, § 818(a)(3)][/us/pl/93/383/s818/a/3], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsecs. (c), (d). [Pub. L. 93–383][/us/pl/93/383], § 818(a)(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
     1970—Subsec. (d). [Pub. L. 91–609][/us/pl/91/609] added subsec. (d).
 
@@ -227,7 +227,7 @@ Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
 
  __Office of Inspector General__ 
 
-    Functions, powers, and duties of Office of Inspector General in Department of Housing and Urban Development transferred to Office of Inspector General in Department of Housing and Urban Development, as established by [Pub. L. 95–452, § 2][/us/pl/95/452/s2], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], set out in the Appendix to Title 5, Government Organization and Employees. See [section 9(a)(1)(G) of Pub. L. 95–452][/us/pl/95/452/s9/a/1/G], set out in Appendix to Title 5.
+    Functions, powers, and duties of Office of Inspector General in Department of Housing and Urban Development transferred to Office of Inspector General in Department of Housing and Urban Development, as established by [Pub. L. 95–452][/us/pl/95/452], § 2, Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], set out in the Appendix to Title 5, Government Organization and Employees. See [section 9(a)(1)(G) of Pub. L. 95–452][/us/pl/95/452/s9/a/1/G], set out in Appendix to Title 5.
 
 ----------
 
@@ -243,37 +243,37 @@ Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
 [/us/usc/t12/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2604
 [/us/usc/t12/s1701x/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701x%2Fe
 [/us/usc/t12/s1701x/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701x%2Fa%2F4
-[/us/pl/89/174/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs4
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F668
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F223
-[/us/pl/90/284/s808/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs808%2Fb%2F1
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F84
-[/us/pl/90/448/s1708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1708%2Fa
+[/us/pl/90/448/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXVII
 [/us/stat/82/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F606
-[/us/pl/91/609/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs917
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1816
-[/us/pl/93/383/s818/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs818%2Fa
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F740
-[/us/pl/95/128/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs901
+[/us/pl/95/128/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtIX
 [/us/stat/91/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1148
-[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2021
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/576/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs205%2Fc%2F2
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2845
-[/us/pl/102/550/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs902%2Fa%2F1
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3866
-[/us/pl/111/203/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1442
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2163
-[/us/pl/112/166/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fg
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1285
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2172
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -281,16 +281,16 @@ Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/pl/101/235/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs121
-[/us/pl/101/235/s140/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs140%2F2
-[/us/pl/101/235/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs140
-[/us/pl/101/235/s140/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs140%2F1
-[/us/pl/101/235/s140/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs140%2F1
-[/us/pl/101/235/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs121
-[/us/pl/101/235/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs122
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
-[/us/pl/93/383/s818/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs818%2Fa%2F1
-[/us/pl/93/383/s818/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs818%2Fa%2F2
-[/us/pl/93/383/s818/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs818%2Fa%2F3
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
@@ -309,7 +309,7 @@ Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s3533/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3533%2Fe%2F1%2FB
-[/us/pl/95/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs2
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/95/452/s9/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs9%2Fa%2F1%2FG
 

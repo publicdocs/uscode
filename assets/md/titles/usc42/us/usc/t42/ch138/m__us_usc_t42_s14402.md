@@ -117,7 +117,7 @@
 
             Nothing in this subsection shall be construed as limiting the application of subsection (a) of this section to the programs specified in paragraph (1) or the application of subsection (c) of this section to the facilities and personnel specified in paragraph (2).
 
-([Pub. L. 105–12, § 3][/us/pl/105/12/s3], Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23].)
+([Pub. L. 105–12][/us/pl/105/12], § 3, Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23].)
 
  __References in Text__ 
 
@@ -144,7 +144,7 @@
 [/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
 [/us/usc/t22/s2504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504%2Fe
 [/us/usc/t18/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4005%2Fa
-[/us/pl/105/12/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs3
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23

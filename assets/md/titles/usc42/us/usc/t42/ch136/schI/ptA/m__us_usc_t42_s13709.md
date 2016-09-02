@@ -75,25 +75,25 @@
 
         (3) any other alternatives as the Attorney General, in coordination with the Bureau of Indian Affairs and in consultation with Indian tribes, determines to be necessary.
 
-([Pub. L. 103–322, title II, § 20109][/us/pl/103/322/s20109], as added [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–20; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 111–211, title II, § 244][/us/pl/111/211/s244], July 29, 2010, [124 Stat. 2294][/us/stat/124/2294].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20109, as added [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–20; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; amended [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 244, July 29, 2010, [124 Stat. 2294][/us/stat/124/2294].)
 
  __Prior Provisions__ 
 
-    A prior section 13709, [Pub. L. 103–322, title II, § 20109][/us/pl/103/322/s20109], Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], authorized appropriations to carry out this part prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
+    A prior section 13709, [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20109, Sept. 13, 1994, [108 Stat. 1818][/us/stat/108/1818], authorized appropriations to carry out this part prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 244(a)][/us/pl/111/211/s244/a], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Notwithstanding any other provision of this part other than [section 13708(a)(2) of this title][/us/usc/t42/s13708/a/2], from amounts appropriated to carry out sections 13703 and 13704 of this title, the Attorney General shall reserve, to carry out this section—
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 244(a), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Notwithstanding any other provision of this part other than [section 13708(a)(2) of this title][/us/usc/t42/s13708/a/2], from amounts appropriated to carry out sections 13703 and 13704 of this title, the Attorney General shall reserve, to carry out this section—
 
     “(1) 0.3 percent in each of fiscal years 1996 and 1997; and
 
     “(2) 0.2 percent in each of fiscal years 1998, 1999, and 2000.”
 
-    Subsec. (b). [Pub. L. 111–211, § 244(b)(1)][/us/pl/111/211/s244/b/1], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “From the amounts reserved under subsection (a) of this section, the Attorney General may make grants to Indian tribes for the purposes of constructing jails on tribal lands for the incarceration of offenders subject to tribal jurisdiction.”
+    Subsec. (b). [Pub. L. 111–211][/us/pl/111/211], § 244(b)(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “From the amounts reserved under subsection (a) of this section, the Attorney General may make grants to Indian tribes for the purposes of constructing jails on tribal lands for the incarceration of offenders subject to tribal jurisdiction.”
 
-    Subsec. (c). [Pub. L. 111–211, § 244(b)(2)][/us/pl/111/211/s244/b/2], inserted “or consortium of Indian tribes, as applicable,” after “Indian tribe”.
+    Subsec. (c). [Pub. L. 111–211][/us/pl/111/211], § 244(b)(2), inserted “or consortium of Indian tribes, as applicable,” after “Indian tribe”.
 
-    Subsec. (d). [Pub. L. 111–211, § 244(b)(3)][/us/pl/111/211/s244/b/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–211][/us/pl/111/211], § 244(b)(3), added subsec. (d).
 
 ----------
 
@@ -103,20 +103,20 @@
 ----------
 
 [/us/usc/t25/s2453/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2453%2Fa%2F3
-[/us/pl/103/322/s20109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20109
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/111/211/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs244
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2294
-[/us/pl/103/322/s20109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20109
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1818
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/111/211/s244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs244%2Fa
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/usc/t42/s13708/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13708%2Fa%2F2
-[/us/pl/111/211/s244/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs244%2Fb%2F1
-[/us/pl/111/211/s244/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs244%2Fb%2F2
-[/us/pl/111/211/s244/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs244%2Fb%2F3
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

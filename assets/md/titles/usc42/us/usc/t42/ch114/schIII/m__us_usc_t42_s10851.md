@@ -19,11 +19,11 @@
 
     (b) For purposes of this section, the term “individual with mental illness” has the same meaning as in section 10802(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 99–319, title III, § 301][/us/pl/99/319/s301], May 23, 1986, [100 Stat. 489][/us/stat/100/489]; [Pub. L. 102–173, § 10][/us/pl/102/173/s10], Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
+([Pub. L. 99–319, title III][/us/pl/99/319/tIII], § 301, May 23, 1986, [100 Stat. 489][/us/stat/100/489]; [Pub. L. 102–173][/us/pl/102/173], § 10, Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
 
  __References in Text__ 
 
-    [Section 10802(3) of this title][/us/usc/t42/s10802/3], referred to in subsec. (b), was redesignated [section 10802(4) of this title][/us/usc/t42/s10802/4] by [Pub. L. 102–173, § 4(1)][/us/pl/102/173/s4/1], Nov. 27, 1991, [105 Stat. 1217][/us/stat/105/1217].
+    [Section 10802(3) of this title][/us/usc/t42/s10802/3], referred to in subsec. (b), was redesignated [section 10802(4) of this title][/us/usc/t42/s10802/4] by [Pub. L. 102–173][/us/pl/102/173], § 4(1), Nov. 27, 1991, [105 Stat. 1217][/us/stat/105/1217].
 
  __Amendments__ 
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/99/319/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs301
+[/us/pl/99/319/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtIII
 [/us/stat/100/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F489
-[/us/pl/102/173/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1219
 [/us/usc/t42/s10802/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10802%2F3
 [/us/usc/t42/s10802/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10802%2F4
-[/us/pl/102/173/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs4%2F1
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1217
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 

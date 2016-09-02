@@ -25,7 +25,7 @@
 
     (4) The term “Program” means the C.W. Bill Young Cell Transplantation Program established under [section 274k of this title][/us/usc/t42/s274k].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 379A–1, as added [Pub. L. 109–129, § 3(c)][/us/pl/109/129/s3/c], Dec. 20, 2005, [119 Stat. 2562][/us/stat/119/2562].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 379A–1, as added [Pub. L. 109–129][/us/pl/109/129], § 3(c), Dec. 20, 2005, [119 Stat. 2562][/us/stat/119/2562].)
 
 ----------
 
@@ -37,7 +37,7 @@
 [/us/usc/t42/s274k/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k%2Fa%2F1
 [/us/usc/t42/s274k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/129/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129%2Fs3%2Fc
+[/us/pl/109/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129
 [/us/stat/119/2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2562
 
 

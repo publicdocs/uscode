@@ -27,7 +27,7 @@
 
     (5) the status of the energy efficient procurement program established under [section 8262h of this title][/us/usc/t42/s8262h].
 
-([Pub. L. 102–486, title I, § 165][/us/pl/102/486/s165], Oct. 24, 1992, [106 Stat. 2861][/us/stat/106/2861].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 165, Oct. 24, 1992, [106 Stat. 2861][/us/stat/106/2861].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s8262h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262h
-[/us/pl/102/486/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs165
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2861
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

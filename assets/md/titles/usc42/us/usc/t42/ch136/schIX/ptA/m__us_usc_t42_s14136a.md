@@ -47,7 +47,7 @@
 
         There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.
 
-([Pub. L. 108–405, title III, § 304][/us/pl/108/405/s304], Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360, § 4][/us/pl/110/360/s4], Oct. 8, 2008, [122 Stat. 4009][/us/stat/122/4009]; [Pub. L. 113–182, § 4][/us/pl/113/182/s4], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
+([Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 304, Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360][/us/pl/110/360], § 4, Oct. 8, 2008, [122 Stat. 4009][/us/stat/122/4009]; [Pub. L. 113–182][/us/pl/113/182], § 4, Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
 
  __Codification__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/108/405/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs304
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2273
-[/us/pl/110/360/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs4
+[/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
 [/us/stat/122/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4009
-[/us/pl/113/182/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs4
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
 [/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
 [/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
 [/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360

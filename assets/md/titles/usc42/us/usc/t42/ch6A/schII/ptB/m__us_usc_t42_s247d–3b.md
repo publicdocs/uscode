@@ -147,27 +147,27 @@
 
                 The continued availability of funds under subparagraph (A) with respect to an entity shall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as required under subsection (i).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319C–2, as added [Pub. L. 107–188, title I, § 131(a)][/us/pl/107/188/s131/a], June 12, 2002, [116 Stat. 624][/us/stat/116/624]; amended [Pub. L. 109–417, title III, § 305][/us/pl/109/417/s305], Dec. 19, 2006, [120 Stat. 2861][/us/stat/120/2861]; [Pub. L. 110–85, title XI, § 1104(1)][/us/pl/110/85/s1104/1], Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975]; [Pub. L. 113–5, title II][/us/pl/113/5], §§ 202(c)(2), 203(c), Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175], 176.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319C–2, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 131(a), June 12, 2002, [116 Stat. 624][/us/stat/116/624]; amended [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 305, Dec. 19, 2006, [120 Stat. 2861][/us/stat/120/2861]; [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1104(1), Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975]; [Pub. L. 113–5, title II][/us/pl/113/5/tII], §§ 202(c)(2), 203(c), Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175], 176.)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–5, § 203(c)(1)][/us/pl/113/5/s203/c/1], inserted “, including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals” before period at end.
+    2013—Subsec. (a). [Pub. L. 113–5][/us/pl/113/5], § 203(c)(1), inserted “, including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals” before period at end.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 113–5, § 203(c)(2)][/us/pl/113/5/s203/c/2], substituted “centers, community health centers, primary” for “centers, primary”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 113–5][/us/pl/113/5], § 203(c)(2), substituted “centers, community health centers, primary” for “centers, primary”.
 
-    Subsec. (c). [Pub. L. 113–5, § 203(c)(3)][/us/pl/113/5/s203/c/3], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “An award under subsection (a) shall be expended for activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of [section 300hh–1(b) of this title][/us/usc/t42/s300hh–1/b].”
+    Subsec. (c). [Pub. L. 113–5][/us/pl/113/5], § 203(c)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “An award under subsection (a) shall be expended for activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of [section 300hh–1(b) of this title][/us/usc/t42/s300hh–1/b].”
 
-    Subsec. (g). [Pub. L. 113–5, § 203(c)(4)][/us/pl/113/5/s203/c/4], added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the Cities Readiness Initiative, and local emergency plans.”
+    Subsec. (g). [Pub. L. 113–5][/us/pl/113/5], § 203(c)(4), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the Cities Readiness Initiative, and local emergency plans.”
 
-    Subsec. (i). [Pub. L. 113–5, § 203(c)(5)][/us/pl/113/5/s203/c/5], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (i). [Pub. L. 113–5][/us/pl/113/5], § 203(c)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    [Pub. L. 113–5, § 202(c)(2)(A)][/us/pl/113/5/s202/c/2/A], substituted “(i), and (j)” for “(j), and (k)”.
+    [Pub. L. 113–5][/us/pl/113/5], § 202(c)(2)(A), substituted “(i), and (j)” for “(j), and (k)”.
 
-    Subsec. (j)(1). [Pub. L. 113–5, § 203(c)(6)(A)][/us/pl/113/5/s203/c/6/A], amended par. (1) generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated $474,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011.”
+    Subsec. (j)(1). [Pub. L. 113–5][/us/pl/113/5], § 203(c)(6)(A), amended par. (1) generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated $474,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011.”
 
-    Subsec. (j)(3)(B). [Pub. L. 113–5, § 202(c)(2)(B)][/us/pl/113/5/s202/c/2/B], substituted “247d–3a(h)” for “247d–3a(i)”.
+    Subsec. (j)(3)(B). [Pub. L. 113–5][/us/pl/113/5], § 202(c)(2)(B), substituted “247d–3a(h)” for “247d–3a(i)”.
 
-    Subsec. (j)(4). [Pub. L. 113–5, § 203(c)(6)(B)][/us/pl/113/5/s203/c/6/B], added par. (4).
+    Subsec. (j)(4). [Pub. L. 113–5][/us/pl/113/5], § 203(c)(6)(B), added par. (4).
 
     2007—Subsec. (j)(3)(B). [Pub. L. 110–85][/us/pl/110/85] substituted “section 247d–3a(i)” for “section 247d–3a(h)”.
 
@@ -190,24 +190,24 @@
 [/us/usc/t42/s300hh–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931
 [/us/usc/t42/s247d–3a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a%2Fh
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs131%2Fa
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F624
-[/us/pl/109/417/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs305
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2861
-[/us/pl/110/85/s1104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F1
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F975
-[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtII
 [/us/stat/127/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F175
-[/us/pl/113/5/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fc%2F1
-[/us/pl/113/5/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fc%2F2
-[/us/pl/113/5/s203/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fc%2F3
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s300hh–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931%2Fb
-[/us/pl/113/5/s203/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fc%2F4
-[/us/pl/113/5/s203/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fc%2F5
-[/us/pl/113/5/s202/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fc%2F2%2FA
-[/us/pl/113/5/s203/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fc%2F6%2FA
-[/us/pl/113/5/s202/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fc%2F2%2FB
-[/us/pl/113/5/s203/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fc%2F6%2FB
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 

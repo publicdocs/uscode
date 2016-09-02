@@ -31,7 +31,7 @@
 
         (4) if the Secretary determines that it is appropriate, an analysis of the impact of expanding the approval of plans under [section 8235a(a) of this title][/us/usc/t42/s8235a/a] to establish prototype residential energy efficiency programs, and the provision of financial assistance to such programs, on a national basis and an assessment of the alternative methods by which such an expansion could be accomplished.
 
-([Pub. L. 95–619, title II, § 268][/us/pl/95/619/s268], as added [Pub. L. 96–294, title V, § 562][/us/pl/96/294/s562], June 30, 1980, [94 Stat. 750][/us/stat/94/750].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 268, as added [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 562, June 30, 1980, [94 Stat. 750][/us/stat/94/750].)
 
 ----------
 
@@ -45,8 +45,8 @@
 [/us/usc/t42/s8235a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235a%2Fa
 [/us/usc/t42/s8235a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235a%2Fa
 [/us/usc/t42/s8235a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235a%2Fa
-[/us/pl/95/619/s268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs268
-[/us/pl/96/294/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs562
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F750
 
 

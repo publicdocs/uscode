@@ -29,7 +29,7 @@
 
         (3) protection orders for the protection of persons from stalking or domestic violence.
 
-([Pub. L. 103–322, title IV, § 40602][/us/pl/103/322/s40602], Sept. 13, 1994, [108 Stat. 1951][/us/stat/108/1951]; [Pub. L. 106–386, div. B, title I, § 1106(b)][/us/pl/106/386/s1106/b], Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40602, Sept. 13, 1994, [108 Stat. 1951][/us/stat/108/1951]; [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1106(b), Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40602
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1951
-[/us/pl/106/386/s1106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1106%2Fb
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1497
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 

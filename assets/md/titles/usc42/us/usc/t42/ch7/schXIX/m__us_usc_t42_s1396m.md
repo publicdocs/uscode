@@ -43,7 +43,7 @@
 
         Notwithstanding any other provision of this subchapter, an institution or person shall not be entitled to recover from any State any amount in payment for medical care and services under this subchapter which is withheld by the State agency pursuant to an order by the Secretary under subsection (b) of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1914, as added [Pub. L. 96–499, title IX, § 905(d)][/us/pl/96/499/s905/d], Dec. 5, 1980, [94 Stat. 2618][/us/stat/94/2618].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1914, as added [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 905(d), Dec. 5, 1980, [94 Stat. 2618][/us/stat/94/2618].)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/usc/t42/s1395u/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F3%2FB%2Fii
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/499/s905/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs905%2Fd
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2618
 
 

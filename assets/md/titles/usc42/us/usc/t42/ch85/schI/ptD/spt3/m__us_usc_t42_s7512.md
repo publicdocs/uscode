@@ -117,7 +117,7 @@
 
         Any reference in this subpart to a “Moderate Area” or a “Serious Area” shall be considered a reference to a Moderate Area or a Serious Area, respectively, as classified under this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 186, as added [Pub. L. 101–549, title I, § 104][/us/pl/101/549/s104], Nov. 15, 1990, [104 Stat. 2452][/us/stat/104/2452].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 186, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 104, Nov. 15, 1990, [104 Stat. 2452][/us/stat/104/2452].)
 
 ----------
 
@@ -134,7 +134,7 @@
 [/us/usc/t42/s7407/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd%2F3
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs104
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2452
 
 

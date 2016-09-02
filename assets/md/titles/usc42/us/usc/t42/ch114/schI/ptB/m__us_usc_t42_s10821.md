@@ -35,17 +35,17 @@
 
         Applications submitted under this section shall remain in effect for a 4-year period, and the assurances required under this section shall be for the same 4-year period.
 
-([Pub. L. 99–319, title I, § 111][/us/pl/99/319/s111], May 23, 1986, [100 Stat. 482][/us/stat/100/482]; [Pub. L. 100–509, § 7(d)][/us/pl/100/509/s7/d], Oct. 20, 1988, [102 Stat. 2545][/us/stat/102/2545]; [Pub. L. 102–173][/us/pl/102/173], §§ 7, 10(2), Nov. 27, 1991, [105 Stat. 1218][/us/stat/105/1218], 1219; [Pub. L. 102–321, title I, § 163(c)(3)(A)][/us/pl/102/321/s163/c/3/A], July 10, 1992, [106 Stat. 377][/us/stat/106/377].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 111, May 23, 1986, [100 Stat. 482][/us/stat/100/482]; [Pub. L. 100–509][/us/pl/100/509], § 7(d), Oct. 20, 1988, [102 Stat. 2545][/us/stat/102/2545]; [Pub. L. 102–173][/us/pl/102/173], §§ 7, 10(2), Nov. 27, 1991, [105 Stat. 1218][/us/stat/105/1218], 1219; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(c)(3)(A), July 10, 1992, [106 Stat. 377][/us/stat/106/377].)
 
  __Amendments__ 
 
     1992—Subsec. (c). [Pub. L. 102–321][/us/pl/102/321] substituted “4-year” for “3-year” in two places.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–173, § 10(2)][/us/pl/102/173/s10/2], substituted “individuals with mental illness” for “mentally ill individuals”.
+    1991—Subsec. (a)(1). [Pub. L. 102–173][/us/pl/102/173], § 10(2), substituted “individuals with mental illness” for “mentally ill individuals”.
 
     Subsec. (a)(2). [Pub. L. 102–173][/us/pl/102/173], §§ 7(1), 10(2), substituted “individuals with mental illness” for “mentally ill individuals” and inserted before semicolon at end “and to work with family members of clients served by the system where the individuals with mental illness are minors, legally competent and do not object, and legally incompetent and the legal guardians, conservators, or other legal representatives are family members”.
 
-    Subsecs. (b), (c). [Pub. L. 102–173, § 7(2)][/us/pl/102/173/s7/2], (3) added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 102–173][/us/pl/102/173], § 7(2), (3) added subsec. (b) and redesignated former subsec. (b) as (c).
 
     1988—[Pub. L. 100–509][/us/pl/100/509] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -61,18 +61,18 @@
 ----------
 
 [/us/usc/t42/s10804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10804%2Fa
-[/us/pl/99/319/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs111
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F482
-[/us/pl/100/509/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fd
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2545
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1218
-[/us/pl/102/321/s163/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fc%2F3%2FA
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F377
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/pl/102/173/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F2
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
-[/us/pl/102/173/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs7%2F2
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321

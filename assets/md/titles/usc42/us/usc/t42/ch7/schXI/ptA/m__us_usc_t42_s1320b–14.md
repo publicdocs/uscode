@@ -125,45 +125,45 @@
 
             For purposes of this subsection, the term “Medicare Savings Program” means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1144, as added [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 911(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–583; amended [Pub. L. 108–173, title I, § 103(g)][/us/pl/108/173/s103/g], Dec. 8, 2003, [117 Stat. 2160][/us/stat/117/2160]; [Pub. L. 110–275, title I, § 113(a)][/us/pl/110/275/s113/a], July 15, 2008, [122 Stat. 2503][/us/stat/122/2503].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1144, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 911(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–583; amended [Pub. L. 108–173, title I][/us/pl/108/173/tI], § 103(g), Dec. 8, 2003, [117 Stat. 2160][/us/stat/117/2160]; [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 113(a), July 15, 2008, [122 Stat. 2503][/us/stat/122/2503].)
 
  __Prior Provisions__ 
 
-    A prior section 1320b–14, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1144, as added [Pub. L. 103–66, title XIII, § 13581(a)][/us/pl/103/66/s13581/a], Aug. 10, 1993, [107 Stat. 609][/us/stat/107/609]; [Pub. L. 105–34, title XV, § 1503(e)][/us/pl/105/34/s1503/e], Aug. 5, 1997, [111 Stat. 1063][/us/stat/111/1063], related to Medicare and Medicaid Coverage Data Bank, prior to repeal by [Pub. L. 104–226, § 1(a)][/us/pl/104/226/s1/a], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033].
+    A prior section 1320b–14, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1144, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13581(a), Aug. 10, 1993, [107 Stat. 609][/us/stat/107/609]; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1503(e), Aug. 5, 1997, [111 Stat. 1063][/us/stat/111/1063], related to Medicare and Medicaid Coverage Data Bank, prior to repeal by [Pub. L. 104–226][/us/pl/104/226], § 1(a), Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033].
 
  __Amendments__ 
 
     2008—Subsec. (c). [Pub. L. 110–275][/us/pl/110/275] added subsec. (c).
 
-    2003—[Pub. L. 108–173, § 103(g)(1)][/us/pl/108/173/s103/g/1], inserted “and subsidies for low-income individuals under subchapter XVIII” after “cost-sharing” in section catchline.
+    2003—[Pub. L. 108–173][/us/pl/108/173], § 103(g)(1), inserted “and subsidies for low-income individuals under subchapter XVIII” after “cost-sharing” in section catchline.
 
-    Subsec. (a)(1)(A). [Pub. L. 108–173, § 103(g)(2)(A)(i)][/us/pl/108/173/s103/g/2/A/i], inserted “for the transitional assistance under [section 1395w–141(f) of this title][/us/usc/t42/s1395w–141/f], or for premium and cost-sharing subsidies under [section 1395w–114 of this title][/us/usc/t42/s1395w–114]” before semicolon.
+    Subsec. (a)(1)(A). [Pub. L. 108–173][/us/pl/108/173], § 103(g)(2)(A)(i), inserted “for the transitional assistance under [section 1395w–141(f) of this title][/us/usc/t42/s1395w–141/f], or for premium and cost-sharing subsidies under [section 1395w–114 of this title][/us/usc/t42/s1395w–114]” before semicolon.
 
-    Subsec. (a)(1)(B). [Pub. L. 108–173, § 103(g)(2)(A)(ii)][/us/pl/108/173/s103/g/2/A/ii], inserted “, program, and subsidies” after “medical assistance”.
+    Subsec. (a)(1)(B). [Pub. L. 108–173][/us/pl/108/173], § 103(g)(2)(A)(ii), inserted “, program, and subsidies” after “medical assistance”.
 
-    Subsec. (a)(2). [Pub. L. 108–173, § 103(g)(2)(B)(i)][/us/pl/108/173/s103/g/2/B/i], inserted “, the transitional assistance under [section 1395w–141(f) of this title][/us/usc/t42/s1395w–141/f], or premium and cost-sharing subsidies under [section 1395w–114 of this title][/us/usc/t42/s1395w–114]” after “assistance” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 108–173][/us/pl/108/173], § 103(g)(2)(B)(i), inserted “, the transitional assistance under [section 1395w–141(f) of this title][/us/usc/t42/s1395w–141/f], or premium and cost-sharing subsidies under [section 1395w–114 of this title][/us/usc/t42/s1395w–114]” after “assistance” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 108–173, § 103(g)(2)(B)(ii)][/us/pl/108/173/s103/g/2/B/ii], substituted “eligibility for medicare cost-sharing under the medicaid program” for “such eligibility”.
+    Subsec. (a)(2)(A). [Pub. L. 108–173][/us/pl/108/173], § 103(g)(2)(B)(ii), substituted “eligibility for medicare cost-sharing under the medicaid program” for “such eligibility”.
 
-    Subsec. (b)(1)(A). [Pub. L. 108–173, § 103(g)(3)(A)][/us/pl/108/173/s103/g/3/A], inserted “, for transitional assistance under [section 1395w–141(f) of this title][/us/usc/t42/s1395w–141/f], or for premium and cost-sharing subsidies for low-income individuals under [section 1395w–114 of this title][/us/usc/t42/s1395w–114]” after “1396u–3 of this title”.
+    Subsec. (b)(1)(A). [Pub. L. 108–173][/us/pl/108/173], § 103(g)(3)(A), inserted “, for transitional assistance under [section 1395w–141(f) of this title][/us/usc/t42/s1395w–141/f], or for premium and cost-sharing subsidies for low-income individuals under [section 1395w–114 of this title][/us/usc/t42/s1395w–114]” after “1396u–3 of this title”.
 
-    Subsec. (b)(2). [Pub. L. 108–173, § 103(g)(3)(B)][/us/pl/108/173/s103/g/3/B], inserted “, program, and subsidies” after “medical assistance”.
+    Subsec. (b)(2). [Pub. L. 108–173][/us/pl/108/173], § 103(g)(3)(B), inserted “, program, and subsidies” after “medical assistance”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–275, title I, § 113(c)][/us/pl/110/275/s113/c], July 15, 2008, [122 Stat. 2506][/us/stat/122/2506], provided that: 
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 113(c), July 15, 2008, [122 Stat. 2506][/us/stat/122/2506], provided that: 
 
 > “Except as otherwise provided, the amendments made by this section \[amending this section and [section 1396u–5 of this title][/us/usc/t42/s1396u–5]\] shall take effect on January 1, 2010.”
 
  __Effective Date__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 911(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 911(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584, provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section and amending [section 1396d of this title][/us/usc/t42/s1396d]\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
  __GAO Report__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 911(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 911(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584, provided that: 
 
 > “The Comptroller General of the United States shall conduct a study of the impact of section 1144 of the Social Security Act \[[42 U.S.C. 1320b–14][/us/usc/t42/s1320b–14]\] (as added by subsection (a)(1)) on the enrollment of individuals for medicare cost-sharing under the medicaid program. Not later than 18 months after the date that the Commissioner of Social Security first conducts outreach under section 1144 of such Act, the Comptroller General shall submit to Congress a report on such study. The report shall include such recommendations for legislative changes as the Comptroller General deems appropriate.”
 
@@ -184,40 +184,40 @@
 [/us/usc/t42/s1395w–114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114
 [/us/usc/t42/s1395w–114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg
+[/us/pl/108/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtI
 [/us/stat/117/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2160
-[/us/pl/110/275/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs113%2Fa
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2503
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13581%2Fa
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F609
-[/us/pl/105/34/s1503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1503%2Fe
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1063
-[/us/pl/104/226/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F226%2Fs1%2Fa
+[/us/pl/104/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F226
 [/us/stat/110/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3033
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
-[/us/pl/108/173/s103/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg%2F1
-[/us/pl/108/173/s103/g/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg%2F2%2FA%2Fi
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93141%2Ff
 [/us/usc/t42/s1395w–114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114
-[/us/pl/108/173/s103/g/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg%2F2%2FA%2Fii
-[/us/pl/108/173/s103/g/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg%2F2%2FB%2Fi
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93141%2Ff
 [/us/usc/t42/s1395w–114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114
-[/us/pl/108/173/s103/g/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg%2F2%2FB%2Fii
-[/us/pl/108/173/s103/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg%2F3%2FA
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93141%2Ff
 [/us/usc/t42/s1395w–114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114
-[/us/pl/108/173/s103/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs103%2Fg%2F3%2FB
-[/us/pl/110/275/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs113%2Fc
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2506
 [/us/usc/t42/s1396u–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%935
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s1320b–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9314
 

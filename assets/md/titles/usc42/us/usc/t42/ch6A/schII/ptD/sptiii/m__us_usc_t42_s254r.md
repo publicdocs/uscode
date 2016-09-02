@@ -141,31 +141,31 @@
 
         No grant may be made under this section after the aggregate amounts appropriated under subsection (j)(1) of this section are equal to $36,000,000.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338J, as added [Pub. L. 101–597, title III, § 302][/us/pl/101/597/s302], Nov. 16, 1990, [104 Stat. 3032][/us/stat/104/3032]; amended [Pub. L. 105–392, title III, § 301][/us/pl/105/392/s301], Nov. 13, 1998, [112 Stat. 3585][/us/stat/112/3585].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338J, as added [Pub. L. 101–597, title III][/us/pl/101/597/tIII], § 302, Nov. 16, 1990, [104 Stat. 3032][/us/stat/104/3032]; amended [Pub. L. 105–392, title III][/us/pl/105/392/tIII], § 301, Nov. 13, 1998, [112 Stat. 3585][/us/stat/112/3585].)
 
  __References in Text__ 
 
-    [Section 254c of this title][/us/usc/t42/s254c], referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of this part by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+    [Section 254c of this title][/us/usc/t42/s254c], referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of this part by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
  __Prior Provisions__ 
 
-    A prior section 254r, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338I, formerly title VII, § 757, as added Aug. 1, 1977, [Pub. L. 95–83, title III, § 307(n)(1)][/us/pl/95/83/s307/n/1], [91 Stat. 392][/us/stat/91/392]; amended Dec. 17, 1980, [Pub. L. 96–537, § 3(d)][/us/pl/96/537/s3/d], [94 Stat. 3174][/us/stat/94/3174]; renumbered § 338G, Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2709(a)][/us/pl/97/35/s2709/a], [95 Stat. 908][/us/stat/95/908]; Oct. 30, 1984, [Pub. L. 98–551, § 3][/us/pl/98/551/s3], [98 Stat. 2817][/us/stat/98/2817]; renumbered § 338I, Dec. 1, 1987, [Pub. L. 100–177, title II, § 201(1)][/us/pl/100/177/s201/1], [101 Stat. 992][/us/stat/101/992]; Nov. 4, 1988, [Pub. L. 100–607, title VI, § 629(a)(3)][/us/pl/100/607/s629/a/3], [102 Stat. 3146][/us/stat/102/3146], which related to Indian Health Scholarships and was classified to [section 294y–1 of this title][/us/usc/t42/s294y–1] prior to renumbering by [Pub. L. 97–35][/us/pl/97/35], was repealed by [Pub. L. 100–713, title I, § 104(b)(1)][/us/pl/100/713/s104/b/1], Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787]. For provisions continuing scholarships provided on or before Nov. 23, 1988, see [section 104(b)(2) of Pub. L. 100–713][/us/pl/100/713/s104/b/2].
+    A prior section 254r, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 338I, formerly title VII, § 757, as added Aug. 1, 1977, [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 307(n)(1), [91 Stat. 392][/us/stat/91/392]; amended Dec. 17, 1980, [Pub. L. 96–537][/us/pl/96/537], § 3(d), [94 Stat. 3174][/us/stat/94/3174]; renumbered § 338G, Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2709(a), [95 Stat. 908][/us/stat/95/908]; Oct. 30, 1984, [Pub. L. 98–551][/us/pl/98/551], § 3, [98 Stat. 2817][/us/stat/98/2817]; renumbered § 338I, Dec. 1, 1987, [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 201(1), [101 Stat. 992][/us/stat/101/992]; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 629(a)(3), [102 Stat. 3146][/us/stat/102/3146], which related to Indian Health Scholarships and was classified to [section 294y–1 of this title][/us/usc/t42/s294y–1] prior to renumbering by [Pub. L. 97–35][/us/pl/97/35], was repealed by [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 104(b)(1), Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787]. For provisions continuing scholarships provided on or before Nov. 23, 1988, see [section 104(b)(2) of Pub. L. 100–713][/us/pl/100/713/s104/b/2].
 
     A prior section 338J of act July 1, 1944, was renumbered section 338K by [Pub. L. 101–597][/us/pl/101/597] and is classified to [section 254s of this title][/us/usc/t42/s254s].
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–392, § 301(1)][/us/pl/105/392/s301/1], struck out “in cash” after “contributions” in introductory provisions.
+    1998—Subsec. (b)(1). [Pub. L. 105–392][/us/pl/105/392], § 301(1), struck out “in cash” after “contributions” in introductory provisions.
 
-    Subsec. (j)(1). [Pub. L. 105–392, § 301(2)][/us/pl/105/392/s301/2], struck out “and” after “1992,” and inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1998 through 2002”.
+    Subsec. (j)(1). [Pub. L. 105–392][/us/pl/105/392], § 301(2), struck out “and” after “1992,” and inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1998 through 2002”.
 
-    Subsec. (k). [Pub. L. 105–392, § 301(3)][/us/pl/105/392/s301/3], substituted “$36,000,000” for “$10,000,000”.
+    Subsec. (k). [Pub. L. 105–392][/us/pl/105/392], § 301(3), substituted “$36,000,000” for “$10,000,000”.
 
  __Communications for Rural Health Providers__ 
 
-    [Pub. L. 102–538, title I, § 154][/us/pl/102/538/s154], formerly § 134, Oct. 27, 1992, [106 Stat. 3541][/us/stat/106/3541], renumbered § 154 by [Pub. L. 103–66, title VI, § 6001(a)(2)][/us/pl/103/66/s6001/a/2], Aug. 10, 1993, [107 Stat. 379][/us/stat/107/379], directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement in the use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
+    [Pub. L. 102–538, title I][/us/pl/102/538/tI], § 154, formerly § 134, Oct. 27, 1992, [106 Stat. 3541][/us/stat/106/3541], renumbered § 154 by [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(2), Aug. 10, 1993, [107 Stat. 379][/us/stat/107/379], directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement in the use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
 
-    Similar provisions were contained in [Pub. L. 101–555, § 3][/us/pl/101/555/s3], Nov. 15, 1990, [104 Stat. 2760][/us/stat/104/2760].
+    Similar provisions were contained in [Pub. L. 101–555][/us/pl/101/555], § 3, Nov. 15, 1990, [104 Stat. 2760][/us/stat/104/2760].
 
 ----------
 
@@ -177,42 +177,42 @@
 [/us/usc/t42/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs912
 [/us/usc/t42/s254q–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254q%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/597/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs302
+[/us/pl/101/597/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtIII
 [/us/stat/104/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3032
-[/us/pl/105/392/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs301
+[/us/pl/105/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIII
 [/us/stat/112/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3585
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/83/s307/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs307%2Fn%2F1
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F392
-[/us/pl/96/537/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs3%2Fd
+[/us/pl/96/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537
 [/us/stat/94/3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3174
-[/us/pl/97/35/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F908
-[/us/pl/98/551/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551%2Fs3
+[/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/stat/98/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2817
-[/us/pl/100/177/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs201%2F1
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F992
-[/us/pl/100/607/s629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs629%2Fa%2F3
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3146
 [/us/usc/t42/s294y–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294y%E2%80%931
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/100/713/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs104%2Fb%2F1
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4787
 [/us/pl/100/713/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs104%2Fb%2F2
 [/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/usc/t42/s254s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254s
-[/us/pl/105/392/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs301%2F1
-[/us/pl/105/392/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs301%2F2
-[/us/pl/105/392/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs301%2F3
-[/us/pl/102/538/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs154
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
 [/us/stat/106/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3541
-[/us/pl/103/66/s6001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F2
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F379
-[/us/pl/101/555/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555%2Fs3
+[/us/pl/101/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555
 [/us/stat/104/2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2760
 
 

@@ -31,7 +31,7 @@
 
         Persons purchasing property pursuant to the provisions of [section 2342 of this title][/us/usc/t42/s2342], who do not desire to avail themselves of the indemnity provisions contained in sections 2363 to 2366 of this title, shall be entitled to an additional deduction of 10 per centum of the appraised value of the property in addition to any other deduction set forth in this section.
 
-([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 3, § 36, [69 Stat. 474][/us/stat/69/474]; [July 25, 1956, ch. 731, § 1][/us/act/1956-07-25/ch731/s1], [70 Stat. 653][/us/stat/70/653]; [Pub. L. 87–719, § 6][/us/pl/87/719/s6], Sept. 28, 1962, [76 Stat. 664][/us/stat/76/664].)
+([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 3, § 36, [69 Stat. 474][/us/stat/69/474]; [July 25, 1956, ch. 731][/us/act/1956-07-25/ch731], § 1, [70 Stat. 653][/us/stat/70/653]; [Pub. L. 87–719][/us/pl/87/719], § 6, Sept. 28, 1962, [76 Stat. 664][/us/stat/76/664].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t42/s2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2342
 [/us/act/1955-08-04/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch543
 [/us/stat/69/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F474
-[/us/act/1956-07-25/ch731/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731%2Fs1
+[/us/act/1956-07-25/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731
 [/us/stat/70/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F653
-[/us/pl/87/719/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs6
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F664
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 

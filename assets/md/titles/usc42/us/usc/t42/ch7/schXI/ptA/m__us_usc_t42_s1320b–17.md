@@ -65,7 +65,7 @@
 
         (3) The supplemental security income benefits program under subchapter XVI of this chapter (including, for purposes of this section, State supplementary payments paid by the Commissioner pursuant to an agreement under [section 1382e(a) of this title][/us/usc/t42/s1382e/a] or [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b]).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1147, as added [Pub. L. 105–306, § 8(a)][/us/pl/105/306/s8/a], Oct. 28, 1998, [112 Stat. 2928][/us/stat/112/2928]; amended [Pub. L. 106–169, title II, § 251(b)(7)][/us/pl/106/169/s251/b/7], Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855]; [Pub. L. 108–203, title II, § 210(a)][/us/pl/108/203/s210/a], Mar. 2, 2004, [118 Stat. 516][/us/stat/118/516].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1147, as added [Pub. L. 105–306][/us/pl/105/306], § 8(a), Oct. 28, 1998, [112 Stat. 2928][/us/stat/112/2928]; amended [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(b)(7), Dec. 14, 1999, [113 Stat. 1855][/us/stat/113/1855]; [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 210(a), Mar. 2, 2004, [118 Stat. 516][/us/stat/118/516].)
 
  __References in Text__ 
 
@@ -75,9 +75,9 @@
 
     2004—[Pub. L. 108–203][/us/pl/108/203] amended section catchline and text generally, substituting provisions relating to recovery of overpayments from benefits under subchapters II, VIII, and XVI of this chapter, consisting of subsecs. (a) to (e), for provisions relating to recovery of overpayments from benefits under subchapter XVI of this chapter, consisting of subsecs. (a) and (b).
 
-    1999—[Pub. L. 106–169, § 251(b)(7)(B)][/us/pl/106/169/s251/b/7/B], substituted “other” for “social security” in section catchline.
+    1999—[Pub. L. 106–169][/us/pl/106/169], § 251(b)(7)(B), substituted “other” for “social security” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 106–169, § 251(b)(7)(A)][/us/pl/106/169/s251/b/7/A], inserted “or VIII” after “person under subchapter II” and substituted “payable under such subchapter” for “payable under subchapter II of this chapter”.
+    Subsec. (a)(1). [Pub. L. 106–169][/us/pl/106/169], § 251(b)(7)(A), inserted “or VIII” after “person under subchapter II” and substituted “payable under such subchapter” for “payable under subchapter II of this chapter”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -99,19 +99,19 @@
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/306/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306%2Fs8%2Fa
+[/us/pl/105/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306
 [/us/stat/112/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2928
-[/us/pl/106/169/s251/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F7
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1855
-[/us/pl/108/203/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fa
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F516
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/stat/87/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F156
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
-[/us/pl/106/169/s251/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F7%2FB
-[/us/pl/106/169/s251/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F7%2FA
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/108/203/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fc
 [/us/usc/t42/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404

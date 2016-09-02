@@ -39,7 +39,7 @@
 
         The Administrator is authorized to substitute, for the maximum allowable increases in particulate matter specified in [section 7473(b) of this title][/us/usc/t42/s7473/b] and [section 7475(d)(2)(C)(iv) of this title][/us/usc/t42/s7475/d/2/C/iv], maximum allowable increases in particulate matter with an aerodynamic diameter smaller than or equal to 10 micrometers. Such substituted maximum allowable increases shall be of equal stringency in effect as those specified in the provisions for which they are substituted. Until the Administrator promulgates regulations under the authority of this subsection, the current maximum allowable increases in concentrations of particulate matter shall remain in effect.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 166, as added [Pub. L. 95–95, title I, § 127(a)][/us/pl/95/95/s127/a], Aug. 7, 1977, [91 Stat. 739][/us/stat/91/739]; amended [Pub. L. 101–549, title I, § 105(b)][/us/pl/101/549/s105/b], Nov. 15, 1990, [104 Stat. 2462][/us/stat/104/2462].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 166, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 127(a), Aug. 7, 1977, [91 Stat. 739][/us/stat/91/739]; amended [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 105(b), Nov. 15, 1990, [104 Stat. 2462][/us/stat/104/2462].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t42/s7473/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7473%2Fb
 [/us/usc/t42/s7475/d/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7475%2Fd%2F2%2FC%2Fiv
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs127%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F739
-[/us/pl/101/549/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs105%2Fb
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2462
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 

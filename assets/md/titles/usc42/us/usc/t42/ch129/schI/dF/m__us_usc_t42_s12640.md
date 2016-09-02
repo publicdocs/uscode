@@ -17,7 +17,7 @@
 
     A State shall not engage a participant to serve in any program that receives assistance under this subchapter unless and until amounts have been appropriated under [section 12681 of this title][/us/usc/t42/s12681] for the provision of national service educational awards and for the payment of other necessary expenses and costs associated with such participant.
 
-([Pub. L. 101–610, title I, § 180][/us/pl/101/610/s180], Nov. 16, 1990, [104 Stat. 3166][/us/stat/104/3166]; [Pub. L. 103–82, title I, § 119][/us/pl/103/82/s119], Sept. 21, 1993, [107 Stat. 866][/us/stat/107/866].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 180, Nov. 16, 1990, [104 Stat. 3166][/us/stat/104/3166]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 119, Sept. 21, 1993, [107 Stat. 866][/us/stat/107/866].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t42/s12681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12681
-[/us/pl/101/610/s180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs180
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3166
-[/us/pl/103/82/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs119
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F866
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

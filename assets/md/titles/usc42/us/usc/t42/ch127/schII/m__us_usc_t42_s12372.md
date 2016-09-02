@@ -49,7 +49,7 @@
 
             The delegates to attend the Conference shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority’s ability, be representative of the spectrum of thought in the field of children, youth, and families.
 
-([Pub. L. 101–501, title IX, § 983][/us/pl/101/501/s983], Nov. 3, 1990, [104 Stat. 1280][/us/stat/104/1280]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 983, Nov. 3, 1990, [104 Stat. 1280][/us/stat/104/1280]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t42/s12371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12371%2Fb
-[/us/pl/101/501/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs983
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1280
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

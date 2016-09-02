@@ -75,7 +75,7 @@
 
             If Congress enacts new legislation establishing requirements for notification in the case of a breach of security, that apply to entities that are not covered entities or business associates, the provisions of this section shall not apply to breaches of security discovered on or after the effective date of regulations implementing such legislation.
 
-([Pub. L. 111–5, div. A, title XIII, § 13407][/us/pl/111/5/s13407], Feb. 17, 2009, [123 Stat. 269][/us/stat/123/269].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13407, Feb. 17, 2009, [123 Stat. 269][/us/stat/123/269].)
 
 ----------
 
@@ -91,7 +91,7 @@
 [/us/usc/t42/s1320d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%2F6
 [/us/usc/t42/s17932/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17932%2Fh%2F2
 [/us/usc/t42/s17932/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17932%2Fh%2F2
-[/us/pl/111/5/s13407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13407
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F269
 
 

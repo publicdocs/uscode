@@ -27,7 +27,7 @@
 
     (5) any other information determined by the Secretary to be necessary to carry out this part.
 
-([Pub. L. 95–619, title II, § 263][/us/pl/95/619/s263], as added [Pub. L. 96–294, title V, § 562][/us/pl/96/294/s562], June 30, 1980, [94 Stat. 748][/us/stat/94/748].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 263, as added [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 562, June 30, 1980, [94 Stat. 748][/us/stat/94/748].)
 
 ----------
 
@@ -43,8 +43,8 @@
 [/us/usc/t42/s8235a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235a%2Fa%2F1
 [/us/usc/t42/s8235a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235a%2Fb
 [/us/usc/t42/s8235c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235c%2Fa%2F2
-[/us/pl/95/619/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs263
-[/us/pl/96/294/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs562
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F748
 
 

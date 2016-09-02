@@ -37,11 +37,11 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317N, as added [Pub. L. 106–310, div. A, title XVIII, § 1801][/us/pl/106/310/s1801], Oct. 17, 2000, [114 Stat. 1152][/us/stat/114/1152].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317N, as added [Pub. L. 106–310, div. A, title XVIII][/us/pl/106/310/dA/tXVIII], § 1801, Oct. 17, 2000, [114 Stat. 1152][/us/stat/114/1152].)
 
  __Study and Demonstration Projects Regarding Cases of Hepatitis C Among Certain Emergency Response Employees__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1704\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–365, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVII, § 1704\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–365, provided that:
 
 >     “(a)  __Study Regarding Prevalence Among Certain Emergency Response Employees__  __.—__ 
 
@@ -105,9 +105,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1801
+[/us/pl/106/310/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXVIII
 [/us/stat/114/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1152
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

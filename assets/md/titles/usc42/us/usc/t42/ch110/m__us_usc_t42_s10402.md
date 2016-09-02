@@ -97,13 +97,21 @@
 
         The term “underserved populations” has the meaning given the term in [section 13925(a) of this title][/us/usc/t42/s13925/a]. For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 13925(a)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  of this title.
 
-([Pub. L. 98–457, title III, § 302][/us/pl/98/457/s302], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3484][/us/stat/124/3484].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 302, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3484][/us/stat/124/3484]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ii), Dec. 10, 2015, [129 Stat. 2175][/us/stat/129/2175].)
 
  __Prior Provisions__ 
 
-    A prior section 10402, [Pub. L. 98–457, title III, § 303][/us/pl/98/457/s303], Oct. 9, 1984, [98 Stat. 1757][/us/stat/98/1757]; [Pub. L. 100–294, title III, § 302][/us/pl/100/294/s302], Apr. 25, 1988, [102 Stat. 124][/us/stat/102/124]; [Pub. L. 102–295, title III][/us/pl/102/295], §§ 303–309(a), 310, 311(a), May 28, 1992, [106 Stat. 201–203][/us/stat/106/201-203]; [Pub. L. 103–322, title IV, § 40271][/us/pl/103/322/s40271], Sept. 13, 1994, [108 Stat. 1937][/us/stat/108/1937]; [Pub. L. 104–235, title II, § 201][/us/pl/104/235/s201], Oct. 3, 1996, [110 Stat. 3089][/us/stat/110/3089]; [Pub. L. 108–36, title IV][/us/pl/108/36], §§ 401, 415(2), (3), June 25, 2003, [117 Stat. 825][/us/stat/117/825], 830, related to authorization of State grants, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10406 of this title][/us/usc/t42/s10406].
+    A prior section 10402, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 303, Oct. 9, 1984, [98 Stat. 1757][/us/stat/98/1757]; [Pub. L. 100–294, title III][/us/pl/100/294/tIII], § 302, Apr. 25, 1988, [102 Stat. 124][/us/stat/102/124]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], §§ 303–309(a), 310, 311(a), May 28, 1992, [106 Stat. 201–203][/us/stat/106/201-203]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40271, Sept. 13, 1994, [108 Stat. 1937][/us/stat/108/1937]; [Pub. L. 104–235, title II][/us/pl/104/235/tII], § 201, Oct. 3, 1996, [110 Stat. 3089][/us/stat/110/3089]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], §§ 401, 415(2), (3), June 25, 2003, [117 Stat. 825][/us/stat/117/825], 830, related to authorization of State grants, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10406 of this title][/us/usc/t42/s10406].
 
     A prior [section 302 of Pub. L. 98–457][/us/pl/98/457/s302] was classified to [section 10401 of this title][/us/usc/t42/s10401] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
+
+ __Amendments__ 
+
+    2015—Par. (6). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to 7517 of title 20.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
 ----------
 
@@ -120,25 +128,31 @@
 [/us/usc/t42/s13925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925%2Fa
 [/us/usc/t42/s10409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10409
 [/us/usc/t42/s13925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925%2Fa
-[/us/pl/98/457/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs302
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3484
-[/us/pl/98/457/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs303
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2175
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1757
-[/us/pl/100/294/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs302
+[/us/pl/100/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtIII
 [/us/stat/102/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F124
-[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/201-203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F201-203
-[/us/pl/103/322/s40271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40271
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1937
-[/us/pl/104/235/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs201
+[/us/pl/104/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtII
 [/us/stat/110/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3089
-[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F825
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s10406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406
 [/us/pl/98/457/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs302
 [/us/usc/t42/s10401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10401
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

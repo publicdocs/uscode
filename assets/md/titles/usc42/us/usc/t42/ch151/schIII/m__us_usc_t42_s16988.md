@@ -57,7 +57,7 @@
 
             (C) making recommendations for continuing funding and the appropriate levels for such funding.
 
-([Pub. L. 109–248, title VI, § 631][/us/pl/109/248/s631], July 27, 2006, [120 Stat. 641][/us/stat/120/641].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 631, July 27, 2006, [120 Stat. 641][/us/stat/120/641].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs631
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F641
 
 

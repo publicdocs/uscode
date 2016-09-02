@@ -23,7 +23,7 @@
 
         The Administrator is authorized to make grants to States to assist in carrying out the requirements of subsection (a) of this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 127, as added [Pub. L. 95–95, title I, § 124][/us/pl/95/95/s124], Aug. 7, 1977, [91 Stat. 725][/us/stat/91/725].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 127, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 124, Aug. 7, 1977, [91 Stat. 725][/us/stat/91/725].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs124
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F725
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

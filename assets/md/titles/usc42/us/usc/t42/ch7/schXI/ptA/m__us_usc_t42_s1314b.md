@@ -137,7 +137,7 @@
 
         For the purpose of this section, the term “sex trafficking” includes the definition set forth in [section 7102(10) of title 22][/us/usc/t22/s7102/10] and “severe form of trafficking in persons” described in [section 7102(9)(A) of title 22][/us/usc/t22/s7102/9/A].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1114A, as added [Pub. L. 113–183, title I, § 121][/us/pl/113/183/s121], Sept. 29, 2014, [128 Stat. 1931][/us/stat/128/1931].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1114A, as added [Pub. L. 113–183, title I][/us/pl/113/183/tI], § 121, Sept. 29, 2014, [128 Stat. 1931][/us/stat/128/1931].)
 
  __References in Text__ 
 
@@ -154,7 +154,7 @@
 [/us/usc/t22/s7102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F10
 [/us/usc/t22/s7102/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F9%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/113/183/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs121
+[/us/pl/113/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtI
 [/us/stat/128/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1931
 [/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671

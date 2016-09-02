@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1950—[Act Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 6, § 361(f), [64 Stat. 558][/us/stat/64/558], substituted “ADMINISTRATION” for “SOCIAL SECURITY BOARD” as subchapter heading.
+    1950—[Act Aug. 28, 1950, ch. 809, title III][/us/act/1950-08-28/ch809/tIII], pt. 6, § 361(f), [64 Stat. 558][/us/stat/64/558], substituted “ADMINISTRATION” for “SOCIAL SECURITY BOARD” as subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
+[/us/act/1950-08-28/ch809/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809%2FtIII
 [/us/stat/64/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F558
 
 

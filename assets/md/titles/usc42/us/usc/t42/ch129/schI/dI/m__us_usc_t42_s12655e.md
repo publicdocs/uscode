@@ -35,7 +35,7 @@
 
         Any land or water conservation program (or any related program) administered in any State under the authority of any Federal program is encouraged to use services available under this part  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to carry out its program.
 
-([Pub. L. 101–610, title I, § 199F][/us/pl/101/610/s199F], formerly § 126, Nov. 16, 1990, [104 Stat. 3144][/us/stat/104/3144]; renumbered § 199F and amended [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], (e)(1), (6), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 815, 816.)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199F, formerly § 126, Nov. 16, 1990, [104 Stat. 3144][/us/stat/104/3144]; renumbered § 199F and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), (e)(1), (6), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 815, 816.)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 12546 of this title][/us/usc/t42/s12546] prior to renumbering by [Pub. L. 103–82, § 101(a)][/us/pl/103/82/s101/a].
+    Section was formerly classified to [section 12546 of this title][/us/usc/t42/s12546] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 101(a).
 
  __Amendments__ 
 
-    1993—Subsec. (b). [Pub. L. 103–82, § 101(e)(1)][/us/pl/103/82/s101/e/1], (6), substituted “Corporation” for “Commission” and “[section 12655b of this title][/us/usc/t42/s12655b]” for “[section 12543 of this title][/us/usc/t42/s12543]”.
+    1993—Subsec. (b). [Pub. L. 103–82][/us/pl/103/82], § 101(e)(1), (6), substituted “Corporation” for “Commission” and “[section 12655b of this title][/us/usc/t42/s12655b]” for “[section 12543 of this title][/us/usc/t42/s12543]”.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -61,14 +61,14 @@
 ----------
 
 [/us/usc/t42/s12655b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655b
-[/us/pl/101/610/s199F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199F
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3144
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/usc/t42/s12546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12546
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
-[/us/pl/103/82/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fe%2F1
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s12655b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655b
 [/us/usc/t42/s12543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12543
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

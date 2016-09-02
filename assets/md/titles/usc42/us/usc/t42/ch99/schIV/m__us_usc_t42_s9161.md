@@ -17,7 +17,7 @@
 
     If the United States ratifies a treaty, which includes provisions with respect to jurisdiction over ocean thermal energy conversion activities, resulting from any United Nations Conference on the Law of the Sea, the Administrator, after consultation with the Secretary of State, shall promulgate any amendment to the regulations promulgated under this chapter which is necessary and appropriate to conform such regulations to the provisions of such treaty, in anticipation of the date when such treaty shall come into force and effect for, or otherwise be applicable to, the United States.
 
-([Pub. L. 96–320, title IV, § 401][/us/pl/96/320/s401], Aug. 3, 1980, [94 Stat. 998][/us/stat/94/998].)
+([Pub. L. 96–320, title IV][/us/pl/96/320/tIV], § 401, Aug. 3, 1980, [94 Stat. 998][/us/stat/94/998].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs401
+[/us/pl/96/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIV
 [/us/stat/94/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F998
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

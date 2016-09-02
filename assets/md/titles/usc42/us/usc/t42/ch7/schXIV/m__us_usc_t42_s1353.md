@@ -19,7 +19,7 @@
 
      From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has an approved plan for aid to the permanently and totally disabled, for each quarter, beginning with the quarter commencing October 1, 1958—
 
-        (1) Repealed. [Pub. L. 97–35, title XXI, § 2184(c)(2)(A)][/us/pl/97/35/s2184/c/2/A], Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].
+        (1) Repealed. [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(c)(2)(A), Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].
 
         (2) in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to one-half of the total of the sums expended during such quarter as aid to the permanently and totally disabled under the State plan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of aid to the permanently and totally disabled for such month; and
 
@@ -35,11 +35,11 @@
 
         (3) The Secretary of the Treasury shall thereupon, through the Fiscal Service of the Treasury Department, and prior to audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1403, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 556][/us/stat/64/556]; amended [July 18, 1952, ch. 945, § 8(d)][/us/act/1952-07-18/ch945/s8/d], [66 Stat. 779][/us/stat/66/779]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, §§ 304, 314(c), 344, [70 Stat. 847][/us/stat/70/847], 850, 854; [Pub. L. 85–840, title V, § 504][/us/pl/85/840/s504], Aug. 28, 1958, [72 Stat. 1049][/us/stat/72/1049]; [Pub. L. 87–64, title III, § 303(c)][/us/pl/87/64/s303/c], June 30, 1961, [75 Stat. 143][/us/stat/75/143]; [Pub. L. 87–543, title I][/us/pl/87/543], §§ 101(a)(4), (b)(4), 132(c), July 25, 1962, [76 Stat. 178][/us/stat/76/178], 181, 195; [Pub. L. 89–97, title I, § 122][/us/pl/89/97/s122], title IV, § 401(e), July 30, 1965, [79 Stat. 353][/us/stat/79/353], 415; [Pub. L. 90–248, title II, § 212(c)][/us/pl/90/248/s212/c], Jan. 2, 1968, [81 Stat. 897][/us/stat/81/897]; [Pub. L. 92–512, title III, § 301(b)][/us/pl/92/512/s301/b], (d), Oct. 20, 1972, [86 Stat. 946][/us/stat/86/946], 947; [Pub. L. 93–647][/us/pl/93/647], §§ 3(e)(2), 5(d), Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349], 2350; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXI, § 2184(c)(2)][/us/pl/97/35/s2184/c/2], title XXV, § 2353(l), Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817], 873; [Pub. L. 99–603, title I, § 121(b)(4)][/us/pl/99/603/s121/b/4], Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391]; [Pub. L. 103–66, title XIII, § 13741(b)][/us/pl/103/66/s13741/b], Aug. 10, 1993, [107 Stat. 663][/us/stat/107/663]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1403, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 556][/us/stat/64/556]; amended [July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], § 8(d), [66 Stat. 779][/us/stat/66/779]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, §§ 304, 314(c), 344, [70 Stat. 847][/us/stat/70/847], 850, 854; [Pub. L. 85–840, title V][/us/pl/85/840/tV], § 504, Aug. 28, 1958, [72 Stat. 1049][/us/stat/72/1049]; [Pub. L. 87–64, title III][/us/pl/87/64/tIII], § 303(c), June 30, 1961, [75 Stat. 143][/us/stat/75/143]; [Pub. L. 87–543, title I][/us/pl/87/543/tI], §§ 101(a)(4), (b)(4), 132(c), July 25, 1962, [76 Stat. 178][/us/stat/76/178], 181, 195; [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 122, title IV, § 401(e), July 30, 1965, [79 Stat. 353][/us/stat/79/353], 415; [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 212(c), Jan. 2, 1968, [81 Stat. 897][/us/stat/81/897]; [Pub. L. 92–512, title III][/us/pl/92/512/tIII], § 301(b), (d), Oct. 20, 1972, [86 Stat. 946][/us/stat/86/946], 947; [Pub. L. 93–647][/us/pl/93/647], §§ 3(e)(2), 5(d), Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349], 2350; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(c)(2), title XXV, § 2353(l), Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817], 873; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(b)(4), Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13741(b), Aug. 10, 1993, [107 Stat. 663][/us/stat/107/663]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -55,39 +55,39 @@
 
     1986—Subsec. (a)(3)(B), (C). [Pub. L. 99–603][/us/pl/99/603] added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    1981—Subsec. (a)(1). [Pub. L. 97–35, § 2184(c)(2)(A)][/us/pl/97/35/s2184/c/2/A], struck out par. (1) which provided for computation of the amount of payments in the case of any State other than Puerto Rico, the Virgin Islands, and Guam.
+    1981—Subsec. (a)(1). [Pub. L. 97–35][/us/pl/97/35], § 2184(c)(2)(A), struck out par. (1) which provided for computation of the amount of payments in the case of any State other than Puerto Rico, the Virgin Islands, and Guam.
 
-    Subsec. (a)(2). [Pub. L. 97–35, § 2184(c)(2)(B)][/us/pl/97/35/s2184/c/2/B], struck out “(including expenditures for premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other insurance premiums for medical or any other type of remedial care or the cost thereof)”.
+    Subsec. (a)(2). [Pub. L. 97–35][/us/pl/97/35], § 2184(c)(2)(B), struck out “(including expenditures for premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other insurance premiums for medical or any other type of remedial care or the cost thereof)”.
 
-    Subsec. (a)(3). [Pub. L. 97–35, § 2353][/us/pl/97/35/s2353](l)(1)(A), redesignated subpar. (A)(iv) as subpar. (A), struck out former subpars. (A)(i), which included services prescribed pursuant to subsec. (c)(1) of this section and provided to applicants for or recipients of aid to the permanently and totally disabled to help them attain self-support, (A)(ii), which included other services, specified by the Secretary as likely to prevent or reduce dependency, and (A)(iii), which included any of the services in subpars. (A)(i) and (ii) deemed appropriate for individuals likely to become applicants for or recipients of aid to the permanently and totally disabled, redesignated former subpar. (C) as (B), and struck out former subpar. (B), which included one-half of so much of the expenditures, not included in subpar. (A), as are for services for applicants for or recipients of aid to the permanently and totally disabled or individuals likely to become applicants or recipients, and subpars. (D) and (E) and provision following subpar. (E), which specified what services were includible.
+    Subsec. (a)(3). [Pub. L. 97–35][/us/pl/97/35], § 2353(l)(1)(A), redesignated subpar. (A)(iv) as subpar. (A), struck out former subpars. (A)(i), which included services prescribed pursuant to subsec. (c)(1) of this section and provided to applicants for or recipients of aid to the permanently and totally disabled to help them attain self-support, (A)(ii), which included other services, specified by the Secretary as likely to prevent or reduce dependency, and (A)(iii), which included any of the services in subpars. (A)(i) and (ii) deemed appropriate for individuals likely to become applicants for or recipients of aid to the permanently and totally disabled, redesignated former subpar. (C) as (B), and struck out former subpar. (B), which included one-half of so much of the expenditures, not included in subpar. (A), as are for services for applicants for or recipients of aid to the permanently and totally disabled or individuals likely to become applicants or recipients, and subpars. (D) and (E) and provision following subpar. (E), which specified what services were includible.
 
-    Subsec. (a)(4). [Pub. L. 97–35, § 2353][/us/pl/97/35/s2353](l)(1)(B), struck out par. (4), which provided payment, in the case of any State whose plan approved under [section 1352 of this title][/us/usc/t42/s1352] did not meet the requirements of subsec. (c)(1) of this section, of an amount equal to one-half of the total of the sums expended during the quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
+    Subsec. (a)(4). [Pub. L. 97–35][/us/pl/97/35], § 2353(l)(1)(B), struck out par. (4), which provided payment, in the case of any State whose plan approved under [section 1352 of this title][/us/usc/t42/s1352] did not meet the requirements of subsec. (c)(1) of this section, of an amount equal to one-half of the total of the sums expended during the quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 
-    Subsec. (c). [Pub. L. 97–35, § 2353][/us/pl/97/35/s2353](l)(2), struck out subsec. (c) which prescribed eligibility requirements for payments.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 2353(l)(2), struck out subsec. (c) which prescribed eligibility requirements for payments.
 
-    1975—Subsec. (a). [Pub. L. 93–647, § 3(e)(2)][/us/pl/93/647/s3/e/2], struck out “(subject to [section 1320b of this title][/us/usc/t42/s1320b])” after “the Secretary of the Treasury shall”.
+    1975—Subsec. (a). [Pub. L. 93–647][/us/pl/93/647], § 3(e)(2), struck out “(subject to [section 1320b of this title][/us/usc/t42/s1320b])” after “the Secretary of the Treasury shall”.
 
-    Subsec. (a)(3)(A)(iv). [Pub. L. 93–647, § 5(d)][/us/pl/93/647/s5/d], inserted “(including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions)” after “training”.
+    Subsec. (a)(3)(A)(iv). [Pub. L. 93–647][/us/pl/93/647], § 5(d), inserted “(including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions)” after “training”.
 
-    1972—Subsec. (a). [Pub. L. 92–512, § 301(d)][/us/pl/92/512/s301/d], substituted “shall (subject to [section 1320b of this title][/us/usc/t42/s1320b]) pay” for “shall pay” in provisions preceding par. (1).
+    1972—Subsec. (a). [Pub. L. 92–512][/us/pl/92/512], § 301(d), substituted “shall (subject to [section 1320b of this title][/us/usc/t42/s1320b]) pay” for “shall pay” in provisions preceding par. (1).
 
-    Subsec. (a)(3)(E). [Pub. L. 92–512, § 301(b)][/us/pl/92/512/s301/b], substituted “under conditions which shall be” for “subject to limitations”.
+    Subsec. (a)(3)(E). [Pub. L. 92–512][/us/pl/92/512], § 301(b), substituted “under conditions which shall be” for “subject to limitations”.
 
     1968—Subsec. (a)(3)(D). [Pub. L. 90–248][/us/pl/90/248] inserted, “except to the extent specified by the Secretary” after “shall” in introductory text to subpar. (D).
 
     1965—Subsec. (a)(1). [Pub. L. 89–97][/us/pl/89/97], §§ 122, 401(e), inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase appearing in so much of par. (1) as precedes clause (A); and substituted “31/37” and “$37” for “29/35” and “$35” in subpar. (A) and “$75” for “$70” in subpar. (B), respectively.
 
-    Subsec. (a)(2). [Pub. L. 89–97, § 122][/us/pl/89/97/s122], inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase.
+    Subsec. (a)(2). [Pub. L. 89–97][/us/pl/89/97], § 122, inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase.
 
-    1962—Subsec. (a)(1). [Pub. L. 87–543, § 132(c)][/us/pl/87/543/s132/c], substituted “29/35” and “$35” for “four-fifths” and “$31”, respectively, in subpar. (A) and “$70” for “$66” in subpar. (B).
+    1962—Subsec. (a)(1). [Pub. L. 87–543][/us/pl/87/543], § 132(c), substituted “29/35” and “$35” for “four-fifths” and “$31”, respectively, in subpar. (A) and “$70” for “$66” in subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 87–543, § 132(c)][/us/pl/87/543/s132/c], substituted “$37.50” for “$35.50”.
+    Subsec. (a)(2). [Pub. L. 87–543][/us/pl/87/543], § 132(c), substituted “$37.50” for “$35.50”.
 
-    Subsec. (a)(3). [Pub. L. 87–543, § 101(a)(4)][/us/pl/87/543/s101/a/4], (b)(4)(A), inserted in opening provisions “whose State plan approved under [section 1352 of this title][/us/usc/t42/s1352] meets the requirements of subsection (c)(1) of this section” after “any State”, and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-support or self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of aid to the permanently and totally disabled and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary, for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff services of State or local public assistance agencies to applicants for and recipients of aid to the permanently and totally disabled to help them attain self-support or self-care.
+    Subsec. (a)(3). [Pub. L. 87–543][/us/pl/87/543], § 101(a)(4), (b)(4)(A), inserted in opening provisions “whose State plan approved under [section 1352 of this title][/us/usc/t42/s1352] meets the requirements of subsection (c)(1) of this section” after “any State”, and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-support or self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of aid to the permanently and totally disabled and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary, for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff services of State or local public assistance agencies to applicants for and recipients of aid to the permanently and totally disabled to help them attain self-support or self-care.
 
-    Subsec. (a)(4). [Pub. L. 87–543, § 101(b)(4)(B)][/us/pl/87/543/s101/b/4/B], added par. (4).
+    Subsec. (a)(4). [Pub. L. 87–543][/us/pl/87/543], § 101(b)(4)(B), added par. (4).
 
-    Subsec. (c). [Pub. L. 87–543, § 101(b)(4)(C)][/us/pl/87/543/s101/b/4/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 87–543][/us/pl/87/543], § 101(b)(4)(C), added subsec. (c).
 
     1961—Subsec. (a). [Pub. L. 87–64][/us/pl/87/64] substituted “$31” for “$30” and “$66” for “$65” in cl. (1), and “$35.50” for “$35” in cl. (2).
 
@@ -170,67 +170,67 @@
 ----------
 ----------
 
-[/us/pl/97/35/s2184/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fc%2F2%2FA
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F817
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F556
-[/us/act/1952-07-18/ch945/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs8%2Fd
+[/us/act/1952-07-18/ch945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945
 [/us/stat/66/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F779
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F847
-[/us/pl/85/840/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs504
+[/us/pl/85/840/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtV
 [/us/stat/72/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1049
-[/us/pl/87/64/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2Fs303%2Fc
+[/us/pl/87/64/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64%2FtIII
 [/us/stat/75/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F143
-[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F178
-[/us/pl/89/97/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs122
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F353
-[/us/pl/90/248/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs212%2Fc
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F897
-[/us/pl/92/512/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2Fs301%2Fb
+[/us/pl/92/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2FtIII
 [/us/stat/86/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F946
 [/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2349
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/35/s2184/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fc%2F2
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F817
-[/us/pl/99/603/s121/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fb%2F4
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3391
-[/us/pl/103/66/s13741/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13741%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F663
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/usc/t42/s1320b–7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937%2Fd
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
-[/us/pl/97/35/s2184/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fc%2F2%2FA
-[/us/pl/97/35/s2184/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fc%2F2%2FB
-[/us/pl/97/35/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353
-[/us/pl/97/35/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1352
-[/us/pl/97/35/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353
-[/us/pl/93/647/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs3%2Fe%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/usc/t42/s1320b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b
-[/us/pl/93/647/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs5%2Fd
-[/us/pl/92/512/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2Fs301%2Fd
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
+[/us/pl/92/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512
 [/us/usc/t42/s1320b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b
-[/us/pl/92/512/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2Fs301%2Fb
+[/us/pl/92/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
-[/us/pl/89/97/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs122
-[/us/pl/87/543/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs132%2Fc
-[/us/pl/87/543/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs132%2Fc
-[/us/pl/87/543/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs101%2Fa%2F4
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
 [/us/usc/t42/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1352
-[/us/pl/87/543/s101/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs101%2Fb%2F4%2FB
-[/us/pl/87/543/s101/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs101%2Fb%2F4%2FC
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
+[/us/pl/87/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66

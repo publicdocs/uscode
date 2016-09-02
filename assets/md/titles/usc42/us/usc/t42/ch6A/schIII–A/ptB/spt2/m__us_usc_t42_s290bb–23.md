@@ -75,7 +75,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 517, formerly § 509A, as added [Pub. L. 99–570, title IV, § 4005(a)][/us/pl/99/570/s4005/a], Oct. 27, 1986, [100 Stat. 3207–113][/us/stat/100/3207-113]; amended [Pub. L. 100–690, title II, § 2051(d)][/us/pl/100/690/s2051/d], Nov. 18, 1988, [102 Stat. 4206][/us/stat/102/4206]; renumbered § 517 and amended [Pub. L. 102–321, title I, § 114][/us/pl/102/321/s114], July 10, 1992, [106 Stat. 346][/us/stat/106/346]; [Pub. L. 106–310, div. B, title XXXI, § 3103][/us/pl/106/310/s3103], Oct. 17, 2000, [114 Stat. 1171][/us/stat/114/1171].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 517, formerly § 509A, as added [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4005(a), Oct. 27, 1986, [100 Stat. 3207–113][/us/stat/100/3207-113]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2051(d), Nov. 18, 1988, [102 Stat. 4206][/us/stat/102/4206]; renumbered § 517 and amended [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 114, July 10, 1992, [106 Stat. 346][/us/stat/106/346]; [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3103, Oct. 17, 2000, [114 Stat. 1171][/us/stat/114/1171].)
 
  __References in Text__ 
 
@@ -87,23 +87,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 517 of act July 1, 1944, was classified to [section 290cc–2 of this title][/us/usc/t42/s290cc–2], prior to repeal by [Pub. L. 102–321, title I, § 123(c)][/us/pl/102/321/s123/c], July 10, 1992, [106 Stat. 363][/us/stat/106/363].
+    A prior section 517 of act July 1, 1944, was classified to [section 290cc–2 of this title][/us/usc/t42/s290cc–2], prior to repeal by [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 123(c), July 10, 1992, [106 Stat. 363][/us/stat/106/363].
 
  __Amendments__ 
 
     2000—Subsec. (h). [Pub. L. 106–310][/us/pl/106/310] substituted “such sums as may be necessary for each of the fiscal years 2001 through 2003” for “$70,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
 
-    1992—Subsec. (a). [Pub. L. 102–321, § 114(d)][/us/pl/102/321/s114/d], substituted “Prevention Center” for “Office”.
+    1992—Subsec. (a). [Pub. L. 102–321][/us/pl/102/321], § 114(d), substituted “Prevention Center” for “Office”.
 
-    Subsecs. (c) to (g). [Pub. L. 102–321, § 114(b)][/us/pl/102/321/s114/b], added subsec. (c) and redesignated former subsecs. (c) through (f) as (d) through (g), respectively.
+    Subsecs. (c) to (g). [Pub. L. 102–321][/us/pl/102/321], § 114(b), added subsec. (c) and redesignated former subsecs. (c) through (f) as (d) through (g), respectively.
 
-    Subsec. (h). [Pub. L. 102–321, § 114(c)][/us/pl/102/321/s114/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 102–321][/us/pl/102/321], § 114(c), added subsec. (h).
 
-    1988—Subsec. (b)(5). [Pub. L. 100–690, § 2051(d)(1)][/us/pl/100/690/s2051/d/1], added par. (5).
+    1988—Subsec. (b)(5). [Pub. L. 100–690][/us/pl/100/690], § 2051(d)(1), added par. (5).
 
-    Subsec. (f)(9). [Pub. L. 100–690, § 2051(d)(2)(B)][/us/pl/100/690/s2051/d/2/B], amended par. (9) generally, substituting “has experienced long-term physical pain due to injury; or” for “is disabled by injuries.”
+    Subsec. (f)(9). [Pub. L. 100–690][/us/pl/100/690], § 2051(d)(2)(B), amended par. (9) generally, substituting “has experienced long-term physical pain due to injury; or” for “is disabled by injuries.”
 
-    Subsec. (f)(10). [Pub. L. 100–690, § 2051(d)(2)(C)][/us/pl/100/690/s2051/d/2/C], added par. (10).
+    Subsec. (f)(10). [Pub. L. 100–690][/us/pl/100/690], § 2051(d)(2)(C), added par. (10).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -118,13 +118,13 @@
 
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4005%2Fa
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-113
-[/us/pl/100/690/s2051/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2051%2Fd
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4206
-[/us/pl/102/321/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs114
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F346
-[/us/pl/106/310/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3103
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1171
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
@@ -132,15 +132,15 @@
 [/us/usc/t42/s290aa–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%938
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290cc–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%932
-[/us/pl/102/321/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs123%2Fc
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F363
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/102/321/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs114%2Fd
-[/us/pl/102/321/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs114%2Fb
-[/us/pl/102/321/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs114%2Fc
-[/us/pl/100/690/s2051/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2051%2Fd%2F1
-[/us/pl/100/690/s2051/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2051%2Fd%2F2%2FB
-[/us/pl/100/690/s2051/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2051%2Fd%2F2%2FC
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

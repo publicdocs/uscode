@@ -77,25 +77,25 @@
 
         Effective October 28, 2019, this section shall have no further force or effect.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3686\], as added [Pub. L. 108–375, div. C, title XXXI, § 3161][/us/pl/108/375/s3161], Oct. 28, 2004, [118 Stat. 2185][/us/stat/118/2185]; amended [Pub. L. 110–181, div. C, title XXXI, § 3116][/us/pl/110/181/s3116], Jan. 28, 2008, [122 Stat. 578][/us/stat/122/578]; [Pub. L. 111–84, div. C, title XXXI, § 3142(a)][/us/pl/111/84/s3142/a], Oct. 28, 2009, [123 Stat. 2715][/us/stat/123/2715]; [Pub. L. 113–291, div. C, title XXXI, § 3141(b)][/us/pl/113/291/s3141/b], Dec. 19, 2014, [128 Stat. 3899][/us/stat/128/3899].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3686\], as added [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3161, Oct. 28, 2004, [118 Stat. 2185][/us/stat/118/2185]; amended [Pub. L. 110–181, div. C, title XXXI][/us/pl/110/181/dC/tXXXI], § 3116, Jan. 28, 2008, [122 Stat. 578][/us/stat/122/578]; [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3142(a), Oct. 28, 2009, [123 Stat. 2715][/us/stat/123/2715]; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3141(b), Dec. 19, 2014, [128 Stat. 3899][/us/stat/128/3899].)
 
  __Amendments__ 
 
-    2014—Subsec. (e)(1). [Pub. L. 113–291, § 3141(b)(1)(A)][/us/pl/113/291/s3141/b/1/A], substituted “July 30” for “February 15”.
+    2014—Subsec. (e)(1). [Pub. L. 113–291][/us/pl/113/291], § 3141(b)(1)(A), substituted “July 30” for “February 15”.
 
-    Subsec. (e)(4). [Pub. L. 113–291, § 3141(b)(1)(B)][/us/pl/113/291/s3141/b/1/B], added par. (4).
+    Subsec. (e)(4). [Pub. L. 113–291][/us/pl/113/291], § 3141(b)(1)(B), added par. (4).
 
-    Subsec. (h). [Pub. L. 113–291, § 3141(b)(2)][/us/pl/113/291/s3141/b/2], substituted “2019” for “2012”.
+    Subsec. (h). [Pub. L. 113–291][/us/pl/113/291], § 3141(b)(2), substituted “2019” for “2012”.
 
-    2009—Subsecs. (c) to (e). [Pub. L. 111–84, § 3142(a)(1)][/us/pl/111/84/s3142/a/1]–(3), inserted “and part B” after “this part” wherever appearing.
+    2009—Subsecs. (c) to (e). [Pub. L. 111–84][/us/pl/111/84], § 3142(a)(1)–(3), inserted “and part B” after “this part” wherever appearing.
 
-    Subsecs. (g), (h). [Pub. L. 111–84, § 3142(a)(4)][/us/pl/111/84/s3142/a/4], (5), added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 111–84][/us/pl/111/84], § 3142(a)(4), (5), added subsec. (g) and redesignated former subsec. (g) as (h).
 
     2008—Subsec. (g). [Pub. L. 110–181][/us/pl/110/181] substituted “October 28, 2012” for “on the date that is 3 years after October 28, 2004”.
 
  __Construction__ 
 
-[Pub. L. 111–84, div. C, title XXXI, § 3142(b)][/us/pl/111/84/s3142/b], Oct. 28, 2009, [123 Stat. 2716][/us/stat/123/2716], provided that: 
+[Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3142(b), Oct. 28, 2009, [123 Stat. 2716][/us/stat/123/2716], provided that: 
 
 > “Except as specifically provided in subsection (g) of section 3686 of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[[42 U.S.C. 7385s–15(g)][/us/usc/t42/s7385s–15/g]\], as amended by subsection (a) of this section, nothing in the amendments made by such subsection (a) shall be construed to alter or affect the duties and functions of the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 ([42 U.S.C. 7384][/us/usc/t42/s7384]l et seq.).”
 
@@ -106,22 +106,22 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/375/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3161
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2185
-[/us/pl/110/181/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3116
+[/us/pl/110/181/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXI
 [/us/stat/122/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F578
-[/us/pl/111/84/s3142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3142%2Fa
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2715
-[/us/pl/113/291/s3141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3899
-[/us/pl/113/291/s3141/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb%2F1%2FA
-[/us/pl/113/291/s3141/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb%2F1%2FB
-[/us/pl/113/291/s3141/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb%2F2
-[/us/pl/111/84/s3142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3142%2Fa%2F1
-[/us/pl/111/84/s3142/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3142%2Fa%2F4
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/111/84/s3142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3142%2Fb
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2716
 [/us/usc/t42/s7385s–15/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%9315%2Fg
 [/us/usc/t42/s7384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384

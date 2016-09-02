@@ -57,7 +57,7 @@
 
         In this section, the term “cost” means an expense, including an administrative expense, incurred by a recipient in developing or carrying out an agreement described in subsection (a), whether the recipient contributed funds, staff time, or other plant, equipment, or services to meet the expense.
 
-([Pub. L. 89–73, title II, § 212][/us/pl/89/73/s212], formerly § 213, as added [Pub. L. 95–478, title I, § 102(i)][/us/pl/95/478/s102/i], Oct. 18, 1978, [92 Stat. 1516][/us/stat/92/1516]; amended [Pub. L. 97–35, title VI, § 606(c)][/us/pl/97/35/s606/c], Aug. 13, 1981, [95 Stat. 486][/us/stat/95/486]; renumbered § 212, [Pub. L. 97–115, § 2(e)(2)][/us/pl/97/115/s2/e/2], Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 100–175, title I, § 107(c)][/us/pl/100/175/s107/c], Nov. 29, 1987, [101 Stat. 931][/us/stat/101/931]; [Pub. L. 103–171, § 3(a)(4)][/us/pl/103/171/s3/a/4], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 109–365, title II, § 207][/us/pl/109/365/s207], Oct. 17, 2006, [120 Stat. 2536][/us/stat/120/2536].)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 212, formerly § 213, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(i), Oct. 18, 1978, [92 Stat. 1516][/us/stat/92/1516]; amended [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 606(c), Aug. 13, 1981, [95 Stat. 486][/us/stat/95/486]; renumbered § 212, [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 107(c), Nov. 29, 1987, [101 Stat. 931][/us/stat/101/931]; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(4), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 207, Oct. 17, 2006, [120 Stat. 2536][/us/stat/120/2536].)
 
  __Prior Provisions__ 
 
@@ -89,18 +89,18 @@
 ----------
 
 [/us/usc/t42/s3026/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F13
-[/us/pl/89/73/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs212
-[/us/pl/95/478/s102/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fi
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1516
-[/us/pl/97/35/s606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs606%2Fc
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F486
-[/us/pl/97/115/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fe%2F2
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1596
-[/us/pl/100/175/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs107%2Fc
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F931
-[/us/pl/103/171/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F4
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/109/365/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs207
+[/us/pl/109/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtII
 [/us/stat/120/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2536
 [/us/pl/89/73/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs212
 [/us/usc/t42/s3020b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3020b

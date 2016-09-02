@@ -63,15 +63,15 @@
 
         The Secretary shall establish a State and local advisory committee to advise the Secretary regarding administration, implementation, and evaluation of the program.
 
-([Pub. L. 110–140, title V, § 543][/us/pl/110/140/s543], Dec. 19, 2007, [121 Stat. 1668][/us/stat/121/1668]; [Pub. L. 111–5, div. A, title IV, § 404(a)][/us/pl/111/5/s404/a], (b), Feb. 17, 2009, [123 Stat. 143][/us/stat/123/143].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 543, Dec. 19, 2007, [121 Stat. 1668][/us/stat/121/1668]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 404(a), (b), Feb. 17, 2009, [123 Stat. 143][/us/stat/123/143].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–5, § 404(a)(2)][/us/pl/111/5/s404/a/2], added par. (1) and struck out former par. (1) which read as follows: “68 percent to eligible units of local government in accordance with subsection (b);”.
+    2009—Subsec. (a)(1). [Pub. L. 111–5][/us/pl/111/5], § 404(a)(2), added par. (1) and struck out former par. (1) which read as follows: “68 percent to eligible units of local government in accordance with subsection (b);”.
 
-    Subsec. (a)(2) to (5). [Pub. L. 111–5, § 404(a)][/us/pl/111/5/s404/a], added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+    Subsec. (a)(2) to (5). [Pub. L. 111–5][/us/pl/111/5], § 404(a), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-    Subsec. (b). [Pub. L. 111–5, § 404(b)][/us/pl/111/5/s404/b], substituted “subsection (a)(1) or (2)” for “subsection (a)(1)” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–5][/us/pl/111/5], § 404(b), substituted “subsection (a)(1) or (2)” for “subsection (a)(1)” in introductory provisions.
 
 ----------
 
@@ -81,12 +81,12 @@
 ----------
 
 [/us/usc/t42/s17156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17156
-[/us/pl/110/140/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs543
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1668
-[/us/pl/111/5/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs404%2Fa
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F143
-[/us/pl/111/5/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs404%2Fa%2F2
-[/us/pl/111/5/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs404%2Fa
-[/us/pl/111/5/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs404%2Fb
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 
 

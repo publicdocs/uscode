@@ -29,7 +29,7 @@
 
         If the Administrator determines that immediate suspension of the construction or operation of an ocean thermal energy conversion facility or plantship or any component thereof is necessary to protect public health and safety or to eliminate imminent and substantial danger to the environment the Administrator may order the licensee to cease or alter such construction or operation pending the completion of a judicial proceeding pursuant to subsection (a) of this section.
 
-([Pub. L. 96–320, title I, § 111][/us/pl/96/320/s111], Aug. 3, 1980, [94 Stat. 988][/us/stat/94/988]; [Pub. L. 98–623, title VI, § 602(e)(17)][/us/pl/98/623/s602/e/17], Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 111, Aug. 3, 1980, [94 Stat. 988][/us/stat/94/988]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(e)(17), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/96/320/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs111
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F988
-[/us/pl/98/623/s602/e/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F17
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3412
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

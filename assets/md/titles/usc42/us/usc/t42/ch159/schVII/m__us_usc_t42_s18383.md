@@ -17,7 +17,7 @@
 
     The Administrator shall continue to take all necessary steps to ensure that provisions are made for in-space or human servicing and repair of all future observatory-class scientific spacecraft intended to be deployed in Earth-orbit or at a Lagrangian point to the extent practicable and appropriate. The Administrator should ensure that agency investments and future capabilities for space technology, robotics, and human space flight take the ability to service and repair these spacecraft into account, where appropriate, and incorporate such capabilities into design and operational plans.
 
-([Pub. L. 111–267, title VIII, § 804][/us/pl/111/267/s804], Oct. 11, 2010, [124 Stat. 2833][/us/stat/124/2833].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 804, Oct. 11, 2010, [124 Stat. 2833][/us/stat/124/2833].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs804
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2833
 
 

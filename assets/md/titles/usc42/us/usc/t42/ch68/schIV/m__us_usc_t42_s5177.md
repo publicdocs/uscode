@@ -29,7 +29,7 @@
 
             The President may provide reemployment assistance services under other laws to individuals who are unemployed as a result of a major disaster and who reside in a State which does not provide such services.
 
-([Pub. L. 93–288, title IV, § 410][/us/pl/93/288/s410], formerly § 407, May 22, 1974, [88 Stat. 156][/us/stat/88/156]; renumbered § 410 and amended [Pub. L. 100–707, title I, § 106(e)][/us/pl/100/707/s106/e], (f), Nov. 23, 1988, [102 Stat. 4703][/us/stat/102/4703], 4704.)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 410, formerly § 407, May 22, 1974, [88 Stat. 156][/us/stat/88/156]; renumbered § 410 and amended [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(e), (f), Nov. 23, 1988, [102 Stat. 4703][/us/stat/102/4703], 4704.)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–707, § 106(f)(1)][/us/pl/100/707/s106/f/1]–(3), inserted “for the weeks of such unemployment with respect to which the individual is not entitled to any other unemployment compensation (as that term is defined in [section 85(b) of title 26][/us/usc/t26/s85/b]) or waiting period credit” for “is unemployed” before period at end of first sentence, substituted “26 weeks” for “one year” in second sentence, and substituted “occurred” for “occurred, and the amount of assistance under this section to any such individual for a week of unemployment shall be reduced by any amount of unemployment compensation or of private income protection insurance compensation available to such individual for such week of unemployment” in third sentence.
+    1988—Subsec. (a). [Pub. L. 100–707][/us/pl/100/707], § 106(f)(1)–(3), inserted “for the weeks of such unemployment with respect to which the individual is not entitled to any other unemployment compensation (as that term is defined in [section 85(b) of title 26][/us/usc/t26/s85/b]) or waiting period credit” for “is unemployed” before period at end of first sentence, substituted “26 weeks” for “one year” in second sentence, and substituted “occurred” for “occurred, and the amount of assistance under this section to any such individual for a week of unemployment shall be reduced by any amount of unemployment compensation or of private income protection insurance compensation available to such individual for such week of unemployment” in third sentence.
 
-    Subsec. (b). [Pub. L. 100–707, § 106(f)(4)][/us/pl/100/707/s106/f/4], inserted heading and amended text generally. Prior to amendment, text read as follows: “The President is further authorized for the purposes of this chapter to provide reemployment assistance services under other laws to individuals who are unemployed as a result of a major disaster.”
+    Subsec. (b). [Pub. L. 100–707][/us/pl/100/707], § 106(f)(4), inserted heading and amended text generally. Prior to amendment, text read as follows: “The President is further authorized for the purposes of this chapter to provide reemployment assistance services under other laws to individuals who are unemployed as a result of a major disaster.”
 
 ----------
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t26/s85/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs85%2Fb
-[/us/pl/93/288/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs410
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F156
-[/us/pl/100/707/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fe
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4703
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -63,8 +63,8 @@
 [/us/pl/93/288/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs410
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5180
-[/us/pl/100/707/s106/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Ff%2F1
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t26/s85/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs85%2Fb
-[/us/pl/100/707/s106/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Ff%2F4
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 
 

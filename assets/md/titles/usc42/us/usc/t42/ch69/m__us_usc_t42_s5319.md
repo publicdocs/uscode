@@ -17,7 +17,7 @@
 
     No community shall be barred from participating in any program authorized under this chapter solely on the basis of population, except as expressly authorized by statute.
 
-([Pub. L. 93–383, title I, § 120][/us/pl/93/383/s120], as added [Pub. L. 95–557, title I, § 103(i)][/us/pl/95/557/s103/i], Oct. 31, 1978, [92 Stat. 2084][/us/stat/92/2084].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 120, as added [Pub. L. 95–557, title I][/us/pl/95/557/tI], § 103(i), Oct. 31, 1978, [92 Stat. 2084][/us/stat/92/2084].)
 
  __References in Text__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/93/383/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs120
-[/us/pl/95/557/s103/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs103%2Fi
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
+[/us/pl/95/557/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtI
 [/us/stat/92/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2084
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

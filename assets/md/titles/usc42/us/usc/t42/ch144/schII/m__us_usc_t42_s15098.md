@@ -27,7 +27,7 @@
 
         An entity providing technical assistance and information under this section shall prepare and submit to the Secretary periodic reports regarding Federal policies and procedures identified within the States that facilitate or impede the delivery of family support services to families of children with disabilities. The report shall include recommendations to the Secretary regarding the delivery of services, coordination with other programs, and integration of the policies described in [section 15091 of this title][/us/usc/t42/s15091] in Federal law, other than this subchapter.
 
-([Pub. L. 106–402, title II, § 209][/us/pl/106/402/s209], Oct. 30, 2000, [114 Stat. 1732][/us/stat/114/1732].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 209, Oct. 30, 2000, [114 Stat. 1732][/us/stat/114/1732].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s15091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15091
-[/us/pl/106/402/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs209
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1732
 
 

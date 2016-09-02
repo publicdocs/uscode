@@ -17,7 +17,7 @@
 
     A State seeking an increase in the amount provided to the State under the covered formula grants shall include in the application of the State for each covered formula grant such information as the Attorney General may reasonably require, including information about the law described in [section 14043h–2 of this title][/us/usc/t42/s14043h–2].
 
-([Pub. L. 114–22, title IV, § 405][/us/pl/114/22/s405], May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 405, May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s14043h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%932
-[/us/pl/114/22/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs405
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F257
 
 

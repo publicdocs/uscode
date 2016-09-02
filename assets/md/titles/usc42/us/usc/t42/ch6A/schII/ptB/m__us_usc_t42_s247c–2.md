@@ -17,7 +17,7 @@
 
     For the purpose of collecting and providing data for program planning and evaluation activities under subchapter XXIV of this chapter, there are authorized to be appropriated to the Secretary (acting through the Director of the Centers for Disease Control and Prevention) such sums as may be necessary for each of the fiscal years 2001 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for such purpose.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 318B, as added [Pub. L. 106–345, title IV, § 412][/us/pl/106/345/s412], Oct. 20, 2000, [114 Stat. 1350][/us/stat/114/1350].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 318B, as added [Pub. L. 106–345, title IV][/us/pl/106/345/tIV], § 412, Oct. 20, 2000, [114 Stat. 1350][/us/stat/114/1350].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/345/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs412
+[/us/pl/106/345/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIV
 [/us/stat/114/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1350
 
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–310, div. B, title XXXIV, § 3404(1)][/us/pl/106/310/s3404/1], Oct. 17, 2000, [114 Stat. 1220][/us/stat/114/1220], added part C heading and struck out former part C heading “Certain Programs Regarding Substance Abuse”.
+    2000—[Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3404(1), Oct. 17, 2000, [114 Stat. 1220][/us/stat/114/1220], added part C heading and struck out former part C heading “Certain Programs Regarding Substance Abuse”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/310/s3404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3404%2F1
+[/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1220
 
 

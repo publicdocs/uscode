@@ -17,7 +17,7 @@
 
     Accompanying such medals designated in this chapter there shall be an appropriate certificate of commendation presented to the recipient or recipients stating (a) the circumstances under which the act of bravery was performed, and (b) citing the outstanding recognition for character and service: Provided, That there shall not be awarded in any one calendar year in excess of four such medals, to wit, two for bravery and two for character and service, as herein authorized.
 
-([Aug. 3, 1950, ch. 520, § 4][/us/act/1950-08-03/ch520/s4], [64 Stat. 398][/us/stat/64/398].)
+([Aug. 3, 1950, ch. 520][/us/act/1950-08-03/ch520], § 4, [64 Stat. 398][/us/stat/64/398].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-03/ch520/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520%2Fs4
+[/us/act/1950-08-03/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520
 [/us/stat/64/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F398
 
 

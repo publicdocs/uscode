@@ -117,7 +117,7 @@
 
             (B) a significant portion of which is a health professional shortage area as designated under [section 254e of this title][/us/usc/t42/s254e].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V, as added and amended [Pub. L. 111–148, title V, § 5313(a)][/us/pl/111/148/s5313/a], title X, § 10501(c), Mar. 23, 2010, [124 Stat. 633][/us/stat/124/633], 994; [Pub. L. 113–128, title V, § 512(z)(1)][/us/pl/113/128/s512/z/1], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V, as added and amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5313(a), title X, § 10501(c), Mar. 23, 2010, [124 Stat. 633][/us/stat/124/633], 994; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(z)(1), July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
 
  __References in Text__ 
 
@@ -127,9 +127,9 @@
 
     2014—Subsec. (e). [Pub. L. 113–128][/us/pl/113/128] substituted “one-stop delivery systems under [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “one-stop delivery systems under [section 2864(c) of title 29][/us/usc/t29/s2864/c]”.
 
-    2010—Subsec. (b)(4). [Pub. L. 111–148, § 10501(c)(1)][/us/pl/111/148/s10501/c/1], substituted “identify and refer” for “identify, educate, refer, and enroll”.
+    2010—Subsec. (b)(4). [Pub. L. 111–148][/us/pl/111/148], § 10501(c)(1), substituted “identify and refer” for “identify, educate, refer, and enroll”.
 
-    Subsec. (k)(1). [Pub. L. 111–148, § 10501(c)(2)][/us/pl/111/148/s10501/c/2], struck out “, as defined by the Department of Labor as Standard Occupational Classification \[21–1094\]” before “means” in introductory provisions.
+    Subsec. (k)(1). [Pub. L. 111–148][/us/pl/111/148], § 10501(c)(2), struck out “, as defined by the Department of Labor as Standard Occupational Classification \[21–1094\]” before “means” in introductory provisions.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -150,9 +150,9 @@
 [/us/usc/t42/s254b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fb%2F3
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5313%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F633
-[/us/pl/113/128/s512/z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F1
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -160,8 +160,8 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/pl/111/148/s10501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fc%2F1
-[/us/pl/111/148/s10501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fc%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

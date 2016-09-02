@@ -49,7 +49,7 @@
 
         The determination of any applicable premium shall be made for a period of 12 months and shall be made before the beginning of such period.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2204, as added [Pub. L. 99–272, title X, § 10003(a)][/us/pl/99/272/s10003/a], Apr. 7, 1986, [100 Stat. 234][/us/stat/100/234].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXII, § 2204, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10003(a), Apr. 7, 1986, [100 Stat. 234][/us/stat/100/234].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/272/s10003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10003%2Fa
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F234
 
 

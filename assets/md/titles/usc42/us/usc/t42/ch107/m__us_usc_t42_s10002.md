@@ -21,7 +21,7 @@
 
     (2) insure that medical and dental radiologic procedures are consistent with rigorous safety precautions and standards.
 
-([Pub. L. 97–35, title IX, § 977][/us/pl/97/35/s977], Aug. 13, 1981, [95 Stat. 599][/us/stat/95/599].)
+([Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 977, Aug. 13, 1981, [95 Stat. 599][/us/stat/95/599].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs977
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F599
 
 

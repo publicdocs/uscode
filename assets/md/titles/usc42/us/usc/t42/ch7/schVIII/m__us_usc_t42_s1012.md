@@ -57,7 +57,7 @@
 
         The term “benefit income” means any recurring payment received by a qualified individual as an annuity, pension, retirement, or disability benefit (including any veterans’ compensation or pension, workmen’s compensation payment, old-age, survivors, or disability insurance benefit, railroad retirement annuity or pension, and unemployment insurance benefit), but only if a similar payment was received by the individual from the same (or a related) source during the 12-month period preceding the month in which the individual files an application for benefits under this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 812, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1853][/us/stat/113/1853].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 812, as added [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(a), Dec. 14, 1999, [113 Stat. 1853][/us/stat/113/1853].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/usc/t42/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301%2Fa%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/169/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1853
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb

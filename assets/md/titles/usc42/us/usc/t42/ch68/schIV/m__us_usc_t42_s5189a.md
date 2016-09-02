@@ -27,11 +27,11 @@
 
         The President shall issue rules which provide for the fair and impartial consideration of appeals under this section.
 
-([Pub. L. 93–288, title IV, § 423][/us/pl/93/288/s423], as added [Pub. L. 100–707, title I, § 106][/us/pl/100/707/s106](l), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 423, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(l), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
 
  __Dispute Resolution Pilot Program__ 
 
-[Pub. L. 113–2, div. B, § 1105][/us/pl/113/2/s1105], Jan. 29, 2013, [127 Stat. 43][/us/stat/127/43], provided that:
+[Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1105, Jan. 29, 2013, [127 Stat. 43][/us/stat/127/43], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -128,10 +128,10 @@
 ----------
 ----------
 
-[/us/pl/93/288/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs423
-[/us/pl/100/707/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
-[/us/pl/113/2/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1105
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F43
 [/us/usc/t42/s5170b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170b
 [/us/usc/t42/s5170b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170b

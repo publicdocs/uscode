@@ -29,7 +29,7 @@
 
         Notwithstanding any other provisions of law unless hereafter enacted expressly in limitation hereof, moneys shall be deposited in the reserve account established pursuant to subsection (a) and subsection (b) of [section 1543 of this title][/us/usc/t42/s1543] (which account is hereby continued subject to the limitation as to amount specified in subsection (c) thereof) and all moneys deposited in such reserve account shall be and remain available for any or all of the purposes specified in said subsections (a) or (b) or in this section without regard to the time prescribed in subsection (c) of [section 1543 of this title][/us/usc/t42/s1543] with respect to covering moneys in such account into miscellaneous receipts. Moneys in such reserve accounts shall also be available for the payment of necessary expenses (which shall be considered nonadministrative expenses) in connection with administering (1) transfers pursuant to [section 1581 of this title][/us/usc/t42/s1581], (2) redeterminations of the temporary or permanent character of demountable housing pursuant to [section 1583 of this title][/us/usc/t42/s1583], (3) changes in land tenure and revisions in the consideration payable to landowners pursuant to subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsections”. </sup></sup>  (a) and (b), and (4) transfers of permanent war housing for low-rent use pursuant to [section 1586 of this title][/us/usc/t42/s1586]. Moneys in such reserve account shall also be available for the purpose of making improvements to, or alterations of, any permanent housing or part thereof if (1) the dwelling structures therein are designed for occupancy by not more than four families and are to be sold separately and (2) such improvement or alteration is requested by the local governing body as a condition to the acceptance of the dedication of streets or utilities or is necessary for compliance with local law or regulation relating to the continued operation or occupancy of the housing by a purchaser.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 605, as added [June 28, 1948, ch. 688, § 7][/us/act/1948-06-28/ch688/s7], as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 603(b), (c), [65 Stat. 314][/us/stat/65/314]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 805(1), [68 Stat. 644][/us/stat/68/644]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 108(d), [69 Stat. 638][/us/stat/69/638]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 605, as added [June 28, 1948, ch. 688][/us/act/1948-06-28/ch688], § 7, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 603(b), (c), [65 Stat. 314][/us/stat/65/314]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 805(1), [68 Stat. 644][/us/stat/68/644]; [Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title I, § 108(d), [69 Stat. 638][/us/stat/69/638]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 [/us/usc/t42/s1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1583
 [/us/usc/t42/s1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1586
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1948-06-28/ch688/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs7
+[/us/act/1948-06-28/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
@@ -75,7 +75,7 @@
 [/us/stat/68/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F644
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F638
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/act/1954-06-24/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-24%2Fch359
 [/us/stat/68/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F294

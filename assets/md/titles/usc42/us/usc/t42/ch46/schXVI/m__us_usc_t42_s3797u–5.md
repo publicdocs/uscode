@@ -23,7 +23,7 @@
 
         In-kind contributions may constitute a portion of the non-Federal share of a grant.
 
-([Pub. L. 90–351, title I, § 2956][/us/pl/90/351/s2956], as added [Pub. L. 107–273, div. B, title II, § 2301(a)][/us/pl/107/273/s2301/a], Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2956, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2301(a), Nov. 2, 2002, [116 Stat. 1797][/us/stat/116/1797].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t42/s3797u–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797u%E2%80%934
-[/us/pl/90/351/s2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2956
-[/us/pl/107/273/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1797
 
 

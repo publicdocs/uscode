@@ -129,7 +129,7 @@
 
             (D) was in existence as a colonia before November 28, 1990.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 509, [63 Stat. 436][/us/stat/63/436]; [Pub. L. 95–128, title V, § 504][/us/pl/95/128/s504], Oct. 12, 1977, [91 Stat. 1139][/us/stat/91/1139]; [Pub. L. 96–153, title V, § 508][/us/pl/96/153/s508], Dec. 21, 1979, [93 Stat. 1136][/us/stat/93/1136]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 506(a)\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 101–625, title VII][/us/pl/101/625], §§ 708, 709(b), Nov. 28, 1990, [104 Stat. 4287][/us/stat/104/4287], 4288; [Pub. L. 102–550, title VII, § 705][/us/pl/102/550/s705], Oct. 28, 1992, [106 Stat. 3835][/us/stat/106/3835]; [Pub. L. 104–120, § 4(a)][/us/pl/104/120/s4/a], Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835]; [Pub. L. 104–180, title VII, § 734(b)][/us/pl/104/180/s734/b], Aug. 6, 1996, [110 Stat. 1602][/us/stat/110/1602]; [Pub. L. 105–86, title VII, § 735(a)][/us/pl/105/86/s735/a], Nov. 18, 1997, [111 Stat. 2110][/us/stat/111/2110]; [Pub. L. 105–276, title V, § 599C(a)][/us/pl/105/276/s599C/a], (e)(2)(B), Oct. 21, 1998, [112 Stat. 2661][/us/stat/112/2661], 2662.)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 509, [63 Stat. 436][/us/stat/63/436]; [Pub. L. 95–128, title V][/us/pl/95/128/tV], § 504, Oct. 12, 1977, [91 Stat. 1139][/us/stat/91/1139]; [Pub. L. 96–153, title V][/us/pl/96/153/tV], § 508, Dec. 21, 1979, [93 Stat. 1136][/us/stat/93/1136]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 506(a)\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 101–625, title VII][/us/pl/101/625/tVII], §§ 708, 709(b), Nov. 28, 1990, [104 Stat. 4287][/us/stat/104/4287], 4288; [Pub. L. 102–550, title VII][/us/pl/102/550/tVII], § 705, Oct. 28, 1992, [106 Stat. 3835][/us/stat/106/3835]; [Pub. L. 104–120][/us/pl/104/120], § 4(a), Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835]; [Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 734(b), Aug. 6, 1996, [110 Stat. 1602][/us/stat/110/1602]; [Pub. L. 105–86, title VII][/us/pl/105/86/tVII], § 735(a), Nov. 18, 1997, [111 Stat. 2110][/us/stat/111/2110]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599C(a), (e)(2)(B), Oct. 21, 1998, [112 Stat. 2661][/us/stat/112/2661], 2662.)
 
  __References in Text__ 
 
@@ -145,19 +145,19 @@
 
     [Pub. L. 104–120][/us/pl/104/120] substituted “fiscal year 1996” for “fiscal years 1993 and 1994” and “During such fiscal year” for “During each such fiscal year”.
 
-    1992—Subsec. (f)(1). [Pub. L. 102–550, § 705(a)(1)][/us/pl/102/550/s705/a/1], substituted “in each fiscal year” for “in each of fiscal years 1991 and 1992” in introductory provisions.
+    1992—Subsec. (f)(1). [Pub. L. 102–550][/us/pl/102/550], § 705(a)(1), substituted “in each fiscal year” for “in each of fiscal years 1991 and 1992” in introductory provisions.
 
-    Subsec. (f)(2). [Pub. L. 102–550, § 705(a)(2)][/us/pl/102/550/s705/a/2], inserted concluding provisions.
+    Subsec. (f)(2). [Pub. L. 102–550][/us/pl/102/550], § 705(a)(2), inserted concluding provisions.
 
-    Subsec. (f)(4)(A). [Pub. L. 102–550, § 705(a)(3)][/us/pl/102/550/s705/a/3], substituted “an amount equal to 5.0 percent in fiscal years 1993 and 1994” for “an amount equal to 3.5 percent in fiscal year 1991 and 5.0 percent in fiscal year 1992”.
+    Subsec. (f)(4)(A). [Pub. L. 102–550][/us/pl/102/550], § 705(a)(3), substituted “an amount equal to 5.0 percent in fiscal years 1993 and 1994” for “an amount equal to 3.5 percent in fiscal year 1991 and 5.0 percent in fiscal year 1992”.
 
-    Subsec. (f)(4)(B)(ii). [Pub. L. 102–550, § 705(c)][/us/pl/102/550/s705/c], inserted “, or in close proximity to, and serving the residents of,” before “a colonia”.
+    Subsec. (f)(4)(B)(ii). [Pub. L. 102–550][/us/pl/102/550], § 705(c), inserted “, or in close proximity to, and serving the residents of,” before “a colonia”.
 
-    Subsec. (f)(8)(C) to (E). [Pub. L. 102–550, § 705(b)][/us/pl/102/550/s705/b], redesignated subpar. (D) as (C), struck out former subpar. (C) which read as follows: “is designated by the State or county in which it is located as a colonia;”, added subpar. (D), and struck out subpar. (E) which read as follows: “was in existence and generally recognized as a colonia before November 28, 1990.”
+    Subsec. (f)(8)(C) to (E). [Pub. L. 102–550][/us/pl/102/550], § 705(b), redesignated subpar. (D) as (C), struck out former subpar. (C) which read as follows: “is designated by the State or county in which it is located as a colonia;”, added subpar. (D), and struck out subpar. (E) which read as follows: “was in existence and generally recognized as a colonia before November 28, 1990.”
 
-    1990—Subsecs. (d), (e). [Pub. L. 101–625, § 708][/us/pl/101/625/s708], added subsec. (d) and redesignated former subsec. (d) as (e).
+    1990—Subsecs. (d), (e). [Pub. L. 101–625][/us/pl/101/625], § 708, added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    Subsec. (f). [Pub. L. 101–625, § 709(b)][/us/pl/101/625/s709/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–625][/us/pl/101/625], § 709(b), added subsec. (f).
 
     1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181] inserted provisions relating to standards, designated cls. (1) to (4), the compliance with which will result in approval by the Secretary, and inserted provision relating to the promotion of the use of energy saving techniques.
 
@@ -171,19 +171,19 @@
 
  __Regulations__ 
 
-[Pub. L. 101–625, title VII, § 709(c)][/us/pl/101/625/s709/c], Nov. 28, 1990, [104 Stat. 4290][/us/stat/104/4290], provided that: 
+[Pub. L. 101–625, title VII][/us/pl/101/625/tVII], § 709(c), Nov. 28, 1990, [104 Stat. 4290][/us/stat/104/4290], provided that: 
 
 > “Not later than the expiration of the 120-day period beginning on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by this section \[amending this section\].”
 
  __Housing in Underserved Areas__ 
 
-[Pub. L. 101–625, title VII, § 709(a)][/us/pl/101/625/s709/a], Nov. 28, 1990, [104 Stat. 4288][/us/stat/104/4288], provided that: 
+[Pub. L. 101–625, title VII][/us/pl/101/625/tVII], § 709(a), Nov. 28, 1990, [104 Stat. 4288][/us/stat/104/4288], provided that: 
 
 > “The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directing Farmers Home Administration assistance toward designated underserved areas.”
 
  __Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers’ Home Administration__ 
 
-[Pub. L. 100–202, § 101(k)][/us/pl/100/202/s101/k] \[title VI, § 632\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–356, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(k) \[title VI, § 632\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–356, provided that: 
 
 > “During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loan under section 502 of the Housing Act of 1949 \[[section 1472 of this title][/us/usc/t42/s1472]\], if the dwelling is modest in design, size, and cost for the area in which it is located.”
 
@@ -203,23 +203,23 @@
 [/us/usc/t42/s1490m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490m
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F436
-[/us/pl/95/128/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs504
+[/us/pl/95/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtV
 [/us/stat/91/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1139
-[/us/pl/96/153/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs508
+[/us/pl/96/153/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtV
 [/us/stat/93/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1136
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1242
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVII
 [/us/stat/104/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4287
-[/us/pl/102/550/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs705
+[/us/pl/102/550/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVII
 [/us/stat/106/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3835
-[/us/pl/104/120/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs4%2Fa
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F835
-[/us/pl/104/180/s734/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs734%2Fb
+[/us/pl/104/180/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVII
 [/us/stat/110/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1602
-[/us/pl/105/86/s735/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fa
+[/us/pl/105/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2FtVII
 [/us/stat/111/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2110
-[/us/pl/105/276/s599C/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599C%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2661
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -229,24 +229,24 @@
 [/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
 [/us/pl/104/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
-[/us/pl/102/550/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs705%2Fa%2F1
-[/us/pl/102/550/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs705%2Fa%2F2
-[/us/pl/102/550/s705/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs705%2Fa%2F3
-[/us/pl/102/550/s705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs705%2Fc
-[/us/pl/102/550/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs705%2Fb
-[/us/pl/101/625/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs708
-[/us/pl/101/625/s709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs709%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/120/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs13%2Fa
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
-[/us/pl/101/625/s709/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs709%2Fc
+[/us/pl/101/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVII
 [/us/stat/104/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4290
-[/us/pl/101/625/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs709%2Fa
+[/us/pl/101/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVII
 [/us/stat/104/4288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4288
-[/us/pl/100/202/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fk
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-322
 [/us/usc/t42/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1472
 

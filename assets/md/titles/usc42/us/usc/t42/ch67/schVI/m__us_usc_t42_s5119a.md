@@ -69,7 +69,7 @@
 
         In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.
 
-([Pub. L. 103–209, § 3][/us/pl/103/209/s3], Dec. 20, 1993, [107 Stat. 2491][/us/stat/107/2491]; [Pub. L. 103–322, title XXXII, § 320928(a)(1)][/us/pl/103/322/s320928/a/1], (2), (c), (e), Sept. 13, 1994, [108 Stat. 2131][/us/stat/108/2131], 2132; [Pub. L. 105–251, title II, § 222(a)][/us/pl/105/251/s222/a], (b), Oct. 9, 1998, [112 Stat. 1885][/us/stat/112/1885].)
+([Pub. L. 103–209][/us/pl/103/209], § 3, Dec. 20, 1993, [107 Stat. 2491][/us/stat/107/2491]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320928(a)(1), (2), (c), (e), Sept. 13, 1994, [108 Stat. 2131][/us/stat/108/2131], 2132; [Pub. L. 105–251, title II][/us/pl/105/251/tII], § 222(a), (b), Oct. 9, 1998, [112 Stat. 1885][/us/stat/112/1885].)
 
  __References in Text__ 
 
@@ -77,23 +77,23 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(3). [Pub. L. 105–251, § 222(a)][/us/pl/105/251/s222/a], added par. (3).
+    1998—Subsec. (a)(3). [Pub. L. 105–251][/us/pl/105/251], § 222(a), added par. (3).
 
-    Subsec. (b)(5). [Pub. L. 105–251, § 222(b)][/us/pl/105/251/s222/b], inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section”.
+    Subsec. (b)(5). [Pub. L. 105–251][/us/pl/105/251], § 222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–322, § 320928(a)(1)][/us/pl/103/322/s320928/a/1], substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
+    1994—Subsec. (a)(1). [Pub. L. 103–322][/us/pl/103/322], § 320928(a)(1), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
 
-    Subsec. (b)(1)(E). [Pub. L. 103–322, § 320928(a)(2)(A)][/us/pl/103/322/s320928/a/2/A], substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
+    Subsec. (b)(1)(E). [Pub. L. 103–322][/us/pl/103/322], § 320928(a)(2)(A), substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
 
-    Subsec. (b)(4). [Pub. L. 103–322, § 320928(a)(2)(B)][/us/pl/103/322/s320928/a/2/B], substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
+    Subsec. (b)(4). [Pub. L. 103–322][/us/pl/103/322], § 320928(a)(2)(B), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
 
-    Subsec. (d). [Pub. L. 103–322, § 320928(c)][/us/pl/103/322/s320928/c], inserted “(other than itself)” after “failure of a qualified entity”.
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 320928(c), inserted “(other than itself)” after “failure of a qualified entity”.
 
-    Subsec. (e). [Pub. L. 103–322, § 320928(e)][/us/pl/103/322/s320928/e], substituted “eighteen dollars, respectively, or the actual cost, whichever is less,” for “the actual cost”.
+    Subsec. (e). [Pub. L. 103–322][/us/pl/103/322], § 320928(e), substituted “eighteen dollars, respectively, or the actual cost, whichever is less,” for “the actual cost”.
 
  __Pilot Program for National Criminal History Background Checks and Feasibility Study__ 
 
-[Pub. L. 108–21, title I, § 108][/us/pl/108/21/s108], Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655], as amended by [Pub. L. 108–68, § 1][/us/pl/108/68/s1], Aug. 1, 2003, [117 Stat. 883][/us/stat/117/883]; [Pub. L. 108–458, title VI, § 6401][/us/pl/108/458/s6401], Dec. 17, 2004, [118 Stat. 3755][/us/stat/118/3755]; [Pub. L. 109–162, title XI, § 1197][/us/pl/109/162/s1197], Jan. 5, 2006, [119 Stat. 3131][/us/stat/119/3131]; [Pub. L. 110–296, § 2][/us/pl/110/296/s2], July 30, 2008, [122 Stat. 2974][/us/stat/122/2974]; [Pub. L. 110–408, § 2][/us/pl/110/408/s2], Oct. 13, 2008, [122 Stat. 4301][/us/stat/122/4301]; [Pub. L. 111–143, § 2][/us/pl/111/143/s2], Mar. 1, 2010, [124 Stat. 41][/us/stat/124/41]; [Pub. L. 111–341, § 2][/us/pl/111/341/s2], Dec. 22, 2010, [124 Stat. 3606][/us/stat/124/3606], provided that:
+[Pub. L. 108–21, title I][/us/pl/108/21/tI], § 108, Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655], as amended by [Pub. L. 108–68][/us/pl/108/68], § 1, Aug. 1, 2003, [117 Stat. 883][/us/stat/117/883]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6401, Dec. 17, 2004, [118 Stat. 3755][/us/stat/118/3755]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1197, Jan. 5, 2006, [119 Stat. 3131][/us/stat/119/3131]; [Pub. L. 110–296][/us/pl/110/296], § 2, July 30, 2008, [122 Stat. 2974][/us/stat/122/2974]; [Pub. L. 110–408][/us/pl/110/408], § 2, Oct. 13, 2008, [122 Stat. 4301][/us/stat/122/4301]; [Pub. L. 111–143][/us/pl/111/143], § 2, Mar. 1, 2010, [124 Stat. 41][/us/stat/124/41]; [Pub. L. 111–341][/us/pl/111/341], § 2, Dec. 22, 2010, [124 Stat. 3606][/us/stat/124/3606], provided that:
 
 >     “(a) __Establishment of Pilot Program.—__ 
 
@@ -278,39 +278,39 @@
 
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028
 [/us/pl/92/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544
-[/us/pl/103/209/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209%2Fs3
+[/us/pl/103/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F209
 [/us/stat/107/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2491
-[/us/pl/103/322/s320928/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fa%2F1
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2131
-[/us/pl/105/251/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs222%2Fa
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1885
 [/us/pl/92/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544
 [/us/pl/92/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544
 [/us/stat/86/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1109
 [/us/pl/92/544/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544%2Fs201
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/105/251/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs222%2Fa
-[/us/pl/105/251/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs222%2Fb
-[/us/pl/103/322/s320928/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fa%2F1
-[/us/pl/103/322/s320928/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fa%2F2%2FA
-[/us/pl/103/322/s320928/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fa%2F2%2FB
-[/us/pl/103/322/s320928/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fc
-[/us/pl/103/322/s320928/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320928%2Fe
-[/us/pl/108/21/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs108
+[/us/pl/105/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251
+[/us/pl/105/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F655
-[/us/pl/108/68/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F68%2Fs1
+[/us/pl/108/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F68
 [/us/stat/117/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F883
-[/us/pl/108/458/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6401
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3755
-[/us/pl/109/162/s1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1197
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3131
-[/us/pl/110/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F296%2Fs2
+[/us/pl/110/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F296
 [/us/stat/122/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2974
-[/us/pl/110/408/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F408%2Fs2
+[/us/pl/110/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F408
 [/us/stat/122/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4301
-[/us/pl/111/143/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F143%2Fs2
+[/us/pl/111/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F143
 [/us/stat/124/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F41
-[/us/pl/111/341/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F341%2Fs2
+[/us/pl/111/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F341
 [/us/stat/124/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3606
 [/us/usc/t42/s5119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5119
 [/us/usc/t42/s5119c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5119c

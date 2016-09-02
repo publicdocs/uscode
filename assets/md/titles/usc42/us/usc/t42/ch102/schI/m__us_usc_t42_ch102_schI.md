@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1981—[Pub. L. 97–35, title IX, § 902(e)(1)][/us/pl/97/35/s902/e/1], (f)(1)(A), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], struck out heading “Part A—Definitions” before section 9411 and heading “Part B—State Administrative Responsibilities” before section 9421.
+    1981—[Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(e)(1), (f)(1)(A), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], struck out heading “Part A—Definitions” before section 9411 and heading “Part B—State Administrative Responsibilities” before section 9421.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fe%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
 
 

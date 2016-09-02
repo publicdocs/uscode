@@ -49,7 +49,7 @@
 
         (2) $2,000,000 to carry out subsection (b).
 
-([Pub. L. 109–248, title I, § 145][/us/pl/109/248/s145], July 27, 2006, [120 Stat. 606][/us/stat/120/606].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 145, July 27, 2006, [120 Stat. 606][/us/stat/120/606].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs145
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F606
 
 

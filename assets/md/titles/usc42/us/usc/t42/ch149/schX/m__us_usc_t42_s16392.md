@@ -153,11 +153,11 @@
 
         There are authorized to be appropriated to the Secretary for activities under this section $10,000,000 for each of fiscal years 2006 through 2008.
 
-([Pub. L. 109–58, title X, § 1002][/us/pl/109/58/s1002], Aug. 8, 2005, [119 Stat. 927][/us/stat/119/927].)
+([Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1002, Aug. 8, 2005, [119 Stat. 927][/us/stat/119/927].)
 
  __Codification__ 
 
-    In subsec. (e)(3)(C), “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act ([41 U.S.C. 421(c)(1)][/us/usc/t41/s421/c/1])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e)(3)(C), “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act ([41 U.S.C. 421(c)(1)][/us/usc/t41/s421/c/1])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
 ----------
 
@@ -168,11 +168,11 @@
 
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
-[/us/pl/109/58/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1002
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F927
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
 [/us/usc/t41/s421/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fc%2F1
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

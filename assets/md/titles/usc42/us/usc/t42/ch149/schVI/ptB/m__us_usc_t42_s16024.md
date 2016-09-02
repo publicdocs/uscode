@@ -41,7 +41,7 @@
 
         (3) develop risk-based criteria for any future commercial development of a similar reactor architectures.
 
-([Pub. L. 109–58, title VI, § 644][/us/pl/109/58/s644], Aug. 8, 2005, [119 Stat. 797][/us/stat/119/797].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 644, Aug. 8, 2005, [119 Stat. 797][/us/stat/119/797].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s5842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842
-[/us/pl/109/58/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs644
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F797
 
 

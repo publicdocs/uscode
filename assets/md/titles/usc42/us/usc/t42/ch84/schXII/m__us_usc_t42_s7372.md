@@ -21,7 +21,7 @@
 
     (2) the term “renewable energy resource” means any energy resource which has recently originated in the sun, including direct and indirect solar radiation and intermediate solar energy forms such as wind, ocean thermal gradients, ocean currents and waves, hydropower, photovoltaic energy, products of photosynthetic processes, organic wastes, and others.
 
-([Pub. L. 96–294, title IV, § 403][/us/pl/96/294/s403], June 30, 1980, [94 Stat. 716][/us/stat/94/716].)
+([Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 403, June 30, 1980, [94 Stat. 716][/us/stat/94/716].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs403
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F716
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F715

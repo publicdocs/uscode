@@ -137,7 +137,7 @@
 
         In any administrative proceeding brought under this section, or any court proceeding arising therefrom, or any civil action under this section, the administrative law judge or the court, as the case may be, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the extent provided by [section 504 of title 5][/us/usc/t5/s504] or by [section 2412 of title 28][/us/usc/t28/s2412].
 
-([Pub. L. 90–284, title VIII, § 812][/us/pl/90/284/s812], as added [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2], Sept. 13, 1988, [102 Stat. 1629][/us/stat/102/1629].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 812, as added [Pub. L. 100–430][/us/pl/100/430], § 8(2), Sept. 13, 1988, [102 Stat. 1629][/us/stat/102/1629].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3612, [Pub. L. 90–284, title VIII, § 812][/us/pl/90/284/s812], Apr. 11, 1968, [82 Stat. 88][/us/stat/82/88], related to enforcement by private persons, prior to repeal by [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2].
+    A prior section 3612, [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 812, Apr. 11, 1968, [82 Stat. 88][/us/stat/82/88], related to enforcement by private persons, prior to repeal by [Pub. L. 100–430][/us/pl/100/430], § 8(2).
 
  __Effective Date__ 
 
@@ -168,12 +168,12 @@
 [/us/usc/t42/s3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3613
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
-[/us/pl/90/284/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs812
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1629
-[/us/pl/90/284/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs812
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F88
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 

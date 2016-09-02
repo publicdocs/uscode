@@ -55,13 +55,13 @@
 
         (2) Federal financial incentives and assistance.
 
-([Pub. L. 94–385, title IV, § 402][/us/pl/94/385/s402], Aug. 14, 1976, [90 Stat. 1150][/us/stat/90/1150].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 402, Aug. 14, 1976, [90 Stat. 1150][/us/stat/90/1150].)
 
  __References in Text__ 
 
     The Energy Policy and Conservation Act, referred to in subsec. (a)(5), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended. Part C of title III of the Energy Policy and Conservation Act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    [Section 2809(a)(12) of this title][/us/usc/t42/s2809/a/12], referred to in subsec. (a)(6), which was redesignated as section 2809(a)(5) by [Pub. L. 95–568, § 5(a)(2)(E)][/us/pl/95/568/s5/a/2/E], Nov. 2, 1978, [92 Stat. 2426][/us/stat/92/2426], was subsequently repealed by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    [Section 2809(a)(12) of this title][/us/usc/t42/s2809/a/12], referred to in subsec. (a)(6), which was redesignated as section 2809(a)(5) by [Pub. L. 95–568][/us/pl/95/568], § 5(a)(2)(E), Nov. 2, 1978, [92 Stat. 2426][/us/stat/92/2426], was subsequently repealed by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
     This subchapter, referred to in subsec. (b), was in the original “this title,” meaning title IV of [Pub. L. 94–385][/us/pl/94/385], known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, [section 6327 of this title][/us/usc/t42/s6327], and [section 1701z–8 of Title 12][/us/usc/t12/s1701z–8], Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under [section 6801 of this title][/us/usc/t42/s6801]. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t42/s6801] and Tables.
 
@@ -77,15 +77,15 @@
 ----------
 
 [/us/usc/t42/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6321
-[/us/pl/94/385/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs402
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1150
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s2809/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F12
-[/us/pl/95/568/s5/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs5%2Fa%2F2%2FE
+[/us/pl/95/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568
 [/us/stat/92/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2426
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327

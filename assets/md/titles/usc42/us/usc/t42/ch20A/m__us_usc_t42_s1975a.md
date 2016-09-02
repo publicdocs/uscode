@@ -83,11 +83,11 @@
 
         Nothing in this chapter or any other Act shall be construed as authorizing the Commission, its advisory committees, or any other person under its supervision or control to study and collect, make appraisals of, or serve as a clearinghouse for any information about laws and policies of the Federal Government or any other governmental authority in the United States, with respect to abortion.
 
-([Pub. L. 98–183, § 3][/us/pl/98/183/s3], Nov. 30, 1983, [97 Stat. 1302][/us/stat/97/1302]; [Pub. L. 102–167, § 5][/us/pl/102/167/s5], Nov. 26, 1991, [105 Stat. 1101][/us/stat/105/1101]; [Pub. L. 103–419, § 2][/us/pl/103/419/s2], Oct. 25, 1994, [108 Stat. 4339][/us/stat/108/4339].)
+([Pub. L. 98–183][/us/pl/98/183], § 3, Nov. 30, 1983, [97 Stat. 1302][/us/stat/97/1302]; [Pub. L. 102–167][/us/pl/102/167], § 5, Nov. 26, 1991, [105 Stat. 1101][/us/stat/105/1101]; [Pub. L. 103–419][/us/pl/103/419], § 2, Oct. 25, 1994, [108 Stat. 4339][/us/stat/108/4339].)
 
  __Prior Provisions__ 
 
-    A prior section 1975a, [Pub. L. 85–315][/us/pl/85/315], pt. I, § 102, Sept. 9, 1957, [71 Stat. 634][/us/stat/71/634]; [Pub. L. 88–352, title V, § 501][/us/pl/88/352/s501], July 2, 1964, [78 Stat. 249][/us/stat/78/249]; [Pub. L. 91–521, § 4][/us/pl/91/521/s4], Nov. 25, 1970, [84 Stat. 1357][/us/stat/84/1357]; [Pub. L. 92–496, § 1][/us/pl/92/496/s1], Oct. 14, 1972, [86 Stat. 813][/us/stat/86/813], established rules of procedure for Commission. See Codification note set out preceding [section 1975 of this title][/us/usc/t42/s1975].
+    A prior section 1975a, [Pub. L. 85–315][/us/pl/85/315], pt. I, § 102, Sept. 9, 1957, [71 Stat. 634][/us/stat/71/634]; [Pub. L. 88–352, title V][/us/pl/88/352/tV], § 501, July 2, 1964, [78 Stat. 249][/us/stat/78/249]; [Pub. L. 91–521][/us/pl/91/521], § 4, Nov. 25, 1970, [84 Stat. 1357][/us/stat/84/1357]; [Pub. L. 92–496][/us/pl/92/496], § 1, Oct. 14, 1972, [86 Stat. 813][/us/stat/86/813], established rules of procedure for Commission. See Codification note set out preceding [section 1975 of this title][/us/usc/t42/s1975].
 
  __Amendments__ 
 
@@ -102,19 +102,19 @@
 ----------
 ----------
 
-[/us/pl/98/183/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183%2Fs3
+[/us/pl/98/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183
 [/us/stat/97/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1302
-[/us/pl/102/167/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F167%2Fs5
+[/us/pl/102/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F167
 [/us/stat/105/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1101
-[/us/pl/103/419/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419%2Fs2
+[/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419
 [/us/stat/108/4339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4339
 [/us/pl/85/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315
 [/us/stat/71/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F634
-[/us/pl/88/352/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs501
+[/us/pl/88/352/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtV
 [/us/stat/78/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F249
-[/us/pl/91/521/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F521%2Fs4
+[/us/pl/91/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F521
 [/us/stat/84/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1357
-[/us/pl/92/496/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F496%2Fs1
+[/us/pl/92/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F496
 [/us/stat/86/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F813
 [/us/usc/t42/s1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1975
 [/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419

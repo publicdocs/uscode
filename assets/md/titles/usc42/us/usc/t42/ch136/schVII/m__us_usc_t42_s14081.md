@@ -35,7 +35,7 @@
 
         (2) may include representatives of other Federal law enforcement agencies, such as the United States Customs Service, United States Park Police, United States Forest Service, Bureau of Alcohol, Tobacco, and Firearms, and Bureau of Land Management.
 
-([Pub. L. 103–322, title XVIII, § 180102][/us/pl/103/322/s180102], Sept. 13, 1994, [108 Stat. 2045][/us/stat/108/2045].)
+([Pub. L. 103–322, title XVIII][/us/pl/103/322/tXVIII], § 180102, Sept. 13, 1994, [108 Stat. 2045][/us/stat/108/2045].)
 
  __Transfer of Functions__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t21/s873/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs873%2Fa
-[/us/pl/103/322/s180102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180102
+[/us/pl/103/322/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVIII
 [/us/stat/108/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2045
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531%2Fc

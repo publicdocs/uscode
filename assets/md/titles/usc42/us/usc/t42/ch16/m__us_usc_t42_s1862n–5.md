@@ -41,7 +41,7 @@
 
         The Director shall not exclude part-time students from eligibility for scholarships under the Computer Science, Engineering, and Mathematics Scholarship program.
 
-([Pub. L. 107–368, § 15][/us/pl/107/368/s15], Dec. 19, 2002, [116 Stat. 3058][/us/stat/116/3058]; [Pub. L. 110–69, title VII, § 7015(a)][/us/pl/110/69/s7015/a], Aug. 9, 2007, [121 Stat. 683][/us/stat/121/683]; [Pub. L. 111–358, title V, § 504(c)][/us/pl/111/358/s504/c], Jan. 4, 2011, [124 Stat. 4006][/us/stat/124/4006].)
+([Pub. L. 107–368][/us/pl/107/368], § 15, Dec. 19, 2002, [116 Stat. 3058][/us/stat/116/3058]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7015(a), Aug. 9, 2007, [121 Stat. 683][/us/stat/121/683]; [Pub. L. 111–358, title V][/us/pl/111/358/tV], § 504(c), Jan. 4, 2011, [124 Stat. 4006][/us/stat/124/4006].)
 
  __Codification__ 
 
@@ -53,11 +53,11 @@
 
     2011—Subsec. (a)(2). [Pub. L. 111–358][/us/pl/111/358] substituted “To ensure transparency of the Board’s entire decision-making process, including deliberations on Board business occurring within its various subdivisions, the Board” for “The Board” and inserted at end “The preceding requirement will apply to meetings of the full Board, whenever a quorum is present; and to meetings of its subdivisions, whenever a quorum of the subdivision is present.”
 
-    2007—Subsec. (a)(3). [Pub. L. 110–69, § 7015(a)(1)][/us/pl/110/69/s7015/a/1], substituted “an audit every three years” for “an annual audit”.
+    2007—Subsec. (a)(3). [Pub. L. 110–69][/us/pl/110/69], § 7015(a)(1), substituted “an audit every three years” for “an annual audit”.
 
-    Subsec. (a)(4). [Pub. L. 110–69, § 7015(a)(2)][/us/pl/110/69/s7015/a/2], substituted “every third year” for “each year”.
+    Subsec. (a)(4). [Pub. L. 110–69][/us/pl/110/69], § 7015(a)(2), substituted “every third year” for “each year”.
 
-    Subsec. (a)(5). [Pub. L. 110–69, § 7015(a)(3)][/us/pl/110/69/s7015/a/3], added par. (5).
+    Subsec. (a)(5). [Pub. L. 110–69][/us/pl/110/69], § 7015(a)(3), added par. (5).
 
  __Change of Name__ 
 
@@ -76,11 +76,11 @@
 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/107/368/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3058
-[/us/pl/110/69/s7015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7015%2Fa
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F683
-[/us/pl/111/358/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs504%2Fc
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4006
 [/us/pl/107/368/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15
 [/us/pl/107/368/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15
@@ -88,9 +88,9 @@
 [/us/pl/107/368/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15
 [/us/usc/t42/s1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1873
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
-[/us/pl/110/69/s7015/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7015%2Fa%2F1
-[/us/pl/110/69/s7015/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7015%2Fa%2F2
-[/us/pl/110/69/s7015/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7015%2Fa%2F3
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4
 [/us/usc/t42/s1862n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n
 

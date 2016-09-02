@@ -59,17 +59,17 @@
 
         (4) Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 5 for persons in government service employed intermittently.
 
-([Pub. L. 94–282, title II, § 205][/us/pl/94/282/s205], May 11, 1976, [90 Stat. 464][/us/stat/90/464]; [Pub. L. 97–375, title II, § 215(2)][/us/pl/97/375/s215/2], (4), Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826], 1827.)
+([Pub. L. 94–282, title II][/us/pl/94/282/tII], § 205, May 11, 1976, [90 Stat. 464][/us/stat/90/464]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 215(2), (4), Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826], 1827.)
 
  __References in Text__ 
 
-    [Section 6618 of this title][/us/usc/t42/s6618], referred to in subsec. (a)(2), was repealed by [Pub. L. 97–375, title II, § 215(1)][/us/pl/97/375/s215/1], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]. See [section 6615 of this title][/us/usc/t42/s6615].
+    [Section 6618 of this title][/us/usc/t42/s6618], referred to in subsec. (a)(2), was repealed by [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 215(1), Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]. See [section 6615 of this title][/us/usc/t42/s6615].
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (b)(4), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (b)(4), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
  __Amendments__ 
 
-    1982—Subsec. (a)(11). [Pub. L. 97–375, § 215(2)][/us/pl/97/375/s215/2], (4), inserted “and the Congress” after “President”, and substituted “section 6615” for “section 6618”.
+    1982—Subsec. (a)(11). [Pub. L. 97–375][/us/pl/97/375], § 215(2), (4), inserted “and the Congress” after “President”, and substituted “section 6615” for “section 6618”.
 
  __Transfer of Functions__ 
 
@@ -85,7 +85,7 @@
 
  __Comprehensive Accountability Study for Federally-Funded Research__ 
 
-[Pub. L. 105–276, title IV, § 430][/us/pl/105/276/s430], Oct. 21, 1998, [112 Stat. 2512][/us/stat/112/2512], provided that:
+[Pub. L. 105–276, title IV][/us/pl/105/276/tIV], § 430, Oct. 21, 1998, [112 Stat. 2512][/us/stat/112/2512], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -131,7 +131,7 @@
 
  __Computer Network Study__ 
 
-[Pub. L. 99–383, § 10][/us/pl/99/383/s10], Aug. 21, 1986, [100 Stat. 816][/us/stat/100/816], provided that:
+[Pub. L. 99–383][/us/pl/99/383], § 10, Aug. 21, 1986, [100 Stat. 816][/us/stat/100/816], provided that:
 
 >     “(a)
 
@@ -163,26 +163,26 @@
 [/us/usc/t42/s6615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6615
 [/us/usc/t42/s6602/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6602%2Fa%2F6
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/94/282/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs205
+[/us/pl/94/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtII
 [/us/stat/90/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F464
-[/us/pl/97/375/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs215%2F2
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
 [/us/usc/t42/s6618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6618
-[/us/pl/97/375/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs215%2F1
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
 [/us/usc/t42/s6615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6615
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
-[/us/pl/97/375/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs215%2F2
+[/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601
 [/us/stat/91/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1634
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/105/276/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs430
+[/us/pl/105/276/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIV
 [/us/stat/112/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2512
-[/us/pl/99/383/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383%2Fs10
+[/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
 [/us/stat/100/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F816
 
 

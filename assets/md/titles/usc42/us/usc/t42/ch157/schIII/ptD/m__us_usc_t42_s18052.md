@@ -145,7 +145,7 @@
 
         No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
 
-([Pub. L. 111–148, title I, § 1332][/us/pl/111/148/s1332], Mar. 23, 2010, [124 Stat. 203][/us/stat/124/203].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1332, Mar. 23, 2010, [124 Stat. 203][/us/stat/124/203].)
 
  __References in Text__ 
 
@@ -169,7 +169,7 @@
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s18022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fb
-[/us/pl/111/148/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1332
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F203
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B

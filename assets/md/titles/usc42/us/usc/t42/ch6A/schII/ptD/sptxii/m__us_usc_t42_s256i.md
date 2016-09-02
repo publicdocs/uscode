@@ -87,11 +87,11 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2011 through 2015.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340H, as added [Pub. L. 111–148, title X, § 10333][/us/pl/111/148/s10333], Mar. 23, 2010, [124 Stat. 970][/us/stat/124/970].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340H, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10333, Mar. 23, 2010, [124 Stat. 970][/us/stat/124/970].)
 
  __Codification__ 
 
-    Another section 340H of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 111–148, title V, § 5508(c)][/us/pl/111/148/s5508/c], March 23, 2010, [124 Stat. 670][/us/stat/124/670], is classified to [section 256h of this title][/us/usc/t42/s256h].
+    Another section 340H of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5508(c), March 23, 2010, [124 Stat. 670][/us/stat/124/670], is classified to [section 256h of this title][/us/usc/t42/s256h].
 
 ----------
 
@@ -103,10 +103,10 @@
 [/us/usc/t42/s1396r–4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Fb%2F1
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10333
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F970
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5508%2Fc
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F670
 [/us/usc/t42/s256h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256h
 

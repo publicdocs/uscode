@@ -25,7 +25,7 @@
 
     (b) A rule or order under subsection (a) of this section shall be considered to be a major rule subject to chapter 8 of title 5.
 
-([Pub. L. 93–577, § 12][/us/pl/93/577/s12], Dec. 31, 1974, [88 Stat. 1892][/us/stat/88/1892]; [Pub. L. 109–58, title X, § 1009(b)(8)][/us/pl/109/58/s1009/b/8], Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
+([Pub. L. 93–577][/us/pl/93/577], § 12, Dec. 31, 1974, [88 Stat. 1892][/us/stat/88/1892]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(8), Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/93/577/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs12
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1892
-[/us/pl/109/58/s1009/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F8
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F935
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

@@ -29,7 +29,7 @@
 
         Not later than September 30 of 2009 and of each subsequent year, the Inspector General of the Department of Health and Human Services shall submit to the Committees on Energy and Commerce and Appropriations of the House of Representatives and the Committees on Finance and Appropriations of the Senate a report on the activities (and the results of such activities) funded under paragraph (1) to reduce waste, fraud, and abuse in the Medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] during the previous 12 month period, including the amount of funds appropriated under such paragraph for each such activity and an estimate of the savings to the Medicaid program resulting from each such activity.
 
-([Pub. L. 110–252, title VII, § 7001(b)][/us/pl/110/252/s7001/b], June 30, 2008, [122 Stat. 2389][/us/stat/122/2389].)
+([Pub. L. 110–252, title VII][/us/pl/110/252/tVII], § 7001(b), June 30, 2008, [122 Stat. 2389][/us/stat/122/2389].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/110/252/s7001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs7001%2Fb
+[/us/pl/110/252/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtVII
 [/us/stat/122/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2389
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

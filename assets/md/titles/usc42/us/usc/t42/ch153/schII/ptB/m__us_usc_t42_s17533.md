@@ -23,7 +23,7 @@
 
         Not later than September 30, 2009, the Director of the Bureau of Prisons shall submit to Congress a report on the extent to which the policy described in subsection (a) has been implemented and followed.
 
-([Pub. L. 110–199, title II, § 213][/us/pl/110/199/s213], Apr. 9, 2008, [122 Stat. 683][/us/stat/122/683].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 213, Apr. 9, 2008, [122 Stat. 683][/us/stat/122/683].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/199/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs213
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F683
 
 

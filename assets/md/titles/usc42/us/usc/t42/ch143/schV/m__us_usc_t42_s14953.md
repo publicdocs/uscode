@@ -27,7 +27,7 @@
 
         Sections 3506(c), 3507, and 3512 of title 44 shall not apply to information collection for purposes of sections 14914, 14922(b)(4), and 14932(d) of this title or for use as a Convention record as defined in this chapter.
 
-([Pub. L. 106–279, title V, § 503][/us/pl/106/279/s503], Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
+([Pub. L. 106–279, title V][/us/pl/106/279/tV], § 503, Oct. 6, 2000, [114 Stat. 843][/us/stat/114/843].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t25/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1901
-[/us/pl/106/279/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs503
+[/us/pl/106/279/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtV
 [/us/stat/114/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F843
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

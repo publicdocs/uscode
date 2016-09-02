@@ -111,7 +111,7 @@
 
                     (IV) Attorney and non-attorney members of the defense team shall be reimbursed for reasonable incidental expenses.
 
-([Pub. L. 108–405, title IV, § 421][/us/pl/108/405/s421], Oct. 30, 2004, [118 Stat. 2286][/us/stat/118/2286].)
+([Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 421, Oct. 30, 2004, [118 Stat. 2286][/us/stat/118/2286].)
 
  __Codification__ 
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/108/405/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs421
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2286
 
 

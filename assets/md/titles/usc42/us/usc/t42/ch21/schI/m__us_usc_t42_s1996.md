@@ -17,11 +17,11 @@
 
     On and after August 11, 1978, it shall be the policy of the United States to protect and preserve for American Indians their inherent right of freedom to believe, express, and exercise the traditional religions of the American Indian, Eskimo, Aleut, and Native Hawaiians, including but not limited to access to sites, use and possession of sacred objects, and the freedom to worship through ceremonials and traditional rites.
 
-([Pub. L. 95–341, § 1][/us/pl/95/341/s1], Aug. 11, 1978, [92 Stat. 469][/us/stat/92/469].)
+([Pub. L. 95–341][/us/pl/95/341], § 1, Aug. 11, 1978, [92 Stat. 469][/us/stat/92/469].)
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–344, § 1][/us/pl/103/344/s1], Oct. 6, 1994, [108 Stat. 3125][/us/stat/108/3125], provided that: 
+[Pub. L. 103–344][/us/pl/103/344], § 1, Oct. 6, 1994, [108 Stat. 3125][/us/stat/108/3125], provided that: 
 
 > “This Act \[enacting [section 1996a of this title][/us/usc/t42/s1996a]\] may be cited as the ‘American Indian Religious Freedom Act Amendments of 1994’.”
 
@@ -31,7 +31,7 @@
 
  __Federal Implementation of Protective and Preservation Functions Relating to Native American Religious Cultural Rights and Practices; Presidential Report to Congress__ 
 
-    [Pub. L. 95–341, § 2][/us/pl/95/341/s2], Aug. 11, 1978, [92 Stat. 470][/us/stat/92/470], provided that the President direct the various Federal departments, agencies, and other instrumentalities responsible for administering relevant laws to evaluate their policies and procedures in consultation with native traditional religious leaders to determine changes necessary to preserve Native American religious cultural rights and practices and report to the Congress 12 months after Aug. 11, 1978.
+    [Pub. L. 95–341][/us/pl/95/341], § 2, Aug. 11, 1978, [92 Stat. 470][/us/stat/92/470], provided that the President direct the various Federal departments, agencies, and other instrumentalities responsible for administering relevant laws to evaluate their policies and procedures in consultation with native traditional religious leaders to determine changes necessary to preserve Native American religious cultural rights and practices and report to the Congress 12 months after Aug. 11, 1978.
 
  __Ex. Ord. No. 13007. Indian Sacred Sites__ 
 
@@ -66,14 +66,14 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/95/341/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341%2Fs1
+[/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/stat/92/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F469
-[/us/pl/103/344/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F344%2Fs1
+[/us/pl/103/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F344
 [/us/stat/108/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3125
 [/us/usc/t42/s1996a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996a
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/usc/t42/s1996a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996a
-[/us/pl/95/341/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341%2Fs2
+[/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/stat/92/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F470
 [/us/stat/108/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4791
 [/us/usc/t25/s479a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a

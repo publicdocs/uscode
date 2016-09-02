@@ -31,7 +31,7 @@
 
         The Office of the Ombudsman shall cease to exist 4 years after November 8, 1984.
 
-([Pub. L. 89–272, title II, § 2008][/us/pl/89/272/s2008], as added [Pub. L. 98–616, title I, § 103(a)][/us/pl/98/616/s103/a], Nov. 8, 1984, [98 Stat. 3225][/us/stat/98/3225].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2008, as added [Pub. L. 98–616, title I][/us/pl/98/616/tI], § 103(a), Nov. 8, 1984, [98 Stat. 3225][/us/stat/98/3225].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2008
-[/us/pl/98/616/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs103%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtI
 [/us/stat/98/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3225
 
 

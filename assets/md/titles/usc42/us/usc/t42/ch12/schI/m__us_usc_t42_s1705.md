@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    In subsecs. (b) and (c), “[section 8147 of title 5][/us/usc/t5/s8147]” was substituted for “section 35 of such Act of September 7, 1916, as amended,” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsecs. (b) and (c), “[section 8147 of title 5][/us/usc/t5/s8147]” was substituted for “section 35 of such Act of September 7, 1916, as amended,” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@ Act Dec. 23, 1943, provided that:
 [/us/act/1943-12-23/ch380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-23%2Fch380
 [/us/stat/57/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F627
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t42/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1711
 

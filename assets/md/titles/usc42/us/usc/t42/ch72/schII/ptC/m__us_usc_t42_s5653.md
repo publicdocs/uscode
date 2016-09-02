@@ -61,11 +61,11 @@
 
             (B) the Administrator waives the application of subparagraph (A) to such State for such fiscal year, after finding good cause for such a waiver.
 
-([Pub. L. 93–415, title II, § 243][/us/pl/93/415/s243], as added [Pub. L. 107–273, div. C, title II, § 12210(4)][/us/pl/107/273/s12210/4], Nov. 2, 2002, [116 Stat. 1884][/us/stat/116/1884].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 243, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12210(4), Nov. 2, 2002, [116 Stat. 1884][/us/stat/116/1884].)
 
  __Prior Provisions__ 
 
-    A prior section 5653, [Pub. L. 93–415, title II, § 243][/us/pl/93/415/s243], Sept. 7, 1974, [88 Stat. 1126][/us/stat/88/1126]; [Pub. L. 95–115][/us/pl/95/115], §§ 3(a)(3)(B), 5(b), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1057; [Pub. L. 98–473, title II, § 632][/us/pl/98/473/s632], Oct. 12, 1984, [98 Stat. 2118][/us/stat/98/2118]; [Pub. L. 100–690, title VII, § 7261][/us/pl/100/690/s7261], Nov. 18, 1988, [102 Stat. 4442][/us/stat/102/4442]; [Pub. L. 102–586, § 2(g)(3)][/us/pl/102/586/s2/g/3], Nov. 4, 1992, [106 Stat. 4995][/us/stat/106/4995], related to research, demonstration, and evaluation, prior to repeal by [Pub. L. 107–273, div. C, title II, § 12210(1)][/us/pl/107/273/s12210/1], Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
+    A prior section 5653, [Pub. L. 93–415, title II][/us/pl/93/415/tII], § 243, Sept. 7, 1974, [88 Stat. 1126][/us/stat/88/1126]; [Pub. L. 95–115][/us/pl/95/115], §§ 3(a)(3)(B), 5(b), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1057; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 632, Oct. 12, 1984, [98 Stat. 2118][/us/stat/98/2118]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7261, Nov. 18, 1988, [102 Stat. 4442][/us/stat/102/4442]; [Pub. L. 102–586][/us/pl/102/586], § 2(g)(3), Nov. 4, 1992, [106 Stat. 4995][/us/stat/106/4995], related to research, demonstration, and evaluation, prior to repeal by [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12210(1), Nov. 2, 2002, [116 Stat. 1880][/us/stat/116/1880].
 
 ----------
 
@@ -80,20 +80,20 @@
 [/us/usc/t42/s5654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5654
 [/us/usc/t42/s5651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5651
 [/us/usc/t42/s5633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5633
-[/us/pl/93/415/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs243
-[/us/pl/107/273/s12210/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12210%2F4
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1884
-[/us/pl/93/415/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs243
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1126
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1048
-[/us/pl/98/473/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs632
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2118
-[/us/pl/100/690/s7261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7261
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4442
-[/us/pl/102/586/s2/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fg%2F3
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/4995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4995
-[/us/pl/107/273/s12210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12210%2F1
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1880
 
 

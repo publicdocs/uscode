@@ -77,47 +77,47 @@
 
         There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2015 through 2019. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1273, as added [Pub. L. 108–194, § 3][/us/pl/108/194/s3], Dec. 19, 2003, [117 Stat. 2889][/us/stat/117/2889]; amended [Pub. L. 110–377, § 5(a)][/us/pl/110/377/s5/a], Oct. 8, 2008, [122 Stat. 4065][/us/stat/122/4065]; [Pub. L. 113–77, § 4(a)][/us/pl/113/77/s4/a], Jan. 24, 2014, [128 Stat. 644][/us/stat/128/644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1273, as added [Pub. L. 108–194][/us/pl/108/194], § 3, Dec. 19, 2003, [117 Stat. 2889][/us/stat/117/2889]; amended [Pub. L. 110–377][/us/pl/110/377], § 5(a), Oct. 8, 2008, [122 Stat. 4065][/us/stat/122/4065]; [Pub. L. 113–77][/us/pl/113/77], § 4(a), Jan. 24, 2014, [128 Stat. 644][/us/stat/128/644].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–77, § 4(a)(1)][/us/pl/113/77/s4/a/1], substituted “accredited” for “certified” and “accreditation” for “certification”.
+    2014—Subsec. (a). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(1), substituted “accredited” for “certified” and “accreditation” for “certification”.
 
-    Subsec. (b)(1). [Pub. L. 113–77, § 4(a)(2)(A)][/us/pl/113/77/s4/a/2/A], substituted “research, establish, implement,” for “establish”.
+    Subsec. (b)(1). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(2)(A), substituted “research, establish, implement,” for “establish”.
 
-    Subsec. (b)(4). [Pub. L. 113–77, § 4(a)(2)(C)][/us/pl/113/77/s4/a/2/C], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (b)(4). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(2)(C), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (b)(5). [Pub. L. 113–77, § 4(a)(2)(B)][/us/pl/113/77/s4/a/2/B], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(2)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (b)(6). [Pub. L. 113–77, § 4(a)(2)(B)][/us/pl/113/77/s4/a/2/B], (D), redesignated par. (5) as (6) and substituted “paragraph (5)” for “paragraph (4)”. Former par. (6) redesignated (7).
+    Subsec. (b)(6). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(2)(B), (D), redesignated par. (5) as (6) and substituted “paragraph (5)” for “paragraph (4)”. Former par. (6) redesignated (7).
 
-    Subsec. (b)(7). [Pub. L. 113–77, § 4(a)(2)(B)][/us/pl/113/77/s4/a/2/B], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    Subsec. (b)(7). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(2)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    Subsec. (b)(8). [Pub. L. 113–77, § 4(a)(2)(B)][/us/pl/113/77/s4/a/2/B], (E), redesignated par. (7) as (8) and substituted “and Internet communications, and to sustain and enhance the poison control center’s network capability to respond” for “and respond”.
+    Subsec. (b)(8). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(2)(B), (E), redesignated par. (7) as (8) and substituted “and Internet communications, and to sustain and enhance the poison control center’s network capability to respond” for “and respond”.
 
-    Subsec. (c). [Pub. L. 113–77, § 4(a)(3)][/us/pl/113/77/s4/a/3], substituted “Accreditation” for “Certification” in heading and “accredited” for “certified” and “accreditation” for “certification” in pars. (1) and (2).
+    Subsec. (c). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(3), substituted “Accreditation” for “Certification” in heading and “accredited” for “certified” and “accreditation” for “certification” in pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 113–77, § 4(a)(4)(A)][/us/pl/113/77/s4/a/4/A], substituted “accreditation” for “certification” in heading.
+    Subsec. (d). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(4)(A), substituted “accreditation” for “certification” in heading.
 
-    Subsec. (d)(1). [Pub. L. 113–77, § 4(a)(4)(B)][/us/pl/113/77/s4/a/4/B], substituted “the accreditation” for “the certification”, “a nonaccredited” for “a noncertified”, and “an accreditation” for “a certification”.
+    Subsec. (d)(1). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(4)(B), substituted “the accreditation” for “the certification”, “a nonaccredited” for “a noncertified”, and “an accreditation” for “a certification”.
 
-    Subsec. (d)(3). [Pub. L. 113–77, § 4(a)(4)(C)][/us/pl/113/77/s4/a/4/C], substituted “exceed—” for “exceed 5 years. The preceding sentence shall take effect as of October 8, 2008.” and added subpars. (A) and (B).
+    Subsec. (d)(3). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(4)(C), substituted “exceed—” for “exceed 5 years. The preceding sentence shall take effect as of October 8, 2008.” and added subpars. (A) and (B).
 
-    Subsec. (f). [Pub. L. 113–77, § 4(a)(5)][/us/pl/113/77/s4/a/5], substituted “for its activities” for “for activities of the center”.
+    Subsec. (f). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(5), substituted “for its activities” for “for activities of the center”.
 
-    Subsec. (g). [Pub. L. 113–77, § 4(a)(6)][/us/pl/113/77/s4/a/6], added subsec. (g) and struck out former subsec. (g) which authorized appropriations for fiscal years 2009 through 2014 and limited the amount allowed to be spent on certain administrative functions.
+    Subsec. (g). [Pub. L. 113–77][/us/pl/113/77], § 4(a)(6), added subsec. (g) and struck out former subsec. (g) which authorized appropriations for fiscal years 2009 through 2014 and limited the amount allowed to be spent on certain administrative functions.
 
     2008—[Pub. L. 110–377][/us/pl/110/377] amended section generally. Prior to amendment, section related to awarding of grants to certified regional poison control centers and additional uses of appropriated funds by Secretary and authorized appropriations for fiscal years 2000 through 2009.
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–77, § 4(b)][/us/pl/113/77/s4/b], Jan. 24, 2014, [128 Stat. 646][/us/stat/128/646], provided that: 
+[Pub. L. 113–77][/us/pl/113/77], § 4(b), Jan. 24, 2014, [128 Stat. 646][/us/stat/128/646], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 24, 2014\] and shall apply to grants made on or after October 1, 2014.”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–377, § 5(b)][/us/pl/110/377/s5/b], Oct. 8, 2008, [122 Stat. 4067][/us/stat/122/4067], provided that: 
+[Pub. L. 110–377][/us/pl/110/377], § 5(b), Oct. 8, 2008, [122 Stat. 4067][/us/stat/122/4067], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall be effective as of the date of the enactment of this Act \[Oct. 8, 2008\] and shall apply to grants made on or after January 1, 2009.”
 
@@ -129,29 +129,29 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194%2Fs3
+[/us/pl/108/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F194
 [/us/stat/117/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2889
-[/us/pl/110/377/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377%2Fs5%2Fa
-[/us/stat/122/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4065
-[/us/pl/113/77/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa
-[/us/stat/128/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F644
-[/us/pl/113/77/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F1
-[/us/pl/113/77/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F2%2FA
-[/us/pl/113/77/s4/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F2%2FC
-[/us/pl/113/77/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F2%2FB
-[/us/pl/113/77/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F2%2FB
-[/us/pl/113/77/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F2%2FB
-[/us/pl/113/77/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F2%2FB
-[/us/pl/113/77/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F3
-[/us/pl/113/77/s4/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F4%2FA
-[/us/pl/113/77/s4/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F4%2FB
-[/us/pl/113/77/s4/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F4%2FC
-[/us/pl/113/77/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F5
-[/us/pl/113/77/s4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fa%2F6
 [/us/pl/110/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377
-[/us/pl/113/77/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs4%2Fb
+[/us/stat/122/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4065
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/stat/128/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F644
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
+[/us/pl/110/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377
+[/us/pl/113/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77
 [/us/stat/128/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F646
-[/us/pl/110/377/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377%2Fs5%2Fb
+[/us/pl/110/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F377
 [/us/stat/122/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4067
 
 

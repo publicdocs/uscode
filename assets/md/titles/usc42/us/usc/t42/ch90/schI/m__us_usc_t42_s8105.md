@@ -71,7 +71,7 @@
 
         (3) The corporation may not contribute to or otherwise support any political party or candidate for elective public office.
 
-([Pub. L. 95–557, title VI, § 606][/us/pl/95/557/s606], Oct. 31, 1978, [92 Stat. 2117][/us/stat/92/2117]; [Pub. L. 96–399, title III, § 315(2)][/us/pl/96/399/s315/2], Oct. 8, 1980, [94 Stat. 1645][/us/stat/94/1645]; [Pub. L. 97–320, title VII, § 710(b)][/us/pl/97/320/s710/b], Oct. 15, 1982, [96 Stat. 1544][/us/stat/96/1544]; [Pub. L. 111–203, title III, § 374][/us/pl/111/203/s374], July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
+([Pub. L. 95–557, title VI][/us/pl/95/557/tVI], § 606, Oct. 31, 1978, [92 Stat. 2117][/us/stat/92/2117]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 315(2), Oct. 8, 1980, [94 Stat. 1645][/us/stat/94/1645]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 710(b), Oct. 15, 1982, [96 Stat. 1544][/us/stat/96/1544]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 374, July 21, 2010, [124 Stat. 1566][/us/stat/124/1566].)
 
  __Amendments__ 
 
@@ -93,13 +93,13 @@
 ----------
 
 [/us/usc/t42/s8107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8107%2Fd
-[/us/pl/95/557/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs606
+[/us/pl/95/557/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVI
 [/us/stat/92/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2117
-[/us/pl/96/399/s315/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs315%2F2
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1645
-[/us/pl/97/320/s710/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs710%2Fb
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1544
-[/us/pl/111/203/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs374
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1566
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320

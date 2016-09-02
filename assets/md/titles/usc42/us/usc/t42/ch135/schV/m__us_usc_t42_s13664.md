@@ -49,7 +49,7 @@
 
             The term “owner” means, with respect to federally assisted housing, the entity or private person (including a cooperative or public housing agency) that has the legal right to lease or sublease dwelling units in such housing.
 
-([Pub. L. 105–276, title V, § 579][/us/pl/105/276/s579], Oct. 21, 1998, [112 Stat. 2642][/us/stat/112/2642].)
+([Pub. L. 105–276, title V][/us/pl/105/276/tV], § 579, Oct. 21, 1998, [112 Stat. 2642][/us/stat/112/2642].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8013
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
-[/us/pl/105/276/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs579
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2642
 [/us/pl/101/625/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs801
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

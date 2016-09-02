@@ -61,11 +61,11 @@
 
         All Federal agencies shall cooperate fully with the Commission to the end that it may effectively carry out its functions and duties.
 
-([Pub. L. 98–183, § 4][/us/pl/98/183/s4], Nov. 30, 1983, [97 Stat. 1304][/us/stat/97/1304]; [Pub. L. 103–419, § 2][/us/pl/103/419/s2], Oct. 25, 1994, [108 Stat. 4340][/us/stat/108/4340].)
+([Pub. L. 98–183][/us/pl/98/183], § 4, Nov. 30, 1983, [97 Stat. 1304][/us/stat/97/1304]; [Pub. L. 103–419][/us/pl/103/419], § 2, Oct. 25, 1994, [108 Stat. 4340][/us/stat/108/4340].)
 
  __Prior Provisions__ 
 
-    A prior section 1975b, [Pub. L. 85–315][/us/pl/85/315], pt. I, § 103, Sept. 9, 1957, [71 Stat. 635][/us/stat/71/635]; [Pub. L. 88–352, title V][/us/pl/88/352], §§ 502, 503, July 2, 1964, [78 Stat. 250][/us/stat/78/250], 251; [Pub. L. 91–521, § 1][/us/pl/91/521/s1], Nov. 25, 1970, [84 Stat. 1356][/us/stat/84/1356]; [Pub. L. 92–496, § 2][/us/pl/92/496/s2], Oct. 14, 1972, [86 Stat. 813][/us/stat/86/813]; [Pub. L. 95–444, § 2][/us/pl/95/444/s2], Oct. 10, 1978, [92 Stat. 1067][/us/stat/92/1067], related to compensation of members of Commission. See Codification note set out preceding [section 1975 of this title][/us/usc/t42/s1975].
+    A prior section 1975b, [Pub. L. 85–315][/us/pl/85/315], pt. I, § 103, Sept. 9, 1957, [71 Stat. 635][/us/stat/71/635]; [Pub. L. 88–352, title V][/us/pl/88/352/tV], §§ 502, 503, July 2, 1964, [78 Stat. 250][/us/stat/78/250], 251; [Pub. L. 91–521][/us/pl/91/521], § 1, Nov. 25, 1970, [84 Stat. 1356][/us/stat/84/1356]; [Pub. L. 92–496][/us/pl/92/496], § 2, Oct. 14, 1972, [86 Stat. 813][/us/stat/86/813]; [Pub. L. 95–444][/us/pl/95/444], § 2, Oct. 10, 1978, [92 Stat. 1067][/us/stat/92/1067], related to compensation of members of Commission. See Codification note set out preceding [section 1975 of this title][/us/usc/t42/s1975].
 
  __Amendments__ 
 
@@ -81,19 +81,19 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/98/183/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183%2Fs4
+[/us/pl/98/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F183
 [/us/stat/97/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1304
-[/us/pl/103/419/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419%2Fs2
+[/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419
 [/us/stat/108/4340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4340
 [/us/pl/85/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315
 [/us/stat/71/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F635
-[/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
+[/us/pl/88/352/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtV
 [/us/stat/78/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F250
-[/us/pl/91/521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F521%2Fs1
+[/us/pl/91/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F521
 [/us/stat/84/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1356
-[/us/pl/92/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F496%2Fs2
+[/us/pl/92/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F496
 [/us/stat/86/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F813
-[/us/pl/95/444/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F444%2Fs2
+[/us/pl/95/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F444
 [/us/stat/92/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1067
 [/us/usc/t42/s1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1975
 [/us/pl/103/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F419

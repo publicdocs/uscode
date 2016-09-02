@@ -237,7 +237,7 @@
 
         In carrying out greenhouse gas intensity reduction research and technology deployment activities under this subtitle, <sup>\[2\]</sup>  <sup><sup> 2 So in original. See References in Text note below. </sup></sup>  the Secretary may enter into cooperative research and development agreements under [section 3710a of title 15][/us/usc/t15/s3710a].
 
-([Pub. L. 102–486, title XVI, § 1610][/us/pl/102/486/s1610], as added [Pub. L. 109–58, title XVI, § 1601][/us/pl/109/58/s1601], Aug. 8, 2005, [119 Stat. 1109][/us/stat/119/1109].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1610, as added [Pub. L. 109–58, title XVI][/us/pl/109/58/tXVI], § 1601, Aug. 8, 2005, [119 Stat. 1109][/us/stat/119/1109].)
 
  __References in Text__ 
 
@@ -256,8 +256,8 @@
 [/us/usc/t42/s7234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7234
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/102/486/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1610
-[/us/pl/109/58/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1601
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
+[/us/pl/109/58/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVI
 [/us/stat/119/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1109
 [/us/usc/t42/s15801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801%2F3
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

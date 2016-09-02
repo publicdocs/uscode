@@ -23,7 +23,7 @@
 
         In the case of any action by any Federal department or agency under [section 6104 of this title][/us/usc/t42/s6104] which is not otherwise subject to judicial review, any person aggrieved (including any State or political subdivision thereof and any agency of either) may obtain judicial review of such action in accordance with the provisions of chapter 7 of title 5. For purposes of this subsection, any such action shall not be considered committed to unreviewable agency discretion within the meaning of section 701(a)(2) of such title.
 
-([Pub. L. 94–135, title III, § 306][/us/pl/94/135/s306], Nov. 28, 1975, [89 Stat. 730][/us/stat/89/730].)
+([Pub. L. 94–135, title III][/us/pl/94/135/tIII], § 306, Nov. 28, 1975, [89 Stat. 730][/us/stat/89/730].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t42/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6104
 [/us/usc/t42/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6104
-[/us/pl/94/135/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs306
+[/us/pl/94/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtIII
 [/us/stat/89/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F730
 
 

@@ -21,15 +21,15 @@
 
     (2) for part C of this subchapter, $6,500,000 for fiscal year 2007, $6,800,000 for fiscal year 2008, $7,200,000 for fiscal year 2009, $7,500,000 for fiscal year 2010, and $7,900,000 for fiscal year 2011.
 
-([Pub. L. 89–73, title VI, § 643][/us/pl/89/73/s643], formerly § 633, as added [Pub. L. 100–175, title I, § 171][/us/pl/100/175/s171], Nov. 29, 1987, [101 Stat. 963][/us/stat/101/963]; amended [Pub. L. 102–375, title VI, § 605][/us/pl/102/375/s605], Sept. 30, 1992, [106 Stat. 1270][/us/stat/106/1270]; renumbered § 643 and amended [Pub. L. 106–501, title VI][/us/pl/106/501], §§ 603, 604(2), Nov. 13, 2000, [114 Stat. 2288][/us/stat/114/2288]; [Pub. L. 109–365, title VI, § 602][/us/pl/109/365/s602], Oct. 17, 2006, [120 Stat. 2590][/us/stat/120/2590].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 643, formerly § 633, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 171, Nov. 29, 1987, [101 Stat. 963][/us/stat/101/963]; amended [Pub. L. 102–375, title VI][/us/pl/102/375/tVI], § 605, Sept. 30, 1992, [106 Stat. 1270][/us/stat/106/1270]; renumbered § 643 and amended [Pub. L. 106–501, title VI][/us/pl/106/501/tVI], §§ 603, 604(2), Nov. 13, 2000, [114 Stat. 2288][/us/stat/114/2288]; [Pub. L. 109–365, title VI][/us/pl/109/365/tVI], § 602, Oct. 17, 2006, [120 Stat. 2590][/us/stat/120/2590].)
 
  __Amendments__ 
 
-    2006—Par. (1). [Pub. L. 109–365, § 602(1)][/us/pl/109/365/s602/1], substituted “2007” for “2001”.
+    2006—Par. (1). [Pub. L. 109–365][/us/pl/109/365], § 602(1), substituted “2007” for “2001”.
 
-    Par. (2). [Pub. L. 109–365, § 602(2)][/us/pl/109/365/s602/2], substituted “$6,500,000 for fiscal year 2007, $6,800,000 for fiscal year 2008, $7,200,000 for fiscal year 2009, $7,500,000 for fiscal year 2010, and $7,900,000 for fiscal year 2011” for “$5,000,000 for fiscal year 2001, and such sums as may be necessary for subsequent fiscal years”.
+    Par. (2). [Pub. L. 109–365][/us/pl/109/365], § 602(2), substituted “$6,500,000 for fiscal year 2007, $6,800,000 for fiscal year 2008, $7,200,000 for fiscal year 2009, $7,500,000 for fiscal year 2010, and $7,900,000 for fiscal year 2011” for “$5,000,000 for fiscal year 2001, and such sums as may be necessary for subsequent fiscal years”.
 
-    2000—[Pub. L. 106–501, § 603][/us/pl/106/501/s603], amended section catchline and text generally, substituting provisions authorizing appropriations for fiscal year 2001 and subsequent years for provisions authorizing appropriations for fiscal years 1992 through 1995.
+    2000—[Pub. L. 106–501][/us/pl/106/501], § 603, amended section catchline and text generally, substituting provisions authorizing appropriations for fiscal year 2001 and subsequent years for provisions authorizing appropriations for fiscal years 1992 through 1995.
 
     1992—[Pub. L. 102–375][/us/pl/102/375] amended section generally, substituting provisions authorizing appropriations of $30,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, and designating 90 percent of such appropriations to carry out part A of this subchapter and 10 percent of such appropriations to carry out part B of this subchapter for provisions authorizing appropriations of $13,400,000 for fiscal year 1988, $16,265,000 for fiscal year 1989, $19,133,000 for fiscal year 1990, and $22,105,000 for fiscal year 1991, designating over 90 percent of such appropriations to carry out part A of this subchapter and less than 10 percent of such appropriations to carry out part B of this subchapter, along with provisions providing a preference for funding of such part A if actual amounts of appropriations fall below 1987 levels and a preference for funding of such part B if the actual amounts of appropriations exceed 1987 levels.
 
@@ -40,18 +40,18 @@
 ----------
 ----------
 
-[/us/pl/89/73/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs643
-[/us/pl/100/175/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs171
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F963
-[/us/pl/102/375/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs605
+[/us/pl/102/375/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVI
 [/us/stat/106/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1270
-[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVI
 [/us/stat/114/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2288
-[/us/pl/109/365/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs602
+[/us/pl/109/365/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtVI
 [/us/stat/120/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2590
-[/us/pl/109/365/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs602%2F1
-[/us/pl/109/365/s602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs602%2F2
-[/us/pl/106/501/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs603
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 
 

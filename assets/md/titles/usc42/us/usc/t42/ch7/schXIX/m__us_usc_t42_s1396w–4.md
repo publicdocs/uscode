@@ -165,7 +165,7 @@
 
             The term “health team” has the meaning given such term for purposes of [section 256a–1 of this title][/us/usc/t42/s256a–1].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1945, as added [Pub. L. 111–148, title II, § 2703(a)][/us/pl/111/148/s2703/a], Mar. 23, 2010, [124 Stat. 319][/us/stat/124/319].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1945, as added [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2703(a), Mar. 23, 2010, [124 Stat. 319][/us/stat/124/319].)
 
  __References in Text__ 
 
@@ -173,7 +173,7 @@
 
  __Survey and Interim Report__ 
 
-[Pub. L. 111–148, title II, § 2703(b)(2)][/us/pl/111/148/s2703/b/2], Mar. 23, 2010, [124 Stat. 322][/us/stat/124/322], provided that:
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2703(b)(2), Mar. 23, 2010, [124 Stat. 322][/us/stat/124/322], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -212,11 +212,11 @@
 [/us/pl/111/5/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5001
 [/us/usc/t42/s256a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a%E2%80%931
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s2703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2703%2Fa
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F319
 [/us/pl/111/5/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5001
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
-[/us/pl/111/148/s2703/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2703%2Fb%2F2
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F322
 [/us/usc/t42/s1396w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396w%E2%80%934
 

@@ -67,7 +67,7 @@
 
         There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 1993 and $10,420,000 for fiscal year 1994. Such sums are to be available until expended.
 
-([Pub. L. 102–550, title IX, § 912][/us/pl/102/550/s912], Oct. 28, 1992, [106 Stat. 3875][/us/stat/106/3875].)
+([Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 912, Oct. 28, 1992, [106 Stat. 3875][/us/stat/106/3875].)
 
  __Codification__ 
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t42/s6322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6322
-[/us/pl/102/550/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs912
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3875
 [/us/pl/102/550/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs912
 [/us/pl/102/550/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs912

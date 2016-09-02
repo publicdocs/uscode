@@ -105,19 +105,19 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2013.
 
-([Pub. L. 102–486, title V, § 508][/us/pl/102/486/s508], Oct. 24, 1992, [106 Stat. 2897][/us/stat/106/2897]; [Pub. L. 110–140, title I, § 133][/us/pl/110/140/s133], Dec. 19, 2007, [121 Stat. 1511][/us/stat/121/1511].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 508, Oct. 24, 1992, [106 Stat. 2897][/us/stat/106/2897]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 133, Dec. 19, 2007, [121 Stat. 1511][/us/stat/121/1511].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–140, § 133(2)][/us/pl/110/140/s133/2], added subsec. (a). Former subsec. (a) redesignated (b).
+    2007—Subsec. (a). [Pub. L. 110–140][/us/pl/110/140], § 133(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 110–140, § 133(1)][/us/pl/110/140/s133/1], (3), redesignated subsec. (a) as (b), designated existing provisions as par. (1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 110–140][/us/pl/110/140], § 133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par. (1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 110–140, § 133(1)][/us/pl/110/140/s133/1], (4), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)”. Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 110–140][/us/pl/110/140], § 133(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)”. Former subsec. (c) redesignated (d).
 
-    Subsecs. (d), (e). [Pub. L. 110–140, § 133(1)][/us/pl/110/140/s133/1], redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 110–140][/us/pl/110/140], § 133(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-    Subsec. (f). [Pub. L. 110–140, § 133(5)][/us/pl/110/140/s133/5], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–140][/us/pl/110/140], § 133(5), added subsec. (f).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -135,15 +135,15 @@
 [/us/usc/t42/s7550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550
 [/us/usc/t42/s13251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13251
 [/us/usc/t42/s13251/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13251%2Fa%2F4
-[/us/pl/102/486/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs508
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2897
-[/us/pl/110/140/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs133
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1511
-[/us/pl/110/140/s133/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs133%2F2
-[/us/pl/110/140/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs133%2F1
-[/us/pl/110/140/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs133%2F1
-[/us/pl/110/140/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs133%2F1
-[/us/pl/110/140/s133/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs133%2F5
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

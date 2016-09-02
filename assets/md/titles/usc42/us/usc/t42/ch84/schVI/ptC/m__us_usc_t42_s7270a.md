@@ -33,7 +33,7 @@
 
         (B) in the case of a felony or misdemeanor, if the violation is committed in the presence of the employee.
 
-([Pub. L. 95–91, title VI, § 661][/us/pl/95/91/s661], as added [Pub. L. 100–531, § 1(a)][/us/pl/100/531/s1/a], Oct. 25, 1988, [102 Stat. 2652][/us/stat/102/2652].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 661, as added [Pub. L. 100–531][/us/pl/100/531], § 1(a), Oct. 25, 1988, [102 Stat. 2652][/us/stat/102/2652].)
 
  __References in Text__ 
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t42/s6231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6231
-[/us/pl/95/91/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs661
-[/us/pl/100/531/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F531%2Fs1%2Fa
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
+[/us/pl/100/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F531
 [/us/stat/102/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2652
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

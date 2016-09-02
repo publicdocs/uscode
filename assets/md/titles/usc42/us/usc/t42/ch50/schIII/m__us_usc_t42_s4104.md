@@ -43,7 +43,7 @@
 
         Except as provided in [section 4104–1 of this title][/us/usc/t42/s4104–1], any appellant aggrieved by any final determination of the Administrator upon administrative appeal, as provided by this section, may appeal such determination to the United States district court for the district within which the community is located not more than sixty days after receipt of notice of such determination. The scope of review by the court shall be as provided by chapter 7 of title 5. During the pendency of any such litigation, all final determinations of the Administrator shall be effective for the purposes of this chapter unless stayed by the court for good cause shown.
 
-([Pub. L. 90–448, title XIII, § 1363][/us/pl/90/448/s1363], as added [Pub. L. 93–234, title I, § 110][/us/pl/93/234/s110], Dec. 31, 1973, [87 Stat. 980][/us/stat/87/980]; amended [Pub. L. 95–128, title VII, § 704(c)][/us/pl/95/128/s704/c], Oct. 12, 1977, [91 Stat. 1146][/us/stat/91/1146]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100217, 100218(b), 100238(b)(1), (2), 100246, July 6, 2012, [126 Stat. 930][/us/stat/126/930], 932, 958, 967; [Pub. L. 113–89, § 18(a)][/us/pl/113/89/s18/a], Mar. 21, 2014, [128 Stat. 1027][/us/stat/128/1027].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1363, as added [Pub. L. 93–234, title I][/us/pl/93/234/tI], § 110, Dec. 31, 1973, [87 Stat. 980][/us/stat/87/980]; amended [Pub. L. 95–128, title VII][/us/pl/95/128/tVII], § 704(c), Oct. 12, 1977, [91 Stat. 1146][/us/stat/91/1146]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100217, 100218(b), 100238(b)(1), (2), 100246, July 6, 2012, [126 Stat. 930][/us/stat/126/930], 932, 958, 967; [Pub. L. 113–89][/us/pl/113/89], § 18(a), Mar. 21, 2014, [128 Stat. 1027][/us/stat/128/1027].)
 
  __References in Text__ 
 
@@ -53,25 +53,25 @@
 
     2014—Subsec. (f). [Pub. L. 113–89][/us/pl/113/89] inserted “or, in the case of an appeal that is resolved by submission of conflicting data to the Scientific Resolution Panel provided for in [section 4104–1 of this title][/us/usc/t42/s4104–1], the community,” after “as the case may be,” and substituted “The Administrator may use such amounts from the National Flood Insurance Fund established under [section 4017 of this title][/us/usc/t42/s4017] as may be necessary to carry out this subsection.” for “The amounts available for implementing this subsection shall not exceed $250,000.”
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director”.
 
-    [Pub. L. 112–141, § 100217(1)][/us/pl/112/141/s100217/1], inserted “and designating areas having special flood hazards” after “flood elevations” and substituted “such determinations and designations” for “such determinations”.
+    [Pub. L. 112–141][/us/pl/112/141], § 100217(1), inserted “and designating areas having special flood hazards” after “flood elevations” and substituted “such determinations and designations” for “such determinations”.
 
-    Subsec. (b). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], (2), substituted “Administrator” for “Director” in first sentence and “Administrator’s” for “Director’s” in second sentence.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), (2), substituted “Administrator” for “Director” in first sentence and “Administrator’s” for “Director’s” in second sentence.
 
-    [Pub. L. 112–141, § 100217(2)][/us/pl/112/141/s100217/2], inserted “and designations of areas having special flood hazards” after “flood elevation determinations” and substituted “The sole grounds for appeal shall be the possession of knowledge or information indicating that (1) the elevations being proposed by the Administrator with respect to an identified area having special flood hazards are scientifically or technically incorrect, or (2) the designation of an identified special flood hazard area is scientifically or technically incorrect.” for “The sole basis for such appeal shall be the possession of knowledge or information indicating that the elevations being proposed by the Director with respect to an identified area having special flood hazards are scientifically or technically incorrect, and the sole relief which shall be granted under the authority of this section in the event that such appeal is sustained in accordance with subsection (e) or (f) of this section is a modification of the Director’s proposed determination accordingly.”
+    [Pub. L. 112–141][/us/pl/112/141], § 100217(2), inserted “and designations of areas having special flood hazards” after “flood elevation determinations” and substituted “The sole grounds for appeal shall be the possession of knowledge or information indicating that (1) the elevations being proposed by the Administrator with respect to an identified area having special flood hazards are scientifically or technically incorrect, or (2) the designation of an identified special flood hazard area is scientifically or technically incorrect.” for “The sole basis for such appeal shall be the possession of knowledge or information indicating that the elevations being proposed by the Director with respect to an identified area having special flood hazards are scientifically or technically incorrect, and the sole relief which shall be granted under the authority of this section in the event that such appeal is sustained in accordance with subsection (e) or (f) of this section is a modification of the Director’s proposed determination accordingly.”
 
-    Subsecs. (c), (d). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], (2), substituted “Administrator” for “Director” and “Administrator’s” for “Director’s” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), (2), substituted “Administrator” for “Director” and “Administrator’s” for “Director’s” wherever appearing.
 
-    Subsec. (e). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], (2), substituted “Administrator” for “Director” wherever appearing and “Administrator’s” for “Director’s” in two places.
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), (2), substituted “Administrator” for “Director” wherever appearing and “Administrator’s” for “Director’s” in two places.
 
-    [Pub. L. 112–141, § 100218(b)(1)][/us/pl/112/141/s100218/b/1], substituted “the Scientific Resolution Panel provided for in [section 4104–1 of this title][/us/usc/t42/s4104–1]” for “an independent scientific body or appropriate Federal agency for advice”.
+    [Pub. L. 112–141][/us/pl/112/141], § 100218(b)(1), substituted “the Scientific Resolution Panel provided for in [section 4104–1 of this title][/us/usc/t42/s4104–1]” for “an independent scientific body or appropriate Federal agency for advice”.
 
-    Subsec. (f). [Pub. L. 112–141, § 100246][/us/pl/112/141/s100246], added subpar. (f) and struck out former subpar. (f) which read as follows: “When, incident to any appeal under subsection (b) or (c) of this section, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Director shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Director in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection, not to exceed $250,000.”
+    Subsec. (f). [Pub. L. 112–141][/us/pl/112/141], § 100246, added subpar. (f) and struck out former subpar. (f) which read as follows: “When, incident to any appeal under subsection (b) or (c) of this section, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Director shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Director in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection, not to exceed $250,000.”
 
-    Subsec. (g). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in two places.
+    Subsec. (g). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” in two places.
 
-    [Pub. L. 112–141, § 100218(b)(2)][/us/pl/112/141/s100218/b/2], substituted “Except as provided in [section 4104–1 of this title][/us/usc/t42/s4104–1], any appellant” for “Any appellant”.
+    [Pub. L. 112–141][/us/pl/112/141], § 100218(b)(2), substituted “Except as provided in [section 4104–1 of this title][/us/usc/t42/s4104–1], any appellant” for “Any appellant”.
 
     1983—[Pub. L. 98–181][/us/pl/98/181] substituted “Director” for “Secretary” and “Director’s” for “Secretary’s” wherever appearing.
 
@@ -95,16 +95,16 @@
 [/us/usc/t42/s4104–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%E2%80%931
 [/us/usc/t42/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4017
 [/us/usc/t42/s4104–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%E2%80%931
-[/us/pl/90/448/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1363
-[/us/pl/93/234/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs110
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/93/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtI
 [/us/stat/87/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F980
-[/us/pl/95/128/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs704%2Fc
+[/us/pl/95/128/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVII
 [/us/stat/91/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1146
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F930
-[/us/pl/113/89/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs18%2Fa
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1027
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
@@ -112,17 +112,17 @@
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/usc/t42/s4104–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%E2%80%931
 [/us/usc/t42/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4017
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100217/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100217%2F1
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100217/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100217%2F2
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100218/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100218%2Fb%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4104–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%E2%80%931
-[/us/pl/112/141/s100246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100246
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100218/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100218%2Fb%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4104–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%E2%80%931
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128

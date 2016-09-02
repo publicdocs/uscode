@@ -21,7 +21,7 @@
 
     (c) As used in this chapter, “Federal lease” means an agreement which, for any consideration, including but not limited to, bonuses, rents, or royalties conferred and covenants to be observed, authorizes a person to explore for, or develop, or produce (or to do any or all of these) oil and gas, coal, oil shale, tar sands, and geothermal resources on lands or interests in lands under Federal jurisdiction.
 
-([Pub. L. 95–91, § 2][/us/pl/95/91/s2], Aug. 4, 1977, [91 Stat. 567][/us/stat/91/567].)
+([Pub. L. 95–91][/us/pl/95/91], § 2, Aug. 4, 1977, [91 Stat. 567][/us/stat/91/567].)
 
  __References in Text__ 
 
@@ -29,19 +29,19 @@
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–28, § 1][/us/pl/105/28/s1], July 18, 1997, [111 Stat. 245][/us/stat/111/245], provided that: 
+[Pub. L. 105–28][/us/pl/105/28], § 1, July 18, 1997, [111 Stat. 245][/us/stat/111/245], provided that: 
 
 > “This Act \[amending sections 7191 and 7234 of this title and repealing [section 776 of Title 15][/us/usc/t15/s776], Commerce and Trade\] may be cited as the ‘Department of Energy Standardization Act of 1997’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–271, § 1][/us/pl/101/271/s1], Apr. 11, 1990, [104 Stat. 135][/us/stat/104/135], provided that: 
+[Pub. L. 101–271][/us/pl/101/271], § 1, Apr. 11, 1990, [104 Stat. 135][/us/stat/104/135], provided that: 
 
 > “This Act \[amending [section 7171 of this title][/us/usc/t42/s7171] and enacting provisions set out as a note under [section 7171 of this title][/us/usc/t42/s7171]\] may be cited as the ‘Federal Energy Regulatory Commission Member Term Act of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 95–91, § 1][/us/pl/95/91/s1], Aug. 4, 1977, [91 Stat. 565][/us/stat/91/565], provided: 
+[Pub. L. 95–91][/us/pl/95/91], § 1, Aug. 4, 1977, [91 Stat. 565][/us/stat/91/565], provided: 
 
 > “That this Act \[enacting this chapter and [section 916 of Title 7][/us/usc/t7/s916], Agriculture, amending sections 6833 and 6839 of this title, [section 19 of Title 3][/us/usc/t3/s19], The President, sections 101, 5108, and 5312 to 5316 of Title 5, Government Organization and Employees, [section 1701z–8 of Title 12][/us/usc/t12/s1701z–8], Banks and Banking, and sections 766, 790a, 790d, and 2002 of Title 15, Commerce and Trade, repealing sections 2036 and 5818 of this title and sections 763, 768, and 786 of Title 15, enacting provisions set out as a note under [section 2201 of this title][/us/usc/t42/s2201], and repealing provisions set out as a note under [section 761 of Title 15][/us/usc/t15/s761]\] may be cited as the ‘Department of Energy Organization Act’.”
 
@@ -64,18 +64,18 @@
 ----------
 ----------
 
-[/us/pl/95/91/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs2
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F567
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
-[/us/pl/105/28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs1
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
 [/us/stat/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F245
 [/us/usc/t15/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs776
-[/us/pl/101/271/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F271%2Fs1
+[/us/pl/101/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F271
 [/us/stat/104/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F135
 [/us/usc/t42/s7171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7171
 [/us/usc/t42/s7171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7171
-[/us/pl/95/91/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs1
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t7/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs916
 [/us/usc/t3/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs19

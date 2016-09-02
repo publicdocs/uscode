@@ -23,7 +23,7 @@
 
     (3) the term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 102–247, title II, § 201][/us/pl/102/247/s201], Feb. 24, 1992, [106 Stat. 37][/us/stat/106/37].)
+([Pub. L. 102–247, title II][/us/pl/102/247/tII], § 201, Feb. 24, 1992, [106 Stat. 37][/us/stat/106/37].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
-[/us/pl/102/247/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs201
+[/us/pl/102/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtII
 [/us/stat/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F37
 [/us/pl/102/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247
 [/us/stat/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F37

@@ -17,7 +17,7 @@
 
     This part shall not apply to any covered product if (1) such covered product is manufactured, sold, or held for sale for export from the United States (or such product was imported for export), unless such product is in fact distributed in commerce for use in the United States, and (2) such covered product when distributed in commerce, or any container in which it is enclosed when so distributed, bears a stamp or label stating that such covered product is intended for export.
 
-([Pub. L. 94–163, title III, § 330][/us/pl/94/163/s330], Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 330, Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs330
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F928
 
 

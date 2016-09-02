@@ -99,11 +99,11 @@
 
             In addition to the qualification requirements for direct grants for specially qualified units the Attorney General may use the average amount allocated by the States to units of local government as a basis for awarding grants under this section.
 
-([Pub. L. 90–351, title I, § 1803][/us/pl/90/351/s1803], as added [Pub. L. 107–273, div. C, title II, § 12102(a)][/us/pl/107/273/s12102/a], Nov. 2, 2002, [116 Stat. 1863][/us/stat/116/1863].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1803, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1863][/us/stat/116/1863].)
 
  __Prior Provisions__ 
 
-    A prior section 3796ee–3, [Pub. L. 90–351, title I, § 1804][/us/pl/90/351/s1804], as added [Pub. L. 103–322, title II, § 20201(a)(3)][/us/pl/103/322/s20201/a/3], Sept. 13, 1994, [108 Stat. 1820][/us/stat/108/1820], related to applications by local governments, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
+    A prior section 3796ee–3, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1804, as added [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20201(a)(3), Sept. 13, 1994, [108 Stat. 1820][/us/stat/108/1820], related to applications by local governments, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
     A prior [section 1803 of Pub. L. 90–351][/us/pl/90/351/s1803] was classified to [section 3796ee–2 of this title][/us/usc/t42/s3796ee–2] prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
@@ -116,11 +116,11 @@
 
 [/us/usc/t42/s3796ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee
 [/us/usc/t42/s3796ee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ee%E2%80%932
-[/us/pl/90/351/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1803
-[/us/pl/107/273/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1863
-[/us/pl/90/351/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1804
-[/us/pl/103/322/s20201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20201%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1820
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/90/351/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1803

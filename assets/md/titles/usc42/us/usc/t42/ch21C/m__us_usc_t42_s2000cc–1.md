@@ -31,7 +31,7 @@
 
         (2) the substantial burden affects, or removal of that substantial burden would affect, commerce with foreign nations, among the several States, or with Indian tribes.
 
-([Pub. L. 106–274, § 3][/us/pl/106/274/s3], Sept. 22, 2000, [114 Stat. 804][/us/stat/114/804].)
+([Pub. L. 106–274][/us/pl/106/274], § 3, Sept. 22, 2000, [114 Stat. 804][/us/stat/114/804].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1997
-[/us/pl/106/274/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs3
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F804
 
 

@@ -79,7 +79,7 @@
 
         There are authorized to be appropriated to the Equal Employment Opportunity Commission such sums as may be necessary to carry out this section.
 
-([Pub. L. 110–233, title II, § 208][/us/pl/110/233/s208], May 21, 2008, [122 Stat. 917][/us/stat/122/917].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 208, May 21, 2008, [122 Stat. 917][/us/stat/122/917].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 ----------
 
 [/us/usc/t42/s2000e–2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%932%2Fk
-[/us/pl/110/233/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs208
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F917
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/stat/122/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F881

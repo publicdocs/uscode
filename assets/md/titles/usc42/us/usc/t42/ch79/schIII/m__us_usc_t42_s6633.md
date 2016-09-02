@@ -51,7 +51,7 @@
 
         (2) The President, within sixty days of receipt thereof, shall transmit each such report to each House of Congress together with such comments, observations, and recommendations thereon as he deems appropriate.
 
-([Pub. L. 94–282, title III, § 303][/us/pl/94/282/s303], May 11, 1976, [90 Stat. 469][/us/stat/90/469].)
+([Pub. L. 94–282, title III][/us/pl/94/282/tIII], § 303, May 11, 1976, [90 Stat. 469][/us/stat/90/469].)
 
  __Abolition of President’s Committee on Science and Technology; Transfer of Functions__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t42/s6632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6632%2Fa
-[/us/pl/94/282/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs303
+[/us/pl/94/282/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIII
 [/us/stat/90/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F469
 [/us/usc/t42/s6631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6631
 

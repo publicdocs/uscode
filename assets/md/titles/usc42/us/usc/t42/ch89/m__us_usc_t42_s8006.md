@@ -37,7 +37,7 @@
 
         Within twelve months prior to the submission of an application for renewed funding under this chapter, each nonprofit corporation and public housing agency shall review the performance, appropriateness, and fee schedules of their congregate services program with eligible project residents and with the professional assessment committee. The results of such review shall be included in any application for renewal and shall be considered in the development of the application for renewal by the nonprofit corporation or public housing agency and in its evaluation by the Secretary.
 
-([Pub. L. 95–557, title IV, § 407][/us/pl/95/557/s407], Oct. 31, 1978, [92 Stat. 2108][/us/stat/92/2108].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 407, Oct. 31, 1978, [92 Stat. 2108][/us/stat/92/2108].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s8004/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8004%2Fh
 [/us/usc/t42/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8004
-[/us/pl/95/557/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs407
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2108
 
 

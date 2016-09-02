@@ -45,7 +45,7 @@
 
         Nothing in this section shall be interpreted to require international control or supervision of any United States military activities.
 
-([Pub. L. 95–242, title IV, § 403][/us/pl/95/242/s403], Mar. 10, 1978, [92 Stat. 146][/us/stat/92/146].)
+([Pub. L. 95–242, title IV][/us/pl/95/242/tIV], § 403, Mar. 10, 1978, [92 Stat. 146][/us/stat/92/146].)
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t42/s2014/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Faa%2F2
-[/us/pl/95/242/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs403
+[/us/pl/95/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIV
 [/us/stat/92/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F146
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201

@@ -37,7 +37,7 @@
 
         The Secretary may take title, in the name of the Federal Government, to the high-level radioactive waste, spent nuclear fuel, or other radioactive material emplaced in a test and evaluation facility. If the Secretary takes title to any such material, the Secretary shall enter into the appropriate financial arrangements described in subsection (a) or (b) of [section 10222 of this title][/us/usc/t42/s10222] for the disposal of such material.
 
-([Pub. L. 97–425, title II, § 214][/us/pl/97/425/s214], Jan. 7, 1983, [96 Stat. 2247][/us/stat/96/2247].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 214, Jan. 7, 1983, [96 Stat. 2247][/us/stat/96/2247].)
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/usc/t42/s10193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10193
 [/us/usc/t42/s10198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10198
 [/us/usc/t42/s10222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10222
-[/us/pl/97/425/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs214
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2247
 
 

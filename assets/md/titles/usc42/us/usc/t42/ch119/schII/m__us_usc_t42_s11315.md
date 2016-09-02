@@ -35,7 +35,7 @@
 
         The Council may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
-([Pub. L. 100–77, title II, § 205][/us/pl/100/77/s205], July 22, 1987, [101 Stat. 488][/us/stat/101/488]; [Pub. L. 111–22, div. B, § 1004(a)(5)][/us/pl/111/22/s1004/a/5], May 20, 2009, [123 Stat. 1668][/us/stat/123/1668].)
+([Pub. L. 100–77, title II][/us/pl/100/77/tII], § 205, July 22, 1987, [101 Stat. 488][/us/stat/101/488]; [Pub. L. 111–22, div. B][/us/pl/111/22/dB], § 1004(a)(5), May 20, 2009, [123 Stat. 1668][/us/stat/123/1668].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/100/77/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs205
+[/us/pl/100/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtII
 [/us/stat/101/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F488
-[/us/pl/111/22/s1004/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1004%2Fa%2F5
+[/us/pl/111/22/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB
 [/us/stat/123/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1668
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22

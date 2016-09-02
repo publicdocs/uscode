@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section. The Secretary shall not spend more than $1,100,000,000 in Federal funds for all activities associated with the Rare Isotope Accelerator, prior to operation of the Accelerator.
 
-([Pub. L. 109–58, title IX, § 981][/us/pl/109/58/s981], Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 981, Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs981
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F907
 
 

@@ -37,13 +37,13 @@
 
     An entity subject to the requirements prescribed pursuant to paragraph (3) respecting compliance with assurances made in connection with receipt of financial assistance shall submit periodically to the Secretary data and information which reasonably supports the entity’s compliance with such assurances. The Secretary may not waive the requirement of the preceding sentence.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1620, as added [Pub. L. 96–79, title II, § 202(b)][/us/pl/96/79/s202/b], Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1620, as added [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 202(b), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].)
 
  __Prior Provisions__ 
 
-    A prior section 300s, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1630, as added Jan. 4, 1975, [Pub. L. 93–641, § 4][/us/pl/93/641/s4], [88 Stat. 2269][/us/stat/88/2269], provided for judicial review by the United States Court of Appeals, prior to repeal by [Pub. L. 96–79, § 202(b)][/us/pl/96/79/s202/b], eff. Oct. 1, 1979.
+    A prior section 300s, [act July 1, 1944, ch. 373, title XVI][/us/act/1944-07-01/ch373/tXVI], § 1630, as added Jan. 4, 1975, [Pub. L. 93–641][/us/pl/93/641], § 4, [88 Stat. 2269][/us/stat/88/2269], provided for judicial review by the United States Court of Appeals, prior to repeal by [Pub. L. 96–79][/us/pl/96/79], § 202(b), eff. Oct. 1, 1979.
 
-    A prior section 1620 of act July 1, 1944, was renumbered section 1601 by [Pub. L. 96–79, title II, § 203(a)(1)][/us/pl/96/79/s203/a/1], Oct. 4, 1979, [93 Stat. 635][/us/stat/93/635], and is classified to [section 300q of this title][/us/usc/t42/s300q].
+    A prior section 1620 of act July 1, 1944, was renumbered section 1601 by [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 203(a)(1), Oct. 4, 1979, [93 Stat. 635][/us/stat/93/635], and is classified to [section 300q of this title][/us/usc/t42/s300q].
 
  __Effective Date__ 
 
@@ -57,13 +57,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/96/79/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fb
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/act/1944-07-01/ch373/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXVI
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2269
-[/us/pl/96/79/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fb
-[/us/pl/96/79/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Fa%2F1
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F635
 [/us/usc/t42/s300q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q
 [/us/pl/96/79/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs204

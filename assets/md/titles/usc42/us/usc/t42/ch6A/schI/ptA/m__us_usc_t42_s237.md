@@ -57,7 +57,7 @@
 
         The Secretary shall promulgate such rules and regulations, not inconsistent with this section, as may be necessary for the efficient administration of the Service.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 228, as added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title III, § 304(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1463; amended [Pub. L. 103–43, title XX, § 2001][/us/pl/103/43/s2001], June 10, 1993, [107 Stat. 208][/us/stat/107/208].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 228, as added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title III, § 304(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1463; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2001, June 10, 1993, [107 Stat. 208][/us/stat/107/208].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–43, § 2001(b)][/us/pl/103/43/s2001/b], substituted “Silvio O. Conte Senior Biomedical Research Service” for “Senior Biomedical Research Service” in section catchline.
+    1993—[Pub. L. 103–43][/us/pl/103/43], § 2001(b), substituted “Silvio O. Conte Senior Biomedical Research Service” for “Senior Biomedical Research Service” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–43, § 2001(a)][/us/pl/103/43/s2001/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be in the Public Health Service a Senior Biomedical Research Service (hereinafter in this section referred to as the ‘Service’), not to exceed 350 members at any time.”
+    Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 2001(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be in the Public Health Service a Senior Biomedical Research Service (hereinafter in this section referred to as the ‘Service’), not to exceed 350 members at any time.”
 
  __Effective Date__ 
 
@@ -86,14 +86,14 @@
 
 [/us/usc/t5/s5377/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5377%2Fd%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/103/43/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2001
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F208
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
-[/us/pl/103/43/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2001%2Fb
-[/us/pl/103/43/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2001%2Fa
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t42/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212
 

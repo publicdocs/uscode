@@ -145,7 +145,7 @@
 
             A condition under paragraph (1) for a State is that the State public health officer serves as the chair of the Committee, and that the Committee meets not less than twice each fiscal year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1905, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 538][/us/stat/95/538]; amended [Pub. L. 98–555, § 5(a)][/us/pl/98/555/s5/a], (d), Oct. 30, 1984, [98 Stat. 2855][/us/stat/98/2855], 2856; [Pub. L. 99–646, § 87(d)(1)(B)][/us/pl/99/646/s87/d/1/B], Nov. 10, 1986, [100 Stat. 3624][/us/stat/100/3624]; [Pub. L. 99–654, § 3(b)(1)(B)][/us/pl/99/654/s3/b/1/B], Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 100–607, title III, § 301(c)][/us/pl/100/607/s301/c], Nov. 4, 1988, [102 Stat. 3112][/us/stat/102/3112]; [Pub. L. 101–590, § 4][/us/pl/101/590/s4], Nov. 16, 1990, [104 Stat. 2928][/us/stat/104/2928]; [Pub. L. 102–531, title I, § 103(a)][/us/pl/102/531/s103/a], Oct. 27, 1992, [106 Stat. 3470][/us/stat/106/3470].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1905, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 538][/us/stat/95/538]; amended [Pub. L. 98–555][/us/pl/98/555], § 5(a), (d), Oct. 30, 1984, [98 Stat. 2855][/us/stat/98/2855], 2856; [Pub. L. 99–646][/us/pl/99/646], § 87(d)(1)(B), Nov. 10, 1986, [100 Stat. 3624][/us/stat/100/3624]; [Pub. L. 99–654][/us/pl/99/654], § 3(b)(1)(B), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 100–607, title III][/us/pl/100/607/tIII], § 301(c), Nov. 4, 1988, [102 Stat. 3112][/us/stat/102/3112]; [Pub. L. 101–590][/us/pl/101/590], § 4, Nov. 16, 1990, [104 Stat. 2928][/us/stat/104/2928]; [Pub. L. 102–531, title I][/us/pl/102/531/tI], § 103(a), Oct. 27, 1992, [106 Stat. 3470][/us/stat/106/3470].)
 
  __Amendments__ 
 
@@ -157,15 +157,15 @@
 
     1986—Subsec. (c)(6). [Pub. L. 99–646][/us/pl/99/646] and [Pub. L. 99–654][/us/pl/99/654] amended par. (6) identically, substituting “sex offense” for “rape”.
 
-    1984—Subsec. (c)(2). [Pub. L. 98–555, § 5(a)][/us/pl/98/555/s5/a], redesignated par. (3) as (2). Former par. (2), which related to grants for fiscal year 1982, was struck out.
+    1984—Subsec. (c)(2). [Pub. L. 98–555][/us/pl/98/555], § 5(a), redesignated par. (3) as (2). Former par. (2), which related to grants for fiscal year 1982, was struck out.
 
-    Subsec. (c)(3). [Pub. L. 98–555, § 5(a)][/us/pl/98/555/s5/a], redesignated par. (5) as (3). Former par. (3) redesignated (2).
+    Subsec. (c)(3). [Pub. L. 98–555][/us/pl/98/555], § 5(a), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (c)(4). [Pub. L. 98–555, § 5(a)][/us/pl/98/555/s5/a], redesignated par. (6) as (4). Former par. (4), which related to grants for preventive health service programs for hypertension, was struck out.
+    Subsec. (c)(4). [Pub. L. 98–555][/us/pl/98/555], § 5(a), redesignated par. (6) as (4). Former par. (4), which related to grants for preventive health service programs for hypertension, was struck out.
 
-    Subsec. (c)(5) to (8). [Pub. L. 98–555, § 5(a)][/us/pl/98/555/s5/a], redesignated pars. (7) and (8) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (3) and (4), respectively.
+    Subsec. (c)(5) to (8). [Pub. L. 98–555][/us/pl/98/555], § 5(a), redesignated pars. (7) and (8) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (3) and (4), respectively.
 
-    Subsec. (e). [Pub. L. 98–555, § 5(d)][/us/pl/98/555/s5/d], struck out subsec. (e) which related to grants by States.
+    Subsec. (e). [Pub. L. 98–555][/us/pl/98/555], § 5(d), struck out subsec. (e) which related to grants by States.
 
  __Effective Date of 1986 Amendments__ 
 
@@ -173,7 +173,7 @@
 
  __Delayed Applicability of Requirement Regarding Advisory Committees__ 
 
-[Pub. L. 102–531, title I, § 103(b)][/us/pl/102/531/s103/b], Oct. 27, 1992, [106 Stat. 3473][/us/stat/106/3473], provided that: 
+[Pub. L. 102–531, title I][/us/pl/102/531/tI], § 103(b), Oct. 27, 1992, [106 Stat. 3473][/us/stat/106/3473], provided that: 
 
 > “With respect to compliance with the requirement established in subsection (c)(2) of section 1905 of the Public Health Service Act \[[42 U.S.C. 300w–4(c)(2)][/us/usc/t42/s300w–4/c/2]\] (as amended by subsection (a) of this section), a State is deemed, notwithstanding such section, to be in compliance with such requirement if the State establishes an advisory committee in accordance with subsection (d) of such section not later than 180 days after the date of the enactment of this Act \[Oct. 27, 1992\].”
 
@@ -198,19 +198,19 @@
 [/us/usc/t42/s300w–5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%935%2Fa
 [/us/usc/t42/s300w–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F538
-[/us/pl/98/555/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fa
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/stat/98/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2855
-[/us/pl/99/646/s87/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fd%2F1%2FB
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3624
-[/us/pl/99/654/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fb%2F1%2FB
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3663
-[/us/pl/100/607/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs301%2Fc
+[/us/pl/100/607/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtIII
 [/us/stat/102/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3112
-[/us/pl/101/590/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs4
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2928
-[/us/pl/102/531/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs103%2Fa
+[/us/pl/102/531/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtI
 [/us/stat/106/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3470
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
@@ -218,17 +218,17 @@
 [/us/usc/t42/s300w–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%932
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
-[/us/pl/98/555/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fa
-[/us/pl/98/555/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fa
-[/us/pl/98/555/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fa
-[/us/pl/98/555/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fa
-[/us/pl/98/555/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs5%2Fd
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/pl/99/646/s87/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fe
 [/us/pl/99/654/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs4
 [/us/usc/t18/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2241
-[/us/pl/102/531/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs103%2Fb
+[/us/pl/102/531/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtI
 [/us/stat/106/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3473
 [/us/usc/t42/s300w–4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%934%2Fc%2F2
 

@@ -269,7 +269,7 @@
 
         The Commission shall be exempt from the Federal Advisory Committee Act.
 
-([Pub. L. 108–79, § 7][/us/pl/108/79/s7], Sept. 4, 2003, [117 Stat. 980][/us/stat/117/980]; [Pub. L. 108–447, div. B, title I, § 123(1)][/us/pl/108/447/s123/1], Dec. 8, 2004, [118 Stat. 2871][/us/stat/118/2871]; [Pub. L. 109–108, title I, § 113(b)][/us/pl/109/108/s113/b], Nov. 22, 2005, [119 Stat. 2305][/us/stat/119/2305]; [Pub. L. 109–162, title XI, § 1181][/us/pl/109/162/s1181], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 110–199, title II, § 261][/us/pl/110/199/s261], Apr. 9, 2008, [122 Stat. 694][/us/stat/122/694].)
+([Pub. L. 108–79][/us/pl/108/79], § 7, Sept. 4, 2003, [117 Stat. 980][/us/stat/117/980]; [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 123(1), Dec. 8, 2004, [118 Stat. 2871][/us/stat/118/2871]; [Pub. L. 109–108, title I][/us/pl/109/108/tI], § 113(b), Nov. 22, 2005, [119 Stat. 2305][/us/stat/119/2305]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1181, Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 110–199, title II][/us/pl/110/199/tII], § 261, Apr. 9, 2008, [122 Stat. 694][/us/stat/122/694].)
 
  __References in Text__ 
 
@@ -297,15 +297,15 @@
 ----------
 
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
-[/us/pl/108/79/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs7
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F980
-[/us/pl/108/447/s123/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs123%2F1
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2871
-[/us/pl/109/108/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs113%2Fb
+[/us/pl/109/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2FtI
 [/us/stat/119/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2305
-[/us/pl/109/162/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1181
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3126
-[/us/pl/110/199/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs261
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F694
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

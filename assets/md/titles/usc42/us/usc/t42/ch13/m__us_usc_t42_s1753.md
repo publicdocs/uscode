@@ -93,19 +93,19 @@
 
                     In providing funds to States under clause (i), the Secretary may reserve not more than $3,000,000 per fiscal year to support Federal administrative activities to carry out this paragraph.
 
-([June 4, 1946, ch. 281, § 4][/us/act/1946-06-04/ch281/s4], [60 Stat. 230][/us/stat/60/230]; [July 12, 1952, ch. 699, § 1(a)][/us/act/1952-07-12/ch699/s1/a], [66 Stat. 591][/us/stat/66/591]; [Pub. L. 87–688, § 3(a)][/us/pl/87/688/s3/a], Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587]; [Pub. L. 87–823, § 2][/us/pl/87/823/s2], Oct. 15, 1962, [76 Stat. 944][/us/stat/76/944]; [Pub. L. 92–433, § 4(c)][/us/pl/92/433/s4/c], Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726]; [Pub. L. 93–150, § 2(a)][/us/pl/93/150/s2/a], Nov. 7, 1973, [87 Stat. 560][/us/stat/87/560]; [Pub. L. 97–35, title VIII][/us/pl/97/35], §§ 801(a), 819(g), Aug. 13, 1981, [95 Stat. 521][/us/stat/95/521], 533; [Pub. L. 101–147, title III][/us/pl/101/147], §§ 301, 312(2), Nov. 10, 1989, [103 Stat. 913][/us/stat/103/913], 916; [Pub. L. 111–296, title II, § 201][/us/pl/111/296/s201], Dec. 13, 2010, [124 Stat. 3214][/us/stat/124/3214].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 4, [60 Stat. 230][/us/stat/60/230]; [July 12, 1952, ch. 699][/us/act/1952-07-12/ch699], § 1(a), [66 Stat. 591][/us/stat/66/591]; [Pub. L. 87–688][/us/pl/87/688], § 3(a), Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587]; [Pub. L. 87–823][/us/pl/87/823], § 2, Oct. 15, 1962, [76 Stat. 944][/us/stat/76/944]; [Pub. L. 92–433][/us/pl/92/433], § 4(c), Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726]; [Pub. L. 93–150][/us/pl/93/150], § 2(a), Nov. 7, 1973, [87 Stat. 560][/us/stat/87/560]; [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], §§ 801(a), 819(g), Aug. 13, 1981, [95 Stat. 521][/us/stat/95/521], 533; [Pub. L. 101–147, title III][/us/pl/101/147/tIII], §§ 301, 312(2), Nov. 10, 1989, [103 Stat. 913][/us/stat/103/913], 916; [Pub. L. 111–296, title II][/us/pl/111/296/tII], § 201, Dec. 13, 2010, [124 Stat. 3214][/us/stat/124/3214].)
 
  __Amendments__ 
 
     2010—Subsec. (b)(3). [Pub. L. 111–296][/us/pl/111/296] added par. (3).
 
-    1989—[Pub. L. 101–147, § 301][/us/pl/101/147/s301], inserted “Apportionments to States” as section catchline.
+    1989—[Pub. L. 101–147][/us/pl/101/147], § 301, inserted “Apportionments to States” as section catchline.
 
-    Subsec. (b)(2). [Pub. L. 101–147, § 312(2)][/us/pl/101/147/s312/2], substituted “reduced price” for “reduced-price”.
+    Subsec. (b)(2). [Pub. L. 101–147][/us/pl/101/147], § 312(2), substituted “reduced price” for “reduced-price”.
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], §§ 801(a)(1), (2), 819(g), designated existing provisions as subsec. (a), struck out exclusion of sum specified in [section 1754 of this title][/us/usc/t42/s1754], and struck out provisions relating to food assistance payments.
 
-    Subsec. (b). [Pub. L. 97–35, § 801(a)(3)][/us/pl/97/35/s801/a/3], added subsec. (b).
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 801(a)(3), added subsec. (b).
 
     1973—[Pub. L. 93–150][/us/pl/93/150] increased national average food assistance payments from 8 to 10 cents per lunch.
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title VIII, § 820(a)][/us/pl/97/35/s820/a], Aug. 13, 1981, [95 Stat. 534][/us/stat/95/534], provided that: 
+[Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 820(a), Aug. 13, 1981, [95 Stat. 534][/us/stat/95/534], provided that: 
 
 > “The provisions of this title shall take effect as follows:
 
@@ -173,47 +173,47 @@
 
  __Effective Date of 1972 Amendment__ 
 
-    [Pub. L. 92–433, § 4(c)][/us/pl/92/433/s4/c], Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726], provided that the amendment made by that section is effective after the fiscal year ending June 30, 1973.
+    [Pub. L. 92–433][/us/pl/92/433], § 4(c), Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726], provided that the amendment made by that section is effective after the fiscal year ending June 30, 1973.
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–688, § 3(b)][/us/pl/87/688/s3/b], Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587], provided that: 
+[Pub. L. 87–688][/us/pl/87/688], § 3(b), Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1754 and 1760 of this title\] shall be applicable only with respect to funds appropriated after the date of enactment of this Act \[Sept. 25, 1962\].”
 
  __Effective Date of 1952 Amendment__ 
 
-[Act July 12, 1952, ch. 699, § 1(d)][/us/act/1952-07-12/ch699/s1/d], [66 Stat. 591][/us/stat/66/591], provided that: 
+[Act July 12, 1952, ch. 699][/us/act/1952-07-12/ch699], § 1(d), [66 Stat. 591][/us/stat/66/591], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 1754 and 1760 of this title\] shall be effective only with respect to funds appropriated after the date on which this Act is enacted \[July 12, 1952\].”
 
  __Promulgation of Regulations__ 
 
-[Pub. L. 97–35, title VIII, § 820(c)][/us/pl/97/35/s820/c], Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535], provided that: 
+[Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 820(c), Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535], provided that: 
 
 > “Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 1981\], the Secretary of Agriculture shall promulgate regulations to implement the amendments made by this title \[see Tables for classification\].”
 
  __Reduction in General Reimbursement for Fiscal Year Ending__  __September 30, 1981__ 
 
-    [Pub. L. 96–499, title II, § 201(a)][/us/pl/96/499/s201/a], Dec. 5, 1980, [94 Stat. 2599][/us/stat/94/2599], provided that the national average payment per lunch under this chapter shall be reduced by 2½ cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under [section 1776 of this title][/us/usc/t42/s1776] for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under [section 1756 of this title][/us/usc/t42/s1756] for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by [Pub. L. 97–35, title VIII, § 820(b)(1)][/us/pl/97/35/s820/b/1], Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535], effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
+    [Pub. L. 96–499, title II][/us/pl/96/499/tII], § 201(a), Dec. 5, 1980, [94 Stat. 2599][/us/stat/94/2599], provided that the national average payment per lunch under this chapter shall be reduced by 2½ cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under [section 1776 of this title][/us/usc/t42/s1776] for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under [section 1756 of this title][/us/usc/t42/s1756] for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 820(b)(1), Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535], effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
 
  __Use of Funds Appropriated Under__  __[__  __Section 612c of Title 7__  __][/us/usc/t7/s612c]__  __for Implementing This Section and Reimbursement of Such Funds__ 
 
-    [Pub. L. 92–433, § 4(a)][/us/pl/92/433/s4/a], Sept. 26, 1972, [86 Stat. 725][/us/stat/86/725], authorized Secretary of Agriculture to use so much of the funds appropriated by [section 612(c) of title 7][/us/usc/t7/s612/c], as may be necessary, to carry out the purposes of this section and provide an average rate of reimbursement of not less than 8 cents per meal within each State during the fiscal year 1973 and provided for reimbursement of funds so used.
+    [Pub. L. 92–433][/us/pl/92/433], § 4(a), Sept. 26, 1972, [86 Stat. 725][/us/stat/86/725], authorized Secretary of Agriculture to use so much of the funds appropriated by [section 612(c) of title 7][/us/usc/t7/s612/c], as may be necessary, to carry out the purposes of this section and provide an average rate of reimbursement of not less than 8 cents per meal within each State during the fiscal year 1973 and provided for reimbursement of funds so used.
 
  __Additional Funds for Apportionment to States and for Special Assistance; Consultation With Child Nutrition Council; Reimbursement of Separate Fund From Supplemental Appropriation__ 
 
-[Pub. L. 92–153, § 1][/us/pl/92/153/s1], Nov. 5, 1971, [85 Stat. 419][/us/stat/85/419], provided: 
+[Pub. L. 92–153][/us/pl/92/153], § 1, Nov. 5, 1971, [85 Stat. 419][/us/stat/85/419], provided: 
 
 > “That, notwithstanding any other provision of law, the Secretary of Agriculture shall until such time as a supplemental appropriation may provide additional funds for such purpose use so much of the funds appropriated by [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] ([7 U.S.C. 612c][/us/usc/t7/s612c]), as may be necessary, in addition to the funds now available therefor, to carry out the purposes of section 11 of the \[Richard B. Russell\] National School Lunch Act \[[section 1759a of this title][/us/usc/t42/s1759a]\] and provide a rate of reimbursement which will assure every needy child of free or reduced price lunches during the fiscal year ending June 30, 1972, and to carry out the purposes of section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\] and provide an average rate of reimbursement of 6 cents per meal within each State. In determining the amount of funds needed and the requirements of the various States therefor, the Secretary shall consult with the National Advisory Council on Child Nutrition and interested parties. Funds expended under the foregoing provisions of this resolution shall be reimbursed out of any supplemental appropriation hereafter enacted \[on and after Nov. 5, 1971\] for the purpose of carrying out section 4 \[this section\] and section 11 of the \[Richard B. Russell\] National School Lunch Act \[[section 1759a of this title][/us/usc/t42/s1759a]\], and such reimbursements shall be deposited into the fund established pursuant to [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] \[[section 612c of Title 7][/us/usc/t7/s612c], Agriculture\], to be available for the purposes of said section 32 \[[section 612c of Title 7][/us/usc/t7/s612c]\].”
 
  __Apportionment of Additional Funds to States__ 
 
-[Pub. L. 92–433, § 4(b)][/us/pl/92/433/s4/b], Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726], provided that: 
+[Pub. L. 92–433][/us/pl/92/433], § 4(b), Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726], provided that: 
 
 > “Funds made available pursuant to this section shall be apportioned to the States in such manner as will best enable schools to meet their obligations with respect to the service of free and reduced-price lunches and to meet the objective of this section with respect to providing a minimum rate of reimbursement under section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\], and such funds shall be apportioned and paid as expeditiously as may be practicable.”
 
-[Pub. L. 92–153, § 2][/us/pl/92/153/s2], Nov. 5, 1971, [85 Stat. 420][/us/stat/85/420], provided that: 
+[Pub. L. 92–153][/us/pl/92/153], § 2, Nov. 5, 1971, [85 Stat. 420][/us/stat/85/420], provided that: 
 
 > “Funds made available by this joint resolution \[amending sections 1758 and 1759a of this title and enacting provisions set out as notes under this section and sections 1758 and 1773 of this title\] shall be apportioned to the States in such manner as will best enable schools to meet their obligations with respect to the service of free and reduced price lunches and to meet the objective of this joint resolution \[amending sections 1758 and 1759a of this title and enacting provisions set out as notes under this section and sections 1758 and 1773 of this title\] with respect to providing a minimum rate of reimbursement under section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\], and such funds shall be apportioned and paid as expeditiously as may be practicable.”
 
@@ -232,30 +232,30 @@
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
 [/us/usc/t42/s1759a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1759a%2Fa%2F3
 [/us/usc/t42/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1752
-[/us/act/1946-06-04/ch281/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs4
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
-[/us/act/1952-07-12/ch699/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch699%2Fs1%2Fa
+[/us/act/1952-07-12/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch699
 [/us/stat/66/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F591
-[/us/pl/87/688/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs3%2Fa
+[/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
-[/us/pl/87/823/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823%2Fs2
+[/us/pl/87/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823
 [/us/stat/76/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F944
-[/us/pl/92/433/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs4%2Fc
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/stat/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F726
-[/us/pl/93/150/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150%2Fs2%2Fa
+[/us/pl/93/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150
 [/us/stat/87/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F560
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F521
-[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtIII
 [/us/stat/103/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F913
-[/us/pl/111/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs201
+[/us/pl/111/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtII
 [/us/stat/124/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3214
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
-[/us/pl/101/147/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs301
-[/us/pl/101/147/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs312%2F2
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1754
-[/us/pl/97/35/s801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs801%2Fa%2F3
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/93/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150
 [/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/pl/87/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823
@@ -265,7 +265,7 @@
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/pl/111/296/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs445
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/97/35/s820/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs820%2Fa
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F534
 [/us/usc/t42/s1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766
 [/us/usc/t42/s1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766
@@ -286,25 +286,25 @@
 [/us/usc/t42/s1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1758
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
 [/us/usc/t42/s1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1785
-[/us/pl/92/433/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs4%2Fc
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/stat/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F726
-[/us/pl/87/688/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs3%2Fb
+[/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
-[/us/act/1952-07-12/ch699/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch699%2Fs1%2Fd
+[/us/act/1952-07-12/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch699
 [/us/stat/66/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F591
-[/us/pl/97/35/s820/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs820%2Fc
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F535
-[/us/pl/96/499/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs201%2Fa
+[/us/pl/96/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtII
 [/us/stat/94/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2599
 [/us/usc/t42/s1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1776
 [/us/usc/t42/s1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1756
-[/us/pl/97/35/s820/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs820%2Fb%2F1
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F535
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/92/433/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs4%2Fa
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/stat/86/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F725
 [/us/usc/t7/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612%2Fc
-[/us/pl/92/153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153%2Fs1
+[/us/pl/92/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153
 [/us/stat/85/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F419
 [/us/act/1935-08-24/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fs32
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
@@ -313,9 +313,9 @@
 [/us/act/1935-08-24/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fs32
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/92/433/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs4%2Fb
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/stat/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F726
-[/us/pl/92/153/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153%2Fs2
+[/us/pl/92/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153
 [/us/stat/85/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F420
 
 

@@ -17,7 +17,7 @@
 
     Except as otherwise specifically provided, any reference in this chapter to “State and local”, “State or local”, “State, and local”, “State, or local”, or “State, local” (including plurals) with respect to governments or officials and any reference to a “local government” in sections 5172(d)(3) and 5184 of this title is deemed to refer also to Indian tribal governments and officials, as appropriate.
 
-([Pub. L. 93–288, title I, § 103][/us/pl/93/288/s103], as added [Pub. L. 113–2, div. B, § 1110(d)][/us/pl/113/2/s1110/d], Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49].)
+([Pub. L. 93–288, title I][/us/pl/93/288/tI], § 103, as added [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1110(d), Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs103
-[/us/pl/113/2/s1110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fd
+[/us/pl/93/288/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtI
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F49
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

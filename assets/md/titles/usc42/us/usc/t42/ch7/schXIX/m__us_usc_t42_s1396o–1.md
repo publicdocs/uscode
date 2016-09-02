@@ -237,61 +237,61 @@
 
                 The term “alternative non-emergency services provider” means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician’s office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for the diagnosis or treatment of a condition, and that is participating in the program under this subchapter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1916A, as added and amended [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6041(a), 6042(a), 6043(a), Feb. 8, 2006, [120 Stat. 81][/us/stat/120/81], 85, 86; [Pub. L. 109–432, div. B, title IV, § 405(a)(1)][/us/pl/109/432/s405/a/1]–(5), Dec. 20, 2006, [120 Stat. 2996–2998][/us/stat/120/2996-2998]; [Pub. L. 111–5, div. B, title V, § 5006(a)(2)][/us/pl/111/5/s5006/a/2], Feb. 17, 2009, [123 Stat. 506][/us/stat/123/506]; [Pub. L. 111–148, title II, § 2102(b)][/us/pl/111/148/s2102/b], title IV, § 4107(c)(2), Mar. 23, 2010, [124 Stat. 289][/us/stat/124/289], 561.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1916A, as added and amended [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], §§ 6041(a), 6042(a), 6043(a), Feb. 8, 2006, [120 Stat. 81][/us/stat/120/81], 85, 86; [Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 405(a)(1)–(5), Dec. 20, 2006, [120 Stat. 2996–2998][/us/stat/120/2996-2998]; [Pub. L. 111–5, div. B, title V][/us/pl/111/5/dB/tV], § 5006(a)(2), Feb. 17, 2009, [123 Stat. 506][/us/stat/123/506]; [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2102(b), title IV, § 4107(c)(2), Mar. 23, 2010, [124 Stat. 289][/us/stat/124/289], 561.)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–148, § 2102(b)][/us/pl/111/148/s2102/b], substituted “, (i), or (j)” for “or (i)”.
+    2010—Subsec. (a)(1). [Pub. L. 111–148][/us/pl/111/148], § 2102(b), substituted “, (i), or (j)” for “or (i)”.
 
-    Subsec. (b)(3)(B)(iii). [Pub. L. 111–148, § 4107(c)(2)][/us/pl/111/148/s4107/c/2], inserted “, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in [section 1396d(bb) of this title][/us/usc/t42/s1396d/bb])” after “complicate the pregnancy”.
+    Subsec. (b)(3)(B)(iii). [Pub. L. 111–148][/us/pl/111/148], § 4107(c)(2), inserted “, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in [section 1396d(bb) of this title][/us/usc/t42/s1396d/bb])” after “complicate the pregnancy”.
 
-    2009—Subsec. (b)(3)(A)(vii). [Pub. L. 111–5, § 5006(a)(2)(A)][/us/pl/111/5/s5006/a/2/A], added cl. (vii).
+    2009—Subsec. (b)(3)(A)(vii). [Pub. L. 111–5][/us/pl/111/5], § 5006(a)(2)(A), added cl. (vii).
 
-    Subsec. (b)(3)(B)(x). [Pub. L. 111–5, § 5006(a)(2)(B)][/us/pl/111/5/s5006/a/2/B], added cl. (x).
+    Subsec. (b)(3)(B)(x). [Pub. L. 111–5][/us/pl/111/5], § 5006(a)(2)(B), added cl. (x).
 
-    2006—Subsec. (a)(1). [Pub. L. 109–432, § 405(a)(3)(A)][/us/pl/109/432/s405/a/3/A], substituted “subsection (g) or (i) of section 1396o” for “section 1396o(g)” in second sentence.
+    2006—Subsec. (a)(1). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(3)(A), substituted “subsection (g) or (i) of section 1396o” for “section 1396o(g)” in second sentence.
 
-    [Pub. L. 109–432, § 405(a)(1)(A)][/us/pl/109/432/s405/a/1/A], inserted “but subject to paragraph (2),” after “1396a(a)(10)(B) of this title,” and “and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)” after “subsection (c)”.
+    [Pub. L. 109–432][/us/pl/109/432], § 405(a)(1)(A), inserted “but subject to paragraph (2),” after “1396a(a)(10)(B) of this title,” and “and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)” after “subsection (c)”.
 
-    Subsec. (a)(2), (3). [Pub. L. 109–432, § 405(a)(1)(B)][/us/pl/109/432/s405/a/1/B], (C), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (b)(1), (2). [Pub. L. 109–432, § 405(a)(2)(A)][/us/pl/109/432/s405/a/2/A], struck out “, subject to subsections (c)(2) and (e)(2)(A)” after “involved” in introductory provisions.
+    Subsec. (b)(1), (2). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(2)(A), struck out “, subject to subsections (c)(2) and (e)(2)(A)” after “involved” in introductory provisions.
 
-    Subsec. (b)(3)(A)(i). [Pub. L. 109–432, § 405(a)(4)(A)][/us/pl/109/432/s405/a/4/A], substituted “child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
+    Subsec. (b)(3)(A)(i). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(4)(A), substituted “child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
 
-    Subsec. (b)(3)(A)(vi). [Pub. L. 109–432, § 405(a)(3)(B)(i)][/us/pl/109/432/s405/a/3/B/i], added cl. (vi).
+    Subsec. (b)(3)(A)(vi). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(3)(B)(i), added cl. (vi).
 
-    Subsec. (b)(3)(B)(i). [Pub. L. 109–432, § 405(a)(4)(B)][/us/pl/109/432/s405/a/4/B], substituted “child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
+    Subsec. (b)(3)(B)(i). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(4)(B), substituted “child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
 
-    Subsec. (b)(3)(B)(ix). [Pub. L. 109–432, § 405(a)(3)(B)(ii)][/us/pl/109/432/s405/a/3/B/ii], added cl. (ix).
+    Subsec. (b)(3)(B)(ix). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(3)(B)(ii), added cl. (ix).
 
-    Subsec. (c). [Pub. L. 109–171, § 6042(a)][/us/pl/109/171/s6042/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–171][/us/pl/109/171], § 6042(a), added subsec. (c).
 
-    Subsec. (c)(1). [Pub. L. 109–432, § 405(a)(2)(B)][/us/pl/109/432/s405/a/2/B], substituted “most (or more) cost effective” for “least (or less) costly effective” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(2)(B), substituted “most (or more) cost effective” for “least (or less) costly effective” in introductory provisions.
 
-    Subsec. (c)(1)(B). [Pub. L. 109–432, § 405(a)(2)(C)][/us/pl/109/432/s405/a/2/C], substituted “be imposed under subsection (a) due to the application of” for “otherwise be imposed under”.
+    Subsec. (c)(1)(B). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(2)(C), substituted “be imposed under subsection (a) due to the application of” for “otherwise be imposed under”.
 
-    Subsec. (c)(2)(B). [Pub. L. 109–432, § 405(a)(2)(D)][/us/pl/109/432/s405/a/2/D], substituted “not subject to cost sharing under subsection (a) due to the application of paragraph (1)(B)” for “otherwise not subject to cost sharing due to the application of subsection (b)(3)(B)”.
+    Subsec. (c)(2)(B). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(2)(D), substituted “not subject to cost sharing under subsection (a) due to the application of paragraph (1)(B)” for “otherwise not subject to cost sharing due to the application of subsection (b)(3)(B)”.
 
-    Subsec. (c)(2)(C). [Pub. L. 109–432, § 405(a)(1)(D)][/us/pl/109/432/s405/a/1/D], inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
+    Subsec. (c)(2)(C). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(1)(D), inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
 
-    Subsec. (e). [Pub. L. 109–171, § 6043(a)][/us/pl/109/171/s6043/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–171][/us/pl/109/171], § 6043(a), added subsec. (e).
 
-    Subsec. (e)(2)(A). [Pub. L. 109–432, § 405(a)(2)(E)][/us/pl/109/432/s405/a/2/E], substituted “Individuals with family income between 100 and 150 percent of the poverty line” for “For poorest beneficiaries” in heading and “under subsection (b)(1)(B)(ii)” for “under subsection (b)(1)” in text.
+    Subsec. (e)(2)(A). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(2)(E), substituted “Individuals with family income between 100 and 150 percent of the poverty line” for “For poorest beneficiaries” in heading and “under subsection (b)(1)(B)(ii)” for “under subsection (b)(1)” in text.
 
-    [Pub. L. 109–432, § 405(a)(1)(E)][/us/pl/109/432/s405/a/1/E], inserted “who is not described in subparagraph (B)” after “in subsection (b)(1)”.
+    [Pub. L. 109–432][/us/pl/109/432], § 405(a)(1)(E), inserted “who is not described in subparagraph (B)” after “in subsection (b)(1)”.
 
-    Subsec. (e)(2)(B). [Pub. L. 109–432, § 405(a)(2)(F)][/us/pl/109/432/s405/a/2/F], substituted “described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1)” for “who is otherwise not subject to cost sharing under subsection (b)(3)”.
+    Subsec. (e)(2)(B). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(2)(F), substituted “described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1)” for “who is otherwise not subject to cost sharing under subsection (b)(3)”.
 
-    Subsec. (e)(2)(C). [Pub. L. 109–432, § 405(a)(2)(G)][/us/pl/109/432/s405/a/2/G], inserted “or section 1396o of this title” after “subsection (a)”.
+    Subsec. (e)(2)(C). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(2)(G), inserted “or section 1396o of this title” after “subsection (a)”.
 
-    [Pub. L. 109–432, § 405(a)(1)(D)][/us/pl/109/432/s405/a/1/D], inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
+    [Pub. L. 109–432][/us/pl/109/432], § 405(a)(1)(D), inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
 
-    Subsec. (e)(4)(A). [Pub. L. 109–432, § 405(a)(5)][/us/pl/109/432/s405/a/5], struck out “the physician determines” after “a hospital that”.
+    Subsec. (e)(4)(A). [Pub. L. 109–432][/us/pl/109/432], § 405(a)(5), struck out “the physician determines” after “a hospital that”.
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–148, title II, § 2102(b)][/us/pl/111/148/s2102/b], Mar. 23, 2010, [124 Stat. 289][/us/stat/124/289], provided that the amendment made by section 2102(b) is effective as if included in the enactment of section 5006(a) of division B of the American Recovery and Reinvestment Act of 2009 ([Public Law 111–5][/us/pl/111/5]).
+    [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2102(b), Mar. 23, 2010, [124 Stat. 289][/us/stat/124/289], provided that the amendment made by section 2102(b) is effective as if included in the enactment of section 5006(a) of division B of the American Recovery and Reinvestment Act of 2009 ([Public Law 111–5][/us/pl/111/5]).
 
     Amendment by [section 4107(c)(2) of Pub. L. 111–148][/us/pl/111/148/s4107/c/2] effective Oct. 1, 2010, see [section 4107(d) of Pub. L. 111–148][/us/pl/111/148/s4107/d], set out as a note under [section 1396d of this title][/us/usc/t42/s1396d].
 
@@ -301,11 +301,11 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. B, title IV, § 405(a)(6)][/us/pl/109/432/s405/a/6], Dec. 20, 2006, [120 Stat. 2998][/us/stat/120/2998], provided that: 
+[Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 405(a)(6), Dec. 20, 2006, [120 Stat. 2998][/us/stat/120/2998], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by sections \[sic\] 6041(a) of the Deficit Reduction Act of 2005 \[[Pub. L. 109–171][/us/pl/109/171]\], except that insofar as such amendments are to, or relate to, subsection (c) or (e) of section 1916A of the Social Security Act \[[42 U.S.C. 1396o–1][/us/usc/t42/s1396o–1]\], such amendments shall take effect as if included in the amendments made by section 6042 or 6043, respectively, of the Deficit Reduction Act of 2005 \[[Pub. L. 109–171][/us/pl/109/171]\].”
 
-[Pub. L. 109–171, title VI, § 6042(b)][/us/pl/109/171/s6042/b], Feb. 8, 2006, [120 Stat. 86][/us/stat/120/86], provided that: 
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6042(b), Feb. 8, 2006, [120 Stat. 86][/us/stat/120/86], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to cost sharing imposed for items and services furnished on or after March 31, 2006.”
 
@@ -333,40 +333,40 @@
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F81
-[/us/pl/109/432/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F1
+[/us/pl/109/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtIV
 [/us/stat/120/2996-2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2996-2998
-[/us/pl/111/5/s5006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Fa%2F2
+[/us/pl/111/5/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtV
 [/us/stat/123/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F506
-[/us/pl/111/148/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fb
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F289
-[/us/pl/111/148/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fb
-[/us/pl/111/148/s4107/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4107%2Fc%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s1396d/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fbb
-[/us/pl/111/5/s5006/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Fa%2F2%2FA
-[/us/pl/111/5/s5006/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Fa%2F2%2FB
-[/us/pl/109/432/s405/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F3%2FA
-[/us/pl/109/432/s405/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F1%2FA
-[/us/pl/109/432/s405/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F1%2FB
-[/us/pl/109/432/s405/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F2%2FA
-[/us/pl/109/432/s405/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F4%2FA
-[/us/pl/109/432/s405/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F3%2FB%2Fi
-[/us/pl/109/432/s405/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F4%2FB
-[/us/pl/109/432/s405/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F3%2FB%2Fii
-[/us/pl/109/171/s6042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6042%2Fa
-[/us/pl/109/432/s405/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F2%2FB
-[/us/pl/109/432/s405/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F2%2FC
-[/us/pl/109/432/s405/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F2%2FD
-[/us/pl/109/432/s405/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F1%2FD
-[/us/pl/109/171/s6043/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6043%2Fa
-[/us/pl/109/432/s405/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F2%2FE
-[/us/pl/109/432/s405/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F1%2FE
-[/us/pl/109/432/s405/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F2%2FF
-[/us/pl/109/432/s405/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F2%2FG
-[/us/pl/109/432/s405/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F1%2FD
-[/us/pl/109/432/s405/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F5
-[/us/pl/111/148/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2102%2Fb
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F289
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/148/s4107/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4107%2Fc%2F2
@@ -375,12 +375,12 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s5006/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Ff
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/109/432/s405/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa%2F6
+[/us/pl/109/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtIV
 [/us/stat/120/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2998
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/usc/t42/s1396o–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396o%E2%80%931
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/109/171/s6042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6042%2Fb
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F86
 [/us/pl/109/171/s6043/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6043%2Fa
 [/us/pl/109/171/s6043/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6043%2Fc

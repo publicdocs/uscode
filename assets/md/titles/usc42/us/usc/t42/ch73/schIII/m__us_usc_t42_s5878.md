@@ -17,7 +17,7 @@
 
     The Administrator shall keep the appropriate congressional committees fully and currently informed with respect to all of the Administration’s activities.
 
-([Pub. L. 93–438, title III, § 308][/us/pl/93/438/s308], Oct. 11, 1974, [88 Stat. 1252][/us/stat/88/1252].)
+([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 308, Oct. 11, 1974, [88 Stat. 1252][/us/stat/88/1252].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs308
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1252
 
 

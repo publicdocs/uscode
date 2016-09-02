@@ -157,13 +157,13 @@
 
             This subsection shall terminate on September 30, 2018.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2315][/us/stat/114/2315]; amended [Pub. L. 107–188, title I][/us/pl/107/188], §§ 141, 144(a), 158, June 12, 2002, [116 Stat. 626][/us/stat/116/626], 630, 633; [Pub. L. 113–5, title II, § 201][/us/pl/113/5/s201], Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319, as added [Pub. L. 106–505, title I][/us/pl/106/505/tI], § 102, Nov. 13, 2000, [114 Stat. 2315][/us/stat/114/2315]; amended [Pub. L. 107–188, title I][/us/pl/107/188/tI], §§ 141, 144(a), 158, June 12, 2002, [116 Stat. 626][/us/stat/116/626], 630, 633; [Pub. L. 113–5, title II][/us/pl/113/5/tII], § 201, Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170].)
 
  __Prior Provisions__ 
 
-    A prior section 247d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319, as added [Pub. L. 98–49][/us/pl/98/49], July 13, 1983, [97 Stat. 245][/us/stat/97/245]; amended [Pub. L. 100–607, title II, § 256(a)][/us/pl/100/607/s256/a], Nov. 4, 1988, [102 Stat. 3110][/us/stat/102/3110]; [Pub. L. 102–321, title I, § 163(b)(2)][/us/pl/102/321/s163/b/2], July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 102–531, title III, § 312(d)(2)][/us/pl/102/531/s312/d/2], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504], authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2315][/us/stat/114/2315].
+    A prior section 247d, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 319, as added [Pub. L. 98–49][/us/pl/98/49], July 13, 1983, [97 Stat. 245][/us/stat/97/245]; amended [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 256(a), Nov. 4, 1988, [102 Stat. 3110][/us/stat/102/3110]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(b)(2), July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(2), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504], authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by [Pub. L. 106–505, title I][/us/pl/106/505/tI], § 102, Nov. 13, 2000, [114 Stat. 2315][/us/stat/114/2315].
 
-    Another prior section 247d, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319, formerly § 310, as added Sept. 25, 1962, [Pub. L. 87–692][/us/pl/87/692], [76 Stat. 592][/us/stat/76/592], and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by [Pub. L. 95–626, title I, § 102(a)][/us/pl/95/626/s102/a], Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551], and transferred to [section 254b of this title][/us/usc/t42/s254b], prior to being omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2].
+    Another prior section 247d, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 319, formerly § 310, as added Sept. 25, 1962, [Pub. L. 87–692][/us/pl/87/692], [76 Stat. 592][/us/stat/76/592], and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 102(a), Nov. 10, 1978, [92 Stat. 3551][/us/stat/92/3551], and transferred to [section 254b of this title][/us/usc/t42/s254b], prior to being omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299][/us/pl/104/299], § 2.
 
  __Change of Name__ 
 
@@ -173,15 +173,15 @@
 
     2013—Subsec. (e). [Pub. L. 113–5][/us/pl/113/5] added subsec. (e).
 
-    2002—Subsec. (a). [Pub. L. 107–188, § 158][/us/pl/107/188/s158], substituted “grants, providing awards for expenses, and” for “grants and” in concluding provisions.
+    2002—Subsec. (a). [Pub. L. 107–188][/us/pl/107/188], § 158, substituted “grants, providing awards for expenses, and” for “grants and” in concluding provisions.
 
-    [Pub. L. 107–188, § 144(a)][/us/pl/107/188/s144/a], inserted at end of concluding provisions “Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination.”
+    [Pub. L. 107–188][/us/pl/107/188], § 144(a), inserted at end of concluding provisions “Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination.”
 
-    Subsec. (d). [Pub. L. 107–188, § 141][/us/pl/107/188/s141], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–188][/us/pl/107/188], § 141, added subsec. (d).
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–188, title I, § 144(b)][/us/pl/107/188/s144/b], June 12, 2002, [116 Stat. 630][/us/stat/116/630], provided that: 
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 144(b), June 12, 2002, [116 Stat. 630][/us/stat/116/630], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] applies to any public health emergency under section 319(a) of the Public Health Service Act \[[42 U.S.C. 247d(a)][/us/usc/t42/s247d/a]\], including any such emergency that was in effect as of the day before the date of the enactment of this Act \[June 12, 2002\]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment.”
 
@@ -196,35 +196,35 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/pl/106/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtI
 [/us/stat/114/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2315
-[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F626
-[/us/pl/113/5/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs201
+[/us/pl/113/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtII
 [/us/stat/127/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F170
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/pl/98/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F49
 [/us/stat/97/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F245
-[/us/pl/100/607/s256/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs256%2Fa
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3110
-[/us/pl/102/321/s163/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F2
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F376
-[/us/pl/102/531/s312/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F2
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/pl/106/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtI
 [/us/stat/114/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2315
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
 [/us/pl/87/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F692
 [/us/stat/76/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F592
-[/us/pl/95/626/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs102%2Fa
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3551
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
-[/us/pl/107/188/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs158
-[/us/pl/107/188/s144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs144%2Fa
-[/us/pl/107/188/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs141
-[/us/pl/107/188/s144/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs144%2Fb
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F630
 [/us/usc/t42/s247d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%2Fa
 

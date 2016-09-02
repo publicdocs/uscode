@@ -37,7 +37,7 @@
 
         To the extent practicable and appropriate, the Secretary shall integrate the program under sections 254c–9 to 254c–13 of this title with other grant programs carried out by the Secretary, including the program under [section 254b of this title][/us/usc/t42/s254b].
 
-([Pub. L. 106–505, title V, § 521][/us/pl/106/505/s521], Nov. 13, 2000, [114 Stat. 2343][/us/stat/114/2343].)
+([Pub. L. 106–505, title V][/us/pl/106/505/tV], § 521, Nov. 13, 2000, [114 Stat. 2343][/us/stat/114/2343].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/106/505/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs521
+[/us/pl/106/505/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtV
 [/us/stat/114/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2343
 
 

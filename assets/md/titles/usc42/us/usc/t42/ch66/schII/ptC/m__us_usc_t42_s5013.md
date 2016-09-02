@@ -33,7 +33,7 @@
 
             (B) Senior companion volunteer trainers recruited under subparagraph (A) of this paragraph shall not be paid stipends.
 
-([Pub. L. 93–113, title II, § 213][/us/pl/93/113/s213], as added [Pub. L. 97–35, title VI, § 608(c)(2)][/us/pl/97/35/s608/c/2], Aug. 13, 1981, [95 Stat. 487][/us/stat/95/487]; amended [Pub. L. 98–288, § 15][/us/pl/98/288/s15], May 21, 1984, [98 Stat. 193][/us/stat/98/193]; [Pub. L. 99–551][/us/pl/99/551], §§ 7(b), 10(c)(1), Oct. 27, 1986, [100 Stat. 3075][/us/stat/100/3075], 3077; [Pub. L. 101–204, title IX, § 902(5)][/us/pl/101/204/s902/5], Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826]; [Pub. L. 103–82, title III, § 347][/us/pl/103/82/s347], Sept. 21, 1993, [107 Stat. 905][/us/stat/107/905]; [Pub. L. 111–13, title II, § 2145][/us/pl/111/13/s2145], Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 213, as added [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 608(c)(2), Aug. 13, 1981, [95 Stat. 487][/us/stat/95/487]; amended [Pub. L. 98–288][/us/pl/98/288], § 15, May 21, 1984, [98 Stat. 193][/us/stat/98/193]; [Pub. L. 99–551][/us/pl/99/551], §§ 7(b), 10(c)(1), Oct. 27, 1986, [100 Stat. 3075][/us/stat/100/3075], 3077; [Pub. L. 101–204, title IX][/us/pl/101/204/tIX], § 902(5), Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 347, Sept. 21, 1993, [107 Stat. 905][/us/stat/107/905]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2145, Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
 
  __Amendments__ 
 
@@ -68,18 +68,18 @@
 
 [/us/usc/t42/s5011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5011%2Fa
 [/us/usc/t42/s5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5011
-[/us/pl/93/113/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs213
-[/us/pl/97/35/s608/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs608%2Fc%2F2
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F487
-[/us/pl/98/288/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs15
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F193
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3075
-[/us/pl/101/204/s902/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs902%2F5
+[/us/pl/101/204/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtIX
 [/us/stat/103/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1826
-[/us/pl/103/82/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs347
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F905
-[/us/pl/111/13/s2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2145
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1589
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

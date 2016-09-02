@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259b.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260 _us_usc_t42_s8261.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
 
 ## § 8262. Definitions
 
@@ -27,7 +27,7 @@
 
     (5) the term “energy conservation measures” has the meaning given such term in [section 8259(4) of this title][/us/usc/t42/s8259/4].
 
-([Pub. L. 102–486, title I, § 151][/us/pl/102/486/s151], Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 151, Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259b.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260 _us_usc_t42_s8261.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
 
 ----------
 ----------
@@ -47,7 +47,7 @@
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t42/s8257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8257
 [/us/usc/t42/s8259/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259%2F4
-[/us/pl/102/486/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs151
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843

@@ -17,7 +17,7 @@
 
     An employer, employment agency, labor organization, or joint labor-management committee shall not be considered to be in violation of this chapter based on the use, acquisition, or disclosure of medical information that is not genetic information about a manifested disease, disorder, or pathological condition of an employee or member, including a manifested disease, disorder, or pathological condition that has or may have a genetic basis.
 
-([Pub. L. 110–233, title II, § 210][/us/pl/110/233/s210], May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 210, May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/233/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs210
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F920
 
 

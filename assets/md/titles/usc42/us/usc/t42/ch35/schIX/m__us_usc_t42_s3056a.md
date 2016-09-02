@@ -155,7 +155,7 @@
 
         The Secretary shall establish by rule and implement a process to evaluate, in accordance with [section 3056k of this title][/us/usc/t42/s3056k], the performance of projects carried out and services provided under this subchapter. The Secretary shall report to Congress, and make available to the public, the results of each such evaluation and shall use such evaluation to improve services delivered by, or the operation of, projects carried out under this subchapter.
 
-([Pub. L. 89–73, title V, § 503][/us/pl/89/73/s503], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2571][/us/stat/120/2571]; amended [Pub. L. 113–128, title V, § 512(w)(4)][/us/pl/113/128/s512/w/4], July 22, 2014, [128 Stat. 1715][/us/stat/128/1715].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 503, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2571][/us/stat/120/2571]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(w)(4), July 22, 2014, [128 Stat. 1715][/us/stat/128/1715].)
 
  __References in Text__ 
 
@@ -165,31 +165,31 @@
 
     The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
-    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
+    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
     The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 101–610][/us/pl/101/610], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127], which is classified principally to chapter 129 (§ 12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title][/us/usc/t42/s12501] and Tables.
 
     The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394], which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (b)(2)(B)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classificaiton of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (b)(2)(B)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classificaiton of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is [Pub. L. 90–202][/us/pl/90/202], Dec. 15, 1967, [81 Stat. 602][/us/stat/81/602], which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29][/us/usc/t29/s621] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 3056a, [Pub. L. 89–73, title V, § 503][/us/pl/89/73/s503], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2272][/us/stat/114/2272]; amended [Pub. L. 109–270, § 2(k)(2)][/us/pl/109/270/s2/k/2], Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748], related to administration of community service projects, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
+    A prior section 3056a, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 503, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2272][/us/stat/114/2272]; amended [Pub. L. 109–270][/us/pl/109/270], § 2(k)(2), Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748], related to administration of community service projects, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
 
-    Another prior section 3056a, [Pub. L. 89–73, title V, § 503][/us/pl/89/73/s503], formerly title IX, § 903, as added [Pub. L. 94–135, title I, § 113(a)][/us/pl/94/135/s113/a], Nov. 28, 1975, [89 Stat. 722][/us/stat/89/722]; renumbered title V, § 503, and amended [Pub. L. 95–478, title I, § 105(a)][/us/pl/95/478/s105/a], (c)(1), (3), Oct. 18, 1978, [92 Stat. 1547][/us/stat/92/1547], 1548; [Pub. L. 97–115, § 12(d)][/us/pl/97/115/s12/d], Dec. 29, 1981, [95 Stat. 1607][/us/stat/95/1607]; [Pub. L. 98–459, title V, § 502][/us/pl/98/459/s502], Oct. 9, 1984, [98 Stat. 1786][/us/stat/98/1786]; [Pub. L. 100–175, title I, § 163][/us/pl/100/175/s163], Nov. 29, 1987, [101 Stat. 958][/us/stat/101/958]; [Pub. L. 102–375, title I, § 102(b)(1)(B)][/us/pl/102/375/s102/b/1/B], (9)(E), title V, § 502, Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1266; [Pub. L. 103–171][/us/pl/103/171], §§ 3(a)(8), 4(a)(3), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990], 1991; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(33)(C), (f)(25)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–433, related to administration of community service projects, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
+    Another prior section 3056a, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 503, formerly title IX, § 903, as added [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 113(a), Nov. 28, 1975, [89 Stat. 722][/us/stat/89/722]; renumbered title V, § 503, and amended [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 105(a), (c)(1), (3), Oct. 18, 1978, [92 Stat. 1547][/us/stat/92/1547], 1548; [Pub. L. 97–115][/us/pl/97/115], § 12(d), Dec. 29, 1981, [95 Stat. 1607][/us/stat/95/1607]; [Pub. L. 98–459, title V][/us/pl/98/459/tV], § 502, Oct. 9, 1984, [98 Stat. 1786][/us/stat/98/1786]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 163, Nov. 29, 1987, [101 Stat. 958][/us/stat/101/958]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(1)(B), (9)(E), title V, § 502, Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1266; [Pub. L. 103–171][/us/pl/103/171], §§ 3(a)(8), 4(a)(3), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990], 1991; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(33)(C), (f)(25)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–433, related to administration of community service projects, prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
 
     Another prior [section 503 of Pub. L. 89–73][/us/pl/89/73/s503] was classified to [section 3041b of this title][/us/usc/t42/s3041b], prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(A). [Pub. L. 113–128, § 512(w)(4)(A)(i)][/us/pl/113/128/s512/w/4/A/i], substituted “the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act” for “the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 512(w)(4)(A)(i), substituted “the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act” for “the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
-    Subsec. (a)(4)(F). [Pub. L. 113–128, § 512(w)(4)(A)(ii)][/us/pl/113/128/s512/w/4/A/ii], substituted “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act” for “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
+    Subsec. (a)(4)(F). [Pub. L. 113–128][/us/pl/113/128], § 512(w)(4)(A)(ii), substituted “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act” for “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
-    Subsec. (b)(2)(A). [Pub. L. 113–128, § 512(w)(4)(B)][/us/pl/113/128/s512/w/4/B], substituted “with the program carried out under the Workforce Innovation and Opportunity Act” for “with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
+    Subsec. (b)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 512(w)(4)(B), substituted “with the program carried out under the Workforce Innovation and Opportunity Act” for “with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -214,10 +214,10 @@
 [/us/usc/t42/s3056i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056i
 [/us/usc/t29/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621
 [/us/usc/t42/s3056k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056k
-[/us/pl/89/73/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs503
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2571
-[/us/pl/113/128/s512/w/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F4
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1715
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
@@ -230,7 +230,7 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F683
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
@@ -241,7 +241,7 @@
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
@@ -250,38 +250,38 @@
 [/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F602
 [/us/usc/t29/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621
-[/us/pl/89/73/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs503
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2272
-[/us/pl/109/270/s2/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs2%2Fk%2F2
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F748
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
-[/us/pl/89/73/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs503
-[/us/pl/94/135/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs113%2Fa
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F722
-[/us/pl/95/478/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs105%2Fa
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1547
-[/us/pl/97/115/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs12%2Fd
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1607
-[/us/pl/98/459/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs502
+[/us/pl/98/459/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtV
 [/us/stat/98/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1786
-[/us/pl/100/175/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs163
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F958
-[/us/pl/102/375/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F1%2FB
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1201
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/89/73/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs503
 [/us/usc/t42/s3041b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3041b
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/113/128/s512/w/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F4%2FA%2Fi
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/113/128/s512/w/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F4%2FA%2Fii
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/113/128/s512/w/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F4%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506

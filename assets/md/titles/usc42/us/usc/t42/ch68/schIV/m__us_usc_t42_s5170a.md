@@ -47,7 +47,7 @@
 
         (B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of a major disaster.
 
-([Pub. L. 93–288, title IV, § 402][/us/pl/93/288/s402], as added [Pub. L. 100–707, title I, § 106(a)(3)][/us/pl/100/707/s106/a/3], Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696]; amended [Pub. L. 109–295, title VI, § 681(a)][/us/pl/109/295/s681/a], Oct. 4, 2006, [120 Stat. 1444][/us/stat/120/1444].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 402, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(a)(3), Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696]; amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 681(a), Oct. 4, 2006, [120 Stat. 1444][/us/stat/120/1444].)
 
  __Prior Provisions__ 
 
@@ -55,13 +55,13 @@
 
  __Amendments__ 
 
-    2006—Par. (1). [Pub. L. 109–295, § 681(a)(1)][/us/pl/109/295/s681/a/1], substituted “response or recovery efforts, including precautionary evacuations” for “efforts”.
+    2006—Par. (1). [Pub. L. 109–295][/us/pl/109/295], § 681(a)(1), substituted “response or recovery efforts, including precautionary evacuations” for “efforts”.
 
-    Par. (2). [Pub. L. 109–295, § 681(a)(2)][/us/pl/109/295/s681/a/2], substituted “, including precautionary evacuations and recovery;” for semicolon at end.
+    Par. (2). [Pub. L. 109–295][/us/pl/109/295], § 681(a)(2), substituted “, including precautionary evacuations and recovery;” for semicolon at end.
 
-    Par. (3)(F). [Pub. L. 109–295, § 681(a)(3)][/us/pl/109/295/s681/a/3], added subpar. (F).
+    Par. (3)(F). [Pub. L. 109–295][/us/pl/109/295], § 681(a)(3), added subpar. (F).
 
-    Par. (5). [Pub. L. 109–295, § 681(a)(4)][/us/pl/109/295/s681/a/4], (5), added par. (5).
+    Par. (5). [Pub. L. 109–295][/us/pl/109/295], § 681(a)(4), (5), added par. (5).
 
 ----------
 
@@ -70,17 +70,17 @@
 ----------
 ----------
 
-[/us/pl/93/288/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs402
-[/us/pl/100/707/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fa%2F3
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4696
-[/us/pl/109/295/s681/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fa
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1444
 [/us/pl/93/288/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs402
 [/us/usc/t42/s5172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5172
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/109/295/s681/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fa%2F1
-[/us/pl/109/295/s681/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fa%2F2
-[/us/pl/109/295/s681/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fa%2F3
-[/us/pl/109/295/s681/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs681%2Fa%2F4
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 
 

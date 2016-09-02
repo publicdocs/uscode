@@ -59,7 +59,7 @@
 
         The Secretary may approve under subsection (a) of this section not more than 4 plans for the establishment of prototype residential energy efficiency programs.
 
-([Pub. L. 95–619, title II, § 262][/us/pl/95/619/s262], as added [Pub. L. 96–294, title V, § 562][/us/pl/96/294/s562], June 30, 1980, [94 Stat. 746][/us/stat/94/746].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 262, as added [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 562, June 30, 1980, [94 Stat. 746][/us/stat/94/746].)
 
 ----------
 
@@ -70,8 +70,8 @@
 
 [/us/usc/t42/s8235b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235b
 [/us/usc/t42/s8235c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8235c
-[/us/pl/95/619/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs262
-[/us/pl/96/294/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs562
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F746
 
 

@@ -19,7 +19,7 @@
 
     (b) The Institute may be located (as designated by the Chairman) at a new or existing Federal laboratory (including a non-Federal laboratory performing functions under a contract entered into with the Project or with any of the agencies represented in the Project as well as a laboratory whose personnel are Federal employees).
 
-([Pub. L. 93–473, § 10][/us/pl/93/473/s10], Oct. 26, 1974, [88 Stat. 1436][/us/stat/88/1436].)
+([Pub. L. 93–473][/us/pl/93/473], § 10, Oct. 26, 1974, [88 Stat. 1436][/us/stat/88/1436].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/473/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs10
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1436
 
 

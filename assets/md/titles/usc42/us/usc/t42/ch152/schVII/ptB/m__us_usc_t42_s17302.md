@@ -23,7 +23,7 @@
 
     (3) the person intended the false or misleading data to affect data compiled by the department or agency for statistical or analytical purposes with respect to the market for crude oil, gasoline, or petroleum distillates.
 
-([Pub. L. 110–140, title VIII, § 812][/us/pl/110/140/s812], Dec. 19, 2007, [121 Stat. 1723][/us/stat/121/1723].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 812, Dec. 19, 2007, [121 Stat. 1723][/us/stat/121/1723].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs812
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1723
 
 

@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstance is held invalid, neither the remainder of this chapter nor the application of such provision to other persons or circumstances shall be affected thereby.
 
-([Pub. L. 95–91, title VII, § 706][/us/pl/95/91/s706], Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
+([Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 706, Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs706
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F607
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

@@ -39,7 +39,7 @@
 
     (8) to the extent practicable, a summary of activities in the United States by companies or persons which are foreign owned or controlled and which own or control United States energy sources and supplies, including the magnitude of annual foreign direct investment in the energy sector in the United States and exports of energy resources from the United States by foreign owned or controlled business entities or persons, and such other related matters as the Secretary may deem appropriate.
 
-([Pub. L. 95–91, title VI, § 657][/us/pl/95/91/s657], Aug. 4, 1977, [91 Stat. 603][/us/stat/91/603]; [Pub. L. 104–66, title I, § 1052(g)][/us/pl/104/66/s1052/g], Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 657, Aug. 4, 1977, [91 Stat. 603][/us/stat/91/603]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(g), Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718].)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 [/us/usc/t42/s6325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6325%2Fc
 [/us/usc/t42/s10224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10224%2Fc
 [/us/usc/t42/s5877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5877
-[/us/pl/95/91/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs657
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F603
-[/us/pl/104/66/s1052/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fg
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F718
 [/us/usc/t42/s5914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5914
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91

@@ -17,7 +17,7 @@
 
     The Office, the head of the Federal agency concerned, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of a grant recipient that are pertinent to the grant received.
 
-([Pub. L. 91–648, title V, § 505][/us/pl/91/648/s505], Jan. 5, 1971, [84 Stat. 1927][/us/stat/84/1927]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 505, Jan. 5, 1971, [84 Stat. 1927][/us/stat/84/1927]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs505
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1927
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

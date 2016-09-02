@@ -23,7 +23,7 @@
 
         The Attorney General, the Comptroller General, or their designated agents shall have access, for the purpose of audit and examination, to any books, documents, and records of States and units of local government which receive grants made under this subchapter if, in the opinion of the Attorney General, the Comptroller General, or their designated agents, such books, documents, and records are related to the receipt or use of any such grant.
 
-([Pub. L. 90–351, title I, § 2407][/us/pl/90/351/s2407], as added [Pub. L. 103–322, title XXI, § 210302(c)(1)(C)][/us/pl/103/322/s210302/c/1/C], Sept. 13, 1994, [108 Stat. 2067][/us/stat/108/2067].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2407, as added [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210302(c)(1)(C), Sept. 13, 1994, [108 Stat. 2067][/us/stat/108/2067].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2407
-[/us/pl/103/322/s210302/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210302%2Fc%2F1%2FC
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2067
 
 

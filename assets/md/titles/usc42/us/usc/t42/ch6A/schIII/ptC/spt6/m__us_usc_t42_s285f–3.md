@@ -27,7 +27,7 @@
 
         Research shall be carried out under awards made under subsection (b) of this section in environments of demonstrated excellence in the etiology and pathogenesis of sexually transmitted diseases and shall foster innovation and integration of such disciplines or other environments determined suitable by the Director of the Institute.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 447B, as added [Pub. L. 106–505, title IX, § 901][/us/pl/106/505/s901], Nov. 13, 2000, [114 Stat. 2349][/us/stat/114/2349]; amended [Pub. L. 109–482, title I, § 103(b)(28)][/us/pl/109/482/s103/b/28], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 447B, as added [Pub. L. 106–505, title IX][/us/pl/106/505/tIX], § 901, Nov. 13, 2000, [114 Stat. 2349][/us/stat/114/2349]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(28), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs901
+[/us/pl/106/505/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtIX
 [/us/stat/114/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2349
-[/us/pl/109/482/s103/b/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F28
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

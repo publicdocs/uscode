@@ -39,7 +39,7 @@
 
     (11) To examine the nature, scope, causes, and complexities of violence in schools and to recommend a comprehensive response to that problem.
 
-([Pub. L. 103–322, title XXVII, § 270003][/us/pl/103/322/s270003], Sept. 13, 1994, [108 Stat. 2091][/us/stat/108/2091].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270003, Sept. 13, 1994, [108 Stat. 2091][/us/stat/108/2091].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s270003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270003
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2091
 
 

@@ -21,7 +21,7 @@
 
     (2) administrative reform in juvenile and family courts.
 
-([Pub. L. 101–647, title II, § 222][/us/pl/101/647/s222], Nov. 29, 1990, [104 Stat. 4797][/us/stat/104/4797].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 222, Nov. 29, 1990, [104 Stat. 4797][/us/stat/104/4797].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs222
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4797
 
 

@@ -95,27 +95,27 @@
 
             A program assisted under this section shall provide each individual assisted under the program with an opportunity, if eligible, to receive case management services available from the appropriate social service agencies.
 
-([Pub. L. 101–625, title VIII, § 858][/us/pl/101/625/s858], Nov. 28, 1990, [104 Stat. 4379][/us/stat/104/4379]; [Pub. L. 102–550, title VI, § 606(g)][/us/pl/102/550/s606/g], (j)(5), (11)(C), Oct. 28, 1992, [106 Stat. 3809–3811][/us/stat/106/3809-3811].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 858, Nov. 28, 1990, [104 Stat. 4379][/us/stat/104/4379]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(g), (j)(5), (11)(C), Oct. 28, 1992, [106 Stat. 3809–3811][/us/stat/106/3809-3811].)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 606(j)(11)(C)(i)][/us/pl/102/550/s606/j/11/C/i], substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(11)(C)(i), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 102–550, § 606(g)(1)(A)][/us/pl/102/550/s606/g/1/A], (j)(5), substituted “to eligible persons assisted under” for “to individuals assisted under” and inserted before period at end “(except that health services under this paragraph may only be provided to individuals with acquired immunodeficiency syndrome or related diseases), and providing technical assistance to eligible persons to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments”.
+    Subsec. (a)(3). [Pub. L. 102–550][/us/pl/102/550], § 606(g)(1)(A), (j)(5), substituted “to eligible persons assisted under” for “to individuals assisted under” and inserted before period at end “(except that health services under this paragraph may only be provided to individuals with acquired immunodeficiency syndrome or related diseases), and providing technical assistance to eligible persons to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments”.
 
-    Subsec. (a)(4), (5). [Pub. L. 102–550, § 606(g)(1)(B)][/us/pl/102/550/s606/g/1/B], (C), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
+    Subsec. (a)(4), (5). [Pub. L. 102–550][/us/pl/102/550], § 606(g)(1)(B), (C), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
 
     “(4) Maintenance and administration.—Providing for maintenance, administration, security, operation, insurance, utilities, furnishings, equipment, supplies, and other incidental costs relating to any short-term supported housing provided under the demonstration program under this section.
 
     “(5) Technical assistance.—Providing technical assistance to such individuals to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments.”
 
-    Subsec. (b)(1)(A). [Pub. L. 102–550, § 606(j)(11)(C)(ii)][/us/pl/102/550/s606/j/11/C/ii], substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
+    Subsec. (b)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(11)(C)(ii), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
 
-    Subsec. (b)(2)(B). [Pub. L. 102–550, § 606(g)(2)(A)(i)][/us/pl/102/550/s606/g/2/A/i], (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Location.—A facility for short-term supported housing assisted with amounts from a grant under this section may not be located in or contiguous to any other facility for emergency or short-term housing that is not limited to use by individuals with acquired immunodeficiency syndrome or related diseases.”
+    Subsec. (b)(2)(B). [Pub. L. 102–550][/us/pl/102/550], § 606(g)(2)(A)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Location.—A facility for short-term supported housing assisted with amounts from a grant under this section may not be located in or contiguous to any other facility for emergency or short-term housing that is not limited to use by individuals with acquired immunodeficiency syndrome or related diseases.”
 
-    Subsec. (b)(2)(C). [Pub. L. 102–550, § 606(g)(2)(A)(ii)][/us/pl/102/550/s606/g/2/A/ii], (iii), substituted “limitation under subparagraph (A)” for “limitations under subparagraphs (A) and (B)” and redesignated subpar. (C) as (B).
+    Subsec. (b)(2)(C). [Pub. L. 102–550][/us/pl/102/550], § 606(g)(2)(A)(ii), (iii), substituted “limitation under subparagraph (A)” for “limitations under subparagraphs (A) and (B)” and redesignated subpar. (C) as (B).
 
-    Subsec. (b)(3)(C). [Pub. L. 102–550, § 606(g)(2)(B)][/us/pl/102/550/s606/g/2/B], added subpar. (C).
+    Subsec. (b)(3)(C). [Pub. L. 102–550][/us/pl/102/550], § 606(g)(2)(B), added subpar. (C).
 
 ----------
 
@@ -125,16 +125,16 @@
 ----------
 
 [/us/usc/t42/s12905/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12905%2Fg
-[/us/pl/101/625/s858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs858
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4379
-[/us/pl/102/550/s606/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fg
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3809-3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3809-3811
-[/us/pl/102/550/s606/j/11/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F11%2FC%2Fi
-[/us/pl/102/550/s606/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fg%2F1%2FA
-[/us/pl/102/550/s606/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fg%2F1%2FB
-[/us/pl/102/550/s606/j/11/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F11%2FC%2Fii
-[/us/pl/102/550/s606/g/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fg%2F2%2FA%2Fi
-[/us/pl/102/550/s606/g/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fg%2F2%2FA%2Fii
-[/us/pl/102/550/s606/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fg%2F2%2FB
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

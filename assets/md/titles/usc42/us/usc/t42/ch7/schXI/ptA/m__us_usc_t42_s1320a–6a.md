@@ -59,11 +59,11 @@
 
         The Director shall pay to the Social Security Administration an amount equal to the amount estimated by the Commissioner as the total cost incurred by the Social Security Administration in carrying out this section for each calendar quarter.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1127A, as added [Pub. L. 114–74, title VIII, § 841(a)][/us/pl/114/74/s841/a], Nov. 2, 2015, [129 Stat. 615][/us/stat/129/615].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1127A, as added [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 841(a), Nov. 2, 2015, [129 Stat. 615][/us/stat/129/615].)
 
  __Effective Date__ 
 
-[Pub. L. 114–74, title VIII, § 841(b)][/us/pl/114/74/s841/b], Nov. 2, 2015, [129 Stat. 617][/us/stat/129/617], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 841(b), Nov. 2, 2015, [129 Stat. 617][/us/stat/129/617], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall apply to past-due disability insurance benefits payable on or after the date that is 1 year after the date of the enactment of this section \[Nov. 2, 2015\].”
 
@@ -84,9 +84,9 @@
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/114/74/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs841%2Fa
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F615
-[/us/pl/114/74/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs841%2Fb
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F617
 
 

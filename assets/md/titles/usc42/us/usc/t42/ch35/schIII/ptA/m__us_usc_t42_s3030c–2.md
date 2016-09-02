@@ -109,21 +109,21 @@
 
         Not later than 1 year after November 13, 2000, and annually thereafter, the Assistant Secretary shall conduct a comprehensive evaluation of practices for cost sharing to determine its impact on participation rates (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas). If the Assistant Secretary finds that there is a disparate impact upon low-income or minority older individuals or older individuals residing in rural areas in any State or region within the State regarding the provision of services, the Assistant Secretary shall take corrective action to assure that such services are provided to all older individuals without regard to the cost sharing criteria.
 
-([Pub. L. 89–73, title III, § 315][/us/pl/89/73/s315], as added [Pub. L. 106–501, title III, § 310][/us/pl/106/501/s310], Nov. 13, 2000, [114 Stat. 2247][/us/stat/114/2247]; amended [Pub. L. 109–365, title III, § 310][/us/pl/109/365/s310], Oct. 17, 2006, [120 Stat. 2546][/us/stat/120/2546].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 315, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 310, Nov. 13, 2000, [114 Stat. 2247][/us/stat/114/2247]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 310, Oct. 17, 2006, [120 Stat. 2546][/us/stat/120/2546].)
 
  __Codification__ 
 
-    [Pub. L. 106–501, § 310][/us/pl/106/501/s310], which directed the addition of this section at the end of Part A of title III ([42 U.S.C. 3021][/us/usc/t42/s3021] et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
+    [Pub. L. 106–501][/us/pl/106/501], § 310, which directed the addition of this section at the end of Part A of title III ([42 U.S.C. 3021][/us/usc/t42/s3021] et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1). [Pub. L. 109–365, § 310(1)(A)][/us/pl/109/365/s310/1/A], substituted “if” for “provided that” and inserted at end “Such contributions shall be encouraged for individuals whose self-declared income is at or above 185 percent of the poverty line, at contribution levels based on the actual cost of services.”
+    2006—Subsec. (b)(1). [Pub. L. 109–365][/us/pl/109/365], § 310(1)(A), substituted “if” for “provided that” and inserted at end “Such contributions shall be encouraged for individuals whose self-declared income is at or above 185 percent of the poverty line, at contribution levels based on the actual cost of services.”
 
-    Subsec. (b)(4)(E). [Pub. L. 109–365, § 310(1)(B)][/us/pl/109/365/s310/1/B], inserted “and to supplement (not supplant) funds received under this chapter” after “given”.
+    Subsec. (b)(4)(E). [Pub. L. 109–365][/us/pl/109/365], § 310(1)(B), inserted “and to supplement (not supplant) funds received under this chapter” after “given”.
 
-    Subsec. (c)(2). [Pub. L. 109–365, § 310(2)][/us/pl/109/365/s310/2], substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)”.
+    Subsec. (c)(2). [Pub. L. 109–365][/us/pl/109/365], § 310(2), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)”.
 
-    Subsec. (d). [Pub. L. 109–365, § 310(3)][/us/pl/109/365/s310/3], substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “with particular attention to low-income and minority older individuals and older individuals residing in rural areas”.
+    Subsec. (d). [Pub. L. 109–365][/us/pl/109/365], § 310(3), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “with particular attention to low-income and minority older individuals and older individuals residing in rural areas”.
 
 ----------
 
@@ -132,16 +132,16 @@
 ----------
 ----------
 
-[/us/pl/89/73/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs315
-[/us/pl/106/501/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs310
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2247
-[/us/pl/109/365/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs310
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2546
-[/us/pl/106/501/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs310
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3021
-[/us/pl/109/365/s310/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs310%2F1%2FA
-[/us/pl/109/365/s310/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs310%2F1%2FB
-[/us/pl/109/365/s310/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs310%2F2
-[/us/pl/109/365/s310/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs310%2F3
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

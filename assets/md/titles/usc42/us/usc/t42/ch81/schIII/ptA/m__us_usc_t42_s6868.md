@@ -19,7 +19,7 @@
 
     (b) Reasonable notice under this section shall include a written notice of intention to act adversely (including a statement of the reasons therefor) and a reasonable period of time within which to submit corrective amendments to the application, or to propose corrective action.
 
-([Pub. L. 94–385, title IV, § 418][/us/pl/94/385/s418], Aug. 14, 1976, [90 Stat. 1157][/us/stat/90/1157]; [Pub. L. 96–294, title V, § 577(2)][/us/pl/96/294/s577/2], June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 418, Aug. 14, 1976, [90 Stat. 1157][/us/stat/90/1157]; [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 577(2), June 30, 1980, [94 Stat. 760][/us/stat/94/760].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t42/s6863/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6863%2Fc
-[/us/pl/94/385/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs418
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1157
-[/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F760
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 

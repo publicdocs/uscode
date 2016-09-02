@@ -11,34 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch119/schVI/ptD/m__us_usc_t42_ch119_schVI_ptD.md) | [Next](./../../../../../..//us/usc/t42/ch119/schVI/ptF/m__us_usc_t42_ch119_schVI_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch119%2FschVI%2FptE)
+[Previous](./../../../../../..//us/usc/t42/ch119/schVI/ptD/m__us_usc_t42_s11461...11466.md) | [Next](./../../../../../..//us/usc/t42/ch119/schVI/ptE/m__us_usc_t42_s11471 _us_usc_t42_s11472.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch119%2FschVI%2FptE)
 
 #### Part E—Miscellaneous Provisions
 
-§§ 11471, 11472. __Repealed.__  __[__  __Pub. L. 105–220, title I, § 199(b)(1)__  __][/us/pl/105/220/s199/b/1]__  __,__  __Aug. 7, 1998__  __,__  __[__  __112 Stat. 1059__  __][/us/stat/112/1059]__ 
-
-    Section 11471, [Pub. L. 100–77, title VII, § 761][/us/pl/100/77/s761], July 22, 1987, [101 Stat. 533][/us/stat/101/533], authorized grant for study of causes of youth homelessness.
-
-    Section 11472, [Pub. L. 100–77, title VII, § 762][/us/pl/100/77/s762], July 22, 1987, [101 Stat. 533][/us/stat/101/533], related to set-asides for Native Americans.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 1, 1999, see [section 199(c)(2)(A) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/A], as amended, set out as a note under [section 11421 of this title][/us/usc/t42/s11421].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch119/schVI/ptD/m__us_usc_t42_ch119_schVI_ptD.md) | [Next](./../../../../../..//us/usc/t42/ch119/schVI/ptF/m__us_usc_t42_ch119_schVI_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch119%2FschVI%2FptE)
+[Previous](./../../../../../..//us/usc/t42/ch119/schVI/ptD/m__us_usc_t42_s11461...11466.md) | [Next](./../../../../../..//us/usc/t42/ch119/schVI/ptE/m__us_usc_t42_s11471 _us_usc_t42_s11472.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch119%2FschVI%2FptE)
 
 ----------
 ----------
 
-[/us/pl/105/220/s199/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F1
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/pl/100/77/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs761
-[/us/stat/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F533
-[/us/pl/100/77/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs762
-[/us/stat/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F533
-[/us/pl/105/220/s199/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FA
-[/us/usc/t42/s11421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11421
 
 

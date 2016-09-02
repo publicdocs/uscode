@@ -17,7 +17,7 @@
 
     The Secretary shall make payments, as provided by [section 6503(a) of title 31][/us/usc/t31/s6503/a], to each State from its allotments under [section 9872 of this title][/us/usc/t42/s9872] from amounts appropriated under [section 9871 of this title][/us/usc/t42/s9871].
 
-([Pub. L. 97–35, title VI, § 670C][/us/pl/97/35/s670C], as added [Pub. L. 98–558, title I, § 109][/us/pl/98/558/s109], Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 670C, as added [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 109, Oct. 30, 1984, [98 Stat. 2880][/us/stat/98/2880].)
 
 ----------
 
@@ -29,8 +29,8 @@
 [/us/usc/t31/s6503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503%2Fa
 [/us/usc/t42/s9872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9872
 [/us/usc/t42/s9871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9871
-[/us/pl/97/35/s670C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs670C
-[/us/pl/98/558/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs109
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2880
 
 

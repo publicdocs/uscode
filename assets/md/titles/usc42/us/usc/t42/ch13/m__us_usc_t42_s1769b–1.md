@@ -183,47 +183,47 @@
 
             (B) to assist State educational agencies in reviewing the administrative practices of local educational agencies, to the extent determined by the Secretary.
 
-([June 4, 1946, ch. 281, § 21][/us/act/1946-06-04/ch281/s21], as added [Pub. L. 101–147, title I, § 109][/us/pl/101/147/s109], Nov. 10, 1989, [103 Stat. 887][/us/stat/103/887]; amended [Pub. L. 102–337, § 1][/us/pl/102/337/s1], Aug. 7, 1992, [106 Stat. 865][/us/stat/106/865]; [Pub. L. 103–448, title I, § 120][/us/pl/103/448/s120], Nov. 2, 1994, [108 Stat. 4726][/us/stat/108/4726]; [Pub. L. 105–336, title I][/us/pl/105/336], §§ 103(c)(2), 110, Oct. 31, 1998, [112 Stat. 3147][/us/stat/112/3147], 3157; [Pub. L. 108–265, title I][/us/pl/108/265], §§ 125, 126(a), title II, § 205(b), June 30, 2004, [118 Stat. 761][/us/stat/118/761], 763, 787; [Pub. L. 108–447, div. A, title VII, § 788(c)][/us/pl/108/447/s788/c], Dec. 8, 2004, [118 Stat. 2851][/us/stat/118/2851]; [Pub. L. 111–80, title VII, § 749(e)][/us/pl/111/80/s749/e], Oct. 21, 2009, [123 Stat. 2132][/us/stat/123/2132]; [Pub. L. 111–296, title IV][/us/pl/111/296], §§ 406, 407, Dec. 13, 2010, [124 Stat. 3259][/us/stat/124/3259], 3260.)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 21, as added [Pub. L. 101–147, title I][/us/pl/101/147/tI], § 109, Nov. 10, 1989, [103 Stat. 887][/us/stat/103/887]; amended [Pub. L. 102–337][/us/pl/102/337], § 1, Aug. 7, 1992, [106 Stat. 865][/us/stat/106/865]; [Pub. L. 103–448, title I][/us/pl/103/448/tI], § 120, Nov. 2, 1994, [108 Stat. 4726][/us/stat/108/4726]; [Pub. L. 105–336, title I][/us/pl/105/336/tI], §§ 103(c)(2), 110, Oct. 31, 1998, [112 Stat. 3147][/us/stat/112/3147], 3157; [Pub. L. 108–265, title I][/us/pl/108/265/tI], §§ 125, 126(a), title II, § 205(b), June 30, 2004, [118 Stat. 761][/us/stat/118/761], 763, 787; [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 788(c), Dec. 8, 2004, [118 Stat. 2851][/us/stat/118/2851]; [Pub. L. 111–80, title VII][/us/pl/111/80/tVII], § 749(e), Oct. 21, 2009, [123 Stat. 2132][/us/stat/123/2132]; [Pub. L. 111–296, title IV][/us/pl/111/296/tIV], §§ 406, 407, Dec. 13, 2010, [124 Stat. 3259][/us/stat/124/3259], 3260.)
 
  __Amendments__ 
 
-    2010—Subsec. (e). [Pub. L. 111–296, § 406][/us/pl/111/296/s406], substituted “Food service management institute” for “Authorization of appropriations” in heading, added par. (1), redesignated former subpars. (B) and (C) of former par. (2) as pars. (2) and (3), respectively, and realigned margins, substituted “paragraph (1)” for “subparagraph (A)” in two places in par. (2) and “paragraphs (1) and (2)” for “subparagraphs (A) and (B)” in par. (3), and struck out former pars. (1) and (2)(A) which related to authorization of appropriations for training activities and technical assistance and funding for the food service management institute, respectively.
+    2010—Subsec. (e). [Pub. L. 111–296][/us/pl/111/296], § 406, substituted “Food service management institute” for “Authorization of appropriations” in heading, added par. (1), redesignated former subpars. (B) and (C) of former par. (2) as pars. (2) and (3), respectively, and realigned margins, substituted “paragraph (1)” for “subparagraph (A)” in two places in par. (2) and “paragraphs (1) and (2)” for “subparagraphs (A) and (B)” in par. (3), and struck out former pars. (1) and (2)(A) which related to authorization of appropriations for training activities and technical assistance and funding for the food service management institute, respectively.
 
-    Subsec. (g)(1)(A)(iii). [Pub. L. 111–296, § 407][/us/pl/111/296/s407], added cl. (iii).
+    Subsec. (g)(1)(A)(iii). [Pub. L. 111–296][/us/pl/111/296], § 407, added cl. (iii).
 
     2009—Subsec. (g)(1)(A)(ii). [Pub. L. 111–80][/us/pl/111/80] substituted “October 1, 2008, and October 1, 2009” for “and October 1, 2008”.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–265, § 125(a)][/us/pl/108/265/s125/a], substituted provisions relating to training and technical assistance under this chapter, [section 1773 of this title][/us/usc/t42/s1773], and other federally assisted programs, including assistance on a competitive basis to State agencies for the purpose of aiding schools with at least 50 percent of enrolled children certified to receive free or reduced price meals, and to State agencies with low proportions of students that participate in the school breakfast program and demonstrate the greatest need, for provisions relating to training activities and technical assistance under this chapter, [section 1773 of this title][/us/usc/t42/s1773], and other federally assisted programs.
+    2004—Subsec. (a)(1). [Pub. L. 108–265][/us/pl/108/265], § 125(a), substituted provisions relating to training and technical assistance under this chapter, [section 1773 of this title][/us/usc/t42/s1773], and other federally assisted programs, including assistance on a competitive basis to State agencies for the purpose of aiding schools with at least 50 percent of enrolled children certified to receive free or reduced price meals, and to State agencies with low proportions of students that participate in the school breakfast program and demonstrate the greatest need, for provisions relating to training activities and technical assistance under this chapter, [section 1773 of this title][/us/usc/t42/s1773], and other federally assisted programs.
 
-    Subsec. (c)(2)(B)(vi) to (x). [Pub. L. 108–265, § 125(b)][/us/pl/108/265/s125/b], added cl. (vi), struck out former cls. (vi) and (vii), which related to safety and food handling, respectively, and redesignated former cls. (viii) to (x) as (vii) to (ix), respectively.
+    Subsec. (c)(2)(B)(vi) to (x). [Pub. L. 108–265][/us/pl/108/265], § 125(b), added cl. (vi), struck out former cls. (vi) and (vii), which related to safety and food handling, respectively, and redesignated former cls. (viii) to (x) as (vii) to (ix), respectively.
 
-    Subsec. (c)(2)(E). [Pub. L. 108–265, § 205(b)][/us/pl/108/265/s205/b], struck out “, including activities carried out with assistance provided under [section 1788 of this title][/us/usc/t42/s1788]” before semicolon at end.
+    Subsec. (c)(2)(E). [Pub. L. 108–265][/us/pl/108/265], § 205(b), struck out “, including activities carried out with assistance provided under [section 1788 of this title][/us/usc/t42/s1788]” before semicolon at end.
 
-    Subsec. (e)(1). [Pub. L. 108–265, § 125(c)(1)][/us/pl/108/265/s125/c/1], substituted “2009” for “2003”.
+    Subsec. (e)(1). [Pub. L. 108–265][/us/pl/108/265], § 125(c)(1), substituted “2009” for “2003”.
 
     Subsec. (e)(2)(A). [Pub. L. 108–447][/us/pl/108/447] inserted “and” after “2005”.
 
-    [Pub. L. 108–265, § 125(c)(2)][/us/pl/108/265/s125/c/2], substituted “provide to the Secretary” for “provide to the Secretary $147,000 for fiscal year 1995, $2,000,000 for each of fiscal years 1996 through 1998, and” and “2004 and $4,000,000 for fiscal year 2005” for “1999 and”.
+    [Pub. L. 108–265][/us/pl/108/265], § 125(c)(2), substituted “provide to the Secretary” for “provide to the Secretary $147,000 for fiscal year 1995, $2,000,000 for each of fiscal years 1996 through 1998, and” and “2004 and $4,000,000 for fiscal year 2005” for “1999 and”.
 
-    Subsecs. (f), (g). [Pub. L. 108–265, § 126(a)][/us/pl/108/265/s126/a], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 108–265][/us/pl/108/265], § 126(a), added subsecs. (f) and (g).
 
-    1998—Subsec. (c)(2)(F), (H). [Pub. L. 105–336, § 110(a)][/us/pl/105/336/s110/a], substituted “established by the Secretary” for “of [section 1769e of this title][/us/usc/t42/s1769e]”.
+    1998—Subsec. (c)(2)(F), (H). [Pub. L. 105–336][/us/pl/105/336], § 110(a), substituted “established by the Secretary” for “of [section 1769e of this title][/us/usc/t42/s1769e]”.
 
-    Subsec. (e)(1). [Pub. L. 105–336, § 110(b)][/us/pl/105/336/s110/b], substituted “2003” for “1998”.
+    Subsec. (e)(1). [Pub. L. 105–336][/us/pl/105/336], § 110(b), substituted “2003” for “1998”.
 
-    Subsec. (e)(2)(A). [Pub. L. 105–336, § 110(c)][/us/pl/105/336/s110/c], substituted “$2,000,000 for each of fiscal years 1996 through 1998, and $3,000,000 for fiscal year 1999 and each subsequent fiscal year,” for “and $2,000,000 for fiscal year 1996 and each subsequent fiscal year,” in first sentence.
+    Subsec. (e)(2)(A). [Pub. L. 105–336][/us/pl/105/336], § 110(c), substituted “$2,000,000 for each of fiscal years 1996 through 1998, and $3,000,000 for fiscal year 1999 and each subsequent fiscal year,” for “and $2,000,000 for fiscal year 1996 and each subsequent fiscal year,” in first sentence.
 
-    [Pub. L. 105–336, § 103(c)(2)][/us/pl/105/336/s103/c/2], inserted “, without further appropriation” before period at end of second sentence.
+    [Pub. L. 105–336][/us/pl/105/336], § 103(c)(2), inserted “, without further appropriation” before period at end of second sentence.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–448, § 120(c)(1)][/us/pl/103/448/s120/c/1], substituted “subject to the availability of, and from, amounts” for “from amounts” in introductory provisions.
+    1994—Subsec. (a)(1). [Pub. L. 103–448][/us/pl/103/448], § 120(c)(1), substituted “subject to the availability of, and from, amounts” for “from amounts” in introductory provisions.
 
-    Subsec. (c)(2)(B)(ix), (x). [Pub. L. 103–448, § 120(a)(1)][/us/pl/103/448/s120/a/1], added cl. (ix) and redesignated former cl. (ix) as (x).
+    Subsec. (c)(2)(B)(ix), (x). [Pub. L. 103–448][/us/pl/103/448], § 120(a)(1), added cl. (ix) and redesignated former cl. (ix) as (x).
 
-    Subsec. (c)(2)(F) to (H). [Pub. L. 103–448, § 120(a)(2)][/us/pl/103/448/s120/a/2]–(4), added subpars. (F) to (H).
+    Subsec. (c)(2)(F) to (H). [Pub. L. 103–448][/us/pl/103/448], § 120(a)(2)–(4), added subpars. (F) to (H).
 
-    Subsec. (d). [Pub. L. 103–448, § 120(b)][/us/pl/103/448/s120/b], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (d). [Pub. L. 103–448][/us/pl/103/448], § 120(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (e). [Pub. L. 103–448, § 120(c)(2)][/us/pl/103/448/s120/c/2], added subsec. (e) and struck out former subsec. (e) which read as follows: “There are authorized to be appropriated—
+    Subsec. (e). [Pub. L. 103–448][/us/pl/103/448], § 120(c)(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “There are authorized to be appropriated—
 
     “(1) $3,000,000 for the fiscal year 1990, $2,000,000 for the fiscal year 1991, and $1,000,000 for each of the fiscal years 1992, 1993, and 1994 for purposes of carrying out subsection (a)(1) of this section; and
 
@@ -256,46 +256,46 @@
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
-[/us/act/1946-06-04/ch281/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs21
-[/us/pl/101/147/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs109
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F887
-[/us/pl/102/337/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F337%2Fs1
+[/us/pl/102/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F337
 [/us/stat/106/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F865
-[/us/pl/103/448/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs120
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4726
-[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2FtI
 [/us/stat/112/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3147
-[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtI
 [/us/stat/118/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F761
-[/us/pl/108/447/s788/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs788%2Fc
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2851
-[/us/pl/111/80/s749/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs749%2Fe
+[/us/pl/111/80/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2FtVII
 [/us/stat/123/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2132
-[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtIV
 [/us/stat/124/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3259
-[/us/pl/111/296/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs406
-[/us/pl/111/296/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs407
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
-[/us/pl/108/265/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs125%2Fa
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
-[/us/pl/108/265/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs125%2Fb
-[/us/pl/108/265/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs205%2Fb
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/usc/t42/s1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1788
-[/us/pl/108/265/s125/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs125%2Fc%2F1
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/265/s125/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs125%2Fc%2F2
-[/us/pl/108/265/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs126%2Fa
-[/us/pl/105/336/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs110%2Fa
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/usc/t42/s1769e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769e
-[/us/pl/105/336/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs110%2Fb
-[/us/pl/105/336/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs110%2Fc
-[/us/pl/105/336/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs103%2Fc%2F2
-[/us/pl/103/448/s120/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs120%2Fc%2F1
-[/us/pl/103/448/s120/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs120%2Fa%2F1
-[/us/pl/103/448/s120/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs120%2Fa%2F2
-[/us/pl/103/448/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs120%2Fb
-[/us/pl/103/448/s120/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs120%2Fc%2F2
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
 [/us/pl/102/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F337
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/pl/111/296/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs445

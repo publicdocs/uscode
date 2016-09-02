@@ -17,7 +17,7 @@
 
     Nothing contained in this subchapter shall be construed to repeal or modify any Federal, State, territorial, or local law creating special rights or preference for veterans.
 
-([Pub. L. 88–352, title VII, § 712][/us/pl/88/352/s712], July 2, 1964, [78 Stat. 265][/us/stat/78/265].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 712, July 2, 1964, [78 Stat. 265][/us/stat/78/265].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs712
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F265
 
 

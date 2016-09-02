@@ -49,7 +49,7 @@
 
         The Secretary of the Army, acting through the Chief of Engineers, is authorized with respect to previously authorized projects to undertake feasibility studies of specific hydroelectric power installations that are identified in the course of the study authorized by this section, as having high potential for contribution toward meeting regional power needs. There is authorized to be appropriated to carry out this subsection not to exceed $5,000,000 per fiscal year for each of the fiscal years 1978 and 1979.
 
-([Pub. L. 94–587, § 167][/us/pl/94/587/s167], Oct. 22, 1976, [90 Stat. 2935][/us/stat/90/2935]; [Pub. L. 103–437, § 15(e)(1)][/us/pl/103/437/s15/e/1], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Pub. L. 94–587][/us/pl/94/587], § 167, Oct. 22, 1976, [90 Stat. 2935][/us/stat/90/2935]; [Pub. L. 103–437][/us/pl/103/437], § 15(e)(1), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __Codification__ 
 
@@ -65,11 +65,11 @@
 
  __Federal Hydroelectric Power Modernization Study__ 
 
-    [Pub. L. 100–676, § 42][/us/pl/100/676/s42], Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040], directed Secretary to conduct a study of need to modernize and upgrade federally owned and operated hydroelectric power system, and to submit a report, along with recommendations, to Congress not later than 2 years after Nov. 17, 1988.
+    [Pub. L. 100–676][/us/pl/100/676], § 42, Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040], directed Secretary to conduct a study of need to modernize and upgrade federally owned and operated hydroelectric power system, and to submit a report, along with recommendations, to Congress not later than 2 years after Nov. 17, 1988.
 
  __Water Quality Effects of Hydroelectric Facilities__ 
 
-    [Pub. L. 100–676, § 43][/us/pl/100/676/s43], Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040], directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
+    [Pub. L. 100–676][/us/pl/100/676], § 43, Nov. 17, 1988, [102 Stat. 4040][/us/stat/102/4040], directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
 
 ----------
 
@@ -78,16 +78,16 @@
 ----------
 ----------
 
-[/us/pl/94/587/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs167
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2935
-[/us/pl/103/437/s15/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fe%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/100/676/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs42
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4040
-[/us/pl/100/676/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs43
+[/us/pl/100/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676
 [/us/stat/102/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4040
 
 

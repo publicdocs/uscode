@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4029.md) | [Next](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4030)
 
-## § 4030. Repealed. [Pub. L. 112–141, div. F, title II, § 100225(b)][/us/pl/112/141/s100225/b], July 6, 2012, [126 Stat. 941][/us/stat/126/941]
+## § 4030. Repealed. [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100225(b), July 6, 2012, [126 Stat. 941][/us/stat/126/941]
 
-    Section, [Pub. L. 90–448, title XIII, § 1323][/us/pl/90/448/s1323], as added [Pub. L. 108–264, title I, § 104(a)][/us/pl/108/264/s104/a], June 30, 2004, [118 Stat. 722][/us/stat/118/722], provided funding for mitigation actions that reduce flood damages to individual properties for which 1 or more claim payments for losses have been made under flood insurance coverage under this chapter.
+    Section, [Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1323, as added [Pub. L. 108–264, title I][/us/pl/108/264/tI], § 104(a), June 30, 2004, [118 Stat. 722][/us/stat/118/722], provided funding for mitigation actions that reduce flood damages to individual properties for which 1 or more claim payments for losses have been made under flood insurance coverage under this chapter.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/112/141/s100225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fb
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F941
-[/us/pl/90/448/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1323
-[/us/pl/108/264/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs104%2Fa
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/108/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2FtI
 [/us/stat/118/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F722
 
 

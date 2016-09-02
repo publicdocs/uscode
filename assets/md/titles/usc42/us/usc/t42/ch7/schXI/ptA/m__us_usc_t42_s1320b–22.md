@@ -133,7 +133,7 @@
 
         Not later than October 1, 2010, the Secretary, in consultation with the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of this Act, shall submit a recommendation to the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate regarding whether the grant program established under this section should be continued after fiscal year 2011.
 
-([Pub. L. 106–170, title II, § 203][/us/pl/106/170/s203], Dec. 17, 1999, [113 Stat. 1894][/us/stat/113/1894].)
+([Pub. L. 106–170, title II][/us/pl/106/170/tII], § 203, Dec. 17, 1999, [113 Stat. 1894][/us/stat/113/1894].)
 
  __References in Text__ 
 
@@ -163,7 +163,7 @@
 [/us/usc/t42/s1396a/a/10/A/ii/XIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fii%2FXIII
 [/us/usc/t42/s1320b–19/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk%2F3
 [/us/usc/t42/s1320b–19/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk%2F4
-[/us/pl/106/170/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs203
+[/us/pl/106/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtII
 [/us/stat/113/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1894
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319

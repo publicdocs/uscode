@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209a _us_usc_t42_s209b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
 
 ## § 209. Appointment of personnel
 
@@ -77,7 +77,7 @@
 
         The appointment of any officer or employee of the Service made in accordance with the civil-service laws shall be made by the Secretary, and may be made effective as of the date on which such officer or employee enters upon duty.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 207, formerly § 208, [58 Stat. 685][/us/stat/58/685]; [July 3, 1946, ch. 538, § 4][/us/act/1946-07-03/ch538/s4], [60 Stat. 421][/us/stat/60/421]; [Aug. 13, 1946, ch. 958, § 3][/us/act/1946-08-13/ch958/s3], [60 Stat. 1049][/us/stat/60/1049]; renumbered § 207 and amended [Feb. 28, 1948, ch. 83, § 5(a)][/us/act/1948-02-28/ch83/s5/a]–(d), [62 Stat. 40][/us/stat/62/40]; [Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 521(a), [63 Stat. 834][/us/stat/63/834]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Apr. 27, 1956, ch. 211, § 3(a)][/us/act/1956-04-27/ch211/s3/a]–(c)(1), [70 Stat. 116][/us/stat/70/116]; [Pub. L. 86–415][/us/pl/86/415], §§ 2, 3, Apr. 8, 1960, [74 Stat. 32][/us/stat/74/32]; [Pub. L. 96–76, title III, § 305][/us/pl/96/76/s305], Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXVII, § 2765(c)][/us/pl/97/35/s2765/c], Aug. 13, 1981, [95 Stat. 933][/us/stat/95/933]; [Pub. L. 97–414, § 8(a)][/us/pl/97/414/s8/a], Jan. 4, 1983, [96 Stat. 2060][/us/stat/96/2060].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 207, formerly § 208, [58 Stat. 685][/us/stat/58/685]; [July 3, 1946, ch. 538][/us/act/1946-07-03/ch538], § 4, [60 Stat. 421][/us/stat/60/421]; [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 3, [60 Stat. 1049][/us/stat/60/1049]; renumbered § 207 and amended [Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 5(a)–(d), [62 Stat. 40][/us/stat/62/40]; [Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 521(a), [63 Stat. 834][/us/stat/63/834]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Apr. 27, 1956, ch. 211][/us/act/1956-04-27/ch211], § 3(a)–(c)(1), [70 Stat. 116][/us/stat/70/116]; [Pub. L. 86–415][/us/pl/86/415], §§ 2, 3, Apr. 8, 1960, [74 Stat. 32][/us/stat/74/32]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 305, Sept. 29, 1979, [93 Stat. 585][/us/stat/93/585]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2765(c), Aug. 13, 1981, [95 Stat. 933][/us/stat/95/933]; [Pub. L. 97–414][/us/pl/97/414], § 8(a), Jan. 4, 1983, [96 Stat. 2060][/us/stat/96/2060].)
 
  __Codification__ 
 
@@ -87,7 +87,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 207 of act July 1, 1944, was classified to [section 208 of this title][/us/usc/t42/s208], prior to repeal by [act Feb. 28, 1948, ch. 83, § 5(a)][/us/act/1948-02-28/ch83/s5/a], [62 Stat. 40][/us/stat/62/40].
+    A prior section 207 of act July 1, 1944, was classified to [section 208 of this title][/us/usc/t42/s208], prior to repeal by [act Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 5(a), [62 Stat. 40][/us/stat/62/40].
 
  __Amendments__ 
 
@@ -97,9 +97,9 @@
 
     1979—Subsec. (a)(1). [Pub. L. 96–76][/us/pl/96/76] inserted applicability to warrant officers and chief warrant officers.
 
-    1960—Subsec. (a)(3). [Pub. L. 86–415, § 2][/us/pl/86/415/s2], added par. (3).
+    1960—Subsec. (a)(3). [Pub. L. 86–415][/us/pl/86/415], § 2, added par. (3).
 
-    Subsec. (b). [Pub. L. 86–415, § 3][/us/pl/86/415/s3], designated first, second and third sentences as par. (1), fourth sentence as par. (3), and added par. (2).
+    Subsec. (b). [Pub. L. 86–415][/us/pl/86/415], § 3, designated first, second and third sentences as par. (1), fourth sentence as par. (3), and added par. (2).
 
     1956—Subsec. (a)(1). Act Apr. 27, 1956, § 3(a), inserted reference to subsection (e) of this section.
 
@@ -131,7 +131,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–415, § 8(a)][/us/pl/86/415/s8/a], Apr. 8, 1960, [74 Stat. 36][/us/stat/74/36], provided that: 
+[Pub. L. 86–415][/us/pl/86/415], § 8(a), Apr. 8, 1960, [74 Stat. 36][/us/stat/74/36], provided that: 
 
 > “The amendments made by sections 2 and 5(b) \[amending this section and [section 210 of this title][/us/usc/t42/s210]\] shall become effective July 1, 1960.”
 
@@ -151,7 +151,7 @@
 
  __Personal Services Contracting__ 
 
-[Pub. L. 109–149, title II, § 216][/us/pl/109/149/s216], Dec. 30, 2005, [119 Stat. 2861][/us/stat/119/2861], provided that: 
+[Pub. L. 109–149, title II][/us/pl/109/149/tII], § 216, Dec. 30, 2005, [119 Stat. 2861][/us/stat/119/2861], provided that: 
 
 > “The Division of Federal Occupational Health hereafter may utilize personal services contracting to employ professional management/administrative and occupational health professionals.”
 
@@ -159,43 +159,35 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–447, div. F, title II, § 216][/us/pl/108/447/s216], Dec. 8, 2004, [118 Stat. 3141][/us/stat/118/3141].
+    [Pub. L. 108–447, div. F, title II][/us/pl/108/447/dF/tII], § 216, Dec. 8, 2004, [118 Stat. 3141][/us/stat/118/3141].
 
-    [Pub. L. 108–199, div. E, title II, § 216][/us/pl/108/199/s216], Jan. 23, 2004, [118 Stat. 255][/us/stat/118/255].
+    [Pub. L. 108–199, div. E, title II][/us/pl/108/199/dE/tII], § 216, Jan. 23, 2004, [118 Stat. 255][/us/stat/118/255].
 
-    [Pub. L. 108–7, div. G, title II, § 216][/us/pl/108/7/s216], Feb. 20, 2003, [117 Stat. 325][/us/stat/117/325].
+    [Pub. L. 108–7, div. G, title II][/us/pl/108/7/dG/tII], § 216, Feb. 20, 2003, [117 Stat. 325][/us/stat/117/325].
 
-    [Pub. L. 107–116, title II, § 216][/us/pl/107/116/s216], Jan. 10, 2002, [115 Stat. 2201][/us/stat/115/2201].
+    [Pub. L. 107–116, title II][/us/pl/107/116/tII], § 216, Jan. 10, 2002, [115 Stat. 2201][/us/stat/115/2201].
 
-    [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–13.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–13.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–225.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–225.
 
-    [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–347.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title II\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–347.
 
-    [Pub. L. 105–78, title II][/us/pl/105/78], Nov. 13, 1997, [111 Stat. 1477][/us/stat/111/1477].
+    [Pub. L. 105–78, title II][/us/pl/105/78/tII], Nov. 13, 1997, [111 Stat. 1477][/us/stat/111/1477].
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title II\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–242.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title II\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–242.
 
-    [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title II\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–221; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title II\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–221; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
  __Term of Reserve Commissions in Effect on April 27, 1956__ 
 
-[Act Apr. 27, 1956, ch. 211, § 3(c)(2)][/us/act/1956-04-27/ch211/s3/c/2], [70 Stat. 117][/us/stat/70/117], provided that: 
+[Act Apr. 27, 1956, ch. 211][/us/act/1956-04-27/ch211], § 3(c)(2), [70 Stat. 117][/us/stat/70/117], provided that: 
 
 > “The enactment of paragraph (1) of this subsection \[amending this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
 
-§§ 209a, 209b. __Omitted__ 
-
- __Codification__ 
-
-    Section 209a, [act Dec. 22, 1944, ch. 660][/us/act/1944-12-22/ch660], title I, [58 Stat. 856][/us/stat/58/856], which related to number of regular commissioned nurses to be appointed, their grades, and their length of service for purposes of pay and pay periods, was not repeated in subsequent appropriation acts.
-
-    Section 209b, [act Dec. 22, 1944, ch. 660][/us/act/1944-12-22/ch660], title I, [58 Stat. 857][/us/stat/58/857], which authorized appointment of fifty additional regular commissioned officers of which twenty-four were to be in grades above that of senior assistant, was not repeated in subsequent appropriation acts.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209a _us_usc_t42_s209b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
 
 ----------
 ----------
@@ -204,26 +196,26 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs205
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F685
-[/us/act/1946-07-03/ch538/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538%2Fs4
+[/us/act/1946-07-03/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538
 [/us/stat/60/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F421
-[/us/act/1946-08-13/ch958/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs3
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
-[/us/act/1948-02-28/ch83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs5%2Fa
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F40
 [/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
 [/us/stat/63/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F834
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/act/1956-04-27/ch211/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211%2Fs3%2Fa
+[/us/act/1956-04-27/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211
 [/us/stat/70/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F116
 [/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/stat/74/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F32
-[/us/pl/96/76/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs305
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F585
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/35/s2765/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2765%2Fc
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F933
-[/us/pl/97/414/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fa
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2060
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
@@ -231,18 +223,18 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/usc/t5/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5103
 [/us/usc/t42/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs208
-[/us/act/1948-02-28/ch83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs5%2Fa
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F40
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs205
 [/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
-[/us/pl/86/415/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs2
-[/us/pl/86/415/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs3
+[/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
+[/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
 [/us/pl/96/76/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs314
 [/us/usc/t42/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs206
-[/us/pl/86/415/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415%2Fs8%2Fa
+[/us/pl/86/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F415
 [/us/stat/74/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F36
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
 [/us/usc/t33/s854a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs854a
@@ -254,35 +246,31 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
-[/us/pl/109/149/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2Fs216
+[/us/pl/109/149/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2FtII
 [/us/stat/119/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2861
-[/us/pl/108/447/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs216
+[/us/pl/108/447/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdF%2FtII
 [/us/stat/118/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3141
-[/us/pl/108/199/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs216
+[/us/pl/108/199/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdE%2FtII
 [/us/stat/118/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F255
-[/us/pl/108/7/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs216
+[/us/pl/108/7/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdG%2FtII
 [/us/stat/117/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F325
-[/us/pl/107/116/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs216
+[/us/pl/107/116/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtII
 [/us/stat/115/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2201
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
+[/us/pl/105/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtII
 [/us/stat/111/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1477
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/act/1956-04-27/ch211/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211%2Fs3%2Fc%2F2
+[/us/act/1956-04-27/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211
 [/us/stat/70/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F117
-[/us/act/1944-12-22/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch660
-[/us/stat/58/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F856
-[/us/act/1944-12-22/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch660
-[/us/stat/58/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F857
 
 

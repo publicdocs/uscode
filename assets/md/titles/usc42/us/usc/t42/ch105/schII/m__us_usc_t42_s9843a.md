@@ -271,13 +271,13 @@
 
             (C) a criminal record check as otherwise required by Federal law.
 
-([Pub. L. 97–35, title VI, § 648A][/us/pl/97/35/s648A], as added [Pub. L. 103–252, title I, § 115][/us/pl/103/252/s115], May 18, 1994, [108 Stat. 643][/us/stat/108/643]; amended [Pub. L. 105–285, title I, § 115][/us/pl/105/285/s115], Oct. 27, 1998, [112 Stat. 2722][/us/stat/112/2722]; [Pub. L. 110–134, § 19][/us/pl/110/134/s19], Dec. 12, 2007, [121 Stat. 1430][/us/stat/121/1430].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 648A, as added [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 115, May 18, 1994, [108 Stat. 643][/us/stat/108/643]; amended [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 115, Oct. 27, 1998, [112 Stat. 2722][/us/stat/112/2722]; [Pub. L. 110–134][/us/pl/110/134], § 19, Dec. 12, 2007, [121 Stat. 1430][/us/stat/121/1430].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–134, § 19(1)][/us/pl/110/134/s19/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to qualification and development requirements for Head Start teachers in center-based programs and gave Secretary limited authority to waive alternative credentialing requirements.
+    2007—Subsec. (a). [Pub. L. 110–134][/us/pl/110/134], § 19(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to qualification and development requirements for Head Start teachers in center-based programs and gave Secretary limited authority to waive alternative credentialing requirements.
 
-    Subsec. (c). [Pub. L. 110–134, § 19(2)][/us/pl/110/134/s19/2], amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: “In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
+    Subsec. (c). [Pub. L. 110–134][/us/pl/110/134], § 19(2), amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: “In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
 
     “(1) review and, as necessary, revise or develop new qualification standards for Head Start staff providing such services;
 
@@ -285,15 +285,15 @@
 
     “(3) promote the establishment of a credential that indicates attainment of the competencies and that is accepted nationwide.”
 
-    Subsec. (d)(3)(C). [Pub. L. 110–134, § 19(3)(A)][/us/pl/110/134/s19/3/A], inserted “(including a center)” after “agency”.
+    Subsec. (d)(3)(C). [Pub. L. 110–134][/us/pl/110/134], § 19(3)(A), inserted “(including a center)” after “agency”.
 
-    Subsec. (d)(6). [Pub. L. 110–134, § 19(3)(B)][/us/pl/110/134/s19/3/B], substituted “amounts made available under [section 9835(a)(2)(E) of this title][/us/usc/t42/s9835/a/2/E]” for “amounts appropriated under this subchapter and allotted under [section 9835(a)(2)(D) of this title][/us/usc/t42/s9835/a/2/D]”.
+    Subsec. (d)(6). [Pub. L. 110–134][/us/pl/110/134], § 19(3)(B), substituted “amounts made available under [section 9835(a)(2)(E) of this title][/us/usc/t42/s9835/a/2/E]” for “amounts appropriated under this subchapter and allotted under [section 9835(a)(2)(D) of this title][/us/usc/t42/s9835/a/2/D]”.
 
-    Subsecs. (f), (g). [Pub. L. 110–134, § 19(4)][/us/pl/110/134/s19/4], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 110–134][/us/pl/110/134], § 19(4), added subsecs. (f) and (g).
 
-    1998—Subsec. (a). [Pub. L. 105–285, § 115(1)][/us/pl/105/285/s115/1], amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
+    1998—Subsec. (a). [Pub. L. 105–285][/us/pl/105/285], § 115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
 
-    Subsec. (b)(2)(B). [Pub. L. 105–285, § 115(2)][/us/pl/105/285/s115/2], substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
+    Subsec. (b)(2)(B). [Pub. L. 105–285][/us/pl/105/285], § 115(2), substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
 
  __Change of Name__ 
 
@@ -311,22 +311,22 @@
 ----------
 
 [/us/usc/t42/s9835/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FE
-[/us/pl/97/35/s648A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs648A
-[/us/pl/103/252/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs115
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F643
-[/us/pl/105/285/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs115
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2722
-[/us/pl/110/134/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs19
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1430
-[/us/pl/110/134/s19/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs19%2F1
-[/us/pl/110/134/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs19%2F2
-[/us/pl/110/134/s19/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs19%2F3%2FA
-[/us/pl/110/134/s19/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs19%2F3%2FB
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t42/s9835/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FE
 [/us/usc/t42/s9835/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FD
-[/us/pl/110/134/s19/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs19%2F4
-[/us/pl/105/285/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs115%2F1
-[/us/pl/105/285/s115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs115%2F2
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
 [/us/usc/t42/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9832

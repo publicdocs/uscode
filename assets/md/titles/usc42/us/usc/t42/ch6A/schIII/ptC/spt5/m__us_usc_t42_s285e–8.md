@@ -47,7 +47,7 @@
 
         (3) such other information as the Director may prescribe.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445F, formerly [Pub. L. 99–660, title IX, § 952][/us/pl/99/660/s952], Nov. 14, 1986, [100 Stat. 3813][/us/stat/100/3813]; renumbered § 445F of act July 1, 1944, and amended [Pub. L. 100–607, title I, § 142(a)][/us/pl/100/607/s142/a], (d)(5), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], 3058.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445F, formerly [Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 952, Nov. 14, 1986, [100 Stat. 3813][/us/stat/100/3813]; renumbered § 445F of act July 1, 1944, and amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 142(a), (d)(5), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], 3058.)
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–607, § 142(a)][/us/pl/100/607/s142/a], renumbered [section 11282 of this title][/us/usc/t42/s11282] as this section.
+    1988—[Pub. L. 100–607][/us/pl/100/607], § 142(a), renumbered [section 11282 of this title][/us/usc/t42/s11282] as this section.
 
-    Subsecs. (a), (d). [Pub. L. 100–607, § 142(d)(5)][/us/pl/100/607/s142/d/5], substituted “the Institute” for “the National Institute on Aging”.
+    Subsecs. (a), (d). [Pub. L. 100–607][/us/pl/100/607], § 142(d)(5), substituted “the Institute” for “the National Institute on Aging”.
 
 ----------
 
@@ -67,14 +67,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs952
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3813
-[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
 [/us/usc/t42/s11282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11282
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s11282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11282
-[/us/pl/100/607/s142/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F5
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 
 

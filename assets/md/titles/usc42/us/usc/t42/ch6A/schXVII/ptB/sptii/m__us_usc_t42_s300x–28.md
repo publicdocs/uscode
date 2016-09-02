@@ -41,11 +41,11 @@
 
             Any waiver provided by the Secretary under paragraph (1) shall be applicable only to the fiscal year involved.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1928, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 396][/us/stat/106/396]; amended [Pub. L. 106–310, div. B, title XXXIII, § 3303(f)(2)(B)][/us/pl/106/310/s3303/f/2/B], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1928, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 396][/us/stat/106/396]; amended [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(f)(2)(B), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211].)
 
  __Repeal of Subsection (d)__ 
 
-    [Pub. L. 106–310, div. B, title XXXIII, § 3303(f)(2)][/us/pl/106/310/s3303/f/2], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that, effective upon publication of regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1], subsection (d) of this section is repealed.
+    [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(f)(2), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that, effective upon publication of regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1], subsection (d) of this section is repealed.
 
  __Prior Provisions__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-    [Pub. L. 106–310, div. B, title XXXIII, § 3303(f)(2)][/us/pl/106/310/s3303/f/2], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that the amendment made by section 3303(f)(2) is effective upon the publication of the regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1].
+    [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(f)(2), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that the amendment made by section 3303(f)(2) is effective upon the publication of the regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1].
 
 ----------
 
@@ -66,16 +66,16 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F396
-[/us/pl/106/310/s3303/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Ff%2F2%2FB
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1211
-[/us/pl/106/310/s3303/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Ff%2F2
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1211
 [/us/usc/t42/s300x–32/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9332%2Fe%2F1
 [/us/usc/t42/s300y–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%937
 [/us/pl/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280
-[/us/pl/106/310/s3303/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Ff%2F2
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1211
 [/us/usc/t42/s300x–32/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9332%2Fe%2F1
 

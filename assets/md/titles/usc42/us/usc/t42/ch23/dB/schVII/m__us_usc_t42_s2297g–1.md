@@ -55,7 +55,7 @@
 
         Any special assessment levied under this section on domestic utilities for the decontamination and decommissioning of the Department’s gaseous diffusion enrichment facilities shall be deemed a necessary and reasonable current cost of fuel and shall be fully recoverable in rates in all jurisdictions in the same manner as the utility’s other fuel cost.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1802, as added [Pub. L. 102–486, title XI, § 1101][/us/pl/102/486/s1101], Oct. 24, 1992, [106 Stat. 2953][/us/stat/106/2953]; amended [Pub. L. 105–388, § 11(c)][/us/pl/105/388/s11/c], Nov. 13, 1998, [112 Stat. 3485][/us/stat/112/3485]; [Pub. L. 107–222, § 1(c)][/us/pl/107/222/s1/c], Aug. 21, 2002, [116 Stat. 1336][/us/stat/116/1336].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1802, as added [Pub. L. 102–486, title XI][/us/pl/102/486/tXI], § 1101, Oct. 24, 1992, [106 Stat. 2953][/us/stat/106/2953]; amended [Pub. L. 105–388][/us/pl/105/388], § 11(c), Nov. 13, 1998, [112 Stat. 3485][/us/stat/112/3485]; [Pub. L. 107–222][/us/pl/107/222], § 1(c), Aug. 21, 2002, [116 Stat. 1336][/us/stat/116/1336].)
 
  __Amendments__ 
 
@@ -71,11 +71,11 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/102/486/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1101
+[/us/pl/102/486/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXI
 [/us/stat/106/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2953
-[/us/pl/105/388/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs11%2Fc
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3485
-[/us/pl/107/222/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222%2Fs1%2Fc
+[/us/pl/107/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222
 [/us/stat/116/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1336
 [/us/pl/107/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388

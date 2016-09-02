@@ -81,7 +81,7 @@
 
             The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
-([Pub. L. 101–625, title IV, § 445][/us/pl/101/625/s445], Nov. 28, 1990, [104 Stat. 4177][/us/stat/104/4177].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 445, Nov. 28, 1990, [104 Stat. 4177][/us/stat/104/4177].)
 
 ----------
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs445
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4177
 
 

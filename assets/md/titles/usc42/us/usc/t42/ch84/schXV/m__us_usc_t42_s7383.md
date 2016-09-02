@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_ch84_schXV.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383)
+[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_ch84_schXV.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383a...7383d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383)
 
 ## § 7383. Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities
 
@@ -133,13 +133,13 @@
 
         (2) Amounts made available to the Commission under this subsection shall remain available until expended.
 
-([Pub. L. 106–65, div. C, title XXXI, § 3142][/us/pl/106/65/s3142], Oct. 5, 1999, [113 Stat. 931][/us/stat/113/931].)
+([Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3142, Oct. 5, 1999, [113 Stat. 931][/us/stat/113/931].)
 
  __References in Text__ 
 
     The Federal Advisory Committee Act, referred to in subsec. (f), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-    Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 of [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65], Oct. 5, 1999, [113 Stat. 915][/us/stat/113/915], 919, which are not classified to the Code.
+    Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 of [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], Oct. 5, 1999, [113 Stat. 915][/us/stat/113/915], 919, which are not classified to the Code.
 
  __Codification__ 
 
@@ -151,35 +151,23 @@
 
  __Short Title__ 
 
-[Pub. L. 106–65, div. C, title XXXI, § 3141][/us/pl/106/65/s3141], Oct. 5, 1999, [113 Stat. 931][/us/stat/113/931], provided that: 
+[Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3141, Oct. 5, 1999, [113 Stat. 931][/us/stat/113/931], provided that: 
 
 > “This subtitle \[subtitle D, §§ 3141–3156, of title XXXI of div. C of [Pub. L. 106–65][/us/pl/106/65], enacting this subchapter and [section 2282b of this title][/us/usc/t42/s2282b], amending sections 2165, 2274, 2275, 2277, and 2282a of this title, enacting provisions set out as notes under sections 2165 and 2282b of this title and [section 435 of Title 50][/us/usc/t50/s435], War and National Defense, amending provisions set out as a note under [section 7274m of this title][/us/usc/t42/s7274m], and repealing provisions set out as a note under [section 7251 of this title][/us/usc/t42/s7251]\] may be cited as the ‘Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999’.”
 
-§§ 7383a to 7383d. __Transferred__ 
-
- __Codification__ 
-
-    Section 7383a, [Pub. L. 106–65, div. C, title XXXI, § 3143][/us/pl/106/65/s3143], Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934], which related to background investigations of certain personnel at Department of Energy facilities, was renumbered [section 4503 of Pub. L. 107–314][/us/pl/107/314/s4503], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(4)(A)][/us/pl/108/136/s3141/h/4/A]–(C), Nov. 24, 2003, [117 Stat. 1772][/us/stat/117/1772], and is classified to [section 2653 of Title 50][/us/usc/t50/s2653], War and National Defense.
-
-    Section 7383b, [Pub. L. 106–65, div. C, title XXXI, § 3145][/us/pl/106/65/s3145], Oct. 5, 1999, [113 Stat. 935][/us/stat/113/935], which related to protection of classified information during laboratory-to-laboratory exchanges, was renumbered [section 4524 of Pub. L. 107–314][/us/pl/107/314/s4524], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(14)][/us/pl/108/136/s3141/h/14], Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775], and is classified to [section 2674 of Title 50][/us/usc/t50/s2674], War and National Defense.
-
-    Section 7383c, [Pub. L. 106–65, div. C, title XXXI, § 3146][/us/pl/106/65/s3146], Oct. 5, 1999, [113 Stat. 935][/us/stat/113/935], which related to restrictions on access to national laboratories by foreign visitors from sensitive countries, was renumbered [section 4502 of Pub. L. 107–314][/us/pl/107/314/s4502], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(3)(A)][/us/pl/108/136/s3141/h/3/A]–(C), Nov. 24, 2003, [117 Stat. 1771][/us/stat/117/1771], and is classified to [section 2652 of Title 50][/us/usc/t50/s2652], War and National Defense.
-
-    Section 7383d, [Pub. L. 106–65, div. C, title XXXI, § 3150][/us/pl/106/65/s3150], Oct. 5, 1999, [113 Stat. 939][/us/stat/113/939], which related to notice to congressional committees of certain security and counterintelligence failures within nuclear energy defense programs, was renumbered [section 4505 of Pub. L. 107–314][/us/pl/107/314/s4505], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(6)][/us/pl/108/136/s3141/h/6], Nov. 24, 2003, [117 Stat. 1773][/us/stat/117/1773], and is classified to [section 2656 of Title 50][/us/usc/t50/s2656], War and National Defense.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_ch84_schXV.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383)
+[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_ch84_schXV.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383a...7383d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383)
 
 ----------
 ----------
 
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/106/65/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3142
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F931
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F915
 [/us/pl/106/65/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3142
 [/us/pl/106/65/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3142
@@ -189,36 +177,12 @@
 [/us/usc/t50/s2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2657
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/106/65/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3141
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F931
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t42/s2282b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282b
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t42/s7274m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274m
 [/us/usc/t42/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7251
-[/us/pl/106/65/s3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3143
-[/us/stat/113/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F934
-[/us/pl/107/314/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4503
-[/us/pl/108/136/s3141/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F4%2FA
-[/us/stat/117/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1772
-[/us/usc/t50/s2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2653
-[/us/pl/106/65/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3145
-[/us/stat/113/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F935
-[/us/pl/107/314/s4524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4524
-[/us/pl/108/136/s3141/h/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F14
-[/us/stat/117/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1775
-[/us/usc/t50/s2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2674
-[/us/pl/106/65/s3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3146
-[/us/stat/113/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F935
-[/us/pl/107/314/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4502
-[/us/pl/108/136/s3141/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F3%2FA
-[/us/stat/117/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1771
-[/us/usc/t50/s2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2652
-[/us/pl/106/65/s3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3150
-[/us/stat/113/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F939
-[/us/pl/107/314/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4505
-[/us/pl/108/136/s3141/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F6
-[/us/stat/117/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1773
-[/us/usc/t50/s2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2656
 
 

@@ -65,13 +65,13 @@
 
         The Administrator is authorized to accept, hold, administer, and utilize gifts, and bequests of property, both real and personal, for the purpose of aiding or facilitating the work of the Administration. Gifts and bequests of money and proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Administrator. For the purposes of Federal income, estate, and gift taxes, property accepted under this section shall be considered as a gift or bequest to the United States.
 
-([Pub. L. 93–438, title I, § 107][/us/pl/93/438/s107], Oct. 11, 1974, [88 Stat. 1240][/us/stat/88/1240].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 107, Oct. 11, 1974, [88 Stat. 1240][/us/stat/88/1240].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [Pub. L. 93–438][/us/pl/93/438], Oct. 11, 1974, [88 Stat. 1233][/us/stat/88/1233], known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title][/us/usc/t42/s5801] and Tables.
 
-    The Atomic Energy Act of 1954, referred to in subsecs. (a) and (e), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, are classified generally to subchapters III (§ 2051 et seq.) and XI (§ 2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsecs. (a) and (e), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, are classified generally to subchapters III (§ 2051 et seq.) and XI (§ 2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The effective date of this chapter, referred to in subsec. (a), refers to the effective date of [Pub. L. 93–438][/us/pl/93/438]. See [section 312 of Pub. L. 93–438][/us/pl/93/438/s312], set out as an Effective Date; Interim Appointments note under [section 5801 of this title][/us/usc/t42/s5801].
 
@@ -79,7 +79,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “chapter 33 of title 40” substituted for “the Public Buildings Act of 1959, as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b), “chapter 33 of title 40” substituted for “the Public Buildings Act of 1959, as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Transfer of Functions__ 
 
@@ -87,7 +87,7 @@
 
  __Air Transportation of Plutonium; Exempt Shipment of Plutonium__ 
 
-[Pub. L. 94–187, title V][/us/pl/94/187], Dec. 31, 1975, [89 Stat. 1077][/us/stat/89/1077], provided that:
+[Pub. L. 94–187, title V][/us/pl/94/187/tV], Dec. 31, 1975, [89 Stat. 1077][/us/stat/89/1077], provided that:
 
 > “Sec. 501. The Energy Research and Development Administration shall not ship plutonium in any form by aircraft whether exports, imports, or domestic shipment: Provided, That any exempt shipments of plutonium, as defined by section 502, are not subject to this restriction. This restriction shall be in force until the Energy Research and Development Administration has certified to the Joint Committee on Atomic Energy of the Congress that a safe container has been developed and tested which will not rupture under crash and blast testing equivalent to the crash and explosion of a high-flying aircraft.
 
@@ -111,22 +111,22 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2051–205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2051%E2%80%93205
 [/us/usc/t42/s2161–216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2161%E2%80%93216
-[/us/pl/93/438/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs107
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1240
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/pl/93/438/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs312
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/stat/64/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1270
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/94/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187
+[/us/pl/94/187/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187%2FtV
 [/us/stat/89/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1077
 
 

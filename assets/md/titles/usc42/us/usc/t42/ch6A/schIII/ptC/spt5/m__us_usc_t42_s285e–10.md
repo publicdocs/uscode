@@ -17,7 +17,7 @@
 
     The Director of the Institute, in addition to other special functions specified in [section 285e–1 of this title][/us/usc/t42/s285e–1] and in cooperation with the Directors of the other national research institutes and agencies of the National Institutes of Health, shall conduct research into the aging processes of women, with particular emphasis given to the effects of menopause and the physiological and behavioral changes occurring during the transition from pre- to post-menopause, and into the diagnosis, disorders, and complications related to aging and loss of ovarian hormones in women.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445H, as added [Pub. L. 103–43, title VIII, § 802][/us/pl/103/43/s802], June 10, 1993, [107 Stat. 163][/us/stat/107/163]; amended [Pub. L. 105–340, title I, § 105][/us/pl/105/340/s105], Oct. 31, 1998, [112 Stat. 3193][/us/stat/112/3193]; [Pub. L. 109–482, title I, § 103(b)(24)][/us/pl/109/482/s103/b/24], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445H, as added [Pub. L. 103–43, title VIII][/us/pl/103/43/tVIII], § 802, June 10, 1993, [107 Stat. 163][/us/stat/107/163]; amended [Pub. L. 105–340, title I][/us/pl/105/340/tI], § 105, Oct. 31, 1998, [112 Stat. 3193][/us/stat/112/3193]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(24), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 
 [/us/usc/t42/s285e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs802
+[/us/pl/103/43/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVIII
 [/us/stat/107/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F163
-[/us/pl/105/340/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs105
+[/us/pl/105/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2FtI
 [/us/stat/112/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3193
-[/us/pl/109/482/s103/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F24
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/105/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340

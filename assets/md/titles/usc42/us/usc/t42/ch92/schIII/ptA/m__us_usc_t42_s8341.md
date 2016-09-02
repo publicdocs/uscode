@@ -43,11 +43,11 @@
 
         The owner or operator of any such powerplant may at any time amend any certification under subsection (a) or (c) of this section in order to take into account changes in relevant facts and circumstances; except that no such amendment to such a certification may be made after the date of any final prohibition under subsection (b) or (c) of this section based on that certification.
 
-([Pub. L. 95–620, title III, § 301][/us/pl/95/620/s301], as added [Pub. L. 97–35, title X, § 1021(a)][/us/pl/97/35/s1021/a], Aug. 13, 1981, [95 Stat. 614][/us/stat/95/614].)
+([Pub. L. 95–620, title III][/us/pl/95/620/tIII], § 301, as added [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1021(a), Aug. 13, 1981, [95 Stat. 614][/us/stat/95/614].)
 
  __Prior Provisions__ 
 
-    A prior section 8341, [Pub. L. 95–620, title III, § 301][/us/pl/95/620/s301], Nov. 9, 1978, [92 Stat. 3305][/us/stat/92/3305], related to existing electric powerplants, prior to repeal by [Pub. L. 97–35, title X, § 1021(a)][/us/pl/97/35/s1021/a], Aug. 13, 1981, [95 Stat. 614][/us/stat/95/614].
+    A prior section 8341, [Pub. L. 95–620, title III][/us/pl/95/620/tIII], § 301, Nov. 9, 1978, [92 Stat. 3305][/us/stat/92/3305], related to existing electric powerplants, prior to repeal by [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1021(a), Aug. 13, 1981, [95 Stat. 614][/us/stat/95/614].
 
  __Effective Date__ 
 
@@ -55,7 +55,7 @@
 
  __Validity of Orders Under Former Provisions of This Section__ 
 
-[Pub. L. 97–35, title X, § 1022][/us/pl/97/35/s1022], Aug. 13, 1981, [95 Stat. 616][/us/stat/95/616], provided that:
+[Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1022, Aug. 13, 1981, [95 Stat. 616][/us/stat/95/616], provided that:
 
 >     “(a) The amendments made by section 1021 to section 301(b) and (c) of the Powerplant and Industrial Fuel Use Act of 1978 \[subsecs. (b) and (c) of this section\] shall not apply to any electric powerplant for which a final order was issued pursuant to section 301(b) or (c) of such Act before the date of the enactment of this Act \[Aug. 13, 1981\].
 
@@ -77,16 +77,16 @@
 ----------
 
 [/us/usc/t42/s8343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8343%2Fa
-[/us/pl/95/620/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs301
-[/us/pl/97/35/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1021%2Fa
+[/us/pl/95/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtIII
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F614
-[/us/pl/95/620/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs301
+[/us/pl/95/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtIII
 [/us/stat/92/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3305
-[/us/pl/97/35/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1021%2Fa
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F614
 [/us/pl/97/35/s1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1038
 [/us/usc/t42/s6240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6240
-[/us/pl/97/35/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1022
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F616
 
 

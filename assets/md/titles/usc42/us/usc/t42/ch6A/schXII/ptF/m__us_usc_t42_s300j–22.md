@@ -17,7 +17,7 @@
 
     For purposes of the Consumer Product Safety Act \[[15 U.S.C. 2051][/us/usc/t15/s2051] et seq.\], all drinking water coolers identified by the Administrator on the list under [section 300j–23 of this title][/us/usc/t42/s300j–23] as having a lead-lined tank shall be considered to be imminently hazardous consumer products within the meaning of section 12 of such Act ([15 U.S.C. 2061][/us/usc/t15/s2061]). After notice and opportunity for comment, including a public hearing, the Consumer Product Safety Commission shall issue an order requiring the manufacturers and importers of such coolers to repair, replace, or recall and provide a refund for such coolers within 1 year after October 31, 1988. For purposes of enforcement, such order shall be treated as an order under section 15(d) of that Act ([15 U.S.C. 2064(d)][/us/usc/t15/s2064/d]).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1462, as added [Pub. L. 100–572, § 2(a)][/us/pl/100/572/s2/a], Oct. 31, 1988, [102 Stat. 2885][/us/stat/102/2885]; amended [Pub. L. 104–182, title V, § 501(f)(8)][/us/pl/104/182/s501/f/8], Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1462, as added [Pub. L. 100–572][/us/pl/100/572], § 2(a), Oct. 31, 1988, [102 Stat. 2885][/us/stat/102/2885]; amended [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(f)(8), Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 [/us/usc/t15/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2061
 [/us/usc/t15/s2064/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064%2Fd
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/572/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs2%2Fa
+[/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
 [/us/stat/102/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2885
-[/us/pl/104/182/s501/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F8
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1692
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207

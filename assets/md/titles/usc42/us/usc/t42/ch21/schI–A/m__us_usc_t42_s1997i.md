@@ -17,7 +17,7 @@
 
     Provisions of this subchapter shall not authorize promulgation of regulations defining standards of care.
 
-([Pub. L. 96–247, § 11][/us/pl/96/247/s11], May 23, 1980, [94 Stat. 354][/us/stat/94/354].)
+([Pub. L. 96–247][/us/pl/96/247], § 11, May 23, 1980, [94 Stat. 354][/us/stat/94/354].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/247/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs11
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F354
 
 

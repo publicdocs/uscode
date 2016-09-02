@@ -53,7 +53,7 @@
 
         There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 1997 through 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1429, as added [Pub. L. 104–182, title I, § 131][/us/pl/104/182/s131], Aug. 6, 1996, [110 Stat. 1672][/us/stat/110/1672].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1429, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 131, Aug. 6, 1996, [110 Stat. 1672][/us/stat/110/1672].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs131
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1672
 
 

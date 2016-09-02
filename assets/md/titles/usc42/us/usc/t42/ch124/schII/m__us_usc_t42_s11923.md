@@ -23,7 +23,7 @@
 
         The regional training program established under subsection (a) of this section shall be conducted within 12 months after November 18, 1988, by a national training unit established by the Secretary.
 
-([Pub. L. 100–690, title V, § 5144][/us/pl/100/690/s5144], Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303].)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5144, Nov. 18, 1988, [102 Stat. 4303][/us/stat/102/4303].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s5144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5144
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4303
 
 

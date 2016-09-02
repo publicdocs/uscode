@@ -37,7 +37,7 @@
 
         Notwithstanding any other provision of this chapter, from the trust funds established under sections 1395i and 1395t of this title, as appropriate, the Secretary shall pay to the appropriate State agency amounts recovered under this section to offset the State agency’s overpayment under subchapter XIX of this chapter. Such payments shall be accounted for by the State agency as recoveries of overpayments under the State plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1885, as added [Pub. L. 97–35, title XXI, § 2104][/us/pl/97/35/s2104], Aug. 13, 1981, [95 Stat. 788][/us/stat/95/788].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1885, as added [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2104, Aug. 13, 1981, [95 Stat. 788][/us/stat/95/788].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
 [/us/usc/t42/s1395u/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F3%2FB%2Fii
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2104
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F788
 
 

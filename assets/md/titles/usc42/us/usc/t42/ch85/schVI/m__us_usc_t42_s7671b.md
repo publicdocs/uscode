@@ -57,7 +57,7 @@
 
         If, in consultation with the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and after notice and opportunity for public comment, the Administrator determines that the global production, consumption, and use of class II substances are projected to contribute to an atmospheric chlorine loading in excess of the base case projections by more than 5⁄10ths parts per billion, the Administrator shall so inform the Congress immediately. The determination referred to in the preceding sentence shall be based on the monitoring under subsection (d) of this section and updated not less often than every 3 years.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 603, as added [Pub. L. 101–549, title VI, § 602(a)][/us/pl/101/549/s602/a], Nov. 15, 1990, [104 Stat. 2653][/us/stat/104/2653].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 603, as added [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 602(a), Nov. 15, 1990, [104 Stat. 2653][/us/stat/104/2653].)
 
  __Termination of Reporting Requirements__ 
 
@@ -65,7 +65,7 @@
 
  __Methane Studies__ 
 
-[Pub. L. 101–549, title VI, § 603][/us/pl/101/549/s603], Nov. 15, 1990, [104 Stat. 2670][/us/stat/104/2670], provided that:
+[Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 603, Nov. 15, 1990, [104 Stat. 2670][/us/stat/104/2670], provided that:
 
 >     “(a)  __Economically Justified Actions__  __.—__ 
 
@@ -126,11 +126,11 @@
 
 [/us/usc/t42/s7671d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7671d
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs602%2Fa
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2653
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/549/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs603
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2670
 [/us/usc/t42/s7414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7414
 

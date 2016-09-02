@@ -53,7 +53,7 @@
 
         The Chairman shall enter into such arrangements and take such other steps as may be necessary or appropriate to provide for the effective coordination of solar energy technology utilization with all other technology utilization programs within the Federal Government.
 
-([Pub. L. 93–473, § 8][/us/pl/93/473/s8], Oct. 26, 1974, [88 Stat. 1435][/us/stat/88/1435].)
+([Pub. L. 93–473][/us/pl/93/473], § 8, Oct. 26, 1974, [88 Stat. 1435][/us/stat/88/1435].)
 
  __Transfer of Functions__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t42/s5556/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5556%2Fc
 [/us/usc/t42/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5561
-[/us/pl/93/473/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs8
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1435
 [/us/usc/t42/s5814/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5814%2Ff
 

@@ -115,7 +115,7 @@
 
             (B) consistent with subparagraph (A), jointly develop the annual priorities of the system with the advisory council.
 
-([Pub. L. 99–319, title I, § 105][/us/pl/99/319/s105], May 23, 1986, [100 Stat. 480][/us/stat/100/480]; [Pub. L. 100–509][/us/pl/100/509], §§ 4–6(a), 7(c), Oct. 20, 1988, [102 Stat. 2543–2545][/us/stat/102/2543-2545]; [Pub. L. 102–173][/us/pl/102/173], §§ 6, 10, Nov. 27, 1991, [105 Stat. 1218][/us/stat/105/1218], 1219; [Pub. L. 105–12, § 9(m)][/us/pl/105/12/s9/m], Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 105, May 23, 1986, [100 Stat. 480][/us/stat/100/480]; [Pub. L. 100–509][/us/pl/100/509], §§ 4–6(a), 7(c), Oct. 20, 1988, [102 Stat. 2543–2545][/us/stat/102/2543-2545]; [Pub. L. 102–173][/us/pl/102/173], §§ 6, 10, Nov. 27, 1991, [105 Stat. 1218][/us/stat/105/1218], 1219; [Pub. L. 105–12][/us/pl/105/12], § 9(m), Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28].)
 
  __References in Text__ 
 
@@ -125,27 +125,27 @@
 
     1997—Subsec. (a)(10). [Pub. L. 105–12][/us/pl/105/12] added par. (10).
 
-    1991—Subsec. (a). [Pub. L. 102–173, § 10][/us/pl/102/173/s10], substituted “individual with mental illness” for “mentally ill individual” and “individuals with mental illness” for “mentally ill individuals” wherever appearing.
+    1991—Subsec. (a). [Pub. L. 102–173][/us/pl/102/173], § 10, substituted “individual with mental illness” for “mentally ill individual” and “individuals with mental illness” for “mentally ill individuals” wherever appearing.
 
-    Subsec. (a)(4). [Pub. L. 102–173, § 6(a)][/us/pl/102/173/s6/a], inserted “as a result of monitoring or other activities (either of which result from a complaint or other evidence)” before “there is” in subpar. (B)(iii) and added subpar. (C).
+    Subsec. (a)(4). [Pub. L. 102–173][/us/pl/102/173], § 6(a), inserted “as a result of monitoring or other activities (either of which result from a complaint or other evidence)” before “there is” in subpar. (B)(iii) and added subpar. (C).
 
-    Subsec. (a)(6). [Pub. L. 102–173, § 6(b)][/us/pl/102/173/s6/b], substituted “60 percent” for “one-half” in subpar. (B) and added subpar. (C).
+    Subsec. (a)(6). [Pub. L. 102–173][/us/pl/102/173], § 6(b), substituted “60 percent” for “one-half” in subpar. (B) and added subpar. (C).
 
-    Subsec. (a)(9). [Pub. L. 102–173, § 6(c)][/us/pl/102/173/s6/c], inserted before period at end “and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter”.
+    Subsec. (a)(9). [Pub. L. 102–173][/us/pl/102/173], § 6(c), inserted before period at end “and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter”.
 
-    Subsec. (b). [Pub. L. 102–173, § 10(2)][/us/pl/102/173/s10/2], substituted “individuals with mental illness” for “mentally ill individuals”.
+    Subsec. (b). [Pub. L. 102–173][/us/pl/102/173], § 10(2), substituted “individuals with mental illness” for “mentally ill individuals”.
 
     Subsec. (c)(1). [Pub. L. 102–173][/us/pl/102/173], §§ 6(d), 10(2), substituted “individuals with mental illness” for “mentally ill individuals” in subpar. (A) and inserted at end of subpar. (B) “As used in this subparagraph, the term ‘members who broadly represent or are knowledgeable about the needs of the clients served by the system’ shall be construed to include individuals who have received or are receiving mental health services and family members of such individuals.”
 
-    1988—Subsec. (a)(4)(B). [Pub. L. 100–509, § 6(a)][/us/pl/100/509/s6/a], inserted “(including an individual who has died or whose whereabouts are unknown)” after “any individual”.
+    1988—Subsec. (a)(4)(B). [Pub. L. 100–509][/us/pl/100/509], § 6(a), inserted “(including an individual who has died or whose whereabouts are unknown)” after “any individual”.
 
-    Subsec. (a)(6). [Pub. L. 100–509, § 4(1)][/us/pl/100/509/s4/1], substituted “an advisory council” for “a board”.
+    Subsec. (a)(6). [Pub. L. 100–509][/us/pl/100/509], § 4(1), substituted “an advisory council” for “a board”.
 
-    Subsec. (a)(7). [Pub. L. 100–509, § 5][/us/pl/100/509/s5], substituted “, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;” for period at end.
+    Subsec. (a)(7). [Pub. L. 100–509][/us/pl/100/509], § 5, substituted “, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;” for period at end.
 
-    Subsec. (a)(8), (9). [Pub. L. 100–509, § 7(c)][/us/pl/100/509/s7/c], added pars. (8) and (9).
+    Subsec. (a)(8), (9). [Pub. L. 100–509][/us/pl/100/509], § 7(c), added pars. (8) and (9).
 
-    Subsec. (c). [Pub. L. 100–509, § 4(2)][/us/pl/100/509/s4/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–509][/us/pl/100/509], § 4(2), added subsec. (c).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -165,29 +165,29 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s10803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10803
-[/us/pl/99/319/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs105
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F480
 [/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2543-2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2543-2545
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1218
-[/us/pl/105/12/s9/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9%2Fm
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F28
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
-[/us/pl/102/173/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10
-[/us/pl/102/173/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs6%2Fa
-[/us/pl/102/173/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs6%2Fb
-[/us/pl/102/173/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs6%2Fc
-[/us/pl/102/173/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F2
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
-[/us/pl/100/509/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs6%2Fa
-[/us/pl/100/509/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs4%2F1
-[/us/pl/100/509/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs5
-[/us/pl/100/509/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fc
-[/us/pl/100/509/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs4%2F2
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/pl/105/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs11
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401

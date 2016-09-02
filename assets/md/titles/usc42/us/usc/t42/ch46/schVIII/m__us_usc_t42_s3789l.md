@@ -17,7 +17,7 @@
 
     Where a State does not have an adequate forum to enforce grant provisions imposing liability on Indian tribes, the Assistant Attorney General is authorized to waive State liability and may pursue such legal remedies as are necessary.
 
-([Pub. L. 90–351, title I, § 816][/us/pl/90/351/s816], formerly § 823, as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1214][/us/stat/93/1214]; renumbered § 816 and amended [Pub. L. 98–473, title II, § 609B(f)][/us/pl/98/473/s609B/f], (n), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093], 2096.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 816, formerly § 823, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1214][/us/stat/93/1214]; renumbered § 816 and amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609B(f), (n), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093], 2096.)
 
  __Prior Provisions__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–473, § 609B(n)][/us/pl/98/473/s609B/n], substituted “Assistant Attorney General” for “Administration”.
+    1984—[Pub. L. 98–473][/us/pl/98/473], § 609B(n), substituted “Assistant Attorney General” for “Administration”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -38,14 +38,14 @@
 ----------
 ----------
 
-[/us/pl/90/351/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs816
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1214
-[/us/pl/98/473/s609B/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Ff
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2093
 [/us/pl/90/351/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs816
 [/us/usc/t42/s3789e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789e
-[/us/pl/98/473/s609B/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fn
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s609B/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fn
 [/us/pl/98/473/s609AA/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609AA%2Fa
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711

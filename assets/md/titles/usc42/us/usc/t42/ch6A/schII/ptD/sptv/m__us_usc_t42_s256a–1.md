@@ -133,7 +133,7 @@
 
         In this section, the term “primary care” means the provision of integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community.
 
-([Pub. L. 111–148, title III, § 3502][/us/pl/111/148/s3502], title X, § 10321, Mar. 23, 2010, [124 Stat. 513][/us/stat/124/513], 952.)
+([Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3502, title X, § 10321, Mar. 23, 2010, [124 Stat. 513][/us/stat/124/513], 952.)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(2)(A). [Pub. L. 111–148, § 10321][/us/pl/111/148/s10321], inserted “or other primary care providers” after “physicians”.
+    2010—Subsec. (c)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 10321, inserted “or other primary care providers” after “physicians”.
 
 ----------
 
@@ -158,9 +158,9 @@
 [/us/usc/t42/s1396w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396w%E2%80%934
 [/us/usc/t42/s300jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj
 [/us/usc/t42/s280j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280j%E2%80%932
-[/us/pl/111/148/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3502
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F513
 [/us/pl/111/148/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2703
-[/us/pl/111/148/s10321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10321
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

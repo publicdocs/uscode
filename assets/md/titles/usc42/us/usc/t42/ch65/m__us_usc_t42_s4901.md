@@ -27,17 +27,17 @@
 
     (b) The Congress declares that it is the policy of the United States to promote an environment for all Americans free from noise that jeopardizes their health or welfare. To that end, it is the purpose of this chapter to establish a means for effective coordination of Federal research and activities in noise control, to authorize the establishment of Federal noise emission standards for products distributed in commerce, and to provide information to the public respecting the noise emission and noise reduction characteristics of such products.
 
-([Pub. L. 92–574, § 2][/us/pl/92/574/s2], Oct. 27, 1972, [86 Stat. 1234][/us/stat/86/1234].)
+([Pub. L. 92–574][/us/pl/92/574], § 2, Oct. 27, 1972, [86 Stat. 1234][/us/stat/86/1234].)
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–609, § 1][/us/pl/95/609/s1], Nov. 8, 1978, [92 Stat. 3079][/us/stat/92/3079], provided: 
+[Pub. L. 95–609][/us/pl/95/609], § 1, Nov. 8, 1978, [92 Stat. 3079][/us/stat/92/3079], provided: 
 
 > “That this Act \[amending sections 4905, 4910, 4913, 4918, 6901, 6903, 6907, 6913, 6922, 6923, 6925, to 6928, 6947, 6961, 6962, 6964, 6972, 6973, 6977, and 6981 to 6984 of this title and section 1431 of former Title 49, Transportation, and enacting provision set out as a note under section 1431 of former Title 49\] may be cited as the ‘Quiet Communities Act of 1978’.”
 
  __Short Title__ 
 
-[Pub. L. 92–574, § 1][/us/pl/92/574/s1], Oct. 27, 1972, [86 Stat. 1234][/us/stat/86/1234], provided that: 
+[Pub. L. 92–574][/us/pl/92/574], § 1, Oct. 27, 1972, [86 Stat. 1234][/us/stat/86/1234], provided that: 
 
 > “This Act \[enacting this chapter, amending section 1431 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of former Title 49\] may be cited as the ‘Noise Control Act of 1972’.”
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/92/574/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs2
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1234
-[/us/pl/95/609/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs1
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3079
-[/us/pl/92/574/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs1
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1234
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

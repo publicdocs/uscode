@@ -61,25 +61,25 @@
 
         (2) Any other factor the Administrator considers appropriate.
 
-([Pub. L. 89–272, title II, § 9006][/us/pl/89/272/s9006], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3285][/us/stat/98/3285]; [Pub. L. 109–58, title XV][/us/pl/109/58], §§ 1524(c), 1526(d), 1527(b), 1530(d), Aug. 8, 2005, [119 Stat. 1096][/us/stat/119/1096], 1098, 1099, 1104.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9006, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3285][/us/stat/98/3285]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], §§ 1524(c), 1526(d), 1527(b), 1530(d), Aug. 8, 2005, [119 Stat. 1096][/us/stat/119/1096], 1098, 1099, 1104.)
 
  __Amendments__ 
 
-    2005—Subsec. (d)(2). [Pub. L. 109–58, § 1527(b)(2)][/us/pl/109/58/s1527/b/2], inserted at end “Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of [section 6991k of this title][/us/usc/t42/s6991k] shall also be subject to the same civil penalty for each day of such violation.”
+    2005—Subsec. (d)(2). [Pub. L. 109–58][/us/pl/109/58], § 1527(b)(2), inserted at end “Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of [section 6991k of this title][/us/usc/t42/s6991k] shall also be subject to the same civil penalty for each day of such violation.”
 
-    Subsec. (d)(2)(B). [Pub. L. 109–58, § 1530(d)(1)][/us/pl/109/58/s1530/d/1], which directed amendment of subpar. (B) by striking out “or” at end, could not be executed because “or” did not appear subsequent to amendment by [Pub. L. 109–58, § 1524(c)(1)][/us/pl/109/58/s1524/c/1]. See below.
+    Subsec. (d)(2)(B). [Pub. L. 109–58][/us/pl/109/58], § 1530(d)(1), which directed amendment of subpar. (B) by striking out “or” at end, could not be executed because “or” did not appear subsequent to amendment by [Pub. L. 109–58][/us/pl/109/58], § 1524(c)(1). See below.
 
-    [Pub. L. 109–58, § 1524(c)(1)][/us/pl/109/58/s1524/c/1], struck out “or” at end.
+    [Pub. L. 109–58][/us/pl/109/58], § 1524(c)(1), struck out “or” at end.
 
-    Subsec. (d)(2)(C). [Pub. L. 109–58, § 1530(d)(2)][/us/pl/109/58/s1530/d/2], inserted “; or” at end.
+    Subsec. (d)(2)(C). [Pub. L. 109–58][/us/pl/109/58], § 1530(d)(2), inserted “; or” at end.
 
-    Subsec. (d)(2)(D). [Pub. L. 109–58, § 1530(d)(3)][/us/pl/109/58/s1530/d/3], added subpar. (D) relating to requirements established in [section 6991b(i) of this title][/us/usc/t42/s6991b/i].
+    Subsec. (d)(2)(D). [Pub. L. 109–58][/us/pl/109/58], § 1530(d)(3), added subpar. (D) relating to requirements established in [section 6991b(i) of this title][/us/usc/t42/s6991b/i].
 
-    [Pub. L. 109–58, § 1524(c)(2)][/us/pl/109/58/s1524/c/2], added subpar. (D) relating to training requirements established by States pursuant to [section 6991i of this title][/us/usc/t42/s6991i].
+    [Pub. L. 109–58][/us/pl/109/58], § 1524(c)(2), added subpar. (D) relating to training requirements established by States pursuant to [section 6991i of this title][/us/usc/t42/s6991i].
 
-    Subsec. (d)(2)(E). [Pub. L. 109–58, § 1527(b)(1)][/us/pl/109/58/s1527/b/1], added subpar. (E).
+    Subsec. (d)(2)(E). [Pub. L. 109–58][/us/pl/109/58], § 1527(b)(1), added subpar. (E).
 
-    Subsec. (e). [Pub. L. 109–58, § 1526(d)][/us/pl/109/58/s1526/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 1526(d), added subsec. (e).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -102,23 +102,23 @@
 [/us/usc/t42/s6991k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991k
 [/us/usc/t42/s6991k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991k
 [/us/usc/t42/s6991c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991c
-[/us/pl/89/272/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9006
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3285
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1096
-[/us/pl/109/58/s1527/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1527%2Fb%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s6991k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991k
-[/us/pl/109/58/s1530/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fd%2F1
-[/us/pl/109/58/s1524/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1524%2Fc%2F1
-[/us/pl/109/58/s1524/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1524%2Fc%2F1
-[/us/pl/109/58/s1530/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fd%2F2
-[/us/pl/109/58/s1530/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fd%2F3
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s6991b/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fi
-[/us/pl/109/58/s1524/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1524%2Fc%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s6991i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991i
-[/us/pl/109/58/s1527/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1527%2Fb%2F1
-[/us/pl/109/58/s1526/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1526%2Fd
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s1530/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fd
 [/us/pl/109/58/s1530/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fb
 [/us/usc/t42/s6991b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b

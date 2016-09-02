@@ -261,7 +261,7 @@
 
         Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe the models tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1115A, as added and amended [Pub. L. 111–148, title III, § 3021(a)][/us/pl/111/148/s3021/a], title X, § 10306, Mar. 23, 2010, [124 Stat. 389][/us/stat/124/389], 939; [Pub. L. 114–10, title I, § 101(e)(4)][/us/pl/114/10/s101/e/4], Apr. 16, 2015, [129 Stat. 122][/us/stat/129/122]; [Pub. L. 114–85, § 1][/us/pl/114/85/s1], Nov. 5, 2015, [129 Stat. 674][/us/stat/129/674].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1115A, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3021(a), title X, § 10306, Mar. 23, 2010, [124 Stat. 389][/us/stat/124/389], 939; [Pub. L. 114–10, title I][/us/pl/114/10/tI], § 101(e)(4), Apr. 16, 2015, [129 Stat. 122][/us/stat/129/122]; [Pub. L. 114–85][/us/pl/114/85], § 1, Nov. 5, 2015, [129 Stat. 674][/us/stat/129/674].)
 
  __References in Text__ 
 
@@ -269,39 +269,39 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2)(B)(xxi) to (xxiv). [Pub. L. 114–10, § 101(e)(4)(A)][/us/pl/114/10/s101/e/4/A], added cls. (xxi) to (xxiv).
+    2015—Subsec. (b)(2)(B)(xxi) to (xxiv). [Pub. L. 114–10][/us/pl/114/10], § 101(e)(4)(A), added cls. (xxi) to (xxiv).
 
-    Subsec. (b)(2)(C)(viii). [Pub. L. 114–10, § 101(e)(4)(B)][/us/pl/114/10/s101/e/4/B], substituted “other public sector payers, private sector payers, or statewide payment models” for “other public sector or private sector payers”.
+    Subsec. (b)(2)(C)(viii). [Pub. L. 114–10][/us/pl/114/10], § 101(e)(4)(B), substituted “other public sector payers, private sector payers, or statewide payment models” for “other public sector or private sector payers”.
 
     Subsec. (d)(1). [Pub. L. 114–85][/us/pl/114/85] substituted “1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section)” for “and 1396b(m)(2)(A)(iii)”.
 
-    2010—Subsec. (a)(5). [Pub. L. 111–148, § 10306(1)][/us/pl/111/148/s10306/1], added par. (5).
+    2010—Subsec. (a)(5). [Pub. L. 111–148][/us/pl/111/148], § 10306(1), added par. (5).
 
-    Subsec. (b)(2)(A). [Pub. L. 111–148, § 10306(2)(A)][/us/pl/111/148/s10306/2/A], inserted “The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter.” after the first sentence and substituted “this subparagraph may include, but are not limited to,” for “the preceding sentence may include”.
+    Subsec. (b)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 10306(2)(A), inserted “The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter.” after the first sentence and substituted “this subparagraph may include, but are not limited to,” for “the preceding sentence may include”.
 
-    Subsec. (b)(2)(B)(xix), (xx). [Pub. L. 111–148, § 10306(2)(B)][/us/pl/111/148/s10306/2/B], added cls. (xix) and (xx).
+    Subsec. (b)(2)(B)(xix), (xx). [Pub. L. 111–148][/us/pl/111/148], § 10306(2)(B), added cls. (xix) and (xx).
 
-    Subsec. (b)(2)(C)(viii). [Pub. L. 111–148, § 10306(2)(C)][/us/pl/111/148/s10306/2/C], added cl. (viii).
+    Subsec. (b)(2)(C)(viii). [Pub. L. 111–148][/us/pl/111/148], § 10306(2)(C), added cl. (viii).
 
-    Subsec. (b)(4)(C). [Pub. L. 111–148, § 10306(3)][/us/pl/111/148/s10306/3], added subpar. (C).
+    Subsec. (b)(4)(C). [Pub. L. 111–148][/us/pl/111/148], § 10306(3), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 111–148, § 10306(4)(C)][/us/pl/111/148/s10306/4/C], inserted concluding provisions.
+    Subsec. (c). [Pub. L. 111–148][/us/pl/111/148], § 10306(4)(C), inserted concluding provisions.
 
-    Subsec. (c)(1)(B). [Pub. L. 111–148, § 10306(4)(A)][/us/pl/111/148/s10306/4/A], substituted “patient care without increasing spending;” for “care and reduce spending; and”.
+    Subsec. (c)(1)(B). [Pub. L. 111–148][/us/pl/111/148], § 10306(4)(A), substituted “patient care without increasing spending;” for “care and reduce spending; and”.
 
-    Subsec. (c)(2). [Pub. L. 111–148, § 10306(4)(B)][/us/pl/111/148/s10306/4/B], substituted “reduce (or would not result in any increase in) net program spending under applicable subchapters; and” for “reduce program spending under applicable subchapters.”
+    Subsec. (c)(2). [Pub. L. 111–148][/us/pl/111/148], § 10306(4)(B), substituted “reduce (or would not result in any increase in) net program spending under applicable subchapters; and” for “reduce program spending under applicable subchapters.”
 
-    Subsec. (c)(3). [Pub. L. 111–148, § 10306(4)(C)][/us/pl/111/148/s10306/4/C], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–148][/us/pl/111/148], § 10306(4)(C), added par. (3).
 
  __Construction Regarding Telehealth Services__ 
 
-[Pub. L. 114–10, title I, § 101(e)(5)][/us/pl/114/10/s101/e/5], Apr. 16, 2015, [129 Stat. 122][/us/stat/129/122], provided that: 
+[Pub. L. 114–10, title I][/us/pl/114/10/tI], § 101(e)(5), Apr. 16, 2015, [129 Stat. 122][/us/stat/129/122], provided that: 
 
 > “Nothing in the provisions of, or amendments made by, this title \[see Tables for classification\] shall be construed as precluding an alternative payment model or a qualifying APM participant (as those terms are defined in section 1833(z) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(z)\], as added by paragraph (1)) from furnishing a telehealth service for which payment is not made under section 1834(m) of the Social Security Act ([42 U.S.C. 1395m(m)][/us/usc/t42/s1395m/m]).”
 
  __Medicaid Global Payment System Demonstration Project__ 
 
-[Pub. L. 111–148, title II, § 2705][/us/pl/111/148/s2705], Mar. 23, 2010, [124 Stat. 324][/us/stat/124/324], provided that:
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2705, Mar. 23, 2010, [124 Stat. 324][/us/stat/124/324], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -353,31 +353,31 @@
 [/us/usc/t42/s1395cc–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%933
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s3021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3021%2Fa
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F389
-[/us/pl/114/10/s101/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F4
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F122
-[/us/pl/114/85/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F85%2Fs1
+[/us/pl/114/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F85
 [/us/stat/129/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F674
 [/us/pl/105/33/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4016
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
-[/us/pl/114/10/s101/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F4%2FA
-[/us/pl/114/10/s101/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F4%2FB
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/114/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F85
-[/us/pl/111/148/s10306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F1
-[/us/pl/111/148/s10306/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F2%2FA
-[/us/pl/111/148/s10306/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F2%2FB
-[/us/pl/111/148/s10306/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F2%2FC
-[/us/pl/111/148/s10306/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F3
-[/us/pl/111/148/s10306/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F4%2FC
-[/us/pl/111/148/s10306/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F4%2FA
-[/us/pl/111/148/s10306/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F4%2FB
-[/us/pl/111/148/s10306/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F4%2FC
-[/us/pl/114/10/s101/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F5
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F122
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395m/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fm
-[/us/pl/111/148/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2705
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F324
 [/us/usc/t42/s1315a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315a
 [/us/usc/t42/s1315a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315a%2Fb%2F3

@@ -79,7 +79,7 @@
 
             Recognizing the unique circumstances of small communities, the Administrator shall, not later than two years after March 26, 1996, promulgate revisions to the guidelines and criteria promulgated under this subchapter to provide additional flexibility to approved States to allow landfills that receive 20 tons or less of municipal solid waste per day, based on an annual average, to use alternative frequencies of daily cover application, frequencies of methane gas monitoring, infiltration layers for final cover, and means for demonstrating financial assurance: Provided, That such alternative requirements take into account climatic and hydrogeologic conditions and are protective of human health and environment.
 
-([Pub. L. 89–272, title II, § 4010][/us/pl/89/272/s4010], as added [Pub. L. 98–616, title III, § 302(a)(1)][/us/pl/98/616/s302/a/1], Nov. 8, 1984, [98 Stat. 3267][/us/stat/98/3267]; amended [Pub. L. 104–119, § 3(a)][/us/pl/104/119/s3/a], Mar. 26, 1996, [110 Stat. 831][/us/stat/110/831].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4010, as added [Pub. L. 98–616, title III][/us/pl/98/616/tIII], § 302(a)(1), Nov. 8, 1984, [98 Stat. 3267][/us/stat/98/3267]; amended [Pub. L. 104–119][/us/pl/104/119], § 3(a), Mar. 26, 1996, [110 Stat. 831][/us/stat/110/831].)
 
  __Amendments__ 
 
@@ -87,7 +87,7 @@
 
  __Reinstatement of Regulatory Exemption__ 
 
-[Pub. L. 104–119, § 3(b)][/us/pl/104/119/s3/b], Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833], provided that: 
+[Pub. L. 104–119][/us/pl/104/119], § 3(b), Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833], provided that: 
 
 > “It is the intent of section 4010(c)(2) of the Solid Waste Disposal Act \[[42 U.S.C. 6949a(c)(2)][/us/usc/t42/s6949a/c/2]\], as added by subsection (a), to immediately reinstate subpart E of part 258 of title 40, Code of Federal Regulations, as added by the final rule published at 56 Federal Register 50798 on October 9, 1991.”
 
@@ -104,13 +104,13 @@
 [/us/usc/t42/s6907/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6907%2Fa%2F3
 [/us/usc/t42/s6921/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921%2Fd
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
-[/us/pl/89/272/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4010
-[/us/pl/98/616/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs302%2Fa%2F1
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtIII
 [/us/stat/98/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3267
-[/us/pl/104/119/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs3%2Fa
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/stat/110/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F831
 [/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
-[/us/pl/104/119/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs3%2Fb
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/stat/110/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F833
 [/us/usc/t42/s6949a/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6949a%2Fc%2F2
 

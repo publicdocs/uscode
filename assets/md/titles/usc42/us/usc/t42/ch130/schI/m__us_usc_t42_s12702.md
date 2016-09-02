@@ -31,7 +31,7 @@
 
     (7) to encourage tenant empowerment and reduce generational poverty in federally assisted and public housing by improving the means by which self-sufficiency may be achieved.
 
-([Pub. L. 101–625, title I, § 102][/us/pl/101/625/s102], Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 102, Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs102
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4085
 
 

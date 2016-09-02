@@ -23,7 +23,7 @@
 
         The violation of any provision of this part shall be treated as an unfair or deceptive act or practice proscribed under a rule issued under section 18(a)(1)(B) of the Federal Trade Commission Act ([15 U.S.C. 57a(a)(1)(B)][/us/usc/t15/s57a/a/1/B]).
 
-([Pub. L. 110–140, title VIII, § 813][/us/pl/110/140/s813], Dec. 19, 2007, [121 Stat. 1724][/us/stat/121/1724].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 813, Dec. 19, 2007, [121 Stat. 1724][/us/stat/121/1724].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s57a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fa%2F1%2FB
-[/us/pl/110/140/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs813
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1724
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

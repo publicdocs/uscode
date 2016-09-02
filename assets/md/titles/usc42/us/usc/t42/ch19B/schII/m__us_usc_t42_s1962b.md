@@ -29,7 +29,7 @@
 
         (4) foster and undertake such studies of water and related land resources problems in its area, river basin, or group of river basins as are necessary in the preparation of the plan described in clause (2) of this subsection.
 
-([Pub. L. 89–80, title II, § 201][/us/pl/89/80/s201], July 22, 1965, [79 Stat. 246][/us/stat/79/246].)
+([Pub. L. 89–80, title II][/us/pl/89/80/tII], § 201, July 22, 1965, [79 Stat. 246][/us/stat/79/246].)
 
  __Executive Order No. 11331__ 
 
@@ -121,7 +121,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 ----------
 
 [/us/usc/t42/s1962–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%E2%80%931
-[/us/pl/89/80/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs201
+[/us/pl/89/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtII
 [/us/stat/79/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F246
 [/us/usc/t42/s7151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7151
 [/us/usc/t42/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962

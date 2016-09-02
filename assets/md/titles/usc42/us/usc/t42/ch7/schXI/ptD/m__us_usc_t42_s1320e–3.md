@@ -57,7 +57,7 @@
 
             The term “information exchange” means the automated comparison of a system of records maintained by the Commissioner of Social Security with records maintained by a payroll data provider.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1184, as added [Pub. L. 114–74, title VIII, § 824(a)][/us/pl/114/74/s824/a], Nov. 2, 2015, [129 Stat. 607][/us/stat/129/607].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1184, as added [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 824(a), Nov. 2, 2015, [129 Stat. 607][/us/stat/129/607].)
 
  __Effective Date__ 
 
@@ -65,7 +65,7 @@
 
  __Regulations__ 
 
-[Pub. L. 114–74, title VIII, § 824(d)][/us/pl/114/74/s824/d], Nov. 2, 2015, [129 Stat. 610][/us/stat/129/610], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 824(d), Nov. 2, 2015, [129 Stat. 610][/us/stat/129/610], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Nov. 2, 2015\], the Commissioner of Social Security shall prescribe by regulation procedures for implementing the Commissioner’s access to and use of information held by payroll providers, including—
 
@@ -87,11 +87,11 @@
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/114/74/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fa
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F607
 [/us/pl/114/74/s824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fe
 [/us/usc/t42/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425
-[/us/pl/114/74/s824/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fd
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F610
 [/us/usc/t42/s1320e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%933
 

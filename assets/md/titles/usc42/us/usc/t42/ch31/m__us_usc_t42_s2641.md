@@ -19,11 +19,11 @@
 
     (b) The Congress further finds that Federal assistance to stimulate public works investment in order to increase employment opportunities is most urgently needed in those areas, both urban and rural, which qualify as redevelopment areas because they suffer from persistent and chronic unemployment and economic underdevelopment, as well as in other areas which have suffered from substantial unemployment for a period of at least twelve months.
 
-([Pub. L. 87–658, § 2][/us/pl/87/658/s2], Sept. 14, 1962, [76 Stat. 542][/us/stat/76/542].)
+([Pub. L. 87–658][/us/pl/87/658], § 2, Sept. 14, 1962, [76 Stat. 542][/us/stat/76/542].)
 
  __Short Title__ 
 
-[Pub. L. 87–658, § 1][/us/pl/87/658/s1], Sept. 14, 1962, [76 Stat. 541][/us/stat/76/541], provided: 
+[Pub. L. 87–658][/us/pl/87/658], § 1, Sept. 14, 1962, [76 Stat. 541][/us/stat/76/541], provided: 
 
 > “That this Act \[enacting this chapter and amending section 462 of former Title 40, Public Buildings, Property, and Works, and [section 1492 of this title][/us/usc/t42/s1492]\] may be cited as the ‘Public Works Acceleration Act’.”
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/87/658/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658%2Fs2
+[/us/pl/87/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658
 [/us/stat/76/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F542
-[/us/pl/87/658/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658%2Fs1
+[/us/pl/87/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F658
 [/us/stat/76/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F541
 [/us/usc/t42/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1492
 

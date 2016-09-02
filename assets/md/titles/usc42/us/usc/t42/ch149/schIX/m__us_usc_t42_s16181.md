@@ -51,7 +51,7 @@
 
         Nothing in subsection (a) or the annually published goals creates any new authority for any Federal agency, or may be used by any Federal agency, to support the establishment of regulatory standards or regulatory requirements.
 
-([Pub. L. 109–58, title IX, § 902][/us/pl/109/58/s902], Aug. 8, 2005, [119 Stat. 856][/us/stat/119/856].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 902, Aug. 8, 2005, [119 Stat. 856][/us/stat/119/856].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs902
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F856
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F856

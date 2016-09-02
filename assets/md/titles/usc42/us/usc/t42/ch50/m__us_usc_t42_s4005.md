@@ -25,7 +25,7 @@
 
         The term “National Flood Insurance Program” means the program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.).
 
-([Pub. L. 113–89, § 2][/us/pl/113/89/s2], Mar. 21, 2014, [128 Stat. 1020][/us/stat/128/1020].)
+([Pub. L. 113–89][/us/pl/113/89], § 2, Mar. 21, 2014, [128 Stat. 1020][/us/stat/128/1020].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/113/89/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs2
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1020
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1020

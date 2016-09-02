@@ -41,7 +41,7 @@
 
             No State or unit of general local government that has a designated open forum, limited public forum, or nonpublic forum and that is a recipient of assistance under this chapter shall deny equal access or a fair opportunity to meet to, or discriminate against, any youth organization, including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America, that wishes to conduct a meeting or otherwise participate in that designated open forum, limited public forum, or nonpublic forum.
 
-([Pub. L. 93–383, title I, § 109][/us/pl/93/383/s109], Aug. 22, 1974, [88 Stat. 649][/us/stat/88/649]; [Pub. L. 97–35, title III, § 306][/us/pl/97/35/s306], Aug. 13, 1981, [95 Stat. 392][/us/stat/95/392]; [Pub. L. 101–625, title IX][/us/pl/101/625], §§ 911, 912(a), Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392]; [Pub. L. 109–148, div. A, title VIII, § 8126(d)][/us/pl/109/148/s8126/d], Dec. 30, 2005, [119 Stat. 2730][/us/stat/119/2730]; [Pub. L. 109–163, div. A, title X, § 1058(d)][/us/pl/109/163/s1058/d], Jan. 6, 2006, [119 Stat. 3443][/us/stat/119/3443].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 109, Aug. 22, 1974, [88 Stat. 649][/us/stat/88/649]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 306, Aug. 13, 1981, [95 Stat. 392][/us/stat/95/392]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], §§ 911, 912(a), Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392]; [Pub. L. 109–148, div. A, title VIII][/us/pl/109/148/dA/tVIII], § 8126(d), Dec. 30, 2005, [119 Stat. 2730][/us/stat/119/2730]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1058(d), Jan. 6, 2006, [119 Stat. 3443][/us/stat/119/3443].)
 
  __References in Text__ 
 
@@ -53,23 +53,23 @@
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–163, § 1058(d)(1)][/us/pl/109/163/s1058/d/1], inserted “or (e)” after “subsection (a)” in first sentence.
+    2006—Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 1058(d)(1), inserted “or (e)” after “subsection (a)” in first sentence.
 
-    Subsec. (e). [Pub. L. 109–163, § 1058(d)(2)][/us/pl/109/163/s1058/d/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–163][/us/pl/109/163], § 1058(d)(2), added subsec. (e).
 
-    2005—Subsec. (b). [Pub. L. 109–148, § 8126(d)(1)][/us/pl/109/148/s8126/d/1], which directed amendment identical to amendment by [Pub. L. 109–163, § 1058(d)(1)][/us/pl/109/163/s1058/d/1], was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
+    2005—Subsec. (b). [Pub. L. 109–148][/us/pl/109/148], § 8126(d)(1), which directed amendment identical to amendment by [Pub. L. 109–163][/us/pl/109/163], § 1058(d)(1), was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
 
-    Subsec. (e). [Pub. L. 109–148, § 8126(d)(2)][/us/pl/109/148/s8126/d/2], which directed addition of subsec. (e) substantially identical to subsec. (e) added by [Pub. L. 109–163, § 1058(d)(2)][/us/pl/109/163/s1058/d/2], was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
+    Subsec. (e). [Pub. L. 109–148][/us/pl/109/148], § 8126(d)(2), which directed addition of subsec. (e) substantially identical to subsec. (e) added by [Pub. L. 109–163][/us/pl/109/163], § 1058(d)(2), was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
 
-    1990—Subsec. (a). [Pub. L. 101–625, § 912(a)][/us/pl/101/625/s912/a], inserted “religion,” after “national origin,”.
+    1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625], § 912(a), inserted “religion,” after “national origin,”.
 
-    Subsec. (d). [Pub. L. 101–625, § 911][/us/pl/101/625/s911], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–625][/us/pl/101/625], § 911, added subsec. (d).
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] inserted provisions respecting age discrimination.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–625, title IX, § 912(b)][/us/pl/101/625/s912/b], Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392], provided that: 
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 912(b), Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to conduct relating to discrimination occurring after the date of the enactment of this Act \[Nov. 28, 1990\].”
 
@@ -79,11 +79,11 @@
 
  __Reconciliation of Duplicate Enactments__ 
 
-[Pub. L. 109–364, div. A, title X, § 1071(f)(2)][/us/pl/109/364/s1071/f/2], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], as amended by [Pub. L. 110–181, div. A, title X, § 1063(c)(10)][/us/pl/110/181/s1063/c/10], Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], provided that: 
+[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(f)(2), Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], as amended by [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c)(10), Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], provided that: 
 
 > “In executing to section 109 of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5309][/us/usc/t42/s5309]\] the amendments made by [section 8126(d) of Public Law 109–148][/us/pl/109/148/s8126/d] ([119 Stat. 2730][/us/stat/119/2730]) and [section 1058(d) of Public Law 109–163][/us/pl/109/163/s1058/d] ([119 Stat. 3443][/us/stat/119/3443]), such amendments shall be executed so as to appear only once in the law as amended.”
 
-    \[[Pub. L. 110–181, div. A, title X, § 1063(c)][/us/pl/110/181/s1063/c], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c)(10) to [Pub. L. 109–364, § 1071(f)(2)][/us/pl/109/364/s1071/f/2], set out above, is effective as of Oct. 17, 2006, and as if included in [Pub. L. 109–364][/us/pl/109/364], as enacted.\]
+    \[[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c)(10) to [Pub. L. 109–364][/us/pl/109/364], § 1071(f)(2), set out above, is effective as of Oct. 17, 2006, and as if included in [Pub. L. 109–364][/us/pl/109/364], as enacted.\]
 
 ----------
 
@@ -97,15 +97,15 @@
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s5311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5311%2Fa
 [/us/usc/t42/s5304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5304%2Fb%2F2
-[/us/pl/93/383/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs109
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F649
-[/us/pl/97/35/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs306
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F392
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4392
-[/us/pl/109/148/s8126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8126%2Fd
+[/us/pl/109/148/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtVIII
 [/us/stat/119/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2730
-[/us/pl/109/163/s1058/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1058%2Fd
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3443
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
@@ -115,32 +115,32 @@
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/pl/109/163/s1058/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1058%2Fd%2F1
-[/us/pl/109/163/s1058/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1058%2Fd%2F2
-[/us/pl/109/148/s8126/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8126%2Fd%2F1
-[/us/pl/109/163/s1058/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1058%2Fd%2F1
-[/us/pl/109/148/s8126/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8126%2Fd%2F2
-[/us/pl/109/163/s1058/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1058%2Fd%2F2
-[/us/pl/101/625/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs912%2Fa
-[/us/pl/101/625/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs911
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/101/625/s912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs912%2Fb
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4392
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/109/364/s1071/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Ff%2F2
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2402
-[/us/pl/110/181/s1063/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc%2F10
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F323
 [/us/usc/t42/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5309
 [/us/pl/109/148/s8126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8126%2Fd
 [/us/stat/119/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2730
 [/us/pl/109/163/s1058/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1058%2Fd
 [/us/stat/119/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3443
-[/us/pl/110/181/s1063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
-[/us/pl/109/364/s1071/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Ff%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 
 

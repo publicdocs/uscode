@@ -57,7 +57,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 109–58, title I, § 133][/us/pl/109/58/s133], Aug. 8, 2005, [119 Stat. 622][/us/stat/119/622].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 133, Aug. 8, 2005, [119 Stat. 622][/us/stat/119/622].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs133
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F622
 
 

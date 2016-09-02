@@ -79,11 +79,11 @@
 
         There is authorized to be appropriated to the Commission not more than $55,000,000 for each of fiscal years 2006 through 2015 to carry out subsection (b).
 
-([Pub. L. 109–58, title III, § 356][/us/pl/109/58/s356], Aug. 8, 2005, [119 Stat. 719][/us/stat/119/719].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 356, Aug. 8, 2005, [119 Stat. 719][/us/stat/119/719].)
 
  __References in Text__ 
 
-    The Denali Commission Act of 1998, referred to in subsec. (a), is title III of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–637][/us/stat/112/2681-637], which is set out as a note under [section 3121 of this title][/us/usc/t42/s3121]. For complete classification of this Act to the Code, see Tables.
+    The Denali Commission Act of 1998, referred to in subsec. (a), is title III of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–637][/us/stat/112/2681-637], which is set out as a note under [section 3121 of this title][/us/usc/t42/s3121]. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -95,9 +95,9 @@
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/109/58/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs356
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F719
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-637
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
 

@@ -41,13 +41,13 @@
 
         If the only jurisdictional basis for applying a provision of this chapter is a claim that a substantial burden by a government on religious exercise affects, or that removal of that substantial burden would affect, commerce with foreign nations, among the several States, or with Indian tribes, the provision shall not apply if the government demonstrates that all substantial burdens on, or the removal of all substantial burdens from, similar religious exercise throughout the Nation would not lead in the aggregate to a substantial effect on commerce with foreign nations, among the several States, or with Indian tribes.
 
-([Pub. L. 106–274, § 4][/us/pl/106/274/s4], Sept. 22, 2000, [114 Stat. 804][/us/stat/114/804].)
+([Pub. L. 106–274][/us/pl/106/274], § 4, Sept. 22, 2000, [114 Stat. 804][/us/stat/114/804].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 106–274][/us/pl/106/274], Sept. 22, 2000, [114 Stat. 803][/us/stat/114/803], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000cc of this title][/us/usc/t42/s2000cc] and Tables.
 
-    The Prison Litigation Reform Act of 1995, referred to in subsec. (e), is [Pub. L. 104–134, title I, § 101(a)][/us/pl/104/134/s101/a] \[title VIII\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–66, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 3601 of Title 18][/us/usc/t18/s3601], Crimes and Criminal Procedure, and Tables.
+    The Prison Litigation Reform Act of 1995, referred to in subsec. (e), is [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(a) \[title VIII\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–66, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 3601 of Title 18][/us/usc/t18/s3601], Crimes and Criminal Procedure, and Tables.
 
  __Codification__ 
 
@@ -62,12 +62,12 @@
 
 [/us/usc/t42/s2000cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000cc
 [/us/usc/t42/s2000cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000cc
-[/us/pl/106/274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs4
+[/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F804
 [/us/pl/106/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274
 [/us/stat/114/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F803
 [/us/usc/t42/s2000cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000cc
-[/us/pl/104/134/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fa
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
 [/us/usc/t18/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3601
 [/us/pl/106/274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F274%2Fs4

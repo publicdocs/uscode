@@ -49,7 +49,7 @@
 
     (8) Establishing such rules, regulations, guidelines, and procedures as are necessary to carry out any function of the Office.
 
-([Pub. L. 90–351, title I, § 2004][/us/pl/90/351/s2004], as added [Pub. L. 107–273, div. A, title IV, § 402(3)][/us/pl/107/273/s402/3], Nov. 2, 2002, [116 Stat. 1790][/us/stat/116/1790].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2004, as added [Pub. L. 107–273, div. A, title IV][/us/pl/107/273/dA/tIV], § 402(3), Nov. 2, 2002, [116 Stat. 1790][/us/stat/116/1790].)
 
  __References in Text__ 
 
@@ -74,8 +74,8 @@
 
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/90/351/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2004
-[/us/pl/107/273/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIV
 [/us/stat/116/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1790
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1902

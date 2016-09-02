@@ -45,7 +45,7 @@
 
         (E) $250,000,000 for fiscal year 2010.
 
-([Pub. L. 109–58, title II, § 206(c)][/us/pl/109/58/s206/c], Aug. 8, 2005, [119 Stat. 655][/us/stat/119/655].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 206(c), Aug. 8, 2005, [119 Stat. 655][/us/stat/119/655].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t42/s6865/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6865%2Fc%2F6%2FA
-[/us/pl/109/58/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs206%2Fc
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F655
 
 

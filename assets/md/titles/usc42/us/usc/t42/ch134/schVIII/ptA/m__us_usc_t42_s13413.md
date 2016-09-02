@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section and sections 13414 and 13415 of this title, $29,745,000 for fiscal year 1993 and $45,000,000 for fiscal year 1994.
 
-([Pub. L. 102–486, title XX, § 2013][/us/pl/102/486/s2013], Oct. 24, 1992, [106 Stat. 3059][/us/stat/106/3059].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2013, Oct. 24, 1992, [106 Stat. 3059][/us/stat/106/3059].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2013
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3059
 
 

@@ -17,7 +17,7 @@
 
     There are transferred to, and vested in, the Secretary all functions of the Secretary of Commerce, the Department of Commerce, and officers and components of that Department, as relate to or are utilized by the Office of Energy Programs, but limited to industrial energy conservation programs.
 
-([Pub. L. 95–91, title III, § 308][/us/pl/95/91/s308], Aug. 4, 1977, [91 Stat. 581][/us/stat/91/581].)
+([Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 308, Aug. 4, 1977, [91 Stat. 581][/us/stat/91/581].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs308
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F581
 
 

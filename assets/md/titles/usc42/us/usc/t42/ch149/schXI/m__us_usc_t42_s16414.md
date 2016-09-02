@@ -43,7 +43,7 @@
 
             (B) through Internet-based information technologies that allow for learning at remote sites.
 
-([Pub. L. 109–58, title XI, § 1106][/us/pl/109/58/s1106], Aug. 8, 2005, [119 Stat. 940][/us/stat/119/940].)
+([Pub. L. 109–58, title XI][/us/pl/109/58/tXI], § 1106, Aug. 8, 2005, [119 Stat. 940][/us/stat/119/940].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1106
+[/us/pl/109/58/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXI
 [/us/stat/119/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F940
 
 

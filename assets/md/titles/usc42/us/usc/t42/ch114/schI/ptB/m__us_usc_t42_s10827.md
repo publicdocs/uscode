@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for allotments under this subchapter, $19,500,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2003.
 
-([Pub. L. 99–319, title I, § 117][/us/pl/99/319/s117], May 23, 1986, [100 Stat. 485][/us/stat/100/485]; [Pub. L. 100–509, § 7(f)][/us/pl/100/509/s7/f], Oct. 20, 1988, [102 Stat. 2546][/us/stat/102/2546]; [Pub. L. 102–173, § 8][/us/pl/102/173/s8], Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219]; [Pub. L. 106–310, div. B, title XXXII, § 3206(f)][/us/pl/106/310/s3206/f], Oct. 17, 2000, [114 Stat. 1195][/us/stat/114/1195].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 117, May 23, 1986, [100 Stat. 485][/us/stat/100/485]; [Pub. L. 100–509][/us/pl/100/509], § 7(f), Oct. 20, 1988, [102 Stat. 2546][/us/stat/102/2546]; [Pub. L. 102–173][/us/pl/102/173], § 8, Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219]; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(f), Oct. 17, 2000, [114 Stat. 1195][/us/stat/114/1195].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–509, § 8][/us/pl/100/509/s8], Oct. 20, 1988, [102 Stat. 2546][/us/stat/102/2546], provided that:
+[Pub. L. 100–509][/us/pl/100/509], § 8, Oct. 20, 1988, [102 Stat. 2546][/us/stat/102/2546], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -46,18 +46,18 @@
 ----------
 ----------
 
-[/us/pl/99/319/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs117
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F485
-[/us/pl/100/509/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Ff
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2546
-[/us/pl/102/173/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs8
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1219
-[/us/pl/106/310/s3206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Ff
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1195
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
-[/us/pl/100/509/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs8
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2546
 
 

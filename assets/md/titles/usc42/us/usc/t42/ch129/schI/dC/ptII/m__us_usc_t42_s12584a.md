@@ -61,7 +61,7 @@
 
         A participant in an approved national service position under this division may not be directed to perform any services or duties, or to engage in any activities, prohibited under the nonduplication, nondisplacement, or nonsupplantation requirements relating to employees and volunteers in [section 12637 of this title][/us/usc/t42/s12637].
 
-([Pub. L. 101–610, title I, § 132A][/us/pl/101/610/s132A], as added [Pub. L. 111–13, title I, § 1310][/us/pl/111/13/s1310], Apr. 21, 2009, [123 Stat. 1507][/us/stat/123/1507].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 132A, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1310, Apr. 21, 2009, [123 Stat. 1507][/us/stat/123/1507].)
 
  __Effective Date__ 
 
@@ -78,8 +78,8 @@
 [/us/usc/t42/s12584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12584
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t42/s12637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12637
-[/us/pl/101/610/s132A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs132A
-[/us/pl/111/13/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1310
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1507
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 107–188, title I, § 121][/us/pl/107/188/s121], June 12, 2002, [116 Stat. 611][/us/stat/116/611], as amended, which related to Strategic National Stockpile, was renumbered section 319F–2 of the Public Health Service Act by [Pub. L. 108–276, § 3(a)(1)][/us/pl/108/276/s3/a/1], July 21, 2004, [118 Stat. 842][/us/stat/118/842] and is classified to [section 247d–6b of this title][/us/usc/t42/s247d–6b].
+    Section, [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 121, June 12, 2002, [116 Stat. 611][/us/stat/116/611], as amended, which related to Strategic National Stockpile, was renumbered section 319F–2 of the Public Health Service Act by [Pub. L. 108–276][/us/pl/108/276], § 3(a)(1), July 21, 2004, [118 Stat. 842][/us/stat/118/842] and is classified to [section 247d–6b of this title][/us/usc/t42/s247d–6b].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/107/188/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs121
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F611
-[/us/pl/108/276/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fa%2F1
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F842
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 

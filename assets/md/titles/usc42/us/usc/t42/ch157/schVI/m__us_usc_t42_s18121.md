@@ -23,7 +23,7 @@
 
         There is appropriated to the Fund, out of any funds in the Treasury not otherwise appropriated, $1,000,000,000 for Federal administrative expenses to carry out such Act  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Acts”. </sup></sup>  (and the amendments made by such Acts).
 
-([Pub. L. 111–152, title I, § 1005][/us/pl/111/152/s1005], Mar. 30, 2010, [124 Stat. 1036][/us/stat/124/1036].)
+([Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1005, Mar. 30, 2010, [124 Stat. 1036][/us/stat/124/1036].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/152/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1005
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1036
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

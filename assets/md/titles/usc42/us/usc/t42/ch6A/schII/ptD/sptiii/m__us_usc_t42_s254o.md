@@ -127,13 +127,13 @@
 
         The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 ([Public Law 107–251][/us/pl/107/251]) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338E, formerly title VII, § 754, as added [Pub. L. 94–484, title IV, § 408(b)(1)][/us/pl/94/484/s408/b/1], Oct. 12, 1976, [90 Stat. 2286][/us/stat/90/2286]; amended [Pub. L. 95–83, title III, § 307(g)][/us/pl/95/83/s307/g], Aug. 1, 1977, [91 Stat. 391][/us/stat/91/391]; renumbered § 338D and amended [Pub. L. 97–35, title XXVII, § 2709(a)][/us/pl/97/35/s2709/a], (e)(1)–(4)(A), Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908], 911; [Pub. L. 97–414, § 8(g)(2)][/us/pl/97/414/s8/g/2], Jan. 4, 1983, [96 Stat. 2061][/us/stat/96/2061]; renumbered § 338E and amended [Pub. L. 100–177, title II][/us/pl/100/177], §§ 201(2), 202(e), title III, § 308(a), Dec. 1, 1987, [101 Stat. 992][/us/stat/101/992], 997, 1006; [Pub. L. 100–203, title IV, § 4052(b)][/us/pl/100/203/s4052/b], Dec. 22, 1987, [101 Stat. 1330–97][/us/stat/101/1330-97]; [Pub. L. 100–360, title IV, § 411(f)(10)(B)][/us/pl/100/360/s411/f/10/B], July 1, 1988, [102 Stat. 780][/us/stat/102/780]; [Pub. L. 101–597, title II, § 203(a)][/us/pl/101/597/s203/a], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027]; [Pub. L. 107–251, title III, § 313(a)][/us/pl/107/251/s313/a], Oct. 26, 2002, [116 Stat. 1651][/us/stat/116/1651]; [Pub. L. 108–163, § 2][/us/pl/108/163/s2](l)(1), Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338E, formerly title VII, § 754, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 408(b)(1), Oct. 12, 1976, [90 Stat. 2286][/us/stat/90/2286]; amended [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 307(g), Aug. 1, 1977, [91 Stat. 391][/us/stat/91/391]; renumbered § 338D and amended [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2709(a), (e)(1)–(4)(A), Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908], 911; [Pub. L. 97–414][/us/pl/97/414], § 8(g)(2), Jan. 4, 1983, [96 Stat. 2061][/us/stat/96/2061]; renumbered § 338E and amended [Pub. L. 100–177, title II][/us/pl/100/177/tII], §§ 201(2), 202(e), title III, § 308(a), Dec. 1, 1987, [101 Stat. 992][/us/stat/101/992], 997, 1006; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4052(b), Dec. 22, 1987, [101 Stat. 1330–97][/us/stat/101/1330-97]; [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(f)(10)(B), July 1, 1988, [102 Stat. 780][/us/stat/102/780]; [Pub. L. 101–597, title II][/us/pl/101/597/tII], § 203(a), Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027]; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 313(a), Oct. 26, 2002, [116 Stat. 1651][/us/stat/116/1651]; [Pub. L. 108–163][/us/pl/108/163], § 2(l)(1), Dec. 6, 2003, [117 Stat. 2022][/us/stat/117/2022].)
 
  __References in Text__ 
 
-    [Section 234 of this title][/us/usc/t42/s234], referred to in subsecs. (b)(2) and (d)(3)(B)(ii), was repealed by [Pub. L. 94–484, title IV, § 408(b)(1)][/us/pl/94/484/s408/b/1], Oct. 12, 1976, [90 Stat. 2281][/us/stat/90/2281], effective Oct. 1, 1977.
+    [Section 234 of this title][/us/usc/t42/s234], referred to in subsecs. (b)(2) and (d)(3)(B)(ii), was repealed by [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 408(b)(1), Oct. 12, 1976, [90 Stat. 2281][/us/stat/90/2281], effective Oct. 1, 1977.
 
-    [Section 254n of this title][/us/usc/t42/s254n], referred to in subsec. (b)(2), in the original referred to section 753, meaning section 753 of the Public Health Service Act, which was classified to [section 294v of this title][/us/usc/t42/s294v]. Section 753 was redesignated section 338C of the Public Health Service Act by [Pub. L. 97–35, title XXVII, § 2709(a)][/us/pl/97/35/s2709/a], Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908], and was transferred to [section 254n of this title][/us/usc/t42/s254n]. Section 338C of the Public Health Service Act was renumbered section 338D by [Pub. L. 100–177, title II, § 201(2)][/us/pl/100/177/s201/2], Dec. 1, 1987, [101 Stat. 992][/us/stat/101/992].
+    [Section 254n of this title][/us/usc/t42/s254n], referred to in subsec. (b)(2), in the original referred to section 753, meaning section 753 of the Public Health Service Act, which was classified to [section 294v of this title][/us/usc/t42/s294v]. Section 753 was redesignated section 338C of the Public Health Service Act by [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2709(a), Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908], and was transferred to [section 254n of this title][/us/usc/t42/s254n]. Section 338C of the Public Health Service Act was renumbered section 338D by [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 201(2), Dec. 1, 1987, [101 Stat. 992][/us/stat/101/992].
 
     Section 313(a)(4) of the Health Care Safety Net Amendments of 2002, referred to in subsec. (f), is [section 313(a)(4) of Pub. L. 107–251][/us/pl/107/251/s313/a/4], which amended subsec. (d)(3)(A) of this section. See 2002 Amendment note below.
 
@@ -147,53 +147,53 @@
 
  __Amendments__ 
 
-    2003—Subsec. (c)(1). [Pub. L. 108–163, § 2][/us/pl/108/163/s2](l)(1)(A), realigned margins.
+    2003—Subsec. (c)(1). [Pub. L. 108–163][/us/pl/108/163], § 2(l)(1)(A), realigned margins.
 
-    Subsec. (f). [Pub. L. 108–163, § 2][/us/pl/108/163/s2](l)(1)(B), added subsec. (f).
+    Subsec. (f). [Pub. L. 108–163][/us/pl/108/163], § 2(l)(1)(B), added subsec. (f).
 
-    2002—Subsec. (a)(1). [Pub. L. 107–251, § 313(a)(1)][/us/pl/107/251/s313/a/1], substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
+    2002—Subsec. (a)(1). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(1), substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
 
-    Subsec. (b)(1)(A). [Pub. L. 107–251, § 313(a)(2)(A)(ii)][/us/pl/107/251/s313/a/2/A/ii]–(iv), struck out “either” before “to begin”, substituted “254n of this title,” for “254n of this title or”, and inserted “or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title,” before “the United States” the first time appearing.
+    Subsec. (b)(1)(A). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(2)(A)(ii)–(iv), struck out “either” before “to begin”, substituted “254n of this title,” for “254n of this title or”, and inserted “or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title,” before “the United States” the first time appearing.
 
-    [Pub. L. 107–251, § 313(a)(2)(A)(i)][/us/pl/107/251/s313/a/2/A/i], made technical amendment to reference in original act which appears in text as reference to [section 254p of this title][/us/usc/t42/s254p].
+    [Pub. L. 107–251][/us/pl/107/251], § 313(a)(2)(A)(i), made technical amendment to reference in original act which appears in text as reference to [section 254p of this title][/us/usc/t42/s254p].
 
-    Subsec. (b)(3). [Pub. L. 107–251, § 313(a)(2)(B)][/us/pl/107/251/s313/a/2/B], added par. (3).
+    Subsec. (b)(3). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(2)(B), added par. (3).
 
-    Subsec. (c)(1). [Pub. L. 107–251, § 313(a)(3)(A)(ii)][/us/pl/107/251/s313/a/3/A/ii], added subpars. (A) to (C) and concluding provisions and struck out former subpars. (A) to (C) which related, respectively, to amounts to be recovered in the case of a contract for a 2-year period of obligated service, in the case of a contract for a period of obligated service of greater than 2 years where the breach occurred before the end of the first 2 years of such period, and in the case of a contract for a period of obligated service of greater than 2 years, where the breach occurred after the first 2 years of such period.
+    Subsec. (c)(1). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(3)(A)(ii), added subpars. (A) to (C) and concluding provisions and struck out former subpars. (A) to (C) which related, respectively, to amounts to be recovered in the case of a contract for a 2-year period of obligated service, in the case of a contract for a period of obligated service of greater than 2 years where the breach occurred before the end of the first 2 years of such period, and in the case of a contract for a period of obligated service of greater than 2 years, where the breach occurred after the first 2 years of such period.
 
-    [Pub. L. 107–251, § 313(a)(3)(A)(i)][/us/pl/107/251/s313/a/3/A/i], in introductory provisions, made technical amendment to reference in original act which appears in text as reference to [section 254p(d) of this title][/us/usc/t42/s254p/d].
+    [Pub. L. 107–251][/us/pl/107/251], § 313(a)(3)(A)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to [section 254p(d) of this title][/us/usc/t42/s254p/d].
 
-    Subsec. (c)(2). [Pub. L. 107–251, § 313(a)(3)(B)][/us/pl/107/251/s313/a/3/B], added par. (2) and struck out former par. (2) which read as follows: “For purposes of paragraph (1), the term ‘unserved obligation penalty’ means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.”
+    Subsec. (c)(2). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(3)(B), added par. (2) and struck out former par. (2) which read as follows: “For purposes of paragraph (1), the term ‘unserved obligation penalty’ means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.”
 
-    Subsec. (c)(3), (4). [Pub. L. 107–251, § 313(a)(3)(B)][/us/pl/107/251/s313/a/3/B], (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.”
+    Subsec. (c)(3), (4). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(3)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.”
 
-    Subsec. (d)(3)(A). [Pub. L. 107–251, § 313(a)(4)][/us/pl/107/251/s313/a/4], substituted “7-year period” for “five-year period”.
+    Subsec. (d)(3)(A). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(4), substituted “7-year period” for “five-year period”.
 
-    Subsec. (e). [Pub. L. 107–251, § 313(a)(5)][/us/pl/107/251/s313/a/5], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–251][/us/pl/107/251], § 313(a)(5), added subsec. (e).
 
     1990—Subsec. (d)(3). [Pub. L. 101–597][/us/pl/101/597] designated existing provision as subpar. (A) and added subpar. (B).
 
     1988—Subsec. (b)(1)(B)(i). [Pub. L. 100–360][/us/pl/100/360] made technical amendment to directory language of [Pub. L. 100–203][/us/pl/100/203], see 1987 Amendment note below.
 
-    1987—[Pub. L. 100–177, § 202(e)(6)][/us/pl/100/177/s202/e/6], inserted “or loan repayment contract” in section catchline.
+    1987—[Pub. L. 100–177][/us/pl/100/177], § 202(e)(6), inserted “or loan repayment contract” in section catchline.
 
-    Subsec. (a). [Pub. L. 100–177, § 202(e)(1)][/us/pl/100/177/s202/e/1], designated existing provisions as par. (1), and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
+    Subsec. (a). [Pub. L. 100–177][/us/pl/100/177], § 202(e)(1), designated existing provisions as par. (1), and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 100–177, § 202(e)(2)][/us/pl/100/177/s202/e/2], designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted “under section 254l of this title” after first reference to “service obligation” as the probable intent of Congress, struck out at end “Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.”, and added subpar. (B).
+    Subsec. (b)(1). [Pub. L. 100–177][/us/pl/100/177], § 202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted “under section 254l of this title” after first reference to “service obligation” as the probable intent of Congress, struck out at end “Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.”, and added subpar. (B).
 
     Subsec. (b)(1)(B)(i). [Pub. L. 100–203][/us/pl/100/203], as amended by [Pub. L. 100–360][/us/pl/100/360], inserted at end “Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to [section 1395ccc of this title][/us/usc/t42/s1395ccc].”
 
-    Subsec. (c). [Pub. L. 100–177, § 202(e)(4)][/us/pl/100/177/s202/e/4], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 100–177][/us/pl/100/177], § 202(e)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
     Subsec. (d). [Pub. L. 100–177][/us/pl/100/177], §§ 202(e)(3), (5), 308(a), redesignated subsec. (c) as (d), in pars. (1), (2), and (3), inserted “or the Loan Repayment Program (or a contract thereunder”, and in par. (3) inserted “, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable”.
 
     1983—Subsec. (b)(1). [Pub. L. 97–414][/us/pl/97/414] substituted “section 254p(d)” for “section 254q(b)”.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 2709(e)(1)][/us/pl/97/35/s2709/e/1], (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted “254l” for “294t” and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 2709(e)(1), (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted “254l” for “294t” and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
 
-    Subsec. (b). [Pub. L. 97–35, § 2709(e)(1)][/us/pl/97/35/s2709/e/1], (3), redesignated subsec. (c) as (b) and, as so redesignated, designated existing provisions as par. (1) and made numerous changes to reflect renumbering of subpart sections, and added par. (2). Former subsec. (b) redesignated (a).
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2709(e)(1), (3), redesignated subsec. (c) as (b) and, as so redesignated, designated existing provisions as par. (1) and made numerous changes to reflect renumbering of subpart sections, and added par. (2). Former subsec. (b) redesignated (a).
 
-    Subsecs. (c), (d). [Pub. L. 97–35, § 2709(e)(1)][/us/pl/97/35/s2709/e/1], (4)(A), redesignated subsec. (d) as (c) and, as so redesignated, in par. (2) inserted reference to partial or total waiver. Former subsec. (c) redesignated (b).
+    Subsecs. (c), (d). [Pub. L. 97–35][/us/pl/97/35], § 2709(e)(1), (4)(A), redesignated subsec. (d) as (c) and, as so redesignated, in par. (2) inserted reference to partial or total waiver. Former subsec. (c) redesignated (b).
 
     1977—Subsec. (c). [Pub. L. 95–83][/us/pl/95/83] substituted “ ‘ϕ’ is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans” for “ ‘ϕ’ is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan”.
 
@@ -203,11 +203,11 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–251, title III, § 313(b)][/us/pl/107/251/s313/b], Oct. 26, 2002, [116 Stat. 1652][/us/stat/116/1652], which provided that the amendment to this section made by [section 313(a)(4) of Pub. L. 107–251][/us/pl/107/251/s313/a/4] was applicable to any obligation for which a discharge in bankruptcy had not been granted before the date that was 31 days after Oct. 26, 2002, was repealed by [Pub. L. 108–163][/us/pl/108/163], §§ 2(l)(2), 3, Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023], effective immediately after enactment of [Pub. L. 107–251][/us/pl/107/251].
+    [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 313(b), Oct. 26, 2002, [116 Stat. 1652][/us/stat/116/1652], which provided that the amendment to this section made by [section 313(a)(4) of Pub. L. 107–251][/us/pl/107/251/s313/a/4] was applicable to any obligation for which a discharge in bankruptcy had not been granted before the date that was 31 days after Oct. 26, 2002, was repealed by [Pub. L. 108–163][/us/pl/108/163], §§ 2(l)(2), 3, Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023], effective immediately after enactment of [Pub. L. 107–251][/us/pl/107/251].
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–597, title II, § 203(b)][/us/pl/101/597/s203/b], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027], provided that: 
+[Pub. L. 101–597, title II][/us/pl/101/597/tII], § 203(b), Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027], provided that: 
 
 > “With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act \[former [42 U.S.C. 234][/us/usc/t42/s234]\], as in effect prior to the repeal of such section by [section 408(b)(1) of Public Law 94–484][/us/pl/94/484/s408/b/1], the amendment made by subsection (a) of this section \[amending this section\] applies to any backruptcy \[sic\] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
 
@@ -225,11 +225,11 @@
 
  __Special Repayment Provisions__ 
 
-    [Pub. L. 100–177, title II, § 204][/us/pl/100/177/s204], Dec. 1, 1987, [101 Stat. 1000][/us/stat/101/1000], provided that an individual who breached a written contract entered into under section 254l of this title by failing either to begin such individual’s service obligation in accordance with [section 254m of this title][/us/usc/t42/s254m] or to complete such service obligation; or otherwise breached such a contract; and, as of Nov. 1, 1987, was liable to United States under subsec. (b) of this section was to be relieved of liability to United States under such section if the individual provided notice to Secretary and service in accordance with a written contract with the Secretary that obligated the individual to provide service in accordance with section and authorized Secretary to exclude an individual from relief from liability under this section for reasons related to the individual’s professional competence or conduct.
+    [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 204, Dec. 1, 1987, [101 Stat. 1000][/us/stat/101/1000], provided that an individual who breached a written contract entered into under section 254l of this title by failing either to begin such individual’s service obligation in accordance with [section 254m of this title][/us/usc/t42/s254m] or to complete such service obligation; or otherwise breached such a contract; and, as of Nov. 1, 1987, was liable to United States under subsec. (b) of this section was to be relieved of liability to United States under such section if the individual provided notice to Secretary and service in accordance with a written contract with the Secretary that obligated the individual to provide service in accordance with section and authorized Secretary to exclude an individual from relief from liability under this section for reasons related to the individual’s professional competence or conduct.
 
  __Existing Proceedings__ 
 
-[Pub. L. 100–177, title III, § 308(b)][/us/pl/100/177/s308/b], Dec. 1, 1987, [101 Stat. 1006][/us/stat/101/1006], provided that: 
+[Pub. L. 100–177, title III][/us/pl/100/177/tIII], § 308(b), Dec. 1, 1987, [101 Stat. 1006][/us/stat/101/1006], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act \[[42 U.S.C. 254][/us/usc/t42/s254]o(d)(3)\] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act \[Dec. 1, 1987\].”
 
@@ -249,35 +249,35 @@
 [/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2286
-[/us/pl/95/83/s307/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs307%2Fg
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F391
-[/us/pl/97/35/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F908
-[/us/pl/97/414/s8/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fg%2F2
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2061
-[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F992
-[/us/pl/100/203/s4052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4052%2Fb
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-97
-[/us/pl/100/360/s411/f/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Ff%2F10%2FB
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F780
-[/us/pl/101/597/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs203%2Fa
+[/us/pl/101/597/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtII
 [/us/stat/104/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3027
-[/us/pl/107/251/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1651
-[/us/pl/108/163/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2022
 [/us/usc/t42/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs234
-[/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2281
 [/us/usc/t42/s254n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n
 [/us/usc/t42/s294v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294v
-[/us/pl/97/35/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F908
 [/us/usc/t42/s254n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n
-[/us/pl/100/177/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs201%2F2
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F992
 [/us/pl/107/251/s313/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F4
 [/us/usc/t42/s294w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294w
@@ -285,47 +285,47 @@
 [/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/usc/t42/s254p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254p
 [/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
-[/us/pl/108/163/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2
-[/us/pl/108/163/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2
-[/us/pl/107/251/s313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F1
-[/us/pl/107/251/s313/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F2%2FA%2Fii
-[/us/pl/107/251/s313/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F2%2FA%2Fi
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s254p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254p
-[/us/pl/107/251/s313/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F2%2FB
-[/us/pl/107/251/s313/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F3%2FA%2Fii
-[/us/pl/107/251/s313/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F3%2FA%2Fi
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/usc/t42/s254p/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254p%2Fd
-[/us/pl/107/251/s313/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F3%2FB
-[/us/pl/107/251/s313/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F3%2FB
-[/us/pl/107/251/s313/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F4
-[/us/pl/107/251/s313/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F5
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/100/177/s202/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fe%2F6
-[/us/pl/100/177/s202/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fe%2F1
-[/us/pl/100/177/s202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fe%2F2
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/usc/t42/s1395ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ccc
-[/us/pl/100/177/s202/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Fe%2F4
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
-[/us/pl/97/35/s2709/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fe%2F1
-[/us/pl/97/35/s2709/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fe%2F1
-[/us/pl/97/35/s2709/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fe%2F1
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3
 [/us/usc/t42/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233
-[/us/pl/107/251/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fb
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1652
 [/us/pl/107/251/s313/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs313%2Fa%2F4
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
-[/us/pl/101/597/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs203%2Fb
+[/us/pl/101/597/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtII
 [/us/stat/104/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3027
 [/us/usc/t42/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs234
 [/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
@@ -337,10 +337,10 @@
 [/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
 [/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
 [/us/pl/94/484/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F2
-[/us/pl/100/177/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs204
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1000
 [/us/usc/t42/s254m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254m
-[/us/pl/100/177/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs308%2Fb
+[/us/pl/100/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtIII
 [/us/stat/101/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1006
 [/us/usc/t42/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254
 

@@ -69,7 +69,7 @@
 
         This section shall only apply to cases filed after January 1, 1995.
 
-([Pub. L. 104–132, title II, § 235][/us/pl/104/132/s235], Apr. 24, 1996, [110 Stat. 1246][/us/stat/110/1246].)
+([Pub. L. 104–132, title II][/us/pl/104/132/tII], § 235, Apr. 24, 1996, [110 Stat. 1246][/us/stat/110/1246].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 
 [/us/usc/t18/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs402
 [/us/usc/t28/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs331
-[/us/pl/104/132/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs235
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1246
 
 

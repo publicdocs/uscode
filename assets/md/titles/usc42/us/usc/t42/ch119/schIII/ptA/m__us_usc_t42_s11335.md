@@ -17,7 +17,7 @@
 
     The National Board shall transmit to the Congress an annual report covering each year in which it conducts activities with funds made available under this subchapter.
 
-([Pub. L. 100–77, title III, § 305][/us/pl/100/77/s305], July 22, 1987, [101 Stat. 491][/us/stat/101/491].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 305, July 22, 1987, [101 Stat. 491][/us/stat/101/491].)
 
  __Termination of Reporting Requirements__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs305
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F491
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

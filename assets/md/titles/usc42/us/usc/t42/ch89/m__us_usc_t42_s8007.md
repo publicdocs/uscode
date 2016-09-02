@@ -53,7 +53,7 @@
 
         (2) The Secretary shall submit the report to the Congress not later than September 30, 1988.
 
-([Pub. L. 95–557, title IV, § 408][/us/pl/95/557/s408], Oct. 31, 1978, [92 Stat. 2108][/us/stat/92/2108]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 224(a)\], Nov. 30, 1983, [97 Stat. 1191][/us/stat/97/1191]; [Pub. L. 100–242, title I, § 163(b)][/us/pl/100/242/s163/b], (c), Feb. 5, 1988, [101 Stat. 1860][/us/stat/101/1860].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 408, Oct. 31, 1978, [92 Stat. 2108][/us/stat/92/2108]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 224(a)\], Nov. 30, 1983, [97 Stat. 1191][/us/stat/97/1191]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 163(b), (c), Feb. 5, 1988, [101 Stat. 1860][/us/stat/101/1860].)
 
  __Amendments__ 
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/95/557/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs408
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2108
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1191
-[/us/pl/100/242/s163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs163%2Fb
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1860
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181

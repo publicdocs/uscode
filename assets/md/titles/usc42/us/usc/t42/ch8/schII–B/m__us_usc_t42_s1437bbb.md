@@ -39,11 +39,11 @@
 
         (H) achieve such other purposes with respect to low-income families, as determined by the participating local governments and municipalities in coordination with the public housing agencies;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a period. </sup></sup> 
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 401, as added [Pub. L. 105–276, title V, § 561][/us/pl/105/276/s561], Oct. 21, 1998, [112 Stat. 2616][/us/stat/112/2616].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 401, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 561, Oct. 21, 1998, [112 Stat. 2616][/us/stat/112/2616].)
 
  __Effective Date__ 
 
-[Act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 411, as added by [Pub. L. 105–276, title V, § 561][/us/pl/105/276/s561], Oct. 21, 1998, [112 Stat. 2624][/us/stat/112/2624], provided that: 
+[Act Sept. 1, 1937, ch. 896, title IV][/us/act/1937-09-01/ch896/tIV], § 411, as added by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 561, Oct. 21, 1998, [112 Stat. 2624][/us/stat/112/2624], provided that: 
 
 > “This title \[enacting this subchapter\] shall take effect on the date of the enactment of the Quality Housing and Work Responsibility Act of 1998 \[Oct. 21, 1998\].”
 
@@ -55,10 +55,10 @@
 ----------
 
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs561
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2616
-[/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs561
+[/us/act/1937-09-01/ch896/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896%2FtIV
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2624
 
 

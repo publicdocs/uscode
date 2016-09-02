@@ -17,7 +17,7 @@
 
     The Attorney General shall consult with the Secretary of the Department of Health and Human Services in establishing and carrying out the substance abuse treatment and prevention components of the programs authorized under this Act, to assure coordination of programs, eliminate duplication of efforts and enhance the effectiveness of such services.
 
-([Pub. L. 103–322, title XXXII, § 320401][/us/pl/103/322/s320401], Sept. 13, 1994, [108 Stat. 2114][/us/stat/108/2114].)
+([Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320401, Sept. 13, 1994, [108 Stat. 2114][/us/stat/108/2114].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320401
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2114
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1796

@@ -47,7 +47,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section, $25,000,000 for each of the fiscal years 1993, 1994, and 1995.
 
-([Pub. L. 102–486, title IV, § 414][/us/pl/102/486/s414], Oct. 24, 1992, [106 Stat. 2886][/us/stat/106/2886].)
+([Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 414, Oct. 24, 1992, [106 Stat. 2886][/us/stat/106/2886].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t42/s13238/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13238%2Fc
-[/us/pl/102/486/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs414
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2886
 
 

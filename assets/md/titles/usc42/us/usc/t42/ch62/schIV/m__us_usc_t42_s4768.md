@@ -19,7 +19,7 @@
 
     (b) Members of advisory committees who are not regular full-time employees of the United States, while serving on the business of the committees including traveltime may receive compensation at rates not exceeding the daily rate for GS–18; and while so serving away from their homes or regular places of business may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703] for individuals in the Government service employed intermittently.
 
-([Pub. L. 91–648, title V, § 508][/us/pl/91/648/s508], Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 508, Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/91/648/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs508
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1928
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761

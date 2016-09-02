@@ -121,7 +121,7 @@
 
         The Director of NIH may transfer amounts appropriated under this section to any of the Institutes for a fiscal year to carry out the purposes of the Initiative under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409D, as added [Pub. L. 106–310, div. A, title X, § 1001][/us/pl/106/310/s1001], Oct. 17, 2000, [114 Stat. 1127][/us/stat/114/1127]; amended [Pub. L. 109–482, title I, § 103(b)(10)][/us/pl/109/482/s103/b/10], Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687]; [Pub. L. 110–154, § 1(b)(4)][/us/pl/110/154/s1/b/4], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 113–55, title II, § 202][/us/pl/113/55/s202], Nov. 27, 2013, [127 Stat. 644][/us/stat/127/644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409D, as added [Pub. L. 106–310, div. A, title X][/us/pl/106/310/dA/tX], § 1001, Oct. 17, 2000, [114 Stat. 1127][/us/stat/114/1127]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(10), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687]; [Pub. L. 110–154][/us/pl/110/154], § 1(b)(4), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 113–55, title II][/us/pl/113/55/tII], § 202, Nov. 27, 2013, [127 Stat. 644][/us/stat/127/644].)
 
  __Codification__ 
 
@@ -147,13 +147,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1001
+[/us/pl/106/310/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtX
 [/us/stat/114/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1127
-[/us/pl/109/482/s103/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F10
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/110/154/s1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fb%2F4
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
-[/us/pl/113/55/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs202
+[/us/pl/113/55/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2FtII
 [/us/stat/127/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F644
 [/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154

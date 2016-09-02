@@ -17,7 +17,7 @@
 
     All appointments to advisory committees established to assist in implementing the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\], <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[[42 U.S.C. 4541][/us/usc/t42/s4541] et seq.\], shall be made without regard to political affiliation.
 
-([Pub. L. 94–278, title X, § 1001][/us/pl/94/278/s1001], Apr. 22, 1976, [90 Stat. 415][/us/stat/90/415]; [Pub. L. 111–256, § 2(e)][/us/pl/111/256/s2/e], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
+([Pub. L. 94–278, title X][/us/pl/94/278/tX], § 1001, Apr. 22, 1976, [90 Stat. 415][/us/stat/90/415]; [Pub. L. 111–256][/us/pl/111/256], § 2(e), Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s4541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4541
-[/us/pl/94/278/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs1001
+[/us/pl/94/278/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtX
 [/us/stat/90/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F415
-[/us/pl/111/256/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fe
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

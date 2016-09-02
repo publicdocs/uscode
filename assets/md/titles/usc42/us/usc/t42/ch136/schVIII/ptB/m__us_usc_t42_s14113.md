@@ -71,7 +71,7 @@
 
         Funds received under this part shall only be used to supplement, and not to supplant, Federal, State, or local efforts for recruitment and education of law enforcement personnel.
 
-([Pub. L. 103–322, title XX, § 200204][/us/pl/103/322/s200204], Sept. 13, 1994, [108 Stat. 2058][/us/stat/108/2058].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200204, Sept. 13, 1994, [108 Stat. 2058][/us/stat/108/2058].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t42/s14112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14112
 [/us/usc/t42/s14112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14112
 [/us/usc/t42/s14112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14112
-[/us/pl/103/322/s200204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200204
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2058
 [/us/usc/t42/s14116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14116
 [/us/pl/103/322/s200207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200207

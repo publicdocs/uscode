@@ -21,7 +21,7 @@
 
     (2) natural gas storage including increased deliverability from existing gas storage facilities and new capabilities for storage near demand centers, and on-site storage at major energy consuming facilities.
 
-([Pub. L. 102–486, title XX, § 2014][/us/pl/102/486/s2014], Oct. 24, 1992, [106 Stat. 3060][/us/stat/106/3060].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2014, Oct. 24, 1992, [106 Stat. 3060][/us/stat/106/3060].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2014
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3060
 
 

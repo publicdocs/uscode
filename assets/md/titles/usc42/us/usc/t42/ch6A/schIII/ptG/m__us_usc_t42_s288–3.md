@@ -33,7 +33,7 @@
 
         With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter, the provisions of such subpart shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection (a) of this section in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program established in such subpart.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487C, as added [Pub. L. 103–43, title XVI, § 1621][/us/pl/103/43/s1621], June 10, 1993, [107 Stat. 182][/us/stat/107/182]; amended [Pub. L. 105–392, title IV, § 410(c)][/us/pl/105/392/s410/c], Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487C, as added [Pub. L. 103–43, title XVI][/us/pl/103/43/tXVI], § 1621, June 10, 1993, [107 Stat. 182][/us/stat/107/182]; amended [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 410(c), Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1621
+[/us/pl/103/43/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVI
 [/us/stat/107/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F182
-[/us/pl/105/392/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs410%2Fc
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3589
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 

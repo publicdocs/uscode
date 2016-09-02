@@ -151,17 +151,17 @@
 
             No requirement of an applicable implementation plan under [section 7475 of this title][/us/usc/t42/s7475] (relating to construction of facilities in regions identified pursuant to section 7407(d)(1)(A)(ii) or (iii) of this title) or under [section 7502(c)(5) of this title][/us/usc/t42/s7502/c/5] (relating to permits for construction and operation in nonattainment areas) may be used to weaken the standards in effect under this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 129, as added [Pub. L. 101–549, title III, § 305(a)][/us/pl/101/549/s305/a], Nov. 15, 1990, [104 Stat. 2577][/us/stat/104/2577].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 129, as added [Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 305(a), Nov. 15, 1990, [104 Stat. 2577][/us/stat/104/2577].)
 
  __References in Text__ 
 
     Section 306 of the Clean Air Act Amendments of 1990, referred to in subsec. (g), probably means [section 306 of Pub. L. 101–549][/us/pl/101/549/s306], which is set out as a note under [section 6921 of this title][/us/usc/t42/s6921].
 
-    The Solid Waste Disposal Act, referred to in subsec. (g)(6), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (g)(6), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
  __Review of Acid Gas Scrubbing Requirements__ 
 
-[Pub. L. 101–549, title III, § 305(c)][/us/pl/101/549/s305/c], Nov. 15, 1990, [104 Stat. 2583][/us/stat/104/2583], provided that: 
+[Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 305(c), Nov. 15, 1990, [104 Stat. 2583][/us/stat/104/2583], provided that: 
 
 > “Prior to the promulgation of any performance standard for solid waste incineration units combusting municipal waste under section 111 or section 129 of the Clean Air Act \[[42 U.S.C. 7411][/us/usc/t42/s7411], 7429\], the Administrator shall review the availability of acid gas scrubbers as a pollution control technology for small new units and for existing units (as defined in 54 Federal Register 52190 (December 20, 1989)\[)\], taking into account the provisions of subsection (a)(2) of section 129 of the Clean Air Act.”
 
@@ -209,16 +209,16 @@
 [/us/usc/t42/s7475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7475
 [/us/usc/t42/s7502/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7502%2Fc%2F5
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs305%2Fa
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2577
 [/us/pl/101/549/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs306
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/101/549/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs305%2Fc
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2583
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 

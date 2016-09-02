@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 109–155, title III, § 307][/us/pl/109/155/s307], Dec. 30, 2005, [119 Stat. 2919][/us/stat/119/2919]; [Pub. L. 110–234, title VII, § 7511(c)(40)][/us/pl/110/234/s7511/c/40], May 22, 2008, [122 Stat. 1271][/us/stat/122/1271]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(40), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032, which related to Administrator’s review of Headquarters Earth-Sun System Applied Sciences Program research and development implemented in calendar years 2001 to 2005, and required report to be submitted to congressional committees not later than one year after Dec. 30, 2005, was omitted from the Code following the enactment of Title 51, National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314].
+    Section, [Pub. L. 109–155, title III][/us/pl/109/155/tIII], § 307, Dec. 30, 2005, [119 Stat. 2919][/us/stat/119/2919]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(40), May 22, 2008, [122 Stat. 1271][/us/stat/122/1271]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(40), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032, which related to Administrator’s review of Headquarters Earth-Sun System Applied Sciences Program research and development implemented in calendar years 2001 to 2005, and required report to be submitted to congressional committees not later than one year after Dec. 30, 2005, was omitted from the Code following the enactment of Title 51, National and Commercial Space Programs, by [Pub. L. 111–314][/us/pl/111/314].
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/109/155/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs307
+[/us/pl/109/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtIII
 [/us/stat/119/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2919
-[/us/pl/110/234/s7511/c/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F40
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1271
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 

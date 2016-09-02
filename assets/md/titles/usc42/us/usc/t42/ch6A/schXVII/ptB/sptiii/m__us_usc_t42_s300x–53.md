@@ -33,7 +33,7 @@
 
         The Secretary may make a grant under section 300x or 300x–21 of this title only if the State involved has in effect a system to protect from inappropriate disclosure patient records maintained by the State in connection with an activity funded under the program involved or by any entity which is receiving amounts from the grant.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1943, as added [Pub. L. 102–321, title II, § 203(a)][/us/pl/102/321/s203/a], July 10, 1992, [106 Stat. 404][/us/stat/106/404]; amended [Pub. L. 102–352, § 2(a)(12)][/us/pl/102/352/s2/a/12], Aug. 26, 1992, [106 Stat. 939][/us/stat/106/939].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1943, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 203(a), July 10, 1992, [106 Stat. 404][/us/stat/106/404]; amended [Pub. L. 102–352][/us/pl/102/352], § 2(a)(12), Aug. 26, 1992, [106 Stat. 939][/us/stat/106/939].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t42/s300x–55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9355
 [/us/usc/t42/s290aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%934
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fa
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F404
-[/us/pl/102/352/s2/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F12
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F939
 [/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/usc/t42/s290aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%934

@@ -49,7 +49,7 @@
 
         The clearinghouse under this section (as amended by section 103 of the Housing Affordability Barrier Removal Act of 2000) shall be established and commence carrying out the functions of the clearinghouse under this section not later than 1 year after December 27, 2000. The Secretary of Housing and Urban Development may comply with the requirements under this section by reestablishing the clearinghouse that was originally established to comply with this section and updating and improving such clearinghouse to the extent necessary to comply with the requirements of this section as in effect pursuant to the enactment of such Act.
 
-([Pub. L. 102–550, title XII, § 1205][/us/pl/102/550/s1205], Oct. 28, 1992, [106 Stat. 3940][/us/stat/106/3940]; [Pub. L. 106–569, title I, § 103][/us/pl/106/569/s103], Dec. 27, 2000, [114 Stat. 2947][/us/stat/114/2947].)
+([Pub. L. 102–550, title XII][/us/pl/102/550/tXII], § 1205, Oct. 28, 1992, [106 Stat. 3940][/us/stat/106/3940]; [Pub. L. 106–569, title I][/us/pl/106/569/tI], § 103, Dec. 27, 2000, [114 Stat. 2947][/us/stat/114/2947].)
 
  __References in Text__ 
 
@@ -61,17 +61,17 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–569, § 103(1)(A)][/us/pl/106/569/s103/1/A], substituted “serve as a national repository to receive, collect, process, assemble, and disseminate” for “receive, collect, process, and assemble” in introductory provisions.
+    2000—Subsec. (a). [Pub. L. 106–569][/us/pl/106/569], § 103(1)(A), substituted “serve as a national repository to receive, collect, process, assemble, and disseminate” for “receive, collect, process, and assemble” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 106–569, § 103(1)(B)][/us/pl/106/569/s103/1/B], substituted “(including” for “, including” and inserted “), and the prevalence and effects on affordable housing of such laws, regulations, and policies” before semicolon at end.
+    Subsec. (a)(1). [Pub. L. 106–569][/us/pl/106/569], § 103(1)(B), substituted “(including” for “, including” and inserted “), and the prevalence and effects on affordable housing of such laws, regulations, and policies” before semicolon at end.
 
-    Subsec. (a)(2). [Pub. L. 106–569, § 103(1)(C)][/us/pl/106/569/s103/1/C], inserted before semicolon “, including particularly innovative or successful activities, strategies, and plans”.
+    Subsec. (a)(2). [Pub. L. 106–569][/us/pl/106/569], § 103(1)(C), inserted before semicolon “, including particularly innovative or successful activities, strategies, and plans”.
 
-    Subsec. (a)(3). [Pub. L. 106–569, § 103(1)(D)][/us/pl/106/569/s103/1/D], inserted before period at end “, including particularly innovative or successful strategies, activities, and plans”.
+    Subsec. (a)(3). [Pub. L. 106–569][/us/pl/106/569], § 103(1)(D), inserted before period at end “, including particularly innovative or successful strategies, activities, and plans”.
 
-    Subsec. (b)(3). [Pub. L. 106–569, § 103(2)][/us/pl/106/569/s103/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 106–569][/us/pl/106/569], § 103(2), added par. (3).
 
-    Subsecs. (c), (d). [Pub. L. 106–569, § 103(3)][/us/pl/106/569/s103/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 106–569][/us/pl/106/569], § 103(3), added subsecs. (c) and (d).
 
 ----------
 
@@ -80,18 +80,18 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1205
+[/us/pl/102/550/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXII
 [/us/stat/106/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3940
-[/us/pl/106/569/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs103
+[/us/pl/106/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtI
 [/us/stat/114/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2947
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/stat/114/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2946
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
-[/us/pl/106/569/s103/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs103%2F1%2FA
-[/us/pl/106/569/s103/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs103%2F1%2FB
-[/us/pl/106/569/s103/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs103%2F1%2FC
-[/us/pl/106/569/s103/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs103%2F1%2FD
-[/us/pl/106/569/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs103%2F2
-[/us/pl/106/569/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs103%2F3
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
+[/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 
 

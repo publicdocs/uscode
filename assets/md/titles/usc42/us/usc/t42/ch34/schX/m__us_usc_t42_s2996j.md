@@ -21,7 +21,7 @@
 
     (2) financial assistance under this subchapter shall not be terminated, an application for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than thirty days, unless the grantee, contractor, or person or entity receiving financial assistance under this subchapter has been afforded reasonable notice and opportunity for a timely, full, and fair hearing, and, when requested, such hearing shall be conducted by an independent hearing examiner. Such hearing shall be held prior to any final decision by the Corporation to terminate financial assistance or suspend or deny funding. Hearing examiners shall be appointed by the Corporation in accordance with procedures established in regulations promulgated by the Corporation.
 
-([Pub. L. 88–452, title X, § 1011][/us/pl/88/452/s1011], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 388][/us/stat/88/388]; amended [Pub. L. 95–222, § 16][/us/pl/95/222/s16], Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1011, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 388][/us/stat/88/388]; amended [Pub. L. 95–222][/us/pl/95/222], § 16, Dec. 28, 1977, [91 Stat. 1624][/us/stat/91/1624].)
 
  __Amendments__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/88/452/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1011
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F388
-[/us/pl/95/222/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222%2Fs16
+[/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/stat/91/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1624
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222
 [/us/pl/95/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F222

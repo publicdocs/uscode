@@ -29,15 +29,15 @@
 
         for the purpose of coordinating research and extension activities.
 
-([Pub. L. 96–294, title II, § 257][/us/pl/96/294/s257], June 30, 1980, [94 Stat. 708][/us/stat/94/708]; [Pub. L. 97–98, title XIV, § 1406(c)][/us/pl/97/98/s1406/c], Dec. 22, 1981, [95 Stat. 1299][/us/stat/95/1299].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 257, June 30, 1980, [94 Stat. 708][/us/stat/94/708]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1406(c), Dec. 22, 1981, [95 Stat. 1299][/us/stat/95/1299].)
 
  __References in Text__ 
 
     This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 251–262) of title II of [Pub. L. 96–294][/us/pl/96/294], June 30, 1980, [94 Stat. 705][/us/stat/94/705], which enacted this subchapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
 
-    [7 U.S.C. 3154][/us/usc/t7/s3154], referred to in subsec. (a), was repealed by [Pub. L. 110–246, title VII, § 7110(a)][/us/pl/110/246/s7110/a], June 18, 2008, [122 Stat. 1980][/us/stat/122/1980].
+    [7 U.S.C. 3154][/us/usc/t7/s3154], referred to in subsec. (a), was repealed by [Pub. L. 110–246, title VII][/us/pl/110/246/tVII], § 7110(a), June 18, 2008, [122 Stat. 1980][/us/stat/122/1980].
 
-    [7 U.S.C. 3129][/us/usc/t7/s3129], referred to in subsec. (a), was repealed by [Pub. L. 101–624, title XVI, § 1601(f)(1)(C)][/us/pl/101/624/s1601/f/1/C], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
+    [7 U.S.C. 3129][/us/usc/t7/s3129], referred to in subsec. (a), was repealed by [Pub. L. 101–624, title XVI][/us/pl/101/624/tXVI], § 1601(f)(1)(C), Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
 
  __Amendments__ 
 
@@ -59,17 +59,17 @@
 [/us/usc/t7/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427
 [/us/usc/t16/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642
 [/us/usc/t7/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs341
-[/us/pl/96/294/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs257
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F708
-[/us/pl/97/98/s1406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1406%2Fc
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1299
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F705
 [/us/usc/t7/s3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3154
-[/us/pl/110/246/s7110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7110%2Fa
+[/us/pl/110/246/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtVII
 [/us/stat/122/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1980
 [/us/usc/t7/s3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3129
-[/us/pl/101/624/s1601/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Ff%2F1%2FC
+[/us/pl/101/624/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVI
 [/us/stat/104/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3704
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98

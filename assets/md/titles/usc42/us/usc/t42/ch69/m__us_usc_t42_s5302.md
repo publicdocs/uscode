@@ -149,15 +149,15 @@
 
         Any county seeking qualification as an urban county, including any urban county seeking to continue such qualification, shall notify, as provided in this subsection, each unit of general local government, which is included therein and is eligible to elect to have its population excluded from that of an urban county under subsection (a)(6)(A)(ii)(I)(a) of this section, of its opportunity to make such an election. Such notification shall, at a time and in a manner prescribed by the Secretary, be provided so as to provide a reasonable period for response prior to the period for which such qualification is sought. The population of any unit of general local government which is provided such notification and which does not inform, at a time and in a manner prescribed by the Secretary, the county of its election to exclude its population from that of the county shall, if the county qualifies as an urban county, be included in the population of such urban county as provided in subsection (d) of this section.
 
-([Pub. L. 93–383, title I, § 102][/us/pl/93/383/s102], Aug. 22, 1974, [88 Stat. 635][/us/stat/88/635]; [Pub. L. 95–128, title I, § 102][/us/pl/95/128/s102], Oct. 12, 1977, [91 Stat. 1111][/us/stat/91/1111]; [Pub. L. 96–153, title I, § 103(f)][/us/pl/96/153/s103/f], Dec. 21, 1979, [93 Stat. 1102][/us/stat/93/1102]; [Pub. L. 96–399, title I][/us/pl/96/399], §§ 101(a), (b)(1), (c), 111(a), Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], 1620; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 309(a)–(c), 310, Aug. 13, 1981, [95 Stat. 396][/us/stat/95/396], 397; [Pub. L. 97–289, § 5][/us/pl/97/289/s5], Oct. 6, 1982, [96 Stat. 1231][/us/stat/96/1231]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 102\], Nov. 30, 1983, [97 Stat. 1159][/us/stat/97/1159]; [Pub. L. 98–479, title I, § 101(a)(1)][/us/pl/98/479/s101/a/1]–(4), title II, § 203(l)(1), Oct. 17, 1984, [98 Stat. 2218][/us/stat/98/2218], 2219, 2231; [Pub. L. 99–120, § 5(a)][/us/pl/99/120/s5/a], Oct. 8, 1985, [99 Stat. 504][/us/stat/99/504]; [Pub. L. 99–156, § 5(a)][/us/pl/99/156/s5/a], Nov. 15, 1985, [99 Stat. 816][/us/stat/99/816]; [Pub. L. 99–219, § 5(a)][/us/pl/99/219/s5/a], Dec. 26, 1985, [99 Stat. 1731][/us/stat/99/1731]; [Pub. L. 99–267, § 5(a)][/us/pl/99/267/s5/a], Mar. 27, 1986, [100 Stat. 74][/us/stat/100/74]; [Pub. L. 99–272, title III, § 3011(a)][/us/pl/99/272/s3011/a], title XIV, § 14001(b)(3), Apr. 7, 1986, [100 Stat. 106][/us/stat/100/106], 328; [Pub. L. 99–289, § 1(b)][/us/pl/99/289/s1/b], May 2, 1986, [100 Stat. 412][/us/stat/100/412]; [Pub. L. 99–345, § 1][/us/pl/99/345/s1], June 24, 1986, [100 Stat. 673][/us/stat/100/673]; [Pub. L. 99–430][/us/pl/99/430], Sept. 30, 1986, [100 Stat. 986][/us/stat/100/986]; [Pub. L. 100–77, title IV, § 442][/us/pl/100/77/s442], July 22, 1987, [101 Stat. 509][/us/stat/101/509]; [Pub. L. 100–122, § 1][/us/pl/100/122/s1], Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793]; [Pub. L. 100–154][/us/pl/100/154], Nov. 5, 1987, [101 Stat. 890][/us/stat/101/890]; [Pub. L. 100–170][/us/pl/100/170], Nov. 17, 1987, [101 Stat. 914][/us/stat/101/914]; [Pub. L. 100–179][/us/pl/100/179], Dec. 3, 1987, [101 Stat. 1018][/us/stat/101/1018]; [Pub. L. 100–200][/us/pl/100/200], Dec. 21, 1987, [101 Stat. 1327][/us/stat/101/1327]; [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title I, § 101\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–193; [Pub. L. 100–242, title V, § 503][/us/pl/100/242/s503], Feb. 5, 1988, [101 Stat. 1923][/us/stat/101/1923]; [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1081, 1082(a), Nov. 7, 1988, [102 Stat. 3276][/us/stat/102/3276], 3277; [Pub. L. 101–235, title VII, § 702(a)][/us/pl/101/235/s702/a], Dec. 15, 1989, [103 Stat. 2056][/us/stat/103/2056]; [Pub. L. 101–507, title II][/us/pl/101/507], Nov. 5, 1990, [104 Stat. 1370][/us/stat/104/1370]; [Pub. L. 101–625, title IX][/us/pl/101/625], §§ 903(a)–(c)(2), 904(a), Nov. 28, 1990, [104 Stat. 4385–4387][/us/stat/104/4385-4387]; [Pub. L. 102–550, title VIII][/us/pl/102/550], §§ 802(a), 803, 807(c)(2), Oct. 28, 1992, [106 Stat. 3845][/us/stat/106/3845], 3849; [Pub. L. 104–204, title II, § 216][/us/pl/104/204/s216], Sept. 26, 1996, [110 Stat. 2904][/us/stat/110/2904]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 217\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–28; [Pub. L. 108–186, title V, § 501(a)][/us/pl/108/186/s501/a], (b), Dec. 16, 2003, [117 Stat. 2696][/us/stat/117/2696]; [Pub. L. 110–161, div. K, title II, § 232][/us/pl/110/161/s232], Dec. 26, 2007, [121 Stat. 2438][/us/stat/121/2438].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 102, Aug. 22, 1974, [88 Stat. 635][/us/stat/88/635]; [Pub. L. 95–128, title I][/us/pl/95/128/tI], § 102, Oct. 12, 1977, [91 Stat. 1111][/us/stat/91/1111]; [Pub. L. 96–153, title I][/us/pl/96/153/tI], § 103(f), Dec. 21, 1979, [93 Stat. 1102][/us/stat/93/1102]; [Pub. L. 96–399, title I][/us/pl/96/399/tI], §§ 101(a), (b)(1), (c), 111(a), Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], 1620; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 309(a)–(c), 310, Aug. 13, 1981, [95 Stat. 396][/us/stat/95/396], 397; [Pub. L. 97–289][/us/pl/97/289], § 5, Oct. 6, 1982, [96 Stat. 1231][/us/stat/96/1231]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 102\], Nov. 30, 1983, [97 Stat. 1159][/us/stat/97/1159]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 101(a)(1)–(4), title II, § 203(l)(1), Oct. 17, 1984, [98 Stat. 2218][/us/stat/98/2218], 2219, 2231; [Pub. L. 99–120][/us/pl/99/120], § 5(a), Oct. 8, 1985, [99 Stat. 504][/us/stat/99/504]; [Pub. L. 99–156][/us/pl/99/156], § 5(a), Nov. 15, 1985, [99 Stat. 816][/us/stat/99/816]; [Pub. L. 99–219][/us/pl/99/219], § 5(a), Dec. 26, 1985, [99 Stat. 1731][/us/stat/99/1731]; [Pub. L. 99–267][/us/pl/99/267], § 5(a), Mar. 27, 1986, [100 Stat. 74][/us/stat/100/74]; [Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3011(a), title XIV, § 14001(b)(3), Apr. 7, 1986, [100 Stat. 106][/us/stat/100/106], 328; [Pub. L. 99–289][/us/pl/99/289], § 1(b), May 2, 1986, [100 Stat. 412][/us/stat/100/412]; [Pub. L. 99–345][/us/pl/99/345], § 1, June 24, 1986, [100 Stat. 673][/us/stat/100/673]; [Pub. L. 99–430][/us/pl/99/430], Sept. 30, 1986, [100 Stat. 986][/us/stat/100/986]; [Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 442, July 22, 1987, [101 Stat. 509][/us/stat/101/509]; [Pub. L. 100–122][/us/pl/100/122], § 1, Sept. 30, 1987, [101 Stat. 793][/us/stat/101/793]; [Pub. L. 100–154][/us/pl/100/154], Nov. 5, 1987, [101 Stat. 890][/us/stat/101/890]; [Pub. L. 100–170][/us/pl/100/170], Nov. 17, 1987, [101 Stat. 914][/us/stat/101/914]; [Pub. L. 100–179][/us/pl/100/179], Dec. 3, 1987, [101 Stat. 1018][/us/stat/101/1018]; [Pub. L. 100–200][/us/pl/100/200], Dec. 21, 1987, [101 Stat. 1327][/us/stat/101/1327]; [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title I, § 101\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–193; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 503, Feb. 5, 1988, [101 Stat. 1923][/us/stat/101/1923]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], §§ 1081, 1082(a), Nov. 7, 1988, [102 Stat. 3276][/us/stat/102/3276], 3277; [Pub. L. 101–235, title VII][/us/pl/101/235/tVII], § 702(a), Dec. 15, 1989, [103 Stat. 2056][/us/stat/103/2056]; [Pub. L. 101–507, title II][/us/pl/101/507/tII], Nov. 5, 1990, [104 Stat. 1370][/us/stat/104/1370]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], §§ 903(a)–(c)(2), 904(a), Nov. 28, 1990, [104 Stat. 4385–4387][/us/stat/104/4385-4387]; [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], §§ 802(a), 803, 807(c)(2), Oct. 28, 1992, [106 Stat. 3845][/us/stat/106/3845], 3849; [Pub. L. 104–204, title II][/us/pl/104/204/tII], § 216, Sept. 26, 1996, [110 Stat. 2904][/us/stat/110/2904]; [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 217\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–28; [Pub. L. 108–186, title V][/us/pl/108/186/tV], § 501(a), (b), Dec. 16, 2003, [117 Stat. 2696][/us/stat/117/2696]; [Pub. L. 110–161, div. K, title II][/us/pl/110/161/dK/tII], § 232, Dec. 26, 2007, [121 Stat. 2438][/us/stat/121/2438].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I of [Pub. L. 93–383][/us/pl/93/383], Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
-    Sections 4512 and 4513 of this title, referred to in subsec. (a)(1), were repealed by [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 474(e)\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239].
+    Sections 4512 and 4513 of this title, referred to in subsec. (a)(1), were repealed by [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 474(e)\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239].
 
-    The Housing and Urban Development Act of 1968, referred to in subsec. (a)(1), is [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 476][/us/stat/82/476]. Title IV of the Housing and Urban Development Act of 1968, which was classified principally to chapter 48 (§ 3901 et seq.) of this title, was repealed, with certain exceptions which were omitted from the Code, by [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 474(e)\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239]. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking, and Tables.
+    The Housing and Urban Development Act of 1968, referred to in subsec. (a)(1), is [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 476][/us/stat/82/476]. Title IV of the Housing and Urban Development Act of 1968, which was classified principally to chapter 48 (§ 3901 et seq.) of this title, was repealed, with certain exceptions which were omitted from the Code, by [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 474(e)\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239]. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking, and Tables.
 
     Section 608 of the Military Construction Authorization Act, 1975, referred to in subsec. (a)(6)(D)(v)(II), is not classified to the Code.
 
@@ -167,57 +167,57 @@
 
     The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(17), is [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25][/us/usc/t25/s450] and Tables.
 
-    Chapter 67 of title 31, referred to in subsec. (a)(17), was repealed by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327].
+    Chapter 67 of title 31, referred to in subsec. (a)(17), was repealed by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327].
 
  __Amendments__ 
 
     2007—Subsec. (a)(4). [Pub. L. 110–161][/us/pl/110/161] inserted at end “Notwithstanding any other provision of this paragraph, with respect to any fiscal year beginning after September 30, 2007, the cities of Alton and Granite City, Illinois, shall be considered metropolitan cities for purposes of this chapter.”
 
-    2003—Subsec. (a)(1). [Pub. L. 108–186, § 501(b)][/us/pl/108/186/s501/b], in first sentence, inserted “and” after “Secretary;” and struck out “; and the Trust Territory of the Pacific Islands” after “the District of Columbia”.
+    2003—Subsec. (a)(1). [Pub. L. 108–186][/us/pl/108/186], § 501(b), in first sentence, inserted “and” after “Secretary;” and struck out “; and the Trust Territory of the Pacific Islands” after “the District of Columbia”.
 
-    Subsec. (a)(24). [Pub. L. 108–186, § 501(a)][/us/pl/108/186/s501/a], added par. (24).
+    Subsec. (a)(24). [Pub. L. 108–186][/us/pl/108/186], § 501(a), added par. (24).
 
     2000—Subsec. (a)(6)(D)(vii), (viii). [Pub. L. 106–377][/us/pl/106/377] added cls. (vii) and (viii).
 
     1996—Subsec. (a)(6)(D)(vi). [Pub. L. 104–204][/us/pl/104/204] added cl. (vi).
 
-    1992—Subsec. (a)(1). [Pub. L. 102–550, § 802(a)][/us/pl/102/550/s802/a], substituted “that, except as provided in [section 5306(d)(4) of this title][/us/usc/t42/s5306/d/4], is recognized by the Secretary” for “recognized by the Secretary”.
+    1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550], § 802(a), substituted “that, except as provided in [section 5306(d)(4) of this title][/us/usc/t42/s5306/d/4], is recognized by the Secretary” for “recognized by the Secretary”.
 
-    Subsec. (a)(6)(D)(v). [Pub. L. 102–550, § 803][/us/pl/102/550/s803], added cl. (v).
+    Subsec. (a)(6)(D)(v). [Pub. L. 102–550][/us/pl/102/550], § 803, added cl. (v).
 
-    Subsec. (a)(22), (23). [Pub. L. 102–550, § 807(c)(2)][/us/pl/102/550/s807/c/2], added pars. (22) and (23).
+    Subsec. (a)(22), (23). [Pub. L. 102–550][/us/pl/102/550], § 807(c)(2), added pars. (22) and (23).
 
-    1990—Subsec. (a)(4). [Pub. L. 101–625, § 903(c)(1)][/us/pl/101/625/s903/c/1], inserted at end “Any unit of general local government that was classified as a metropolitan city in any fiscal year, may, upon submission of written notification to the Secretary, relinquish such classification for all purposes under this chapter if it elects to have its population included with the population of a county for purposes of qualifying for assistance (for such following fiscal year) under [section 5306 of this title][/us/usc/t42/s5306] as an urban county under paragraph (6)(D). Any metropolitan city that elects to relinquish its classification under the preceding sentence and whose port authority shipped at least 35,000,000 tons of cargo in 1988, of which iron ore made up at least half, shall not receive, in any fiscal year, a total amount of assistance under [section 5306 of this title][/us/usc/t42/s5306] from the urban county recipient that is less than the city would have received if it had not relinquished the classification under the preceding sentence.”
+    1990—Subsec. (a)(4). [Pub. L. 101–625][/us/pl/101/625], § 903(c)(1), inserted at end “Any unit of general local government that was classified as a metropolitan city in any fiscal year, may, upon submission of written notification to the Secretary, relinquish such classification for all purposes under this chapter if it elects to have its population included with the population of a county for purposes of qualifying for assistance (for such following fiscal year) under [section 5306 of this title][/us/usc/t42/s5306] as an urban county under paragraph (6)(D). Any metropolitan city that elects to relinquish its classification under the preceding sentence and whose port authority shipped at least 35,000,000 tons of cargo in 1988, of which iron ore made up at least half, shall not receive, in any fiscal year, a total amount of assistance under [section 5306 of this title][/us/usc/t42/s5306] from the urban county recipient that is less than the city would have received if it had not relinquished the classification under the preceding sentence.”
 
-    [Pub. L. 101–625, § 903(a)][/us/pl/101/625/s903/a], substituted “Any city that was classified as a metropolitan city for at least 2 years pursuant to the first sentence of this paragraph shall remain classified as a metropolitan city.” for “In order to permit an orderly transition of each city losing its classification as a metropolitan city by reason of a decrease in population or revisions in the designation of metropolitan areas or central cities, any city classified as or deemed by law to be a metropolitan city for purposes of assistance under any section of this chapter for fiscal year 1983 or any subsequent fiscal year shall retain such qualification for purposes of receiving such assistance through September 30, 1989.”, struck out “for fiscal year 1988 or 1989” before period at end of fourth sentence, and in last sentence struck out “the first or second sentence of” before “this paragraph” and “under such first or second sentence” after “qualifies as a metropolitan city”.
+    [Pub. L. 101–625][/us/pl/101/625], § 903(a), substituted “Any city that was classified as a metropolitan city for at least 2 years pursuant to the first sentence of this paragraph shall remain classified as a metropolitan city.” for “In order to permit an orderly transition of each city losing its classification as a metropolitan city by reason of a decrease in population or revisions in the designation of metropolitan areas or central cities, any city classified as or deemed by law to be a metropolitan city for purposes of assistance under any section of this chapter for fiscal year 1983 or any subsequent fiscal year shall retain such qualification for purposes of receiving such assistance through September 30, 1989.”, struck out “for fiscal year 1988 or 1989” before period at end of fourth sentence, and in last sentence struck out “the first or second sentence of” before “this paragraph” and “under such first or second sentence” after “qualifies as a metropolitan city”.
 
-    Subsec. (a)(6)(B). [Pub. L. 101–625, § 903(b)][/us/pl/101/625/s903/b], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In order to permit an orderly transition of each county losing its classification as an urban county by reason of a decrease in population, any county classified as or deemed to be an urban county under this paragraph for purposes of receiving assistance under any section of this chapter for fiscal year 1983 or subsequent years shall retain such qualification for purposes of receiving such assistance through September 30, 1989, or for such longer period covered by a cooperation agreement entered into during fiscal year 1984, except that the provisions of this subparagraph shall not apply with respect to any county losing its classification as an urban county by reason of the election of any unit of general local government included in such county to have its population excluded under clause (ii)(I)(a) of subparagraph (A) or to not renew a cooperation agreement under clause (ii)(I)(b) of such subparagraph.”
+    Subsec. (a)(6)(B). [Pub. L. 101–625][/us/pl/101/625], § 903(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In order to permit an orderly transition of each county losing its classification as an urban county by reason of a decrease in population, any county classified as or deemed to be an urban county under this paragraph for purposes of receiving assistance under any section of this chapter for fiscal year 1983 or subsequent years shall retain such qualification for purposes of receiving such assistance through September 30, 1989, or for such longer period covered by a cooperation agreement entered into during fiscal year 1984, except that the provisions of this subparagraph shall not apply with respect to any county losing its classification as an urban county by reason of the election of any unit of general local government included in such county to have its population excluded under clause (ii)(I)(a) of subparagraph (A) or to not renew a cooperation agreement under clause (ii)(I)(b) of such subparagraph.”
 
-    Subsec. (a)(6)(D)(iv). [Pub. L. 101–625, § 903(c)(2)][/us/pl/101/625/s903/c/2], added cl. (iv).
+    Subsec. (a)(6)(D)(iv). [Pub. L. 101–625][/us/pl/101/625], § 903(c)(2), added cl. (iv).
 
-    Subsec. (a)(12). [Pub. L. 101–507][/us/pl/101/507] and [Pub. L. 101–625, § 904(a)][/us/pl/101/625/s904/a], amended par. (12) identically, inserting at end “Where the boundaries for a metropolitan city or urban county used for the 1980 census have changed as a result of annexation, the current population used to compute extent of growth lag shall be adjusted by multiplying the current population by the ratio of the population based on the 1980 census within the boundaries used for the 1980 census to the population based on the 1980 census within the current boundaries.”
+    Subsec. (a)(12). [Pub. L. 101–507][/us/pl/101/507] and [Pub. L. 101–625][/us/pl/101/625], § 904(a), amended par. (12) identically, inserting at end “Where the boundaries for a metropolitan city or urban county used for the 1980 census have changed as a result of annexation, the current population used to compute extent of growth lag shall be adjusted by multiplying the current population by the ratio of the population based on the 1980 census within the boundaries used for the 1980 census to the population based on the 1980 census within the current boundaries.”
 
     1989—Subsec. (a)(7). [Pub. L. 101–235][/us/pl/101/235] inserted before period at end “and does not include Indian tribes”.
 
-    1988—Subsec. (a)(4). [Pub. L. 100–628, § 1081(a)(1)][/us/pl/100/628/s1081/a/1], substituted “a decrease in population” for “the population data of the 1980 decennial census” and inserted “or any subsequent fiscal year” after “1983” in second sentence.
+    1988—Subsec. (a)(4). [Pub. L. 100–628][/us/pl/100/628], § 1081(a)(1), substituted “a decrease in population” for “the population data of the 1980 decennial census” and inserted “or any subsequent fiscal year” after “1983” in second sentence.
 
-    [Pub. L. 100–628, § 1081(a)(2)][/us/pl/100/628/s1081/a/2], directed that subsec. (a)(4) of this section as similarly amended first by [Pub. L. 100–202][/us/pl/100/202] \[see 1987 Amendment note below\] and later by [section 503(a)(2) of Pub. L. 100–242][/us/pl/100/242/s503/a/2] \[see below\] is amended to read as if the amendment by [Pub. L. 100–242][/us/pl/100/242] had not been enacted.
+    [Pub. L. 100–628][/us/pl/100/628], § 1081(a)(2), directed that subsec. (a)(4) of this section as similarly amended first by [Pub. L. 100–202][/us/pl/100/202] \[see 1987 Amendment note below\] and later by [section 503(a)(2) of Pub. L. 100–242][/us/pl/100/242/s503/a/2] \[see below\] is amended to read as if the amendment by [Pub. L. 100–242][/us/pl/100/242] had not been enacted.
 
-    [Pub. L. 100–242, § 503(a)(1)][/us/pl/100/242/s503/a/1], substituted “September 30, 1989” for “March 15, 1988”.
+    [Pub. L. 100–242][/us/pl/100/242], § 503(a)(1), substituted “September 30, 1989” for “March 15, 1988”.
 
-    [Pub. L. 100–242, § 503(a)(2)][/us/pl/100/242/s503/a/2], made amendment identical to amendment by [Pub. L. 100–202][/us/pl/100/202]. See 1987 Amendment note below.
+    [Pub. L. 100–242][/us/pl/100/242], § 503(a)(2), made amendment identical to amendment by [Pub. L. 100–202][/us/pl/100/202]. See 1987 Amendment note below.
 
-    [Pub. L. 100–242, § 503(a)(3)][/us/pl/100/242/s503/a/3], inserted at end “Any city classified as a metropolitan city pursuant to the first or second sentence of this paragraph, and that no longer qualifies as a metropolitan city under such first or second sentence in a fiscal year beginning after fiscal year 1989, shall retain its classification as a metropolitan city for such fiscal year and the succeeding fiscal year, except that in such succeeding fiscal year (A) the amount of the grant to such city shall be 50 percent of the amount calculated under [section 5306(b) of this title][/us/usc/t42/s5306/b]; and (B) the remaining 50 percent shall be added to the amount allocated under [section 5306(d) of this title][/us/usc/t42/s5306/d] to the State in which the city is located and the city shall be eligible in such succeeding fiscal year to receive a distribution from the State allocation under [section 5306(d) of this title][/us/usc/t42/s5306/d] as increased by this sentence.”
+    [Pub. L. 100–242][/us/pl/100/242], § 503(a)(3), inserted at end “Any city classified as a metropolitan city pursuant to the first or second sentence of this paragraph, and that no longer qualifies as a metropolitan city under such first or second sentence in a fiscal year beginning after fiscal year 1989, shall retain its classification as a metropolitan city for such fiscal year and the succeeding fiscal year, except that in such succeeding fiscal year (A) the amount of the grant to such city shall be 50 percent of the amount calculated under [section 5306(b) of this title][/us/usc/t42/s5306/b]; and (B) the remaining 50 percent shall be added to the amount allocated under [section 5306(d) of this title][/us/usc/t42/s5306/d] to the State in which the city is located and the city shall be eligible in such succeeding fiscal year to receive a distribution from the State allocation under [section 5306(d) of this title][/us/usc/t42/s5306/d] as increased by this sentence.”
 
-    Subsec. (a)(6). [Pub. L. 100–628, § 1081(b)][/us/pl/100/628/s1081/b], substituted a semicolon for last comma in cls. (i) and (ii)(I) of subpar. (A).
+    Subsec. (a)(6). [Pub. L. 100–628][/us/pl/100/628], § 1081(b), substituted a semicolon for last comma in cls. (i) and (ii)(I) of subpar. (A).
 
-    [Pub. L. 100–242, § 503(b)][/us/pl/100/242/s503/b], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘urban county’ means any county within a metropolitan area which (A) is authorized under State law to undertake essential community development and housing assistance activities in its unincorporated areas, if any, which are not units of general local government, and either (B) has a combined population of two hundred thousand or more (excluding the population of metropolitan cities therein) in such unincorporated areas and in its included units of general local government (i) in which it has authority to undertake essential community development and housing assistance activities and which do not elect to have their population excluded or (ii) with which it has entered into cooperation agreements to undertake or to assist in the undertaking of essential community development and housing assistance activities or (C) has a population in excess of one hundred thousand, a population density of at least five thousand persons per square mile, and contains within its boundaries no incorporated places as defined by the United States Bureau of Census. In order to permit an orderly transition of each county losing its classification as an urban county by reason of a decrease in population, any county classified as or deemed to be an urban county under this paragraph for purposes of receiving assistance under any section of this chapter for fiscal year 1983 or 1984 shall retain such qualification for purposes of receiving such assistance through March 15, 1988, or for such longer period covered by a cooperation agreement entered into during fiscal year 1984, except that the provisions of this sentence shall not apply with respect to any county losing its classification as an urban county by reason of the election of any unit of general local government included in such county to have its population excluded under clause (B)(i) of the first sentence or to not renew a cooperation agreement under clause (B)(ii) of such sentence. Notwithstanding the combined population amount set forth in clause (B) of the first sentence, a county shall also qualify as an urban county for purposes of assistance under [section 5306 of this title][/us/usc/t42/s5306] if such county (A) complies with all other requirements set forth in the first sentence; (B) has, according to the most recent available decennial census data, a combined population between 190,000 and 199,999, inclusive, (excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county; (C) had a population growth rate of not less than 15 percent during the most recent 10-year period measured by applicable censuses; and (D) has submitted data satisfactory to the Secretary that it has a combined population of not less than 200,000 (excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county.”
+    [Pub. L. 100–242][/us/pl/100/242], § 503(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘urban county’ means any county within a metropolitan area which (A) is authorized under State law to undertake essential community development and housing assistance activities in its unincorporated areas, if any, which are not units of general local government, and either (B) has a combined population of two hundred thousand or more (excluding the population of metropolitan cities therein) in such unincorporated areas and in its included units of general local government (i) in which it has authority to undertake essential community development and housing assistance activities and which do not elect to have their population excluded or (ii) with which it has entered into cooperation agreements to undertake or to assist in the undertaking of essential community development and housing assistance activities or (C) has a population in excess of one hundred thousand, a population density of at least five thousand persons per square mile, and contains within its boundaries no incorporated places as defined by the United States Bureau of Census. In order to permit an orderly transition of each county losing its classification as an urban county by reason of a decrease in population, any county classified as or deemed to be an urban county under this paragraph for purposes of receiving assistance under any section of this chapter for fiscal year 1983 or 1984 shall retain such qualification for purposes of receiving such assistance through March 15, 1988, or for such longer period covered by a cooperation agreement entered into during fiscal year 1984, except that the provisions of this sentence shall not apply with respect to any county losing its classification as an urban county by reason of the election of any unit of general local government included in such county to have its population excluded under clause (B)(i) of the first sentence or to not renew a cooperation agreement under clause (B)(ii) of such sentence. Notwithstanding the combined population amount set forth in clause (B) of the first sentence, a county shall also qualify as an urban county for purposes of assistance under [section 5306 of this title][/us/usc/t42/s5306] if such county (A) complies with all other requirements set forth in the first sentence; (B) has, according to the most recent available decennial census data, a combined population between 190,000 and 199,999, inclusive, (excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county; (C) had a population growth rate of not less than 15 percent during the most recent 10-year period measured by applicable censuses; and (D) has submitted data satisfactory to the Secretary that it has a combined population of not less than 200,000 (excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county.”
 
-    Subsec. (d). [Pub. L. 100–628, § 1082(a)(1)][/us/pl/100/628/s1082/a/1], substituted “subparagraph (A)(ii) or (D) of subsection (a)(6)” for “subsection (a)(6)(B)”.
+    Subsec. (d). [Pub. L. 100–628][/us/pl/100/628], § 1082(a)(1), substituted “subparagraph (A)(ii) or (D) of subsection (a)(6)” for “subsection (a)(6)(B)”.
 
-    [Pub. L. 100–242, § 503(c)][/us/pl/100/242/s503/c], struck out at end “During any such three-year period, the population of any unit of general local government which is not included in that of the urban county for the first year shall not be eligible for such inclusion in the second or third year, except where the unit of general local government loses the designation of metropolitan city.”
+    [Pub. L. 100–242][/us/pl/100/242], § 503(c), struck out at end “During any such three-year period, the population of any unit of general local government which is not included in that of the urban county for the first year shall not be eligible for such inclusion in the second or third year, except where the unit of general local government loses the designation of metropolitan city.”
 
-    Subsec. (e). [Pub. L. 100–628, § 1082(a)(2)][/us/pl/100/628/s1082/a/2], substituted “subsection (a)(6)(A)(ii)(I)(a)” for “subsection (a)(6)(B)(i)”.
+    Subsec. (e). [Pub. L. 100–628][/us/pl/100/628], § 1082(a)(2), substituted “subsection (a)(6)(A)(ii)(I)(a)” for “subsection (a)(6)(B)(i)”.
 
     1987—Subsec. (a)(4). [Pub. L. 100–202][/us/pl/100/202] inserted third sentence and struck out former third sentence which read as follows: “Any unit of general local government that becomes eligible to be classified as a metropolitan city for fiscal year 1984 or 1985 may, upon submission of written notification to the Secretary, defer its classification as a metropolitan city for all purposes under this chapter for fiscal years 1984, 1985, and 1986 if such unit of general local government elects to have its population included in an urban county under subsection (d) of this section.”
 
@@ -249,95 +249,95 @@
 
     [Pub. L. 99–289][/us/pl/99/289] substituted “June 6, 1986” for “April 30, 1986”.
 
-    [Pub. L. 99–272, § 3011(a)][/us/pl/99/272/s3011/a], directed amendment of pars. (4) and (6) identical to [Pub. L. 99–216][/us/pl/99/216] substituting “March 17, 1986” for “December 15, 1985”.
+    [Pub. L. 99–272][/us/pl/99/272], § 3011(a), directed amendment of pars. (4) and (6) identical to [Pub. L. 99–216][/us/pl/99/216] substituting “March 17, 1986” for “December 15, 1985”.
 
     [Pub. L. 99–267][/us/pl/99/267] substituted “April 30, 1986” for “March 17, 1986”.
 
-    Subsec. (a)(17). [Pub. L. 99–272, § 14001(b)(3)][/us/pl/99/272/s14001/b/3], substituted “or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter” for “or under chapter 67 of title 31”.
+    Subsec. (a)(17). [Pub. L. 99–272][/us/pl/99/272], § 14001(b)(3), substituted “or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter” for “or under chapter 67 of title 31”.
 
-    1985—Subsec. (a)(4). [Pub. L. 99–219, § 5(a)(1)][/us/pl/99/219/s5/a/1], substituted “March 17, 1986” for “December 15, 1985”.
+    1985—Subsec. (a)(4). [Pub. L. 99–219][/us/pl/99/219], § 5(a)(1), substituted “March 17, 1986” for “December 15, 1985”.
 
-    [Pub. L. 99–156, § 5(a)(1)][/us/pl/99/156/s5/a/1], substituted “December 15, 1985” for “November 14, 1985”.
+    [Pub. L. 99–156][/us/pl/99/156], § 5(a)(1), substituted “December 15, 1985” for “November 14, 1985”.
 
-    [Pub. L. 99–120, § 5(a)(1)][/us/pl/99/120/s5/a/1], substituted “through November 14, 1985” for “for fiscal years 1984 and 1985”.
+    [Pub. L. 99–120][/us/pl/99/120], § 5(a)(1), substituted “through November 14, 1985” for “for fiscal years 1984 and 1985”.
 
-    Subsec. (a)(6). [Pub. L. 99–219, § 5(a)(2)][/us/pl/99/219/s5/a/2], substituted “March 17, 1986” for “December 15, 1985”.
+    Subsec. (a)(6). [Pub. L. 99–219][/us/pl/99/219], § 5(a)(2), substituted “March 17, 1986” for “December 15, 1985”.
 
-    [Pub. L. 99–156, § 5(a)(2)][/us/pl/99/156/s5/a/2], substituted “December 15, 1985” for “November 14, 1985”.
+    [Pub. L. 99–156][/us/pl/99/156], § 5(a)(2), substituted “December 15, 1985” for “November 14, 1985”.
 
-    [Pub. L. 99–120, § 5(a)(2)][/us/pl/99/120/s5/a/2], substituted “through November 14, 1985” for “for fiscal years 1984 and 1985”.
+    [Pub. L. 99–120][/us/pl/99/120], § 5(a)(2), substituted “through November 14, 1985” for “for fiscal years 1984 and 1985”.
 
-    1984—Subsec. (a)(4). [Pub. L. 98–479, § 101(a)(1)][/us/pl/98/479/s101/a/1], in last sentence, struck out “while its population is included in an urban county for such fiscal year” after “fiscal year 1984 or 1985”, and substituted “elects” for “continues” and “an” for “such” before “urban county”.
+    1984—Subsec. (a)(4). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(1), in last sentence, struck out “while its population is included in an urban county for such fiscal year” after “fiscal year 1984 or 1985”, and substituted “elects” for “continues” and “an” for “such” before “urban county”.
 
-    Subsec. (a)(6). [Pub. L. 98–479, § 101(a)(2)][/us/pl/98/479/s101/a/2], inserted “, except that the provisions of this sentence shall not apply with respect to any county losing its classification as an urban county by reason of the election of any unit of general local government included in such county to have its population excluded under clause (B)(i) of the first sentence or to not renew a cooperation agreement under clause (B)(ii) of such sentence” at end of second sentence, “, (excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county” at end of cl. (B) in last sentence, and “(excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county” at end of cl. (D) in last sentence.
+    Subsec. (a)(6). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(2), inserted “, except that the provisions of this sentence shall not apply with respect to any county losing its classification as an urban county by reason of the election of any unit of general local government included in such county to have its population excluded under clause (B)(i) of the first sentence or to not renew a cooperation agreement under clause (B)(ii) of such sentence” at end of second sentence, “, (excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county” at end of cl. (B) in last sentence, and “(excluding the population of metropolitan cities therein) in all its unincorporated areas that are not units of general local government and in all units of general local government located within such county” at end of cl. (D) in last sentence.
 
-    Subsec. (a)(17). [Pub. L. 98–479, § 203][/us/pl/98/479/s203](l)(1), substituted “chapter 67 of title 31” for “the State and Local Fiscal Assistance Act of 1972 ([Public Law 92–512][/us/pl/92/512])”.
+    Subsec. (a)(17). [Pub. L. 98–479][/us/pl/98/479], § 203(l)(1), substituted “chapter 67 of title 31” for “the State and Local Fiscal Assistance Act of 1972 ([Public Law 92–512][/us/pl/92/512])”.
 
-    Subsec. (a)(20). [Pub. L. 98–479, § 101(a)(3)][/us/pl/98/479/s101/a/3], in amending par. (20) generally, designated existing provisions as subpar. (A) and substituted “mean families and individuals whose incomes do not exceed 80 percent of the median income of the area involved, as determined by the Secretary with adjustments for smaller and larger families” for “have the meaning given the term ‘lower income families’ in [section 1437a(b)(2) of this title][/us/usc/t42/s1437a/b/2]”, substituted “whose incomes do not exceed 50 percent of the median income of the area involved, as determined by the Secretary with adjustments for smaller and larger families” for “has the meaning given the term ‘very low-income families’ in such section”, inserted “The term ‘persons of moderate income’ means families and individuals whose incomes exceed 50 percent, but do not exceed 80 percent, of the median income of the area involved, as determined by the Secretary with adjustments for smaller and larger families”, and added subpar. (B).
+    Subsec. (a)(20). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(3), in amending par. (20) generally, designated existing provisions as subpar. (A) and substituted “mean families and individuals whose incomes do not exceed 80 percent of the median income of the area involved, as determined by the Secretary with adjustments for smaller and larger families” for “have the meaning given the term ‘lower income families’ in [section 1437a(b)(2) of this title][/us/usc/t42/s1437a/b/2]”, substituted “whose incomes do not exceed 50 percent of the median income of the area involved, as determined by the Secretary with adjustments for smaller and larger families” for “has the meaning given the term ‘very low-income families’ in such section”, inserted “The term ‘persons of moderate income’ means families and individuals whose incomes exceed 50 percent, but do not exceed 80 percent, of the median income of the area involved, as determined by the Secretary with adjustments for smaller and larger families”, and added subpar. (B).
 
-    Subsec. (a)(21). [Pub. L. 98–479, § 101(a)(4)][/us/pl/98/479/s101/a/4], substituted “capitol” for “capital”, and added a comma after “or office buildings”.
+    Subsec. (a)(21). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(4), substituted “capitol” for “capital”, and added a comma after “or office buildings”.
 
-    1983—Subsec. (a)(3). [Pub. L. 98–181, § 102(d)][/us/pl/98/181/s102/d], substituted “Office of Management and Budget” for “Department of Commerce”.
+    1983—Subsec. (a)(3). [Pub. L. 98–181][/us/pl/98/181], § 102(d), substituted “Office of Management and Budget” for “Department of Commerce”.
 
-    Subsec. (a)(4). [Pub. L. 98–181, § 102(d)][/us/pl/98/181/s102/d], substituted “Office of Management and Budget” for “Department of Commerce”.
+    Subsec. (a)(4). [Pub. L. 98–181][/us/pl/98/181], § 102(d), substituted “Office of Management and Budget” for “Department of Commerce”.
 
-    [Pub. L. 98–181, § 102(a)][/us/pl/98/181/s102/a], substituted provision authorizing retention of classification as metropolitan cities through fiscal year 1985 of any cities classified as deemed to be such for purposes of assistance for fiscal year 1983 for provision that any city which had been classified as a metropolitan city under this paragraph because the population of such city exceeded fifty thousand would be so classified until the decennial census indicated that the population of such city was less than fifty thousand or until September 30, 1983, whichever was later, and inserted provision permitting any units of general local government which become eligible to be classified as metropolitan cities for fiscal years 1984 and 1985 while their population is included in an urban county for such fiscal year to defer such classification through fiscal year 1986 if such unit of general local government continues to have its population included in such urban county under subsec. (d) of this section.
+    [Pub. L. 98–181][/us/pl/98/181], § 102(a), substituted provision authorizing retention of classification as metropolitan cities through fiscal year 1985 of any cities classified as deemed to be such for purposes of assistance for fiscal year 1983 for provision that any city which had been classified as a metropolitan city under this paragraph because the population of such city exceeded fifty thousand would be so classified until the decennial census indicated that the population of such city was less than fifty thousand or until September 30, 1983, whichever was later, and inserted provision permitting any units of general local government which become eligible to be classified as metropolitan cities for fiscal years 1984 and 1985 while their population is included in an urban county for such fiscal year to defer such classification through fiscal year 1986 if such unit of general local government continues to have its population included in such urban county under subsec. (d) of this section.
 
-    Subsec. (a)(6). [Pub. L. 98–181, § 102(b)][/us/pl/98/181/s102/b], substituted provision permitting retention of classification as urban counties through fiscal year 1985 of any counties classified or deemed to be such for purposes of assistance under this chapter for fiscal year 1983, and allowing a county to qualify as an urban county upon meeting certain conditions despite failing to meet the requirements of cl. (B) of the first sentence for provision that any urban county qualifying as such in fiscal year 1981 which did not meet the population requirements of cl. (B) of the first sentence would be considered to meet such requirements through Sept. 30, 1983, and would not be subject to subsec. (d) of this section through such date.
+    Subsec. (a)(6). [Pub. L. 98–181][/us/pl/98/181], § 102(b), substituted provision permitting retention of classification as urban counties through fiscal year 1985 of any counties classified or deemed to be such for purposes of assistance under this chapter for fiscal year 1983, and allowing a county to qualify as an urban county upon meeting certain conditions despite failing to meet the requirements of cl. (B) of the first sentence for provision that any urban county qualifying as such in fiscal year 1981 which did not meet the population requirements of cl. (B) of the first sentence would be considered to meet such requirements through Sept. 30, 1983, and would not be subject to subsec. (d) of this section through such date.
 
-    Subsec. (a)(9). [Pub. L. 98–181, § 102(d)][/us/pl/98/181/s102/d], substituted “Office of Management and Budget” for “Department of Commerce”.
+    Subsec. (a)(9). [Pub. L. 98–181][/us/pl/98/181], § 102(d), substituted “Office of Management and Budget” for “Department of Commerce”.
 
-    Subsec. (a)(20), (21). [Pub. L. 98–181, § 102(c)][/us/pl/98/181/s102/c], added pars. (20) and (21).
+    Subsec. (a)(20), (21). [Pub. L. 98–181][/us/pl/98/181], § 102(c), added pars. (20) and (21).
 
-    Subsec. (b). [Pub. L. 98–181, § 102(d)][/us/pl/98/181/s102/d], substituted “Office of Management and Budget” for “Department of Commerce” in two places.
+    Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 102(d), substituted “Office of Management and Budget” for “Department of Commerce” in two places.
 
-    [Pub. L. 98–181, § 102(e)][/us/pl/98/181/s102/e], struck out provisions that no data from the 1980 Decennial Census, except those relating to population and poverty, would be taken into account for purposes of sections 5306 and 5318 of this title and that no revision to the criteria for establishing a metropolitan area or defining a central city of such an area published after January 1, 1983, would be taken into account for purposes of this chapter, except that any area or city which would newly qualify as a metropolitan area or central city of such an area by reason of such revision would be so qualified.
+    [Pub. L. 98–181][/us/pl/98/181], § 102(e), struck out provisions that no data from the 1980 Decennial Census, except those relating to population and poverty, would be taken into account for purposes of sections 5306 and 5318 of this title and that no revision to the criteria for establishing a metropolitan area or defining a central city of such an area published after January 1, 1983, would be taken into account for purposes of this chapter, except that any area or city which would newly qualify as a metropolitan area or central city of such an area by reason of such revision would be so qualified.
 
-    Subsec. (d). [Pub. L. 98–181, § 102(f)][/us/pl/98/181/s102/f], inserted exception where the unit of general local government loses the designation of metropolitan city.
+    Subsec. (d). [Pub. L. 98–181][/us/pl/98/181], § 102(f), inserted exception where the unit of general local government loses the designation of metropolitan city.
 
-    1982—Subsec. (a)(4). [Pub. L. 97–289, § 5(1)][/us/pl/97/289/s5/1], (2), substituted “under this paragraph because the population of such city exceeded fifty thousand shall” for “under clause (B) of this paragraph shall continue to”, and substituted “1983” for “1982”.
+    1982—Subsec. (a)(4). [Pub. L. 97–289][/us/pl/97/289], § 5(1), (2), substituted “under this paragraph because the population of such city exceeded fifty thousand shall” for “under clause (B) of this paragraph shall continue to”, and substituted “1983” for “1982”.
 
-    Subsec. (a)(6). [Pub. L. 97–289, § 5(3)(A)][/us/pl/97/289/s5/3/A]–(C), substituted “before October 1, 1983,” for “for fiscal year 1982” after “population of which”, “through September 30, 1983,” for “for fiscal year 1982” after “requirements of such clause”, and “through such date” for “that fiscal year”.
+    Subsec. (a)(6). [Pub. L. 97–289][/us/pl/97/289], § 5(3)(A)–(C), substituted “before October 1, 1983,” for “for fiscal year 1982” after “population of which”, “through September 30, 1983,” for “for fiscal year 1982” after “requirements of such clause”, and “through such date” for “that fiscal year”.
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], §§ 309(a), 310, in par. (4) inserted applicability of Sept. 30, 1982, date to provisions, in par. (6) inserted provisions relating to urban county qualifying in fiscal year 1981, added par. (7), struck out pars. (18) and (19), which defined “program period” and “Community Development Program”, respectively, and redesignated former pars. (7) to (17) and (20) as (8) to (18) and (19), respectively.
 
-    Subsec. (c). [Pub. L. 97–35, § 309(b)][/us/pl/97/35/s309/b], substituted “activities assisted under this chapter” for “a Community Development Program in whole or in part”.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 309(b), substituted “activities assisted under this chapter” for “a Community Development Program in whole or in part”.
 
-    Subsec. (d). [Pub. L. 97–35, § 309(c)][/us/pl/97/35/s309/c], substituted provisions relating to nonreceipt of a grant, for provisions relating to disapproval or withdrawal of an application, and struck out “(a)(1)” after “5303”.
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 309(c), substituted provisions relating to nonreceipt of a grant, for provisions relating to disapproval or withdrawal of an application, and struck out “(a)(1)” after “5303”.
 
-    1980—Subsec. (a)(3), (4), (8). [Pub. L. 96–399, § 111(a)][/us/pl/96/399/s111/a], substituted “Department of Commerce” for “Office of Management and Budget” wherever appearing.
+    1980—Subsec. (a)(3), (4), (8). [Pub. L. 96–399][/us/pl/96/399], § 111(a), substituted “Department of Commerce” for “Office of Management and Budget” wherever appearing.
 
     Subsec. (b). [Pub. L. 96–399][/us/pl/96/399], §§ 101(a), 111(a), inserted provisions relating to prohibition of use, in fiscal years 1981 to 1983, of data from the 1980 Decennial Census, except those relating to population and poverty, for purposes of section 5318 and 5306, and prohibition on revision to criteria for establishment of a metropolitan area or definition of a central city, except for those newly qualifying, and substituted “Department of Commerce” for “Office of Management and Budget”, wherever appearing.
 
-    Subsec. (d). [Pub. L. 96–399, § 101(b)(1)][/us/pl/96/399/s101/b/1], substituted provisions relating to inclusion of the population of any unit of general local government in the population of such urban county for three program years, such unit to be ineligible for a grant under section 5306 as a separate entity, and prohibiting eligibility for second and third years if not included for the first year, for provisions relating to notification of units of general local government of their opportunity to exclude their populations from such urban county, and inclusion in such urban county unless exclusion is elected by notification.
+    Subsec. (d). [Pub. L. 96–399][/us/pl/96/399], § 101(b)(1), substituted provisions relating to inclusion of the population of any unit of general local government in the population of such urban county for three program years, such unit to be ineligible for a grant under section 5306 as a separate entity, and prohibiting eligibility for second and third years if not included for the first year, for provisions relating to notification of units of general local government of their opportunity to exclude their populations from such urban county, and inclusion in such urban county unless exclusion is elected by notification.
 
-    Subsec. (e). [Pub. L. 96–399, § 101(c)][/us/pl/96/399/s101/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 96–399][/us/pl/96/399], § 101(c), added subsec. (e).
 
     1979—Subsec. (a)(1). [Pub. L. 96–153][/us/pl/96/153], inserted reference to Northern Mariana Islands in definition of unit of general local government.
 
-    1977—Subsec. (a)(1). [Pub. L. 95–128, § 102(a)(1)][/us/pl/95/128/s102/a/1], excluded from term “unit of general local government” Indian tribes, bands, groups, and nations, including Alaska Indians, Aleuts, and Eskimos of the United States.
+    1977—Subsec. (a)(1). [Pub. L. 95–128][/us/pl/95/128], § 102(a)(1), excluded from term “unit of general local government” Indian tribes, bands, groups, and nations, including Alaska Indians, Aleuts, and Eskimos of the United States.
 
-    Subsec. (a)(4). [Pub. L. 95–128, § 102(a)(2)][/us/pl/95/128/s102/a/2], clarified term “metropolitan city” to continue the classification of any city classified as a metropolitan city under cl. (B) as such city until the decennial census indicates the population of such city is less than fifty thousand.
+    Subsec. (a)(4). [Pub. L. 95–128][/us/pl/95/128], § 102(a)(2), clarified term “metropolitan city” to continue the classification of any city classified as a metropolitan city under cl. (B) as such city until the decennial census indicates the population of such city is less than fifty thousand.
 
-    Subsec. (a)(5). [Pub. L. 95–128, § 102(a)(3)][/us/pl/95/128/s102/a/3], limited the meaning of “city” to a town or township without any incorporated places within its boundaries which have entered into cooperation agreements with such town or township to undertake or to assist in the undertaking of essential community development and housing assistance activities.
+    Subsec. (a)(5). [Pub. L. 95–128][/us/pl/95/128], § 102(a)(3), limited the meaning of “city” to a town or township without any incorporated places within its boundaries which have entered into cooperation agreements with such town or township to undertake or to assist in the undertaking of essential community development and housing assistance activities.
 
-    Subsec. (a)(6). [Pub. L. 95–128, § 102(a)(4)][/us/pl/95/128/s102/a/4], inserted “either” before “(B)” and added cl. (C).
+    Subsec. (a)(6). [Pub. L. 95–128][/us/pl/95/128], § 102(a)(4), inserted “either” before “(B)” and added cl. (C).
 
-    Subsec. (a)(10) to (20). [Pub. L. 95–128, § 102(a)(5)][/us/pl/95/128/s102/a/5], (6), added pars. (10) to (16) and redesignated former pars. (10) to (13) as (17) to (20).
+    Subsec. (a)(10) to (20). [Pub. L. 95–128][/us/pl/95/128], § 102(a)(5), (6), added pars. (10) to (16) and redesignated former pars. (10) to (13) as (17) to (20).
 
-    Subsec. (d). [Pub. L. 95–128, § 102(b)][/us/pl/95/128/s102/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–128][/us/pl/95/128], § 102(b), added subsec. (d).
 
  __Effective Date of 1990 Amendments__ 
 
-[Pub. L. 101–625, title IX, § 903(c)(3)][/us/pl/101/625/s903/c/3], Nov. 28, 1990, [104 Stat. 4386][/us/stat/104/4386], provided that: 
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 903(c)(3), Nov. 28, 1990, [104 Stat. 4386][/us/stat/104/4386], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply with respect to assistance under title I of the Housing and Community Development Act of 1974 \[this chapter\] for fiscal year 1991 and any fiscal year thereafter.”
 
-[Pub. L. 101–625, title IX, § 904(b)][/us/pl/101/625/s904/b], Nov. 28, 1990, [104 Stat. 4387][/us/stat/104/4387], provided that: 
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 904(b), Nov. 28, 1990, [104 Stat. 4387][/us/stat/104/4387], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to the first allocation of assistance under section 106 \[[section 5306 of this title][/us/usc/t42/s5306]\] that is made after the date of the enactment of this Act \[Nov. 28, 1990\] and to each allocation thereafter.”
 
-[Pub. L. 101–507, title II][/us/pl/101/507], Nov. 5, 1990, [104 Stat. 1370][/us/stat/104/1370], provided in part that: 
+[Pub. L. 101–507, title II][/us/pl/101/507/tII], Nov. 5, 1990, [104 Stat. 1370][/us/stat/104/1370], provided in part that: 
 
 > “The amendment made by this paragraph \[amending this section\] shall apply to the first allocation of assistance under section 106 \[[section 5306 of this title][/us/usc/t42/s5306]\] that is made after the date of the enactment of this Act \[Nov. 5, 1990\] and to each allocation thereafter.”
 
@@ -359,7 +359,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–399, title I, § 101(b)(2)][/us/pl/96/399/s101/b/2], Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], provided that: 
+[Pub. L. 96–399, title I][/us/pl/96/399/tI], § 101(b)(2), Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1981.”
 
@@ -369,7 +369,7 @@
 
  __Regulations__ 
 
-[Pub. L. 108–186, title V, § 501(g)][/us/pl/108/186/s501/g], Dec. 16, 2003, [117 Stat. 2698][/us/stat/117/2698], provided that: 
+[Pub. L. 108–186, title V][/us/pl/108/186/tV], § 501(g), Dec. 16, 2003, [117 Stat. 2698][/us/stat/117/2698], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5304, 5306, and 5307 of this title\], which shall take effect not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 16, 2003\].”
 
@@ -404,41 +404,41 @@
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
-[/us/pl/93/383/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs102
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F635
-[/us/pl/95/128/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs102
+[/us/pl/95/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtI
 [/us/stat/91/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1111
-[/us/pl/96/153/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs103%2Ff
+[/us/pl/96/153/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtI
 [/us/stat/93/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1102
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtI
 [/us/stat/94/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1614
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F396
-[/us/pl/97/289/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289%2Fs5
+[/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
 [/us/stat/96/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1231
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1159
-[/us/pl/98/479/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F1
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2218
-[/us/pl/99/120/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120%2Fs5%2Fa
+[/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
 [/us/stat/99/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F504
-[/us/pl/99/156/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156%2Fs5%2Fa
+[/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
 [/us/stat/99/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F816
-[/us/pl/99/219/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219%2Fs5%2Fa
+[/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
 [/us/stat/99/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1731
-[/us/pl/99/267/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267%2Fs5%2Fa
+[/us/pl/99/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267
 [/us/stat/100/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F74
-[/us/pl/99/272/s3011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3011%2Fa
+[/us/pl/99/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIII
 [/us/stat/100/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F106
-[/us/pl/99/289/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289%2Fs1%2Fb
+[/us/pl/99/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289
 [/us/stat/100/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F412
-[/us/pl/99/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345%2Fs1
+[/us/pl/99/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345
 [/us/stat/100/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F673
 [/us/pl/99/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F430
 [/us/stat/100/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F986
-[/us/pl/100/77/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs442
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F509
-[/us/pl/100/122/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122%2Fs1
+[/us/pl/100/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F122
 [/us/stat/101/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F793
 [/us/pl/100/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F154
 [/us/stat/101/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F890
@@ -448,35 +448,35 @@
 [/us/stat/101/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1018
 [/us/pl/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F200
 [/us/stat/101/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1327
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
-[/us/pl/100/242/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs503
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1923
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3276
-[/us/pl/101/235/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fa
+[/us/pl/101/235/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtVII
 [/us/stat/103/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2056
-[/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
+[/us/pl/101/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507%2FtII
 [/us/stat/104/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1370
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4385-4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4385-4387
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3845
-[/us/pl/104/204/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs216
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2904
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/108/186/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fa
+[/us/pl/108/186/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtV
 [/us/stat/117/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2696
-[/us/pl/110/161/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs232
+[/us/pl/110/161/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtII
 [/us/stat/121/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2438
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1239
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F476
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1239
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
@@ -488,44 +488,44 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/108/186/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fb
-[/us/pl/108/186/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fa
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
 [/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
-[/us/pl/102/550/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs802%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s5306/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fd%2F4
-[/us/pl/102/550/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs803
-[/us/pl/102/550/s807/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs807%2Fc%2F2
-[/us/pl/101/625/s903/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs903%2Fc%2F1
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
-[/us/pl/101/625/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs903%2Fa
-[/us/pl/101/625/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs903%2Fb
-[/us/pl/101/625/s903/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs903%2Fc%2F2
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
-[/us/pl/101/625/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs904%2Fa
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
-[/us/pl/100/628/s1081/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1081%2Fa%2F1
-[/us/pl/100/628/s1081/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1081%2Fa%2F2
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/242/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs503%2Fa%2F2
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/100/242/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs503%2Fa%2F1
-[/us/pl/100/242/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs503%2Fa%2F2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/242/s503/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs503%2Fa%2F3
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t42/s5306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fb
 [/us/usc/t42/s5306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fd
 [/us/usc/t42/s5306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fd
-[/us/pl/100/628/s1081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1081%2Fb
-[/us/pl/100/242/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs503%2Fb
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
-[/us/pl/100/628/s1082/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1082%2Fa%2F1
-[/us/pl/100/242/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs503%2Fc
-[/us/pl/100/628/s1082/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1082%2Fa%2F2
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F200
 [/us/pl/100/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F179
@@ -541,54 +541,54 @@
 [/us/pl/99/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F430
 [/us/pl/99/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F345
 [/us/pl/99/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F289
-[/us/pl/99/272/s3011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3011%2Fa
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F216
 [/us/pl/99/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F267
-[/us/pl/99/272/s14001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fb%2F3
-[/us/pl/99/219/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219%2Fs5%2Fa%2F1
-[/us/pl/99/156/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156%2Fs5%2Fa%2F1
-[/us/pl/99/120/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120%2Fs5%2Fa%2F1
-[/us/pl/99/219/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219%2Fs5%2Fa%2F2
-[/us/pl/99/156/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156%2Fs5%2Fa%2F2
-[/us/pl/99/120/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120%2Fs5%2Fa%2F2
-[/us/pl/98/479/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F1
-[/us/pl/98/479/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F2
-[/us/pl/98/479/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
+[/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
+[/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
+[/us/pl/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F219
+[/us/pl/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F156
+[/us/pl/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F120
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/92/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512
-[/us/pl/98/479/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F3
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/usc/t42/s1437a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F2
-[/us/pl/98/479/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F4
-[/us/pl/98/181/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fd
-[/us/pl/98/181/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fd
-[/us/pl/98/181/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fa
-[/us/pl/98/181/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fb
-[/us/pl/98/181/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fd
-[/us/pl/98/181/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fc
-[/us/pl/98/181/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fd
-[/us/pl/98/181/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Fe
-[/us/pl/98/181/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs102%2Ff
-[/us/pl/97/289/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289%2Fs5%2F1
-[/us/pl/97/289/s5/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289%2Fs5%2F3%2FA
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
+[/us/pl/97/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F289
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs309%2Fb
-[/us/pl/97/35/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs309%2Fc
-[/us/pl/96/399/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fa
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
-[/us/pl/96/399/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs101%2Fb%2F1
-[/us/pl/96/399/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs101%2Fc
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
-[/us/pl/95/128/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs102%2Fa%2F1
-[/us/pl/95/128/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs102%2Fa%2F2
-[/us/pl/95/128/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs102%2Fa%2F3
-[/us/pl/95/128/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs102%2Fa%2F4
-[/us/pl/95/128/s102/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs102%2Fa%2F5
-[/us/pl/95/128/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs102%2Fb
-[/us/pl/101/625/s903/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs903%2Fc%2F3
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4386
-[/us/pl/101/625/s904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs904%2Fb
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4387
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
-[/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
+[/us/pl/101/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507%2FtII
 [/us/stat/104/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1370
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
@@ -603,12 +603,12 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/96/399/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs101%2Fb%2F2
+[/us/pl/96/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtI
 [/us/stat/94/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1614
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/95/128/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs114
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/108/186/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fg
+[/us/pl/108/186/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtV
 [/us/stat/117/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2698
 
 

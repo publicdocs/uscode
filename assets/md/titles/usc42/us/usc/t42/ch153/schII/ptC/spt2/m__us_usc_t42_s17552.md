@@ -41,7 +41,7 @@
 
         Any statistical analysis of population data under this section shall be conducted in accordance with the Federal Register Notice dated October 30, 1997, relating to classification standards.
 
-([Pub. L. 110–199, title II, § 242][/us/pl/110/199/s242], Apr. 9, 2008, [122 Stat. 690][/us/stat/122/690].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 242, Apr. 9, 2008, [122 Stat. 690][/us/stat/122/690].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/199/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs242
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F690
 
 

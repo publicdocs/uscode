@@ -17,7 +17,7 @@
 
     None of the funds made available to carry out this subchapter may be used to advocate for, or support, the unsecured release of juveniles who are charged with a violent crime.
 
-([Pub. L. 93–415, title II, § 299F][/us/pl/93/415/s299F], as added [Pub. L. 107–273, div. C, title II, § 12216][/us/pl/107/273/s12216], Nov. 2, 2002, [116 Stat. 1893][/us/stat/116/1893].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 299F, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12216, Nov. 2, 2002, [116 Stat. 1893][/us/stat/116/1893].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/415/s299F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs299F
-[/us/pl/107/273/s12216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12216
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1893
 [/us/pl/107/273/s12223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12223
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

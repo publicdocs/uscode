@@ -91,7 +91,7 @@
 
                 The Secretary shall determine what entities are qualified to receive enrollment HIT under subparagraph (A), taking into consideration the recommendations of the HIT Policy Committee and the HIT Standards Committee.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3021, as added [Pub. L. 111–148, title I, § 1561][/us/pl/111/148/s1561], Mar. 23, 2010, [124 Stat. 262][/us/stat/124/262].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3021, as added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1561, Mar. 23, 2010, [124 Stat. 262][/us/stat/124/262].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1561
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F262
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

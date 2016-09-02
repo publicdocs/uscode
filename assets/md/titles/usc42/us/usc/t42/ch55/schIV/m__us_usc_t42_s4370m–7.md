@@ -41,7 +41,7 @@
 
         (2) agency compliance with the performance schedules established under [section 4370m–1(c)(1)(C) of this title][/us/usc/t42/s4370m–1/c/1/C].
 
-([Pub. L. 114–94, div. D, title XLI, § 41008][/us/pl/114/94/s41008], Dec. 4, 2015, [129 Stat. 1760][/us/stat/129/1760].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41008, Dec. 4, 2015, [129 Stat. 1760][/us/stat/129/1760].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t42/s4370m–1/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fc%2F1%2FC
 [/us/usc/t42/s4370m–1/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fc%2F2%2FB
 [/us/usc/t42/s4370m–1/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931%2Fc%2F1%2FC
-[/us/pl/114/94/s41008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41008
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1760
 
 

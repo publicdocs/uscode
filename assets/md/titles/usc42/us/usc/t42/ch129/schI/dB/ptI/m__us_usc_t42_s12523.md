@@ -33,7 +33,7 @@
 
             (E) establishing effective outreach and dissemination of information to ensure the broadest possible involvement of community-based entities with demonstrated effectiveness in working with school-age youth in their communities; and
 
-            (F) establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools not making adequate yearly progress for two or more consecutive years under [section 6311 of title 20][/us/usc/t20/s6311];
+            (F) establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of title 20][/us/usc/t20/s6311/d];
 
         (2)
 
@@ -123,13 +123,13 @@
 
             (B) create and sustain effective partnerships for service-learning programs between local educational agencies, community-based entities, businesses, and other stakeholders.
 
-([Pub. L. 101–610, title I, § 112][/us/pl/101/610/s112], as added [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1468][/us/stat/123/1468]; amended [Pub. L. 113–128, title V, § 512(u)(1)][/us/pl/113/128/s512/u/1], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 112, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1201, Apr. 21, 2009, [123 Stat. 1468][/us/stat/123/1468]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(u)(1), July 22, 2014, [128 Stat. 1712][/us/stat/128/1712]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(bbb)(2), Dec. 10, 2015, [129 Stat. 2185][/us/stat/129/2185].)
 
  __Prior Provisions__ 
 
-    A prior section 12523, [Pub. L. 101–610, title I, § 111B][/us/pl/101/610/s111B], as added [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], Sept. 21, 1993, [107 Stat. 827][/us/stat/107/827], granted the Corporation authority to assist public or private nonprofit organizations, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
+    A prior section 12523, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 111B, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(a)(2), Sept. 21, 1993, [107 Stat. 827][/us/stat/107/827], granted the Corporation authority to assist public or private nonprofit organizations, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
 
-    Another prior section 12523, [Pub. L. 101–610, title I, § 113][/us/pl/101/610/s113], Nov. 16, 1990, [104 Stat. 3134][/us/stat/104/3134]; [Pub. L. 102–384, § 4][/us/pl/102/384/s4], Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], related to State grant applications, prior to repeal by [Pub. L. 103–82, § 103(a)(2)][/us/pl/103/82/s103/a/2].
+    Another prior section 12523, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 113, Nov. 16, 1990, [104 Stat. 3134][/us/stat/104/3134]; [Pub. L. 102–384][/us/pl/102/384], § 4, Oct. 5, 1992, [106 Stat. 1455][/us/stat/106/1455], related to State grant applications, prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 103(a)(2).
 
     A prior [section 112 of Pub. L. 101–610][/us/pl/101/610/s112] was classified to section 12524 prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
 
@@ -137,7 +137,13 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1)(F). [Pub. L. 114–95][/us/pl/114/95] substituted “implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of title 20][/us/usc/t20/s6311/d]” for “not making adequate yearly progress for two or more consecutive years under [section 6311 of title 20][/us/usc/t20/s6311]”.
+
     2014—Subsec. (a)(3)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “or who may participate in a Youthbuild program under [section 3226 of title 29][/us/usc/t29/s3226]” for “or who may participate in a Youthbuild program under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -150,34 +156,42 @@
 ----------
 ----------
 
-[/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
+[/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
 [/us/usc/t42/s12525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12525
 [/us/usc/t42/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5001
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t42/s12522/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12522%2F2%2FA
 [/us/usc/t42/s12681/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12681%2Fa%2F6
-[/us/pl/101/610/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs112
-[/us/pl/111/13/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1201
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1468
-[/us/pl/113/128/s512/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fu%2F1
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
-[/us/pl/101/610/s111B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs111B
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2185
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F827
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
-[/us/pl/101/610/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs113
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3134
-[/us/pl/102/384/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384%2Fs4
+[/us/pl/102/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F384
 [/us/stat/106/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1455
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs112
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/101/610/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs112
 [/us/usc/t42/s12522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12522
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
+[/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

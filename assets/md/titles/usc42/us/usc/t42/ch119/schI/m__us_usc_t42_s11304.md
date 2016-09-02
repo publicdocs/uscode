@@ -17,7 +17,7 @@
 
     The Comptroller General of the United States may evaluate the disbursement and use of the amounts made available by appropriation Acts under the authorizations in subchapters III and IV of this chapter.
 
-([Pub. L. 100–77, title I, § 105][/us/pl/100/77/s105], July 22, 1987, [101 Stat. 486][/us/stat/101/486]; [Pub. L. 100–628, title I, § 102(a)][/us/pl/100/628/s102/a], (b)(1), Nov. 7, 1988, [102 Stat. 3227][/us/stat/102/3227]; [Pub. L. 104–316, title I, § 122(t)][/us/pl/104/316/s122/t], Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838].)
+([Pub. L. 100–77, title I][/us/pl/100/77/tI], § 105, July 22, 1987, [101 Stat. 486][/us/stat/101/486]; [Pub. L. 100–628, title I][/us/pl/100/628/tI], § 102(a), (b)(1), Nov. 7, 1988, [102 Stat. 3227][/us/stat/102/3227]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(t), Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/100/77/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs105
+[/us/pl/100/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtI
 [/us/stat/101/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F486
-[/us/pl/100/628/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs102%2Fa
+[/us/pl/100/628/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtI
 [/us/stat/102/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3227
-[/us/pl/104/316/s122/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Ft
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3838
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628

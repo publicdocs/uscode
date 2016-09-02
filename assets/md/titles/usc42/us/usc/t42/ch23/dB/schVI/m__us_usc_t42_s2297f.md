@@ -61,7 +61,7 @@
 
         The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) of this section or approves a plan prepared by the Department for achieving compliance required under subsection (b) of this section.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1701, as added [Pub. L. 102–486, title XI, § 1101][/us/pl/102/486/s1101], Oct. 24, 1992, [106 Stat. 2951][/us/stat/106/2951]; amended [Pub. L. 104–134, title III, § 3116(b)(3)][/us/pl/104/134/s3116/b/3], Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349]; [Pub. L. 105–362, title XII, § 1202][/us/pl/105/362/s1202], Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1701, as added [Pub. L. 102–486, title XI][/us/pl/102/486/tXI], § 1101, Oct. 24, 1992, [106 Stat. 2951][/us/stat/106/2951]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(b)(3), Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349]; [Pub. L. 105–362, title XII][/us/pl/105/362/tXII], § 1202, Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292].)
 
  __Amendments__ 
 
@@ -82,11 +82,11 @@
 
 [/us/usc/t42/s2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2167
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/102/486/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1101
+[/us/pl/102/486/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXI
 [/us/stat/106/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2951
-[/us/pl/104/134/s3116/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fb%2F3
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
-[/us/pl/105/362/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1202
+[/us/pl/105/362/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXII
 [/us/stat/112/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3292
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134

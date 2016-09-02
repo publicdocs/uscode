@@ -121,7 +121,7 @@
 
         There are authorized to be appropriated for each of the fiscal years 2009 through 2016, $2,000,000 to carry out the provisions of this section.
 
-([Pub. L. 110–401, title I, § 105][/us/pl/110/401/s105], Oct. 13, 2008, [122 Stat. 4236][/us/stat/122/4236]; [Pub. L. 112–206, § 8][/us/pl/112/206/s8], Dec. 7, 2012, [126 Stat. 1493][/us/stat/126/1493].)
+([Pub. L. 110–401, title I][/us/pl/110/401/tI], § 105, Oct. 13, 2008, [122 Stat. 4236][/us/stat/122/4236]; [Pub. L. 112–206][/us/pl/112/206], § 8, Dec. 7, 2012, [126 Stat. 1493][/us/stat/126/1493].)
 
  __Amendments__ 
 
@@ -136,9 +136,9 @@
 
 [/us/usc/t42/s17612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17612
 [/us/usc/t42/s17611/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17611%2Fc%2F16
-[/us/pl/110/401/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs105
+[/us/pl/110/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtI
 [/us/stat/122/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4236
-[/us/pl/112/206/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs8
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/stat/126/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1493
 [/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 

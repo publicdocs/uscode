@@ -17,7 +17,7 @@
 
     Authority of any entity established under this chapter shall extend to civil justice matters only to the extent that such civil justice matters bear directly and substantially upon criminal justice matters or are inextricably intertwined with criminal justice matters.
 
-([Pub. L. 90–351, title I, § 818][/us/pl/90/351/s818], formerly § 825, as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1214][/us/stat/93/1214]; renumbered § 818, [Pub. L. 98–473, title II, § 609B(f)][/us/pl/98/473/s609B/f], Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 818, formerly § 825, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1214][/us/stat/93/1214]; renumbered § 818, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609B(f), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093].)
 
  __Prior Provisions__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/90/351/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs818
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1214
-[/us/pl/98/473/s609B/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Ff
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2093
 [/us/pl/90/351/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs818
 [/us/usc/t42/s3789g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789g

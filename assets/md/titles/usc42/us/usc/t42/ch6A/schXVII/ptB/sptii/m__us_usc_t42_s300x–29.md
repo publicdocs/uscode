@@ -27,7 +27,7 @@
 
     (5) the extent to which the availability of such activities is insufficient to meet the need for the activities, the interim services to be made available under sections 300x–23(a) and 300x–27(b) of this title, and the manner in which such services are to be so available.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1929, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 396][/us/stat/106/396].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1929, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 396][/us/stat/106/396].)
 
  __Prior Provisions__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F396
 [/us/usc/t42/s300y–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%938
 [/us/pl/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F280

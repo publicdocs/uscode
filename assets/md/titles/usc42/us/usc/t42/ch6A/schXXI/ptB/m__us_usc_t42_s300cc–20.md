@@ -53,13 +53,13 @@
 
         (2) Amounts appropriated pursuant to paragraph (1) to carry out subsection (c) of this section shall remain available until expended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2320, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3074][/us/stat/102/3074]; amended [Pub. L. 100–690, title II, § 2617(d)][/us/pl/100/690/s2617/d], Nov. 18, 1988, [102 Stat. 4240][/us/stat/102/4240]; [Pub. L. 102–531, title III, § 312(d)(20)][/us/pl/102/531/s312/d/20], Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 103–43, title XVIII, § 1811(5)][/us/pl/103/43/s1811/5], (6), June 10, 1993, [107 Stat. 200][/us/stat/107/200].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2320, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3074][/us/stat/102/3074]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2617(d), Nov. 18, 1988, [102 Stat. 4240][/us/stat/102/4240]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(20), Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1811(5), (6), June 10, 1993, [107 Stat. 200][/us/stat/107/200].)
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1)(A). [Pub. L. 103–43, § 1811(5)][/us/pl/103/43/s1811/5], inserted “and the natural history of such infection” after “syndrome”.
+    1993—Subsec. (b)(1)(A). [Pub. L. 103–43][/us/pl/103/43], § 1811(5), inserted “and the natural history of such infection” after “syndrome”.
 
-    Subsec. (e)(1). [Pub. L. 103–43, § 1811(6)][/us/pl/103/43/s1811/6], substituted “fiscal year” for “of the fiscal years 1989 through 1991”.
+    Subsec. (e)(1). [Pub. L. 103–43][/us/pl/103/43], § 1811(6), substituted “fiscal year” for “of the fiscal years 1989 through 1991”.
 
     1992—Subsecs. (a)(1), (b)(1). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
@@ -77,16 +77,16 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3074
-[/us/pl/100/690/s2617/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2617%2Fd
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4240
-[/us/pl/102/531/s312/d/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F20
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
-[/us/pl/103/43/s1811/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F5
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F200
-[/us/pl/103/43/s1811/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F5
-[/us/pl/103/43/s1811/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1811%2F6
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

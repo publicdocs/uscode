@@ -405,7 +405,7 @@
 
             The term “United States person” has the meaning given that term in [section 8511 of title 22][/us/usc/t22/s8511].
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 135, as added [Pub. L. 114–17, § 2][/us/pl/114/17/s2], May 22, 2015, [129 Stat. 201][/us/stat/129/201].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 135, as added [Pub. L. 114–17][/us/pl/114/17], § 2, May 22, 2015, [129 Stat. 201][/us/stat/129/201].)
 
  __Delegation of Certain Functions and Authorities Under Section 135 of the Atomic Energy Act of 1954 (__  __[__  __42 U.S.C. 2011__  __][/us/usc/t42/s2011]__  __et seq.), as amended by the Iran Nuclear Agreement Review Act of 2015__ 
 
@@ -441,7 +441,7 @@ I hereby delegate the functions and authorities vested in the President by the f
 [/us/usc/t22/s8513b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513b%2Fd
 [/us/usc/t22/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8511
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/114/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F17%2Fs2
+[/us/pl/114/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F17
 [/us/stat/129/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F201
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

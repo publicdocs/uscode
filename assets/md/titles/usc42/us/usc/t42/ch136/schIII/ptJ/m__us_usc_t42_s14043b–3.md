@@ -17,7 +17,7 @@
 
     Applicants described in paragraph (1) and paragraphs (3) through (6) shall demonstrate that they have entered into a significant partnership with a State, tribal, territorial, or local victim service or advocacy organization or condition in order to develop safe, confidential, and effective protocols, procedures, policies, and systems for protecting personally identifying information of victims.
 
-([Pub. L. 103–322, title IV, § 41104][/us/pl/103/322/s41104], as added [Pub. L. 109–162, title I, § 107][/us/pl/109/162/s107], Jan. 5, 2006, [119 Stat. 2984][/us/stat/119/2984].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41104, as added [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 107, Jan. 5, 2006, [119 Stat. 2984][/us/stat/119/2984].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41104
-[/us/pl/109/162/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs107
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2984
 [/us/usc/t42/s14043b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043b%E2%80%932
 

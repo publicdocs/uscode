@@ -23,7 +23,7 @@
 
         The Director shall establish for each year the amount to be awarded for scholarships and fellowships under this section for that year. Each such scholarship and fellowship shall include a cost of education allowance of $12,000, subject to any restrictions on the use of cost of education allowance as determined by the Director.
 
-([May 10, 1950, ch. 171, § 10][/us/act/1950-05-10/ch171/s10], [64 Stat. 152][/us/stat/64/152]; [Pub. L. 86–232, § 5][/us/pl/86/232/s5], Sept. 8, 1959, [73 Stat. 468][/us/stat/73/468]; [Pub. L. 86–550][/us/pl/86/550], June 29, 1960, [74 Stat. 256][/us/stat/74/256]; [Pub. L. 87–835, § 2][/us/pl/87/835/s2], Oct. 16, 1962, [76 Stat. 1070][/us/stat/76/1070]; [Pub. L. 90–407, § 8][/us/pl/90/407/s8], July 18, 1968, [82 Stat. 364][/us/stat/82/364]; [Pub. L. 99–159, title I, § 110(a)(13)][/us/pl/99/159/s110/a/13], Nov. 22, 1985, [99 Stat. 891][/us/stat/99/891]; [Pub. L. 99–383, § 7(c)][/us/pl/99/383/s7/c], Aug. 21, 1986, [100 Stat. 814][/us/stat/100/814]; [Pub. L. 101–589, title III, § 302(c)][/us/pl/101/589/s302/c], Nov. 16, 1990, [104 Stat. 2895][/us/stat/104/2895]; [Pub. L. 111–358, title V, § 510(d)][/us/pl/111/358/s510/d], Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 10, [64 Stat. 152][/us/stat/64/152]; [Pub. L. 86–232][/us/pl/86/232], § 5, Sept. 8, 1959, [73 Stat. 468][/us/stat/73/468]; [Pub. L. 86–550][/us/pl/86/550], June 29, 1960, [74 Stat. 256][/us/stat/74/256]; [Pub. L. 87–835][/us/pl/87/835], § 2, Oct. 16, 1962, [76 Stat. 1070][/us/stat/76/1070]; [Pub. L. 90–407][/us/pl/90/407], § 8, July 18, 1968, [82 Stat. 364][/us/stat/82/364]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 110(a)(13), Nov. 22, 1985, [99 Stat. 891][/us/stat/99/891]; [Pub. L. 99–383][/us/pl/99/383], § 7(c), Aug. 21, 1986, [100 Stat. 814][/us/stat/100/814]; [Pub. L. 101–589, title III][/us/pl/101/589/tIII], § 302(c), Nov. 16, 1990, [104 Stat. 2895][/us/stat/104/2895]; [Pub. L. 111–358, title V][/us/pl/111/358/tV], § 510(d), Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Graduate Student Support__ 
 
-[Pub. L. 111–358, title V, § 510(a)][/us/pl/111/358/s510/a], (b), Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010], provided that:
+[Pub. L. 111–358, title V][/us/pl/111/358/tV], § 510(a), (b), Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010], provided that:
 
 >     “(a)  __Finding__  __.—__ 
 
@@ -72,23 +72,23 @@
 ----------
 ----------
 
-[/us/act/1950-05-10/ch171/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs10
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F152
-[/us/pl/86/232/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs5
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F468
 [/us/pl/86/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F550
 [/us/stat/74/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F256
-[/us/pl/87/835/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F835%2Fs2
+[/us/pl/87/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F835
 [/us/stat/76/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1070
-[/us/pl/90/407/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs8
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F364
-[/us/pl/99/159/s110/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F13
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F891
-[/us/pl/99/383/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383%2Fs7%2Fc
+[/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
 [/us/stat/100/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F814
-[/us/pl/101/589/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs302%2Fc
+[/us/pl/101/589/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2FtIII
 [/us/stat/104/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2895
-[/us/pl/111/358/s510/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs510%2Fd
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4010
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 [/us/pl/101/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589
@@ -99,7 +99,7 @@
 [/us/pl/87/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F835
 [/us/pl/86/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F550
 [/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
-[/us/pl/111/358/s510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs510%2Fa
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4010
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2

@@ -31,7 +31,7 @@
 
     (7) the term “Native American Pacific Islander” means an individual who is indigenous to a United States territory or possession located in the Pacific Ocean, and includes such individual while residing in the United States.
 
-([Pub. L. 88–452, title VIII, § 815][/us/pl/88/452/s815], formerly § 813, as added [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2327][/us/stat/88/2327]; amended [Pub. L. 98–558, title X, § 1004][/us/pl/98/558/s1004], Oct. 30, 1984, [98 Stat. 2906][/us/stat/98/2906]; renumbered § 815 and amended [Pub. L. 100–175, title V][/us/pl/100/175], §§ 502(2), 503(b), Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973], 975; [Pub. L. 102–375, title VIII, § 822(21)][/us/pl/102/375/s822/21], Sept. 30, 1992, [106 Stat. 1300][/us/stat/106/1300]; [Pub. L. 102–497, § 9(b)][/us/pl/102/497/s9/b], Oct. 24, 1992, [106 Stat. 3257][/us/stat/106/3257]; [Pub. L. 103–171, § 5(6)][/us/pl/103/171/s5/6], Dec. 2, 1993, [107 Stat. 1992][/us/stat/107/1992]; [Pub. L. 109–394, § 3][/us/pl/109/394/s3], Dec. 14, 2006, [120 Stat. 2707][/us/stat/120/2707].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 815, formerly § 813, as added [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2327][/us/stat/88/2327]; amended [Pub. L. 98–558, title X][/us/pl/98/558/tX], § 1004, Oct. 30, 1984, [98 Stat. 2906][/us/stat/98/2906]; renumbered § 815 and amended [Pub. L. 100–175, title V][/us/pl/100/175/tV], §§ 502(2), 503(b), Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973], 975; [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(21), Sept. 30, 1992, [106 Stat. 1300][/us/stat/106/1300]; [Pub. L. 102–497][/us/pl/102/497], § 9(b), Oct. 24, 1992, [106 Stat. 3257][/us/stat/106/3257]; [Pub. L. 103–171][/us/pl/103/171], § 5(6), Dec. 2, 1993, [107 Stat. 1992][/us/stat/107/1992]; [Pub. L. 109–394][/us/pl/109/394], § 3, Dec. 14, 2006, [120 Stat. 2707][/us/stat/120/2707].)
 
  __References in Text__ 
 
@@ -41,15 +41,15 @@
 
     2006—[Pub. L. 109–394][/us/pl/109/394] added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
 
-    1993—Par. (2). [Pub. L. 103–171, § 5(6)(A)][/us/pl/103/171/s5/6/A], substituted “selected by Alaska Natives” for “selected by Alaskan Natives”.
+    1993—Par. (2). [Pub. L. 103–171][/us/pl/103/171], § 5(6)(A), substituted “selected by Alaska Natives” for “selected by Alaskan Natives”.
 
-    Par. (4). [Pub. L. 103–171, § 5(6)(B)][/us/pl/103/171/s5/6/B], inserted semicolon at end.
+    Par. (4). [Pub. L. 103–171][/us/pl/103/171], § 5(6)(B), inserted semicolon at end.
 
     1992—Par. (2). [Pub. L. 102–375][/us/pl/102/375] substituted “Alaska Native village” for “Alaskan Native village” in two places and “Alaska Native organizations” for “Alaskan Native organizations”.
 
     Par. (6). [Pub. L. 102–497][/us/pl/102/497] added par. (6).
 
-    1987—Pars. (4), (5). [Pub. L. 100–175, § 503(b)][/us/pl/100/175/s503/b], added par. (4) and redesignated former par. (4) as (5).
+    1987—Pars. (4), (5). [Pub. L. 100–175][/us/pl/100/175], § 503(b), added par. (4) and redesignated former par. (4) as (5).
 
     1984—Par. (4). [Pub. L. 98–558][/us/pl/98/558] added par. (4).
 
@@ -66,30 +66,30 @@
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
-[/us/pl/88/452/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs815
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2327
-[/us/pl/98/558/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs1004
+[/us/pl/98/558/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtX
 [/us/stat/98/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2906
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtV
 [/us/stat/101/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F973
-[/us/pl/102/375/s822/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F21
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1300
-[/us/pl/102/497/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs9%2Fb
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3257
-[/us/pl/103/171/s5/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs5%2F6
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1992
-[/us/pl/109/394/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394%2Fs3
+[/us/pl/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394
 [/us/stat/120/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2707
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394
-[/us/pl/103/171/s5/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs5%2F6%2FA
-[/us/pl/103/171/s5/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs5%2F6%2FB
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
-[/us/pl/100/175/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs503%2Fb
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/pl/100/175/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs701%2Fa

@@ -47,7 +47,7 @@
 
         (2) for any succeeding fiscal year, more than the amount of funds used for the peer review and related activities in fiscal year 2001, adjusted to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under [section 720(c)(1) of title 29][/us/usc/t29/s720/c/1] (if the percentage change indicates an increase).
 
-([Pub. L. 106–402, title I, § 156][/us/pl/106/402/s156], Oct. 30, 2000, [114 Stat. 1725][/us/stat/114/1725].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 156, Oct. 30, 2000, [114 Stat. 1725][/us/stat/114/1725].)
 
 ----------
 
@@ -66,7 +66,7 @@
 [/us/usc/t42/s15063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fc
 [/us/usc/t42/s15063/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fc%2F4
 [/us/usc/t29/s720/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720%2Fc%2F1
-[/us/pl/106/402/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs156
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1725
 
 

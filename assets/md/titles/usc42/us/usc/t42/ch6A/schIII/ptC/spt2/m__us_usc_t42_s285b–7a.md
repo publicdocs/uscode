@@ -41,7 +41,7 @@
 
         (7) Information and education programs for patients and health care providers on risk factors associated with heart attack, stroke, and other cardiovascular diseases in women, and on the importance of the prevention or control of such risk factors and timely referral with appropriate diagnosis and treatment. Such programs shall include information and education on health-related behaviors that can improve such important risk factors as smoking, obesity, high blood cholesterol, and lack of exercise.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 424A, as added [Pub. L. 105–340, title I, § 104][/us/pl/105/340/s104], Oct. 31, 1998, [112 Stat. 3192][/us/stat/112/3192]; amended [Pub. L. 109–482, title I, § 103(b)(18)][/us/pl/109/482/s103/b/18], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 424A, as added [Pub. L. 105–340, title I][/us/pl/105/340/tI], § 104, Oct. 31, 1998, [112 Stat. 3192][/us/stat/112/3192]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(18), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/340/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs104
+[/us/pl/105/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2FtI
 [/us/stat/112/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3192
-[/us/pl/109/482/s103/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F18
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

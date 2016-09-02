@@ -57,7 +57,7 @@
 
             (B) the amount of the petroleum or natural gas used in such mixture will not exceed the minimum percentage of the total Btu heat input of the primary energy sources of such powerplant needed to maintain reliability of operation of the unit consistent with maintaining a reasonable level of fuel efficiency, as determined in accordance with rules prescribed by the Secretary.
 
-        (2) Repealed. [Pub. L. 100–42, § 1(c)(12)(A)][/us/pl/100/42/s1/c/12/A], May 21, 1987, [101 Stat. 313][/us/stat/101/313].
+        (2) Repealed. [Pub. L. 100–42][/us/pl/100/42], § 1(c)(12)(A), May 21, 1987, [101 Stat. 313][/us/stat/101/313].
 
         (3) The Secretary may authorize a higher percentage than that referred to in paragraph (1)(B) if he finds that the higher percentage of natural gas allowed would be mixed with synthetic fuels derived from municipal wastes or agricultural wastes and would encourage the use of alternate or new technologies which use renewable sources of energy.
 
@@ -129,7 +129,7 @@
 
         After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection for the use of liquefied natural gas if the Administrator of the Environmental Protection Agency (or the appropriate State air pollution control agency) has certified to the Secretary that the use of coal by such powerplant as a primary energy source will cause or contribute to a concentration, in an air quality control region or any area within such region, of a pollutant for which any national ambient air quality standard is or would be exceeded for such region or area and the use of coal would not comply with applicable environmental requirements.
 
-([Pub. L. 95–620, title III, § 312][/us/pl/95/620/s312], Nov. 9, 1978, [92 Stat. 3309][/us/stat/92/3309]; [Pub. L. 100–42, § 1(c)(10)][/us/pl/100/42/s1/c/10], (12), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
+([Pub. L. 95–620, title III][/us/pl/95/620/tIII], § 312, Nov. 9, 1978, [92 Stat. 3309][/us/stat/92/3309]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(10), (12), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
 
  __References in Text__ 
 
@@ -137,19 +137,19 @@
 
  __Amendments__ 
 
-    1987—Subsecs. (a)(1), (b), (d)(1). [Pub. L. 100–42, § 1(c)(10)][/us/pl/100/42/s1/c/10], struck out “or installation” after “powerplant” wherever appearing.
+    1987—Subsecs. (a)(1), (b), (d)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(10), struck out “or installation” after “powerplant” wherever appearing.
 
-    Subsec. (d)(2). [Pub. L. 100–42, § 1(c)(12)(A)][/us/pl/100/42/s1/c/12/A], struck out par. (2) which read as follows: “In the case of an existing major fuel-burning installation, the percentage determined by the Secretary under subparagraph (B) of paragraph (1) shall not be less than 25 percent.”
+    Subsec. (d)(2). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(12)(A), struck out par. (2) which read as follows: “In the case of an existing major fuel-burning installation, the percentage determined by the Secretary under subparagraph (B) of paragraph (1) shall not be less than 25 percent.”
 
-    Subsec. (d)(3). [Pub. L. 100–42, § 1(c)(12)(B)][/us/pl/100/42/s1/c/12/B], substituted “The” for “In the case of an existing electric powerplant, the”.
+    Subsec. (d)(3). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(12)(B), substituted “The” for “In the case of an existing electric powerplant, the”.
 
-    Subsec. (e). [Pub. L. 100–42, § 1(c)(10)][/us/pl/100/42/s1/c/10], struck out “or installation” after “powerplant” wherever appearing.
+    Subsec. (e). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(10), struck out “or installation” after “powerplant” wherever appearing.
 
-    Subsec. (j). [Pub. L. 100–42, § 1(c)(12)(C)][/us/pl/100/42/s1/c/12/C], struck out subsec. (j) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas for installations served by international pipelines.
+    Subsec. (j). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(12)(C), struck out subsec. (j) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas for installations served by international pipelines.
 
-    Subsec. (k). [Pub. L. 100–42, § 1(c)(12)(C)][/us/pl/100/42/s1/c/12/C], struck out subsec. (k) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
+    Subsec. (k). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(12)(C), struck out subsec. (k) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
-    Subsec. (l). [Pub. L. 100–42, § 1(c)(12)(C)][/us/pl/100/42/s1/c/12/C], struck out subsec. (l) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
+    Subsec. (l). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(12)(C), struck out subsec. (l) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
 
  __Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After__  __November 9, 1978__ 
 
@@ -162,23 +162,23 @@
 ----------
 ----------
 
-[/us/pl/100/42/s1/c/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F12%2FA
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/usc/t42/s8341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8341
-[/us/pl/95/620/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs312
+[/us/pl/95/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtIII
 [/us/stat/92/3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3309
-[/us/pl/100/42/s1/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F10
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
-[/us/pl/100/42/s1/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F10
-[/us/pl/100/42/s1/c/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F12%2FA
-[/us/pl/100/42/s1/c/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F12%2FB
-[/us/pl/100/42/s1/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F10
-[/us/pl/100/42/s1/c/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F12%2FC
-[/us/pl/100/42/s1/c/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F12%2FC
-[/us/pl/100/42/s1/c/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F12%2FC
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/pl/95/620/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs902%2Fa
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
 

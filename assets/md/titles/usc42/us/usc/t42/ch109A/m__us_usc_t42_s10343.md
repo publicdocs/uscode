@@ -23,7 +23,7 @@
 
     (3) the development of innovative technologies for membrane processes.
 
-([Pub. L. 102–490, § 4][/us/pl/102/490/s4], Oct. 24, 1992, [106 Stat. 3142][/us/stat/106/3142].)
+([Pub. L. 102–490][/us/pl/102/490], § 4, Oct. 24, 1992, [106 Stat. 3142][/us/stat/106/3142].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s10342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10342
-[/us/pl/102/490/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490%2Fs4
+[/us/pl/102/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F490
 [/us/stat/106/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3142
 
 

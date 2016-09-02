@@ -165,7 +165,7 @@
 
         The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities (unless any child who is less than 6 years of age resides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary’s discretion, may designate an earlier date.
 
-([Pub. L. 102–550, title X, § 1004][/us/pl/102/550/s1004], Oct. 28, 1992, [106 Stat. 3898][/us/stat/106/3898].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1004, Oct. 28, 1992, [106 Stat. 3898][/us/stat/106/3898].)
 
  __References in Text__ 
 
@@ -186,7 +186,7 @@
 [/us/usc/t42/s12745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12745
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb
-[/us/pl/102/550/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1004
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3898
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897

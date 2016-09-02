@@ -59,11 +59,11 @@
 
         For purposes of this section, the term “Council on Alzheimer’s Disease” means the council established in section 11211(a)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445C, formerly [Pub. L. 99–660, title IX, § 941][/us/pl/99/660/s941], Nov. 14, 1986, [100 Stat. 3808][/us/stat/100/3808]; renumbered § 445C of act July 1, 1944; amended [Pub. L. 100–607, title I, § 142(a)][/us/pl/100/607/s142/a], (d)(2), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], 3058; [Pub. L. 102–507, § 9][/us/pl/102/507/s9], Oct. 24, 1992, [106 Stat. 3287][/us/stat/106/3287]; [Pub. L. 103–43, title VIII, § 804][/us/pl/103/43/s804], June 10, 1993, [107 Stat. 164][/us/stat/107/164].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445C, formerly [Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 941, Nov. 14, 1986, [100 Stat. 3808][/us/stat/100/3808]; renumbered § 445C of act July 1, 1944; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 142(a), (d)(2), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], 3058; [Pub. L. 102–507][/us/pl/102/507], § 9, Oct. 24, 1992, [106 Stat. 3287][/us/stat/106/3287]; [Pub. L. 103–43, title VIII][/us/pl/103/43/tVIII], § 804, June 10, 1993, [107 Stat. 164][/us/stat/107/164].)
 
  __References in Text__ 
 
-    [Section 11211 of this title][/us/usc/t42/s11211], referred to in subsec. (e), was repealed by [Pub. L. 105–362, title VI, § 601(a)(2)(E)][/us/pl/105/362/s601/a/2/E], Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286].
+    [Section 11211 of this title][/us/usc/t42/s11211], referred to in subsec. (e), was repealed by [Pub. L. 105–362, title VI][/us/pl/105/362/tVI], § 601(a)(2)(E), Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286].
 
  __Codification__ 
 
@@ -71,23 +71,23 @@
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1). [Pub. L. 103–43, § 804(1)][/us/pl/103/43/s804/1], inserted “on Alzheimer’s Disease (in this section referred to as the ‘Council’)” after “Council”.
+    1993—Subsec. (b)(1). [Pub. L. 103–43][/us/pl/103/43], § 804(1), inserted “on Alzheimer’s Disease (in this section referred to as the ‘Council’)” after “Council”.
 
-    Subsec. (e). [Pub. L. 103–43, § 804(2)][/us/pl/103/43/s804/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–43][/us/pl/103/43], § 804(2), added subsec. (e).
 
     1992—Subsec. (d). [Pub. L. 102–507][/us/pl/102/507] added subsec. (d).
 
-    1988—[Pub. L. 100–607, § 142(a)][/us/pl/100/607/s142/a], renumbered [section 11241 of this title][/us/usc/t42/s11241] as this section.
+    1988—[Pub. L. 100–607][/us/pl/100/607], § 142(a), renumbered [section 11241 of this title][/us/usc/t42/s11241] as this section.
 
-    Subsec. (a). [Pub. L. 100–607, § 142(d)(2)(A)][/us/pl/100/607/s142/d/2/A], substituted “the Institute” for “the National Institute on Aging”.
+    Subsec. (a). [Pub. L. 100–607][/us/pl/100/607], § 142(d)(2)(A), substituted “the Institute” for “the National Institute on Aging”.
 
-    Subsec. (b)(1). [Pub. L. 100–607, § 142(d)(2)(B)(i)(I)][/us/pl/100/607/s142/d/2/B/i/I], in introductory provisions, substituted “the date of enactment of the Alzheimer’s Disease and Related Dementias Services Research Act of 1986” for “the date of enactment of this Act”, which for purposes of codification was translated as “November 14, 1986”, thus requiring no change in text.
+    Subsec. (b)(1). [Pub. L. 100–607][/us/pl/100/607], § 142(d)(2)(B)(i)(I), in introductory provisions, substituted “the date of enactment of the Alzheimer’s Disease and Related Dementias Services Research Act of 1986” for “the date of enactment of this Act”, which for purposes of codification was translated as “November 14, 1986”, thus requiring no change in text.
 
-    [Pub. L. 100–607, § 142(d)(2)(B)(i)(II)][/us/pl/100/607/s142/d/2/B/i/II], in introductory provisions, substituted “the Institute” for “the National Institute on Aging”.
+    [Pub. L. 100–607][/us/pl/100/607], § 142(d)(2)(B)(i)(II), in introductory provisions, substituted “the Institute” for “the National Institute on Aging”.
 
-    Subsec. (b)(1)(B). [Pub. L. 100–607, § 142(d)(2)(B)(ii)][/us/pl/100/607/s142/d/2/B/ii], made technical amendment to reference to [section 285e–2 of this title][/us/usc/t42/s285e–2] to correct reference to corresponding provision of original act.
+    Subsec. (b)(1)(B). [Pub. L. 100–607][/us/pl/100/607], § 142(d)(2)(B)(ii), made technical amendment to reference to [section 285e–2 of this title][/us/usc/t42/s285e–2] to correct reference to corresponding provision of original act.
 
-    Subsecs. (b)(2), (c). [Pub. L. 100–607, § 142(d)(2)(B)(iii)][/us/pl/100/607/s142/d/2/B/iii], (C), substituted “the Institute” for “the National Institute on Aging”.
+    Subsecs. (b)(2), (c). [Pub. L. 100–607][/us/pl/100/607], § 142(d)(2)(B)(iii), (C), substituted “the Institute” for “the National Institute on Aging”.
 
 ----------
 
@@ -98,29 +98,29 @@
 
 [/us/usc/t42/s285e–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs941
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3808
-[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
-[/us/pl/102/507/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs9
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3287
-[/us/pl/103/43/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs804
+[/us/pl/103/43/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVIII
 [/us/stat/107/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F164
 [/us/usc/t42/s11211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11211
-[/us/pl/105/362/s601/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs601%2Fa%2F2%2FE
+[/us/pl/105/362/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVI
 [/us/stat/112/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3286
 [/us/usc/t42/s11241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11241
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/103/43/s804/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs804%2F1
-[/us/pl/103/43/s804/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs804%2F2
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
-[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s11241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11241
-[/us/pl/100/607/s142/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F2%2FA
-[/us/pl/100/607/s142/d/2/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F2%2FB%2Fi%2FI
-[/us/pl/100/607/s142/d/2/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F2%2FB%2Fi%2FII
-[/us/pl/100/607/s142/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F2%2FB%2Fii
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s285e–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%932
-[/us/pl/100/607/s142/d/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F2%2FB%2Fiii
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 
 

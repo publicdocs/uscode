@@ -85,7 +85,7 @@
 
         The Secretary shall include, in an annual report transmitted to the Congress, a report on the beneficiary assistance program and on other health insurance informational and counseling services made available to medicare-eligible individuals. The Secretary shall include in the report recommendations for such changes as may be desirable to improve the relationship between the medicare program and medicare-eligible individuals.
 
-([Pub. L. 101–508, title IV, § 4359][/us/pl/101/508/s4359], Nov. 5, 1990, [104 Stat. 1388–137][/us/stat/104/1388-137]; [Pub. L. 108–173, title IX, § 900(e)(6)(G)][/us/pl/108/173/s900/e/6/G], Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374].)
+([Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4359, Nov. 5, 1990, [104 Stat. 1388–137][/us/stat/104/1388-137]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(6)(G), Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374].)
 
  __Codification__ 
 
@@ -97,7 +97,7 @@
 
  __Medicare Enrollment Assistance__ 
 
-[Pub. L. 110–275, title I, § 119][/us/pl/110/275/s119], July 15, 2008, [122 Stat. 2508][/us/stat/122/2508], as amended by [Pub. L. 111–148, title III, § 3306][/us/pl/111/148/s3306], Mar. 23, 2010, [124 Stat. 470][/us/stat/124/470]; [Pub. L. 112–240, title VI, § 610][/us/pl/112/240/s610], Jan. 2, 2013, [126 Stat. 2351][/us/stat/126/2351]; [Pub. L. 113–67, div. B, title I, § 1110][/us/pl/113/67/s1110], Dec. 26, 2013, [127 Stat. 1198][/us/stat/127/1198]; [Pub. L. 113–93, title I, § 110][/us/pl/113/93/s110], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II, § 208][/us/pl/114/10/s208], Apr. 16, 2015, [129 Stat. 145][/us/stat/129/145], provided that:
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 119, July 15, 2008, [122 Stat. 2508][/us/stat/122/2508], as amended by [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3306, Mar. 23, 2010, [124 Stat. 470][/us/stat/124/470]; [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 610, Jan. 2, 2013, [126 Stat. 2351][/us/stat/126/2351]; [Pub. L. 113–67, div. B, title I][/us/pl/113/67/dB/tI], § 1110, Dec. 26, 2013, [127 Stat. 1198][/us/stat/127/1198]; [Pub. L. 113–93, title I][/us/pl/113/93/tI], § 110, Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 208, Apr. 16, 2015, [129 Stat. 145][/us/stat/129/145], provided that:
 
 >     “(a) __Additional Funding for State Health Insurance Assistance Programs.—__ 
 
@@ -267,7 +267,7 @@
 
  __Beneficiary Outreach Demonstration Program__ 
 
-[Pub. L. 108–173, title IX, § 924][/us/pl/108/173/s924], Dec. 8, 2003, [117 Stat. 2395][/us/stat/117/2395], provided that:
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 924, Dec. 8, 2003, [117 Stat. 2395][/us/stat/117/2395], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -303,7 +303,7 @@
 
  __Qualified Medicare Beneficiary Outreach__ 
 
-[Pub. L. 103–432, title I, § 154][/us/pl/103/432/s154], Oct. 31, 1994, [108 Stat. 4437][/us/stat/108/4437], provided that: 
+[Pub. L. 103–432, title I][/us/pl/103/432/tI], § 154, Oct. 31, 1994, [108 Stat. 4437][/us/stat/108/4437], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services shall establish and implement a method for obtaining information from newly eligible medicare beneficiaries that may be used to determine whether such beneficiaries may be eligible for medical assistance for medicare cost-sharing under State medicaid plans as qualified medicare beneficiaries, and for transmitting such information to the State in which such a beneficiary resides.”
 
@@ -315,22 +315,22 @@
 ----------
 
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
-[/us/pl/101/508/s4359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4359
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-137
-[/us/pl/108/173/s900/e/6/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F6%2FG
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2374
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/110/275/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs119
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2508
-[/us/pl/111/148/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3306
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F470
-[/us/pl/112/240/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs610
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2351
-[/us/pl/113/67/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1110
+[/us/pl/113/67/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdB%2FtI
 [/us/stat/127/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1198
-[/us/pl/113/93/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs110
+[/us/pl/113/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtI
 [/us/stat/128/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1043
-[/us/pl/114/10/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs208
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F145
 [/us/usc/t42/s1395b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%934
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
@@ -356,11 +356,11 @@
 [/us/stat/121/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2508
 [/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/usc/t42/s1396a/a/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FE
-[/us/pl/108/173/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs924
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2395
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
-[/us/pl/103/432/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs154
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4437
 
 

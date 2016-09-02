@@ -27,7 +27,7 @@
 
         A recipient of a disaster loan or grant under this chapter shall provide such evidence of compliance with this section as the President may require by regulation.
 
-([Pub. L. 93–288, title III, § 323][/us/pl/93/288/s323], as added [Pub. L. 106–390, title I, § 104(a)][/us/pl/106/390/s104/a], Oct. 30, 2000, [114 Stat. 1559][/us/stat/114/1559].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 323, as added [Pub. L. 106–390, title I][/us/pl/106/390/tI], § 104(a), Oct. 30, 2000, [114 Stat. 1559][/us/stat/114/1559].)
 
  __References in Text__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/93/288/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs323
-[/us/pl/106/390/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs104%2Fa
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/106/390/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtI
 [/us/stat/114/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1559
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

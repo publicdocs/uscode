@@ -81,7 +81,7 @@
 
         In this section, the terms “cost-effective technologies and practices” and “operating  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “operational”. </sup></sup>  cost savings” shall have the meanings defined in [section 17061 of this title][/us/usc/t42/s17061].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 329, as added [Pub. L. 110–140, title IV, § 493][/us/pl/110/140/s493], Dec. 19, 2007, [121 Stat. 1652][/us/stat/121/1652].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 329, as added [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 493, Dec. 19, 2007, [121 Stat. 1652][/us/stat/121/1652].)
 
  __Effective Date__ 
 
@@ -96,7 +96,7 @@
 
 [/us/usc/t42/s17061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17061
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/110/140/s493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs493
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1652
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

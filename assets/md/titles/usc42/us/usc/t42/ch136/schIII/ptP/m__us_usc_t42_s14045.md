@@ -81,7 +81,7 @@
 
         In this section the definitions and grant conditions in [section 13925 of this title][/us/usc/t42/s13925] shall apply.
 
-([Pub. L. 109–162, title I, § 120][/us/pl/109/162/s120], Jan. 5, 2006, [119 Stat. 2990][/us/stat/119/2990]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(2), 2(h), Aug. 12, 2006, [120 Stat. 750][/us/stat/120/750], 752; [Pub. L. 113–4, title I, § 108][/us/pl/113/4/s108], Mar. 7, 2013, [127 Stat. 78][/us/stat/127/78].)
+([Pub. L. 109–162, title I][/us/pl/109/162/tI], § 120, Jan. 5, 2006, [119 Stat. 2990][/us/stat/119/2990]; [Pub. L. 109–271][/us/pl/109/271], §§ 1(c)(2), 2(h), Aug. 12, 2006, [120 Stat. 750][/us/stat/120/750], 752; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 108, Mar. 7, 2013, [127 Stat. 78][/us/stat/127/78].)
 
  __Codification__ 
 
@@ -91,9 +91,9 @@
 
     2013—[Pub. L. 113–4][/us/pl/113/4] amended section generally. Prior to amendment, section related to grants for outreach to underserved populations.
 
-    2006—Subsec. (g). [Pub. L. 109–271, § 2(h)][/us/pl/109/271/s2/h], struck out “, every 18 months,” after “Office of Violence Against Women”.
+    2006—Subsec. (g). [Pub. L. 109–271][/us/pl/109/271], § 2(h), struck out “, every 18 months,” after “Office of Violence Against Women”.
 
-    Subsec. (i). [Pub. L. 109–271, § 1(c)(2)][/us/pl/109/271/s1/c/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 109–271][/us/pl/109/271], § 1(c)(2), added subsec. (i).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -109,15 +109,15 @@
 [/us/usc/t42/s3796gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg
 [/us/usc/t42/s3796hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
-[/us/pl/109/162/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs120
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2990
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F750
-[/us/pl/113/4/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs108
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F78
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/109/271/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fh
-[/us/pl/109/271/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs1%2Fc%2F2
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

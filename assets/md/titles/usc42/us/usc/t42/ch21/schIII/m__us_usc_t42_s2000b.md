@@ -23,7 +23,7 @@
 
         The Attorney General may deem a person or persons unable to initiate and maintain appropriate legal proceedings within the meaning of subsection (a) of this section when such person or persons are unable, either directly or through other interested persons or organizations, to bear the expense of the litigation or to obtain effective legal representation; or whenever he is satisfied that the institution of such litigation would jeopardize the personal safety, employment, or economic standing of such person or persons, their families, or their property.
 
-([Pub. L. 88–352, title III, § 301][/us/pl/88/352/s301], July 2, 1964, [78 Stat. 246][/us/stat/78/246].)
+([Pub. L. 88–352, title III][/us/pl/88/352/tIII], § 301, July 2, 1964, [78 Stat. 246][/us/stat/78/246].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s2000c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000c
-[/us/pl/88/352/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs301
+[/us/pl/88/352/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIII
 [/us/stat/78/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F246
 
 

@@ -81,7 +81,7 @@
 
             The Secretary may not institute proceedings under subsection (c) of this section unless the Secretary has conducted an investigation concerning whether the State has expended payments under the program involved in accordance with the agreements required under the program. Any such investigation shall be conducted within the State by qualified investigators.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1945, as added [Pub. L. 102–321, title II, § 203(a)][/us/pl/102/321/s203/a], July 10, 1992, [106 Stat. 405][/us/stat/106/405].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1945, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 203(a), July 10, 1992, [106 Stat. 405][/us/stat/106/405].)
 
 ----------
 
@@ -97,7 +97,7 @@
 [/us/usc/t42/s300x–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9326
 [/us/usc/t42/s300x–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9330
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fa
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F405
 
 

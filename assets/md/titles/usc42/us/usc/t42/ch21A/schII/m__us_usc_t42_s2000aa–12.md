@@ -17,7 +17,7 @@
 
     Guidelines issued by the Attorney General under this subchapter shall have the full force and effect of Department of Justice regulations and any violation of these guidelines shall make the employee or officer involved subject to appropriate administrative disciplinary action. However, an issue relating to the compliance, or the failure to comply, with guidelines issued pursuant to this subchapter may not be litigated, and a court may not entertain such an issue as the basis for the suppression or exclusion of evidence.
 
-([Pub. L. 96–440, title II, § 202][/us/pl/96/440/s202], Oct. 13, 1980, [94 Stat. 1883][/us/stat/94/1883].)
+([Pub. L. 96–440, title II][/us/pl/96/440/tII], § 202, Oct. 13, 1980, [94 Stat. 1883][/us/stat/94/1883].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/440/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs202
+[/us/pl/96/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2FtII
 [/us/stat/94/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1883
 
 

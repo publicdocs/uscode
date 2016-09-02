@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated for grants under [section 3335 of this title][/us/usc/t42/s3335] not to exceed $25,000,000 for the fiscal year ending June 30, 1967, and not to exceed $50,000,000 for the fiscal year ending June 30, 1968. Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year commencing prior to July 1, 1970.
 
-([Pub. L. 89–754, title II, § 206][/us/pl/89/754/s206], Nov. 3, 1966, [80 Stat. 1264][/us/stat/80/1264]; [Pub. L. 90–448, title VI, § 602(f)][/us/pl/90/448/s602/f], Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532].)
+([Pub. L. 89–754, title II][/us/pl/89/754/tII], § 206, Nov. 3, 1966, [80 Stat. 1264][/us/stat/80/1264]; [Pub. L. 90–448, title VI][/us/pl/90/448/tVI], § 602(f), Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 [/us/usc/t42/s3305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3305%2Fc
 [/us/usc/t42/s3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3335
 [/us/usc/t42/s3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3335
-[/us/pl/89/754/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs206
+[/us/pl/89/754/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtII
 [/us/stat/80/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1264
-[/us/pl/90/448/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Ff
+[/us/pl/90/448/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVI
 [/us/stat/82/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F532
 [/us/usc/t42/s3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3305
 [/us/usc/t42/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5316

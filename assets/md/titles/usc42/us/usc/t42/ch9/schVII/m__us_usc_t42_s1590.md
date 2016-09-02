@@ -31,7 +31,7 @@
 
     (g) The term “United States Housing Act of 1937” \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\] means the provisions of that Act, including all amendments thereto, now or hereafter adopted, except provisions relating to the initial construction of a project or dwelling units.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 610, as added [June 28, 1948, ch. 688, § 7][/us/act/1948-06-28/ch688/s7], as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; 1967 Reorg. Plan No. 3, § 402(432), eff. Nov. 3, 1967, 32 F.R. 11669, [81 Stat. 948][/us/stat/81/948]; [Pub. L. 93–198, title IV, § 401][/us/pl/93/198/s401], Dec. 24, 1973, [87 Stat. 785][/us/stat/87/785].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 610, as added [June 28, 1948, ch. 688][/us/act/1948-06-28/ch688], § 7, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; 1967 Reorg. Plan No. 3, § 402(432), eff. Nov. 3, 1967, 32 F.R. 11669, [81 Stat. 948][/us/stat/81/948]; [Pub. L. 93–198, title IV][/us/pl/93/198/tIV], § 401, Dec. 24, 1973, [87 Stat. 785][/us/stat/87/785].)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 
     The provisions of Public Law 781, and Public Laws 9, 73, or 353, referred to in subsec. (b), are not classified to the Code. For further details, see note set out under [section 1524 of this title][/us/usc/t42/s1524].
 
-    The United States Housing Act of 1937, referred to in subsecs. (d), (f), and (g), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsecs. (d), (f), and (g), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
  __Transfer of Functions__ 
 
-    In subsec. (a), “Council of the District of Columbia” substituted for “District of Columbia Council” pursuant to [Pub. L. 93–198, title IV, § 401][/us/pl/93/198/s401], Dec. 24, 1973, [87 Stat. 785][/us/stat/87/785]. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
+    In subsec. (a), “Council of the District of Columbia” substituted for “District of Columbia Council” pursuant to [Pub. L. 93–198, title IV][/us/pl/93/198/tIV], § 401, Dec. 24, 1973, [87 Stat. 785][/us/stat/87/785]. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
 
     Previously, reference to Board of Commissioners of District of Columbia had been changed to District of Columbia Council pursuant to section 402(432) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, eff. Nov. 3, 1967, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of Board of Commissioners relating to functions under this subchapter previously vested in Board of Commissioners pursuant to this section to District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing District of Columbia Council, see section 201 of the Reorg. Plan No. 3 of 1967.
 
@@ -61,23 +61,23 @@
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1948-06-28/ch688/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs7
+[/us/act/1948-06-28/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/stat/81/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F948
-[/us/pl/93/198/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs401
+[/us/pl/93/198/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtIV
 [/us/stat/87/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F785
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 [/us/usc/t42/s1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1524
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/93/198/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs401
+[/us/pl/93/198/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtIV
 [/us/stat/87/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F785
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs401
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581

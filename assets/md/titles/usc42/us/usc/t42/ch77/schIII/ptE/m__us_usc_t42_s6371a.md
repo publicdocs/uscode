@@ -41,7 +41,7 @@
 
         The Secretary shall, by rule prescribe criteria for determining schools and hospitals which are in a class of severe hardship. Such criteria shall take into account climate, fuel costs, fuel availability, ability to provide the non-Federal share of the costs, and such other factors that he deems appropriate.
 
-([Pub. L. 94–163, title III, § 392][/us/pl/94/163/s392], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3242][/us/stat/92/3242].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 392, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3242][/us/stat/92/3242].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs392
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3242
 
 

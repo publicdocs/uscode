@@ -41,11 +41,11 @@
 
         If no private, nonprofit organization is identified or determined to be qualified under subsection (a) of this section to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in [section 9910(b) of this title][/us/usc/t42/s9910/b].
 
-([Pub. L. 97–35, title VI, § 676A][/us/pl/97/35/s676A], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2739][/us/stat/112/2739].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 676A, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2739][/us/stat/112/2739].)
 
  __Prior Provisions__ 
 
-    A prior section 9909, [Pub. L. 97–35, title VI, § 680][/us/pl/97/35/s680], Aug. 13, 1981, [95 Stat. 517][/us/stat/95/517]; [Pub. L. 99–425, title IV, § 405(c)(2)][/us/pl/99/425/s405/c/2], Sept. 30, 1986, [100 Stat. 970][/us/stat/100/970]; [Pub. L. 103–171, § 7(c)(3)][/us/pl/103/171/s7/c/3], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994], related to limitation on use of grants for construction and waiver of such limitation, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+    A prior section 9909, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 680, Aug. 13, 1981, [95 Stat. 517][/us/stat/95/517]; [Pub. L. 99–425, title IV][/us/pl/99/425/tIV], § 405(c)(2), Sept. 30, 1986, [100 Stat. 970][/us/stat/100/970]; [Pub. L. 103–171][/us/pl/103/171], § 7(c)(3), Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994], related to limitation on use of grants for construction and waiver of such limitation, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
     A prior [section 676A of Pub. L. 97–35][/us/pl/97/35/s676A] was classified to [section 9905a of this title][/us/usc/t42/s9905a], prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
@@ -59,14 +59,14 @@
 [/us/usc/t42/s9910/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910%2Fa%2F2
 [/us/usc/t42/s9910/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910%2Fa%2F2%2FB
 [/us/usc/t42/s9910/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910%2Fb
-[/us/pl/97/35/s676A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs676A
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2739
-[/us/pl/97/35/s680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs680
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F517
-[/us/pl/99/425/s405/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs405%2Fc%2F2
+[/us/pl/99/425/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtIV
 [/us/stat/100/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F970
-[/us/pl/103/171/s7/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs7%2Fc%2F3
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1994
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 [/us/pl/97/35/s676A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs676A

@@ -67,11 +67,11 @@
 
         (3) with respect to which there has been insufficient clinical research involving adolescents as subjects or insufficient clinical data on adolescents.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1708, as added [Pub. L. 102–531, title III, § 302][/us/pl/102/531/s302], Oct. 27, 1992, [106 Stat. 3483][/us/stat/106/3483].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1708, as added [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 302, Oct. 27, 1992, [106 Stat. 3483][/us/stat/106/3483].)
 
  __Prior Provisions__ 
 
-    A prior section 300u–7, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1708, as added Nov. 10, 1978, [Pub. L. 95–626, title V, § 502][/us/pl/95/626/s502], [92 Stat. 3594][/us/stat/92/3594]; amended July 10, 1979, [Pub. L. 96–32, § 6][/us/pl/96/32/s6](l), [93 Stat. 84][/us/stat/93/84], related to project grants for physical fitness improvement and research projects, prior to repeal by [Pub. L. 98–551, § 2(c)][/us/pl/98/551/s2/c], Oct. 30, 1984, [98 Stat. 2816][/us/stat/98/2816].
+    A prior section 300u–7, [act July 1, 1944, ch. 373, title XVII][/us/act/1944-07-01/ch373/tXVII], § 1708, as added Nov. 10, 1978, [Pub. L. 95–626, title V][/us/pl/95/626/tV], § 502, [92 Stat. 3594][/us/stat/92/3594]; amended July 10, 1979, [Pub. L. 96–32][/us/pl/96/32], § 6(l), [93 Stat. 84][/us/stat/93/84], related to project grants for physical fitness improvement and research projects, prior to repeal by [Pub. L. 98–551][/us/pl/98/551], § 2(c), Oct. 30, 1984, [98 Stat. 2816][/us/stat/98/2816].
 
  __Change of Name__ 
 
@@ -87,14 +87,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs302
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3483
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/626/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs502
+[/us/act/1944-07-01/ch373/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXVII
+[/us/pl/95/626/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtV
 [/us/stat/92/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3594
-[/us/pl/96/32/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs6
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F84
-[/us/pl/98/551/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551%2Fs2%2Fc
+[/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/stat/98/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2816
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

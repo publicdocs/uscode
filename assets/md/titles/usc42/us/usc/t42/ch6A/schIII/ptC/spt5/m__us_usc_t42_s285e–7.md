@@ -31,7 +31,7 @@
 
         The Director of the Institute, the Director of the National Institute of Mental Health, and the Director of the National Center for Health Services Research and Health Care Technology Assessment shall provide to the Clearinghouse summaries of the findings of research conducted under part D.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445E, formerly [Pub. L. 99–660, title IX, § 951][/us/pl/99/660/s951], Nov. 14, 1986, [100 Stat. 3813][/us/stat/100/3813]; renumbered § 445E of act July 1, 1944, and amended [Pub. L. 100–607, title I, § 142(a)][/us/pl/100/607/s142/a], (d)(4), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], 3058.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 445E, formerly [Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 951, Nov. 14, 1986, [100 Stat. 3813][/us/stat/100/3813]; renumbered § 445E of act July 1, 1944, and amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 142(a), (d)(4), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], 3058.)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–607, § 142(a)][/us/pl/100/607/s142/a], renumbered [section 11281 of this title][/us/usc/t42/s11281] as this section.
+    1988—[Pub. L. 100–607][/us/pl/100/607], § 142(a), renumbered [section 11281 of this title][/us/usc/t42/s11281] as this section.
 
-    Subsec. (a). [Pub. L. 100–607, § 142(d)(4)(A)][/us/pl/100/607/s142/d/4/A], substituted “the Institute” for “the National Institute on Aging” in introductory provisions.
+    Subsec. (a). [Pub. L. 100–607][/us/pl/100/607], § 142(d)(4)(A), substituted “the Institute” for “the National Institute on Aging” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 100–607, § 142(d)(4)(B)][/us/pl/100/607/s142/d/4/B], substituted “the Institute” for “the National Institute on Aging” and “part D” for “part E”.
+    Subsec. (c). [Pub. L. 100–607][/us/pl/100/607], § 142(d)(4)(B), substituted “the Institute” for “the National Institute on Aging” and “part D” for “part E”.
 
 ----------
 
@@ -57,9 +57,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs951
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3813
-[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/stat/100/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3808
@@ -67,9 +67,9 @@
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/usc/t42/s11281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11281
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/usc/t42/s11281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11281
-[/us/pl/100/607/s142/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F4%2FA
-[/us/pl/100/607/s142/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fd%2F4%2FB
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 
 

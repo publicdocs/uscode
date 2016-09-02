@@ -97,7 +97,7 @@
 
             Notwithstanding any other provision of law, the Director may accept the voluntary services of individuals. While away from their homes or regular places of business on the business of the Corps, such individuals may be allowed travel expenses, including per diem in lieu of subsistence, in the same amounts and to the same extent, as authorized under [section 5703 of title 5][/us/usc/t5/s5703] for persons employed intermittently in Federal Government service.
 
-([Pub. L. 101–610, title I, § 159][/us/pl/101/610/s159], formerly § 195H, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2528][/us/stat/106/2528]; renumbered § 159 and amended [Pub. L. 103–82, title I, § 104(b)][/us/pl/103/82/s104/b], (e)(2)(E), title IV, §§ 402(b)(1), 403(a)(1)–(3), (b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 918–920; [Pub. L. 103–304, § 3(b)(5)(B)][/us/pl/103/304/s3/b/5/B], Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 103–337, div. A, title VI, § 640][/us/pl/103/337/s640], Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791]; [Pub. L. 111–13, title I, § 1509][/us/pl/111/13/s1509], Apr. 21, 2009, [123 Stat. 1525][/us/stat/123/1525].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 159, formerly § 195H, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2528][/us/stat/106/2528]; renumbered § 159 and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(b), (e)(2)(E), title IV, §§ 402(b)(1), 403(a)(1)–(3), (b), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 847, 918–920; [Pub. L. 103–304][/us/pl/103/304], § 3(b)(5)(B), Aug. 23, 1994, [108 Stat. 1567][/us/stat/108/1567]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 640, Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1509, Apr. 21, 2009, [123 Stat. 1525][/us/stat/123/1525].)
 
  __References in Text__ 
 
@@ -105,57 +105,57 @@
 
     Section 4464 of that Act, referred to in subsec. (c)(2)(D), is [section 4464 of Pub. L. 102–484][/us/pl/102/484/s4464] which is set out as a note under [section 1143a of Title 10][/us/usc/t10/s1143a].
 
-    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (c)(3), was repealed by [Pub. L. 106–65, div. A, title VI, § 651(a)(1)][/us/pl/106/65/s651/a/1], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
+    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (c)(3), was repealed by [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(a)(1), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
 
  __Codification__ 
 
-    Section was formerly classified to [section 12653h of this title][/us/usc/t42/s12653h] prior to renumbering by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b].
+    Section was formerly classified to [section 12653h of this title][/us/usc/t42/s12653h] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 104(b).
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 1509(1)(A)][/us/pl/111/13/s1509/1/A], substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1509(1)(A), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 111–13, § 1509(1)(B)][/us/pl/111/13/s1509/1/B], inserted “including those” before “recommended” and “National” before “Civilian Community Corps”.
+    Subsec. (a)(1). [Pub. L. 111–13][/us/pl/111/13], § 1509(1)(B), inserted “including those” before “recommended” and “National” before “Civilian Community Corps”.
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 1509(2)][/us/pl/111/13/s1509/2], inserted “National” before “Civilian Community Corps”.
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 1509(2), inserted “National” before “Civilian Community Corps”.
 
-    Subsec. (c)(1)(B)(i). [Pub. L. 111–13, § 1509(3)(A)][/us/pl/111/13/s1509/3/A], inserted “National” before “Civilian Community Corps”.
+    Subsec. (c)(1)(B)(i). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(A), inserted “National” before “Civilian Community Corps”.
 
-    Subsec. (c)(2)(A). [Pub. L. 111–13, § 1509(3)(B)(i)][/us/pl/111/13/s1509/3/B/i], substituted “The Chief Executive Officer shall establish a permanent cadre that includes the Director and other appointed” for “The Director shall establish a permanent cadre of” and inserted “National” before “Civilian Community Corps”.
+    Subsec. (c)(2)(A). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(B)(i), substituted “The Chief Executive Officer shall establish a permanent cadre that includes the Director and other appointed” for “The Director shall establish a permanent cadre of” and inserted “National” before “Civilian Community Corps”.
 
-    Subsec. (c)(2)(B). [Pub. L. 111–13, § 1509(3)(B)(ii)][/us/pl/111/13/s1509/3/B/ii], substituted “The Chief Executive Officer shall consider the recommendations of the Director in appointing the other members” for “The Director shall appoint the members”.
+    Subsec. (c)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(B)(ii), substituted “The Chief Executive Officer shall consider the recommendations of the Director in appointing the other members” for “The Director shall appoint the members”.
 
-    Subsec. (c)(2)(C). [Pub. L. 111–13, § 1509(3)(B)(iii)(I)][/us/pl/111/13/s1509/3/B/iii/I], substituted “the Chief Executive Officer” for “the Director” in introductory provisions.
+    Subsec. (c)(2)(C). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(B)(iii)(I), substituted “the Chief Executive Officer” for “the Director” in introductory provisions.
 
-    Subsec. (c)(2)(C)(i). [Pub. L. 111–13, § 1509(3)(B)(iii)(II)][/us/pl/111/13/s1509/3/B/iii/II], substituted “section 12622(b)” for “section 12622(a)(2)”.
+    Subsec. (c)(2)(C)(i). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(B)(iii)(II), substituted “section 12622(b)” for “section 12622(a)(2)”.
 
-    Subsec. (c)(2)(C)(iv), (v). [Pub. L. 111–13, § 1509(3)(B)(iii)(III)][/us/pl/111/13/s1509/3/B/iii/III]–(V), added cl. (iv) and redesignated former cl. (iv) as (v).
+    Subsec. (c)(2)(C)(iv), (v). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(B)(iii)(III)–(V), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-    Subsec. (c)(2)(E). [Pub. L. 111–13, § 1509(3)(B)(iv)][/us/pl/111/13/s1509/3/B/iv], substituted “to other members” for “to members”, inserted “, including techniques for working with and enhancing the development of disadvantaged youth,” after “techniques”, and substituted “service-learning” for “service learning”.
+    Subsec. (c)(2)(E). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(B)(iv), substituted “to other members” for “to members”, inserted “, including techniques for working with and enhancing the development of disadvantaged youth,” after “techniques”, and substituted “service-learning” for “service learning”.
 
-    Subsec. (c)(3). [Pub. L. 111–13, § 1509(3)(C)][/us/pl/111/13/s1509/3/C], substituted “other members” for “the members” and “12622(b)(1)” for “section 12622(a)(2)(A)”.
+    Subsec. (c)(3). [Pub. L. 111–13][/us/pl/111/13], § 1509(3)(C), substituted “other members” for “the members” and “12622(b)(1)” for “section 12622(a)(2)(A)”.
 
     1994—Subsec. (c)(2)(C)(i). [Pub. L. 103–304][/us/pl/103/304] substituted “section 12622(a)(2)” for “section section 12622(a)(2)”.
 
     Subsec. (c)(3). [Pub. L. 103–337][/us/pl/103/337] inserted at end “In the case of a member of the permanent cadre who was recommended for appointment in accordance with [section 12622(a)(2)(A) of this title][/us/usc/t42/s12622/a/2/A] and is entitled to retired or retainer pay, [section 5532 of title 5][/us/usc/t5/s5532] shall not apply to reduce the member’s retired or retainer pay by reason of the member being paid as a member of the cadre.”
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 403(a)(1)(A)][/us/pl/103/82/s403/a/1/A], (B), substituted “Supervision” for “Board” in heading and “The Chief Executive Officer shall monitor” for “The Board shall monitor” and “the Chief Executive Officer shall—” for “the Board shall—” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(1)(A), (B), substituted “Supervision” for “Board” in heading and “The Chief Executive Officer shall monitor” for “The Board shall monitor” and “the Chief Executive Officer shall—” for “the Board shall—” in introductory provisions.
 
-    [Pub. L. 103–82, § 104(e)(2)(E)(i)(I)][/us/pl/103/82/s104/e/2/E/i/I], substituted “section 12612” for “section 12653a” in introductory provisions.
+    [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(E)(i)(I), substituted “section 12612” for “section 12653a” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 103–82, § 403(a)(1)(B)][/us/pl/103/82/s403/a/1/B], (C), substituted “by the Board” for “by the Director” and “as the Chief Executive Officer” for “as the Board”.
+    Subsec. (a)(1). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(1)(B), (C), substituted “by the Board” for “by the Director” and “as the Chief Executive Officer” for “as the Board”.
 
-    Subsec. (a)(2). [Pub. L. 103–82, § 104(e)(2)(E)(i)(II)][/us/pl/103/82/s104/e/2/E/i/II], substituted “section 12611” for “section 12653”.
+    Subsec. (a)(2). [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(E)(i)(II), substituted “section 12611” for “section 12653”.
 
-    Subsec. (b). [Pub. L. 103–82, § 403(a)(2)][/us/pl/103/82/s403/a/2], substituted “Monitoring and coordination” for “Executive Director” in heading and “The Chief Executive Officer shall” for “The Executive Director of the Commission on National and Community Service shall” in introductory provisions.
+    Subsec. (b). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(2), substituted “Monitoring and coordination” for “Executive Director” in heading and “The Chief Executive Officer shall” for “The Executive Director of the Commission on National and Community Service shall” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 103–82, § 402(b)(1)][/us/pl/103/82/s402/b/1], substituted “by the Corporation” for “by the Commission”.
+    Subsec. (b)(2). [Pub. L. 103–82][/us/pl/103/82], § 402(b)(1), substituted “by the Corporation” for “by the Commission”.
 
-    Subsec. (c)(1)(A). [Pub. L. 103–82, § 403(a)(3)(A)][/us/pl/103/82/s403/a/3/A], (b), substituted “the Chief Executive Officer shall appoint a Director” for “the Board, in consultation with the Executive Director, shall appoint a Director of the Civilian Community Corps”.
+    Subsec. (c)(1)(A). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(3)(A), (b), substituted “the Chief Executive Officer shall appoint a Director” for “the Board, in consultation with the Executive Director, shall appoint a Director of the Civilian Community Corps”.
 
-    Subsec. (c)(1)(B)(iii). [Pub. L. 103–82, § 403(a)(3)(B)][/us/pl/103/82/s403/a/3/B], substituted “the Chief Executive Officer” for “the Board through the Executive Director”.
+    Subsec. (c)(1)(B)(iii). [Pub. L. 103–82][/us/pl/103/82], § 403(a)(3)(B), substituted “the Chief Executive Officer” for “the Board through the Executive Director”.
 
-    Subsec. (c)(2)(C)(i). [Pub. L. 103–82, § 104(e)(2)(E)(ii)][/us/pl/103/82/s104/e/2/E/ii], substituted “section 12622(a)(2)” for “12653k(a)(2)”.
+    Subsec. (c)(2)(C)(i). [Pub. L. 103–82][/us/pl/103/82], § 104(e)(2)(E)(ii), substituted “section 12622(a)(2)” for “12653k(a)(2)”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -178,50 +178,50 @@
 [/us/usc/t42/s12611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12611
 [/us/usc/t42/s12622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12622%2Fb
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/101/610/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs159
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2528
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
-[/us/pl/103/304/s3/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F5%2FB
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1567
-[/us/pl/103/337/s640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs640
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2791
-[/us/pl/111/13/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1525
 [/us/pl/102/484/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4403
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
 [/us/pl/102/484/s4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4464
 [/us/usc/t10/s1143a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1143a
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/106/65/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/usc/t42/s12653h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653h
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
-[/us/pl/111/13/s1509/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F1%2FA
-[/us/pl/111/13/s1509/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F1%2FB
-[/us/pl/111/13/s1509/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F2
-[/us/pl/111/13/s1509/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FA
-[/us/pl/111/13/s1509/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FB%2Fi
-[/us/pl/111/13/s1509/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FB%2Fii
-[/us/pl/111/13/s1509/3/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FB%2Fiii%2FI
-[/us/pl/111/13/s1509/3/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FB%2Fiii%2FII
-[/us/pl/111/13/s1509/3/B/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FB%2Fiii%2FIII
-[/us/pl/111/13/s1509/3/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FB%2Fiv
-[/us/pl/111/13/s1509/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1509%2F3%2FC
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t42/s12622/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12622%2Fa%2F2%2FA
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/103/82/s403/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F1%2FA
-[/us/pl/103/82/s104/e/2/E/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FE%2Fi%2FI
-[/us/pl/103/82/s403/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F1%2FB
-[/us/pl/103/82/s104/e/2/E/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FE%2Fi%2FII
-[/us/pl/103/82/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F2
-[/us/pl/103/82/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs402%2Fb%2F1
-[/us/pl/103/82/s403/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F3%2FA
-[/us/pl/103/82/s403/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs403%2Fa%2F3%2FB
-[/us/pl/103/82/s104/e/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F2%2FE%2Fii
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

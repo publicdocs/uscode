@@ -27,7 +27,7 @@
 
         A person who knowingly discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.
 
-([Pub. L. 106–546, § 10][/us/pl/106/546/s10], Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735]; [Pub. L. 108–405, title II, § 203(e)(2)][/us/pl/108/405/s203/e/2], title III, § 309, Oct. 30, 2004, [118 Stat. 2271][/us/stat/118/2271], 2275.)
+([Pub. L. 106–546][/us/pl/106/546], § 10, Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735]; [Pub. L. 108–405, title II][/us/pl/108/405/tII], § 203(e)(2), title III, § 309, Oct. 30, 2004, [118 Stat. 2271][/us/stat/118/2271], 2275.)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c). [Pub. L. 108–405, § 309][/us/pl/108/405/s309], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A person who knowingly—
+    2004—Subsec. (c). [Pub. L. 108–405][/us/pl/108/405], § 309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A person who knowingly—
 
     “(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
 
@@ -43,7 +43,7 @@
 
     shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both.”
 
-    [Pub. L. 108–405, § 203(e)(2)][/us/pl/108/405/s203/e/2], substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000” in concluding provisions.
+    [Pub. L. 108–405][/us/pl/108/405], § 203(e)(2), substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000” in concluding provisions.
 
 ----------
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t42/s14132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14132%2Fb%2F3
-[/us/pl/106/546/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs10
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2735
-[/us/pl/108/405/s203/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fe%2F2
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2271
-[/us/pl/108/405/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs309
-[/us/pl/108/405/s203/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fe%2F2
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 
 

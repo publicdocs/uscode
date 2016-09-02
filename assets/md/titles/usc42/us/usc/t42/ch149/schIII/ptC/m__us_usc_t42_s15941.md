@@ -17,7 +17,7 @@
 
     No Federal or State permit or lease shall be issued for new oil and gas slant, directional, or offshore drilling in or under one or more of the Great Lakes.
 
-([Pub. L. 109–58, title III, § 386][/us/pl/109/58/s386], Aug. 8, 2005, [119 Stat. 744][/us/stat/119/744].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 386, Aug. 8, 2005, [119 Stat. 744][/us/stat/119/744].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs386
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F744
 
 

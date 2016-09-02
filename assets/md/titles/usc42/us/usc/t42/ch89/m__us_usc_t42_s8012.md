@@ -193,13 +193,13 @@
 
         Not later than the expiration of the 180-day period beginning on the date that funds authorized for the demonstrations under this section first become available for obligation, the Secretary shall by notice establish such requirements as may be necessary to carry out the demonstration programs authorized under this section.
 
-([Pub. L. 101–625, title VIII, § 803][/us/pl/101/625/s803], Nov. 28, 1990, [104 Stat. 4317][/us/stat/104/4317]; [Pub. L. 102–550, title VI, § 605][/us/pl/102/550/s605], Oct. 28, 1992, [106 Stat. 3806][/us/stat/106/3806].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 803, Nov. 28, 1990, [104 Stat. 4317][/us/stat/104/4317]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 605, Oct. 28, 1992, [106 Stat. 3806][/us/stat/106/3806].)
 
  __References in Text__ 
 
     The Older Americans Act of 1965, referred to in subsec. (d)(12), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], as amended. Title III of the Act is classified generally to subchapter III (§ 3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
-    [Section 1437a(b)(11) of this title][/us/usc/t42/s1437a/b/11], referred to in subsec. (g)(5), was repealed by [Pub. L. 104–330, title V, § 501(b)(1)(D)][/us/pl/104/330/s501/b/1/D], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by [Pub. L. 105–276, title V, § 506(4)][/us/pl/105/276/s506/4], Oct. 21, 1998, [112 Stat. 2524][/us/stat/112/2524].
+    [Section 1437a(b)(11) of this title][/us/usc/t42/s1437a/b/11], referred to in subsec. (g)(5), was repealed by [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(1)(D), Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 506(4), Oct. 21, 1998, [112 Stat. 2524][/us/stat/112/2524].
 
  __Codification__ 
 
@@ -207,13 +207,13 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 605(c)(1)][/us/pl/102/550/s605/c/1], substituted “determined by the Secretary” for “beginning on November 28, 1990”.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 605(c)(1), substituted “determined by the Secretary” for “beginning on November 28, 1990”.
 
-    Subsec. (g)(1). [Pub. L. 102–550, § 605(c)(2)][/us/pl/102/550/s605/c/2], added par. (1) and struck out former par. (1) which read as follows: “The term ‘demonstration period’ means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a) of this section.”
+    Subsec. (g)(1). [Pub. L. 102–550][/us/pl/102/550], § 605(c)(2), added par. (1) and struck out former par. (1) which read as follows: “The term ‘demonstration period’ means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a) of this section.”
 
-    Subsec. (j). [Pub. L. 102–550, § 605(a)][/us/pl/102/550/s605/a], amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary may provide assistance under sections 1437f(b) and 1437f(o) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under [section 1437c of this title][/us/usc/t42/s1437c].”
+    Subsec. (j). [Pub. L. 102–550][/us/pl/102/550], § 605(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary may provide assistance under sections 1437f(b) and 1437f(o) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under [section 1437c of this title][/us/usc/t42/s1437c].”
 
-    Subsec. (k). [Pub. L. 102–550, § 605(b)][/us/pl/102/550/s605/b], amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section, $10,000,000 to become available in fiscal year 1991, and $10,400,000 to become available in fiscal year 1992, and remain available until expended.”
+    Subsec. (k). [Pub. L. 102–550][/us/pl/102/550], § 605(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section, $10,000,000 to become available in fiscal year 1991, and $10,400,000 to become available in fiscal year 1992, and remain available until expended.”
 
 ----------
 
@@ -233,22 +233,22 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s1437c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fc
-[/us/pl/101/625/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs803
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4317
-[/us/pl/102/550/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs605
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3806
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t42/s1437a/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F11
-[/us/pl/104/330/s501/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F1%2FD
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
-[/us/pl/105/276/s506/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs506%2F4
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2524
-[/us/pl/102/550/s605/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs605%2Fc%2F1
-[/us/pl/102/550/s605/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs605%2Fc%2F2
-[/us/pl/102/550/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs605%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c
-[/us/pl/102/550/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs605%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

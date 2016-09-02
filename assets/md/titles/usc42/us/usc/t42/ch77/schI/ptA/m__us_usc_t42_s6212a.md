@@ -47,7 +47,7 @@
 
             Any requirement or restriction imposed pursuant to subparagraph (A) of paragraph (1) may be renewed for 1 or more additional periods of not more than 1 year each.
 
-([Pub. L. 114–113, div. O, title I, § 101][/us/pl/114/113/s101], Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987].)
+([Pub. L. 114–113, div. O, title I][/us/pl/114/113/dO/tI], § 101, Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
     Section was enacted as part of the Consolidated Appropriations Act, 2016, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
 
-    Section is comprised of [section 101 of div. O of Pub. L. 114–113][/us/pl/114/113/s101]. Subsec. (a) of [section 101 of div. O of Pub. L. 114–113][/us/pl/114/113/s101] repealed [section 6212 of this title][/us/usc/t42/s6212]. Subsec. (e) of [section 101 of div. O of Pub. L. 114–113][/us/pl/114/113/s101] amended sections 53106 and 53111 of Title 46, Shipping.
+    Section is comprised of [section 101 of div. O of Pub. L. 114–113][/us/pl/114/113/dO/s101]. Subsec. (a) of [section 101 of div. O of Pub. L. 114–113][/us/pl/114/113/dO/s101] repealed [section 6212 of this title][/us/usc/t42/s6212]. Subsec. (e) of [section 101 of div. O of Pub. L. 114–113][/us/pl/114/113/dO/s101] amended sections 53106 and 53111 of Title 46, Shipping.
 
 ----------
 
@@ -78,7 +78,7 @@
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/usc/t42/s6271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6271
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
-[/us/pl/114/113/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101
+[/us/pl/114/113/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtI
 [/us/stat/129/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2987
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
@@ -93,9 +93,9 @@
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/stat/129/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2986
-[/us/pl/114/113/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101
-[/us/pl/114/113/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101
+[/us/pl/114/113/dO/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2Fs101
+[/us/pl/114/113/dO/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2Fs101
 [/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
-[/us/pl/114/113/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101
+[/us/pl/114/113/dO/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2Fs101
 
 

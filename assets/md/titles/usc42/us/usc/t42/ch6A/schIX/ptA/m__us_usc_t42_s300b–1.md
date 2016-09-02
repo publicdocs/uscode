@@ -17,15 +17,15 @@
 
     In carrying out [section 241 of this title][/us/usc/t42/s241], the Secretary may make grants to public and nonprofit private entities, and may enter into contracts with public and private entities and individuals, for projects for (1) basic or applied research leading to the understanding, diagnosis, treatment, and control of genetic diseases, (2) planning, establishing, demonstrating, and developing special programs for the training of genetic counselors, social and behavioral scientists, and other health professionals, (3) the development of programs to educate practicing physicians, other health professionals, and the public regarding the nature of genetic processes, the inheritance patterns of genetic diseases, and the means, methods, and facilities available to diagnose, control, counsel, and treat genetic diseases, and (4) the development of counseling and testing programs and other programs for the diagnosis, control, and treatment of genetic diseases. In making grants and entering into contracts for projects described in clause (1) of the preceding sentence, the Secretary shall give priority to applications for such grants or contracts which are submitted for research on sickle cell anemia and for research on Cooley’s anemia.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1102, as added [Pub. L. 94–278, title IV, § 403(a)][/us/pl/94/278/s403/a], Apr. 22, 1976, [90 Stat. 408][/us/stat/90/408].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1102, as added [Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(a), Apr. 22, 1976, [90 Stat. 408][/us/stat/90/408].)
 
  __Prior Provisions__ 
 
-    A prior section 300b–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1102, as added May 16, 1972, [Pub. L. 92–294, § 3(c)][/us/pl/92/294/s3/c], [86 Stat. 138][/us/stat/86/138], authorized Secretary to make grants and enter contracts with public and private entities and individuals for projects concerned with research, research training in diagnosis, treatment and control of sickle cell anemia, informational and educational programs with respect to sickle cell anemia and development of counseling and testing programs, prior to repeal by [Pub. L. 94–278, title IV, § 403(a)][/us/pl/94/278/s403/a], Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407].
+    A prior section 300b–1, [act July 1, 1944, ch. 373, title XI][/us/act/1944-07-01/ch373/tXI], § 1102, as added May 16, 1972, [Pub. L. 92–294][/us/pl/92/294], § 3(c), [86 Stat. 138][/us/stat/86/138], authorized Secretary to make grants and enter contracts with public and private entities and individuals for projects concerned with research, research training in diagnosis, treatment and control of sickle cell anemia, informational and educational programs with respect to sickle cell anemia and development of counseling and testing programs, prior to repeal by [Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(a), Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407].
 
  __Effective Date__ 
 
-[Pub. L. 94–278, title IV, § 403(c)][/us/pl/94/278/s403/c], Apr. 22, 1976, [90 Stat. 410][/us/stat/90/410], provided that: 
+[Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(c), Apr. 22, 1976, [90 Stat. 410][/us/stat/90/410], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[see [section 401 of Pub. L. 94–278][/us/pl/94/278/s401], set out as a Short Title of 1976 Amendment note under [section 201 of this title][/us/usc/t42/s201]\] shall take effect July 1, 1976.”
 
@@ -35,7 +35,7 @@
 
  __Demonstration Program for the Development and Establishment of Systemic Mechanisms for the Prevention and Treatment of Sickle Cell Disease__ 
 
-[Pub. L. 108–357, title VII, § 712(c)][/us/pl/108/357/s712/c], Oct. 22, 2004, [118 Stat. 1559][/us/stat/118/1559], provided that:
+[Pub. L. 108–357, title VII][/us/pl/108/357/tVII], § 712(c), Oct. 22, 2004, [118 Stat. 1559][/us/stat/118/1559], provided that:
 
 >     “(1) __Authority to conduct demonstration program.—__ 
 
@@ -141,7 +141,7 @@
 
  __Congressional Declaration of Purpose__ 
 
-[Pub. L. 94–278, title IV, § 402][/us/pl/94/278/s402], Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407], as amended by [Pub. L. 95–626, title II, § 205(a)][/us/pl/95/626/s205/a], Nov. 10, 1978, [92 Stat. 3583][/us/stat/92/3583]; [Pub. L. 111–256, § 2(i)][/us/pl/111/256/s2/i], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644], provided that: 
+[Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 402, Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407], as amended by [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 205(a), Nov. 10, 1978, [92 Stat. 3583][/us/stat/92/3583]; [Pub. L. 111–256][/us/pl/111/256], § 2(i), Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644], provided that: 
 
 > “In order to preserve and protect the health and welfare of all citizens, it is the purpose of this title \[see [section 401 of Pub. L. 94–278][/us/pl/94/278/s401], set out as a Short Title of 1976 Amendment note under [section 201 of this title][/us/usc/t42/s201]\] to establish a national program to provide for basic and applied research, research training, testing, counseling, and information and education programs with respect to genetic diseases, and genetic conditions, such as Sickle Cell anemia, Cooley’s Anemia, Tay–Sachs disease, cystic fibrosis, dysautonomia, hemophilia, retinitis pigmentosa, Huntington’s chorea, muscular dystrophy, and genetic conditions leading to intellectual disabilities or genetically caused mental disorders.”
 
@@ -156,29 +156,29 @@
 
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/278/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fa
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/92/294/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294%2Fs3%2Fc
+[/us/act/1944-07-01/ch373/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXI
+[/us/pl/92/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294
 [/us/stat/86/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F138
-[/us/pl/94/278/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fa
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F407
-[/us/pl/94/278/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fc
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F410
 [/us/pl/94/278/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs401
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/94/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278
 [/us/pl/94/278/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs401
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/108/357/s712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs712%2Fc
+[/us/pl/108/357/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVII
 [/us/stat/118/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1559
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
-[/us/pl/94/278/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs402
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F407
-[/us/pl/95/626/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs205%2Fa
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3583
-[/us/pl/111/256/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fi
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
 [/us/pl/94/278/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs401
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201

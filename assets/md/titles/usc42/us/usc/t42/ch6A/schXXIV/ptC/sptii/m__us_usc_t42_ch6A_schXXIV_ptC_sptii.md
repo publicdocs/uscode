@@ -17,11 +17,11 @@
 
  __Prior Provisions__ 
 
-    A prior subpart II, consisting of sections 300ff–51 to 300ff–55, was redesignated subpart I of this part by [Pub. L. 106–345, title III, § 301(b)(1)][/us/pl/106/345/s301/b/1], Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345].
+    A prior subpart II, consisting of sections 300ff–51 to 300ff–55, was redesignated subpart I of this part by [Pub. L. 106–345, title III][/us/pl/106/345/tIII], § 301(b)(1), Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345].
 
  __Amendments__ 
 
-    [Pub. L. 106–345, title III, § 301(b)(1)][/us/pl/106/345/s301/b/1], Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345], redesignated subpart III as subpart II.
+    [Pub. L. 106–345, title III][/us/pl/106/345/tIII], § 301(b)(1), Oct. 20, 2000, [114 Stat. 1345][/us/stat/114/1345], redesignated subpart III as subpart II.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/106/345/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs301%2Fb%2F1
+[/us/pl/106/345/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIII
 [/us/stat/114/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1345
-[/us/pl/106/345/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs301%2Fb%2F1
+[/us/pl/106/345/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIII
 [/us/stat/114/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1345
 
 

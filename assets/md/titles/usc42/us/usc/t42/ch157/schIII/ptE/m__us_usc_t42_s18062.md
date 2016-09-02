@@ -55,7 +55,7 @@
 
             The target amount of a plan for any year is an amount equal to the total premiums (including any premium subsidies under any governmental program), reduced by the administrative costs of the plan.
 
-([Pub. L. 111–148, title I, § 1342][/us/pl/111/148/s1342], Mar. 23, 2010, [124 Stat. 211][/us/stat/124/211].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1342, Mar. 23, 2010, [124 Stat. 211][/us/stat/124/211].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
-[/us/pl/111/148/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1342
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F211
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

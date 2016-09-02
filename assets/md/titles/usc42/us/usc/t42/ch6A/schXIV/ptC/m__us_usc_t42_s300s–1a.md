@@ -79,7 +79,7 @@
 
         The right of recovery of the United States under subsection (a) of this section shall not constitute a lien on any facility with respect to which funds have been paid under this subchapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1622, formerly § 1631, as added [Pub. L. 93–641, § 4][/us/pl/93/641/s4], Jan. 4, 1975, [88 Stat. 2269][/us/stat/88/2269]; amended [Pub. L. 94–278, title XI, § 1106(c)][/us/pl/94/278/s1106/c], Apr. 22, 1976, [90 Stat. 416][/us/stat/90/416]; renumbered § 1622 and amended [Pub. L. 96–79, title II][/us/pl/96/79], §§ 202(b), 203(c), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], 635; [Pub. L. 98–369, div. B][/us/pl/98/369]. title III, § 2381(b), July 18, 1984, [98 Stat. 1114][/us/stat/98/1114].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1622, formerly § 1631, as added [Pub. L. 93–641][/us/pl/93/641], § 4, Jan. 4, 1975, [88 Stat. 2269][/us/stat/88/2269]; amended [Pub. L. 94–278, title XI][/us/pl/94/278/tXI], § 1106(c), Apr. 22, 1976, [90 Stat. 416][/us/stat/90/416]; renumbered § 1622 and amended [Pub. L. 96–79, title II][/us/pl/96/79/tII], §§ 202(b), 203(c), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], 635; [Pub. L. 98–369, div. B][/us/pl/98/369/dB]. title III, § 2381(b), July 18, 1984, [98 Stat. 1114][/us/stat/98/1114].)
 
  __Codification__ 
 
@@ -87,7 +87,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1622 of act July 1, 1944, as added Jan. 4, 1975, [Pub. L. 93–641, § 4][/us/pl/93/641/s4], [88 Stat. 2265][/us/stat/88/2265], was renumbered section 1602 as part of the general revision of this subchapter by [Pub. L. 96–79][/us/pl/96/79] and is classified to [section 300q–2 of this title][/us/usc/t42/s300q–2].
+    A prior section 1622 of act July 1, 1944, as added Jan. 4, 1975, [Pub. L. 93–641][/us/pl/93/641], § 4, [88 Stat. 2265][/us/stat/88/2265], was renumbered section 1602 as part of the general revision of this subchapter by [Pub. L. 96–79][/us/pl/96/79] and is classified to [section 300q–2 of this title][/us/usc/t42/s300q–2].
 
  __Amendments__ 
 
@@ -109,7 +109,7 @@
 
     If the amount which the United States is entitled to recover under subsection (a) of this section exceeds 90 per centum of the total cost of the construction or modernization project for a facility, a waiver under this subsection shall only apply with respect to an amount which is not more than 90 per centum of such total cost.”
 
-    1979—Subsec. (a)(1)(A). [Pub. L. 96–79, § 203(c)][/us/pl/96/79/s203/c], substituted “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title”.
+    1979—Subsec. (a)(1)(A). [Pub. L. 96–79][/us/pl/96/79], § 203(c), substituted “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -130,23 +130,23 @@
 [/us/usc/t42/s300s–1/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300s%E2%80%931%2Fb%2F1%2FK
 [/us/usc/t42/s300s–1/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300s%E2%80%931%2Fb%2F1%2FK
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2269
-[/us/pl/94/278/s1106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs1106%2Fc
+[/us/pl/94/278/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtXI
 [/us/stat/90/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F416
-[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB
 [/us/stat/98/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1114
 [/us/usc/t42/s300s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300s%E2%80%931
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2265
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/usc/t42/s300q–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q%E2%80%932
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t42/s300m–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m%E2%80%933%2Fc
-[/us/pl/96/79/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Fc
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/pl/96/79/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs204
 [/us/usc/t42/s300q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q

@@ -45,7 +45,7 @@
 
         The Commission, in cooperation with the Secretary, shall ensure that any relevant information, other than trade secrets and other proprietary information otherwise exempted from mandatory disclosure under any other provision of law, obtained from the conduct of each of the remedial actions authorized by this subchapter and the subsequent perpetual care of those residual radioactive materials is documented systematically, and made publicly available conveniently for use.
 
-([Pub. L. 95–604, title I, § 114][/us/pl/95/604/s114], Nov. 8, 1978, [92 Stat. 3032][/us/stat/92/3032]; H. Res. 549, Mar. 25, 1980.)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 114, Nov. 8, 1978, [92 Stat. 3032][/us/stat/92/3032]; H. Res. 549, Mar. 25, 1980.)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/95/604/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs114
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3032
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021

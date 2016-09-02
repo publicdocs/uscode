@@ -275,17 +275,17 @@
 
         (2) and 2 such sums as are necessary for each subsequent fiscal year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 736, as added [Pub. L. 105–392, title I, § 101(a)][/us/pl/105/392/s101/a], Nov. 13, 1998, [112 Stat. 3525][/us/stat/112/3525]; amended [Pub. L. 111–148, title V, § 5401][/us/pl/111/148/s5401], Mar. 23, 2010, [124 Stat. 642][/us/stat/124/642].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 736, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 101(a), Nov. 13, 1998, [112 Stat. 3525][/us/stat/112/3525]; amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5401, Mar. 23, 2010, [124 Stat. 642][/us/stat/124/642].)
 
  __References in Text__ 
 
-    [Section 295g–8b of this title][/us/usc/t42/s295g–8b], referred to in subsec. (c)(2)(A)(ii), was omitted in the general amendment of this subchapter by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994].
+    [Section 295g–8b of this title][/us/usc/t42/s295g–8b], referred to in subsec. (c)(2)(A)(ii), was omitted in the general amendment of this subchapter by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994].
 
  __Prior Provisions__ 
 
-    A prior section 293, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 736, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2022][/us/stat/106/2022], authorized grants to schools of medicine, osteopathic medicine, and dentistry for need-based scholarships, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
+    A prior section 293, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 736, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2022][/us/stat/106/2022], authorized grants to schools of medicine, osteopathic medicine, and dentistry for need-based scholarships, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
 
-    Another prior section 293, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 720, as added Sept. 24, 1963, [Pub. L. 88–129, § 2(b)][/us/pl/88/129/s2/b], [77 Stat. 164][/us/stat/77/164]; amended Sept. 4, 1964, [Pub. L. 88–581, § 3(a)][/us/pl/88/581/s3/a], [78 Stat. 919][/us/stat/78/919]; Oct. 22, 1965, [Pub. L. 89–290, § 3(a)][/us/pl/89/290/s3/a], [79 Stat. 1056][/us/stat/79/1056]; Nov. 2, 1966, [Pub. L. 89–709, § 2(a)][/us/pl/89/709/s2/a], [80 Stat. 1103][/us/stat/80/1103]; Aug. 16, 1968, [Pub. L. 90–490, title I, § 101(a)][/us/pl/90/490/s101/a], (b)(1), [82 Stat. 773][/us/stat/82/773]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 102(a)][/us/pl/92/157/s102/a], [85 Stat. 431][/us/stat/85/431]; Oct. 12, 1976, [Pub. L. 94–484, title I, § 101(c)][/us/pl/94/484/s101/c], title III, § 302, [90 Stat. 2244][/us/stat/90/2244], 2253; Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2723(a)][/us/pl/97/35/s2723/a], (b), [95 Stat. 915][/us/stat/95/915], authorized grants for construction of teaching facilities for medical, dental, and other health personnel, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
+    Another prior section 293, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 720, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(b), [77 Stat. 164][/us/stat/77/164]; amended Sept. 4, 1964, [Pub. L. 88–581][/us/pl/88/581], § 3(a), [78 Stat. 919][/us/stat/78/919]; Oct. 22, 1965, [Pub. L. 89–290][/us/pl/89/290], § 3(a), [79 Stat. 1056][/us/stat/79/1056]; Nov. 2, 1966, [Pub. L. 89–709][/us/pl/89/709], § 2(a), [80 Stat. 1103][/us/stat/80/1103]; Aug. 16, 1968, [Pub. L. 90–490, title I][/us/pl/90/490/tI], § 101(a), (b)(1), [82 Stat. 773][/us/stat/82/773]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 102(a), [85 Stat. 431][/us/stat/85/431]; Oct. 12, 1976, [Pub. L. 94–484, title I][/us/pl/94/484/tI], § 101(c), title III, § 302, [90 Stat. 2244][/us/stat/90/2244], 2253; Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2723(a), (b), [95 Stat. 915][/us/stat/95/915], authorized grants for construction of teaching facilities for medical, dental, and other health personnel, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
     A prior section 736 of act July 1, 1944, was classified to [section 294i of this title][/us/usc/t42/s294i] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
@@ -295,7 +295,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 105–392, title I, § 110][/us/pl/105/392/s110], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562], provided that: 
+[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 110, Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562], provided that: 
 
 > “In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§ 101–110) of title I of [Pub. L. 105–392][/us/pl/105/392], see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
@@ -309,39 +309,39 @@
 [/us/usc/t42/s295p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295p%2F1
 [/us/usc/t42/s295g–8b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295g%E2%80%938b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs101%2Fa
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3525
-[/us/pl/111/148/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5401
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F642
 [/us/usc/t42/s295g–8b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295g%E2%80%938b
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2022
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F164
-[/us/pl/88/581/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs3%2Fa
+[/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
 [/us/stat/78/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F919
-[/us/pl/89/290/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290%2Fs3%2Fa
+[/us/pl/89/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290
 [/us/stat/79/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1056
-[/us/pl/89/709/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F709%2Fs2%2Fa
+[/us/pl/89/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F709
 [/us/stat/80/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1103
-[/us/pl/90/490/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs101%2Fa
+[/us/pl/90/490/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtI
 [/us/stat/82/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F773
-[/us/pl/92/157/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs102%2Fa
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F431
-[/us/pl/94/484/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs101%2Fc
+[/us/pl/94/484/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtI
 [/us/stat/90/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2244
-[/us/pl/97/35/s2723/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2723%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F915
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s294i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294i
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/105/392/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs110
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 

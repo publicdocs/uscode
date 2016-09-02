@@ -17,7 +17,7 @@
 
     In this Act, the term “Indian Tribe” has the meaning given that term in [section 3791 of this title][/us/usc/t42/s3791].
 
-([Pub. L. 110–199, § 4][/us/pl/110/199/s4], Apr. 9, 2008, [122 Stat. 660][/us/stat/122/660].)
+([Pub. L. 110–199][/us/pl/110/199], § 4, Apr. 9, 2008, [122 Stat. 660][/us/stat/122/660].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@ This Act, referred to in text, is [Pub. L. 110–199][/us/pl/110/199], Apr. 9, 2
 ----------
 
 [/us/usc/t42/s3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3791
-[/us/pl/110/199/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs4
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F660
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/stat/122/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F657

@@ -17,7 +17,7 @@
 
     The Director shall provide funds to eligible States and units of local government pursuant to this subchapter.
 
-([Pub. L. 90–351, title I, § 1401][/us/pl/90/351/s1401], as added [Pub. L. 101–647, title II, § 241(a)(2)][/us/pl/101/647/s241/a/2], Nov. 29, 1990, [104 Stat. 4810][/us/stat/104/4810].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1401, as added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(a)(2), Nov. 29, 1990, [104 Stat. 4810][/us/stat/104/4810].)
 
  __Codification__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1401
-[/us/pl/101/647/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4810
 [/us/pl/90/351/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1401
 [/us/stat/82/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F238

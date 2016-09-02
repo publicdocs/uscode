@@ -41,7 +41,7 @@
 
         There is authorized to be appropriated to carry out this section $500,000 for each of fiscal years 2001 through 2004.
 
-([Pub. L. 103–322, title IV, § 40901][/us/pl/103/322/s40901], as added [Pub. L. 106–386, div. B, title IV, § 1407][/us/pl/106/386/s1407], Oct. 28, 2000, [114 Stat. 1517][/us/stat/114/1517].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40901, as added [Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1407, Oct. 28, 2000, [114 Stat. 1517][/us/stat/114/1517].)
 
  __References in Text__ 
 
@@ -49,15 +49,15 @@
 
  __Study of State Laws Regarding Insurance Discrimination Against Victims of Violence Against Women__ 
 
-    [Pub. L. 106–386, div. B, title II, § 1206][/us/pl/106/386/s1206], Oct. 28, 2000, [114 Stat. 1507][/us/stat/114/1507], directed the Attorney General to conduct a national study to identify State laws that address insurance discrimination against victims of domestic violence and sexual assault and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
+    [Pub. L. 106–386, div. B, title II][/us/pl/106/386/dB/tII], § 1206, Oct. 28, 2000, [114 Stat. 1507][/us/stat/114/1507], directed the Attorney General to conduct a national study to identify State laws that address insurance discrimination against victims of domestic violence and sexual assault and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
 
  __Study of Workplace Effects From Violence Against Women__ 
 
-    [Pub. L. 106–386, div. B, title II, § 1207][/us/pl/106/386/s1207], Oct. 28, 2000, [114 Stat. 1507][/us/stat/114/1507], directed the Attorney General to conduct a national survey of programs to assist employers and employees on appropriate responses in the workplace to victims of domestic violence, stalking, or sexual assault, and not later than 18 months after Oct. 28, 2000, to submit to Congress a report and recommendations based on that survey.
+    [Pub. L. 106–386, div. B, title II][/us/pl/106/386/dB/tII], § 1207, Oct. 28, 2000, [114 Stat. 1507][/us/stat/114/1507], directed the Attorney General to conduct a national survey of programs to assist employers and employees on appropriate responses in the workplace to victims of domestic violence, stalking, or sexual assault, and not later than 18 months after Oct. 28, 2000, to submit to Congress a report and recommendations based on that survey.
 
  __Study of Unemployment Compensation for Victims of Violence Against Women__ 
 
-    [Pub. L. 106–386, div. B, title II, § 1208][/us/pl/106/386/s1208], Oct. 28, 2000, [114 Stat. 1508][/us/stat/114/1508], directed the Secretary of Labor, in consultation with the Attorney General, to conduct a national study to identify the impact of State unemployment compensation laws on victims of domestic violence when the victim’s separation from employment is a direct result of the domestic violence and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
+    [Pub. L. 106–386, div. B, title II][/us/pl/106/386/dB/tII], § 1208, Oct. 28, 2000, [114 Stat. 1508][/us/stat/114/1508], directed the Secretary of Labor, in consultation with the Attorney General, to conduct a national study to identify the impact of State unemployment compensation laws on victims of domestic violence when the victim’s separation from employment is a direct result of the domestic violence and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
 
 ----------
 
@@ -66,16 +66,16 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40901
-[/us/pl/106/386/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1407
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1517
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
-[/us/pl/106/386/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1206
+[/us/pl/106/386/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtII
 [/us/stat/114/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1507
-[/us/pl/106/386/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1207
+[/us/pl/106/386/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtII
 [/us/stat/114/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1507
-[/us/pl/106/386/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1208
+[/us/pl/106/386/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtII
 [/us/stat/114/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1508
 
 

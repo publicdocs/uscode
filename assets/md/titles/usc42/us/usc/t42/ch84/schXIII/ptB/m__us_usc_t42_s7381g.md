@@ -25,11 +25,11 @@
 
         The term “National Laboratory” has the meaning given the term in [section 15801 of this title][/us/usc/t42/s15801].
 
-([Pub. L. 101–510, div. C, title XXXI, § 3170][/us/pl/101/510/s3170], as added [Pub. L. 110–69, title V, § 5003(d)(3)][/us/pl/110/69/s5003/d/3], Aug. 9, 2007, [121 Stat. 603][/us/stat/121/603].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3170, as added [Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5003(d)(3), Aug. 9, 2007, [121 Stat. 603][/us/stat/121/603].)
 
  __Consultation__ 
 
-[Pub. L. 110–69, title V, § 5003(b)][/us/pl/110/69/s5003/b], Aug. 9, 2007, [121 Stat. 602][/us/stat/121/602], provided that: 
+[Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5003(b), Aug. 9, 2007, [121 Stat. 602][/us/stat/121/602], provided that: 
 
 > “The Secretary \[of Energy\] shall—
 
@@ -45,10 +45,10 @@
 ----------
 
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
-[/us/pl/101/510/s3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3170
-[/us/pl/110/69/s5003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fd%2F3
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F603
-[/us/pl/110/69/s5003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fb
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F602
 
 

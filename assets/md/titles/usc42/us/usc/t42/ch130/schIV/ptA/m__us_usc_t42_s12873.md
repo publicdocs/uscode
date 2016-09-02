@@ -133,7 +133,7 @@
 
         The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved. The Secretary may approve the application for an implementation grant with a statement that the application for the section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] assistance for residents of the project not purchasing units is conditionally approved, subject to the availability of appropriations in subsequent fiscal years.
 
-([Pub. L. 101–625, title IV, § 423][/us/pl/101/625/s423], Nov. 28, 1990, [104 Stat. 4163][/us/stat/104/4163]; [Pub. L. 102–550, title X, § 1012(i)(2)][/us/pl/102/550/s1012/i/2], Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 423, Nov. 28, 1990, [104 Stat. 4163][/us/stat/104/4163]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1012(i)(2), Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].)
 
  __References in Text__ 
 
@@ -170,9 +170,9 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/101/625/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs423
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4163
-[/us/pl/102/550/s1012/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fi%2F2
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3906
 [/us/usc/t42/s12872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12872
 [/us/pl/101/625/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs422

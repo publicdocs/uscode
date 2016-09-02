@@ -17,41 +17,41 @@
 
     The Congress affirms the national goal that every American family be able to afford a decent home in a suitable environment.
 
-([Pub. L. 101–625, title I, § 101][/us/pl/101/625/s101], Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 101, Nov. 28, 1990, [104 Stat. 4085][/us/stat/104/4085].)
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–186, title I, § 101][/us/pl/108/186/s101], Dec. 16, 2003, [117 Stat. 2685][/us/stat/117/2685], provided that: 
+[Pub. L. 108–186, title I][/us/pl/108/186/tI], § 101, Dec. 16, 2003, [117 Stat. 2685][/us/stat/117/2685], provided that: 
 
 > “This title \[amending part E of subchapter II of this chapter\] may be cited as the ‘American Dream Downpayment Act’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–569, title I, § 101][/us/pl/106/569/s101], Dec. 27, 2000, [114 Stat. 2946][/us/stat/114/2946], provided that: 
+[Pub. L. 106–569, title I][/us/pl/106/569/tI], § 101, Dec. 27, 2000, [114 Stat. 2946][/us/stat/114/2946], provided that: 
 
 > “This title \[amending sections 5307, 12705c, and 12705d of this title\] may be cited as the ‘Housing Affordability Barrier Removal Act of 2000’.”
 
  __Short Title__ 
 
-[Pub. L. 101–625, § 1(a)][/us/pl/101/625/s1/a], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079], provided that: 
+[Pub. L. 101–625][/us/pl/101/625], § 1(a), Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Cranston-Gonzalez National Affordable Housing Act’.”
 
-[Pub. L. 101–625, title II, § 201][/us/pl/101/625/s201], Nov. 28, 1990, [104 Stat. 4094][/us/stat/104/4094], provided that: 
+[Pub. L. 101–625, title II][/us/pl/101/625/tII], § 201, Nov. 28, 1990, [104 Stat. 4094][/us/stat/104/4094], provided that: 
 
 > “This title \[enacting subchapter II of this chapter, amending [section 1437f of this title][/us/usc/t42/s1437f], and repealing sections 1437o and 1452b of this title, [section 1706e of Title 12][/us/usc/t12/s1706e], Banks and Banking, and provisions set out as a note under section 1715l of Title 12\] may be cited as the ‘HOME Investment Partnerships Act’.”
 
-[Pub. L. 101–625, title III, § 301][/us/pl/101/625/s301], Nov. 28, 1990, [104 Stat. 4129][/us/stat/104/4129], provided that: 
+[Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 301, Nov. 28, 1990, [104 Stat. 4129][/us/stat/104/4129], provided that: 
 
 > “This subtitle \[subtitle A (§§ 301–310) of title III of [Pub. L. 101–625][/us/pl/101/625], enacting subchapter III of this chapter\] may be cited as the ‘National Homeownership Trust Act’.”
 
  __Millennial Housing Commission__ 
 
-[Pub. L. 107–73, title II][/us/pl/107/73], Nov. 26, 2001, [115 Stat. 671][/us/stat/115/671], provided in part: 
+[Pub. L. 107–73, title II][/us/pl/107/73/tII], Nov. 26, 2001, [115 Stat. 671][/us/stat/115/671], provided in part: 
 
 > “That $1,500,000 shall be for necessary expenses of the Millennial Housing Commission, as authorized by [section 206 of Public Law 106–74][/us/pl/106/74/s206] \[set out below\], with the final report due no later than May 30, 2002 and a termination date of August 30, 2002, notwithstanding section 206(f) and (g) of [Public Law 106–74][/us/pl/106/74]”.
 
-[Pub. L. 106–74, title II, § 206][/us/pl/106/74/s206], Oct. 20, 1999, [113 Stat. 1070][/us/stat/113/1070], as amended by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title X, § 1001\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–310, provided that:
+[Pub. L. 106–74, title II][/us/pl/106/74/tII], § 206, Oct. 20, 1999, [113 Stat. 1070][/us/stat/113/1070], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title X, § 1001\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–310, provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -171,11 +171,11 @@
 
  __Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century__ 
 
-[Pub. L. 107–73, title II][/us/pl/107/73], Nov. 26, 2001, [115 Stat. 671][/us/stat/115/671], provided in part: 
+[Pub. L. 107–73, title II][/us/pl/107/73/tII], Nov. 26, 2001, [115 Stat. 671][/us/stat/115/671], provided in part: 
 
 > “That $1,000,000 shall be for necessary expenses of the commission established under section 525 of the Preserving Affordable Housing for Senior Citizens and Families in the 21st Century Act \[[Pub. L. 106–74][/us/pl/106/74], set out below\], with the final report due no later than June 30, 2002 and a termination date of September 30, 2002, notwithstanding section 525(f) and (g) of [Public Law 106–74][/us/pl/106/74]”.
 
-[Pub. L. 106–74, title V, § 525][/us/pl/106/74/s525], Oct. 20, 1999, [113 Stat. 1106][/us/stat/113/1106], as amended by [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 230\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31, provided that:
+[Pub. L. 106–74, title V][/us/pl/106/74/tV], § 525, Oct. 20, 1999, [113 Stat. 1106][/us/stat/113/1106], as amended by [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 230\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–31, provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -308,39 +308,39 @@
 ----------
 ----------
 
-[/us/pl/101/625/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs101
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4085
-[/us/pl/108/186/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs101
+[/us/pl/108/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtI
 [/us/stat/117/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2685
-[/us/pl/106/569/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs101
+[/us/pl/106/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtI
 [/us/stat/114/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2946
-[/us/pl/101/625/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs1%2Fa
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
-[/us/pl/101/625/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs201
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4094
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1706e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1706e
-[/us/pl/101/625/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs301
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4129
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtII
 [/us/stat/115/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F671
 [/us/pl/106/74/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs206
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
-[/us/pl/106/74/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs206
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
 [/us/stat/113/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1070
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtII
 [/us/stat/115/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F671
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
-[/us/pl/106/74/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs525
+[/us/pl/106/74/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtV
 [/us/stat/113/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1106
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5

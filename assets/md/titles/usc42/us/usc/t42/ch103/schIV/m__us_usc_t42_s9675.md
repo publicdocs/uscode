@@ -31,7 +31,7 @@
 
         The ownership interests of members in a risk retention group shall not be considered securities for purposes of any State blue sky law.
 
-([Pub. L. 96–510, title IV, § 405][/us/pl/96/510/s405], as added [Pub. L. 99–499, title II, § 210(a)][/us/pl/99/499/s210/a], formerly § 210, Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; renumbered § 210(a), [Pub. L. 99–563, § 11(c)(1)][/us/pl/99/563/s11/c/1], Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177].)
+([Pub. L. 96–510, title IV][/us/pl/96/510/tIV], § 405, as added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 210(a), formerly § 210, Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; renumbered § 210(a), [Pub. L. 99–563][/us/pl/99/563], § 11(c)(1), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177].)
 
  __References in Text__ 
 
@@ -48,10 +48,10 @@
 [/us/usc/t15/s77q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77q
 [/us/usc/t15/s78j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
-[/us/pl/96/510/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs405
-[/us/pl/99/499/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs210%2Fa
+[/us/pl/96/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIV
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1719
-[/us/pl/99/563/s11/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs11%2Fc%2F1
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3177
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789

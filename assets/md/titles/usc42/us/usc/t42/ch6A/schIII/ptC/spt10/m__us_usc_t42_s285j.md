@@ -17,7 +17,7 @@
 
     The general purpose of the National Institute of Neurological Disorders and Stroke (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to neurological disease and disorder and stroke.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 457, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 857][/us/stat/99/857]; amended [Pub. L. 100–553, § 2(3)][/us/pl/100/553/s2/3], Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769]; [Pub. L. 100–607, title I, § 101(3)][/us/pl/100/607/s101/3], Nov. 4, 1988, [102 Stat. 3049][/us/stat/102/3049]; [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 101–93, § 5(a)][/us/pl/101/93/s5/a], Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 457, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 857][/us/stat/99/857]; amended [Pub. L. 100–553][/us/pl/100/553], § 2(3), Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769]; [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 101(3), Nov. 4, 1988, [102 Stat. 3049][/us/stat/102/3049]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2613(b)(2), Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 101–93][/us/pl/101/93], § 5(a), Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611].)
 
  __Amendments__ 
 
@@ -37,15 +37,15 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F857
-[/us/pl/100/553/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553%2Fs2%2F3
+[/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553
 [/us/stat/102/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2769
-[/us/pl/100/607/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs101%2F3
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3049
-[/us/pl/100/690/s2613/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2613%2Fb%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4238
-[/us/pl/101/93/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fa
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F611
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/pl/100/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F553

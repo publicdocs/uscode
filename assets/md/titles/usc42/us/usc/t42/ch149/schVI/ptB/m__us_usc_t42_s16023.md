@@ -123,7 +123,7 @@
 
                 Not later than 60 days after receiving any report from the NERAC related to the Project, the Secretary shall submit to the appropriate committees of the Senate and the House of Representatives a copy of the report, along with any additional views of the Secretary that the Secretary may consider appropriate.
 
-([Pub. L. 109–58, title VI, § 643][/us/pl/109/58/s643], Aug. 8, 2005, [119 Stat. 795][/us/stat/119/795].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 643, Aug. 8, 2005, [119 Stat. 795][/us/stat/119/795].)
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs643
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F795
 
 

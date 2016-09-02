@@ -87,11 +87,11 @@
 
             There is authorized to be appropriated $500,000 for the period of fiscal years 2006 and 2007 to carry out the study required by this subsection.
 
-([Pub. L. 109–248, title VI, § 633][/us/pl/109/248/s633], July 27, 2006, [120 Stat. 642][/us/stat/120/642].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 633, July 27, 2006, [120 Stat. 642][/us/stat/120/642].)
 
  __References in Text__ 
 
-    [Section 5106a(b)(2)(A) of this title][/us/usc/t42/s5106a/b/2/A], referred to in subsecs. (c)(2)(B) and (f), was redesignated [section 5106a(b)(2)(B) of this title][/us/usc/t42/s5106a/b/2/B] by [Pub. L. 111–320, title I, § 115(c)(2)(A)][/us/pl/111/320/s115/c/2/A], Dec. 20, 2010, [124 Stat. 3469][/us/stat/124/3469].
+    [Section 5106a(b)(2)(A) of this title][/us/usc/t42/s5106a/b/2/A], referred to in subsecs. (c)(2)(B) and (f), was redesignated [section 5106a(b)(2)(B) of this title][/us/usc/t42/s5106a/b/2/B] by [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 115(c)(2)(A), Dec. 20, 2010, [124 Stat. 3469][/us/stat/124/3469].
 
 ----------
 
@@ -100,11 +100,11 @@
 ----------
 ----------
 
-[/us/pl/109/248/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs633
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F642
 [/us/usc/t42/s5106a/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fb%2F2%2FA
 [/us/usc/t42/s5106a/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fb%2F2%2FB
-[/us/pl/111/320/s115/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs115%2Fc%2F2%2FA
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3469
 
 

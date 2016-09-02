@@ -23,7 +23,7 @@
 
         Subsection (a) of this section shall apply with respect to audits and examinations conducted by the Comptroller General of the United States or by an authorized representative of the Comptroller General.
 
-([Pub. L. 90–351, title I, § 1707][/us/pl/90/351/s1707], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1813][/us/stat/108/1813].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1707, as added [Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10003(a)(3), Sept. 13, 1994, [108 Stat. 1813][/us/stat/108/1813].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1707
-[/us/pl/103/322/s10003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs10003%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtI
 [/us/stat/108/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1813
 
 

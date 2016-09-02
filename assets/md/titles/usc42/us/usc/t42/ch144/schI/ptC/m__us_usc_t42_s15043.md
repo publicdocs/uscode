@@ -135,7 +135,7 @@
 
         (3) a discharge planning record.
 
-([Pub. L. 106–402, title I, § 143][/us/pl/106/402/s143], Oct. 30, 2000, [114 Stat. 1714][/us/stat/114/1714]; [Pub. L. 108–364, § 3(a)(3)][/us/pl/108/364/s3/a/3], Oct. 25, 2004, [118 Stat. 1736][/us/stat/118/1736].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 143, Oct. 30, 2000, [114 Stat. 1714][/us/stat/114/1714]; [Pub. L. 108–364][/us/pl/108/364], § 3(a)(3), Oct. 25, 2004, [118 Stat. 1736][/us/stat/118/1736].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 
     The Older Americans Act of 1965, referred to in subsec. (a)(2)(D)(ii), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
-    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a)(2)(D)(ii), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII, § 3206(a)][/us/pl/106/310/s3206/a], Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
+    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a)(2)(D)(ii), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(a), Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
 
     The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(D)(ii), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
@@ -166,9 +166,9 @@
 [/us/usc/t42/s1396a/a/30/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F30%2FC
 [/us/usc/t42/s1396n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fc
 [/us/usc/t42/s15042/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15042%2Fa%2F6
-[/us/pl/106/402/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs143
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1714
-[/us/pl/108/364/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fa%2F3
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1736
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
@@ -179,7 +179,7 @@
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
 [/us/stat/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F478
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
-[/us/pl/106/310/s3206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1193
 [/us/usc/t42/s10801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10801
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230

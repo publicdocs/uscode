@@ -169,7 +169,7 @@
 
             No portion of any funds made available under this subsection may be used for lobbying expenses.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1420, as added [Pub. L. 104–182, title I, § 119][/us/pl/104/182/s119], Aug. 6, 1996, [110 Stat. 1647][/us/stat/110/1647].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1420, as added [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 119, Aug. 6, 1996, [110 Stat. 1647][/us/stat/110/1647].)
 
 ----------
 
@@ -183,7 +183,7 @@
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/182/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs119
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1647
 
 

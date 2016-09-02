@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch33/schV/m__us_usc_t42_ch33_schV.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34)
+[Previous](./../../../..//us/usc/t42/ch33/schV/m__us_usc_t42_s2698...2698b.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34)
 
 ## CHAPTER 34—ECONOMIC OPPORTUNITY PROGRAM
 
@@ -897,7 +897,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996" data-uslm-ref="/us/usc/t42/s2996">2996</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2996l" data-uslm-ref="/us/usc/t42/s2996l">2996l.</a>  </td>
 
     <td> Reservation of right to repeal, alter, or amend.  </td>
 
@@ -907,7 +907,7 @@ SUBCHAPTER X—LEGAL SERVICES CORPORATION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch33/schV/m__us_usc_t42_ch33_schV.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34)
+[Previous](./../../../..//us/usc/t42/ch33/schV/m__us_usc_t42_s2698...2698b.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34)
 
 ----------
 ----------

@@ -209,7 +209,7 @@
 
         During the period beginning on March 23, 2010, and ending on the date the program is established, the Secretary may enter into an agreement with an ACO under the demonstration under [section 1395cc–1 of this title][/us/usc/t42/s1395cc–1], subject to rebasing and other modifications deemed appropriate by the Secretary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1899, as added and amended [Pub. L. 111–148, title III, § 3022][/us/pl/111/148/s3022], title X, § 10307, Mar. 23, 2010, [124 Stat. 395][/us/stat/124/395], 940.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1899, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3022, title X, § 10307, Mar. 23, 2010, [124 Stat. 395][/us/stat/124/395], 940.)
 
  __References in Text__ 
 
@@ -217,7 +217,7 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (i) to (k). [Pub. L. 111–148, § 10307][/us/pl/111/148/s10307], added subsecs. (i) to (k).
+    2010—Subsecs. (i) to (k). [Pub. L. 111–148][/us/pl/111/148], § 10307, added subsecs. (i) to (k).
 
 ----------
 
@@ -238,8 +238,8 @@
 [/us/usc/t42/s1395eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395eee
 [/us/usc/t42/s1395cc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%931
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3022
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F395
-[/us/pl/111/148/s10307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10307
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

@@ -103,11 +103,11 @@
 
         (2) the consent that is requested is appropriately limited, with respect to time and information relevant and necessary to meet the requirements of this section.
 
-([Pub. L. 100–628, title IX, § 904][/us/pl/100/628/s904], Nov. 7, 1988, [102 Stat. 3259][/us/stat/102/3259]; [Pub. L. 102–550, title IX, § 903(a)][/us/pl/102/550/s903/a], Oct. 28, 1992, [106 Stat. 3867][/us/stat/106/3867]; [Pub. L. 103–66, title III, § 3003][/us/pl/103/66/s3003], Aug. 10, 1993, [107 Stat. 338][/us/stat/107/338]; [Pub. L. 105–276, title V, § 508(d)(2)][/us/pl/105/276/s508/d/2], Oct. 21, 1998, [112 Stat. 2529][/us/stat/112/2529]; [Pub. L. 106–74, title II, § 214(b)][/us/pl/106/74/s214/b], Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074].)
+([Pub. L. 100–628, title IX][/us/pl/100/628/tIX], § 904, Nov. 7, 1988, [102 Stat. 3259][/us/stat/102/3259]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 903(a), Oct. 28, 1992, [106 Stat. 3867][/us/stat/106/3867]; [Pub. L. 103–66, title III][/us/pl/103/66/tIII], § 3003, Aug. 10, 1993, [107 Stat. 338][/us/stat/107/338]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 508(d)(2), Oct. 21, 1998, [112 Stat. 2529][/us/stat/112/2529]; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 214(b), Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074].)
 
  __References in Text__ 
 
-    The United States Housing Act of 1937, referred to in subsec. (a)(4), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended. Title II of the Act, which was classified generally to subchapter II (§ 1437aa et seq.) of chapter 8 of this title, was repealed by [Pub. L. 104–330, title V, § 501(a)][/us/pl/104/330/s501/a], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
+    The United States Housing Act of 1937, referred to in subsec. (a)(4), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], and amended. Title II of the Act, which was classified generally to subchapter II (§ 1437aa et seq.) of chapter 8 of this title, was repealed by [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(a), Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title][/us/usc/t42/s1437] and Tables.
 
     The amendments made by subsection (c)(1), referred to in subsec. (d)(2), (3), mean the amendments made by [section 904(c)(1) of Pub. L. 100–628][/us/pl/100/628/s904/c/1], which enacted section 503(i) and amended [section 504(a)(2) of this title][/us/usc/t42/s504/a/2]. See Codification note below.
 
@@ -121,33 +121,33 @@
 
     1999—Subsec. (b)(4). [Pub. L. 106–74][/us/pl/106/74] inserted “, or the owner responsible for determining the participant’s eligibility or level of benefits,” after “appropriate public housing agency” and substituted “verifying income” for “the public housing agency verifying income”.
 
-    1998—Subsec. (b)(4). [Pub. L. 105–276, § 508(d)(2)(A)][/us/pl/105/276/s508/d/2/A], which directed the amendment of subsec. (b) by adding par. (4) at end, was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
+    1998—Subsec. (b)(4). [Pub. L. 105–276][/us/pl/105/276], § 508(d)(2)(A), which directed the amendment of subsec. (b) by adding par. (4) at end, was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
 
-    Subsec. (c)(2)(A). [Pub. L. 105–276, § 508(d)(2)(B)(i)][/us/pl/105/276/s508/d/2/B/i], in introductory provisions, inserted “, pursuant to section 3(d)(1) of the United States Housing Act of 1937 from the applicant or participant,” after “unemployment compensation law” and “or 3(d)(1)” after “such section 503(i)”.
+    Subsec. (c)(2)(A). [Pub. L. 105–276][/us/pl/105/276], § 508(d)(2)(B)(i), in introductory provisions, inserted “, pursuant to section 3(d)(1) of the United States Housing Act of 1937 from the applicant or participant,” after “unemployment compensation law” and “or 3(d)(1)” after “such section 503(i)”.
 
-    Subsec. (c)(3)(A). [Pub. L. 105–276, § 508(d)(2)(B)(ii)(I)][/us/pl/105/276/s508/d/2/B/ii/I], (II), in first sentence, inserted “, section 3(d)(1) of the United States Housing Act of 1937,” after “503(i) of this title” and “or agreement, as applicable,” after “consent”.
+    Subsec. (c)(3)(A). [Pub. L. 105–276][/us/pl/105/276], § 508(d)(2)(B)(ii)(I), (II), in first sentence, inserted “, section 3(d)(1) of the United States Housing Act of 1937,” after “503(i) of this title” and “or agreement, as applicable,” after “consent”.
 
-    Subsec. (c)(3)(B). [Pub. L. 105–276, § 508(d)(2)(B)(ii)(III)][/us/pl/105/276/s508/d/2/B/ii/III], (IV), in first sentence, inserted “section 3(d)(1) of the United States Housing Act of 1937,” after “503(i) of this title,” and “such section 3(d)(1),” after “such section 503(i),” wherever appearing.
+    Subsec. (c)(3)(B). [Pub. L. 105–276][/us/pl/105/276], § 508(d)(2)(B)(ii)(III), (IV), in first sentence, inserted “section 3(d)(1) of the United States Housing Act of 1937,” after “503(i) of this title,” and “such section 3(d)(1),” after “such section 503(i),” wherever appearing.
 
-    1993—Subsec. (a)(4). [Pub. L. 103–66, § 3003(1)][/us/pl/103/66/s3003/1], added par. (4).
+    1993—Subsec. (a)(4). [Pub. L. 103–66][/us/pl/103/66], § 3003(1), added par. (4).
 
-    Subsec. (b). [Pub. L. 103–66, § 3003(2)(D)][/us/pl/103/66/s3003/2/D], in concluding provisions, substituted “Except as provided in this subsection, this” for “This”.
+    Subsec. (b). [Pub. L. 103–66][/us/pl/103/66], § 3003(2)(D), in concluding provisions, substituted “Except as provided in this subsection, this” for “This”.
 
-    Subsec. (b)(3). [Pub. L. 103–66, § 3003(2)(A)][/us/pl/103/66/s3003/2/A]–(C), added par. (3).
+    Subsec. (b)(3). [Pub. L. 103–66][/us/pl/103/66], § 3003(2)(A)–(C), added par. (3).
 
-    Subsec. (c). [Pub. L. 103–66, § 3003(5)][/us/pl/103/66/s3003/5], struck out “State employment” after “Access to” in heading.
+    Subsec. (c). [Pub. L. 103–66][/us/pl/103/66], § 3003(5), struck out “State employment” after “Access to” in heading.
 
-    Subsec. (c)(2)(A). [Pub. L. 103–66, § 3003(3)(A)(i)][/us/pl/103/66/s3003/3/A/i], in introductory provisions, inserted “or pursuant to section 6103(l)(7)(D)(ix) of title 26 from the Commissioner of Social Security or the Secretary of the Treasury” after “compensation law” and “(in the case of information obtained pursuant to such section 503(i))” before “representatives”.
+    Subsec. (c)(2)(A). [Pub. L. 103–66][/us/pl/103/66], § 3003(3)(A)(i), in introductory provisions, inserted “or pursuant to section 6103(l)(7)(D)(ix) of title 26 from the Commissioner of Social Security or the Secretary of the Treasury” after “compensation law” and “(in the case of information obtained pursuant to such section 503(i))” before “representatives”.
 
-    Subsec. (c)(2)(A)(ii). [Pub. L. 103–66, § 3003(3)(A)(ii)][/us/pl/103/66/s3003/3/A/ii], substituted “owner or public housing agency” for “owner” wherever appearing.
+    Subsec. (c)(2)(A)(ii). [Pub. L. 103–66][/us/pl/103/66], § 3003(3)(A)(ii), substituted “owner or public housing agency” for “owner” wherever appearing.
 
-    Subsec. (c)(2)(B)(i) to (iii). [Pub. L. 103–66, § 3003(3)(B)][/us/pl/103/66/s3003/3/B], substituted “wages, other earnings or income,” for “wages” wherever appearing.
+    Subsec. (c)(2)(B)(i) to (iii). [Pub. L. 103–66][/us/pl/103/66], § 3003(3)(B), substituted “wages, other earnings or income,” for “wages” wherever appearing.
 
-    Subsec. (c)(3)(A). [Pub. L. 103–66, § 3003(4)(A)][/us/pl/103/66/s3003/4/A], inserted “or section 6103(l)(7)(D)(ix) of title 26 without consent pursuant to subsection (b) of this section or” after “[section 503(i) of this title][/us/usc/t42/s503/i]”.
+    Subsec. (c)(3)(A). [Pub. L. 103–66][/us/pl/103/66], § 3003(4)(A), inserted “or section 6103(l)(7)(D)(ix) of title 26 without consent pursuant to subsection (b) of this section or” after “[section 503(i) of this title][/us/usc/t42/s503/i]”.
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 103–66, § 3003(4)(B)(i)][/us/pl/103/66/s3003/4/B/i], added cl. (i) and struck out former cl. (i) which read as follows: “a negligent or knowing disclosure of information referred to in this section or in [section 503(i) of this title][/us/usc/t42/s503/i] about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), or any regulation implementing this section or such section 503(i), or”.
+    Subsec. (c)(3)(B)(i). [Pub. L. 103–66][/us/pl/103/66], § 3003(4)(B)(i), added cl. (i) and struck out former cl. (i) which read as follows: “a negligent or knowing disclosure of information referred to in this section or in [section 503(i) of this title][/us/usc/t42/s503/i] about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), or any regulation implementing this section or such section 503(i), or”.
 
-    Subsec. (c)(3)(B)(ii). [Pub. L. 103–66, § 3003(4)(B)(ii)][/us/pl/103/66/s3003/4/B/ii], inserted “such section 6103(l)(7)(D)(ix),” after “503(i)”.
+    Subsec. (c)(3)(B)(ii). [Pub. L. 103–66][/us/pl/103/66], § 3003(4)(B)(ii), inserted “such section 6103(l)(7)(D)(ix),” after “503(i)”.
 
     1992—Subsec. (e). [Pub. L. 102–550][/us/pl/102/550] added subsec. (e).
 
@@ -157,7 +157,7 @@
 
  __Release Forms__ 
 
-    [Pub. L. 102–550, title IX, § 903(b)][/us/pl/102/550/s903/b], Oct. 28, 1992, [106 Stat. 3868][/us/stat/106/3868], directed Secretary of Housing and Urban Development, not later than the expiration of the 180-day period beginning Oct. 28, 1992, to develop a release form that fulfilled the requirements of this section and provided that during the period beginning Oct. 28, 1992, and ending upon implementation of the use of the new form, the benefits provided to an applicant or participant under any program of Department of Housing and Urban Development, or eligibility for such benefits, could not be terminated, denied, suspended, or reduced because of any failure to sign any form authorizing the release of information from any third party, if the applicant or participant otherwise disclosed all financial information relating to the application or recertification.
+    [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 903(b), Oct. 28, 1992, [106 Stat. 3868][/us/stat/106/3868], directed Secretary of Housing and Urban Development, not later than the expiration of the 180-day period beginning Oct. 28, 1992, to develop a release form that fulfilled the requirements of this section and provided that during the period beginning Oct. 28, 1992, and ending upon implementation of the use of the new form, the benefits provided to an applicant or participant under any program of Department of Housing and Urban Development, or eligibility for such benefits, could not be terminated, denied, suspended, or reduced because of any failure to sign any form authorizing the release of information from any third party, if the applicant or participant otherwise disclosed all financial information relating to the application or recertification.
 
 ----------
 
@@ -181,20 +181,20 @@
 [/us/usc/t42/s1437a/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fd%2F1
 [/us/usc/t42/s1437a/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fd%2F1
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/100/628/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs904
+[/us/pl/100/628/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIX
 [/us/stat/102/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3259
-[/us/pl/102/550/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs903%2Fa
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3867
-[/us/pl/103/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003
+[/us/pl/103/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIII
 [/us/stat/107/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F338
-[/us/pl/105/276/s508/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs508%2Fd%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2529
-[/us/pl/106/74/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs214%2Fb
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
 [/us/stat/113/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1074
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653
-[/us/pl/104/330/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fa
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/100/628/s904/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs904%2Fc%2F1
@@ -202,27 +202,27 @@
 [/us/pl/100/628/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs904
 [/us/pl/100/628/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs904
 [/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
-[/us/pl/105/276/s508/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs508%2Fd%2F2%2FA
-[/us/pl/105/276/s508/d/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs508%2Fd%2F2%2FB%2Fi
-[/us/pl/105/276/s508/d/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs508%2Fd%2F2%2FB%2Fii%2FI
-[/us/pl/105/276/s508/d/2/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs508%2Fd%2F2%2FB%2Fii%2FIII
-[/us/pl/103/66/s3003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F1
-[/us/pl/103/66/s3003/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F2%2FD
-[/us/pl/103/66/s3003/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F2%2FA
-[/us/pl/103/66/s3003/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F5
-[/us/pl/103/66/s3003/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F3%2FA%2Fi
-[/us/pl/103/66/s3003/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F3%2FA%2Fii
-[/us/pl/103/66/s3003/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F3%2FB
-[/us/pl/103/66/s3003/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F4%2FA
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/usc/t42/s503/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503%2Fi
-[/us/pl/103/66/s3003/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F4%2FB%2Fi
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/usc/t42/s503/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503%2Fi
-[/us/pl/103/66/s3003/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs3003%2F4%2FB%2Fii
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/102/550/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs903%2Fb
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3868
 
 

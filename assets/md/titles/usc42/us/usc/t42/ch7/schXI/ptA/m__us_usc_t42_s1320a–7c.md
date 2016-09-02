@@ -81,7 +81,7 @@
 
         (3) a membership agreement with a health maintenance organization or other prepaid health plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128C, as added [Pub. L. 104–191, title II, § 201(a)][/us/pl/104/191/s201/a], Aug. 21, 1996, [110 Stat. 1992][/us/stat/110/1992]; amended [Pub. L. 111–148, title VI, § 6403(c)][/us/pl/111/148/s6403/c], Mar. 23, 2010, [124 Stat. 766][/us/stat/124/766].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128C, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 201(a), Aug. 21, 1996, [110 Stat. 1992][/us/stat/110/1992]; amended [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6403(c), Mar. 23, 2010, [124 Stat. 766][/us/stat/124/766].)
 
  __References in Text__ 
 
@@ -105,9 +105,9 @@
 [/us/usc/t42/s1320a–7d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937d
 [/us/usc/t42/s1320c–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%936%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs201%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1992
-[/us/pl/111/148/s6403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6403%2Fc
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F766
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

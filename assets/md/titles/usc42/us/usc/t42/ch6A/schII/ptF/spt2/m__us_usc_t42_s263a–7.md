@@ -29,7 +29,7 @@
 
         The term “Secretary” means the Secretary of Health and Human Services.
 
-([Pub. L. 102–493, § 8][/us/pl/102/493/s8], Oct. 24, 1992, [106 Stat. 3151][/us/stat/106/3151].)
+([Pub. L. 102–493][/us/pl/102/493], § 8, Oct. 24, 1992, [106 Stat. 3151][/us/stat/106/3151].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/493/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs8
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3151
 [/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3146

@@ -17,7 +17,7 @@
 
     Each grantee receiving funds under this subchapter shall submit a report to the Attorney General evaluating the effectiveness of projects developed with funds provided under this subchapter and containing such additional information as the Attorney General may prescribe.
 
-([Pub. L. 90–351, title I, § 2103][/us/pl/90/351/s2103], as added [Pub. L. 103–322, title IV, § 40231(a)(3)][/us/pl/103/322/s40231/a/3], Sept. 13, 1994, [108 Stat. 1933][/us/stat/108/1933].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2103, as added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40231(a)(3), Sept. 13, 1994, [108 Stat. 1933][/us/stat/108/1933].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2103
-[/us/pl/103/322/s40231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40231%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1933
 
 

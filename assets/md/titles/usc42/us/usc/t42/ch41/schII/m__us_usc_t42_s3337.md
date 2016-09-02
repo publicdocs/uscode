@@ -17,7 +17,7 @@
 
     In carrying out his authority under [section 3335 of this title][/us/usc/t42/s3335], including the issuance of regulations, the Secretary shall consult with the Department of the Interior; the Department of Health and Human Services; the Department of Commerce; and the Federal Aviation Agency with respect to metropolitan development projects assisted by those departments and agencies; and he shall, for the purpose of [section 3336 of this title][/us/usc/t42/s3336], accept their respective certifications as to the cost of those projects and the amount of the non-Federal contribution paid or to be paid to that cost.
 
-([Pub. L. 89–754, title II, § 207][/us/pl/89/754/s207], Nov. 3, 1966, [80 Stat. 1264][/us/stat/80/1264]; [Pub. L. 98–479, title II, § 201(f)][/us/pl/98/479/s201/f], Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228].)
+([Pub. L. 89–754, title II][/us/pl/89/754/tII], § 207, Nov. 3, 1966, [80 Stat. 1264][/us/stat/80/1264]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 201(f), Oct. 17, 1984, [98 Stat. 2228][/us/stat/98/2228].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t42/s3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3335
 [/us/usc/t42/s3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3336
-[/us/pl/89/754/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs207
+[/us/pl/89/754/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtII
 [/us/stat/80/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1264
-[/us/pl/98/479/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs201%2Ff
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2228
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670

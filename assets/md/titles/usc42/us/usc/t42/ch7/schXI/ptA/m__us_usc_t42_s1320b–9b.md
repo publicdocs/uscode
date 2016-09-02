@@ -69,13 +69,13 @@
 
         Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2010 through 2014, $60,000,000 for the purpose of carrying out this section. Funds appropriated under this subsection shall remain available until expended. Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out [section 1320b–9a(b) of this title][/us/usc/t42/s1320b–9a/b].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1139B, as added [Pub. L. 111–148, title II, § 2701][/us/pl/111/148/s2701], Mar. 23, 2010, [124 Stat. 317][/us/stat/124/317]; amended [Pub. L. 113–93, title II, § 210][/us/pl/113/93/s210], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1139B, as added [Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2701, Mar. 23, 2010, [124 Stat. 317][/us/stat/124/317]; amended [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 210, Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047].)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(5)(A). [Pub. L. 113–93, § 210(b)][/us/pl/113/93/s210/b], struck out at end “The aggregate amount awarded by the Secretary for grants and contracts for the development, testing, and validation of emerging and innovative evidence-based measures under such program shall equal the aggregate amount awarded by the Secretary for grants under [section 1320b–9a(b)(4)(A) of this title][/us/usc/t42/s1320b–9a/b/4/A]”.
+    2014—Subsec. (b)(5)(A). [Pub. L. 113–93][/us/pl/113/93], § 210(b), struck out at end “The aggregate amount awarded by the Secretary for grants and contracts for the development, testing, and validation of emerging and innovative evidence-based measures under such program shall equal the aggregate amount awarded by the Secretary for grants under [section 1320b–9a(b)(4)(A) of this title][/us/usc/t42/s1320b–9a/b/4/A]”.
 
-    Subsec. (e). [Pub. L. 113–93, § 210(a)][/us/pl/113/93/s210/a], inserted at end “Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out [section 1320b–9a(b) of this title][/us/usc/t42/s1320b–9a/b].”
+    Subsec. (e). [Pub. L. 113–93][/us/pl/113/93], § 210(a), inserted at end “Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out [section 1320b–9a(b) of this title][/us/usc/t42/s1320b–9a/b].”
 
 ----------
 
@@ -92,13 +92,13 @@
 [/us/usc/t42/s1396u–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%937
 [/us/usc/t42/s1320b–9a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2701
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F317
-[/us/pl/113/93/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs210
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
-[/us/pl/113/93/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs210%2Fb
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/usc/t42/s1320b–9a/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb%2F4%2FA
-[/us/pl/113/93/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs210%2Fa
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/usc/t42/s1320b–9a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb
 
 

@@ -17,7 +17,7 @@
 
     In accordance with subsection (d) of [section 215 of this title][/us/usc/t42/s215], upon the request of any Indian tribe, band, group, or community, commissioned officers of the Service may be assigned by the Secretary for the purpose of assisting such Indian tribe, group, band, or community in carrying out the provisions of contracts with, or grants to, tribal organizations pursuant to sections 450f and 450h of title 25.
 
-([Aug. 5, 1954, ch. 658, § 8][/us/act/1954-08-05/ch658/s8], as added [Pub. L. 93–638, title I, § 104(b)][/us/pl/93/638/s104/b], formerly § 105(b), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208]; renumbered § 104(b) and amended [Pub. L. 100–472, title II, § 203(a)][/us/pl/100/472/s203/a], (c), Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290].)
+([Aug. 5, 1954, ch. 658][/us/act/1954-08-05/ch658], § 8, as added [Pub. L. 93–638, title I][/us/pl/93/638/tI], § 104(b), formerly § 105(b), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208]; renumbered § 104(b) and amended [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 203(a), (c), Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290].)
 
  __Amendments__ 
 
@@ -31,10 +31,10 @@
 ----------
 
 [/us/usc/t42/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs215
-[/us/act/1954-08-05/ch658/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658%2Fs8
-[/us/pl/93/638/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104%2Fb
+[/us/act/1954-08-05/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2208
-[/us/pl/100/472/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Fa
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2290
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
 

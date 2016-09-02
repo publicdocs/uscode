@@ -75,7 +75,7 @@
 
             The Administrator shall not allocate any allowances pursuant to this subsection unless the owner or operator of a small diesel refinery shall have certified, at a time and in a manner prescribed by the Administrator, that all motor diesel fuel produced by the refinery for which allowances are claimed, including motor diesel fuel for off-highway use, shall have met the requirements of subsection 1 7545(i) of this title.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 410, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2621][/us/stat/104/2621].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 410, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2621][/us/stat/104/2621].)
 
 ----------
 
@@ -88,7 +88,7 @@
 [/us/usc/t42/s7651b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651b
 [/us/usc/t42/s7651b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651b
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2621
 
 

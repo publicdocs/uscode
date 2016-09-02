@@ -351,11 +351,11 @@
 
         The provisions of this section are severable. If any provision of this section, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of this section not so adjudicated.
 
-([Pub. L. 114–113, div. O, title IV, § 404][/us/pl/114/113/s404], Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007].)
+([Pub. L. 114–113, div. O, title IV][/us/pl/114/113/dO/tIV], § 404, Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007].)
 
  __References in Text__ 
 
-    [Section 1605(a)(7) of title 28][/us/usc/t28/s1605/a/7] (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of [section 1605 of title 28][/us/usc/t28/s1605] as it existed prior to being struck out by [Pub. L. 110–181, § 1083(b)(1)(A)][/us/pl/110/181/s1083/b/1/A]. See 2008 Amendment note under that section.
+    [Section 1605(a)(7) of title 28][/us/usc/t28/s1605/a/7] (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of [section 1605 of title 28][/us/usc/t28/s1605] as it existed prior to being struck out by [Pub. L. 110–181][/us/pl/110/181], § 1083(b)(1)(A). See 2008 Amendment note under that section.
 
     Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (d)(3)(A)(ii)(III), is [section 405 of Pub. L. 107–42][/us/pl/107/42/s405], which is set out in a note under [section 40101 of Title 49][/us/usc/t49/s40101], Transportation.
 
@@ -394,11 +394,11 @@
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
-[/us/pl/114/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs404
+[/us/pl/114/113/dO/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIV
 [/us/stat/129/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3007
 [/us/usc/t28/s1605/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605%2Fa%2F7
 [/us/usc/t28/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605
-[/us/pl/110/181/s1083/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F1%2FA
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/107/42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs405
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223

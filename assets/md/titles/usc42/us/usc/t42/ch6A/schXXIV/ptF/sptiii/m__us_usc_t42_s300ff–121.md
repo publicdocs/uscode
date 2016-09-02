@@ -135,7 +135,7 @@
 
         (5) The schedule for carrying out subsection (b)(1)(E) shall be the same as the schedule applicable to grants and contracts for activities through education and training centers under [section 300ff–111 of this title][/us/usc/t42/s300ff–111].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2693, as added and amended [Pub. L. 109–415, title VI, § 603][/us/pl/109/415/s603], title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2818][/us/stat/120/2818], 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), (f)(2), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2886.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2693, as added and amended [Pub. L. 109–415, title VI][/us/pl/109/415/tVI], § 603, title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2818][/us/stat/120/2818], 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), (f)(2), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2886.)
 
  __References in Text__ 
 
@@ -143,25 +143,25 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    Subsec. (a). [Pub. L. 111–87, § 2(f)(2)(A)][/us/pl/111/87/s2/f/2/A], substituted “$139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,077,000 for fiscal year 2013. The Secretary shall develop a formula for the awarding of grants under subsections (b)(1)(A) and (b)(1)(B) that ensures that funding is provided based on the distribution of populations disproportionately impacted by HIV/AIDS.” for “and $139,100,000 for fiscal year 2009.”
+    Subsec. (a). [Pub. L. 111–87][/us/pl/111/87], § 2(f)(2)(A), substituted “$139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,077,000 for fiscal year 2013. The Secretary shall develop a formula for the awarding of grants under subsections (b)(1)(A) and (b)(1)(B) that ensures that funding is provided based on the distribution of populations disproportionately impacted by HIV/AIDS.” for “and $139,100,000 for fiscal year 2009.”
 
-    Subsec. (b)(2)(A). [Pub. L. 111–87, § 2(f)(2)(B)(i)][/us/pl/111/87/s2/f/2/B/i], struck out “competitive,” before “supplemental” in introductory provisions and added cls. (iv) to (vii).
+    Subsec. (b)(2)(A). [Pub. L. 111–87][/us/pl/111/87], § 2(f)(2)(B)(i), struck out “competitive,” before “supplemental” in introductory provisions and added cls. (iv) to (vii).
 
-    Subsec. (b)(2)(B). [Pub. L. 111–87, § 2(f)(2)(B)(ii)][/us/pl/111/87/s2/f/2/B/ii], struck out “competitive” before “grants” in introductory provisions and added cls. (iv) to (vii).
+    Subsec. (b)(2)(B). [Pub. L. 111–87][/us/pl/111/87], § 2(f)(2)(B)(ii), struck out “competitive” before “grants” in introductory provisions and added cls. (iv) to (vii).
 
-    Subsec. (b)(2)(C)(iv) to (vii). [Pub. L. 111–87, § 2(f)(2)(B)(iii)][/us/pl/111/87/s2/f/2/B/iii], added cls. (iv) to (vii).
+    Subsec. (b)(2)(C)(iv) to (vii). [Pub. L. 111–87][/us/pl/111/87], § 2(f)(2)(B)(iii), added cls. (iv) to (vii).
 
-    Subsec. (b)(2)(D). [Pub. L. 111–87, § 2(f)(2)(B)(iv)][/us/pl/111/87/s2/f/2/B/iv], substituted “the following, as applicable:” for “$18,500,000 for each of the fiscal years 2007 through 2009.” and added cls. (i) to (iv).
+    Subsec. (b)(2)(D). [Pub. L. 111–87][/us/pl/111/87], § 2(f)(2)(B)(iv), substituted “the following, as applicable:” for “$18,500,000 for each of the fiscal years 2007 through 2009.” and added cls. (i) to (iv).
 
-    Subsec. (b)(2)(E). [Pub. L. 111–87, § 2(f)(2)(B)(v)][/us/pl/111/87/s2/f/2/B/v], substituted “the following, as applicable:” for “$8,500,000 for each of the fiscal years 2007 through 2009.” and added cls. (i) to (iv).
+    Subsec. (b)(2)(E). [Pub. L. 111–87][/us/pl/111/87], § 2(f)(2)(B)(v), substituted “the following, as applicable:” for “$8,500,000 for each of the fiscal years 2007 through 2009.” and added cls. (i) to (iv).
 
-    Subsec. (d). [Pub. L. 111–87, § 2(f)(2)(C)][/us/pl/111/87/s2/f/2/C], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–87][/us/pl/111/87], § 2(f)(2)(C), added subsec. (d).
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    Subsec. (b)(2)(D), (E). [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+    Subsec. (b)(2)(D), (E). [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -179,24 +179,24 @@
 [/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
 [/us/usc/t42/s300ff–111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%93111
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/415/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs603
+[/us/pl/109/415/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtVI
 [/us/stat/120/2818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2818
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
 [/us/stat/115/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2177
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2%2FA
-[/us/pl/111/87/s2/f/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2%2FB%2Fi
-[/us/pl/111/87/s2/f/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2%2FB%2Fii
-[/us/pl/111/87/s2/f/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2%2FB%2Fiii
-[/us/pl/111/87/s2/f/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2%2FB%2Fiv
-[/us/pl/111/87/s2/f/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2%2FB%2Fv
-[/us/pl/111/87/s2/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2%2FC
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Ff%2F2

@@ -31,7 +31,7 @@
 
         With respect to any rule or regulation promulgated by the Commission to establish rates and charges for the first sale of natural gas by a producer or gatherer to a natural gas pipeline under the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\], the Commission may afford any interested person a reasonable opportunity to submit written questions with respect to disputed issues of fact to other interested persons participating in the rulemaking proceedings. The Commission may establish a reasonable time for both the submission of questions and responses thereto.
 
-([Pub. L. 95–91, title IV, § 403][/us/pl/95/91/s403], Aug. 4, 1977, [91 Stat. 585][/us/stat/91/585].)
+([Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 403, Aug. 4, 1977, [91 Stat. 585][/us/stat/91/585].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/91/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs403
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F585
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

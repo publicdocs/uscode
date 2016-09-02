@@ -125,13 +125,13 @@
 
         The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) of this section to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title V, § 507, as added [Pub. L. 101–549, title V, § 501][/us/pl/101/549/s501], Nov. 15, 1990, [104 Stat. 2645][/us/stat/104/2645].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title V, § 507, as added [Pub. L. 101–549, title V][/us/pl/101/549/tV], § 501, Nov. 15, 1990, [104 Stat. 2645][/us/stat/104/2645].)
 
  __References in Text__ 
 
-    The Small Business Act, referred to in subsec. (c)(1)(B), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (c)(1)(B), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
-    The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
+    The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
 
     The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is [Pub. L. 96–354][/us/pl/96/354], Sept. 19, 1980, [94 Stat. 1164][/us/stat/94/1164], which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 5][/us/usc/t5/s601] and Tables.
 
@@ -149,14 +149,14 @@
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs501
+[/us/pl/101/549/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtV
 [/us/stat/104/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2645
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354

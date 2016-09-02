@@ -27,11 +27,11 @@
 
     (5) There is an overriding national need to provide incentive and protection for physicians engaging in effective professional peer review.
 
-([Pub. L. 99–660, title IV, § 402][/us/pl/99/660/s402], Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 402, Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784].)
 
  __Short Title__ 
 
-[Pub. L. 99–660, title IV, § 401][/us/pl/99/660/s401], Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784], provided that: 
+[Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 401, Nov. 14, 1986, [100 Stat. 3784][/us/stat/100/3784], provided that: 
 
 > “This title \[enacting this chapter and provisions set out as a note under [section 11111 of this title][/us/usc/t42/s11111]\] may be cited as the ‘Health Care Quality Improvement Act of 1986’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/99/660/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs402
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3784
-[/us/pl/99/660/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs401
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3784
 [/us/usc/t42/s11111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11111
 

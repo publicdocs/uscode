@@ -17,7 +17,7 @@
 
     The Council is authorized to make such rules and regulations as it may deem necessary or appropriate for carrying out those provisions of this chapter which are administered by it.
 
-([Pub. L. 89–80, title IV, § 402][/us/pl/89/80/s402], July 22, 1965, [79 Stat. 254][/us/stat/79/254].)
+([Pub. L. 89–80, title IV][/us/pl/89/80/tIV], § 402, July 22, 1965, [79 Stat. 254][/us/stat/79/254].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs402
+[/us/pl/89/80/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIV
 [/us/stat/79/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F254
 
 

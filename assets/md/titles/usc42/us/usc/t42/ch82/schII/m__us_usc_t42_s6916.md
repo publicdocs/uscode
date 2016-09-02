@@ -45,19 +45,19 @@
 
         (2) There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX of this chapter.
 
-([Pub. L. 89–272, title II, § 2007][/us/pl/89/272/s2007], formerly § 2006, as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2805][/us/stat/90/2805], renumbered [Pub. L. 96–463, § 4(a)][/us/pl/96/463/s4/a], Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055]; amended [Pub. L. 96–482][/us/pl/96/482], §§ 6, 31(a), Oct. 21, 1980, [94 Stat. 2336][/us/stat/94/2336], 2352; [Pub. L. 98–616, § 2(a)][/us/pl/98/616/s2/a], (i), Nov. 8, 1984, [98 Stat. 3222][/us/stat/98/3222], 3223.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2007, formerly § 2006, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2805][/us/stat/90/2805], renumbered [Pub. L. 96–463][/us/pl/96/463], § 4(a), Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055]; amended [Pub. L. 96–482][/us/pl/96/482], §§ 6, 31(a), Oct. 21, 1980, [94 Stat. 2336][/us/stat/94/2336], 2352; [Pub. L. 98–616][/us/pl/98/616], § 2(a), (i), Nov. 8, 1984, [98 Stat. 3222][/us/stat/98/3222], 3223.)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–616, § 2(a)][/us/pl/98/616/s2/a], substituted “$80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988” for “and $80,000,000 for the fiscal year ending September 30, 1982”.
+    1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], § 2(a), substituted “$80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988” for “and $80,000,000 for the fiscal year ending September 30, 1982”.
 
-    Subsecs. (e), (f). [Pub. L. 98–616, § 2(i)][/us/pl/98/616/s2/i], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 98–616][/us/pl/98/616], § 2(i), added subsecs. (e) and (f).
 
-    1980—Subsec. (a). [Pub. L. 96–482, § 31(a)][/us/pl/96/482/s31/a], authorized appropriation of $70,000,000, $80,000,000, and $80,000,000 for fiscal years ending Sept. 30, 1980, through 1982, respectively.
+    1980—Subsec. (a). [Pub. L. 96–482][/us/pl/96/482], § 31(a), authorized appropriation of $70,000,000, $80,000,000, and $80,000,000 for fiscal years ending Sept. 30, 1980, through 1982, respectively.
 
-    Subsec. (b). [Pub. L. 96–482, § 6(a)][/us/pl/96/482/s6/a], inserted “, or $5,000,000 per fiscal year, whichever is less,” after “subsection (a) of this section”.
+    Subsec. (b). [Pub. L. 96–482][/us/pl/96/482], § 6(a), inserted “, or $5,000,000 per fiscal year, whichever is less,” after “subsection (a) of this section”.
 
-    Subsec. (d). [Pub. L. 96–482, § 6(b)][/us/pl/96/482/s6/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 96–482][/us/pl/96/482], § 6(b), added subsec. (d).
 
  __Transfer of Functions__ 
 
@@ -73,20 +73,20 @@
 [/us/usc/t42/s6913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6913
 [/us/usc/t42/s6931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6931
 [/us/usc/t42/s6948/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6948%2Fa%2F1
-[/us/pl/89/272/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2007
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2805
-[/us/pl/96/463/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs4%2Fa
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2055
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2336
-[/us/pl/98/616/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs2%2Fa
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/stat/98/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3222
-[/us/pl/98/616/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs2%2Fa
-[/us/pl/98/616/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs2%2Fi
-[/us/pl/96/482/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs31%2Fa
-[/us/pl/96/482/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs6%2Fa
-[/us/pl/96/482/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs6%2Fb
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 
 

@@ -39,7 +39,7 @@
 
         Amounts made available under this section (together with any other amounts made available from other Federal sources) may not be used to pay more than 50 percent of the costs of any preliminary energy audit or energy audit.
 
-([Pub. L. 94–163, title III, § 400C][/us/pl/94/163/s400C], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3250][/us/stat/92/3250].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400C, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3250][/us/stat/92/3250].)
 
 ----------
 
@@ -52,8 +52,8 @@
 [/us/usc/t42/s6372a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372a%2Fa%2F1
 [/us/usc/t42/s6372a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372a%2Fa
 [/us/usc/t42/s6372a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372a%2Fa%2F2
-[/us/pl/94/163/s400C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400C
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3250
 
 

@@ -19,7 +19,7 @@
 
     (b) Unless and until superseded by regulations establishing a reportable quantity under subsection (a) of this section for any hazardous substance as defined in [section 9601(14) of this title][/us/usc/t42/s9601/14], (1) a quantity of one pound, or (2) for those hazardous substances for which reportable quantities have been established pursuant to [section 1321(b)(4) of title 33][/us/usc/t33/s1321/b/4], such reportable quantity, shall be deemed that quantity, the release of which requires notification pursuant to section 9603(a) or (b) of this title.
 
-([Pub. L. 96–510, title I, § 102][/us/pl/96/510/s102], Dec. 11, 1980, [94 Stat. 2772][/us/stat/94/2772]; [Pub. L. 99–499, title I, § 102][/us/pl/99/499/s102], Oct. 17, 1986, [100 Stat. 1617][/us/stat/100/1617].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 102, Dec. 11, 1980, [94 Stat. 2772][/us/stat/94/2772]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 102, Oct. 17, 1986, [100 Stat. 1617][/us/stat/100/1617].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 [/us/usc/t42/s9603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9603
 [/us/usc/t42/s9601/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F14
 [/us/usc/t33/s1321/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fb%2F4
-[/us/pl/96/510/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs102
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2772
-[/us/pl/99/499/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs102
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1617
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 

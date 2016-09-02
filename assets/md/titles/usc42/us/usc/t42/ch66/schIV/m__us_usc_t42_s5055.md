@@ -57,7 +57,7 @@
 
         (4) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in [section 2677 of title 28][/us/usc/t28/s2677] and with the same effect.
 
-([Pub. L. 93–113, title IV, § 415][/us/pl/93/113/s415], Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411]; [Pub. L. 96–143][/us/pl/96/143], §§ 11, 18(c)(2), Dec. 13, 1979, [93 Stat. 1078][/us/stat/93/1078], 1083; [Pub. L. 96–465, title II, § 2206(h)][/us/pl/96/465/s2206/h], Oct. 17, 1980, [94 Stat. 2163][/us/stat/94/2163]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–551, § 10(i)(9)][/us/pl/99/551/s10/i/9], Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 103–82, title III, § 366][/us/pl/103/82/s366], Sept. 21, 1993, [107 Stat. 908][/us/stat/107/908]; [Pub. L. 111–13, title II, § 2152][/us/pl/111/13/s2152], Apr. 21, 2009, [123 Stat. 1591][/us/stat/123/1591].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 415, Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411]; [Pub. L. 96–143][/us/pl/96/143], §§ 11, 18(c)(2), Dec. 13, 1979, [93 Stat. 1078][/us/stat/93/1078], 1083; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(h), Oct. 17, 1980, [94 Stat. 2163][/us/stat/94/2163]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–551][/us/pl/99/551], § 10(i)(9), Oct. 27, 1986, [100 Stat. 3078][/us/stat/100/3078]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 366, Sept. 21, 1993, [107 Stat. 908][/us/stat/107/908]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2152, Apr. 21, 2009, [123 Stat. 1591][/us/stat/123/1591].)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
     The Foreign Service Act of 1980, referred to in subsec. (c)(2), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22][/us/usc/t22/s3901] and Tables.
 
-    The Economic Opportunity Act of 1964, as amended, referred to in subsecs. (d) and (e), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508]. Title VIII of such Act, probably means title VIII of [Pub. L. 88–452][/us/pl/88/452] as added by [Pub. L. 89–794, title VIII, § 801][/us/pl/89/794/s801], Nov. 8, 1966, [80 Stat. 1472][/us/stat/80/1472], and generally revised and amended by [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], which was classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of this title. Title VIII of the Economic Opportunity Act of 1964 as so added and amended was repealed by [Pub. L. 93–113, title VI][/us/pl/93/113], 603, and its provisions are covered by this chapter. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1964, as amended, referred to in subsecs. (d) and (e), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508]. Title VIII of such Act, probably means title VIII of [Pub. L. 88–452][/us/pl/88/452] as added by [Pub. L. 89–794, title VIII][/us/pl/89/794/tVIII], § 801, Nov. 8, 1966, [80 Stat. 1472][/us/stat/80/1472], and generally revised and amended by [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 110, Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], which was classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of this title. Title VIII of the Economic Opportunity Act of 1964 as so added and amended was repealed by [Pub. L. 93–113, title VI][/us/pl/93/113/tVI], 603, and its provisions are covered by this chapter. For complete classification of this Act to the Code, see Tables.
 
     Executive Order Number 11103 (April 10, 1963), referred to in subsec. (d), is set out under [section 2504 of Title 22][/us/usc/t22/s2504], Foreign Relations and Intercourse.
 
  __Amendments__ 
 
-    2009—Subsec. (c). [Pub. L. 111–13, § 2152(1)][/us/pl/111/13/s2152/1], inserted “(as such part was in effect on the day before April 21, 2009)” after “part B” in introductory provisions.
+    2009—Subsec. (c). [Pub. L. 111–13][/us/pl/111/13], § 2152(1), inserted “(as such part was in effect on the day before April 21, 2009)” after “part B” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 111–13, § 2152(2)][/us/pl/111/13/s2152/2], inserted “(as such part was in effect on the day before April 21, 2009)” after “A, B”.
+    Subsec. (e). [Pub. L. 111–13][/us/pl/111/13], § 2152(2), inserted “(as such part was in effect on the day before April 21, 2009)” after “A, B”.
 
     1993—Subsec. (b)(4)(A). [Pub. L. 103–82][/us/pl/103/82] substituted “an employee at grade GS–5 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332]” for “a grade GS–7 employee”.
 
@@ -83,15 +83,15 @@
 
     Subsec. (d). [Pub. L. 99–551][/us/pl/99/551] substituted “the Director” for “he” before “shall prescribe”.
 
-    1980—Subsec. (c)(1). [Pub. L. 96–465, § 2206(h)(1)][/us/pl/96/465/s2206/h/1], substituted “any” for “[section 1092(a)(1) of title 22][/us/usc/t22/s1092/a/1] and every other”.
+    1980—Subsec. (c)(1). [Pub. L. 96–465][/us/pl/96/465], § 2206(h)(1), substituted “any” for “[section 1092(a)(1) of title 22][/us/usc/t22/s1092/a/1] and every other”.
 
-    Subsec. (c)(2). [Pub. L. 96–465, § 2206(h)(2)][/us/pl/96/465/s2206/h/2], substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
+    Subsec. (c)(2). [Pub. L. 96–465][/us/pl/96/465], § 2206(h)(2), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
 
-    1979—Subsec. (b). [Pub. L. 96–143, § 11(a)][/us/pl/96/143/s11/a], substituted in provisions preceding cl. (1) “as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter” for “in programs under subchapter I of this chapter for periods of service of at least one year” and in cl. (4)(A) “the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I of this chapter shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I of this chapter shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director” for “the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee” and added cl. (5).
+    1979—Subsec. (b). [Pub. L. 96–143][/us/pl/96/143], § 11(a), substituted in provisions preceding cl. (1) “as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter” for “in programs under subchapter I of this chapter for periods of service of at least one year” and in cl. (4)(A) “the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I of this chapter shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I of this chapter shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director” for “the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee” and added cl. (5).
 
-    Subsec. (c)(2). [Pub. L. 96–143, § 18(c)(2)][/us/pl/96/143/s18/c/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (c)(2). [Pub. L. 96–143][/us/pl/96/143], § 18(c)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    Subsec. (f). [Pub. L. 96–143, § 11(b)][/us/pl/96/143/s11/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–143][/us/pl/96/143], § 11(b), added subsec. (f).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -132,19 +132,19 @@
 [/us/usc/t42/s2991–299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991%E2%80%93299
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991
 [/us/usc/t28/s2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2677
-[/us/pl/93/113/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs415
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F411
 [/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1078
-[/us/pl/96/465/s2206/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fh
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2163
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/551/s10/i/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs10%2Fi%2F9
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3078
-[/us/pl/103/82/s366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs366
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F908
-[/us/pl/111/13/s2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2152
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1591
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -158,24 +158,24 @@
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/89/794/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs801
+[/us/pl/89/794/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2FtVIII
 [/us/stat/80/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1472
-[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F722
-[/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
+[/us/pl/93/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtVI
 [/us/usc/t22/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504
-[/us/pl/111/13/s2152/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2152%2F1
-[/us/pl/111/13/s2152/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2152%2F2
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
-[/us/pl/96/465/s2206/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fh%2F1
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1092%2Fa%2F1
-[/us/pl/96/465/s2206/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fh%2F2
-[/us/pl/96/143/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs11%2Fa
-[/us/pl/96/143/s18/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs18%2Fc%2F2
-[/us/pl/96/143/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs11%2Fb
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -93,7 +93,7 @@
 
         For purposes of this section, a State Domestic Violence Coalition may include representatives of Indian tribes and tribal organizations.
 
-([Pub. L. 98–457, title III, § 311][/us/pl/98/457/s311], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3501][/us/stat/124/3501].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 311, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3501][/us/stat/124/3501].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 10411, [Pub. L. 98–457, title III, § 312][/us/pl/98/457/s312], Oct. 9, 1984, [98 Stat. 1763][/us/stat/98/1763], related to authority of Secretary to carry out provisions of this chapter, competitive awarding of grants and contracts, and delegation of authority and transfer of funds to Attorney General, prior to repeal by [Pub. L. 100–294, title III, § 303(a)][/us/pl/100/294/s303/a], Apr. 25, 1988, [102 Stat. 124][/us/stat/102/124].
+    A prior section 10411, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 312, Oct. 9, 1984, [98 Stat. 1763][/us/stat/98/1763], related to authority of Secretary to carry out provisions of this chapter, competitive awarding of grants and contracts, and delegation of authority and transfer of funds to Attorney General, prior to repeal by [Pub. L. 100–294, title III][/us/pl/100/294/tIII], § 303(a), Apr. 25, 1988, [102 Stat. 124][/us/stat/102/124].
 
     A prior [section 311 of Pub. L. 98–457][/us/pl/98/457/s311] was classified to [section 10410 of this title][/us/usc/t42/s10410] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -116,15 +116,15 @@
 [/us/usc/t42/s10408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10408%2Fa
 [/us/usc/t42/s3796gg/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%2Fc%2F1
 [/us/usc/t42/s3796gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg
-[/us/pl/98/457/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs311
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3501
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
-[/us/pl/98/457/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs312
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1763
-[/us/pl/100/294/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs303%2Fa
+[/us/pl/100/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtIII
 [/us/stat/102/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F124
 [/us/pl/98/457/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs311
 [/us/usc/t42/s10410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10410

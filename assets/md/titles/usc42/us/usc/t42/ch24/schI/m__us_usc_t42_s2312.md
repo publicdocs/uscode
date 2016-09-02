@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated the sum of $518,000 at Oak Ridge, the sum of $2,215,000 at Richland and the sum of $8,719,000 at Los Alamos for construction, modification, or expansion of municipal installations and utilities authorized to be transferred pursuant to subchapters VI and VII of this chapter.
 
-([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 11, § 118, [69 Stat. 484][/us/stat/69/484]; [July 25, 1956, ch. 731][/us/act/1956-07-25/ch731], §§ 5, 6, [70 Stat. 654][/us/stat/70/654]; [Pub. L. 87–719, § 24][/us/pl/87/719/s24], Sept. 28, 1962, [76 Stat. 666][/us/stat/76/666]; [Pub. L. 90–190, § 4][/us/pl/90/190/s4], Dec. 14, 1967, [81 Stat. 576][/us/stat/81/576].)
+([Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], ch. 11, § 118, [69 Stat. 484][/us/stat/69/484]; [July 25, 1956, ch. 731][/us/act/1956-07-25/ch731], §§ 5, 6, [70 Stat. 654][/us/stat/70/654]; [Pub. L. 87–719][/us/pl/87/719], § 24, Sept. 28, 1962, [76 Stat. 666][/us/stat/76/666]; [Pub. L. 90–190][/us/pl/90/190], § 4, Dec. 14, 1967, [81 Stat. 576][/us/stat/81/576].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 [/us/stat/69/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F484
 [/us/act/1956-07-25/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch731
 [/us/stat/70/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F654
-[/us/pl/87/719/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs24
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F666
-[/us/pl/90/190/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190%2Fs4
+[/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/stat/81/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F576
 [/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719

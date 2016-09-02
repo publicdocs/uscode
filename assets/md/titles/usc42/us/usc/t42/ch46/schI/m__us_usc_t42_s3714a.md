@@ -37,7 +37,7 @@
 
         There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2011.
 
-([Pub. L. 110–177, title III, § 303][/us/pl/110/177/s303], Jan. 7, 2008, [121 Stat. 2540][/us/stat/121/2540].)
+([Pub. L. 110–177, title III][/us/pl/110/177/tIII], § 303, Jan. 7, 2008, [121 Stat. 2540][/us/stat/121/2540].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/177/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs303
+[/us/pl/110/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtIII
 [/us/stat/121/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2540
 
 

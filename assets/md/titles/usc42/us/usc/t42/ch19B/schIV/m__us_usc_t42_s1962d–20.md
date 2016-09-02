@@ -55,7 +55,7 @@
 
         This section shall not apply to any diversion of water from any of the Great Lakes which is authorized on November 17, 1986.
 
-([Pub. L. 99–662, title XI, § 1109][/us/pl/99/662/s1109], Nov. 17, 1986, [100 Stat. 4230][/us/stat/100/4230]; [Pub. L. 106–541, title V, § 504(a)][/us/pl/106/541/s504/a], (b), Dec. 11, 2000, [114 Stat. 2644][/us/stat/114/2644].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1109, Nov. 17, 1986, [100 Stat. 4230][/us/stat/100/4230]; [Pub. L. 106–541, title V][/us/pl/106/541/tV], § 504(a), (b), Dec. 11, 2000, [114 Stat. 2644][/us/stat/114/2644].)
 
  __Codification__ 
 
@@ -63,19 +63,19 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b)(2) to (4). [Pub. L. 106–541, § 504(a)][/us/pl/106/541/s504/a], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    2000—Subsec. (b)(2) to (4). [Pub. L. 106–541][/us/pl/106/541], § 504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (d). [Pub. L. 106–541, § 504(b)][/us/pl/106/541/s504/b], inserted “or exported” after “diverted” and “or export” after “diversion”.
+    Subsec. (d). [Pub. L. 106–541][/us/pl/106/541], § 504(b), inserted “or exported” after “diverted” and “or export” after “diversion”.
 
  __Great Lakes Consumptive Use Study__ 
 
-    [Pub. L. 100–4, title V, § 521][/us/pl/100/4/s521], Feb. 4, 1987, [101 Stat. 88][/us/stat/101/88], provided that in recognition of the serious impacts on the Great Lakes environment that could occur as a result of increased consumption of Great Lakes water, including loss of wetlands and reduction of fish spawning and habitat areas, as well as serious economic losses to vital Great Lakes industries, the Secretary of the Army in cooperation with the Administrator, other interested departments, agencies, and instrumentalities of the United States, and the eight Great Lakes States, was authorized to conduct a study of the effects of Great Lakes water consumption on economic growth and environmental quality in the Great Lakes region and of control measures that could be implemented to reduce the quantity of water consumed, and further provided an appropriation of $750,000 for fiscal years beginning after Sept. 30, 1986, to carry out such study.
+    [Pub. L. 100–4, title V][/us/pl/100/4/tV], § 521, Feb. 4, 1987, [101 Stat. 88][/us/stat/101/88], provided that in recognition of the serious impacts on the Great Lakes environment that could occur as a result of increased consumption of Great Lakes water, including loss of wetlands and reduction of fish spawning and habitat areas, as well as serious economic losses to vital Great Lakes industries, the Secretary of the Army in cooperation with the Administrator, other interested departments, agencies, and instrumentalities of the United States, and the eight Great Lakes States, was authorized to conduct a study of the effects of Great Lakes water consumption on economic growth and environmental quality in the Great Lakes region and of control measures that could be implemented to reduce the quantity of water consumed, and further provided an appropriation of $750,000 for fiscal years beginning after Sept. 30, 1986, to carry out such study.
 
-    Similar provisions were contained in [Pub. L. 99–662, title XI, § 1147][/us/pl/99/662/s1147], Nov. 17, 1986, [100 Stat. 4253][/us/stat/100/4253].
+    Similar provisions were contained in [Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1147, Nov. 17, 1986, [100 Stat. 4253][/us/stat/100/4253].
 
  __Measurements of Lake Michigan Diversions__ 
 
-[Pub. L. 99–662, title XI, § 1142][/us/pl/99/662/s1142], Nov. 17, 1986, [100 Stat. 4253][/us/stat/100/4253], as amended by [Pub. L. 106–53, title V, § 508][/us/pl/106/53/s508], Aug. 17, 1999, [113 Stat. 339][/us/stat/113/339]; [Pub. L. 106–541, title V, § 518][/us/pl/106/541/s518], Dec. 11, 2000, [114 Stat. 2653][/us/stat/114/2653], provided that:
+[Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1142, Nov. 17, 1986, [100 Stat. 4253][/us/stat/100/4253], as amended by [Pub. L. 106–53, title V][/us/pl/106/53/tV], § 508, Aug. 17, 1999, [113 Stat. 339][/us/stat/113/339]; [Pub. L. 106–541, title V][/us/pl/106/541/tV], § 518, Dec. 11, 2000, [114 Stat. 2653][/us/stat/114/2653], provided that:
 
 >     “(a) Beginning October 1, 1987, the Secretary, in cooperation with the State of Illinois, shall carry out measurements and make necessary computations required by the decree of the United States Supreme Court (388 U.S. 426) relating to the diversion of water from Lake Michigan and shall coordinate the results with downstate interests. The measurements and computations shall consist of all flow measurements, gauge records, hydraulic and hydrologic computations, including periodic field investigations and measuring device calibrations, necessary to compute the amount of water diverted from Lake Michigan by the State of Illinois and its municipalities, political subdivisions, agencies, and instrumentalities, not including water diverted or used by Federal installations.
 
@@ -88,21 +88,21 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1109
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4230
-[/us/pl/106/541/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs504%2Fa
+[/us/pl/106/541/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtV
 [/us/stat/114/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2644
-[/us/pl/106/541/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs504%2Fa
-[/us/pl/106/541/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs504%2Fb
-[/us/pl/100/4/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs521
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/106/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541
+[/us/pl/100/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2FtV
 [/us/stat/101/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F88
-[/us/pl/99/662/s1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1147
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4253
-[/us/pl/99/662/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1142
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4253
-[/us/pl/106/53/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs508
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F339
-[/us/pl/106/541/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs518
+[/us/pl/106/541/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtV
 [/us/stat/114/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2653
 
 

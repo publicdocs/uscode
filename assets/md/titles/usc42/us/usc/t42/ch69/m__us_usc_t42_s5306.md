@@ -243,7 +243,7 @@
 
         If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section is insufficient to provide the amounts to which metropolitan cities and urban counties would be entitled under subsection (b) of this section, and funds are not otherwise appropriated to meet the deficiency, the Secretary shall meet the deficiency through a pro rata reduction of all amounts determined under subsection (b) of this section. If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section exceeds the amounts to which metropolitan cities and urban counties would be entitled under subsection (b) of this section, the Secretary shall distribute the excess through a pro rata increase of all amounts determined under subsection (b) of this section.
 
-([Pub. L. 93–383, title I, § 106][/us/pl/93/383/s106], Aug. 22, 1974, [88 Stat. 642][/us/stat/88/642]; [Pub. L. 95–128, title I, § 106][/us/pl/95/128/s106], Oct. 12, 1977, [91 Stat. 1117][/us/stat/91/1117]; [Pub. L. 96–153, title I, § 103(d)][/us/pl/96/153/s103/d], (e), Dec. 21, 1979, [93 Stat. 1102][/us/stat/93/1102]; [Pub. L. 96–399, title I][/us/pl/96/399], §§ 102, 103, 111(d)–(g), 112, Oct. 8, 1980, [94 Stat. 1615][/us/stat/94/1615], 1621, 1622; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 304, 309(h), Aug. 13, 1981, [95 Stat. 388][/us/stat/95/388], 396; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 106\], Nov. 30, 1983, [97 Stat. 1164][/us/stat/97/1164]; [Pub. L. 98–479, title I, § 101(a)(10)][/us/pl/98/479/s101/a/10]–(12), Oct. 17, 1984, [98 Stat. 2219][/us/stat/98/2219], 2220; [Pub. L. 100–242, title V][/us/pl/100/242], §§ 512, 513, 517(b)(1), Feb. 5, 1988, [101 Stat. 1930][/us/stat/101/1930], 1936; [Pub. L. 100–628, title X, § 1082(b)][/us/pl/100/628/s1082/b], (c), Nov. 7, 1988, [102 Stat. 3277][/us/stat/102/3277]; [Pub. L. 101–235, title VII, § 702(b)][/us/pl/101/235/s702/b], Dec. 15, 1989, [103 Stat. 2056][/us/stat/103/2056]; [Pub. L. 101–625, title IX][/us/pl/101/625], §§ 913(b), 933, Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392], 4403; [Pub. L. 102–550, title VIII][/us/pl/102/550], §§ 802(b), 808, 811, title XII, § 1204(i), Oct. 28, 1992, [106 Stat. 3845][/us/stat/106/3845], 3850, 3940; [Pub. L. 108–186, title V, § 501(d)][/us/pl/108/186/s501/d], (e), Dec. 16, 2003, [117 Stat. 2697][/us/stat/117/2697]; [Pub. L. 108–199, div. G, title IV, § 423][/us/pl/108/199/s423], Jan. 23, 2004, [118 Stat. 416][/us/stat/118/416].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 106, Aug. 22, 1974, [88 Stat. 642][/us/stat/88/642]; [Pub. L. 95–128, title I][/us/pl/95/128/tI], § 106, Oct. 12, 1977, [91 Stat. 1117][/us/stat/91/1117]; [Pub. L. 96–153, title I][/us/pl/96/153/tI], § 103(d), (e), Dec. 21, 1979, [93 Stat. 1102][/us/stat/93/1102]; [Pub. L. 96–399, title I][/us/pl/96/399/tI], §§ 102, 103, 111(d)–(g), 112, Oct. 8, 1980, [94 Stat. 1615][/us/stat/94/1615], 1621, 1622; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 304, 309(h), Aug. 13, 1981, [95 Stat. 388][/us/stat/95/388], 396; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 106\], Nov. 30, 1983, [97 Stat. 1164][/us/stat/97/1164]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 101(a)(10)–(12), Oct. 17, 1984, [98 Stat. 2219][/us/stat/98/2219], 2220; [Pub. L. 100–242, title V][/us/pl/100/242/tV], §§ 512, 513, 517(b)(1), Feb. 5, 1988, [101 Stat. 1930][/us/stat/101/1930], 1936; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1082(b), (c), Nov. 7, 1988, [102 Stat. 3277][/us/stat/102/3277]; [Pub. L. 101–235, title VII][/us/pl/101/235/tVII], § 702(b), Dec. 15, 1989, [103 Stat. 2056][/us/stat/103/2056]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], §§ 913(b), 933, Nov. 28, 1990, [104 Stat. 4392][/us/stat/104/4392], 4403; [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], §§ 802(b), 808, 811, title XII, § 1204(i), Oct. 28, 1992, [106 Stat. 3845][/us/stat/106/3845], 3850, 3940; [Pub. L. 108–186, title V][/us/pl/108/186/tV], § 501(d), (e), Dec. 16, 2003, [117 Stat. 2697][/us/stat/117/2697]; [Pub. L. 108–199, div. G, title IV][/us/pl/108/199/dG/tIV], § 423, Jan. 23, 2004, [118 Stat. 416][/us/stat/118/416].)
 
  __References in Text__ 
 
@@ -257,7 +257,7 @@
 
     This subparagraph, referred to in subsec. (d)(1), probably should be a reference to this paragraph, meaning par. (1) of subsec. (d) of this section.
 
-    Section 1437o of this title and [section 1706e of title 12][/us/usc/t12/s1706e], referred to in subsec. (d)(3)(A), was repealed by [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
+    Section 1437o of this title and [section 1706e of title 12][/us/usc/t12/s1706e], referred to in subsec. (d)(3)(A), was repealed by [Pub. L. 101–625, title II][/us/pl/101/625/tII], § 289(b), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128].
 
     The Civil Rights Act of 1964, referred to in subsec. (d)(7)(B), is [Pub. L. 88–352][/us/pl/88/352], July 2, 1964, [78 Stat. 241][/us/stat/78/241], which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title][/us/usc/t42/s2000a] and Tables.
 
@@ -269,155 +269,155 @@
 
  __Amendments__ 
 
-    2004—Subsec. (d)(3)(A). [Pub. L. 108–199, § 423(1)][/us/pl/108/199/s423/1], substituted “shall not, subject to paragraph (6), exceed 3 percent” for “shall not exceed 2 percent”.
+    2004—Subsec. (d)(3)(A). [Pub. L. 108–199][/us/pl/108/199], § 423(1), substituted “shall not, subject to paragraph (6), exceed 3 percent” for “shall not exceed 2 percent”.
 
-    Subsec. (d)(5). [Pub. L. 108–199, § 423(3)][/us/pl/108/199/s423/3], redesignated par. (5), relating to prohibition of distributions to units of general local government without certifications, as (7).
+    Subsec. (d)(5). [Pub. L. 108–199][/us/pl/108/199], § 423(3), redesignated par. (5), relating to prohibition of distributions to units of general local government without certifications, as (7).
 
-    [Pub. L. 108–199, § 423(2)][/us/pl/108/199/s423/2], substituted “subject to paragraph (6), not to exceed 3 percent” for “not to exceed 1 percent” in par. (5), relating to State deductions for technical assistance.
+    [Pub. L. 108–199][/us/pl/108/199], § 423(2), substituted “subject to paragraph (6), not to exceed 3 percent” for “not to exceed 1 percent” in par. (5), relating to State deductions for technical assistance.
 
-    Subsec. (d)(6). [Pub. L. 108–199, § 423(4)][/us/pl/108/199/s423/4], added par. (6). Former par. (6) redesignated (8).
+    Subsec. (d)(6). [Pub. L. 108–199][/us/pl/108/199], § 423(4), added par. (6). Former par. (6) redesignated (8).
 
-    Subsec. (d)(7), (8). [Pub. L. 108–199, § 423(3)][/us/pl/108/199/s423/3], redesignated pars. (5), relating to prohibition of distributions to units of general local government without certifications, and (6) as pars. (7) and (8), respectively.
+    Subsec. (d)(7), (8). [Pub. L. 108–199][/us/pl/108/199], § 423(3), redesignated pars. (5), relating to prohibition of distributions to units of general local government without certifications, and (6) as pars. (7) and (8), respectively.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–186, § 501(d)(1)][/us/pl/108/186/s501/d/1], in first sentence, substituted “appropriation Acts” for “an appropriation Act” and “for such fiscal year” for “in any year”.
+    2003—Subsec. (a)(1). [Pub. L. 108–186][/us/pl/108/186], § 501(d)(1), in first sentence, substituted “appropriation Acts” for “an appropriation Act” and “for such fiscal year” for “in any year”.
 
-    Subsec. (a)(2). [Pub. L. 108–186, § 501(d)(5)][/us/pl/108/186/s501/d/5], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 108–186][/us/pl/108/186], § 501(d)(5), added par. (2). Former par. (2) redesignated (3).
 
-    [Pub. L. 108–186, § 501(d)(2)][/us/pl/108/186/s501/d/2], inserted “under paragraph (1) and after reserving such amounts for insular areas under paragraph (2)” after “tribes”.
+    [Pub. L. 108–186][/us/pl/108/186], § 501(d)(2), inserted “under paragraph (1) and after reserving such amounts for insular areas under paragraph (2)” after “tribes”.
 
-    Subsec. (a)(3). [Pub. L. 108–186, § 501(d)(4)][/us/pl/108/186/s501/d/4], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 108–186][/us/pl/108/186], § 501(d)(4), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    [Pub. L. 108–186, § 501(d)(3)][/us/pl/108/186/s501/d/3], substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)”.
+    [Pub. L. 108–186][/us/pl/108/186], § 501(d)(3), substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)”.
 
-    Subsec. (a)(4). [Pub. L. 108–186, § 501(d)(4)][/us/pl/108/186/s501/d/4], redesignated par. (3) as (4).
+    Subsec. (a)(4). [Pub. L. 108–186][/us/pl/108/186], § 501(d)(4), redesignated par. (3) as (4).
 
-    Subsec. (d)(1). [Pub. L. 108–186, § 501(e)][/us/pl/108/186/s501/e], substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in first sentence.
+    Subsec. (d)(1). [Pub. L. 108–186][/us/pl/108/186], § 501(e), substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in first sentence.
 
-    1992—Subsec. (d)(1). [Pub. L. 102–550, § 1204(i)][/us/pl/102/550/s1204/i], in first sentence, substituted “that remains after allocations pursuant to paragraphs (1) and (2) of subsection (a) of this section” for “for grants in any year (excluding the amounts provided for use in accordance with subsection (a)(1) and (2) of this section)”.
+    1992—Subsec. (d)(1). [Pub. L. 102–550][/us/pl/102/550], § 1204(i), in first sentence, substituted “that remains after allocations pursuant to paragraphs (1) and (2) of subsection (a) of this section” for “for grants in any year (excluding the amounts provided for use in accordance with subsection (a)(1) and (2) of this section)”.
 
-    Subsec. (d)(4). [Pub. L. 102–550, § 802(b)][/us/pl/102/550/s802/b], added par. (4).
+    Subsec. (d)(4). [Pub. L. 102–550][/us/pl/102/550], § 802(b), added par. (4).
 
-    Subsec. (d)(5). [Pub. L. 102–550, § 811][/us/pl/102/550/s811], added par. (5) relating to State deductions for technical assistance.
+    Subsec. (d)(5). [Pub. L. 102–550][/us/pl/102/550], § 811, added par. (5) relating to State deductions for technical assistance.
 
-    Subsec. (d)(5)(B). [Pub. L. 102–550, § 808][/us/pl/102/550/s808], substituted “the Civil Rights Act of 1964 and the Fair Housing Act” for “[Public Law 88–352][/us/pl/88/352] and [Public Law 90–284][/us/pl/90/284]”.
+    Subsec. (d)(5)(B). [Pub. L. 102–550][/us/pl/102/550], § 808, substituted “the Civil Rights Act of 1964 and the Fair Housing Act” for “[Public Law 88–352][/us/pl/88/352] and [Public Law 90–284][/us/pl/90/284]”.
 
-    1990—Subsec. (a). [Pub. L. 101–625, § 913(b)(1)(B)][/us/pl/101/625/s913/b/1/B], added subsec. (a) and struck out former subsec. (a) which read as follows: “Of the amount approved in an appropriation Act under [section 5303 of this title][/us/usc/t42/s5303] for grants in any year (excluding the amounts provided for use in accordance with [section 5307 of this title][/us/usc/t42/s5307] and [section 5318 of this title][/us/usc/t42/s5318]), 70 per centum shall be allocated by the Secretary to metropolitan cities and urban counties and Indian tribes. Except as otherwise specifically authorized, each metropolitan city and urban county shall be entitled to an annual grant from such allocation in an amount not exceeding its basic amount computed pursuant to paragraph (1) or (2) of subsection (b) of this section Indian tribes shall receive grants from such allocation pursuant to subsection (b)(7) of this section.”
+    1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625], § 913(b)(1)(B), added subsec. (a) and struck out former subsec. (a) which read as follows: “Of the amount approved in an appropriation Act under [section 5303 of this title][/us/usc/t42/s5303] for grants in any year (excluding the amounts provided for use in accordance with [section 5307 of this title][/us/usc/t42/s5307] and [section 5318 of this title][/us/usc/t42/s5318]), 70 per centum shall be allocated by the Secretary to metropolitan cities and urban counties and Indian tribes. Except as otherwise specifically authorized, each metropolitan city and urban county shall be entitled to an annual grant from such allocation in an amount not exceeding its basic amount computed pursuant to paragraph (1) or (2) of subsection (b) of this section Indian tribes shall receive grants from such allocation pursuant to subsection (b)(7) of this section.”
 
-    Subsec. (b)(1), (2). [Pub. L. 101–625, § 913(b)(2)][/us/pl/101/625/s913/b/2], substituted “The” for “After taking into account the set-aside for Indian tribes under paragraph (7), the” in introductory provisions of pars. (1) and (2).
+    Subsec. (b)(1), (2). [Pub. L. 101–625][/us/pl/101/625], § 913(b)(2), substituted “The” for “After taking into account the set-aside for Indian tribes under paragraph (7), the” in introductory provisions of pars. (1) and (2).
 
-    Subsec. (b)(7). [Pub. L. 101–625, § 913(b)(1)(A)][/us/pl/101/625/s913/b/1/A], struck out par. (7), which read as follows:
+    Subsec. (b)(7). [Pub. L. 101–625][/us/pl/101/625], § 913(b)(1)(A), struck out par. (7), which read as follows:
 
     “(A) For each fiscal year, the Secretary shall reserve for grants to Indian tribes, from amounts approved in appropriation Acts under [section 5303 of this title][/us/usc/t42/s5303] for grants for the year under subsection (a) of this section, not more than 1 percent of the amounts appropriated under such section.
 
     “(B) The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
-    Subsec. (c)(1). [Pub. L. 101–625, § 933(1)][/us/pl/101/625/s933/1], substituted “paragraphs (2) and (4)” for “paragraph (2)” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 101–625][/us/pl/101/625], § 933(1), substituted “paragraphs (2) and (4)” for “paragraph (2)” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 101–625, § 933(2)][/us/pl/101/625/s933/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 101–625][/us/pl/101/625], § 933(2), added par. (4).
 
-    Subsec. (d)(1). [Pub. L. 101–625, § 913(b)(3)][/us/pl/101/625/s913/b/3], substituted “subsection (a)(1) and (2) of this section” for “[section 5307 of this title][/us/usc/t42/s5307] and [section 5318 of this title][/us/usc/t42/s5318]” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 101–625][/us/pl/101/625], § 913(b)(3), substituted “subsection (a)(1) and (2) of this section” for “[section 5307 of this title][/us/usc/t42/s5307] and [section 5318 of this title][/us/usc/t42/s5318]” in introductory provisions.
 
-    1989—Subsec. (a). [Pub. L. 101–235, § 702(b)(1)][/us/pl/101/235/s702/b/1], inserted “and Indian tribes” after “urban counties” in first sentence and inserted “Indian tribes shall receive grants from such allocation pursuant to subsection (b)(7) of this section” before period at end of second sentence.
+    1989—Subsec. (a). [Pub. L. 101–235][/us/pl/101/235], § 702(b)(1), inserted “and Indian tribes” after “urban counties” in first sentence and inserted “Indian tribes shall receive grants from such allocation pursuant to subsection (b)(7) of this section” before period at end of second sentence.
 
-    Subsec. (b)(1). [Pub. L. 101–235, § 702(b)(2)][/us/pl/101/235/s702/b/2], substituted “After taking into account the set-aside for Indian tribes under paragraph (7), the” for “The”.
+    Subsec. (b)(1). [Pub. L. 101–235][/us/pl/101/235], § 702(b)(2), substituted “After taking into account the set-aside for Indian tribes under paragraph (7), the” for “The”.
 
-    Subsec. (b)(2). [Pub. L. 101–235, § 702(b)(3)][/us/pl/101/235/s702/b/3], substituted “After taking into account the set-aside for Indian tribes under paragraph (7), the” for “The”.
+    Subsec. (b)(2). [Pub. L. 101–235][/us/pl/101/235], § 702(b)(3), substituted “After taking into account the set-aside for Indian tribes under paragraph (7), the” for “The”.
 
-    Subsec. (b)(7). [Pub. L. 101–235, § 702(b)(4)][/us/pl/101/235/s702/b/4], added par. (7).
+    Subsec. (b)(7). [Pub. L. 101–235][/us/pl/101/235], § 702(b)(4), added par. (7).
 
-    Subsec. (d)(4). [Pub. L. 101–235, § 702(b)(5)][/us/pl/101/235/s702/b/5], struck out par. (4) which excluded Indian tribes in computing amounts under par. (1).
+    Subsec. (d)(4). [Pub. L. 101–235][/us/pl/101/235], § 702(b)(5), struck out par. (4) which excluded Indian tribes in computing amounts under par. (1).
 
-    1988—Subsec. (c)(1). [Pub. L. 100–628, § 1082(b)][/us/pl/100/628/s1082/b], substituted “subsection (a), (b), (c), or (d) of section 5304” for “section 5304(a), (b), or (c)” in introductory provisions and substituted “section 5304(e)” for “section 5304(d)” in introductory provisions and in subpar. (B).
+    1988—Subsec. (c)(1). [Pub. L. 100–628][/us/pl/100/628], § 1082(b), substituted “subsection (a), (b), (c), or (d) of section 5304” for “section 5304(a), (b), or (c)” in introductory provisions and substituted “section 5304(e)” for “section 5304(d)” in introductory provisions and in subpar. (B).
 
-    Subsec. (d)(2)(C). [Pub. L. 100–242, § 512(1)][/us/pl/100/242/s512/1], substituted “the State must certify that it” for “the Governor must certify that the State”.
+    Subsec. (d)(2)(C). [Pub. L. 100–242][/us/pl/100/242], § 512(1), substituted “the State must certify that it” for “the Governor must certify that the State”.
 
-    Subsec. (d)(2)(D). [Pub. L. 100–242, § 512(2)][/us/pl/100/242/s512/2], substituted “the State” for “the Governor of each State”.
+    Subsec. (d)(2)(D). [Pub. L. 100–242][/us/pl/100/242], § 512(2), substituted “the State” for “the Governor of each State”.
 
-    Subsec. (d)(3)(A). [Pub. L. 100–242, § 517(b)(1)][/us/pl/100/242/s517/b/1], inserted “its administrative expenses under [section 1706e of title 12][/us/usc/t12/s1706e]” after first reference to “such expenses”, and “under this chapter” after second reference to “such expenses”.
+    Subsec. (d)(3)(A). [Pub. L. 100–242][/us/pl/100/242], § 517(b)(1), inserted “its administrative expenses under [section 1706e of title 12][/us/usc/t12/s1706e]” after first reference to “such expenses”, and “under this chapter” after second reference to “such expenses”.
 
-    [Pub. L. 100–242, § 513][/us/pl/100/242/s513], substituted “$100,000” for “$102,000” after “the sum of”.
+    [Pub. L. 100–242][/us/pl/100/242], § 513, substituted “$100,000” for “$102,000” after “the sum of”.
 
-    Subsec. (d)(3)(C). [Pub. L. 100–628, § 1082(c)][/us/pl/100/628/s1082/c], substituted “subsection (a), (b), or (d) of section 5304” for “subsection (a) or (b) of section 5304” and “section 5304(e)” for “section 5304(d)”.
+    Subsec. (d)(3)(C). [Pub. L. 100–628][/us/pl/100/628], § 1082(c), substituted “subsection (a), (b), or (d) of section 5304” for “subsection (a) or (b) of section 5304” and “section 5304(e)” for “section 5304(d)”.
 
-    Subsec. (d)(3)(D). [Pub. L. 100–628, § 1082(c)(2)][/us/pl/100/628/s1082/c/2], substituted “section 5304(e)” for “section 5304(d)”.
+    Subsec. (d)(3)(D). [Pub. L. 100–628][/us/pl/100/628], § 1082(c)(2), substituted “section 5304(e)” for “section 5304(d)”.
 
-    1984—Subsec. (d)(2)(A). [Pub. L. 98–479, § 101(a)(10)(A)][/us/pl/98/479/s101/a/10/A], substituted “the State” for “a State that has elected, in such manner and at such time as the Secretary shall prescribe” in provisions preceding cl. (i).
+    1984—Subsec. (d)(2)(A). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(10)(A), substituted “the State” for “a State that has elected, in such manner and at such time as the Secretary shall prescribe” in provisions preceding cl. (i).
 
-    Subsec. (d)(2)(A)(i). [Pub. L. 98–479, § 101(a)(10)(B)][/us/pl/98/479/s101/a/10/B], substituted “a State that has elected, in such manner and at such time as the Secretary shall prescribe, to distribute such amounts” for “the State”.
+    Subsec. (d)(2)(A)(i). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(10)(B), substituted “a State that has elected, in such manner and at such time as the Secretary shall prescribe, to distribute such amounts” for “the State”.
 
-    Subsec. (d)(3)(A). [Pub. L. 98–479, § 101(a)(11)(A)][/us/pl/98/479/s101/a/11/A], inserted “or section 1437o(e)(1) of this title”.
+    Subsec. (d)(3)(A). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(11)(A), inserted “or section 1437o(e)(1) of this title”.
 
-    Subsec. (d)(3)(C). [Pub. L. 98–479, § 101(a)(11)(B)][/us/pl/98/479/s101/a/11/B], inserted “or to make the certifications required in subparagraphs (C) and (D) of paragraph (2)”.
+    Subsec. (d)(3)(C). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(11)(B), inserted “or to make the certifications required in subparagraphs (C) and (D) of paragraph (2)”.
 
-    Subsec. (d)(5)(D)(ii). [Pub. L. 98–479, § 101(a)(12)][/us/pl/98/479/s101/a/12], substituted “moderate” for “low and moderate income who are not persons of very low” before “income, the grantee certifies”.
+    Subsec. (d)(5)(D)(ii). [Pub. L. 98–479][/us/pl/98/479], § 101(a)(12), substituted “moderate” for “low and moderate income who are not persons of very low” before “income, the grantee certifies”.
 
-    1983—Subsec. (b)(6). [Pub. L. 98–181, § 106(a)][/us/pl/98/181/s106/a], added par. (6).
+    1983—Subsec. (b)(6). [Pub. L. 98–181][/us/pl/98/181], § 106(a), added par. (6).
 
-    Subsec. (c)(1)(B). [Pub. L. 98–181, § 106(b)][/us/pl/98/181/s106/b], substituted “a city or county against whom any such action was taken in a fiscal year shall be excluded from a calculation of share for purposes of reallocating in the succeeding year,” for “the city or county against whom any such action was taken shall be excluded from the calculation of shares for purposes of reallocating”.
+    Subsec. (c)(1)(B). [Pub. L. 98–181][/us/pl/98/181], § 106(b), substituted “a city or county against whom any such action was taken in a fiscal year shall be excluded from a calculation of share for purposes of reallocating in the succeeding year,” for “the city or county against whom any such action was taken shall be excluded from the calculation of shares for purposes of reallocating”.
 
-    Subsec. (c)(3). [Pub. L. 98–181, § 106(c)][/us/pl/98/181/s106/c], added par. (3).
+    Subsec. (c)(3). [Pub. L. 98–181][/us/pl/98/181], § 106(c), added par. (3).
 
-    Subsec. (d)(2)(A). [Pub. L. 98–181, § 106(d)(1)][/us/pl/98/181/s106/d/1], substituted “a State that has elected, in such manner and at such time as the Secretary shall prescribe” for “the State” in provisions preceding cl. (i), and inserted, following cl. (ii), “Any election to distribute funds made after the close of fiscal year 1984 is permanent and final.”
+    Subsec. (d)(2)(A). [Pub. L. 98–181][/us/pl/98/181], § 106(d)(1), substituted “a State that has elected, in such manner and at such time as the Secretary shall prescribe” for “the State” in provisions preceding cl. (i), and inserted, following cl. (ii), “Any election to distribute funds made after the close of fiscal year 1984 is permanent and final.”
 
-    Subsec. (d)(2)(B). [Pub. L. 98–181, § 106(d)(2)][/us/pl/98/181/s106/d/2], substituted provisions requiring the Secretary to distribute amounts allocated under par. (1) if the State has not elected to distribute such amounts, for provisions which required the Secretary to distribute such amounts where the State had elected, in such manner and before such time as prescribed by the Secretary, not to distribute such amounts, or the State had failed to submit the certifications described in subpar. (C).
+    Subsec. (d)(2)(B). [Pub. L. 98–181][/us/pl/98/181], § 106(d)(2), substituted provisions requiring the Secretary to distribute amounts allocated under par. (1) if the State has not elected to distribute such amounts, for provisions which required the Secretary to distribute such amounts where the State had elected, in such manner and before such time as prescribed by the Secretary, not to distribute such amounts, or the State had failed to submit the certifications described in subpar. (C).
 
-    Subsec. (d)(2)(C)(iii). [Pub. L. 98–181, § 106(e)][/us/pl/98/181/s106/e], amended cl. (iii) generally, substituting provisions requiring certification by the Governor that the State will not refuse to distribute funds to any local government unit on the basis of the particular activity selected to meet its community development needs, except that a State may establish priorities in distributing such amounts, for provisions requiring the Governor to certify that the State would provide funds for community development activities in an amount of at least 10 per centum of the amounts allocated for use in the State pursuant to par. (1).
+    Subsec. (d)(2)(C)(iii). [Pub. L. 98–181][/us/pl/98/181], § 106(e), amended cl. (iii) generally, substituting provisions requiring certification by the Governor that the State will not refuse to distribute funds to any local government unit on the basis of the particular activity selected to meet its community development needs, except that a State may establish priorities in distributing such amounts, for provisions requiring the Governor to certify that the State would provide funds for community development activities in an amount of at least 10 per centum of the amounts allocated for use in the State pursuant to par. (1).
 
-    Subsec. (d)(2)(D). [Pub. L. 98–181, § 106(f)][/us/pl/98/181/s106/f], added subpar. (D).
+    Subsec. (d)(2)(D). [Pub. L. 98–181][/us/pl/98/181], § 106(f), added subpar. (D).
 
-    Subsec. (d)(3)(A). [Pub. L. 98–181, § 106(g)][/us/pl/98/181/s106/g], substituted provisions that the State may deduct an amount to cover such expenses not to exceed the sum of $102,000 plus 50 percent of any such expenses in excess of $100,000, and that the amounts deducted in excess of $100,000 shall not exceed 2 percent of the amount so received, for provisions that the State could deduct an amount not to exceed 50 per centum of the costs incurred by the State in carrying out such responsibilities, and that amounts so deducted could not exceed 2 per centum of the amount so received.
+    Subsec. (d)(3)(A). [Pub. L. 98–181][/us/pl/98/181], § 106(g), substituted provisions that the State may deduct an amount to cover such expenses not to exceed the sum of $102,000 plus 50 percent of any such expenses in excess of $100,000, and that the amounts deducted in excess of $100,000 shall not exceed 2 percent of the amount so received, for provisions that the State could deduct an amount not to exceed 50 per centum of the costs incurred by the State in carrying out such responsibilities, and that amounts so deducted could not exceed 2 per centum of the amount so received.
 
-    Subsec. (d)(3)(C), (D). [Pub. L. 98–181, § 106(h)][/us/pl/98/181/s106/h], amended subpar. (C) generally, substituting provisions requiring that amounts which are to be reallocated because of failure to meet requirements of section 5304(a), (b) of this title or because of action under section 5304(d) or 5311 of this title be added to amounts allocated to all States for the succeeding fiscal year for provisions that amounts reallocated because of action under section 5304(d) or [section 5311 of this title][/us/usc/t42/s5311] were to be added to amounts available for distribution in the State in the same fiscal year, in the case of actions against units of general local government, or to amounts available for distribution in the succeeding fiscal year, in the case of action against the State, and struck out provision for distribution of such funds by either the State or the Secretary and adding subpar. (D).
+    Subsec. (d)(3)(C), (D). [Pub. L. 98–181][/us/pl/98/181], § 106(h), amended subpar. (C) generally, substituting provisions requiring that amounts which are to be reallocated because of failure to meet requirements of section 5304(a), (b) of this title or because of action under section 5304(d) or 5311 of this title be added to amounts allocated to all States for the succeeding fiscal year for provisions that amounts reallocated because of action under section 5304(d) or [section 5311 of this title][/us/usc/t42/s5311] were to be added to amounts available for distribution in the State in the same fiscal year, in the case of actions against units of general local government, or to amounts available for distribution in the succeeding fiscal year, in the case of action against the State, and struck out provision for distribution of such funds by either the State or the Secretary and adding subpar. (D).
 
-    Subsec. (d)(5), (6). [Pub. L. 98–181, § 106(i)][/us/pl/98/181/s106/i], added pars. (5) and (6).
+    Subsec. (d)(5), (6). [Pub. L. 98–181][/us/pl/98/181], § 106(i), added pars. (5) and (6).
 
-    Subsec. (f). [Pub. L. 98–181, § 106(j)][/us/pl/98/181/s106/j], amended subsec. (f) generally, substituting provisions for pro rata reduction of all amounts determined under subsec. (b) in the event of a deficiency for provisions for reduction of all basic grant entitlement funds provided pursuant to this section in the event of a deficiency, and inserted provision for distribution of excess amounts.
+    Subsec. (f). [Pub. L. 98–181][/us/pl/98/181], § 106(j), amended subsec. (f) generally, substituting provisions for pro rata reduction of all amounts determined under subsec. (b) in the event of a deficiency for provisions for reduction of all basic grant entitlement funds provided pursuant to this section in the event of a deficiency, and inserted provision for distribution of excess amounts.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 304(a)][/us/pl/97/35/s304/a], substituted provisions relating to amounts allocated to metropolitan areas and urban counties and limitations on amount of annual grants for provisions relating to amounts allocated to metropolitan areas, annual grants for metropolitan cities and urban counties, and limitations.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 304(a), substituted provisions relating to amounts allocated to metropolitan areas and urban counties and limitations on amount of annual grants for provisions relating to amounts allocated to metropolitan areas, annual grants for metropolitan cities and urban counties, and limitations.
 
-    Subsec. (b)(4). [Pub. L. 97–35, § 309(h)][/us/pl/97/35/s309/h], substituted provision respecting assistance under subsec. (d) of this section for provision respecting grants under subsec. (c) or (e) of this section.
+    Subsec. (b)(4). [Pub. L. 97–35][/us/pl/97/35], § 309(h), substituted provision respecting assistance under subsec. (d) of this section for provision respecting grants under subsec. (c) or (e) of this section.
 
-    Subsec. (c). [Pub. L. 97–35, § 304(b)][/us/pl/97/35/s304/b], (c), redesignated subsec. (d) as (c) and substituted provisions relating to reallocation of undistributed funds within same metropolitan area as original allocation, for provisions relating to reallocation of amounts allocated to metropolitan cities, urban counties, and metropolitan areas for use by States, metropolitan cities, etc. Former subsec. (c), which related to additional allocations of amount allocated to metropolitan areas and added amounts for grants for metropolitan cities, urban counties, specified units of general local government, and States, was struck out.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 304(b), (c), redesignated subsec. (d) as (c) and substituted provisions relating to reallocation of undistributed funds within same metropolitan area as original allocation, for provisions relating to reallocation of amounts allocated to metropolitan cities, urban counties, and metropolitan areas for use by States, metropolitan cities, etc. Former subsec. (c), which related to additional allocations of amount allocated to metropolitan areas and added amounts for grants for metropolitan cities, urban counties, specified units of general local government, and States, was struck out.
 
-    Subsec. (d). [Pub. L. 97–35, § 304(b)][/us/pl/97/35/s304/b], (d), (e), redesignated subsec. (e) as (d) and substituted provisions relating to allocation among nonentitlement areas, amount and calculation of grants, distributions, certifications, etc., for provisions relating to amounts allocated to units of general local government of metropolitan areas and States, calculations, multiyear commitments, annual grants, reallocation of amounts to nonmetropolitan areas of other States, and review by Secretary. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 304(b), (d), (e), redesignated subsec. (e) as (d) and substituted provisions relating to allocation among nonentitlement areas, amount and calculation of grants, distributions, certifications, etc., for provisions relating to amounts allocated to units of general local government of metropolitan areas and States, calculations, multiyear commitments, annual grants, reallocation of amounts to nonmetropolitan areas of other States, and review by Secretary. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 97–35, § 304(b)][/us/pl/97/35/s304/b], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 97–35][/us/pl/97/35], § 304(b), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsecs. (f), (g). [Pub. L. 97–35, § 304(b)][/us/pl/97/35/s304/b], (f), redesignated subsec. (g) as (f) and substituted “all basic grant entitlement amounts” for “(1) all basic grant entitlement amounts, and (2) funds available under subsection (c) of this section (including amounts provided for use under [section 5303(a)(2) of this title][/us/usc/t42/s5303/a/2]) and subsection (e) of this section”. Former subsec. (f) redesignated (e).
+    Subsecs. (f), (g). [Pub. L. 97–35][/us/pl/97/35], § 304(b), (f), redesignated subsec. (g) as (f) and substituted “all basic grant entitlement amounts” for “(1) all basic grant entitlement amounts, and (2) funds available under subsection (c) of this section (including amounts provided for use under [section 5303(a)(2) of this title][/us/usc/t42/s5303/a/2]) and subsection (e) of this section”. Former subsec. (f) redesignated (e).
 
-    1980—Subsec. (a). [Pub. L. 96–399, § 111(e)][/us/pl/96/399/s111/e], substituted “subsection (d) of this section” for “subsections (c) and (e) of this section”, struck out “aggregate” after “allocation in an”, “the greater of” after “not exceeding”, and “or its hold-harmless amount computed pursuant to subsection (g) of this section” after “subsection (b) of this section”.
+    1980—Subsec. (a). [Pub. L. 96–399][/us/pl/96/399], § 111(e), substituted “subsection (d) of this section” for “subsections (c) and (e) of this section”, struck out “aggregate” after “allocation in an”, “the greater of” after “not exceeding”, and “or its hold-harmless amount computed pursuant to subsection (g) of this section” after “subsection (b) of this section”.
 
-    Subsec. (b)(4). [Pub. L. 96–399, § 103][/us/pl/96/399/s103], substituted “the populations of which are not counted in determining the eligibility of the urban county to receive a grant under this subsection, except that there shall be included any independent city (as defined by the Bureau of the Census) which—” for “(A) which are entitled to hold-harmless grants pursuant to subsection (h) of this section, or (B) the populations of which are not counted in determining the eligibility of the urban county to receive a grant under this subsection”, and added subpars. (A) to (E) and provision following subpar. (E).
+    Subsec. (b)(4). [Pub. L. 96–399][/us/pl/96/399], § 103, substituted “the populations of which are not counted in determining the eligibility of the urban county to receive a grant under this subsection, except that there shall be included any independent city (as defined by the Bureau of the Census) which—” for “(A) which are entitled to hold-harmless grants pursuant to subsection (h) of this section, or (B) the populations of which are not counted in determining the eligibility of the urban county to receive a grant under this subsection”, and added subpars. (A) to (E) and provision following subpar. (E).
 
-    Subsec. (c). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], (f), redesignated former subsec. (d) as (c) and struck out in par. (1) “allocated by the Secretary, first, for grants to metropolitan cities, urban counties, and other units of general local government within metropolitan areas to meet their hold-harmless needs as determined under subsections (g) and (h), and second, in accordance with the provisions of paragraph (2)” after “[section 5303(a)(2) of this title][/us/usc/t42/s5303/a/2]”, struck out “(2) Any portion of such amounts which remains after applying the provision of paragraph (1) shall be” before “utilized by the Secretary”, redesignated former par. (3) as (2) and in par. (2) as so redesignated, substituted “paragraph (1)” for “paragraph (2)” wherever appearing, struck out “In determining whether to make such a commitment to a unit of general local government, the Secretary shall give special consideration to those communities presently carrying out comprehensive community development programs which are subject to the provisions of subsection (h)(2), before making new commitments.” after “availability of appropriations.”, and substituted “and Indian tribes” for “Indian tribes, and units of general local government which are entitled to hold-harmless grants pursuant to subsection (h) of this section”. Former subsec. (c), relating to adjustment of amounts for metropolitan cities and urban counties, was struck out.
+    Subsec. (c). [Pub. L. 96–399][/us/pl/96/399], § 111(d), (f), redesignated former subsec. (d) as (c) and struck out in par. (1) “allocated by the Secretary, first, for grants to metropolitan cities, urban counties, and other units of general local government within metropolitan areas to meet their hold-harmless needs as determined under subsections (g) and (h), and second, in accordance with the provisions of paragraph (2)” after “[section 5303(a)(2) of this title][/us/usc/t42/s5303/a/2]”, struck out “(2) Any portion of such amounts which remains after applying the provision of paragraph (1) shall be” before “utilized by the Secretary”, redesignated former par. (3) as (2) and in par. (2) as so redesignated, substituted “paragraph (1)” for “paragraph (2)” wherever appearing, struck out “In determining whether to make such a commitment to a unit of general local government, the Secretary shall give special consideration to those communities presently carrying out comprehensive community development programs which are subject to the provisions of subsection (h)(2), before making new commitments.” after “availability of appropriations.”, and substituted “and Indian tribes” for “Indian tribes, and units of general local government which are entitled to hold-harmless grants pursuant to subsection (h) of this section”. Former subsec. (c), relating to adjustment of amounts for metropolitan cities and urban counties, was struck out.
 
     Subsec. (d). [Pub. L. 96–399][/us/pl/96/399], §§ 111(d), 112, redesignated former subsec. (e) as (d) and inserted provisions relating to preferences for units of general local government in the same metropolitan area. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], (g), redesignated former subsec. (f) as (e) and in par. (1) struck out “allocated by the Secretary—(A) first, for grants to units of general local government outside of metropolitan areas to meet their hold-harmless needs as determined under subsection (h) of this section; and (B) second, any portion of such amount which remains after applying the provisions of subparagraph (A) shall be” after “20 per centum shall be”, redesignated former cls. (1)(B)(i) and (ii) as (1)(A) and (B), respectively, redesignated former subcls. (1)(B)(i)(I) to (III) and (1)(B)(ii)(I) to (III) as (1)(A)(i) to (iii) and (1)(B)(i) to (iii), respectively, substituted “subparagraph (A)” for “clause (i) of subparagraph (B)” and “subparagraph (B)” for “clause (ii) of subparagraph (B)”, substituted “allocated under this paragraph” for “allocated under subparagraph (B)”, substituted “such paragraph” for “such subparagraph” wherever appearing, in par. (2) struck out “In determining whether to make such a commitment to a unit of general local government, the Secretary shall give special consideration to those communities presently carrying out comprehensive community development programs, which are subject to the provisions of subsection (h)(2) of this section, before making new commitments.” after “availability of appropriations.”, substituted “paragraph (1)” for “paragraph (1)(B)” wherever appearing, struck out “units of general local government which are entitled to hold-harmless grants pursuant to subsection (h) of this section and” after “shall be excluded”, and in par. (3) substituted “paragraph (1)” for “paragraph (1)(B)”. Former subsec. (e) was redesignated as (d).
+    Subsec. (e). [Pub. L. 96–399][/us/pl/96/399], § 111(d), (g), redesignated former subsec. (f) as (e) and in par. (1) struck out “allocated by the Secretary—(A) first, for grants to units of general local government outside of metropolitan areas to meet their hold-harmless needs as determined under subsection (h) of this section; and (B) second, any portion of such amount which remains after applying the provisions of subparagraph (A) shall be” after “20 per centum shall be”, redesignated former cls. (1)(B)(i) and (ii) as (1)(A) and (B), respectively, redesignated former subcls. (1)(B)(i)(I) to (III) and (1)(B)(ii)(I) to (III) as (1)(A)(i) to (iii) and (1)(B)(i) to (iii), respectively, substituted “subparagraph (A)” for “clause (i) of subparagraph (B)” and “subparagraph (B)” for “clause (ii) of subparagraph (B)”, substituted “allocated under this paragraph” for “allocated under subparagraph (B)”, substituted “such paragraph” for “such subparagraph” wherever appearing, in par. (2) struck out “In determining whether to make such a commitment to a unit of general local government, the Secretary shall give special consideration to those communities presently carrying out comprehensive community development programs, which are subject to the provisions of subsection (h)(2) of this section, before making new commitments.” after “availability of appropriations.”, substituted “paragraph (1)” for “paragraph (1)(B)” wherever appearing, struck out “units of general local government which are entitled to hold-harmless grants pursuant to subsection (h) of this section and” after “shall be excluded”, and in par. (3) substituted “paragraph (1)” for “paragraph (1)(B)”. Former subsec. (e) was redesignated as (d).
 
-    Subsec. (f). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], redesignated subsec. (k) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 96–399][/us/pl/96/399], § 111(d), redesignated subsec. (k) as (f). Former subsec. (f) redesignated (e).
 
     Subsec. (g). [Pub. L. 96–399][/us/pl/96/399], §§ 102, 111(d), redesignated subsec. (m) as (g) and substituted “any fiscal year” for “fiscal year 1978, fiscal year 1979, or fiscal year 1980”, struck out “and hold-harmless” after “all basic grant” in two places, and substituted “subsection (c)” for “subsection (d)(2)” and “subsection (e)” for “subsection (f)(1)(B)”. Former subsec. (g), relating to hold-harmless amounts for metropolitan cities and urban counties, was struck out.
 
-    Subsec. (h). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], struck out subsec. (h) which related to hold-harmless grants to units of general local government not metropolitan cities or urban counties.
+    Subsec. (h). [Pub. L. 96–399][/us/pl/96/399], § 111(d), struck out subsec. (h) which related to hold-harmless grants to units of general local government not metropolitan cities or urban counties.
 
-    Subsec. (i). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], struck out subsec. (i) which related to percentages excluded from data in computation of hold-harmless grants for units of general local government.
+    Subsec. (i). [Pub. L. 96–399][/us/pl/96/399], § 111(d), struck out subsec. (i) which related to percentages excluded from data in computation of hold-harmless grants for units of general local government.
 
-    Subsec. (j). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], struck out subsec. (j) which related to waiver of eligibility by units of general local government for hold-harmless grants.
+    Subsec. (j). [Pub. L. 96–399][/us/pl/96/399], § 111(d), struck out subsec. (j) which related to waiver of eligibility by units of general local government for hold-harmless grants.
 
-    Subsec. (k). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], redesignated subsec. (k) as (f).
+    Subsec. (k). [Pub. L. 96–399][/us/pl/96/399], § 111(d), redesignated subsec. (k) as (f).
 
-    Subsec. (l). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], struck out subsec. (l) which related to reports to Congress with respect to adequacy and effectiveness of formula for allocation of funds.
+    Subsec. (l). [Pub. L. 96–399][/us/pl/96/399], § 111(d), struck out subsec. (l) which related to reports to Congress with respect to adequacy and effectiveness of formula for allocation of funds.
 
-    Subsec. (m). [Pub. L. 96–399, § 111(d)][/us/pl/96/399/s111/d], redesignated subsec. (m) as (g).
+    Subsec. (m). [Pub. L. 96–399][/us/pl/96/399], § 111(d), redesignated subsec. (m) as (g).
 
-    1979—Subsec. (b)(5). [Pub. L. 96–153, § 103(e)][/us/pl/96/153/s103/e], added par. (5).
+    1979—Subsec. (b)(5). [Pub. L. 96–153][/us/pl/96/153], § 103(e), added par. (5).
 
-    Subsec. (m). [Pub. L. 96–153, § 103(d)][/us/pl/96/153/s103/d], inserted reference to fiscal year 1980.
+    Subsec. (m). [Pub. L. 96–153][/us/pl/96/153], § 103(d), inserted reference to fiscal year 1980.
 
-    1977—Subsec. (a). [Pub. L. 95–128, § 106(a)][/us/pl/95/128/s106/a], substituted in second sentence reference to pars. “(1) or (2)” for pars. “(2) or (3)” of subsec. (b) of this section.
+    1977—Subsec. (a). [Pub. L. 95–128][/us/pl/95/128], § 106(a), substituted in second sentence reference to pars. “(1) or (2)” for pars. “(2) or (3)” of subsec. (b) of this section.
 
-    Subsec. (b)(1). [Pub. L. 95–128, § 106(b)][/us/pl/95/128/s106/b], added par. (1), and struck out former par. (1) provisions stating that “The Secretary shall determine the amount to be allocated to all metropolitan cities which shall be an amount that bears the same ratio to the allocation for all metropolitan areas as the average of the ratios between—
+    Subsec. (b)(1). [Pub. L. 95–128][/us/pl/95/128], § 106(b), added par. (1), and struck out former par. (1) provisions stating that “The Secretary shall determine the amount to be allocated to all metropolitan cities which shall be an amount that bears the same ratio to the allocation for all metropolitan areas as the average of the ratios between—
 
     “(A) the population of all metropolitan cities and the population of all metropolitan areas;
 
@@ -425,7 +425,7 @@
 
     “(C) the extent of housing overcrowding in all metropolitan cities and the extent of housing overcrowding in all metropolitan areas.”, now incorporated in this paragraph.
 
-    Subsec. (b)(2). [Pub. L. 95–128, § 106(b)][/us/pl/95/128/s106/b], added par. (2) and struck out former par. (2) provisions declaring that “From the amount allocated to all metropolitan cities the Secretary shall determine for each metropolitan city a basic grant amount which shall equal an amount that bears the same ratio to the allocation for all metropolitan cities as the average of the ratios between—
+    Subsec. (b)(2). [Pub. L. 95–128][/us/pl/95/128], § 106(b), added par. (2) and struck out former par. (2) provisions declaring that “From the amount allocated to all metropolitan cities the Secretary shall determine for each metropolitan city a basic grant amount which shall equal an amount that bears the same ratio to the allocation for all metropolitan cities as the average of the ratios between—
 
     “(A) the population of that city and the population of all metropolitan cities;
 
@@ -433,7 +433,7 @@
 
     “(C) the extent of housing overcrowding in that city and the extent of housing overcrowding in all metropolitan cities.”, now incorporated in subsec. (b)(1) of this section.
 
-    Subsec. (b)(3). [Pub. L. 95–128, § 106(b)][/us/pl/95/128/s106/b], added par. (3) and struck out former par. (3) provisions for determination of basic grant amount of each urban county, now covered in subsec. (b)(2) of this section and formerly providing that “The Secretary shall determine the basic grant amount of each urban county by—
+    Subsec. (b)(3). [Pub. L. 95–128][/us/pl/95/128], § 106(b), added par. (3) and struck out former par. (3) provisions for determination of basic grant amount of each urban county, now covered in subsec. (b)(2) of this section and formerly providing that “The Secretary shall determine the basic grant amount of each urban county by—
 
     “(A) calculating the total amount that would have been allocated to metropolitan cities and urban counties together under paragraph (1) of this subsection if data pertaining to the population, extent of poverty, and extent of housing overcrowding in all urban counties were included in the numerator of each of the fractions described in such paragraph; and
 
@@ -445,11 +445,11 @@
 
     “(iii) the extent of housing overcrowding in that urban county and the extent of housing overcrowding in all metropolitan cities and urban counties.”
 
-    Subsec. (b)(4), (5). [Pub. L. 95–128, § 106(b)][/us/pl/95/128/s106/b], (c), struck out par. “(4) In determining the average of ratios under paragraphs (1), (2), and (3), the ratio involving the extent of poverty shall be counted twice.”, now incorporated in par. (3), redesignated par. (5) as (4), and substituted “are entitled to” for “receive”.
+    Subsec. (b)(4), (5). [Pub. L. 95–128][/us/pl/95/128], § 106(b), (c), struck out par. “(4) In determining the average of ratios under paragraphs (1), (2), and (3), the ratio involving the extent of poverty shall be counted twice.”, now incorporated in par. (3), redesignated par. (5) as (4), and substituted “are entitled to” for “receive”.
 
-    Subsec. (c). [Pub. L. 95–128, § 106(d)][/us/pl/95/128/s106/d], in first sentence, substituted “With respect to funds approved for distribution to a metropolitan city or urban county under this section during fiscal years 1975, 1976, and 1977” for “During the first three years for which funds are approved for distribution to a metropolitan city or urban county under this section” and inserted “only for such funds approved for distribution in fiscal years 1975, 1976, and 1977” after “adjusted”.
+    Subsec. (c). [Pub. L. 95–128][/us/pl/95/128], § 106(d), in first sentence, substituted “With respect to funds approved for distribution to a metropolitan city or urban county under this section during fiscal years 1975, 1976, and 1977” for “During the first three years for which funds are approved for distribution to a metropolitan city or urban county under this section” and inserted “only for such funds approved for distribution in fiscal years 1975, 1976, and 1977” after “adjusted”.
 
-    Subsec. (d). [Pub. L. 95–128, § 106(e)][/us/pl/95/128/s106/e], incorporated existing introductory text and provisions of former par. (1) in provisions now designated par. (1); added par. (2), incorporating provisions of former par. (2) respecting additional allocations by the Secretary “for grants to units of general local government (other than metropolitan cities and urban counties) and States for use in metropolitan areas, allocating for each such metropolitan area an amount which bears the same ratio to the allocation for all metropolitan areas available under this paragraph as the average of the ratios between—
+    Subsec. (d). [Pub. L. 95–128][/us/pl/95/128], § 106(e), incorporated existing introductory text and provisions of former par. (1) in provisions now designated par. (1); added par. (2), incorporating provisions of former par. (2) respecting additional allocations by the Secretary “for grants to units of general local government (other than metropolitan cities and urban counties) and States for use in metropolitan areas, allocating for each such metropolitan area an amount which bears the same ratio to the allocation for all metropolitan areas available under this paragraph as the average of the ratios between—
 
     “(A) the population of that metropolitan area and the population of all metropolitan areas,
 
@@ -457,27 +457,27 @@
 
     “(C) the extent of housing overcrowding in that metropolitan area and the extent of housing overcrowding in all metropolitan areas.” and declaring that “In determining the average of ratios under paragraph (2), the ratio involving the extent of poverty shall be counted twice”; struck out end clause providing that “in computing amounts under such paragraph there shall be excluded any metropolitan cities, urban counties, and units of general local government which receive hold–harmless grants pursuant to subsection (h) of this section”, now constituting last sentence of par. (3); and added par. (3) provisions.
 
-    Subsec. (e). [Pub. L. 95–128, § 106(f)][/us/pl/95/128/s106/f], in first sentence, substituted “within a reasonable time” for “during such program period” and struck out “during the same period” after “shall be reallocated”.
+    Subsec. (e). [Pub. L. 95–128][/us/pl/95/128], § 106(f), in first sentence, substituted “within a reasonable time” for “during such program period” and struck out “during the same period” after “shall be reallocated”.
 
-    Subsec. (f)(1). [Pub. L. 95–128, § 106(g)(1)][/us/pl/95/128/s106/g/1], inserted in subpar. (B) “any portion of such amount which remains after applying the provisions of subparagraph (A) shall be utilized by the Secretary” after “second,” and “the greater of” before “an amount”; reenacted existing provisions in cl. (i); added cl. (ii); inserted provision respecting determination of average of ratios under cl. (ii) of subpar. (B) and provision for pro rata reduction, to compensate for the discrepancy between the total of the amounts to be allocated under subpar. (B) and the total of the amounts available under such subparagraph, of each amount allocated to the nonmetropolitan areas in each State under such subparagraph; and struck out end clause providing that in computing amounts under such subpar. (B) there shall be excluded units of general local government which receive hold–harmless grants pursuant to subsec. (h) of this section, now constituting end sentence of subsec. (f)(2) of this section.
+    Subsec. (f)(1). [Pub. L. 95–128][/us/pl/95/128], § 106(g)(1), inserted in subpar. (B) “any portion of such amount which remains after applying the provisions of subparagraph (A) shall be utilized by the Secretary” after “second,” and “the greater of” before “an amount”; reenacted existing provisions in cl. (i); added cl. (ii); inserted provision respecting determination of average of ratios under cl. (ii) of subpar. (B) and provision for pro rata reduction, to compensate for the discrepancy between the total of the amounts to be allocated under subpar. (B) and the total of the amounts available under such subparagraph, of each amount allocated to the nonmetropolitan areas in each State under such subparagraph; and struck out end clause providing that in computing amounts under such subpar. (B) there shall be excluded units of general local government which receive hold–harmless grants pursuant to subsec. (h) of this section, now constituting end sentence of subsec. (f)(2) of this section.
 
-    Subsec. (f)(2). [Pub. L. 95–128, § 106(g)(1)][/us/pl/95/128/s106/g/1], (2), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (f)(2). [Pub. L. 95–128][/us/pl/95/128], § 106(g)(1), (2), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (f)(3). [Pub. L. 95–128, § 106(g)(2)][/us/pl/95/128/s106/g/2]–(4), redesignated former par. (2) as (3), substituted “within a reasonable time” for “during such period”, and struck out “during the same period” after “as soon as practicable”.
+    Subsec. (f)(3). [Pub. L. 95–128][/us/pl/95/128], § 106(g)(2)–(4), redesignated former par. (2) as (3), substituted “within a reasonable time” for “during such period”, and struck out “during the same period” after “as soon as practicable”.
 
-    Subsec. (g)(2). [Pub. L. 95–128, § 106(h)][/us/pl/95/128/s106/h], substituted reference to “subsection (b)(1)(A) or (B), or (2)(A) or (B) of this section” for “subsection (b)(2) or (3) of this section” and inserted in cls. (i) and (ii) “, as computed under subsection (b)(1)(A) or (B), or (2)(A) or (B) of this section,” before “shall”.
+    Subsec. (g)(2). [Pub. L. 95–128][/us/pl/95/128], § 106(h), substituted reference to “subsection (b)(1)(A) or (B), or (2)(A) or (B) of this section” for “subsection (b)(2) or (3) of this section” and inserted in cls. (i) and (ii) “, as computed under subsection (b)(1)(A) or (B), or (2)(A) or (B) of this section,” before “shall”.
 
-    Subsec. (i). [Pub. L. 95–128, § 106(i)][/us/pl/95/128/s106/i], struck out “population, poverty, and housing overcrowding” before “data” and substituted “are entitled to” for “receive” and reference to subsec. (b)(4) for (b)(5) of this section.
+    Subsec. (i). [Pub. L. 95–128][/us/pl/95/128], § 106(i), struck out “population, poverty, and housing overcrowding” before “data” and substituted “are entitled to” for “receive” and reference to subsec. (b)(4) for (b)(5) of this section.
 
-    Subsec. (j). [Pub. L. 95–128, § 106(j)][/us/pl/95/128/s106/j], substituted “by such date as the Secretary shall determine” for “not later than thirty days prior to the beginning of any program period” and reference to subsec. (b)(4) for (b)(5) of this section and inserted “for a hold–harmless grant for a single year” after “eligibility”.
+    Subsec. (j). [Pub. L. 95–128][/us/pl/95/128], § 106(j), substituted “by such date as the Secretary shall determine” for “not later than thirty days prior to the beginning of any program period” and reference to subsec. (b)(4) for (b)(5) of this section and inserted “for a hold–harmless grant for a single year” after “eligibility”.
 
-    Subsec. (l). [Pub. L. 95–128, § 106(k)][/us/pl/95/128/s106/k], substituted provisions for submission of a report to Congress not later than Sept. 30, 1978, respecting adequacy of funds allocation formula and defining “impaction” for prior requirement of a report to Congress not later than Mar. 31, 1977, setting forth recommendations to further purposes and policies of this chapter, for modifying or expanding the provisions of this section relating to the method of funding and the allocation of funds and the determination of basic grant entitlement, and for application of the provisions in the further distribution of funds under this chapter and the conduct of a study by the Secretary respecting manner of distributing funds under this chapter in accordance with community development needs, objectives, and capacities, measured to the maximum extent feasible by objective standards.
+    Subsec. (l). [Pub. L. 95–128][/us/pl/95/128], § 106(k), substituted provisions for submission of a report to Congress not later than Sept. 30, 1978, respecting adequacy of funds allocation formula and defining “impaction” for prior requirement of a report to Congress not later than Mar. 31, 1977, setting forth recommendations to further purposes and policies of this chapter, for modifying or expanding the provisions of this section relating to the method of funding and the allocation of funds and the determination of basic grant entitlement, and for application of the provisions in the further distribution of funds under this chapter and the conduct of a study by the Secretary respecting manner of distributing funds under this chapter in accordance with community development needs, objectives, and capacities, measured to the maximum extent feasible by objective standards.
 
-    Subsec. (m). [Pub. L. 95–128, § 106][/us/pl/95/128/s106](l), added subsec. (m).
+    Subsec. (m). [Pub. L. 95–128][/us/pl/95/128], § 106(l), added subsec. (m).
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–625, title IX, § 913(f)][/us/pl/101/625/s913/f], Nov. 28, 1990, [104 Stat. 4393][/us/stat/104/4393], provided that:
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 913(f), Nov. 28, 1990, [104 Stat. 4393][/us/stat/104/4393], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -489,7 +489,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Section 702(e) of Pub. L. 101–235][/us/pl/101/235/s702/e], as amended by [Pub. L. 101–625, title IX, § 913(e)][/us/pl/101/625/s913/e], Nov. 28, 1990, [104 Stat. 4393][/us/stat/104/4393], provided that: 
+[Section 702(e) of Pub. L. 101–235][/us/pl/101/235/s702/e], as amended by [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 913(e), Nov. 28, 1990, [104 Stat. 4393][/us/stat/104/4393], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 5302 of this title][/us/usc/t42/s5302]\] shall apply to amounts approved in any appropriation Act under section 103 of the Housing and Community Development Act of 1974 \[[section 5303 of this title][/us/usc/t42/s5303]\] for fiscal year 1990 and each fiscal year thereafter.”
 
@@ -507,13 +507,13 @@
 
  __Regulations__ 
 
-[Pub. L. 101–235, title VII, § 702(d)][/us/pl/101/235/s702/d], Dec. 15, 1989, [103 Stat. 2057][/us/stat/103/2057], provided that: 
+[Pub. L. 101–235, title VII][/us/pl/101/235/tVII], § 702(d), Dec. 15, 1989, [103 Stat. 2057][/us/stat/103/2057], provided that: 
 
 > “The Secretary shall issue any regulations necessary to carry out this section and the amendments made by this section \[amending this section and [section 5302 of this title][/us/usc/t42/s5302] and enacting provisions set out as notes above\] in a manner and by such time to provide for the effectiveness of such regulations with respect to amounts appropriated for fiscal year 1991 under section 103 of the Housing and Community Development Act of 1974 \[[section 5303 of this title][/us/usc/t42/s5303]\].”
 
  __Transitional Provisions__ 
 
-[Pub. L. 97–35, title III, § 307][/us/pl/97/35/s307], Aug. 13, 1981, [95 Stat. 392][/us/stat/95/392], provided that:
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 307, Aug. 13, 1981, [95 Stat. 392][/us/stat/95/392], provided that:
 
 >     “(a)
 
@@ -525,15 +525,15 @@
 
 >         “(3) funds authorized for use under section 106(c) or (e) of such Act \[subsec. (c) or (e) of this section\] before October 1, 1981, shall be available for use as provided by section 106(d)(2)(A) of such Act as amended by this Act \[subsec. (d)(2)(A) of this section\].
 
->     “(b) Any grant or loan which, prior to the effective date of any provision of this part \[see Effective Date note set out under [section 3701 of Title 12][/us/usc/t12/s3701], Banks and Banking\], was obligated and governed by any authority amended by any provision of this part \[[Pub. L. 97–35, title III][/us/pl/97/35], §§ 301–315, Aug. 13, 1981, [95 Stat. 384–398][/us/stat/95/384-398]\] shall continue to be governed by the provisions of such authority as they existed immediately before such effective date.”
+>     “(b) Any grant or loan which, prior to the effective date of any provision of this part \[see Effective Date note set out under [section 3701 of Title 12][/us/usc/t12/s3701], Banks and Banking\], was obligated and governed by any authority amended by any provision of this part \[[Pub. L. 97–35, title III][/us/pl/97/35/tIII], §§ 301–315, Aug. 13, 1981, [95 Stat. 384–398][/us/stat/95/384-398]\] shall continue to be governed by the provisions of such authority as they existed immediately before such effective date.”
 
  __CDBG Assistance for United States-Mexico Border Region__ 
 
-[Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–272; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(e) \[title II\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–272; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part: 
 
 > “That section 916 of the Cranston-Gonzalez National Affordable Housing Act \[set out below\] shall apply with respect to fiscal year 1996, notwithstanding section 916(f) of that Act.”
 
-[Pub. L. 101–625, title IX, § 916][/us/pl/101/625/s916], Nov. 28, 1990, [104 Stat. 4396][/us/stat/104/4396], as amended by [Pub. L. 102–550, title VIII, § 810][/us/pl/102/550/s810], Oct. 28, 1992, [106 Stat. 3850][/us/stat/106/3850]; [Pub. L. 104–204, title II][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2887][/us/stat/110/2887], provided that:
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 916, Nov. 28, 1990, [104 Stat. 4396][/us/stat/104/4396], as amended by [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], § 810, Oct. 28, 1992, [106 Stat. 3850][/us/stat/106/3850]; [Pub. L. 104–204, title II][/us/pl/104/204/tII], Sept. 26, 1996, [110 Stat. 2887][/us/stat/110/2887], provided that:
 
 >     “(a)  __Set-Aside for Colonias__  __.—__ 
 
@@ -605,7 +605,7 @@
 
  __Office of Indian and Alaska Native Programs__ 
 
-    [Pub. L. 101–235, title VII, § 702(c)][/us/pl/101/235/s702/c], Dec. 15, 1989, [103 Stat. 2057][/us/stat/103/2057], which required Secretary of Housing and Urban Development to administer grants to Indian tribes under this chapter through the Office of Indian and Alaska Native Programs of the Department of Housing and Urban Development, was repealed by [Pub. L. 101–625, title IX, § 913(d)][/us/pl/101/625/s913/d], Nov. 28, 1990, [104 Stat. 4393][/us/stat/104/4393].
+    [Pub. L. 101–235, title VII][/us/pl/101/235/tVII], § 702(c), Dec. 15, 1989, [103 Stat. 2057][/us/stat/103/2057], which required Secretary of Housing and Urban Development to administer grants to Indian tribes under this chapter through the Office of Indian and Alaska Native Programs of the Department of Housing and Urban Development, was repealed by [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 913(d), Nov. 28, 1990, [104 Stat. 4393][/us/stat/104/4393].
 
 ----------
 
@@ -638,33 +638,33 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s5304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5304%2Fa%2F2
 [/us/usc/t42/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308
-[/us/pl/93/383/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs106
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F642
-[/us/pl/95/128/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106
+[/us/pl/95/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtI
 [/us/stat/91/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1117
-[/us/pl/96/153/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs103%2Fd
+[/us/pl/96/153/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtI
 [/us/stat/93/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1102
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtI
 [/us/stat/94/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1615
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F388
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1164
-[/us/pl/98/479/s101/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F10
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2219
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1930
-[/us/pl/100/628/s1082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1082%2Fb
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3277
-[/us/pl/101/235/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fb
+[/us/pl/101/235/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtVII
 [/us/stat/103/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2056
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4392
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3845
-[/us/pl/108/186/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fd
+[/us/pl/108/186/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtV
 [/us/stat/117/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2697
-[/us/pl/108/199/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs423
+[/us/pl/108/199/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIV
 [/us/stat/118/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F416
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
@@ -677,7 +677,7 @@
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t12/s1706e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1706e
-[/us/pl/101/625/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs289%2Fb
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4128
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -687,110 +687,110 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F384
-[/us/pl/108/199/s423/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs423%2F1
-[/us/pl/108/199/s423/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs423%2F3
-[/us/pl/108/199/s423/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs423%2F2
-[/us/pl/108/199/s423/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs423%2F4
-[/us/pl/108/199/s423/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs423%2F3
-[/us/pl/108/186/s501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fd%2F1
-[/us/pl/108/186/s501/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fd%2F5
-[/us/pl/108/186/s501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fd%2F2
-[/us/pl/108/186/s501/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fd%2F4
-[/us/pl/108/186/s501/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fd%2F3
-[/us/pl/108/186/s501/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fd%2F4
-[/us/pl/108/186/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs501%2Fe
-[/us/pl/102/550/s1204/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1204%2Fi
-[/us/pl/102/550/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs802%2Fb
-[/us/pl/102/550/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs811
-[/us/pl/102/550/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs808
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/108/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
-[/us/pl/101/625/s913/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fb%2F1%2FB
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
 [/us/usc/t42/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5307
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
-[/us/pl/101/625/s913/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fb%2F2
-[/us/pl/101/625/s913/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fb%2F1%2FA
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
-[/us/pl/101/625/s933/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs933%2F1
-[/us/pl/101/625/s933/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs933%2F2
-[/us/pl/101/625/s913/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fb%2F3
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5307
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
-[/us/pl/101/235/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fb%2F1
-[/us/pl/101/235/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fb%2F2
-[/us/pl/101/235/s702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fb%2F3
-[/us/pl/101/235/s702/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fb%2F4
-[/us/pl/101/235/s702/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fb%2F5
-[/us/pl/100/628/s1082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1082%2Fb
-[/us/pl/100/242/s512/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs512%2F1
-[/us/pl/100/242/s512/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs512%2F2
-[/us/pl/100/242/s517/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs517%2Fb%2F1
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/101/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/usc/t12/s1706e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1706e
-[/us/pl/100/242/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs513
-[/us/pl/100/628/s1082/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1082%2Fc
-[/us/pl/100/628/s1082/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1082%2Fc%2F2
-[/us/pl/98/479/s101/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F10%2FA
-[/us/pl/98/479/s101/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F10%2FB
-[/us/pl/98/479/s101/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F11%2FA
-[/us/pl/98/479/s101/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F11%2FB
-[/us/pl/98/479/s101/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F12
-[/us/pl/98/181/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fa
-[/us/pl/98/181/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fb
-[/us/pl/98/181/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fc
-[/us/pl/98/181/s106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fd%2F1
-[/us/pl/98/181/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fd%2F2
-[/us/pl/98/181/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fe
-[/us/pl/98/181/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Ff
-[/us/pl/98/181/s106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fg
-[/us/pl/98/181/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fh
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t42/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5311
-[/us/pl/98/181/s106/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fi
-[/us/pl/98/181/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs106%2Fj
-[/us/pl/97/35/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs304%2Fa
-[/us/pl/97/35/s309/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs309%2Fh
-[/us/pl/97/35/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs304%2Fb
-[/us/pl/97/35/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs304%2Fb
-[/us/pl/97/35/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs304%2Fb
-[/us/pl/97/35/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs304%2Fb
-[/us/usc/t42/s5303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303%2Fa%2F2
-[/us/pl/96/399/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fe
-[/us/pl/96/399/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs103
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s5303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303%2Fa%2F2
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
-[/us/pl/96/399/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs111%2Fd
-[/us/pl/96/153/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs103%2Fe
-[/us/pl/96/153/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs103%2Fd
-[/us/pl/95/128/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fa
-[/us/pl/95/128/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fb
-[/us/pl/95/128/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fb
-[/us/pl/95/128/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fb
-[/us/pl/95/128/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fb
-[/us/pl/95/128/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fd
-[/us/pl/95/128/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fe
-[/us/pl/95/128/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Ff
-[/us/pl/95/128/s106/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fg%2F1
-[/us/pl/95/128/s106/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fg%2F1
-[/us/pl/95/128/s106/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fg%2F2
-[/us/pl/95/128/s106/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fh
-[/us/pl/95/128/s106/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fi
-[/us/pl/95/128/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fj
-[/us/pl/95/128/s106/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106%2Fk
-[/us/pl/95/128/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs106
-[/us/pl/101/625/s913/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Ff
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/usc/t42/s5303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303%2Fa%2F2
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4393
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
 [/us/pl/101/235/s702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fe
-[/us/pl/101/625/s913/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fe
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4393
 [/us/usc/t42/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
@@ -803,35 +803,35 @@
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/95/128/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs114
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/101/235/s702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fd
+[/us/pl/101/235/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtVII
 [/us/stat/103/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2057
 [/us/usc/t42/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
-[/us/pl/97/35/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs307
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F392
 [/us/usc/t42/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5307
 [/us/usc/t42/s5307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5307%2Fa
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/384-398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F384-398
-[/us/pl/104/134/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fe
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-257
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/101/625/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs916
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4396
-[/us/pl/102/550/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs810
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3850
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtII
 [/us/stat/110/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2887
 [/us/usc/t42/s5306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306%2Fd
 [/us/usc/t42/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5305
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t42/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa
-[/us/pl/101/235/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs702%2Fc
+[/us/pl/101/235/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtVII
 [/us/stat/103/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2057
-[/us/pl/101/625/s913/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fd
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4393
 
 

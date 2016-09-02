@@ -85,7 +85,7 @@
 
     (c) Based upon the comprehensive plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[[42 U.S.C. 13522][/us/usc/t42/s13522]\], shall develop and transmit to the Congress, on or before September 1, 1978, a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 1 of this title.
 
-([Pub. L. 93–577, § 6][/us/pl/93/577/s6], Dec. 31, 1974, [88 Stat. 1881][/us/stat/88/1881]; [Pub. L. 95–238, title II, § 206(a)][/us/pl/95/238/s206/a], Feb. 25, 1978, [92 Stat. 61][/us/stat/92/61]; [Pub. L. 102–486, title XXIII, § 2303(a)][/us/pl/102/486/s2303/a], Oct. 24, 1992, [106 Stat. 3092][/us/stat/106/3092]; [Pub. L. 109–58, title X, § 1009(b)(4)][/us/pl/109/58/s1009/b/4], Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
+([Pub. L. 93–577][/us/pl/93/577], § 6, Dec. 31, 1974, [88 Stat. 1881][/us/stat/88/1881]; [Pub. L. 95–238, title II][/us/pl/95/238/tII], § 206(a), Feb. 25, 1978, [92 Stat. 61][/us/stat/92/61]; [Pub. L. 102–486, title XXIII][/us/pl/102/486/tXXIII], § 2303(a), Oct. 24, 1992, [106 Stat. 3092][/us/stat/106/3092]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(4), Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
 
  __References in Text__ 
 
@@ -109,27 +109,27 @@
 
     2005—Subsec. (b)(3). [Pub. L. 109–58][/us/pl/109/58] substituted “Secretary” for “Administrator” in introductory provisions and subpars. (D) and (E) and inserted “Demonstration” after “Cooling” in subpar. (I) and “Energy” after “Solar” in subpar. (L).
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 2303(a)(1)(A)][/us/pl/102/486/s2303/a/1/A], substituted “the Department of Energy Organization Act ([42 U.S.C. 7101][/us/usc/t42/s7101] et seq.), and titles XX through XXIII of the Energy Policy Act of 1992, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “the Administrator”.
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(1)(A), substituted “the Department of Energy Organization Act ([42 U.S.C. 7101][/us/usc/t42/s7101] et seq.), and titles XX through XXIII of the Energy Policy Act of 1992, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “the Administrator”.
 
-    Subsec. (a)(1). [Pub. L. 102–486, § 2303(a)(1)(B)][/us/pl/102/486/s2303/a/1/B], substituted “(the period up to 5 years after submission of the plan or its annual revision)” for “(to the early 1980’s)”.
+    Subsec. (a)(1). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(1)(B), substituted “(the period up to 5 years after submission of the plan or its annual revision)” for “(to the early 1980’s)”.
 
-    Subsec. (a)(2). [Pub. L. 102–486, § 2303(a)(1)(C)][/us/pl/102/486/s2303/a/1/C], substituted “(the period from 5 years to 10 years after submission of the plan or its annual revision)” for “(the early 1980’s to 2000)”.
+    Subsec. (a)(2). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(1)(C), substituted “(the period from 5 years to 10 years after submission of the plan or its annual revision)” for “(the early 1980’s to 2000)”.
 
-    Subsec. (a)(3). [Pub. L. 102–486, § 2303(a)(1)(D)][/us/pl/102/486/s2303/a/1/D], substituted “(the period beyond 10 years after submission of the plan or its annual revision)” for “(beyond 2000)”.
+    Subsec. (a)(3). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(1)(D), substituted “(the period beyond 10 years after submission of the plan or its annual revision)” for “(beyond 2000)”.
 
-    Subsec. (b)(1). [Pub. L. 102–486, § 2303(a)(2)(B)][/us/pl/102/486/s2303/a/2/B], inserted at end “Such program shall be updated and transmitted to the Congress annually as part of the report required under [section 5914 of this title][/us/usc/t42/s5914].”
+    Subsec. (b)(1). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(2)(B), inserted at end “Such program shall be updated and transmitted to the Congress annually as part of the report required under [section 5914 of this title][/us/usc/t42/s5914].”
 
-    [Pub. L. 102–486, § 2303(a)(2)(A)][/us/pl/102/486/s2303/a/2/A], substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
+    [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(2)(A), substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
 
-    Subsec. (b)(2). [Pub. L. 102–486, § 2303(a)(2)(C)][/us/pl/102/486/s2303/a/2/C], substituted “, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section” for “(to the early 1980’s), middle-term (the early 1980’s to 2000), and long-term (beyond 2000) time intervals”.
+    Subsec. (b)(2). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(2)(C), substituted “, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section” for “(to the early 1980’s), middle-term (the early 1980’s to 2000), and long-term (beyond 2000) time intervals”.
 
-    [Pub. L. 102–486, § 2303(a)(2)(A)][/us/pl/102/486/s2303/a/2/A], substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
+    [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(2)(A), substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
 
-    Subsec. (b)(3). [Pub. L. 102–486, § 2303(a)(2)(D)][/us/pl/102/486/s2303/a/2/D]–(F), added subpars. (R) and (S).
+    Subsec. (b)(3). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(2)(D)–(F), added subpars. (R) and (S).
 
-    Subsec. (c). [Pub. L. 102–486, § 2303(a)(3)(B)][/us/pl/102/486/s2303/a/3/B], inserted at end “Such program shall be updated and transmitted to the Congress annually as part of the report required under [section 5914 of this title][/us/usc/t42/s5914].”
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(3)(B), inserted at end “Such program shall be updated and transmitted to the Congress annually as part of the report required under [section 5914 of this title][/us/usc/t42/s5914].”
 
-    [Pub. L. 102–486, § 2303(a)(3)(A)][/us/pl/102/486/s2303/a/3/A], substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
+    [Pub. L. 102–486][/us/pl/102/486], § 2303(a)(3)(A), substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
 
     1978—Subsec. (c). [Pub. L. 95–238][/us/pl/95/238] added subsec. (c).
 
@@ -160,13 +160,13 @@
 [/us/usc/t42/s12001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12001
 [/us/usc/t42/s13401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13401
 [/us/usc/t42/s13522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13522
-[/us/pl/93/577/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs6
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1881
-[/us/pl/95/238/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs206%2Fa
+[/us/pl/95/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtII
 [/us/stat/92/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F61
-[/us/pl/102/486/s2303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa
+[/us/pl/102/486/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIII
 [/us/stat/106/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3092
-[/us/pl/109/58/s1009/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F4
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F935
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
@@ -191,20 +191,20 @@
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859
 [/us/usc/t42/s12001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12001
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/102/486/s2303/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F1%2FA
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
-[/us/pl/102/486/s2303/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F1%2FB
-[/us/pl/102/486/s2303/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F1%2FC
-[/us/pl/102/486/s2303/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F1%2FD
-[/us/pl/102/486/s2303/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F2%2FB
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s5914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5914
-[/us/pl/102/486/s2303/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F2%2FA
-[/us/pl/102/486/s2303/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F2%2FC
-[/us/pl/102/486/s2303/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F2%2FA
-[/us/pl/102/486/s2303/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F2%2FD
-[/us/pl/102/486/s2303/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F3%2FB
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s5914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5914
-[/us/pl/102/486/s2303/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2303%2Fa%2F3%2FA
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238

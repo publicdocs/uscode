@@ -37,7 +37,7 @@
 
         With respect to the national study of women being conducted by the Secretary and known as the Women’s Health Initiative, the Secretary shall ensure that such study is coordinated with the component of the study required in subsection (a) of this section that concerns adolescent females, including coordination in the design of the 2 studies.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452D, as added [Pub. L. 103–43, title X, § 1031][/us/pl/103/43/s1031], June 10, 1993, [107 Stat. 167][/us/stat/107/167].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452D, as added [Pub. L. 103–43, title X][/us/pl/103/43/tX], § 1031, June 10, 1993, [107 Stat. 167][/us/stat/107/167].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1031
+[/us/pl/103/43/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtX
 [/us/stat/107/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F167
 
 

@@ -147,35 +147,35 @@
 
             There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2007 through 2010.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338I, formerly § 338H, as added [Pub. L. 100–177, title II, § 203][/us/pl/100/177/s203], Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999]; renumbered § 338I and amended [Pub. L. 101–597, title II, § 204][/us/pl/101/597/s204], title III, § 301, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027], 3029, 3035; [Pub. L. 105–392, title IV, § 408][/us/pl/105/392/s408], Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 107–251, title III, § 315][/us/pl/107/251/s315], Oct. 26, 2002, [116 Stat. 1653][/us/stat/116/1653]; [Pub. L. 109–417, title II, § 203(b)][/us/pl/109/417/s203/b], Dec. 19, 2006, [120 Stat. 2849][/us/stat/120/2849]; [Pub. L. 110–355, § 3(e)][/us/pl/110/355/s3/e], Oct. 8, 2008, [122 Stat. 3994][/us/stat/122/3994].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338I, formerly § 338H, as added [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 203, Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999]; renumbered § 338I and amended [Pub. L. 101–597, title II][/us/pl/101/597/tII], § 204, title III, § 301, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027], 3029, 3035; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 408, Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 315, Oct. 26, 2002, [116 Stat. 1653][/us/stat/116/1653]; [Pub. L. 109–417, title II][/us/pl/109/417/tII], § 203(b), Dec. 19, 2006, [120 Stat. 2849][/us/stat/120/2849]; [Pub. L. 110–355][/us/pl/110/355], § 3(e), Oct. 8, 2008, [122 Stat. 3994][/us/stat/122/3994].)
 
  __References in Text__ 
 
-    [Section 254c of this title][/us/usc/t42/s254c], referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of this part by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+    [Section 254c of this title][/us/usc/t42/s254c], referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of this part by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
  __Prior Provisions__ 
 
-    A prior section 338I of act July 1, 1944, was classified to [section 254r of this title][/us/usc/t42/s254r] prior to repeal by [Pub. L. 100–713, title I, § 104(b)(1)][/us/pl/100/713/s104/b/1], Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787].
+    A prior section 338I of act July 1, 1944, was classified to [section 254r of this title][/us/usc/t42/s254r] prior to repeal by [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 104(b)(1), Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787].
 
  __Amendments__ 
 
-    2008—Subsec. (h). [Pub. L. 110–355, § 3(e)(1)][/us/pl/110/355/s3/e/1], substituted “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands” for “several States”.
+    2008—Subsec. (h). [Pub. L. 110–355][/us/pl/110/355], § 3(e)(1), substituted “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands” for “several States”.
 
-    Subsec. (i)(1). [Pub. L. 110–355, § 3(e)(2)][/us/pl/110/355/s3/e/2], substituted “2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.” for “2002 and such sums as may be necessary for each of fiscal years 2003 through 2006.”
+    Subsec. (i)(1). [Pub. L. 110–355][/us/pl/110/355], § 3(e)(2), substituted “2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.” for “2002 and such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
     2006—Subsec. (j). [Pub. L. 109–417][/us/pl/109/417] added subsec. (j).
 
-    2002—Subsec. (a)(1). [Pub. L. 107–251, § 315(1)][/us/pl/107/251/s315/1], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
+    2002—Subsec. (a)(1). [Pub. L. 107–251][/us/pl/107/251], § 315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
 
-    Subsec. (e)(1). [Pub. L. 107–251, § 315(2)][/us/pl/107/251/s315/2], added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254l–1 of this title provide regarding the Loan Repayment Program under such section; and”.
+    Subsec. (e)(1). [Pub. L. 107–251][/us/pl/107/251], § 315(2), added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254l–1 of this title provide regarding the Loan Repayment Program under such section; and”.
 
-    Subsec. (i)(1). [Pub. L. 107–251, § 315(3)][/us/pl/107/251/s315/3], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
+    Subsec. (i)(1). [Pub. L. 107–251][/us/pl/107/251], § 315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
 
     1998—Subsec. (i)(1). [Pub. L. 105–392][/us/pl/105/392] inserted “, and such sums as may be necessary for each of the fiscal years 1998 through 2002” before period at end.
 
-    1990—[Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a)(1), (2) and (c)(1), (3)(B)(ii).
+    1990—[Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a)(1), (2) and (c)(1), (3)(B)(ii).
 
-    [Pub. L. 101–597, § 301][/us/pl/101/597/s301], amended section generally, substituting present provisions for provisions which related to: in subsec. (a), grants; in subsec. (b), applications; in subsec. (c), Federal share; and in subsec. (d), authorization of appropriations.
+    [Pub. L. 101–597][/us/pl/101/597], § 301, amended section generally, substituting present provisions for provisions which related to: in subsec. (a), grants; in subsec. (b), applications; in subsec. (c), Federal share; and in subsec. (d), authorization of appropriations.
 
 ----------
 
@@ -190,33 +190,33 @@
 [/us/usc/t42/s254r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254r
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/177/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs203
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F999
-[/us/pl/101/597/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs204
+[/us/pl/101/597/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtII
 [/us/stat/104/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3027
-[/us/pl/105/392/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs408
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3589
-[/us/pl/107/251/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs315
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1653
-[/us/pl/109/417/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs203%2Fb
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2849
-[/us/pl/110/355/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355%2Fs3%2Fe
+[/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/stat/122/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3994
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/usc/t42/s254r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254r
-[/us/pl/100/713/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs104%2Fb%2F1
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4787
-[/us/pl/110/355/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355%2Fs3%2Fe%2F1
-[/us/pl/110/355/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355%2Fs3%2Fe%2F2
+[/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
+[/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
-[/us/pl/107/251/s315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs315%2F1
-[/us/pl/107/251/s315/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs315%2F2
-[/us/pl/107/251/s315/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs315%2F3
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs301
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
 
 

@@ -27,7 +27,7 @@
 
         Appropriations pursuant to the authorizations in this chapter shall be made in accordance with the provisions of the Congressional Budget and Impoundment Control Act of 1974, which prohibits the consideration of any bill that would cause the deficit to exceed the levels established by the Balanced Budget and Emergency Deficit Control Act of 1985, such that it shall not increase the deficit of the Federal Government for fiscal year 1987.
 
-([Pub. L. 100–77, title I, § 104][/us/pl/100/77/s104], July 22, 1987, [101 Stat. 485][/us/stat/101/485].)
+([Pub. L. 100–77, title I][/us/pl/100/77/tI], § 104, July 22, 1987, [101 Stat. 485][/us/stat/101/485].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Budget Compliance__ 
 
-[Pub. L. 100–628, title I, § 101][/us/pl/100/628/s101], Nov. 7, 1988, [102 Stat. 3227][/us/stat/102/3227], provided that:
+[Pub. L. 100–628, title I][/us/pl/100/628/tI], § 101, Nov. 7, 1988, [102 Stat. 3227][/us/stat/102/3227], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs104
+[/us/pl/100/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtI
 [/us/stat/101/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F485
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
@@ -72,7 +72,7 @@
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/100/628/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs101
+[/us/pl/100/628/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtI
 [/us/stat/102/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3227
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/usc/t2/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs622

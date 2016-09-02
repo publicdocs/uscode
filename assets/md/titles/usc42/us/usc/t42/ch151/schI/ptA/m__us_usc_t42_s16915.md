@@ -55,7 +55,7 @@
 
             (B) a tier III sex offender adjudicated delinquent, the reduction is from life to that period for which the clean record under paragraph (2) is maintained.
 
-([Pub. L. 109–248, title I, § 115][/us/pl/109/248/s115], July 27, 2006, [120 Stat. 595][/us/stat/120/595].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 115, July 27, 2006, [120 Stat. 595][/us/stat/120/595].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs115
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F595
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

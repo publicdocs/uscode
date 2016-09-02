@@ -17,7 +17,7 @@
 
     To the extent necessary or appropriate to perform any function transferred by this chapter, the Secretary or any officer or employee of the Department may exercise, in carrying out the function so transferred, any authority or part thereof available by law, including appropriation Acts, to the official or agency from which such function was transferred.
 
-([Pub. L. 95–91, title VI, § 641][/us/pl/95/91/s641], Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 641, Aug. 4, 1977, [91 Stat. 598][/us/stat/91/598].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Improvement and Streamlining of the Missions and Operations of the Department of Energy and National Nuclear Security Administration__ 
 
-[Pub. L. 112–239, div. C, title XXXI, § 3120][/us/pl/112/239/s3120], Jan. 2, 2013, [126 Stat. 2174][/us/stat/126/2174], provided that:
+[Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3120, Jan. 2, 2013, [126 Stat. 2174][/us/stat/126/2174], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -63,7 +63,7 @@
 
  __Department of Energy Security Management Board__ 
 
-    [Pub. L. 105–85, div. C, title XXXI, § 3161][/us/pl/105/85/s3161], Nov. 18, 1997, [111 Stat. 2048][/us/stat/111/2048], required the Secretary of Energy to establish the Department of Energy Security Management Board, and provided for its duties which related to the security functions of the Department, and its membership, appointments, personnel, compensation, expenses, and termination on Oct. 31, 2000, prior to repeal by [Pub. L. 106–65, div. C, title XXXI, § 3142(h)(1)][/us/pl/106/65/s3142/h/1], Oct. 5, 1999, [113 Stat. 933][/us/stat/113/933].
+    [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3161, Nov. 18, 1997, [111 Stat. 2048][/us/stat/111/2048], required the Secretary of Energy to establish the Department of Energy Security Management Board, and provided for its duties which related to the security functions of the Department, and its membership, appointments, personnel, compensation, expenses, and termination on Oct. 31, 2000, prior to repeal by [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3142(h)(1), Oct. 5, 1999, [113 Stat. 933][/us/stat/113/933].
 
 ----------
 
@@ -72,16 +72,16 @@
 ----------
 ----------
 
-[/us/pl/95/91/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs641
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F598
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
-[/us/pl/112/239/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3120
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2174
-[/us/pl/105/85/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3161
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2048
-[/us/pl/106/65/s3142/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3142%2Fh%2F1
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F933
 
 

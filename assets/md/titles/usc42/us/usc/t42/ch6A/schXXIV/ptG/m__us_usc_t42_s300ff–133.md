@@ -107,7 +107,7 @@
 
                     (II) the medical facility shall provide to the designated officer the appropriate response under subsection (c).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695B, as added [Pub. L. 111–87, § 13][/us/pl/111/87/s13], Oct. 30, 2009, [123 Stat. 2898][/us/stat/123/2898].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2695B, as added [Pub. L. 111–87][/us/pl/111/87], § 13, Oct. 30, 2009, [123 Stat. 2898][/us/stat/123/2898].)
 
 ----------
 
@@ -120,7 +120,7 @@
 [/us/usc/t42/s300ff–131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%93131%2Fa
 [/us/usc/t42/s300ff–131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%93131%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/87/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs13
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2898
 
 

@@ -17,7 +17,7 @@
 
     In order to assure that existing Federal agencies are used to the fullest extent possible in carrying out the purposes of this chapter, no funds appropriated to carry out this chapter shall be used to establish any new department or office when the intended function is being performed by an existing department or office.
 
-([Pub. L. 93–113, title IV, § 411][/us/pl/93/113/s411], Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 411, Oct. 1, 1973, [87 Stat. 411][/us/stat/87/411].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/113/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs411
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F411
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

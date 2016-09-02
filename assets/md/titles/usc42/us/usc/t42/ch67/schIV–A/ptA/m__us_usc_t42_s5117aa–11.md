@@ -95,13 +95,13 @@
 
         In making grants under subsection (a), the Secretary shall give priority to applicants located in States that have developed and implemented procedures for expedited termination of parental rights and placement for adoption of infants determined to be abandoned under State law.
 
-([Pub. L. 100–505, title I, § 101][/us/pl/100/505/s101], Oct. 18, 1988, [102 Stat. 2534][/us/stat/102/2534]; [Pub. L. 102–236, § 3][/us/pl/102/236/s3], Dec. 12, 1991, [105 Stat. 1812][/us/stat/105/1812]; [Pub. L. 104–235, title II, § 221][/us/pl/104/235/s221], Oct. 3, 1996, [110 Stat. 3091][/us/stat/110/3091]; [Pub. L. 108–36, title III, § 302][/us/pl/108/36/s302], June 25, 2003, [117 Stat. 823][/us/stat/117/823].)
+([Pub. L. 100–505, title I][/us/pl/100/505/tI], § 101, Oct. 18, 1988, [102 Stat. 2534][/us/stat/102/2534]; [Pub. L. 102–236][/us/pl/102/236], § 3, Dec. 12, 1991, [105 Stat. 1812][/us/stat/105/1812]; [Pub. L. 104–235, title II][/us/pl/104/235/tII], § 221, Oct. 3, 1996, [110 Stat. 3091][/us/stat/110/3091]; [Pub. L. 108–36, title III][/us/pl/108/36/tIII], § 302, June 25, 2003, [117 Stat. 823][/us/stat/117/823].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–36, § 302(1)][/us/pl/108/36/s302/1], substituted “Establishment of local projects” for “Establishment of program of demonstration projects” in section catchline.
+    2003—[Pub. L. 108–36][/us/pl/108/36], § 302(1), substituted “Establishment of local projects” for “Establishment of program of demonstration projects” in section catchline.
 
-    Subsec. (b). [Pub. L. 108–36, § 302(2)][/us/pl/108/36/s302/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, in carrying out the purpose described in subsection (a) (other than with respect to paragraph (6) of such subsection), the applicant will give priority to abandoned infants and young children—
+    Subsec. (b). [Pub. L. 108–36][/us/pl/108/36], § 302(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, in carrying out the purpose described in subsection (a) (other than with respect to paragraph (6) of such subsection), the applicant will give priority to abandoned infants and young children—
 
     “(1) who are infected with the human immunodeficiency virus or who have been perinatally exposed to the virus; or
 
@@ -109,31 +109,31 @@
 
     1996—Subsec. (h). [Pub. L. 104–235][/us/pl/104/235] added subsec. (h).
 
-    1991—Subsec. (a)(1). [Pub. L. 102–236, § 3(c)(1)][/us/pl/102/236/s3/c/1], inserted before semicolon at end “, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child”.
+    1991—Subsec. (a)(1). [Pub. L. 102–236][/us/pl/102/236], § 3(c)(1), inserted before semicolon at end “, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child”.
 
-    Subsec. (a)(2). [Pub. L. 102–236, § 3(a)(2)(A)(ii)][/us/pl/102/236/s3/a/2/A/ii], struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
+    Subsec. (a)(2). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
 
-    Subsec. (a)(3). [Pub. L. 102–236, § 3(a)(2)(A)(iii)][/us/pl/102/236/s3/a/2/A/iii], struck out “, particularly those with acquired immune deficiency syndrome,” after “young children”.
+    Subsec. (a)(3). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(2)(A)(iii), struck out “, particularly those with acquired immune deficiency syndrome,” after “young children”.
 
-    Subsec. (a)(4). [Pub. L. 102–236, § 3(a)(2)(A)(ii)][/us/pl/102/236/s3/a/2/A/ii], struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
+    Subsec. (a)(4). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
 
-    Subsec. (a)(5). [Pub. L. 102–236, § 3(a)(2)(A)(ii)][/us/pl/102/236/s3/a/2/A/ii], (c)(2), substituted “who are unable to reside with their families or to be placed in foster care” for “, particularly those with acquired immune deficiency syndrome”.
+    Subsec. (a)(5). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(2)(A)(ii), (c)(2), substituted “who are unable to reside with their families or to be placed in foster care” for “, particularly those with acquired immune deficiency syndrome”.
 
-    Subsec. (a)(6). [Pub. L. 102–236, § 3(a)(2)(A)(i)][/us/pl/102/236/s3/a/2/A/i], substituted “described in subsection (b)” for “with acquired immune deficiency syndrome”.
+    Subsec. (a)(6). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(2)(A)(i), substituted “described in subsection (b)” for “with acquired immune deficiency syndrome”.
 
-    Subsec. (a)(7). [Pub. L. 102–236, § 3(a)(2)(A)(ii)][/us/pl/102/236/s3/a/2/A/ii], struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
+    Subsec. (a)(7). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
 
-    Subsec. (a)(8). [Pub. L. 102–236, § 3(b)][/us/pl/102/236/s3/b], added par. (8).
+    Subsec. (a)(8). [Pub. L. 102–236][/us/pl/102/236], § 3(b), added par. (8).
 
-    Subsecs. (b), (c). [Pub. L. 102–236, § 3(a)(1)][/us/pl/102/236/s3/a/1], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(1), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 102–236, § 3(d)][/us/pl/102/236/s3/d], designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, realigned margins, and added par. (2).
+    Subsec. (d). [Pub. L. 102–236][/us/pl/102/236], § 3(d), designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, realigned margins, and added par. (2).
 
     [Pub. L. 102–236][/us/pl/102/236], § (3)(a)(1)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 102–236, § 3(a)(2)(B)][/us/pl/102/236/s3/a/2/B], substituted “subsection (e)” for “subsection (d)”.
+    Subsec. (d)(1). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(2)(B), substituted “subsection (e)” for “subsection (d)”.
 
-    Subsecs. (e) to (g). [Pub. L. 102–236, § 3(a)(1)(A)][/us/pl/102/236/s3/a/1/A], redesignated subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 102–236][/us/pl/102/236], § 3(a)(1)(A), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
 ----------
 
@@ -143,29 +143,29 @@
 ----------
 
 [/us/usc/t42/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675
-[/us/pl/100/505/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505%2Fs101
+[/us/pl/100/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505%2FtI
 [/us/stat/102/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2534
-[/us/pl/102/236/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3
-[/us/stat/105/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1812
-[/us/pl/104/235/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs221
-[/us/stat/110/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3091
-[/us/pl/108/36/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs302
-[/us/stat/117/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F823
-[/us/pl/108/36/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs302%2F1
-[/us/pl/108/36/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs302%2F2
-[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
-[/us/pl/102/236/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fc%2F1
-[/us/pl/102/236/s3/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F2%2FA%2Fii
-[/us/pl/102/236/s3/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F2%2FA%2Fiii
-[/us/pl/102/236/s3/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F2%2FA%2Fii
-[/us/pl/102/236/s3/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F2%2FA%2Fii
-[/us/pl/102/236/s3/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F2%2FA%2Fi
-[/us/pl/102/236/s3/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F2%2FA%2Fii
-[/us/pl/102/236/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fb
-[/us/pl/102/236/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F1
-[/us/pl/102/236/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fd
 [/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
-[/us/pl/102/236/s3/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F2%2FB
-[/us/pl/102/236/s3/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236%2Fs3%2Fa%2F1%2FA
+[/us/stat/105/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1812
+[/us/pl/104/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtII
+[/us/stat/110/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3091
+[/us/pl/108/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIII
+[/us/stat/117/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F823
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
+[/us/pl/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F236
 
 

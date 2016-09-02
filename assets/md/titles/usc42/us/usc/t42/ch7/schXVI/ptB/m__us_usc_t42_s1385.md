@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1605, as added July 25, 1962, [Pub. L. 87–543, title I, § 141(a)][/us/pl/87/543/s141/a], [76 Stat. 204][/us/stat/76/204]; amended July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97], §§ 221(d)(1), (2), 222(b), title IV, § 402(b), [79 Stat. 358][/us/stat/79/358], 360, 416, defined “aid to the aged, blind, or disabled” and “medical assistance for the aged”, prior to the general revision of this subchapter by [Pub. L. 92–603][/us/pl/92/603], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], eff. Jan. 1, 1974.
+    Section, [act Aug. 14, 1935, ch. 531, title XVI][/us/act/1935-08-14/ch531/tXVI], § 1605, as added July 25, 1962, [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 141(a), [76 Stat. 204][/us/stat/76/204]; amended July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97/tII], §§ 221(d)(1), (2), 222(b), title IV, § 402(b), [79 Stat. 358][/us/stat/79/358], 360, 416, defined “aid to the aged, blind, or disabled” and “medical assistance for the aged”, prior to the general revision of this subchapter by [Pub. L. 92–603][/us/pl/92/603], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], eff. Jan. 1, 1974.
 
  __Puerto Rico, Guam, and Virgin Islands__ 
 
@@ -45,9 +45,9 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by [s
 
     At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of ninety consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for thirty consecutive days in the case of such an individual who has maintained his residence in such State during such period or ninety consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of aid under such plan.
 
-    (b) Repealed. [Pub. L. 97–35, title XXI, § 2184(d)(6)(B)][/us/pl/97/35/s2184/d/6/B], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818].
+    (b) Repealed. [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(d)(6)(B), Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818].
 
-    ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1605, as added July 25, 1962, [Pub. L. 87–543, title I, § 141(a)][/us/pl/87/543/s141/a], [76 Stat. 204][/us/stat/76/204]; amended July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97], §§ 221(d)(1), (2), 222(b), title IV, § 402(b), [79 Stat. 358][/us/stat/79/358], 360, 416; Oct. 30, 1972, [Pub. L. 92–603, title IV][/us/pl/92/603], §§ 408(d), 409(d), [86 Stat. 1490][/us/stat/86/1490], 1491; Aug. 13, 1981, [Pub. L. 97–35, title XXI, § 2184(d)(6)][/us/pl/97/35/s2184/d/6], [95 Stat. 818][/us/stat/95/818]; Aug. 15, 1994, [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], [108 Stat. 1478][/us/stat/108/1478].)
+    ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1605, as added July 25, 1962, [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 141(a), [76 Stat. 204][/us/stat/76/204]; amended July 30, 1965, [Pub. L. 89–97, title II][/us/pl/89/97/tII], §§ 221(d)(1), (2), 222(b), title IV, § 402(b), [79 Stat. 358][/us/stat/79/358], 360, 416; Oct. 30, 1972, [Pub. L. 92–603, title IV][/us/pl/92/603/tIV], §§ 408(d), 409(d), [86 Stat. 1490][/us/stat/86/1490], 1491; Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(d)(6), [95 Stat. 818][/us/stat/95/818]; Aug. 15, 1994, [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), [108 Stat. 1478][/us/stat/108/1478].)
 
     \[Amendment by [section 107(a)(4) of Pub. L. 103–296][/us/pl/103/296/s107/a/4] effective Mar. 31, 1995, see [section 110(a) of Pub. L. 103–296][/us/pl/103/296/s110/a], set out as an Effective Date of 1994 Amendment note under [section 401 of this title][/us/usc/t42/s401].\]
 
@@ -58,10 +58,10 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by [s
 ----------
 ----------
 
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/87/543/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs141%2Fa
+[/us/act/1935-08-14/ch531/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXVI
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F204
-[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F358
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
@@ -71,18 +71,18 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by [s
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/usc/t42/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1311
-[/us/pl/97/35/s2184/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fd%2F6%2FB
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/87/543/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs141%2Fa
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F204
-[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F358
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIV
 [/us/stat/86/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1490
-[/us/pl/97/35/s2184/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fd%2F6
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa

@@ -19,7 +19,7 @@
 
     (b) An individual or a director, officer, or agent of a corporation who knowingly and willfully violates [section 5409 of this title][/us/usc/t42/s5409] in a manner which threatens the health or safety of any purchaser shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-([Pub. L. 93–383, title VI, § 611][/us/pl/93/383/s611], Aug. 22, 1974, [88 Stat. 705][/us/stat/88/705]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 611, Aug. 22, 1974, [88 Stat. 705][/us/stat/88/705]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 [/us/usc/t42/s5409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5409
 [/us/usc/t42/s5409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5409
 [/us/usc/t42/s5409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5409
-[/us/pl/93/383/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs611
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F705
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 

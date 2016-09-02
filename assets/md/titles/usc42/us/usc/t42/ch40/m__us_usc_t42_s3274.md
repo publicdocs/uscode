@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this chapter, such sums to remain available until expended.
 
-([Pub. L. 89–560, § 4][/us/pl/89/560/s4], Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
+([Pub. L. 89–560][/us/pl/89/560], § 4, Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/560/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560%2Fs4
+[/us/pl/89/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560
 [/us/stat/80/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F706
 
 

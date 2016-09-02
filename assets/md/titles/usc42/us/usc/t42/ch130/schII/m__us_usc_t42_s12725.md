@@ -17,7 +17,7 @@
 
     The Secretary shall issue regulations to implement the provisions of this subchapter after notice and an opportunity for comment pursuant to [section 553 of title 5][/us/usc/t5/s553]. Such regulations shall become effective not later than 180 days after November 28, 1990.
 
-([Pub. L. 101–625, title II, § 206][/us/pl/101/625/s206], Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 206, Nov. 28, 1990, [104 Stat. 4096][/us/stat/104/4096].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/101/625/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs206
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4096
 
 

@@ -17,7 +17,7 @@
 
     The Secretary, in exercising the authority under this chapter, shall utilize the services, research and testing facilities of public agencies and independent testing laboratories to the maximum extent practicable in order to avoid duplication.
 
-([Pub. L. 93–383, title VI, § 619][/us/pl/93/383/s619], Aug. 22, 1974, [88 Stat. 711][/us/stat/88/711].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 619, Aug. 22, 1974, [88 Stat. 711][/us/stat/88/711].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/383/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs619
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F711
 
 

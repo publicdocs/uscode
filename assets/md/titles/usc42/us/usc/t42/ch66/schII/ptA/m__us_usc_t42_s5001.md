@@ -163,35 +163,35 @@
 
         (3) examples of meaningful outcome-based performance measures, outcomes, and criteria that capture a program’s mission and priorities.
 
-([Pub. L. 93–113, title II, § 201][/us/pl/93/113/s201], Oct. 1, 1973, [87 Stat. 401][/us/stat/87/401]; [Pub. L. 93–351, § 4][/us/pl/93/351/s4], July 12, 1974, [88 Stat. 357][/us/stat/88/357]; [Pub. L. 95–478, title IV, § 402(a)][/us/pl/95/478/s402/a], Oct. 18, 1978, [92 Stat. 1556][/us/stat/92/1556]; [Pub. L. 98–288, § 14(a)][/us/pl/98/288/s14/a], (b), May 21, 1984, [98 Stat. 192][/us/stat/98/192]; [Pub. L. 101–204, title IX, § 902(2)][/us/pl/101/204/s902/2], Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826]; [Pub. L. 103–82, title III, § 343][/us/pl/103/82/s343], Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904]; [Pub. L. 111–13, title II, § 2143][/us/pl/111/13/s2143], Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 201, Oct. 1, 1973, [87 Stat. 401][/us/stat/87/401]; [Pub. L. 93–351][/us/pl/93/351], § 4, July 12, 1974, [88 Stat. 357][/us/stat/88/357]; [Pub. L. 95–478, title IV][/us/pl/95/478/tIV], § 402(a), Oct. 18, 1978, [92 Stat. 1556][/us/stat/92/1556]; [Pub. L. 98–288][/us/pl/98/288], § 14(a), (b), May 21, 1984, [98 Stat. 192][/us/stat/98/192]; [Pub. L. 101–204, title IX][/us/pl/101/204/tIX], § 902(2), Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 343, Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2143, Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584].)
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–13, § 2143(1)(A)][/us/pl/111/13/s2143/1/A], substituted “share their experiences, abilities, and skills to improve their communities and themselves through service in their communities,” for “avail themselves of opportunities for volunteer service in their community,” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 2143(1)(A), substituted “share their experiences, abilities, and skills to improve their communities and themselves through service in their communities,” for “avail themselves of opportunities for volunteer service in their community,” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 111–13, § 2143(1)(B)][/us/pl/111/13/s2143/1/B], struck out “, and individuals 60 years of age or older will be given priority for enrollment,” before “as volunteers”.
+    Subsec. (a)(2). [Pub. L. 111–13][/us/pl/111/13], § 2143(1)(B), struck out “, and individuals 60 years of age or older will be given priority for enrollment,” before “as volunteers”.
 
-    Subsec. (a)(4). [Pub. L. 111–13, § 2143(1)(C)][/us/pl/111/13/s2143/1/C], substituted “designed and implemented” for “established and will be carried out” and “field of service to be provided, as well as persons who have expertise in the management of volunteers and the needs of older individuals.” for “field of service involved, and of persons with interest in and knowledge of the needs of older persons.”
+    Subsec. (a)(4). [Pub. L. 111–13][/us/pl/111/13], § 2143(1)(C), substituted “designed and implemented” for “established and will be carried out” and “field of service to be provided, as well as persons who have expertise in the management of volunteers and the needs of older individuals.” for “field of service involved, and of persons with interest in and knowledge of the needs of older persons.”
 
-    Subsecs. (e) to (j). [Pub. L. 111–13, § 2143(2)][/us/pl/111/13/s2143/2], added subsecs. (e) to (j).
+    Subsecs. (e) to (j). [Pub. L. 111–13][/us/pl/111/13], § 2143(2), added subsecs. (e) to (j).
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 343(1)][/us/pl/103/82/s343/1], substituted “retired individuals and working older individuals” for “retired persons” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 343(1), substituted “retired individuals and working older individuals” for “retired persons” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 103–82, § 343(2)][/us/pl/103/82/s343/2], substituted “55 years of age or older” for “aged sixty or over” and inserted “, and individuals 60 years of age or older will be given priority for enrollment,” after “will be enrolled”.
+    Subsec. (a)(2). [Pub. L. 103–82][/us/pl/103/82], § 343(2), substituted “55 years of age or older” for “aged sixty or over” and inserted “, and individuals 60 years of age or older will be given priority for enrollment,” after “will be enrolled”.
 
-    1989—Subsec. (a). [Pub. L. 101–204, § 902(2)(A)][/us/pl/101/204/s902/2/A], substituted “projects” for “programs” in introductory provisions.
+    1989—Subsec. (a). [Pub. L. 101–204][/us/pl/101/204], § 902(2)(A), substituted “projects” for “programs” in introductory provisions.
 
-    Subsec. (a)(3), (4). [Pub. L. 101–204, § 902(2)(B)][/us/pl/101/204/s902/2/B], substituted “project” for “program”.
+    Subsec. (a)(3), (4). [Pub. L. 101–204][/us/pl/101/204], § 902(2)(B), substituted “project” for “program”.
 
-    1984—Subsec. (a). [Pub. L. 98–288, § 14(a)][/us/pl/98/288/s14/a], substituted “the Director” for “he” in two places in provisions before par. (1).
+    1984—Subsec. (a). [Pub. L. 98–288][/us/pl/98/288], § 14(a), substituted “the Director” for “he” in two places in provisions before par. (1).
 
-    Subsec. (b). [Pub. L. 98–288, § 14(b)][/us/pl/98/288/s14/b], substituted “and 30 per centum in any subsequent such years” for “30 per centum in the third such year, 40 per centum in the fourth such year, and 50 per centum in any subsequent such years”.
+    Subsec. (b). [Pub. L. 98–288][/us/pl/98/288], § 14(b), substituted “and 30 per centum in any subsequent such years” for “30 per centum in the third such year, 40 per centum in the fourth such year, and 50 per centum in any subsequent such years”.
 
-    1978—Subsec. (a). [Pub. L. 95–478, § 402(a)(1)][/us/pl/95/478/s402/a/1], substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title.
+    1978—Subsec. (a). [Pub. L. 95–478][/us/pl/95/478], § 402(a)(1), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title.
 
-    Subsec. (c). [Pub. L. 95–478, § 402(a)(1)][/us/pl/95/478/s402/a/1], (2), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title and decreased period for review to “forty-five” from “sixty” days.
+    Subsec. (c). [Pub. L. 95–478][/us/pl/95/478], § 402(a)(1), (2), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title and decreased period for review to “forty-five” from “sixty” days.
 
-    Subsec. (d). [Pub. L. 95–478, § 402(a)(3)][/us/pl/95/478/s402/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–478][/us/pl/95/478], § 402(a)(3), added subsec. (d).
 
     1974—Subsecs. (b), (c). [Pub. L. 93–351][/us/pl/93/351] added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -209,7 +209,7 @@
 
  __Aging Resource Specialists for Coordination of National Older American Volunteer Programs With State and Community Programs on Aging and Nutrition Programs for Elderly; Designation; Duties; Definitions__ 
 
-[Pub. L. 94–135, title II, § 205(c)][/us/pl/94/135/s205/c], Nov. 28, 1975, [89 Stat. 727][/us/stat/89/727], as amended by [Pub. L. 103–82, title III, § 341(b)(4)][/us/pl/103/82/s341/b/4], title IV, § 405(i), Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904], 921, provided that:
+[Pub. L. 94–135, title II][/us/pl/94/135/tII], § 205(c), Nov. 28, 1975, [89 Stat. 727][/us/stat/89/727], as amended by [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 341(b)(4), title IV, § 405(i), Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904], 921, provided that:
 
 >     “(1) In order to provide maximum coordination between programs carried out under title III and title VII of the Older Americans Act of 1965 ([42 U.S.C. 3021][/us/usc/t42/s3021] et seq.; [42 U.S.C. 3045][/us/usc/t42/s3045] et seq.) and National Senior Volunteer Corps \[now National Senior Service Corps\] programs carried out under title II of the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 5001][/us/usc/t42/s5001] et seq.) \[[42 U.S.C. 5000][/us/usc/t42/s5000] et seq.\], in order to enhance the effectiveness of the support provided to such National Senior Volunteer Corps programs by the Corporation for National and Community Service, the Chief Executive Officer of the Corporation shall designate an aging resource specialist with respect to programs carried out in each State under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\].
 
@@ -249,33 +249,33 @@
 [/us/usc/t42/s5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5052
 [/us/usc/t42/s5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5052
 [/us/usc/t42/s5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5052
-[/us/pl/93/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs201
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
 [/us/stat/87/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F401
-[/us/pl/93/351/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F351%2Fs4
+[/us/pl/93/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F351
 [/us/stat/88/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F357
-[/us/pl/95/478/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs402%2Fa
+[/us/pl/95/478/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtIV
 [/us/stat/92/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1556
-[/us/pl/98/288/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fa
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F192
-[/us/pl/101/204/s902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs902%2F2
+[/us/pl/101/204/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtIX
 [/us/stat/103/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1826
-[/us/pl/103/82/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs343
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F904
-[/us/pl/111/13/s2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2143
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1584
-[/us/pl/111/13/s2143/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2143%2F1%2FA
-[/us/pl/111/13/s2143/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2143%2F1%2FB
-[/us/pl/111/13/s2143/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2143%2F1%2FC
-[/us/pl/111/13/s2143/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2143%2F2
-[/us/pl/103/82/s343/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs343%2F1
-[/us/pl/103/82/s343/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs343%2F2
-[/us/pl/101/204/s902/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs902%2F2%2FA
-[/us/pl/101/204/s902/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs902%2F2%2FB
-[/us/pl/98/288/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fa
-[/us/pl/98/288/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs14%2Fb
-[/us/pl/95/478/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs402%2Fa%2F1
-[/us/pl/95/478/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs402%2Fa%2F1
-[/us/pl/95/478/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs402%2Fa%2F3
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/93/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F351
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
@@ -286,9 +286,9 @@
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/95/478/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs504
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/94/135/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs205%2Fc
+[/us/pl/94/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtII
 [/us/stat/89/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F727
-[/us/pl/103/82/s341/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs341%2Fb%2F4
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F904
 [/us/usc/t42/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3021
 [/us/usc/t42/s3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3045

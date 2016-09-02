@@ -23,7 +23,7 @@
 
         The Secretary may make payments to a State for the portion described in [section 15024(c)(5)(B)(vi) of this title][/us/usc/t42/s15024/c/5/B/vi] in advance or by way of reimbursement, and in such installments as the Secretary may determine.
 
-([Pub. L. 106–402, title I, § 123][/us/pl/106/402/s123], Oct. 30, 2000, [114 Stat. 1696][/us/stat/114/1696].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 123, Oct. 30, 2000, [114 Stat. 1696][/us/stat/114/1696].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t42/s15022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15022
 [/us/usc/t42/s15024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15024
 [/us/usc/t42/s15024/c/5/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15024%2Fc%2F5%2FB%2Fvi
-[/us/pl/106/402/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs123
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1696
 
 

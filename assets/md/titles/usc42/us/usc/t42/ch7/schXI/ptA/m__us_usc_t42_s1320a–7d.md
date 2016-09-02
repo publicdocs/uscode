@@ -153,7 +153,7 @@
 
             (B) the volume and frequency of the conduct that would be identified in the special fraud alert.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128D, as added [Pub. L. 104–191, title II, § 205][/us/pl/104/191/s205], Aug. 21, 1996, [110 Stat. 2000][/us/stat/110/2000]; amended [Pub. L. 105–33, title IV, § 4331(a)(1)][/us/pl/105/33/s4331/a/1], Aug. 5, 1997, [111 Stat. 395][/us/stat/111/395]; [Pub. L. 105–277, div. J, title V, § 5201(c)][/us/pl/105/277/s5201/c], Oct. 21, 1998, [112 Stat. 2681–917][/us/stat/112/2681-917]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 543\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–551.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128D, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 205, Aug. 21, 1996, [110 Stat. 2000][/us/stat/110/2000]; amended [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4331(a)(1), Aug. 5, 1997, [111 Stat. 395][/us/stat/111/395]; [Pub. L. 105–277, div. J, title V][/us/pl/105/277/dJ/tV], § 5201(c), Oct. 21, 1998, [112 Stat. 2681–917][/us/stat/112/2681-917]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title V, § 543\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–551.)
 
  __References in Text__ 
 
@@ -192,13 +192,13 @@
 [/us/usc/t42/s1320a–7a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fb
 [/us/usc/t42/s1320a–7/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937%2Fh
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs205
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2000
-[/us/pl/105/33/s4331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4331%2Fa%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F395
-[/us/pl/105/277/s5201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs5201%2Fc
+[/us/pl/105/277/dJ/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtV
 [/us/stat/112/2681-917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-917
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/100/93/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs14%2Fa
 [/us/usc/t42/s1320a–7b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937b

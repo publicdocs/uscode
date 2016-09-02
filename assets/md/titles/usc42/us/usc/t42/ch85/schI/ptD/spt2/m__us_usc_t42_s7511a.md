@@ -397,7 +397,7 @@
 
             If any State in which there is located a portion of a multi-State ozone nonattainment area fails to provide a demonstration of attainment of the national ambient air quality standard for ozone in that portion within the required period, the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions and requirements for ozone nonattainment areas). If the Administrator makes such finding, the provisions of [section 7509 of this title][/us/usc/t42/s7509] (relating to sanctions) shall not apply, by reason of the failure to make such demonstration, in the portion of the multi-State ozone nonattainment area within the State submitting such petition.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 182, as added [Pub. L. 101–549, title I, § 103][/us/pl/101/549/s103], Nov. 15, 1990, [104 Stat. 2426][/us/stat/104/2426]; amended [Pub. L. 104–70, § 1][/us/pl/104/70/s1], Dec. 23, 1995, [109 Stat. 773][/us/stat/109/773].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 182, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 103, Nov. 15, 1990, [104 Stat. 2426][/us/stat/104/2426]; amended [Pub. L. 104–70][/us/pl/104/70], § 1, Dec. 23, 1995, [109 Stat. 773][/us/stat/109/773].)
 
  __References in Text__ 
 
@@ -409,7 +409,7 @@
 
  __Moratorium on Certain Emissions Testing Requirements__ 
 
-[Pub. L. 104–59, title III, § 348][/us/pl/104/59/s348], Nov. 28, 1995, [109 Stat. 617][/us/stat/109/617], provided that:
+[Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 348, Nov. 28, 1995, [109 Stat. 617][/us/stat/109/617], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -500,16 +500,16 @@
 [/us/usc/t42/s7511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511%2Fb%2F2
 [/us/usc/t42/s7509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7509
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs103
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2426
-[/us/pl/104/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F70%2Fs1
+[/us/pl/104/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F70
 [/us/stat/109/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F773
 [/us/pl/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621
 [/us/stat/92/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3350
 [/us/usc/t15/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3301
 [/us/pl/104/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F70
 [/us/usc/t42/s7408/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408%2Ff
-[/us/pl/104/59/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs348
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F617
 [/us/usc/t42/s7511a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511a
 [/us/usc/t42/s7511a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7511a

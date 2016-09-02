@@ -31,15 +31,15 @@
 
         This part shall not be interpreted to entitle any individual or family to assistance under any State program funded under this part.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 401, as added [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2112][/us/stat/110/2112]; amended [Pub. L. 105–33, title V, § 5514(c)][/us/pl/105/33/s5514/c], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 401, as added [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 103(a)(1), Aug. 22, 1996, [110 Stat. 2112][/us/stat/110/2112]; amended [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5514(c), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].)
 
  __Prior Provisions__ 
 
-    A prior section 601, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 401, [49 Stat. 627][/us/stat/49/627]; 1946 Reorg. Plan No. 2, § 4, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 312(a), [70 Stat. 848][/us/stat/70/848]; July 25, 1962, [Pub. L. 87–543, title I, § 104(a)(4)][/us/pl/87/543/s104/a/4], (c)(2), [76 Stat. 185][/us/stat/76/185], 186; Jan. 2, 1968, [Pub. L. 90–248, title II, § 241(b)(1)][/us/pl/90/248/s241/b/1], [81 Stat. 916][/us/stat/81/916], related to authorization of appropriations for Aid to Families With Dependent Children program prior to repeal by [Pub. L. 104–193, § 103(a)(1)][/us/pl/104/193/s103/a/1], as amended by [Pub. L. 105–33, title V, § 5514(c)][/us/pl/105/33/s5514/c], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].
+    A prior section 601, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 401, [49 Stat. 627][/us/stat/49/627]; 1946 Reorg. Plan No. 2, § 4, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 312(a), [70 Stat. 848][/us/stat/70/848]; July 25, 1962, [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 104(a)(4), (c)(2), [76 Stat. 185][/us/stat/76/185], 186; Jan. 2, 1968, [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 241(b)(1), [81 Stat. 916][/us/stat/81/916], related to authorization of appropriations for Aid to Families With Dependent Children program prior to repeal by [Pub. L. 104–193][/us/pl/104/193], § 103(a)(1), as amended by [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5514(c), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–33][/us/pl/105/33] made technical amendment to directory language of [Pub. L. 104–193, § 103(a)(1)][/us/pl/104/193/s103/a/1], which enacted this section.
+    1997—[Pub. L. 105–33][/us/pl/105/33] made technical amendment to directory language of [Pub. L. 104–193][/us/pl/104/193], § 103(a)(1), which enacted this section.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–193, title I, § 116][/us/pl/104/193/s116], Aug. 22, 1996, [110 Stat. 2181][/us/stat/110/2181], as amended by [Pub. L. 104–327, § 1(a)][/us/pl/104/327/s1/a], (c), Oct. 19, 1996, [110 Stat. 4002][/us/stat/110/4002], 4003; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5516(b), 5517, Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620], 621, provided that:
+[Pub. L. 104–193, title I][/us/pl/104/193/tI], § 116, Aug. 22, 1996, [110 Stat. 2181][/us/stat/110/2181], as amended by [Pub. L. 104–327][/us/pl/104/327], § 1(a), (c), Oct. 19, 1996, [110 Stat. 4002][/us/stat/110/4002], 4003; [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5516(b), 5517, Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620], 621, provided that:
 
 >     “(a) __Effective Dates.—__ 
 
@@ -195,7 +195,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 104–193, title I, § 101][/us/pl/104/193/s101], Aug. 22, 1996, [110 Stat. 2110][/us/stat/110/2110], provided that: 
+[Pub. L. 104–193, title I][/us/pl/104/193/tI], § 101, Aug. 22, 1996, [110 Stat. 2110][/us/stat/110/2110], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -301,7 +301,7 @@
 
  __Appropriation by State Legislatures__ 
 
-[Pub. L. 104–193, title IX, § 901][/us/pl/104/193/s901], Aug. 22, 1996, [110 Stat. 2347][/us/stat/110/2347], provided that:
+[Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 901, Aug. 22, 1996, [110 Stat. 2347][/us/stat/110/2347], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -323,9 +323,9 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2112
-[/us/pl/105/33/s5514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fc
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F627
@@ -333,24 +333,24 @@
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F848
-[/us/pl/87/543/s104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs104%2Fa%2F4
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F185
-[/us/pl/90/248/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs241%2Fb%2F1
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F916
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
-[/us/pl/105/33/s5514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fc
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5518/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5518%2Fd
 [/us/usc/t21/s862a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs862a
-[/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2181
-[/us/pl/104/327/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F327%2Fs1%2Fa
+[/us/pl/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F327
 [/us/stat/110/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4002
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
 [/us/usc/t42/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs609%2Fa
 [/us/usc/t42/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa
@@ -371,12 +371,12 @@
 [/us/usc/t42/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs617
 [/us/usc/t42/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs616
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/104/193/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs101
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2110
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/pl/110/246/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fc
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/104/193/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs901
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2347
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857

@@ -19,7 +19,7 @@
 
     (b) There is authorized to be appropriated $10,000,000 per fiscal year for each fiscal year beginning after September 30, 1986, to carry out this section.
 
-([Pub. L. 94–587, § 120][/us/pl/94/587/s120], Oct. 22, 1976, [90 Stat. 2924][/us/stat/90/2924]; [Pub. L. 99–662, title IX, § 920][/us/pl/99/662/s920], Nov. 17, 1986, [100 Stat. 4193][/us/stat/100/4193].)
+([Pub. L. 94–587][/us/pl/94/587], § 120, Oct. 22, 1976, [90 Stat. 2924][/us/stat/90/2924]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 920, Nov. 17, 1986, [100 Stat. 4193][/us/stat/100/4193].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/94/587/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587%2Fs120
+[/us/pl/94/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F587
 [/us/stat/90/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2924
-[/us/pl/99/662/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs920
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4193
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 

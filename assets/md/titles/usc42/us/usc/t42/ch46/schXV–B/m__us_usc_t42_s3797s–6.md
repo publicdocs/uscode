@@ -33,7 +33,7 @@
 
         The term “prison-based family treatment program” means a program for incarcerated parents in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
 
-([Pub. L. 90–351, title I, § 2927][/us/pl/90/351/s2927], as added [Pub. L. 110–199, title I, § 113][/us/pl/110/199/s113], Apr. 9, 2008, [122 Stat. 676][/us/stat/122/676].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2927, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 113, Apr. 9, 2008, [122 Stat. 676][/us/stat/122/676].)
 
  __Construction of 2008 Amendment__ 
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t42/s3797aa/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797aa%2Fa
-[/us/pl/90/351/s2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2927
-[/us/pl/110/199/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs113
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F676
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t42/s17504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17504

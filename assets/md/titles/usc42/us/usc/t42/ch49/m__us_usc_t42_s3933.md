@@ -27,7 +27,7 @@
 
         The incorporators shall also arrange for an initial offering of shares of stock in the corporation and of interests in the partnership described in [section 3937 of this title][/us/usc/t42/s3937]. If the incorporators deem it advisable in order to carry out the purposes of this chapter, the initial offering may be made upon terms which require the purchase of other securities of the corporation or of interests in such partnership.
 
-([Pub. L. 90–448, title IX, § 903][/us/pl/90/448/s903], Aug. 1, 1968, [82 Stat. 547][/us/stat/82/547].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 903, Aug. 1, 1968, [82 Stat. 547][/us/stat/82/547].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3937
-[/us/pl/90/448/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs903
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F547
 
 

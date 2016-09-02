@@ -49,7 +49,7 @@
 
         Whoever knowingly and willfully violates paragraph (1) or (2) of subsection (a) of this section shall be subject to a fine of not more than $250,000, imprisonment for not more than 5 years, or both.
 
-([Pub. L. 106–279, title IV, § 404][/us/pl/106/279/s404], Oct. 6, 2000, [114 Stat. 842][/us/stat/114/842].)
+([Pub. L. 106–279, title IV][/us/pl/106/279/tIV], § 404, Oct. 6, 2000, [114 Stat. 842][/us/stat/114/842].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t42/s14921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14921
-[/us/pl/106/279/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs404
+[/us/pl/106/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtIV
 [/us/stat/114/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F842
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F830

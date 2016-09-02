@@ -17,7 +17,7 @@
 
     Each reference in this subchapter to a provision of the Code of Federal Regulations refers to such provision as in effect on February 17, 2009 (or to the most recent update of such provision).
 
-([Pub. L. 111–5, div. A, title XIII, § 13422][/us/pl/111/5/s13422], Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13422, Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s13422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13422
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F276
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258

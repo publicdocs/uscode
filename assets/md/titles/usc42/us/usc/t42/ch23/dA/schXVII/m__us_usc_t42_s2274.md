@@ -21,21 +21,21 @@
 
     (b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of not more than $50,000 or imprisonment for not more than ten years, or both.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 224, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 958][/us/stat/68/958]; amended [Pub. L. 91–161, § 3(b)][/us/pl/91/161/s3/b], Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–65, div. C, title XXXI, § 3148(a)][/us/pl/106/65/s3148/a], Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(9)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294.)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 224, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 958][/us/stat/68/958]; amended [Pub. L. 91–161][/us/pl/91/161], § 3(b), Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3148(a), Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(g)(9)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294.)
 
  __Amendments__ 
 
     2000—Cl. (b). [Pub. L. 106–398][/us/pl/106/398] substituted “$50,000” for “$500,000”.
 
-    1999—Cl. (a). [Pub. L. 106–65, § 3148(a)(1)][/us/pl/106/65/s3148/a/1], substituted “$100,000” for “$20,000”.
+    1999—Cl. (a). [Pub. L. 106–65][/us/pl/106/65], § 3148(a)(1), substituted “$100,000” for “$20,000”.
 
-    Cl. (b). [Pub. L. 106–65, § 3148(a)(2)][/us/pl/106/65/s3148/a/2], substituted “$500,000” for “$10,000”.
+    Cl. (b). [Pub. L. 106–65][/us/pl/106/65], § 3148(a)(2), substituted “$500,000” for “$10,000”.
 
     1969—[Pub. L. 91–161][/us/pl/91/161] made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
 
  __Effective Date of 2000 Amendment__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(9)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, provided that the amendment made by that section is effective as of Oct. 5, 1999.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(g)(9)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, provided that the amendment made by that section is effective as of Oct. 5, 1999.
 
  __Effective Date of 1969 Amendment__ 
 
@@ -49,21 +49,21 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F958
-[/us/pl/91/161/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161%2Fs3%2Fb
+[/us/pl/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161
 [/us/stat/83/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F444
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/106/65/s3148/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3148%2Fa
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F938
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/65/s3148/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3148%2Fa%2F1
-[/us/pl/106/65/s3148/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3148%2Fa%2F2
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161
 [/us/pl/91/161/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161%2Fs7

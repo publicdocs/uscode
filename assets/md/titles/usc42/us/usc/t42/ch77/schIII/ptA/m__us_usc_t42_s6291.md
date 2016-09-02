@@ -881,105 +881,105 @@
 
             (ii) to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
 
-([Pub. L. 94–163, title III, § 321][/us/pl/94/163/s321], Dec. 22, 1975, [89 Stat. 917][/us/stat/89/917]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 100–12, § 2][/us/pl/100/12/s2], Mar. 17, 1987, [101 Stat. 103][/us/stat/101/103]; [Pub. L. 100–357, § 2(a)][/us/pl/100/357/s2/a], June 28, 1988, [102 Stat. 671][/us/stat/102/671]; [Pub. L. 102–486, title I, § 123(b)][/us/pl/102/486/s123/b], Oct. 24, 1992, [106 Stat. 2817][/us/stat/106/2817]; [Pub. L. 105–388, § 5(a)(2)][/us/pl/105/388/s5/a/2], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 135(a)][/us/pl/109/58/s135/a], Aug. 8, 2005, [119 Stat. 624][/us/stat/119/624]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, [121 Stat. 1549][/us/stat/121/1549], 1572, 1573, 1587, 1591; [Pub. L. 112–210, § 10(a)(6)][/us/pl/112/210/s10/a/6], (7), (10), Dec. 18, 2012, [126 Stat. 1524][/us/stat/126/1524], 1525.)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 321, Dec. 22, 1975, [89 Stat. 917][/us/stat/89/917]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 100–12][/us/pl/100/12], § 2, Mar. 17, 1987, [101 Stat. 103][/us/stat/101/103]; [Pub. L. 100–357][/us/pl/100/357], § 2(a), June 28, 1988, [102 Stat. 671][/us/stat/102/671]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(b), Oct. 24, 1992, [106 Stat. 2817][/us/stat/106/2817]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(2), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 135(a), Aug. 8, 2005, [119 Stat. 624][/us/stat/119/624]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, [121 Stat. 1549][/us/stat/121/1549], 1572, 1573, 1587, 1591; [Pub. L. 112–210][/us/pl/112/210], § 10(a)(6), (7), (10), Dec. 18, 2012, [126 Stat. 1524][/us/stat/126/1524], 1525.)
 
  __References in Text__ 
 
     This chapter, referred to in pars. (3) and (59)(C), was in the original “this Act”, meaning [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    Paragraph (19) of [section 6292(a) of this title][/us/usc/t42/s6292/a], referred to in par. (6)(B), was redesignated (20) and a new par. (19) was added by [Pub. L. 110–140, title III, § 324(b)][/us/pl/110/140/s324/b], Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
+    Paragraph (19) of [section 6292(a) of this title][/us/usc/t42/s6292/a], referred to in par. (6)(B), was redesignated (20) and a new par. (19) was added by [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 324(b), Dec. 19, 2007, [121 Stat. 1593][/us/stat/121/1593].
 
  __Amendments__ 
 
-    2012—Par. (30)(C)(ii). [Pub. L. 112–210, § 10(a)(10)][/us/pl/112/210/s10/a/10], inserted a period after “40 watts or higher”.
+    2012—Par. (30)(C)(ii). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(10), inserted a period after “40 watts or higher”.
 
-    Par. (30)(D)(i)(III). [Pub. L. 112–210, § 10(a)(6)][/us/pl/112/210/s10/a/6], inserted before the semicolon “or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens”.
+    Par. (30)(D)(i)(III). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(6), inserted before the semicolon “or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens”.
 
-    Par. (30)(T)(i). [Pub. L. 112–210, § 10(a)(7)(A)][/us/pl/112/210/s10/a/7/A], substituted “and” for comma after “household appliance” and struck out “and is sold at retail,” after “40 watts,”.
+    Par. (30)(T)(i). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(7)(A), substituted “and” for comma after “household appliance” and struck out “and is sold at retail,” after “40 watts,”.
 
-    Par. (30)(T)(ii). [Pub. L. 112–210, § 10(a)(7)(B)][/us/pl/112/210/s10/a/7/B], inserted “when sold at retail,” before “is designated”.
+    Par. (30)(T)(ii). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(7)(B), inserted “when sold at retail,” before “is designated”.
 
-    2007—Par. (29)(D)(ii). [Pub. L. 110–140, § 316(a)(1)][/us/pl/110/140/s316/a/1], made technical correction to directory language of [Pub. L. 109–58, § 135(a)(1)(A)(ii)][/us/pl/109/58/s135/a/1/A/ii]. See 2005 Amendment note below.
+    2007—Par. (29)(D)(ii). [Pub. L. 110–140][/us/pl/110/140], § 316(a)(1), made technical correction to directory language of [Pub. L. 109–58][/us/pl/109/58], § 135(a)(1)(A)(ii). See 2005 Amendment note below.
 
-    Par. (30)(B)(viii). [Pub. L. 110–140, § 316(b)][/us/pl/110/140/s316/b], substituted “87” for “82”.
+    Par. (30)(B)(viii). [Pub. L. 110–140][/us/pl/110/140], § 316(b), substituted “87” for “82”.
 
-    Par. (30)(C)(ii). [Pub. L. 110–140, § 322(a)(1)][/us/pl/110/140/s322/a/1], substituted “ER, BR, BPAR, or similar bulb shapes” for “or similar bulb shapes (excluding ER or BR)”, “2.25 inches” for “2.75 inches”, and “has a rated wattage that is 40 watts or higher” for “is either—
+    Par. (30)(C)(ii). [Pub. L. 110–140][/us/pl/110/140], § 322(a)(1), substituted “ER, BR, BPAR, or similar bulb shapes” for “or similar bulb shapes (excluding ER or BR)”, “2.25 inches” for “2.75 inches”, and “has a rated wattage that is 40 watts or higher” for “is either—
 
     “(I) a low(er) wattage reflector lamp which has a rated wattage between 40 and 205 watts; or
 
     “(II) a high(er) wattage reflector lamp which has a rated wattage above 205 watts.”
 
-    Par. (30)(D). [Pub. L. 110–140, § 321(a)(1)(A)][/us/pl/110/140/s321/a/1/A], added subpar. (D) and struck out former subpar. (D) which defined “general service incandescent lamp”.
+    Par. (30)(D). [Pub. L. 110–140][/us/pl/110/140], § 321(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which defined “general service incandescent lamp”.
 
-    Par. (30)(T) to (EE). [Pub. L. 110–140, § 321(a)(1)(B)][/us/pl/110/140/s321/a/1/B], added subpars. (T) to (EE).
+    Par. (30)(T) to (EE). [Pub. L. 110–140][/us/pl/110/140], § 321(a)(1)(B), added subpars. (T) to (EE).
 
-    Par. (36). [Pub. L. 110–140, § 301(a)(1)][/us/pl/110/140/s301/a/1], inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) to (D).
+    Par. (36). [Pub. L. 110–140][/us/pl/110/140], § 301(a)(1), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) to (D).
 
-    Pars. (46) to (48). [Pub. L. 110–140, § 316(c)(1)(A)][/us/pl/110/140/s316/c/1/A], added pars. (46) to (48) and struck out former pars. (46) to (48), which defined “high intensity discharge lamp”, “mercury vapor lamp”, and “mercury vapor lamp ballast”, respectively.
+    Pars. (46) to (48). [Pub. L. 110–140][/us/pl/110/140], § 316(c)(1)(A), added pars. (46) to (48) and struck out former pars. (46) to (48), which defined “high intensity discharge lamp”, “mercury vapor lamp”, and “mercury vapor lamp ballast”, respectively.
 
-    Par. (52). [Pub. L. 110–140, § 301(a)(2)][/us/pl/110/140/s301/a/2], added par. (52).
+    Par. (52). [Pub. L. 110–140][/us/pl/110/140], § 301(a)(2), added par. (52).
 
-    Par. (53). [Pub. L. 110–140, § 316(c)(1)(B)][/us/pl/110/140/s316/c/1/B], added par. (53).
+    Par. (53). [Pub. L. 110–140][/us/pl/110/140], § 316(c)(1)(B), added par. (53).
 
-    Pars. (54) to (57). [Pub. L. 110–140, § 322(a)(2)][/us/pl/110/140/s322/a/2], added pars. (54) to (57).
+    Pars. (54) to (57). [Pub. L. 110–140][/us/pl/110/140], § 322(a)(2), added pars. (54) to (57).
 
-    Pars. (58) to (66). [Pub. L. 110–140, § 324(a)][/us/pl/110/140/s324/a], added pars. (58) to (66).
+    Pars. (58) to (66). [Pub. L. 110–140][/us/pl/110/140], § 324(a), added pars. (58) to (66).
 
-    2005—Par. (29)(D)(i). [Pub. L. 109–58, § 135(a)(1)(A)(i)][/us/pl/109/58/s135/a/1/A/i], substituted “C78.81–2003 (Data Sheet 7881–ANSI–1010–1)” for “C78.1–1978(R1984)”.
+    2005—Par. (29)(D)(i). [Pub. L. 109–58][/us/pl/109/58], § 135(a)(1)(A)(i), substituted “C78.81–2003 (Data Sheet 7881–ANSI–1010–1)” for “C78.1–1978(R1984)”.
 
-    Par. (29)(D)(ii). [Pub. L. 109–58, § 135(a)(1)(A)(ii)][/us/pl/109/58/s135/a/1/A/ii], as amended by [Pub. L. 110–140, § 316(a)(1)][/us/pl/110/140/s316/a/1], substituted “C78.81–2003 (Data Sheet 7881–ANSI–3007–1)” for “C78.3–1978(R1984)”.
+    Par. (29)(D)(ii). [Pub. L. 109–58][/us/pl/109/58], § 135(a)(1)(A)(ii), as amended by [Pub. L. 110–140][/us/pl/110/140], § 316(a)(1), substituted “C78.81–2003 (Data Sheet 7881–ANSI–3007–1)” for “C78.3–1978(R1984)”.
 
-    Par. (29)(D)(iii). [Pub. L. 109–58, § 135(a)(1)(A)(iii)][/us/pl/109/58/s135/a/1/A/iii], substituted “C78.81–2003 (Data Sheet 7881–ANSI–1019–1)” for “C78.1–1978(R1984)”.
+    Par. (29)(D)(iii). [Pub. L. 109–58][/us/pl/109/58], § 135(a)(1)(A)(iii), substituted “C78.81–2003 (Data Sheet 7881–ANSI–1019–1)” for “C78.1–1978(R1984)”.
 
-    Par. (29)(M) to (P). [Pub. L. 109–58, § 135(a)(1)(B)][/us/pl/109/58/s135/a/1/B], added subpars. (M) to (P).
+    Par. (29)(M) to (P). [Pub. L. 109–58][/us/pl/109/58], § 135(a)(1)(B), added subpars. (M) to (P).
 
-    Par. (30)(S). [Pub. L. 109–58, § 135(a)(2)][/us/pl/109/58/s135/a/2], designated existing provisions as cl. (i) and added cl. (ii).
+    Par. (30)(S). [Pub. L. 109–58][/us/pl/109/58], § 135(a)(2), designated existing provisions as cl. (i) and added cl. (ii).
 
-    Pars. (32) to (51). [Pub. L. 109–58, § 135(a)(3)][/us/pl/109/58/s135/a/3], added pars. (32) to (51).
+    Pars. (32) to (51). [Pub. L. 109–58][/us/pl/109/58], § 135(a)(3), added pars. (32) to (51).
 
     1998—Par. (1). [Pub. L. 105–388][/us/pl/105/388] substituted “[section 32901(a)(3) of title 49][/us/usc/t49/s32901/a/3]” for “section 501(1) of the Motor Vehicle Information and Cost Savings Act” and struck out second period at end.
 
-    1992—[Pub. L. 102–486, § 123(b)(1)][/us/pl/102/486/s123/b/1], in introductory provisions, struck out “(a)” before “For purposes”.
+    1992—[Pub. L. 102–486][/us/pl/102/486], § 123(b)(1), in introductory provisions, struck out “(a)” before “For purposes”.
 
-    Par. (1). [Pub. L. 102–486, § 123(b)(2)(B)][/us/pl/102/486/s123/b/2/B], which directed amendment of par. (1)(B) by substituting “ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals” for “ballasts”, was executed by making amendment in closing provisions of par. (1), to reflect the probable intent of Congress.
+    Par. (1). [Pub. L. 102–486][/us/pl/102/486], § 123(b)(2)(B), which directed amendment of par. (1)(B) by substituting “ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals” for “ballasts”, was executed by making amendment in closing provisions of par. (1), to reflect the probable intent of Congress.
 
-    Par. (1)(A). [Pub. L. 102–486, § 123(b)(2)(A)][/us/pl/102/486/s123/b/2/A], inserted “or, with respect to showerheads, faucets, water closets, and urinals, water” after “energy”.
+    Par. (1)(A). [Pub. L. 102–486][/us/pl/102/486], § 123(b)(2)(A), inserted “or, with respect to showerheads, faucets, water closets, and urinals, water” after “energy”.
 
-    Par. (6). [Pub. L. 102–486, § 123(b)(3)(B)(ii)][/us/pl/102/486/s123/b/3/B/ii], which directed amendment of par. (6)(B) by substituting “6295(r)” for “6295(o)”, was executed by making amendment in closing provisions of par. (6), to reflect the probable intent of Congress.
+    Par. (6). [Pub. L. 102–486][/us/pl/102/486], § 123(b)(3)(B)(ii), which directed amendment of par. (6)(B) by substituting “6295(r)” for “6295(o)”, was executed by making amendment in closing provisions of par. (6), to reflect the probable intent of Congress.
 
-    Par. (6)(A). [Pub. L. 102–486, § 123(b)(3)(A)][/us/pl/102/486/s123/b/3/A], inserted “, or, in the case of showerheads, faucets, water closets, and urinals, water use,” after “energy use”.
+    Par. (6)(A). [Pub. L. 102–486][/us/pl/102/486], § 123(b)(3)(A), inserted “, or, in the case of showerheads, faucets, water closets, and urinals, water use,” after “energy use”.
 
-    Par. (6)(B). [Pub. L. 102–486, § 123(b)(3)(B)(i)][/us/pl/102/486/s123/b/3/B/i], substituted “(15), (16), (17), and (19)” for “and (14)”.
+    Par. (6)(B). [Pub. L. 102–486][/us/pl/102/486], § 123(b)(3)(B)(i), substituted “(15), (16), (17), and (19)” for “and (14)”.
 
-    Par. (7). [Pub. L. 102–486, § 123(b)(4)][/us/pl/102/486/s123/b/4], inserted “, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewater treatment services likely to be incurred annually,” after “to be consumed annually”.
+    Par. (7). [Pub. L. 102–486][/us/pl/102/486], § 123(b)(4), inserted “, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewater treatment services likely to be incurred annually,” after “to be consumed annually”.
 
-    Pars. (30), (31). [Pub. L. 102–486, § 123(b)(5)][/us/pl/102/486/s123/b/5], added pars. (30) and (31).
+    Pars. (30), (31). [Pub. L. 102–486][/us/pl/102/486], § 123(b)(5), added pars. (30) and (31).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–357, § 2(a)(2)][/us/pl/100/357/s2/a/2], inserted before period at end “, except that such term includes fluorescent lamp ballasts distributed in commerce for personal or commercial use or consumption.”
+    1988—Subsec. (a)(1). [Pub. L. 100–357][/us/pl/100/357], § 2(a)(2), inserted before period at end “, except that such term includes fluorescent lamp ballasts distributed in commerce for personal or commercial use or consumption.”
 
-    Subsec. (a)(6)(B). [Pub. L. 100–357, § 2(a)(3)][/us/pl/100/357/s2/a/3], substituted “(14)” for “(13)”.
+    Subsec. (a)(6)(B). [Pub. L. 100–357][/us/pl/100/357], § 2(a)(3), substituted “(14)” for “(13)”.
 
-    Subsec. (a)(29). [Pub. L. 100–357, § 2(a)(1)][/us/pl/100/357/s2/a/1], added par. (29).
+    Subsec. (a)(29). [Pub. L. 100–357][/us/pl/100/357], § 2(a)(1), added par. (29).
 
-    1987—Subsec. (a)(6). [Pub. L. 100–12, § 2(a)][/us/pl/100/12/s2/a], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘energy efficiency standard’ means a performance standard—
+    1987—Subsec. (a)(6). [Pub. L. 100–12][/us/pl/100/12], § 2(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘energy efficiency standard’ means a performance standard—
 
     “(A) which prescribes a minimum level of energy efficiency for a covered product, determined in accordance with test procedures prescribed under [section 6293 of this title][/us/usc/t42/s6293], and
 
     “(B) which includes any other requirements which the Secretary may prescribe under [section 6295(c) of this title][/us/usc/t42/s6295/c].”
 
-    Subsec. (a)(19) to (28). [Pub. L. 100–12, § 2(b)][/us/pl/100/12/s2/b], added pars. (19) to (28).
+    Subsec. (a)(19) to (28). [Pub. L. 100–12][/us/pl/100/12], § 2(b), added pars. (19) to (28).
 
     1978—Subsec. (a)(3), (6)(B), (9). [Pub. L. 95–619][/us/pl/95/619] substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–210, § 10(a)(13)][/us/pl/112/210/s10/a/13], Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525], provided that: 
+[Pub. L. 112–210][/us/pl/112/210], § 10(a)(13), Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525], provided that: 
 
 > “This subsection \[amending this section and sections 6294, 6295, 6297, 6313, 6314, and 6316 of this title\] and the amendments made by this subsection take effect as if included in the Energy Independence and Security Act of 2007 ([Public Law 110–140][/us/pl/110/140]; [121 Stat. 1492][/us/stat/121/1492]).”
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–140, title III, § 316(a)(2)][/us/pl/110/140/s316/a/2], Dec. 19, 2007, [121 Stat. 1572][/us/stat/121/1572], provided that: 
+[Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 316(a)(2), Dec. 19, 2007, [121 Stat. 1572][/us/stat/121/1572], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] takes effect on August 8, 2005.”
 
@@ -1005,76 +1005,76 @@
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t21/s360c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c
-[/us/pl/94/163/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs321
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F917
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/100/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs2
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F103
-[/us/pl/100/357/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fa
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F671
-[/us/pl/102/486/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2817
-[/us/pl/105/388/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F2
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
-[/us/pl/109/58/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F624
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1549
-[/us/pl/112/210/s10/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F6
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1524
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t42/s6292/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6292%2Fa
-[/us/pl/110/140/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fb
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1593
-[/us/pl/112/210/s10/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F10
-[/us/pl/112/210/s10/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F6
-[/us/pl/112/210/s10/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F7%2FA
-[/us/pl/112/210/s10/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F7%2FB
-[/us/pl/110/140/s316/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fa%2F1
-[/us/pl/109/58/s135/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa%2F1%2FA%2Fii
-[/us/pl/110/140/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fb
-[/us/pl/110/140/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs322%2Fa%2F1
-[/us/pl/110/140/s321/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F1%2FA
-[/us/pl/110/140/s321/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fa%2F1%2FB
-[/us/pl/110/140/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs301%2Fa%2F1
-[/us/pl/110/140/s316/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fc%2F1%2FA
-[/us/pl/110/140/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs301%2Fa%2F2
-[/us/pl/110/140/s316/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fc%2F1%2FB
-[/us/pl/110/140/s322/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs322%2Fa%2F2
-[/us/pl/110/140/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs324%2Fa
-[/us/pl/109/58/s135/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa%2F1%2FA%2Fi
-[/us/pl/109/58/s135/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa%2F1%2FA%2Fii
-[/us/pl/110/140/s316/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fa%2F1
-[/us/pl/109/58/s135/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa%2F1%2FA%2Fiii
-[/us/pl/109/58/s135/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa%2F1%2FB
-[/us/pl/109/58/s135/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa%2F2
-[/us/pl/109/58/s135/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs135%2Fa%2F3
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/usc/t49/s32901/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901%2Fa%2F3
-[/us/pl/102/486/s123/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F1
-[/us/pl/102/486/s123/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F2%2FB
-[/us/pl/102/486/s123/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F2%2FA
-[/us/pl/102/486/s123/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F3%2FB%2Fii
-[/us/pl/102/486/s123/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F3%2FA
-[/us/pl/102/486/s123/b/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F3%2FB%2Fi
-[/us/pl/102/486/s123/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F4
-[/us/pl/102/486/s123/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fb%2F5
-[/us/pl/100/357/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fa%2F2
-[/us/pl/100/357/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fa%2F3
-[/us/pl/100/357/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs2%2Fa%2F1
-[/us/pl/100/12/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs2%2Fa
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/usc/t42/s6293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6293
 [/us/usc/t42/s6295/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fc
-[/us/pl/100/12/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs2%2Fb
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
-[/us/pl/112/210/s10/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F13
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1525
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492
-[/us/pl/110/140/s316/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs316%2Fa%2F2
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1572
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

@@ -85,7 +85,7 @@
 
             (E) to which the Corporation otherwise provides an exemption from this subsection for good cause.
 
-([Pub. L. 101–610, title I, § 189D][/us/pl/101/610/s189D], as added and amended [Pub. L. 111–13, title I][/us/pl/111/13], §§ 1612, 1614(a), Apr. 21, 2009, [123 Stat. 1540][/us/stat/123/1540], 1541.)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 189D, as added and amended [Pub. L. 111–13, title I][/us/pl/111/13/tI], §§ 1612, 1614(a), Apr. 21, 2009, [123 Stat. 1540][/us/stat/123/1540], 1541.)
 
  __References in Text__ 
 
@@ -93,7 +93,7 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 1614(a)][/us/pl/111/13/s1614/a], added subsec. (d).
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 1614(a), added subsec. (d).
 
  __Effective Date__ 
 
@@ -110,13 +110,13 @@
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
 [/us/usc/t18/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1111
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
-[/us/pl/101/610/s189D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs189D
-[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1540
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
-[/us/pl/111/13/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1614%2Fa
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -35,7 +35,7 @@
 
         Funding provided under this section may be used for laboratory equipment and materials.
 
-([Pub. L. 111–358, title V, § 525][/us/pl/111/358/s525], Jan. 4, 2011, [124 Stat. 4019][/us/stat/124/4019].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 525, Jan. 4, 2011, [124 Stat. 4019][/us/stat/124/4019].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t20/s1059c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c
 [/us/usc/t20/s1059d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059d
-[/us/pl/111/358/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs525
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4019
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621

@@ -109,37 +109,37 @@
 
             (B) Any revenues retained by a resident management corporation under subparagraph (A) shall be used for purposes of improving the maintenance and operation of the public housing project, for establishing business enterprises that employ residents of public housing, or for acquiring additional dwelling units for low-income families.
 
-    (f) __, (g) Repealed.__  __[__  __Pub. L. 105–276, title V, § 532(a)(5)__  __][/us/pl/105/276/s532/a/5]__  __,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2575__  __][/us/stat/112/2575]__ 
+    (f) __, (g) Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 532(a)(5),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2575__  __][/us/stat/112/2575]__ 
 
     (h) __Applicability__ 
 
         Any management contract between a public housing agency and a resident management corporation that is entered into after November 7, 1988, shall be subject to this section and the regulations issued to carry out this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 20, as added [Pub. L. 100–242, title I, § 122][/us/pl/100/242/s122], Feb. 5, 1988, [101 Stat. 1839][/us/stat/101/1839]; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; amended [Pub. L. 100–628, title X, § 1003][/us/pl/100/628/s1003], Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title IV, § 415][/us/pl/101/625/s415], title V, §§ 514, 572(1), Nov. 28, 1990, [104 Stat. 4160][/us/stat/104/4160], 4196, 4236; [Pub. L. 102–550, title I, § 117][/us/pl/102/550/s117], Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; [Pub. L. 105–276, title V, § 532(a)][/us/pl/105/276/s532/a], Oct. 21, 1998, [112 Stat. 2574][/us/stat/112/2574].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 20, as added [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 122, Feb. 5, 1988, [101 Stat. 1839][/us/stat/101/1839]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; amended [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1003, Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 415, title V, §§ 514, 572(1), Nov. 28, 1990, [104 Stat. 4160][/us/stat/104/4160], 4196, 4236; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 117, Oct. 28, 1992, [106 Stat. 3695][/us/stat/106/3695]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 532(a), Oct. 21, 1998, [112 Stat. 2574][/us/stat/112/2574].)
 
  __Prior Provisions__ 
 
-    A prior section 1437r, [act Sept. 1, 1937, ch. 896, § 20][/us/act/1937-09-01/ch896/s20], as added Nov. 6, 1986, [Pub. L. 99–603, title I, § 121(b)(6)][/us/pl/99/603/s121/b/6], [100 Stat. 3391][/us/stat/100/3391], related to payment for implementation of immigration status verification system, prior to repeal by [Pub. L. 100–242, § 164(f)(2)][/us/pl/100/242/s164/f/2].
+    A prior section 1437r, [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], § 20, as added Nov. 6, 1986, [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(b)(6), [100 Stat. 3391][/us/stat/100/3391], related to payment for implementation of immigration status verification system, prior to repeal by [Pub. L. 100–242][/us/pl/100/242], § 164(f)(2).
 
  __Amendments__ 
 
-    1998—Subsec. (b)(4). [Pub. L. 105–276, § 532(a)(1)][/us/pl/105/276/s532/a/1], inserted “, rent determination, community service requirements,” after “materials”.
+    1998—Subsec. (b)(4). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(1), inserted “, rent determination, community service requirements,” after “materials”.
 
-    Subsec. (c). [Pub. L. 105–276, § 532(a)(2)][/us/pl/105/276/s532/a/2], added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Public housing projects managed by resident management corporations may be provided with comprehensive improvement assistance under section 1437l of this title for purposes of renovating such projects in accordance with such section. If such renovation activities (including the planning and architectural design of the rehabilitation) are administered by a resident management corporation, the public housing agency involved may not retain, for any administrative or other reason, any portion of the assistance provided pursuant to this subsection unless otherwise provided by contract.”
+    Subsec. (c). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Public housing projects managed by resident management corporations may be provided with comprehensive improvement assistance under section 1437l of this title for purposes of renovating such projects in accordance with such section. If such renovation activities (including the planning and architectural design of the rehabilitation) are administered by a resident management corporation, the public housing agency involved may not retain, for any administrative or other reason, any portion of the assistance provided pursuant to this subsection unless otherwise provided by contract.”
 
-    Subsec. (d)(3), (4). [Pub. L. 105–276, § 532(a)(3)][/us/pl/105/276/s532/a/3], redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “Not later than 6 months after February 5, 1988, the Secretary shall submit to the Congress a report setting forth any additional waivers of Federal law that the Secretary determines are necessary or appropriate to carry out the provisions of this section. In preparing the report, the Secretary shall consult with resident management corporations and public housing agencies.”
+    Subsec. (d)(3), (4). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(3), redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “Not later than 6 months after February 5, 1988, the Secretary shall submit to the Congress a report setting forth any additional waivers of Federal law that the Secretary determines are necessary or appropriate to carry out the provisions of this section. In preparing the report, the Secretary shall consult with resident management corporations and public housing agencies.”
 
-    Subsec. (e)(1) to (3). [Pub. L. 105–276, § 532(a)(4)(B)][/us/pl/105/276/s532/a/4/B], added subsec. heading and pars. (1) to (3) and struck out former subsec. heading and former pars. (1) to (3), which in par. (1), specified amount of operating subsidy to be allocated to a public housing project managed by a resident management corporation; in par. (2), set forth requirements for any contract for management of a project entered into by a public housing agency and a resident management corporation; and in par. (3), prohibited reduction of funds provided by an agency to a project during 3-year period beginning on date on which resident management corporation is first established for the project, and provided for proportional reduction or increase if total income of agency is reduced or increased.
+    Subsec. (e)(1) to (3). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(4)(B), added subsec. heading and pars. (1) to (3) and struck out former subsec. heading and former pars. (1) to (3), which in par. (1), specified amount of operating subsidy to be allocated to a public housing project managed by a resident management corporation; in par. (2), set forth requirements for any contract for management of a project entered into by a public housing agency and a resident management corporation; and in par. (3), prohibited reduction of funds provided by an agency to a project during 3-year period beginning on date on which resident management corporation is first established for the project, and provided for proportional reduction or increase if total income of agency is reduced or increased.
 
-    Subsec. (e)(4), (5). [Pub. L. 105–276, § 532(a)(4)(B)][/us/pl/105/276/s532/a/4/B], added pars. (4) and (5). Former par. (4) redesignated (6).
+    Subsec. (e)(4), (5). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(4)(B), added pars. (4) and (5). Former par. (4) redesignated (6).
 
-    Subsec. (e)(6). [Pub. L. 105–276, § 532(a)(4)(A)][/us/pl/105/276/s532/a/4/A], redesignated par. (4) as (6).
+    Subsec. (e)(6). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(4)(A), redesignated par. (4) as (6).
 
-    Subsec. (e)(6)(A)(i). [Pub. L. 105–276, § 532(a)(4)(C)][/us/pl/105/276/s532/a/4/C], substituted “the allocations from the Operating Fund for” for “the operating subsidies provided to”.
+    Subsec. (e)(6)(A)(i). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(4)(C), substituted “the allocations from the Operating Fund for” for “the operating subsidies provided to”.
 
-    Subsec. (f). [Pub. L. 105–276, § 532(a)(5)][/us/pl/105/276/s532/a/5], struck out heading and text of subsec. (f) which required Secretary to provide financial assistance to resident management corporations or resident councils that obtain technical assistance for the development of resident management entities, limited assistance to $100,000 with respect to any public housing project, authorized appropriations for fiscal years 1993 and 1994, and limited assistance to corporations or councils where assistance was provided under subchapter II–A of this chapter.
+    Subsec. (f). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(5), struck out heading and text of subsec. (f) which required Secretary to provide financial assistance to resident management corporations or resident councils that obtain technical assistance for the development of resident management entities, limited assistance to $100,000 with respect to any public housing project, authorized appropriations for fiscal years 1993 and 1994, and limited assistance to corporations or councils where assistance was provided under subchapter II–A of this chapter.
 
-    Subsec. (g). [Pub. L. 105–276, § 532(a)(5)][/us/pl/105/276/s532/a/5], struck out heading and text of subsec. (g). Text read as follows: “Not later than 3 years after February 5, 1988, the Secretary shall—
+    Subsec. (g). [Pub. L. 105–276][/us/pl/105/276], § 532(a)(5), struck out heading and text of subsec. (g). Text read as follows: “Not later than 3 years after February 5, 1988, the Secretary shall—
 
     “(1) conduct an evaluation and assessment of resident management, and particularly of the effect of resident management on living conditions in public housing; and
 
@@ -147,11 +147,11 @@
 
     1992—Subsec. (f)(3). [Pub. L. 102–550][/us/pl/102/550] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “(3) Funding.—Of amounts made available for financial assistance under section 1437l of this title, the Secretary may use to carry out this subsection not more than $5,000,000 for each of fiscal years 1991 and 1992.”
 
-    1990—Subsec. (e)(4)(B). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families”.
+    1990—Subsec. (e)(4)(B). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families”.
 
-    Subsec. (f)(3). [Pub. L. 101–625, § 514][/us/pl/101/625/s514], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Of the amounts available for financial assistance under section 1437l of this title, the Secretary may use to carry out this subsection not more than $2,500,000 for fiscal year 1988 and not more than $2,500,000 for fiscal year 1989.”
+    Subsec. (f)(3). [Pub. L. 101–625][/us/pl/101/625], § 514, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Of the amounts available for financial assistance under section 1437l of this title, the Secretary may use to carry out this subsection not more than $2,500,000 for fiscal year 1988 and not more than $2,500,000 for fiscal year 1989.”
 
-    Subsec. (f)(4). [Pub. L. 101–625, § 415][/us/pl/101/625/s415], added par. (4).
+    Subsec. (f)(4). [Pub. L. 101–625][/us/pl/101/625], § 415, added par. (4).
 
     1988—Subsec. (h). [Pub. L. 100–628][/us/pl/100/628] added subsec. (h).
 
@@ -173,38 +173,38 @@
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/105/276/s532/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F5
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2575
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/100/242/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs122
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1839
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/100/628/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1003
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3263
-[/us/pl/101/625/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs415
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4160
-[/us/pl/102/550/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs117
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3695
-[/us/pl/105/276/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2574
-[/us/act/1937-09-01/ch896/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896%2Fs20
-[/us/pl/99/603/s121/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fb%2F6
+[/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3391
-[/us/pl/100/242/s164/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs164%2Ff%2F2
-[/us/pl/105/276/s532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F1
-[/us/pl/105/276/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F2
-[/us/pl/105/276/s532/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F3
-[/us/pl/105/276/s532/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F4%2FB
-[/us/pl/105/276/s532/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F4%2FB
-[/us/pl/105/276/s532/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F4%2FA
-[/us/pl/105/276/s532/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F4%2FC
-[/us/pl/105/276/s532/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F5
-[/us/pl/105/276/s532/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs532%2Fa%2F5
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs514
-[/us/pl/101/625/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs415
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503

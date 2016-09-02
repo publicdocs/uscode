@@ -31,11 +31,11 @@
 
     (7) representation of the interests of the United States with respect to the activities and programs under the authority of title 49.
 
-([Pub. L. 109–58, title VIII, § 816][/us/pl/109/58/s816], Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 816, Aug. 8, 2005, [119 Stat. 855][/us/stat/119/855].)
 
  __References in Text__ 
 
-    [Section 5506 of title 49][/us/usc/t49/s5506], referred to in par. (4), was repealed by [Pub. L. 112–141, div. E, title II, § 52010(a)][/us/pl/112/141/s52010/a], July 6, 2012, [126 Stat. 887][/us/stat/126/887].
+    [Section 5506 of title 49][/us/usc/t49/s5506], referred to in par. (4), was repealed by [Pub. L. 112–141, div. E, title II][/us/pl/112/141/dE/tII], § 52010(a), July 6, 2012, [126 Stat. 887][/us/stat/126/887].
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/109/58/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs816
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F855
 [/us/usc/t49/s5506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5506
-[/us/pl/112/141/s52010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52010%2Fa
+[/us/pl/112/141/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdE%2FtII
 [/us/stat/126/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F887
 
 

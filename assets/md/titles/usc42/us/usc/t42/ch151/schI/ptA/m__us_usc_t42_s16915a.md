@@ -57,7 +57,7 @@
 
             A term defined for the purposes of the Sex Offender Registration and Notification Act \[[42 U.S.C. 16901][/us/usc/t42/s16901] et seq.\] has the same meaning in this Act.
 
-([Pub. L. 110–400, § 2][/us/pl/110/400/s2], Oct. 13, 2008, [122 Stat. 4224][/us/stat/122/4224].)
+([Pub. L. 110–400][/us/pl/110/400], § 2, Oct. 13, 2008, [122 Stat. 4224][/us/stat/122/4224].)
 
  __References in Text__ 
 
@@ -82,7 +82,7 @@
 [/us/usc/t42/s16912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16912%2Fb
 [/us/usc/t42/s16918/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16918%2Fb%2F4
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
-[/us/pl/110/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400%2Fs2
+[/us/pl/110/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400
 [/us/stat/122/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4224
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

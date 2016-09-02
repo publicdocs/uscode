@@ -23,7 +23,7 @@
 
         Any individual or entity who receives any funds contained in this subchapter and who carries out any program described in subsection (a) of this section shall account for all funds used for such program separately from any funds contained in this subchapter.
 
-([Pub. L. 93–415, title III, § 389][/us/pl/93/415/s389], as added [Pub. L. 108–96, title I, § 120][/us/pl/108/96/s120], Oct. 10, 2003, [117 Stat. 1171][/us/stat/117/1171].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 389, as added [Pub. L. 108–96, title I][/us/pl/108/96/tI], § 120, Oct. 10, 2003, [117 Stat. 1171][/us/stat/117/1171].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/93/415/s389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs389
-[/us/pl/108/96/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs120
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/108/96/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtI
 [/us/stat/117/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1171
 
 

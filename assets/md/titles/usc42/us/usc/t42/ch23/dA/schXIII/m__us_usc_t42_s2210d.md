@@ -39,7 +39,7 @@
 
         Not less often than once each year, the Commission shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report, in classified form and unclassified form, that describes the results of each security response evaluation conducted and any relevant corrective action taken by a licensee during the previous year.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 170D, as added [Pub. L. 109–58, title VI, § 651(a)(1)][/us/pl/109/58/s651/a/1], Aug. 8, 2005, [119 Stat. 799][/us/stat/119/799].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 170D, as added [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 651(a)(1), Aug. 8, 2005, [119 Stat. 799][/us/stat/119/799].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/109/58/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fa%2F1
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F799
 
 

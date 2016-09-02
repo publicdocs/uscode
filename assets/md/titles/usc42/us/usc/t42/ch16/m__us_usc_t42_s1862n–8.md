@@ -49,7 +49,7 @@
 
         (2) provide notice to the public that such evaluations are available.
 
-([Pub. L. 107–368, § 19][/us/pl/107/368/s19], Dec. 19, 2002, [116 Stat. 3063][/us/stat/116/3063].)
+([Pub. L. 107–368][/us/pl/107/368], § 19, Dec. 19, 2002, [116 Stat. 3063][/us/stat/116/3063].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/107/368/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs19
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3063
 [/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3034

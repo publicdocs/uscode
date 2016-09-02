@@ -81,7 +81,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
 
-([June 4, 1946, ch. 281, § 5][/us/act/1946-06-04/ch281/s5], as added [Pub. L. 108–265, title I, § 101][/us/pl/108/265/s101], June 30, 2004, [118 Stat. 730][/us/stat/118/730].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 5, as added [Pub. L. 108–265, title I][/us/pl/108/265/tI], § 101, June 30, 2004, [118 Stat. 730][/us/stat/118/730].)
 
  __References in Text__ 
 
@@ -89,11 +89,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1754, acts [June 4, 1946, ch. 281, § 5][/us/act/1946-06-04/ch281/s5], [60 Stat. 231][/us/stat/60/231]; [July 12, 1952, ch. 699, § 1(b)][/us/act/1952-07-12/ch699/s1/b], [66 Stat. 591][/us/stat/66/591]; Sept. 25, 1962, [Pub. L. 87–688, § 3(a)][/us/pl/87/688/s3/a], [76 Stat. 587][/us/stat/76/587]; Oct. 15, 1962, [Pub. L. 87–823, § 3(a)][/us/pl/87/823/s3/a], [76 Stat. 945][/us/stat/76/945]; Nov. 10, 1977, [Pub. L. 95–166, § 3][/us/pl/95/166/s3], [91 Stat. 1332][/us/stat/91/1332], related to amount, apportionment, etc., for food service equipment assistance, prior to repeal by [Pub. L. 97–35, title VIII][/us/pl/97/35], §§ 805(a), 820(a)(4), Aug. 13, 1981, [95 Stat. 527][/us/stat/95/527], 534, effective Oct. 1, 1981.
+    A prior section 1754, acts [June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 5, [60 Stat. 231][/us/stat/60/231]; [July 12, 1952, ch. 699][/us/act/1952-07-12/ch699], § 1(b), [66 Stat. 591][/us/stat/66/591]; Sept. 25, 1962, [Pub. L. 87–688][/us/pl/87/688], § 3(a), [76 Stat. 587][/us/stat/76/587]; Oct. 15, 1962, [Pub. L. 87–823][/us/pl/87/823], § 3(a), [76 Stat. 945][/us/stat/76/945]; Nov. 10, 1977, [Pub. L. 95–166][/us/pl/95/166], § 3, [91 Stat. 1332][/us/stat/91/1332], related to amount, apportionment, etc., for food service equipment assistance, prior to repeal by [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], §§ 805(a), 820(a)(4), Aug. 13, 1981, [95 Stat. 527][/us/stat/95/527], 534, effective Oct. 1, 1981.
 
  __Effective Date__ 
 
-[Pub. L. 108–265, title V, § 502][/us/pl/108/265/s502], June 30, 2004, [118 Stat. 789][/us/stat/118/789], as amended by [Pub. L. 108–447, div. A, title VII, § 788(f)][/us/pl/108/447/s788/f], Dec. 8, 2004, [118 Stat. 2851][/us/stat/118/2851], provided that:
+[Pub. L. 108–265, title V][/us/pl/108/265/tV], § 502, June 30, 2004, [118 Stat. 789][/us/stat/118/789], as amended by [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 788(f), Dec. 8, 2004, [118 Stat. 2851][/us/stat/118/2851], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -130,27 +130,27 @@
 
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t42/s1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1761
-[/us/act/1946-06-04/ch281/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs5
-[/us/pl/108/265/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs101
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/108/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtI
 [/us/stat/118/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F730
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/act/1946-06-04/ch281/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs5
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F231
-[/us/act/1952-07-12/ch699/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch699%2Fs1%2Fb
+[/us/act/1952-07-12/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch699
 [/us/stat/66/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F591
-[/us/pl/87/688/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs3%2Fa
+[/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
-[/us/pl/87/823/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823%2Fs3%2Fa
+[/us/pl/87/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823
 [/us/stat/76/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F945
-[/us/pl/95/166/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166%2Fs3
+[/us/pl/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166
 [/us/stat/91/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1332
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F527
-[/us/pl/108/265/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs502
+[/us/pl/108/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtV
 [/us/stat/118/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F789
-[/us/pl/108/447/s788/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs788%2Ff
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2851
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769

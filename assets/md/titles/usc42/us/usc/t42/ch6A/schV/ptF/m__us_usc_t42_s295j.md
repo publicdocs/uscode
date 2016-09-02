@@ -63,13 +63,13 @@
 
             (G) The program provides a placement mechanism for deploying graduates to medically underserved communities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 791, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2058][/us/stat/106/2058]; amended [Pub. L. 102–531, title III, § 313(a)(5)][/us/pl/102/531/s313/a/5], Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507]; [Pub. L. 105–392, title I][/us/pl/105/392], §§ 106(a)(2)(B), 107, Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], 3560; [Pub. L. 111–148, title V, § 5103(c)][/us/pl/111/148/s5103/c], Mar. 23, 2010, [124 Stat. 605][/us/stat/124/605].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 791, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2058][/us/stat/106/2058]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 313(a)(5), Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507]; [Pub. L. 105–392, title I][/us/pl/105/392/tI], §§ 106(a)(2)(B), 107, Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], 3560; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5103(c), Mar. 23, 2010, [124 Stat. 605][/us/stat/124/605].)
 
  __Prior Provisions__ 
 
-    A prior section 295j, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 799A, as added Nov. 4, 1988, [Pub. L. 100–607, title VI, § 637(a)][/us/pl/100/607/s637/a], [102 Stat. 3149][/us/stat/102/3149]; amended Nov. 18, 1988, [Pub. L. 100–690, title II, § 2615(g)][/us/pl/100/690/s2615/g]\[(i)\], [102 Stat. 4240][/us/stat/102/4240]; Aug. 16, 1989, [Pub. L. 101–93, § 5(n)][/us/pl/101/93/s5/n], [103 Stat. 613][/us/stat/103/613], related to grants and contracts to provide health care in rural areas, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
+    A prior section 295j, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 799A, as added Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 637(a), [102 Stat. 3149][/us/stat/102/3149]; amended Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2615(g)\[(i)\], [102 Stat. 4240][/us/stat/102/4240]; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 5(n), [103 Stat. 613][/us/stat/103/613], related to grants and contracts to provide health care in rural areas, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
-    Another prior section 295j, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 799A, as added Nov. 23, 1988, [Pub. L. 100–713, title VII, § 714][/us/pl/100/713/s714], [102 Stat. 4834][/us/stat/102/4834], relating to grants and contracts to provide health care in rural areas, prior to repeal by [Pub. L. 100–607, title VI, § 637(b)][/us/pl/100/607/s637/b], Nov. 4, 1988, [102 Stat. 3151][/us/stat/102/3151]. Subsequently, [section 637(b) of Pub. L. 100–607][/us/pl/100/607/s637/b] was repealed by [Pub. L. 101–93, § 5(n)(1)][/us/pl/101/93/s5/n/1], Aug. 16, 1989, [103 Stat. 613][/us/stat/103/613], and [section 5(n)(2) of Pub. L. 101–93][/us/pl/101/93/s5/n/2] amended this subchapter to read as if the amendment made by [section 714 of Pub. L. 100–713][/us/pl/100/713/s714] had not been enacted.
+    Another prior section 295j, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 799A, as added Nov. 23, 1988, [Pub. L. 100–713, title VII][/us/pl/100/713/tVII], § 714, [102 Stat. 4834][/us/stat/102/4834], relating to grants and contracts to provide health care in rural areas, prior to repeal by [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 637(b), Nov. 4, 1988, [102 Stat. 3151][/us/stat/102/3151]. Subsequently, [section 637(b) of Pub. L. 100–607][/us/pl/100/607/s637/b] was repealed by [Pub. L. 101–93][/us/pl/101/93], § 5(n)(1), Aug. 16, 1989, [103 Stat. 613][/us/stat/103/613], and [section 5(n)(2) of Pub. L. 101–93][/us/pl/101/93/s5/n/2] amended this subchapter to read as if the amendment made by [section 714 of Pub. L. 100–713][/us/pl/100/713/s714] had not been enacted.
 
     A prior section 791 of act July 1, 1944, was classified to [section 295h of this title][/us/usc/t42/s295h] prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
@@ -77,11 +77,11 @@
 
     2010—Subsec. (a)(1)(C). [Pub. L. 111–148][/us/pl/111/148] added subpar. (C).
 
-    1998—Subsec. (a)(1). [Pub. L. 105–392, § 107(b)(1)][/us/pl/105/392/s107/b/1], substituted “sections 293k and 294 of this title” for “sections 293k through 293o of this title, under [section 294b of this title][/us/usc/t42/s294b], or under section 294d or 294e of this title” in introductory provisions.
+    1998—Subsec. (a)(1). [Pub. L. 105–392][/us/pl/105/392], § 107(b)(1), substituted “sections 293k and 294 of this title” for “sections 293k through 293o of this title, under [section 294b of this title][/us/usc/t42/s294b], or under section 294d or 294e of this title” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 105–392, § 107(b)(2)][/us/pl/105/392/s107/b/2], struck out “under section 295o(a) of this title” before period at end.
+    Subsec. (a)(2). [Pub. L. 105–392][/us/pl/105/392], § 107(b)(2), struck out “under section 295o(a) of this title” before period at end.
 
-    Subsec. (b). [Pub. L. 105–392, § 106(a)(2)(B)][/us/pl/105/392/s106/a/2/B], redesignated subsec. (c) as (b) and struck out former subsec. (b) which required submission of certain information by applicant.
+    Subsec. (b). [Pub. L. 105–392][/us/pl/105/392], § 106(a)(2)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which required submission of certain information by applicant.
 
     Subsec. (c). [Pub. L. 105–392][/us/pl/105/392], §§ 106(a)(2)(B)(ii), 107(a), added subsec. (c) and redesignated former subsec. (c) as (b).
 
@@ -93,7 +93,7 @@
 
  __Required Assurances Regarding Bloodborne Diseases__ 
 
-[Pub. L. 102–408, title III, § 308][/us/pl/102/408/s308], Oct. 13, 1992, [106 Stat. 2089][/us/stat/106/2089], provided that: 
+[Pub. L. 102–408, title III][/us/pl/102/408/tIII], § 308, Oct. 13, 1992, [106 Stat. 2089][/us/stat/106/2089], provided that: 
 
 > “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act \[[42 U.S.C. 292][/us/usc/t42/s292] et seq., 296 et seq.\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
 
@@ -107,39 +107,39 @@
 [/us/usc/t42/s294n/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n%2Fd%2F2
 [/us/usc/t42/s294n/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n%2Fb%2F2%2FE
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2058
-[/us/pl/102/531/s313/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs313%2Fa%2F5
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3507
-[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3557
-[/us/pl/111/148/s5103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5103%2Fc
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F605
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs637%2Fa
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3149
-[/us/pl/100/690/s2615/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2615%2Fg
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4240
-[/us/pl/101/93/s5/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fn
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F613
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/713/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs714
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/100/713/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtVII
 [/us/stat/102/4834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4834
-[/us/pl/100/607/s637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs637%2Fb
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3151
 [/us/pl/100/607/s637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs637%2Fb
-[/us/pl/101/93/s5/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fn%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F613
 [/us/pl/101/93/s5/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fn%2F2
 [/us/pl/100/713/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs714
 [/us/usc/t42/s295h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295h
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/105/392/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs107%2Fb%2F1
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/usc/t42/s294b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294b
-[/us/pl/105/392/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs107%2Fb%2F2
-[/us/pl/105/392/s106/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs106%2Fa%2F2%2FB
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/usc/t42/s293p/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293p%2Fa
@@ -147,7 +147,7 @@
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/pl/102/531/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs313%2Fc
 [/us/usc/t42/s292y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292y
-[/us/pl/102/408/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs308
+[/us/pl/102/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtIII
 [/us/stat/106/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2089
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
 

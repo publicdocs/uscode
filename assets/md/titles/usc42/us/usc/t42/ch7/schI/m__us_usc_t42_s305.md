@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title I, § 5, [49 Stat. 622][/us/stat/49/622], made an appropriation for the fiscal year ending June 30, 1936.
+    Section, [act Aug. 14, 1935, ch. 531, title I][/us/act/1935-08-14/ch531/tI], § 5, [49 Stat. 622][/us/stat/49/622], made an appropriation for the fiscal year ending June 30, 1936.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtI
 [/us/stat/49/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F622
 
 

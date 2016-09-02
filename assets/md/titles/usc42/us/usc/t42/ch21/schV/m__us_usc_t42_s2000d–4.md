@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall add to or detract from any existing authority with respect to any program or activity under which Federal financial assistance is extended by way of a contract of insurance or guaranty.
 
-([Pub. L. 88–352, title VI, § 605][/us/pl/88/352/s605], July 2, 1964, [78 Stat. 253][/us/stat/78/253].)
+([Pub. L. 88–352, title VI][/us/pl/88/352/tVI], § 605, July 2, 1964, [78 Stat. 253][/us/stat/78/253].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs605
+[/us/pl/88/352/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVI
 [/us/stat/78/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F253
 
 

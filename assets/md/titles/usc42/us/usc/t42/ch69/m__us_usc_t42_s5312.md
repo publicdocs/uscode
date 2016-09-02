@@ -29,7 +29,7 @@
 
         Upon application by any local public agency carrying out an urban renewal project under title I of the Housing Act of 1949 \[[42 U.S.C. 1450][/us/usc/t42/s1450] et seq.\], which application is approved by the governing body of the unit of general local government in which the project is located, the Secretary may approve a financial settlement of such project if he finds that a surplus of capital grant funds after full repayment of temporary loan indebtedness will result and may authorize the unit of general local government to use such surplus funds, without deduction or offset, in accordance with the provisions of this chapter.
 
-([Pub. L. 93–383, title I, § 112][/us/pl/93/383/s112], Aug. 22, 1974, [88 Stat. 650][/us/stat/88/650]; [Pub. L. 97–35, title III, § 309(k)][/us/pl/97/35/s309/k], Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 109\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168]; [Pub. L. 98–479, title I, § 101(a)(13)(A)][/us/pl/98/479/s101/a/13/A], Oct. 17, 1984, [98 Stat. 2220][/us/stat/98/2220].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 112, Aug. 22, 1974, [88 Stat. 650][/us/stat/88/650]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 309(k), Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 109\], Nov. 30, 1983, [97 Stat. 1168][/us/stat/97/1168]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 101(a)(13)(A), Oct. 17, 1984, [98 Stat. 2220][/us/stat/98/2220].)
 
  __References in Text__ 
 
@@ -64,13 +64,13 @@
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/usc/t42/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1450
 [/us/usc/t42/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1450
-[/us/pl/93/383/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs112
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F650
-[/us/pl/97/35/s309/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs309%2Fk
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F397
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1168
-[/us/pl/98/479/s101/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fa%2F13%2FA
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2220
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

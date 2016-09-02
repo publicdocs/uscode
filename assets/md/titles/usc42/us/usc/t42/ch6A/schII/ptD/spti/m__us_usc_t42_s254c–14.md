@@ -341,15 +341,15 @@
 
         (2) for grants under subsection (d)(2) of this section, $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330I, as added [Pub. L. 107–251, title II, § 212][/us/pl/107/251/s212], Oct. 26, 2002, [116 Stat. 1632][/us/stat/116/1632]; amended [Pub. L. 108–163, § 2(c)][/us/pl/108/163/s2/c], Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021]; [Pub. L. 113–55, title I, § 103(a)][/us/pl/113/55/s103/a], Nov. 27, 2013, [127 Stat. 642][/us/stat/127/642].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330I, as added [Pub. L. 107–251, title II][/us/pl/107/251/tII], § 212, Oct. 26, 2002, [116 Stat. 1632][/us/stat/116/1632]; amended [Pub. L. 108–163][/us/pl/108/163], § 2(c), Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021]; [Pub. L. 113–55, title I][/us/pl/113/55/tI], § 103(a), Nov. 27, 2013, [127 Stat. 642][/us/stat/127/642].)
 
  __Amendments__ 
 
     2013—Subsec. (i)(1)(B). [Pub. L. 113–55][/us/pl/113/55] substituted “case management services, or prenatal care for high-risk pregnancies” for “or case management services”.
 
-    2003—Subsec. (a)(4). [Pub. L. 108–163, § 2(c)(1)][/us/pl/108/163/s2/c/1], substituted “section 295p(6)” for “section 295p”.
+    2003—Subsec. (a)(4). [Pub. L. 108–163][/us/pl/108/163], § 2(c)(1), substituted “section 295p(6)” for “section 295p”.
 
-    Subsec. (c)(1). [Pub. L. 108–163, § 2(c)(2)][/us/pl/108/163/s2/c/2], substituted “Health Resources and Services Administration” for “Health and Resources and Services Administration”.
+    Subsec. (c)(1). [Pub. L. 108–163][/us/pl/108/163], § 2(c)(2), substituted “Health Resources and Services Administration” for “Health and Resources and Services Administration”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -369,15 +369,15 @@
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/251/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs212
+[/us/pl/107/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtII
 [/us/stat/116/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1632
-[/us/pl/108/163/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fc
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2021
-[/us/pl/113/55/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fa
+[/us/pl/113/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2FtI
 [/us/stat/127/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F642
 [/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
-[/us/pl/108/163/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fc%2F1
-[/us/pl/108/163/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fc%2F2
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3

@@ -73,7 +73,7 @@
 
         Each department and agency listed in subsection (a)(1) of this section shall report to the Secretary on the status and implementation of the requirements of this section. The Secretary shall include a summary of each such report in the annual report to Congress as required under [section 8258(b) of this title][/us/usc/t42/s8258/b].
 
-([Pub. L. 102–486, title I, § 157][/us/pl/102/486/s157], Oct. 24, 1992, [106 Stat. 2856][/us/stat/106/2856].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 157, Oct. 24, 1992, [106 Stat. 2856][/us/stat/106/2856].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 [/us/usc/t42/s8262/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262%2F3
 [/us/usc/t42/s8258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258
 [/us/usc/t42/s8258/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258%2Fb
-[/us/pl/102/486/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs157
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2856
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

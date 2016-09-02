@@ -97,23 +97,23 @@
 
         (4) take any appropriate combination of such actions.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 119, as added [Pub. L. 95–95, title I, § 117(b)][/us/pl/95/95/s117/b], Aug. 7, 1977, [91 Stat. 712][/us/stat/91/712]; amended [Pub. L. 95–190, § 14(a)(25)][/us/pl/95/190/s14/a/25]–(27), Nov. 16, 1977, [91 Stat. 1401][/us/stat/91/1401].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 119, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 117(b), Aug. 7, 1977, [91 Stat. 712][/us/stat/91/712]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(25)–(27), Nov. 16, 1977, [91 Stat. 1401][/us/stat/91/1401].)
 
  __References in Text__ 
 
-    [Section 7413(d) of this title][/us/usc/t42/s7413/d], referred to in subsec. (a)(2)(A), was amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders.
+    [Section 7413(d) of this title][/us/usc/t42/s7413/d], referred to in subsec. (a)(2)(A), was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders.
 
  __Prior Provisions__ 
 
-    A prior section 119 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, as added June 22, 1974, [Pub. L. 93–319, § 3][/us/pl/93/319/s3], [88 Stat. 248][/us/stat/88/248], was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10] and provided for the authority to deal with energy shortages, prior to repeal by [Pub. L. 95–95, title I, § 112(b)(1)][/us/pl/95/95/s112/b/1], Aug. 7, 1977, [91 Stat. 709][/us/stat/91/709], which provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5].
+    A prior section 119 of [act July 14, 1955, ch. 360, title I][/us/act/1955-07-14/ch360/tI], as added June 22, 1974, [Pub. L. 93–319][/us/pl/93/319], § 3, [88 Stat. 248][/us/stat/88/248], was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10] and provided for the authority to deal with energy shortages, prior to repeal by [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 112(b)(1), Aug. 7, 1977, [91 Stat. 709][/us/stat/91/709], which provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5].
 
  __Amendments__ 
 
-    1977—Subsec. (a)(3). [Pub. L. 95–190, § 14(a)(25)][/us/pl/95/190/s14/a/25], added par. (3).
+    1977—Subsec. (a)(3). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(25), added par. (3).
 
-    Subsec. (d)(3). [Pub. L. 95–190, § 14(a)(26)][/us/pl/95/190/s14/a/26], substituted “7621” for “7619”.
+    Subsec. (d)(3). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(26), substituted “7621” for “7619”.
 
-    Subsec. (e). [Pub. L. 95–190, § 14(a)(27)][/us/pl/95/190/s14/a/27], substituted “an order under this section” for “such order”.
+    Subsec. (e). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(27), substituted “an order under this section” for “such order”.
 
  __Effective Date__ 
 
@@ -135,24 +135,24 @@
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
 [/us/usc/t42/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7420
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs117%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F712
-[/us/pl/95/190/s14/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F25
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1401
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/93/319/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs3
+[/us/act/1955-07-14/ch360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtI
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F248
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
-[/us/pl/95/95/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fb%2F1
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F709
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t42/s7413/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd%2F5
-[/us/pl/95/190/s14/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F25
-[/us/pl/95/190/s14/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F26
-[/us/pl/95/190/s14/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F27
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95

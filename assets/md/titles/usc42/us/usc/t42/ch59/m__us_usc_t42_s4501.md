@@ -17,7 +17,7 @@
 
     It is the policy of the Congress and the purpose of this chapter to provide for the development of a national urban policy and to encourage the rational, orderly, efficient, and economic growth, development, and redevelopment of our States, metropolitan areas, cities, counties, towns, and communities in predominantly rural areas which demonstrate a special potential for accelerated growth; to encourage the prudent use and conservation of energy and our natural resources; and to encourage and support development which will assure our communities and their residents of adequate tax bases, community services, job opportunities, and good housing in well-balanced neighborhoods in socially, economically, and physically attractive living environments.
 
-([Pub. L. 91–609, title VII, § 701(b)][/us/pl/91/609/s701/b], Dec. 31, 1970, [84 Stat. 1791][/us/stat/84/1791]; [Pub. L. 95–128, title VI, § 601(a)(2)][/us/pl/95/128/s601/a/2]–(5), Oct. 12, 1977, [91 Stat. 1143][/us/stat/91/1143].)
+([Pub. L. 91–609, title VII][/us/pl/91/609/tVII], § 701(b), Dec. 31, 1970, [84 Stat. 1791][/us/stat/84/1791]; [Pub. L. 95–128, title VI][/us/pl/95/128/tVI], § 601(a)(2)–(5), Oct. 12, 1977, [91 Stat. 1143][/us/stat/91/1143].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Short Title__ 
 
-[Section 701(a) of title VII of Pub. L. 91–609][/us/pl/91/609/s701/a], as amended by [Pub. L. 95–128, title VI, § 601(a)(1)][/us/pl/95/128/s601/a/1], Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142], provided that: 
+[Section 701(a) of title VII of Pub. L. 91–609][/us/pl/91/609/tVII/s701/a], as amended by [Pub. L. 95–128, title VI][/us/pl/95/128/tVI], § 601(a)(1), Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142], provided that: 
 
 > “This title \[enacting this chapter, amending sections 1453, 1460, and 1492, of this title, sections 371 and 1464 of Title 12, Banks and Banking, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under [section 1453 of this title][/us/usc/t42/s1453]\] may be cited as the ‘National Urban Policy and New Community Development Act of 1970’.”
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/pl/91/609/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs701%2Fb
+[/us/pl/91/609/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtVII
 [/us/stat/84/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1791
-[/us/pl/95/128/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fa%2F2
+[/us/pl/95/128/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVI
 [/us/stat/91/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1143
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 [/us/stat/84/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1791
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
-[/us/pl/91/609/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs701%2Fa
-[/us/pl/95/128/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fa%2F1
+[/us/pl/91/609/tVII/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtVII%2Fs701%2Fa
+[/us/pl/95/128/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVI
 [/us/stat/91/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1142
 [/us/usc/t42/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1453
 

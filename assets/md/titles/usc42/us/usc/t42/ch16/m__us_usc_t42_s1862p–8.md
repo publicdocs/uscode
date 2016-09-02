@@ -17,7 +17,7 @@
 
     The Director shall, in consultation with appropriate Federal agencies, identify ways to use cyber-enabled learning to create an innovative STEM workforce and to help retrain and retain our existing STEM workforce to address national challenges, including national security and competitiveness, and use technology to enhance or supplement laboratory based learning.
 
-([Pub. L. 111–358, title V, § 516][/us/pl/111/358/s516], Jan. 4, 2011, [124 Stat. 4012][/us/stat/124/4012].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 516, Jan. 4, 2011, [124 Stat. 4012][/us/stat/124/4012].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs516
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4012
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621

@@ -35,15 +35,15 @@
 
         The Director of National Institutes of Health shall establish peer review mechanisms to evaluate applications for the awards and fellowships provided for in subsection (b)(2) of this section and section 284l of this title. Such review mechanisms shall include individuals who are exceptionally qualified to appraise the merits of potential clinical research training and research grant proposals.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409G, formerly § 409C, as added [Pub. L. 106–505, title II, § 203][/us/pl/106/505/s203], Nov. 13, 2000, [114 Stat. 2326][/us/stat/114/2326]; renumbered § 409G, [Pub. L. 107–109, § 3(1)][/us/pl/107/109/s3/1], Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409G, formerly § 409C, as added [Pub. L. 106–505, title II][/us/pl/106/505/tII], § 203, Nov. 13, 2000, [114 Stat. 2326][/us/stat/114/2326]; renumbered § 409G, [Pub. L. 107–109][/us/pl/107/109], § 3(1), Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408].)
 
  __References in Text__ 
 
-    Section 284l of this title, referred to in subsec. (d), was in the original “section 409D”, and was translated as meaning section 409D of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [section 204(b) of Pub. L. 106–505][/us/pl/106/505/s204/b]. Such section 409D was renumbered section 409H of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], by [Pub. L. 107–109, § 3(2)][/us/pl/107/109/s3/2], Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408]. Another section 409D of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [section 1001 of Pub. L. 106–310][/us/pl/106/310/s1001], is classified to [section 284h of this title][/us/usc/t42/s284h].
+    Section 284l of this title, referred to in subsec. (d), was in the original “section 409D”, and was translated as meaning section 409D of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [section 204(b) of Pub. L. 106–505][/us/pl/106/505/s204/b]. Such section 409D was renumbered section 409H of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], by [Pub. L. 107–109][/us/pl/107/109], § 3(2), Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408]. Another section 409D of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], as added by [section 1001 of Pub. L. 106–310][/us/pl/106/310/s1001], is classified to [section 284h of this title][/us/usc/t42/s284h].
 
  __Findings and Purpose__ 
 
-[Pub. L. 106–505, title II, § 202][/us/pl/106/505/s202], Nov. 13, 2000, [114 Stat. 2325][/us/stat/114/2325], provided that:
+[Pub. L. 106–505, title II][/us/pl/106/505/tII], § 202, Nov. 13, 2000, [114 Stat. 2325][/us/stat/114/2325], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -103,7 +103,7 @@
 
  __Oversight by GAO__ 
 
-    [Pub. L. 106–505, title II, § 207][/us/pl/106/505/s207], Nov. 13, 2000, [114 Stat. 2330][/us/stat/114/2330], provided that, not later than 18 months after Nov. 13, 2000, the Comptroller General was to submit to Congress a report describing the extent to which the National Institutes of Health had complied with the amendments made by title II of [Pub. L. 106–505][/us/pl/106/505].
+    [Pub. L. 106–505, title II][/us/pl/106/505/tII], § 207, Nov. 13, 2000, [114 Stat. 2330][/us/stat/114/2330], provided that, not later than 18 months after Nov. 13, 2000, the Comptroller General was to submit to Congress a report describing the extent to which the National Institutes of Health had complied with the amendments made by title II of [Pub. L. 106–505][/us/pl/106/505].
 
 ----------
 
@@ -113,22 +113,22 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs203
+[/us/pl/106/505/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtII
 [/us/stat/114/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2326
-[/us/pl/107/109/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs3%2F1
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1408
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/106/505/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs204%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/109/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs3%2F2
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1408
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/106/310/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1001
 [/us/usc/t42/s284h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284h
-[/us/pl/106/505/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs202
+[/us/pl/106/505/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtII
 [/us/stat/114/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2325
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/106/505/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs207
+[/us/pl/106/505/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtII
 [/us/stat/114/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2330
 [/us/pl/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505
 

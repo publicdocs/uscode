@@ -27,13 +27,13 @@
 
         Insofar as practicable, direct reallocations under this section shall be made according to the selection criteria established under [section 12747(c) of this title][/us/usc/t42/s12747/c].
 
-([Pub. L. 101–625, title II, § 231][/us/pl/101/625/s231], Nov. 28, 1990, [104 Stat. 4114][/us/stat/104/4114]; [Pub. L. 102–550, title II, § 212(a)][/us/pl/102/550/s212/a], (b), Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 231, Nov. 28, 1990, [104 Stat. 4114][/us/stat/104/4114]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 212(a), (b), Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757].)
 
  __Amendments__ 
 
     1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550] substituted “24” for “18” in first sentence and inserted after second sentence “If during the first 24 months of its participation under this subchapter, a participating jurisdiction is unable to identify a sufficient number of capable community housing development organizations, then up to 20 percent of the funds allocated to that jurisdiction under this section, but not to exceed $150,000, may be made available to carry out activities that develop the capacity of community housing development organizations in that jurisdiction.”
 
-    Subsec. (b). [Pub. L. 102–550, § 212(a)][/us/pl/102/550/s212/a], substituted “24” for “18”.
+    Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 212(a), substituted “24” for “18”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t42/s12773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12773
 [/us/usc/t42/s12747/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747%2Fc
-[/us/pl/101/625/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs231
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4114
-[/us/pl/102/550/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs212%2Fa
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3757
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/102/550/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs212%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704

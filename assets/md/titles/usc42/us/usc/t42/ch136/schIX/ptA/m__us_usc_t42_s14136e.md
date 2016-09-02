@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
-([Pub. L. 108–405, title IV, § 412][/us/pl/108/405/s412], Oct. 30, 2004, [118 Stat. 2284][/us/stat/118/2284].)
+([Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 412, Oct. 30, 2004, [118 Stat. 2284][/us/stat/118/2284].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/405/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs412
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2284
 
 

@@ -31,11 +31,11 @@
 
         when the furnishing of supplies or equipment or the detail of an officer or employee is for the convenience of and at the request of the State and for the purpose of conducting activities described in [section 300w–3 of this title][/us/usc/t42/s300w–3]. The amount by which any payment is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment or in detailing the personnel, on which the reduction of the payment is based, and the amount shall be deemed to be part of the payment and shall be deemed to have been paid to the State.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1903, as added [Pub. L. 97–35, title IX, § 901][/us/pl/97/35/s901], Aug. 13, 1981, [95 Stat. 537][/us/stat/95/537].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1903, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 901, Aug. 13, 1981, [95 Stat. 537][/us/stat/95/537].)
 
  __Codification__ 
 
-    In subsec. (a)(1), “[section 6503(a) of title 31][/us/usc/t31/s6503/a]” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 ([42 U.S.C. 4213][/us/usc/t42/s4213])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a)(1), “[section 6503(a) of title 31][/us/usc/t31/s6503/a]” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 ([42 U.S.C. 4213][/us/usc/t42/s4213])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -49,11 +49,11 @@
 [/us/usc/t42/s300w–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%931%2Fd
 [/us/usc/t42/s300w–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300w%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs901
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F537
 [/us/usc/t31/s6503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503%2Fa
 [/us/usc/t42/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4213
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

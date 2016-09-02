@@ -17,7 +17,7 @@
 
     Persons temporarily employed by or at the Foundation shall be subject to the same financial disclosure requirements and related sanctions under the Ethics in Government Act of 1978 (5 U.S.C. App.) as are permanent employees of the Foundation in equivalent positions.
 
-([Pub. L. 105–207, title II, § 204][/us/pl/105/207/s204], July 29, 1998, [112 Stat. 876][/us/stat/112/876].)
+([Pub. L. 105–207, title II][/us/pl/105/207/tII], § 204, July 29, 1998, [112 Stat. 876][/us/stat/112/876].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/105/207/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs204
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F876
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824

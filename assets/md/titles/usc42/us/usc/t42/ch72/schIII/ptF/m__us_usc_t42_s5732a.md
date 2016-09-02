@@ -145,17 +145,17 @@
 
             (iii) who is at risk of entering the child welfare system or juvenile justice system as a result of the lack of services available to the family to meet such needs.
 
-([Pub. L. 93–415, title III, § 387][/us/pl/93/415/s387], as added [Pub. L. 106–71, § 3(p)][/us/pl/106/71/s3/p], Oct. 12, 1999, [113 Stat. 1041][/us/stat/113/1041]; amended [Pub. L. 108–96, title I, § 116][/us/pl/108/96/s116], Oct. 10, 2003, [117 Stat. 1170][/us/stat/117/1170]; [Pub. L. 110–378, § 10][/us/pl/110/378/s10], Oct. 8, 2008, [122 Stat. 4072][/us/stat/122/4072].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 387, as added [Pub. L. 106–71][/us/pl/106/71], § 3(p), Oct. 12, 1999, [113 Stat. 1041][/us/stat/113/1041]; amended [Pub. L. 108–96, title I][/us/pl/108/96/tI], § 116, Oct. 10, 2003, [117 Stat. 1170][/us/stat/117/1170]; [Pub. L. 110–378][/us/pl/110/378], § 10, Oct. 8, 2008, [122 Stat. 4072][/us/stat/122/4072].)
 
  __Amendments__ 
 
-    2008—Par. (3). [Pub. L. 110–378, § 10(a)(1)][/us/pl/110/378/s10/a/1], substituted “The term ‘homeless’, used with respect to a youth, means” for “The term ‘homeless youth’ means” in introductory provisions.
+    2008—Par. (3). [Pub. L. 110–378][/us/pl/110/378], § 10(a)(1), substituted “The term ‘homeless’, used with respect to a youth, means” for “The term ‘homeless youth’ means” in introductory provisions.
 
-    Par. (3)(A)(i). [Pub. L. 110–378, § 10(a)(2)(A)][/us/pl/110/378/s10/a/2/A], substituted “less than” for “not more than” in two places and inserted “, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities” after “18 years of age”.
+    Par. (3)(A)(i). [Pub. L. 110–378][/us/pl/110/378], § 10(a)(2)(A), substituted “less than” for “not more than” in two places and inserted “, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities” after “18 years of age”.
 
-    Par. (3)(A)(ii). [Pub. L. 110–378, § 10(a)(2)(B)][/us/pl/110/378/s10/a/2/B], substituted “age and either—” for “age;” and added subcls. (I) and (II).
+    Par. (3)(A)(ii). [Pub. L. 110–378][/us/pl/110/378], § 10(a)(2)(B), substituted “age and either—” for “age;” and added subcls. (I) and (II).
 
-    Pars. (4) to (8). [Pub. L. 110–378, § 10(b)][/us/pl/110/378/s10/b], added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
+    Pars. (4) to (8). [Pub. L. 110–378][/us/pl/110/378], § 10(b), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
     2003—Subsec. (3)(A)(i). [Pub. L. 108–96][/us/pl/108/96] inserted “, or, in the case of a youth seeking shelter in a center under part A of this subchapter, not more than 18 years of age” after “of age”.
 
@@ -167,17 +167,17 @@
 ----------
 
 [/us/usc/t42/s5714–2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5714%E2%80%932%2Fa%2F2
-[/us/pl/93/415/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs387
-[/us/pl/106/71/s3/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fp
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1041
-[/us/pl/108/96/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2Fs116
+[/us/pl/108/96/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96%2FtI
 [/us/stat/117/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1170
-[/us/pl/110/378/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs10
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
 [/us/stat/122/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4072
-[/us/pl/110/378/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs10%2Fa%2F1
-[/us/pl/110/378/s10/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs10%2Fa%2F2%2FA
-[/us/pl/110/378/s10/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs10%2Fa%2F2%2FB
-[/us/pl/110/378/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs10%2Fb
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
+[/us/pl/110/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378
 [/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
 
 

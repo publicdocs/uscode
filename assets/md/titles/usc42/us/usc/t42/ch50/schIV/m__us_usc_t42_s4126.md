@@ -17,7 +17,7 @@
 
     Any administrative expenses which may be sustained by the Federal Government in carrying out the flood insurance and floodplain management programs authorized under this chapter may be paid with amounts from the National Flood Insurance Fund (as provided under [section 4017(a)(4) of this title][/us/usc/t42/s4017/a/4]), subject to approval in appropriations Acts.
 
-([Pub. L. 90–448, title XIII, § 1375][/us/pl/90/448/s1375], Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589]; [Pub. L. 101–508, title II, § 2302(e)(4)][/us/pl/101/508/s2302/e/4], Nov. 5, 1990, [104 Stat. 1388–25][/us/stat/104/1388-25].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1375, Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589]; [Pub. L. 101–508, title II][/us/pl/101/508/tII], § 2302(e)(4), Nov. 5, 1990, [104 Stat. 1388–25][/us/stat/104/1388-25].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t42/s4017/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4017%2Fa%2F4
-[/us/pl/90/448/s1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1375
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F589
-[/us/pl/101/508/s2302/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2302%2Fe%2F4
+[/us/pl/101/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtII
 [/us/stat/104/1388-25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-25
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572

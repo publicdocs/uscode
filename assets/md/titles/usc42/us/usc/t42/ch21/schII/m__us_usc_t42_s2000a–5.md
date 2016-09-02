@@ -27,7 +27,7 @@
 
         It shall be the duty of the judge designated pursuant to this section to assign the case for hearing at the earliest practicable date and to cause the case to be in every way expedited.
 
-([Pub. L. 88–352, title II, § 206][/us/pl/88/352/s206], July 2, 1964, [78 Stat. 245][/us/stat/78/245].)
+([Pub. L. 88–352, title II][/us/pl/88/352/tII], § 206, July 2, 1964, [78 Stat. 245][/us/stat/78/245].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs206
+[/us/pl/88/352/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtII
 [/us/stat/78/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F245
 
 

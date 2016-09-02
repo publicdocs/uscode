@@ -55,7 +55,7 @@
 
             The amount of any grant under this subsection may not exceed $50,000 for a single grant recipient. The President may waive the $50,000 limitation in any case where such waiver is necessary to carry out the purposes of this subsection. Each grant recipient shall be required, as a condition of the grant, to contribute at least 20 percent of the total of costs of the technical assistance for which such grant is made. The President may waive the 20 percent contribution requirement if the grant recipient demonstrates financial need and such waiver is necessary to facilitate public participation in the selection of remedial action at the facility. Not more than one grant may be made under this subsection with respect to a single facility, but the grant may be renewed to facilitate public participation at all stages of remedial action.
 
-([Pub. L. 96–510, title I, § 117][/us/pl/96/510/s117], as added [Pub. L. 99–499, title I, § 117][/us/pl/99/499/s117], Oct. 17, 1986, [100 Stat. 1654][/us/stat/100/1654].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 117, as added [Pub. L. 99–499, title I][/us/pl/99/499/tI], § 117, Oct. 17, 1986, [100 Stat. 1654][/us/stat/100/1654].)
 
 ----------
 
@@ -68,8 +68,8 @@
 [/us/usc/t42/s9606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9606
 [/us/usc/t42/s9606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9606
 [/us/usc/t42/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9622
-[/us/pl/96/510/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs117
-[/us/pl/99/499/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs117
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1654
 
 

@@ -69,7 +69,7 @@
 
         (4) the procurement practices of the manufacturer do not discriminate against United States producers of vehicle parts.
 
-([Pub. L. 102–486, title VI, § 612][/us/pl/102/486/s612], Oct. 24, 1992, [106 Stat. 2901][/us/stat/106/2901].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 612, Oct. 24, 1992, [106 Stat. 2901][/us/stat/106/2901].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t42/s13283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13283
 [/us/usc/t42/s13283/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13283%2Fc
 [/us/usc/t42/s13286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13286
-[/us/pl/102/486/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs612
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2901
 
 

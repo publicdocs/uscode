@@ -45,13 +45,13 @@
 
         There is authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 2010 through 2012. Amounts appropriated under this subsection shall remain available until expended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 759, as added [Pub. L. 111–148, title IV, § 4305(c)][/us/pl/111/148/s4305/c], Mar. 23, 2010, [124 Stat. 586][/us/stat/124/586].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 759, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4305(c), Mar. 23, 2010, [124 Stat. 586][/us/stat/124/586].)
 
  __Prior Provisions__ 
 
-    A prior section 294i, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 771, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2049][/us/stat/106/2049], authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
+    A prior section 294i, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 771, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2049][/us/stat/106/2049], authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
 
-    Another prior section 294i, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 736, as added Oct. 12, 1976, [Pub. L. 94–484, title IV, § 401(b)(3)][/us/pl/94/484/s401/b/3], [90 Stat. 2265][/us/stat/90/2265]; amended Aug. 1, 1977, [Pub. L. 95–83, title III, § 307(d)][/us/pl/95/83/s307/d], [91 Stat. 390][/us/stat/91/390], related to participation by Federal credit unions in Federal, State, and private student loan insurance programs, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292k of this title][/us/usc/t42/s292k].
+    Another prior section 294i, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 736, as added Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 401(b)(3), [90 Stat. 2265][/us/stat/90/2265]; amended Aug. 1, 1977, [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 307(d), [91 Stat. 390][/us/stat/91/390], related to participation by Federal credit unions in Federal, State, and private student loan insurance programs, prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408]. See [section 292k of this title][/us/usc/t42/s292k].
 
     A prior section 759 of act July 1, 1944, was classified to [section 294aa of this title][/us/usc/t42/s294aa] prior to the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
@@ -63,16 +63,16 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4305%2Fc
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F586
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2049
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs401%2Fb%2F3
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2265
-[/us/pl/95/83/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs307%2Fd
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F390
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s292k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292k

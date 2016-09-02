@@ -17,7 +17,7 @@
 
     In carrying out this chapter, the Secretary shall consult on an ongoing basis with the Administrator of the Environmental Protection Agency, the Director of the Centers for Disease Control, other Federal agencies concerned with lead poisoning prevention, and the task force established pursuant to [section 4852a of this title][/us/usc/t42/s4852a].
 
-([Pub. L. 102–550, title X, § 1016][/us/pl/102/550/s1016], Oct. 28, 1992, [106 Stat. 3909][/us/stat/106/3909].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1016, Oct. 28, 1992, [106 Stat. 3909][/us/stat/106/3909].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
 ----------
 
@@ -35,12 +35,12 @@
 ----------
 
 [/us/usc/t42/s4852a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4852a
-[/us/pl/102/550/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1016
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3909
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897
 [/us/usc/t42/s4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

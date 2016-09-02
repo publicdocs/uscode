@@ -77,7 +77,7 @@
 
         (4) Such sums as are necessary for each of fiscal years 2009 and 2010.
 
-([Pub. L. 109–58, title VII, § 742][/us/pl/109/58/s742], Aug. 8, 2005, [119 Stat. 824][/us/stat/119/824].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 742, Aug. 8, 2005, [119 Stat. 824][/us/stat/119/824].)
 
 ----------
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs742
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F824
 
 

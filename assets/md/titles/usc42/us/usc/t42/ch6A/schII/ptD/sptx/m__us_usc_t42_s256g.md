@@ -93,7 +93,7 @@
 
         There is authorized to be appropriated to carry out this section, $25,000,000 for the 5-fiscal year period beginning with fiscal year 2008.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340G, as added [Pub. L. 107–251, title IV, § 403][/us/pl/107/251/s403], Oct. 26, 2002, [116 Stat. 1661][/us/stat/116/1661]; amended [Pub. L. 110–355, § 5][/us/pl/110/355/s5], Oct. 8, 2008, [122 Stat. 3994][/us/stat/122/3994].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340G, as added [Pub. L. 107–251, title IV][/us/pl/107/251/tIV], § 403, Oct. 26, 2002, [116 Stat. 1661][/us/stat/116/1661]; amended [Pub. L. 110–355][/us/pl/110/355], § 5, Oct. 8, 2008, [122 Stat. 3994][/us/stat/122/3994].)
 
  __References in Text__ 
 
@@ -112,9 +112,9 @@
 
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/251/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs403
+[/us/pl/107/251/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIV
 [/us/stat/116/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1661
-[/us/pl/110/355/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355%2Fs5
+[/us/pl/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F355
 [/us/stat/122/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3994
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

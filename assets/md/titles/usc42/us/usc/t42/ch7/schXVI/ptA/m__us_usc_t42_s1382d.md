@@ -25,9 +25,9 @@
 
         the Commissioner of Social Security shall make provision for referral of such individual to the appropriate State agency administering the State program under subchapter V of this chapter.
 
-    (b) __Repealed.__  __[__  __Pub. L. 97–35, title XXI, § 2193(c)(8)(B)__  __][/us/pl/97/35/s2193/c/8/B]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 828__  __][/us/stat/95/828]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 97–35, title XXI__  __][/us/pl/97/35/tXXI]__  __, § 2193(c)(8)(B),__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 828__  __][/us/stat/95/828]__ 
 
-    (c) __Repealed.__  __[__  __Pub. L. 106–170, title I, § 101(b)(2)(B)__  __][/us/pl/106/170/s101/b/2/B]__  __,__  __Dec. 17, 1999__  __,__  __[__  __113 Stat. 1874__  __][/us/stat/113/1874]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 106–170, title I__  __][/us/pl/106/170/tI]__  __, § 101(b)(2)(B),__  __Dec. 17, 1999__  __,__  __[__  __113 Stat. 1874__  __][/us/stat/113/1874]__ 
 
     (d) __Reimbursement by Commissioner to State agency of costs of providing services to referred individuals__ 
 
@@ -57,7 +57,7 @@
 
             (C) a federally administered State supplementary payment under [section 1382e of this title][/us/usc/t42/s1382e] or [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1615, as added [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1474][/us/stat/86/1474]; amended [Pub. L. 94–566, title V, § 501(a)][/us/pl/94/566/s501/a], Oct. 20, 1976, [90 Stat. 2683][/us/stat/90/2683]; [Pub. L. 96–272, title III, § 304][/us/pl/96/272/s304], June 17, 1980, [94 Stat. 529][/us/stat/94/529]; [Pub. L. 97–35, title XXI, § 2193(a)(4)][/us/pl/97/35/s2193/a/4], (c)(8), title XXIII, § 2344, Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827], 828, 867; [Pub. L. 98–369, div. B, title VI, § 2663(g)(8)][/us/pl/98/369/s2663/g/8], July 18, 1984, [98 Stat. 1169][/us/stat/98/1169]; [Pub. L. 98–460, § 11(b)][/us/pl/98/460/s11/b], Oct. 9, 1984, [98 Stat. 1806][/us/stat/98/1806]; [Pub. L. 101–508, title V, § 5037(a)][/us/pl/101/508/s5037/a], Nov. 5, 1990, [104 Stat. 1388–226][/us/stat/104/1388-226]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 105–33, title V, § 5523][/us/pl/105/33/s5523], Aug. 5, 1997, [111 Stat. 623][/us/stat/111/623]; [Pub. L. 106–170, title I, § 101(b)(2)(A)][/us/pl/106/170/s101/b/2/A], (B), Dec. 17, 1999, [113 Stat. 1874][/us/stat/113/1874].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1615, as added [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 301, Oct. 30, 1972, [86 Stat. 1474][/us/stat/86/1474]; amended [Pub. L. 94–566, title V][/us/pl/94/566/tV], § 501(a), Oct. 20, 1976, [90 Stat. 2683][/us/stat/90/2683]; [Pub. L. 96–272, title III][/us/pl/96/272/tIII], § 304, June 17, 1980, [94 Stat. 529][/us/stat/94/529]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(a)(4), (c)(8), title XXIII, § 2344, Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827], 828, 867; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(g)(8), July 18, 1984, [98 Stat. 1169][/us/stat/98/1169]; [Pub. L. 98–460][/us/pl/98/460], § 11(b), Oct. 9, 1984, [98 Stat. 1806][/us/stat/98/1806]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5037(a), Nov. 5, 1990, [104 Stat. 1388–226][/us/stat/104/1388-226]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5523, Aug. 5, 1997, [111 Stat. 623][/us/stat/111/623]; [Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(b)(2)(A), (B), Dec. 17, 1999, [113 Stat. 1874][/us/stat/113/1874].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–170, § 101(b)(2)(A)][/us/pl/106/170/s101/b/2/A], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of any blind or disabled individual who—
+    1999—Subsec. (a). [Pub. L. 106–170][/us/pl/106/170], § 101(b)(2)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of any blind or disabled individual who—
 
     “(1) has not attained age 65, and
 
@@ -75,11 +75,11 @@
 
     the Commissioner of Social Security shall make provision for referral of such individual to the appropriate State agency administering the State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973, or, in the case of any such individual who has not attained age 16, to the State agency administering the State program under subchapter V of this chapter, and (except for individuals who have not attained age 16 and except in such other cases as the Commissioner may determine) for a review not less often than quarterly of such individual’s blindness or disability and his need for and utilization of the services made available to him under such plan.”
 
-    Subsec. (c). [Pub. L. 106–170, § 101(b)(2)(B)][/us/pl/106/170/s101/b/2/B], struck out subsec. (c) which read as follows: “Every individual age 16 or over with respect to whom the Commissioner of Social Security is required to make provision for referral under subsection (a) of this section shall accept such services as are made available to him under the State plan for vocational and rehabilitation services approved under title I of the Rehabilitation Act of 1973; and no such individual shall be an eligible individual or eligible spouse for purposes of this subchapter if he refuses without good cause to accept services for which he is referred under subsection (a) of this section.”
+    Subsec. (c). [Pub. L. 106–170][/us/pl/106/170], § 101(b)(2)(B), struck out subsec. (c) which read as follows: “Every individual age 16 or over with respect to whom the Commissioner of Social Security is required to make provision for referral under subsection (a) of this section shall accept such services as are made available to him under the State plan for vocational and rehabilitation services approved under title I of the Rehabilitation Act of 1973; and no such individual shall be an eligible individual or eligible spouse for purposes of this subchapter if he refuses without good cause to accept services for which he is referred under subsection (a) of this section.”
 
-    1997—Subsec. (d). [Pub. L. 105–33, § 5523(2)][/us/pl/105/33/s5523/2], substituted “the Commissioner” for “him” after “determined by” in last sentence.
+    1997—Subsec. (d). [Pub. L. 105–33][/us/pl/105/33], § 5523(2), substituted “the Commissioner” for “him” after “determined by” in last sentence.
 
-    [Pub. L. 105–33, § 5523(1)][/us/pl/105/33/s5523/1], which directed insertion of comma after “subsection (a)(1)” in first sentence, was executed by making the insertion after “subsection (a) of this section” to reflect the probable intent of Congress.
+    [Pub. L. 105–33][/us/pl/105/33], § 5523(1), which directed insertion of comma after “subsection (a)(1)” in first sentence, was executed by making the insertion after “subsection (a) of this section” to reflect the probable intent of Congress.
 
     1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296] in closing provisions substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner may” for “he may”.
 
@@ -91,23 +91,23 @@
 
     1990—Subsec. (e). [Pub. L. 101–508][/us/pl/101/508] added subsec. (e).
 
-    1984—Subsecs. (a), (c). [Pub. L. 98–369, § 2663(g)(8)][/us/pl/98/369/s2663/g/8], substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
+    1984—Subsecs. (a), (c). [Pub. L. 98–369][/us/pl/98/369], § 2663(g)(8), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
 
-    Subsec. (d). [Pub. L. 98–460, § 11(b)][/us/pl/98/460/s11/b], designated existing provisions of first sentence as cl. (1), added cls. (2) and (3), and inserted requirement that the determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity and the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation be made by the Commissioner of Social Security in accordance with criteria determined by him in the same manner as under [section 422(d)(1) of this title][/us/usc/t42/s422/d/1].
+    Subsec. (d). [Pub. L. 98–460][/us/pl/98/460], § 11(b), designated existing provisions of first sentence as cl. (1), added cls. (2) and (3), and inserted requirement that the determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity and the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation be made by the Commissioner of Social Security in accordance with criteria determined by him in the same manner as under [section 422(d)(1) of this title][/us/usc/t42/s422/d/1].
 
-    [Pub. L. 98–369, § 2663(g)(8)][/us/pl/98/369/s2663/g/8], substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
+    [Pub. L. 98–369][/us/pl/98/369], § 2663(g)(8), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 2193(c)(8)(A)][/us/pl/97/35/s2193/c/8/A], substituted “State agency administering the State program under subchapter V of this chapter (except for individuals who have not attained age 16 and except in such other cases” for “appropriate State agency administering the State plan under subsection (b) of this section, and (except in such cases”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(8)(A), substituted “State agency administering the State program under subchapter V of this chapter (except for individuals who have not attained age 16 and except in such other cases” for “appropriate State agency administering the State plan under subsection (b) of this section, and (except in such cases”.
 
-    Subsec. (b). [Pub. L. 97–35, § 2193(c)(8)(B)][/us/pl/97/35/s2193/c/8/B], struck out subsec. (b) which provided criteria for approval of State plans.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(8)(B), struck out subsec. (b) which provided criteria for approval of State plans.
 
-    Subsec. (d). [Pub. L. 97–35, § 2344][/us/pl/97/35/s2344], substituted “is authorized to reimburse” for “is authorized to pay to”, “for the costs incurred” for “the costs incurred”, and “individuals who are referred for such services pursuant to subsection (a) of this section if such services result in their performance of substantial gainful activity which lasts for a continuous period of nine months” for “individuals referred for such services pursuant to subsection (a) of this section” and inserted provision that determination of the amount to be reimbursed be made by the Commissioner of Social Security in accordance with criteria determined by him in the same manner as under [section 422(d)(1) of this title][/us/usc/t42/s422/d/1].
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 2344, substituted “is authorized to reimburse” for “is authorized to pay to”, “for the costs incurred” for “the costs incurred”, and “individuals who are referred for such services pursuant to subsection (a) of this section if such services result in their performance of substantial gainful activity which lasts for a continuous period of nine months” for “individuals referred for such services pursuant to subsection (a) of this section” and inserted provision that determination of the amount to be reimbursed be made by the Commissioner of Social Security in accordance with criteria determined by him in the same manner as under [section 422(d)(1) of this title][/us/usc/t42/s422/d/1].
 
-    Subsec. (e). [Pub. L. 97–35, § 2193(c)(8)(B)][/us/pl/97/35/s2193/c/8/B], struck out subsec. (e) which provided for payment by the Secretary to a State agency charged with administering a State plan under subsec. (b), of the costs incurred each fiscal year from Sept. 30, 1976, to Oct. 1, 1982, in carrying out such State plan.
+    Subsec. (e). [Pub. L. 97–35][/us/pl/97/35], § 2193(c)(8)(B), struck out subsec. (e) which provided for payment by the Secretary to a State agency charged with administering a State plan under subsec. (b), of the costs incurred each fiscal year from Sept. 30, 1976, to Oct. 1, 1982, in carrying out such State plan.
 
-    Subsec. (e)(1). [Pub. L. 97–35, § 2193(a)(4)(A)][/us/pl/97/35/s2193/a/4/A], inserted “and subject to section 2194(b)(3) of the Maternal and Child Health Services Block Grant Act”.
+    Subsec. (e)(1). [Pub. L. 97–35][/us/pl/97/35], § 2193(a)(4)(A), inserted “and subject to section 2194(b)(3) of the Maternal and Child Health Services Block Grant Act”.
 
-    Subsec. (e)(3). [Pub. L. 97–35, § 2193(a)(4)(B)][/us/pl/97/35/s2193/a/4/B], substituted “$24,070,000” for “$30,000,000”.
+    Subsec. (e)(3). [Pub. L. 97–35][/us/pl/97/35], § 2193(a)(4)(B), substituted “$24,070,000” for “$30,000,000”.
 
     1980—Subsec. (e). [Pub. L. 96–272][/us/pl/96/272] corrected the error under which subsec. (e) had been added as (c) by [Pub. L. 94–566][/us/pl/94/566] and, in subsec. (e)(1) as so designated, substituted “October 1, 1982” for “October 1, 1979”.
 
@@ -135,7 +135,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title V, § 5037(b)][/us/pl/101/508/s5037/b], Nov. 5, 1990, [104 Stat. 1388–226][/us/stat/104/1388-226], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5037(b), Nov. 5, 1990, [104 Stat. 1388–226][/us/stat/104/1388-226], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\] and shall apply to claims for reimbursement pending on or after such date.”
 
@@ -147,19 +147,19 @@
 
  __Effective and Termination Dates of 1981 Amendment__ 
 
-    [Pub. L. 97–35, title XXI, § 2193(a)(4)(B)][/us/pl/97/35/s2193/a/4/B], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827], provided that the amendment made by that section is effective for fiscal year 1982.
+    [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(a)(4)(B), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827], provided that the amendment made by that section is effective for fiscal year 1982.
 
     For effective date, savings, and transitional provisions relating to amendments by section 2193(a)(4)(A) and (c)(8) of [Pub. L. 97–35][/us/pl/97/35], see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
 
-    [Pub. L. 97–35, title XXIII, § 2344][/us/pl/97/35/s2344], Aug. 13, 1981, [95 Stat. 867][/us/stat/95/867], provided that the amendment made by that section is effective Oct. 1, 1981.
+    [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2344, Aug. 13, 1981, [95 Stat. 867][/us/stat/95/867], provided that the amendment made by that section is effective Oct. 1, 1981.
 
  __Effective Date__ 
 
-    [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], provided that this section is effective Jan. 1, 1974.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 301, Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], provided that this section is effective Jan. 1, 1974.
 
  __Publication of Criteria__ 
 
-    [Pub. L. 94–566, title V, § 501(b)][/us/pl/94/566/s501/b], Oct. 20, 1976, [90 Stat. 2685][/us/stat/90/2685], directed Secretary, within 120 days after Oct. 20, 1976, to publish criteria to be employed to determine disability (as defined in subsec. (a)(3) of this section) in the case of persons who have not attained the age of 18.
+    [Pub. L. 94–566, title V][/us/pl/94/566/tV], § 501(b), Oct. 20, 1976, [90 Stat. 2685][/us/stat/90/2685], directed Secretary, within 120 days after Oct. 20, 1976, to publish criteria to be employed to determine disability (as defined in subsec. (a)(3) of this section) in the case of persons who have not attained the age of 18.
 
  __Application to Northern Mariana Islands__ 
 
@@ -176,9 +176,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s2193/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F8%2FB
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F828
-[/us/pl/106/170/s101/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F2%2FB
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1874
 [/us/usc/t29/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720
 [/us/usc/t42/s1383/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F6
@@ -190,25 +190,25 @@
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1474
-[/us/pl/94/566/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs501%2Fa
+[/us/pl/94/566/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtV
 [/us/stat/90/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2683
-[/us/pl/96/272/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs304
+[/us/pl/96/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2FtIII
 [/us/stat/94/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F529
-[/us/pl/97/35/s2193/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F4
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
-[/us/pl/98/369/s2663/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F8
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1169
-[/us/pl/98/460/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs11%2Fb
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1806
-[/us/pl/101/508/s5037/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5037%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-226
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/105/33/s5523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5523
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F623
-[/us/pl/106/170/s101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F2%2FA
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1874
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
@@ -217,26 +217,26 @@
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/stat/87/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F155
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
-[/us/pl/106/170/s101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F2%2FA
-[/us/pl/106/170/s101/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F2%2FB
-[/us/pl/105/33/s5523/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5523%2F2
-[/us/pl/105/33/s5523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5523%2F1
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/98/369/s2663/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F8
-[/us/pl/98/460/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs11%2Fb
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/usc/t42/s422/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fd%2F1
-[/us/pl/98/369/s2663/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F8
-[/us/pl/97/35/s2193/c/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F8%2FA
-[/us/pl/97/35/s2193/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F8%2FB
-[/us/pl/97/35/s2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2344
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s422/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fd%2F1
-[/us/pl/97/35/s2193/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fc%2F8%2FB
-[/us/pl/97/35/s2193/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F4%2FA
-[/us/pl/97/35/s2193/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F4%2FB
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
@@ -255,7 +255,7 @@
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/101/508/s5037/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5037%2Fb
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-226
 [/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/usc/t42/s1383/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F6
@@ -264,16 +264,16 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/97/35/s2193/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F4%2FB
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/97/35/s2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2344
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F867
-[/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
-[/us/pl/94/566/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs501%2Fb
+[/us/pl/94/566/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtV
 [/us/stat/90/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2685
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603

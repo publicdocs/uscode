@@ -87,7 +87,7 @@
 
         The term “State” means any State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 96–573, § 2][/us/pl/96/573/s2], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842]; amended [Pub. L. 109–58, title VI, § 651(e)(3)(B)][/us/pl/109/58/s651/e/3/B], Aug. 8, 2005, [119 Stat. 808][/us/stat/119/808].)
+([Pub. L. 96–573][/us/pl/96/573], § 2, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842]; amended [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 651(e)(3)(B), Aug. 8, 2005, [119 Stat. 808][/us/stat/119/808].)
 
  __Codification__ 
 
@@ -95,7 +95,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2021b, [Pub. L. 96–573, § 2][/us/pl/96/573/s2], Dec. 22, 1980, [94 Stat. 3347][/us/stat/94/3347], related to definitions respecting low-level radioactive waste policy as used in former sections 2021b to 2021d of this title, prior to repeal by [Pub. L. 99–240, § 102][/us/pl/99/240/s102].
+    A prior section 2021b, [Pub. L. 96–573][/us/pl/96/573], § 2, Dec. 22, 1980, [94 Stat. 3347][/us/stat/94/3347], related to definitions respecting low-level radioactive waste policy as used in former sections 2021b to 2021d of this title, prior to repeal by [Pub. L. 99–240][/us/pl/99/240], § 102.
 
  __Amendments__ 
 
@@ -103,17 +103,17 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–240, title I, § 101][/us/pl/99/240/s101], Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842], provided that: 
+[Pub. L. 99–240, title I][/us/pl/99/240/tI], § 101, Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842], provided that: 
 
 > “This Title \[enacting this section and sections 2021c to 2021j of this title, repealing former sections 2021b to 2021d of this title, and enacting and repealing a provision set out as a note under this section\] may be cited as the ‘Low-Level Radioactive Waste Policy Amendments Act of 1985’.”
 
  __Short Title__ 
 
-[Pub. L. 96–573, § 1][/us/pl/96/573/s1], as added by [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842], provided that: 
+[Pub. L. 96–573][/us/pl/96/573], § 1, as added by [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842], provided that: 
 
 > “This Act \[enacting sections 2021b to 2021j of this title\] may be cited as the ‘Low-Level Radioactive Waste Policy Act’.”
 
-    A prior [section 1 of Pub. L. 96–573][/us/pl/96/573/s1], which provided that [Pub. L. 96–573][/us/pl/96/573] \[enacting former sections 2021b to 2021d of this title\] could be cited as the “Low-Level Radioactive Waste Policy Act”, was repealed by [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842].
+    A prior [section 1 of Pub. L. 96–573][/us/pl/96/573/s1], which provided that [Pub. L. 96–573][/us/pl/96/573] \[enacting former sections 2021b to 2021d of this title\] could be cited as the “Low-Level Radioactive Waste Policy Act”, was repealed by [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1842][/us/stat/99/1842].
 
 ----------
 
@@ -125,23 +125,23 @@
 [/us/usc/t42/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/usc/t42/s2014/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe
-[/us/pl/96/573/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs2
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1842
-[/us/pl/109/58/s651/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs651%2Fe%2F3%2FB
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F808
-[/us/pl/96/573/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs2
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
 [/us/stat/94/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3347
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/99/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/99/240/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs101
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1842
-[/us/pl/96/573/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs1
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1842
 [/us/pl/96/573/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs1
 [/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1842
 
 

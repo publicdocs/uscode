@@ -27,7 +27,7 @@
 
         No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5611][/us/usc/t42/s5611] et seq.) for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
-([Pub. L. 101–647, title II, § 224][/us/pl/101/647/s224], Nov. 29, 1990, [104 Stat. 4798][/us/stat/104/4798]; [Pub. L. 103–322, title IV, § 40156(b)(1)][/us/pl/103/322/s40156/b/1], Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923]; [Pub. L. 106–386, div. B, title III, § 1302(b)][/us/pl/106/386/s1302/b], Oct. 28, 2000, [114 Stat. 1511][/us/stat/114/1511]; [Pub. L. 113–4, title XI, § 1105][/us/pl/113/4/s1105], Mar. 7, 2013, [127 Stat. 135][/us/stat/127/135].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 224, Nov. 29, 1990, [104 Stat. 4798][/us/stat/104/4798]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(b)(1), Sept. 13, 1994, [108 Stat. 1923][/us/stat/108/1923]; [Pub. L. 106–386, div. B, title III][/us/pl/106/386/dB/tIII], § 1302(b), Oct. 28, 2000, [114 Stat. 1511][/us/stat/114/1511]; [Pub. L. 113–4, title XI][/us/pl/113/4/tXI], § 1105, Mar. 7, 2013, [127 Stat. 135][/us/stat/127/135].)
 
  __References in Text__ 
 
@@ -64,13 +64,13 @@
 
 [/us/usc/t42/s13023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13023%2Fb
 [/us/usc/t42/s5611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5611
-[/us/pl/101/647/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs224
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4798
-[/us/pl/103/322/s40156/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fb%2F1
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1923
-[/us/pl/106/386/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1302%2Fb
+[/us/pl/106/386/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIII
 [/us/stat/114/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1511
-[/us/pl/113/4/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1105
+[/us/pl/113/4/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXI
 [/us/stat/127/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F135
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109

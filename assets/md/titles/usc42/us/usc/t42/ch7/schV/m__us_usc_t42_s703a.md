@@ -17,27 +17,27 @@
 
  __Codification__ 
 
-Section, [Pub. L. 90–132, title II][/us/pl/90/132], Nov. 8, 1967, [81 Stat. 404][/us/stat/81/404], which provided for approval by Secretary of any State plan which provided standards for professional obstetrical services in accordance with the laws of the State, was not repeated in the Department of Health, Education, and Welfare Appropriation Act, 1969. Similar provisions were contained in the following prior appropriation acts:
+Section, [Pub. L. 90–132, title II][/us/pl/90/132/tII], Nov. 8, 1967, [81 Stat. 404][/us/stat/81/404], which provided for approval by Secretary of any State plan which provided standards for professional obstetrical services in accordance with the laws of the State, was not repeated in the Department of Health, Education, and Welfare Appropriation Act, 1969. Similar provisions were contained in the following prior appropriation acts:
 
-    Nov. 7, 1966, [Pub. L. 87–787, title II][/us/pl/87/787], [80 Stat. 1397][/us/stat/80/1397].
+    Nov. 7, 1966, [Pub. L. 87–787, title II][/us/pl/87/787/tII], [80 Stat. 1397][/us/stat/80/1397].
 
-    Aug. 31, 1965, [Pub. L. 89–156, title II][/us/pl/89/156], [79 Stat. 605][/us/stat/79/605].
+    Aug. 31, 1965, [Pub. L. 89–156, title II][/us/pl/89/156/tII], [79 Stat. 605][/us/stat/79/605].
 
-    Sept. 19, 1964, [Pub. L. 88–605, title II][/us/pl/88/605], [78 Stat. 976][/us/stat/78/976].
+    Sept. 19, 1964, [Pub. L. 88–605, title II][/us/pl/88/605/tII], [78 Stat. 976][/us/stat/78/976].
 
-    Oct. 11, 1963, [Pub. L. 88–136, title II][/us/pl/88/136], [77 Stat. 240][/us/stat/77/240].
+    Oct. 11, 1963, [Pub. L. 88–136, title II][/us/pl/88/136/tII], [77 Stat. 240][/us/stat/77/240].
 
-    Aug. 14, 1962, [Pub. L. 87–582, title II][/us/pl/87/582], [76 Stat. 376][/us/stat/76/376].
+    Aug. 14, 1962, [Pub. L. 87–582, title II][/us/pl/87/582/tII], [76 Stat. 376][/us/stat/76/376].
 
-    Sept. 22, 1961, [Pub. L. 87–290, title II][/us/pl/87/290], [75 Stat. 605][/us/stat/75/605].
+    Sept. 22, 1961, [Pub. L. 87–290, title II][/us/pl/87/290/tII], [75 Stat. 605][/us/stat/75/605].
 
-    Sept. 2, 1960, [Pub. L. 86–703, title II][/us/pl/86/703], [74 Stat. 770][/us/stat/74/770].
+    Sept. 2, 1960, [Pub. L. 86–703, title II][/us/pl/86/703/tII], [74 Stat. 770][/us/stat/74/770].
 
-    Aug. 14, 1959, [Pub. L. 86–158, title II][/us/pl/86/158], [73 Stat. 353][/us/stat/73/353].
+    Aug. 14, 1959, [Pub. L. 86–158, title II][/us/pl/86/158/tII], [73 Stat. 353][/us/stat/73/353].
 
-    Aug. 1, 1958, [Pub. L. 85–580, title II][/us/pl/85/580], [72 Stat. 472][/us/stat/72/472].
+    Aug. 1, 1958, [Pub. L. 85–580, title II][/us/pl/85/580/tII], [72 Stat. 472][/us/stat/72/472].
 
-    June 29, 1957, [Pub. L. 85–67, title II][/us/pl/85/67], [71 Stat. 222][/us/stat/71/222].
+    June 29, 1957, [Pub. L. 85–67, title II][/us/pl/85/67/tII], [71 Stat. 222][/us/stat/71/222].
 
     [June 29, 1956, ch. 477][/us/act/1956-06-29/ch477], title II, [70 Stat. 434][/us/stat/70/434].
 
@@ -70,27 +70,27 @@ Section, [Pub. L. 90–132, title II][/us/pl/90/132], Nov. 8, 1967, [81 Stat. 40
 ----------
 ----------
 
-[/us/pl/90/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F132
+[/us/pl/90/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F132%2FtII
 [/us/stat/81/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F404
-[/us/pl/87/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F787
+[/us/pl/87/787/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F787%2FtII
 [/us/stat/80/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1397
-[/us/pl/89/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F156
+[/us/pl/89/156/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F156%2FtII
 [/us/stat/79/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F605
-[/us/pl/88/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F605
+[/us/pl/88/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F605%2FtII
 [/us/stat/78/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F976
-[/us/pl/88/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F136
+[/us/pl/88/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F136%2FtII
 [/us/stat/77/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F240
-[/us/pl/87/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F582
+[/us/pl/87/582/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F582%2FtII
 [/us/stat/76/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F376
-[/us/pl/87/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F290
+[/us/pl/87/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F290%2FtII
 [/us/stat/75/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F605
-[/us/pl/86/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F703
+[/us/pl/86/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F703%2FtII
 [/us/stat/74/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F770
-[/us/pl/86/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F158
+[/us/pl/86/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F158%2FtII
 [/us/stat/73/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F353
-[/us/pl/85/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F580
+[/us/pl/85/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F580%2FtII
 [/us/stat/72/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F472
-[/us/pl/85/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F67
+[/us/pl/85/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F67%2FtII
 [/us/stat/71/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F222
 [/us/act/1956-06-29/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch477
 [/us/stat/70/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F434

@@ -45,7 +45,7 @@
 
             The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act \[[21 U.S.C. 812][/us/usc/t21/s812]\].
 
-([Pub. L. 101–336, title V, § 511][/us/pl/101/336/s511], formerly § 510, July 26, 1990, [104 Stat. 375][/us/stat/104/375]; renumbered § 511 and amended [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], (3), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 511, formerly § 510, July 26, 1990, [104 Stat. 375][/us/stat/104/375]; renumbered § 511 and amended [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), (3), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–325, § 6(a)(3)][/us/pl/110/325/s6/a/3], made technical amendment to reference in original act which appears in text as reference to [section 12211(b)(3) of this title][/us/usc/t42/s12211/b/3].
+    2008—Subsec. (c). [Pub. L. 110–325][/us/pl/110/325], § 6(a)(3), made technical amendment to reference in original act which appears in text as reference to [section 12211(b)(3) of this title][/us/usc/t42/s12211/b/3].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -75,9 +75,9 @@
 [/us/usc/t42/s12211/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12211%2Fb%2F3
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
-[/us/pl/101/336/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs511
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F375
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
@@ -87,7 +87,7 @@
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/101/336/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs511
 [/us/usc/t42/s12211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12211
-[/us/pl/110/325/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F3
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/usc/t42/s12211/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12211%2Fb%2F3
 [/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/pl/110/325/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs8

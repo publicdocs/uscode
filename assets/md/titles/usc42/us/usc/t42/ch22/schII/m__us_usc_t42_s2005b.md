@@ -21,7 +21,7 @@
 
     (b) obtain such assurances and agreements as in his judgment are equitable in the light of the financial assistance provided under this subchapter and are necessary to assure the availability of the facility for the provision of hospital and medical care to Indians and to assure that the hospital is operated in compliance with State standards for operation and maintenance of hospitals which receive Federal aid under title VI of the Public Health Service Act \[[42 U.S.C. 291][/us/usc/t42/s291] et seq.\].
 
-([Pub. L. 85–151, § 3][/us/pl/85/151/s3], Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
+([Pub. L. 85–151][/us/pl/85/151], § 3, Aug. 16, 1957, [71 Stat. 371][/us/stat/71/371].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t42/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2005
 [/us/usc/t42/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291
-[/us/pl/85/151/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151%2Fs3
+[/us/pl/85/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F151
 [/us/stat/71/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F371
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

@@ -271,11 +271,11 @@
 
         (5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-([Pub. L. 108–458, title I, § 1061][/us/pl/108/458/s1061], Dec. 17, 2004, [118 Stat. 3684][/us/stat/118/3684]; [Pub. L. 110–53, title VIII, § 801(a)][/us/pl/110/53/s801/a], Aug. 3, 2007, [121 Stat. 352][/us/stat/121/352]; [Pub. L. 114–113, div. M, title III, § 305][/us/pl/114/113/s305], Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1061, Dec. 17, 2004, [118 Stat. 3684][/us/stat/118/3684]; [Pub. L. 110–53, title VIII][/us/pl/110/53/tVIII], § 801(a), Aug. 3, 2007, [121 Stat. 352][/us/stat/121/352]; [Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 305, Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
 
  __References in Text__ 
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (i)(2), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (i)(2), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
     Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2), is [section 3(2) of Pub. L. 92–463][/us/pl/92/463/s3/2], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -291,7 +291,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–53, title VIII, § 801(d)][/us/pl/110/53/s801/d], Aug. 3, 2007, [121 Stat. 358][/us/stat/121/358], provided that:
+[Pub. L. 110–53, title VIII][/us/pl/110/53/tVIII], § 801(d), Aug. 3, 2007, [121 Stat. 358][/us/stat/121/358], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -303,13 +303,13 @@
 
  __Security Rules and Procedures__ 
 
-[Pub. L. 110–53, title VIII, § 801(b)][/us/pl/110/53/s801/b], Aug. 3, 2007, [121 Stat. 357][/us/stat/121/357], provided that: 
+[Pub. L. 110–53, title VIII][/us/pl/110/53/tVIII], § 801(b), Aug. 3, 2007, [121 Stat. 357][/us/stat/121/357], provided that: 
 
 > “The Privacy and Civil Liberties Oversight Board shall promptly adopt the security rules and procedures required under section 1061(k)(2) of the National Security Intelligence Reform Act of 2004 \[[42 U.S.C. 2000ee(k)(2)][/us/usc/t42/s2000ee/k/2]\] (as added by subsection (a) of this section).”
 
  __Transition Provisions__ 
 
-[Pub. L. 110–53, title VIII, § 801(c)][/us/pl/110/53/s801/c], Aug. 3, 2007, [121 Stat. 357][/us/stat/121/357], provided that:
+[Pub. L. 110–53, title VIII][/us/pl/110/53/tVIII], § 801(c), Aug. 3, 2007, [121 Stat. 357][/us/stat/121/357], provided that:
 
 >     “(1) __Treatment of incumbent members of the privacy and civil liberties oversight board.—__ 
 
@@ -437,25 +437,25 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/108/458/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1061
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3684
-[/us/pl/110/53/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs801%2Fa
+[/us/pl/110/53/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVIII
 [/us/stat/121/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F352
-[/us/pl/114/113/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2913
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
 [/us/pl/92/463/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs3%2F2
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/110/53/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs801%2Fd
+[/us/pl/110/53/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVIII
 [/us/stat/121/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F358
-[/us/pl/110/53/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs801%2Fb
+[/us/pl/110/53/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVIII
 [/us/stat/121/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F357
 [/us/usc/t42/s2000ee/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee%2Fk%2F2
-[/us/pl/110/53/s801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs801%2Fc
+[/us/pl/110/53/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVIII
 [/us/stat/121/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F357
 [/us/usc/t28/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs535
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

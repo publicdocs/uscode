@@ -27,7 +27,7 @@
 
         On the request of the Commission, the Attorney General is authorized to institute a civil action to collect a penalty imposed pursuant to this section. The Attorney General shall have the exclusive power to compromise, mitigate, or remit such civil penalties as are referred to him for collection.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 234, as added [Pub. L. 91–161, § 4][/us/pl/91/161/s4], Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; amended [Pub. L. 96–295, title II, § 206][/us/pl/96/295/s206], June 30, 1980, [94 Stat. 787][/us/stat/94/787]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 104–134, title III, § 3116(d)][/us/pl/104/134/s3116/d], Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 234, as added [Pub. L. 91–161][/us/pl/91/161], § 4, Dec. 24, 1969, [83 Stat. 444][/us/stat/83/444]; amended [Pub. L. 96–295, title II][/us/pl/96/295/tII], § 206, June 30, 1980, [94 Stat. 787][/us/stat/94/787]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(d), Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].)
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 
 [/us/usc/t42/s2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2236
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/91/161/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161%2Fs4
+[/us/pl/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F161
 [/us/stat/83/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F444
-[/us/pl/96/295/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2Fs206
+[/us/pl/96/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295%2FtII
 [/us/stat/94/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F787
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/104/134/s3116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fd
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-350
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/96/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F295

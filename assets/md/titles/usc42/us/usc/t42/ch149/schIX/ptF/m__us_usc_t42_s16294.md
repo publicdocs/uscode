@@ -45,7 +45,7 @@
 
         (4) expand mining research capabilities at institutions of higher education.
 
-([Pub. L. 109–58, title IX, § 964][/us/pl/109/58/s964], Aug. 8, 2005, [119 Stat. 892][/us/stat/119/892].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 964, Aug. 8, 2005, [119 Stat. 892][/us/stat/119/892].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs964
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F892
 
 

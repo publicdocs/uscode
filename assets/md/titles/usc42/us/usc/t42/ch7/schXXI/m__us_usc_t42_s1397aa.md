@@ -41,11 +41,11 @@
 
         No State is eligible for payments under [section 1397ee of this title][/us/usc/t42/s1397ee] for child health assistance for coverage provided for periods beginning before October 1, 1997.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2101, as added [Pub. L. 105–33, title IV, § 4901(a)][/us/pl/105/33/s4901/a], Aug. 5, 1997, [111 Stat. 552][/us/stat/111/552].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2101, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4901(a), Aug. 5, 1997, [111 Stat. 552][/us/stat/111/552].)
 
  __References to SCHIP and State Children’s Health Insurance Program__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 704\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402, which provided that, in official communications concerning this subchapter, the terms “SCHIP” and “State children’s health insurance program” were to be used instead of “CHIP” and “children’s health insurance program”, respectively, was repealed by [Pub. L. 111–3, title VI, § 612][/us/pl/111/3/s612], Feb. 4, 2009, [123 Stat. 101][/us/stat/123/101].
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VII, § 704\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402, which provided that, in official communications concerning this subchapter, the terms “SCHIP” and “State children’s health insurance program” were to be used instead of “CHIP” and “children’s health insurance program”, respectively, was repealed by [Pub. L. 111–3, title VI][/us/pl/111/3/tVI], § 612, Feb. 4, 2009, [123 Stat. 101][/us/stat/123/101].
 
 ----------
 
@@ -61,11 +61,11 @@
 [/us/usc/t42/s1397dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd
 [/us/usc/t42/s1397ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4901%2Fa
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F552
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/111/3/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs612
+[/us/pl/111/3/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVI
 [/us/stat/123/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F101
 
 

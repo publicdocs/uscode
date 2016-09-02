@@ -187,103 +187,103 @@
 
             (E) developing and supporting initiative models for networking among agencies, adoption exchanges, and parent support groups across jurisdictional boundaries.
 
-([Pub. L. 95–266, title II, § 203][/us/pl/95/266/s203], Apr. 24, 1978, [92 Stat. 209][/us/stat/92/209]; [Pub. L. 98–457, title II, § 203][/us/pl/98/457/s203], Oct. 9, 1984, [98 Stat. 1756][/us/stat/98/1756]; [Pub. L. 100–294, title II, § 202][/us/pl/100/294/s202], Apr. 25, 1988, [102 Stat. 122][/us/stat/102/122]; [Pub. L. 102–295, title IV, § 403][/us/pl/102/295/s403], May 28, 1992, [106 Stat. 213][/us/stat/106/213]; [Pub. L. 104–235, title II, § 212][/us/pl/104/235/s212], Oct. 3, 1996, [110 Stat. 3090][/us/stat/110/3090]; [Pub. L. 108–36, title II, § 202][/us/pl/108/36/s202], June 25, 2003, [117 Stat. 819][/us/stat/117/819]; [Pub. L. 111–320, title III, § 301(b)][/us/pl/111/320/s301/b], Dec. 20, 2010, [124 Stat. 3511][/us/stat/124/3511].)
+([Pub. L. 95–266, title II][/us/pl/95/266/tII], § 203, Apr. 24, 1978, [92 Stat. 209][/us/stat/92/209]; [Pub. L. 98–457, title II][/us/pl/98/457/tII], § 203, Oct. 9, 1984, [98 Stat. 1756][/us/stat/98/1756]; [Pub. L. 100–294, title II][/us/pl/100/294/tII], § 202, Apr. 25, 1988, [102 Stat. 122][/us/stat/102/122]; [Pub. L. 102–295, title IV][/us/pl/102/295/tIV], § 403, May 28, 1992, [106 Stat. 213][/us/stat/106/213]; [Pub. L. 104–235, title II][/us/pl/104/235/tII], § 212, Oct. 3, 1996, [110 Stat. 3090][/us/stat/110/3090]; [Pub. L. 108–36, title II][/us/pl/108/36/tII], § 202, June 25, 2003, [117 Stat. 819][/us/stat/117/819]; [Pub. L. 111–320, title III][/us/pl/111/320/tIII], § 301(b), Dec. 20, 2010, [124 Stat. 3511][/us/stat/124/3511].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–320, § 301(b)(1)][/us/pl/111/320/s301/b/1], substituted “older children, minority children, and children with special needs, particularly infants and toddlers with disabilities who have life-threatening conditions, and services to families considering adoption of children with special needs.” for “children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.”
+    2010—Subsec. (a). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(1), substituted “older children, minority children, and children with special needs, particularly infants and toddlers with disabilities who have life-threatening conditions, and services to families considering adoption of children with special needs.” for “children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.”
 
-    Subsec. (b)(1). [Pub. L. 111–320, § 301(b)(2)(A)][/us/pl/111/320/s301/b/2/A], substituted a comma for “and” after “regarding adoption” and inserted “, and post-legal adoption services” after “adoption assistance programs”.
+    Subsec. (b)(1). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(2)(A), substituted a comma for “and” after “regarding adoption” and inserted “, and post-legal adoption services” after “adoption assistance programs”.
 
-    Subsec. (b)(2). [Pub. L. 111–320, § 301(b)(2)(B)][/us/pl/111/320/s301/b/2/B], inserted “, including efforts to promote the adoption of older children, minority children, and children with special needs” after “national level”.
+    Subsec. (b)(2). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(2)(B), inserted “, including efforts to promote the adoption of older children, minority children, and children with special needs” after “national level”.
 
-    Subsec. (b)(7). [Pub. L. 111–320, § 301(b)(2)(C)][/us/pl/111/320/s301/b/2/C], substituted “increase the effective use of” for “study the efficacy of States contracting with” and “by States,” for the comma after “organizations)” and inserted a comma after “institutions” and “, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs” after “children for adoption”.
+    Subsec. (b)(7). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(2)(C), substituted “increase the effective use of” for “study the efficacy of States contracting with” and “by States,” for the comma after “organizations)” and inserted a comma after “institutions” and “, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs” after “children for adoption”.
 
-    Subsec. (b)(9)(D). [Pub. L. 111–320, § 301(b)(2)(D)][/us/pl/111/320/s301/b/2/D], added subpar. (D).
+    Subsec. (b)(9)(D). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(2)(D), added subpar. (D).
 
-    Subsec. (b)(10). [Pub. L. 111–320, § 301(b)(2)(E)(i)][/us/pl/111/320/s301/b/2/E/i], inserted “tribal child welfare agencies,” after “local government entities,” in introductory provisions.
+    Subsec. (b)(10). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(2)(E)(i), inserted “tribal child welfare agencies,” after “local government entities,” in introductory provisions.
 
-    Subsec. (b)(10)(A)(ii). [Pub. L. 111–320, § 301(b)(2)(E)(ii)(I)][/us/pl/111/320/s301/b/2/E/ii/I], inserted “, including developing and using procedures to notify family and relatives when a child enters the child welfare system” before semicolon at end.
+    Subsec. (b)(10)(A)(ii). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(2)(E)(ii)(I), inserted “, including developing and using procedures to notify family and relatives when a child enters the child welfare system” before semicolon at end.
 
-    Subsec. (b)(10)(A)(vii) to (ix). [Pub. L. 111–320, § 301(b)(2)(E)(ii)(II)][/us/pl/111/320/s301/b/2/E/ii/II], (III), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
+    Subsec. (b)(10)(A)(vii) to (ix). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(2)(E)(ii)(II), (III), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
 
-    Subsec. (d)(1). [Pub. L. 111–320, § 301(b)(3)(A)][/us/pl/111/320/s301/b/3/A], struck out at end: “Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.”
+    Subsec. (d)(1). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(3)(A), struck out at end: “Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.”
 
-    Subsec. (d)(2)(A). [Pub. L. 111–320, § 301(b)(3)(B)(i)][/us/pl/111/320/s301/b/3/B/i], inserted “, consistent with the purpose of this subchapter” after “by the Secretary”, substituted “Each application shall contain information that—” for “Each application shall include verification of the placements described in paragraph (1).”, and added cls. (i) to (iv).
+    Subsec. (d)(2)(A). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(3)(B)(i), inserted “, consistent with the purpose of this subchapter” after “by the Secretary”, substituted “Each application shall contain information that—” for “Each application shall include verification of the placements described in paragraph (1).”, and added cls. (i) to (iv).
 
-    Subsec. (d)(2)(B)(i). [Pub. L. 111–320, § 301(b)(3)(B)(ii)][/us/pl/111/320/s301/b/3/B/ii], inserted “older children, minority children, and” after “successful placement of”.
+    Subsec. (d)(2)(B)(i). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(3)(B)(ii), inserted “older children, minority children, and” after “successful placement of”.
 
-    Subsec. (d)(2)(C). [Pub. L. 111–320, § 301(b)(3)(B)(iii)][/us/pl/111/320/s301/b/3/B/iii], added subpar. (C).
+    Subsec. (d)(2)(C). [Pub. L. 111–320][/us/pl/111/320], § 301(b)(3)(B)(iii), added subpar. (C).
 
-    2003—[Pub. L. 108–36, § 202(1)][/us/pl/108/36/s202/1], added section catchline and struck out former catchline.
+    2003—[Pub. L. 108–36][/us/pl/108/36], § 202(1), added section catchline and struck out former catchline.
 
-    Subsec. (a). [Pub. L. 108–36, § 202(2)][/us/pl/108/36/s202/2], inserted heading.
+    Subsec. (a). [Pub. L. 108–36][/us/pl/108/36], § 202(2), inserted heading.
 
-    Subsec. (b). [Pub. L. 108–36, § 202(3)(A)][/us/pl/108/36/s202/3/A], inserted heading.
+    Subsec. (b). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(A), inserted heading.
 
-    Subsec. (b)(1). [Pub. L. 108–36, § 202(3)(B)][/us/pl/108/36/s202/3/B], struck out “nonprofit” before “agencies or” in two places.
+    Subsec. (b)(1). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(B), struck out “nonprofit” before “agencies or” in two places.
 
-    Subsec. (b)(2). [Pub. L. 108–36, § 202(3)(C)][/us/pl/108/36/s202/3/C], struck out “nonprofit” before “organizations,”.
+    Subsec. (b)(2). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(C), struck out “nonprofit” before “organizations,”.
 
-    Subsec. (b)(3). [Pub. L. 108–36, § 202(3)(D)][/us/pl/108/36/s202/3/D], struck out “nonprofit” before “agencies or organizations)”.
+    Subsec. (b)(3). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(D), struck out “nonprofit” before “agencies or organizations)”.
 
-    Subsec. (b)(4). [Pub. L. 108–36, § 202(3)(E)][/us/pl/108/36/s202/3/E], struck out “nonprofit” before “agencies or organizations,”.
+    Subsec. (b)(4). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(E), struck out “nonprofit” before “agencies or organizations,”.
 
-    Subsec. (b)(6). [Pub. L. 108–36, § 202(3)(F)][/us/pl/108/36/s202/3/F], substituted “support” for “study the nature, scope, and effects of”.
+    Subsec. (b)(6). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(F), substituted “support” for “study the nature, scope, and effects of”.
 
-    Subsec. (b)(7). [Pub. L. 108–36, § 202(3)(G)][/us/pl/108/36/s202/3/G], struck out “nonprofit” before “agencies (including”.
+    Subsec. (b)(7). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(G), struck out “nonprofit” before “agencies (including”.
 
-    Subsec. (b)(9). [Pub. L. 108–36, § 202(3)(H)][/us/pl/108/36/s202/3/H], struck out “nonprofit” before “agencies or organizations)” in introductory provisions and “and” at end.
+    Subsec. (b)(9). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(H), struck out “nonprofit” before “agencies or organizations)” in introductory provisions and “and” at end.
 
-    Subsec. (b)(10). [Pub. L. 108–36, § 202(3)(I)][/us/pl/108/36/s202/3/I], struck out “nonprofit” before “licensed child” in introductory provisions and before “child welfare and adoption” in subpar. (A)(vi)(II), and substituted “; and” for period at end.
+    Subsec. (b)(10). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(I), struck out “nonprofit” before “licensed child” in introductory provisions and before “child welfare and adoption” in subpar. (A)(vi)(II), and substituted “; and” for period at end.
 
-    Subsec. (b)(11). [Pub. L. 108–36, § 202(3)(J)][/us/pl/108/36/s202/3/J], added par. (11).
+    Subsec. (b)(11). [Pub. L. 108–36][/us/pl/108/36], § 202(3)(J), added par. (11).
 
-    Subsec. (c). [Pub. L. 108–36, § 202(4)(A)][/us/pl/108/36/s202/4/A], inserted heading.
+    Subsec. (c). [Pub. L. 108–36][/us/pl/108/36], § 202(4)(A), inserted heading.
 
-    Subsec. (c)(1). [Pub. L. 108–36, § 202(4)(A)][/us/pl/108/36/s202/4/A], (D), inserted heading and struck out “nonprofit” before “licensed child” in text.
+    Subsec. (c)(1). [Pub. L. 108–36][/us/pl/108/36], § 202(4)(A), (D), inserted heading and struck out “nonprofit” before “licensed child” in text.
 
-    Subsec. (c)(2). [Pub. L. 108–36, § 202(4)(B)][/us/pl/108/36/s202/4/B]–(D), inserted heading, realigned margins, struck out “nonprofit” before “child welfare” in subpar. (E), and added subpars. (H) and (I).
+    Subsec. (c)(2). [Pub. L. 108–36][/us/pl/108/36], § 202(4)(B)–(D), inserted heading, realigned margins, struck out “nonprofit” before “child welfare” in subpar. (E), and added subpars. (H) and (I).
 
-    Subsec. (d). [Pub. L. 108–36, § 202(5)][/us/pl/108/36/s202/5], inserted subsec., par., and subpar. headings and, in par. (2)(B), struck out “nonprofit” before “agencies” and realigned cl. margins.
+    Subsec. (d). [Pub. L. 108–36][/us/pl/108/36], § 202(5), inserted subsec., par., and subpar. headings and, in par. (2)(B), struck out “nonprofit” before “agencies” and realigned cl. margins.
 
-    Subsec. (e). [Pub. L. 108–36, § 202(6)][/us/pl/108/36/s202/6], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–36][/us/pl/108/36], § 202(6), added subsec. (e).
 
-    1996—Subsec. (a). [Pub. L. 104–235, § 212(1)][/us/pl/104/235/s212/1], struck out at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
+    1996—Subsec. (a). [Pub. L. 104–235][/us/pl/104/235], § 212(1), struck out at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
 
-    Subsec. (b)(6). [Pub. L. 104–235, § 212(2)(A)][/us/pl/104/235/s212/2/A], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;”.
+    Subsec. (b)(6). [Pub. L. 104–235][/us/pl/104/235], § 212(2)(A), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;”.
 
-    Subsec. (b)(7) to (10). [Pub. L. 104–235, § 212(2)(B)][/us/pl/104/235/s212/2/B], (C), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
+    Subsec. (b)(7) to (10). [Pub. L. 104–235][/us/pl/104/235], § 212(2)(B), (C), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 
-    Subsec. (d)(2). [Pub. L. 104–235, § 212(3)][/us/pl/104/235/s212/3], designated existing provisions as subpar. (A), substituted “that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be” for “for each fiscal year”, and added subpar. (B).
+    Subsec. (d)(2). [Pub. L. 104–235][/us/pl/104/235], § 212(3), designated existing provisions as subpar. (A), substituted “that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be” for “for each fiscal year”, and added subpar. (B).
 
-    1992—Subsec. (a). [Pub. L. 102–295, § 403(1)][/us/pl/102/295/s403/1], inserted “, on-site technical assistance” after “consultant services” and “including salaries and travel costs,” after “administrative expenses,” and inserted at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
+    1992—Subsec. (a). [Pub. L. 102–295][/us/pl/102/295], § 403(1), inserted “, on-site technical assistance” after “consultant services” and “including salaries and travel costs,” after “administrative expenses,” and inserted at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
 
-    Subsec. (b)(1), (2). [Pub. L. 102–295, § 403(2)(A)][/us/pl/102/295/s403/2/A], (B), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: “provide (after consultation with other appropriate Federal departments and agencies, including the Bureau of the Census and appropriate State and local agencies) for the establishment and operation of a Federal adoption and foster care data-gathering and analysis system;”.
+    Subsec. (b)(1), (2). [Pub. L. 102–295][/us/pl/102/295], § 403(2)(A), (B), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: “provide (after consultation with other appropriate Federal departments and agencies, including the Bureau of the Census and appropriate State and local agencies) for the establishment and operation of a Federal adoption and foster care data-gathering and analysis system;”.
 
-    Subsec. (b)(4). [Pub. L. 102–295, § 403(2)(C)][/us/pl/102/295/s403/2/C], inserted “, and to promote professional leadership training of minorities in the adoption field”.
+    Subsec. (b)(4). [Pub. L. 102–295][/us/pl/102/295], § 403(2)(C), inserted “, and to promote professional leadership training of minorities in the adoption field”.
 
-    Subsec. (b)(8), (9). [Pub. L. 102–295, § 403(2)(D)][/us/pl/102/295/s403/2/D], added par. (8) and redesignated former par. (8) as (9).
+    Subsec. (b)(8), (9). [Pub. L. 102–295][/us/pl/102/295], § 403(2)(D), added par. (8) and redesignated former par. (8) as (9).
 
-    1988—Subsec. (b)(8). [Pub. L. 100–294, § 202(a)][/us/pl/100/294/s202/a], added par. (8).
+    1988—Subsec. (b)(8). [Pub. L. 100–294][/us/pl/100/294], § 202(a), added par. (8).
 
-    Subsecs. (c), (d). [Pub. L. 100–294, § 202(b)][/us/pl/100/294/s202/b], (c), added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 100–294][/us/pl/100/294], § 202(b), (c), added subsecs. (c) and (d).
 
-    1984—Subsec. (a). [Pub. L. 98–457, § 203(a)][/us/pl/98/457/s203/a], (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
+    1984—Subsec. (a). [Pub. L. 98–457][/us/pl/98/457], § 203(a), (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
 
-    Subsec. (b). [Pub. L. 98–457, § 203(c)(1)][/us/pl/98/457/s203/c/1], substituted “this subchapter” for “subsection (a) of this section” in provisions preceding par. (1).
+    Subsec. (b). [Pub. L. 98–457][/us/pl/98/457], § 203(c)(1), substituted “this subchapter” for “subsection (a) of this section” in provisions preceding par. (1).
 
-    Subsec. (b)(1). [Pub. L. 98–457, § 203(c)(2)][/us/pl/98/457/s203/c/2], substituted “provide (after consultation with other appropriate Federal departments and agencies, including the Bureau of the Census and appropriate State and local agencies) for the establishment and operation of a Federal adoption and foster care data-gathering and analysis system” for “provide (directly or by grant to or contract with public or private nonprofit agencies and organizations) for the establishment and operation of a national adoption and foster care data gathering and analysis system utilizing data collected by States pursuant to requirements of law”.
+    Subsec. (b)(1). [Pub. L. 98–457][/us/pl/98/457], § 203(c)(2), substituted “provide (after consultation with other appropriate Federal departments and agencies, including the Bureau of the Census and appropriate State and local agencies) for the establishment and operation of a Federal adoption and foster care data-gathering and analysis system” for “provide (directly or by grant to or contract with public or private nonprofit agencies and organizations) for the establishment and operation of a national adoption and foster care data gathering and analysis system utilizing data collected by States pursuant to requirements of law”.
 
-    Subsec. (b)(4). [Pub. L. 98–457, § 203(c)(3)(A)][/us/pl/98/457/s203/c/3/A], substituted “adoptive family groups and minority groups” for “parent groups”.
+    Subsec. (b)(4). [Pub. L. 98–457][/us/pl/98/457], § 203(c)(3)(A), substituted “adoptive family groups and minority groups” for “parent groups”.
 
-    Subsec. (b)(5), (6). [Pub. L. 98–457, § 203(c)(3)(B)][/us/pl/98/457/s203/c/3/B], (C), added pars. (5) and (6). Former par. (5) redesignated (7).
+    Subsec. (b)(5), (6). [Pub. L. 98–457][/us/pl/98/457], § 203(c)(3)(B), (C), added pars. (5) and (6). Former par. (5) redesignated (7).
 
-    Subsec. (b)(7). [Pub. L. 98–457, § 203(c)(3)(C)][/us/pl/98/457/s203/c/3/C], (D), redesignated former par. (5) as (7) and substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsec. (b)(7). [Pub. L. 98–457][/us/pl/98/457], § 203(c)(3)(C), (D), redesignated former par. (5) as (7) and substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
  __Kinship Care__ 
 
-[Pub. L. 105–89, title III, § 303][/us/pl/105/89/s303], Nov. 19, 1997, [111 Stat. 2129][/us/stat/111/2129], provided that:
+[Pub. L. 105–89, title III][/us/pl/105/89/tIII], § 303, Nov. 19, 1997, [111 Stat. 2129][/us/stat/111/2129], provided that:
 
 >     “(a) __Report.—__ 
 
@@ -346,66 +346,66 @@
 
 [/us/usc/t42/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673
 [/us/usc/t42/s5115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5115%2Fa
-[/us/pl/95/266/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs203
+[/us/pl/95/266/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2FtII
 [/us/stat/92/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F209
-[/us/pl/98/457/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs203
+[/us/pl/98/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtII
 [/us/stat/98/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1756
-[/us/pl/100/294/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs202
+[/us/pl/100/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtII
 [/us/stat/102/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F122
-[/us/pl/102/295/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs403
+[/us/pl/102/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIV
 [/us/stat/106/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F213
-[/us/pl/104/235/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs212
+[/us/pl/104/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtII
 [/us/stat/110/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3090
-[/us/pl/108/36/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202
+[/us/pl/108/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtII
 [/us/stat/117/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F819
-[/us/pl/111/320/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb
+[/us/pl/111/320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtIII
 [/us/stat/124/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3511
-[/us/pl/111/320/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F1
-[/us/pl/111/320/s301/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F2%2FA
-[/us/pl/111/320/s301/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F2%2FB
-[/us/pl/111/320/s301/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F2%2FC
-[/us/pl/111/320/s301/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F2%2FD
-[/us/pl/111/320/s301/b/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F2%2FE%2Fi
-[/us/pl/111/320/s301/b/2/E/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F2%2FE%2Fii%2FI
-[/us/pl/111/320/s301/b/2/E/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F2%2FE%2Fii%2FII
-[/us/pl/111/320/s301/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F3%2FA
-[/us/pl/111/320/s301/b/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F3%2FB%2Fi
-[/us/pl/111/320/s301/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F3%2FB%2Fii
-[/us/pl/111/320/s301/b/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs301%2Fb%2F3%2FB%2Fiii
-[/us/pl/108/36/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F1
-[/us/pl/108/36/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F2
-[/us/pl/108/36/s202/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FA
-[/us/pl/108/36/s202/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FB
-[/us/pl/108/36/s202/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FC
-[/us/pl/108/36/s202/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FD
-[/us/pl/108/36/s202/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FE
-[/us/pl/108/36/s202/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FF
-[/us/pl/108/36/s202/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FG
-[/us/pl/108/36/s202/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FH
-[/us/pl/108/36/s202/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FI
-[/us/pl/108/36/s202/3/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F3%2FJ
-[/us/pl/108/36/s202/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F4%2FA
-[/us/pl/108/36/s202/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F4%2FA
-[/us/pl/108/36/s202/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F4%2FB
-[/us/pl/108/36/s202/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F5
-[/us/pl/108/36/s202/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs202%2F6
-[/us/pl/104/235/s212/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs212%2F1
-[/us/pl/104/235/s212/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs212%2F2%2FA
-[/us/pl/104/235/s212/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs212%2F2%2FB
-[/us/pl/104/235/s212/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs212%2F3
-[/us/pl/102/295/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs403%2F1
-[/us/pl/102/295/s403/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs403%2F2%2FA
-[/us/pl/102/295/s403/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs403%2F2%2FC
-[/us/pl/102/295/s403/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs403%2F2%2FD
-[/us/pl/100/294/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs202%2Fa
-[/us/pl/100/294/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs202%2Fb
-[/us/pl/98/457/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs203%2Fa
-[/us/pl/98/457/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs203%2Fc%2F1
-[/us/pl/98/457/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs203%2Fc%2F2
-[/us/pl/98/457/s203/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs203%2Fc%2F3%2FA
-[/us/pl/98/457/s203/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs203%2Fc%2F3%2FB
-[/us/pl/98/457/s203/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs203%2Fc%2F3%2FC
-[/us/pl/105/89/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs303
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/100/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294
+[/us/pl/100/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/105/89/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIII
 [/us/stat/111/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2129
 
 

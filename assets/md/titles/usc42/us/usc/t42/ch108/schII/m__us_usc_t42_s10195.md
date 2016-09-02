@@ -49,7 +49,7 @@
 
         Except as specifically provided in this section, nothing in this subchapter is intended to grant any State or affected Indian tribe any authority with respect to the siting, development, or loading of the test and evaluation facility.
 
-([Pub. L. 97–425, title II, § 215][/us/pl/97/425/s215], Jan. 7, 1983, [96 Stat. 2247][/us/stat/96/2247].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 215, Jan. 7, 1983, [96 Stat. 2247][/us/stat/96/2247].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s10193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10193
-[/us/pl/97/425/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs215
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2247
 
 

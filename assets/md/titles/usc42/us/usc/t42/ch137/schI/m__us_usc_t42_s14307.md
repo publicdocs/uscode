@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-([Pub. L. 104–142, § 8][/us/pl/104/142/s8], May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
+([Pub. L. 104–142][/us/pl/104/142], § 8, May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs8
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1332
 
 

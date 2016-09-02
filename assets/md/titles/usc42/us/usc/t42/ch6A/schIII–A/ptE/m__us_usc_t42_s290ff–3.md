@@ -79,7 +79,7 @@
 
         The Secretary may make a grant under [section 290ff(a) of this title][/us/usc/t42/s290ff/a] only if an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g) of this section, and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 564, as added [Pub. L. 102–321, title I, § 119][/us/pl/102/321/s119], July 10, 1992, [106 Stat. 355][/us/stat/106/355].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 564, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 119, July 10, 1992, [106 Stat. 355][/us/stat/106/355].)
 
  __Effective Date__ 
 
@@ -106,7 +106,7 @@
 [/us/usc/t42/s290ff/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290ff%2Fa
 [/us/usc/t42/s290ff/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290ff%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs119
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F355
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

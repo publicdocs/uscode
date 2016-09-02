@@ -39,7 +39,7 @@
 
         (2) publish and transmit such report to the President and the chairman of the Committee on Education and Labor of the House of Representatives and chairman of the Committee on Labor and Human Resources of the Senate.
 
-([Pub. L. 101–501, title IX, § 986][/us/pl/101/501/s986], Nov. 3, 1990, [104 Stat. 1282][/us/stat/104/1282].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 986, Nov. 3, 1990, [104 Stat. 1282][/us/stat/104/1282].)
 
  __Change of Name__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs986
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1282
 
 

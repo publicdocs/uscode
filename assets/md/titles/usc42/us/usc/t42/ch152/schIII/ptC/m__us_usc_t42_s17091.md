@@ -61,13 +61,13 @@
 
             The members of the Federal Acquisition Regulatory Council established under [section 1302(a) of title 41][/us/usc/t41/s1302/a] shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
-([Pub. L. 110–140, title IV, § 435][/us/pl/110/140/s435], Dec. 19, 2007, [121 Stat. 1615][/us/stat/121/1615]; [Pub. L. 114–11, title III, § 301(a)][/us/pl/114/11/s301/a], Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 435, Dec. 19, 2007, [121 Stat. 1615][/us/stat/121/1615]; [Pub. L. 114–11, title III][/us/pl/114/11/tIII], § 301(a), Apr. 30, 2015, [129 Stat. 189][/us/stat/129/189].)
 
  __Codification__ 
 
-    In subsec. (c)(1), “section 1121(b) and (c)(1) of title 41” substituted for “section 6(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 405(a)][/us/usc/t41/s405/a])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(1), “section 1121(b) and (c)(1) of title 41” substituted for “section 6(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 405(a)][/us/usc/t41/s405/a])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(2), “[section 1302(a) of title 41][/us/usc/t41/s1302/a]” substituted for “section 25 of the Office of Federal Procurement Policy Act ([41 U.S.C. 421][/us/usc/t41/s421])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(2), “[section 1302(a) of title 41][/us/usc/t41/s1302/a]” substituted for “section 25 of the Office of Federal Procurement Policy Act ([41 U.S.C. 421][/us/usc/t41/s421])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -82,16 +82,16 @@
 
 [/us/usc/t40/s3306/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3306%2Fa%2F4
 [/us/usc/t41/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fa
-[/us/pl/110/140/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs435
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1615
-[/us/pl/114/11/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs301%2Fa
+[/us/pl/114/11/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtIII
 [/us/stat/129/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F189
 [/us/usc/t41/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fa
 [/us/usc/t41/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
 

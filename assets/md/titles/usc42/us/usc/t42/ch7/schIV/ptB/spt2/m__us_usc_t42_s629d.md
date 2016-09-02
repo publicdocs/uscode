@@ -53,7 +53,7 @@
 
         The Secretary shall not make a payment to a State under this section with respect to expenditures for administrative costs during a fiscal year, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year under the State plan approved under [section 629b of this title][/us/usc/t42/s629b].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 434, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)][/us/pl/103/66/s13711/a/2], Aug. 10, 1993, [107 Stat. 653][/us/stat/107/653]; amended [Pub. L. 107–133, title I, § 104][/us/pl/107/133/s104], Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415]; [Pub. L. 109–288][/us/pl/109/288], §§ 3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, [120 Stat. 1236][/us/stat/120/1236], 1237, 1243.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 434, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(a)(2), Aug. 10, 1993, [107 Stat. 653][/us/stat/107/653]; amended [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 104, Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415]; [Pub. L. 109–288][/us/pl/109/288], §§ 3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, [120 Stat. 1236][/us/stat/120/1236], 1237, 1243.)
 
  __Prior Provisions__ 
 
@@ -61,27 +61,27 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–288, § 4(a)(3)][/us/pl/109/288/s4/a/3], substituted “the sum of—” for “the lesser of—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+    2006—Subsec. (a). [Pub. L. 109–288][/us/pl/109/288], § 4(a)(3), substituted “the sum of—” for “the lesser of—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
     “(1) 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
 
     “(2) the allotment of the State under [section 629c of this title][/us/usc/t42/s629c] for the fiscal year.”
 
-    [Pub. L. 109–288, § 3(f)(1)(A)][/us/pl/109/288/s3/f/1/A], inserted “, subject to subsection (d),” after “shall” in introductory provisions.
+    [Pub. L. 109–288][/us/pl/109/288], § 3(f)(1)(A), inserted “, subject to subsection (d),” after “shall” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 109–288, § 5(b)(3)(B)][/us/pl/109/288/s5/b/3/B], in heading inserted “or tribal consortia” after “tribes” and in text inserted “or tribal consortium” after “to which an Indian tribe” and “or in the case of a payment to a tribal consortium, such tribal organizations of, or entity established by, the Indian tribes that are part of the consortium as the consortium shall designate” after “of the Indian tribe”.
+    Subsec. (c). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(3)(B), in heading inserted “or tribal consortia” after “tribes” and in text inserted “or tribal consortium” after “to which an Indian tribe” and “or in the case of a payment to a tribal consortium, such tribal organizations of, or entity established by, the Indian tribes that are part of the consortium as the consortium shall designate” after “of the Indian tribe”.
 
-    Subsec. (d). [Pub. L. 109–288, § 3(f)(1)(B)][/us/pl/109/288/s3/f/1/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–288][/us/pl/109/288], § 3(f)(1)(B), added subsec. (d).
 
-    2002—Subsec. (a). [Pub. L. 107–133, § 104(a)][/us/pl/107/133/s104/a], struck out par. (1) designation and heading after subsec. heading, substituted “Each State that has a plan approved under [section 629b of this title][/us/usc/t42/s629b] shall be entitled to payment of the lesser of—” for “Except as provided in paragraph (2) of this subsection, each State which has a plan approved under this subpart shall be entitled to payment of the lesser of—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned their margins, and struck out former par. (2) which related to a special rule for fiscal year 1994.
+    2002—Subsec. (a). [Pub. L. 107–133][/us/pl/107/133], § 104(a), struck out par. (1) designation and heading after subsec. heading, substituted “Each State that has a plan approved under [section 629b of this title][/us/usc/t42/s629b] shall be entitled to payment of the lesser of—” for “Except as provided in paragraph (2) of this subsection, each State which has a plan approved under this subpart shall be entitled to payment of the lesser of—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned their margins, and struck out former par. (2) which related to a special rule for fiscal year 1994.
 
-    Subsec. (b)(1). [Pub. L. 107–133, § 104(b)(1)][/us/pl/107/133/s104/b/1], struck out “paragraph (1) or (2)(B) of” after “amount paid under” and substituted “under the State plan under [section 629b of this title][/us/usc/t42/s629b]” for “described in this subpart”.
+    Subsec. (b)(1). [Pub. L. 107–133][/us/pl/107/133], § 104(b)(1), struck out “paragraph (1) or (2)(B) of” after “amount paid under” and substituted “under the State plan under [section 629b of this title][/us/usc/t42/s629b]” for “described in this subpart”.
 
-    Subsec. (b)(2). [Pub. L. 107–133, § 104(b)(2)][/us/pl/107/133/s104/b/2], substituted “subsection (a)” for “subsection (a)(1)”.
+    Subsec. (b)(2). [Pub. L. 107–133][/us/pl/107/133], § 104(b)(2), substituted “subsection (a)” for “subsection (a)(1)”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–288, § 3(f)(2)][/us/pl/109/288/s3/f/2], Sept. 28, 2006, [120 Stat. 1236][/us/stat/120/1236], provided that: 
+[Pub. L. 109–288][/us/pl/109/288], § 3(f)(2), Sept. 28, 2006, [120 Stat. 1236][/us/stat/120/1236], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply to expenditures made on or after October 1, 2007.”
 
@@ -105,25 +105,25 @@
 [/us/usc/t42/s629b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629b
 [/us/usc/t42/s629b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629b
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fa%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F653
-[/us/pl/107/133/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs104
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2415
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1236
 [/us/usc/t42/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs634
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/109/288/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fa%2F3
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s629c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629c
-[/us/pl/109/288/s3/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Ff%2F1%2FA
-[/us/pl/109/288/s5/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F3%2FB
-[/us/pl/109/288/s3/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Ff%2F1%2FB
-[/us/pl/107/133/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs104%2Fa
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
 [/us/usc/t42/s629b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629b
-[/us/pl/107/133/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs104%2Fb%2F1
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
 [/us/usc/t42/s629b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629b
-[/us/pl/107/133/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs104%2Fb%2F2
-[/us/pl/109/288/s3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Ff%2F2
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1236
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288

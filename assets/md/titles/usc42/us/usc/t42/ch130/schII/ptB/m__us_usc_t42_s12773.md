@@ -119,33 +119,33 @@
 
             (B) is composed of equal numbers of (i) lessees pursuant to paragraph (3)(B), (ii) corporate members who are not lessees, and (iii) any other category of persons described in the bylaws of the organization.
 
-([Pub. L. 101–625, title II, § 233][/us/pl/101/625/s233], Nov. 28, 1990, [104 Stat. 4116][/us/stat/104/4116]; [Pub. L. 102–550, title II, § 213][/us/pl/102/550/s213], Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757]; [Pub. L. 111–8, div. I, title II, § 229(1)][/us/pl/111/8/s229/1], (2), Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 233, Nov. 28, 1990, [104 Stat. 4116][/us/stat/104/4116]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 213, Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757]; [Pub. L. 111–8, div. I, title II][/us/pl/111/8/dI/tII], § 229(1), (2), Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
 
  __References in Text__ 
 
     The National Housing Act, referred to in subsec. (b)(7), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246]. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
-    Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E), which was classified to [section 1503 of Title 29][/us/usc/t29/s1503], Labor, was repealed by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29][/us/usc/t29/s2940/b], references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t42/s3101] and Tables.
+    Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E), which was classified to [section 1503 of Title 29][/us/usc/t29/s1503], Labor, was repealed by [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 199(b)(2), (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29][/us/usc/t29/s2940/b], references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t42/s3101] and Tables.
 
  __Amendments__ 
 
-    2009—Subsec. (d)(1). [Pub. L. 111–8, § 229(1)][/us/pl/111/8/s229/1], substituted “40” for “20”.
+    2009—Subsec. (d)(1). [Pub. L. 111–8][/us/pl/111/8], § 229(1), substituted “40” for “20”.
 
-    Subsec. (e). [Pub. L. 111–8, § 229(2)][/us/pl/111/8/s229/2], substituted “25” for “40”.
+    Subsec. (e). [Pub. L. 111–8][/us/pl/111/8], § 229(2), substituted “25” for “40”.
 
-    1992—Subsec. (a)(2). [Pub. L. 102–550, § 213(a)(1)][/us/pl/102/550/s213/a/1], inserted “, including community land trusts,” after “organizations”.
+    1992—Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550], § 213(a)(1), inserted “, including community land trusts,” after “organizations”.
 
-    Subsec. (a)(3). [Pub. L. 102–550, § 213(b)(1)][/us/pl/102/550/s213/b/1], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–550][/us/pl/102/550], § 213(b)(1), added par. (3).
 
-    Subsec. (b)(6). [Pub. L. 102–550, § 213(a)(2)][/us/pl/102/550/s213/a/2], added par. (6).
+    Subsec. (b)(6). [Pub. L. 102–550][/us/pl/102/550], § 213(a)(2), added par. (6).
 
-    Subsec. (b)(7). [Pub. L. 102–550, § 213(b)(2)][/us/pl/102/550/s213/b/2], added par. (7).
+    Subsec. (b)(7). [Pub. L. 102–550][/us/pl/102/550], § 213(b)(2), added par. (7).
 
-    Subsec. (c)(1)(E). [Pub. L. 102–550, § 213(b)(3)][/us/pl/102/550/s213/b/3], added subpar. (E).
+    Subsec. (c)(1)(E). [Pub. L. 102–550][/us/pl/102/550], § 213(b)(3), added subpar. (E).
 
-    Subsec. (e). [Pub. L. 102–550, § 213(b)(4)][/us/pl/102/550/s213/b/4], inserted at end “The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.”
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 213(b)(4), inserted at end “The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.”
 
-    Subsec. (f). [Pub. L. 102–550, § 213(a)(3)][/us/pl/102/550/s213/a/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–550][/us/pl/102/550], § 213(a)(3), added subsec. (f).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -160,36 +160,36 @@
 
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t42/s12704/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704%2F6
-[/us/pl/101/625/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs233
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4116
-[/us/pl/102/550/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3757
-[/us/pl/111/8/s229/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs229%2F1
+[/us/pl/111/8/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdI%2FtII
 [/us/stat/123/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F978
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t29/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1503
-[/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
+[/us/pl/105/220/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtI
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
 [/us/usc/t29/s2940/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2940%2Fb
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t42/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3101
-[/us/pl/111/8/s229/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs229%2F1
-[/us/pl/111/8/s229/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs229%2F2
-[/us/pl/102/550/s213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213%2Fa%2F1
-[/us/pl/102/550/s213/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213%2Fb%2F1
-[/us/pl/102/550/s213/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213%2Fa%2F2
-[/us/pl/102/550/s213/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213%2Fb%2F2
-[/us/pl/102/550/s213/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213%2Fb%2F3
-[/us/pl/102/550/s213/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213%2Fb%2F4
-[/us/pl/102/550/s213/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs213%2Fa%2F3
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704

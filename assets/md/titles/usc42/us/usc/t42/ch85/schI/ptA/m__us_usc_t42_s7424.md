@@ -33,7 +33,7 @@
 
         (2) Before requiring a plan revision under this subsection, with respect to any State the Administrator shall take into account the report of the review conducted by such State under paragraph (1) and shall consult with the Governor of the State respecting such required revision.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 124, as added [Pub. L. 95–95, title I, § 122][/us/pl/95/95/s122], Aug. 7, 1977, [91 Stat. 722][/us/stat/91/722].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 124, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 122, Aug. 7, 1977, [91 Stat. 722][/us/stat/91/722].)
 
  __Effective Date__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs122
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F722
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

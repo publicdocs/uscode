@@ -19,7 +19,7 @@
 
     (b) The Foundation is authorized to undertake or support programs and activities to encourage the participation of persons with disabilities in the science and engineering professions.
 
-([Pub. L. 96–516, § 34][/us/pl/96/516/s34], Dec. 12, 1980, [94 Stat. 3012][/us/stat/94/3012]; [Pub. L. 99–159, title I, § 111(b)(7)][/us/pl/99/159/s111/b/7], Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892]; [Pub. L. 105–207, title II, § 202(d)(1)][/us/pl/105/207/s202/d/1], July 29, 1998, [112 Stat. 874][/us/stat/112/874].)
+([Pub. L. 96–516][/us/pl/96/516], § 34, Dec. 12, 1980, [94 Stat. 3012][/us/stat/94/3012]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 111(b)(7), Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(d)(1), July 29, 1998, [112 Stat. 874][/us/stat/112/874].)
 
  __Codification__ 
 
@@ -27,13 +27,13 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–207, § 202(d)(1)(A)][/us/pl/105/207/s202/d/1/A], substituted section catchline for former section catchline.
+    1998—[Pub. L. 105–207][/us/pl/105/207], § 202(d)(1)(A), substituted section catchline for former section catchline.
 
-    Subsec. (b). [Pub. L. 105–207, § 202(d)(1)(B)][/us/pl/105/207/s202/d/1/B], added subsec. (b) and struck out former subsec. (b), which read as follows: “By September 30, 1981, the Director, with the advice and assistance of the Committee on Equal Opportunities in Science and Technology established in [section 1885c of this title][/us/usc/t42/s1885c], shall prepare and transmit to the Committee on Labor and Human Resources of the Senate and the Committee on Science and Technology of the House of Representatives a report proposing a comprehensive and continuing program at the Foundation to promote the full participation of minorities in science and engineering. Such report shall contain budgetary and legislative recommendations for the carrying out of such program by the Foundation.”
+    Subsec. (b). [Pub. L. 105–207][/us/pl/105/207], § 202(d)(1)(B), added subsec. (b) and struck out former subsec. (b), which read as follows: “By September 30, 1981, the Director, with the advice and assistance of the Committee on Equal Opportunities in Science and Technology established in [section 1885c of this title][/us/usc/t42/s1885c], shall prepare and transmit to the Committee on Labor and Human Resources of the Senate and the Committee on Science and Technology of the House of Representatives a report proposing a comprehensive and continuing program at the Foundation to promote the full participation of minorities in science and engineering. Such report shall contain budgetary and legislative recommendations for the carrying out of such program by the Foundation.”
 
-    1985—Subsec. (a). [Pub. L. 99–159, § 111(b)(7)][/us/pl/99/159/s111/b/7], substituted “science and engineering education” for “science education” and “engineering” for “technology”.
+    1985—Subsec. (a). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(7), substituted “science and engineering education” for “science education” and “engineering” for “technology”.
 
-    Subsec. (b). [Pub. L. 99–159, § 111(b)(7)(B)][/us/pl/99/159/s111/b/7/B], substituted “engineering” for “technology”.
+    Subsec. (b). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(7)(B), substituted “engineering” for “technology”.
 
 ----------
 
@@ -42,16 +42,16 @@
 ----------
 ----------
 
-[/us/pl/96/516/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs34
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3012
-[/us/pl/99/159/s111/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F7
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F892
-[/us/pl/105/207/s202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F1
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F874
-[/us/pl/105/207/s202/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F1%2FA
-[/us/pl/105/207/s202/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fd%2F1%2FB
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
 [/us/usc/t42/s1885c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885c
-[/us/pl/99/159/s111/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F7
-[/us/pl/99/159/s111/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F7%2FB
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 
 

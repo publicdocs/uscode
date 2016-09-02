@@ -27,7 +27,7 @@
 
     (b) Each Assistant Administrator appointed under subsection (a) of this section shall perform such duties as the Administrator of the Environmental Protection Agency may prescribe.
 
-([Pub. L. 98–80, § 1][/us/pl/98/80/s1], Aug. 23, 1983, [97 Stat. 485][/us/stat/97/485].)
+([Pub. L. 98–80][/us/pl/98/80], § 1, Aug. 23, 1983, [97 Stat. 485][/us/stat/97/485].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t15/s2625/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2625%2Fg
 [/us/usc/t42/s6911a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6911a
-[/us/pl/98/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80%2Fs1
+[/us/pl/98/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80
 [/us/stat/97/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F485
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

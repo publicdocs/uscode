@@ -51,7 +51,7 @@
 
             The term “Executive agency” has the meaning given such term in [section 105 of title 5][/us/usc/t5/s105].
 
-([Pub. L. 110–69, title I, § 1008][/us/pl/110/69/s1008], Aug. 9, 2007, [121 Stat. 581][/us/stat/121/581].)
+([Pub. L. 110–69, title I][/us/pl/110/69/tI], § 1008, Aug. 9, 2007, [121 Stat. 581][/us/stat/121/581].)
 
  __Codification__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/110/69/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs1008
+[/us/pl/110/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtI
 [/us/stat/121/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F581
 
 

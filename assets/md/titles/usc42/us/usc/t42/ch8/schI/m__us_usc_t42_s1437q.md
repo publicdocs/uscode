@@ -21,7 +21,7 @@
 
     (2) may not enter into contracts for periodic payments to the Federal Financing Bank to offset the costs to the Bank of purchasing obligations (as described in the first sentence of [section 2294(b) of title 12][/us/usc/t12/s2294/b]) issued by local public housing agencies for purposes of financing public housing projects authorized by [section 1437c(c) of this title][/us/usc/t42/s1437c/c].
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 19, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 215\], Nov. 30, 1983, [97 Stat. 1185][/us/stat/97/1185]; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 19, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 215\], Nov. 30, 1983, [97 Stat. 1185][/us/stat/97/1185]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681].)
 
 ----------
 
@@ -36,9 +36,9 @@
 [/us/usc/t12/s2294/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2294%2Fb
 [/us/usc/t42/s1437c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fc
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1185
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
 
 

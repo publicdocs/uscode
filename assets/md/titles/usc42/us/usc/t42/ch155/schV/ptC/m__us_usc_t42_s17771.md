@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 110–422, title VI, § 621][/us/pl/110/422/s621], Oct. 15, 2008, [122 Stat. 4801][/us/stat/122/4801], which related to Launch Services strategy, was transferred and is set out as a note under [section 50903 of Title 51][/us/usc/t51/s50903], National and Commercial Space Programs.
+    Section, [Pub. L. 110–422, title VI][/us/pl/110/422/tVI], § 621, Oct. 15, 2008, [122 Stat. 4801][/us/stat/122/4801], which related to Launch Services strategy, was transferred and is set out as a note under [section 50903 of Title 51][/us/usc/t51/s50903], National and Commercial Space Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/422/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2Fs621
+[/us/pl/110/422/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422%2FtVI
 [/us/stat/122/4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4801
 [/us/usc/t51/s50903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50903
 

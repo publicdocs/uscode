@@ -17,7 +17,7 @@
 
     The Council may accept reimbursements from any private nonprofit organization or from any department, agency, or instrumentality of the Federal Government, any State, or local government, for the reasonable travel expenses incurred by an officer or employee of the Council in connection with his attendance at any conference, seminar, or similar meeting conducted for the benefit of the Council.
 
-([Pub. L. 91–190, title II, § 207][/us/pl/91/190/s207], as added [Pub. L. 94–52, § 3][/us/pl/94/52/s3], July 3, 1975, [89 Stat. 258][/us/stat/89/258].)
+([Pub. L. 91–190, title II][/us/pl/91/190/tII], § 207, as added [Pub. L. 94–52][/us/pl/94/52], § 3, July 3, 1975, [89 Stat. 258][/us/stat/89/258].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/91/190/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs207
-[/us/pl/94/52/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F52%2Fs3
+[/us/pl/91/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtII
+[/us/pl/94/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F52
 [/us/stat/89/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F258
 
 

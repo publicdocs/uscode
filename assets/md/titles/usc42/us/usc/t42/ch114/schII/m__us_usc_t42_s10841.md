@@ -137,7 +137,7 @@
 
         (C) Notwithstanding subparagraphs (A) and (B), in the case of a person admitted to a program or facility for the purpose of receiving mental health services, no individual employed by or receiving any remuneration from such program or facility should act as such person’s guardian or representative.
 
-([Pub. L. 99–319, title II, § 201][/us/pl/99/319/s201], May 23, 1986, [100 Stat. 485][/us/stat/100/485]; [Pub. L. 102–173, § 10(2)][/us/pl/102/173/s10/2], Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
+([Pub. L. 99–319, title II][/us/pl/99/319/tII], § 201, May 23, 1986, [100 Stat. 485][/us/stat/100/485]; [Pub. L. 102–173][/us/pl/102/173], § 10(2), Nov. 27, 1991, [105 Stat. 1219][/us/stat/105/1219].)
 
  __References in Text__ 
 
@@ -155,9 +155,9 @@
 ----------
 
 [/us/usc/t42/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9501
-[/us/pl/99/319/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs201
+[/us/pl/99/319/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtII
 [/us/stat/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F485
-[/us/pl/102/173/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F2
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1219
 [/us/pl/96/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398
 [/us/stat/94/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1564

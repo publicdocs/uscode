@@ -41,7 +41,7 @@
 
     (12) Congress and the Secretary of Housing and Urban Development have recognized in recent years that families experiencing domestic violence have unique needs that should be addressed by those administering the Federal housing programs.
 
-([Pub. L. 103–322, title IV, § 41401][/us/pl/103/322/s41401], as added [Pub. L. 109–162, title VI, § 601][/us/pl/109/162/s601], Jan. 5, 2006, [119 Stat. 3030][/us/stat/119/3030].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 41401, as added [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 601, Jan. 5, 2006, [119 Stat. 3030][/us/stat/119/3030].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/103/322/s41401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41401
-[/us/pl/109/162/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs601
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3030
 
 

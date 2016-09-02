@@ -43,7 +43,7 @@
 
         (3) The limitation on funds appropriated for grants and contracts, as contained in [section 4958 of this title][/us/usc/t42/s4958], shall not apply to the summer program.
 
-([Pub. L. 93–113, title I, § 104][/us/pl/93/113/s104], Oct. 1, 1973, [87 Stat. 397][/us/stat/87/397]; [Pub. L. 98–288, § 5][/us/pl/98/288/s5], May 21, 1984, [98 Stat. 190][/us/stat/98/190]; [Pub. L. 101–204, title VII, § 702][/us/pl/101/204/s702], Dec. 7, 1989, [103 Stat. 1821][/us/stat/103/1821]; [Pub. L. 103–82, title III, § 324][/us/pl/103/82/s324], Sept. 21, 1993, [107 Stat. 900][/us/stat/107/900].)
+([Pub. L. 93–113, title I][/us/pl/93/113/tI], § 104, Oct. 1, 1973, [87 Stat. 397][/us/stat/87/397]; [Pub. L. 98–288][/us/pl/98/288], § 5, May 21, 1984, [98 Stat. 190][/us/stat/98/190]; [Pub. L. 101–204, title VII][/us/pl/101/204/tVII], § 702, Dec. 7, 1989, [103 Stat. 1821][/us/stat/103/1821]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 324, Sept. 21, 1993, [107 Stat. 900][/us/stat/107/900].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1993—Subsec. (b). [Pub. L. 103–82, § 324(a)][/us/pl/103/82/s324/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part.”
+    1993—Subsec. (b). [Pub. L. 103–82][/us/pl/103/82], § 324(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part.”
 
-    Subsec. (e). [Pub. L. 103–82, § 324(b)][/us/pl/103/82/s324/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–82][/us/pl/103/82], § 324(b), added subsec. (e).
 
     1989—Subsec. (c). [Pub. L. 101–204][/us/pl/101/204] substituted “for persons appointed to any office of honor or profit by [section 3331 of title 5][/us/usc/t5/s3331], and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except” for “in [section 2504(j) of title 22][/us/usc/t22/s2504/j], except”.
 
@@ -65,7 +65,7 @@
 
  __Temporary Authority for Extensions of Period of Service__ 
 
-[Pub. L. 101–204, title I, § 101(c)][/us/pl/101/204/s101/c], Dec. 7, 1989, [103 Stat. 1810][/us/stat/103/1810], as amended by [Pub. L. 103–82, title IV, § 405(h)][/us/pl/103/82/s405/h], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921], provided that:
+[Pub. L. 101–204, title I][/us/pl/101/204/tI], § 101(c), Dec. 7, 1989, [103 Stat. 1810][/us/stat/103/1810], as amended by [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(h), Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -99,19 +99,19 @@
 [/us/usc/t5/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3331
 [/us/usc/t42/s4953/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4953%2Fa
 [/us/usc/t42/s4958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4958
-[/us/pl/93/113/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs104
+[/us/pl/93/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtI
 [/us/stat/87/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F397
-[/us/pl/98/288/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs5
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F190
-[/us/pl/101/204/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs702
+[/us/pl/101/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtVII
 [/us/stat/103/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1821
-[/us/pl/103/82/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs324
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F900
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
-[/us/pl/103/82/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs324%2Fa
-[/us/pl/103/82/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs324%2Fb
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/usc/t5/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3331
 [/us/usc/t22/s2504/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504%2Fj
@@ -119,9 +119,9 @@
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs392
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
-[/us/pl/101/204/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fc
+[/us/pl/101/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtI
 [/us/stat/103/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1810
-[/us/pl/103/82/s405/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fh
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F921
 [/us/usc/t42/s4954/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4954%2Fb
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951

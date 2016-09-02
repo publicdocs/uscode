@@ -43,7 +43,7 @@
 
         Not later than 120 days before the date of a consultation under subsection (a), the Attorney General shall notify tribal leaders of the date, time, and location of the consultation.
 
-([Pub. L. 109–162, title IX, § 903][/us/pl/109/162/s903], Jan. 5, 2006, [119 Stat. 3078][/us/stat/119/3078]; [Pub. L. 113–4, title IX, § 903][/us/pl/113/4/s903], Mar. 7, 2013, [127 Stat. 120][/us/stat/127/120].)
+([Pub. L. 109–162, title IX][/us/pl/109/162/tIX], § 903, Jan. 5, 2006, [119 Stat. 3078][/us/stat/119/3078]; [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 903, Mar. 7, 2013, [127 Stat. 120][/us/stat/127/120].)
 
  __References in Text__ 
 
@@ -61,13 +61,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–4, § 903(1)][/us/pl/113/4/s903/1], substituted “, the Violence Against Women Act of 2000” for “and the Violence Against Women Act of 2000” and inserted “, and the Violence Against Women Reauthorization Act of 2013” before period at end.
+    2013—Subsec. (a). [Pub. L. 113–4][/us/pl/113/4], § 903(1), substituted “, the Violence Against Women Act of 2000” for “and the Violence Against Women Act of 2000” and inserted “, and the Violence Against Women Reauthorization Act of 2013” before period at end.
 
-    Subsec. (b). [Pub. L. 113–4, § 903(2)(A)][/us/pl/113/4/s903/2/A], substituted “Secretary of Health and Human Services, the Secretary of the Interior,” for “Secretary of the Department of Health and Human Services” in introductory provisions.
+    Subsec. (b). [Pub. L. 113–4][/us/pl/113/4], § 903(2)(A), substituted “Secretary of Health and Human Services, the Secretary of the Interior,” for “Secretary of the Department of Health and Human Services” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 113–4, § 903(2)(B)][/us/pl/113/4/s903/2/B], substituted “stalking, and sex trafficking” for “and stalking”.
+    Subsec. (b)(2). [Pub. L. 113–4][/us/pl/113/4], § 903(2)(B), substituted “stalking, and sex trafficking” for “and stalking”.
 
-    Subsecs. (c), (d). [Pub. L. 113–4, § 903(3)][/us/pl/113/4/s903/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 113–4][/us/pl/113/4], § 903(3), added subsecs. (c) and (d).
 
 ----------
 
@@ -80,9 +80,9 @@
 [/us/stat/108/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1902
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1491
-[/us/pl/109/162/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs903
+[/us/pl/109/162/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIX
 [/us/stat/119/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3078
-[/us/pl/113/4/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F120
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/stat/119/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2960
@@ -96,9 +96,9 @@
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F54
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
-[/us/pl/113/4/s903/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903%2F1
-[/us/pl/113/4/s903/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903%2F2%2FA
-[/us/pl/113/4/s903/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903%2F2%2FB
-[/us/pl/113/4/s903/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903%2F3
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 
 

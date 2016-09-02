@@ -11,74 +11,25 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_ch75_schII.md) | [Next](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_s6028.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6023)
+[Previous](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_s6021 _us_usc_t42_s6022.md) | [Next](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_s6024...6027.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6023)
 
-## § 6023. Repealed. [Pub. L. 103–230, title II, § 204][/us/pl/103/230/s204], Apr. 6, 1994, [108 Stat. 302][/us/stat/108/302]
+## § 6023. Repealed. [Pub. L. 103–230, title II][/us/pl/103/230/tII], § 204, Apr. 6, 1994, [108 Stat. 302][/us/stat/108/302]
 
-    Section, [Pub. L. 88–164, title I, § 123][/us/pl/88/164/s123], as added [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2674][/us/stat/98/2674]; amended [Pub. L. 100–146, title II, § 203][/us/pl/100/146/s203], Oct. 29, 1987, [101 Stat. 849][/us/stat/101/849], required habilitation plan as condition to State’s receipt of allotment under this subchapter.
-
-§§ 6024 to 6027. __Repealed.__  __[__  __Pub. L. 106–402, title IV, § 401(a)__  __][/us/pl/106/402/s401/a]__  __,__  __Oct. 30, 2000__  __,__  __[__  __114 Stat. 1737__  __][/us/stat/114/1737]__ 
-
-    Section 6024, [Pub. L. 88–164, title I, § 124][/us/pl/88/164/s124], as added [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2675][/us/stat/98/2675]; amended [Pub. L. 100–146, title II, § 204][/us/pl/100/146/s204], Oct. 29, 1987, [101 Stat. 849][/us/stat/101/849]; [Pub. L. 101–496, § 12][/us/pl/101/496/s12], Oct. 31, 1990, [104 Stat. 1197][/us/stat/104/1197]; [Pub. L. 102–119, § 26(b)][/us/pl/102/119/s26/b], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 103–230, title II, § 205][/us/pl/103/230/s205], Apr. 6, 1994, [108 Stat. 302][/us/stat/108/302], required each State receiving assistance to establish and maintain a State Developmental Disabilities Council.
-
-    Section 6025, [Pub. L. 88–164, title I, § 125][/us/pl/88/164/s125], as added [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2676][/us/stat/98/2676]; amended [Pub. L. 100–146, title II, § 205][/us/pl/100/146/s205], Oct. 29, 1987, [101 Stat. 850][/us/stat/101/850]; [Pub. L. 101–496, § 13][/us/pl/101/496/s13], Oct. 31, 1990, [104 Stat. 1197][/us/stat/104/1197]; [Pub. L. 103–230, title II, § 206][/us/pl/103/230/s206], Apr. 6, 1994, [108 Stat. 310][/us/stat/108/310], related to State allotments.
-
-    Section 6025a, [Pub. L. 88–164, title I, § 125A][/us/pl/88/164/s125A], as added [Pub. L. 103–230, title II, § 207][/us/pl/103/230/s207], Apr. 6, 1994, [108 Stat. 312][/us/stat/108/312], established Federal and non-Federal shares.
-
-    Section 6026, [Pub. L. 88–164, title I, § 126][/us/pl/88/164/s126], as added [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2677][/us/stat/98/2677]; amended [Pub. L. 103–230, title II, § 208][/us/pl/103/230/s208], Apr. 6, 1994, [108 Stat. 313][/us/stat/108/313], provided for payments to States for planning, administration, and services.
-
-    Section 6027, [Pub. L. 88–164, title I, § 127][/us/pl/88/164/s127], as added [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2678][/us/stat/98/2678]; amended [Pub. L. 100–146, title II, § 207][/us/pl/100/146/s207], Oct. 29, 1987, [101 Stat. 851][/us/stat/101/851]; [Pub. L. 103–230, title II, § 209][/us/pl/103/230/s209], Apr. 6, 1994, [108 Stat. 313][/us/stat/108/313], related to withholding of payments to States.
+    Section, [Pub. L. 88–164, title I][/us/pl/88/164/tI], § 123, as added [Pub. L. 98–527][/us/pl/98/527], § 2, Oct. 19, 1984, [98 Stat. 2674][/us/stat/98/2674]; amended [Pub. L. 100–146, title II][/us/pl/100/146/tII], § 203, Oct. 29, 1987, [101 Stat. 849][/us/stat/101/849], required habilitation plan as condition to State’s receipt of allotment under this subchapter.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_ch75_schII.md) | [Next](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_s6028.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6023)
+[Previous](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_s6021 _us_usc_t42_s6022.md) | [Next](./../../../../..//us/usc/t42/ch75/schII/m__us_usc_t42_s6024...6027.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6023)
 
 ----------
 ----------
 
-[/us/pl/103/230/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F230%2Fs204
+[/us/pl/103/230/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F230%2FtII
 [/us/stat/108/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F302
-[/us/pl/88/164/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs123
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
+[/us/pl/88/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2FtI
+[/us/pl/98/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527
 [/us/stat/98/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2674
-[/us/pl/100/146/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F146%2Fs203
+[/us/pl/100/146/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F146%2FtII
 [/us/stat/101/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F849
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
-[/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
-[/us/pl/88/164/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs124
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
-[/us/stat/98/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2675
-[/us/pl/100/146/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F146%2Fs204
-[/us/stat/101/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F849
-[/us/pl/101/496/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F496%2Fs12
-[/us/stat/104/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1197
-[/us/pl/102/119/s26/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs26%2Fb
-[/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/103/230/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F230%2Fs205
-[/us/stat/108/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F302
-[/us/pl/88/164/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs125
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
-[/us/stat/98/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2676
-[/us/pl/100/146/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F146%2Fs205
-[/us/stat/101/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F850
-[/us/pl/101/496/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F496%2Fs13
-[/us/stat/104/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1197
-[/us/pl/103/230/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F230%2Fs206
-[/us/stat/108/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F310
-[/us/pl/88/164/s125A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs125A
-[/us/pl/103/230/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F230%2Fs207
-[/us/stat/108/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F312
-[/us/pl/88/164/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs126
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
-[/us/stat/98/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2677
-[/us/pl/103/230/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F230%2Fs208
-[/us/stat/108/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F313
-[/us/pl/88/164/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs127
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
-[/us/stat/98/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2678
-[/us/pl/100/146/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F146%2Fs207
-[/us/stat/101/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F851
-[/us/pl/103/230/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F230%2Fs209
-[/us/stat/108/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F313
 
 

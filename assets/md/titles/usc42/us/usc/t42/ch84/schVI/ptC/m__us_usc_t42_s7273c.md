@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 105–85, div. C, title XXXI, § 3133][/us/pl/105/85/s3133], Nov. 18, 1997, [111 Stat. 2036][/us/stat/111/2036]; [Pub. L. 105–261, div. A, title X, § 1069(b)(3)][/us/pl/105/261/s1069/b/3], div. C, title XXXI, § 3131, Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136], 2246, which related to international cooperative stockpile stewardship, was renumbered [section 4301 of Pub. L. 107–314][/us/pl/107/314/s4301], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(2)(A)][/us/pl/108/136/s3141/f/2/A]–(C), Nov. 24, 2003, [117 Stat. 1762][/us/stat/117/1762], and was classified to [section 2561 of Title 50][/us/usc/t50/s2561], War and National Defense, prior to repeal by [Pub. L. 111–84, div. C, title XXXI, § 3117(a)][/us/pl/111/84/s3117/a], Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709].
+    Section, [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3133, Nov. 18, 1997, [111 Stat. 2036][/us/stat/111/2036]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(b)(3), div. C, title XXXI, § 3131, Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136], 2246, which related to international cooperative stockpile stewardship, was renumbered [section 4301 of Pub. L. 107–314][/us/pl/107/314/s4301], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(f)(2)(A)–(C), Nov. 24, 2003, [117 Stat. 1762][/us/stat/117/1762], and was classified to [section 2561 of Title 50][/us/usc/t50/s2561], War and National Defense, prior to repeal by [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3117(a), Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709].
 
 ----------
 
@@ -26,15 +26,15 @@
 ----------
 ----------
 
-[/us/pl/105/85/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3133
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2036
-[/us/pl/105/261/s1069/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fb%2F3
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/pl/107/314/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4301
-[/us/pl/108/136/s3141/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Ff%2F2%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1762
 [/us/usc/t50/s2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2561
-[/us/pl/111/84/s3117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3117%2Fa
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2709
 
 

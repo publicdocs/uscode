@@ -25,7 +25,7 @@
 
         The members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of service for the Board.
 
-([Pub. L. 107–12, § 4][/us/pl/107/12/s4], May 30, 2001, [115 Stat. 21][/us/stat/115/21].)
+([Pub. L. 107–12][/us/pl/107/12], § 4, May 30, 2001, [115 Stat. 21][/us/stat/115/21].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/107/12/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs4
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F21
 
 

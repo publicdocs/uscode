@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary for carrying out this part $212,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994. Amounts authorized or otherwise made available for program direction, space reactor power systems, advanced radioisotope power systems, and the space exploration initiative under nuclear energy research and development shall be in addition to the amounts authorized in the preceding sentence.
 
-([Pub. L. 102–486, title XXI, § 2126][/us/pl/102/486/s2126], Oct. 24, 1992, [106 Stat. 3085][/us/stat/106/3085].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2126, Oct. 24, 1992, [106 Stat. 3085][/us/stat/106/3085].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2126
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3085
 
 

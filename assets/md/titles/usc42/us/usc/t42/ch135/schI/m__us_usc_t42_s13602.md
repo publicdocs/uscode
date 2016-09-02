@@ -17,7 +17,7 @@
 
     In selecting tenants for occupancy of units in federally assisted housing, an owner of such housing shall utilize the criteria for occupancy in federally assisted housing established by the Secretary, by regulation, under [section 13603 of this title][/us/usc/t42/s13603]. If an owner determines that an applicant for occupancy in the housing does not meet such criteria, the owner may deny such applicant occupancy.
 
-([Pub. L. 102–550, title VI, § 642][/us/pl/102/550/s642], Oct. 28, 1992, [106 Stat. 3821][/us/stat/106/3821].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 642, Oct. 28, 1992, [106 Stat. 3821][/us/stat/106/3821].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s13603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13603
-[/us/pl/102/550/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs642
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3821
 
 

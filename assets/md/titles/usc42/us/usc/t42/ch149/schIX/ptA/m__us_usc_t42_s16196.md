@@ -23,7 +23,7 @@
 
         The Secretary shall submit to Congress, along with the annual budget request of the President submitted to Congress, a report on the activities of the Energy Efficiency Science Initiative, including a description of the process used to award the funds and an explanation of how the research relates to energy efficiency.
 
-([Pub. L. 109–58, title IX, § 916][/us/pl/109/58/s916], Aug. 8, 2005, [119 Stat. 862][/us/stat/119/862].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 916, Aug. 8, 2005, [119 Stat. 862][/us/stat/119/862].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s7133/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7133%2Fa%2F9
-[/us/pl/109/58/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs916
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F862
 
 

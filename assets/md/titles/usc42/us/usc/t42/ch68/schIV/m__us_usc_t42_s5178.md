@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch68/schIV/m__us_usc_t42_s5177a.md) | [Next](./../../../../..//us/usc/t42/ch68/schIV/m__us_usc_t42_s5179.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5178)
 
-## § 5178. Repealed. [Pub. L. 106–390, title II, § 206(c)][/us/pl/106/390/s206/c], Oct. 30, 2000, [114 Stat. 1571][/us/stat/114/1571]
+## § 5178. Repealed. [Pub. L. 106–390, title II][/us/pl/106/390/tII], § 206(c), Oct. 30, 2000, [114 Stat. 1571][/us/stat/114/1571]
 
-    Section, [Pub. L. 93–288, title IV, § 411][/us/pl/93/288/s411], as added [Pub. L. 100–707, title I, § 106(g)][/us/pl/100/707/s106/g], Nov. 23, 1988, [102 Stat. 4704][/us/stat/102/4704], related to individual and family grant programs.
+    Section, [Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 411, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(g), Nov. 23, 1988, [102 Stat. 4704][/us/stat/102/4704], related to individual and family grant programs.
 
  __Effective Date of Repeal__ 
 
@@ -23,7 +23,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5178, [Pub. L. 93–288, title IV, § 408][/us/pl/93/288/s408], May 22, 1974, [88 Stat. 156][/us/stat/88/156], related to individual and family grant programs, prior to repeal by [Pub. L. 100–707, § 106(g)][/us/pl/100/707/s106/g].
+    A prior section 5178, [Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 408, May 22, 1974, [88 Stat. 156][/us/stat/88/156], related to individual and family grant programs, prior to repeal by [Pub. L. 100–707][/us/pl/100/707], § 106(g).
 
     A prior [section 411 of Pub. L. 93–288][/us/pl/93/288/s411] was renumbered section 414 by [Pub. L. 100–707][/us/pl/100/707] and is classified to [section 5181 of this title][/us/usc/t42/s5181].
 
@@ -34,16 +34,16 @@
 ----------
 ----------
 
-[/us/pl/106/390/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs206%2Fc
+[/us/pl/106/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtII
 [/us/stat/114/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1571
-[/us/pl/93/288/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs411
-[/us/pl/100/707/s106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fg
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4704
 [/us/pl/106/390/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs206%2Fd
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
-[/us/pl/93/288/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs408
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F156
-[/us/pl/100/707/s106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fg
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/93/288/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs411
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5181

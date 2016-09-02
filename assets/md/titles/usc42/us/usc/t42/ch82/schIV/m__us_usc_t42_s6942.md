@@ -55,7 +55,7 @@
 
         (11) available new and additional markets for recovered material and energy and energy resources recovered from solid waste as well as methods for conserving such materials and energy.
 
-([Pub. L. 89–272, title II, § 4002][/us/pl/89/272/s4002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2813][/us/stat/90/2813]; amended [Pub. L. 96–482, § 32(c)][/us/pl/96/482/s32/c], Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4002, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2813][/us/stat/90/2813]; amended [Pub. L. 96–482][/us/pl/96/482], § 32(c), Oct. 21, 1980, [94 Stat. 2353][/us/stat/94/2353].)
 
  __Amendments__ 
 
@@ -73,10 +73,10 @@
 ----------
 
 [/us/usc/t42/s6941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6941
-[/us/pl/89/272/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4002
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2813
-[/us/pl/96/482/s32/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs32%2Fc
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2353
 [/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

@@ -163,13 +163,13 @@
 
             (C) $8,000,000 for fiscal year 2010.
 
-([Pub. L. 110–69, title V, § 5005][/us/pl/110/69/s5005], Aug. 9, 2007, [121 Stat. 613][/us/stat/121/613]; [Pub. L. 111–358, title IX, § 902(b)][/us/pl/111/358/s902/b], Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
+([Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5005, Aug. 9, 2007, [121 Stat. 613][/us/stat/121/613]; [Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 902(b), Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
 
  __Amendments__ 
 
-    2011—Subsec. (b)(2)(J). [Pub. L. 111–358, § 902(b)(1)][/us/pl/111/358/s902/b/1], added subpar. (J).
+    2011—Subsec. (b)(2)(J). [Pub. L. 111–358][/us/pl/111/358], § 902(b)(1), added subpar. (J).
 
-    Subsec. (f)(1)(D) to (F). [Pub. L. 111–358, § 902(b)(2)][/us/pl/111/358/s902/b/2], added subpars. (D) to (F).
+    Subsec. (f)(1)(D) to (F). [Pub. L. 111–358][/us/pl/111/358], § 902(b)(2), added subpars. (D) to (F).
 
 ----------
 
@@ -178,11 +178,11 @@
 ----------
 ----------
 
-[/us/pl/110/69/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5005
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F613
-[/us/pl/111/358/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs902%2Fb
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4044
-[/us/pl/111/358/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs902%2Fb%2F1
-[/us/pl/111/358/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs902%2Fb%2F2
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 
 

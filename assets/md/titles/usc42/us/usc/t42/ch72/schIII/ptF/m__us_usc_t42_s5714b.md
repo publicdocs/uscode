@@ -31,7 +31,7 @@
 
         (2) Any structural modifications or additions to facilities made available under this section shall become the property of the United States. All such modifications or additions may be made only after receiving the prior written consent of the Secretary or other appropriate officer of the Department of Health and Human Services.
 
-([Pub. L. 93–415, title III, § 381][/us/pl/93/415/s381], formerly § 316, as added [Pub. L. 98–473, title II, § 655(2)][/us/pl/98/473/s655/2], Oct. 12, 1984, [98 Stat. 2124][/us/stat/98/2124]; renumbered § 342 and amended [Pub. L. 100–690, title VII, § 7273(b)][/us/pl/100/690/s7273/b], (e)(2), Nov. 18, 1988, [102 Stat. 4454][/us/stat/102/4454], 4455; renumbered § 372, [Pub. L. 102–586, § 3(g)(1)(B)(ii)][/us/pl/102/586/s3/g/1/B/ii], Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 129(a)(2)(E)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–76; renumbered § 381, [Pub. L. 106–71, § 3(q)][/us/pl/106/71/s3/q], Oct. 12, 1999, [113 Stat. 1042][/us/stat/113/1042].)
+([Pub. L. 93–415, title III][/us/pl/93/415/tIII], § 381, formerly § 316, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 655(2), Oct. 12, 1984, [98 Stat. 2124][/us/stat/98/2124]; renumbered § 342 and amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7273(b), (e)(2), Nov. 18, 1988, [102 Stat. 4454][/us/stat/102/4454], 4455; renumbered § 372, [Pub. L. 102–586][/us/pl/102/586], § 3(g)(1)(B)(ii), Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 129(a)(2)(E)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–76; renumbered § 381, [Pub. L. 106–71][/us/pl/106/71], § 3(q), Oct. 12, 1999, [113 Stat. 1042][/us/stat/113/1042].)
 
  __Prior Provisions__ 
 
@@ -41,9 +41,9 @@
 
     1998—Subsec. (a)(3). [Pub. L. 105–277][/us/pl/105/277] substituted “unit of local government” for “unit of general local government”.
 
-    1988—[Pub. L. 100–690, § 7273(b)(1)][/us/pl/100/690/s7273/b/1], inserted “or as transitional living youth shelter facilities” at end of section catchline.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 7273(b)(1), inserted “or as transitional living youth shelter facilities” at end of section catchline.
 
-    Subsec. (a). [Pub. L. 100–690, § 7273(b)(2)][/us/pl/100/690/s7273/b/2], inserted “or as transitional living youth shelter facilities” after “runaway and homeless youth centers” in introductory provisions and “or transitional living youth project, as the case may be, under this subchapter” after “homeless youth center” in par. (1).
+    Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 7273(b)(2), inserted “or as transitional living youth shelter facilities” after “runaway and homeless youth centers” in introductory provisions and “or transitional living youth project, as the case may be, under this subchapter” after “homeless youth center” in par. (1).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -60,22 +60,22 @@
 ----------
 ----------
 
-[/us/pl/93/415/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs381
-[/us/pl/98/473/s655/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs655%2F2
+[/us/pl/93/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIII
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2124
-[/us/pl/100/690/s7273/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7273%2Fb
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4454
-[/us/pl/102/586/s3/g/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fg%2F1%2FB%2Fii
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5022
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/106/71/s3/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs3%2Fq
+[/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/stat/113/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1042
 [/us/pl/93/415/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs381
 [/us/usc/t42/s5715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5715
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/100/690/s7273/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7273%2Fb%2F1
-[/us/pl/100/690/s7273/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7273%2Fb%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

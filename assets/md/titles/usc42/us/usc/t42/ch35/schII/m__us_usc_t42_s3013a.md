@@ -17,7 +17,7 @@
 
     The Assistant Secretary shall consult and coordinate with State agencies, area agencies on aging, and recipients of grants under subchapter X of this chapter in the development of Federal goals, regulations, program instructions, and policies under this chapter.
 
-([Pub. L. 89–73, title II, § 203A][/us/pl/89/73/s203A], as added [Pub. L. 102–375, title II, § 204][/us/pl/102/375/s204], Sept. 30, 1992, [106 Stat. 1211][/us/stat/106/1211]; amended [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990].)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 203A, as added [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 204, Sept. 30, 1992, [106 Stat. 1211][/us/stat/106/1211]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/89/73/s203A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs203A
-[/us/pl/102/375/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs204
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1211
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 

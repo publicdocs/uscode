@@ -267,7 +267,7 @@
 
             Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2012 through 2016 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 437, as added [Pub. L. 107–133, title I, § 106(b)][/us/pl/107/133/s106/b], Jan. 17, 2002, [115 Stat. 2417][/us/stat/115/2417]; amended [Pub. L. 109–288][/us/pl/109/288], §§ 3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, [120 Stat. 1234][/us/stat/120/1234], 1238, 1242, 1243, 1247; [Pub. L. 110–234, title IV, § 4002(b)(1)(D)][/us/pl/110/234/s4002/b/1/D], (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–34, title I][/us/pl/112/34], §§ 102(a)(2), 103(c)(1), (2), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 373.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 437, as added [Pub. L. 107–133, title I][/us/pl/107/133/tI], § 106(b), Jan. 17, 2002, [115 Stat. 2417][/us/stat/115/2417]; amended [Pub. L. 109–288][/us/pl/109/288], §§ 3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, [120 Stat. 1234][/us/stat/120/1234], 1238, 1242, 1243, 1247; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(D), (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–34, title I][/us/pl/112/34/tI], §§ 102(a)(2), 103(c)(1), (2), Sept. 30, 2011, [125 Stat. 371][/us/stat/125/371], 373.)
 
  __References in Text__ 
 
@@ -283,45 +283,45 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–34, § 102(a)(2)][/us/pl/112/34/s102/a/2], substituted “2012 through 2016” for “2007 through 2011”.
+    2011—Subsec. (a). [Pub. L. 112–34][/us/pl/112/34], § 102(a)(2), substituted “2012 through 2016” for “2007 through 2011”.
 
-    Subsec. (f). [Pub. L. 112–34, § 103(c)(2)(A)][/us/pl/112/34/s103/c/2/A], struck out “methamphetamine or other” before “substance abuse” in heading.
+    Subsec. (f). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(A), struck out “methamphetamine or other” before “substance abuse” in heading.
 
-    Subsec. (f)(1). [Pub. L. 112–34, § 103(c)(2)(B)][/us/pl/112/34/s103/c/2/B], struck out “methamphetamine or other” before “substance abuse”.
+    Subsec. (f)(1). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
 
-    Subsec. (f)(3)(A). [Pub. L. 112–34, § 103(c)(1)][/us/pl/112/34/s103/c/1], substituted “2012 through 2016” for “2007 through 2011”.
+    Subsec. (f)(3)(A). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(1), substituted “2012 through 2016” for “2007 through 2011”.
 
-    Subsec. (f)(3)(B), (C). [Pub. L. 112–34, § 103(c)(2)(C)][/us/pl/112/34/s103/c/2/C], added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years.”
+    Subsec. (f)(3)(B), (C). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(C), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years.”
 
-    Subsec. (f)(4)(A). [Pub. L. 112–34, § 103(c)(2)(B)][/us/pl/112/34/s103/c/2/B], struck out “methamphetamine or other” before “substance abuse”.
+    Subsec. (f)(4)(A). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
 
-    Subsec. (f)(6)(A)(iv), (v). [Pub. L. 112–34, § 103(c)(2)(D)][/us/pl/112/34/s103/c/2/D], added cls. (iv) and (v).
+    Subsec. (f)(6)(A)(iv), (v). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(D), added cls. (iv) and (v).
 
-    Subsec. (f)(7). [Pub. L. 112–34, § 103(c)(2)(E)][/us/pl/112/34/s103/c/2/E], substituted “shall” for “shall—”, struck out subpar. (A) designation before “take”, substituted period for “; and” at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7) and realigned margins, and struck out subpar. (B) which read as follows: “after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.”
+    Subsec. (f)(7). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(E), substituted “shall” for “shall—”, struck out subpar. (A) designation before “take”, substituted period for “; and” at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7) and realigned margins, and struck out subpar. (B) which read as follows: “after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.”
 
-    Subsec. (f)(7)(A)(i). [Pub. L. 112–34, § 103(c)(2)(B)][/us/pl/112/34/s103/c/2/B], struck out “methamphetamine or other” before “substance abuse”.
+    Subsec. (f)(7)(A)(i). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
 
-    Subsec. (f)(9)(B)(iii). [Pub. L. 112–34, § 103(c)(2)(B)][/us/pl/112/34/s103/c/2/B], struck out “methamphetamine or other” before “substance abuse”.
+    Subsec. (f)(9)(B)(iii). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
 
-    Subsec. (f)(10). [Pub. L. 112–34, § 103(c)(2)(F)][/us/pl/112/34/s103/c/2/F], added par. (10).
+    Subsec. (f)(10). [Pub. L. 112–34][/us/pl/112/34], § 103(c)(2)(F), added par. (10).
 
-    2008—Subsec. (c)(3). [Pub. L. 110–246, § 4002(b)(1)(D)][/us/pl/110/246/s4002/b/1/D], (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+    2008—Subsec. (c)(3). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
-    2006—[Pub. L. 109–288, § 4(b)(2)(B)(i)][/us/pl/109/288/s4/b/2/B/i], inserted “and targeted” after “Discretionary” in section catchline.
+    2006—[Pub. L. 109–288][/us/pl/109/288], § 4(b)(2)(B)(i), inserted “and targeted” after “Discretionary” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–288, § 3(b)][/us/pl/109/288/s3/b], substituted “2007 through 2011” for “2002 through 2006”.
+    Subsec. (a). [Pub. L. 109–288][/us/pl/109/288], § 3(b), substituted “2007 through 2011” for “2002 through 2006”.
 
-    Subsec. (b)(3). [Pub. L. 109–288, § 5(b)(2)(A)][/us/pl/109/288/s5/b/2/A], inserted “or tribal consortia” after “Indian tribes” in heading and text.
+    Subsec. (b)(3). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(2)(A), inserted “or tribal consortia” after “Indian tribes” in heading and text.
 
-    [Pub. L. 109–288, § 5(a)(2)][/us/pl/109/288/s5/a/2], substituted “3 percent” for “2 percent”.
+    [Pub. L. 109–288][/us/pl/109/288], § 5(a)(2), substituted “3 percent” for “2 percent”.
 
-    Subsec. (c)(1). [Pub. L. 109–288, § 5(b)(2)(B)][/us/pl/109/288/s5/b/2/B], inserted “or tribal consortia” after “tribes” in heading and inserted at end “If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.”
+    Subsec. (c)(1). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(2)(B), inserted “or tribal consortia” after “tribes” in heading and inserted at end “If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.”
 
-    Subsec. (c)(2). [Pub. L. 109–288, § 6(f)(5)][/us/pl/109/288/s6/f/5], substituted “section 623” for “section 621”.
+    Subsec. (c)(2). [Pub. L. 109–288][/us/pl/109/288], § 6(f)(5), substituted “section 623” for “section 621”.
 
-    Subsec. (e). [Pub. L. 109–288, § 4(b)(2)(B)(ii)][/us/pl/109/288/s4/b/2/B/ii], substituted “subsection (a)” for “this section”.
+    Subsec. (e). [Pub. L. 109–288][/us/pl/109/288], § 4(b)(2)(B)(ii), substituted “subsection (a)” for “this section”.
 
-    Subsec. (f). [Pub. L. 109–288, § 4(b)(2)(A)][/us/pl/109/288/s4/b/2/A], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–288][/us/pl/109/288], § 4(b)(2)(A), added subsec. (f).
 
  __Effective Date of 2011 Amendment__ 
 
@@ -357,15 +357,15 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s629f/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629f%2Fb%2F5
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/107/133/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs106%2Fb
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2417
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1234
-[/us/pl/110/234/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FD
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F371
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
@@ -376,26 +376,26 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t42/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs637
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/112/34/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fa%2F2
-[/us/pl/112/34/s103/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FA
-[/us/pl/112/34/s103/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FB
-[/us/pl/112/34/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F1
-[/us/pl/112/34/s103/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FC
-[/us/pl/112/34/s103/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FB
-[/us/pl/112/34/s103/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FD
-[/us/pl/112/34/s103/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FE
-[/us/pl/112/34/s103/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FB
-[/us/pl/112/34/s103/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FB
-[/us/pl/112/34/s103/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs103%2Fc%2F2%2FF
-[/us/pl/110/246/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FD
-[/us/pl/109/288/s4/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fb%2F2%2FB%2Fi
-[/us/pl/109/288/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs3%2Fb
-[/us/pl/109/288/s5/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F2%2FA
-[/us/pl/109/288/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fa%2F2
-[/us/pl/109/288/s5/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F2%2FB
-[/us/pl/109/288/s6/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F5
-[/us/pl/109/288/s4/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fb%2F2%2FB%2Fii
-[/us/pl/109/288/s4/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fb%2F2%2FA
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622

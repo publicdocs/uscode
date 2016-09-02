@@ -51,7 +51,7 @@
 
         There are authorized to be appropriated $1,800,000 for each of the fiscal years 1990, 1991, and 1992 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338K, formerly § 338J, as added [Pub. L. 100–713, title I, § 106][/us/pl/100/713/s106], Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787]; renumbered § 338K, [Pub. L. 101–597, title III, § 302][/us/pl/101/597/s302], Nov. 16, 1990, [104 Stat. 3032][/us/stat/104/3032]; amended [Pub. L. 101–644, title IV, § 401][/us/pl/101/644/s401], Nov. 29, 1990, [104 Stat. 4668][/us/stat/104/4668]; [Pub. L. 107–116, title V, § 514(b)][/us/pl/107/116/s514/b], Jan. 10, 2002, [115 Stat. 2220][/us/stat/115/2220].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338K, formerly § 338J, as added [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 106, Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787]; renumbered § 338K, [Pub. L. 101–597, title III][/us/pl/101/597/tIII], § 302, Nov. 16, 1990, [104 Stat. 3032][/us/stat/104/3032]; amended [Pub. L. 101–644, title IV][/us/pl/101/644/tIV], § 401, Nov. 29, 1990, [104 Stat. 4668][/us/stat/104/4668]; [Pub. L. 107–116, title V][/us/pl/107/116/tV], § 514(b), Jan. 10, 2002, [115 Stat. 2220][/us/stat/115/2220].)
 
  __Amendments__ 
 
@@ -71,13 +71,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/713/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs106
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4787
-[/us/pl/101/597/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs302
+[/us/pl/101/597/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtIII
 [/us/stat/104/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3032
-[/us/pl/101/644/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs401
+[/us/pl/101/644/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtIV
 [/us/stat/104/4668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4668
-[/us/pl/107/116/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs514%2Fb
+[/us/pl/107/116/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtV
 [/us/stat/115/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2220
 [/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644

@@ -37,11 +37,11 @@
 
         There are authorized to be appropriated not more than $30,000,000 for each of the fiscal years 1993, 1994, and 1995 for purposes of this section.
 
-([Pub. L. 102–486, title IV, § 410][/us/pl/102/486/s410], Oct. 24, 1992, [106 Stat. 2884][/us/stat/106/2884].)
+([Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 410, Oct. 24, 1992, [106 Stat. 2884][/us/stat/106/2884].)
 
  __References in Text__ 
 
-    [Section 7587 of this title][/us/usc/t42/s7587], referred to in subsec. (c), was in the original “section 247 of the Clean Air Act Amendments of 1990”, [Pub. L. 101–549][/us/pl/101/549], and was translated as reading “section 247 of the Clean Air Act”, meaning section 247 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, as added Nov. 15, 1990, [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], [104 Stat. 2523][/us/stat/104/2523], to reflect the probable intent of Congress, because the Clean Air Act Amendments of 1990 does not contain a section 247, and section 247 of the Clean Air Act relates to alternate fuel conversions for vehicles.
+    [Section 7587 of this title][/us/usc/t42/s7587], referred to in subsec. (c), was in the original “section 247 of the Clean Air Act Amendments of 1990”, [Pub. L. 101–549][/us/pl/101/549], and was translated as reading “section 247 of the Clean Air Act”, meaning section 247 of [act July 14, 1955, ch. 360, title II][/us/act/1955-07-14/ch360/tII], as added Nov. 15, 1990, [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), [104 Stat. 2523][/us/stat/104/2523], to reflect the probable intent of Congress, because the Clean Air Act Amendments of 1990 does not contain a section 247, and section 247 of the Clean Air Act relates to alternate fuel conversions for vehicles.
 
 ----------
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/102/486/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs410
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2884
 [/us/usc/t42/s7587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7587
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/act/1955-07-14/ch360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtII
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2523
 
 

@@ -17,7 +17,7 @@
 
     The Council is authorized to delegate to any member or employee of the Council its administrative functions under [section 1962a–4 of this title][/us/usc/t42/s1962a–4] and the detailed administration of the grant program under subchapter III of this chapter.
 
-([Pub. L. 89–80, title IV, § 403][/us/pl/89/80/s403], July 22, 1965, [79 Stat. 254][/us/stat/79/254].)
+([Pub. L. 89–80, title IV][/us/pl/89/80/tIV], § 403, July 22, 1965, [79 Stat. 254][/us/stat/79/254].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s1962a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962a%E2%80%934
-[/us/pl/89/80/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs403
+[/us/pl/89/80/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIV
 [/us/stat/79/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F254
 
 

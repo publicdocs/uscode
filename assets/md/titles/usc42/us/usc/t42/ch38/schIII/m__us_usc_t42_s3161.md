@@ -49,7 +49,7 @@
 
         Any designation of a redevelopment area made before the effective date of the Economic Development Administration Reform Act of 1998 shall not be effective after that effective date.
 
-([Pub. L. 89–136, title III, § 301][/us/pl/89/136/s301], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3607][/us/stat/112/3607]; amended [Pub. L. 108–373, title III, § 301][/us/pl/108/373/s301], Oct. 27, 2004, [118 Stat. 1767][/us/stat/118/1767].)
+([Pub. L. 89–136, title III][/us/pl/89/136/tIII], § 301, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3607][/us/stat/112/3607]; amended [Pub. L. 108–373, title III][/us/pl/108/373/tIII], § 301, Oct. 27, 2004, [118 Stat. 1767][/us/stat/118/1767].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 3161, [Pub. L. 89–136, title IV, § 401][/us/pl/89/136/s401], Aug. 26, 1965, [79 Stat. 560][/us/stat/79/560]; [Pub. L. 89–794, title XI, § 1102][/us/pl/89/794/s1102], Nov. 8, 1966, [80 Stat. 1477][/us/stat/80/1477]; [Pub. L. 91–123, title III, § 304][/us/pl/91/123/s304], Nov. 25, 1969, [83 Stat. 219][/us/stat/83/219]; [Pub. L. 92–65, title I, § 106][/us/pl/92/65/s106], Aug. 5, 1971, [85 Stat. 167][/us/stat/85/167]; [Pub. L. 93–423][/us/pl/93/423], §§ 3(a), 6, Sept. 27, 1974, [88 Stat. 1158][/us/stat/88/1158], 1161; [Pub. L. 94–487, title I][/us/pl/94/487], §§ 113, 114, Oct. 12, 1976, [90 Stat. 2334][/us/stat/90/2334], set forth criteria for determining eligible redevelopment areas, prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior section 3161, [Pub. L. 89–136, title IV][/us/pl/89/136/tIV], § 401, Aug. 26, 1965, [79 Stat. 560][/us/stat/79/560]; [Pub. L. 89–794, title XI][/us/pl/89/794/tXI], § 1102, Nov. 8, 1966, [80 Stat. 1477][/us/stat/80/1477]; [Pub. L. 91–123, title III][/us/pl/91/123/tIII], § 304, Nov. 25, 1969, [83 Stat. 219][/us/stat/83/219]; [Pub. L. 92–65, title I][/us/pl/92/65/tI], § 106, Aug. 5, 1971, [85 Stat. 167][/us/stat/85/167]; [Pub. L. 93–423][/us/pl/93/423], §§ 3(a), 6, Sept. 27, 1974, [88 Stat. 1158][/us/stat/88/1158], 1161; [Pub. L. 94–487, title I][/us/pl/94/487/tI], §§ 113, 114, Oct. 12, 1976, [90 Stat. 2334][/us/stat/90/2334], set forth criteria for determining eligible redevelopment areas, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
-    A prior [section 301 of Pub. L. 89–136][/us/pl/89/136/s301] was classified to [section 3151 of this title][/us/usc/t42/s3151] prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior [section 301 of Pub. L. 89–136][/us/pl/89/136/s301] was classified to [section 3151 of this title][/us/usc/t42/s3151] prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
  __Amendments__ 
 
@@ -72,29 +72,29 @@
 ----------
 ----------
 
-[/us/pl/89/136/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs301
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtIII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3607
-[/us/pl/108/373/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs301
+[/us/pl/108/373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtIII
 [/us/stat/118/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1767
 [/us/pl/105/393/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs105
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
-[/us/pl/89/136/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs401
+[/us/pl/89/136/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtIV
 [/us/stat/79/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F560
-[/us/pl/89/794/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs1102
+[/us/pl/89/794/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2FtXI
 [/us/stat/80/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1477
-[/us/pl/91/123/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F123%2Fs304
+[/us/pl/91/123/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F123%2FtIII
 [/us/stat/83/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F219
-[/us/pl/92/65/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2Fs106
+[/us/pl/92/65/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F65%2FtI
 [/us/stat/85/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F167
 [/us/pl/93/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F423
 [/us/stat/88/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1158
-[/us/pl/94/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487
+[/us/pl/94/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2FtI
 [/us/stat/90/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2334
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/pl/89/136/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs301
 [/us/usc/t42/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3151
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

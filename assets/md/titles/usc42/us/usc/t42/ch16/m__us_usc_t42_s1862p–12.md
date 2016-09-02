@@ -63,7 +63,7 @@
 
         (2) support standards development with the intent of supporting common goals.
 
-([Pub. L. 111–358, title V, § 524][/us/pl/111/358/s524], Jan. 4, 2011, [124 Stat. 4018][/us/stat/124/4018].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 524, Jan. 4, 2011, [124 Stat. 4018][/us/stat/124/4018].)
 
  __Codification__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs524
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4018
 [/us/pl/111/358/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs502
 [/us/usc/t42/s1862p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p

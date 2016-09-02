@@ -17,7 +17,7 @@
 
     The Federal Government, jurisdictions, political subdivisions of jurisdictions, and their agencies, officers, employees, and agents shall be immune from liability for good faith conduct under this subchapter.
 
-([Pub. L. 109–248, title I, § 131][/us/pl/109/248/s131], July 27, 2006, [120 Stat. 601][/us/stat/120/601].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 131, July 27, 2006, [120 Stat. 601][/us/stat/120/601].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs131
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F601
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

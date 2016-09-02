@@ -245,7 +245,7 @@
 
             Funds to pay a fine imposed under paragraph (1) or (2) shall be derived from non-Federal sources.
 
-([June 4, 1946, ch. 281, § 22][/us/act/1946-06-04/ch281/s22], as added [Pub. L. 101–147, title I, § 110(a)][/us/pl/101/147/s110/a], Nov. 10, 1989, [103 Stat. 889][/us/stat/103/889]; amended [Pub. L. 103–448, title I, § 121][/us/pl/103/448/s121], Nov. 2, 1994, [108 Stat. 4727][/us/stat/108/4727]; [Pub. L. 105–336, title I, § 111][/us/pl/105/336/s111], Oct. 31, 1998, [112 Stat. 3157][/us/stat/112/3157]; [Pub. L. 108–265, title I][/us/pl/108/265], §§ 126(b)(1), 127, June 30, 2004, [118 Stat. 763][/us/stat/118/763], 767; [Pub. L. 111–296, title II, § 207][/us/pl/111/296/s207], title III, §§ 303, 304, title IV, § 408, Dec. 13, 2010, [124 Stat. 3220][/us/stat/124/3220], 3240, 3242, 3260.)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 22, as added [Pub. L. 101–147, title I][/us/pl/101/147/tI], § 110(a), Nov. 10, 1989, [103 Stat. 889][/us/stat/103/889]; amended [Pub. L. 103–448, title I][/us/pl/103/448/tI], § 121, Nov. 2, 1994, [108 Stat. 4727][/us/stat/108/4727]; [Pub. L. 105–336, title I][/us/pl/105/336/tI], § 111, Oct. 31, 1998, [112 Stat. 3157][/us/stat/112/3157]; [Pub. L. 108–265, title I][/us/pl/108/265/tI], §§ 126(b)(1), 127, June 30, 2004, [118 Stat. 763][/us/stat/118/763], 767; [Pub. L. 111–296, title II][/us/pl/111/296/tII], § 207, title III, §§ 303, 304, title IV, § 408, Dec. 13, 2010, [124 Stat. 3220][/us/stat/124/3220], 3240, 3242, 3260.)
 
  __References in Text__ 
 
@@ -255,27 +255,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 1769c, [act June 4, 1946, ch. 281, § 22][/us/act/1946-06-04/ch281/s22], as added Nov. 10, 1978, [Pub. L. 95–627, § 9][/us/pl/95/627/s9], [92 Stat. 3623][/us/stat/92/3623], directed a study of menu choice, prior to repeal by [Pub. L. 99–500, title III, § 371(b)][/us/pl/99/500/s371/b], Oct. 18, 1986, [100 Stat. 1783–368][/us/stat/100/1783-368], and [Pub. L. 99–591, title III, § 371(b)][/us/pl/99/591/s371/b], Oct. 30, 1986, [100 Stat. 3341–372][/us/stat/100/3341-372]; [Pub. L. 99–661, div. D, title V, § 4501(b)][/us/pl/99/661/s4501/b], Nov. 14, 1986, [100 Stat. 4080][/us/stat/100/4080].
+    A prior section 1769c, [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 22, as added Nov. 10, 1978, [Pub. L. 95–627][/us/pl/95/627], § 9, [92 Stat. 3623][/us/stat/92/3623], directed a study of menu choice, prior to repeal by [Pub. L. 99–500, title III][/us/pl/99/500/tIII], § 371(b), Oct. 18, 1986, [100 Stat. 1783–368][/us/stat/100/1783-368], and [Pub. L. 99–591, title III][/us/pl/99/591/tIII], § 371(b), Oct. 30, 1986, [100 Stat. 3341–372][/us/stat/100/3341-372]; [Pub. L. 99–661, div. D, title V][/us/pl/99/661/dD/tV], § 4501(b), Nov. 14, 1986, [100 Stat. 4080][/us/stat/100/4080].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–296, § 207(1)][/us/pl/111/296/s207/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of [section 553 of title 5][/us/usc/t5/s553].”
+    2010—Subsec. (a). [Pub. L. 111–296][/us/pl/111/296], § 207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of [section 553 of title 5][/us/usc/t5/s553].”
 
-    Subsec. (b)(1). [Pub. L. 111–296, § 207(2)][/us/pl/111/296/s207/2], added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (b)(1). [Pub. L. 111–296][/us/pl/111/296], § 207(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) require that local food service authorities comply with the provisions of this chapter; and
 
     “(B) ensure such compliance through reasonable audits and supervisory assistance reviews.”
 
-    Subsec. (b)(6). [Pub. L. 111–296, § 304][/us/pl/111/296/s304], added par. (6).
+    Subsec. (b)(6). [Pub. L. 111–296][/us/pl/111/296], § 304, added par. (6).
 
-    Subsec. (d). [Pub. L. 111–296, § 408][/us/pl/111/296/s408], substituted “$10,000,000 for each of fiscal years 2011 through 2015” for “$6,000,000 for each of fiscal years 2004 through 2009”.
+    Subsec. (d). [Pub. L. 111–296][/us/pl/111/296], § 408, substituted “$10,000,000 for each of fiscal years 2011 through 2015” for “$6,000,000 for each of fiscal years 2004 through 2009”.
 
-    Subsec. (e). [Pub. L. 111–296, § 303][/us/pl/111/296/s303], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–296][/us/pl/111/296], § 303, added subsec. (e).
 
-    2004—Subsec. (b)(3) to (5). [Pub. L. 108–265, § 126(b)(1)][/us/pl/108/265/s126/b/1], added pars. (3) to (5).
+    2004—Subsec. (b)(3) to (5). [Pub. L. 108–265][/us/pl/108/265], § 126(b)(1), added pars. (3) to (5).
 
-    Subsec. (d). [Pub. L. 108–265, § 127][/us/pl/108/265/s127], substituted “$6,000,000 for each of fiscal years 2004 through 2009” for “$3,000,000 for each of the fiscal years 1994 through 2003”.
+    Subsec. (d). [Pub. L. 108–265][/us/pl/108/265], § 127, substituted “$6,000,000 for each of fiscal years 2004 through 2009” for “$3,000,000 for each of the fiscal years 1994 through 2003”.
 
     1998—Subsec. (d). [Pub. L. 105–336][/us/pl/105/336] substituted “2003” for “1996”.
 
@@ -299,13 +299,13 @@
 
  __Regulations__ 
 
-[Pub. L. 101–147, title I, § 110(b)][/us/pl/101/147/s110/b], Nov. 10, 1989, [103 Stat. 889][/us/stat/103/889], provided that: 
+[Pub. L. 101–147, title I][/us/pl/101/147/tI], § 110(b), Nov. 10, 1989, [103 Stat. 889][/us/stat/103/889], provided that: 
 
 > “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 22 of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
 
  __Interpretation__ 
 
-[Pub. L. 108–265, title I, § 126(b)(2)][/us/pl/108/265/s126/b/2], June 30, 2004, [118 Stat. 765][/us/stat/118/765], provided that: 
+[Pub. L. 108–265, title I][/us/pl/108/265/tI], § 126(b)(2), June 30, 2004, [118 Stat. 765][/us/stat/118/765], provided that: 
 
 > “Nothing in the amendment made by paragraph (1) \[amending this section\] affects the requirements for fiscal actions as described in the regulations issued pursuant to section 22(a) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769c(a)][/us/usc/t42/s1769c/a]).”
 
@@ -326,37 +326,37 @@
 [/us/usc/t42/s1776/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1776%2Fa
 [/us/usc/t42/s1776/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1776%2Fa
 [/us/usc/t42/s1776/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1776%2Fa
-[/us/act/1946-06-04/ch281/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs22
-[/us/pl/101/147/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs110%2Fa
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F889
-[/us/pl/103/448/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs121
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4727
-[/us/pl/105/336/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs111
+[/us/pl/105/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2FtI
 [/us/stat/112/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3157
-[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtI
 [/us/stat/118/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F763
-[/us/pl/111/296/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs207
+[/us/pl/111/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtII
 [/us/stat/124/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3220
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/act/1946-06-04/ch281/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs22
-[/us/pl/95/627/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F627%2Fs9
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/95/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F627
 [/us/stat/92/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3623
-[/us/pl/99/500/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs371%2Fb
+[/us/pl/99/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2FtIII
 [/us/stat/100/1783-368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-368
-[/us/pl/99/591/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs371%2Fb
+[/us/pl/99/591/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtIII
 [/us/stat/100/3341-372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-372
-[/us/pl/99/661/s4501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4501%2Fb
+[/us/pl/99/661/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdD%2FtV
 [/us/stat/100/4080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4080
-[/us/pl/111/296/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs207%2F1
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/111/296/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs207%2F2
-[/us/pl/111/296/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs304
-[/us/pl/111/296/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs408
-[/us/pl/111/296/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs303
-[/us/pl/108/265/s126/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs126%2Fb%2F1
-[/us/pl/108/265/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs127
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
@@ -372,9 +372,9 @@
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
 [/us/pl/103/448/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs401
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755
-[/us/pl/101/147/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs110%2Fb
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F889
-[/us/pl/108/265/s126/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs126%2Fb%2F2
+[/us/pl/108/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtI
 [/us/stat/118/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F765
 [/us/usc/t42/s1769c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769c%2Fa
 

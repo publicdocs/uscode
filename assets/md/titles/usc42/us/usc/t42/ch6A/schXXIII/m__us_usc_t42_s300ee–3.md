@@ -47,7 +47,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1991.
 
-([Pub. L. 100–607, title II, § 254][/us/pl/100/607/s254], Nov. 4, 1988, [102 Stat. 3109][/us/stat/102/3109].)
+([Pub. L. 100–607, title II][/us/pl/100/607/tII], § 254, Nov. 4, 1988, [102 Stat. 3109][/us/stat/102/3109].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/100/607/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs254
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3109
 
 

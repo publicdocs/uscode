@@ -33,7 +33,7 @@
 
         Any reimbursement pursuant to any such agreement or arrangement shall be based on charges covering the reasonable cost of such utilization, including normal depreciation and amortization costs of equipment. Any proceeds to the Government under this subsection shall be credited to the applicable appropriation of the Public Health Service for the year in which such proceeds are received.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 327A, formerly § 328, as added [Pub. L. 90–174, § 7][/us/pl/90/174/s7], Dec. 5, 1967, [81 Stat. 539][/us/stat/81/539]; renumbered § 327A, [Pub. L. 95–626, title I, § 113(a)(2)][/us/pl/95/626/s113/a/2], Nov. 10, 1978, [92 Stat. 3562][/us/stat/92/3562]; amended [Pub. L. 100–607, title VI, § 629(a)(1)][/us/pl/100/607/s629/a/1], Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 327A, formerly § 328, as added [Pub. L. 90–174][/us/pl/90/174], § 7, Dec. 5, 1967, [81 Stat. 539][/us/stat/81/539]; renumbered § 327A, [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 113(a)(2), Nov. 10, 1978, [92 Stat. 3562][/us/stat/92/3562]; amended [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 629(a)(1), Nov. 4, 1988, [102 Stat. 3146][/us/stat/102/3146].)
 
  __Amendments__ 
 
@@ -41,29 +41,29 @@
 
  __Availability of Appropriations for Expenses of Sharing Medical Care Facilities and Resources__ 
 
-[Pub. L. 102–394, title II, § 204][/us/pl/102/394/s204], Oct. 6, 1992, [106 Stat. 1811][/us/stat/106/1811], provided that: 
+[Pub. L. 102–394, title II][/us/pl/102/394/tII], § 204, Oct. 6, 1992, [106 Stat. 1811][/us/stat/106/1811], provided that: 
 
 > “Funds advanced to the National Institutes of Health Management Fund from appropriations in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be available for the expenses of sharing medical care facilities and resources pursuant to section 327A of the Public Health Service Act \[[42 U.S.C. 254a][/us/usc/t42/s254a]\].”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–170, title II, § 204][/us/pl/102/170/s204], Nov. 26, 1991, [105 Stat. 1126][/us/stat/105/1126].
+    [Pub. L. 102–170, title II][/us/pl/102/170/tII], § 204, Nov. 26, 1991, [105 Stat. 1126][/us/stat/105/1126].
 
-    [Pub. L. 101–517, title II, § 204][/us/pl/101/517/s204], Nov. 5, 1990, [104 Stat. 2208][/us/stat/104/2208].
+    [Pub. L. 101–517, title II][/us/pl/101/517/tII], § 204, Nov. 5, 1990, [104 Stat. 2208][/us/stat/104/2208].
 
-    [Pub. L. 101–166, title II, § 205][/us/pl/101/166/s205], Nov. 21, 1989, [103 Stat. 1177][/us/stat/103/1177].
+    [Pub. L. 101–166, title II][/us/pl/101/166/tII], § 205, Nov. 21, 1989, [103 Stat. 1177][/us/stat/103/1177].
 
-    [Pub. L. 100–202, § 101(h)][/us/pl/100/202/s101/h] \[title II, § 205\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–274.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(h) \[title II, § 205\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–274.
 
-    [Pub. L. 99–500, § 101(i)][/us/pl/99/500/s101/i] \[H.R. 5233, title II, § 205\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591, § 101(i)][/us/pl/99/591/s101/i] \[H.R. 5233, title II, § 205\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
+    [Pub. L. 99–500][/us/pl/99/500], § 101(i) \[H.R. 5233, title II, § 205\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591][/us/pl/99/591], § 101(i) \[H.R. 5233, title II, § 205\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
 
-    [Pub. L. 99–178, title II, § 205][/us/pl/99/178/s205], Dec. 12, 1985, [99 Stat. 1119][/us/stat/99/1119].
+    [Pub. L. 99–178, title II][/us/pl/99/178/tII], § 205, Dec. 12, 1985, [99 Stat. 1119][/us/stat/99/1119].
 
-    [Pub. L. 98–619, title II, § 205][/us/pl/98/619/s205], Nov. 8, 1984, [98 Stat. 3321][/us/stat/98/3321].
+    [Pub. L. 98–619, title II][/us/pl/98/619/tII], § 205, Nov. 8, 1984, [98 Stat. 3321][/us/stat/98/3321].
 
-    [Pub. L. 98–139, title II, § 205][/us/pl/98/139/s205], Oct. 31, 1983, [97 Stat. 887][/us/stat/97/887].
+    [Pub. L. 98–139, title II][/us/pl/98/139/tII], § 205, Oct. 31, 1983, [97 Stat. 887][/us/stat/97/887].
 
-    [Pub. L. 97–377, title I, § 101(e)(1)][/us/pl/97/377/s101/e/1] \[title II, § 205\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1894.
+    [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(e)(1) \[title II, § 205\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1894.
 
 ----------
 
@@ -73,35 +73,35 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/174/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs7
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F539
-[/us/pl/95/626/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs113%2Fa%2F2
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3562
-[/us/pl/100/607/s629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs629%2Fa%2F1
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3146
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/pl/102/394/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs204
+[/us/pl/102/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtII
 [/us/stat/106/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1811
 [/us/usc/t42/s254a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254a
-[/us/pl/102/170/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs204
+[/us/pl/102/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtII
 [/us/stat/105/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1126
-[/us/pl/101/517/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2Fs204
+[/us/pl/101/517/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2FtII
 [/us/stat/104/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2208
-[/us/pl/101/166/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs205
+[/us/pl/101/166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtII
 [/us/stat/103/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1177
-[/us/pl/100/202/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fh
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-256
-[/us/pl/99/500/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fi
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-287
-[/us/pl/99/591/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fi
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-287
-[/us/pl/99/178/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2Fs205
+[/us/pl/99/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2FtII
 [/us/stat/99/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1119
-[/us/pl/98/619/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2Fs205
+[/us/pl/98/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2FtII
 [/us/stat/98/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3321
-[/us/pl/98/139/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2Fs205
+[/us/pl/98/139/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2FtII
 [/us/stat/97/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F887
-[/us/pl/97/377/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fe%2F1
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1878
 
 

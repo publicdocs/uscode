@@ -115,7 +115,7 @@
 
         The Secretary has the authority to stop taking applications for participation in the program based on the availability of funding under subsection (e).
 
-([Pub. L. 111–148, title I, § 1102][/us/pl/111/148/s1102], title X, § 10102(a), Mar. 23, 2010, [124 Stat. 143][/us/stat/124/143], 892.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1102, title X, § 10102(a), Mar. 23, 2010, [124 Stat. 143][/us/stat/124/143], 892.)
 
  __References in Text__ 
 
@@ -123,9 +123,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2)(B). [Pub. L. 111–148, § 10102(a)(1)][/us/pl/111/148/s10102/a/1], substituted “group benefits plan providing health benefits” for “group health benefits plan” in introductory provisions.
+    2010—Subsec. (a)(2)(B). [Pub. L. 111–148][/us/pl/111/148], § 10102(a)(1), substituted “group benefits plan providing health benefits” for “group health benefits plan” in introductory provisions.
 
-    Subsec. (a)(2)(B)(i)(I). [Pub. L. 111–148, § 10102(a)(2)][/us/pl/111/148/s10102/a/2], inserted “or any agency or instrumentality of any of the foregoing” after “political subdivision thereof”.
+    Subsec. (a)(2)(B)(i)(I). [Pub. L. 111–148][/us/pl/111/148], § 10102(a)(2), inserted “or any agency or instrumentality of any of the foregoing” after “political subdivision thereof”.
 
 ----------
 
@@ -136,12 +136,12 @@
 
 [/us/usc/t29/s1002/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F37
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/111/148/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1102
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F143
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/148/s10102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10102%2Fa%2F1
-[/us/pl/111/148/s10102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10102%2Fa%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

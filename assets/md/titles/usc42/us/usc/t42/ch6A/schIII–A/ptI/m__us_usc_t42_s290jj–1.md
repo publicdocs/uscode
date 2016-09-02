@@ -21,7 +21,7 @@
 
     (2) of the use of seclusion or restraints in accordance with regulations promulgated by the Secretary, in consultation with the States.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 595A, as added [Pub. L. 106–310, div. B, title XXXII, § 3208][/us/pl/106/310/s3208], Oct. 17, 2000, [114 Stat. 1199][/us/stat/114/1199].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 595A, as added [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3208, Oct. 17, 2000, [114 Stat. 1199][/us/stat/114/1199].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3208
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1199
 
 

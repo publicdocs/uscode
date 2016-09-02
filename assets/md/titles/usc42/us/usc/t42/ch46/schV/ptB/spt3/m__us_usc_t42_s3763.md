@@ -29,7 +29,7 @@
 
     (b) Each applicant for funds under this part shall certify that its program or project meets all the applicable requirements of this section, that all the applicable information contained in the application is correct, and that the applicant will comply with all the applicable provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Director.
 
-([Pub. L. 90–351, title I, § 517][/us/pl/90/351/s517], formerly § 513, as added [Pub. L. 100–690, title VI, § 6091(a)][/us/pl/100/690/s6091/a], Nov. 18, 1988, [102 Stat. 4336][/us/stat/102/4336]; renumbered § 517 and amended [Pub. L. 101–647, title XVIII, § 1801(a)(4)][/us/pl/101/647/s1801/a/4], (6), Nov. 29, 1990, [104 Stat. 4847][/us/stat/104/4847]; [Pub. L. 109–162, title XI, § 1111(c)(2)(A)][/us/pl/109/162/s1111/c/2/A], Jan. 5, 2006, [119 Stat. 3101][/us/stat/119/3101].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 517, formerly § 513, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4336][/us/stat/102/4336]; renumbered § 517 and amended [Pub. L. 101–647, title XVIII][/us/pl/101/647/tXVIII], § 1801(a)(4), (6), Nov. 29, 1990, [104 Stat. 4847][/us/stat/104/4847]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1111(c)(2)(A), Jan. 5, 2006, [119 Stat. 3101][/us/stat/119/3101].)
 
  __Prior Provisions__ 
 
@@ -39,9 +39,9 @@
 
     2006—Subsec. (a)(1). [Pub. L. 109–162][/us/pl/109/162] substituted “pursuant to section 3762a” for “pursuant to section 3761 or 3762a”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–647, § 1801(a)(4)(A)][/us/pl/101/647/s1801/a/4/A], inserted “or 3762a” after “3761”.
+    1990—Subsec. (a)(1). [Pub. L. 101–647][/us/pl/101/647], § 1801(a)(4)(A), inserted “or 3762a” after “3761”.
 
-    Subsec. (b). [Pub. L. 101–647, § 1801(a)(4)(B)][/us/pl/101/647/s1801/a/4/B], inserted “applicable” after “all the” in three places.
+    Subsec. (b). [Pub. L. 101–647][/us/pl/101/647], § 1801(a)(4)(B), inserted “applicable” after “all the” in three places.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -59,18 +59,18 @@
 ----------
 
 [/us/usc/t42/s3762a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3762a
-[/us/pl/90/351/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs517
-[/us/pl/100/690/s6091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6091%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4336
-[/us/pl/101/647/s1801/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1801%2Fa%2F4
+[/us/pl/101/647/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXVIII
 [/us/stat/104/4847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4847
-[/us/pl/109/162/s1111/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FA
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3101
 [/us/pl/90/351/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs517
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/101/647/s1801/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1801%2Fa%2F4%2FA
-[/us/pl/101/647/s1801/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1801%2Fa%2F4%2FB
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fd
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

@@ -51,7 +51,7 @@
 
         This section takes effect on the date on which guidelines are issued by the Commission, with the approval of the Attorney General, to carry out this section.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 161A, as added [Pub. L. 109–58, title VI, § 653][/us/pl/109/58/s653], Aug. 8, 2005, [119 Stat. 811][/us/stat/119/811].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 161A, as added [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 653, Aug. 8, 2005, [119 Stat. 811][/us/stat/119/811].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 [/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/109/58/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs653
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F811
 
 

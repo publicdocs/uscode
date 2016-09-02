@@ -59,7 +59,7 @@
 
         Not later than April 15, 2007, and every 2 years thereafter, the Secretary shall provide a report to Congress on the progress of the Federal Government in meeting the goals established by this section.
 
-([Pub. L. 109–58, title II, § 203][/us/pl/109/58/s203], Aug. 8, 2005, [119 Stat. 652][/us/stat/119/652].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 203, Aug. 8, 2005, [119 Stat. 652][/us/stat/119/652].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t25/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3501
-[/us/pl/109/58/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs203
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F652
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776

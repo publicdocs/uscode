@@ -19,7 +19,7 @@
 
     (b) The Commission is authorized and directed to prepare a report on means for improving the opportunities for State participation in the process for siting, licensing, and developing nuclear waste storage or disposal facilities. Such report shall include detailed consideration of a program to provide grants through the Commission to any State, and the advisability of such a program, for the purpose of conducting an independent State review of any proposal to develop a nuclear waste storage or disposal facility identified in subsection (a) of this section within such State. On or before March 1, 1979, the Commission shall submit the report to the Congress including recommendations for improving the opportunities for State participation together with any necessary legislative proposals.
 
-([Pub. L. 95–601, § 14][/us/pl/95/601/s14], Nov. 6, 1978, [92 Stat. 2953][/us/stat/92/2953].)
+([Pub. L. 95–601][/us/pl/95/601], § 14, Nov. 6, 1978, [92 Stat. 2953][/us/stat/92/2953].)
 
  __References in Text__ 
 
@@ -31,15 +31,15 @@
 
  __Plan for Permanent Disposal of Waste From Atomic Energy Defense Activities; Submission of Plan to Congress Not Later Than__  __June 30, 1983__ 
 
-    [Pub. L. 97–90, title II, § 213][/us/pl/97/90/s213], Dec. 4, 1981, [95 Stat. 1171][/us/stat/95/1171], directed President to submit to Committees on Armed Services of Senate and of House of Representatives not later than June 30, 1983, a report setting forth his plans for permanent disposal of high-level and transuranic wastes resulting from atomic energy defense activities, such report to include, but not be limited to, for each State in which such wastes are stored in interim storage facilities on Dec. 4, 1981, specific estimates of amounts planned for expenditure in each of the next five fiscal years to achieve the permanent disposal of such wastes and general estimates of amounts planned for expenditure in fiscal years thereafter to achieve such purpose, and a thorough and detailed program management plan for the disposal of such wastes.
+    [Pub. L. 97–90, title II][/us/pl/97/90/tII], § 213, Dec. 4, 1981, [95 Stat. 1171][/us/stat/95/1171], directed President to submit to Committees on Armed Services of Senate and of House of Representatives not later than June 30, 1983, a report setting forth his plans for permanent disposal of high-level and transuranic wastes resulting from atomic energy defense activities, such report to include, but not be limited to, for each State in which such wastes are stored in interim storage facilities on Dec. 4, 1981, specific estimates of amounts planned for expenditure in each of the next five fiscal years to achieve the permanent disposal of such wastes and general estimates of amounts planned for expenditure in fiscal years thereafter to achieve such purpose, and a thorough and detailed program management plan for the disposal of such wastes.
 
  __West Valley Demonstration Project; Radioactive Waste Management; Project Activities; Public Hearings; Review of Project and Consultations; Authorization of Appropriations; Report to Congress__ 
 
-[Pub. L. 107–66, title III][/us/pl/107/66], Nov. 12, 2001, [115 Stat. 503][/us/stat/115/503], provided in part: 
+[Pub. L. 107–66, title III][/us/pl/107/66/tIII], Nov. 12, 2001, [115 Stat. 503][/us/stat/115/503], provided in part: 
 
 > “That funding for the West Valley Demonstration Project shall be reduced in subsequent fiscal years to the minimum necessary to maintain the project in a safe and stable condition, unless, not later than September 30, 2002, the Secretary: (1) provides written notification to the Committees on Appropriations of the House of Representatives and the Senate that agreement has been reached with the State of New York on the final scope of Federal activities at the West Valley site and on the respective Federal and State cost shares for those activities; (2) submits a written copy of that agreement to the Committees on Appropriations of the House of Representatives and the Senate; and (3) provides a written certification that the Federal actions proposed in the agreement will be in full compliance with all relevant Federal statutes and are in the best interest of the Federal Government.”
 
-[Pub. L. 96–368][/us/pl/96/368], Oct. 1, 1980, [94 Stat. 1347][/us/stat/94/1347], as amended by [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000], provided that:
+[Pub. L. 96–368][/us/pl/96/368], Oct. 1, 1980, [94 Stat. 1347][/us/stat/94/1347], as amended by [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000], provided that:
 
 > “Section 1. This Act may be cited as the ‘West Valley Demonstration Project Act’.
 
@@ -160,15 +160,15 @@
 ----------
 ----------
 
-[/us/pl/95/601/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs14
+[/us/pl/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601
 [/us/stat/92/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2953
-[/us/pl/97/90/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2Fs213
+[/us/pl/97/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F90%2FtII
 [/us/stat/95/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1171
-[/us/pl/107/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66
+[/us/pl/107/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2FtIII
 [/us/stat/115/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F503
 [/us/pl/96/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F368
 [/us/stat/94/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1347
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/usc/t42/s2014/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fe%2F2
 [/us/pl/96/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F368%2Fs4

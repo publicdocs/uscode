@@ -149,41 +149,41 @@
 
         This section may not be construed to affect the responsibilities of the Environmental Protection Agency with respect to the protection of the public health from hazards posed by lead-based paint.
 
-([Pub. L. 91–695, title III, § 302][/us/pl/91/695/s302], as added [Pub. L. 93–151, § 4(a)(1)][/us/pl/93/151/s4/a/1], Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566]; amended [Pub. L. 100–242, title V, § 566(a)][/us/pl/100/242/s566/a], Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945]; [Pub. L. 100–628, title X, § 1088(a)][/us/pl/100/628/s1088/a]–(f), (h), Nov. 7, 1988, [102 Stat. 3280–3282][/us/stat/102/3280-3282]; [Pub. L. 102–550, title X][/us/pl/102/550], §§ 1012(a)–(d), 1013, Oct. 28, 1992, [106 Stat. 3904][/us/stat/106/3904], 3905, 3907; [Pub. L. 105–276, title V, § 522(b)(4)][/us/pl/105/276/s522/b/4], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].)
+([Pub. L. 91–695, title III][/us/pl/91/695/tIII], § 302, as added [Pub. L. 93–151][/us/pl/93/151], § 4(a)(1), Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566]; amended [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 566(a), Feb. 5, 1988, [101 Stat. 1945][/us/stat/101/1945]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1088(a)–(f), (h), Nov. 7, 1988, [102 Stat. 3280–3282][/us/stat/102/3280-3282]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], §§ 1012(a)–(d), 1013, Oct. 28, 1992, [106 Stat. 3904][/us/stat/106/3904], 3905, 3907; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(b)(4), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].)
 
  __References in Text__ 
 
-    Section 1437l of this title, referred to in subsec. (d)(2)(A), (B)(vii), was repealed by [Pub. L. 105–276, title V, § 522(a)][/us/pl/105/276/s522/a], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
+    Section 1437l of this title, referred to in subsec. (d)(2)(A), (B)(vii), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(a), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
 
     For effective date of the regulations issued to carry out this subsection, referred to in subsec. (d)(2)(B), see [section 566(b) of Pub. L. 100–242][/us/pl/100/242/s566/b], set out as a note below.
 
  __Amendments__ 
 
-    1998—Subsec. (d)(1). [Pub. L. 105–276, § 522(b)(4)(A)][/us/pl/105/276/s522/b/4/A], in introductory provisions, substituted “assisted with capital assistance provided under [section 1437g of this title][/us/usc/t42/s1437g]” for “assisted under section 1437l of this title” and, in concluding provisions, substituted “capital assistance provided under [section 1437g of this title][/us/usc/t42/s1437g]” for “assistance under section 1437l of this title”.
+    1998—Subsec. (d)(1). [Pub. L. 105–276][/us/pl/105/276], § 522(b)(4)(A), in introductory provisions, substituted “assisted with capital assistance provided under [section 1437g of this title][/us/usc/t42/s1437g]” for “assisted under section 1437l of this title” and, in concluding provisions, substituted “capital assistance provided under [section 1437g of this title][/us/usc/t42/s1437g]” for “assistance under section 1437l of this title”.
 
-    Subsec. (f). [Pub. L. 105–276, § 522(b)(4)(B)][/us/pl/105/276/s522/b/4/B], substituted “under the Capital Fund under [section 1437g of this title][/us/usc/t42/s1437g]” for “for comprehensive improvement assistance under section 1437l of this title”.
+    Subsec. (f). [Pub. L. 105–276][/us/pl/105/276], § 522(b)(4)(B), substituted “under the Capital Fund under [section 1437g of this title][/us/usc/t42/s1437g]” for “for comprehensive improvement assistance under section 1437l of this title”.
 
-    1992—[Pub. L. 102–550, § 1012(a)(1)][/us/pl/102/550/s1012/a/1], amended section catchline generally.
+    1992—[Pub. L. 102–550][/us/pl/102/550], § 1012(a)(1), amended section catchline generally.
 
-    Subsec. (a). [Pub. L. 102–550, § 1012(a)(2)][/us/pl/102/550/s1012/a/2]–(4), designated first sentence of subsec. (a) as par. (1), inserted heading, inserted before period at end of first sentence “or otherwise receives more than $5,000 in project-based assistance under a Federal housing program”, substituted “Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in [section 4851b of this title][/us/usc/t42/s4851b], and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—” and subpars. (A) to (G) for former second sentence of subsec. (a) which read as follows: “Such procedures shall apply to all such housing constructed or substantially rehabilitated prior to 1978 and shall as a minimum provide for (1) appropriate measures to eliminate as far as practicable immediate hazards due to the presence of accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside, and (2) assured notification (using a brochure developed after consultation with the National Institute of Building Sciences) to purchasers and tenants of such housing of the hazards of lead based paint, of the symptoms and treatment of lead based paint poisoning, and of the importance and availability of maintenance and removal techniques for eliminating such hazards.”, and designated former third sentence of subsec. (a) as par. (2) and inserted heading.
+    Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 1012(a)(2)–(4), designated first sentence of subsec. (a) as par. (1), inserted heading, inserted before period at end of first sentence “or otherwise receives more than $5,000 in project-based assistance under a Federal housing program”, substituted “Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in [section 4851b of this title][/us/usc/t42/s4851b], and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—” and subpars. (A) to (G) for former second sentence of subsec. (a) which read as follows: “Such procedures shall apply to all such housing constructed or substantially rehabilitated prior to 1978 and shall as a minimum provide for (1) appropriate measures to eliminate as far as practicable immediate hazards due to the presence of accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside, and (2) assured notification (using a brochure developed after consultation with the National Institute of Building Sciences) to purchasers and tenants of such housing of the hazards of lead based paint, of the symptoms and treatment of lead based paint poisoning, and of the importance and availability of maintenance and removal techniques for eliminating such hazards.”, and designated former third sentence of subsec. (a) as par. (2) and inserted heading.
 
-    [Pub. L. 102–550, § 1013][/us/pl/102/550/s1013], added pars. (3) and (4) and struck out former fourth sentence of subsec. (a) which read as follows: “Further, the Secretary shall establish and implement procedures to eliminate the hazards of lead based paint poisoning in all federally owned properties prior to the sale of such properties when their use is intended for residential habitation.”
+    [Pub. L. 102–550][/us/pl/102/550], § 1013, added pars. (3) and (4) and struck out former fourth sentence of subsec. (a) which read as follows: “Further, the Secretary shall establish and implement procedures to eliminate the hazards of lead based paint poisoning in all federally owned properties prior to the sale of such properties when their use is intended for residential habitation.”
 
-    Subsec. (b). [Pub. L. 102–550, § 1012(b)][/us/pl/102/550/s1012/b], substituted “for the risk assessment, interim control, inspection, and abatement of lead-based paint hazards in housing covered by this section shall be based upon guidelines developed pursuant to [section 4852c of this title][/us/usc/t42/s4852c].” for “for the detection and abatement of lead-based paint poisoning hazards in any housing, including housing assisted under [section 1437f of this title][/us/usc/t42/s1437f]—
+    Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 1012(b), substituted “for the risk assessment, interim control, inspection, and abatement of lead-based paint hazards in housing covered by this section shall be based upon guidelines developed pursuant to [section 4852c of this title][/us/usc/t42/s4852c].” for “for the detection and abatement of lead-based paint poisoning hazards in any housing, including housing assisted under [section 1437f of this title][/us/usc/t42/s1437f]—
 
     “(1) shall be based upon criteria that measure the condition of the housing; and
 
     “(2) shall not be based upon criteria that measure the health of the residents of the housing.”
 
-    Subsec. (c). [Pub. L. 102–550, § 1012(c)][/us/pl/102/550/s1012/c], substituted “certified inspector” for “qualified inspector” and substituted “centimeter squared or 0.5 percent by weight” for “centimeter squared” in two places.
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 1012(c), substituted “certified inspector” for “qualified inspector” and substituted “centimeter squared or 0.5 percent by weight” for “centimeter squared” in two places.
 
-    Subsec. (d)(1). [Pub. L. 102–550, § 1012(d)][/us/pl/102/550/s1012/d], in heading, substituted “modernization” for “CIAP” and in fourth sentence, substituted “of lead-based paint and lead-based paint hazards” for “to eliminate the lead-based paint poisoning hazards”.
+    Subsec. (d)(1). [Pub. L. 102–550][/us/pl/102/550], § 1012(d), in heading, substituted “modernization” for “CIAP” and in fourth sentence, substituted “of lead-based paint and lead-based paint hazards” for “to eliminate the lead-based paint poisoning hazards”.
 
     1988—[Pub. L. 100–242][/us/pl/100/242] designated existing provisions as subsec. (a) “General requirements”, substituted “housing constructed or substantially rehabilitated prior to 1978” for “housing constructed prior to 1950”, in cl. (1), substituted “accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside” for “paint which may contain lead and to which children may be exposed”, in cl. (2), inserted “(using a brochure developed after consultation with the National Institute of Building Sciences)” after “notification”, and struck out after second sentence “Such procedures may apply to housing constructed during or after 1950 if the Secretary determines, in his discretion, that such housing presents hazards of lead based paint.”, and added subsecs. (b) to (f).
 
-    Subsec. (c). [Pub. L. 100–628, § 1088(f)][/us/pl/100/628/s1088/f], inserted “, atomic absorption spectroscopy,” after “fluorescence analyzer” in first sentence, and “or laboratory” after “inspector” in second sentence.
+    Subsec. (c). [Pub. L. 100–628][/us/pl/100/628], § 1088(f), inserted “, atomic absorption spectroscopy,” after “fluorescence analyzer” in first sentence, and “or laboratory” after “inspector” in second sentence.
 
-    Subsec. (d)(1). [Pub. L. 100–628, § 1088(a)][/us/pl/100/628/s1088/a], substituted “Transitional testing and abatement in public housing receiving CIAP assistance” for “Public housing” in heading, substituted “section 1437l of this title” for “[section 1437g of this title][/us/usc/t42/s1437g]” in first sentence, added subpars. (A) and (B) and second and third sentences, inserted “, industrial hygienist, or local public health official” before period at end of last sentence, and struck out former subpars. (A) to (C) and second and third sentences which read as follows:
+    Subsec. (d)(1). [Pub. L. 100–628][/us/pl/100/628], § 1088(a), substituted “Transitional testing and abatement in public housing receiving CIAP assistance” for “Public housing” in heading, substituted “section 1437l of this title” for “[section 1437g of this title][/us/usc/t42/s1437g]” in first sentence, added subpars. (A) and (B) and second and third sentences, inserted “, industrial hygienist, or local public health official” before period at end of last sentence, and struck out former subpars. (A) to (C) and second and third sentences which read as follows:
 
     “(A) each vacant dwelling prior to rerenting;
 
@@ -193,25 +193,25 @@
 
     The Secretary shall require the inspection of all housing subject to this paragraph prior to the expiration of 5 years from the date of the publication of final regulations pursuant to this subsection. The Secretary shall prioritize, within such 5-year period, inspections on the basis of vacancy, age of housing, or projected modernization or rehabilitation.”
 
-    Subsec. (d)(2). [Pub. L. 100–628, § 1088(b)(1)][/us/pl/100/628/s1088/b/1], substituted “Abatement demonstration program” for “HUD-owned properties” in heading.
+    Subsec. (d)(2). [Pub. L. 100–628][/us/pl/100/628], § 1088(b)(1), substituted “Abatement demonstration program” for “HUD-owned properties” in heading.
 
-    Subsec. (d)(2)(A). [Pub. L. 100–628, § 1088(b)(2)][/us/pl/100/628/s1088/b/2], inserted “and public housing” after “Urban Development”, and inserted at end “For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l of this title.”
+    Subsec. (d)(2)(A). [Pub. L. 100–628][/us/pl/100/628], § 1088(b)(2), inserted “and public housing” after “Urban Development”, and inserted at end “For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l of this title.”
 
-    Subsec. (d)(2)(B). [Pub. L. 100–628, § 1088(b)(3)][/us/pl/100/628/s1088/b/3], in introductory provisions, inserted after first sentence “Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B).”
+    Subsec. (d)(2)(B). [Pub. L. 100–628][/us/pl/100/628], § 1088(b)(3), in introductory provisions, inserted after first sentence “Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B).”
 
-    Subsec. (d)(2)(B)(i). [Pub. L. 100–628, § 1088(c)(1)][/us/pl/100/628/s1088/c/1], inserted “, including X-ray fluorescence and atomic absorption spectroscopy” after “lead-based paint”.
+    Subsec. (d)(2)(B)(i). [Pub. L. 100–628][/us/pl/100/628], § 1088(c)(1), inserted “, including X-ray fluorescence and atomic absorption spectroscopy” after “lead-based paint”.
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 100–628, § 1088(c)(2)][/us/pl/100/628/s1088/c/2], inserted “, including removal, containment, or encapsulation of the contaminated components, procedures which minimize the generation of dust (including the high efficiency vacuum removal of leaded dust), and procedures that provide for offsite disposal of the removed components, in compliance with all applicable regulatory standards and procedures” after “methods for abatement”.
+    Subsec. (d)(2)(B)(ii). [Pub. L. 100–628][/us/pl/100/628], § 1088(c)(2), inserted “, including removal, containment, or encapsulation of the contaminated components, procedures which minimize the generation of dust (including the high efficiency vacuum removal of leaded dust), and procedures that provide for offsite disposal of the removed components, in compliance with all applicable regulatory standards and procedures” after “methods for abatement”.
 
-    Subsec. (d)(2)(B)(iii). [Pub. L. 100–628, § 1088(c)(3)][/us/pl/100/628/s1088/c/3], inserted “, abatement, and worker protection” after “in testing”.
+    Subsec. (d)(2)(B)(iii). [Pub. L. 100–628][/us/pl/100/628], § 1088(c)(3), inserted “, abatement, and worker protection” after “in testing”.
 
-    Subsec. (d)(2)(B)(vii). [Pub. L. 100–628, § 1088(c)(4)][/us/pl/100/628/s1088/c/4]–(6), added cl. (vii).
+    Subsec. (d)(2)(B)(vii). [Pub. L. 100–628][/us/pl/100/628], § 1088(c)(4)–(6), added cl. (vii).
 
-    Subsec. (d)(3), (4). [Pub. L. 100–628, § 1088(d)][/us/pl/100/628/s1088/d], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (d)(3), (4). [Pub. L. 100–628][/us/pl/100/628], § 1088(d), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (f). [Pub. L. 100–628, § 1088(e)][/us/pl/100/628/s1088/e], inserted at end “The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).”
+    Subsec. (f). [Pub. L. 100–628][/us/pl/100/628], § 1088(e), inserted at end “The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).”
 
-    Subsec. (g). [Pub. L. 100–628, § 1088(h)][/us/pl/100/628/s1088/h], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–628][/us/pl/100/628], § 1088(h), added subsec. (g).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -219,7 +219,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–151, § 4(b)][/us/pl/93/151/s4/b], Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566], provided that: 
+[Pub. L. 93–151][/us/pl/93/151], § 4(b), Nov. 9, 1973, [87 Stat. 566][/us/stat/87/566], provided that: 
 
 > “The amendments made by subsection (a) of this section \[enacting this section\] become effective upon the expiration of ninety days following the date of enactment of this Act \[Nov. 9, 1973\].”
 
@@ -229,23 +229,23 @@
 
  __Lead-Based Paint Abatement Training and Certification Requirements and Training Grants__ 
 
-    [Pub. L. 102–139, title III][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 765][/us/stat/105/765], 766, which provided for regulations governing lead-based paint abatement activities to ensure that individuals engaged in such activities are properly trained, that training programs are accredited, that contractors are certified, and that laboratories engaged in testing for substances are certified, and which also provided for grants for training and education of workers who are or may be directly engaged in lead-based paint abatement activities, was omitted as superseded by [section 2682(a)(1) of Title 15][/us/usc/t15/s2682/a/1], Commerce and Trade, which provided in part that on Oct. 28, 1992, the provisions of law formerly set out in this note would cease to have any force and effect.
+    [Pub. L. 102–139, title III][/us/pl/102/139/tIII], Oct. 28, 1991, [105 Stat. 765][/us/stat/105/765], 766, which provided for regulations governing lead-based paint abatement activities to ensure that individuals engaged in such activities are properly trained, that training programs are accredited, that contractors are certified, and that laboratories engaged in testing for substances are certified, and which also provided for grants for training and education of workers who are or may be directly engaged in lead-based paint abatement activities, was omitted as superseded by [section 2682(a)(1) of Title 15][/us/usc/t15/s2682/a/1], Commerce and Trade, which provided in part that on Oct. 28, 1992, the provisions of law formerly set out in this note would cease to have any force and effect.
 
  __Lead-Based Paint Technical Guidelines; Draft Guidelines__ 
 
-[Pub. L. 101–144, title II][/us/pl/101/144], Nov. 9, 1989, [103 Stat. 853][/us/stat/103/853], provided that: 
+[Pub. L. 101–144, title II][/us/pl/101/144/tII], Nov. 9, 1989, [103 Stat. 853][/us/stat/103/853], provided that: 
 
 > “If the Secretary of the Department of Housing and Urban Development has not issued the lead-based paint technical guidelines on reliable testing protocols, safe and effective abatement techniques, cleanup methods and acceptable post-abatement lead dust levels by April 1, 1990, the Department’s September 29, 1989, draft guidelines shall take effect and remain in force until revised by the Secretary.”
 
  __Prerequisites to Implementation of Regulations Regarding Testing and Abatement of Lead-Based Paint in Public Housing__ 
 
-[Pub. L. 100–404, title I][/us/pl/100/404], Aug. 19, 1988, [102 Stat. 1021][/us/stat/102/1021], provided that: 
+[Pub. L. 100–404, title I][/us/pl/100/404/tI], Aug. 19, 1988, [102 Stat. 1021][/us/stat/102/1021], provided that: 
 
 > “None of the funds provided in this Act \[see Tables for classification\] or heretofore provided may be used to implement or enforce the regulations promulgated by the Department of Housing and Urban Development on June 6, 1988, with respect to the testing and abatement of lead-based paint in public housing until the Secretary develops comprehensive technical guidelines on reliable testing protocols, safe and effective abatement techniques, cleanup methods, and acceptable post-abatement lead dust levels.”
 
  __Regulations and Consultation__ 
 
-[Pub. L. 100–242, title V, § 566(b)][/us/pl/100/242/s566/b], Feb. 5, 1988, [101 Stat. 1947][/us/stat/101/1947], as amended by [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 100–628, title X, § 1088(g)][/us/pl/100/628/s1088/g], Nov. 7, 1988, [102 Stat. 3282][/us/stat/102/3282], provided that:
+[Pub. L. 100–242, title V][/us/pl/100/242/tV], § 566(b), Feb. 5, 1988, [101 Stat. 1947][/us/stat/101/1947], as amended by [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1088(g), Nov. 7, 1988, [102 Stat. 3282][/us/stat/102/3282], provided that:
 
 >     “(1)  __Proposed regulations__  __.—__ 
 
@@ -280,67 +280,67 @@
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/91/695/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs302
-[/us/pl/93/151/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs4%2Fa%2F1
+[/us/pl/91/695/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2FtIII
+[/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/stat/87/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F566
-[/us/pl/100/242/s566/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs566%2Fa
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1945
-[/us/pl/100/628/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fa
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3280-3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3280-3282
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3904
-[/us/pl/105/276/s522/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fb%2F4
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
-[/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/pl/100/242/s566/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs566%2Fb
-[/us/pl/105/276/s522/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fb%2F4%2FA
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/105/276/s522/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fb%2F4%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/102/550/s1012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fa%2F1
-[/us/pl/102/550/s1012/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fa%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s4851b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851b
-[/us/pl/102/550/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1013
-[/us/pl/102/550/s1012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s4852c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4852c
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/102/550/s1012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fc
-[/us/pl/102/550/s1012/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fd
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/100/628/s1088/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Ff
-[/us/pl/100/628/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fa
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/100/628/s1088/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fb%2F1
-[/us/pl/100/628/s1088/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fb%2F2
-[/us/pl/100/628/s1088/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fb%2F3
-[/us/pl/100/628/s1088/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fc%2F1
-[/us/pl/100/628/s1088/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fc%2F2
-[/us/pl/100/628/s1088/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fc%2F3
-[/us/pl/100/628/s1088/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fc%2F4
-[/us/pl/100/628/s1088/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fd
-[/us/pl/100/628/s1088/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fe
-[/us/pl/100/628/s1088/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fh
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/93/151/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs4%2Fb
+[/us/pl/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151
 [/us/stat/87/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F566
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtIII
 [/us/stat/105/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F765
 [/us/usc/t15/s2682/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2682%2Fa%2F1
-[/us/pl/101/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144
+[/us/pl/101/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2FtII
 [/us/stat/103/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F853
-[/us/pl/100/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404
+[/us/pl/100/404/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F404%2FtI
 [/us/stat/102/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1021
-[/us/pl/100/242/s566/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs566%2Fb
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1947
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/100/628/s1088/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1088%2Fg
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3282
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

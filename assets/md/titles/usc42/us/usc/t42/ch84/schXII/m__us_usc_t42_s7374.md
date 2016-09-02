@@ -39,7 +39,7 @@
 
         The Secretary shall submit to the Congress, within one year after June 30, 1980, the plan prepared under the second sentence of subsection (c) of this section along with a report suggesting the legislative initiatives needed to fully implement such plan.
 
-([Pub. L. 96–294, title IV, § 406][/us/pl/96/294/s406], June 30, 1980, [94 Stat. 716][/us/stat/94/716].)
+([Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 406, June 30, 1980, [94 Stat. 716][/us/stat/94/716].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs406
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F716
 
 

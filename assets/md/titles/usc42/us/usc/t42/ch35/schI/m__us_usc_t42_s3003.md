@@ -25,7 +25,7 @@
 
     (4) insure that the planning and operation of such programs will be undertaken as a partnership of older citizens, community agencies, and State and local governments, with appropriate assistance from the Federal Government.
 
-([Pub. L. 93–29, title I, § 101][/us/pl/93/29/s101], May 3, 1973, [87 Stat. 30][/us/stat/87/30]; [Pub. L. 97–115, § 3(d)][/us/pl/97/115/s3/d], Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597].)
+([Pub. L. 93–29, title I][/us/pl/93/29/tI], § 101, May 3, 1973, [87 Stat. 30][/us/stat/87/30]; [Pub. L. 97–115][/us/pl/97/115], § 3(d), Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/93/29/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs101
+[/us/pl/93/29/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtI
 [/us/stat/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F30
-[/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1597
 [/us/pl/93/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29
 [/us/stat/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F30

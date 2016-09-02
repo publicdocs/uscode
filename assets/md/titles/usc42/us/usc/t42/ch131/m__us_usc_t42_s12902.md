@@ -55,7 +55,7 @@
 
     (14) The term “project sponsor” means a nonprofit organization or a housing agency of a State or unit of general local government that contracts with a grantee to receive assistance under this chapter.
 
-([Pub. L. 101–625, title VIII, § 853][/us/pl/101/625/s853], Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375]; [Pub. L. 102–550, title VI, § 606(c)][/us/pl/102/550/s606/c], Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807].)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 853, Nov. 28, 1990, [104 Stat. 4375][/us/stat/104/4375]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(c), Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807].)
 
  __References in Text__ 
 
@@ -63,11 +63,11 @@
 
  __Amendments__ 
 
-    1992—Par. (2). [Pub. L. 102–550, § 606(c)(1)][/us/pl/102/550/s606/c/1], substituted “organization eligible to receive assistance under this chapter” for “sponsor receiving assistance from a grantee”.
+    1992—Par. (2). [Pub. L. 102–550][/us/pl/102/550], § 606(c)(1), substituted “organization eligible to receive assistance under this chapter” for “sponsor receiving assistance from a grantee”.
 
-    Par. (5). [Pub. L. 102–550, § 606(c)(2)][/us/pl/102/550/s606/c/2], substituted “term ‘metropolitan statistical area’ means” for “term ‘metropolitan area’ means”.
+    Par. (5). [Pub. L. 102–550][/us/pl/102/550], § 606(c)(2), substituted “term ‘metropolitan statistical area’ means” for “term ‘metropolitan area’ means”.
 
-    Pars. (11) to (14). [Pub. L. 102–550, § 606(c)(3)][/us/pl/102/550/s606/c/3], added pars. (11) to (14).
+    Pars. (11) to (14). [Pub. L. 102–550][/us/pl/102/550], § 606(c)(3), added pars. (11) to (14).
 
 ----------
 
@@ -78,13 +78,13 @@
 
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
 [/us/usc/t42/s5302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa
-[/us/pl/101/625/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs853
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4375
-[/us/pl/102/550/s606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fc
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3807
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/102/550/s606/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fc%2F1
-[/us/pl/102/550/s606/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fc%2F2
-[/us/pl/102/550/s606/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fc%2F3
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

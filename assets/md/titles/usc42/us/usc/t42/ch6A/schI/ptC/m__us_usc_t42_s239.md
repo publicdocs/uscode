@@ -81,7 +81,7 @@
 
         (3) there is appropriate post-inoculation medical surveillance that includes an evaluation of adverse health effects that may reasonably appear to be due to such vaccine and prompt referral of, or the provision of appropriate information to, any individual requiring health care as a result of such adverse health event.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 261, as added [Pub. L. 108–20, § 2][/us/pl/108/20/s2], Apr. 30, 2003, [117 Stat. 638][/us/stat/117/638].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 261, as added [Pub. L. 108–20][/us/pl/108/20], § 2, Apr. 30, 2003, [117 Stat. 638][/us/stat/117/638].)
 
 ----------
 
@@ -94,7 +94,7 @@
 [/us/usc/t42/s239a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs239a
 [/us/usc/t42/s239a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs239a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/20/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20%2Fs2
+[/us/pl/108/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F20
 [/us/stat/117/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F638
 
 

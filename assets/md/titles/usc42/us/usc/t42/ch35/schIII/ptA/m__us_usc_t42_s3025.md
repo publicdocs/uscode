@@ -173,121 +173,121 @@
 
         (4) a demonstration of the allocation of funds, pursuant to the funding formula, to each planning and service area in the State.
 
-([Pub. L. 89–73, title III, § 305][/us/pl/89/73/s305], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1520][/us/stat/92/1520]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 5, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III, § 305][/us/pl/98/459/s305], Oct. 9, 1984, [98 Stat. 1773][/us/stat/98/1773]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 939, 940, 965; [Pub. L. 100–628, title VII, § 705(4)][/us/pl/100/628/s705/4], Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I, § 102(b)(9)(B)][/us/pl/102/375/s102/b/9/B], (10)(B)–(D), title III, § 305, title IX, § 904(a)(11), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1222, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(8), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III, § 304][/us/pl/106/501/s304], title VIII, § 801(c)(3), Nov. 13, 2000, [114 Stat. 2239][/us/stat/114/2239], 2292; [Pub. L. 109–365, title III, § 305][/us/pl/109/365/s305], Oct. 17, 2006, [120 Stat. 2539][/us/stat/120/2539].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 305, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1520][/us/stat/92/1520]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 5, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 305, Oct. 9, 1984, [98 Stat. 1773][/us/stat/98/1773]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 939, 940, 965; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(4), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(9)(B), (10)(B)–(D), title III, § 305, title IX, § 904(a)(11), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1222, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(8), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 304, title VIII, § 801(c)(3), Nov. 13, 2000, [114 Stat. 2239][/us/stat/114/2239], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 305, Oct. 17, 2006, [120 Stat. 2539][/us/stat/120/2539].)
 
  __Prior Provisions__ 
 
-    A prior section 3025, [Pub. L. 89–73, title III, § 305][/us/pl/89/73/s305], as added [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 41][/us/stat/87/41]; [Pub. L. 94–135, title I][/us/pl/94/135], §§ 106(a), (b), 114(e), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 725, related to State plans, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478]. See [section 3027 of this title][/us/usc/t42/s3027].
+    A prior section 3025, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 305, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 41][/us/stat/87/41]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 106(a), (b), 114(e), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 725, related to State plans, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478]. See [section 3027 of this title][/us/usc/t42/s3027].
 
-    Another prior section 3025, [Pub. L. 89–73, title III, § 306][/us/pl/89/73/s306], formerly § 305, July 14, 1965, [79 Stat. 224][/us/stat/79/224]; renumbered § 306, [Pub. L. 91–69, § 5][/us/pl/91/69/s5], Sept. 17, 1969, [83 Stat. 110][/us/stat/83/110], related to payments of grants for State and community programs on aging, adjustments, advances or reimbursement, and installments, prior to repeal by [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 36][/us/stat/87/36].
+    Another prior section 3025, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 306, formerly § 305, July 14, 1965, [79 Stat. 224][/us/stat/79/224]; renumbered § 306, [Pub. L. 91–69][/us/pl/91/69], § 5, Sept. 17, 1969, [83 Stat. 110][/us/stat/83/110], related to payments of grants for State and community programs on aging, adjustments, advances or reimbursement, and installments, prior to repeal by [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 36][/us/stat/87/36].
 
-    Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III, § 304][/us/pl/89/73/s304], as added [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 38][/us/stat/87/38]; [Pub. L. 94–135, title I][/us/pl/94/135], §§ 105, 106(c), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 716, which was classified to [section 3024 of this title][/us/usc/t42/s3024] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
+    Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 304, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 38][/us/stat/87/38]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 105, 106(c), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 716, which was classified to [section 3024 of this title][/us/usc/t42/s3024] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1)(E). [Pub. L. 109–365, § 305(1)(A)][/us/pl/109/365/s305/1/A], substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
+    2006—Subsec. (a)(1)(E). [Pub. L. 109–365][/us/pl/109/365], § 305(1)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
 
-    Subsec. (a)(2)(E). [Pub. L. 109–365, § 305(2)(A)][/us/pl/109/365/s305/2/A], substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
+    Subsec. (a)(2)(E). [Pub. L. 109–365][/us/pl/109/365], § 305(2)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
 
-    Subsec. (a)(3). [Pub. L. 109–365, § 305(1)(B)][/us/pl/109/365/s305/1/B], (2)(B), (3), added par. (3).
+    Subsec. (a)(3). [Pub. L. 109–365][/us/pl/109/365], § 305(1)(B), (2)(B), (3), added par. (3).
 
-    2000—Subsec. (a)(1)(E). [Pub. L. 106–501, § 304(1)][/us/pl/106/501/s304/1], inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
+    2000—Subsec. (a)(1)(E). [Pub. L. 106–501][/us/pl/106/501], § 304(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 
-    Subsec. (a)(2)(E). [Pub. L. 106–501, § 304(2)(A)][/us/pl/106/501/s304/2/A], struck out comma and inserted “and older individuals residing in rural areas,” after “low-income minority individuals”.
+    Subsec. (a)(2)(E). [Pub. L. 106–501][/us/pl/106/501], § 304(2)(A), struck out comma and inserted “and older individuals residing in rural areas,” after “low-income minority individuals”.
 
-    Subsec. (a)(2)(F). [Pub. L. 106–501, § 801(c)(3)][/us/pl/106/501/s801/c/3], substituted “3027(a)(16)” for “3027(a)(24)”.
+    Subsec. (a)(2)(F). [Pub. L. 106–501][/us/pl/106/501], § 801(c)(3), substituted “3027(a)(16)” for “3027(a)(24)”.
 
-    Subsec. (a)(2)(G)(i). [Pub. L. 106–501, § 304(2)(B)][/us/pl/106/501/s304/2/B], inserted “and older individuals residing in rural areas” after “low-income minority older individuals”.
+    Subsec. (a)(2)(G)(i). [Pub. L. 106–501][/us/pl/106/501], § 304(2)(B), inserted “and older individuals residing in rural areas” after “low-income minority older individuals”.
 
-    Subsec. (a)(2)(G)(ii). [Pub. L. 106–501, § 304(2)(C)][/us/pl/106/501/s304/2/C], which directed the insertion of “and older individuals residing in rural areas” after “low-income minority individuals”, was executed by making the insertion after “low-income minority older individuals”, to reflect the probable intent of Congress.
+    Subsec. (a)(2)(G)(ii). [Pub. L. 106–501][/us/pl/106/501], § 304(2)(C), which directed the insertion of “and older individuals residing in rural areas” after “low-income minority individuals”, was executed by making the insertion after “low-income minority older individuals”, to reflect the probable intent of Congress.
 
-    1993—Subsec. (a). [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+    1993—Subsec. (a). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-    Subsec. (b)(1). [Pub. L. 103–171, § 2(8)][/us/pl/103/171/s2/8], substituted “area under subsection (a)(1) of this section” for “area under clause (1) of subsection (a) of this section” and “designated under subsection (a)(1) of this section” for “designated under clause (1) of subsection (a) of this section”.
+    Subsec. (b)(1). [Pub. L. 103–171][/us/pl/103/171], § 2(8), substituted “area under subsection (a)(1) of this section” for “area under clause (1) of subsection (a) of this section” and “designated under subsection (a)(1) of this section” for “designated under clause (1) of subsection (a) of this section”.
 
-    Subsec. (b)(2). [Pub. L. 103–171, § 2(8)][/us/pl/103/171/s2/8], substituted “requirement of subsection (a)(1) of this section” for “requirement of clause (1) of subsection (a) of this section”.
+    Subsec. (b)(2). [Pub. L. 103–171][/us/pl/103/171], § 2(8), substituted “requirement of subsection (a)(1) of this section” for “requirement of clause (1) of subsection (a) of this section”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+    Subsec. (b)(3) to (5). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-    1992—Subsec. (a)(1)(C). [Pub. L. 102–375, § 305(a)(1)][/us/pl/102/375/s305/a/1], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “be primarily responsible for the coordination of all State activities related to the purposes of this chapter;”.
+    1992—Subsec. (a)(1)(C). [Pub. L. 102–375][/us/pl/102/375], § 305(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “be primarily responsible for the coordination of all State activities related to the purposes of this chapter;”.
 
-    Subsec. (a)(1)(D). [Pub. L. 102–375, § 904(a)(11)(A)(i)(I)][/us/pl/102/375/s904/a/11/A/i/I], substituted “older individuals” for “the elderly” wherever appearing.
+    Subsec. (a)(1)(D). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(A)(i)(I), substituted “older individuals” for “the elderly” wherever appearing.
 
-    Subsec. (a)(1)(E). [Pub. L. 102–375, § 904(a)(11)(A)(i)(II)][/us/pl/102/375/s904/a/11/A/i/II], (III), inserted “individuals who are” before “Indians” and substituted “older individuals” for “individuals aged 60 and older”.
+    Subsec. (a)(1)(E). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(A)(i)(II), (III), inserted “individuals who are” before “Indians” and substituted “older individuals” for “individuals aged 60 and older”.
 
-    Subsec. (a)(2). [Pub. L. 102–375, § 904(a)(11)(A)(ii)(I)][/us/pl/102/375/s904/a/11/A/ii/I], which directed the substitution of “subparagraph” for “clause”, could not be executed because of the intervening amendment by [Pub. L. 102–375, § 102(b)(9)(B)][/us/pl/102/375/s102/b/9/B]. See below.
+    Subsec. (a)(2). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(A)(ii)(I), which directed the substitution of “subparagraph” for “clause”, could not be executed because of the intervening amendment by [Pub. L. 102–375][/us/pl/102/375], § 102(b)(9)(B). See below.
 
-    [Pub. L. 102–375, § 102(b)(9)(B)][/us/pl/102/375/s102/b/9/B], struck out “designated under clause (1)” after “agency” in introductory provisions.
+    [Pub. L. 102–375][/us/pl/102/375], § 102(b)(9)(B), struck out “designated under clause (1)” after “agency” in introductory provisions.
 
-    Subsec. (a)(2)(C). [Pub. L. 102–375, § 305(a)(2)][/us/pl/102/375/s305/a/2], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “develop a formula, in accordance with guidelines issued by the Commissioner, for the distribution within the State of funds received under this subchapter, taking into account, to the maximum extent feasible, the best available statistics on the geographical distribution of individuals aged 60 and older in the State, and publish such formula for review and comment in accordance with subsection (d) of this section;”.
+    Subsec. (a)(2)(C). [Pub. L. 102–375][/us/pl/102/375], § 305(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “develop a formula, in accordance with guidelines issued by the Commissioner, for the distribution within the State of funds received under this subchapter, taking into account, to the maximum extent feasible, the best available statistics on the geographical distribution of individuals aged 60 and older in the State, and publish such formula for review and comment in accordance with subsection (d) of this section;”.
 
-    Subsec. (a)(2)(D). [Pub. L. 102–375, § 904(a)(11)(A)(ii)(II)][/us/pl/102/375/s904/a/11/A/ii/II], substituted “subparagraph” for “subclause”.
+    Subsec. (a)(2)(D). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(A)(ii)(II), substituted “subparagraph” for “subclause”.
 
-    [Pub. L. 102–375, § 305(a)(2)(B)][/us/pl/102/375/s305/a/2/B], substituted “for approval” for “for review and comment”.
+    [Pub. L. 102–375][/us/pl/102/375], § 305(a)(2)(B), substituted “for approval” for “for review and comment”.
 
-    Subsec. (a)(2)(E). [Pub. L. 102–375, § 904(a)(11)(A)(ii)(III)][/us/pl/102/375/s904/a/11/A/ii/III], substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
+    Subsec. (a)(2)(E). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(A)(ii)(III), substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
 
-    [Pub. L. 102–375, § 305(a)(2)(C)][/us/pl/102/375/s305/a/2/C], struck out “and” at end.
+    [Pub. L. 102–375][/us/pl/102/375], § 305(a)(2)(C), struck out “and” at end.
 
-    Subsec. (a)(2)(F). [Pub. L. 102–375, § 305(a)(2)(D)][/us/pl/102/375/s305/a/2/D], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on older individuals with the greatest economic or social needs (with particular attention to low-income minority individuals) and inform such individuals of the availability of such assistance.”
+    Subsec. (a)(2)(F). [Pub. L. 102–375][/us/pl/102/375], § 305(a)(2)(D), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on older individuals with the greatest economic or social needs (with particular attention to low-income minority individuals) and inform such individuals of the availability of such assistance.”
 
-    Subsec. (a)(2)(G). [Pub. L. 102–375, § 305(a)(2)(E)][/us/pl/102/375/s305/a/2/E], added subpar. (G).
+    Subsec. (a)(2)(G). [Pub. L. 102–375][/us/pl/102/375], § 305(a)(2)(E), added subpar. (G).
 
-    Subsec. (b)(1). [Pub. L. 102–375, § 904(a)(11)(B)(i)][/us/pl/102/375/s904/a/11/B/i], substituted “requirement of subsection (a)(1) of this section” for “requirement of clause (1) of subsection (a) of this section”.
+    Subsec. (b)(1). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(B)(i), substituted “requirement of subsection (a)(1) of this section” for “requirement of clause (1) of subsection (a) of this section”.
 
-    Subsec. (b)(2). [Pub. L. 102–375, § 904(a)(11)(B)(ii)][/us/pl/102/375/s904/a/11/B/ii], substituted “designated under subsection (a)(1) of this section” for “designated under such clause”.
+    Subsec. (b)(2). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(B)(ii), substituted “designated under subsection (a)(1) of this section” for “designated under such clause”.
 
-    Subsec. (b)(4). [Pub. L. 102–375, § 904(a)(11)(B)(i)][/us/pl/102/375/s904/a/11/B/i], substituted “subsection (a)(1) of this section” for “clause (1) of subsection (a) of this section”.
+    Subsec. (b)(4). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(B)(i), substituted “subsection (a)(1) of this section” for “clause (1) of subsection (a) of this section”.
 
-    Subsec. (b)(5)(A). [Pub. L. 102–375, § 102(b)(10)(B)][/us/pl/102/375/s102/b/10/B], substituted “area agency on aging” for “area agency” in two places.
+    Subsec. (b)(5)(A). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(B), substituted “area agency on aging” for “area agency” in two places.
 
-    Subsec. (b)(5)(C). [Pub. L. 102–375, § 305(b)][/us/pl/102/375/s305/b], added subpar. (C).
+    Subsec. (b)(5)(C). [Pub. L. 102–375][/us/pl/102/375], § 305(b), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 102–375, § 102(b)(10)(D)][/us/pl/102/375/s102/b/10/D], substituted “area agency on aging” for “area agency” in concluding provisions of first sentence.
+    Subsec. (c). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(D), substituted “area agency on aging” for “area agency” in concluding provisions of first sentence.
 
-    Subsec. (c)(2). [Pub. L. 102–375, § 102(b)(10)(C)][/us/pl/102/375/s102/b/10/C], substituted “area agency on aging” for “area agency”.
+    Subsec. (c)(2). [Pub. L. 102–375][/us/pl/102/375], § 102(b)(10)(C), substituted “area agency on aging” for “area agency”.
 
-    Subsec. (d). [Pub. L. 102–375, § 904(a)(11)(C)][/us/pl/102/375/s904/a/11/C], substituted “paragraph” for “clause” in introductory provisions.
+    Subsec. (d). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(11)(C), substituted “paragraph” for “clause” in introductory provisions.
 
-    1988—Subsec. (a)(1)(E). [Pub. L. 100–628, § 705(4)(A)][/us/pl/100/628/s705/4/A], substituted “such areas,” for “such areas,,” before “distribution of resources”.
+    1988—Subsec. (a)(1)(E). [Pub. L. 100–628][/us/pl/100/628], § 705(4)(A), substituted “such areas,” for “such areas,,” before “distribution of resources”.
 
-    Subsec. (d). [Pub. L. 100–628, § 705(4)(B)][/us/pl/100/628/s705/4/B], redesignated subpars. (A), (B), (C), and (D) as pars. (1), (2), (3), and (4), respectively.
+    Subsec. (d). [Pub. L. 100–628][/us/pl/100/628], § 705(4)(B), redesignated subpars. (A), (B), (C), and (D) as pars. (1), (2), (3), and (4), respectively.
 
     1987—Subsec. (a)(1)(E). [Pub. L. 100–175][/us/pl/100/175], §§ 132(a)(1), 134(a)(1), 182(g), substituted “the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such areas,” for “the distribution of older individuals who have low incomes residing in such areas”, inserted “the distribution of older Indians residing in such areas,” after second reference to “such areas,”, and substituted “legal assistance” for “legal services”.
 
-    Subsec. (a)(2)(C). [Pub. L. 100–175, § 182(h)][/us/pl/100/175/s182/h], inserted “in accordance with subsection (d) of this section” before semicolon at end.
+    Subsec. (a)(2)(C). [Pub. L. 100–175][/us/pl/100/175], § 182(h), inserted “in accordance with subsection (d) of this section” before semicolon at end.
 
-    Subsec. (a)(2)(F). [Pub. L. 100–175, § 132(a)(2)][/us/pl/100/175/s132/a/2], added subpar. (F).
+    Subsec. (a)(2)(F). [Pub. L. 100–175][/us/pl/100/175], § 132(a)(2), added subpar. (F).
 
-    Subsec. (c)(2). [Pub. L. 100–175, § 124(1)][/us/pl/100/175/s124/1], inserted “to function only” after “designated”.
+    Subsec. (c)(2). [Pub. L. 100–175][/us/pl/100/175], § 124(1), inserted “to function only” after “designated”.
 
-    Subsec. (c)(3). [Pub. L. 100–175, § 124(2)][/us/pl/100/175/s124/2], inserted “only” after “to act”.
+    Subsec. (c)(3). [Pub. L. 100–175][/us/pl/100/175], § 124(2), inserted “only” after “to act”.
 
-    Subsec. (c)(4). [Pub. L. 100–175, § 124(3)][/us/pl/100/175/s124/3], inserted “, or any separate organizational unit within such agency,” after first reference to “area” and substituted “and will engage only” for “engage”.
+    Subsec. (c)(4). [Pub. L. 100–175][/us/pl/100/175], § 124(3), inserted “, or any separate organizational unit within such agency,” after first reference to “area” and substituted “and will engage only” for “engage”.
 
-    Subsec. (d). [Pub. L. 100–175, § 182(e)(2)][/us/pl/100/175/s182/e/2], struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual’s ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
+    Subsec. (d). [Pub. L. 100–175][/us/pl/100/175], § 182(e)(2), struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual’s ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
 
-    1984—Subsec. (a)(1)(E). [Pub. L. 98–459, § 305(a)(1)][/us/pl/98/459/s305/a/1], substituted “subsection (b)(5)(A) of this section” for “subsection (b)(5) of this section”.
+    1984—Subsec. (a)(1)(E). [Pub. L. 98–459][/us/pl/98/459], § 305(a)(1), substituted “subsection (b)(5)(A) of this section” for “subsection (b)(5) of this section”.
 
-    Subsec. (a)(2)(E). [Pub. L. 98–459, § 305(a)(2)][/us/pl/98/459/s305/a/2], inserted “, with particular attention to low-income minority individuals,”.
+    Subsec. (a)(2)(E). [Pub. L. 98–459][/us/pl/98/459], § 305(a)(2), inserted “, with particular attention to low-income minority individuals,”.
 
-    Subsec. (b)(3). [Pub. L. 98–459, § 305(b)(1)][/us/pl/98/459/s305/b/1], substituted “the Commissioner shall adjust” for “he shall adjust”.
+    Subsec. (b)(3). [Pub. L. 98–459][/us/pl/98/459], § 305(b)(1), substituted “the Commissioner shall adjust” for “he shall adjust”.
 
-    Subsec. (b)(5). [Pub. L. 98–459, § 305(b)][/us/pl/98/459/s305/b], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (b)(5). [Pub. L. 98–459][/us/pl/98/459], § 305(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (d). [Pub. L. 98–459, § 305(c)][/us/pl/98/459/s305/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–459][/us/pl/98/459], § 305(c), added subsec. (d).
 
     1981—Subsec. (a)(1)(E). [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 5(a), substituted “divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5) of this section, designate the entire State as a single planning and service area)” for “divide the State into distinct areas” and “supportive services” for “social services” in two places.
 
-    Subsec. (a)(2)(A). [Pub. L. 97–115, § 5(b)][/us/pl/97/115/s5/b], substituted “except as provided in subsection (b)(5) of this section, designate for each such area” for “determine for which planning and service area an area plan will be developed, in accordance with [section 3026 of this title][/us/usc/t42/s3026], and for each such area designate,”.
+    Subsec. (a)(2)(A). [Pub. L. 97–115][/us/pl/97/115], § 5(b), substituted “except as provided in subsection (b)(5) of this section, designate for each such area” for “determine for which planning and service area an area plan will be developed, in accordance with [section 3026 of this title][/us/usc/t42/s3026], and for each such area designate,”.
 
-    Subsec. (a)(2)(B). [Pub. L. 97–115, § 3(d)][/us/pl/97/115/s3/d], substituted “supportive services” for “social services”.
+    Subsec. (a)(2)(B). [Pub. L. 97–115][/us/pl/97/115], § 3(d), substituted “supportive services” for “social services”.
 
-    Subsec. (b)(5). [Pub. L. 97–115, § 5(c)][/us/pl/97/115/s5/c], added par. (5).
+    Subsec. (b)(5). [Pub. L. 97–115][/us/pl/97/115], § 5(c), added par. (5).
 
-    Subsec. (c)(4). [Pub. L. 97–115, § 3(d)][/us/pl/97/115/s3/d], substituted “supportive services” for “social services”.
+    Subsec. (c)(4). [Pub. L. 97–115][/us/pl/97/115], § 3(d), substituted “supportive services” for “social services”.
 
-    Subsec. (c)(5). [Pub. L. 97–115, § 5(d)][/us/pl/97/115/s5/d], added par. (5).
+    Subsec. (c)(5). [Pub. L. 97–115][/us/pl/97/115], § 5(d), added par. (5).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -312,99 +312,99 @@
 
 [/us/usc/t42/s3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027
 [/us/usc/t42/s3027/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F16
-[/us/pl/89/73/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs305
-[/us/pl/95/478/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs103%2Fb
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1520
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1597
-[/us/pl/98/459/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs305
+[/us/pl/98/459/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtIII
 [/us/stat/98/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1773
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F933
-[/us/pl/100/628/s705/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F4
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3247
-[/us/pl/102/375/s102/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F9%2FB
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1201
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1988
-[/us/pl/106/501/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs304
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2239
-[/us/pl/109/365/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs305
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2539
-[/us/pl/89/73/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs305
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F41
-[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F715
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/usc/t42/s3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027
-[/us/pl/89/73/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs306
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
 [/us/stat/79/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F224
-[/us/pl/91/69/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F69%2Fs5
+[/us/pl/91/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F69
 [/us/stat/83/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F110
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F36
-[/us/pl/89/73/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs304
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F38
-[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F715
 [/us/usc/t42/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/109/365/s305/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs305%2F1%2FA
-[/us/pl/109/365/s305/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs305%2F2%2FA
-[/us/pl/109/365/s305/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs305%2F1%2FB
-[/us/pl/106/501/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs304%2F1
-[/us/pl/106/501/s304/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs304%2F2%2FA
-[/us/pl/106/501/s801/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fc%2F3
-[/us/pl/106/501/s304/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs304%2F2%2FB
-[/us/pl/106/501/s304/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs304%2F2%2FC
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
-[/us/pl/103/171/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F8
-[/us/pl/103/171/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs2%2F8
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
-[/us/pl/102/375/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305%2Fa%2F1
-[/us/pl/102/375/s904/a/11/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FA%2Fi%2FI
-[/us/pl/102/375/s904/a/11/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FA%2Fi%2FII
-[/us/pl/102/375/s904/a/11/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FA%2Fii%2FI
-[/us/pl/102/375/s102/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F9%2FB
-[/us/pl/102/375/s102/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F9%2FB
-[/us/pl/102/375/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305%2Fa%2F2
-[/us/pl/102/375/s904/a/11/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FA%2Fii%2FII
-[/us/pl/102/375/s305/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305%2Fa%2F2%2FB
-[/us/pl/102/375/s904/a/11/A/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FA%2Fii%2FIII
-[/us/pl/102/375/s305/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305%2Fa%2F2%2FC
-[/us/pl/102/375/s305/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305%2Fa%2F2%2FD
-[/us/pl/102/375/s305/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305%2Fa%2F2%2FE
-[/us/pl/102/375/s904/a/11/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FB%2Fi
-[/us/pl/102/375/s904/a/11/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FB%2Fii
-[/us/pl/102/375/s904/a/11/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FB%2Fi
-[/us/pl/102/375/s102/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FB
-[/us/pl/102/375/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305%2Fb
-[/us/pl/102/375/s102/b/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FD
-[/us/pl/102/375/s102/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F10%2FC
-[/us/pl/102/375/s904/a/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F11%2FC
-[/us/pl/100/628/s705/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F4%2FA
-[/us/pl/100/628/s705/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F4%2FB
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
-[/us/pl/100/175/s182/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fh
-[/us/pl/100/175/s132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs132%2Fa%2F2
-[/us/pl/100/175/s124/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs124%2F1
-[/us/pl/100/175/s124/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs124%2F2
-[/us/pl/100/175/s124/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs124%2F3
-[/us/pl/100/175/s182/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182%2Fe%2F2
-[/us/pl/98/459/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs305%2Fa%2F1
-[/us/pl/98/459/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs305%2Fa%2F2
-[/us/pl/98/459/s305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs305%2Fb%2F1
-[/us/pl/98/459/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs305%2Fb
-[/us/pl/98/459/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs305%2Fc
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
-[/us/pl/97/115/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs5%2Fb
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/usc/t42/s3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026
-[/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
-[/us/pl/97/115/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs5%2Fc
-[/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
-[/us/pl/97/115/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs5%2Fd
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/pl/102/375/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs305
 [/us/pl/103/171/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs4%2Fb
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001

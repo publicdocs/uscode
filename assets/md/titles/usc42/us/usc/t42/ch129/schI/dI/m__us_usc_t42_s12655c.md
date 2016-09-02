@@ -71,21 +71,21 @@
 
         No participant shall perform any specific activity for more than a 6-month period. No participant shall remain enrolled in programs assisted under this division for more than 24 months.
 
-([Pub. L. 101–610, title I, § 199D][/us/pl/101/610/s199D], formerly § 124, Nov. 16, 1990, [104 Stat. 3143][/us/stat/104/3143]; [Pub. L. 102–10, § 5(4)][/us/pl/102/10/s5/4], Mar. 12, 1991, [105 Stat. 30][/us/stat/105/30]; renumbered § 199D and amended [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], (e)(1), (5), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 815, 816.)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 199D, formerly § 124, Nov. 16, 1990, [104 Stat. 3143][/us/stat/104/3143]; [Pub. L. 102–10][/us/pl/102/10], § 5(4), Mar. 12, 1991, [105 Stat. 30][/us/stat/105/30]; renumbered § 199D and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(a), (e)(1), (5), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 815, 816.)
 
  __Codification__ 
 
-    Section was formerly classified to [section 12544 of this title][/us/usc/t42/s12544] prior to renumbering by [Pub. L. 103–82, § 101(a)][/us/pl/103/82/s101/a].
+    Section was formerly classified to [section 12544 of this title][/us/usc/t42/s12544] prior to renumbering by [Pub. L. 103–82][/us/pl/103/82], § 101(a).
 
  __Amendments__ 
 
-    1993—Subsec. (a)(2)(F). [Pub. L. 103–82, § 101(e)(1)][/us/pl/103/82/s101/e/1], substituted “Corporation” for “Commission”.
+    1993—Subsec. (a)(2)(F). [Pub. L. 103–82][/us/pl/103/82], § 101(e)(1), substituted “Corporation” for “Commission”.
 
-    Subsecs. (b), (c). [Pub. L. 103–82, § 101(e)(5)][/us/pl/103/82/s101/e/5], redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to ineligible service categories.
+    Subsecs. (b), (c). [Pub. L. 103–82][/us/pl/103/82], § 101(e)(5), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to ineligible service categories.
 
-    1991—Subsec. (a)(2). [Pub. L. 102–10, § 5(4)(A)][/us/pl/102/10/s5/4/A], substituted “youth service” for “human services” in introductory provisions.
+    1991—Subsec. (a)(2). [Pub. L. 102–10][/us/pl/102/10], § 5(4)(A), substituted “youth service” for “human services” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 102–10, § 5(4)(B)][/us/pl/102/10/s5/4/B], substituted “any specific activity for more than a 6-month period. No participant shall remain enrolled in programs” for “services in any project for more than a 6-month period. No participant shall remain enrolled in projects”.
+    Subsec. (c). [Pub. L. 102–10][/us/pl/102/10], § 5(4)(B), substituted “any specific activity for more than a 6-month period. No participant shall remain enrolled in programs” for “services in any project for more than a 6-month period. No participant shall remain enrolled in projects”.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -98,18 +98,18 @@
 ----------
 ----------
 
-[/us/pl/101/610/s199D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199D
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3143
-[/us/pl/102/10/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs5%2F4
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F30
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F788
 [/us/usc/t42/s12544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12544
-[/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
-[/us/pl/103/82/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fe%2F1
-[/us/pl/103/82/s101/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fe%2F5
-[/us/pl/102/10/s5/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs5%2F4%2FA
-[/us/pl/102/10/s5/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs5%2F4%2FB
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs123
 [/us/usc/t16/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1701

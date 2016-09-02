@@ -37,13 +37,13 @@
 
         (7) providing funds to educational institutions to hire personnel to facilitate interactions between local school systems, Department research and development facilities, and corporate and governmental entities.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3166][/us/pl/101/510/s3166], Nov. 5, 1990, [104 Stat. 1843][/us/stat/104/1843]; [Pub. L. 109–58, title XI, § 1102(c)][/us/pl/109/58/s1102/c], Aug. 8, 2005, [119 Stat. 938][/us/stat/119/938].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3166, Nov. 5, 1990, [104 Stat. 1843][/us/stat/104/1843]; [Pub. L. 109–58, title XI][/us/pl/109/58/tXI], § 1102(c), Aug. 8, 2005, [119 Stat. 938][/us/stat/119/938].)
 
  __Amendments__ 
 
-    2005—Subsec. (b)(1). [Pub. L. 109–58, § 1102(c)(1)][/us/pl/109/58/s1102/c/1], added par. (1) and struck out former par. (1) which read as follows: “loaning equipment to the institution;”.
+    2005—Subsec. (b)(1). [Pub. L. 109–58][/us/pl/109/58], § 1102(c)(1), added par. (1) and struck out former par. (1) which read as follows: “loaning equipment to the institution;”.
 
-    Subsec. (b)(7). [Pub. L. 109–58, § 1102(c)(2)][/us/pl/109/58/s1102/c/2]–(4), added par. (7).
+    Subsec. (b)(7). [Pub. L. 109–58][/us/pl/109/58], § 1102(c)(2)–(4), added par. (7).
 
 ----------
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/101/510/s3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3166
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1843
-[/us/pl/109/58/s1102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1102%2Fc
+[/us/pl/109/58/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXI
 [/us/stat/119/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F938
-[/us/pl/109/58/s1102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1102%2Fc%2F1
-[/us/pl/109/58/s1102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1102%2Fc%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

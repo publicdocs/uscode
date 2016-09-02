@@ -19,7 +19,7 @@
 
     (b) Except as provided in subchapter IV of this chapter, there are transferred to, and vested in, the Secretary the function of the Federal Power Commission, or of the members, officers, or components thereof. The Secretary may exercise any power described in [section 7172(a)(2) of this title][/us/usc/t42/s7172/a/2] to the extent the Secretary determines such power to be necessary to the exercise of any function within his jurisdiction pursuant to the preceding sentence.
 
-([Pub. L. 95–91, title III, § 301][/us/pl/95/91/s301], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
+([Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@ Sec. 3. Functions of the Secretary of the Interior. In accordance with the trans
 ----------
 
 [/us/usc/t42/s7172/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fa%2F2
-[/us/pl/95/91/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

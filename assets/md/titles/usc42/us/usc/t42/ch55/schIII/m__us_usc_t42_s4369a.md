@@ -21,7 +21,7 @@
 
     (b) __Omitted__ 
 
-([Pub. L. 96–229, § 4][/us/pl/96/229/s4], Apr. 7, 1980, [94 Stat. 328][/us/stat/94/328].)
+([Pub. L. 96–229][/us/pl/96/229], § 4, Apr. 7, 1980, [94 Stat. 328][/us/stat/94/328].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/229/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F229%2Fs4
+[/us/pl/96/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F229
 [/us/stat/94/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F328
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

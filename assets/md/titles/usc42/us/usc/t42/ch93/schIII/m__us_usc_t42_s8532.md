@@ -37,7 +37,7 @@
 
         Before December 31, 1979, the President shall submit a report to Congress in which the President shall examine the middle distillate situation, summarizing the data, information, and analyses described in subsection (a) of this section and discussing in detail matters required to be addressed in findings made pursuant to section 760a(d)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 15.
 
-([Pub. L. 96–102, title II, § 242][/us/pl/96/102/s242], Nov. 5, 1979, [93 Stat. 768][/us/stat/93/768].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 242, Nov. 5, 1979, [93 Stat. 768][/us/stat/93/768].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/96/102/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs242
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F768
 [/us/usc/t15/s760a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760a
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g

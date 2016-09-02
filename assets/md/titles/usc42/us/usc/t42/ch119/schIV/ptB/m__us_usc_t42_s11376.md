@@ -27,7 +27,7 @@
 
         The Secretary shall prescribe such minimum standards of habitability as the Secretary determines to be appropriate to ensure that emergency shelters assisted under this section are environments that provide appropriate privacy, safety, and sanitary and other health-related conditions for homeless persons and families. Grantees are authorized to establish standards of habitability in addition to those prescribed by the Secretary.
 
-([Pub. L. 100–77, title IV, § 417][/us/pl/100/77/s417], formerly § 416, July 22, 1987, [101 Stat. 498][/us/stat/101/498]; [Pub. L. 101–625, title VIII, § 832(f)(7)][/us/pl/101/625/s832/f/7], (g), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V, § 506(a)(6)][/us/pl/104/330/s506/a/6], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 417, [Pub. L. 111–22, div. B, title II, § 1201(3)][/us/pl/111/22/s1201/3], May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 417, formerly § 416, July 22, 1987, [101 Stat. 498][/us/stat/101/498]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(f)(7), (g), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(6), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 417, [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(3), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
     1996—Subsec. (b). [Pub. L. 104–330][/us/pl/104/330] struck out “Indian tribe,” after “State,”.
 
-    1990—Subsec. (b). [Pub. L. 101–625, § 832(f)(7)][/us/pl/101/625/s832/f/7], inserted “Indian tribe,” after “State,”.
+    1990—Subsec. (b). [Pub. L. 101–625][/us/pl/101/625], § 832(f)(7), inserted “Indian tribe,” after “State,”.
 
-    Subsec. (c). [Pub. L. 101–625, § 832(g)][/us/pl/101/625/s832/g], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–625][/us/pl/101/625], § 832(g), added subsec. (c).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -61,13 +61,13 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/99/500/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fg
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
-[/us/pl/100/77/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs417
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F498
-[/us/pl/101/625/s832/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Ff%2F7
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4361
-[/us/pl/104/330/s506/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F6
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
-[/us/pl/111/22/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F3
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
 [/us/pl/99/500/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fg
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
@@ -78,8 +78,8 @@
 [/us/usc/t42/s11377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11377
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
-[/us/pl/101/625/s832/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Ff%2F7
-[/us/pl/101/625/s832/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fg
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101

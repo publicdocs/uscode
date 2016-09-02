@@ -23,7 +23,7 @@
 
     (c) The term “fire organization” means any governmental entity or public or private corporation or association maintaining fire protection facilities within the United States, its Territories and possessions, and any governmental entity or public or private corporation or association which maintains fire protection facilities in any foreign country in the vicinity of any installation of the United States.
 
-([May 27, 1955, ch. 105, § 1][/us/act/1955-05-27/ch105/s1], [69 Stat. 66][/us/stat/69/66]; [Pub. L. 109–163, div. A, title X, § 1060][/us/pl/109/163/s1060], Jan. 6, 2006, [119 Stat. 3444][/us/stat/119/3444].)
+([May 27, 1955, ch. 105][/us/act/1955-05-27/ch105], § 1, [69 Stat. 66][/us/stat/69/66]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1060, Jan. 6, 2006, [119 Stat. 3444][/us/stat/119/3444].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1955-05-27/ch105/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105%2Fs1
+[/us/act/1955-05-27/ch105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105
 [/us/stat/69/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F66
-[/us/pl/109/163/s1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1060
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3444
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

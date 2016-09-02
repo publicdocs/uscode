@@ -1013,7 +1013,7 @@
 
             In this subsection, the term “eligible local food banks or charitable organizations” means any food bank or charitable organization which is exempt from tax under [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3].
 
-([June 4, 1946, ch. 281, § 9][/us/act/1946-06-04/ch281/s9], [60 Stat. 233][/us/stat/60/233]; [Pub. L. 90–302, § 2(b)][/us/pl/90/302/s2/b], May 8, 1968, [82 Stat. 117][/us/stat/82/117]; [Pub. L. 91–248, § 6(a)][/us/pl/91/248/s6/a], (b), (d), (e), May 14, 1970, [84 Stat. 210][/us/stat/84/210]; [Pub. L. 92–153, § 5][/us/pl/92/153/s5], Nov. 5, 1971, [85 Stat. 420][/us/stat/85/420]; [Pub. L. 92–433, § 5][/us/pl/92/433/s5], Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726]; [Pub. L. 93–150, § 9][/us/pl/93/150/s9], Nov. 7, 1973, [87 Stat. 564][/us/stat/87/564]; [Pub. L. 93–326, § 4][/us/pl/93/326/s4], June 30, 1974, [88 Stat. 286][/us/stat/88/286]; [Pub. L. 94–105, § 6][/us/pl/94/105/s6], Oct. 7, 1975, [89 Stat. 512][/us/stat/89/512]; [Pub. L. 95–166, § 8][/us/pl/95/166/s8], Nov. 10, 1977, [91 Stat. 1335][/us/stat/91/1335]; [Pub. L. 95–627, § 8][/us/pl/95/627/s8], Nov. 10, 1978, [92 Stat. 3622][/us/stat/92/3622]; [Pub. L. 97–35, title VIII][/us/pl/97/35], §§ 803(a), (b), 811, Aug. 13, 1981, [95 Stat. 524][/us/stat/95/524], 525, 529; [Pub. L. 99–500, title III][/us/pl/99/500], §§ 322–324, Oct. 18, 1986, [100 Stat. 1783–361][/us/stat/100/1783-361], and [Pub. L. 99–591, title III][/us/pl/99/591], §§ 322–324, Oct. 30, 1986, [100 Stat. 3341–364][/us/stat/100/3341-364]; [Pub. L. 99–661, div. D, title II][/us/pl/99/661], §§ 4202–4204, Nov. 14, 1986, [100 Stat. 4072][/us/stat/100/4072]; [Pub. L. 100–356, § 1][/us/pl/100/356/s1], June 28, 1988, [102 Stat. 669][/us/stat/102/669]; [Pub. L. 101–147, title I, § 101][/us/pl/101/147/s101], title II, § 202(a)(1), (2)(A), (b), title III, §§ 305, 312(1), (2), Nov. 10, 1989, [103 Stat. 878][/us/stat/103/878], 908, 914, 916; [Pub. L. 103–448, title I][/us/pl/103/448], §§ 105(a), 106–109(a), 110, Nov. 2, 1994, [108 Stat. 4701–4705][/us/stat/108/4701-4705]; [Pub. L. 104–149, § 2][/us/pl/104/149/s2], May 29, 1996, [110 Stat. 1379][/us/stat/110/1379]; [Pub. L. 104–193, title I, § 109(g)][/us/pl/104/193/s109/g], title VII, §§ 702, 703, Aug. 22, 1996, [110 Stat. 2170][/us/stat/110/2170], 2288, 2289; [Pub. L. 105–336, title I, § 102][/us/pl/105/336/s102], Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144]; [Pub. L. 106–224, title II, § 242(a)][/us/pl/106/224/s242/a], June 20, 2000, [114 Stat. 411][/us/stat/114/411]; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4302(a), 4303, May 13, 2002, [116 Stat. 330][/us/stat/116/330], 331; [Pub. L. 108–134, § 1][/us/pl/108/134/s1], Nov. 22, 2003, [117 Stat. 1389][/us/stat/117/1389]; [Pub. L. 108–211, § 1][/us/pl/108/211/s1], Mar. 31, 2004, [118 Stat. 566][/us/stat/118/566]; [Pub. L. 108–265, title I][/us/pl/108/265], §§ 102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, [118 Stat. 731–734][/us/stat/118/731-734], 737, 738, 745–747; [Pub. L. 108–447, div. A, title VII, § 788(a)][/us/pl/108/447/s788/a], Dec. 8, 2004, [118 Stat. 2851][/us/stat/118/2851]; [Pub. L. 110–134, § 29(c)(1)][/us/pl/110/134/s29/c/1], Dec. 12, 2007, [121 Stat. 1449][/us/stat/121/1449]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097], 1125; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, 1887; [Pub. L. 111–80, title VII][/us/pl/111/80], §§ 734(a), 749(b), (c), Oct. 21, 2009, [123 Stat. 2125][/us/stat/123/2125], 2131; [Pub. L. 111–296, title I][/us/pl/111/296], §§ 101—103(b), title II, §§ 202, 203, 209, 242, title III, §§ 301, 302, title IV, §§ 402, 441(a)(1), Dec. 13, 2010, [124 Stat. 3185–3191][/us/stat/124/3185-3191], 3216, 3222, 3236, 3240, 3259, 3261; [Pub. L. 112–55, div. A, title VII, § 734][/us/pl/112/55/s734], Nov. 18, 2011, [125 Stat. 587][/us/stat/125/587].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 9, [60 Stat. 233][/us/stat/60/233]; [Pub. L. 90–302][/us/pl/90/302], § 2(b), May 8, 1968, [82 Stat. 117][/us/stat/82/117]; [Pub. L. 91–248][/us/pl/91/248], § 6(a), (b), (d), (e), May 14, 1970, [84 Stat. 210][/us/stat/84/210]; [Pub. L. 92–153][/us/pl/92/153], § 5, Nov. 5, 1971, [85 Stat. 420][/us/stat/85/420]; [Pub. L. 92–433][/us/pl/92/433], § 5, Sept. 26, 1972, [86 Stat. 726][/us/stat/86/726]; [Pub. L. 93–150][/us/pl/93/150], § 9, Nov. 7, 1973, [87 Stat. 564][/us/stat/87/564]; [Pub. L. 93–326][/us/pl/93/326], § 4, June 30, 1974, [88 Stat. 286][/us/stat/88/286]; [Pub. L. 94–105][/us/pl/94/105], § 6, Oct. 7, 1975, [89 Stat. 512][/us/stat/89/512]; [Pub. L. 95–166][/us/pl/95/166], § 8, Nov. 10, 1977, [91 Stat. 1335][/us/stat/91/1335]; [Pub. L. 95–627][/us/pl/95/627], § 8, Nov. 10, 1978, [92 Stat. 3622][/us/stat/92/3622]; [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], §§ 803(a), (b), 811, Aug. 13, 1981, [95 Stat. 524][/us/stat/95/524], 525, 529; [Pub. L. 99–500, title III][/us/pl/99/500/tIII], §§ 322–324, Oct. 18, 1986, [100 Stat. 1783–361][/us/stat/100/1783-361], and [Pub. L. 99–591, title III][/us/pl/99/591/tIII], §§ 322–324, Oct. 30, 1986, [100 Stat. 3341–364][/us/stat/100/3341-364]; [Pub. L. 99–661, div. D, title II][/us/pl/99/661/dD/tII], §§ 4202–4204, Nov. 14, 1986, [100 Stat. 4072][/us/stat/100/4072]; [Pub. L. 100–356][/us/pl/100/356], § 1, June 28, 1988, [102 Stat. 669][/us/stat/102/669]; [Pub. L. 101–147, title I][/us/pl/101/147/tI], § 101, title II, § 202(a)(1), (2)(A), (b), title III, §§ 305, 312(1), (2), Nov. 10, 1989, [103 Stat. 878][/us/stat/103/878], 908, 914, 916; [Pub. L. 103–448, title I][/us/pl/103/448/tI], §§ 105(a), 106–109(a), 110, Nov. 2, 1994, [108 Stat. 4701–4705][/us/stat/108/4701-4705]; [Pub. L. 104–149][/us/pl/104/149], § 2, May 29, 1996, [110 Stat. 1379][/us/stat/110/1379]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 109(g), title VII, §§ 702, 703, Aug. 22, 1996, [110 Stat. 2170][/us/stat/110/2170], 2288, 2289; [Pub. L. 105–336, title I][/us/pl/105/336/tI], § 102, Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144]; [Pub. L. 106–224, title II][/us/pl/106/224/tII], § 242(a), June 20, 2000, [114 Stat. 411][/us/stat/114/411]; [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], §§ 4302(a), 4303, May 13, 2002, [116 Stat. 330][/us/stat/116/330], 331; [Pub. L. 108–134][/us/pl/108/134], § 1, Nov. 22, 2003, [117 Stat. 1389][/us/stat/117/1389]; [Pub. L. 108–211][/us/pl/108/211], § 1, Mar. 31, 2004, [118 Stat. 566][/us/stat/118/566]; [Pub. L. 108–265, title I][/us/pl/108/265/tI], §§ 102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, [118 Stat. 731–734][/us/stat/118/731-734], 737, 738, 745–747; [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 788(a), Dec. 8, 2004, [118 Stat. 2851][/us/stat/118/2851]; [Pub. L. 110–134][/us/pl/110/134], § 29(c)(1), Dec. 12, 2007, [121 Stat. 1449][/us/stat/121/1449]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097], 1125; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, 1887; [Pub. L. 111–80, title VII][/us/pl/111/80/tVII], §§ 734(a), 749(b), (c), Oct. 21, 2009, [123 Stat. 2125][/us/stat/123/2125], 2131; [Pub. L. 111–296, title I][/us/pl/111/296/tI], §§ 101—103(b), title II, §§ 202, 203, 209, 242, title III, §§ 301, 302, title IV, §§ 402, 441(a)(1), Dec. 13, 2010, [124 Stat. 3185–3191][/us/stat/124/3185-3191], 3216, 3222, 3236, 3240, 3259, 3261; [Pub. L. 112–55, div. A, title VII][/us/pl/112/55/dA/tVII], § 734, Nov. 18, 2011, [125 Stat. 587][/us/stat/125/587].)
 
  __References in Text__ 
 
@@ -1037,163 +1037,163 @@
 
     2011—Subsec. (l). [Pub. L. 112–55][/us/pl/112/55] added subsec. (l).
 
-    2010—Subsec. (a)(2)(A)(i). [Pub. L. 111–296, § 202][/us/pl/111/296/s202], added cl. (i) and struck out former cl. (i) which read as follows: “shall offer students fluid milk in a variety of fat contents;”.
+    2010—Subsec. (a)(2)(A)(i). [Pub. L. 111–296][/us/pl/111/296], § 202, added cl. (i) and struck out former cl. (i) which read as follows: “shall offer students fluid milk in a variety of fat contents;”.
 
-    Subsec. (a)(4)(C). [Pub. L. 111–296, § 242][/us/pl/111/296/s242], added subpar. (C).
+    Subsec. (a)(4)(C). [Pub. L. 111–296][/us/pl/111/296], § 242, added subpar. (C).
 
-    Subsec. (a)(5). [Pub. L. 111–296, § 203][/us/pl/111/296/s203], added par. (5).
+    Subsec. (a)(5). [Pub. L. 111–296][/us/pl/111/296], § 203, added par. (5).
 
-    Subsec. (b)(4). [Pub. L. 111–296, § 101(a)(1)][/us/pl/111/296/s101/a/1], substituted “supplemental nutrition assistance program” for “food stamp” in heading.
+    Subsec. (b)(4). [Pub. L. 111–296][/us/pl/111/296], § 101(a)(1), substituted “supplemental nutrition assistance program” for “food stamp” in heading.
 
-    Subsec. (b)(4)(E). [Pub. L. 111–296, § 101(a)(2)][/us/pl/111/296/s101/a/2], added subpar. (E).
+    Subsec. (b)(4)(E). [Pub. L. 111–296][/us/pl/111/296], § 101(a)(2), added subpar. (E).
 
-    Subsec. (b)(4)(F). [Pub. L. 111–296, § 101(b)][/us/pl/111/296/s101/b], added subpar. (F).
+    Subsec. (b)(4)(F). [Pub. L. 111–296][/us/pl/111/296], § 101(b), added subpar. (F).
 
-    Subsec. (b)(4)(G). [Pub. L. 111–296, § 101(c)][/us/pl/111/296/s101/c], added subpar. (G).
+    Subsec. (b)(4)(G). [Pub. L. 111–296][/us/pl/111/296], § 101(c), added subpar. (G).
 
-    Subsec. (b)(5)(E). [Pub. L. 111–296, § 102(a)][/us/pl/111/296/s102/a], added subpar. (E).
+    Subsec. (b)(5)(E). [Pub. L. 111–296][/us/pl/111/296], § 102(a), added subpar. (E).
 
-    Subsec. (b)(12)(A)(iv). [Pub. L. 111–296, § 102(b)(1)][/us/pl/111/296/s102/b/1], inserted closing parenthesis before semicolon at end.
+    Subsec. (b)(12)(A)(iv). [Pub. L. 111–296][/us/pl/111/296], § 102(b)(1), inserted closing parenthesis before semicolon at end.
 
-    Subsec. (b)(12)(A)(vii). [Pub. L. 111–296, § 102(b)(2)][/us/pl/111/296/s102/b/2]–(4), added cl. (vii).
+    Subsec. (b)(12)(A)(vii). [Pub. L. 111–296][/us/pl/111/296], § 102(b)(2)–(4), added cl. (vii).
 
-    Subsec. (b)(15). [Pub. L. 111–296, § 103(a)][/us/pl/111/296/s103/a], added par. (15).
+    Subsec. (b)(15). [Pub. L. 111–296][/us/pl/111/296], § 103(a), added par. (15).
 
-    Subsec. (d)(1). [Pub. L. 111–296, § 301][/us/pl/111/296/s301], inserted “the last 4 digits of” before “the social security account number” in first sentence and struck out second sentence which read as follows: “The Secretary shall require that social security account numbers of all adult members of the household be provided if verification of the data contained in the application is sought under subsection (b)(3)(G) of this section.”
+    Subsec. (d)(1). [Pub. L. 111–296][/us/pl/111/296], § 301, inserted “the last 4 digits of” before “the social security account number” in first sentence and struck out second sentence which read as follows: “The Secretary shall require that social security account numbers of all adult members of the household be provided if verification of the data contained in the application is sought under subsection (b)(3)(G) of this section.”
 
-    Subsec. (d)(2)(F). [Pub. L. 111–296, § 102(c)][/us/pl/111/296/s102/c], added subpar. (F).
+    Subsec. (d)(2)(F). [Pub. L. 111–296][/us/pl/111/296], § 102(c), added subpar. (F).
 
-    Subsec. (d)(2)(G). [Pub. L. 111–296, § 103(b)][/us/pl/111/296/s103/b], added subpar. (G).
+    Subsec. (d)(2)(G). [Pub. L. 111–296][/us/pl/111/296], § 103(b), added subpar. (G).
 
-    Subsec. (f). [Pub. L. 111–296, § 441(a)(1)][/us/pl/111/296/s441/a/1], inserted subsec. heading, added par. (1), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former pars. (1) and (2) which related to nutritional requirements and grants of waivers from such requirements by State educational agencies.
+    Subsec. (f). [Pub. L. 111–296][/us/pl/111/296], § 441(a)(1), inserted subsec. heading, added par. (1), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former pars. (1) and (2) which related to nutritional requirements and grants of waivers from such requirements by State educational agencies.
 
-    Subsec. (h)(3). [Pub. L. 111–296, § 402(1)][/us/pl/111/296/s402/1], substituted “2011 through 2015” for “2006 through 2010” in introductory provisions.
+    Subsec. (h)(3). [Pub. L. 111–296][/us/pl/111/296], § 402(1), substituted “2011 through 2015” for “2006 through 2010” in introductory provisions.
 
-    Subsec. (h)(4). [Pub. L. 111–296, § 402(2)][/us/pl/111/296/s402/2], substituted “2011 through 2015” for “2006 through 2010”.
+    Subsec. (h)(4). [Pub. L. 111–296][/us/pl/111/296], § 402(2), substituted “2011 through 2015” for “2006 through 2010”.
 
-    Subsec. (h)(5). [Pub. L. 111–296, § 302][/us/pl/111/296/s302], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (h)(5). [Pub. L. 111–296][/us/pl/111/296], § 302, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (k). [Pub. L. 111–296, § 209][/us/pl/111/296/s209], added subsec. (k).
+    Subsec. (k). [Pub. L. 111–296][/us/pl/111/296], § 209, added subsec. (k).
 
-    2009—Subsec. (b)(14). [Pub. L. 111–80, § 734(a)][/us/pl/111/80/s734/a], added par. (14).
+    2009—Subsec. (b)(14). [Pub. L. 111–80][/us/pl/111/80], § 734(a), added par. (14).
 
-    Subsec. (f)(5). [Pub. L. 111–80, § 749(b)][/us/pl/111/80/s749/b], substituted “2010” for “2009”.
+    Subsec. (f)(5). [Pub. L. 111–80][/us/pl/111/80], § 749(b), substituted “2010” for “2009”.
 
-    Subsec. (h)(3), (4). [Pub. L. 111–80, § 749(c)][/us/pl/111/80/s749/c], substituted “2010” for “2009”.
+    Subsec. (h)(3), (4). [Pub. L. 111–80][/us/pl/111/80], § 749(c), substituted “2010” for “2009”.
 
-    2008—Subsec. (b)(2)–(4). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing.
+    2008—Subsec. (b)(2)–(4). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing.
 
-    Subsec. (b)(12)(A)(i). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    Subsec. (b)(12)(A)(i). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    Subsec. (b)(12)(B). [Pub. L. 110–246, § 4002(b)(1)(E)][/us/pl/110/246/s4002/b/1/E], (2)(Z), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+    Subsec. (b)(12)(B). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(E), (2)(Z), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-    Subsec. (d)(2)(B). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    Subsec. (d)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    Subsec. (j). [Pub. L. 110–246, § 4302][/us/pl/110/246/s4302], amended subsec. (j) generally. Prior to amendment, subsec. (j) related to encouragement of purchases of locally produced foods, provision of startup grants, and authorization of appropriations.
+    Subsec. (j). [Pub. L. 110–246][/us/pl/110/246], § 4302, amended subsec. (j) generally. Prior to amendment, subsec. (j) related to encouragement of purchases of locally produced foods, provision of startup grants, and authorization of appropriations.
 
     2007—Subsec. (b)(12)(A)(iii). [Pub. L. 110–134][/us/pl/110/134] substituted “the child meets the eligibility criteria prescribed under section 645(a)(1)(B) of the Head Start Act ([42 U.S.C. 9840(a)(1)(B)][/us/usc/t42/s9840/a/1/B])” for “the child is a member of a family that meets the low-income criteria prescribed under section 645(a)(1)(A) of the Head Start Act ([42 U.S.C. 9840(a)(1)(A)][/us/usc/t42/s9840/a/1/A])”.
 
-    2004—Subsec. (a)(2). [Pub. L. 108–265, § 102][/us/pl/108/265/s102], added par. (2) and struck out former par. (2) which read as follows: “Lunches served by schools participating in the school lunch program under this chapter—
+    2004—Subsec. (a)(2). [Pub. L. 108–265][/us/pl/108/265], § 102, added par. (2) and struck out former par. (2) which read as follows: “Lunches served by schools participating in the school lunch program under this chapter—
 
     “(A) shall offer students fluid milk; and
 
     “(B) shall offer students a variety of fluid milk consistent with prior year preferences unless the prior year preference for any such variety of fluid milk is less than 1 percent of the total milk consumed at the school.”
 
-    Subsec. (a)(4). [Pub. L. 108–265, § 103][/us/pl/108/265/s103], added par. (4).
+    Subsec. (a)(4). [Pub. L. 108–265][/us/pl/108/265], § 103, added par. (4).
 
-    Subsec. (b)(2)(B). [Pub. L. 108–265, § 104(a)(2)(A)][/us/pl/108/265/s104/a/2/A], inserted subpar. heading, designated first and second sentences as cls. (i) and (ii), respectively, and inserted headings, in cl. (ii) substituted “Forms and descriptive material distributed in accordance with clause (i)” for “Such forms and descriptive material”, and added cl. (iii).
+    Subsec. (b)(2)(B). [Pub. L. 108–265][/us/pl/108/265], § 104(a)(2)(A), inserted subpar. heading, designated first and second sentences as cls. (i) and (ii), respectively, and inserted headings, in cl. (ii) substituted “Forms and descriptive material distributed in accordance with clause (i)” for “Such forms and descriptive material”, and added cl. (iii).
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 108–265, § 104(a)(2)(B)][/us/pl/108/265/s104/a/2/B], redesignated par. (2)(C)(i) as par. (3).
+    Subsec. (b)(2)(C)(i). [Pub. L. 108–265][/us/pl/108/265], § 104(a)(2)(B), redesignated par. (2)(C)(i) as par. (3).
 
-    Subsec. (b)(2)(C)(ii) to (vii), (D). [Pub. L. 108–265, § 104(a)(2)(C)][/us/pl/108/265/s104/a/2/C], struck out subpars. (C)(ii) to (vii) and (D), which related to direct certification of children in households receiving other assistance, disclosure of eligibility information, limitations, sanction for wrongful disclosure, waiver of confidentiality, use of disclosed information, and submission of price policy statement by school food authority.
+    Subsec. (b)(2)(C)(ii) to (vii), (D). [Pub. L. 108–265][/us/pl/108/265], § 104(a)(2)(C), struck out subpars. (C)(ii) to (vii) and (D), which related to direct certification of children in households receiving other assistance, disclosure of eligibility information, limitations, sanction for wrongful disclosure, waiver of confidentiality, use of disclosed information, and submission of price policy statement by school food authority.
 
-    Subsec. (b)(3). [Pub. L. 108–265, § 105(a)][/us/pl/108/265/s105/a], added par. (3) and struck out former par. (3) which read as follows: “Except as provided in clause (ii), each eligibility determination shall be made on the basis of a complete application executed by an adult member of the household. The Secretary, State, or local food authority may verify any data contained in such application. A local school food authority shall undertake such verification of information contained in any such application as the Secretary may by regulation prescribe and, in accordance with such regulations, shall make appropriate changes in the eligibility determination with respect to such application on the basis of such verification.”
+    Subsec. (b)(3). [Pub. L. 108–265][/us/pl/108/265], § 105(a), added par. (3) and struck out former par. (3) which read as follows: “Except as provided in clause (ii), each eligibility determination shall be made on the basis of a complete application executed by an adult member of the household. The Secretary, State, or local food authority may verify any data contained in such application. A local school food authority shall undertake such verification of information contained in any such application as the Secretary may by regulation prescribe and, in accordance with such regulations, shall make appropriate changes in the eligibility determination with respect to such application on the basis of such verification.”
 
-    [Pub. L. 108–265, § 104(a)(2)(B)][/us/pl/108/265/s104/a/2/B], redesignated par. (2)(C)(i) as par. (3).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(2)(B), redesignated par. (2)(C)(i) as par. (3).
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (3) as (9).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (3) as (9).
 
-    Subsec. (b)(4). [Pub. L. 108–265, § 104(a)(2)(C)][/us/pl/108/265/s104/a/2/C], added par. (4).
+    Subsec. (b)(4). [Pub. L. 108–265][/us/pl/108/265], § 104(a)(2)(C), added par. (4).
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (4) as (10).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (4) as (10).
 
-    Subsec. (b)(5). [Pub. L. 108–265, § 104(d)(1)][/us/pl/108/265/s104/d/1], struck out “(A) In general.—” before “Subject to paragraph (6)”, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches or breakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as a member of a household that is receiving food stamps under the Food Stamp Act of 1977 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.).”
+    Subsec. (b)(5). [Pub. L. 108–265][/us/pl/108/265], § 104(d)(1), struck out “(A) In general.—” before “Subject to paragraph (6)”, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches or breakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as a member of a household that is receiving food stamps under the Food Stamp Act of 1977 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.).”
 
-    [Pub. L. 108–265, § 104(b)(1)][/us/pl/108/265/s104/b/1], as amended by [Pub. L. 108–447][/us/pl/108/447], added par. (5).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(b)(1), as amended by [Pub. L. 108–447][/us/pl/108/447], added par. (5).
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (5) as (11).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (5) as (11).
 
-    Subsec. (b)(6). [Pub. L. 108–265, § 104(b)(1)][/us/pl/108/265/s104/b/1], added par. (6).
+    Subsec. (b)(6). [Pub. L. 108–265][/us/pl/108/265], § 104(b)(1), added par. (6).
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (6) as (12).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (6) as (12).
 
-    Subsec. (b)(7). [Pub. L. 108–265, § 104(b)(1)][/us/pl/108/265/s104/b/1], added par. (7).
+    Subsec. (b)(7). [Pub. L. 108–265][/us/pl/108/265], § 104(b)(1), added par. (7).
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (7) as (13).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (7) as (13).
 
     [Pub. L. 108–211][/us/pl/108/211] substituted “June 30, 2004” for “March 31, 2004”.
 
-    Subsec. (b)(8). [Pub. L. 108–265, § 104(b)(1)][/us/pl/108/265/s104/b/1], added par. (8).
+    Subsec. (b)(8). [Pub. L. 108–265][/us/pl/108/265], § 104(b)(1), added par. (8).
 
-    Subsec. (b)(9). [Pub. L. 108–265, § 106][/us/pl/108/265/s106], inserted par. heading, designated existing provisions as subpars. (A) and (B), inserted subpar. headings, in subpar. (B) designated existing provisions as cls. (i) and (ii) and inserted cl. headings, and added subpar. (C).
+    Subsec. (b)(9). [Pub. L. 108–265][/us/pl/108/265], § 106, inserted par. heading, designated existing provisions as subpars. (A) and (B), inserted subpar. headings, in subpar. (B) designated existing provisions as cls. (i) and (ii) and inserted cl. headings, and added subpar. (C).
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (3) as (9).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (3) as (9).
 
-    Subsec. (b)(10). [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (4) as (10).
+    Subsec. (b)(10). [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (4) as (10).
 
-    Subsec. (b)(11). [Pub. L. 108–265, § 108(a)(1)][/us/pl/108/265/s108/a/1], substituted “Local educational agencies” for “Local school authorities” in second sentence.
+    Subsec. (b)(11). [Pub. L. 108–265][/us/pl/108/265], § 108(a)(1), substituted “Local educational agencies” for “Local school authorities” in second sentence.
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (5) as (11).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (5) as (11).
 
-    Subsec. (b)(12). [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (6) as (12).
+    Subsec. (b)(12). [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (6) as (12).
 
-    Subsec. (b)(12)(A)(iv) to (vi). [Pub. L. 108–265, § 107(a)][/us/pl/108/265/s107/a], added cls. (iv) to (vi).
+    Subsec. (b)(12)(A)(iv) to (vi). [Pub. L. 108–265][/us/pl/108/265], § 107(a), added cls. (iv) to (vi).
 
-    Subsec. (b)(12)(B). [Pub. L. 108–265, § 104(d)(2)(A)][/us/pl/108/265/s104/d/2/A], substituted “this subsection” for “paragraph (2)(C)”.
+    Subsec. (b)(12)(B). [Pub. L. 108–265][/us/pl/108/265], § 104(d)(2)(A), substituted “this subsection” for “paragraph (2)(C)”.
 
-    Subsec. (b)(13). [Pub. L. 108–265, § 109][/us/pl/108/265/s109], substituted “The” for “For each of fiscal years 2002 and 2003 and through June 30, 2004, the”.
+    Subsec. (b)(13). [Pub. L. 108–265][/us/pl/108/265], § 109, substituted “The” for “For each of fiscal years 2002 and 2003 and through June 30, 2004, the”.
 
-    [Pub. L. 108–265, § 104(a)(1)][/us/pl/108/265/s104/a/1], redesignated par. (7) as (13).
+    [Pub. L. 108–265][/us/pl/108/265], § 104(a)(1), redesignated par. (7) as (13).
 
-    Subsec. (d)(1). [Pub. L. 108–265, § 104(d)(2)(B)][/us/pl/108/265/s104/d/2/B], substituted “subsection (b)(3)(G)” for “subsection (b)(2)(C)” in second sentence.
+    Subsec. (d)(1). [Pub. L. 108–265][/us/pl/108/265], § 104(d)(2)(B), substituted “subsection (b)(3)(G)” for “subsection (b)(2)(C)” in second sentence.
 
-    Subsec. (d)(2)(A). [Pub. L. 108–265, § 108(a)(2)][/us/pl/108/265/s108/a/2], substituted “appropriate local educational agency” for “appropriate local school food authority” and “the local educational agency” for “such authority”.
+    Subsec. (d)(2)(A). [Pub. L. 108–265][/us/pl/108/265], § 108(a)(2), substituted “appropriate local educational agency” for “appropriate local school food authority” and “the local educational agency” for “such authority”.
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 108–265, § 108(a)(2)(A)][/us/pl/108/265/s108/a/2/A], substituted “local educational agency” for “local school food authority”.
+    Subsec. (d)(2)(B), (C). [Pub. L. 108–265][/us/pl/108/265], § 108(a)(2)(A), substituted “local educational agency” for “local school food authority”.
 
-    Subsec. (d)(2)(D), (E). [Pub. L. 108–265, § 107(b)][/us/pl/108/265/s107/b], added subpars. (D) and (E).
+    Subsec. (d)(2)(D), (E). [Pub. L. 108–265][/us/pl/108/265], § 107(b), added subpars. (D) and (E).
 
-    Subsec. (f)(5). [Pub. L. 108–265, § 110][/us/pl/108/265/s110], substituted “September 30, 2009” for “September 30, 2003”.
+    Subsec. (f)(5). [Pub. L. 108–265][/us/pl/108/265], § 110, substituted “September 30, 2009” for “September 30, 2003”.
 
-    Subsec. (h). [Pub. L. 108–265, § 111(1)][/us/pl/108/265/s111/1], struck out “inspections” after “safety” in heading.
+    Subsec. (h). [Pub. L. 108–265][/us/pl/108/265], § 111(1), struck out “inspections” after “safety” in heading.
 
-    Subsec. (h)(1). [Pub. L. 108–265, § 111(2)][/us/pl/108/265/s111/2], substituted “A school” for “Except as provided in paragraph (2), a school”, inserted subpar. (A) designation, substituted “at least twice” for “at least once”, and added subpars. (B) and (C).
+    Subsec. (h)(1). [Pub. L. 108–265][/us/pl/108/265], § 111(2), substituted “A school” for “Except as provided in paragraph (2), a school”, inserted subpar. (A) designation, substituted “at least twice” for “at least once”, and added subpars. (B) and (C).
 
-    Subsec. (h)(2) to (5). [Pub. L. 108–265, § 111(3)][/us/pl/108/265/s111/3], added pars. (2) to (5) and struck out heading and text of former par. (2). Text read as follows: “Paragraph (1) shall not apply to a school if a food safety inspection of the school is required by a State or local governmental agency responsible for food safety inspections.”
+    Subsec. (h)(2) to (5). [Pub. L. 108–265][/us/pl/108/265], § 111(3), added pars. (2) to (5) and struck out heading and text of former par. (2). Text read as follows: “Paragraph (1) shall not apply to a school if a food safety inspection of the school is required by a State or local governmental agency responsible for food safety inspections.”
 
-    Subsec. (j)(2)(A). [Pub. L. 108–265, § 112][/us/pl/108/265/s112], substituted “2009” for “2007”.
+    Subsec. (j)(2)(A). [Pub. L. 108–265][/us/pl/108/265], § 112, substituted “2009” for “2007”.
 
     2003—Subsec. (b)(7). [Pub. L. 108–134][/us/pl/108/134] inserted “and through March 31, 2004” after “and 2003”.
 
-    2002—Subsec. (b)(7). [Pub. L. 107–171, § 4302(a)][/us/pl/107/171/s4302/a], added par. (7).
+    2002—Subsec. (b)(7). [Pub. L. 107–171][/us/pl/107/171], § 4302(a), added par. (7).
 
-    Subsec. (j). [Pub. L. 107–171, § 4303][/us/pl/107/171/s4303], added subsec. (j).
+    Subsec. (j). [Pub. L. 107–171][/us/pl/107/171], § 4303, added subsec. (j).
 
-    2000—Subsec. (b)(2)(C)(iii)(IV). [Pub. L. 106–224, § 242(a)(1)][/us/pl/106/224/s242/a/1], added subcl. (IV).
+    2000—Subsec. (b)(2)(C)(iii)(IV). [Pub. L. 106–224][/us/pl/106/224], § 242(a)(1), added subcl. (IV).
 
-    Subsec. (b)(2)(C)(vi), (vii). [Pub. L. 106–224, § 242(a)(2)][/us/pl/106/224/s242/a/2], added cls. (vi) and (vii).
+    Subsec. (b)(2)(C)(vi), (vii). [Pub. L. 106–224][/us/pl/106/224], § 242(a)(2), added cls. (vi) and (vii).
 
-    1998—Subsec. (f)(2). [Pub. L. 105–336, § 102(a)(1)][/us/pl/105/336/s102/a/1], substituted “paragraph (1)” for “subparagraph (A)”.
+    1998—Subsec. (f)(2). [Pub. L. 105–336][/us/pl/105/336], § 102(a)(1), substituted “paragraph (1)” for “subparagraph (A)”.
 
-    Subsec. (f)(3), (4). [Pub. L. 105–336, § 102(a)(2)][/us/pl/105/336/s102/a/2], substituted “this subsection” for “this paragraph” wherever appearing.
+    Subsec. (f)(3), (4). [Pub. L. 105–336][/us/pl/105/336], § 102(a)(2), substituted “this subsection” for “this paragraph” wherever appearing.
 
-    Subsec. (f)(5). [Pub. L. 105–336, § 102(b)][/us/pl/105/336/s102/b], added par. (5).
+    Subsec. (f)(5). [Pub. L. 105–336][/us/pl/105/336], § 102(b), added par. (5).
 
-    Subsec. (h). [Pub. L. 105–336, § 102(c)][/us/pl/105/336/s102/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–336][/us/pl/105/336], § 102(c), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 105–336, § 102(d)][/us/pl/105/336/s102/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 105–336][/us/pl/105/336], § 102(d), added subsec. (i).
 
-    1996—Subsec. (a)(2). [Pub. L. 104–193, § 702(a)(1)][/us/pl/104/193/s702/a/1], redesignated par. (2)(A) as (2) and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, and struck out former subpar. (B) which read as follows:
+    1996—Subsec. (a)(2). [Pub. L. 104–193][/us/pl/104/193], § 702(a)(1), redesignated par. (2)(A) as (2) and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, and struck out former subpar. (B) which read as follows:
 
     “(B)(i) The Secretary shall purchase in each calendar year to carry out the school lunch program under this chapter, and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773][/us/usc/t42/s1773]), lowfat cheese on a bid basis in a quantity that is the milkfat equivalent of the quantity of milkfat the Secretary estimates the Commodity Credit Corporation will purchase each calendar year as a result of the elimination of the requirement that schools offer students fluid whole milk and fluid unflavored lowfat milk, based on data provided by the Director of Office of Management and Budget.
 
@@ -1201,113 +1201,113 @@
 
     “(iii) The quantity of lowfat cheese that is purchased under this subparagraph shall be in addition to the quantity of cheese that is historically purchased by the Secretary to carry out school feeding programs. The Secretary shall take such actions as are necessary to ensure that purchases under this subparagraph shall not displace commercial purchases of cheese by schools.”
 
-    Subsec. (a)(3), (4). [Pub. L. 104–193, § 702(a)(2)][/us/pl/104/193/s702/a/2], (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary shall establish, in cooperation with State educational agencies, administrative procedures, which shall include local educational agency and student participation, designed to diminish waste of foods which are served by schools participating in the school lunch program under this chapter without endangering the nutritional integrity of the lunches served by such schools.”
+    Subsec. (a)(3), (4). [Pub. L. 104–193][/us/pl/104/193], § 702(a)(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary shall establish, in cooperation with State educational agencies, administrative procedures, which shall include local educational agency and student participation, designed to diminish waste of foods which are served by schools participating in the school lunch program under this chapter without endangering the nutritional integrity of the lunches served by such schools.”
 
-    Subsec. (b)(2)(C)(ii)(II). [Pub. L. 104–193, § 109(g)(1)(A)][/us/pl/104/193/s109/g/1/A], substituted “State program funded” for “program for aid to families with dependent children” and inserted before period at end “that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995”.
+    Subsec. (b)(2)(C)(ii)(II). [Pub. L. 104–193][/us/pl/104/193], § 109(g)(1)(A), substituted “State program funded” for “program for aid to families with dependent children” and inserted before period at end “that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995”.
 
-    Subsec. (b)(2)(D). [Pub. L. 104–193, § 703][/us/pl/104/193/s703], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 104–193][/us/pl/104/193], § 703, added subpar. (D).
 
-    Subsec. (b)(6)(A)(ii). [Pub. L. 104–193, § 109(g)(1)(B)(i)][/us/pl/104/193/s109/g/1/B/i], substituted “a family (under the State program funded” for “an AFDC assistance unit (under the aid to families with dependent children program authorized” and “that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995” for “, in a State where the standard of eligibility for the assistance does not exceed 130 percent of the poverty line (as defined in [section 9902(2) of this title][/us/usc/t42/s9902/2])”.
+    Subsec. (b)(6)(A)(ii). [Pub. L. 104–193][/us/pl/104/193], § 109(g)(1)(B)(i), substituted “a family (under the State program funded” for “an AFDC assistance unit (under the aid to families with dependent children program authorized” and “that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995” for “, in a State where the standard of eligibility for the assistance does not exceed 130 percent of the poverty line (as defined in [section 9902(2) of this title][/us/usc/t42/s9902/2])”.
 
-    Subsec. (b)(6)(B). [Pub. L. 104–193, § 109(g)(1)(B)(ii)][/us/pl/104/193/s109/g/1/B/ii], substituted “assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995” for “aid to families with dependent children”.
+    Subsec. (b)(6)(B). [Pub. L. 104–193][/us/pl/104/193], § 109(g)(1)(B)(ii), substituted “assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995” for “aid to families with dependent children”.
 
-    Subsec. (c). [Pub. L. 104–193, § 702(b)(2)][/us/pl/104/193/s702/b/2], struck out “Each school shall, insofar as practicable, utilize in its lunch program commodities designated from time to time by the Secretary as being in abundance, either nationally or in the school area or commodities donated by the Secretary.” after “operated on a nonprofit basis.”, “The Secretary is authorized to prescribe terms and conditions respecting the use of commodities donated under such [section 612c of title 7][/us/usc/t7/s612c], under [section 1431 of title 7][/us/usc/t7/s1431] and under [section 1446a–1 of title 7][/us/usc/t7/s1446a–1], as will maximize the nutritional and financial contributions of such donated commodities in such schools and institutions.” after “authorized to receive such commodities.”, and “None of the requirements of this section in respect to the amount for ‘reduced cost’ meals and to eligibility for meals without cost shall apply to schools (as defined in [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6] which are private and nonprofit as defined in the last sentence of [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6]) which participate in the school lunch program under this chapter until such time as the State educational agency, or in the case of such schools which participate under the provisions of [section 1759 of this title][/us/usc/t42/s1759] the Secretary certifies that sufficient funds from sources other than children’s payments are available to enable such schools to meet these requirements.” at end.
+    Subsec. (c). [Pub. L. 104–193][/us/pl/104/193], § 702(b)(2), struck out “Each school shall, insofar as practicable, utilize in its lunch program commodities designated from time to time by the Secretary as being in abundance, either nationally or in the school area or commodities donated by the Secretary.” after “operated on a nonprofit basis.”, “The Secretary is authorized to prescribe terms and conditions respecting the use of commodities donated under such [section 612c of title 7][/us/usc/t7/s612c], under [section 1431 of title 7][/us/usc/t7/s1431] and under [section 1446a–1 of title 7][/us/usc/t7/s1446a–1], as will maximize the nutritional and financial contributions of such donated commodities in such schools and institutions.” after “authorized to receive such commodities.”, and “None of the requirements of this section in respect to the amount for ‘reduced cost’ meals and to eligibility for meals without cost shall apply to schools (as defined in [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6] which are private and nonprofit as defined in the last sentence of [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6]) which participate in the school lunch program under this chapter until such time as the State educational agency, or in the case of such schools which participate under the provisions of [section 1759 of this title][/us/usc/t42/s1759] the Secretary certifies that sufficient funds from sources other than children’s payments are available to enable such schools to meet these requirements.” at end.
 
-    [Pub. L. 104–193, § 702(b)(1)][/us/pl/104/193/s702/b/1], substituted “provision of law” for “of the provisions of law referred to in the preceding sentence” in fifth sentence.
+    [Pub. L. 104–193][/us/pl/104/193], § 702(b)(1), substituted “provision of law” for “of the provisions of law referred to in the preceding sentence” in fifth sentence.
 
-    Subsec. (d)(2)(C). [Pub. L. 104–193, § 109(g)(2)][/us/pl/104/193/s109/g/2], substituted “State program funded” for “program for aid to families with dependent children” and inserted before period at end “that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995”.
+    Subsec. (d)(2)(C). [Pub. L. 104–193][/us/pl/104/193], § 109(g)(2), substituted “State program funded” for “program for aid to families with dependent children” and inserted before period at end “that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995”.
 
-    Subsec. (f). [Pub. L. 104–193, § 702(c)(1)][/us/pl/104/193/s702/c/1]–(3), struck out “(2)” designation before “(A) Except as provided”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (1) which read as follows: “Not later than the first day of the 1996–97 school year, the Secretary, State educational agencies, schools, and school food service authorities shall, to the maximum extent practicable, inform students who participate in the school lunch and school breakfast programs, and parents and guardians of the students, of—
+    Subsec. (f). [Pub. L. 104–193][/us/pl/104/193], § 702(c)(1)–(3), struck out “(2)” designation before “(A) Except as provided”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (1) which read as follows: “Not later than the first day of the 1996–97 school year, the Secretary, State educational agencies, schools, and school food service authorities shall, to the maximum extent practicable, inform students who participate in the school lunch and school breakfast programs, and parents and guardians of the students, of—
 
     “(A) the nutritional content of the lunches and breakfasts that are served under the programs; and
 
     “(B) the consistency of the lunches and breakfasts with the guidelines contained in the most recent ‘Dietary Guidelines for Americans’ that is published under [section 5341 of title 7][/us/usc/t7/s5341] (referred to in this subsection as the ‘Guidelines’), including the consistency of the lunches and breakfasts with the guideline for fat content.”
 
-    Subsec. (f)(1). [Pub. L. 104–193, § 702(c)(4)][/us/pl/104/193/s702/c/4], added par. (1) and struck out former par. (1), as redesignated by [Pub. L. 104–193, § 702(c)(3)][/us/pl/104/193/s702/c/3], which read as follows: “Except as provided in subparagraph (B), not later than the first day of the 1996–97 school year, schools that are participating in the school lunch or school breakfast program shall serve lunches and breakfasts under the programs that are consistent with the Guidelines (as measured in accordance with subsection (a)(1)(A)(ii) of this section and section 4(e)(1)).”
+    Subsec. (f)(1). [Pub. L. 104–193][/us/pl/104/193], § 702(c)(4), added par. (1) and struck out former par. (1), as redesignated by [Pub. L. 104–193][/us/pl/104/193], § 702(c)(3), which read as follows: “Except as provided in subparagraph (B), not later than the first day of the 1996–97 school year, schools that are participating in the school lunch or school breakfast program shall serve lunches and breakfasts under the programs that are consistent with the Guidelines (as measured in accordance with subsection (a)(1)(A)(ii) of this section and section 4(e)(1)).”
 
     Subsec. (f)(2)(D). [Pub. L. 104–149][/us/pl/104/149] added subpar. (D) and struck out former subpar. (D) which read as follows: “Schools may use any of the approaches described in subparagraph (C) to meet the requirements of this paragraph. In the case of schools that elect to use food-based menu systems to meet the requirements of this paragraph, the Secretary may not require the schools to conduct or use nutrient analysis.”
 
-    Subsec. (f)(3). [Pub. L. 104–193, § 702(c)(5)][/us/pl/104/193/s702/c/5], redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) of subpar. (A) as cls. (i) and (ii), respectively.
+    Subsec. (f)(3). [Pub. L. 104–193][/us/pl/104/193], § 702(c)(5), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) of subpar. (A) as cls. (i) and (ii), respectively.
 
-    Subsec. (f)(4). [Pub. L. 104–193, § 702(c)(6)][/us/pl/104/193/s702/c/6], redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in subpar. (A), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and in subpar. (A)(ii), substituted “paragraph (3)” for “subparagraph (C)”.
+    Subsec. (f)(4). [Pub. L. 104–193][/us/pl/104/193], § 702(c)(6), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in subpar. (A), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and in subpar. (A)(ii), substituted “paragraph (3)” for “subparagraph (C)”.
 
-    Subsec. (h). [Pub. L. 104–193, § 702(d)][/us/pl/104/193/s702/d], struck out subsec. (h) which read as follows: “In carrying out this chapter and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), a State educational agency may use resources provided through the nutrition education and training program authorized under section 19 of the Child Nutrition Act of 1966 ([42 U.S.C. 1788][/us/usc/t42/s1788]) for training aimed at improving the quality and acceptance of school meals.”
+    Subsec. (h). [Pub. L. 104–193][/us/pl/104/193], § 702(d), struck out subsec. (h) which read as follows: “In carrying out this chapter and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), a State educational agency may use resources provided through the nutrition education and training program authorized under section 19 of the Child Nutrition Act of 1966 ([42 U.S.C. 1788][/us/usc/t42/s1788]) for training aimed at improving the quality and acceptance of school meals.”
 
     1994—Subsec. (a)(1). [Pub. L. 103–448][/us/pl/103/448], §§ 105(a), 106(a), designated existing provisions as subpar. (A) and cl. (i) of subpar. (A) and added cl. (ii) of subpar. (A) and subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 103–448, § 107][/us/pl/103/448/s107], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Lunches served by schools participating in the school lunch program under this chapter shall offer students fluid whole milk and fluid unflavored lowfat milk.”
+    Subsec. (a)(2). [Pub. L. 103–448][/us/pl/103/448], § 107, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Lunches served by schools participating in the school lunch program under this chapter shall offer students fluid whole milk and fluid unflavored lowfat milk.”
 
-    Subsec. (b)(2)(C)(iii) to (v). [Pub. L. 103–448, § 108][/us/pl/103/448/s108], added cls. (iii) to (v) and struck out former cl. (iii), which read as follows: “School food service authorities shall only use information obtained under clause (ii) for the purpose of determining eligibility for participation in programs under this chapter and the Child Nutrition Act of 1966.”
+    Subsec. (b)(2)(C)(iii) to (v). [Pub. L. 103–448][/us/pl/103/448], § 108, added cls. (iii) to (v) and struck out former cl. (iii), which read as follows: “School food service authorities shall only use information obtained under clause (ii) for the purpose of determining eligibility for participation in programs under this chapter and the Child Nutrition Act of 1966.”
 
-    Subsec. (b)(6)(A). [Pub. L. 103–448, § 109(a)(1)][/us/pl/103/448/s109/a/1], struck out “a member of” after “if the child is” in introductory provisions, inserted “a member of” after “(i)” and “(ii)”, and added cl. (iii).
+    Subsec. (b)(6)(A). [Pub. L. 103–448][/us/pl/103/448], § 109(a)(1), struck out “a member of” after “if the child is” in introductory provisions, inserted “a member of” after “(i)” and “(ii)”, and added cl. (iii).
 
-    Subsec. (b)(6)(B). [Pub. L. 103–448, § 109(a)(2)][/us/pl/103/448/s109/a/2], inserted “, or of enrollment or participation in a Head Start program on the basis described in subparagraph (A)(iii),” after “aid to families with dependent children”.
+    Subsec. (b)(6)(B). [Pub. L. 103–448][/us/pl/103/448], § 109(a)(2), inserted “, or of enrollment or participation in a Head Start program on the basis described in subparagraph (A)(iii),” after “aid to families with dependent children”.
 
     Subsecs. (f) to (h). [Pub. L. 103–448][/us/pl/103/448], §§ 106(b), (c), 110, added subsecs. (f) to (h).
 
-    1989—Subsec. (a). [Pub. L. 101–147, § 101(a)][/us/pl/101/147/s101/a], amended subsec. (a), as amended identically by [Pub. L. 99–500][/us/pl/99/500] and 99–591, § 322, and [Pub. L. 99–661, § 4202][/us/pl/99/661/s4202], to read as if only the amendment by [Pub. L. 99–661][/us/pl/99/661] was enacted, resulting in no change in text, see 1986 Amendment note below.
+    1989—Subsec. (a). [Pub. L. 101–147][/us/pl/101/147], § 101(a), amended subsec. (a), as amended identically by [Pub. L. 99–500][/us/pl/99/500] and 99–591, § 322, and [Pub. L. 99–661][/us/pl/99/661], § 4202, to read as if only the amendment by [Pub. L. 99–661][/us/pl/99/661] was enacted, resulting in no change in text, see 1986 Amendment note below.
 
-    Subsec. (a)(1). [Pub. L. 101–147, § 312(1)][/us/pl/101/147/s312/1], substituted “school lunch” for “school-lunch”.
+    Subsec. (a)(1). [Pub. L. 101–147][/us/pl/101/147], § 312(1), substituted “school lunch” for “school-lunch”.
 
-    Subsec. (a)(2). [Pub. L. 101–147, § 101(b)][/us/pl/101/147/s101/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In addition to such other forms of milk as the Secretary may determine, the lunches shall offer whole milk as a beverage.”
+    Subsec. (a)(2). [Pub. L. 101–147][/us/pl/101/147], § 101(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In addition to such other forms of milk as the Secretary may determine, the lunches shall offer whole milk as a beverage.”
 
     Subsec. (b). [Pub. L. 101–147][/us/pl/101/147], §§ 305(b)(1), 312(2), substituted “reduced price” for “reduced-price” and “family size” for “family-size” wherever appearing.
 
-    [Pub. L. 101–147, § 202(a)(1)][/us/pl/101/147/s202/a/1], (2)(A), amended subsec. (b), as amended identically by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 323][/us/pl/99/591/s323], and [Pub. L. 99–661, § 4203][/us/pl/99/661/s4203], and as amended by [Pub. L. 100–356, § 1][/us/pl/100/356/s1], to read as if only the amendment by [Pub. L. 99–661][/us/pl/99/661] was enacted, and further amended subsec. (b) identically to the amendments that were made by [Pub. L. 100–356, § 1][/us/pl/100/356/s1], resulting in no change in text, see 1986 and 1988 Amendment notes below.
+    [Pub. L. 101–147][/us/pl/101/147], § 202(a)(1), (2)(A), amended subsec. (b), as amended identically by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 323, and [Pub. L. 99–661][/us/pl/99/661], § 4203, and as amended by [Pub. L. 100–356][/us/pl/100/356], § 1, to read as if only the amendment by [Pub. L. 99–661][/us/pl/99/661] was enacted, and further amended subsec. (b) identically to the amendments that were made by [Pub. L. 100–356][/us/pl/100/356], § 1, resulting in no change in text, see 1986 and 1988 Amendment notes below.
 
-    Subsec. (b)(2)(C). [Pub. L. 101–147, § 202(b)(1)][/us/pl/101/147/s202/b/1], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Eligibility determinations shall be made on the basis of a complete application executed by an adult member of the household. The Secretary, States, and local school food authorities may seek verification of the data contained in the application. Local school food authorities shall undertake such verification of the information contained in these applications as the Secretary may by regulation prescribe and, in accordance with such regulations, make appropriate changes in the eligibility determinations on the basis of such verification.”
+    Subsec. (b)(2)(C). [Pub. L. 101–147][/us/pl/101/147], § 202(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Eligibility determinations shall be made on the basis of a complete application executed by an adult member of the household. The Secretary, States, and local school food authorities may seek verification of the data contained in the application. Local school food authorities shall undertake such verification of the information contained in these applications as the Secretary may by regulation prescribe and, in accordance with such regulations, make appropriate changes in the eligibility determinations on the basis of such verification.”
 
     Subsec. (c). [Pub. L. 101–147][/us/pl/101/147], §§ 305(b)(2), 312(1), substituted “School lunch” for “School-lunch”, substituted “school lunch” for “school-lunch” wherever appearing, and made technical amendments to the references to sections 612c, 1431, and 1446a–1 of title 7 involving underlying provisions of original act and requiring no change in text.
 
     Subsec. (d)(1). [Pub. L. 101–147][/us/pl/101/147], §§ 202(b)(2)(A), 312(2), substituted “reduced price” for “reduced-price” and “number of the parent or guardian who is the primary wage earner responsible for the care of the child for whom the application is made, or that of another appropriate adult member of the child’s household, as determined by the Secretary. The Secretary shall require that social security account numbers of all adult members of the household be provided if verification of the data contained in the application is sought under subsection (b)(2)(C) of this section.” for “numbers of all adult members of the household of which such person is a member.”
 
-    Subsec. (d)(2). [Pub. L. 101–147, § 312(2)][/us/pl/101/147/s312/2], substituted “reduced price” for “reduced-price”.
+    Subsec. (d)(2). [Pub. L. 101–147][/us/pl/101/147], § 312(2), substituted “reduced price” for “reduced-price”.
 
-    Subsec. (d)(2)(A). [Pub. L. 101–147, § 202(b)(2)(B)(i)][/us/pl/101/147/s202/b/2/B/i], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “appropriate documentation, as prescribed by the Secretary, of the income of such household has been provided to the appropriate local school food authority; or”.
+    Subsec. (d)(2)(A). [Pub. L. 101–147][/us/pl/101/147], § 202(b)(2)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “appropriate documentation, as prescribed by the Secretary, of the income of such household has been provided to the appropriate local school food authority; or”.
 
-    Subsec. (d)(2)(C). [Pub. L. 101–147, § 202(b)(2)(B)(ii)][/us/pl/101/147/s202/b/2/B/ii], (iii), added subpar. (C).
+    Subsec. (d)(2)(C). [Pub. L. 101–147][/us/pl/101/147], § 202(b)(2)(B)(ii), (iii), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 101–147, § 312(2)][/us/pl/101/147/s312/2], substituted “reduced price” for “reduced-price”.
+    Subsec. (e). [Pub. L. 101–147][/us/pl/101/147], § 312(2), substituted “reduced price” for “reduced-price”.
 
-    [Pub. L. 101–147, § 305(a)][/us/pl/101/147/s305/a], amended subsec. (e), as amended identically by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 324][/us/pl/99/591/s324], and [Pub. L. 99–661, § 4204][/us/pl/99/661/s4204], to read as if only the amendment by [Pub. L. 99–661][/us/pl/99/661] was enacted, resulting in no change in text, see 1986 Amendment note below.
+    [Pub. L. 101–147][/us/pl/101/147], § 305(a), amended subsec. (e), as amended identically by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 324, and [Pub. L. 99–661][/us/pl/99/661], § 4204, to read as if only the amendment by [Pub. L. 99–661][/us/pl/99/661] was enacted, resulting in no change in text, see 1986 Amendment note below.
 
     1988—Subsec. (b)(1)(A). [Pub. L. 100–356][/us/pl/100/356] substituted “The” for “For the school years ending June 30, 1982, and June 30, 1983, the” in second sentence and struck out provisions which equated income guidelines for determining eligibility for free lunches with gross income eligibility standards for participation in food stamp program.
 
-    1986—Subsec. (a). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 322][/us/pl/99/591/s322], and [Pub. L. 99–661, § 4202][/us/pl/99/661/s4202], amended subsec. (a) identically, designating existing provisions as pars. (1), (3), and (4) and adding par. (2).
+    1986—Subsec. (a). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 322, and [Pub. L. 99–661][/us/pl/99/661], § 4202, amended subsec. (a) identically, designating existing provisions as pars. (1), (3), and (4) and adding par. (2).
 
-    Subsec. (b)(6). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 323][/us/pl/99/591/s323], and [Pub. L. 99–661, § 4203][/us/pl/99/661/s4203], amended subsec. (b) identically, adding par. (6).
+    Subsec. (b)(6). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 323, and [Pub. L. 99–661][/us/pl/99/661], § 4203, amended subsec. (b) identically, adding par. (6).
 
-    Subsec. (e). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 324][/us/pl/99/591/s324], and [Pub. L. 99–661, § 4204][/us/pl/99/661/s4204], amended section identically, adding subsec. (e).
+    Subsec. (e). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 324, and [Pub. L. 99–661][/us/pl/99/661], § 4204, amended section identically, adding subsec. (e).
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 811][/us/pl/97/35/s811], struck out “in any junior high school or middle school” after “grade level”.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 811, struck out “in any junior high school or middle school” after “grade level”.
 
-    Subsec. (b). [Pub. L. 97–35, § 803(a)][/us/pl/97/35/s803/a], in par. (1) substituted provisions relating to income eligibility guidelines, for provisions relating to income poverty guidelines, redesignated former par. (2) as (5) and, as so redesignated, struck out “solely” after “sentence”, and added pars. (2) to (4).
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 803(a), in par. (1) substituted provisions relating to income eligibility guidelines, for provisions relating to income poverty guidelines, redesignated former par. (2) as (5) and, as so redesignated, struck out “solely” after “sentence”, and added pars. (2) to (4).
 
-    Subsec. (d). [Pub. L. 97–35, § 803(b)][/us/pl/97/35/s803/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 803(b), added subsec. (d).
 
     1978—Subsec. (b)(1). [Pub. L. 95–627][/us/pl/95/627] substituted guidelines prescribed by the Office of Management and Budget for the Consumer Price Index for purposes of determining the income poverty guidelines.
 
     1977—Subsec. (a). [Pub. L. 95–166][/us/pl/95/166] inserted parenthetical text authorizing students in any grade level in any junior high school or middle school, when approved by local school district or nonprofit private school, to refuse to accept offered foods they do not intend to consume.
 
-    1975—Subsec. (a). [Pub. L. 94–105, § 6(a)][/us/pl/94/105/s6/a], directed Secretary to establish administrative procedures designed to diminish food waste in school lunch programs and made provision for senior high school students to refuse food which they do not intend to consume without affecting lunch charges or payments to schools for lunches served.
+    1975—Subsec. (a). [Pub. L. 94–105][/us/pl/94/105], § 6(a), directed Secretary to establish administrative procedures designed to diminish food waste in school lunch programs and made provision for senior high school students to refuse food which they do not intend to consume without affecting lunch charges or payments to schools for lunches served.
 
-    Subsec. (b)(1). [Pub. L. 94–105, § 6(b)][/us/pl/94/105/s6/b], designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established income guidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum above applicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
+    Subsec. (b)(1). [Pub. L. 94–105][/us/pl/94/105], § 6(b), designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established income guidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum above applicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
 
-    [Pub. L. 94–105, § 6(c)][/us/pl/94/105/s6/c], substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1, 1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
+    [Pub. L. 94–105][/us/pl/94/105], § 6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1, 1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
 
-    Subsec. (b)(2). [Pub. L. 94–105, § 6(d)][/us/pl/94/105/s6/d], added par. (2).
+    Subsec. (b)(2). [Pub. L. 94–105][/us/pl/94/105], § 6(d), added par. (2).
 
-    Subsec. (c). [Pub. L. 94–105, § 6(e)][/us/pl/94/105/s6/e], substituted “schools (as defined in [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6] which are private and nonprofit as defined in the last sentence of [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6])” for “nonprofit private schools”.
+    Subsec. (c). [Pub. L. 94–105][/us/pl/94/105], § 6(e), substituted “schools (as defined in [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6] which are private and nonprofit as defined in the last sentence of [section 1760(d)(6) of this title][/us/usc/t42/s1760/d/6])” for “nonprofit private schools”.
 
     1974—Subsec. (b). [Pub. L. 93–326][/us/pl/93/326] substituted “beginning with the fiscal year ending June 30, 1974” for “for the fiscal year ending June 30, 1974” in provision authorizing State educational agencies to establish income guidelines for reduced price lunches at not more than 75 per centum above applicable family size income levels in income poverty guidelines as prescribed by Secretary.
 
     1973—Subsec. (b). [Pub. L. 93–150][/us/pl/93/150] inserted proviso relating to income guidelines for reduced price lunches.
 
-    1972—Subsec. (a). [Pub. L. 92–433, § 5(a)][/us/pl/92/433/s5/a], designated first sentence as subsec. (a).
+    1972—Subsec. (a). [Pub. L. 92–433][/us/pl/92/433], § 5(a), designated first sentence as subsec. (a).
 
-    Subsec. (b). [Pub. L. 92–433, § 5(b)][/us/pl/92/433/s5/b], designated second through seventh sentences of existing provisions as subsec. (b), separated provisions relating to free and reduced price lunches, substituted May 15 of each year for July 1 of each year as the date by which the Secretary is required to prescribe an income poverty guideline, prescribed free lunch for children of households below the guideline instead of prior provision requiring free lunch or lunch at reduced price, authorized State educational agencies to set up family-size income levels for free and reduced price lunches to be within certain percentage limitations of the guideline prescribed by the Secretary, and provided for continuation until July 1, 1973 of higher guidelines established prior to July 1, 1972.
+    Subsec. (b). [Pub. L. 92–433][/us/pl/92/433], § 5(b), designated second through seventh sentences of existing provisions as subsec. (b), separated provisions relating to free and reduced price lunches, substituted May 15 of each year for July 1 of each year as the date by which the Secretary is required to prescribe an income poverty guideline, prescribed free lunch for children of households below the guideline instead of prior provision requiring free lunch or lunch at reduced price, authorized State educational agencies to set up family-size income levels for free and reduced price lunches to be within certain percentage limitations of the guideline prescribed by the Secretary, and provided for continuation until July 1, 1973 of higher guidelines established prior to July 1, 1972.
 
-    Subsec. (c). [Pub. L. 92–433, § 5(c)][/us/pl/92/433/s5/c], designated eighth through thirteenth sentences as subsec. (c) and in last sentence inserted provision that requirements of this section are not applicable to nonprofit private schools which participate in the school lunch program under this chapter until the State educational agency certifies about the funds.
+    Subsec. (c). [Pub. L. 92–433][/us/pl/92/433], § 5(c), designated eighth through thirteenth sentences as subsec. (c) and in last sentence inserted provision that requirements of this section are not applicable to nonprofit private schools which participate in the school lunch program under this chapter until the State educational agency certifies about the funds.
 
     1971—[Pub. L. 92–153][/us/pl/92/153] inserted provisions for consideration of income poverty guidelines during fiscal year 1972 as a national minimum standard of eligibility and for reimbursement of State agencies during such fiscal year pursuant to eligibility standards established by State agencies prior to Oct. 1, 1971.
 
@@ -1335,13 +1335,13 @@
 
     Amendment by sections 103, 104(a)(1), 108(a), 109, 110, and 112 of [Pub. L. 108–265][/us/pl/108/265] effective June 30, 2004, except as otherwise provided, see [section 502(a) of Pub. L. 108–265][/us/pl/108/265/s502/a], as amended, set out as an Effective Date note under [section 1754 of this title][/us/usc/t42/s1754].
 
-    [Pub. L. 108–265, title I, § 104(d)(1)][/us/pl/108/265/s104/d/1], June 30, 2004, [118 Stat. 737][/us/stat/118/737], provided that the amendment made by section 104(d)(1) is effective July 1, 2008.
+    [Pub. L. 108–265, title I][/us/pl/108/265/tI], § 104(d)(1), June 30, 2004, [118 Stat. 737][/us/stat/118/737], provided that the amendment made by section 104(d)(1) is effective July 1, 2008.
 
     Amendment by sections 106 and 107 of [Pub. L. 108–265][/us/pl/108/265] effective July 1, 2004, see [section 502(b)(1) of Pub. L. 108–265][/us/pl/108/265/s502/b/1], as amended, set out as an Effective Date note under [section 1754 of this title][/us/usc/t42/s1754].
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–171, title IV, § 4302(b)][/us/pl/107/171/s4302/b], May 13, 2002, [116 Stat. 331][/us/stat/116/331], provided that: 
+[Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4302(b), May 13, 2002, [116 Stat. 331][/us/stat/116/331], provided that: 
 
 > “The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\].”
 
@@ -1349,7 +1349,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–224, title II, § 242(c)][/us/pl/106/224/s242/c], June 20, 2000, [114 Stat. 413][/us/stat/114/413], provided that: 
+[Pub. L. 106–224, title II][/us/pl/106/224/tII], § 242(c), June 20, 2000, [114 Stat. 413][/us/stat/114/413], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1760 and 1786 of this title\] take effect on October 1, 2000.”
 
@@ -1365,19 +1365,19 @@
 
     Amendment by sections 105(a) and 106 to 108 of [Pub. L. 103–448][/us/pl/103/448] effective Oct. 1, 1994, see [section 401 of Pub. L. 103–448][/us/pl/103/448/s401], set out as a note under [section 1755 of this title][/us/usc/t42/s1755].
 
-[Pub. L. 103–448, title I, § 109(c)][/us/pl/103/448/s109/c], Nov. 2, 1994, [108 Stat. 4705][/us/stat/108/4705], provided that: 
+[Pub. L. 103–448, title I][/us/pl/103/448/tI], § 109(c), Nov. 2, 1994, [108 Stat. 4705][/us/stat/108/4705], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1766 of this title][/us/usc/t42/s1766]\] shall become effective on September 25, 1995.”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–147, title II, § 202(a)(2)(B)][/us/pl/101/147/s202/a/2/B], Nov. 10, 1989, [103 Stat. 908][/us/stat/103/908], provided that: 
+[Pub. L. 101–147, title II][/us/pl/101/147/tII], § 202(a)(2)(B), Nov. 10, 1989, [103 Stat. 908][/us/stat/103/908], provided that: 
 
 > “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on June 28, 1988.”
 
  __Effective Date of 1986 Amendment__ 
 
-    [Pub. L. 99–500, title III][/us/pl/99/500], §§ 322–324, Oct. 18, 1986, [100 Stat. 1783–361][/us/stat/100/1783-361], [Pub. L. 99–591, title III][/us/pl/99/591], §§ 322–324, Oct. 30, 1986, [100 Stat. 3341–364][/us/stat/100/3341-364], and [Pub. L. 99–661, div. D, title II][/us/pl/99/661], §§ 4202–4204, Nov. 14, 1986, [100 Stat. 4072][/us/stat/100/4072], provided that the amendments made by those sections are effective July 1, 1986.
+    [Pub. L. 99–500, title III][/us/pl/99/500/tIII], §§ 322–324, Oct. 18, 1986, [100 Stat. 1783–361][/us/stat/100/1783-361], [Pub. L. 99–591, title III][/us/pl/99/591/tIII], §§ 322–324, Oct. 30, 1986, [100 Stat. 3341–364][/us/stat/100/3341-364], and [Pub. L. 99–661, div. D, title II][/us/pl/99/661/dD/tII], §§ 4202–4204, Nov. 14, 1986, [100 Stat. 4072][/us/stat/100/4072], provided that the amendments made by those sections are effective July 1, 1986.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -1389,11 +1389,11 @@
 
  __Effective Date of 1975 Amendment__ 
 
-    [Pub. L. 94–105, § 6(c)][/us/pl/94/105/s6/c], Oct. 7, 1975, [89 Stat. 512][/us/stat/89/512], provided that the amendment made by that section is effective Jan. 1, 1976.
+    [Pub. L. 94–105][/us/pl/94/105], § 6(c), Oct. 7, 1975, [89 Stat. 512][/us/stat/89/512], provided that the amendment made by that section is effective Jan. 1, 1976.
 
  __Regulations__ 
 
-[Pub. L. 108–265, title V, § 501][/us/pl/108/265/s501], June 30, 2004, [118 Stat. 789][/us/stat/118/789], provided that:
+[Pub. L. 108–265, title V][/us/pl/108/265/tV], § 501, June 30, 2004, [118 Stat. 789][/us/stat/118/789], provided that:
 
 >     “(a)  __Guidance__  __.—__ 
 
@@ -1407,13 +1407,13 @@
 
 >     Not later than 2 years after the date of enactment of this Act \[June 30, 2004\], the Secretary shall promulgate final regulations to implement the amendments described in subsection (a).”
 
-[Pub. L. 101–147, title II, § 202(c)][/us/pl/101/147/s202/c], Nov. 10, 1989, [103 Stat. 909][/us/stat/103/909], provided that: 
+[Pub. L. 101–147, title II][/us/pl/101/147/tII], § 202(c), Nov. 10, 1989, [103 Stat. 909][/us/stat/103/909], provided that: 
 
 > “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b) \[amending this section\].”
 
  __Review of Local Policies on Meal Charges and Provision of Alternate Meals__ 
 
-[Pub. L. 111–296, title I, § 143][/us/pl/111/296/s143], Dec. 13, 2010, [124 Stat. 3213][/us/stat/124/3213], provided that:
+[Pub. L. 111–296, title I][/us/pl/111/296/tI], § 143, Dec. 13, 2010, [124 Stat. 3213][/us/stat/124/3213], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -1457,7 +1457,7 @@
 
  __Income Eligibility Guidelines__ 
 
-[Pub. L. 96–499, title II, § 203(a)][/us/pl/96/499/s203/a]–(c), Dec. 5, 1980, [94 Stat. 2600][/us/stat/94/2600], as amended by [Pub. L. 97–35, title VIII, § 820(b)(3)][/us/pl/97/35/s820/b/3], Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535], provided that:
+[Pub. L. 96–499, title II][/us/pl/96/499/tII], § 203(a)–(c), Dec. 5, 1980, [94 Stat. 2600][/us/stat/94/2600], as amended by [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 820(b)(3), Aug. 13, 1981, [95 Stat. 535][/us/stat/95/535], provided that:
 
 >     “(a), (b) \[Repealed\].
 
@@ -1465,17 +1465,17 @@
 
  __Verification of Eligibility Data Submitted on a Sample of Applications for Free and Reduced-Price Meals__ 
 
-[Pub. L. 97–35, title VIII, § 803(c)][/us/pl/97/35/s803/c], Aug. 13, 1981, [95 Stat. 525][/us/stat/95/525], provided that: 
+[Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 803(c), Aug. 13, 1981, [95 Stat. 525][/us/stat/95/525], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of Agriculture shall conduct a pilot study to verify the data submitted on a sample of applications for free and reduced-price meals. In conducting the pilot study, the Secretary may require households included in the study to furnish social security numbers of all household members and such other information as the Secretary may require, including, but not limited to, pay stubs, documentation of the current status of household members who are recipients of public assistance, unemployment insurance documents, and written statements from employers, as a condition for receipt of free or reduced-price meals.”
 
  __Procedures for Implementing New Income Eligibility Guidelines for Free and Reduced-Price Lunches__ 
 
-    [Pub. L. 97–35, title VIII, § 803(d)][/us/pl/97/35/s803/d], Aug. 13, 1981, [95 Stat. 526][/us/stat/95/526], provided that for school year ending June 30, 1982, Secretary could prescribe procedures for implementing the revisions made by [section 803 of Pub. L. 97–35][/us/pl/97/35/s803], amending this section, to the income eligibility guidelines for free and reduced-price lunches under this section, and that such procedures could allow school food authorities to use applications distributed at beginning of school year when making eligibility determinations or to distribute new applications.
+    [Pub. L. 97–35, title VIII][/us/pl/97/35/tVIII], § 803(d), Aug. 13, 1981, [95 Stat. 526][/us/stat/95/526], provided that for school year ending June 30, 1982, Secretary could prescribe procedures for implementing the revisions made by [section 803 of Pub. L. 97–35][/us/pl/97/35/s803], amending this section, to the income eligibility guidelines for free and reduced-price lunches under this section, and that such procedures could allow school food authorities to use applications distributed at beginning of school year when making eligibility determinations or to distribute new applications.
 
  __Lowering Minimum Standard of Eligibility and Reduction in Number of Children Served, Fiscal Year 1972__ 
 
-[Pub. L. 92–153, § 6][/us/pl/92/153/s6], Nov. 5, 1971, [85 Stat. 420][/us/stat/85/420], provided that: 
+[Pub. L. 92–153][/us/pl/92/153], § 6, Nov. 5, 1971, [85 Stat. 420][/us/stat/85/420], provided that: 
 
 > “The Secretary shall not lower minimum standards of eligibility for free and reduced price meals nor require a reduction in the number of children served in any school district during a fiscal year to be effective for that fiscal year. This section shall apply to fiscal year 1972.”
 
@@ -1568,69 +1568,69 @@
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
 [/us/usc/t42/s1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1791
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/act/1946-06-04/ch281/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs9
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F233
-[/us/pl/90/302/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F302%2Fs2%2Fb
+[/us/pl/90/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F302
 [/us/stat/82/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F117
-[/us/pl/91/248/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248%2Fs6%2Fa
+[/us/pl/91/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248
 [/us/stat/84/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F210
-[/us/pl/92/153/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153%2Fs5
+[/us/pl/92/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153
 [/us/stat/85/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F420
-[/us/pl/92/433/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs5
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/stat/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F726
-[/us/pl/93/150/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150%2Fs9
+[/us/pl/93/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150
 [/us/stat/87/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F564
-[/us/pl/93/326/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F326%2Fs4
+[/us/pl/93/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F326
 [/us/stat/88/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F286
-[/us/pl/94/105/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs6
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
 [/us/stat/89/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F512
-[/us/pl/95/166/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166%2Fs8
+[/us/pl/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166
 [/us/stat/91/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1335
-[/us/pl/95/627/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F627%2Fs8
+[/us/pl/95/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F627
 [/us/stat/92/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3622
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F524
-[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/99/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2FtIII
 [/us/stat/100/1783-361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-361
-[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/591/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtIII
 [/us/stat/100/3341-364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-364
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdD%2FtII
 [/us/stat/100/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4072
-[/us/pl/100/356/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F356%2Fs1
+[/us/pl/100/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F356
 [/us/stat/102/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F669
-[/us/pl/101/147/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs101
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F878
-[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4701-4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4701-4705
-[/us/pl/104/149/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F149%2Fs2
+[/us/pl/104/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F149
 [/us/stat/110/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1379
-[/us/pl/104/193/s109/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fg
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2170
-[/us/pl/105/336/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs102
+[/us/pl/105/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2FtI
 [/us/stat/112/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3144
-[/us/pl/106/224/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs242%2Fa
+[/us/pl/106/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtII
 [/us/stat/114/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F411
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F330
-[/us/pl/108/134/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F134%2Fs1
+[/us/pl/108/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F134
 [/us/stat/117/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1389
-[/us/pl/108/211/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F211%2Fs1
+[/us/pl/108/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F211
 [/us/stat/118/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F566
-[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtI
 [/us/stat/118/731-734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F731-734
-[/us/pl/108/447/s788/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs788%2Fa
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2851
-[/us/pl/110/134/s29/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs29%2Fc%2F1
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1449
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
+[/us/pl/111/80/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2FtVII
 [/us/stat/123/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2125
-[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtI
 [/us/stat/124/3185-3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3185-3191
-[/us/pl/112/55/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs734
+[/us/pl/112/55/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdA%2FtVII
 [/us/stat/125/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F587
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
@@ -1654,173 +1654,173 @@
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
-[/us/pl/111/296/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs202
-[/us/pl/111/296/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs242
-[/us/pl/111/296/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs203
-[/us/pl/111/296/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs101%2Fa%2F1
-[/us/pl/111/296/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs101%2Fa%2F2
-[/us/pl/111/296/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs101%2Fb
-[/us/pl/111/296/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs101%2Fc
-[/us/pl/111/296/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs102%2Fa
-[/us/pl/111/296/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs102%2Fb%2F1
-[/us/pl/111/296/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs102%2Fb%2F2
-[/us/pl/111/296/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs103%2Fa
-[/us/pl/111/296/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs301
-[/us/pl/111/296/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs102%2Fc
-[/us/pl/111/296/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs103%2Fb
-[/us/pl/111/296/s441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs441%2Fa%2F1
-[/us/pl/111/296/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs402%2F1
-[/us/pl/111/296/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs402%2F2
-[/us/pl/111/296/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs302
-[/us/pl/111/296/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs209
-[/us/pl/111/80/s734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs734%2Fa
-[/us/pl/111/80/s749/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs749%2Fb
-[/us/pl/111/80/s749/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs749%2Fc
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/110/246/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4302
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
+[/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
+[/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
+[/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t42/s9840/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1%2FB
 [/us/usc/t42/s9840/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1%2FA
-[/us/pl/108/265/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs102
-[/us/pl/108/265/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs103
-[/us/pl/108/265/s104/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F2%2FA
-[/us/pl/108/265/s104/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F2%2FB
-[/us/pl/108/265/s104/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F2%2FC
-[/us/pl/108/265/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs105%2Fa
-[/us/pl/108/265/s104/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F2%2FB
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s104/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F2%2FC
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s104/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fd%2F1
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/pl/108/265/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fb%2F1
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fb%2F1
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fb%2F1
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/pl/108/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F211
-[/us/pl/108/265/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fb%2F1
-[/us/pl/108/265/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs106
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs108%2Fa%2F1
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs107%2Fa
-[/us/pl/108/265/s104/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fd%2F2%2FA
-[/us/pl/108/265/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs109
-[/us/pl/108/265/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fa%2F1
-[/us/pl/108/265/s104/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fd%2F2%2FB
-[/us/pl/108/265/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs108%2Fa%2F2
-[/us/pl/108/265/s108/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs108%2Fa%2F2%2FA
-[/us/pl/108/265/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs107%2Fb
-[/us/pl/108/265/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs110
-[/us/pl/108/265/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs111%2F1
-[/us/pl/108/265/s111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs111%2F2
-[/us/pl/108/265/s111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs111%2F3
-[/us/pl/108/265/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs112
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
+[/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/pl/108/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F134
-[/us/pl/107/171/s4302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4302%2Fa
-[/us/pl/107/171/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4303
-[/us/pl/106/224/s242/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs242%2Fa%2F1
-[/us/pl/106/224/s242/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs242%2Fa%2F2
-[/us/pl/105/336/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs102%2Fa%2F1
-[/us/pl/105/336/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs102%2Fa%2F2
-[/us/pl/105/336/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs102%2Fb
-[/us/pl/105/336/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs102%2Fc
-[/us/pl/105/336/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs102%2Fd
-[/us/pl/104/193/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fa%2F1
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
-[/us/pl/104/193/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fa%2F2
-[/us/pl/104/193/s109/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fg%2F1%2FA
-[/us/pl/104/193/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs703
-[/us/pl/104/193/s109/g/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fg%2F1%2FB%2Fi
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/104/193/s109/g/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fg%2F1%2FB%2Fii
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/104/193/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fb%2F2
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
 [/us/usc/t7/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431
 [/us/usc/t7/s1446a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446a%E2%80%931
 [/us/usc/t42/s1760/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1760%2Fd%2F6
 [/us/usc/t42/s1760/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1760%2Fd%2F6
 [/us/usc/t42/s1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1759
-[/us/pl/104/193/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fb%2F1
-[/us/pl/104/193/s109/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs109%2Fg%2F2
-[/us/pl/104/193/s702/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fc%2F1
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t7/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5341
-[/us/pl/104/193/s702/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fc%2F4
-[/us/pl/104/193/s702/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fc%2F3
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F149
-[/us/pl/104/193/s702/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fc%2F5
-[/us/pl/104/193/s702/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fc%2F6
-[/us/pl/104/193/s702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs702%2Fd
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t42/s1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1788
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
-[/us/pl/103/448/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs107
-[/us/pl/103/448/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs108
-[/us/pl/103/448/s109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs109%2Fa%2F1
-[/us/pl/103/448/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs109%2Fa%2F2
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
-[/us/pl/101/147/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs101%2Fa
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/661/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4202
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/101/147/s312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs312%2F1
-[/us/pl/101/147/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs101%2Fb
-[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
-[/us/pl/101/147/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs202%2Fa%2F1
-[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs323
-[/us/pl/99/661/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4203
-[/us/pl/100/356/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F356%2Fs1
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/100/356/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F356%2Fs1
-[/us/pl/101/147/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs202%2Fb%2F1
 [/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
 [/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
-[/us/pl/101/147/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs312%2F2
-[/us/pl/101/147/s202/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs202%2Fb%2F2%2FB%2Fi
-[/us/pl/101/147/s202/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs202%2Fb%2F2%2FB%2Fii
-[/us/pl/101/147/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs312%2F2
-[/us/pl/101/147/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs305%2Fa
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs324
-[/us/pl/99/661/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4204
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/100/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F356
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/100/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F356
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/100/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F356
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs322
-[/us/pl/99/661/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4202
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs323
-[/us/pl/99/661/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4203
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs324
-[/us/pl/99/661/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4204
-[/us/pl/97/35/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs811
-[/us/pl/97/35/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs803%2Fa
-[/us/pl/97/35/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs803%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F627
 [/us/pl/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F166
-[/us/pl/94/105/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs6%2Fa
-[/us/pl/94/105/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs6%2Fb
-[/us/pl/94/105/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs6%2Fc
-[/us/pl/94/105/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs6%2Fd
-[/us/pl/94/105/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs6%2Fe
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
 [/us/usc/t42/s1760/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1760%2Fd%2F6
 [/us/usc/t42/s1760/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1760%2Fd%2F6
 [/us/pl/93/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F326
 [/us/pl/93/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F150
-[/us/pl/92/433/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs5%2Fa
-[/us/pl/92/433/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs5%2Fb
-[/us/pl/92/433/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433%2Fs5%2Fc
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
+[/us/pl/92/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F433
 [/us/pl/92/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153
 [/us/pl/91/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248
 [/us/usc/t42/s1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1759
@@ -1842,17 +1842,17 @@
 [/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/pl/108/265/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs502%2Fa
 [/us/usc/t42/s1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1754
-[/us/pl/108/265/s104/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs104%2Fd%2F1
+[/us/pl/108/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtI
 [/us/stat/118/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F737
 [/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265
 [/us/pl/108/265/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs502%2Fb%2F1
 [/us/usc/t42/s1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1754
-[/us/pl/107/171/s4302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4302%2Fb
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F331
 [/us/pl/107/171/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4303
 [/us/pl/107/171/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4405
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/106/224/s242/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs242%2Fc
+[/us/pl/106/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtII
 [/us/stat/114/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F413
 [/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/pl/105/336/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs401
@@ -1863,16 +1863,16 @@
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448
 [/us/pl/103/448/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs401
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755
-[/us/pl/103/448/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs109%2Fc
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4705
 [/us/usc/t42/s1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766
-[/us/pl/101/147/s202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs202%2Fa%2F2%2FB
+[/us/pl/101/147/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtII
 [/us/stat/103/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F908
-[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/99/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2FtIII
 [/us/stat/100/1783-361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-361
-[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/591/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtIII
 [/us/stat/100/3341-364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-364
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdD%2FtII
 [/us/stat/100/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4072
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -1880,25 +1880,25 @@
 [/us/pl/95/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F627
 [/us/pl/95/627/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F627%2Fs14
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755
-[/us/pl/94/105/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs6%2Fc
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
 [/us/stat/89/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F512
-[/us/pl/108/265/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs501
+[/us/pl/108/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtV
 [/us/stat/118/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F789
 [/us/usc/t7/s2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020
-[/us/pl/101/147/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs202%2Fc
+[/us/pl/101/147/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtII
 [/us/stat/103/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F909
-[/us/pl/111/296/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs143
+[/us/pl/111/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtI
 [/us/stat/124/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3213
-[/us/pl/96/499/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs203%2Fa
+[/us/pl/96/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtII
 [/us/stat/94/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2600
-[/us/pl/97/35/s820/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs820%2Fb%2F3
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F535
-[/us/pl/97/35/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs803%2Fc
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F525
-[/us/pl/97/35/s803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs803%2Fd
+[/us/pl/97/35/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVIII
 [/us/stat/95/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F526
 [/us/pl/97/35/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs803
-[/us/pl/92/153/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153%2Fs6
+[/us/pl/92/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F153
 [/us/stat/85/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F420
 
 

@@ -45,11 +45,11 @@
 
         The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1202, formerly § 1204, as added [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2918][/us/stat/104/2918]; renumbered § 1203 and amended [Pub. L. 103–183, title VI, § 601(b)(2)][/us/pl/103/183/s601/b/2], (f)(1), Dec. 14, 1993, [107 Stat. 2238][/us/stat/107/2238], 2239; [Pub. L. 105–392, title IV, § 401(a)(1)][/us/pl/105/392/s401/a/1], Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; renumbered § 1202 and amended [Pub. L. 110–23][/us/pl/110/23], §§ 3(2), 4, May 3, 2007, [121 Stat. 90][/us/stat/121/90], 91.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1202, formerly § 1204, as added [Pub. L. 101–590][/us/pl/101/590], § 3, Nov. 16, 1990, [104 Stat. 2918][/us/stat/104/2918]; renumbered § 1203 and amended [Pub. L. 103–183, title VI][/us/pl/103/183/tVI], § 601(b)(2), (f)(1), Dec. 14, 1993, [107 Stat. 2238][/us/stat/107/2238], 2239; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 401(a)(1), Nov. 13, 1998, [112 Stat. 3587][/us/stat/112/3587]; renumbered § 1202 and amended [Pub. L. 110–23][/us/pl/110/23], §§ 3(2), 4, May 3, 2007, [121 Stat. 90][/us/stat/121/90], 91.)
 
  __Prior Provisions__ 
 
-    A prior section 300d–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1204, as added Nov. 16, 1973, [Pub. L. 93–154, § 2(a)][/us/pl/93/154/s2/a], [87 Stat. 597][/us/stat/87/597]; amended Oct. 21, 1976, [Pub. L. 94–573, § 5][/us/pl/94/573/s5], [90 Stat. 2711][/us/stat/90/2711]; Nov. 10, 1978, [Pub. L. 95–626, title II, § 210(b)][/us/pl/95/626/s210/b], [92 Stat. 3588][/us/stat/92/3588]; Dec. 12, 1979, [Pub. L. 96–142, title I, § 104(a)][/us/pl/96/142/s104/a], (b), [93 Stat. 1067][/us/stat/93/1067], 1068, set forth provisions relating to grants and contracts for expansion and improvements, prior to repeal by [Pub. L. 97–35, title IX, § 902(d)(1)][/us/pl/97/35/s902/d/1], (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
+    A prior section 300d–3, [act July 1, 1944, ch. 373, title XII][/us/act/1944-07-01/ch373/tXII], § 1204, as added Nov. 16, 1973, [Pub. L. 93–154][/us/pl/93/154], § 2(a), [87 Stat. 597][/us/stat/87/597]; amended Oct. 21, 1976, [Pub. L. 94–573][/us/pl/94/573], § 5, [90 Stat. 2711][/us/stat/90/2711]; Nov. 10, 1978, [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 210(b), [92 Stat. 3588][/us/stat/92/3588]; Dec. 12, 1979, [Pub. L. 96–142, title I][/us/pl/96/142/tI], § 104(a), (b), [93 Stat. 1067][/us/stat/93/1067], 1068, set forth provisions relating to grants and contracts for expansion and improvements, prior to repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(d)(1), (h), Aug. 13, 1981, [95 Stat. 560][/us/stat/95/560], 561, effective Oct. 1, 1981.
 
     A prior section 1202 of act July 1, 1944, was classified to [section 300d–2 of this title][/us/usc/t42/s300d–2] prior to repeal by [Pub. L. 110–23][/us/pl/110/23].
 
@@ -59,11 +59,11 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–23, § 4][/us/pl/110/23/s4], amended section generally. Prior to amendment, section provided for establishment of programs for improving trauma care in rural areas.
+    2007—[Pub. L. 110–23][/us/pl/110/23], § 4, amended section generally. Prior to amendment, section provided for establishment of programs for improving trauma care in rural areas.
 
-    1998—[Pub. L. 105–392, § 401(a)(1)][/us/pl/105/392/s401/a/1], made technical corrections to directory language of [Pub. L. 103–183, § 601(b)(2)][/us/pl/103/183/s601/b/2], which renumbered this section, and to directory language of [Pub. L. 103–183, § 601(f)(1)][/us/pl/103/183/s601/f/1]. See 1993 Amendment note below.
+    1998—[Pub. L. 105–392][/us/pl/105/392], § 401(a)(1), made technical corrections to directory language of [Pub. L. 103–183][/us/pl/103/183], § 601(b)(2), which renumbered this section, and to directory language of [Pub. L. 103–183][/us/pl/103/183], § 601(f)(1). See 1993 Amendment note below.
 
-    1993—Subsec. (c). [Pub. L. 103–183, § 601(f)(1)][/us/pl/103/183/s601/f/1], as amended by [Pub. L. 105–392, § 401(a)(1)(B)][/us/pl/105/392/s401/a/1/B], inserted “determines to be necessary to carry out this section” before period at end.
+    1993—Subsec. (c). [Pub. L. 103–183][/us/pl/103/183], § 601(f)(1), as amended by [Pub. L. 105–392][/us/pl/105/392], § 401(a)(1)(B), inserted “determines to be necessary to carry out this section” before period at end.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -78,24 +78,24 @@
 
 [/us/usc/t42/s300d–14/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9314%2Fd%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590%2Fs3
+[/us/pl/101/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F590
 [/us/stat/104/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2918
-[/us/pl/103/183/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Fb%2F2
+[/us/pl/103/183/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVI
 [/us/stat/107/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2238
-[/us/pl/105/392/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fa%2F1
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3587
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
 [/us/stat/121/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F90
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXII
+[/us/pl/93/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F154
 [/us/stat/87/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F597
-[/us/pl/94/573/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs5
+[/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
 [/us/stat/90/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2711
-[/us/pl/95/626/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs210%2Fb
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3588
-[/us/pl/96/142/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2Fs104%2Fa
+[/us/pl/96/142/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F142%2FtI
 [/us/stat/93/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1067
-[/us/pl/97/35/s902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fd%2F1
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
 [/us/usc/t42/s300d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%932
 [/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
@@ -103,12 +103,12 @@
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/usc/t42/s300d–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%936
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
-[/us/pl/110/23/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23%2Fs4
-[/us/pl/105/392/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fa%2F1
-[/us/pl/103/183/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Fb%2F2
-[/us/pl/103/183/s601/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Ff%2F1
-[/us/pl/103/183/s601/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Ff%2F1
-[/us/pl/105/392/s401/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fa%2F1%2FB
+[/us/pl/110/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F23
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/105/392/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs401%2Fe

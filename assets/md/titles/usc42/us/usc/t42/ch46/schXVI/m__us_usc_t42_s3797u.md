@@ -91,7 +91,7 @@
 
             (N) Anger management classes.
 
-([Pub. L. 90–351, title I, § 2951][/us/pl/90/351/s2951], as added [Pub. L. 107–273, div. B, title II, § 2301(a)][/us/pl/107/273/s2301/a], Nov. 2, 2002, [116 Stat. 1794][/us/stat/116/1794]; amended [Pub. L. 109–162, title XI, § 1143][/us/pl/109/162/s1143], Jan. 5, 2006, [119 Stat. 3111][/us/stat/119/3111]; [Pub. L. 109–177, title VII, § 751][/us/pl/109/177/s751], Mar. 9, 2006, [120 Stat. 273][/us/stat/120/273].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2951, as added [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2301(a), Nov. 2, 2002, [116 Stat. 1794][/us/stat/116/1794]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1143, Jan. 5, 2006, [119 Stat. 3111][/us/stat/119/3111]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 751, Mar. 9, 2006, [120 Stat. 273][/us/stat/120/273].)
 
  __Amendments__ 
 
@@ -101,7 +101,7 @@
 
  __Study by the Government Accountability Office__ 
 
-[Pub. L. 107–273, div. B, title II, § 2303][/us/pl/107/273/s2303], Nov. 2, 2002, [116 Stat. 1799][/us/stat/116/1799], provided that:
+[Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2303, Nov. 2, 2002, [116 Stat. 1799][/us/stat/116/1799], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -130,16 +130,16 @@
 ----------
 ----------
 
-[/us/pl/90/351/s2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2951
-[/us/pl/107/273/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2301%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1794
-[/us/pl/109/162/s1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1143
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3111
-[/us/pl/109/177/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs751
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F273
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/107/273/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2303
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1799
 [/us/usc/t42/s3797u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797u
 [/us/usc/t42/s3797u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797u

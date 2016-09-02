@@ -33,7 +33,7 @@
 
         There are authorized to be appropriated $10,000,000 for each of fiscal years 2007 through 2009 to carry out this subchapter.
 
-([Pub. L. 90–351, title I, § 3012][/us/pl/90/351/s3012], as added [Pub. L. 109–248, title VI, § 623][/us/pl/109/248/s623], July 27, 2006, [120 Stat. 635][/us/stat/120/635].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 3012, as added [Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 623, July 27, 2006, [120 Stat. 635][/us/stat/120/635].)
 
 ----------
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs3012
-[/us/pl/109/248/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs623
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F635
 
 

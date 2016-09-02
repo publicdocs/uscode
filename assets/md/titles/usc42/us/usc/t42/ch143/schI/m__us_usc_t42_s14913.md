@@ -17,7 +17,7 @@
 
     In addition to such other responsibilities as are specifically conferred upon the Attorney General by this chapter, the central authority functions specified in Article 14 of the Convention (relating to the filing of applications by prospective adoptive parents to the central authority of their country of residence) shall be performed by the Attorney General.
 
-([Pub. L. 106–279, title I, § 103][/us/pl/106/279/s103], Oct. 6, 2000, [114 Stat. 829][/us/stat/114/829].)
+([Pub. L. 106–279, title I][/us/pl/106/279/tI], § 103, Oct. 6, 2000, [114 Stat. 829][/us/stat/114/829].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/279/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs103
+[/us/pl/106/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtI
 [/us/stat/114/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F829
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

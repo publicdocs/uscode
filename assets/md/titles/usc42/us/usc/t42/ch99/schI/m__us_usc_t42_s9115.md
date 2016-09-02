@@ -31,7 +31,7 @@
 
         The consent of Congress is given to 2 or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, (1) to apply for a license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship or for the transfer of such a license, and (2) to establish such agencies, joint or otherwise, as are deemed necessary or appropriate for implementing and carrying out the provisions of any such agreement or compact. Such agreement or compact shall be binding and obligatory upon any State or other party thereto without further approval by the Congress.
 
-([Pub. L. 96–320, title I, § 105][/us/pl/96/320/s105], Aug. 3, 1980, [94 Stat. 983][/us/stat/94/983]; [Pub. L. 98–623, title VI, § 602(e)(12)][/us/pl/98/623/s602/e/12]–(14), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 105, Aug. 3, 1980, [94 Stat. 983][/us/stat/94/983]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(e)(12)–(14), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a)(2). [Pub. L. 98–623, § 602(e)(12)][/us/pl/98/623/s602/e/12], substituted “(A) that” for “that (A)”.
+    1984—Subsec. (a)(2). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(12), substituted “(A) that” for “that (A)”.
 
-    Subsec. (b)(1). [Pub. L. 98–623, § 602(e)(13)][/us/pl/98/623/s602/e/13], (14), substituted “of an adjacent coastal State” for “of adjacent coastal State” and “application are concluded” for “application is concluded”.
+    Subsec. (b)(1). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(13), (14), substituted “of an adjacent coastal State” for “of adjacent coastal State” and “application are concluded” for “application is concluded”.
 
 ----------
 
@@ -54,16 +54,16 @@
 [/us/usc/t42/s9112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9112%2Fd
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t42/s9112/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9112%2Fg
-[/us/pl/96/320/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs105
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F983
-[/us/pl/98/623/s602/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F12
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3412
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1280
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
-[/us/pl/98/623/s602/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F12
-[/us/pl/98/623/s602/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F13
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 
 

@@ -27,7 +27,7 @@
 
         (2) the total amount which (for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary) will be paid from such Trust Fund during such calendar year for all purposes authorized by section 401, 1395i, or 1395t of this title (as applicable), other than payments of interest on, or repayments of, loans under section 401(l) or 1395i(j) of this title, but excluding any transfer payments between such Trust Fund and any other Trust Fund referred to in subsection (a) of this section and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into such Trust Fund from that Account.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 709, as added [Pub. L. 98–21, title I, § 143][/us/pl/98/21/s143], Apr. 20, 1983, [97 Stat. 102][/us/stat/97/102]; amended [Pub. L. 99–272, title XII, § 12106][/us/pl/99/272/s12106], Apr. 7, 1986, [100 Stat. 286][/us/stat/100/286]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I, § 108(a)(3)][/us/pl/103/296/s108/a/3], Aug. 15, 1994, [108 Stat. 1481][/us/stat/108/1481].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 709, as added [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 143, Apr. 20, 1983, [97 Stat. 102][/us/stat/97/102]; amended [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12106, Apr. 7, 1986, [100 Stat. 286][/us/stat/100/286]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(a)(3), Aug. 15, 1994, [108 Stat. 1481][/us/stat/108/1481].)
 
  __References in Text__ 
 
@@ -58,13 +58,13 @@
 
 [/us/usc/t42/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/98/21/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs143
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F102
-[/us/pl/99/272/s12106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12106
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F286
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/296/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fa%2F3
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1481
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

@@ -29,11 +29,11 @@
 
     At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of ninety consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for thirty consecutive days in the case of such an individual who has maintained his residence in such State during such period or ninety consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of aid under such plan.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1405, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 557][/us/stat/64/557]; amended [Pub. L. 87–543, title I, § 156(d)][/us/pl/87/543/s156/d], July 25, 1962, [76 Stat. 207][/us/stat/76/207]; [Pub. L. 89–97, title II, § 221(c)][/us/pl/89/97/s221/c], title IV, § 402(d), July 30, 1965, [79 Stat. 358][/us/stat/79/358], 417; [Pub. L. 92–603, title IV][/us/pl/92/603], §§ 408(c), 409(c), Oct. 30, 1972, [86 Stat. 1490][/us/stat/86/1490], 1491; [Pub. L. 97–35, title XXI, § 2184(c)(3)][/us/pl/97/35/s2184/c/3], Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1405, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 557][/us/stat/64/557]; amended [Pub. L. 87–543, title I][/us/pl/87/543/tI], § 156(d), July 25, 1962, [76 Stat. 207][/us/stat/76/207]; [Pub. L. 89–97, title II][/us/pl/89/97/tII], § 221(c), title IV, § 402(d), July 30, 1965, [79 Stat. 358][/us/stat/79/358], 417; [Pub. L. 92–603, title IV][/us/pl/92/603/tIV], §§ 408(c), 409(c), Oct. 30, 1972, [86 Stat. 1490][/us/stat/86/1490], 1491; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2184(c)(3), Aug. 13, 1981, [95 Stat. 817][/us/stat/95/817].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III][/us/pl/92/603/tIII], § 303(a), (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -67,15 +67,15 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F557
-[/us/pl/87/543/s156/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2Fs156%2Fd
+[/us/pl/87/543/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F543%2FtI
 [/us/stat/76/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F207
-[/us/pl/89/97/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs221%2Fc
+[/us/pl/89/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtII
 [/us/stat/79/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F358
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIV
 [/us/stat/86/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1490
-[/us/pl/97/35/s2184/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2184%2Fc%2F3
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F817
-[/us/pl/92/603/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs303%2Fa
+[/us/pl/92/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtIII
 [/us/stat/86/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1484
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603

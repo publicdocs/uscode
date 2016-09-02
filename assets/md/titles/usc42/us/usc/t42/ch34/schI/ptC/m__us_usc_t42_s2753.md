@@ -159,7 +159,7 @@
 
             The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
 
-([Pub. L. 89–329, title IV, § 443][/us/pl/89/329/s443], as added [Pub. L. 96–374, title IV, § 434][/us/pl/96/374/s434], Oct. 3, 1980, [94 Stat. 1434][/us/stat/94/1434]; amended [Pub. L. 99–498, title IV, § 403(a)][/us/pl/99/498/s403/a], Oct. 17, 1986, [100 Stat. 1432][/us/stat/100/1432]; [Pub. L. 100–50, § 11(b)][/us/pl/100/50/s11/b], (c), June 3, 1987, [101 Stat. 348][/us/stat/101/348]; [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 441(a)(2), 443, July 23, 1992, [106 Stat. 563][/us/stat/106/563], 564; [Pub. L. 103–208, § 2(d)(3)][/us/pl/103/208/s2/d/3]–(5), Dec. 20, 1993, [107 Stat. 2470][/us/stat/107/2470]; [Pub. L. 105–244, title IV, § 443][/us/pl/105/244/s443], Oct. 7, 1998, [112 Stat. 1712][/us/stat/112/1712]; [Pub. L. 110–315, title IV, § 443][/us/pl/110/315/s443], Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258]; [Pub. L. 111–39, title IV, § 403][/us/pl/111/39/s403], July 1, 2009, [123 Stat. 1945][/us/stat/123/1945].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 443, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 434, Oct. 3, 1980, [94 Stat. 1434][/us/stat/94/1434]; amended [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 403(a), Oct. 17, 1986, [100 Stat. 1432][/us/stat/100/1432]; [Pub. L. 100–50][/us/pl/100/50], § 11(b), (c), June 3, 1987, [101 Stat. 348][/us/stat/101/348]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], §§ 441(a)(2), 443, July 23, 1992, [106 Stat. 563][/us/stat/106/563], 564; [Pub. L. 103–208][/us/pl/103/208], § 2(d)(3)–(5), Dec. 20, 1993, [107 Stat. 2470][/us/stat/107/2470]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 443, Oct. 7, 1998, [112 Stat. 1712][/us/stat/112/1712]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 443, Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 403, July 1, 2009, [123 Stat. 1945][/us/stat/123/1945].)
 
  __References in Text__ 
 
@@ -169,27 +169,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 2753, [Pub. L. 89–329, title IV, § 443][/us/pl/89/329/s443], formerly title I, § 143, as added, renumbered title IV, § 443, and amended [Pub. L. 90–575, title I][/us/pl/90/575], §§ 131(a), (b)(1), 133(a), (b), 139(1), Oct. 16, 1968, [82 Stat. 1028][/us/stat/82/1028], 1029, 1030; [Pub. L. 94–482, title I, § 128(b)][/us/pl/94/482/s128/b], Oct. 12, 1976, [90 Stat. 2143][/us/stat/90/2143], made provision for the grants for work-study programs, prior to repeal by [Pub. L. 96–374, § 434][/us/pl/96/374/s434].
+    A prior section 2753, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 443, formerly title I, § 143, as added, renumbered title IV, § 443, and amended [Pub. L. 90–575, title I][/us/pl/90/575/tI], §§ 131(a), (b)(1), 133(a), (b), 139(1), Oct. 16, 1968, [82 Stat. 1028][/us/stat/82/1028], 1029, 1030; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 128(b), Oct. 12, 1976, [90 Stat. 2143][/us/stat/90/2143], made provision for the grants for work-study programs, prior to repeal by [Pub. L. 96–374][/us/pl/96/374], § 434.
 
  __Amendments__ 
 
-    2009—Subsec. (b)(2). [Pub. L. 111–39, § 403(1)][/us/pl/111/39/s403/1], made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
+    2009—Subsec. (b)(2). [Pub. L. 111–39][/us/pl/111/39], § 403(1), made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 111–39, § 403(2)][/us/pl/111/39/s403/2], substituted “subsection (b)(2)(A)” for “subsection (b)(2)(B)”.
+    Subsec. (d)(1). [Pub. L. 111–39][/us/pl/111/39], § 403(2), substituted “subsection (b)(2)(A)” for “subsection (b)(2)(B)”.
 
-    Subsec. (e)(1). [Pub. L. 111–39, § 403(3)][/us/pl/111/39/s403/3], struck out “in accordance with such subsection” before “to compensate” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 111–39][/us/pl/111/39], § 403(3), struck out “in accordance with such subsection” before “to compensate” in introductory provisions.
 
-    2008—Subsec. (b)(2)(A) to (C). [Pub. L. 110–315, § 443(1)][/us/pl/110/315/s443/1], redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;”.
+    2008—Subsec. (b)(2)(A) to (C). [Pub. L. 110–315][/us/pl/110/315], § 443(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;”.
 
-    Subsec. (e). [Pub. L. 110–315, § 443(2)][/us/pl/110/315/s443/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 443(2), added subsec. (e).
 
-    1998—Subsec. (b)(1). [Pub. L. 105–244, § 443(a)][/us/pl/105/244/s443/a], inserted “, including internships, practica, or research assistantships as determined by the Secretary,” after “part-time employment”.
+    1998—Subsec. (b)(1). [Pub. L. 105–244][/us/pl/105/244], § 443(a), inserted “, including internships, practica, or research assistantships as determined by the Secretary,” after “part-time employment”.
 
-    [Pub. L. 105–244, § 443(b)][/us/pl/105/244/s443/b], (c)(1)(A), substituted “for fiscal year 1999,” for “in fiscal year 1994 and succeeding fiscal years,”, inserted “(including a reasonable amount of time spent in travel or training directly related to such community service)” after “community service”, and struck out “and” at end.
+    [Pub. L. 105–244][/us/pl/105/244], § 443(b), (c)(1)(A), substituted “for fiscal year 1999,” for “in fiscal year 1994 and succeeding fiscal years,”, inserted “(including a reasonable amount of time spent in travel or training directly related to such community service)” after “community service”, and struck out “and” at end.
 
-    Subsec. (b)(2)(B), (C). [Pub. L. 105–244, § 443(c)(1)(B)][/us/pl/105/244/s443/c/1/B], (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (b)(2)(B), (C). [Pub. L. 105–244][/us/pl/105/244], § 443(c)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (b)(3). [Pub. L. 105–244, § 443(d)][/us/pl/105/244/s443/d], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “provide that in the selection of students for employment under such work-study program, only students, who demonstrate financial need in accordance with part F of this title, and who meet the requirements of [section 1091 of title 20][/us/usc/t20/s1091] will be assisted, except that—
+    Subsec. (b)(3). [Pub. L. 105–244][/us/pl/105/244], § 443(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “provide that in the selection of students for employment under such work-study program, only students, who demonstrate financial need in accordance with part F of this title, and who meet the requirements of [section 1091 of title 20][/us/usc/t20/s1091] will be assisted, except that—
 
     “(A) if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (i) attending the institution less than full time, or (ii) independent students; and
 
@@ -197,23 +197,23 @@
 
     then at least 5 percent of the grant shall be made available to such less than full-time and independent students;”.
 
-    Subsec. (b)(5). [Pub. L. 105–244, § 443(e)][/us/pl/105/244/s443/e], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that the Federal share may exceed such amounts of compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;”.
+    Subsec. (b)(5). [Pub. L. 105–244][/us/pl/105/244], § 443(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that the Federal share may exceed such amounts of compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;”.
 
-    Subsec. (b)(6). [Pub. L. 105–244, § 443(f)][/us/pl/105/244/s443/f], struck out “, and to make equivalent employment offered or arranged by the institution reasonably available (to the extent of available funds) to all students in the institution who desire such employment” after “in need thereof”.
+    Subsec. (b)(6). [Pub. L. 105–244][/us/pl/105/244], § 443(f), struck out “, and to make equivalent employment offered or arranged by the institution reasonably available (to the extent of available funds) to all students in the institution who desire such employment” after “in need thereof”.
 
-    Subsec. (c)(4). [Pub. L. 105–244, § 443(g)][/us/pl/105/244/s443/g], inserted “, to the maximum extent practicable” before the semicolon at end.
+    Subsec. (c)(4). [Pub. L. 105–244][/us/pl/105/244], § 443(g), inserted “, to the maximum extent practicable” before the semicolon at end.
 
-    Subsec. (d). [Pub. L. 105–244, § 443(c)(2)][/us/pl/105/244/s443/c/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–244][/us/pl/105/244], § 443(c)(2), added subsec. (d).
 
-    1993—Subsec. (b)(2)(A). [Pub. L. 103–208, § 2(d)(3)][/us/pl/103/208/s2/d/3], substituted “institution; and” for “institution;”.
+    1993—Subsec. (b)(2)(A). [Pub. L. 103–208][/us/pl/103/208], § 2(d)(3), substituted “institution; and” for “institution;”.
 
-    Subsec. (b)(5). [Pub. L. 103–208, § 2(d)(4)][/us/pl/103/208/s2/d/4], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that—
+    Subsec. (b)(5). [Pub. L. 103–208][/us/pl/103/208], § 2(d)(4), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that—
 
     “(A) the Federal share may exceed such amounts of such compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part; and
 
     “(B) when a student engaged in work in community service performs such work for a private nonprofit organization other than the eligible institution, the contribution of such agency or organization shall not exceed 40 percent of the institution’s share of the compensation of the student, and the eligible institution in its discretion may count such contribution toward satisfaction of the non-Federal share of the compensation of the student;”.
 
-    Subsec. (b)(8)(A) to (C). [Pub. L. 103–208, § 2(d)(5)][/us/pl/103/208/s2/d/5], added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+    Subsec. (b)(8)(A) to (C). [Pub. L. 103–208][/us/pl/103/208], § 2(d)(5), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) on campus only, except as required in subparagraph (A) of paragraph (2);
 
@@ -221,13 +221,13 @@
 
     “(C) furnishing student services that are directly related to the student’s education, as determined by the Secretary pursuant to regulations, except that no student shall be employed in any position that would involve the solicitation of other potential students to enroll in the school;”.
 
-    1992—[Pub. L. 102–325, § 441(a)(2)][/us/pl/102/325/s441/a/2], inserted “Federal” after “Grants for” in section catchline.
+    1992—[Pub. L. 102–325][/us/pl/102/325], § 441(a)(2), inserted “Federal” after “Grants for” in section catchline.
 
-    Subsec. (b)(1). [Pub. L. 102–325, § 443(a)][/us/pl/102/325/s443/a], inserted “, work in community service” after “institution itself”.
+    Subsec. (b)(1). [Pub. L. 102–325][/us/pl/102/325], § 443(a), inserted “, work in community service” after “institution itself”.
 
-    Subsec. (b)(2)(A). [Pub. L. 102–325, § 443(b)][/us/pl/102/325/s443/b], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an institution may use not to exceed 10 percent of the funds granted to the institution in any fiscal year to carry out the work study program described in [section 2756a of this title][/us/usc/t42/s2756a] at the increased Federal share specified in paragraph (5)(B) of this subsection, and”.
+    Subsec. (b)(2)(A). [Pub. L. 102–325][/us/pl/102/325], § 443(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an institution may use not to exceed 10 percent of the funds granted to the institution in any fiscal year to carry out the work study program described in [section 2756a of this title][/us/usc/t42/s2756a] at the increased Federal share specified in paragraph (5)(B) of this subsection, and”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 102–325, § 443(c)][/us/pl/102/325/s443/c]–(e), amended par. (3) to (5) generally. Prior to amendment, pars. (3) to (5) read as follows:
+    Subsec. (b)(3) to (5). [Pub. L. 102–325][/us/pl/102/325], § 443(c)–(e), amended par. (3) to (5) generally. Prior to amendment, pars. (3) to (5) read as follows:
 
     “(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F of this title, and who meet the requirements of [section 1091 of title 20][/us/usc/t20/s1091] will be assisted, except that, if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of the institution’s grant shall be made available to such students;
 
@@ -239,15 +239,15 @@
 
     “(B) the Federal share of the compensation of the students employed in the work study for community service-learning programs described in [section 2756a of this title][/us/usc/t42/s2756a] from funds available under paragraph (2)(A) in accordance with the agreement will not exceed 90 percent of such compensation;”.
 
-    Subsec. (b)(8)(A). [Pub. L. 102–325, § 443(f)(1)][/us/pl/102/325/s443/f/1], inserted “, except as required in subparagraph (A) of paragraph (2)” before semicolon at end.
+    Subsec. (b)(8)(A). [Pub. L. 102–325][/us/pl/102/325], § 443(f)(1), inserted “, except as required in subparagraph (A) of paragraph (2)” before semicolon at end.
 
-    Subsec. (b)(8)(C). [Pub. L. 102–325, § 443(f)(2)][/us/pl/102/325/s443/f/2], (g)(2), inserted “that are directly related to the student’s education” after “student services” and struck out “and” at end.
+    Subsec. (b)(8)(C). [Pub. L. 102–325][/us/pl/102/325], § 443(f)(2), (g)(2), inserted “that are directly related to the student’s education” after “student services” and struck out “and” at end.
 
-    Subsec. (b)(9) to (11). [Pub. L. 102–325, § 443(g)(1)][/us/pl/102/325/s443/g/1], (3), added pars. (9) and (10) and redesignated former par. (9) as (11).
+    Subsec. (b)(9) to (11). [Pub. L. 102–325][/us/pl/102/325], § 443(g)(1), (3), added pars. (9) and (10) and redesignated former par. (9) as (11).
 
-    1987—Subsec. (b). [Pub. L. 100–50, § 11(b)][/us/pl/100/50/s11/b], substituted “paragraph (5)(B)” for “clause (6)(B)” in par. (2)(A), and “paragraph (2)(A)” for “clause (2)(A)” in par. (5)(B).
+    1987—Subsec. (b). [Pub. L. 100–50][/us/pl/100/50], § 11(b), substituted “paragraph (5)(B)” for “clause (6)(B)” in par. (2)(A), and “paragraph (2)(A)” for “clause (2)(A)” in par. (5)(B).
 
-    Subsec. (c). [Pub. L. 100–50, § 11(c)][/us/pl/100/50/s11/c], substituted “As part of its agreement” for “In addition to the” and inserted “and subsection (b)(3) of this section” before semicolon at end of par. (1).
+    Subsec. (c). [Pub. L. 100–50][/us/pl/100/50], § 11(c), substituted “As part of its agreement” for “In addition to the” and inserted “and subsection (b)(3) of this section” before semicolon at end of par. (1).
 
     1986—[Pub. L. 99–498][/us/pl/99/498] amended section generally, inserting provisions relating to private sector employment agreements.
 
@@ -273,7 +273,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-Section 403(b)(2), formerly section 403(b), of [Pub. L. 99–498][/us/pl/99/498], as redesignated by [Pub. L. 100–50, § 22(c)][/us/pl/100/50/s22/c], June 3, 1987, [101 Stat. 361][/us/stat/101/361], provided that: 
+Section 403(b)(2), formerly section 403(b), of [Pub. L. 99–498][/us/pl/99/498], as redesignated by [Pub. L. 100–50][/us/pl/100/50], § 22(c), June 3, 1987, [101 Stat. 361][/us/stat/101/361], provided that: 
 
 > “Sections 443(c), 446, and 447 of the Act \[sections 2753(c), 2756, and 2756a of this title\] as amended by this section shall apply to periods of enrollment beginning on or after July 1, 1987.”
 
@@ -295,22 +295,22 @@ Section 403(b)(2), formerly section 403(b), of [Pub. L. 99–498][/us/pl/99/498]
 [/us/usc/t20/s1087kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087kk
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/89/329/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs443
-[/us/pl/96/374/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs434
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1434
-[/us/pl/99/498/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs403%2Fa
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1432
-[/us/pl/100/50/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs11%2Fb
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F348
-[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F563
-[/us/pl/103/208/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fd%2F3
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2470
-[/us/pl/105/244/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1712
-[/us/pl/110/315/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs443
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3258
-[/us/pl/111/39/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs403
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1945
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -318,41 +318,41 @@ Section 403(b)(2), formerly section 403(b), of [Pub. L. 99–498][/us/pl/99/498]
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/89/329/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs443
-[/us/pl/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1028
-[/us/pl/94/482/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs128%2Fb
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2143
-[/us/pl/96/374/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs434
-[/us/pl/111/39/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs403%2F1
-[/us/pl/111/39/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs403%2F2
-[/us/pl/111/39/s403/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs403%2F3
-[/us/pl/110/315/s443/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs443%2F1
-[/us/pl/110/315/s443/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs443%2F2
-[/us/pl/105/244/s443/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Fa
-[/us/pl/105/244/s443/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Fb
-[/us/pl/105/244/s443/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Fc%2F1%2FB
-[/us/pl/105/244/s443/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Fd
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
-[/us/pl/105/244/s443/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Fe
-[/us/pl/105/244/s443/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Ff
-[/us/pl/105/244/s443/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Fg
-[/us/pl/105/244/s443/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs443%2Fc%2F2
-[/us/pl/103/208/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fd%2F3
-[/us/pl/103/208/s2/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fd%2F4
-[/us/pl/103/208/s2/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fd%2F5
-[/us/pl/102/325/s441/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs441%2Fa%2F2
-[/us/pl/102/325/s443/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs443%2Fa
-[/us/pl/102/325/s443/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs443%2Fb
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/usc/t42/s2756a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756a
-[/us/pl/102/325/s443/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs443%2Fc
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
 [/us/usc/t42/s2756a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756a
-[/us/pl/102/325/s443/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs443%2Ff%2F1
-[/us/pl/102/325/s443/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs443%2Ff%2F2
-[/us/pl/102/325/s443/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs443%2Fg%2F1
-[/us/pl/100/50/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs11%2Fb
-[/us/pl/100/50/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs11%2Fc
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3
@@ -373,7 +373,7 @@ Section 403(b)(2), formerly section 403(b), of [Pub. L. 99–498][/us/pl/99/498]
 [/us/pl/100/50/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs27
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/100/50/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs22%2Fc
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F361
 [/us/pl/96/374/s1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1393
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

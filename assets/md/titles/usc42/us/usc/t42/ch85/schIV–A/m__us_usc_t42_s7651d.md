@@ -283,11 +283,11 @@
 
         Beginning January 1, 2000, in addition to allowances allocated pursuant to this section and [section 7651b(a)(1) of this title][/us/usc/t42/s7651b/a/1] as basic Phase II allowance allocations, the Administrator shall allocate annually for each existing municipally owned oil and gas-fired utility unit with nameplate capacity equal to, or less than, 40 MWe, the lesser of whose actual or allowable 1985 sulfur dioxide emission rate is less than 1.20 lbs/mmBtu, allowances in an amount equal to the product of the unit’s annual fuel consumption on a Btu basis at a 60 percent capacity factor multiplied by the lesser of its allowable 1985 emission rate or its actual 1985 emission rate, divided by 2,000.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 405, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2605][/us/stat/104/2605].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 405, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2605][/us/stat/104/2605].)
 
  __References in Text__ 
 
-    Section 301(b) of the Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (g)(5), is [section 301(b) of Pub. L. 95–620][/us/pl/95/620/s301/b], which is classified to [section 8341(b) of this title][/us/usc/t42/s8341/b]. A prior [section 301(b) of Pub. L. 95–620][/us/pl/95/620/s301/b], title III, Nov. 9, 1978, [92 Stat. 3305][/us/stat/92/3305], which was formerly classified to [section 8341(b) of this title][/us/usc/t42/s8341/b], was repealed by [Pub. L. 97–35, title X, § 1021(a)][/us/pl/97/35/s1021/a], Aug. 13, 1981, [95 Stat. 614][/us/stat/95/614].
+    Section 301(b) of the Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (g)(5), is [section 301(b) of Pub. L. 95–620][/us/pl/95/620/s301/b], which is classified to [section 8341(b) of this title][/us/usc/t42/s8341/b]. A prior [section 301(b) of Pub. L. 95–620][/us/pl/95/620/s301/b], title III, Nov. 9, 1978, [92 Stat. 3305][/us/stat/92/3305], which was formerly classified to [section 8341(b) of this title][/us/usc/t42/s8341/b], was repealed by [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1021(a), Aug. 13, 1981, [95 Stat. 614][/us/stat/95/614].
 
 ----------
 
@@ -321,14 +321,14 @@
 [/us/usc/t42/s7651b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651b%2Fa%2F1
 [/us/usc/t42/s7651b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651b%2Fa%2F1
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2605
 [/us/pl/95/620/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs301%2Fb
 [/us/usc/t42/s8341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8341%2Fb
 [/us/pl/95/620/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs301%2Fb
 [/us/stat/92/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3305
 [/us/usc/t42/s8341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8341%2Fb
-[/us/pl/97/35/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1021%2Fa
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F614
 
 

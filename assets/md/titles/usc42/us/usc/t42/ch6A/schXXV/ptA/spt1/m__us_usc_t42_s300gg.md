@@ -57,21 +57,21 @@
 
             If a State permits health insurance issuers that offer coverage in the large group market in the State to offer such coverage through the State Exchange (as provided for under [section 18032(f)(2)(B) of this title][/us/usc/t42/s18032/f/2/B]), the provisions of this subsection shall apply to all coverage offered in such market (other than self-insured group health plans offered in such market) in the State.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2701, as added and amended [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2701, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892.)
 
  __Prior Provisions__ 
 
-    A prior section 300gg, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2701, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1955][/us/stat/110/1955]; amended [Pub. L. 111–3, title III, § 311(b)(2)][/us/pl/111/3/s311/b/2], Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 111–5, div. B, title I, § 1899D(c)][/us/pl/111/5/s1899D/c], Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426]; [Pub. L. 111–344, title I, § 114(c)][/us/pl/111/344/s114/c], Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II, § 242(a)(3)][/us/pl/112/40/s242/a/3], Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419], which related to increased portability through limitation on preexisting condition exclusions, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3].
+    A prior section 300gg, [act July 1, 1944, ch. 373, title XXVII][/us/act/1944-07-01/ch373/tXXVII], § 2701, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1955][/us/stat/110/1955]; amended [Pub. L. 111–3, title III][/us/pl/111/3/tIII], § 311(b)(2), Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1899D(c), Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426]; [Pub. L. 111–344, title I][/us/pl/111/344/tI], § 114(c), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 242(a)(3), Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419], which related to increased portability through limitation on preexisting condition exclusions, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t42/s300gg–3].
 
     Another prior section 2701 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see [section 238 of this title][/us/usc/t42/s238].
 
  __Amendments__ 
 
-    2010—Subsec. (a)(5). [Pub. L. 111–148, § 10103(a)][/us/pl/111/148/s10103/a], inserted “(other than self-insured group health plans offered in such market)” after “such market”.
+    2010—Subsec. (a)(5). [Pub. L. 111–148][/us/pl/111/148], § 10103(a), inserted “(other than self-insured group health plans offered in such market)” after “such market”.
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title I, § 1255][/us/pl/111/148/s1255], formerly § 1253, title X, § 10103(e), (f)(1), Mar. 23, 2010, [124 Stat. 162][/us/stat/124/162], 895, provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1255, formerly § 1253, title X, § 10103(e), (f)(1), Mar. 23, 2010, [124 Stat. 162][/us/stat/124/162], 895, provided that: 
 
 > “This subtitle \[subtitle C (§§ 1201–1255) of title I of [Pub. L. 111–148][/us/pl/111/148], enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former [section 300gg of this title][/us/usc/t42/s300gg] to [section 300gg–3 of this title][/us/usc/t42/s300gg–3]\] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014, except that—
 
@@ -79,7 +79,7 @@
 
 >     “(2) the provisions of section 2704 of the Public Health Service Act \[[42 U.S.C. 300gg–3][/us/usc/t42/s300gg–3]\] (as amended by section 1201), as they apply to enrollees who are under 19 years of age, shall become effective for plan years beginning on or after the date that is 6 months after the date of enactment of this Act \[Mar. 23, 2010\].. \[sic\]”
 
-[Pub. L. 104–191, title I, § 102(c)][/us/pl/104/191/s102/c], Aug. 21, 1996, [110 Stat. 1976][/us/stat/110/1976], provided that:
+[Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(c), Aug. 21, 1996, [110 Stat. 1976][/us/stat/110/1976], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -139,7 +139,7 @@
 
  __Congressional Findings Relating to Exercise of Commerce Clause Authority; Severability__ 
 
-[Pub. L. 104–191, title I, § 195][/us/pl/104/191/s195], Aug. 21, 1996, [110 Stat. 1991][/us/stat/110/1991], provided that:
+[Pub. L. 104–191, title I][/us/pl/104/191/tI], § 195, Aug. 21, 1996, [110 Stat. 1991][/us/stat/110/1991], provided that:
 
 >     “(a)  __Findings Relating to Exercise of Commerce Clause Authority__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Health Coverage Availability Studies__ 
 
-    [Pub. L. 104–191, title I, § 191][/us/pl/104/191/s191], Aug. 21, 1996, [110 Stat. 1987][/us/stat/110/1987], directed the Secretary of Health and Human Services to provide for a study on the effectiveness of the provisions of title I of [Pub. L. 104–191][/us/pl/104/191] and the various State laws, in ensuring the availability of reasonably priced health coverage to employers and individuals and a study on access to, and choice of, health care providers and the cost and cost-effectiveness to health insurance issuers of providing access to out-of-network providers, and the potential impact of providing such access on the cost and quality of health insurance coverage, and to report to the appropriate committees of Congress on each of such studies not later than Jan. 1, 2000.
+    [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 191, Aug. 21, 1996, [110 Stat. 1987][/us/stat/110/1987], directed the Secretary of Health and Human Services to provide for a study on the effectiveness of the provisions of title I of [Pub. L. 104–191][/us/pl/104/191] and the various State laws, in ensuring the availability of reasonably priced health coverage to employers and individuals and a study on access to, and choice of, health care providers and the cost and cost-effectiveness to health insurance issuers of providing access to out-of-network providers, and the potential impact of providing such access on the cost and quality of health insurance coverage, and to report to the appropriate committees of Congress on each of such studies not later than Jan. 1, 2000.
 
 ----------
 
@@ -171,32 +171,32 @@
 [/us/usc/t42/s300gg–6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%936%2Fc
 [/us/usc/t42/s18032/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18032%2Ff%2F2%2FB
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F155
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/act/1944-07-01/ch373/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXXVII
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1955
-[/us/pl/111/3/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F2
+[/us/pl/111/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIII
 [/us/stat/123/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F70
-[/us/pl/111/5/s1899D/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899D%2Fc
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F426
-[/us/pl/111/344/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs114%2Fc
+[/us/pl/111/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2FtI
 [/us/stat/124/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3615
-[/us/pl/112/40/s242/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs242%2Fa%2F3
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F419
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
 [/us/usc/t42/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238
-[/us/pl/111/148/s10103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10103%2Fa
-[/us/pl/111/148/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1255
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F162
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
 [/us/usc/t42/s18011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18011
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
-[/us/pl/104/191/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fc
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1976
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
@@ -205,12 +205,12 @@
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t42/s300gg–3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933%2Fe
 [/us/usc/t42/s300gg–92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9392
-[/us/pl/104/191/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs195
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1991
 [/us/usc/t42/s300gg–92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9392
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/104/191/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs191
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1987
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 

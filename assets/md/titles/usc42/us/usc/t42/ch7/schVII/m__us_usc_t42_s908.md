@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 707, as added Jan. 2, 1968, [Pub. L. 90–248, title IV, § 401][/us/pl/90/248/s401], [81 Stat. 930][/us/stat/81/930], related to grants for expansion and development of undergraduate and graduate programs in the fiscal year ending June 30, 1969, and each of the three succeeding fiscal years.
+    Section, [act Aug. 14, 1935, ch. 531, title VII][/us/act/1935-08-14/ch531/tVII], § 707, as added Jan. 2, 1968, [Pub. L. 90–248, title IV][/us/pl/90/248/tIV], § 401, [81 Stat. 930][/us/stat/81/930], related to grants for expansion and development of undergraduate and graduate programs in the fiscal year ending June 30, 1969, and each of the three succeeding fiscal years.
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs401
+[/us/act/1935-08-14/ch531/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtVII
+[/us/pl/90/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIV
 [/us/stat/81/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F930
 
 

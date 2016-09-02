@@ -119,7 +119,7 @@
 
         The Secretary shall establish a program of research, development, demonstration, and commercial application on technologies and processes to enable biorefineries that exclusively use corn grain or corn starch as a feedstock to produce ethanol to be retrofitted to accept a range of biomass, including lignocellulosic feedstocks.
 
-([Pub. L. 109–58, title IX, § 932][/us/pl/109/58/s932], Aug. 8, 2005, [119 Stat. 870][/us/stat/119/870]; [Pub. L. 110–140, title II, § 224][/us/pl/110/140/s224], Dec. 19, 2007, [121 Stat. 1533][/us/stat/121/1533].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 932, Aug. 8, 2005, [119 Stat. 870][/us/stat/119/870]; [Pub. L. 110–140, title II][/us/pl/110/140/tII], § 224, Dec. 19, 2007, [121 Stat. 1533][/us/stat/121/1533].)
 
  __Amendments__ 
 
@@ -136,9 +136,9 @@
 ----------
 ----------
 
-[/us/pl/109/58/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs932
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F870
-[/us/pl/110/140/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs224
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1533
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

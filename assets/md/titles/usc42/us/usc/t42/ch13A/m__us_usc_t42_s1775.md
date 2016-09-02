@@ -17,7 +17,7 @@
 
     The Secretary shall certify to the Secretary of the Treasury from time to time the amounts to be paid to any State under sections 1772 through 1776 of this title and the time or times such amounts are to be paid; and the Secretary of the Treasury shall pay to the State at the time or times fixed by the Secretary the amounts so certified.
 
-([Pub. L. 89–642, § 6][/us/pl/89/642/s6], Oct. 11, 1966, [80 Stat. 888][/us/stat/80/888].)
+([Pub. L. 89–642][/us/pl/89/642], § 6, Oct. 11, 1966, [80 Stat. 888][/us/stat/80/888].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/642/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs6
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F888
 
 

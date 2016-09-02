@@ -81,7 +81,7 @@
 
         The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIX, § 2901, as added [Pub. L. 109–442, § 2][/us/pl/109/442/s2], Dec. 21, 2006, [120 Stat. 3291][/us/stat/120/3291].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIX, § 2901, as added [Pub. L. 109–442][/us/pl/109/442], § 2, Dec. 21, 2006, [120 Stat. 3291][/us/stat/120/3291].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F442%2Fs2
+[/us/pl/109/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F442
 [/us/stat/120/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3291
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218

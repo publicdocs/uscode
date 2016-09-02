@@ -75,7 +75,7 @@
 
         As soon as practicable after October 17, 1986, the Administrator shall promulgate regulations describing criteria and parameters for the statement of need under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsections”. </sup></sup>  (a) and (c) of this section and the confidentiality agreement under subsection (d) of this section.
 
-([Pub. L. 99–499, title III, § 323][/us/pl/99/499/s323], Oct. 17, 1986, [100 Stat. 1750][/us/stat/100/1750].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 323, Oct. 17, 1986, [100 Stat. 1750][/us/stat/100/1750].)
 
 ----------
 
@@ -87,7 +87,7 @@
 [/us/usc/t42/s11042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11042
 [/us/usc/t42/s11042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11042
 [/us/usc/t42/s11042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11042
-[/us/pl/99/499/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs323
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1750
 
 

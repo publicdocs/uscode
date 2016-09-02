@@ -29,7 +29,7 @@
 
         The Directorate shall proactively address safety challenges with new and current air vehicles and with operations in the Nation’s current and future air transportation system.
 
-([Pub. L. 111–267, title IX, § 902][/us/pl/111/267/s902], Oct. 11, 2010, [124 Stat. 2835][/us/stat/124/2835].)
+([Pub. L. 111–267, title IX][/us/pl/111/267/tIX], § 902, Oct. 11, 2010, [124 Stat. 2835][/us/stat/124/2835].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs902
+[/us/pl/111/267/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIX
 [/us/stat/124/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2835
 
 

@@ -23,7 +23,7 @@
 
     (b) For the purposes of the Merchant Marine Act, 1936 ([46 U.S.C. 1177][/us/usc/t46/s1177] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  any vessel documented under the laws of the United States and used in providing shipping service to or from any ocean thermal energy conversion facility or plantship licensed pursuant to the provisions of this chapter shall be deemed to be used in, and used in an essential service in, the foreign commerce or foreign trade of the United States, as defined in [section 109 of title 46][/us/usc/t46/s109].
 
-([Pub. L. 96–320, title II, § 201][/us/pl/96/320/s201], Aug. 3, 1980, [94 Stat. 991][/us/stat/94/991].)
+([Pub. L. 96–320, title II][/us/pl/96/320/tII], § 201, Aug. 3, 1980, [94 Stat. 991][/us/stat/94/991].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “chapter 535 of title 46” substituted for “section 607 of the Merchant Marine Act, 1936 ([46 U.S.C. 1177][/us/usc/t46/s1177])” and in subsec. (b), “[section 109 of title 46][/us/usc/t46/s109]” substituted for “section 905(a) of the Merchant Marine Act, 1936 ([46 U.S.C. 1244(a)][/us/usc/t46/s1244/a])” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted chapter 535 and [section 109 of Title 46][/us/usc/t46/s109], Shipping.
+    In subsec. (a)(1), “chapter 535 of title 46” substituted for “section 607 of the Merchant Marine Act, 1936 ([46 U.S.C. 1177][/us/usc/t46/s1177])” and in subsec. (b), “[section 109 of title 46][/us/usc/t46/s109]” substituted for “section 905(a) of the Merchant Marine Act, 1936 ([46 U.S.C. 1244(a)][/us/usc/t46/s1244/a])” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted chapter 535 and [section 109 of Title 46][/us/usc/t46/s109], Shipping.
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t46/s1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1177
 [/us/usc/t46/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs109
-[/us/pl/96/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs201
+[/us/pl/96/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtII
 [/us/stat/94/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F991
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
@@ -57,7 +57,7 @@
 [/us/usc/t46/s1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1177
 [/us/usc/t46/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs109
 [/us/usc/t46/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1244%2Fa
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs109
 

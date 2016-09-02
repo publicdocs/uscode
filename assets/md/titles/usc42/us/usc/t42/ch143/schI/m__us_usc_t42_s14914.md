@@ -39,7 +39,7 @@
 
         (8) The range of fees charged for accreditation of agencies and the approval of persons in the United States engaged in providing adoption services under the Convention.
 
-([Pub. L. 106–279, title I, § 104][/us/pl/106/279/s104], Oct. 6, 2000, [114 Stat. 829][/us/stat/114/829]; [Pub. L. 109–288, § 6(f)(9)][/us/pl/109/288/s6/f/9], Sept. 28, 2006, [120 Stat. 1248][/us/stat/120/1248].)
+([Pub. L. 106–279, title I][/us/pl/106/279/tI], § 104, Oct. 6, 2000, [114 Stat. 829][/us/stat/114/829]; [Pub. L. 109–288][/us/pl/109/288], § 6(f)(9), Sept. 28, 2006, [120 Stat. 1248][/us/stat/120/1248].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t42/s622/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622%2Fb%2F12
-[/us/pl/106/279/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs104
+[/us/pl/106/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtI
 [/us/stat/114/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F829
-[/us/pl/109/288/s6/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F9
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1248
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

@@ -105,15 +105,15 @@
 
             The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this subchapter.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 305, as added [Pub. L. 101–625, title IV, § 411][/us/pl/101/625/s411], Nov. 28, 1990, [104 Stat. 4155][/us/stat/104/4155]; amended [Pub. L. 105–276, title V, § 519(c)(2)][/us/pl/105/276/s519/c/2], Oct. 21, 1998, [112 Stat. 2561][/us/stat/112/2561].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 305, as added [Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 411, Nov. 28, 1990, [104 Stat. 4155][/us/stat/104/4155]; amended [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 519(c)(2), Oct. 21, 1998, [112 Stat. 2561][/us/stat/112/2561].)
 
  __References in Text__ 
 
     This subchapter, referred to in subsec. (g)(4), was in the original “this subtitle”, and was translated as reading “this title”, meaning title III of [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as added by [Pub. L. 101–625][/us/pl/101/625], to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
 
-    [Section 1437aaa–1(b)(6) of this title][/us/usc/t42/s1437aaa–1/b/6], referred to in subsec. (i), was redesignated [section 1437aaa–1(b)(7) of this title][/us/usc/t42/s1437aaa–1/b/7] by [Pub. L. 102–550, title X, § 1012(h)(1)(A)][/us/pl/102/550/s1012/h/1/A], Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].
+    [Section 1437aaa–1(b)(6) of this title][/us/usc/t42/s1437aaa–1/b/6], referred to in subsec. (i), was redesignated [section 1437aaa–1(b)(7) of this title][/us/usc/t42/s1437aaa–1/b/7] by [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1012(h)(1)(A), Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].
 
-    [Section 1437aaa–2(b)(9) of this title][/us/usc/t42/s1437aaa–2/b/9], referred to in subsec. (i), was redesignated [section 1437aaa–2(b)(10) of this title][/us/usc/t42/s1437aaa–2/b/10] by [Pub. L. 102–550, title X, § 1012(h)(2)(A)][/us/pl/102/550/s1012/h/2/A], Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].
+    [Section 1437aaa–2(b)(9) of this title][/us/usc/t42/s1437aaa–2/b/9], referred to in subsec. (i), was redesignated [section 1437aaa–2(b)(10) of this title][/us/usc/t42/s1437aaa–2/b/10] by [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1012(h)(2)(A), Oct. 28, 1992, [106 Stat. 3906][/us/stat/106/3906].
 
  __Amendments__ 
 
@@ -134,19 +134,19 @@
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437aaa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aaa%E2%80%932
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/101/625/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs411
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4155
-[/us/pl/105/276/s519/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs519%2Fc%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2561
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s1437aaa–1/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aaa%E2%80%931%2Fb%2F6
 [/us/usc/t42/s1437aaa–1/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aaa%E2%80%931%2Fb%2F7
-[/us/pl/102/550/s1012/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fh%2F1%2FA
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3906
 [/us/usc/t42/s1437aaa–2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aaa%E2%80%932%2Fb%2F9
 [/us/usc/t42/s1437aaa–2/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aaa%E2%80%932%2Fb%2F10
-[/us/pl/102/550/s1012/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1012%2Fh%2F2%2FA
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3906
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276

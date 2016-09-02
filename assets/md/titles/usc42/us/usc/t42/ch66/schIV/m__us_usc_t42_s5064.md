@@ -17,7 +17,7 @@
 
     If the executive authority of any State or local government submits to the Director, not later than 30 days before the expiration of any contract or grant to carry out any project under this chapter, a statement which objects to the renewal of such contract or grant, then the Director shall (1) review such statement and take it into account in determining whether to renew such contract or grant; and (2) submit to such executive authority a written statement of reasons regarding the Director’s determination with respect to such renewal and specifically with respect to any objection so submitted.
 
-([Pub. L. 93–113, title IV, § 424][/us/pl/93/113/s424], as added [Pub. L. 96–143, § 14(a)][/us/pl/96/143/s14/a], Dec. 13, 1979, [93 Stat. 1081][/us/stat/93/1081].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 424, as added [Pub. L. 96–143][/us/pl/96/143], § 14(a), Dec. 13, 1979, [93 Stat. 1081][/us/stat/93/1081].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/113/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs424
-[/us/pl/96/143/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs14%2Fa
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1081
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

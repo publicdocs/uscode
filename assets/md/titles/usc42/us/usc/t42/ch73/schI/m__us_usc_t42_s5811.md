@@ -17,7 +17,7 @@
 
     There is hereby established an independent executive agency to be known as the Energy Research and Development Administration (hereinafter in this chapter referred to as the “Administration”).
 
-([Pub. L. 93–438, title I, § 101][/us/pl/93/438/s101], Oct. 11, 1974, [88 Stat. 1234][/us/stat/88/1234].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 101, Oct. 11, 1974, [88 Stat. 1234][/us/stat/88/1234].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs101
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1234
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233

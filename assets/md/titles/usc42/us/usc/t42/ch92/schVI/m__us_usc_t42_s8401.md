@@ -159,7 +159,7 @@
 
         The authority of the Secretary of Agriculture and the authority of the Secretary of Energy under this section may not be transferred to any other Secretary or to any other Federal agency under chapter 9 of title 5 or under any other provision of law, other than under specific provisions of a law enacted after November 9, 1978. The preceding provisions of this subsection shall not preclude either Secretary from delegating any such authority to any officer, employee, or entity within such Secretary’s department.
 
-([Pub. L. 95–620, title VI, § 601][/us/pl/95/620/s601], Nov. 9, 1978, [92 Stat. 3323][/us/stat/92/3323].)
+([Pub. L. 95–620, title VI][/us/pl/95/620/tVI], § 601, Nov. 9, 1978, [92 Stat. 3323][/us/stat/92/3323].)
 
  __References in Text__ 
 
@@ -175,7 +175,7 @@
 ----------
 
 [/us/usc/t15/s796/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fd
-[/us/pl/95/620/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs601
+[/us/pl/95/620/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVI
 [/us/stat/92/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3323
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901

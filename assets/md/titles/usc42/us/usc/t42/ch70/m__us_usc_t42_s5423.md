@@ -35,7 +35,7 @@
 
         The Federal share for each State grant under subsection (a) of this section may not exceed 90 per centum of the total cost to the State in identifying its needs and developing its plan. In the event the Federal share for all States under such subsection is not the same, the differences among the States shall be established on the basis of objective criteria.
 
-([Pub. L. 93–383, title VI, § 624][/us/pl/93/383/s624], Aug. 22, 1974, [88 Stat. 713][/us/stat/88/713]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 624, Aug. 22, 1974, [88 Stat. 713][/us/stat/88/713]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t42/s5422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5422
 [/us/usc/t42/s5422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5422
-[/us/pl/93/383/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs624
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F713
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 

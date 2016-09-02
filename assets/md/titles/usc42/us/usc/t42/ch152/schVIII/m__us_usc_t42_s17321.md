@@ -53,7 +53,7 @@
 
         (F) sulfur hexafluoride.
 
-([Pub. L. 110–140, title IX, § 901][/us/pl/110/140/s901], Dec. 19, 2007, [121 Stat. 1725][/us/stat/121/1725].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 901, Dec. 19, 2007, [121 Stat. 1725][/us/stat/121/1725].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs901
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1725
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1725

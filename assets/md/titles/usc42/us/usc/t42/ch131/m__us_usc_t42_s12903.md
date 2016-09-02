@@ -87,39 +87,39 @@
 
         In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1) of this section, a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.
 
-([Pub. L. 101–625, title VIII, § 854][/us/pl/101/625/s854], Nov. 28, 1990, [104 Stat. 4376][/us/stat/104/4376]; [Pub. L. 102–550, title VI, § 606(d)][/us/pl/102/550/s606/d], (j)(2), Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807], 3810.)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 854, Nov. 28, 1990, [104 Stat. 4376][/us/stat/104/4376]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(d), (j)(2), Oct. 28, 1992, [106 Stat. 3807][/us/stat/106/3807], 3810.)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 606(d)(1)][/us/pl/102/550/s606/d/1], substituted “, units of general local government, and nonprofit organizations” for “and units of general local government”.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(1), substituted “, units of general local government, and nonprofit organizations” for “and units of general local government”.
 
-    Subsec. (b). [Pub. L. 102–550, § 606(d)(2)][/us/pl/102/550/s606/d/2], added subsec. (b) and struck out former subsec. (b) which read as follows: “Eligibility.—A jurisdiction shall be eligible to receive a grant only if it has obtained an approved housing strategy (or an approved abbreviated housing strategy) in accordance with [section 12705 of this title][/us/usc/t42/s12705]. A grantee shall carry out activities authorized under this chapter through contracts with project sponsors, except that a grantee that is a State shall obtain the approval of the unit of general local government for the locality in which a project is to be located prior to entering into such contracts.”
+    Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Eligibility.—A jurisdiction shall be eligible to receive a grant only if it has obtained an approved housing strategy (or an approved abbreviated housing strategy) in accordance with [section 12705 of this title][/us/usc/t42/s12705]. A grantee shall carry out activities authorized under this chapter through contracts with project sponsors, except that a grantee that is a State shall obtain the approval of the unit of general local government for the locality in which a project is to be located prior to entering into such contracts.”
 
-    Subsec. (c)(1). [Pub. L. 102–550, § 606(d)(3)][/us/pl/102/550/s606/d/3], added par. (1) and struck out former par. (1) which read as follows: “In general.—90 percent of the amounts approved in appropriations Acts under [section 12912 of this title][/us/usc/t42/s12912] shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
+    Subsec. (c)(1). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(3), added par. (1) and struck out former par. (1) which read as follows: “In general.—90 percent of the amounts approved in appropriations Acts under [section 12912 of this title][/us/usc/t42/s12912] shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
 
     “(A) 75 percent among units of general local government located in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome and States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in subparagraph (A), and
 
     “(B) 25 percent among units of general local government in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, that have a higher than average per capita incidence of acquired immunodeficiency syndrome.”
 
-    Subsec. (c)(3). [Pub. L. 102–550, § 606(d)(4)(A)][/us/pl/102/550/s606/d/4/A], substituted “Nonformula allocation” for “Noneligible grantees” in heading.
+    Subsec. (c)(3). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(4)(A), substituted “Nonformula allocation” for “Noneligible grantees” in heading.
 
-    Subsec. (c)(3)(A). [Pub. L. 102–550, § 606(d)(4)(B)][/us/pl/102/550/s606/d/4/B], added subpar. (A) and struck out former subpar. (A) which read as follows: “In general.—10 percent of the amounts appropriated under [section 12912 of this title][/us/usc/t42/s12912] shall be distributed to grantees and recipients by the Secretary—
+    Subsec. (c)(3)(A). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(4)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “In general.—10 percent of the amounts appropriated under [section 12912 of this title][/us/usc/t42/s12912] shall be distributed to grantees and recipients by the Secretary—
 
     “(i) to meet housing needs in States and localities that do not qualify under paragraph (1), or that do qualify under paragraph (1) but do not have an approved housing strategy under [section 12705 of this title][/us/usc/t42/s12705], and
 
     “(ii) to fund special projects of national significance.”
 
-    Subsec. (c)(3)(B), (C). [Pub. L. 102–550, § 606(j)(2)][/us/pl/102/550/s606/j/2], substituted “eligible persons” for “persons with acquired immunodeficiency syndrome” wherever appearing.
+    Subsec. (c)(3)(B), (C). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(2), substituted “eligible persons” for “persons with acquired immunodeficiency syndrome” wherever appearing.
 
-    Subsec. (d). [Pub. L. 102–550, § 606(d)(5)][/us/pl/102/550/s606/d/5], substituted “applications submitted by applicants and approved by the Secretary” for “approvable applications submitted by eligible applicants” in first sentence.
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(5), substituted “applications submitted by applicants and approved by the Secretary” for “approvable applications submitted by eligible applicants” in first sentence.
 
-    Subsec. (e). [Pub. L. 102–550, § 606(d)(6)][/us/pl/102/550/s606/d/6], substituted “other requirements of this section” for “requirements of subsection (b) of this section”.
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(6), substituted “other requirements of this section” for “requirements of subsection (b) of this section”.
 
-    Subsec. (f). [Pub. L. 102–550, § 606(d)(7)][/us/pl/102/550/s606/d/7], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–550][/us/pl/102/550], § 606(d)(7), added subsec. (f).
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
 ----------
 
@@ -134,24 +134,24 @@
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
-[/us/pl/101/625/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs854
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4376
-[/us/pl/102/550/s606/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3807
-[/us/pl/102/550/s606/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F1
-[/us/pl/102/550/s606/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
-[/us/pl/102/550/s606/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F3
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
-[/us/pl/102/550/s606/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F4%2FA
-[/us/pl/102/550/s606/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F4%2FB
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s12912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12912
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
-[/us/pl/102/550/s606/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F2
-[/us/pl/102/550/s606/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F5
-[/us/pl/102/550/s606/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F6
-[/us/pl/102/550/s606/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fd%2F7
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

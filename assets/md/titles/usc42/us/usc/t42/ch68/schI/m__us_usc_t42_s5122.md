@@ -77,7 +77,7 @@
 
     The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.
 
-([Pub. L. 93–288, title I, § 102][/us/pl/93/288/s102], May 22, 1974, [88 Stat. 144][/us/stat/88/144]; [Pub. L. 100–707, title I, § 103(b)][/us/pl/100/707/s103/b]–(d), (f), Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689], 4690; [Pub. L. 102–247, title II, § 205][/us/pl/102/247/s205], Feb. 24, 1992, [106 Stat. 38][/us/stat/106/38]; [Pub. L. 106–390, title III, § 302][/us/pl/106/390/s302], Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572]; [Pub. L. 109–295, title VI, § 688][/us/pl/109/295/s688], Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448]; [Pub. L. 113–2, div. B, § 1110(c)][/us/pl/113/2/s1110/c], Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49]; [Pub. L. 114–111, § 2(a)][/us/pl/114/111/s2/a], Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240].)
+([Pub. L. 93–288, title I][/us/pl/93/288/tI], § 102, May 22, 1974, [88 Stat. 144][/us/stat/88/144]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 103(b)–(d), (f), Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689], 4690; [Pub. L. 102–247, title II][/us/pl/102/247/tII], § 205, Feb. 24, 1992, [106 Stat. 38][/us/stat/106/38]; [Pub. L. 106–390, title III][/us/pl/106/390/tIII], § 302, Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 688, Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448]; [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1110(c), Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49]; [Pub. L. 114–111][/us/pl/114/111], § 2(a), Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240].)
 
  __References in Text__ 
 
@@ -89,45 +89,45 @@
 
     2015—Par. (11)(B). [Pub. L. 114–111][/us/pl/114/111] inserted “broadcasting facilities,” after “workshops,”.
 
-    2013—Par. (6). [Pub. L. 113–2, § 1110(c)(3)][/us/pl/113/2/s1110/c/3], added par. (6). Former par. (6) redesignated (7).
+    2013—Par. (6). [Pub. L. 113–2][/us/pl/113/2], § 1110(c)(3), added par. (6). Former par. (6) redesignated (7).
 
-    Par. (7). [Pub. L. 113–2, § 1110(c)(2)][/us/pl/113/2/s1110/c/2], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    Par. (7). [Pub. L. 113–2][/us/pl/113/2], § 1110(c)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    Par. (7)(B). [Pub. L. 113–2, § 1110(c)(1)][/us/pl/113/2/s1110/c/1], substituted “, that is not an Indian tribal government as defined in paragraph (6); and” for “; and”.
+    Par. (7)(B). [Pub. L. 113–2][/us/pl/113/2], § 1110(c)(1), substituted “, that is not an Indian tribal government as defined in paragraph (6); and” for “; and”.
 
-    Pars. (8) to (11). [Pub. L. 113–2, § 1110(c)(2)][/us/pl/113/2/s1110/c/2], redesignated pars. (7) to (10) as (8) to (11), respectively.
+    Pars. (8) to (11). [Pub. L. 113–2][/us/pl/113/2], § 1110(c)(2), redesignated pars. (7) to (10) as (8) to (11), respectively.
 
-    Par. (12). [Pub. L. 113–2, § 1110(c)(4)][/us/pl/113/2/s1110/c/4], added par. (12).
+    Par. (12). [Pub. L. 113–2][/us/pl/113/2], § 1110(c)(4), added par. (12).
 
-    2006—Pars. (6) to (8). [Pub. L. 109–295, § 688(2)][/us/pl/109/295/s688/2], added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+    2006—Pars. (6) to (8). [Pub. L. 109–295][/us/pl/109/295], § 688(2), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
 
-    Par. (9). [Pub. L. 109–295, § 688(2)][/us/pl/109/295/s688/2], redesignated par. (8) as (9). Former par. (9) redesignated (10).
+    Par. (9). [Pub. L. 109–295][/us/pl/109/295], § 688(2), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-    [Pub. L. 109–295, § 688(1)][/us/pl/109/295/s688/1], amended par. (9) generally. Prior to amendment, text read as follows: “ ‘Private nonprofit facility’ means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public, and facilities on Indian reservations as defined by the President.”
+    [Pub. L. 109–295][/us/pl/109/295], § 688(1), amended par. (9) generally. Prior to amendment, text read as follows: “ ‘Private nonprofit facility’ means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public, and facilities on Indian reservations as defined by the President.”
 
-    Par. (10). [Pub. L. 109–295, § 688(2)][/us/pl/109/295/s688/2], redesignated par. (9) as (10).
+    Par. (10). [Pub. L. 109–295][/us/pl/109/295], § 688(2), redesignated par. (9) as (10).
 
-    2000—Par. (3). [Pub. L. 106–390, § 302(1)][/us/pl/106/390/s302/1], substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
+    2000—Par. (3). [Pub. L. 106–390][/us/pl/106/390], § 302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
-    Par. (4). [Pub. L. 106–390, § 302(1)][/us/pl/106/390/s302/1], substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, or the Trust Territory of the Pacific Islands”.
+    Par. (4). [Pub. L. 106–390][/us/pl/106/390], § 302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, or the Trust Territory of the Pacific Islands”.
 
-    Par. (6). [Pub. L. 106–390, § 302(2)][/us/pl/106/390/s302/2], added par. (6) and struck out former par. (6) which read as follows: “ ‘Local government’ means (A) any county, city, village, town, district, or other political subdivision of any State, any Indian tribe or authorized tribal organization, or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.”
+    Par. (6). [Pub. L. 106–390][/us/pl/106/390], § 302(2), added par. (6) and struck out former par. (6) which read as follows: “ ‘Local government’ means (A) any county, city, village, town, district, or other political subdivision of any State, any Indian tribe or authorized tribal organization, or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.”
 
-    Par. (9). [Pub. L. 106–390, § 302(3)][/us/pl/106/390/s302/3], inserted “irrigation,” after “utility,”.
+    Par. (9). [Pub. L. 106–390][/us/pl/106/390], § 302(3), inserted “irrigation,” after “utility,”.
 
     1992—Pars. (3), (4). [Pub. L. 102–247][/us/pl/102/247] inserted “the Northern Mariana Islands,” after “American Samoa,”.
 
-    1988—Par. (1). [Pub. L. 100–707, § 103(b)][/us/pl/100/707/s103/b], inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Emergency’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster.”
+    1988—Par. (1). [Pub. L. 100–707][/us/pl/100/707], § 103(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Emergency’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster.”
 
-    Par. (2). [Pub. L. 100–707, § 103(c)][/us/pl/100/707/s103/c], inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Major disaster’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter, above and beyond emergency services by the Federal Government, to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.”
+    Par. (2). [Pub. L. 100–707][/us/pl/100/707], § 103(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Major disaster’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter, above and beyond emergency services by the Federal Government, to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.”
 
-    Pars. (3), (4). [Pub. L. 100–707, § 103(d)][/us/pl/100/707/s103/d], struck out “the Canal Zone,” after “American Samoa,”.
+    Pars. (3), (4). [Pub. L. 100–707][/us/pl/100/707], § 103(d), struck out “the Canal Zone,” after “American Samoa,”.
 
-    Pars. (8), (9). [Pub. L. 100–707, § 103(f)][/us/pl/100/707/s103/f], added pars. (8) and (9).
+    Pars. (8), (9). [Pub. L. 100–707][/us/pl/100/707], § 103(f), added pars. (8) and (9).
 
  __Regulations__ 
 
-[Pub. L. 113–2, div. B, § 1110(e)][/us/pl/113/2/s1110/e], Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49], provided that:
+[Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1110(e), Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49], provided that:
 
 >     “(1)  __Issuance__  __.—__ 
 
@@ -139,7 +139,7 @@
 
  __Local Government__ 
 
-[Pub. L. 100–707, title I, § 103(e)][/us/pl/100/707/s103/e], Nov. 23, 1988, [102 Stat. 4690][/us/stat/102/4690], provided that:
+[Pub. L. 100–707, title I][/us/pl/100/707/tI], § 103(e), Nov. 23, 1988, [102 Stat. 4690][/us/stat/102/4690], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -160,19 +160,19 @@
 
 [/us/usc/t25/s479a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a
 [/us/usc/t42/s12102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102%2F2
-[/us/pl/93/288/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs102
+[/us/pl/93/288/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtI
 [/us/stat/88/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F144
-[/us/pl/100/707/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs103%2Fb
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4689
-[/us/pl/102/247/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs205
+[/us/pl/102/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtII
 [/us/stat/106/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F38
-[/us/pl/106/390/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs302
+[/us/pl/106/390/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtIII
 [/us/stat/114/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1572
-[/us/pl/109/295/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs688
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1448
-[/us/pl/113/2/s1110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F49
-[/us/pl/114/111/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111%2Fs2%2Fa
+[/us/pl/114/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111
 [/us/stat/129/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2240
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -181,28 +181,28 @@
 [/us/stat/108/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4791
 [/us/usc/t25/s479a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a
 [/us/pl/114/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111
-[/us/pl/113/2/s1110/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F3
-[/us/pl/113/2/s1110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F2
-[/us/pl/113/2/s1110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F1
-[/us/pl/113/2/s1110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F2
-[/us/pl/113/2/s1110/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F4
-[/us/pl/109/295/s688/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs688%2F2
-[/us/pl/109/295/s688/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs688%2F2
-[/us/pl/109/295/s688/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs688%2F1
-[/us/pl/109/295/s688/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs688%2F2
-[/us/pl/106/390/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs302%2F1
-[/us/pl/106/390/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs302%2F1
-[/us/pl/106/390/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs302%2F2
-[/us/pl/106/390/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs302%2F3
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
+[/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
 [/us/pl/102/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247
-[/us/pl/100/707/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs103%2Fb
-[/us/pl/100/707/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs103%2Fc
-[/us/pl/100/707/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs103%2Fd
-[/us/pl/100/707/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs103%2Ff
-[/us/pl/113/2/s1110/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fe
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F49
 [/us/usc/t42/s5123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5123
-[/us/pl/100/707/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs103%2Fe
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4690
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121

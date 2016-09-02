@@ -27,7 +27,7 @@
 
         From appropriations authorized under [section 15066(a)(1) of this title][/us/usc/t42/s15066/a/1] and reserved under [section 15066(a)(3) of this title][/us/usc/t42/s15066/a/3] (or from funds reserved under [section 15083 of this title][/us/usc/t42/s15083], as appropriate), the Secretary shall enter into 1 or more cooperative agreements or contracts for the purpose of providing technical assistance described in [section 15063(c) of this title][/us/usc/t42/s15063/c].
 
-([Pub. L. 106–402, title I, § 151][/us/pl/106/402/s151], Oct. 30, 2000, [114 Stat. 1719][/us/stat/114/1719].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 151, Oct. 30, 2000, [114 Stat. 1719][/us/stat/114/1719].)
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s15066/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15066%2Fa%2F3
 [/us/usc/t42/s15083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15083
 [/us/usc/t42/s15063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15063%2Fc
-[/us/pl/106/402/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs151
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1719
 
 

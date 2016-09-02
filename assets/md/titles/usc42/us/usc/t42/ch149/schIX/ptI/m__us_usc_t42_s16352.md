@@ -91,7 +91,7 @@
 
             (B) the small business technology transfer program under that section.
 
-([Pub. L. 109–58, title IX, § 988][/us/pl/109/58/s988], Aug. 8, 2005, [119 Stat. 910][/us/stat/119/910].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 988, Aug. 8, 2005, [119 Stat. 910][/us/stat/119/910].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/109/58/s988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs988
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F910
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311

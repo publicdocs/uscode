@@ -41,7 +41,7 @@
 
         In developing the definition under subsection (b) of this section, the Secretary shall consult with appropriate consumer and professional organizations with expertise in using, providing, and evaluating professional services and embryo laboratories associated with assisted reproductive technologies.
 
-([Pub. L. 102–493, § 2][/us/pl/102/493/s2], Oct. 24, 1992, [106 Stat. 3146][/us/stat/106/3146].)
+([Pub. L. 102–493][/us/pl/102/493], § 2, Oct. 24, 1992, [106 Stat. 3146][/us/stat/106/3146].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
  __Effective Date__ 
 
-[Pub. L. 102–493, § 9][/us/pl/102/493/s9], Oct. 24, 1992, [106 Stat. 3152][/us/stat/106/3152], provided that: 
+[Pub. L. 102–493][/us/pl/102/493], § 9, Oct. 24, 1992, [106 Stat. 3152][/us/stat/106/3152], provided that: 
 
 > “This Act \[enacting this section, sections 263a–2 to 263a–7 of this title, and provisions set out as a note under [section 201 of this title][/us/usc/t42/s201]\] shall take effect upon the expiration of 2 years after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
@@ -69,13 +69,13 @@
 ----------
 
 [/us/usc/t42/s263a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%932
-[/us/pl/102/493/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs2
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3146
 [/us/usc/t42/s263a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a%E2%80%937
 [/us/pl/102/493/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs7
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/102/493/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493%2Fs9
+[/us/pl/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F493
 [/us/stat/106/3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3152
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 

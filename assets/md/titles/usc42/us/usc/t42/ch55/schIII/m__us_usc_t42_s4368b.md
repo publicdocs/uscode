@@ -69,13 +69,13 @@
 
         The Administrator shall transmit an annual report to the appropriate Committees of the Congress with jurisdiction over the applicable environmental laws and Indian tribes describing which Indian tribes or intertribal consortia have been granted approval by the Administrator pursuant to law to enforce certain environmental laws and the effectiveness of any such enforcement.
 
-([Pub. L. 95–134, title V, § 502][/us/pl/95/134/s502], as added [Pub. L. 102–497, § 11][/us/pl/102/497/s11], Oct. 24, 1992, [106 Stat. 3258][/us/stat/106/3258]; amended [Pub. L. 103–155][/us/pl/103/155], Nov. 24, 1993, [107 Stat. 1523][/us/stat/107/1523]; [Pub. L. 104–233, § 1][/us/pl/104/233/s1], Oct. 2, 1996, [110 Stat. 3057][/us/stat/110/3057].)
+([Pub. L. 95–134, title V][/us/pl/95/134/tV], § 502, as added [Pub. L. 102–497][/us/pl/102/497], § 11, Oct. 24, 1992, [106 Stat. 3258][/us/stat/106/3258]; amended [Pub. L. 103–155][/us/pl/103/155], Nov. 24, 1993, [107 Stat. 1523][/us/stat/107/1523]; [Pub. L. 104–233][/us/pl/104/233], § 1, Oct. 2, 1996, [110 Stat. 3057][/us/stat/110/3057].)
 
  __References in Text__ 
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (f), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (f), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
  __Codification__ 
 
@@ -85,13 +85,13 @@
 
     1996—Subsec. (h). [Pub. L. 104–233][/us/pl/104/233] substituted “such sums as may be necessary” for “$15,000,000”.
 
-    1993—Subsec. (d)(1). [Pub. L. 103–155, § 3(a)][/us/pl/103/155/s3/a], inserted “consistent with other applicable provisions of law providing for enforcement of such laws by Indian tribes” after “programs”.
+    1993—Subsec. (d)(1). [Pub. L. 103–155][/us/pl/103/155], § 3(a), inserted “consistent with other applicable provisions of law providing for enforcement of such laws by Indian tribes” after “programs”.
 
-    Subsec. (f). [Pub. L. 103–155, § 3(b)][/us/pl/103/155/s3/b], inserted at end “Such programs and general assistance shall be carried out in accordance with the purposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.).”
+    Subsec. (f). [Pub. L. 103–155][/us/pl/103/155], § 3(b), inserted at end “Such programs and general assistance shall be carried out in accordance with the purposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.).”
 
-    Subsec. (h). [Pub. L. 103–155, § 1][/us/pl/103/155/s1], substituted “, 1994, 1995, 1996, 1997, and 1998” for “and 1994”.
+    Subsec. (h). [Pub. L. 103–155][/us/pl/103/155], § 1, substituted “, 1994, 1995, 1996, 1997, and 1998” for “and 1994”.
 
-    Subsec. (i). [Pub. L. 103–155, § 2][/us/pl/103/155/s2], added subsec. (i).
+    Subsec. (i). [Pub. L. 103–155][/us/pl/103/155], § 2, added subsec. (i).
 
 ----------
 
@@ -101,26 +101,26 @@
 ----------
 
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/95/134/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs502
-[/us/pl/102/497/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs11
+[/us/pl/95/134/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtV
+[/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/stat/106/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3258
 [/us/pl/103/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155
 [/us/stat/107/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1523
-[/us/pl/104/233/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F233%2Fs1
+[/us/pl/104/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F233
 [/us/stat/110/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3057
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/104/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F233
-[/us/pl/103/155/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155%2Fs3%2Fa
-[/us/pl/103/155/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155%2Fs3%2Fb
+[/us/pl/103/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155
+[/us/pl/103/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/103/155/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155%2Fs1
-[/us/pl/103/155/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155%2Fs2
+[/us/pl/103/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155
+[/us/pl/103/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F155
 
 

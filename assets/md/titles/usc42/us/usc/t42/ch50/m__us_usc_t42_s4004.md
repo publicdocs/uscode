@@ -43,7 +43,7 @@
 
         Except as otherwise provided in this subtitle, any terms used in this subtitle shall have the meaning given to such terms under section 1370 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4121][/us/usc/t42/s4121]).
 
-([Pub. L. 112–141, div. F, title II, § 100202][/us/pl/112/141/s100202], July 6, 2012, [126 Stat. 916][/us/stat/126/916].)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100202, July 6, 2012, [126 Stat. 916][/us/stat/126/916].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
 [/us/usc/t42/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4121
-[/us/pl/112/141/s100202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100202
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F916
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F916

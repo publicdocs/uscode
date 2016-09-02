@@ -17,7 +17,7 @@
 
     Federal law enforcement assistance provided under this chapter may not be used with respect to civil justice matters except to the extent that such civil justice matters bear directly and substantially upon criminal justice matters or are inextricably intertwined with criminal justice matters.
 
-([Pub. L. 98–473, title II, § 609W][/us/pl/98/473/s609W], Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609W, Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609W
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2106
 
 

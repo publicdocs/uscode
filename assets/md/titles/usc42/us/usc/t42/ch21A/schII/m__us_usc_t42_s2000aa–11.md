@@ -31,7 +31,7 @@
 
         The Attorney General shall collect and compile information on, and report annually to the Committees on the Judiciary of the Senate and the House of Representatives on the use of search warrants by Federal officers and employees for documentary materials described in subsection (a)(3) of this section.
 
-([Pub. L. 96–440, title II, § 201][/us/pl/96/440/s201], Oct. 13, 1980, [94 Stat. 1882][/us/stat/94/1882].)
+([Pub. L. 96–440, title II][/us/pl/96/440/tII], § 201, Oct. 13, 1980, [94 Stat. 1882][/us/stat/94/1882].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/440/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs201
+[/us/pl/96/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2FtII
 [/us/stat/94/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1882
 
 

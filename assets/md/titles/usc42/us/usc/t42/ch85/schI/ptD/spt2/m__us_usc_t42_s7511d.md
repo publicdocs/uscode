@@ -45,7 +45,7 @@
 
         For areas with a total population under 200,000 which fail to attain the standard by the applicable attainment date, no sanction under this section or under any other provision of this chapter shall apply if the area can demonstrate, consistent with guidance issued by the Administrator, that attainment in the area is prevented because of ozone or ozone precursors transported from other areas. The prohibition applies only in cases in which the area has met all requirements and implemented all measures applicable to the area under this chapter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 185, as added [Pub. L. 101–549, title I, § 103][/us/pl/101/549/s103], Nov. 15, 1990, [104 Stat. 2450][/us/stat/104/2450].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 185, as added [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 103, Nov. 15, 1990, [104 Stat. 2450][/us/stat/104/2450].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t26/s6621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fa%2F2
 [/us/usc/t42/s7661a/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7661a%2Fb%2F3%2FC
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs103
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2450
 
 

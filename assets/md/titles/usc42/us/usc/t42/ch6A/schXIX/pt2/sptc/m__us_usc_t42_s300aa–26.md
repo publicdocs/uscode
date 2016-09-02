@@ -49,7 +49,7 @@
 
         each health care provider who administers a vaccine set forth in the Vaccine Injury Table shall provide to the legal representatives of any child or to any other individual to whom such provider intends to administer such vaccine a copy of the information materials developed pursuant to subsection (a) of this section, supplemented with visual presentations or oral explanations, in appropriate cases. Such materials shall be provided prior to the administration of such vaccine.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2126, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3775][/us/stat/100/3775]; amended [Pub. L. 100–203, title IV, § 4302(b)(1)][/us/pl/100/203/s4302/b/1], Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221]; [Pub. L. 101–239, title VI, § 6601(p)][/us/pl/101/239/s6601/p], Dec. 19, 1989, [103 Stat. 2292][/us/stat/103/2292]; [Pub. L. 102–531, title III, § 312(d)(15)][/us/pl/102/531/s312/d/15], Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 103–183, title VII, § 708][/us/pl/103/183/s708], Dec. 14, 1993, [107 Stat. 2242][/us/stat/107/2242].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2126, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3775][/us/stat/100/3775]; amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4302(b)(1), Dec. 22, 1987, [101 Stat. 1330–221][/us/stat/101/1330-221]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6601(p), Dec. 19, 1989, [103 Stat. 2292][/us/stat/103/2292]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(15), Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 103–183, title VII][/us/pl/103/183/tVII], § 708, Dec. 14, 1993, [107 Stat. 2242][/us/stat/107/2242].)
 
  __Codification__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–183, § 708(c)][/us/pl/103/183/s708/c], inserted “or to any other individual” after “to the legal representatives of any child”.
+    1993—Subsec. (a). [Pub. L. 103–183][/us/pl/103/183], § 708(c), inserted “or to any other individual” after “to the legal representatives of any child”.
 
-    Subsec. (b). [Pub. L. 103–183, § 708(a)][/us/pl/103/183/s708/a], struck out “by rule” after “revised” in introductory provisions and substituted “and 60” for “, opportunity for a public hearing, and 90” in par. (1).
+    Subsec. (b). [Pub. L. 103–183][/us/pl/103/183], § 708(a), struck out “by rule” after “revised” in introductory provisions and substituted “and 60” for “, opportunity for a public hearing, and 90” in par. (1).
 
-    Subsec. (c). [Pub. L. 103–183, § 708(b)][/us/pl/103/183/s708/b], inserted in introductory provisions “shall be based on available data and information,” after “such materials”, added pars. (1) to (4), and struck out former pars. (1) to (10) which read as follows:
+    Subsec. (c). [Pub. L. 103–183][/us/pl/103/183], § 708(b), inserted in introductory provisions “shall be based on available data and information,” after “such materials”, added pars. (1) to (4), and struck out former pars. (1) to (10) which read as follows:
 
     “(1) the frequency, severity, and potential long-term effects of the disease to be prevented by the vaccine,
 
@@ -87,7 +87,7 @@
 
     “(10) such other relevant information as may be determined by the Secretary.”
 
-    Subsec. (d). [Pub. L. 103–183, § 708(c)][/us/pl/103/183/s708/c], (d), in concluding provisions, inserted “or to any other individual” after “to the legal representatives of any child”, substituted “supplemented with visual presentations or oral explanations, in appropriate cases” for “or other written information which meets the requirements of this section”, and struck out “or other information” after “Such materials”.
+    Subsec. (d). [Pub. L. 103–183][/us/pl/103/183], § 708(c), (d), in concluding provisions, inserted “or to any other individual” after “to the legal representatives of any child”, substituted “supplemented with visual presentations or oral explanations, in appropriate cases” for “or other written information which meets the requirements of this section”, and struck out “or other information” after “Such materials”.
 
     1992—Subsec. (b)(2). [Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
@@ -111,22 +111,22 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3775
-[/us/pl/100/203/s4302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4302%2Fb%2F1
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-221
-[/us/pl/101/239/s6601/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6601%2Fp
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2292
-[/us/pl/102/531/s312/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F15
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
-[/us/pl/103/183/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs708
+[/us/pl/103/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVII
 [/us/stat/107/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2242
 [/us/pl/99/660/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs323
 [/us/usc/t42/s300aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%931
-[/us/pl/103/183/s708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs708%2Fc
-[/us/pl/103/183/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs708%2Fa
-[/us/pl/103/183/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs708%2Fb
-[/us/pl/103/183/s708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs708%2Fc
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

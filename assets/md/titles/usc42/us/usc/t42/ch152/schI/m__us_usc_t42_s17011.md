@@ -167,7 +167,7 @@
 
             There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
-([Pub. L. 110–140, title I, § 131][/us/pl/110/140/s131], Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508].)
+([Pub. L. 110–140, title I][/us/pl/110/140/tI], § 131, Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508].)
 
 ----------
 
@@ -180,7 +180,7 @@
 [/us/usc/t42/s7550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/110/140/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs131
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1508
 
 

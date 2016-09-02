@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
+[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3102 _us_usc_t42_s3103.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
 
 ## § 3104. Advance acquisition of land for public purposes
 
@@ -35,7 +35,7 @@
 
         Notwithstanding any other provision of law, no project for which land is acquired with assistance under this section shall, solely as a result of such advance acquisition, be considered ineligible for the purpose of any other Federal loan or grant program, and the amount of the purchase price paid for the land by the recipient of a grant under this section may be considered an eligible cost for the purpose of such other Federal loan or grant program.
 
-([Pub. L. 89–117, title VII, § 704][/us/pl/89/117/s704], Aug. 10, 1965, [79 Stat. 491][/us/stat/79/491]; [Pub. L. 90–19, § 22(b)][/us/pl/90/19/s22/b], May 25, 1967, [81 Stat. 26][/us/stat/81/26]; [Pub. L. 90–448, title VI, § 603(b)][/us/pl/90/448/s603/b], Aug. 1, 1968, [82 Stat. 533][/us/stat/82/533]; [Pub. L. 96–470, title I, § 107(c)][/us/pl/96/470/s107/c], Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238].)
+([Pub. L. 89–117, title VII][/us/pl/89/117/tVII], § 704, Aug. 10, 1965, [79 Stat. 491][/us/stat/79/491]; [Pub. L. 90–19][/us/pl/90/19], § 22(b), May 25, 1967, [81 Stat. 26][/us/stat/81/26]; [Pub. L. 90–448, title VI][/us/pl/90/448/tVI], § 603(b), Aug. 1, 1968, [82 Stat. 533][/us/stat/82/533]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 107(c), Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238].)
 
  __Amendments__ 
 
@@ -55,18 +55,18 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
+[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3102 _us_usc_t42_s3103.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
 
 ----------
 ----------
 
-[/us/pl/89/117/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs704
+[/us/pl/89/117/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtVII
 [/us/stat/79/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F491
-[/us/pl/90/19/s22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs22%2Fb
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F26
-[/us/pl/90/448/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs603%2Fb
+[/us/pl/90/448/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtVI
 [/us/stat/82/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F533
-[/us/pl/96/470/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs107%2Fc
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2238
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448

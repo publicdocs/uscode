@@ -199,7 +199,7 @@
 
         A chief elected official may not use amounts received under a grant awarded under this subpart to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2604, as added [Pub. L. 101–381, title I, § 101(3)][/us/pl/101/381/s101/3], Aug. 18, 1990, [104 Stat. 580][/us/stat/104/580]; amended [Pub. L. 103–446, title XII, § 1203(a)(3)][/us/pl/103/446/s1203/a/3], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689]; [Pub. L. 104–146, § 3(b)(4)][/us/pl/104/146/s3/b/4], May 20, 1996, [110 Stat. 1351][/us/stat/110/1351]; [Pub. L. 106–345, title I, § 121][/us/pl/106/345/s121], Oct. 20, 2000, [114 Stat. 1326][/us/stat/114/1326]; [Pub. L. 109–415, title I][/us/pl/109/415], §§ 105, 107(b), title VII, § 703, Dec. 19, 2006, [120 Stat. 2776][/us/stat/120/2776], 2783, 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2604, as added [Pub. L. 101–381, title I][/us/pl/101/381/tI], § 101(3), Aug. 18, 1990, [104 Stat. 580][/us/stat/104/580]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1203(a)(3), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689]; [Pub. L. 104–146][/us/pl/104/146], § 3(b)(4), May 20, 1996, [110 Stat. 1351][/us/stat/110/1351]; [Pub. L. 106–345, title I][/us/pl/106/345/tI], § 121, Oct. 20, 2000, [114 Stat. 1326][/us/stat/114/1326]; [Pub. L. 109–415, title I][/us/pl/109/415/tI], §§ 105, 107(b), title VII, § 703, Dec. 19, 2006, [120 Stat. 2776][/us/stat/120/2776], 2783, 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __References in Text__ 
 
@@ -211,37 +211,37 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    [Pub. L. 109–415, § 105][/us/pl/109/415/s105], amended section generally. Prior to amendment, section related to requirements for allocation of funds, purposes for use of amounts, quality management program, expenditures for personnel, status of grantee as medicaid provider, administrative activities and expenses, and prohibited uses of amounts.
+    [Pub. L. 109–415][/us/pl/109/415], § 105, amended section generally. Prior to amendment, section related to requirements for allocation of funds, purposes for use of amounts, quality management program, expenditures for personnel, status of grantee as medicaid provider, administrative activities and expenses, and prohibited uses of amounts.
 
-    Subsecs. (h)(1), (2), (5)(A) and (i). [Pub. L. 109–415, § 107(b)][/us/pl/109/415/s107/b], substituted “this subpart” for “this part”.
+    Subsecs. (h)(1), (2), (5)(A) and (i). [Pub. L. 109–415][/us/pl/109/415], § 107(b), substituted “this subpart” for “this part”.
 
-    2000—Subsec. (b)(1). [Pub. L. 106–345, § 121(a)(1)][/us/pl/106/345/s121/a/1], substituted “HIV-related services, as follows:” for “HIV-related—” in introductory provisions.
+    2000—Subsec. (b)(1). [Pub. L. 106–345][/us/pl/106/345], § 121(a)(1), substituted “HIV-related services, as follows:” for “HIV-related—” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 106–345, § 121(a)(2)][/us/pl/106/345/s121/a/2], substituted “Outpatient and ambulatory health services, including substance abuse treatment,” for “outpatient and ambulatory health and support services, including case management, substance abuse treatment and” and substituted a period for “; and” at end.
+    Subsec. (b)(1)(A). [Pub. L. 106–345][/us/pl/106/345], § 121(a)(2), substituted “Outpatient and ambulatory health services, including substance abuse treatment,” for “outpatient and ambulatory health and support services, including case management, substance abuse treatment and” and substituted a period for “; and” at end.
 
-    Subsec. (b)(1)(B). [Pub. L. 106–345, § 121(a)(4)][/us/pl/106/345/s121/a/4], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (b)(1)(B). [Pub. L. 106–345][/us/pl/106/345], § 121(a)(4), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    Subsec. (b)(1)(C). [Pub. L. 106–345, § 121(a)(3)][/us/pl/106/345/s121/a/3], redesignated subpar. (B) as (C) and substituted “Inpatient” for “inpatient”.
+    Subsec. (b)(1)(C). [Pub. L. 106–345][/us/pl/106/345], § 121(a)(3), redesignated subpar. (B) as (C) and substituted “Inpatient” for “inpatient”.
 
-    Subsec. (b)(1)(D). [Pub. L. 106–345, § 121(a)(5)][/us/pl/106/345/s121/a/5], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 106–345][/us/pl/106/345], § 121(a)(5), added subpar. (D).
 
-    Subsec. (b)(3). [Pub. L. 106–345, § 121(b)(2)][/us/pl/106/345/s121/b/2], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 106–345][/us/pl/106/345], § 121(b)(2), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 106–345, § 121(b)(1)][/us/pl/106/345/s121/b/1], (c), redesignated par. (3) as (4) and amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under [section 300ff–11(a) of this title][/us/usc/t42/s300ff–11/a] for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.”
+    Subsec. (b)(4). [Pub. L. 106–345][/us/pl/106/345], § 121(b)(1), (c), redesignated par. (3) as (4) and amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under [section 300ff–11(a) of this title][/us/usc/t42/s300ff–11/a] for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.”
 
-    Subsecs. (c) to (g). [Pub. L. 106–345, § 121(d)][/us/pl/106/345/s121/d], added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+    Subsecs. (c) to (g). [Pub. L. 106–345][/us/pl/106/345], § 121(d), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-    1996—Subsec. (b)(1)(A). [Pub. L. 104–146, § 3(b)(4)(A)][/us/pl/104/146/s3/b/4/A], inserted “, substance abuse treatment and mental health treatment,” after “case management” and “which shall include treatment education and prophylactic treatment for opportunistic infections,” after “treatment services,”.
+    1996—Subsec. (b)(1)(A). [Pub. L. 104–146][/us/pl/104/146], § 3(b)(4)(A), inserted “, substance abuse treatment and mental health treatment,” after “case management” and “which shall include treatment education and prophylactic treatment for opportunistic infections,” after “treatment services,”.
 
-    Subsec. (b)(2)(A). [Pub. L. 104–146, § 3(b)(4)(B)][/us/pl/104/146/s3/b/4/B], inserted “, or private for-profit entities if such entities are the only available provider of quality HIV care in the area,” after “nonprofit private entities,” and substituted “homeless health centers, substance abuse treatment programs, and mental health programs” for “and homeless health centers”.
+    Subsec. (b)(2)(A). [Pub. L. 104–146][/us/pl/104/146], § 3(b)(4)(B), inserted “, or private for-profit entities if such entities are the only available provider of quality HIV care in the area,” after “nonprofit private entities,” and substituted “homeless health centers, substance abuse treatment programs, and mental health programs” for “and homeless health centers”.
 
-    Subsec. (b)(3). [Pub. L. 104–146, § 3(b)(4)(C)][/us/pl/104/146/s3/b/4/C], added par. (3).
+    Subsec. (b)(3). [Pub. L. 104–146][/us/pl/104/146], § 3(b)(4)(C), added par. (3).
 
-    Subsec. (e). [Pub. L. 104–146, § 3(b)(4)(C)][/us/pl/104/146/s3/b/4/C], struck out “and planning” after “Administration” in heading, designated existing provisions as par. (1), inserted par. heading, struck out “accounting, reporting, and program oversight functions” after “for administration,”, inserted at end “In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”, and added pars. (2) and (3).
+    Subsec. (e). [Pub. L. 104–146][/us/pl/104/146], § 3(b)(4)(C), struck out “and planning” after “Administration” in heading, designated existing provisions as par. (1), inserted par. heading, struck out “accounting, reporting, and program oversight functions” after “for administration,”, inserted at end “In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”, and added pars. (2) and (3).
 
     1994—Subsec. (b)(2)(A). [Pub. L. 103–446][/us/pl/103/446] substituted “Department of Veterans Affairs facilities” for “Veterans Administration facilities”.
 
@@ -279,41 +279,41 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s300ff–12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9312%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs101%2F3
+[/us/pl/101/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtI
 [/us/stat/104/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F580
-[/us/pl/103/446/s1203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1203%2Fa%2F3
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
-[/us/pl/104/146/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fb%2F4
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1351
-[/us/pl/106/345/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121
+[/us/pl/106/345/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtI
 [/us/stat/114/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1326
-[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtI
 [/us/stat/120/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2776
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s238c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238c
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs105
-[/us/pl/109/415/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs107%2Fb
-[/us/pl/106/345/s121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fa%2F1
-[/us/pl/106/345/s121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fa%2F2
-[/us/pl/106/345/s121/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fa%2F4
-[/us/pl/106/345/s121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fa%2F3
-[/us/pl/106/345/s121/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fa%2F5
-[/us/pl/106/345/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fb%2F2
-[/us/pl/106/345/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fb%2F1
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/usc/t42/s300ff–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9311%2Fa
-[/us/pl/106/345/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs121%2Fd
-[/us/pl/104/146/s3/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fb%2F4%2FA
-[/us/pl/104/146/s3/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fb%2F4%2FB
-[/us/pl/104/146/s3/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fb%2F4%2FC
-[/us/pl/104/146/s3/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fb%2F4%2FC
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703

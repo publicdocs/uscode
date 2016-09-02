@@ -33,7 +33,7 @@
 
         (2) 10 percent of the number of units in the project.
 
-([Pub. L. 102–550, title VI, § 652][/us/pl/102/550/s652], Oct. 28, 1992, [106 Stat. 3823][/us/stat/106/3823].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 652, Oct. 28, 1992, [106 Stat. 3823][/us/stat/106/3823].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s13611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13611
-[/us/pl/102/550/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs652
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3823
 
 

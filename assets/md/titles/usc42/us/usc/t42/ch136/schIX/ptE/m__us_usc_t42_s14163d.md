@@ -73,7 +73,7 @@
 
             The requirements of this subsection apply in addition to, and not instead of, the other requirements of this section.
 
-([Pub. L. 108–405, title IV, § 425][/us/pl/108/405/s425], Oct. 30, 2004, [118 Stat. 2291][/us/stat/118/2291].)
+([Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 425, Oct. 30, 2004, [118 Stat. 2291][/us/stat/118/2291].)
 
  __Codification__ 
 
@@ -90,7 +90,7 @@
 [/us/usc/t42/s14163c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163c
 [/us/usc/t42/s14163/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163%2Fe%2F1%2FC
 [/us/usc/t42/s14163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14163
-[/us/pl/108/405/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs425
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2291
 
 

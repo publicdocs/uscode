@@ -193,7 +193,7 @@
 
             The Secretary may terminate an agreement with an independence at home medical practice for such other reasons determined appropriate by the Secretary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866E, formerly § 1866D, as added and renumbered § 1866E, [Pub. L. 111–148, title III, § 3024][/us/pl/111/148/s3024], title X, § 10308(b)(2), Mar. 23, 2010, [124 Stat. 404][/us/stat/124/404], 942; amended [Pub. L. 114–39, § 2][/us/pl/114/39/s2], July 30, 2015, [129 Stat. 440][/us/stat/129/440].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866E, formerly § 1866D, as added and renumbered § 1866E, [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3024, title X, § 10308(b)(2), Mar. 23, 2010, [124 Stat. 404][/us/stat/124/404], 942; amended [Pub. L. 114–39][/us/pl/114/39], § 2, July 30, 2015, [129 Stat. 440][/us/stat/129/440].)
 
  __References in Text__ 
 
@@ -217,9 +217,9 @@
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3024
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F404
-[/us/pl/114/39/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F39%2Fs2
+[/us/pl/114/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F39
 [/us/stat/129/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F440
 [/us/pl/114/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F39
 

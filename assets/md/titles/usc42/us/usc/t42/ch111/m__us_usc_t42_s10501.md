@@ -39,7 +39,7 @@
 
         (6) any assistance which the State or other appropriate unit of government has received, or could receive, under any provision of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3701][/us/usc/t42/s3701] et seq.\].
 
-([Pub. L. 98–473, title II, § 609M][/us/pl/98/473/s609M], Oct. 12, 1984, [98 Stat. 2103][/us/stat/98/2103]; [Pub. L. 109–162, title XI, § 1113][/us/pl/109/162/s1113], Jan. 5, 2006, [119 Stat. 3103][/us/stat/119/3103].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609M, Oct. 12, 1984, [98 Stat. 2103][/us/stat/98/2103]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1113, Jan. 5, 2006, [119 Stat. 3103][/us/stat/119/3103].)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t42/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3701
-[/us/pl/98/473/s609M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609M
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2103
-[/us/pl/109/162/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1113
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3103
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197

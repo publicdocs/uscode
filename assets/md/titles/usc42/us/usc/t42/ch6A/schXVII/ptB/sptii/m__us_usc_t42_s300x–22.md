@@ -59,11 +59,11 @@
 
             A funding agreement for a grant under [section 300x–21 of this title][/us/usc/t42/s300x–21] for a State is that each entity providing treatment services with amounts reserved under paragraph (1) by the State will, directly or through arrangements with other public or nonprofit private entities, make available prenatal care to women receiving such services and, while the women are receiving the services, childcare.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1922, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 389][/us/stat/106/389]; amended [Pub. L. 106–310, div. B, title XXXIII, § 3303(a)][/us/pl/106/310/s3303/a], (f)(2)(A), Oct. 17, 2000, [114 Stat. 1210][/us/stat/114/1210], 1211.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1922, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 389][/us/stat/106/389]; amended [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(a), (f)(2)(A), Oct. 17, 2000, [114 Stat. 1210][/us/stat/114/1210], 1211.)
 
  __Amendment of Subsection (b)(2), (3)__ 
 
-    [Pub. L. 106–310, div. B, title XXXIII, § 3303(f)(2)][/us/pl/106/310/s3303/f/2], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that, effective upon publication of regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1], subsection (c) of this section \[now subsection (b)\] is amended by striking out paragraph (2) and redesignating paragraph (3) as paragraph (2).
+    [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(f)(2), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that, effective upon publication of regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1], subsection (c) of this section \[now subsection (b)\] is amended by striking out paragraph (2) and redesignating paragraph (3) as paragraph (2).
 
  __Prior Provisions__ 
 
@@ -73,19 +73,19 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–310, § 3303(a)][/us/pl/106/310/s3303/a], redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Text read as follows: “A funding agreement for a grant under [section 300x–21 of this title][/us/usc/t42/s300x–21] is that, in expending the grant, the State involved will expend—
+    2000—Subsec. (a). [Pub. L. 106–310][/us/pl/106/310], § 3303(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Text read as follows: “A funding agreement for a grant under [section 300x–21 of this title][/us/usc/t42/s300x–21] is that, in expending the grant, the State involved will expend—
 
     “(1) not less than 35 percent for prevention and treatment activities regarding alcohol; and
 
     “(2) not less than 35 percent for prevention and treatment activities regarding other drugs.”
 
-    Subsec. (b). [Pub. L. 106–310, § 3303(a)(2)][/us/pl/106/310/s3303/a/2], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+    Subsec. (b). [Pub. L. 106–310][/us/pl/106/310], § 3303(a)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-    Subsec. (c). [Pub. L. 106–310, § 3303(a)(2)][/us/pl/106/310/s3303/a/2], redesignated subsec. (c) as (b).
+    Subsec. (c). [Pub. L. 106–310][/us/pl/106/310], § 3303(a)(2), redesignated subsec. (c) as (b).
 
  __Effective Date of 2000 Amendment__ 
 
-    [Pub. L. 106–310, div. B, title XXXIII, § 3303(f)(2)][/us/pl/106/310/s3303/f/2], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that the amendment made by section 3303(f)(2) is effective upon the publication of the regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1].
+    [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3303(f)(2), Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that the amendment made by section 3303(f)(2) is effective upon the publication of the regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1].
 
 ----------
 
@@ -98,22 +98,22 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F389
-[/us/pl/106/310/s3303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fa
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1210
-[/us/pl/106/310/s3303/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Ff%2F2
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1211
 [/us/usc/t42/s300x–32/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9332%2Fe%2F1
 [/us/usc/t42/s300x–9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%939a
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s300y–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%931
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/106/310/s3303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fa
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
-[/us/pl/106/310/s3303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fa%2F2
-[/us/pl/106/310/s3303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Fa%2F2
-[/us/pl/106/310/s3303/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3303%2Ff%2F2
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1211
 [/us/usc/t42/s300x–32/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9332%2Fe%2F1
 

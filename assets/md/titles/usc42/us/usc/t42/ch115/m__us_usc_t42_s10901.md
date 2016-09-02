@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make a grant for any fiscal year to any State receiving a grant under title XX of the Social Security Act \[[42 U.S.C. 1397][/us/usc/t42/s1397] et seq.\] for such fiscal year to enable such State to award scholarships to eligible individuals within the State who are candidates for the Child Development Associate credential.
 
-([Pub. L. 99–425, title VI, § 602][/us/pl/99/425/s602], Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976].)
+([Pub. L. 99–425, title VI][/us/pl/99/425/tVI], § 602, Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–425, title VI, § 601][/us/pl/99/425/s601], Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976], provided that: 
+[Pub. L. 99–425, title VI][/us/pl/99/425/tVI], § 601, Sept. 30, 1986, [100 Stat. 976][/us/stat/100/976], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Child Development Associate Scholarship Assistance Act of 1985’.”
 
@@ -41,14 +41,14 @@
 ----------
 
 [/us/usc/t42/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397
-[/us/pl/99/425/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs602
+[/us/pl/99/425/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtVI
 [/us/stat/100/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F976
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/99/425/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs1001
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/pl/99/425/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs601
+[/us/pl/99/425/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtVI
 [/us/stat/100/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F976
 
 

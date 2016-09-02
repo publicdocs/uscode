@@ -17,7 +17,7 @@
 
     The Administrator is authorized to establish programs to utilize research and development performed by other Federal agencies to minimize the adverse environmental effects of energy projects. The Administrator of the Environmental Protection Agency, as well as other affected agencies and departments, shall cooperate fully with the Administrator in establishing and maintaining such programs, and in establishing appropriate interagency agreements to develop cooperative programs and to avoid unnecessary duplication.
 
-([Pub. L. 93–438, title I, § 110][/us/pl/93/438/s110], Oct. 11, 1974, [88 Stat. 1242][/us/stat/88/1242].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 110, Oct. 11, 1974, [88 Stat. 1242][/us/stat/88/1242].)
 
  __Transfer of Functions__ 
 
@@ -25,11 +25,11 @@
 
  __Research Applied to National Needs; Coordination of Energy Research and Development Activities__ 
 
-[Pub. L. 94–471, § 2(e)(3)][/us/pl/94/471/s2/e/3], Oct. 11, 1976, [90 Stat. 2053][/us/stat/90/2053], provided that: 
+[Pub. L. 94–471][/us/pl/94/471], § 2(e)(3), Oct. 11, 1976, [90 Stat. 2053][/us/stat/90/2053], provided that: 
 
 > “In the conduct of the energy research and development activities under the ‘Research Applied to National Needs’ category, the National Science Foundation shall coordinate all new energy research project awards with the Administrator of the Energy Research and Development Administration or his designee.”
 
-    Similar provisions were contained in [Pub. L. 94–86, § 5][/us/pl/94/86/s5], Aug. 9, 1975, [89 Stat. 430][/us/stat/89/430].
+    Similar provisions were contained in [Pub. L. 94–86][/us/pl/94/86], § 5, Aug. 9, 1975, [89 Stat. 430][/us/stat/89/430].
 
 ----------
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/93/438/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs110
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1242
-[/us/pl/94/471/s2/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs2%2Fe%2F3
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2053
-[/us/pl/94/86/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86%2Fs5
+[/us/pl/94/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86
 [/us/stat/89/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F430
 
 

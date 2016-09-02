@@ -17,7 +17,7 @@
 
     The Attorney General may award, and a Member of Congress or the Attorney General may present, in the name of Congress a Federal Law Enforcement Congressional Badge of Bravery to a Federal law enforcement officer who is cited by the Attorney General, upon the recommendation of the Federal Board, for performing an act of bravery while in the line of duty.
 
-([Pub. L. 110–298, title I, § 101][/us/pl/110/298/s101], July 31, 2008, [122 Stat. 2986][/us/stat/122/2986].)
+([Pub. L. 110–298, title I][/us/pl/110/298/tI], § 101, July 31, 2008, [122 Stat. 2986][/us/stat/122/2986].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/298/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs101
+[/us/pl/110/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtI
 [/us/stat/122/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2986
 
 

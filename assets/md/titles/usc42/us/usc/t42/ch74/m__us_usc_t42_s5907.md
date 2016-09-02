@@ -91,17 +91,17 @@
 
         If the total estimated amount of the Federal contribution to the construction cost of a demonstration project does not exceed $50,000,000, the Secretary is authorized to proceed with the negotiation of agreements and implementation of the proposal subject to the availability of funds under the authorization of appropriations pursuant to [section 5915 of this title][/us/usc/t42/s5915]: Provided, That if such Federal contribution to the construction cost is estimated to exceed $25,000,000 the Secretary shall provide a full and comprehensive report on the proposed demonstration project to the appropriate committees of the Congress and no funds may be expended for any agreement under the authority granted by this section prior to the expiration of sixty calendar days (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary’s report on the proposed project is received by the Congress. Such reports shall contain an analysis of the extent to which the proposed demonstration satisfies the criteria specified in subsection (b) of this section.
 
-([Pub. L. 93–577, § 8][/us/pl/93/577/s8], Dec. 31, 1974, [88 Stat. 1886][/us/stat/88/1886]; [Pub. L. 109–58, title X, § 1009(b)(6)][/us/pl/109/58/s1009/b/6], Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
+([Pub. L. 93–577][/us/pl/93/577], § 8, Dec. 31, 1974, [88 Stat. 1886][/us/stat/88/1886]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(6), Aug. 8, 2005, [119 Stat. 935][/us/stat/119/935].)
 
  __Amendments__ 
 
-    2005—Subsecs. (a), (b), (c)(2). [Pub. L. 109–58, § 1009(b)(6)(A)][/us/pl/109/58/s1009/b/6/A], substituted “Secretary” for “Administrator” in introductory provisions of subsecs. (a) and (b) and in par. (2) of subsec. (c).
+    2005—Subsecs. (a), (b), (c)(2). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(6)(A), substituted “Secretary” for “Administrator” in introductory provisions of subsecs. (a) and (b) and in par. (2) of subsec. (c).
 
-    Subsec. (d)(1). [Pub. L. 109–58, § 1009(b)(6)(B)(i)][/us/pl/109/58/s1009/b/6/B/i], substituted “Administrator of the Energy Research and Development Administration” for “Administrator” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(6)(B)(i), substituted “Administrator of the Energy Research and Development Administration” for “Administrator” in introductory provisions.
 
-    Subsec. (d)(3). [Pub. L. 109–58, § 1009(b)(6)(B)(ii)][/us/pl/109/58/s1009/b/6/B/ii], substituted “Secretary” for “Administrator”.
+    Subsec. (d)(3). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(6)(B)(ii), substituted “Secretary” for “Administrator”.
 
-    Subsec. (f). [Pub. L. 109–58, § 1009(b)(6)(C)][/us/pl/109/58/s1009/b/6/C], substituted “Secretary” for “Administrator” in two places and “Secretary’s” for “Administrator’s”.
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 1009(b)(6)(C), substituted “Secretary” for “Administrator” in two places and “Secretary’s” for “Administrator’s”.
 
  __Transfer of Functions__ 
 
@@ -109,7 +109,7 @@
 
  __Report to Congress on Environmental, Monitoring, Assessment, and Control Efforts Required for Demonstration Projects; Submission to Congress by__  __December 3, 1977__ 
 
-    [Pub. L. 95–39, title I, § 113][/us/pl/95/39/s113], June 3, 1977, [91 Stat. 187][/us/stat/91/187], directed Administrator of Energy Research and Development Administration, in consultation with Administrator of Environmental Protection Agency, to submit a report to Congress six months after June 3, 1977, on the environmental monitoring, assessment, and control efforts, relating to environment, safety, and health, which are required to successfully demonstrate any project which is subject to subsecs. (e) and (f) of this section and is authorized by this Act or any prior Act.
+    [Pub. L. 95–39, title I][/us/pl/95/39/tI], § 113, June 3, 1977, [91 Stat. 187][/us/stat/91/187], directed Administrator of Energy Research and Development Administration, in consultation with Administrator of Environmental Protection Agency, to submit a report to Congress six months after June 3, 1977, on the environmental monitoring, assessment, and control efforts, relating to environment, safety, and health, which are required to successfully demonstrate any project which is subject to subsecs. (e) and (f) of this section and is authorized by this Act or any prior Act.
 
 ----------
 
@@ -121,16 +121,16 @@
 [/us/usc/t42/s5904/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5904%2Fb%2F2
 [/us/usc/t42/s5906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5906%2Fa
 [/us/usc/t42/s5915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5915
-[/us/pl/93/577/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs8
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1886
-[/us/pl/109/58/s1009/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F6
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F935
-[/us/pl/109/58/s1009/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F6%2FA
-[/us/pl/109/58/s1009/b/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F6%2FB%2Fi
-[/us/pl/109/58/s1009/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F6%2FB%2Fii
-[/us/pl/109/58/s1009/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F6%2FC
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
-[/us/pl/95/39/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs113
+[/us/pl/95/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtI
 [/us/stat/91/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F187
 
 

@@ -23,7 +23,7 @@
 
     (3) other matters determined appropriate by the Director.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464O, as added [Pub. L. 102–321, title I, § 123(b)][/us/pl/102/321/s123/b], July 10, 1992, [106 Stat. 362][/us/stat/106/362].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464O, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 123(b), July 10, 1992, [106 Stat. 362][/us/stat/106/362].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs123%2Fb
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F362
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236

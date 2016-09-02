@@ -79,23 +79,23 @@
 
         Agreements made pursuant to this section may not be construed to prohibit any grantee under this part from expending the grant for the purpose of providing counseling services described in this section to an individual who does not undergo testing for HIV/AIDS as a result of the grantee or the individual determining that such testing of the individual is not appropriate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2662, as added [Pub. L. 101–381, title III, § 301(a)][/us/pl/101/381/s301/a], Aug. 18, 1990, [104 Stat. 610][/us/stat/104/610]; amended [Pub. L. 106–345, title III, § 321][/us/pl/106/345/s321], Oct. 20, 2000, [114 Stat. 1346][/us/stat/114/1346]; [Pub. L. 109–415, title III, § 305][/us/pl/109/415/s305], title VII, § 703, Dec. 19, 2006, [120 Stat. 2807][/us/stat/120/2807], 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2662, as added [Pub. L. 101–381, title III][/us/pl/101/381/tIII], § 301(a), Aug. 18, 1990, [104 Stat. 610][/us/stat/104/610]; amended [Pub. L. 106–345, title III][/us/pl/106/345/tIII], § 321, Oct. 20, 2000, [114 Stat. 1346][/us/stat/114/1346]; [Pub. L. 109–415, title III][/us/pl/109/415/tIII], § 305, title VII, § 703, Dec. 19, 2006, [120 Stat. 2807][/us/stat/120/2807], 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    [Pub. L. 109–415, § 305][/us/pl/109/415/s305], reenacted heading without change and amended text generally, substituting provisions relating to counseling of individuals after testing for HIV/AIDS, appropriateness of conditions, counseling of emergency response employees, and counseling without testing, for provisions relating to counseling of individuals before and after testing, appropriateness of conditions, counseling of emergency response employees, and counseling without testing.
+    [Pub. L. 109–415][/us/pl/109/415], § 305, reenacted heading without change and amended text generally, substituting provisions relating to counseling of individuals after testing for HIV/AIDS, appropriateness of conditions, counseling of emergency response employees, and counseling without testing, for provisions relating to counseling of individuals before and after testing, appropriateness of conditions, counseling of emergency response employees, and counseling without testing.
 
-    2000—Subsec. (c)(3). [Pub. L. 106–345, § 321(1)][/us/pl/106/345/s321/1], in introductory provisions struck out “on” after “counseling”.
+    2000—Subsec. (c)(3). [Pub. L. 106–345][/us/pl/106/345], § 321(1), in introductory provisions struck out “on” after “counseling”.
 
-    Subsec. (c)(3)(A), (B). [Pub. L. 106–345, § 321(2)][/us/pl/106/345/s321/2], inserted “on” before “the availability”.
+    Subsec. (c)(3)(A), (B). [Pub. L. 106–345][/us/pl/106/345], § 321(2), inserted “on” before “the availability”.
 
-    Subsec. (c)(3)(C). [Pub. L. 106–345, § 321(3)][/us/pl/106/345/s321/3], designated existing provisions as cl. (i), inserted “that explains” before “the benefits”, and added cl. (ii).
+    Subsec. (c)(3)(C). [Pub. L. 106–345][/us/pl/106/345], § 321(3), designated existing provisions as cl. (i), inserted “that explains” before “the benefits”, and added cl. (ii).
 
-    Subsec. (c)(3)(D). [Pub. L. 106–345, § 321(2)][/us/pl/106/345/s321/2], inserted “on” before “the availability”.
+    Subsec. (c)(3)(D). [Pub. L. 106–345][/us/pl/106/345], § 321(2), inserted “on” before “the availability”.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -109,23 +109,23 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs301%2Fa
+[/us/pl/101/381/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtIII
 [/us/stat/104/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F610
-[/us/pl/106/345/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs321
+[/us/pl/106/345/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtIII
 [/us/stat/114/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1346
-[/us/pl/109/415/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs305
+[/us/pl/109/415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtIII
 [/us/stat/120/2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2807
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs305
-[/us/pl/106/345/s321/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs321%2F1
-[/us/pl/106/345/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs321%2F2
-[/us/pl/106/345/s321/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs321%2F3
-[/us/pl/106/345/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs321%2F2
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

@@ -25,17 +25,17 @@
 
     except that nothing in this section shall be construed to authorize the Secretary to waive or suspend, with respect to any such project, any requirement with respect to any of such programs if such requirement is imposed by law or by any regulation required by law.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 226, formerly title III, § 310A, as added [Pub. L. 91–515, title II, § 270][/us/pl/91/515/s270], Oct. 30, 1970, [84 Stat. 1306][/us/stat/84/1306]; amended [Pub. L. 92–157, title II, § 201][/us/pl/92/157/s201], Nov. 18, 1971, [85 Stat. 461][/us/stat/85/461]; renumbered § 226, [Pub. L. 93–353, title I, § 102(e)][/us/pl/93/353/s102/e], July 23, 1974, [88 Stat. 362][/us/stat/88/362].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 226, formerly title III, § 310A, as added [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 270, Oct. 30, 1970, [84 Stat. 1306][/us/stat/84/1306]; amended [Pub. L. 92–157, title II][/us/pl/92/157/tII], § 201, Nov. 18, 1971, [85 Stat. 461][/us/stat/85/461]; renumbered § 226, [Pub. L. 93–353, title I][/us/pl/93/353/tI], § 102(e), July 23, 1974, [88 Stat. 362][/us/stat/88/362].)
 
  __References in Text__ 
 
     Subchapters V and VI of this chapter, referred to in text, are classified to sections 292 et seq. and 296 et seq., respectively, of this title.
 
-    Subchapter VII of this chapter, referred to in text, which was classified to section 299 et seq. of this title, was repealed by [Pub. L. 99–117, § 12(d)][/us/pl/99/117/s12/d], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    Subchapter VII of this chapter, referred to in text, which was classified to section 299 et seq. of this title, was repealed by [Pub. L. 99–117][/us/pl/99/117], § 12(d), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
-    [Section 246(d) of this title][/us/usc/t42/s246/d], referred to in text, was repealed by [Pub. L. 97–35, title IX, § 902(b)][/us/pl/97/35/s902/b], Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559].
+    [Section 246(d) of this title][/us/usc/t42/s246/d], referred to in text, was repealed by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(b), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559].
 
-    [Section 246(e) of this title][/us/usc/t42/s246/e], referred to in text, was repealed by [Pub. L. 94–63, title V, § 501(b)][/us/pl/94/63/s501/b], July 29, 1975, [89 Stat. 346][/us/stat/89/346].
+    [Section 246(e) of this title][/us/usc/t42/s246/e], referred to in text, was repealed by [Pub. L. 94–63, title V][/us/pl/94/63/tV], § 501(b), July 29, 1975, [89 Stat. 346][/us/stat/89/346].
 
  __Codification__ 
 
@@ -53,19 +53,19 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/515/s270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs270
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1306
-[/us/pl/92/157/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs201
+[/us/pl/92/157/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtII
 [/us/stat/85/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F461
-[/us/pl/93/353/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs102%2Fe
+[/us/pl/93/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtI
 [/us/stat/88/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F362
-[/us/pl/99/117/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fd
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/usc/t42/s246/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246%2Fd
-[/us/pl/97/35/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
 [/us/usc/t42/s246/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246%2Fe
-[/us/pl/94/63/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs501%2Fb
+[/us/pl/94/63/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtV
 [/us/stat/89/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F346
 [/us/usc/t42/s242i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242i
 [/us/pl/92/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157

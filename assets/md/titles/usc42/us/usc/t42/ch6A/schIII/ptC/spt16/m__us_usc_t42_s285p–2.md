@@ -41,7 +41,7 @@
 
         The Director of the Office may carry out the authorities established in subsection (c) of this section directly and through grants, cooperative agreements, or contracts with public or nonprofit private entities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464T, as added [Pub. L. 102–321, title I, § 124(b)][/us/pl/102/321/s124/b], July 10, 1992, [106 Stat. 365][/us/stat/106/365]; amended [Pub. L. 109–482, title I, § 104(b)(1)(L)][/us/pl/109/482/s104/b/1/L], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464T, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 124(b), July 10, 1992, [106 Stat. 365][/us/stat/106/365]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(L), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs124%2Fb
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F365
-[/us/pl/109/482/s104/b/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FL
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

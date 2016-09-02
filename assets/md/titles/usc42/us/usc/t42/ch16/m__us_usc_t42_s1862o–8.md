@@ -43,7 +43,7 @@
 
         The Board shall conduct a review and assessment of the pilot program under this section, including the number of new investigators funded, the distribution of awards by type of institution of higher education, and the success rate upon resubmittal of proposals by new investigators funded through such pilot program. Not later than 3 years after August 9, 2007, the Board shall summarize its findings and any recommendations regarding changes to, the termination of, or the continuation of the pilot program in a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-([Pub. L. 110–69, title VII, § 7021][/us/pl/110/69/s7021], Aug. 9, 2007, [121 Stat. 685][/us/stat/121/685].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7021, Aug. 9, 2007, [121 Stat. 685][/us/stat/121/685].)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7021
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F685
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

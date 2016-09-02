@@ -27,7 +27,7 @@
 
         (3) The Secretary may not commence construction of a test and evaluation facility at a candidate site or site recommended as the location for a repository prior to the date on which the designation of such site is effective under [section 10135 of this title][/us/usc/t42/s10135].
 
-([Pub. L. 97–425, title III, § 305][/us/pl/97/425/s305], Jan. 7, 1983, [96 Stat. 2262][/us/stat/96/2262].)
+([Pub. L. 97–425, title III][/us/pl/97/425/tIII], § 305, Jan. 7, 1983, [96 Stat. 2262][/us/stat/96/2262].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s10135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10135
-[/us/pl/97/425/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs305
+[/us/pl/97/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIII
 [/us/stat/96/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2262
 
 

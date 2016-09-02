@@ -33,7 +33,7 @@
 
         (3) conduct such other activities as the Administrator of the Federal Emergency Management Agency considers appropriate.
 
-([Pub. L. 93–288, title III, § 326][/us/pl/93/288/s326], as added [Pub. L. 109–295, title VI, § 689g(a)][/us/pl/109/295/s689g/a], Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453]; amended [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 326, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689g(a), Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453]; amended [Pub. L. 111–351][/us/pl/111/351], § 3(c)(2), Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Construction__ 
 
-[Pub. L. 109–295, title VI, § 689g(c)][/us/pl/109/295/s689g/c], Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689g(c), Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453], provided that: 
 
 > “Nothing in this section \[enacting this section\] or the amendments made by this section shall be construed to authorize major disaster or emergency assistance that is not authorized as of the date of enactment of this Act \[Oct. 4, 2006\].”
 
@@ -58,16 +58,16 @@
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t42/s5191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5191
-[/us/pl/93/288/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs326
-[/us/pl/109/295/s689g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689g%2Fa
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1453
-[/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
+[/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
-[/us/pl/109/295/s689g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689g%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1453
 
 

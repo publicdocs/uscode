@@ -109,7 +109,7 @@
 
             A person granted an exemption under paragraph (2) may apply for a renewal of the exemption in accordance with the requirements and procedures described in paragraphs (1) and (2). The Administrator may grant a renewal of such an exemption for a period of not more than 2 years after the date of the granting of the renewal.
 
-([Pub. L. 104–142, title I, § 103][/us/pl/104/142/s103], May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
+([Pub. L. 104–142, title I][/us/pl/104/142/tI], § 103, May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
 
 ----------
 
@@ -118,7 +118,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs103
+[/us/pl/104/142/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2FtI
 [/us/stat/110/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1332
 
 

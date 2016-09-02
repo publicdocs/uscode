@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486j.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26B)
+[Previous](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486k _us_usc_t42_s2486l.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26B)
 
 ## CHAPTER 26B—BIOMEDICAL RESEARCH IN SPACE
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486j.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26B)
+[Previous](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486k _us_usc_t42_s2486l.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26B)
 
 ----------
 ----------

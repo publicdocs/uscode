@@ -39,7 +39,7 @@
 
         Any licensee who causes any break in or injury to any submarine cable or pipeline of any type shall bear the cost of the repairs.
 
-([Pub. L. 96–320, title I, § 103][/us/pl/96/320/s103], Aug. 3, 1980, [94 Stat. 982][/us/stat/94/982].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 103, Aug. 3, 1980, [94 Stat. 982][/us/stat/94/982].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs103
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F982
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

@@ -21,7 +21,7 @@
 
     (2) the progress made by the State toward achieving the goals described in the application submitted by the State under [section 9859d of this title][/us/usc/t42/s9859d].
 
-([Pub. L. 106–310, div. A, title XIV, § 1407][/us/pl/106/310/s1407], Oct. 17, 2000, [114 Stat. 1145][/us/stat/114/1145].)
+([Pub. L. 106–310, div. A, title XIV][/us/pl/106/310/dA/tXIV], § 1407, Oct. 17, 2000, [114 Stat. 1145][/us/stat/114/1145].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t42/s9859c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9859c
 [/us/usc/t42/s9859d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9859d
-[/us/pl/106/310/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1407
+[/us/pl/106/310/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIV
 [/us/stat/114/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1145
 
 

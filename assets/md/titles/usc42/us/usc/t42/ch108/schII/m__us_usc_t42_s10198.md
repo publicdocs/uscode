@@ -47,7 +47,7 @@
 
         (2) each such committee, before the expiration of such period, has transmitted to the Secretary a written notice to the effect that such committee has no objection to the proposed use of such facility.
 
-([Pub. L. 97–425, title II, § 218][/us/pl/97/425/s218], Jan. 7, 1983, [96 Stat. 2252][/us/stat/96/2252]; [Pub. L. 103–437, § 15(c)(10)][/us/pl/103/437/s15/c/10], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 218, Jan. 7, 1983, [96 Stat. 2252][/us/stat/96/2252]; [Pub. L. 103–437][/us/pl/103/437], § 15(c)(10), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 [/us/usc/t42/s10155/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10155%2Fe
 [/us/usc/t42/s10156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10156
 [/us/usc/t42/s10155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10155
-[/us/pl/97/425/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs218
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2252
-[/us/pl/103/437/s15/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fc%2F10
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

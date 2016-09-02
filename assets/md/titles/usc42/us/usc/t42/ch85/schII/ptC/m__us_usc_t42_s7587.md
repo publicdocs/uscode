@@ -35,7 +35,7 @@
 
         The Secretary of Transportation shall, if necessary, promulgate rules under applicable motor vehicle laws regarding the safety of vehicles converted from existing and new vehicles to clean-fuel vehicles.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 247, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2523][/us/stat/104/2523].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 247, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2523][/us/stat/104/2523].)
 
 ----------
 
@@ -48,7 +48,7 @@
 [/us/usc/t42/s7586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7586
 [/us/usc/t42/s7522/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7522%2Fa%2F3
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2523
 
 

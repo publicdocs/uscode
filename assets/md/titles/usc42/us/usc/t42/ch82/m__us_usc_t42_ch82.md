@@ -913,7 +913,7 @@ SUBCHAPTER IX—REGULATION OF UNDERGROUND STORAGE TANKS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6991" data-uslm-ref="/us/usc/t42/s6991">6991</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6991l" data-uslm-ref="/us/usc/t42/s6991l">6991l.</a>  </td>
 
     <td> Tanks on tribal lands.  </td>
 

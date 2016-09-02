@@ -27,7 +27,7 @@
 
     (5) Notwithstanding the population requirements of sections 4723(a) and 4743(c) of this title, a “local government” and a “general local government” also mean the recognized governing body of an Indian tribe, band, pueblo, or other organized group or community, including any Alaska Native village, as defined in the Alaska Native Claims Settlement Act ([85 Stat. 688][/us/stat/85/688]) \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], which performs substantial governmental functions. The requirements of sections 4723(c) and 4743(d) of this title, relating to reviews by the Governor of a State, do not apply to grant applications from the governing body of an Indian tribe, although nothing in this chapter is intended to discourage or prohibit voluntary communication and cooperation between Indian tribes and State and local governments.
 
-([Pub. L. 91–648, title V, § 502][/us/pl/91/648/s502], Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925]; [Pub. L. 93–638, title I, § 104(d)][/us/pl/93/638/s104/d], formerly § 105(d), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208], renumbered § 104(d), [Pub. L. 100–472, title II, § 203(a)][/us/pl/100/472/s203/a], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 95–454, title VI, § 602(d)][/us/pl/95/454/s602/d], Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title V][/us/pl/91/648/tV], § 502, Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925]; [Pub. L. 93–638, title I][/us/pl/93/638/tI], § 104(d), formerly § 105(d), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208], renumbered § 104(d), [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 203(a), Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 602(d), Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -62,13 +62,13 @@
 
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/91/648/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs502
+[/us/pl/91/648/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtV
 [/us/stat/84/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1925
-[/us/pl/93/638/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104%2Fd
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2208
-[/us/pl/100/472/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Fa
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2290
-[/us/pl/95/454/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs602%2Fd
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1189
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t42/s4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4761

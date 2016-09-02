@@ -19,7 +19,7 @@
 
     (b) Positions expressly specified by statute or reorganization plan to carry out function  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “functions”. </sup></sup>  transferred by this chapter, personnel occupying those positions on October 1, 1977, and personnel authorized to receive compensation in such positions at the rate prescribed for offices and positions at level I, II, III, IV, or V of the executive schedule ([5 U.S.C. 5312–531][/us/usc/t5/s5312–531]6) on October 1, 1977, shall be subject to the provisions of [section 7293 of this title][/us/usc/t42/s7293].
 
-([Pub. L. 95–91, title VII, § 701][/us/pl/95/91/s701], Aug. 4, 1977, [91 Stat. 605][/us/stat/91/605].)
+([Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 701, Aug. 4, 1977, [91 Stat. 605][/us/stat/91/605].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “[section 1531 of title 31][/us/usc/t31/s1531]” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 \[[31 U.S.C. 581c][/us/usc/t31/s581c]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “[section 1531 of title 31][/us/usc/t31/s1531]” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 \[[31 U.S.C. 581c][/us/usc/t31/s581c]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -39,14 +39,14 @@
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/usc/t5/s5312–531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312%E2%80%93531
 [/us/usc/t42/s7293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7293
-[/us/pl/95/91/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs701
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F605
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/usc/t31/s581c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs581c
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

@@ -81,7 +81,7 @@
 
         (1) Not less than 30 days before providing a grant or entering into any contract or cooperative agreement to carry out activities authorized by this section, the Secretary shall submit notification of such proposed grant, contract, or cooperative agreement (including a description of the geographical distribution of such contracts) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
 
-        (2) Repealed. [Pub. L. 104–66, title I, § 1071(d)][/us/pl/104/66/s1071/d], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].
+        (2) Repealed. [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1071(d), Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].
 
     (f) __Regulations__ 
 
@@ -167,7 +167,7 @@
 
         (5) any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
 
-([Pub. L. 100–242, title V, § 561][/us/pl/100/242/s561], Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 101–625, title IX, § 953][/us/pl/101/625/s953], Nov. 28, 1990, [104 Stat. 4419][/us/stat/104/4419]; [Pub. L. 102–550, title IX, § 905(b)][/us/pl/102/550/s905/b], Oct. 28, 1992, [106 Stat. 3869][/us/stat/106/3869]; [Pub. L. 104–66, title I, § 1071(d)][/us/pl/104/66/s1071/d], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].)
+([Pub. L. 100–242, title V][/us/pl/100/242/tV], § 561, Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 953, Nov. 28, 1990, [104 Stat. 4419][/us/stat/104/4419]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 905(b), Oct. 28, 1992, [106 Stat. 3869][/us/stat/106/3869]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1071(d), Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].)
 
  __References in Text__ 
 
@@ -187,19 +187,19 @@
 
     1995—Subsec. (e)(2). [Pub. L. 104–66][/us/pl/104/66] struck out par. (2) which read as follows: “The Secretary shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a quarterly report that summarizes the activities funded under this section and describes the geographical distribution of grants, contracts, or cooperative agreements funded under this section.”
 
-    1992—Subsecs. (b) to (f). [Pub. L. 102–550, § 905(b)(1)][/us/pl/102/550/s905/b/1], (2), added subsecs. (b) to (d) and redesignated former subsecs. (b) and (c) as (e) and (f), respectively.
+    1992—Subsecs. (b) to (f). [Pub. L. 102–550][/us/pl/102/550], § 905(b)(1), (2), added subsecs. (b) to (d) and redesignated former subsecs. (b) and (c) as (e) and (f), respectively.
 
-    Subsec. (g). [Pub. L. 102–550, § 905(b)(1)][/us/pl/102/550/s905/b/1], (3), redesignated subsec. (d) as (g) and, in first sentence, substituted “$21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—” and pars. (1) to (4) for “including any program evaluations, $6,000,000 for fiscal year 1991 and $6,300,000 for fiscal year 1992, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
+    Subsec. (g). [Pub. L. 102–550][/us/pl/102/550], § 905(b)(1), (3), redesignated subsec. (d) as (g) and, in first sentence, substituted “$21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—” and pars. (1) to (4) for “including any program evaluations, $6,000,000 for fiscal year 1991 and $6,300,000 for fiscal year 1992, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
 
-    Subsec. (h). [Pub. L. 102–550, § 905(b)(4)][/us/pl/102/550/s905/b/4], added subsec. (h) and struck out former subsec. (h) which provided that the demonstration period authorized by this section would end Sept. 30, 1992.
+    Subsec. (h). [Pub. L. 102–550][/us/pl/102/550], § 905(b)(4), added subsec. (h) and struck out former subsec. (h) which provided that the demonstration period authorized by this section would end Sept. 30, 1992.
 
-    [Pub. L. 102–550, § 905(b)(1)][/us/pl/102/550/s905/b/1], redesignated subsec. (e) as (h).
+    [Pub. L. 102–550][/us/pl/102/550], § 905(b)(1), redesignated subsec. (e) as (h).
 
-    Subsecs. (i), (j). [Pub. L. 102–550, § 905(b)(4)][/us/pl/102/550/s905/b/4], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 102–550][/us/pl/102/550], § 905(b)(4), added subsecs. (i) and (j).
 
-    1990—Subsec. (d). [Pub. L. 101–625, § 953(a)][/us/pl/101/625/s953/a], amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscal year 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
+    1990—Subsec. (d). [Pub. L. 101–625][/us/pl/101/625], § 953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscal year 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
 
-    Subsec. (e). [Pub. L. 101–625, § 953(b)][/us/pl/101/625/s953/b], substituted “1992” for “1989”.
+    Subsec. (e). [Pub. L. 101–625][/us/pl/101/625], § 953(b), substituted “1992” for “1989”.
 
  __Change of Name__ 
 
@@ -207,7 +207,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 102–550, title IX, § 905(a)][/us/pl/102/550/s905/a], Oct. 28, 1992, [106 Stat. 3868][/us/stat/106/3868], provided that: 
+[Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 905(a), Oct. 28, 1992, [106 Stat. 3868][/us/stat/106/3868], provided that: 
 
 > “The Congress finds that—
 
@@ -243,15 +243,15 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s3610/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3610%2Ff
-[/us/pl/104/66/s1071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fd
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F720
-[/us/pl/100/242/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs561
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1942
-[/us/pl/101/625/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs953
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4419
-[/us/pl/102/550/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs905%2Fb
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3869
-[/us/pl/104/66/s1071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1071%2Fd
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F720
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F73
@@ -263,16 +263,16 @@
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/usc/t42/s3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3616
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/102/550/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs905%2Fb%2F1
-[/us/pl/102/550/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs905%2Fb%2F1
-[/us/pl/102/550/s905/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs905%2Fb%2F4
-[/us/pl/102/550/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs905%2Fb%2F1
-[/us/pl/102/550/s905/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs905%2Fb%2F4
-[/us/pl/101/625/s953/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs953%2Fa
-[/us/pl/101/625/s953/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs953%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/102/550/s905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs905%2Fa
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3868
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601

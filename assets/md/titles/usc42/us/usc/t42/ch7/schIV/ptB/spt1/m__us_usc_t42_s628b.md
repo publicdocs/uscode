@@ -65,7 +65,7 @@
 
         Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for each of fiscal years 1996 through 2002 $6,000,000 to carry out this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 429, formerly § 429A, as added [Pub. L. 104–193, title V, § 503][/us/pl/104/193/s503], Aug. 22, 1996, [110 Stat. 2277][/us/stat/110/2277]; amended [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5591(a), 5592(a)(1)(C), Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643], 644; renumbered § 429, [Pub. L. 109–288, § 6(f)(3)][/us/pl/109/288/s6/f/3], Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 429, formerly § 429A, as added [Pub. L. 104–193, title V][/us/pl/104/193/tV], § 503, Aug. 22, 1996, [110 Stat. 2277][/us/stat/110/2277]; amended [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5591(a), 5592(a)(1)(C), Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643], 644; renumbered § 429, [Pub. L. 109–288][/us/pl/109/288], § 6(f)(3), Sept. 28, 2006, [120 Stat. 1247][/us/stat/120/1247].)
 
  __Prior Provisions__ 
 
@@ -73,9 +73,9 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–33, § 5592(a)(1)(C)][/us/pl/105/33/s5592/a/1/C], transferred section in original to end of this subpart.
+    1997—[Pub. L. 105–33][/us/pl/105/33], § 5592(a)(1)(C), transferred section in original to end of this subpart.
 
-    Subsec. (a). [Pub. L. 105–33, § 5591(a)][/us/pl/105/33/s5591/a], inserted “(directly, or by grant, contract, or interagency agreement)” after “conduct”.
+    Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 5591(a), inserted “(directly, or by grant, contract, or interagency agreement)” after “conduct”.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -89,15 +89,15 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs503
+[/us/pl/104/193/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtV
 [/us/stat/110/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2277
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F643
-[/us/pl/109/288/s6/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F3
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1247
 [/us/usc/t42/s626/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs626%2Fc
-[/us/pl/105/33/s5592/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5592%2Fa%2F1%2FC
-[/us/pl/105/33/s5591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5591%2Fa
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5593

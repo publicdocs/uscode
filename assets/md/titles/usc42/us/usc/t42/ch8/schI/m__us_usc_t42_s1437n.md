@@ -137,7 +137,7 @@
 
         Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the Secretary, a public housing agency may for good cause establish and implement, in accordance with the public housing agency plan, an admission standard other than the standard under such subsection.
 
-    (e) __Repealed.__  __[__  __Pub. L. 105–276, title V, § 576(d)(2)__  __][/us/pl/105/276/s576/d/2]__  __,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2640__  __][/us/stat/112/2640]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 576(d)(2),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2640__  __][/us/stat/112/2640]__ 
 
     (f) __Ineligibility of individuals convicted of manufacturing or producing methamphetamine on the premises__ 
 
@@ -147,11 +147,11 @@
 
         (2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under [section 1437f of this title][/us/usc/t42/s1437f] for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 16, as added [Pub. L. 97–35, title III, § 323][/us/pl/97/35/s323], Aug. 13, 1981, [95 Stat. 404][/us/stat/95/404]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 213\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 103, 112(b)(8), Feb. 5, 1988, [101 Stat. 1822][/us/stat/101/1822], 1824; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X, § 1001(a)][/us/pl/100/628/s1001/a], Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 511, 572(1), Nov. 28, 1990, [104 Stat. 4194][/us/stat/104/4194], 4236; [Pub. L. 102–550, title I, § 105][/us/pl/102/550/s105], Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684]; [Pub. L. 104–99, title IV, § 402(d)(6)(A)(v)][/us/pl/104/99/s402/d/6/A/v], Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120, § 9(d)][/us/pl/104/120/s9/d], Mar. 28, 1996, [110 Stat. 837][/us/stat/110/837]; [Pub. L. 104–330, title V, § 501(b)(7)][/us/pl/104/330/s501/b/7], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title IV, § 428][/us/pl/105/276/s428], title V, §§ 513(a), 576(d)(2), Oct. 21, 1998, [112 Stat. 2511][/us/stat/112/2511], 2543, 2640; [Pub. L. 105–277, div. A, § 123][/us/pl/105/277/s123], Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 106–74, title II, § 205][/us/pl/106/74/s205], Oct. 20, 1999, [113 Stat. 1069][/us/stat/113/1069]; [Pub. L. 113–76, div. L, title II, § 238(b)][/us/pl/113/76/s238/b], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 16, as added [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 323, Aug. 13, 1981, [95 Stat. 404][/us/stat/95/404]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, § 213\], Nov. 30, 1983, [97 Stat. 1184][/us/stat/97/1184]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 103, 112(b)(8), Feb. 5, 1988, [101 Stat. 1822][/us/stat/101/1822], 1824; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1001(a), Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], §§ 511, 572(1), Nov. 28, 1990, [104 Stat. 4194][/us/stat/104/4194], 4236; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 105, Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(6)(A)(v), Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120][/us/pl/104/120], § 9(d), Mar. 28, 1996, [110 Stat. 837][/us/stat/110/837]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(7), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title IV][/us/pl/105/276/tIV], § 428, title V, §§ 513(a), 576(d)(2), Oct. 21, 1998, [112 Stat. 2511][/us/stat/112/2511], 2543, 2640; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 123, Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546]; [Pub. L. 106–74, title II][/us/pl/106/74/tII], § 205, Oct. 20, 1999, [113 Stat. 1069][/us/stat/113/1069]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76/dL/tII], § 238(b), Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].)
 
  __References in Text__ 
 
-    [Section 1437d(s) of this title][/us/usc/t42/s1437d/s], referred to in subsec. (a)(3)(B)(iii), probably should be a reference to [section 1437d(r) of this title][/us/usc/t42/s1437d/r]. [Pub. L. 105–276, title V][/us/pl/105/276], §§ 525, 575(d), 576(d)(1)(B), Oct. 21, 1998, [112 Stat. 2568][/us/stat/112/2568], 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating to authority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
+    [Section 1437d(s) of this title][/us/usc/t42/s1437d/s], referred to in subsec. (a)(3)(B)(iii), probably should be a reference to [section 1437d(r) of this title][/us/usc/t42/s1437d/r]. [Pub. L. 105–276, title V][/us/pl/105/276/tV], §§ 525, 575(d), 576(d)(1)(B), Oct. 21, 1998, [112 Stat. 2568][/us/stat/112/2568], 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating to authority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
 
     Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (c)(6)(B), (G), is [section 503(a) of Pub. L. 105–276][/us/pl/105/276/s503/a], which is set out as an Effective Date of 1998 Amendment note under [section 1437 of this title][/us/usc/t42/s1437].
 
@@ -165,59 +165,59 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(A). [Pub. L. 113–76, § 238(b)(1)][/us/pl/113/76/s238/b/1], substituted “extremely low-income families” for “families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–76][/us/pl/113/76], § 238(b)(1), substituted “extremely low-income families” for “families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
 
-    Subsec. (b)(1). [Pub. L. 113–76, § 238(b)(2)][/us/pl/113/76/s238/b/2], substituted “extremely low-income families” for “families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
+    Subsec. (b)(1). [Pub. L. 113–76][/us/pl/113/76], § 238(b)(2), substituted “extremely low-income families” for “families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
 
-    Subsec. (c)(3). [Pub. L. 113–76, § 238(b)(3)][/us/pl/113/76/s238/b/3], substituted “extremely low-income families” for “families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
+    Subsec. (c)(3). [Pub. L. 113–76][/us/pl/113/76], § 238(b)(3), substituted “extremely low-income families” for “families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
 
-    1999—Subsecs. (a)(2)(A), (c)(3). [Pub. L. 106–74, § 205(1)][/us/pl/106/74/s205/1], inserted before the period at end “; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
+    1999—Subsecs. (a)(2)(A), (c)(3). [Pub. L. 106–74][/us/pl/106/74], § 205(1), inserted before the period at end “; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes”.
 
-    1998—Subsecs. (a) to (d). [Pub. L. 105–276, § 513(a)][/us/pl/105/276/s513/a], as amended by [Pub. L. 105–277, § 123][/us/pl/105/277/s123], added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
+    1998—Subsecs. (a) to (d). [Pub. L. 105–276][/us/pl/105/276], § 513(a), as amended by [Pub. L. 105–277][/us/pl/105/277], § 123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
-    Subsec. (e). [Pub. L. 105–276, § 576(d)(2)][/us/pl/105/276/s576/d/2], struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
+    Subsec. (e). [Pub. L. 105–276][/us/pl/105/276], § 576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
 
-    Subsec. (f). [Pub. L. 105–276, § 428][/us/pl/105/276/s428], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–276][/us/pl/105/276], § 428, added subsec. (f).
 
-    1996—[Pub. L. 104–120, § 9(d)(1)][/us/pl/104/120/s9/d/1], substituted “Eligibility” for “Income eligibility” in section catchline.
+    1996—[Pub. L. 104–120][/us/pl/104/120], § 9(d)(1), substituted “Eligibility” for “Income eligibility” in section catchline.
 
     Subsec. (c). [Pub. L. 104–99][/us/pl/104/99] temporarily substituted “the written system of preferences for selection established by the public housing agency pursuant to section 1437d(c)(4)(A)” for “the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii)”. See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (d). [Pub. L. 104–330, § 501(b)(7)(A)][/us/pl/104/330/s501/b/7/A], redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The limitations established in subsections (a) and (b) of this section shall not apply to dwelling units assisted by Indian public housing agencies, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under [section 1437c(h) of this title][/us/usc/t42/s1437c/h]..”
+    Subsec. (d). [Pub. L. 104–330][/us/pl/104/330], § 501(b)(7)(A), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The limitations established in subsections (a) and (b) of this section shall not apply to dwelling units assisted by Indian public housing agencies, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under [section 1437c(h) of this title][/us/usc/t42/s1437c/h]..”
 
-    Subsec. (e). [Pub. L. 104–120, § 9(d)(2)][/us/pl/104/120/s9/d/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–120][/us/pl/104/120], § 9(d)(2), added subsec. (e).
 
-    Subsec. (e)(3). [Pub. L. 104–330, § 501(b)(7)(B)][/us/pl/104/330/s501/b/7/B], struck out heading and text of par. (3). Text read as follows: “This subsection does not apply to any dwelling unit assisted by an Indian housing authority.”
+    Subsec. (e)(3). [Pub. L. 104–330][/us/pl/104/330], § 501(b)(7)(B), struck out heading and text of par. (3). Text read as follows: “This subsection does not apply to any dwelling unit assisted by an Indian housing authority.”
 
-    1992—Subsec. (c). [Pub. L. 102–550, § 105(a)][/us/pl/102/550/s105/a], substituted “very low-income families and shall” for “very low-income families, shall” and “. In developing such admission procedures, the Secretary shall” for “, and shall” and inserted “; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to [section 1437d(c)(4)(A)(ii) of this title][/us/usc/t42/s1437d/c/4/A/ii]” after “higher income families for residence”.
+    1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 105(a), substituted “very low-income families and shall” for “very low-income families, shall” and “. In developing such admission procedures, the Secretary shall” for “, and shall” and inserted “; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to [section 1437d(c)(4)(A)(ii) of this title][/us/usc/t42/s1437d/c/4/A/ii]” after “higher income families for residence”.
 
-    Subsec. (d)(2). [Pub. L. 102–550, § 105(b)][/us/pl/102/550/s105/b], inserted before period at end “, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under [section 1437c(h) of this title][/us/usc/t42/s1437c/h].”
+    Subsec. (d)(2). [Pub. L. 102–550][/us/pl/102/550], § 105(b), inserted before period at end “, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under [section 1437c(h) of this title][/us/usc/t42/s1437c/h].”
 
-    1990—Subsec. (a). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families”.
+    1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families”.
 
-    Subsec. (b). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families” in par. (1).
+    Subsec. (b). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families” in par. (1).
 
-    [Pub. L. 101–625, § 511][/us/pl/101/625/s511], designated existing provisions as par. (1), substituted “15 percent” for “5 per centum”, and added par. (2).
+    [Pub. L. 101–625][/us/pl/101/625], § 511, designated existing provisions as par. (1), substituted “15 percent” for “5 per centum”, and added par. (2).
 
-    Subsecs. (c), (d)(1). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families” wherever appearing.
+    Subsecs. (c), (d)(1). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families” wherever appearing.
 
-    1988—Subsec. (b). [Pub. L. 100–242, § 112(b)(8)][/us/pl/100/242/s112/b/8], struck out “annual” before “contributions”.
+    1988—Subsec. (b). [Pub. L. 100–242][/us/pl/100/242], § 112(b)(8), struck out “annual” before “contributions”.
 
     Subsec. (c). [Pub. L. 100–628][/us/pl/100/628] substituted “shall establish an appropriate specific percentage of lower income families other than very-low income families that may be assisted in each assisted housing program” for “and shall establish, as appropriate, differing percentage limitations on admission of lower income families in separate assisted housing programs” and inserted before period at end of first sentence “, and shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence”.
 
-    [Pub. L. 100–242, § 103][/us/pl/100/242/s103], added subsec. (c).
+    [Pub. L. 100–242][/us/pl/100/242], § 103, added subsec. (c).
 
-    Subsec. (d). [Pub. L. 100–242, § 103][/us/pl/100/242/s103], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–242][/us/pl/100/242], § 103, added subsec. (d).
 
     1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181] increased to 25 from 10 the percentage of dwelling units available for leasing.
 
  __Effective Date of 1998 Amendments__ 
 
-    [Pub. L. 105–277, div. A, § 123][/us/pl/105/277/s123], Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546], provided that the amendment made by [section 123 of Pub. L. 105–277][/us/pl/105/277/s123] is effective upon enactment of [Pub. L. 105–276][/us/pl/105/276].
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 123, Oct. 21, 1998, [112 Stat. 2681–546][/us/stat/112/2681-546], provided that the amendment made by [section 123 of Pub. L. 105–277][/us/pl/105/277/s123] is effective upon enactment of [Pub. L. 105–276][/us/pl/105/276].
 
     Amendment by title V of [Pub. L. 105–276][/us/pl/105/276] effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see [section 503 of Pub. L. 105–276][/us/pl/105/276/s503], set out as a note under [section 1437 of this title][/us/usc/t42/s1437].
 
-[Pub. L. 105–276, title V, § 513(b)][/us/pl/105/276/s513/b], Oct. 21, 1998, [112 Stat. 2547][/us/stat/112/2547], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 513(b), Oct. 21, 1998, [112 Stat. 2547][/us/stat/112/2547], provided that: 
 
 > “This section \[amending this section\] shall take effect on, and the amendments under this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -257,43 +257,43 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
 [/us/usc/t12/s1715z–1/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931%2Ff%2F2
-[/us/pl/105/276/s576/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576%2Fd%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2640
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/97/35/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs323
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F404
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1184
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1822
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/100/628/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1001%2Fa
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3263
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4194
-[/us/pl/102/550/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs105
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3684
-[/us/pl/104/99/s402/d/6/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F6%2FA%2Fv
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F42
-[/us/pl/104/120/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fd
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F837
-[/us/pl/104/330/s501/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F7
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
-[/us/pl/105/276/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs428
+[/us/pl/105/276/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIV
 [/us/stat/112/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2511
-[/us/pl/105/277/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs123
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-546
-[/us/pl/106/74/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs205
+[/us/pl/106/74/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2FtII
 [/us/stat/113/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1069
-[/us/pl/113/76/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb
+[/us/pl/113/76/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdL%2FtII
 [/us/stat/128/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F635
 [/us/usc/t42/s1437d/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fs
 [/us/usc/t42/s1437d/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fr
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2568
 [/us/pl/105/276/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503%2Fa
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
@@ -311,41 +311,41 @@
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F384
-[/us/pl/113/76/s238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb%2F1
-[/us/pl/113/76/s238/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb%2F2
-[/us/pl/113/76/s238/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fb%2F3
-[/us/pl/106/74/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74%2Fs205%2F1
-[/us/pl/105/276/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs513%2Fa
-[/us/pl/105/277/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs123
-[/us/pl/105/276/s576/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576%2Fd%2F2
-[/us/pl/105/276/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs428
-[/us/pl/104/120/s9/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fd%2F1
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/106/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F74
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
-[/us/pl/104/330/s501/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F7%2FA
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
-[/us/pl/104/120/s9/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fd%2F2
-[/us/pl/104/330/s501/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F7%2FB
-[/us/pl/102/550/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs105%2Fa
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437d/c/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fc%2F4%2FA%2Fii
-[/us/pl/102/550/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs105%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs511
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/100/242/s112/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs112%2Fb%2F8
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/pl/100/242/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs103
-[/us/pl/100/242/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs103
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/105/277/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs123
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-546
 [/us/pl/105/277/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs123
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs513%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2547
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107

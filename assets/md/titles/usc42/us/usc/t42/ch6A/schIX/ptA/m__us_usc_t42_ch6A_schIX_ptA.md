@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–278, title IV, § 403(a)][/us/pl/94/278/s403/a], Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407], substituted “Genetic Diseases” for “Sickle Cell Anemia Programs” in part A heading.
+    1976—[Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(a), Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407], substituted “Genetic Diseases” for “Sickle Cell Anemia Programs” in part A heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/278/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fa
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F407
 
 

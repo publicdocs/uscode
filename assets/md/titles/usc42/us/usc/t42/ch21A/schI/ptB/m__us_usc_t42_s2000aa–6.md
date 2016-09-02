@@ -51,7 +51,7 @@
 
         The district courts shall have original jurisdiction of all civil actions arising under this section.
 
-([Pub. L. 96–440, title I, § 106][/us/pl/96/440/s106], Oct. 13, 1980, [94 Stat. 1880][/us/stat/94/1880].)
+([Pub. L. 96–440, title I][/us/pl/96/440/tI], § 106, Oct. 13, 1980, [94 Stat. 1880][/us/stat/94/1880].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/96/440/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs106
+[/us/pl/96/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2FtI
 [/us/stat/94/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1880
 
 

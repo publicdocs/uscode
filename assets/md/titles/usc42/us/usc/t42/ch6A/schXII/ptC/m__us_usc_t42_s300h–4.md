@@ -37,7 +37,7 @@
 
         (3) Before promulgating any rule under paragraph (2), the Administrator shall provide opportunity for public hearing respecting such rule.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1425, as added [Pub. L. 96–502, § 2(a)][/us/pl/96/502/s2/a], Dec. 5, 1980, [94 Stat. 2737][/us/stat/94/2737]; amended [Pub. L. 99–339, title II, § 201(a)][/us/pl/99/339/s201/a], June 19, 1986, [100 Stat. 653][/us/stat/100/653].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1425, as added [Pub. L. 96–502][/us/pl/96/502], § 2(a), Dec. 5, 1980, [94 Stat. 2737][/us/stat/94/2737]; amended [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 201(a), June 19, 1986, [100 Stat. 653][/us/stat/100/653].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t42/s300h–1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%931%2Fb%2F3
 [/us/usc/t42/s300h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/96/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs2%2Fa
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/stat/94/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2737
-[/us/pl/99/339/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fa
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F653
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 

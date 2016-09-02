@@ -99,7 +99,7 @@
 
         With respect to compliance with this section by an agency, a religious organization may obtain judicial review of agency action in accordance with chapter 7 of title 5.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 582, as added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 144\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–620.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 582, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 144\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–620.)
 
  __Codification__ 
 
@@ -114,7 +114,7 @@
 
 [/us/usc/t42/s2000e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s290hh–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290hh%E2%80%931
 

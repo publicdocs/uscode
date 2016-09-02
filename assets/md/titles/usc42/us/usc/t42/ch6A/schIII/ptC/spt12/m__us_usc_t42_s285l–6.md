@@ -17,7 +17,7 @@
 
     The Director of the Institute shall conduct or support research to identify or develop methods of controlling insect and vermin populations that transmit to humans diseases that have significant adverse health consequences.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 463B, as added [Pub. L. 108–75, § 3][/us/pl/108/75/s3], Aug. 15, 2003, [117 Stat. 902][/us/stat/117/902].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 463B, as added [Pub. L. 108–75][/us/pl/108/75], § 3, Aug. 15, 2003, [117 Stat. 902][/us/stat/117/902].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/75/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F75%2Fs3
+[/us/pl/108/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F75
 [/us/stat/117/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F902
 
 

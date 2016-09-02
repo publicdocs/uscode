@@ -81,7 +81,7 @@
 
         No provision of any agreement under [section 7913 of this title][/us/usc/t42/s7913] shall prohibit the Secretary of the Interior, with the concurrence of the Secretary of Energy and the Commission, from disposing of any subsurface mineral rights by sale or lease (in accordance with laws of the United States applicable to the sale, lease, or other disposal of such rights) which are associated with land on which residual radioactive materials are disposed and which are transferred to the United States as required under this section if the Secretary of the Interior takes such action as the Commission deems necessary pursuant to a license issued by the Commission to assure that the residual radioactive materials will not be disturbed by reason of any activity carried on following such disposition. If any such materials are disturbed by any such activity, the Secretary of the Interior shall insure, prior to the disposition of the minerals, that such materials will be restored to a safe and environmentally sound condition as determined by the Commission, and that the costs of such restoration will be borne by the person acquiring such rights from the Secretary of the Interior or from his successor or assign.
 
-([Pub. L. 95–604, title I, § 104][/us/pl/95/604/s104], Nov. 8, 1978, [92 Stat. 3025][/us/stat/92/3025]; [Pub. L. 104–259, § 4(a)][/us/pl/104/259/s4/a], Oct. 9, 1996, [110 Stat. 3174][/us/stat/110/3174].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 104, Nov. 8, 1978, [92 Stat. 3025][/us/stat/92/3025]; [Pub. L. 104–259][/us/pl/104/259], § 4(a), Oct. 9, 1996, [110 Stat. 3174][/us/stat/110/3174].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 [/us/usc/t42/s2022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2022%2Fa
 [/us/usc/t42/s7913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7913
 [/us/usc/t42/s7913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7913
-[/us/pl/95/604/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs104
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3025
-[/us/pl/104/259/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs4%2Fa
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
 [/us/stat/110/3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3174
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021

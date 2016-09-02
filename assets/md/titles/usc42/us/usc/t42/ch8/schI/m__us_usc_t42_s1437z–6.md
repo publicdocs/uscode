@@ -67,7 +67,7 @@
 
         To the extent that there are a sufficient number of qualified applications for assistance under this section, not less than 25 percent of any amounts appropriated to carry out this section shall be provided directly to resident councils, resident organizations, and resident management corporations. In any case in which a resident council, resident organization, or resident management corporation lacks adequate expertise, the Secretary may require the council, organization, or corporation to utilize other qualified organizations as contract administrators with respect to financial assistance provided under this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 34, as added [Pub. L. 105–276, title V, § 538(a)][/us/pl/105/276/s538/a], Oct. 21, 1998, [112 Stat. 2592][/us/stat/112/2592]; amended [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 221(a)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–29.)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 34, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 538(a), Oct. 21, 1998, [112 Stat. 2592][/us/stat/112/2592]; amended [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 221(a)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–29.)
 
  __References in Text__ 
 
@@ -75,15 +75,15 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 221(a)(1)\], substituted “public and Indian housing” for “public housing” in section catchline.
+    2000—[Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 221(a)(1)\], substituted “public and Indian housing” for “public housing” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 221(a)(2)\], inserted “recipients under the Native American Housing Assistance and Self-Determination Act of 1996 (notwithstanding section 502 of such Act) on behalf of residents of housing assisted under such Act,” after “on behalf of public housing residents,” and inserted “and residents of housing assisted under such Act” after “supportive services to public housing residents”.
+    Subsec. (a). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 221(a)(2)\], inserted “recipients under the Native American Housing Assistance and Self-Determination Act of 1996 (notwithstanding section 502 of such Act) on behalf of residents of housing assisted under such Act,” after “on behalf of public housing residents,” and inserted “and residents of housing assisted under such Act” after “supportive services to public housing residents”.
 
-    Subsec. (b). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 221(a)(3)(A), (B)\], in introductory provisions, inserted “or the property of a recipient under such Act or housing assisted under such Act” after “public housing project” and “or residents of housing assisted under such Act” after “public housing residents”.
+    Subsec. (b). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 221(a)(3)(A), (B)\], in introductory provisions, inserted “or the property of a recipient under such Act or housing assisted under such Act” after “public housing project” and “or residents of housing assisted under such Act” after “public housing residents”.
 
-    Subsec. (b)(1). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 221(a)(3)(C)\], inserted “or residents of housing assisted under such Act” after “public housing project”.
+    Subsec. (b)(1). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 221(a)(3)(C)\], inserted “or residents of housing assisted under such Act” after “public housing project”.
 
-    Subsec. (d)(2). [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 221(a)(4)\], substituted “State, local, or tribal government” for “State or local government”.
+    Subsec. (d)(2). [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 221(a)(4)\], substituted “State, local, or tribal government” for “State or local government”.
 
  __Effective Date__ 
 
@@ -91,7 +91,7 @@
 
  __Assessment and Report by Secretary__ 
 
-[Pub. L. 105–276, title V, § 538(b)][/us/pl/105/276/s538/b], Oct. 21, 1998, [112 Stat. 2594][/us/stat/112/2594], as amended by [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 221(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–29, provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 538(b), Oct. 21, 1998, [112 Stat. 2594][/us/stat/112/2594], as amended by [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title II, § 221(b)\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–29, provided that: 
 
 > “Not later than 3 years after the date of the enactment of the Quality Housing and Work Responsibility Act of 1998 \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall—
 
@@ -109,23 +109,23 @@
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/usc/t25/s4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4181
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s538/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs538%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2592
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s538/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs538%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2594
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 

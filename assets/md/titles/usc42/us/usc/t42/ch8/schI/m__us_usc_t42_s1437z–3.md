@@ -45,7 +45,7 @@
 
         This section shall take effect upon the date of the effectiveness of regulations issued by the Secretary to carry out this section. Such regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under [section 553 of title 5][/us/usc/t5/s553] applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 31, as added [Pub. L. 105–276, title V, § 526][/us/pl/105/276/s526], Oct. 21, 1998, [112 Stat. 2568][/us/stat/112/2568].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 31, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 526, Oct. 21, 1998, [112 Stat. 2568][/us/stat/112/2568].)
 
  __Effective Date__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t12/s1701r–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701r%E2%80%931%2Fd
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs526
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2568
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

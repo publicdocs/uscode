@@ -95,7 +95,7 @@
 
             For the purpose of carrying out subsection (b)(2) of this section, there are authorized to be appropriated to the National Institute on Deafness and Other Communication Disorders such sums as may be necessary for fiscal years 2011 through 2015.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399M, as added [Pub. L. 106–310, div. A, title VII, § 702][/us/pl/106/310/s702], Oct. 17, 2000, [114 Stat. 1121][/us/stat/114/1121]; amended [Pub. L. 111–337, § 2][/us/pl/111/337/s2], Dec. 22, 2010, [124 Stat. 3588][/us/stat/124/3588].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399M, as added [Pub. L. 106–310, div. A, title VII][/us/pl/106/310/dA/tVII], § 702, Oct. 17, 2000, [114 Stat. 1121][/us/stat/114/1121]; amended [Pub. L. 111–337][/us/pl/111/337], § 2, Dec. 22, 2010, [124 Stat. 3588][/us/stat/124/3588].)
 
  __References in Text__ 
 
@@ -105,33 +105,33 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–337, § 2(1)][/us/pl/111/337/s2/1], substituted “newborns and infants” for “infants” in section catchline.
+    2010—[Pub. L. 111–337][/us/pl/111/337], § 2(1), substituted “newborns and infants” for “infants” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–337, § 2(2)(A)][/us/pl/111/337/s2/2/A], substituted “screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,” for “screening, evaluation and intervention programs and systems” in introductory provisions.
+    Subsec. (a). [Pub. L. 111–337][/us/pl/111/337], § 2(2)(A), substituted “screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,” for “screening, evaluation and intervention programs and systems” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 111–337, § 2(2)(B)][/us/pl/111/337/s2/2/B], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To develop and monitor the efficacy of state-wide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act, which offer programs specifically designed to meet the unique language and communication needs of deaf and hard of hearing newborns, infants, toddlers, and children.”
+    Subsec. (a)(1). [Pub. L. 111–337][/us/pl/111/337], § 2(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To develop and monitor the efficacy of state-wide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act, which offer programs specifically designed to meet the unique language and communication needs of deaf and hard of hearing newborns, infants, toddlers, and children.”
 
-    Subsec. (a)(3). [Pub. L. 111–337, § 2(2)(C)][/us/pl/111/337/s2/2/C], added par. (3).
+    Subsec. (a)(3). [Pub. L. 111–337][/us/pl/111/337], § 2(2)(C), added par. (3).
 
-    Subsec. (b)(1)(A). [Pub. L. 111–337, § 2(3)][/us/pl/111/337/s2/3], substituted “hearing loss screening, evaluation, diagnosis, and intervention programs” for “hearing loss screening, evaluation, and intervention programs”.
+    Subsec. (b)(1)(A). [Pub. L. 111–337][/us/pl/111/337], § 2(3), substituted “hearing loss screening, evaluation, diagnosis, and intervention programs” for “hearing loss screening, evaluation, and intervention programs”.
 
-    Subsec. (c)(2), (3). [Pub. L. 111–337, § 2(4)][/us/pl/111/337/s2/4], substituted “hearing screening, evaluation, diagnosis, and intervention programs” for “hearing screening, evaluation and intervention programs”.
+    Subsec. (c)(2), (3). [Pub. L. 111–337][/us/pl/111/337], § 2(4), substituted “hearing screening, evaluation, diagnosis, and intervention programs” for “hearing screening, evaluation and intervention programs”.
 
-    Subsec. (e)(3). [Pub. L. 111–337, § 2(5)(A)][/us/pl/111/337/s2/5/A], substituted “ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers.” for “ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, communication options and are given the opportunity to consider the full range of educational and program placements and options for their child.”
+    Subsec. (e)(3). [Pub. L. 111–337][/us/pl/111/337], § 2(5)(A), substituted “ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers.” for “ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, communication options and are given the opportunity to consider the full range of educational and program placements and options for their child.”
 
-    Subsec. (e)(6). [Pub. L. 111–337, § 2(5)(B)][/us/pl/111/337/s2/5/B], struck out “, after rescreening,” after “infants who”.
+    Subsec. (e)(6). [Pub. L. 111–337][/us/pl/111/337], § 2(5)(B), struck out “, after rescreening,” after “infants who”.
 
-    Subsec. (f). [Pub. L. 111–337, § 2(6)][/us/pl/111/337/s2/6], substituted “fiscal years 2011 through 2015” for “fiscal year 2002” in pars. (1) to (3).
+    Subsec. (f). [Pub. L. 111–337][/us/pl/111/337], § 2(6), substituted “fiscal years 2011 through 2015” for “fiscal year 2002” in pars. (1) to (3).
 
  __James T. Walsh Universal Newborn Hearing Screening Program__ 
 
-[Pub. L. 111–8, div. F, title II, § 224][/us/pl/111/8/s224], Mar. 11, 2009, [123 Stat. 784][/us/stat/123/784], provided that: 
+[Pub. L. 111–8, div. F, title II][/us/pl/111/8/dF/tII], § 224, Mar. 11, 2009, [123 Stat. 784][/us/stat/123/784], provided that: 
 
 > “Hereafter, the activities authorized under section 399M of the Public Health Service Act \[[42 U.S.C. 280g–1][/us/usc/t42/s280g–1]\] shall be known as the ‘James T. Walsh Universal Newborn Hearing Screening Program.’ ”
 
  __Purposes__ 
 
-[Pub. L. 106–310, div. A, title VII, § 701][/us/pl/106/310/s701], Oct. 17, 2000, [114 Stat. 1120][/us/stat/114/1120], provided that: 
+[Pub. L. 106–310, div. A, title VII][/us/pl/106/310/dA/tVII], § 701, Oct. 17, 2000, [114 Stat. 1120][/us/stat/114/1120], provided that: 
 
 > “The purposes of this title \[enacting this section\] are to clarify the authority within the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] to authorize statewide newborn and infant hearing screening, evaluation and intervention programs and systems, technical assistance, a national applied research program, and interagency and private sector collaboration for policy development, in order to assist the States in making progress toward the following goals:
 
@@ -159,9 +159,9 @@
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs702
+[/us/pl/106/310/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtVII
 [/us/stat/114/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1121
-[/us/pl/111/337/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
 [/us/stat/124/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3588
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
@@ -169,19 +169,19 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/337/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F1
-[/us/pl/111/337/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F2%2FA
-[/us/pl/111/337/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F2%2FB
-[/us/pl/111/337/s2/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F2%2FC
-[/us/pl/111/337/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F3
-[/us/pl/111/337/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F4
-[/us/pl/111/337/s2/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F5%2FA
-[/us/pl/111/337/s2/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F5%2FB
-[/us/pl/111/337/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337%2Fs2%2F6
-[/us/pl/111/8/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs224
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F337
+[/us/pl/111/8/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtII
 [/us/stat/123/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F784
 [/us/usc/t42/s280g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%931
-[/us/pl/106/310/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs701
+[/us/pl/106/310/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtVII
 [/us/stat/114/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1120
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 

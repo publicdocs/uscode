@@ -39,7 +39,7 @@
 
     (11) An effective Federal program in earthquake hazards reduction will require input from and review by persons outside the Federal Government expert in the sciences of earthquake hazards reduction and in the practical application of earthquake hazards reduction measures.
 
-([Pub. L. 95–124, § 2][/us/pl/95/124/s2], Oct. 7, 1977, [91 Stat. 1098][/us/stat/91/1098]; [Pub. L. 101–614, § 2][/us/pl/101/614/s2], Nov. 16, 1990, [104 Stat. 3231][/us/stat/104/3231].)
+([Pub. L. 95–124][/us/pl/95/124], § 2, Oct. 7, 1977, [91 Stat. 1098][/us/stat/91/1098]; [Pub. L. 101–614][/us/pl/101/614], § 2, Nov. 16, 1990, [104 Stat. 3231][/us/stat/104/3231].)
 
  __Amendments__ 
 
@@ -51,25 +51,25 @@
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–360, title I, § 101][/us/pl/108/360/s101], Oct. 25, 2004, [118 Stat. 1668][/us/stat/118/1668], provided that: 
+[Pub. L. 108–360, title I][/us/pl/108/360/tI], § 101, Oct. 25, 2004, [118 Stat. 1668][/us/stat/118/1668], provided that: 
 
 > “This title \[amending sections 7703, 7704, and 7706 to 7708 of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act of 2004’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–503, title II, § 201][/us/pl/106/503/s201], Nov. 13, 2000, [114 Stat. 2304][/us/stat/114/2304], provided that: 
+[Pub. L. 106–503, title II][/us/pl/106/503/tII], § 201, Nov. 13, 2000, [114 Stat. 2304][/us/stat/114/2304], provided that: 
 
 > “This title \[enacting sections 7707 to 7709 of this title, amending sections 7703, 7704, and 7706 of this title, repealing [section 7705d of this title][/us/usc/t42/s7705d], enacting provisions set out as a note under this section, and amending provisions set out as a note under [section 7704 of this title][/us/usc/t42/s7704]\] may be cited as the ‘Earthquake Hazards Reduction Authorization Act of 2000’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–614, § 1][/us/pl/101/614/s1], Nov. 16, 1990, [104 Stat. 3231][/us/stat/104/3231], provided that: 
+[Pub. L. 101–614][/us/pl/101/614], § 1, Nov. 16, 1990, [104 Stat. 3231][/us/stat/104/3231], provided that: 
 
 > “This Act \[enacting sections 7705a to 7705e, amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act’.”
 
  __Short Title__ 
 
-[Pub. L. 95–124, § 1][/us/pl/95/124/s1], Oct. 7, 1977, [91 Stat. 1098][/us/stat/91/1098], provided: 
+[Pub. L. 95–124][/us/pl/95/124], § 1, Oct. 7, 1977, [91 Stat. 1098][/us/stat/91/1098], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Earthquake Hazards Reduction Act of 1977’.”
 
@@ -79,7 +79,7 @@
 
  __Report on At-Risk Populations__ 
 
-    [Pub. L. 106–503, title II, § 207][/us/pl/106/503/s207], Nov. 13, 2000, [114 Stat. 2307][/us/stat/114/2307], required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
+    [Pub. L. 106–503, title II][/us/pl/106/503/tII], § 207, Nov. 13, 2000, [114 Stat. 2307][/us/stat/114/2307], required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
 
 ----------
 
@@ -88,23 +88,23 @@
 ----------
 ----------
 
-[/us/pl/95/124/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs2
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
 [/us/stat/91/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1098
-[/us/pl/101/614/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs2
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3231
 [/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
-[/us/pl/108/360/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs101
+[/us/pl/108/360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtI
 [/us/stat/118/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1668
-[/us/pl/106/503/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs201
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2304
 [/us/usc/t42/s7705d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705d
 [/us/usc/t42/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704
-[/us/pl/101/614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs1
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3231
-[/us/pl/95/124/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs1
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
 [/us/stat/91/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1098
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/106/503/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs207
+[/us/pl/106/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtII
 [/us/stat/114/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2307
 
 

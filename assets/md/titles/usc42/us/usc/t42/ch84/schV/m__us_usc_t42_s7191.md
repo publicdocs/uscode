@@ -61,7 +61,7 @@
 
         Where authorized by any law vested, transferred, or delegated pursuant to this chapter, the Secretary may, by rule, prescribe procedures for State or local government agencies authorized by the Secretary to carry out such functions as may be permitted under applicable law. Such procedures shall apply to such agencies in lieu of this section, and shall require that prior to taking any action, such agencies shall take steps reasonably calculated to provide notice to persons who may be affected by the action, and shall afford an opportunity for presentation of views (including oral presentation of views where practicable) within a reasonable time before taking the action.
 
-([Pub. L. 95–91, title V, § 501][/us/pl/95/91/s501], Aug. 4, 1977, [91 Stat. 587][/us/stat/91/587]; [Pub. L. 105–28, § 2(a)][/us/pl/105/28/s2/a], July 18, 1997, [111 Stat. 245][/us/stat/111/245].)
+([Pub. L. 95–91, title V][/us/pl/95/91/tV], § 501, Aug. 4, 1977, [91 Stat. 587][/us/stat/91/587]; [Pub. L. 105–28][/us/pl/105/28], § 2(a), July 18, 1997, [111 Stat. 245][/us/stat/111/245].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Amendments__ 
 
-    1997—Subsec. (b). [Pub. L. 105–28, § 2(a)(1)][/us/pl/105/28/s2/a/1], (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+    1997—Subsec. (b). [Pub. L. 105–28][/us/pl/105/28], § 2(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
     “(1) In addition to the requirements of subsection (a) of this section, notice of any proposed rule, regulation, or order described in subsection (a) of this section shall be given by publication of such proposed rule, regulation, or order in the Federal Register. Such publication shall be accompanied by a statement of the research, analysis, and other available information in support of, the need for, and the probable effect of, any such proposed rule, regulation, or order. Other effective means of publicity shall be utilized as may be reasonably calculated to notify concerned or affected persons of the nature and probable effect of any such proposed rule, regulation, or order. In each case, a minimum of thirty days following such publication shall be provided for an opportunity to comment prior to promulgation of any such rule, regulation, or order.
 
@@ -77,11 +77,11 @@
 
     “(3) For the purposes of this subchapter, the exception from the requirements of [section 553 of title 5][/us/usc/t5/s553] provided by subsection (a)(2) of such section with respect to public property, loans, grants, or contracts shall not be available.”
 
-    Subsec. (c). [Pub. L. 105–28, § 2(a)(2)][/us/pl/105/28/s2/a/2], (3), redesignated subsec. (e) as (c) and substituted “subsection (b)” for “subsections (b), (c), and (d)”. Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 105–28][/us/pl/105/28], § 2(a)(2), (3), redesignated subsec. (e) as (c) and substituted “subsection (b)” for “subsections (b), (c), and (d)”. Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 105–28, § 2(a)(1)][/us/pl/105/28/s2/a/1], (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Following the notice and comment period, including any oral presentation required by this subsection, the Secretary may promulgate a rule if the rule is accompanied by an explanation responding to the major comments, criticisms, and alternatives offered during the comment period.”
+    Subsec. (d). [Pub. L. 105–28][/us/pl/105/28], § 2(a)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Following the notice and comment period, including any oral presentation required by this subsection, the Secretary may promulgate a rule if the rule is accompanied by an explanation responding to the major comments, criticisms, and alternatives offered during the comment period.”
 
-    Subsecs. (e) to (g). [Pub. L. 105–28, § 2(a)(2)][/us/pl/105/28/s2/a/2], redesignated subsecs. (e) to (g) as (c) to (e), respectively.
+    Subsecs. (e) to (g). [Pub. L. 105–28][/us/pl/105/28], § 2(a)(2), redesignated subsecs. (e) to (g) as (c) to (e), respectively.
 
 ----------
 
@@ -94,17 +94,17 @@
 [/us/usc/t42/s7172/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fc%2F1
 [/us/usc/t42/s7172/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fe
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/95/91/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs501
+[/us/pl/95/91/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtV
 [/us/stat/91/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F587
-[/us/pl/105/28/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs2%2Fa
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
 [/us/stat/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F245
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
-[/us/pl/105/28/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs2%2Fa%2F1
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/105/28/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs2%2Fa%2F2
-[/us/pl/105/28/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs2%2Fa%2F1
-[/us/pl/105/28/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs2%2Fa%2F2
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
 
 

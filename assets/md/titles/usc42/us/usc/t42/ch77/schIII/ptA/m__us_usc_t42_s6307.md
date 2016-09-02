@@ -69,7 +69,7 @@
 
         (6) There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
 
-([Pub. L. 94–163, title III, § 337][/us/pl/94/163/s337], Dec. 22, 1975, [89 Stat. 931][/us/stat/89/931]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 102–486, title I, § 123(i)][/us/pl/102/486/s123/i], Oct. 24, 1992, [106 Stat. 2831][/us/stat/106/2831]; [Pub. L. 109–58, title I, § 132][/us/pl/109/58/s132], Aug. 8, 2005, [119 Stat. 621][/us/stat/119/621].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 337, Dec. 22, 1975, [89 Stat. 931][/us/stat/89/931]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(i), Oct. 24, 1992, [106 Stat. 2831][/us/stat/106/2831]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 132, Aug. 8, 2005, [119 Stat. 621][/us/stat/119/621].)
 
  __Amendments__ 
 
@@ -91,13 +91,13 @@
 ----------
 
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/94/163/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs337
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F931
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
-[/us/pl/102/486/s123/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fi
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2831
-[/us/pl/109/58/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs132
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F621
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

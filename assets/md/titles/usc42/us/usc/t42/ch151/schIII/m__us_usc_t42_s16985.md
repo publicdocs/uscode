@@ -99,7 +99,7 @@
 
         There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2007 through 2010.
 
-([Pub. L. 109–248, title VI, § 628][/us/pl/109/248/s628], July 27, 2006, [120 Stat. 638][/us/stat/120/638].)
+([Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 628, July 27, 2006, [120 Stat. 638][/us/stat/120/638].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 ----------
 
 [/us/usc/t42/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601
-[/us/pl/109/248/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs628
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F638
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2170

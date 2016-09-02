@@ -145,33 +145,33 @@
 
         The Administrator shall review new analytical methods to screen for regulated contaminants and may approve such methods as are more accurate or cost-effective than established reference methods for use in compliance monitoring.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1445, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1686][/us/stat/88/1686]; amended [Pub. L. 95–190, § 12(c)][/us/pl/95/190/s12/c], (d), Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398]; [Pub. L. 99–339, title I, § 106][/us/pl/99/339/s106], title III, § 301(h), June 19, 1986, [100 Stat. 650][/us/stat/100/650], 665; [Pub. L. 100–572, § 5][/us/pl/100/572/s5], Oct. 31, 1988, [102 Stat. 2889][/us/stat/102/2889]; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 111(b), 125(a), (c), (d), 126, Aug. 6, 1996, [110 Stat. 1633][/us/stat/110/1633], 1653, 1656–1658.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1445, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1686][/us/stat/88/1686]; amended [Pub. L. 95–190][/us/pl/95/190], § 12(c), (d), Nov. 16, 1977, [91 Stat. 1398][/us/stat/91/1398]; [Pub. L. 99–339, title I][/us/pl/99/339/tI], § 106, title III, § 301(h), June 19, 1986, [100 Stat. 650][/us/stat/100/650], 665; [Pub. L. 100–572][/us/pl/100/572], § 5, Oct. 31, 1988, [102 Stat. 2889][/us/stat/102/2889]; [Pub. L. 104–182, title I][/us/pl/104/182/tI], §§ 111(b), 125(a), (c), (d), 126, Aug. 6, 1996, [110 Stat. 1633][/us/stat/110/1633], 1653, 1656–1658.)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–182, § 125(a)][/us/pl/104/182/s125/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every person who is a supplier of water, who is or may be otherwise subject to a primary drinking water regulation prescribed under [section 300g–1 of this title][/us/usc/t42/s300g–1] or to an applicable underground injection control program (as defined in [section 300h–1(c) of this title][/us/usc/t42/s300h–1/c]), who is or may be subject to the permit requirement of [section 300h–3 of this title][/us/usc/t42/s300h–3], or to an order issued under [section 300j of this title][/us/usc/t42/s300j], or who is a grantee, shall establish and maintain such records, make such reports, conduct such monitoring, and provide such information as the Administrator may reasonably require by regulation to assist him in establishing regulations under this subchapter, in determining whether such person has acted or is acting in compliance with this subchapter in administering any program of financial assistance under this subchapter, in evaluating the health risks of unregulated contaminants, or in advising the public of such risks. In requiring a public water system to monitor under this subsection, the Administrator may take into consideration the system size and the contaminants likely to be found in the system’s drinking water.”
+    1996—Subsec. (a)(1). [Pub. L. 104–182][/us/pl/104/182], § 125(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every person who is a supplier of water, who is or may be otherwise subject to a primary drinking water regulation prescribed under [section 300g–1 of this title][/us/usc/t42/s300g–1] or to an applicable underground injection control program (as defined in [section 300h–1(c) of this title][/us/usc/t42/s300h–1/c]), who is or may be subject to the permit requirement of [section 300h–3 of this title][/us/usc/t42/s300h–3], or to an order issued under [section 300j of this title][/us/usc/t42/s300j], or who is a grantee, shall establish and maintain such records, make such reports, conduct such monitoring, and provide such information as the Administrator may reasonably require by regulation to assist him in establishing regulations under this subchapter, in determining whether such person has acted or is acting in compliance with this subchapter in administering any program of financial assistance under this subchapter, in evaluating the health risks of unregulated contaminants, or in advising the public of such risks. In requiring a public water system to monitor under this subsection, the Administrator may take into consideration the system size and the contaminants likely to be found in the system’s drinking water.”
 
-    Subsec. (a)(2) to (8). [Pub. L. 104–182, § 125(c)][/us/pl/104/182/s125/c], added heading and text of par. (2) and struck out former pars. (2) to (8) which directed Administrator, not later than 18 months after June 19, 1986, to promulgate regulations requiring every public water system to conduct a monitoring program for unregulated contaminants, specified contents of regulations, provided for reporting and notification of availability of results of monitoring, waiver of monitoring requirements, and compliance by small systems, and authorized appropriations for fiscal year ending Sept. 30, 1987.
+    Subsec. (a)(2) to (8). [Pub. L. 104–182][/us/pl/104/182], § 125(c), added heading and text of par. (2) and struck out former pars. (2) to (8) which directed Administrator, not later than 18 months after June 19, 1986, to promulgate regulations requiring every public water system to conduct a monitoring program for unregulated contaminants, specified contents of regulations, provided for reporting and notification of availability of results of monitoring, waiver of monitoring requirements, and compliance by small systems, and authorized appropriations for fiscal year ending Sept. 30, 1987.
 
-    Subsec. (g). [Pub. L. 104–182, § 126][/us/pl/104/182/s126], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–182][/us/pl/104/182], § 126, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 104–182, § 111(b)][/us/pl/104/182/s111/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–182][/us/pl/104/182], § 111(b), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 104–182, § 125(d)][/us/pl/104/182/s125/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–182][/us/pl/104/182], § 125(d), added subsec. (i).
 
     1988—Subsec. (f). [Pub. L. 100–572][/us/pl/100/572] added subsec. (f).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–339, § 106(a)][/us/pl/99/339/s106/a], (b), designated existing provisions as par. (1) and inserted provisions permitting Administrator to consider size of system and contaminants likely to be found.
+    1986—Subsec. (a)(1). [Pub. L. 99–339][/us/pl/99/339], § 106(a), (b), designated existing provisions as par. (1) and inserted provisions permitting Administrator to consider size of system and contaminants likely to be found.
 
-    Subsec. (a)(2) to (7). [Pub. L. 99–339, § 106(b)][/us/pl/99/339/s106/b], added pars. (2) to (7).
+    Subsec. (a)(2) to (7). [Pub. L. 99–339][/us/pl/99/339], § 106(b), added pars. (2) to (7).
 
-    Subsec. (a)(8). [Pub. L. 99–339, § 301(h)][/us/pl/99/339/s301/h], added par. (8).
+    Subsec. (a)(8). [Pub. L. 99–339][/us/pl/99/339], § 301(h), added par. (8).
 
-    Subsec. (c). [Pub. L. 99–339, § 106(c)][/us/pl/99/339/s106/c], substituted “shall be subject to a civil penalty of not to exceed $25,000” for “may be fined not more than $5,000”.
+    Subsec. (c). [Pub. L. 99–339][/us/pl/99/339], § 106(c), substituted “shall be subject to a civil penalty of not to exceed $25,000” for “may be fined not more than $5,000”.
 
-    1977—Subsec. (a). [Pub. L. 95–190, § 12(c)][/us/pl/95/190/s12/c], inserted provisions relating to evaluating and advising of health risks of unregulated contaminants.
+    1977—Subsec. (a). [Pub. L. 95–190][/us/pl/95/190], § 12(c), inserted provisions relating to evaluating and advising of health risks of unregulated contaminants.
 
-    Subsec. (b)(1). [Pub. L. 95–190, § 12(d)][/us/pl/95/190/s12/d], designated existing provisions as cls. (A) and (B) and added cl. (C) and reference to such cls. (A) to (C).
+    Subsec. (b)(1). [Pub. L. 95–190][/us/pl/95/190], § 12(d), designated existing provisions as cls. (A) and (B) and added cl. (C) and reference to such cls. (A) to (C).
 
 ----------
 
@@ -187,31 +187,31 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s300g–1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931%2Fb%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1686
-[/us/pl/95/190/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs12%2Fc
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1398
-[/us/pl/99/339/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs106
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F650
-[/us/pl/100/572/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs5
+[/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
 [/us/stat/102/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2889
-[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1633
-[/us/pl/104/182/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs125%2Fa
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
 [/us/usc/t42/s300h–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%931%2Fc
 [/us/usc/t42/s300h–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%933
 [/us/usc/t42/s300j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j
-[/us/pl/104/182/s125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs125%2Fc
-[/us/pl/104/182/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs126
-[/us/pl/104/182/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs111%2Fb
-[/us/pl/104/182/s125/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs125%2Fd
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
-[/us/pl/99/339/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs106%2Fa
-[/us/pl/99/339/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs106%2Fb
-[/us/pl/99/339/s301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs301%2Fh
-[/us/pl/99/339/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs106%2Fc
-[/us/pl/95/190/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs12%2Fc
-[/us/pl/95/190/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs12%2Fd
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

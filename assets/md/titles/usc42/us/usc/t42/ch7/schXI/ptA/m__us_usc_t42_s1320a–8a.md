@@ -63,7 +63,7 @@
 
         The Commissioner of Social Security shall consult with the Inspector General of the Social Security Administration regarding initiating actions under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1129A, as added [Pub. L. 106–169, title II, § 207(a)][/us/pl/106/169/s207/a], Dec. 14, 1999, [113 Stat. 1837][/us/stat/113/1837]; amended [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title V, § 518(b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–74; [Pub. L. 108–203, title II, § 201(a)(2)][/us/pl/108/203/s201/a/2], Mar. 2, 2004, [118 Stat. 508][/us/stat/118/508].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1129A, as added [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 207(a), Dec. 14, 1999, [113 Stat. 1837][/us/stat/113/1837]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title V, § 518(b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–74; [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 201(a)(2), Mar. 2, 2004, [118 Stat. 508][/us/stat/118/508].)
 
  __References in Text__ 
 
@@ -79,11 +79,11 @@
 
     that the person knows or should know is false or misleading or knows or should know omits a material fact or who makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security.”
 
-    2000—Subsec. (e). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title V, § 518(b)(2)(B), (D)\], inserted “1010a or” after “agreement under section” and “, as the case may be” before period at end.
+    2000—Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title V, § 518(b)(2)(B), (D)\], inserted “1010a or” after “agreement under section” and “, as the case may be” before period at end.
 
-    [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title V, § 518(b)(2)(C)\], which directed the amendment of subsec. (e) by inserting “1010A or” before “1382(e)(a)”, could not be executed because “1382(e)(a)” does not appear in text.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title V, § 518(b)(2)(C)\], which directed the amendment of subsec. (e) by inserting “1010A or” before “1382(e)(a)”, could not be executed because “1382(e)(a)” does not appear in text.
 
-    [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title V, § 518(b)(2)(A)\], which directed the amendment of subsec. (e) by inserting “VIII or” after “benefits under”, was executed by making the insertion after “benefits under subchapter” to reflect the probable intent of Congress.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title V, § 518(b)(2)(A)\], which directed the amendment of subsec. (e) by inserting “VIII or” after “benefits under”, was executed by making the insertion after “benefits under subchapter” to reflect the probable intent of Congress.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -95,7 +95,7 @@
 
  __Regulations__ 
 
-[Pub. L. 106–169, title II, § 207(d)][/us/pl/106/169/s207/d], Dec. 14, 1999, [113 Stat. 1838][/us/stat/113/1838], provided that: 
+[Pub. L. 106–169, title II][/us/pl/106/169/tII], § 207(d), Dec. 14, 1999, [113 Stat. 1838][/us/stat/113/1838], provided that: 
 
 > “Within 6 months after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall develop regulations that prescribe the administrative process for making determinations under section 1129A of the Social Security Act \[[42 U.S.C. 1320a–8a][/us/usc/t42/s1320a–8a]\] (including when the applicable period in subsection (c) of such section shall commence), and shall provide guidance on the exercise of discretion as to whether the penalty should be imposed in particular cases.”
 
@@ -108,26 +108,26 @@
 
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/169/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs207%2Fa
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1837
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/203/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs201%2Fa%2F2
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F508
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/stat/87/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F155
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/108/203/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs201%2Fd
 [/us/usc/t42/s1320a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%938
 [/us/pl/106/169/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs207%2Fe
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/106/169/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs207%2Fd
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1838
 [/us/usc/t42/s1320a–8a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%938a
 

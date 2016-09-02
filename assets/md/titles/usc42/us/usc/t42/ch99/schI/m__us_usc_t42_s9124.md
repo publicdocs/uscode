@@ -53,7 +53,7 @@
 
         Nothing in this section shall restrict any right which any person or class of persons may have under any statute or common law to seek enforcement or to seek any other relief.
 
-([Pub. L. 96–320, title I, § 114][/us/pl/96/320/s114], Aug. 3, 1980, [94 Stat. 990][/us/stat/94/990].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 114, Aug. 3, 1980, [94 Stat. 990][/us/stat/94/990].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs114
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F990
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

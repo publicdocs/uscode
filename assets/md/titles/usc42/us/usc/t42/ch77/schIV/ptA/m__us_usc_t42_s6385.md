@@ -17,7 +17,7 @@
 
     The President or his delegate shall, pursuant to authority otherwise available to the President or his delegate under any other provision of law, collect information on the pricing, supply, and distribution of petroleum products by product category at the wholesale and retail levels, on a State-by-State basis, which was collected as of September 1, 1981, by the Energy Information Administration.
 
-([Pub. L. 94–163, title V, § 507][/us/pl/94/163/s507], as added [Pub. L. 97–229, § 5(a)][/us/pl/97/229/s5/a], Aug. 3, 1982, [96 Stat. 252][/us/stat/96/252].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 507, as added [Pub. L. 97–229][/us/pl/97/229], § 5(a), Aug. 3, 1982, [96 Stat. 252][/us/stat/96/252].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs507
-[/us/pl/97/229/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs5%2Fa
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/stat/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F252
 
 

@@ -41,19 +41,19 @@
 
         A project sponsor providing rental assistance under this section may use amounts from any grant received under this section for administrative expenses involved in providing such assistance, subject to the provisions of 12905(g)(2)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of this title.
 
-([Pub. L. 101–625, title VIII, § 859][/us/pl/101/625/s859], Nov. 28, 1990, [104 Stat. 4381][/us/stat/104/4381]; [Pub. L. 102–550, title VI, § 606(h)(1)][/us/pl/102/550/s606/h/1], (j)(6), (7), (11)(D), Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810], 3811.)
+([Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 859, Nov. 28, 1990, [104 Stat. 4381][/us/stat/104/4381]; [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 606(h)(1), (j)(6), (7), (11)(D), Oct. 28, 1992, [106 Stat. 3810][/us/stat/106/3810], 3811.)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–550, § 606(h)(1)(A)][/us/pl/102/550/s606/h/1/A], substituted “Rental assistance” for “Short-term rental assistance” in section catchline.
+    1992—[Pub. L. 102–550][/us/pl/102/550], § 606(h)(1)(A), substituted “Rental assistance” for “Short-term rental assistance” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 102–550, § 606(h)(1)(B)][/us/pl/102/550/s606/h/1/B], (j)(11)(D), struck out “short-term” before “rental assistance” and substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases”.
+    Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550], § 606(h)(1)(B), (j)(11)(D), struck out “short-term” before “rental assistance” and substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases”.
 
-    Subsec. (b)(1). [Pub. L. 102–550, § 606(j)(6)][/us/pl/102/550/s606/j/6], substituted “eligible persons” for “individuals”.
+    Subsec. (b)(1). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(6), substituted “eligible persons” for “individuals”.
 
-    Subsec. (b)(2). [Pub. L. 102–550, § 606(j)(7)][/us/pl/102/550/s606/j/7], inserted “with acquired immunodeficiency syndrome or related diseases” after “any individual”.
+    Subsec. (b)(2). [Pub. L. 102–550][/us/pl/102/550], § 606(j)(7), inserted “with acquired immunodeficiency syndrome or related diseases” after “any individual”.
 
-    Subsec. (c). [Pub. L. 102–550, § 606(h)(1)(C)][/us/pl/102/550/s606/h/1/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 606(h)(1)(C), added subsec. (c).
 
 ----------
 
@@ -66,14 +66,14 @@
 [/us/usc/t42/s1437f/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fp
 [/us/usc/t42/s1437f/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fp
 [/us/usc/t42/s1437f/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fp
-[/us/pl/101/625/s859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs859
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4381
-[/us/pl/102/550/s606/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fh%2F1
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3810
-[/us/pl/102/550/s606/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fh%2F1%2FA
-[/us/pl/102/550/s606/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fh%2F1%2FB
-[/us/pl/102/550/s606/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F6
-[/us/pl/102/550/s606/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fj%2F7
-[/us/pl/102/550/s606/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs606%2Fh%2F1%2FC
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

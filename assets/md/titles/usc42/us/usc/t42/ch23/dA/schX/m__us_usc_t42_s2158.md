@@ -61,7 +61,7 @@
 
             (D) such a waiver is essential to prevent or respond to a serious radiological hazard in the country receiving the waiver that may or does threaten public health and safety.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 129, as added [Pub. L. 95–242, title III, § 307][/us/pl/95/242/s307], Mar. 10, 1978, [92 Stat. 138][/us/stat/92/138]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–437, § 15(f)(5)][/us/pl/103/437/s15/f/5], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 109–58, title VI, § 632(a)][/us/pl/109/58/s632/a], Aug. 8, 2005, [119 Stat. 788][/us/stat/119/788]; [Pub. L. 110–369, title II, § 203][/us/pl/110/369/s203], Oct. 8, 2008, [122 Stat. 4033][/us/stat/122/4033].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 129, as added [Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 307, Mar. 10, 1978, [92 Stat. 138][/us/stat/92/138]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; amended [Pub. L. 103–437][/us/pl/103/437], § 15(f)(5), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 632(a), Aug. 8, 2005, [119 Stat. 788][/us/stat/119/788]; [Pub. L. 110–369, title II][/us/pl/110/369/tII], § 203, Oct. 8, 2008, [122 Stat. 4033][/us/stat/122/4033].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title VI, § 632(b)][/us/pl/109/58/s632/b], Aug. 8, 2005, [119 Stat. 789][/us/stat/119/789], provided that: 
+[Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 632(b), Aug. 8, 2005, [119 Stat. 789][/us/stat/119/789], provided that: 
 
 > “Subsection b. of section 129 of Atomic Energy Act of 1954 \[[42 U.S.C. 2158(b)][/us/usc/t42/s2158/b]\], as added by subsection (a) of this section, shall apply with respect to exports that have been approved for transfer as of the date of the enactment of this Act \[Aug. 8, 2005\] but have not yet been transferred as of that date.”
 
@@ -105,20 +105,20 @@
 [/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/95/242/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs307
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F138
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/437/s15/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F5
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
-[/us/pl/109/58/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs632%2Fa
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F788
-[/us/pl/110/369/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs203
+[/us/pl/110/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2FtII
 [/us/stat/122/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4033
 [/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/109/58/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs632%2Fb
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F789
 [/us/usc/t42/s2158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2158%2Fb
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc

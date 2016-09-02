@@ -87,7 +87,7 @@
 
             (B) to limit or otherwise affect any other individual rights or state obligations which may arise under United States law or international agreements to which the United States is a party, including the Geneva Conventions, or to state all of the situations under which notification to and access for the International Committee of the Red Cross is required or allowed.
 
-([Pub. L. 114–92, div. A, title X, § 1045][/us/pl/114/92/s1045], Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977].)
+([Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1045, Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1045
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F977
 [/us/usc/t42/s2000dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd
 

@@ -17,7 +17,7 @@
 
     For the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish (1) medical assistance on behalf of families with dependent children and of aged, blind, or disabled individuals, whose income and resources are insufficient to meet the costs of necessary medical services, and (2) rehabilitation and other services to help such families and individuals attain or retain capability for independence or self-care, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans for medical assistance.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1901, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 343][/us/stat/79/343]; amended [Pub. L. 93–233, § 13(a)(1)][/us/pl/93/233/s13/a/1], Dec. 31, 1973, [87 Stat. 960][/us/stat/87/960]; [Pub. L. 98–369, div. B, title VI, § 2663(j)(3)(C)][/us/pl/98/369/s2663/j/3/C], July 18, 1984, [98 Stat. 1171][/us/stat/98/1171].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1901, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 121(a), July 30, 1965, [79 Stat. 343][/us/stat/79/343]; amended [Pub. L. 93–233][/us/pl/93/233], § 13(a)(1), Dec. 31, 1973, [87 Stat. 960][/us/stat/87/960]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(j)(3)(C), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171].)
 
  __Codification__ 
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs121%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F343
-[/us/pl/93/233/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs13%2Fa%2F1
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F960
-[/us/pl/98/369/s2663/j/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F3%2FC
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

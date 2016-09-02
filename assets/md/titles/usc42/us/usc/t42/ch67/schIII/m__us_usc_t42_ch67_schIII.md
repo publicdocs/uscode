@@ -21,9 +21,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–320, title I, § 131][/us/pl/111/320/s131], Dec. 20, 2010, [124 Stat. 3478][/us/stat/124/3478], substituted “COMMUNITY-BASED” for “COMMUNITY–BASED” in subchapter heading.
+    2010—[Pub. L. 111–320, title I][/us/pl/111/320/tI], § 131, Dec. 20, 2010, [124 Stat. 3478][/us/stat/124/3478], substituted “COMMUNITY-BASED” for “COMMUNITY–BASED” in subchapter heading.
 
-    2003—[Pub. L. 108–36, title I, § 121(c)][/us/pl/108/36/s121/c], June 25, 2003, [117 Stat. 814][/us/stat/117/814], substituted “COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND NEGLECT” for “COMMUNITY-BASED FAMILY RESOURCE AND SUPPORT GRANTS” in subchapter heading.
+    2003—[Pub. L. 108–36, title I][/us/pl/108/36/tI], § 121(c), June 25, 2003, [117 Stat. 814][/us/stat/117/814], substituted “COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND NEGLECT” for “COMMUNITY-BASED FAMILY RESOURCE AND SUPPORT GRANTS” in subchapter heading.
 
 ----------
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/pl/93/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247
-[/us/pl/111/320/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs131
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3478
-[/us/pl/108/36/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs121%2Fc
+[/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F814
 
 

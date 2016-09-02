@@ -155,7 +155,7 @@
 
             The net balance in the employment security administration account as of the beginning of any fiscal year shall be determined after the disposition of the excess in such account as of the close of the preceding fiscal year.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 901, as added [Aug. 5, 1954, ch. 657, § 2][/us/act/1954-08-05/ch657/s2], [68 Stat. 668][/us/stat/68/668]; amended [Pub. L. 86–778, title V, § 521][/us/pl/86/778/s521], Sept. 13, 1960, [74 Stat. 970][/us/stat/74/970]; [Pub. L. 87–31, § 7][/us/pl/87/31/s7], May 8, 1961, [75 Stat. 78][/us/stat/75/78]; [Pub. L. 88–31, § 1][/us/pl/88/31/s1], May 29, 1963, [77 Stat. 51][/us/stat/77/51]; [Pub. L. 91–53, § 3][/us/pl/91/53/s3], Aug. 7, 1969, [83 Stat. 93][/us/stat/83/93]; [Pub. L. 91–373, title III, § 303][/us/pl/91/373/s303], Aug. 10, 1970, [84 Stat. 713][/us/stat/84/713]; [Pub. L. 94–273, § 39][/us/pl/94/273/s39], Apr. 21, 1976, [90 Stat. 381][/us/stat/90/381]; [Pub. L. 94–566, title II, § 211(e)(1)][/us/pl/94/566/s211/e/1] \[(c)(1)\], Oct. 20, 1976, [90 Stat. 2676][/us/stat/90/2676]; [Pub. L. 97–248, title II, § 271(b)(2)(A)][/us/pl/97/248/s271/b/2/A], (c)(3)(D), Sept. 3, 1982, [96 Stat. 554][/us/stat/96/554], 555; [Pub. L. 98–369, div. B, title VI, § 2663(d)(1)][/us/pl/98/369/s2663/d/1], (2), July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 100–203, title IX, § 9154(a)][/us/pl/100/203/s9154/a], (c)(2), Dec. 22, 1987, [101 Stat. 1330–326][/us/stat/101/1330-326]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–318, title V, § 531(d)(1)][/us/pl/102/318/s531/d/1], (2), July 3, 1992, [106 Stat. 316][/us/stat/106/316], 317; [Pub. L. 105–33, title V, § 5408][/us/pl/105/33/s5408], Aug. 5, 1997, [111 Stat. 605][/us/stat/111/605].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 901, as added [Aug. 5, 1954, ch. 657][/us/act/1954-08-05/ch657], § 2, [68 Stat. 668][/us/stat/68/668]; amended [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 521, Sept. 13, 1960, [74 Stat. 970][/us/stat/74/970]; [Pub. L. 87–31][/us/pl/87/31], § 7, May 8, 1961, [75 Stat. 78][/us/stat/75/78]; [Pub. L. 88–31][/us/pl/88/31], § 1, May 29, 1963, [77 Stat. 51][/us/stat/77/51]; [Pub. L. 91–53][/us/pl/91/53], § 3, Aug. 7, 1969, [83 Stat. 93][/us/stat/83/93]; [Pub. L. 91–373, title III][/us/pl/91/373/tIII], § 303, Aug. 10, 1970, [84 Stat. 713][/us/stat/84/713]; [Pub. L. 94–273][/us/pl/94/273], § 39, Apr. 21, 1976, [90 Stat. 381][/us/stat/90/381]; [Pub. L. 94–566, title II][/us/pl/94/566/tII], § 211(e)(1) \[(c)(1)\], Oct. 20, 1976, [90 Stat. 2676][/us/stat/90/2676]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 271(b)(2)(A), (c)(3)(D), Sept. 3, 1982, [96 Stat. 554][/us/stat/96/554], 555; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(d)(1), (2), July 18, 1984, [98 Stat. 1167][/us/stat/98/1167]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9154(a), (c)(2), Dec. 22, 1987, [101 Stat. 1330–326][/us/stat/101/1330-326]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–318, title V][/us/pl/102/318/tV], § 531(d)(1), (2), July 3, 1992, [106 Stat. 316][/us/stat/106/316], 317; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5408, Aug. 5, 1997, [111 Stat. 605][/us/stat/111/605].)
 
  __References in Text__ 
 
@@ -165,15 +165,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 1101, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IX, § 901, [49 Stat. 639][/us/stat/49/639], related to imposition of tax. For further details, see Prior Law note set out preceding this section.
+    A prior section 1101, [act Aug. 14, 1935, ch. 531, title IX][/us/act/1935-08-14/ch531/tIX], § 901, [49 Stat. 639][/us/stat/49/639], related to imposition of tax. For further details, see Prior Law note set out preceding this section.
 
  __Amendments__ 
 
     1997—Subsec. (c)(5). [Pub. L. 105–33][/us/pl/105/33] added par. (5).
 
-    1992—Subsec. (f)(2). [Pub. L. 102–318, § 531(d)(1)][/us/pl/102/318/s531/d/1], struck out designation for subpar. (A), substituted “The” for “Except as provided in subparagraph (B), the”, and struck out subpar. (B) which read as follows: “With respect to the fiscal years ending June 30, 1970, June 30, 1971, and June 30, 1972, the balance in the employment security administration account at the close of each such fiscal year shall not be considered excess but shall be retained in the account for use as provided in paragraph (1) of subsection (c) of this section.”
+    1992—Subsec. (f)(2). [Pub. L. 102–318][/us/pl/102/318], § 531(d)(1), struck out designation for subpar. (A), substituted “The” for “Except as provided in subparagraph (B), the”, and struck out subpar. (B) which read as follows: “With respect to the fiscal years ending June 30, 1970, June 30, 1971, and June 30, 1972, the balance in the employment security administration account at the close of each such fiscal year shall not be considered excess but shall be retained in the account for use as provided in paragraph (1) of subsection (c) of this section.”
 
-    Subsec. (g). [Pub. L. 102–318, § 531(d)(2)][/us/pl/102/318/s531/d/2], struck out subsec. (g) which read as follows:
+    Subsec. (g). [Pub. L. 102–318][/us/pl/102/318], § 531(d)(2), struck out subsec. (g) which read as follows:
 
     “(1) With respect to calendar years 1988, 1989, and 1990, the Secretary of the Treasury shall transfer from the employment security administration account—
 
@@ -185,41 +185,41 @@
 
     1991—Subsec. (c)(1)(A)(iii), (B)(iv). [Pub. L. 102–83][/us/pl/102/83] substituted reference to [section 4103 of title 38][/us/usc/t38/s4103] for reference to [section 2003 of title 38][/us/usc/t38/s2003].
 
-    1987—Subsec. (c)(3)(C). [Pub. L. 100–203, § 9154(c)(2)][/us/pl/100/203/s9154/c/2], substituted “a tax rate of 0.6 percent” for “(i) a tax rate of 0.6 percent in the case of any calendar year for which the rate of tax under section 3301 of the Federal Unemployment Tax Act is 6.0 percent, and (ii) a tax rate of 0.8 percent in the case of any calendar year for which the rate of tax under such section is 6.2 percent”.
+    1987—Subsec. (c)(3)(C). [Pub. L. 100–203][/us/pl/100/203], § 9154(c)(2), substituted “a tax rate of 0.6 percent” for “(i) a tax rate of 0.6 percent in the case of any calendar year for which the rate of tax under section 3301 of the Federal Unemployment Tax Act is 6.0 percent, and (ii) a tax rate of 0.8 percent in the case of any calendar year for which the rate of tax under such section is 6.2 percent”.
 
-    Subsec. (g). [Pub. L. 100–203, § 9154(a)][/us/pl/100/203/s9154/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–203][/us/pl/100/203], § 9154(a), added subsec. (g).
 
-    1984—Subsec. (c). [Pub. L. 98–369, § 2663(d)(1)][/us/pl/98/369/s2663/d/1], realigned margins of subsec. (c).
+    1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 2663(d)(1), realigned margins of subsec. (c).
 
-    Subsec. (f). [Pub. L. 98–369, § 2663(d)(2)][/us/pl/98/369/s2663/d/2], realigned margins of par. (3).
+    Subsec. (f). [Pub. L. 98–369][/us/pl/98/369], § 2663(d)(2), realigned margins of par. (3).
 
-    1982—Subsec. (c)(3)(C). [Pub. L. 97–248, § 271(c)(3)(D)][/us/pl/97/248/s271/c/3/D], substituted “0.6” for “0.5”, “6.0” for “3.2”, and “6.2” for “3.5”.
+    1982—Subsec. (c)(3)(C). [Pub. L. 97–248][/us/pl/97/248], § 271(c)(3)(D), substituted “0.6” for “0.5”, “6.0” for “3.2”, and “6.2” for “3.5”.
 
-    Subsec. (c)(3)(C)(ii). [Pub. L. 97–248, § 271(b)(2)(A)][/us/pl/97/248/s271/b/2/A], substituted “0.8” for “0.7”, struck out “3301” after “tax under such section”, and substituted “3.5” for “3.4”.
+    Subsec. (c)(3)(C)(ii). [Pub. L. 97–248][/us/pl/97/248], § 271(b)(2)(A), substituted “0.8” for “0.7”, struck out “3301” after “tax under such section”, and substituted “3.5” for “3.4”.
 
     1976—Subsec. (c)(3)(C). [Pub. L. 94–566][/us/pl/94/566] limited existing provisions by making them applicable only in the case of calendar years for which the rate of tax under section 3301 of the Federal Unemployment Tax Act is 3.2 percent, designated the existing provisions as so amended as cl. (i) and added cl. (ii).
 
     Subsec. (f)(3)(A). [Pub. L. 94–273][/us/pl/94/273] struck out “fiscal” after “immediately preceding”.
 
-    1970—Subsec. (c)(1). [Pub. L. 91–373, § 303(a)(1)][/us/pl/91/373/s303/a/1], substituted “fiscal year ending June 30, 1971” for “fiscal year ending June 30, 1964”, inserted reference to par. (4), struck out reference to the Temporary Unemployment Compensation Act of 1958, as amended, and substituted “[section 2003 of title 38][/us/usc/t38/s2003]” for “[section 2012 of title 38][/us/usc/t38/s2012]”.
+    1970—Subsec. (c)(1). [Pub. L. 91–373][/us/pl/91/373], § 303(a)(1), substituted “fiscal year ending June 30, 1971” for “fiscal year ending June 30, 1964”, inserted reference to par. (4), struck out reference to the Temporary Unemployment Compensation Act of 1958, as amended, and substituted “[section 2003 of title 38][/us/usc/t38/s2003]” for “[section 2012 of title 38][/us/usc/t38/s2012]”.
 
-    Subsec. (c)(2). [Pub. L. 91–373, § 303(a)(2)][/us/pl/91/373/s303/a/2], struck out provision for the exclusion of amounts attributable to the Temporary Unemployment Compensation Act of 1958, as amended.
+    Subsec. (c)(2). [Pub. L. 91–373][/us/pl/91/373], § 303(a)(2), struck out provision for the exclusion of amounts attributable to the Temporary Unemployment Compensation Act of 1958, as amended.
 
-    Subsec. (c)(3). [Pub. L. 91–373, § 303(a)(3)][/us/pl/91/373/s303/a/3], changed the ceiling on the amount in the employment security administration account authorized for appropriation for State grants by making it 95 percent of the amount set forth in the budget of the United States Government as the amount by which the net receipts during the fiscal year are estimated to exceed the amount transferred to the extended unemployment compensation account under [section 1105(b) of this title][/us/usc/t42/s1105/b].
+    Subsec. (c)(3). [Pub. L. 91–373][/us/pl/91/373], § 303(a)(3), changed the ceiling on the amount in the employment security administration account authorized for appropriation for State grants by making it 95 percent of the amount set forth in the budget of the United States Government as the amount by which the net receipts during the fiscal year are estimated to exceed the amount transferred to the extended unemployment compensation account under [section 1105(b) of this title][/us/usc/t42/s1105/b].
 
-    Subsec. (c)(4). [Pub. L. 91–373, § 303(a)(4)][/us/pl/91/373/s303/a/4], added par. (4).
+    Subsec. (c)(4). [Pub. L. 91–373][/us/pl/91/373], § 303(a)(4), added par. (4).
 
-    Subsec. (d). [Pub. L. 91–373, § 303(b)][/us/pl/91/373/s303/b], struck out reference to section 3302(c)(2) of the Federal Unemployment Tax Act in par. (1)(A)(i), struck out provision for separate application of par. (1) in years in which there was both a balance described in sections 3302(c)(2) and 3302(c)(3) of the Federal Unemployment Tax Act, redesignated par. (3) as par. (2), and struck out former par. (2) covering the transfer of funds from the employment security administration account to the general fund of the Treasury and to the State account, with respect to which employers paid additional tax, received by reason of the reduced credit provisions of [section 1400c of this title][/us/usc/t42/s1400c].
+    Subsec. (d). [Pub. L. 91–373][/us/pl/91/373], § 303(b), struck out reference to section 3302(c)(2) of the Federal Unemployment Tax Act in par. (1)(A)(i), struck out provision for separate application of par. (1) in years in which there was both a balance described in sections 3302(c)(2) and 3302(c)(3) of the Federal Unemployment Tax Act, redesignated par. (3) as par. (2), and struck out former par. (2) covering the transfer of funds from the employment security administration account to the general fund of the Treasury and to the State account, with respect to which employers paid additional tax, received by reason of the reduced credit provisions of [section 1400c of this title][/us/usc/t42/s1400c].
 
-    Subsec. (e)(2). [Pub. L. 91–373, § 303(c)][/us/pl/91/373/s303/c], substituted “equals 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account of the preceding fiscal year” for “is $250,000,000”.
+    Subsec. (e)(2). [Pub. L. 91–373][/us/pl/91/373], § 303(c), substituted “equals 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account of the preceding fiscal year” for “is $250,000,000”.
 
-    Subsec. (f)(2)(A). [Pub. L. 91–373, § 303(d)(1)][/us/pl/91/373/s303/d/1], inserted reference to par. (3)(C) of this subsection.
+    Subsec. (f)(2)(A). [Pub. L. 91–373][/us/pl/91/373], § 303(d)(1), inserted reference to par. (3)(C) of this subsection.
 
-    Subsec. (f)(3). [Pub. L. 91–373, § 303(d)(2)][/us/pl/91/373/s303/d/2], revised provisions for the distribution of any excess in the employment security administration account at the end of any fiscal year after June 30, 1972.
+    Subsec. (f)(3). [Pub. L. 91–373][/us/pl/91/373], § 303(d)(2), revised provisions for the distribution of any excess in the employment security administration account at the end of any fiscal year after June 30, 1972.
 
-    1969—Subsec. (c)(3). [Pub. L. 91–53, § 3(a)][/us/pl/91/53/s3/a], struck out subpar. (A) provisions limiting expenditures for fiscal year ending June 30, 1964, to 95 percent of amount estimated by the Secretary of Treasury as the net receipts during such fiscal year under the Federal Unemployment Tax Act, redesignated subpar. (B) provisions as par. (3) without restricting their application to fiscal years ending after June 30, 1964, increased expenditure limitation by unexpended amount retained in the employment security administration account in accordance with subsec. (f)(2)(B) of this section, reenacted provision for estimate of net receipts, and struck out dated provisions requiring the Secretary of Treasury to report to Congress his estimate under subpar. (A) within thirty days after May 29, 1963, the date of enactment of [Pub. L. 88–31][/us/pl/88/31], and providing for its printing as a House document.
+    1969—Subsec. (c)(3). [Pub. L. 91–53][/us/pl/91/53], § 3(a), struck out subpar. (A) provisions limiting expenditures for fiscal year ending June 30, 1964, to 95 percent of amount estimated by the Secretary of Treasury as the net receipts during such fiscal year under the Federal Unemployment Tax Act, redesignated subpar. (B) provisions as par. (3) without restricting their application to fiscal years ending after June 30, 1964, increased expenditure limitation by unexpended amount retained in the employment security administration account in accordance with subsec. (f)(2)(B) of this section, reenacted provision for estimate of net receipts, and struck out dated provisions requiring the Secretary of Treasury to report to Congress his estimate under subpar. (A) within thirty days after May 29, 1963, the date of enactment of [Pub. L. 88–31][/us/pl/88/31], and providing for its printing as a House document.
 
-    Subsec. (f)(2). [Pub. L. 91–53, § 3(b)][/us/pl/91/53/s3/b], designated existing provisions as subpar. (A), inserted introductory text “Except as provided in subparagraph (B)”, and added subpar. (B).
+    Subsec. (f)(2). [Pub. L. 91–53][/us/pl/91/53], § 3(b), designated existing provisions as subpar. (A), inserted introductory text “Except as provided in subparagraph (B)”, and added subpar. (B).
 
     1963—Subsec. (c). [Pub. L. 88–31][/us/pl/88/31] substituted “June 30, 1964” for “June 30, 1961” in par. (1), “(not in excess of the limit provided by paragraph (3))” for “(not in excess of $350,000,000 for any fiscal year)” in par. (1)(A), and added par. (3).
 
@@ -233,7 +233,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title IX, § 9154(d)][/us/pl/100/203/s9154/d], Dec. 22, 1987, [101 Stat. 1330–326][/us/stat/101/1330-326], provided that: 
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9154(d), Dec. 22, 1987, [101 Stat. 1330–326][/us/stat/101/1330-326], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1102 and 1105 of this title\] shall become effective on the date of the enactment of this Act \[Dec. 22, 1987\].”
 
@@ -247,33 +247,33 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–566, title II, § 211(d)(3)][/us/pl/94/566/s211/d/3], Oct. 20, 1976, [90 Stat. 2677][/us/stat/90/2677], provided that: 
+[Pub. L. 94–566, title II][/us/pl/94/566/tII], § 211(d)(3), Oct. 20, 1976, [90 Stat. 2677][/us/stat/90/2677], provided that: 
 
 > “The amendments made by subsection (c) \[amending this section, [section 1105 of this title][/us/usc/t42/s1105], and [section 6157 of Title 26][/us/usc/t26/s6157], Internal Revenue Code\] shall take effect on the date of enactment of this Act \[Oct. 20, 1976\].”
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–373, title III, § 303(a)][/us/pl/91/373/s303/a], Aug. 10, 1970, [84 Stat. 713][/us/stat/84/713], provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1970.
+    [Pub. L. 91–373, title III][/us/pl/91/373/tIII], § 303(a), Aug. 10, 1970, [84 Stat. 713][/us/stat/84/713], provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1970.
 
-    [Pub. L. 91–373, title III, § 303(c)][/us/pl/91/373/s303/c], Aug. 10, 1970, [84 Stat. 715][/us/stat/84/715], provided that the amendment made by that section is effective July 1, 1972.
+    [Pub. L. 91–373, title III][/us/pl/91/373/tIII], § 303(c), Aug. 10, 1970, [84 Stat. 715][/us/stat/84/715], provided that the amendment made by that section is effective July 1, 1972.
 
-    [Pub. L. 91–373, title III, § 303(d)][/us/pl/91/373/s303/d], Aug. 10, 1970, [84 Stat. 715][/us/stat/84/715], provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1972.
+    [Pub. L. 91–373, title III][/us/pl/91/373/tIII], § 303(d), Aug. 10, 1970, [84 Stat. 715][/us/stat/84/715], provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1972.
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–53, § 4(b)][/us/pl/91/53/s4/b], Aug. 7, 1969, [83 Stat. 93][/us/stat/83/93], provided that: 
+[Pub. L. 91–53][/us/pl/91/53], § 4(b), Aug. 7, 1969, [83 Stat. 93][/us/stat/83/93], provided that: 
 
 > “The amendments made by section 3 \[amending this section\] shall take effect upon enactment of this Act \[Aug. 7, 1969\].”
 
  __Increase in Administrative Expenditures Limitation for Fiscal Year 1963__ 
 
-    [Pub. L. 88–31, § 4][/us/pl/88/31/s4], May 29, 1963, [77 Stat. 52][/us/stat/77/52], provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal year ending June 30, 1963, for the purposes specified in subsec. (c)(1)(A), was increased to $407,148,000.
+    [Pub. L. 88–31][/us/pl/88/31], § 4, May 29, 1963, [77 Stat. 52][/us/stat/77/52], provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal year ending June 30, 1963, for the purposes specified in subsec. (c)(1)(A), was increased to $407,148,000.
 
-    [Pub. L. 87–582, title I, § 101][/us/pl/87/582/s101], Aug. 14, 1962, [76 Stat. 363][/us/stat/76/363], provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal year ending June 30, 1963, for the purposes specified in subsec. (c)(1)(A), was increased to $400,000,000.
+    [Pub. L. 87–582, title I][/us/pl/87/582/tI], § 101, Aug. 14, 1962, [76 Stat. 363][/us/stat/76/363], provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal year ending June 30, 1963, for the purposes specified in subsec. (c)(1)(A), was increased to $400,000,000.
 
  __Increase in Administrative Expenditures Limitation for Fiscal Years 1961 and 1962__ 
 
-    [Pub. L. 87–6, § 15][/us/pl/87/6/s15], Mar. 24, 1961, [75 Stat. 16][/us/stat/75/16], provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal years ending June 30, 1961 and June 30, 1962, for the purposes specified in subsec. (c)(1)(A), was increased to $385,000,000 and $415,000,000, respectively.
+    [Pub. L. 87–6][/us/pl/87/6], § 15, Mar. 24, 1961, [75 Stat. 16][/us/stat/75/16], provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal years ending June 30, 1961 and June 30, 1962, for the purposes specified in subsec. (c)(1)(A), was increased to $385,000,000 and $415,000,000, respectively.
 
 ----------
 
@@ -300,33 +300,33 @@
 [/us/usc/t42/s1105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1105%2Fb%2F2
 [/us/usc/t42/s1105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1105%2Fb%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/act/1954-08-05/ch657/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657%2Fs2
+[/us/act/1954-08-05/ch657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch657
 [/us/stat/68/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F668
-[/us/pl/86/778/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs521
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F970
-[/us/pl/87/31/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31%2Fs7
+[/us/pl/87/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31
 [/us/stat/75/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F78
-[/us/pl/88/31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F31%2Fs1
+[/us/pl/88/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F31
 [/us/stat/77/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F51
-[/us/pl/91/53/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs3
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/stat/83/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F93
-[/us/pl/91/373/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303
+[/us/pl/91/373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtIII
 [/us/stat/84/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F713
-[/us/pl/94/273/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs39
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F381
-[/us/pl/94/566/s211/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs211%2Fe%2F1
+[/us/pl/94/566/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtII
 [/us/stat/90/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2676
-[/us/pl/97/248/s271/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs271%2Fb%2F2%2FA
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F554
-[/us/pl/98/369/s2663/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fd%2F1
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1167
-[/us/pl/100/203/s9154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9154%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-326
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/318/s531/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs531%2Fd%2F1
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F316
-[/us/pl/105/33/s5408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5408
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F605
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F439
@@ -335,43 +335,43 @@
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/act/1935-08-14/ch531/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIX
 [/us/stat/49/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F639
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/102/318/s531/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs531%2Fd%2F1
-[/us/pl/102/318/s531/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs531%2Fd%2F2
+[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4103
 [/us/usc/t38/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2003
-[/us/pl/100/203/s9154/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9154%2Fc%2F2
-[/us/pl/100/203/s9154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9154%2Fa
-[/us/pl/98/369/s2663/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fd%2F1
-[/us/pl/98/369/s2663/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fd%2F2
-[/us/pl/97/248/s271/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs271%2Fc%2F3%2FD
-[/us/pl/97/248/s271/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs271%2Fb%2F2%2FA
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
-[/us/pl/91/373/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fa%2F1
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t38/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2003
 [/us/usc/t38/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2012
-[/us/pl/91/373/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fa%2F2
-[/us/pl/91/373/s303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fa%2F3
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t42/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1105%2Fb
-[/us/pl/91/373/s303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fa%2F4
-[/us/pl/91/373/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fb
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t42/s1400c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1400c
-[/us/pl/91/373/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fc
-[/us/pl/91/373/s303/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fd%2F1
-[/us/pl/91/373/s303/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fd%2F2
-[/us/pl/91/53/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs3%2Fa
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/pl/88/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F31
-[/us/pl/91/53/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs3%2Fb
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/pl/88/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F31
 [/us/pl/87/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F31
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
-[/us/pl/100/203/s9154/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9154%2Fd
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-326
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
@@ -380,23 +380,23 @@
 [/us/pl/97/248/s271/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs271%2Fc%2F3%2FD
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t26/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3301
-[/us/pl/94/566/s211/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs211%2Fd%2F3
+[/us/pl/94/566/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtII
 [/us/stat/90/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2677
 [/us/usc/t42/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1105
 [/us/usc/t26/s6157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6157
-[/us/pl/91/373/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fa
+[/us/pl/91/373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtIII
 [/us/stat/84/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F713
-[/us/pl/91/373/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fc
+[/us/pl/91/373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtIII
 [/us/stat/84/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F715
-[/us/pl/91/373/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs303%2Fd
+[/us/pl/91/373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtIII
 [/us/stat/84/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F715
-[/us/pl/91/53/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs4%2Fb
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/stat/83/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F93
-[/us/pl/88/31/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F31%2Fs4
+[/us/pl/88/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F31
 [/us/stat/77/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F52
-[/us/pl/87/582/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F582%2Fs101
+[/us/pl/87/582/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F582%2FtI
 [/us/stat/76/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F363
-[/us/pl/87/6/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F6%2Fs15
+[/us/pl/87/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F6
 [/us/stat/75/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F16
 
 

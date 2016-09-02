@@ -73,21 +73,21 @@
 
     (14) The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of health facilities or a population group designated by the Secretary as having a shortage of such facilities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1624, formerly § 1633, as added [Pub. L. 93–641, § 4][/us/pl/93/641/s4], Jan. 4, 1975, [88 Stat. 2270][/us/stat/88/2270]; amended [Pub. L. 94–484, title IX, § 905(b)(1)][/us/pl/94/484/s905/b/1], Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–83, title I, § 106(z)][/us/pl/95/83/s106/z], Aug. 1, 1977, [91 Stat. 386][/us/stat/91/386]; renumbered § 1624 and amended [Pub. L. 96–79, title II][/us/pl/96/79], §§ 202(b), 203(e)(1), title III, § 301(b), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], 635, 640.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1624, formerly § 1633, as added [Pub. L. 93–641][/us/pl/93/641], § 4, Jan. 4, 1975, [88 Stat. 2270][/us/stat/88/2270]; amended [Pub. L. 94–484, title IX][/us/pl/94/484/tIX], § 905(b)(1), Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 106(z), Aug. 1, 1977, [91 Stat. 386][/us/stat/91/386]; renumbered § 1624 and amended [Pub. L. 96–79, title II][/us/pl/96/79/tII], §§ 202(b), 203(e)(1), title III, § 301(b), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], 635, 640.)
 
  __References in Text__ 
 
-    Subchapter XIII of this chapter, referred to in par. (12), was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
+    Subchapter XIII of this chapter, referred to in par. (12), was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
 
  __Codification__ 
 
-    “Part B of this subchapter” substituted for “Part D of this subchapter” in par. (8) pursuant to the redesignation of former part D of this subchapter as B by [Pub. L. 96–79, title II, § 202(a)][/us/pl/96/79/s202/a], Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].
+    “Part B of this subchapter” substituted for “Part D of this subchapter” in par. (8) pursuant to the redesignation of former part D of this subchapter as B by [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 202(a), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–79, § 301(b)][/us/pl/96/79/s301/b], inserted “Except as provided in [section 300t–12(e) of this title][/us/usc/t42/s300t–12/e]”.
+    1979—[Pub. L. 96–79][/us/pl/96/79], § 301(b), inserted “Except as provided in [section 300t–12(e) of this title][/us/usc/t42/s300t–12/e]”.
 
-    Pars. (1) to (16). [Pub. L. 96–79, § 203(e)(1)][/us/pl/96/79/s203/e/1], struck out pars. (1) and (2) which defined “State” and “Federal share” and redesignated pars. (3) through (16) as pars. (1) through (14), respectively.
+    Pars. (1) to (16). [Pub. L. 96–79][/us/pl/96/79], § 203(e)(1), struck out pars. (1) and (2) which defined “State” and “Federal share” and redesignated pars. (3) through (16) as pars. (1) through (14), respectively.
 
     1977—Par. (14). [Pub. L. 95–83][/us/pl/95/83] substituted “subchapter XIII” for “subchapter XII”.
 
@@ -106,21 +106,21 @@
 
 [/us/usc/t42/s300t–12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300t%E2%80%9312%2Fe
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2270
-[/us/pl/94/484/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs905%2Fb%2F1
+[/us/pl/94/484/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIX
 [/us/stat/90/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2325
-[/us/pl/95/83/s106/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs106%2Fz
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F386
-[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/pl/96/79/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fa
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
-[/us/pl/96/79/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs301%2Fb
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/usc/t42/s300t–12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300t%E2%80%9312%2Fe
-[/us/pl/96/79/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Fe%2F1
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79

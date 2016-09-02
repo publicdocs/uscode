@@ -69,7 +69,7 @@
 
         A hospital dissatisfied with a determination of the Secretary on its application under this section may obtain an informal or formal hearing, at the discretion of the Secretary, by filing (in such form and within such time period as the Secretary establishes) a request for such a hearing. The Secretary shall make a final determination on such application within 30 days after the last day of such hearing.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1884, as added [Pub. L. 97–35, title XXI, § 2101(a)][/us/pl/97/35/s2101/a]\[(1)\], Aug. 13, 1981, [95 Stat. 785][/us/stat/95/785]; amended [Pub. L. 97–248, title I, § 128(a)(6)][/us/pl/97/248/s128/a/6], Sept. 3, 1982, [96 Stat. 366][/us/stat/96/366].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1884, as added [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2101(a)\[(1)\], Aug. 13, 1981, [95 Stat. 785][/us/stat/95/785]; amended [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 128(a)(6), Sept. 3, 1982, [96 Stat. 366][/us/stat/96/366].)
 
  __Amendments__ 
 
@@ -81,17 +81,17 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–35, title XXI, § 2101(c)][/us/pl/97/35/s2101/c], Aug. 13, 1981, [95 Stat. 787][/us/stat/95/787], provided that: 
+[Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2101(c), Aug. 13, 1981, [95 Stat. 787][/us/stat/95/787], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section and amending [section 1396b of this title][/us/usc/t42/s1396b]\] shall apply only to services furnished by a hospital during any accounting year beginning on or after October 1, 1981.”
 
  __Payments To Promote Closure and Conversion of Underutilized Hospital Facilities__ 
 
-    [Pub. L. 98–369, div. B, title III, § 2353][/us/pl/98/369/s2353], July 18, 1984, [98 Stat. 1099][/us/stat/98/1099], directed Secretary of Health and Human Services to carry out a study and report to Congress prior to Mar. 31, 1985, on modifications required in this section in order to conform the closure and conversion program authorized in that section to the prospective payment system under [section 1395ww(d) of this title][/us/usc/t42/s1395ww/d], so as to provide assistance to hospitals which may have particular problems in converting facilities (or parts thereof) from acute care to less intensive care or in closing facilities (or parts thereof), such report to include recommendations as to how, and whether, implementation of this section as modified may result in reductions in total hospital inpatient costs and total expenditures under this subchapter, and prohibited from implementing this section prior to Mar. 31, 1985.
+    [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2353, July 18, 1984, [98 Stat. 1099][/us/stat/98/1099], directed Secretary of Health and Human Services to carry out a study and report to Congress prior to Mar. 31, 1985, on modifications required in this section in order to conform the closure and conversion program authorized in that section to the prospective payment system under [section 1395ww(d) of this title][/us/usc/t42/s1395ww/d], so as to provide assistance to hospitals which may have particular problems in converting facilities (or parts thereof) from acute care to less intensive care or in closing facilities (or parts thereof), such report to include recommendations as to how, and whether, implementation of this section as modified may result in reductions in total hospital inpatient costs and total expenditures under this subchapter, and prohibited from implementing this section prior to Mar. 31, 1985.
 
  __Establishment and Evaluation of Transitional Allowances; Report and Recommendations to Congress__ 
 
-    [Pub. L. 97–35, title XXI, § 2101(b)][/us/pl/97/35/s2101/b], Aug. 13, 1981, [95 Stat. 786][/us/stat/95/786], prohibited Secretary of Health and Human Services from establishing under this section transitional allowances with respect to more than 50 hospitals prior to Jan. 1, 1984, and directed Secretary to evaluate effectiveness of program of transitional allowances established under this section and, not later than Jan. 1, 1983, report to Congress on such evaluation and include in such report such recommendations for such legislative changes as deemed appropriate.
+    [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2101(b), Aug. 13, 1981, [95 Stat. 786][/us/stat/95/786], prohibited Secretary of Health and Human Services from establishing under this section transitional allowances with respect to more than 50 hospitals prior to Jan. 1, 1984, and directed Secretary to evaluate effectiveness of program of transitional allowances established under this section and, not later than Jan. 1, 1983, report to Congress on such evaluation and include in such report such recommendations for such legislative changes as deemed appropriate.
 
 ----------
 
@@ -102,22 +102,22 @@
 
 [/us/usc/t42/s1395x/v/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2101%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F785
-[/us/pl/97/248/s128/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs128%2Fa%2F6
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F366
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/248/s128/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs128%2Fe%2F2
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
-[/us/pl/97/35/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2101%2Fc
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F787
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
-[/us/pl/98/369/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2353
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1099
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
-[/us/pl/97/35/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2101%2Fb
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F786
 
 

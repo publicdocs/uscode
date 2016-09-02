@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–186, title I, § 102][/us/pl/108/186/s102], Dec. 16, 2003, [117 Stat. 2686][/us/stat/117/2686], amended heading generally. Prior to amendment, heading read “Mortgage Credit Enhancement”.
+    2003—[Pub. L. 108–186, title I][/us/pl/108/186/tI], § 102, Dec. 16, 2003, [117 Stat. 2686][/us/stat/117/2686], amended heading generally. Prior to amendment, heading read “Mortgage Credit Enhancement”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/186/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2Fs102
+[/us/pl/108/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F186%2FtI
 [/us/stat/117/2686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2686
 
 

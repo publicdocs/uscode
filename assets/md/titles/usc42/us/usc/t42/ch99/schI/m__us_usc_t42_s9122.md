@@ -45,7 +45,7 @@
 
             (B) when the Administrator has taken appropriate steps to inform the recipient of the confidential nature of the information.
 
-([Pub. L. 96–320, title I, § 112][/us/pl/96/320/s112], Aug. 3, 1980, [94 Stat. 989][/us/stat/94/989]; [Pub. L. 98–623, title VI, § 602(e)(3)][/us/pl/98/623/s602/e/3], (18), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 112, Aug. 3, 1980, [94 Stat. 989][/us/stat/94/989]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(e)(3), (18), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–623, § 602(e)(3)][/us/pl/98/623/s602/e/3], substituted “(relating to trade secrets and commercial or financial information which is privileged or confidential)” for “(relating to trade secrets and confidential commercial and financial information)”.
+    1984—Subsec. (b). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(3), substituted “(relating to trade secrets and commercial or financial information which is privileged or confidential)” for “(relating to trade secrets and confidential commercial and financial information)”.
 
-    Subsec. (b)(2)(B). [Pub. L. 98–623, § 602(e)(18)][/us/pl/98/623/s602/e/18], substituted “Administrator” for “administrator”.
+    Subsec. (b)(2)(B). [Pub. L. 98–623][/us/pl/98/623], § 602(e)(18), substituted “Administrator” for “administrator”.
 
 ----------
 
@@ -65,14 +65,14 @@
 ----------
 
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/pl/96/320/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs112
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F989
-[/us/pl/98/623/s602/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F3
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3412
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
 [/us/usc/t42/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9101
-[/us/pl/98/623/s602/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F3
-[/us/pl/98/623/s602/e/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F18
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 
 

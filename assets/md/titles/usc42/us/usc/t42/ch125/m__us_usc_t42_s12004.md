@@ -33,7 +33,7 @@
 
         (B) not to exceed $54,700,000 shall be available for the industrial program.
 
-([Pub. L. 101–218, § 5][/us/pl/101/218/s5], Dec. 11, 1989, [103 Stat. 1862][/us/stat/103/1862]; [Pub. L. 102–486, title XXI, § 2125(4)][/us/pl/102/486/s2125/4]–(6), Oct. 24, 1992, [106 Stat. 3085][/us/stat/106/3085].)
+([Pub. L. 101–218][/us/pl/101/218], § 5, Dec. 11, 1989, [103 Stat. 1862][/us/stat/103/1862]; [Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2125(4)–(6), Oct. 24, 1992, [106 Stat. 3085][/us/stat/106/3085].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/101/218/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs5
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1862
-[/us/pl/102/486/s2125/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2125%2F4
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3085
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 

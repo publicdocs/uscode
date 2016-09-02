@@ -83,7 +83,7 @@
 
         The amount of fees assessed by accrediting entities for the costs of accreditation shall be subject to approval by the Secretary. Such fees may not exceed the costs of accreditation. In reviewing the level of such fees, the Secretary shall consider the relative size of, the geographic location of, and the number of Convention adoption cases managed by the agencies or persons subject to accreditation or approval by the accrediting entity.
 
-([Pub. L. 106–279, title II, § 202][/us/pl/106/279/s202], Oct. 6, 2000, [114 Stat. 831][/us/stat/114/831]; [Pub. L. 112–276, § 3(b)][/us/pl/112/276/s3/b], Jan. 14, 2013, [126 Stat. 2467][/us/stat/126/2467].)
+([Pub. L. 106–279, title II][/us/pl/106/279/tII], § 202, Oct. 6, 2000, [114 Stat. 831][/us/stat/114/831]; [Pub. L. 112–276][/us/pl/112/276], § 3(b), Jan. 14, 2013, [126 Stat. 2467][/us/stat/126/2467].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 [/us/usc/t42/s14923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14923
 [/us/usc/t42/s14943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14943
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/106/279/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs202
+[/us/pl/106/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtII
 [/us/stat/114/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F831
-[/us/pl/112/276/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276%2Fs3%2Fb
+[/us/pl/112/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F276
 [/us/stat/126/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2467
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F830

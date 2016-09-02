@@ -103,7 +103,7 @@
 
         The authority provided to the Secretary under this section shall be effective only to the extent approved in advance in appropriations Acts.
 
-([Pub. L. 100–77, title IV, § 592][/us/pl/100/77/s592]\[492\], as added [Pub. L. 102–550, title XIV, § 1414][/us/pl/102/550/s1414], Oct. 28, 1992, [106 Stat. 4041][/us/stat/106/4041].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 592\[492\], as added [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1414, Oct. 28, 1992, [106 Stat. 4041][/us/stat/106/4041].)
 
  __References in Text__ 
 
@@ -118,8 +118,8 @@
 
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
-[/us/pl/100/77/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs592
-[/us/pl/102/550/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1414
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4041
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

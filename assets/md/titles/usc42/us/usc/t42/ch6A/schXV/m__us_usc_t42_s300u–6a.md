@@ -41,23 +41,23 @@
 
             The purposes for which amounts made available under paragraph  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “paragraph (1)”. </sup></sup>  may be expended by a minority health office include the costs of employing staff for such office.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1707A, as added [Pub. L. 111–148, title X, § 10334(b)(1)][/us/pl/111/148/s10334/b/1], Mar. 23, 2010, [124 Stat. 972][/us/stat/124/972].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1707A, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(b)(1), Mar. 23, 2010, [124 Stat. 972][/us/stat/124/972].)
 
  __Construction__ 
 
-[Pub. L. 111–148, title X, § 10334(b)(2)][/us/pl/111/148/s10334/b/2], Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(b)(2), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], provided that: 
 
 > “Nothing in this subsection \[enacting this section and provisions set out as a note under this section\] and the amendments made by this subsection may be construed as establishing regulatory authority or modifying any existing regulatory authority.”
 
  __Application of Allocation Requirements__ 
 
-[Pub. L. 112–10, div. B, title VIII, § 1827][/us/pl/112/10/s1827], Apr. 15, 2011, [125 Stat. 162][/us/stat/125/162], provided that: 
+[Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1827, Apr. 15, 2011, [125 Stat. 162][/us/stat/125/162], provided that: 
 
 > “Hereafter, no funds appropriated by this division or by any previous or subsequent Act shall be subject to the allocation requirements of section 1707A(e) \[[42 U.S.C. 300u–6a(e)][/us/usc/t42/s300u–6a/e]\] of the PHS Act \[Public Health Service Act\].”
 
  __Limitation on Termination__ 
 
-[Pub. L. 111–148, title X, § 10334(b)(3)][/us/pl/111/148/s10334/b/3], Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(b)(3), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973], provided that: 
 
 > “Notwithstanding any other provision of law, a Federal office of minority health or Federal appointive position with primary responsibility over minority health issues that is in existence in an office of \[or\] agency of the Department of Health and Human Services on the date of enactment of this section \[Mar. 23, 2010\] shall not be terminated, reorganized, or have any of its power or duties transferred unless such termination, reorganization, or transfer is approved by an Act of Congress.”
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10334/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fb%2F1
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F972
-[/us/pl/111/148/s10334/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fb%2F2
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
-[/us/pl/112/10/s1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1827
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F162
 [/us/usc/t42/s300u–6a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%936a%2Fe
-[/us/pl/111/148/s10334/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fb%2F3
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
 
 

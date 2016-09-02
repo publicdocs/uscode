@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated to the Administrator $15,000,000 for each of fiscal years 2011 through 2013 to carry out this section.
 
-([Pub. L. 111–267, title IX, § 907][/us/pl/111/267/s907], Oct. 11, 2010, [124 Stat. 2837][/us/stat/124/2837].)
+([Pub. L. 111–267, title IX][/us/pl/111/267/tIX], § 907, Oct. 11, 2010, [124 Stat. 2837][/us/stat/124/2837].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs907
+[/us/pl/111/267/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIX
 [/us/stat/124/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2837
 
 

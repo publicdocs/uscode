@@ -21,7 +21,7 @@
 
     (2) The term “Federal agency” has the meaning given the term “agency” in [section 551(1) of title 5][/us/usc/t5/s551/1].
 
-([Pub. L. 100–77, title II, § 207][/us/pl/100/77/s207], July 22, 1987, [101 Stat. 489][/us/stat/101/489]; [Pub. L. 108–199, div. G, title II, § 216(4)][/us/pl/108/199/s216/4], Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].)
+([Pub. L. 100–77, title II][/us/pl/100/77/tII], § 207, July 22, 1987, [101 Stat. 489][/us/stat/101/489]; [Pub. L. 108–199, div. G, title II][/us/pl/108/199/dG/tII], § 216(4), Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t42/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11311
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/100/77/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs207
+[/us/pl/100/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtII
 [/us/stat/101/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F489
-[/us/pl/108/199/s216/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs216%2F4
+[/us/pl/108/199/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtII
 [/us/stat/118/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F394
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 

@@ -23,7 +23,7 @@
 
         For purposes of this section, the terms “applicant” and “participant” shall have such meanings as the Secretary of Housing and Urban Development by regulation shall prescribe. Such terms shall not include persons whose involvement is only in their official capacity, such as State or local government officials or officers of lending institutions.
 
-([Pub. L. 100–242, title I, § 165][/us/pl/100/242/s165], Feb. 5, 1988, [101 Stat. 1864][/us/stat/101/1864].)
+([Pub. L. 100–242, title I][/us/pl/100/242/tI], § 165, Feb. 5, 1988, [101 Stat. 1864][/us/stat/101/1864].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/242/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs165
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1864
 
 

@@ -77,13 +77,13 @@
 
         There are authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of the fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title I, § 124][/us/pl/109/58/s124], Aug. 8, 2005, [119 Stat. 617][/us/stat/119/617]; [Pub. L. 110–140, title III, § 315(b)][/us/pl/110/140/s315/b], Dec. 19, 2007, [121 Stat. 1572][/us/stat/121/1572].)
+([Pub. L. 109–58, title I][/us/pl/109/58/tI], § 124, Aug. 8, 2005, [119 Stat. 617][/us/stat/119/617]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 315(b), Dec. 19, 2007, [121 Stat. 1572][/us/stat/121/1572].)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1). [Pub. L. 110–140, § 315(b)(1)][/us/pl/110/140/s315/b/1], inserted “, or products with improved energy efficiency in cold climates,” after “residential Energy Star products”.
+    2007—Subsec. (b)(1). [Pub. L. 110–140][/us/pl/110/140], § 315(b)(1), inserted “, or products with improved energy efficiency in cold climates,” after “residential Energy Star products”.
 
-    Subsec. (e)(2), (3). [Pub. L. 110–140, § 315(b)(2)][/us/pl/110/140/s315/b/2], inserted “or product with improved energy efficiency in a cold climate” after “residential Energy Star product” wherever appearing.
+    Subsec. (e)(2), (3). [Pub. L. 110–140][/us/pl/110/140], § 315(b)(2), inserted “or product with improved energy efficiency in a cold climate” after “residential Energy Star product” wherever appearing.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -98,12 +98,12 @@
 
 [/us/usc/t42/s6294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294a
 [/us/usc/t42/s6322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6322
-[/us/pl/109/58/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs124
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F617
-[/us/pl/110/140/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs315%2Fb
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1572
-[/us/pl/110/140/s315/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs315%2Fb%2F1
-[/us/pl/110/140/s315/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs315%2Fb%2F2
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

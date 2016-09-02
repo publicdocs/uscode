@@ -293,7 +293,7 @@
 
         (2) The term “community spouse” means the spouse of an institutionalized spouse.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1924, as added [Pub. L. 100–360, title III, § 303(a)(1)(B)][/us/pl/100/360/s303/a/1/B], July 1, 1988, [102 Stat. 754][/us/stat/102/754]; amended [Pub. L. 100–485, title VI, § 608(d)(16)(A)][/us/pl/100/485/s608/d/16/A], Oct. 13, 1988, [102 Stat. 2417][/us/stat/102/2417]; [Pub. L. 101–239, title VI, § 6411(e)(3)][/us/pl/101/239/s6411/e/3], Dec. 19, 1989, [103 Stat. 2271][/us/stat/103/2271]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4714(a)–(c), 4744(b)(1), Nov. 5, 1990, [104 Stat. 1388–192][/us/stat/104/1388-192], 1388–198; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13611(d)(2), 13643(c)(1), Aug. 10, 1993, [107 Stat. 627][/us/stat/107/627], 647; [Pub. L. 103–252, title I, § 125(b)][/us/pl/103/252/s125/b], May 18, 1994, [108 Stat. 650][/us/stat/108/650]; [Pub. L. 105–33, title IV, § 4802(b)(1)][/us/pl/105/33/s4802/b/1], Aug. 5, 1997, [111 Stat. 548][/us/stat/111/548]; [Pub. L. 109–171, title VI, § 6013(a)][/us/pl/109/171/s6013/a], Feb. 8, 2006, [120 Stat. 64][/us/stat/120/64]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1924, as added [Pub. L. 100–360, title III][/us/pl/100/360/tIII], § 303(a)(1)(B), July 1, 1988, [102 Stat. 754][/us/stat/102/754]; amended [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(16)(A), Oct. 13, 1988, [102 Stat. 2417][/us/stat/102/2417]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6411(e)(3), Dec. 19, 1989, [103 Stat. 2271][/us/stat/103/2271]; [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], §§ 4714(a)–(c), 4744(b)(1), Nov. 5, 1990, [104 Stat. 1388–192][/us/stat/104/1388-192], 1388–198; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], §§ 13611(d)(2), 13643(c)(1), Aug. 10, 1993, [107 Stat. 627][/us/stat/107/627], 647; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 125(b), May 18, 1994, [108 Stat. 650][/us/stat/108/650]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4802(b)(1), Aug. 5, 1997, [111 Stat. 548][/us/stat/111/548]; [Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6013(a), Feb. 8, 2006, [120 Stat. 64][/us/stat/120/64]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
 
  __Codification__ 
 
@@ -305,7 +305,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(4)(B). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(V), made technical amendment to reference in original act which appears in text as reference to [section 2014(e) of title 7][/us/usc/t7/s2014/e].
+    2008—Subsec. (d)(4)(B). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(V), made technical amendment to reference in original act which appears in text as reference to [section 2014(e) of title 7][/us/usc/t7/s2014/e].
 
     2006—Subsec. (d)(6). [Pub. L. 109–171][/us/pl/109/171] added par. (6).
 
@@ -313,33 +313,33 @@
 
     1994—Subsec. (d)(3)(A)(i). [Pub. L. 103–252][/us/pl/103/252] substituted “section 9902(2)” for “sections 9847 and 9902(2)”.
 
-    1993—Subsec. (a)(5). [Pub. L. 103–66, § 13643(c)(1)][/us/pl/103/66/s13643/c/1], substituted “1986 or a waiver under section 603(c) of the Social Security Amendments of 1983” for “1986”.
+    1993—Subsec. (a)(5). [Pub. L. 103–66][/us/pl/103/66], § 13643(c)(1), substituted “1986 or a waiver under section 603(c) of the Social Security Amendments of 1983” for “1986”.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 103–66, § 13611(d)(2)][/us/pl/103/66/s13611/d/2], substituted “1396p(d) of this title” for “1396a(k) of this title”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 103–66][/us/pl/103/66], § 13611(d)(2), substituted “1396p(d) of this title” for “1396a(k) of this title”.
 
-    1990—Subsec. (a)(5). [Pub. L. 101–508, § 4744(b)(1)][/us/pl/101/508/s4744/b/1], added par. (5).
+    1990—Subsec. (a)(5). [Pub. L. 101–508][/us/pl/101/508], § 4744(b)(1), added par. (5).
 
-    Subsec. (b)(2). [Pub. L. 101–508, § 4714(a)][/us/pl/101/508/s4714/a], substituted “for purposes of the post-eligibility income determination described in subsection (d) of this section” for “, after the institutionalized spouse has been determined or redetermined to be eligible for medical assistance”.
+    Subsec. (b)(2). [Pub. L. 101–508][/us/pl/101/508], § 4714(a), substituted “for purposes of the post-eligibility income determination described in subsection (d) of this section” for “, after the institutionalized spouse has been determined or redetermined to be eligible for medical assistance”.
 
-    Subsec. (c)(1). [Pub. L. 101–508, § 4714(c)][/us/pl/101/508/s4714/c], substituted “the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse” for “the beginning of a continuous period of institutionalization of the institutionalized spouse” in subpars. (A) and (B).
+    Subsec. (c)(1). [Pub. L. 101–508][/us/pl/101/508], § 4714(c), substituted “the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse” for “the beginning of a continuous period of institutionalization of the institutionalized spouse” in subpars. (A) and (B).
 
-    Subsec. (f)(1). [Pub. L. 101–508, § 4714(b)][/us/pl/101/508/s4714/b], substituted “section 1396p(c)(1)” for “section 1396p”.
+    Subsec. (f)(1). [Pub. L. 101–508][/us/pl/101/508], § 4714(b), substituted “section 1396p(c)(1)” for “section 1396p”.
 
     1989—Subsecs. (b)(2), (d)(1). [Pub. L. 101–239][/us/pl/101/239] inserted “or redetermined” after “determined”.
 
-    1988—Subsec. (c)(1)(B). [Pub. L. 100–485, § 608(d)(16)(A)(i)][/us/pl/100/485/s608/d/16/A/i], substituted “will have a right to a fair hearing under subsection (e)(2) of this section” for “has right to a fair hearing under subsection (e)(2)(E) of this section with respect to the determination of the community spouse resource allowance, to provide for an allowance adequate to raise the spouse’s income to the minimum monthly maintenance needs allowance”.
+    1988—Subsec. (c)(1)(B). [Pub. L. 100–485][/us/pl/100/485], § 608(d)(16)(A)(i), substituted “will have a right to a fair hearing under subsection (e)(2) of this section” for “has right to a fair hearing under subsection (e)(2)(E) of this section with respect to the determination of the community spouse resource allowance, to provide for an allowance adequate to raise the spouse’s income to the minimum monthly maintenance needs allowance”.
 
-    Subsec. (c)(2)(B). [Pub. L. 100–485, § 608(d)(16)(A)(ii)][/us/pl/100/485/s608/d/16/A/ii], substituted “resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds” for “resources shall not be considered to be available to an institutionalized spouse, to the extent that the amount of such resources does not exceed”.
+    Subsec. (c)(2)(B). [Pub. L. 100–485][/us/pl/100/485], § 608(d)(16)(A)(ii), substituted “resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds” for “resources shall not be considered to be available to an institutionalized spouse, to the extent that the amount of such resources does not exceed”.
 
-    Subsec. (d)(3)(A)(i). [Pub. L. 100–485, § 608(d)(16)(A)(iii)][/us/pl/100/485/s608/d/16/A/iii], struck out “nonfarm” before “official poverty line”.
+    Subsec. (d)(3)(A)(i). [Pub. L. 100–485][/us/pl/100/485], § 608(d)(16)(A)(iii), struck out “nonfarm” before “official poverty line”.
 
-    Subsec. (d)(4). [Pub. L. 100–485, § 608(d)(16)(A)(iv)][/us/pl/100/485/s608/d/16/A/iv], substituted “subparagraph (B)” for “subparagraph (C)” in concluding provisions.
+    Subsec. (d)(4). [Pub. L. 100–485][/us/pl/100/485], § 608(d)(16)(A)(iv), substituted “subparagraph (B)” for “subparagraph (C)” in concluding provisions.
 
-    Subsec. (e)(2)(A). [Pub. L. 100–485, § 608(d)(16)(A)(v)][/us/pl/100/485/s608/d/16/A/v], inserted “if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse” after “with respect to such determination” before period at end of first sentence.
+    Subsec. (e)(2)(A). [Pub. L. 100–485][/us/pl/100/485], § 608(d)(16)(A)(v), inserted “if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse” after “with respect to such determination” before period at end of first sentence.
 
-    Subsec. (f)(1). [Pub. L. 100–485, § 608(d)(16)(A)(vi)][/us/pl/100/485/s608/d/16/A/vi], substituted “transfer an amount” for “transfer to the community spouse (or to another for the sole benefit of the community spouse) an amount” and “as soon as practicable” for “as soon as pacticable”.
+    Subsec. (f)(1). [Pub. L. 100–485][/us/pl/100/485], § 608(d)(16)(A)(vi), substituted “transfer an amount” for “transfer to the community spouse (or to another for the sole benefit of the community spouse) an amount” and “as soon as practicable” for “as soon as pacticable”.
 
-    Subsec. (f)(3). [Pub. L. 100–485, § 608(d)(16)(A)(vii)][/us/pl/100/485/s608/d/16/A/vii], substituted “spouse or a family member” for “spouse of a family member”.
+    Subsec. (f)(3). [Pub. L. 100–485][/us/pl/100/485], § 608(d)(16)(A)(vii), substituted “spouse or a family member” for “spouse of a family member”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -349,7 +349,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–171, title VI, § 6013(b)][/us/pl/109/171/s6013/b], Feb. 8, 2006, [120 Stat. 64][/us/stat/120/64], provided that: 
+[Pub. L. 109–171, title VI][/us/pl/109/171/tVI], § 6013(b), Feb. 8, 2006, [120 Stat. 64][/us/stat/120/64], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to transfers and allocations made on or after the date of the enactment of this Act \[Feb. 8, 2006\] by individuals who become institutionalized spouses on or after such date.”
 
@@ -363,7 +363,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title IV, § 4714(d)][/us/pl/101/508/s4714/d], Nov. 5, 1990, [104 Stat. 1388–192][/us/stat/104/1388-192], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4714(d), Nov. 5, 1990, [104 Stat. 1388–192][/us/stat/104/1388-192], provided that: 
 
 > “The amendments made \[by\] this section \[amending this section\] shall take effect as if included in the enactment of section 303 of the Medicare Catastrophic Coverage Act of 1988 \[[Pub. L. 100–360][/us/pl/100/360]\].”
 
@@ -377,7 +377,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–360, title III, § 303(g)][/us/pl/100/360/s303/g], July 1, 1988, [102 Stat. 763][/us/stat/102/763], as amended by [Pub. L. 100–485, title VI, § 608(d)(16)(D)][/us/pl/100/485/s608/d/16/D], Oct. 13, 1988, [102 Stat. 2418][/us/stat/102/2418], provided that:
+[Pub. L. 100–360, title III][/us/pl/100/360/tIII], § 303(g), July 1, 1988, [102 Stat. 763][/us/stat/102/763], as amended by [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(16)(D), Oct. 13, 1988, [102 Stat. 2418][/us/stat/102/2418], provided that:
 
 >     “(1)
 
@@ -403,7 +403,7 @@
 
  __Protection for Recipients of Home and Community-Based Services Against Spousal Impoverishment__ 
 
-[Pub. L. 111–148, title II, § 2404][/us/pl/111/148/s2404], Mar. 23, 2010, [124 Stat. 305][/us/stat/124/305], provided that: 
+[Pub. L. 111–148, title II][/us/pl/111/148/tII], § 2404, Mar. 23, 2010, [124 Stat. 305][/us/stat/124/305], provided that: 
 
 > “During the 5-year period that begins on January 1, 2014, section 1924(h)(1)(A) of the Social Security Act ([42 U.S.C. 1396r–5(h)(1)(A)][/us/usc/t42/s1396r–5/h/1/A]) shall be applied as though ‘is eligible for medical assistance for home and community-based services provided under subsection (c), (d), or (i) of section 1915 \[[42 U.S.C. 1396n][/us/usc/t42/s1396n]\], under a waiver approved under section 1115 \[[42 U.S.C. 1315][/us/usc/t42/s1315]\], or who is eligible for such medical assistance by reason of being determined eligible under section 1902(a)(10)(C) \[[42 U.S.C. 1396a(a)(10)(C)][/us/usc/t42/s1396a/a/10/C]\] or by reason of section 1902(f) \[[42 U.S.C. 1396a(f)][/us/usc/t42/s1396a/f]\] or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care, or who is eligible for medical assistance for home and community-based attendant services and supports under section 1915(k) \[[42 U.S.C. 1396n(k)][/us/usc/t42/s1396n/k]\]’ were substituted in such section for ‘(at the option of the State) is described in section 1902(a)(10)(A)(ii)(VI) \[[42 U.S.C. 1396a(a)(10)(A)(ii)(VI)][/us/usc/t42/s1396a/a/10/A/ii/VI]\]’.”
 
@@ -429,51 +429,51 @@
 [/us/usc/t42/s1396p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p
 [/us/usc/t42/s1396a/a/10/A/ii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fii%2FVI
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/360/s303/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs303%2Fa%2F1%2FB
+[/us/pl/100/360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIII
 [/us/stat/102/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F754
-[/us/pl/100/485/s608/d/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2417
-[/us/pl/101/239/s6411/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6411%2Fe%2F3
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2271
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-192
-[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F627
-[/us/pl/103/252/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs125%2Fb
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F650
-[/us/pl/105/33/s4802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4802%2Fb%2F1
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F548
-[/us/pl/109/171/s6013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6013%2Fa
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F64
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2014/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fe
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s1396u–4/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%934%2Fa%2F7
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
-[/us/pl/103/66/s13643/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13643%2Fc%2F1
-[/us/pl/103/66/s13611/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13611%2Fd%2F2
-[/us/pl/101/508/s4744/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4744%2Fb%2F1
-[/us/pl/101/508/s4714/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4714%2Fa
-[/us/pl/101/508/s4714/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4714%2Fc
-[/us/pl/101/508/s4714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4714%2Fb
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/485/s608/d/16/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA%2Fi
-[/us/pl/100/485/s608/d/16/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA%2Fii
-[/us/pl/100/485/s608/d/16/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA%2Fiii
-[/us/pl/100/485/s608/d/16/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA%2Fiv
-[/us/pl/100/485/s608/d/16/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA%2Fv
-[/us/pl/100/485/s608/d/16/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA%2Fvi
-[/us/pl/100/485/s608/d/16/A/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FA%2Fvii
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -482,7 +482,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/109/171/s6013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs6013%2Fb
+[/us/pl/109/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVI
 [/us/stat/120/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F64
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
@@ -492,7 +492,7 @@
 [/us/pl/103/66/s13611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13611
 [/us/pl/103/66/s13611/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13611%2Fe
 [/us/usc/t42/s1396p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p
-[/us/pl/101/508/s4714/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4714%2Fd
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-192
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
@@ -503,9 +503,9 @@
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/485/s608/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fg%2F1
 [/us/usc/t42/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs704
-[/us/pl/100/360/s303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs303%2Fg
+[/us/pl/100/360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIII
 [/us/stat/102/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F763
-[/us/pl/100/485/s608/d/16/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F16%2FD
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2418
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396r–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%935
@@ -515,7 +515,7 @@
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/111/148/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2404
+[/us/pl/111/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtII
 [/us/stat/124/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F305
 [/us/usc/t42/s1396r–5/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%935%2Fh%2F1%2FA
 [/us/usc/t42/s1396n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n

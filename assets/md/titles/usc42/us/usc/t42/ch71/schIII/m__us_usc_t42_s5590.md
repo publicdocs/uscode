@@ -19,7 +19,7 @@
 
     (b) The Secretary is authorized to encourage, to the maximum extent practicable, international participation and cooperation in the development and maintenance of programs established under this plan. The Secretary, in consultation and cooperation with the Federal officials specified in subsection (a) of this section, shall insure to the maximum extent possible that the plan submitted under subsection (a) of this section and any other international activities under this section are consistent with and reflective of any similar activities or requirements under any other Federal statute, specifically including any of the several programs under other agencies and Departments involving United States international cooperation and assistance in nonnuclear energy technology, and will not duplicate activities under such programs. The plan required in subsection (a) of this section shall specifically identify all such programs and statutes and describe how the activities under this section will be consistent with such programs, will be coordinated with them, and will avoid duplication of activities under such programs.
 
-([Pub. L. 95–590, § 11][/us/pl/95/590/s11], Nov. 4, 1978, [92 Stat. 2520][/us/stat/92/2520]; [Pub. L. 103–82, title IV, § 405(j)][/us/pl/103/82/s405/j], Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922].)
+([Pub. L. 95–590][/us/pl/95/590], § 11, Nov. 4, 1978, [92 Stat. 2520][/us/stat/92/2520]; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(j), Sept. 21, 1993, [107 Stat. 922][/us/stat/107/922].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/95/590/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs11
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2520
-[/us/pl/103/82/s405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fj
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F922
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

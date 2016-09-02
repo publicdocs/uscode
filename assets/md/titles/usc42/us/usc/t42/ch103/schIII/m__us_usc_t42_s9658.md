@@ -59,11 +59,11 @@
 
                 (ii) In the case of an incompetent individual, the date on which such individual becomes competent or has had a legal representative appointed.
 
-([Pub. L. 96–510, title III, § 309][/us/pl/96/510/s309], as added [Pub. L. 99–499, title II, § 203(a)][/us/pl/99/499/s203/a], Oct. 17, 1986, [100 Stat. 1695][/us/stat/100/1695].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 309, as added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 203(a), Oct. 17, 1986, [100 Stat. 1695][/us/stat/100/1695].)
 
  __Effective Date__ 
 
-[Pub. L. 99–499, title II, § 203(b)][/us/pl/99/499/s203/b], Oct. 17, 1986, [100 Stat. 1696][/us/stat/100/1696], provided that: 
+[Pub. L. 99–499, title II][/us/pl/99/499/tII], § 203(b), Oct. 17, 1986, [100 Stat. 1696][/us/stat/100/1696], provided that: 
 
 > “The amendment made by subsection (a) of this section \[enacting this section\] shall take effect with respect to actions brought after December 11, 1980.”
 
@@ -75,10 +75,10 @@
 ----------
 
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/96/510/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs309
-[/us/pl/99/499/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs203%2Fa
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1695
-[/us/pl/99/499/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs203%2Fb
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1696
 
 

@@ -19,7 +19,7 @@
 
     (b) Any agreement heretofore executed which would have been authorized by this subchapter, if this subchapter had been in effect on the date of execution thereof, is ratified and confirmed.
 
-([May 27, 1955, ch. 105, § 2][/us/act/1955-05-27/ch105/s2], [69 Stat. 66][/us/stat/69/66].)
+([May 27, 1955, ch. 105][/us/act/1955-05-27/ch105], § 2, [69 Stat. 66][/us/stat/69/66].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1955-05-27/ch105/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105%2Fs2
+[/us/act/1955-05-27/ch105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105
 [/us/stat/69/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F66
 
 

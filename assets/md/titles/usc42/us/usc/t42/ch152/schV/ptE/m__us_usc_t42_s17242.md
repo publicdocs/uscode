@@ -59,7 +59,7 @@
 
         There is authorized to be appropriated to carry out this section $8,000,000 for the period of fiscal years 2009 through 2014.
 
-([Pub. L. 110–140, title VI, § 652][/us/pl/110/140/s652], Dec. 19, 2007, [121 Stat. 1694][/us/stat/121/1694].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 652, Dec. 19, 2007, [121 Stat. 1694][/us/stat/121/1694].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t42/s6313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6313%2Fc
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/110/140/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs652
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1694
 
 

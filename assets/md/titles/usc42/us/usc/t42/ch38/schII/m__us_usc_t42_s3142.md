@@ -17,15 +17,15 @@
 
     Notwithstanding any other provision of law, the Secretary may provide to an eligible recipient any assistance available under this subchapter for a project to be carried out on a military or Department of Energy installation that is closed or scheduled for closure or realignment without requiring that the eligible recipient have title to the property or a leasehold interest in the property for any specified term.
 
-([Pub. L. 89–136, title II, § 202][/us/pl/89/136/s202], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3602][/us/stat/112/3602].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 202, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3602][/us/stat/112/3602].)
 
  __Prior Provisions__ 
 
-    A prior section 3142, [Pub. L. 89–136, title II, § 202][/us/pl/89/136/s202], Aug. 26, 1965, [79 Stat. 556][/us/stat/79/556]; [Pub. L. 93–423, § 4(b)][/us/pl/93/423/s4/b], Sept. 27, 1974, [88 Stat. 1158][/us/stat/88/1158]; [Pub. L. 94–487, title I][/us/pl/94/487], §§ 107(c), (d), 108, Oct. 12, 1976, [90 Stat. 2332][/us/stat/90/2332], authorized business loans and loan guarantees, prior to repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a].
+    A prior section 3142, [Pub. L. 89–136, title II][/us/pl/89/136/tII], § 202, Aug. 26, 1965, [79 Stat. 556][/us/stat/79/556]; [Pub. L. 93–423][/us/pl/93/423], § 4(b), Sept. 27, 1974, [88 Stat. 1158][/us/stat/88/1158]; [Pub. L. 94–487, title I][/us/pl/94/487/tI], §§ 107(c), (d), 108, Oct. 12, 1976, [90 Stat. 2332][/us/stat/90/2332], authorized business loans and loan guarantees, prior to repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a).
 
-    A prior section 3142–1, [Pub. L. 91–596, § 28(d)][/us/pl/91/596/s28/d], Dec. 29, 1970, [84 Stat. 1618][/us/stat/84/1618]; [Pub. L. 93–237, § 2(c)][/us/pl/93/237/s2/c], Jan. 2, 1974, [87 Stat. 1024][/us/stat/87/1024], which authorized loans for small business compliance with occupational safety and health standards, was omitted from the Code in view of the repeal of subchapter II of this chapter by [Pub. L. 105–393][/us/pl/105/393].
+    A prior section 3142–1, [Pub. L. 91–596][/us/pl/91/596], § 28(d), Dec. 29, 1970, [84 Stat. 1618][/us/stat/84/1618]; [Pub. L. 93–237][/us/pl/93/237], § 2(c), Jan. 2, 1974, [87 Stat. 1024][/us/stat/87/1024], which authorized loans for small business compliance with occupational safety and health standards, was omitted from the Code in view of the repeal of subchapter II of this chapter by [Pub. L. 105–393][/us/pl/105/393].
 
-    A prior section 3142a, [Pub. L. 89–298, title II, § 217][/us/pl/89/298/s217], Oct. 27, 1965, [79 Stat. 1088][/us/stat/79/1088], which authorized purchase of indebtedness and loans for waterways projects, was transferred to [section 2220 of Title 33][/us/usc/t33/s2220], Navigation and Navigable Waters.
+    A prior section 3142a, [Pub. L. 89–298, title II][/us/pl/89/298/tII], § 217, Oct. 27, 1965, [79 Stat. 1088][/us/stat/79/1088], which authorized purchase of indebtedness and loans for waterways projects, was transferred to [section 2220 of Title 33][/us/usc/t33/s2220], Navigation and Navigable Waters.
 
 ----------
 
@@ -34,22 +34,22 @@
 ----------
 ----------
 
-[/us/pl/89/136/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs202
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3602
-[/us/pl/89/136/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs202
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
 [/us/stat/79/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F556
-[/us/pl/93/423/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F423%2Fs4%2Fb
+[/us/pl/93/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F423
 [/us/stat/88/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1158
-[/us/pl/94/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487
+[/us/pl/94/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F487%2FtI
 [/us/stat/90/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2332
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
-[/us/pl/91/596/s28/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs28%2Fd
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1618
-[/us/pl/93/237/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237%2Fs2%2Fc
+[/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
 [/us/stat/87/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1024
 [/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
-[/us/pl/89/298/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs217
+[/us/pl/89/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtII
 [/us/stat/79/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1088
 [/us/usc/t33/s2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2220
 

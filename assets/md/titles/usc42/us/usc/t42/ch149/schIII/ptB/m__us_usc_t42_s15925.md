@@ -27,7 +27,7 @@
 
         The fair market value rent of a linear right-of-way across public lands or National Forest System lands issued under section 504 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1764][/us/usc/t43/s1764]) or [section 185 of title 30][/us/usc/t30/s185] shall be determined in accordance with subpart 2806 of title 43, Code of Federal Regulations, as in effect on August 8, 2005 (including the annual or periodic updates specified in the regulations), and as updated in accordance with subsection (a).
 
-([Pub. L. 109–58, title III, § 367][/us/pl/109/58/s367], Aug. 8, 2005, [119 Stat. 726][/us/stat/119/726].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 367, Aug. 8, 2005, [119 Stat. 726][/us/stat/119/726].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t43/s1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1761
 [/us/usc/t43/s1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1764
 [/us/usc/t30/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185
-[/us/pl/109/58/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs367
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F726
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

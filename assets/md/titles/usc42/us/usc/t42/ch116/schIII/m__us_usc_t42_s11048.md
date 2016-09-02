@@ -17,7 +17,7 @@
 
     The Administrator may prescribe such regulations as may be necessary to carry out this chapter.
 
-([Pub. L. 99–499, title III, § 328][/us/pl/99/499/s328], Oct. 17, 1986, [100 Stat. 1757][/us/stat/100/1757].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 328, Oct. 17, 1986, [100 Stat. 1757][/us/stat/100/1757].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/499/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs328
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1757
 
 

@@ -77,7 +77,7 @@
 
         Funds available under this subchapter shall be awarded, without regard to subsection (c) of this section, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
 
-([Pub. L. 90–351, title I, § 2501][/us/pl/90/351/s2501], as added [Pub. L. 105–181, § 3(a)(3)][/us/pl/105/181/s3/a/3], June 16, 1998, [112 Stat. 513][/us/stat/112/513]; amended [Pub. L. 106–517, § 3(a)][/us/pl/106/517/s3/a], (b), Nov. 13, 2000, [114 Stat. 2407][/us/stat/114/2407], 2408; [Pub. L. 110–177, title III, § 302(d)][/us/pl/110/177/s302/d], Jan. 7, 2008, [121 Stat. 2539][/us/stat/121/2539]; [Pub. L. 111–8, div. B, title II][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 583][/us/stat/123/583].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2501, as added [Pub. L. 105–181][/us/pl/105/181], § 3(a)(3), June 16, 1998, [112 Stat. 513][/us/stat/112/513]; amended [Pub. L. 106–517][/us/pl/106/517], § 3(a), (b), Nov. 13, 2000, [114 Stat. 2407][/us/stat/114/2407], 2408; [Pub. L. 110–177, title III][/us/pl/110/177/tIII], § 302(d), Jan. 7, 2008, [121 Stat. 2539][/us/stat/121/2539]; [Pub. L. 111–8, div. B, title II][/us/pl/111/8/dB/tII], Mar. 11, 2009, [123 Stat. 583][/us/stat/123/583].)
 
  __References in Text__ 
 
@@ -91,13 +91,13 @@
 
     2009—Subsec. (f)(3). [Pub. L. 111–8][/us/pl/111/8] added par. (3).
 
-    2008—Subsec. (a). [Pub. L. 110–177, § 302(d)(1)][/us/pl/110/177/s302/d/1], inserted “and State and local court officers” after “tribal law enforcement officers”.
+    2008—Subsec. (a). [Pub. L. 110–177][/us/pl/110/177], § 302(d)(1), inserted “and State and local court officers” after “tribal law enforcement officers”.
 
-    Subsec. (b)(1). [Pub. L. 110–177, § 302(d)(2)][/us/pl/110/177/s302/d/2], inserted “State or local court,” after “government,”.
+    Subsec. (b)(1). [Pub. L. 110–177][/us/pl/110/177], § 302(d)(2), inserted “State or local court,” after “government,”.
 
-    2000—Subsec. (f). [Pub. L. 106–517, § 3(a)][/us/pl/106/517/s3/a], designated first sentence as par. (1), inserted par. heading, substituted “subsection (a) of this section—” and subpars. (A) and (B) for “subsection (a) of this section may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
+    2000—Subsec. (f). [Pub. L. 106–517][/us/pl/106/517], § 3(a), designated first sentence as par. (1), inserted par. heading, substituted “subsection (a) of this section—” and subpars. (A) and (B) for “subsection (a) of this section may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
 
-    Subsec. (g). [Pub. L. 106–517, § 3(b)][/us/pl/106/517/s3/b], amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents.”
+    Subsec. (g). [Pub. L. 106–517][/us/pl/106/517], § 3(b), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents.”
 
  __Transfer of Functions__ 
 
@@ -105,7 +105,7 @@
 
  __Findings of 2000 Amendments__ 
 
-[Pub. L. 106–517, § 2][/us/pl/106/517/s2], Nov. 13, 2000, [114 Stat. 2407][/us/stat/114/2407], provided that: 
+[Pub. L. 106–517][/us/pl/106/517], § 2, Nov. 13, 2000, [114 Stat. 2407][/us/stat/114/2407], provided that: 
 
 > “Congress finds that—
 
@@ -121,7 +121,7 @@
 
  __Findings and Purpose of 1998 Amendments__ 
 
-[Pub. L. 105–181, § 2][/us/pl/105/181/s2], June 16, 1998, [112 Stat. 512][/us/stat/112/512], provided that:
+[Pub. L. 105–181][/us/pl/105/181], § 2, June 16, 1998, [112 Stat. 512][/us/stat/112/512], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -151,14 +151,14 @@
 ----------
 
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
-[/us/pl/90/351/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2501
-[/us/pl/105/181/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181%2Fs3%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/105/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181
 [/us/stat/112/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F513
-[/us/pl/106/517/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517%2Fs3%2Fa
+[/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
 [/us/stat/114/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2407
-[/us/pl/110/177/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs302%2Fd
+[/us/pl/110/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtIII
 [/us/stat/121/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2539
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdB%2FtII
 [/us/stat/123/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F583
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/stat/111/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2440
@@ -166,15 +166,15 @@
 [/us/pl/90/351/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2501
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
-[/us/pl/110/177/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs302%2Fd%2F1
-[/us/pl/110/177/s302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs302%2Fd%2F2
-[/us/pl/106/517/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517%2Fs3%2Fa
-[/us/pl/106/517/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517%2Fs3%2Fb
+[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
+[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
+[/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
+[/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741
-[/us/pl/106/517/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517%2Fs2
+[/us/pl/106/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F517
 [/us/stat/114/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2407
-[/us/pl/105/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181%2Fs2
+[/us/pl/105/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181
 [/us/stat/112/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F512
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 

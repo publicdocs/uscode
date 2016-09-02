@@ -213,7 +213,7 @@
 
         (2) such sums as are necessary for each of fiscal years 2008, 2009, and 2010.
 
-([Pub. L. 109–59, title VI, § 6015][/us/pl/109/59/s6015], Aug. 10, 2005, [119 Stat. 1884][/us/stat/119/1884].)
+([Pub. L. 109–59, title VI][/us/pl/109/59/tVI], § 6015, Aug. 10, 2005, [119 Stat. 1884][/us/stat/119/1884].)
 
  __Codification__ 
 
@@ -227,7 +227,7 @@ Section was enacted as part of the Safe, Accountable, Flexible, Efficient Transp
 ----------
 
 [/us/usc/t42/s16091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16091
-[/us/pl/109/59/s6015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6015
+[/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1884
 
 

@@ -17,7 +17,7 @@
 
     As between eligible applicants seeking assistance under sections 1471 to 1474, inclusive, of this title, the Secretary shall give preference to veterans and the families of deceased servicemen. As used herein, a “veteran” shall mean a person who served in the military forces of the United States during any war between the United States and any other nation or during the period beginning June 27, 1950, and ending on such date as shall be determined by Presidential proclamation or concurrent resolution of Congress, or during the period beginning after January 31, 1955, and ending on August 4, 1964, or during the Vietnam era (as defined in [section 101(29) of title 38][/us/usc/t38/s101/29]), and who was discharged or released therefrom on conditions other than dishonorable. “Deceased servicemen” shall mean persons who served in the military forces of the United States during any war between the United States and any other nation or during the period beginning June 27, 1950, and ending on such date as shall be determined by Presidential proclamation or concurrent resolution of Congress, or during the period beginning after January 31, 1955, and ending on August 4, 1964, or during the Vietnam era (as defined in [section 101(29) of title 38][/us/usc/t38/s101/29]), and who died in service before the termination of such war or such period or era.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 507, [63 Stat. 435][/us/stat/63/435]; [June 30, 1953, ch. 174, § 3][/us/act/1953-06-30/ch174/s3], [67 Stat. 132][/us/stat/67/132]; [Pub. L. 87–70, title VIII, § 804(b)(2)][/us/pl/87/70/s804/b/2], June 30, 1961, [75 Stat. 188][/us/stat/75/188]; [Pub. L. 93–383, title V, § 507][/us/pl/93/383/s507], Aug. 22, 1974, [88 Stat. 694][/us/stat/88/694].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 507, [63 Stat. 435][/us/stat/63/435]; [June 30, 1953, ch. 174][/us/act/1953-06-30/ch174], § 3, [67 Stat. 132][/us/stat/67/132]; [Pub. L. 87–70, title VIII][/us/pl/87/70/tVIII], § 804(b)(2), June 30, 1961, [75 Stat. 188][/us/stat/75/188]; [Pub. L. 93–383, title V][/us/pl/93/383/tV], § 507, Aug. 22, 1974, [88 Stat. 694][/us/stat/88/694].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Continuation of Provisions__ 
 
-    Joint Res. [July 3, 1952, ch. 570, § 1(a)(20)][/us/act/1952-07-03/ch570/s1/a/20], [66 Stat. 332][/us/stat/66/332], as amended by Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], provided that qualification period should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond July 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
+    Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], § 1(a)(20), [66 Stat. 332][/us/stat/66/332], as amended by Joint Res. [Mar. 31, 1953, ch. 13][/us/act/1953-03-31/ch13], § 1, [67 Stat. 18][/us/stat/67/18], provided that qualification period should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond July 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
 
  __Repeal of Prior Acts Continuing Section__ 
 
@@ -50,17 +50,17 @@
 [/us/usc/t38/s101/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F29
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F435
-[/us/act/1953-06-30/ch174/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch174%2Fs3
+[/us/act/1953-06-30/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch174
 [/us/stat/67/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F132
-[/us/pl/87/70/s804/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs804%2Fb%2F2
+[/us/pl/87/70/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVIII
 [/us/stat/75/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F188
-[/us/pl/93/383/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs507
+[/us/pl/93/383/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtV
 [/us/stat/88/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F694
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
-[/us/act/1952-07-03/ch570/s1/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs1%2Fa%2F20
+[/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F332
-[/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
+[/us/act/1953-03-31/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1952-04-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-14%2Fch204

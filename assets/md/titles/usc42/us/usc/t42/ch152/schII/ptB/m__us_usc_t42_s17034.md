@@ -39,7 +39,7 @@
 
         There is authorized to be appropriated to the Secretary to make grants described in subsection (b) $50,000,000 for fiscal year 2008, to remain available until expended.
 
-([Pub. L. 110–140, title II, § 230][/us/pl/110/140/s230], Dec. 19, 2007, [121 Stat. 1536][/us/stat/121/1536].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 230, Dec. 19, 2007, [121 Stat. 1536][/us/stat/121/1536].)
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
 [/us/usc/t20/s1059c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c%2Fb
 [/us/usc/t20/s1101a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a%2Fa
-[/us/pl/110/140/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs230
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1536
 
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to carry out sections 434 through 439 and 482  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $4,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
 
-([Pub. L. 110–140, title IV, § 440][/us/pl/110/140/s440], Dec. 19, 2007, [121 Stat. 1623][/us/stat/121/1623].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 440, Dec. 19, 2007, [121 Stat. 1623][/us/stat/121/1623].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs440
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1623
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t42/s8253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253

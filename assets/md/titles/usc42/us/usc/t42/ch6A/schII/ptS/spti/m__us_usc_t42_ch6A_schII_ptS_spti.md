@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subpart is based on subpart I of part S of title III of act July 1, 1944, as added by [Pub. L. 111–148, title III, § 3011][/us/pl/111/148/s3011], Mar. 23, 2010, [124 Stat. 378][/us/stat/124/378]. No subpart II has been enacted.
+    Subpart is based on subpart I of part S of title III of act July 1, 1944, as added by [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3011, Mar. 23, 2010, [124 Stat. 378][/us/stat/124/378]. No subpart II has been enacted.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3011
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F378
 
 

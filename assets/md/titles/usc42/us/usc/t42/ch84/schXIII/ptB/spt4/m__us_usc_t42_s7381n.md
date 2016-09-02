@@ -143,7 +143,7 @@
 
         (4) $25,000,000 for each of fiscal years 2011 through 2013.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3185][/us/pl/101/510/s3185], as added [Pub. L. 110–69, title V, § 5003(d)(3)][/us/pl/110/69/s5003/d/3], Aug. 9, 2007, [121 Stat. 609][/us/stat/121/609]; amended [Pub. L. 111–358, title IX, § 901(b)][/us/pl/111/358/s901/b], Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3185, as added [Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5003(d)(3), Aug. 9, 2007, [121 Stat. 609][/us/stat/121/609]; amended [Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 901(b), Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044].)
 
  __Amendments__ 
 
@@ -156,10 +156,10 @@
 ----------
 ----------
 
-[/us/pl/101/510/s3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3185
-[/us/pl/110/69/s5003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fd%2F3
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F609
-[/us/pl/111/358/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs901%2Fb
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4044
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 

@@ -35,7 +35,7 @@
 
         Guidelines established under subsection (a) of this section shall be published annually, and whenever modified, in the Federal Register. The National Board shall not be subject to the procedural rulemaking requirements of subchapter II of chapter 5 of title 5.
 
-([Pub. L. 100–77, title III, § 316][/us/pl/100/77/s316], July 22, 1987, [101 Stat. 493][/us/stat/101/493]; [Pub. L. 102–550, title XIV, § 1432][/us/pl/102/550/s1432], Oct. 28, 1992, [106 Stat. 4043][/us/stat/106/4043].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 316, July 22, 1987, [101 Stat. 493][/us/stat/101/493]; [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1432, Oct. 28, 1992, [106 Stat. 4043][/us/stat/106/4043].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/100/77/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs316
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F493
-[/us/pl/102/550/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1432
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4043
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

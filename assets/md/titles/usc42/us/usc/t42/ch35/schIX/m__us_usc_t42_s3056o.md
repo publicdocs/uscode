@@ -33,7 +33,7 @@
 
         (3) grants or contracts for any other activity under this subchapter.
 
-([Pub. L. 89–73, title V, § 517][/us/pl/89/73/s517], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2587][/us/stat/120/2587].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 517, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2587][/us/stat/120/2587].)
 
 ----------
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t42/s3056/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056%2Fb
-[/us/pl/89/73/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs517
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2587
 
 

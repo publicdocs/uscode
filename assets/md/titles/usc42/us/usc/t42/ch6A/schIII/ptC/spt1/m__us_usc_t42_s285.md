@@ -17,7 +17,7 @@
 
     The general purpose of the National Cancer Institute (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to the cause, diagnosis, prevention, and treatment of cancer, rehabilitation from cancer, and the continuing care of cancer patients and the families of cancer patients.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 410, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 832][/us/stat/99/832]; amended [Pub. L. 100–607, title I, § 121][/us/pl/100/607/s121], Nov. 4, 1988, [102 Stat. 3054][/us/stat/102/3054].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 410, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 832][/us/stat/99/832]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 121, Nov. 4, 1988, [102 Stat. 3054][/us/stat/102/3054].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F832
-[/us/pl/100/607/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs121
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3054
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 

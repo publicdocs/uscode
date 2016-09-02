@@ -55,7 +55,7 @@
 
         (2) Notwithstanding any other provision of law, any generator who recycles used oil which is exempt under subsection (c)(1) of this section shall not be required to obtain a permit under [section 6925(c) of this title][/us/usc/t42/s6925/c] with respect to such used oil until the Administrator has promulgated standards under [section 6924 of this title][/us/usc/t42/s6924] regarding the recycling of such used oil.
 
-([Pub. L. 89–272, title II, § 3014][/us/pl/89/272/s3014], formerly § 3012, as added [Pub. L. 96–463, § 7(a)][/us/pl/96/463/s7/a], Oct. 15, 1980, [94 Stat. 2057][/us/stat/94/2057], and renumbered and amended [Pub. L. 98–616, title II][/us/pl/98/616], §§ 241(a), 242, title V, § 502(g)(1), Nov. 8, 1984, [98 Stat. 3258][/us/stat/98/3258], 3260, 3277.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3014, formerly § 3012, as added [Pub. L. 96–463][/us/pl/96/463], § 7(a), Oct. 15, 1980, [94 Stat. 2057][/us/stat/94/2057], and renumbered and amended [Pub. L. 98–616, title II][/us/pl/98/616/tII], §§ 241(a), 242, title V, § 502(g)(1), Nov. 8, 1984, [98 Stat. 3258][/us/stat/98/3258], 3260, 3277.)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 
     1984—Subsec. (a). [Pub. L. 98–616][/us/pl/98/616], §§ 241(a), 242, designated existing provisions as subsec. (a) and inserted “, consistent with the protection of human health and the environment” at end.
 
-    Subsecs. (b) to (d). [Pub. L. 98–616, § 241(a)][/us/pl/98/616/s241/a], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 98–616][/us/pl/98/616], § 241(a), added subsecs. (b) to (d).
 
  __Transfer of Functions__ 
 
@@ -88,14 +88,14 @@
 [/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
 [/us/usc/t42/s6925/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fc
 [/us/usc/t42/s6924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924
-[/us/pl/89/272/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3014
-[/us/pl/96/463/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs7%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2057
-[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3258
 [/us/usc/t42/s6932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6932
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
-[/us/pl/98/616/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs241%2Fa
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 
 

@@ -89,7 +89,7 @@
 
         The provisions of this section shall apply only to plans of correction and reduction plans approved by the Secretary by January 1, 1990.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1922, formerly § 1919, as added [Pub. L. 99–272, title IX, § 9516(a)][/us/pl/99/272/s9516/a], Apr. 7, 1986, [100 Stat. 213][/us/stat/100/213]; renumbered § 1922 and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4211(a)(2), 4212(e)(5), Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182]; amended [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(6)(E), July 1, 1988, [102 Stat. 804][/us/stat/102/804]; [Pub. L. 100–647, title VIII, § 8433(a)][/us/pl/100/647/s8433/a], Nov. 10, 1988, [102 Stat. 3804][/us/stat/102/3804].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1922, formerly § 1919, as added [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9516(a), Apr. 7, 1986, [100 Stat. 213][/us/stat/100/213]; renumbered § 1922 and amended [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], §§ 4211(a)(2), 4212(e)(5), Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182]; amended [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(l)(6)(E), July 1, 1988, [102 Stat. 804][/us/stat/102/804]; [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8433(a), Nov. 10, 1988, [102 Stat. 3804][/us/stat/102/3804].)
 
  __Prior Provisions__ 
 
@@ -97,17 +97,17 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 8433(a)(1)][/us/pl/100/647/s8433/a/1], inserted “(including failure to provide active treatment)” after “residents” in introductory provisions.
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 8433(a)(1), inserted “(including failure to provide active treatment)” after “residents” in introductory provisions.
 
-    Subsec. (c)(5). [Pub. L. 100–647, § 8433(a)(2)][/us/pl/100/647/s8433/a/2], inserted “, and to provide active treatment for,” after “safety of”.
+    Subsec. (c)(5). [Pub. L. 100–647][/us/pl/100/647], § 8433(a)(2), inserted “, and to provide active treatment for,” after “safety of”.
 
-    Subsec. (e)(1), (2)(A). [Pub. L. 100–360, § 411][/us/pl/100/360/s411](l)(6)(E), substituted “1396i(b)” for “1396i(c)”.
+    Subsec. (e)(1), (2)(A). [Pub. L. 100–360][/us/pl/100/360], § 411(l)(6)(E), substituted “1396i(b)” for “1396i(c)”.
 
-    Subsec. (f). [Pub. L. 100–647, § 8433(a)(3)][/us/pl/100/647/s8433/a/3], substituted “by January 1, 1990” for “within 3 years after the effective date of final regulations implementing this section”.
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 8433(a)(3), substituted “by January 1, 1990” for “within 3 years after the effective date of final regulations implementing this section”.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VIII, § 8433(b)][/us/pl/100/647/s8433/b], Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805], provided that: 
+[Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8433(b), Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1988\], and shall apply to any proceeding where there has not yet been a final determination by the Secretary (as defined for purposes of judicial review) as of the date of the enactment of this Act.”
 
@@ -115,7 +115,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–272, title IX, § 9516(b)][/us/pl/99/272/s9516/b], Apr. 7, 1986, [100 Stat. 215][/us/stat/100/215], provided that:
+[Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9516(b), Apr. 7, 1986, [100 Stat. 215][/us/stat/100/215], provided that:
 
 >     “(1) The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].
 
@@ -123,7 +123,7 @@
 
  __Regulations__ 
 
-[Pub. L. 100–203, title IV, § 4217][/us/pl/100/203/s4217], Dec. 22, 1987, [101 Stat. 1330–220][/us/stat/101/1330-220], provided that:
+[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4217, Dec. 22, 1987, [101 Stat. 1330–220][/us/stat/101/1330-220], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -133,7 +133,7 @@
 
  __Report to Congress on Implementation and Results of This Section__ 
 
-    [Pub. L. 99–272, title IX, § 9516(c)][/us/pl/99/272/s9516/c], Apr. 7, 1986, [100 Stat. 215][/us/stat/100/215], as amended by [Pub. L. 100–203, title IV, § 4211][/us/pl/100/203/s4211](l), Dec. 22, 1987, [101 Stat. 1330–207][/us/stat/101/1330-207], directed Secretary of Health and Human Services to submit a report to Congress on implementation and results of this section, such report to be submitted not later than 30 months after the effective date of final regulations promulgated to implement this section.
+    [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9516(c), Apr. 7, 1986, [100 Stat. 215][/us/stat/100/215], as amended by [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4211(l), Dec. 22, 1987, [101 Stat. 1330–207][/us/stat/101/1330-207], directed Secretary of Health and Human Services to submit a report to Congress on implementation and results of this section, such report to be submitted not later than 30 months after the effective date of final regulations promulgated to implement this section.
 
 ----------
 
@@ -145,20 +145,20 @@
 [/us/usc/t42/s1396i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396i%2Fb
 [/us/usc/t42/s1396i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396i%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/99/272/s9516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9516%2Fa
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F213
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-182
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F804
-[/us/pl/100/647/s8433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8433%2Fa
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3804
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
-[/us/pl/100/647/s8433/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8433%2Fa%2F1
-[/us/pl/100/647/s8433/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8433%2Fa%2F2
-[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
-[/us/pl/100/647/s8433/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8433%2Fa%2F3
-[/us/pl/100/647/s8433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8433%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3805
 [/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
@@ -166,14 +166,14 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/360/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fa
 [/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
-[/us/pl/99/272/s9516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9516%2Fb
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F215
 [/us/usc/t42/s1396r–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%933
-[/us/pl/100/203/s4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4217
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-220
-[/us/pl/99/272/s9516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9516%2Fc
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F215
-[/us/pl/100/203/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4211
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-207
 
 

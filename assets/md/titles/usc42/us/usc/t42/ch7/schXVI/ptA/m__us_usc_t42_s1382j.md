@@ -71,7 +71,7 @@
 
             (D) granted political asylum by the Attorney General.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1621, as added [Pub. L. 96–265, title V, § 504(b)][/us/pl/96/265/s504/b], June 9, 1980, [94 Stat. 471][/us/stat/94/471]; amended [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2611(d), 2663(g)(10), July 18, 1984, [98 Stat. 1131][/us/stat/98/1131], 1169; [Pub. L. 103–152, § 7(a)(1)][/us/pl/103/152/s7/a/1], (b)(1), Nov. 24, 1993, [107 Stat. 1519][/us/stat/107/1519]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1621, as added [Pub. L. 96–265, title V][/us/pl/96/265/tV], § 504(b), June 9, 1980, [94 Stat. 471][/us/stat/94/471]; amended [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], §§ 2611(d), 2663(g)(10), July 18, 1984, [98 Stat. 1131][/us/stat/98/1131], 1169; [Pub. L. 103–152][/us/pl/103/152], § 7(a)(1), (b)(1), Nov. 24, 1993, [107 Stat. 1519][/us/stat/107/1519]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478].)
 
  __References in Text__ 
 
@@ -81,13 +81,13 @@
 
     1994—Subsecs. (d), (e). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except where appearing before “of State” in subsec. (d)(2).
 
-    1993—[Pub. L. 103–152, § 7(b)(1)][/us/pl/103/152/s7/b/1], substituted “3 years” for “5 years” in subsecs. (a), (c), (d)(1), and (e).
+    1993—[Pub. L. 103–152][/us/pl/103/152], § 7(b)(1), substituted “3 years” for “5 years” in subsecs. (a), (c), (d)(1), and (e).
 
-    [Pub. L. 103–152, § 7(a)(1)][/us/pl/103/152/s7/a/1], substituted “5 years” for “three years” in subsecs. (a), (c), (d)(1), and (e).
+    [Pub. L. 103–152][/us/pl/103/152], § 7(a)(1), substituted “5 years” for “three years” in subsecs. (a), (c), (d)(1), and (e).
 
-    1984—Subsec. (b)(2)(B). [Pub. L. 98–369, § 2611(d)][/us/pl/98/369/s2611/d], substituted “the applicable amount determined under [section 1382(a)(3)(B) of this title][/us/usc/t42/s1382/a/3/B]” for “$1,500” and “the applicable amount determined under [section 1382(a)(3)(A) of this title][/us/usc/t42/s1382/a/3/A]” for “$2,250”.
+    1984—Subsec. (b)(2)(B). [Pub. L. 98–369][/us/pl/98/369], § 2611(d), substituted “the applicable amount determined under [section 1382(a)(3)(B) of this title][/us/usc/t42/s1382/a/3/B]” for “$1,500” and “the applicable amount determined under [section 1382(a)(3)(A) of this title][/us/usc/t42/s1382/a/3/A]” for “$2,250”.
 
-    Subsec. (e). [Pub. L. 98–369, § 2663(g)(10)][/us/pl/98/369/s2663/g/10], substituted “severally” for “severably”.
+    Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 2663(g)(10), substituted “severally” for “severably”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -95,11 +95,11 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–152, § 7(a)(2)][/us/pl/103/152/s7/a/2], Nov. 24, 1993, [107 Stat. 1519][/us/stat/107/1519], provided that: 
+[Pub. L. 103–152][/us/pl/103/152], § 7(a)(2), Nov. 24, 1993, [107 Stat. 1519][/us/stat/107/1519], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1994.”
 
-[Pub. L. 103–152, § 7(b)(2)][/us/pl/103/152/s7/b/2], Nov. 24, 1993, [107 Stat. 1519][/us/stat/107/1519], provided that: 
+[Pub. L. 103–152][/us/pl/103/152], § 7(b)(2), Nov. 24, 1993, [107 Stat. 1519][/us/stat/107/1519], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1996.”
 
@@ -111,7 +111,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–265, title V, § 504(c)][/us/pl/96/265/s504/c], June 9, 1980, [94 Stat. 473][/us/stat/94/473], provided that: 
+[Pub. L. 96–265, title V][/us/pl/96/265/tV], § 504(c), June 9, 1980, [94 Stat. 473][/us/stat/94/473], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 1382c of this title][/us/usc/t42/s1382c]\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] for the first time after September 30, 1980.”
 
@@ -141,30 +141,30 @@
 [/us/usc/t8/s1157/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157%2Fc%2F1
 [/us/usc/t8/s1182/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fd%2F5
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/265/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs504%2Fb
+[/us/pl/96/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtV
 [/us/stat/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F471
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1131
-[/us/pl/103/152/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs7%2Fa%2F1
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/stat/107/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1519
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
 [/us/usc/t8/s1153/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fa%2F7
 [/us/pl/96/212/s203/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs203%2Fh
 [/us/usc/t8/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/103/152/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs7%2Fb%2F1
-[/us/pl/103/152/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs7%2Fa%2F1
-[/us/pl/98/369/s2611/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2611%2Fd
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t42/s1382/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fa%2F3%2FB
 [/us/usc/t42/s1382/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fa%2F3%2FA
-[/us/pl/98/369/s2663/g/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F10
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/103/152/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs7%2Fa%2F2
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/stat/107/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1519
-[/us/pl/103/152/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs7%2Fb%2F2
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/stat/107/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1519
 [/us/pl/98/369/s2611/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2611%2Fd
 [/us/pl/98/369/s2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2646
@@ -172,7 +172,7 @@
 [/us/pl/98/369/s2663/g/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fg%2F10
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/96/265/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs504%2Fc
+[/us/pl/96/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtV
 [/us/stat/94/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F473
 [/us/usc/t42/s1382c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381

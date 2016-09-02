@@ -67,19 +67,19 @@
 
         The National Urban Policy Report shall, when transmitted to Congress, be referred in the Senate to the Committee on Banking, Housing, and Urban Affairs, and in the House of Representatives to the Committee on Banking, Finance and Urban Affairs.
 
-([Pub. L. 91–609, title VII, § 703][/us/pl/91/609/s703], Dec. 31, 1970, [84 Stat. 1792][/us/stat/84/1792]; [Pub. L. 95–128, title VI, § 601(c)][/us/pl/95/128/s601/c], Oct. 12, 1977, [91 Stat. 1143][/us/stat/91/1143]; [Pub. L. 102–550, title IX, § 921(2)][/us/pl/102/550/s921/2], (3), Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883], 3884.)
+([Pub. L. 91–609, title VII][/us/pl/91/609/tVII], § 703, Dec. 31, 1970, [84 Stat. 1792][/us/stat/84/1792]; [Pub. L. 95–128, title VI][/us/pl/95/128/tVI], § 601(c), Oct. 12, 1977, [91 Stat. 1143][/us/stat/91/1143]; [Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 921(2), (3), Oct. 28, 1992, [106 Stat. 3883][/us/stat/106/3883], 3884.)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 921(2)(A)][/us/pl/102/550/s921/2/A], substituted “, not later than June 1, 1993, and not later than the first day of June of every odd-numbered year thereafter,” for “during February 1978, and during February of every even-numbered year thereafter,” in introductory provisions.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 921(2)(A), substituted “, not later than June 1, 1993, and not later than the first day of June of every odd-numbered year thereafter,” for “during February 1978, and during February of every even-numbered year thereafter,” in introductory provisions.
 
-    Subsec. (a)(8). [Pub. L. 102–550, § 921(2)(B)][/us/pl/102/550/s921/2/B], which directed the substitution of “legislative or administrative proposals—” and subpars. (A) to (I) for “ ‘such’ and all that follows through the end of the sentence”, was executed by making the substitution for “such legislation and administrative actions as may be deemed necessary and desirable.” which followed “such” the second place it appeared to reflect the probable intent of Congress.
+    Subsec. (a)(8). [Pub. L. 102–550][/us/pl/102/550], § 921(2)(B), which directed the substitution of “legislative or administrative proposals—” and subpars. (A) to (I) for “ ‘such’ and all that follows through the end of the sentence”, was executed by making the substitution for “such legislation and administrative actions as may be deemed necessary and desirable.” which followed “such” the second place it appeared to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 102–550, § 921(3)][/us/pl/102/550/s921/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 921(3), added subsec. (d).
 
-    1977—Subsec. (a). [Pub. L. 95–128, § 601(c)(1)][/us/pl/95/128/s601/c/1], inserted provisions in introductory text respecting transmittal of a Report on National Urban Policy to the Congress and struck out prior similar provisions which required the President to utilize the capacity of his office, adequately organized and staffed for the purpose, through an identified unit of the Domestic Council, and of the departments and agencies within the executive branch to collect, analyze, and evaluate such statistics, data, and other information (including demographic, economic, social, land use, environmental, and governmental information) as would enable the President to transmit to the Congress during the month of February 1972 and every other year thereafter a Report on Urban Growth for the preceding two calendar years.
+    1977—Subsec. (a). [Pub. L. 95–128][/us/pl/95/128], § 601(c)(1), inserted provisions in introductory text respecting transmittal of a Report on National Urban Policy to the Congress and struck out prior similar provisions which required the President to utilize the capacity of his office, adequately organized and staffed for the purpose, through an identified unit of the Domestic Council, and of the departments and agencies within the executive branch to collect, analyze, and evaluate such statistics, data, and other information (including demographic, economic, social, land use, environmental, and governmental information) as would enable the President to transmit to the Congress during the month of February 1972 and every other year thereafter a Report on Urban Growth for the preceding two calendar years.
 
-    Subsec. (a)(1) to (8). [Pub. L. 95–128, § 601(c)(2)][/us/pl/95/128/s601/c/2]–(6), in amending paragraphs, provided as follows:
+    Subsec. (a)(1) to (8). [Pub. L. 95–128][/us/pl/95/128], § 601(c)(2)–(6), in amending paragraphs, provided as follows:
 
     par. (1), substituted “, statistics, and significant trends relating to the pattern of urban development for the preceding two years” for “and statistics, describing characteristics of urban growth and stabilization and identifying significant trends and developments”;
 
@@ -91,9 +91,9 @@
 
     pars. (5) to (8), redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-    Subsec. (b). [Pub. L. 95–128, § 601(c)(7)][/us/pl/95/128/s601/c/7], substituted “urban policy” for “urban growth”.
+    Subsec. (b). [Pub. L. 95–128][/us/pl/95/128], § 601(c)(7), substituted “urban policy” for “urban growth”.
 
-    Subsec. (c). [Pub. L. 95–128, § 601(c)(8)][/us/pl/95/128/s601/c/8], substituted “National Urban Policy Report” and “urban areas” for “Report on Urban Growth” and “urban growth”, respectively.
+    Subsec. (c). [Pub. L. 95–128][/us/pl/95/128], § 601(c)(8), substituted “National Urban Policy Report” and “urban areas” for “Report on Urban Growth” and “urban growth”, respectively.
 
  __Change of Name__ 
 
@@ -110,19 +110,19 @@
 ----------
 ----------
 
-[/us/pl/91/609/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs703
+[/us/pl/91/609/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtVII
 [/us/stat/84/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1792
-[/us/pl/95/128/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fc
+[/us/pl/95/128/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVI
 [/us/stat/91/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1143
-[/us/pl/102/550/s921/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs921%2F2
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3883
-[/us/pl/102/550/s921/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs921%2F2%2FA
-[/us/pl/102/550/s921/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs921%2F2%2FB
-[/us/pl/102/550/s921/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs921%2F3
-[/us/pl/95/128/s601/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fc%2F1
-[/us/pl/95/128/s601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fc%2F2
-[/us/pl/95/128/s601/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fc%2F7
-[/us/pl/95/128/s601/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs601%2Fc%2F8
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

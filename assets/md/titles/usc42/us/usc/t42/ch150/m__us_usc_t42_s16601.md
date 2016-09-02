@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 109–155, § 2][/us/pl/109/155/s2], Dec. 30, 2005, [119 Stat. 2897][/us/stat/119/2897], which related to definitions, was transferred and is set out as a note under [section 10101 of Title 51][/us/usc/t51/s10101], National and Commercial Space Programs.
+    Section, [Pub. L. 109–155][/us/pl/109/155], § 2, Dec. 30, 2005, [119 Stat. 2897][/us/stat/119/2897], which related to definitions, was transferred and is set out as a note under [section 10101 of Title 51][/us/usc/t51/s10101], National and Commercial Space Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/155/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs2
+[/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
 [/us/stat/119/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2897
 [/us/usc/t51/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs10101
 

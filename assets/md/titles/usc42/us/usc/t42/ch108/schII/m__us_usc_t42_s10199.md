@@ -23,7 +23,7 @@
 
         The Secretary shall make any payment to a State under subsection (a) of this section only if such State agrees to provide, to each unit of general local government within the jurisdictional boundaries of which the potential site or effectively selected site involved is located, at least one-tenth of the payments made by the Secretary to such State under such subsection. A State or affected Indian tribe receiving any payment under subsection (a) of this section shall otherwise have discretion to use such payment for whatever purpose it deems necessary, including the State or tribal activities pursuant to agreements entered into in accordance with [section 10195 of this title][/us/usc/t42/s10195]. Annual payments shall be prorated on a 365-day basis to the specified dates.
 
-([Pub. L. 97–425, title II, § 219][/us/pl/97/425/s219], Jan. 7, 1983, [96 Stat. 2253][/us/stat/96/2253].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 219, Jan. 7, 1983, [96 Stat. 2253][/us/stat/96/2253].)
 
 ----------
 
@@ -37,7 +37,7 @@
 [/us/usc/t42/s10197/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10197%2Fh
 [/us/usc/t42/s10193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10193
 [/us/usc/t42/s10195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10195
-[/us/pl/97/425/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs219
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2253
 
 

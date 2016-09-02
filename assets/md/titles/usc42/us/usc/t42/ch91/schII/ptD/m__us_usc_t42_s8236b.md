@@ -23,7 +23,7 @@
 
     (3) recommendations on the feasibility of requiring, as a prerequisite to receiving federally assisted, guaranteed, or insured mortgages, the achievement of a minimum energy efficiency rating.
 
-([Pub. L. 95–619, title II, § 273][/us/pl/95/619/s273], as added [Pub. L. 102–486, title I, § 102(a)][/us/pl/102/486/s102/a], Oct. 24, 1992, [106 Stat. 2788][/us/stat/106/2788].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 273, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 102(a), Oct. 24, 1992, [106 Stat. 2788][/us/stat/106/2788].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t42/s8236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8236
-[/us/pl/95/619/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs273
-[/us/pl/102/486/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs102%2Fa
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2788
 
 

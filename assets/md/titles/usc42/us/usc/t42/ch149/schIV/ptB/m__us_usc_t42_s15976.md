@@ -17,7 +17,7 @@
 
     The Secretary shall use $5,000,000 from amounts appropriated to initiate, through the Chicago Operations Office, a project to demonstrate the viability of high-energy electron scrubbing technology on commercial-scale electrical generation using high-sulfur coal.
 
-([Pub. L. 109–58, title IV, § 416][/us/pl/109/58/s416], Aug. 8, 2005, [119 Stat. 756][/us/stat/119/756].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 416, Aug. 8, 2005, [119 Stat. 756][/us/stat/119/756].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs416
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F756
 
 

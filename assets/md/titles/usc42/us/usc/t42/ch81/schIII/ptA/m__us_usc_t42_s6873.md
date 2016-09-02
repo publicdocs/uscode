@@ -23,17 +23,17 @@
 
     (3) After such areas are identified, the Secretary of Labor shall take steps to assure that such weatherization programs are supported to the maximum extent practicable in such areas by such volunteers and training participants and public service employment workers.
 
-([Pub. L. 95–619, title II, § 233][/us/pl/95/619/s233], Nov. 9, 1978, [92 Stat. 3227][/us/stat/92/3227]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(39), (f)(30)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 113–128, title V, § 512(v)][/us/pl/113/128/s512/v], July 22, 2014, [128 Stat. 1713][/us/stat/128/1713].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 233, Nov. 9, 1978, [92 Stat. 3227][/us/stat/92/3227]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(39), (f)(30)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(v), July 22, 2014, [128 Stat. 1713][/us/stat/128/1713].)
 
  __References in Text__ 
 
     The Workforce Innovation and Opportunity Act, referred to in text, is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    The Community Service Senior Opportunities Act, referred to in text, is title V of [Pub. L. 89–73][/us/pl/89/73], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
+    The Community Service Senior Opportunities Act, referred to in text, is title V of [Pub. L. 89–73][/us/pl/89/73], as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
     The Energy Conservation in Existing Buildings Act of 1976, referred to in text, is title IV of [Pub. L. 94–385][/us/pl/94/385], Aug. 14, 1976, [90 Stat. 1150][/us/stat/90/1150], as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§ 6861 et seq.) of subchapter III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t42/s6801] and Tables.
 
-    Section 222(a)(12) of the Economic Opportunity Act of 1964 \[[42 U.S.C. 2809(a)(12)][/us/usc/t42/s2809/a/12]\], referred to in text, which was redesignated as section 222(a)(5) \[[42 U.S.C. 2809(a)(5)][/us/usc/t42/s2809/a/5]\] by [Pub. L. 95–568, § 5(a)(2)(E)][/us/pl/95/568/s5/a/2/E], Nov. 2, 1978, [92 Stat. 2426][/us/stat/92/2426], was subsequently repealed by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    Section 222(a)(12) of the Economic Opportunity Act of 1964 \[[42 U.S.C. 2809(a)(12)][/us/usc/t42/s2809/a/12]\], referred to in text, which was redesignated as section 222(a)(5) \[[42 U.S.C. 2809(a)(5)][/us/usc/t42/s2809/a/5]\] by [Pub. L. 95–568][/us/pl/95/568], § 5(a)(2)(E), Nov. 2, 1978, [92 Stat. 2426][/us/stat/92/2426], was subsequently repealed by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 
     2014—[Pub. L. 113–128][/us/pl/113/128] substituted “a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act and the Community Service Senior Opportunities Act” for “a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 and the Older American Community Service Employment Act”.
 
-    1998—[Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(30)\], struck out “the Job Training Partnership Act or” after “assisted pursuant to”.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(30)\], struck out “the Job Training Partnership Act or” after “assisted pursuant to”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(39)\], which directed the substitution of “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973” in introductory provisions, was executed by making the substitution for “the Comprehensive Employment Training Act of 1973” to reflect the probable intent of Congress.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(39)\], which directed the substitution of “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973” in introductory provisions, was executed by making the substitution for “the Comprehensive Employment Training Act of 1973” to reflect the probable intent of Congress.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -71,17 +71,17 @@
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
 [/us/usc/t42/s2809/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F12
 [/us/usc/t42/s1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1474
-[/us/pl/95/619/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs233
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3227
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s512/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fv
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1713
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
@@ -89,13 +89,13 @@
 [/us/usc/t42/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6801
 [/us/usc/t42/s2809/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F12
 [/us/usc/t42/s2809/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F5
-[/us/pl/95/568/s5/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs5%2Fa%2F2%2FE
+[/us/pl/95/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568
 [/us/stat/92/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2426
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

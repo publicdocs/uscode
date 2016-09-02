@@ -17,7 +17,7 @@
 
     No provision of this chapter shall permit the imposition of any price controls on, or require any allocation of, natural gas not subject to the jurisdiction of the Secretary or the Federal Energy Regulatory Commission.
 
-([Pub. L. 94–163, title V, § 529][/us/pl/94/163/s529], Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 583, 606, 607.)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 529, Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 583, 606, 607.)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/94/163/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs529
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F964
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

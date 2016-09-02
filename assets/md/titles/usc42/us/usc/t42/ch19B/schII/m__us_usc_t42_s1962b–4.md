@@ -51,7 +51,7 @@
 
         The chairman of each river basin commission shall, with the concurrence of the vice chairman, appoint the personnel employed by such commission, and the chairman shall, in accordance with the general policies of such commission with respect to the work to be accomplished by it and the timing thereof, be responsible for (1) the supervision of personnel employed by such commission, (2) the assignment of duties and responsibilities among such personnel, and (3) the use and expenditure of funds available to such commission.
 
-([Pub. L. 89–80, title II, § 205][/us/pl/89/80/s205], July 22, 1965, [79 Stat. 249][/us/stat/79/249]; [Pub. L. 94–112, § 1(c)][/us/pl/94/112/s1/c], Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575].)
+([Pub. L. 89–80, title II][/us/pl/89/80/tII], § 205, July 22, 1965, [79 Stat. 249][/us/stat/79/249]; [Pub. L. 94–112][/us/pl/94/112], § 1(c), Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/89/80/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs205
+[/us/pl/89/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtII
 [/us/stat/79/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F249
-[/us/pl/94/112/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112%2Fs1%2Fc
+[/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112
 [/us/stat/89/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F575
 [/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

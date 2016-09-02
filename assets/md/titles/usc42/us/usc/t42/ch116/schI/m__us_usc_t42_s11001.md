@@ -31,7 +31,7 @@
 
         A State emergency response commission may revise its designations and appointments under subsections (b) and (c) of this section as it deems appropriate. Interested persons may petition the State emergency response commission to modify the membership of a local emergency planning committee.
 
-([Pub. L. 99–499, title III, § 301][/us/pl/99/499/s301], Oct. 17, 1986, [100 Stat. 1729][/us/stat/100/1729].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 301, Oct. 17, 1986, [100 Stat. 1729][/us/stat/100/1729].)
 
  __Effective Date__ 
 
@@ -39,7 +39,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–499, title III, § 300(a)][/us/pl/99/499/s300/a], Oct. 17, 1986, [100 Stat. 1728][/us/stat/100/1728], provided that: 
+[Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 300(a), Oct. 17, 1986, [100 Stat. 1728][/us/stat/100/1728], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Emergency Planning and Community Right-To-Know Act of 1986’.”
 
@@ -58,11 +58,11 @@
 [/us/usc/t42/s11022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11022
 [/us/usc/t42/s11044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11044
 [/us/usc/t42/s11022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11022
-[/us/pl/99/499/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs301
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1729
 [/us/pl/99/499/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs4
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/99/499/s300/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs300%2Fa
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1728
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

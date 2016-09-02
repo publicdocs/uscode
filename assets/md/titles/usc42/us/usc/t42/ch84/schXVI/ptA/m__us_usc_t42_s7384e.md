@@ -43,7 +43,7 @@
 
         Amounts in the compensation fund shall be invested in accordance with [section 9702 of title 31][/us/usc/t31/s9702], and any interest on, and proceeds from, any such investment shall be credited to and become a part of the compensation fund.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3612\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–497.)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3612\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–497.)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t42/s7384g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384g%2Fb
 [/us/usc/t42/s7384g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384g%2Fb
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

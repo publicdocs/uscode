@@ -17,7 +17,7 @@
 
     In the construction of housing under the authority of this title and title VIII of the National Housing Act, as amended \[[12 U.S.C. 1748][/us/usc/t12/s1748] et seq.\], the maximum limitations on net floor area for each unit shall be the same as the net floor area limitations prescribed by law (at the time plans and specifications for such construction are begun) for public quarters built with appropriated funds under military construction authority.
 
-([Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 410, as added [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, § 510, [70 Stat. 1110][/us/stat/70/1110]; amended [Pub. L. 85–104, title V, § 503][/us/pl/85/104/s503], July 12, 1957, [71 Stat. 303][/us/stat/71/303].)
+([Aug. 11, 1955, ch. 783][/us/act/1955-08-11/ch783], title IV, § 410, as added [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title V, § 510, [70 Stat. 1110][/us/stat/70/1110]; amended [Pub. L. 85–104, title V][/us/pl/85/104/tV], § 503, July 12, 1957, [71 Stat. 303][/us/stat/71/303].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/act/1956-08-07/ch1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1029
 [/us/stat/70/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1110
-[/us/pl/85/104/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2Fs503
+[/us/pl/85/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F104%2FtV
 [/us/stat/71/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F303
 [/us/act/1955-08-11/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch783
 [/us/stat/69/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F646

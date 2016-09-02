@@ -113,7 +113,7 @@
 
                 If stockpiles of heavy water of the Department are insufficient to meet the needs of the Facility, there is authorized to be appropriated for the Facility $12,000,000 for fiscal year 2007.
 
-([Pub. L. 109–58, title IX, § 980][/us/pl/109/58/s980], Aug. 8, 2005, [119 Stat. 905][/us/stat/119/905].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 980, Aug. 8, 2005, [119 Stat. 905][/us/stat/119/905].)
 
 ----------
 
@@ -122,7 +122,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs980
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F905
 
 

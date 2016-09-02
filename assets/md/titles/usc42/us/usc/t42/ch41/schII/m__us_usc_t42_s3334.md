@@ -35,7 +35,7 @@
 
         The Office of Management and Budget, or such other agency as may be designated by the President, is hereby authorized to prescribe such rules and regulations as are deemed appropriate for the effective administration of this section.
 
-([Pub. L. 89–754, title II, § 204][/us/pl/89/754/s204], Nov. 3, 1966, [80 Stat. 1262][/us/stat/80/1262]; [Pub. L. 90–351, title I, § 522][/us/pl/90/351/s522], June 19, 1968, [82 Stat. 208][/us/stat/82/208]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 93–83, § 2][/us/pl/93/83/s2], Aug. 6, 1973, [87 Stat. 215][/us/stat/87/215].)
+([Pub. L. 89–754, title II][/us/pl/89/754/tII], § 204, Nov. 3, 1966, [80 Stat. 1262][/us/stat/80/1262]; [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 522, June 19, 1968, [82 Stat. 208][/us/stat/82/208]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 93–83][/us/pl/93/83], § 2, Aug. 6, 1973, [87 Stat. 215][/us/stat/87/215].)
 
  __Amendments__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/89/754/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs204
+[/us/pl/89/754/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtII
 [/us/stat/80/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1262
-[/us/pl/90/351/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs522
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
 [/us/stat/82/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F208
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
-[/us/pl/93/83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83%2Fs2
+[/us/pl/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83
 [/us/stat/87/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F215
 [/us/pl/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351

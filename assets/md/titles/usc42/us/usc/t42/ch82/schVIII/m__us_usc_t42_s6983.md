@@ -77,7 +77,7 @@
 
         Upon request, the full range of alternative technologies, programs or processes deemed feasible to meet the resource recovery or resource conservation needs of a jurisdiction shall be described in such a manner as to provide a sufficient evaluative basis from which the jurisdiction can make its decisions, but no officer or employee of the Environmental Protection Agency shall, in an official capacity, lobby for or otherwise represent an agency position in favor of resource recovery or resource conservation, as a policy alternative for adoption into ordinances, codes, regulations, or law by any State or political subdivision thereof.
 
-([Pub. L. 89–272, title II, § 8003][/us/pl/89/272/s8003], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2834][/us/stat/90/2834]; amended [Pub. L. 95–609, § 7(u)][/us/pl/95/609/s7/u], Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 8003, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2834][/us/stat/90/2834]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(u), Nov. 8, 1978, [92 Stat. 3083][/us/stat/92/3083].)
 
  __Amendments__ 
 
@@ -94,10 +94,10 @@
 ----------
 ----------
 
-[/us/pl/89/272/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs8003
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2834
-[/us/pl/95/609/s7/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fu
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3083
 [/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903

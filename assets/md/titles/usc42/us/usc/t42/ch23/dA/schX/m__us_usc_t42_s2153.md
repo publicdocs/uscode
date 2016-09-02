@@ -61,11 +61,11 @@
 
         The President shall keep the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate fully and currently informed of any initiative or negotiations relating to a new or amended agreement for peaceful nuclear cooperation pursuant to this section (except an agreement arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, or an amendment thereto).
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 123, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 940][/us/stat/68/940]; amended [Pub. L. 85–479][/us/pl/85/479], §§ 3, 4, July 2, 1958, [72 Stat. 277][/us/stat/72/277]; [Pub. L. 85–681, § 4][/us/pl/85/681/s4], Aug. 19, 1958, [72 Stat. 632][/us/stat/72/632]; [Pub. L. 88–489, § 15][/us/pl/88/489/s15], Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 93–377, § 5][/us/pl/93/377/s5], Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; [Pub. L. 93–485, § 1][/us/pl/93/485/s1], Oct. 26, 1974, [88 Stat. 1460][/us/stat/88/1460]; [Pub. L. 95–242, title IV, § 401][/us/pl/95/242/s401], Mar. 10, 1978, [92 Stat. 142][/us/stat/92/142]; [Pub. L. 99–64, title III, § 301(a)][/us/pl/99/64/s301/a], (b), July 12, 1985, [99 Stat. 159][/us/stat/99/159], 160; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–337, div. C, title XXXI, § 3155(c)(1)][/us/pl/103/337/s3155/c/1], Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092]; [Pub. L. 103–437, § 15(f)(5)][/us/pl/103/437/s15/f/5], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 104–106, div. A, title XV, § 1505(g)][/us/pl/104/106/s1505/g], Feb. 10, 1996, [110 Stat. 515][/us/stat/110/515]; [Pub. L. 105–277, div. G, title XII, § 1225(d)(4)][/us/pl/105/277/s1225/d/4], Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774]; [Pub. L. 109–401, title I, § 104(e)][/us/pl/109/401/s104/e], Dec. 18, 2006, [120 Stat. 2734][/us/stat/120/2734]; [Pub. L. 110–369, title II, § 202][/us/pl/110/369/s202], Oct. 8, 2008, [122 Stat. 4033][/us/stat/122/4033].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 123, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 940][/us/stat/68/940]; amended [Pub. L. 85–479][/us/pl/85/479], §§ 3, 4, July 2, 1958, [72 Stat. 277][/us/stat/72/277]; [Pub. L. 85–681][/us/pl/85/681], § 4, Aug. 19, 1958, [72 Stat. 632][/us/stat/72/632]; [Pub. L. 88–489][/us/pl/88/489], § 15, Aug. 26, 1964, [78 Stat. 606][/us/stat/78/606]; [Pub. L. 93–377][/us/pl/93/377], § 5, Aug. 17, 1974, [88 Stat. 475][/us/stat/88/475]; [Pub. L. 93–485][/us/pl/93/485], § 1, Oct. 26, 1974, [88 Stat. 1460][/us/stat/88/1460]; [Pub. L. 95–242, title IV][/us/pl/95/242/tIV], § 401, Mar. 10, 1978, [92 Stat. 142][/us/stat/92/142]; [Pub. L. 99–64, title III][/us/pl/99/64/tIII], § 301(a), (b), July 12, 1985, [99 Stat. 159][/us/stat/99/159], 160; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3155(c)(1), Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092]; [Pub. L. 103–437][/us/pl/103/437], § 15(f)(5), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1505(g), Feb. 10, 1996, [110 Stat. 515][/us/stat/110/515]; [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(d)(4), Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774]; [Pub. L. 109–401, title I][/us/pl/109/401/tI], § 104(e), Dec. 18, 2006, [120 Stat. 2734][/us/stat/120/2734]; [Pub. L. 110–369, title II][/us/pl/110/369/tII], § 202, Oct. 8, 2008, [122 Stat. 4033][/us/stat/122/4033].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
@@ -73,37 +73,37 @@
 
     2006—Subsec. (d). [Pub. L. 109–401][/us/pl/109/401], in second proviso, inserted “, or an agreement exempted pursuant to [section 8003(a)(1) of title 22][/us/usc/t22/s8003/a/1],” after “that subsection”.
 
-    1998—[Pub. L. 105–277, § 1225(d)(4)(C)][/us/pl/105/277/s1225/d/4/C], in first undesignated paragraph of concluding provisions, struck out “the Arms Control and Disarmament Agency,” after “Department of Energy,”.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 1225(d)(4)(C), in first undesignated paragraph of concluding provisions, struck out “the Arms Control and Disarmament Agency,” after “Department of Energy,”.
 
-    Subsec. (a). [Pub. L. 105–277, § 1225(d)(4)(A)][/us/pl/105/277/s1225/d/4/A], in concluding provisions, struck out “and in consultation with the Director of the Arms Control and Disarmament Agency (‘the Director’)” before “; and after consultation”, inserted “and” after “Secretary of Energy,”, substituted “Commission. The Secretary of State” for “Commission, and the Director, who”, and inserted “Each Nuclear Proliferation Assessment Statement prepared pursuant to this chapter shall be accompanied by a classified annex, prepared in consultation with the Director of Central Intelligence, summarizing relevant classified information.” after “nuclear explosive purpose.”
+    Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1225(d)(4)(A), in concluding provisions, struck out “and in consultation with the Director of the Arms Control and Disarmament Agency (‘the Director’)” before “; and after consultation”, inserted “and” after “Secretary of Energy,”, substituted “Commission. The Secretary of State” for “Commission, and the Director, who”, and inserted “Each Nuclear Proliferation Assessment Statement prepared pursuant to this chapter shall be accompanied by a classified annex, prepared in consultation with the Director of Central Intelligence, summarizing relevant classified information.” after “nuclear explosive purpose.”
 
-    Subsec. (d). [Pub. L. 105–277, § 1225(d)(4)(B)][/us/pl/105/277/s1225/d/4/B], in first proviso, substituted “Nuclear Proliferation Assessment Statement prepared by the Secretary of State, and any annexes thereto,” for “Nuclear Proliferation Assessment Statement prepared by the Director of the Arms Control and Disarmament Agency,” and substituted “have been” for “has been”.
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 1225(d)(4)(B), in first proviso, substituted “Nuclear Proliferation Assessment Statement prepared by the Secretary of State, and any annexes thereto,” for “Nuclear Proliferation Assessment Statement prepared by the Director of the Arms Control and Disarmament Agency,” and substituted “have been” for “has been”.
 
     1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106] substituted “, 2164(b), or 2164(d)” for “2164(b), or 2164(d)” in concluding provisions.
 
     1994—[Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs” for “International Relations” in penultimate paragraph.
 
-    [Pub. L. 103–337, § 3155(c)(1)(A)][/us/pl/103/337/s3155/c/1/A], substituted “2164(c), or 2164(d)” for “or 2164(c)” in penultimate paragraph.
+    [Pub. L. 103–337][/us/pl/103/337], § 3155(c)(1)(A), substituted “2164(c), or 2164(d)” for “or 2164(c)” in penultimate paragraph.
 
-    Subsec. (a). [Pub. L. 103–337, § 3155(c)(1)(B)][/us/pl/103/337/s3155/c/1/B], substituted “2164(b), or 2164(d)” for “or 2164(b)” in provisions following par. (9).
+    Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 3155(c)(1)(B), substituted “2164(b), or 2164(d)” for “or 2164(b)” in provisions following par. (9).
 
-    [Pub. L. 103–337, § 3155(c)(1)(A)][/us/pl/103/337/s3155/c/1/A], substituted “2164(c), or 2164(d)” for “or 2164(c)” wherever appearing.
+    [Pub. L. 103–337][/us/pl/103/337], § 3155(c)(1)(A), substituted “2164(c), or 2164(d)” for “or 2164(c)” wherever appearing.
 
     Subsec. (b). [Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs” for “International Relations”.
 
-    [Pub. L. 103–337, § 3155(c)(1)(C)][/us/pl/103/337/s3155/c/1/C], inserted “(except an agreement arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title)” after “the President has submitted text of the proposed agreement for cooperation”.
+    [Pub. L. 103–337][/us/pl/103/337], § 3155(c)(1)(C), inserted “(except an agreement arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title)” after “the President has submitted text of the proposed agreement for cooperation”.
 
     Subsec. (c). [Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs” for “International Relations”.
 
     Subsec. (d). [Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs” for “International Relations” in two places.
 
-    [Pub. L. 103–337, § 3155(c)(1)(A)][/us/pl/103/337/s3155/c/1/A], substituted “2164(c), or 2164(d)” for “or 2164(c)” in two places.
+    [Pub. L. 103–337][/us/pl/103/337], § 3155(c)(1)(A), substituted “2164(c), or 2164(d)” for “or 2164(c)” in two places.
 
-    1985—Subsec. (a). [Pub. L. 99–64, § 301(a)(1)][/us/pl/99/64/s301/a/1], in provisions following par. (9) inserted “(A) which shall analyze the consistency of the text of the proposed agreement for cooperation with all the requirements of this chapter, with specific attention to whether the proposed agreement is consistent with each of the criteria set forth in this subsection, and (B)” after “Assessment Statement”.
+    1985—Subsec. (a). [Pub. L. 99–64][/us/pl/99/64], § 301(a)(1), in provisions following par. (9) inserted “(A) which shall analyze the consistency of the text of the proposed agreement for cooperation with all the requirements of this chapter, with specific attention to whether the proposed agreement is consistent with each of the criteria set forth in this subsection, and (B)” after “Assessment Statement”.
 
-    Subsec. (b). [Pub. L. 99–64, § 301(a)(2)][/us/pl/99/64/s301/a/2], inserted “the President has submitted text of the proposed agreement for cooperation, together with the accompanying unclassified Nuclear Proliferation Assessment Statement, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, the President has consulted with such Committees for a period of not less than thirty days of continuous session (as defined in [section 2159(g) of this title][/us/usc/t42/s2159/g]) concerning the consistency of the terms of the proposed agreement with all the requirements of this chapter, and”.
+    Subsec. (b). [Pub. L. 99–64][/us/pl/99/64], § 301(a)(2), inserted “the President has submitted text of the proposed agreement for cooperation, together with the accompanying unclassified Nuclear Proliferation Assessment Statement, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, the President has consulted with such Committees for a period of not less than thirty days of continuous session (as defined in [section 2159(g) of this title][/us/usc/t42/s2159/g]) concerning the consistency of the terms of the proposed agreement with all the requirements of this chapter, and”.
 
-    Subsec. (d). [Pub. L. 99–64, § 301(a)(3)][/us/pl/99/64/s301/a/3], (b), substituted “adopts, and there is enacted, a joint resolution” for “adopts a concurrent resolution”, inserted a further proviso directing that an agreement for cooperation exempted by the President pursuant to subsection (a) of this section from any requirement contained in that subsection shall not become effective unless the Congress adopts, and there is enacted, a joint resolution stating that the Congress does favor such agreement, inserted sentence directing that during the sixty-day period the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate shall each hold hearings on the proposed agreement for cooperation and submit a report to their respective bodies recommending whether it should be approved or disapproved, and substituted “[section 2159(i) of this title][/us/usc/t42/s2159/i]” for “[section 2159 of this title][/us/usc/t42/s2159] for the consideration of Presidential submissions”.
+    Subsec. (d). [Pub. L. 99–64][/us/pl/99/64], § 301(a)(3), (b), substituted “adopts, and there is enacted, a joint resolution” for “adopts a concurrent resolution”, inserted a further proviso directing that an agreement for cooperation exempted by the President pursuant to subsection (a) of this section from any requirement contained in that subsection shall not become effective unless the Congress adopts, and there is enacted, a joint resolution stating that the Congress does favor such agreement, inserted sentence directing that during the sixty-day period the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate shall each hold hearings on the proposed agreement for cooperation and submit a report to their respective bodies recommending whether it should be approved or disapproved, and substituted “[section 2159(i) of this title][/us/usc/t42/s2159/i]” for “[section 2159 of this title][/us/usc/t42/s2159] for the consideration of Presidential submissions”.
 
     1978—[Pub. L. 95–242][/us/pl/95/242] added unlettered paragraphs following subsec. (d) relating to the submission of agency views to Congressional committees and the failure of the Congress to act on agreements which exempt the recipient nation from the requirements of subsec. (a)(2).
 
@@ -121,13 +121,13 @@
 
     1964—[Pub. L. 88–489][/us/pl/88/489] inserted reference to section 2073 in opening par.
 
-    1958—[Pub. L. 85–479, § 3][/us/pl/85/479/s3], inserted reference to section 2121 in opening par.
+    1958—[Pub. L. 85–479][/us/pl/85/479], § 3, inserted reference to section 2121 in opening par.
 
-    Subsec. (a). [Pub. L. 85–479, § 3][/us/pl/85/479/s3], included agreements for cooperation arranged pursuant to [section 2121(c) of this title][/us/usc/t42/s2121/c], and inserted in cl. (3) the exception in the case of agreements arranged pursuant to [section 2121(c) of this title][/us/usc/t42/s2121/c].
+    Subsec. (a). [Pub. L. 85–479][/us/pl/85/479], § 3, included agreements for cooperation arranged pursuant to [section 2121(c) of this title][/us/usc/t42/s2121/c], and inserted in cl. (3) the exception in the case of agreements arranged pursuant to [section 2121(c) of this title][/us/usc/t42/s2121/c].
 
     Subsec. (c). [Pub. L. 85–681][/us/pl/85/681] inserted proviso clause relating to waiver waiting period.
 
-    Subsec. (d). [Pub. L. 85–479, § 4][/us/pl/85/479/s4], added subsec. (d).
+    Subsec. (d). [Pub. L. 85–479][/us/pl/85/479], § 4, added subsec. (d).
 
  __Change of Name__ 
 
@@ -139,7 +139,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–64, title III, § 301(d)][/us/pl/99/64/s301/d], July 12, 1985, [99 Stat. 162][/us/stat/99/162], provided that: 
+[Pub. L. 99–64, title III][/us/pl/99/64/tIII], § 301(d), July 12, 1985, [99 Stat. 162][/us/stat/99/162], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2159 of this title][/us/usc/t42/s2159]\] shall apply to any agreement for cooperation which is entered into after the date of the enactment of this Act \[July 12, 1985\].”
 
@@ -149,7 +149,7 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–485, § 2][/us/pl/93/485/s2], Oct. 26, 1974, [88 Stat. 1460][/us/stat/88/1460], provided that: 
+[Pub. L. 93–485][/us/pl/93/485], § 2, Oct. 26, 1974, [88 Stat. 1460][/us/stat/88/1460], provided that: 
 
 > “This Act \[amending this section\] shall apply to proposed agreements for cooperation and to proposed amendments to agreements for cooperation hereafter \[Oct. 26, 1974\] submitted to the Congress.”
 
@@ -185,7 +185,7 @@
 
  __Applicability of Notice and Wait Provisions__ 
 
-[Pub. L. 103–337, div. C, title XXXI, § 3155(b)][/us/pl/103/337/s3155/b], Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092], as amended by [Pub. L. 104–201, div. C, title XXXI, § 3160][/us/pl/104/201/s3160], Sept. 23, 1996, [110 Stat. 2843][/us/stat/110/2843]; [Pub. L. 107–314, div. D, title XLV, § 4501(b)][/us/pl/107/314/s4501/b], formerly [Pub. L. 104–106, div. C, title XXXI, § 3154(b)][/us/pl/104/106/s3154/b], Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624], renumbered [§ 4501(b) of Pub. L. 107–314][/us/pl/107/314/s4501/b] by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(2)(A)][/us/pl/108/136/s3141/h/2/A]–(C), Nov. 24, 2003, [117 Stat. 1771][/us/stat/117/1771], provided that: 
+[Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3155(b), Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092], as amended by [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3160, Sept. 23, 1996, [110 Stat. 2843][/us/stat/110/2843]; [Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4501(b), formerly [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3154(b), Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624], renumbered § 4501(b) of [Pub. L. 107–314][/us/pl/107/314] by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(2)(A)–(C), Nov. 24, 2003, [117 Stat. 1771][/us/stat/117/1771], provided that: 
 
 > “Section 123 d. of the Atomic Energy Act of 1954 ([42 U.S.C. 2153(d)][/us/usc/t42/s2153/d]), as amended by subsection (c), shall not apply to a proposed agreement for cooperation under section 144 d. of such Act \[[42 U.S.C. 2164(d)][/us/usc/t42/s2164/d]\], as inserted by subsection (a), until October 1, 1997.”
 
@@ -195,15 +195,15 @@
 
  __Fuel Cycle Evaluations; Report to Congress__ 
 
-    [Pub. L. 95–601, § 9][/us/pl/95/601/s9], Nov. 6, 1978, [92 Stat. 2951][/us/stat/92/2951], directed Commission to monitor and assist, as requested, International Fuel Cycle Evaluation and studies and evaluations of various nuclear fuel cycle systems by Department of Energy in progress as of Nov. 6, 1978, and report to Congress semiannually through calendar year 1980 and annually through calendar year 1982 on status of domestic and international evaluations of nuclear fuel cycle systems, with report to include a summary of information developed by and available to Commission on health, safety, and safeguards implications of leading fuel cycle technologies.
+    [Pub. L. 95–601][/us/pl/95/601], § 9, Nov. 6, 1978, [92 Stat. 2951][/us/stat/92/2951], directed Commission to monitor and assist, as requested, International Fuel Cycle Evaluation and studies and evaluations of various nuclear fuel cycle systems by Department of Energy in progress as of Nov. 6, 1978, and report to Congress semiannually through calendar year 1980 and annually through calendar year 1982 on status of domestic and international evaluations of nuclear fuel cycle systems, with report to include a summary of information developed by and available to Commission on health, safety, and safeguards implications of leading fuel cycle technologies.
 
  __Adequacy of Laws and Regulations Governing Export and Re-Export of Nuclear Materials, etc., and Safeguards Preventing Proliferation of Nuclear Materials__ 
 
-    [Pub. L. 93–500, § 14][/us/pl/93/500/s14], Oct. 29, 1974, [88 Stat. 1557][/us/stat/88/1557], directed President to review and report to Congress within six months after Oct. 29, 1974, on all laws and pertinent regulations issued thereunder, governing the export and re-export of nuclear materials and information relating to the design and development thereof, in order to curb further domestic and international nuclear proliferation, diversion, or theft of nuclear materials.
+    [Pub. L. 93–500][/us/pl/93/500], § 14, Oct. 29, 1974, [88 Stat. 1557][/us/stat/88/1557], directed President to review and report to Congress within six months after Oct. 29, 1974, on all laws and pertinent regulations issued thereunder, governing the export and re-export of nuclear materials and information relating to the design and development thereof, in order to curb further domestic and international nuclear proliferation, diversion, or theft of nuclear materials.
 
  __Cooperation With Berlin__ 
 
-    [Act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 125, as added by Apr. 12, 1957, [Pub. L. 85–14][/us/pl/85/14], [71 Stat. 11][/us/stat/71/11]; amended by Aug. 17, 1974, [Pub. L. 93–377, § 5][/us/pl/93/377/s5], [88 Stat. 475][/us/stat/88/475]; renumbered title I, Oct. 24, 1992, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], [106 Stat. 2944][/us/stat/106/2944], provided that the President could authorize the Commission to enter into agreements for cooperation with the Federal Republic of Germany in accordance with this section, on behalf of Berlin, which for the purposes of this chapter comprised those areas over which the Berlin Senate exercised jurisdiction (the United States, British, and French sectors) and the Commission could thereafter cooperate with Berlin pursuant to section 2074(a), 2077, 2094, 2112, 2133, or 2134 of this title, with provision that the guaranties required by this section were to be made by Berlin with the approval of the allied commandants.
+    [Act Aug. 1, 1946, ch. 724, title I][/us/act/1946-08-01/ch724/tI], § 125, as added by Apr. 12, 1957, [Pub. L. 85–14][/us/pl/85/14], [71 Stat. 11][/us/stat/71/11]; amended by Aug. 17, 1974, [Pub. L. 93–377][/us/pl/93/377], § 5, [88 Stat. 475][/us/stat/88/475]; renumbered title I, Oct. 24, 1992, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), [106 Stat. 2944][/us/stat/106/2944], provided that the President could authorize the Commission to enter into agreements for cooperation with the Federal Republic of Germany in accordance with this section, on behalf of Berlin, which for the purposes of this chapter comprised those areas over which the Berlin Senate exercised jurisdiction (the United States, British, and French sectors) and the Commission could thereafter cooperate with Berlin pursuant to section 2074(a), 2077, 2094, 2112, 2133, or 2134 of this title, with provision that the guaranties required by this section were to be made by Berlin with the approval of the allied commandants.
 
  __Ex. Ord. No. 10841. International Cooperation__ 
 
@@ -245,60 +245,60 @@ Sec. 2. (a) The Secretary of Defense and the Secretary of Energy are hereby desi
 [/us/usc/t42/s2155/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2155%2Fa%2F2
 [/us/usc/t42/s2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2157
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F940
 [/us/pl/85/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479
 [/us/stat/72/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F277
-[/us/pl/85/681/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681%2Fs4
+[/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/stat/72/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F632
-[/us/pl/88/489/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs15
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/stat/78/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F606
-[/us/pl/93/377/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377%2Fs5
+[/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/stat/88/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F475
-[/us/pl/93/485/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F485%2Fs1
+[/us/pl/93/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F485
 [/us/stat/88/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1460
-[/us/pl/95/242/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs401
+[/us/pl/95/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIV
 [/us/stat/92/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F142
-[/us/pl/99/64/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fa
+[/us/pl/99/64/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtIII
 [/us/stat/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F159
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/337/s3155/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F1
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3092
-[/us/pl/103/437/s15/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Ff%2F5
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
-[/us/pl/104/106/s1505/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1505%2Fg
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F515
-[/us/pl/105/277/s1225/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F4
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-774
-[/us/pl/109/401/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs104%2Fe
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2734
-[/us/pl/110/369/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs202
+[/us/pl/110/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2FtII
 [/us/stat/122/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4033
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/usc/t22/s8003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8003%2Fa%2F1
-[/us/pl/105/277/s1225/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F4%2FC
-[/us/pl/105/277/s1225/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F4%2FA
-[/us/pl/105/277/s1225/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F4%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/103/337/s3155/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F1%2FA
-[/us/pl/103/337/s3155/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F1%2FB
-[/us/pl/103/337/s3155/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F1%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/103/337/s3155/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F1%2FC
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/103/337/s3155/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fc%2F1%2FA
-[/us/pl/99/64/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fa%2F1
-[/us/pl/99/64/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fa%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t42/s2159/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159%2Fg
-[/us/pl/99/64/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fa%2F3
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t42/s2159/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159%2Fi
 [/us/usc/t42/s2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
@@ -312,55 +312,55 @@ Sec. 2. (a) The Secretary of Defense and the Secretary of Energy are hereby desi
 [/us/usc/t42/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2074
 [/us/pl/93/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F485
 [/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
-[/us/pl/85/479/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479%2Fs3
-[/us/pl/85/479/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479%2Fs3
+[/us/pl/85/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479
+[/us/pl/85/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479
 [/us/usc/t42/s2121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121%2Fc
 [/us/usc/t42/s2121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121%2Fc
 [/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
-[/us/pl/85/479/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479%2Fs4
+[/us/pl/85/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
-[/us/pl/99/64/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs301%2Fd
+[/us/pl/99/64/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtIII
 [/us/stat/99/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F162
 [/us/usc/t42/s2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2159
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
-[/us/pl/93/485/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F485%2Fs2
+[/us/pl/93/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F485
 [/us/stat/88/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1460
 [/us/pl/113/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F81
 [/us/stat/128/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1007
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/pl/113/81/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F81%2Fs4
-[/us/pl/103/337/s3155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fb
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3092
-[/us/pl/104/201/s3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3160
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2843
-[/us/pl/107/314/s4501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4501%2Fb
-[/us/pl/104/106/s3154/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3154%2Fb
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F624
-[/us/pl/107/314/s4501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4501%2Fb
-[/us/pl/108/136/s3141/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F2%2FA
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1771
 [/us/usc/t42/s2153/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153%2Fd
 [/us/usc/t42/s2164/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2164%2Fd
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
-[/us/pl/95/601/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601%2Fs9
+[/us/pl/95/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F601
 [/us/stat/92/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2951
-[/us/pl/93/500/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500%2Fs14
+[/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500
 [/us/stat/88/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1557
-[/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
+[/us/act/1946-08-01/ch724/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724%2FtI
 [/us/pl/85/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F14
 [/us/stat/71/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F11
-[/us/pl/93/377/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377%2Fs5
+[/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/stat/88/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F475
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/usc/t42/s2121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121%2Fc
 [/us/usc/t42/s2164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2164%2Fb

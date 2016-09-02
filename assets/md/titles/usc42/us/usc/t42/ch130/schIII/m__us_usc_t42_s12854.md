@@ -55,7 +55,7 @@
 
         The term “Trust” means the National Homeownership Trust established in [section 12851 of this title][/us/usc/t42/s12851].
 
-([Pub. L. 101–625, title III, § 305][/us/pl/101/625/s305], Nov. 28, 1990, [104 Stat. 4132][/us/stat/104/4132].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 305, Nov. 28, 1990, [104 Stat. 4132][/us/stat/104/4132].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -71,7 +71,7 @@
 [/us/usc/t42/s12851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12851%2Fb
 [/us/usc/t42/s12853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12853
 [/us/usc/t42/s12851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12851
-[/us/pl/101/625/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs305
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4132
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

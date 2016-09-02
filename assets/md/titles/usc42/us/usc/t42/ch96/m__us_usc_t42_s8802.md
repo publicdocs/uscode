@@ -131,7 +131,7 @@
 
     (19) The term “small scale biomass energy project” means a biomass energy project with an anticipated annual production capacity of not more than 1,000,000 gallons of ethanol per year, or its energy equivalent of other forms of biomass energy.
 
-([Pub. L. 96–294, title II, § 203][/us/pl/96/294/s203], June 30, 1980, [94 Stat. 683][/us/stat/94/683].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 203, June 30, 1980, [94 Stat. 683][/us/stat/94/683].)
 
  __References in Text__ 
 
@@ -156,7 +156,7 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t42/s8820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8820
-[/us/pl/96/294/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs203
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F683

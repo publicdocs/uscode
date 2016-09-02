@@ -29,7 +29,7 @@
 
             The Secretary shall support a program of cost-shared field demonstration programs, to be pursued, simultaneously and independently, in collaboration with industry partners, for the demonstration of advanced technologies and techniques of siting and exploratory drilling for undiscovered resources in a variety of geologic settings. The program shall include incentives to encourage the use of advanced technologies and techniques.
 
-([Pub. L. 110–140, title VI, § 613][/us/pl/110/140/s613], Dec. 19, 2007, [121 Stat. 1679][/us/stat/121/1679].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 613, Dec. 19, 2007, [121 Stat. 1679][/us/stat/121/1679].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs613
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1679
 
 

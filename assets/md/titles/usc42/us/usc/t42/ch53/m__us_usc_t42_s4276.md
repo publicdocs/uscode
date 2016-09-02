@@ -51,11 +51,11 @@
 
         No individual employed in the service of the Commission shall be paid compensation for such employment at a rate in excess of the highest rate provided for grade 18 under the General Schedule, except that the executive director of the Commission may be paid compensation at any rate not exceeding the rate prescribed for level V in the Executive Schedule of subchapter II of chapter 53 of title 5.
 
-([Pub. L. 86–380, § 6][/us/pl/86/380/s6], Sept. 24, 1959, [73 Stat. 705][/us/stat/73/705]; [Pub. L. 88–426, title III, § 306(e)][/us/pl/88/426/s306/e], Aug. 14, 1964, [78 Stat. 429][/us/stat/78/429]; [Pub. L. 89–733][/us/pl/89/733], §§ 3, 4, Nov. 2, 1966, [80 Stat. 1162][/us/stat/80/1162].)
+([Pub. L. 86–380][/us/pl/86/380], § 6, Sept. 24, 1959, [73 Stat. 705][/us/stat/73/705]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 306(e), Aug. 14, 1964, [78 Stat. 429][/us/stat/78/429]; [Pub. L. 89–733][/us/pl/89/733], §§ 3, 4, Nov. 2, 1966, [80 Stat. 1162][/us/stat/80/1162].)
 
  __Codification__ 
 
-The following substitutions were made on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees:
+The following substitutions were made on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees:
 
     In subsecs. (c) and (d), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949”.
 
@@ -65,13 +65,13 @@ The following substitutions were made on authority of [Pub. L. 89–554, § 7(
 
     In subsec. (f), “the Executive Schedule of subchapter II of chapter 53 of title 5” substituted for “the Federal Executive Salary Schedule of the Federal Executive Salary Act of 1964”.
 
-    Section was formerly classified to [section 2376 of Title 5][/us/usc/t5/s2376] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2376 of Title 5][/us/usc/t5/s2376] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
-    1966—Subsec. (c). [Pub. L. 89–733, § 3][/us/pl/89/733/s3], substituted “executive director” for “staff director”.
+    1966—Subsec. (c). [Pub. L. 89–733][/us/pl/89/733], § 3, substituted “executive director” for “staff director”.
 
-    Subsec. (f). [Pub. L. 89–733, § 4][/us/pl/89/733/s4], authorized the executive director of the Commission to be paid compensation at any rate not exceeding the rate prescribed for level V in the Federal Executive Salary Schedule.
+    Subsec. (f). [Pub. L. 89–733][/us/pl/89/733], § 4, authorized the executive director of the Commission to be paid compensation at any rate not exceeding the rate prescribed for level V in the Federal Executive Salary Schedule.
 
     1964—Subsec. (f). [Pub. L. 88–426][/us/pl/88/426] substituted “at a rate in excess of the highest rate of grade 18 of the General Schedule of the Classification Act of 1949, as amended” for “at a rate in excess of $20,000 per annum”.
 
@@ -91,21 +91,21 @@ The following substitutions were made on authority of [Pub. L. 89–554, § 7(
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/86/380/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380%2Fs6
+[/us/pl/86/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380
 [/us/stat/73/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F705
-[/us/pl/88/426/s306/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs306%2Fe
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F429
 [/us/pl/89/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F733
 [/us/stat/80/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1162
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s55a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs55a
 [/us/usc/t5/s2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2376
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/89/733/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F733%2Fs3
-[/us/pl/89/733/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F733%2Fs4
+[/us/pl/89/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F733
+[/us/pl/89/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F733
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc

@@ -39,7 +39,7 @@
 
         The Secretary shall by regulation establish procedures appropriate and practicable for providing a fair hearing and timely resolution of citizen complaints related to housing strategies or performance reports.
 
-([Pub. L. 101–625, title I, § 107][/us/pl/101/625/s107], Nov. 28, 1990, [104 Stat. 4091][/us/stat/104/4091].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 107, Nov. 28, 1990, [104 Stat. 4091][/us/stat/104/4091].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
-[/us/pl/101/625/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs107
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4091
 
 

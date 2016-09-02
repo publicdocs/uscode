@@ -23,11 +23,11 @@
 
         In coordination with the HIT Standards Committee established under [section 300jj–13 of this title][/us/usc/t42/s300jj–13], as added by section 13101,1 with respect to the development of standards and implementation specifications under such section, the Director of the National Institute of Standards and Technology shall support the establishment of a conformance testing infrastructure, including the development of technical test beds. The development of this conformance testing infrastructure may include a program to accredit independent, non-Federal laboratories to perform testing.
 
-([Pub. L. 111–5, div. A, title XIII, § 13201][/us/pl/111/5/s13201], Feb. 17, 2009, [123 Stat. 244][/us/stat/123/244].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13201, Feb. 17, 2009, [123 Stat. 244][/us/stat/123/244].)
 
  __References in Text__ 
 
-    Section 13101, referred to in text, means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/s13101].
+    Section 13101, referred to in text, means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13101].
 
 ----------
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t42/s300jj–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9313
 [/us/usc/t42/s300jj–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9313
-[/us/pl/111/5/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13201
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F244
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13101
 
 

@@ -65,7 +65,7 @@
 
             (B) processing surface use plans of operation and applications for permits to drill.
 
-([Pub. L. 109–58, title III, § 363][/us/pl/109/58/s363], Aug. 8, 2005, [119 Stat. 722][/us/stat/119/722].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 363, Aug. 8, 2005, [119 Stat. 722][/us/stat/119/722].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs363
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F722
 
 

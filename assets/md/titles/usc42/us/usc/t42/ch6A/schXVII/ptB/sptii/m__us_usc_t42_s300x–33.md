@@ -135,7 +135,7 @@
 
             The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in subsections (b) and (c)  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of [section 450b of title 25][/us/usc/t25/s450b].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1933, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 400][/us/stat/106/400]; amended [Pub. L. 102–352, § 2(a)(11)][/us/pl/102/352/s2/a/11], Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II, § 218(b)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–362; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II, § 212(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–239; [Pub. L. 106–310, div. B, title XXXIII, § 3304][/us/pl/106/310/s3304], Oct. 17, 2000, [114 Stat. 1212][/us/stat/114/1212].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1933, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 400][/us/stat/106/400]; amended [Pub. L. 102–352][/us/pl/102/352], § 2(a)(11), Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title II, § 218(b)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–362; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title II, § 212(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–239; [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3304, Oct. 17, 2000, [114 Stat. 1212][/us/stat/114/1212].)
 
  __References in Text__ 
 
@@ -209,15 +209,15 @@
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F400
-[/us/pl/102/352/s2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F11
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F938
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/310/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3304
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1212
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s300y–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9323

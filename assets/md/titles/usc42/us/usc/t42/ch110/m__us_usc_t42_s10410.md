@@ -157,7 +157,7 @@
 
         Each entity receiving a grant under this section shall submit a performance report to the Secretary annually and in such manner as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of the activities, and provide such additional information as the Secretary may reasonably require.
 
-([Pub. L. 98–457, title III, § 310][/us/pl/98/457/s310], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3497][/us/stat/124/3497].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 310, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3497][/us/stat/124/3497].)
 
  __References in Text__ 
 
@@ -165,7 +165,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 10410, [Pub. L. 98–457, title III, § 311][/us/pl/98/457/s311], Oct. 9, 1984, [98 Stat. 1763][/us/stat/98/1763]; [Pub. L. 100–294, title III, § 303(b)][/us/pl/100/294/s303/b], Apr. 25, 1988, [102 Stat. 125][/us/stat/102/125]; [Pub. L. 102–295, title III, § 317][/us/pl/102/295/s317], May 28, 1992, [106 Stat. 206][/us/stat/106/206]; [Pub. L. 103–322, title IV, § 40272(c)][/us/pl/103/322/s40272/c], Sept. 13, 1994, [108 Stat. 1938][/us/stat/108/1938]; [Pub. L. 108–36, title IV][/us/pl/108/36], §§ 406(c), 407, 415(6), June 25, 2003, [117 Stat. 827][/us/stat/117/827], 830, related to grants for State domestic violence coalitions, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10411 of this title][/us/usc/t42/s10411].
+    A prior section 10410, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 311, Oct. 9, 1984, [98 Stat. 1763][/us/stat/98/1763]; [Pub. L. 100–294, title III][/us/pl/100/294/tIII], § 303(b), Apr. 25, 1988, [102 Stat. 125][/us/stat/102/125]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 317, May 28, 1992, [106 Stat. 206][/us/stat/106/206]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40272(c), Sept. 13, 1994, [108 Stat. 1938][/us/stat/108/1938]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], §§ 406(c), 407, 415(6), June 25, 2003, [117 Stat. 827][/us/stat/117/827], 830, related to grants for State domestic violence coalitions, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10411 of this title][/us/usc/t42/s10411].
 
     A prior [section 310 of Pub. L. 98–457][/us/pl/98/457/s310] was classified to [section 10409 of this title][/us/usc/t42/s10409] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -181,20 +181,20 @@
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/98/457/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs310
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3497
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/98/457/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs311
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1763
-[/us/pl/100/294/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs303%2Fb
+[/us/pl/100/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtIII
 [/us/stat/102/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F125
-[/us/pl/102/295/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs317
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F206
-[/us/pl/103/322/s40272/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40272%2Fc
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1938
-[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F827
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s10411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10411

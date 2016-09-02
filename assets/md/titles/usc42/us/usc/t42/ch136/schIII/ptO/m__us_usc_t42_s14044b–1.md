@@ -107,7 +107,7 @@
 
                 (ii) prohibit the grant recipient from receiving another covered grant for not less than 5 years.
 
-([Pub. L. 114–22, title I, § 117][/us/pl/114/22/s117], May 29, 2015, [129 Stat. 245][/us/stat/129/245].)
+([Pub. L. 114–22, title I][/us/pl/114/22/tI], § 117, May 29, 2015, [129 Stat. 245][/us/stat/129/245].)
 
  __References in Text__ 
 
@@ -130,7 +130,7 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
 [/us/usc/t26/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs511%2Fa
-[/us/pl/114/22/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs117
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F245
 [/us/pl/114/22/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs103
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22

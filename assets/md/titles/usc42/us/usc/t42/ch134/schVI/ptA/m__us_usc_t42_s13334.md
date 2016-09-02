@@ -47,7 +47,7 @@
 
         (7) the past development, current status, and future potential of coal products and processes associated with nonfuel uses of coal.
 
-([Pub. L. 102–486, title XIII, § 1304][/us/pl/102/486/s1304], Oct. 24, 1992, [106 Stat. 2973][/us/stat/106/2973].)
+([Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1304, Oct. 24, 1992, [106 Stat. 2973][/us/stat/106/2973].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1304
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2973
 
 

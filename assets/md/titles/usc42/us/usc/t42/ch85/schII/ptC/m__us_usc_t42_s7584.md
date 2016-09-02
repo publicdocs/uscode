@@ -23,7 +23,7 @@
 
     unless the Administrator determines (in promulgating the rules establishing the clean fuel vehicle program under this section) that any such administration and enforcement would not meet the criteria for a waiver under [section 7543 of this title][/us/usc/t42/s7543]. Nothing in this section shall apply in the case of standards under [section 7585 of this title][/us/usc/t42/s7585] for heavy-duty vehicles.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 244, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2519][/us/stat/104/2519].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 244, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2519][/us/stat/104/2519].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t42/s7543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543
 [/us/usc/t42/s7585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7585
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2519
 
 

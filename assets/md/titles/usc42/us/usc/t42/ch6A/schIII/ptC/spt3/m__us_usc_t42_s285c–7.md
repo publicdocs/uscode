@@ -23,11 +23,11 @@
 
     The description submitted by the Director shall include an evaluation of the activities of the centers supported under [section 285c–5 of this title][/us/usc/t42/s285c–5].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 433, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 848][/us/stat/99/848].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 433, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 848][/us/stat/99/848].)
 
  __References in Text__ 
 
-    [Section 284b of this title][/us/usc/t42/s284b], referred to in text, was repealed by [Pub. L. 109–482, title I, § 104(b)(1)(C)][/us/pl/109/482/s104/b/1/C], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
+    [Section 284b of this title][/us/usc/t42/s284b], referred to in text, was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(C), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
 
     The National Diabetes Mellitus Research and Education Act, referred to in par. (1), is [Pub. L. 93–354][/us/pl/93/354], July 23, 1974, [88 Stat. 373][/us/stat/88/373], as amended, which enacted former sections 289c–1a, 289c–2, and 289c–3 of this title, amended section 247b and former [section 289c–1 of this title][/us/usc/t42/s289c–1], and enacted provisions formerly set out as notes under [section 289c–2 of this title][/us/usc/t42/s289c–2]. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
@@ -42,10 +42,10 @@
 
 [/us/usc/t42/s285c–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285c%E2%80%935
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F848
 [/us/usc/t42/s284b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284b
-[/us/pl/109/482/s104/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FC
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/pl/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354
 [/us/stat/88/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F373

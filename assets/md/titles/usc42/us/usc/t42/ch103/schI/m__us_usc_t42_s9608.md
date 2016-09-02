@@ -57,11 +57,11 @@
 
             Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual, or common law liability of a guarantor, including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed, interpreted, or applied to diminish the liability of any person under [section 9607 of this title][/us/usc/t42/s9607] or other applicable law.
 
-([Pub. L. 96–510, title I, § 108][/us/pl/96/510/s108], Dec. 11, 1980, [94 Stat. 2785][/us/stat/94/2785]; [Pub. L. 99–499, title I][/us/pl/99/499], §§ 108, 127(c), Oct. 17, 1986, [100 Stat. 1631][/us/stat/100/1631], 1692.)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 108, Dec. 11, 1980, [94 Stat. 2785][/us/stat/94/2785]; [Pub. L. 99–499, title I][/us/pl/99/499/tI], §§ 108, 127(c), Oct. 17, 1986, [100 Stat. 1631][/us/stat/100/1631], 1692.)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsec. (b)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (b)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795]. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     This chapter, referred to in subsec. (b)(2), (5), was in the original “this Act”, meaning [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
@@ -69,23 +69,23 @@
 
  __Codification__ 
 
-    In subsec. (a)(2), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (a)(2), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
-    In subsec. (b)(5), “[section 31139 of title 49][/us/usc/t49/s31139]” substituted for “section 30 of the Motor Carrier Act of 1980, [Public Law 96–296][/us/pl/96/296]” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (b)(5), “[section 31139 of title 49][/us/usc/t49/s31139]” substituted for “section 30 of the Motor Carrier Act of 1980, [Public Law 96–296][/us/pl/96/296]” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
-    1986—Subsec. (a)(1). [Pub. L. 99–499, § 127(c)(1)][/us/pl/99/499/s127/c/1], inserted “to cover the liability prescribed under paragraph (1) of [section 9607(a) of this title][/us/usc/t42/s9607/a]” after “whichever is greater)”.
+    1986—Subsec. (a)(1). [Pub. L. 99–499][/us/pl/99/499], § 127(c)(1), inserted “to cover the liability prescribed under paragraph (1) of [section 9607(a) of this title][/us/usc/t42/s9607/a]” after “whichever is greater)”.
 
-    Subsec. (a)(4). [Pub. L. 99–499, § 127(c)(2)][/us/pl/99/499/s127/c/2], added par. (4).
+    Subsec. (a)(4). [Pub. L. 99–499][/us/pl/99/499], § 127(c)(2), added par. (4).
 
-    Subsec. (b)(2). [Pub. L. 99–499, § 108(a)][/us/pl/99/499/s108/a], inserted provisions relating to evidence of financial responsibility and authority of the President regarding establishment of that evidence.
+    Subsec. (b)(2). [Pub. L. 99–499][/us/pl/99/499], § 108(a), inserted provisions relating to evidence of financial responsibility and authority of the President regarding establishment of that evidence.
 
-    Subsec. (b)(3). [Pub. L. 99–499, § 108(b)][/us/pl/99/499/s108/b], substituted “as quickly as can reasonably be achieved but in no event more than 4 years” for “over a period of not less than three and no more than six years”.
+    Subsec. (b)(3). [Pub. L. 99–499][/us/pl/99/499], § 108(b), substituted “as quickly as can reasonably be achieved but in no event more than 4 years” for “over a period of not less than three and no more than six years”.
 
-    Subsec. (c). [Pub. L. 99–499, § 108(c)][/us/pl/99/499/s108/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility as required under this section. In defending such a claim, the guarantor may invoke all rights and defenses which would be available to the owner or operator under this subchapter. The guarantor may also invoke the defense that the incident was caused by the willful misconduct of the owner or operator, but such guarantor may not invoke any other defense that such guarantor might have been entitled to invoke in a proceeding brought by the owner or operator against him.”
+    Subsec. (c). [Pub. L. 99–499][/us/pl/99/499], § 108(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility as required under this section. In defending such a claim, the guarantor may invoke all rights and defenses which would be available to the owner or operator under this subchapter. The guarantor may also invoke the defense that the incident was caused by the willful misconduct of the owner or operator, but such guarantor may not invoke any other defense that such guarantor might have been entitled to invoke in a proceeding brought by the owner or operator against him.”
 
-    Subsec. (d). [Pub. L. 99–499, § 108(c)][/us/pl/99/499/s108/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any guarantor acting in good faith against which claims under this chapter are asserted as a guarantor shall be liable under [section 9607 of this title][/us/usc/t42/s9607] or [section 9612(c) of this title][/us/usc/t42/s9612/c] only up to the monetary limits of the policy of insurance or indemnity contract such guarantor has undertaken or of the guaranty of other evidence of financial responsibility furnished under this section, and only to the extent that liability is not excluded by restrictive endorsement: Provided, That this subsection shall not alter the liability of any person under [section 9607 of this title][/us/usc/t42/s9607].”
+    Subsec. (d). [Pub. L. 99–499][/us/pl/99/499], § 108(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any guarantor acting in good faith against which claims under this chapter are asserted as a guarantor shall be liable under [section 9607 of this title][/us/usc/t42/s9607] or [section 9612(c) of this title][/us/usc/t42/s9612/c] only up to the monetary limits of the policy of insurance or indemnity contract such guarantor has undertaken or of the guaranty of other evidence of financial responsibility furnished under this section, and only to the extent that liability is not excluded by restrictive endorsement: Provided, That this subsection shall not alter the liability of any person under [section 9607 of this title][/us/usc/t42/s9607].”
 
 ----------
 
@@ -103,33 +103,33 @@
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/96/510/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs108
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2785
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1631
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/usc/t49/s31139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31139
 [/us/pl/96/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F296
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/99/499/s127/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fc%2F1
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607%2Fa
-[/us/pl/99/499/s127/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs127%2Fc%2F2
-[/us/pl/99/499/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs108%2Fa
-[/us/pl/99/499/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs108%2Fb
-[/us/pl/99/499/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs108%2Fc
-[/us/pl/99/499/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs108%2Fc
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
 [/us/usc/t42/s9612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9612%2Fc
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607

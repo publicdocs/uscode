@@ -47,7 +47,7 @@
 
             The President shall establish criteria for making determinations under paragraph (1)(B).
 
-([Pub. L. 93–288, title IV, § 401][/us/pl/93/288/s401], as added [Pub. L. 100–707, title I, § 106(a)(3)][/us/pl/100/707/s106/a/3], Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696]; amended [Pub. L. 113–2, div. B, § 1110(a)][/us/pl/113/2/s1110/a], Jan. 29, 2013, [127 Stat. 47][/us/stat/127/47].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 401, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(a)(3), Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696]; amended [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1110(a), Jan. 29, 2013, [127 Stat. 47][/us/stat/127/47].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Individual Assistance Factors__ 
 
-[Pub. L. 113–2, div. B, § 1109][/us/pl/113/2/s1109], Jan. 29, 2013, [127 Stat. 47][/us/stat/127/47], provided that: 
+[Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1109, Jan. 29, 2013, [127 Stat. 47][/us/stat/127/47], provided that: 
 
 > “In order to provide more objective criteria for evaluating the need for assistance to individuals, to clarify the threshold for eligibility and to speed a declaration of a major disaster or emergency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), not later than 1 year after the date of enactment of this division \[Jan. 29, 2013\], the Administrator of the Federal Emergency Management Agency, in cooperation with representatives of State, tribal, and local emergency management agencies, shall review, update, and revise through rulemaking the factors considered under section 206.48 of title 44, Code of Federal Regulations (including section 206.48(b)(2) of such title relating to trauma and the specific conditions or losses that contribute to trauma), to measure the severity, magnitude, and impact of a disaster.”
 
@@ -74,10 +74,10 @@
 ----------
 ----------
 
-[/us/pl/93/288/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs401
-[/us/pl/100/707/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fa%2F3
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4696
-[/us/pl/113/2/s1110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fa
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F47
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -86,7 +86,7 @@
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5171
 [/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
-[/us/pl/113/2/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1109
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F47
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 

@@ -93,7 +93,7 @@
 
         shall be treated as medical assistance provided by such plan for purposes of clause (4) of the first sentence of [section 1396d(b) of this title][/us/usc/t42/s1396d/b].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1920B, as added [Pub. L. 106–354, § 2(b)(1)][/us/pl/106/354/s2/b/1], Oct. 24, 2000, [114 Stat. 1382][/us/stat/114/1382].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1920B, as added [Pub. L. 106–354][/us/pl/106/354], § 2(b)(1), Oct. 24, 2000, [114 Stat. 1382][/us/stat/114/1382].)
 
  __Effective Date__ 
 
@@ -111,7 +111,7 @@
 [/us/usc/t42/s1396a/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Faa
 [/us/usc/t42/s1396d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/354/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F354%2Fs2%2Fb%2F1
+[/us/pl/106/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F354
 [/us/stat/114/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1382
 [/us/pl/106/354/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F354%2Fs2%2Fd
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a

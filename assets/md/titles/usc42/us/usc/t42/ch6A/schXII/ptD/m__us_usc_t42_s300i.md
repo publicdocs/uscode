@@ -23,7 +23,7 @@
 
         Any person who violates or fails or refuses to comply with any order issued by the Administrator under subsection (a)(1) of this section may, in an action brought in the appropriate United States district court to enforce such order, be subject to a civil penalty of not to exceed $15,000 for each day in which such violation occurs or failure to comply continues.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1431, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1680][/us/stat/88/1680]; amended [Pub. L. 99–339, title II, § 204][/us/pl/99/339/s204], June 19, 1986, [100 Stat. 660][/us/stat/100/660]; [Pub. L. 104–182, title I, § 113(d)][/us/pl/104/182/s113/d], Aug. 6, 1996, [110 Stat. 1636][/us/stat/110/1636]; [Pub. L. 107–188, title IV, § 403(2)][/us/pl/107/188/s403/2], June 12, 2002, [116 Stat. 687][/us/stat/116/687].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1431, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1680][/us/stat/88/1680]; amended [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 204, June 19, 1986, [100 Stat. 660][/us/stat/100/660]; [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 113(d), Aug. 6, 1996, [110 Stat. 1636][/us/stat/110/1636]; [Pub. L. 107–188, title IV][/us/pl/107/188/tIV], § 403(2), June 12, 2002, [116 Stat. 687][/us/stat/116/687].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 
     1996—Subsec. (b). [Pub. L. 104–182][/us/pl/104/182] substituted “$15,000” for “$5,000”.
 
-    1986—Subsec. (a). [Pub. L. 99–339, § 204(1)][/us/pl/99/339/s204/1], (2), inserted “or an underground source of drinking water” after “to enter a public water system” and “including orders requiring the provision of alternative water supplies by persons who caused or contributed to the endangerment,” after “including travelers),”.
+    1986—Subsec. (a). [Pub. L. 99–339][/us/pl/99/339], § 204(1), (2), inserted “or an underground source of drinking water” after “to enter a public water system” and “including orders requiring the provision of alternative water supplies by persons who caused or contributed to the endangerment,” after “including travelers),”.
 
-    Subsec. (b). [Pub. L. 99–339, § 204(3)][/us/pl/99/339/s204/3], struck out “willfully” after “person who” and substituted “subject to a civil penalty of not to exceed” for “fined not more than”.
+    Subsec. (b). [Pub. L. 99–339][/us/pl/99/339], § 204(3), struck out “willfully” after “person who” and substituted “subject to a civil penalty of not to exceed” for “fined not more than”.
 
 ----------
 
@@ -43,17 +43,17 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1680
-[/us/pl/99/339/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs204
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F660
-[/us/pl/104/182/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fd
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1636
-[/us/pl/107/188/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F2
+[/us/pl/107/188/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIV
 [/us/stat/116/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F687
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
-[/us/pl/99/339/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs204%2F1
-[/us/pl/99/339/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs204%2F3
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 
 

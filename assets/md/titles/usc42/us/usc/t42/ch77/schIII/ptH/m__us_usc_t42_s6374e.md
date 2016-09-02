@@ -67,7 +67,7 @@
 
             (G) other measures.
 
-([Pub. L. 94–163, title III, § 400FF][/us/pl/94/163/s400FF], as added [Pub. L. 110–140, title I, § 142][/us/pl/110/140/s142], Dec. 19, 2007, [121 Stat. 1518][/us/stat/121/1518].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400FF, as added [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 142, Dec. 19, 2007, [121 Stat. 1518][/us/stat/121/1518].)
 
  __Effective Date__ 
 
@@ -81,8 +81,8 @@
 ----------
 
 [/us/usc/t42/s6374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6374
-[/us/pl/94/163/s400FF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400FF
-[/us/pl/110/140/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs142
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1518
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

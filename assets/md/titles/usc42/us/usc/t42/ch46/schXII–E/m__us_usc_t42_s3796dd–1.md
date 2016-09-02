@@ -59,13 +59,13 @@
 
             Notwithstanding any other provision of this subchapter, in relation to applications under [section 3796dd(b) of this title][/us/usc/t42/s3796dd/b] for grants of less than $1,000,000, the Attorney General may waive 1 or more of the requirements of subsection (c) of this section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
 
-([Pub. L. 90–351, title I, § 1702][/us/pl/90/351/s1702], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1811][/us/stat/108/1811]; amended [Pub. L. 109–162, title XI][/us/pl/109/162], §§ 1111(c)(2)(I), 1163(b), Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102], 3120.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1702, as added [Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10003(a)(3), Sept. 13, 1994, [108 Stat. 1811][/us/stat/108/1811]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], §§ 1111(c)(2)(I), 1163(b), Jan. 5, 2006, [119 Stat. 3102][/us/stat/119/3102], 3120.)
 
  __Amendments__ 
 
-    2006—Subsec. (c)(1). [Pub. L. 109–162, § 1111(c)(2)(I)][/us/pl/109/162/s1111/c/2/I], struck out “and reflects consideration of the statewide strategy under [section 3753(a)(1) of this title][/us/usc/t42/s3753/a/1]” before semicolon at end.
+    2006—Subsec. (c)(1). [Pub. L. 109–162][/us/pl/109/162], § 1111(c)(2)(I), struck out “and reflects consideration of the statewide strategy under [section 3753(a)(1) of this title][/us/usc/t42/s3753/a/1]” before semicolon at end.
 
-    Subsec. (d)(2). [Pub. L. 109–162, § 1163(b)][/us/pl/109/162/s1163/b], substituted “section 3796dd(b)” for “section 3796dd(d)”.
+    Subsec. (d)(2). [Pub. L. 109–162][/us/pl/109/162], § 1163(b), substituted “section 3796dd(b)” for “section 3796dd(d)”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -79,14 +79,14 @@
 ----------
 
 [/us/usc/t42/s3796dd/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd%2Fb
-[/us/pl/90/351/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1702
-[/us/pl/103/322/s10003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs10003%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtI
 [/us/stat/108/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1811
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3102
-[/us/pl/109/162/s1111/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FI
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t42/s3753/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3753%2Fa%2F1
-[/us/pl/109/162/s1163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1163%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162/s1111/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fc%2F2%2FI
 [/us/pl/109/162/s1111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1111%2Fd
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750

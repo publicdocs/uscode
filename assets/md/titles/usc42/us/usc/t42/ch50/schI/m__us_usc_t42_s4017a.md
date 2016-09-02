@@ -105,7 +105,7 @@
 
         The Secretary of the Treasury shall invest such amounts of the Reserve Fund as the Secretary determines advisable in obligations issued or guaranteed by the United States.
 
-([Pub. L. 90–448, title XIII, § 1310A][/us/pl/90/448/s1310A], as added [Pub. L. 112–141, div. F, title II, § 100212][/us/pl/112/141/s100212], July 6, 2012, [126 Stat. 922][/us/stat/126/922]; amended [Pub. L. 113–89][/us/pl/113/89], §§ 8(b), 20, Mar. 21, 2014, [128 Stat. 1024][/us/stat/128/1024], 1028.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1310A, as added [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100212, July 6, 2012, [126 Stat. 922][/us/stat/126/922]; amended [Pub. L. 113–89][/us/pl/113/89], §§ 8(b), 20, Mar. 21, 2014, [128 Stat. 1024][/us/stat/128/1024], 1028.)
 
  __References in Text__ 
 
@@ -113,9 +113,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(4). [Pub. L. 113–89, § 8(b)][/us/pl/113/89/s8/b], added par. (4).
+    2014—Subsec. (c)(4). [Pub. L. 113–89][/us/pl/113/89], § 8(b), added par. (4).
 
-    Subsec. (e). [Pub. L. 113–89, § 20][/us/pl/113/89/s20], inserted “, on a calendar quarterly basis,” after “submit” in introductory provisions.
+    Subsec. (e). [Pub. L. 113–89][/us/pl/113/89], § 20, inserted “, on a calendar quarterly basis,” after “submit” in introductory provisions.
 
 ----------
 
@@ -126,15 +126,15 @@
 
 [/us/usc/t42/s4016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016%2Fa
 [/us/usc/t42/s4015a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015a
-[/us/pl/90/448/s1310A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1310A
-[/us/pl/112/141/s100212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100212
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F922
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1024
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/113/89/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs8%2Fb
-[/us/pl/113/89/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs20
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 
 

@@ -77,7 +77,7 @@
 
             Any entity otherwise eligible for assistance under the national services laws shall be eligible to receive a grant under this subsection.
 
-        (3) __Repealed.__  __[__  __Pub. L. 105–354, § 2(b)__  __][/us/pl/105/354/s2/b]__  __,__  __Nov. 3, 1998__  __,__  __[__  __112 Stat. 3244__  __][/us/stat/112/3244]__ 
+        (3) __Repealed.__  __[__  __Pub. L. 105–354__  __][/us/pl/105/354]__  __, § 2(b),__  __Nov. 3, 1998__  __,__  __[__  __112 Stat. 3244__  __][/us/stat/112/3244]__ 
 
         (4) __Federal share__ 
 
@@ -105,7 +105,7 @@
 
             The Corporation may consult with and make grants or provide other forms of support to nonprofit organizations with expertise in representing families of victims of the September 11, 2001 terrorist attacks and other impacted constituencies, and in promoting the establishment of September 11 as an annually recognized National Day of Service and Remembrance.
 
-([Pub. L. 101–610, title I, § 198][/us/pl/101/610/s198], as added and amended [Pub. L. 103–82, title I, § 104(c)][/us/pl/103/82/s104/c], title IV, § 405(p)(2), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 922; [Pub. L. 103–304, § 3(a)][/us/pl/103/304/s3/a], (b)(6), Aug. 23, 1994, [108 Stat. 1566][/us/stat/108/1566], 1568; [Pub. L. 105–354, § 2(b)][/us/pl/105/354/s2/b], Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 111–13, title I, § 1802][/us/pl/111/13/s1802], Apr. 21, 2009, [123 Stat. 1552][/us/stat/123/1552].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198, as added and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(c), title IV, § 405(p)(2), Sept. 21, 1993, [107 Stat. 840][/us/stat/107/840], 922; [Pub. L. 103–304][/us/pl/103/304], § 3(a), (b)(6), Aug. 23, 1994, [108 Stat. 1566][/us/stat/108/1566], 1568; [Pub. L. 105–354][/us/pl/105/354], § 2(b), Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1802, Apr. 21, 2009, [123 Stat. 1552][/us/stat/123/1552].)
 
  __References in Text__ 
 
@@ -115,33 +115,33 @@
 
  __Prior Provisions__ 
 
-    A prior section 12653, [Pub. L. 101–610, title I, § 195][/us/pl/101/610/s195], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2522][/us/stat/106/2522], which stated purpose of Civilian Community Corps, was renumbered [section 151 of Pub. L. 101–610][/us/pl/101/610/s151] by [Pub. L. 103–82, § 104(b)][/us/pl/103/82/s104/b], and transferred to [section 12611 of this title][/us/usc/t42/s12611].
+    A prior section 12653, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2522][/us/stat/106/2522], which stated purpose of Civilian Community Corps, was renumbered [section 151 of Pub. L. 101–610][/us/pl/101/610/s151] by [Pub. L. 103–82][/us/pl/103/82], § 104(b), and transferred to [section 12611 of this title][/us/usc/t42/s12611].
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–13, § 1802(a)(3)][/us/pl/111/13/s1802/a/3], redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
+    2009—[Pub. L. 111–13][/us/pl/111/13], § 1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
 
-    Subsec. (a). [Pub. L. 111–13, § 1802(a)(1)][/us/pl/111/13/s1802/a/1], substituted “subsection (g)” for “subsection (r) of this section”.
+    Subsec. (a). [Pub. L. 111–13][/us/pl/111/13], § 1802(a)(1), substituted “subsection (g)” for “subsection (r) of this section”.
 
-    Subsec. (b). [Pub. L. 111–13, § 1802(a)(2)][/us/pl/111/13/s1802/a/2], substituted “to address emergent needs through summer programs and other activities, and to support service-learning programs and national service programs, including—” for “to improve the quality of national service programs, including service-learning programs, and to support innovative and model programs, including—” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–13][/us/pl/111/13], § 1802(a)(2), substituted “to address emergent needs through summer programs and other activities, and to support service-learning programs and national service programs, including—” for “to improve the quality of national service programs, including service-learning programs, and to support innovative and model programs, including—” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 111–13, § 1802(b)(1)(A)][/us/pl/111/13/s1802/b/1/A], substituted “Global” for “National” in heading.
+    Subsec. (g). [Pub. L. 111–13][/us/pl/111/13], § 1802(b)(1)(A), substituted “Global” for “National” in heading.
 
-    Subsec. (g)(1). [Pub. L. 111–13, § 1802(b)(1)(B)][/us/pl/111/13/s1802/b/1/B], (C), substituted “April 24, 2009, and April 23, 2010, are each designated as ‘Global Youth Service Days’.” for “April 19, 1994, and April 18, 1995, are each designated as ‘National Youth Service Day’.” and “appropriate youth-led community improvement and service-learning activities” for “appropriate ceremonies and activities”.
+    Subsec. (g)(1). [Pub. L. 111–13][/us/pl/111/13], § 1802(b)(1)(B), (C), substituted “April 24, 2009, and April 23, 2010, are each designated as ‘Global Youth Service Days’.” for “April 19, 1994, and April 18, 1995, are each designated as ‘National Youth Service Day’.” and “appropriate youth-led community improvement and service-learning activities” for “appropriate ceremonies and activities”.
 
-    Subsec. (g)(2). [Pub. L. 111–13, § 1802(b)(1)(B)][/us/pl/111/13/s1802/b/1/B], (D), substituted “Global Youth” for “National Youth”, inserted “and other Federal departments and agencies” after “Corporation”, and substituted “youth-led community improvement and service-learning activities” for “ceremonies and activities”.
+    Subsec. (g)(2). [Pub. L. 111–13][/us/pl/111/13], § 1802(b)(1)(B), (D), substituted “Global Youth” for “National Youth”, inserted “and other Federal departments and agencies” after “Corporation”, and substituted “youth-led community improvement and service-learning activities” for “ceremonies and activities”.
 
-    Subsec. (g)(3). [Pub. L. 111–13, § 1802(b)(1)(B)][/us/pl/111/13/s1802/b/1/B], (E), inserted “and other Federal departments and agencies” after “Corporation” and substituted “Global Youth” for “National Youth”.
+    Subsec. (g)(3). [Pub. L. 111–13][/us/pl/111/13], § 1802(b)(1)(B), (E), inserted “and other Federal departments and agencies” after “Corporation” and substituted “Global Youth” for “National Youth”.
 
-    Subsecs. (j), (k). [Pub. L. 111–13, § 1802(c)][/us/pl/111/13/s1802/c], added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 111–13][/us/pl/111/13], § 1802(c), added subsecs. (j) and (k).
 
     1998—Subsec. (s)(3). [Pub. L. 105–354][/us/pl/105/354] struck out heading and text of par. (3). Text read as follows: “In making grants under this subsection, the Corporation shall consult with the Martin Luther King, Jr. Federal Holiday Commission established under [section 169j–1 of title 36][/us/usc/t36/s169j–1].”
 
-    1994—Subsec. (q)(1). [Pub. L. 103–304, § 3(b)(6)][/us/pl/103/304/s3/b/6], substituted “1995,” for “1995”.
+    1994—Subsec. (q)(1). [Pub. L. 103–304][/us/pl/103/304], § 3(b)(6), substituted “1995,” for “1995”.
 
-    Subsec. (s). [Pub. L. 103–304, § 3(a)][/us/pl/103/304/s3/a], added subsec. (s).
+    Subsec. (s). [Pub. L. 103–304][/us/pl/103/304], § 3(a), added subsec. (s).
 
-    1993—Subsec. (r). [Pub. L. 103–82, § 405(p)(2)][/us/pl/103/82/s405/p/2], substituted “Corporation” for “ACTION Agency”.
+    1993—Subsec. (r). [Pub. L. 103–82][/us/pl/103/82], § 405(p)(2), substituted “Corporation” for “ACTION Agency”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -210,16 +210,16 @@ Sec. 2. Mission and Functions of the Council. The Council shall support the nati
 
 [/us/usc/t42/s5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5011
 [/us/usc/t42/s5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5011
-[/us/pl/105/354/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs2%2Fb
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3244
-[/us/pl/101/610/s198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198
-[/us/pl/103/82/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fc
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F840
-[/us/pl/103/304/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fa
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1566
-[/us/pl/105/354/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs2%2Fb
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3244
-[/us/pl/111/13/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1552
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -227,25 +227,25 @@ Sec. 2. Mission and Functions of the Council. The Council shall support the nati
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
-[/us/pl/101/610/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2522
 [/us/pl/101/610/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs151
-[/us/pl/103/82/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fb
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s12611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12611
-[/us/pl/111/13/s1802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fa%2F3
-[/us/pl/111/13/s1802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fa%2F1
-[/us/pl/111/13/s1802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fa%2F2
-[/us/pl/111/13/s1802/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fb%2F1%2FA
-[/us/pl/111/13/s1802/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fb%2F1%2FB
-[/us/pl/111/13/s1802/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fb%2F1%2FB
-[/us/pl/111/13/s1802/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fb%2F1%2FB
-[/us/pl/111/13/s1802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1802%2Fc
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/usc/t36/s169j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs169j%E2%80%931
-[/us/pl/103/304/s3/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F6
-[/us/pl/103/304/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fa
-[/us/pl/103/82/s405/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fp%2F2
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -55,29 +55,29 @@
 
         For purposes of this section, the term “new covered product” means a covered product the title of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
 
-([Pub. L. 94–163, title III, § 332][/us/pl/94/163/s332], Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928]; [Pub. L. 100–12, § 11(a)(3)][/us/pl/100/12/s11/a/3], (b)(5), Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 306(b), 321(e), Dec. 19, 2007, [121 Stat. 1559][/us/stat/121/1559], 1586; [Pub. L. 114–11, title II, § 201(2)][/us/pl/114/11/s201/2], Apr. 30, 2015, [129 Stat. 188][/us/stat/129/188].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 332, Dec. 22, 1975, [89 Stat. 928][/us/stat/89/928]; [Pub. L. 100–12][/us/pl/100/12], § 11(a)(3), (b)(5), Mar. 17, 1987, [101 Stat. 125][/us/stat/101/125]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 306(b), 321(e), Dec. 19, 2007, [121 Stat. 1559][/us/stat/121/1559], 1586; [Pub. L. 114–11, title II][/us/pl/114/11/tII], § 201(2), Apr. 30, 2015, [129 Stat. 188][/us/stat/129/188].)
 
  __Amendments__ 
 
     2015—Subsec. (a)(6) to (8). [Pub. L. 114–11][/us/pl/114/11] redesignated par. (6) relating to prohibition of distribution in commerce of certain adapters as (7) and added par. (8).
 
-    2007—Subsec. (a)(4). [Pub. L. 110–140, § 321(e)(1)][/us/pl/110/140/s321/e/1], which directed the striking out of “or” after semicolon at end, could not be executed after amendment by [Pub. L. 110–140, § 306(b)(1)][/us/pl/110/140/s306/b/1]. See below.
+    2007—Subsec. (a)(4). [Pub. L. 110–140][/us/pl/110/140], § 321(e)(1), which directed the striking out of “or” after semicolon at end, could not be executed after amendment by [Pub. L. 110–140][/us/pl/110/140], § 306(b)(1). See below.
 
-    [Pub. L. 110–140, § 306(b)(1)][/us/pl/110/140/s306/b/1], struck out “or” after semicolon at end.
+    [Pub. L. 110–140][/us/pl/110/140], § 306(b)(1), struck out “or” after semicolon at end.
 
-    Subsec. (a)(5). [Pub. L. 110–140, § 321(e)(2)][/us/pl/110/140/s321/e/2], which directed substitution of “; or” for period at end, could not be executed after amendment by [Pub. L. 110–140, § 306(b)(2)][/us/pl/110/140/s306/b/2]. See below.
+    Subsec. (a)(5). [Pub. L. 110–140][/us/pl/110/140], § 321(e)(2), which directed substitution of “; or” for period at end, could not be executed after amendment by [Pub. L. 110–140][/us/pl/110/140], § 306(b)(2). See below.
 
-    [Pub. L. 110–140, § 306(b)(2)][/us/pl/110/140/s306/b/2], substituted “part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard; or” for “part.”
+    [Pub. L. 110–140][/us/pl/110/140], § 306(b)(2), substituted “part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard; or” for “part.”
 
-    Subsec. (a)(6). [Pub. L. 110–140, § 321(e)(3)][/us/pl/110/140/s321/e/3], added par. (6) relating to prohibition of distribution in commerce of certain adapters.
+    Subsec. (a)(6). [Pub. L. 110–140][/us/pl/110/140], § 321(e)(3), added par. (6) relating to prohibition of distribution in commerce of certain adapters.
 
-    [Pub. L. 110–140, § 306(b)(3)][/us/pl/110/140/s306/b/3], added par. (6) relating to sale of a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates a regional standard.
+    [Pub. L. 110–140][/us/pl/110/140], § 306(b)(3), added par. (6) relating to sale of a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates a regional standard.
 
-    1987—Subsec. (a). [Pub. L. 100–12, § 11(b)(5)(A)][/us/pl/100/12/s11/b/5/A], inserted heading.
+    1987—Subsec. (a). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(5)(A), inserted heading.
 
-    Subsec. (a)(5). [Pub. L. 100–12, § 11(a)(3)][/us/pl/100/12/s11/a/3], substituted “energy conservation standard established in or prescribed under” for “energy efficiency standard prescribed under”.
+    Subsec. (a)(5). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(3), substituted “energy conservation standard established in or prescribed under” for “energy efficiency standard prescribed under”.
 
-    Subsec. (b). [Pub. L. 100–12, § 11(b)(5)(B)][/us/pl/100/12/s11/b/5/B], inserted heading.
+    Subsec. (b). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(5)(B), inserted heading.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -93,26 +93,26 @@
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t42/s6295/e/6/A/ii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fe%2F6%2FA%2Fii%2FV
-[/us/pl/94/163/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs332
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F928
-[/us/pl/100/12/s11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F3
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F125
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1559
-[/us/pl/114/11/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs201%2F2
+[/us/pl/114/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtII
 [/us/stat/129/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F188
 [/us/pl/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11
-[/us/pl/110/140/s321/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fe%2F1
-[/us/pl/110/140/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fb%2F1
-[/us/pl/110/140/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fb%2F1
-[/us/pl/110/140/s321/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fe%2F2
-[/us/pl/110/140/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fb%2F2
-[/us/pl/110/140/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fb%2F2
-[/us/pl/110/140/s321/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs321%2Fe%2F3
-[/us/pl/110/140/s306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fb%2F3
-[/us/pl/100/12/s11/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F5%2FA
-[/us/pl/100/12/s11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F3
-[/us/pl/100/12/s11/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F5%2FB
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

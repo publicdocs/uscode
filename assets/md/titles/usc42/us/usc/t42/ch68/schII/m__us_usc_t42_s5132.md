@@ -31,7 +31,7 @@
 
         The President is authorized to enter into agreements with the officers or agents of any private or commercial communications systems who volunteer the use of their systems on a reimbursable or nonreimbursable basis for the purpose of providing warning to governmental authorities and the civilian population endangered by disasters.
 
-([Pub. L. 93–288, title II, § 202][/us/pl/93/288/s202], May 22, 1974, [88 Stat. 145][/us/stat/88/145]; [Pub. L. 103–337, div. C, title XXXIV, § 3412(b)(1)][/us/pl/103/337/s3412/b/1], Oct. 5, 1994, [108 Stat. 3111][/us/stat/108/3111].)
+([Pub. L. 93–288, title II][/us/pl/93/288/tII], § 202, May 22, 1974, [88 Stat. 145][/us/stat/88/145]; [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3412(b)(1), Oct. 5, 1994, [108 Stat. 3111][/us/stat/108/3111].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t42/s5196/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5196%2Fc
-[/us/pl/93/288/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs202
+[/us/pl/93/288/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtII
 [/us/stat/88/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F145
-[/us/pl/103/337/s3412/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fb%2F1
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3111
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t42/s5196/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5196%2Fc

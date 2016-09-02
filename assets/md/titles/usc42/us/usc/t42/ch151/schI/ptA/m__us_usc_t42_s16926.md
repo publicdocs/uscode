@@ -35,7 +35,7 @@
 
         In addition to any amounts otherwise authorized to be appropriated, there are authorized to be appropriated such sums as may be necessary to the Attorney General, to be available only for the SOMA program, for fiscal years 2007 through 2009.
 
-([Pub. L. 109–248, title I, § 126][/us/pl/109/248/s126], July 27, 2006, [120 Stat. 599][/us/stat/120/599].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 126, July 27, 2006, [120 Stat. 599][/us/stat/120/599].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs126
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F599
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

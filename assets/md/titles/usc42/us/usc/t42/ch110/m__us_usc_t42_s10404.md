@@ -53,7 +53,7 @@
 
         Every 2 years, the Secretary shall review and evaluate the activities conducted by grantees, subgrantees, and contractors under this chapter and the effectiveness of the programs administered pursuant to this chapter, and submit a report containing the evaluation to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall also include a summary of the documentation provided to the Secretary through performance reports submitted under [section 10406(d) of this title][/us/usc/t42/s10406/d]. The Secretary shall make publicly available on the Department of Health and Human Services website the evaluation reports submitted to Congress under this subsection, including the summary of the documentation provided to the Secretary under [section 10406(d) of this title][/us/usc/t42/s10406/d].
 
-([Pub. L. 98–457, title III, § 304][/us/pl/98/457/s304], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3487][/us/stat/124/3487].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 304, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3487][/us/stat/124/3487].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 10404, [Pub. L. 98–457, title III, § 305][/us/pl/98/457/s305], Oct. 9, 1984, [98 Stat. 1760][/us/stat/98/1760]; [Pub. L. 102–295, title III, § 313][/us/pl/102/295/s313], May 28, 1992, [106 Stat. 204][/us/stat/106/204]; [Pub. L. 108–36, title IV][/us/pl/108/36], §§ 402, 415(4), June 25, 2003, [117 Stat. 825][/us/stat/117/825], 830, related to Secretarial responsibilities, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
+    A prior section 10404, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 305, Oct. 9, 1984, [98 Stat. 1760][/us/stat/98/1760]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 313, May 28, 1992, [106 Stat. 204][/us/stat/106/204]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], §§ 402, 415(4), June 25, 2003, [117 Stat. 825][/us/stat/117/825], 830, related to Secretarial responsibilities, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
     A prior [section 304 of Pub. L. 98–457][/us/pl/98/457/s304] was classified to [section 10403 of this title][/us/usc/t42/s10403] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -79,17 +79,17 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t42/s10406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fd
 [/us/usc/t42/s10406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fd
-[/us/pl/98/457/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs304
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3487
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/stat/124/3459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3459
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
-[/us/pl/98/457/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs305
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1760
-[/us/pl/102/295/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs313
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F204
-[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F825
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/pl/98/457/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs304

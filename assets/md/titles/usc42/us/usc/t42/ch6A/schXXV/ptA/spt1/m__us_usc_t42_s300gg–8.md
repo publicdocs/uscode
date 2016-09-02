@@ -129,7 +129,7 @@
 
         Notwithstanding any other provision of this chapter, nothing in this section shall preempt State laws that require a clinical trials policy for State regulated health insurance plans that is in addition to the policy required under this section..
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2709, as added [Pub. L. 111–148, title X, § 10103(c)][/us/pl/111/148/s10103/c], Mar. 23, 2010, [124 Stat. 892][/us/stat/124/892].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2709, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10103(c), Mar. 23, 2010, [124 Stat. 892][/us/stat/124/892].)
 
  __Codification__ 
 
@@ -147,7 +147,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10103%2Fc
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F892
 [/us/usc/t42/s300gg–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%939
 [/us/usc/t42/s238h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238h

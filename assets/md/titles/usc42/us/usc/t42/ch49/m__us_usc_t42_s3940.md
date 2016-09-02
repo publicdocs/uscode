@@ -17,7 +17,7 @@
 
     The right to repeal, alter, or amend this chapter at any time is expressly reserved.
 
-([Pub. L. 90–448, title IX, § 910][/us/pl/90/448/s910], Aug. 1, 1968, [82 Stat. 550][/us/stat/82/550].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 910, Aug. 1, 1968, [82 Stat. 550][/us/stat/82/550].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs910
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F550
 
 

@@ -33,7 +33,7 @@
 
         (2) it is imperative for the United States to retain the skills and the industrial capability to provide a follow-on Space Launch System that is primarily designed for missions beyond near-Earth space, while offering some potential for supplanting shuttle delivery capabilities to low-Earth orbit, particularly in support of ISS requirements, if necessary.
 
-([Pub. L. 111–267, title VI, § 601][/us/pl/111/267/s601], Oct. 11, 2010, [124 Stat. 2828][/us/stat/124/2828].)
+([Pub. L. 111–267, title VI][/us/pl/111/267/tVI], § 601, Oct. 11, 2010, [124 Stat. 2828][/us/stat/124/2828].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs601
+[/us/pl/111/267/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVI
 [/us/stat/124/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2828
 
 

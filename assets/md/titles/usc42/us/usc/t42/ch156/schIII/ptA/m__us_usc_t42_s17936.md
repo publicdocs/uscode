@@ -63,11 +63,11 @@
 
         This section shall apply to written communications occurring on or after the effective date specified under section 13423. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 111–5, div. A, title XIII, § 13406][/us/pl/111/5/s13406], Feb. 17, 2009, [123 Stat. 268][/us/stat/123/268].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13406, Feb. 17, 2009, [123 Stat. 268][/us/stat/123/268].)
 
  __References in Text__ 
 
-    Section 13423, referred to in subsec. (c), means [section 13423 of div. A of Pub. L. 111–5][/us/pl/111/5/s13423], which is set out as an Effective Date note under [section 17931 of this title][/us/usc/t42/s17931].
+    Section 13423, referred to in subsec. (c), means [section 13423 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13423], which is set out as an Effective Date note under [section 17931 of this title][/us/usc/t42/s17931].
 
 ----------
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/111/5/s13406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13406
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F268
-[/us/pl/111/5/s13423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13423
+[/us/pl/111/5/dA/s13423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13423
 [/us/usc/t42/s17931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17931
 
 

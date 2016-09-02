@@ -61,7 +61,7 @@
 
         A State may require that a person acting, or offering to act, as an agent or broker for a purchasing group obtain a license from that State, except that a State may not impose any qualification or requirement which discriminates against a nonresident agent or broker.
 
-([Pub. L. 96–510, title IV, § 404][/us/pl/96/510/s404], as added [Pub. L. 99–499, title II, § 210(a)][/us/pl/99/499/s210/a], formerly § 210, Oct. 17, 1986, [100 Stat. 1718][/us/stat/100/1718]; renumbered § 210(a), [Pub. L. 99–563, § 11(c)(1)][/us/pl/99/563/s11/c/1], Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177].)
+([Pub. L. 96–510, title IV][/us/pl/96/510/tIV], § 404, as added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 210(a), formerly § 210, Oct. 17, 1986, [100 Stat. 1718][/us/stat/100/1718]; renumbered § 210(a), [Pub. L. 99–563][/us/pl/99/563], § 11(c)(1), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177].)
 
 ----------
 
@@ -70,10 +70,10 @@
 ----------
 ----------
 
-[/us/pl/96/510/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs404
-[/us/pl/99/499/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs210%2Fa
+[/us/pl/96/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIV
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1718
-[/us/pl/99/563/s11/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs11%2Fc%2F1
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3177
 
 

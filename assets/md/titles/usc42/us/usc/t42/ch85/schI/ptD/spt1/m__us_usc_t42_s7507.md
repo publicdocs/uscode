@@ -23,7 +23,7 @@
 
     Nothing in this section or in subchapter II of this chapter shall be construed as authorizing any such State to prohibit or limit, directly or indirectly, the manufacture or sale of a new motor vehicle or motor vehicle engine that is certified in California as meeting California standards, or to take any action of any kind to create, or have the effect of creating, a motor vehicle or motor vehicle engine different than a motor vehicle or engine certified in California under California standards (a “third vehicle”) or otherwise create such a “third vehicle”.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 177, as added [Pub. L. 95–95, title I, § 129(b)][/us/pl/95/95/s129/b], Aug. 7, 1977, [91 Stat. 750][/us/stat/91/750]; amended [Pub. L. 101–549, title II, § 232][/us/pl/101/549/s232], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 177, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(b), Aug. 7, 1977, [91 Stat. 750][/us/stat/91/750]; amended [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 232, Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 [/us/usc/t42/s7543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543%2Fa
 [/us/usc/t42/s7543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F750
-[/us/pl/101/549/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs232
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2529
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 

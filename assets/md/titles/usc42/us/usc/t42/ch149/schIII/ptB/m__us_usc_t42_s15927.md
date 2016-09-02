@@ -213,7 +213,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 109–58, title III, § 369][/us/pl/109/58/s369], Aug. 8, 2005, [119 Stat. 728][/us/stat/119/728]; [Pub. L. 113–188, title VI, § 601(b)][/us/pl/113/188/s601/b], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 369, Aug. 8, 2005, [119 Stat. 728][/us/stat/119/728]; [Pub. L. 113–188, title VI][/us/pl/113/188/tVI], § 601(b), Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
  __Codification__ 
 
@@ -238,9 +238,9 @@
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
-[/us/pl/109/58/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F728
-[/us/pl/113/188/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs601%2Fb
+[/us/pl/113/188/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtVI
 [/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/109/58/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369
 [/us/pl/109/58/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369

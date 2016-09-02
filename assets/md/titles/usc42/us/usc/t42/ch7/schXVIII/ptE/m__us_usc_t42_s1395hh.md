@@ -111,47 +111,47 @@
 
         (3) A report under paragraph (1) shall include a description of efforts by the Secretary to reduce such inconsistency or conflicts, and recommendations for legislation or administrative action that the Secretary determines appropriate to further reduce such inconsistency or conflicts.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1871, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a] July 30, 1965, [79 Stat. 331][/us/stat/79/331]; amended [Pub. L. 99–509, title IX, § 9321(e)(1)][/us/pl/99/509/s9321/e/1], Oct. 21, 1986, [100 Stat. 2017][/us/stat/100/2017]; [Pub. L. 100–203, title IV, § 4035(b)][/us/pl/100/203/s4035/b], (c), Dec. 22, 1987, [101 Stat. 1330–78][/us/stat/101/1330-78]; [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 902(a)(1), (b)(1), 903(a)(1), (b)(1), (c)(1), 904(b), Dec. 8, 2003, [117 Stat. 2375–2377][/us/stat/117/2375-2377].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1871, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 102(a) July 30, 1965, [79 Stat. 331][/us/stat/79/331]; amended [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9321(e)(1), Oct. 21, 1986, [100 Stat. 2017][/us/stat/100/2017]; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4035(b), (c), Dec. 22, 1987, [101 Stat. 1330–78][/us/stat/101/1330-78]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], §§ 902(a)(1), (b)(1), 903(a)(1), (b)(1), (c)(1), 904(b), Dec. 8, 2003, [117 Stat. 2375–2377][/us/stat/117/2375-2377].)
 
  __Amendments__ 
 
-    2003—Subsec. (a)(3). [Pub. L. 108–173, § 902(a)(1)][/us/pl/108/173/s902/a/1], added par. (3).
+    2003—Subsec. (a)(3). [Pub. L. 108–173][/us/pl/108/173], § 902(a)(1), added par. (3).
 
-    Subsec. (a)(4). [Pub. L. 108–173, § 902(b)(1)][/us/pl/108/173/s902/b/1], added par. (4).
+    Subsec. (a)(4). [Pub. L. 108–173][/us/pl/108/173], § 902(b)(1), added par. (4).
 
-    Subsec. (e). [Pub. L. 108–173, § 903(a)(1)][/us/pl/108/173/s903/a/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–173][/us/pl/108/173], § 903(a)(1), added subsec. (e).
 
-    Subsec. (e)(1)(B), (C). [Pub. L. 108–173, § 903(b)(1)][/us/pl/108/173/s903/b/1], added subpars. (B) and (C).
+    Subsec. (e)(1)(B), (C). [Pub. L. 108–173][/us/pl/108/173], § 903(b)(1), added subpars. (B) and (C).
 
-    Subsec. (e)(2). [Pub. L. 108–173, § 903(c)(1)][/us/pl/108/173/s903/c/1], added par. (2).
+    Subsec. (e)(2). [Pub. L. 108–173][/us/pl/108/173], § 903(c)(1), added par. (2).
 
-    Subsec. (f). [Pub. L. 108–173, § 904(b)][/us/pl/108/173/s904/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–173][/us/pl/108/173], § 904(b), added subsec. (f).
 
-    1987—Subsec. (a). [Pub. L. 100–203, § 4035(b)][/us/pl/100/203/s4035/b], designated existing provisions as par. (1) and added par. (2).
+    1987—Subsec. (a). [Pub. L. 100–203][/us/pl/100/203], § 4035(b), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c). [Pub. L. 100–203, § 4035(c)][/us/pl/100/203/s4035/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–203][/us/pl/100/203], § 4035(c), added subsec. (c).
 
     1986—[Pub. L. 99–509][/us/pl/99/509] designated existing provisions as subsec. (a) and added subsec. (b).
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–173, title IX, § 902(a)(2)][/us/pl/108/173/s902/a/2], Dec. 8, 2003, [117 Stat. 2375][/us/stat/117/2375], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 902(a)(2), Dec. 8, 2003, [117 Stat. 2375][/us/stat/117/2375], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\]. The Secretary \[of Health and Human Services\] shall provide for an appropriate transition to take into account the backlog of previously published interim final regulations.”
 
-[Pub. L. 108–173, title IX, § 902(b)(2)][/us/pl/108/173/s902/b/2], Dec. 8, 2003, [117 Stat. 2376][/us/stat/117/2376], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 902(b)(2), Dec. 8, 2003, [117 Stat. 2376][/us/stat/117/2376], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to final regulations published on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
 
-[Pub. L. 108–173, title IX, § 903(a)(2)][/us/pl/108/173/s903/a/2], Dec. 8, 2003, [117 Stat. 2376][/us/stat/117/2376], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 903(a)(2), Dec. 8, 2003, [117 Stat. 2376][/us/stat/117/2376], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to substantive changes issued on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
 
-[Pub. L. 108–173, title IX, § 903(b)(2)][/us/pl/108/173/s903/b/2], Dec. 8, 2003, [117 Stat. 2376][/us/stat/117/2376], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 903(b)(2), Dec. 8, 2003, [117 Stat. 2376][/us/stat/117/2376], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to compliance actions undertaken on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
 
-[Pub. L. 108–173, title IX, § 903(c)(2)][/us/pl/108/173/s903/c/2], Dec. 8, 2003, [117 Stat. 2377][/us/stat/117/2377], provided that: 
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 903(c)(2), Dec. 8, 2003, [117 Stat. 2377][/us/stat/117/2377], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall only apply to a penalty or interest imposed with respect to guidance provided on or after July 24, 2003.”
 
@@ -161,23 +161,23 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–509, title IX, § 9321(e)(3)(A)][/us/pl/99/509/s9321/e/3/A], Oct. 21, 1986, [100 Stat. 2018][/us/stat/100/2018], provided that: 
+[Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9321(e)(3)(A), Oct. 21, 1986, [100 Stat. 2018][/us/stat/100/2018], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply to notices of proposed rulemaking issued after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
  __Regulations__ 
 
-[Pub. L. 101–508, title IV, § 4207(j)][/us/pl/101/508/s4207/j], formerly § 4027(j), Nov. 5, 1990, [104 Stat. 1388–124][/us/stat/104/1388-124], as renumbered and amended by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], (12), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4207(j), formerly § 4027(j), Nov. 5, 1990, [104 Stat. 1388–124][/us/stat/104/1388-124], as renumbered and amended by [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 160(d)(4), (12), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
 > “The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle \[subtitle A (§§ 4000–4361) of title IV of [Pub. L. 101–508][/us/pl/101/508], see Tables for classification\] and the amendments made by this subtitle.”
 
-[Section 4039(g) of title IV of Pub. L. 100–203][/us/pl/100/203/s4039/g] provided that: 
+[Section 4039(g) of title IV of Pub. L. 100–203][/us/pl/100/203/tIV/s4039/g] provided that: 
 
 > “The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle and the amendments made by this subtitle \[subtitle A (§§ 4001–4097) of title IV of [Pub. L. 100–203][/us/pl/100/203], see Tables for classification\].”
 
  __GAO Study on Advisory Opinion Authority__ 
 
-[Pub. L. 108–173, title IX, § 904(a)][/us/pl/108/173/s904/a], Dec. 8, 2003, [117 Stat. 2377][/us/stat/117/2377], provided that:
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 904(a), Dec. 8, 2003, [117 Stat. 2377][/us/stat/117/2377], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -199,46 +199,46 @@
 [/us/usc/t42/s1395zz/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395zz%2Fg
 [/us/usc/t42/s1395ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F331
-[/us/pl/99/509/s9321/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9321%2Fe%2F1
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2017
-[/us/pl/100/203/s4035/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4035%2Fb
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-78
-[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2375-2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2375-2377
-[/us/pl/108/173/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs902%2Fa%2F1
-[/us/pl/108/173/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs902%2Fb%2F1
-[/us/pl/108/173/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs903%2Fa%2F1
-[/us/pl/108/173/s903/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs903%2Fb%2F1
-[/us/pl/108/173/s903/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs903%2Fc%2F1
-[/us/pl/108/173/s904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs904%2Fb
-[/us/pl/100/203/s4035/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4035%2Fb
-[/us/pl/100/203/s4035/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4035%2Fc
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
-[/us/pl/108/173/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs902%2Fa%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2375
-[/us/pl/108/173/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs902%2Fb%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2376
-[/us/pl/108/173/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs903%2Fa%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2376
-[/us/pl/108/173/s903/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs903%2Fb%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2376
-[/us/pl/108/173/s903/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs903%2Fc%2F2
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2377
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203/s4035/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4035%2Fa%2F3
 [/us/usc/t42/s1395h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395h
-[/us/pl/99/509/s9321/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9321%2Fe%2F3%2FA
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2018
-[/us/pl/101/508/s4207/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fj
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-124
-[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/203/s4039/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fg
+[/us/pl/100/203/tIV/s4039/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV%2Fs4039%2Fg
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/108/173/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs904%2Fa
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2377
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 

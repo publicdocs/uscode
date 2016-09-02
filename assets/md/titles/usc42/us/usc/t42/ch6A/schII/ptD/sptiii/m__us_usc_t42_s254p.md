@@ -51,7 +51,7 @@
 
         (2) in the case of an individual who has received a loan under this section, the full amount of the principal and interest owed by such individual under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338G, formerly title VII, § 755, as added [Pub. L. 94–484, title IV, § 408(b)(1)][/us/pl/94/484/s408/b/1], Oct. 12, 1976, [90 Stat. 2287][/us/stat/90/2287]; renumbered § 338E and amended [Pub. L. 97–35, title XXVII, § 2709(a)][/us/pl/97/35/s2709/a], (f), Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908], 911; [Pub. L. 97–414, § 8(g)(3)][/us/pl/97/414/s8/g/3], Jan. 4, 1983, [96 Stat. 2061][/us/stat/96/2061]; renumbered § 338F and amended [Pub. L. 100–177, title II, § 201(2)][/us/pl/100/177/s201/2], title III, § 309, Dec. 1, 1987, [101 Stat. 992][/us/stat/101/992], 1006; renumbered § 338G and amended [Pub. L. 101–597, title II, § 204][/us/pl/101/597/s204], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027], 3035.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 338G, formerly title VII, § 755, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 408(b)(1), Oct. 12, 1976, [90 Stat. 2287][/us/stat/90/2287]; renumbered § 338E and amended [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2709(a), (f), Aug. 13, 1981, [95 Stat. 908][/us/stat/95/908], 911; [Pub. L. 97–414][/us/pl/97/414], § 8(g)(3), Jan. 4, 1983, [96 Stat. 2061][/us/stat/96/2061]; renumbered § 338F and amended [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 201(2), title III, § 309, Dec. 1, 1987, [101 Stat. 992][/us/stat/101/992], 1006; renumbered § 338G and amended [Pub. L. 101–597, title II][/us/pl/101/597/tII], § 204, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3027][/us/stat/104/3027], 3035.)
 
  __Codification__ 
 
@@ -61,35 +61,35 @@
 
     A prior section 338G of act July 1, 1944, was renumbered section 338H by [Pub. L. 101–597][/us/pl/101/597] and is classified to [section 254q of this title][/us/usc/t42/s254q].
 
-    Another prior section 338G of act July 1, 1944, was renumbered section 338I by [section 201(1) of Pub. L. 100–177][/us/pl/100/177/s201/1] and classified to [section 254r of this title][/us/usc/t42/s254r], prior to repeal by [Pub. L. 100–713, title I, § 104(b)(1)][/us/pl/100/713/s104/b/1], Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787].
+    Another prior section 338G of act July 1, 1944, was renumbered section 338I by [section 201(1) of Pub. L. 100–177][/us/pl/100/177/s201/1] and classified to [section 254r of this title][/us/usc/t42/s254r], prior to repeal by [Pub. L. 100–713, title I][/us/pl/100/713/tI], § 104(b)(1), Nov. 23, 1988, [102 Stat. 4787][/us/stat/102/4787].
 
-    Another prior section 338G of act July 1, 1944, was classified to [section 254q of this title][/us/usc/t42/s254q] prior to repeal by [Pub. L. 100–177, title II, § 203][/us/pl/100/177/s203], Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999].
+    Another prior section 338G of act July 1, 1944, was classified to [section 254q of this title][/us/usc/t42/s254q] prior to repeal by [Pub. L. 100–177, title II][/us/pl/100/177/tII], § 203, Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999].
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+    1990—Subsec. (a)(1). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-    1987—Subsec. (a). [Pub. L. 100–177, § 309(1)][/us/pl/100/177/s309/1], substituted subsec. (a) consisting of pars. (1) to (3) for former subsec. (a) consisting of pars. (1) and (2).
+    1987—Subsec. (a). [Pub. L. 100–177][/us/pl/100/177], § 309(1), substituted subsec. (a) consisting of pars. (1) to (3) for former subsec. (a) consisting of pars. (1) and (2).
 
-    Subsec. (b). [Pub. L. 100–177, § 309(1)][/us/pl/100/177/s309/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “The amount of the grant or loan under subsection (a) of this section to an individual shall be—
+    Subsec. (b). [Pub. L. 100–177][/us/pl/100/177], § 309(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The amount of the grant or loan under subsection (a) of this section to an individual shall be—
 
     “(1) $12,500 if the individual agrees to practice his profession in accordance with the agreement for a period of at least one year, but less than two years; or
 
     “(2) $25,000 if the individual agrees to practice his profession in accordance with the agreement for a period of at least two years.”
 
-    Subsec. (c). [Pub. L. 100–177, § 309(2)][/us/pl/100/177/s309/2], struck out “grant or” before “loan” in first sentence.
+    Subsec. (c). [Pub. L. 100–177][/us/pl/100/177], § 309(2), struck out “grant or” before “loan” in first sentence.
 
-    Subsec. (d)(1). [Pub. L. 100–177, § 309(3)][/us/pl/100/177/s309/3], substituted “under this section (as in effect prior to October 1, 1984)” for “under this section”, and made technical amendment to reference to section 254o(b) of this title to reflect renumbering of corresponding section of original act.
+    Subsec. (d)(1). [Pub. L. 100–177][/us/pl/100/177], § 309(3), substituted “under this section (as in effect prior to October 1, 1984)” for “under this section”, and made technical amendment to reference to section 254o(b) of this title to reflect renumbering of corresponding section of original act.
 
     1983—Subsec. (d)(1). [Pub. L. 97–414][/us/pl/97/414] substituted “section 254o(b)” for “section 254o(c)”.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 2709(f)(2)][/us/pl/97/35/s2709/f/2]–(4), made numerous changes to reflect renumbering of subpart sections, among them inserting references to [section 254k of this title][/us/usc/t42/s254k] and striking out references to [section 294v of this title][/us/usc/t42/s294v], and added applicability to loans.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 2709(f)(2)–(4), made numerous changes to reflect renumbering of subpart sections, among them inserting references to [section 254k of this title][/us/usc/t42/s254k] and striking out references to [section 294v of this title][/us/usc/t42/s294v], and added applicability to loans.
 
-    Subsec. (b). [Pub. L. 97–35, § 2709(f)(5)][/us/pl/97/35/s2709/f/5], inserted applicability to loans.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2709(f)(5), inserted applicability to loans.
 
-    Subsec. (c). [Pub. L. 97–35, § 2709(f)(6)][/us/pl/97/35/s2709/f/6], inserted provisions relating to loans and interest rates, etc.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 2709(f)(6), inserted provisions relating to loans and interest rates, etc.
 
-    Subsec. (d). [Pub. L. 97–35, § 2709(f)(7)][/us/pl/97/35/s2709/f/7], restructured and revised criteria determining amount of liability of individual within 60 days after the date of notice instead of within 120 days after the date of notice.
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 2709(f)(7), restructured and revised criteria determining amount of liability of individual within 60 days after the date of notice instead of within 120 days after the date of notice.
 
  __Effective Date__ 
 
@@ -110,15 +110,15 @@
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/usc/t42/s254n/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254n%2Fb%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2287
-[/us/pl/97/35/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Fa
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F908
-[/us/pl/97/414/s8/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs8%2Fg%2F3
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2061
-[/us/pl/100/177/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs201%2F2
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F992
-[/us/pl/101/597/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs204
+[/us/pl/101/597/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtII
 [/us/stat/104/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3027
 [/us/usc/t42/s294x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294x
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -126,23 +126,23 @@
 [/us/usc/t42/s254q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254q
 [/us/pl/100/177/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs201%2F1
 [/us/usc/t42/s254r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254r
-[/us/pl/100/713/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs104%2Fb%2F1
+[/us/pl/100/713/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2FtI
 [/us/stat/102/4787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4787
 [/us/usc/t42/s254q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254q
-[/us/pl/100/177/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs203
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F999
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/100/177/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs309%2F1
-[/us/pl/100/177/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs309%2F1
-[/us/pl/100/177/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs309%2F2
-[/us/pl/100/177/s309/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs309%2F3
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
-[/us/pl/97/35/s2709/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Ff%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s254k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254k
 [/us/usc/t42/s294v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294v
-[/us/pl/97/35/s2709/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Ff%2F5
-[/us/pl/97/35/s2709/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Ff%2F6
-[/us/pl/97/35/s2709/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2709%2Ff%2F7
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/94/484/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F1
 [/us/pl/94/484/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs408%2Fb%2F2
 

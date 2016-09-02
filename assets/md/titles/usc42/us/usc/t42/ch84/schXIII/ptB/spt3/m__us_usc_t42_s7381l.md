@@ -19,7 +19,7 @@
 
     In this section, the term “high-need public secondary school” means a secondary school—
 
-        (1) with a high concentration of low-income individuals (as defined in [section 6537 of title 20][/us/usc/t20/s6537]); or
+        (1) in which 40 percent or more of the students attending the school are children from low-income families; or
 
         (2) designated with a school locale code of 41, 42, or 43, as determined by the Secretary of Education.
 
@@ -85,7 +85,15 @@
 
         Nothing in this section displaces or otherwise affects any similar program being carried out as of August 9, 2007, at any National Laboratory under any other provision of law.
 
-([Pub. L. 101–510, div. C, title XXXI, § 3181][/us/pl/101/510/s3181], as added [Pub. L. 110–69, title V, § 5003(d)(3)][/us/pl/110/69/s5003/d/3], Aug. 9, 2007, [121 Stat. 607][/us/stat/121/607].)
+([Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3181, as added [Pub. L. 110–69, title V][/us/pl/110/69/tV], § 5003(d)(3), Aug. 9, 2007, [121 Stat. 607][/us/stat/121/607]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(w), Dec. 10, 2015, [129 Stat. 2171][/us/stat/129/2171].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–95][/us/pl/114/95] substituted “in which 40 percent or more of the students attending the school are children from low-income families” for “with a high concentration of low-income individuals (as defined in [section 6537 of title 20][/us/usc/t20/s6537])”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
 ----------
 
@@ -94,9 +102,15 @@
 ----------
 ----------
 
-[/us/usc/t20/s6537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6537
-[/us/pl/101/510/s3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3181
-[/us/pl/110/69/s5003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs5003%2Fd%2F3
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
+[/us/pl/110/69/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtV
 [/us/stat/121/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F607
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2171
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6537
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

@@ -135,7 +135,7 @@
 
         For the purposes of this section, the term “national voluntary health association” means a national non-profit organization with chapters or other affiliated organizations in States throughout the United States with experience serving the population of individuals with ALS and have demonstrated experience in ALS research, care, and patient services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399S, formerly § 399R, as added [Pub. L. 110–373, § 2][/us/pl/110/373/s2], Oct. 8, 2008, [122 Stat. 4047][/us/stat/122/4047]; renumbered § 399S, [Pub. L. 111–148, title IV, § 4003(b)(2)(A)][/us/pl/111/148/s4003/b/2/A], Mar. 23, 2010, [124 Stat. 544][/us/stat/124/544].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399S, formerly § 399R, as added [Pub. L. 110–373][/us/pl/110/373], § 2, Oct. 8, 2008, [122 Stat. 4047][/us/stat/122/4047]; renumbered § 399S, [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4003(b)(2)(A), Mar. 23, 2010, [124 Stat. 544][/us/stat/124/544].)
 
  __References in Text__ 
 
@@ -149,9 +149,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/373/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F373%2Fs2
+[/us/pl/110/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F373
 [/us/stat/122/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4047
-[/us/pl/111/148/s4003/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4003%2Fb%2F2%2FA
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F544
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936

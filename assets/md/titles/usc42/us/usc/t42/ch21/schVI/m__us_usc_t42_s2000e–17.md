@@ -17,7 +17,7 @@
 
     No Government contract, or portion thereof, with any employer, shall be denied, withheld, terminated, or suspended, by any agency or officer of the United States under any equal employment opportunity law or order, where such employer has an affirmative action plan which has previously been accepted by the Government for the same facility within the past twelve months without first according such employer full hearing and adjudication under the provisions of [section 554 of title 5][/us/usc/t5/s554], and the following pertinent sections: Provided, That if such employer has deviated substantially from such previously agreed to affirmative action plan, this section shall not apply: Provided further, That for the purposes of this section an affirmative action plan shall be deemed to have been accepted by the Government at the time the appropriate compliance agency has accepted such plan unless within forty-five days thereafter the Office of Federal Contract Compliance has disapproved such plan.
 
-([Pub. L. 88–352, title VII, § 718][/us/pl/88/352/s718], as added [Pub. L. 92–261, § 13][/us/pl/92/261/s13], Mar. 24, 1972, [86 Stat. 113][/us/stat/86/113].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 718, as added [Pub. L. 92–261][/us/pl/92/261], § 13, Mar. 24, 1972, [86 Stat. 113][/us/stat/86/113].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/88/352/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs718
-[/us/pl/92/261/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs13
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F113
 
 

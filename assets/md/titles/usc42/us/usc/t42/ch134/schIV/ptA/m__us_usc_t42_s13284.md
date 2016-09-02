@@ -27,7 +27,7 @@
 
         (2) in order to meet the objectives of this part.
 
-([Pub. L. 102–486, title VI, § 614][/us/pl/102/486/s614], Oct. 24, 1992, [106 Stat. 2903][/us/stat/106/2903].)
+([Pub. L. 102–486, title VI][/us/pl/102/486/tVI], § 614, Oct. 24, 1992, [106 Stat. 2903][/us/stat/106/2903].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs614
+[/us/pl/102/486/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVI
 [/us/stat/106/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2903
 
 

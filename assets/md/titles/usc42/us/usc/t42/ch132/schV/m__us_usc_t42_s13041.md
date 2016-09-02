@@ -51,13 +51,13 @@
 
         Federal agencies and facilities are encouraged to submit identifying information for criminal history checks on volunteers working in any of the positions listed in subsection (a) of this section and on adult household members in places where child care or foster care services are being provided in a home.
 
-([Pub. L. 101–647, title II, § 231][/us/pl/101/647/s231], Nov. 29, 1990, [104 Stat. 4808][/us/stat/104/4808]; [Pub. L. 102–190, div. A, title X, § 1094(a)][/us/pl/102/190/s1094/a], Dec. 5, 1991, [105 Stat. 1488][/us/stat/105/1488].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 231, Nov. 29, 1990, [104 Stat. 4808][/us/stat/104/4808]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1094(a), Dec. 5, 1991, [105 Stat. 1488][/us/stat/105/1488].)
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 102–190, § 1094(a)(1)][/us/pl/102/190/s1094/a/1], substituted “May 29, 1991. Except as provided in subsection (b)(3) of this section, no additional staff” for “6 months after November 29, 1990, and no additional staff”.
+    1991—Subsec. (a)(1). [Pub. L. 102–190][/us/pl/102/190], § 1094(a)(1), substituted “May 29, 1991. Except as provided in subsection (b)(3) of this section, no additional staff” for “6 months after November 29, 1990, and no additional staff”.
 
-    Subsec. (b)(3). [Pub. L. 102–190, § 1094(a)(2)][/us/pl/102/190/s1094/a/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 102–190][/us/pl/102/190], § 1094(a)(2), added par. (3).
 
 ----------
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/101/647/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs231
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4808
-[/us/pl/102/190/s1094/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1094%2Fa
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1488
-[/us/pl/102/190/s1094/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1094%2Fa%2F1
-[/us/pl/102/190/s1094/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1094%2Fa%2F2
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

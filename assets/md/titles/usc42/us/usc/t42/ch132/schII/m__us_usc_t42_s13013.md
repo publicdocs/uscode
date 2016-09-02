@@ -67,21 +67,21 @@
 
         An organization that receives a grant under this section for a fiscal year shall submit to the Administrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
 
-([Pub. L. 101–647, title II, § 217][/us/pl/101/647/s217], Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 107–273, div. C, title II, § 12221(b)(1)(C)][/us/pl/107/273/s12221/b/1/C], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 109–162, title I, § 112(c)][/us/pl/109/162/s112/c], Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I, § 106(2)][/us/pl/113/4/s106/2], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 217, Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12221(b)(1)(C), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 112(c), Jan. 5, 2006, [119 Stat. 2986][/us/stat/119/2986]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 106(2), Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
  __Amendments__ 
 
-    2013—Subsec. (c)(2)(A). [Pub. L. 113–4, § 106(2)(A)][/us/pl/113/4/s106/2/A], substituted “Standards for Programs” for “Code of Ethics”.
+    2013—Subsec. (c)(2)(A). [Pub. L. 113–4][/us/pl/113/4], § 106(2)(A), substituted “Standards for Programs” for “Code of Ethics”.
 
-    Subsec. (e). [Pub. L. 113–4, § 106(2)(B)][/us/pl/113/4/s106/2/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–4][/us/pl/113/4], § 106(2)(B), added subsec. (e).
 
-    2006—Subsec. (a). [Pub. L. 109–162, § 112(c)(1)][/us/pl/109/162/s112/c/1], substituted “to initiate, sustain, and expand” for “to expand”.
+    2006—Subsec. (a). [Pub. L. 109–162][/us/pl/109/162], § 112(c)(1), substituted “to initiate, sustain, and expand” for “to expand”.
 
-    Subsec. (b)(1). [Pub. L. 109–162, § 112(c)(2)(A)][/us/pl/109/162/s112/c/2/A], substituted “subsection (a) of this section—” for “subsection (a) of this section”, inserted subpar. (A) designation before “shall be”, and substituted “(B) may be” for “(2) may be” and “to initiate, sustain, and expand” for “to initiate or expand”.
+    Subsec. (b)(1). [Pub. L. 109–162][/us/pl/109/162], § 112(c)(2)(A), substituted “subsection (a) of this section—” for “subsection (a) of this section”, inserted subpar. (A) designation before “shall be”, and substituted “(B) may be” for “(2) may be” and “to initiate, sustain, and expand” for “to initiate or expand”.
 
-    Subsec. (b)(2). [Pub. L. 109–162, § 112(c)(2)(B)][/us/pl/109/162/s112/c/2/B], substituted “(1)(A)” for “(1)(a)” and “to initiate, sustain, and expand” for “to initiate and to expand”.
+    Subsec. (b)(2). [Pub. L. 109–162][/us/pl/109/162], § 112(c)(2)(B), substituted “(1)(A)” for “(1)(a)” and “to initiate, sustain, and expand” for “to initiate and to expand”.
 
-    Subsec. (d). [Pub. L. 109–162, § 112(c)(3)][/us/pl/109/162/s112/c/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–162][/us/pl/109/162], § 112(c)(3), added subsec. (d).
 
     2002—Subsec. (c)(1). [Pub. L. 107–273][/us/pl/107/273] substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 
@@ -100,20 +100,20 @@
 ----------
 ----------
 
-[/us/pl/101/647/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs217
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4794
-[/us/pl/107/273/s12221/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fb%2F1%2FC
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
-[/us/pl/109/162/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fc
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2986
-[/us/pl/113/4/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F2
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
-[/us/pl/113/4/s106/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F2%2FA
-[/us/pl/113/4/s106/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs106%2F2%2FB
-[/us/pl/109/162/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fc%2F1
-[/us/pl/109/162/s112/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fc%2F2%2FA
-[/us/pl/109/162/s112/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fc%2F2%2FB
-[/us/pl/109/162/s112/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fc%2F3
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4

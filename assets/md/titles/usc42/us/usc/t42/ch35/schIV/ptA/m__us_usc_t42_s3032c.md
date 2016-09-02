@@ -63,13 +63,13 @@
 
         The Assistant Secretary shall prepare and submit to the appropriate committees of Congress a report that includes summaries of the evaluations and reports required under subsection (b) of this section.
 
-([Pub. L. 89–73, title IV, § 414][/us/pl/89/73/s414], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2259][/us/stat/114/2259]; amended [Pub. L. 109–365, title IV, § 404][/us/pl/109/365/s404], Oct. 17, 2006, [120 Stat. 2553][/us/stat/120/2553].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 414, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2259][/us/stat/114/2259]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 404, Oct. 17, 2006, [120 Stat. 2553][/us/stat/120/2553].)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–365, § 404(1)][/us/pl/109/365/s404/1], inserted “mental health services,” after “adult day health care,”.
+    2006—Subsec. (a). [Pub. L. 109–365][/us/pl/109/365], § 404(1), inserted “mental health services,” after “adult day health care,”.
 
-    Subsec. (b)(1)(B)(i). [Pub. L. 109–365, § 404(2)][/us/pl/109/365/s404/2], inserted “mental health,” after “public health,”.
+    Subsec. (b)(1)(B)(i). [Pub. L. 109–365][/us/pl/109/365], § 404(2), inserted “mental health,” after “public health,”.
 
 ----------
 
@@ -81,12 +81,12 @@
 [/us/usc/t42/s3030e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030e
 [/us/usc/t42/s1395x/mm/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fmm%2F1
 [/us/usc/t42/s1395x/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F2
-[/us/pl/89/73/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs414
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2259
-[/us/pl/109/365/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs404
+[/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2553
-[/us/pl/109/365/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs404%2F1
-[/us/pl/109/365/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs404%2F2
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

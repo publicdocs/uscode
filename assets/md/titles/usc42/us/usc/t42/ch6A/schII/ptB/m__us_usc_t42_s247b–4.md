@@ -103,39 +103,39 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317C, as added [Pub. L. 102–531, title III, § 306(a)][/us/pl/102/531/s306/a], Oct. 27, 1992, [106 Stat. 3494][/us/stat/106/3494]; amended [Pub. L. 103–43, title XX, § 2008(i)(1)(B)(iii)][/us/pl/103/43/s2008/i/1/B/iii], June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 105–168, § 2][/us/pl/105/168/s2], Apr. 21, 1998, [112 Stat. 43][/us/stat/112/43]; [Pub. L. 106–310, div. A, title VI, § 611][/us/pl/106/310/s611], Oct. 17, 2000, [114 Stat. 1119][/us/stat/114/1119]; [Pub. L. 108–154, § 2][/us/pl/108/154/s2], Dec. 3, 2003, [117 Stat. 1933][/us/stat/117/1933]; [Pub. L. 111–256, § 2(f)(1)][/us/pl/111/256/s2/f/1], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317C, as added [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 306(a), Oct. 27, 1992, [106 Stat. 3494][/us/stat/106/3494]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(i)(1)(B)(iii), June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 105–168][/us/pl/105/168], § 2, Apr. 21, 1998, [112 Stat. 43][/us/stat/112/43]; [Pub. L. 106–310, div. A, title VI][/us/pl/106/310/dA/tVI], § 611, Oct. 17, 2000, [114 Stat. 1119][/us/stat/114/1119]; [Pub. L. 108–154][/us/pl/108/154], § 2, Dec. 3, 2003, [117 Stat. 1933][/us/stat/117/1933]; [Pub. L. 111–256][/us/pl/111/256], § 2(f)(1), Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
 
  __Amendments__ 
 
     2010—Subsec. (a)(4)(B)(i). [Pub. L. 111–256][/us/pl/111/256] substituted “intellectual disabilities;” for “mental retardation;”.
 
-    2003—Subsec. (a)(2)(A). [Pub. L. 108–154, § 2(1)(A)][/us/pl/108/154/s2/1/A], substituted “, developmental disabilities, and disabilities and health” for “and developmental disabilities” and “subsection (c)(2)” for “subsection (d)(2)”.
+    2003—Subsec. (a)(2)(A). [Pub. L. 108–154][/us/pl/108/154], § 2(1)(A), substituted “, developmental disabilities, and disabilities and health” for “and developmental disabilities” and “subsection (c)(2)” for “subsection (d)(2)”.
 
-    Subsec. (a)(2)(D), (E). [Pub. L. 108–154, § 2(1)(B)][/us/pl/108/154/s2/1/B]–(D), added subpars. (D) and (E).
+    Subsec. (a)(2)(D), (E). [Pub. L. 108–154][/us/pl/108/154], § 2(1)(B)–(D), added subpars. (D) and (E).
 
-    Subsecs. (b), (c). [Pub. L. 108–154, § 2(2)][/us/pl/108/154/s2/2],(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to additional provisions regarding collection of data.
+    Subsecs. (b), (c). [Pub. L. 108–154][/us/pl/108/154], § 2(2),(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to additional provisions regarding collection of data.
 
-    Subsec. (d). [Pub. L. 108–154, § 2(4)][/us/pl/108/154/s2/4], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 108–154][/us/pl/108/154], § 2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (d)(1). [Pub. L. 108–154, § 2(3)(A)][/us/pl/108/154/s2/3/A], added par. (1) and struck out former par. (1) which read as follows: “contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;”.
+    Subsec. (d)(1). [Pub. L. 108–154][/us/pl/108/154], § 2(3)(A), added par. (1) and struck out former par. (1) which read as follows: “contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;”.
 
-    Subsec. (d)(3). [Pub. L. 108–154, § 2(3)(B)][/us/pl/108/154/s2/3/B], inserted “, developmental disabilities, and secondary health conditions among individuals with disabilities” after “defects”.
+    Subsec. (d)(3). [Pub. L. 108–154][/us/pl/108/154], § 2(3)(B), inserted “, developmental disabilities, and secondary health conditions among individuals with disabilities” after “defects”.
 
-    Subsec. (d)(5) to (7). [Pub. L. 108–154, § 2(3)(C)][/us/pl/108/154/s2/3/C]–(E), added pars. (5) and (6) and redesignated former par. (5) as (7).
+    Subsec. (d)(5) to (7). [Pub. L. 108–154][/us/pl/108/154], § 2(3)(C)–(E), added pars. (5) and (6) and redesignated former par. (5) as (7).
 
-    Subsec. (e). [Pub. L. 108–154, § 2(5)][/us/pl/108/154/s2/5], added subsec. (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 108–154][/us/pl/108/154], § 2(5), added subsec. (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 108–154, § 2(6)][/us/pl/108/154/s2/6] substituted “such sums as may be necessary for each of fiscal years 2003 through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
+    Subsec. (f). [Pub. L. 108–154][/us/pl/108/154], § 2(6) substituted “such sums as may be necessary for each of fiscal years 2003 through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
 
-    2000—[Pub. L. 106–310, § 611(1)][/us/pl/106/310/s611/1], substituted “National Center on Birth Defects and Developmental Disabilities” for “Programs regarding birth defects” in section catchline.
+    2000—[Pub. L. 106–310][/us/pl/106/310], § 611(1), substituted “National Center on Birth Defects and Developmental Disabilities” for “Programs regarding birth defects” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–310, § 611(2)][/us/pl/106/310/s611/2], added subsec. (a) and struck out heading and text of former subsec. (a) relating to Secretary’s responsibility, acting through the Centers for Disease Control and Prevention, to carry out programs regarding birth defects.
+    Subsec. (a). [Pub. L. 106–310][/us/pl/106/310], § 611(2), added subsec. (a) and struck out heading and text of former subsec. (a) relating to Secretary’s responsibility, acting through the Centers for Disease Control and Prevention, to carry out programs regarding birth defects.
 
-    Subsec. (b)(1). [Pub. L. 106–310, § 611(3)][/us/pl/106/310/s611/3], substituted “subsection (a)(2)(A) of this section” for “subsection (a)(1) of this section” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 106–310][/us/pl/106/310], § 611(3), substituted “subsection (a)(2)(A) of this section” for “subsection (a)(1) of this section” in introductory provisions.
 
     1998—[Pub. L. 105–168][/us/pl/105/168] amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
 
-    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531, § 306(a)][/us/pl/102/531/s306/a], which enacted this section.
+    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531][/us/pl/102/531], § 306(a), which enacted this section.
 
  __Change of Name__ 
 
@@ -145,7 +145,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 105–168, § 1(b)][/us/pl/105/168/s1/b], Apr. 21, 1998, [112 Stat. 43][/us/stat/112/43], provided that: 
+[Pub. L. 105–168][/us/pl/105/168], § 1(b), Apr. 21, 1998, [112 Stat. 43][/us/stat/112/43], provided that: 
 
 > “Congress makes the following findings:
 
@@ -173,35 +173,35 @@
 [/us/usc/t42/s247b–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9311
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs306%2Fa
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3494
-[/us/pl/103/43/s2008/i/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fi%2F1%2FB%2Fiii
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F213
-[/us/pl/105/168/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F168%2Fs2
+[/us/pl/105/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F168
 [/us/stat/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F43
-[/us/pl/106/310/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs611
+[/us/pl/106/310/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtVI
 [/us/stat/114/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1119
-[/us/pl/108/154/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
 [/us/stat/117/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1933
-[/us/pl/111/256/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Ff%2F1
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
-[/us/pl/108/154/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F1%2FA
-[/us/pl/108/154/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F1%2FB
-[/us/pl/108/154/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F2
-[/us/pl/108/154/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F4
-[/us/pl/108/154/s2/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F3%2FA
-[/us/pl/108/154/s2/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F3%2FB
-[/us/pl/108/154/s2/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F3%2FC
-[/us/pl/108/154/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F5
-[/us/pl/108/154/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154%2Fs2%2F6
-[/us/pl/106/310/s611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs611%2F1
-[/us/pl/106/310/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs611%2F2
-[/us/pl/106/310/s611/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs611%2F3
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F154
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/105/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F168
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/102/531/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs306%2Fa
-[/us/pl/105/168/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F168%2Fs1%2Fb
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
+[/us/pl/105/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F168
 [/us/stat/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F43
 [/us/pl/111/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2
 [/us/pl/111/256/s2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fk

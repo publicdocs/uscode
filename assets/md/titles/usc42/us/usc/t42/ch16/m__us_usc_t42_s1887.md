@@ -17,7 +17,7 @@
 
     The Foundation is on and after November 25, 1985, authorized to indemnify grantees, contractors, and subcontractors associated with the ocean drilling program under the provisions of [section 2354 of title 10][/us/usc/t10/s2354], with all approvals and certifications required thereby made by the Director of the National Science Foundation.
 
-([Pub. L. 99–160, title II, § 201][/us/pl/99/160/s201], Nov. 25, 1985, [99 Stat. 922][/us/stat/99/922].)
+([Pub. L. 99–160, title II][/us/pl/99/160/tII], § 201, Nov. 25, 1985, [99 Stat. 922][/us/stat/99/922].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to this section were contained in the following prior appropriation act: [Pub. L. 98–371, title II, § 201][/us/pl/98/371/s201], July 18, 1984, [98 Stat. 1228][/us/stat/98/1228].
+    Provisions similar to this section were contained in the following prior appropriation act: [Pub. L. 98–371, title II][/us/pl/98/371/tII], § 201, July 18, 1984, [98 Stat. 1228][/us/stat/98/1228].
 
 ----------
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t10/s2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2354
-[/us/pl/99/160/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F160%2Fs201
+[/us/pl/99/160/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F160%2FtII
 [/us/stat/99/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F922
-[/us/pl/98/371/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371%2Fs201
+[/us/pl/98/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371%2FtII
 [/us/stat/98/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1228
 
 

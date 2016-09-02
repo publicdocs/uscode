@@ -33,7 +33,7 @@
 
             For the purpose of carrying out paragraph (1), the Director of NIH shall enter into a grant, cooperative agreement, or contract with a nonprofit private entity involved in activities regarding the prevention and control of osteoporosis and related bone disorders.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409A, as added [Pub. L. 103–43, title III, § 302][/us/pl/103/43/s302], June 10, 1993, [107 Stat. 151][/us/stat/107/151]; amended [Pub. L. 105–340, title I, § 102][/us/pl/105/340/s102], Oct. 31, 1998, [112 Stat. 3192][/us/stat/112/3192]; [Pub. L. 109–482, title I, § 103(b)(7)][/us/pl/109/482/s103/b/7], Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 409A, as added [Pub. L. 103–43, title III][/us/pl/103/43/tIII], § 302, June 10, 1993, [107 Stat. 151][/us/stat/107/151]; amended [Pub. L. 105–340, title I][/us/pl/105/340/tI], § 102, Oct. 31, 1998, [112 Stat. 3192][/us/stat/112/3192]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(7), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs302
+[/us/pl/103/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIII
 [/us/stat/107/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F151
-[/us/pl/105/340/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs102
+[/us/pl/105/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2FtI
 [/us/stat/112/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3192
-[/us/pl/109/482/s103/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F7
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/105/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340

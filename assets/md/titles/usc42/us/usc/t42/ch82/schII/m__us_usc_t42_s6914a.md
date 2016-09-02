@@ -19,7 +19,7 @@
 
 “DON’T POLLUTE—CONSERVE RESOURCES; RETURN USED OIL TO COLLECTION CENTERS”.
 
-([Pub. L. 89–272, title II, § 2005][/us/pl/89/272/s2005], as added [Pub. L. 96–463, § 4(a)][/us/pl/96/463/s4/a], Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 2005, as added [Pub. L. 96–463][/us/pl/96/463], § 4(a), Oct. 15, 1980, [94 Stat. 2056][/us/stat/94/2056].)
 
  __Prior Provisions__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/89/272/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2005
-[/us/pl/96/463/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463%2Fs4%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/96/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F463
 [/us/stat/94/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2056
 [/us/pl/89/272/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs2005
 [/us/usc/t42/s6915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6915

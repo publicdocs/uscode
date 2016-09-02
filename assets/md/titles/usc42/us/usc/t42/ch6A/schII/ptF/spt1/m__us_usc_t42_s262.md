@@ -539,7 +539,7 @@
 
             (B) the date of issuance of the interim final rule controlling the biological product.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 351, [58 Stat. 702][/us/stat/58/702]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 85–881, § 2][/us/pl/85/881/s2], Sept. 2, 1958, [72 Stat. 1704][/us/stat/72/1704]; [Pub. L. 91–515, title II, § 291][/us/pl/91/515/s291], Oct. 30, 1970, [84 Stat. 1308][/us/stat/84/1308]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 99–660, title I, § 105(a)][/us/pl/99/660/s105/a], title III, § 315, Nov. 14, 1986, [100 Stat. 3751][/us/stat/100/3751], 3783; [Pub. L. 102–300, § 6(b)(1)][/us/pl/102/300/s6/b/1], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 104–134, title II][/us/pl/104/134], §§ 2102(d)(2), 2104, Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319], 1321–320; [Pub. L. 105–115, title I, § 123(a)][/us/pl/105/115/s123/a]–(d), (g), Nov. 21, 1997, [111 Stat. 2323][/us/stat/111/2323], 2324; [Pub. L. 108–155, § 2(b)(3)][/us/pl/108/155/s2/b/3], Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 110–85, title IX, § 901(c)][/us/pl/110/85/s901/c], Sept. 27, 2007, [121 Stat. 939][/us/stat/121/939]; [Pub. L. 111–148, title VII, § 7002(a)][/us/pl/111/148/s7002/a], (b), (g)(1), Mar. 23, 2010, [124 Stat. 804][/us/stat/124/804], 814, 819; [Pub. L. 112–144, title V, § 502(a)(2)][/us/pl/112/144/s502/a/2], July 9, 2012, [126 Stat. 1040][/us/stat/126/1040]; [Pub. L. 114–89, § 2(a)(2)][/us/pl/114/89/s2/a/2], Nov. 25, 2015, [129 Stat. 698][/us/stat/129/698].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 351, [58 Stat. 702][/us/stat/58/702]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 85–881][/us/pl/85/881], § 2, Sept. 2, 1958, [72 Stat. 1704][/us/stat/72/1704]; [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 291, Oct. 30, 1970, [84 Stat. 1308][/us/stat/84/1308]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 99–660, title I][/us/pl/99/660/tI], § 105(a), title III, § 315, Nov. 14, 1986, [100 Stat. 3751][/us/stat/100/3751], 3783; [Pub. L. 102–300][/us/pl/102/300], § 6(b)(1), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 104–134, title II][/us/pl/104/134/tII], §§ 2102(d)(2), 2104, Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319], 1321–320; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 123(a)–(d), (g), Nov. 21, 1997, [111 Stat. 2323][/us/stat/111/2323], 2324; [Pub. L. 108–155][/us/pl/108/155], § 2(b)(3), Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 901(c), Sept. 27, 2007, [121 Stat. 939][/us/stat/121/939]; [Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(a), (b), (g)(1), Mar. 23, 2010, [124 Stat. 804][/us/stat/124/804], 814, 819; [Pub. L. 112–144, title V][/us/pl/112/144/tV], § 502(a)(2), July 9, 2012, [126 Stat. 1040][/us/stat/126/1040]; [Pub. L. 114–89][/us/pl/114/89], § 2(a)(2), Nov. 25, 2015, [129 Stat. 698][/us/stat/129/698].)
 
  __References in Text__ 
 
@@ -557,41 +557,41 @@
 
     2012—Subsec. (m)(1). [Pub. L. 112–144][/us/pl/112/144] substituted “(f), (h), (i), (j), (k), (l), (n), and (p)” for “(f), (i), (j), (k), (l), (p), and (q)”.
 
-    2010—Subsec. (a)(1)(A). [Pub. L. 111–148, § 7002(a)(1)][/us/pl/111/148/s7002/a/1], inserted “under this subsection or subsection (k)” after “biologics license”.
+    2010—Subsec. (a)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 7002(a)(1), inserted “under this subsection or subsection (k)” after “biologics license”.
 
-    Subsec. (i). [Pub. L. 111–148, § 7002(b)][/us/pl/111/148/s7002/b], substituted “In this section:” for “In this section,”, designated remainder of existing provisions as par. (1), substituted “The term” for “the term”, inserted “protein (except any chemically synthesized polypeptide),” after “allergenic product,”, and added pars. (2) to (4).
+    Subsec. (i). [Pub. L. 111–148][/us/pl/111/148], § 7002(b), substituted “In this section:” for “In this section,”, designated remainder of existing provisions as par. (1), substituted “The term” for “the term”, inserted “protein (except any chemically synthesized polypeptide),” after “allergenic product,”, and added pars. (2) to (4).
 
-    Subsecs. (k), (l). [Pub. L. 111–148, § 7002(a)(2)][/us/pl/111/148/s7002/a/2], added subsecs. (k) and (l).
+    Subsecs. (k), (l). [Pub. L. 111–148][/us/pl/111/148], § 7002(a)(2), added subsecs. (k) and (l).
 
-    Subsec. (m). [Pub. L. 111–148, § 7002(g)(1)][/us/pl/111/148/s7002/g/1], added subsec. (m).
+    Subsec. (m). [Pub. L. 111–148][/us/pl/111/148], § 7002(g)(1), added subsec. (m).
 
-    2007—Subsec. (a)(2)(D). [Pub. L. 110–85, § 901(c)(1)][/us/pl/110/85/s901/c/1], added subpar. (D).
+    2007—Subsec. (a)(2)(D). [Pub. L. 110–85][/us/pl/110/85], § 901(c)(1), added subpar. (D).
 
-    Subsec. (j). [Pub. L. 110–85, § 901(c)(2)][/us/pl/110/85/s901/c/2], inserted “, including the requirements under sections 505(o), 505(p), and 505–1 of such Act,” after “and Cosmetic Act”.
+    Subsec. (j). [Pub. L. 110–85][/us/pl/110/85], § 901(c)(2), inserted “, including the requirements under sections 505(o), 505(p), and 505–1 of such Act,” after “and Cosmetic Act”.
 
     2003—Subsec. (a)(2)(B), (C). [Pub. L. 108–155][/us/pl/108/155] added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    1997—Subsec. (a). [Pub. L. 105–115, § 123(a)(1)][/us/pl/105/115/s123/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
+    1997—Subsec. (a). [Pub. L. 105–115][/us/pl/105/115], § 123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
 
-    Subsec. (b). [Pub. L. 105–115, § 123(b)][/us/pl/105/115/s123/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alter any label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark.”
+    Subsec. (b). [Pub. L. 105–115][/us/pl/105/115], § 123(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alter any label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark.”
 
-    Subsec. (c). [Pub. L. 105–115, § 123(c)][/us/pl/105/115/s123/c], substituted “biological product.” for “virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid for sale, barter, or exchange in the District of Columbia, or to be sent, carried, or brought from any State or possession into any other State or possession or into any foreign country, or from any foreign country into any State or possession.”
+    Subsec. (c). [Pub. L. 105–115][/us/pl/105/115], § 123(c), substituted “biological product.” for “virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid for sale, barter, or exchange in the District of Columbia, or to be sent, carried, or brought from any State or possession into any other State or possession or into any foreign country, or from any foreign country into any State or possession.”
 
-    Subsec. (d). [Pub. L. 105–115, § 123(a)(2)][/us/pl/105/115/s123/a/2], designated par. (2) as subsec. (d), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, in par. (2), substituted “Any violation of paragraph (1)” for “Any violation of subparagraph (A)” and substituted “this paragraph” for “this subparagraph” wherever appearing, and struck out former par. (1) which read as follows: “Licenses for the maintenance of establishments for the propagation or manufacture and preparation of products described in subsection (a) of this section may be issued only upon a showing that the establishment and the products for which a license is desired meet standards, designed to insure the continued safety, purity, and potency of such products, prescribed in regulations, and licenses for new products may be issued only upon a showing that they meet such standards. All such licenses shall be issued, suspended, and revoked as prescribed by regulations and all licenses issued for the maintenance of establishments for the propagation or manufacture and preparation, in any foreign country, of any such products for sale, barter, or exchange in any State or possession shall be issued upon condition that the licensees will permit the inspection of their establishments in accordance with subsection (c) of this section.”
+    Subsec. (d). [Pub. L. 105–115][/us/pl/105/115], § 123(a)(2), designated par. (2) as subsec. (d), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, in par. (2), substituted “Any violation of paragraph (1)” for “Any violation of subparagraph (A)” and substituted “this paragraph” for “this subparagraph” wherever appearing, and struck out former par. (1) which read as follows: “Licenses for the maintenance of establishments for the propagation or manufacture and preparation of products described in subsection (a) of this section may be issued only upon a showing that the establishment and the products for which a license is desired meet standards, designed to insure the continued safety, purity, and potency of such products, prescribed in regulations, and licenses for new products may be issued only upon a showing that they meet such standards. All such licenses shall be issued, suspended, and revoked as prescribed by regulations and all licenses issued for the maintenance of establishments for the propagation or manufacture and preparation, in any foreign country, of any such products for sale, barter, or exchange in any State or possession shall be issued upon condition that the licensees will permit the inspection of their establishments in accordance with subsection (c) of this section.”
 
-    Subsec. (i). [Pub. L. 105–115, § 123(d)][/us/pl/105/115/s123/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 105–115][/us/pl/105/115], § 123(d), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 105–115, § 123(g)][/us/pl/105/115/s123/g], added subsec. (j).
+    Subsec. (j). [Pub. L. 105–115][/us/pl/105/115], § 123(g), added subsec. (j).
 
-    1996—Subsec. (h). [Pub. L. 104–134, § 2104][/us/pl/104/134/s2104], amended subsec. (h) generally, revising and restating former provisions, which also related to exportation of partially processed biological products.
+    1996—Subsec. (h). [Pub. L. 104–134][/us/pl/104/134], § 2104, amended subsec. (h) generally, revising and restating former provisions, which also related to exportation of partially processed biological products.
 
-    Subsec. (h)(1)(A). [Pub. L. 104–134, § 2102(d)(2)][/us/pl/104/134/s2102/d/2], substituted “in a country listed under section 802(b)(1)” for “in a country listed under section 802(b)(A)” and “to a country listed under section 802(b)(1)” for “to a country listed under section 802(b)(4)”.
+    Subsec. (h)(1)(A). [Pub. L. 104–134][/us/pl/104/134], § 2102(d)(2), substituted “in a country listed under section 802(b)(1)” for “in a country listed under section 802(b)(A)” and “to a country listed under section 802(b)(1)” for “to a country listed under section 802(b)(4)”.
 
     1992—Subsec. (c). [Pub. L. 102–300][/us/pl/102/300], which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
 
-    1986—Subsec. (d). [Pub. L. 99–660, § 315][/us/pl/99/660/s315], designated existing provisions as par. (1) and added par. (2).
+    1986—Subsec. (d). [Pub. L. 99–660][/us/pl/99/660], § 315, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (h). [Pub. L. 99–660, § 105(a)][/us/pl/99/660/s105/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–660][/us/pl/99/660], § 105(a), added subsec. (h).
 
     1970—Subsecs. (a) to (c). [Pub. L. 91–515][/us/pl/91/515] inserted “vaccine, blood, blood component or derivative, allergenic product,” after “antitoxin” wherever appearing.
 
@@ -611,7 +611,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–660, title I, § 105(b)][/us/pl/99/660/s105/b], Nov. 14, 1986, [100 Stat. 3752][/us/stat/100/3752], provided that: 
+[Pub. L. 99–660, title I][/us/pl/99/660/tI], § 105(b), Nov. 14, 1986, [100 Stat. 3752][/us/stat/100/3752], provided that: 
 
 > “Paragraph (1) of section 351(h) of the Public Health Service Act \[former [42 U.S.C. 262(h)(1)][/us/usc/t42/s262/h/1]\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -625,7 +625,7 @@
 
  __Products Previously Approved Under the Federal Food, Drug, and Cosmetic Act__ 
 
-[Pub. L. 111–148, title VII, § 7002(e)][/us/pl/111/148/s7002/e], Mar. 23, 2010, [124 Stat. 817][/us/stat/124/817], provided that:
+[Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(e), Mar. 23, 2010, [124 Stat. 817][/us/stat/124/817], provided that:
 
 >     “(1)  __Requirement to follow section__  __351.—__ 
 
@@ -659,7 +659,7 @@
 
  __Costs of Reviewing Biosimilar Biological Product Applications__ 
 
-[Pub. L. 111–148, title VII, § 7002(f)(3)(B)][/us/pl/111/148/s7002/f/3/B], (C), Mar. 23, 2010, [124 Stat. 818][/us/stat/124/818], 819, provided that:
+[Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(f)(3)(B), (C), Mar. 23, 2010, [124 Stat. 818][/us/stat/124/818], 819, provided that:
 
 >     “(B)  __Evaluation of costs of reviewing biosimilar biological product applications__  __.—__ 
 
@@ -689,7 +689,7 @@
 
  __Licensing of Orphan Products__ 
 
-[Pub. L. 111–148, title VII, § 7002(h)][/us/pl/111/148/s7002/h], Mar. 23, 2010, [124 Stat. 821][/us/stat/124/821], provided that: 
+[Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(h), Mar. 23, 2010, [124 Stat. 821][/us/stat/124/821], provided that: 
 
 > “If a reference product, as defined in section 351 of the Public Health Service Act ([42 U.S.C. 262][/us/usc/t42/s262]) (as amended by this Act) has been designated under section 526 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bb][/us/usc/t21/s360bb]) for a rare disease or condition, a biological product seeking approval for such disease or condition under subsection (k) of such section 351 as biosimilar to, or interchangeable with, such reference product may be licensed by the Secretary \[of Health and Human Services\] only after the expiration for such reference product of the later of—
 
@@ -699,7 +699,7 @@
 
  __Savings Generated by 2010 Amendment__ 
 
-[Pub. L. 111–148, title VII, § 7003][/us/pl/111/148/s7003], Mar. 23, 2010, [124 Stat. 821][/us/stat/124/821], provided that:
+[Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7003, Mar. 23, 2010, [124 Stat. 821][/us/stat/124/821], provided that:
 
 >     “(a)  __Determination__  __.—__ 
 
@@ -711,7 +711,7 @@
 
  __Enhanced Penalties and Control of Biological Agents__ 
 
-[Pub. L. 104–132, title V, § 511][/us/pl/104/132/s511], Apr. 24, 1996, [110 Stat. 1284][/us/stat/110/1284], as amended by [Pub. L. 107–188, title II, § 204][/us/pl/107/188/s204], June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that:
+[Pub. L. 104–132, title V][/us/pl/104/132/tV], § 511, Apr. 24, 1996, [110 Stat. 1284][/us/stat/110/1284], as amended by [Pub. L. 107–188, title II][/us/pl/107/188/tII], § 204, June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -767,29 +767,29 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F702
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/85/881/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F881%2Fs2
+[/us/pl/85/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F881
 [/us/stat/72/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1704
-[/us/pl/91/515/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs291
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1308
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/99/660/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs105%2Fa
+[/us/pl/99/660/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtI
 [/us/stat/100/3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3751
-[/us/pl/102/300/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F1
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtII
 [/us/stat/110/1321-319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-319
-[/us/pl/105/115/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fa
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2323
-[/us/pl/108/155/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs2%2Fb%2F3
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/stat/117/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1941
-[/us/pl/110/85/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs901%2Fc
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F939
-[/us/pl/111/148/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fa
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F804
-[/us/pl/112/144/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs502%2Fa%2F2
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1040
-[/us/pl/114/89/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F2
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F698
 [/us/pl/99/660/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs315
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
@@ -801,24 +801,24 @@
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/pl/111/148/s7002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fa%2F1
-[/us/pl/111/148/s7002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fb
-[/us/pl/111/148/s7002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fa%2F2
-[/us/pl/111/148/s7002/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fg%2F1
-[/us/pl/110/85/s901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs901%2Fc%2F1
-[/us/pl/110/85/s901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs901%2Fc%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
-[/us/pl/105/115/s123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fa%2F1
-[/us/pl/105/115/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fb
-[/us/pl/105/115/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fc
-[/us/pl/105/115/s123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fa%2F2
-[/us/pl/105/115/s123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fd
-[/us/pl/105/115/s123/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Fg
-[/us/pl/104/134/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2104
-[/us/pl/104/134/s2102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fd%2F2
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
-[/us/pl/99/660/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs315
-[/us/pl/99/660/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs105%2Fa
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
 [/us/pl/85/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F881
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
@@ -830,7 +830,7 @@
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/99/660/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs105%2Fb
+[/us/pl/99/660/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtI
 [/us/stat/100/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3752
 [/us/usc/t42/s262/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fh%2F1
 [/us/pl/99/660/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs315
@@ -843,7 +843,7 @@
 [/us/usc/t42/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3501
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/111/148/s7002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fe
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F817
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
@@ -853,25 +853,25 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/111/148/s7002/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Ff%2F3%2FB
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F818
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
 [/us/usc/t42/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fa
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
 [/us/usc/t31/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3511
-[/us/pl/111/148/s7002/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fh
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F821
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
 [/us/usc/t21/s360cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360cc%2Fa
-[/us/pl/111/148/s7003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7003
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F821
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/104/132/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs511
+[/us/pl/104/132/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtV
 [/us/stat/110/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1284
-[/us/pl/107/188/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs204
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F647
 [/us/usc/t18/s2332a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332a
 

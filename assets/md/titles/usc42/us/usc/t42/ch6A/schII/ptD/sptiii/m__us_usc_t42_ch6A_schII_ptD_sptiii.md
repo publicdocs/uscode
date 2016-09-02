@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–177, title II, § 202(f)][/us/pl/100/177/s202/f], Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999], inserted subpart III heading and redesignated former subpart III as IV.
+    1987—[Pub. L. 100–177, title II][/us/pl/100/177/tII], § 202(f), Dec. 1, 1987, [101 Stat. 999][/us/stat/101/999], inserted subpart III heading and redesignated former subpart III as IV.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/177/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs202%2Ff
+[/us/pl/100/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtII
 [/us/stat/101/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F999
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2 _us_usc_t42_s247d–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
 
 ## § 247d–1. Vaccine tracking and distribution
 
@@ -39,7 +39,7 @@
 
         As part of the National Health Security Strategy described in [section 300hh–1 of this title][/us/usc/t42/s300hh–1], the Secretary shall provide an update on the implementation of subsections (a) through (d).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319A, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2316][/us/stat/114/2316]; amended [Pub. L. 107–188, title I, § 111(1)][/us/pl/107/188/s111/1], June 12, 2002, [116 Stat. 611][/us/stat/116/611]; [Pub. L. 109–417, title II, § 204(a)][/us/pl/109/417/s204/a], Dec. 19, 2006, [120 Stat. 2850][/us/stat/120/2850]; [Pub. L. 113–5, title II, § 202(b)][/us/pl/113/5/s202/b], Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319A, as added [Pub. L. 106–505, title I][/us/pl/106/505/tI], § 102, Nov. 13, 2000, [114 Stat. 2316][/us/stat/114/2316]; amended [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 111(1), June 12, 2002, [116 Stat. 611][/us/stat/116/611]; [Pub. L. 109–417, title II][/us/pl/109/417/tII], § 204(a), Dec. 19, 2006, [120 Stat. 2850][/us/stat/120/2850]; [Pub. L. 113–5, title II][/us/pl/113/5/tII], § 202(b), Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175].)
 
  __References in Text__ 
 
@@ -53,15 +53,9 @@
 
     2002—Subsec. (a)(1). [Pub. L. 107–188][/us/pl/107/188] substituted “five years” for “10 years”.
 
-§§ 247d–2, 247d–3. __Repealed.__  __[__  __Pub. L. 109–417, title II, § 204(b)(1)__  __][/us/pl/109/417/s204/b/1]__  __,__  __Dec. 19, 2006__  __,__  __[__  __120 Stat. 2851__  __][/us/stat/120/2851]__ 
-
-    Section 247d–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319B, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2317][/us/stat/114/2317]; amended [Pub. L. 107–188, title I, § 111(2)][/us/pl/107/188/s111/2], June 12, 2002, [116 Stat. 611][/us/stat/116/611], related to grants to States to assess public health needs.
-
-    Section 247d–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319C, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2317][/us/stat/114/2317]; amended [Pub. L. 107–188, title I, § 131(b)][/us/pl/107/188/s131/b], June 12, 2002, [116 Stat. 626][/us/stat/116/626], related to grants to improve State and local public health agencies.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2 _us_usc_t42_s247d–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
 
 ----------
 ----------
@@ -69,30 +63,18 @@
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t42/s300hh–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/pl/106/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtI
 [/us/stat/114/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2316
-[/us/pl/107/188/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs111%2F1
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F611
-[/us/pl/109/417/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs204%2Fa
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2850
-[/us/pl/113/5/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs202%2Fb
+[/us/pl/113/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtII
 [/us/stat/127/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F175
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
-[/us/pl/109/417/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs204%2Fb%2F1
-[/us/stat/120/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2851
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
-[/us/stat/114/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2317
-[/us/pl/107/188/s111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs111%2F2
-[/us/stat/116/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F611
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
-[/us/stat/114/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2317
-[/us/pl/107/188/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs131%2Fb
-[/us/stat/116/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F626
 
 

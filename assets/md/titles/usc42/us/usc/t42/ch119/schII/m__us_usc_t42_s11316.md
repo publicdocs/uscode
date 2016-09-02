@@ -23,7 +23,7 @@
 
         The Secretary of Health and Human Services shall terminate the Federal Task Force on the Homeless of the Department of Health and Human Services as soon as practicable following the first meeting of the Council.
 
-([Pub. L. 100–77, title II, § 206][/us/pl/100/77/s206], July 22, 1987, [101 Stat. 489][/us/stat/101/489].)
+([Pub. L. 100–77, title II][/us/pl/100/77/tII], § 206, July 22, 1987, [101 Stat. 489][/us/stat/101/489].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs206
+[/us/pl/100/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtII
 [/us/stat/101/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F489
 
 

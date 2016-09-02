@@ -35,7 +35,7 @@
 
     (9) participating in such other activities, both proactive and reactive, that will enhance investigations and prosecutions of Internet crimes against children.
 
-([Pub. L. 110–401, title I, § 103][/us/pl/110/401/s103], Oct. 13, 2008, [122 Stat. 4234][/us/stat/122/4234].)
+([Pub. L. 110–401, title I][/us/pl/110/401/tI], § 103, Oct. 13, 2008, [122 Stat. 4234][/us/stat/122/4234].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/401/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs103
+[/us/pl/110/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtI
 [/us/stat/122/4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4234
 
 

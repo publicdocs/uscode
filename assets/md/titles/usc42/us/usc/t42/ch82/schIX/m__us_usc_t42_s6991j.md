@@ -21,7 +21,7 @@
 
     (2) by the Administrator, for tanks regulated under this subchapter (including under a State program approved under [section 6991c of this title][/us/usc/t42/s6991c]).
 
-([Pub. L. 89–272, title II, § 9011][/us/pl/89/272/s9011], as added [Pub. L. 109–58, title XV, § 1526(a)][/us/pl/109/58/s1526/a], Aug. 8, 2005, [119 Stat. 1097][/us/stat/119/1097].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9011, as added [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1526(a), Aug. 8, 2005, [119 Stat. 1097][/us/stat/119/1097].)
 
 ----------
 
@@ -32,8 +32,8 @@
 
 [/us/usc/t42/s6991m/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991m%2F2%2FD
 [/us/usc/t42/s6991c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991c
-[/us/pl/89/272/s9011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9011
-[/us/pl/109/58/s1526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1526%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1097
 
 

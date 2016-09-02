@@ -101,39 +101,39 @@
 
         The provisions of this section shall apply with respect to a denial of a payment under this subchapter by reason of [section 1395f(a)(7)(E) of this title][/us/usc/t42/s1395f/a/7/E] in the same manner as such provisions apply with respect to a denial of a payment under this subchapter by reason of [section 1395y(a)(1) of this title][/us/usc/t42/s1395y/a/1].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1879, as added [Pub. L. 92–603, title II, § 213(a)][/us/pl/92/603/s213/a], Oct. 30, 1972, [86 Stat. 1384][/us/stat/86/1384]; amended [Pub. L. 96–499, title IX, § 956(a)][/us/pl/96/499/s956/a], Dec. 5, 1980, [94 Stat. 2648][/us/stat/94/2648]; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 145, 148(e), Sept. 3, 1982, [96 Stat. 393][/us/stat/96/393], 394; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9305(g)(1), 9341(a)(3), Oct. 21, 1986, [100 Stat. 1991][/us/stat/100/1991], 2038; [Pub. L. 100–203, title IV, § 4096(b)][/us/pl/100/203/s4096/b], Dec. 22, 1987, [101 Stat. 1330–139][/us/stat/101/1330-139]; [Pub. L. 101–239, title VI, § 6214(a)][/us/pl/101/239/s6214/a], (b), Dec. 19, 1989, [103 Stat. 2252][/us/stat/103/2252]; [Pub. L. 103–432, title I, § 133(b)][/us/pl/103/432/s133/b], Oct. 31, 1994, [108 Stat. 4421][/us/stat/108/4421]; [Pub. L. 105–33, title IV, § 4447][/us/pl/105/33/s4447], Aug. 5, 1997, [111 Stat. 424][/us/stat/111/424]; [Pub. L. 112–40, title II, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], (B), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423]; [Pub. L. 113–185, § 3(b)][/us/pl/113/185/s3/b], Oct. 6, 2014, [128 Stat. 1969][/us/stat/128/1969].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1879, as added [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 213(a), Oct. 30, 1972, [86 Stat. 1384][/us/stat/86/1384]; amended [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 956(a), Dec. 5, 1980, [94 Stat. 2648][/us/stat/94/2648]; [Pub. L. 97–248, title I][/us/pl/97/248/tI], §§ 145, 148(e), Sept. 3, 1982, [96 Stat. 393][/us/stat/96/393], 394; [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], §§ 9305(g)(1), 9341(a)(3), Oct. 21, 1986, [100 Stat. 1991][/us/stat/100/1991], 2038; [Pub. L. 100–203, title IV][/us/pl/100/203/tIV], § 4096(b), Dec. 22, 1987, [101 Stat. 1330–139][/us/stat/101/1330-139]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6214(a), (b), Dec. 19, 1989, [103 Stat. 2252][/us/stat/103/2252]; [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 133(b), Oct. 31, 1994, [108 Stat. 4421][/us/stat/108/4421]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4447, Aug. 5, 1997, [111 Stat. 424][/us/stat/111/424]; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 261(a)(3)(A), (B), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423]; [Pub. L. 113–185][/us/pl/113/185], § 3(b), Oct. 6, 2014, [128 Stat. 1969][/us/stat/128/1969].)
 
  __Amendments__ 
 
     2014—Subsec. (i). [Pub. L. 113–185][/us/pl/113/185] added subsec. (i).
 
-    2011—Subsec. (a). [Pub. L. 112–40, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], substituted “quality improvement” for “utilization and quality control peer review” in concluding provisions.
+    2011—Subsec. (a). [Pub. L. 112–40][/us/pl/112/40], § 261(a)(3)(A), substituted “quality improvement” for “utilization and quality control peer review” in concluding provisions.
 
-    Subsec. (e). [Pub. L. 112–40, § 261(a)(3)(B)][/us/pl/112/40/s261/a/3/B], substituted “quality improvement” for “quality control and peer review”.
+    Subsec. (e). [Pub. L. 112–40][/us/pl/112/40], § 261(a)(3)(B), substituted “quality improvement” for “quality control and peer review”.
 
     1997—Subsec. (g). [Pub. L. 105–33][/us/pl/105/33] substituted “subsection is—” for “subsection is,”, redesignated remaining text as par. (1) and former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, substituted “; and” for period at end, and added par. (2).
 
     1994—Subsec. (h). [Pub. L. 103–432][/us/pl/103/432] added subsec. (h).
 
-    1989—Subsec. (f)(1). [Pub. L. 101–239, § 6214(a)(1)][/us/pl/101/239/s6214/a/1], struck out “with respect to any coverage denial described in subsection (g) of this section” before period at end.
+    1989—Subsec. (f)(1). [Pub. L. 101–239][/us/pl/101/239], § 6214(a)(1), struck out “with respect to any coverage denial described in subsection (g) of this section” before period at end.
 
-    Subsec. (f)(4). [Pub. L. 101–239, § 6214(a)(2)][/us/pl/101/239/s6214/a/2], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (f)(4). [Pub. L. 101–239][/us/pl/101/239], § 6214(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (f)(6). [Pub. L. 101–239, § 6214(b)][/us/pl/101/239/s6214/b], added par. (6).
+    Subsec. (f)(6). [Pub. L. 101–239][/us/pl/101/239], § 6214(b), added par. (6).
 
     1987—Subsec. (b). [Pub. L. 100–203][/us/pl/100/203] struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)” and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
 
-    1986—Subsec. (a). [Pub. L. 99–509, § 9305(g)(1)(A)][/us/pl/99/509/s9305/g/1/A]–(C), inserted in par. (1) “or by reason of a coverage denial described in subsection (g) of this section”, and in concluding provisions inserted “and as though the coverage denial described in subsection (g) of this section had not occurred” and “or by reason of a coverage denial described in subsection (g) of this section”.
+    1986—Subsec. (a). [Pub. L. 99–509][/us/pl/99/509], § 9305(g)(1)(A)–(C), inserted in par. (1) “or by reason of a coverage denial described in subsection (g) of this section”, and in concluding provisions inserted “and as though the coverage denial described in subsection (g) of this section had not occurred” and “or by reason of a coverage denial described in subsection (g) of this section”.
 
-    Subsec. (c). [Pub. L. 99–509, § 9305(g)(1)(D)][/us/pl/99/509/s9305/g/1/D], inserted “or by reason of a coverage denial described in subsection (g) of this section”.
+    Subsec. (c). [Pub. L. 99–509][/us/pl/99/509], § 9305(g)(1)(D), inserted “or by reason of a coverage denial described in subsection (g) of this section”.
 
-    Subsec. (d). [Pub. L. 99–509, § 9341(a)(3)][/us/pl/99/509/s9341/a/3], substituted “sections 1395ff(b) and 1395u(b)(3)(C) of this title (as may be applicable)” for “[section 1395ff(b) of this title][/us/usc/t42/s1395ff/b] (when the determination is under part A) or [section 1395u(b)(3)(C) of this title][/us/usc/t42/s1395u/b/3/C] (when the determination is under part B)”.
+    Subsec. (d). [Pub. L. 99–509][/us/pl/99/509], § 9341(a)(3), substituted “sections 1395ff(b) and 1395u(b)(3)(C) of this title (as may be applicable)” for “[section 1395ff(b) of this title][/us/usc/t42/s1395ff/b] (when the determination is under part A) or [section 1395u(b)(3)(C) of this title][/us/usc/t42/s1395u/b/3/C] (when the determination is under part B)”.
 
-    Subsecs. (f), (g). [Pub. L. 99–509, § 9305(g)(1)(E)][/us/pl/99/509/s9305/g/1/E], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 99–509][/us/pl/99/509], § 9305(g)(1)(E), added subsecs. (f) and (g).
 
-    1982—Subsec. (a). [Pub. L. 97–248, § 145][/us/pl/97/248/s145], inserted provisions relating to imputing knowledge to provider or other person furnishing items or services for which payment may not be made that payment may not be made if the provider or other person has been notified that a pattern of inappropriate utilization has occurred in the past and there has been a reasonable time for correction of such utilization.
+    1982—Subsec. (a). [Pub. L. 97–248][/us/pl/97/248], § 145, inserted provisions relating to imputing knowledge to provider or other person furnishing items or services for which payment may not be made that payment may not be made if the provider or other person has been notified that a pattern of inappropriate utilization has occurred in the past and there has been a reasonable time for correction of such utilization.
 
-    Subsec. (e). [Pub. L. 97–248, § 148(e)][/us/pl/97/248/s148/e], substituted “quality control and peer review organization” for “professional standards review organization”.
+    Subsec. (e). [Pub. L. 97–248][/us/pl/97/248], § 148(e), substituted “quality control and peer review organization” for “professional standards review organization”.
 
     1980—Subsec. (e). [Pub. L. 96–499][/us/pl/96/499] added subsec. (e).
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VI, § 6214(c)][/us/pl/101/239/s6214/c], Dec. 19, 1989, [103 Stat. 2252][/us/stat/103/2252], provided that: 
+[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6214(c), Dec. 19, 1989, [103 Stat. 2252][/us/stat/103/2252], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–509, title IX, § 9305(g)(3)][/us/pl/99/509/s9305/g/3], Oct. 21, 1986, [100 Stat. 1993][/us/stat/100/1993], as amended by [Pub. L. 100–360, title IV, § 426(c)][/us/pl/100/360/s426/c], July 1, 1988, [102 Stat. 814][/us/stat/102/814]; [Pub. L. 101–508, title IV, § 4207(b)(3)][/us/pl/101/508/s4207/b/3], formerly § 4027(b)(3), Nov. 5, 1990, [104 Stat. 1388–118][/us/stat/104/1388-118], renumbered [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
+[Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9305(g)(3), Oct. 21, 1986, [100 Stat. 1993][/us/stat/100/1993], as amended by [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 426(c), July 1, 1988, [102 Stat. 814][/us/stat/102/814]; [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4207(b)(3), formerly § 4027(b)(3), Nov. 5, 1990, [104 Stat. 1388–118][/us/stat/104/1388-118], renumbered [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 160(d)(4), Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply to coverage denials occurring on or after July 1, 1987, and before December 31, 1995.”
 
@@ -173,19 +173,19 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–499, title IX, § 956(b)][/us/pl/96/499/s956/b], Dec. 5, 1980, [94 Stat. 2648][/us/stat/94/2648], provided that: 
+[Pub. L. 96–499, title IX][/us/pl/96/499/tIX], § 956(b), Dec. 5, 1980, [94 Stat. 2648][/us/stat/94/2648], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1981.”
 
  __Effective Date__ 
 
-[Pub. L. 92–603, title II, § 213(b)][/us/pl/92/603/s213/b], Oct. 30, 1972, [86 Stat. 1386][/us/stat/86/1386], provided that: 
+[Pub. L. 92–603, title II][/us/pl/92/603/tII], § 213(b), Oct. 30, 1972, [86 Stat. 1386][/us/stat/86/1386], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\], filed with respect to items or services furnished after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
  __Provisions Relating to Advance Beneficiary Notices; Report on Prior Determination Process__ 
 
-[Pub. L. 108–173, title IX, § 938(c)][/us/pl/108/173/s938/c], Dec. 8, 2003, [117 Stat. 2415][/us/stat/117/2415], provided that:
+[Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 938(c), Dec. 8, 2003, [117 Stat. 2415][/us/stat/117/2415], provided that:
 
 >     “(1)  __Data collection__  __.—__ 
 
@@ -227,7 +227,7 @@
 
  __Reports to Congress on Denials of Bills for Payment__ 
 
-    [Pub. L. 99–509, title IX, § 9305(g)(2)][/us/pl/99/509/s9305/g/2], Oct. 21, 1986, [100 Stat. 1992][/us/stat/100/1992], directed Secretary of Health and Human Services to report to Congress annually in March of 1987 and 1988 information on frequency and distribution (by type of provider) of denials of bills for payment under this subchapter for extended care services, home health services, and hospice care, by reason of section 1395y(a)(1) or (9) of this title, and coverage denials described in subsec. (g) of this section, and such other information as appropriate to evaluate the appropriateness of any percentage standards established for the granting of favorable presumptions with respect to such denials.
+    [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9305(g)(2), Oct. 21, 1986, [100 Stat. 1992][/us/stat/100/1992], directed Secretary of Health and Human Services to report to Congress annually in March of 1987 and 1988 information on frequency and distribution (by type of provider) of denials of bills for payment under this subchapter for extended care services, home health services, and hospice care, by reason of section 1395y(a)(1) or (9) of this title, and coverage denials described in subsec. (g) of this section, and such other information as appropriate to evaluate the appropriateness of any percentage standards established for the granting of favorable presumptions with respect to such denials.
 
 ----------
 
@@ -249,43 +249,43 @@
 [/us/usc/t42/s1395f/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fa%2F7%2FE
 [/us/usc/t42/s1395y/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs213%2Fa
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1384
-[/us/pl/96/499/s956/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs956%2Fa
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2648
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F393
-[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1991
-[/us/pl/100/203/s4096/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4096%2Fb
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-139
-[/us/pl/101/239/s6214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6214%2Fa
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2252
-[/us/pl/103/432/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs133%2Fb
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4421
-[/us/pl/105/33/s4447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4447
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F424
-[/us/pl/112/40/s261/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FA
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F423
-[/us/pl/113/185/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs3%2Fb
+[/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
 [/us/stat/128/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1969
 [/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
-[/us/pl/112/40/s261/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FA
-[/us/pl/112/40/s261/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FB
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
-[/us/pl/101/239/s6214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6214%2Fa%2F1
-[/us/pl/101/239/s6214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6214%2Fa%2F2
-[/us/pl/101/239/s6214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6214%2Fb
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/509/s9305/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fg%2F1%2FA
-[/us/pl/99/509/s9305/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fg%2F1%2FD
-[/us/pl/99/509/s9341/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9341%2Fa%2F3
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/usc/t42/s1395ff/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fb
 [/us/usc/t42/s1395u/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F3%2FC
-[/us/pl/99/509/s9305/g/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fg%2F1%2FE
-[/us/pl/97/248/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs145
-[/us/pl/97/248/s148/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs148%2Fe
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40/s261/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fe
@@ -296,18 +296,18 @@
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/103/432/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs133%2Fc
 [/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
-[/us/pl/101/239/s6214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6214%2Fc
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2252
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203/s4096/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4096%2Fd
 [/us/usc/t42/s1320c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933
-[/us/pl/99/509/s9305/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fg%2F3
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1993
-[/us/pl/100/360/s426/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs426%2Fc
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F814
-[/us/pl/101/508/s4207/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fb%2F3
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-118
-[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
 [/us/pl/99/509/s9341/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9341%2Fa%2F3
 [/us/pl/99/509/s9341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9341%2Fb
@@ -315,12 +315,12 @@
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs149
 [/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
-[/us/pl/96/499/s956/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs956%2Fb
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2648
-[/us/pl/92/603/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs213%2Fb
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1386
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
-[/us/pl/108/173/s938/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs938%2Fc
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2415
 [/us/usc/t42/s1395ff/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff%2Fh
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
@@ -328,7 +328,7 @@
 [/us/usc/t42/s1395pp/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp%2Fa
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/99/509/s9305/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9305%2Fg%2F2
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1992
 
 

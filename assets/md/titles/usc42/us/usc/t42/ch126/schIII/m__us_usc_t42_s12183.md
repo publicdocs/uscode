@@ -27,7 +27,7 @@
 
         Subsection (a) of this section shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.
 
-([Pub. L. 101–336, title III, § 303][/us/pl/101/336/s303], July 26, 1990, [104 Stat. 358][/us/stat/104/358].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 303, July 26, 1990, [104 Stat. 358][/us/stat/104/358].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s12182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12182%2Fa
-[/us/pl/101/336/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs303
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F358
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/usc/t42/s12181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181

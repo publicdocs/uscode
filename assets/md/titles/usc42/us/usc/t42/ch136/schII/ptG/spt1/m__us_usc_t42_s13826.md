@@ -23,7 +23,7 @@
 
         Not less than 5 percent of the amounts made available under section 13822(a)(2)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “13852(b)(1)”. </sup></sup>  of this title may be reserved to carry out the activities described in subsection (a) of this section.
 
-([Pub. L. 103–322, title III, § 31116][/us/pl/103/322/s31116], Sept. 13, 1994, [108 Stat. 1885][/us/stat/108/1885].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31116, Sept. 13, 1994, [108 Stat. 1885][/us/stat/108/1885].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31116
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1885
 
 

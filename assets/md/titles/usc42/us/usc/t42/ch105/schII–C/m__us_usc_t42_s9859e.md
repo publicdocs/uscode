@@ -41,7 +41,7 @@
 
         Funds appropriated pursuant to the authority of this subchapter shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services for eligible individuals.
 
-([Pub. L. 106–310, div. A, title XIV, § 1406][/us/pl/106/310/s1406], Oct. 17, 2000, [114 Stat. 1145][/us/stat/114/1145].)
+([Pub. L. 106–310, div. A, title XIV][/us/pl/106/310/dA/tXIV], § 1406, Oct. 17, 2000, [114 Stat. 1145][/us/stat/114/1145].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t42/s9859c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9859c
-[/us/pl/106/310/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1406
+[/us/pl/106/310/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIV
 [/us/stat/114/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1145
 
 

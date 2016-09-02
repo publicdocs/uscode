@@ -35,7 +35,7 @@
 
         The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of assistance under this subchapter that are pertinent to such assistance.
 
-([Pub. L. 106–402, title I, § 103][/us/pl/106/402/s103], Oct. 30, 2000, [114 Stat. 1688][/us/stat/114/1688].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 103, Oct. 30, 2000, [114 Stat. 1688][/us/stat/114/1688].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs103
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1688
 
 

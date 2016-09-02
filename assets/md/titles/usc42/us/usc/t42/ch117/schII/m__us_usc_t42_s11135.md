@@ -33,7 +33,7 @@
 
         Each hospital may rely upon information provided to the hospital under this chapter and shall not be held liable for such reliance in the absence of the hospital’s knowledge that the information provided was false.
 
-([Pub. L. 99–660, title IV, § 425][/us/pl/99/660/s425], Nov. 14, 1986, [100 Stat. 3790][/us/stat/100/3790].)
+([Pub. L. 99–660, title IV][/us/pl/99/660/tIV], § 425, Nov. 14, 1986, [100 Stat. 3790][/us/stat/100/3790].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t42/s11134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134%2Fb
 [/us/usc/t42/s11134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11134%2Fa
-[/us/pl/99/660/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs425
+[/us/pl/99/660/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIV
 [/us/stat/100/3790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3790
 
 

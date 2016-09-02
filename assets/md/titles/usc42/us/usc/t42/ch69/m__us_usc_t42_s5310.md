@@ -31,7 +31,7 @@
 
         (3) is not otherwise employed at any time in the construction work.
 
-([Pub. L. 93–383, title I, § 110][/us/pl/93/383/s110], Aug. 22, 1974, [88 Stat. 649][/us/stat/88/649]; [Pub. L. 97–35, title III, § 309(j)][/us/pl/97/35/s309/j], Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 100–242, title V, § 523][/us/pl/100/242/s523], Feb. 5, 1988, [101 Stat. 1939][/us/stat/101/1939]; [Pub. L. 101–625, title IX, § 955(a)][/us/pl/101/625/s955/a], Nov. 28, 1990, [104 Stat. 4420][/us/stat/104/4420].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 110, Aug. 22, 1974, [88 Stat. 649][/us/stat/88/649]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 309(j), Aug. 13, 1981, [95 Stat. 397][/us/stat/95/397]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 523, Feb. 5, 1988, [101 Stat. 1939][/us/stat/101/1939]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 955(a), Nov. 28, 1990, [104 Stat. 4420][/us/stat/104/4420].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2], as amended ([48 Stat. 948][/us/stat/48/948]; [40 U.S.C. 276(c)][/us/usc/t40/s276/c])”, meaning 276c, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2], as amended ([48 Stat. 948][/us/stat/48/948]; [40 U.S.C. 276(c)][/us/usc/t40/s276/c])”, meaning 276c, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -68,13 +68,13 @@
 
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/93/383/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs110
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F649
-[/us/pl/97/35/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs309%2Fj
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F397
-[/us/pl/100/242/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs523
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1939
-[/us/pl/101/625/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs955%2Fa
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4420
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
@@ -83,7 +83,7 @@
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/stat/48/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F948
 [/us/usc/t40/s276/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276%2Fc
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242

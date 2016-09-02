@@ -293,43 +293,43 @@
 
         (B) may include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas.
 
-([Pub. L. 94–163, title III, § 340][/us/pl/94/163/s340], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3267][/us/stat/92/3267]; amended [Pub. L. 102–486, title I, § 122(a)][/us/pl/102/486/s122/a], (f)(1), Oct. 24, 1992, [106 Stat. 2806][/us/stat/106/2806], 2817; [Pub. L. 109–58, title I, § 136(a)][/us/pl/109/58/s136/a], Aug. 8, 2005, [119 Stat. 634][/us/stat/119/634]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 312(a), 313(a), 314(a), Dec. 19, 2007, [121 Stat. 1564][/us/stat/121/1564], 1568, 1569; [Pub. L. 112–210, § 10(c)(1)][/us/pl/112/210/s10/c/1], Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 340, as added [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3267][/us/stat/92/3267]; amended [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 122(a), (f)(1), Oct. 24, 1992, [106 Stat. 2806][/us/stat/106/2806], 2817; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 136(a), Aug. 8, 2005, [119 Stat. 634][/us/stat/119/634]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 312(a), 313(a), 314(a), Dec. 19, 2007, [121 Stat. 1564][/us/stat/121/1564], 1568, 1569; [Pub. L. 112–210][/us/pl/112/210], § 10(c)(1), Dec. 18, 2012, [126 Stat. 1525][/us/stat/126/1525].)
 
  __Amendments__ 
 
     2012—Par. (2)(B)(xiii). [Pub. L. 112–210][/us/pl/112/210] added cl. (xiii).
 
-    2007—Par. (1)(G) to (L). [Pub. L. 110–140, § 312(a)(1)][/us/pl/110/140/s312/a/1], added subpar. (G) and redesignated former subpars. (G) to (K) as (H) to (L), respectively.
+    2007—Par. (1)(G) to (L). [Pub. L. 110–140][/us/pl/110/140], § 312(a)(1), added subpar. (G) and redesignated former subpars. (G) to (K) as (H) to (L), respectively.
 
-    Par. (13). [Pub. L. 110–140, § 313(a)][/us/pl/110/140/s313/a], inserted par. heading, added subpars. (A) and (B), redesignated former subpars. (B) to (H) as (C) to (I), respectively, and struck out former subpar. (A) which read as follows: “The term ‘electric motor’ means any motor which is a general purpose T-frame, single-speed, foot-mounting, polyphase squirrel-cage induction motor of the National Electrical Manufacturers Association, Design A and B, continuous rated, operating on 230/460 volts and constant 60 Hertz line power as defined in NEMA Standards Publication MG1–1987.”
+    Par. (13). [Pub. L. 110–140][/us/pl/110/140], § 313(a), inserted par. heading, added subpars. (A) and (B), redesignated former subpars. (B) to (H) as (C) to (I), respectively, and struck out former subpar. (A) which read as follows: “The term ‘electric motor’ means any motor which is a general purpose T-frame, single-speed, foot-mounting, polyphase squirrel-cage induction motor of the National Electrical Manufacturers Association, Design A and B, continuous rated, operating on 230/460 volts and constant 60 Hertz line power as defined in NEMA Standards Publication MG1–1987.”
 
-    Pars. (20), (21). [Pub. L. 110–140, § 312(a)(2)][/us/pl/110/140/s312/a/2], (3), added par. (20) and redesignated former par. (20) as (21). Former par. (21) redesignated (22) relating to harvest rate.
+    Pars. (20), (21). [Pub. L. 110–140][/us/pl/110/140], § 312(a)(2), (3), added par. (20) and redesignated former par. (20) as (21). Former par. (21) redesignated (22) relating to harvest rate.
 
-    Par. (22). [Pub. L. 110–140, § 314(a)][/us/pl/110/140/s314/a], added par. (22) relating to single package vertical air conditioner.
+    Par. (22). [Pub. L. 110–140][/us/pl/110/140], § 314(a), added par. (22) relating to single package vertical air conditioner.
 
-    [Pub. L. 110–140, § 312(a)(2)][/us/pl/110/140/s312/a/2], redesignated par. (21) as (22) relating to harvest rate.
+    [Pub. L. 110–140][/us/pl/110/140], § 312(a)(2), redesignated par. (21) as (22) relating to harvest rate.
 
-    Par. (23). [Pub. L. 110–140, § 314(a)][/us/pl/110/140/s314/a], added par. (23).
+    Par. (23). [Pub. L. 110–140][/us/pl/110/140], § 314(a), added par. (23).
 
-    2005—Par. (1)(D) to (K). [Pub. L. 109–58, § 136(a)(1)][/us/pl/109/58/s136/a/1], added subpars. (D) to (G) and redesignated former subpars. (D) to (G) as (H) to (K), respectively.
+    2005—Par. (1)(D) to (K). [Pub. L. 109–58][/us/pl/109/58], § 136(a)(1), added subpars. (D) to (G) and redesignated former subpars. (D) to (G) as (H) to (K), respectively.
 
-    Par. (2)(B). [Pub. L. 109–58, § 136(a)(2)][/us/pl/109/58/s136/a/2], substituted “commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers” for “small and large commercial package air conditioning and heating equipment” in introductory provisions.
+    Par. (2)(B). [Pub. L. 109–58][/us/pl/109/58], § 136(a)(2), substituted “commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers” for “small and large commercial package air conditioning and heating equipment” in introductory provisions.
 
-    Pars. (8), (9). [Pub. L. 109–58, § 136(a)(3)][/us/pl/109/58/s136/a/3], added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
+    Pars. (8), (9). [Pub. L. 109–58][/us/pl/109/58], § 136(a)(3), added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
 
     “(8) The term ‘small commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
 
     “(9) The term ‘large commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).”
 
-    Pars. (19) to (21). [Pub. L. 109–58, § 136(a)(4)][/us/pl/109/58/s136/a/4], added pars. (19) to (21).
+    Pars. (19) to (21). [Pub. L. 109–58][/us/pl/109/58], § 136(a)(4), added pars. (19) to (21).
 
-    1992—Par. (1)(B) to (G). [Pub. L. 102–486, § 122(a)(1)][/us/pl/102/486/s122/a/1], added subpars. (B) to (F) and redesignated former subpar. (B) as (G).
+    1992—Par. (1)(B) to (G). [Pub. L. 102–486][/us/pl/102/486], § 122(a)(1), added subpars. (B) to (F) and redesignated former subpar. (B) as (G).
 
-    Par. (2)(B). [Pub. L. 102–486, § 122(a)(2)][/us/pl/102/486/s122/a/2], in introductory provisions, substituted “pumps, small and large commercial package air conditioning and heating equipment, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks)” for “pumps)”, redesignated cls. (vi) to (x) and (xii) to (xiv) as cls. (v) to (ix) and (x) to (xii), respectively, and struck out former cls. (v) and (xi) which read “air conditioning equipment;” and “furnaces;”, respectively.
+    Par. (2)(B). [Pub. L. 102–486][/us/pl/102/486], § 122(a)(2), in introductory provisions, substituted “pumps, small and large commercial package air conditioning and heating equipment, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks)” for “pumps)”, redesignated cls. (vi) to (x) and (xii) to (xiv) as cls. (v) to (ix) and (x) to (xii), respectively, and struck out former cls. (v) and (xi) which read “air conditioning equipment;” and “furnaces;”, respectively.
 
-    Par. (3). [Pub. L. 102–486, § 122(f)(1)][/us/pl/102/486/s122/f/1], substituted “(3) The” for “(3) the”.
+    Par. (3). [Pub. L. 102–486][/us/pl/102/486], § 122(f)(1), substituted “(3) The” for “(3) the”.
 
-    Pars. (8) to (18). [Pub. L. 102–486, § 122(a)(3)][/us/pl/102/486/s122/a/3], added pars. (8) to (18).
+    Pars. (8) to (18). [Pub. L. 102–486][/us/pl/102/486], § 122(a)(3), added pars. (8) to (18).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -349,32 +349,32 @@
 [/us/usc/t42/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6314
 [/us/usc/t42/s6291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6291
 [/us/usc/t42/s6291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6291
-[/us/pl/94/163/s340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs340
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3267
-[/us/pl/102/486/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2806
-[/us/pl/109/58/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fa
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F634
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1564
-[/us/pl/112/210/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fc%2F1
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1525
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
-[/us/pl/110/140/s312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fa%2F1
-[/us/pl/110/140/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs313%2Fa
-[/us/pl/110/140/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fa%2F2
-[/us/pl/110/140/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fa
-[/us/pl/110/140/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fa%2F2
-[/us/pl/110/140/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fa
-[/us/pl/109/58/s136/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fa%2F1
-[/us/pl/109/58/s136/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fa%2F2
-[/us/pl/109/58/s136/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fa%2F3
-[/us/pl/109/58/s136/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fa%2F4
-[/us/pl/102/486/s122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fa%2F1
-[/us/pl/102/486/s122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fa%2F2
-[/us/pl/102/486/s122/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Ff%2F1
-[/us/pl/102/486/s122/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fa%2F3
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

@@ -91,7 +91,7 @@
 
             Of the funds authorized under subsection (c)(2), not less than 20 percent of the funds appropriated for each fiscal year shall be dedicated to research and development carried out at institutions of higher education.
 
-([Pub. L. 109–58, title IX, § 961][/us/pl/109/58/s961], Aug. 8, 2005, [119 Stat. 889][/us/stat/119/889].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 961, Aug. 8, 2005, [119 Stat. 889][/us/stat/119/889].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 [/us/usc/t42/s16296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16296
 [/us/usc/t42/s7144d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7144d
 [/us/usc/t42/s7144d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7144d
-[/us/pl/109/58/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs961
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F889
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F889

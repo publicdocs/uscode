@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated to the Commission to carry out this section not more than $10,000,000 for each of the fiscal years 2008, 2009, and 2010.
 
-([Pub. L. 95–619, title V, § 571][/us/pl/95/619/s571], as added [Pub. L. 110–140, title V, § 529(a)][/us/pl/110/140/s529/a], Dec. 19, 2007, [121 Stat. 1664][/us/stat/121/1664].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 571, as added [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 529(a), Dec. 19, 2007, [121 Stat. 1664][/us/stat/121/1664].)
 
  __Effective Date__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/95/619/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs571
-[/us/pl/110/140/s529/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs529%2Fa
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1664
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

@@ -17,7 +17,7 @@
 
     The National Crime Prevention and Privacy Compact, as set forth in [section 14616 of this title][/us/usc/t42/s14616], is enacted into law and entered into by the Federal Government. The consent of Congress is given to States to enter into the Compact.
 
-([Pub. L. 105–251, title II, § 214][/us/pl/105/251/s214], Oct. 9, 1998, [112 Stat. 1875][/us/stat/112/1875].)
+([Pub. L. 105–251, title II][/us/pl/105/251/tII], § 214, Oct. 9, 1998, [112 Stat. 1875][/us/stat/112/1875].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s14616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14616
-[/us/pl/105/251/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs214
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1875
 
 

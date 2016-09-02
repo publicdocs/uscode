@@ -53,11 +53,11 @@
 
         (4) Any final determination under [section 2297f(c) of this title][/us/usc/t42/s2297f/c] relating to whether the gaseous diffusion plants, including any such facilities leased to a corporation established under the USEC Privatization Act \[[42 U.S.C. 2297h][/us/usc/t42/s2297h] et seq.\], are in compliance with the Commission’s standards governing the gaseous diffusion plants and all applicable laws.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 189, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 955][/us/stat/68/955]; amended [Pub. L. 85–256, § 7][/us/pl/85/256/s7], Sept. 2, 1957, [71 Stat. 579][/us/stat/71/579]; [Pub. L. 87–615, § 2][/us/pl/87/615/s2], Aug. 29, 1962, [76 Stat. 409][/us/stat/76/409]; [Pub. L. 97–415, § 12(a)][/us/pl/97/415/s12/a], Jan. 4, 1983, [96 Stat. 2073][/us/stat/96/2073]; renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], title XXVIII, §§ 2802, 2804, 2805, Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944], 3120, 3121; [Pub. L. 104–134, title III, § 3116(c)][/us/pl/104/134/s3116/c], Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 189, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 955][/us/stat/68/955]; amended [Pub. L. 85–256][/us/pl/85/256], § 7, Sept. 2, 1957, [71 Stat. 579][/us/stat/71/579]; [Pub. L. 87–615][/us/pl/87/615], § 2, Aug. 29, 1962, [76 Stat. 409][/us/stat/76/409]; [Pub. L. 97–415][/us/pl/97/415], § 12(a), Jan. 4, 1983, [96 Stat. 2073][/us/stat/96/2073]; renumbered title I and amended [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), title XXVIII, §§ 2802, 2804, 2805, Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944], 3120, 3121; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(c), Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a)(1)(A), (2)(A), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsec. (a)(1)(A), (2)(A), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     The effective date of this paragraph, referred to in subsec. (a)(2)(C), probably means the date of enactment of [Pub. L. 97–415][/us/pl/97/415], which was approved Jan. 4, 1983.
 
@@ -67,11 +67,11 @@
 
     1996—Subsec. (b). [Pub. L. 104–134][/us/pl/104/134] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any final order entered in any proceeding of the kind specified in subsection (a) of this section or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license shall be subject to judicial review in the manner prescribed in the Act of December 29, 1950, as amended (ch. 1189, [64 Stat. 1129][/us/stat/64/1129]), and to the provisions of section 10 of the Administrative Procedure Act, as amended.”
 
-    1992—Subsec. (a)(1). [Pub. L. 102–486, § 2802][/us/pl/102/486/s2802], designated existing provisions as subpar. (A) and added subpar. (B).
+    1992—Subsec. (a)(1). [Pub. L. 102–486][/us/pl/102/486], § 2802, designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (a)(2)(A), (C). [Pub. L. 102–486, § 2804][/us/pl/102/486/s2804], inserted “or any amendment to a combined construction and operating license” after “any amendment to an operating license”.
+    Subsec. (a)(2)(A), (C). [Pub. L. 102–486][/us/pl/102/486], § 2804, inserted “or any amendment to a combined construction and operating license” after “any amendment to an operating license”.
 
-    Subsec. (b). [Pub. L. 102–486, § 2805][/us/pl/102/486/s2805], inserted “or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license” before “shall be subject to judicial review”.
+    Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 2805, inserted “or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license” before “shall be subject to judicial review”.
 
     1983—Subsec. (a). [Pub. L. 97–415][/us/pl/97/415] designated existing provisions as par. (1) and added par. (2).
 
@@ -85,7 +85,7 @@
 
  __Authority To Effectuate Amendments to Operating Licenses__ 
 
-[Pub. L. 97–415, § 12(b)][/us/pl/97/415/s12/b], Jan. 4, 1983, [96 Stat. 2073][/us/stat/96/2073], provided that: 
+[Pub. L. 97–415][/us/pl/97/415], § 12(b), Jan. 4, 1983, [96 Stat. 2073][/us/stat/96/2073], provided that: 
 
 > “The authority of the Nuclear Regulatory Commission, under the provisions of the amendment made by subsection (a) \[amending this section\], to issue and to make immediately effective any amendment to an operating license shall take effect upon the promulgation by the Commission of the regulations required in such provisions.”
 
@@ -110,20 +110,20 @@
 [/us/usc/t42/s2297f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297f%2Fc
 [/us/usc/t42/s2297h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F955
-[/us/pl/85/256/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256%2Fs7
+[/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/stat/71/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F579
-[/us/pl/87/615/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs2
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F409
-[/us/pl/97/415/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs12%2Fa
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2073
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/104/134/s3116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fc
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
@@ -132,16 +132,16 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/stat/64/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1129
-[/us/pl/102/486/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2802
-[/us/pl/102/486/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2804
-[/us/pl/102/486/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2805
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/pl/102/486/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2802
 [/us/pl/102/486/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2806
 [/us/usc/t42/s2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2235
-[/us/pl/97/415/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415%2Fs12%2Fb
+[/us/pl/97/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F415
 [/us/stat/96/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2073
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

@@ -83,7 +83,7 @@
 
         For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailed or assigned to a Federal entity, the deployment of such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 203A, as added [Pub. L. 109–417, title II, § 206(b)][/us/pl/109/417/s206/b], Dec. 19, 2006, [120 Stat. 2851][/us/stat/120/2851].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 203A, as added [Pub. L. 109–417, title II][/us/pl/109/417/tII], § 206(b), Dec. 19, 2006, [120 Stat. 2851][/us/stat/120/2851].)
 
  __References in Text__ 
 
@@ -93,7 +93,7 @@
 
  __Purpose__ 
 
-[Pub. L. 109–417, title II, § 206(a)][/us/pl/109/417/s206/a], Dec. 19, 2006, [120 Stat. 2851][/us/stat/120/2851], provided that: 
+[Pub. L. 109–417, title II][/us/pl/109/417/tII], § 206(a), Dec. 19, 2006, [120 Stat. 2851][/us/stat/120/2851], provided that: 
 
 > “It is the purpose of this section \[enacting this section and amending sections 215 and 254d of this title\] to improve the force management and readiness of the Commissioned Corps to accomplish the following objectives:
 
@@ -115,7 +115,7 @@
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs206%2Fb
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2851
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
@@ -123,7 +123,7 @@
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/109/417/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs206%2Fa
+[/us/pl/109/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtII
 [/us/stat/120/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2851
 
 

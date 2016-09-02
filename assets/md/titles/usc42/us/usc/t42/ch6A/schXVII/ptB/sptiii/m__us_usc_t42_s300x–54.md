@@ -39,7 +39,7 @@
 
         (4) in the case of the program established in [section 300x–21 of this title][/us/usc/t42/s300x–21], are available as a result of reductions in allotments under such section pursuant to section 300x–26 or 300x–30 of this title.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1944, as added [Pub. L. 102–321, title II, § 203(a)][/us/pl/102/321/s203/a], July 10, 1992, [106 Stat. 404][/us/stat/106/404].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1944, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 203(a), July 10, 1992, [106 Stat. 404][/us/stat/106/404].)
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/usc/t42/s300x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs203%2Fa
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F404
 
 

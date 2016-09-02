@@ -57,11 +57,11 @@
 
         For fiscal year 1989, the report required in subsection (d) of this section shall, not less than quarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2302, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3063][/us/stat/102/3063].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2302, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3063][/us/stat/102/3063].)
 
  __References in Text__ 
 
-    [Section 300cc of this title][/us/usc/t42/s300cc], referred to in subsec. (d), was repealed by [Pub. L. 109–482, title I, § 104(b)(2)(C)][/us/pl/109/482/s104/b/2/C], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
+    [Section 300cc of this title][/us/usc/t42/s300cc], referred to in subsec. (d), was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(2)(C), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
 
  __Prior Provisions__ 
 
@@ -75,7 +75,7 @@
 
  __Development of Rapid HIV Test__ 
 
-[Pub. L. 106–345, title V, § 502][/us/pl/106/345/s502], Oct. 20, 2000, [114 Stat. 1353][/us/stat/114/1353], provided that:
+[Pub. L. 106–345, title V][/us/pl/106/345/tV], § 502, Oct. 20, 2000, [114 Stat. 1353][/us/stat/114/1353], provided that:
 
 >     “(a) __Expansion, Intensification, and Coordination of Research and Other Activities.—__ 
 
@@ -115,13 +115,13 @@
 
  __Limitation on Expenditures for AIDS and HIV Activities__ 
 
-[Pub. L. 104–146, § 11][/us/pl/104/146/s11], May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], provided that: 
+[Pub. L. 104–146][/us/pl/104/146], § 11, May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], provided that: 
 
 > “Notwithstanding any other provision of law, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer.”
 
  __Vaccines for Human Immunodeficiency Virus__ 
 
-[Pub. L. 103–43, title XIX, § 1901(b)][/us/pl/103/43/s1901/b], June 10, 1993, [107 Stat. 200][/us/stat/107/200], provided that:
+[Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1901(b), June 10, 1993, [107 Stat. 200][/us/stat/107/200], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -507,19 +507,19 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3063
 [/us/usc/t42/s300cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc
-[/us/pl/109/482/s104/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F2%2FC
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/usc/t42/s238a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238a
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/106/345/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs502
+[/us/pl/106/345/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtV
 [/us/stat/114/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1353
-[/us/pl/104/146/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs11
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1373
-[/us/pl/103/43/s1901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1901%2Fb
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F200
 
 

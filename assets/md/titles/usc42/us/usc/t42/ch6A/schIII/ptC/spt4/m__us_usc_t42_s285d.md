@@ -17,7 +17,7 @@
 
     The general purpose of the National Institute of Arthritis and Musculoskeletal and Skin Diseases (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research and training, the dissemination of health information, and other programs with respect to arthritis and musculoskeletal and skin diseases (including sports-related disorders), with particular attention to the effect of these diseases on children.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 435, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 848][/us/stat/99/848]; amended [Pub. L. 103–43, title VII, § 701(a)][/us/pl/103/43/s701/a], June 10, 1993, [107 Stat. 162][/us/stat/107/162].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 435, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 848][/us/stat/99/848]; amended [Pub. L. 103–43, title VII][/us/pl/103/43/tVII], § 701(a), June 10, 1993, [107 Stat. 162][/us/stat/107/162].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F848
-[/us/pl/103/43/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs701%2Fa
+[/us/pl/103/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVII
 [/us/stat/107/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F162
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

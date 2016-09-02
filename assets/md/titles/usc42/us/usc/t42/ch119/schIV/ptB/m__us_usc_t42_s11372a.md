@@ -23,7 +23,7 @@
 
         An entity that receives a grant under [section 11372 of this title][/us/usc/t42/s11372], and serves an area that includes 1 or more geographic areas (or portions of such areas) served by collaborative applicants that submit applications under part C, shall allocate the funds made available through the grant to carry out activities described in [section 11374 of this title][/us/usc/t42/s11374], in consultation with the collaborative applicants.
 
-([Pub. L. 100–77, title IV, § 413][/us/pl/100/77/s413], as added [Pub. L. 111–22, div. B, title II, § 1201(4)][/us/pl/111/22/s1201/4], May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 413, as added [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(4), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].)
 
  __Prior Provisions__ 
 
@@ -43,8 +43,8 @@
 [/us/usc/t42/s11374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374
 [/us/usc/t42/s11372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11372
 [/us/usc/t42/s11374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374
-[/us/pl/100/77/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs413
-[/us/pl/111/22/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F4
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
 [/us/pl/100/77/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs413
 [/us/usc/t42/s11373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11373

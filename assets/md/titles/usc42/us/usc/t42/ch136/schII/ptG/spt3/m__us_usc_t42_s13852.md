@@ -39,7 +39,7 @@
 
         Amounts appropriated under subsection (a) of this section shall remain available for expenditure without fiscal year limitation.
 
-([Pub. L. 103–322, title III, § 31132][/us/pl/103/322/s31132], Sept. 13, 1994, [108 Stat. 1888][/us/stat/108/1888].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31132, Sept. 13, 1994, [108 Stat. 1888][/us/stat/108/1888].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31132
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1888
 
 

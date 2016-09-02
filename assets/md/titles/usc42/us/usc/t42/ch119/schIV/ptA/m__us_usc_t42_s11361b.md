@@ -23,7 +23,7 @@
 
         The Secretary shall reserve not more than 1 percent of the funds made available for any fiscal year for carrying out parts B and C, to provide technical assistance under subsection (a).
 
-([Pub. L. 100–77, title IV, § 405][/us/pl/100/77/s405], as added [Pub. L. 111–22, div. B, title I, § 1103][/us/pl/111/22/s1103], May 20, 2009, [123 Stat. 1677][/us/stat/123/1677].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 405, as added [Pub. L. 111–22, div. B, title I][/us/pl/111/22/dB/tI], § 1103, May 20, 2009, [123 Stat. 1677][/us/stat/123/1677].)
 
  __Codification__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/100/77/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs405
-[/us/pl/111/22/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1103
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtI
 [/us/stat/123/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1677
 [/us/pl/111/22/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1103
 [/us/usc/t42/s11361a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11361a

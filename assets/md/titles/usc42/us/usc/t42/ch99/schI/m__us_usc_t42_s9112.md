@@ -71,7 +71,7 @@
 
             (E) any differences in costs of construction and operation of the proposed ocean thermal energy conversion facilities, to the extent that such differentials may significantly affect the ultimate cost of energy or products to the consumer.
 
-([Pub. L. 96–320, title I, § 102][/us/pl/96/320/s102], Aug. 3, 1980, [94 Stat. 979][/us/stat/94/979]; [Pub. L. 98–623, title VI, § 602(f)][/us/pl/98/623/s602/f], Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 102, Aug. 3, 1980, [94 Stat. 979][/us/stat/94/979]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(f), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
 
  __References in Text__ 
 
@@ -95,9 +95,9 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s9111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9111
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/96/320/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs102
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F979
-[/us/pl/98/623/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Ff
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3412
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

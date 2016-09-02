@@ -17,7 +17,7 @@
 
     The National Science Foundation is directed to issue instructions to grantees for pre-college curriculum projects covering the protection of pre-college students and procedures for involving such students in pre-college education research and development, pilot-testing, evaluation, and revision of experimental and innovative pre-college curriculum projects funded by the Foundation. These instructions shall require such grantees to obtain written approval of the school board or comparable authority responsible for the schools prior to the involvement of such students.
 
-([Pub. L. 95–99, § 8][/us/pl/95/99/s8], formerly § 9, Aug. 15, 1977, [91 Stat. 833][/us/stat/91/833]; renumbered § 8, [Pub. L. 99–159, title I, § 109(h)][/us/pl/99/159/s109/h], Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890].)
+([Pub. L. 95–99][/us/pl/95/99], § 8, formerly § 9, Aug. 15, 1977, [91 Stat. 833][/us/stat/91/833]; renumbered § 8, [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(h), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890].)
 
  __Codification__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/99/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99%2Fs8
+[/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/stat/91/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F833
-[/us/pl/99/159/s109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fh
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
 
 

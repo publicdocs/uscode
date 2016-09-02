@@ -17,7 +17,7 @@
 
     The Secretary of Commerce, the Director of the National Institute of Standards and Technology, the Director of the Office of Science and Technology Policy and the heads of other Federal departments and agencies carrying out activities under this chapter and the statutes amended by this chapter shall work together to ensure that research, technologies, and response techniques are shared among the programs authorized in this chapter in order to coordinate the Nation’s efforts to reduce vulnerability to the hazards described in this chapter.
 
-([Pub. L. 108–360, title II, § 209][/us/pl/108/360/s209], Oct. 25, 2004, [118 Stat. 1680][/us/stat/118/1680].)
+([Pub. L. 108–360, title II][/us/pl/108/360/tII], § 209, Oct. 25, 2004, [118 Stat. 1680][/us/stat/118/1680].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/360/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2Fs209
+[/us/pl/108/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360%2FtII
 [/us/stat/118/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1680
 [/us/pl/108/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F360
 [/us/stat/118/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1675

@@ -31,11 +31,11 @@
 
         Nothing in this section shall be construed to prohibit agencies from using established methods, for handling cases of suspected or known child abuse and neglect, that are in compliance with applicable Federal, State, or tribal law.
 
-([Pub. L. 97–35, title VI, § 657A][/us/pl/97/35/s657A], as added [Pub. L. 110–134, § 25][/us/pl/110/134/s25], Dec. 12, 2007, [121 Stat. 1443][/us/stat/121/1443].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 657A, as added [Pub. L. 110–134][/us/pl/110/134], § 25, Dec. 12, 2007, [121 Stat. 1443][/us/stat/121/1443].)
 
  __Prior Provisions__ 
 
-    A prior section 9852a, [Pub. L. 97–35, title VI, § 657A][/us/pl/97/35/s657A], as added [Pub. L. 103–252, title I, § 123][/us/pl/103/252/s123], May 18, 1994, [108 Stat. 650][/us/stat/108/650], related to consultation with Corporation for National and Community Service, prior to repeal by [Pub. L. 105–285, title I, § 118][/us/pl/105/285/s118], Oct. 27, 1998, [112 Stat. 2727][/us/stat/112/2727].
+    A prior section 9852a, [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 657A, as added [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 123, May 18, 1994, [108 Stat. 650][/us/stat/108/650], related to consultation with Corporation for National and Community Service, prior to repeal by [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 118, Oct. 27, 1998, [112 Stat. 2727][/us/stat/112/2727].
 
 ----------
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/97/35/s657A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs657A
-[/us/pl/110/134/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs25
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1443
-[/us/pl/97/35/s657A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs657A
-[/us/pl/103/252/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs123
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F650
-[/us/pl/105/285/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs118
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2727
 
 

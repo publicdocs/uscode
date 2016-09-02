@@ -65,7 +65,7 @@
 
     Each license issued pursuant to this section shall contain and be subject to the following conditions—
 
-        (1) Repealed. [Pub. L. 88–489, § 8][/us/pl/88/489/s8], Aug. 26, 1964, [78 Stat. 604][/us/stat/78/604].
+        (1) Repealed. [Pub. L. 88–489][/us/pl/88/489], § 8, Aug. 26, 1964, [78 Stat. 604][/us/stat/78/604].
 
         (2) no right to the special nuclear material shall be conferred by the license except as defined by the license;
 
@@ -85,11 +85,11 @@
 
         The Commission is directed to distribute within the United States sufficient special nuclear material to permit the conduct of widespread independent research and development activities to the maximum extent practicable. In the event that applications for special nuclear material exceed the amount available for distribution, preference shall be given to those activities which are most likely, in the opinion of the Commission, to contribute to basic research, to the development of peacetime uses of atomic energy, or to the economic and military strength of the Nation.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 53, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 930][/us/stat/68/930]; amended [Pub. L. 85–256, § 2][/us/pl/85/256/s2], Sept. 2, 1957, [71 Stat. 576][/us/stat/71/576]; [Pub. L. 85–681][/us/pl/85/681], §§ 1, 2, Aug. 19, 1958, [72 Stat. 632][/us/stat/72/632]; [Pub. L. 88–489][/us/pl/88/489], §§ 5–8, Aug. 26, 1964, [78 Stat. 603][/us/stat/78/603], 604; [Pub. L. 90–190][/us/pl/90/190], §§ 9, 10, Dec. 14, 1967, [81 Stat. 577][/us/stat/81/577]; renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(3)][/us/pl/102/486/s902/a/3], (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 53, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 930][/us/stat/68/930]; amended [Pub. L. 85–256][/us/pl/85/256], § 2, Sept. 2, 1957, [71 Stat. 576][/us/stat/71/576]; [Pub. L. 85–681][/us/pl/85/681], §§ 1, 2, Aug. 19, 1958, [72 Stat. 632][/us/stat/72/632]; [Pub. L. 88–489][/us/pl/88/489], §§ 5–8, Aug. 26, 1964, [78 Stat. 603][/us/stat/78/603], 604; [Pub. L. 90–190][/us/pl/90/190], §§ 9, 10, Dec. 14, 1967, [81 Stat. 577][/us/stat/81/577]; renumbered title I and amended [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(3), (8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original “this Act”, meaning [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
  __Prior Provisions__ 
 
@@ -97,23 +97,23 @@
 
  __Amendments__ 
 
-    1992—Subsec. (c)(1). [Pub. L. 102–486, § 902(a)(3)][/us/pl/102/486/s902/a/3], substituted “or grant” for “grant,” and struck out “or through the provision of production or enrichment services” before “: Provided, however” and before “to any person”.
+    1992—Subsec. (c)(1). [Pub. L. 102–486][/us/pl/102/486], § 902(a)(3), substituted “or grant” for “grant,” and struck out “or through the provision of production or enrichment services” before “: Provided, however” and before “to any person”.
 
-    1967—Subsec. (c)(1). [Pub. L. 90–190, § 10][/us/pl/90/190/s10], inserted “or through the provision of production or enrichment services” wherever appearing.
+    1967—Subsec. (c)(1). [Pub. L. 90–190][/us/pl/90/190], § 10, inserted “or through the provision of production or enrichment services” wherever appearing.
 
-    Subsec. (f). [Pub. L. 90–190, § 9][/us/pl/90/190/s9], struck out reference to the limitations on the distribution of special nuclear materials set by the President in determinations made pursuant to [section 2061 of this title][/us/usc/t42/s2061].
+    Subsec. (f). [Pub. L. 90–190][/us/pl/90/190], § 9, struck out reference to the limitations on the distribution of special nuclear materials set by the President in determinations made pursuant to [section 2061 of this title][/us/usc/t42/s2061].
 
-    1964—Subsec. (a). [Pub. L. 88–489, § 5][/us/pl/88/489/s5], substituted “(i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to [section 2153 of this title][/us/usc/t42/s2153], special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii)” for “to issue licenses for the possession of, to make available for the period of the license, and”.
+    1964—Subsec. (a). [Pub. L. 88–489][/us/pl/88/489], § 5, substituted “(i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to [section 2153 of this title][/us/usc/t42/s2153], special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii)” for “to issue licenses for the possession of, to make available for the period of the license, and”.
 
-    Subsec. (c). [Pub. L. 88–489, § 6][/us/pl/88/489/s6], designated existing provisions as par. (4), inserted “by lease” wherever appearing and “special nuclear material will be distributed by grant and for the determination of whether”, and added pars. (1) to (3).
+    Subsec. (c). [Pub. L. 88–489][/us/pl/88/489], § 6, designated existing provisions as par. (4), inserted “by lease” wherever appearing and “special nuclear material will be distributed by grant and for the determination of whether”, and added pars. (1) to (3).
 
-    Subsec. (d). [Pub. L. 88–489, § 7][/us/pl/88/489/s7], inserted “by lease” in introductory provisions, and in ch. (5) substituted “equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2) of this section, and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to [section 2134 of this title][/us/usc/t42/s2134]” for “based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear material as determined by [section 2076 of this title][/us/usc/t42/s2076], whichever is lower”.
+    Subsec. (d). [Pub. L. 88–489][/us/pl/88/489], § 7, inserted “by lease” in introductory provisions, and in ch. (5) substituted “equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2) of this section, and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to [section 2134 of this title][/us/usc/t42/s2134]” for “based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear material as determined by [section 2076 of this title][/us/usc/t42/s2076], whichever is lower”.
 
-    Subsec. (e)(1). [Pub. L. 88–489, § 8][/us/pl/88/489/s8], struck out par. (1) which provided that title to all special nuclear material shall at all times be in the United States.
+    Subsec. (e)(1). [Pub. L. 88–489][/us/pl/88/489], § 8, struck out par. (1) which provided that title to all special nuclear material shall at all times be in the United States.
 
-    1958—Subsec. (a)(4). [Pub. L. 85–681, § 1][/us/pl/85/681/s1], added par. (4).
+    1958—Subsec. (a)(4). [Pub. L. 85–681][/us/pl/85/681], § 1, added par. (4).
 
-    Subsec. (c). [Pub. L. 85–681, § 2][/us/pl/85/681/s2], substituted “subsections (a)(1), (2) or (4)” for “subsection (a)(1) or (a) (2)”.
+    Subsec. (c). [Pub. L. 85–681][/us/pl/85/681], § 2, substituted “subsections (a)(1), (2) or (4)” for “subsection (a)(1) or (a) (2)”.
 
     1957—Subsec. (e)(8). [Pub. L. 85–256][/us/pl/85/256] inserted “except to the extent that the indemnification and limitation of liability provisions of [section 2210 of this title][/us/usc/t42/s2210] apply,”.
 
@@ -131,14 +131,14 @@
 [/us/usc/t42/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2133
 [/us/usc/t42/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2133
 [/us/usc/t42/s2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2134
-[/us/pl/88/489/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs8
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/stat/78/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F604
 [/us/usc/t42/s2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2138
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F930
-[/us/pl/85/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256%2Fs2
+[/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/stat/71/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F576
 [/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/stat/72/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F632
@@ -146,26 +146,26 @@
 [/us/stat/78/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F603
 [/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/stat/81/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F577
-[/us/pl/102/486/s902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F3
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s1805/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805%2Fa%2F4
-[/us/pl/102/486/s902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F3
-[/us/pl/90/190/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190%2Fs10
-[/us/pl/90/190/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190%2Fs9
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
+[/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/usc/t42/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2061
-[/us/pl/88/489/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs5
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
-[/us/pl/88/489/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs6
-[/us/pl/88/489/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs7
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
 [/us/usc/t42/s2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2134
 [/us/usc/t42/s2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2076
-[/us/pl/88/489/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489%2Fs8
-[/us/pl/85/681/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681%2Fs1
-[/us/pl/85/681/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681%2Fs2
+[/us/pl/88/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F489
+[/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
+[/us/pl/85/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F681
 [/us/pl/85/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F256
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 

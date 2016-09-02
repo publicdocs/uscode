@@ -99,7 +99,7 @@
 
         There is authorized to be appropriated such sums as are necessary for carrying out the activities under this section for each of fiscal years 2006 through 2020.
 
-([Pub. L. 109–58, title VIII, § 812][/us/pl/109/58/s812], Aug. 8, 2005, [119 Stat. 853][/us/stat/119/853].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 812, Aug. 8, 2005, [119 Stat. 853][/us/stat/119/853].)
 
 ----------
 
@@ -110,7 +110,7 @@
 
 [/us/usc/t20/s1067k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067k
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
-[/us/pl/109/58/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs812
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F853
 
 

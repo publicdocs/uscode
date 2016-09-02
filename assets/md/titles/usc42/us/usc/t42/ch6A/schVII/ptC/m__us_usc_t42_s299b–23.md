@@ -27,7 +27,7 @@
 
         Information reported to and among the network of patient safety databases under subsection (a) of this section shall be used to analyze national and regional statistics, including trends and patterns of health care errors. The information resulting from such analyses shall be made available to the public and included in the annual quality reports prepared under [section 299b–2(b)(2) of this title][/us/usc/t42/s299b–2/b/2].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 923, as added [Pub. L. 109–41, § 2(a)(5)][/us/pl/109/41/s2/a/5], July 29, 2005, [119 Stat. 431][/us/stat/119/431].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 923, as added [Pub. L. 109–41][/us/pl/109/41], § 2(a)(5), July 29, 2005, [119 Stat. 431][/us/stat/119/431].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s1320d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d
 [/us/usc/t42/s299b–2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%932%2Fb%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/41/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F5
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F431
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

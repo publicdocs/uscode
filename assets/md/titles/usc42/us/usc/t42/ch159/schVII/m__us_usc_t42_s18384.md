@@ -17,7 +17,7 @@
 
     NASA shall take into account the current decadal surveys from the National Academies’ Space Studies Board when submitting the President’s budget request to the Congress.
 
-([Pub. L. 111–267, title VIII, § 805][/us/pl/111/267/s805], Oct. 11, 2010, [124 Stat. 2833][/us/stat/124/2833].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 805, Oct. 11, 2010, [124 Stat. 2833][/us/stat/124/2833].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs805
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2833
 
 

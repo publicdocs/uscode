@@ -79,7 +79,7 @@
 
         (3) afford the State an opportunity to obtain judicial review of an adverse decision of the Board, within 60 days after the State receives notice of the decision of the Board, by appeal to the district court of the United States for the judicial district in which the principal or headquarters office of the agency responsible for administering the program is located.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1123A, formerly § 1123, as added [Pub. L. 103–432, title II, § 203(a)][/us/pl/103/432/s203/a], Oct. 31, 1994, [108 Stat. 4454][/us/stat/108/4454]; renumbered § 1123A, [Pub. L. 104–193, title V, § 504][/us/pl/104/193/s504], Aug. 22, 1996, [110 Stat. 2278][/us/stat/110/2278]; amended [Pub. L. 109–432, div. B, title IV, § 405(c)(1)(B)(ii)][/us/pl/109/432/s405/c/1/B/ii], Dec. 20, 2006, [120 Stat. 2999][/us/stat/120/2999].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1123A, formerly § 1123, as added [Pub. L. 103–432, title II][/us/pl/103/432/tII], § 203(a), Oct. 31, 1994, [108 Stat. 4454][/us/stat/108/4454]; renumbered § 1123A, [Pub. L. 104–193, title V][/us/pl/104/193/tV], § 504, Aug. 22, 1996, [110 Stat. 2278][/us/stat/110/2278]; amended [Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 405(c)(1)(B)(ii), Dec. 20, 2006, [120 Stat. 2999][/us/stat/120/2999].)
 
  __Codification__ 
 
@@ -95,13 +95,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–432, title II, § 203(c)(1)][/us/pl/103/432/s203/c/1], Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456], provided that: 
+[Pub. L. 103–432, title II][/us/pl/103/432/tII], § 203(c)(1), Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\].”
 
  __Regulations__ 
 
-[Pub. L. 103–432, title II, § 203(c)(3)][/us/pl/103/432/s203/c/3], Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456], provided that: 
+[Pub. L. 103–432, title II][/us/pl/103/432/tII], § 203(c)(3), Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456], provided that: 
 
 > “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[[42 U.S.C. 1320a–2a(a)][/us/usc/t42/s1320a–2a/a]\] (as added by this section) not later than July 1, 1995, to take effect on April 1, 1996.”
 
@@ -114,11 +114,11 @@
 
 [/us/usc/t42/s671/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671%2Fa%2F27
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/432/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs203%2Fa
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4454
-[/us/pl/104/193/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs504
+[/us/pl/104/193/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtV
 [/us/stat/110/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2278
-[/us/pl/109/432/s405/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fc%2F1%2FB%2Fii
+[/us/pl/109/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtIV
 [/us/stat/120/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2999
 [/us/usc/t42/s1320a–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%931a
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
@@ -127,9 +127,9 @@
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s405/c/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fc%2F1%2FB%2Fiii
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
-[/us/pl/103/432/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs203%2Fc%2F1
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4456
-[/us/pl/103/432/s203/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs203%2Fc%2F3
+[/us/pl/103/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtII
 [/us/stat/108/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4456
 [/us/usc/t42/s1320a–2a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%932a%2Fa
 

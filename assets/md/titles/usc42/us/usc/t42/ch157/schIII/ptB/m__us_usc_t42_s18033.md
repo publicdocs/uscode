@@ -65,7 +65,7 @@
 
         (5) how many physicians, by area and specialty, are not taking or accepting new patients enrolled in Federal Government health care programs, and the adequacy of provider networks of Federal Government health care programs.
 
-([Pub. L. 111–148, title I, § 1313][/us/pl/111/148/s1313], title X, § 10104(k), Mar. 23, 2010, [124 Stat. 184][/us/stat/124/184], 902.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1313, title X, § 10104(k), Mar. 23, 2010, [124 Stat. 184][/us/stat/124/184], 902.)
 
  __References in Text__ 
 
@@ -73,15 +73,15 @@
 
     This Act, referred to in subsec. (a)(4), (6)(A), is [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 119][/us/stat/124/119], known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title][/us/usc/t42/s18001] and Tables.
 
-    The False Claims Act, referred to in subsec. (a)(6), was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1084][/us/stat/96/1084], and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
+    The False Claims Act, referred to in subsec. (a)(6), was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1084][/us/stat/96/1084], and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2010—Subsec. (b)(4), (5). [Pub. L. 111–148, § 10104(k)][/us/pl/111/148/s10104/k], added par. (4) and redesignated former par. (4) as (5).
+    2010—Subsec. (b)(4), (5). [Pub. L. 111–148][/us/pl/111/148], § 10104(k), added par. (4) and redesignated former par. (4) as (5).
 
  __Termination of Provision__ 
 
-[Pub. L. 111–148, title X, § 10104(j)(1)][/us/pl/111/148/s10104/j/1], Mar. 23, 2010, [124 Stat. 901][/us/stat/124/901], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10104(j)(1), Mar. 23, 2010, [124 Stat. 901][/us/stat/124/901], provided that: 
 
 > “Subparagraph (B) of section 1313(a)(6) of this Act \[[42 U.S.C. 18033(a)(6)(B)][/us/usc/t42/s18033/a/6/B]\] is hereby deemed null, void, and of no effect.”
 
@@ -95,17 +95,17 @@
 [/us/usc/t31/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729
 [/us/usc/t31/s3729/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729%2Fa
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/111/148/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1313
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F184
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1084
-[/us/pl/111/148/s10104/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fk
-[/us/pl/111/148/s10104/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fj%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F901
 [/us/usc/t42/s18033/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18033%2Fa%2F6%2FB
 

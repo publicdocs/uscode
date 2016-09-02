@@ -77,31 +77,31 @@
 
         In administering subsections (b) and (c) with respect to the unobligated balance of a State, the Secretary may elect to reduce the amount of future grants to the State under section 300ff–28, 300ff–29a, or 300ff–30 of this title, as applicable, by the amount of any such unobligated balance in lieu of cancelling such amount as provided for in subsection (b) or (c)(1). In such case, the Secretary may permit the State to use such unobligated balance for purposes of any such future grant. An amount equal to such reduction shall be available for use as additional amounts for grants pursuant to [section 300ff–29a of this title][/us/usc/t42/s300ff–29a], subject to [section 300ff–28(a)(2)(H) of this title][/us/usc/t42/s300ff–28/a/2/H]. Nothing in this paragraph shall be construed to affect the authority of the Secretary under subsections (b) and (c), including the authority to grant waivers under subsection (c)(1). The reduction in future grants authorized under this subsection shall be notwithstanding the penalty required under subsection (c)(4) with respect to unobligated funds.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2622, as added and amended [Pub. L. 109–415, title II, § 207][/us/pl/109/415/s207], title VII, § 703, Dec. 19, 2006, [120 Stat. 2799][/us/stat/120/2799], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), 5(c)(2)–(4), 8(b)(1)(B), (2)(B), (c)(2), 10(a), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2891, 2894, 2895.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2622, as added and amended [Pub. L. 109–415, title II][/us/pl/109/415/tII], § 207, title VII, § 703, Dec. 19, 2006, [120 Stat. 2799][/us/stat/120/2799], 2820; [Pub. L. 111–87][/us/pl/111/87], §§ 2(a)(1), (3)(A), 5(c)(2)–(4), 8(b)(1)(B), (2)(B), (c)(2), 10(a), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], 2891, 2894, 2895.)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    Subsec. (a). [Pub. L. 111–87, § 5(c)(3)][/us/pl/111/87/s5/c/3], substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”.
+    Subsec. (a). [Pub. L. 111–87][/us/pl/111/87], § 5(c)(3), substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”.
 
-    Subsec. (b). [Pub. L. 111–87, § 5(c)(4)][/us/pl/111/87/s5/c/4], substituted “300ff–28(a)(2)(F)(ii)” for “300ff–28(a)(2)(G)(ii)” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–87][/us/pl/111/87], § 5(c)(4), substituted “300ff–28(a)(2)(F)(ii)” for “300ff–28(a)(2)(G)(ii)” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 111–87, § 5(c)(2)][/us/pl/111/87/s5/c/2], substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 111–87][/us/pl/111/87], § 5(c)(2), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)” in introductory provisions.
 
     Subsec. (c)(4)(A). [Pub. L. 111–87][/us/pl/111/87], §§ 5(c)(2), 8(b)(1)(B), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)” in introductory provisions and “5 percent” for “2 percent” in concluding provisions.
 
-    Subsec. (c)(4)(A)(i). [Pub. L. 111–87, § 8(c)(2)][/us/pl/111/87/s8/c/2], inserted “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))” after “unobligated balance”.
+    Subsec. (c)(4)(A)(i). [Pub. L. 111–87][/us/pl/111/87], § 8(c)(2), inserted “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))” after “unobligated balance”.
 
-    Subsec. (d). [Pub. L. 111–87, § 10(a)][/us/pl/111/87/s10/a], inserted at end “If an expenditure of ADAP rebate funds would trigger a penalty under this section or a higher penalty than would otherwise have applied, the State may request that for purposes of this section, the Secretary deem the State’s unobligated balance to be reduced by the amount of rebate funds in the proposed expenditure. Notwithstanding 300ff–28(a)(2)(F) of this title, any unobligated amount under [section 300ff–28(a)(2)(F)(ii)(V) of this title][/us/usc/t42/s300ff–28/a/2/F/ii/V] that is returned to the Secretary for reallocation shall be used by the Secretary for—
+    Subsec. (d). [Pub. L. 111–87][/us/pl/111/87], § 10(a), inserted at end “If an expenditure of ADAP rebate funds would trigger a penalty under this section or a higher penalty than would otherwise have applied, the State may request that for purposes of this section, the Secretary deem the State’s unobligated balance to be reduced by the amount of rebate funds in the proposed expenditure. Notwithstanding 300ff–28(a)(2)(F) of this title, any unobligated amount under [section 300ff–28(a)(2)(F)(ii)(V) of this title][/us/usc/t42/s300ff–28/a/2/F/ii/V] that is returned to the Secretary for reallocation shall be used by the Secretary for—
 
     “(1) the ADAP supplemental program if the Secretary determines appropriate; or
 
     “(2) for additional amounts for grants pursuant to [section 300ff–29a of this title][/us/usc/t42/s300ff–29a].”
 
-    Subsec. (e). [Pub. L. 111–87, § 8(b)(2)(B)][/us/pl/111/87/s8/b/2/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–87][/us/pl/111/87], § 8(b)(2)(B), added subsec. (e).
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -128,23 +128,23 @@
 [/us/usc/t42/s300ff–29a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9329a
 [/us/usc/t42/s300ff–28/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9328%2Fa%2F2%2FH
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/415/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs207
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2799
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fc%2F3
-[/us/pl/111/87/s5/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fc%2F4
-[/us/pl/111/87/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs5%2Fc%2F2
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/111/87/s8/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs8%2Fc%2F2
-[/us/pl/111/87/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs10%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/usc/t42/s300ff–28/a/2/F/ii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9328%2Fa%2F2%2FF%2Fii%2FV
 [/us/usc/t42/s300ff–29a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9329a
-[/us/pl/111/87/s8/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs8%2Fb%2F2%2FB
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

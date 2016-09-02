@@ -63,7 +63,7 @@
 
         The Secretary shall compile an annual report containing a summary of the evaluations required in subsection (b) of this section and a listing of all activities assisted under this section. The Secretary shall annually submit the report to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate.
 
-([Pub. L. 97–35, title VI, § 680][/us/pl/97/35/s680], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2750][/us/stat/112/2750].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 680, as added [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2750][/us/stat/112/2750].)
 
  __Prior Provisions__ 
 
@@ -75,37 +75,37 @@
 
  __Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees__ 
 
-[Pub. L. 114–113, div. H, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2614][/us/stat/129/2614], provided in part: 
+[Pub. L. 114–113, div. H, title II][/us/pl/114/113/dH/tII], Dec. 18, 2015, [129 Stat. 2614][/us/stat/129/2614], provided in part: 
 
 > “That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, [42 U.S.C. 9921][/us/usc/t42/s9921]\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[[42 U.S.C. 9921(a)(2)(A)][/us/usc/t42/s9921/a/2/A]\]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. G, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2481][/us/stat/128/2481].
+    [Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], Dec. 16, 2014, [128 Stat. 2481][/us/stat/128/2481].
 
-    [Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 378][/us/stat/128/378].
+    [Pub. L. 113–76, div. H, title II][/us/pl/113/76/dH/tII], Jan. 17, 2014, [128 Stat. 378][/us/stat/128/378].
 
-    [Pub. L. 112–74, div. F, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1078][/us/stat/125/1078].
+    [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], Dec. 23, 2011, [125 Stat. 1078][/us/stat/125/1078].
 
-    [Pub. L. 111–117, div. D, title II][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3251][/us/stat/123/3251].
+    [Pub. L. 111–117, div. D, title II][/us/pl/111/117/dD/tII], Dec. 16, 2009, [123 Stat. 3251][/us/stat/123/3251].
 
-    [Pub. L. 111–8, div. F, title II][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 775][/us/stat/123/775].
+    [Pub. L. 111–8, div. F, title II][/us/pl/111/8/dF/tII], Mar. 11, 2009, [123 Stat. 775][/us/stat/123/775].
 
-    [Pub. L. 110–161, div. G, title II][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2180][/us/stat/121/2180].
+    [Pub. L. 110–161, div. G, title II][/us/pl/110/161/dG/tII], Dec. 26, 2007, [121 Stat. 2180][/us/stat/121/2180].
 
-    [Pub. L. 109–149, title II][/us/pl/109/149], Dec. 30, 2005, [119 Stat. 2855][/us/stat/119/2855].
+    [Pub. L. 109–149, title II][/us/pl/109/149/tII], Dec. 30, 2005, [119 Stat. 2855][/us/stat/119/2855].
 
-    [Pub. L. 108–447, div. F, title II][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3134][/us/stat/118/3134].
+    [Pub. L. 108–447, div. F, title II][/us/pl/108/447/dF/tII], Dec. 8, 2004, [118 Stat. 3134][/us/stat/118/3134].
 
-    [Pub. L. 108–199, div. E, title II][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 249][/us/stat/118/249].
+    [Pub. L. 108–199, div. E, title II][/us/pl/108/199/dE/tII], Jan. 23, 2004, [118 Stat. 249][/us/stat/118/249].
 
-    [Pub. L. 108–7, div. G, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 319][/us/stat/117/319].
+    [Pub. L. 108–7, div. G, title II][/us/pl/108/7/dG/tII], Feb. 20, 2003, [117 Stat. 319][/us/stat/117/319].
 
-    [Pub. L. 107–116, title II][/us/pl/107/116], Jan. 10, 2002, [115 Stat. 2196][/us/stat/115/2196].
+    [Pub. L. 107–116, title II][/us/pl/107/116/tII], Jan. 10, 2002, [115 Stat. 2196][/us/stat/115/2196].
 
-    [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–23.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–23.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–235.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–235.
 
 ----------
 
@@ -115,41 +115,41 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 
 [/us/usc/t42/s9903/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9903%2Fb%2F3
-[/us/pl/97/35/s680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs680
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2750
 [/us/pl/97/35/s680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs680
 [/us/usc/t42/s9909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9909
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtII
 [/us/stat/129/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2614
 [/us/usc/t42/s9921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9921
 [/us/usc/t42/s9921/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9921%2Fa%2F2%2FA
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2481
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtII
 [/us/stat/128/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F378
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1078
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtII
 [/us/stat/123/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3251
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtII
 [/us/stat/123/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F775
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdG%2FtII
 [/us/stat/121/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2180
-[/us/pl/109/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149
+[/us/pl/109/149/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2FtII
 [/us/stat/119/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2855
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdF%2FtII
 [/us/stat/118/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3134
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdE%2FtII
 [/us/stat/118/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F249
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdG%2FtII
 [/us/stat/117/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F319
-[/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
+[/us/pl/107/116/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtII
 [/us/stat/115/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2196
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 
 

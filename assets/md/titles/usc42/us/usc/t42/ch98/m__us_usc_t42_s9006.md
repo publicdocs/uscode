@@ -27,7 +27,7 @@
 
     (5) preference for proposals for pilot and demonstration projects in which the respondents certify their intent to become an integral part of the industrial infrastructure necessary to meet the goals of this chapter.
 
-([Pub. L. 96–310, § 7][/us/pl/96/310/s7], July 17, 1980, [94 Stat. 944][/us/stat/94/944].)
+([Pub. L. 96–310][/us/pl/96/310], § 7, July 17, 1980, [94 Stat. 944][/us/stat/94/944].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/310/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs7
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F944
 
 

@@ -29,7 +29,7 @@
 
     (b) The Secretary is authorized to provide medical, surgical, and dental treatment and hospitalization and optometric care for Federal employees (as defined in [section 8901(1) of title 5][/us/usc/t5/s8901/1]) and their dependents at remote medical facilities of the Public Health Service where such care and treatment are not otherwise available. Such employees and their dependents who are not entitled to this care and treatment under any other provision of law shall be charged for it at rates established by the Secretary to reflect the reasonable cost of providing the care and treatment. Any payments pursuant to the preceding sentence shall be credited to the applicable appropriation to the Public Health Service for the year in which such payments are received.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 324, [58 Stat. 697][/us/stat/58/697]; [Pub. L. 90–174, § 10(a)][/us/pl/90/174/s10/a], (b), Dec. 5, 1967, [81 Stat. 540][/us/stat/81/540]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 97–468, title VI, § 615(b)(4)][/us/pl/97/468/s615/b/4], Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578]; [Pub. L. 98–426, § 27(d)(2)][/us/pl/98/426/s27/d/2], Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 324, [58 Stat. 697][/us/stat/58/697]; [Pub. L. 90–174][/us/pl/90/174], § 10(a), (b), Dec. 5, 1967, [81 Stat. 540][/us/stat/81/540]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 97–468, title VI][/us/pl/97/468/tVI], § 615(b)(4), Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578]; [Pub. L. 98–426][/us/pl/98/426], § 27(d)(2), Sept. 28, 1984, [98 Stat. 1654][/us/stat/98/1654].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “subchapter I of chapter 81 of title 5” substituted for “United States Employees’ Compensation Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a), “subchapter I of chapter 81 of title 5” substituted for “United States Employees’ Compensation Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 
     1983—Subsec. (a)(1). [Pub. L. 97–468][/us/pl/97/468] struck out “employees of the Alaska Railroad and” before “employees of the Federal Government”.
 
-    1967—Subsec. (a). [Pub. L. 90–174, § 10(a)][/us/pl/90/174/s10/a], designated existing provisions as subsec. (a) and redesignated cls. (a) to (d) as cls. (1) to (4), respectively.
+    1967—Subsec. (a). [Pub. L. 90–174][/us/pl/90/174], § 10(a), designated existing provisions as subsec. (a) and redesignated cls. (a) to (d) as cls. (1) to (4), respectively.
 
-    Subsec. (b). [Pub. L. 90–174, § 10(b)][/us/pl/90/174/s10/b], added subsec. (b).
+    Subsec. (b). [Pub. L. 90–174][/us/pl/90/174], § 10(b), added subsec. (b).
 
  __Effective Date of 1984 Amendment__ 
 
@@ -74,22 +74,22 @@
 [/us/usc/t5/s8901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F697
-[/us/pl/90/174/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs10%2Fa
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F540
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/97/468/s615/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2Fs615%2Fb%2F4
+[/us/pl/97/468/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2FtVI
 [/us/stat/96/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2578
-[/us/pl/98/426/s27/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs27%2Fd%2F2
+[/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/stat/98/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1654
 [/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/97/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468
-[/us/pl/90/174/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs10%2Fa
-[/us/pl/90/174/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs10%2Fb
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901

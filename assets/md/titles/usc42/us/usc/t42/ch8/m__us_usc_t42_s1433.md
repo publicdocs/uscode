@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 606, [63 Stat. 440][/us/stat/63/440], provided for conversion of State and local low-rent or veterans’ housing projects to Federal projects if the contract for State financial assistance for such project was entered into on or after Jan. 1, 1948, and prior to Jan. 1, 1950.
+    Section, [act July 15, 1949, ch. 338, title VI][/us/act/1949-07-15/ch338/tVI], § 606, [63 Stat. 440][/us/stat/63/440], provided for conversion of State and local low-rent or veterans’ housing projects to Federal projects if the contract for State financial assistance for such project was entered into on or after Jan. 1, 1948, and prior to Jan. 1, 1950.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
+[/us/act/1949-07-15/ch338/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338%2FtVI
 [/us/stat/63/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F440
 
 

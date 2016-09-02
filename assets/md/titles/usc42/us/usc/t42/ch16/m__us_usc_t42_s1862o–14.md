@@ -43,7 +43,7 @@
 
             (B) consortia of institutions of higher education that include at least one institution that is not a Ph.D.-granting institution.
 
-([Pub. L. 110–69, title VII, § 7036][/us/pl/110/69/s7036], Aug. 9, 2007, [121 Stat. 714][/us/stat/121/714].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7036, Aug. 9, 2007, [121 Stat. 714][/us/stat/121/714].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7036
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F714
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

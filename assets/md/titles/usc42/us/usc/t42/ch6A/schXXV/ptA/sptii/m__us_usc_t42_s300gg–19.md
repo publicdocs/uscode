@@ -53,11 +53,11 @@
 
         The Secretary may deem the external review process of a group health plan or health insurance issuer, in operation as of March 23, 2010, to be in compliance with the applicable process established under subsection (b), as determined appropriate by the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2719, as added and amended [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], title X, § 10101(g), Mar. 23, 2010, [124 Stat. 137][/us/stat/124/137], 887.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2719, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), title X, § 10101(g), Mar. 23, 2010, [124 Stat. 137][/us/stat/124/137], 887.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10101(g)][/us/pl/111/148/s10101/g], amended section generally. Prior to amendment, section related to implementation of appeals process by group health plans and health insurance issuers.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10101(g), amended section generally. Prior to amendment, section related to implementation of appeals process by group health plans and health insurance issuers.
 
  __Effective Date__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t42/s300gg–93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9393
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F137
-[/us/pl/111/148/s10101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Fg
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 

@@ -29,7 +29,7 @@
 
         the existence of such local requirement shall not be construed to affect the validity or applicability of such prohibition to such facility, except to the extent provided under section 8322(b) or [section 8352(b) of this title][/us/usc/t42/s8352/b]; and the existence of such prohibition shall not be construed to preempt such local requirement with respect to that facility.
 
-([Pub. L. 95–620, title VII, § 761][/us/pl/95/620/s761], Nov. 9, 1978, [92 Stat. 3345][/us/stat/92/3345]; [Pub. L. 100–42, § 1(c)(23)][/us/pl/100/42/s1/c/23], May 21, 1987, [101 Stat. 314][/us/stat/101/314].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 761, Nov. 9, 1978, [92 Stat. 3345][/us/stat/92/3345]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(23), May 21, 1987, [101 Stat. 314][/us/stat/101/314].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t42/s8374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8374
 [/us/usc/t42/s8352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8352%2Fb
-[/us/pl/95/620/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs761
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3345
-[/us/pl/100/42/s1/c/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F23
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F314
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

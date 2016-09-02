@@ -17,7 +17,7 @@
 
     For the purpose of carrying out this part, there is authorized to be appropriated $100,000,000 for each of fiscal years 2010 through 2015.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1282, as added [Pub. L. 111–148, title III, § 3505(b)][/us/pl/111/148/s3505/b], Mar. 23, 2010, [124 Stat. 527][/us/stat/124/527].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1282, as added [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3505(b), Mar. 23, 2010, [124 Stat. 527][/us/stat/124/527].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3505%2Fb
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F527
 
 

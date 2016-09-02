@@ -41,7 +41,7 @@
 
             (B) an application as 1 of the remaining members of the consortium.
 
-([Pub. L. 89–73, title VI, § 614A][/us/pl/89/73/s614A], as added [Pub. L. 102–375, title VI, § 602][/us/pl/102/375/s602], Sept. 30, 1992, [106 Stat. 1270][/us/stat/106/1270]; amended [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 109–365, title VI, § 601(a)][/us/pl/109/365/s601/a], Oct. 17, 2006, [120 Stat. 2590][/us/stat/120/2590].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 614A, as added [Pub. L. 102–375, title VI][/us/pl/102/375/tVI], § 602, Sept. 30, 1992, [106 Stat. 1270][/us/stat/106/1270]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 109–365, title VI][/us/pl/109/365/tVI], § 601(a), Oct. 17, 2006, [120 Stat. 2590][/us/stat/120/2590].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–365, title VI, § 601(b)][/us/pl/109/365/s601/b], Oct. 17, 2006, [120 Stat. 2590][/us/stat/120/2590], provided that: 
+[Pub. L. 109–365, title VI][/us/pl/109/365/tVI], § 601(b), Oct. 17, 2006, [120 Stat. 2590][/us/stat/120/2590], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to grants awarded under part A of title VI of the Older Americans Act of 1965 ([42 U.S.C. 3057b][/us/usc/t42/s3057b] et seq.) during the grant period beginning April 1, 2008, and all subsequent grant periods.”
 
@@ -62,16 +62,16 @@
 ----------
 ----------
 
-[/us/pl/89/73/s614A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs614A
-[/us/pl/102/375/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs602
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/102/375/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVI
 [/us/stat/106/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1270
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/109/365/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs601%2Fa
+[/us/pl/109/365/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtVI
 [/us/stat/120/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2590
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
-[/us/pl/109/365/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs601%2Fb
+[/us/pl/109/365/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtVI
 [/us/stat/120/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2590
 [/us/usc/t42/s3057b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3057b
 

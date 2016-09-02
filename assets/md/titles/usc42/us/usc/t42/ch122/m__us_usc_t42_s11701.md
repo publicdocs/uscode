@@ -67,7 +67,7 @@
 
     (22) Despite such services, the unmet health needs of the Native Hawaiian people are severe and the health status of Native Hawaiians continues to be far below that of the general population of the United States.
 
-([Pub. L. 100–579, § 2][/us/pl/100/579/s2], Oct. 31, 1988, [102 Stat. 2916][/us/stat/102/2916]; [Pub. L. 100–690, title II, § 2302][/us/pl/100/690/s2302], Nov. 18, 1988, [102 Stat. 4223][/us/stat/102/4223]; [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
+([Pub. L. 100–579][/us/pl/100/579], § 2, Oct. 31, 1988, [102 Stat. 2916][/us/stat/102/2916]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2302, Nov. 18, 1988, [102 Stat. 4223][/us/stat/102/4223]; [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
     An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (15) and (16), is [Pub. L. 86–3][/us/pl/86/3], Mar. 18, 1959, [73 Stat. 4][/us/stat/73/4], as amended, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former [section 491 of Title 48][/us/usc/t48/s491], Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-    The Native American Programs Act of 1974, referred to in par. (19), is title VIII of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], which is classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see [section 2991 of this title][/us/usc/t42/s2991] and Tables.
+    The Native American Programs Act of 1974, referred to in par. (19), is title VIII of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], which is classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see [section 2991 of this title][/us/usc/t42/s2991] and Tables.
 
     The American Indian Religious Freedom Act, referred to in par. (19), is [Pub. L. 95–341][/us/pl/95/341], Aug. 11, 1978, [92 Stat. 469][/us/stat/92/469], as amended, which is classified to sections 1996 and 1996a of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of this title][/us/usc/t42/s1996] and Tables.
 
@@ -123,7 +123,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–579, § 1][/us/pl/100/579/s1], Oct. 31, 1988, [102 Stat. 2916][/us/stat/102/2916], and [Pub. L. 100–690, title II][/us/pl/100/690], subtitle D, § 2301, Nov. 18, 1988, [102 Stat. 4222][/us/stat/102/4222], as amended by [Pub. L. 102–396, title IX, § 9168][/us/pl/102/396/s9168], Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948], provided that: 
+[Pub. L. 100–579][/us/pl/100/579], § 1, Oct. 31, 1988, [102 Stat. 2916][/us/stat/102/2916], and [Pub. L. 100–690, title II][/us/pl/100/690/tII], subtitle D, § 2301, Nov. 18, 1988, [102 Stat. 4222][/us/stat/102/4222], as amended by [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9168, Oct. 6, 1992, [106 Stat. 1948][/us/stat/106/1948], provided that: 
 
 > “This Act \[enacting this chapter and repealing [section 1621d of Title 25][/us/usc/t25/s1621d], Indians\] may be cited as the ‘Native Hawaiian Health Care Improvement Act’.”
 
@@ -146,11 +146,11 @@
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/100/579/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs2
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/stat/102/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2916
-[/us/pl/100/690/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2302
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4223
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
 [/us/stat/30/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F750
 [/us/act/1900-04-30/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339
@@ -163,7 +163,7 @@
 [/us/stat/73/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F4
 [/us/usc/t48/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs491
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2324
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
@@ -215,11 +215,11 @@
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/579/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs2
 [/us/pl/102/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396
-[/us/pl/100/579/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs1
+[/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/stat/102/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2916
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4222
-[/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1948
 [/us/usc/t25/s1621d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1621d
 [/us/pl/100/579/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs1

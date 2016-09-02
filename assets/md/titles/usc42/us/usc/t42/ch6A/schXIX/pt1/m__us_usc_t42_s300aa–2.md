@@ -57,7 +57,7 @@
 
     (b) In carrying out subsection (a) of this section and in preparing the plan under [section 300aa–3 of this title][/us/usc/t42/s300aa–3], the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2102, as added [Pub. L. 99–660, title III, § 311(a)][/us/pl/99/660/s311/a], Nov. 14, 1986, [100 Stat. 3756][/us/stat/100/3756]; amended [Pub. L. 102–531, title III, § 312(d)(13)][/us/pl/102/531/s312/d/13], Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 108–173, title IX, § 900(e)(2)(F)][/us/pl/108/173/s900/e/2/F], Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXI, § 2102, as added [Pub. L. 99–660, title III][/us/pl/99/660/tIII], § 311(a), Nov. 14, 1986, [100 Stat. 3756][/us/stat/100/3756]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(13), Oct. 27, 1992, [106 Stat. 3505][/us/stat/106/3505]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(2)(F), Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
 
  __Prior Provisions__ 
 
@@ -73,7 +73,7 @@
 
  __Grants for Research on Vaccine Against Valley Fever__ 
 
-[Pub. L. 109–432, div. B, title IV, § 402][/us/pl/109/432/s402], Dec. 20, 2006, [120 Stat. 2994][/us/stat/120/2994], provided that:
+[Pub. L. 109–432, div. B, title IV][/us/pl/109/432/dB/tIV], § 402, Dec. 20, 2006, [120 Stat. 2994][/us/stat/120/2994], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -89,7 +89,7 @@
 
  __Demonstration Projects for Outreach Programs__ 
 
-[Pub. L. 101–502, § 2(b)][/us/pl/101/502/s2/b], Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285], provided that:
+[Pub. L. 101–502][/us/pl/101/502], § 2(b), Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -103,11 +103,11 @@
 
 >     For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1993.”
 
-    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
+    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
 
  __Supply of Vaccines__ 
 
-[Pub. L. 101–502, § 3][/us/pl/101/502/s3], Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285], provided that:
+[Pub. L. 101–502][/us/pl/101/502], § 3, Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -117,9 +117,9 @@
 
 >     For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
 
-    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
+    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
 
-[Pub. L. 100–177, title I, § 110(b)][/us/pl/100/177/s110/b], Dec. 1, 1987, [101 Stat. 991][/us/stat/101/991], provided that:
+[Pub. L. 100–177, title I][/us/pl/100/177/tI], § 110(b), Dec. 1, 1987, [101 Stat. 991][/us/stat/101/991], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -129,7 +129,7 @@
 
 >     There are authorized to be appropriated to carry out paragraph (1) $5,000,000 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
 
-    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
+    \[Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].\]
 
 ----------
 
@@ -151,29 +151,29 @@
 [/us/usc/t42/s300aa–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%936
 [/us/usc/t42/s300aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/660/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs311%2Fa
+[/us/pl/99/660/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIII
 [/us/stat/100/3756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3756
-[/us/pl/102/531/s312/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F13
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
-[/us/pl/108/173/s900/e/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F2%2FF
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2372
 [/us/usc/t42/s238b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238b
 [/us/usc/t42/s238a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238a
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/109/432/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs402
+[/us/pl/109/432/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdB%2FtIV
 [/us/stat/120/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2994
-[/us/pl/101/502/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs2%2Fb
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1285
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/101/502/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs3
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1285
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/100/177/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs110%2Fb
+[/us/pl/100/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtI
 [/us/stat/101/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F991
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

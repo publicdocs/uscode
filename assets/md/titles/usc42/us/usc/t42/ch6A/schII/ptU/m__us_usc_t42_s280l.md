@@ -29,15 +29,15 @@
 
     (2) build evaluation capacity among workplace staff by training employers on how to evaluate employer-based wellness programs and ensuring evaluation resources, technical assistance, and consultation are available to workplace staff as needed through such mechanisms as web portals, call centers, or other means.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399MM, as added and amended [Pub. L. 111–148, title IV, § 4303][/us/pl/111/148/s4303], title X, § 10404, Mar. 23, 2010, [124 Stat. 583][/us/stat/124/583], 975.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399MM, as added and amended [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4303, title X, § 10404, Mar. 23, 2010, [124 Stat. 583][/us/stat/124/583], 975.)
 
  __Amendments__ 
 
-    2010—Par. (2). [Pub. L. 111–148, § 10404][/us/pl/111/148/s10404], substituted “and ensuring” for “by ensuring”.
+    2010—Par. (2). [Pub. L. 111–148][/us/pl/111/148], § 10404, substituted “and ensuring” for “by ensuring”.
 
  __Grants for Small Businesses To Provide Comprehensive Workplace Wellness Programs__ 
 
-[Pub. L. 111–148, title X, § 10408][/us/pl/111/148/s10408], Mar. 23, 2010, [124 Stat. 977][/us/stat/124/977], provided that:
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10408, Mar. 23, 2010, [124 Stat. 977][/us/stat/124/977], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -91,10 +91,10 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4303
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F583
-[/us/pl/111/148/s10404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10404
-[/us/pl/111/148/s10408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10408
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F977
 
 

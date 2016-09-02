@@ -39,7 +39,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–3, as added [Pub. L. 111–148, title X, § 10501(g)][/us/pl/111/148/s10501/g], Mar. 23, 2010, [124 Stat. 996][/us/stat/124/996].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–3, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10501(g), Mar. 23, 2010, [124 Stat. 996][/us/stat/124/996].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fg
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F996
 
 

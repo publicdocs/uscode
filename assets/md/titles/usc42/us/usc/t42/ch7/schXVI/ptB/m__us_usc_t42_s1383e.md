@@ -17,7 +17,7 @@
 
     In the case of any individual whose benefits under this subchapter are paid to a repre­sentative payee pursuant to [section 1383(a)(2)(A)(ii)(II) of this title][/us/usc/t42/s1383/a/2/A/ii/II], the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act ([42 U.S.C. 300x–21][/us/usc/t42/s300x–21] et seq.).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1636, as added [Pub. L. 104–121, title I, § 105(b)(3)][/us/pl/104/121/s105/b/3], Mar. 29, 1996, [110 Stat. 854][/us/stat/110/854].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1636, as added [Pub. L. 104–121, title I][/us/pl/104/121/tI], § 105(b)(3), Mar. 29, 1996, [110 Stat. 854][/us/stat/110/854].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t42/s1383/a/2/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383%2Fa%2F2%2FA%2Fii%2FII
 [/us/usc/t42/s300x–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9321
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/121/s105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs105%2Fb%2F3
+[/us/pl/104/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtI
 [/us/stat/110/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F854
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

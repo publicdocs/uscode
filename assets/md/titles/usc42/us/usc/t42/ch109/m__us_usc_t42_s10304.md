@@ -29,13 +29,13 @@
 
         There is authorized to be appropriated to the Secretary the sum of $10,000,000 for the purpose of carrying out this section for each of the fiscal years ending September 30, 1985, through September 30, 1995, such sums to remain available until expended.
 
-([Pub. L. 98–242, title I, § 105][/us/pl/98/242/s105], Mar. 22, 1984, [98 Stat. 100][/us/stat/98/100]; [Pub. L. 101–397, § 1(i)][/us/pl/101/397/s1/i], (j), Sept. 28, 1990, [104 Stat. 853][/us/stat/104/853].)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 105, Mar. 22, 1984, [98 Stat. 100][/us/stat/98/100]; [Pub. L. 101–397][/us/pl/101/397], § 1(i), (j), Sept. 28, 1990, [104 Stat. 853][/us/stat/104/853].)
 
  __Amendments__ 
 
-    1990—Subsec. (a)(3). [Pub. L. 101–397, § 1(i)][/us/pl/101/397/s1/i], struck out par. (3) which read as follows: “In cases where the Secretary determines, in accordance with criteria established by him, that research under this section is of a basic nature which would not otherwise be undertaken, the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1) of this subsection.”
+    1990—Subsec. (a)(3). [Pub. L. 101–397][/us/pl/101/397], § 1(i), struck out par. (3) which read as follows: “In cases where the Secretary determines, in accordance with criteria established by him, that research under this section is of a basic nature which would not otherwise be undertaken, the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1) of this subsection.”
 
-    Subsec. (c). [Pub. L. 101–397, § 1(j)][/us/pl/101/397/s1/j], substituted “$10,000,000” for “$20,000,000” and “1995” for “1989”.
+    Subsec. (c). [Pub. L. 101–397][/us/pl/101/397], § 1(j), substituted “$10,000,000” for “$20,000,000” and “1995” for “1989”.
 
 ----------
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t42/s10303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10303
-[/us/pl/98/242/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs105
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F100
-[/us/pl/101/397/s1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fi
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/stat/104/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F853
-[/us/pl/101/397/s1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fi
-[/us/pl/101/397/s1/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fj
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3371.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
+[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3372 _us_usc_t42_s3373.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
 
 ## § 3374. Acquisition of property at or near military bases which have been ordered to be closed and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses
 
@@ -211,7 +211,7 @@
 
         The title to any property acquired under this section, the eligibility for, and the amounts of, cash payable, and the administration of the preceding provisions of this section, shall conform to such requirements, and shall be administered under such conditions and regulations, as the Secretary of Defense may prescribe. Such regulations shall also prescribe the terms and conditions under which payments may be made and instruments accepted under this section, and all the determinations and decisions made pursuant to such regulations by the Secretary of Defense regarding such payments and conveyances and the terms and conditions under which they are approved or disapproved, shall be final and conclusive and shall not be subject to judicial review.
 
-    (g) __Repealed.__  __[__  __Pub. L. 111–5, div. A, title X, § 1001(a)(4)__  __][/us/pl/111/5/s1001/a/4]__  __,__  __Feb. 17, 2009__  __,__  __[__  __123 Stat. 197__  __][/us/stat/123/197]__ 
+    (g) __Repealed.__  __[__  __Pub. L. 111–5, div. A, title X__  __][/us/pl/111/5/dA/tX]__  __, § 1001(a)(4),__  __Feb. 17, 2009__  __,__  __[__  __123 Stat. 197__  __][/us/stat/123/197]__ 
 
     (h) __Omitted__ 
 
@@ -279,13 +279,13 @@
 
             (B) is paid from nonappropriated funds of Army and Air Force Exchange Service, Navy Resale and Services Support Office, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
-([Pub. L. 89–754, title X, § 1013][/us/pl/89/754/s1013], Nov. 3, 1966, [80 Stat. 1290][/us/stat/80/1290]; [Pub. L. 91–142, title VI, § 602][/us/pl/91/142/s602], Dec. 5, 1969, [83 Stat. 313][/us/stat/83/313]; [Pub. L. 91–511, title VI, § 612][/us/pl/91/511/s612], Oct. 26, 1970, [84 Stat. 1225][/us/stat/84/1225]; [Pub. L. 92–545, title VI, § 601][/us/pl/92/545/s601], Oct. 25, 1972, [86 Stat. 1150][/us/stat/86/1150]; [Pub. L. 93–166, title V, § 513(b)][/us/pl/93/166/s513/b], Nov. 29, 1973, [87 Stat. 679][/us/stat/87/679]; [Pub. L. 100–448, § 11][/us/pl/100/448/s11], Sept. 28, 1988, [102 Stat. 1842][/us/stat/102/1842]; [Pub. L. 101–510, div. A, title III, § 331][/us/pl/101/510/s331], Nov. 5, 1990, [104 Stat. 1535][/us/stat/104/1535]; [Pub. L. 102–190, div. B, title XXVIII, § 2823][/us/pl/102/190/s2823], Dec. 5, 1991, [105 Stat. 1547][/us/stat/105/1547]; [Pub. L. 102–484, div. A, title X, § 1054(i)][/us/pl/102/484/s1054/i], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 103–337, div. B, title XXVIII, § 2805][/us/pl/103/337/s2805], Oct. 5, 1994, [108 Stat. 3053][/us/stat/108/3053]; [Pub. L. 111–5, div. A, title X, § 1001(a)][/us/pl/111/5/s1001/a], (b), Feb. 17, 2009, [123 Stat. 194][/us/stat/123/194], 198.)
+([Pub. L. 89–754, title X][/us/pl/89/754/tX], § 1013, Nov. 3, 1966, [80 Stat. 1290][/us/stat/80/1290]; [Pub. L. 91–142, title VI][/us/pl/91/142/tVI], § 602, Dec. 5, 1969, [83 Stat. 313][/us/stat/83/313]; [Pub. L. 91–511, title VI][/us/pl/91/511/tVI], § 612, Oct. 26, 1970, [84 Stat. 1225][/us/stat/84/1225]; [Pub. L. 92–545, title VI][/us/pl/92/545/tVI], § 601, Oct. 25, 1972, [86 Stat. 1150][/us/stat/86/1150]; [Pub. L. 93–166, title V][/us/pl/93/166/tV], § 513(b), Nov. 29, 1973, [87 Stat. 679][/us/stat/87/679]; [Pub. L. 100–448][/us/pl/100/448], § 11, Sept. 28, 1988, [102 Stat. 1842][/us/stat/102/1842]; [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 331, Nov. 5, 1990, [104 Stat. 1535][/us/stat/104/1535]; [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2823, Dec. 5, 1991, [105 Stat. 1547][/us/stat/105/1547]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(i), Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 103–337, div. B, title XXVIII][/us/pl/103/337/dB/tXXVIII], § 2805, Oct. 5, 1994, [108 Stat. 3053][/us/stat/108/3053]; [Pub. L. 111–5, div. A, title X][/us/pl/111/5/dA/tX], § 1001(a), (b), Feb. 17, 2009, [123 Stat. 194][/us/stat/123/194], 198.)
 
  __References in Text__ 
 
     The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(1)(B)(ii), is part A of title XXIX of div. B of [Pub. L. 101–510][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1808][/us/stat/104/1808], which is set out as a note under [section 2687 of Title 10][/us/usc/t10/s2687], Armed Forces. For complete classification of this Act to the Code, see Tables.
 
-    [Section 1594i of this title][/us/usc/t42/s1594i], referred to in subsec. (d), was repealed by [Pub. L. 97–214, § 7(3)][/us/pl/97/214/s7/3], July 12, 1982, [96 Stat. 173][/us/stat/96/173].
+    [Section 1594i of this title][/us/usc/t42/s1594i], referred to in subsec. (d), was repealed by [Pub. L. 97–214][/us/pl/97/214], § 7(3), July 12, 1982, [96 Stat. 173][/us/stat/96/173].
 
  __Codification__ 
 
@@ -293,39 +293,39 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–5, § 1001(b)][/us/pl/111/5/s1001/b], inserted “and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses” after “ordered to be closed” in section catchline.
+    2009—[Pub. L. 111–5][/us/pl/111/5], § 1001(b), inserted “and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses” after “ordered to be closed” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–5, § 1001(a)(1)][/us/pl/111/5/s1001/a/1], designated existing provisions as par. (1), inserted par. heading, substituted “if—” for “if he determines” in introductory provisions, inserted “(A) the Secretary determines—”, redesignated former pars. (1) to (3) as cls. (i) to (iii), respectively, of subpar. (A) and realigned margins, and added subpar. (B) and pars. (2) and (3).
+    Subsec. (a). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(1), designated existing provisions as par. (1), inserted par. heading, substituted “if—” for “if he determines” in introductory provisions, inserted “(A) the Secretary determines—”, redesignated former pars. (1) to (3) as cls. (i) to (iii), respectively, of subpar. (A) and realigned margins, and added subpar. (B) and pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 111–5, § 1001(a)(2)][/us/pl/111/5/s1001/a/2], substituted “subsection (a)(1)” for “this section” wherever appearing.
+    Subsec. (b). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(2), substituted “subsection (a)(1)” for “this section” wherever appearing.
 
-    Subsec. (c). [Pub. L. 111–5, § 1001(a)(3)][/us/pl/111/5/s1001/a/3], revised and restructured subsec. (c) into pars. (1) to (4). Prior to amendment, subsec. (c) read as follows: “Such persons as the Secretary of Defense may determine to be eligible under the criteria set forth above shall elect either (1) to receive a cash payment as compensation for losses which may be or have been sustained in a private sale, in an amount not to exceed the difference between (A) 95 per centum of the fair market value of their property (as such value is determined by the Secretary of Defense) prior to public announcement of intention to close all or part of the military base or installation and (B) the fair market value of such property (as such value is so determined) at the time of the sale, or (2) to receive, as purchase price for their property, an amount not to exceed 90 per centum of prior fair market value as such value is determined by the Secretary of Defense, or the amount of the outstanding mortgages. The Secretary may also pay a person who elects to receive a cash payment under clause (1) of the preceding sentence an amount that the Secretary determines appropriate to reimburse the person for the costs incurred by the person in the sale of the property if the Secretary determines that such payment will benefit the person and is in the best interest of the Federal Government. Cash payment as compensation for losses sustained in a private sale shall not be made in any case in which the property is encumbered by a mortgage loan guaranteed, insured, or held by a Federal agency unless such mortgage loan is paid, assumed by a purchaser satisfactory to such Federal agency, or otherwise fully satisfied at or prior to the time such cash payment is made. Except in cases of payment as compensation for losses, in the event of foreclosure by mortgagees commenced on or after public announcement of intention to close all or part of the military base or installation the Secretary of Defense may reimburse or pay on account of eligible persons such sums as may be paid or be otherwise due and owing by such persons as the result of such foreclosure, including (without limiting the generality of the foregoing) direct costs of judicial foreclosure, expenses and liabilities enforceable according to the terms of their mortgages or promissory notes, and the amount of debts, if any, established against such persons by a Federal agency in the case of loans made, guaranteed, or insured by such agency following liquidation of the security for such loans.”
+    Subsec. (c). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(3), revised and restructured subsec. (c) into pars. (1) to (4). Prior to amendment, subsec. (c) read as follows: “Such persons as the Secretary of Defense may determine to be eligible under the criteria set forth above shall elect either (1) to receive a cash payment as compensation for losses which may be or have been sustained in a private sale, in an amount not to exceed the difference between (A) 95 per centum of the fair market value of their property (as such value is determined by the Secretary of Defense) prior to public announcement of intention to close all or part of the military base or installation and (B) the fair market value of such property (as such value is so determined) at the time of the sale, or (2) to receive, as purchase price for their property, an amount not to exceed 90 per centum of prior fair market value as such value is determined by the Secretary of Defense, or the amount of the outstanding mortgages. The Secretary may also pay a person who elects to receive a cash payment under clause (1) of the preceding sentence an amount that the Secretary determines appropriate to reimburse the person for the costs incurred by the person in the sale of the property if the Secretary determines that such payment will benefit the person and is in the best interest of the Federal Government. Cash payment as compensation for losses sustained in a private sale shall not be made in any case in which the property is encumbered by a mortgage loan guaranteed, insured, or held by a Federal agency unless such mortgage loan is paid, assumed by a purchaser satisfactory to such Federal agency, or otherwise fully satisfied at or prior to the time such cash payment is made. Except in cases of payment as compensation for losses, in the event of foreclosure by mortgagees commenced on or after public announcement of intention to close all or part of the military base or installation the Secretary of Defense may reimburse or pay on account of eligible persons such sums as may be paid or be otherwise due and owing by such persons as the result of such foreclosure, including (without limiting the generality of the foregoing) direct costs of judicial foreclosure, expenses and liabilities enforceable according to the terms of their mortgages or promissory notes, and the amount of debts, if any, established against such persons by a Federal agency in the case of loans made, guaranteed, or insured by such agency following liquidation of the security for such loans.”
 
-    Subsec. (g). [Pub. L. 111–5, § 1001(a)(4)][/us/pl/111/5/s1001/a/4], struck out subsec. (g). Text read as follows: “The Secretary of Defense is authorized to enter into such agreement with the Secretary of Housing and Urban Development as may be appropriate for the purposes of economy and efficiency of administration of this section. Such agreement may provide authority to the Secretary of Housing and Urban Development and his designee to make any or all of the determinations and take any or all of the actions which the Secretary of Defense is authorized to undertake pursuant to the preceding provisions of this section. Any such determinations shall be entitled to finality to the same extent as if made by the Secretary of Defense, and, in event the Secretaries of Defense and Housing and Urban Development so elect, the fund established pursuant to subsection (d) of this section shall be available to the Secretary of Housing and Urban Development to carry out the purposes thereof.”
+    Subsec. (g). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(4), struck out subsec. (g). Text read as follows: “The Secretary of Defense is authorized to enter into such agreement with the Secretary of Housing and Urban Development as may be appropriate for the purposes of economy and efficiency of administration of this section. Such agreement may provide authority to the Secretary of Housing and Urban Development and his designee to make any or all of the determinations and take any or all of the actions which the Secretary of Defense is authorized to undertake pursuant to the preceding provisions of this section. Any such determinations shall be entitled to finality to the same extent as if made by the Secretary of Defense, and, in event the Secretaries of Defense and Housing and Urban Development so elect, the fund established pursuant to subsection (d) of this section shall be available to the Secretary of Housing and Urban Development to carry out the purposes thereof.”
 
-    Subsec. (l). [Pub. L. 111–5, § 1001(a)(5)][/us/pl/111/5/s1001/a/5], substituted “(a)(1)(A)(ii)” for “(a)(2)”.
+    Subsec. (l). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(5), substituted “(a)(1)(A)(ii)” for “(a)(2)”.
 
-    Subsec. (m). [Pub. L. 111–5, § 1001(a)(6)][/us/pl/111/5/s1001/a/6], substituted “subsection (a)(1)” for “this section”.
+    Subsec. (m). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(6), substituted “subsection (a)(1)” for “this section”.
 
-    Subsec. (n)(1). [Pub. L. 111–5, § 1001(a)(7)(A)][/us/pl/111/5/s1001/a/7/A], which directed substitution of “subsection (a)(1)” for “this section”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+    Subsec. (n)(1). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(7)(A), which directed substitution of “subsection (a)(1)” for “this section”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-    Subsec. (n)(2). [Pub. L. 111–5, § 1001(a)(7)(B)][/us/pl/111/5/s1001/a/7/B], substituted “subsection (a)(1)” for “this section”.
+    Subsec. (n)(2). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(7)(B), substituted “subsection (a)(1)” for “this section”.
 
-    Subsec. (o)(1), (2). [Pub. L. 111–5, § 1001(a)(8)(A)][/us/pl/111/5/s1001/a/8/A], (B), substituted “subsection (a)(1)” for “this section”.
+    Subsec. (o)(1), (2). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(8)(A), (B), substituted “subsection (a)(1)” for “this section”.
 
-    Subsec. (o)(4). [Pub. L. 111–5, § 1001(a)(8)(C)][/us/pl/111/5/s1001/a/8/C], struck out par. (4) which defined “nonappropriated fund instrumentality employee” and “civilian employee”.
+    Subsec. (o)(4). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(8)(C), struck out par. (4) which defined “nonappropriated fund instrumentality employee” and “civilian employee”.
 
-    Subsec. (p). [Pub. L. 111–5, § 1001(a)(9)][/us/pl/111/5/s1001/a/9], added subsec. (p).
+    Subsec. (p). [Pub. L. 111–5][/us/pl/111/5], § 1001(a)(9), added subsec. (p).
 
     1994—Subsec. (c). [Pub. L. 103–337][/us/pl/103/337] inserted after first sentence “The Secretary may also pay a person who elects to receive a cash payment under clause (1) of the preceding sentence an amount that the Secretary determines appropriate to reimburse the person for the costs incurred by the person in the sale of the property if the Secretary determines that such payment will benefit the person and is in the best interest of the Federal Government.”
 
     1992—Subsec. (a)(1). [Pub. L. 102–484][/us/pl/102/484] substituted “member of the Armed Forces of the United States” for “serviceman”.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–190, § 2823(b)(1)(A)][/us/pl/102/190/s2823/b/1/A], which directed the substitution of “member of the Armed Forces of the United States” for “servicemen” could not be executed because the word “servicemen” did not appear. See 1992 Amendment note above.
+    1991—Subsec. (a)(1). [Pub. L. 102–190][/us/pl/102/190], § 2823(b)(1)(A), which directed the substitution of “member of the Armed Forces of the United States” for “servicemen” could not be executed because the word “servicemen” did not appear. See 1992 Amendment note above.
 
-    Subsec. (a)(2). [Pub. L. 102–190, § 2823(b)(1)(B)][/us/pl/102/190/s2823/b/1/B], inserted before semicolon “or, in the case of a member of the Armed Forces not assigned to that base or installation at the time of public announcement of such closing, will prevent any reassignment of such member to the base or installation”.
+    Subsec. (a)(2). [Pub. L. 102–190][/us/pl/102/190], § 2823(b)(1)(B), inserted before semicolon “or, in the case of a member of the Armed Forces not assigned to that base or installation at the time of public announcement of such closing, will prevent any reassignment of such member to the base or installation”.
 
-    Subsec. (b). [Pub. L. 102–190, § 2823(a)][/us/pl/102/190/s2823/a], (b)(2), (3), substituted pars. (1) to (3) for former introductory provisions and pars. (1) to (3); designated first proviso of subsec. (b) as par. (4) and substituted “At” for “Provided, That, at”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted period for colon at end of subpar. (B); and designated second proviso of subsec. (b) as par. (5) and substituted “As” for “Provided further, That as” and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively. Prior to amendment, former introductory provisions and pars. (1) to (3) read as follows: “In order to be eligible for the benefits of this section such employees or military personnel must be or have been—
+    Subsec. (b). [Pub. L. 102–190][/us/pl/102/190], § 2823(a), (b)(2), (3), substituted pars. (1) to (3) for former introductory provisions and pars. (1) to (3); designated first proviso of subsec. (b) as par. (4) and substituted “At” for “Provided, That, at”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted period for colon at end of subpar. (B); and designated second proviso of subsec. (b) as par. (5) and substituted “As” for “Provided further, That as” and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively. Prior to amendment, former introductory provisions and pars. (1) to (3) read as follows: “In order to be eligible for the benefits of this section such employees or military personnel must be or have been—
 
     “(1) assigned to or employed at or in connection with the installation or activity at the time of public announcement of the closure action, or employed by a nonappropriated fund instrumentality operated in connection with such base or installation,
 
@@ -333,19 +333,19 @@
 
     “(3) transferred from the installation or activity on an overseas tour unaccompanied by dependents within fifteen months prior to public announcement of the closure action:”.
 
-    Subsec. (l). [Pub. L. 102–190, § 2823(b)(4)][/us/pl/102/190/s2823/b/4], substituted “subsection (b)(5)” for “the second proviso of subsection (b)”.
+    Subsec. (l). [Pub. L. 102–190][/us/pl/102/190], § 2823(b)(4), substituted “subsection (b)(5)” for “the second proviso of subsection (b)”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–510, § 331(1)][/us/pl/101/510/s331/1], inserted “, a nonappropriated fund instrumentality employee employed at a nonappropriated fund instrumentality operated in connection with such base or installation,” after “limitation)”.
+    1990—Subsec. (a)(1). [Pub. L. 101–510][/us/pl/101/510], § 331(1), inserted “, a nonappropriated fund instrumentality employee employed at a nonappropriated fund instrumentality operated in connection with such base or installation,” after “limitation)”.
 
-    Subsec. (b)(1). [Pub. L. 101–510, § 331(2)][/us/pl/101/510/s331/2], inserted at end “or employed by a nonappropriated fund instrumentality operated in connection with such base or installation,”.
+    Subsec. (b)(1). [Pub. L. 101–510][/us/pl/101/510], § 331(2), inserted at end “or employed by a nonappropriated fund instrumentality operated in connection with such base or installation,”.
 
-    Subsec. (k). [Pub. L. 101–510, § 331(3)][/us/pl/101/510/s331/3], substituted “(n), and (o)” for “and (n)”.
+    Subsec. (k). [Pub. L. 101–510][/us/pl/101/510], § 331(3), substituted “(n), and (o)” for “and (n)”.
 
-    Subsec. (o). [Pub. L. 101–510, § 331(4)][/us/pl/101/510/s331/4], added subsec. (o).
+    Subsec. (o). [Pub. L. 101–510][/us/pl/101/510], § 331(4), added subsec. (o).
 
-    1988—Subsec. (k). [Pub. L. 100–448, § 11(1)][/us/pl/100/448/s11/1], substituted “(c), and (n)” for “and (c)”.
+    1988—Subsec. (k). [Pub. L. 100–448][/us/pl/100/448], § 11(1), substituted “(c), and (n)” for “and (c)”.
 
-    Subsec. (n). [Pub. L. 100–448, § 11(2)][/us/pl/100/448/s11/2], added subsec. (n).
+    Subsec. (n). [Pub. L. 100–448][/us/pl/100/448], § 11(2), added subsec. (n).
 
     1973—Subsec. (m). [Pub. L. 93–166][/us/pl/93/166] added subsec. (m).
 
@@ -357,13 +357,13 @@
 
     Subsec. (k). [Pub. L. 91–511][/us/pl/91/511] added subsec. (k).
 
-    1969—Subsec. (c). [Pub. L. 91–142, § 602(a)][/us/pl/91/142/s602/a], struck out “and prior to the one hundred and twentieth day after November 3, 1966,” after “installation” in third sentence.
+    1969—Subsec. (c). [Pub. L. 91–142][/us/pl/91/142], § 602(a), struck out “and prior to the one hundred and twentieth day after November 3, 1966,” after “installation” in third sentence.
 
-    Subsec. (d). [Pub. L. 91–142, § 602(b)][/us/pl/91/142/s602/b], excluded acquisition of foreign properties under this section.
+    Subsec. (d). [Pub. L. 91–142][/us/pl/91/142], § 602(b), excluded acquisition of foreign properties under this section.
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–511, title VI, § 612][/us/pl/91/511/s612], Oct. 26, 1970, [84 Stat. 1225][/us/stat/84/1225], provided that the amendment made by that section is effective Oct. 28, 1969.
+    [Pub. L. 91–511, title VI][/us/pl/91/511/tVI], § 612, Oct. 26, 1970, [84 Stat. 1225][/us/stat/84/1225], provided that the amendment made by that section is effective Oct. 28, 1969.
 
  __Transfer of Functions__ 
 
@@ -371,7 +371,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3371.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
+[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3372 _us_usc_t42_s3373.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
 
 ----------
 ----------
@@ -379,71 +379,71 @@
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2662
-[/us/pl/111/5/s1001/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F4
+[/us/pl/111/5/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtX
 [/us/stat/123/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F197
 [/us/usc/t10/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa
 [/us/usc/t5/s2105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fa
-[/us/pl/89/754/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs1013
+[/us/pl/89/754/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtX
 [/us/stat/80/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1290
-[/us/pl/91/142/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F142%2Fs602
+[/us/pl/91/142/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F142%2FtVI
 [/us/stat/83/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F313
-[/us/pl/91/511/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F511%2Fs612
+[/us/pl/91/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F511%2FtVI
 [/us/stat/84/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1225
-[/us/pl/92/545/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545%2Fs601
+[/us/pl/92/545/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545%2FtVI
 [/us/stat/86/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1150
-[/us/pl/93/166/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F166%2Fs513%2Fb
+[/us/pl/93/166/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F166%2FtV
 [/us/stat/87/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F679
-[/us/pl/100/448/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs11
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1842
-[/us/pl/101/510/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs331
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1535
-[/us/pl/102/190/s2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2823
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1547
-[/us/pl/102/484/s1054/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fi
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
-[/us/pl/103/337/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2805
+[/us/pl/103/337/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdB%2FtXXVIII
 [/us/stat/108/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3053
-[/us/pl/111/5/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa
+[/us/pl/111/5/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtX
 [/us/stat/123/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F194
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1808
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t42/s1594i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1594i
-[/us/pl/97/214/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs7%2F3
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F173
 [/us/usc/t12/s1735h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735h
-[/us/pl/111/5/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fb
-[/us/pl/111/5/s1001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F1
-[/us/pl/111/5/s1001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F2
-[/us/pl/111/5/s1001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F3
-[/us/pl/111/5/s1001/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F4
-[/us/pl/111/5/s1001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F5
-[/us/pl/111/5/s1001/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F6
-[/us/pl/111/5/s1001/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F7%2FA
-[/us/pl/111/5/s1001/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F7%2FB
-[/us/pl/111/5/s1001/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F8%2FA
-[/us/pl/111/5/s1001/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F8%2FC
-[/us/pl/111/5/s1001/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fa%2F9
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/102/190/s2823/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2823%2Fb%2F1%2FA
-[/us/pl/102/190/s2823/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2823%2Fb%2F1%2FB
-[/us/pl/102/190/s2823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2823%2Fa
-[/us/pl/102/190/s2823/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2823%2Fb%2F4
-[/us/pl/101/510/s331/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs331%2F1
-[/us/pl/101/510/s331/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs331%2F2
-[/us/pl/101/510/s331/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs331%2F3
-[/us/pl/101/510/s331/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs331%2F4
-[/us/pl/100/448/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs11%2F1
-[/us/pl/100/448/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs11%2F2
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/pl/93/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F166
 [/us/pl/92/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545
 [/us/pl/92/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545
 [/us/pl/91/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F511
 [/us/pl/91/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F511
-[/us/pl/91/142/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F142%2Fs602%2Fa
-[/us/pl/91/142/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F142%2Fs602%2Fb
-[/us/pl/91/511/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F511%2Fs612
+[/us/pl/91/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F142
+[/us/pl/91/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F142
+[/us/pl/91/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F511%2FtVI
 [/us/stat/84/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1225
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

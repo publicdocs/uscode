@@ -17,7 +17,7 @@
 
     All departments, agencies, officers, and employees of the United States shall enforce the Compact and cooperate with one another and with all Party States in enforcing the Compact and effectuating its purposes. For the Federal Government, the Attorney General shall make such rules, prescribe such instructions, and take such other actions as may be necessary to carry out the Compact and this subchapter.
 
-([Pub. L. 105–251, title II, § 216][/us/pl/105/251/s216], Oct. 9, 1998, [112 Stat. 1875][/us/stat/112/1875].)
+([Pub. L. 105–251, title II][/us/pl/105/251/tII], § 216, Oct. 9, 1998, [112 Stat. 1875][/us/stat/112/1875].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/251/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2Fs216
+[/us/pl/105/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251%2FtII
 [/us/stat/112/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1875
 
 

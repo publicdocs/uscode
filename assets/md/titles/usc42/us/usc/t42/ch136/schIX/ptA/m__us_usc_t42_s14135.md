@@ -373,7 +373,7 @@
 
             In this subsection, the terms “awaiting testing” and “possession” have the meanings given those terms in subsection (n).
 
-([Pub. L. 106–546, § 2][/us/pl/106/546/s2], Dec. 19, 2000, [114 Stat. 2726][/us/stat/114/2726]; [Pub. L. 108–405, title II][/us/pl/108/405], §§ 202, 206, Oct. 30, 2004, [118 Stat. 2266][/us/stat/118/2266], 2272; [Pub. L. 109–162, title X, § 1003][/us/pl/109/162/s1003], Jan. 5, 2006, [119 Stat. 3085][/us/stat/119/3085]; [Pub. L. 110–360, § 2][/us/pl/110/360/s2], Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008]; [Pub. L. 112–253, § 6][/us/pl/112/253/s6], Jan. 10, 2013, [126 Stat. 2409][/us/stat/126/2409]; [Pub. L. 113–4, title X][/us/pl/113/4], §§ 1002, 1004, 1006, Mar. 7, 2013, [127 Stat. 127][/us/stat/127/127], 131, 134; [Pub. L. 113–182, § 2][/us/pl/113/182/s2], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
+([Pub. L. 106–546][/us/pl/106/546], § 2, Dec. 19, 2000, [114 Stat. 2726][/us/stat/114/2726]; [Pub. L. 108–405, title II][/us/pl/108/405/tII], §§ 202, 206, Oct. 30, 2004, [118 Stat. 2266][/us/stat/118/2266], 2272; [Pub. L. 109–162, title X][/us/pl/109/162/tX], § 1003, Jan. 5, 2006, [119 Stat. 3085][/us/stat/119/3085]; [Pub. L. 110–360][/us/pl/110/360], § 2, Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008]; [Pub. L. 112–253][/us/pl/112/253], § 6, Jan. 10, 2013, [126 Stat. 2409][/us/stat/126/2409]; [Pub. L. 113–4, title X][/us/pl/113/4/tX], §§ 1002, 1004, 1006, Mar. 7, 2013, [127 Stat. 127][/us/stat/127/127], 131, 134; [Pub. L. 113–182][/us/pl/113/182], § 2, Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
 
  __Amendment of Section__ 
 
@@ -391,35 +391,35 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(3)(B). [Pub. L. 113–182, § 2(1)(A)][/us/pl/113/182/s2/1/A], substituted “2014 through 2019” for “2010 through 2018”.
+    2014—Subsec. (c)(3)(B). [Pub. L. 113–182][/us/pl/113/182], § 2(1)(A), substituted “2014 through 2019” for “2010 through 2018”.
 
-    Subsec. (c)(3)(C). [Pub. L. 113–182, § 2(1)(B)][/us/pl/113/182/s2/1/B], substituted “2019” for “2018”.
+    Subsec. (c)(3)(C). [Pub. L. 113–182][/us/pl/113/182], § 2(1)(B), substituted “2019” for “2018”.
 
-    Subsec. (j). [Pub. L. 113–182, § 2(2)][/us/pl/113/182/s2/2], substituted “2015 through 2019” for “2009 through 2014”.
+    Subsec. (j). [Pub. L. 113–182][/us/pl/113/182], § 2(2), substituted “2015 through 2019” for “2009 through 2014”.
 
-    2013—Subsec. (a)(6). [Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out par. (6) which read as follows: “To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.” See Termination Date of 2013 Amendment note below.
+    2013—Subsec. (a)(6). [Pub. L. 113–4][/us/pl/113/4], § 1006, struck out par. (6) which read as follows: “To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.” See Termination Date of 2013 Amendment note below.
 
     [Pub. L. 112–253][/us/pl/112/253] added par. (6).
 
-    Subsec. (a)(7), (8). [Pub. L. 113–4, § 1002(1)][/us/pl/113/4/s1002/1], added pars. (7) and (8).
+    Subsec. (a)(7), (8). [Pub. L. 113–4][/us/pl/113/4], § 1002(1), added pars. (7) and (8).
 
-    Subsec. (c)(3)(B). [Pub. L. 113–4, § 1004(a)][/us/pl/113/4/s1004/a], substituted “2018” for “2014”.
+    Subsec. (c)(3)(B). [Pub. L. 113–4][/us/pl/113/4], § 1004(a), substituted “2018” for “2014”.
 
-    Subsec. (c)(3)(C). [Pub. L. 113–4, § 1004(b)][/us/pl/113/4/s1004/b], added subpar. (C).
+    Subsec. (c)(3)(C). [Pub. L. 113–4][/us/pl/113/4], § 1004(b), added subpar. (C).
 
-    Subsec. (c)(4). [Pub. L. 113–4, § 1002(2)][/us/pl/113/4/s1002/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 113–4][/us/pl/113/4], § 1002(2), added par. (4).
 
-    Subsec. (n).[Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs. See Termination Date of 2013 Amendment note below.
+    Subsec. (n).[Pub. L. 113–4][/us/pl/113/4], § 1006, struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs. See Termination Date of 2013 Amendment note below.
 
-    [Pub. L. 113–4, § 1002(3)][/us/pl/113/4/s1002/3], added subsec. (n).
+    [Pub. L. 113–4][/us/pl/113/4], § 1002(3), added subsec. (n).
 
-    Subsec. (o). [Pub. L. 113–4, § 1002(3)][/us/pl/113/4/s1002/3], added subsec. (o).
+    Subsec. (o). [Pub. L. 113–4][/us/pl/113/4], § 1002(3), added subsec. (o).
 
-    2008—Subsec. (c)(3). [Pub. L. 110–360, § 2(1)(B)][/us/pl/110/360/s2/1/B], which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
+    2008—Subsec. (c)(3). [Pub. L. 110–360][/us/pl/110/360], § 2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
 
-    Subsec. (c)(3)(A). [Pub. L. 110–360, § 2(1)(A)][/us/pl/110/360/s2/1/A], struck out subpar. (A) which read as follows: “For fiscal year 2005, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
+    Subsec. (c)(3)(A). [Pub. L. 110–360][/us/pl/110/360], § 2(1)(A), struck out subpar. (A) which read as follows: “For fiscal year 2005, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
 
-    Subsec. (c)(3)(B) to (D). [Pub. L. 110–360, § 2(1)(A)][/us/pl/110/360/s2/1/A], (C), added subpar. (B) and struck out former subpars. (B) to (D) which read as follows:
+    Subsec. (c)(3)(B) to (D). [Pub. L. 110–360][/us/pl/110/360], § 2(1)(A), (C), added subpar. (B) and struck out former subpars. (B) to (D) which read as follows:
 
     “(B) For fiscal year 2006, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
 
@@ -427,57 +427,57 @@
 
     “(D) For fiscal year 2008, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
 
-    Subsec. (j). [Pub. L. 110–360, § 2(2)][/us/pl/110/360/s2/2], amended subsec. (j) generally. Prior to amendment, subsec. (j) authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2005 through 2009.
+    Subsec. (j). [Pub. L. 110–360][/us/pl/110/360], § 2(2), amended subsec. (j) generally. Prior to amendment, subsec. (j) authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2005 through 2009.
 
     2006—Subsec. (a)(1). [Pub. L. 109–162][/us/pl/109/162] substituted “collected under applicable legal authority” for “taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)”.
 
-    2004—[Pub. L. 108–405, § 202(a)(1)][/us/pl/108/405/s202/a/1], substituted “The Debbie Smith DNA Backlog Grant Program” for “Authorization of grants” in section catchline.
+    2004—[Pub. L. 108–405][/us/pl/108/405], § 202(a)(1), substituted “The Debbie Smith DNA Backlog Grant Program” for “Authorization of grants” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–405, § 202(a)(2)(A)][/us/pl/108/405/s202/a/2/A], in introductory provisions, inserted “or units of local government” after “eligible States” and “or unit of local government” after “State”.
+    Subsec. (a). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(2)(A), in introductory provisions, inserted “or units of local government” after “eligible States” and “or unit of local government” after “State”.
 
-    Subsec. (a)(2). [Pub. L. 108–405, § 202(a)(2)(B)][/us/pl/108/405/s202/a/2/B], inserted “, including samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect” before period at end.
+    Subsec. (a)(2). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(2)(B), inserted “, including samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect” before period at end.
 
-    Subsec. (a)(3). [Pub. L. 108–405, § 202(a)(2)(C)][/us/pl/108/405/s202/a/2/C], (b)(1)(A), struck out “within the State” after “local government” and inserted “(1) or” before “(2)”.
+    Subsec. (a)(3). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(2)(C), (b)(1)(A), struck out “within the State” after “local government” and inserted “(1) or” before “(2)”.
 
-    Subsec. (a)(4), (5). [Pub. L. 108–405, § 202(b)(1)(B)][/us/pl/108/405/s202/b/1/B], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 108–405][/us/pl/108/405], § 202(b)(1)(B), added pars. (4) and (5).
 
-    Subsec. (b). [Pub. L. 108–405, § 202(a)(3)(A)][/us/pl/108/405/s202/a/3/A], in introductory provisions, inserted “or unit of local government” after “State” in two places and “, as required by the Attorney General” after “application shall”.
+    Subsec. (b). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(3)(A), in introductory provisions, inserted “or unit of local government” after “State” in two places and “, as required by the Attorney General” after “application shall”.
 
-    Subsec. (b)(1). [Pub. L. 108–405, § 202(a)(3)(B)][/us/pl/108/405/s202/a/3/B], inserted “or unit of local government” after “State”.
+    Subsec. (b)(1). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(3)(B), inserted “or unit of local government” after “State”.
 
-    Subsec. (b)(3). [Pub. L. 108–405, § 202(a)(3)(C)][/us/pl/108/405/s202/a/3/C], inserted “or unit of local government” after “that the State”.
+    Subsec. (b)(3). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(3)(C), inserted “or unit of local government” after “that the State”.
 
-    Subsec. (b)(4). [Pub. L. 108–405, § 202(a)(3)(D)][/us/pl/108/405/s202/a/3/D], inserted “or unit of local government” after “State” and struck out “and” at end.
+    Subsec. (b)(4). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(3)(D), inserted “or unit of local government” after “State” and struck out “and” at end.
 
-    Subsec. (b)(5). [Pub. L. 108–405, § 202(a)(3)(E)][/us/pl/108/405/s202/a/3/E], inserted “or unit of local government” after “State” and substituted semicolon for period at end.
+    Subsec. (b)(5). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(3)(E), inserted “or unit of local government” after “State” and substituted semicolon for period at end.
 
-    Subsec. (b)(6). [Pub. L. 108–405, § 202(a)(3)(F)][/us/pl/108/405/s202/a/3/F], added par. (6).
+    Subsec. (b)(6). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(3)(F), added par. (6).
 
-    Subsec. (b)(7). [Pub. L. 108–405, § 202(b)(2)][/us/pl/108/405/s202/b/2], added par. (7).
+    Subsec. (b)(7). [Pub. L. 108–405][/us/pl/108/405], § 202(b)(2), added par. (7).
 
-    Subsec. (c). [Pub. L. 108–405, § 202(b)(3)][/us/pl/108/405/s202/b/3], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects.”
+    Subsec. (c). [Pub. L. 108–405][/us/pl/108/405], § 202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects.”
 
-    Subsec. (d)(1). [Pub. L. 108–405, § 202(a)(4)(A)][/us/pl/108/405/s202/a/4/A], substituted “A plan pursuant to subsection (b)(1) of this section” for “The plan” in introductory provisions and struck out “within the State” after “local government” in subpars. (A) and (B).
+    Subsec. (d)(1). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(4)(A), substituted “A plan pursuant to subsection (b)(1) of this section” for “The plan” in introductory provisions and struck out “within the State” after “local government” in subpars. (A) and (B).
 
-    Subsec. (d)(2)(A). [Pub. L. 108–405, § 202(a)(4)(B)][/us/pl/108/405/s202/a/4/B], inserted “and units of local government” after “States”.
+    Subsec. (d)(2)(A). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(4)(B), inserted “and units of local government” after “States”.
 
-    Subsec. (d)(3). [Pub. L. 108–405, § 206][/us/pl/108/405/s206], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “A grant for the purposes specified in paragraph (1) or (2) of subsection (a) of this section may be made in the form of a voucher for laboratory services, which may be redeemed at a laboratory operated by a private entity approved by the Attorney General that satisfies quality assurance standards. The Attorney General may make payment to such a laboratory for the analysis of DNA samples using amounts authorized for those purposes under subsection (j) of this section.”
+    Subsec. (d)(3). [Pub. L. 108–405][/us/pl/108/405], § 206, amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “A grant for the purposes specified in paragraph (1) or (2) of subsection (a) of this section may be made in the form of a voucher for laboratory services, which may be redeemed at a laboratory operated by a private entity approved by the Attorney General that satisfies quality assurance standards. The Attorney General may make payment to such a laboratory for the analysis of DNA samples using amounts authorized for those purposes under subsection (j) of this section.”
 
-    Subsec. (e)(1). [Pub. L. 108–405, § 202(a)(5)(A)][/us/pl/108/405/s202/a/5/A], inserted “or local government” after “State” in two places.
+    Subsec. (e)(1). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(5)(A), inserted “or local government” after “State” in two places.
 
-    Subsec. (e)(2). [Pub. L. 108–405, § 202(a)(5)(B)][/us/pl/108/405/s202/a/5/B], inserted “or unit of local government” after “State”.
+    Subsec. (e)(2). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(5)(B), inserted “or unit of local government” after “State”.
 
-    Subsec. (f). [Pub. L. 108–405, § 202(a)(6)][/us/pl/108/405/s202/a/6], inserted “or unit of local government” after “State” in introductory provisions.
+    Subsec. (f). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(6), inserted “or unit of local government” after “State” in introductory provisions.
 
-    Subsec. (g)(1). [Pub. L. 108–405, § 202(a)(7)(A)][/us/pl/108/405/s202/a/7/A], inserted “or unit of local government” after “State”.
+    Subsec. (g)(1). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(7)(A), inserted “or unit of local government” after “State”.
 
-    Subsec. (g)(2). [Pub. L. 108–405, § 202(a)(7)(B)][/us/pl/108/405/s202/a/7/B], inserted “or units of local government” after “States”.
+    Subsec. (g)(2). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(7)(B), inserted “or units of local government” after “States”.
 
-    Subsec. (g)(3). [Pub. L. 108–405, § 202(b)(4)][/us/pl/108/405/s202/b/4], added par. (3).
+    Subsec. (g)(3). [Pub. L. 108–405][/us/pl/108/405], § 202(b)(4), added par. (3).
 
-    Subsec. (h). [Pub. L. 108–405, § 202(a)(8)][/us/pl/108/405/s202/a/8], inserted “or unit of local government” after “State” in pars. (1) and (2).
+    Subsec. (h). [Pub. L. 108–405][/us/pl/108/405], § 202(a)(8), inserted “or unit of local government” after “State” in pars. (1) and (2).
 
-    Subsec. (j)(1) to (5). [Pub. L. 108–405, § 202(b)(5)][/us/pl/108/405/s202/b/5], substituted pars. (1) to (5) for former pars. (1) and (2) which read as follows:
+    Subsec. (j)(1) to (5). [Pub. L. 108–405][/us/pl/108/405], § 202(b)(5), substituted pars. (1) to (5) for former pars. (1) and (2) which read as follows:
 
     “(1) For grants for the purposes specified in paragraph (1) of such subsection—
 
@@ -497,17 +497,17 @@
 
     “(D) $25,000,000 for fiscal year 2004.”
 
-    Subsec. (k) to (m). [Pub. L. 108–405, § 202(b)(6)][/us/pl/108/405/s202/b/6], added subsecs. (k) to (m).
+    Subsec. (k) to (m). [Pub. L. 108–405][/us/pl/108/405], § 202(b)(6), added subsecs. (k) to (m).
 
  __Termination Date of 2013 Amendment__ 
 
-[Pub. L. 113–4, title X, § 1006][/us/pl/113/4/s1006], Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134], provided that: 
+[Pub. L. 113–4, title X][/us/pl/113/4/tX], § 1006, Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134], provided that: 
 
 > “Effective on December 31, 2018, subsections (a)(6) and (n) of section 2 of the DNA Analysis Backlog Elimination Act of 2000 ([42 U.S.C. 14135(a)(6)][/us/usc/t42/s14135/a/6] and (n)) are repealed.”
 
  __Reports to Congress__ 
 
-[Pub. L. 113–4, title X, § 1003][/us/pl/113/4/s1003], Mar. 7, 2013, [127 Stat. 131][/us/stat/127/131], provided that: 
+[Pub. L. 113–4, title X][/us/pl/113/4/tX], § 1003, Mar. 7, 2013, [127 Stat. 131][/us/stat/127/131], provided that: 
 
 > “Not later than 90 days after the end of each fiscal year for which a grant is made for the purpose described in section 2(a)(7) of the DNA Analysis Backlog Elimination Act of 2000 \[[42 U.S.C. 14135(a)(7)][/us/usc/t42/s14135/a/7]\], as amended by section 1002, the Attorney General shall submit to Congress a report that—
 
@@ -519,7 +519,7 @@
 
  __Oversight and Accountability__ 
 
-[Pub. L. 113–4, title X, § 1005][/us/pl/113/4/s1005], Mar. 7, 2013, [127 Stat. 132][/us/stat/127/132], provided that: 
+[Pub. L. 113–4, title X][/us/pl/113/4/tX], § 1005, Mar. 7, 2013, [127 Stat. 132][/us/stat/127/132], provided that: 
 
 > “All grants awarded by the Department of Justice that are authorized under this title \[amending this section and enacting provisions set out as notes under this section and [section 13701 of this title][/us/usc/t42/s13701]\] shall be subject to the following:
 
@@ -599,7 +599,7 @@
 
  __Sense of Congress Regarding the Obligation of Grantee States to Ensure Access to Post-Conviction DNA Testing and Competent Counsel in Capital Cases__ 
 
-[Pub. L. 106–561, § 4][/us/pl/106/561/s4], Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791], provided that:
+[Pub. L. 106–561][/us/pl/106/561], § 4, Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -645,7 +645,7 @@
 
 >         “(2) Congress should work with the States to improve the quality of legal representation in capital cases through the establishment of standards that will assure the timely appointment of competent counsel with adequate resources to represent defendants in capital cases at each stage of the proceedings.”
 
-    [Pub. L. 106–546, § 11][/us/pl/106/546/s11], Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735], enacted provisions substantially identical to those enacted by [Pub. L. 106–561, § 4][/us/pl/106/561/s4], set out above.
+    [Pub. L. 106–546][/us/pl/106/546], § 11, Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735], enacted provisions substantially identical to those enacted by [Pub. L. 106–561][/us/pl/106/561], § 4, set out above.
 
 ----------
 
@@ -657,19 +657,19 @@
 [/us/usc/t42/s14132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14132%2Fb%2F3
 [/us/usc/t42/s14132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14132%2Fb
 [/us/usc/t42/s14131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14131
-[/us/pl/106/546/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs2
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2726
-[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2266
-[/us/pl/109/162/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1003
+[/us/pl/109/162/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtX
 [/us/stat/119/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3085
-[/us/pl/110/360/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs2
+[/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
 [/us/stat/122/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4008
-[/us/pl/112/253/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253%2Fs6
+[/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2409
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtX
 [/us/stat/127/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F127
-[/us/pl/113/182/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
 [/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
 [/us/pl/113/4/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1006
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
@@ -679,66 +679,66 @@
 [/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2726
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
-[/us/pl/113/182/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2%2F1%2FA
-[/us/pl/113/182/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2%2F1%2FB
-[/us/pl/113/182/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2%2F2
-[/us/pl/113/4/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1006
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
-[/us/pl/113/4/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1002%2F1
-[/us/pl/113/4/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1004%2Fa
-[/us/pl/113/4/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1004%2Fb
-[/us/pl/113/4/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1002%2F2
-[/us/pl/113/4/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1006
-[/us/pl/113/4/s1002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1002%2F3
-[/us/pl/113/4/s1002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1002%2F3
-[/us/pl/110/360/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs2%2F1%2FB
-[/us/pl/110/360/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs2%2F1%2FA
-[/us/pl/110/360/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs2%2F1%2FA
-[/us/pl/110/360/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs2%2F2
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
+[/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
+[/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
+[/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/108/405/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F1
-[/us/pl/108/405/s202/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F2%2FA
-[/us/pl/108/405/s202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F2%2FB
-[/us/pl/108/405/s202/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F2%2FC
-[/us/pl/108/405/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fb%2F1%2FB
-[/us/pl/108/405/s202/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F3%2FA
-[/us/pl/108/405/s202/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F3%2FB
-[/us/pl/108/405/s202/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F3%2FC
-[/us/pl/108/405/s202/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F3%2FD
-[/us/pl/108/405/s202/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F3%2FE
-[/us/pl/108/405/s202/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F3%2FF
-[/us/pl/108/405/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fb%2F2
-[/us/pl/108/405/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fb%2F3
-[/us/pl/108/405/s202/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F4%2FA
-[/us/pl/108/405/s202/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F4%2FB
-[/us/pl/108/405/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs206
-[/us/pl/108/405/s202/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F5%2FA
-[/us/pl/108/405/s202/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F5%2FB
-[/us/pl/108/405/s202/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F6
-[/us/pl/108/405/s202/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F7%2FA
-[/us/pl/108/405/s202/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F7%2FB
-[/us/pl/108/405/s202/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fb%2F4
-[/us/pl/108/405/s202/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fa%2F8
-[/us/pl/108/405/s202/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fb%2F5
-[/us/pl/108/405/s202/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs202%2Fb%2F6
-[/us/pl/113/4/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1006
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
+[/us/pl/113/4/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtX
 [/us/stat/127/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F134
 [/us/usc/t42/s14135/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135%2Fa%2F6
-[/us/pl/113/4/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1003
+[/us/pl/113/4/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtX
 [/us/stat/127/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F131
 [/us/usc/t42/s14135/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135%2Fa%2F7
 [/us/usc/t42/s14135/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135%2Fn%2F3
 [/us/usc/t42/s14135/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135%2Fn%2F4
-[/us/pl/113/4/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1005
+[/us/pl/113/4/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtX
 [/us/stat/127/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F132
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs511%2Fa
-[/us/pl/106/561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs4
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2791
-[/us/pl/106/546/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs11
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2735
-[/us/pl/106/561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs4
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 
 

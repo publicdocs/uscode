@@ -25,7 +25,7 @@
 
     (d) “School board” means any agency or agencies which administer a system of one or more public schools and any other agency which is responsible for the assignment of students to or within such system.
 
-([Pub. L. 88–352, title IV, § 401][/us/pl/88/352/s401], July 2, 1964, [78 Stat. 246][/us/stat/78/246]; [Pub. L. 92–318, title IX, § 906(a)][/us/pl/92/318/s906/a], June 23, 1972, [86 Stat. 375][/us/stat/86/375]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 88–352, title IV][/us/pl/88/352/tIV], § 401, July 2, 1964, [78 Stat. 246][/us/stat/78/246]; [Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 906(a), June 23, 1972, [86 Stat. 375][/us/stat/86/375]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/88/352/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs401
+[/us/pl/88/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIV
 [/us/stat/78/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F246
-[/us/pl/92/318/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs906%2Fa
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F375
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88

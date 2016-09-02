@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Commission, in accordance with the provisions of [section 2017(a)(2) of this title][/us/usc/t42/s2017/a/2], the sum of $3,000,000 as an initial authorization for fiscal year 1959 for use in a cooperative program of research and development in connection with the types of reactors selected by the Commission and the Community under the joint program. The Commission may enter into contracts for such periods as it deems necessary, but in no event to exceed five years, for the purpose of conducting the research and development program authorized by this section: Provided, That the Community authorizes an equivalent amount for use in the cooperative program of research and development.
 
-([Pub. L. 85–846, § 3][/us/pl/85/846/s3], Aug. 28, 1958, [72 Stat. 1084][/us/stat/72/1084].)
+([Pub. L. 85–846][/us/pl/85/846], § 3, Aug. 28, 1958, [72 Stat. 1084][/us/stat/72/1084].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s2017/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2017%2Fa%2F2
-[/us/pl/85/846/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846%2Fs3
+[/us/pl/85/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846
 [/us/stat/72/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1084
 
 

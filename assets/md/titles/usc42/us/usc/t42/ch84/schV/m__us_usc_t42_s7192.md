@@ -27,7 +27,7 @@
 
         Subject to the provisions of [section 7171(i) of this title][/us/usc/t42/s7171/i] and notwithstanding any other law, the litigation of the Department shall be subject to the supervision of the Attorney General pursuant to chapter 31 of title 28. The Attorney General may authorize any attorney of the Department to conduct any civil litigation of the Department in any Federal court except the Supreme Court.
 
-([Pub. L. 95–91, title V, § 502][/us/pl/95/91/s502], Aug. 4, 1977, [91 Stat. 589][/us/stat/91/589].)
+([Pub. L. 95–91, title V][/us/pl/95/91/tV], § 502, Aug. 4, 1977, [91 Stat. 589][/us/stat/91/589].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s7171/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7171%2Fi
-[/us/pl/95/91/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs502
+[/us/pl/95/91/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtV
 [/us/stat/91/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F589
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

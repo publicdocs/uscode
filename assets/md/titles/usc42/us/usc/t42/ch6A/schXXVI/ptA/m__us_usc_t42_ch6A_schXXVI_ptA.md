@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–417, title I, § 101(2)][/us/pl/109/417/s101/2], Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], substituted “National All-Hazards Preparedness” for “National Preparedness” in heading.
+    2006—[Pub. L. 109–417, title I][/us/pl/109/417/tI], § 101(2), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], substituted “National All-Hazards Preparedness” for “National Preparedness” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/417/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs101%2F2
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2832
 
 

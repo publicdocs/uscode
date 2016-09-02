@@ -23,7 +23,7 @@
 
         The Board shall review and assess the effects on institutions of higher education of the policies of the Foundation regarding the imposition of limitations on the number of proposals that may be submitted by a single institution for programs supported by the Foundation. The Board shall determine whether current policies are well justified and appropriate for the types of programs that limit the number of proposal submissions. Not later than 1 year after August 9, 2007, the Board shall summarize the Board’s findings and any recommendations regarding changes to the current policy on the restriction of proposal submissions in a report to the Committee on Science and Technology of the House of Representatives and to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-([Pub. L. 110–69, title VII, § 7037][/us/pl/110/69/s7037], Aug. 9, 2007, [121 Stat. 714][/us/stat/121/714].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7037, Aug. 9, 2007, [121 Stat. 714][/us/stat/121/714].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7037
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F714
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch142/m__us_usc_t42_ch142.md) | [Next](./../../../..//us/usc/t42/ch143/m__us_usc_t42_s14901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch143)
+[Previous](./../../../..//us/usc/t42/ch142/m__us_usc_t42_s14801...14805.md) | [Next](./../../../..//us/usc/t42/ch143/m__us_usc_t42_s14901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch143)
 
 ## CHAPTER 143—INTERCOUNTRY ADOPTIONS
 
@@ -227,7 +227,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch142/m__us_usc_t42_ch142.md) | [Next](./../../../..//us/usc/t42/ch143/m__us_usc_t42_s14901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch143)
+[Previous](./../../../..//us/usc/t42/ch142/m__us_usc_t42_s14801...14805.md) | [Next](./../../../..//us/usc/t42/ch143/m__us_usc_t42_s14901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch143)
 
 ----------
 ----------

@@ -25,13 +25,13 @@
 
         Any individual director, officer, or agent of a corporation who willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of this chapter, or any rule or order thereunder, shall be subject to penalties under this section without regard to any penalties to which the corporation may be subject, except that no such individual director, officer, or agent shall be subject to imprisonment under [section 8432 of this title][/us/usc/t42/s8432], unless he also knew of noncompliance by the corporation or had received from the Secretary notice of noncompliance by the corporation.
 
-    (c) __Repealed.__  __[__  __Pub. L. 100–42, § 1(c)(18)__  __][/us/pl/100/42/s1/c/18]__  __,__  __May 21, 1987__  __,__  __[__  __101 Stat. 313__  __][/us/stat/101/313]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 100–42__  __][/us/pl/100/42]__  __, § 1(c)(18),__  __May 21, 1987__  __,__  __[__  __101 Stat. 313__  __][/us/stat/101/313]__ 
 
     (d) __Federal agencies__ 
 
         The provisions of sections 8432 and 8433 of this title shall not be construed to apply to any Federal agency or officer or employee thereof acting in his official capacity.
 
-([Pub. L. 95–620, title VII, § 721][/us/pl/95/620/s721], Nov. 9, 1978, [92 Stat. 3333][/us/stat/92/3333]; [Pub. L. 100–42, § 1(c)(18)][/us/pl/100/42/s1/c/18], May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 721, Nov. 9, 1978, [92 Stat. 3333][/us/stat/92/3333]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(18), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
 
  __References in Text__ 
 
@@ -57,11 +57,11 @@
 ----------
 
 [/us/usc/t42/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8432
-[/us/pl/100/42/s1/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F18
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
-[/us/pl/95/620/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs721
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3333
-[/us/pl/100/42/s1/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F18
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

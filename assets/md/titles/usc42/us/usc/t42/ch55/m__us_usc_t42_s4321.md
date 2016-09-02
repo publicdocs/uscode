@@ -17,7 +17,7 @@
 
     The purposes of this chapter are: To declare a national policy which will encourage productive and enjoyable harmony between man and his environment; to promote efforts which will prevent or eliminate damage to the environment and biosphere and stimulate the health and welfare of man; to enrich the understanding of the ecological systems and natural resources important to the Nation; and to establish a Council on Environmental Quality.
 
-([Pub. L. 91–190, § 2][/us/pl/91/190/s2], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852].)
+([Pub. L. 91–190][/us/pl/91/190], § 2, Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852].)
 
  __Short Title__ 
 
@@ -35,7 +35,7 @@ Section 1 [Pub. L. 91–190][/us/pl/91/190] provided:
 
  __Environmental Protection Agency Headquarters__ 
 
-[Pub. L. 112–237, § 2][/us/pl/112/237/s2], Dec. 28, 2012, [126 Stat. 1628][/us/stat/126/1628], provided that:
+[Pub. L. 112–237][/us/pl/112/237], § 2, Dec. 28, 2012, [126 Stat. 1628][/us/stat/126/1628], provided that:
 
 >     “(a)  __Redesignation__  __.—__ 
 
@@ -47,23 +47,23 @@ Section 1 [Pub. L. 91–190][/us/pl/91/190] provided:
 
  __Modification or Replacement of Executive Order No. 13423__ 
 
-[Pub. L. 111–117, div. C, title VII, § 742(b)][/us/pl/111/117/s742/b], Dec. 16, 2009, [123 Stat. 3216][/us/stat/123/3216], provided that: 
+[Pub. L. 111–117, div. C, title VII][/us/pl/111/117/dC/tVII], § 742(b), Dec. 16, 2009, [123 Stat. 3216][/us/stat/123/3216], provided that: 
 
 > “Hereafter, the President may modify or replace Executive Order No. 13423 \[formerly set out below\] if the President determines that a revised or new executive order will achieve equal or better environmental or energy efficiency results.”
 
     \[Pursuant to [section 742(b) of Pub. L. 111–117][/us/pl/111/117/s742/b], set out above, Ex. Ord. No. 13423 was replaced by Ex. Ord. No. 13693, Mar. 19, 2015, 80 F.R. 15871, set out below.\]
 
-    [Pub. L. 111–8, div. D, title VII, § 748][/us/pl/111/8/s748], Mar. 11, 2009, [123 Stat. 693][/us/stat/123/693], which provided that Ex. Ord. No. 13423 (formerly set out below) would remain in effect on and after Mar. 11, 2009, except as otherwise provided by law after Mar. 11, 2009, was repealed by [Pub. L. 111–117, div. C, title VII, § 742(a)][/us/pl/111/117/s742/a], Dec. 16, 2009, [123 Stat. 3216][/us/stat/123/3216].
+    [Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], § 748, Mar. 11, 2009, [123 Stat. 693][/us/stat/123/693], which provided that Ex. Ord. No. 13423 (formerly set out below) would remain in effect on and after Mar. 11, 2009, except as otherwise provided by law after Mar. 11, 2009, was repealed by [Pub. L. 111–117, div. C, title VII][/us/pl/111/117/dC/tVII], § 742(a), Dec. 16, 2009, [123 Stat. 3216][/us/stat/123/3216].
 
  __Necessity of Military Low-Level Flight Training To Protect National Security and Enhance Military Readiness__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 317\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–57, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 317\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–57, provided that: 
 
 > “Nothing in the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) or the regulations implementing such law shall require the Secretary of Defense or the Secretary of a military department to prepare a programmatic, nation-wide environmental impact statement for low-level flight training as a precondition to the use by the Armed Forces of an airspace for the performance of low-level training flights.”
 
  __Pollution Prosecution__ 
 
-[Pub. L. 101–593, title II][/us/pl/101/593], Nov. 16, 1990, [104 Stat. 2962][/us/stat/104/2962], provided that:
+[Pub. L. 101–593, title II][/us/pl/101/593/tII], Nov. 16, 1990, [104 Stat. 2962][/us/stat/104/2962], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -103,7 +103,7 @@ Section 1 [Pub. L. 91–190][/us/pl/91/190] provided:
 
  __REORGANIZATION PLAN NO. 3 OF 1970__ 
 
- __Eff.__  __Dec. 2, 1970__  __, 35 F.R. 15623,__  __[__  __84 Stat. 2086__  __][/us/stat/84/2086]__  __, as amended__  __[__  __Pub. L. 98–80, § 2(a)(2)__  __][/us/pl/98/80/s2/a/2]__  __, (b)(2), (c)(2)(C),__  __Aug. 23, 1983__  __,__  __[__  __97 Stat. 485__  __][/us/stat/97/485]__  __, 486__ 
+ __Eff.__  __Dec. 2, 1970__  __, 35 F.R. 15623,__  __[__  __84 Stat. 2086__  __][/us/stat/84/2086]__  __, as amended__  __[__  __Pub. L. 98–80__  __][/us/pl/98/80]__  __, § 2(a)(2), (b)(2), (c)(2)(C),__  __Aug. 23, 1983__  __,__  __[__  __97 Stat. 485__  __][/us/stat/97/485]__  __, 486__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 9, 1970, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -117,7 +117,7 @@ Section 1 [Pub. L. 91–190][/us/pl/91/190] provided:
 
     (c) There shall be in the Agency a Deputy Administrator of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
-    (d) There shall be in the Agency not to exceed five Assistant Administrators of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. Each Assistant Administrator shall perform such functions as the Administrator shall from time to time assign or delegate. \[As amended [Pub. L. 98–80, § 2(a)(2)][/us/pl/98/80/s2/a/2], (b)(2), (c)(2)(C), Aug. 23, 1983, [97 Stat. 485][/us/stat/97/485], 486.\]
+    (d) There shall be in the Agency not to exceed five Assistant Administrators of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. Each Assistant Administrator shall perform such functions as the Administrator shall from time to time assign or delegate. \[As amended [Pub. L. 98–80][/us/pl/98/80], § 2(a)(2), (b)(2), (c)(2)(C), Aug. 23, 1983, [97 Stat. 485][/us/stat/97/485], 486.\]
 
  __Sec. 2. Transfers to Environmental Protection Agency__ 
 
@@ -2122,7 +2122,7 @@ Sec. 13. Supporting Federal Facility Climate Preparedness and Resilience. The he
 ----------
 ----------
 
-[/us/pl/91/190/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs2
+[/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
@@ -2130,24 +2130,24 @@ Sec. 13. Supporting Federal Facility Climate Preparedness and Resilience. The he
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/112/237/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F237%2Fs2
+[/us/pl/112/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F237
 [/us/stat/126/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1628
-[/us/pl/111/117/s742/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs742%2Fb
+[/us/pl/111/117/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtVII
 [/us/stat/123/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3216
 [/us/pl/111/117/s742/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs742%2Fb
-[/us/pl/111/8/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs748
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F693
-[/us/pl/111/117/s742/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs742%2Fa
+[/us/pl/111/117/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtVII
 [/us/stat/123/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3216
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
+[/us/pl/101/593/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtII
 [/us/stat/104/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2962
 [/us/stat/84/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2086
-[/us/pl/98/80/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80%2Fs2%2Fa%2F2
+[/us/pl/98/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80
 [/us/stat/97/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F485
-[/us/pl/98/80/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80%2Fs2%2Fa%2F2
+[/us/pl/98/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F80
 [/us/stat/97/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F485
 [/us/stat/80/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1608
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251

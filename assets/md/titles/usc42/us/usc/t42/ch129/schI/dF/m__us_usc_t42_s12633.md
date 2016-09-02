@@ -23,7 +23,7 @@
 
         Subsection (a) of this section shall be satisfied, with respect to a particular program, if the aggregate expenditure for such program for the fiscal year in which services are to be provided will not be less than the aggregate expenditure for such program in the previous fiscal year, excluding the amount of Federal assistance provided and any other amounts used to pay the remainder of the costs of programs assisted under this subchapter.
 
-([Pub. L. 101–610, title I, § 173][/us/pl/101/610/s173], Nov. 16, 1990, [104 Stat. 3160][/us/stat/104/3160].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 173, Nov. 16, 1990, [104 Stat. 3160][/us/stat/104/3160].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/610/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs173
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3160
 
 

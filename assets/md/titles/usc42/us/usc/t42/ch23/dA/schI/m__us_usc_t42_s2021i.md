@@ -23,7 +23,7 @@
 
     (3) to the extent practicable, consolidate all required technical and environmental reviews and public hearings.
 
-([Pub. L. 96–573, § 9][/us/pl/96/573/s9], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1859][/us/stat/99/1859].)
+([Pub. L. 96–573][/us/pl/96/573], § 9, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1859][/us/stat/99/1859].)
 
  __Codification__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/96/573/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs9
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1859
 
 

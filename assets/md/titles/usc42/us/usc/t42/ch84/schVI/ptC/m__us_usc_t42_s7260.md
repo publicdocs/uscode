@@ -17,7 +17,7 @@
 
     The Secretary is authorized to establish, alter, consolidate or discontinue and to maintain such State, regional, district, local or other field offices as he may deem to be necessary to carry out functions vested in him.
 
-([Pub. L. 95–91, title VI, § 650][/us/pl/95/91/s650], Aug. 4, 1977, [91 Stat. 601][/us/stat/91/601].)
+([Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 650, Aug. 4, 1977, [91 Stat. 601][/us/stat/91/601].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/91/s650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs650
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F601
 
 

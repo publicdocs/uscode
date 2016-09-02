@@ -27,7 +27,7 @@
 
     (5) the recommendations of the Secretary for statutory and regulatory improvements to the program.
 
-([Pub. L. 101–625, title IV, § 431][/us/pl/101/625/s431], Nov. 28, 1990, [104 Stat. 4172][/us/stat/104/4172]; [Pub. L. 104–66, title I, § 1072(a)][/us/pl/104/66/s1072/a], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 431, Nov. 28, 1990, [104 Stat. 4172][/us/stat/104/4172]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1072(a), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs431
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4172
-[/us/pl/104/66/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1072%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 

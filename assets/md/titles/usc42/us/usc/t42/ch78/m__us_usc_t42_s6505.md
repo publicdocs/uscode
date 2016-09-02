@@ -37,7 +37,7 @@
 
         (3) The Secretary of the Interior shall submit a report, together with the concurring or dissenting views, if any, of any non-Federal representatives of the task force, of the results of such study to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives within three years after April 5, 1976, and shall include in such report his recommendations with respect to the value, best use, and appropriate designation of the lands referred to in paragraph (1).
 
-([Pub. L. 94–258, title I, § 105][/us/pl/94/258/s105], Apr. 5, 1976, [90 Stat. 305][/us/stat/90/305]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 94–258, title I][/us/pl/94/258/tI], § 105, Apr. 5, 1976, [90 Stat. 305][/us/stat/90/305]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Codification__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/94/258/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs105
+[/us/pl/94/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtI
 [/us/stat/90/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F305
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/usc/t42/s6244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6244
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb

@@ -17,7 +17,7 @@
 
     The Department of Justice shall also honor by an appropriate medal such American boy or girl citizens, eighteen years old or under, who, in the opinion of the said Department of Justice, shall have achieved outstanding or unusual recognition for character and service during any given year.
 
-([Aug. 3, 1950, ch. 520, § 2][/us/act/1950-08-03/ch520/s2], [64 Stat. 397][/us/stat/64/397].)
+([Aug. 3, 1950, ch. 520][/us/act/1950-08-03/ch520], § 2, [64 Stat. 397][/us/stat/64/397].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-03/ch520/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520%2Fs2
+[/us/act/1950-08-03/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520
 [/us/stat/64/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F397
 
 

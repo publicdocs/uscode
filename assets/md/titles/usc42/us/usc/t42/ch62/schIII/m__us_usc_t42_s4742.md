@@ -27,7 +27,7 @@
 
         The Office may use appropriations authorized by this chapter to pay the initial additional developmental or overhead costs that are incurred by reason of admittance of State and local government employees to Federal training courses and to reimburse other Federal agencies for such costs.
 
-([Pub. L. 91–648, title III, § 302][/us/pl/91/648/s302], Jan. 5, 1971, [84 Stat. 1916][/us/stat/84/1916]; 1978 Reorg. Plan No. 2, 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–648, title III][/us/pl/91/648/tIII], § 302, Jan. 5, 1971, [84 Stat. 1916][/us/stat/84/1916]; 1978 Reorg. Plan No. 2, 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs302
+[/us/pl/91/648/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIII
 [/us/stat/84/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1916
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648

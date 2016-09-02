@@ -11,48 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch105/schIII/ptII/m__us_usc_t42_ch105_schIII_ptII.md) | [Next](./../../../../../..//us/usc/t42/ch105/schIV/m__us_usc_t42_ch105_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIII%2FptIII)
+[Previous](./../../../../../..//us/usc/t42/ch105/schIII/ptII/m__us_usc_t42_s9863...9865.md) | [Next](./../../../../../..//us/usc/t42/ch105/schIII/ptIII/m__us_usc_t42_s9866...9869.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIII%2FptIII)
 
 #### Part III—General and Administrative Provisions
 
-§§ 9866 to 9869. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 391(w)__  __][/us/pl/103/382/s391/w]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 4025__  __][/us/stat/108/4025]__ 
-
-    Section 9866, [Pub. L. 97–35, title VI, § 667][/us/pl/97/35/s667], as added [Pub. L. 101–501, title II, § 207(a)][/us/pl/101/501/s207/a], Nov. 3, 1990, [104 Stat. 1247][/us/stat/104/1247], related to authorization of appropriations to carry out this subchapter.
-
-    A prior section 9866, [Pub. L. 97–35, title VI, § 667][/us/pl/97/35/s667], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], provided for technical assistance and training, prior to repeal by [Pub. L. 101–501, title II, § 204(b)][/us/pl/101/501/s204/b], Nov. 3, 1990, [104 Stat. 1246][/us/stat/104/1246].
-
-    Section 9867, [Pub. L. 97–35, title VI, § 668][/us/pl/97/35/s668], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511]; [Pub. L. 99–425, title II, § 201(b)][/us/pl/99/425/s201/b], Sept. 30, 1986, [100 Stat. 967][/us/stat/100/967]; [Pub. L. 101–501, title II][/us/pl/101/501], §§ 201(2), 209, Nov. 3, 1990, [104 Stat. 1243][/us/stat/104/1243], 1248, related to special conditions on financial assistance.
-
-    Section 9868, [Pub. L. 97–35, title VI, § 669][/us/pl/97/35/s669], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], related to applicability of other provisions to administration of this subchapter.
-
-    Section 9869, [Pub. L. 97–35, title VI, § 669A][/us/pl/97/35/s669A], as added [Pub. L. 101–501, title II, § 208][/us/pl/101/501/s208], Nov. 3, 1990, [104 Stat. 1248][/us/stat/104/1248], related to participation of entities that receive funds under this subchapter in other Federal educational activities and programs.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch105/schIII/ptII/m__us_usc_t42_ch105_schIII_ptII.md) | [Next](./../../../../../..//us/usc/t42/ch105/schIV/m__us_usc_t42_ch105_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIII%2FptIII)
+[Previous](./../../../../../..//us/usc/t42/ch105/schIII/ptII/m__us_usc_t42_s9863...9865.md) | [Next](./../../../../../..//us/usc/t42/ch105/schIII/ptIII/m__us_usc_t42_s9866...9869.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIII%2FptIII)
 
 ----------
 ----------
 
-[/us/pl/103/382/s391/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fw
-[/us/stat/108/4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4025
-[/us/pl/97/35/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs667
-[/us/pl/101/501/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs207%2Fa
-[/us/stat/104/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1247
-[/us/pl/97/35/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs667
-[/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
-[/us/pl/101/501/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs204%2Fb
-[/us/stat/104/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1246
-[/us/pl/97/35/s668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs668
-[/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
-[/us/pl/99/425/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs201%2Fb
-[/us/stat/100/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F967
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
-[/us/stat/104/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1243
-[/us/pl/97/35/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs669
-[/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
-[/us/pl/97/35/s669A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs669A
-[/us/pl/101/501/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs208
-[/us/stat/104/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1248
 
 

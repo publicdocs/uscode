@@ -19,7 +19,7 @@
 
     (b) One year following the declaration by the President of a disaster in an insular area, the Secretary, in consultation with the Administrator of the Federal Emergency Management Agency, shall submit to the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources a report on the status of the recovery effort, including an audit of Federal funds expended in the recovery effort and recommendations on how to improve public health and safety, survivability of infrastructure, recovery efforts, and effective use of funds in the event of future disasters.
 
-([Pub. L. 102–247, title II, § 203][/us/pl/102/247/s203], Feb. 24, 1992, [106 Stat. 37][/us/stat/106/37]; [Pub. L. 103–437, § 15(p)][/us/pl/103/437/s15/p], Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594]; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 102–247, title II][/us/pl/102/247/tII], § 203, Feb. 24, 1992, [106 Stat. 37][/us/stat/106/37]; [Pub. L. 103–437][/us/pl/103/437], § 15(p), Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __Codification__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/102/247/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs203
+[/us/pl/102/247/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtII
 [/us/stat/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F37
-[/us/pl/103/437/s15/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fp
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4594
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc

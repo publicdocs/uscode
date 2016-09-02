@@ -373,33 +373,33 @@
 
         (3) provide for appropriate sanctions with respect to the interference, retaliation, and reprisals.
 
-([Pub. L. 89–73, title VII, § 712][/us/pl/89/73/s712], as added [Pub. L. 102–375, title VII, § 702][/us/pl/102/375/s702], Sept. 30, 1992, [106 Stat. 1276][/us/stat/106/1276]; amended [Pub. L. 103–171, § 3(a)(9)][/us/pl/103/171/s3/a/9], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–402, title IV, § 401(b)(9)(D)][/us/pl/106/402/s401/b/9/D], Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739]; [Pub. L. 106–501, title VII, § 704][/us/pl/106/501/s704], title VIII, § 801(e)(2), Nov. 13, 2000, [114 Stat. 2289][/us/stat/114/2289], 2293.)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 712, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 702, Sept. 30, 1992, [106 Stat. 1276][/us/stat/106/1276]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(9), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(9)(D), Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739]; [Pub. L. 106–501, title VII][/us/pl/106/501/tVII], § 704, title VIII, § 801(e)(2), Nov. 13, 2000, [114 Stat. 2289][/us/stat/114/2289], 2293.)
 
  __References in Text__ 
 
-    [Section 3012(a)(21) of this title][/us/usc/t42/s3012/a/21], referred to in subsec. (c)(2)(D), was redesignated [section 3012(a)(18) of this title][/us/usc/t42/s3012/a/18] by [Pub. L. 106–501, title II, § 201(1)(B)][/us/pl/106/501/s201/1/B], Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229].
+    [Section 3012(a)(21) of this title][/us/usc/t42/s3012/a/21], referred to in subsec. (c)(2)(D), was redesignated [section 3012(a)(18) of this title][/us/usc/t42/s3012/a/18] by [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201(1)(B), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229].
 
     The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(6)(A), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677]. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
 
-    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII, § 3206(a)][/us/pl/106/310/s3206/a], Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
+    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(a), Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–501, § 801(e)(2)][/us/pl/106/501/s801/e/2], substituted “[section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out this subpart” for “[section 3058a(a) of this title][/us/usc/t42/s3058a/a]” in introductory provisions.
+    2000—Subsec. (a)(1). [Pub. L. 106–501][/us/pl/106/501], § 801(e)(2), substituted “[section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out this subpart” for “[section 3058a(a) of this title][/us/usc/t42/s3058a/a]” in introductory provisions.
 
-    Subsec. (a)(5)(C)(ii). [Pub. L. 106–501, § 704(1)][/us/pl/106/501/s704/1], inserted “and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves” after “interest”.
+    Subsec. (a)(5)(C)(ii). [Pub. L. 106–501][/us/pl/106/501], § 704(1), inserted “and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves” after “interest”.
 
-    Subsec. (h)(4). [Pub. L. 106–501, § 704(2)(A)][/us/pl/106/501/s704/2/A], substituted “strengthen and update” for “(A) not later than 1 year after September 30, 1992, establish” in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl. (iii) of former subpar. (A) as subpar. (C) and struck out “and” at end, and struck out former subpar. (B) which read as follows: “require implementation of the procedures not later than 21 months after September 30, 1992;”.
+    Subsec. (h)(4). [Pub. L. 106–501][/us/pl/106/501], § 704(2)(A), substituted “strengthen and update” for “(A) not later than 1 year after September 30, 1992, establish” in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl. (iii) of former subpar. (A) as subpar. (C) and struck out “and” at end, and struck out former subpar. (B) which read as follows: “require implementation of the procedures not later than 21 months after September 30, 1992;”.
 
     Subsec. (h)(6)(A). [Pub. L. 106–402][/us/pl/106/402] substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part A of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6001][/us/usc/t42/s6001] et seq.)”.
 
-    Subsec. (h)(8), (9). [Pub. L. 106–501, § 704(2)(B)][/us/pl/106/501/s704/2/B]–(D), added par. (8) and redesignated former par. (8) as (9).
+    Subsec. (h)(8), (9). [Pub. L. 106–501][/us/pl/106/501], § 704(2)(B)–(D), added par. (8) and redesignated former par. (8) as (9).
 
-    1993—Subsecs. (a)(3)(I), (c)(2)(C), (h)(3)(B). [Pub. L. 103–171, § 3(a)(9)(B)][/us/pl/103/171/s3/a/9/B], substituted “Assistant Secretary” for “Commissioner”.
+    1993—Subsecs. (a)(3)(I), (c)(2)(C), (h)(3)(B). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
 
-    Subsec. (h)(4)(A). [Pub. L. 103–171, § 3(a)(9)(A)][/us/pl/103/171/s3/a/9/A], substituted “Director of the Office of Long-Term Care Ombudsman Programs” for “Associate Commissioner for Ombudsman Programs”.
+    Subsec. (h)(4)(A). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(9)(A), substituted “Director of the Office of Long-Term Care Ombudsman Programs” for “Associate Commissioner for Ombudsman Programs”.
 
-    Subsec. (j)(1). [Pub. L. 103–171, § 3(a)(9)(B)][/us/pl/103/171/s3/a/9/B], substituted “Assistant Secretary” for “Commissioner”.
+    Subsec. (j)(1). [Pub. L. 103–171][/us/pl/103/171], § 3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
 
 ----------
 
@@ -413,18 +413,18 @@
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
 [/us/usc/t42/s10801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10801
 [/us/usc/t42/s3026/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F2%2FC
-[/us/pl/89/73/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs712
-[/us/pl/102/375/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs702
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1276
-[/us/pl/103/171/s3/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F9
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/106/402/s401/b/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F9%2FD
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1739
-[/us/pl/106/501/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs704
+[/us/pl/106/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVII
 [/us/stat/114/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2289
 [/us/usc/t42/s3012/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F21
 [/us/usc/t42/s3012/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F18
-[/us/pl/106/501/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs201%2F1%2FB
+[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
 [/us/stat/114/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2229
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
@@ -432,19 +432,19 @@
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
 [/us/stat/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F478
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
-[/us/pl/106/310/s3206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1193
 [/us/usc/t42/s10801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10801
-[/us/pl/106/501/s801/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fe%2F2
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3058a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058a
 [/us/usc/t42/s3058a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058a%2Fa
-[/us/pl/106/501/s704/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs704%2F1
-[/us/pl/106/501/s704/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs704%2F2%2FA
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6001
-[/us/pl/106/501/s704/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs704%2F2%2FB
-[/us/pl/103/171/s3/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F9%2FB
-[/us/pl/103/171/s3/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F9%2FA
-[/us/pl/103/171/s3/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F9%2FB
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 
 

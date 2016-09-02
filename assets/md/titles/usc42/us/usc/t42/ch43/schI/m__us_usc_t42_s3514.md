@@ -17,7 +17,7 @@
 
     There is hereby established on the books of the Treasury an account or accounts without fiscal year limitation. There shall be deposited in such account, to the extent provided by the Secretary of Health and Human Services or his designee, all or part of any grant awarded by the Secretary or any other officer or employee of the Department of Health and Human Services. Payments of any such grant shall from time to time be made to the grantee from such account or accounts, subject to such limitations relating to fund accumulation as the Secretary may prescribe, to the extent needed to carry out the purposes of any such grant. Such reports as the Secretary or other officer awarding the grant may find necessary to assure expenditure of funds for the purpose of and in accordance with the terms and conditions of the grant shall be made to the Secretary or such officer by any such grantee.
 
-([Pub. L. 89–105, § 6][/us/pl/89/105/s6], Aug. 4, 1965, [79 Stat. 430][/us/stat/79/430]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 89–105][/us/pl/89/105], § 6, Aug. 4, 1965, [79 Stat. 430][/us/stat/79/430]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/89/105/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F105%2Fs6
+[/us/pl/89/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F105
 [/us/stat/79/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F430
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

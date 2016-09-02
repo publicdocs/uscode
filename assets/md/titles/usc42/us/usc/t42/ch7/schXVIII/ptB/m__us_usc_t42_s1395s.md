@@ -57,13 +57,13 @@
 
         In the case of an individual enrolled in a Medicare+Choice plan, the Secretary shall provide for necessary adjustments of the monthly beneficiary premium to reflect 80 percent of any reduction elected under [section 1395w–24(f)(1)(E) of this title][/us/usc/t42/s1395w–24/f/1/E] and to reflect any credit provided under section 1395w–24(b)(1)(C)(iv)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. To the extent to which the Secretary determines that such an adjustment is appropriate, with the concurrence of any agency responsible for the administration of such benefits, such premium adjustment may be provided directly, as an adjustment to any social security, railroad retirement, or civil service retirement benefits, or, in the case of an individual who receives medical assistance under subchapter XIX of this chapter for medicare costs described in [section 1396d(p)(3)(A)(ii) of this title][/us/usc/t42/s1396d/p/3/A/ii], as an adjustment to the amount otherwise owed by the State for such medical assistance.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1840, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 306][/us/stat/79/306]; amended [Pub. L. 89–384, § 4(c)][/us/pl/89/384/s4/c], Apr. 8, 1966, [80 Stat. 106][/us/stat/80/106]; [Pub. L. 90–248, title I, § 166][/us/pl/90/248/s166], title IV, § 403(g), Jan. 2, 1968, [81 Stat. 874][/us/stat/81/874], 932; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, [86 Stat. 1373][/us/stat/86/1373], 1448, 1449; [Pub. L. 93–445, title III, § 306][/us/pl/93/445/s306], Oct. 16, 1974, [88 Stat. 1358][/us/stat/88/1358]; [Pub. L. 98–369, div. B, title III, § 2354(b)(11)][/us/pl/98/369/s2354/b/11], title VI, § 2663(j)(2)(F)(ii), July 18, 1984, [98 Stat. 1101][/us/stat/98/1101], 1170; [Pub. L. 99–53, § 2(g)][/us/pl/99/53/s2/g], June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 100–360, title II, § 212(b)(1)][/us/pl/100/360/s212/b/1], July 1, 1988, [102 Stat. 740][/us/stat/102/740]; [Pub. L. 100–485, title VI, § 608(d)(10)(B)][/us/pl/100/485/s608/d/10/B], Oct. 13, 1988, [102 Stat. 2415][/us/stat/102/2415]; [Pub. L. 101–234, title II, § 202(a)][/us/pl/101/234/s202/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 103–296, title I, § 108(c)(2)][/us/pl/103/296/s108/c/2], Aug. 15, 1994, [108 Stat. 1485][/us/stat/108/1485]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 606(a)(2)(B)(ii)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–557; [Pub. L. 108–173, title II, § 222][/us/pl/108/173/s222](l)(2)(B), Dec. 8, 2003, [117 Stat. 2206][/us/stat/117/2206].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1840, as added [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 102(a), July 30, 1965, [79 Stat. 306][/us/stat/79/306]; amended [Pub. L. 89–384][/us/pl/89/384], § 4(c), Apr. 8, 1966, [80 Stat. 106][/us/stat/80/106]; [Pub. L. 90–248, title I][/us/pl/90/248/tI], § 166, title IV, § 403(g), Jan. 2, 1968, [81 Stat. 874][/us/stat/81/874], 932; [Pub. L. 92–603, title II][/us/pl/92/603/tII], §§ 201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, [86 Stat. 1373][/us/stat/86/1373], 1448, 1449; [Pub. L. 93–445, title III][/us/pl/93/445/tIII], § 306, Oct. 16, 1974, [88 Stat. 1358][/us/stat/88/1358]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2354(b)(11), title VI, § 2663(j)(2)(F)(ii), July 18, 1984, [98 Stat. 1101][/us/stat/98/1101], 1170; [Pub. L. 99–53][/us/pl/99/53], § 2(g), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 100–360, title II][/us/pl/100/360/tII], § 212(b)(1), July 1, 1988, [102 Stat. 740][/us/stat/102/740]; [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(10)(B), Oct. 13, 1988, [102 Stat. 2415][/us/stat/102/2415]; [Pub. L. 101–234, title II][/us/pl/101/234/tII], § 202(a), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(c)(2), Aug. 15, 1994, [108 Stat. 1485][/us/stat/108/1485]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title VI, § 606(a)(2)(B)(ii)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–557; [Pub. L. 108–173, title II][/us/pl/108/173/tII], § 222(l)(2)(B), Dec. 8, 2003, [117 Stat. 2206][/us/stat/117/2206].)
 
  __References in Text__ 
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
-    [Section 1395w–24(b)(1)(C)(iv) of this title][/us/usc/t42/s1395w–24/b/1/C/iv], referred to in subsec. (i), was redesignated [section 1395w–24(b)(1)(C)(v) of this title][/us/usc/t42/s1395w–24/b/1/C/v] by [Pub. L. 111–148, title III, § 3202(b)(1)(B)][/us/pl/111/148/s3202/b/1/B], Mar. 23, 2010, [124 Stat. 454][/us/stat/124/454], and subsequently redesignated [section 1395w–24(b)(1)(C)(viii) of this title][/us/usc/t42/s1395w–24/b/1/C/viii] by [Pub. L. 111–152, title I, § 1102(d)(2)][/us/pl/111/152/s1102/d/2], Mar. 30, 2010, [124 Stat. 1045][/us/stat/124/1045].
+    [Section 1395w–24(b)(1)(C)(iv) of this title][/us/usc/t42/s1395w–24/b/1/C/iv], referred to in subsec. (i), was redesignated [section 1395w–24(b)(1)(C)(v) of this title][/us/usc/t42/s1395w–24/b/1/C/v] by [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3202(b)(1)(B), Mar. 23, 2010, [124 Stat. 454][/us/stat/124/454], and subsequently redesignated [section 1395w–24(b)(1)(C)(viii) of this title][/us/usc/t42/s1395w–24/b/1/C/viii] by [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1102(d)(2), Mar. 30, 2010, [124 Stat. 1045][/us/stat/124/1045].
 
  __Amendments__ 
 
@@ -71,11 +71,11 @@
 
     2000—Subsec. (i). [Pub. L. 106–554][/us/pl/106/554] added subsec. (i).
 
-    1994—Subsec. (a)(1). [Pub. L. 103–296, § 108(c)(2)(A)][/us/pl/103/296/s108/c/2/A], substituted “Commissioner of Social Security” for “Secretary” and inserted at end “Such regulations shall be prescribed after consultation with the Secretary.”
+    1994—Subsec. (a)(1). [Pub. L. 103–296][/us/pl/103/296], § 108(c)(2)(A), substituted “Commissioner of Social Security” for “Secretary” and inserted at end “Such regulations shall be prescribed after consultation with the Secretary.”
 
-    Subsec. (a)(2). [Pub. L. 103–296, § 108(c)(2)(B)][/us/pl/103/296/s108/c/2/B], substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+    Subsec. (a)(2). [Pub. L. 103–296][/us/pl/103/296], § 108(c)(2)(B), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-    1989—Subsec. (i). [Pub. L. 101–234][/us/pl/101/234] repealed [Pub. L. 100–360, § 212(b)(1)][/us/pl/100/360/s212/b/1], and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
+    1989—Subsec. (i). [Pub. L. 101–234][/us/pl/101/234] repealed [Pub. L. 100–360][/us/pl/100/360], § 212(b)(1), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
     1988—Subsec. (i). [Pub. L. 100–485][/us/pl/100/485] substituted “Supplementary” for “Supplemental”.
 
@@ -83,33 +83,33 @@
 
     1985—Subsec. (d)(1). [Pub. L. 99–53][/us/pl/99/53] inserted reference to [section 8903a of title 5][/us/usc/t5/s8903a].
 
-    1984—Subsec. (a)(2). [Pub. L. 98–369, § 2663(j)(2)(F)(ii)][/us/pl/98/369/s2663/j/2/F/ii], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    1984—Subsec. (a)(2). [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(2)(F)(ii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (d)(1). [Pub. L. 98–369, § 2354(b)(11)][/us/pl/98/369/s2354/b/11], substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (d)(1). [Pub. L. 98–369][/us/pl/98/369], § 2354(b)(11), substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
 
-    [Pub. L. 98–369, § 2663(j)(2)(F)(ii)][/us/pl/98/369/s2663/j/2/F/ii], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    [Pub. L. 98–369][/us/pl/98/369], § 2663(j)(2)(F)(ii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (d)(2). [Pub. L. 98–369, § 2354(b)(11)][/us/pl/98/369/s2354/b/11], substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (d)(2). [Pub. L. 98–369][/us/pl/98/369], § 2354(b)(11), substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
 
     1974—Subsec. (b)(1). [Pub. L. 93–445][/us/pl/93/445] substituted “under the Railroad Retirement Act of 1974” for “or pension under the Railroad Retirement Act of 1937”.
 
     1972—Subsec. (a)(1). [Pub. L. 92–603][/us/pl/92/603], §§ 201(c)(6)(A), 263(a), substituted “subsections (b)(1) and (c)” for “subsection (d)” and inserted reference to [section 423 of this title][/us/usc/t42/s423].
 
-    Subsec. (a)(2). [Pub. L. 92–603, § 201(c)(6)(B)][/us/pl/92/603/s201/c/6/B], inserted reference to [section 423 of this title][/us/usc/t42/s423].
+    Subsec. (a)(2). [Pub. L. 92–603][/us/pl/92/603], § 201(c)(6)(B), inserted reference to [section 423 of this title][/us/usc/t42/s423].
 
-    Subsec. (b)(1). [Pub. L. 92–603, § 263(b)][/us/pl/92/603/s263/b], inserted “(whether or not such individual is also entitled for such month to a monthly insurance benefit under [section 402 of this title][/us/usc/t42/s402])” after “1937” and substituted “subsection (c)” for “subsection (d)”.
+    Subsec. (b)(1). [Pub. L. 92–603][/us/pl/92/603], § 263(b), inserted “(whether or not such individual is also entitled for such month to a monthly insurance benefit under [section 402 of this title][/us/usc/t42/s402])” after “1937” and substituted “subsection (c)” for “subsection (d)”.
 
-    Subsec. (c). [Pub. L. 92–603, § 263(c)][/us/pl/92/603/s263/c], struck out subsec. (c) covering individuals entitled both to monthly benefits under [section 402 of this title][/us/usc/t42/s402] and to an annuity or pension under Railroad Retirement Act of 1937 and redesignated former subsec. (d) as (c).
+    Subsec. (c). [Pub. L. 92–603][/us/pl/92/603], § 263(c), struck out subsec. (c) covering individuals entitled both to monthly benefits under [section 402 of this title][/us/usc/t42/s402] and to an annuity or pension under Railroad Retirement Act of 1937 and redesignated former subsec. (d) as (c).
 
-    Subsec. (d). [Pub. L. 92–603, § 263(c)][/us/pl/92/603/s263/c], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 92–603][/us/pl/92/603], § 263(c), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 92–603, § 263(c)][/us/pl/92/603/s263/c], (d)(1), redesignated subsec. (f) as (e) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 92–603][/us/pl/92/603], § 263(c), (d)(1), redesignated subsec. (f) as (e) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 92–603, § 263(c)][/us/pl/92/603/s263/c], (d)(2), redesignated subsec. (g) as (f) and substituted “subsections (c) or (e)” for “subsections (d) or (f)”. Former subsec. (f) redesignated (e) and amended.
+    Subsec. (f). [Pub. L. 92–603][/us/pl/92/603], § 263(c), (d)(2), redesignated subsec. (g) as (f) and substituted “subsections (c) or (e)” for “subsections (d) or (f)”. Former subsec. (f) redesignated (e) and amended.
 
-    Subsec. (g). [Pub. L. 92–603, § 263(c)][/us/pl/92/603/s263/c], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f) and amended.
+    Subsec. (g). [Pub. L. 92–603][/us/pl/92/603], § 263(c), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f) and amended.
 
-    Subsecs. (h), (i). [Pub. L. 92–603, § 263(c)][/us/pl/92/603/s263/c], (d)(3), redesignated subsec. (i) as (h) and substituted “(c) and (d)” for “(c), (d), and (e)”. Former subsec. (h) redesignated (g).
+    Subsecs. (h), (i). [Pub. L. 92–603][/us/pl/92/603], § 263(c), (d)(3), redesignated subsec. (i) as (h) and substituted “(c) and (d)” for “(c), (d), and (e)”. Former subsec. (h) redesignated (g).
 
     1968—Subsec. (e). [Pub. L. 90–248][/us/pl/90/248] provided for reimbursement of civil service retirement annuitants for certain premium payments under supplementary medical insurance program, and substituted “subchapter III of chapter 83 of Title 5 or any other law” and “such other law” for “the Civil Service Retirement Act, or other Act” and “such other Act”, in pars. (1) and (2), respectively.
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–603, title II, § 263(f)][/us/pl/92/603/s263/f], Oct. 30, 1972, [86 Stat. 1449][/us/stat/86/1449], provided that: 
+[Pub. L. 92–603, title II][/us/pl/92/603/tII], § 263(f), Oct. 30, 1972, [86 Stat. 1449][/us/stat/86/1449], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1395t and 1395u of this title\] with respect to collection of premiums shall apply to premiums becoming due and payable after the fourth month following the month in which this Act is enacted \[October 1972\].”
 
@@ -169,74 +169,74 @@
 [/us/usc/t42/s1395w–24/f/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Ff%2F1%2FE
 [/us/usc/t42/s1396d/p/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fp%2F3%2FA%2Fii
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F306
-[/us/pl/89/384/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384%2Fs4%2Fc
+[/us/pl/89/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384
 [/us/stat/80/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F106
-[/us/pl/90/248/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs166
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F874
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1373
-[/us/pl/93/445/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs306
+[/us/pl/93/445/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtIII
 [/us/stat/88/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1358
-[/us/pl/98/369/s2354/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fb%2F11
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1101
-[/us/pl/99/53/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fg
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
-[/us/pl/100/360/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs212%2Fb%2F1
+[/us/pl/100/360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtII
 [/us/stat/102/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F740
-[/us/pl/100/485/s608/d/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F10%2FB
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2415
-[/us/pl/101/234/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs202%2Fa
+[/us/pl/101/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtII
 [/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
-[/us/pl/103/296/s108/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fc%2F2
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1485
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs222
+[/us/pl/108/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtII
 [/us/stat/117/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2206
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
 [/us/usc/t42/s1395w–24/b/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fiv
 [/us/usc/t42/s1395w–24/b/1/C/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fv
-[/us/pl/111/148/s3202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3202%2Fb%2F1%2FB
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F454
 [/us/usc/t42/s1395w–24/b/1/C/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fviii
-[/us/pl/111/152/s1102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Fd%2F2
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1045
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t42/s1395w–24/b/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fiv
 [/us/usc/t42/s1395w–24/f/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Ff%2F1%2FE
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/103/296/s108/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fc%2F2%2FA
-[/us/pl/103/296/s108/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fc%2F2%2FB
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
-[/us/pl/100/360/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs212%2Fb%2F1
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
-[/us/pl/98/369/s2663/j/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FF%2Fii
-[/us/pl/98/369/s2354/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fb%2F11
-[/us/pl/98/369/s2663/j/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FF%2Fii
-[/us/pl/98/369/s2354/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2354%2Fb%2F11
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
-[/us/pl/92/603/s201/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs201%2Fc%2F6%2FB
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
-[/us/pl/92/603/s263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Fb
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/92/603/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Fc
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/92/603/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Fc
-[/us/pl/92/603/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Fc
-[/us/pl/92/603/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Fc
-[/us/pl/92/603/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Fc
-[/us/pl/92/603/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Fc
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/89/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384
 [/us/pl/108/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201
@@ -266,7 +266,7 @@
 [/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
 [/us/pl/93/445/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs603
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
-[/us/pl/92/603/s263/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs263%2Ff
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1449
 
 

@@ -33,9 +33,9 @@
 
             (B) on a semiannual basis, the total quantities of natural gas used as a primary energy source during the previous 6-month period by each electric utility.
 
-        (2) Repealed. [Pub. L. 104–66, title I, § 1051(e)][/us/pl/104/66/s1051/e], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].
+        (2) Repealed. [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(e), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].
 
-([Pub. L. 95–620, title VII, § 711][/us/pl/95/620/s711], Nov. 9, 1978, [92 Stat. 3332][/us/stat/92/3332]; [Pub. L. 97–35, title X, § 1021(b)][/us/pl/97/35/s1021/b], Aug. 13, 1981, [95 Stat. 615][/us/stat/95/615]; [Pub. L. 100–42, § 1(c)(17)][/us/pl/100/42/s1/c/17], May 21, 1987, [101 Stat. 313][/us/stat/101/313]; [Pub. L. 104–66, title I, § 1051(e)][/us/pl/104/66/s1051/e], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 711, Nov. 9, 1978, [92 Stat. 3332][/us/stat/92/3332]; [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1021(b), Aug. 13, 1981, [95 Stat. 615][/us/stat/95/615]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(17), May 21, 1987, [101 Stat. 313][/us/stat/101/313]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(e), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716].)
 
  __References in Text__ 
 
@@ -63,15 +63,15 @@
 [/us/usc/t15/s796/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fd
 [/us/usc/t15/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796
 [/us/usc/t42/s8374/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8374%2Fb
-[/us/pl/104/66/s1051/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fe
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
-[/us/pl/95/620/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs711
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3332
-[/us/pl/97/35/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1021%2Fb
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F615
-[/us/pl/100/42/s1/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F17
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
-[/us/pl/104/66/s1051/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fe
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

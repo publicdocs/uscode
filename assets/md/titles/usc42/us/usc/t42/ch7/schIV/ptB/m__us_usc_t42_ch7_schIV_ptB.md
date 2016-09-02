@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–66, title XIII, § 13711(a)(1)][/us/pl/103/66/s13711/a/1], Aug. 10, 1993, [107 Stat. 649][/us/stat/107/649], substituted “Child and Family Services” for “Child Welfare Services” in part B heading.
+    1993—[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(a)(1), Aug. 10, 1993, [107 Stat. 649][/us/stat/107/649], substituted “Child and Family Services” for “Child Welfare Services” in part B heading.
 
-    1968—[Pub. L. 90–248, title II, § 240(c)][/us/pl/90/248/s240/c], Jan. 2, 1968, [81 Stat. 911][/us/stat/81/911], added part B heading.
+    1968—[Pub. L. 90–248, title II][/us/pl/90/248/tII], § 240(c), Jan. 2, 1968, [81 Stat. 911][/us/stat/81/911], added part B heading.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fa%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F649
-[/us/pl/90/248/s240/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fc
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F911
 
 

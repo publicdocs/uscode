@@ -251,7 +251,7 @@
 
         For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 501, formerly [Pub. L. 93–282, title II, § 201][/us/pl/93/282/s201], May 14, 1974, [88 Stat. 134][/us/stat/88/134], as amended [Pub. L. 94–371, § 8][/us/pl/94/371/s8], July 26, 1976, [90 Stat. 1040][/us/stat/90/1040]; renumbered § 501 of act July 1, 1944, and amended [Pub. L. 98–24, § 2(b)(2)][/us/pl/98/24/s2/b/2], Apr. 26, 1983, [97 Stat. 176][/us/stat/97/176]; [Pub. L. 98–509, title II, § 201][/us/pl/98/509/s201], title III, § 301(c)(1), Oct. 19, 1984, [98 Stat. 2359][/us/stat/98/2359], 2364; [Pub. L. 99–570, title IV, § 4003][/us/pl/99/570/s4003], Oct. 27, 1986, [100 Stat. 3207–106][/us/stat/100/3207-106]; [Pub. L. 100–690, title II, § 2058(a)(2)][/us/pl/100/690/s2058/a/2], Nov. 18, 1988, [102 Stat. 4213][/us/stat/102/4213]; [Pub. L. 101–93, § 3(f)][/us/pl/101/93/s3/f], Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 102–321, title I, § 101(a)][/us/pl/102/321/s101/a], July 10, 1992, [106 Stat. 324][/us/stat/106/324]; [Pub. L. 104–201, div. A, title XVII, § 1723(a)(3)(A)][/us/pl/104/201/s1723/a/3/A], Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 106–310, div. B, title XXXI, § 3102][/us/pl/106/310/s3102], title XXXIV, § 3401(a), Oct. 17, 2000, [114 Stat. 1170][/us/stat/114/1170], 1218; [Pub. L. 108–173, title IX, § 900(e)(2)(A)][/us/pl/108/173/s900/e/2/A], Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372]; [Pub. L. 111–148, title III, § 3509(d)][/us/pl/111/148/s3509/d], Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 501, formerly [Pub. L. 93–282, title II][/us/pl/93/282/tII], § 201, May 14, 1974, [88 Stat. 134][/us/stat/88/134], as amended [Pub. L. 94–371][/us/pl/94/371], § 8, July 26, 1976, [90 Stat. 1040][/us/stat/90/1040]; renumbered § 501 of act July 1, 1944, and amended [Pub. L. 98–24][/us/pl/98/24], § 2(b)(2), Apr. 26, 1983, [97 Stat. 176][/us/stat/97/176]; [Pub. L. 98–509, title II][/us/pl/98/509/tII], § 201, title III, § 301(c)(1), Oct. 19, 1984, [98 Stat. 2359][/us/stat/98/2359], 2364; [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4003, Oct. 27, 1986, [100 Stat. 3207–106][/us/stat/100/3207-106]; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2058(a)(2), Nov. 18, 1988, [102 Stat. 4213][/us/stat/102/4213]; [Pub. L. 101–93][/us/pl/101/93], § 3(f), Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 101(a), July 10, 1992, [106 Stat. 324][/us/stat/106/324]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(a)(3)(A), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 106–129][/us/pl/106/129], § 2(b)(2), Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 106–310, div. B, title XXXI][/us/pl/106/310/dB/tXXXI], § 3102, title XXXIV, § 3401(a), Oct. 17, 2000, [114 Stat. 1170][/us/stat/114/1170], 1218; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(2)(A), Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372]; [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(d), Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
 
  __References in Text__ 
 
@@ -267,15 +267,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (f)(1). [Pub. L. 111–148, § 3509(d)(1)][/us/pl/111/148/s3509/d/1], inserted “who shall report directly to the Administrator” before period at end.
+    2010—Subsec. (f)(1). [Pub. L. 111–148][/us/pl/111/148], § 3509(d)(1), inserted “who shall report directly to the Administrator” before period at end.
 
-    Subsec. (f)(4), (5). [Pub. L. 111–148, § 3509(d)(2)][/us/pl/111/148/s3509/d/2], (3), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (f)(4), (5). [Pub. L. 111–148][/us/pl/111/148], § 3509(d)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
     2003—Subsec. (d)(18). [Pub. L. 108–173][/us/pl/108/173] substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
 
-    2000—Subsec. (e)(1). [Pub. L. 106–310, § 3401(a)][/us/pl/106/310/s3401/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.”
+    2000—Subsec. (e)(1). [Pub. L. 106–310][/us/pl/106/310], § 3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.”
 
-    Subsecs. (m) to (o). [Pub. L. 106–310, § 3102][/us/pl/106/310/s3102], added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994” before period at end.
+    Subsecs. (m) to (o). [Pub. L. 106–310][/us/pl/106/310], § 3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994” before period at end.
 
     1999—Subsec. (d)(8), (9). [Pub. L. 106–129][/us/pl/106/129], which directed the substitution of “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”, was executed by making the substitution for “Agency for Health Care Policy Research”, to reflect the probable intent of Congress.
 
@@ -283,35 +283,35 @@
 
     1992—[Pub. L. 102–321][/us/pl/102/321] amended section generally, substituting provisions relating to the Substance Abuse and Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
 
-    1989—Subsec. (b)(4). [Pub. L. 101–93, § 3(f)(1)][/us/pl/101/93/s3/f/1], substituted “for” for “of”.
+    1989—Subsec. (b)(4). [Pub. L. 101–93][/us/pl/101/93], § 3(f)(1), substituted “for” for “of”.
 
-    Subsec. (j). [Pub. L. 101–93, § 3(f)(2)][/us/pl/101/93/s3/f/2], substituted “[section 290aa–5 of this title][/us/usc/t42/s290aa–5], establish program advisory committees, and pay members of such groups and committees” for “[section 290aa–5 of this title][/us/usc/t42/s290aa–5] and appoint and pay members of such groups” and “as members of such groups or committees” for “as members of such groups”.
+    Subsec. (j). [Pub. L. 101–93][/us/pl/101/93], § 3(f)(2), substituted “[section 290aa–5 of this title][/us/usc/t42/s290aa–5], establish program advisory committees, and pay members of such groups and committees” for “[section 290aa–5 of this title][/us/usc/t42/s290aa–5] and appoint and pay members of such groups” and “as members of such groups or committees” for “as members of such groups”.
 
-    1988—Subsec. (b)(4). [Pub. L. 100–690, § 2058(a)(2)(A)][/us/pl/100/690/s2058/a/2/A], added par. (4).
+    1988—Subsec. (b)(4). [Pub. L. 100–690][/us/pl/100/690], § 2058(a)(2)(A), added par. (4).
 
-    Subsec. (e)(2). [Pub. L. 100–690, § 2058(a)(2)(B)][/us/pl/100/690/s2058/a/2/B], substituted “Not less than once each three years, the Administrator” for “The Administrator” and “shall submit” for “shall annually submit”.
+    Subsec. (e)(2). [Pub. L. 100–690][/us/pl/100/690], § 2058(a)(2)(B), substituted “Not less than once each three years, the Administrator” for “The Administrator” and “shall submit” for “shall annually submit”.
 
-    Subsec. (f). [Pub. L. 100–690, § 2058(a)(2)(C)][/us/pl/100/690/s2058/a/2/C], substituted “misconduct” for “fraud” in heading and two places in text.
+    Subsec. (f). [Pub. L. 100–690][/us/pl/100/690], § 2058(a)(2)(C), substituted “misconduct” for “fraud” in heading and two places in text.
 
-    Subsecs. (k) to (m). [Pub. L. 100–690, § 2058(a)(2)(D)][/us/pl/100/690/s2058/a/2/D], (E), added subsecs. (k) to (m) and struck out former subsec. (k), which related to Alcohol, Drug Abuse, and Mental Health Advisory Board, including its duties, membership, terms of office, compensation, personnel, chairman, meetings, and reports to Congress.
+    Subsecs. (k) to (m). [Pub. L. 100–690][/us/pl/100/690], § 2058(a)(2)(D), (E), added subsecs. (k) to (m) and struck out former subsec. (k), which related to Alcohol, Drug Abuse, and Mental Health Advisory Board, including its duties, membership, terms of office, compensation, personnel, chairman, meetings, and reports to Congress.
 
     1986—[Pub. L. 99–570][/us/pl/99/570] amended section generally, revising and restating former subsecs. (a), (b), (c), (d), (e), (f), (g), and (h) as (c), (d), (k), (h), (e), (f), (g), and (i), respectively, and adding new subsecs. (a), (b), and (j).
 
-    1984—[Pub. L. 98–509, § 301(c)(1)][/us/pl/98/509/s301/c/1], amended directory language of [Pub. L. 98–24, § 2(b)(2)][/us/pl/98/24/s2/b/2]. See 1983 Amendment note below.
+    1984—[Pub. L. 98–509][/us/pl/98/509], § 301(c)(1), amended directory language of [Pub. L. 98–24][/us/pl/98/24], § 2(b)(2). See 1983 Amendment note below.
 
-    Subsec. (c). [Pub. L. 98–509, § 201(a)][/us/pl/98/509/s201/a], substituted provisions relating to the Alcohol, Drug Abuse, and Mental Health Advisory Board for provisions relating to the National Panel on Alcohol, Drug Abuse, and Mental Health.
+    Subsec. (c). [Pub. L. 98–509][/us/pl/98/509], § 201(a), substituted provisions relating to the Alcohol, Drug Abuse, and Mental Health Advisory Board for provisions relating to the National Panel on Alcohol, Drug Abuse, and Mental Health.
 
-    Subsecs. (g), (h). [Pub. L. 98–509, § 201(b)][/us/pl/98/509/s201/b], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 98–509][/us/pl/98/509], § 201(b), added subsecs. (g) and (h).
 
-    1983—[Pub. L. 98–24, § 2(b)(2)][/us/pl/98/24/s2/b/2], as amended by [Pub. L. 98–509, § 301(c)(1)][/us/pl/98/509/s301/c/1], renumbered [section 3511 of this title][/us/usc/t42/s3511] as this section.
+    1983—[Pub. L. 98–24][/us/pl/98/24], § 2(b)(2), as amended by [Pub. L. 98–509][/us/pl/98/509], § 301(c)(1), renumbered [section 3511 of this title][/us/usc/t42/s3511] as this section.
 
-    Subsec. (a). [Pub. L. 98–24, § 2(b)(2)(A)][/us/pl/98/24/s2/b/2/A], struck out “of Health, Education, and Welfare” after “The Secretary” and “Department”.
+    Subsec. (a). [Pub. L. 98–24][/us/pl/98/24], § 2(b)(2)(A), struck out “of Health, Education, and Welfare” after “The Secretary” and “Department”.
 
-    Subsec. (c). [Pub. L. 98–24, § 2(b)(2)(A)][/us/pl/98/24/s2/b/2/A], (B), struck out “of Health, Education, and Welfare” after “The Secretary”, and made a technical amendment to reference to [section 218 of this title][/us/usc/t42/s218] to reflect the transfer of this section to the Public Health Service Act.
+    Subsec. (c). [Pub. L. 98–24][/us/pl/98/24], § 2(b)(2)(A), (B), struck out “of Health, Education, and Welfare” after “The Secretary”, and made a technical amendment to reference to [section 218 of this title][/us/usc/t42/s218] to reflect the transfer of this section to the Public Health Service Act.
 
-    Subsec. (d). [Pub. L. 98–24, § 2(b)(2)(C)][/us/pl/98/24/s2/b/2/C], substituted provisions directing the Administrator to distribute information on the hazards of alcoholism and the abuse of alcohol and drugs for provisions directing the Secretary, through the Administration, to evaluate and make recommendations regarding improved, coordinated activities, where appropriate, for public education and other prevention programs with respect to the abuse of alcohol and other substances.
+    Subsec. (d). [Pub. L. 98–24][/us/pl/98/24], § 2(b)(2)(C), substituted provisions directing the Administrator to distribute information on the hazards of alcoholism and the abuse of alcohol and drugs for provisions directing the Secretary, through the Administration, to evaluate and make recommendations regarding improved, coordinated activities, where appropriate, for public education and other prevention programs with respect to the abuse of alcohol and other substances.
 
-    Subsecs. (e), (f). [Pub. L. 98–24, § 2(b)(2)(D)][/us/pl/98/24/s2/b/2/D], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 98–24][/us/pl/98/24], § 2(b)(2)(D), added subsecs. (e) and (f).
 
     1976—Subsec. (d). [Pub. L. 94–371][/us/pl/94/371] added subsec. (d).
 
@@ -321,9 +321,9 @@
 
     Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by [section 1(a) of Pub. L. 104–14][/us/pl/104/14/s1/a], set out as a note preceding [section 21 of Title 2][/us/usc/t2/s21], The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
-[Pub. L. 102–321, title I, § 161][/us/pl/102/321/s161], July 10, 1992, [106 Stat. 375][/us/stat/106/375], provided that: 
+[Pub. L. 102–321, title I][/us/pl/102/321/tI], § 161, July 10, 1992, [106 Stat. 375][/us/stat/106/375], provided that: 
 
 > “Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Alcohol, Drug Abuse and Mental Health Administration or to the Administrator of the Alcohol, Drug Abuse and Mental Health Administration shall be deemed to refer to the Substance Abuse and Mental Health Services Administration or to the Administrator of the Substance Abuse and Mental Health Services Administration.”
 
@@ -337,7 +337,7 @@
 
  __Transfer Provisions__ 
 
-[Pub. L. 102–321, title I][/us/pl/102/321], subtitle D, July 10, 1992, [106 Stat. 370][/us/stat/106/370], as amended by [Pub. L. 102–352, § 2(b)(1)][/us/pl/102/352/s2/b/1], Aug. 26, 1992, [106 Stat. 939][/us/stat/106/939], provided that:
+[Pub. L. 102–321, title I][/us/pl/102/321/tI], subtitle D, July 10, 1992, [106 Stat. 370][/us/stat/106/370], as amended by [Pub. L. 102–352][/us/pl/102/352], § 2(b)(1), Aug. 26, 1992, [106 Stat. 939][/us/stat/106/939], provided that:
 
 > “SEC. 141. __TRANSFERS.__ 
 
@@ -453,7 +453,7 @@
 
  __Assisted Outpatient Treatment Grant Program for Individuals With Serious Mental Illness__ 
 
-[Pub. L. 113–93, title II, § 224][/us/pl/113/93/s224], Apr. 1, 2014, [128 Stat. 1083][/us/stat/128/1083], provided that:
+[Pub. L. 113–93, title II][/us/pl/113/93/tII], § 224, Apr. 1, 2014, [128 Stat. 1083][/us/stat/128/1083], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -527,19 +527,19 @@
 
  __Report by Substance Abuse and Mental Health Services Administration__ 
 
-    [Pub. L. 102–321, title VII, § 708][/us/pl/102/321/s708], July 10, 1992, [106 Stat. 440][/us/stat/106/440], directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
+    [Pub. L. 102–321, title VII][/us/pl/102/321/tVII], § 708, July 10, 1992, [106 Stat. 440][/us/stat/106/440], directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
 
  __Relationship Between Mental Illness and Substance Abuse__ 
 
-    [Pub. L. 100–690, title II, § 2071][/us/pl/100/690/s2071], Nov. 18, 1988, [102 Stat. 4214][/us/stat/102/4214], directed Secretary of Health and Human Services to conduct a study for the purpose of determining the relationship between mental illness and substance abuse, and developing recommendations on the most effective methods of treatment for individuals with both mental illness and substance abuse problems, and, not later than 12 months after Nov. 18, 1988, to complete the study and submit to Congress the findings made as a result of the study.
+    [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2071, Nov. 18, 1988, [102 Stat. 4214][/us/stat/102/4214], directed Secretary of Health and Human Services to conduct a study for the purpose of determining the relationship between mental illness and substance abuse, and developing recommendations on the most effective methods of treatment for individuals with both mental illness and substance abuse problems, and, not later than 12 months after Nov. 18, 1988, to complete the study and submit to Congress the findings made as a result of the study.
 
  __Report With Respect to Administration of Certain Research Programs__ 
 
-    [Pub. L. 100–690, title II, § 2073][/us/pl/100/690/s2073], Nov. 18, 1988, [102 Stat. 4215][/us/stat/102/4215], directed Secretary of Health and Human Services to request National Academy of Sciences to conduct a review of research activities of National Institutes of Health and the Alcohol, Drug Abuse, and Mental Health Administration and, not later than 12 months after the date on which any contract requested is entered into, provide for the completion of the review and submit to Congress a report describing the findings made as a result of the review, with Secretary of Health and Human Services authorized to enter into a contract with National Academy of Sciences to carry out the review.
+    [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2073, Nov. 18, 1988, [102 Stat. 4215][/us/stat/102/4215], directed Secretary of Health and Human Services to request National Academy of Sciences to conduct a review of research activities of National Institutes of Health and the Alcohol, Drug Abuse, and Mental Health Administration and, not later than 12 months after the date on which any contract requested is entered into, provide for the completion of the review and submit to Congress a report describing the findings made as a result of the review, with Secretary of Health and Human Services authorized to enter into a contract with National Academy of Sciences to carry out the review.
 
  __Congressional Statement of Policy for Alcohol and Drug Abuse Amendments of 1983__ 
 
-[Pub. L. 98–24, § 1(b)][/us/pl/98/24/s1/b], Apr. 26, 1983, [97 Stat. 175][/us/stat/97/175], provided that: 
+[Pub. L. 98–24][/us/pl/98/24], § 1(b), Apr. 26, 1983, [97 Stat. 175][/us/stat/97/175], provided that: 
 
 > “It is the policy of the United States and the purpose of this Act \[see Short Title of 1983 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
 
@@ -563,11 +563,11 @@
 
  __Alcohol and Drug Abuse and Mental Health Reports by the Secretary__ 
 
-    [Pub. L. 98–24, § 3][/us/pl/98/24/s3], Apr. 26, 1983, [97 Stat. 182][/us/stat/97/182], directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
+    [Pub. L. 98–24][/us/pl/98/24], § 3, Apr. 26, 1983, [97 Stat. 182][/us/stat/97/182], directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
 
  __Transfer of Balances in Working Capital Fund, Narcotic Hospitals, to Surplus Fund__ 
 
-[Act July 8, 1947, ch. 210][/us/act/1947-07-08/ch210], title II, § 201, [61 Stat. 269][/us/stat/61/269], provided: 
+[Act July 8, 1947, ch. 210, title II][/us/act/1947-07-08/ch210/tII], § 201, [61 Stat. 269][/us/stat/61/269], provided: 
 
 > “That as of June 30, 1947, and the end of each fiscal year thereafter any balances in the ‘Working capital fund, narcotic hospitals,’ in excess of $150,000 shall be transferred to the surplus fund of the Treasury.”
 
@@ -584,31 +584,31 @@
 [/us/usc/t42/s290aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%933
 [/us/usc/t42/s290aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%934
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/282/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs201
+[/us/pl/93/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2FtII
 [/us/stat/88/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F134
-[/us/pl/94/371/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs8
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1040
-[/us/pl/98/24/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F2
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F176
-[/us/pl/98/509/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs201
+[/us/pl/98/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtII
 [/us/stat/98/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2359
-[/us/pl/99/570/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4003
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-106
-[/us/pl/100/690/s2058/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2058%2Fa%2F2
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4213
-[/us/pl/101/93/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs3%2Ff
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F611
-[/us/pl/102/321/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs101%2Fa
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F324
-[/us/pl/104/201/s1723/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F3%2FA
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
-[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
-[/us/pl/106/310/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3102
+[/us/pl/106/310/dB/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXI
 [/us/stat/114/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1170
-[/us/pl/108/173/s900/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F2%2FA
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2372
-[/us/pl/111/148/s3509/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fd
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F534
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -616,41 +616,41 @@
 [/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/usc/t42/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs219
 [/us/usc/t42/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238
-[/us/pl/111/148/s3509/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fd%2F1
-[/us/pl/111/148/s3509/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fd%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/106/310/s3401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3401%2Fa
-[/us/pl/106/310/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3102
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/pl/101/93/s3/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs3%2Ff%2F1
-[/us/pl/101/93/s3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs3%2Ff%2F2
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/usc/t42/s290aa–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935
 [/us/usc/t42/s290aa–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935
-[/us/pl/100/690/s2058/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2058%2Fa%2F2%2FA
-[/us/pl/100/690/s2058/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2058%2Fa%2F2%2FB
-[/us/pl/100/690/s2058/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2058%2Fa%2F2%2FC
-[/us/pl/100/690/s2058/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2058%2Fa%2F2%2FD
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/98/509/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs301%2Fc%2F1
-[/us/pl/98/24/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F2
-[/us/pl/98/509/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs201%2Fa
-[/us/pl/98/509/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs201%2Fb
-[/us/pl/98/24/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F2
-[/us/pl/98/509/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs301%2Fc%2F1
+[/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
+[/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
+[/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
+[/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
 [/us/usc/t42/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3511
-[/us/pl/98/24/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F2%2FA
-[/us/pl/98/24/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F2%2FA
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/usc/t42/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs218
-[/us/pl/98/24/s2/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F2%2FC
-[/us/pl/98/24/s2/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F2%2FD
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/102/321/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs161
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F375
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
@@ -658,9 +658,9 @@
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
-[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F370
-[/us/pl/102/352/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fb%2F1
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F939
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
@@ -673,20 +673,20 @@
 [/us/usc/t42/s300x/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%2Fb
 [/us/usc/t42/s285n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285n
 [/us/usc/t42/s284/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284%2Fa
-[/us/pl/113/93/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs224
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1083
-[/us/pl/102/321/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs708
+[/us/pl/102/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtVII
 [/us/stat/106/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F440
-[/us/pl/100/690/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2071
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4214
-[/us/pl/100/690/s2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2073
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4215
-[/us/pl/98/24/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs1%2Fb
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F175
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/98/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs3
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F182
-[/us/act/1947-07-08/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-08%2Fch210
+[/us/act/1947-07-08/ch210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-08%2Fch210%2FtII
 [/us/stat/61/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F269
 [/us/usc/t42/s258a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs258a
 

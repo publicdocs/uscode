@@ -47,7 +47,7 @@
 
         (2) after the expiration of the reasonable period beginning upon such activity, require the applicant, as a condition of admission to the program or to federally assisted housing, to submit to the public housing agency or owner evidence sufficient (as the Secretary shall by regulation provide) to ensure that the individual or individuals in the applicant’s household who engaged in criminal activity for which denial was made under paragraph (1) have not engaged in any criminal activity during such reasonable period.
 
-([Pub. L. 105–276, title V, § 576][/us/pl/105/276/s576], Oct. 21, 1998, [112 Stat. 2639][/us/stat/112/2639].)
+([Pub. L. 105–276, title V][/us/pl/105/276/tV], § 576, Oct. 21, 1998, [112 Stat. 2639][/us/stat/112/2639].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t42/s1437a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb
-[/us/pl/105/276/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2639
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/105/276/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576

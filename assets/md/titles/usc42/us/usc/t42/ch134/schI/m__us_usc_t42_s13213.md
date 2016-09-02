@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
 
-([Pub. L. 102–486, title III, § 304][/us/pl/102/486/s304], Oct. 24, 1992, [106 Stat. 2872][/us/stat/106/2872].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 304, Oct. 24, 1992, [106 Stat. 2872][/us/stat/106/2872].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t42/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13212
 [/us/usc/t42/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13212
-[/us/pl/102/486/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs304
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2872
 
 

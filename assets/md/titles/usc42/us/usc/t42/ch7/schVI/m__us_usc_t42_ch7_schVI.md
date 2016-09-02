@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s713.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
+[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s729...729a _us_usc_t42_s731.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
 
 ### SUBCHAPTER VI—TEMPORARY STATE FISCAL RELIEF
 
  __Prior Provisions__ 
 
-    A prior subchapter VI related to grants to States for services to the aged, blind, or disabled and consisted of sections 801 to 805, prior to repeal by [Pub. L. 93–647, § 3(b)][/us/pl/93/647/s3/b], Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349].
+    A prior subchapter VI related to grants to States for services to the aged, blind, or disabled and consisted of sections 801 to 805, prior to repeal by [Pub. L. 93–647][/us/pl/93/647], § 3(b), Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s713.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
+[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s729...729a _us_usc_t42_s731.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
 
 ----------
 ----------
 
-[/us/pl/93/647/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs3%2Fb
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2349
 
 

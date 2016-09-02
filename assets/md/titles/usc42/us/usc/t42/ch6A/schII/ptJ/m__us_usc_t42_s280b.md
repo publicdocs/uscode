@@ -27,13 +27,13 @@
 
     (b) The Secretary, through the Director of the Centers for Disease Control and Prevention, shall collect and disseminate, through publications and other appropriate means, information concerning the practical applications of research conducted or assisted under subsection (a) of this section. In carrying out the preceding sentence, the Secretary shall disseminate such information to the public, including through elementary and secondary schools.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 391, as added [Pub. L. 99–649, § 3][/us/pl/99/649/s3], Nov. 10, 1986, [100 Stat. 3633][/us/stat/100/3633]; amended [Pub. L. 101–558, § 2(a)][/us/pl/101/558/s2/a], Nov. 15, 1990, [104 Stat. 2772][/us/stat/104/2772]; [Pub. L. 102–531, title III, § 312(d)(3)][/us/pl/102/531/s312/d/3], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–183, title II, § 203(b)(2)][/us/pl/103/183/s203/b/2], Dec. 14, 1993, [107 Stat. 2232][/us/stat/107/2232].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 391, as added [Pub. L. 99–649][/us/pl/99/649], § 3, Nov. 10, 1986, [100 Stat. 3633][/us/stat/100/3633]; amended [Pub. L. 101–558][/us/pl/101/558], § 2(a), Nov. 15, 1990, [104 Stat. 2772][/us/stat/104/2772]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(d)(3), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 103–183, title II][/us/pl/103/183/tII], § 203(b)(2), Dec. 14, 1993, [107 Stat. 2232][/us/stat/107/2232].)
 
  __Prior Provisions__ 
 
-    A prior section 280b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 390, as added Oct. 22, 1965, [Pub. L. 89–291, § 2][/us/pl/89/291/s2], [79 Stat. 1059][/us/stat/79/1059]; amended Mar. 13, 1970, [Pub. L. 91–212][/us/pl/91/212], §§ 4(b), 5(b), 6(b), [84 Stat. 64][/us/stat/84/64], 65; July 23, 1974, [Pub. L. 93–353, title II][/us/pl/93/353], §§ 201(a), (b), 202(a), [88 Stat. 371][/us/stat/88/371], 372; Aug. 1, 1977, [Pub. L. 95–83, title II, § 202][/us/pl/95/83/s202], [91 Stat. 386][/us/stat/91/386]; Nov. 9, 1978, [Pub. L. 95–622, title II, § 211][/us/pl/95/622/s211], [92 Stat. 3420][/us/stat/92/3420]; Aug. 13, 1981, [Pub. L. 97–35, title IX, § 925(a)][/us/pl/97/35/s925/a], [95 Stat. 569][/us/stat/95/569], set forth findings and declaration of policy and authorized appropriations with regard to assistance to medical libraries, prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
+    A prior section 280b, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 390, as added Oct. 22, 1965, [Pub. L. 89–291][/us/pl/89/291], § 2, [79 Stat. 1059][/us/stat/79/1059]; amended Mar. 13, 1970, [Pub. L. 91–212][/us/pl/91/212], §§ 4(b), 5(b), 6(b), [84 Stat. 64][/us/stat/84/64], 65; July 23, 1974, [Pub. L. 93–353, title II][/us/pl/93/353/tII], §§ 201(a), (b), 202(a), [88 Stat. 371][/us/stat/88/371], 372; Aug. 1, 1977, [Pub. L. 95–83, title II][/us/pl/95/83/tII], § 202, [91 Stat. 386][/us/stat/91/386]; Nov. 9, 1978, [Pub. L. 95–622, title II][/us/pl/95/622/tII], § 211, [92 Stat. 3420][/us/stat/92/3420]; Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 925(a), [95 Stat. 569][/us/stat/95/569], set forth findings and declaration of policy and authorized appropriations with regard to assistance to medical libraries, prior to repeal by [Pub. L. 99–158][/us/pl/99/158], § 3(b), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
-    A prior section 391 of [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, as added Oct. 22, 1965, [Pub. L. 89–291, § 2][/us/pl/89/291/s2], [79 Stat. 1059][/us/stat/79/1059]; amended Mar. 13, 1970, [Pub. L. 91–212, § 10(b)(3)][/us/pl/91/212/s10/b/3], [84 Stat. 66][/us/stat/84/66]; July 23, 1974, [Pub. L. 93–353, title II, § 202(b)][/us/pl/93/353/s202/b], [88 Stat. 372][/us/stat/88/372], which defined “sciences related to health”, “National Medical Libraries Assistance Advisory Board”, “Board”, and “medical library”, was classified to [section 280b–1 of this title][/us/usc/t42/s280b–1], prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
+    A prior section 391 of [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], as added Oct. 22, 1965, [Pub. L. 89–291][/us/pl/89/291], § 2, [79 Stat. 1059][/us/stat/79/1059]; amended Mar. 13, 1970, [Pub. L. 91–212][/us/pl/91/212], § 10(b)(3), [84 Stat. 66][/us/stat/84/66]; July 23, 1974, [Pub. L. 93–353, title II][/us/pl/93/353/tII], § 202(b), [88 Stat. 372][/us/stat/88/372], which defined “sciences related to health”, “National Medical Libraries Assistance Advisory Board”, “Board”, and “medical library”, was classified to [section 280b–1 of this title][/us/usc/t42/s280b–1], prior to repeal by [Pub. L. 99–158][/us/pl/99/158], § 3(b), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
  __Amendments__ 
 
@@ -41,13 +41,13 @@
 
     1992—[Pub. L. 102–531][/us/pl/102/531] substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control” in subsecs. (a) and (b).
 
-    1990—Subsec. (a)(2). [Pub. L. 101–558, § 2(a)(1)][/us/pl/101/558/s2/a/1], inserted “, or enter into cooperative agreements or contracts with,” after “grants to”.
+    1990—Subsec. (a)(2). [Pub. L. 101–558][/us/pl/101/558], § 2(a)(1), inserted “, or enter into cooperative agreements or contracts with,” after “grants to”.
 
-    Subsec. (a)(3). [Pub. L. 101–558, § 2(a)(2)][/us/pl/101/558/s2/a/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 101–558][/us/pl/101/558], § 2(a)(2), added par. (3).
 
  __Findings and Purposes__ 
 
-[Pub. L. 99–649, § 2][/us/pl/99/649/s2], Nov. 10, 1986, [100 Stat. 3633][/us/stat/100/3633], provided that:
+[Pub. L. 99–649][/us/pl/99/649], § 2, Nov. 10, 1986, [100 Stat. 3633][/us/stat/100/3633], provided that:
 
 >     “(a)
 
@@ -79,44 +79,44 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/649/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F649%2Fs3
+[/us/pl/99/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F649
 [/us/stat/100/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3633
-[/us/pl/101/558/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F558%2Fs2%2Fa
+[/us/pl/101/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F558
 [/us/stat/104/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2772
-[/us/pl/102/531/s312/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F3
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/103/183/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs203%2Fb%2F2
+[/us/pl/103/183/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtII
 [/us/stat/107/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2232
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291%2Fs2
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/89/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291
 [/us/stat/79/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1059
 [/us/pl/91/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F212
 [/us/stat/84/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F64
-[/us/pl/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353
+[/us/pl/93/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtII
 [/us/stat/88/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F371
-[/us/pl/95/83/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs202
+[/us/pl/95/83/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtII
 [/us/stat/91/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F386
-[/us/pl/95/622/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs211
+[/us/pl/95/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtII
 [/us/stat/92/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3420
-[/us/pl/97/35/s925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs925%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F569
-[/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291%2Fs2
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/89/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F291
 [/us/stat/79/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1059
-[/us/pl/91/212/s10/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F212%2Fs10%2Fb%2F3
+[/us/pl/91/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F212
 [/us/stat/84/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F66
-[/us/pl/93/353/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2Fs202%2Fb
+[/us/pl/93/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353%2FtII
 [/us/stat/88/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F372
 [/us/usc/t42/s280b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%931
-[/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
-[/us/pl/101/558/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F558%2Fs2%2Fa%2F1
-[/us/pl/101/558/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F558%2Fs2%2Fa%2F2
-[/us/pl/99/649/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F649%2Fs2
+[/us/pl/101/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F558
+[/us/pl/101/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F558
+[/us/pl/99/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F649
 [/us/stat/100/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3633
 
 

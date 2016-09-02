@@ -17,7 +17,7 @@
 
     It is the sense of Congress that Federal agencies conducting assessments of risks to human health and the environment from energy technology, production, transport, transmission, distribution, storage, use, or conservation activities shall use sound and objective scientific practices in assessing such risks, shall consider the best available science (including peer reviewed studies), and shall include a description of the weight of the scientific evidence concerning such risks.
 
-([Pub. L. 102–486, title XXX, § 3022][/us/pl/102/486/s3022], as added [Pub. L. 109–58, title XIV, § 1401][/us/pl/109/58/s1401], Aug. 8, 2005, [119 Stat. 1061][/us/stat/119/1061].)
+([Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3022, as added [Pub. L. 109–58, title XIV][/us/pl/109/58/tXIV], § 1401, Aug. 8, 2005, [119 Stat. 1061][/us/stat/119/1061].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/102/486/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3022
-[/us/pl/109/58/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1401
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
+[/us/pl/109/58/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIV
 [/us/stat/119/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1061
 
 

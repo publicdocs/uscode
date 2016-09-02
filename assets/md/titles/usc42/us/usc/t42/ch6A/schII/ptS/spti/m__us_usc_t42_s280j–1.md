@@ -67,11 +67,11 @@
 
         To carry out this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399II, as added and amended [Pub. L. 111–148, title III, § 3015][/us/pl/111/148/s3015], title X, § 10305, Mar. 23, 2010, [124 Stat. 387][/us/stat/124/387], 938.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399II, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3015, title X, § 10305, Mar. 23, 2010, [124 Stat. 387][/us/stat/124/387], 938.)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 10305][/us/pl/111/148/s10305], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall collect and aggregate consistent data on quality and resource use measures from information systems used to support health care delivery to implement the public reporting of performance information, as described in [section 280j–2 of this title][/us/usc/t42/s280j–2], and may award grants or contracts for this purpose. The Secretary shall ensure that such collection, aggregation, and analysis systems span an increasingly broad range of patient populations, providers, and geographic areas over time.”
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 10305, amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall collect and aggregate consistent data on quality and resource use measures from information systems used to support health care delivery to implement the public reporting of performance information, as described in [section 280j–2 of this title][/us/usc/t42/s280j–2], and may award grants or contracts for this purpose. The Secretary shall ensure that such collection, aggregation, and analysis systems span an increasingly broad range of patient populations, providers, and geographic areas over time.”
 
 ----------
 
@@ -84,9 +84,9 @@
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
 [/us/usc/t42/s280j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280j%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3015
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F387
-[/us/pl/111/148/s10305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10305
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s280j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280j%E2%80%932
 
 

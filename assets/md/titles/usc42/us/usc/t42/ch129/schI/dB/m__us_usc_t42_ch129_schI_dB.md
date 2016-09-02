@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    This division is comprised of subtitle B, §§ 111–120, of title I of [Pub. L. 101–610][/us/pl/101/610]. A prior part B (§ 12521 et seq.), comprised of subtitle B, §§ 111–118, of title I of [Pub. L. 101–610][/us/pl/101/610], related to programs for students and out-of-school youth, prior to repeal by [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], (b), Sept. 21, 1993, [107 Stat. 825][/us/stat/107/825], 837.
+    This division is comprised of subtitle B, §§ 111–120, of title I of [Pub. L. 101–610][/us/pl/101/610]. A prior part B (§ 12521 et seq.), comprised of subtitle B, §§ 111–118, of title I of [Pub. L. 101–610][/us/pl/101/610], related to programs for students and out-of-school youth, prior to repeal by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(a)(2), (b), Sept. 21, 1993, [107 Stat. 825][/us/stat/107/825], 837.
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F825
 
 

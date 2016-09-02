@@ -17,7 +17,7 @@
 
     If a Clean Coal Power Initiative project selected after March 11, 2009, for negotiation under this or any other Act in any fiscal year, is not awarded within 2 years from the date the application was selected, negotiations shall cease and the Federal funds committed to the application shall be retained by the Department for future coal-related research, development and demonstration projects, except that the time limit may be extended at the Secretary’s discretion for matters outside the control of the applicant, or if the Secretary determines that extension of the time limit is in the public interest.
 
-([Pub. L. 111–8, div. C, title III][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 616][/us/stat/123/616].)
+([Pub. L. 111–8, div. C, title III][/us/pl/111/8/dC/tIII], Mar. 11, 2009, [123 Stat. 616][/us/stat/123/616].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdC%2FtIII
 [/us/stat/123/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F616
 
 

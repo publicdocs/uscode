@@ -99,21 +99,21 @@
 
         but such term does not include a Federal hospital or a psychiatric hospital (as described in section 1861(f)(1) of the Social Security Act \[[42 U.S.C. 1395x(f)(1)][/us/usc/t42/s1395x/f/1]\]).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1642, as added [Pub. L. 96–79, title III, § 301(a)][/us/pl/96/79/s301/a], Oct. 4, 1979, [93 Stat. 637][/us/stat/93/637]; amended [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1642, as added [Pub. L. 96–79, title III][/us/pl/96/79/tIII], § 301(a), Oct. 4, 1979, [93 Stat. 637][/us/stat/93/637]; amended [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
-    Section 300l–2 of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
+    Section 300l–2 of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
 
     The National Labor Relations Act, referred to in subsec. (c)(1), is [act July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], [49 Stat. 452][/us/stat/49/452], as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29][/us/usc/t29/s167] and Tables.
 
-    [Section 292e of this title][/us/usc/t42/s292e], referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
+    [Section 292e of this title][/us/usc/t42/s292e], referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
 
     The Social Security Act, referred to in subsec. (e), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
  __Codification__ 
 
-    In subsec. (b)(1)(D), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, known as the Davis-Bacon Act)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b)(1)(D), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, known as the Davis-Bacon Act)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Change of Name__ 
 
@@ -133,17 +133,17 @@
 [/us/usc/t42/s1395x/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fe
 [/us/usc/t42/s1395x/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Ff%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/96/79/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs301%2Fa
+[/us/pl/96/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtIII
 [/us/stat/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F637
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F452
 [/us/usc/t29/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs167
 [/us/usc/t42/s292e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292e
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -153,7 +153,7 @@
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

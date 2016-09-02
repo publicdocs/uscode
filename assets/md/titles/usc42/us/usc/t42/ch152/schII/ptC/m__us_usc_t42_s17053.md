@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 110–140, title II, § 246][/us/pl/110/140/s246], Dec. 19, 2007, [121 Stat. 1547][/us/stat/121/1547].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 246, Dec. 19, 2007, [121 Stat. 1547][/us/stat/121/1547].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs246
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1547
 
 

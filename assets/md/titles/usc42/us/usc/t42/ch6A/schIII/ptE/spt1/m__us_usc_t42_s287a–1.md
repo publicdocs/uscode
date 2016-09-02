@@ -43,7 +43,7 @@
 
         For purposes of this section, the term “rare disease” means any disease or condition that affects less than 200,000 persons in the United States.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 481, formerly § 404F, as added [Pub. L. 107–280, § 3][/us/pl/107/280/s3], Nov. 6, 2002, [116 Stat. 1989][/us/stat/116/1989]; amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(5), 104(b)(1)(B), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3693; renumbered § 481 and amended [Pub. L. 112–74, div. F, title II, § 221(c)(2)(A)][/us/pl/112/74/s221/c/2/A], Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 481, formerly § 404F, as added [Pub. L. 107–280][/us/pl/107/280], § 3, Nov. 6, 2002, [116 Stat. 1989][/us/stat/116/1989]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 103(b)(5), 104(b)(1)(B), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3693; renumbered § 481 and amended [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(c)(2)(A), Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089].)
 
  __Codification__ 
 
@@ -51,21 +51,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 287a–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 481, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 866][/us/stat/99/866]; amended [Pub. L. 103–43, title XV, § 1501(2)(C)][/us/pl/103/43/s1501/2/C], (D), June 10, 1993, [107 Stat. 172][/us/stat/107/172], 173, required biennial reports regarding the activities and policies of the National Center for Research Resources, prior to repeal by [Pub. L. 112–74, div. F, title II, § 221(a)(1)(B)][/us/pl/112/74/s221/a/1/B], Dec. 23, 2011, [125 Stat. 1086][/us/stat/125/1086].
+    A prior section 287a–1, [act July 1, 1944, ch. 373, title IV][/us/act/1944-07-01/ch373/tIV], § 481, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 866][/us/stat/99/866]; amended [Pub. L. 103–43, title XV][/us/pl/103/43/tXV], § 1501(2)(C), (D), June 10, 1993, [107 Stat. 172][/us/stat/107/172], 173, required biennial reports regarding the activities and policies of the National Center for Research Resources, prior to repeal by [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(a)(1)(B), Dec. 23, 2011, [125 Stat. 1086][/us/stat/125/1086].
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–74, § 221(c)(2)(A)(ii)][/us/pl/112/74/s221/c/2/A/ii], substituted “within the Center” for “within the Office of the Director of NIH” and “Director of the Center” for “Director of NIH”.
+    2011—Subsec. (a). [Pub. L. 112–74][/us/pl/112/74], § 221(c)(2)(A)(ii), substituted “within the Center” for “within the Office of the Director of NIH” and “Director of the Center” for “Director of NIH”.
 
-    Subsec. (b)(1)(C). [Pub. L. 112–74, § 221(c)(2)(A)(iii)][/us/pl/112/74/s221/c/2/A/iii], substituted “287a–2” for “283i”.
+    Subsec. (b)(1)(C). [Pub. L. 112–74][/us/pl/112/74], § 221(c)(2)(A)(iii), substituted “287a–2” for “283i”.
 
-    2007—Subsec. (b)(1)(F), (G). [Pub. L. 109–482, § 104(b)(1)(B)][/us/pl/109/482/s104/b/1/B], struck out subpars. (F) and (G) which read as follows:
+    2007—Subsec. (b)(1)(F), (G). [Pub. L. 109–482][/us/pl/109/482], § 104(b)(1)(B), struck out subpars. (F) and (G) which read as follows:
 
     “(F) The Director shall biennially prepare a report that describes the research and education activities on rare diseases being conducted or supported through the national research institutes and centers, and that identifies particular projects or types of projects that should in the future be conducted or supported by the national research institutes and centers or other entities in the field of research on rare diseases.
 
     “(G) The Director shall prepare the NIH Director’s annual report to Congress on rare disease research conducted by or supported through the national research institutes and centers.”
 
-    Subsec. (d). [Pub. L. 109–482, § 103(b)(5)][/us/pl/109/482/s103/b/5], struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $4,000,000 for each of the fiscal years 2003 through 2006.”
+    Subsec. (d). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(5), struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $4,000,000 for each of the fiscal years 2003 through 2006.”
 
  __Effective Date of 2007 Amendment__ 
 
@@ -73,7 +73,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 107–280, § 2][/us/pl/107/280/s2], Nov. 6, 2002, [116 Stat. 1988][/us/stat/116/1988], provided that:
+[Pub. L. 107–280][/us/pl/107/280], § 2, Nov. 6, 2002, [116 Stat. 1988][/us/stat/116/1988], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -114,28 +114,28 @@
 
 [/us/usc/t42/s287a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a%E2%80%932
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/280/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F280%2Fs3
+[/us/pl/107/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F280
 [/us/stat/116/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1989
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/112/74/s221/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F2%2FA
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1089
 [/us/usc/t42/s283h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283h
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/act/1944-07-01/ch373/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIV
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F866
-[/us/pl/103/43/s1501/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1501%2F2%2FC
+[/us/pl/103/43/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXV
 [/us/stat/107/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F172
-[/us/pl/112/74/s221/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fa%2F1%2FB
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1086
-[/us/pl/112/74/s221/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F2%2FA%2Fii
-[/us/pl/112/74/s221/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F2%2FA%2Fiii
-[/us/pl/109/482/s104/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FB
-[/us/pl/109/482/s103/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F5
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/107/280/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F280%2Fs2
+[/us/pl/107/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F280
 [/us/stat/116/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1988
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301

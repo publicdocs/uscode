@@ -21,7 +21,7 @@
 
     (2) that the applicant demonstrates have the broad support of community based organizations in such geographical areas.
 
-([Pub. L. 100–690, title III, § 3503][/us/pl/100/690/s3503], Nov. 18, 1988, [102 Stat. 4255][/us/stat/102/4255]; [Pub. L. 101–204, title X, § 1001(a)][/us/pl/101/204/s1001/a], Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826].)
+([Pub. L. 100–690, title III][/us/pl/100/690/tIII], § 3503, Nov. 18, 1988, [102 Stat. 4255][/us/stat/102/4255]; [Pub. L. 101–204, title X][/us/pl/101/204/tX], § 1001(a), Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t42/s11802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11802%2Fa
 [/us/usc/t42/s11801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11801
-[/us/pl/100/690/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs3503
+[/us/pl/100/690/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIII
 [/us/stat/102/4255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4255
-[/us/pl/101/204/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs1001%2Fa
+[/us/pl/101/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtX
 [/us/stat/103/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1826
 [/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 

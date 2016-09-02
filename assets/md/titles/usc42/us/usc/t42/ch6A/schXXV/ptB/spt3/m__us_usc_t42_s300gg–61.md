@@ -29,11 +29,11 @@
 
         The Secretary shall have the same authority in relation to enforcement of the provisions of this part with respect to issuers of health insurance coverage in the individual market in a State as the Secretary has under [section 300gg–22(b)(2) of this title][/us/usc/t42/s300gg–22/b/2], and [section 300gg–22(b)(3) of this title][/us/usc/t42/s300gg–22/b/3]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  with respect to violations of genetic nondiscrimination provisions, in relation to the enforcement of the provisions of part A with respect to issuers of health insurance coverage in the small group market in the State.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2761, formerly § 2745, as added [Pub. L. 104–191, title I, § 111(a)][/us/pl/104/191/s111/a], Aug. 21, 1996, [110 Stat. 1986][/us/stat/110/1986]; renumbered § 2761 and amended [Pub. L. 104–204, title VI, § 605(a)(2)][/us/pl/104/204/s605/a/2], (b)(2), Sept. 26, 1996, [110 Stat. 2941][/us/stat/110/2941], 2942; [Pub. L. 110–233, title I, § 102(b)(2)][/us/pl/110/233/s102/b/2], May 21, 2008, [122 Stat. 895][/us/stat/122/895].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2761, formerly § 2745, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 111(a), Aug. 21, 1996, [110 Stat. 1986][/us/stat/110/1986]; renumbered § 2761 and amended [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 605(a)(2), (b)(2), Sept. 26, 1996, [110 Stat. 2941][/us/stat/110/2941], 2942; [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 102(b)(2), May 21, 2008, [122 Stat. 895][/us/stat/122/895].)
 
  __References in Text__ 
 
-    [Section 300gg–22(b)(2) of this title][/us/usc/t42/s300gg–22/b/2], and [section 300gg–22(b)(3) of this title][/us/usc/t42/s300gg–22/b/3], referred to in subsec. (b), was in the original “section 2722(b)(2), and section 2722(b)(3)” and was translated as meaning section 2723(b)(2) and section 2723(b)(3) of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2722 as 2723 by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(4), 1563(c)(13)(C), formerly § 1562(c)(13)(C), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 269, 911.
+    [Section 300gg–22(b)(2) of this title][/us/usc/t42/s300gg–22/b/2], and [section 300gg–22(b)(3) of this title][/us/usc/t42/s300gg–22/b/3], referred to in subsec. (b), was in the original “section 2722(b)(2), and section 2722(b)(3)” and was translated as meaning section 2723(b)(2) and section 2723(b)(3) of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2722 as 2723 by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(4), 1563(c)(13)(C), formerly § 1562(c)(13)(C), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 269, 911.
 
  __Amendments__ 
 
@@ -64,15 +64,15 @@
 [/us/usc/t42/s300gg–22/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9322%2Fb%2F2
 [/us/usc/t42/s300gg–22/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9322%2Fb%2F3
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs111%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1986
-[/us/pl/104/204/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs605%2Fa%2F2
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2941
-[/us/pl/110/233/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs102%2Fb%2F2
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F895
 [/us/usc/t42/s300gg–22/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9322%2Fb%2F2
 [/us/usc/t42/s300gg–22/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9322%2Fb%2F3
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/usc/t42/s300gg–22/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9322%2Fb%2F2

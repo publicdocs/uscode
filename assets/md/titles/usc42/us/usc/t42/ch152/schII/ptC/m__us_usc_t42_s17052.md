@@ -233,7 +233,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $200,000,000 for each of the fiscal years 2008 through 2014.
 
-([Pub. L. 110–140, title II, § 244][/us/pl/110/140/s244], Dec. 19, 2007, [121 Stat. 1541][/us/stat/121/1541].)
+([Pub. L. 110–140, title II][/us/pl/110/140/tII], § 244, Dec. 19, 2007, [121 Stat. 1541][/us/stat/121/1541].)
 
 ----------
 
@@ -243,7 +243,7 @@
 ----------
 
 [/us/usc/t26/s30C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs30C
-[/us/pl/110/140/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs244
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1541
 
 

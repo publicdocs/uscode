@@ -39,7 +39,7 @@
 
         An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grant.
 
-([Pub. L. 110–199, title II, § 244][/us/pl/110/199/s244], Apr. 9, 2008, [122 Stat. 692][/us/stat/122/692].)
+([Pub. L. 110–199, title II][/us/pl/110/199/tII], § 244, Apr. 9, 2008, [122 Stat. 692][/us/stat/122/692].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/110/199/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs244
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F692
 
 

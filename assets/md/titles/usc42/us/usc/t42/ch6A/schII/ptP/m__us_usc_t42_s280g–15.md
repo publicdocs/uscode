@@ -259,7 +259,7 @@
 
         Nothing in this section shall be construed as limiting states’  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  authority over or responsibility for their state  <sup>\[1\]</sup>  justice systems.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–4, as added [Pub. L. 111–148, title X, § 10607][/us/pl/111/148/s10607], Mar. 23, 2010, [124 Stat. 1009][/us/stat/124/1009].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–4, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10607, Mar. 23, 2010, [124 Stat. 1009][/us/stat/124/1009].)
 
  __References in Text__ 
 
@@ -275,7 +275,7 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10607
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1009
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

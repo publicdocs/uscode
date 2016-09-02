@@ -35,7 +35,7 @@
 
         In this subchapter, the term “residential substance abuse treatment program” means a course of comprehensive individual and group substance abuse treatment services, lasting a period of at least 6 months, in residential treatment facilities set apart from the general population of a prison or jail (which may include the use of pharmacological treatment, where appropriate, that may extend beyond such period).
 
-([Pub. L. 90–351, title I, § 1904][/us/pl/90/351/s1904], as added [Pub. L. 103–322, title III, § 32101(a)(3)][/us/pl/103/322/s32101/a/3], Sept. 13, 1994, [108 Stat. 1900][/us/stat/108/1900]; amended [Pub. L. 107–273, div. B, title II, § 2102(3)][/us/pl/107/273/s2102/3], Nov. 2, 2002, [116 Stat. 1792][/us/stat/116/1792]; [Pub. L. 109–162, title XI, § 1144][/us/pl/109/162/s1144], Jan. 5, 2006, [119 Stat. 3111][/us/stat/119/3111]; [Pub. L. 110–199, title I, § 102(b)][/us/pl/110/199/s102/b], Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1904, as added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 32101(a)(3), Sept. 13, 1994, [108 Stat. 1900][/us/stat/108/1900]; amended [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2102(3), Nov. 2, 2002, [116 Stat. 1792][/us/stat/116/1792]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1144, Jan. 5, 2006, [119 Stat. 3111][/us/stat/119/3111]; [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 102(b), Apr. 9, 2008, [122 Stat. 668][/us/stat/122/668].)
 
  __Amendments__ 
 
@@ -61,14 +61,14 @@
 ----------
 
 [/us/usc/t42/s3796ff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796ff%E2%80%931
-[/us/pl/90/351/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1904
-[/us/pl/103/322/s32101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32101%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1900
-[/us/pl/107/273/s2102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2102%2F3
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1792
-[/us/pl/109/162/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1144
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3111
-[/us/pl/110/199/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs102%2Fb
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F668
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

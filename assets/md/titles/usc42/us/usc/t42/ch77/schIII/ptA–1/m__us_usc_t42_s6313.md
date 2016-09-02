@@ -1715,77 +1715,77 @@
 
             Subparagraph (C) of paragraph (1) shall not apply to a walk-in cooler or walk-in freezer component if the component manufacturer has demonstrated to the satisfaction of the Secretary that the component reduces energy consumption at least as much as if such subparagraph were to apply. In support of any demonstration under this paragraph, a manufacturer shall provide to the Secretary all data and technical information necessary to fully evaluate its application.
 
-([Pub. L. 94–163, title III, § 342][/us/pl/94/163/s342], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3269][/us/stat/92/3269]; amended [Pub. L. 102–486, title I, § 122(d)][/us/pl/102/486/s122/d], Oct. 24, 1992, [106 Stat. 2810][/us/stat/106/2810]; [Pub. L. 109–58, title I, § 136(b)][/us/pl/109/58/s136/b]–(e), Aug. 8, 2005, [119 Stat. 636–641][/us/stat/119/636-641]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, [121 Stat. 1554][/us/stat/121/1554], 1559, 1564, 1568, 1570; [Pub. L. 112–210][/us/pl/112/210], §§ 2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1516, 1518, 1522, 1524; [Pub. L. 113–188, title VI, § 601(c)][/us/pl/113/188/s601/c], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 342, as added [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 441(a), Nov. 9, 1978, [92 Stat. 3269][/us/stat/92/3269]; amended [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 122(d), Oct. 24, 1992, [106 Stat. 2810][/us/stat/106/2810]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 136(b)–(e), Aug. 8, 2005, [119 Stat. 636–641][/us/stat/119/636-641]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], §§ 305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, [121 Stat. 1554][/us/stat/121/1554], 1559, 1564, 1568, 1570; [Pub. L. 112–210][/us/pl/112/210], §§ 2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1516, 1518, 1522, 1524; [Pub. L. 113–188, title VI][/us/pl/113/188/tVI], § 601(c), Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
  __References in Text__ 
 
-    Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of this section, which was redesignated by [Pub. L. 110–140, § 313(b)(1)(A)][/us/pl/110/140/s313/b/1/A].
+    Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of this section, which was redesignated by [Pub. L. 110–140][/us/pl/110/140], § 313(b)(1)(A).
 
  __Amendments__ 
 
     2014—Subsec. (a)(6)(C)(v), (vi). [Pub. L. 113–188][/us/pl/113/188], which directed amendment of subsec. (a)(6)(C) by striking cl. (v) and redesignating the cl. (vi) “as added by [section 310(a)(4) of Public Law 112–110][/us/pl/112/110/s310/a/4]” as (v), was executed by striking cl. (v) and redesignating as (v) the cl. (vi) (relating to consideration of prices and operating patterns) which had been redesignated by [section 10(a)(4) of Pub. L. 112–210][/us/pl/112/210/s10/a/4], to reflect the probable intent of Congress. Prior to amendment, text of par. (v) read as follows: “The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph.”
 
-    2012—Subsec. (a)(6)(A)(i). [Pub. L. 112–210, § 5(b)(1)][/us/pl/112/210/s5/b/1], inserted “the standard levels or design requirements applicable under that standard to” before “any small commercial”.
+    2012—Subsec. (a)(6)(A)(i). [Pub. L. 112–210][/us/pl/112/210], § 5(b)(1), inserted “the standard levels or design requirements applicable under that standard to” before “any small commercial”.
 
-    Subsec. (a)(6)(B). [Pub. L. 112–210, § 10(a)(3)(A)(i)][/us/pl/112/210/s10/a/3/A/i]–(iii), designated existing provisions as cl. (i), inserted cl. (i) heading, and substituted “subparagraph (A)(ii)(II)” for “clause (ii)(II)” and “subparagraph (A)(i)” for “clause (i)”.
+    Subsec. (a)(6)(B). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(3)(A)(i)–(iii), designated existing provisions as cl. (i), inserted cl. (i) heading, and substituted “subparagraph (A)(ii)(II)” for “clause (ii)(II)” and “subparagraph (A)(i)” for “clause (i)”.
 
-    Subsec. (a)(6)(B)(ii). [Pub. L. 112–210, § 10(a)(3)(A)(iv)][/us/pl/112/210/s10/a/3/A/iv], added cl. (ii).
+    Subsec. (a)(6)(B)(ii). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(3)(A)(iv), added cl. (ii).
 
-    Subsec. (a)(6)(B)(iii). [Pub. L. 112–210, § 10(a)(4)][/us/pl/112/210/s10/a/4], redesignated cl. (iii), relating to consideration of prices and operating patterns, as cl. (vi) of subsec. (a)(6)(C).
+    Subsec. (a)(6)(B)(iii). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(4), redesignated cl. (iii), relating to consideration of prices and operating patterns, as cl. (vi) of subsec. (a)(6)(C).
 
-    [Pub. L. 112–210, § 10(a)(3)(A)(iv)][/us/pl/112/210/s10/a/3/A/iv], added cl. (iii). Former cl. (iii) redesignated cl. (vi) of subsec. (a)(6)(C).
+    [Pub. L. 112–210][/us/pl/112/210], § 10(a)(3)(A)(iv), added cl. (iii). Former cl. (iii) redesignated cl. (vi) of subsec. (a)(6)(C).
 
-    Subsec. (a)(6)(C)(i). [Pub. L. 112–210, § 5(b)(2)(A)][/us/pl/112/210/s5/b/2/A], in introductory provisions, substituted “Every 6 years,” for “Not later than 6 years after issuance of any final rule establishing or amending a standard, as required for a product under this part,” and inserted “conduct an evaluation of each class of covered equipment and shall” after “the Secretary shall”.
+    Subsec. (a)(6)(C)(i). [Pub. L. 112–210][/us/pl/112/210], § 5(b)(2)(A), in introductory provisions, substituted “Every 6 years,” for “Not later than 6 years after issuance of any final rule establishing or amending a standard, as required for a product under this part,” and inserted “conduct an evaluation of each class of covered equipment and shall” after “the Secretary shall”.
 
-    Subsec. (a)(6)(C)(iv). [Pub. L. 112–210, § 10(a)(3)(B)][/us/pl/112/210/s10/a/3/B], substituted “Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph” for “An amendment prescribed under this subsection” in introductory provisions.
+    Subsec. (a)(6)(C)(iv). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(3)(B), substituted “Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph” for “An amendment prescribed under this subsection” in introductory provisions.
 
-    Subsec. (a)(6)(C)(vi). [Pub. L. 112–210, § 10(a)(4)][/us/pl/112/210/s10/a/4], redesignated cl. (iii) of subsec. (a)(6)(B), relating to consideration of prices and operating patterns, as cl. (vi) of subsec. (a)(6)(C).
+    Subsec. (a)(6)(C)(vi). [Pub. L. 112–210][/us/pl/112/210], § 10(a)(4), redesignated cl. (iii) of subsec. (a)(6)(B), relating to consideration of prices and operating patterns, as cl. (vi) of subsec. (a)(6)(C).
 
-    [Pub. L. 112–210, § 5(b)(2)(B)][/us/pl/112/210/s5/b/2/B], added cl. (vi) relating to notices for covered equipment for which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product.
+    [Pub. L. 112–210][/us/pl/112/210], § 5(b)(2)(B), added cl. (vi) relating to notices for covered equipment for which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product.
 
-    Subsec. (c)(1)(C) to (E). [Pub. L. 112–210, § 4(1)][/us/pl/112/210/s4/1], added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
+    Subsec. (c)(1)(C) to (E). [Pub. L. 112–210][/us/pl/112/210], § 4(1), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
 
-    Subsec. (c)(4) to (6). [Pub. L. 112–210, § 4(2)][/us/pl/112/210/s4/2], (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Subsec. (c)(4) to (6). [Pub. L. 112–210][/us/pl/112/210], § 4(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-    Subsec. (f)(1). [Pub. L. 112–210, § 2(1)][/us/pl/112/210/s2/1], substituted “paragraphs (2) through (6)” for “paragraphs (2) through (5)” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 112–210][/us/pl/112/210], § 2(1), substituted “paragraphs (2) through (6)” for “paragraphs (2) through (5)” in introductory provisions.
 
-    Subsec. (f)(6). [Pub. L. 112–210, § 2(2)][/us/pl/112/210/s2/2], added par. (6).
+    Subsec. (f)(6). [Pub. L. 112–210][/us/pl/112/210], § 2(2), added par. (6).
 
-    2007—Subsec. (a)(1). [Pub. L. 110–140, § 314(b)(1)][/us/pl/110/140/s314/b/1], (2), in introductory provisions, inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “but before January 1, 2010,” after “January 1, 1994,”.
+    2007—Subsec. (a)(1). [Pub. L. 110–140][/us/pl/110/140], § 314(b)(1), (2), in introductory provisions, inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “but before January 1, 2010,” after “January 1, 1994,”.
 
-    Subsec. (a)(2). [Pub. L. 110–140, § 314(b)(1)][/us/pl/110/140/s314/b/1], inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 110–140][/us/pl/110/140], § 314(b)(1), inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” in introductory provisions.
 
-    Subsec. (a)(6). [Pub. L. 110–140, § 305(b)][/us/pl/110/140/s305/b], inserted heading, added subpars. (A) to (C), redesignated former subpar. (C) as (D), and struck out former subpars. (A) and (B) which related to, in subpar. (A), establishment of amended uniform national standards for certain air conditioning and heating equipment and products if ASHRAE/IES Standard 90.1 had been amended and, if such standard had not been amended, initiation of a rulemaking to determine whether a more stringent standard would result in additional energy conservation and be technologically feasible and economically justified, and, in subpar. (B), establishment of an amended standard, including factors to be considered, if a rule had been issued pursuant to a subpar. (A) determination and prohibition of an amended standard which would decrease energy efficiency or would likely result in the unavailability of a product type.
+    Subsec. (a)(6). [Pub. L. 110–140][/us/pl/110/140], § 305(b), inserted heading, added subpars. (A) to (C), redesignated former subpar. (C) as (D), and struck out former subpars. (A) and (B) which related to, in subpar. (A), establishment of amended uniform national standards for certain air conditioning and heating equipment and products if ASHRAE/IES Standard 90.1 had been amended and, if such standard had not been amended, initiation of a rulemaking to determine whether a more stringent standard would result in additional energy conservation and be technologically feasible and economically justified, and, in subpar. (B), establishment of an amended standard, including factors to be considered, if a rule had been issued pursuant to a subpar. (A) determination and prohibition of an amended standard which would decrease energy efficiency or would likely result in the unavailability of a product type.
 
-    Subsec. (a)(6)(B)(iii). [Pub. L. 110–140, § 306(c)][/us/pl/110/140/s306/c], added cl. (iii) at end.
+    Subsec. (a)(6)(B)(iii). [Pub. L. 110–140][/us/pl/110/140], § 306(c), added cl. (iii) at end.
 
-    Subsec. (a)(7). [Pub. L. 110–140, § 314(b)(3)][/us/pl/110/140/s314/b/3], (4)(A), in introductory provisions, inserted “(other than single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “manufactured on or after January 1, 2010,” before “shall meet”.
+    Subsec. (a)(7). [Pub. L. 110–140][/us/pl/110/140], § 314(b)(3), (4)(A), in introductory provisions, inserted “(other than single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “manufactured on or after January 1, 2010,” before “shall meet”.
 
-    Subsec. (a)(7)(A) to (C). [Pub. L. 110–140, § 314(b)(4)(B)][/us/pl/110/140/s314/b/4/B], substituted “For equipment manufactured on or after January 1, 2010, the” for “The”.
+    Subsec. (a)(7)(A) to (C). [Pub. L. 110–140][/us/pl/110/140], § 314(b)(4)(B), substituted “For equipment manufactured on or after January 1, 2010, the” for “The”.
 
-    Subsec. (a)(7)(D). [Pub. L. 110–140, § 314(b)(4)(C)][/us/pl/110/140/s314/b/4/C], added subpar. (D).
+    Subsec. (a)(7)(D). [Pub. L. 110–140][/us/pl/110/140], § 314(b)(4)(C), added subpar. (D).
 
-    Subsec. (a)(8), (9). [Pub. L. 110–140, § 314(b)(3)][/us/pl/110/140/s314/b/3], inserted “(other than single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” in introductory provisions.
+    Subsec. (a)(8), (9). [Pub. L. 110–140][/us/pl/110/140], § 314(b)(3), inserted “(other than single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” in introductory provisions.
 
-    Subsec. (a)(10). [Pub. L. 110–140, § 314(b)(5)][/us/pl/110/140/s314/b/5], added par. (10).
+    Subsec. (a)(10). [Pub. L. 110–140][/us/pl/110/140], § 314(b)(5), added par. (10).
 
-    Subsec. (b)(2) to (4). [Pub. L. 110–140, § 313(b)(1)][/us/pl/110/140/s313/b/1], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (b)(2) to (4). [Pub. L. 110–140][/us/pl/110/140], § 313(b)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (f). [Pub. L. 110–140, § 312(b)][/us/pl/110/140/s312/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–140][/us/pl/110/140], § 312(b), added subsec. (f).
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 136(b)(1)][/us/pl/109/58/s136/b/1], substituted “Small, large, and very large” for “Small and large” in heading.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 136(b)(1), substituted “Small, large, and very large” for “Small and large” in heading.
 
-    Subsec. (a)(1). [Pub. L. 109–58, § 136(b)(2)][/us/pl/109/58/s136/b/2], inserted “but before January 1, 2010,” after “January 1, 1994,” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 109–58][/us/pl/109/58], § 136(b)(2), inserted “but before January 1, 2010,” after “January 1, 1994,” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 109–58, § 136(b)(3)][/us/pl/109/58/s136/b/3], inserted “but before January 1, 2010,” after “January 1, 1995,” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 109–58][/us/pl/109/58], § 136(b)(3), inserted “but before January 1, 2010,” after “January 1, 1995,” in introductory provisions.
 
-    Subsec. (a)(6)(A). [Pub. L. 109–58, § 136(b)(4)(A)][/us/pl/109/58/s136/b/4/A], designated existing provisions as cl. (i), substituted “January 1, 2010” for “October 24, 1992”, inserted “and very large commercial package air conditioning and heating equipment, or if ASHRAE/IES Standard 90.1, as in effect on October 24, 1992, is amended with respect to any” after “large commercial package air conditioning and heating equipment,”, and added cl. (ii).
+    Subsec. (a)(6)(A). [Pub. L. 109–58][/us/pl/109/58], § 136(b)(4)(A), designated existing provisions as cl. (i), substituted “January 1, 2010” for “October 24, 1992”, inserted “and very large commercial package air conditioning and heating equipment, or if ASHRAE/IES Standard 90.1, as in effect on October 24, 1992, is amended with respect to any” after “large commercial package air conditioning and heating equipment,”, and added cl. (ii).
 
-    Subsec. (a)(6)(C)(ii). [Pub. L. 109–58, § 136(b)(4)(B)][/us/pl/109/58/s136/b/4/B], inserted “and very large commercial package air conditioning and heating equipment” after “large commercial package air conditioning and heating equipment”.
+    Subsec. (a)(6)(C)(ii). [Pub. L. 109–58][/us/pl/109/58], § 136(b)(4)(B), inserted “and very large commercial package air conditioning and heating equipment” after “large commercial package air conditioning and heating equipment”.
 
-    Subsec. (a)(7) to (9). [Pub. L. 109–58, § 136(b)(5)][/us/pl/109/58/s136/b/5], added pars. (7) to (9).
+    Subsec. (a)(7) to (9). [Pub. L. 109–58][/us/pl/109/58], § 136(b)(5), added pars. (7) to (9).
 
-    Subsecs. (c) to (e). [Pub. L. 109–58, § 136(c)][/us/pl/109/58/s136/c]–(e), added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 109–58][/us/pl/109/58], § 136(c)–(e), added subsecs. (c) to (e).
 
     1992—[Pub. L. 102–486][/us/pl/102/486] amended section generally, substituting present provisions for former provisions requiring Secretary to conduct evaluations of electric motors and pumps and other industrial equipment for purposes of determining standards.
 
@@ -1795,7 +1795,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–140, title III, § 313(b)(2)][/us/pl/110/140/s313/b/2], Dec. 19, 2007, [121 Stat. 1569][/us/stat/121/1569], provided that: 
+[Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 313(b)(2), Dec. 19, 2007, [121 Stat. 1569][/us/stat/121/1569], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] take effect on the date that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\].”
 
@@ -1810,60 +1810,60 @@
 
 [/us/usc/t42/s6314/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6314%2Fa%2F7
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/94/163/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs342
-[/us/pl/95/619/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs441%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3269
-[/us/pl/102/486/s122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs122%2Fd
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2810
-[/us/pl/109/58/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fb
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/636-641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F636-641
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1554
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1514
-[/us/pl/113/188/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs601%2Fc
+[/us/pl/113/188/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtVI
 [/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
-[/us/pl/110/140/s313/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs313%2Fb%2F1%2FA
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/112/110/s310/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F110%2Fs310%2Fa%2F4
 [/us/pl/112/210/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F4
-[/us/pl/112/210/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fb%2F1
-[/us/pl/112/210/s10/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F3%2FA%2Fi
-[/us/pl/112/210/s10/a/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F3%2FA%2Fiv
-[/us/pl/112/210/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F4
-[/us/pl/112/210/s10/a/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F3%2FA%2Fiv
-[/us/pl/112/210/s5/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fb%2F2%2FA
-[/us/pl/112/210/s10/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F3%2FB
-[/us/pl/112/210/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F4
-[/us/pl/112/210/s5/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fb%2F2%2FB
-[/us/pl/112/210/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs4%2F1
-[/us/pl/112/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs4%2F2
-[/us/pl/112/210/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs2%2F1
-[/us/pl/112/210/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs2%2F2
-[/us/pl/110/140/s314/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fb%2F1
-[/us/pl/110/140/s314/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fb%2F1
-[/us/pl/110/140/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs305%2Fb
-[/us/pl/110/140/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs306%2Fc
-[/us/pl/110/140/s314/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fb%2F3
-[/us/pl/110/140/s314/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fb%2F4%2FB
-[/us/pl/110/140/s314/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fb%2F4%2FC
-[/us/pl/110/140/s314/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fb%2F3
-[/us/pl/110/140/s314/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs314%2Fb%2F5
-[/us/pl/110/140/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs313%2Fb%2F1
-[/us/pl/110/140/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs312%2Fb
-[/us/pl/109/58/s136/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fb%2F1
-[/us/pl/109/58/s136/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fb%2F2
-[/us/pl/109/58/s136/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fb%2F3
-[/us/pl/109/58/s136/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fb%2F4%2FA
-[/us/pl/109/58/s136/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fb%2F4%2FB
-[/us/pl/109/58/s136/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fb%2F5
-[/us/pl/109/58/s136/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs136%2Fc
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/112/210/s10/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F13
 [/us/usc/t42/s6291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6291
-[/us/pl/110/140/s313/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs313%2Fb%2F2
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1569
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

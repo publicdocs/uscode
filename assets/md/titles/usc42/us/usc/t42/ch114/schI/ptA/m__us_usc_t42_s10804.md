@@ -41,23 +41,23 @@
 
         The definition of “individual with a mental illness” contained in section 10802(4)(B)(iii)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title shall apply, and thus an eligible system may use its allotment under this subchapter to provide representation to such individuals, only if the total allotment under this subchapter for any fiscal year is $30,000,000 or more, and in such case, an eligible system must give priority to representing persons with mental illness as defined in subparagraphs (A) and (B)(i) of [section 10802(4) of this title][/us/usc/t42/s10802/4].
 
-([Pub. L. 99–319, title I, § 104][/us/pl/99/319/s104], May 23, 1986, [100 Stat. 479][/us/stat/100/479]; [Pub. L. 100–509, § 7(a)][/us/pl/100/509/s7/a], (b)(1), Oct. 20, 1988, [102 Stat. 2544][/us/stat/102/2544]; [Pub. L. 102–173][/us/pl/102/173], §§ 5, 10(2), Nov. 27, 1991, [105 Stat. 1217][/us/stat/105/1217], 1219; [Pub. L. 106–310, div. B, title XXXII, § 3206(c)][/us/pl/106/310/s3206/c], Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 104, May 23, 1986, [100 Stat. 479][/us/stat/100/479]; [Pub. L. 100–509][/us/pl/100/509], § 7(a), (b)(1), Oct. 20, 1988, [102 Stat. 2544][/us/stat/102/2544]; [Pub. L. 102–173][/us/pl/102/173], §§ 5, 10(2), Nov. 27, 1991, [105 Stat. 1217][/us/stat/105/1217], 1219; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(c), Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194].)
 
  __References in Text__ 
 
-    [Section 10802(4)(B)(iii) of this title][/us/usc/t42/s10802/4/B/iii], referred to in subsec. (d), was redesignated [section 10802(4)(B)(i)(III) of this title][/us/usc/t42/s10802/4/B/i/III] by [Pub. L. 106–310, div. B, title XXXII, § 3206(b)(1)(B)(i)][/us/pl/106/310/s3206/b/1/B/i], (ii), Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194].
+    [Section 10802(4)(B)(iii) of this title][/us/usc/t42/s10802/4/B/iii], referred to in subsec. (d), was redesignated [section 10802(4)(B)(i)(III) of this title][/us/usc/t42/s10802/4/B/i/III] by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(b)(1)(B)(i), (ii), Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194].
 
  __Amendments__ 
 
     2000—Subsec. (d). [Pub. L. 106–310][/us/pl/106/310] added subsec. (d).
 
-    1991—Subsec. (a). [Pub. L. 102–173, § 10(2)][/us/pl/102/173/s10/2], substituted “individuals with mental illness” for “mentally ill individuals” in three places.
+    1991—Subsec. (a). [Pub. L. 102–173][/us/pl/102/173], § 10(2), substituted “individuals with mental illness” for “mentally ill individuals” in three places.
 
-    Subsec. (c). [Pub. L. 102–173, § 5][/us/pl/102/173/s5], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–173][/us/pl/102/173], § 5, added subsec. (c).
 
-    1988—Subsec. (a)(2). [Pub. L. 100–509, § 7(a)][/us/pl/100/509/s7/a], substituted “including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which” for “which, on May 23, 1986”.
+    1988—Subsec. (a)(2). [Pub. L. 100–509][/us/pl/100/509], § 7(a), substituted “including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which” for “which, on May 23, 1986”.
 
-    Subsec. (b)(2). [Pub. L. 100–509, § 7(b)(1)][/us/pl/100/509/s7/b/1], substituted “10” for “5”.
+    Subsec. (b)(2). [Pub. L. 100–509][/us/pl/100/509], § 7(b)(1), substituted “10” for “5”.
 
 ----------
 
@@ -67,22 +67,22 @@
 ----------
 
 [/us/usc/t42/s10802/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10802%2F4
-[/us/pl/99/319/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs104
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F479
-[/us/pl/100/509/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fa
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2544
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1217
-[/us/pl/106/310/s3206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fc
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1194
 [/us/usc/t42/s10802/4/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10802%2F4%2FB%2Fiii
 [/us/usc/t42/s10802/4/B/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10802%2F4%2FB%2Fi%2FIII
-[/us/pl/106/310/s3206/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fb%2F1%2FB%2Fi
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1194
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/102/173/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F2
-[/us/pl/102/173/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs5
-[/us/pl/100/509/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fa
-[/us/pl/100/509/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs7%2Fb%2F1
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 
 

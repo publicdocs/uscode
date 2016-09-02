@@ -31,7 +31,7 @@
 
         Recommendations issued following any abatement conference conducted prior to August 7, 1977, shall remain in effect with respect to any pollutant for which no national ambient air quality standard has been established under [section 7409 of this title][/us/usc/t42/s7409] unless the Administrator, after consultation with all agencies which were party to the conference, rescinds any such recommendation on grounds of obsolescence.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 115, formerly § 5, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 396][/us/stat/77/396]; renumbered § 105 and amended [Pub. L. 89–272, title I][/us/pl/89/272], §§ 101(2), (3), 102, Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992], 995, renumbered § 108 and amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 491][/us/stat/81/491], renumbered § 115 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 4(a), (b)(2)–(10), 15(c)(2), Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678], 1688, 1689, 1713; [Pub. L. 95–95, title I, § 114][/us/pl/95/95/s114], Aug. 7, 1977, [91 Stat. 710][/us/stat/91/710].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 115, formerly § 5, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 396][/us/stat/77/396]; renumbered § 105 and amended [Pub. L. 89–272, title I][/us/pl/89/272/tI], §§ 101(2), (3), 102, Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992], 995, renumbered § 108 and amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 491][/us/stat/81/491], renumbered § 115 and amended [Pub. L. 91–604][/us/pl/91/604], §§ 4(a), (b)(2)–(10), 15(c)(2), Dec. 31, 1970, [84 Stat. 1678][/us/stat/84/1678], 1688, 1689, 1713; [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 114, Aug. 7, 1977, [91 Stat. 710][/us/stat/91/710].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
     1977—[Pub. L. 95–95][/us/pl/95/95] completely revised section by substituting provisions establishing a mechanism for the Administrator to trigger a revision of a State implementation plan under section 7410(a)(2)(H) upon a petition of an international agency or the Secretary of State if he finds that emissions originating in a State endanger the health or welfare of persons in a foreign country for provisions calling for the abatement of air pollution by means of conference procedures.
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 4(b)(2)][/us/pl/91/604/s4/b/2], inserted “and which is covered by subsection (b) or (c) of this section” after “persons”.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 4(b)(2), inserted “and which is covered by subsection (b) or (c) of this section” after “persons”.
 
     Subsec. (b). [Pub. L. 91–604][/us/pl/91/604], §§ 4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as (b)(1), (2), and (3), substituted “Administrator” for “Secretary” wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
 
@@ -49,15 +49,15 @@
 
     Subsec. (d). [Pub. L. 91–604][/us/pl/91/604], §§ 4(b)(4), (6), (7), (8), 15(c)(2), redesignated former subsec. (d)(2) and (3) as (d)(1) and (2), in (d)(1) substituted “Administrator” for “Secretary” wherever appearing and “any conference under this section” for “such conference”, and in (d)(2) substituted “Administrator” for “Secretary”. Former subsec. (d)(1)(A), (B), and (C) were redesignated as (b)(1), (2), and (3), respectively, and subsec. (d)(1)(D) was redesignated as (c).
 
-    Subsec. (e). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” wherever appearing.
+    Subsec. (e). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 
-    Subsec. (f). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” wherever appearing and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+    Subsec. (f). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
 
     Subsec. (g). [Pub. L. 91–604][/us/pl/91/604], §§ 4(b)(9), 15(c)(2), substituted “Administrator” for “Secretary” and “subsection (c)” for “subparagraph (D) of subsection (d)”.
 
-    Subsecs. (i), (j). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary” wherever appearing.
+    Subsecs. (i), (j). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 
-    Subsec. (k). [Pub. L. 91–604, § 4(b)(3)][/us/pl/91/604/s4/b/3], (10), substituted provisions relating to compliance with any requirement of an applicable implementation plan or with any standard prescribed under [section 7411 of this title][/us/usc/t42/s7411] or [section 7412 of this title][/us/usc/t42/s7412], for provisions relating to the enjoining of imminent and substantial endangerment from pollution sources.
+    Subsec. (k). [Pub. L. 91–604][/us/pl/91/604], § 4(b)(3), (10), substituted provisions relating to compliance with any requirement of an applicable implementation plan or with any standard prescribed under [section 7411 of this title][/us/usc/t42/s7411] or [section 7412 of this title][/us/usc/t42/s7412], for provisions relating to the enjoining of imminent and substantial endangerment from pollution sources.
 
     1967—Subsec. (b). [Pub. L. 90–148][/us/pl/90/148] substituted reference to subsec. (c), (h), or (k) of this section for reference to subsec. (g) of this section.
 
@@ -77,13 +77,13 @@
 
     Subsec. (k). [Pub. L. 90–148][/us/pl/90/148] added subsec. (k).
 
-    1965—Subsec. (b). [Pub. L. 89–272, § 101(2)][/us/pl/89/272/s101/2], substituted “this title” for “this Act”, which for purposes of codification has been changed to “this subchapter”.
+    1965—Subsec. (b). [Pub. L. 89–272][/us/pl/89/272], § 101(2), substituted “this title” for “this Act”, which for purposes of codification has been changed to “this subchapter”.
 
-    Subsec. (c)(1)(D). [Pub. L. 89–272, § 102(a)][/us/pl/89/272/s102/a], added subpar. (D).
+    Subsec. (c)(1)(D). [Pub. L. 89–272][/us/pl/89/272], § 102(a), added subpar. (D).
 
-    Subsec. (d)(3). [Pub. L. 89–272, § 101(2)][/us/pl/89/272/s101/2], substituted “subchapter” for “chapter”.
+    Subsec. (d)(3). [Pub. L. 89–272][/us/pl/89/272], § 101(2), substituted “subchapter” for “chapter”.
 
-    Subsec. (f)(1). [Pub. L. 89–272, § 102(b)][/us/pl/89/272/s102/b], designated existing provisions as cl. (A) and added cl. (B).
+    Subsec. (f)(1). [Pub. L. 89–272][/us/pl/89/272], § 102(b), designated existing provisions as cl. (A) and added cl. (B).
 
  __Effective Date of 1977 Amendment__ 
 
@@ -95,7 +95,7 @@
 
  __United States-Canadian Negotiations on Air Quality__ 
 
-[Pub. L. 95–426, title VI, § 612][/us/pl/95/426/s612], Oct. 7, 1978, [92 Stat. 990][/us/stat/92/990], provided that:
+[Pub. L. 95–426, title VI][/us/pl/95/426/tVI], § 612, Oct. 7, 1978, [92 Stat. 990][/us/stat/92/990], provided that:
 
 >     “(a)
 
@@ -123,27 +123,27 @@
 [/us/usc/t42/s7410/a/2/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fa%2F2%2FH%2Fii
 [/us/usc/t42/s7409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7409
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F396
-[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F491
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1678
-[/us/pl/95/95/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs114
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F710
 [/us/usc/t42/s1857d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857d
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
-[/us/pl/91/604/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fb%2F2
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fb%2F3
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
@@ -155,10 +155,10 @@
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
-[/us/pl/89/272/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F2
-[/us/pl/89/272/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs102%2Fa
-[/us/pl/89/272/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F2
-[/us/pl/89/272/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs102%2Fb
+[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
+[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
+[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
+[/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -166,7 +166,7 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fb
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/95/426/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs612
+[/us/pl/95/426/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVI
 [/us/stat/92/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F990
 
 

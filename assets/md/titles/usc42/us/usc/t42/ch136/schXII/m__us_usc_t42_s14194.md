@@ -111,7 +111,7 @@
 
         (11) Evaluating the treatment of victims of such crimes and acts in Federal, State, and local criminal justice systems, and making recommendations designed to improve such treatment.
 
-([Pub. L. 103–322, title XXVII, § 270004][/us/pl/103/322/s270004], Sept. 13, 1994, [108 Stat. 2092][/us/stat/108/2092].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270004, Sept. 13, 1994, [108 Stat. 2092][/us/stat/108/2092].)
 
 ----------
 
@@ -121,7 +121,7 @@
 ----------
 
 [/us/usc/t42/s14193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14193
-[/us/pl/103/322/s270004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270004
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2092
 
 

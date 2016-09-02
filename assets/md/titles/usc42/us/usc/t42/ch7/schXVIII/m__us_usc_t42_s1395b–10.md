@@ -43,7 +43,7 @@
 
         Not later than 24 months after July 15, 2008, the Secretary shall implement the approaches identified in the report submitted under subsection (b)(1) for the ongoing, accurate, and timely collection and evaluation of data on health care disparities on the basis of race, ethnicity, and gender.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1809, as added [Pub. L. 110–275, title I, § 185][/us/pl/110/275/s185], July 15, 2008, [122 Stat. 2587][/us/stat/122/2587].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1809, as added [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 185, July 15, 2008, [122 Stat. 2587][/us/stat/122/2587].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s1395w–22/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9322%2Fe%2F3
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/110/275/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs185
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2587
 
 

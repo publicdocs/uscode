@@ -39,7 +39,7 @@
 
         If the Administrator determines that any Federal agency under subsection (a) of this section is not adequately providing information respecting the sites referred to in subsection (a) of this section, the Administrator shall notify the chief official of such agency. If within ninety days following such notification, the Federal agency has not undertaken a program to adequately provide such information, the Administrator shall carry out the inventory program for such agency.
 
-([Pub. L. 89–272, title II, § 3016][/us/pl/89/272/s3016], as added [Pub. L. 98–616, title II, § 244][/us/pl/98/616/s244], Nov. 8, 1984, [98 Stat. 3261][/us/stat/98/3261].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3016, as added [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 244, Nov. 8, 1984, [98 Stat. 3261][/us/stat/98/3261].)
 
 ----------
 
@@ -51,8 +51,8 @@
 [/us/usc/t42/s6927/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6927%2Fb
 [/us/usc/t42/s9603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9603
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
-[/us/pl/89/272/s3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3016
-[/us/pl/98/616/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs244
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3261
 
 

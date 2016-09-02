@@ -323,7 +323,7 @@
 
                 (ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319L, as added [Pub. L. 109–417, title IV, § 401][/us/pl/109/417/s401], Dec. 19, 2006, [120 Stat. 2865][/us/stat/120/2865]; amended [Pub. L. 113–5, title IV, § 402(a)][/us/pl/113/5/s402/a]–(d), (f), Mar. 13, 2013, [127 Stat. 194][/us/stat/127/194], 195.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319L, as added [Pub. L. 109–417, title IV][/us/pl/109/417/tIV], § 401, Dec. 19, 2006, [120 Stat. 2865][/us/stat/120/2865]; amended [Pub. L. 113–5, title IV][/us/pl/113/5/tIV], § 402(a)–(d), (f), Mar. 13, 2013, [127 Stat. 194][/us/stat/127/194], 195.)
 
  __References in Text__ 
 
@@ -331,7 +331,7 @@
 
     Section 405 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(4)(A)(iii), is [section 405 of Pub. L. 109–417][/us/pl/109/417/s405], which is set out as a note under [section 247d–6a of this title][/us/usc/t42/s247d–6a].
 
-    Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is [section 845 of Pub. L. 103–160][/us/pl/103/160/s845], which was formerly set out as a note under [section 2371 of Title 10][/us/usc/t10/s2371], Armed Forces, prior to repeal by [Pub. L. 114–92, div. A, title VIII, § 815(c)][/us/pl/114/92/s815/c], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896]. See [section 2371b of Title 10][/us/usc/t10/s2371b].
+    Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is [section 845 of Pub. L. 103–160][/us/pl/103/160/s845], which was formerly set out as a note under [section 2371 of Title 10][/us/usc/t10/s2371], Armed Forces, prior to repeal by [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 815(c), Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896]. See [section 2371b of Title 10][/us/usc/t10/s2371b].
 
     The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], [60 Stat. 842][/us/stat/60/842], which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 992][/us/stat/62/992], the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -339,29 +339,29 @@
 
  __Codification__ 
 
-    In subsec. (c)(5)(A)(ii)(II), “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” substituted for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(5)(A)(ii)(II), “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” substituted for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(5)(C), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(5)(C), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c)(5)(F), “[section 3304(a)(3) of title 41][/us/usc/t41/s3304/a/3]” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(3)][/us/usc/t41/s253/c/3])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(5)(F), “[section 3304(a)(3) of title 41][/us/usc/t41/s3304/a/3]” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(3)][/us/usc/t41/s253/c/3])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2013—Subsec. (c)(4)(B)(iii). [Pub. L. 113–5, § 402(a)(1)][/us/pl/113/5/s402/a/1], inserted “(which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act or [section 262 of this title][/us/usc/t42/s262])” after “research and development”.
+    2013—Subsec. (c)(4)(B)(iii). [Pub. L. 113–5][/us/pl/113/5], § 402(a)(1), inserted “(which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act or [section 262 of this title][/us/usc/t42/s262])” after “research and development”.
 
-    Subsec. (c)(4)(D)(iii). [Pub. L. 113–5, § 402(a)(2)][/us/pl/113/5/s402/a/2], substituted “vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies” for “and vaccine manufacturing technologies”.
+    Subsec. (c)(4)(D)(iii). [Pub. L. 113–5][/us/pl/113/5], § 402(a)(2), substituted “vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies” for “and vaccine manufacturing technologies”.
 
-    Subsec. (c)(5)(G). [Pub. L. 113–5, § 402(b)][/us/pl/113/5/s402/b], added subpar. (G).
+    Subsec. (c)(5)(G). [Pub. L. 113–5][/us/pl/113/5], § 402(b), added subpar. (G).
 
-    Subsec. (d)(2). [Pub. L. 113–5, § 402(c)][/us/pl/113/5/s402/c], amended par. (2) generally. Prior to amendment, text read as follows: “To carry out the purposes of this section, there are authorized to be appropriated to the Fund—
+    Subsec. (d)(2). [Pub. L. 113–5][/us/pl/113/5], § 402(c), amended par. (2) generally. Prior to amendment, text read as follows: “To carry out the purposes of this section, there are authorized to be appropriated to the Fund—
 
     “(A) $1,070,000,000 for fiscal years 2006 through 2008, the amounts to remain available until expended; and
 
     “(B) such sums as may be necessary for subsequent fiscal years, the amounts to remain available until expended.”
 
-    Subsec. (e)(1)(C). [Pub. L. 113–5, § 402(d)][/us/pl/113/5/s402/d], substituted “12 years” for “7 years”.
+    Subsec. (e)(1)(C). [Pub. L. 113–5][/us/pl/113/5], § 402(d), substituted “12 years” for “7 years”.
 
-    Subsec. (f). [Pub. L. 113–5, § 402(f)][/us/pl/113/5/s402/f], added subsec. (f).
+    Subsec. (f). [Pub. L. 113–5][/us/pl/113/5], § 402(f), added subsec. (f).
 
 ----------
 
@@ -401,9 +401,9 @@
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/usc/t42/s247d–7f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937f
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/417/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs401
+[/us/pl/109/417/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIV
 [/us/stat/120/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2865
-[/us/pl/113/5/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fa
+[/us/pl/113/5/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIV
 [/us/stat/127/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F194
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -412,7 +412,7 @@
 [/us/usc/t42/s247d–6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936a
 [/us/pl/103/160/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs845
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/pl/114/92/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fc
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 [/us/usc/t10/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371b
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
@@ -422,22 +422,22 @@
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/usc/t41/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fc
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F3
 [/us/usc/t41/s253/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fc%2F3
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/113/5/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fa%2F1
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/113/5/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fa%2F2
-[/us/pl/113/5/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fb
-[/us/pl/113/5/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fc
-[/us/pl/113/5/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fd
-[/us/pl/113/5/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Ff
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 
 

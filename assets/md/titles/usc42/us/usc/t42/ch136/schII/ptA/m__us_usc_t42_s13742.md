@@ -57,7 +57,7 @@
 
             The Council shall conduct a thorough evaluation of the programs assisted under this subchapter.
 
-([Pub. L. 103–322, title III, § 30102][/us/pl/103/322/s30102], Sept. 13, 1994, [108 Stat. 1837][/us/stat/108/1837].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30102, Sept. 13, 1994, [108 Stat. 1837][/us/stat/108/1837].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30102
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1837
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

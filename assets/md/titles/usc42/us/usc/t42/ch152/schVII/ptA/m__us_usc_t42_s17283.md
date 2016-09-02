@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch152/schVII/ptA/m__us_usc_t42_s17282.md) | [Next](./../../../../../..//us/usc/t42/ch152/schVII/ptA/m__us_usc_t42_s17284.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17283)
 
-## § 17283. Repealed. [Pub. L. 113–76, div. D, title III, § 314][/us/pl/113/76/s314], Jan. 17, 2014, [128 Stat. 177][/us/stat/128/177]
+## § 17283. Repealed. [Pub. L. 113–76, div. D, title III][/us/pl/113/76/dD/tIII], § 314, Jan. 17, 2014, [128 Stat. 177][/us/stat/128/177]
 
-    Section, [Pub. L. 110–140, title VIII, § 804][/us/pl/110/140/s804], Dec. 19, 2007, [121 Stat. 1720][/us/stat/121/1720], related to coordination of planned refinery outages.
+    Section, [Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 804, Dec. 19, 2007, [121 Stat. 1720][/us/stat/121/1720], related to coordination of planned refinery outages.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/113/76/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs314
+[/us/pl/113/76/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdD%2FtIII
 [/us/stat/128/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F177
-[/us/pl/110/140/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs804
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1720
 
 

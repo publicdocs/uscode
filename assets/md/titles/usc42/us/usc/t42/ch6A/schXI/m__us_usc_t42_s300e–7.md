@@ -69,11 +69,11 @@
 
         The Secretary may take such action as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this subchapter, including taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1308, as added [Pub. L. 93–222, § 2][/us/pl/93/222/s2], Dec. 29, 1973, [87 Stat. 927][/us/stat/87/927]; amended [Pub. L. 94–460, title I, § 109(b)(2)][/us/pl/94/460/s109/b/2], (c), Oct. 8, 1976, [90 Stat. 1950][/us/stat/90/1950]; [Pub. L. 95–559, § 4(c)][/us/pl/95/559/s4/c], Nov. 1, 1978, [92 Stat. 2132][/us/stat/92/2132]; [Pub. L. 97–35, title IX, § 945][/us/pl/97/35/s945], Aug. 13, 1981, [95 Stat. 577][/us/stat/95/577]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–660, title VIII, § 807][/us/pl/99/660/s807], Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1308, as added [Pub. L. 93–222][/us/pl/93/222], § 2, Dec. 29, 1973, [87 Stat. 927][/us/stat/87/927]; amended [Pub. L. 94–460, title I][/us/pl/94/460/tI], § 109(b)(2), (c), Oct. 8, 1976, [90 Stat. 1950][/us/stat/90/1950]; [Pub. L. 95–559][/us/pl/95/559], § 4(c), Nov. 1, 1978, [92 Stat. 2132][/us/stat/92/2132]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 945, Aug. 13, 1981, [95 Stat. 577][/us/stat/95/577]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 807, Nov. 14, 1986, [100 Stat. 3800][/us/stat/100/3800].)
 
  __Codification__ 
 
-    In subsec. (d)(2), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act” and “that Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d)(2), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act” and “that Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -83,17 +83,17 @@
 
     1981—Subsec. (b)(2). [Pub. L. 97–35][/us/pl/97/35] inserted provisions relating to changes in the rate of interest by the Secretary, and in cl. (D) made changes in nomenclature.
 
-    1978—Subsec. (d). [Pub. L. 95–559, § 4(c)(2)(A)][/us/pl/95/559/s4/c/2/A], in pars. (1) and (2) inserted “and to take the action authorized by subsection (f) of this section” after “by him under this subchapter”.
+    1978—Subsec. (d). [Pub. L. 95–559][/us/pl/95/559], § 4(c)(2)(A), in pars. (1) and (2) inserted “and to take the action authorized by subsection (f) of this section” after “by him under this subchapter”.
 
-    Subsec. (e). [Pub. L. 95–559, § 4(c)(2)(B)][/us/pl/95/559/s4/c/2/B], inserted “and to take the action authorized by subsection (f) of this section” after “loans under this subchapter”.
+    Subsec. (e). [Pub. L. 95–559][/us/pl/95/559], § 4(c)(2)(B), inserted “and to take the action authorized by subsection (f) of this section” after “loans under this subchapter”.
 
-    Subsec. (f). [Pub. L. 95–559, § 4(c)(1)][/us/pl/95/559/s4/c/1], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–559][/us/pl/95/559], § 4(c)(1), added subsec. (f).
 
-    1976—Subsec. (a)(1)(A). [Pub. L. 94–460, § 109(c)(1)][/us/pl/94/460/s109/c/1], substituted “for loans with similar maturities, terms, conditions, and security” for “for similar loans”.
+    1976—Subsec. (a)(1)(A). [Pub. L. 94–460][/us/pl/94/460], § 109(c)(1), substituted “for loans with similar maturities, terms, conditions, and security” for “for similar loans”.
 
-    Subsec. (b)(2)(D). [Pub. L. 94–460, § 109(c)(2)][/us/pl/94/460/s109/c/2], substituted “marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges” for “loans guaranteed under this subchapter”.
+    Subsec. (b)(2)(D). [Pub. L. 94–460][/us/pl/94/460], § 109(c)(2), substituted “marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges” for “loans guaranteed under this subchapter”.
 
-    Subsec. (c)(5). [Pub. L. 94–460, § 109(b)(2)][/us/pl/94/460/s109/b/2], added par. (5).
+    Subsec. (c)(5). [Pub. L. 94–460][/us/pl/94/460], § 109(b)(2), added par. (5).
 
  __Effective Date of 1986 Amendment__ 
 
@@ -115,29 +115,29 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F927
-[/us/pl/94/460/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs109%2Fb%2F2
+[/us/pl/94/460/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2FtI
 [/us/stat/90/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1950
-[/us/pl/95/559/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs4%2Fc
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2132
-[/us/pl/97/35/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs945
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F577
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/660/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs807
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3800
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/95/559/s4/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs4%2Fc%2F2%2FA
-[/us/pl/95/559/s4/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs4%2Fc%2F2%2FB
-[/us/pl/95/559/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs4%2Fc%2F1
-[/us/pl/94/460/s109/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs109%2Fc%2F1
-[/us/pl/94/460/s109/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs109%2Fc%2F2
-[/us/pl/94/460/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs109%2Fb%2F2
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/99/660/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs815%2Fa
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931

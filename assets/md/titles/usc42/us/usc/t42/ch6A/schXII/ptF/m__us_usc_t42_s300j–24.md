@@ -41,7 +41,7 @@
 
             In the case of drinking water coolers, such program shall include measures for the reduction or elimination of lead contamination from those water coolers which are not lead free and which are located in schools. Such measures shall be adequate to ensure that within 15 months after October 31, 1988, all such water coolers in schools under the jurisdiction of such agencies are repaired, replaced, permanently removed, or rendered inoperable unless the cooler is tested and found (within the limits of testing accuracy) not to contribute lead to drinking water.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1464, as added [Pub. L. 100–572, § 2(a)][/us/pl/100/572/s2/a], Oct. 31, 1988, [102 Stat. 2886][/us/stat/102/2886]; amended [Pub. L. 104–182, title V, § 501(f)(10)][/us/pl/104/182/s501/f/10], Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1464, as added [Pub. L. 100–572][/us/pl/100/572], § 2(a), Oct. 31, 1988, [102 Stat. 2886][/us/stat/102/2886]; amended [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(f)(10), Aug. 6, 1996, [110 Stat. 1692][/us/stat/110/1692].)
 
  __Amendments__ 
 
@@ -57,9 +57,9 @@
 [/us/usc/t42/s300j–23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9323%2Fa
 [/us/usc/t42/s300j–23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9323%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/572/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs2%2Fa
+[/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
 [/us/stat/102/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2886
-[/us/pl/104/182/s501/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F10
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1692
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 

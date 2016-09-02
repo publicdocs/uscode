@@ -75,7 +75,7 @@
 
         (2) in existing facilities.
 
-([Pub. L. 110–140, title IV, § 492][/us/pl/110/140/s492], Dec. 19, 2007, [121 Stat. 1651][/us/stat/121/1651].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 492, Dec. 19, 2007, [121 Stat. 1651][/us/stat/121/1651].)
 
 ----------
 
@@ -85,7 +85,7 @@
 ----------
 
 [/us/usc/t42/s17092/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17092%2Fd
-[/us/pl/110/140/s492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs492
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1651
 
 

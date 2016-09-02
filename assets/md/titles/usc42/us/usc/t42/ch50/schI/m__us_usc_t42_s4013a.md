@@ -23,7 +23,7 @@
 
         The Administrator may impose a civil penalty of not more than $50,000 on any person that fails to comply with subsection (a).
 
-([Pub. L. 112–141, div. F, title II, § 100234][/us/pl/112/141/s100234], July 6, 2012, [126 Stat. 956][/us/stat/126/956].)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100234, July 6, 2012, [126 Stat. 956][/us/stat/126/956].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s100234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100234
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F956
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004
 

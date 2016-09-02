@@ -21,7 +21,7 @@
 
     (2) make restitution to any entity of the United States, of a State, or of an inferior political subdivision of a State, which expends funds for the purpose of apprehending any violent prisoner who escapes from a prisoner transport company as the result, in whole or in part, of a violation of regulations promulgated pursuant to [section 13726b(a) of this title][/us/usc/t42/s13726b/a].
 
-([Pub. L. 106–560, § 5][/us/pl/106/560/s5], Dec. 21, 2000, [114 Stat. 2786][/us/stat/114/2786].)
+([Pub. L. 106–560][/us/pl/106/560], § 5, Dec. 21, 2000, [114 Stat. 2786][/us/stat/114/2786].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t42/s13726b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13726b%2Fa
-[/us/pl/106/560/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560%2Fs5
+[/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2786
 [/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2784

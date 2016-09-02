@@ -17,7 +17,7 @@
 
     For funds designated under this chapter by a recipient to address the damage in an area for which the President has declared a disaster under title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5170][/us/usc/t42/s5170] et seq.\], the Secretary may suspend all requirements for purposes of assistance under [section 5306 of this title][/us/usc/t42/s5306] for that area, except for those related to public notice of funding availability, nondiscrimination, fair housing, labor standards, environmental standards, and requirements that activities benefit persons of low- and moderate-income.
 
-([Pub. L. 93–383, title I, § 122][/us/pl/93/383/s122], as added [Pub. L. 103–233, title II, § 234][/us/pl/103/233/s234], Apr. 11, 1994, [108 Stat. 369][/us/stat/108/369].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 122, as added [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 234, Apr. 11, 1994, [108 Stat. 369][/us/stat/108/369].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
-[/us/pl/93/383/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs122
-[/us/pl/103/233/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs234
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F369
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633

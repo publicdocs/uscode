@@ -91,49 +91,49 @@
 
         When so specified in an appropriation Act, transfers of sums from the “Operating expenses” appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may be merged with the appropriations to which they are transferred.
 
-([Pub. L. 93–438, title I, § 111][/us/pl/93/438/s111], as added [Pub. L. 95–238, title II, § 201][/us/pl/95/238/s201], Feb. 25, 1978, [92 Stat. 56][/us/stat/92/56]; amended [Pub. L. 103–437, § 15(c)(7)][/us/pl/103/437/s15/c/7], Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 111, as added [Pub. L. 95–238, title II][/us/pl/95/238/tII], § 201, Feb. 25, 1978, [92 Stat. 56][/us/stat/92/56]; amended [Pub. L. 103–437][/us/pl/103/437], § 15(c)(7), Nov. 2, 1994, [108 Stat. 4592][/us/stat/108/4592].)
 
  __References in Text__ 
 
     The Atomic Energy Community Act of 1955, referred to in subsec. (h)(1), is [act Aug. 4, 1955, ch. 543][/us/act/1955-08-04/ch543], [69 Stat. 472][/us/stat/69/472], as amended, which is classified principally to chapter 24 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title][/us/usc/t42/s2301] and Tables.
 
-    The Strategic and Critical Materials Stockpiling Act, as amended, referred to in subsec. (h)(1), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stockpiling Act, as amended, referred to in subsec. (h)(1), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
     Act of May 16, 1910, as amended, referred to in subsec. (h)(1), is [act May 16, 1910, ch. 240][/us/act/1910-05-16/ch240], [36 Stat. 369][/us/stat/36/369], as amended, which enacted sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    In subsec. (h), “[section 3302(b) of title 31][/us/usc/t31/s3302/b]” substituted for “section 3617 of the Revised Statutes ([31 U.S.C. 484][/us/usc/t31/s484])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (h), “[section 3302(b) of title 31][/us/usc/t31/s3302/b]” substituted for “section 3617 of the Revised Statutes ([31 U.S.C. 484][/us/usc/t31/s484])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Prior Provisions__ 
 
     Provisions similar to those in subsec. (g) of this section were contained in the following appropriation authorization acts, formerly classified to [section 2017a–1 of this title][/us/usc/t42/s2017a–1].
 
-    [Pub. L. 95–39, title III, § 304][/us/pl/95/39/s304], June 3, 1977, [91 Stat. 189][/us/stat/91/189].
+    [Pub. L. 95–39, title III][/us/pl/95/39/tIII], § 304, June 3, 1977, [91 Stat. 189][/us/stat/91/189].
 
-    [Pub. L. 94–187, title III, § 301][/us/pl/94/187/s301], Dec. 31, 1975, [89 Stat. 1073][/us/stat/89/1073].
+    [Pub. L. 94–187, title III][/us/pl/94/187/tIII], § 301, Dec. 31, 1975, [89 Stat. 1073][/us/stat/89/1073].
 
-    [Pub. L. 93–276, title I, § 103][/us/pl/93/276/s103], May 10, 1974, [88 Stat. 118][/us/stat/88/118].
+    [Pub. L. 93–276, title I][/us/pl/93/276/tI], § 103, May 10, 1974, [88 Stat. 118][/us/stat/88/118].
 
-    [Pub. L. 93–60, § 103][/us/pl/93/60/s103], July 6, 1973, [87 Stat. 144][/us/stat/87/144].
+    [Pub. L. 93–60][/us/pl/93/60], § 103, July 6, 1973, [87 Stat. 144][/us/stat/87/144].
 
-    [Pub. L. 92–314, title I, § 103][/us/pl/92/314/s103], June 16, 1972, [86 Stat. 225][/us/stat/86/225].
+    [Pub. L. 92–314, title I][/us/pl/92/314/tI], § 103, June 16, 1972, [86 Stat. 225][/us/stat/86/225].
 
-    [Pub. L. 92–84, title I, § 103][/us/pl/92/84/s103], Aug. 11, 1971, [85 Stat. 306][/us/stat/85/306].
+    [Pub. L. 92–84, title I][/us/pl/92/84/tI], § 103, Aug. 11, 1971, [85 Stat. 306][/us/stat/85/306].
 
-    [Pub. L. 91–273, § 103][/us/pl/91/273/s103], June 2, 1970, [84 Stat. 300][/us/stat/84/300].
+    [Pub. L. 91–273][/us/pl/91/273], § 103, June 2, 1970, [84 Stat. 300][/us/stat/84/300].
 
-    [Pub. L. 91–44, § 103][/us/pl/91/44/s103], July 11, 1969, [83 Stat. 47][/us/stat/83/47].
+    [Pub. L. 91–44][/us/pl/91/44], § 103, July 11, 1969, [83 Stat. 47][/us/stat/83/47].
 
-    [Pub. L. 90–289, § 103][/us/pl/90/289/s103], Apr. 19, 1968, [82 Stat. 97][/us/stat/82/97].
+    [Pub. L. 90–289][/us/pl/90/289], § 103, Apr. 19, 1968, [82 Stat. 97][/us/stat/82/97].
 
-    [Pub. L. 90–56, § 103][/us/pl/90/56/s103], July 26, 1967, [81 Stat. 125][/us/stat/81/125].
+    [Pub. L. 90–56][/us/pl/90/56], § 103, July 26, 1967, [81 Stat. 125][/us/stat/81/125].
 
-    [Pub. L. 89–428, § 103][/us/pl/89/428/s103], May 21, 1966, [80 Stat. 163][/us/stat/80/163].
+    [Pub. L. 89–428][/us/pl/89/428], § 103, May 21, 1966, [80 Stat. 163][/us/stat/80/163].
 
-    [Pub. L. 89–32, § 103][/us/pl/89/32/s103], June 2, 1965, [79 Stat. 122][/us/stat/79/122].
+    [Pub. L. 89–32][/us/pl/89/32], § 103, June 2, 1965, [79 Stat. 122][/us/stat/79/122].
 
-    [Pub. L. 88–332, § 104][/us/pl/88/332/s104], June 30, 1964, [78 Stat. 229][/us/stat/78/229].
+    [Pub. L. 88–332][/us/pl/88/332], § 104, June 30, 1964, [78 Stat. 229][/us/stat/78/229].
 
  __Amendments__ 
 
@@ -141,7 +141,7 @@
 
  __Nonapplicability of Title II of__  __[__  __Pub. L. 95–238__  __][/us/pl/95/238]__  __to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions__ 
 
-[Pub. L. 95–238, title II, § 209][/us/pl/95/238/s209], Feb. 25, 1978, [92 Stat. 76][/us/stat/92/76], provided that:
+[Pub. L. 95–238, title II][/us/pl/95/238/tII], § 209, Feb. 25, 1978, [92 Stat. 76][/us/stat/92/76], provided that:
 
 >     “(a) Nothing in this title \[enacting this section and sections 5556a and 5919 of this title, amending sections 2391, 2394, 5905, 5906, and 5914 of this title, and enacting provisions set out as notes under [section 7256 of this title][/us/usc/t42/s7256] and [section 2429 of Title 22][/us/usc/t22/s2429], Foreign Relations and Intercourse\] shall apply with respect to any authorization or appropriation for any military application of nuclear energy, for research and development in support of the Armed Forces, or for the common defense and security of the United States.
 
@@ -167,54 +167,54 @@
 [/us/usc/t42/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2301
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/usc/t30/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs7
-[/us/pl/93/438/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs111
-[/us/pl/95/238/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs201
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
+[/us/pl/95/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtII
 [/us/stat/92/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F56
-[/us/pl/103/437/s15/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fc%2F7
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4592
 [/us/act/1955-08-04/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch543
 [/us/stat/69/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F472
 [/us/usc/t42/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2301
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/act/1910-05-16/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-16%2Fch240
 [/us/stat/36/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F369
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/usc/t31/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs484
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t42/s2017a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2017a%E2%80%931
-[/us/pl/95/39/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs304
+[/us/pl/95/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtIII
 [/us/stat/91/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F189
-[/us/pl/94/187/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187%2Fs301
+[/us/pl/94/187/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F187%2FtIII
 [/us/stat/89/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1073
-[/us/pl/93/276/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F276%2Fs103
+[/us/pl/93/276/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F276%2FtI
 [/us/stat/88/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F118
-[/us/pl/93/60/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F60%2Fs103
+[/us/pl/93/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F60
 [/us/stat/87/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F144
-[/us/pl/92/314/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F314%2Fs103
+[/us/pl/92/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F314%2FtI
 [/us/stat/86/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F225
-[/us/pl/92/84/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F84%2Fs103
+[/us/pl/92/84/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F84%2FtI
 [/us/stat/85/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F306
-[/us/pl/91/273/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F273%2Fs103
+[/us/pl/91/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F273
 [/us/stat/84/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F300
-[/us/pl/91/44/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F44%2Fs103
+[/us/pl/91/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F44
 [/us/stat/83/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F47
-[/us/pl/90/289/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F289%2Fs103
+[/us/pl/90/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F289
 [/us/stat/82/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F97
-[/us/pl/90/56/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F56%2Fs103
+[/us/pl/90/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F56
 [/us/stat/81/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F125
-[/us/pl/89/428/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F428%2Fs103
+[/us/pl/89/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F428
 [/us/stat/80/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F163
-[/us/pl/89/32/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F32%2Fs103
+[/us/pl/89/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F32
 [/us/stat/79/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F122
-[/us/pl/88/332/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F332%2Fs104
+[/us/pl/88/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F332
 [/us/stat/78/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F229
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
-[/us/pl/95/238/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs209
+[/us/pl/95/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtII
 [/us/stat/92/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F76
 [/us/usc/t42/s7256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256
 [/us/usc/t22/s2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429

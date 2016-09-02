@@ -55,9 +55,9 @@
 
             A health care choice compact described in paragraph (1) shall not take effect before January 1, 2016.
 
-    (b) __Repealed.__  __[__  __Pub. L. 111–148, title X, § 10104(p)__  __][/us/pl/111/148/s10104/p]__  __,__  __Mar. 23, 2010__  __,__  __[__  __124 Stat. 902__  __][/us/stat/124/902]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 111–148, title X__  __][/us/pl/111/148/tX]__  __, § 10104(p),__  __Mar. 23, 2010__  __,__  __[__  __124 Stat. 902__  __][/us/stat/124/902]__ 
 
-([Pub. L. 111–148, title I, § 1333][/us/pl/111/148/s1333], title X, § 10104(p), Mar. 23, 2010, [124 Stat. 206][/us/stat/124/206], 902.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1333, title X, § 10104(p), Mar. 23, 2010, [124 Stat. 206][/us/stat/124/206], 902.)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–148, § 10104(p)][/us/pl/111/148/s10104/p], struck out subsec. (b) which provided authority and requirements for health insurance issuers to offer nationwide qualified health plans.
+    2010—Subsec. (b). [Pub. L. 111–148][/us/pl/111/148], § 10104(p), struck out subsec. (b) which provided authority and requirements for health insurance issuers to offer nationwide qualified health plans.
 
 ----------
 
@@ -75,12 +75,12 @@
 ----------
 
 [/us/usc/t42/s18022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fb
-[/us/pl/111/148/s10104/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fp
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F902
-[/us/pl/111/148/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1333
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F206
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
-[/us/pl/111/148/s10104/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fp
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

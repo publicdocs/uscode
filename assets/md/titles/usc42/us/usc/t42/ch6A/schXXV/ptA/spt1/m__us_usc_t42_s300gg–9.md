@@ -41,7 +41,7 @@
 
             An issuer is not required under this section to disclose any information that is proprietary and trade secret information under applicable law.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2709, formerly § 2713, as added [Pub. L. 104–191, title I, § 102(a)][/us/pl/104/191/s102/a], Aug. 21, 1996, [110 Stat. 1966][/us/stat/110/1966]; renumbered § 2733, renumbered § 2709, and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(3), 1563(c)(10), formerly § 1562(c)(10), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 268, 911.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2709, formerly § 2713, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 102(a), Aug. 21, 1996, [110 Stat. 1966][/us/stat/110/1966]; renumbered § 2733, renumbered § 2709, and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(3), 1563(c)(10), formerly § 1562(c)(10), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 268, 911.)
 
  __Codification__ 
 
@@ -55,11 +55,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 1563(c)(10)(A)][/us/pl/111/148/s1563/c/10/A], formerly § 1562(c)(10)(A), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], in introductory provisions substituted “small employer or an individual” for “small employer”, in par. (1) inserted “, or individual, as applicable,” after “employer”, and in par. (2) substituted “employer, or individual, as applicable,” for “small employer”.
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(10)(A), formerly § 1562(c)(10)(A), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), in introductory provisions substituted “small employer or an individual” for “small employer”, in par. (1) inserted “, or individual, as applicable,” after “employer”, and in par. (2) substituted “employer, or individual, as applicable,” for “small employer”.
 
-    Subsec. (b)(1). [Pub. L. 111–148, § 1563(c)(10)(B)(i)][/us/pl/111/148/s1563/c/10/B/i], formerly § 1562(c)(10)(B)(i), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], in introductory provisions substituted “employer, or individual, as applicable,” for “small employer”, in subpar. (A), inserted “and” at end, struck out subpars. (B) and (C) which related to provisions of coverage relating to renewability of coverage and preexisting condition exclusions, respectively, in subpar. (D), inserted “, or individual, as applicable,” after “employer”, and redesignated subpar. (D) as (B).
+    Subsec. (b)(1). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(10)(B)(i), formerly § 1562(c)(10)(B)(i), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), in introductory provisions substituted “employer, or individual, as applicable,” for “small employer”, in subpar. (A), inserted “and” at end, struck out subpars. (B) and (C) which related to provisions of coverage relating to renewability of coverage and preexisting condition exclusions, respectively, in subpar. (D), inserted “, or individual, as applicable,” after “employer”, and redesignated subpar. (D) as (B).
 
-    Subsec. (b)(2). [Pub. L. 111–148, § 1563(c)(10)(B)(ii)][/us/pl/111/148/s1563/c/10/B/ii], formerly § 1562(c)(10)(B)(ii), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “employer, or individual, as applicable,” for “small employer” and “employers, or individuals, as applicable,” for “small employers” in two places.
+    Subsec. (b)(2). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(10)(B)(ii), formerly § 1562(c)(10)(B)(ii), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “employer, or individual, as applicable,” for “small employer” and “employers, or individuals, as applicable,” for “small employers” in two places.
 
  __Effective Date__ 
 
@@ -73,20 +73,20 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/191/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fa
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1966
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9313
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s300gg–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%938
 [/us/usc/t42/s238h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238h
-[/us/pl/111/148/s1563/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F10%2FA
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/10/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F10%2FB%2Fi
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/10/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F10%2FB%2Fii
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/104/191/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs102%2Fc
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 

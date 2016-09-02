@@ -33,7 +33,7 @@
 
         Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.
 
-([Pub. L. 90–351, title I, § 3001][/us/pl/90/351/s3001], as added [Pub. L. 110–199, title I, § 114(2)][/us/pl/110/199/s114/2], Apr. 9, 2008, [122 Stat. 677][/us/stat/122/677].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 3001, as added [Pub. L. 110–199, title I][/us/pl/110/199/tI], § 114(2), Apr. 9, 2008, [122 Stat. 677][/us/stat/122/677].)
 
  __Codification__ 
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/90/351/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs3001
-[/us/pl/110/199/s114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs114%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/110/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtI
 [/us/stat/122/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F677
 [/us/pl/90/351/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs3001
 [/us/usc/t42/s3797cc–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797cc%E2%80%9321

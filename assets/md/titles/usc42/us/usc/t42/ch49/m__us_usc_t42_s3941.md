@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall preclude a State or other local jurisdiction from imposing, in accordance with the laws of such State or other local jurisdiction, any valid nondiscriminatory tax, obligation, or regulation on the partnership as a taxable and or legal entity, but no limited partner of the partnership not otherwise subject to taxation or regulation by or judicial process of a State or other local jurisdiction shall be subject to taxation or regulation by or subject to or denied access to judicial process of such State or other local jurisdiction, or be subject or denied access to any greater extent, because of activities of the corporation or partnership within such State or other local jurisdiction.
 
-([Pub. L. 90–448, title IX, § 912][/us/pl/90/448/s912], as added [Pub. L. 91–351, title VIII, § 711][/us/pl/91/351/s711], July 24, 1970, [84 Stat. 463][/us/stat/84/463].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 912, as added [Pub. L. 91–351, title VIII][/us/pl/91/351/tVIII], § 711, July 24, 1970, [84 Stat. 463][/us/stat/84/463].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/448/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs912
-[/us/pl/91/351/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2Fs711
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
+[/us/pl/91/351/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F351%2FtVIII
 [/us/stat/84/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F463
 
 

@@ -57,7 +57,7 @@
 
         Civil penalties assessed by the United States or by the States under this subchapter shall be assessed in accordance with the Administrator’s “RCRA Civil Penalty Policy”, as such policy may be amended from time to time.
 
-([Pub. L. 89–272, title II, § 11005][/us/pl/89/272/s11005], as added [Pub. L. 100–582, § 2(a)][/us/pl/100/582/s2/a], Nov. 1, 1988, [102 Stat. 2953][/us/stat/102/2953].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 11005, as added [Pub. L. 100–582][/us/pl/100/582], § 2(a), Nov. 1, 1988, [102 Stat. 2953][/us/stat/102/2953].)
 
 ----------
 
@@ -67,8 +67,8 @@
 ----------
 
 [/us/usc/t42/s6928/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6928%2Ff
-[/us/pl/89/272/s11005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs11005
-[/us/pl/100/582/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs2%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2953
 
 

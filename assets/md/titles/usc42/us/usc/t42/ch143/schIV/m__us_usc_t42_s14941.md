@@ -43,7 +43,7 @@
 
         Disclosure of, access to, and penalties for unlawful disclosure of, adoption records that are not Convention records, including records of adoption proceedings conducted in the United States, shall be governed by applicable State law.
 
-([Pub. L. 106–279, title IV, § 401][/us/pl/106/279/s401], Oct. 6, 2000, [114 Stat. 841][/us/stat/114/841].)
+([Pub. L. 106–279, title IV][/us/pl/106/279/tIV], § 401, Oct. 6, 2000, [114 Stat. 841][/us/stat/114/841].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/106/279/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs401
+[/us/pl/106/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2FtIV
 [/us/stat/114/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F841
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

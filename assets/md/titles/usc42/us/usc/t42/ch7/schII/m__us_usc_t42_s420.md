@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 420, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 220, as added [July 18, 1952, ch. 945, § 3(e)][/us/act/1952-07-18/ch945/s3/e], [66 Stat. 772][/us/stat/66/772], relating to inapplicability of disability provisions if benefits were reduced, ceased to be in effect at the close of June 30, 1953. See Effective and Termination Date of 1952 Amendment note set out under [section 413 of this title][/us/usc/t42/s413].
+    A prior section 420, [act Aug. 14, 1935, ch. 531, title II][/us/act/1935-08-14/ch531/tII], § 220, as added [July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], § 3(e), [66 Stat. 772][/us/stat/66/772], relating to inapplicability of disability provisions if benefits were reduced, ceased to be in effect at the close of June 30, 1953. See Effective and Termination Date of 1952 Amendment note set out under [section 413 of this title][/us/usc/t42/s413].
 
 ----------
 
@@ -33,8 +33,8 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1081
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/act/1952-07-18/ch945/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Fe
+[/us/act/1935-08-14/ch531/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtII
+[/us/act/1952-07-18/ch945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945
 [/us/stat/66/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F772
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
 

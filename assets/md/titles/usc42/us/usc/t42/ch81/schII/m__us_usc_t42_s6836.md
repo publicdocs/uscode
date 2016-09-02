@@ -37,11 +37,11 @@
 
         (3) otherwise participate in any industry process for review and modification of such codes.
 
-([Pub. L. 94–385, title III, § 307][/us/pl/94/385/s307], as added [Pub. L. 102–486, title I, § 101(a)(2)][/us/pl/102/486/s101/a/2], Oct. 24, 1992, [106 Stat. 2785][/us/stat/106/2785].)
+([Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 307, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 101(a)(2), Oct. 24, 1992, [106 Stat. 2785][/us/stat/106/2785].)
 
  __Prior Provisions__ 
 
-    A prior section 6836, [Pub. L. 94–385, title III, § 307][/us/pl/94/385/s307], Aug. 14, 1976, [90 Stat. 1149][/us/stat/90/1149]; [Pub. L. 95–619, title II, § 255][/us/pl/95/619/s255], Nov. 9, 1978, [92 Stat. 3238][/us/stat/92/3238], set forth provisions respecting grants to States for adoption and implementation of performance standards, prior to repeal by [Pub. L. 97–35, title X, § 1041(b)][/us/pl/97/35/s1041/b], Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621].
+    A prior section 6836, [Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 307, Aug. 14, 1976, [90 Stat. 1149][/us/stat/90/1149]; [Pub. L. 95–619, title II][/us/pl/95/619/tII], § 255, Nov. 9, 1978, [92 Stat. 3238][/us/stat/92/3238], set forth provisions respecting grants to States for adoption and implementation of performance standards, prior to repeal by [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1041(b), Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621].
 
 ----------
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/94/385/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs307
-[/us/pl/102/486/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs101%2Fa%2F2
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2785
-[/us/pl/94/385/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs307
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
 [/us/stat/90/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1149
-[/us/pl/95/619/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs255
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3238
-[/us/pl/97/35/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1041%2Fb
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F621
 
 

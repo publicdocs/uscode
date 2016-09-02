@@ -65,7 +65,7 @@
 
     (14) it is imperative that the Social Security Administration be provided information pertaining to Alzheimer’s disease and related dementias, particularly for personnel in such Administration involved in the establishment and updating of criteria for determining whether an individual is under a disability for purposes of titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\].
 
-([Pub. L. 99–660, title IX, § 902][/us/pl/99/660/s902], Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802]; [Pub. L. 102–507, § 4][/us/pl/102/507/s4], Oct. 24, 1992, [106 Stat. 3281][/us/stat/106/3281].)
+([Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 902, Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802]; [Pub. L. 102–507][/us/pl/102/507], § 4, Oct. 24, 1992, [106 Stat. 3281][/us/stat/106/3281].)
 
  __References in Text__ 
 
@@ -83,19 +83,19 @@
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 111–375, § 1][/us/pl/111/375/s1], Jan. 4, 2011, [124 Stat. 4100][/us/stat/124/4100], provided that: 
+[Pub. L. 111–375][/us/pl/111/375], § 1, Jan. 4, 2011, [124 Stat. 4100][/us/stat/124/4100], provided that: 
 
 > “This Act \[enacting subchapter III–A of this chapter\] may be cited as the ‘National Alzheimer’s Project Act’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–507, § 1][/us/pl/102/507/s1], Oct. 24, 1992, [106 Stat. 3281][/us/stat/106/3281], provided that: 
+[Pub. L. 102–507][/us/pl/102/507], § 1, Oct. 24, 1992, [106 Stat. 3281][/us/stat/106/3281], provided that: 
 
 > “This Act \[enacting [section 11261 of this title][/us/usc/t42/s11261], amending this section and sections 285e–5, 11211, 11212, 11221, 11223, 11251, 11253, 11263, 11292, and 11294 of this title, repealing [section 11261 of this title][/us/usc/t42/s11261], and amending provisions set out as a note under this section\] may be cited as the ‘Alzheimer’s Disease Research, Training, and Education Amendments of 1992’.”
 
  __Short Title__ 
 
-[Pub. L. 99–660, title IX, § 901][/us/pl/99/660/s901], Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802], as amended by [Pub. L. 102–507, § 2(a)][/us/pl/102/507/s2/a], Oct. 24, 1992, [106 Stat. 3281][/us/stat/106/3281], provided that: 
+[Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 901, Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802], as amended by [Pub. L. 102–507][/us/pl/102/507], § 2(a), Oct. 24, 1992, [106 Stat. 3281][/us/stat/106/3281], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Alzheimer’s Disease and Related Dementias Research Act of 1992’.”
 
@@ -107,23 +107,23 @@
 ----------
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/99/660/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs902
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3802
-[/us/pl/102/507/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs4
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3281
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
-[/us/pl/111/375/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F375%2Fs1
+[/us/pl/111/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F375
 [/us/stat/124/4100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4100
-[/us/pl/102/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs1
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3281
 [/us/usc/t42/s11261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11261
 [/us/usc/t42/s11261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11261
-[/us/pl/99/660/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs901
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3802
-[/us/pl/102/507/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs2%2Fa
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3281
 
 

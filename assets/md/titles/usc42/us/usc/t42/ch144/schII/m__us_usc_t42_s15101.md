@@ -33,7 +33,7 @@
 
             For each year that the amount appropriated pursuant to subsection (a) of this section is $10,000,000 or greater, the Secretary may reserve 5 percent of such amount to carry out [section 15100 of this title][/us/usc/t42/s15100].
 
-([Pub. L. 106–402, title II, § 212][/us/pl/106/402/s212], Oct. 30, 2000, [114 Stat. 1734][/us/stat/114/1734].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 212, Oct. 30, 2000, [114 Stat. 1734][/us/stat/114/1734].)
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s15098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15098
 [/us/usc/t42/s15099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15099
 [/us/usc/t42/s15100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15100
-[/us/pl/106/402/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs212
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1734
 
 

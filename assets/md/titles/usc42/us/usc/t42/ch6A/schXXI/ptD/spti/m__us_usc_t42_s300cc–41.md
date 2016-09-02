@@ -49,13 +49,13 @@
 
         In carrying out subsection (a) of this section, the Director of the Office shall establish projects to promote cooperation among Federal agencies, State, local, and regional public health agencies, and private entities, in research concerning the diagnosis, prevention, and treatment of acquired immune deficiency syndrome.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2354, formerly § 2351, as added [Pub. L. 100–607, title II, § 201(4)][/us/pl/100/607/s201/4], Nov. 4, 1988, [102 Stat. 3076][/us/stat/102/3076]; renumbered § 2354 and amended [Pub. L. 103–43, title XVIII, § 1801(a)(2)][/us/pl/103/43/s1801/a/2], (b), June 10, 1993, [107 Stat. 192][/us/stat/107/192], 196; [Pub. L. 109–482, title I, § 104(b)(2)(D)][/us/pl/109/482/s104/b/2/D], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIII, § 2354, formerly § 2351, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 201(4), Nov. 4, 1988, [102 Stat. 3076][/us/stat/102/3076]; renumbered § 2354 and amended [Pub. L. 103–43, title XVIII][/us/pl/103/43/tXVIII], § 1801(a)(2), (b), June 10, 1993, [107 Stat. 192][/us/stat/107/192], 196; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(2)(D), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 
  __Codification__ 
 
-    In subsec. (a)(5)(C), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a)(5)(C), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (a)(6), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(6), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -67,29 +67,29 @@
 
     “(3) containing such recommendations as the Director considers appropriate.”
 
-    1993—[Pub. L. 103–43, § 1801(b)(1)][/us/pl/103/43/s1801/b/1], substituted “Additional” for “Establishment of” in section catchline.
+    1993—[Pub. L. 103–43][/us/pl/103/43], § 1801(b)(1), substituted “Additional” for “Establishment of” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–43, § 1801(b)(2)(A)][/us/pl/103/43/s1801/b/2/A], in introductory provisions substituted “AIDS research, the Director of the Office” for “research with respect to acquired immune deficiency syndrome, the Secretary, acting through the Director of the National Institutes of Health”.
+    Subsec. (a). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(2)(A), in introductory provisions substituted “AIDS research, the Director of the Office” for “research with respect to acquired immune deficiency syndrome, the Secretary, acting through the Director of the National Institutes of Health”.
 
-    Subsec. (a)(1). [Pub. L. 103–43, § 1801(b)(2)(B)][/us/pl/103/43/s1801/b/2/B], redesignated par. (3) as (1) and struck out former par. (1) which read as follows:
+    Subsec. (a)(1). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(2)(B), redesignated par. (3) as (1) and struck out former par. (1) which read as follows:
 
     “(A) shall establish an office to be known as the Office of AIDS Research, which Office shall be headed by a Director appointed by the Director of the National Institutes of Health; and
 
     “(B) shall provide administrative support and support services to the Director of such Office;”.
 
-    Subsec. (a)(2). [Pub. L. 103–43, § 1801(b)(2)(B)][/us/pl/103/43/s1801/b/2/B], (E), redesignated par. (4) as (2), substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”, and struck out former par. (2) which read as follows: “shall coordinate activities relating to acquired immune deficiency syndrome conducted by the national research institutes and the agencies of the National Institutes of Health;”.
+    Subsec. (a)(2). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(2)(B), (E), redesignated par. (4) as (2), substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”, and struck out former par. (2) which read as follows: “shall coordinate activities relating to acquired immune deficiency syndrome conducted by the national research institutes and the agencies of the National Institutes of Health;”.
 
-    Subsec. (a)(3). [Pub. L. 103–43, § 1801(b)(2)(B)][/us/pl/103/43/s1801/b/2/B], (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes of Health,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
+    Subsec. (a)(3). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(2)(B), (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes of Health,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
 
-    Subsec. (a)(4). [Pub. L. 103–43, § 1801(b)(2)(B)][/us/pl/103/43/s1801/b/2/B], (E), redesignated par. (6) as (4) and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”. Former par. (4) redesignated (2).
+    Subsec. (a)(4). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(2)(B), (E), redesignated par. (6) as (4) and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”. Former par. (4) redesignated (2).
 
-    Subsec. (a)(5). [Pub. L. 103–43, § 1801(b)(2)(B)][/us/pl/103/43/s1801/b/2/B], (D), redesignated par. (7) as (5), in subpar. (A) struck out “, in consultation with such advisory council,” after “may” and substituted “Director of the Office determines” for “Director of the National Institutes of Health determines”, and in subpars. (B) and (C) struck out “, in consultation with such advisory council,” after “may”. Former par. (5) redesignated (3).
+    Subsec. (a)(5). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(2)(B), (D), redesignated par. (7) as (5), in subpar. (A) struck out “, in consultation with such advisory council,” after “may” and substituted “Director of the Office determines” for “Director of the National Institutes of Health determines”, and in subpars. (B) and (C) struck out “, in consultation with such advisory council,” after “may”. Former par. (5) redesignated (3).
 
-    Subsec. (a)(6) to (8). [Pub. L. 103–43, § 1801(b)(2)(B)][/us/pl/103/43/s1801/b/2/B], redesignated pars. (6) to (8) as (4) to (6), respectively.
+    Subsec. (a)(6) to (8). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(2)(B), redesignated pars. (6) to (8) as (4) to (6), respectively.
 
-    Subsec. (b). [Pub. L. 103–43, § 1801(b)(3)][/us/pl/103/43/s1801/b/3], substituted “The Director of the Office shall” for “The Director of the National Institutes of Health, acting through the Director of the Office of AIDS Research, shall”.
+    Subsec. (b). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(3), substituted “The Director of the Office shall” for “The Director of the National Institutes of Health, acting through the Director of the Office of AIDS Research, shall”.
 
-    Subsec. (c). [Pub. L. 103–43, § 1801(b)(4)][/us/pl/103/43/s1801/b/4], substituted “the Director of the Office shall” for “the Director of the National Institutes of Health shall”.
+    Subsec. (c). [Pub. L. 103–43][/us/pl/103/43], § 1801(b)(4), substituted “the Director of the Office shall” for “the Director of the National Institutes of Health shall”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -107,32 +107,32 @@
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs201%2F4
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3076
-[/us/pl/103/43/s1801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fa%2F2
+[/us/pl/103/43/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXVIII
 [/us/stat/107/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F192
-[/us/pl/109/482/s104/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F2%2FD
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/usc/t42/s300cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300cc%2Fa
-[/us/pl/103/43/s1801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F1
-[/us/pl/103/43/s1801/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F2%2FA
-[/us/pl/103/43/s1801/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F2%2FB
-[/us/pl/103/43/s1801/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F2%2FB
-[/us/pl/103/43/s1801/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F2%2FB
-[/us/pl/103/43/s1801/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F2%2FB
-[/us/pl/103/43/s1801/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F2%2FB
-[/us/pl/103/43/s1801/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F2%2FB
-[/us/pl/103/43/s1801/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F3
-[/us/pl/103/43/s1801/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1801%2Fb%2F4
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281

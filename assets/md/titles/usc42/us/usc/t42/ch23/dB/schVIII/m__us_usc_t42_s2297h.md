@@ -45,7 +45,7 @@
 
     (14) The term “uranium enrichment” means the separation of uranium of a given isotopic content into 2 components, 1 having a higher percentage of a fissile isotope and 1 having a lower percentage.
 
-([Pub. L. 104–134, title III, § 3102][/us/pl/104/134/s3102], Apr. 26, 1996, [110 Stat. 1321–335][/us/stat/110/1321-335]; [Pub. L. 110–329, div. C, title VIII, § 8118(1)][/us/pl/110/329/s8118/1], Sept. 30, 2008, [122 Stat. 3647][/us/stat/122/3647].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3102, Apr. 26, 1996, [110 Stat. 1321–335][/us/stat/110/1321-335]; [Pub. L. 110–329, div. C, title VIII][/us/pl/110/329/dC/tVIII], § 8118(1), Sept. 30, 2008, [122 Stat. 3647][/us/stat/122/3647].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
     (d) The collection and dissemination of information relevant to any of the foregoing on an ongoing basis, including from the Central Intelligence Agency and the Federal Bureau of Investigation.
 
-    Sec. 3. Organization. (a) The EOC shall be Chaired by a senior official from the National Security Council (NSC). The Chair shall coordinate the carrying out of the purposes and policy objectives of this order. The EOC shall meet as often as appropriate, but at least quarterly, and shall submit reports to the Assistant to the President for National Security Affairs semiannually, or more frequently as appropriate. The EOC shall prepare annually the report for the President’s transmittal to the Congress pursuant to section 3112 of the USEC Privatization Act, [Public Law 104–134, title III][/us/pl/104/134], 3112(b)(10), [110 Stat. 1321–344][/us/stat/110/1321-344], 1321–346 (1996) \[[42 U.S.C. 2297h–10(b)(10)][/us/usc/t42/s2297h–10/b/10]\].
+    Sec. 3. Organization. (a) The EOC shall be Chaired by a senior official from the National Security Council (NSC). The Chair shall coordinate the carrying out of the purposes and policy objectives of this order. The EOC shall meet as often as appropriate, but at least quarterly, and shall submit reports to the Assistant to the President for National Security Affairs semiannually, or more frequently as appropriate. The EOC shall prepare annually the report for the President’s transmittal to the Congress pursuant to section 3112 of the USEC Privatization Act, [Public Law 104–134, title III][/us/pl/104/134/tIII], 3112(b)(10), [110 Stat. 1321–344][/us/stat/110/1321-344], 1321–346 (1996) \[[42 U.S.C. 2297h–10(b)(10)][/us/usc/t42/s2297h–10/b/10]\].
 
     (b) The EOC shall consist of representatives from the Departments of State, the Treasury, Defense, Justice, Commerce, Energy, and the Office of Management and Budget, the NSC, the National Economic Council, the Council of Economic Advisers, and the Intelligence Community. The EOC shall formulate internal guidelines for its operations, including guidelines for convening meetings.
 
@@ -103,7 +103,7 @@
 
     (a) monitor the application and enforcement of the FOCI requirements of the National Industrial Security Program established by Executive Order 12829 \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\] with respect to the USEC and any successor entities (see National Industrial Security Program Operating Manual, Department of Defense 2–3 (Oct. 1994));
 
-    (b) monitor and review reports and submissions relating to FOCI issues made by the USEC or any successor entity to the Nuclear Regulatory Commission (NRC) under the Atomic Energy Act of 1954, [42 U.S.C. 2011][/us/usc/t42/s2011] et seq. (1994), and the USEC Privatization Act, [Public Law 104–134, title III][/us/pl/104/134], [110 Stat. 1321–335][/us/stat/110/1321-335] et seq. (1996) \[[42 U.S.C. 2297h][/us/usc/t42/s2297h] et seq.\];
+    (b) monitor and review reports and submissions relating to FOCI issues made by the USEC or any successor entity to the Nuclear Regulatory Commission (NRC) under the Atomic Energy Act of 1954, [42 U.S.C. 2011][/us/usc/t42/s2011] et seq. (1994), and the USEC Privatization Act, [Public Law 104–134, title III][/us/pl/104/134/tIII], [110 Stat. 1321–335][/us/stat/110/1321-335] et seq. (1996) \[[42 U.S.C. 2297h][/us/usc/t42/s2297h] et seq.\];
 
     (c) ensure coordination with the Intelligence Community of the collection and analysis of intelligence and ensure coordination of intelligence with other information related to FOCI issues; and
 
@@ -136,21 +136,21 @@ Sec. 6. Domestic Enrichment Services. The EOC shall collect and analyze informat
 [/us/usc/t42/s2021b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021b%2F9
 [/us/usc/t42/s2297h–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%933
 [/us/usc/t42/s2297h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%932
-[/us/pl/104/134/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3102
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-335
-[/us/pl/110/329/s8118/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs8118%2F1
+[/us/pl/110/329/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdC%2FtVIII
 [/us/stat/122/3647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3647
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/stat/110/1321-335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-335
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
 [/us/usc/t42/s2297h–10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9310a
-[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-344
 [/us/usc/t42/s2297h–10/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9310%2Fb%2F10
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-335
 [/us/usc/t42/s2297h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h
 [/us/usc/t42/s2297h–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9310

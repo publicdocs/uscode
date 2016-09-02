@@ -29,19 +29,19 @@
 
         The sum of $3,179,900 for fiscal year 1979 for preparation of assessments, and for directing and coordinating the preparation of such river basin plans as the Council determines are necessary and desirable in carrying out the policy of this chapter: Provided, That $828,900 shall be available under this subsection for preparation of the Columbia River Estuary Special Study: Provided further, That $308,000 shall be available under this subsection for preparation of the New England Port and Harbor Study and $135,000 shall be available for completion of the Hudson River Basin Level B Study: Provided further, That $150,000 shall be available under this subsection for completion of Case Studies of the Application of Cost Sharing Policy Options for Flood Plain Management in the Connecticut River Basin: Provided further, That not more than $2,500,000 shall be available under this subsection for the preparation of assessments: Provided further, That the Council may transfer funds authorized by this subsection to river basin commissions and to Federal and State agencies upon such terms and conditions as it determines are necessary and desirable to carry out the above functions in an economical, efficient, and timely manner, and that such commissions and agencies are hereby authorized to receive and expend such funds pursuant to this subsection.
 
-([Pub. L. 89–80, title IV, § 401][/us/pl/89/80/s401], July 22, 1965, [79 Stat. 253][/us/stat/79/253]; [Pub. L. 90–547][/us/pl/90/547], Oct. 2, 1968, [82 Stat. 935][/us/stat/82/935]; [Pub. L. 92–27][/us/pl/92/27], June 17, 1971, [85 Stat. 77][/us/stat/85/77]; [Pub. L. 92–396][/us/pl/92/396], Aug. 20, 1972, [86 Stat. 578][/us/stat/86/578]; [Pub. L. 93–55][/us/pl/93/55], July 1, 1973, [87 Stat. 140][/us/stat/87/140]; [Pub. L. 94–112, § 1(e)][/us/pl/94/112/s1/e], Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575]; [Pub. L. 94–285, § 1][/us/pl/94/285/s1], May 12, 1976, [90 Stat. 516][/us/stat/90/516]; [Pub. L. 95–41, § 1][/us/pl/95/41/s1], June 6, 1977, [91 Stat. 209][/us/stat/91/209]; [Pub. L. 95–404, § 1(a)][/us/pl/95/404/s1/a]–(c), Sept. 30, 1978, [92 Stat. 864][/us/stat/92/864].)
+([Pub. L. 89–80, title IV][/us/pl/89/80/tIV], § 401, July 22, 1965, [79 Stat. 253][/us/stat/79/253]; [Pub. L. 90–547][/us/pl/90/547], Oct. 2, 1968, [82 Stat. 935][/us/stat/82/935]; [Pub. L. 92–27][/us/pl/92/27], June 17, 1971, [85 Stat. 77][/us/stat/85/77]; [Pub. L. 92–396][/us/pl/92/396], Aug. 20, 1972, [86 Stat. 578][/us/stat/86/578]; [Pub. L. 93–55][/us/pl/93/55], July 1, 1973, [87 Stat. 140][/us/stat/87/140]; [Pub. L. 94–112][/us/pl/94/112], § 1(e), Oct. 16, 1975, [89 Stat. 575][/us/stat/89/575]; [Pub. L. 94–285][/us/pl/94/285], § 1, May 12, 1976, [90 Stat. 516][/us/stat/90/516]; [Pub. L. 95–41][/us/pl/95/41], § 1, June 6, 1977, [91 Stat. 209][/us/stat/91/209]; [Pub. L. 95–404][/us/pl/95/404], § 1(a)–(c), Sept. 30, 1978, [92 Stat. 864][/us/stat/92/864].)
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–404, § 1(a)][/us/pl/95/404/s1/a], substituted “The sum of $2,886,000 for fiscal year 1979” for “not to exceed $6,000,000 for fiscal year 1978”.
+    1978—Subsec. (a). [Pub. L. 95–404][/us/pl/95/404], § 1(a), substituted “The sum of $2,886,000 for fiscal year 1979” for “not to exceed $6,000,000 for fiscal year 1978”.
 
-    Subsec. (b). [Pub. L. 95–404, § 1(b)][/us/pl/95/404/s1/b], substituted “the sum of $2,668,000 for fiscal year 1979” for “not to exceed $2,000,000 for fiscal year 1978”.
+    Subsec. (b). [Pub. L. 95–404][/us/pl/95/404], § 1(b), substituted “the sum of $2,668,000 for fiscal year 1979” for “not to exceed $2,000,000 for fiscal year 1978”.
 
-    Subsec. (c). [Pub. L. 95–404, § 1(c)][/us/pl/95/404/s1/c], substituted “The sum of $3,179,900 for fiscal year 1979” for “not to exceed the sum of $3,905,000 for fiscal year 1978” and inserted provisions making available the sums of $828,900 for the Columbia River Estuary Special Study, $308,000 for the New England Port and Harbor Study, $135,000 for the Hudson River Basin Level B Study, and $150,000 for the Case Studies of the Application of Cost Sharing Policy Options for Flood Plan Management in the Connecticut River Basin.
+    Subsec. (c). [Pub. L. 95–404][/us/pl/95/404], § 1(c), substituted “The sum of $3,179,900 for fiscal year 1979” for “not to exceed the sum of $3,905,000 for fiscal year 1978” and inserted provisions making available the sums of $828,900 for the Columbia River Estuary Special Study, $308,000 for the New England Port and Harbor Study, $135,000 for the Hudson River Basin Level B Study, and $150,000 for the Case Studies of the Application of Cost Sharing Policy Options for Flood Plan Management in the Connecticut River Basin.
 
-    1977—Subsecs. (a), (b). [Pub. L. 95–41, § 1(b)][/us/pl/95/41/s1/b], (c), substituted “for fiscal year 1978” for “annually”.
+    1977—Subsecs. (a), (b). [Pub. L. 95–41][/us/pl/95/41], § 1(b), (c), substituted “for fiscal year 1978” for “annually”.
 
-    Subsec. (c). [Pub. L. 95–41, § 1(a)][/us/pl/95/41/s1/a], substituted “not to exceed the sum of $3,905,000 for fiscal year 1978” for “not to exceed a total of $10,000,000 for fiscal years 1976 and 1977”.
+    Subsec. (c). [Pub. L. 95–41][/us/pl/95/41], § 1(a), substituted “not to exceed the sum of $3,905,000 for fiscal year 1978” for “not to exceed a total of $10,000,000 for fiscal years 1976 and 1977”.
 
     1976—Subsec. (b). [Pub. L. 94–285][/us/pl/94/285] substituted “$2,000,000” for “$1,500,000”.
 
@@ -57,7 +57,7 @@
 
  __Increases in Salary, Pay, Retirement, or Other Benefits for Federal Employees__ 
 
-[Pub. L. 95–404, § 1(e)][/us/pl/95/404/s1/e], Sept. 30, 1978, [92 Stat. 864][/us/stat/92/864], provided that: 
+[Pub. L. 95–404][/us/pl/95/404], § 1(e), Sept. 30, 1978, [92 Stat. 864][/us/stat/92/864], provided that: 
 
 > “Appropriations authorized by this Act \[amending sections 1962c and 1962d of this title\] for salary, pay, retirement, or other benefits for Federal employees may be increased by such additional or supplemental amounts as may be necessary for increases authorized by law.”
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/89/80/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs401
+[/us/pl/89/80/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2FtIV
 [/us/stat/79/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F253
 [/us/pl/90/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F547
 [/us/stat/82/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F935
@@ -78,26 +78,26 @@
 [/us/stat/86/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F578
 [/us/pl/93/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F55
 [/us/stat/87/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F140
-[/us/pl/94/112/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112%2Fs1%2Fe
+[/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112
 [/us/stat/89/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F575
-[/us/pl/94/285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F285%2Fs1
+[/us/pl/94/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F285
 [/us/stat/90/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F516
-[/us/pl/95/41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F41%2Fs1
+[/us/pl/95/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F41
 [/us/stat/91/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F209
-[/us/pl/95/404/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404%2Fs1%2Fa
+[/us/pl/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404
 [/us/stat/92/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F864
-[/us/pl/95/404/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404%2Fs1%2Fa
-[/us/pl/95/404/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404%2Fs1%2Fb
-[/us/pl/95/404/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404%2Fs1%2Fc
-[/us/pl/95/41/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F41%2Fs1%2Fb
-[/us/pl/95/41/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F41%2Fs1%2Fa
+[/us/pl/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404
+[/us/pl/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404
+[/us/pl/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404
+[/us/pl/95/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F41
+[/us/pl/95/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F41
 [/us/pl/94/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F285
 [/us/pl/94/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F112
 [/us/pl/93/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F55
 [/us/pl/92/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F396
 [/us/pl/92/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F27
 [/us/pl/90/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F547
-[/us/pl/95/404/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404%2Fs1%2Fe
+[/us/pl/95/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F404
 [/us/stat/92/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F864
 
 

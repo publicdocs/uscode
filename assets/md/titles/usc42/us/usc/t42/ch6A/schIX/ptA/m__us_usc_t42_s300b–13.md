@@ -39,13 +39,13 @@
 
         (2) carry out other activities determined appropriate by the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1114, as added [Pub. L. 110–204, § 6][/us/pl/110/204/s6], Apr. 24, 2008, [122 Stat. 710][/us/stat/122/710]; amended [Pub. L. 110–237, § 1(a)(6)][/us/pl/110/237/s1/a/6], May 27, 2008, [122 Stat. 1557][/us/stat/122/1557]; [Pub. L. 113–240, § 7][/us/pl/113/240/s7], Dec. 18, 2014, [128 Stat. 2855][/us/stat/128/2855].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1114, as added [Pub. L. 110–204][/us/pl/110/204], § 6, Apr. 24, 2008, [122 Stat. 710][/us/stat/122/710]; amended [Pub. L. 110–237][/us/pl/110/237], § 1(a)(6), May 27, 2008, [122 Stat. 1557][/us/stat/122/1557]; [Pub. L. 113–240][/us/pl/113/240], § 7, Dec. 18, 2014, [128 Stat. 2855][/us/stat/128/2855].)
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–240, § 7(1)][/us/pl/113/240/s7/1], substituted “the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, the Commissioner of Food and Drugs,” for “the Administrator, the Director of the Agency for Healthcare Research and Quality,”.
+    2014—Subsec. (c). [Pub. L. 113–240][/us/pl/113/240], § 7(1), substituted “the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, the Commissioner of Food and Drugs,” for “the Administrator, the Director of the Agency for Healthcare Research and Quality,”.
 
-    Subsec. (e). [Pub. L. 113–240, § 7(2)][/us/pl/113/240/s7/2], struck out subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $1,000,000 for fiscal year 2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.”
+    Subsec. (e). [Pub. L. 113–240][/us/pl/113/240], § 7(2), struck out subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $1,000,000 for fiscal year 2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.”
 
     2008—Subsec. (e). [Pub. L. 110–237][/us/pl/110/237] substituted “2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.” for “2008, $1,012,500 for fiscal year 2009, $1,025,000 for fiscal year 2010, $1,037,500 for fiscal year 2011, and $1,050,000 for fiscal year 2012.”
 
@@ -59,14 +59,14 @@
 [/us/usc/t42/s247b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934
 [/us/usc/t42/s300b–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9310
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/204/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204%2Fs6
+[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
 [/us/stat/122/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F710
-[/us/pl/110/237/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F6
+[/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
 [/us/stat/122/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1557
-[/us/pl/113/240/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs7
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
 [/us/stat/128/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2855
-[/us/pl/113/240/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs7%2F1
-[/us/pl/113/240/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs7%2F2
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
 [/us/pl/110/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237
 
 

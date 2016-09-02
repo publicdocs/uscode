@@ -19,7 +19,7 @@
 
     (b) Not later than 24 months after January 15, 1986, the Commission shall, in consultation with the States and other interested persons, identify and publish all relevant technical information regarding the methods identified pursuant to subsection (a) of this section that a State or compact must provide to the Commission in order to pursue such methods, together with the technical requirements that such facilities must meet, in the judgment of the Commission, if pursued as an alternative to shallow land burial. Such technical information and requirements shall include, but need not be limited to, site suitability, site design, facility operation, disposal site closure, and environmental monitoring, as necessary to meet the performance objectives established by the Commission for a licensed low-level radioactive waste disposal facility. The Commission shall specify and publish such requirements in a manner and form deemed appropriate by the Commission.
 
-([Pub. L. 96–573, § 8][/us/pl/96/573/s8], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1858][/us/stat/99/1858].)
+([Pub. L. 96–573][/us/pl/96/573], § 8, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1858][/us/stat/99/1858].)
 
  __Codification__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/96/573/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs8
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1858
 
 

@@ -17,7 +17,7 @@
 
     Grants made under this subchapter may not be used by the State, or by any other person with which the State makes arrangements to carry out the purposes of this subchapter, for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than low-cost residential weatherization or other energy-related home repairs) of any building or other facility.
 
-([Pub. L. 97–35, title XXVI, § 2609][/us/pl/97/35/s2609], Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902].)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2609, Aug. 13, 1981, [95 Stat. 902][/us/stat/95/902].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2609
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F902
 
 

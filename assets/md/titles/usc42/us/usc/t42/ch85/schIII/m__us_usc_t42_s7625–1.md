@@ -29,7 +29,7 @@
 
         (2) any regulation relating to sulfur dioxide standards or limitations contained in a State implementation plan approved under [section 7410 of this title][/us/usc/t42/s7410] as of December 8, 1983: Provided, That such exemption shall expire eighteen months after December 8, 1983, unless the Administrator determines that such plant is making all emissions reductions practicable to prevent exceedances of the national ambient air quality standards for sulfur dioxide.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 325, as added [Pub. L. 98–213, § 11][/us/pl/98/213/s11], Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461]; amended [Pub. L. 101–549, title VIII, § 806][/us/pl/101/549/s806], Nov. 15, 1990, [104 Stat. 2689][/us/stat/104/2689]; [Pub. L. 103–437, § 15(s)][/us/pl/103/437/s15/s], Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 325, as added [Pub. L. 98–213][/us/pl/98/213], § 11, Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461]; amended [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 806, Nov. 15, 1990, [104 Stat. 2689][/us/stat/104/2689]; [Pub. L. 103–437][/us/pl/103/437], § 15(s), Nov. 2, 1994, [108 Stat. 4594][/us/stat/108/4594].)
 
  __Prior Provisions__ 
 
@@ -61,11 +61,11 @@
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/98/213/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213%2Fs11
+[/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/stat/97/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1461
-[/us/pl/101/549/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs806
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2689
-[/us/pl/103/437/s15/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fs
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4594
 [/us/pl/98/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F213
 [/us/usc/t42/s7625a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7625a

@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 97–425, § 3][/us/pl/97/425/s3], Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
+([Pub. L. 97–425][/us/pl/97/425], § 3, Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/425/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs3
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2205
 
 

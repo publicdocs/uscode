@@ -31,7 +31,7 @@
 
         Not later than 1 year after December 13, 2010, the Secretary, acting through the Administrator of the Food Safety and Inspection Service, shall revise the procedures of the Food Safety and Inspection Service to ensure that schools are included in effectiveness checks.
 
-([June 4, 1946, ch. 281, § 29][/us/act/1946-06-04/ch281/s29], as added [Pub. L. 111–296, title III, § 308][/us/pl/111/296/s308], Dec. 13, 2010, [124 Stat. 3246][/us/stat/124/3246].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 29, as added [Pub. L. 111–296, title III][/us/pl/111/296/tIII], § 308, Dec. 13, 2010, [124 Stat. 3246][/us/stat/124/3246].)
 
  __References in Text__ 
 
@@ -49,8 +49,8 @@
 ----------
 
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/act/1946-06-04/ch281/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs29
-[/us/pl/111/296/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs308
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/111/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtIII
 [/us/stat/124/3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3246
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885

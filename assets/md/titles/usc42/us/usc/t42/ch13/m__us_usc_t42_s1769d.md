@@ -225,11 +225,11 @@
 
                     (IV) the Emergency Food Assistance Act of 1983 ([7 U.S.C. 7501][/us/usc/t7/s7501] et seq.).
 
-([June 4, 1946, ch. 281, § 23][/us/act/1946-06-04/ch281/s23], as added [Pub. L. 111–296, title I, § 141][/us/pl/111/296/s141], Dec. 13, 2010, [124 Stat. 3206][/us/stat/124/3206].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 23, as added [Pub. L. 111–296, title I][/us/pl/111/296/tI], § 141, Dec. 13, 2010, [124 Stat. 3206][/us/stat/124/3206].)
 
  __References in Text__ 
 
-    [Section 7517 of title 7][/us/usc/t7/s7517], referred to in subsec. (b)(7)(D)(iii), was amended generally by [Pub. L. 113–79, title IV, § 4208][/us/pl/113/79/s4208], Feb. 7, 2014, [128 Stat. 826][/us/stat/128/826], and now relates to food insecurity nutrition incentive.
+    [Section 7517 of title 7][/us/usc/t7/s7517], referred to in subsec. (b)(7)(D)(iii), was amended generally by [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4208, Feb. 7, 2014, [128 Stat. 826][/us/stat/128/826], and now relates to food insecurity nutrition incentive.
 
     The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(B), (7)(D)(iv)(III), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
@@ -239,7 +239,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1769d, [act June 4, 1946, ch. 281, § 23][/us/act/1946-06-04/ch281/s23], as added Nov. 10, 1989, [Pub. L. 101–147, title I, § 111][/us/pl/101/147/s111], [103 Stat. 890][/us/stat/103/890], directed Secretary to provide each appropriate State agency with information on income eligibility for free or reduced price meals under each program established under this chapter and the Child Nutrition Act of 1966, prior to repeal by [Pub. L. 104–193, title VII, § 711][/us/pl/104/193/s711], Aug. 22, 1996, [110 Stat. 2301][/us/stat/110/2301].
+    A prior section 1769d, [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 23, as added Nov. 10, 1989, [Pub. L. 101–147, title I][/us/pl/101/147/tI], § 111, [103 Stat. 890][/us/stat/103/890], directed Secretary to provide each appropriate State agency with information on income eligibility for free or reduced price meals under each program established under this chapter and the Child Nutrition Act of 1966, prior to repeal by [Pub. L. 104–193, title VII][/us/pl/104/193/tVII], § 711, Aug. 22, 1996, [110 Stat. 2301][/us/stat/110/2301].
 
  __Effective Date__ 
 
@@ -259,11 +259,11 @@
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
-[/us/act/1946-06-04/ch281/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs23
-[/us/pl/111/296/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs141
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/111/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtI
 [/us/stat/124/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3206
 [/us/usc/t7/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7517
-[/us/pl/113/79/s4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4208
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F826
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
@@ -274,10 +274,10 @@
 [/us/pl/98/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8
 [/us/stat/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F35
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
-[/us/act/1946-06-04/ch281/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs23
-[/us/pl/101/147/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs111
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/101/147/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtI
 [/us/stat/103/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F890
-[/us/pl/104/193/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs711
+[/us/pl/104/193/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVII
 [/us/stat/110/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2301
 [/us/pl/111/296/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs445
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751

@@ -73,71 +73,71 @@
 
         The preceding provisions of this section may be enforced through the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1140, as added [Pub. L. 100–360, title IV, § 428(a)][/us/pl/100/360/s428/a], July 1, 1988, [102 Stat. 815][/us/stat/102/815]; amended [Pub. L. 100–485, title VI, § 608(d)(30)(A)][/us/pl/100/485/s608/d/30/A], Oct. 13, 1988, [102 Stat. 2424][/us/stat/102/2424]; [Pub. L. 103–296, title I, § 108(b)(12)][/us/pl/103/296/s108/b/12], title III, §§ 304(b), 312(a)–(j), Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484], 1520, 1526, 1527; [Pub. L. 108–173, title IX, § 900(e)(1)(B)][/us/pl/108/173/s900/e/1/B], Dec. 8, 2003, [117 Stat. 2371][/us/stat/117/2371]; [Pub. L. 108–203, title II][/us/pl/108/203], §§ 204(a), 207(a), Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511], 512; [Pub. L. 114–74, title VIII, § 814][/us/pl/114/74/s814], Nov. 2, 2015, [129 Stat. 604][/us/stat/129/604].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1140, as added [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 428(a), July 1, 1988, [102 Stat. 815][/us/stat/102/815]; amended [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(30)(A), Oct. 13, 1988, [102 Stat. 2424][/us/stat/102/2424]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(b)(12), title III, §§ 304(b), 312(a)–(j), Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484], 1520, 1526, 1527; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(1)(B), Dec. 8, 2003, [117 Stat. 2371][/us/stat/117/2371]; [Pub. L. 108–203, title II][/us/pl/108/203/tII], §§ 204(a), 207(a), Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511], 512; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 814, Nov. 2, 2015, [129 Stat. 604][/us/stat/129/604].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–74, § 814(a)][/us/pl/114/74/s814/a], inserted “(including any Internet or other electronic communication)” after “or other communication” in introductory provisions.
+    2015—Subsec. (a)(1). [Pub. L. 114–74][/us/pl/114/74], § 814(a), inserted “(including any Internet or other electronic communication)” after “or other communication” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 114–74, § 814(b)][/us/pl/114/74/s814/b], in concluding provisions, inserted “In the case of any items referred to in subsection (a)(1) consisting of Internet or other electronic communications, each dissemination, viewing, or accessing of such a communication which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation” after “represent a separate violation.”
+    Subsec. (b). [Pub. L. 114–74][/us/pl/114/74], § 814(b), in concluding provisions, inserted “In the case of any items referred to in subsection (a)(1) consisting of Internet or other electronic communications, each dissemination, viewing, or accessing of such a communication which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation” after “represent a separate violation.”
 
-    2004—[Pub. L. 108–203, § 204(a)(2)][/us/pl/108/203/s204/a/2], substituted “Prohibitions relating to references” for “Prohibition of misuse of symbols, emblems, or names in reference” in section catchline.
+    2004—[Pub. L. 108–203][/us/pl/108/203], § 204(a)(2), substituted “Prohibitions relating to references” for “Prohibition of misuse of symbols, emblems, or names in reference” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 108–203, § 207(a)(3)][/us/pl/108/203/s207/a/3], which directed the substitution of “the Centers for Medicare & Medicaid Services,” for “the Health Care Financing Administration,” wherever appearing in concluding provisions, could not be executed because “the Health Care Financing Administration,” did not appear subsequent to amendment by [Pub. L. 108–173, § 900(e)(1)(B)(i)][/us/pl/108/173/s900/e/1/B/i]. See 2003 Amendment note below.
+    Subsec. (a)(1). [Pub. L. 108–203][/us/pl/108/203], § 207(a)(3), which directed the substitution of “the Centers for Medicare & Medicaid Services,” for “the Health Care Financing Administration,” wherever appearing in concluding provisions, could not be executed because “the Health Care Financing Administration,” did not appear subsequent to amendment by [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(B)(i). See 2003 Amendment note below.
 
-    Subsec. (a)(1)(A). [Pub. L. 108–203, § 207(a)(1)][/us/pl/108/203/s207/a/1], which directed the insertion of “ ‘Centers for Medicare & Medicaid Services’,” after “ ‘Health Care Financing Administration’,” and “ ‘CMS’,” after “ ‘HCFA’,”, could not be executed because of the prior amendment by [Pub. L. 108–173, § 900(e)(1)(B)(ii)][/us/pl/108/173/s900/e/1/B/ii]. See 2003 Amendment note below.
+    Subsec. (a)(1)(A). [Pub. L. 108–203][/us/pl/108/203], § 207(a)(1), which directed the insertion of “ ‘Centers for Medicare & Medicaid Services’,” after “ ‘Health Care Financing Administration’,” and “ ‘CMS’,” after “ ‘HCFA’,”, could not be executed because of the prior amendment by [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(B)(ii). See 2003 Amendment note below.
 
-    [Pub. L. 108–203, § 207(a)(1)][/us/pl/108/203/s207/a/1], substituted “ ‘Medicaid’, ‘Death Benefits Update’, ‘Federal Benefit Information’, ‘Funeral Expenses’, or ‘Final Supplemental Plan’,” for “or ‘Medicaid’,”.
+    [Pub. L. 108–203][/us/pl/108/203], § 207(a)(1), substituted “ ‘Medicaid’, ‘Death Benefits Update’, ‘Federal Benefit Information’, ‘Funeral Expenses’, or ‘Final Supplemental Plan’,” for “or ‘Medicaid’,”.
 
-    Subsec. (a)(1)(B). [Pub. L. 108–203, § 207(a)(2)][/us/pl/108/203/s207/a/2], which directed the insertion of “Centers for Medicare & Medicaid Services,” after “Health Care Financing Administration,” wherever appearing, could not be executed because “Health Care Financing Administration,” did not appear subsequent to amendment by [Pub. L. 108–173, § 900(e)(1)(B)(iii)][/us/pl/108/173/s900/e/1/B/iii]. See 2003 Amendment note below.
+    Subsec. (a)(1)(B). [Pub. L. 108–203][/us/pl/108/203], § 207(a)(2), which directed the insertion of “Centers for Medicare & Medicaid Services,” after “Health Care Financing Administration,” wherever appearing, could not be executed because “Health Care Financing Administration,” did not appear subsequent to amendment by [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(B)(iii). See 2003 Amendment note below.
 
-    Subsec. (a)(4). [Pub. L. 108–203, § 204(a)(1)][/us/pl/108/203/s204/a/1], added par. (4).
+    Subsec. (a)(4). [Pub. L. 108–203][/us/pl/108/203], § 204(a)(1), added par. (4).
 
-    2003—Subsec. (a)(1). [Pub. L. 108–173, § 900(e)(1)(B)(i)][/us/pl/108/173/s900/e/1/B/i], substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in two places in concluding provisions.
+    2003—Subsec. (a)(1). [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(B)(i), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in two places in concluding provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 108–173, § 900(e)(1)(B)(ii)][/us/pl/108/173/s900/e/1/B/ii], substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” and “CMS” for “HCFA”.
+    Subsec. (a)(1)(A). [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(B)(ii), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” and “CMS” for “HCFA”.
 
-    Subsec. (a)(1)(B). [Pub. L. 108–173, § 900(e)(1)(B)(iii)][/us/pl/108/173/s900/e/1/B/iii], substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in two places.
+    Subsec. (a)(1)(B). [Pub. L. 108–173][/us/pl/108/173], § 900(e)(1)(B)(iii), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in two places.
 
-    1994—Subsec. (a). [Pub. L. 103–296, § 312(a)][/us/pl/103/296/s312/a], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+    1994—Subsec. (a). [Pub. L. 103–296][/us/pl/103/296], § 312(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-    Subsec. (a)(1). [Pub. L. 103–296, § 312(c)][/us/pl/103/296/s312/c], (d), in closing provisions substituted “convey, or in a manner which reasonably could be interpreted or construed as conveying,” for “convey” and inserted at end “The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.”
+    Subsec. (a)(1). [Pub. L. 103–296][/us/pl/103/296], § 312(c), (d), in closing provisions substituted “convey, or in a manner which reasonably could be interpreted or construed as conveying,” for “convey” and inserted at end “The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.”
 
-    Subsec. (a)(1)(A). [Pub. L. 103–296, § 312(b)(1)][/us/pl/103/296/s312/b/1], substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’, the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
+    Subsec. (a)(1)(A). [Pub. L. 103–296][/us/pl/103/296], § 312(b)(1), substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’, the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
 
-    Subsec. (a)(1)(B). [Pub. L. 103–296, § 312(b)(2)][/us/pl/103/296/s312/b/2], substituted “Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services” for “Social Security Administration” in two places, struck out “or of the Health Care Financing Administration” before “, or any other”, and inserted “or the Medicare card,” after “[section 405(c)(2)(F) of this title][/us/usc/t42/s405/c/2/F]”.
+    Subsec. (a)(1)(B). [Pub. L. 103–296][/us/pl/103/296], § 312(b)(2), substituted “Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services” for “Social Security Administration” in two places, struck out “or of the Health Care Financing Administration” before “, or any other”, and inserted “or the Medicare card,” after “[section 405(c)(2)(F) of this title][/us/usc/t42/s405/c/2/F]”.
 
-    Subsec. (a)(2). [Pub. L. 103–296, § 304(b)][/us/pl/103/296/s304/b], substituted “405(c)(2)(F)” for “405(c)(2)(E)”.
+    Subsec. (a)(2). [Pub. L. 103–296][/us/pl/103/296], § 304(b), substituted “405(c)(2)(F)” for “405(c)(2)(E)”.
 
-    Subsec. (a)(2)(A), (B). [Pub. L. 103–296, § 108(b)(12)(A)][/us/pl/103/296/s108/b/12/A], in par. (2) as added by [Pub. L. 103–296, § 312(a)][/us/pl/103/296/s312/a], designated existing provisions as subpar. (A), struck out “or of the Department of Health and Human Services” after “Social Security Administration”, substituted “Commissioner of Social Security” for “Secretary”, and added subpar. (B).
+    Subsec. (a)(2)(A), (B). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(12)(A), in par. (2) as added by [Pub. L. 103–296][/us/pl/103/296], § 312(a), designated existing provisions as subpar. (A), struck out “or of the Department of Health and Human Services” after “Social Security Administration”, substituted “Commissioner of Social Security” for “Secretary”, and added subpar. (B).
 
-    Subsec. (a)(3). [Pub. L. 103–296, § 312(e)][/us/pl/103/296/s312/e], added par. (3).
+    Subsec. (a)(3). [Pub. L. 103–296][/us/pl/103/296], § 312(e), added par. (3).
 
-    Subsec. (b). [Pub. L. 103–296, § 312(g)][/us/pl/103/296/s312/g], substituted “The” for “(1) Subject to paragraph (2), the”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “The total amount of penalties which may be imposed under paragraph (1) with respect to multiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000.”
+    Subsec. (b). [Pub. L. 103–296][/us/pl/103/296], § 312(g), substituted “The” for “(1) Subject to paragraph (2), the”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “The total amount of penalties which may be imposed under paragraph (1) with respect to multiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000.”
 
-    Subsec. (b)(1). [Pub. L. 103–296, § 312(f)][/us/pl/103/296/s312/f] inserted at end “In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.”
+    Subsec. (b)(1). [Pub. L. 103–296][/us/pl/103/296], § 312(f) inserted at end “In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.”
 
-    [Pub. L. 103–296, § 108(b)(12)(B)][/us/pl/103/296/s108/b/12/B], substituted “the Commissioner or the Secretary (as applicable)” for “the Secretary” in introductory provisions.
+    [Pub. L. 103–296][/us/pl/103/296], § 108(b)(12)(B), substituted “the Commissioner or the Secretary (as applicable)” for “the Secretary” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 103–296, § 312(h)][/us/pl/103/296/s312/h], inserted “and the first sentence of subsection (c)” after “and (i)”.
+    Subsec. (c)(1). [Pub. L. 103–296][/us/pl/103/296], § 312(h), inserted “and the first sentence of subsection (c)” after “and (i)”.
 
-    Subsec. (c)(2). [Pub. L. 103–296, § 312(i)][/us/pl/103/296/s312/i], at end of second sentence substituted comma for period and inserted “except that (A) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Social Security Administration, such amounts shall be deposited into the Federal Old-Age and Survivors Insurance Trust Fund, and (B) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Department of Health and Human Services, such amounts shall be deposited into the Federal Hospital Insurance Trust Fund or the Federal Supplementary Medical Insurance Trust Fund, as appropriate.”
+    Subsec. (c)(2). [Pub. L. 103–296][/us/pl/103/296], § 312(i), at end of second sentence substituted comma for period and inserted “except that (A) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Social Security Administration, such amounts shall be deposited into the Federal Old-Age and Survivors Insurance Trust Fund, and (B) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Department of Health and Human Services, such amounts shall be deposited into the Federal Hospital Insurance Trust Fund or the Federal Supplementary Medical Insurance Trust Fund, as appropriate.”
 
-    [Pub. L. 103–296, § 108(b)(12)(C)][/us/pl/103/296/s108/b/12/C], substituted “the Commissioner or the Secretary (as applicable)” for “the Secretary” wherever appearing.
+    [Pub. L. 103–296][/us/pl/103/296], § 108(b)(12)(C), substituted “the Commissioner or the Secretary (as applicable)” for “the Secretary” wherever appearing.
 
-    Subsec. (d). [Pub. L. 103–296, § 312(j)][/us/pl/103/296/s312/j], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–296][/us/pl/103/296], § 312(j), added subsec. (d).
 
-    [Pub. L. 103–296, § 108(b)(12)(D)][/us/pl/103/296/s108/b/12/D], which in subsec. (d) as added by [Pub. L. 103–296, § 312(j)][/us/pl/103/296/s312/j], directed the substitution of “the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate)” for “the Office of Inspector General of the Department of Health and Human Services”, was executed by making the substitution for “the Office of the Inspector General of the Department of Health and Human Services” to reflect the probable intent of Congress.
+    [Pub. L. 103–296][/us/pl/103/296], § 108(b)(12)(D), which in subsec. (d) as added by [Pub. L. 103–296][/us/pl/103/296], § 312(j), directed the substitution of “the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate)” for “the Office of Inspector General of the Department of Health and Human Services”, was executed by making the substitution for “the Office of the Inspector General of the Department of Health and Human Services” to reflect the probable intent of Congress.
 
     1988—Subsec. (c)(1). [Pub. L. 100–485][/us/pl/100/485] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subsections (c), (d), (e), (g), (j), and (k) of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] shall apply with respect to violations under subsection (a) of this section and penalties imposed under subsection (b) of this section in the same manner and to the same extent as such subsections apply with respect to claims in violation of [section 1320a–7a of this title][/us/usc/t42/s1320a–7a] and penalties imposed under [section 1320a–7a(a) of this title][/us/usc/t42/s1320a–7a/a].”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title II, § 204(b)][/us/pl/108/203/s204/b], Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511], provided that: 
+[Pub. L. 108–203, title II][/us/pl/108/203/tII], § 204(b), Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to offers of assistance made after the sixth month ending after the Commissioner of Social Security promulgates final regulations prescribing the standards applicable to the notice required to be provided in connection with such offer. The Commissioner shall promulgate such final regulations within 1 year after the date of the enactment of this Act \[Mar. 2, 2004\].”
 
-[Pub. L. 108–203, title II, § 207(b)][/us/pl/108/203/s207/b], Mar. 2, 2004, [118 Stat. 513][/us/stat/118/513], provided that: 
+[Pub. L. 108–203, title II][/us/pl/108/203/tII], § 207(b), Mar. 2, 2004, [118 Stat. 513][/us/stat/118/513], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to items sent after 180 days after the date of the enactment of this Act \[Mar. 2, 2004\].”
 
@@ -153,13 +153,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–360, title IV, § 428(c)][/us/pl/100/360/s428/c], July 1, 1988, [102 Stat. 817][/us/stat/102/817], provided that: 
+[Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 428(c), July 1, 1988, [102 Stat. 817][/us/stat/102/817], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 1395ss of this title][/us/usc/t42/s1395ss]\] shall take effect on the date of the enactment of this Act \[July 1, 1988\] and shall apply only with respect to violations occurring on or after such date.”
 
  __Reports on Operation of this Section__ 
 
-[Pub. L. 103–296, title III, § 312(k)][/us/pl/103/296/s312/k], Aug. 15, 1994, [108 Stat. 1527][/us/stat/108/1527], provided that:
+[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 312(k), Aug. 15, 1994, [108 Stat. 1527][/us/stat/108/1527], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -198,57 +198,57 @@
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/360/s428/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs428%2Fa
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F815
-[/us/pl/100/485/s608/d/30/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F30%2FA
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2424
-[/us/pl/103/296/s108/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F12
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1484
-[/us/pl/108/173/s900/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2371
-[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F511
-[/us/pl/114/74/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs814
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F604
-[/us/pl/114/74/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs814%2Fa
-[/us/pl/114/74/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs814%2Fb
-[/us/pl/108/203/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs204%2Fa%2F2
-[/us/pl/108/203/s207/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs207%2Fa%2F3
-[/us/pl/108/173/s900/e/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB%2Fi
-[/us/pl/108/203/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs207%2Fa%2F1
-[/us/pl/108/173/s900/e/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB%2Fii
-[/us/pl/108/203/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs207%2Fa%2F1
-[/us/pl/108/203/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs207%2Fa%2F2
-[/us/pl/108/173/s900/e/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB%2Fiii
-[/us/pl/108/203/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs204%2Fa%2F1
-[/us/pl/108/173/s900/e/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB%2Fi
-[/us/pl/108/173/s900/e/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB%2Fii
-[/us/pl/108/173/s900/e/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB%2Fiii
-[/us/pl/103/296/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fa
-[/us/pl/103/296/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fc
-[/us/pl/103/296/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fb%2F1
-[/us/pl/103/296/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fb%2F2
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s405/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fc%2F2%2FF
-[/us/pl/103/296/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs304%2Fb
-[/us/pl/103/296/s108/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F12%2FA
-[/us/pl/103/296/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fa
-[/us/pl/103/296/s312/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fe
-[/us/pl/103/296/s312/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fg
-[/us/pl/103/296/s312/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Ff
-[/us/pl/103/296/s108/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F12%2FB
-[/us/pl/103/296/s312/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fh
-[/us/pl/103/296/s312/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fi
-[/us/pl/103/296/s108/b/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F12%2FC
-[/us/pl/103/296/s312/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fj
-[/us/pl/103/296/s108/b/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F12%2FD
-[/us/pl/103/296/s312/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fj
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t42/s1320a–7a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fa
-[/us/pl/108/203/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs204%2Fb
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F511
-[/us/pl/108/203/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs207%2Fb
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F513
 [/us/pl/103/296/s108/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F12
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
@@ -260,10 +260,10 @@
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/100/485/s608/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fg%2F1
 [/us/usc/t42/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs704
-[/us/pl/100/360/s428/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs428%2Fc
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F817
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
-[/us/pl/103/296/s312/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fk
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1527
 [/us/usc/t42/s1320a–7a/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a%2Fc%2F2
 [/us/pl/101/524/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524%2Fs4

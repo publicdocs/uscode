@@ -81,7 +81,7 @@
 
     (13) The term “appraisal” means a written statement independently and impartially prepared by a qualified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by the presentation and analysis of relevant market information.
 
-([Pub. L. 91–646, title I, § 101][/us/pl/91/646/s101], Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894]; [Pub. L. 100–17, title IV, § 402][/us/pl/100/17/s402], Apr. 2, 1987, [101 Stat. 246][/us/stat/101/246].)
+([Pub. L. 91–646, title I][/us/pl/91/646/tI], § 101, Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 402, Apr. 2, 1987, [101 Stat. 246][/us/stat/101/246].)
 
  __References in Text__ 
 
@@ -89,27 +89,27 @@
 
  __Amendments__ 
 
-    1987—Par. (1). [Pub. L. 100–17, § 402(a)][/us/pl/100/17/s402/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means any department, agency, or instrumentality in the executive branch of the Government (except the National Capital Housing Authority), any wholly owned Government corporation (except the District of Columbia Redevelopment Land Agency), and the Architect of the Capitol, the Federal Reserve banks and branches thereof.”
+    1987—Par. (1). [Pub. L. 100–17][/us/pl/100/17], § 402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means any department, agency, or instrumentality in the executive branch of the Government (except the National Capital Housing Authority), any wholly owned Government corporation (except the District of Columbia Redevelopment Land Agency), and the Architect of the Capitol, the Federal Reserve banks and branches thereof.”
 
-    Par. (3). [Pub. L. 100–17, § 402(b)][/us/pl/100/17/s402/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘State agency’ means the National Capital Housing Authority, the District of Columbia Redevelopment Land Agency, and any department, agency, or instrumentality of a State or of a political subdivision of a State, or any department, agency, or instrumentality of two or more States or of two or more political subdivisions of a State or States.”
+    Par. (3). [Pub. L. 100–17][/us/pl/100/17], § 402(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘State agency’ means the National Capital Housing Authority, the District of Columbia Redevelopment Land Agency, and any department, agency, or instrumentality of a State or of a political subdivision of a State, or any department, agency, or instrumentality of two or more States or of two or more political subdivisions of a State or States.”
 
-    Par. (4). [Pub. L. 100–17, § 402(c)][/us/pl/100/17/s402/c], inserted “, any interest reduction payment to an individual in connection with the purchase and occupancy of a residence by that individual,” after “insurance”.
+    Par. (4). [Pub. L. 100–17][/us/pl/100/17], § 402(c), inserted “, any interest reduction payment to an individual in connection with the purchase and occupancy of a residence by that individual,” after “insurance”.
 
-    Par. (6). [Pub. L. 100–17, § 402(d)][/us/pl/100/17/s402/d], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘displaced person’ means any person who, on or after January 2, 1971, moves from real property, or moves his personal property from real property, as a result of the acquisition of such real property, in whole or in part, or as the result of the written order of the acquiring agency to vacate real property, for a program or project undertaken by a Federal agency, or with Federal financial assistance; and solely for the purposes of sections 4622(a) and (b) and 4625 of this title, as a result of the acquisition of or as the result of the written order of the acquiring agency to vacate other real property, on which such person conducts a business or farm operation, for such program or project.”
+    Par. (6). [Pub. L. 100–17][/us/pl/100/17], § 402(d), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘displaced person’ means any person who, on or after January 2, 1971, moves from real property, or moves his personal property from real property, as a result of the acquisition of such real property, in whole or in part, or as the result of the written order of the acquiring agency to vacate real property, for a program or project undertaken by a Federal agency, or with Federal financial assistance; and solely for the purposes of sections 4622(a) and (b) and 4625 of this title, as a result of the acquisition of or as the result of the written order of the acquiring agency to vacate other real property, on which such person conducts a business or farm operation, for such program or project.”
 
-    Par. (7)(D). [Pub. L. 100–17, § 402(f)][/us/pl/100/17/s402/f], substituted “section 4622” for “section 4622(a)”.
+    Par. (7)(D). [Pub. L. 100–17][/us/pl/100/17], § 402(f), substituted “section 4622” for “section 4622(a)”.
 
-    Pars. (10) to (13). [Pub. L. 100–17, § 402(e)][/us/pl/100/17/s402/e], added pars. (10) to (13).
+    Pars. (10) to (13). [Pub. L. 100–17][/us/pl/100/17], § 402(e), added pars. (10) to (13).
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–17, title IV, § 418][/us/pl/100/17/s418], Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256], provided that: 
+[Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 418, Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256], provided that: 
 
 > “The amendment made by [section 412 of this title][/us/usc/t42/s412] \[amending [section 4633 of this title][/us/usc/t42/s4633]\] (to the extent such amendment prescribes authority to develop, publish, and issue regulations) shall take effect on the date of the enactment of this title \[Apr. 2, 1987\]. This title and the amendments made by this title \[enacting [section 4604 of this title][/us/usc/t42/s4604], amending this section and sections 4621 to 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of this title, repealing sections 4634 and 4637 of this title, and enacting provisions set out as a note under this section\] (other than the amendment made by section 412 to such extent) shall take effect on the effective date provided in such regulations but not later than 2 years after such date of enactment.”
 
  __Effective Date__ 
 
-[Pub. L. 91–646, title II, § 221][/us/pl/91/646/s221], Jan. 2, 1971, [84 Stat. 1904][/us/stat/84/1904], provided that:
+[Pub. L. 91–646, title II][/us/pl/91/646/tII], § 221, Jan. 2, 1971, [84 Stat. 1904][/us/stat/84/1904], provided that:
 
 >     “(a) Except as provided in subsections (b) and (c) of this section, this Act and the amendments made by this Act \[see Short Title note below\] shall take effect on the date of its enactment \[Jan. 2, 1971\].
 
@@ -119,13 +119,13 @@
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–17, title IV, § 401][/us/pl/100/17/s401], Apr. 2, 1987, [101 Stat. 246][/us/stat/101/246], provided that: 
+[Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 401, Apr. 2, 1987, [101 Stat. 246][/us/stat/101/246], provided that: 
 
 > “This title \[enacting [section 4604 of this title][/us/usc/t42/s4604], amending this section and sections 4621 to 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of this title, repealing sections 4634 and 4637 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Uniform Relocation Act Amendments of 1987’.”
 
  __Short Title__ 
 
-[Pub. L. 91–646, § 1][/us/pl/91/646/s1], Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894], provided: 
+[Pub. L. 91–646][/us/pl/91/646], § 1, Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealing sections 1465 and 3071 to 3074 of this title, [section 2680 of Title 10][/us/usc/t10/s2680], Armed Forces, sections 141 and 501 to 512 of Title 23, Highways, [section 596 of Title 33][/us/usc/t33/s596], Navigation and Navigable Waters, sections 1231 to 1234 of Title 43, Public Lands, and enacting provisions set out as notes under this section and sections 4621 and 4651 of this title, and repealing provisions set out as notes under sections 501 and 510 of Title 23\] may be cited as the ‘Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970’.”
 
@@ -135,13 +135,13 @@
 
  __Willing Sellers Considered Displaced Persons__ 
 
-[Pub. L. 111–8, div. E, title I][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 710][/us/stat/123/710], provided that: 
+[Pub. L. 111–8, div. E, title I][/us/pl/111/8/dE/tI], Mar. 11, 2009, [123 Stat. 710][/us/stat/123/710], provided that: 
 
 > “For fiscal year 2009 and hereafter, a willing seller from whom the Service acquires title to real property may be considered a ‘displaced person’ for purposes of the Uniform Relocation Assistance and Real Property Acquisition Policy Act \[probably means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, [42 U.S.C. 4601][/us/usc/t42/s4601] et seq.\] and its implementing regulations, whether or not the Service has the authority to acquire such property by eminent domain.”
 
  __Treatment of Real Property Buyout Programs__ 
 
-[Pub. L. 103–181, § 4][/us/pl/103/181/s4], Dec. 3, 1993, [107 Stat. 2055][/us/stat/107/2055], provided that:
+[Pub. L. 103–181][/us/pl/103/181], § 4, Dec. 3, 1993, [107 Stat. 2055][/us/stat/107/2055], provided that:
 
 >     “(a)  __Inapplicability of URA__  __.—__ 
 
@@ -179,42 +179,42 @@
 ----------
 
 [/us/usc/t42/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4622
-[/us/pl/91/646/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs101
+[/us/pl/91/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtI
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
-[/us/pl/100/17/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs402
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F246
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
-[/us/pl/100/17/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs402%2Fa
-[/us/pl/100/17/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs402%2Fb
-[/us/pl/100/17/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs402%2Fc
-[/us/pl/100/17/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs402%2Fd
-[/us/pl/100/17/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs402%2Ff
-[/us/pl/100/17/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs402%2Fe
-[/us/pl/100/17/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs418
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F256
 [/us/usc/t42/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs412
 [/us/usc/t42/s4633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4633
 [/us/usc/t42/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4604
-[/us/pl/91/646/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs221
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1904
 [/us/usc/t42/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1465
 [/us/usc/t42/s3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3074
 [/us/usc/t42/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs220%2Fa
 [/us/usc/t23/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs141
 [/us/usc/t33/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs596
-[/us/pl/100/17/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs401
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F246
 [/us/usc/t42/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4604
-[/us/pl/91/646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs1
+[/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t10/s2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2680
 [/us/usc/t33/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs596
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtI
 [/us/stat/123/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F710
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/103/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F181%2Fs4
+[/us/pl/103/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F181
 [/us/stat/107/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2055
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1

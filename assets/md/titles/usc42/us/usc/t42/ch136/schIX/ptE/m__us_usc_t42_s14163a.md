@@ -41,7 +41,7 @@
 
             Grants awarded under subsection (a) of this section shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
 
-([Pub. L. 108–405, title IV, § 422][/us/pl/108/405/s422], Oct. 30, 2004, [118 Stat. 2288][/us/stat/118/2288].)
+([Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 422, Oct. 30, 2004, [118 Stat. 2288][/us/stat/118/2288].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/108/405/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs422
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2288
 
 

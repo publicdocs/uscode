@@ -37,11 +37,11 @@
 
         (2) compromise the integrity or the appearance of integrity of programs or services provided under this chapter or of any official involved in those programs or services.
 
-([Pub. L. 89–73, title II, § 204][/us/pl/89/73/s204], as added [Pub. L. 106–501, title II, § 202(2)][/us/pl/106/501/s202/2], Nov. 13, 2000, [114 Stat. 2230][/us/stat/114/2230].)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 204, as added [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 202(2), Nov. 13, 2000, [114 Stat. 2230][/us/stat/114/2230].)
 
  __Prior Provisions__ 
 
-    A prior section 3015, [Pub. L. 89–73, title II, § 204][/us/pl/89/73/s204], formerly § 205, as added [Pub. L. 93–29, title II, § 201(c)][/us/pl/93/29/s201/c], May 3, 1973, [87 Stat. 33][/us/stat/87/33]; amended [Pub. L. 94–135, title I, § 101][/us/pl/94/135/s101], Nov. 28, 1975, [89 Stat. 713][/us/stat/89/713]; [Pub. L. 95–478, title I, § 102(e)][/us/pl/95/478/s102/e], title V, § 503(b)(3), (4)(A), Oct. 18, 1978, [92 Stat. 1514][/us/stat/92/1514], 1559; renumbered § 204 and amended [Pub. L. 97–115][/us/pl/97/115], §§ 2(e)(2), (f), 11(b)(1), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596], 1606; [Pub. L. 98–459, title II, § 204][/us/pl/98/459/s204], Oct. 9, 1984, [98 Stat. 1769][/us/stat/98/1769]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 107(b), 108, 182(d), Nov. 29, 1987, [101 Stat. 931][/us/stat/101/931], 932, 964; [Pub. L. 100–628, title VII, § 705(2)][/us/pl/100/628/s705/2], Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title II, § 205][/us/pl/102/375/s205], title IX, § 904(a)(6), Sept. 30, 1992, [106 Stat. 1211][/us/stat/106/1211], 1306; [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990], established a Federal Council on the Aging and provided for its membership, duties, etc., and authorized appropriations for fiscal years 1992 through 1995, prior to repeal by [Pub. L. 106–501, title II, § 202(2)][/us/pl/106/501/s202/2], Nov. 13, 2000, [114 Stat. 2230][/us/stat/114/2230].
+    A prior section 3015, [Pub. L. 89–73, title II][/us/pl/89/73/tII], § 204, formerly § 205, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 33][/us/stat/87/33]; amended [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 101, Nov. 28, 1975, [89 Stat. 713][/us/stat/89/713]; [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(e), title V, § 503(b)(3), (4)(A), Oct. 18, 1978, [92 Stat. 1514][/us/stat/92/1514], 1559; renumbered § 204 and amended [Pub. L. 97–115][/us/pl/97/115], §§ 2(e)(2), (f), 11(b)(1), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596], 1606; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 204, Oct. 9, 1984, [98 Stat. 1769][/us/stat/98/1769]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 107(b), 108, 182(d), Nov. 29, 1987, [101 Stat. 931][/us/stat/101/931], 932, 964; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(2), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 205, title IX, § 904(a)(6), Sept. 30, 1992, [106 Stat. 1211][/us/stat/106/1211], 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990], established a Federal Council on the Aging and provided for its membership, duties, etc., and authorized appropriations for fiscal years 1992 through 1995, prior to repeal by [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 202(2), Nov. 13, 2000, [114 Stat. 2230][/us/stat/114/2230].
 
     A prior [section 204 of Pub. L. 89–73][/us/pl/89/73/s204] was classified to [section 3014 of this title][/us/usc/t42/s3014] prior to repeal by [Pub. L. 97–115][/us/pl/97/115].
 
@@ -52,29 +52,29 @@
 ----------
 ----------
 
-[/us/pl/89/73/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs204
-[/us/pl/106/501/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs202%2F2
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
+[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
 [/us/stat/114/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2230
-[/us/pl/89/73/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs204
-[/us/pl/93/29/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs201%2Fc
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
+[/us/pl/93/29/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtII
 [/us/stat/87/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F33
-[/us/pl/94/135/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs101
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F713
-[/us/pl/95/478/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs102%2Fe
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1514
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1596
-[/us/pl/98/459/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs204
+[/us/pl/98/459/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtII
 [/us/stat/98/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1769
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F931
-[/us/pl/100/628/s705/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs705%2F2
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3247
-[/us/pl/102/375/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs205
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1211
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/106/501/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs202%2F2
+[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
 [/us/stat/114/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2230
 [/us/pl/89/73/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs204
 [/us/usc/t42/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3014

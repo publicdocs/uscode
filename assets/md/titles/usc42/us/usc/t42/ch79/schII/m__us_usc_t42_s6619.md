@@ -33,7 +33,7 @@
 
         (3) An explanation of how the projects and instrumentation acquisitions described in paragraph (2) relate to the deficiencies and priorities identified pursuant to subsection (a).
 
-([Pub. L. 110–69, title I, § 1007][/us/pl/110/69/s1007], Aug. 9, 2007, [121 Stat. 580][/us/stat/121/580].)
+([Pub. L. 110–69, title I][/us/pl/110/69/tI], § 1007, Aug. 9, 2007, [121 Stat. 580][/us/stat/121/580].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/110/69/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs1007
+[/us/pl/110/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtI
 [/us/stat/121/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F580
 
 

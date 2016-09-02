@@ -349,7 +349,7 @@
 
         (3) No action under this subsection shall take effect unless the Governor submits the order or rule providing for such exclusion to the Administrator and the Administrator determines that such order or rule is in compliance with the provisions of this subsection.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 163, as added [Pub. L. 95–95, title I, § 127(a)][/us/pl/95/95/s127/a], Aug. 7, 1977, [91 Stat. 732][/us/stat/91/732]; amended [Pub. L. 95–190, § 14(a)(41)][/us/pl/95/190/s14/a/41], Nov. 16, 1977, [91 Stat. 1401][/us/stat/91/1401].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 163, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 127(a), Aug. 7, 1977, [91 Stat. 732][/us/stat/91/732]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(41), Nov. 16, 1977, [91 Stat. 1401][/us/stat/91/1401].)
 
  __References in Text__ 
 
@@ -370,9 +370,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t42/s7479/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7479%2F4
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs127%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F732
-[/us/pl/95/190/s14/a/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F41
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1401
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

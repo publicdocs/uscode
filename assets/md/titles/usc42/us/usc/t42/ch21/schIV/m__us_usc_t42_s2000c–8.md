@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall affect adversely the right of any person to sue for or obtain relief in any court against discrimination in public education.
 
-([Pub. L. 88–352, title IV, § 409][/us/pl/88/352/s409], July 2, 1964, [78 Stat. 249][/us/stat/78/249].)
+([Pub. L. 88–352, title IV][/us/pl/88/352/tIV], § 409, July 2, 1964, [78 Stat. 249][/us/stat/78/249].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs409
+[/us/pl/88/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIV
 [/us/stat/78/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F249
 
 

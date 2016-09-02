@@ -57,7 +57,7 @@
 
         Amounts provided under this section to a community development corporation shall not exceed $75,000 per year. Such corporations may apply for grants under this section for up to 3 consecutive years, except that such corporations shall be required to submit a new application for each grant for which such corporation desires to receive and compete on the basis of such applications in the selection process.
 
-([Pub. L. 103–322, title III, § 31121][/us/pl/103/322/s31121], Sept. 13, 1994, [108 Stat. 1885][/us/stat/108/1885].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31121, Sept. 13, 1994, [108 Stat. 1885][/us/stat/108/1885].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31121
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1885
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

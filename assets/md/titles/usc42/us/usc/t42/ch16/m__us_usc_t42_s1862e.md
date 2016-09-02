@@ -21,7 +21,7 @@
 
     (2) the conditions of each award to such centers have been fulfilled.
 
-([Pub. L. 100–570, title I, § 109][/us/pl/100/570/s109], Oct. 31, 1988, [102 Stat. 2869][/us/stat/102/2869].)
+([Pub. L. 100–570, title I][/us/pl/100/570/tI], § 109, Oct. 31, 1988, [102 Stat. 2869][/us/stat/102/2869].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/570/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs109
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2869
 
 

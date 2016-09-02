@@ -37,7 +37,7 @@
 
         There are authorized to be appropriated for the purposes of this section $25,000,000 for fiscal year 1978.
 
-([Pub. L. 95–155, § 5][/us/pl/95/155/s5], Nov. 8, 1977, [91 Stat. 1258][/us/stat/91/1258]; [Pub. L. 95–477, § 7(a)(1)][/us/pl/95/477/s7/a/1], Oct. 18, 1978, [92 Stat. 1511][/us/stat/92/1511].)
+([Pub. L. 95–155][/us/pl/95/155], § 5, Nov. 8, 1977, [91 Stat. 1258][/us/stat/91/1258]; [Pub. L. 95–477][/us/pl/95/477], § 7(a)(1), Oct. 18, 1978, [92 Stat. 1511][/us/stat/92/1511].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–477, § 7(a)(2)][/us/pl/95/477/s7/a/2], Oct. 18, 1978, [92 Stat. 1511][/us/stat/92/1511], provided that: 
+[Pub. L. 95–477][/us/pl/95/477], § 7(a)(2), Oct. 18, 1978, [92 Stat. 1511][/us/stat/92/1511], provided that: 
 
 > “This subsection \[amending this section\] shall become effective October 1, 1978.”
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/pl/95/155/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155%2Fs5
+[/us/pl/95/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155
 [/us/stat/91/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1258
-[/us/pl/95/477/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs7%2Fa%2F1
+[/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
 [/us/stat/92/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1511
 [/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
-[/us/pl/95/477/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs7%2Fa%2F2
+[/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
 [/us/stat/92/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1511
 
 

@@ -23,7 +23,7 @@
 
         The Attorney General may not provide an increase in the amount provided to a State under the covered formula grants under this part more than 4 times.
 
-([Pub. L. 114–22, title IV, § 407][/us/pl/114/22/s407], May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 407, May 29, 2015, [129 Stat. 257][/us/stat/129/257].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs407
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F257
 
 

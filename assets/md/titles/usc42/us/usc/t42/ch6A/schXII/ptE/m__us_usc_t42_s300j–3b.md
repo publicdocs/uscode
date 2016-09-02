@@ -43,11 +43,11 @@
 
     (4) Nothing in this section shall be construed to prohibit or delay the award of any grant referred to in paragraph (1) prior to the date of promulgation of such guidelines.
 
-([Pub. L. 95–477, § 7(b)][/us/pl/95/477/s7/b], Oct. 18, 1978, [92 Stat. 1511][/us/stat/92/1511].)
+([Pub. L. 95–477][/us/pl/95/477], § 7(b), Oct. 18, 1978, [92 Stat. 1511][/us/stat/92/1511].)
 
  __References in Text__ 
 
-    [Section 300j–1(a)(2) of this title][/us/usc/t42/s300j–1/a/2], referred to in par. (3)(A), was amended by [Pub. L. 104–182, title I, § 121(3)][/us/pl/104/182/s121/3], (4)(A), Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651], to redesignate par. (2)(B) as subsec. (b) of section 300j–1, strike par. (2)(A), and add a new par. (2) relating to information and research facilities.
+    [Section 300j–1(a)(2) of this title][/us/usc/t42/s300j–1/a/2], referred to in par. (3)(A), was amended by [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 121(3), (4)(A), Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651], to redesignate par. (2)(B) as subsec. (b) of section 300j–1, strike par. (2)(A), and add a new par. (2) relating to information and research facilities.
 
  __Codification__ 
 
@@ -64,10 +64,10 @@
 [/us/usc/t42/s300j–3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%933%2Fa%2F2
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
 [/us/usc/t42/s300j–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%933a
-[/us/pl/95/477/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs7%2Fb
+[/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
 [/us/stat/92/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1511
 [/us/usc/t42/s300j–1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%931%2Fa%2F2
-[/us/pl/104/182/s121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs121%2F3
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1651
 
 

@@ -21,7 +21,7 @@
 
     (2) the status of projects funded under this part.
 
-([Pub. L. 109–58, title IV, § 403][/us/pl/109/58/s403], Aug. 8, 2005, [119 Stat. 753][/us/stat/119/753].)
+([Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 403, Aug. 8, 2005, [119 Stat. 753][/us/stat/119/753].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
 [/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
-[/us/pl/109/58/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs403
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F753
 
 

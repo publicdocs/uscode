@@ -17,11 +17,11 @@
 
     The Commission is authorized to receive funds through grants, contracts, and contributions from State and local governments and organizations thereof, and from nonprofit organizations. Such funds may be received and expended by the Commission only for purposes of this chapter. In making appropriations to the Commission the Congress shall consider the amount of any funds received by the Commission in addition to those funds appropriated to it by the Congress.
 
-([Pub. L. 86–380, § 9][/us/pl/86/380/s9], as added [Pub. L. 89–733, § 6][/us/pl/89/733/s6], Nov. 2, 1966, [80 Stat. 1162][/us/stat/80/1162].)
+([Pub. L. 86–380][/us/pl/86/380], § 9, as added [Pub. L. 89–733][/us/pl/89/733], § 6, Nov. 2, 1966, [80 Stat. 1162][/us/stat/80/1162].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 2379 of Title 5][/us/usc/t5/s2379] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2379 of Title 5][/us/usc/t5/s2379] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/86/380/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380%2Fs9
-[/us/pl/89/733/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F733%2Fs6
+[/us/pl/86/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F380
+[/us/pl/89/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F733
 [/us/stat/80/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1162
 [/us/usc/t5/s2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2379
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

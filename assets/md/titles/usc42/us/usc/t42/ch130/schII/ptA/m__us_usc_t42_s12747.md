@@ -21,7 +21,7 @@
 
             After reserving amounts under paragraph (3) for the insular areas, the Secretary shall allocate funds approved in an appropriation Act to carry out this subchapter by formula as provided in subsection (b) of this section. Of the funds made available under the preceding sentence, the Secretary shall initially allocate 60 percent among units of general local government and 40 percent among States.
 
-        (2) __Repealed.__  __[__  __Pub. L. 104–330, title V, § 505(a)(1)(B)__  __][/us/pl/104/330/s505/a/1/B]__  __,__  __Oct. 26, 1996__  __,__  __[__  __110 Stat. 4044__  __][/us/stat/110/4044]__ 
+        (2) __Repealed.__  __[__  __Pub. L. 104–330, title V__  __][/us/pl/104/330/tV]__  __, § 505(a)(1)(B),__  __Oct. 26, 1996__  __,__  __[__  __110 Stat. 4044__  __][/us/stat/110/4044]__ 
 
         (3)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ See 1992 Amendment note below.__  __ </sup></sup> __  __Insular areas__ 
 
@@ -119,23 +119,23 @@
 
             Unless otherwise specified in this part, any reallocation of funds from a State shall be made only among all participating States, and any reallocation of funds from units of general local government shall be made only among all participating units of general local government.
 
-([Pub. L. 101–625, title II, § 217][/us/pl/101/625/s217], Nov. 28, 1990, [104 Stat. 4105][/us/stat/104/4105]; [Pub. L. 102–229, title I][/us/pl/102/229], Dec. 12, 1991, [105 Stat. 1709][/us/stat/105/1709]; [Pub. L. 102–230, § 1][/us/pl/102/230/s1], Dec. 12, 1991, [105 Stat. 1720][/us/stat/105/1720]; [Pub. L. 102–273, § 1][/us/pl/102/273/s1], Apr. 21, 1992, [106 Stat. 113][/us/stat/106/113]; [Pub. L. 102–389, title II][/us/pl/102/389], Oct. 6, 1992, [106 Stat. 1581][/us/stat/106/1581]; [Pub. L. 102–550, title II][/us/pl/102/550], §§ 202(b), 203(b), 211(a)(2), Oct. 28, 1992, [106 Stat. 3751][/us/stat/106/3751], 3752, 3756; [Pub. L. 104–330, title V, § 505(a)(1)][/us/pl/104/330/s505/a/1], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; [Pub. L. 105–65, title II, § 214][/us/pl/105/65/s214], Oct. 27, 1997, [111 Stat. 1366][/us/stat/111/1366].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 217, Nov. 28, 1990, [104 Stat. 4105][/us/stat/104/4105]; [Pub. L. 102–229, title I][/us/pl/102/229/tI], Dec. 12, 1991, [105 Stat. 1709][/us/stat/105/1709]; [Pub. L. 102–230][/us/pl/102/230], § 1, Dec. 12, 1991, [105 Stat. 1720][/us/stat/105/1720]; [Pub. L. 102–273][/us/pl/102/273], § 1, Apr. 21, 1992, [106 Stat. 113][/us/stat/106/113]; [Pub. L. 102–389, title II][/us/pl/102/389/tII], Oct. 6, 1992, [106 Stat. 1581][/us/stat/106/1581]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], §§ 202(b), 203(b), 211(a)(2), Oct. 28, 1992, [106 Stat. 3751][/us/stat/106/3751], 3752, 3756; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 505(a)(1), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; [Pub. L. 105–65, title II][/us/pl/105/65/tII], § 214, Oct. 27, 1997, [111 Stat. 1366][/us/stat/111/1366].)
 
  __Amendments__ 
 
     1997—Subsec. (b)(3). [Pub. L. 105–65][/us/pl/105/65], in first sentence, substituted “jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation” for “only those jurisdictions that are allocated an amount of $500,000 or greater shall receive an allocation”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–330, § 505(a)(1)(A)][/us/pl/104/330/s505/a/1/A], struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
+    1996—Subsec. (a)(1). [Pub. L. 104–330][/us/pl/104/330], § 505(a)(1)(A), struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
 
-    Subsec. (a)(2). [Pub. L. 104–330, § 505(a)(1)(B)][/us/pl/104/330/s505/a/1/B], struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
+    Subsec. (a)(2). [Pub. L. 104–330][/us/pl/104/330], § 505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
-    1992—Subsec. (a)(1). [Pub. L. 102–550, § 211(a)(2)(A)][/us/pl/102/550/s211/a/2/A], added first sentence and struck out former first sentence which read as follows: “After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section.”
+    1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550], § 211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: “After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section.”
 
-    [Pub. L. 102–389][/us/pl/102/389] made identical amendment to those made by [Pub. L. 102–229][/us/pl/102/229] and [Pub. L. 102–230, § 1(1)][/us/pl/102/230/s1/1]. See 1991 Amendment note below.
+    [Pub. L. 102–389][/us/pl/102/389] made identical amendment to those made by [Pub. L. 102–229][/us/pl/102/229] and [Pub. L. 102–230][/us/pl/102/230], § 1(1). See 1991 Amendment note below.
 
-    Subsec. (a)(3). [Pub. L. 102–550, § 211(a)(2)(D)][/us/pl/102/550/s211/a/2/D], and [Pub. L. 102–389][/us/pl/102/389] both added new pars. (3) related to insular areas. The text reflects the par. (3) added by [Pub. L. 102–550][/us/pl/102/550]. The par. (3) added by [Pub. L. 102–389][/us/pl/102/389] read as follows: “For each fiscal year, of any amounts approved in appropriations Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
+    Subsec. (a)(3). [Pub. L. 102–550][/us/pl/102/550], § 211(a)(2)(D), and [Pub. L. 102–389][/us/pl/102/389] both added new pars. (3) related to insular areas. The text reflects the par. (3) added by [Pub. L. 102–550][/us/pl/102/550]. The par. (3) added by [Pub. L. 102–389][/us/pl/102/389] read as follows: “For each fiscal year, of any amounts approved in appropriations Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
-    [Pub. L. 102–550, § 211(a)(2)(C)][/us/pl/102/550/s211/a/2/C], struck out par. (3), as added by [Pub. L. 102–230, § 1(2)][/us/pl/102/230/s1/2], which read as follows:
+    [Pub. L. 102–550][/us/pl/102/550], § 211(a)(2)(C), struck out par. (3), as added by [Pub. L. 102–230][/us/pl/102/230], § 1(2), which read as follows:
 
     “(A) In general.—For each fiscal year, of any amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to the insular areas an amount that reflects—
 
@@ -147,37 +147,37 @@
 
     “(C) Transitional provisions.—For fiscal year 1992, the reservation for insular areas specified in subparagraph (A) shall be made from any funds which become available for reallocation in accordance with the provisions of [section 12746(6)(A) of this title][/us/usc/t42/s12746/6/A].”
 
-    [Pub. L. 102–550, § 211(a)(2)(B)][/us/pl/102/550/s211/a/2/B], struck out par. (3), as added by [Pub. L. 102–229][/us/pl/102/229], which read as follows: “For each fiscal year, of any amounts approved in appropriations Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.5 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
+    [Pub. L. 102–550][/us/pl/102/550], § 211(a)(2)(B), struck out par. (3), as added by [Pub. L. 102–229][/us/pl/102/229], which read as follows: “For each fiscal year, of any amounts approved in appropriations Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.5 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
-    Subsec. (b)(1)(A). [Pub. L. 102–550, § 203(b)(1)][/us/pl/102/550/s203/b/1], (6), redesignated subpar. (B) as (A) and struck out former subpar. (A) which provided for a formula for allocation of funds for production of affordable rental housing through new construction or substantial rehabilitation.
+    Subsec. (b)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 203(b)(1), (6), redesignated subpar. (B) as (A) and struck out former subpar. (A) which provided for a formula for allocation of funds for production of affordable rental housing through new construction or substantial rehabilitation.
 
     [Pub. L. 102–273][/us/pl/102/273] added cl. (iii) reading as follows: “Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with [section 12742 of this title][/us/usc/t42/s12742] if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 ([Public Law 102–139][/us/pl/102/139]; [105 Stat. 744][/us/stat/105/744]), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed.”
 
-    Subsec. (b)(1)(B), (C). [Pub. L. 102–550, § 203(b)(6)][/us/pl/102/550/s203/b/6], redesignated subpars. (C) and (D) as (B) and (C), respectively. Former subpar. (B) redesignated (A).
+    Subsec. (b)(1)(B), (C). [Pub. L. 102–550][/us/pl/102/550], § 203(b)(6), redesignated subpars. (C) and (D) as (B) and (C), respectively. Former subpar. (B) redesignated (A).
 
-    Subsec. (b)(1)(D). [Pub. L. 102–550, § 203(b)(6)][/us/pl/102/550/s203/b/6], redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+    Subsec. (b)(1)(D). [Pub. L. 102–550][/us/pl/102/550], § 203(b)(6), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-    [Pub. L. 102–550, § 203(b)(2)][/us/pl/102/550/s203/b/2], substituted “The basic formula established under subparagraph (A)” for “Except as provided in subparagraph (A), the basic formula established under subparagraph (B)”.
+    [Pub. L. 102–550][/us/pl/102/550], § 203(b)(2), substituted “The basic formula established under subparagraph (A)” for “Except as provided in subparagraph (A), the basic formula established under subparagraph (B)”.
 
-    Subsec. (b)(1)(E). [Pub. L. 102–550, § 203(b)(6)][/us/pl/102/550/s203/b/6], redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+    Subsec. (b)(1)(E). [Pub. L. 102–550][/us/pl/102/550], § 203(b)(6), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-    [Pub. L. 102–550, § 203(b)(3)][/us/pl/102/550/s203/b/3], substituted “formula in subparagraph (A)” for “formulas in subparagraph (B)”.
+    [Pub. L. 102–550][/us/pl/102/550], § 203(b)(3), substituted “formula in subparagraph (A)” for “formulas in subparagraph (B)”.
 
-    Subsec. (b)(1)(F). [Pub. L. 102–550, § 203(b)(6)][/us/pl/102/550/s203/b/6], redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
+    Subsec. (b)(1)(F). [Pub. L. 102–550][/us/pl/102/550], § 203(b)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-    [Pub. L. 102–550, § 203(b)(4)][/us/pl/102/550/s203/b/4], substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction’s allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effect of the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
+    [Pub. L. 102–550][/us/pl/102/550], § 203(b)(4), substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction’s allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effect of the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
 
-    Subsec. (b)(1)(G). [Pub. L. 102–550, § 203(b)(6)][/us/pl/102/550/s203/b/6], redesignated subpar. (G) as (F).
+    Subsec. (b)(1)(G). [Pub. L. 102–550][/us/pl/102/550], § 203(b)(6), redesignated subpar. (G) as (F).
 
-    [Pub. L. 102–550, § 203(b)(5)][/us/pl/102/550/s203/b/5], substituted “formula in subparagraph (A)” for “formulas in subparagraphs (A) and (B)”.
+    [Pub. L. 102–550][/us/pl/102/550], § 203(b)(5), substituted “formula in subparagraph (A)” for “formulas in subparagraphs (A) and (B)”.
 
-    Subsec. (b)(3). [Pub. L. 102–550, § 202(b)(1)][/us/pl/102/550/s202/b/1], inserted before period at end “, except as provided in paragraph (4)”.
+    Subsec. (b)(3). [Pub. L. 102–550][/us/pl/102/550], § 202(b)(1), inserted before period at end “, except as provided in paragraph (4)”.
 
-    Subsec. (b)(4). [Pub. L. 102–550, § 202(b)(2)][/us/pl/102/550/s202/b/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 102–550][/us/pl/102/550], § 202(b)(2), added par. (4).
 
-    1991—Subsec. (a)(1). [Pub. L. 102–229][/us/pl/102/229] and [Pub. L. 102–230, § 1(1)][/us/pl/102/230/s1/1], amended par. (1) identically, inserting before first comma “and after reserving amounts for the insular areas under paragraph (3)”.
+    1991—Subsec. (a)(1). [Pub. L. 102–229][/us/pl/102/229] and [Pub. L. 102–230][/us/pl/102/230], § 1(1), amended par. (1) identically, inserting before first comma “and after reserving amounts for the insular areas under paragraph (3)”.
 
-    Subsec. (a)(3). [Pub. L. 102–229][/us/pl/102/229] and [Pub. L. 102–230, § 1(2)][/us/pl/102/230/s1/2], which were enacted on the same day, both added new pars. (3) relating to insular areas.
+    Subsec. (a)(3). [Pub. L. 102–229][/us/pl/102/229] and [Pub. L. 102–230][/us/pl/102/230], § 1(2), which were enacted on the same day, both added new pars. (3) relating to insular areas.
 
  __Change of Name__ 
 
@@ -187,7 +187,7 @@
 
     Amendment by [Pub. L. 104–330][/us/pl/104/330] effective Oct. 1, 1997, except as otherwise expressly provided, see [section 107 of Pub. L. 104–330][/us/pl/104/330/s107], set out as an Effective Date note under [section 4101 of Title 25][/us/usc/t25/s4101], Indians.
 
-[Pub. L. 104–330, title V, § 505(b)][/us/pl/104/330/s505/b], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044], provided that: 
+[Pub. L. 104–330, title V][/us/pl/104/330/tV], § 505(b), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044], provided that: 
 
 > “The amendments under subsection (a) \[amending this section and [section 12838 of this title][/us/usc/t42/s12838]\] shall apply with respect to amounts made available for assistance under title II of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\] for fiscal year 1998 and fiscal years thereafter.”
 
@@ -203,7 +203,7 @@
 
  __Expedited Issuance of Regulation__ 
 
-[Pub. L. 102–550, title II, § 211(a)(3)][/us/pl/102/550/s211/a/3], Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757], provided that: 
+[Pub. L. 102–550, title II][/us/pl/102/550/tII], § 211(a)(3), Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757], provided that: 
 
 > “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of [section 553 of title 5][/us/usc/t5/s553], United States Code, or section 7(o) of the Department of Housing and Urban Development Act \[[42 U.S.C. 3535][/us/usc/t42/s3535](o)\].”
 
@@ -214,7 +214,7 @@
 ----------
 ----------
 
-[/us/pl/104/330/s505/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fa%2F1%2FB
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
 [/us/usc/t42/s12742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12742
 [/us/usc/t42/s12746/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12746%2F1
@@ -225,64 +225,64 @@
 [/us/usc/t42/s12750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12750
 [/us/usc/t42/s12705/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F4
 [/us/usc/t42/s12746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12746
-[/us/pl/101/625/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs217
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4105
-[/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
+[/us/pl/102/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2FtI
 [/us/stat/105/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1709
-[/us/pl/102/230/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs1
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
 [/us/stat/105/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1720
-[/us/pl/102/273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F273%2Fs1
+[/us/pl/102/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F273
 [/us/stat/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F113
-[/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
+[/us/pl/102/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389%2FtII
 [/us/stat/106/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1581
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3751
-[/us/pl/104/330/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fa%2F1
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
-[/us/pl/105/65/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs214
+[/us/pl/105/65/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtII
 [/us/stat/111/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1366
 [/us/pl/105/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65
-[/us/pl/104/330/s505/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fa%2F1%2FA
-[/us/pl/104/330/s505/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fa%2F1%2FB
-[/us/pl/102/550/s211/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fa%2F2%2FA
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/102/230/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs1%2F1
-[/us/pl/102/550/s211/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fa%2F2%2FD
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F389
-[/us/pl/102/550/s211/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fa%2F2%2FC
-[/us/pl/102/230/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs1%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
 [/us/usc/t42/s12746/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12746%2F6%2FA
-[/us/pl/102/550/s211/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fa%2F2%2FB
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/102/550/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F1
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F273
 [/us/usc/t42/s12742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12742
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
 [/us/stat/105/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F744
-[/us/pl/102/550/s203/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F6
-[/us/pl/102/550/s203/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F6
-[/us/pl/102/550/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F2
-[/us/pl/102/550/s203/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F6
-[/us/pl/102/550/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F3
-[/us/pl/102/550/s203/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F6
-[/us/pl/102/550/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F4
-[/us/pl/102/550/s203/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F6
-[/us/pl/102/550/s203/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs203%2Fb%2F5
-[/us/pl/102/550/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fb%2F1
-[/us/pl/102/550/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fb%2F2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/102/230/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs1%2F1
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/102/230/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230%2Fs1%2F2
+[/us/pl/102/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F230
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/104/330/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs505%2Fb
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
 [/us/usc/t42/s12838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12838
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
@@ -295,7 +295,7 @@
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fc
 [/us/usc/t42/s12746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12746
-[/us/pl/102/550/s211/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs211%2Fa%2F3
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3757
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789.md) | [Next](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789d)
+[Previous](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789a...3789c.md) | [Next](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789d)
 
 ## § 3789d. Prohibition of Federal control over State and local criminal justice agencies; prohibition of discrimination
 
@@ -87,25 +87,25 @@
 
             (C) In any action instituted under this section to enforce compliance with paragraph (1), the Attorney General, or a specially designated assistant for or in the name of the United States, may intervene upon timely application if he certifies that the action is of general public importance. In such action the United States shall be entitled to the same relief as if it had instituted the action.
 
-([Pub. L. 90–351, title I, § 809][/us/pl/90/351/s809], formerly § 815, as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1206][/us/stat/93/1206]; renumbered § 809 and amended [Pub. L. 98–473, title II, § 609B(f)][/us/pl/98/473/s609B/f], (h)), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093], 2095; [Pub. L. 103–322, title XXXIII, § 330001(h)(11)][/us/pl/103/322/s330001/h/11], Sept. 13, 1994, [108 Stat. 2139][/us/stat/108/2139].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 809, formerly § 815, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1206][/us/stat/93/1206]; renumbered § 809 and amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609B(f), (h)), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093], 2095; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330001(h)(11), Sept. 13, 1994, [108 Stat. 2139][/us/stat/108/2139].)
 
  __References in Text__ 
 
-    [Section 3785 of this title][/us/usc/t42/s3785], referred to in subsec. (c)(2)(H), was repealed by [Pub. L. 109–162, title XI, § 1155(3)][/us/pl/109/162/s1155/3], Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114].
+    [Section 3785 of this title][/us/usc/t42/s3785], referred to in subsec. (c)(2)(H), was repealed by [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1155(3), Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114].
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in former [section 3766 of this title][/us/usc/t42/s3766] prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
-    A prior [section 809 of Pub. L. 90–351][/us/pl/90/351/s809], title I, as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1204][/us/stat/93/1204], amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, prior to repeal by [section 609B(e) of Pub. L. 98–473][/us/pl/98/473/s609B/e].
+    A prior [section 809 of Pub. L. 90–351][/us/pl/90/351/s809], title I, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1204][/us/stat/93/1204], amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, prior to repeal by [section 609B(e) of Pub. L. 98–473][/us/pl/98/473/s609B/e].
 
  __Amendments__ 
 
     1994—Subsec. (c)(2)(H). [Pub. L. 103–322][/us/pl/103/322] made technical amendment to reference to [section 3785 of this title][/us/usc/t42/s3785] to correct reference to corresponding section of original act.
 
-    1984—Subsec. (a). [Pub. L. 98–473, § 609B(h)(2)][/us/pl/98/473/s609B/h/2], struck out “contained” after “Nothing”.
+    1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473], § 609B(h)(2), struck out “contained” after “Nothing”.
 
-    Subsec. (c). [Pub. L. 98–473, § 609B(h)(3)][/us/pl/98/473/s609B/h/3], substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
+    Subsec. (c). [Pub. L. 98–473][/us/pl/98/473], § 609B(h)(3), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -113,34 +113,34 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789.md) | [Next](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789d)
+[Previous](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789a...3789c.md) | [Next](./../../../../..//us/usc/t42/ch46/schVIII/m__us_usc_t42_s3789e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3789d)
 
 ----------
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/90/351/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs809
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1206
-[/us/pl/98/473/s609B/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Ff
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2093
-[/us/pl/103/322/s330001/h/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330001%2Fh%2F11
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2139
 [/us/usc/t42/s3785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3785
-[/us/pl/109/162/s1155/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1155%2F3
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3114
 [/us/usc/t42/s3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3766
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/pl/90/351/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs809
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1204
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/98/473/s609B/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fe
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t42/s3785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3785
-[/us/pl/98/473/s609B/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fh%2F2
-[/us/pl/98/473/s609B/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fh%2F3
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s609B/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fh
 [/us/pl/98/473/s609AA/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609AA%2Fa
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711

@@ -27,7 +27,7 @@
 
         Regulations under subsection (a) of this section shall include standards applicable to facilities and vehicles covered by this part, other than facilities, stations, rail passenger cars, and vehicles covered by part B of this subchapter. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with [section 12204(a) of this title][/us/usc/t42/s12204/a].
 
-([Pub. L. 101–336, title II, § 204][/us/pl/101/336/s204], July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
+([Pub. L. 101–336, title II][/us/pl/101/336/tII], § 204, July 26, 1990, [104 Stat. 337][/us/stat/104/337].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12204%2Fa
-[/us/pl/101/336/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs204
+[/us/pl/101/336/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtII
 [/us/stat/104/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F337
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

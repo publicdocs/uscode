@@ -31,25 +31,25 @@
 
         In making grants and entering into contracts for any fiscal year under [section 241 of this title][/us/usc/t42/s241] for projects described in [section 300b–1 of this title][/us/usc/t42/s300b–1] the Secretary shall give special consideration to applications from entities that received grants from, or entered into contracts with, the Secretary for the preceding fiscal year for the conduct of comprehensive sickle cell centers or sickle cell screening and education clinics.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1104, as added [Pub. L. 94–278, title IV, § 403(a)][/us/pl/94/278/s403/a], Apr. 22, 1976, [90 Stat. 408][/us/stat/90/408]; amended [Pub. L. 95–626, title II, § 205(c)][/us/pl/95/626/s205/c], Nov. 10, 1978, [92 Stat. 3584][/us/stat/92/3584]; [Pub. L. 97–35, title XXI, § 2193(b)(2)][/us/pl/97/35/s2193/b/2], (3), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1104, as added [Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(a), Apr. 22, 1976, [90 Stat. 408][/us/stat/90/408]; amended [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 205(c), Nov. 10, 1978, [92 Stat. 3584][/us/stat/92/3584]; [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(b)(2), (3), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].)
 
  __Prior Provisions__ 
 
-    A prior section 300b–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1104, as added May 16, 1972, [Pub. L. 92–294, § 3(c)][/us/pl/92/294/s3/c], [86 Stat. 138][/us/stat/86/138]; amended Aug. 29, 1972, [Pub. L. 92–414, § 4(3)][/us/pl/92/414/s4/3], [86 Stat. 652][/us/stat/86/652], authorized grants to be made upon application to Secretary and required supervision of programs by applicant, confidentiality of test results, medical records and other information obtained from treated person, community representation in programs, assurances by applicant that priority will be given to persons of child bearing years, and demonstration by applicant of proper fiscal control and accounting procedures, prior to repeal by [Pub. L. 94–278, title IV, § 403(a)][/us/pl/94/278/s403/a], Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407].
+    A prior section 300b–3, [act July 1, 1944, ch. 373, title XI][/us/act/1944-07-01/ch373/tXI], § 1104, as added May 16, 1972, [Pub. L. 92–294][/us/pl/92/294], § 3(c), [86 Stat. 138][/us/stat/86/138]; amended Aug. 29, 1972, [Pub. L. 92–414][/us/pl/92/414], § 4(3), [86 Stat. 652][/us/stat/86/652], authorized grants to be made upon application to Secretary and required supervision of programs by applicant, confidentiality of test results, medical records and other information obtained from treated person, community representation in programs, assurances by applicant that priority will be given to persons of child bearing years, and demonstration by applicant of proper fiscal control and accounting procedures, prior to repeal by [Pub. L. 94–278, title IV][/us/pl/94/278/tIV], § 403(a), Apr. 22, 1976, [90 Stat. 407][/us/stat/90/407].
 
  __Amendments__ 
 
-    1981—Subsec. (a)(4), (5). [Pub. L. 97–35, § 2193(b)(2)][/us/pl/97/35/s2193/b/2], redesignated par. (5) as (4). Former par. (4), which related to testing and counseling requirements, was struck out.
+    1981—Subsec. (a)(4), (5). [Pub. L. 97–35][/us/pl/97/35], § 2193(b)(2), redesignated par. (5) as (4). Former par. (4), which related to testing and counseling requirements, was struck out.
 
-    Subsec. (b). [Pub. L. 97–35, § 2193(b)(3)][/us/pl/97/35/s2193/b/3], struck out subsec. (b) which related to grants and contracts under [section 300b of this title][/us/usc/t42/s300b]. Former subsec. (c) was redesignated (b) and, as so redesignated, struck out reference to [section 300b of this title][/us/usc/t42/s300b].
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2193(b)(3), struck out subsec. (b) which related to grants and contracts under [section 300b of this title][/us/usc/t42/s300b]. Former subsec. (c) was redesignated (b) and, as so redesignated, struck out reference to [section 300b of this title][/us/usc/t42/s300b].
 
-    Subsec. (c). [Pub. L. 97–35, § 2193(b)(3)][/us/pl/97/35/s2193/b/3], redesignated subsec. (c) as (b).
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 2193(b)(3), redesignated subsec. (c) as (b).
 
-    Subsec. (d). [Pub. L. 97–35, § 2193(b)(3)][/us/pl/97/35/s2193/b/3], struck out subsec. (d) which related to procedures applicable to grants, etc., under [section 300b of this title][/us/usc/t42/s300b].
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 2193(b)(3), struck out subsec. (d) which related to procedures applicable to grants, etc., under [section 300b of this title][/us/usc/t42/s300b].
 
-    1978—Subsec. (a). [Pub. L. 95–626, § 205(c)(1)][/us/pl/95/626/s205/c/1], inserted requirement that application contain assurances for an evaluation whether performed by applicant or by Secretary and that grant or contract be made available on less than a statewide or regional basis.
+    1978—Subsec. (a). [Pub. L. 95–626][/us/pl/95/626], § 205(c)(1), inserted requirement that application contain assurances for an evaluation whether performed by applicant or by Secretary and that grant or contract be made available on less than a statewide or regional basis.
 
-    Subsec. (d). [Pub. L. 95–626, § 205(c)(2)][/us/pl/95/626/s205/c/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–626][/us/pl/95/626], § 205(c)(2), added subsec. (d).
 
  __Effective Date of 1981 Amendment, Savings, and Transitional Provisions__ 
 
@@ -66,28 +66,28 @@
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
 [/us/usc/t42/s300b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/278/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fa
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F408
-[/us/pl/95/626/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs205%2Fc
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3584
-[/us/pl/97/35/s2193/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F2
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/92/294/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294%2Fs3%2Fc
+[/us/act/1944-07-01/ch373/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtXI
+[/us/pl/92/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F294
 [/us/stat/86/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F138
-[/us/pl/92/414/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F414%2Fs4%2F3
+[/us/pl/92/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F414
 [/us/stat/86/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F652
-[/us/pl/94/278/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs403%2Fa
+[/us/pl/94/278/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtIV
 [/us/stat/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F407
-[/us/pl/97/35/s2193/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F2
-[/us/pl/97/35/s2193/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F3
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s300b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b
 [/us/usc/t42/s300b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b
-[/us/pl/97/35/s2193/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F3
-[/us/pl/97/35/s2193/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F3
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s300b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300b
-[/us/pl/95/626/s205/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs205%2Fc%2F1
-[/us/pl/95/626/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs205%2Fc%2F2
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701

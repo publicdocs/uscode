@@ -91,7 +91,7 @@
 
             (iv) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
 
-([Pub. L. 101–336, title I, § 101][/us/pl/101/336/s101], July 26, 1990, [104 Stat. 330][/us/stat/104/330]; [Pub. L. 102–166, title I, § 109(a)][/us/pl/102/166/s109/a], Nov. 21, 1991, [105 Stat. 1077][/us/stat/105/1077]; [Pub. L. 110–325, § 5(c)(1)][/us/pl/110/325/s5/c/1], Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
+([Pub. L. 101–336, title I][/us/pl/101/336/tI], § 101, July 26, 1990, [104 Stat. 330][/us/stat/104/330]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], § 109(a), Nov. 21, 1991, [105 Stat. 1077][/us/stat/105/1077]; [Pub. L. 110–325][/us/pl/110/325], § 5(c)(1), Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
 
  __References in Text__ 
 
@@ -121,7 +121,7 @@ For constitutionality of [section 101 of Pub. L. 101–336][/us/pl/101/336/s101]
 
  __Effective Date__ 
 
-[Pub. L. 101–336, title I, § 108][/us/pl/101/336/s108], July 26, 1990, [104 Stat. 337][/us/stat/104/337], provided that: 
+[Pub. L. 101–336, title I][/us/pl/101/336/tI], § 108, July 26, 1990, [104 Stat. 337][/us/stat/104/337], provided that: 
 
 > “This title \[enacting this subchapter\] shall become effective 24 months after the date of enactment \[July 26, 1990\].”
 
@@ -137,11 +137,11 @@ For constitutionality of [section 101 of Pub. L. 101–336][/us/pl/101/336/s101]
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
-[/us/pl/101/336/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs101
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F330
-[/us/pl/102/166/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs109%2Fa
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1077
-[/us/pl/110/325/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs5%2Fc%2F1
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3557
 [/us/pl/101/336/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs108
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
@@ -159,7 +159,7 @@ For constitutionality of [section 101 of Pub. L. 101–336][/us/pl/101/336/s101]
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/102/166/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs109%2Fc
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
-[/us/pl/101/336/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs108
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F337
 
 

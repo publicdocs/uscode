@@ -31,7 +31,7 @@
 
         (4) a roadmap to guide further research and development in the area covered by the program.
 
-([Pub. L. 109–58, title IX, § 978][/us/pl/109/58/s978], Aug. 8, 2005, [119 Stat. 904][/us/stat/119/904].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 978, Aug. 8, 2005, [119 Stat. 904][/us/stat/119/904].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs978
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F904
 
 

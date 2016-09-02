@@ -59,7 +59,7 @@
 
             The term “Physician Compare” means the Physician Compare Internet website of the Centers for Medicare & Medicaid Services (or a successor website).
 
-([Pub. L. 114–10, title I, § 104][/us/pl/114/10/s104], Apr. 16, 2015, [129 Stat. 132][/us/stat/129/132].)
+([Pub. L. 114–10, title I][/us/pl/114/10/tI], § 104, Apr. 16, 2015, [129 Stat. 132][/us/stat/129/132].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1395w–5/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%935%2Fi
-[/us/pl/114/10/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs104
+[/us/pl/114/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtI
 [/us/stat/129/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F132
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

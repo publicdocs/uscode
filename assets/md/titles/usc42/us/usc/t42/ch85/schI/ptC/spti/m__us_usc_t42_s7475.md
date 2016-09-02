@@ -261,19 +261,19 @@
 
             Any model or models designated under such regulations may be adjusted upon a determination, after notice and opportunity for public hearing, by the Administrator that such adjustment is necessary to take into account unique terrain or meteorological characteristics of an area potentially affected by emissions from a source applying for a permit required under this part.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 165, as added [Pub. L. 95–95, title I, § 127(a)][/us/pl/95/95/s127/a], Aug. 7, 1977, [91 Stat. 735][/us/stat/91/735]; amended [Pub. L. 95–190, § 14(a)(44)][/us/pl/95/190/s14/a/44]–(51), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 165, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 127(a), Aug. 7, 1977, [91 Stat. 735][/us/stat/91/735]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(44)–(51), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402].)
 
  __Amendments__ 
 
-    1977—Subsec. (a)(1). [Pub. L. 95–190, § 14(a)(44)][/us/pl/95/190/s14/a/44], substituted “part;” for “part:”.
+    1977—Subsec. (a)(1). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(44), substituted “part;” for “part:”.
 
-    Subsec. (a)(3). [Pub. L. 95–190, § 14(a)(45)][/us/pl/95/190/s14/a/45], inserted provision making applicable requirement of [section 7410(j) of this title][/us/usc/t42/s7410/j].
+    Subsec. (a)(3). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(45), inserted provision making applicable requirement of [section 7410(j) of this title][/us/usc/t42/s7410/j].
 
-    Subsec. (b). [Pub. L. 95–190, § 14(a)(46)][/us/pl/95/190/s14/a/46], inserted “cause or” before “contribute” and struck out “actual” before “allowable emissions”.
+    Subsec. (b). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(46), inserted “cause or” before “contribute” and struck out “actual” before “allowable emissions”.
 
-    Subsec. (d)(2)(C). [Pub. L. 95–190, § 14(a)(47)][/us/pl/95/190/s14/a/47]–(49), in cl. (ii) substituted “contribute” for “contrbute”, in cl. (iii) substituted “quality-related” for “quality related” and “concentrations which” for “concentrations, which”, and in cl. (iv) substituted “such facility” for “such sources” and “will not cause or contribute to concentrations of such pollutant which exceed” for “together with all other sources, will not exceed”.
+    Subsec. (d)(2)(C). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(47)–(49), in cl. (ii) substituted “contribute” for “contrbute”, in cl. (iii) substituted “quality-related” for “quality related” and “concentrations which” for “concentrations, which”, and in cl. (iv) substituted “such facility” for “such sources” and “will not cause or contribute to concentrations of such pollutant which exceed” for “together with all other sources, will not exceed”.
 
-    Subsec. (d)(2)(D). [Pub. L. 95–190, § 14(a)(50)][/us/pl/95/190/s14/a/50], (51), in cl. (iii) substituted provisions relating to determinations of amounts of emissions of sulfur oxides from facilities, for provisions relating to determinations of amounts of emissions of sulfur oxides from sources operating under permits issued pursuant to this subpar., together with all other sources, and added cl. (iv).
+    Subsec. (d)(2)(D). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(50), (51), in cl. (iii) substituted provisions relating to determinations of amounts of emissions of sulfur oxides from facilities, for provisions relating to determinations of amounts of emissions of sulfur oxides from sources operating under permits issued pursuant to this subpar., together with all other sources, and added cl. (iv).
 
 ----------
 
@@ -286,15 +286,15 @@
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs127%2Fa
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F735
-[/us/pl/95/190/s14/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F44
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1402
-[/us/pl/95/190/s14/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F44
-[/us/pl/95/190/s14/a/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F45
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/usc/t42/s7410/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fj
-[/us/pl/95/190/s14/a/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F46
-[/us/pl/95/190/s14/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F47
-[/us/pl/95/190/s14/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F50
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

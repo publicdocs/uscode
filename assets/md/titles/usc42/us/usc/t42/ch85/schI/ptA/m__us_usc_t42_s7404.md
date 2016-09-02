@@ -59,11 +59,11 @@
 
         The Administrator shall conduct a research program to identify, characterize, and predict air emissions related to the production, distribution, storage, and use of clean alternative fuels to determine the risks and benefits to human health and the environment relative to those from using conventional gasoline and diesel fuels. The Administrator shall consult with other Federal agencies to ensure coordination and to avoid duplication of activities authorized under this subsection.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 104, as added [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 487][/us/stat/81/487]; amended [Pub. L. 91–137][/us/pl/91/137], Dec. 5, 1969, [83 Stat. 283][/us/stat/83/283]; [Pub. L. 91–604][/us/pl/91/604], §§ 2(b), (c), 13(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1676][/us/stat/84/1676], 1677, 1709, 1713; [Pub. L. 93–15, § 1(a)][/us/pl/93/15/s1/a], Apr. 9, 1973, [87 Stat. 11][/us/stat/87/11]; [Pub. L. 93–319, § 13(a)][/us/pl/93/319/s13/a], June 22, 1974, [88 Stat. 265][/us/stat/88/265]; [Pub. L. 101–549, title IX, § 901(d)][/us/pl/101/549/s901/d], Nov. 15, 1990, [104 Stat. 2706][/us/stat/104/2706].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 104, as added [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 487][/us/stat/81/487]; amended [Pub. L. 91–137][/us/pl/91/137], Dec. 5, 1969, [83 Stat. 283][/us/stat/83/283]; [Pub. L. 91–604][/us/pl/91/604], §§ 2(b), (c), 13(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1676][/us/stat/84/1676], 1677, 1709, 1713; [Pub. L. 93–15][/us/pl/93/15], § 1(a), Apr. 9, 1973, [87 Stat. 11][/us/stat/87/11]; [Pub. L. 93–319][/us/pl/93/319], § 13(a), June 22, 1974, [88 Stat. 265][/us/stat/88/265]; [Pub. L. 101–549, title IX][/us/pl/101/549/tIX], § 901(d), Nov. 15, 1990, [104 Stat. 2706][/us/stat/104/2706].)
 
  __Codification__ 
 
-    In subsec. (a)(2)(D), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(2)(D), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was formerly classified to [section 1857b–1 of this title][/us/usc/t42/s1857b–1].
 
@@ -73,35 +73,35 @@
 
  __Amendments__ 
 
-    1990—Subsecs. (a)(1), (b)(1). [Pub. L. 101–549, § 901(d)(1)][/us/pl/101/549/s901/d/1], substituted “cost-effective” for “low-cost”.
+    1990—Subsecs. (a)(1), (b)(1). [Pub. L. 101–549][/us/pl/101/549], § 901(d)(1), substituted “cost-effective” for “low-cost”.
 
-    Subsec. (c). [Pub. L. 101–549, § 901(d)(2)][/us/pl/101/549/s901/d/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section there are authorized to be appropriated $75,000,000 for the fiscal year ending June 30, 1971, $125,000,000 for the fiscal year ending June 30, 1972, $150,000,000 for the fiscal year ending June 30, 1973, and $150,000,000 for the fiscal year ending June 30, 1974, and $150,000,000 for the fiscal year ending June 30, 1975. Amounts appropriated pursuant to this subsection shall remain available until expended.”
+    Subsec. (c). [Pub. L. 101–549][/us/pl/101/549], § 901(d)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section there are authorized to be appropriated $75,000,000 for the fiscal year ending June 30, 1971, $125,000,000 for the fiscal year ending June 30, 1972, $150,000,000 for the fiscal year ending June 30, 1973, and $150,000,000 for the fiscal year ending June 30, 1974, and $150,000,000 for the fiscal year ending June 30, 1975. Amounts appropriated pursuant to this subsection shall remain available until expended.”
 
     1974—Subsec. (c). [Pub. L. 93–319][/us/pl/93/319] authorized appropriation of $150,000,000 for fiscal year ending June 30, 1975.
 
     1973—Subsec. (c). [Pub. L. 93–15][/us/pl/93/15] authorized appropriation of $150,000,000 for fiscal year ending June 30, 1974.
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary”.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary”.
 
-    Subsec. (a)(1). [Pub. L. 91–604, § 2(b)][/us/pl/91/604/s2/b], inserted provisions authorizing research programs directed toward development of techniques for improving the efficiency of fuels combustion so as to decrease atmospheric emissions, and producing synthetic or new fuels which result in decreased atmospheric emissions.
+    Subsec. (a)(1). [Pub. L. 91–604][/us/pl/91/604], § 2(b), inserted provisions authorizing research programs directed toward development of techniques for improving the efficiency of fuels combustion so as to decrease atmospheric emissions, and producing synthetic or new fuels which result in decreased atmospheric emissions.
 
-    Subsec. (a)(2). [Pub. L. 91–604, § 2(c)][/us/pl/91/604/s2/c], added cls. (B) and (C) and redesignated former cl. (B) as (D).
+    Subsec. (a)(2). [Pub. L. 91–604][/us/pl/91/604], § 2(c), added cls. (B) and (C) and redesignated former cl. (B) as (D).
 
-    Subsec. (b). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary”.
+    Subsec. (b). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary”.
 
-    Subsec. (c). [Pub. L. 91–604, § 13(a)][/us/pl/91/604/s13/a], substituted provisions authorizing appropriations for fiscal years ending June 30, 1971, 1972, and 1973, for provisions authorizing appropriations for fiscal years ending June 30, 1968 and 1969.
+    Subsec. (c). [Pub. L. 91–604][/us/pl/91/604], § 13(a), substituted provisions authorizing appropriations for fiscal years ending June 30, 1971, 1972, and 1973, for provisions authorizing appropriations for fiscal years ending June 30, 1968 and 1969.
 
     1969—Subsec. (c). [Pub. L. 91–137][/us/pl/91/137] authorized appropriation of $45,000,000 for fiscal year ending June 30, 1970.
 
  __Hydrogen Fuel Cell Vehicle Study and Test Program__ 
 
-[Pub. L. 101–549, title VIII, § 807][/us/pl/101/549/s807], Nov. 15, 1990, [104 Stat. 2689][/us/stat/104/2689], provided that: 
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 807, Nov. 15, 1990, [104 Stat. 2689][/us/stat/104/2689], provided that: 
 
 > “The Administrator of the Environmental Protection Agency, in conjunction with the National Aeronautics and Space Administration and the Department of Energy, shall conduct a study and test program on the development of a hydrogen fuel cell electric vehicle. The study and test program shall determine how best to transfer existing NASA hydrogen fuel cell technology into the form of a mass-producible, cost effective hydrogen fuel cell vehicle. Such study and test program shall include at a minimum a feasibility-design study, the construction of a prototype, and a demonstration. This study and test program should be completed and a report submitted to Congress within 3 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\]. This study and test program should be performed in the university or universities which are best exhibiting the facilities and expertise to develop such a fuel cell vehicle.”
 
  __Combustion of Contaminated Used Oil in Ships__ 
 
-[Pub. L. 101–549, title VIII, § 813][/us/pl/101/549/s813], Nov. 15, 1990, [104 Stat. 2693][/us/stat/104/2693], provided that: 
+[Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 813, Nov. 15, 1990, [104 Stat. 2693][/us/stat/104/2693], provided that: 
 
 > “Within 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator of the Environmental Protection Agency shall complete a study and submit a report to Congress evaluating the health and environmental impacts of the combustion of contaminated used oil in ships, the reasons for using such oil for such purposes, the alternatives to such use, the costs of such alternatives, and other relevant factors and impacts. In preparing such study, the Administrator shall obtain the view and comments of all interested persons and shall consult with the Secretary of Transportation and the Secretary of the department in which the Coast Guard is operating.”
 
@@ -119,41 +119,41 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t10/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2353
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F487
 [/us/pl/91/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F137
 [/us/stat/83/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F283
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1676
-[/us/pl/93/15/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F15%2Fs1%2Fa
+[/us/pl/93/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F15
 [/us/stat/87/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F11
-[/us/pl/93/319/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs13%2Fa
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F265
-[/us/pl/101/549/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fd
+[/us/pl/101/549/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIX
 [/us/stat/104/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2706
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s1857b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857b%E2%80%931
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/usc/t42/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7405
-[/us/pl/101/549/s901/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fd%2F1
-[/us/pl/101/549/s901/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs901%2Fd%2F2
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/93/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F15
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs2%2Fb
-[/us/pl/91/604/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs2%2Fc
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs13%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/91/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F137
-[/us/pl/101/549/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs807
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2689
-[/us/pl/101/549/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs813
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2693
 [/us/pl/91/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F316
 [/us/stat/84/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F416

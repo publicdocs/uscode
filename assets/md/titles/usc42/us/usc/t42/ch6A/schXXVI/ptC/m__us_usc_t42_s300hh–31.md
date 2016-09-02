@@ -37,7 +37,7 @@
 
         (3) not less than $32,000,000 shall be made available each such fiscal year for activities under subsection (a)(2).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2821, as added [Pub. L. 111–148, title IV, § 4304][/us/pl/111/148/s4304], Mar. 23, 2010, [124 Stat. 584][/us/stat/124/584].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2821, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4304, Mar. 23, 2010, [124 Stat. 584][/us/stat/124/584].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4304
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F584
 
 

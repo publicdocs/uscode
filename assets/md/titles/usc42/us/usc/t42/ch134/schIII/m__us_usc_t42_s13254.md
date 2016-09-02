@@ -27,7 +27,7 @@
 
         If the Secretary determines that the achievement of goals described in [section 13252(b)(2) of this title][/us/usc/t42/s13252/b/2] would result in a significant and correctable failure to meet the program goals described in [section 13252(a) of this title][/us/usc/t42/s13252/a], the Secretary shall issue such additional regulations as are necessary to remedy such failure. The Secretary shall have no authority under this Act to mandate the production of alternative fueled vehicles or to specify, as applicable, the models, lines, or types of, or marketing or pricing practices, policies, or strategies for, vehicles subject to this Act. Nothing in this Act shall be construed to give the Secretary authority to mandate marketing or pricing practices, policies, or strategies for alternative fuels or to mandate the production or delivery of such fuels.
 
-([Pub. L. 102–486, title V, § 504][/us/pl/102/486/s504], Oct. 24, 1992, [106 Stat. 2890][/us/stat/106/2890].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 504, Oct. 24, 1992, [106 Stat. 2890][/us/stat/106/2890].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t42/s13252/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13252%2Fb%2F2
 [/us/usc/t42/s13252/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13252%2Fb%2F2
 [/us/usc/t42/s13252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13252%2Fa
-[/us/pl/102/486/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs504
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2890
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776

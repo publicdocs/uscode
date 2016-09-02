@@ -49,7 +49,7 @@
 
         Such description shall also include a detailed justification of any such changes, a detailed description of the progress made toward achieving the goals of this chapter, a statement on the status of interagency cooperation in meeting such goals, and any legislative or other recommendations which the Secretary may have to help attain such goals.
 
-([Pub. L. 96–345, § 4][/us/pl/96/345/s4], Sept. 8, 1980, [94 Stat. 1141][/us/stat/94/1141].)
+([Pub. L. 96–345][/us/pl/96/345], § 4, Sept. 8, 1980, [94 Stat. 1141][/us/stat/94/1141].)
 
  __Change of Name__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/96/345/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs4
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1141
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

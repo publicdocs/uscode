@@ -17,7 +17,7 @@
 
     Nothing in this chapter constitutes an infringement on the existing authority of counties and cities to plan or control land use, and nothing in this chapter provides or transfers authority over such land use.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 131, as added [Pub. L. 101–549, title VIII, § 805][/us/pl/101/549/s805], Nov. 15, 1990, [104 Stat. 2689][/us/stat/104/2689].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 131, as added [Pub. L. 101–549, title VIII][/us/pl/101/549/tVIII], § 805, Nov. 15, 1990, [104 Stat. 2689][/us/stat/104/2689].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs805
+[/us/pl/101/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVIII
 [/us/stat/104/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2689
 
 

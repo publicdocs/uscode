@@ -39,7 +39,7 @@
 
         In the event that the privatization does not occur, the Corporation will provide for the dissolution of the private corporation within 1 year of the private corporation’s incorporation unless the Secretary of the Treasury or his delegate, upon the Corporation’s request, agrees to delay any such dissolution for an additional year.
 
-([Pub. L. 104–134, title III, § 3105][/us/pl/104/134/s3105], Apr. 26, 1996, [110 Stat. 1321–337][/us/stat/110/1321-337].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3105, Apr. 26, 1996, [110 Stat. 1321–337][/us/stat/110/1321-337].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t18/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs205
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
-[/us/pl/104/134/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3105
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-337
 
 

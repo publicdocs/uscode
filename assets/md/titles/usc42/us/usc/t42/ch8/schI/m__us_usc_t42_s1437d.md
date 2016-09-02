@@ -71,7 +71,7 @@
 
         Every contract for contributions with respect to a low-income housing project shall provide that no contributions by the Secretary shall be made available for such project unless such project (exclusive of any portion thereof which is not assisted by contributions under this chapter) is exempt from all real and personal property taxes levied or imposed by the State, city, county, or other political subdivision; and such contract shall require the public housing agency to make payments in lieu of taxes equal to 10 per centum of the sum of the shelter rents charged in such project, or such lesser amount as (i) is prescribed by State law, or (ii) is agreed to by the local governing body in its agreement for local cooperation with the public housing agency required under [section 1437c(e)(2) of this title][/us/usc/t42/s1437c/e/2], or (iii) is due to failure of a local public body or bodies other than the public housing agency to perform any obligation under such agreement. If any such project is not exempt from all real and personal property taxes levied or imposed by the State, city, county, or other political subdivision, such contract shall provide, in lieu of the requirement for tax exemption and payments in lieu of taxes, that no contributions by the Secretary shall be made available for such project unless and until the State, city, county, or other political subdivision in which such project is situated shall contribute, in the form of cash or tax remission, the amount by which the taxes paid with respect to the project exceed 10 per centum of the shelter rents charged in such project.
 
-    (e) __Repealed.__  __[__  __Pub. L. 105–276, title V, § 529(2)__  __][/us/pl/105/276/s529/2]__  __,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2569__  __][/us/stat/112/2569]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 529(2),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2569__  __][/us/stat/112/2569]__ 
 
     (f) __Housing quality requirements__ 
 
@@ -409,7 +409,7 @@
 
         (2) youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available.
 
-    (p) __Repealed.__  __[__  __Pub. L. 105–276, title V, § 519(b)__  __][/us/pl/105/276/s519/b]__  __,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2561__  __][/us/stat/112/2561]__ 
+    (p) __Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 519(b),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2561__  __][/us/stat/112/2561]__ 
 
     (q) __Availability of records__ 
 
@@ -595,7 +595,7 @@
 
             This subsection shall take effect on October 21, 1998, and without the necessity of guidance from, or any regulation issued by, the Secretary.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 6, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 659][/us/stat/88/659]; amended [Pub. L. 96–153, title II, § 206(a)][/us/pl/96/153/s206/a], Dec. 21, 1979, [93 Stat. 1108][/us/stat/93/1108]; [Pub. L. 96–399, title II][/us/pl/96/399], §§ 201(c), (e), 202(c), Oct. 8, 1980, [94 Stat. 1625][/us/stat/94/1625], 1629; [Pub. L. 97–35, title III, § 322(c)][/us/pl/97/35/s322/c], (d), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 201(c), 203(a), 204, 205, 214(b)\], Nov. 30, 1983, [97 Stat. 1177–1179][/us/stat/97/1177-1179], 1185; [Pub. L. 98–479, title I, § 102(b)(4)][/us/pl/98/479/s102/b/4], (5), title II, § 204(b)(1), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2233; [Pub. L. 99–160, title I, § 101][/us/pl/99/160/s101], Nov. 25, 1985, [99 Stat. 910][/us/stat/99/910]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 112(b)(2), 116, 170(d), Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824], 1826, 1867; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1001(b), 1014(a)(1), Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263], 3269; [Pub. L. 100–690, title V, § 5101][/us/pl/100/690/s5101], Nov. 18, 1988, [102 Stat. 4300][/us/stat/102/4300]; [Pub. L. 101–144, title II][/us/pl/101/144], Nov. 9, 1989, [103 Stat. 846][/us/stat/103/846]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 501, 502(a), (c)(1), 503(a), (b), 504–506, 572, Nov. 28, 1990, [104 Stat. 4180][/us/stat/104/4180], 4181, 4183–4185, 4236; [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756], 757; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 112, 113, title VI, §§ 622(b), 625(a)(2), 682(a), Oct. 28, 1992, [106 Stat. 3689][/us/stat/106/3689], 3817, 3820, 3830; [Pub. L. 103–233, title I, § 101(c)(1)][/us/pl/103/233/s101/c/1], title III, § 303, Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357], 370; [Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–99, title IV, § 402(d)(1)][/us/pl/104/99/s402/d/1], (6)(A)(i), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42; [Pub. L. 104–120, § 9(a)][/us/pl/104/120/s9/a]–(c), Mar. 28, 1996, [110 Stat. 836][/us/stat/110/836], 837; [Pub. L. 104–193, title IX, § 903(a)(1)][/us/pl/104/193/s903/a/1], Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–330, title V, § 501(b)(3)][/us/pl/104/330/s501/b/3], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V][/us/pl/105/276], §§ 511(d), 512(b), 514(a)(1), (2)(A), 519(b), 520(b), 521, 525, 529, 530, 564, 565(a), 575, 576(d)(1), Oct. 21, 1998, [112 Stat. 2539][/us/stat/112/2539], 2543, 2547, 2561, 2563, 2568, 2569, 2627, 2628, 2634, 2640; [Pub. L. 109–162, title VI, § 607][/us/pl/109/162/s607], Jan. 5, 2006, [119 Stat. 3048][/us/stat/119/3048]; [Pub. L. 109–271, § 5(f)][/us/pl/109/271/s5/f], Aug. 12, 2006, [120 Stat. 761][/us/stat/120/761]; [Pub. L. 113–4, title VI, § 601(b)(1)][/us/pl/113/4/s601/b/1], Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 6, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 659][/us/stat/88/659]; amended [Pub. L. 96–153, title II][/us/pl/96/153/tII], § 206(a), Dec. 21, 1979, [93 Stat. 1108][/us/stat/93/1108]; [Pub. L. 96–399, title II][/us/pl/96/399/tII], §§ 201(c), (e), 202(c), Oct. 8, 1980, [94 Stat. 1625][/us/stat/94/1625], 1629; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 322(c), (d), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title II, §§ 201(c), 203(a), 204, 205, 214(b)\], Nov. 30, 1983, [97 Stat. 1177–1179][/us/stat/97/1177-1179], 1185; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 102(b)(4), (5), title II, § 204(b)(1), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2233; [Pub. L. 99–160, title I][/us/pl/99/160/tI], § 101, Nov. 25, 1985, [99 Stat. 910][/us/stat/99/910]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], §§ 112(b)(2), 116, 170(d), Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824], 1826, 1867; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], §§ 1001(b), 1014(a)(1), Nov. 7, 1988, [102 Stat. 3263][/us/stat/102/3263], 3269; [Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5101, Nov. 18, 1988, [102 Stat. 4300][/us/stat/102/4300]; [Pub. L. 101–144, title II][/us/pl/101/144/tII], Nov. 9, 1989, [103 Stat. 846][/us/stat/103/846]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], §§ 501, 502(a), (c)(1), 503(a), (b), 504–506, 572, Nov. 28, 1990, [104 Stat. 4180][/us/stat/104/4180], 4181, 4183–4185, 4236; [Pub. L. 102–139, title II][/us/pl/102/139/tII], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756], 757; [Pub. L. 102–550, title I][/us/pl/102/550/tI], §§ 112, 113, title VI, §§ 622(b), 625(a)(2), 682(a), Oct. 28, 1992, [106 Stat. 3689][/us/stat/106/3689], 3817, 3820, 3830; [Pub. L. 103–233, title I][/us/pl/103/233/tI], § 101(c)(1), title III, § 303, Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357], 370; [Pub. L. 103–327, title II][/us/pl/103/327/tII], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(1), (6)(A)(i), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42; [Pub. L. 104–120][/us/pl/104/120], § 9(a)–(c), Mar. 28, 1996, [110 Stat. 836][/us/stat/110/836], 837; [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 903(a)(1), Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(3), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], §§ 511(d), 512(b), 514(a)(1), (2)(A), 519(b), 520(b), 521, 525, 529, 530, 564, 565(a), 575, 576(d)(1), Oct. 21, 1998, [112 Stat. 2539][/us/stat/112/2539], 2543, 2547, 2561, 2563, 2568, 2569, 2627, 2628, 2634, 2640; [Pub. L. 109–162, title VI][/us/pl/109/162/tVI], § 607, Jan. 5, 2006, [119 Stat. 3048][/us/stat/119/3048]; [Pub. L. 109–271][/us/pl/109/271], § 5(f), Aug. 12, 2006, [120 Stat. 761][/us/stat/120/761]; [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 601(b)(1), Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107].)
 
  __References in Text__ 
 
@@ -605,9 +605,9 @@
 
     The Housing and Community Development Act of 1992, referred to in subsec. (c)(4)(F), is [Pub. L. 102–550][/us/pl/102/550], Oct. 28, 1992, [106 Stat. 3672][/us/stat/106/3672]. Subtitle C of title VI of the Act is classified generally to subchapter I (§ 13601 et seq.) of chapter 135 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 5301 of this title][/us/usc/t42/s5301] and Tables.
 
-    Section 1437l of this title, referred to in subsec. (j)(1)(I)(3), (2)(B)(ii), was repealed by [Pub. L. 105–276, title V, § 522(a)][/us/pl/105/276/s522/a], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
+    Section 1437l of this title, referred to in subsec. (j)(1)(I)(3), (2)(B)(ii), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(a), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
 
-    Paragraph (5), referred to in the concluding provisions of subsec. (l), was redesignated as par. (6) by [Pub. L. 105–276, title V, § 512(b)(1)][/us/pl/105/276/s512/b/1], Oct. 21, 1998, [112 Stat. 2543][/us/stat/112/2543].
+    Paragraph (5), referred to in the concluding provisions of subsec. (l), was redesignated as par. (6) by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 512(b)(1), Oct. 21, 1998, [112 Stat. 2543][/us/stat/112/2543].
 
     The Civil Rights Act of 1964, referred to in subsec. (r)(1), is [Pub. L. 88–352][/us/pl/88/352], July 2, 1964, [78 Stat. 241][/us/stat/78/241]. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title][/us/usc/t42/s2000a] and Tables.
 
@@ -621,65 +621,65 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(3) to (5). [Pub. L. 113–4, § 601(b)(1)(A)][/us/pl/113/4/s601/b/1/A], redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “the public housing agency shall not deny admission to the project to any applicant on the basis that the applicant is or has been a victim of domestic violence, dating violence, or stalking if the applicant otherwise qualifies for assistance or admission, and that nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking”.
+    2013—Subsec. (c)(3) to (5). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(1)(A), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “the public housing agency shall not deny admission to the project to any applicant on the basis that the applicant is or has been a victim of domestic violence, dating violence, or stalking if the applicant otherwise qualifies for assistance or admission, and that nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking”.
 
-    Subsec. (l)(5). [Pub. L. 113–4, § 601(b)(1)(B)(i)][/us/pl/113/4/s601/b/1/B/i], struck out “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
+    Subsec. (l)(5). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(1)(B)(i), struck out “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-    Subsec. (l)(6). [Pub. L. 113–4, § 601(b)(1)(B)(ii)][/us/pl/113/4/s601/b/1/B/ii], struck out before semicolon at end “; except that: (A) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (B) notwithstanding subparagraph (A) or any Federal, State, or local law to the contrary, a public housing agency may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant and such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing; (C) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (D) nothing in subparagraph (A) limits any otherwise available authority of a public housing agency to evict a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (E) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency to terminate the tenancy of any tenant if the public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant’s tenancy is not terminated; and (F) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+    Subsec. (l)(6). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(1)(B)(ii), struck out before semicolon at end “; except that: (A) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (B) notwithstanding subparagraph (A) or any Federal, State, or local law to the contrary, a public housing agency may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant and such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing; (C) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (D) nothing in subparagraph (A) limits any otherwise available authority of a public housing agency to evict a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (E) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency to terminate the tenancy of any tenant if the public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant’s tenancy is not terminated; and (F) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-    Subsec. (u). [Pub. L. 113–4, § 601(b)(1)(C)][/us/pl/113/4/s601/b/1/C], struck out subsec. (u) which related to certification that an individual is a victim of domestic violence, dating violence, or stalking and confidentiality of information provided to any public housing agency.
+    Subsec. (u). [Pub. L. 113–4][/us/pl/113/4], § 601(b)(1)(C), struck out subsec. (u) which related to certification that an individual is a victim of domestic violence, dating violence, or stalking and confidentiality of information provided to any public housing agency.
 
-    2006—Subsec. (c)(3) to (5). [Pub. L. 109–162, § 607(1)][/us/pl/109/162/s607/1], (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    2006—Subsec. (c)(3) to (5). [Pub. L. 109–162][/us/pl/109/162], § 607(1), (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-    Subsec. (l)(5). [Pub. L. 109–162, § 607(3)][/us/pl/109/162/s607/3], inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
+    Subsec. (l)(5). [Pub. L. 109–162][/us/pl/109/162], § 607(3), inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-    Subsec. (l)(6). [Pub. L. 109–162, § 607(4)][/us/pl/109/162/s607/4], inserted before semicolon at end “; except that: (A) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (B) notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (C) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (D) nothing in subparagraph (A) limits any otherwise available authority of a public housing agency to evict a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (E) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency to terminate the tenancy of any tenant if the public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant’s tenancy is not terminated; and (F) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+    Subsec. (l)(6). [Pub. L. 109–162][/us/pl/109/162], § 607(4), inserted before semicolon at end “; except that: (A) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant’s household or any guest or other person under the tenant’s control, shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant’s family is a victim of that domestic violence, dating violence, or stalking; (B) notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (C) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (D) nothing in subparagraph (A) limits any otherwise available authority of a public housing agency to evict a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant’s household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (E) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency to terminate the tenancy of any tenant if the public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant’s tenancy is not terminated; and (F) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-    Subsec. (l)(6)(B). [Pub. L. 109–271, § 5(f)(1)][/us/pl/109/271/s5/f/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
+    Subsec. (l)(6)(B). [Pub. L. 109–271][/us/pl/109/271], § 5(f)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
 
-    Subsec. (u). [Pub. L. 109–162, § 607(5)][/us/pl/109/162/s607/5], added subsec. (u).
+    Subsec. (u). [Pub. L. 109–162][/us/pl/109/162], § 607(5), added subsec. (u).
 
-    Subsec. (u)(1)(A). [Pub. L. 109–271, § 5(f)(2)(A)][/us/pl/109/271/s5/f/2/A], substituted “the individual receives a request for such certification from the public housing agency” for “the public housing agency requests such certification”.
+    Subsec. (u)(1)(A). [Pub. L. 109–271][/us/pl/109/271], § 5(f)(2)(A), substituted “the individual receives a request for such certification from the public housing agency” for “the public housing agency requests such certification”.
 
-    Subsec. (u)(1)(B). [Pub. L. 109–271, § 5(f)(2)(B)][/us/pl/109/271/s5/f/2/B], substituted “the individual has received a request in writing for such certification from the public housing agency” for “the public housing agency has requested such certification in writing”.
+    Subsec. (u)(1)(B). [Pub. L. 109–271][/us/pl/109/271], § 5(f)(2)(B), substituted “the individual has received a request in writing for such certification from the public housing agency” for “the public housing agency has requested such certification in writing”.
 
-    Subsec. (u)(3)(D)(ii). [Pub. L. 109–271, § 5(f)(2)(C)][/us/pl/109/271/s5/f/2/C], substituted “blood or marriage” for “blood and marriage”.
+    Subsec. (u)(3)(D)(ii). [Pub. L. 109–271][/us/pl/109/271], § 5(f)(2)(C), substituted “blood or marriage” for “blood and marriage”.
 
-    1998—Subsec. (a). [Pub. L. 105–276, § 511(d)][/us/pl/105/276/s511/d], in first sentence, inserted “, in a manner consistent with the public housing agency plan” before the period at end and struck out after first sentence “Any such contract may contain a condition requiring the maintenance of an open space or playground in connection with the housing project involved if deemed necessary by the Secretary for the safety or health of children.”
+    1998—Subsec. (a). [Pub. L. 105–276][/us/pl/105/276], § 511(d), in first sentence, inserted “, in a manner consistent with the public housing agency plan” before the period at end and struck out after first sentence “Any such contract may contain a condition requiring the maintenance of an open space or playground in connection with the housing project involved if deemed necessary by the Secretary for the safety or health of children.”
 
-    Subsec. (b)(3), (4). [Pub. L. 105–276, § 520(b)][/us/pl/105/276/s520/b], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 105–276][/us/pl/105/276], § 520(b), added pars. (3) and (4).
 
-    Subsec. (c)(4)(A). [Pub. L. 105–276, § 514(a)(1)][/us/pl/105/276/s514/a/1], amended subpar. (A) generally. For former text of subpar. (A), see 1996 Amendment note below.
+    Subsec. (c)(4)(A). [Pub. L. 105–276][/us/pl/105/276], § 514(a)(1), amended subpar. (A) generally. For former text of subpar. (A), see 1996 Amendment note below.
 
-    Subsec. (c)(4)(E). [Pub. L. 105–276, § 529(1)][/us/pl/105/276/s529/1], substituted “for each agency that receives assistance under this subchapter” for “except in the case of agencies not receiving operating assistance under [section 1437g of this title][/us/usc/t42/s1437g]”.
+    Subsec. (c)(4)(E). [Pub. L. 105–276][/us/pl/105/276], § 529(1), substituted “for each agency that receives assistance under this subchapter” for “except in the case of agencies not receiving operating assistance under [section 1437g of this title][/us/usc/t42/s1437g]”.
 
-    Subsec. (e). [Pub. L. 105–276, § 529(2)][/us/pl/105/276/s529/2], struck out subsec. (e) which read as follows: “Every contract for annual contributions shall provide that whenever in any year the receipts of a public housing agency in connection with a low-income housing project exceed its expenditures (including debt service, operation, maintenance, establishment of reserves, and other costs and charges), an amount equal to such excess shall be applied, or set aside for application, to purposes, which, in the determination of the Secretary, will effect a reduction in the amount of subsequent annual contributions.”
+    Subsec. (e). [Pub. L. 105–276][/us/pl/105/276], § 529(2), struck out subsec. (e) which read as follows: “Every contract for annual contributions shall provide that whenever in any year the receipts of a public housing agency in connection with a low-income housing project exceed its expenditures (including debt service, operation, maintenance, establishment of reserves, and other costs and charges), an amount equal to such excess shall be applied, or set aside for application, to purposes, which, in the determination of the Secretary, will effect a reduction in the amount of subsequent annual contributions.”
 
-    Subsec. (f). [Pub. L. 105–276, § 530][/us/pl/105/276/s530], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–276][/us/pl/105/276], § 530, added subsec. (f).
 
-    Subsec. (j)(1)(B). [Pub. L. 105–276, § 564(1)(A)][/us/pl/105/276/s564/1/A], added subpar. (B) and struck out former subpar. (B) which read as follows: “The amount and percentage of funds obligated to the public housing agency under section 1437l of this title which remain unexpended after 3 years.”
+    Subsec. (j)(1)(B). [Pub. L. 105–276][/us/pl/105/276], § 564(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “The amount and percentage of funds obligated to the public housing agency under section 1437l of this title which remain unexpended after 3 years.”
 
-    Subsec. (j)(1)(D). [Pub. L. 105–276, § 564(1)(B)][/us/pl/105/276/s564/1/B], substituted “utility” for “energy”.
+    Subsec. (j)(1)(D). [Pub. L. 105–276][/us/pl/105/276], § 564(1)(B), substituted “utility” for “energy”.
 
-    Subsec. (j)(1)(E). [Pub. L. 105–276, § 564(1)(C)][/us/pl/105/276/s564/1/C], which directed the transfer and insertion of subpar. (E) after subpar. (D), required no change in text.
+    Subsec. (j)(1)(E). [Pub. L. 105–276][/us/pl/105/276], § 564(1)(C), which directed the transfer and insertion of subpar. (E) after subpar. (D), required no change in text.
 
-    Subsec. (j)(1)(H) to (K). [Pub. L. 105–276, § 564(1)(D)][/us/pl/105/276/s564/1/D], (E), added subpars. (H), (I), relating to extent to which agency implements and coordinates strategies, and (J), and redesignated former subpar. (H) as (K).
+    Subsec. (j)(1)(H) to (K). [Pub. L. 105–276][/us/pl/105/276], § 564(1)(D), (E), added subpars. (H), (I), relating to extent to which agency implements and coordinates strategies, and (J), and redesignated former subpar. (H) as (K).
 
-    Subsec. (j)(2)(A)(i). [Pub. L. 105–276, § 564(2)(A)][/us/pl/105/276/s564/2/A], inserted after first sentence “Such procedures shall provide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units.” and, in last sentence, substituted “for assistance from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d]” for “under section 1437l of this title”.
+    Subsec. (j)(2)(A)(i). [Pub. L. 105–276][/us/pl/105/276], § 564(2)(A), inserted after first sentence “Such procedures shall provide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units.” and, in last sentence, substituted “for assistance from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d]” for “under section 1437l of this title”.
 
-    Subsec. (j)(2)(A)(iii). [Pub. L. 105–276, § 564(2)(B)][/us/pl/105/276/s564/2/B], substituted “for assistance from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d]” for “under section 1437l of this title”.
+    Subsec. (j)(2)(A)(iii). [Pub. L. 105–276][/us/pl/105/276], § 564(2)(B), substituted “for assistance from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d]” for “under section 1437l of this title”.
 
-    Subsec. (j)(2)(B)(i). [Pub. L. 105–276, § 564(2)(C)][/us/pl/105/276/s564/2/C], inserted “with more than 250 units” after “public housing agency” and substituted “comparable and recent review” for “review conducted under section 1437l(p) of this title”.
+    Subsec. (j)(2)(B)(i). [Pub. L. 105–276][/us/pl/105/276], § 564(2)(C), inserted “with more than 250 units” after “public housing agency” and substituted “comparable and recent review” for “review conducted under section 1437l(p) of this title”.
 
-    Subsec. (j)(2)(C). [Pub. L. 105–276, § 564(2)(D)][/us/pl/105/276/s564/2/D], inserted “(if applicable)” after “subparagraph (B)” in first sentence.
+    Subsec. (j)(2)(C). [Pub. L. 105–276][/us/pl/105/276], § 564(2)(D), inserted “(if applicable)” after “subparagraph (B)” in first sentence.
 
-    Subsec. (j)(3)(A)(i). [Pub. L. 105–276, § 565(a)(1)(A)][/us/pl/105/276/s565/a/1/A], added cl. (i) and struck out former cl. (i) which read as follows: “solicit competitive proposals from other public housing agencies and private housing management agents (which may be selected by existing tenants through administrative procedures established by the Secretary) in the eventuality that these agents may be needed for managing all, or part, of the housing administered by a public housing agency;”.
+    Subsec. (j)(3)(A)(i). [Pub. L. 105–276][/us/pl/105/276], § 565(a)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “solicit competitive proposals from other public housing agencies and private housing management agents (which may be selected by existing tenants through administrative procedures established by the Secretary) in the eventuality that these agents may be needed for managing all, or part, of the housing administered by a public housing agency;”.
 
-    Subsec. (j)(3)(A)(iii). [Pub. L. 105–276, § 565(a)(1)(B)][/us/pl/105/276/s565/a/1/B], substituted “from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d]” for “under section 1437l of this title”.
+    Subsec. (j)(3)(A)(iii). [Pub. L. 105–276][/us/pl/105/276], § 565(a)(1)(B), substituted “from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d]” for “under section 1437l of this title”.
 
-    Subsec. (j)(3)(A)(iv), (v). [Pub. L. 105–276, § 565(a)(1)(C)][/us/pl/105/276/s565/a/1/C], added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “require the agency to make other arrangements acceptable to the Secretary and in the best interests of the public housing residents for managing all, or part of, such housing.”
+    Subsec. (j)(3)(A)(iv), (v). [Pub. L. 105–276][/us/pl/105/276], § 565(a)(1)(C), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “require the agency to make other arrangements acceptable to the Secretary and in the best interests of the public housing residents for managing all, or part of, such housing.”
 
-    Subsec. (j)(3)(B) to (H). [Pub. L. 105–276, § 565(a)(2)][/us/pl/105/276/s565/a/2], added subpars. (B) to (H) and struck out former subpars. (B) to (D) which read as follows:
+    Subsec. (j)(3)(B) to (H). [Pub. L. 105–276][/us/pl/105/276], § 565(a)(2), added subpars. (B) to (H) and struck out former subpars. (B) to (D) which read as follows:
 
     “(B) The Secretary may make available to receivers and other entities selected or appointed pursuant to this paragraph such assistance as is necessary to remedy the substantial deterioration of living conditions in individual public housing developments or other related emergencies that endanger the health, safety and welfare of the residents.
 
@@ -687,37 +687,37 @@
 
     “(D) The appointment of a receiver pursuant to this subsection may be terminated, upon the petition of any party, when the court determines that all defaults have been cured and the housing operated by the public housing agency will thereafter be operated in accordance with the covenants and conditions to which the public housing agency is subject.”
 
-    Subsec. (j)(4), (5). [Pub. L. 105–276, § 521][/us/pl/105/276/s521], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (j)(4), (5). [Pub. L. 105–276][/us/pl/105/276], § 521, added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (j)(5)(F). [Pub. L. 105–276, § 564(3)][/us/pl/105/276/s564/3], substituted “program for assistance from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d] and specifies the amount of assistance the agency received under such program.” for “program under section 1437l of this title and specifies the amount of assistance the agency received under section 1437l of this title and any credits accumulated by the agency under section 1437l(k)(5)(D) of this title.”
+    Subsec. (j)(5)(F). [Pub. L. 105–276][/us/pl/105/276], § 564(3), substituted “program for assistance from the Capital Fund under [section 1437g(d) of this title][/us/usc/t42/s1437g/d] and specifies the amount of assistance the agency received under such program.” for “program under section 1437l of this title and specifies the amount of assistance the agency received under section 1437l of this title and any credits accumulated by the agency under section 1437l(k)(5)(D) of this title.”
 
-    Subsec. (j)(6), (7). [Pub. L. 105–276, § 564(4)][/us/pl/105/276/s564/4], added pars. (6) and (7).
+    Subsec. (j)(6), (7). [Pub. L. 105–276][/us/pl/105/276], § 564(4), added pars. (6) and (7).
 
-    Subsec. (k). [Pub. L. 105–276, § 575(a)][/us/pl/105/276/s575/a], in first sentence of concluding provisions, inserted “violent or” before “drug-related” and “or any activity resulting in a felony conviction,” after “on or off such premises,”.
+    Subsec. (k). [Pub. L. 105–276][/us/pl/105/276], § 575(a), in first sentence of concluding provisions, inserted “violent or” before “drug-related” and “or any activity resulting in a felony conviction,” after “on or off such premises,”.
 
-    Subsec. (l)(1) to (3). [Pub. L. 105–276, § 512(b)(1)][/us/pl/105/276/s512/b/1], (3), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+    Subsec. (l)(1) to (3). [Pub. L. 105–276][/us/pl/105/276], § 512(b)(1), (3), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-    Subsec. (l)(4). [Pub. L. 105–276, § 512(b)(1)][/us/pl/105/276/s512/b/1], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (l)(4). [Pub. L. 105–276][/us/pl/105/276], § 512(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (l)(4)(A). [Pub. L. 105–276, § 575(b)(1)(A)][/us/pl/105/276/s575/b/1/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “a reasonable time, but not to exceed 30 days, when the health or safety of other tenants or public housing agency employees is threatened;”.
+    Subsec. (l)(4)(A). [Pub. L. 105–276][/us/pl/105/276], § 575(b)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “a reasonable time, but not to exceed 30 days, when the health or safety of other tenants or public housing agency employees is threatened;”.
 
-    Subsec. (l)(4)(C). [Pub. L. 105–276, § 575(b)(1)(B)][/us/pl/105/276/s575/b/1/B], inserted “, except that if a State or local law provides for a shorter period of time, such shorter period shall apply” before semicolon at end.
+    Subsec. (l)(4)(C). [Pub. L. 105–276][/us/pl/105/276], § 575(b)(1)(B), inserted “, except that if a State or local law provides for a shorter period of time, such shorter period shall apply” before semicolon at end.
 
-    Subsec. (l)(5), (6). [Pub. L. 105–276, § 512(b)(1)][/us/pl/105/276/s512/b/1], redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7), relating to specification that tenant be informed of opportunity to examine documents.
+    Subsec. (l)(5), (6). [Pub. L. 105–276][/us/pl/105/276], § 512(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7), relating to specification that tenant be informed of opportunity to examine documents.
 
-    Subsec. (l)(7). [Pub. L. 105–276, § 575(b)(4)][/us/pl/105/276/s575/b/4], added par. (7) relating to termination for illegal drug use and alcohol abuse.
+    Subsec. (l)(7). [Pub. L. 105–276][/us/pl/105/276], § 575(b)(4), added par. (7) relating to termination for illegal drug use and alcohol abuse.
 
-    [Pub. L. 105–276, § 575(b)(2)][/us/pl/105/276/s575/b/2], struck out “and” at end.
+    [Pub. L. 105–276][/us/pl/105/276], § 575(b)(2), struck out “and” at end.
 
-    [Pub. L. 105–276, § 512(b)(2)][/us/pl/105/276/s512/b/2], which directed the redesignation of par. (7) as (9), was executed by redesignating the par. (7), relating to termination of tenancy if tenant is fleeing prosecution or in violation of parole, as (9), to reflect the probable intent of Congress.
+    [Pub. L. 105–276][/us/pl/105/276], § 512(b)(2), which directed the redesignation of par. (7) as (9), was executed by redesignating the par. (7), relating to termination of tenancy if tenant is fleeing prosecution or in violation of parole, as (9), to reflect the probable intent of Congress.
 
-    [Pub. L. 105–276, § 512(b)(1)][/us/pl/105/276/s512/b/1], redesignated par. (6) as (7), relating to specification that tenant be informed of opportunity to examine documents.
+    [Pub. L. 105–276][/us/pl/105/276], § 512(b)(1), redesignated par. (6) as (7), relating to specification that tenant be informed of opportunity to examine documents.
 
-    Subsec. (l)(9). [Pub. L. 105–276, § 512(b)(2)][/us/pl/105/276/s512/b/2], which directed the redesignation of par. (7) as (9), was executed by redesignating the par. (7), relating to termination of tenancy if tenant is fleeing prosecution or in violation of parole, as (9), to reflect the probable intent of Congress.
+    Subsec. (l)(9). [Pub. L. 105–276][/us/pl/105/276], § 512(b)(2), which directed the redesignation of par. (7) as (9), was executed by redesignating the par. (7), relating to termination of tenancy if tenant is fleeing prosecution or in violation of parole, as (9), to reflect the probable intent of Congress.
 
-    Subsec. (o). [Pub. L. 105–276, § 514(a)(2)(A)][/us/pl/105/276/s514/a/2/A], substituted “In” for “Subject” and all that follows through “, in” in introductory provisions.
+    Subsec. (o). [Pub. L. 105–276][/us/pl/105/276], § 514(a)(2)(A), substituted “In” for “Subject” and all that follows through “, in” in introductory provisions.
 
-    Subsec. (p). [Pub. L. 105–276, § 519(b)][/us/pl/105/276/s519/b], struck out subsec. (p) which read as follows: “With respect to amounts available for obligation on or after October 1, 1991, the criteria established under [section 1439(d)(5)(B) of this title][/us/usc/t42/s1439/d/5/B] for any competition for assistance for new construction, acquisition, or acquisition and rehabilitation of public housing shall give preference to applications for housing to be located in a local market area that has an inadequate supply of housing available for use by very low-income families. The Secretary shall establish criteria for determining that the housing supply of a local market area is inadequate, which shall require—
+    Subsec. (p). [Pub. L. 105–276][/us/pl/105/276], § 519(b), struck out subsec. (p) which read as follows: “With respect to amounts available for obligation on or after October 1, 1991, the criteria established under [section 1439(d)(5)(B) of this title][/us/usc/t42/s1439/d/5/B] for any competition for assistance for new construction, acquisition, or acquisition and rehabilitation of public housing shall give preference to applications for housing to be located in a local market area that has an inadequate supply of housing available for use by very low-income families. The Secretary shall establish criteria for determining that the housing supply of a local market area is inadequate, which shall require—
 
     “(1)(A) information regarding housing market conditions showing that the supply of rental housing affordable by very low-income families is inadequate, taking into account vacancy rates in such housing and other market indicators; and
 
@@ -725,33 +725,33 @@
 
     “(2) evidence that the proposed development would provide increased housing opportunities for minorities or address special housing needs.”
 
-    Subsec. (q)(1)(A). [Pub. L. 105–276, § 575(c)(1)(A)(ii)][/us/pl/105/276/s575/c/1/A/ii], which directed the substitution of “covered housing assistance” for “public housing”, was executed by making the substitution in the second place that “public housing” appeared, to reflect the probable intent of Congress.
+    Subsec. (q)(1)(A). [Pub. L. 105–276][/us/pl/105/276], § 575(c)(1)(A)(ii), which directed the substitution of “covered housing assistance” for “public housing”, was executed by making the substitution in the second place that “public housing” appeared, to reflect the probable intent of Congress.
 
-    [Pub. L. 105–276, § 575(c)(1)(A)(i)][/us/pl/105/276/s575/c/1/A/i], substituted “subparagraph (C)” for “subparagraph (B)”.
+    [Pub. L. 105–276][/us/pl/105/276], § 575(c)(1)(A)(i), substituted “subparagraph (C)” for “subparagraph (B)”.
 
-    Subsec. (q)(1)(B), (C). [Pub. L. 105–276, § 575(c)(1)(B)][/us/pl/105/276/s575/c/1/B], (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (q)(1)(B), (C). [Pub. L. 105–276][/us/pl/105/276], § 575(c)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (q)(3). [Pub. L. 105–276, § 575(c)(2)][/us/pl/105/276/s575/c/2], substituted “Fees” for “Fee” in heading and inserted at end “In the case of a public housing agency obtaining information pursuant to paragraph (1)(B) for another owner of housing, the agency may pass such fee on to the owner initiating the request and may charge additional reasonable fees for making the request on behalf of the owner and taking other actions for owners under this subsection.”
+    Subsec. (q)(3). [Pub. L. 105–276][/us/pl/105/276], § 575(c)(2), substituted “Fees” for “Fee” in heading and inserted at end “In the case of a public housing agency obtaining information pursuant to paragraph (1)(B) for another owner of housing, the agency may pass such fee on to the owner initiating the request and may charge additional reasonable fees for making the request on behalf of the owner and taking other actions for owners under this subsection.”
 
-    Subsec. (q)(5) to (8). [Pub. L. 105–276, § 575(c)(3)][/us/pl/105/276/s575/c/3], (4), added pars. (5) to (8) and struck out heading and text of former par. (5). Text read as follows: “For purposes of this subsection, the term ‘adult’ means a person who is 18 years of age or older, or who has been convicted of a crime as an adult under any Federal, State, or tribal law.”
+    Subsec. (q)(5) to (8). [Pub. L. 105–276][/us/pl/105/276], § 575(c)(3), (4), added pars. (5) to (8) and struck out heading and text of former par. (5). Text read as follows: “For purposes of this subsection, the term ‘adult’ means a person who is 18 years of age or older, or who has been convicted of a crime as an adult under any Federal, State, or tribal law.”
 
-    Subsec. (r). [Pub. L. 105–276, § 576(d)(1)][/us/pl/105/276/s576/d/1], redesignated subsec. (s) as (r) and struck out heading and text of former subsec. (r). Text read as follows: “Any tenant evicted from housing assisted under this subchapter by reason of drug-related criminal activity (as that term is defined in [section 1437f(f) of this title][/us/usc/t42/s1437f/f]) shall not be eligible for housing assistance under this subchapter during the 3-year period beginning on the date of such eviction, unless the evicted tenant successfully completes a rehabilitation program approved by the public housing agency (which shall include a waiver of this subsection if the circumstances leading to eviction no longer exist).”
+    Subsec. (r). [Pub. L. 105–276][/us/pl/105/276], § 576(d)(1), redesignated subsec. (s) as (r) and struck out heading and text of former subsec. (r). Text read as follows: “Any tenant evicted from housing assisted under this subchapter by reason of drug-related criminal activity (as that term is defined in [section 1437f(f) of this title][/us/usc/t42/s1437f/f]) shall not be eligible for housing assistance under this subchapter during the 3-year period beginning on the date of such eviction, unless the evicted tenant successfully completes a rehabilitation program approved by the public housing agency (which shall include a waiver of this subsection if the circumstances leading to eviction no longer exist).”
 
-    Subsec. (s). [Pub. L. 105–276, § 576(d)(1)(B)][/us/pl/105/276/s576/d/1/B], redesignated subsec. (t) as (s). Former subsec. (s) redesignated (r).
+    Subsec. (s). [Pub. L. 105–276][/us/pl/105/276], § 576(d)(1)(B), redesignated subsec. (t) as (s). Former subsec. (s) redesignated (r).
 
-    [Pub. L. 105–276, § 525][/us/pl/105/276/s525], added subsec. (s).
+    [Pub. L. 105–276][/us/pl/105/276], § 525, added subsec. (s).
 
-    Subsec. (t). [Pub. L. 105–276, § 576(d)(1)(B)][/us/pl/105/276/s576/d/1/B], redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
+    Subsec. (t). [Pub. L. 105–276][/us/pl/105/276], § 576(d)(1)(B), redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
 
-    [Pub. L. 105–276, § 575(d)][/us/pl/105/276/s575/d], added subsec. (t).
+    [Pub. L. 105–276][/us/pl/105/276], § 575(d), added subsec. (t).
 
-    Subsec. (u). [Pub. L. 105–276, § 576(d)(1)(B)][/us/pl/105/276/s576/d/1/B], redesignated subsec. (u) as (t).
+    Subsec. (u). [Pub. L. 105–276][/us/pl/105/276], § 576(d)(1)(B), redesignated subsec. (u) as (t).
 
-    [Pub. L. 105–276, § 575(e)][/us/pl/105/276/s575/e], added subsec. (u).
+    [Pub. L. 105–276][/us/pl/105/276], § 575(e), added subsec. (u).
 
     1996—Subsec. (b)(1). [Pub. L. 104–330][/us/pl/104/330] struck out “and public housing for Indians and Alaska Natives in accordance with the Indian Housing Act of 1988” after “operation of public housing”.
 
-    Subsec. (c)(4)(A). [Pub. L. 104–99, § 402(d)(1)][/us/pl/104/99/s402/d/1], (f), temporarily amended subpar. (A) generally, substituting
+    Subsec. (c)(4)(A). [Pub. L. 104–99][/us/pl/104/99], § 402(d)(1), (f), temporarily amended subpar. (A) generally, substituting
 
     “(A) the establishment, after public notice and an opportunity for public comment, of a written system of preferences for admission to public housing, if any, that is not inconsistent with the comprehensive housing affordability strategy under title I of the Cranston-Gonzalez National Affordable Housing Act;” for
 
@@ -767,127 +767,127 @@
 
     See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (k). [Pub. L. 104–120, § 9(a)(1)][/us/pl/104/120/s9/a/1], in concluding provisions, substituted “involves any activity” for “involves any criminal activity” and “on or off such premises” for “on or near such premises”.
+    Subsec. (k). [Pub. L. 104–120][/us/pl/104/120], § 9(a)(1), in concluding provisions, substituted “involves any activity” for “involves any criminal activity” and “on or off such premises” for “on or near such premises”.
 
-    Subsec. (l)(5). [Pub. L. 104–120, § 9(a)(2)][/us/pl/104/120/s9/a/2], substituted “on or off such premises” for “on or near such premises”.
+    Subsec. (l)(5). [Pub. L. 104–120][/us/pl/104/120], § 9(a)(2), substituted “on or off such premises” for “on or near such premises”.
 
     Subsec. (l)(7). [Pub. L. 104–193][/us/pl/104/193] added par. (7).
 
-    Subsec. (o). [Pub. L. 104–99, § 402(d)(6)(A)(i)][/us/pl/104/99/s402/d/6/A/i], (f), in introductory provisions, temporarily substituted “written system of preferences for selection established pursuant to” for “preference rules specified in”. See Effective and Termination Dates of 1996 Amendments note below.
+    Subsec. (o). [Pub. L. 104–99][/us/pl/104/99], § 402(d)(6)(A)(i), (f), in introductory provisions, temporarily substituted “written system of preferences for selection established pursuant to” for “preference rules specified in”. See Effective and Termination Dates of 1996 Amendments note below.
 
-    Subsec. (q). [Pub. L. 104–120, § 9(b)][/us/pl/104/120/s9/b], added subsec. (q).
+    Subsec. (q). [Pub. L. 104–120][/us/pl/104/120], § 9(b), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 104–120, § 9(c)][/us/pl/104/120/s9/c], added subsec. (r).
+    Subsec. (r). [Pub. L. 104–120][/us/pl/104/120], § 9(c), added subsec. (r).
 
-    1994—Subsec. (c)(4)(A)(i). [Pub. L. 103–233, § 101(c)(1)][/us/pl/103/233/s101/c/1], inserted “(including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11])” after “displaced”.
+    1994—Subsec. (c)(4)(A)(i). [Pub. L. 103–233][/us/pl/103/233], § 101(c)(1), inserted “(including displacement because of disposition of a multifamily housing project under [section 1701z–11 of title 12][/us/usc/t12/s1701z–11])” after “displaced”.
 
     Subsec. (c)(4)(A)(ii). [Pub. L. 103–327][/us/pl/103/327] added subcl. (V), redesignated former subcl. (V) as (VI), and inserted “subclause (V) shall be effective only during fiscal year 1995;” after semicolon at end.
 
-    Subsec. (c)(4)(E). [Pub. L. 103–233, § 303][/us/pl/103/233/s303], substituted “500 units” for “250 units”.
+    Subsec. (c)(4)(E). [Pub. L. 103–233][/us/pl/103/233], § 303, substituted “500 units” for “250 units”.
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 625(a)(2)][/us/pl/102/550/s625/a/2], substituted “elderly or disabled families” for “the elderly” in last sentence.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 625(a)(2), substituted “elderly or disabled families” for “the elderly” in last sentence.
 
-    Subsec. (c)(4)(A). [Pub. L. 102–550, § 622(b)][/us/pl/102/550/s622/b], substituted “designated for occupancy pursuant to [section 1437e(a) of this title][/us/usc/t42/s1437e/a]” for “specifically designated for elderly families” in introductory provisions.
+    Subsec. (c)(4)(A). [Pub. L. 102–550][/us/pl/102/550], § 622(b), substituted “designated for occupancy pursuant to [section 1437e(a) of this title][/us/usc/t42/s1437e/a]” for “specifically designated for elderly families” in introductory provisions.
 
-    Subsec. (c)(4)(A)(i). [Pub. L. 102–550, § 112][/us/pl/102/550/s112], substituted “50 percent” for “70 percent” after “not less than”.
+    Subsec. (c)(4)(A)(i). [Pub. L. 102–550][/us/pl/102/550], § 112, substituted “50 percent” for “70 percent” after “not less than”.
 
-    Subsec. (c)(4)(F). [Pub. L. 102–550, § 682(a)][/us/pl/102/550/s682/a], added subpar. (F).
+    Subsec. (c)(4)(F). [Pub. L. 102–550][/us/pl/102/550], § 682(a), added subpar. (F).
 
-    Subsec. (j)(1). [Pub. L. 102–550, § 113(e)(1)(C)][/us/pl/102/550/s113/e/1/C], which directed the substitution of “indicators for public housing agencies, to the extent practicable:” for “indicators.” in fourth sentence, was executed by making the substitution for “indicators:” to reflect the probable intent of Congress.
+    Subsec. (j)(1). [Pub. L. 102–550][/us/pl/102/550], § 113(e)(1)(C), which directed the substitution of “indicators for public housing agencies, to the extent practicable:” for “indicators.” in fourth sentence, was executed by making the substitution for “indicators:” to reflect the probable intent of Congress.
 
-    [Pub. L. 102–550, § 113(e)(1)(A)][/us/pl/102/550/s113/e/1/A], (B), in introductory provisions, inserted “and resident management corporations” before period in first sentence and after “agencies” in third sentence.
+    [Pub. L. 102–550][/us/pl/102/550], § 113(e)(1)(A), (B), in introductory provisions, inserted “and resident management corporations” before period in first sentence and after “agencies” in third sentence.
 
-    Subsec. (j)(2)(B). [Pub. L. 102–550, § 113(a)(2)][/us/pl/102/550/s113/a/2], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (j)(2)(B). [Pub. L. 102–550][/us/pl/102/550], § 113(a)(2), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    Subsec. (j)(2)(C). [Pub. L. 102–550, § 113(a)(1)][/us/pl/102/550/s113/a/1], (3), redesignated subpar. (B) as (C), substituted “agency, after reviewing the report submitted pursuant to subparagraph (B) and consulting with the agency’s assessment team. Such agreement shall set forth” for “agency setting forth” in introductory provisions, and inserted “To the extent the Secretary deems appropriate (taking into account an agency’s performance under the indicators specified under paragraph (1)), such agreement shall also set forth a plan for enhancing resident involvement in the management of the public housing agency.” before “The Secretary and the public” in concluding provisions.
+    Subsec. (j)(2)(C). [Pub. L. 102–550][/us/pl/102/550], § 113(a)(1), (3), redesignated subpar. (B) as (C), substituted “agency, after reviewing the report submitted pursuant to subparagraph (B) and consulting with the agency’s assessment team. Such agreement shall set forth” for “agency setting forth” in introductory provisions, and inserted “To the extent the Secretary deems appropriate (taking into account an agency’s performance under the indicators specified under paragraph (1)), such agreement shall also set forth a plan for enhancing resident involvement in the management of the public housing agency.” before “The Secretary and the public” in concluding provisions.
 
-    Subsec. (j)(2)(D). [Pub. L. 102–550, § 113(e)(2)][/us/pl/102/550/s113/e/2], added subpar. (D).
+    Subsec. (j)(2)(D). [Pub. L. 102–550][/us/pl/102/550], § 113(e)(2), added subpar. (D).
 
-    Subsec. (j)(3)(A). [Pub. L. 102–550, § 113(b)(5)][/us/pl/102/550/s113/b/5], inserted concluding provisions.
+    Subsec. (j)(3)(A). [Pub. L. 102–550][/us/pl/102/550], § 113(b)(5), inserted concluding provisions.
 
-    Subsec. (j)(3)(A)(i). [Pub. L. 102–550, § 113(b)(1)][/us/pl/102/550/s113/b/1], inserted “(which may be selected by existing tenants through administrative procedures established by the Secretary)” after “management agents”.
+    Subsec. (j)(3)(A)(i). [Pub. L. 102–550][/us/pl/102/550], § 113(b)(1), inserted “(which may be selected by existing tenants through administrative procedures established by the Secretary)” after “management agents”.
 
-    Subsec. (j)(3)(A)(iii), (iv). [Pub. L. 102–550, § 113(b)(2)][/us/pl/102/550/s113/b/2]–(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
+    Subsec. (j)(3)(A)(iii), (iv). [Pub. L. 102–550][/us/pl/102/550], § 113(b)(2)–(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-    Subsec. (j)(3)(B) to (D). [Pub. L. 102–550, § 113(c)][/us/pl/102/550/s113/c], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    Subsec. (j)(3)(B) to (D). [Pub. L. 102–550][/us/pl/102/550], § 113(c), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Subsec. (j)(4)(E). [Pub. L. 102–550, § 113(d)][/us/pl/102/550/s113/d], which directed the insertion of “, including an accounting of the authorized funds that have been expended to support such actions” before semicolon in par. (5)(E) of subsec. (j), was executed by making the insertion in par. (4)(E) to reflect the probable intent of Congress, because subsec. (j) does not contain a par. (5).
+    Subsec. (j)(4)(E). [Pub. L. 102–550][/us/pl/102/550], § 113(d), which directed the insertion of “, including an accounting of the authorized funds that have been expended to support such actions” before semicolon in par. (5)(E) of subsec. (j), was executed by making the insertion in par. (4)(E) to reflect the probable intent of Congress, because subsec. (j) does not contain a par. (5).
 
     1991—Subsec. (j)(1)(H), (I). [Pub. L. 102–139][/us/pl/102/139], which directed amendment of “Section 6(j)(1) of the Housing Act of 1937, [42 U.S.C. 1437d(j)(1)][/us/usc/t42/s1437d/j/1] section 502(a) of the National Affordable Housing Act,” by adding “which shall not exceed the seven factors in the statute, plus an additional five” at the end of subpar. (H) and by adding subpar. (I), requiring Secretary to administer evaluation system, reflect in weights assigned indicators, and determine status, was executed to subsec. (j)(1) of this section, which is section 6 of the United States Housing Act of 1937, to reflect the probable intent of Congress.
 
     Subsec. (p). [Pub. L. 102–139][/us/pl/102/139] added subsec. (p).
 
-    1990—Subsec. (c)(4)(A). [Pub. L. 101–625, § 501][/us/pl/101/625/s501], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “except for projects or portions of projects specifically designated for elderly families with respect to which the Secretary has determined that application of this clause would result in excessive delays in meeting the housing needs of such families, the establishment of tenant selection criteria which gives preference to families which occupy substandard housing, are paying more than 50 percent of family income for rent, or are involuntarily displaced at the time they are seeking assistance under this chapter and which is designed to assure that, within a reasonable period of time, the project will include families with a broad range of incomes and will avoid concentrations of lower income and deprived families with serious social problems, but (i) this shall not permit maintenance of vacancies to await higher income tenants where lower income tenants are available and shall not permit public housing agencies to select families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence; and (ii) the public housing agency may provide for circumstances in which families who do not qualify for any preference established in this subparagraph are provided assistance before families who do qualify for such preference, except that not more than 10 percent of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this clause) may be families who do not qualify for such preference;”.
+    1990—Subsec. (c)(4)(A). [Pub. L. 101–625][/us/pl/101/625], § 501, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “except for projects or portions of projects specifically designated for elderly families with respect to which the Secretary has determined that application of this clause would result in excessive delays in meeting the housing needs of such families, the establishment of tenant selection criteria which gives preference to families which occupy substandard housing, are paying more than 50 percent of family income for rent, or are involuntarily displaced at the time they are seeking assistance under this chapter and which is designed to assure that, within a reasonable period of time, the project will include families with a broad range of incomes and will avoid concentrations of lower income and deprived families with serious social problems, but (i) this shall not permit maintenance of vacancies to await higher income tenants where lower income tenants are available and shall not permit public housing agencies to select families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence; and (ii) the public housing agency may provide for circumstances in which families who do not qualify for any preference established in this subparagraph are provided assistance before families who do qualify for such preference, except that not more than 10 percent of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this clause) may be families who do not qualify for such preference;”.
 
-    Subsec. (c)(4)(D). [Pub. L. 101–625, § 572(1)][/us/pl/101/625/s572/1], substituted “low-income families” for “lower income families”.
+    Subsec. (c)(4)(D). [Pub. L. 101–625][/us/pl/101/625], § 572(1), substituted “low-income families” for “lower income families”.
 
-    Subsec. (c)(4)(E). [Pub. L. 101–625, § 502(c)(1)][/us/pl/101/625/s502/c/1], added subpar. (E).
+    Subsec. (c)(4)(E). [Pub. L. 101–625][/us/pl/101/625], § 502(c)(1), added subpar. (E).
 
-    Subsecs. (d), (e). [Pub. L. 101–625, § 572(2)][/us/pl/101/625/s572/2], substituted “low-income housing” for “lower income housing” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 101–625][/us/pl/101/625], § 572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
 
-    Subsec. (j). [Pub. L. 101–625, § 502(a)][/us/pl/101/625/s502/a], amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “On or after October 1, 1983, in entering into commitments for the development of public housing, the Secretary shall give a priority to projects for the construction, acquisition, or acquisition and rehabilitation of housing suitable for occupancy by families requiring three or more bedrooms.”
+    Subsec. (j). [Pub. L. 101–625][/us/pl/101/625], § 502(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “On or after October 1, 1983, in entering into commitments for the development of public housing, the Secretary shall give a priority to projects for the construction, acquisition, or acquisition and rehabilitation of housing suitable for occupancy by families requiring three or more bedrooms.”
 
-    Subsec. (k). [Pub. L. 101–625, § 503(a)][/us/pl/101/625/s503/a], added concluding provisions and struck out former concluding provisions which read as follows: “An agency may exclude from its procedure any grievance concerning an eviction or termination of tenancy in any jurisdiction which requires that, prior to eviction, a tenant be given a hearing in court which the Secretary determines provides the basic elements of due process.”
+    Subsec. (k). [Pub. L. 101–625][/us/pl/101/625], § 503(a), added concluding provisions and struck out former concluding provisions which read as follows: “An agency may exclude from its procedure any grievance concerning an eviction or termination of tenancy in any jurisdiction which requires that, prior to eviction, a tenant be given a hearing in court which the Secretary determines provides the basic elements of due process.”
 
-    Subsec. (l)(5). [Pub. L. 101–625, § 504][/us/pl/101/625/s504], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that a public housing tenant, any member of the tenant’s household, or a guest or other person under the tenant’s control shall not engage in criminal activity, including drug-related criminal activity, on or near public housing premises, while the tenant is a tenant in public housing, and such criminal activity shall be cause for termination of tenancy.”
+    Subsec. (l)(5). [Pub. L. 101–625][/us/pl/101/625], § 504, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that a public housing tenant, any member of the tenant’s household, or a guest or other person under the tenant’s control shall not engage in criminal activity, including drug-related criminal activity, on or near public housing premises, while the tenant is a tenant in public housing, and such criminal activity shall be cause for termination of tenancy.”
 
-    Subsec. (l)(6). [Pub. L. 101–625, § 503(b)][/us/pl/101/625/s503/b], added par. (6).
+    Subsec. (l)(6). [Pub. L. 101–625][/us/pl/101/625], § 503(b), added par. (6).
 
     Subsecs. (n), (o). [Pub. L. 101–625][/us/pl/101/625], §§ 505, 506, added subsecs. (n) and (o).
 
     1989—Subsec. (b). [Pub. L. 101–144][/us/pl/101/144] added subsec. (b).
 
-    1988—Subsec. (a). [Pub. L. 100–242, § 170(d)(1)][/us/pl/100/242/s170/d/1], substituted “The Secretary” for “Secretary” at beginning.
+    1988—Subsec. (a). [Pub. L. 100–242][/us/pl/100/242], § 170(d)(1), substituted “The Secretary” for “Secretary” at beginning.
 
-    [Pub. L. 100–242, § 112(b)(2)][/us/pl/100/242/s112/b/2], struck out “annual” before “contributions”.
+    [Pub. L. 100–242][/us/pl/100/242], § 112(b)(2), struck out “annual” before “contributions”.
 
-    Subsec. (c). [Pub. L. 100–242, § 112(b)(2)][/us/pl/100/242/s112/b/2], struck out “annual” before “contributions” in introductory provisions.
+    Subsec. (c). [Pub. L. 100–242][/us/pl/100/242], § 112(b)(2), struck out “annual” before “contributions” in introductory provisions.
 
-    Subsec. (c)(4)(A). [Pub. L. 100–628, § 1014(a)(1)][/us/pl/100/628/s1014/a/1], inserted cl. (i) designation after “, but” and added cl. (ii) before semicolon at end.
+    Subsec. (c)(4)(A). [Pub. L. 100–628][/us/pl/100/628], § 1014(a)(1), inserted cl. (i) designation after “, but” and added cl. (ii) before semicolon at end.
 
-    [Pub. L. 100–628, § 1001(b)][/us/pl/100/628/s1001/b], inserted before semicolon at end “and shall not permit public housing agencies to select families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence”.
+    [Pub. L. 100–628][/us/pl/100/628], § 1001(b), inserted before semicolon at end “and shall not permit public housing agencies to select families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence”.
 
-    [Pub. L. 100–242, § 170(d)(2)][/us/pl/100/242/s170/d/2], inserted “, are paying more than 50 percent of family income for rent,” after “substandard housing”, and struck out “or are paying more than 50 per centum of family income for rent” after “under this chapter”.
+    [Pub. L. 100–242][/us/pl/100/242], § 170(d)(2), inserted “, are paying more than 50 percent of family income for rent,” after “substandard housing”, and struck out “or are paying more than 50 per centum of family income for rent” after “under this chapter”.
 
-    Subsec. (d). [Pub. L. 100–242, § 112(b)(2)][/us/pl/100/242/s112/b/2], struck out “annual” before “contributions” in four places and before “shelter” in two places.
+    Subsec. (d). [Pub. L. 100–242][/us/pl/100/242], § 112(b)(2), struck out “annual” before “contributions” in four places and before “shelter” in two places.
 
-    Subsec. (g). [Pub. L. 100–242, § 112(b)(2)][/us/pl/100/242/s112/b/2], struck out “annual” before “contributions” in introductory provisions.
+    Subsec. (g). [Pub. L. 100–242][/us/pl/100/242], § 112(b)(2), struck out “annual” before “contributions” in introductory provisions.
 
-    Subsec. (h). [Pub. L. 100–242, § 116][/us/pl/100/242/s116], inserted “in the neighborhood where the public housing agency determines the housing is needed” after “is” and “in such neighborhood” after “rehabilitation”.
+    Subsec. (h). [Pub. L. 100–242][/us/pl/100/242], § 116, inserted “in the neighborhood where the public housing agency determines the housing is needed” after “is” and “in such neighborhood” after “rehabilitation”.
 
-    Subsec. (k)(4), (5). [Pub. L. 100–242, § 170(d)(3)][/us/pl/100/242/s170/d/3], substituted “their” for “his”.
+    Subsec. (k)(4), (5). [Pub. L. 100–242][/us/pl/100/242], § 170(d)(3), substituted “their” for “his”.
 
     Subsec. (l). [Pub. L. 100–690][/us/pl/100/690] added par. (5) and concluding provisions defining term “drug-related criminal activity” for purposes of par. (5).
 
     1985—Subsec. (b). [Pub. L. 99–160][/us/pl/99/160] struck out subsec. (b) which related to cost of construction and equipment of a project, and prototype costs.
 
-    1984—Subsec. (a). [Pub. L. 98–479, § 204(b)(1)][/us/pl/98/479/s204/b/1], substituted “covenants” for “convenants”.
+    1984—Subsec. (a). [Pub. L. 98–479][/us/pl/98/479], § 204(b)(1), substituted “covenants” for “convenants”.
 
-    Subsec. (j). [Pub. L. 98–479, § 102(b)(4)][/us/pl/98/479/s102/b/4], inserted “, acquisition, or acquisition and rehabilitation” and substituted “families requiring three or more bedrooms” for “large families”.
+    Subsec. (j). [Pub. L. 98–479][/us/pl/98/479], § 102(b)(4), inserted “, acquisition, or acquisition and rehabilitation” and substituted “families requiring three or more bedrooms” for “large families”.
 
-    Subsec. (m). [Pub. L. 98–479, § 102(b)(5)][/us/pl/98/479/s102/b/5], substituted “housing” for “hearing”.
+    Subsec. (m). [Pub. L. 98–479][/us/pl/98/479], § 102(b)(5), substituted “housing” for “hearing”.
 
-    1983—Subsec. (c)(4)(A). [Pub. L. 98–181, § 203(a)][/us/pl/98/181/s203/a], inserted “or are paying more than 50 per centum of family income for rent”.
+    1983—Subsec. (c)(4)(A). [Pub. L. 98–181][/us/pl/98/181], § 203(a), inserted “or are paying more than 50 per centum of family income for rent”.
 
-    Subsec. (f). [Pub. L. 98–181, § 214(b)][/us/pl/98/181/s214/b], repealed subsec. (f) which provided for modification or closeout of housing project.
+    Subsec. (f). [Pub. L. 98–181][/us/pl/98/181], § 214(b), repealed subsec. (f) which provided for modification or closeout of housing project.
 
-    Subsecs. (h) to (j). [Pub. L. 98–181, § 201(c)][/us/pl/98/181/s201/c], added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 98–181][/us/pl/98/181], § 201(c), added subsecs. (h) to (j).
 
-    Subsecs. (k), (l). [Pub. L. 98–181, § 204][/us/pl/98/181/s204], added subsecs. (k) and (l).
+    Subsecs. (k), (l). [Pub. L. 98–181][/us/pl/98/181], § 204, added subsecs. (k) and (l).
 
-    Subsec. (m). [Pub. L. 98–181, § 205][/us/pl/98/181/s205], added subsec. (m).
+    Subsec. (m). [Pub. L. 98–181][/us/pl/98/181], § 205, added subsec. (m).
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 322(c)][/us/pl/97/35/s322/c], substituted reference to lower income for reference to low-income.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 322(c), substituted reference to lower income for reference to low-income.
 
-    Subsec. (c). [Pub. L. 97–35, § 322(c)][/us/pl/97/35/s322/c], (d), substituted provision in par. (2) requiring review at least annually for provision requiring review at least within two year intervals, or shorter where deemed desirable, in par. (4)(A) “lower income and” for “low-income and”, and in par. (4)(D) reference to lower income for reference to low-income.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 322(c), (d), substituted provision in par. (2) requiring review at least annually for provision requiring review at least within two year intervals, or shorter where deemed desirable, in par. (4)(A) “lower income and” for “low-income and”, and in par. (4)(D) reference to lower income for reference to low-income.
 
-    Subsecs. (d), (e). [Pub. L. 97–35, § 322(c)][/us/pl/97/35/s322/c], substituted references to lower income for references to low-income wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 97–35][/us/pl/97/35], § 322(c), substituted references to lower income for references to low-income wherever appearing.
 
-    1980—Subsec. (b). [Pub. L. 96–399, § 201(c)][/us/pl/96/399/s201/c], inserted exception relating to availability of prototype costs for projects to be located on Indian reservations or in Alaskan Native villages, and added cl. (8).
+    1980—Subsec. (b). [Pub. L. 96–399][/us/pl/96/399], § 201(c), inserted exception relating to availability of prototype costs for projects to be located on Indian reservations or in Alaskan Native villages, and added cl. (8).
 
-    Subsec. (c)(4)(A). [Pub. L. 96–399, § 201(e)][/us/pl/96/399/s201/e], inserted exception relating to application of this clause to projects specifically designated for elderly families.
+    Subsec. (c)(4)(A). [Pub. L. 96–399][/us/pl/96/399], § 201(e), inserted exception relating to application of this clause to projects specifically designated for elderly families.
 
-    Subsec. (f). [Pub. L. 96–399, § 202(c)][/us/pl/96/399/s202/c], inserted “pursuant to section 1437l of this title” wherever appearing.
+    Subsec. (f). [Pub. L. 96–399][/us/pl/96/399], § 202(c), inserted “pursuant to section 1437l of this title” wherever appearing.
 
     1979—Subsec. (c)(4)(A). [Pub. L. 96–153][/us/pl/96/153] substituted “tenant selection criteria which gives preference to families which occupy substandard housing or are involuntarily displaced at the time they are seeking assistance under this chapter and which is designed” for “tenant selection criteria designed”.
 
@@ -899,11 +899,11 @@
 
     Amendment by section 514(a)(1), (2)(A) of [Pub. L. 105–276][/us/pl/105/276] effective and applicable beginning upon Oct. 21, 1998, see [section 514(g) of Pub. L. 105–276][/us/pl/105/276/s514/g], set out as a note under [section 1701s of Title 12][/us/usc/t12/s1701s], Banks and Banking.
 
-[Pub. L. 105–276, title V, § 565(b)][/us/pl/105/276/s565/b], Oct. 21, 1998, [112 Stat. 2631][/us/stat/112/2631], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 565(b), Oct. 21, 1998, [112 Stat. 2631][/us/stat/112/2631], provided that: 
 
 > “The provisions of, and duties and authorities conferred or confirmed by, the amendments made by subsection (a) \[amending this section\] shall apply with respect to any action taken before, on, or after the effective date of this Act \[probably means the general effective date for title V of [Pub. L. 105–276][/us/pl/105/276] included in [section 503 of Pub. L. 105–276][/us/pl/105/276/s503], set out as an Effective Date of 1998 Amendment note under [section 1437 of this title][/us/usc/t42/s1437]\] and shall apply to any receiver appointed for a public housing agency before the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-[Pub. L. 105–276, title V, § 565(e)][/us/pl/105/276/s565/e], Oct. 21, 1998, [112 Stat. 2632][/us/stat/112/2632], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 565(e), Oct. 21, 1998, [112 Stat. 2632][/us/stat/112/2632], provided that: 
 
 > “This section \[amending this section and [section 1437f of this title][/us/usc/t42/s1437f] and enacting provisions set out as notes under this section\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -911,7 +911,7 @@
 
     Amendment by [Pub. L. 104–330][/us/pl/104/330] effective Oct. 1, 1997, except as otherwise expressly provided, see [section 107 of Pub. L. 104–330][/us/pl/104/330/s107], set out as an Effective Date note under [section 4101 of Title 25][/us/usc/t25/s4101], Indians.
 
-[Pub. L. 104–120, § 13][/us/pl/104/120/s13], Mar. 28, 1996, [110 Stat. 845][/us/stat/110/845], provided that:
+[Pub. L. 104–120][/us/pl/104/120], § 13, Mar. 28, 1996, [110 Stat. 845][/us/stat/110/845], provided that:
 
 >     “(a)  __Applicability__  __.—__ 
 
@@ -933,11 +933,11 @@
 
  __Implementation__ 
 
-[Pub. L. 105–276, title V, § 565(d)][/us/pl/105/276/s565/d], Oct. 21, 1998, [112 Stat. 2632][/us/stat/112/2632], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 565(d), Oct. 21, 1998, [112 Stat. 2632][/us/stat/112/2632], provided that: 
 
 > “The Secretary may administer the amendments made by subsection (a) \[amending this section\] as necessary to ensure the efficient and effective initial implementation of this section \[amending this section and [section 1437f of this title][/us/usc/t42/s1437f] and enacting provisions set out as notes under this section\].”
 
-[Pub. L. 101–625, title V, § 502(c)(2)][/us/pl/101/625/s502/c/2], Nov. 28, 1990, [104 Stat. 4184][/us/stat/104/4184], as amended by [Pub. L. 102–550, title I, § 130][/us/pl/102/550/s130], Oct. 28, 1992, [106 Stat. 3712][/us/stat/106/3712], provided that: 
+[Pub. L. 101–625, title V][/us/pl/101/625/tV], § 502(c)(2), Nov. 28, 1990, [104 Stat. 4184][/us/stat/104/4184], as amended by [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 130, Oct. 28, 1992, [106 Stat. 3712][/us/stat/106/3712], provided that: 
 
 > “The Secretary of Housing and Urban Development shall, under the rulemaking procedures under [section 553 of title 5][/us/usc/t5/s553], United States Code, establish guidelines and timetables appropriate to implement the amendment made by paragraph (1)(C) \[amending this section\], taking into account the requirements of public housing agencies of different sizes and characteristics, to achieve compliance with requirements established by such amendment not later than January 1, 1993 for public housing agencies with 500 or more units and not later than January 1, 1994 for public housing agencies with less than 500 units.”
 
@@ -945,17 +945,17 @@
 
     For provisions requiring Secretary of Housing and Urban Development to issue regulations necessary to implement amendment to this section by [section 101(c) of Pub. L. 103–233][/us/pl/103/233/s101/c], see [section 101(f) of Pub. L. 103–233][/us/pl/103/233/s101/f], set out as a note under [section 1701z–11 of Title 12][/us/usc/t12/s1701z–11], Banks and Banking.
 
-[Pub. L. 102–550, title I, § 104][/us/pl/102/550/s104], Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], provided that: 
+[Pub. L. 102–550, title I][/us/pl/102/550/tI], § 104, Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], provided that: 
 
 > “Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall issue regulations implementing the amendments made by sections 501 and 545 of the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], amending this section and [section 1437f of this title][/us/usc/t42/s1437f]\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section) and shall take effect upon issuance.”
 
-[Pub. L. 101–625, title V, § 503(c)][/us/pl/101/625/s503/c], Nov. 28, 1990, [104 Stat. 4185][/us/stat/104/4185], provided that: 
+[Pub. L. 101–625, title V][/us/pl/101/625/tV], § 503(c), Nov. 28, 1990, [104 Stat. 4185][/us/stat/104/4185], provided that: 
 
 > “The Secretary of Housing and Urban Development shall issue, and publish in the Federal Register for comment, proposed rules implementing the amendments made by this section \[amending this section\] not later than the expiration of the 60-day period beginning on the date of the enactment of this Act \[Nov. 28, 1990\] and shall issue final rules implementing the amendments not later than the expiration of the 180-day period beginning on the date of the enactment of this Act.”
 
  __Construction__ 
 
-[Pub. L. 113–4, title VI, § 601(b)(3)][/us/pl/113/4/s601/b/3], Mar. 7, 2013, [127 Stat. 108][/us/stat/127/108], provided that: 
+[Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 601(b)(3), Mar. 7, 2013, [127 Stat. 108][/us/stat/127/108], provided that: 
 
 > “Nothing in this Act \[see Tables for classification\], or the amendments made by this Act, shall be construed—
 
@@ -973,7 +973,7 @@
 
  __Study of Alternative Methods for Evaluating Public Housing Agencies__ 
 
-[Pub. L. 105–276, title V, § 563][/us/pl/105/276/s563], Oct. 21, 1998, [112 Stat. 2624][/us/stat/112/2624], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 563, Oct. 21, 1998, [112 Stat. 2624][/us/stat/112/2624], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1059,7 +1059,7 @@
 
  __References in Other Laws to Preferences for Assistance__ 
 
-    [Pub. L. 104–99, title IV, § 402(d)(6)(D)][/us/pl/104/99/s402/d/6/D], Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43], which provided that certain references to preferences for assistance under sections 1437d(c)(4)(A)(i) and 1437f(d)(1)(A)(i), (o)(3)(B) of this title, as such sections existed on the day before Jan. 26, 1996, were to be considered to refer to the written system of preferences for selection established pursuant to sections 1437d(c)(4)(A) and 1437f(d)(1)(A), (o)(3)(B) of this title, respectively, as amended by [section 402 of Pub. L. 104–99][/us/pl/104/99/s402], was repealed by [Pub. L. 105–276, title V, § 514(b)(2)(D)][/us/pl/105/276/s514/b/2/D], Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548].
+    [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(6)(D), Jan. 26, 1996, [110 Stat. 43][/us/stat/110/43], which provided that certain references to preferences for assistance under sections 1437d(c)(4)(A)(i) and 1437f(d)(1)(A)(i), (o)(3)(B) of this title, as such sections existed on the day before Jan. 26, 1996, were to be considered to refer to the written system of preferences for selection established pursuant to sections 1437d(c)(4)(A) and 1437f(d)(1)(A), (o)(3)(B) of this title, respectively, as amended by [section 402 of Pub. L. 104–99][/us/pl/104/99/s402], was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 514(b)(2)(D), Oct. 21, 1998, [112 Stat. 2548][/us/stat/112/2548].
 
  __Inapplicability of Certain 1992 Amendments to Indian Public Housing__ 
 
@@ -1067,29 +1067,29 @@
 
  __Report on Training and Certification Standards__ 
 
-    [Pub. L. 101–625, title V, § 502(b)][/us/pl/101/625/s502/b], Nov. 28, 1990, [104 Stat. 4183][/us/stat/104/4183], directed Secretary to submit to Congress, not later than 12 months after Nov. 28, 1990, a report regarding the feasibility and effectiveness of establishing uniform standards for training and certification of executive directors and other officers and members of local, regional, and State public housing agencies.
+    [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 502(b), Nov. 28, 1990, [104 Stat. 4183][/us/stat/104/4183], directed Secretary to submit to Congress, not later than 12 months after Nov. 28, 1990, a report regarding the feasibility and effectiveness of establishing uniform standards for training and certification of executive directors and other officers and members of local, regional, and State public housing agencies.
 
  __Applicability__ 
 
-[Pub. L. 101–625, title V, § 503(d)][/us/pl/101/625/s503/d], Nov. 28, 1990, [104 Stat. 4185][/us/stat/104/4185], provided that: 
+[Pub. L. 101–625, title V][/us/pl/101/625/tV], § 503(d), Nov. 28, 1990, [104 Stat. 4185][/us/stat/104/4185], provided that: 
 
 > “Any exclusion of grievances by a public housing agency pursuant to a determination or waiver by the Secretary (under section 6(k) of the United States Housing Act of 1937 \[[42 U.S.C. 1437d(k)][/us/usc/t42/s1437d/k]\], as such section existed before the date of the enactment of this Act \[Nov. 28, 1990\]) that a jurisdiction requires a hearing in court providing the basic elements of due process shall be effective after the date of the enactment of this Act only to the extent that the exclusion complies with the amendments made by this section, except that any such waiver provided before the date of the enactment of this Act shall remain in effect until the earlier of the effective date of the final rules implementing the amendments made by this section or 180 days after the date of the enactment.”
 
  __Report on Impact of Public Housing Lease and Grievance Regulation on Ability of Public Housing Agencies To Take Action Against Tenants Engaging in Drug Crimes__ 
 
-[Pub. L. 100–690, title V, § 5103][/us/pl/100/690/s5103], Nov. 18, 1988, [102 Stat. 4300][/us/stat/102/4300], provided that: 
+[Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5103, Nov. 18, 1988, [102 Stat. 4300][/us/stat/102/4300], provided that: 
 
 > “The Secretary of Housing and Urban Development shall submit to the Congress a report on the impact of the implementation of the public housing tenancy and administrative grievance procedure regulations issued under section 6(k) of the United States Housing Act of 1937 ([42 U.S.C. 1437d(k)][/us/usc/t42/s1437d/k]) on the ability of public housing agencies to evict or take other appropriate action against tenants engaging in criminal activity, especially with respect to the manufacture, sale, distribution, use, or possession of controlled substances (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802][/us/usc/t21/s802])). The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
  __Indian Housing__ 
 
-[Pub. L. 100–628, title X, § 1014(a)(2)][/us/pl/100/628/s1014/a/2], Nov. 7, 1988, [102 Stat. 3269][/us/stat/102/3269], provided that: 
+[Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1014(a)(2), Nov. 7, 1988, [102 Stat. 3269][/us/stat/102/3269], provided that: 
 
 > “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former [section 1437aa(b)(2) of this title][/us/usc/t42/s1437aa/b/2]\], the amendments made by paragraph (1) \[amending this section\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
  __Study of Payments in Lieu of Taxes; Report to Congress__ 
 
-    [Pub. L. 95–128, title II, § 201(g)][/us/pl/95/128/s201/g], Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129], provided that the Secretary of Housing and Urban Development conduct a study of payment in lieu of taxes made under subsec. (d) of this section and report to the Congress on the status and adequacy of such payments not later than 12 months after Oct. 12, 1977.
+    [Pub. L. 95–128, title II][/us/pl/95/128/tII], § 201(g), Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129], provided that the Secretary of Housing and Urban Development conduct a study of payment in lieu of taxes made under subsec. (d) of this section and report to the Congress on the status and adequacy of such payments not later than 12 months after Oct. 12, 1977.
 
 ----------
 
@@ -1103,7 +1103,7 @@
 [/us/usc/t42/s1437c–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931%2Ff
 [/us/usc/t42/s13601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13601
 [/us/usc/t42/s1437c/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fe%2F2
-[/us/pl/105/276/s529/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs529%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2569
 [/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
@@ -1135,7 +1135,7 @@
 [/us/usc/t42/s13661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13661%2Fb
 [/us/usc/t42/s13662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13662
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/105/276/s519/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs519%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2561
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
@@ -1148,55 +1148,55 @@
 [/us/usc/t42/s290dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%932
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F659
-[/us/pl/96/153/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs206%2Fa
+[/us/pl/96/153/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtII
 [/us/stat/93/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1108
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtII
 [/us/stat/94/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1625
-[/us/pl/97/35/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F402
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1177-1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1177-1179
-[/us/pl/98/479/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F4
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2221
-[/us/pl/99/160/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F160%2Fs101
+[/us/pl/99/160/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F160%2FtI
 [/us/stat/99/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F910
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1824
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3263
-[/us/pl/100/690/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5101
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4300
-[/us/pl/101/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144
+[/us/pl/101/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2FtII
 [/us/stat/103/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F846
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4180
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtII
 [/us/stat/105/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F756
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3689
-[/us/pl/103/233/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fc%2F1
+[/us/pl/103/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtI
 [/us/stat/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F357
-[/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
+[/us/pl/103/327/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327%2FtII
 [/us/stat/108/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2315
-[/us/pl/104/99/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F1
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F41
-[/us/pl/104/120/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fa
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F836
-[/us/pl/104/193/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs903%2Fa%2F1
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2348
-[/us/pl/104/330/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F3
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2539
-[/us/pl/109/162/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs607
+[/us/pl/109/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVI
 [/us/stat/119/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3048
-[/us/pl/109/271/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Ff
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F761
-[/us/pl/113/4/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F1
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F107
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
@@ -1207,9 +1207,9 @@
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
-[/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
-[/us/pl/105/276/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fb%2F1
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2543
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -1224,140 +1224,140 @@
 [/us/stat/50/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F890
 [/us/usc/t42/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1406
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
-[/us/pl/113/4/s601/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F1%2FA
-[/us/pl/113/4/s601/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F1%2FB%2Fi
-[/us/pl/113/4/s601/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F1%2FB%2Fii
-[/us/pl/113/4/s601/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F1%2FC
-[/us/pl/109/162/s607/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs607%2F1
-[/us/pl/109/162/s607/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs607%2F3
-[/us/pl/109/162/s607/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs607%2F4
-[/us/pl/109/271/s5/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Ff%2F1
-[/us/pl/109/162/s607/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs607%2F5
-[/us/pl/109/271/s5/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Ff%2F2%2FA
-[/us/pl/109/271/s5/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Ff%2F2%2FB
-[/us/pl/109/271/s5/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs5%2Ff%2F2%2FC
-[/us/pl/105/276/s511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs511%2Fd
-[/us/pl/105/276/s520/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs520%2Fb
-[/us/pl/105/276/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fa%2F1
-[/us/pl/105/276/s529/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs529%2F1
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/pl/105/276/s529/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs529%2F2
-[/us/pl/105/276/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs530
-[/us/pl/105/276/s564/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F1%2FA
-[/us/pl/105/276/s564/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F1%2FB
-[/us/pl/105/276/s564/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F1%2FC
-[/us/pl/105/276/s564/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F1%2FD
-[/us/pl/105/276/s564/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F2%2FA
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fd
-[/us/pl/105/276/s564/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F2%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fd
-[/us/pl/105/276/s564/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F2%2FC
-[/us/pl/105/276/s564/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F2%2FD
-[/us/pl/105/276/s565/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fa%2F1%2FA
-[/us/pl/105/276/s565/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fa%2F1%2FB
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fd
-[/us/pl/105/276/s565/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fa%2F1%2FC
-[/us/pl/105/276/s565/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fa%2F2
-[/us/pl/105/276/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs521
-[/us/pl/105/276/s564/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F3
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fd
-[/us/pl/105/276/s564/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs564%2F4
-[/us/pl/105/276/s575/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fa
-[/us/pl/105/276/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fb%2F1
-[/us/pl/105/276/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fb%2F1
-[/us/pl/105/276/s575/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fb%2F1%2FA
-[/us/pl/105/276/s575/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fb%2F1%2FB
-[/us/pl/105/276/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fb%2F1
-[/us/pl/105/276/s575/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fb%2F4
-[/us/pl/105/276/s575/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fb%2F2
-[/us/pl/105/276/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fb%2F2
-[/us/pl/105/276/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fb%2F1
-[/us/pl/105/276/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs512%2Fb%2F2
-[/us/pl/105/276/s514/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fa%2F2%2FA
-[/us/pl/105/276/s519/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs519%2Fb
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1439/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1439%2Fd%2F5%2FB
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/105/276/s575/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fc%2F1%2FA%2Fii
-[/us/pl/105/276/s575/c/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fc%2F1%2FA%2Fi
-[/us/pl/105/276/s575/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fc%2F1%2FB
-[/us/pl/105/276/s575/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fc%2F2
-[/us/pl/105/276/s575/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fc%2F3
-[/us/pl/105/276/s576/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576%2Fd%2F1
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437f/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Ff
-[/us/pl/105/276/s576/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576%2Fd%2F1%2FB
-[/us/pl/105/276/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs525
-[/us/pl/105/276/s576/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576%2Fd%2F1%2FB
-[/us/pl/105/276/s575/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fd
-[/us/pl/105/276/s576/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576%2Fd%2F1%2FB
-[/us/pl/105/276/s575/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs575%2Fe
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
-[/us/pl/104/99/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F1
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/usc/t42/s1437e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437e%2Fa
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
-[/us/pl/104/120/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fa%2F1
-[/us/pl/104/120/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fa%2F2
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/104/99/s402/d/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F6%2FA%2Fi
-[/us/pl/104/120/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fb
-[/us/pl/104/120/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs9%2Fc
-[/us/pl/103/233/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fc%2F1
+[/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
 [/us/pl/103/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F327
-[/us/pl/103/233/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs303
-[/us/pl/102/550/s625/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs625%2Fa%2F2
-[/us/pl/102/550/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs622%2Fb
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s1437e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437e%2Fa
-[/us/pl/102/550/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs112
-[/us/pl/102/550/s682/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs682%2Fa
-[/us/pl/102/550/s113/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fe%2F1%2FC
-[/us/pl/102/550/s113/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fe%2F1%2FA
-[/us/pl/102/550/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fa%2F2
-[/us/pl/102/550/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fa%2F1
-[/us/pl/102/550/s113/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fe%2F2
-[/us/pl/102/550/s113/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fb%2F5
-[/us/pl/102/550/s113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fb%2F1
-[/us/pl/102/550/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fb%2F2
-[/us/pl/102/550/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fc
-[/us/pl/102/550/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs113%2Fd
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
 [/us/usc/t42/s1437d/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj%2F1
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
-[/us/pl/101/625/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs501
-[/us/pl/101/625/s572/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F1
-[/us/pl/101/625/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs502%2Fc%2F1
-[/us/pl/101/625/s572/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs572%2F2
-[/us/pl/101/625/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs502%2Fa
-[/us/pl/101/625/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs503%2Fa
-[/us/pl/101/625/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs504
-[/us/pl/101/625/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs503%2Fb
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144
-[/us/pl/100/242/s170/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs170%2Fd%2F1
-[/us/pl/100/242/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs112%2Fb%2F2
-[/us/pl/100/242/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs112%2Fb%2F2
-[/us/pl/100/628/s1014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1014%2Fa%2F1
-[/us/pl/100/628/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1001%2Fb
-[/us/pl/100/242/s170/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs170%2Fd%2F2
-[/us/pl/100/242/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs112%2Fb%2F2
-[/us/pl/100/242/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs112%2Fb%2F2
-[/us/pl/100/242/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs116
-[/us/pl/100/242/s170/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs170%2Fd%2F3
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F160
-[/us/pl/98/479/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fb%2F1
-[/us/pl/98/479/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F4
-[/us/pl/98/479/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs102%2Fb%2F5
-[/us/pl/98/181/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs203%2Fa
-[/us/pl/98/181/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs214%2Fb
-[/us/pl/98/181/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs201%2Fc
-[/us/pl/98/181/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs204
-[/us/pl/98/181/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs205
-[/us/pl/97/35/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fc
-[/us/pl/97/35/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fc
-[/us/pl/97/35/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs322%2Fc
-[/us/pl/96/399/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs201%2Fc
-[/us/pl/96/399/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs201%2Fe
-[/us/pl/96/399/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs202%2Fc
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
@@ -1368,18 +1368,18 @@
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s514/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fg
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
-[/us/pl/105/276/s565/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2631
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s565/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fe
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2632
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/104/120/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs13
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F845
 [/us/usc/t42/s1490p–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490p%E2%80%932
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
@@ -1391,55 +1391,55 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/105/276/s565/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs565%2Fd
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2632
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/101/625/s502/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs502%2Fc%2F2
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4184
-[/us/pl/102/550/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs130
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3712
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/103/233/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Fc
 [/us/pl/103/233/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs101%2Ff
 [/us/usc/t12/s1701z–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%9311
-[/us/pl/102/550/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs104
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3684
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/101/625/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs503%2Fc
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4185
-[/us/pl/113/4/s601/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs601%2Fb%2F3
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F108
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/stat/119/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2960
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
-[/us/pl/105/276/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs563
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2624
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t42/s1437d/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fj
-[/us/pl/104/99/s402/d/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F6%2FD
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F43
 [/us/pl/104/99/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402
-[/us/pl/105/276/s514/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs514%2Fb%2F2%2FD
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2548
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs626
 [/us/usc/t42/s1437a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a
-[/us/pl/101/625/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs502%2Fb
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4183
-[/us/pl/101/625/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs503%2Fd
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4185
 [/us/usc/t42/s1437d/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fk
-[/us/pl/100/690/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5103
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4300
 [/us/usc/t42/s1437d/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fk
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/100/628/s1014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1014%2Fa%2F2
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3269
 [/us/usc/t42/s1437aa/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aa%2Fb%2F2
-[/us/pl/95/128/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs201%2Fg
+[/us/pl/95/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtII
 [/us/stat/91/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1129
 
 

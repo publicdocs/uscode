@@ -77,7 +77,7 @@
 
             If final regulations have not been issued pursuant to this section, a private entity shall be considered to have complied with the requirements of this subchapter, if any, that a vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under [section 12204(a) of this title][/us/usc/t42/s12204/a]) governing accessibility of such vehicles or cars, to the extent that such laws and regulations are not inconsistent with this subchapter and are in effect at the time such design is substantially completed.
 
-([Pub. L. 101–336, title III, § 306][/us/pl/101/336/s306], July 26, 1990, [104 Stat. 361][/us/stat/104/361]; [Pub. L. 104–59, title III, § 341][/us/pl/104/59/s341], Nov. 28, 1995, [109 Stat. 608][/us/stat/109/608].)
+([Pub. L. 101–336, title III][/us/pl/101/336/tIII], § 306, July 26, 1990, [104 Stat. 361][/us/stat/104/361]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 341, Nov. 28, 1995, [109 Stat. 608][/us/stat/109/608].)
 
  __Amendments__ 
 
@@ -104,9 +104,9 @@
 [/us/usc/t42/s12183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12183
 [/us/usc/t42/s12204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12204%2Fa
 [/us/usc/t42/s12204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12204%2Fa
-[/us/pl/101/336/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs306
+[/us/pl/101/336/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIII
 [/us/stat/104/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F361
-[/us/pl/104/59/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs341
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F608
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/101/336/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs310%2Fc

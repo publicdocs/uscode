@@ -27,7 +27,7 @@
 
         Training for employees of community development corporations and for employees and members of urban and rural cooperatives shall include on-the-job training, classroom instruction, and scholarships to assist them in development, managerial, entrepreneurial, planning, and other technical and organizational skills which will contribute to the effectiveness of programs assisted under this subchapter.
 
-([Pub. L. 97–35, title VI, § 625][/us/pl/97/35/s625], Aug. 13, 1981, [95 Stat. 496][/us/stat/95/496].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 625, Aug. 13, 1981, [95 Stat. 496][/us/stat/95/496].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs625
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F496
 
 

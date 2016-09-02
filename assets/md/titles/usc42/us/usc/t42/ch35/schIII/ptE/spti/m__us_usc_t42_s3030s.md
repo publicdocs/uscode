@@ -41,7 +41,7 @@
 
         (2) for grandparents or older individuals who are relative caregivers, the State involved shall give priority to caregivers who provide care for children with severe disabilities.
 
-([Pub. L. 89–73, title III, § 372][/us/pl/89/73/s372], as added [Pub. L. 106–501, title III, § 316(2)][/us/pl/106/501/s316/2], Nov. 13, 2000, [114 Stat. 2254][/us/stat/114/2254]; amended [Pub. L. 109–365, title III, § 320][/us/pl/109/365/s320], Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 372, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 316(2), Nov. 13, 2000, [114 Stat. 2254][/us/stat/114/2254]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 320, Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551].)
 
  __Amendments__ 
 
@@ -58,10 +58,10 @@
 ----------
 ----------
 
-[/us/pl/89/73/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs372
-[/us/pl/106/501/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs316%2F2
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2254
-[/us/pl/109/365/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs320
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2551
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/89/73/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs371

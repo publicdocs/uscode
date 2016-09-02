@@ -17,7 +17,7 @@
 
     The expungement requirements under [section 14132(d) of this title][/us/usc/t42/s14132/d] shall apply to any DNA profile or DNA data collected pursuant to sections 14137 to 14137c of this title for purposes of inclusion in the National DNA Index System.
 
-([Pub. L. 112–253, § 4][/us/pl/112/253/s4], Jan. 10, 2013, [126 Stat. 2408][/us/stat/126/2408].)
+([Pub. L. 112–253][/us/pl/112/253], § 4, Jan. 10, 2013, [126 Stat. 2408][/us/stat/126/2408].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s14132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14132%2Fd
-[/us/pl/112/253/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253%2Fs4
+[/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2408
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2407

@@ -17,7 +17,7 @@
 
     The Secretary may accelerate feasibility studies authorized by law when and to the extent that the costs of such studies shall have been advanced by non-Federal sources.
 
-([Pub. L. 89–561, § 5][/us/pl/89/561/s5], Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714].)
+([Pub. L. 89–561][/us/pl/89/561], § 5, Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/561/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561%2Fs5
+[/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 [/us/stat/80/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F714
 
 

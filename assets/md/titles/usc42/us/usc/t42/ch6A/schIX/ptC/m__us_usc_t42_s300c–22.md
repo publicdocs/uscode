@@ -39,11 +39,11 @@
 
         For the purpose of making payments under grants and contracts under subsections (a) and (b) of this section, there are authorized to be appropriated $4,000,000 for fiscal year 1976, $5,000,000 for the fiscal year ending September 30, 1977, $3,450,000 for the fiscal year ending September 30, 1978, $2,500,000 for the fiscal year ending September 30, 1979, $3,000,000 for the fiscal year ending September 30, 1980, and $3,500,000 for the fiscal year ending September 30, 1981.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1132, as added [Pub. L. 94–63, title VI, § 606][/us/pl/94/63/s606], July 29, 1975, [89 Stat. 351][/us/stat/89/351]; amended [Pub. L. 95–83, title III, § 306(c)][/us/pl/95/83/s306/c], Aug. 1, 1977, [91 Stat. 389][/us/stat/91/389]; [Pub. L. 95–626, title II, § 206(b)][/us/pl/95/626/s206/b], Nov. 10, 1978, [92 Stat. 3584][/us/stat/92/3584].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1132, as added [Pub. L. 94–63, title VI][/us/pl/94/63/tVI], § 606, July 29, 1975, [89 Stat. 351][/us/stat/89/351]; amended [Pub. L. 95–83, title III][/us/pl/95/83/tIII], § 306(c), Aug. 1, 1977, [91 Stat. 389][/us/stat/91/389]; [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 206(b), Nov. 10, 1978, [92 Stat. 3584][/us/stat/92/3584].)
 
  __Codification__ 
 
-    In subsec. (d), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]; [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Ricky Ray Hemophilia Relief Fund__ 
 
-[Pub. L. 105–369][/us/pl/105/369], Nov. 12, 1998, [112 Stat. 3368][/us/stat/112/3368], as amended by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 932\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585, provided that:
+[Pub. L. 105–369][/us/pl/105/369], Nov. 12, 1998, [112 Stat. 3368][/us/stat/112/3368], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 932\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585, provided that:
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
@@ -296,18 +296,18 @@
 
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/63/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs606
+[/us/pl/94/63/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtVI
 [/us/stat/89/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F351
-[/us/pl/95/83/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs306%2Fc
+[/us/pl/95/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtIII
 [/us/stat/91/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F389
-[/us/pl/95/626/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs206%2Fb
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3584
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
@@ -315,7 +315,7 @@
 [/us/usc/t42/s247b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b
 [/us/pl/105/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F369
 [/us/stat/112/3368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3368
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
 [/us/usc/t31/s3803/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fc%2F2%2FC

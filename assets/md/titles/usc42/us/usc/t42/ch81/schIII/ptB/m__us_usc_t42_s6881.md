@@ -115,7 +115,7 @@
 
         (3) The terms “energy audit”, “energy conservation measure”, “renewable-resource energy measure”, “building”, and “industrial plant” have the meanings prescribed for such terms in [section 6326 of this title][/us/usc/t42/s6326].
 
-([Pub. L. 94–385, title IV, § 451][/us/pl/94/385/s451], Aug. 14, 1976, [90 Stat. 1165][/us/stat/90/1165]; [Pub. L. 95–70, § 5][/us/pl/95/70/s5], July 21, 1977, [91 Stat. 277][/us/stat/91/277]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 104–316, title I, § 122(q)][/us/pl/104/316/s122/q], Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 451, Aug. 14, 1976, [90 Stat. 1165][/us/stat/90/1165]; [Pub. L. 95–70][/us/pl/95/70], § 5, July 21, 1977, [91 Stat. 277][/us/stat/91/277]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 122(q), Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838].)
 
  __References in Text__ 
 
@@ -125,7 +125,7 @@
 
  __Codification__ 
 
-    In subsec. (h), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 276c of title 40][/us/usc/t40/s276c], United States Code”, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (h), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 276c of title 40][/us/usc/t40/s276c], United States Code”, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
     In subsec. (i)(1), “The term ‘Secretary’ means the Secretary of Energy” substituted for “The term ‘Administrator’ means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this part” in view of termination of Federal Energy Administration and transfer of its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy pursuant to sections 301(a), 703, and 707 of [Pub. L. 95–91][/us/pl/95/91], which are classified to sections 7151(a), 7293, and 7297 of this title.
 
@@ -149,13 +149,13 @@
 [/us/usc/t42/s6325/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6325%2Fe%2F1
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t42/s6326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6326
-[/us/pl/94/385/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs451
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1165
-[/us/pl/95/70/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70%2Fs5
+[/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
 [/us/stat/91/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F277
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/104/316/s122/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs122%2Fq
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3838
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
@@ -164,7 +164,7 @@
 [/us/usc/t42/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6801
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

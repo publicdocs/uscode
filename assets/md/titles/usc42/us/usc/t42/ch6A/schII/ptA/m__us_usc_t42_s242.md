@@ -19,7 +19,7 @@
 
     (b) The Surgeon General shall cooperate with States for the purpose of aiding them to solve their narcotic drug problems and shall give authorized representatives of the States the benefit of his experience in the care, treatment, and rehabilitation of narcotic addicts to the end that each State may be encouraged to provide adequate facilities and methods for the care and treatment of its narcotic addicts.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 302, [58 Stat. 692][/us/stat/58/692]; [Pub. L. 91–513, title II, § 701(j)][/us/pl/91/513/s701/j], Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 302, [58 Stat. 692][/us/stat/58/692]; [Pub. L. 91–513, title II][/us/pl/91/513/tII], § 701(j), Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Marihuana and Health Reporting__ 
 
-    [Pub. L. 91–296, title V][/us/pl/91/296], June 30, 1970, [84 Stat. 352][/us/stat/84/352], as amended by [Pub. L. 95–461, § 3(a)][/us/pl/95/461/s3/a], Oct. 14, 1978, [92 Stat. 1268][/us/stat/92/1268]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], known as the Marihuana and Health Reporting Act, which required the Secretary of Health and Human Services, after consultation with the Surgeon General and other appropriate individuals, to transmit a report to the Congress on or before January 31, 1971, and biennially thereafter (1) containing current information on the health consequences of using marihuana, and (2) containing such recommendations for legislative and administrative action as he may deem appropriate, was repealed by [Pub. L. 98–24, § 2(d)][/us/pl/98/24/s2/d], Apr. 26, 1983, [97 Stat. 182][/us/stat/97/182].
+    [Pub. L. 91–296, title V][/us/pl/91/296/tV], June 30, 1970, [84 Stat. 352][/us/stat/84/352], as amended by [Pub. L. 95–461][/us/pl/95/461], § 3(a), Oct. 14, 1978, [92 Stat. 1268][/us/stat/92/1268]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], known as the Marihuana and Health Reporting Act, which required the Secretary of Health and Human Services, after consultation with the Surgeon General and other appropriate individuals, to transmit a report to the Congress on or before January 31, 1971, and biennially thereafter (1) containing current information on the health consequences of using marihuana, and (2) containing such recommendations for legislative and administrative action as he may deem appropriate, was repealed by [Pub. L. 98–24][/us/pl/98/24], § 2(d), Apr. 26, 1983, [97 Stat. 182][/us/stat/97/182].
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F692
-[/us/pl/91/513/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs701%2Fj
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1282
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
@@ -78,13 +78,13 @@
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/91/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296
+[/us/pl/91/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtV
 [/us/stat/84/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F352
-[/us/pl/95/461/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F461%2Fs3%2Fa
+[/us/pl/95/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F461
 [/us/stat/92/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1268
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/98/24/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fd
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F182
 
 

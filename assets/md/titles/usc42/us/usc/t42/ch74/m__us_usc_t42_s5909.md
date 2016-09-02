@@ -31,7 +31,7 @@
 
         (5) the Act of June 19, 1936, chapter 592 ([15 U.S.C. 13][/us/usc/t15/s13], 13a, 13b, and 21a).
 
-([Pub. L. 93–577, § 10][/us/pl/93/577/s10], Dec. 31, 1974, [88 Stat. 1891][/us/stat/88/1891].)
+([Pub. L. 93–577][/us/pl/93/577], § 10, Dec. 31, 1974, [88 Stat. 1891][/us/stat/88/1891].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
-[/us/pl/93/577/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs10
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1891
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F209

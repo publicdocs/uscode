@@ -111,7 +111,7 @@
 
         (6) Any appropriations made available to the Waste Fund for any purpose described in subsection (d) of this section shall be repaid into the general fund of the Treasury, together with interest from the date of availability of the appropriations until the date of repayment. Such interest shall be paid on the cumulative amount of appropriations available to the Waste Fund, less the average undisbursed cash balance in the Waste Fund account during the fiscal year involved. The rate of such interest shall be determined by the Secretary of the Treasury taking into consideration the average market yield during the month preceding each fiscal year on outstanding marketable obligations of the United States of comparable maturity. Interest payments may be deferred with the approval of the Secretary of the Treasury, but any interest payments so deferred shall themselves bear interest.
 
-([Pub. L. 97–425, title III, § 302][/us/pl/97/425/s302], Jan. 7, 1983, [96 Stat. 2257][/us/stat/96/2257].)
+([Pub. L. 97–425, title III][/us/pl/97/425/tIII], § 302, Jan. 7, 1983, [96 Stat. 2257][/us/stat/96/2257].)
 
  __References in Text__ 
 
@@ -134,7 +134,7 @@
 
 [/us/usc/t42/s10143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10143
 [/us/usc/t42/s6421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6421
-[/us/pl/97/425/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs302
+[/us/pl/97/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtIII
 [/us/stat/96/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2257
 [/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425

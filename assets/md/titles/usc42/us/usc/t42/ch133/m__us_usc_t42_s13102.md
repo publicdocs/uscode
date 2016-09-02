@@ -43,7 +43,7 @@
 
     (7) The term “SIC codes” refers to the 2-digit code numbers used for classification of economic activity in the Standard Industrial Classification Manual.
 
-([Pub. L. 101–508, title VI, § 6603][/us/pl/101/508/s6603], Nov. 5, 1990, [104 Stat. 1388–321][/us/stat/104/1388-321].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6603, Nov. 5, 1990, [104 Stat. 1388–321][/us/stat/104/1388-321].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s11023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11023%2Fc
 [/us/usc/t42/s11049/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11049%2F8
-[/us/pl/101/508/s6603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6603
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-321
 
 

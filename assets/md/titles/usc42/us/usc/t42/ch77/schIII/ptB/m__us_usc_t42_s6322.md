@@ -153,29 +153,29 @@
 
         The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e) of this section. Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
 
-([Pub. L. 94–163, title III, § 362][/us/pl/94/163/s362], Dec. 22, 1975, [89 Stat. 933][/us/stat/89/933]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440][/us/pl/101/440], §§ 3(a), 4(a), (b), Oct. 18, 1990, [104 Stat. 1006–1008][/us/stat/104/1006-1008]; [Pub. L. 102–486, title I, § 141(b)][/us/pl/102/486/s141/b], (c)(1), Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841]; [Pub. L. 105–244, title I, § 102(a)(13)(E)][/us/pl/105/244/s102/a/13/E], Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 105–388, § 5(a)(8)][/us/pl/105/388/s5/a/8], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 123(a)][/us/pl/109/58/s123/a], Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 362, Dec. 22, 1975, [89 Stat. 933][/us/stat/89/933]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 101–440][/us/pl/101/440], §§ 3(a), 4(a), (b), Oct. 18, 1990, [104 Stat. 1006–1008][/us/stat/104/1006-1008]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 141(b), (c)(1), Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(E), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(8), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 123(a), Aug. 8, 2005, [119 Stat. 616][/us/stat/119/616].)
 
  __Amendments__ 
 
     2005—Subsec. (g). [Pub. L. 109–58][/us/pl/109/58] added subsec. (g).
 
-    1998—Subsec. (a)(1). [Pub. L. 105–388, § 5(a)(8)(A)][/us/pl/105/388/s5/a/8/A], inserted “of” after “of the implementation”.
+    1998—Subsec. (a)(1). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(8)(A), inserted “of” after “of the implementation”.
 
-    Subsec. (d)(12). [Pub. L. 105–388, § 5(a)(8)(B)][/us/pl/105/388/s5/a/8/B], substituted “subsection (f)(2)” for “subsection (g)”.
+    Subsec. (d)(12). [Pub. L. 105–388][/us/pl/105/388], § 5(a)(8)(B), substituted “subsection (f)(2)” for “subsection (g)”.
 
     Subsec. (f)(5)(A). [Pub. L. 105–244][/us/pl/105/244] substituted “section 1001” for “section 1141(a)”.
 
-    1992—Subsec. (c)(5). [Pub. L. 102–486, § 141(c)(1)][/us/pl/102/486/s141/c/1], substituted “and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and” for “; and”.
+    1992—Subsec. (c)(5). [Pub. L. 102–486][/us/pl/102/486], § 141(c)(1), substituted “and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and” for “; and”.
 
-    Subsec. (d)(13) to (17). [Pub. L. 102–486, § 141(b)][/us/pl/102/486/s141/b], added pars. (13) to (16) and redesignated former par. (13) as (17).
+    Subsec. (d)(13) to (17). [Pub. L. 102–486][/us/pl/102/486], § 141(b), added pars. (13) to (16) and redesignated former par. (13) as (17).
 
-    1990—Subsec. (c)(6). [Pub. L. 101–440, § 3(a)][/us/pl/101/440/s3/a], added par. (6).
+    1990—Subsec. (c)(6). [Pub. L. 101–440][/us/pl/101/440], § 3(a), added par. (6).
 
-    Subsec. (d)(3). [Pub. L. 101–440, § 4(a)(1)][/us/pl/101/440/s4/a/1], added par. (3) and struck out former par. (3) which read as follows: “transportation controls;”.
+    Subsec. (d)(3). [Pub. L. 101–440][/us/pl/101/440], § 4(a)(1), added par. (3) and struck out former par. (3) which read as follows: “transportation controls;”.
 
-    Subsec. (d)(5) to (13). [Pub. L. 101–440, § 4(a)(3)][/us/pl/101/440/s4/a/3], added pars. (5) to (13) and struck out former par. (5) which read as follows: “any other appropriate method or programs to conserve and to improve efficiency in the use of energy.”
+    Subsec. (d)(5) to (13). [Pub. L. 101–440][/us/pl/101/440], § 4(a)(3), added pars. (5) to (13) and struck out former par. (5) which read as follows: “any other appropriate method or programs to conserve and to improve efficiency in the use of energy.”
 
-    Subsec. (f). [Pub. L. 101–440, § 4(b)][/us/pl/101/440/s4/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–440][/us/pl/101/440], § 4(b), added subsec. (f).
 
     1978—Subsecs. (a), (b), (e). [Pub. L. 95–619][/us/pl/95/619] substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
@@ -185,13 +185,13 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title I, § 141(c)(2)][/us/pl/102/486/s141/c/2], Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841], provided that: 
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 141(c)(2), Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1995.”
 
  __Study Regarding Impact of Permitting Right and Left Turns on Red Lights__ 
 
-[Pub. L. 102–486, title I, § 141(d)][/us/pl/102/486/s141/d], Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841], provided that:
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 141(d), Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841], provided that:
 
 >     “(1)  __In General__  __.—__ 
 
@@ -211,38 +211,38 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/94/163/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs362
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F933
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
 [/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1006-1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1006-1008
-[/us/pl/102/486/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs141%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2841
-[/us/pl/105/244/s102/a/13/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F13%2FE
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1620
-[/us/pl/105/388/s5/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F8
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
-[/us/pl/109/58/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs123%2Fa
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F616
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/105/388/s5/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F8%2FA
-[/us/pl/105/388/s5/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F8%2FB
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/102/486/s141/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs141%2Fc%2F1
-[/us/pl/102/486/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs141%2Fb
-[/us/pl/101/440/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs3%2Fa
-[/us/pl/101/440/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs4%2Fa%2F1
-[/us/pl/101/440/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs4%2Fa%2F3
-[/us/pl/101/440/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs4%2Fb
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/102/486/s141/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs141%2Fc%2F2
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2841
-[/us/pl/102/486/s141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs141%2Fd
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2841
 [/us/usc/t42/s6322/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6322%2Fc%2F5
 

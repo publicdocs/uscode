@@ -31,11 +31,11 @@
 
         The outcomes database shall make relevant scientific information not containing individually identifiable information available to the public in the form of summaries and data sets to encourage medical research and to provide information to transplant programs, physicians, patients, entities awarded a contract under [section 274k of this title][/us/usc/t42/s274k]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  donor registries, and cord blood banks.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 379A, as added [Pub. L. 105–196, § 3][/us/pl/105/196/s3], July 16, 1998, [112 Stat. 635][/us/stat/112/635]; amended [Pub. L. 109–129, § 3(b)][/us/pl/109/129/s3/b], Dec. 20, 2005, [119 Stat. 2561][/us/stat/119/2561].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 379A, as added [Pub. L. 105–196][/us/pl/105/196], § 3, July 16, 1998, [112 Stat. 635][/us/stat/112/635]; amended [Pub. L. 109–129][/us/pl/109/129], § 3(b), Dec. 20, 2005, [119 Stat. 2561][/us/stat/119/2561].)
 
  __Prior Provisions__ 
 
-    A prior section 274l, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 379A, as added [Pub. L. 101–616, title I, § 101(a)(2)][/us/pl/101/616/s101/a/2], Nov. 16, 1990, [104 Stat. 3282][/us/stat/104/3282], related to study by General Accounting Office, prior to repeal by [Pub. L. 105–196][/us/pl/105/196], §§ 3, 7, July 16, 1998, [112 Stat. 635][/us/stat/112/635], 637, effective Oct. 1, 1998.
+    A prior section 274l, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 379A, as added [Pub. L. 101–616, title I][/us/pl/101/616/tI], § 101(a)(2), Nov. 16, 1990, [104 Stat. 3282][/us/stat/104/3282], related to study by General Accounting Office, prior to repeal by [Pub. L. 105–196][/us/pl/105/196], §§ 3, 7, July 16, 1998, [112 Stat. 635][/us/stat/112/635], 637, effective Oct. 1, 1998.
 
  __Amendments__ 
 
@@ -54,12 +54,12 @@
 
 [/us/usc/t42/s274k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/196/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196%2Fs3
+[/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
 [/us/stat/112/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F635
-[/us/pl/109/129/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129%2Fs3%2Fb
+[/us/pl/109/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F129
 [/us/stat/119/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2561
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/616/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs101%2Fa%2F2
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/101/616/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2FtI
 [/us/stat/104/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3282
 [/us/pl/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F196
 [/us/stat/112/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F635

@@ -33,7 +33,7 @@
 
         The Secretary of Energy, after consultation with the Director, shall consult with the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Transportation, the Secretary of Commerce, the Administrator of the Community Services Administration, the Administrator of the Environmental Protection Agency, or their appointed representatives, in order to coordinate the programs under the Director’s responsibility with other programs within the Department of Energy and in such Federal agencies, which are related to the production of alcohol.
 
-([Pub. L. 96–294, title II, § 220][/us/pl/96/294/s220], June 30, 1980, [94 Stat. 696][/us/stat/94/696].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 220, June 30, 1980, [94 Stat. 696][/us/stat/94/696].)
 
  __Community Services Administration__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/96/294/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs220
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F696
 [/us/usc/t42/s2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2941
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452

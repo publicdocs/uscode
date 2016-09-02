@@ -35,7 +35,7 @@
 
         It shall be unlawful for any officer or employee of the Commission to make public in any manner whatever any information obtained by the Commission pursuant to its authority under this section prior to the institution of any proceeding under this subchapter involving such information. Any officer or employee of the Commission who shall make public in any manner whatever any information in violation of this subsection shall be guilty, of a misdemeanor and upon conviction thereof, shall be fined not more than $1,000, or imprisoned not more than one year.
 
-([Pub. L. 88–352, title VII, § 709][/us/pl/88/352/s709], July 2, 1964, [78 Stat. 262][/us/stat/78/262]; [Pub. L. 92–261, § 6][/us/pl/92/261/s6], Mar. 24, 1972, [86 Stat. 107][/us/stat/86/107].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 709, July 2, 1964, [78 Stat. 262][/us/stat/78/262]; [Pub. L. 92–261][/us/pl/92/261], § 6, Mar. 24, 1972, [86 Stat. 107][/us/stat/86/107].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
-[/us/pl/88/352/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs709
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F262
-[/us/pl/92/261/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs6
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F107
 [/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935

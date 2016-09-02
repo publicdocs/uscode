@@ -27,7 +27,7 @@
 
     (5) the cost and energy saving characteristics of construction materials.
 
-([Pub. L. 96–294, title V, § 595][/us/pl/96/294/s595], June 30, 1980, [94 Stat. 762][/us/stat/94/762].)
+([Pub. L. 96–294, title V][/us/pl/96/294/tV], § 595, June 30, 1980, [94 Stat. 762][/us/stat/94/762].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs595
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F762
 
 

@@ -81,7 +81,7 @@
 
         Notwithstanding any other provision of law, the authority vested in the President under this section may not be delegated.
 
-([Pub. L. 96–102, title II, § 211][/us/pl/96/102/s211], Nov. 5, 1979, [93 Stat. 758][/us/stat/93/758].)
+([Pub. L. 96–102, title II][/us/pl/96/102/tII], § 211, Nov. 5, 1979, [93 Stat. 758][/us/stat/93/758].)
 
  __References in Text__ 
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/96/102/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs211
+[/us/pl/96/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2FtII
 [/us/stat/93/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F758
 [/us/usc/t15/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs753
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g

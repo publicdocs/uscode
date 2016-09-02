@@ -17,7 +17,7 @@
 
     Grants made under [section 3335 of this title][/us/usc/t42/s3335] for projects in any one State shall not exceed in the aggregate 15 per centum of the aggregate amount of funds authorized to be appropriated pursuant to [section 3336(b) of this title][/us/usc/t42/s3336/b].
 
-([Pub. L. 89–754, title II, § 209][/us/pl/89/754/s209], Nov. 3, 1966, [80 Stat. 1266][/us/stat/80/1266].)
+([Pub. L. 89–754, title II][/us/pl/89/754/tII], § 209, Nov. 3, 1966, [80 Stat. 1266][/us/stat/80/1266].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t42/s3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3335
 [/us/usc/t42/s3336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3336%2Fb
-[/us/pl/89/754/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs209
+[/us/pl/89/754/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtII
 [/us/stat/80/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1266
 
 

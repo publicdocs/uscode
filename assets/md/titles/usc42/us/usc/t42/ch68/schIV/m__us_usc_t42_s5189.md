@@ -49,19 +49,19 @@
 
             Not later than 3 years after the date on which the Administrator establishes a threshold under paragraph (2), and every 3 years thereafter, the President, acting through the Administrator, shall review the threshold for eligibility under this section.
 
-([Pub. L. 93–288, title IV, § 422][/us/pl/93/288/s422], as added [Pub. L. 100–707, title I, § 106(k)][/us/pl/100/707/s106/k], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; amended [Pub. L. 113–2, div. B, § 1107][/us/pl/113/2/s1107], Jan. 29, 2013, [127 Stat. 46][/us/stat/127/46].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 422, as added [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(k), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; amended [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1107, Jan. 29, 2013, [127 Stat. 46][/us/stat/127/46].)
 
  __Prior Provisions__ 
 
-    A prior section 5189, [Pub. L. 93–288, title IV, § 419][/us/pl/93/288/s419], May 22, 1974, [88 Stat. 159][/us/stat/88/159], related to alternate contributions, prior to repeal by [Pub. L. 100–707, § 106(k)][/us/pl/100/707/s106/k].
+    A prior section 5189, [Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 419, May 22, 1974, [88 Stat. 159][/us/stat/88/159], related to alternate contributions, prior to repeal by [Pub. L. 100–707][/us/pl/100/707], § 106(k).
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–2, § 1107(3)][/us/pl/113/2/s1107/3], which directed insertion of “or, if applicable, the amount established under subsection (b),” after “$35,000 amount” the second place appearing, was executed by making the insertion after “$35,000 amount” the only place that phrase appeared, to reflect the probable intent of Congress.
+    2013—Subsec. (a). [Pub. L. 113–2][/us/pl/113/2], § 1107(3), which directed insertion of “or, if applicable, the amount established under subsection (b),” after “$35,000 amount” the second place appearing, was executed by making the insertion after “$35,000 amount” the only place that phrase appeared, to reflect the probable intent of Congress.
 
-    [Pub. L. 113–2, § 1107(1)][/us/pl/113/2/s1107/1], (2), designated existing provisions as subsec. (a), inserted heading, and inserted “(or, if the Administrator has established a threshold under subsection (b), the amount established under subsection (b))” after “less than $35,000” in concluding provisions.
+    [Pub. L. 113–2][/us/pl/113/2], § 1107(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted “(or, if the Administrator has established a threshold under subsection (b), the amount established under subsection (b))” after “less than $35,000” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 113–2, § 1107(4)][/us/pl/113/2/s1107/4], added subsec. (b).
+    Subsec. (b). [Pub. L. 113–2][/us/pl/113/2], § 1107(4), added subsec. (b).
 
 ----------
 
@@ -72,16 +72,16 @@
 
 [/us/usc/t42/s5172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5172
 [/us/usc/t42/s5173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5173
-[/us/pl/93/288/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs422
-[/us/pl/100/707/s106/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fk
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
-[/us/pl/113/2/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1107
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F46
-[/us/pl/93/288/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs419
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F159
-[/us/pl/100/707/s106/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fk
-[/us/pl/113/2/s1107/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1107%2F3
-[/us/pl/113/2/s1107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1107%2F1
-[/us/pl/113/2/s1107/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1107%2F4
+[/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
+[/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
 
 

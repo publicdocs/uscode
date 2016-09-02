@@ -137,27 +137,27 @@
 
             The amounts appropriated pursuant to paragraph (1) shall remain available for obligation through the end of fiscal year 2015.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340A, as added [Pub. L. 109–18, § 2][/us/pl/109/18/s2], June 29, 2005, [119 Stat. 340][/us/stat/119/340]; amended [Pub. L. 111–148, title III, § 3510][/us/pl/111/148/s3510], Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340A, as added [Pub. L. 109–18][/us/pl/109/18], § 2, June 29, 2005, [119 Stat. 340][/us/stat/119/340]; amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3510, Mar. 23, 2010, [124 Stat. 537][/us/stat/124/537].)
 
  __Prior Provisions__ 
 
-    A prior section 256a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340A, as added Nov. 6, 1990, [Pub. L. 101–527, § 3][/us/pl/101/527/s3], [104 Stat. 2314][/us/stat/104/2314]; amended Oct. 27, 1992, [Pub. L. 102–531, title III, § 309(d)][/us/pl/102/531/s309/d], [106 Stat. 3502][/us/stat/106/3502], related to health services for residents of public housing, prior to repeal by [Pub. L. 104–299][/us/pl/104/299], §§ 4(a)(3), 5, Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645], effective Oct. 1, 1996.
+    A prior section 256a, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 340A, as added Nov. 6, 1990, [Pub. L. 101–527][/us/pl/101/527], § 3, [104 Stat. 2314][/us/stat/104/2314]; amended Oct. 27, 1992, [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 309(d), [106 Stat. 3502][/us/stat/106/3502], related to health services for residents of public housing, prior to repeal by [Pub. L. 104–299][/us/pl/104/299], §§ 4(a)(3), 5, Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645], effective Oct. 1, 1996.
 
-    Another prior section 256a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340A, as added Nov. 10, 1978, [Pub. L. 95–626, title I, § 106(a)][/us/pl/95/626/s106/a], [92 Stat. 3560][/us/stat/92/3560], related to technical assistance demonstration grants and contracts, prior to repeal by [Pub. L. 100–77, title VI, § 601][/us/pl/100/77/s601], July 22, 1987, [101 Stat. 511][/us/stat/101/511].
+    Another prior section 256a, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 340A, as added Nov. 10, 1978, [Pub. L. 95–626, title I][/us/pl/95/626/tI], § 106(a), [92 Stat. 3560][/us/stat/92/3560], related to technical assistance demonstration grants and contracts, prior to repeal by [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 601, July 22, 1987, [101 Stat. 511][/us/stat/101/511].
 
  __Amendments__ 
 
-    2010—Subsec. (d)(3). [Pub. L. 111–148, § 3510(1)][/us/pl/111/148/s3510/1], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In carrying out this section, the Secretary—
+    2010—Subsec. (d)(3). [Pub. L. 111–148][/us/pl/111/148], § 3510(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In carrying out this section, the Secretary—
 
     “(A) shall ensure that the total period of a grant does not exceed 4 years; and
 
     “(B) may not authorize any grant period ending after September 30, 2010.”
 
-    Subsec. (e)(3). [Pub. L. 111–148, § 3510(2)][/us/pl/111/148/s3510/2], added par. (3).
+    Subsec. (e)(3). [Pub. L. 111–148][/us/pl/111/148], § 3510(2), added par. (3).
 
-    Subsec. (m)(1). [Pub. L. 111–148, § 3510(3)(A)][/us/pl/111/148/s3510/3/A], substituted “$3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015” for “and $3,500,000 for fiscal year 2010”.
+    Subsec. (m)(1). [Pub. L. 111–148][/us/pl/111/148], § 3510(3)(A), substituted “$3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015” for “and $3,500,000 for fiscal year 2010”.
 
-    Subsec. (m)(2). [Pub. L. 111–148, § 3510(3)(B)][/us/pl/111/148/s3510/3/B], substituted “2015” for “2010”.
+    Subsec. (m)(2). [Pub. L. 111–148][/us/pl/111/148], § 3510(3)(B), substituted “2015” for “2010”.
 
 ----------
 
@@ -168,25 +168,25 @@
 
 [/us/usc/t42/s1395x/aa/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F18%2Fs2
+[/us/pl/109/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F18
 [/us/stat/119/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F340
-[/us/pl/111/148/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3510
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F537
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/527/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527%2Fs3
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/101/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F527
 [/us/stat/104/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2314
-[/us/pl/102/531/s309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs309%2Fd
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3502
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/626/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs106%2Fa
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3560
-[/us/pl/100/77/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs601
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F511
-[/us/pl/111/148/s3510/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3510%2F1
-[/us/pl/111/148/s3510/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3510%2F2
-[/us/pl/111/148/s3510/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3510%2F3%2FA
-[/us/pl/111/148/s3510/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3510%2F3%2FB
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

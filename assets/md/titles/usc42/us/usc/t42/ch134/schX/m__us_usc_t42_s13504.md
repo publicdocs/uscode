@@ -87,11 +87,11 @@
 
         There are authorized to be appropriated such sums as may be necessary, to be derived from [section 13503(e) of this title][/us/usc/t42/s13503/e] and the Environmental Restoration and Waste Management program, to carry out the purposes of this section.
 
-([Pub. L. 102–486, title XXII, § 2204][/us/pl/102/486/s2204], Oct. 24, 1992, [106 Stat. 3089][/us/stat/106/3089].)
+([Pub. L. 102–486, title XXII][/us/pl/102/486/tXXII], § 2204, Oct. 24, 1992, [106 Stat. 3089][/us/stat/106/3089].)
 
  __References in Text__ 
 
-    Sections 1070d through 1070d–1d of title 20, referred to in subsec. (a), and [section 1070d of title 20][/us/usc/t20/s1070d], referred to in subsec. (b)(1), were repealed by [Pub. L. 102–325, title IV, § 402(a)(1)][/us/pl/102/325/s402/a/1], July 23, 1992, [106 Stat. 482][/us/stat/106/482].
+    Sections 1070d through 1070d–1d of title 20, referred to in subsec. (a), and [section 1070d of title 20][/us/usc/t20/s1070d], referred to in subsec. (b)(1), were repealed by [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(1), July 23, 1992, [106 Stat. 482][/us/stat/106/482].
 
 ----------
 
@@ -102,10 +102,10 @@
 
 [/us/usc/t20/s1070d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070d
 [/us/usc/t42/s13503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13503%2Fe
-[/us/pl/102/486/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2204
+[/us/pl/102/486/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXII
 [/us/stat/106/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3089
 [/us/usc/t20/s1070d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070d
-[/us/pl/102/325/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F1
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F482
 
 

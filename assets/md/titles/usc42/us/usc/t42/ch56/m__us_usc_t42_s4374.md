@@ -25,7 +25,7 @@
 
     (d) $480,000 for each of the fiscal years ending September 30, 1985 and September 30, 1986.
 
-([Pub. L. 91–224, title II, § 205][/us/pl/91/224/s205], Apr. 3, 1970, [84 Stat. 115][/us/stat/84/115]; [Pub. L. 93–36][/us/pl/93/36], May 18, 1973, [87 Stat. 72][/us/stat/87/72]; [Pub. L. 94–52, § 1][/us/pl/94/52/s1], July 3, 1975, [89 Stat. 258][/us/stat/89/258]; [Pub. L. 94–298][/us/pl/94/298], May 29, 1976, [90 Stat. 587][/us/stat/90/587]; [Pub. L. 95–300][/us/pl/95/300], June 26, 1978, [92 Stat. 342][/us/stat/92/342]; [Pub. L. 97–350, § 1][/us/pl/97/350/s1], Oct. 18, 1982, [96 Stat. 1661][/us/stat/96/1661]; [Pub. L. 98–581, § 1][/us/pl/98/581/s1], Oct. 30, 1984, [98 Stat. 3093][/us/stat/98/3093].)
+([Pub. L. 91–224, title II][/us/pl/91/224/tII], § 205, Apr. 3, 1970, [84 Stat. 115][/us/stat/84/115]; [Pub. L. 93–36][/us/pl/93/36], May 18, 1973, [87 Stat. 72][/us/stat/87/72]; [Pub. L. 94–52][/us/pl/94/52], § 1, July 3, 1975, [89 Stat. 258][/us/stat/89/258]; [Pub. L. 94–298][/us/pl/94/298], May 29, 1976, [90 Stat. 587][/us/stat/90/587]; [Pub. L. 95–300][/us/pl/95/300], June 26, 1978, [92 Stat. 342][/us/stat/92/342]; [Pub. L. 97–350][/us/pl/97/350], § 1, Oct. 18, 1982, [96 Stat. 1661][/us/stat/96/1661]; [Pub. L. 98–581][/us/pl/98/581], § 1, Oct. 30, 1984, [98 Stat. 3093][/us/stat/98/3093].)
 
  __References in Text__ 
 
@@ -53,19 +53,19 @@
 ----------
 
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
-[/us/pl/91/224/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2Fs205
+[/us/pl/91/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224%2FtII
 [/us/stat/84/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F115
 [/us/pl/93/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F36
 [/us/stat/87/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F72
-[/us/pl/94/52/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F52%2Fs1
+[/us/pl/94/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F52
 [/us/stat/89/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F258
 [/us/pl/94/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F298
 [/us/stat/90/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F587
 [/us/pl/95/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F300
 [/us/stat/92/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F342
-[/us/pl/97/350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F350%2Fs1
+[/us/pl/97/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F350
 [/us/stat/96/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1661
-[/us/pl/98/581/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F581%2Fs1
+[/us/pl/98/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F581
 [/us/stat/98/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3093
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190

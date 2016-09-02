@@ -35,7 +35,7 @@
 
         The President shall conduct continuing evaluations of potential loss of shifts of employment which may result from the administration or enforcement of the provisions of this chapter, including, where appropriate, investigating threatened plant closures or reductions in employment allegedly resulting from such administration or enforcement. Any employee who is discharged, or laid off, threatened with discharge or layoff, or otherwise discriminated against by any person because of the alleged results of such administration or enforcement, or any representative of such employee, may request the President to conduct a full investigation of the matter and, at the request of any party, shall hold public hearings, require the parties, including the employer involved, to present information relating to the actual or potential effect of such administration or enforcement on employment and any alleged discharge, layoff, or other discrimination, and the detailed reasons or justification therefore. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Any such hearing shall be of record and shall be subject to [section 554 of title 5][/us/usc/t5/s554]. Upon receiving the report of such investigation, the President shall make findings of fact as to the effect of such administration or enforcement on employment and on the alleged discharge, layoff, or discrimination and shall make such recommendations as he deems appropriate. Such report, findings, and recommendations shall be available to the public. Nothing in this subsection shall be construed to require or authorize the President or any State to modify or withdraw any action, standard, limitation, or any other requirement of this chapter.
 
-([Pub. L. 96–510, title I, § 110][/us/pl/96/510/s110], Dec. 11, 1980, [94 Stat. 2787][/us/stat/94/2787].)
+([Pub. L. 96–510, title I][/us/pl/96/510/tI], § 110, Dec. 11, 1980, [94 Stat. 2787][/us/stat/94/2787].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/96/510/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs110
+[/us/pl/96/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtI
 [/us/stat/94/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2787
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

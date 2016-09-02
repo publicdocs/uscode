@@ -29,7 +29,7 @@
 
     (6) the potential economic, energy, social, environmental, and competitive implications, including implications for jobs, of implementing the policies necessary to enable the United States to comply with any obligations under the United Nations Framework Convention on Climate Change or subsequent international agreements.
 
-([Pub. L. 102–486, title XVI, § 1601][/us/pl/102/486/s1601], Oct. 24, 1992, [106 Stat. 2999][/us/stat/106/2999].)
+([Pub. L. 102–486, title XVI][/us/pl/102/486/tXVI], § 1601, Oct. 24, 1992, [106 Stat. 2999][/us/stat/106/2999].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1601
+[/us/pl/102/486/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVI
 [/us/stat/106/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2999
 
 

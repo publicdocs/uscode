@@ -73,7 +73,7 @@
 
             The term “financial record” has the meaning given such term in [section 3401 of title 12][/us/usc/t12/s3401].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 469A, as added [Pub. L. 104–193, title III, § 353][/us/pl/104/193/s353], Aug. 22, 1996, [110 Stat. 2240][/us/stat/110/2240]; amended [Pub. L. 105–200, title IV, § 406(c)][/us/pl/105/200/s406/c], July 16, 1998, [112 Stat. 672][/us/stat/112/672].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 469A, as added [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 353, Aug. 22, 1996, [110 Stat. 2240][/us/stat/110/2240]; amended [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 406(c), July 16, 1998, [112 Stat. 672][/us/stat/112/672].)
 
  __Amendments__ 
 
@@ -97,9 +97,9 @@
 [/us/usc/t12/s1786/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1786%2Fr
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs353
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2240
-[/us/pl/105/200/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs406%2Fc
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F672
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
 [/us/usc/t42/s666/a/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666%2Fa%2F17%2FA

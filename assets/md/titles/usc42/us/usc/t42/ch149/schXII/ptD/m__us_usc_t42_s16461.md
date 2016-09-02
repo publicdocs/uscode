@@ -17,7 +17,7 @@
 
     All books and records that relate primarily to the functions transferred to the Commission under this part shall be transferred from the Securities and Exchange Commission to the Commission.
 
-([Pub. L. 109–58, title XII, § 1273][/us/pl/109/58/s1273], Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1273, Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1273
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F977
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972

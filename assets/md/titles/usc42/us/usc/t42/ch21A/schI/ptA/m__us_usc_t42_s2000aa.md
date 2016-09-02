@@ -45,23 +45,23 @@
 
         In the event a search warrant is sought pursuant to paragraph (4)(B) of subsection (b) of this section, the person possessing the materials shall be afforded adequate opportunity to submit an affidavit setting forth the basis for any contention that the materials sought are not subject to seizure.
 
-([Pub. L. 96–440, title I, § 101][/us/pl/96/440/s101], Oct. 13, 1980, [94 Stat. 1879][/us/stat/94/1879]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[6\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–30.)
+([Pub. L. 96–440, title I][/us/pl/96/440/tI], § 101, Oct. 13, 1980, [94 Stat. 1879][/us/stat/94/1879]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 121\[6\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–30.)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–208, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[6(1)\]\], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
+    1996—Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 101(a) \[title I, § 121\[6(1)\]\], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
 
-    Subsec. (b)(1). [Pub. L. 104–208, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[6(2)\]\], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
+    Subsec. (b)(1). [Pub. L. 104–208][/us/pl/104/208], § 101(a) \[title I, § 121\[6(2)\]\], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
 
  __Effective Date__ 
 
-[Pub. L. 96–440, title I, § 108][/us/pl/96/440/s108], Oct. 13, 1980, [94 Stat. 1882][/us/stat/94/1882], provided that: 
+[Pub. L. 96–440, title I][/us/pl/96/440/tI], § 108, Oct. 13, 1980, [94 Stat. 1882][/us/stat/94/1882], provided that: 
 
 > “The provisions of this title \[enacting this subchapter\] shall become effective on January 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the provisions of this title shall become effective one year from the date of enactment of this Act \[Oct. 13, 1980\].”
 
  __Short Title__ 
 
-[Pub. L. 96–440, § 1][/us/pl/96/440/s1], Oct. 13, 1980, [94 Stat. 1879][/us/stat/94/1879], provided: 
+[Pub. L. 96–440][/us/pl/96/440], § 1, Oct. 13, 1980, [94 Stat. 1879][/us/stat/94/1879], provided: 
 
 > “That this Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Privacy Protection Act of 1980’.”
 
@@ -74,15 +74,15 @@
 
 [/us/usc/t50/s783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783
 [/us/usc/t50/s783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783
-[/us/pl/96/440/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs101
+[/us/pl/96/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2FtI
 [/us/stat/94/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1879
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
-[/us/pl/96/440/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs108
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/96/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2FtI
 [/us/stat/94/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1882
-[/us/pl/96/440/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs1
+[/us/pl/96/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440
 [/us/stat/94/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1879
 
 

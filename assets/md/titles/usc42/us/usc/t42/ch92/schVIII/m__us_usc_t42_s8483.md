@@ -17,7 +17,7 @@
 
     Copies of any report required by this chapter to be submitted to the Congress shall be separately submitted to the Committee on Interstate and Foreign Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
-([Pub. L. 95–620, title VIII, § 807][/us/pl/95/620/s807], Nov. 9, 1978, [92 Stat. 3348][/us/stat/92/3348].)
+([Pub. L. 95–620, title VIII][/us/pl/95/620/tVIII], § 807, Nov. 9, 1978, [92 Stat. 3348][/us/stat/92/3348].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/620/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs807
+[/us/pl/95/620/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVIII
 [/us/stat/92/3348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3348
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

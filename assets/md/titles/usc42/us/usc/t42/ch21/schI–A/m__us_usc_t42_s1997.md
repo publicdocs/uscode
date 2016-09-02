@@ -61,7 +61,7 @@
 
     (5) The term “legislative days” means any calendar day on which either House of Congress is in session.
 
-([Pub. L. 96–247, § 2][/us/pl/96/247/s2], May 23, 1980, [94 Stat. 349][/us/stat/94/349].)
+([Pub. L. 96–247][/us/pl/96/247], § 2, May 23, 1980, [94 Stat. 349][/us/stat/94/349].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–247, § 1][/us/pl/96/247/s1], May 23, 1980, [94 Stat. 349][/us/stat/94/349], provided: 
+[Pub. L. 96–247][/us/pl/96/247], § 1, May 23, 1980, [94 Stat. 349][/us/stat/94/349], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Civil Rights of Institutionalized Persons Act’.”
 
@@ -84,12 +84,12 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/96/247/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs2
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F349
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/96/247/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs1
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
 [/us/stat/94/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F349
 
 

@@ -79,7 +79,7 @@
 
                 The term “senior” has such meaning as specified by the Secretary.
 
-([Pub. L. 111–5, div. A, title XIII, § 13113][/us/pl/111/5/s13113], Feb. 17, 2009, [123 Stat. 243][/us/stat/123/243].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13113, Feb. 17, 2009, [123 Stat. 243][/us/stat/123/243].)
 
 ----------
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s13113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13113
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F243
 
 

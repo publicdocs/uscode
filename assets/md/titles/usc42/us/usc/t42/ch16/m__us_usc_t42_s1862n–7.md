@@ -63,7 +63,7 @@
 
             Within one year after December 19, 2002, the Director shall submit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate a report on recommendations on how the Foundation can improve funding to minority-serving institutions.
 
-([Pub. L. 107–368, § 18][/us/pl/107/368/s18], Dec. 19, 2002, [116 Stat. 3061][/us/stat/116/3061].)
+([Pub. L. 107–368][/us/pl/107/368], § 18, Dec. 19, 2002, [116 Stat. 3061][/us/stat/116/3061].)
 
  __Codification__ 
 
@@ -85,7 +85,7 @@
 ----------
 
 [/us/usc/t42/s1862g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862g
-[/us/pl/107/368/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs18
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3061
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4
 [/us/usc/t42/s1862n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n

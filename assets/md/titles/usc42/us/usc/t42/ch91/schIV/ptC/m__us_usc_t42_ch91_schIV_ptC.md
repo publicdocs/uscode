@@ -11,30 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIV/ptB/m__us_usc_t42_ch91_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIV/ptD/m__us_usc_t42_ch91_schIV_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch91%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIV/ptB/m__us_usc_t42_s8282...8282b.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIV/ptC/m__us_usc_t42_s8283 _us_usc_t42_s8283a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch91%2FschIV%2FptC)
 
 #### Part C—Utility Programs
 
-§§ 8283, 8283a. __Repealed.__  __[__  __Pub. L. 99–412, title II, § 201(a)__  __][/us/pl/99/412/s201/a]__  __,__  __Aug. 28, 1986__  __,__  __[__  __100 Stat. 943__  __][/us/stat/100/943]__ 
-
-    Section 8283, [Pub. L. 95–619, title VII, § 731][/us/pl/95/619/s731], as added [Pub. L. 96–294, title V, § 565][/us/pl/96/294/s565], June 30, 1980, [94 Stat. 756][/us/stat/94/756], related to general requirements for utility programs and requirements concerning accounting and payment of costs.
-
-    Section 8283a, [Pub. L. 95–619, title VII, § 732][/us/pl/95/619/s732], as added [Pub. L. 96–294, title V, § 565][/us/pl/96/294/s565], June 30, 1980, [94 Stat. 757][/us/stat/94/757], related to requirements for building heating supplier programs and waiver of such requirements.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIV/ptB/m__us_usc_t42_ch91_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIV/ptD/m__us_usc_t42_ch91_schIV_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch91%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIV/ptB/m__us_usc_t42_s8282...8282b.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIV/ptC/m__us_usc_t42_s8283 _us_usc_t42_s8283a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch91%2FschIV%2FptC)
 
 ----------
 ----------
 
-[/us/pl/99/412/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F412%2Fs201%2Fa
-[/us/stat/100/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F943
-[/us/pl/95/619/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs731
-[/us/pl/96/294/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs565
-[/us/stat/94/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F756
-[/us/pl/95/619/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs732
-[/us/pl/96/294/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs565
-[/us/stat/94/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F757
 
 

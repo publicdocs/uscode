@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, no payment for supportive services or reimbursement of out-of-pocket expenses made to persons serving pursuant to subchapter II of this chapter shall be subject to any tax or charge or be treated as wages or compensation for the purposes of unemployment, temporary disability, retirement, public assistance, workers’ compensation, or similar benefit payments, or minimum wage laws. This section shall become effective with respect to all payments made after October 1, 1973.
 
-([Pub. L. 93–113, title IV, § 418][/us/pl/93/113/s418], Oct. 1, 1973, [87 Stat. 413][/us/stat/87/413]; [Pub. L. 96–143, § 18(a)(2)][/us/pl/96/143/s18/a/2], Dec. 13, 1979, [93 Stat. 1083][/us/stat/93/1083]; [Pub. L. 98–288, § 24][/us/pl/98/288/s24], May 21, 1984, [98 Stat. 196][/us/stat/98/196].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 418, Oct. 1, 1973, [87 Stat. 413][/us/stat/87/413]; [Pub. L. 96–143][/us/pl/96/143], § 18(a)(2), Dec. 13, 1979, [93 Stat. 1083][/us/stat/93/1083]; [Pub. L. 98–288][/us/pl/98/288], § 24, May 21, 1984, [98 Stat. 196][/us/stat/98/196].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/93/113/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs418
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F413
-[/us/pl/96/143/s18/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs18%2Fa%2F2
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1083
-[/us/pl/98/288/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs24
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F196
 [/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143

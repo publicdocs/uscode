@@ -47,7 +47,7 @@
 
         Nothing in this section shall be construed as affecting any agreement, permit, or administrative or judicial order, or any condition or requirement contained in such an agreement, permit, or order, that is in existence on October 6, 1992, and that requires corrective action or closure at a federally owned treatment works or solid waste management unit or facility related to such a treatment works.
 
-([Pub. L. 89–272, title II, § 3023][/us/pl/89/272/s3023], as added [Pub. L. 102–386, title I, § 108(a)][/us/pl/102/386/s108/a], Oct. 6, 1992, [106 Stat. 1514][/us/stat/106/1514].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3023, as added [Pub. L. 102–386, title I][/us/pl/102/386/tI], § 108(a), Oct. 6, 1992, [106 Stat. 1514][/us/stat/106/1514].)
 
 ----------
 
@@ -62,8 +62,8 @@
 [/us/usc/t42/s6924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924
 [/us/usc/t42/s6924/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924%2Fm
 [/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
-[/us/pl/89/272/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3023
-[/us/pl/102/386/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs108%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1514
 
 

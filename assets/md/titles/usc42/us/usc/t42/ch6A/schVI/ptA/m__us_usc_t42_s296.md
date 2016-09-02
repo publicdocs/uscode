@@ -95,7 +95,7 @@
 
         The term “bridge or degree completion program” means a program of education in professional nursing offered by an accredited school of nursing, as defined in paragraph (2), that leads to a baccalaureate degree in nursing. Such programs may include, Registered Nurse (RN) to Bachelor’s of Science of Nursing (BSN) programs, RN to MSN (Master of Science of Nursing) programs, or BSN to Doctoral programs.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 801, as added [Pub. L. 105–392, title I, § 123(4)][/us/pl/105/392/s123/4], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562]; amended [Pub. L. 107–205, title I, § 101][/us/pl/107/205/s101], Aug. 1, 2002, [116 Stat. 811][/us/stat/116/811]; [Pub. L. 111–148, title V, § 5002(c)][/us/pl/111/148/s5002/c], Mar. 23, 2010, [124 Stat. 591][/us/stat/124/591].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 801, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 123(4), Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562]; amended [Pub. L. 107–205, title I][/us/pl/107/205/tI], § 101, Aug. 1, 2002, [116 Stat. 811][/us/stat/116/811]; [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5002(c), Mar. 23, 2010, [124 Stat. 591][/us/stat/124/591].)
 
  __References in Text__ 
 
@@ -103,19 +103,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 296, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 801 as added Sept. 4, 1964, [Pub. L. 88–581, § 2][/us/pl/88/581/s2], [78 Stat. 908][/us/stat/78/908]; amended Nov. 3, 1966, [Pub. L. 89–751, § 8(a)][/us/pl/89/751/s8/a], [80 Stat. 1236][/us/stat/80/1236]; Aug. 16, 1968, [Pub. L. 90–490, title II, § 201(a)][/us/pl/90/490/s201/a], [82 Stat. 780][/us/stat/82/780]; Nov. 18, 1971, [Pub. L. 92–158, § 2(a)][/us/pl/92/158/s2/a], [85 Stat. 465][/us/stat/85/465]; July 29, 1975, [Pub. L. 94–63, title IX][/us/pl/94/63], §§ 902(a), 910(a)(1), [89 Stat. 354][/us/stat/89/354], 355; Sept. 29, 1979, [Pub. L. 96–76, title I, § 102][/us/pl/96/76/s102], [93 Stat. 579][/us/stat/93/579], authorized appropriations for construction grants, prior to repeal by [Pub. L. 99–92][/us/pl/99/92], §§ 9(a)(1), 10(a), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], 402, effective Oct. 1, 1985.
+    A prior section 296, [act July 1, 1944, ch. 373, title VIII][/us/act/1944-07-01/ch373/tVIII], § 801 as added Sept. 4, 1964, [Pub. L. 88–581][/us/pl/88/581], § 2, [78 Stat. 908][/us/stat/78/908]; amended Nov. 3, 1966, [Pub. L. 89–751][/us/pl/89/751], § 8(a), [80 Stat. 1236][/us/stat/80/1236]; Aug. 16, 1968, [Pub. L. 90–490, title II][/us/pl/90/490/tII], § 201(a), [82 Stat. 780][/us/stat/82/780]; Nov. 18, 1971, [Pub. L. 92–158][/us/pl/92/158], § 2(a), [85 Stat. 465][/us/stat/85/465]; July 29, 1975, [Pub. L. 94–63, title IX][/us/pl/94/63/tIX], §§ 902(a), 910(a)(1), [89 Stat. 354][/us/stat/89/354], 355; Sept. 29, 1979, [Pub. L. 96–76, title I][/us/pl/96/76/tI], § 102, [93 Stat. 579][/us/stat/93/579], authorized appropriations for construction grants, prior to repeal by [Pub. L. 99–92][/us/pl/99/92], §§ 9(a)(1), 10(a), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], 402, effective Oct. 1, 1985.
 
  __Amendments__ 
 
-    2010—Par. (2). [Pub. L. 111–148, § 5002(c)(1)][/us/pl/111/148/s5002/c/1], substituted “means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—” for “means a collegiate, associate degree, or diploma school of nursing in a State.” and added subpars. (A) and (B).
+    2010—Par. (2). [Pub. L. 111–148][/us/pl/111/148], § 5002(c)(1), substituted “means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—” for “means a collegiate, associate degree, or diploma school of nursing in a State.” and added subpars. (A) and (B).
 
-    Pars. (16), (17). [Pub. L. 111–148, § 5002(c)(2)][/us/pl/111/148/s5002/c/2], added pars. (16) and (17).
+    Pars. (16), (17). [Pub. L. 111–148][/us/pl/111/148], § 5002(c)(2), added pars. (16) and (17).
 
     2002—Pars. (9) to (15). [Pub. L. 107–205][/us/pl/107/205] added pars. (9) to (15).
 
  __Savings Provision__ 
 
-[Pub. L. 105–392, title I, § 124][/us/pl/105/392/s124], Nov. 13, 1998, [112 Stat. 3574][/us/stat/112/3574], provided that: 
+[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 124, Nov. 13, 1998, [112 Stat. 3574][/us/stat/112/3574], provided that: 
 
 > “In the case of any authority for making awards of grants or contracts that is terminated by the amendment made by section 123 \[enacting sections 296, 296a to 296f, 296j, 296m, 296p, 297q, and 297t of this title, transferring [section 298b–2 of this title][/us/usc/t42/s298b–2] to [section 296g of this title][/us/usc/t42/s296g], and repealing sections 296k to 296m, 296r, 297, 297–1, 297c, 298, 298a, 298b, 298b–1, 298b–3 to 298b–5, and 298b–7 of this title\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
@@ -125,7 +125,7 @@
 
  __Reports by Government Accountability Office__ 
 
-[Pub. L. 107–205, title II, § 204][/us/pl/107/205/s204], Aug. 1, 2002, [116 Stat. 818][/us/stat/116/818], provided that:
+[Pub. L. 107–205, title II][/us/pl/107/205/tII], § 204, Aug. 1, 2002, [116 Stat. 818][/us/stat/116/818], provided that:
 
 >     “(a)  __National Variations__  __.—__ 
 
@@ -141,13 +141,13 @@
 
  __Purpose__ 
 
-[Pub. L. 105–392, title I, § 122][/us/pl/105/392/s122], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562], provided that: 
+[Pub. L. 105–392, title I][/us/pl/105/392/tI], § 122, Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562], provided that: 
 
 > “It is the purpose of this subtitle \[subtitle B (§§ 121–124) of title I of [Pub. L. 105–392][/us/pl/105/392], see Short Title of 1998 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] to restructure the nurse education authorities of title VIII of the Public Health Service Act \[[42 U.S.C. 296][/us/usc/t42/s296] et seq.\] to permit a comprehensive, flexible, and effective approach to Federal support for nursing workforce development.”
 
  __Information Respecting Supply and Distribution of and Requirements for Nurses; Determination Procedures; Surveys and Collection of Dates; Annual Report to Congress on Determinations, Etc.; Review by Office of Management and Budget of Report Prior to Submission__ 
 
-[Pub. L. 94–63, title IX, § 951][/us/pl/94/63/s951], July 29, 1975, [89 Stat. 367][/us/stat/89/367], as amended by [Pub. L. 95–623, § 12(h)][/us/pl/95/623/s12/h], Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457], provided that:
+[Pub. L. 94–63, title IX][/us/pl/94/63/tIX], § 951, July 29, 1975, [89 Stat. 367][/us/stat/89/367], as amended by [Pub. L. 95–623][/us/pl/95/623], § 12(h), Nov. 9, 1978, [92 Stat. 3457][/us/stat/92/3457], provided that:
 
 >     “(a)
 
@@ -207,50 +207,50 @@
 [/us/usc/t42/s1395x/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa%2F2
 [/us/usc/t42/s1395i–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s123/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F4
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
-[/us/pl/107/205/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs101
+[/us/pl/107/205/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2FtI
 [/us/stat/116/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F811
-[/us/pl/111/148/s5002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fc
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F591
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/581/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581%2Fs2
+[/us/act/1944-07-01/ch373/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVIII
+[/us/pl/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F581
 [/us/stat/78/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F908
-[/us/pl/89/751/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F751%2Fs8%2Fa
+[/us/pl/89/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F751
 [/us/stat/80/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1236
-[/us/pl/90/490/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs201%2Fa
+[/us/pl/90/490/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtII
 [/us/stat/82/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F780
-[/us/pl/92/158/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F158%2Fs2%2Fa
+[/us/pl/92/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F158
 [/us/stat/85/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F465
-[/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
+[/us/pl/94/63/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtIX
 [/us/stat/89/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F354
-[/us/pl/96/76/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs102
+[/us/pl/96/76/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtI
 [/us/stat/93/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F579
 [/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F400
-[/us/pl/111/148/s5002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fc%2F1
-[/us/pl/111/148/s5002/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fc%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205
-[/us/pl/105/392/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs124
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3574
 [/us/usc/t42/s298b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298b%E2%80%932
 [/us/usc/t42/s296g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296g
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/107/205/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2Fs204
+[/us/pl/107/205/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F205%2FtII
 [/us/stat/116/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F818
 [/us/usc/t42/s297n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297n
 [/us/usc/t42/s297n/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs297n%2Fd
-[/us/pl/105/392/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs122
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296
-[/us/pl/94/63/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs951
+[/us/pl/94/63/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtIX
 [/us/stat/89/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F367
-[/us/pl/95/623/s12/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs12%2Fh
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3457
 
 

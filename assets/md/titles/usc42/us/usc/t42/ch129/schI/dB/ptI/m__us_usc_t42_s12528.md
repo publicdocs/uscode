@@ -39,7 +39,7 @@
 
         The Chief Executive Officer may waive the requirements of subsection (a) in whole or in part with respect to any such program for any fiscal year, on a determination that such a waiver would be equitable due to a lack of resources at the local level.
 
-([Pub. L. 101–610, title I, § 116][/us/pl/101/610/s116], as added [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1473][/us/stat/123/1473].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 116, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1201, Apr. 21, 2009, [123 Stat. 1473][/us/stat/123/1473].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 12528, [Pub. L. 101–610, title I, § 115A][/us/pl/101/610/s115A], as added [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], Sept. 21, 1993, [107 Stat. 831][/us/stat/107/831]; amended [Pub. L. 103–382, title III, § 394(h)(3)][/us/pl/103/382/s394/h/3], Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028], related to participation of students and teachers from private schools, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
+    A prior section 12528, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 115A, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(a)(2), Sept. 21, 1993, [107 Stat. 831][/us/stat/107/831]; amended [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 394(h)(3), Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028], related to participation of students and teachers from private schools, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
 
     A prior [section 116 of Pub. L. 101–610][/us/pl/101/610/s116] was classified to [section 12529 of this title][/us/usc/t42/s12529] prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
 
@@ -65,8 +65,8 @@
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/101/610/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs116
-[/us/pl/111/13/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1201
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1473
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
@@ -74,10 +74,10 @@
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/101/610/s115A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs115A
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F831
-[/us/pl/103/382/s394/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Fh%2F3
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4028
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/101/610/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs116

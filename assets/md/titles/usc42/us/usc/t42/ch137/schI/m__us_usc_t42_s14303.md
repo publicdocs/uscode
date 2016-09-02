@@ -17,7 +17,7 @@
 
     The Administrator shall, in consultation with representatives of rechargeable battery manufacturers, rechargeable consumer product manufacturers, and retailers, establish a program to provide information to the public concerning the proper handling and disposal of used regulated batteries and rechargeable consumer products with nonremovable batteries.
 
-([Pub. L. 104–142, § 4][/us/pl/104/142/s4], May 13, 1996, [110 Stat. 1330][/us/stat/110/1330].)
+([Pub. L. 104–142][/us/pl/104/142], § 4, May 13, 1996, [110 Stat. 1330][/us/stat/110/1330].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs4
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1330
 
 
